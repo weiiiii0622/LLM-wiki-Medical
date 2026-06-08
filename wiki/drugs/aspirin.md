@@ -1,0 +1,62 @@
+---
+type: drug
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book1-ch02]]"
+  - "[[sources/med3-book1-ch15]]"
+  - "[[sources/med3-book1-ch01]]"
+  - "[[sources/med3-book1-ch08]]"
+  - "[[sources/med3-book1-ch04]]"
+  - "[[sources/med3-book1-ch22]]"
+aliases:
+  - 'Aspirin (阿斯匹靈)'
+  - 'Aspirin'
+  - '阿斯匹靈'
+tags:
+  - medicine
+  - drug
+  - auto-topic-node
+---
+
+# Aspirin (阿斯匹靈)
+
+## Summary
+
+抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+
+## Source Coverage
+
+- [[sources/med3-book1-ch02]]
+- [[sources/med3-book1-ch15]]
+- [[sources/med3-book1-ch01]]
+- [[sources/med3-book1-ch08]]
+- [[sources/med3-book1-ch04]]
+- [[sources/med3-book1-ch22]]
+
+## Key Details From Sources
+
+- (2) 抗血小板藥物方面:Stable angina 會使用 Aspirin,而 ACS 病患會加上 Clopidogrel (Dual antiplatlet),針對高危險病患(血管造影下血栓量多)甚至會再加 GP IIb/ IIIa inhibitor (Triple antiplatlet)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
+- b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
+- ...時後再追蹤一次心電圖、酵素,轉為有變化者,需住院治療。 - b. 臨床上常使用 TIMI risk score for UA/NSTEMI: (口訣: AACC+3) - (a) A : age $> 65 \circ$ - (b) A: aspirin used in past 7 days • - (c) C: CAD (> 50% stenosis) • - (d) C: CAD risk factor > 3 ° - (e) 3:診斷心肌梗塞三項表準→ angina, EKG, cardiac enzyme。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
+- (2) 對 aspirin sensitive asthma 特別有效。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
+- 1. Aspirin induced asthma: Aspirin 及一些 NSAID 也會造成氣喘,通常由 perennial vasomotor rhinitis 開始,再產生 nasal polyp,最後造成氣喘。用 Leukotriene modifier 效果好。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
+- (B) 14. 一位 46 歲女性 Asthma 病患,平日使用 MDI combination therapy 控制,每個星期仍會有一次至二次的發作。本次因為壓力型頭痛(tension headache)在開業醫師處就診,醫師給予 Aspirin,病人服用後發生臉部潮紅、流鼻水及呼吸困難加劇的症狀。下列敘述何者錯誤? Source: [[sources/med3-book1-ch15|乙、氣喘]].
+- (D) 4.56 歲女性因三週前出現胸痛而診斷急性心肌梗塞,接受了血栓溶解劑治療後出院。最近二天因為覺得很喘經由門診住院。病人表示她很規則地服用醫師開立的藥物,包含 atorvastatin,lisinopril,metoprolol,aspirin。身體診察血壓 100/45 毫米汞柱,心跳每分鐘46 次,雙側肺部有囉音(bilateral crackles),頸靜脈怒張,雙側下肢水腫,沒有出現新的心雜音或奔馬音(gallop)。心電圖有竇性心搏過緩,呈現近期的心肌梗塞,但沒有出現新的變化。下列處置何者正確? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
+- | 分數 | 風險 | 用藥 | 備 註 | |-------|----------|---------------|----------------------------------------------| | 0 | Low | Aspirin | Aspirin daily | | 1~2 | Moderate | Aspirin | Aspirin daily or raise INR to 2.0-3.0 | | 1~2 | Moderate | 或 Warfarin | (若有 Prior Stroke or TIA,建議選擇 Warfarin) | | 3~6 H | High | High Warfarin | Raise INR to 2.0-3.0, unle Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
+- (D) 使用 Aspirin 預防腦中風尚未定論 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
+- 【詳解】根據(麻 1-23),MVP 的治療分三項:(1) 若有 audible murmur 或 thickened leaflets 需給予心內膜炎防治處置,(2) 若之前有 neurologic event 需給予 aspirin 或 anticoagulant,(3) 若有症狀可給予 ß blocker。所以(B) 錯。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

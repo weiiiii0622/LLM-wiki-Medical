@@ -2,32 +2,26 @@
 type: overview
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-08
 sources: []
 tags:
   - medicine
-  - overview
 ---
 
-# Overview
+# Medical Wiki Overview
 
-This is the top-level synthesis page for the medical wiki.
+此 vault 採 LLM Wiki 模式：`raw/` 是 immutable source，`wiki/` 是 Codex 維護的知識圖譜。
 
 ## Current Scope
 
-No medical sources have been ingested yet. This vault is ready to receive books, chapters, guidelines, papers, articles, notes, and local images.
+- 已 ingest textbook: `醫(三)第1冊心胸內`
+- Chapter source summaries: 24
+- Topic-first nodes: 151
 
-## Working Model
+## Graph Shape
 
-- `raw/` is the immutable source layer.
-- `wiki/sources/` records source summaries.
-- Topic directories hold compiled, cross-linked knowledge.
-- `wiki/index.md` is the navigation layer.
-- `wiki/log.md` is the chronological memory.
+Source pages 只作 citation anchors。主要查詢入口應使用 topic nodes：conditions、drugs、diagnostics、procedures、guidelines、physiology、anatomy、concepts。
 
-## Open Questions
+## Safety Note
 
-- Which medical domain should be prioritized first?
-- Should books be ingested chapter-by-chapter or section-by-section?
-- Should source summaries track page numbers, chapter sections, or both?
-
+此 vault 是讀書與知識管理工具，不是 clinical decision system。涉及 current guideline、drug dosing、禁忌、孕哺、兒科、renal/hepatic adjustment 或急症處置時，需再查官方最新版來源。

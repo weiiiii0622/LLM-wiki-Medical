@@ -1,0 +1,53 @@
+---
+type: condition
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book1-ch08]]"
+  - "[[sources/med3-book1-ch02]]"
+  - "[[sources/med3-book1-ch11]]"
+aliases:
+  - 'Mitral regurgitation (二尖瓣逆流)'
+  - 'Mitral regurgitation'
+  - '二尖瓣逆流'
+tags:
+  - medicine
+  - condition
+  - auto-topic-node
+---
+
+# Mitral regurgitation (二尖瓣逆流)
+
+## Summary
+
+收縮期逆流造成左心房與左心室容量負荷。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+
+## Source Coverage
+
+- [[sources/med3-book1-ch08]]
+- [[sources/med3-book1-ch02]]
+- [[sources/med3-book1-ch11]]
+
+## Key Details From Sources
+
+- G. 僧帽瓣逆流 (Mitral regurgitation, MR) 138 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
+- (2) 心搏過慢 (Long PR interval)→左心室血增加→左心室壓力上升慢→聲音愈柔 (Softer); MR 也因瓣膜結構問題,導致 S₁ 聲音較柔 (Softer)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
+- (1) Pressure gradient 愈大(AS, AR, MR), 聲音愈高音(Higher pitch)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
+- c. 機械性併發症: Free wall rupture, ventricular septal rupture (VSD), papillary muscle rupture (ischemic MR) 需外科介入,預後差。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
+- (D) 二尖瓣閉鎖不全 (Mitral regurgitation) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
+- 【詳解】(A) AS 慢慢地造成左心室外流阻塞,心臟藉由心肌肥大來代償,使晚期心肌耗氧增加,但冠狀動脈供氧無等比例上升而造成心肌缺氧。(台 293) (B) 因為主動脈瓣關閉時,Aorta 的血才能流入冠狀動脈,AR 時血就流回左心室,流入冠狀動脈的血變少。(參考台 295) (C) 原因似 AS。(D) MR 較少見肺積水,而常因低心輸出量引起的慢性倦怠為較顯著症狀。(台 291) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
+- (B) 二尖瓣閉鎖不全 (mitral regurgitation) Source: [[sources/med3-book1-ch11|辛、心包疾病]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

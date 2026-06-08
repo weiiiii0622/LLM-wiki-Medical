@@ -1,0 +1,51 @@
+---
+type: physiology
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book1-ch22]]"
+  - "[[sources/med3-book1-ch14]]"
+  - "[[sources/med3-book1-ch23]]"
+aliases:
+  - 'Ventilation-perfusion matching, V/Q (通氣灌流匹配)'
+  - 'Ventilation-perfusion matching, V/Q'
+  - '通氣灌流匹配'
+tags:
+  - medicine
+  - physiology
+  - auto-topic-node
+---
+
+# Ventilation-perfusion matching, V/Q (通氣灌流匹配)
+
+## Summary
+
+低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+
+## Source Coverage
+
+- [[sources/med3-book1-ch22]]
+- [[sources/med3-book1-ch14]]
+- [[sources/med3-book1-ch23]]
+
+## Key Details From Sources
+
+- ...尖、指甲床、四肢) | | 症狀 | 會喘、四肢溫暖、clubbing fingers、動脈血氧 (ABG) 低 | 不會喘、四肢冷、動脈血氧 (ABG) 正常 | | 病因 | 動脈氧不足:高緯度,肺部疾病 VQ mismatch,解剖 shunt ( 發紺型先天性 心臟病,如 Fallot 四重症等 ) 血紅素異常:變性血紅素 | | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
+- ...\times Pa_{CO2} = 150$ | − 1.25×Pa CO2 | | $PA_{O2} - Pa_{O2}$ | PA 02 — Pa 02 正常人 (Hypovia) | A-a gradient 異常 | 不可校正→ Shunt | 局部肺塌陷、肺炎 | | (Hypoxia) | A-a gradient 美吊 | 可校正→ V/Q mismatch | 最廣泛 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
+- ...併呼吸衰竭 106(一)專 (B) 3. COPD 患者休息狀態時,動脈血已出現缺氧現象,該病患較不可能 因 COPD 而出現下列那一項呼吸生理的障礙? 醫三-46 (A) 第一秒吐氣量 (FEV,) 低於預期值的 50% (B) 分流 (shunt) 增加 (C) 換氣 / 灌流失衡 (ventilation/perfusion mismatching) (D) 第一秒吐氣量(FEV1)低於預期值的25%時,可能同時伴有動 脈血中二氧化碳升高(PaCO,) 【詳解】(B)分流(shunt)增加發生於肺炎等無法進行氧氣交換的 區域。 105(二)專 (D) 4. 下列有關呼吸衰竭 (respiratory failure) 之敘述,何者錯誤? (A) 一般以動脈血中的氣體(如氧氣、 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
+- ...義:肺功能檢查有不可逆的氣道阻塞證據,post bronchodilator FEV1/FVC 3月/1年*2年 | 病理上:小氣道擴張,肺泡壁破壞 | | حلالتك | Severe hypoxemia, Hypercapnia, V/Q mismatch | Mild hypoxemia | | 症狀 | Pul. HTN, Cor pulmonale (EKG: RVH) | DLCO ↓ | | 呼吸音 | Wheezing | Diminished breath sounds | | 口訣 | Blue bloater(Blue 是因為較 cyanotic, Bloater | Pink puffer (Pink 是因為 Non-cyanotic, | | | Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
+- ...者錯誤? (A) triglyceride >110 mg/dL (B) lymphangioleiomyomatosis 可造成乳糜胸 (C) 大量乳糜胸造成症狀時病患應長期引流 (D) 無法控制時可用 pleuroperitoneal shunt 治療 | 101(二)專醫三-47 | | (A) | 11. 一位 50 歲男性患者,因持續性左胸痛 2 天而前來就診,其左胸痛隨患者深吸氣而更痛,患者最有可能罹患下列何種疾病?(A) 結核性肋膜炎(C) 撕裂性主動脈瘤(D) 間質性肺病 | 101(一)專醫三-41 | | (A) | 12. 一位 60 歲男性病人,因發燒,右側胸痛而住院。胸部 X 光顯示有少量右側肋膜腔積水,抽水檢查顯示其為 exudate,WBC:8,800 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

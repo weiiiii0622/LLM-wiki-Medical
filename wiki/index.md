@@ -2,7 +2,7 @@
 type: index
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-08
 sources: []
 tags:
   - medicine
@@ -20,39 +20,18 @@ Content catalog for this medical LLM wiki. Update this file on every ingest, dur
 
 ## Sources
 
-- [[sources/index]] - Source summaries catalog.
+- [[sources/index]] - Source summaries catalog for `醫(三)第1冊心胸內`.
 
-## Concepts
+## Topic Categories
 
-- [[concepts/index]] - Mechanisms, definitions, and frameworks.
-
-## Conditions
-
-- [[conditions/index]] - Diseases and syndromes.
-
-## Drugs
-
-- [[drugs/index]] - Medications, drug classes, mechanisms, contraindications, and monitoring.
-
-## Anatomy
-
-- [[anatomy/index]] - Organs, structures, and anatomical regions.
-
-## Physiology
-
-- [[physiology/index]] - Normal function, pathways, homeostasis, and systems physiology.
-
-## Diagnostics
-
-- [[diagnostics/index]] - Labs, imaging, criteria, scoring systems, and test interpretation.
-
-## Procedures
-
-- [[procedures/index]] - Clinical procedures, operations, interventions, and workflows.
-
-## Guidelines
-
-- [[guidelines/index]] - Guideline pages and comparisons.
+- [[conditions/index|Conditions]] - 73 topic pages
+- [[drugs/index|Drugs]] - 22 topic pages
+- [[diagnostics/index|Diagnostics]] - 18 topic pages
+- [[procedures/index|Procedures]] - 12 topic pages
+- [[guidelines/index|Guidelines]] - 7 topic pages
+- [[physiology/index|Physiology]] - 7 topic pages
+- [[anatomy/index|Anatomy]] - 4 topic pages
+- [[concepts/index|Concepts]] - 8 topic pages
 
 ## Questions
 
@@ -60,6 +39,5 @@ Content catalog for this medical LLM wiki. Update this file on every ingest, dur
 
 ## Maintenance Notes
 
-- No sources ingested yet.
-- Add source files under `raw/`, then ask Codex to ingest them one at a time or by chapter.
-
+- First textbook ingested topic-first on 2026-06-08: `醫(三)第1冊心胸內`.
+- Topic nodes are organized by medical entity or concept, not chapter title. Source chapter pages remain only as citation anchors.

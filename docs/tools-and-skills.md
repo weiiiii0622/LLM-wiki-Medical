@@ -1,6 +1,6 @@
 # Tools and Skills for Future Codex Sessions
 
-This vault uses plain markdown plus Obsidian. No custom tool is required.
+This vault uses plain markdown plus Obsidian. `tools/ingest_topic_book.py` is the reusable deterministic ingest helper for chapter-split textbooks.
 
 ## Required Habits
 
@@ -42,3 +42,25 @@ For high-stakes or current claims, prefer:
 
 Do not treat old notes or unsourced summaries as final authority.
 
+## Textbook Ingest Tool
+
+Use this when a textbook folder under `raw/books/md/` contains one full-book markdown file plus chapter-split markdown files.
+
+```bash
+python3 tools/ingest_topic_book.py '醫(三)第1冊心胸內' --book-key med3-book1
+```
+
+What it does:
+
+- Reads only chapter-split `.md` files and ignores the full-book `.md`.
+- Creates one source summary per chapter under `wiki/sources/`.
+- Creates topic-first nodes under `wiki/conditions/`, `wiki/drugs/`, `wiki/diagnostics/`, `wiki/procedures/`, `wiki/guidelines/`, `wiki/physiology/`, `wiki/anatomy/`, and `wiki/concepts/`.
+- Uses source pages as citation anchors; chapter titles should not become the main graph shape.
+- Updates `wiki/index.md`, `wiki/sources/index.md`, category indexes, `wiki/overview.md`, and `wiki/log.md`.
+- Writes a health-check file under `docs/`.
+
+Style rules for generated content:
+
+- Body content should be Mandarin-first.
+- Medical terms should include English when available, especially in page titles and aliases.
+- Any dosing, contraindication, pregnancy/lactation, renal/hepatic adjustment, emergency care, or current guideline claim needs official current verification before clinical use.
