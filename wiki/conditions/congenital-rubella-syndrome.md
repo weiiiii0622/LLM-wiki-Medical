@@ -9,6 +9,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Congenital rubella syndrome (先天性德國麻疹症候群)'
   - 'Congenital rubella syndrome'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-孕期 rubella 感染造成白內障、PDA/肺動脈狹窄、聽損與發育問題。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+孕期 rubella 感染造成白內障、PDA/肺動脈狹窄、聽損與發育問題。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...ester 中感染病毒有機會造成 fetal varicella syndrome: limb hypoplasia、muscular atrophy、skin scarring、cortical atrophy、microcephaly、cataract formation、rudimentary digits。 - ii. 生產前四天內感染水痘,則有15%的新生兒會發生嚴重性水痘感染。 通常新生兒在出生後兩星期內發病,其症狀包括全身性水痘和中樞神 經系統病變,有兩到三成的死亡率。 - (g) 免疫不全患者:易併發肝炎、肺炎、腦癌和血小板減少症,死亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated ac Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (4) 併發症:因反覆抓癢導致金黃色葡萄球菌或疱疹病毒(eczema herpeticum) 感染。少數會有錐形角膜(keratoconus)、白內障(cataracts)或角膜結膜炎(keratoconjunctivitis)。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...s | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosis, deafness and thrombocytopenia. | | | CMV | Microcephaly with periventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) congenital rubella syndrome Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 【詳解】由腦室周圍鈣化、聽力篩檢異常兩個線索告訴我們病人有 congenital cytomegalovirus, infection,故選 (D)。(A) 的特殊表現為胎兒水腫與貧血。(B) 雖然有耳聾的表現,但是在其他神經學方面表現異常為小頭症、智能障礙、癲癇等,在腦部超音波檢查未有腦室周邊鈣化或是腦室擴大。此外,先天性德國麻疹感染其他特殊的表現有視網膜病變、白內障以及肺動脈狹窄。(C) 在神經學上的表現為腦炎、小頭症、智能障礙。 Source: [[sources/med4-book1-ch11|子、新生兒科]].

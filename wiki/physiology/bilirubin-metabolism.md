@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Bilirubin metabolism (膽紅素代謝)'
   - 'Bilirubin metabolism'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- 3. 臨床症狀: - (1) 皮膚起紅疹,伴隨癢感或疼痛感。經常從手腳開始發病,並且擴散到腹部、胸部以及上半背的部分。 - (2) 腸胃道症狀:腹瀉、失去胃口、噁心、嘔吐甚至會導致腸胃道出血的情況。 - (3) 高膽紅素、高量的鹼性磷酸鹽,甚至也會造成肝臟衰竭。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 先天性膽道閉鎖臨床上會有 cholestasis。但是引起 cholestasis 原因如下圖所示。 Cholestasis 定義為 prolong elevation of the serial conjugated bilirubin beyond the 1st 14 days of life。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 1. 喝母乳的寶寶, 黃疸可能持續到 2~3 個月才完全消退,如果 寶寶大便 顏色為大便卡(參閱第 20 頁)之 1~6 的不正常顏 色,或者是滿月後仍有黃疸,應請教兒科醫師或家醫科醫師 確定黃疸的原因,並抽血檢驗直接型膽紅素值。而在此同 時,仍然可持續哺餵母乳。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 膽紅素沉積在新生兒皮膚表面上造成膚色外觀呈現黃色狀態。一般而言生理性黃 疸在出生後 2~3 天出現,出生後 4~5 天可以達到高峰,之後黃疸逐漸消退。但是若出 生 48 小時內出現黃疸,或是膽紅素值達到照光標準,則為病理性黃疸,必須積極處理。 若不積極處理,膽紅素經血液流至中樞神經沉積在基底核造成核黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -74,7 +77,6 @@ tags:
 - ...x hormone、Erythromycin)造成 intrahepatic cholestasis。理由是當敗血症等狀況使 肝臟負荷量過大時,因為 excretion 功能最耗能,所以就會最先出現問題,導致 cholestasis,而有 conjugated bilirubin 上升;另外,一些藥物引起的藥物性肝炎也 特別會使排泄膽汁的功能受損,導致 cholestasis。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
 - ...---------|-----------------------|---------------------------|-----------------------------------------------|------| | Unconjugated | Overproduction | Hemoglobulinuria →紅棕色尿 | Hemolysis | | | _ | Defective conjugation | Indirect bilirubin → 止室色尿 | G ilbert'sC rigler-Najjar | U-GC | | Conjugated( D irect) 為主 | Defective excretion | Bilirubinuria →褐黃色 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
 - ...lestasis | No | No | | Serum y-GT | Normal | Normal | | Serum bile acids | Normal | Normal | | Clinical features | Mild conjugated hyperbilirubinemia; otherwise normal liver function; dark pigment in liver; characteristic pattern of urinary coproporphyrins | Mild conjugated hyperbilirubinemia; otherwise normal liver function; liver without abnormal Source: [[sources/med3-book2-ch19|乙、黃 疸]].
-- ...住院時血壓 140/80 95(二)專 mmHg, 脈搏每分鐘 92次。抽血檢查白血球 15,900/μl, 血紅素為 內 2-17 16.6 g/dL, 血小板 198,000/μl, AST 30 IU/L, ALT 24 IU/L, 膽紅素 為 0.1 mg/dL, 澱粉酶 559 IU/L, 脂肪酶 2,935 IU/L。下列何者為此 病人之最佳診斷? (A) 急性心肌梗塞 (B) 急性胰臟炎 (C) 急性膽囊炎 (D) 十二指腸潰瘍 Source: [[sources/med3-book2-ch03|乙、腹痛]].
 
 ## Clinical Caveats
 

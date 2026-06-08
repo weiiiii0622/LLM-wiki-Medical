@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Sickle cell disease (鐮刀型貧血)'
   - 'Sickle cell disease'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-HbS 聚合造成溶血、血管阻塞危象、感染與器官損傷。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HbS 聚合造成溶血、血管阻塞危象、感染與器官損傷。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ HbS 聚合造成溶血、血管阻塞危象、感染與器官損傷。 本頁已
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Ⅱ. 血紅素疾病 349 - A. 鐮刀型貧血 349 - B. 地中海型貧血 349 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 1. 病生理學:慢性溶血性貧血。因在第 11 對染色體上 β-globin gene 的 GTG 取代 GAG。 HbS 在去氧時會聚合成新月型。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 2. HbS 在通過為血管時較不容易變形,容易阻塞血管。 Source: [[sources/med4-book1-ch08|辛、血液學]].

@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Rubella (德國麻疹)'
   - 'Rubella'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-通常較輕微，但孕期感染可造成 congenital rubella syndrome。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+通常較輕微，但孕期感染可造成 congenital rubella syndrome。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- 補充:於二十世紀初,為方便辨別而將好發於孩童的皮膚疹予以編號,總共編了六號: - First disease 為麻疹 (Measles)。 - Second disease 為猩紅熱 (Scarlet fever)。 - Third disease 為德國麻疹(Rubella)。 - Fourth disease 為 Filatow-Dukes' disease,該病目前已除名,此病為某些會長疹子的疾病之共同表現。 - Fifth disease 為傳染性紅斑(Erythema infectiosum)。 - Sixth disease 為嬰兒玫瑰疹(Roseola infantum)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 3. 當皮疹出現後,先前的前驅症狀就開始逐漸消退。出疹後約一週皮疹也開始消退, 也是從頭部開始消退,再來是驅幹及四肢。與德國麻疹不同的地方在於麻疹有時會 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 留下細微的脫皮,德國麻疹不會有脫皮現象。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - # XII. 德國麻疹(Rubella) Source: [[sources/med4-book1-ch04|丁、感染科學]].

@@ -28,6 +28,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Hepatitis B (B 型肝炎)'
   - 'Hepatitis B'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,11 @@ HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - ...(HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Enterovirus | Sepsis, DIC, hepatitis, myocarditis and meningoencephalitis. | | | Varicella zostervirus (VZV) | Cicatricial Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (4) B 型肝炎:HBs-Ag、HBs-Ab、HBc-Ag、HBc-Ab、liver enzymes and bilirubin。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) B 型肝炎病毒 (Hepatitis B virus) Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -90,7 +93,6 @@ HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已
 - (B) Hepatitis B virus: hepatoma Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - (1) 類似 SLE, **HBV** 相關的結節狀多發性動脈炎(PAN)、**HCV** 相關的冷凝球蛋白血症(Cryoglobulinemia)、過敏性紫斑(Henoch-Schönlein Purpura)等,都是 IC 沉積於血管上,最後導致血管炎。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (1) 流病:好發於 50 歲男性,30% 病患合併 **HBV** 感染。[Arteritis =血管炎不侵犯靜脈,僅侵犯動脈; Nodosa = 可能有皮膚結節等表現。] Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...- e. 神經病變 (Mononeuropathy or polyneuropathy) - f. 高血壓:舒張壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 

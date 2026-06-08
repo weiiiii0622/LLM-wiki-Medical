@@ -46,6 +46,11 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Diabetes mellitus (糖尿病)'
   - 'Diabetes mellitus'
@@ -60,7 +65,7 @@ tags:
 
 ## Summary
 
-慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -106,9 +111,22 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch08]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- (3) 常見於孩童。危險因子為蚊蟲叮咬、長期皮膚局部塗抹類固醇、DM 病人的傷口、老年人、士兵和酗酒等免疫力低下者。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (4) 危險因子: DM、肥胖、衛生不佳、immunocompromised。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (C) 6.45 歲女性糖尿病患,3天前於右側額部出現叢集樣水疱(grouped 105(二)專 vesicles)合併紅斑,同側鼻尖亦出現數個水疱,下列何者為最需 醫四-40 要之檢查? - (A) 皮膚劃紋反應(dermatographism) - (B) KOH 鏡檢 - (C) 眼科檢查 - (D) 伍氏燈檢查 (Wood's light examination) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) 11.65 歲糖尿病男性患者,數週前先於口腔出現水泡,之後在軀幹、 98(-)專 四肢陸續出現許多大水泡(如圖 A)。皮膚組織病理(圖 B), 醫四-43 與直接免疫螢光檢查(direct immunofluorescence test)(圖 C), Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- (D) 糖尿病性水泡 (diabetic bullae) Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- (B) 5. 一位 75 歲男性,沒有糖尿病,但雙下肢皆有靜脈曲張(varicose 109( - ) 專 vein ),下肢水腫的情形有多年,至急診主訴雙下肢癢和紅腫,並 醫四 -77 有傷口癒合不良的情形,如圖,下列敘述何者錯誤? Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (A) insulin-resistant diabetes mellitus Source: [[sources/med4-book2-ch11|子、其 他]].
 - V. 兒童糖尿病 ( Diabetes Mellitus in Children ) 291 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - #### 1. Type 1 diabetes mellitus: Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (1) 又稱為胰島素依賴型糖尿病 (insulin-dependent diabetes mellitus, IDDM)、幼年型糖尿病 (juvenile diabetes mellitus)。由於自體免疫造成胰臟 β 細胞被破壞。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -119,14 +137,6 @@ tags:
 - (1) 產前評估: - a. Lecithin-sphingomyelin (L/S) ratio: 當 L/S ratio > 2.0 時,在 28~32 週出生的新生兒發生 RDS 機率小於 5%。但母親為糖尿病患者的新生兒為例外。 - b. Desaturated phosphatidylcholine (DSPC) concentration: 當 DSPC 濃度 > 500 mg/dL 時肺部未成熟機率低於 1%。 - c. 針對母親為糖尿病患者的新生兒,L/S ratio 與 DSPC 濃度評估要求標準較高 (L/S ratio > 3.5,DSPC 濃度 $> 1,000 \, \mu \text{g/dL}$ )。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (2) 母親若有氣喘、糖尿病,則新生兒發生機率提高。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 2. Diabetes mellitus Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (A) 第1型糖尿病 (type I diabetes mellitus) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- (4) Insulin-dependent diabetes mellitus: Tc 細胞攻擊蘭氏小島內的 β 細胞,導致胰島素分泌減少,造成高血糖。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- ...isease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- ...於正常值 500 倍,下列何種併發 | 醫三-5 | | | 症與長期輸血無關? | | | | (A) 心肌病變(cardiomyopathy) | | | | (B) 肝硬化 (liver cirrhosis) | | | | (C) 糖尿病 (diabetes mellitus) | | | | (D) 白內障 (cataract) | | | (B) 1 | 9. 在有慢性溶血疾病的病人,下列何種病毒感染會導致暫時性的再生 | 102(二)專 | | (-, | 不良性貧血(transient aplastic crisis)? | 醫三 -38 | | | (A) human immunodeficiency virus (HIV) | | | | (B) Parvo Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...病常可能合併關節病變,下列相關敘述何者正確? (A) hypertrophic osteoarthropathy 與肺癌(lung cancer)有關 (B) pigmented villonodular synovitis (PVNS)與糖尿病(diabetes mellitus)有關 (C) hemophilic arthropathy 與慢性腎臟病(chronic kidney disease)有關 (D) neuropathic joint disease 與 carpal tunnel syndrome 有關 | 108(二)專醫三-29 | |-----|-------------------------------------------------------- Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- D. 皮肌炎 / 多肌炎 (Dermatomyositis/Polymyositis, DM/PM) 41 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- 硬皮症 (Systemic scleroderma, SSc): SSc、DM 可能混合出現 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- 皮肌炎 (Dermatomyositis, DM): SSc、DM 可能混合出現 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

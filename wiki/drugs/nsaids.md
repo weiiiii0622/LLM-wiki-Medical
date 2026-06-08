@@ -18,6 +18,9 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'NSAIDs (非類固醇消炎藥)'
   - 'NSAIDs'
@@ -32,7 +35,7 @@ tags:
 
 ## Summary
 
-抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +53,17 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch06]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- 4. 常見引起固定性藥物疹之藥物為 Tetracyclines、NSAID、磺胺類藥物 (sulfadrugs)、Aspirin、Barbiturates。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
+- 6. 治療:一般給予支持性療法,給予 Aspirin、NSAID、口服或局部注射類固醇、臥床抬腿、穿彈性襪皆有不錯效果。如果是潛在病因或感染源所造成,則優先處裡,給予抗生素治療。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
+- 【詳解】(A)是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B)為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C)為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D)為NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
+- (4) 奎寧(Hydroxychloroquine):對於皮膚紅疹、無法被 NSAID 控制的關節疼痛 有效。長期使用可減少 SLE 復發及對腎臟、中樞神經的侵犯。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...osine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C) 為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D) 為 NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (1) 內科治療:臨床上有症狀的早產兒,先限制水分攝取,必要時考慮利尿劑使用。 若無效則注射 indomethacin 或 ibuprofen 促使 PDA 關閉。對於小的 PDA 或是沒 有症狀的早產兒,一般先觀察,因為有可能自然關閉。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 適合接受何種治療? 醫四 -23 - (A) 注射腎上腺素 (epinephrine) - (B) 給予氧氣 - (C) 給予抗組織胺 - (D) 給予非類固醇抗發炎劑(NSAID) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 5. 治療:治療 Bartter syndrome 病人,最重要在於預防脫水狀態以及矯正低血鉀 (用高劑量 KCl 同時治療低血氯問題)。藥物治療方面,使用 indomethacin (a prostaglandin inhibitor)。只要照顧得當,大部分的 Bartter syndrome 病人預後算是良好的;極少數病人會走向慢性腎衰竭。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -66,10 +77,6 @@ tags:
 - (C) 對非類固醇類抗發炎藥無效之疼痛,可給予 meperidine (Demerol) Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - 選項(B): 非類固醇類抗發炎藥對於神經痛效果不佳,可採用 Phenytoin或 Carbamazepine 類藥物。 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - | 藥物 | 機制 | 備註 | |----------------|-------------------------------|----------------------------------------------| | | 抑制 microtubule polymerization | 快發作的時候吃可預防 1#bid~tid | | Colchicine | →防止 neutrophil 趨化 | 副作用:噁心、嘔吐、腹瀉 | | NSAID | 減少發炎 | 效果佳,發作時一線用藥 | | Corticosteroid | 減少發炎 | 腎不好、消化性潰瘍而無法使用 NSAID 時,可用 Corticosteroid | Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- ...IU/ml (normal $< 30$ ) | | | 【詳解】(D) 其中以 anti-ds DNA 對於 SLE 非常具專一性。 | | | (D) 33. 下列何種藥物不宜在急性痛風發作時使用? | 94(一)專 | | (A) 非類固醇消炎藥物 (non-steroid anti-inflammatory drugs, NSAID) | 內 1-81 | | (B) 秋水仙素 (colchicine) (C) 類固醇 (steroids) | | | (D) 降尿酸藥物 (hypouricemic agents), 如 allopurinol | | | (D) 34. 下列有關痛風的診療,何者不正確? | 94(一)檢 | | (A) 痛風的確定診斷為關節液中有 m Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- (C) ibuprofen (D) celecoxib Source: [[sources/med3-book4-ch09|辛、其 他]].
-- (A) 4.52 歲男性,罹患轉移性腎細胞癌,主訴從臀部往下到左小腿之疼痛已數天。他描述疼痛性質是尖銳如刀刺、有灼熱感,疼痛分數可達7/10。下列何者是處理此病人疼痛最適當之藥物? - (A) gabapentin - (B) codeine - (C) meperidine - (D) 非類固醇類抗發炎藥 (NSAID) Source: [[sources/med3-book4-ch23|己、其 他]].
-- (1) NSAID:治療AS的主要藥物之一,其不僅可止痛,還可以減緩X光上關節炎的進展。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

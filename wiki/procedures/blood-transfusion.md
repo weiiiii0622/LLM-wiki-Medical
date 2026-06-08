@@ -16,6 +16,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Blood transfusion (輸血)'
   - 'Blood transfusion'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,13 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- (1) 梅毒螺旋體(Treponema pallidum)入侵人體皮膚或黏膜破損處感染所致,病原體為螺旋體,一般 Gram stain 無法染上,需以暗視野顯微鏡檢(dark-field microscopy)或直接螢光抗體染色(Direct fluorescent antibody staining)觀察,主要由性交傳染,也可經由輸血感染;或婦女懷孕時罹患梅毒,經由胎盤而感染胎兒,造成先天性梅毒。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- ...利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 在台灣,目前新生兒篩檢方式是用 Tandem mass spectrometry。新生兒出生後 48 小時從足跟部位進行採血檢查。但是早產兒、低體重兒、產程出現併發症的新生兒,因為醫療處置(如輸血)而會有偽陽性的結果。這類病人等到病情穩定後再做檢查。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 5. 治療: - (1) 使用無半乳糖或乳糖的飲食。 - (2) 照光 for-hyperbilirubinemia。 - (3) Vit K, FFP • Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 4. Direct Coomb test 和 Indirect Coomb test - (1) Direct Coomb test:是指在紅血球細胞的表面上附著有免疫球蛋白或補體,當血液中的洗滌紅血球添加抗球蛋白的血清,而產生凝集反應即表示為陽性。 - a. 例如:新生兒溶血症、自體免疫溶血性貧血(AIHA)、系統性紅斑狼瘡症、 ABO 輸錯血、冷凝集素綜合症。 - (2) Indirect Coomb test: 血清中有無游離的不完全抗體。陽性反應表示血清中有游離的不完全抗體。 - a. 例如:藥物誘發的免疫性溶血性貧血、新生兒同種免疫性溶血病、輸血後症狀。 Source: [[sources/med4-book1-ch08|辛、血液學]].
@@ -65,8 +71,6 @@ tags:
 - ...tated gene | Thal minor | | (Hgo | 7~10 | 偶而輸 | 3α deletion | Hb H disease (β 4) | 2 mutated gene | Thal intermedia | | 輸血) | 4 ), Hydrop | - | - | | 電泳鑑別診斷 | | 電泳 HbA2 (α2Δ2) 3.5% | | | | 其他診斷方法 | | | Hb H stain(+) 可用來診斷 3α deletion Ref. Washington p71 | | | | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (2) 病因:因數種 Cytokine (TNF, IL1, IFN $\gamma$ ) 抑制鐵的應用,因此僅靠輸血不能根治,需治療其慢性疾病。 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...ti-IgG Ab | Anti-IgG Ab RBC RBC | | | | 舉例 | 若病患發生溶血,可將病患 RBC 分離出,加入 Anti-IgG Ab,若發生凝集,可推測病患的溶血可能是免疫性溶血(被 IgG 攻擊)所致。 | 如輸血前,會先備血,即是將病患的血漿與欲輸注的 RBC 混合,若有凝集,表示輸入此袋 RBC 可能會被病患血漿中的抗體攻擊。 | | | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (B) 55 歲男性大學教授,酒後車禍肇事,酒精濃度過高,被警察送 到急診室,表明拒絕輸血 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (C) 37. 病人為一名 37 歲,懷孕 22 週之婦女(之前剖腹產 2 次),因有早產現象住進一家大型的醫學中心安胎。經醫師診斷為雙胞胎妊娠及雙胞胎間輸血症候群、羊水過多、子宮早期收縮。其間該孕婦接受一系列羊水引流術約有 2 萬 mL 羊水被抽出,孕婦之血色素在 1 個月之間由 10.2 g/dL 降為 7.5 g/dL。醫師判定該孕婦應接受輸血,以防止胎兒子宮內缺氧、改善胎兒心臟衰竭現象,並為接受手術後易併發產後大出血之準備。但該孕婦因為乃耶和華見證人會之信徒,故拒絕接受輸血。雖經醫院醫師、院牧工作人員及社工師基於醫療救人之職責,多次與其溝通,該孕婦仍堅持其不接受輸血之立場。在這個個案 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

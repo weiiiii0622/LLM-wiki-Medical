@@ -41,6 +41,9 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Colon (大腸)'
   - 'Colon'
@@ -55,7 +58,7 @@ tags:
 
 ## Summary
 
-大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +99,16 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch09]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- (3) 合併惡性腫瘤之肌炎(20%) - a. 罹患成人型的皮肌炎者/多發性肌炎者,合併惡性腫瘤的機會較高,包括肺癌、子宮頸癌、卵巢癌、胰臟癌、胃癌與膀胱癌等,而台灣等東南亞地區尤其以合併鼻咽癌為最多。但其真正原因則有待進一步研究,病人應定期做各部位之癌症篩檢,包括:乳房、卵巢、子宮、肺、胃、大腸及鼻咽等,以便能早期發現與治療,提高治癒機會。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 3. Leser-Trélat Sign:假使身上短時間大量出現脂漏性角化症時,須懷疑體內是否有癌症,特別是胃癌、肺癌、與大腸癌,為 paraneoplastic syndrome 的一種表現。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- 2. 此外,PJ 患者罹患癌症的機率也會增加,發生機率依序為小腸、胃、胰臟、大腸、 食道、卵巢或乳癌等。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - (B) 因為沒發燒所以不可能是罹患細菌性大腸炎(bacterial colitis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 潰瘍性大腸炎(ulcerative colitis) 機率最大,立即做大腸鏡檢查 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】本題對醫師而言可說是常識題,但也是需要臨床經驗才可判斷。3個月大孩子解血便,是否有感染的可能性在臨床上要優先考量。如果排除感染,接下來考慮是否有對食物的耐受性不佳或是其它自身腸胃道的疾病。臨床上要檢驗過敏原,理想的年紀應在3歲左右(太早驗的話臨床上會有很高機會誤判)。至於潰瘍性大腸炎,以這個年紀而言應該不是優先考量,大腸鏡檢查不會是第一優先選擇。選項中較好選項為(A)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -113,10 +123,6 @@ tags:
 - (B) 20. 李先生因為家人有癌症病史,所以到 A 醫院的健康檢查中心作全身 健康檢查,檢查項目除了抽血之外還有胃鏡和大腸鏡的檢查,依照 醫療法規定,李先生需不需要寫同意書? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - | 前腸 (Pre-gut) → CK7(+) | 其他 | 後腸 (Hindgut) → CK20(+) | |-----------------------------------|-------------------------------------------|------------------------| | CK7(+)CK20(-)甲狀腺、肺腺癌、女性癌症 | CK7(+)CK20(+)泌尿上皮癌、卵巢黏液性腺癌胰臟癌、膽管癌 | CK7(-)CK20(+)大腸癌 | | (乳、子宮內膜、子宮頸癌) | CK7(-)CK20(-) | | | 胰臟癌、膽管癌 | 頭頸部鱗狀細胞癌肺小細胞、鱗狀細胞癌、肝、腎細胞癌 | | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - 記憶: CK7, 20 看腺癌; CK7(-)CK20(-)→頭頸部鱗狀細胞癌、肺小細胞、鱗狀細胞癌、肝、腎細胞癌前腸 CK7→想上半身器官+女性癌症→甲狀腺、肺腺癌;女性癌症(乳、子宮內膜、子宮頸癌) CK7(+)CK20(+)→想位於身體中間器官→胰臟癌、膽管癌;泌尿上皮癌、卵巢黏液性腺癌後腸 CK20(+)→想下半身器官→大腸癌 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- \*CEA 的腺癌包括大腸癌、胰癌、肺癌、乳癌、卵巢癌 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- C. 大腸直腸癌 (Colorectal cancer) 217 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (3) Stage IV: 化療為主 - a. FOLFOX 或 FOLFIRI (Folinic acid+5FU+Irinotecan)。 - b. 傳統化療加上 Bevacizumab (Anti-VEGF Ab) 可改善存活率。 - c. 傳統化療加上Cetuximab(Anti-EGFR Ab),對於k-ras沒有突變的大腸癌有幫助。 - d. 單一的肝轉移可考慮做肝切除。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (A) 1. 關於大腸直腸癌之描述何者正確? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Cushing syndrome (庫欣氏症候群)'
   - 'Cushing syndrome'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med3-book4-ch21]]
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- (A) Cushing's syndrome Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 1. Endocardial Cushing defects Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].

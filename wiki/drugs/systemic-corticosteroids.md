@@ -25,6 +25,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Systemic corticosteroids (全身性類固醇)'
   - 'Systemic corticosteroids'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,15 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- (1) 口服類固醇:治療首選,療效最快、最顯著的治療方式。通常類固醇的劑量會從 1 mg/kg/day 的 prednisolone 開始給藥(換算成 60 公斤體重成人,大約是每天 60 毫克)。以類固醇治療時,應每 5~7 天評估療效一次,以便調整劑量,若仍有新水泡繼續產生,則將藥量增加 50~100% 至無任何新水泡為止,等到二週內沒有產生任何新水泡,且 80% 水泡傷口都癒合了,就可以開始減藥。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- (2) 注射類固醇:病情嚴重患者,可直接用針劑類固醇治療,採用脈衝式靜脈注射類固醇法(Pulse therapy),每日靜脈注射 500 毫克 methylprednisolone 針劑,連續三日,可以有效控制病情發展,又可以減少副作用。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- (2) 口服類固醇(prednisolone):是治療的最重要藥物,0.5~1~mg/kg/day,假使效果不明顯可增至 1.5~mg/kg/day,使用期間約一到三個月後,。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (3) 口服皮質類固醇(Prednisolone):Indication 為 CNS involvement、renal involvement、severely ill patients without CNS involvement、hemolytic crisis 或 thrombocytopenia。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 類固醇仍是腎病症候群主要治療藥物,一般使用 prednisone or prednisolone 60 mg/m²/day or 2 mg/kg/day (maximum daily dose: 60 mg),分成兩次或三次給予,連續用藥約 4~6 週。臨床證據顯示給予六週會降低復發機率。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 7. 一位 6 歲的女生,罹患彌漫增生型狼瘡性腎炎(diffuse proliferative lupus nephritis),已接受每天 30 mg 口服 prednisolone 2 個月, - (A) Haemophilus influenza type b conjugate vaccine - (B) Influenza vaccine - (C) Measles, mumps 及 rubella vaccine - (D) Tetanus 及 diphtheria toxoid vaccine Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -81,10 +89,6 @@ tags:
 - (C) anthracycline, vincristine 及 prednisolone Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...--------------|--| | (C(D | 分離術 3) 血小板數目太低且有出血傾向,需要輸注血小板 3) 強燒可能是有感染,須做微生物培養,並開始抗 3) 為急性骨髓性白血病,需儘早做化學治療 HC vincristine, prednisolone) | 生素治療 | | | _[ | 詳解】HOP 是淋巴癌的 regimen。 | | | | let(A(B | 列何項特性可見於急性巨核細胞白血病(acute mukemia)?A) peroxidase 陽性反應B) 細胞質內出現 Auer rodC) 表現 Glycophorin A | egakaryoblastic 95(二)專內 1-30 | | | (D | D) 表現 CD41詳解】(A) Peroxidase 主 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...多發性肌痛症(Polymyalgia rheumatica),這兩個病是同一病理的兩個不同臨床表徵,皆是中大型的血管發炎,一個導致頭痛,一個導致肩頸、背、大腿多處肌肉痠痛。 - (4) 治療: - a. 類固醇治療效果良好。巨細胞血管炎需 Prednisolone 40~60 mg/d;若僅有風濕性多發性肌痛症,僅需 Prednisolone 10~20 mg/d Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...度 9.8 cm,右腎長度 9.6 cm。下列處置何者最正確? (A) 腎臟切片檢查 (B) 透析治療 (C) 以 angiotensin-converting enzyme inhibitor 治療 (D) 以脈衝式類固醇 (pulse methylprednisolone) 治療 【詳解】病患之腎臟大小已偏小(正常 10~12 cm),且已出現尿 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...若腎臟病理變化為極微變化型腎病變(minimal change disease),其特殊治療之第一線藥物應為下列那一種? (A) cyclophosphamide (B) cyclosporine (C) chlorambucil (D) prednisolone | 98(一)專醫三-26 | | (B) | 15. | 下列何種腎絲球病變和 HIV (human immunodeficiency virus) 感染最有關聯? (A) Crescentic glomerulonephritis (B) Focal segmental glomerulosclerosis (C) Glomerular nodular sclerosis (D) Thrombotic microangiopath Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- #### 1. 黴菌 (Fungal infection): CD4 200 達 3 個月。 - c. 血氧濃度低 (PaO2 35 mmHg) 者,可給予類固醇。 Prednisolone 40 mg PO bid day1~5 → 20 mg bid day 6~10 → 10 mg bid day11~20。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...者最正確? (A) 立即停用 angiotensin-converting enzyme inhibitor (B) 立即做腎臟切片檢查 (C) 立即做 renal arteriography 檢查 (D) 立即以脈衝式類固醇(pulse methylprednisolone)治療 | 104(一)專醫三-7 | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 
 ## Clinical Caveats
 
@@ -94,6 +98,8 @@ tags:
 ## Related Pages
 
 - [[conditions/adrenal-insufficiency|Adrenal insufficiency (腎上腺功能不全)]]
+- [[conditions/bullous-pemphigoid|Bullous pemphigoid (類天疱瘡)]]
+- [[conditions/pemphigus-vulgaris|Pemphigus vulgaris (尋常性天疱瘡)]]
 
 ## Follow-up
 

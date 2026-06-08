@@ -28,6 +28,11 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Ventricular remodeling (心室重塑)'
   - 'Ventricular remodeling'
@@ -42,7 +47,7 @@ tags:
 
 ## Summary
 
-心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +75,20 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch06]]
+- [[sources/med4-book2-ch07]]
+- [[sources/med4-book2-ch08]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- (5) 食道及腸道的纖維化會造成吞嚥困難及吸收不良。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...| (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous lesions on the extremities | 醫四 -54 | | (B) a purplish discoloration around the eyes | | | (C) shagreen patches Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 4. SJS/TEN 主要是藥物激發免疫反應所造成,特別是透過與人類白血球抗原(HLA)的交互作用而活化了特異的 CD8 + T 細胞,這些 T 細胞會增生且浸潤到皮膚組織中攻擊表皮細胞,導致表皮細胞大量的凋亡(apoptosis),因此在皮膚切片中會看到整層表皮的壞死與溶解。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
+- (1) Methotrexate(MTX):治療慢性塊狀乾癬或乾癬性關節炎的第一線用藥。最常見的副作用為噁心、疲倦、食慾減退、骨髓抑制造成白血球下降以及肝毒性,故有肝病史和酗酒者不適此療法,可能引發肝纖維化或肝硬化的危險。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
+- 1. 皮膚的黑色素細胞於胚胎發育過程由神經脊(neural crest)逐漸遷徙到表皮並分化 而成。當此遷徙的過程停滯,導致黑色素細胞停留於真皮,使得真皮層黑色素細胞 增多,為良性增生性疾病。病理下,可於真皮層見到許多富含黑色素、具多觸角的 黑色素細胞,如 common blue nevus 的黑色素細胞數目較多、密度較密、纖維化較 顯著,並形成結節(nodule);反之 Mongolian spot、Ota nevus、Ito nevus 則成斑塊(patch),即胎記。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (A) 1. 關於多形性紅斑(erythema multiforme)的敘述,下列何者錯誤? 109(二)專 醫四 -35 - (A) 病理組織檢查常見真皮纖維化 - (B) 典型表徵為標靶病灶 (target lesion) - (C) 部分病人和單純疱疹病毒的感染相關 - (D) 發病部位可包括黏膜 Source: [[sources/med4-book2-ch11|子、其 他]].
 - ...----------------------------------------------------------------|--------------| | | | (C) 腹部超音波 (D) 汗液試驗(sweat test)及囊性纖維化病(cystic fibrosis)之 基因檢測 | | | | | 【詳解】兩天未解胎便,肛門指診發現肛門括約肌壓力上升而非反射性下降,故優先懷疑先天性巨結腸症(Congenitalaganglionic megacolon, Hirschsprung disease)。先天性巨結腸症確定診斷則是做病理切片檢查。 | | | (D) | 4. | 下列有關先天性巨大結腸症(Hirschsprung disease)之敘述,何者錯誤? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 3. 確切的原因仍不明,但有懷疑某些病毒感染造成,如 reovirus、CMV、HPV、 rotavirus C。此疾病的病程為一漸進性的發炎反應,造成膽道的纖維化及膽汁鬱積, 最終造成肝硬化。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...agulable state)也與門脈栓塞有關。少見發生原因則與解剖構造發展異常有關:agenesis, atresia or stenosis of the portal vein。 - b. 肝門靜脈流動受阻: 急性或慢性肝炎、先天性肝纖維化 (congenital hepatic fibrosis)、血吸蟲病 (schistosomiasis)、肝硬化。 - (3) Posthepatic: - a. Budd-Chiary syndrome: 肝靜脈到下腔靜脈間發生栓塞導致血流受阻。原因 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -85,12 +101,6 @@ tags:
 - 2. 病生理:免疫失調造成血管病變(Vasculopathy)、纖維化(Fibrosis) - (1) 血管病變(Vasculopathy):早期以血管對冷的反應改變表現,稱為雷諾氏症候群(Raynaud's Phenomenon),慢慢的管壁發炎、纖維化,導致血管阻塞(Obliterative vasculopathy),最後造成手部尖端開始缺血壞死、腎臟也因慢性缺血而萎縮等。 - (2) 纖維化(Fibrosis):由 Th2 細胞製造 TGF- $\beta$ ,進而刺激纖維母細胞(Fibroblast)持續不斷進行纖維化。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...Edematous phase),幾個月後就可能開始皮膚硬化(Fibrotic phase);皮膚硬化會超過手肘或膝蓋,包含軀幹; - b. Anti-topoisomerase (scl-70) 陽性病患較快發生間質性肺病 (ILD)、肺纖維化; 還可能併發腎臟急症 (Scleroderma renal crisis)。 - (2) Limited cutaneous SSc (lcSSc): - a. 病程進展較慢,雷諾氏症候群幾年後才會慢慢有其他表現,皮膚硬化僅限於手指硬化(Sclerodactyly)及遠端肢體(Distal to elbow and knee), 軀幹通常不受影響,預後較好,但病程晚期可能併發肺動脈高壓(PAH)。 - b. 其中有一亞型,稱作 CRE Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - 4. 診斷準則:有主要 (Major) 標準或兩項次要 (Minor) 標準 - (1) 主要(Major)標準:指(趾)(超過 MCP/MTP)、四肢、面部、頸或軀幹的皮膚硬化 - (2) 次要 (Minor) 標準: - a. 指(趾)硬化(Sclerodactyly)。 - b. 指(趾)凹陷性瘢痕(Digital pitted scarring)。 - c. 兩側肺底部纖維化 (Bibasilar pulmonary fibrosis)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...ibiotics | | Mitoxantrone(Novantrone 小藍莓)→前列腺癌 | 心毒性(較少)、發泡劑(冰敷) | | | | rindolotics | | Bleomycin →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyr Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (1) 烷化劑會黏附 (cross-linkage) 至 DNA 上,影響 DNA 功能;這類藥物有相似的副作用:骨髓抑制、禿頭 (Alopecia)、性腺受損 (Gonad dysfunction)、肺纖維化。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (3) **肋膜、肺侵犯**:最常見間質性肺病(以 NSIP、UIP 居多)、還可能以肋膜肺結節(Pleuropulmonary nodules)表現;若發生在肺塵症(Pneumoconiosis)的病患身上,可見廣泛性的結節纖維化,稱為 Caplan's syndrome。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- | 骨髓狀況 | 代表疾病 | |-------------------------|-------------------------------------------| | 骨髓細胞少 (Hypocellular BM) | 再生不良性貧血 (Aplastic anemia, AA) | | 骨髓細胞適量 (Cellular BM) | 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) | | 骨髓被取代 (Myelophthisis) | 原發性骨髓纖維化 (idiopathic myelofibrosis) | | 全身疾病 (Systemic disease) | 肝硬化等導致脾腫大 (Hypersplenism)、敗血症 (Sepsis) | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- \*Follicular lymphoma 中,Bcl-2 的過度表現使得細胞無法走向凋亡(Apoptosis)。 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- 治療相關:放射治療(肺纖維化)、化學治療(Methotrexate、Bleomycin)、手術治療 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

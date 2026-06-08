@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Meningococcal exposure prophylaxis (腦膜炎雙球菌暴露後預防)'
   - 'Meningococcal exposure prophylaxis'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- (c) 患者及接觸者(尤其親密接觸者)都必須接受治療以免互相傳染。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (D) 32. 一個 6 歲大的男孩,雙股及兩側下肢出現紫斑及出血疹,男孩無 98( ) 專 發燒,精神良好,但右膝腫脹,全血球計量正常,最可能診斷為: 醫四 -11 (A) 原發性血小板過低紫斑症 (idiopathic thrombocytopenic - (B) 青年型類風濕性關節炎(juvenile rheumatoid arthritis) - (C) 腦膜炎雙球菌敗血症(meningococcemia) - (D) 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura 【詳解】(A) 全血球不會正常。(B) 會發燒。(C) 會發燒,且意識 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...------------------------------------|--|--| | 1~3 個月 | B 群鏈球菌、E. coli 、Listeria monocytogenes、肺炎鏈球菌、H. influenzaetype b、腦膜炎雙球菌(N. meningitides)、沙門氏菌(Salmonella) | | | | 3個月~3歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 3~12 歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 12 歲以後 | 肺炎鏈球菌、腦膜炎雙球菌 (N. meningitides) | Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (2) Hib 及腦膜炎鏈球菌感染病人,醫護人員或家屬須服用 Rifampin 預防。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (3) 治療時間: - a. 腦膜炎雙球菌: 7~10 天 - b. 肺炎鏈球菌、H. influenzae type b: 10~14 天 - c. B 群鏈球菌、Listeria monocytogenes: 14~21 天 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
@@ -57,8 +63,6 @@ Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者
 - ## D. 腦膜炎雙球菌 (Neisseria meningitidis) Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - 2. 人類是腦膜炎雙球菌唯一的天然宿主,流行地區鼻咽部帶菌約 5~10%,一般人可能沒症狀(Asymptomatic carrier),但也可能進入人體,經血液侵犯腦部。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (2) 治療: - a. 完全沒有抗藥性可考慮 IV high dose penicillin - b. 一般經驗性用藥需使用第三代 cephalosporin 最好的選擇是 Ceftriaxone。 - c. 高度抗藥性,需加上 Vancomycin、Rifampin。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 93(一)專 (D) 4. 承上題, 首選藥物是下列何者? (B) rifampin + ethambutol + isoniazid 內 2-17 (A) penicillin (C) dapsone + rifampin (D) co-trimoxazole 【詳解】(D) co-trimoxazole 就是 TMP-SMX (Baktar®) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- | 奈瑟氏腦膜炎雙球菌 | 奈瑟氏淋病雙球菌 | | | |-----------------------|---------------------------------------------------------------------------------|--|--| | Neisseria menigitidis | Neisseria gonorrhoeae | | | | Meningococcus | Gonococcus | | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

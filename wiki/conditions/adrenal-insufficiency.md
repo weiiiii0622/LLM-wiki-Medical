@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Adrenal insufficiency (腎上腺功能不全)'
   - 'Adrenal insufficiency'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,15 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- 【詳解】依題目所提之臨床症狀,推測是腫瘤轉移到兩側腎 上腺破壞腎上腺功能,造成 Addison's disease (primary adrenal insufficiency),病患會有厭食、噁心嘔吐、姿態性低血壓、高 血鉀、皮膚皺褶和黏膜處出現色素沉澱等症狀。因為是 primary adrenal insufficiency,腎上腺組織已經被腫瘤轉移破壞殆盡,所以 ACTH 會增加以刺激皮質醇分泌但徒勞無功,且做 corticotropin stimulation test 不會有反應。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 7. Hypermelanosis: 受基因、賀爾蒙 (Addison disease) 和紫外線曝曬影響。 - (1) 黑色素細胞增加,且黑色素分泌增加:例如曬斑(Solar lentigo)。 - (2) 黑色素細胞無增加,但黑色素分泌增加:例如雀斑(Freckle)、肝斑(Melasma)。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (B) Addison's disease Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - ...製造過多。 - a. Hydrocortisone:15~20 mg/m²/24hr,一天分成三次口服治療。若病人在 under stress 時(ex. Infection or operation),可給予 2~3 倍的劑量治療。有 Adrenal crisis 時(常以 weakness,小便減少表現),須給予 100 mg/m² IV push(max 100 mg),then 100 mg/m²/day continuous infusion。 - b. 有 salt-wasting 者可給 mineralocorticoid 補充 (fludrocortisone)。 - c. 另外, 適時補充鈉離子避免低血鈉。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...ol/L。此病童最可能的診斷為何? - (A) 急性腸胃炎 (acute gastroenteritis) - (B) 心臟衰竭 (heart failure) - (C) 腦炎 (encephalitis) - (D) 腎上腺機能不全 (adrenal insufficiency) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 【詳解】題目敘述中,病人出現低血糖、低血鈉,脫水症狀,低血壓,及意識不清,可聯想至 adrenal insufficiency。其尿鈉高(>25)表示鈉由 renal loss,故不像急性腸胃炎或心臟衰竭,無局部神經學症狀,故也不像腦炎。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -57,10 +65,6 @@ tags:
 - ...------------|--| | Aldosterone 低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - C. 腎上腺機能低下 (Adrenal insufficiency) 213 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - ...----|--------------------|---------------------------------| | H-1915 | 中胚層 | G: 11 | Glucocorticoid | Cushing's syn. | Addison's dz.Adrenal crisis | | 及質 (meso | (mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural crest) | Tyrosine | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- #### C. 腎上腺機能低下 (Adrenal insufficiency) Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- | 五種細胞 | 症 狀 | |-------------------|---------------------------------| | 生長激素低下 (GH ↓ ) | 小孩:身材矮小 | | | 成人:倦怠、無力、骨質疏鬆、脂肪量增多 | | 性促素低下 (FSH、LH ↓ ) | 男:不孕、性慾降低、無第二性徵 | | | 女:不孕、無月經 | | 甲促素低下 (TSH ↓ ) | 甲狀腺低能症 (Hypothyroidism) | | 皮促素低下 (ACTH ↓ ) | 腎上腺功能不足 (Adrenal insufficiency) | | 乳促素低下 (PRL ↓ ) | 女性無法泌乳 | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- (2) 切記勿單獨補充甲狀腺激素,除非已確定腎上腺機能正常,否則因為甲狀腺激素會促進新陳代謝,可能造成腎上腺危症(Adrenal crisis)。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...--|---------| | (B) | 1. 體溫過低的原因最不可能是下列何者? | 107(一)專 | | | (A) 腦下腺機能低下 | 醫三 -20 | | | (B) 副甲狀腺機能低下 | | | | (C) 腎上腺機能低下 (Addison's disease) | | | | (D) 腦中風 | | | | 【詳解】低體溫先想到甲狀腺低下。 | | | | (B) 副甲狀腺與鈣離子平衡較相關。 | | | (C) | 2. 一位 25 歲年輕女性因上腹不適至胃腸科門診,服用藥物一段時間後 | 101(二)專 | | | 發生乳房腫脹及泌乳情形,她有可能服用下列何種藥物? | 醫三-19 | | | (A) antacid (B) proton pump inhibito Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 

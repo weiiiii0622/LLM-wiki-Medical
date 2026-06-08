@@ -35,6 +35,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Pancreas (胰臟)'
   - 'Pancreas'
@@ -49,7 +51,7 @@ tags:
 
 ## Summary
 
-胰臟兼具外分泌消化酵素與內分泌血糖調控功能。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰臟兼具外分泌消化酵素與內分泌血糖調控功能。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +86,13 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- (3) 合併惡性腫瘤之肌炎(20%) - a. 罹患成人型的皮肌炎者/多發性肌炎者,合併惡性腫瘤的機會較高,包括肺癌、子宮頸癌、卵巢癌、胰臟癌、胃癌與膀胱癌等,而台灣等東南亞地區尤其以合併鼻咽癌為最多。但其真正原因則有待進一步研究,病人應定期做各部位之癌症篩檢,包括:乳房、卵巢、子宮、肺、胃、大腸及鼻咽等,以便能早期發現與治療,提高治癒機會。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 2. 此外,PJ 患者罹患癌症的機率也會增加,發生機率依序為小腸、胃、胰臟、大腸、 食道、卵巢或乳癌等。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (1) 多與高血鈣有關:肌肉無力、厭食症、噁心、嘔吐、便秘、劇渴(polydipsia)、 多尿、體重減輕、胰臟炎甚至發燒。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (1) 又稱為胰島素依賴型糖尿病 (insulin-dependent diabetes mellitus, IDDM)、幼年型糖尿病 (juvenile diabetes mellitus)。由於自體免疫造成胰臟 β 細胞被破壞。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -103,8 +109,6 @@ tags:
 - | (C) | 1. 有關「血清 CA19-9 值」於胰臟癌(pancreatic ductal adenocarcinoma)診療上的敘述,何者正確? (A)「血清 CA19-9 值的升高」是診斷胰臟癌的必要條件 (B)「血清 CA19-9 值的升高」建議使用於胰臟癌的篩檢(screening) (C)「手術前血清中 CA19-9 值」與病患胰臟癌的期別(stage)具相關性 (D)「手術後血清中 CA19-9 值」與病患的預後無關 | 108(一)專醫三-35 | |-----|----- Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...d foot syn.) | | | S | Antimetabolite | | Cytarabine (Ara-C) → AML (I3A7) | 小腦運動失調、角膜炎 | | | | | | Gemcitabine (Gemzar)→胰臟癌,肺癌 | 似感冒症狀 (Flu-like symptoms) | | | | | | Hydroxyurea →慢性骨髓增生病變 (CMPD) | | | | | | Purine | 6-Mercaptopurine(6MP) → ALL(Maintance) | 與 xanthine oxidase* 併用須減量 | | | | | 1 dime | Fludarabine → CLL, Follicular lymphoma Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...juctivitis)、小腦性共濟 失調(Cerebellar ataxia),所以注射 High dose Ara-C 的病患會每兩個小時點類固 醇眼藥水、經常詢問走路是否正常。 - (2) Gemcitabine (Gemzar®) →胰臟癌,肺癌 - a. 為胞嘧啶延伸物(cytosine derivatives),也會轉成 CTP 類似物,抑制 DNA 複製。 與 Cytarabine 不同的是,Gemcitabine 還能治療固體腫瘤,且較少骨髓抑制外的 副作用。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (C) 10. 陳姓老翁 1 個月前因為罹患胰臟瘍末期而簽署了安寧緩和醫療意願 105( ) 專 書,希望病危的時候可以放棄急救。3天前,陳老先生出現發燒、 頻尿的情況,而被送往醫院救治,經過醫師的診察確認陳老先生為 尿路感染合併敗血症,陳老先生於住院中因為血壓不穩,經過輸液 治療而導致肺水腫,醫師建議進行氣管插管併用呼吸器治療,以緩 解其肺水腫。此時是否應同意陳老先生接受插管? - (A) 反對,因為陳老先生已經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (B) 12.72 歲的王教授罹患胰臟癌末期,他瘦弱、嚴重黃疸,無法進食,更無法成眠,每天受劇烈腹痛與全身酸痛所折磨,他簽了 DNR,等著解脫,這一週來,王教授更多次哀求您,讓他早點離開人間,下列何種處置適當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

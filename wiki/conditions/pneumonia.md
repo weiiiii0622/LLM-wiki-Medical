@@ -50,6 +50,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Pneumonia (肺炎)'
   - 'Pneumonia'
@@ -64,7 +66,7 @@ tags:
 
 ## Summary
 
-肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -114,9 +116,14 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...嚴重,甚至造成肺部發炎(pneumonitis)或腦炎(encephalitis)等併發症。(\*當肺部發生感染或是受到刺激而導致發炎稱為 Pneumonitis,而當肺部組織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. First trimester 中感染病毒有機會造成 fetal varicella syndrome: limb hypoplasia、muscular atrophy、skin scarring、cort Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹 108( ) 專子型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 【詳解】Wiskott-Aldrich Syndrome 是一種性聯隱性遺傳的疾病,患者多為男性,主要臨床症狀有血小板低下且形狀變小、免疫功能異常(中耳炎、肺炎、腦膜炎)、以及濕疹(佔75%的患者,且容易對過敏原產生反應而併發氣喘等症狀)。治療以症狀治療為主,如需根本治療則需骨髓移植。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - VI. 肺炎 (Pneumonia) 165 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - | 病源菌 | 盛行率 | 對 Amoxicillin 抗藥性 | 自行緩解 | |--------------------------|-------|-------------------|------| | Streptococcus pneumoniae | 50% | 50% | 20% | | Hemophilia influenza | 25% | 40% | 40% | | M. catarrhalis | 12.5% | 100% | 80% | Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...發燒,於是改 用 amoxicillin 90 mg/kg/day,體溫隨即回復正常。下列四種細菌 之中,那一種最符合該男童中耳炎的治療反應? - (A) Staphylococcus aureus - (B) Streptococcus pneumoniae - (C) Haemophilus influenzae - (D) Moraxella catarrhalis - 【詳解】(A) 不是急性中耳炎常見的病原體故不選。(D) 因為對 amoxicillin 有 100% 的抗藥性也因此不選。Nelson's Textbook of Pediatrics 20th Edition 中提到 *H. influenza* 雖然抗藥性不比 *S. pneumoniae*,但是使用高劑量 a Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -132,9 +139,6 @@ tags:
 - ...身旁玩耍的幼童衝撞,導致針頭插入左 95(二)專 膝關節,引發敗血性關節炎(septic arthritis)。就此案例,何種細菌 內 2-1 感染最有可能? (A) 金黃色葡萄球菌 (Staphylococcus aureus) (B) 肺炎鏈球菌 (Streptococcus pneumoniae) (C) 大腸桿菌 (E. coli) (D) Beta 溶血性鏈球菌 (β-hemolytic Streptococcus) 【詳解】(A) 金黃色葡萄球菌即是表皮菌,另外敗血性關節炎亦最 常見金黃色葡萄球菌。 (B) 29. 下列有關退化性關節炎的治療,何者是最主要的方法? 95(一)專 (A) 服用 glucosamine (B) 減輕退化關節的負擔 内 1-23 (C) Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (D) 8. 一位 85 歲女性病人兩年前中風臥床,現身上有鼻胃管及導尿管,兩 107(二)專 年中曾有三次因吸入性肺炎住進加護病房,下列有關居家訪視服務 的描述,何者最不適當? Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - (D) 若有發燒馬上送醫院,以免肺炎的惡化 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- 【詳解】本題是臨床實務題,可能要跟過家醫科家訪的同學比較能 選出答案。因為題目已描述病案年齡高、有不可回復的身體功能缺 失、近期又因吞嚥功能受限導致肺炎反覆入院,這都在暗示著積極 的醫療處置可能無法逆轉病程逐漸變差的狀況。本著維持病人生活 品質與尊嚴的初衷,家訪醫師可能會來探詢家屬或病人繼續接受積 極醫療的意願。但最後的結果仍待家屬與病人的決定,所以臨床仍 有可能會繼續選項(D)的作為,因此只能說選項(D) 通常不會面對 此類病人最優先的建議。 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- (C) 29.17 歲的小茹因斷斷續續發燒、咳嗽數星期、體重減輕、容易疲累, 而住到醫院接受一連串的檢查,最後證實小茹罹患惡性淋巴瘤。小 茹的父母要求醫師不要讓她知道此診斷,而告訴她罹患的是肺炎。 下列何敘述最恰當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (B) 接受插入鼻胃管灌食之末期病人,會有自拔鼻胃管及造成吸入 性肺炎的機會 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

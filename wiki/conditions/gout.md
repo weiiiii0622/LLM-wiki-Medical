@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch05]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Gout (痛風)'
   - 'Gout'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-尿酸鹽結晶造成急性關節炎與慢性痛風石。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿酸鹽結晶造成急性關節炎與慢性痛風石。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch05]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- (C) 3.38 歲男性,最近因罹患痛風接受藥物治療,兩週後在頭臉、軀 104(二)專 幹、四肢快速出現皮疹(如圖 A 與圖 B),口腔糜爛、眼結膜紅 醫四 -42 腫、會陰部糜爛、身體發燒,最可能之診斷為何? Source: [[sources/med4-book2-ch06|己、藥物疹]].
+- 【詳解】有痛風接受藥物治療的藥物史,短期間內迅速早成皮 膚表皮大面積脫皮潰爛,□腔、眼結膜、生殖器等黏膜部位也 受影響,發燒,懷疑是 allopurinol 所引起的 SJS/TEN。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - C. 痛風 (Gouty arthritis, GA) 74 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - #### C. 痛風 (Gouty arthritis, GA) Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - 3. 診斷:需抽取關節液並用偏光顯微鏡觀察,GA 呈負偏光性(平行黃、垂直藍),才能下痛風的診斷。[口訣:愛喝酒的痛風男是負心漢,看到閃黃燈還平行直直衝過去,結果往前垂直掉入藍藍大海] Source: [[sources/med3-book4-ch06|己、關節炎變]].

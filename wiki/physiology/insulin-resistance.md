@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Insulin resistance (胰島素阻抗)'
   - 'Insulin resistance'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-胰島素作用下降連結第 2 型糖尿病、代謝症候群、脂肪肝與心血管風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素作用下降連結第 2 型糖尿病、代謝症候群、脂肪肝與心血管風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book3-ch19]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- (A) 可能與胰島素抗性(insulin resistance)的內分泌疾病有關 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (A) 胰島素抗性 (insulin resistance) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - Type 2 diabetes mellitus (insulin resistance) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].

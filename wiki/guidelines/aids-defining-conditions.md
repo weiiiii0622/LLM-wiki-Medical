@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'AIDS-defining conditions (AIDS 定義疾病)'
   - 'AIDS-defining conditions'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區對 TB 定義不同。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區對 TB 定義不同。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區
 - [[sources/med3-book3-ch22]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- (1) 主要由伺機性感染原「白色念珠菌」(Candida albicans)所致,為酵母菌 (Yeast),多半發生在潮濕的表皮或黏膜處,極少部分則由其他種念珠菌感染(C. tropicalis、C. krusei、C. parapsilosis、C. guilliermondii等)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (2) 常見的誘發因素包括肥胖、濕熱、衛生條件不良之環境、糖尿病、懷孕或廣效 性抗生素使用不當等等,引起局部或全身性免疫力改變,而造成伺機性感染。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (1) 舊名 Tinea versicolor,因以前誤以為是皮癬菌感染所致,後來發現是由皮屑芽孢菌(*Pityrosporum ovale*) 感染,為酵母菌,屬伺機性感染。而 *Pityrosporum ovale* 現改名為 *Malassezia furfur*,在台灣則有汗斑(濕熱多汗環境下易孳生)、花斑癬等不同俗稱。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - ...emia; 第 22 對染色體異常) - b. 臨床表現:最常見以新生兒低血鈣及抽筋表現。T 細胞免疫不全的程度則因胸腺發育不良的程度而異,complete DiGeorge syndrome (完全沒有胸腺者) 常在新生兒時期就發生嚴重的伺機性感染 (病毒,黴菌,PCP…) - c. 治療:胸腺移植或 HLA-matched 骨髓移植。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...種為 X-linked, 其餘 11 種為自體隱性遺傳(例如 ADA deficiency…)。皆會造成淋巴球無法 正常發育,而同時產生體液性及細胞性免疫缺陷。 - b. 臨床症狀:出生後數個月內就產生反覆的感染(肺炎,中耳炎,菌血症…)或伺機性感染(病毒,Candida,PCP…),生長發育不良,慢性腹瀉。抽血會淋巴球(尤其 T 細胞)低,免疫球蛋白低。若沒有骨髓移植則大多一歲前死亡,為急症! - c. 治療:骨髓移植。ADA(adenosine deaminase)-deficient SCID 可以注射 polyethylene glycol conjugated adenosine deaminase(PEG-ADA)治療。另外, ADA-deficient SCID 目前 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 免疫方面:胸腺發育部分或全部缺陷。 - a. 部分 DiGeorge 症候群佔大多數。 - b. 完全 DiGeorge 症候群因胸腺完全無發育,故 T 細胞嚴重缺乏,易引起伺機性感染。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].

@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Antimetabolites (抗代謝藥物)'
   - 'Antimetabolites'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- (3) 局部塗抹藥劑: - a. 5-FU (fluorouracil):抑制 DNA 合成和複製,導致分生不良細胞死亡。但較 具刺激性,可能會有灼熱刺痛感及造成皮膚潰瘍。 - b. Imiquimod:屬於一種免疫調節劑,可刺激皮膚的免疫反應,由自身的免疫系統來攻擊不正常增生的表皮細胞。 - c. 三氯醋酸 (Trichloroacetic acid, TCA): 很強的蛋白質變性劑,用於化學換膚,使病灶被破壞脫落,幾週後長出新皮膚,穿透性良好適合移除較深層的病灶,皮膚刺激感也較強烈。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - B. S phase (Antimetabolite) 202 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecitabine (Xeloda)→乳癌,大腸癌 | 手足症候群 (Hand and foot syn.) | | | S | Antimetabolite | | Cytarabine (Ara-C) Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - #### B. S phase (Antimetabolite) Source: [[sources/med3-book4-ch19|乙、化學治療]].

@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Parvovirus B19 infection (微小病毒 B19 感染)'
   - 'Parvovirus B19 infection'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-可造成傳染性紅斑、aplastic crisis、胎兒水腫與關節症狀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成傳染性紅斑、aplastic crisis、胎兒水腫與關節症狀。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- 1. 傳染性紅斑 (Erythema infectiosum): - (1) 又稱第五疾病(fifth disease) ,因紅斑出現在雙頰像蘋果臉,故俗稱蘋果病。 - (2) 由人類微小病毒 B19 (Human Parvovirus B19) 感染所致,好發在二歲到十歲的學齡兒童,以冬末初春時較多,一般潛伏期是數天到兩個星期,潛伏期時具有傳染性,可經由空氣、接觸傳染,但當紅疹出現時,病毒通常已無法在呼吸道找到,此時已不具傳染力。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- b. 約二天後會開始出現紅斑,先是以鼻子為中心於雙頰發展出蝶形紅斑,但鼻根和嘴巴周圍不會長,像是被打巴掌(slapped cheeks),見下圖,紅斑於一到四天內會消退。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 補充:於二十世紀初,為方便辨別而將好發於孩童的皮膚疹予以編號,總共編了六號: - First disease 為麻疹 (Measles)。 - Second disease 為猩紅熱 (Scarlet fever)。 - Third disease 為德國麻疹(Rubella)。 - Fourth disease 為 Filatow-Dukes' disease,該病目前已除名,此病為某些會長疹子的疾病之共同表現。 - Fifth disease 為傳染性紅斑(Erythema infectiosum)。 - Sixth disease 為嬰兒玫瑰疹(Roseola infantum)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - VIII. 百日咳 (Pertussis) 177 - IX. 微小病毒 B19 感染 179 - X. 水痘病毒 (VZV) 感染 180 - XI. 麻疹 183 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - # IX. 微小病毒 B19 (Parvovirus B19) 感染 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 微小病毒 B19 (parvovirus B19) 是動物病毒中最小的 DNA 病毒。 Source: [[sources/med4-book1-ch04|丁、感染科學]].

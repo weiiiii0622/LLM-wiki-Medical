@@ -16,6 +16,8 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Antinuclear antibody, ANA (抗核抗體)'
   - 'Antinuclear antibody, ANA'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,17 @@ SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 
 - [[sources/med3-book4-ch10]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 下列何項檢查最有助於診斷 Wegener's granulomatosis ? 醫四 -42 - (A) anti-histone antibodies - (B) antiproteinase-3 antineutrophil cytoplasmic antibodies ( PR3-ANCA ) - (C) anticardiolipin antibodies - (D) antinuclear antibodies (ANA) Source: [[sources/med4-book2-ch11|子、其 他]].
+- | 項目 | 特徵 | |--------------------|------------------------------------------------------| | ANA | 95~99% (+),敏感度 (sensitivity) 高但特異性 (specificity) 低,最 | | | 佳篩檢工具,重複陰性反應可排除 SLE。 | | Anti-ds DNA | 特異性最高,和疾病活動度有關(值越高疾病越活躍),可預測 | | | 腎炎和血管炎。 | | Anti-sm (Anti-U1 | 呈陽性時,大大增加 SLE 的機會,和疾病活動度無關。但對於診 | | RNP) | 斷混合性結締組織病( Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Thrombocytopenia ( < 10 萬 )。 | | | | | | 實驗室檢查 | (10) ANA(+)、(11) Anti-dsDNA(+) 或 Anti-Sm(+) 或 Anti-phospholipid(+) | | | | | Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...linear morphea 常出現在小兒患者 醫四 -42 (B) circumscribed morphea 患者身上並不會出現指端硬化現象, 也不會有食道硬化等內臟器官影響 (C) generalized morphea 患者血中 ANA 可能呈現陽性,但與患 者預後關聯性仍未明 (D) generalized morphea 多數病人會轉變為 systemic sclerosis, 出 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 1. 針對初次發病的病人,應該檢查 CBC/DC、albumin、TG、cholesterol、BUN、Cr、Na、K、C3、C4、ANA、IgA、ASLO、renal ultrasound、spot urine total protein 等以找出造成腎病症候群的可能疾病。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 抗核抗體 (antinuclear antibody) 陽性 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (4) 血液生化檢查如白蛋白、膽固醇、血清補體、ANA、鏈球菌血清學檢查等。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -61,10 +71,6 @@ SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 
 - A. 抗核抗體 (Anti-nuclear antibody, ANA) 30 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - #### A. 抗核抗體 (Anti-nuclear antibody, ANA) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ANA 是風濕免疫科的基本分數,一定要記得很熟,基本的學理也要有概念。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (2) 破壞增加: - a. Immune thrombocytopenic purpura (ITP): - (a) 病因:因未知的原因,身體產生 Anti-PLT Ab,使血小板被破壞。 - (b) 診斷:好發於 15~30 歲女性,藉由排除其他血小板低下的病因後診斷。 - (c) 實驗室檢查: CBC 只見 Plt ↓ 需檢查 ANA、HIV、EBV、Hepatitis virus 以排 除其他次發性原因; Anti-plt Ab 僅具低敏感度及低專一性。 - (d) 治療: - i. Plt > 30,000: 不需治療。(目前治療 guideline 建議維持 30,000 以上) - ii. Plt 10 萬,通常沒有臨床症狀,可繼續使用 heparin,觀察即可。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (A) 4. 一位病人在體檢時發現血小板數為 65,000/μL,紅血球及白血球正常 106(-) 專 ,下列何項檢查對於釐清血小板低下的原因幫忙最小? - (A) platelet antibody - (B) antibody to hepatitis C virus - (C) antibody to human immunodeficiency virus - (D) antinuclear antibody Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (2) AS 病人有 90%HLA-B27(+),但 RF(-)、Anti-CCP(-)、ANA(-)。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...痛已一個多月。最近半年來時常睡至下半夜因下背痠痛而醒來。上星期突然眼痛,視力模糊,被眼科醫師診斷為葡萄膜炎(uveitis)。請問下列那一種檢查對診斷最有幫助? (A) 骨盆腔 X 光 (B) 右膝關節 X 光 (C) 抽血檢查 RF 及 ANA (D) 右膝關節液的檢查 | 104(一)專醫三-8 | | (#) | 8. 有關風濕免疫疾病合併眼病變,下列何種組合最正確? (A) 類風濕性關節炎合併葡萄膜炎(uveitis)及全身性紅斑性狼瘡(SLE)合併眼視網膜病變 (B) 類風濕性關節炎合併鞏膜炎(scleritis)及原發性膽道硬化症合併乾燥症(Sjögren's syndrome) (C) 僵直性脊椎炎合併後房葡萄膜炎(posterior uveitis)及 SLE Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

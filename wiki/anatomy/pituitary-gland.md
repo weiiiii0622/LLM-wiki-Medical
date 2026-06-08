@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book2-ch16]]"
   - "[[sources/med3-book2-ch25]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Pituitary gland (腦垂體)'
   - 'Pituitary gland'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book2-ch16]]
 - [[sources/med3-book2-ch25]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- 【詳解】於 Primary Addison's disease 中由於 glucocorticoid 分泌 不足,使得 pituitary gland 回饋作用分泌 ACTH 增加,為了分泌 ACTH 會先產生前驅物 POMC(pro-opiomelanocortin),POMC 再分解成 ACTH 和 $\gamma$ -MSH(melanocyte-stimulating horone),且 ACTH 又會再分解出 $\alpha$ -MSH,MSH 則會促進黑色素的生產和釋放,故皮膚會廣泛性黑色素沉澱。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (2) 橋本氏甲狀腺炎(早期)、亞急性甲狀腺炎(de Quervain's thyroiditis)、pituitary adenoma、腦下垂體對 T4 有抗性等。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - PS: Pseudoprecocious puberty 其 sex hormone 製造與 pituitary gonadotropin secreting 無關。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...1 英吋( - (A) 柯林菲特氏症 (Klinefelter syndrome) - (B) 卡門氏症 (Kallmann syndrome) - (C) 普瑞德威利氏症 (Prader-Willi syndrome) - (D) 先天性腦垂體低能症(Congenital hypopituitarism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

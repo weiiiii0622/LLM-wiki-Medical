@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch03]]"
 aliases:
   - 'Vancomycin (萬古黴素)'
   - 'Vancomycin'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch03]]
 
 ## Key Details From Sources
 
+- 【詳解】病人已給予四天 cephalexin 但傷口仍擴大化膿,懷疑有抗藥性,可能是 MRSA 感染,故選擇 vancomycin 較有效。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (C) 1. 治療黴漿菌 (*Mycoplasma pneumoniae*) 肺炎,下列何種藥物最 109(二)專 適當? 醫四-4 - (A) Penicillin - (B) Vancomycin - (C) Azithromycin - (D) Gentamicin Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (C) 改用 vancomycin 40 mg/kg/day q8h Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (1) 經驗性抗生素使用: - a. 若懷疑 Viridians streptococci 或 Enterococcus: penicillin 或 ampicillin 加上 gentamicin。 - b. 若懷疑 *Staphylococcus aureus*: penicillinase-resistant penicillin 或 vancomycin 加上 gentamicin。 - c. 若針對術後病童或是病童有 prosthetic valves,使用 vancomycin 與 gentamicin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -66,7 +72,7 @@ glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴
 
 ## Related Pages
 
-- 待補。
+- [[conditions/toxic-shock-syndrome|Toxic shock syndrome, TSS (中毒性休克症候群)]]
 
 ## Follow-up
 

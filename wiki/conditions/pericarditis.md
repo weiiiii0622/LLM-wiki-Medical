@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Pericarditis (心包膜炎)'
   - 'Pericarditis'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性)、Leukopenia( Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (3) 心臟的侵犯是川崎病最重要的臨床表現,可能出現 myocarditis、pericarditis with pericardial effusion(急性期)。若沒有治療,約 25% 病人在疾病發生後第二至 三週會有 coronary artery aneurysms;當冠狀動脈瘤內徑≥ 8 mm 時,破裂的機會非常高。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 急性期(前兩週):心律不整、心肌炎、心包膜炎。冠狀動脈發炎,但還不會形成動脈瘤。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...| 頸部淋巴結 | 非化膿性腫脹 | 正常 | A 族鏈球菌喉嚨培養陽性 | 正常 | 廣泛性淋巴腺腫大 | | 其他 | 關節炎 | 精神狀改變,凝血功能異常,休克 | 陽性的喉嚨培養 | 關節痛,合併疱疹病毒感染(30~75%) | 心包膜炎 | | 檢驗報告特性 | 系統性發炎性反應,貧血,肝功能異常 | 血小板低下 | | 合併疱疹病毒感染 (30~50%) | 系統性發炎性反應,貧血 | Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -70,7 +73,6 @@ tags:
 - 1) acute pulmonary edema 2) severe hyperkalemia 3) uremic pericarditis Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - (B) 尿毒性心包膜發炎 (uremic pericarditis) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...s) | | | | (C) 輸血 (blood transfusion) | | | | (D) 經皮冠狀動脈介入治療(percutaneous coronary intervention) | | | | 【詳解】透析是 uremic pericarditis 最根本的治療方式。 | | | (C) | 3. 有關腹膜透析和血液透析的優劣點,下列何者錯誤? | 105(一)專 | | | (A) 血液透析對於超過濾(ultrafiltration)的控制比較正確 | 醫三-36 | | | (B) 腹膜透析比較容易發生血脂肪升高 | | | | (C) 血液透析比較常有白蛋白流失(D) 腹膜透析比較容易有低血鉀情況 | | | | 【詳解】腹膜透析比較容易從透析液中流失白蛋白。 | | | Source: [[sources/med3-book3-ch06|己、透析治療]].
-- A. 急性心包囊炎 (Acute pericarditis) 176 Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 
 ## Clinical Caveats
 

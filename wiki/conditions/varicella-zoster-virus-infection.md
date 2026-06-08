@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Varicella-zoster virus infection, VZV (水痘帶狀皰疹病毒感染)'
   - 'Varicella-zoster virus infection, VZV'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-初感染造成水痘，潛伏再活化造成帶狀皰疹；新生兒與免疫低下族群風險較高。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+初感染造成水痘，潛伏再活化造成帶狀皰疹；新生兒與免疫低下族群風險較高。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- # 4. 水痘帶狀疱疹病毒(Varicella-Zoster Virus, VZV): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (1) 水痘 (Chicken pox): - a. Varicella-Zoster virus 感染所致,又稱為 Human Herpevirus-3(HHV-3),人類是唯一感染宿主,傳染途徑為接觸到病灶處或經由飛沫傳染,感染後身體產生抗體可終身免疫不會再被傳染。 - b. 好發於 5~10 歲之孩童、冬春季節。 - c. 傳染期主要為出疹前兩天到出疹後五天,直到所有水泡都結痂才沒有傳染力。潛伏期平均為 14 天(10~23 天)。 - d. Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (a) 水痘疫苗預防接種: - i. 為活性減毒疫苗,出生滿 1 歲至 12 歲接種一劑即可,12 歲以上者則 須接種兩劑,效價為十年,不過預防效果約 80%,故仍有可能於接種 疫苗後得到水痘。 - ii. 禁忌:先天性免疫功能缺陷、淋巴瘤或腫瘤、有症狀的愛滋病患、接受高劑量類固醇治療者、孕婦、21 天內有接觸水痘或帶狀疱疹病患、對 Neomycin 過敏者禁止接種疫苗。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - VIII. 百日咳 (Pertussis) 177 - IX. 微小病毒 B19 感染 179 - X. 水痘病毒 (VZV) 感染 180 - XI. 麻疹 183 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 水痘病毒主要是透過與感染者的皮膚直接接觸、飛沫或空氣傳染,潛伏期10~21天。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -53,7 +58,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/herpes-zoster|Herpes zoster (帶狀皰疹)]]
 
 ## Follow-up
 

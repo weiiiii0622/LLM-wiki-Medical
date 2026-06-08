@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Polyarteritis nodosa, PAN (結節性多動脈炎)'
   - 'Polyarteritis nodosa, PAN'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- 3. 皮膚切片下為 leukocytoclastic vasculitis 的表現,會有 neutrophil 浸潤於血管本身或 周圍、nuclear dust、RBC 滲出到血管外、以及血管壞死。另可染 Direct immunofluorescence (DIF),去鑑別是哪種疾病引起的 small vessel vasculitis,例如: - (1) Henoch-Schönlein purpura:血管周圍有 IgA 沉澱。 - (2) Cryoglobulinaemia:血管周圍有 IgM 沉澱。 - (3) Cutaneous polyarteritis nodosa 和 ANCA-positive vasculitis: DIF 則多為 negative。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 1. 又稱做 mucocutaneous lymph node syndrome 或是 infantile polyarteritis nodosa; 臨床表現像感染性疾病,病理上是血管炎變化。臨床上 KD 影響血管範圍是在中型血管(medium-sized arteries),其中以冠狀動脈為最常見(其他血管如 axillary、subclavian、femoral、popliteal or brachial arteries 也會受到影響)。若未積極處理,約 20~25% 病人會有冠狀動脈異常 coronary artery abnormalities(CAA)。積極處理(使用 IVIG)的病人發生 CAA 的機率則可降至低於 5%。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 4. Polyarteritis nodosa Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 5. 已知有 B 型肝炎免疫力的人,由下列何種血清標記可區分 HBV 是自然感染(immunity through natural infection)而非經由疫苗 獲得抗體? Source: [[sources/med4-book1-ch04|丁、感染科學]].

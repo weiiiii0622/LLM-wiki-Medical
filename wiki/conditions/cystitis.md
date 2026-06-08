@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Cystitis (膀胱炎)'
   - 'Cystitis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous lesions on the extremitie Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (2) 病毒感染,特別是 adenovirus type 11 and 21, 會造成 cystitis。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 3. 臨床表現:依照感染部位而有不同症狀。 - (1) 尿道炎(urethritis):出現解尿疼痛、燒灼感、頻尿。 - (2) 膀胱炎(cystitis):解尿疼痛(dysuria)、尿急(urgency)、頻尿(frequency)、 恥骨上疼痛(suprapubic pain)、incontinence 與尿液有異味(malodorous urine)。 另外,cystitis 不會引起發燒或是腎實質損傷。 - (3) 腎盂腎炎 (pyelonephritis):常見有腹痛或腰痛、發燒、疲倦、噁心或嘔吐、腹瀉。有些新生兒或是幼兒會表現黃疸、躁動不安、餵食困難甚至體 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...部症狀(anterior lenticonus, dot-and-fleck retinopathy),或 leiomyomatosis。(B)(D) 也可能出現血尿,但無遺 傳性, hypercalciuria 常伴隨腹痛, 頻尿, 或 dysuria, Goodpasture syndrome 則常常同時有肺部及腎的症狀。(C)屬 nephrotic syndrome 的一種,表現主要是 proteinuria 及 edema。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Vitamin B12 deficiency (維生素 B12 缺乏)'
   - 'Vitamin B12 deficiency'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-B12 缺乏造成 megaloblastic anemia，可合併神經病變。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+B12 缺乏造成 megaloblastic anemia，可合併神經病變。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch19]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 記法: Iron → Folate → Vitamin B12 愈長的字愈在後面吸收十二指腸→空腸→迴腸 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (4) Vitamin B12 缺乏:較葉酸缺乏常見, - a. 最常見的是因病人有自體抗體攻擊 Intrinsic factor 或 parietal cell,這稱作惡性貧血(Pernicious anemia);或因為病人的胃、迴腸(Ileum)開過刀;B 12 僅存在肉中,所以素食者也可能缺乏。 - b. Vit. B12 參予的反應包含接收甲基、給甲基, 後者與髓鞘合成有關,若 B12 缺乏,可能造 成周邊神經病變。 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (A) 人體每日所需維生素 B12 的量相當少(約 1~3 微克) Source: [[sources/med3-book4-ch10|甲、貧血]].

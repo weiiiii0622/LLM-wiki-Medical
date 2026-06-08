@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Pseudomonas aeruginosa infection (綠膿桿菌感染)'
   - 'Pseudomonas aeruginosa infection'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- (D) 主要致病機轉為 Pseudomonas 製造的 exfoliative toxin 所引起 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- ...nis / audouinii) | 綠色 | | | 變色糠疹 (Pityriasis versicolor) | 淡黃色或銅橘色 (coppery-orange) | | | 紫質症 (Porphyria) | 粉紅色尿液 | | | 綠膿桿菌 (Pseudomonas) | 黄綠色 | | | 痤瘡桿菌 (Propionibacterium acnes) | 橙色 | | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) 6. 足月兒出生時,母親有發燒症狀且羊膜已在出生前兩天破裂,嬰兒於出生後 8 小時開始明顯的呼吸窘迫,血壓下降,胸部 X 光呈現雙側全面的浸潤,並有少許肋膜腔積水,最可能的診斷為下列何者? - (A) 大腸桿菌(Escherichia coli) 感染 - (B) 綠膿桿菌 (Pseudomonas spp.) 感染 - (C) 肺炎鏈球菌 (Streptococcus pneumoniae) 感染 - (D) B 群鏈球菌(group B Streptococcus)感染 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (2) Pseudomonas aeruginosa 或 Serratia marcescens 在靜脈藥物注射病人較常見。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (4) 若有裝置人工瓣膜,感染病原體要考慮以下菌種:Staphylococcus epidermidis、 Staphylococcus aureus、Viridans group streptococcus、Pseudomonas aeruginosa、 Serratia marcescens、 Diphtheroids、Legionella spp.、HACEK group 以及 Fungi。 PS: HACEK group:Haemophilus species, Aggregatibacter species, Cardiobacterium hominis, Eikenella corrodens, and Kingella species. Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

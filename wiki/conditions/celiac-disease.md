@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch03]]"
 aliases:
   - 'Celiac disease (乳糜瀉)'
   - 'Celiac disease'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-gluten 相關免疫性小腸病變，可造成吸收不良與腹瀉。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+gluten 相關免疫性小腸病變，可造成吸收不良與腹瀉。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ gluten 相關免疫性小腸病變，可造成吸收不良與腹瀉。 本頁已
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch03]]
 
 ## Key Details From Sources
 
+- 1. 慢性、反覆發作、很癢的水泡疾病,與麩質腸病變 (gluten-sensitive enteropathy; GSE) 及表皮 IgA 沉積有關。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- 3. 病因:有些遺傳性的體質對麩質(gluten)異常過敏而產生抗體,這些抗體同時也會攻擊腸胃道及皮膚,免疫複合物(immunocomplex)沉積在皮膚內引發一連串發炎反應。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- (3) 腸胃道症狀如長期腹瀉 (celiac sprue)、營養不良。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (D) 乳糜瀉 (Celiac disease) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...min D Deficiency: - a. 飲食不當(dietary inadequacy):例如母親長期缺乏維生素 D 補充,使得母乳中維生素 D 不足,造成嬰兒獲得來源缺乏。 - b. 吸收不良 (malabsorption): 如 celiac disease、short bowel syndrome、cystic fibrosis、inflammatory bowel disease and gastric bypass surgery。 - c. 肝膽相關疾病:如先天性膽道閉鎖。 - d. 腎臟疾病:如 nephrotic syndrome、renal 1-alpha hydroxylase deficiency (造成 1,25(OH)2 D 缺乏,即 vitamin Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (3) 某些自體免疫疾病亦會出現在 type 1 DM 病人身上: - a. 自體免疫性甲狀腺疾病:可高達 18% 出現在新診斷 type 1 DM 病人身上。 - b. Celiac sprue:約佔新診斷病人 1~5%。 - c. 其它如 Addison's disease、白斑病(vitiligo)、自體免疫多重內分泌病變。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -47,7 +52,7 @@ gluten 相關免疫性小腸病變，可造成吸收不良與腹瀉。 本頁已
 
 ## Related Pages
 
-- 待補。
+- [[conditions/dermatitis-herpetiformis|Dermatitis herpetiformis (疱疹樣皮膚炎)]]
 
 ## Follow-up
 

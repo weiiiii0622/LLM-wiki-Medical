@@ -14,6 +14,8 @@ sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Essential thrombocythemia, ET (原發性血小板增多症)'
   - 'Essential thrombocythemia, ET'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-血小板為主的 MPN，可有血栓或出血風險。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血小板為主的 MPN，可有血栓或出血風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,15 @@ tags:
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch27]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- E. Behçet's disease 74 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- # E. Behçet's disease Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 1. Behçet's disease 是一種病因尚不完全清楚的全身性血管炎疾病,於 1937 年由土耳 其醫師 Hulusi Behçet 正式描述該病例。男女發病比約為 1:1,發病年齡約在 30 歲 上下。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (C) 貝塞特氏症 (Behçet's disease) Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - C. Essential thrombocytothemia (ET) 159 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - 2.95% 病患帶有 JAK2-V617 基因突變。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - ...3.8 g/dL,血小板 446,000/μL,尿酸 7.6 mg/dL(參考區間 2.6~7.5)。骨髓檢查結果呈現 hypercellularity,而且紅血球系列、白血球系列與巨核細胞(megakaryocyte)均有明顯增生的現象。JAK2 gene 有V617F 的突變。以下關於這位病人最可能的疾病之診斷與治療,何者錯誤? Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].

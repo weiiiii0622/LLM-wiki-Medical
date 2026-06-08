@@ -21,6 +21,11 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'IgA vasculitis / Henoch-Schonlein purpura (IgA 血管炎)'
   - 'IgA vasculitis / Henoch-Schonlein purpura'
@@ -35,7 +40,7 @@ tags:
 
 ## Summary
 
-IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +61,23 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch09]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- # F. 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 1. 類過敏性紫斑為一種以侵犯微血管及微血管後小靜脈的過敏性血管炎,由於它並非由第一型過敏反應 IgE 所產生,故稱為類過敏性紫斑。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 3. 其臨床診斷三徵(Triad)主要為皮膚紫斑(多發於下肢和臀部)、腹痛及暫時性關節炎。約25~50%的病童會有腎臟侵犯,但其中只有3~4%的病童會有腎功能衰竭產生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- 3. 典型表徵一開始為 1~2 公分之紫斑,後來會進展為 丘疹、斑塊、結節或腫塊,顏色為粉紅到深紫色,無痛無癢感。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- 【詳解】(A)Kawasaki disease 主要特徵為發燒超過五天、結膜炎、紅疹、草莓舌,按題意描述此病患為傷口感染後所引起,加上未發燒超過五天,故不像 Kawasaki disease。(D)Vibrio vulnificus,海洋弧菌,會有嘔吐、腹瀉、腹痛、急性蜂窩性組織炎和水泡性皮膚炎等病狀,最重要的是需有海水接觸史或是海產食物史。(B)(C)藉由題意描述和刪去法,病人症狀比較像是 scarlet fever,由於病人為傷口感染化膿後引發之 scarlet fever,故應為表皮的 S. aureus 感染所造成,Group A Streptococcus 多為飛沫傳染後喉嚨感染導致 scarlet fever。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- ...好發於 5~10 歲之孩童、冬春季節。 - c. 傳染期主要為出疹前兩天到出疹後五天,直到所有水泡都結痂才沒有傳染力。潛伏期平均為 14 天(10~23 天)。 - d. 臨床症狀: - (a) 前驅症狀:微燒(37.5~39°C)、顫抖、腹痛、肌肉或關節酸痛。 - (b) 起初於臉部或頭皮上出現丘疹(papule)往軀幹及四肢延伸,隨後變成水疱(vesicle),看起來像是「紅玫瑰花瓣上的露珠(dewdrops on a rose petal)」,接著水疱在 8~12 小時內轉變為膿疱(Pustule) 和痂(Crusts)。 - (c) 皮疹會連續分批出現,故同一時間可於身上看見各階段的皮疹變化,同時看見 papules、vesicles、pustules 和 crust Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (5) 遺傳性血管水腫(Hereditary Angioedema (HAE)): 為自體顯性遺傳,顏面、四肢之水腫病灶為其特徵,腸壁的侵犯可造成腹痛症狀。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- 1. 自體顯性遺傳疾病,臨床表現有: - (1) 腸胃道內會長許多過誤性息肉(hamartomatous polyps),約於孩童至三十歲前 出現,患者會有腹痛、腸胃道出血、反覆腸套疊或貧血等症狀。息肉好發於小 腸,特別是空腸,息肉有機會惡性化為 adenocarcinoma,不過機率不高。 - (2) 表皮黏膜出現黑色素沉澱,常可見病患嘴唇周圍、口腔黏膜、手指或手掌有黑色沉澱斑點,黑色斑點出生時即出現,或是在孩童時期出現,並會隨著時間褪掉,但口腔黏膜的色素沉澱會持續存在。(下圖) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...恥骨上疼痛(suprapubic pain)、incontinence 與尿液有異味(malodorous urine)。 另外,cystitis 不會引起發燒或是腎實質損傷。 - (3) 腎盂腎炎 (pyelonephritis):常見有腹痛或腰痛、發燒、疲倦、噁心或嘔吐、腹瀉。有些新生兒或是幼兒會表現黃疸、躁動不安、餵食困難甚至體重下降。當出現上述癥候時, upper urinary tract infection 要列入考慮。急性腎盂腎炎有可能會造成 pyelonephritic scarring,嚴重者造成日後腎臟功能變差甚至高血壓。 - (4) 無症狀菌尿症(asymptomatic bacteriuria):尿液培養陽性但沒有臨床症狀表現,這種情況幾乎只出現在男性 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 2. Henoch-Schonlein purpura nephritis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -68,15 +87,6 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - III. 血小板疾病 355 - A. 血小板低下症 355 - B. 免疫性血小板缺乏紫斑症(ITP) 355 - C. 溶血性尿毒症候群和血栓性血小板減少紫斑症 355 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...性貧血(macroangiopathic hemol-ytic | 1. Pentad: HUS triad + fever + | | 表現 | anemia )、急性腎衰竭、血小板減少。 | CNS change • | | | 2. 腹痛腹瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | h Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (D) 5. 一位 3 歲的男童於一週前發燒、腹瀉,曾在診所接受藥物治療。本日求診時身體診查發現男童有脫水、四肢水腫、肝脾腫大、身上有紫斑,而且男童顯得煩躁不安。實驗室檢查發現血中白血數為 22,000/mm³(中性球 55%,淋巴球 38%,單核球 7%);球血紅素(hemoglobin)值為 8.8 g/dL;血小板數為 55,000/mm³,同時在血液抹片中可以見到毛刺細胞(burr cells)及破碎的紅血球(fragmented RBC),下列何者為最有可能之診斷? - (A) 急性淋巴性白血病(acute lymphoblastic leukemia) - ( Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 其它則有出血 ± 出血點/紫斑(45%)、骨頭疼痛(30%)、肝臟腫大(70%)、脾臟腫大(50%)、淋巴結病變(50%)、腹痛(10%)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (B) 2. 30 歲的婦女,產前 7 天的血壓正常,血液肌酸酐 0.6 mg/dL。產後當天有出血、高血壓、少尿、水腫。理學檢查皮膚沒有紅斑或紫斑,血液 Hb 8.0 g/dL,血小板 70,000/mm³,血液抹片有 fragmented RBCs,haptoglobin 下降,BUN 100 mg/dL,肌酸酐 3.6 mg/dL,尿液 osmolality 400 mOsmol/kg H2O,尿液 Na+ 10 mmol/L,尿液紅血球 20~30/HPF,尿液蛋白質 trace。最可能的診斷是: Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...現無故瘀青,不久又消失,身體其他部位沒有此現象。抽血檢查發現血小板數目正常,template bleeding time 正常,PT 和 aPTT 也正常。下列診斷何者最可能? (A) Von Willebrand disease (B) Henoch-Schonlein purpura (C) senile purpura (D) uremic bleeding | 101(二)專醫三-42 | | (D) | 10. 一位 38 歲男性過去未曾關節腔出血,但因拔牙後流血不止而就醫。抽血檢查發現血小板數目 315,000/mm³,出血時間(template bleedingtime)正常,PT 11.2秒,aPTT 75.3秒。下列診斷何者最應優先考慮?(A) 嚴重型類血友病(ty Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- | (C) | 18,000/μl,白血球及紅血斑 | 思紫斑就診,血液檢查顯示血小板數目為就正常,骨髓內巨核細胞增加。經詳細詢立出血現象,亦未發現其他會造成血小板 | 94(二)檢內 -45 | |-----|---------------------------|----------------------------------------------------------------|-------------| | | 數目降低的疾病。則此時需 | | | | | (A) 輸注血小板濃 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (1) 類似 SLE, **HBV** 相關的結節狀多發性動脈炎(PAN)、**HCV** 相關的冷凝球蛋白血症(Cryoglobulinemia)、過敏性紫斑(Henoch-Schönlein Purpura)等,都是 IC 沉積於血管上,最後導致血管炎。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- 1. 臨床線索:突起摸得到的紫斑 (Palpable purpura)、肺部浸潤 (Pul. infiltrate)、顯微血 尿 (Microscopic hematuria)、慢性鼻竇炎 (Sinusitis)、多發性單神經炎 (mononeuritis multiplex)等,一起或單獨出現都要想到血管炎。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (B) Henoch-Schönlein purpura Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (B) 7. 一位 25 歲女性,無特殊過去病史,因右腋下有一硬塊以及一個月內 體重減輕 5 公斤而至醫院求診,自述並無發燒、盜汗、咳嗽、呼吸 困難或腹痛等症狀,理學檢查除了右側腋下有一 5×6 cm、固定、 無痛性硬塊以外其餘皆正常,亦無可觸性的乳房腫塊。切片報告 (incisional biopsy) 為 poorly differentiated carcinoma,下一步該如 何處理最適當? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (A) 15. 一位 70 歲男性自行走入急診處就醫,主訴為腹痛 3 天,解便困難,有噁心感但無嘔吐。病人描述最近 3 個月來解便較不順。有高血壓的病史,固定於診所拿藥控制。無任何開刀史。血壓為 160/90 mmHg,心跳為 110 次 / min,呼吸速率為 20 次 / min,體溫為 36.4℃。理學檢查發現整個腹部脹大,腸音加快,肛門檢查無發現異常。糞便潛血反應為 1+。腹部 X 光 (KUB) 發現小腸與大腸皆脹大,大腸降結腸段 (descending colon) 後無腸氣。依以上病史與 X 光發現,以下列那一種疾病最有可能? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

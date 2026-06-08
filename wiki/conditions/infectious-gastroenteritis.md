@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Infectious gastroenteritis (感染性腸胃炎)'
   - 'Infectious gastroenteritis'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- 【詳解】癩皮病(Pellagra),原因為營養不良缺乏維他命 B3(即菸鹼酸),主要在日曬部位皮膚一開始會有類似曬傷的狀態,接著逐漸變褐色和脫皮,產生全身色素沉澱。此外口腔有舌炎、口角炎;消化方面有嘔吐、腹瀉、消化不良;精神方面憂鬱、精神分裂、失智以及末梢神經感覺異常等併發症,嚴重者會致死。典型三大症狀(3D): Dermetitis, Diarrhea, Dementia。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (A) 1. 下列何種情形與鉀離子流失所造成的低血鉀 (Hypokalemia ) 最 108( 二 ) 專 無關? - (A) 注射胰島素 (Insulin) - (B) 長期使用利尿劑 (Long-term usage of diuretics) - (C) 腸胃炎引起腹瀉(Gastroenteritis induced diarrhea) - (D) 腎小管酸血症 (Renal tubular acidosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - II. 腹瀉 (Diarrhea) 54 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 4. 下列何種腹瀉(Diarrhea)的機制是屬於 Secretory type diarrhea ? Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -68,7 +71,6 @@ tags:
 - | 部位 | 病毒株 | 疾病 | | |-----|-----------|---------------------|-------------------------------| | 呼吸道 | 7, 14, 21 | 小孩、新兵的呼吸道感染 | | | 明明基 | 3, 4, 7 | 咽結膜炎(游泳池游泳之病史) | Pharyngoconjunctivitis | | 眼睛 | 8, 19, 37 | 角結膜炎(眼科器械移除眼睛異物之病史) | Epidemic keratoconjunctivitis | | 腸胃道 | 40, 41 | 嬰兒病毒性腸胃炎 | Infantile diarrhea | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - (1) 輪狀病毒 (Rotavirus): - a. 雙股之 RNA 分段病毒。 - b. 分型: - (a) Group A: 造成幼兒腸胃炎 (infantile gastroenteritis) 主要的病毒 - (b) Group B:在中國大陸可造成成年人流行感染而致病 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - (2) 疾病:在一般人身上,可引起暫時性的腸胃道感染,而導致水便。在長期配戴隱形 眼鏡的人身上,會造成潰瘍。典型的伺機感染菌(opportunistic pathogen),其感染 多發生在抵抗力較弱的宿主。如在 Neutropenia 的病人,可引起肺炎、敗血症。在 放置導尿管的病人,可引起泌尿道感染。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (A) 5. 一位 26 歲男性病人發生腸道感染,下列何種情形不須使用抗微生物 105(-)專 製劑治療?醫三-65 - (A) nontyphoidal salmonellosis - (B) giardiasis - (C) 有發燒和血便現象之 traveler's diarrhea - (D) 病人有發燒及糞便中很多白血球 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

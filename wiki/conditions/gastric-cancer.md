@@ -16,6 +16,9 @@ sources:
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med3-book4-ch25]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Gastric cancer (胃癌)'
   - 'Gastric cancer'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,17 @@ tags:
 - [[sources/med3-book4-ch21]]
 - [[sources/med3-book4-ch22]]
 - [[sources/med3-book4-ch25]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- (D) 對於肥胖相關的黑色棘皮症,減重對於皮膚病灶沒有改善作用 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細 胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發 於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗 性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、 雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一 種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症 最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或 治療相關之癌症。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- (3) 合併惡性腫瘤之肌炎(20%) - a. 罹患成人型的皮肌炎者/多發性肌炎者,合併惡性腫瘤的機會較高,包括肺癌、子宮頸癌、卵巢癌、胰臟癌、胃癌與膀胱癌等,而台灣等東南亞地區尤其以合併鼻咽癌為最多。但其真正原因則有待進一步研究,病人應定期做各部位之癌症篩檢,包括:乳房、卵巢、子宮、肺、胃、大腸及鼻咽等,以便能早期發現與治療,提高治癒機會。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 3. Leser-Trélat Sign:假使身上短時間大量出現脂漏性角化症時,須懷疑體內是否有癌症,特別是胃癌、肺癌、與大腸癌,為 paraneoplastic syndrome 的一種表現。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - ...large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...(C) Epstein-Barr 病毒感染 (D) 人類乳突病毒感染 (HPV) | 107(二)專醫三-36 | | (B) | 4. 有關微生物及癌症的關係,下列何者關聯性最低? (A) Helicobacter pylori vs. 胃癌(gastric cancer) (B) Human papilloma virus vs. 子宮癌(uterine cancer) (C) Human herpesvirus type 8 vs. 卡波氏肉瘤(Kaposi's sarcoma) (D) Epstein-Barr virus vs. 霍金氏淋巴癌(Hodgkin's lymphoma) | 106(二)專醫三-60 | | (C) | 5. 一位 33 歲男性病人,有一 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...之腫瘤(A) 大腸癌(C) 乳癌 | 指標(tumor marker)?(B) 卵巢癌(D) 肺癌 | 94(二)檢內-48 | | (B) 23. CA-125 為那一種癌症之腫瘤(A) 肺癌(C) 乳癌 | 標記?(B) 卵巢癌(D) 胃癌 | 94( 一 ) 檢內 -19 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
@@ -62,11 +73,6 @@ tags:
 - 其中 a, b 亦被稱之 type B gastritis;Type A gastritis 為 Autoimmune gastritis $\rightarrow$ 和 H.p. 無關 H.p. 已知與胃內 hyperplastic polyp 有關;另外長期感染造成 intestinal metaplasia 也可能是後續引發胃癌的危險因子之一。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - (A) Helicobacter pylori infection 會造成 10~15% 的感染者產生慢性 胃炎,這些患者少數會發生消化性潰瘍或胃癌 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - (D) Helicobacter pylori infection 的 outcome 除了 bacterial virulent factor 之外,也與 host factor 有關,若兩者交互作用造成 antrumpredominant 胃炎,感染者的胃萎縮及胃癌的風險關聯性較大;若造成 corpus-predominant 胃炎,感染者的十二指腸潰瘍的風險較大,而與胃癌的風險關聯性較小 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- ...膚有色素沈著 (C) 息肉可能變大或出血,造成腸阻塞或腸套疊 (D) 息肉本身就是一種惡性病變,因此要將所有息肉切除乾淨 【詳解】(D) 息肉本身是良性,但病患一生中有 37~93% 發生癌症,最常見依次是大腸直腸癌、乳癌(腸胃道中最多)、胃癌、小腸癌、胰臟癌。 | 99(一)專醫三-17 | | (D) | 7. 下列關於潰瘍性大腸炎(ulcerative colitis)之敘述,何者錯誤? (A) 患者常解血便 (B) 常侵犯直腸 (C) 主要病灶在腸之黏膜層(mucosa) (D) 好發生在國人 | 98(一)專醫三-21 | | (B) | 8. 下列有關克隆氏病(Crohn's disease)之敘述,何者錯誤? (A) 易併發瘻管(fistula)及腸阻塞 (B) Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- (D) 1.70 歲男性經內視鏡檢查及組織切片發現有胃腺癌,請問下列何者與 病人胃癌之發生較無相關? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- 【詳解】檳榔和口腔癌較有關係,(ABC) 皆為胃癌的危險因子。 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- (C) 4. 承上題,病患理學檢查無蜘蛛斑 (spider angioma)、肝掌斑 (palmar erythema)、肝脾腫大 (hepato-splenomegaly) 及腹水現象,腹部超 醫三-73 音波於肝膽胰脾無異常發現,此病人最可能之診斷為: - (A) 食道靜脈曲張出血 - (B) 胃癌出血 - (C) Mallory-Weiss 症候群 - (D) 十二指腸潰瘍出血 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- (A) 胃腺癌 (gastric adenocarcinoma) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

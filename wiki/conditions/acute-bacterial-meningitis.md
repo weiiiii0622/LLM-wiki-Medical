@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Acute bacterial meningitis (急性細菌性腦膜炎)'
   - 'Acute bacterial meningitis'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-兒童 CNS 細菌感染急症，診斷依臨床、CSF 與病原檢查，治療需即時。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童 CNS 細菌感染急症，診斷依臨床、CSF 與病原檢查，治療需即時。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- b. 晚期隱性、心臟血管性、三期梅毒: - (a) CSF 正常: Penicillin G benzathine 2.4 million units IM QW\*3weeks。 - (b) CSF 異常:Aqueous penicillin G(18~24 million units/d IV, given in divided doses every 4 hours)for 10~14 days。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 4. 異位性皮膚炎的病因是許多因素綜合的結果,家族性和異位性體質等基因因素加上環境中過敏因子,造成 Type I(IgE-mediated)hypersensitivity reaction,急性發炎反應和 Th2、IL-4、IL-13 有關,慢性發炎反應則和 Th1、IL-5、IL-12、GM-CSF、IFN-γ有關。 - (1) 常見的過敏原包括塵蟎、貓狗等動物的毛、蟑螂、黴菌、花粉等,幼兒期腸胃 道比起大人較可能受食物過敏原影響,常見的可能食物過敏原有牛奶、蛋白、 麥、花生、海鮮等。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - # A. 急性細菌性腦膜炎 (Acute Bacterial Meningitis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (1) 出生兩個月內的病人得到細菌性腦膜炎多半因為母親身體與環境的菌叢造成。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (1) 病史詢問:在新生兒與幼小嬰兒時期細菌性腦膜炎症狀多沒有特異性,每個病 童臨床表現差異很大。當小朋友出現活動力變差、食慾下降、看起來病懨懨的, 不管是否有無發燒或是神經學症狀,皆要考慮腦膜炎的可能性。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

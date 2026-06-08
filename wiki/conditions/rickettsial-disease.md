@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Rickettsial disease (立克次體疾病)'
   - 'Rickettsial disease'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-節肢動物媒介或人畜共通感染，常以發燒、皮疹或 eschar 呈現。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+節肢動物媒介或人畜共通感染，常以發燒、皮疹或 eschar 呈現。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- (A) 高度懷疑是 Scrub Typhus,又可稱 為 Tsutsugamushi disease Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 【詳解】恙蟲病(scrub typhus) 為被恙蟲叮要後感染恙蟲病立 克次體 Orientia tsutsugamushi(Rickettsia tsutsugamushi) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 所致,為革蘭性陰性菌。叮咬處會出現焦痂(eschar),大多無痛性,伴隨有發燒、頭痛、出汗、結膜充血和淋巴結腫大。發燒一週後身體會出現暗紅性丘疹並擴散至四肢,數天後會消失。恙蟲體立克次體會攻擊血管內皮細胞,組織切片可見lymphohistiocytic vasculitis。病患多數有旅遊史,台灣病例主要分佈在金門縣、澎湖縣、台東縣、花蓮縣和南投縣。診斷可作PCR 病原體檢測及細胞培養法做病原體分離或以間接螢光抗體法(Indirect Immunofluorescene Assay, IFA)測其 IgM 及 IgG 抗體, IgM $\geq$ 1:80 或 IgG 有 4 倍以上上升者判定為陽性。治療則給予 Doxycycline bid 七天。以上選項皆對。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...披衣菌 | Chlamydia | C. trachomatis, C. pneumoniae | | | 絕業 | 加內 | 巴東氏菌 | Bartonella | B. henselae | 阿奈尔 | | 寄生 | € (F) | 立克次體 | Rickettsia | R. rickettsii, R. typhi, O. tsutsugamushi | 厭氧 | | | | 考克氏菌 | Coxiella burnetii | | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (4) 補充:外斐氏試驗(Weil-Felix test)是利用立克次體與特定的變形桿菌的抗原相似, 以對抗特定變形桿菌抗原的抗體來診斷立克次體感染。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

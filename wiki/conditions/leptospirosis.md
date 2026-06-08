@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Leptospirosis (鉤端螺旋體病)'
   - 'Leptospirosis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-動物尿液或水土暴露相關 spirochete infection，可侵犯肝腎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+動物尿液或水土暴露相關 spirochete infection，可侵犯肝腎。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- (A) 鉤端螺旋體 (leptospirosis) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (C) 鉤端螺旋體症(Leptospirosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (B) 9. 一位 6 歲男童發燒 5 天就診,身體檢查發現上眼皮浮腫、扁桃腺 98(-)專有滲出液(exudate)、肝臟下緣於右肋下方 5 公分、脾臟下緣於 醫四-2 左肋下方 3 公分,下列那一種檢查對於診斷最有幫助? - (A) Weil-Felix reaction - (B) Heterophile antibody test - (C) Throat bacteria culture - (D) Throat virus culture Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...Tre | | Treponema | T. pallidum | | | Spir | ochete | 疏螺旋體 | Borrelia | B. burgdorferi, B. recurrentis | 厭氧 | | (E) | | 鉤端螺旋體 | Leptospira | Leptospira interrogans | | | | | 披衣菌 | Chlamydia | C. trachomatis, C. pneumoniae | | | 絕業 | 加內 | 巴東氏菌 | Bartonella | B. henselae | 阿奈尔 | | 寄生 | € (F) | 立克次體 | Rickettsia | R. rickettsii, R. typhi, O. tsut Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

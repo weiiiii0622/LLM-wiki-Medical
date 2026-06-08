@@ -19,6 +19,8 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch03]]"
 aliases:
   - 'Cephalosporins (頭孢子菌素類)'
   - 'Cephalosporins'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,14 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch03]]
 
 ## Key Details From Sources
 
+- b. 給予抗生素: Clindamycin [Clindmaycin 可抑制細菌產生毒素]、Oxacillin、1st Cephalosporin。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (C) 2nd generation Cephalosporin Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - 2. 若使用 Amoxicillin 後病情沒有改善、有併發症、病患最近 30 日內有使用 Amoxicillin,則考慮使用 Amoxicillin/Clavulanate 或是第二代 Cephalosporin。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 3. 抗生素:Unasyn 200 mg/kg/day 或 ceftriaxone 50 mg/kg/day 或是 cefotaxime 150~200 mg/ka/day。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - | Nelson Textbook of Pediatrics 21 th Edition Table 428.6 | |-------------------------------------------------------------------------------------------------------------| | Age | | | Tetracyclines* | 2° 或 3° cephalosporins | | | | Fluoroquinolone | Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -70,9 +77,6 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - 2. 肺炎雙球菌導致的腦膜炎需根據抗藥性狀況,選擇抗生素(重要,常考!!)。 - (1) 完全沒有抗藥性可考慮 IV high dose penicillin。 - (2) 一般經驗性用藥需使用第三代cephalosporin最好的選擇是Ceftriaxone(Rocephin®)。 - (3) 高度抗藥性,需加上 Vancomycin。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - 3. 可能因接觸病患喉嚨或鼻腔分泌物、飛沫而傳染,可能於潛伏期 3~4 天後發病。因此 罹病者須隔離、接觸者須預防性投藥,原則如下: - (1) 罹病者須迅速投予高劑量的第三代 cephalosporin,須在 24 小時內向衛生單位通報, 以進行相關防疫措施。至少住院的第一天必需採取呼吸道隔離(投藥後 24 小時即 不具傳染力)。 - (2)接觸者:同住之家人、室友、直接接觸口鼻分泌物之醫療人員應儘速投予預防性抗 菌藥物 rifampin(600 mg PO bid for 2 days)。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (2) 治療: - a. 完全沒有抗藥性可考慮 IV high dose penicillin - b. 一般經驗性用藥需使用第三代 cephalosporin 最好的選擇是 Ceftriaxone。 - c. 高度抗藥性,需加上 Vancomycin、Rifampin。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 2. 治療:施打多糖體莢膜的疫苗,親密接觸者給予 Rifampin 預防,患病者給予第三代頭 孢黴素(如 Ceftriaxone)治療。[ 詳見腦膜炎章節 ] Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 2. 治療: - (1) 患病者:給予第三代頭孢黴素(如 Ceftriaxone 250 mg im for one dose)加上四環黴素(Tetracycline),如此亦可 cover 性病常見的砂眼披衣菌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...-|--| | 最常見 | | Staphylococcus,Streptococcus | Oxacillin for Staphylococcus Penicillin for Streptococcus 1st generation cephalosporin for both | | | | 貓咬 (Cat bite) | Pasteurella multocida | | | | 咬傷 | 狗咬 (Dog bite) | Capnocytophaga canimorsus,Streptococcus intermedius, Anaerobes | A | | | | 人咬 (Human bite) | Eikenella corrodens | Ampicillin-clavulant Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 
 ## Clinical Caveats
 
@@ -81,7 +85,7 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 
 ## Related Pages
 
-- 待補。
+- [[conditions/staphylococcal-scalded-skin-syndrome|Staphylococcal scalded skin syndrome, SSSS (葡萄球菌性燙傷樣皮膚症候群)]]
 
 ## Follow-up
 

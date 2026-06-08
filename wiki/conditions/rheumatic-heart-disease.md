@@ -23,6 +23,9 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Rheumatic heart disease (風濕性心臟病)'
   - 'Rheumatic heart disease'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,17 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (B) 8. 66 歲男性出現如圖所示病灶,最可能診斷,與最重要的臨床特徵 106(二)專 為何? 醫四-43 - (A) 紅斑性狼瘡(lupus erythematosus);狼瘡性脂肪炎(lupus panniculitis) - (B) 全身性硬皮症 (systemic sclerosis); 手 指硬化 (sclerodactyly)、手指潰瘍 (digital ulcerations) - (C) 類風濕性關節炎(rheumatoid arthritis); 類風濕性結節(rheumatoid nodules) - (D) 皮肌炎 (dermatomyositis); Gottron 氏徴 候 (Gottron sign) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (D) 32. 一個 6 歲大的男孩,雙股及兩側下肢出現紫斑及出血疹,男孩無 98( ) 專 發燒,精神良好,但右膝腫脹,全血球計量正常,最可能診斷為: 醫四 -11 (A) 原發性血小板過低紫斑症 (idiopathic thrombocytopenic - (B) 青年型類風濕性關節炎(juvenile rheumatoid arthritis) - (C) 腦膜炎雙球菌敗血症(meningococcemia) - (D) 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura 【詳解】(A) 全血球不會正常。(B) 會發燒。(C) 會發燒,且意識 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 【詳解】(A) 治療首選為 Penicillin G。(B) 類風濕性關節炎、SLE 或其他病毒感染皆會造成 VDRL 偽陽性,故須配合 TPHA(+) 和臨床症狀才可診斷為梅毒。(C) 梅毒螺旋桿菌為螺旋體,一般 Gram stain 無法染上,需以暗視野顯微鏡檢(dark-field microscopy)或直接螢光抗體染色(Direct fluorescent antibody staining)觀察。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) 風濕性關節炎 (rheumatoid arthritis) Source: [[sources/med4-book2-ch11|子、其 他]].
 - III. 後天性心臟疾病 (Acquired Heart Disease) 30 - A. 感染性心內膜炎 (Infective endocarditis) 30 - B. 風溼性心臟病(Rheumatic heart disease) 32 - C. 川崎病 (Kawasaki disease) 33 - D. 心肌炎 (Myocarditis) 39 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - Acquired heart disease 在成人比兒童較常見。先天性心臟病在出生前心臟已經出現問題,出生後有臨床表現;後天性心臟病常因病人本身以外因子造成。兒科常見後天性心臟病有感染性心內膜炎、風濕性心臟熱、川崎症、心肌炎。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 對於部分先天性心臟病或是風濕性心臟病的病人, infective endocarditis 是常見的併發症。其中,對於 TOF 等發紺型先天性心臟病 (cyanotic congenital heart disease)的病人都是高危險性病人。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -76,11 +87,6 @@ tags:
 - (2) 類風濕性血管炎 (Rheumatoid vasculitis): 發生在高 RF titer 等病患,可能造成 - a. Neurovascular disease: Distal sensory polyneuropathy · Mononeuritis multiplex - b. Cutaneous vasculitis: Dermal necrosis · Digital gangrene · Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - ...- b. 新發生的頭痛 (New headache) - c. 顳動脈疼痛、脈搏減弱 - d. ESR > 50 mm/h - e. 切片:血管發炎且有肉芽腫(Granuloma)形成 - (3) 有 40~50%的顳動脈血管炎病人會合併風濕性多發性肌痛症(Polymyalgia rheumatica),這兩個病是同一病理的兩個不同臨床表徵,皆是中大型的血管發炎,一個導致頭痛,一個導致肩頸、背、大腿多處肌肉痠痛。 - (4) 治療: - a. 類固醇治療效果良好。巨細胞血管炎需 Prednisolone 40~60 mg/d;若僅有風濕性多發性肌痛症,僅需 Prednisolone 10~20 mg/d Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - ...------------------------|----------------------| | (B) | 2. 有關顳動脈血管炎(temporal arteritis)的敘述,下列何者正確? (A) 屬於中小型血管炎 (B) 常常與風濕性多肌痛(polymyalgia rheumatica)一起發生 (C) 好發於 20~40 歲女性 (D) 通常對類固醇的治療反應不佳 | 108( 一 ) 專醫三 -32 | | (C) | 3. 下列有關各種血管炎臨床特徵的描述,何者最為正確? (A) granulomatosis with polyangiitis—urticaria (B) microscopic polyangiitis—chronic sinusitis ( Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (A) Rheumatic valvular heart disease Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...位 33 歲男性,因肥胖來門診諮詢。為強化病人減重的動機,你會告訴他有關肥胖的併發症。肥胖會增加下列那一種疾病的風險? (A) 甲狀腺功能低下症(hypothyroidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- 1. 這類疾病與 RA 都會造成滑液膜炎、骨質腐蝕 (Bone erosion),但卻類風濕性因子陰性,這也是這類疾病被稱為「血清陰性」的原因,藉此與 RA 做區隔。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...斷最有幫助? (A) 骨盆腔 X 光 (B) 右膝關節 X 光 (C) 抽血檢查 RF 及 ANA (D) 右膝關節液的檢查 | 104(一)專醫三-8 | | (#) | 8. 有關風濕免疫疾病合併眼病變,下列何種組合最正確? (A) 類風濕性關節炎合併葡萄膜炎(uveitis)及全身性紅斑性狼瘡(SLE)合併眼視網膜病變 (B) 類風濕性關節炎合併鞏膜炎(scleritis)及原發性膽道硬化症合併乾燥症(Sjögren's syndrome) (C) 僵直性脊椎炎合併後房葡萄膜炎(posterior uveitis)及 SLE 合併視網膜病變 (D) 乾癬性關節炎合併鞏膜炎及僵直性脊椎炎合併前房葡萄膜炎(anterior uveitis) 【詳解】本題答(B) 或(D) 或 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- (B) 類風濕性關節炎 (Rheumatoid arthritis) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

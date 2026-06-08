@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Topoisomerase inhibitors (拓樸異構酶抑制劑)'
   - 'Topoisomerase inhibitors'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-抑制 DNA 拓樸異構酶造成 DNA 損傷，常見於 GI、肺癌與血液腫瘤治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 DNA 拓樸異構酶造成 DNA 損傷，常見於 GI、肺癌與血液腫瘤治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...stemic Scleroderma, dSSc):疾病進程較迅速,通常會侵犯一到多個內臟。小於 5% 的廣泛型病患有 anti-centromeric antibodies,但約 40% 的病患可驗出 anti-Scl-70 (anti-topoisomerase I)。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (4) 治療:控制好引發 HLH 的原因是最基本的治療,然後再用以下方式。 - a. 化療藥物: etoposide + dexamethasone +/- cyclosporine。 - b. IVIG + steroid 使用在低危險族群。 - c. 無法控制的脾功能亢進者考慮脾切除。 - d. 幹細胞移植:有機會治癒,特別是 primary HLH 的病人。目前治癒率可達到 6 成以上。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 標準化療藥物組合:BEP (Bleomycin, etoposide, cisplatin)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - C. G2 phase (Topoisomerase inhibitors、 拓樸異構酶抑制劑) 203 Source: [[sources/med3-book4-ch19|乙、化學治療]].

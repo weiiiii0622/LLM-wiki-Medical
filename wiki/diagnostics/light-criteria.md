@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book4-ch16]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Light criteria (Light 標準)'
   - 'Light criteria'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,17 @@ tags:
 - [[sources/med3-book4-ch16]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- (4) 特色是在伍德氏燈(Wood light)下會呈現珊瑚紅螢光(coral red)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (A) 2.60 歲男性,在腹股溝出現搔癢之紅斑,以伍氏燈(Wood's light) 檢查出現如圖之發現,最適合之診斷為: 103(二)專 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (C) 6.45 歲女性糖尿病患,3天前於右側額部出現叢集樣水疱(grouped 105(二)專 vesicles)合併紅斑,同側鼻尖亦出現數個水疱,下列何者為最需 醫四-40 要之檢查? - (A) 皮膚劃紋反應(dermatographism) - (B) KOH 鏡檢 - (C) 眼科檢查 - (D) 伍氏燈檢查 (Wood's light examination) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- ...| (A) 若增加的黑色素顆粒在表皮層,使用對苯二酚(hydroquinone) | 醫四 -43 | | | 藥膏可有效淡化 | | | | (B) 若增加的黑色素顆粒在真皮層,使用脈衝光 (intense pulsed | | | | light, IPL)比釹雅各(Nd:YAG)雷射效果更好 | | | | (C) 若施打雷射的劑量太強或施打太頻繁,容易造成醫源性色素 | | | | 脫失 | | | | (D)外用A酸(retinoic acid)藥膏對於雀斑(freckles)有淡化 | | | | 效果 | | | | 【詳解】(A) 對苯二酚能抑制酪胺酸酶(tyrosinase)減少黑色素 | | | | 的生成,對於真皮層和角質層的斑都有效,例如痘疤、肝斑、 | | Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (D) excimer light (308 nm) Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (A) 14.50 歲男性,主訴臉部有脫色斑,KOH 鏡檢陰性,伍氏燈(Wood's 103(二)專 light)檢查下對比更加明顯,臨床如圖所示,其診斷為下列何者? 醫四-42 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (1) high spiking fever (39℃或更高)、兩側結膜紅腫 (usually without exudates)、口 與咽部發現紅斑 (erythema)、草莓舌 (strawberry tongue)、嘴唇乾裂、頸部淋 巴結腫大、身上出現紅疹、手腳紅腫等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...peeling of fingers, toes in wk 2 and 3 - b. Polymorphous exanthem - c. Bilateral bulbar conjunctival injection without exudate - d. Erythema and cracking of lips, strawberry tongue, and/or erythema of oral and pharyngeal mucosa - e. Cervical lymphadenopathy (>1.5 cm diameter), usually unilateral Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) 9. 一位 6 歲男童發燒 5 天就診,身體檢查發現上眼皮浮腫、扁桃腺 98(-)專有滲出液(exudate)、肝臟下緣於右肋下方 5 公分、脾臟下緣於 醫四-2 左肋下方 3 公分,下列那一種檢查對於診斷最有幫助? - (A) Weil-Felix reaction - (B) Heterophile antibody test - (C) Throat bacteria culture - (D) Throat virus culture Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -53,10 +63,6 @@ tags:
 - 【詳解】SAAG = 3.5 - 2.6 = 0.9 左側 (15%) >右側 (8%) 積水 | 積水,80% 在右側,通常大量到可佔整個 | | | hemithorax | | Post-CABG | Meigs' syndrome | | | 70% 右側積水,exudate with low WBC | | | < 1,000, CA125 ↑ (不該認為與 | | | malignancy 有關 ) | Source: [[sources/med3-book2-ch18|丙、腹 水]].
 - #### 1. 先分是 Exudate 或是 Transudate: Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - (1) Light's criteria (三個符合一個即為 Exudate) Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
-- | Exudate | Malignancy, TB, Empyema | 繼續以下列方法鑑別診斷 | |------------|------------------------------------|-------------| | Transudate | CHF, Cirrhosis, Nephrotic syndrome | 依照前述疾病治療 | Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
-- C. 病程: 全身的發炎反應導致 Neutrophil 活化、黏附到肺部微血管壁,導致肺間質充滿滲出液(Exudate)。病程分為三期: Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- ...----------------------------------------------| | 滲出期 | 肺水腫(Pul. edema) | 1~3 天 | 炎症細胞浸潤、第一型肺泡上皮細胞破壞、微血管通透性增加、肺泡中充斥滲出液 (Exudate) | | (Exudative) | 透明膜(Hyaline membrane) | 3~7 天 | 嗜伊紅性之高蛋白滲出液沈著於肺泡,顯微鏡下呈現透明膜般之構造,為 ARDS 特別的病理特徵 | | 增生期(Proliferative) | 纖維增生期(Fibroproliferative) | 7~10 天 | 纖維母細胞、第二型肺泡細胞增生、膠原蛋白增加肺間質發炎、纖維化 | Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- 1. 利尿劑: ARDS 肺泡內是發炎的 Exudate, 無法以利尿劑脫出。 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
 
 ## Clinical Caveats
 

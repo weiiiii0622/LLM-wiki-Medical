@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Esophageal cancer (食道癌)'
   - 'Esophageal cancer'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book4-ch21]]
 - [[sources/med3-book4-ch22]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) 152 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- # K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- (A) 鱗狀細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 2. Squamous cell carcinoma 會分泌 PTHrP 造成高血鈣(HyperCalcemia),因為常長在肺尖(Pancoast tumor)而造成肩痛、手臂痠痛、Horner syndrome。 - \*口訣:死龜(Squa)愛搞怪(高鈣),愛爬到肺尖造成肩痛 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...rathyroid hormone-related peptide)的產生最常見於何種肺癌的組織學型態? (A) 小細胞肺癌(small cell lung cancer) (B) 腺癌(adenocarcinoma) (C) 鱗狀細胞癌(squamous cell carcinoma) (D) 大細胞肺癌(large cell carcinoma) | 107(一)專醫三-48 | | (B) | 3. 下列腫瘤何者較不會合併紅血球增生症? (A) 腎細胞癌 (Renal cell carcinoma) (B) 淋巴瘤 (Lymphoma) (C) 肝癌 (Hepatocellular carcinoma) (D) 小腦血管母細胞瘤 (Cerebellar hemangioblastoma) | 100(二)專醫三 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - (1) PTHrP: oncogen, virus, local growth factor - a. 常見於 Squamous cell carcinomas、Renal carcinomas、Bladder carcinoma 等。 - b. 某些腫瘤的 ras(oncogen)過度活化,會造成 PTHrP 表現增加;導致 Adult T cell lymphoma 的 HTLV-1 也會加強 PTHrP 表現;骨轉移的腫瘤可能因為骨頭提供的環境,PTHrP 表現也較多。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].

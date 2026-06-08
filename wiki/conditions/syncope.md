@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med3-book4-ch29]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Syncope (暈厥)'
   - 'Syncope'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch12]]
 - [[sources/med3-book4-ch29]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...): 發生於人體接觸到低溫時,如跳入游泳池或以冰塊接觸皮膚。 - c. 陽光誘發型蕁麻疹(Solar Urticaria): 發生於人體曝曬於陽光下(波長 290~500 nm)的局部部位,此種蕁麻疹於曝曬數分鐘內即可發生,有時會併發暈眩(syncope)。 - d. 膽素型蕁麻疹(Cholinergic Urticaria):發生於運動、洗熱水澡或合併有焦慮症的人身體上,其成因與控制身體血壓和心跳等功能的神經系統釋放出來的某些化學物質有關。例如激烈運動完身體某處皮膚會有癢感,抓一抓會出現疹子。 - e. 水誘發型(Aquagenic Urticaria):非常罕見,接觸到任何溫度的水皆能引起。 - f. 壓力誘發型蕁麻疹 (Pressure Urticaria): 發生於局部人體接觸 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 【詳解】肺栓塞會使肺動脈血管阻力上升導致肺高壓,常見症狀包括 dyspnea、pleural pain、tachycardia、syncope(cardiac output 突然 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - A. 在一特定時期內有強烈害怕或不適感受,突然發生下列四項以上的症狀,並在十分鐘內 達到最嚴重的程度: - 1. 心悸、心怦怦跳或心跳加快; 2. 出汗; 3. 發抖或顫慄; 4. 呼吸困難或窒息感; 5. 哽塞感; - 6. 胸痛或不適;7. 噁心或腹部不適;8. 頭暈、不穩感覺、頭昏沉或暈厥;9. 失去現實感或失去自我感;10. 害怕失去控制或即將發狂;11. 害怕即將死去;12. 感覺異常;13. 冷顫或臉潮紅。 Source: [[sources/med3-book4-ch29|己、特定議題]].
 - (D) 8. 一位 88 歲男性有攝護腺肥大病史,主訴近半年來體能衰退很多,身 體虛弱,3個月前曾因近乎昏厥(near syncope)送至急診處,心跳 較慢約 58/min,規則,抽血發現 Na+ 124 mmol/L,Troponin I + 104 mmol/L,其他生化檢查: Cr 1.0 mg/dL , BUN 15.3 mg/dL , K+ 5.4 mmol/L , Ca2+ 2.07 mmol/L , albumin 4.7 g/dL, blood sugar 113 mg/dL。下列敘述何者錯誤? - (A) 此病人住院時 serum osmolali Source: [[sources/med3-book3-ch02|乙、離子平衡]].

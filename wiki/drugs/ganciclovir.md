@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Ganciclovir / Valganciclovir (更昔洛韋類)'
   - 'Ganciclovir / Valganciclovir'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - ...and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosis, deafness and thrombocytopenia. | | | CMV | Microcephaly with periventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoc Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (3) Urine antigen and culture : CMV • Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 【詳解】Nelson's Textbook of Pediatrics 21st Edition 在 Chapter 282 提到先天性感染 CMV 的新生兒,僅有 10% 有症狀。臨床上常有的表現有 patechia(54%)、jaundice(direct bilirubin > 2 mg/dL)(42%)、microcephaly(35%)、IUGR(28%)、prematurity(24%)、hepatosplenomegaly(19%)、purpura(3%)以及較少見的 sensorineural hearing loss。另外,母親感染 CMV,其分泌的母乳也可帶有 CMV 並可透過母乳餵食感染新生兒(Nelson 內文並未寫明感染機率)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].

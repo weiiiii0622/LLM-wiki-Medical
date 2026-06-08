@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Cancer screening (癌症篩檢)'
   - 'Cancer screening'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-針對無症狀族群以年齡與風險分層安排癌症早期偵測。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+針對無症狀族群以年齡與風險分層安排癌症早期偵測。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch27]]
 - [[sources/med3-book4-ch10]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- (3) 合併惡性腫瘤之肌炎(20%) - a. 罹患成人型的皮肌炎者/多發性肌炎者,合併惡性腫瘤的機會較高,包括肺癌、子宮頸癌、卵巢癌、胰臟癌、胃癌與膀胱癌等,而台灣等東南亞地區尤其以合併鼻咽癌為最多。但其真正原因則有待進一步研究,病人應定期做各部位之癌症篩檢,包括:乳房、卵巢、子宮、肺、胃、大腸及鼻咽等,以便能早期發現與治療,提高治癒機會。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (5) 對每一位新診斷之病人,應做全面性的癌症篩檢,尤其年紀大的病人需定期進行防癌檢查,鼻咽部腫瘤則至少每年應檢查一次。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (C) 1. 對一個無乳癌家族或個人史的女性,下列何種乳癌篩選,比較符合 美國、加拿大及歐洲的相關建議? - (A) 自 50 歲起每 2 年做一次核磁共振檢查 (MRI) - (B) 自 40 歲起每 2 年做一次乳房超音波 (sonography) - (C) 自50歲起每2年做一次乳房攝影(mammography) - (D) 自 35 歲起每 2 年做正子攝影檢查 (PET) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - 【詳解】(C)雖然大部分的早期偵測大腸癌的計畫都強調糞便潛血 檢查,但卻有50%證實有大腸癌的病人其糞便潛血檢查是陰性的, 這和大腸癌的出血是間斷性的有關,因此敏感度其實不高;另外, 潛血陽性的也< 10%後來發現有大腸癌。其實, Colonoscopy 才是 最具敏感的檢查;因此 ACS 建議篩檢的方法是大於 50 歲的人每年 檢查大便潛血,且5年檢查一次 sigmoidoscopy。(Harrison, 529) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - #### (3) 台灣癌症篩檢建議: [Ref. 國民健康局] Source: [[sources/med3-book4-ch27|丁、預防醫學]].

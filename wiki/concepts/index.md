@@ -29,8 +29,10 @@ Mechanisms, definitions, and frameworks.
 - [[concepts/opportunistic-infection|Opportunistic infection (伺機性感染)]] - 免疫功能下降時由平時低致病性或潛伏病原造成的感染。
 - [[concepts/oxygen-therapy|Oxygen therapy (氧氣治療)]] - 低氧血症與急性呼吸困難的支持治療。
 - [[concepts/palliative-care|Palliative care (緩和醫療)]] - 以症狀控制、生活品質、溝通與目標照護為核心的全人照護。
+- [[concepts/primary-skin-lesions|Primary skin lesions (基本皮膚病灶)]] - 以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。
 - [[concepts/rate-control|Rate control (心率控制)]] - AF 等心律不整控制心室反應速率的策略。
 - [[concepts/revascularization|Revascularization (血管再暢通)]] - 以 PCI 或 CABG 改善冠狀動脈血流。
 - [[concepts/rhythm-control|Rhythm control (節律控制)]] - 恢復或維持竇性心律的策略。
+- [[concepts/secondary-skin-lesions|Secondary skin lesions (次發性皮膚病灶)]] - 膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。
 - [[concepts/smoking-cessation|Smoking cessation (戒菸)]] - 心血管與肺部疾病最重要的風險修正之一。
 - [[concepts/spikes-model|SPIKES model (壞消息告知模型)]] - 病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。

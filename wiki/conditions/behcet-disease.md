@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Behcet disease (貝賽特氏症)'
   - 'Behcet disease'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-復發性口腔/生殖器潰瘍、眼炎與血管炎相關疾病。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+復發性口腔/生殖器潰瘍、眼炎與血管炎相關疾病。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- ...---------------------------------|--|--|--|--| | 皮膚 | (1) Malar rash \( (2) Discoid rash \( (3) Photosensitivity \( (4) Oral ulcer \( \cdot \) | | | | | | 肌肉骨骼 | (5) Non-erosive arthritis involving two or more peripheral joints, | | | | | | | characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleura Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 5. 進行刺針反應(pathergy test)多為陽性結果,以無菌針頭重複輕刺(prick)皮膚, 24~48 小時後會形成發紅丘疹、膿皰或甚至潰瘍的情形。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (A) 12. 承上題,下列敘述,何者錯誤? - (A) 全世界各國都有,以美國發生率最高 - (B) pathergy test 陽性 - (C) 少數病人會合併中樞神經系統併發症 - (D) 亞洲人與可能與 HLA-B5 及 HLA-B51 有關 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - b. 其他原因亦會造成 Budd-Chiari syndrome,如 Behcet syndrome、aspergilosis、inflammatory bowel disease。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - a. Oligoarthritis 預後最好,但較常出現 chronic uveitis(尤其 - a. Serositis: 漿膜炎-肋膜炎或心包膜炎。 - b. Oral ulcers:口腔或鼻咽潰瘍,通常不痛。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - | (A) | 有關貝賽特氏症(Behcet's syndrome)的敘述,下列何者正確? (A)病人常常會反覆口腔與生殖器潰瘍 (B)很少攻擊眼睛 (C)女性病人比男性多,而且病情較嚴重 (D)很少會併發關節痛 | 108(二)專醫三-31 | |-----|------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book4-ch04|丁、血管炎]].

@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Antibiotic resistance (抗生素抗藥性)'
   - 'Antibiotic resistance'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- 【詳解】病人已給予四天 cephalexin 但傷口仍擴大化膿,懷疑有抗藥性,可能是 MRSA 感染,故選擇 vancomycin 較有效。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 【詳解】(B)Prostaphlin 為 Oxacillin 的商品名,故選之。近來 S. aureus 對 Penicillin G 抗藥性大增故不優先選用。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - | 病源菌 | 盛行率 | 對 Amoxicillin 抗藥性 | 自行緩解 | |--------------------------|-------|-------------------|------| | Streptococcus pneumoniae | 50% | 50% | 20% | | Hemophilia influenza | 25% | 40% | 40% | | M. catarrhalis | 12.5% | 100% | 80% | Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 2. 抗生素:因為 *H. influenzae* 和 *M. catarrhalis* 多有 β-lactamase 產生抗藥性,所以 Augmentin 為首選。Augmentin 劑量為 amoxicillin 含量 80~90 mg/kg/day, tid,使用 10 天。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...umoniae - (C) Haemophilus influenzae - (D) Moraxella catarrhalis - 【詳解】(A) 不是急性中耳炎常見的病原體故不選。(D) 因為對 amoxicillin 有 100% 的抗藥性也因此不選。Nelson's Textbook of Pediatrics 20th Edition 中提到 *H. influenza* 雖然抗藥性不比 *S. pneumoniae*,但是使用高劑量 amoxicillin 無法治療 *H. influenza* 引起的中耳炎,必須加入β-lactamase inhibitor (clavulanate) 才可治療。而 *S. pneumonia* 雖然抗藥性有 50%(抗藥性的原因 Source: [[sources/med4-book1-ch04|丁、感染科學]].

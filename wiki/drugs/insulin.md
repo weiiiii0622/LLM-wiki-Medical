@@ -24,6 +24,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Insulin (胰島素)'
   - 'Insulin'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,13 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
+- (A) insulin-resistant diabetes mellitus Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (C) 18. 一位三週大足月順產男嬰,出生體重 3800 公克,因持續發生低血糖而就診,身體檢查未發現任何異常,先前作過的實驗室檢查顯示當其血糖值為 25 mg/dL 時,血漿酮體(ketone bodies)濃度測不到亦無酸血症(acidosis)。下列那一項檢查對此病人診斷的確立,最沒有幫助? - (A) 血清胰島素 (Insulin) 濃度 - (B) 血漿氨 (Ammonia) 濃度 - (C) 左旋-多巴試驗(L-Dopa test) - (D) 升糖素試驗(Glucagon test) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 【詳解】L-Dopa test是用來偵測 growth hormone deficiency用(L-Dopa 可促進 growth hormone 分泌)。(A) 則是可以用來排除 congenital hyperinsulinism。(B) 當病人有中鏈脂肪酸去氫酶缺乏症時,則出現低酮體低血糖。在急性期,血中的氨、尿酸、肝臟轉胺(liver transaminase)以及肌酸磷酸激酶(creatine phosphokinase)常常會上升。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (A) 3. 關於幼兒持續性高胰島素低血糖症(persistent hyperinsulinemic hypoglycemia of infancy)的敘述,下列何者錯誤? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
@@ -80,9 +85,6 @@ tags:
 - ...美國 ATP III (2001) | WHO (1999) | |------------|------------------|-------------------|------------------------------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL 異常,只 | | | | | 當一項計算之) | | 腹部肥胖或肥胖 | 腰圍 (cm): | 腰圍 (cm): | BMI ≥ 30 kg/m² 或腰臀比: | | | 男≥ 90 | 男> 102 | 男> 0.9 | | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 分類 | 病況 | 機制 | |---------------------------------------------|-----------------------------|-----------| | H+K+離子通道 | 鹼中毒 (Alkalosis) | 酸出細胞、鉀入細胞 | | Ca離子通道 | 理提供底值 (David dia nondersia) | 先天性離子通道異常 | | Na + -K + ATPase 離子通道 | 一週期性麻痺 (Periodic paralysis) | 甲狀腺刺激 | | Na -K AIFase 離丁週担 | 使用胰島素、β agonist | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (3) 低血鉀的病人給予靜脈輸液應避免葡萄糖液,因為可能會造成血糖上升,促進胰島素分泌,使鉀離子 shift 進細胞內,進而造成低血鉀加重。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- (A) 19 歲女學生為第一型糖尿病,因期末考熬夜兩天,忘記注射胰島素 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

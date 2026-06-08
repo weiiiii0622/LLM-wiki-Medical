@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Non-Hodgkin lymphoma, NHL (非何杰金氏淋巴瘤)'
   - 'Non-Hodgkin lymphoma, NHL'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-多樣化 B/T/NK cell 淋巴瘤疾病群，依侵襲性與細胞來源治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多樣化 B/T/NK cell 淋巴瘤疾病群，依侵襲性與細胞來源治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- (C) 16. 一位 70 歲男性,因為淋巴瘤接受了三次的 CHOP 化學治療,最 近二至三週在四肢陸續出現暗紅至暗紫色的丘疹及斑塊,皮膚 切片檢查如圖示,此病患最可能的診斷為何? Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (4) 相較於 non-Hodgkin lymphoma,Hodgkin disease 發生病程較為緩慢。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - # C. 非何杰金氏淋巴瘤(Non-Hodgkin lymphoma, NHL) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 2. 臨床表現與何杰金氏病相似,但不同的組織病理學分類而有不同的表現: - (1) Burkitt lymphoma: - a. 兒童 NHL 中最常見,為 B cell 淋巴瘤。 - b. 腫瘤增殖迅速、多發或侵襲各處內臟,有淋巴結外的表現如腸套疊(>6歲 兒童發生腸套疊,統計上約有50%以淋巴瘤為 lead point)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

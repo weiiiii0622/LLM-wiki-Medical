@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis (下視丘-腦垂體-腎上腺軸)'
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,14 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- (A)無法對 corticotropin stimulation test 有正常的反應,血液中 ACTH 濃度高 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】依題目所提之臨床症狀,推測是腫瘤轉移到兩側腎 上腺破壞腎上腺功能,造成 Addison's disease (primary adrenal insufficiency),病患會有厭食、噁心嘔吐、姿態性低血壓、高 血鉀、皮膚皺褶和黏膜處出現色素沉澱等症狀。因為是 primary adrenal insufficiency,腎上腺組織已經被腫瘤轉移破壞殆盡,所以 ACTH 會增加以刺激皮質醇分泌但徒勞無功,且做 corticotropin stimulation test 不會有反應。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】於 Primary Addison's disease 中由於 glucocorticoid 分泌 不足,使得 pituitary gland 回饋作用分泌 ACTH 增加,為了分泌 ACTH 會先產生前驅物 POMC(pro-opiomelanocortin),POMC 再分解成 ACTH 和 $\gamma$ -MSH(melanocyte-stimulating horone),且 ACTH 又會再分解出 $\alpha$ -MSH,MSH 則會促進黑色素的生產和釋放,故皮膚會廣泛性黑色素沉澱。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...droxylase deficiency 可分為兩種: Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (3) Salt losing form 臨床上常表現典型 cortisol 與 aldosterone 缺乏症狀,但通常要出生後 1~2 週才會有表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -62,9 +69,6 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - ...ic state) | | | | | (C) 庫欣氏症 (Cushing's syndrome) | | | | | (D) 低血鉀週期性無力症(hypokalemic periodic paralysis) | | | | | 【詳解】Cortisol 有部分的 mineralocorticoid activity,庫欣氏症造成 | | | | | cortisol 上升,藉由增加 mineralocorticoid activity 造成低血鉀。 | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 1. 定義: Cushing's syndrome 指過多的皮質類固醇(cortisol)造成的症候群,而 Cushing's disease 則專指因腦垂體分泌過多 ACTH,進而刺激腎上腺分泌過多皮質類固醇(cortisol)造成之疾病。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - 2. 病因:(排除掉醫源性 Cushing's syndrome) - (1) Cushing's disease (70%):因為腦垂體腫瘤 (Adenoma) 或增生 (Hyperplasia)。 - (2) Adrenal tumor (20%): 腎上腺腫瘤 (6 cm: Carcinoma)。 - (3) Ectopic ACTH (10%): 肺小細胞癌; 胸腺、胰臟、卵巢的類癌 (Carcinoid tumor)、甲狀腺髓質癌 (Medullary carcinoma of thyroid)、Pheochromocytoma 等。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- #### (2) Ectopic ACTH syndrome: Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...-----------------|------------------|------------------------|-----------------| | Hormone | FSH, LH | TSH | PRL | GH | ACTH | | 刺激分泌 | GnRH,estrogen | TRH | TRH,Estrogen | GHRH | CRH, AVP | | 抑制分泌 | Sex steroids | T3, T4, dopamine,somatostatin,glucocorticoids | Dopamine | Somatostatin,IGF-1 | Glucocorticoids | | 目標器官 | 性腺 | 甲狀腺 | 乳腺 | 肝、骨骼肌肉 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- (1) 荷爾蒙 (Hormone): 腦垂體腫瘤在蝶鞍僅有 的空間內壓迫腦垂體正常部分,造成荷爾蒙 低下。前葉分泌細胞分部位置如圖所示,內 側較不容易受腫瘤壓迫影響。通常生理上越 重要的越慢受影響,影響順序 GH → FSH、 LH → TSH → ACTH。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 

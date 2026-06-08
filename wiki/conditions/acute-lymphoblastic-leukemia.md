@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Acute lymphoblastic leukemia, ALL (急性淋巴性白血病)'
   - 'Acute lymphoblastic leukemia, ALL'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- ...skin, subcutaneous, | Normal | | | | | | or nodal metastases | | | | | | M1b | Lung metastases | Normal | | | | | M1c | All other visceral metastases | Normal | | | | | | Any distant metastasis | Elevated | | | | Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 1. 急性淋巴性白血病(ALL) 370 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - # I. 急性淋巴性白血病 (Acute Lymphoblastic Leukemia, ALL) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 3. 危險因子:某些特殊疾病的病童得到 ALL 機會比一般人高。 **Down syndrome**、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman syndrome、**Klinefelter syndrome、Turner syndrome**、 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

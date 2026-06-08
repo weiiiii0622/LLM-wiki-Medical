@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Beta-lactam mechanism (β-lactam 作用機轉)'
   - 'Beta-lactam mechanism'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。 �
 - [[sources/med3-book3-ch14]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- \*菌絲是由管狀的細胞壁包裹細胞質和原生質膜的小型絲狀物所構成,分有橫膈(septa)和無橫隔兩種。假性菌絲則是由於酵母菌產生芽孢(budding) 後未完全互相分離,最後就像是一顆顆念珠串連而成一條條假菌絲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 2. 抗生素:因為 *H. influenzae* 和 *M. catarrhalis* 多有 β-lactamase 產生抗藥性,所以 Augmentin 為首選。Augmentin 劑量為 amoxicillin 含量 80~90 mg/kg/day, tid,使用 10 天。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...f Pediatrics 20th Edition 中提到 *H. influenza* 雖然抗藥性不比 *S. pneumoniae*,但是使用高劑量 amoxicillin 無法治療 *H. influenza* 引起的中耳炎,必須加入β-lactamase inhibitor (clavulanate) 才可治療。而 *S. pneumonia* 雖然抗藥性有 50%(抗藥性的原因與 penicillin-binding protein 改變有關),但仍可用高劑量 amoxicillin 去治療中耳炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】中耳炎常見致病菌為 S. pneumoniae、H. influenzae、 M. catarrhalis。(A)Streptococcus pneumoniae 是 GPC, 且大多對 high dose amoxicillin 有效。(B) H. influenzae 是 GNB,且多有 β-lactamase,故以 high dose amoxicillin 治療無效。 Source: [[sources/med4-book1-ch04|丁、感染科學]].

@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Acute kidney injury, AKI (急性腎損傷)'
   - 'Acute kidney injury, AKI'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - V. 腎衰竭 133 - A. 急性腎衰竭 133 - B. 慢性腎衰竭 135 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 1. 小型血管發炎疾病中,以 Henoch-Schönlein purpura(HSP)最為常見,同時,在所有兒童血管炎疾病中,HSP 亦是最常見的血管炎疾病。根據 the 2012 International Chapel Hill Consensus Conference nomenclature,HSP 又稱作 IgA vasculitis。約 30%的病人在腎臟方面會有所影響。影響範圍從 asymptomatic microscopic hematuria、proteinuria、glomerulonephritis、nephrotic syndrome、acute kidney injury 甚至 chronic renal failure。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 臨床表現可以是從無症狀顯微性血尿到急性腎衰竭,端看腎臟影響程度而定。 此外,病人會出現高血壓、寡尿、水腫、蛋白尿、疲倦或倦怠、腹痛或側腰腹 近疼痛。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

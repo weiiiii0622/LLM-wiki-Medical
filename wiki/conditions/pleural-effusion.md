@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Pleural effusion (肋膜積液)'
   - 'Pleural effusion'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...nts, | | | | | | | characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - | | Image pattern | Distribution | Pleural effusion | |------------|---------------------------------|----------------------------------------|------------------| | Bacteria | Alveolar | Usually unilateral: lobar or segmental | Maybe | | Virus | Hyperinflation and Inters Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) 痰液或肋膜積液的培養與格蘭氏染色。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 侵犯胸腔 (thoracic cavity): pleural effusion `empyema and pericarditis ·其中 S. aureus `S. pneumoniae 以及 S. pyogenes 是造成 pleural effusion 或是 empyema 最常見的細菌 。 Source: [[sources/med4-book1-ch04|丁、感染科學]].

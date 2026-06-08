@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Sjogren syndrome (修格蘭氏症候群)'
   - 'Sjogren syndrome'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,15 @@ tags:
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch04]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- d. Neonatal lupus erythematosus(新生兒狼瘡):原因為患有 Sjögren syndrome 或 SLE 的狼瘡表現可分為兩種:一是出生時有暫時或臉部、手腳紅斑,通常這 些情况在半年左右會逐漸消失。另一是永久性的心臟變化:如先天性缺損及 心臟傳導阻斷等問題。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (A) 1. 下列何種自體抗體為 Sjögren's syndrome 特異性標示抗體? Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 【詳解】anti-Ro(SS-A)and anti-La(SS-B)為 Sjögren's syndrome 特異性標示抗體。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (4) 與自體免疫疾病相關之蕁麻疹 (Urticaria Associated with Vascular/Connective Tissue Autoimmune Disease): 如蕁麻疹性血管炎 (urticarial vasculitis)、全身性 紅斑狼瘡 (SLE)、乾眼症 (Sjogren's syndrome)等,此類蕁麻疹持續時間較長。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (3) Neonatal lupus erythematosus (NLE)新生兒紅斑狼瘡:母親的自體免疫抗體(通常是 anti-Ro/SSA 或 anti-La/SSB)經由胎盤傳給胎兒,造成新生兒紅斑狼瘡。通常母親為 SLE 或 Sjögren syndrome 患者。新生兒可能出現皮膚疹子,先天性心臟傳導阻滯 (congenital heart block),而少數會出現血小板低,中性球低下, Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...aynaud phenomenon, insterstitial lung | | | RNP) antibody | disease, and pulmonary hypertension | | | Anti-Ro antibody (anti-SSA | Associated with sicca syndrome | | | antibody) | May suggest diagnosis of Sjögren syndrome | | | Anti-La antibody (anti-SSB | Increased risk of neonatal lupus in offspring (congenital heart | | | antibody) | block) | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) anti-SSA/anti-SSB antibody Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].

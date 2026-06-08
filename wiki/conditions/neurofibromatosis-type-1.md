@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Neurofibromatosis type 1, NF1 (第一型神經纖維瘤症)'
   - 'Neurofibromatosis type 1, NF1'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibroma、視神經膠質瘤與學習問題。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibroma、視神經膠質瘤與學習問題。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- B. 神經纖維瘤 (Neurofibromatosis) 168 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
+- # B. 神經纖維瘤 (Neurofibromatosis) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
+- 1. 第一型神經纖維瘤: - (1) 又稱周邊神經纖維瘤或是 von Recklinghausen's disease,為自體顯性遺傳,第十七對染色體長臂基因突變造成,50%病患是遺傳自父母,50%是自發性基因突變造成。預後佳。滿足以下七點中任兩點即可符合診斷: - a. 咖啡牛奶斑 (café-au-lait macules): ≥ 6 個橢 圓形、界線清楚的淡棕色斑塊,青春期前大於 5 mm,青春期後需大於 15 mm,大多在十歲 前即出現,常是最先出現的表徵。(如右圖) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - L. 神經皮膚症候群 218 - A. 神經纖維瘤 (Neurofibromatosis, NF) 218 - B. 結節性硬化症 (Tuberous sclerosis, TS) 220 - C. 史德格-韋伯症候群 (Sturge-Weber disease) 223 - D. 逢希伯一林道症候群 (von Hippel-Lindau disease) 224 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - # A. 神經纖維瘤 (Neurofibromatosis, NF) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (1) 最常見的神經纖維瘤疾病,每 4,000 位中就有一位,與 chromosome 17q11.2 有關。50% 為體染色體顯性遺傳,50% 為偶發性。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

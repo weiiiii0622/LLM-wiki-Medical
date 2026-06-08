@@ -26,6 +26,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Lung cancer staging (肺癌分期)'
   - 'Lung cancer staging'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,13 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- ### Melanoma TNM Classification Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- | T stage | Thickness, mm | Ulceration status | |---------|---------------|-----------------------------------------| | T1 | ≦ 1.0 | a: Without ulceration and level ll/lll* | | | | b: With ulceration or level IV/V/T2 | | T2 | 1.0 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- | N stage | No. of Metastatic Nodes | Nodal Metastatic Mass | | | | |---------|-------------------------------------------------------------------------------------------------|---------------------------------------------------- Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - Stage 1: 腫瘤限制在腎包膜內,可完全切除。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - Stage 2: 腫瘤超過腎包膜,仍可完全切除。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - Stage 3:切除後仍有殘餘的腫瘤。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -84,9 +89,6 @@ tags:
 - (A) 4. 一個 35 歲男性患者診斷為 malignant lymphoma,diffuse large B-cell type,stage IIA,下列有關敘述何者為正確? - (A) 一般而言,積極化學治療約可達到 70% 的緩解率 (remission rate) - (B) 除非進行造血幹細胞移植,否則無治癒可能 - (C) 屬於 aggressive malignancy,腫瘤生長速度快,化學藥物治療效果不佳 - (D) 應該儘可能只給予 radiation therapy 就好,避免給予 systemic chemotherapy,以免以後發生 secondary leukemia Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - (3) Stage IV: 化療為主 - a. FOLFOX 或 FOLFIRI (Folinic acid+5FU+Irinotecan)。 - b. 傳統化療加上 Bevacizumab (Anti-VEGF Ab) 可改善存活率。 - c. 傳統化療加上Cetuximab(Anti-EGFR Ab),對於k-ras沒有突變的大腸癌有幫助。 - d. 單一的肝轉移可考慮做肝切除。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - 【詳解】未切到肌肉層會導致 incomplete staging,需要重作。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- | Stage | International Staging System (ISS) | Durie-Salmon Criteria | | 中位存活 | |-------|-----------------------------------------------|----------------------------------------|-------------|-------| | | | Hgb>10, Ca 3.5g/dL | Low M protein (IgG 12,> 5 Lytic bone lesion | IIIA (Cr 5.5 mg/L | High M protein (IgG>7g/dL, IgA>5 g/dL) | IIIB (Cr>2) | 15 個月 | Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
-- ...---------| | 懵懂期(precontemplationstage) | 未曾認真考慮於將來六個月內改變。 | 1. 增強戒菸動機。2. 評估其意願並提供菸害相關資訊,闡述戒菸的好處。 | | 沉思期(contemplation stage) | 認真考慮於將來六個月內改變。 | 1. 加強認知戒菸的好處。2. 找出強力的戒菸動機。3. 找出戒菸的理由。4. 增加病人的自我認知。 | | 準備期(preparation) | 準備就緒,並認真計劃於一個月內改變。 | 鼓勵病人設定開始戒菸的日期。 讓病人告訴親友已經開始戒菸。 對於預期困難戒菸做好準備。 使病人暸解戒菸的目標要達到完全不吸菸。 準備尼古丁戒斷症候群的處理方式。 | | 行動期(action stage) | Source: [[sources/med3-book4-ch25|乙、行為科學]].
-- (A) 沈思前期 (precontemplation stage) Source: [[sources/med3-book4-ch25|乙、行為科學]].
 
 ## Clinical Caveats
 

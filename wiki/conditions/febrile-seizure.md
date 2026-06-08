@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Febrile seizure (熱痙攣)'
   - 'Febrile seizure'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-發燒相關兒童癲癇發作，需區分 simple 與 complex 並排除 CNS infection。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+發燒相關兒童癲癇發作，需區分 simple 與 complex 並排除 CNS infection。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- c. 但嬰兒玫瑰疹發燒常見熱性痙攣(febrile seizure),為良性,原因為幼兒腦細胞的發育還不完全,故高燒時容易引起腦細胞之間亂放電進而造成四肢突發性的抽筋,手腳會對稱性抽動,多半持續二到三分鐘,常引起家長的擔憂。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (2) 約30~50% 病童往後會再有熱痙攣發作,只有少數病童會有較多次數發作。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (3) 若有以下情形,則往後再出現熱痙攣的機率會增加:9個月以下發生熱痙攣、 有家族史、先前已存在神經疾病等。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (4) 只有少部份以後可能會發展為癲癇,特別是複雜性熱痙攣或有神經發展異常者。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Hypoparathyroidism (副甲狀腺低下)'
   - 'Hypoparathyroidism'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-PTH 不足造成低血鈣與高磷。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH 不足造成低血鈣與高磷。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ PTH 不足造成低血鈣與高磷。 本頁已整合至 `醫(四)第1冊小兒`
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- ...mucocutaneous candidiasis): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - # A. 副甲狀腺低下 (Hypoparathyroidism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

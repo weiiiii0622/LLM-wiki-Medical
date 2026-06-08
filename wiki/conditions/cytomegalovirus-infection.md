@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Cytomegalovirus infection, CMV (巨細胞病毒感染)'
   - 'Cytomegalovirus infection, CMV'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - ...-------------------------------------------------------------------------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosi Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (3) Urine antigen and culture : CMV • Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 1. 關於新生兒感染巨細胞病毒(Cytomegalovirus)的敘述,下列何者錯誤? Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -68,7 +71,6 @@ tags:
 - | 藥 物 | 機制 | 適用於 | |-------------|-------------------|----------------------------------------| | Acyclovir | Guanosine 類似物 | HSV1 · HSV2 · VZV | | Ganciclovir | Guanosine 類似物 | CMV | | Foscarnet | Pyrophosphate 類似物 | 對 Acyclovir 及 Ganciclovir 有抗性的 HSV、CMV | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - Cytomegalovirus disease (other than liver, spleen, or nodes) Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - Cytomegalovirus retinitis (with loss of vision) Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- (2) 次級預防 (Primary prevention): 感染過,給藥預防再次感染,需要給藥的時間較一般人久,例如 cryptococcus、CMV。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

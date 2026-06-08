@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Graves disease (葛瑞夫茲病)'
   - 'Graves disease'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch07]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (C) Graves' disease Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (1) 以 Graves' disease 為最常見。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - #### 4. Graves' disease: Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) Graves' disease 病程多為緩慢,從開始有症狀到確立診斷通常需要 6~12 個月,假若是青春期前發病,則發病到確定診斷所花的時間更長。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

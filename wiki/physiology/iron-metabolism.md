@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Iron metabolism (鐵代謝)'
   - 'Iron metabolism'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-鐵吸收、運輸、儲存與發炎調控決定紅血球生成與 anemia pattern。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鐵吸收、運輸、儲存與發炎調控決定紅血球生成與 anemia pattern。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 2. Mentzer Index (MI): MCV/RBC > 13 為缺鐵性貧血; \ | ↑或正常 | \ | | TIBC | ↑ | \ | \ | | ferritin | ↓ | 1 | 1 | | Mentzer | > 13 | 鐵的吸收(2) 1~4 週後 data 會改善 | 電泳確定診斷 | (1)也可以是正球性貧血(2)CKD病人常見 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (C) 患者血清中 (serum) ferritin 是下降的 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...7.4 g/dL、血小板: 250,000/mm3、reticulocyte 3.2%。身體診 察發現有脾臟腫大現象,他的下列那項檢查結果最可能有異常? - (A) 血色素電泳(Hb electrophoresis) - (B) 鐵蛋白 (ferritin) - (C) 血中鉛濃度 - (D) 紅血球滲透壓脆性試驗(RBC osmotic fragility test) Source: [[sources/med4-book1-ch08|辛、血液學]].

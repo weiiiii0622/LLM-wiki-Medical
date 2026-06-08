@@ -19,6 +19,7 @@ sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch03]]"
 aliases:
   - 'Hemodialysis (血液透析)'
   - 'Hemodialysis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med3-book4-ch22]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch03]]
 
 ## Key Details From Sources
 
+- ...易曝曬到陽光的區域,如臉、手臂、手背、手腕等, 照到陽光後皮膚易龜裂、潰爛、皮膚脆弱起水泡及多毛症。 - (3) 誘發因子:過度飲酒(最重要)、過度鐵質攝取、病毒感染(特別是 HCV, HIV)、殺真菌劑和除草劑中所含的碳氫鹵化物、長時間 hemodialysis 或 estrogen 治療。 - (4) 伍氏燈照射下尿液呈粉紅色。 - (5) 處置: - a. 避免酒精和鐵質攝取、減少陽光曝曬、避免服用 estrogen 或接觸到含碳氫鹵 化物的物質。 - b. 除了避免危險因子外,最有效的治療方法為放血療法(phlebotomy),降低體 內鐵沉積對肝、心等器官的損害。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (B) 25. 一位 13 歲男孩學校尿液篩檢發現有血尿。他主訴以前在上呼吸 道感染後一兩天就會有肉眼可見的血尿,但是會自然消失。醫師 檢查發現他戴有助聽器,而且哥哥患有末期腎病,目前規則接受 1 週 3 次之血液透析。尿液常規檢查顯示 occult blood:強陽性 (3+); Protein: > 300 mg/dL; WBC 3~5/HPF; RBC 100~150/HPF。 下列何者為其最可能之診斷? - (A) 局部巢狀腎絲球硬化(focal segmental glomerulosclerosis) - (B) Alport 症候群 (Alport syndrome) - (C) 家族性薄基底膜疾病(familial thin base Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】十三歲男孩戴有助聽器、尿液常規檢查發現明顯的蛋白尿與潛血反應、哥哥患有末期性腎病且規則接受血液透析治療,種種跡象暗示兄弟患有 Alport syndrome。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 血液透析: 與成人急洗條件差不多, 也可用 AEIOU 記憶: - Acidosis:當病人出現嚴重酸血症(pH th 版對慢性腎衰竭有明確的 敘述: Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -72,7 +75,6 @@ tags:
 - ## B. 血液透析 (Hemodialysis, HD) Source: [[sources/med3-book3-ch06|己、透析治療]].
 - | 縮寫(全名) | 洗腎模式 | 缺點 | |----------------------------------------|------------|---------------| | IHD→快速矯正病人生化異常 | 1週3次, | 血液動力學較不穩定 | | (Intermittent hemodialysis) | 每次 3~4 小時 | | | SLED | 1週3次, | 介於兩者間 | | (Sustained low efficiency Source: [[sources/med3-book3-ch06|己、透析治療]].
 - (c) 反過來說, 洗腎病人的低血鉀、低血磷就要考慮 poor intake。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...離子交換樹脂 (Kayexalate/Kalimate) | 1.2 小時 | 在腸道中以鈉離子和鉀離子交換, | | 物離丁交換倒脂 (Kayexalate/Kalimate) | 1~2 /14号 | 使體內鉀總量下降 | | 透析 (Hemodialysis) | 幾分之內 | 使體內鉀總量下降 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

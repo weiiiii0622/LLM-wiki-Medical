@@ -22,6 +22,9 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Penicillins (青黴素類)'
   - 'Penicillins'
@@ -36,7 +39,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +61,17 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) high dose penicillin G Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (D) 靜脈注射 penicillin G Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- ...神經引起厲害的癢感。常見過敏原如下: - (a) 食物:海鮮、高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dyes, benzoates, salicylates)、核桃、巧克力、菇、筍。 - (b) 藥物: 抗生素(Penicillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (1) 經驗性抗生素使用: - a. 若懷疑 Viridians streptococci 或 Enterococcus: penicillin 或 ampicillin 加上 gentamicin。 - b. 若懷疑 *Staphylococcus aureus*: penicillinase-resistant penicillin 或 vancomycin 加上 gentamicin。 - c. 若針對術後病童或是病童有 prosthetic valves,使用 vancomycin 與 gentamicin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 在 acute illness 情況下的治療: - a. General: Benzathine penicillin: 1.2 million units IM 或 procaine penicillin G 600,000 units IV daily for 10 days. Erythromycin is altered if allergic to penicillin。 - b. Carditis: - (a) Without cardiomegaly: aspirin 80 mg/kg/day, 一天分成四次給藥直到症狀 改善或是 ESR Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - | 病源菌 | 盛行率 | 對 Amoxicillin 抗藥性 | 自行緩解 | |--------------------------|-------|-------------------|------| | Streptococcus pneumoniae | 50% | 50% | 20% | | Hemophilia influenza | 25% | 40% | 40% | | M. catarrhalis | 12.5% | 100% | 80% | Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -74,11 +85,6 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - 1. 原因:藥物(Penicillin、Sulfonamide),食物(甲殼類、花生、蛋),叮咬(膜翅類昆蟲),放射線顯影劑等過敏原與肥胖細胞(mast cell)上的 IgE 抗體結合,導致肥胖細胞釋出大量 histamine,進而造成下列症狀。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - (A) 9. 下列有關過敏性休克(anaphylaxis)的敘述,何者錯誤?(A) 只有注射藥物或昆蟲叮咬才會產生 - (B) 是經由過敏原與肥胖細胞 (mast cell) 上的 IgE 抗體結合所導致 - (C) 儘快給病人施打 epinephrine,可緩解大部分症狀 - (D) 盤尼西林 (penicillin) 過敏者,若打頭孢子菌素 (cephalosporin) 仍有部分病患可能過敏 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...| 淋巴球為主 | Vanco | | Neisseriameningitidis | 100 | | 主要在兒童及年輕人,有群聚病史(軍隊、宿舍),由鼻咽進入,有出血點、斑 (petechiae and purpuric rash) | PCN-S | PCN G | | g | | , , | | PCN-R | Ceftriaxone | | Listeriamonocytogenes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epi Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- 2. 肺炎雙球菌導致的腦膜炎需根據抗藥性狀況,選擇抗生素(重要,常考!!)。 - (1) 完全沒有抗藥性可考慮 IV high dose penicillin。 - (2) 一般經驗性用藥需使用第三代cephalosporin最好的選擇是Ceftriaxone(Rocephin®)。 - (3) 高度抗藥性,需加上 Vancomycin。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- (A) 1. 某新兵訓練中心爆發多名新兵發燒、頭痛、噁吐、理學檢查為頸部 107( ) 專 僵硬、出血性皮疹,腦脊髓液染色為格蘭氏陰性雙球菌,下列敘述 醫三 -59 何者錯誤? - (A) 病人必須採負壓隔離(空氣隔離防護措施) - (B) 該病原菌是 Neisseria meningitidis - (C) 抗生素投藥 24 小時後,一般病人即不具有傳染性 - (D) 治療藥物為 penicillin 或 ceftriaxone Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- ...ccus faecalis) => D 群鏈球菌 (Group D streptococcus): 引起膽道、 泌尿道感染,常引起院內感染。當腸道、尿道接受侵入性檢查時,此菌可能因此進入血中,瓣膜有壞損的人,就可能因此感染心內膜炎。治療: Ampicillin+ Gentamicin。 - 4. 牛鏈球菌 (S. bovis) => D 群鏈球菌 (Group D streptococcus): 與大腸惡性腫瘤有關。 - 5. 突變鏈球菌 (S. mutans) => 草綠色鏈球菌 (Viridans streptococci): 牙齦的正常菌群,突變鏈球菌可藉 Dextran 而黏附在牙齒上,造成牙菌斑,導致齲齒。若在心臟瓣膜有問題,且口腔衛生差的病人身上施行牙科侵入性行為時,草綠色鏈球菌 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (2) 治療: - a. 完全沒有抗藥性可考慮 IV high dose penicillin - b. 一般經驗性用藥需使用第三代 cephalosporin 最好的選擇是 Ceftriaxone。 - c. 高度抗藥性,需加上 Vancomycin、Rifampin。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (D) 以 Penicillin 治療 1~2 週,即可治癒 【詳解】(A): 厭氧 / (B): Actinomycosis occurs most frequently at an oral, cervical, or facial site / (D): Penicillin 靜脈注射 2~6 weeks, 接著換口服 penicillin or amoxicillin (total duration, 6~12 months)。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 
@@ -87,7 +93,7 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 
 ## Related Pages
 
-- 待補。
+- [[conditions/staphylococcal-scalded-skin-syndrome|Staphylococcal scalded skin syndrome, SSSS (葡萄球菌性燙傷樣皮膚症候群)]]
 
 ## Follow-up
 

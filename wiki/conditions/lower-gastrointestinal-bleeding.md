@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Lower gastrointestinal bleeding (下消化道出血)'
   - 'Lower gastrointestinal bleeding'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (A) 1.3個月大的女嬰,體重 5.8公斤,純母乳哺育。最近常出現血便, 但沒有發燒,體力、精神、食慾都很好。大便除帶血絲外無特殊 變化。下列敘述何者最為正確? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】本題對醫師而言可說是常識題,但也是需要臨床經驗才可判斷。3個月大孩子解血便,是否有感染的可能性在臨床上要優先考量。如果排除感染,接下來考慮是否有對食物的耐受性不佳或是其它自身腸胃道的疾病。臨床上要檢驗過敏原,理想的年紀應在3歲左右(太早驗的話臨床上會有很高機會誤判)。至於潰瘍性大腸炎,以這個年紀而言應該不是優先考量,大腸鏡檢查不會是第一優先選擇。選項中較好選項為(A)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 典型的症狀,為腹痛、腹部腫塊與血便 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -62,7 +65,6 @@ tags:
 - 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (C) 5. 下列有關下消化道出血的敘述,何者錯誤? Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (B) 嬰幼兒發燒超過 24 小時,有血便,或腹瀉持續數天,應就醫進 行診治 Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- (C) 嬰幼兒有血便及發燒,投予口服第一代 cephalosporin Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 
 ## Clinical Caveats
 

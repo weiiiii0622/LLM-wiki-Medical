@@ -14,6 +14,9 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Cytokine signaling (細胞激素訊號)'
   - 'Cytokine signaling'
@@ -28,7 +31,7 @@ tags:
 
 ## Summary
 
-cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +45,16 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - [[sources/med3-book4-ch19]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch07]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- a. 超級抗原會直接和 MHC II 結合並刺激活化 T 細胞,造成 IL-1、IL-6、TNF 和 Interferon $\gamma$ 等激素的釋放,引起發燒、低血壓、紅疹和多重器官衰竭。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (4) 生物製劑:生物製劑主要是指由生物體製造,具有藥理作用的蛋白質製劑。 目前國際上普遍使用的共有五種,包括針對 TNF 的單株抗體 Infliximab 及 Adalimumab、TNF 受體融合蛋白 Etanercept、針對 IL-12 和 IL-23 的單株抗體 Ustekinumab、作用於 CD2 的 Alefacep。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
+- 4. 異位性皮膚炎的病因是許多因素綜合的結果,家族性和異位性體質等基因因素加上環境中過敏因子,造成 Type I(IgE-mediated)hypersensitivity reaction,急性發炎反應和 Th2、IL-4、IL-13 有關,慢性發炎反應則和 Th1、IL-5、IL-12、GM-CSF、IFN-γ有關。 - (1) 常見的過敏原包括塵蟎、貓狗等動物的毛、蟑螂、黴菌、花粉等,幼兒期腸胃 道比起大人較可能受食物過敏原影響,常見的可能食物過敏原有牛奶、蛋白、 麥、花生、海鮮等。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- 【詳解】從文中描述,皮膚乾癢、於四肢彎曲處、苔癬化病變,懷疑是異位性皮膚炎。(C) 於急性期時主要與 Th2、IL-4、IL-13 有關。(D)Netherton syndrome 為一罕見自體隱性遺傳疾病,會有 congenital ichthyosiform erythroderma(苔癬狀皮膚紅疹)、trichorrhexis invaginata(頭髮異常 bamboo hair)、atopic diathesis(異位性體質)及發育遲緩。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 1. T細胞:當接觸到過敏原時,非過敏體質的人主要引起第一型 T 輔助細胞(Th1 cell)增生,產生 Interferon g 等 cytokine,誘發產生對抗原專一的 IgG。而過敏體質的人則主要產生第二型 T 輔助細胞(Th2 cell)增生,分泌 IL-4, IL-5, IL-9, IL-13 等 cytokine,會促進 IgE 產生及嗜伊紅性白血球發育,引起過敏反應。故過敏疾病的發生與第二型 T 輔助細胞活性有著密切的關係。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 2. 抗原呈現細胞:包括樹突細胞(dendritic cell),單核球(monocyte),巨噬細胞(macrophage),及蘭格罕氏細胞(Langerhans cells)。會將抗原呈現給 T 細胞。樹突細胞依據其傾向造成 Th1 或 Th2 細胞分化分為兩型,第一型樹突細胞(DC1)分泌 IL-12,造成 T 細胞分化為 Th1 細胞,而第二型樹突細胞(DC2)不分泌 IL-12,故 T 細胞分化為 Th2 細胞。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (2)晚期反應:在接觸過敏原後幾小時內發生,嗜伊紅性白血球及中性球浸潤,接著是嗜鹼性白血球,肥大細胞,單核球,及 Th2 細胞浸潤。活化的肥大細胞分泌 TNF-α,使血管內皮表現出 cell adhesion molecules,使發炎細胞可以穿過血管內皮移動出去。另外發炎局部也產生許多 chemokines,吸引更多發炎細胞到達。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

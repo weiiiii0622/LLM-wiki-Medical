@@ -11,6 +11,9 @@ sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,17 @@ tags:
 - [[sources/med3-book4-ch22]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch09]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...或皮瓣移植。較小病灶可採用冷凍療法或電燒。 - (2) 但針對顏面的「危險地帶」,例如鼻唇區域、眼睛周圍、眼瞼、耳道、耳後 或頭皮,因結構脆弱、手術易出血且考量顏面美觀,會採用顯微手術(Mohs Micrographic surgery)或放射治療。 - (3) Mohs Micrographic surgery: - a. 將切下來的一小塊癌組織以冷凍切片染色在顯微鏡下定位,確定有 free margin 後,再將皮膚癌完整的切除乾淨。治癒率高,復發率低,且可保留較多的正常皮膚組織,為當前皮膚癌手術切除的主流。 - b. Indication: - (a) High risk of local recurrence • - (b) Need for tissue preserv Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- (1) 放射治療和化學治療效果都不錯,如果僅為單一或小範圍侵犯者,切除也可達 痊癒。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- (2) 典型 KS 對於放射治療效果較好;地域性 KS 對化療反應最好;因免疫抑制所引發 KS 者,停藥後常會自癒,也可嘗試換藥,如以 sirolimus 取代 cyclosporin 及 tacrolimus。AIDS 患者接受正統抗病毒治療即有療效,或使用干擾素及介白質治療,也可暫時改善。其他局部療法例如液態氮冷凍療法、雷射、電燒、光動力療法也都可。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- a. 雖然水痘發過一次就不會再感染,但是水痘病毒於初次感染時便會沿著感覺 神經纖維侵入到感覺神經節並終年潛伏於此。當病人年紀大免疫力下降或處 於免疫力不全(腫瘤、HIV、器官移植、接受放射治療或化療)狀況下時, 病毒就會再度活化並沿著神經纖維從神經節返回皮膚表面產生皮疹,故分佈 多延著 dermatome 的範圍。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (A) 5. 承上題,對此皮膚病灶的敘述,下列何者錯誤? - (A) 手術切除是治療最佳選擇 - (B) 膚色越深的人種越好發 - (C) 好發於皮膚張力較大處 - (D) 放射治療是治療方法之一 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (1) 兒童:橋本氏甲狀腺炎(最常見)、碘缺乏、放射治療、血管瘤( $T_4$ 轉換成 reverse $T_3$ )。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...sis · teratoma teratoma · hepatoblastoma (boys) Brain damage: Androgen- or estrogen-secreting tumors: CNS anomalies · irradiation therapy · Ovarian(granulosa cell \, theca cell \, surgery \, trauma \, prior inflammation luteoma · follicular cysts); Testicular (meningitis \, encephalitis) \, (Leydig cell) hydrocephalus **Exogenous sex steroids:** oral cont Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (4) Medulloblastoma: 為 embryonal tumor,最常發現在小腦蚓部(cerebellar vermis)。 經過手術切除、放射治療與化療後,五年存活率約70%。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -52,7 +63,6 @@ tags:
 - (B) 首次治療以手術,接續併用化學治療(temozolomide)及放射治療為主要治療方式 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - 【詳解】神經膠細胞瘤 Glioblastoma multiforme (GBM) 是腦瘤中致死率最高的一種,平均存活期小於 2 年。首次治療以以手術,接續併用化學治療(temozolomide)及放射治療為主要治療方式。Temozolomide 的優點是口服便能達到所需濃度,而缺點則是當 O-6-甲基鳥嘌呤甲基轉移酶(MGMT)表現量上升時,TMZ 所造成的DNA 損傷便會被逆轉,使得腫瘤細胞不會走向死亡。Bevacizumab可用於復發後的病人。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (B) 30. 胡先生,80 歲,與太太同住,有三男一女。五個月前發生下背痛,漸感下肢無力,走路困難,急診發現第四胸椎病理性骨折,導致脊髓壓迫,入院檢查為胃腺癌併肝、肺和脊椎轉移,手術後再接受化學治療及放射治療。因症狀持續惡化,在家人要求下照會並轉入安寧病房。病情方面,病人只知道神經壓迫引起下肢不適,不知是癌症末期,家人接受病情但擔心病人得知後會無法承受。下列有關病情告知的敘述,何者錯誤? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- 治療相關:放射治療(肺纖維化)、化學治療(Methotrexate、Bleomycin)、手術治療 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

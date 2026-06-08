@@ -16,6 +16,7 @@ sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Hepatocellular carcinoma, HCC (肝細胞癌)'
   - 'Hepatocellular carcinoma, HCC'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - [[sources/med3-book4-ch27]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 2. 原發性惡性肝臟腫瘤中,超過65%為 hepatoblastoma,其次為 hepatocellular carcinoma。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - (B) 1. 關於兒童惡性肝腫瘤 (malignant hepatic tumor) 的敘述,下列何 107( ) 專 者最不恰當? 醫四 -28 - (A) 肝母細胞癌(hepatoblastoma)主要發生在 3 歲以下的小孩, 而肝細胞癌(hepatocellular carcinoma)的發病年齡較大 - (B) Beckwith-Wiedemann syndrome 的患者,較易發生肝母細胞癌(hepatoblastoma) - (C) 由於 B 型肝炎疫苗的施打,已讓國內肝母細胞癌(hepatoblastoma)發生率顯著下降,但肝細胞癌(hepatocellular carcinoma)則比率維持不變 - (D) 肝細胞癌(hepatocellular carc Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 【詳解】由於 B 肝疫苗施打的普及化,肝細胞癌發生機率與過往相比有明顯的下降。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -66,7 +69,6 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - #### C. 肝細胞癌 (Hepatocellular carcinoma, HCC) Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - 2. 危險因子: HBV、HCV、黃麴毒素、CCl4; 肝硬化、血色素病(hemochomatosis)、威爾森氏病(Wilson's disease)、血型B(比較: 血型A 較易得胃癌, 血型B 較易得肝癌)。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - 3. 診斷: - (1) 篩檢:超音波掃描為第一線影像學檢查工具、AFP > 200 則暗示有 HCC。 - (2) 確診: CT 可見 arterial phase enhancement。 - (3) 結論:超音波用來篩檢,電腦斷層用來確診,磁振造影、血管攝影通常用在電腦斷層沒有辦法完全確診時,可用在較小、較早期的病灶偵測。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (c) HBeAg(+) 表示病毒正在活躍地複製,若轉為 anti-HBe(+),表示病毒沒有活躍地複製→未來產生肝硬化肝癌機率會下降。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 
 ## Clinical Caveats
 

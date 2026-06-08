@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Thalassemia (地中海型貧血)'
   - 'Thalassemia'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-globin chain 生成異常造成小球性貧血與溶血，依 alpha/beta 與嚴重度分類。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+globin chain 生成異常造成小球性貧血與溶血，依 alpha/beta 與嚴重度分類。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ globin chain 生成異常造成小球性貧血與溶血，依 alpha/beta 與嚴�
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Ⅱ. 血紅素疾病 349 - A. 鐮刀型貧血 349 - B. 地中海型貧血 349 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 3. α-thalassemia 是因為染色體 16 的基因有缺損(deletion)。β-thalassemia 為體隱性遺傳,是因為染色體 11 的基因被取代(replaced)。(記:看 A 片很低級,B 咖容易被取代。) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - | 疾病 | 分類 | 原因 | 症狀 | |---------------|----------------|----------------|---------------------------| | α-thalassemia | Silent carrier | α 鏈有三個功能基因 | 無症狀 | | | Trait | α 鏈有兩個功能基因 | 無症狀,僅 Hb 降低 | | | Нь Н | α 鏈有一個功能基因 | 慢性溶血性貧血 | | | | 由於 α 鏈缺乏,只好 | 髓外造血造成肝脾腫大 | | | | 由β鏈構成 HbH | | | | Bart Hb | α 鏈沒有功能基因, | 死胎,hydrops fetalis | | | | 胎 Source: [[sources/med4-book1-ch08|辛、血液學]].

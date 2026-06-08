@@ -19,6 +19,7 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Small intestine (小腸)'
   - 'Small intestine'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- 2. 此外,PJ 患者罹患癌症的機率也會增加,發生機率依序為小腸、胃、胰臟、大腸、 食道、卵巢或乳癌等。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
+- (A) 息肉好發於空腸 (jejunum) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
+- 【詳解】根據題意描述和圖片可知該病患為 Peutz-Jeghers syndrome, (B)PJS 息肉轉為惡性的機率不高。(C) 最常合併的惡性 腫瘤是小腸癌。(D) 為體染色體顯性遺傳。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - (1) 胚胎發生在第四週時,中腸(distal duodenum to mid transverse colon)離開腹腔 到體外發育生長。第十週時以上腸繋膜動脈為軸心,以逆時針方向轉回腹腔內。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (3) 由於腸道無法進行正常生理活動,腸內細菌開始繁殖,引發小腸結腸炎 (entero-colitis) 甚至造成敗血症與腸阻塞。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 2. 比較先天性巨結腸症(Hirschsprung disease, HD)和功能性便秘 108( ) 專 (Functional constipation, FC)各種症狀出現之機率,下列敘述何 醫四 -10 者錯誤? - (A) 大便失禁 (Encopresis): HD > FC - (B) 生長遲緩 (Failure to thrive): HD > FC - (C) 小腸結腸炎 (Enterocolitis): HD > FC - (D) 腹漲 (Abdominal distention): HD > FC Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -70,8 +75,6 @@ tags:
 - 小腸鏡 enteroendoscopy:可想成是胃鏡的延伸,目前藉由特殊的氣囊構造(雙氣囊或單氣囊)可將內視鏡推進至小腸,直接進行探查,也可同步進行止血、切片、定位、異物取出、擴張、支架放置等治療。由於施行時間較長、風險也較高,因此多在已有其他檢查(膠囊、CT、RBC scan等)高度懷疑小腸病灶後進行, Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - 而對於已知大略位置、正在出血的小腸病灶或需要治療的小腸病灶,小腸鏡則是最佳的診斷兼治療工具。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - ...---------------------|--|--|--| | 腹痛部位 | 上腹部 | 逆流性食道炎、胃、十二指腸潰瘍、胰臟炎、肝膽系統感染、須 | | | | | | | 排除可能是下壁心肌梗塞 | | | | | | 肚臍旁 | 小腸病變(腫瘤、阻塞、出血等)、闌尾炎(早期)、上段輸尿管 | | | | | | 右下腹部 | 闌尾炎 (腹痛通常先發生於上腹部或肚臍周圍,之後慢慢移到右 | | | | | | | 下腹部 McBurney point*)、憩室炎 | | | | | | 左下腹部 | 結腸病變(憩室炎、便秘) | | | | | | 下腹部 | 膀胱感染或病變、女性的骨盆腔發炎 | | | | | 轉移性 | 後中背部 | 急性胰臟炎、腹主動脈剝離 | Source: [[sources/med3-book2-ch03|乙、腹痛]].
-- 【詳解】胃內有明顯 air-fluid level,且缺乏大小腸氣,表示阻塞在 胃的出口較有可能。(C)(D)多半都可見到小腸擴張;(A)則要看到 腹腔中 free-air。 Source: [[sources/med3-book2-ch03|乙、腹痛]].
-- (B) 16. 一位 88 歲女性由家人送入急診就醫。主訴為腹脹一天,沒有解便,胃口不佳。病人為陳舊性中風病患,左側偏癱,長期臥床,意識清楚但無法明確表達。20 年前曾有大腸癌並做過切除手術,固定於直腸科門診追蹤。理學檢查發現血壓為 110/65 mmHg,心跳為 105/min,呼吸速率為 15/min,體溫為 36.6℃,腸音加快,腹脹且有輕微壓痛(tenderness),無反彈痛(rebound tenderness),二側鼠蹊部無鼓脹。腹部 X 光(KUB)發現整個小腸脹大(distended loops of small bowel)。依以上病史與 X 光發現,下列那一種疾病可能性最高? Source: [[sources/med3-book2-ch03|乙、腹痛]].
 
 ## Clinical Caveats
 

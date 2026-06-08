@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Down syndrome / Trisomy 21 (唐氏症)'
   - 'Down syndrome / Trisomy 21'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-第 21 對染色體三體症，與先天心臟病、腸胃道異常、甲狀腺與血液疾病風險相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+第 21 對染色體三體症，與先天心臟病、腸胃道異常、甲狀腺與血液疾病風險相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- (A) 5. 一位 1 歲 10 個月女孩,患有唐氏症,不斷搔抓皮膚,皮膚的臨 100(-)專 床表現如圖 1。指縫間皮屑鏡檢發現如圖 2。該患者的診斷為: 醫四-37 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Ⅱ. 染色體異常疾病 417 - A. 愛德華氏症= Trisomy 18 417 - B. 唐氏症 (Down syndrome) 418 - C. Fragile X syndrome 421 - D. DiGeorge's 症候群(CATCH 22) 422 - E. 馬凡症候群(Marfan's syndrome) 424 - F. 威爾森氏病 (Wilson disease) 425 - G. 透納氏症(Turner syndrome) 427 - H. 努南氏症 (Noonan synfrome) 429 - I. 其他 432 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 第二部分我稱為染色體異常疾病,這部分包括:愛德華氏症、唐氏症、CATCH 22、Fragile X syndrome,以及馬凡氏症。這些疾病少有代謝方面合併症,而是在外觀上常有令人印象深刻的特徵,染色體篩檢往往也可以找出很明確的染色體異常。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - # B. 唐氏症 (Down syndrome) Source: [[sources/med4-book1-ch10|癸、遺傳學]].

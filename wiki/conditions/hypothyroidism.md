@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Hypothyroidism (甲狀腺低下)'
   - 'Hypothyroidism'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- ...菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - I. 甲狀腺 274 - A. 甲狀腺機能低下 (Hypothyroidism) 274 - B. 甲狀腺機能亢進 277 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - # A. 甲狀腺機能低下 (Hypothyroidism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -62,7 +65,6 @@ tags:
 - 【詳解】TSH 很高,代表下游的甲狀腺素分泌不足,導致上游拼命 的刺激,屬於 hypothyroidism。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 五種細胞 | 症 狀 | |-------------------|---------------------------------| | 生長激素低下 (GH ↓ ) | 小孩:身材矮小 | | | 成人:倦怠、無力、骨質疏鬆、脂肪量增多 | | 性促素低下 (FSH、LH ↓ ) | 男:不孕、性慾降低、無第二性徵 | | | 女:不孕、無月經 | | 甲促素低下 (TSH ↓ ) | 甲狀腺低能症 (Hypothyroidism) | | 皮促素低下 (ACTH ↓ ) | 腎上腺功能不足 (Adrenal insufficiency) | | 乳促素低下 (PRL ↓ ) | 女性無法泌乳 | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - ...| | | (A) 腦下腺機能低下 | 醫三 -20 | | | (B) 副甲狀腺機能低下 | | | | (C) 腎上腺機能低下 (Addison's disease) | | | | (D) 腦中風 | | | | 【詳解】低體溫先想到甲狀腺低下。 | | | | (B) 副甲狀腺與鈣離子平衡較相關。 | | | (C) | 2. 一位 25 歲年輕女性因上腹不適至胃腸科門診,服用藥物一段時間後 | 101(二)專 | | | 發生乳房腫脹及泌乳情形,她有可能服用下列何種藥物? | 醫三-19 | | | (A) antacid (B) proton pump inhibitor | | | | (C) metoclopramide | | | | (D) magnesium Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- (B) primary hypothyroidism Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 

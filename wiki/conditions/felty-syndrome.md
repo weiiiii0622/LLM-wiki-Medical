@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Felty syndrome (Felty 氏症候群)'
   - 'Felty syndrome'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合�
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- ...ion assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (3) 伴隨淋巴結和內臟的侵犯:lymphadenopathy、hepatosplenomegaly Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - ...s, deafness and thrombocytopenia. | | | CMV | Microcephaly with periventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 【詳解】Nelson's Textbook of Pediatrics 21st Edition 在 Chapter 282 提到先天性感染 CMV 的新生兒,僅有 10% 有症狀。臨床上常有的表現有 patechia(54%)、jaundice(direct bilirubin > 2 mg/dL)(42%)、microcephaly(35%)、IUGR(28%)、prematurity(24%)、hepatosplenomegaly(19%)、purpura(3%)以及較少見的 sensorineural hearing loss。另外,母親感染 CMV,其分泌的母乳也可帶有 CMV 並可透過母乳餵食感染新生兒(Nelson 內文並未寫明感染機率)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...HLH 會因某些事件如感染而被引發。因此即使病人有感染而表現 HLH 也無法完全證明病人就是 secondary HLH)。 - b. 以下八項符合五項: - (a) 發燒大於 38.5℃。 - (b) 身體評估或是超音波檢查發現脾腫大 (splenomegaly)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].

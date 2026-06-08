@@ -16,6 +16,8 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Sarcoidosis (類肉瘤病)'
   - 'Sarcoidosis'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,13 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- (C) 類肉瘤 (sarcoidosis) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (A) 類肉芽腫(sarcoidosis) Source: [[sources/med4-book2-ch11|子、其 他]].
 - (4) 其他,如 granulomatosis/sarcoidosis, thyrotoxicosis, thrombophlebitis... Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - \* 須排除:曾接受過頭頸部放射線治療、病患有 HCV、HIV 感染,病患有 lymphoma、Sarcoidosis、GVHD 或服用 Anticholinergic drugs。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
@@ -65,7 +71,6 @@ tags:
 - 【詳解】(A) 自體免疫性會以毛玻璃病變(GGO)表現,呈現 NSIP pattern,類肉瘤以縱膈淋巴結及肺部小點表現;此病患較可能是 Idiopathic pulmonary fibrosis;(C) 運動肺功能會進行六分鐘行走,走路距離可作為預後的預測;(D) 兩者皆會降低。 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - | (D) | 7. 下列何者最可能引起 transudative pleural effusion ? (A) 肺結核 (tuberculosis) (B) 類肉瘤 (sarcoidosis) (C) 尿毒症 (uremia) (D) 肺栓塞 (pulmonary embolism) | 104(一)專醫三-12 | |-----|--------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - 2. 病因: Infiltrative (Amyloidosis, Sarcoidosis, Hemochromatosis) or noninfiltrative (Diabetes, idiopathic),診斷未明的病患應考慮 RV 心肌切片。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- 3. 治療:治療之後造成浸潤的原因,Steroid for sarcoidosis、去鐵劑 for Hemochromatosis等。 Amyloidosis RCM 需避免 Digoxin,Digoxin 較易於這類病患發生毒性。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 
 ## Clinical Caveats
 

@@ -33,6 +33,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch07]]"
 aliases:
   - 'Heart failure (心臟衰竭)'
   - 'Heart failure'
@@ -47,7 +48,7 @@ tags:
 
 ## Summary
 
-心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +81,12 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch07]]
 
 ## Key Details From Sources
 
+- (D) 應注意是否有低心輸出量(low cardiac output)心臟衰竭之 徵候 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
+- 【詳解】除了乾癬,異位性皮膚炎、藥物、白血病、淋巴瘤、 魚鱗癬都有可能會以紅皮症表現,除了會廣泛性脫屑外,表面 體溫上升引起血流增加,造成最後水分蒸發喪失、體溫下降; 且新陳代謝上升,心跳速率上升,嚴重會造成心臟衰竭(high cardiac output heart failure);落屑也會造成蛋白質流失和血液中 白蛋白下降。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - (1) 與 TOF 有相似的臨床表現:cyanosis、fatigue、tachypnea、delayed development、congestive heart failure。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 發紺或其它症狀表現嚴重程度由三尖瓣影響範圍大小與右心出口阻塞程度而 異。從沒有或輕微症狀到新生兒時期出現嚴重發紺、肝腫大、休克、心臟衰竭 甚至死亡等都有可能出現。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) The large PDA 造成的心衰竭與 large VSD 表現相似,而且心臟衰竭症狀會更快發生。其它臨床症狀包括寬的脈搏壓(the wide pulse pressure)、周邊動脈具有跳躍性脈搏(bounding peripheral arterial pulses)、嬰兒生長遲滯、心臟肥大等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -99,8 +103,6 @@ tags:
 - ...O, urine osmolality 為 369 mOsmol/kg H2O, 因此屬於 low osmolality 的 hyponatremia - (B) 病人無 edema, 為 euvolemic status, 因此病因不會是心臟衰竭 或肝腎病變 - (C) 病人 cortisol 23.3 mg/dL, ACTH 13.9 pg/mL, 因此病因不是 cortisol deficiency - (D) 病人 hsTSH 66.7 mIU/mL, 因此病因為 hyperthyroidism Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】水腫最常見原因為慢性腎病、腎病症候群、慢性肝病造成的血清白蛋白降低、心臟衰竭等,因為此 case 頸靜脈壓力正常,兩側肺野無 rales,所以心因性可能性較低。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...ngap)性的混合性代謝性酸血症 【詳解】(C) 主要是因為磷無法藉由腎臟排出。 | 94(一)專內1-5 | | (C) 27 | 7. 下列何者不會造成慢性腎衰竭急性惡化? (A) 體液不足(volume depletion) (B) 心臟衰竭惡化(aggravating heart failure) (C) 高血糖 (D) 高血壓 | 94(一)專內2-7 | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...atinine 1.2 mg/dL。下列敘述何者最不正確? (A) 病人的體液過多,必須使用利尿劑增加排尿量 (B) 病人的腎功能惡化可能是腎後(post-renal)因素導致,應置放導尿管解除可能的尿路阻塞 (C) 病人的腎功能惡化可能是心臟衰竭導致,應仔細評估心臟功能(D) 病人的腎功能惡化可能是藥物使用不當所致,應詳問用藥紀錄 | 99(一)專醫三-8 | | (A) 23 | . 一位 69 歲糖尿病病人,其血清肌酸酐(creatinine)為 2.3 mg/dL,門診醫師最近加了一項降血壓藥,2 週後抽血,肌酸酐上升至 4.5 mg/dL,下列那一類藥物最有可能造成上述情況?(A) ACE inhibitors (B) β-blockers(C) calcium cha Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...| 5.7 (3.5) | | HPV →疣; Polyoma vir | us (BK, JC) | | | | 雙股線狀 核內 | | 核內 | 疱疹病毒 (Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长,肝硬化 | | | | 複雜型 | 雙股線狀 | 細胞質 | 痘病毒 (Pox virus) | 天花, 傳染性軟疣 | | | | | 二十面體 | 單股 (+) 無分段 | 細胞質 | 小 RNA 病毒 (Picornavirus) | 小兒麻痺,克沙奇病毒 | 腸胃道感染 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

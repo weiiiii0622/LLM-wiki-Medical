@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Antifungal agents (抗黴菌藥物)'
   - 'Antifungal agents'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,17 @@ tags:
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- (B) 口服 fluconazole Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- b. 內服療法: 適用於頭癬及甲癬,或局部療法效果不佳、病灶廣泛之慢性皮癬患者。 - (a) Terbinafine (療黴舒):屬殺黴菌藥物,治療皮黴菌約需 2~4 週,手指甲 癬需 6 週,而腳趾甲癬約需 12 週。治癒率為 80~90%,但對汗斑及念珠 菌感染無效。 - (b) Itraconazole (適譜諾):由於對肝臟損害少,有取代老藥 Ketoconazole 之趨勢,屬於抑黴菌藥物而非殺黴藥物。但因屬 imidazole 類之廣效製劑,故對汗斑及念珠菌感染亦具療效。 - (c) Griseofulvin(灰黃黴素):只對皮癬菌有效,為傳統口服抗黴菌藥物,只具有抑菌效果,主用於頭癬和灰指甲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- c. 嚴重患者可口服 Itraconazole、Fluconazole 或 Ketoconazole。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 2. 原因不明,一般認為和遺傳有關,也有認為和皮屑 芽孢菌(Malassezia furfur)過度增生有關,故使用 抗黴菌藥物可以有效改善皮膚炎。秋冬季、壓力、 生理期、睡眠不足和情緒不好、免疫力低下(HIV、 器官移植者)等都為惡化原因。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (2) 頭皮屑的問題,可用含有焦油(tar)、硫化砷(selenium sulfide)、Zinc Pyrithione或 Ketoconazole (如:仁山利舒)的抗黴菌洗髮精來潤洗頭皮。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (C) 外用抗黴菌藥物不能有效治療脂漏性皮膚炎 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...phrotoxicity) - (a) 常用的抗生素中,Aminoglycoside 類的腎毒性最常被提及,尤其是連續使用 5 天以上、老年人、本來腎功能就不好的病人,更容易產生腎毒性。 - (b) 需避免同時使用其他具有腎毒性的藥物,如 Amphotericin B、foscarnet、NSAID、cisplatin 等。 - b. 耳毒性 (Ototoxicity)、前庭毒性 (Vestibulotoxicity): 可能以聽覺損傷(高頻)、 耳鳴表現,但也可能以前庭受損、頭暈、步態不穩表現。 - c. 神經肌肉阻斷 (Neuromuscular block): 高劑量時, 會導致神經肌肉阻斷, 甚至造成呼吸肌癱瘓, 可用 calcium gluconate、neostigmine 回復。重 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何種抗生素為最適當之治療選擇? - (A) ciprofloxacin - (B) fluconazole - (C) imipenem/cilastatin - (D) vancomycin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...則即可: | | | | 組織胞漿菌 | Histoplasmosis | | Itraconazole | | | 系統性(雙形性) | 皮炎芽生菌 | Blastomycesdermatitidis | 肺部感染,95% 沒有症狀 | Fluconazole (CNS)AmphoB (Life-threatening) | | | | 副球孢子菌 | Paracoccidioides | | | | | | 青黴菌 | Talaromyces (Penicillium) | 東南亞,AIDS 伺機感染 | | | | | | | 鴿糞/土壤→吸入肺中,通常無症狀 | 不需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluc Source: [[sources/med3-book3-ch20|子、黴菌學]].

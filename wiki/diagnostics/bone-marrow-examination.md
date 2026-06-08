@@ -23,6 +23,10 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Bone marrow examination (骨髓檢查)'
   - 'Bone marrow examination'
@@ -37,7 +41,7 @@ tags:
 
 ## Summary
 
-骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +64,17 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch07]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- ...身性紅斑狼瘡(systemic | 102(一)專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 【詳解】Wiskott-Aldrich Syndrome 是一種性聯隱性遺傳的疾病,患者多為男性,主要臨床症狀有血小板低下且形狀變小、免疫功能異常(中耳炎、肺炎、腦膜炎)、以及濕疹(佔75%的患者,且容易對過敏原產生反應而併發氣喘等症狀)。治療以症狀治療為主,如需根本治療則需骨髓移植。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (1) Methotrexate(MTX):治療慢性塊狀乾癬或乾癬性關節炎的第一線用藥。最常見的副作用為噁心、疲倦、食慾減退、骨髓抑制造成白血球下降以及肝毒性,故有肝病史和酗酒者不適此療法,可能引發肝纖維化或肝硬化的危險。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
+- 4. 治療:早期病灶侷限於皮膚時較有治癒機會,而當病灶侵犯至淋巴結或內臟時,多 半只能緩解無法治癒。 - (1) 皮膚病灶:外用強效類固醇、局部化學治療、光化學治療(PUVA)、外用芥子 氦或 BCNU、局部或全身電子束放射療法。 - (2) 全身性治療:化療、骨髓移植、干擾素或單株抗體。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - II. 急性骨髓性白血病 (Acute Myelogenous Leukemia, AML) 374 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 3. 骨髓檢查:當周邊血液檢查懷疑是白血病時,建議做骨髓檢查以做確診。一般以做骨髓抽吸(aspiration)即可,但為了排除其它造成骨髓衰竭疾病有時加做骨髓切片(biopsy)。當超過 25% 的骨髓細胞表現為 homogeneous population of lymphoblasts 時即可確診。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 1. Induction (誘導期):給予數種高劑量化療藥物,一般而言絕大部分病人可以在這階段緩解。假使無法緩解或是在治療過程中出現復發,則考慮骨髓移植。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -77,10 +89,6 @@ tags:
 - (1) **慢性期(Chronic phase)**: **Leukocytosis with left shift**,須與感染發炎時的 Leukemoid reaction 作鑑別診斷,CML 的 LAP score 通常很低,周邊血液還可見 basophilia、血小板增多,且常有 Splenomegaly。 - a. LAP = Leukocyte alkaline phosphatase,正常白血球才會有的酵素,感染發炎時的 Leukemoid reaction,LAP score 高。 - b. CML 的白血球則無此酵素,所以 LAP score 通常很低。 - c. 周邊血液抹片會出現 blast、promyelocyte、myelocyte 等各期顆粒球。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - (2) 加速期 (Accelerated phase): 骨髓 Blast = 10~19%, 周邊血液 basophil > 20%、血小板減少 ( 20%; 1/3 演變成 ALL, 2/3 演變成 AML。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - A.診斷 146 - B. 依染色、表面抗原鑑別診斷 147 - C. 基因轉位整理 147 - D. 血液抹片 148 - E. 急性骨髓細胞白血病 149 - F. 急性淋巴細胞白血病 150 - G. 前骨髓細胞白血病 150 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- A. 診斷: Blast > 30% (FAB) 或> 20% (WHO) Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...modal 分布) | | | 比較 | CML 成人多(平均 50 歳) | CLL 老人多(西方人較常見)。 | | | 症狀 | Leukostasis (Headache, Blurred vision, | Bone pain (骨髓內增殖)、LAPs (肝脾淋E | | | | Retinopathy, TIA; Chloroma (軟組織腫瘤) | 大)、 | | | | | CNS involvement · Tumor lysis syndrome | | | 次型症狀 | DIC/M3 | Ant. Mediastinal mass (T cell) | | | | Gingival infiltration /M4,M5 (牙齦肥厚) | | | | 形 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- 2. 以骨髓侵犯為主的是 Leukemia,其中較成熟 B 細胞的癌病變又分出來,稱為 Plasma cell dyscrasia。 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (B) 3. 一位 18 歲男性因頸部淋巴結腫大應診,抽血檢查發現血紅素為 12.5 106(2) 專 gm/dL,白血球 3,550/ $\mu$ L,其中 blast 2%,血小板 135,000/ $\mu$ L。胸部 器 = -41 X 光如圖所示。此病人最可能的診斷為何? Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 
 ## Clinical Caveats
 

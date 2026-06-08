@@ -22,6 +22,8 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)'
   - 'ACE inhibitors, ACEI'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,13 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch07]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- (4) 保持肢體溫暖、少抽菸以改善雷諾氏現象;CCB、ACEI、及 vasodilator 的使用可防止指尖或皮膚的潰瘍。ACEI對於硬皮症腎臟侵犯的治療也佔有重要的角色。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (3) ACEI或 ARB 類藥物對於蛋白尿的治療與預防腎臟惡化現今仍持保留的態度。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...| | | b. Physical: dermographism, cold, solar | | | c. Autoimmune | | 2. Bradykinin-mediated | Hereditary angioedema · ACEI | | 3. Complement-mediated | Necrotizing vasculitis · Serum sickness · Reactions to blood products | | Nonimmunologic (pseudoallergy, anaphylactoid | a. Direct mast cell - releasing agents (opiates, antibiotics, curare, Source: [[sources/med3-book4-ch07|庚、過敏疾病]].

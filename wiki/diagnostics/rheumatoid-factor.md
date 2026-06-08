@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Rheumatoid factor, RF (類風濕因子)'
   - 'Rheumatoid factor, RF'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人�
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - ...rositis (pericarditis, pleuritis, or peritonitis) • - b. Oligoarticular JIA:發病後 6 個月內有 1~4 個關節受到影響。 - c. Polyarthritis (RF negative):發病後6個月內有≥5個關節受到影響,且 rheumatoid factor (RF) 陰性。 - d. Polyarthritis(RF positive):發病後 6 個月內有 $\geq$ 5 個關節受到影響,且RF $\geq$ 2 次測到陽性(兩次需間隔 3 個月以上,且皆需在發病後 6 個月內)。 - e. Psoriatic arthritis: 關節炎加上乾癬, 或關節炎加上以下至少兩項: - (a) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - c. 發病時通常白血球及血小板高,血紅素低,且 CRP 及 ESR 高。Oligoarthritis 及 polyarthritis 有 40~85% ANA 會陽性。Rheumatoid factor(RF)可能陰性或 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) 多關節型 (Polyarthritis) JIA 患者,風濕因子 (Rheumatoid factor, RF) 陽性者的預後較陰性者佳 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

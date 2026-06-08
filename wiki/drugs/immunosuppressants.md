@@ -20,6 +20,13 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Immunosuppressants (免疫抑制劑)'
   - 'Immunosuppressants'
@@ -34,7 +41,7 @@ tags:
 
 ## Summary
 
-用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +61,26 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch09]]
+- [[sources/med4-book2-ch06]]
+- [[sources/med4-book2-ch07]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (1) 疾病初期可使用局部或是全身性的類固醇及免疫抑制劑(如 MTX, tacrolimus等)來控制發炎。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (2) 免疫抑制劑: chlorambucil、cyclosporine A 和 cyclophosphamide,對於眼鏡病變、 黏膜潰瘍和神經病變都有不錯療效。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (2) 局部類固醇藥膏,或是局部塗抹 calcineurin inhibitor藥膏 (pimecrolimus、tacrolimus),能抑制 T 細胞活化,且沒有類固醇造成皮膚萎縮的副作用。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (4) Cyclosporine:用在全身性且療效不佳的病患。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (B) 病情嚴重難以控制的病人,可考慮使用口服環孢靈素 (cyclosporine) 治療 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- a. Azathioprine:除了少數人出現噁心、嘔吐、肝功能異常、血球低下之外,副作用不嚴重,但是療效緩慢,可能要等二至三週,故用來做為類固醇的輔助治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- c. Cyclophosphamide:這也是一種免疫抑制劑,原本是用來做為癌症的化學治療之用,後來也常用來做為自體免疫疾病的輔助治療或脈衝治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- d. Mycophenolate mofetil (CellCept):這是近幾年來較受矚目的藥物之一,甚至在美國有些專治免疫水泡疾病的醫學中心,已經把此藥的地位設定在類固醇之後的首選第二線治療藥物。一般服用劑量是每天 2~3 g。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- (2) 典型 KS 對於放射治療效果較好;地域性 KS 對化療反應最好;因免疫抑制所引發 KS 者,停藥後常會自癒,也可嘗試換藥,如以 sirolimus 取代 cyclosporin 及 tacrolimus。AIDS 患者接受正統抗病毒治療即有療效,或使用干擾素及介白質治療,也可暫時改善。其他局部療法例如液態氮冷凍療法、雷射、電燒、光動力療法也都可。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (4) 治療:以類固醇為主要治療方式。若效果不佳,可以考慮脈衝治療。有時可以 考慮免疫抑制劑 azathioprine、hydroxycloroquine、cyclosporine 或是 methotrexate 合併治療。若效果不好的話考慮 IVIG。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) 13. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時,下列那一項不是其常見的併發症? Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -65,14 +89,6 @@ tags:
 - (2) 藥物:類固醇、生長激素、β agonist、cyclosporine。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) Class III、Class IV 可見 Subendothelial immune deposits、腎絲球活躍地發炎,須積極以高劑量類固醇+免疫抑制劑(Cyclophosphamide)治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - | 分 類 | 作用 | 藥 物 | | | |------------------|-----------------|---------------------------------|--|--| | 烷化劑 | 抑制分化快速細胞 | Cyclophosphamide (Endoxan® 愛德星) | | | | 抑制 Purine 製造 | 抑制白血球 | Azathioprine (Imuran® 移護寧 ) | | | | 14th Latine 35/5 | 256169 1 mr. 9. | MMF (Cellcept® 山喜多) | | | | 減少 IL2 分泌 | 抑制T細胞 | Cyclosporin (Sandimmun®新體睦) | | | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- (1) 烷化劑 (Alkylating agent): Cyclophosphamide (Endoxan® 愛德星) - a. 作用機制:烷化(Alkylating)DNA、與 DNA 結合,進而抑制 DNA 複製;針對 分化快速細胞皆有作用,效果最強、副作用也最大。 - b. 可能造成骨髓抑制、出血性膀胱炎(Hemorrhagic cystitis)、提前停經(premature ovarian failure)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...n) (D) 對抗自體抗體的產生及降低其力價(titer) | 93(一)専内1-62 | | (B) 3. 以抑制淋巴球產製第二介白質(interleukin-2)為主要作用的抗抗藥物是: (A) glucocorticoids (B) cyclosporin (C) azathioprine (D) mycophenolate mofetil 【詳解】 (A) glucocorticoids 抑制 Macrophage 產生 IL-1 (B) cyclosporin 抑制 Th cell 產生 IL-2 | 非斥 92(二)檢內-23 | Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- (C) azathioprine (Imuran) 抑制細胞 DNA、RNA 的製造,導致 T、 Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- (D) mycophenolate mofetil(MMF)抑制 T、B 細胞活化。 Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- (5) 治療: - a. 單用類固醇僅能緩解症狀。 - b. 最有效的療法是口服的 cyclophosphamide 合併口服的 Prednisolone。 - c. 最近有兩篇 RCT 顯示 rituximab (anti-CD20 Ab) 跟 cyclophosphomide 一樣有效。 - d. 若達到 Remission, 改為 MTX 或 Azathioprine 來維持 (Maintain remission)。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (5) 治療: 單用類固醇對大部分病患有效,無效再合併口服 cyclophosphamide, mepolizumab (anti-IL5 單株抗體) 可作為後線治療。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (4) 治療: Steroid+/- Cyclophosphamide, B 肝患者給予抗病毒治療。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- #### 5. 5th line: 免疫抑制劑 (Immunosuppressants) Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 
@@ -81,7 +97,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/pemphigus-vulgaris|Pemphigus vulgaris (尋常性天疱瘡)]]
 
 ## Follow-up
 

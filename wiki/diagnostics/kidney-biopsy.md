@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Kidney biopsy (腎臟切片)'
   - 'Kidney biopsy'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-診斷腎絲球、間質與部分腎實質疾病的重要檢查。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+診斷腎絲球、間質與部分腎實質疾病的重要檢查。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,15 @@ tags:
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- e. 病理變化: - (a) 表皮內的基底層(Stratum basale)與其上的表皮細胞分離,形成表皮層 內裂縫(Intraepidermal cleft),裂縫中有許多游離的 acantholytic cell,故 此種水泡稱為 suprabasal blister。 - (b) 直接免疫螢光染色(Direct immunofluorescence, DIF): IgG 和 C3 沉積在細胞間隙 (intercellular deposition), 呈現網狀的「IC pattern」, 如右圖可見表皮層自基底層 以上剝離,DIF 呈網狀圖案。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- (3) 免疫螢光反應:在真皮乳突處(dermal papillae)的頂端有 IgA 顆粒狀沉積(granular deposition)。右圖可見其螢光分佈有別於類天疱瘡的連續線段沉積,而是一點一點的沉積於真皮乳突處。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- | 水泡疾病 | 皮膚病灶 | 口腔黏 | 好發部位 | 病理變化 | 免疫螢光反應 | |----------------|----------------------|-----|-------------------|--------------|------------------| | | | 膜侵犯 | | | | | 尋常型天疱瘡 | 皺鬆的水泡表淺 | + | 皮膚皺摺處 | Suprabasal | IgG/C3 | | (Pemphigus | 糜爛 (Flaccid | | (flexural Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- 免疫螢光染色不會有 lupus band,故選 (D)。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - ...病理成因:HSP 發病機制目前仍未清楚了解。病理學上 HSP 有兩個特點:leukocytoclastic vasculitis 以及 immunoglobulin A deposition,發生部位在皮膚、關節、腸胃道以及腎臟的小血管上。腎臟切片顯示 endocapillary proliferative glomerulonephritis。IgA 沉降在腎絲球上,在光學顯微鏡下無法與 IgA nephropathy 做出區別。免疫螢光染色下可以看到 mild proliferation 或是 necrotic and crescentic changes。偶爾會看到 C3、fibrin 與 IgM 沉澱。另外,由於 HSP 好發於秋冬之際,某些病原體如 group A β- Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (5) 腎臟切片:不常做,僅有在 acute renal failure、進展到 nephrotic syndrome、缺乏明顯的感染證據或正常的 C3 level 時才做。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 3. 腎臟切片:用於鑑別診斷反覆發作型或是對類固醇治療成抗性的病童。對於一歲以 下或是十二歲以上兒童也建議做切片檢查。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -57,7 +65,6 @@ tags:
 - (D) 1. 一名 30 歲女性,近 2 個月血清肌酸酐從 1.0 升至 3.0 mg/dL,其血清 anti-neutrophil cytoplasmic 抗體呈陰性反應,血清 C3 降低,C4 正常,經腎臟切片檢查確定為新月型腎絲球腎炎,電鏡檢查發現有 subepithelial electron-dense 沉積,glomerular basement membrane 厚度正常,下列 診斷何者正確? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...組織(咽鼠疫)所造成之咽炎和頸部淋巴腺炎。 二、前項旅遊史、接觸史或暴露史未知或不明,或無典型之臨床症狀,而相關檢體經實驗室檢驗符合下列任一條件者: (一)未曾施打疫苗的病例血清中,抗鼠疫桿菌 F1 抗原之抗體效價上升。(三)於臨床檢體中以免疫螢光法 (FA) 測得 F1 抗原。 (三)自臨床檢體分離得鼠疫桿菌。 (四)血清中抗鼠疫桿菌 F1 抗原之抗體效價上升 4 倍以上。 | | | 嚴重急性呼吸道症候群(SARS) | 三、雖未符合前二項條件,但經醫師或法醫師高度懷疑者。 同時符合下列臨床症狀及流行病學條件者,即可進行通報: 一、臨床症狀: (一)發燒(≧38℃)且 (二)一種或以上的下呼吸道症狀(咳嗽、呼吸困難、呼吸短促)且 (三)放射線診斷學上有與肺炎或呼吸窘迫症候群一 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...咳嗽、噁心、腹痛等任一症狀者。 | | | | 二、實驗室診斷: | | | | (一)由肺組織、呼吸道分泌物、胸膜液、血液或其他正常無菌的部位, | | | | 分離出退伍軍人桿菌 (Legionella),或 | | | | (二)直接免疫螢光抗體試驗,在肺組織、呼吸道分泌物或胸膜液檢驗出 | | | | 嗜肺性退伍軍人桿菌 (L. pneumophila),或 | | | | (三)以間接免疫螢光抗體試驗檢測血清抗體效價,恢復期(4~12週)比 | | | | 發病初期效價有 4 倍以上增加,且≧ 128。 或 | | | | (四)以酵素連結免疫分析法或放射免疫分析法檢驗出尿中有嗜肺性退伍 | | | | 軍人桿菌血清型第一型 ( L. pneumophila serog Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...、 醫三-7 少尿、水腫、呼吸困難、嘔吐。血液肌酸酐 9.6 mg/dL, Na+120 mmol/L, K+5.5 mmol/L, 尿液蛋白質 4+。腎臟超音波左腎長度 9.8 cm,右腎長度 9.6 cm。下列處置何者最正確? (A) 腎臟切片檢查 (B) 透析治療 (C) 以 angiotensin-converting enzyme inhibitor 治療 (D) 以脈衝式類固醇 (pulse methylprednisolone) 治療 【詳解】病患之腎臟大小已偏小(正常 10~12 cm),且已出現尿 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

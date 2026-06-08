@@ -21,6 +21,8 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Coronary arteries (冠狀動脈)'
   - 'Coronary arteries'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,14 @@ LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- 5. 心血管併發症:發病平均約十天時,15~20%的患者可能產生冠狀動脈瘤,危險因子包括男性、小於兩歲、貧血、白血球大於3萬、發炎指數較高、發燒超過二週、低白蛋白、心包膜積水等。冠狀動脈瘤約有八成會在一至二年內消失,特別是常見的直徑小於8mm的中小型冠狀動脈瘤。但直徑超過8mm以上的巨大冠狀動脈瘤較難完全消失,容易形成血栓,造成急性心肌梗塞或冠狀動脈瘤破裂。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (2) 在三個月內確定冠狀動脈正常,則考慮停藥,在發病十天內使用免疫球蛋白,可將冠狀動脈瘤之發生率降至 2~5%,並將巨大冠狀動脈瘤之發生率降至 1%, 且越早使用效果越好。若冠狀動脈瘤一直存在,則需持續服用低劑量阿斯匹靈。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (a) 假使未接受抗生素治療,約 10% 會演變心臟血管病變,梅毒病發後 10~40 年發生。男性患者多於女性,黑種人又較白種人容易發病,其病變 主要是主動脈炎、主動脈逆流、冠狀動脈入口狹窄和動脈瘤等。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (2) 在無法從左側心臟輸送充氧血至全身情況下,肺靜脈回流的充氧血則從心房中膈缺損或是卵圓孔流至右心房與全身的缺氧血混合,再從肺動脈經開放性動脈導管(PDA)運送至全身與冠狀動脈。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...),下列敘述何者錯誤? (A) 嵴上型心室中膈缺損(supracristal type or conoseptal type or subpulmonic type VSD)在東方人發生的機會高於西方人,又稱作東方型心室中膈缺損。容易發生右冠狀動脈瓣膜脫垂併主動脈瓣閉鎖不全,自行癒合的機率比較低。 (B) 心電圖會看到右心室擴大、心軸偏右、及右束支不完全傳導阻滯。 (C) 30%~50%的 VSD會自行癒合,且絕大多數自行癒合的時間在小朋友四歲以前。 (D) 膜周部(perimembranous type)心室中膈缺損所佔比例最高,位在三尖瓣瓣膜旁邊,因此自然癒合的時候部分的三尖瓣瓣膜組織會和心室中膈結合成 ventricular septal aneurysm,也因為這樣,此類 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 1. 又稱做 mucocutaneous lymph node syndrome 或是 infantile polyarteritis nodosa; 臨床表現像感染性疾病,病理上是血管炎變化。臨床上 KD 影響血管範圍是在中型血管(medium-sized arteries),其中以冠狀動脈為最常見(其他血管如 axillary、subclavian、femoral、popliteal or brachial arteries 也會受到影響)。若未積極處理,約 20~25% 病人會有冠狀動脈異常 coronary artery abnormalities(CAA)。積極處理(使用 IVIG)的病人發生 CAA 的機率則可降至低於 5%。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -74,9 +81,6 @@ LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 
 - (A) 閉塞性冠狀動脈疾病 (occlusive coronary heart disease) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...ayexalate (sodium polystyrene sulfonate) 降低血鉀 | | | | (B) 透析(dialysis) | | | | (C) 輸血 (blood transfusion) | | | | (D) 經皮冠狀動脈介入治療(percutaneous coronary intervention) | | | | 【詳解】透析是 uremic pericarditis 最根本的治療方式。 | | | (C) | 3. 有關腹膜透析和血液透析的優劣點,下列何者錯誤? | 105(一)專 | | | (A) 血液透析對於超過濾(ultrafiltration)的控制比較正確 | 醫三-36 | | | (B) 腹膜透析比較容易發生血脂肪升高 | | | Source: [[sources/med3-book3-ch06|己、透析治療]].
 - (B) 2. 一位 70 歲女性患有糖尿病外,無其它病史,半夜突然胸痛、冒汗、 108(二)專 想吐,送至急診時血壓 137/79 mmHg,脈搏 73 次 / 分,呼吸 18 次 / 分,心電圖如下所示,緊急心導管檢查發現心肌梗塞,最可能是 那一條冠狀動脈血管堵塞? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- ...,兩塞住 | ズ相 叔 DC 擅 AD 寸 | | | Amio去顫 | | | | | 插管後再電 | 心破(心包膜填塞) | | 分一次最多3 mg; | _ | | 下/分+不穩定 | | | | 描破(張力性氣胸)若仍無脈搏→心塞(冠狀動脈梗塞) | | 雕加·柳 古小 独词等型 (T/CD) | | | | 寬 | | | | | | S//11 D opatimic pamp (2 Tonig kg/mm) | | | 100 | | | | | 給藥 Amiodarone300 mg (兩支) iv push | 肺塞(肺動脈栓塞) | 或用Epinephrine pump (2~10mg/min) | | | | 去顫 | | | Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (B) 施以緊急冠狀動脈攝影術及血管成型術 (Emergent coronary angiography and angioplasty) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- 1. 缺血性心臟病(Ischemic heart disease)指的是心肌供氧不足,最常見的原因是冠狀動脈粥狀硬化。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

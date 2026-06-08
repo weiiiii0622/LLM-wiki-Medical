@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Reactive arthritis (反應性關節炎)'
   - 'Reactive arthritis'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-感染後無菌性關節炎，常與泌尿生殖道或腸胃感染相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+感染後無菌性關節炎，常與泌尿生殖道或腸胃感染相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- (C) 5. 下列關於 Staphylococcal scalded skin syndrome (SSSS) 之敘述, 99(一)專 何者錯誤? 醫四 -35 - (A) Nikolsky's sign 常呈現陽性 - (B) 常合併化膿性結膜炎 (purulent conjunctivitis) - (C) 水疱液常培養出 Staphylococcus aureus - (D) 必須使用全身性抗生素治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (4) 併發症:因反覆抓癢導致金黃色葡萄球菌或疱疹病毒(eczema herpeticum) 感染。少數會有錐形角膜(keratoconus)、白內障(cataracts)或角膜結膜炎(keratoconjunctivitis)。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (D) 沙門氏菌腸炎的併發症包含反應性關節炎(reactive arthritis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】(B)除非病人免疫低下、臨床有毒性病容、年紀太小低於三個月,治療方式優先以支持性療法為主。(D) Nelson's Textbookd of Pediatrics 20th Edition p1387 裡提到沙門氏桿菌腸炎引起胃腸道外的併發症有 reactive arthritis(通常是發生在青少年,特別是帶有 HLA-B27)或是骨髓炎(osteomyelitis,特別是罹患 sickle cell disease 的病童)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (C) rotavirus- reactive arthritis Source: [[sources/med4-book1-ch02|乙、消化系統]].

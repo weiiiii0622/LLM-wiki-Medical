@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Tumor staging (腫瘤分期)'
   - 'Tumor staging'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,13 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- ### Melanoma TNM Classification Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- | T stage | Thickness, mm | Ulceration status | |---------|---------------|-----------------------------------------| | T1 | ≦ 1.0 | a: Without ulceration and level ll/lll* | | | | b: With ulceration or level IV/V/T2 | | T2 | 1.0 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- | N stage | No. of Metastatic Nodes | Nodal Metastatic Mass | | | | |---------|-------------------------------------------------------------------------------------------------|---------------------------------------------------- Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - Stage 1: 腫瘤限制在腎包膜內,可完全切除。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - Stage 2: 腫瘤超過腎包膜,仍可完全切除。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - Stage 3:切除後仍有殘餘的腫瘤。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -64,9 +69,6 @@ tags:
 - (B) 沈思期 (contemplation stage) Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - (1) 五項指標:年紀(A)、體力(P)、LDH、淋巴外(E)、分期(S) - a. $\underline{\mathbf{A}}\mathrm{ge} > 60~\mathrm{years}$ ; $\underline{\mathbf{P}}\mathrm{erformance~status} > 2~\mathrm{(ECOG)}$ or $> 70~\mathrm{(Karnofsky)}$ - b. LDH >正常值; > 1 site of extranodal involvement - c. Ann Arbor stage III or IV - d. 口訣:APLES (蘋果 apples 少一個 P)。 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - (A) 4. 一個 35 歲男性患者診斷為 malignant lymphoma,diffuse large B-cell type,stage IIA,下列有關敘述何者為正確? - (A) 一般而言,積極化學治療約可達到 70% 的緩解率 (remission rate) - (B) 除非進行造血幹細胞移植,否則無治癒可能 - (C) 屬於 aggressive malignancy,腫瘤生長速度快,化學藥物治療效果不佳 - (D) 應該儘可能只給予 radiation therapy 就好,避免給予 systemic chemotherapy,以免以後發生 secondary leukemia Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...disease)之敘述,何者錯誤? (A) 病變部位主要為 axial involvement (B) 在青春期(adolescence)有一出現高峰 (C) 發生頻率較 non-Hodgkin's lymphoma 高 (D) 大部分 stage I~II,放射治療(R/T)是可痊癒的 【詳解】(C) HD:non-HD 西方 1:3,東方 1:9,所以較 non-HD dz. 低。 | 94(一)專內 2-3 | | (B) | 17. 下列有關 Burkitt 淋巴瘤的敘述,何者錯誤? (A) 部分病人的腫瘤與 Epstein-Barr 病毒感染有關 (B) 常有染色體的異常 t (14,18) (C) 常侵犯中樞神經,分期檢查應包括腦脊髓液檢查 (D) 細胞生長快速,須即 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- | Stage | International Staging System (ISS) | Durie-Salmon Criteria | | 中位存活 | |-------|-----------------------------------------------|----------------------------------------|-------------|-------| | | | Hgb>10, Ca 3.5g/dL | Low M protein (IgG 12,> 5 Lytic bone lesion | IIIA (Cr 5.5 mg/L | High M protein (IgG>7g/dL, IgA>5 g/dL) | IIIB (Cr>2) | 15 個月 | Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
-- ...oma)診療上的敘述,何者正確? (A)「血清 CA19-9 值的升高」是診斷胰臟癌的必要條件 (B)「血清 CA19-9 值的升高」建議使用於胰臟癌的篩檢(screening) (C)「手術前血清中 CA19-9 值」與病患胰臟癌的期別(stage)具相關性 (D)「手術後血清中 CA19-9 值」與病患的預後無關 | 108(一)專醫三-35 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 
@@ -75,6 +77,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/melanoma|Melanoma (黑色素瘤)]]
 - [[conditions/wilms-tumor|Wilms tumor (威爾姆氏腫瘤)]]
 
 ## Follow-up

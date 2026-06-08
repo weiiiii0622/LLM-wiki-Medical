@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Phototherapy (新生兒黃疸照光治療)'
   - 'Phototherapy'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-以藍光將 unconjugated bilirubin 轉為可排泄異構物，降低 kernicterus 風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以藍光將 unconjugated bilirubin 轉為可排泄異構物，降低 kernicterus 風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- (7) 在照光治療後,毛囊 outer root sheath 的黑色素母細胞活化後,移行到表皮,色素會以各個毛孔為中心開始恢復,再向外擴散,稱作 follicular pattern repigmentation。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (C) 2. 24 歲女性在臉部、頸部出現脫色病灶,如圖所示,關於此病的敘 109( ) 專 述,下列何者錯誤? 醫四 -43 - (A) 此病症可能出現 Koebner phenomenon - (B) 此病症可能造成病人社會適應困難 - (C) 病灶內的黑色素細胞雖存在,但無 法有效製造黑色素顆粒 - (D) 波長 308 nm 之準分子光治療 (excimer phototherapy) 有效 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (A) 短窄波長紫外線治療(narrow-band UVB phototherapy) Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - IV. 新生兒黃疸 (Neonatal Jaundice) 460 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 膽紅素沉積在新生兒皮膚表面上造成膚色外觀呈現黃色狀態。一般而言生理性黃 疸在出生後 2~3 天出現,出生後 4~5 天可以達到高峰,之後黃疸逐漸消退。但是若出 生 48 小時內出現黃疸,或是膽紅素值達到照光標準,則為病理性黃疸,必須積極處理。 若不積極處理,膽紅素經血液流至中樞神經沉積在基底核造成核黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (D) 安排儘快住院做脊髓穿刺,取 CSF 做檢查後立即給予抗生素 【詳解】乾尿布、純母乳哺餵、黃疸、意識狀態改變(極度嗜睡) 等,顯示病人出現因脫水造成新生兒黃疸。因此需要靜脈輸液 補充水分治療。 Source: [[sources/med4-book1-ch11|子、新生兒科]].

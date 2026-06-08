@@ -13,6 +13,11 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med4-book2-ch07]]"
 aliases:
   - 'Conventional DMARDs (傳統疾病修飾抗風濕藥)'
   - 'Conventional DMARDs'
@@ -27,7 +32,7 @@ tags:
 
 ## Summary
 
-RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +45,21 @@ RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch06]]
+- [[sources/med4-book2-ch07]]
 
 ## Key Details From Sources
 
+- (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (4) 皮膚病變可用局部使用類固醇藥膏或使用抗瘧疾藥物(Hydroxychloroquine)治療。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (4) 奎寧(Hydroxychloroquine):對於皮膚紅疹、無法被 NSAID 控制的關節疼痛 有效。長期使用可減少 SLE 復發及對腎臟、中樞神經的侵犯。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- b. Methotrexate (MTX):它的療效快速,服用劑量低,所以很適合無法吞太多藥物的老人家。但它有肝毒性,故無法長期服用,有些人會有嚴重的噁心嘔吐,故腎功能不好者需小心使用。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- ...ine 類藥物,皮膚常見副作用是畏光和色素沉積。(B) 為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C) 為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D) 為 NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- 【詳解】(A)是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B)為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C)為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D)為NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
+- (1) Methotrexate(MTX):治療慢性塊狀乾癬或乾癬性關節炎的第一線用藥。最常見的副作用為噁心、疲倦、食慾減退、骨髓抑制造成白血球下降以及肝毒性,故有肝病史和酗酒者不適此療法,可能引發肝纖維化或肝硬化的危險。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 治療:以類固醇為主要治療方式。若效果不佳,可以考慮脈衝治療。有時可以 考慮免疫抑制劑 azathioprine、hydroxycloroquine、cyclosporine 或是 methotrexate 合併治療。若效果不好的話考慮 IVIG。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - | DMARD | 作用機轉 | 常用於何種疾病 | |--------------------|------------------------------|----------------------------| | Methotrexate | 抑制 dihydrofolate reductase → | 多種風濕疾病都可使用,如 | | | 抑制 purine 生成→抑制發炎 | JRA, SLE, dermatomyositis… | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -54,8 +71,6 @@ RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結
 - (2) MTX、Sulfasalazine 對周邊關節炎都有臨床上的效果,其他可能也有效的包含 Leflunomide、Cyclosporin。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - RA 近年來進展不少,Anti-CCP 的意義、DMARD、生物製劑、免疫抑制劑的 角色都要有概念,將是未來考試的重點。內專愛考 criteria, 要能默背出來才能答題。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (1) 這類藥物毒性較強,所以建議於 MTX 等 DMARD、生物製劑無效者,再考慮使用; 或病患發生血管炎時,常需使用免疫抑制劑治療。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...主訴兩側手腕關節及手指關節腫痛已 3 個多月。抽血檢查,ESR 及 CRP 皆明顯上升,且類風濕因子也呈陽性。雙手 X 光也發現關節邊緣性腐蝕現象。此時,除給予消炎止痛劑 (NSAID) 外,最適宜再給予的免疫調節劑為下列那一種? (A) methotrexate (B) cyclosporine (C) cyclophosphamide (D) azathioprine | 103(二)專醫三-8 | | (B) | 8. 下列何者對 Cyclooxygenase (COX)-2 之選擇性抑制性最高? (A) 阿斯匹靈(Aspirin) (B) Celecoxib (C) Ibuprofen (D) Indomethacin | 102(一)專醫三-2 | | (C) | 9. 下列有關 Rh Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (2) 對於 **urticarial vasculitis**,使用口服類固醇甚至 hydroxychloroquine、colchicine 可能有幫助。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 
 ## Clinical Caveats
 

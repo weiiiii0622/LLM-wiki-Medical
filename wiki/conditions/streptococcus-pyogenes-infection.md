@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Streptococcus pyogenes infection (A 群鏈球菌感染)'
   - 'Streptococcus pyogenes infection'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- (1) 致病因子: S. aureus 分泌之 Toxic shock syndrome toxin 1 (TSST-1) 及 Staphylococcal enterotoxin 和 Group A Streptococcus 分泌之 Streptococcal pyrogenic exotoxins (SPE) ,也就是超級抗原 (superantigen) 所導致之系統性症候群。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- # 由 Staphylococcus aureus 及 Streptococcus pyogenes 分泌毒素及導致疾病整理 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 【詳解】(A)Kawasaki disease 主要特徵為發燒超過五天、結膜炎、紅疹、草莓舌,按題意描述此病患為傷口感染後所引起,加上未發燒超過五天,故不像 Kawasaki disease。(D)Vibrio vulnificus,海洋弧菌,會有嘔吐、腹瀉、腹痛、急性蜂窩性組織炎和水泡性皮膚炎等病狀,最重要的是需有海水接觸史或是海產食物史。(B)(C)藉由題意描述和刪去法,病人症狀比較像是 scarlet fever,由於病人為傷口感染化膿後引發之 scarlet fever,故應為表皮的 S. aureus 感染所造成,Group A Streptococcus 多為飛沫傳染後喉嚨感染導致 scarlet fever。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 當 Group A Streptococci(GAS)感染上呼吸道造成 GAS pharyngitis 外,GAS 產生pyrogenic exotoxin(erythrogenic toxin)造成一連串的發炎反應導致猩紅熱。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 從咽喉處採集檢體做 GAS antigen detection test 與病原體的培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 猩紅熱的致病機轉和 A 群鏈球菌 (Group A streptococcus) 所產生的內毒素 (Endotoxin) 有關 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -55,9 +63,6 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 - ## D. 產氣性壞疽病 (Clostridial myonecrosis, Gas gangrene) Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - (C) group A streptococcus Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - (1) Penicillin 目前是 Syphilis、Group A streptococcus 感染的首選用藥。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...----------------------|-------------------------------------|----------------------------------------|--|--| | 格蘭氏陽性菌 | Group A streptococcus (S. pyogenes) | Streptococcus 造成的蜂窩性組織炎、咽炎的首選用藥 | | | | 俗阑氏陽性困 | Listeria monocytogenes | PCN 無法入細胞內,Listeria 腦膜炎用 Ampicillin 治療 | | | | 格蘭氏陰性菌 Neisseria meningitis | | 抗藥性增,現少用 PCN 治療 Neisseria 造成的腦膜炎 | | | | | | Syphi Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...ns; CAP; | S. pneumoniae (28) | | Clarithromycin | group A streptococcal pharyngitis in penicillin-allergic patients; | Streptococcus pyogenes (0-10) | | | | H. pylori (2-20) | | AzithromycinClindamycin | gastric infections due to Helicobacter pylori ; Mycobacterium avium -intracellulare inf. Severe, invasive group A streptococcal infections; | S. aureus | | C Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- 本章節以臨床導向,國考後的你即將身為一個住院醫師,就該有以下的能力來 分析一個 gas data,從判讀出有哪些問題到推測臨床上病患有哪些病生理異常,最 後加以矯正。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 
@@ -66,7 +71,8 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 
 ## Related Pages
 
-- 待補。
+- [[conditions/impetigo|Impetigo (膿痂疹)]]
+- [[conditions/toxic-shock-syndrome|Toxic shock syndrome, TSS (中毒性休克症候群)]]
 
 ## Follow-up
 

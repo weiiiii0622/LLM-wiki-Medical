@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Clindamycin (克林黴素)'
   - 'Clindamycin'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch11]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- b. 給予抗生素: Clindamycin [Clindmaycin 可抑制細菌產生毒素]、Oxacillin、1st Cephalosporin。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (A) clindamycin 投予 7 天 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 4. 若對 penicillin 類抗生素過敏可用口服 clindamycin 或是 cephalosporin。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...| Macrolide (肝) | Erythromycin | 非典型肺炎 (Mycoplasma, Chlamydia) | | | | | Azithromycin | HIV 病患的 MAC | | | 抑制 50S 核醣體 | Lincosamide (肝) | Clindamycin | 厭氧菌→橫膈以上的膿瘍 | | | | | | 抑制細菌毒素製造→壞死性筋膜炎 | | | | Oxazolidinones (肝) | Linezolid | 可用於多重抗藥性的細菌 | | | | Chloramphenicol | Chloramphenicol | 毒性大,現少用(再生不良貧血、灰嬰) | | | 抑制 30S 核醣體 | Aminoglycoside | Gentami Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
@@ -50,7 +54,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/toxic-shock-syndrome|Toxic shock syndrome, TSS (中毒性休克症候群)]]
 
 ## Follow-up
 

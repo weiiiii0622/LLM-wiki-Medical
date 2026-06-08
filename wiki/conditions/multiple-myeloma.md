@@ -27,6 +27,11 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book2-ch01]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Multiple myeloma, MM (多發性骨髓瘤)'
   - 'Multiple myeloma, MM'
@@ -41,7 +46,7 @@ tags:
 
 ## Summary
 
-漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +73,24 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch09]]
+- [[sources/med4-book2-ch01]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- (3) Verruca Vulgaris(common wart)(右上圖): 尋常疣,最常長在手指、指甲周圍或四肢其 他部位。為 1~10 mm 之小乳突狀丘疹,表面 角質化,略帶灰色,仔細觀察可見表面有許 多微血管栓塞而成的黑色針狀小點,將表層 刮去可看見紅色小出血點。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (5) Verruca Plana (flat wart) (右下圖):扁平 疣,1~5 mm之扁平小丘疹,多發生在臉部, 偶爾可見於前額或手背,呈皮膚色,似青春痘。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 【詳解】5 mm 以內的小丘疹、中間有肚臍狀凹陷、長在幼童上,最可能為傳染性軟疣。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 2. ABCDE rule:病患臨床上有以下特徵時,需懷疑為黑色素細胞瘤。 - (1) Asymmetry:形狀不對稱。 - (2) Border irregular:邊緣不規則、有突起或是表面潰瘍。 - (3) Color variation: 顏色斑駁不一致。 - (4) Diameter > 6 mm: 直徑大於 6 mm - (5) Enlargement:短時間內持續增大; Elevation:表面不規則隆起。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- 3. 危險因子: - (1) CDKN2a (tumor suppressor gene) 突變。 - (2) SPT type I or II • - (3) Sun exposure or radiation exposure • - (4) Family or personal history • - (5) 身上超過 50 顆且大於 5 mm 的黑色素母斑 (melanocytic nevi)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- | T stage | Thickness, mm | Ulceration status | |---------|---------------|-----------------------------------------| | T1 | ≦ 1.0 | a: Without ulceration and level ll/lll* | | | | b: With ulceration or level IV/V/T2 | | T2 | 1.01~2.0 | a: Witho Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- 2. 表皮:位於皮膚最上層,厚度從最薄的眼皮 0.04 mm 至最後的足底 1.5 mm 不等,由表面而下可分為五層:角質層、透明層、顆粒層、棘狀細胞層和基底層。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
+- c. 毛囊生長階段分為生長期(anagen)、退化期(catagen)、休止期(telogen)。 - (a) 生長期 (anagen): 約有 85~90% 的毛囊屬於生長期,頭皮毛囊生長期時間約 2~6 年,每天約以 0.35 mm 生長,平均一個月約可長出 1cm。 - (b) 退化期(catagen):約有 1%的毛囊屬於退化期,毛囊細胞將進行細胞凋亡的動作,時間約 2~3 週。 - (c) 休止期(telogen):約有 $10\sim15\%$ 的毛囊屬於休止期,時間約為 3 個月。 正常人一天約有 $50\sim100$ 根頭髮會自動脫落,之後再進入生長期,進行下 一個循環。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
+- (3) 汗腺:除嘴唇、指甲甲床、小陰唇、陰核、龜頭和外耳以外,汗腺分布全身, 尤其以手掌、腳底、前額和腋下最多。 - a. 為有導管腺體,分為小汗腺 (eccrine gland) 和大汗腺 (apocrine gland) 兩種。 - b. 小汗腺 (eccrine gland)的功能為分泌汗液,其導管開口於皮膚表面形成汗孔。 - c. 大汗腺(apocrine gland)又稱頂漿腺,分布在腋窩、乳暈、肛門、外陰及外 耳道等處。導管開口於毛囊,分液物含有脂質及蛋白質等,經氧化易產生體 臭。 - (4) 指甲:為角質層硬化而成,覆蓋於手指及腳趾末端,一天約長 0.1 mm。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
+- (A) 19. 一位 25 歲年輕女性,因臉上蝴蝶斑、頸部淋巴腺腫大及時有高 100(二)專 燒而求診。以往常會頭痛,冬季時兩手有 Raynaud's 現象及手指 醫四-42 關節疼痛。血液檢查所見:血色素 9.8 g/dL,白血球 3,100/mm³,血小板 80,000/mm³,尿蛋白陽性(+++)。除以上所見外,下列何種檢驗結果最為可能? - (A) anti-double-stranded DNA antibodies 陽性 - (B) elevated complement level - (C) eosinophilia - (D) depressed y-globulin level Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - | 病原體 | 白血球數 (/mm³) | 白血球分類 | |----------|---------------------|-------------------------------------------| | Bacteria | 通常範圍在 15,000~40,000 | polymorphonuclear leukocytes predominance | | Virus | 通常不超過 20,000 | Lymphocyte predominance | Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 10. 一位 6 歲女童持續發燒、咳嗽 8 天,因為突然意識不清並有持續 16 分鐘的全身性抽搐住院。住院時雙側呼吸音有細囉音(fine crackles),頸部與大腿有境界不清的紅色丘疹如圖 1 所示,胸部 X 光如圖 2 所示。周邊血液白血球計數 12,100/mm³(segment 76%;lymphocyte 15%;monocyte 9%)。腦脊髓液 protein 145.2 mg/dL,glucose 82 mg/dL(blood sugar 102 mg/dL),白血球 14/ mm³(mononuclear cell:polymorphonuclear cell = 12:2),腦部電 腦斷層影像無明顯異常,下列那一種病原的可能性最高? Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (B) 1.2個月大女嬰,咳嗽已有3個星期之久,近幾天甚至偶爾咳至唇色發紫,這陣子並無發燒現象。血液檢查WBC為26,500/mm³,neutrophil為25%,lymphocyte為70%,鼻咽檢體的RSV (respiratory syncytial virus) antigen 檢查結果為陰性反應,其最有可能之致病菌為何? - (A) adenovirus - (B) Bordetella pertussis - (C) enterovirus - (D) Streptococcus pneumoniae Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -79,16 +99,6 @@ tags:
 - 【詳解】(B) 青春期前斑塊直徑 5 mm 以上,青春期後斑塊直徑 15 mm。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (A) 常在溫度 6/mm³、Hb: 6.5 g/dL、MCV 62 fL、MCH 19 pg/cell、RDW (RBC distribution width)上昇、血小板: 250,000/mm³,他最有可能是下列那一種疾病? - (A) 缺鐵性貧血 (iron deficiency anemia) - (B) 海洋性貧血症 (thalassemia) - (C) 再生不良性貧血症 (aplastic anemia) - (D) 急性白血病 (acute leukemia) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (D) 12. 一位 7 歲大的女孩,因腸胃炎就診被發現有貧血現象,過去無重大疾病史,一般發育無明顯異常。進一步血液檢查結果如下:WBC: 3,400/mm³、segment 32%、lymphocyte 62%、RBC: 6.0×106/mm³、Hb: 10.2 g/dL、MCV: 63 fL、MCH: 22 pg、MCHC: 31.4 g/dL、RDW(RBC distribution width)值在正常之下; HbA1: 92.4%、HbA2: 5.2%、HbF: 2.4%。顯示該女孩最有可能是: Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (A) 14. 一位 8 歲大的男孩因呼吸道感染就診時,醫師發現有貧血現象, 男孩過去無重大疾病史,一般發育無明顯異常。進一步血液檢查 結果如下:WBC: 11,100/mm³、segment 60%、lymphocyte 32%、 RBC: 5.6×106/mm³、Hb: 10.8 g/dL、MCV: 62 fL、MCH: 20.1 pg、 MCHC: 31.4 g/dL、RDW(RBC distribution width)值在正常之下、 HbA1: 97.1%、HbA2: 2.1%、HbF: 0.8%。顯示男孩最有可能是: - (A) α 型輕型海洋性貧血症 (α-thalassemia minor) Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (3) 心臟的侵犯是川崎病最重要的臨床表現,可能出現 myocarditis、pericarditis with pericardial effusion(急性期)。若沒有治療,約 25% 病人在疾病發生後第二至 三週會有 coronary artery aneurysms;當冠狀動脈瘤內徑≥ 8 mm 時,破裂的機會非常高。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (A) 3.74 歲的林先生罹患 multiple myeloma 二年,經化學治療之後進入緩 102( ) 專解期。在今年冬天發現雙手手指會變白後變紫(附圖左邊),不久之 餐二-37 後右耳皮膚變黑而壞死(附圖右邊)。下列何種檢查對這位患者的 診斷最有幫助? Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...ritis Rheum 33: 1122, 1990)[不用死記,建議多看幾次能對此病有概念] - a. 年紀 > 50 歲 - b. 新發生的頭痛 (New headache) - c. 顳動脈疼痛、脈搏減弱 - d. ESR > 50 mm/h - e. 切片:血管發炎且有肉芽腫(Granuloma)形成 - (3) 有 40~50%的顳動脈血管炎病人會合併風濕性多發性肌痛症(Polymyalgia rheumatica),這兩個病是同一病理的兩個不同臨床表徵,皆是中大型的血管發炎,一個導致頭痛,一個導致肩頸、背、大腿多處肌肉痠痛。 - (4) 治療: - a. 類固醇治療效果良好。巨細胞血管炎需 Prednisolone 40~60 mg/d;若僅有風濕性多發性肌痛症, Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...診,被診斷為慢性鼻竇炎引起鼻黏膜潰瘍出血。三個月之後因感冒引起久咳不癒有三週之久。其間偶有多次小咳血發生。胸部 X 光攝影可見數顆大小不等的腫塊。抽血檢查發現 ANA 1:40 (-),hemoglobin 8.9 g/dL,ESR 21 mm/lh,CRP 3.2 mg/dL。最可能的診斷為何? (A) lung cancer (B) granulomatosis with polyangiitis (Wegener's syndrome) (C) Behçets's disease (D) lung tuberculoma | 104(二)專醫三-8 | | (A) | 6. 下列有關 Wegener's granulomatosis 之敘述,何者最正確? (A) 血中可 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- #### 庚、漿細胞疾病 (Plasma Cell Disorder) Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
-- 1. 由 B lymphocyte lineage 衍生出來的一系列 monoclonal neoplasm。包含 Multiple myeloma, Waldenström's macroglobulinemia, primary (AL) amyloidosis。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
-- 2. \*Heavy chain disease 非常罕見,且分類繁多,大部分不是 plasma cell disorder。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
-- ...~9.06),Blast 0%,Promyel. 0%,Myelo. 0%,Meta 0%,Band 0%,Seg 5.0%,Eos. 3.0%,Baso. 1.0%,Mono. 8.0%,Lym. 83.0%,Aty.Lym. 0.0%,Plasma cell 0.0%,Normobl. 0.0/100 WBC。以下那個敘述錯誤? - (A) 因為白血球總數正常,只需要症狀治療 - (B) 應該要做詳細的身體檢查,以找出可能的感染來源 - (C) 應該要接受血液細菌培養 - (D) 應該要儘早投與靜脈注射的廣效性抗生素 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- (C) 12. 一位 53 歲女士在健康檢查時被發現白血球為 23,500/mm³,分類如下: promyelocyte 0.5%, myelocyte 2.5%, metamyelocyte 5%, banded neutrophil 16.5%, segmented neutrophil 53.5%, lymphocyte 15%, monocyte 3%, eosinophil 2.5%, basophil 1.5%; 血紅素及血小板正常。骨髓細胞染色體檢查有 t(9;22)(q34;q11)。下列何者為此女 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 
 ## Clinical Caveats
 

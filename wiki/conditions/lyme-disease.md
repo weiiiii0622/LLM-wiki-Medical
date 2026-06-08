@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Lyme disease (萊姆病)'
   - 'Lyme disease'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-蜱媒 Borrelia 感染，可有游走性紅斑、神經、心臟與關節表現。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+蜱媒 Borrelia 感染，可有游走性紅斑、神經、心臟與關節表現。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- (C) 萊姆病 (Lyme disease) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - #### 3. Lyme disease: Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (1) Borrelia burgdorferi 的感染發生於埤 (Ticks) 咬後 36~48 小時。 Source: [[sources/med3-book4-ch06|己、關節炎變]].

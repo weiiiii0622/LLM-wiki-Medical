@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,13 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- ...)。 - (c) 皮疹會連續分批出現,故同一時間可於身上看見各階段的皮疹變化,同時看見 papules、vesicles、pustules 和 crusts。 - (d) 成人症狀比較明顯且嚴重,甚至造成肺部發炎(pneumonitis)或腦炎(encephalitis)等併發症。(\*當肺部發生感染或是受到刺激而導致發炎稱為 Pneumonitis,而當肺部組織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. Fi Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (2) 臨床症狀:潛伏期為 2~10 天,初次感染大多無症狀,典型單純性疱疹會出現一小群水泡,接著破裂形成潰瘍然後結痂,會刺痛及癢感,病程約 20 天,病毒會潛入感覺神經節伺機再發。 - a. HSV-1: 疱疹性齦口炎(herpetic gingivostomatitis)、唇疱疹(Herpes labialis) →顔面部三叉感覺神經節潛伏→復發齦口炎、腦炎。 - b. HSV-2:生殖器疱疹→腰、尾椎感覺神經節潛伏→復發生殖器疱疹。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹 108( ) 專子型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 2. 經由血液循環侵犯遠處的器官:較少見,但會造成 meningitis、encephalitis、acute disseminated encephalomyelitis(ADEM)、transverse myelitis、cerebellar ataxia、endocarditis、suppurative arthritis and osteomyelitis 這些併發症。Pneumococcal or *H. influenzae* type b infection 是造成遠端器官侵犯常見的病原體。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 2. 對於肺炎黴漿菌 (*Mycoplasma pneumoniae* ) 感染的描述,下列 109( ) 專 何者錯誤? - (A) 是學齡兒童社區性肺炎的常見病原 - (B) 肺外病徵包括腦炎、關節炎和皮疹 - (C) 潛伏期 2~3 週,家庭內傳染性高 - (D) 正確診斷主要靠痰液和血液培養 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) Japanese encephalitis virus Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -72,9 +77,6 @@ tags:
 - 2.106年5月22日起,改採用細胞培養之日本腦炎活性滅毒疫苗,接種時程為出生滿15個月接種第1劑,間隔12個月接種第2劑 1.105年起,卡介苗接種時程由出生滿 24 小時後,調整為出生滿 5個月 (建議接種時間為出生滿 5~8 個月 )。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ...| | 面體 | 單股 (+) 無分段 | 細胞質 | 披膜病毒 (Togavirus) | a 病毒,(德國麻疹) | 節肢動物 | | | | 早版 (*) 無方权 | 細胞質 | 黃質病毒科 (Flavivirus) | 登革熱,日本腦炎 | (蟲媒病毒) | | | | | 單股 (+) 無分段 | 細胞質 | 冠狀病毒科 (Coronavirus) | SARS | | | | RNA | | 單股(-)分段(8)核內 正黏液病毒科(Orth | | 正黏液病毒科 (Orthomyxovirus) | 流行性感冒病毒 | 呼吸道感染 | | | KNA | | 單股 (-) 無分段 | 細胞質 | 副黏液病毒科 (Paramyxovirus) | RSV, 腮腺炎, Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- ...--------------------|--|--| | HHV1 | HSV1 | 單純疱疹病毒第一型 | 齦□炎→顏面感覺神經結潛伏 | | | | 10 | | (Herpes simplex virus 1) | →復發齦口炎, 腦炎 (Encephalitis) | | | | HHV2 | HSV2 | 單純疱疹病毒第二型 | 生殖器疱疹→腰,尾椎感覺神經結潛伏 | | | | | | (Herpes simplex virus 2) | s 2) →復發生殖器疱疹 | | | | HHV3 | HV3 VZV 水痘帶狀疱疹 | | 水痘 (Varicella = chicken pox)→顱, 咽感覺神 | | | | | (Varicella zoster Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- (1) α 病毒 (Alphavirus): 藉由蚊子傳播病毒,造成馬腦炎 (Equine encephalitis)。馬、野鳥皆是其儲備宿主。感染人體會造成頭痛、發燒、意識改變等腦炎症狀。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- a. 吸入隱球菌後,可能在肺部造成感染、浸潤;免疫更差的,會藉著血流侵犯中樞神經,造成發燒、頭痛,甚至意識改變。可由腦脊液分析推測黴菌感染而懷疑,或測血中、腦脊液中的 Cryptococcal antigen 或染 India ink 診斷。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

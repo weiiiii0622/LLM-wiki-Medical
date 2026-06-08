@@ -26,6 +26,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Adrenal gland (腎上腺)'
   - 'Adrenal gland'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- 【詳解】依題目所提之臨床症狀,推測是腫瘤轉移到兩側腎 上腺破壞腎上腺功能,造成 Addison's disease (primary adrenal insufficiency),病患會有厭食、噁心嘔吐、姿態性低血壓、高 血鉀、皮膚皺褶和黏膜處出現色素沉澱等症狀。因為是 primary adrenal insufficiency,腎上腺組織已經被腫瘤轉移破壞殆盡,所以 ACTH 會增加以刺激皮質醇分泌但徒勞無功,且做 corticotropin stimulation test 不會有反應。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- ...is): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - IV. 腎上腺一先天性腎上腺增生 287 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - # IV. 腎上腺 - 先天性腎上腺增生 (Congenital Adrenal Hyperplasia, CAH) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -85,8 +91,6 @@ tags:
 - (4) 腎上腺治療後若病患有持續的氣管痙攣,可給予吸入型 β-agonist。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - 【 詳解】Li-Fraumeni 的 典型 症狀是 breast cancer, sarcoma and adrenal gland, BRAC 則是 breast cancer 與 ovarian, HNPCC 的稱為 Lynch syndrome 與 endometrial、ovarian、gastric、pancreatic、urothelial cancer 有關,FAP 就是在腸胃道腫瘤。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - .... 老化過程中會發生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|-------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (A) 診斷必須排除腎上腺或甲狀腺功能不足 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Syphilis (梅毒)'
   - 'Syphilis'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,13 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- (D) 鑑別診斷包括二期梅毒 (secondary syphilis) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (1) 梅毒螺旋體(Treponema pallidum)入侵人體皮膚或黏膜破損處感染所致,病原體為螺旋體,一般 Gram stain 無法染上,需以暗視野顯微鏡檢(dark-field microscopy)或直接螢光抗體染色(Direct fluorescent antibody staining)觀察,主要由性交傳染,也可經由輸血感染;或婦女懷孕時罹患梅毒,經由胎盤而感染胎兒,造成先天性梅毒。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- a. 初期梅毒 (primary syphilis): - (a) 感染後平均潛伏 21 天(10~90 天)後會在接觸處出現無痛性潰瘍。起初為丘疹,旋即變為潰瘍,表面呈肉紅色糜爛,無壓痛感,觸摸感覺像是皮下藏了一顆鈕扣(button-like papule)(右上圖),故有硬性下疳(hard chancre)之稱。局部淋巴腺腫大隨著硬性下疳出現不久即發生,一樣無壓痛感。 - (b) 硬性下疳好發於男性陰莖上任何部位,女性則好發於 子宮頸和會陰,亦可能生於身體任何部位。縱使無治療,硬性下疳經4至6週後會自動癒合消失。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...-----------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosis, deafness and thrombocytopenia. | | | CMV | Microcephaly wi Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 先天性梅毒 (congenital syphilis) Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -64,9 +69,6 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - (2) 梅毒 (Syphilis) 分期: Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...期 | 下疳癒合後 | 手掌與腳掌的紅疹、 | 1~6 個月後 | PCN 2.4M IM st | | | 6~8 週 | 扁平濕疣 (Condyloma lata) | 自然消退 | | | 第三期 | 感染後 10~40 年 | 皮膚梅毒腫、心臟血管梅毒 | | PCN 2.4M IM qw*3 | | 神經 | 感染後T . p allidum micro h em agg lutination assay) | | | RPR (Rapid plasma regain) | FTA-ABS (Fluorescent treponemal antibody absorption | | 用途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、治 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...---------------|------------------|---------|----| | 1. Natural Penicillin(PCN) | Penicillin G, Benzathine PCN | A 型鏈球菌、梅毒螺旋體 | x | 腎 | | 2. Penicillinase-resistant-PCN | Methicillin, Nafcillin, Oxacillin,Cloxacillin*, Dicloxacillin* | 金黃色葡萄球菌 | х | 肝 | | 3. Amino-PCN+β lactamase inhibitor | Ampicillin, Amoxicillin* → Augmentin, Unasyn | 肺炎 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (1) Penicillin 目前是 Syphilis、Group A streptococcus 感染的首選用藥。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...無法入細胞內,Listeria 腦膜炎用 Ampicillin 治療 | | | | 格蘭氏陰性菌 Neisseria meningitis | | 抗藥性增,現少用 PCN 治療 Neisseria 造成的腦膜炎 | | | | | | Syphilis 的首選用藥 | | | | 厭氧菌 Pasteurella multocida, Actinomyces | | | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...b. HIV RNA 用來監測 HAART 藥物效果,用藥目標是壓制到測不到(目前用 PCR 最少可測到 20~40 copies/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者), CCR5 (考慮用 maraviroc 者)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

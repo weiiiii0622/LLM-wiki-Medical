@@ -18,6 +18,7 @@ Diseases and syndromes.
 - [[conditions/abnormal-liver-function-tests|Abnormal liver function tests (肝功能異常)]] - 肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。
 - [[conditions/achalasia|Achalasia (食道弛緩不能)]] - 下食道括約肌放鬆不全與食道蠕動異常造成吞嚥困難。
 - [[conditions/acromegaly|Acromegaly (肢端肥大症)]] - 成人 GH 過多造成肢端肥大、代謝與心血管併發症。
+- [[conditions/actinic-keratosis|Actinic keratosis (光化性角化症)]] - 日曬造成的鱗屑粗糙角化病灶，是 SCC 前驅病變。
 - [[conditions/actinomycosis|Actinomycosis (放線菌病)]] - 厭氧絲狀菌感染，常見慢性下顎臉部或腹盆腔病灶。
 - [[conditions/acute-bacterial-meningitis|Acute bacterial meningitis (急性細菌性腦膜炎)]] - 兒童 CNS 細菌感染急症，診斷依臨床、CSF 與病原檢查，治療需即時。
 - [[conditions/acute-bacterial-sinusitis|Acute bacterial sinusitis (急性細菌性鼻竇炎)]] - 兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。
@@ -37,6 +38,7 @@ Diseases and syndromes.
 - [[conditions/adenovirus-infection|Adenovirus infection (腺病毒感染)]] - 可造成咽結膜熱、肺炎、腸胃炎與出血性膀胱炎等多系統感染。
 - [[conditions/adrenal-insufficiency|Adrenal insufficiency (腎上腺功能不全)]] - 皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。
 - [[conditions/aids|AIDS (後天免疫缺乏症候群)]] - HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。
+- [[conditions/albinism|Albinism (白化症)]] - 黑色素合成或運輸異常造成皮膚、毛髮、眼部色素不足與光傷害風險。
 - [[conditions/alcohol-associated-liver-disease|Alcohol-associated liver disease (酒精性肝病)]] - 酒精造成脂肪肝、酒精性肝炎、纖維化或肝硬化。
 - [[conditions/allergic-rhinitis|Allergic rhinitis (過敏性鼻炎)]] - IgE mediated 鼻黏膜發炎，造成鼻塞、流鼻水、打噴嚏與眼鼻癢。
 - [[conditions/alport-syndrome|Alport syndrome (亞伯氏症候群)]] - type IV collagen 異常造成遺傳性腎炎，常合併感音性聽損與眼部病變。
@@ -54,10 +56,13 @@ Diseases and syndromes.
 - [[conditions/aortic-stenosis|Aortic stenosis (主動脈瓣狹窄)]] - 固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。
 - [[conditions/aplastic-anemia|Aplastic anemia (再生不良性貧血)]] - 骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。
 - [[conditions/apnea-of-prematurity|Apnea of prematurity (早產兒呼吸暫停)]] - 早產兒呼吸控制未成熟造成呼吸暫停、心搏過慢或低氧。
+- [[conditions/arsenical-keratosis|Arsenical keratosis (砷中毒角化症)]] - 慢性砷暴露造成掌蹠角化與皮膚癌風險增加。
 - [[conditions/ascites|Ascites (腹水)]] - 腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。
+- [[conditions/asteatotic-eczema|Asteatotic eczema (缺脂性皮膚炎)]] - 皮膚乾燥與屏障破壞造成龜裂、癢與濕疹樣變化。
 - [[conditions/asthma|Asthma (氣喘)]] - 可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。
 - [[conditions/atherosclerosis|Atherosclerosis (動脈粥狀硬化)]] - 斑塊形成、破裂與血栓連結穩定型心絞痛和急性冠心症。
 - [[conditions/atlantoaxial-subluxation|Atlantoaxial subluxation (寰樞椎半脫位)]] - RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。
+- [[conditions/atopic-dermatitis|Atopic dermatitis (異位性皮膚炎)]] - 慢性搔癢濕疹性疾病，與皮膚屏障異常、Th2 inflammation 與 atopy 相關。
 - [[conditions/atrial-fibrillation|Atrial fibrillation (心房顫動)]] - 常見心律不整，需評估 rate control、rhythm control 與抗凝。
 - [[conditions/atrial-flutter|Atrial flutter (心房撲動)]] - 心房大迴路造成鋸齒狀 flutter wave。
 - [[conditions/atrial-septal-defect|Atrial septal defect, ASD (心房中膈缺損)]] - 心房層級左到右分流，常見固定分裂 S2 與右心容量負荷。
@@ -68,20 +73,24 @@ Diseases and syndromes.
 - [[conditions/bacterial-meningitis|Bacterial meningitis (細菌性腦膜炎)]] - 急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。
 - [[conditions/barrett-esophagus|Barrett esophagus (巴洛氏食道)]] - 慢性 GERD 相關腸化生，是食道腺癌風險因子。
 - [[conditions/bartter-syndrome|Bartter syndrome (Bartter 氏症候群)]] - Henle ascending limb 鹽分再吸收缺陷造成低血鉀代謝性鹼中毒與高 renin/aldosterone。
+- [[conditions/basal-cell-carcinoma|Basal cell carcinoma, BCC (基底細胞癌)]] - 最常見皮膚癌，局部侵犯為主，典型可見 pearly papule 與 telangiectasia。
 - [[conditions/becker-muscular-dystrophy|Becker muscular dystrophy, BMD (貝克型肌肉失養症)]] - dystrophin partially functional 的較輕型肌肉失養症，發病與進展較 DMD 晚。
 - [[conditions/behcet-disease|Behcet disease (貝賽特氏症)]] - 復發性口腔/生殖器潰瘍、眼炎與血管炎相關疾病。
 - [[conditions/bell-palsy|Bell palsy (貝爾氏顏面神經麻痺)]] - 急性周邊型顏面神經麻痺，需排除中樞與感染等原因。
 - [[conditions/biliary-atresia|Biliary atresia (膽道閉鎖)]] - 嬰兒膽汁鬱積重要病因，需早期辨識灰白便與直接膽紅素上升。
 - [[conditions/botulism|Botulism (肉毒桿菌中毒)]] - 肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。
+- [[conditions/bowen-disease|Bowen disease (波文氏症)]] - 皮膚 squamous cell carcinoma in situ，表現界線清楚紅色鱗屑斑塊。
 - [[conditions/breast-cancer|Breast cancer (乳癌)]] - 乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。
 - [[conditions/bronchiectasis|Bronchiectasis (支氣管擴張症)]] - 支氣管永久擴張，常有慢性痰與反覆感染。
 - [[conditions/bronchiolitis|Bronchiolitis (細支氣管炎)]] - 嬰幼兒小氣道病毒感染，RSV 常見，治療多以支持療法為主。
+- [[conditions/bullous-pemphigoid|Bullous pemphigoid (類天疱瘡)]] - 抗 hemidesmosome 自體抗體造成表皮下緊繃水泡，多見於老人。
 - [[conditions/bundle-branch-block|Bundle branch block (束枝傳導阻滯)]] - 心室傳導延遲會影響 ECG 判讀與 CRT 評估。
 - [[conditions/burkitt-lymphoma|Burkitt lymphoma (伯基特淋巴瘤)]] - 高度侵襲性 B cell lymphoma，常見 c-MYC translocation。
 - [[conditions/calcium-pyrophosphate-deposition-disease|Calcium pyrophosphate deposition disease, CPPD (焦磷酸鈣沉積病)]] - CPP crystal 關節病，可表現為 pseudogout 與 chondrocalcinosis。
 - [[conditions/campylobacter-infection|Campylobacter infection (空腸彎曲桿菌感染)]] - 常見細菌性腸炎原因，可與 Guillain-Barre syndrome 相關。
 - [[conditions/cancer-of-unknown-primary|Cancer of unknown primary, CUP (原發不明癌)]] - 轉移癌但原發部位未明時，需以病理、免疫染色與臨床線索找來源。
 - [[conditions/candidiasis|Candidiasis (念珠菌感染)]] - 黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。
+- [[conditions/carbuncle|Carbuncle (癰)]] - 多個 furuncles 融合形成較深廣的膿瘍性皮膚感染。
 - [[conditions/cardiac-tamponade|Cardiac tamponade (心包膜填塞)]] - 心包壓升高限制心臟充填，可能造成休克。
 - [[conditions/cardiogenic-pulmonary-edema|Cardiogenic pulmonary edema (心因性肺水腫)]] - 心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。
 - [[conditions/cardiomyopathy|Cardiomyopathy (心肌病變)]] - 心肌結構或功能異常的疾病群。
@@ -96,6 +105,7 @@ Diseases and syndromes.
 - [[conditions/choledocholithiasis|Choledocholithiasis (總膽管結石)]] - 總膽管結石可造成阻塞性黃疸、膽管炎或胰臟炎。
 - [[conditions/cholelithiasis|Cholelithiasis (膽結石)]] - 膽囊或膽道結石可造成 biliary colic、膽囊炎、膽管炎或胰臟炎。
 - [[conditions/cholera|Cholera (霍亂)]] - Vibrio cholerae 毒素造成大量水瀉與脫水。
+- [[conditions/chromoblastomycosis|Chromoblastomycosis (黑色真菌症)]] - 深部皮膚真菌感染，常與外傷植入有關，可見 muriform/sclerotic bodies。
 - [[conditions/chronic-bronchitis|Chronic bronchitis (慢性支氣管炎)]] - COPD phenotype，以慢性咳嗽咳痰為核心。
 - [[conditions/chronic-granulomatous-disease|Chronic granulomatous disease, CGD (慢性肉芽腫病)]] - 吞噬細胞 NADPH oxidase 缺陷，易感染 catalase-positive organisms 並形成肉芽腫。
 - [[conditions/chronic-kidney-disease|Chronic kidney disease, CKD (慢性腎臟病)]] - 腎功能或腎臟結構慢性異常，需分期、控制進展因子與併發症。
@@ -115,16 +125,21 @@ Diseases and syndromes.
 - [[conditions/congenital-rubella-syndrome|Congenital rubella syndrome (先天性德國麻疹症候群)]] - 孕期 rubella 感染造成白內障、PDA/肺動脈狹窄、聽損與發育問題。
 - [[conditions/congenital-toxoplasmosis|Congenital toxoplasmosis (先天性弓漿蟲感染)]] - 典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。
 - [[conditions/constrictive-pericarditis|Constrictive pericarditis (縮窄性心包膜炎)]] - 硬化心包限制舒張充填，可類似限制型心肌病變。
+- [[conditions/contact-dermatitis|Contact dermatitis (接觸性皮膚炎)]] - 外界物質造成刺激性或 allergic delayed-type 皮膚炎，分布常反映接觸型態。
 - [[conditions/copd|COPD (慢性阻塞性肺疾病)]] - 長期有害氣體暴露造成不可完全可逆的氣流阻塞。
 - [[conditions/crohn-disease|Crohn disease (克隆氏症)]] - 可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。
 - [[conditions/croup|Croup / laryngotracheobronchitis (哮吼)]] - 多由 parainfluenza 引起的上氣道感染，造成犬吠樣咳嗽與吸氣喘鳴。
 - [[conditions/cryptococcosis|Cryptococcosis (隱球菌感染)]] - 免疫低下者可造成肺部感染與 cryptococcal meningitis。
 - [[conditions/cushing-syndrome|Cushing syndrome (庫欣氏症候群)]] - 皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。
+- [[conditions/cutaneous-larva-migrans|Cutaneous larva migrans (皮膚幼蟲移行症)]] - 動物鉤蟲幼蟲在表皮內移行造成 serpiginous pruritic tracks。
 - [[conditions/cutaneous-lupus-erythematosus|Cutaneous lupus erythematosus (皮膚型紅斑狼瘡)]] - SLE 或局限性 lupus 的皮膚表現，包含 acute、subacute 與 discoid 型態。
 - [[conditions/cyanotic-congenital-heart-disease|Cyanotic congenital heart disease (發紺型先天性心臟病)]] - 右到左分流或肺血流不足造成發紺，常需評估 PDA-dependent circulation 與緊急穩定。
 - [[conditions/cystitis|Cystitis (膀胱炎)]] - 下泌尿道感染，常有頻尿、急尿、解尿疼痛。
 - [[conditions/cytomegalovirus-infection|Cytomegalovirus infection, CMV (巨細胞病毒感染)]] - 免疫低下者可造成 retinitis、colitis、encephalitis 等。
+- [[conditions/darier-disease|Darier disease (Darier 病)]] - ATP2A2 相關角化異常，表現油膩性角化丘疹、甲變化與棘融解。
 - [[conditions/dengue-fever|Dengue fever (登革熱)]] - 蚊媒 flavivirus 感染，可由發燒肌痛進展至 plasma leakage 或出血表現。
+- [[conditions/dermatitis-herpetiformis|Dermatitis herpetiformis (疱疹樣皮膚炎)]] - 與 celiac disease 相關，伸側劇癢群聚丘疹水泡，真皮乳突 IgA 沉積。
+- [[conditions/dermatophytosis|Dermatophytosis / tinea (皮癬菌症)]] - 皮癬菌感染角質層、毛髮或指甲，依部位命名如 tinea corporis、pedis、capitis。
 - [[conditions/diabetes-insipidus|Diabetes insipidus (尿崩症)]] - ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。
 - [[conditions/diabetes-mellitus|Diabetes mellitus (糖尿病)]] - 慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。
 - [[conditions/diabetic-ketoacidosis|Diabetic ketoacidosis, DKA (糖尿病酮酸中毒)]] - 胰島素不足造成高血糖、酮酸中毒與脫水的急性併發症。
@@ -145,6 +160,7 @@ Diseases and syndromes.
 - [[conditions/dyslipidemia|Dyslipidemia (血脂異常)]] - 血脂異常是動脈粥狀硬化與冠心症重要危險因子。
 - [[conditions/dysphagia|Dysphagia (吞嚥困難)]] - 吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。
 - [[conditions/ebstein-anomaly|Ebstein anomaly (Ebstein 異常)]] - 三尖瓣附著位置下移造成右心房化右心室、三尖瓣逆流與發紺/心律不整風險。
+- [[conditions/ecthyma|Ecthyma (臁瘡)]] - 較深層的 impetigo 型感染，侵犯至真皮可形成潰瘍與疤痕。
 - [[conditions/emphysema|Emphysema (肺氣腫)]] - 肺泡壁破壞與過度充氣造成氣體交換障礙。
 - [[conditions/empyema|Empyema (膿胸)]] - 肋膜腔感染積膿，常需引流與抗生素。
 - [[conditions/encephalitis|Encephalitis (腦炎)]] - 腦實質發炎，常有意識改變、癲癇或局部神經學症狀。
@@ -154,6 +170,8 @@ Diseases and syndromes.
 - [[conditions/enterovirus-infection|Enterovirus infection (腸病毒感染)]] - 兒童常見病毒感染，可造成手足口病、疱疹性咽峽炎、腦膜炎或心肌炎。
 - [[conditions/epiglottitis|Epiglottitis (會厭炎)]] - 上呼吸道急症，可快速造成氣道阻塞；Hib 疫苗後盛行率下降。
 - [[conditions/epstein-barr-virus-infection|Epstein-Barr virus infection, EBV (EB 病毒感染)]] - 可造成傳染性單核球增多症，並與部分淋巴瘤、鼻咽癌等疾病相關。
+- [[conditions/erythema-nodosum|Erythema nodosum (結節性紅斑)]] - 脂肪隔膜性 panniculitis，常見脛前疼痛結節，需評估感染、藥物、IBD、sarcoidosis 等誘因。
+- [[conditions/erythrasma|Erythrasma (紅癬)]] - Corynebacterium minutissimum 表淺感染，伍氏燈可呈 coral-red fluorescence。
 - [[conditions/escherichia-coli-infection|Escherichia coli infection (大腸桿菌感染)]] - E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。
 - [[conditions/esophageal-atresia-tracheoesophageal-fistula|Esophageal atresia and tracheoesophageal fistula, EA/TEF (食道閉鎖與氣管食道瘻管)]] - 新生兒唾液多、嗆咳與無法置入胃管時需懷疑，可合併 VACTERL。
 - [[conditions/esophageal-cancer|Esophageal cancer (食道癌)]] - 食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。
@@ -164,11 +182,14 @@ Diseases and syndromes.
 - [[conditions/febrile-seizure|Febrile seizure (熱痙攣)]] - 發燒相關兒童癲癇發作，需區分 simple 與 complex 並排除 CNS infection。
 - [[conditions/felty-syndrome|Felty syndrome (Felty 氏症候群)]] - RA 合併 neutropenia 與 splenomegaly，感染風險增加。
 - [[conditions/fever-of-unknown-origin|Fever of unknown origin, FUO (不明熱)]] - 持續發燒但初步評估未能定位病因，兒童需分層考慮感染、發炎、腫瘤與藥物。
+- [[conditions/fixed-drug-eruption|Fixed drug eruption (固定性藥物疹)]] - 藥物再暴露時在相同部位復發的界線清楚紅斑或水泡，癒後可留色素沉著。
 - [[conditions/focal-segmental-glomerulosclerosis|Focal segmental glomerulosclerosis, FSGS (局部節段性腎絲球硬化)]] - 成人 nephrotic syndrome 重要原因，可為原發或次發。
 - [[conditions/folate-deficiency|Folate deficiency (葉酸缺乏)]] - 葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。
 - [[conditions/follicular-lymphoma|Follicular lymphoma (濾泡性淋巴瘤)]] - indolent B cell lymphoma，常見 t(14;18)/BCL2。
 - [[conditions/fragile-x-syndrome|Fragile X syndrome (脆折 X 症候群)]] - FMR1 CGG repeat expansion 造成智能障礙、自閉特徵與長臉大耳等表現。
+- [[conditions/freckle|Freckle / ephelis (雀斑)]] - 日曬相關小型淡褐色斑，黑色素增加但 melanocyte 數量不一定增加。
 - [[conditions/functional-constipation|Functional constipation (功能性便秘)]] - 兒童常見排便問題，多與疼痛憋便、糞便滯留與行為循環相關。
+- [[conditions/furuncle|Furuncle (癤)]] - 毛囊及周邊組織的深部化膿性感染，常由 S. aureus 引起。
 - [[conditions/galactosemia|Galactosemia (半乳糖血症)]] - 半乳糖代謝缺陷可造成新生兒肝病、敗血症、白內障與餵食問題。
 - [[conditions/gas-gangrene|Gas gangrene (氣性壞疽)]] - Clostridium perfringens 傷口感染可造成肌肉壞死、產氣與毒血症。
 - [[conditions/gastric-cancer|Gastric cancer (胃癌)]] - 胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。
@@ -184,6 +205,7 @@ Diseases and syndromes.
 - [[conditions/glycogen-storage-disease|Glycogen storage disease, GSD (肝醣儲積症)]] - 肝醣合成或分解酵素缺陷造成低血糖、肝腫大、肌病或心肌病等分型表現。
 - [[conditions/gonorrhea|Gonorrhea (淋病)]] - 性傳染病，可造成尿道炎、子宮頸炎、PID、附睪炎或播散性感染。
 - [[conditions/gout|Gout (痛風)]] - 尿酸鹽結晶造成急性關節炎與慢性痛風石。
+- [[conditions/graft-versus-host-disease|Graft-versus-host disease, GVHD (移植物抗宿主疾病)]] - 移植後 donor immune cells 攻擊 recipient 組織，可侵犯皮膚、腸胃與肝臟。
 - [[conditions/graves-disease|Graves disease (葛瑞夫茲病)]] - 自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。
 - [[conditions/guillain-barre-syndrome|Guillain-Barre syndrome, GBS (格林-巴利症候群)]] - 急性免疫性多發神經根神經病變，常有上升性無力與反射下降。
 - [[conditions/hashimoto-thyroiditis|Hashimoto thyroiditis (橋本氏甲狀腺炎)]] - 自體免疫甲狀腺炎，常導致甲狀腺低下。
@@ -205,6 +227,7 @@ Diseases and syndromes.
 - [[conditions/hepatopulmonary-syndrome|Hepatopulmonary syndrome (肝肺症候群)]] - 肝病造成肺內血管擴張與 shunt，典型可有 platypnea-orthodeoxia。
 - [[conditions/hepatorenal-syndrome|Hepatorenal syndrome (肝腎症候群)]] - 肝硬化與門脈高壓造成的功能性腎衰竭，需排除其他腎損傷。
 - [[conditions/herpes-simplex-virus-infection|Herpes simplex virus infection, HSV (單純皰疹病毒感染)]] - 可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。
+- [[conditions/herpes-zoster|Herpes zoster (帶狀皰疹)]] - VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。
 - [[conditions/hfpef|HFpEF (射出分率保留型心衰竭)]] - 舒張功能下降但 LVEF 可保留，治療重點偏症狀、血壓與共病控制。
 - [[conditions/hfref|HFrEF (射出分率降低型心衰竭)]] - 左心室收縮功能下降，藥物與裝置治療證據較完整。
 - [[conditions/hiatal-hernia|Hiatal hernia (裂孔疝氣)]] - 胃食道交界或胃部經橫膈裂孔上移，可與 GERD 表現重疊。
@@ -238,12 +261,14 @@ Diseases and syndromes.
 - [[conditions/hypopituitarism|Hypopituitarism (腦垂體功能低下)]] - 腦垂體荷爾蒙缺乏造成多軸內分泌不足。
 - [[conditions/hypoplastic-left-heart-syndrome|Hypoplastic left heart syndrome, HLHS (左心發育不全症候群)]] - 左心室與主動脈系統發育不全，體循環依賴 PDA，是 ductal-dependent lesion。
 - [[conditions/hypothyroidism|Hypothyroidism (甲狀腺低下)]] - 甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。
+- [[conditions/ichthyosis-vulgaris|Ichthyosis vulgaris (尋常性魚鱗癬)]] - 常見遺傳性角化異常，表現乾燥魚鱗狀脫屑，與 filaggrin 缺陷和 atopy 相關。
 - [[conditions/idiopathic-pulmonary-fibrosis|Idiopathic pulmonary fibrosis (特發性肺纖維化)]] - 原因不明的進行性纖維化 ILD。
 - [[conditions/iga-nephropathy|IgA nephropathy (IgA 腎病變)]] - 成人常見原發性腎絲球病變，常在上呼吸道感染後短期內肉眼血尿。
 - [[conditions/iga-vasculitis|IgA vasculitis / Henoch-Schonlein purpura (IgA 血管炎)]] - IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。
 - [[conditions/immune-thrombocytopenia|Immune thrombocytopenia, ITP (免疫性血小板低下)]] - 免疫破壞血小板造成 isolated thrombocytopenia，治療依出血與血小板數決定。
-- [[conditions/impetigo|Impetigo (膿痂疹)]] - 表淺皮膚感染，可由 GAS 或 S. aureus 造成。
+- [[conditions/impetigo|Impetigo (膿痂疹)]] - 表皮層細菌感染，常由 GAS 或 S. aureus 造成，可為非水泡型或水泡型。
 - [[conditions/inborn-errors-of-metabolism|Inborn errors of metabolism (先天性代謝異常)]] - 酵素或運輸蛋白缺陷造成代謝物累積或能量生成障礙，常以餵食差、嘔吐、嗜睡、酸中毒或低血糖表現。
+- [[conditions/infantile-hemangioma|Infantile hemangioma (嬰兒血管瘤)]] - 嬰兒期血管增生性腫瘤，多數先增生後退化；危及功能或潰瘍時需治療。
 - [[conditions/infectious-diarrhea|Infectious diarrhea (感染性腹瀉)]] - 感染性腹瀉依病原、血便、發燒與旅遊/抗生素暴露判斷。
 - [[conditions/infectious-gastroenteritis|Infectious gastroenteritis (感染性腸胃炎)]] - 由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。
 - [[conditions/infective-endocarditis|Infective endocarditis (感染性心內膜炎)]] - 菌血症造成心內膜或瓣膜感染，診斷依血液培養、心超與 Duke criteria。
@@ -258,6 +283,7 @@ Diseases and syndromes.
 - [[conditions/juvenile-idiopathic-arthritis|Juvenile idiopathic arthritis, JIA (幼年型特發性關節炎)]] - 兒童慢性發炎性關節炎群，依關節數、全身表現、乾癬與 enthesitis 分型。
 - [[conditions/kaposi-sarcoma|Kaposi sarcoma (卡波西肉瘤)]] - HHV-8 相關腫瘤，HIV/AIDS 免疫低下者較常見。
 - [[conditions/kawasaki-disease|Kawasaki disease (川崎病)]] - 兒童中型血管炎，需注意冠狀動脈瘤風險。
+- [[conditions/keratoacanthoma|Keratoacanthoma (角化棘皮瘤)]] - 快速增長的 crateriform keratinizing tumor，臨床與 SCC 可相似。
 - [[conditions/ketoacidosis|Ketoacidosis (酮酸中毒)]] - 脂肪分解產生 ketone body，可見於糖尿病、酒精或飢餓狀態。
 - [[conditions/kidney-transplant-rejection|Kidney transplant rejection (腎臟移植排斥)]] - 移植腎可能發生超急性、急性或慢性排斥，需依時間與病理判斷。
 - [[conditions/lactic-acidosis|Lactic acidosis (乳酸中毒)]] - 組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。
@@ -265,6 +291,9 @@ Diseases and syndromes.
 - [[conditions/latent-tuberculosis-infection|Latent tuberculosis infection (潛伏結核感染)]] - 感染但無活動病灶，需依風險決定預防治療。
 - [[conditions/legionnaires-disease|Legionnaires disease (退伍軍人病)]] - Legionella pneumophila 造成 atypical pneumonia，常與水源暴露相關。
 - [[conditions/leptospirosis|Leptospirosis (鉤端螺旋體病)]] - 動物尿液或水土暴露相關 spirochete infection，可侵犯肝腎。
+- [[conditions/leukocytoclastic-vasculitis|Leukocytoclastic vasculitis (白血球碎裂性血管炎)]] - 小血管免疫複合物血管炎，皮膚常見 palpable purpura。
+- [[conditions/lichen-planus|Lichen planus (扁平苔癬)]] - T cell-mediated interface dermatitis，典型為紫色多角形搔癢丘疹與 Wickham striae。
+- [[conditions/linear-iga-bullous-dermatosis|Linear IgA bullous dermatosis (線狀 IgA 水泡病)]] - 基底膜帶線狀 IgA 沉積造成表皮下水泡，可與藥物或兒童慢性水泡病相關。
 - [[conditions/listeriosis|Listeriosis (李斯特菌感染)]] - 老人、孕婦、免疫不全者可有菌血症或腦膜炎，常以 ampicillin 為核心治療。
 - [[conditions/liver-abscess|Liver abscess (肝膿瘍)]] - 肝臟膿瘍可為細菌性或阿米巴性，表現發燒與右上腹痛。
 - [[conditions/liver-cirrhosis|Liver cirrhosis (肝硬化)]] - 慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。
@@ -284,6 +313,9 @@ Diseases and syndromes.
 - [[conditions/meckel-diverticulum|Meckel diverticulum (梅克爾氏憩室)]] - 卵黃管殘跡，可因異位胃黏膜造成無痛性下消化道出血。
 - [[conditions/meconium-aspiration-syndrome|Meconium aspiration syndrome (胎便吸入症候群)]] - 胎便污染羊水被吸入造成氣道阻塞、化學性肺炎與 PPHN 風險。
 - [[conditions/megaloblastic-anemia|Megaloblastic anemia (巨芽細胞性貧血)]] - DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。
+- [[conditions/melanocytic-nevus|Melanocytic nevus (黑色素細胞痣)]] - 黑色素細胞良性增生，需與 melanoma 依 ABCDE 等特徵鑑別。
+- [[conditions/melanoma|Melanoma (黑色素瘤)]] - 惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。
+- [[conditions/melasma|Melasma / chloasma (肝斑)]] - 臉部對稱性色素沉著，與紫外線、荷爾蒙、懷孕或藥物相關。
 - [[conditions/membranoproliferative-glomerulonephritis|Membranoproliferative glomerulonephritis, MPGN (膜增生性腎絲球腎炎)]] - 免疫複合物或補體異常相關腎絲球病變，可有低補體。
 - [[conditions/membranous-nephropathy|Membranous nephropathy (膜性腎病變)]] - 成人 nephrotic syndrome 重要原因，需評估原發與繼發病因。
 - [[conditions/metabolic-acidosis|Metabolic acidosis (代謝性酸中毒)]] - HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因。
@@ -299,9 +331,11 @@ Diseases and syndromes.
 - [[conditions/mitral-stenosis|Mitral stenosis (二尖瓣狹窄)]] - 常與風濕性病變相關，造成左心房壓上升與肺鬱血。
 - [[conditions/mitral-valve-prolapse|Mitral valve prolapse (二尖瓣脫垂)]] - 瓣膜脫垂可造成收縮中期 click 與晚期收縮雜音。
 - [[conditions/mixed-connective-tissue-disease|Mixed connective tissue disease, MCTD (混合性結締組織病)]] - 重疊 SLE、systemic sclerosis、myositis 等表現並與 anti-RNP 相關。
+- [[conditions/molluscum-contagiosum|Molluscum contagiosum (傳染性軟疣)]] - poxvirus 感染造成中央臍凹丘疹，兒童與免疫低下者較常見。
 - [[conditions/monoclonal-gammopathy-of-undetermined-significance|MGUS (意義未明單株免疫球蛋白血症)]] - 低量單株免疫球蛋白狀態，可進展為 myeloma 或相關漿細胞疾病。
 - [[conditions/multiple-myeloma|Multiple myeloma, MM (多發性骨髓瘤)]] - 漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。
 - [[conditions/myasthenia-gravis|Myasthenia gravis, MG (重症肌無力)]] - 神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。
+- [[conditions/mycosis-fungoides|Mycosis fungoides (蕈狀肉芽腫)]] - 最常見 cutaneous T-cell lymphoma，早期可似 eczema 或 psoriasis。
 - [[conditions/myelodysplastic-syndrome|Myelodysplastic syndrome, MDS (骨髓發育不良症候群)]] - 造血幹細胞異常造成無效造血與 cytopenia，可進展為 AML。
 - [[conditions/myeloproliferative-neoplasms|Myeloproliferative neoplasms, MPN (骨髓增生性腫瘤)]] - 造血幹細胞 clonal 增生疾病群，包含 PV、ET、PMF、CML 等。
 - [[conditions/myocarditis|Myocarditis (心肌炎)]] - 心肌發炎可造成胸痛、心律不整或心衰竭。
@@ -316,6 +350,7 @@ Diseases and syndromes.
 - [[conditions/nephrotic-syndrome|Nephrotic syndrome (腎病症候群)]] - 大量蛋白尿造成低白蛋白、水腫、高血脂與高凝固狀態。
 - [[conditions/neuroblastoma|Neuroblastoma (神經母細胞瘤)]] - 交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。
 - [[conditions/neurofibromatosis-type-1|Neurofibromatosis type 1, NF1 (第一型神經纖維瘤症)]] - RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibroma、視神經膠質瘤與學習問題。
+- [[conditions/nevus-of-ota|Nevus of Ota (太田母斑)]] - 三叉神經 V1/V2 分布的真皮黑色素增生，可侵犯眼部。
 - [[conditions/nocardiosis|Nocardiosis (奴卡氏菌感染)]] - 可造成肺部、皮膚或中樞感染，免疫不全者風險較高。
 - [[conditions/non-hodgkin-lymphoma|Non-Hodgkin lymphoma, NHL (非何杰金氏淋巴瘤)]] - 多樣化 B/T/NK cell 淋巴瘤疾病群，依侵襲性與細胞來源治療。
 - [[conditions/non-small-cell-lung-cancer|Non-small-cell lung cancer (非小細胞肺癌)]] - 肺癌主要類型，治療依分期與 driver mutation。
@@ -332,6 +367,7 @@ Diseases and syndromes.
 - [[conditions/osteosarcoma|Osteosarcoma (骨肉瘤)]] - 青少年常見骨惡性腫瘤，好發長骨 metaphysis，可有疼痛與腫塊。
 - [[conditions/pancreatic-cancer|Pancreatic cancer (胰臟癌)]] - 胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。
 - [[conditions/pancytopenia|Pancytopenia (全血球減少症)]] - 紅血球、白血球與血小板皆下降，需評估骨髓、脾臟與全身疾病。
+- [[conditions/paraneoplastic-pemphigus|Paraneoplastic pemphigus (腫瘤旁天疱瘡)]] - 與惡性腫瘤相關的嚴重黏膜皮膚水泡病，可合併多型抗體與肺部受累。
 - [[conditions/paraneoplastic-syndrome|Paraneoplastic syndrome (腫瘤旁症候群)]] - 腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。
 - [[conditions/paroxysmal-nocturnal-hemoglobinuria|Paroxysmal nocturnal hemoglobinuria, PNH (陣發性夜間血紅素尿症)]] - PIGA/GPI-anchor 異常造成補體介導溶血、血栓與骨髓衰竭關聯。
 - [[conditions/parvovirus-b19-infection|Parvovirus B19 infection (微小病毒 B19 感染)]] - 可造成傳染性紅斑、aplastic crisis、胎兒水腫與關節症狀。
@@ -340,14 +376,18 @@ Diseases and syndromes.
 - [[conditions/pediatric-brain-tumor|Pediatric brain tumor (兒童腦瘤)]] - 兒童常見實體腫瘤之一，表現依腫瘤位置與顱內壓變化。
 - [[conditions/pediatric-dehydration|Pediatric dehydration (兒童脫水)]] - 兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。
 - [[conditions/pediatric-hematuria|Pediatric hematuria (兒童血尿)]] - 兒童血尿需區分腎絲球性、非腎絲球性、感染、結石與遺傳性腎病。
+- [[conditions/pemphigus-vulgaris|Pemphigus vulgaris (尋常性天疱瘡)]] - 抗 desmoglein 自體抗體造成表皮內棘融解與鬆弛水泡，常侵犯黏膜。
 - [[conditions/peptic-ulcer-disease|Peptic ulcer disease (消化性潰瘍)]] - 胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。
 - [[conditions/pericardial-effusion|Pericardial effusion (心包膜積液)]] - 心包膜腔液體增加，需注意 tamponade 生理。
 - [[conditions/pericarditis|Pericarditis (心包膜炎)]] - 心包膜發炎可造成胸痛、摩擦音與心電圖變化。
 - [[conditions/persistent-pulmonary-hypertension-of-newborn|Persistent pulmonary hypertension of the newborn, PPHN (新生兒持續性肺高壓)]] - 出生後肺血管阻力未正常下降造成右到左分流與嚴重低氧。
 - [[conditions/pertussis|Pertussis (百日咳)]] - Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。
+- [[conditions/peutz-jeghers-syndrome|Peutz-Jeghers syndrome, PJS (Peutz-Jeghers 症候群)]] - STK11 相關 hamartomatous polyposis syndrome，具口唇黏膜色素斑與腫瘤風險。
 - [[conditions/phenylketonuria|Phenylketonuria, PKU (苯酮尿症)]] - phenylalanine hydroxylase 或 BH4 代謝異常造成 phenylalanine 升高，需飲食控制避免神經傷害。
 - [[conditions/pheochromocytoma|Pheochromocytoma (嗜鉻細胞瘤)]] - 兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。
 - [[conditions/pituitary-adenoma|Pituitary adenoma (腦垂體腺瘤)]] - 腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。
+- [[conditions/pityriasis-alba|Pityriasis alba (白色糠疹)]] - 兒童常見低色素細屑斑，與異位性體質或輕度 eczema 相關。
+- [[conditions/pityriasis-versicolor|Pityriasis versicolor (變色糠疹／汗斑)]] - Malassezia 造成色素改變與細屑，KOH 可見 spaghetti-and-meatballs。
 - [[conditions/pleural-effusion|Pleural effusion (肋膜積液)]] - 肋膜腔液體增加，需區分 transudate 與 exudate。
 - [[conditions/pneumoconiosis|Pneumoconiosis (塵肺症)]] - 職業暴露造成的肺部纖維化疾病群。
 - [[conditions/pneumocystis-jirovecii-pneumonia|Pneumocystis jirovecii pneumonia, PJP (肺囊蟲肺炎)]] - AIDS 常見伺機感染，造成間質性肺炎與低氧。
@@ -359,6 +399,8 @@ Diseases and syndromes.
 - [[conditions/polycythemia-vera|Polycythemia vera, PV (真性紅血球增多症)]] - JAK2 相關紅血球增多性 MPN，增加血栓與轉化風險。
 - [[conditions/polymyalgia-rheumatica|Polymyalgia rheumatica, PMR (風濕性多肌痛)]] - 老年人肩帶與骨盆帶疼痛僵硬，可與 GCA 相關。
 - [[conditions/polymyositis-dermatomyositis|Polymyositis and dermatomyositis (多發性肌炎與皮肌炎)]] - 自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。
+- [[conditions/porphyria-cutanea-tarda|Porphyria cutanea tarda, PCT (緩發性皮膚病變紫質症)]] - 光曝露部位脆弱水泡與色素改變，與 porphyrin metabolism、肝病、酒精或鐵負荷相關。
+- [[conditions/port-wine-stain|Port-wine stain (葡萄酒斑)]] - 先天 capillary malformation，可與 Sturge-Weber syndrome 相關。
 - [[conditions/portal-hypertension|Portal hypertension (門脈高壓)]] - 門脈壓上升可造成靜脈曲張、脾腫大、腹水與側枝循環。
 - [[conditions/post-streptococcal-glomerulonephritis|Post-streptococcal glomerulonephritis, PSGN (鏈球菌感染後腎絲球腎炎)]] - A 群鏈球菌感染後免疫複合物腎炎，常見血尿、水腫、高血壓與 C3 暫時下降。
 - [[conditions/precocious-puberty|Precocious puberty (性早熟)]] - 青春期第二性徵過早出現，需區分 central、peripheral 與正常變異。
@@ -369,12 +411,14 @@ Diseases and syndromes.
 - [[conditions/primary-myelofibrosis|Primary myelofibrosis, PMF (原發性骨髓纖維化)]] - 骨髓纖維化與髓外造血造成脾大、貧血與 teardrop RBC。
 - [[conditions/pseudohyponatremia|Pseudohyponatremia (假性低血鈉)]] - 血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。
 - [[conditions/pseudomonas-aeruginosa-infection|Pseudomonas aeruginosa infection (綠膿桿菌感染)]] - 常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。
+- [[conditions/psoriasis|Psoriasis (乾癬)]] - 慢性免疫介導角質增生疾病，典型為紅色斑塊與銀白色鱗屑，可有關節炎與多型態表現。
 - [[conditions/psoriatic-arthritis|Psoriatic arthritis (乾癬性關節炎)]] - 乾癬相關發炎性關節炎，可有指趾炎、附著點炎與脊椎侵犯。
 - [[conditions/pulmonary-atresia|Pulmonary atresia (肺動脈閉鎖)]] - 右心出口完全阻塞，肺血流常依賴 PDA 或 major aortopulmonary collateral arteries。
 - [[conditions/pulmonary-embolism|Pulmonary embolism (肺栓塞)]] - 靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。
 - [[conditions/pulmonary-hypertension|Pulmonary hypertension (肺高壓)]] - 肺動脈壓升高，可源自心肺疾病或肺血管病變。
 - [[conditions/pulmonary-valve-stenosis|Pulmonary valve stenosis (肺動脈瓣狹窄)]] - 右心室出口瓣膜層級狹窄，可造成收縮期雜音、右心室肥大與發紺。
 - [[conditions/pyelonephritis|Pyelonephritis (腎盂腎炎)]] - 上泌尿道感染，可有發燒、腰痛與菌血症風險。
+- [[conditions/pyogenic-granuloma|Pyogenic granuloma (化膿性肉芽腫)]] - 易出血的 lobular capillary hemangioma，常與外傷、懷孕或藥物相關。
 - [[conditions/rapidly-progressive-glomerulonephritis|Rapidly progressive glomerulonephritis, RPGN (急速進行性腎絲球腎炎)]] - 數週內腎功能快速惡化，病理常見 crescent formation。
 - [[conditions/reactive-arthritis|Reactive arthritis (反應性關節炎)]] - 感染後無菌性關節炎，常與泌尿生殖道或腸胃感染相關。
 - [[conditions/relapsing-polychondritis|Relapsing polychondritis (復發性多軟骨炎)]] - 反覆軟骨發炎，可侵犯耳、鼻、氣管與關節。
@@ -394,8 +438,11 @@ Diseases and syndromes.
 - [[conditions/salmonellosis|Salmonellosis (沙門氏菌感染)]] - Salmonella 可造成腸胃炎、菌血症或傷寒樣疾病。
 - [[conditions/sarcoidosis|Sarcoidosis (類肉瘤病)]] - 非乾酪性肉芽腫疾病，可侵犯肺與多器官。
 - [[conditions/sarcoma|Sarcoma (肉瘤)]] - 間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。
+- [[conditions/scabies|Scabies (疥瘡)]] - Sarcoptes scabiei 寄生造成夜間劇癢與 burrows，常需同住接觸者一起治療。
 - [[conditions/scarlet-fever|Scarlet fever (猩紅熱)]] - A 群鏈球菌毒素造成發燒、咽炎、砂紙樣皮疹與草莓舌。
 - [[conditions/scleroderma-renal-crisis|Scleroderma renal crisis (硬皮症腎危象)]] - systemic sclerosis 急性高血壓與腎衰竭表現，需快速辨識。
+- [[conditions/seborrheic-dermatitis|Seborrheic dermatitis (脂漏性皮膚炎)]] - 皮脂豐富部位的慢性發炎與鱗屑，與 Malassezia 與皮脂環境相關。
+- [[conditions/seborrheic-keratosis|Seborrheic keratosis (脂漏性角化症)]] - 常見良性表皮增生，呈 stuck-on waxy papules/plaques。
 - [[conditions/secondary-hypertension|Secondary hypertension (次發性高血壓)]] - 需從腎臟、內分泌、血管與藥物原因找可逆病因。
 - [[conditions/selective-iga-deficiency|Selective IgA deficiency (選擇性 IgA 缺乏)]] - 最常見原發性免疫缺乏之一，可無症狀或有呼吸道/腸胃感染與自體免疫關聯。
 - [[conditions/septic-arthritis|Septic arthritis (感染性關節炎)]] - 關節腔感染造成急性單關節痛與發炎，需快速抽液與治療。
@@ -406,12 +453,16 @@ Diseases and syndromes.
 - [[conditions/sickle-cell-disease|Sickle cell disease (鐮刀型貧血)]] - HbS 聚合造成溶血、血管阻塞危象、感染與器官損傷。
 - [[conditions/sjogren-syndrome|Sjogren syndrome (修格蘭氏症候群)]] - 外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。
 - [[conditions/small-cell-lung-cancer|Small-cell lung cancer (小細胞肺癌)]] - 侵襲性高、常早期轉移的肺癌類型。
+- [[conditions/solar-lentigo|Solar lentigo (曬斑)]] - 慢性日曬造成的界線清楚褐色斑，常見於老年與曝曬部位。
 - [[conditions/spinal-cord-compression|Malignant spinal cord compression (惡性脊髓壓迫)]] - 癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。
 - [[conditions/spinal-muscular-atrophy|Spinal muscular atrophy, SMA (脊髓性肌肉萎縮症)]] - SMN1 缺陷造成 anterior horn cell degeneration 與對稱性近端肌無力。
 - [[conditions/spontaneous-bacterial-peritonitis|Spontaneous bacterial peritonitis, SBP (自發性細菌性腹膜炎)]] - 肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。
+- [[conditions/squamous-cell-carcinoma-skin|Cutaneous squamous cell carcinoma, cSCC (皮膚鱗狀細胞癌)]] - 角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。
 - [[conditions/stable-angina|Chronic stable angina (慢性穩定型心絞痛)]] - 固定冠狀動脈斑塊造成可預測的運動誘發胸痛。
+- [[conditions/staphylococcal-scalded-skin-syndrome|Staphylococcal scalded skin syndrome, SSSS (葡萄球菌性燙傷樣皮膚症候群)]] - S. aureus exfoliative toxin 裂解 desmoglein 1，造成嬰幼兒表皮淺層剝離且通常不侵犯黏膜。
 - [[conditions/staphylococcus-aureus-infection|Staphylococcus aureus infection (金黃色葡萄球菌感染)]] - 可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。
 - [[conditions/stemi|STEMI (ST 段上升心肌梗塞)]] - 全層心肌缺血常出現 ST elevation，需再灌流策略。
+- [[conditions/stevens-johnson-syndrome-toxic-epidermal-necrolysis|Stevens-Johnson syndrome / toxic epidermal necrolysis, SJS/TEN (史蒂芬強森症候群／毒性表皮壞死溶解症)]] - 嚴重藥物或感染相關黏膜皮膚反應，表皮壞死剝離且可危及生命。
 - [[conditions/streptococcus-pneumoniae-infection|Streptococcus pneumoniae infection (肺炎鏈球菌感染)]] - 可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。
 - [[conditions/streptococcus-pyogenes-infection|Streptococcus pyogenes infection (A 群鏈球菌感染)]] - GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。
 - [[conditions/sturge-weber-syndrome|Sturge-Weber syndrome (史德格-韋伯症候群)]] - 臉部 port-wine stain 合併 leptomeningeal angioma，可有癲癇、青光眼與神經缺損。
@@ -420,6 +471,7 @@ Diseases and syndromes.
 - [[conditions/syncope|Syncope (暈厥)]] - 短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。
 - [[conditions/syndrome-of-inappropriate-adh-secretion|SIADH (抗利尿激素不適當分泌症候群)]] - euvolemic hypotonic hyponatremia 的重要原因，需排除甲狀腺與腎上腺功能不足。
 - [[conditions/syphilis|Syphilis (梅毒)]] - Treponema pallidum 性傳染病，分期影響表現與治療策略。
+- [[conditions/syringoma|Syringoma (汗管瘤)]] - 小汗腺導管良性腫瘤，常見於眼周小丘疹。
 - [[conditions/systemic-lupus-erythematosus|Systemic lupus erythematosus, SLE (全身性紅斑狼瘡)]] - 多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。
 - [[conditions/systemic-sclerosis|Systemic sclerosis (全身性硬化症)]] - 纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。
 - [[conditions/takayasu-arteritis|Takayasu arteritis (高安氏動脈炎)]] - 年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。
@@ -437,6 +489,7 @@ Diseases and syndromes.
 - [[conditions/total-anomalous-pulmonary-venous-return|Total anomalous pulmonary venous return, TAPVR (全肺靜脈回流異常)]] - 肺靜脈不接入左心房而接入體靜脈系統，可因回流阻塞造成嚴重發紺與肺水腫。
 - [[conditions/tourette-syndrome|Tourette syndrome (妥瑞氏症)]] - 多發動作 tic 加至少一種聲語 tic 且持續超過一年。
 - [[conditions/toxic-alcohol-poisoning|Toxic alcohol poisoning (毒性醇中毒)]] - 甲醇、乙二醇等可造成 osmolal gap 與高陰離子間隙代謝性酸中毒。
+- [[conditions/toxic-shock-syndrome|Toxic shock syndrome, TSS (中毒性休克症候群)]] - S. aureus 或 Group A Streptococcus superantigen 造成發燒、低血壓、紅疹、脫屑與多器官受累。
 - [[conditions/toxoplasmosis|Toxoplasmosis (弓漿蟲感染)]] - 免疫低下者可造成多發性中樞神經病灶。
 - [[conditions/transfusion-reaction|Transfusion reaction (輸血反應)]] - 輸血相關不良反應包含溶血、發熱、過敏、TRALI、TACO 與感染風險。
 - [[conditions/transient-tachypnea-of-newborn|Transient tachypnea of the newborn, TTN (新生兒暫時性呼吸急促)]] - 出生後肺液清除延遲造成短暫呼吸急促，常見於剖腹產或早產晚期。
@@ -462,11 +515,13 @@ Diseases and syndromes.
 - [[conditions/ventricular-fibrillation|Ventricular fibrillation (心室顫動)]] - 致命心律不整，需立即去顫與急救。
 - [[conditions/ventricular-septal-defect|Ventricular septal defect, VSD (心室中膈缺損)]] - 最常見先天性心臟病之一；分流量取決於缺損大小與肺血管阻力。
 - [[conditions/ventricular-tachycardia|Ventricular tachycardia (心室頻脈)]] - 寬 QRS 頻脈，可能導致血流動力學不穩。
+- [[conditions/verruca|Verruca / warts (疣)]] - HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。
 - [[conditions/vesicoureteral-reflux|Vesicoureteral reflux, VUR (膀胱輸尿管逆流)]] - 膀胱尿液逆流至輸尿管/腎盂，增加反覆 UTI 與腎瘢痕風險。
 - [[conditions/vibrio-vulnificus-infection|Vibrio vulnificus infection (海洋弧菌感染)]] - 海鮮或海水暴露後可造成敗血症或壞死性軟組織感染，肝病者風險高。
 - [[conditions/viral-hepatitis|Viral hepatitis (病毒性肝炎)]] - 病毒性肝炎包含 HAV、HBV、HCV、HDV、HEV，臨床可急性或慢性。
 - [[conditions/viral-meningitis|Viral meningitis (病毒性腦膜炎)]] - CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。
 - [[conditions/vitamin-b12-deficiency|Vitamin B12 deficiency (維生素 B12 缺乏)]] - B12 缺乏造成 megaloblastic anemia，可合併神經病變。
+- [[conditions/vitiligo|Vitiligo (白斑)]] - 後天黑色素細胞破壞造成明顯 depigmented patches，可與自體免疫疾病相關。
 - [[conditions/von-hippel-lindau-disease|Von Hippel-Lindau disease, VHL (馮希伯-林道症候群)]] - 腫瘤抑制基因疾病，增加 hemangioblastoma、renal cell carcinoma、pheochromocytoma 等風險。
 - [[conditions/von-willebrand-disease|Von Willebrand disease, vWD (類血友病)]] - vWF 缺乏或功能異常造成 platelet adhesion 缺陷與 factor VIII 穩定性下降。
 - [[conditions/waldenstrom-macroglobulinemia|Waldenstrom macroglobulinemia (華氏巨球蛋白血症)]] - 淋巴漿細胞性淋巴瘤造成 IgM monoclonal protein 與高黏滯症候群。

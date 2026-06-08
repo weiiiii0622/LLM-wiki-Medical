@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Intussusception (腸套疊)'
   - 'Intussusception'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-近端腸道套入遠端腸道，典型有陣發腹痛、嘔吐與果醬便。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+近端腸道套入遠端腸道，典型有陣發腹痛、嘔吐與果醬便。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- 1. 自體顯性遺傳疾病,臨床表現有: - (1) 腸胃道內會長許多過誤性息肉(hamartomatous polyps),約於孩童至三十歲前 出現,患者會有腹痛、腸胃道出血、反覆腸套疊或貧血等症狀。息肉好發於小 腸,特別是空腸,息肉有機會惡性化為 adenocarcinoma,不過機率不高。 - (2) 表皮黏膜出現黑色素沉澱,常可見病患嘴唇周圍、口腔黏膜、手指或手掌有黑色沉澱斑點,黑色斑點出生時即出現,或是在孩童時期出現,並會隨著時間褪掉,但口腔黏膜的色素沉澱會持續存在。(下圖) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - 2. 臨床表現與何杰金氏病相似,但不同的組織病理學分類而有不同的表現: - (1) Burkitt lymphoma: - a. 兒童 NHL 中最常見,為 B cell 淋巴瘤。 - b. 腫瘤增殖迅速、多發或侵襲各處內臟,有淋巴結外的表現如腸套疊(>6歲 兒童發生腸套疊,統計上約有50%以淋巴瘤為 lead point)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...| | | | | sarcoma botryoides, | | | | | vaginal bleeding, para- | | | | | testicular mass | | | Non-Hodgkin | > 1 yr | Intussusception in | Increased urate; bone | | lymphoma | | > 2-yr-old | marrow positive | Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - V. 胃與腸道 (Stomach and Intestines) 68 - A. 肥厚性幽門狹窄 68 - B. 十二指腸閉鎖 71 - C. 腸轉位異常 71 - D. 腸套疊 72 - E. 梅克爾氏憩室 73 - F. 功能性便秘 74 - G. 先天性巨腸症 75 Source: [[sources/med4-book1-ch02|乙、消化系統]].

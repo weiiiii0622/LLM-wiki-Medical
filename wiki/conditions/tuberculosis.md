@@ -37,6 +37,9 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Tuberculosis (結核病)'
   - 'Tuberculosis'
@@ -51,7 +54,7 @@ tags:
 
 ## Summary
 
-分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +91,17 @@ tags:
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- ...llidum hemagglutination assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) tuberculosis verrucosa cutis Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- ...經腫大。3.皮膚抹片及組織病理發現癩桿菌或組織病理有符合漢生病的肉芽腫反應。肉芽腫的型式主要有兩種,一種是結節性肉芽腫(tuberculoid granuloma),主要出現在結節性漢生病(tuberculoid leprosy),與皮膚的結核(tuberculosis)感染相似。另一種以空泡狀組織球(foamyhistiocyte)為主,主要出現於癩病型漢生病(lepromatous leprosy)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) 結核病 (tuberculosis) Source: [[sources/med4-book2-ch11|子、其 他]].
+- 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - B. 病因:在從前以 *Haemophilus influenza* type b (Hib) 最常見,隨著疫苗的普及 Hib 感染比率下降許多。現在較常見的病原體為 group A streptococci、pneumococci、EBV。另外,文獻紀載有少數的病人由 *Corynebacterium diphtheria* 或 *Mycobacterium tuberculosis* 感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) TB:痰液收集做 Acid-fast stain、培養或是 PPD test (tuberculosis skin test)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -104,11 +115,6 @@ tags:
 - (A) pulmonary tuberculosis Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...isease | | Ш | IgG & IgM 和 | 自體的抗原:紅斑性狼瘡 (SLE)、類風濕性關節炎 (RA) | | | 補體 (IC) 沉澱 | 外來的抗原:慢性活動性肝炎、血清病、亞瑟氏反應 | | IV | Th1 | 皮膚結核菌素試驗 (Skin tuberculin test)、接觸性皮膚炎 (Contact dermatitis) | | | Th2 | 慢性氣喘 (Chronic asthma)、慢性鼻炎 (Chronic allergic rhinitis) | | | CTL | 移植排斥 (Graft rejection) | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...)的敘述,下列何者正確? (A) 活化的 CD8+T 淋巴球(CD8+T lymphocytes)可分化成可分泌細胞激素的 TH1 或 TH2 細胞(cytokine-producing TH1 or TH2 cells) (B) 宿主對抗結核菌感染,CD4+T 淋巴球(CD4+T lymphocytes)的活化和增生是最重要的 (C) TH1 細胞(TH1 cells)主要製造的細胞激素為干擾素(IFN-γ)以及介白質 4 和 5(interleukin-4 and interleukin-5) (D) TH2 細胞(TH2 cells)主要製造介白質 2、10 和 13(interleukin-2, interleukin-10 and interleukin-13) | Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- (C) 5. 一位工人由於大腿深部靜脈栓塞正在服用 warfarin,前凝血酵素時間 (prothrombin time) INR (international normalization ratio) 穩定控制 在 2 左右。最近在工廠身體檢查時又發現得了肺結核,已開始服用 rifampin。為了良好控制靜脈栓塞及避免併發出血,目前最適當的 處理方式為何? Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- Mycobacterium tuberculosis, any site (pulmonarya or extrapulmonary)\* Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- \*註:由於台灣為肺結核流行區域,因此在台灣單純肺結核並非 AIDS-defined illness,須合併 CD4 99% sensitivity, 感染 1~12 週後才會陽性);只有 ELISA 陽性時,不建議在 Western blot 結果出來前先行告知病患。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...) 共用餐具 (D) 被愛滋病毒感染的母親哺餵母乳 | 101(二)專醫三-61 | | (D) | 12. 與愛滋病毒感染最不相關之伺機性感染為下列何者? (A) 肺囊蟲肺炎 (Pneumocystis pneumonia) (B) 肺外結核 (Extrapulmonary tuberculosis) (C) 巨細胞病毒網膜炎 (Cytomegalovirus retinitis) (D) 幽門螺旋桿菌 (Helicobacter pylori) 感染 | 100(二)專醫三-57 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- (2) 若 WBC、Protein 稍高,但葡萄糖減少,考慮黴菌、結核腦膜炎。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 
 ## Clinical Caveats
 

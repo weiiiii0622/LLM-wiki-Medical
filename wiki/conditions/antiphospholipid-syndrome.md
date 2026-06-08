@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Antiphospholipid syndrome, APS (抗磷脂質抗體症候群)'
   - 'Antiphospholipid syndrome, APS'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-以動靜脈血栓或妊娠 morbidity 合併 antiphospholipid antibodies 為核心。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以動靜脈血栓或妊娠 morbidity 合併 antiphospholipid antibodies 為核心。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch09]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- 下列何項檢查最有助於診斷 Wegener's granulomatosis ? 醫四 -42 - (A) anti-histone antibodies - (B) antiproteinase-3 antineutrophil cytoplasmic antibodies ( PR3-ANCA ) - (C) anticardiolipin antibodies - (D) antinuclear antibodies (ANA) Source: [[sources/med4-book2-ch11|子、其 他]].
 - h. Immunologic disorder 免疫學異常: - (a) Anti-dsDNA 陽性或 - (b) Anti-Smith (Anti-Sm) 陽性或 - (c) Anti-phospholipid Antibodies 陽性: - i. Anticardiolipin antibodies 陽性或 - ii. Lupus anticoagulant 陽性或 - iii. False positive serology test for syphilis • Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 另外,其它會出現在 SLE 病人的自體抗體有 anti-Ro/La antibody 或是 antiphospholipid antibody (詳見 Nelson's Textbook of Pediatrics 21st Edition Table 183.6) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...with cutaneous and pulmonary | | | | manifestations of SLE | | | | May be associated with isolated discoid lupus | | | Antiphospholipid antibodies | Increased risk for venous and arterial thrombotic events | | | (including anticardiolipin | | | | antibodies) | | | | Antihistone antibodies | Present in a majority of patients with drug-induced lupus | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

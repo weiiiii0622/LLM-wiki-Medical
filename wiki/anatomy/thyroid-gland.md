@@ -36,6 +36,9 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Thyroid gland (甲狀腺)'
   - 'Thyroid gland'
@@ -50,7 +53,7 @@ tags:
 
 ## Summary
 
-甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +89,15 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch08]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- ...neous candidiasis): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 5. 其他症狀: 視網膜白斑、心臟橫紋肌瘤 (rhabdomyoma)、過誤瘤 (腎、肺、甲狀腺、 睪丸或腸胃道)。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - I. 甲狀腺 274 - A. 甲狀腺機能低下 (Hypothyroidism) 274 - B. 甲狀腺機能亢進 277 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - # A. 甲狀腺機能低下 (Hypothyroidism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -104,9 +113,6 @@ tags:
 - ...tus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...---------------------------------------------------------|------------------| | (C) | 腫瘤旁症候群(paraneoplastic syndrome)中,副甲狀腺素相關胜肽(parathyroid hormone-related peptide)的產生最常見於何種肺癌的組織學型態? (A) 小細胞肺癌(small cell lung cancer) (B) 腺癌(adenocarcinoma) (C) 鱗狀細胞癌(squamous cell carcinoma) (D) 大細胞肺癌(large cell carcinoma) | 107(一)專醫三-48 | | (B) | 3. 下列腫瘤何者較 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...----------|------------------|-----------|-----------------------|------------------| | Hormone | Calcitonin | 12 min | 甲狀腺癌 (Medullary ca.) | | | | β -нсс | 18~24 hr | 生殖細胞癌 (GCT), GTD | 懷孕 | | Tumor | PSA | 2~3 d | 前列腺癌 | BPH, Prostatitis | | associated | CA125 | 4~5 d | 卵巢癌 | 月經、腹膜炎 | | protein | CA153 | \*GTD = Gestational trophoblastic Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- | 前腸 (Pre-gut) → CK7(+) | 其他 | 後腸 (Hindgut) → CK20(+) | |-----------------------------------|-------------------------------------------|------------------------| | CK7(+)CK20(-)甲狀腺、肺腺癌、女性癌症 | CK7(+)CK20(+)泌尿上皮癌、卵巢黏液性腺癌胰臟癌、膽管癌 | CK7(-)CK20(+)大腸癌 | | (乳、子宮內膜、子宮頸癌) | CK7(-)CK20(-) | | | 胰臟癌、膽管癌 | 頭頸部鱗狀細胞癌肺小細胞、鱗狀細胞癌、肝、腎細胞癌 | | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- 記憶: CK7, 20 看腺癌; CK7(-)CK20(-)→頭頸部鱗狀細胞癌、肺小細胞、鱗狀細胞癌、肝、腎細胞癌前腸 CK7→想上半身器官+女性癌症→甲狀腺、肺腺癌;女性癌症(乳、子宮內膜、子宮頸癌) CK7(+)CK20(+)→想位於身體中間器官→胰臟癌、膽管癌;泌尿上皮癌、卵巢黏液性腺癌後腸 CK20(+)→想下半身器官→大腸癌 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...| 第一次 | 妊娠第一期妊娠未滿 17 週 | 第 12 週以前 | 1. 於妊娠第六週或第一次檢查須包括下列檢查項目 (1) 問診:家庭疾病史、過去疾病史、過去孕產史、本胎不適症狀、成癮習慣查詢。 (2) 身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 (3)實驗室檢驗:血液常規(WBC、RBC、Plt、Hct、Hb、MCV)、血型、Rh 因子、HBsAg 及 HBeAg(惟因特殊情況無法於本次檢查者,可於第五次孕婦產前檢查時接受本項檢查)、VDRL 或 RPR(梅毒檢查)、Rubella IgG(德麻疹抗體)、愛滋病檢查(EIA或 PA)及尿液常規。 2. 例行檢查項目。(註二)註: 德國麻疹抗體檢查呈陰性之孕婦,應在產後儘速注射1劑麻疹腮腺炎德 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 
 ## Clinical Caveats
 

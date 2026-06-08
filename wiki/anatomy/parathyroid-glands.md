@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Parathyroid glands (副甲狀腺)'
   - 'Parathyroid glands'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- ...cutaneous candidiasis): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - # A. 副甲狀腺低下 (Hypoparathyroidism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -74,7 +77,6 @@ tags:
 - | Excessive PTH | Primary hyperparathyroidism (adenoma, hyperplasia, rarely carcinoma) | | | |---------------------|---------------------------------------------------------------------------------------------------------------------------------|--|--| | product Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 2. 實驗室檢查:有無貧血、腎性骨病變、高血磷、低血鈣、副甲狀腺機能亢進等。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - 2. 毒素在尿毒症病人組織或血漿濃度應超過正常人,且濃度愈高,症狀越明顯;濃度降至正常之後,此症狀應消失,一般認為尿素、副甲狀腺素、 $\beta_2$ -microglobulin 為符合上述定義的毒素。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...造減少,造成血管收縮、高血壓、免疫功 | | | | compounds) | 能異常和神經學上的變化。P.s Guanidinosuccinic acid 會干擾血小板凝集功能 | | | 電解質 | | 尿毒症病人血中磷酸鹽值升高,造成副甲狀腺功能亢進及皮膚癢, | | | | | 減少活性維生素D的製造 | | | 代謝性 | 竣 中毒 | 尿毒症時腎臟無法增加 ammoniagenesis,故會造成酸中毒, | | | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | | 導致噁心、嘔吐、胃口差、加速骨中礦物質流失、增加胰島素抗性等 | | | 中分子及蛋白質 | | 副甲狀腺素、β 2 -microglobulin、過度糖化終產物 (a Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

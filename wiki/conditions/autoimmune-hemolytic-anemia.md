@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Autoimmune hemolytic anemia, AIHA (自體免疫溶血性貧血)'
   - 'Autoimmune hemolytic anemia, AIHA'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch21]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...0 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Thrombocytopenia ( < 10 萬 )。 | | | | | | 實驗室檢查 | (10) ANA(+)、(11) Anti-dsDNA(+) 或 Anti-Sm(+) 或 Anti-phospholipid(+) | | | | | Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 3. Cold hemagglutinin 和 warm hemagglutinin - (1) AIHA 中參與溶血的自體抗體有兩大類。 - a. 一類是 IgG,在與人體體溫的溫度時與紅血球表面上的蛋白質抗原發生反應,稱為 warm hemagglutinin。大部分案例是 idiopathic。 - b. 另一類是 IgM,在低於體溫時,發生反應,稱為 cold hemagglutinin。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 4. Direct Coomb test 和 Indirect Coomb test - (1) Direct Coomb test:是指在紅血球細胞的表面上附著有免疫球蛋白或補體,當血液中的洗滌紅血球添加抗球蛋白的血清,而產生凝集反應即表示為陽性。 - a. 例如:新生兒溶血症、自體免疫溶血性貧血(AIHA)、系統性紅斑狼瘡症、 ABO 輸錯血、冷凝集素綜合症。 - (2) Indirect Coomb test: 血清中有無游離的不完全抗體。陽性反應表示血清中有游離的不完全抗體。 - a. 例如:藥物誘發的免疫性溶血性貧血、新生兒同種免疫性溶血病、輸血後症狀。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (C) 8. 關於自體免疫性溶血性貧血(autoimmune hemolytic anemia)中 的冷型抗體(cold antibodies),下列何者錯誤? Source: [[sources/med4-book1-ch08|辛、血液學]].

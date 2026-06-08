@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Acyclovir (阿昔洛韋)'
   - 'Acyclovir'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-抗 herpesvirus 核苷類藥物，用於 HSV/VZV 感染。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗 herpesvirus 核苷類藥物，用於 HSV/VZV 感染。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,15 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- e. 另有研究指出高劑量 Acyclovir (800 mg qid or 400 mg 5 times a day) 可縮短 病程,但仍需更多資料。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- # 4. 水痘帶狀疱疹病毒(Varicella-Zoster Virus, VZV): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- ...亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated acantholytic epidermal cells,為受病毒感染之 keratinocytes,於HSV (herpes simplex virus) 感染造成之水疱也可看見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) human herpes simplex virus type 2 (HSV-2) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - VIII. 百日咳 (Pertussis) 177 - IX. 微小病毒 B19 感染 179 - X. 水痘病毒 (VZV) 感染 180 - XI. 麻疹 183 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (5) 治療: - a. 在成人或免疫不全的病人身上,建議使用 acyclovir 治療,一般健康兒童感染 水痘則不須常規給 acyclovir。 - b. 不建議使用 aspirin 治療,容易產生 Reye syndrome。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -53,7 +61,6 @@ tags:
 - ...| | HHV2 | HSV2 | 單純疱疹病毒第二型 | 生殖器疱疹→腰,尾椎感覺神經結潛伏 | | | | | | (Herpes simplex virus 2) | s 2) →復發生殖器疱疹 | | | | HHV3 | HV3 VZV 水痘帶狀疱疹 | | 水痘 (Varicella = chicken pox)→顱, 咽感覺神 | | | | | (Varicella zoster virus) | | 經結潛伏→復發帶狀疱疹 (Shingles) | | | | HHV4 | EBV | 艾帕斯坦 - 巴爾病毒 | 傳染性單核球增多症 (Infectious mononucleosis) | | | | | | (Epstein-Barr virus) | 伯奇 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - | 藥 物 | 機制 | 適用於 | |-------------|-------------------|----------------------------------------| | Acyclovir | Guanosine 類似物 | HSV1 · HSV2 · VZV | | Ganciclovir | Guanosine 類似物 | CMV | | Foscarnet | Pyrophosphate 類似物 | 對 Acyclovir 及 Ganciclovir 有抗性的 HSV、CMV | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- ...-----------------|--------------------------------------------------------------------|--|--| | Genital herpes | HSV2 | Acyclovir PO 400 mg tid 1 週或 IV 5 mg/kg q8h | | | | Genital warts | HPV 6, 11 | HPV 6, 11 若有皮膚病灶→局部電燒 | | | | Primary Syphilis | Benzathine PCN 2.4 | Benzathine PCN 2.4MU IM stat 或 Doxycycline 100 mg PO bid 14 天 | | | | Secondary Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 
@@ -62,7 +69,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/herpes-zoster|Herpes zoster (帶狀皰疹)]]
 
 ## Follow-up
 

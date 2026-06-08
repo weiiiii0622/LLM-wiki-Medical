@@ -22,6 +22,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Echocardiography (心臟超音波)'
   - 'Echocardiography'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- (1) 傳統檢查:包含胸部 X 光、abdominal echo、CT 或 MRI 等,以檢查是否有器官轉移。但須在腫瘤大於 1 公分以上才能顯像,且無法確定是否是真的轉移惡性腫瘤或其他良性的病變。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 6. 診斷:以外科方式治療為最終目標。 - (1) 胸部 X 光: 典型表現為靴子形狀(boot-shaped)心臟(但心臟大小正常)、肺血管紋減少,有時可以看到右位主動脈弓。 - (2) 心電圖:電軸右偏(顯示右心室肥大)。 - (3) 心臟超音波:可以用來確立診斷。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 屬於嚴重型的法洛氏四合症。但是沒有如典型 TOF 表現的心雜音。臨床發紺的嚴重度與側枝循環是否充足有關;側枝循環血液足夠的話病人發紺程度會較輕。此外,病人的心電圖呈現右心室肥大。在心臟超音波下病人右心室壁的增厚以及肺動脈閉鎖。胸部 X-ray 影像學下心臟不一定肥大,視肺血流量多寡而定。預後則視本身肺動脈大小而定,最終仍是要以外科方式治療。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 心臟超音波:可以發現三尖瓣被 fibromuscular membrane 取代、較小的右心室、 左心室變大與不同程度的 VSD 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -78,7 +81,6 @@ tags:
 - (4) Percutaneous mitral balloon valvotomy (PMBV): - a. 以心導管,用氣球將瓣膜撐開。 - b. Moderate to severe MS (MVA 2) 可考慮 PMBV (Class I)。 - c. 禁忌: LA thrombus, mod to severe MR, echo mitral valve score > 8 (表示瓣膜較厚、 鈣化嚴重等,其形態不適合 PMBV)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - ...發現有 grade 1-2 的 mid-systolic murmur,於是醫師要王女轉診去附近的區域醫院作進一步檢查。王女到了區域醫院的心臟科門診就診,在問診確定病史和身體診查發現如同轉診單所記載後,其最合適的處置為: (A) 直接安排做心臟超音波檢查,再決定如何處置 (B) 直接安排做心臟超音波檢查,再決定如何處置 (C) 直接安排做 CXR 檢查,如無異常,即可不用再做其他檢查 (C) 直接安排做 CXR 檢查,如無異常,再做心臟超音波檢查,之後再決定如何處置 (D) 直接安排做 ECG 和 CXR 檢查,如無異常,即可不用再做其他檢查 | 107(二)專醫三-19 | | (D) | (A) 第一心音為房室瓣關閉(二尖瓣及三尖瓣)(B) 第二心音為主動脈瓣及肺動脈瓣關閉(C Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - ...期滴答聲(midsystolic click)以及第二度收縮末期雜音(late systolic murmur),下列何項是確認診斷的最佳診斷工具? (A) 標準 12- 導程心電圖 (B) 胸部 X- 光片 (C) 電腦斷層檢查 (D) 心臟超音波 | 106(一)專醫三-21 | | (D) 15. 有關單獨二尖瓣狹窄(isolated mitral stenosis)之敘述,何者正確? (A) 大多數病患狹窄愈嚴重,第一心音(S1)愈弱 (B) opening snap 如果聽得見,是在心收縮期 (C) 感染性心內膜炎在單獨二尖瓣狹窄病患的機率與合併二尖瓣閉鎖不全病患相同 (D) 臨床症狀除運動時呼吸困難外,有時會出現咳血、肺栓塞或肺炎等 | 106(一)專醫三-23 | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- 4. 治療:同一般心臟衰竭治療。 - (1) 口服抗凝血劑:在心臟功能不佳的病患身上,使用抗凝血劑無法減少血栓形成,因此不建議常規使用,僅在有 Af、LV thrombus、有 thromboembolic event 的病患使用。 - (2) 抗心律不整藥物:DCM 的病患,Sudden cardiac death(SCD)、Ventricular arrhythmia 機會較高,但不建議常規使用抗心律不整藥物於無症狀的 VPC、Non sustained VT,可能反而導致更嚴重的心律不整發生(Proarrhythmic effects of the drugs)。 - (3) DCM 病患,若 LVEF 1.3)、腔室縮小、舒張功能↓。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 
 ## Clinical Caveats
 

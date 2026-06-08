@@ -17,6 +17,8 @@ sources:
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Rifaximin (利福昔明)'
   - 'Rifaximin'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,13 @@ tags:
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch10]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- (a) 水痘疫苗預防接種: - i. 為活性減毒疫苗,出生滿 1 歲至 12 歲接種一劑即可,12 歲以上者則 須接種兩劑,效價為十年,不過預防效果約 80%,故仍有可能於接種 疫苗後得到水痘。 - ii. 禁忌:先天性免疫功能缺陷、淋巴瘤或腫瘤、有症狀的愛滋病患、接受高劑量類固醇治療者、孕婦、21 天內有接觸水痘或帶狀疱疹病患、對 Neomycin 過敏者禁止接種疫苗。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 【詳解】酒渣性痤瘡(acne rosacea),又稱酒槽鼻,好發 30~50歲中年男性,是由於微血管異常擴張和皮脂腺毛囊發炎而造成。嗜酒、吸菸、刺激性飲食、壓力、日曝寒冷風吹等均可加重病情。初期表現以臉部容易變紅(微血管輕微擴張,皮膚上有血絲),接著如青春痘般會有丘疹/膿疱(papules/pustules),並且有較嚴重的微血管擴張;後期則會出現結節狀硬塊(induration)、鼻瘤(rhinophyma,尤其男性患者)。酒槽鼻難以根治,只能控制病情,少數病患可自行痊癒。注重臉部保濕防曬、避免暴露酒槽鼻危險因子等;稍微嚴重的病患,可以給予口服或外用抗生素(tetracyclines、metronidazole)或 A 酸,以及雷射和手術。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...ducing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 可給 ceftriaxone、metronidazole、 amikacin 等抗生素 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...Fortum®)可對抗綠膿桿菌,針對院內感染可使用;Ceftriaxone(Rocephin®)可穿透血腦障壁(Blood brain barrier),可用於治療腦膜炎,還可用於治療 Urosepsis、Pneumonia、腹內感染(與 Metronidazole 併用)、淋病(Gonorrhea)。但對會產生 AmpC β-lactamase 格蘭氏陰性菌無效。 - (4) 第四代最廣效,可對抗會產生 AmpC β-lactamase 格蘭氏陰性菌,用於嗜中性球低下病患發燒(Neutropenic fever)或院內感染的經驗性抗生素。其中 Ceftaroline 及 Ceftobiprole 因具有抗 MRSA 能力,又被稱為第五代 cephalosporin。Ceftobiprole 同時 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

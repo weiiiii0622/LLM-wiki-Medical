@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- ...l* | | | | b: With ulceration or level IV/V/T2 | | T2 | 1.01~2.0 | a: Without ulceration | | | | b: With ulceration | | T3 | 2.01~4.0 | a: Without ulceration | | | | b: With ulceration | | T4 | > 4.0 | a: Without ulceration | | | | b: With ulceration | Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (2) 新生兒與嬰兒:先天性甲狀腺發育不良。先天性甲狀腺功能低下多為偶發性, 僅少數有家族史。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - a. 新生兒篩檢:在台灣檢查 TSH, 其敏感性與特異性均超過 95%。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - b. 新生兒篩檢異常者抽血驗 TSH 和 $T_4$ 或 free $T_4$ 確認( $T_4$ 與 free $T_4$ 會低下)。 血液中 $T_4$ 有可能在正常值範圍故對診斷沒有幫助。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -74,7 +77,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - (B) 甲狀腺機能低下或亢進的病人可能都會伴隨憂鬱的症狀,所以 懷疑憂鬱的病人應該測量甲狀腺功能 Source: [[sources/med3-book4-ch29|己、特定議題]].
 - 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol/L。下列敘述何者錯誤? - (A) 病人的細胞外液量增加 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】TSH 很高,代表下游的甲狀腺素分泌不足,導致上游拼命 的刺激,屬於 hypothyroidism。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (A) 診斷必須排除腎上腺或甲狀腺功能不足 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 
@@ -85,6 +87,7 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 
 - [[conditions/hyperthyroidism|Hyperthyroidism (甲狀腺亢進)]]
 - [[conditions/hypothyroidism|Hypothyroidism (甲狀腺低下)]]
+- [[conditions/vitiligo|Vitiligo (白斑)]]
 
 ## Follow-up
 

@@ -24,6 +24,7 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Statins (史他汀類)'
   - 'Statins'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- b. 局部塗抹:Nystatin 專治念珠菌,對皮癬菌則無療效。或可用 Imidazole。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】家族型高膽固醇血症(familial hypercholesterolemia) 其嚴重度是根據基因上的變異數量決定,即有加成效應(gene dosing effect)。故同型合子會比異型合子的表現來的嚴重。同 合子患者其低密度脂蛋白(low density lipoprotein, LDL)膽固醇 數值是正常人的 4~6 倍,通常 LDL-C 為 500~1200 mg/dL。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...-------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
@@ -82,7 +85,6 @@ tags:
 - ...端肥大症 (Acromegaly) | 10% | 篩檢:IGF-1 ↑ | 先手術→放射、 | | (Somatotrope = GH) | 巨人症 (Gigantism) | 10% | 確診:OGTT (GH ↑ ) | Somatostatin 輔助 | | 皮促素細胞瘤 | 庫欣式病 (Cushing's dz.) | 10-15% | 24 小時尿液 | 先手術→放射、 | | (Corticotrope = ACTH) | 単次式病 (Cusning s dz.) | 10-15% | free cortisol | Ketoconazole 輔助 | | 甲促素細胞瘤 | 中樞甲狀腺亢進 | 最少見 | | 先手術→ PTU、 | | (Thyrotrope = TS Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - a. 下視丘分泌 GHRH刺激、或分泌 Somatostatin 抑制腦垂體分泌生長賀爾蒙 (Growth hormone, GH), GH本身就能刺激周邊組織合成蛋白質、分解脂肪、拮抗胰島素,導致葡萄糖耐受異常 (impaired glucose tolerance)。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - (D) 為控制腸胃道 NET 所導致的 carcinoid syndrome,可使用 somatostatin analogues Source: [[sources/med3-book2-ch16|辛、其 他]].
-- 【詳解】(B) Ki-67 是核蛋白,在細胞有絲分裂時會大量表現, Ki-67 越多代表細胞複製分裂越快,預後越差。(C) MEN1 缺陷的 是 MENIN。(D) NET 產生過多的血清素 (Serotonin, 5-HT) 可能 產生 Carcinoid syndrome,而有皮膚潮紅、心悸、腹瀉症狀,使用 somatostatin analogues 可緩解症狀。 Source: [[sources/med3-book2-ch16|辛、其 他]].
 
 ## Clinical Caveats
 

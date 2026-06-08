@@ -1,0 +1,45 @@
+---
+type: condition
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med4-book2-ch09]]"
+aliases:
+  - 'Keratoacanthoma (角化棘皮瘤)'
+  - 'Keratoacanthoma'
+  - '角化棘皮瘤'
+tags:
+  - medicine
+  - condition
+  - auto-topic-node
+---
+
+# Keratoacanthoma (角化棘皮瘤)
+
+## Summary
+
+快速增長的 crateriform keratinizing tumor，臨床與 SCC 可相似。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med4-book2-ch09]]
+
+## Key Details From Sources
+
+- H. 角化棘皮瘤 (Keratoacanthoma) 147 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- # H. 角化棘皮瘤 (Keratoacanthoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- 4. 從病發到消去的整個過程約 2~6 個月,甚至到一年,不過還是可能會惡性化,造成 淋巴或內臟轉移,再加上角化棘皮瘤和 SCC 組織學上難以鑑別診斷,因此建議盡 早手術切除。針對多發性角化棘皮瘤,可服用 A 酸或 MTX,甚至放射線治療。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

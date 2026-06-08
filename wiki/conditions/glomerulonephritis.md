@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Glomerulonephritis, GN (腎絲球腎炎)'
   - 'Glomerulonephritis, GN'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-腎絲球發炎疾病群，臨床可表現為 nephritic syndrome、RPGN 或慢性腎炎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎絲球發炎疾病群，臨床可表現為 nephritic syndrome、RPGN 或慢性腎炎。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- d. 併發症:中耳炎、鼻竇炎、頸部淋巴腺炎、風濕熱、腎絲球腎炎。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 4. Postinfectious GN (poststreptococcal GN)\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 6. Membranoproliferative GN\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -68,7 +71,6 @@ tags:
 - A. 腎絲球疾病 (Glomerular disease) 72 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ## A. 腎絲球疾病 (Glomerular disease) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (1) 腎絲球的疾病分為兩大類: - a. 腎絲球發炎 (Glomerulonephritis, GN): - (a) 幾天內突然發生的稱作 Acute GN, 幾週內發生的稱作 Rapid progressive GN (RPGN), RPGN 病理特徵為 Crescent formation, 好幾個月才慢慢形成的稱為 Chronic GN (CGN); Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (A) 慢性腎小球腎炎 (chronic glomerulonephritis) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

@@ -60,6 +60,9 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Hypertension (高血壓)'
   - 'Hypertension'
@@ -74,7 +77,7 @@ tags:
 
 ## Summary
 
-血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -134,9 +137,16 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch07]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- (2) 環孢黴素(cyclosporine):為免疫抑制劑,給予低劑量(< 5 mg/kg/day)時, 約對 70% 的慢性板塊狀乾癬病人有效,主要用於其他治療無效時或乾癬性紅皮 症患者可快速達到不錯的療效,不適宜長期使用。主要副作用是高血壓、高血 脂、多毛症、牙齦增生和不可逆之腎功能損害。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
+- (B) 6.50 歲男性,患有高血壓與尋常性乾癬,下列那一類抗高血壓藥物 會惡化乾癬,宜避免處方? Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
+- (D) 病患平常需使用彈性襪,並將下肢抬高以減少下肢的靜脈高壓(venous hypertension) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- 3. 除上述症狀,神經纖維瘤患者易因腎動脈狹窄引起高血壓、得到嗜鉻細胞瘤機會較高、學習力和智力出現障礙或是得到惡性腫瘤的機會增高。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - TABLE 367-1 Causes of Portal Hypertension Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - #### **EXTRAHEPATIC PORTAL HYPERTENSION** Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - #### INTRAHEPATIC PORTAL HYPERTENSION Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -151,10 +161,6 @@ tags:
 - (1) lcSSc 大部份預後都不錯,除了那 < 10%的人,在 10~20 年後發展出 Pulmonary hypertension,這些人預後就很差了。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (D) 11. Raynaud 現象是四肢呈現蒼白、發紺以及反應性充血(Reactive hyperemia) 94(三) 檢 之三種臨床特色,下列何者敘述錯誤? 内 -14 - (A) 重度指趾血管收縮 - (B) 好發於鞏皮症 (Scleroderma) 病人 - (C) 高血壓病人服用 beta-blocker 有時會併發 - (D) 會併發難治之末肢缺血性潰瘍,是種預後不佳的疾病 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...hioprine,藉由抑制 Purine 合成酵素 (Inosine monophosphate dehydrogenase),減少 Purine 合成,使得被活化的白血球無法快速複製。 - (b) 可能有腸胃道副作用(噁心、嘔吐),頭痛、高血壓,骨髓抑制較 Azathioprine 少。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...logeneic hematopoietic stem cell transplantation)用來預防移植物反宿主疾病(graft-versus-host disease)的重要免疫抑制劑,下列何者不是 CsA 常見的副作用? (A) hypertension (B) hyperlipidemia (C) hyperglycemia (D) nephrotoxicity | 105(一)專醫三-45 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- | 內在因子 | 外在因子 | |-------------------------------------------------------------------------------------------------------------------------------|----------------| | 1. 聽力與視力下降 | 1. 居住環境雜亂、浴廁潮濕 | | 2. 暈眩,可由疾病或藥物造成: (1)心血管疾病:心律不整、姿態性低血壓 (2)神經疾病:中風、失智症、巴金森氏症 (3)新陳代謝疾病:糖尿病 (4)高血壓藥物、利尿劑、抗憂鬱劑與抗組織胺藥物 3. 心肺功能、肌肉骨骼功能退化造成移動與平衡能力下降 | 2. 環境陰暗、照明度不足 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- | | 急性 | 慢性 | |---------|---------|----------------------| | 心血管疾病 | 心肌梗塞 | 高血壓、靜脈曲張、心律不整、姿態性低血壓 | | 神經疾病 | 中風 | 失智症、巴金森氏症 | | 新陳代謝疾病 | 糖尿病、甲狀腺 | 以 对能低下 | | 肌肉骨骼疾病 | 骨折 | 退化性關節炎 | | 肝膽腸胃疾病 | 急性腹瀉 | 慢性肝炎、肝硬化、便祕、痔瘡 | | 眼耳鼻喉疾病 | 白内障、聽力丁 | 降 | | 泌尿生殖道疾病 | 尿失禁、疝氣、 | ·攝護腺肥大 | | 精神疾病 | 憂鬱症、失眠、 | ・譫妄 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- (C) 2.78 歲陳先生由親人陪同就診,主訴最近一週有尿失禁及倦怠無力。 病人長期失眠,經常服用安眠藥。最近失眠加重,增加劑量仍未見效,而且血壓也上升。病人又自行購買高血壓藥物服用。身體檢查 病人生命徵象穩定,意識清楚,行動正常且無局部神經異常症狀。 對該病人的處置方式,下列何者最為適當? - (A) 安排病人入住護理之家接受照顧 - (B) 轉介精神神經專科檢查及調整安眠藥 - (C) 作老人周全性評估 - (D) 即刻安排病人住院治療 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 

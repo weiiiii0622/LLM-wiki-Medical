@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch03]]"
 aliases:
   - 'Crohn disease (克隆氏症)'
   - 'Crohn disease'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,14 @@ tags:
 - [[sources/med3-book2-ch04]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch03]]
 
 ## Key Details From Sources
 
+- (C) 21. 一位 25 歲女性,於七年前小腿出現多處疼痛的紅色結節,而在 100(-)專 二年前開始於陰唇部位出現劇痛性潰瘍,患者也經常出現口腔 醫四-42 潰瘍,曾因虹彩炎(uveitis)在眼科就診。這位患者最有可能之 診斷為何? - (A) 疤痕性類天疱瘡(cicatricial pemphigoid) - (B) 克隆氏病 (Crohn's disease) - (C) 貝塞特氏病 (Behçet's disease) - (D) 多形性紅斑 (erythema multiforme) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (C) 克隆氏症 (Crohn's disease) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...sis | 常出現在受傷過 | +/- | | subepidermal | Linear IgG/C3 in | | bullosa | 的皮膚、可能跟 | | | blister | epidermal | | acquisita | Crohn's disease | | | | basement | | | 有關 | | | | membrane | Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - | | Vit B deficiency | Folic acid deficiency | |----------------------|---------------------|-----------------------| | 原因 | (1) 惡性貧血 | (1) 懷孕期間葉酸補充 | | | (2) Crohn's disease | (2) 使用 MTX | | | | (3)慢性溶血 | | | | (4) 酒精 | | Megaloblastic anemia | 是 | 是 | | 神經學症狀 | 舌炎、震動覺跟姿勢覺下降 | 無 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...Sjögren's syndrome, Hashimoto's thyroiditis | | | | Other systemic | Fanconi's syndrome, sickle cell anemia, diabetes, Crohn's disease, sarcoidosis, | | | | dz. | Guillain-Barré syndrome, Weber-Christian disease, angiofollicular lymph node hyperplasia | | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - | Crohn's disease (CD) | Ulcerative colitis (UC) | |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch08|辛、腸道疾病]].

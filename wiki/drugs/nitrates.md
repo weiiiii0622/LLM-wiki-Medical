@@ -18,6 +18,7 @@ sources:
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med3-book4-ch29]]"
+  - "[[sources/med4-book2-ch07]]"
 aliases:
   - 'Nitrates (硝酸鹽類)'
   - 'Nitrates'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med3-book2-ch07]]
 - [[sources/med3-book4-ch26]]
 - [[sources/med3-book4-ch29]]
+- [[sources/med4-book2-ch07]]
 
 ## Key Details From Sources
 
+- (A) isosorbide mononitrate Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - | 疾病 | 物質 | |-------|-------------------| | 氣喘 | 二異氰酸類、甲醛、環氧樹酯 | | 腎臟疾病 | 四氯化碳、乙二醇、甲醇、鉛、汞、鉻 | | 肝臟疾病 | 二甲基甲醯胺、四氯化碳、砷 | | 血液疾病 | 苯、硝基苯、硝化甘油 | | 心血管疾病 | 二硫化碳、硝化甘油、砷 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - (A) isosorbide mononitrate Source: [[sources/med3-book4-ch29|己、特定議題]].
 - 臨床上常見之致命者多為後天性血紅素血症,可能是對於下列物質產生過敏反應:抗生素(trimethoprim, sulfonamides and dapsone)、含過量亞硝酸鹽(nitrates)食物、含的樟腦丸等。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].

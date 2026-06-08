@@ -41,6 +41,10 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch03]]"
 aliases:
   - 'Airway inflammation (氣道發炎)'
   - 'Airway inflammation'
@@ -55,7 +59,7 @@ tags:
 
 ## Summary
 
-氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +100,22 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch03]]
 
 ## Key Details From Sources
 
+- 4. 異位性皮膚炎的病因是許多因素綜合的結果,家族性和異位性體質等基因因素加上環境中過敏因子,造成 Type I(IgE-mediated)hypersensitivity reaction,急性發炎反應和 Th2、IL-4、IL-13 有關,慢性發炎反應則和 Th1、IL-5、IL-12、GM-CSF、IFN-γ有關。 - (1) 常見的過敏原包括塵蟎、貓狗等動物的毛、蟑螂、黴菌、花粉等,幼兒期腸胃 道比起大人較可能受食物過敏原影響,常見的可能食物過敏原有牛奶、蛋白、 麥、花生、海鮮等。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (D)慢性期的病理機轉主要以 Th2 細胞的活化為主要之角色, Th1 細胞角色較少 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- Candidiasis: epidermis 會有 spongiotic change(表皮細胞彼此之間像吸水的海綿間隔距離變寬),在 stratum corneum 和 superficial epidermis 可見 neutrophil 匯聚成一小團一小團的 pustulation,加上臨床不太像,故排除。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (3) colchicine 可抑制 neutrophil 的趨化作用,對於口腔粘膜和外陰潰瘍的治療有效,但對於眼部病變則較無效。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 3. 皮膚切片下為 leukocytoclastic vasculitis 的表現,會有 neutrophil 浸潤於血管本身或 周圍、nuclear dust、RBC 滲出到血管外、以及血管壞死。另可染 Direct immunofluorescence (DIF),去鑑別是哪種疾病引起的 small vessel vasculitis,例如: - (1) Henoch-Schönlein purpura:血管周圍有 IgA 沉澱。 - (2) Cryoglobulinaemia:血管周圍有 IgM 沉澱。 - (3) Cutaneous polyarteritis nodosa 和 ANCA-positive vasculitis: DIF 則多為 negative。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (B) 9. 下列那一種血管炎,c-ANCA(c-antineutrophil cytoplasmic autoantibodies)呈陽性的比例最高? - 一点,一点,一点, - (A) microscopic polyangiitis - (B) Wegener granulomatosis - (C) Henoch-Schönlein purpura - (D) Churg-Strauss syndrome Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 下列何項檢查最有助於診斷 Wegener's granulomatosis ? 醫四 -42 - (A) anti-histone antibodies - (B) antiproteinase-3 antineutrophil cytoplasmic antibodies ( PR3-ANCA ) - (C) anticardiolipin antibodies - (D) antinuclear antibodies (ANA) Source: [[sources/med4-book2-ch11|子、其 他]].
+- (C) 病灶的病理組織檢查常見嗜伊紅球(eosinophil)浸潤 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - 1. T細胞:當接觸到過敏原時,非過敏體質的人主要引起第一型 T 輔助細胞(Th1 cell)增生,產生 Interferon g 等 cytokine,誘發產生對抗原專一的 IgG。而過敏體質的人則主要產生第二型 T 輔助細胞(Th2 cell)增生,分泌 IL-4, IL-5, IL-9, IL-13 等 cytokine,會促進 IgE 產生及嗜伊紅性白血球發育,引起過敏反應。故過敏疾病的發生與第二型 T 輔助細胞活性有著密切的關係。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 2. 抗原呈現細胞:包括樹突細胞(dendritic cell),單核球(monocyte),巨噬細胞(macrophage),及蘭格罕氏細胞(Langerhans cells)。會將抗原呈現給 T 細胞。樹突細胞依據其傾向造成 Th1 或 Th2 細胞分化分為兩型,第一型樹突細胞(DC1)分泌 IL-12,造成 T 細胞分化為 Th1 細胞,而第二型樹突細胞(DC2)不分泌 IL-12,故 T 細胞分化為 Th2 細胞。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (2)晚期反應:在接觸過敏原後幾小時內發生,嗜伊紅性白血球及中性球浸潤,接著是嗜鹼性白血球,肥大細胞,單核球,及 Th2 細胞浸潤。活化的肥大細胞分泌 TNF-α,使血管內皮表現出 cell adhesion molecules,使發炎細胞可以穿過血管內皮移動出去。另外發炎局部也產生許多 chemokines,吸引更多發炎細胞到達。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -108,15 +125,6 @@ tags:
 - 3. 病因: - (1) 真正發生原因仍未明。目前證據顯示可能為後天性疾病。 - (2) (參考)文獻記載 eosinophilic gastroenteritis、Apert syndrome、Zellweger syndrome、**trisomy 18**、Smith-Lemli-Opitz syndrome以及Cornelia de Lange syndrome與HPS有關。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 17. 一個 7 天大男童,因為腹脹及黃疸求診。出生體重為 2,550 公克,出生週數為 38 週。身體診察顯示倦怠、活力不佳,肝臟可摸到兩指幅。血液檢查白血球 8,280/μL,其中 segment 占 15%,band form 占 22%,lymphocyte 占 30%,monocyte 占 1%,eosinophil 占 1.2%。血紅素為 15 g/dL,血小板 220,000/μL。ALT 77 U/L、AST 72 U/L。腹部 X 光、腹部皮膚及糞便如下,臨床診斷最可能為下列何者? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...t(8;21) | AML1-ETO | Myeloblasts with differentiation | Favorable | | inv(16) | CBFB-MYHII | Myeloblasts plus abnormal eosinophils with dysplastic basophilic granules | Favorable | | t(15;17) | PML-RARA | Promyelocytic | Favorable | | 11q23 abnormalities | MLL rearrangements | Monocytic | Unfavorable | | FLT3 mutation | FLT3-ITD | Any | Unfavorabl Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (1) 血管炎中,致病抗體主要是抗嗜中性球細胞質抗體(Antineutrophil cytoplasmic Ab、ANCA),分兩類: Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- \* 90% Wegener's granulomatosis 有 cANCA(+),少部份則是 pANCA(+) 根據 2012 revised International Chapel Hill Consensus Conference (CHCC) criteria, Wegener's granulomatosis 正名為 Granulomatosis with polyangiitis, Churg-Strauss syndrome 正名為 Eosinophilic granulomatosis with polyangiitis (皆根據病理變化) Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- 2. Churg-Strauss 症候群 (Churg-Strauss syndrome) [第二常考!!] - (1) 流病:平均於 48 歲發病,好犯上下呼吸道及神經的血管,且有嗜酸性球增加 (Eosinophilia)。 - (2) 病生理:切片可見有血管壁有肉芽腫反應(Granulomatous reaction)、且常合併嗜酸性球浸潤;常有 pANCA(+)。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...| 補體 (IC) 沉澱 | 外來的抗原:慢性活動性肝炎、血清病、亞瑟氏反應 | | IV | Th1 | 皮膚結核菌素試驗 (Skin tuberculin test)、接觸性皮膚炎 (Contact dermatitis) | | | Th2 | 慢性氣喘 (Chronic asthma)、慢性鼻炎 (Chronic allergic rhinitis) | | | CTL | 移植排斥 (Graft rejection) | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- (C) 1. 一位 17 歲的女性罹患蕁麻疹已有二年之久。時常會有無預警的發生 全身搔癢、紅斑及條痕(erythema and wheal)出現。經服用抗組織 胺(anti-histamine)有效,但是無法根除。則下列那一種檢查對疾 病的病因追查最有幫忙? - (A) 血清補體值 (serum complement level) - (B) 嗜伊紅性白血球的總數 (total eosinophil count) - (C) 抗過敏原 IgE 抗體的效價 (allergen-specific IgE titer) - (D) 血清冷凝球蛋白的存在 (presence of serum cryoglobulin) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- (B) 6. 一位 36 歲男性的皮膚,每隔 2~3 天會有突發性的融合性紅疹發生如 96(一)專 下圖所示,而且相當癢,已有2年之久。但是皮疹從未發生在嘴唇。 醫三-62 經服用抗組織胺有效,但是無法痊癒。抽血檢查發現 total IgE 104 IU/ml, WBC 5,850/mm3 with eosinophil 3.2%, ANA 1: 40X (-)最可能的診斷為下列何者? Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- ...| 1 | MHC | 用於呈現抗原給T細胞 | | APC | 2 | B7 | 可與 T 細胞的 CD28 結合,將 T 細胞完全活化 | | | 3 | Cytokines | IL12 可促進 Th0 往 Th1 分化,IL4 往 Th2 分化 | | | | TCD/CD2 | TCR 負責抗原與 MHC 認知,若辨識吻合,則 CD3 負責將訊息傳遞到 | | | | TCR/CD3 | 細胞內部 (Signal transduction),此為活化 T 細胞的第一活化訊息。 | | | 1 | 複合物 | (注:TCR=T cell receptor,Th=Helper T cell,Tc=Cytotoxic T cell) | | | | CD4 · CD8 | Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- ...12, IFNγ | Th1 (T-bet) | IL2, IFN 7 | Macrophage→吞噬被調理的病原菌 (Opsonized microbes) | | | | | B cell IgG switch→調理病原體 | | | Th2 (GATA-3) | HAHE HE | Eosinophil→寄生蟲 | | IL2, IL4 | | IL4, IL5, IL6IL10,IL13 | Mast cell, Basophil → 過敏 | | | | ILIU,ILI3 | B cell IgM,G,A,E switch →引發發炎反應 | | TGFβ, IL6 | Th17 (RORYT) | IL17,IL21,22 | 發炎(吸引嗜中性球)、自體免疫(乾癬 Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- | (B) | 有關 T 淋巴球(T lymphocytes)的敘述,下列何者正確? (A) 活化的 CD8+T 淋巴球(CD8+T lymphocytes)可分化成可分泌細胞激素的 TH1 或 TH2 細胞(cytokine-producing TH1 or TH2 cells) (B) 宿主對抗結核菌感染,CD4+T 淋巴球(CD4+T lymphocytes)的活化和增生是最重要的 (C) TH1 細胞(TH1 cells)主要製造的細胞激素為干擾素(IFN-γ)以及介白質 4 和 5(interleukin-4 and interleukin-5) (D) TH2 細胞(TH2 cells)主要製造介白質 2、10 和 13( Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 
 ## Clinical Caveats
 

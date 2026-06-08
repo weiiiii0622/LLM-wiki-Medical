@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Epstein-Barr virus infection, EBV (EB 病毒感染)'
   - 'Epstein-Barr virus infection, EBV'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-可造成傳染性單核球增多症，並與部分淋巴瘤、鼻咽癌等疾病相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成傳染性單核球增多症，並與部分淋巴瘤、鼻咽癌等疾病相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch09]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- (D) Epstein-Barr virus (EBV) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - ...(A) acute graft-versus-host disease (GVHD) - (B) chronic graft-versus-host disease (GVHD) - (C) Candida infection - (D) Epstein-Barr virus (EBV) infection Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - (A) Epstein-Barr virus (EBV) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - (C) 1. 青少年骨肉瘤(osteosarcoma)與下列何者的關聯性最小? - 101(二)專 醫四-25 - (A) 遺傳性視網膜神經母細胞瘤 (hereditary retinoblastoma) - (B) Li-Fraumeni 症候群 - (C) Epstein-Barr virus (EBV) 感染 - (D) 放射線治療(radiotherapy)後 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

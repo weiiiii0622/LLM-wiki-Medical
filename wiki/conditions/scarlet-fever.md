@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Scarlet fever (猩紅熱)'
   - 'Scarlet fever'
@@ -20,15 +22,23 @@ tags:
 
 ## Summary
 
-A 群鏈球菌毒素造成發燒、咽炎、砂紙樣皮疹與草莓舌。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+A 群鏈球菌毒素造成發燒、咽炎、砂紙樣皮疹與草莓舌。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- # 3. 猩紅熱 (Scarlet fever) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (1) 致病因子:Group A *Streptococcus* 分泌之 Streptococcal pyrogenic exotoxins A、B 或 C。有時感染 *S. aureus* 所分泌之外毒素也會引起猩紅熱的症狀。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (3) 臨床表現: - a. 發燒、喉嚨痛(exudative pharyngitis)、淋巴結腫 大、有時軟顎和懸雍上有出血點。 - b. 黏膜疹(Enanthem):發病的前兩天舌頭上可見覆蓋一層白色分泌物,中間散佈著紅腫的乳突,稱為白色草莓舌(white strawberry tongue)。接著在發病的第四、五天白色分泌物會脫落,舌頭變紅且發亮,稱為紅色草莓舌(red strawberry tongue)。(見右圖,靠舌根的白色斑塊為殘存的 white strawberry Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 2. 與猩紅熱不同,川崎氏症好發於五歲以下孩童,患者同樣會持續高燒(超過五天)、 眼結膜充血、嘴唇泛紅、乾裂、舌頭呈草莓狀、頸部淋巴腺腫大、手腳掌紅腫。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (A) 28. 一位一歲二個月男童持續發燒六天,有草莓舌與雙側頸部淋巴結腫大,身上出現許多針頭至豌豆大小稍微突起之紅斑,發燒在第六天消退後,手指尖端開始出現脫皮。上述臨床表現中,那一點不符合猩紅熱的典型臨床表現,而比較符合川崎病的表徵? Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 【詳解】川崎氏症好發於五歲以下兒童,猩紅熱好發於四到八歲兒童。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...|------------------------------------------|--------------------------------------| | 1. Carditis. | 1. Fever. | Recent scarlet fever. | | 2. Migratory poly- arthritis. | 2. Arthralgias. | 2. Throat culture positive for group | | 3. Subcutaneous nodules. | 3. Prolonged P-R. interval on the ECG | A streptococci. | | 4. Erythema marginatum. | 4. ESR ↑ 、 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) high spiking fever (39℃或更高)、兩側結膜紅腫 (usually without exudates)、口 與咽部發現紅斑 (erythema)、草莓舌 (strawberry tongue)、嘴唇乾裂、頸部淋 巴結腫大、身上出現紅疹、手腳紅腫等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...Polymorphous exanthem - c. Bilateral bulbar conjunctival injection without exudate - d. Erythema and cracking of lips, strawberry tongue, and/or erythema of oral and pharyngeal mucosa - e. Cervical lymphadenopathy (>1.5 cm diameter), usually unilateral Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

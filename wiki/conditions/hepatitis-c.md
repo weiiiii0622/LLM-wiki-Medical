@@ -25,6 +25,9 @@ sources:
   - "[[sources/med3-book4-ch29]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Hepatitis C (C 型肝炎)'
   - 'Hepatitis C'
@@ -39,7 +42,7 @@ tags:
 
 ## Summary
 
-HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +67,15 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - [[sources/med3-book4-ch29]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- ...見的,只會出現皮膚症狀。 - (2) 病人主要症狀是對光敏感,容易曝曬到陽光的區域,如臉、手臂、手背、手腕等, 照到陽光後皮膚易龜裂、潰爛、皮膚脆弱起水泡及多毛症。 - (3) 誘發因子:過度飲酒(最重要)、過度鐵質攝取、病毒感染(特別是 HCV, HIV)、殺真菌劑和除草劑中所含的碳氫鹵化物、長時間 hemodialysis 或 estrogen 治療。 - (4) 伍氏燈照射下尿液呈粉紅色。 - (5) 處置: - a. 避免酒精和鐵質攝取、減少陽光曝曬、避免服用 estrogen 或接觸到含碳氫鹵 化物的物質。 - b. 除了避免危險因子外,最有效的治療方法為放血療法(phlebotomy),降低體 內鐵沉積對肝、心等器官的損害。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- 3. 病因不明,目前認為和異常免疫反應有關,可能為藥物、金屬(黃金、水銀)或感染(HCV)引起之異常免疫。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - (D) 12. 關於 C型肝炎 (hepatitis C),下列何者錯誤? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 和 B 型肝炎相比,C 型肝炎垂直感染(perinatal transmission) 的比率較低 醫四-17 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) 若母親為 C 型肝炎帶原者且合併有高病毒血症或合併有愛滋 病毒感染時,則垂直感染的風險會增加 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -82,9 +91,6 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - ...| | EBV | Burkitt's lymphoma, Primary CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary effusion lymphoma, Multicentric Castleman's dz. | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - (A) 3. 減白的血小板 (leucocyte-depleted platelet),可降低藉輸血發生下列 99(二)專 那一種傳染疾病的機率? - (A) Cytomegalovirus - (B) Hepatitis A virus - (C) Human immunodeficiency virus type 1 (HIV-1) - (D) Hepatitis C virus Source: [[sources/med3-book4-ch17|辛、輸血]].
 - ...定義且經實驗室診斷: | 1 週內 | |--------------------|----------------------------------------------------------------|---------| | C型肝炎 | 一、臨床病例:(符合其一即可) | | | | (1) 出現急性發作症狀: 包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服、 | | | | 黄疸等,且 Anti-HCV 陽性,ALT ≥ 100,亦排除急性 A、B 型肝炎發作。 | | | | | | | | (2) 曾檢驗血清 C 型肝炎病毒抗體 (Anti-HCV) 陰性,後轉變成 C 型肝炎 | | | | 病毒抗體陽性,且 ALT ≥ 100 (建議以一年內之 Anti-H Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...disease | → ANA (+)、Anti-dsDNA (+)、C3 下降 | | | | Cryoglobulinemia (冷凝球蛋白血症) | 下降 | | | → Cryoprecipitate (+)、C3 下降、Anti-HCV Ab (+) | | | | Henoch-schönlein purpura (HSP) | 正常 | | | → IgA nephropathy+systemic vasculitis (腹痛)、C3 正常 | | | 治療: 鈴 | 十對本身疾病治療,類固醇 +/- Alkylating agent (腎臟疾病) | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (A) 47 歲男性,患有 C 型肝炎十年,近半年開始出現下肢水腫,尿 液分析有 300 mg/dL 蛋白, 高倍鏡檢有 20~30 RBC Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (a) Type I MPGN,病人常呈緩慢惡化,常伴有高血壓和腎功能失常,其病理下可見 mesangial interposition 於 Basement membrane 及 endothelial cell 間,而可看到 tram-tracking。病人血清中 Clq, C3, C4 皆下降。可能與慢性感染(HCV、IE)、免疫複合體沉積(SLE、Cryoglobulinemia)有關。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

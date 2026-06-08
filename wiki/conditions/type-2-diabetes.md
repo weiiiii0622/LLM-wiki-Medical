@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Type 2 diabetes mellitus (第 2 型糖尿病)'
   - 'Type 2 diabetes mellitus'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-胰島素阻抗與 β cell 功能下降造成慢性高血糖。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素阻抗與 β cell 功能下降造成慢性高血糖。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- (A) 可能與胰島素抗性(insulin resistance)的內分泌疾病有關 Source: [[sources/med4-book2-ch11|子、其 他]].
 - Type 2 diabetes mellitus (insulin resistance) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - #### 2. Type 2 diabetes mellitus: Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) 臨床表現: type 2 diabetes mellitus 血糖上升值不若 type 1 diabetes mellitus 嚴重,故從病發到診斷所需時間較長。病人亦會發生糖尿病酮酸中毒,但大部分為酮尿(ketonuria)。另外,病人頸部或腋下會有黑色棘皮症(acanthosis nigricans),此為對胰島素產生抗性在皮膚的表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

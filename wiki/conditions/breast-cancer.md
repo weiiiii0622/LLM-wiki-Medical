@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Breast cancer (乳癌)'
   - 'Breast cancer'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,15 @@ tags:
 - [[sources/med3-book4-ch25]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。選(B)。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- (D) 對於肥胖相關的黑色棘皮症,減重對於皮膚病灶沒有改善作用 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細 胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發 於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗 性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、 雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一 種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症 最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或 治療相關之癌症。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 2. 此外,PJ 患者罹患癌症的機率也會增加,發生機率依序為小腸、胃、胰臟、大腸、 食道、卵巢或乳癌等。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - (2) 心電圖:通常會表現 **RBBB**,可能出現高且寬的 P 波、prolonged PR interval。 此外,約 **20%** 的病人有 **Wolff-Parkinson-White syndrome**。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...yperkalemia)的處理,下列何者敘述錯誤? 106(二)專 (A) 停止所有鉀離子的補充 醫四 -20 (B) 若血鉀濃度高於 6.5 mEq/L, 心電圖可能先出現 peak T waves, 進一步可能出現 prolonged PR interval (C) 靜脈內注射胰島素改善高血鉀時,不可同時加葡萄糖點滴 (D) 若高血鉀對於藥物的反應不佳,應考慮透析治療 【詳解】靜脈注射胰島素、使用 β,-agonist 藥物可以把血漿中的 鉀離子趕到細胞內,但是要注意其副作用如低血糖、心搏過速 等。因此注射胰島素時須同時給予醣類補充。 (C) 5.15 歲男生為田徑隊員,在訓練 3 小時後,發生雙側大腿疼痛,尿 106(二)專 液變成紅色而至急診求診。尿液檢查發現,潛血反 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - A. 乳癌 (Breast cancer) 210 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].

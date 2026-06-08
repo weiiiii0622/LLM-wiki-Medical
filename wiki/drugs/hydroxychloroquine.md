@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Hydroxychloroquine (羥氯奎)'
   - 'Hydroxychloroquine'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-SLE 與 RA 常用免疫調節藥，需注意視網膜毒性監測。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SLE 與 RA 常用免疫調節藥，需注意視網膜毒性監測。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ SLE 與 RA 常用免疫調節藥，需注意視網膜毒性監測。 本頁已�
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch02]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- (4) 皮膚病變可用局部使用類固醇藥膏或使用抗瘧疾藥物(Hydroxychloroquine)治療。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (4) 奎寧(Hydroxychloroquine):對於皮膚紅疹、無法被 NSAID 控制的關節疼痛 有效。長期使用可減少 SLE 復發及對腎臟、中樞神經的侵犯。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...e reductase → | 多種風濕疾病都可使用,如 | | | 抑制 purine 生成→抑制發炎 | JRA, SLE, dermatomyositis… | | Etanercept | Anti-TNF-α | JRA | | Hydroxychloroquine | 原為抗瘧疾藥,在風濕性疾病 | SLE, dermatomyositis 的皮膚 | | | 治療的機轉不明 | 病灶 | | Sulfasalazine | 不明,可能和抑制 prostaglandin, | JRA, inflammatory bowel | | | leukotriene 的生成有關 | disease | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...ions),與 Anti-Ro (SSA) 有關。 | | Chronic | Discoid lupus | 週邊紅腫脫屑,中央因全層皮膚都被破壞而萎縮凹陷; | | (Mild) | erythematosus (DLE) | 以口服 Hydroxychloroquine、局部擦類固醇治療。 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 2. 若懷孕前, 須以 Hydroxychloroquine 控制病情, 建議繼續服用。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

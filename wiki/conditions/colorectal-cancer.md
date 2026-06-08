@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Colorectal cancer (大腸直腸癌)'
   - 'Colorectal cancer'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-大腸與直腸惡性腫瘤，篩檢、分期與手術/化療策略影響預後。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸與直腸惡性腫瘤，篩檢、分期與手術/化療策略影響預後。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book4-ch22]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (B) 6. 下列何種腸胃道息肉(Polyps)發生大腸癌(Colon cancer)的風險最高? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 2. Germ cell tumor(GCT)又可以分成精母細胞癌(seminomatous GCT)以及非精母細胞癌(Non-seminomatous GCT)、其中 NSGCT 又包含 embryonal cell cancer, teratoma, yolk sac tumor, choriocarcinoma。特色是 β-hCG 以及 AFP 同時會升高。因此,可以使用 AFP, CEA, 或是 β-hCG 做為追蹤指標。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - C. 大腸直腸癌 (Colorectal cancer) 217 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].

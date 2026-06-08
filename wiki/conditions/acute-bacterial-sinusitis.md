@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Acute bacterial sinusitis (急性細菌性鼻竇炎)'
   - 'Acute bacterial sinusitis'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- d. 併發症:中耳炎、鼻竇炎、頸部淋巴腺炎、風濕熱、腎絲球腎炎。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - III. 鼻竇炎 (Sinusitis) 160 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - # III. 鼻竇炎 (Sinusitis) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 急性鼻竇炎: 感染症狀持續在 10~30 天。 Source: [[sources/med4-book1-ch04|丁、感染科學]].

@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Paraneoplastic syndrome (腫瘤旁症候群)'
   - 'Paraneoplastic syndrome'
@@ -21,16 +24,25 @@ tags:
 
 ## Summary
 
-腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch21]]
 - [[sources/med3-book4-ch22]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- (D) 對於肥胖相關的黑色棘皮症,減重對於皮膚病灶沒有改善作用 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細 胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發 於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗 性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、 雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一 種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症 最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或 治療相關之癌症。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- C. Paraneoplastic pemphigus 60 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- # C. Paraneoplastic pemphigus Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- 3. Leser-Trélat Sign:假使身上短時間大量出現脂漏性角化症時,須懷疑體內是否有癌症,特別是胃癌、肺癌、與大腸癌,為 paraneoplastic syndrome 的一種表現。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 1. 依照腫瘤位置、疾病程度或是否有副腫瘤症候群(paraneoplastic syndrome)表現有關。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 5. 副腫瘤症候群 (paraneoplastic syndrome): - (1) Horner syndrome: 腫瘤在 superior cervical ganglion,造成病人出現單側眼瞼下垂、瞳孔縮小、無汗。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - #### 丁、腫瘤旁症候群 (Paraneoplastic Syndrome) Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].

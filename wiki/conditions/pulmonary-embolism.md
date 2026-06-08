@@ -17,6 +17,7 @@ sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book2-ch03]]"
 aliases:
   - 'Pulmonary embolism (肺栓塞)'
   - 'Pulmonary embolism'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med3-book4-ch27]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book2-ch03]]
 
 ## Key Details From Sources
 
+- (4) 紅斑型天疱瘡 (Pemphigus erythematosus, PE): - a. 也是少見的一種亞型,只發生在臉上,形成粗紅、有點脫屑的紅斑,位置就如同紅斑性狼瘡的蝴蝶斑一樣。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - III. 新生兒評估(Newborn PE) 454 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - # III. 新生兒評估 (Newborn PE) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 3. 併發症: - (1) 感染: - a. 小於五歲的兒童,常見 Streptococcus pneumoniae。 - b. Salmonella 或是 S. aureus 造成的骨髓炎。 - c. 感染 parvovirus B19 與 aplastic crisis 有關。 - (2) 栓塞: - a. 急性胸腔症候群 (acute chest syndrome): 合併 PE 及感染。 - b. 肺高壓 - c. 周邊血管阻塞造成疼痛 - (3) 神經方面疾病: - a. 中風的機率會增加。 - b. 無症狀性腦梗塞 - c. 視網膜病變 Source: [[sources/med4-book1-ch08|辛、血液學]].
@@ -68,7 +71,6 @@ tags:
 - 左心衰竭(36%):最常見。肺炎(22%)、惡性腫瘤(肺癌、乳癌、淋巴癌)(14%)、肺栓塞(11%)、病毒疾病(7%) Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - | (D) | 7. 下列何者最可能引起 transudative pleural effusion ? (A) 肺結核 (tuberculosis) (B) 類肉瘤 (sarcoidosis) (C) 尿毒症 (uremia) (D) 肺栓塞 (pulmonary embolism) | 104(一)專醫三-12 | |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - ...A) 大多數病患狹窄愈嚴重,第一心音(S1)愈弱 (B) opening snap 如果聽得見,是在心收縮期 (C) 感染性心內膜炎在單獨二尖瓣狹窄病患的機率與合併二尖瓣閉鎖不全病患相同 (D) 臨床症狀除運動時呼吸困難外,有時會出現咳血、肺栓塞或肺炎等 | 106(一)專醫三-23 | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (C) 肺栓塞症 (pulmonary embolism) Source: [[sources/med3-book1-ch21|戊、感 染]].
 
 ## Clinical Caveats
 

@@ -33,6 +33,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Pleura (肋膜)'
   - 'Pleura'
@@ -47,7 +48,7 @@ tags:
 
 ## Summary
 
-肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +81,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...nts, | | | | | | | characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coomb Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - | | Image pattern | Distribution | Pleural effusion | |------------|---------------------------------|----------------------------------------|------------------| | Bacteria | Alveolar | Usually unilateral: lobar or segmental | Maybe | | Virus | Hyperinflation Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) 痰液或肋膜積液的培養與格蘭氏染色。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 侵犯胸腔 (thoracic cavity): pleural effusion `empyema and pericarditis ·其中 S. aureus `S. pneumoniae 以及 S. pyogenes 是造成 pleural effusion 或是 empyema 最常見的細菌 。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -100,7 +103,6 @@ tags:
 - (B) 16. 陳太太,48 歲,二年前被發現卵巢癌並經手術切除後即未規則於門 診追蹤,三個月前因腹痛就診,發現卵巢癌復發且合併腹腔多處轉 移,經化化學治療仍無效,最近二週因喘得厲害而住院治療。胸部 X光顯示雙側肺部有多處大小不一的腫瘤且合併雙側肋膜積水,雖 經胸水放液術 (pigtail drainage) 多次, 肋膜積水仍然未見消退, 且陳太太已表明拒絕心肺復甦術或進一步的胸管放置或胸水放液術 的施行。下列何種治療或建議較為適當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (A) 因肋膜積水導致呼吸困難會危及生命,故仍應堅持給予胸管放 置或胸水放液術 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (3) **肋膜、肺侵犯**:最常見間質性肺病(以 NSIP、UIP 居多)、還可能以肋膜肺結節(Pleuropulmonary nodules)表現;若發生在肺塵症(Pneumoconiosis)的病患身上,可見廣泛性的結節纖維化,稱為 Caplan's syndrome。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...--|----------------------------|-----------------------------------|--------| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 
 ## Clinical Caveats
 

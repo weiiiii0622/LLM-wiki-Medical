@@ -24,6 +24,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book2-ch03]]"
 aliases:
   - 'Blood pressure measurement (血壓測量)'
   - 'Blood pressure measurement'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,13 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book2-ch03]]
 
 ## Key Details From Sources
 
+- B. 類天疱瘡 (Bullous pemphigoid, BP) 59 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- # B. 類天疱瘡 (Bullous pemphigoid, BP) Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- 4. 臨床特徵: - (1) 一開始皮膚呈現發紅的紅疹或類似蕁麻疹的病灶,數月後才慢慢出現水泡,與 PV 相比,BP 裂在較深層,故水泡看起來較大,厚而緊繃,較不容易破掉,為 繃緊水泡(tense bullae)。 - (2) Nikolsky sign(-) • - (3) 好發於腋下、腹股溝等皮膚皺摺處,約有 10% 病人會有口腔病灶。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (1) 肺動脈瓣狹窄發生機制仍未十分清楚。一般認為在胚胎發育過程中肺動脈 形成出現問題,導致瓣膜發育不良(dysplasia)。瓣膜可以為 bicuspid 或是 tricuspid,leaflets 之間會有部分融合造成右心出口血流受阻。為了能順利使血 流進入肺循環,右心室收縮勢必增強並且使心室壁增厚。甚至在嚴重病人身上 可以發現右心室收縮壓大於左心室的收縮壓。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 不同程度的 PVS 會有不同的臨床表徵。臨床上一般而言依照經過狹窄瓣膜的壓力梯度(pressure gradient)去分輕中重度。 - a. 輕度 PVS: 壓力梯度介於 10~40 mmHg。 - b. 中度 PVS: 壓力梯度介於 40~60 mmHg。 - c. 重度 PVS: 壓力梯度超過 60 mmHg 或是右心室收縮壓大於左心室收縮壓。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 3. 臨床表現:與狹窄程度有關。 - (1) 高輸出阻力與低心輸出量造成疲憊、活動力不佳、呼吸急促甚至呼吸窘迫。為 了增加心輸出量,則收縮壓力增加、心臟肥大,最後造成心衰竭與相關症狀。 - (2) 若先前未診斷,病童年紀大時可能有胸痛、暈眩甚至昏厥。當出現以上症狀時 代表左心室功能不良。 - (3)極嚴重狹窄在新生兒可能就出現症狀。有嚴重狹窄的嬰兒在出生一個月時表現心輸出不足、呼吸窘迫、甚至發紺、心衰竭。此時又稱為 critical aortic Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -80,9 +85,6 @@ tags:
 - (3) Chvostek's sign:輕敲耳前的顏面神經會引起顏面肌肉的抽動;Trousseau's sign:以血壓計之 Cuff 將壓力打到高於收縮壓 3 分鐘後,可見手腕痙攣(spasm)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (D) 1. 一位 40 歲女性,因車禍接受頭部電腦斷層攝影檢查,發現腦下垂體 108(一)專 部位有空蝶鞍 (empty sella) 現象。她目前月經正常,飯前血糖 90 醫三-1 mg/dL, PR 80/min, BP 130/80 mmHg, free T4 1.2 ng/dL (normal range $0.8\sim1.8 \text{ ng/dL}$ ) , TSH $1.0\mu\text{IU/mL}$ (normal range $0.1\sim2.0 \mu\text{IU/mL}$ ) , early morning cortisol 15 $\mu$ g/dL(normal range 8 $\sim$ 18 $\mu$ g/d Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - (B) 2. 一位 40 歲男性過去無任何病史,最近因為極度疲倦、嗜睡、食慾減少來就醫。病患回想這些症狀是在三個月前一次嚴重頭痛後發生。檢查發現飯前血糖 90 mg/dL,PR 70/min,BP 100/60 mmHg,free T4 0.5 ng/dL(normal range 0.8~1.8 ng/dL),TSH 1.0 μIU/mL(normal range 0.1~2.0 μIU/mL),early morning cortisol 2.0 μg/dL(normal range 9.0 ~ 15 μg/dL),體毛、鬍鬚減少。電腦斷層攝影發現蝶鞍(sella)部位有一 3 公分不均質腫塊,壓迫腦下垂體組織。最可能的診斷 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...1999、WHO 1999、AACE 2003。 - (2) NCEP ATPIII 準則:5個符合3個以上[口訣:腹部肥胖加3高,血脂有兩項] - a. 腹部肥胖:腰圍>90(男)/80(女)cm或腰/臀>0.9。 - b. 高血壓 (BP > 130/85 mmHg 或已服用降壓藥),高血糖 (空腹血糖 > 100 mg/dL 或已服用降血糖藥),高血脂 (TG > 150 mg/dL、HDL dL | 100~125 mg/dL | ≧ 126 mg/dL | | 兩小時葡萄糖耐受時驗 (OGTT) | 正常人 | Impaired glucose tolerance (IGT)葡萄糖耐受失調 | 糖尿病 | | (喝下75g葡萄糖水之後兩小時) | dL | 140 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- ...ension (B) primary aldosteronism | 四 — 71 | | | (C) pheochromocytoma (D) coarctation of aorta | | | | 【詳解】Five Ps: high blood pressure, pain (headache or chest pain), | | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- (2) 食慾變差、但體重增加(因體內水滯留)、臉及四肢水腫(Myxedema)、周邊阻力增加→舒張壓上升 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 
 ## Clinical Caveats
 

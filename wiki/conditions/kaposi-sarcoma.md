@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Kaposi sarcoma (卡波西肉瘤)'
   - 'Kaposi sarcoma'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-HHV-8 相關腫瘤，HIV/AIDS 免疫低下者較常見。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HHV-8 相關腫瘤，HIV/AIDS 免疫低下者較常見。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ HHV-8 相關腫瘤，HIV/AIDS 免疫低下者較常見。 本頁已整合至 `�
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch09]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- M. 卡波西氏肉瘤(Kaposi's sarcoma) 153 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- (C) 卡波西氏肉瘤(Kaposi's sarcoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- # M. 卡波西氏肉瘤 (Kaposi's sarcoma, KS) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- (D) 卡波希氏肉瘤(Kaposi's sarcoma) Source: [[sources/med4-book2-ch11|子、其 他]].
 - (C) 3. 一位 8 個多月大的男嬰,因左前胸藍色腫瘤來診,病理顯示為類 卡波西血管內皮細胞瘤(Kaposiform hemangioendothelioma), 白血球數目(WBC count)為 8,700/mm³,血紅素濃度(Hb)為 10.5 g/dL,血小板(platelets)數目為 32,000/mm³,其他理學檢查無異常;數天後男嬰身上發現出血點,且血小板(platelets)數目降為 12,000/mm³,前凝血酵素時間(prothrombin time)及 活化凝血酵素時間(partial th Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...| 其他病毒 | EBV | 鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma)、Burkitt's lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].

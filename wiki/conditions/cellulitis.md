@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Cellulitis (蜂窩性組織炎)'
   - 'Cellulitis'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- 【詳解】(A)Kawasaki disease 主要特徵為發燒超過五天、結膜炎、紅疹、草莓舌,按題意描述此病患為傷口感染後所引起,加上未發燒超過五天,故不像 Kawasaki disease。(D)Vibrio vulnificus,海洋弧菌,會有嘔吐、腹瀉、腹痛、急性蜂窩性組織炎和水泡性皮膚炎等病狀,最重要的是需有海水接觸史或是海產食物史。(B)(C)藉由題意描述和刪去法,病人症狀比較像是 scarlet fever,由於病人為傷口感染化膿後引發之 scarlet fever,故應為表皮的 S. aureus 感染所造成,Group A Streptococcus 多為飛沫傳染後喉嚨感染導致 scarlet fever。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (D) 1. 關於皮膚與軟組織感染 skin and soft tissue infections (SSTIs) 之 - (A) impetigo 與 necrotizing fascitis 之致病菌可能是 Staphylococcus aureus - (B) methicillin-resistant S. aureus (MRSA) 在 SSTI 的盛行率逐漸增加 - (C) MRSA 在異位性皮膚炎患者形成菌落的機會高於正常人 - (D) MRSA 引起的皮膚與軟組織感染,多發生在醫療機構工作人 員或住院病患,很少發生於一般社區正常人 tinea cruris Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- ...織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. First trimester 中感染病毒有機會造成 fetal varicella syndrome: limb hypoplasia、muscular atrophy、skin scarring、cortical atrophy、microcephaly、cataract formation、rudimentary digits。 - ii. 生產前四天內感染水痘,則有15%的 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (D) 蜂窩性組織炎(cellulitis) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (2) 從頭到腳,查六項: CNS 感染、管路感染、感染性心內膜炎、褥瘡、軟組織感染(cellulitis, carbuncle, furuncle)、骨髓炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 2. 感染的淋巴結在觸診時病人會有壓痛感(tender),外觀上會有 erythema but without cellulitis。大小通常在 $1\sim5$ cm,通常見於腋下、頸部以及鎖骨處,可維持 $1\sim2$ 個月 之久。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 特殊,慢性,或反覆的感染。例如: - (1) ≥ 1 次全身性的感染(sepsis, meningitis)。 - (2) 一年內≥ 2 次嚴重的呼吸道或軟組織細菌感染 (cellulitis, draining otitis media, pneumonia, lymphadenitis)。 - (3) 特殊部位的嚴重感染(liver, brain abscess…)。 - (4) 特殊病原菌的感染(Aspergillus, Nocardia…)。 - (5) 常見病原菌感染但異常的嚴重。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

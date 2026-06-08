@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Candidiasis (念珠菌感染)'
   - 'Candidiasis'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,16 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- (B) candidal intertrigo Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (D) 3. 承上題,這位患者皮膚病的致病菌為: - (A) Trichophyton rubrum - (B) Malassezia furfur - (C) Candida albicans - (D) Corynebacterium minutissimum Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- b. 內服療法: 適用於頭癬及甲癬,或局部療法效果不佳、病灶廣泛之慢性皮癬患者。 - (a) Terbinafine (療黴舒):屬殺黴菌藥物,治療皮黴菌約需 2~4 週,手指甲 癬需 6 週,而腳趾甲癬約需 12 週。治癒率為 80~90%,但對汗斑及念珠 菌感染無效。 - (b) Itraconazole (適譜諾):由於對肝臟損害少,有取代老藥 Ketoconazole 之趨勢,屬於抑黴菌藥物而非殺黴藥物。但因屬 imidazole 類之廣效製劑,故對汗斑及念珠菌感染亦具療效。 - (c) Griseofulvin(灰黃黴素):只對皮癬菌有效,為傳統口服抗黴菌藥物,只具有抑菌效果,主用於頭癬和灰指甲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 【詳解】從圖一可見嘴唇左半部有塊偏厚的斑塊(indurated plaque),上面有些白色條紋,且可看見有輕微脫屑(箭頭處)。 第一個會想到是 lichen planus 的 Wickham striae,或是 leukoplakia; candidiasis 會再更潰爛更脫屑等表皮變化,psoriasis 的話因為選項 有,且斑塊加上脫屑也是有可能,先不排除。接著看病理部分: Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- Candidiasis: epidermis 會有 spongiotic change(表皮細胞彼此之間像吸水的海綿間隔距離變寬),在 stratum corneum 和 superficial epidermis 可見 neutrophil 匯聚成一小團一小團的 pustulation,加上臨床不太像,故排除。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 持續型氣喘(persistent asthma)的第一線治療,具有抗發炎的作用。高劑量(每天 $\geq$ 1,000 $\mu$ g)及每日使用>4 次較容易出現副作用。最常見的副作用為口腔念珠菌感染(thrush)及聲音沙啞。因此使用完吸入性類固醇要漱口,且使用壓力式定量噴霧器(MDI)者要接輔助艙(spacer)以減少藥物在口腔沉積。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...Escherichia coli | | | adenovirus, | staphylococci, | Serratia,Klebsiella; | | | | enterovirus); | Haemophilus…); | 黴菌如 Candida; | | | | Candida; PCP ; | XLA 病人常見 | Nocardia, Aspergillus | | | | mycobacteria | enterovirus 感染; | | | | | | 寄生蟲 (giardia, | | | | | | cryptosporidia) | | | | 臨床 | 生長發育不良 | 反覆的鼻竇炎或肺 | 皮膚感染 (abscess, | 腦膜炎,關節炎, | | 表現 | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...ion | | | | 故 T 細胞如果少, | (算B細胞數目,正 | deficiency 1 (LAD-1): | | | | ALC 就會低 ) | 常約占 circulating | 缺乏 CD11/CD18 | | | | * Candida skin test | lymphocytes 的 | | | | | (positive 則可排除 | 10%,XLA 病人則 | | | | | T細胞缺陷) | 無B細胞) | | | | | * Flow cytometry | | | | | | (算T細胞數目) | | | | | | * Mitogen test | | | | | | (測 T 細胞功能) | | | | | 常見 | DiGeorge syndrom Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -58,11 +67,6 @@ tags:
 - | 酵母菌( | Yeast) | 黴菌 (Molds) | |---------------------------------------------------|---------------------------------------------------|------------------------------------------------| | 酵母菌型 (Yeast)沒有菌絲,屬單細胞,如隱球菌 (Cryptococcus) | 類酵母菌型 (Yeast-like)有假菌絲,屬單細胞如念珠菌 (Candida) | 黴菌型 (Mold)許多菌絲構成,屬多細胞如麴菌 (Aspergillus) | | | Afr | | Source: [[sources/med3-book3-ch20|子、黴菌學]].
 - \*Cry m., Can e. = Cryptococcal meningitis, Candida esophagitis Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - ## (2) 念珠菌感染 (Candidiasis): Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- b. 若致病菌是 Fluconazole 無效的念珠菌(*C. glabrata, C. krusei*)或對 fluconazole 治療無效,可考慮用 IV Caspofungin 或 Voriconazole。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...n. requiring large dosages of immunosuppressants: | | | | acute and chronic opportunistic infections (e.g., P. carinii, Candida) | | Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- ...tochrome P 450 CYP3A4 抑制劑,會增 加藥物濃度。 (A) 4. 腎臟移植手術一個月之內比較少見的感染為何? 97(一)專 (A) BK virus (polyoma) (B) 泌尿道感染 醫三-29 (C) oral candidiasis (D) herpesvirus 【詳解】 The Most Common Opportunistic Infections in the Renal Transplant Recipient (Reference: Harrison's internal medicine 17th) Peritransplant ( 6 months)Aspergillus · Nocardia · BK virus (polyoma) · Herp Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- ...一)專醫三-65 | | | (B) 檢查 HIV screening test | | | | (C) 照胸部 X 光,抽血做黴菌培養及抗原檢測 | | | | (D) 給 echinocandin 類藥物 | | | | 【詳解】依照 candida meningitis 治療。 | | | (D) | 3. 下列何者不是瘧疾預防性藥物? | 103(二)專 | | | (A) chloroquine | 醫三-62 | | | (B) doxycycline | | | | (C) Malarone (atovaquone/proguanil) | | | | (D) quinine | | | (D) | 4. 下列各項有關弓形蟲感染症(Toxoplasma infection Source: [[sources/med3-book3-ch21|丑、原 蟲]].
-- ...檢測陽性者。 | | | | (二)新生兒以快速檢測法及抗體篩檢檢測呈陽性者。 | | | | 二、流行病學條件:符合下列任一情形之新生兒。 | | | 後天免疫缺 | | 24 小時內 | | 泛元光授献乏症候群 | 感染、隱球菌症、食道念珠菌症等(詳如後天免疫缺乏症候群個案報告 | 21.1.011 | | | 單背面表列,AIDS 之診斷依據)。 | | | (AIDS) | | | | | 二、檢驗條件: | | | | 經醫師診斷為伺機性感染或 AIDS 有關的腫瘤,如:肺囊蟲肺炎、弓形 | | | | 蟲確認為 HIV 感染,且依不同年齡,其 CD4 值或比例為: | | | | (一)年齡滿6歲(含)以上: 一、有相關流行地區旅遊史、病例接觸史、猿猴或致病原暴露史 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

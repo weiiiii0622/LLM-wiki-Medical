@@ -12,6 +12,9 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Polymyositis and dermatomyositis (多發性肌炎與皮肌炎)'
   - 'Polymyositis and dermatomyositis'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,18 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch09]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- # B. 皮肌炎 / 多發性肌炎 (Dermatomyositis/Polymyositis) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 1. 是一種侵犯肌肉為主的自體免疫反應,為全身肌肉或皮膚發炎的全身性結締組織疾病。多發性肌炎主要侵犯肌肉,造成肌肉無力或疼痛。皮肌炎除肌肉外,還侵犯到皮膚,有時會出現獨特的皮膚表徵。目前發病原因尚未清楚,只知為全身性自體免疫疾病的一種,常造成病人四肢近端肌肉無力或疼痛,甚至造成某些病人肢體癱瘓,行動困難。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (1) 多發性肌炎(28%): - a. 主要表現是急性或慢性兩側對稱性近端肌肉無力及疼痛,尤其是上臂、肩胛 肌或大腿肌肉無力。病人常出現上、下樓梯困難、無法舉起手臂梳頭、更衣 困難、無法從座椅上站立起來等症狀;假使侵犯到口咽部或食道的肌肉則會 吞嚥困難,有的則合併有明顯體重減輕之現象。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (B) 皮肌炎 (dermatomyositis) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- 【詳解】(A)病人並未提及用藥史,藥物疹也很少兩側腋下、腹股溝淋巴結腫大。(B)皮肌炎會有近端肌肉無力,皮膚症狀為Gottron sign 和 Helitrop sign,不會全身性紅疹。(C)依照提議描述以及圖片,可判定為 Sezary syndrome。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- (B) 淡紫色紅斑 (heliotrope erythema) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...sion | 免疫疾病: | | | 打完疫苗後造成 | thymoma 機會較 | deficiency),傷口難 | SLE, vasculitis, | | | disseminated BCG | 高;接受活性小兒 | 以癒合 | dermatomyositis, | | | or varicella;嬰兒 | 麻痺疫苗後發生 | | scleroderma, | | | 時期低血鈣造成抽 | paralysis | | glomerulonephritis, | | | 筋(此為 DiGeorge | | | angioedema | | | syndrome 的特色) | | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 5. 幼年型皮肌炎(Juvenile dermatomyositis, JDM) - (1) 幼年型皮肌炎為最常見的發炎性肌炎,以近端肌肉無力與特殊的皮膚紅斑著名。 臨床上每1,000,000人中就有3人罹患此病。女性罹病比男性高一倍(男:女為1:2)好發年紀在4~10歲。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (b) Heliotrope rash: 雙側眼瞼部位出現 blue-violet discoloration (due to photosensitivity), 有時會伴隨著眼眶周圍水腫。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -53,10 +65,6 @@ tags:
 - 4. 診斷: - (1) CK,Lactate,EMG,神經檢查,腦部核磁共振及肌肉切片等的評估可幫助診斷。 - (2) 基因檢查確診。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - D. 皮肌炎 / 多肌炎 (Dermatomyositis/Polymyositis, DM/PM) 41 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - 皮肌炎 (Dermatomyositis, DM): SSc、DM 可能混合出現 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...生。理學檢查發現兩側手指及手背的皮膚硬化及腫脹。 抽血檢查發現 ANA 1:640 nucleolar + centromere pattern, IgG 2185 mg/ml, IgA 375 mg/ml, IgM 134 mg/ml, CK 65 U/L, C3 94 mg/dL, C4 21.5 mg/dL, anti-dsDNA<12 IU/ml, anti-RNP<7.0 IU/ml。這位患者最有可能的診斷是: - (A) Mixed connective tissue disease - (B) Chronic eczema - (C) Systemic lupus erythematosus - (D) Systemic sclerosis Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...-22 | | (B) 18 | . 依流行病學的調查顯示,下列那一種疾病的盛行率(prevalence)最高? (A) 紅斑性狼瘡(SLE) (B) 原發性修格連氏症(primary Sjögren's syndrome) (C) 肌炎:多發性肌炎加上皮肌炎(myositis:polymyositis + dermatomy-ositis) (D) 硬皮症(scleroderma) 【詳解】primary Sjögren's syndrome 的盛行率約 0.5~1%(Harrison, 1990),SLE 的盛行率約 0.015~0.05%(Harrison, 1960),常見的風濕疾病排名:OA > RA(0.8%) > SS(0.5%) > AS > SLE > PsA > Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...neous lupus | Malar rash (Nasolabial sparing), Generalized skin rash | | (Severe) | erythematosus (ACLE) | 手指紅疹 (在關節間、與 Gottron's sign 相反,又稱 | | | | reverse Gottron's sign) | | Subacute | Subacute cutaneous lupus | 似乾癬的脫屑紅斑或環形紅疹 (circular red-rimmed | | | erythematosus (SCLE) | lesions),與 Anti-Ro (SSA) 有關。 | | Chronic | Discoid lupus | 週邊紅腫脫屑,中央 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- (D) 11. 以免疫組織化學染色法檢查發現某一轉移性癌症之細胞為 Cytokeratin 95( 二 ) 專 20 陰性,Cytokeratin 7 陽性 ( CK 20 / CK 7 ),則這癌症可能是源自於: 內 1-27 - (A) 大腸癌 - (B) 胰臟癌 - (C) 膀胱移型上皮癌 - (D) 肺癌 Source: [[sources/med3-book4-ch23|己、其 他]].
 
 ## Clinical Caveats
 

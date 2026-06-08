@@ -22,6 +22,8 @@ sources:
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch11]]"
 aliases:
   - 'Autoimmune hepatitis (自體免疫性肝炎)'
   - 'Autoimmune hepatitis'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,17 @@ tags:
 - [[sources/med3-book4-ch11]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch11]]
 
 ## Key Details From Sources
 
+- | 項目 | 特徵 | |--------------------|------------------------------------------------------| | ANA | 95~99% (+),敏感度 (sensitivity) 高但特異性 (specificity) 低,最 | | | 佳篩檢工具,重複陰性反應可排除 SLE。 | | Anti-ds DNA | 特異性最高,和疾病活動度有關(值越高疾病越活躍),可預測 | | | 腎炎和血管炎。 | | Anti-sm (Anti-U1 | 呈陽性時,大大增加 SLE 的機會,和疾病活動度無關。但對於診 | | RNP) | 斷混合性結締組織病( Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Thrombocytopenia ( < 10 萬 )。 | | | | | | 實驗室檢查 | (10) ANA(+)、(11) Anti-dsDNA(+) 或 Anti-Sm(+) 或 Anti-phospholipid(+) | | | | | Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...linear morphea 常出現在小兒患者 醫四 -42 (B) circumscribed morphea 患者身上並不會出現指端硬化現象, 也不會有食道硬化等內臟器官影響 (C) generalized morphea 患者血中 ANA 可能呈現陽性,但與患 者預後關聯性仍未明 (D) generalized morphea 多數病人會轉變為 systemic sclerosis, 出 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 下列何項檢查最有助於診斷 Wegener's granulomatosis ? 醫四 -42 - (A) anti-histone antibodies - (B) antiproteinase-3 antineutrophil cytoplasmic antibodies ( PR3-ANCA ) - (C) anticardiolipin antibodies - (D) antinuclear antibodies (ANA) Source: [[sources/med4-book2-ch11|子、其 他]].
 - c. 發病時通常白血球及血小板高,血紅素低,且 CRP 及 ESR 高。Oligoarthritis 及 polyarthritis 有 40~85% ANA 會陽性。Rheumatoid factor(RF)可能陰性或 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - g. ANA: Antinuclear Antibody (ANA) 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ..., 及腎臟疾病。 - b. 其他常見實驗室檢查異常:C3, C4 低(和 disease activity 有關,嚴重時特別低); ESR, CRP 高;Hypergammaglobulinemia。 - c. 自體免疫抗體: - (a) ANA: 是很好的 screening tool, 但並非 SLE 特有。 - (b) Anti-dsDNA: 70~80%SLE 會出現,對 SLE 較有特異性,且和疾病活性 (disease activity)有關,反映紅斑狼瘡的嚴重程度。 - (c) Anti-Sm: 只有 10~30%SLE 會出現,但對全身性紅斑狼瘡具有專一性。 和 disease activity 無關。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -73,12 +83,6 @@ tags:
 - ...件之一?in IgM antibody 呈中度陽性反應週,因子癇症(eclampsia)造成早產 | 99(二)專醫三-39 | | (C) | 21. | 病活性(disease activity)? (A) high titer of ANA (B) high levels of C3 and C4 (C) high titer of anti-dsDNA ant (D) high level of C-reactive prot | | 99(一)專醫三-27 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - A. 抗核抗體 (Anti-nuclear antibody, ANA) 30 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - #### A. 抗核抗體 (Anti-nuclear antibody, ANA) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ANA 是風濕免疫科的基本分數,一定要記得很熟,基本的學理也要有概念。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (2) AS 病人有 90%HLA-B27(+),但 RF(-)、Anti-CCP(-)、ANA(-)。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...痛已一個多月。最近半年來時常睡至下半夜因下背痠痛而醒來。上星期突然眼痛,視力模糊,被眼科醫師診斷為葡萄膜炎(uveitis)。請問下列那一種檢查對診斷最有幫助? (A) 骨盆腔 X 光 (B) 右膝關節 X 光 (C) 抽血檢查 RF 及 ANA (D) 右膝關節液的檢查 | 104(一)專醫三-8 | | (#) | 8. 有關風濕免疫疾病合併眼病變,下列何種組合最正確? (A) 類風濕性關節炎合併葡萄膜炎(uveitis)及全身性紅斑性狼瘡(SLE)合併眼視網膜病變 (B) 類風濕性關節炎合併鞏膜炎(scleritis)及原發性膽道硬化症合併乾燥症(Sjögren's syndrome) (C) 僵直性脊椎炎合併後房葡萄膜炎(posterior uveitis)及 SLE Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...療 | | | | →若已達腎病症候群 ( > 3 克 ): 類固醇 +ACEI 控制蛋白尿 | | | Systemic | Lupus nephritis( 狼瘡腎炎 ) 請參考 AIR 部分 | 下降 | | disease | → ANA (+)、Anti-dsDNA (+)、C3 下降 | | | | Cryoglobulinemia (冷凝球蛋白血症) | 下降 | | | → Cryoprecipitate (+)、C3 下降、Anti-HCV Ab (+) | | | | Henoch-schönlein purpura (HSP) | 正常 | | | → IgA nephropathy+systemic vasculitis (腹痛)、C3 正常 | | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...sts 2~4。全血球數檢查: Hb 10.6 g/dL、WBC 4,600/μL、platelets 120,000/μL;血液生化檢查: BUN 35 mg/dL、肌酸酐 1.8 mg/dL。下列那個處置是最適當的? (A) 檢查血清 ANA, C3 濃度,並安排腎臟切片檢查 (B) 安排胃鏡檢查 (C) 給予輸血 (D) 尿液細菌培養,並給予抗生素兩週 (B) 8. 腎病症候群 (Nephrotic Syndrome) 和下列何種癌症最有關聯? 101(一)專 (B) 何杰金氏淋巴癌 醫三-36 (A) 腎臟細胞癌 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...pylobacter | C. jejuni | 微須氧 | | | | | 菌 | 幽門螺旋桿菌 | Helicobacter | H. pylori | 1成須羊 | | | | | tiel - | | Estarabastaria ana | Escherichia, Klebsiella, | 兼性厭氧 | | | 桿 | | 腸內菌 * | | Enterobacteriaceae | Salmonella, Shigella | 末 土 八 羊 | | | 菌 | | 類相 | 早菌 | Bacteroid | B. fragilis | 絕對厭氧 | | | | | 嗜血桿菌呼吸道桿菌 博得氏菌 | | Haemophilus | H. influenza, H Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

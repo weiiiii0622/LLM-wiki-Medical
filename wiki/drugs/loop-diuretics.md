@@ -32,6 +32,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Loop diuretics (亨利氏環利尿劑)'
   - 'Loop diuretics'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dyes, benzoates, salicylates)、核桃、巧克力、菇、筍。 - (b) 藥物: 抗生素(Penicillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (B) 8. 關於兒童急性鏈球菌感染後腎臟發炎(acute poststreptococcal 107(-)專 glomerulonephritis)的治療,下列敘述何者正確? 醫四-22 - (A) 由於為鏈球菌感染所引起的,因此給與適當的抗生素治療可以縮短病程 - (B) 高血壓的治療包括給與鈣離子抑制劑(calcium channel antagonists)或利尿劑(diuretics) - (C) 限制鈉離子的攝取,主要是針對慢性腎臟病的預防 - (D) 類固醇為首選的治療藥物 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (B) 利尿劑有可能會增加血栓併發症(thromboembolic complication)的可能性 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】除未作答者不給分外,其餘均給分。依題目敘述,病人沒有血尿但出現嚴重的蛋白尿,同時白蛋白過低,故懷疑nephrotic syndrome。利尿劑使用時機為嚴重水腫病人,因為使用利尿劑會使血管內容積減少進而增加血栓風險。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -98,7 +101,6 @@ tags:
 - A. 低血鈉: (血鈉濃度 40 mmol/L;尿液的渗透度> 100 mOsm/kgH 2 O | | | 血液 | 血液被稀釋 | 血中渗透壓 ( 20 mmol/L): 利尿劑、Salt wasting nephropathy、Hypoaldosteronism。 - (b) 腎外流失鈉離子 (UNa 8~12 mEq/day)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...164/98 mmHg,不規則心跳部有 III/VI 之全收縮期雜音及 Sq/L,K + : 4.5 mEq/L,CI - : 92 mEq/由再驗其尿中 Na + 濃度以釐清病因立即給予靜脈滴注 3% saline 以知立即給予靜脈注射 furosemide | 3 奔馬音,抽血檢查 Na * : 120L。下列何種處置最不適當? | 99(二)專醫三-11 | | (C) | 口朋發巧(A)(B) | 歲女性,住院時血鈉為 140 mEq/I服瀉劑及灌腸,於清晨突發意識不見血鈉 117 mEq/L,則下列敘述何應給予鹽片治療並限水應嚴密監控血清鈉離子濃度,mEq/L,以避免滲透壓去髓鞘syndrome)應快速給予高滲透度食鹽水(hy狀改善 | 清及癲癇發作,其血清學檢查者正確?者正確?每 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...顯的濕囉音,頸靜脈怒張。這次入院檢查 BUN 60 mg/dL,creatinine 2.5 mg/dL,一個月前 BUN 34 mg/dL,creatinine 1.2 mg/dL。下列敘述何者最不正確? (A) 病人的體液過多,必須使用利尿劑增加排尿量 (B) 病人的腎功能惡化可能是腎後(post-renal)因素導致,應置放導尿管解除可能的尿路阻塞 (C) 病人的腎功能惡化可能是心臟衰竭導致,應仔細評估心臟功能(D) 病人的腎功能惡化可能是藥物使用不當所致,應詳問用藥紀錄 | 99(一)專醫三-8 | | (A) 23 | . 一位 69 歲糖尿病病人,其血清肌酸酐(creatinine)為 2.3 mg/dL,門診醫師最近加了一項降血壓藥,2 週後抽血,肌酸酐上升至 4 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

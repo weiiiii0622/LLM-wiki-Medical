@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Wiskott-Aldrich syndrome (Wiskott-Aldrich 症候群)'
   - 'Wiskott-Aldrich syndrome'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-X-linked 疾病，典型為 eczema、thrombocytopenia 與 recurrent infections。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+X-linked 疾病，典型為 eczema、thrombocytopenia 與 recurrent infections。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- 【詳解】(B) 如合併 thrombocytopenia 以及免疫功能異常,需懷疑為 Wiskott-Aldrich syndrome;(C) 嬰兒脂漏性皮膚炎好發臉部及頭皮,需與異位性皮膚炎做鑑別診斷;(D) 0.03% tacrolimus 和 1% pimecrolimus 皆核准用於大於兩歲之孩童。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (A) Wiskott-Aldrich syndrome Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- 【詳解】Wiskott-Aldrich Syndrome 是一種性聯隱性遺傳的疾病,患者多為男性,主要臨床症狀有血小板低下且形狀變小、免疫功能異常(中耳炎、肺炎、腦膜炎)、以及濕疹(佔75%的患者,且容易對過敏原產生反應而併發氣喘等症狀)。治療以症狀治療為主,如需根本治療則需骨髓移植。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (B) 1. 下列何者不屬於先天性血小板缺乏(congenital thrombocytopenia) 106(-)專的疾病? - (A) Wiskott-Aldrich syndrome - (B) neonatal alloimmune thrombocytopenic purpura - (C) amegakaryocytic thrombocytopenia - (D) Fanconi anemia Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...bocytopenic purpura 乃因母體把胎兒的血小板視為外來物(因母體血小板表面沒有同種抗原 alloantigen)產生抗體而攻擊胎兒的血小板。病人出生後為了預防顱內出血,治療方式為輸血小板預防出血,有時也會使用IVIG。(A)Wiskott-Aldrich syndrome 為性聯遺傳隱性疾病,WAS gene mutation(Xp11.22-23)。臨床上病人會出現 pancytopenia。(C) amegakaryocytic thrombocytopenia 多為先天性,血液學檢查多呈現 thrombocytopenia,但是病人的血紅素與白血球有可能正常。(D) Fanconi anemia 病人因骨髓功能失能(marrowfailure),因此臨床上會依序出現 thromb Source: [[sources/med4-book1-ch08|辛、血液學]].
 - \*補充:T cell, B cell 都有缺陷的疾病:Severe combined immunodeficiency (SCID), Wiskott-Aldrich syndrome Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

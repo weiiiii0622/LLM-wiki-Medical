@@ -8,6 +8,8 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch09]]"
 aliases:
   - 'Neonatal herpes simplex infection (新生兒單純皰疹感染)'
   - 'Neonatal herpes simplex infection'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-新生兒 HSV 可表現為 skin-eye-mouth disease、CNS disease 或 disseminated disease。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+新生兒 HSV 可表現為 skin-eye-mouth disease、CNS disease 或 disseminated disease。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch09]]
 
 ## Key Details From Sources
 
+- ...亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated acantholytic epidermal cells,為受病毒感染之 keratinocytes,於HSV (herpes simplex virus) 感染造成之水疱也可看見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- # 5. 單純性疱疹 (Herpes simplex virus, HSV): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (1) 為接觸感染,分為兩型 HSV-1 侵犯口唇黏膜和皮膚為主, HSV-2 侵犯生殖器官 為主,但也有可能互換位置。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) human herpes simplex virus type 2 (HSV-2) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 2. 經由血液循環侵犯遠處的器官:較少見,但會造成 meningitis、encephalitis、acute disseminated encephalomyelitis(ADEM)、transverse myelitis、cerebellar ataxia、endocarditis、suppurative arthritis and osteomyelitis 這些併發症。Pneumococcal or *H. influenzae* type b infection 是造成遠端器官侵犯常見的病原體。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - #### A. 分為兩種: HSV 1 (HHV-1) 與 HSV 2 (HHV-2) Source: [[sources/med4-book1-ch04|丁、感染科學]].

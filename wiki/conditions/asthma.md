@@ -24,6 +24,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch05]]"
 aliases:
   - 'Asthma (氣喘)'
   - 'Asthma'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch05]]
 
 ## Key Details From Sources
 
+- 3. 異位性皮膚炎患者多具有「異位性體質」,也就是同時擁有過敏性鼻炎和氣喘,大 多有家族史。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- 【詳解】Wiskott-Aldrich Syndrome 是一種性聯隱性遺傳的疾病,患者多為男性,主要臨床症狀有血小板低下且形狀變小、免疫功能異常(中耳炎、肺炎、腦膜炎)、以及濕疹(佔75%的患者,且容易對過敏原產生反應而併發氣喘等症狀)。治療以症狀治療為主,如需根本治療則需骨髓移植。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (A) 48. 一位 12 歲男童,自2歲後即經常為皮膚病困擾,全身皮膚乾癢 99(二)專 (如圖 A),四肢出現如圖 B的苔癬樣病變(lichenification), 醫四 -37 患者也有氣喘的病史,其父親則有過敏性鼻炎。該病患最可能 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 1. 致病機轉:氣喘致病機轉很複雜,致病機轉可有好幾種,但仍以過敏機轉為常見大宗,因此以下機轉介紹就以過敏機轉為主:呼吸道過度敏感、慢性發炎、造成呼吸道的收縮與阻塞。當過敏原(空氣汙染物、塵螨或是病毒)與呼吸道表皮細胞接觸時,表皮細胞構成的物理障蔽發生改變,造成原先障壁結構鬆散,因此過敏原容易通過表皮障壁結構與在表皮障蔽下的樹突細胞(dendric cells)結合。與過敏原相結合的樹突細胞變成抗原呈現細胞刺激 Th0 naïve T cells 使其分化為 Th2 cells。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...ate lymphoid cells。Type 2 innate lymphoid cells 也會分泌 IL-4、IL-5 以及 IL-13,除了 刺激 eosinophil 製造 IgE 外,也會促進 Th2 cells 的分化。因此,氣喘發生機轉跟過 去觀念不一樣的地方在於支氣管表皮細胞不僅只限於物理障蔽而已,表皮細胞也參 與了一系列 cytokines 的表現。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 依照 airway inflammation phenotype,可將 asthma 分類以下型式: Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -80,9 +85,6 @@ tags:
 - (C) 5. 一位 28 歲女性因氣喘控制不良,長期服用口服類固醇,而產生體重增加及情緒失調,若繼續下去,也可能造成股骨頭缺血性壞死(avascular necrosis)。下列有關病情告知的敘述,何者最正確? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (A) 擔心告知後,會讓病人害怕而停止服藥造成氣喘惡化,故不應 告知 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (B) 為避免類固醇副作用的產生,不論氣喘控制與否,建議病人減少用量 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...c syndrome r/o Minimal change disease (MCD),最後當然需要腎臟切片來證實病患是由 MCD 造成的 Nephrotic syndrome。 - b. 例如病人來急診,主訴這幾個禮拜水腫、血壓高、咳血、氣喘發作,小便驗起來有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9,無糖尿病、高血壓,我們可懷疑為 ESRD due to CGN。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- | 疾病 | 腎臟 | 肺部 | 肉芽腫 | 氣喘 | ANCA 類型 | ANCA(+) | |--------------------------|--------|-----------|-----------|---------|-------------------|---------| | Wegener's granulomatosis | 80% | 90% | + | - | c-ANCA (anti-PR3) | 90% | | Microscopic polyan Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (B) 1. 下列那些藥物可能會加重逆流性食道炎(reflux esophagitis)? 105(ー)専 ①降血脂藥(HMG-CoA reductase inhibitor) ②高血壓用藥(calcium channel blocker) ③氣喘用藥(theophylline) ④抗過敏薬物(antihistamine) - (A) (1)(2)(3) - (B) 僅②③ - (C) (3)(4) - (D) (1)(2)(4) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

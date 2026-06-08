@@ -27,6 +27,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Esophagus (食道)'
   - 'Esophagus'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,15 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- (1) 多發性肌炎(28%): - a. 主要表現是急性或慢性兩側對稱性近端肌肉無力及疼痛,尤其是上臂、肩胛 肌或大腿肌肉無力。病人常出現上、下樓梯困難、無法舉起手臂梳頭、更衣 困難、無法從座椅上站立起來等症狀;假使侵犯到口咽部或食道的肌肉則會 吞嚥困難,有的則合併有明顯體重減輕之現象。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (5) 食道及腸道的纖維化會造成吞嚥困難及吸收不良。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...列何者錯誤? 106(二)專 (A) 沿著 Blaschko's line 表現的 linear morphea 常出現在小兒患者 醫四 -42 (B) circumscribed morphea 患者身上並不會出現指端硬化現象, 也不會有食道硬化等內臟器官影響 (C) generalized morphea 患者血中 ANA 可能呈現陽性,但與患 者預後關聯性仍未明 (D) generalized morphea 多數病人會轉變為 systemic sclerosis, 出 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 2. 此外,PJ 患者罹患癌症的機率也會增加,發生機率依序為小腸、胃、胰臟、大腸、 食道、卵巢或乳癌等。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - IV. 食道(Esophagus) 64 - A. 先天性食道閉鎖與食道氣管瘻管 64 - B. 裂孔疝氣 67 - C. 胃食道逆流疾病 67 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - # IV. 食道 (Esophagus) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - # A. 先天性食道閉鎖與食道氣管瘻管 (Esophageal atresia and tracheoesophageal fistula) Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -85,10 +93,6 @@ tags:
 - ...drome,常合併 **Anti-centromere(+)**,包含五種表現:Calcinosis cutis(皮下鈣化)、Raynaud's phenomenon(皮膚遇冷時會白→紫→紅)、Esophageal dysmotility(食道下 1/3 無法活動)、Sclerodactyly(指硬化)、Telangiectasis(微血管擴張,壓病灶處會變白)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (4) 腸胃道:好犯食道下 2/3,肌肉纖維化導致胃酸逆流等。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - | 病因 | 腫 瘤 | |--------------------------|-----------------------------| | PTHrP | 麟狀細胞癌(肺癌、頭頸部、食道、皮膚); | | | 乳癌、泌尿系統癌症 | | 1,25 (OH) 2 D | 淋巴瘤 | | osteolytic cytokir | nes, inflammatory mediators | Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- ...B and C, syphilis, malaria, schistosomiasis, leprosy, filariasis | | | | Cancer | Breast, colon, lung, stomach, kidney, esophagus, neuroblastoma | | | | Drugs | gold, mercury, penicillamine, nonsteroidal anti-inflammatory agents, probenecid | | | | A | SLE, RA, primary biliary cirrhosis, dermatitis herpetiformis, | | | | Autoimmune dz. | bullous p Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- a. 為 Triazole 類,最大特點為可過 BBB,用於治療全身感染的「球黴菌型」 (Coccidioidal)黴菌:念珠菌、隱球菌;可治療念珠菌血症(Candidemia)、念 珠菌食道炎等;而隱球菌(Cryptococcal)腦膜炎須先用 Amphotericin B 引導治療數週,再用 Fluconazole 維持治療。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- ...篩檢檢測陽性者。 | | | | (二)新生兒以快速檢測法及抗體篩檢檢測呈陽性者。 | | | | 二、流行病學條件:符合下列任一情形之新生兒。 | | | 後天免疫缺 | | 24 小時內 | | 泛元光授献乏症候群 | 感染、隱球菌症、食道念珠菌症等(詳如後天免疫缺乏症候群個案報告 | 21.1.011 | | | 單背面表列,AIDS 之診斷依據)。 | | | (AIDS) | | | | | 二、檢驗條件: | | | | 經醫師診斷為伺機性感染或 AIDS 有關的腫瘤,如:肺囊蟲肺炎、弓形 | | | | 蟲確認為 HIV 感染,且依不同年齡,其 CD4 值或比例為: | | | | (一)年齡滿6歲(含)以上: 一、有相關流行地區旅遊史、病例接觸史、猿猴或致病原 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

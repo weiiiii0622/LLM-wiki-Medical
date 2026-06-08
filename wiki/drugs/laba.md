@@ -19,6 +19,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - \* 針對使用低劑量 budesonide/formoterol 或低劑量 beclomethasone/formoterol 作為維持 / 緩解治療的病人,可選擇低劑量 ICS/formoterol 作為緩解型藥物。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 長效吸入性乙二型交感神經興奮劑(Long-acting inhaled β2-agonist, LABA): 為長效型的支氣管擴張劑,作用至少 12 小時,因此適用於夜間症狀明顯及白 天常需使用 SABA 者。須配合吸入性類固醇一同使用,不可單獨使用,因為 LABA 本身無 anti-inflammation 作用,因此單獨使用反而會使氣喘急性發作及治 療失敗的風險增加。此外,文獻指出單獨使用 LABA 會增加 asthma mortality, 因此不建議單獨使用。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) 吸入型長效支氣管擴張劑 (inhaled long-acting β2 agonist ) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -72,7 +75,6 @@ tags:
 - (4) 治療:若病患有症狀或 MRI 看到 Macroadenoma (> 10 mm),則需治療。 - a. 第一線 (藥物治療): 以 Dopamine agonist (Cabergoline 長效、Bromocriptine 短效) 抑制促乳素瘤 (Prolactinoma) - b. 第二線(開刀治療):內科治療無效,考慮內視鏡開刀(Transsphenoidal surgery) - c. 第三線(放射線治療):開刀也失敗,可考慮γ-刀放射線治療(γ-knife radiotherapy) Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - ...L,ALT 85 U/L,肝生檢(biopsy)顯示為第二期(Metavir F2)之肝纖維化。下列敘述何者錯誤?(A) 朱女士應定期接受肝癌篩檢,包括腹部超音波和甲型胎兒蛋白(B) 朱女士可接受抗病毒治療(C)目前 C 型肝炎之標準治療為長效型干擾素(pegylated interferon)合併雷巴威林(ribavirin)和蛋白酵素抑制劑(protease inhibitor)(D) 若能清除 C 型肝炎病毒,可減少肝硬化和肝癌之風險【詳解】(C) 不包含蛋白酵素抑制劑。 | 99(一)專醫三-15 | | (D) 30 | ). 下列何者與脂肪肝(fatty liver)無關? (A) 肥胖症 (B) 糖尿病 (C) C 型肝炎 (D) B 型肝炎 | 98(二)專醫 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - ...日病情時好時壞,但症狀總是存在,且有漸進性活動時喘 (Progressive exertional dyspnea)● 慢性咳嗽咳痰伴隨呼吸困難發作 | | 降階或較輕 | Step2→每天使用低劑量吸入型類固 | Group B→先用一種長效擴張劑 (LABA | | 微病患的維持用藥 | 醇 (ICS)(ICS;氣喘病患不可單用 LABA | or LAMA) | | 起始的維持用藥 | Step 3 →再加長效擴張劑 (LABA)(ICS + LABA) | Group C 持續 AE 者→選用較有證據的長效擴張劑 (LAMA) | | 升階或較嚴 | Step 4→中劑量 ICS+LABA | Group D (注意: GOLD 2019 改版這部分) | | 重病患 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- ICS (inhaled corticosteroid) · LAMA (long-acting muscarinic antagonist) · LABA (long acting beta2-agonist) Source: [[sources/med3-book1-ch15|乙、氣喘]].
 
 ## Clinical Caveats
 

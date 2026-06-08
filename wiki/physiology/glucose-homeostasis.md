@@ -19,6 +19,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch08]]"
 aliases:
   - 'Glucose homeostasis (血糖恆定)'
   - 'Glucose homeostasis'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,14 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch08]]
 
 ## Key Details From Sources
 
+- (A) insulin-resistant diabetes mellitus Source: [[sources/med4-book2-ch11|子、其 他]].
+- (A) 可能與胰島素抗性(insulin resistance)的內分泌疾病有關 Source: [[sources/med4-book2-ch11|子、其 他]].
+- (D) glucagonoma syndrome Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (C) 18. 一位三週大足月順產男嬰,出生體重 3800 公克,因持續發生低血糖而就診,身體檢查未發現任何異常,先前作過的實驗室檢查顯示當其血糖值為 25 mg/dL 時,血漿酮體(ketone bodies)濃度測不到亦無酸血症(acidosis)。下列那一項檢查對此病人診斷的確立,最沒有幫助? - (A) 血清胰島素 (Insulin) 濃度 - (B) 血漿氨 (Ammonia) 濃度 - (C) 左旋-多巴試驗(L-Dopa test) - (D) 升糖素試驗(Glucagon test) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 【詳解】L-Dopa test是用來偵測 growth hormone deficiency用(L-Dopa 可促進 growth hormone 分泌)。(A) 則是可以用來排除 congenital hyperinsulinism。(B) 當病人有中鏈脂肪酸去氫酶缺乏症時,則出現低酮體低血糖。在急性期,血中的氨、尿酸、肝臟轉胺(liver transaminase)以及肌酸磷酸激酶(creatine phosphokinase)常常會上升。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (A) 3. 關於幼兒持續性高胰島素低血糖症(persistent hyperinsulinemic hypoglycemia of infancy)的敘述,下列何者錯誤? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
@@ -70,9 +77,6 @@ tags:
 - 【詳解】(1) 透過 dextrose solution 補 K,由於 glucose 會刺激 Insulin 分泌,而使 K shift 到細胞內導致昇鉀效果較差。(2) potassium citrate 除了矯正低血鉀,也可順便矯正酸中毒。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...------------------|----------|-------------------| | 葡萄糖酸鈣 (Cal. gluconate 1~2 amp) | 幾分之內 | 使細胞膜電位穩定,避免致命心律不整 | | 胰島素 (Insulin 10 U + D50W 2 amp) | 15-30 分鐘 | 短暫作用,使鉀離子進入細胞內 | | 碳酸根離子 (Sod. bicarbonate) | 15-30 分鐘 | 短暫作用,使鉀離子進入細胞內 | | 利尿劑 (Diuretics) | 30 分鐘 | 使體內鉀總量下降 | | β 2 致效劑 (β 2 agonist) | 30-90 分鐘 | 使鉀離子進入細胞內 | | 陽離子交換樹脂 (Kayexalate/Kal Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- 1. 又稱為 Insulin resistance syndrome, 顧名思義和 Insulin resistance 有很大的關係。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 4. 診斷糖尿病後,特別是年輕人,有時難以分辨第 1、第 2 型糖尿病,除可由臨床特徵分辨,也可參考升糖素(Glucagon)刺激試驗,若 (1) 空腹 C peptide \beta-adrenergic agonists , thiazides | | | | | phenytoin, α-inte | erferon, protease inhibitors, clozapine | | | | | F. Infections — congenital rubella, cytomegalovirus, coxsackie | | | | | | G. Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- \*「腎」: Metformin eGFR Saxagliptin (Onglyza®) > Vildagliptin (Galvus®) > Linagliptin (Trajenta®) - a. 藥物機制:食物會刺激腸道分泌腸泌素(Incretin),腸泌素中最重要的就是GLP-1 會刺激胰臟分泌胰島素。而GLP-1 會被的體內 enzyme DPP-4 分解,使用DPP-4 inhibitor可延長 GLP-1 作用。[縮寫:Glucagon like peptide-1 (GLP-1)、Dipeptidyl peptidase-4 (DPP-4)] - b. 優點:副作用少,不易造成低血糖。 - c. 缺點:呼吸道感染、急性胰臟炎可能。另外,Saxagliptin 可能增加 DM 患者心衰竭住院。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 
 ## Clinical Caveats
 

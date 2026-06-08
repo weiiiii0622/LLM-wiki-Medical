@@ -15,6 +15,10 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Alkylating agents (烷化劑)'
   - 'Alkylating agents'
@@ -29,7 +33,7 @@ tags:
 
 ## Summary
 
-與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +48,19 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (2) 免疫抑制劑: chlorambucil、cyclosporine A 和 cyclophosphamide,對於眼鏡病變、 黏膜潰瘍和神經病變都有不錯療效。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...! | | (B) 臉上多有蝴蝶斑(butterfly rash) | | | (C) 血清抗核抗體(antinuclear antibody)為陽性 | | | (D) 應多曬太陽,以強化免疫力 | | | (B) 17. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic | 102(一)專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- c. Cyclophosphamide:這也是一種免疫抑制劑,原本是用來做為癌症的化學治療之用,後來也常用來做為自體免疫疾病的輔助治療或脈衝治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- ...泡時,可判讀為陽性反應【詳解】(A) 是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B) 為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C) 為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D) 為 NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- 【詳解】(A)是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B)為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C)為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D)為NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - (B) 13. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時,下列那一項不是其常見的併發症? Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -59,8 +73,6 @@ tags:
 - (1) 烷化劑 (Alkylating agent): Cyclophosphamide (Endoxan® 愛德星) - a. 作用機制:烷化(Alkylating)DNA、與 DNA 結合,進而抑制 DNA 複製;針對 分化快速細胞皆有作用,效果最強、副作用也最大。 - b. 可能造成骨髓抑制、出血性膀胱炎(Hemorrhagic cystitis)、提前停經(premature ovarian failure)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 4. 治療: (Ref. Harrison p2109 fig 317-1) - (1) 眼乾、口乾給予症狀治療,或服用 Pilocarpine (Salagen)、Cevimeline (Evoxac)。 - (2) 腎小管酸中毒 (RTA) 需給予 Bicarbonate 補充。 - (3) 關節炎給予低劑量類固醇加上 Hydroxychloroquine 或 MTX 治療。 - (4) 血管炎則需給予類固醇加上免疫抑制劑 Cyclophosphamide 治療。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...| 1.30 威女性主訴近半年來口乾眼乾越來越嚴重,即使每大喝很多水也無法改善,眼科醫師經過 Schirme's test 之後確認為乾眼症,轉介至風濕免疫科門診。下列何種處置比較恰當? (A) 直接使用高劑量類固醇治療 (B) 直接使用 Cyclophosphamide 治療 (C) 直接使用 Rituximab 治療 (D) 先抽血檢驗 Anti-SSA/SSB 抗體 | 107(二)專醫三 -30 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (3) 肺臟: - a. deSSc 易合併間質性肺病(ILD),若疾病早期,肺功能持續惡化,可考慮 Cyclophosphamide治療; - b. lcSSc 易合併肺動脈高壓 (PAH),可用 Endothelin-1 R. antagonist (Bosentan)或 Phosphodiesterase 5 inhibiter (Sildenafil) 甚至 prostacyclin pathway agonist 降低肺動脈壓。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (5) 治療: - a. 單用類固醇僅能緩解症狀。 - b. 最有效的療法是口服的 cyclophosphamide 合併口服的 Prednisolone。 - c. 最近有兩篇 RCT 顯示 rituximab (anti-CD20 Ab) 跟 cyclophosphomide 一樣有效。 - d. 若達到 Remission, 改為 MTX 或 Azathioprine 來維持 (Maintain remission)。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 

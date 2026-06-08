@@ -18,6 +18,13 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book2-ch06]]"
 aliases:
   - 'Systemic lupus erythematosus, SLE (全身性紅斑狼瘡)'
   - 'Systemic lupus erythematosus, SLE'
@@ -32,7 +39,7 @@ tags:
 
 ## Summary
 
-多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +57,26 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book2-ch11]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch02]]
+- [[sources/med4-book2-ch09]]
+- [[sources/med4-book2-ch03]]
+- [[sources/med4-book2-ch05]]
+- [[sources/med4-book2-ch06]]
 
 ## Key Details From Sources
 
+- (A) 全身性紅斑性狼瘡(systemic lupus erythematosus) Source: [[sources/med4-book2-ch11|子、其 他]].
+- (C) 大多數患者最終的病情進行 為全身性紅斑性狼瘡 Source: [[sources/med4-book2-ch11|子、其 他]].
+- 【詳解】圖A可見落髮的地方有一塊全白,連毛囊孔都形成疤痕萎縮關閉,圖B下方可見毛囊內部有許多發炎細胞浸潤破壞,已無法再生長新髮,為永久性掉髮,統稱瘢痕性禿髮(scarring alopecia)。許多疾病皆能造成 scarring alopecia,例如物理性傷害(放射線治療、灼傷)、感染(細菌、病毒、黴菌)、化學性傷害(強酸強鹼)、皮膚病(紅斑性狼瘡、硬皮病)、腫瘤(BCC、SCC)等。治療方法為將疤痕處切除掉縫合、植髮手術。 Source: [[sources/med4-book2-ch11|子、其 他]].
+- a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- C. 紅斑性狼瘡 (Lupus erythematosus) (擷取內科學第四冊風濕免疫部分中與皮膚相關內容) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- (1) 皮膚常具有高度光敏感性,陽光曝曬後症狀會加劇,除了嚴重的系統性紅斑 (SLE)外,尚有下列其他亞型: - a. Acute cutaneous lupus erythematous: Malar rash (Butterfly rash)、廣泛性皮膚 丘疹、手指紅疹(在關節間,與 Gottron's sign 相反)。 - b. Subacute cutaneous lupus erythematous: 似 乾 癬 的 脫 屑 紅 斑 (Psoriasiform papulosquamous) 或環型紅疹 (annular),病患體內多含有 Anti-Ro (SSA) (>80%) 和 Anti-La (SSB) (30~50%),容易產下新生兒狼瘡或先天性心臟傳導阻斷的胎兒。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- ...assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 【詳解】(A) 治療首選為 Penicillin G。(B) 類風濕性關節炎、SLE 或其他病毒感染皆會造成 VDRL 偽陽性,故須配合 TPHA(+) 和臨床症狀才可診斷為梅毒。(C) 梅毒螺旋桿菌為螺旋體,一般 Gram stain 無法染上,需以暗視野顯微鏡檢(dark-field microscopy)或直接螢光抗體染色(Direct fluorescent antibody staining)觀察。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (B) 盤狀紅斑性狼瘡(discoid lupus erythematosus) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- 【詳解】此題於 101 年也考過,從左圖外觀來判斷,脂漏性角化症病灶像黑色蠟塊,盤狀紅斑性狼瘡為邊界明顯的紅色斑塊伴有厚屑,剩日光性角化症和基底細胞癌為可能診斷。右圖可見 atypical keratinocytes,局限於表皮層下 1/3,非全層 atypia(如 Bowen's disease),故推判為 (A) 光化性角化病(actinic keratosis)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 1. Systemic lupus erythematosus nephritis\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - E. 紅斑性狼瘡引發的腎絲球腎炎 (Glomerulonephritis associated with systemic lupus erythematosus) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -61,15 +85,6 @@ tags:
 - j. Malar rash 臉部兩頰紅斑,又稱蝴蝶斑。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】有血尿及蛋白尿懷疑有 nephritis,加上關節炎及慢性 systemic 徵兆 (發燒),又是年輕女性,因此首先考慮 SLE,驗 dsDNA 有助診斷。而 systemic inflammation 就有可能造成 pyuria,但為排除泌尿道感染,仍應做小便培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - #### 甲、紅斑性狼瘡 (Systemic lupus erythematosus, SLE) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...|--------------------------|--------------------------------------------------------| | Acute | Acute cutaneous lupus | Malar rash (Nasolabial sparing), Generalized skin rash | | (Severe) | erythematosus (ACLE) | 手指紅疹 (在關節間、與 Gottron's sign 相反,又稱 | | | | reverse Gottron's sign) | | Subacute | Subacute cutaneous lupus | 似乾癬的脫屑紅斑或環形紅疹 (circular red-r Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...----------------------------------------------------| | ANA | 95~99%(+),很 Sensitive,但不 Specific | | | 最佳篩檢工具,重複的陰性反應可排除 SLE | | Anti-ds DNA | 最 Specific,和疾病活動度有關 ( 值愈高疾病愈活躍 ), | | Anti-ds DNA | 可預測腎炎、血管炎 | | Anti-sm | 最 Specific,和疾病活動度無關 | | Anti-Ro (SSA) | 可穿過胎盤,造成胎兒先天性心臟傳導障礙* | | Aliti-Ro (SSA) | 與 Subacute cutaneous lupus erythematosus (S Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...膜炎 | Bilateral, chronic, posterior uveitis | | Reiter's | 結膜炎 | Conjunctivitis | | RA, Vasculitis | 鞏膜炎 | Scleritis | | SLE, Vasculitis | 視神經炎 | Optic neuritis | Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...關節 X 光 (C) 抽血檢查 RF 及 ANA (D) 右膝關節液的檢查 | 104(一)專醫三-8 | | (#) | 8. 有關風濕免疫疾病合併眼病變,下列何種組合最正確? (A) 類風濕性關節炎合併葡萄膜炎(uveitis)及全身性紅斑性狼瘡(SLE)合併眼視網膜病變 (B) 類風濕性關節炎合併鞏膜炎(scleritis)及原發性膽道硬化症合併乾燥症(Sjögren's syndrome) (C) 僵直性脊椎炎合併後房葡萄膜炎(posterior uveitis)及 SLE 合併視網膜病變 (D) 乾癬性關節炎合併鞏膜炎及僵直性脊椎炎合併前房葡萄膜炎(anterior uveitis) 【詳解】本題答(B) 或(D) 或(BD) 者均給分。 | 104(一)專醫三-42 | Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...60(+) speckled,IgG 1,650 mg/dL,IgA 543 mg/dL,IgM 124 mg/dL,RF < 20 IU/ml。這位患者最有可能的診斷是: - (A) rheumatoid arthritis - (B) systemic lupus erythematosus - (C) left side sciatica - (D) ankylosing spondylitis Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...擊 | 細胞毒性:血型不合溶血、新生兒溶血、超急性排斥反應 | | | 細胞膜抗原 | 非細胞毒性:重症肌無力 (Myathenia gravis)、Graves's disease | | Ш | IgG & IgM 和 | 自體的抗原:紅斑性狼瘡 (SLE)、類風濕性關節炎 (RA) | | | 補體 (IC) 沉澱 | 外來的抗原:慢性活動性肝炎、血清病、亞瑟氏反應 | | IV | Th1 | 皮膚結核菌素試驗 (Skin tuberculin test)、接觸性皮膚炎 (Contact dermatitis) | | | Th2 | 慢性氣喘 (Chronic asthma)、慢性鼻炎 (Chronic allergic rhinitis) | | | CTL | 移植排 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- ...erosis (MS) | DR 2 | 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- | (B) | 2. 下列有關自體免疫疾病— HLA 的配對中,何者相關性最高? (A) systemic lupus erythematosus — HLA-A8 (B) rheumatoid arthritis — HLA-DR4 (C) Behçet's disease — HLA-C51 (D) chronic active hepatitis — HLA-B27 | 103(一)專醫三-41 | |-----|--------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- | 分類 | Warm | Cold | |----|---------------------|-------------------------| | 意義 | 於人體溫度時就會攻擊 | 在低溫時才會攻擊 | | 抗體 | IgG 攻擊 RBC 的 Rh 抗原 | IgM 攻擊 RBC 的 C3d, Ii 抗原 | | 病因 | 藥物、感染 (EBV/CMV)、 | 感染 (Mycoplasma) | | | 結締組織病 SLE/RA、HD/CLL | Non-Hodgkin lymphoma | Source: [[sources/med3-book4-ch10|甲、貧血]].
 
 ## Clinical Caveats
 

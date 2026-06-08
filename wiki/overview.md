@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(四)第1冊小兒`
+- Latest ingested textbook: `醫(四)第2冊皮膚`
 - Latest chapter source summaries: 11
-- Total chapter source summaries: 112
-- Total topic-first nodes: 725
+- Total chapter source summaries: 123
+- Total topic-first nodes: 793
 
 ## Graph Shape
 

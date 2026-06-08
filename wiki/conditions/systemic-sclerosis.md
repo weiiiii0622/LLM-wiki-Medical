@@ -8,6 +8,9 @@ sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch05]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Systemic sclerosis (全身性硬化症)'
   - 'Systemic sclerosis'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,17 @@ tags:
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch05]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch04]]
+- [[sources/med4-book2-ch08]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- # D. 硬皮症 (Scleroderma) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 1. 硬皮症為一免疫系統疾病,發病原因不明,主要特徵是結締組織過度增生而沈積在 皮膚、血管,造成皮膚緊繃、硬化及血管內壁細胞異常增生,也可能發生於身體其 他器官,如:肌肉、關節、肺、心或腸胃道等。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- 1. 皮膚的黑色素細胞於胚胎發育過程由神經脊(neural crest)逐漸遷徙到表皮並分化 而成。當此遷徙的過程停滯,導致黑色素細胞停留於真皮,使得真皮層黑色素細胞 增多,為良性增生性疾病。病理下,可於真皮層見到許多富含黑色素、具多觸角的 黑色素細胞,如 common blue nevus 的黑色素細胞數目較多、密度較密、纖維化較 顯著,並形成結節(nodule);反之 Mongolian spot、Ota nevus、Ito nevus 則成斑塊(patch),即胎記。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- (B) systemic sclerosis Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - ...),傷口難 | SLE, vasculitis, | | | disseminated BCG | 高;接受活性小兒 | 以癒合 | dermatomyositis, | | | or varicella;嬰兒 | 麻痺疫苗後發生 | | scleroderma, | | | 時期低血鈣造成抽 | paralysis | | glomerulonephritis, | | | 筋(此為 DiGeorge | | | angioedema | | | syndrome 的特色) | | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 4. Scleroderma 硬皮症:最早的表現通常為雷諾氏現象(Raynaud's phenomenon),即指(趾)尖因小動脈痙攣而出現白→黑→紅的顏色變化,也常伴隨著痛和麻。之後可能逐漸出現手指皮膚緊繃(sclerodactyly),逐漸往身體近端皮膚蔓延。可能影響肺部而造成肺纖維化及肺高壓。自體免疫抗體方面,ANA 常為陽性,而且如果anti-Scl70 或 anti-centromere 陽性則 scleroderma 的可能性很大。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...8 | E. 下列那一個自體抗體在全身性紅斑性狼瘡(systemic lupus erythematosus, SLE)具有診斷上的意義? (A) 抗 Sm 抗體(anti-Smith antibody) (B) 抗 Scl-70 抗體(anti-Scl-70 antibody) (C) 抗 Jo-1 抗體(anti-Jo-1 antibody) (D) 抗 centromere 抗體(anti-centromere antibody) | 103( 二 ) 專醫四 -23 | |--------|-------------------------------------------------------------------------------------------------- Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

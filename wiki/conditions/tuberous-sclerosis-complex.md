@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book2-ch10]]"
 aliases:
   - 'Tuberous sclerosis complex, TSC (結節性硬化症)'
   - 'Tuberous sclerosis complex, TSC'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 �
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book2-ch10]]
 
 ## Key Details From Sources
 
+- C. 結節性硬化症 (Tuberous sclerosis) 169 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
+- # C. 結節性硬化症 (Tuberous sclerosis, TSC) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
+- 1. 為自體顯性遺傳,造成外胚層和間皮細胞的增生,導致患者皮膚、中央神經系統、心、腎等器官發生結節性硬化綜合症(tuberous sclerosis complex, TSC)。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - L. 神經皮膚症候群 218 - A. 神經纖維瘤 (Neurofibromatosis, NF) 218 - B. 結節性硬化症 (Tuberous sclerosis, TS) 220 - C. 史德格-韋伯症候群 (Sturge-Weber disease) 223 - D. 逢希伯一林道症候群 (von Hippel-Lindau disease) 224 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (C) 5. 一位十二歲男童因被診斷背部惡性周圍神經髓鞘瘤(malignant peripheral nerve sheath tumor)來診,經身體檢查發現有超過十處的牛奶咖啡斑(café-au-lait spot)及皮下隆起物。經詢問,父親及姊姊也同樣有牛奶咖啡斑及皮下隆起物。該男童及其父親、姊姊最可能罹患下列那一種疾病? - (A) McCune Albright 症候群 - (B) Beckwith-Wiedemann 症候群 - (C) von Recklinghausen 氏病 - (D) 結節性硬化症(tuberous sclerosis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - # B. 結節性硬化症 (Tuberous sclerosis, TS) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

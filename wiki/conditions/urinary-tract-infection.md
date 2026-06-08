@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book2-ch04]]"
 aliases:
   - 'Urinary tract infection, UTI (泌尿道感染)'
   - 'Urinary tract infection, UTI'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous lesions on the extremitie Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - L. 兒童泌尿道疾病 100 - A. 泌尿道感染 (Urinary tract infections, UTI) 100 - B. 膀胱輸尿管逆流 (Vesicoureteral reflux, VUR) 101 - C. 尿道後瓣膜 (Posterior urethral valve) 103 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - # A. 泌尿道感染 (Urinary tract infections, UTI) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 3~5% 女性與 1% 男孩會有 UTI,好發的高峰在嬰幼兒與學習排尿時期的小朋友。 當第一次得到 UTI 後,60~80% 女童在 18 個月內會再有一次 UTI 發生。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -70,7 +73,6 @@ tags:
 - ## 丁、泌尿道感染 (Urinary Tract Infection, UTI) Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 1. 下泌尿道感染包含 Urethritis、Cystitis、Prostatitis Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 2. 上泌尿道感染包含 Pyelonephritis、Renal abscess Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
-- ...------------------------------|------------------------------------------------------------------------|--| | 移植後1個月內 | UTI (Escherichia coli) | | | related to surgery | IV lines, wound inf. (Staphylococcus aureus, Streptococcus viridans) | | | | Pneumonia (Streptococcus pneumoniae) | | | 移植後 1~6 個月 Viremia (cytomegalovirus, Epstein-Barr vir Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 
 ## Clinical Caveats
 

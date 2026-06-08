@@ -52,14 +52,17 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/hiv-testing|HIV testing (HIV 檢測)]] - HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 count。
 - [[diagnostics/iron-studies|Iron studies (鐵質檢查)]] - Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。
 - [[diagnostics/kidney-biopsy|Kidney biopsy (腎臟切片)]] - 診斷腎絲球、間質與部分腎實質疾病的重要檢查。
+- [[diagnostics/koh-preparation|KOH preparation (KOH 鏡檢)]] - 以 KOH 溶解角質後鏡檢菌絲或酵母型態，常用於皮癬菌與念珠菌感染。
 - [[diagnostics/light-criteria|Light criteria (Light 標準)]] - 區分肋膜積液為漏出液或滲出液。
 - [[diagnostics/lipid-profile|Lipid profile (血脂檢查)]] - 血脂檢查用於 ASCVD 風險與治療目標追蹤。
 - [[diagnostics/liver-function-tests|Liver function tests, LFTs (肝功能檢查)]] - 用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。
 - [[diagnostics/lung-cancer-staging|Lung cancer staging (肺癌分期)]] - 肺癌治療選擇依組織型與分期。
 - [[diagnostics/mammography|Mammography (乳房 X 光攝影)]] - 乳癌篩檢與診斷影像，特別適合脂肪比例較高的乳房偵測鈣化。
 - [[diagnostics/methacholine-provocation-test|Methacholine provocation test (Methacholine 支氣管激發試驗)]] - 疑似氣喘但肺功能正常時可用來評估氣道高反應性。
+- [[diagnostics/nikolsky-sign|Nikolsky sign (Nikolsky 徵象)]] - 輕壓或摩擦使表皮剝離，見於 SSSS、pemphigus vulgaris、TEN 等表皮內或表皮壞死疾病。
 - [[diagnostics/oral-glucose-tolerance-test|Oral glucose tolerance test, OGTT (口服葡萄糖耐受試驗)]] - 用於診斷糖尿病、糖尿病前期與妊娠糖尿病。
 - [[diagnostics/osmolal-gap|Osmolal gap (滲透壓間隙)]] - 實測與計算血漿滲透壓差，可輔助 toxic alcohol 等鑑別。
+- [[diagnostics/patch-test|Patch test (貼布試驗)]] - 延遲型過敏測試，用於 allergic contact dermatitis 過敏原評估。
 - [[diagnostics/peak-expiratory-flow|Peak expiratory flow, PEF (尖峰呼氣流速)]] - 居家或連續追蹤氣喘變異性的簡易工具。
 - [[diagnostics/polysomnography|Polysomnography (多項睡眠檢查)]] - 阻塞性睡眠呼吸中止症的診斷檢查。
 - [[diagnostics/protein-electrophoresis|Protein electrophoresis (蛋白電泳)]] - 偵測 monoclonal protein，支援 myeloma、MGUS、Waldenstrom 等診斷。
@@ -74,7 +77,9 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/thyroid-function-tests|Thyroid function tests (甲狀腺功能檢查)]] - TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。
 - [[diagnostics/tumor-markers|Tumor markers (腫瘤標記)]] - 腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。
 - [[diagnostics/tumor-staging|Tumor staging (腫瘤分期)]] - 腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。
+- [[diagnostics/tzanck-smear|Tzanck smear (Tzanck 抹片)]] - 水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。
 - [[diagnostics/upper-endoscopy|Upper endoscopy, EGD (上消化道內視鏡)]] - 評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。
 - [[diagnostics/urinalysis|Urinalysis (尿液檢查)]] - 蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。
 - [[diagnostics/urine-anion-gap|Urine anion gap (尿液陰離子間隙)]] - 用尿 Na、K、Cl 推估尿 NH4 排泄，協助正常陰離子間隙代謝性酸中毒鑑別。
 - [[diagnostics/viral-hepatitis-serology|Viral hepatitis serology (病毒性肝炎血清學)]] - 用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。
+- [[diagnostics/wood-lamp-examination|Wood lamp examination (伍氏燈檢查)]] - 紫外光輔助辨識 erythrasma、pityriasis versicolor、部分 tinea 與色素異常。

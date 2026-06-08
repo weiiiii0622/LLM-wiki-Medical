@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Glomerulus (腎絲球)'
   - 'Glomerulus'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- d. 併發症:中耳炎、鼻竇炎、頸部淋巴腺炎、風濕熱、腎絲球腎炎。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (3) 血尿可能發生在泌尿道系統從腎絲球到尿道任何一段。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 血尿若合併出現水腫、高血壓或是明顯的蛋白尿,則意味著**腎絲球腎炎**。初步 評估包括 CBC (排除溶血性尿毒症候群)、尿液沉澱分析 (sediment)、喉嚨細 菌培養、鏈球菌酶試驗 (Streptozyme)、補體濃度 (考慮 PIGN)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -68,7 +71,6 @@ tags:
 - a. 若有結石,驗 U/R 的鏡檢可見 RBC;因未經擠壓,所以與腎絲球腎炎(GN)的 Dysmorphic RBC 不同,以茲鑑別。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...-----|------------------| | | mmHg,血液肌酸酐 1.0 mg/目前體重 65 kg,血壓 140/酐 2.0 mg/dL,尿液紅血球 20蛋白質 trace,胸部 X 光有不可能的診斷是:(A) 快速進行性腎絲球腎炎(C) 急性腎小管壞死 | 都沒有吃藥,平常體重 60 kg,血壓 120/80 dL。3 週前開始出現水腫、少尿與咳血。 100 mmHg,血色素 8.0 g/dL,血液肌酸 0~30/HPF,紅血球圓柱體(RBC cast)+,兩側肺泡浸潤(alveolar infiltrates)。最 (B) Goodpasture 氏症候群 (D) 紅斑性狼瘡腎炎 monary renal syndrome 之描述。 | 103(一)專醫三 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 【詳解】(B) 使用 gentamicin 造成近端腎小管壞死 (Acute tubular necrosis, ATN), 導致電解質流失;與腎絲球無關,且不會有嚴重的蛋白尿。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (B) 如果病人是腎小管間質腎炎,通常比腎絲球病變的病人較早出 現貧血 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

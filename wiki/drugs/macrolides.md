@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book2-ch02]]"
 aliases:
   - 'Macrolides (巨環內酯類)'
   - 'Macrolides'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book2-ch02]]
 
 ## Key Details From Sources
 
+- b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - ...: - a. General: Benzathine penicillin: 1.2 million units IM 或 procaine penicillin G 600,000 units IV daily for 10 days. Erythromycin is altered if allergic to penicillin。 - b. Carditis: - (a) Without cardiomegaly: aspirin 80 mg/kg/day, 一天分成四次給藥直到症狀 改善或是 ESR 下降至正常。 - (b) With cardiomegaly: prednisone 1~2 mg/kg/day, 一天分成三次給藥並且持續給藥 2~4 週後,開始給予 aspirin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (D) 19. QT 間距延長症候群(long QT syndrome)是一種先天性心臟離子 通道病變(channelopathy)。下列何種藥物有可能加重其 QT 延 長之變化,應避免?① clarithromycin② amiodarone③ acetaminophen④ haloperidol Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】Macrolide 藥物(erythromycin、clarithromycin、azithromycin)均會引起 prolonged Q-T interval,也會引起其他心律不整。Amiodaron 本身為心臟用藥,除了 prolonged Q-T interval外,也會引起其它心律不整如 atrial fibrillation、atrioventricular block、atrioventricular dissociation、bradyc Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

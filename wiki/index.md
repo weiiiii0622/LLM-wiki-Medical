@@ -20,18 +20,18 @@ Content catalog for this medical LLM wiki. Update this file on every ingest, dur
 
 ## Sources
 
-- [[sources/index]] - Source summaries catalog. Latest ingest: `醫(四)第1冊小兒`.
+- [[sources/index]] - Source summaries catalog. Latest ingest: `醫(四)第2冊皮膚`.
 
 ## Topic Categories
 
-- [[conditions/index|Conditions]] - 461 topic pages
+- [[conditions/index|Conditions]] - 516 topic pages
 - [[drugs/index|Drugs]] - 85 topic pages
-- [[diagnostics/index|Diagnostics]] - 63 topic pages
+- [[diagnostics/index|Diagnostics]] - 68 topic pages
 - [[procedures/index|Procedures]] - 36 topic pages
 - [[guidelines/index|Guidelines]] - 20 topic pages
-- [[physiology/index|Physiology]] - 23 topic pages
-- [[anatomy/index|Anatomy]] - 18 topic pages
-- [[concepts/index|Concepts]] - 19 topic pages
+- [[physiology/index|Physiology]] - 25 topic pages
+- [[anatomy/index|Anatomy]] - 22 topic pages
+- [[concepts/index|Concepts]] - 21 topic pages
 
 ## Questions
 
@@ -39,5 +39,5 @@ Content catalog for this medical LLM wiki. Update this file on every ingest, dur
 
 ## Maintenance Notes
 
-- Latest textbook ingested topic-first on 2026-06-08: `醫(四)第1冊小兒`.
+- Latest textbook ingested topic-first on 2026-06-08: `醫(四)第2冊皮膚`.
 - Topic nodes are organized by medical entity or concept, not chapter title. Source chapter pages remain only as citation anchors.
