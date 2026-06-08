@@ -14,6 +14,8 @@ sources:
   - "[[sources/med3-book1-ch20]]"
   - "[[sources/med3-book1-ch12]]"
   - "[[sources/med3-book1-ch18]]"
+  - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book2-ch25]]"
 aliases:
   - 'Oxygenation and ventilation (氧合與通氣)'
   - 'Oxygenation and ventilation'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med3-book1-ch20]]
 - [[sources/med3-book1-ch12]]
 - [[sources/med3-book1-ch18]]
+- [[sources/med3-book2-ch11]]
+- [[sources/med3-book2-ch25]]
 
 ## Key Details From Sources
 
+- ...-------------------------------| | 心血管 | 減少血管阻力,心跳加速 | 增加血管阻力,心跳減慢 | | 皮膚 | 溫暖、濕 | 冷、乾 | | 呼吸 | 喘 (Dyspnea) | 呼吸抑制 (hypoventilation) | | | | →二氧化碳滯留 (CO 2 retention); 肋膜積水 | | 腸胃道 | 食慾增加,腸蠕動增加 | 食慾降低,腸蠕動減少 | | 肌肉 | 肌腱反射 (DTR) 增加 | 肌腱反射 (DTR) 減少 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ , LDH ↑ , AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- (1) Ranson criteria 大於三項: - a. 住院先檢查 (ASS 是否乳白): Age > 55, Sugar > 200, AST > 250, LDH > 350, WBC > 1 萬 6。 - b. 最初 48 小時內 (快上 BBS 告訴 CHO): Base deficit > 4, BUN 上升 > 5, Sequestration > 6 L, Ca 8 mg/dL, Hct 下降 > 10%, PaO2 60 mmHg。 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 - (C) 3. 一位 56 歲女性,由美國紐約返回臺北的飛機途中發生暈厥(syncope), 下了飛機後因呼吸不順至急診就診,她以前不曾發生類似狀況,平常 亦無特殊疾病,身體檢查發現血壓 120/70 mmHg,心跳 126 次 / 分, 呼吸 28 次 / 分,體溫 37.2℃,呼吸音及心音皆正常,四肢活動自如, 無腫脹現象,在給予 40% 氧氣五分鐘後,動脈氣體分析為 pH=7.48, PaO2=70 mmHg, PaCO2=28 mmHg, O2 saturation=92%, 此時應安排 下列那一項檢查最適當? Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 - (B) 5. 下列有關肺栓塞 (pulmonary embolism) 的診斷敘述,何者錯誤? 105(ニ) 專 (A) 氣促 (dyspnea)、胸痛、咳血等症狀不具特異性 醫ニ-51 - (B) 診斷主要靠肺血管攝影 (pulmonary angiography) - (C) 血清中 d-dimer 的檢測具有高敏感度、低特異性的特點 - (D) 使用核醫通氣-灌注肺掃描檢查,會出現「通氣-灌注不吻合」 (ventilation-perfusion mismatch)的影像 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 - #### D. 診斷:急性發作、氧合異常( $PaO_2/FiO_2 a | Bilateral opacities — not fully explained by effusions, lobar/lung collapse, or nodules | | Origin of edema | Respiratory failure not fully explained by cardiac failure or fluid overload | | | Need o Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].

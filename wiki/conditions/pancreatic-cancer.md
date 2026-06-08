@@ -1,0 +1,54 @@
+---
+type: condition
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book2-ch25]]"
+  - "[[sources/med3-book2-ch08]]"
+  - "[[sources/med3-book2-ch19]]"
+  - "[[sources/med3-book2-ch21]]"
+aliases:
+  - 'Pancreatic cancer (胰臟癌)'
+  - 'Pancreatic cancer'
+  - '胰臟癌'
+tags:
+  - medicine
+  - condition
+  - auto-topic-node
+---
+
+# Pancreatic cancer (胰臟癌)
+
+## Summary
+
+胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med3-book2-ch25]]
+- [[sources/med3-book2-ch08]]
+- [[sources/med3-book2-ch19]]
+- [[sources/med3-book2-ch21]]
+
+## Key Details From Sources
+
+- (A) 1. 關於胰臟癌的敘述,下列何者正確? Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
+- (A) 抽菸是胰臟癌的重要危險因子,約有 20~25%的胰臟癌與抽菸 有關 醫三-21 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
+- (B) 大約有 80% 以上的胰臟癌有遺傳傾向,如 germline mutations: STK11 gene、BRCA2、p16/CDKN2A、PALB2 等 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
+- ...(C) 息肉可能變大或出血,造成腸阻塞或腸套疊 (D) 息肉本身就是一種惡性病變,因此要將所有息肉切除乾淨 【詳解】(D) 息肉本身是良性,但病患一生中有 37~93% 發生癌症,最常見依次是大腸直腸癌、乳癌(腸胃道中最多)、胃癌、小腸癌、胰臟癌。 | 99(一)專醫三-17 | | (D) | 7. 下列關於潰瘍性大腸炎(ulcerative colitis)之敘述,何者錯誤? (A) 患者常解血便 (B) 常侵犯直腸 (C) 主要病灶在腸之黏膜層(mucosa) (D) 好發生在國人 | 98(一)專醫三-21 | | (B) | 8. 下列有關克隆氏病(Crohn's disease)之敘述,何者錯誤? (A) 易併發瘻管(fistula)及腸阻塞 (B) 腸內的病灶為連 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
+- ...看是否有 biliary dilatation。 - a. 若有,則懷疑是 **biliary duct obstruction**,如:CBD stone(Choledo-cholithiasis)、Cholangiocarcinoma、Pancreatic cancer。 - b. 若無,則懷疑是 **Hepatocellular dysfuction**,如:Sepsis、Post OP、PBC、藥物(Sex hormone、Erythromycin)造成 intrahepatic cholestasis。理由是當敗血症等狀況使 肝臟負荷量過大時,因為 excretion 功能最耗能,所以就會最先出現問題,導致 cholestasis,而有 conjugated bilirubin 上升;另外,一些 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
+- (C) 13. 中年男性病人,主訴倦怠、上腹痛、噁心、嘔吐及發燒兩週住院, 血清檢驗 IHA (indirect hemagglutination) 1:512。鑑別診斷中首要 考慮的疾病為: 95(二)專 內 2-19 - (A) 愛滋病 - (B) 胰臟癌 - (C)阿米巴肝膿瘍 - (D) 肝結核 Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

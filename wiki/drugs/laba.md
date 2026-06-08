@@ -10,6 +10,10 @@ sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch21]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch10]]"
+  - "[[sources/med3-book2-ch15]]"
+  - "[[sources/med3-book2-ch17]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -24,7 +28,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +38,19 @@ tags:
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch09]]
 - [[sources/med3-book1-ch21]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch10]]
+- [[sources/med3-book2-ch15]]
+- [[sources/med3-book2-ch17]]
 
 ## Key Details From Sources
 
+- ...|-------------------------------------------------------------------------------------------------------|--| | 降何時的血糖 | 長效 SUMetformin中腸效胰島素:NPH、Glargine | 短效 SU、Glinideα glucodase inhibitorGLP-1 相關 (GLP-1、DPP4 inhibitor)短效胰島素 (RI、Aspart、Lispro) | | | 對體重影響 | 增加體重 | 減輕體重 | | | | 增加胰島素 (Insulin, SU, Glinide)導致水腫 (TZD) | 針劑 GLP-1SGLT2 inhibit Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- 【詳解】2018年糖尿病治療指引建議目標:飯前80~130 mg/dL, 飯後 80~160 mg/dL,目前是 AC sugar 不符標準,考慮加晚上的中 長效胰島素劑量。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- ...~120 mg/dL,飯後血糖為 218~250 mg/dL。以下敘述何者錯誤? (A) 自測空腹血糖值大多數落於治療目標範圍內 (B) HbA1C 值的升高和基礎胰島素(basal insulin)分泌不足有關 (C) 本病人可併用中效或長效胰島素治療 (D) 本病人應將治療重點放在餐後血糖調控上 【詳解】(B) 和飯後胰島素分泌不足有關。 | 97(二)專醫三-55 | |--------|----------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- (2) 愈長效的糖皮質素,糖皮質素效力愈強、鹽皮質素效力愈弱。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
+- (4) 治療:若病患有症狀或 MRI 看到 Macroadenoma (> 10 mm),則需治療。 - a. 第一線 (藥物治療): 以 Dopamine agonist (Cabergoline 長效、Bromocriptine 短效) 抑制促乳素瘤 (Prolactinoma) - b. 第二線(開刀治療):內科治療無效,考慮內視鏡開刀(Transsphenoidal surgery) - c. 第三線(放射線治療):開刀也失敗,可考慮γ-刀放射線治療(γ-knife radiotherapy) Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
+- ...L,ALT 85 U/L,肝生檢(biopsy)顯示為第二期(Metavir F2)之肝纖維化。下列敘述何者錯誤?(A) 朱女士應定期接受肝癌篩檢,包括腹部超音波和甲型胎兒蛋白(B) 朱女士可接受抗病毒治療(C)目前 C 型肝炎之標準治療為長效型干擾素(pegylated interferon)合併雷巴威林(ribavirin)和蛋白酵素抑制劑(protease inhibitor)(D) 若能清除 C 型肝炎病毒,可減少肝硬化和肝癌之風險【詳解】(C) 不包含蛋白酵素抑制劑。 | 99(一)專醫三-15 | | (D) 30 | ). 下列何者與脂肪肝(fatty liver)無關? (A) 肥胖症 (B) 糖尿病 (C) C 型肝炎 (D) B 型肝炎 | 98(二)專醫 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - ...日病情時好時壞,但症狀總是存在,且有漸進性活動時喘 (Progressive exertional dyspnea)● 慢性咳嗽咳痰伴隨呼吸困難發作 | | 降階或較輕 | Step2→每天使用低劑量吸入型類固 | Group B→先用一種長效擴張劑 (LABA | | 微病患的維持用藥 | 醇 (ICS)(ICS;氣喘病患不可單用 LABA | or LAMA) | | 起始的維持用藥 | Step 3 →再加長效擴張劑 (LABA)(ICS + LABA) | Group C 持續 AE 者→選用較有證據的長效擴張劑 (LAMA) | | 升階或較嚴 | Step 4→中劑量 ICS+LABA | Group D (注意: GOLD 2019 改版這部分) | | 重病患 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - ICS (inhaled corticosteroid) · LAMA (long-acting muscarinic antagonist) · LABA (long acting beta2-agonist) Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 2. 陽性支氣管擴張劑可逆性試驗 (禁 SABA ≥ 4, LABA ≥ 15 小時 )。 - (1) FEV, 增加> 12% 且> 200 mL。 - (2) 如果增加> 15% 且> 400 mL, 愈能確認。 Source: [[sources/med3-book1-ch15|乙、氣喘]].

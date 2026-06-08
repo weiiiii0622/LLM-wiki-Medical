@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med3-book1-ch07]]"
+  - "[[sources/med3-book2-ch09]]"
 aliases:
   - 'Cardiac biomarkers (心肌酵素)'
   - 'Cardiac biomarkers'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-用於區分 UA 與 MI，並評估心肌壞死。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book1-ch18]]
 - [[sources/med3-book1-ch07]]
+- [[sources/med3-book2-ch09]]
 
 ## Key Details From Sources
 
+- \*「腎」: Metformin eGFR Saxagliptin (Onglyza®) > Vildagliptin (Galvus®) > Linagliptin (Trajenta®) - a. 藥物機制:食物會刺激腸道分泌腸泌素(Incretin),腸泌素中最重要的就是GLP-1 會刺激胰臟分泌胰島素。而GLP-1 會被的體內 enzyme DPP-4 分解,使用DPP-4 inhibitor可延長 GLP-1 作用。[縮寫:Glucagon like peptide-1 (GLP-1)、Dipeptidyl peptidase-4 (DPP-4)] - b. 優點:副作用少,不易造成低血糖。 - c. 缺點:呼吸道感染、急性胰臟炎可能。另外,Saxagliptin 可能增加 DM 患者心衰竭住院。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- ...metformin(C) pioglitazone(D) repaglinide | 104(二)專醫三-49 | | (A) | 6. 一位 62 歲女性病人,罹患糖尿病十年,最近一個月以 angiotensin-converting enzyme inhibitor 控制高血壓於 130/80 mmHg,兩週前血液肌酸酐 1.0 mg/dL,最近 2 週血壓升至 170/100 mmHg,少尿、水腫、端坐呼吸、食慾不振、嘔吐。現在的血液 BUN 60 mg/dL,肌酸酐 3.5 mg/dL,尿液蛋白質 4+。下列敘述何者最正確? (A) 立即停用 angiotensin-converting enzyme inhibitor (B) 立即做腎臟切片檢查 (C) 立即做 rena Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- (D) 給予李先生血管收縮素轉化酶抑制劑 (angiotensin-converting enzyme inhibitor) 或血管收縮素 II 受體阻斷劑 (angiotensin II receptor blocker) 藥物 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - ...Chroni | c stable angina | Fixed atherosclerotic plaque | Pain during exertion (30min) | | ACS | NSTEMI | 阻塞,已造成心肌壞死 | Enzyme (+) | | | | (僅心內膜 Subendocardial) | EKG: ST Depression, TWI | | | | 管腔完全堵塞一段時間 | Pain not relieve by NTG (>30min) | | | STEMI | 造成心肌壞死(全層心肌 | Enzyme (+) | | | | 皆受影響 Transmural) | EKG: ST elevation | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (1) Troponin:心肌梗塞後 2~6 小時後可測得,7~10 天後才恢復正常;較具敏感度 (Sensitivity)、特異性 (Specificity)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

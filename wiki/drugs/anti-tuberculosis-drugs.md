@@ -11,6 +11,9 @@ sources:
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med3-book1-ch23]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch10]]"
+  - "[[sources/med3-book2-ch12]]"
 aliases:
   - 'Anti-tuberculosis drugs (抗結核藥物)'
   - 'Anti-tuberculosis drugs'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-結核病治療核心藥物組合，需注意副作用與療程。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+結核病治療核心藥物組合，需注意副作用與療程。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,15 @@ tags:
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch18]]
 - [[sources/med3-book1-ch23]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch10]]
+- [[sources/med3-book2-ch12]]
 
 ## Key Details From Sources
 
+- ...Thiazolidinediones (TZD) | 0.5~1.0% | Pio-glitazone (Actos®) | 不易低血糖 | 水腫、增重、骨鬆 | 心肝 | | 腸道單醣吸收↓/抑制雙醣分解 | α glucosidase inh. | 0.5~1.0% | Acarbose (Glucobay®) | 不易低血糖 | 噁心、嘔吐、腹瀉 | 腎 | | 腎小管再吸收↓ | SGLT2 inhibitor | 0.5~1.0% | E m p a g l i f l o z i n(Jardiance ® )Dapagliflozin (Forxiga ® )Canagliflozin (Canaglu ® ) | 不易低血糖、減重、降低心血管風險、保護腎功能 | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- ...、腦膜炎球菌菌血症 (Meningococcemia、Waterhouse-Friderichsen syndrome); - (b) 成人:常因凝血機能異常導致腎上腺出血。 - d. 藥物: Ketoconazole、Etomidate、Rifampin 等。 - e. 遺傳性的:如 Adrenoleukodystrophy (ALD),為 7 歲以下孩童 adrenal insufficiency 最常見原因,為 X-linked recessive 遺傳,大多為男生發病。致病機轉為長鍊脂肪酸分解 出問題,導致長鏈脂肪酸在體內堆積,造成腎上腺機能低下+神經脫髓鞘(demyelination)。處置為使用單元不飽和脂肪酸 Lorenzo's oil 以減緩神經症狀產生。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
+- ...| | | | 【詳解】家族性膽固醇過言phenotype IIa,所以沒有 TG | 哥症指的是 Frederickson classification 的 | | | (ACE | )3. | 使用 HMG-CoA reductase inh | ibitors 可能產生那一種副作用? | 94(一)專 | | | | (A) 肌炎 (B) 心律不整 (C | ) 便秘 (D) 高尿酸血症 | 內 1-14 | | | | | ase inhibitors 最有名的副作用就是 | | | | | Myopathy 及 Hepatitis。 | | | | (B) | 4. | 下列那種基因突變引起之肥肥 | 伴症在人類不會發生? | 94(一)檢 | | | | (A) M Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
 - ...ambutol | 15 mg/ | 抑制結核菌蛋白質合成 | 視 (Eye) 神經炎→紅綠色盲 | 唯一抑菌性 | | (EMB, E) | kg | | →禁用於小孩(niazid $\rightarrow$ Neuropathy , Rifampin $\rightarrow$ Red $\sim$ Orange urine , Ethambutol $\rightarrow$ Eye neuritis , PZA $\rightarrow$ UA $\circ$ - 1. 臨床使用: - (1) HERZ\*2 個月(加強期) + HER\*4 個月(持續期), Isoniazid、Rifampin 是主力, 若對這兩個藥物都有抗藥性,則稱為多重抗藥性結核(MDRTB)。 - ( Source: [[sources/med3-book1-ch19|己、結 核]].
 - 2. 個別藥物: - (1) Isoniazid (INH) → Neuropathy: 5 mg/kg,最多 300 mg qd - a. 抑制細胞壁中脂肪成分 (Mycolic acid) 的合成。 - b. 20% 病患有短暫性肝功能上升,多於用藥後 10 週內,尤其是年紀大、有肝臟疾病、酗酒等,可能因同時服用 rifampin 而加重肝炎,肝功能上升 5 倍或上升 3 倍胃口變差、黃疸、肝腫大等徵候時,則建議停藥,通常停藥後肝功能會慢慢下降。 Source: [[sources/med3-book1-ch19|己、結 核]].
 - c. 周邊神經炎(Peripheral neuropathy):最常見的症狀為對稱性肢端麻木、刺痛感, 乃因 INH 會與 pyridoxal phosphate 競爭 apotryptophanase,高劑量使用可能引起 pyridoxine 缺乏,故孕婦或合併糖尿病、尿毒症、癲癇,酗酒或營養不良之患者 最好同時投予 pyridoxine,一般不建議常規使用 pyridoxine(Vitamin B6 25~50 mg PO qd)。 Source: [[sources/med3-book1-ch19|己、結 核]].

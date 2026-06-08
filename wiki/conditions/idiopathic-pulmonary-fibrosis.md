@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch12]]"
   - "[[sources/med3-book1-ch22]]"
+  - "[[sources/med3-book2-ch09]]"
 aliases:
   - 'Idiopathic pulmonary fibrosis (特發性肺纖維化)'
   - 'Idiopathic pulmonary fibrosis'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-原因不明的進行性纖維化 ILD。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+原因不明的進行性纖維化 ILD。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch12]]
 - [[sources/med3-book1-ch22]]
+- [[sources/med3-book2-ch09]]
 
 ## Key Details From Sources
 
+- (D) mutation(s) in insulin promoter factor-1 (IPF-1) Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - ...中的石棉 (Asbestosis) | | | | | 放射線傷害 (I | Radiation) · Aspiration pneumonia, Residual of ARDS | | | | Idiopathic | 發炎末期 | Idiopathic pulmonary fibrosis (IPF) | | | | interstitial | | [形態學上稱 Usual interstitial pneumonia (UIP)] | | | | pneumonia | 活躍發炎 | Non-specific interstitial pneumonia (NSIP) | | | | | | Cryptogenic organizing pneumonia (COP) | | | | | 抽菸相關 | Respira Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - | 大分類 | 縮寫介紹 | |------|-------------------------------------------------------------------------------------| | 發炎末期 | Idiopathic pulmonary fibrosis (IPF)[ 形態學上稱 Usual interstitial pneumonia (UIP)] | | 活躍發炎 | Non-specific interstitial pneumonia (NSIP), Cryptogenic organizing pneumonia (COP) | | 抽菸相關 | Respiratory bronchiolitis (RB)/ILD, 形態學上稱 Desquamative interstiti Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - #### (1) 第一群是 IPF、NSIP 與 COP: Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].

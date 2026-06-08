@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book1-ch16]]"
+  - "[[sources/med3-book2-ch22]]"
+  - "[[sources/med3-book2-ch18]]"
 aliases:
   - 'Lung cancer staging (肺癌分期)'
   - 'Lung cancer staging'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-肺癌治療選擇依組織型與分期。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ tags:
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch14]]
 - [[sources/med3-book1-ch16]]
+- [[sources/med3-book2-ch22]]
+- [[sources/med3-book2-ch18]]
 
 ## Key Details From Sources
 
+- (C) 5. 針對 TNM Staging System Stage I、3 cm 的早期肝細胞癌,以下的治療方式,何者不是「具治癒性可能(curative-intent)」的治療策略? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
+- (C) 1. 一位下肢水腫合併腹水的病人,血清中白蛋白(albumin)為 3.0 g/dL, 108( 二 ) 專 腹水中的白蛋白(ascitic albumin)及蛋白質總量(ascitic protein) - (A) hepatic vein thrombosis, early stage - (B) heart failure - (C) liver cirrhosis - (D) hepatic sinusoidal obstruction syndrome Source: [[sources/med3-book2-ch18|丙、腹 水]].
 - (1) Stages I, II, and some IIIA:能開就開乾淨。 - a. Stage I, Stage IB & 4 公分;stage II;stage III & N0-N1:開刀加術後化療。 - c. N2 or N3 nodes: CCRT o Source: [[sources/med3-book1-ch13|丑、肺癌]].
 - (2) Limited stage:若體力許可,可予化療+放療,若達完全緩解(complete remission),可考慮加做腦部放療(prophylactic cranial irradiation, PCI),以達更好的控制。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
 - (3) Extensive stage: 化療即可。 Source: [[sources/med3-book1-ch13|丑、肺癌]].

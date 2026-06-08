@@ -19,6 +19,7 @@ sources:
   - "[[sources/med3-book1-ch17]]"
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med3-book1-ch23]]"
+  - "[[sources/med3-book2-ch01]]"
 aliases:
   - 'Airways (氣道)'
   - 'Airways'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,12 @@ tags:
 - [[sources/med3-book1-ch17]]
 - [[sources/med3-book1-ch18]]
 - [[sources/med3-book1-ch23]]
+- [[sources/med3-book2-ch01]]
 
 ## Key Details From Sources
 
+- 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
+- 【詳解】神志不清病人須先穩定 vital sign,Airway → Breathing → Circulation。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - A. 定 義:肺功能檢查有不可逆的氣道阻塞證據,post bronchodilator FEV1/FVC 3月/1年*2年 | 病理上:小氣道擴張,肺泡壁破壞 | | حلالتك | Severe hypoxemia, Hypercapnia, V/Q mismatch | Mild hypoxemia | | 症狀 | Pul. HTN, Cor pulmonale (EKG: RVH) | DLCO ↓ | | 呼吸音 | Wheezing | Diminished Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - ...------|-----------|---------------------------|----------------------|----------------------| | | | -7 | 急性惡化病史 | | | | 支氣管擴張試驗後 | FE | V1 (預測值%) | ≧ 1 次急性惡化需住院 | | 111212 | | FEV 1 /FVC全 2 次急性惡化但未導致住院 | CD | D | | | GOLD 2 | 50-79 | | | | | | GOLD 3 | 30-49 | | | | | | GOLD 4 | CAT CAT ≥ 10 | Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - 2. 依 Group 的治療原則: - (1) Group A:可考慮短效(只有偶爾喘)或長效的支氣管擴張劑。 - (2) Group B: 考慮單用長效支氣管擴張劑(LABA 或 LAMA)。 - (3) Group C: 先考慮單用 LAMA。 - (4) Group D:可用 LAMA、LAMA+LABA 或 ICS+LABA。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].

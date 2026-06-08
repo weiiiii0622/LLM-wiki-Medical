@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch05]]"
+  - "[[sources/med3-book2-ch08]]"
 aliases:
   - 'Atrial fibrillation (心房顫動)'
   - 'Atrial fibrillation'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch05]]
+- [[sources/med3-book2-ch08]]
 
 ## Key Details From Sources
 
+- (C) 1. 一位 70 歲女性高血壓患者,心電圖顯示有心房顫動(atrial fibrillation), 因突然嚴重腹痛 3 小時被送至急診,發作前她是在看電視。病人有 噁心及嘔吐,但發作前數小時有正常排便。平常用藥有 hydrochlorothiazide、enalapril 及 digoxin。就診時血壓為 88/64 mmHg, 心跳不規則,每分鐘約120次,體溫38.5℃,腹部有壓痛,腸蠕動 音降低(hypoactive bowel sound)。電腦斷層顯示脾臟附近腸壁水 腫且有空氣,其他無特殊發現。在急診患者有少量排便,有含血反 應。血清 amylase 及 lipase 只稍微增高,下列那一診斷方向最可能? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - 心房撲動 (atrial flutter, AF) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (a) Atrial fibrillation (Af): 臨床上相當常見,因心臟衰竭或二尖瓣狹窄導致心房擴大,造成心房肌肉容易放電,臨床上常以阻斷 AV node 的藥物,防止心室速率過快。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - 心房顫動 (atrial fibrillation, Af) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

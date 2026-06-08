@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book1-ch05]]"
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch17]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch12]]"
 aliases:
   - 'Ischemic heart disease (缺血性心臟病)'
   - 'Ischemic heart disease'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med3-book1-ch05]]
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch17]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch12]]
 
 ## Key Details From Sources
 
+- (D) 10. 控制下列心血管因子,何者對缺血性心臟病之預後影響最不顯著? (A) 戒菸 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- ...--|-----------------|------------| | Risk | IIa Familial hypercholesterolemia (FH) | LDL | Chol ↑ ↑ | LDL R. 有問題 | | of CAD | IIb Familial combined hyperlipidemia | LDL & VLDL | Chol & TG ↑ | 和 DM、肥胖有關 | | | III Familial dysbetalipoproteinemia | IDL & Chylo. | Chol & TG ↑ | Apo E 有問題 | | No risk | I Familial hyperchylomicronemia | Chylo. | T Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
 - 1. 缺血性心臟病(Ischemic heart disease)指的是心肌供氧不足,最常見的原因是冠狀動脈粥狀硬化。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - 2. 缺血性心臟病分為兩大類,一類是慢性穩定型心絞痛(Chronic stable angina),一類是 急性冠心症(Acute coronary syndrome)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - ...度,第二個數字代表斜率。可見 V2~V5 運動後都有大於 1 mm 的下降,且斜率皆小於 -1,代表皆是下斜式下降。因此,此病患的 Treadmill exercise test 為陽性。 - c. 若是 ST 段上升,須高度懷疑有更嚴重的冠狀動脈疾病導致 Transmural ischemia;而 ST 段上斜式下降(Upsloping depression)則較無意義。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

@@ -1,0 +1,63 @@
+---
+type: source
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+source_file: raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_壬、膽囊疾病.md
+book: 醫(三)第2冊肝內新陳代謝
+chapter_order: 20
+sources: []
+tags:
+  - medicine
+  - source
+  - textbook
+---
+
+# 壬、膽囊疾病
+
+## Source Metadata
+
+- Book: 醫(三)第2冊肝內新陳代謝
+- Chapter file: `raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_壬、膽囊疾病.md`
+- Ingest mode: chapter-split markdown, topic-first extraction.
+
+## Scope and Reliability
+
+此頁是 textbook chapter 的來源摘要，用來支撐 topic pages。原始檔含 OCR/版面轉換痕跡、表格與考題；臨床 guideline、drug dosing、急症處置仍需以最新版官方來源複核。
+
+## Chapter Scope
+
+- 膽囊疾病
+- 膽囊結石 (Cholelithiasis = Gall stone)
+- 急性膽囊炎 (Acute cholecystitis)
+- 膽囊癌 (Gall bladder cancer)
+- 總膽管結石 (Choledocholithiasis = CBD stone)
+- 急性膽管炎 (Acute cholangitis)
+- 膽管癌 (Cholangiocarcinoma)
+
+## Extracted Topic Nodes
+
+- [[conditions/jaundice|Jaundice (黃疸)]]
+- [[conditions/abnormal-liver-function-tests|Abnormal liver function tests (肝功能異常)]]
+- [[conditions/acute-pancreatitis|Acute pancreatitis (急性胰臟炎)]]
+- [[conditions/cholelithiasis|Cholelithiasis (膽結石)]]
+- [[conditions/acute-cholecystitis|Acute cholecystitis (急性膽囊炎)]]
+- [[conditions/acute-cholangitis|Acute cholangitis (急性膽管炎)]]
+- [[conditions/hepatitis-c|Hepatitis C (C 型肝炎)]]
+- [[conditions/liver-cirrhosis|Liver cirrhosis (肝硬化)]]
+- [[diagnostics/liver-function-tests|Liver function tests, LFTs (肝功能檢查)]]
+- [[drugs/rifaximin|Rifaximin (利福昔明)]]
+- [[procedures/cholecystectomy|Cholecystectomy (膽囊切除術)]]
+- [[physiology/bilirubin-metabolism|Bilirubin metabolism (膽紅素代謝)]]
+- [[anatomy/liver|Liver (肝臟)]]
+- [[anatomy/biliary-tract|Biliary tract (膽道系統)]]
+- [[anatomy/pancreas|Pancreas (胰臟)]]
+
+## Clinical Caveats
+
+- 此章內容屬讀書整理來源，不等同個人醫療建議。
+- 若涉及 dosing、禁忌、pregnancy/lactation、renal/hepatic adjustment、急症處置或當代 guideline，回答時需再查 current official source。
+
+## Open Questions
+
+- 哪些 topic pages 需要與新版 guideline 或藥品仿單交叉更新？

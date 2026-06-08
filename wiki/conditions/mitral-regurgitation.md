@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch11]]"
+  - "[[sources/med3-book2-ch07]]"
 aliases:
   - 'Mitral regurgitation (二尖瓣逆流)'
   - 'Mitral regurgitation'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-收縮期逆流造成左心房與左心室容量負荷。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+收縮期逆流造成左心房與左心室容量負荷。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch11]]
+- [[sources/med3-book2-ch07]]
 
 ## Key Details From Sources
 
+- (Ref: Spieker MR et al., Evalua ting dysphagia. American family physician 61:3639, 2000) Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 - G. 僧帽瓣逆流 (Mitral regurgitation, MR) 138 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - (2) 心搏過慢 (Long PR interval)→左心室血增加→左心室壓力上升慢→聲音愈柔 (Softer); MR 也因瓣膜結構問題,導致 S₁ 聲音較柔 (Softer)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - (1) Pressure gradient 愈大(AS, AR, MR), 聲音愈高音(Higher pitch)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].

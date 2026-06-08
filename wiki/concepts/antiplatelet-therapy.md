@@ -10,6 +10,9 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch22]]"
+  - "[[sources/med3-book2-ch04]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch01]]"
 aliases:
   - 'Antiplatelet therapy (抗血小板治療)'
   - 'Antiplatelet therapy'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-冠心症與 PCI 的核心血栓預防策略。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+冠心症與 PCI 的核心血栓預防策略。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,18 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch22]]
+- [[sources/med3-book2-ch04]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch01]]
 
 ## Key Details From Sources
 
+- (1) Aspirin 腸胃毒性強、無心臟毒性。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
+- 3. NSAID 與腸胃道毒性: - (1) 胃腸出血的風險為aspirin > ketolac、indomethacin > naproxen、diclofenac > ibuprofen。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
+- ...論 | |--------------------|--------------------|----------------|----------------|---------------------| | Salicylates | Aspirin | Higher | No | Aspirin 腸胃毒性強、無心臟毒性 | | Coxibs | Celecoxib | No | Higher | Coxib 心臟毒性強、無腸胃毒性 | | Propionic acid | Naproxen | 2 Intermediate | 3 Lower | Naproxen 最不傷心 | | To a second second | Ibuprofen | 3 Lower | 2 Inte Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
+- ...減換腎臟功能惡化。 - i. DM 病患血壓目標: 50 歲、女> 60 歲)加上一個主要的危險因子(family history of CVD, HTN, smoking, dyslipidemia, albuminuria)的病患服用 Aspirin 當作其心血管疾病的初級預防(Primary prevention);但後來發現 GI bleeding 增加,目前 level evidence 為 C。 - (b) **B**P 1.3: Stenosis → 因 smooth m. hypertrophy (media) - ii. 1.0-1.3: Normal → 因水往低處流,所以下肢應較高些 - iii. 92 mg/dL, 1hr > 180 mg/dL, 2hr > Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- ...ophthalmoplegia) (C) 瞳孔對光反應正常 (D) 突眼 【詳解】pupil sparing 為其特徵,突眼較常出現於甲狀腺疾病。 | 96(一)專醫三-42 | | (#) 17 | . 下列何者不是糖尿病人使用阿斯匹靈(aspirin)之適應症? (A) 冠心症 (B) 高血壓 (C) 高血脂 (D) 黃斑部病變 【詳解】本來正確答案是(D),後來送分;供大家參考。 糖尿病使用 aspirin 的適應症為:男生> 50 歲或女生> 60 歲合併有以下任一狀況:高血壓、血脂異常、抽菸、白蛋白尿、家人有心血管疾病。 | 95(二)專內1-38 | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (1) ACS 的發生乃因為導致管腔狹窄的粥狀硬化斑破裂,導致血小板、血栓形成,所以 ACS 的治療上,抗血小板、抗血栓的藥物就非常重要。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (2) 抗血小板藥物方面:Stable angina 會使用 Aspirin,而 ACS 病患會加上 Clopidogrel (Dual antiplatlet),針對高危險病患(血管造影下血栓量多)甚至會再加 GP IIb/ IIIa inhibitor (Triple antiplatlet)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

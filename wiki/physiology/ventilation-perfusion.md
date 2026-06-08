@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book1-ch23]]"
+  - "[[sources/med3-book2-ch23]]"
+  - "[[sources/med3-book2-ch01]]"
 aliases:
   - 'Ventilation-perfusion matching, V/Q (通氣灌流匹配)'
   - 'Ventilation-perfusion matching, V/Q'
@@ -21,16 +23,21 @@ tags:
 
 ## Summary
 
-低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch14]]
 - [[sources/med3-book1-ch23]]
+- [[sources/med3-book2-ch23]]
+- [[sources/med3-book2-ch01]]
 
 ## Key Details From Sources
 
+- (1) 肝功能衰竭後,一些有毒物如 NH3 無法被代謝,循環到腦部造成傷害。然而也認為 與門脈 - 體循環產生交通支(portal-systemic shunt)、腸內細菌過度生長且易穿透 腸壁 bacteria translocation 等有關。臨床上檢驗 NH3 作為代表,但 surum NH3 與嚴重 度並無絕對相關,且影響腦部的物質目前認為不止 NH3 一種。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
+- ...(B) 肺梗塞(pulmonary embolism) (C) 肝肺症候群(hepato-pulmonary syndrome) (D) 糖尿病合併酮酸中毒(diabetic ketoacidosis) 【詳解】(C) 肝肺症候群會產生 shunt 導致低血氧,這些 shunt 在肺底部較多,站著的時候較多血流經 shunt,低血氧較嚴重。 | 99(一)專醫三-16 | | (D) | 17. 一位 50 歲男性因為 B 型肝炎相關肝硬化合併大量腹水住院治療,經利尿劑及幾次大量腹水放液術治療後,小便量及 glomerular filtration rate 明顯減少,最適當的治療為何? (A) propranolol (B) fluid supply (C) 增加利尿劑劑量 ( Source: [[sources/med3-book2-ch23|戊、肝硬化]].
+- (D) transjugular intrahepatic portosystemic shunt Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - ...尖、指甲床、四肢) | | 症狀 | 會喘、四肢溫暖、clubbing fingers、動脈血氧 (ABG) 低 | 不會喘、四肢冷、動脈血氧 (ABG) 正常 | | 病因 | 動脈氧不足:高緯度,肺部疾病 VQ mismatch,解剖 shunt ( 發紺型先天性 心臟病,如 Fallot 四重症等 ) 血紅素異常:變性血紅素 | | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - ...\times Pa_{CO2} = 150$ | − 1.25×Pa CO2 | | $PA_{O2} - Pa_{O2}$ | PA 02 — Pa 02 正常人 (Hypovia) | A-a gradient 異常 | 不可校正→ Shunt | 局部肺塌陷、肺炎 | | (Hypoxia) | A-a gradient 美吊 | 可校正→ V/Q mismatch | 最廣泛 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - ...併呼吸衰竭 106(一)專 (B) 3. COPD 患者休息狀態時,動脈血已出現缺氧現象,該病患較不可能 因 COPD 而出現下列那一項呼吸生理的障礙? 醫三-46 (A) 第一秒吐氣量 (FEV,) 低於預期值的 50% (B) 分流 (shunt) 增加 (C) 換氣 / 灌流失衡 (ventilation/perfusion mismatching) (D) 第一秒吐氣量(FEV1)低於預期值的25%時,可能同時伴有動 脈血中二氧化碳升高(PaCO,) 【詳解】(B)分流(shunt)增加發生於肺炎等無法進行氧氣交換的 區域。 105(二)專 (D) 4. 下列有關呼吸衰竭 (respiratory failure) 之敘述,何者錯誤? (A) 一般以動脈血中的氣體(如氧氣、 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].

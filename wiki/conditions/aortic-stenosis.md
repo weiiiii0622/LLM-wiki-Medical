@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch24]]"
+  - "[[sources/med3-book2-ch02]]"
+  - "[[sources/med3-book2-ch23]]"
 aliases:
   - 'Aortic stenosis (主動脈瓣狹窄)'
   - 'Aortic stenosis'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med3-book1-ch18]]
 - [[sources/med3-book1-ch21]]
 - [[sources/med3-book1-ch24]]
+- [[sources/med3-book2-ch02]]
+- [[sources/med3-book2-ch23]]
 
 ## Key Details From Sources
 
+- Childring as the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the contr Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
+- ...白 | (B) 凝血酶原時間 | 醫三 -17 | | | (C) ALT 值 | (D) 膽色素 (Bilirubin) | | | | 【詳解】必背 Child-Pugh 系統 | ABCDE: Albumin, Bilirubin, as Cites, | | | | PT time Delay, Encephalopathy | 0 | | | (A) 27 | . 下列有關末期肝硬化併發肝腎症何者錯誤?何者錯誤?(A) 病人尿中的鈉含量極高(B) 病人尿液滲透壓較血漿滲透(C) 腎臟本身並無明顯的病理(D) 與導致腎血管收縮的許多問 | 變化 | 94(一)專內 2-13 | | (D) 28 | . 預防肝硬化病人食道靜脈曲張療藥物為: (A) 抗副交感神經藥物 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (A) 主動脈瓣狹窄 (Aortic stenosis) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - 【詳解】(A) AS 慢慢地造成左心室外流阻塞,心臟藉由心肌肥大來代償,使晚期心肌耗氧增加,但冠狀動脈供氧無等比例上升而造成心肌缺氧。(台 293) (B) 因為主動脈瓣關閉時,Aorta 的血才能流入冠狀動脈,AR 時血就流回左心室,流入冠狀動脈的血變少。(參考台 295) (C) 原因似 AS。(D) MR 較少見肺積水,而常因低心輸出量引起的慢性倦怠為較顯著症狀。(台 291) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - H. 主動瓣狹窄 (Aortic stenosis, AS) 139 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].

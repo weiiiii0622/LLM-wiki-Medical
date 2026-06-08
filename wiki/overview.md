@@ -14,9 +14,10 @@ tags:
 
 ## Current Scope
 
-- 已 ingest textbook: `醫(三)第1冊心胸內`
-- Chapter source summaries: 24
-- Topic-first nodes: 151
+- Latest ingested textbook: `醫(三)第2冊肝內新陳代謝`
+- Latest chapter source summaries: 26
+- Total chapter source summaries: 50
+- Total topic-first nodes: 302
 
 ## Graph Shape
 

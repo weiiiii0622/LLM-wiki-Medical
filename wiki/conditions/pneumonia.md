@@ -15,6 +15,9 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch18]]"
+  - "[[sources/med3-book2-ch21]]"
+  - "[[sources/med3-book2-ch02]]"
+  - "[[sources/med3-book2-ch03]]"
 aliases:
   - 'Pneumonia (肺炎)'
   - 'Pneumonia'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-肺實質感染，需依場域與病原風險選擇抗生素。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,17 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch18]]
+- [[sources/med3-book2-ch21]]
+- [[sources/med3-book2-ch02]]
+- [[sources/med3-book2-ch03]]
 
 ## Key Details From Sources
 
+- | 分類 | 細菌性 (Pyogenic)[台灣以 K. pneumoniae 居多] | 阿米巴性 (Amebic)[Entamoeba histolytica] | |-----|---------------------------------------------|--------------------------------------| | 比率 | 80% | 20% | | 來源 | 膽道感染後經膽道往上感染(膽道有受損、阻塞或結構異常者感染機率會上升) | 由結腸經肝門靜脈血行性傳染 | Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
+- (D) 克雷白氏肺炎桿菌 (K. pneumoniae) Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
+- (D) 2. 在臺灣地區未有肝膽疾病之病人,如罹患原發性肝膿瘍,其最可能 106(-) 專 的致病菌是: 醫三-60 - (A) 金黃色葡萄球菌 (Staphylococcus aureus) - (B) A 族鏈球菌 (group A streptococcus) - (C) 大腸桿菌 (E. coli) - (D) 克雷白氏肺炎桿菌 (Klebsiella pneumoniae) Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
+- ...D) 給病人補充乳糖酵素可以改善。含活的乳酸菌之優酪乳(yogurt)因可產生乳糖酵素,病人可以接受【詳解】Lactose intolerance 是 osmotic diarrhea。 | L | | (B) | 6. 一位 75 歲男性肺炎患者,住院治療當中出現發燒、腹瀉不止,且糞便檢查有白血球及紅血球,接受大腸鏡檢查結果如下圖,造成腹瀉的原因最可能為下列何者? | | | | (A) Vibrio cholerae (B) Clostridium difficile (C) hemorrhagic E. coli | | | | (D) Salmonella | /圖請見 283 頁) | | (A) | 7. 國小學童於學校食用營養午餐後一至六小時,陸續發生多位學童出 Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
+- (D) 22. 一位 81 歲女性病人因上腹部疼痛及高燒 1 天由急診住院。她有糖尿病、高血壓及心臟病病史。急診時體溫為 39℃、血壓 170/68 mmHg、脈搏 86/min、呼吸率 24/min。身體檢查發現肝臟腫大且在右側下胸廓有 knocking pain。抽血檢查白血球 13,300/μl,其中帶狀(band)白血球 34%、分節(segment)白血球 49%,血紅素 12.6 g/dL、血小板 38,000/μl。AST 154 IU/L、ALT 124 IU/L、全膽紅素(total bilirubin)1.6 mg/dL。尿液檢查正常。胸部 X 光檢查無肺炎的變化。下列檢查中那一項應優先安排? Source: [[sources/med3-book2-ch03|乙、腹痛]].
 - A. 肺炎 (Pneumonia) 272 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - B. 社區型肺炎 (Community acquired pneumonia, CAP) 272 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - C. 血液透析相關肺炎 (Hemodialysis associated pneumonia, HDAP) 274 Source: [[sources/med3-book1-ch21|戊、感 染]].

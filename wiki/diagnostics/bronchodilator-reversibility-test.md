@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch12]]"
+  - "[[sources/med3-book2-ch08]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch21]]
 - [[sources/med3-book1-ch12]]
+- [[sources/med3-book2-ch08]]
 
 ## Key Details From Sources
 
+- ...塞 | 假性息肉 (Pseudopolyp) | | 15% Erythema nodosum (EN) | 10% Erythema nodosum (EN) | | Less Pyoderma gangrenosum (PG) | 1~12% Pyoderma gangrenosum (PG) | | ASCA (Anti-saccharomyces Cerevisiae Ab) | ANCA (Antineutrophil Cytoplasm Antibody) | | Plain film with oral contrast | 大腸鏡 | | 線狀 (fissure),爬行性潰瘍 (serpiginous) | 瀰漫性充血、融合性潰瘍 | | 鵝卵石樣 (cobbl Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - 1. 記錄肺功能的過度變異並記錄氣流受阻。 - (1) 變化越大,變化越多,愈能確認診斷為氣喘。 - (2) FEV, 低時,診斷過程至少一次,確認 FEV,/FVC減少(成年人通常>0.75~0.80)。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 2. 陽性支氣管擴張劑可逆性試驗 (禁 SABA ≥ 4, LABA ≥ 15 小時 )。 - (1) FEV, 增加> 12% 且> 200 mL。 - (2) 如果增加> 15% 且> 400 mL, 愈能確認。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 4. 4 週抗發炎治療後肺功能顯著增加:治療後基準 $FEV_1$ 增加 > 12% 且 > 200 mL 或 PEF > 20% ) 。 Source: [[sources/med3-book1-ch15|乙、氣喘]].

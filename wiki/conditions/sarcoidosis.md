@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch23]]"
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch18]]"
+  - "[[sources/med3-book2-ch14]]"
 aliases:
   - 'Sarcoidosis (類肉瘤病)'
   - 'Sarcoidosis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book1-ch23]]
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch18]]
+- [[sources/med3-book2-ch14]]
 
 ## Key Details From Sources
 
+- ...的 PTH 比需 要的還多,甚至造成高血鈣 - b. PTH 低者考慮三個方面:高血鈣由 GI 來的(維他命 D 太多)、Bone 來的(惡性腫瘤 PTHrP)、腎臟排太少(服用 Thiazide) - (a) 服用過多 Vit. D 或 Sarcoidosis、TB 造成的肉芽腫內,其巨噬細胞會分泌 $1,25(OH)_2D$ ,刺激腸胃道吸收鈣,進而造成高血鈣;根據病因,限鈣飲食會有幫助。 - (b) 若是肺、頭頸部的 squamous cell carcinoma, 會分泌 PTHrP,溶解骨頭造成高血鈣;或乳癌骨轉移、白血病在骨髓腔內侵蝕骨頭都會造成高血鈣,反而會抑制正常的 PTH;根據病因,給予 Bisphosphonate 抑制破骨細胞會有幫助。 - (c) 甲狀腺亢進、臥床(Im Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
+- ...PTH下降 | 急性 | 惡性腫瘤 | 鱗狀細胞癌分泌 PTHrP、乳癌骨轉移、白血病、多發骨髓瘤 | | | | | Vit. D 過多 | 攝取 Vit. D 過多→ 25(OH)D ↑ ↑ | | | | 小里小件- | 1-2 | Sarcoidosis、TB的肉芽腫巨噬細胞分泌 1,25(OH)₂D ↑ ↑ | | | | 一一世 | 骨頭 Turnover 快 | 甲狀腺亢進、臥床 (Immobilization) 導致骨質流失→血鈣 ↑ | | | | | 其他 | Thiazide 減少尿鈣排出→血鈣 ↑ | | Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
+- (2) 1,25-(OH)2D: 懷疑 Sarcoidosis、TB 的肉芽腫巨噬細胞分泌過多 1,25-(OH)2D 造成高血鈣可測。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - ...s | 已知病因 | 過敏性肺炎 (Hypersensitivity pneumonitis) | | | | ILD | | 塵肺症 (Pneumoconiosis) 中的矽肺症 (Silicosis) | | | | | 未知病因 | Sarcoidosis, Langerhans' cell granulomatosis (eosinophilic) | | | | | | Granulomatous vasculitides (Wegener's, Churg-Strauss dz.) | | | | 其他 | Pulmonary alv | eolar proteinosis (PAP), Lymphangioleiomyomatosis (LAM) | | | | | Eosino Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - (A) 自體免疫性或類肉瘤(sarcoidosis)所引起的病變機率較小 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - 【詳解】(A) 自體免疫性會以毛玻璃病變(GGO)表現,呈現 NSIP pattern,類肉瘤以縱膈淋巴結及肺部小點表現;此病患較可能是 Idiopathic pulmonary fibrosis;(C) 運動肺功能會進行六分鐘行走,走路距離可作為預後的預測;(D) 兩者皆會降低。 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].

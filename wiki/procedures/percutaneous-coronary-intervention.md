@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch08]]"
+  - "[[sources/med3-book2-ch07]]"
+  - "[[sources/med3-book2-ch01]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -21,16 +23,21 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch08]]
+- [[sources/med3-book2-ch07]]
+- [[sources/med3-book2-ch01]]
 
 ## Key Details From Sources
 
+- 6. 治療:保守治療可以內視鏡注射肉毒桿菌素治療、或服用鈣離子阻斷劑(CCB)、硝 酸鹽類藥物(Nitrate)等達到肌肉放鬆;或以內視鏡進行氣球擴張術;若仍無效可考 慮用內視鏡或外科手術方法進行 myotomy ( 經內視鏡食道肌肉切開術: POEM-perioral endoscopic myotomy)(外科進行食道肌肉切開:Laparoscopic myotmy, 術式名 Heller myotomy)。緩解率可達 8 成以上,但亦可能造成 GERD 等併發症。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
+- ...吞食攝影發現食道有鳥嘴狀外觀(bird beak),肌電圖發現高壓的下食道括約肌無法放鬆,則下列敘述何者正確? (A)可能是硬皮症(scleroderma)影響食道 (B)可能是含有一氧化氮(NO)的神經元亢奮造成 (C)可以內視鏡放置食道支架(esophageal stent)治療 (D)可以內視鏡注射肉毒桿菌素治療 【詳解】本題病症應是指 Achlasia 為下食道括約肌無法放鬆;(A)硬皮症應是觀察到食道肌肉萎縮、纖維化,導致 LES 關不緊,易有胃酸逆流典型症狀(胸痛、嘔酸水等);(B) 應是含有一氧化氮(NO)的神經元被破壞;(C)食道支架(esophageal stent)較常用在惡性疾病造成的狹窄例如:食道癌末期的 palliative treatment,用在 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
+- 小腸鏡 enteroendoscopy:可想成是胃鏡的延伸,目前藉由特殊的氣囊構造(雙氣囊或單氣囊)可將內視鏡推進至小腸,直接進行探查,也可同步進行止血、切片、定位、異物取出、擴張、支架放置等治療。由於施行時間較長、風險也較高,因此多在已有其他檢查(膠囊、CT、RBC scan等)高度懷疑小腸病灶後進行, Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (1) 處置重點: - a. 心電圖沒有 STE 的這類病患重點在於將病患危險分級及追蹤病情變化,針對高 危險群病患,給予 Early PCI;針對有臨床症狀,但無心電圖、酵素上升等變化, 須 6 小時後再追蹤一次心電圖、酵素,轉為有變化者,需住院治療。 - b. 臨床上常使用 TIMI risk score for UA/NSTEMI: (口訣: AACC+3) - (a) A : age $> 65 \circ$ - (b) A: aspirin used in past 7 days • - (c) C: CAD (> 50% stenosis) • - (d) C: Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (c) Gp IIb/IIIa inhibitor:目前只用於 down stream therapy,對於施行 PCI 的病人,如發現 thrombus burden 量大才使用,可減少血栓造成的併發症。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

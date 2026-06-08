@@ -16,6 +16,9 @@ sources:
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med3-book1-ch19]]"
   - "[[sources/med3-book1-ch20]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch06]]"
+  - "[[sources/med3-book2-ch04]]"
 aliases:
   - 'Pulmonary hypertension (肺高壓)'
   - 'Pulmonary hypertension'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,19 @@ tags:
 - [[sources/med3-book1-ch18]]
 - [[sources/med3-book1-ch19]]
 - [[sources/med3-book1-ch20]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch06]]
+- [[sources/med3-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...S ( 約 600~1,200)H igh Osmo ( = 2 Na + Glu/18 = 330~380)S tupor | Dextrose: GS (約 250~600) Ketonemia, Ketouria Acidosis: pH 3 150 mEq/L 考慮改為 Hypotonic saline (0.45%)。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- (4) 補充碳酸氫 (HCO3): 不建議常規補充,除非 shock、pH 小血管瘤 (Microaneurysms) | | [動脈瘤,出血, | →血管瘤點狀出血 (Dot and blot hemorrhage) | | 滲出物] | →血管瘤滲出物 (Hard exudates) | | PPDR | 小血管阻塞更嚴重→更大的出血點 | | (Pre-proliferative) | →神經缺血→眼底一塊白色 (Cotton-wool spots) | | [ 缺血白,靜脈擴張 ] | →靜脈擴張、串 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- (D) 7. 關於糖尿病(diabetes mellitus)之急性併發症(acute complication) 103( 二 ) 專 之敘述,下列何者錯誤? - (A) 通常糖尿病酮酸血症(diabetic ketoacidosis)比高血糖暨高渗透 壓狀態(hyperglycemic hyperosmolar state),動脈血 pH 值較低, 且一般低於 7.3 - (B) 血糖濃度在高血糖暨高渗透壓狀態時,通常較糖尿病酮酸血症 時為高,且常高於 500 mg/dL - (C) 高血糖暨高滲透壓狀態較常見於病弱之老人,而糖尿病酮酸血 症較常見於兒童 - (D) Kussmaul's 呼吸方式通常較常見於高血糖暨高滲透壓狀態時, 較少見於糖尿病酮酸血症時 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- 3. 若胃鏡正常,仍懷疑 GERD,可使用 Ambulatory 24-hour ph monitoring,將 probe 放於 LES 上 5 公分監測,是目前用來定量酸暴露的最佳方法。另有一 Bernstein test -以 0.1% HCL 刺激看是否能引發相同症狀,可作為輔助。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
+- (C) 應進一步檢查食道內之 pH 值 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
+- (A) 9. 下列何者不是胃食道逆流疾病(gastroesophageal reflux disease, GERD) 95(二)專的檢查? 內 1-15 - (A) 分泌激素試驗 (secretin test) - (B) 食道內視鏡 (esophagoscopy) - (C) 食道酸鹼度(pH)檢查 - (D) 黏膜切片 (mucosal biopsy) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
+- (3) H+ 可使胃體(Body)的主細胞(Chief cell)分泌的胃蛋白酶原(Pepsinogen)處在低 pH 值的環境中,而轉換成胃蛋白酶(Pepsin),進而消化、分解蛋白質。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - 【詳解】肺心症:右心室因肺高壓等肺部疾病造成其結構變化, 不包含因左心衰竭的進展而影響到右心。本題的肺水腫暗示左心 衰竭。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - ...? 醫三-77 (A) 頭痛 (B) 噁心、嘔吐 (C) 腹瀉 (D) 失眠 【詳解】此題(C)(D)皆給分。 (C) 2.24 歲女性患者,因意識不清被送來急診處。在吸入室內空氣時,其 107(二)專 醫三 -46 動脈血液氣體分析顯示 pH 7.12, PaCO280 mmHg, PaO245 mmHg, HCO3-28 mEq/L, BE (ECF) 0 mEq/L。其低血氧症最可能之原因為何? (A) 急性氣喘發作 (B) 慢性阻塞性肺疾併急性發作 (C) 安眠藥中毒,換氣不足 (D) 肺炎併呼吸衰竭 106(一)專 (B) 3. COPD 患者休息狀態時,動脈血已出現缺氧現象,該病患較不可能 因 COPD 而出現下列那一項呼吸生理的障礙? 醫三-46 (A) 第一秒 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - (C) 8. 一位 28 歲女性因為長時間杵狀指與肢端發紺到院求治。動脈血氣體分析為: pH 7.45, PaO2 50 mmHg, PaCO2 35 mmHg, HCO3- 24 mmol/L (未使用氧氣),血比容為 65%。給予純氧呼吸 30 分鐘後,再分析動脈血氣體結果為: pH 7.4, PaO2 195 mmHg, PaCO2 39 mmHg, HCO3- 24 mmol/L,胸部 X 光與肺功能檢驗都正常。最可能造成此病人低血氧的機制為何? Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book1-ch16]]"
   - "[[sources/med3-book1-ch10]]"
   - "[[sources/med3-book1-ch01]]"
+  - "[[sources/med3-book2-ch19]]"
 aliases:
   - 'Syncope (暈厥)'
   - 'Syncope'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book1-ch16]]
 - [[sources/med3-book1-ch10]]
 - [[sources/med3-book1-ch01]]
+- [[sources/med3-book2-ch19]]
 
 ## Key Details From Sources
 
+- 臨床症狀與變性血紅素百分比有相關性,5~10% 時皮膚可能發紺,不適之主訴多在20~45%以上,如不安、呼吸困難、虚弱無力、頭暈、頭痛、嗜睡、暈眩(syncope)、心搏過速、神智漸不清等症狀,變性血紅素大於70%以上若不立即治療則會死亡。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
 - b. 針對高風險群裝置 ICD,包含: - (a) Syncope in young patents, LV wall thickness > 30mm in young patient • - (b) Hypotensive responsive to exercise • - (c) 曾經 SCD、Sustained VT、multiple non-sustained episodes of VT on Holter。 - (d) SCD in close relatives • Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - (C) 15. 肥厚型阻塞性心肌病症患者若產生暈厥、胸悶症狀,則使用下列何 種藥物治療最有效? Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - 【詳解】(A, B) 肥厚性心肌病臨床上病人的變異性極大,可由毫無症狀到明顯的運動性呼吸困難、胸悶、心悸及眩暈到暈厥,甚至發生猝死。猝死是肥厚性心肌病病患最常見的死亡原因,約每年2~4%之病患,通常肇因於心律不整或血流動力學上之變化。由於可能發生猝死,病患應避免激烈運動。(台304-305)。 Source: [[sources/med3-book1-ch07|庚、心肌症]].

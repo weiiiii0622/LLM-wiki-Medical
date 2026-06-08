@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book1-ch16]]"
   - "[[sources/med3-book1-ch19]]"
   - "[[sources/med3-book1-ch23]]"
+  - "[[sources/med3-book2-ch10]]"
 aliases:
   - 'Lung cancer (肺癌)'
   - 'Lung cancer'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med3-book1-ch16]]
 - [[sources/med3-book1-ch19]]
 - [[sources/med3-book1-ch23]]
+- [[sources/med3-book2-ch10]]
 
 ## Key Details From Sources
 
+- ii. Small cell lung cancer、Carcinoid tumor 等,Ectopic 分 泌 ACTH 刺 激 Adrenal 分泌 cortisol(ACTH > 200 pg/mL)。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - 1. 過去認為 85% 肺癌病人有抽菸,台灣目前癌登統計,非抽菸者肺癌已略多於 50%。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
 - 2. 肺腺癌最常見,也是非吸煙者得肺癌最常見的類型,位置較 Peripheral。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
 - 3. 小細胞肺癌(Small cell carcinoma)會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book1-ch13|丑、肺癌]].

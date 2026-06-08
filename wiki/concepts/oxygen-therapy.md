@@ -17,6 +17,9 @@ sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch17]]"
+  - "[[sources/med3-book2-ch02]]"
+  - "[[sources/med3-book2-ch03]]"
+  - "[[sources/med3-book2-ch19]]"
 aliases:
   - 'Oxygen therapy (氧氣治療)'
   - 'Oxygen therapy'
@@ -31,7 +34,7 @@ tags:
 
 ## Summary
 
-低氧血症與急性呼吸困難的支持治療。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +51,15 @@ tags:
 - [[sources/med3-book1-ch09]]
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book1-ch17]]
+- [[sources/med3-book2-ch02]]
+- [[sources/med3-book2-ch03]]
+- [[sources/med3-book2-ch19]]
 
 ## Key Details From Sources
 
+- (C) 細菌性食物中毒的治療,主要為靜脈輸液以預防並矯正體液、 電解質不平衡,當病人產生意識障礙或有嘔吐物阻塞呼吸道的 疑慮時,則要注意保持呼吸道的暢通並給予氧氣 Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
+- (A) 14. 一位 66 歲男性因喪失意識入急診,剛來時血壓為 70/35 mmHg,心跳為 130/min。經過給予氧氣與生理食鹽水(normal saline)輸液 1,000 mL後,意識回復正常,血壓為 100/60 mmHg,心跳為 100/min,呼吸速率為 20/min,體溫為 36.4℃。再詳細問病人病史時發現他在喪失意識前感到突發性的腹部與下背痛,除此以外無其他症狀。有高血壓病史,但無規則服藥控制。理學檢查發現下腹有壓痛(tenderness),伴隨有輕微反彈痛(rebound tenderness),腸音稍慢,糞便檢查無潛血反應。血液檢 Source: [[sources/med3-book2-ch03|乙、腹痛]].
+- \*補充變性血紅素血症 (Methemoglobinemia): - ●正常血紅素為二價鐵離子,若被氧化成三價鐵離子,就會失去攜帶氧氣的功能,而形成 變性血紅素血症。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
 - (5) ROSC(Return of spontaneous circulation)後,根據監測之氧合血紅素飽和度逐漸減少吸入的氧氣濃度:一旦達到 ROSC 時,吸入氧氣的分量(FIO2)應調整為達到大於或等於 94% 之動脈氧合血紅素飽和度所需的最小濃度,在確保足夠氧氣輸出量的同時,避免體內氧過剩。在飽和度為 100% 時,可以中斷 $FIO_2$ ,只要飽和度可以維持大於或等於 94%。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (2) 以往急救後僅有支持性療法,但若將病患中樞體溫降至 32~34℃,持續 12~24 小時,便可減少大腦的電氣活動、抑制自由基的反應、減緩分解酵素活性,同時下降全身代謝速率和氧氣消耗量。研究顯示能有效改善心跳停止病患的存活率和神經學預後。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - #### (有脈搏) 心跳大於 150 下 / 分 適當的臨床評估 2 認出及治療原發疾病 ● 維持呼吸道通暢;必要時輔助呼吸 ● 給予氧氣(如低血氧) ● 心電圖:認出心律、量血壓及監測血氧飽和度 持續心搏過速合併以下情形: 同步整流 ● 低血壓 是 急性意識狀態改變 ● 給予鎮靜 • 休克症狀 ● 如窄、規則 QRS, • 缺血性胸痛 考慮 Adenosine ● 急性心衰竭 否 5 • 建立靜脈輸液路徑 是 寬的 QRS 波≥ 0.12 秒 & 十二導程心電圖 如果規則、單型, 否 考慮 Adenosine ● 考慮抗心律不整藥 ● 建立靜脈輸液路徑 & 十二導程心電圖 物滴注 ● 頸動脈竇按摩 ● 考慮會診專家 ● Adenosine (如規則) • β-blocker 或鈣離子阻斷劑 ● 考慮會診專家 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

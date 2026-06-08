@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book1-ch06]]"
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch01]]"
+  - "[[sources/med3-book2-ch10]]"
+  - "[[sources/med3-book2-ch17]]"
 aliases:
   - 'Rheumatic heart disease (風濕性心臟病)'
   - 'Rheumatic heart disease'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-鏈球菌感染後免疫反應可造成瓣膜病變。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch06]]
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch01]]
+- [[sources/med3-book2-ch10]]
+- [[sources/med3-book2-ch17]]
 
 ## Key Details From Sources
 
+- (B) 2. 一位 63 歲女性被家人送入急診,主訴為 4 天前開始漸進性全身無力與胃口不佳。病人為一類風濕性關節炎(rheumatoid arthritis)患者,長期於門診拿藥控制。1 週前出國旅遊,因忘記帶藥而沒繼續吃。身體診查發現病人意識尚清楚,無局部神經學症狀,血壓為 70/30 mmHg,呼吸速率為 12/min,體溫為 36.2℃,心電圖為寶狀心搏過慢(sinus bradycardia),心跳為 53/min,無明顯缺血性變化(ischemic change),糞便無潛血反應。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
+- 1. 自體免疫性肝炎 (Autoimmune hepatitis, AIH): - (1) 肝炎+球蛋白上升+自體免疫抗體。 - (2) 分類: - a. Type 1:Anti-smooth muscle Ab(ASMA)、ANA,有 2/3 是女性,可能合併自體 免疫甲狀腺炎、類風濕性關節炎。 - b. Type 2: Anti-liver/kidney microsome type 1 (Anti-LKM1) • - (3) 診斷:排除病毒、藥物、酒精等原因,加上 Revised Original Scoring System of the International Autoimmune Hepatitis Group 評分表(如下,Ref:AASLD 2010)。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - (4) 免疫學現象 (Immunologic phenomena): - a. 腎絲球炎(Glomerulonephritis)、類風濕性因子陽性。 - b. Roth's spots、Osler's node (指腹、疼痛、隆起;記法:痛會叫 Ouch)。 Source: [[sources/med3-book1-ch06|己、細菌性心內膜炎]].
 - #### G. 需要緊急開刀 (醫三-9 | | (A) 17 | . 風濕熱(rheumatic fever)為一臨床診斷,目前採用 1992 年的 updated Jones criteria,下列何者是屬於 minor criteria ? (A) fever (B) carditis (C) migratory polyarthritis (D) subcutaneous nodules 【詳解】Major: Carditis, Polyarthritis, Chorea, Erythema marginatum, Subc Source: [[sources/med3-book1-ch06|己、細菌性心內膜炎]].
 - ...rgitation)病人是否應接受手術治療,下列何者為最優先考量因素? (A) 左心室收縮功能 (B) 左心室收縮末期直徑 (C) 是否有症狀 (D) 是否適合二尖瓣修補術 | 107(一)專醫三 -24 | | (D) | 9. 下列有關風濕性心臟病合併僧帽瓣狹窄的敘述,何者錯誤? (A) 正常僧帽瓣的開口大小為 4~6 cm², 若醫三-20 | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].

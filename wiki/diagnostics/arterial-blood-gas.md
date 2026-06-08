@@ -11,6 +11,10 @@ sources:
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch18]]"
+  - "[[sources/med3-book2-ch04]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch17]]"
+  - "[[sources/med3-book2-ch25]]"
 aliases:
   - 'Arterial blood gas, ABG (動脈血氣)'
   - 'Arterial blood gas, ABG'
@@ -25,7 +29,7 @@ tags:
 
 ## Summary
 
-評估氧合、通氣與酸鹼狀態。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +40,19 @@ tags:
 - [[sources/med3-book1-ch21]]
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch18]]
+- [[sources/med3-book2-ch04]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch17]]
+- [[sources/med3-book2-ch25]]
 
 ## Key Details From Sources
 
+- (C) 若為 mucosa-associated lymphoid tissue (MALT) 淋巴瘤,應考慮使用抗生素治療清除 H. pylori Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
+- ...下列何項疾病的風險? | 105(二)專 | | | (A) reflux esophagitis | 醫三-26 | | | (B) non-cardiac gastric cancer | | | | (C) gastric mucosa-associated lymphoid tissue (MALT) lymphoma | | | | (D) gastric ulcer | | | | | | Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
+- ...---------------------------------|----------------| | (D) 19. 一位病人因為胃痛應診,內視鏡檢查發現胃竇(antrum)有一直徑 3 公分的腫瘤,其切片經病理檢查顯示為 mucosa-associated lymphoid tissue(MALT)lymphoma,全身性檢查發現其他部位並未有異常。下列何者為對此病人最適當的處置? (A) Gastrectomy (B) Local irradiation (C) Systemic chemotherapy (D) Eradication of Helicobacter pylori | 99(二)專醫三-40 | | (B) 20. 一位 45 歲男性病人,斷斷續續嚴 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
+- 4. 診斷糖尿病後,特別是年輕人,有時難以分辨第 1、第 2 型糖尿病,除可由臨床特徵分辨,也可參考升糖素(Glucagon)刺激試驗,若 (1) 空腹 C peptide \beta-adrenergic agonists , thiazides | | | | | phenytoin, α-inte | erferon, protease inhibitors, clozapine | | | | | F. Infections — congenital rubella, cytomegalovirus, coxsackie | | | | | | G. Uncommon forms of immune-mediat Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- (D) 1. 有關自體免疫性肝炎(autoimmune hepatitis, AIH)之診斷與治療,根據 108(ニ) 専 International Autoimmune Hepatitis Group 的評分建議,以下何者錯誤? - (A) 診斷自體免疫性肝炎之前需要先排除常見肝臟疾病,包括病毒 性肝炎 - (B) 患者對免疫抑制療法的效果是診斷自體免疫性肝炎的評分項目 之一 - (C)antinuclear antibody (ANA) 是最重要常見的免疫學指標 - (D) 遺傳背景方面, AIH 的發生與 HLA-A2 和 DR6 有相關 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
+- (1) Ranson criteria 大於三項: - a. 住院先檢查 (ASS 是否乳白): Age > 55, Sugar > 200, AST > 250, LDH > 350, WBC > 1 萬 6。 - b. 最初 48 小時內 (快上 BBS 告訴 CHO): Base deficit > 4, BUN 上升 > 5, Sequestration > 6 L, Ca 8 mg/dL, Hct 下降 > 10%, PaO2 60 mmHg。 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 - ...-45 | | (D) | 6. 一位 60 歲之肺炎併發急性呼吸窘迫症候群患者治療之第二天,目前使用 FiO 2 : 0.8, PEEP: 12 cmH 2 O, PC (pressure control): 25 cmH 2 O, 其 ABG 為 pH: 7.33, PaCO 2 : 50 mmHg, PaO 2 : 55 mmHg, actual bicarbonate: 25 mEq/L,下列進一步之處理何者最為正確? (A) 增加 PC level 為 30 cmH 2 O,以增加 tidal volume,降低 PaCO 2 (B) 增加 FiO 2 至 1.0 以提高 PaO 2 (C) 給予 sodium bicarbonate 以治療酸中毒 (D) 給予患者使 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
 - (D) 9. 一位 63 歲男性病人,多重創傷與多發性骨折。於接受大量輸血與清 創及骨折手術一天後,於加護病房中尚未移除氣道內管,發生高燒、 呼吸急促且意識迷亂。脈搏 134/min,呼吸速率 36/min,血壓 80/36 mmHg,肺部聽診有兩側粗囉音,心臟無雜音。動脈血氣體分析: pH 7.31,PaCO2 22 mmHg,PaO2 47 mmHg,SaO2 65%。胸部 X 光顯 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
 - ...管收縮→耗氧增加→發紺 (Stagnant hypoxia) | | 發紺處 | 舌、口腔黏膜、結膜及肢端 | 僅肢端(鼻尖、外耳、外唇、手尖、指甲床、四肢) | | 症狀 | 會喘、四肢溫暖、clubbing fingers、動脈血氧 (ABG) 低 | 不會喘、四肢冷、動脈血氧 (ABG) 正常 | | 病因 | 動脈氧不足:高緯度,肺部疾病 VQ mismatch,解剖 shunt ( 發紺型先天性 心臟病,如 Fallot 四重症等 ) 血紅素異常:變性血紅素 | | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].

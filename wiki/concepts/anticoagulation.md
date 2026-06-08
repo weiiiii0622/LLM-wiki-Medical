@@ -13,6 +13,9 @@ sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch19]]"
+  - "[[sources/med3-book2-ch04]]"
+  - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book2-ch24]]"
 aliases:
   - 'Anticoagulation (抗凝治療)'
   - 'Anticoagulation'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-血栓疾病與 AF 中風預防的重要治療概念。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,15 @@ tags:
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch09]]
 - [[sources/med3-book1-ch19]]
+- [[sources/med3-book2-ch04]]
+- [[sources/med3-book2-ch11]]
+- [[sources/med3-book2-ch24]]
 
 ## Key Details From Sources
 
+- (B) captopril (D) warfarin Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
+- ...otal T4 ↑ | Free T4 ↑ | 抑制 T4→ T3 | Amiodarone · Propranolol | | (Euthyroidism) | Total T4 正常 | Free T4 ↑ | T4 離開 TBG | Heparin · LMWH | | | Total T4 ↑ | Free T4 正常 | 增加 TBG | 雌激素 (Estrogen)、懷孕、肝炎、肝 | | | | | | 硬化 | | | Total T4 ↓ | Free T4 正常 | 減少 TBG | 雄激素 (Androgen) | | 甲狀腺功能低下 | Total T4 ↓ | free T4 ↓ | 抑制 TSH | Glucocorticoid, Dopamine, | | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- a. 凝血因子(PT、aPTT): 若肝臟製造能力下降,可在短時間內表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - 2. 藥物選擇: - (1) 非口服抗凝劑 (parental anticoagulant) 可選擇 Heparin, LMWH, fondaparinus。 - (2) 傳統口服抗凝血藥物: Warfarin, 容易與食物或藥品產生經互作用,需監測凝血功能; 出血風險較高。 - (3) 新型口服抗凝血藥物(Noval oral anti-coagulants, NOAC 如 rivaroxaban,dabigatran,apixaban)效果不亞於 warfarin,且出血事件較為減少。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 - 3. 治療策略有三: (Ref. Harrison ch 273) - (1) 典型但退流行的方法:非口服抗凝劑 5 天→口服抗凝劑 (warfarin)。 - (2) 非口服抗凝劑 5 天→口服抗凝劑如 dabigatran (direct thrombin inhibitor) 或 edoxaban (anti-Xa agent)。 - (3) 口服抗凝劑較高劑量 loading 三周或一周後再給予維持劑量,可用 rivaroxaban 或 apixaban (皆為 anti-Xa agents)。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 - 4. 整理靜脈栓塞(DVT)及肺栓塞治療時間: - (1) 3個月:有手術、外傷等誘發事件,且僅影響上肢或小腿的 DVT,治療 3個月即可。 - (2) 3~6 個月:無誘發事件或影響到大腿 DVT 或肺栓塞,需治療 3~6 個月。有研究發現治療 6 個月效果更好。 - (3) 終生:腫瘤病患併發 DVT 或肺栓塞需終身使用 LMWH,不需轉為 warfarin。若 cancer 治癒,才可慮停藥。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].

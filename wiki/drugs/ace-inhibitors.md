@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch14]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch08]]"
 aliases:
   - 'ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)'
   - 'ACE inhibitors, ACEI'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch14]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch08]]
 
 ## Key Details From Sources
 
+- (B) 給予 angiotensin converting enzyme inhibitor 治療 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- 【詳解】積極控制血糖(HbAlc 醫三-27 | | (D) 15 | . 下列何者不能延緩微蛋白尿變成明顯腎病變? (A) 血糖控制接近於正常 (B) 嚴格之血壓控制 (C) Angiotensin converting enzyme (ACE) 抑制劑 (D) 高蛋白飲食 | 98(一)專醫三-52 | | (D) 16 | . 下列何者不是糖尿病第三腦神經病變之臨床表現? (A) 眼瞼下垂 (B) 眼肌麻痺(ophthalmoplegia) (C) 瞳孔對光反應正常 (D) 突眼 【詳解】pupil sparing 為其特徵,突眼較常出現於甲狀腺疾病。 | 96(一)專醫三-42 | | (#) 17 | . 下列何者不是糖尿病人使用阿斯匹靈(aspirin)之 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- (C) 1. 一位 70 歲女性高血壓患者,心電圖顯示有心房顫動(atrial fibrillation), 因突然嚴重腹痛 3 小時被送至急診,發作前她是在看電視。病人有 噁心及嘔吐,但發作前數小時有正常排便。平常用藥有 hydrochlorothiazide、enalapril 及 digoxin。就診時血壓為 88/64 mmHg, 心跳不規則,每分鐘約120次,體溫38.5℃,腹部有壓痛,腸蠕動 音降低(hypoactive bowel sound)。電腦斷層顯示脾臟附近腸壁水 腫且有空氣,其他無特殊發現。在急診患者有少量排便,有含血反 應。血清 amylase 及 lipase 只稍微增高,下列那一診斷方向最可能? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - ACEI = Angiotensin converting enzyme inhibitor Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - ...Fibromuscular dysplasia 造成腎動脈中層纖維化 (Medial fibroplasia)。 - ii. 另外,主動脈剝離到腎動脈也會造成腎動脈狹窄。 - (b) 腎動脈狹窄的臨床線索:腹部肚臍附近聽見連續亂流聲、服用 ACEI 產生急性腎衰竭需考慮之;須以 Doppler 超音波、MRA 等進一步檢查。 - b. 腎實質疾病(2%):可能有糖尿病等腎臟功能障礙等病史,續發性高血壓(secondary hypertension)最常見的原因。 - (2) 内分泌(0.5%):(口訣:CCPG) - a. Primary Hyperaldosteronism (Conn's syndrom), Cushing's syndrome: 患者可能 會有低血鉀、代謝性 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - b. β blocker 較 CCB、ACEI 不能預防中風發生。針對老年人的 Isolated systolic HTN 效果也較差。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].

@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch23]]"
   - "[[sources/med3-book1-ch24]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch18]]"
 aliases:
   - 'Light criteria (Light 標準)'
   - 'Light criteria'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-區分肋膜積液為漏出液或滲出液。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch23]]
 - [[sources/med3-book1-ch24]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch18]]
 
 ## Key Details From Sources
 
+- ...): 不建議常規補充,除非 shock、pH 小血管瘤 (Microaneurysms) | | [動脈瘤,出血, | →血管瘤點狀出血 (Dot and blot hemorrhage) | | 滲出物] | →血管瘤滲出物 (Hard exudates) | | PPDR | 小血管阻塞更嚴重→更大的出血點 | | (Pre-proliferative) | →神經缺血→眼底一塊白色 (Cotton-wool spots) | | [ 缺血白,靜脈擴張 ] | →靜脈擴張、串珠狀、環狀 (dilatation, beading, looping) | | PDR | 新生血管 (Neo-vascularization) 於視神經盤 (Disc) 及大血管旁 | | (Prolife Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- 【詳解】SAAG = 3.5 - 2.6 = 0.9 左側 (15%) >右側 (8%) 積水 | 積水,80% 在右側,通常大量到可佔整個 | | | hemithorax | | Post-CABG | Meigs' syndrome | | | 70% 右側積水,exudate with low WBC | | | < 1,000, CA125 ↑ (不該認為與 | | | malignancy 有關 ) | Source: [[sources/med3-book2-ch18|丙、腹 水]].
 - #### 1. 先分是 Exudate 或是 Transudate: Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - (1) Light's criteria (三個符合一個即為 Exudate) Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - | Exudate | Malignancy, TB, Empyema | 繼續以下列方法鑑別診斷 | |------------|------------------------------------|-------------| | Transudate | CHF, Cirrhosis, Nephrotic syndrome | 依照前述疾病治療 | Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].

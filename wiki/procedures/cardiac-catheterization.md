@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book1-ch16]]"
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch11]]"
+  - "[[sources/med3-book2-ch01]]"
+  - "[[sources/med3-book2-ch22]]"
 aliases:
   - 'Cardiac catheterization (心導管檢查)'
   - 'Cardiac catheterization'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-評估冠狀動脈狹窄並可銜接介入治療。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,17 @@ tags:
 - [[sources/med3-book1-ch16]]
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch11]]
+- [[sources/med3-book2-ch01]]
+- [[sources/med3-book2-ch22]]
 
 ## Key Details From Sources
 
+- (B) 嚴重的出血病例可以安排血管攝影檢查(angiography),找到 出血源時可注射 vasopressin 或以血管栓塞(embolization)止血 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
+- (C) 核醫紅血球掃描(RBC scan), 偵測出血較血管攝影術敏感, 可以精確定位,幫助治療 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
+- (D) 如無活動性出血,除非是血管豐富(hypervascular)的腫瘤或 是血管發育不良(angiodysplasia),否則血管攝影術幫助不大 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
+- 3. 診斷: - (1) 篩檢:超音波掃描為第一線影像學檢查工具、AFP > 200 則暗示有 HCC。 - (2) 確診: CT 可見 arterial phase enhancement。 - (3) 結論:超音波用來篩檢,電腦斷層用來確診,磁振造影、血管攝影通常用在電腦斷層沒有辦法完全確診時,可用在較小、較早期的病灶偵測。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
+- (C) 6. 黃先生,60歲,經腹部電腦斷層、腹部血管攝影及肝臟切片檢查後 106 確診為肝癌,下列敘述何者錯誤? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
+- (D) 16. 一位 55 歲男性病人為慢性 B 型肝炎帶原者,最近腹部電腦斷層及血管攝影發現肝右葉有一 2 公分大小的腫瘤,高度懷疑為肝癌,血清胎兒蛋白為 420 ng/mL, Child-Pugh 分類為 A,其他影像檢查並未有腫瘤轉移情形,你最不考慮採用下列何種治療? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - (4) 若以上 Noninvasive stress test 陽性、心絞痛無法以藥物控制、疑似缺血性心臟病 導致 Cardiac arrest 或 Ventricular dysfunction 皆可進一步做心導管檢查 (Coronary arteriography)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - 【詳解】ST 段上升型心肌梗塞的病人於症狀發生的十二小時內應接受緊急心導管介入治療,若無法在兩小時內接受心導管介入治療者,建議施打 r-tPA(血栓溶解劑)。目前治療指引建議自進急診室求治的三十鐘內應施打 r-tPA(血栓溶解劑)。由於 r-tPA(血栓溶解劑)是一種血栓溶解劑,因此最常見的副作用就是出血;若有相關禁忌症,不建議使用。這些絕對禁忌症包含:三個月內有明顯的頭部或臉部外傷、三個月內發生缺血性中風、已知腦血管病灶(蜘蛛網膜下腔出血、腦內動脈瘤、或動靜脈瘤)、腦出血病皮、腦內腫瘤、活動性出血(月經不包 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (A) 16. 一位 57 歲男性因 3 小時前開始胸悶入急診就醫,伴隨有冒冷汗現象。 意識清楚,血壓為 150/95 mmHg,心跳為 81 次 / 分鐘,呼吸速率為 20次/分鐘。以前有過心肌梗塞病史,做過心導管與置放支架。 當你給予病人氧氣、aspirin 與 nitroglycerin 後,在 12 導程心電圖的 前胸導程 V,~V4 有明顯 ST 段上升。下列敘述何者最為適當? - (A) 須優先考慮做經皮冠狀動脈介入術 (primary percutaneous coronary intervention) - (B) 須立即使用 glycoprotein IIb/IIIa inhibitor 後,再考慮做經皮冠狀 - (C) 因病人曾 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

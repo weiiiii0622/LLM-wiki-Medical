@@ -6,6 +6,9 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch22]]"
+  - "[[sources/med3-book2-ch05]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch10]]"
 aliases:
   - 'Hypertensive emergency (高血壓急症)'
   - 'Hypertensive emergency'
@@ -20,15 +23,21 @@ tags:
 
 ## Summary
 
-高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch09]]
 - [[sources/med3-book1-ch22]]
+- [[sources/med3-book2-ch05]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch10]]
 
 ## Key Details From Sources
 
+- (1) 此屬外科急症,好犯於胃次全切除術及 B-II 吻合術最初幾週內,afferent loop 阻塞,小腸液、膽汁、胰液很快就充滿 afferent loop,並導致膽汁、胰液滯留,而發生膽囊炎、胰臟炎。 Source: [[sources/med3-book2-ch05|庚、胃疾病 – 其他]].
+- ...NPH insulin 20 單位皮下注射(B) 0.9% NaCl 3,000 mL 靜脈輸注(C) 抗生素治療(D) 7% sodium bicarbonate 40 mL 靜脈注射【詳解】病人狀況接近 HHS,先灌水打胰島素治療,而急症應該使用速效或短效胰島素,使用 NPH 並不適合。 | 101(二)專醫三-53 | |-----|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- (2) 重症病患 (Critical ill) 與腎上腺機能低下: - a. 發生急症(開刀、外傷、敗血症)時,Cortisol會上升6~10倍、且失去日夜變化(白天高、晚上低);若Cortisol無法提升到身體需要的量以控制發炎反應、維持血壓,則稱為 Relative adrenal insufficiency。 - b. 診斷:若病人的 cortisol 無法提升至 15 μg/dL 以上,或注射 250 μg Cosyntropin 血中 Cortisol 與基準值相比,無法上升大於 9 μg/dL,可診斷 Rel Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - #### 2. Hypertensive emergency: Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - (3) 治療: - a. 先使病患在安靜的環境休息,可能就會降 10~20 mmHg。 - b. 以往希望快速降壓而使用舌下鈣離子阻斷劑(Nifedipine = Adalat® sl.),但在老人病患(收縮壓高、舒張壓低),快速降壓可能造成心肌梗塞、腦部缺血性中風。 - c. 因此建議,若無 Hypertensive emergency 的那些症狀出現,僅須以口服降壓藥在 $1\sim2$ 天內將血壓降至 160/100 mmHg 以下即可。 - d. 口服藥物的選擇可依個別病患給予,如 CHF、CKD 病患給予 ACEI 等。(Cecil ch. 66) Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - (4) 鑑別診斷:需先排除四大急症(心肌梗塞、主動脈剝離、高張性氣胸、心包膜填塞)。 其他依器官考慮:心臟、肺臟(肺部無神經,但疾病侵犯到肋膜就會疼痛)、消化 道(食道逆流、胃潰瘍)、胸壁(帶狀疱疹、肋軟骨發炎、外傷)等。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].

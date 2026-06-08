@@ -15,58 +15,134 @@ Diseases and syndromes.
 
 ## Pages
 
+- [[conditions/abnormal-liver-function-tests|Abnormal liver function tests (肝功能異常)]] - 肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。
+- [[conditions/achalasia|Achalasia (食道弛緩不能)]] - 下食道括約肌放鬆不全與食道蠕動異常造成吞嚥困難。
+- [[conditions/acromegaly|Acromegaly (肢端肥大症)]] - 成人 GH 過多造成肢端肥大、代謝與心血管併發症。
+- [[conditions/acute-cholangitis|Acute cholangitis (急性膽管炎)]] - 膽道阻塞合併感染，可出現 Charcot triad 或 Reynolds pentad。
+- [[conditions/acute-cholecystitis|Acute cholecystitis (急性膽囊炎)]] - 膽囊管阻塞後發炎，典型有右上腹痛與 Murphy sign。
 - [[conditions/acute-coronary-syndrome|Acute coronary syndrome (急性冠心症)]] - 斑塊破裂與冠狀動脈血栓造成不穩定心絞痛或心肌梗塞。
+- [[conditions/acute-pancreatitis|Acute pancreatitis (急性胰臟炎)]] - 急性胰臟發炎常見原因為膽石與酒精，需評估嚴重度與併發症。
 - [[conditions/acute-respiratory-distress-syndrome|ARDS (急性呼吸窘迫症候群)]] - 瀰漫性肺泡傷害造成低氧性呼吸衰竭，通氣策略需肺保護。
+- [[conditions/adrenal-insufficiency|Adrenal insufficiency (腎上腺功能不全)]] - 皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。
+- [[conditions/alcohol-associated-liver-disease|Alcohol-associated liver disease (酒精性肝病)]] - 酒精造成脂肪肝、酒精性肝炎、纖維化或肝硬化。
 - [[conditions/aortic-aneurysm|Aortic aneurysm (主動脈瘤)]] - 主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。
 - [[conditions/aortic-dissection|Aortic dissection (主動脈剝離)]] - 急性胸背痛與血壓控制相關的大血管急症。
 - [[conditions/aortic-regurgitation|Aortic regurgitation (主動脈瓣逆流)]] - 舒張期逆流造成容量負荷與脈壓變化。
 - [[conditions/aortic-stenosis|Aortic stenosis (主動脈瓣狹窄)]] - 固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。
+- [[conditions/ascites|Ascites (腹水)]] - 腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。
 - [[conditions/asthma|Asthma (氣喘)]] - 可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。
 - [[conditions/atherosclerosis|Atherosclerosis (動脈粥狀硬化)]] - 斑塊形成、破裂與血栓連結穩定型心絞痛和急性冠心症。
 - [[conditions/atrial-fibrillation|Atrial fibrillation (心房顫動)]] - 常見心律不整，需評估 rate control、rhythm control 與抗凝。
 - [[conditions/atrial-flutter|Atrial flutter (心房撲動)]] - 心房大迴路造成鋸齒狀 flutter wave。
+- [[conditions/autoimmune-hepatitis|Autoimmune hepatitis (自體免疫性肝炎)]] - 自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。
 - [[conditions/av-block|Atrioventricular block (房室傳導阻滯)]] - 房室傳導延遲或中斷，依程度決定追蹤或節律器。
+- [[conditions/barrett-esophagus|Barrett esophagus (巴洛氏食道)]] - 慢性 GERD 相關腸化生，是食道腺癌風險因子。
 - [[conditions/bronchiectasis|Bronchiectasis (支氣管擴張症)]] - 支氣管永久擴張，常有慢性痰與反覆感染。
 - [[conditions/bundle-branch-block|Bundle branch block (束枝傳導阻滯)]] - 心室傳導延遲會影響 ECG 判讀與 CRT 評估。
 - [[conditions/cardiac-tamponade|Cardiac tamponade (心包膜填塞)]] - 心包壓升高限制心臟充填，可能造成休克。
 - [[conditions/cardiogenic-pulmonary-edema|Cardiogenic pulmonary edema (心因性肺水腫)]] - 心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。
 - [[conditions/cardiomyopathy|Cardiomyopathy (心肌病變)]] - 心肌結構或功能異常的疾病群。
+- [[conditions/celiac-disease|Celiac disease (乳糜瀉)]] - gluten 相關免疫性小腸病變，可造成吸收不良與腹瀉。
+- [[conditions/choledocholithiasis|Choledocholithiasis (總膽管結石)]] - 總膽管結石可造成阻塞性黃疸、膽管炎或胰臟炎。
+- [[conditions/cholelithiasis|Cholelithiasis (膽結石)]] - 膽囊或膽道結石可造成 biliary colic、膽囊炎、膽管炎或胰臟炎。
 - [[conditions/chronic-bronchitis|Chronic bronchitis (慢性支氣管炎)]] - COPD phenotype，以慢性咳嗽咳痰為核心。
+- [[conditions/chronic-pancreatitis|Chronic pancreatitis (慢性胰臟炎)]] - 反覆胰臟發炎造成纖維化、疼痛、外分泌或內分泌不足。
 - [[conditions/community-acquired-pneumonia|Community-acquired pneumonia (社區型肺炎)]] - 院外發生的肺炎，常以臨床嚴重度與病原風險決定治療。
 - [[conditions/constrictive-pericarditis|Constrictive pericarditis (縮窄性心包膜炎)]] - 硬化心包限制舒張充填，可類似限制型心肌病變。
 - [[conditions/copd|COPD (慢性阻塞性肺疾病)]] - 長期有害氣體暴露造成不可完全可逆的氣流阻塞。
+- [[conditions/crohn-disease|Crohn disease (克隆氏症)]] - 可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。
+- [[conditions/cushing-syndrome|Cushing syndrome (庫欣氏症候群)]] - 皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。
+- [[conditions/diabetes-insipidus|Diabetes insipidus (尿崩症)]] - ADH 缺乏或腎臟反應不良造成多尿與高鈉風險。
+- [[conditions/diabetes-mellitus|Diabetes mellitus (糖尿病)]] - 慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。
+- [[conditions/diabetic-ketoacidosis|Diabetic ketoacidosis, DKA (糖尿病酮酸中毒)]] - 胰島素不足造成高血糖、酮酸中毒與脫水的急性併發症。
+- [[conditions/diabetic-nephropathy|Diabetic nephropathy (糖尿病腎病變)]] - 糖尿病微血管併發症，可有白蛋白尿與腎功能下降。
+- [[conditions/diabetic-retinopathy|Diabetic retinopathy (糖尿病視網膜病變)]] - 糖尿病微血管眼部併發症，需定期眼底檢查。
+- [[conditions/diarrhea|Diarrhea (腹瀉)]] - 腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。
 - [[conditions/dilated-cardiomyopathy|Dilated cardiomyopathy (擴張型心肌病變)]] - 心室擴張與收縮功能下降，可導致心衰竭。
+- [[conditions/drug-induced-liver-injury|Drug-induced liver injury, DILI (藥物性肝損傷)]] - 藥物或毒物造成肝細胞型、膽汁鬱積型或混合型肝損傷。
 - [[conditions/dyslipidemia|Dyslipidemia (血脂異常)]] - 血脂異常是動脈粥狀硬化與冠心症重要危險因子。
+- [[conditions/dysphagia|Dysphagia (吞嚥困難)]] - 吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。
 - [[conditions/emphysema|Emphysema (肺氣腫)]] - 肺泡壁破壞與過度充氣造成氣體交換障礙。
 - [[conditions/empyema|Empyema (膿胸)]] - 肋膜腔感染積膿，常需引流與抗生素。
+- [[conditions/esophageal-cancer|Esophageal cancer (食道癌)]] - 食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。
+- [[conditions/esophageal-varices|Esophageal varices (食道靜脈曲張)]] - 門脈高壓造成食道靜脈曲張，可發生大量上消化道出血。
+- [[conditions/gastric-cancer|Gastric cancer (胃癌)]] - 胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。
+- [[conditions/gastric-varices|Gastric varices (胃靜脈曲張)]] - 胃靜脈曲張出血風險與位置、門脈高壓及處置選擇相關。
+- [[conditions/gastritis|Gastritis (胃炎)]] - 胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。
+- [[conditions/gastroesophageal-reflux-disease|Gastroesophageal reflux disease, GERD (胃食道逆流)]] - 胃酸逆流造成 heartburn、食道炎或併發症，治療包含生活型態與抑酸藥物。
+- [[conditions/gastrointestinal-stromal-tumor|Gastrointestinal stromal tumor, GIST (胃腸基質瘤)]] - 胃腸道間質腫瘤常與 KIT/PDGFRA 訊號相關。
+- [[conditions/gestational-diabetes|Gestational diabetes mellitus (妊娠糖尿病)]] - 懷孕期間診斷的糖代謝異常，影響母胎風險與後續糖尿病風險。
+- [[conditions/gout|Gout (痛風)]] - 尿酸鹽結晶造成急性關節炎與慢性痛風石。
+- [[conditions/graves-disease|Graves disease (葛瑞夫茲病)]] - 自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。
+- [[conditions/hashimoto-thyroiditis|Hashimoto thyroiditis (橋本氏甲狀腺炎)]] - 自體免疫甲狀腺炎，常導致甲狀腺低下。
 - [[conditions/heart-failure|Heart failure (心臟衰竭)]] - 心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。
+- [[conditions/helicobacter-pylori-infection|Helicobacter pylori infection (幽門螺旋桿菌感染)]] - H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。
+- [[conditions/hepatic-encephalopathy|Hepatic encephalopathy (肝腦病變)]] - 肝衰竭與門體分流相關神經精神症候群，常由出血、感染、便秘等誘發。
+- [[conditions/hepatitis-a|Hepatitis A (A 型肝炎)]] - HAV 多經糞口傳染，通常急性、自限性。
+- [[conditions/hepatitis-b|Hepatitis B (B 型肝炎)]] - HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。
+- [[conditions/hepatitis-c|Hepatitis C (C 型肝炎)]] - HCV 易慢性化並與肝硬化、肝細胞癌相關。
+- [[conditions/hepatitis-d|Hepatitis D (D 型肝炎)]] - HDV 需依賴 HBV，可造成 coinfection 或 superinfection。
+- [[conditions/hepatitis-e|Hepatitis E (E 型肝炎)]] - HEV 多經糞口傳染，孕婦感染風險需特別注意。
+- [[conditions/hepatocellular-carcinoma|Hepatocellular carcinoma, HCC (肝細胞癌)]] - HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。
+- [[conditions/hepatopulmonary-syndrome|Hepatopulmonary syndrome (肝肺症候群)]] - 肝病造成肺內血管擴張與 shunt，典型可有 platypnea-orthodeoxia。
+- [[conditions/hepatorenal-syndrome|Hepatorenal syndrome (肝腎症候群)]] - 肝硬化與門脈高壓造成的功能性腎衰竭，需排除其他腎損傷。
 - [[conditions/hfpef|HFpEF (射出分率保留型心衰竭)]] - 舒張功能下降但 LVEF 可保留，治療重點偏症狀、血壓與共病控制。
 - [[conditions/hfref|HFrEF (射出分率降低型心衰竭)]] - 左心室收縮功能下降，藥物與裝置治療證據較完整。
 - [[conditions/hospital-acquired-pneumonia|Hospital-acquired pneumonia (院內型肺炎)]] - 住院後發生的肺炎，需注意抗藥性菌。
+- [[conditions/hypercalcemia|Hypercalcemia (高血鈣)]] - 高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。
+- [[conditions/hyperosmolar-hyperglycemic-state|Hyperosmolar hyperglycemic state, HHS (高滲透壓高血糖狀態)]] - 嚴重高血糖與高滲透壓，酮酸較不明顯，常見於第 2 型糖尿病。
+- [[conditions/hyperparathyroidism|Hyperparathyroidism (副甲狀腺亢進)]] - PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。
+- [[conditions/hyperprolactinemia|Hyperprolactinemia (高泌乳素血症)]] - 泌乳素升高可造成月經異常、溢乳、性腺功能低下。
 - [[conditions/hypertension|Hypertension (高血壓)]] - 血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。
 - [[conditions/hypertensive-emergency|Hypertensive emergency (高血壓急症)]] - 高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。
+- [[conditions/hyperthyroidism|Hyperthyroidism (甲狀腺亢進)]] - 甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。
 - [[conditions/hypertrophic-cardiomyopathy|Hypertrophic cardiomyopathy (肥厚型心肌病變)]] - 心肌肥厚與動態出口阻塞相關，使用 vasodilator 需小心。
+- [[conditions/hyperuricemia|Hyperuricemia (高尿酸血症)]] - 尿酸升高與痛風、腎結石及代謝風險相關。
+- [[conditions/hypocalcemia|Hypocalcemia (低血鈣)]] - 低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。
+- [[conditions/hypoglycemia|Hypoglycemia (低血糖)]] - 血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。
+- [[conditions/hypogonadism|Hypogonadism (性腺功能低下)]] - 性腺荷爾蒙不足可源自原發性性腺或中樞病變。
+- [[conditions/hypopituitarism|Hypopituitarism (腦垂體功能低下)]] - 腦垂體荷爾蒙缺乏造成多軸內分泌不足。
+- [[conditions/hypothyroidism|Hypothyroidism (甲狀腺低下)]] - 甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。
 - [[conditions/idiopathic-pulmonary-fibrosis|Idiopathic pulmonary fibrosis (特發性肺纖維化)]] - 原因不明的進行性纖維化 ILD。
+- [[conditions/infectious-diarrhea|Infectious diarrhea (感染性腹瀉)]] - 感染性腹瀉依病原、血便、發燒與旅遊/抗生素暴露判斷。
 - [[conditions/infective-endocarditis|Infective endocarditis (感染性心內膜炎)]] - 菌血症造成心內膜或瓣膜感染，診斷依血液培養、心超與 Duke criteria。
+- [[conditions/inflammatory-bowel-disease|Inflammatory bowel disease, IBD (發炎性腸道疾病)]] - IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與病理。
 - [[conditions/interstitial-lung-disease|Interstitial lung disease (間質性肺疾病)]] - 限制型通氣障礙與擴散能力下降相關的肺間質疾病群。
+- [[conditions/irritable-bowel-syndrome|Irritable bowel syndrome, IBS (腸躁症)]] - 功能性腸道症候群，以腹痛與排便習慣改變為核心。
 - [[conditions/ischemic-heart-disease|Ischemic heart disease (缺血性心臟病)]] - 心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。
+- [[conditions/jaundice|Jaundice (黃疸)]] - 黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。
 - [[conditions/latent-tuberculosis-infection|Latent tuberculosis infection (潛伏結核感染)]] - 感染但無活動病灶，需依風險決定預防治療。
+- [[conditions/liver-abscess|Liver abscess (肝膿瘍)]] - 肝臟膿瘍可為細菌性或阿米巴性，表現發燒與右上腹痛。
+- [[conditions/liver-cirrhosis|Liver cirrhosis (肝硬化)]] - 慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。
+- [[conditions/lower-gastrointestinal-bleeding|Lower gastrointestinal bleeding (下消化道出血)]] - 下消化道出血需依血流動力學與出血型態評估來源。
 - [[conditions/lung-abscess|Lung abscess (肺膿瘍)]] - 肺實質壞死形成膿腔，常與吸入性病原相關。
 - [[conditions/lung-cancer|Lung cancer (肺癌)]] - 肺部惡性腫瘤，需依組織型、分期與分子標記治療。
+- [[conditions/mallory-weiss-tear|Mallory-Weiss tear (Mallory-Weiss 裂傷)]] - 劇烈嘔吐後食道胃交界黏膜裂傷可造成上消化道出血。
+- [[conditions/metabolic-syndrome|Metabolic syndrome (新陳代謝症候群)]] - 腹部肥胖、高血壓、高血糖與血脂異常聚集，增加糖尿病與心血管風險。
 - [[conditions/mitral-regurgitation|Mitral regurgitation (二尖瓣逆流)]] - 收縮期逆流造成左心房與左心室容量負荷。
 - [[conditions/mitral-stenosis|Mitral stenosis (二尖瓣狹窄)]] - 常與風濕性病變相關，造成左心房壓上升與肺鬱血。
 - [[conditions/mitral-valve-prolapse|Mitral valve prolapse (二尖瓣脫垂)]] - 瓣膜脫垂可造成收縮中期 click 與晚期收縮雜音。
 - [[conditions/myocarditis|Myocarditis (心肌炎)]] - 心肌發炎可造成胸痛、心律不整或心衰竭。
 - [[conditions/non-small-cell-lung-cancer|Non-small-cell lung cancer (非小細胞肺癌)]] - 肺癌主要類型，治療依分期與 driver mutation。
+- [[conditions/nonalcoholic-fatty-liver-disease|Nonalcoholic fatty liver disease, NAFLD (非酒精性脂肪肝)]] - 代謝症候群相關脂肪肝可進展至 steatohepatitis、纖維化或肝硬化。
 - [[conditions/nstemi|NSTEMI (非 ST 段上升心肌梗塞)]] - 通常為心內膜下梗塞，心肌酵素上升但無 ST elevation。
 - [[conditions/obstructive-sleep-apnea|Obstructive sleep apnea (阻塞性睡眠呼吸中止症)]] - 睡眠中上呼吸道反覆阻塞造成缺氧與日間嗜睡。
 - [[conditions/orthostatic-hypotension|Orthostatic hypotension (姿勢性低血壓)]] - 姿勢改變後血壓下降造成頭暈或暈厥。
+- [[conditions/osteoporosis|Osteoporosis (骨質疏鬆症)]] - 骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。
+- [[conditions/pancreatic-cancer|Pancreatic cancer (胰臟癌)]] - 胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。
+- [[conditions/peptic-ulcer-disease|Peptic ulcer disease (消化性潰瘍)]] - 胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。
 - [[conditions/pericardial-effusion|Pericardial effusion (心包膜積液)]] - 心包膜腔液體增加，需注意 tamponade 生理。
 - [[conditions/pericarditis|Pericarditis (心包膜炎)]] - 心包膜發炎可造成胸痛、摩擦音與心電圖變化。
+- [[conditions/pheochromocytoma|Pheochromocytoma (嗜鉻細胞瘤)]] - 兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。
+- [[conditions/pituitary-adenoma|Pituitary adenoma (腦垂體腺瘤)]] - 腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。
 - [[conditions/pleural-effusion|Pleural effusion (肋膜積液)]] - 肋膜腔液體增加，需區分 transudate 與 exudate。
 - [[conditions/pneumoconiosis|Pneumoconiosis (塵肺症)]] - 職業暴露造成的肺部纖維化疾病群。
 - [[conditions/pneumonia|Pneumonia (肺炎)]] - 肺實質感染，需依場域與病原風險選擇抗生素。
 - [[conditions/pneumothorax|Pneumothorax (氣胸)]] - 空氣進入肋膜腔造成肺塌陷，張力性氣胸為急症。
+- [[conditions/polycystic-ovary-syndrome|Polycystic ovary syndrome, PCOS (多囊性卵巢症候群)]] - 排卵異常、高雄性素與代謝風險相關症候群。
+- [[conditions/portal-hypertension|Portal hypertension (門脈高壓)]] - 門脈壓上升可造成靜脈曲張、脾腫大、腹水與側枝循環。
+- [[conditions/prediabetes|Prediabetes (糖尿病前期)]] - 血糖高於正常但未達糖尿病，生活型態介入可降低進展。
+- [[conditions/primary-aldosteronism|Primary aldosteronism (原發性醛固酮症)]] - 醛固酮自主分泌造成高血壓與低血鉀。
 - [[conditions/pulmonary-embolism|Pulmonary embolism (肺栓塞)]] - 靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。
 - [[conditions/pulmonary-hypertension|Pulmonary hypertension (肺高壓)]] - 肺動脈壓升高，可源自心肺疾病或肺血管病變。
 - [[conditions/restrictive-cardiomyopathy|Restrictive cardiomyopathy (限制型心肌病變)]] - 舒張受限造成充填障礙。
@@ -74,17 +150,27 @@ Diseases and syndromes.
 - [[conditions/right-ventricular-infarction|Right ventricular infarction (右心室梗塞)]] - 常合併下壁梗塞；治療上需避免過度降低 preload。
 - [[conditions/sarcoidosis|Sarcoidosis (類肉瘤病)]] - 非乾酪性肉芽腫疾病，可侵犯肺與多器官。
 - [[conditions/secondary-hypertension|Secondary hypertension (次發性高血壓)]] - 需從腎臟、內分泌、血管與藥物原因找可逆病因。
+- [[conditions/siadh|SIADH (抗利尿激素分泌不當症候群)]] - ADH 過多造成低鈉血症與濃縮尿。
 - [[conditions/small-cell-lung-cancer|Small-cell lung cancer (小細胞肺癌)]] - 侵襲性高、常早期轉移的肺癌類型。
+- [[conditions/spontaneous-bacterial-peritonitis|Spontaneous bacterial peritonitis, SBP (自發性細菌性腹膜炎)]] - 肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。
 - [[conditions/stable-angina|Chronic stable angina (慢性穩定型心絞痛)]] - 固定冠狀動脈斑塊造成可預測的運動誘發胸痛。
 - [[conditions/stemi|STEMI (ST 段上升心肌梗塞)]] - 全層心肌缺血常出現 ST elevation，需再灌流策略。
 - [[conditions/supraventricular-tachycardia|Supraventricular tachycardia (上心室頻脈)]] - 窄 QRS 規則性頻脈常與再迴路相關。
 - [[conditions/syncope|Syncope (暈厥)]] - 短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。
+- [[conditions/thyroid-cancer|Thyroid cancer (甲狀腺癌)]] - 甲狀腺惡性腫瘤依病理型態預後與治療不同。
+- [[conditions/thyroid-nodule|Thyroid nodule (甲狀腺結節)]] - 甲狀腺結節需以超音波、TSH 與細針抽吸風險分層。
+- [[conditions/thyroid-storm|Thyroid storm (甲狀腺風暴)]] - 嚴重 thyrotoxicosis 急症，需快速支持與抑制甲狀腺素作用/合成/釋放。
 - [[conditions/torsades-de-pointes|Torsades de pointes (多型性心室頻脈)]] - QT 延長相關多型性 VT。
 - [[conditions/tuberculosis|Tuberculosis (結核病)]] - 分枝桿菌感染，可為肺結核或肺外結核。
+- [[conditions/type-1-diabetes|Type 1 diabetes mellitus (第 1 型糖尿病)]] - 自體免疫 β cell 破壞造成絕對胰島素缺乏，常需胰島素治療。
+- [[conditions/type-2-diabetes|Type 2 diabetes mellitus (第 2 型糖尿病)]] - 胰島素阻抗與 β cell 功能下降造成慢性高血糖。
+- [[conditions/ulcerative-colitis|Ulcerative colitis (潰瘍性結腸炎)]] - 由直腸連續向近端侵犯的黏膜層 IBD。
 - [[conditions/unstable-angina|Unstable angina (不穩定心絞痛)]] - ACS 光譜中無心肌酵素上升的缺血狀態。
+- [[conditions/upper-gastrointestinal-bleeding|Upper gastrointestinal bleeding (上消化道出血)]] - 上消化道出血常見來源包含潰瘍、靜脈曲張、Mallory-Weiss tear 等。
 - [[conditions/vasovagal-syncope|Vasovagal syncope (血管迷走神經性暈厥)]] - 反射性暈厥常有誘發情境與前驅症狀。
 - [[conditions/ventilator-associated-pneumonia|Ventilator-associated pneumonia (呼吸器相關肺炎)]] - 機械通氣後發生的肺炎，診斷與抗菌選擇較複雜。
 - [[conditions/ventricular-fibrillation|Ventricular fibrillation (心室顫動)]] - 致命心律不整，需立即去顫與急救。
 - [[conditions/ventricular-tachycardia|Ventricular tachycardia (心室頻脈)]] - 寬 QRS 頻脈，可能導致血流動力學不穩。
+- [[conditions/viral-hepatitis|Viral hepatitis (病毒性肝炎)]] - 病毒性肝炎包含 HAV、HBV、HCV、HDV、HEV，臨床可急性或慢性。
 - [[conditions/wellens-syndrome|Wellens syndrome (Wellens 氏症候群)]] - 前胸導程 T 波變化提示 LAD 嚴重狹窄。
 - [[conditions/wolff-parkinson-white-syndrome|Wolff-Parkinson-White syndrome (WPW 症候群)]] - 副傳導路造成 pre-excitation，合併 AF 時治療需特別注意。

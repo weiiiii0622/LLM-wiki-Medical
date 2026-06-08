@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch22]]"
+  - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book2-ch24]]"
 aliases:
   - 'Heparin (肝素)'
   - 'Heparin'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁以 `醫(三)第1
 - [[sources/med3-book1-ch09]]
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch22]]
+- [[sources/med3-book2-ch11]]
+- [[sources/med3-book2-ch24]]
 
 ## Key Details From Sources
 
+- ...otal T4 ↑ | Free T4 ↑ | 抑制 T4→ T3 | Amiodarone · Propranolol | | (Euthyroidism) | Total T4 正常 | Free T4 ↑ | T4 離開 TBG | Heparin · LMWH | | | Total T4 ↑ | Free T4 正常 | 增加 TBG | 雌激素 (Estrogen)、懷孕、肝炎、肝 | | | | | | 硬化 | | | Total T4 ↓ | Free T4 正常 | 減少 TBG | 雄激素 (Androgen) | | 甲狀腺功能低下 | Total T4 ↓ | free T4 ↓ | 抑制 TSH | Glucocorticoid, Dopamine, | | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- a. 凝血因子(PT、aPTT): 若肝臟製造能力下降,可在短時間內表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - (3) 抗血栓藥物方面:ACS 病患會使用 Heparin 將 aPTT 控制在 60 秒左右。因為 Heparin induced thrombocytopenia 的副作用,這方面還可用 LMWH、Fondaparinus、 Bivalirudin 等。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (2) 急性期藥物治療: NTG pump + Aspirin 3# st + Clopidogrel 4# st + LMWH - a. 抗缺血治療 (Anti-ischemic treatment): - (a) Nitrate:僅證明可減緩症狀,無降低死亡率;劑量可往上調到症狀緩解,但 SBP 1 mm Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (a) Heparin: 在接受 fibrinolysis 的 STEMI 病人身上,可降低 MI 相關死亡率。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch13]]"
+  - "[[sources/med3-book2-ch03]]"
+  - "[[sources/med3-book2-ch11]]"
 aliases:
   - 'Aortic dissection (主動脈剝離)'
   - 'Aortic dissection'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-急性胸背痛與血壓控制相關的大血管急症。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch13]]
+- [[sources/med3-book2-ch03]]
+- [[sources/med3-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...部 McBurney point*)、憩室炎 | | | | | | 左下腹部 | 結腸病變(憩室炎、便秘) | | | | | | 下腹部 | 膀胱感染或病變、女性的骨盆腔發炎 | | | | | 轉移性 | 後中背部 | 急性胰臟炎、腹主動脈剝離 | | | | | 疼痛 | 右背肩胛骨處 | 急性膽囊炎 | | | | | 25714 | 左肩 | 脾臟發炎、膿瘍或脾臟缺血 (infarction) | | | | | | 同側睪丸 | 輸尿管結石 | | | | | 腹痛性質 | 持續 | 腹内炎症或出血 | | | | | | 陣發性 | 中空臟器阻塞、痙攣 | | | | Source: [[sources/med3-book2-ch03|乙、腹痛]].
+- 【詳解】甲狀腺癌除非是早期或低惡性度的病人做 lobectomy 外, 一般治療為: total thyroidectomy + neck LN dissection, 術後再服用 放射碘,之後長期甲狀腺素使用。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - (C) 主動脈剝離 (aortic dissection) Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 - (C) aortic dissection Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 - (D) 2. 一位 65 歲女性病人,有肥胖、腦中風、高血壓的病史。4 週前曾因 大腿骨折而接受手術治療,目前在家臥床休養,傷口癒合良好。此 病人清晨突然覺得噁心、胸悶、喘不過氣來、家人緊急送醫治療。 到院時體溫正常意識清楚,呼吸27次/min,心跳120次/min,血 壓 88/43 mmHg, 血氧飽和度 86%。你發現心電圖在 Lead V1 至 V4 出 現新的 T wave inversion 及 S1-Q3-T3 pattern,該病人最可能之診斷為何? (A) 主動脈剝離 (aortic dissection) Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].

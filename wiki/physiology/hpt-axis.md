@@ -1,0 +1,62 @@
+---
+type: physiology
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book2-ch15]]"
+  - "[[sources/med3-book2-ch13]]"
+  - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book2-ch10]]"
+  - "[[sources/med3-book2-ch14]]"
+  - "[[sources/med3-book2-ch16]]"
+aliases:
+  - 'Hypothalamic-pituitary-thyroid axis, HPT axis (下視丘-腦垂體-甲狀腺軸)'
+  - 'Hypothalamic-pituitary-thyroid axis, HPT axis'
+  - '下視丘-腦垂體-甲狀腺軸'
+tags:
+  - medicine
+  - physiology
+  - auto-topic-node
+---
+
+# Hypothalamic-pituitary-thyroid axis, HPT axis (下視丘-腦垂體-甲狀腺軸)
+
+## Summary
+
+HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med3-book2-ch15]]
+- [[sources/med3-book2-ch13]]
+- [[sources/med3-book2-ch11]]
+- [[sources/med3-book2-ch10]]
+- [[sources/med3-book2-ch14]]
+- [[sources/med3-book2-ch16]]
+
+## Key Details From Sources
+
+- ...----------------------------------|------------------|------------------------|-----------------| | Hormone | FSH, LH | TSH | PRL | GH | ACTH | | 刺激分泌 | GnRH,estrogen | TRH | TRH,Estrogen | GHRH | CRH, AVP | | 抑制分泌 | Sex steroids | T3, T4, dopamine,somatostatin,glucocorticoids | Dopamine | Somatostatin,IGF-1 | Glucocorticoids | | 目標器官 | 性腺 | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
+- (1) 荷爾蒙 (Hormone): 腦垂體腫瘤在蝶鞍僅有 的空間內壓迫腦垂體正常部分,造成荷爾蒙 低下。前葉分泌細胞分部位置如圖所示,內 側較不容易受腫瘤壓迫影響。通常生理上越 重要的越慢受影響,影響順序 GH → FSH、 LH → TSH → ACTH。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
+- | 五種細胞 | 症 狀 | |-------------------|---------------------------------| | 生長激素低下 (GH ↓ ) | 小孩:身材矮小 | | | 成人:倦怠、無力、骨質疏鬆、脂肪量增多 | | 性促素低下 (FSH、LH ↓ ) | 男:不孕、性慾降低、無第二性徵 | | | 女:不孕、無月經 | | 甲促素低下 (TSH ↓ ) | 甲狀腺低能症 (Hypothyroidism) | | 皮促素低下 (ACTH ↓ ) | 腎上腺功能不足 (Adrenal insufficiency) | | 乳促素低下 (PRL ↓ ) | 女性無法泌乳 | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
+- ...------------------------------------------------------|------------------| | (B) 2. | 對於篩檢常見內分泌疾病之措施,何者錯誤? (A) 甲狀腺低能症-測 TSH (B) 多囊泡卵巢症-測 estradiol、progesterone (C) 勃起失能-測乳促素、睪固酮 (D) 葛雷瑞夫氏症-測 Free T4、TSH 【詳解】(B) 測 androgen。 | 101(一)專醫三-57 | | (B) 3. | 下列那一項有關男性生殖系統的敘述是正確的? (A) 黃體激素(LH)作用到 Sertoli cells 使其合成 testosterone (B) 血液中的 testosterone Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
+- ...ann syndrom | e 病人恢復製造精蟲的能力,可以使用: | 93(一)檢 | | | | (A) testosterone | (B) cortisone | 內 -22 | | | | (C) hCG 和 hMG | (D) thyroxine | | | | | 【詳解】(台867)。 | | | | (A | ) 13 | . 下列何者是 Klinefelter's | s syndrome 的染色體異常? | 93(一)檢 | | | | (A) XXY | (B) XO | 內 -49 | | | | (C) XX | (D) XYY | | | | | 【詳解】最常見的是 47 | XXXY,其次為 46XY、47XXY 鑲嵌型。 | | | (B | ) 14 | Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
+- 1. 甲狀腺促進素 (Thyroid Stimulating Hormone, TSH): - (1) 與其他腦下垂體分泌的荷爾蒙一樣,都是脈動性分泌(Pulsatile secretion),但半衰期較長,因此單點量測足以提供臨床資訊。(Harrison 2225) - (2) TSH 為偵測 Primary hypo/hyperthyroidism 最敏感的方法。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- (2) Sick euthyroid syndrome: 表甲狀腺以外的其他內科疾病導致血中甲狀腺素異常,但 甲狀腺本身沒有問題(「Eu」thyroid)。 - a. Mild illness (Low T3 syndrome): 當人生病時, T4 轉換成 T3 比例減少,甚至會 轉換成沒有活性的 rT3 (reverse T3); T3 下降愈多、疾病愈嚴重。 - b. Very sick patient (Low T4 syndrome): 若病患的 T4、T3、TSH 皆下降,此時暗 示病患預後差。(Harrison 2239) Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- .../dL$ | $T4 = 5 \sim 15 (10x)$ | 0.3 | | free T4 = $0.7 \sim 1.8 \text{ ng/dL}$ , | $fT4 = 0.5 \sim 1.5 (10)$ | 記憶: | | $TSH = 0.34 \sim 4.25 \mu U/mL$ | $TSH = 0.5 \sim 5$ | T3 強度強 3 倍 | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- ...(D) | 5. 一位 20 歲女性病人,主訴近三個月來有陣發性心悸、冒汗、頭痛等症狀。目前尚無體重減輕,平時也沒有手抖的現象。幾次測量血壓時發現有忽高忽低、變化極大的現象。對於此病人應該先建議什麼檢查? (A) free T 4 and TSH (B) ACTH and cortisol (C) aldosterone and renin (D) 24-hour urine VMA and catecholamine | 99(一)專醫三-44 | | | | | | (C) | 6. 病人因突發頭痛、心悸、冒冷汗而住院,檢查發現病人血壓變化很大,而這些症狀均合併血壓急速升高時發生,則他最可能的診斷是: | 97(一)專醫三-21 | | | (A) renovascular Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
+- \*T3 (Triiodothyronine) \ T4 (Tetraiodothyronine \ Thyroxine) \ PTH (Parathyroid hormone) Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch02]]"
+  - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book2-ch23]]"
 aliases:
   - 'Pulmonary embolism (肺栓塞)'
   - 'Pulmonary embolism'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med3-book1-ch21]]
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch02]]
+- [[sources/med3-book2-ch11]]
+- [[sources/med3-book2-ch23]]
 
 ## Key Details From Sources
 
+- 【詳解】考一個 PE 的題目,以下為分級: Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- ...se 才能分解,由肝臟以外的組織分解,可用於肝腦病變患者。 | 101(一)專醫三-12 | | (C) | 16. 一位 60 歲男性病人,端坐時感覺呼吸困難,躺平時即獲得緩解,下列何者為最可能的診斷? (A) 心臟衰竭 (B) 肺梗塞(pulmonary embolism) (C) 肝肺症候群(hepato-pulmonary syndrome) (D) 糖尿病合併酮酸中毒(diabetic ketoacidosis) 【詳解】(C) 肝肺症候群會產生 shunt 導致低血氧,這些 shunt 在肺底部較多,站著的時候較多血流經 shunt,低血氧較嚴重。 | 99(一)專醫三-16 | | (D) | 17. 一位 50 歲男性因為 B 型肝炎相關肝硬化合併大量腹水住院治療,經利尿劑及幾次大量腹水放液 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - 1. Active cancer, Immobilization, Bed rest > 3d or major surgery within 4wks →題目喜歡出癌症病人術後喘,一定要想到肺血管栓塞。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 - 3. D Dimer: 高敏感度、低特異性;用於低度臨床懷疑時,排除肺栓塞;高度臨床懷疑時、癌症病患、老年人等, D-dimer 常會呈現偽陽性,提供的臨床幫助有限。建議使用流程如下: (Harrison figure 273-3) - (1) 低度臨床懷疑 +D-dimer 陰性→排除診斷。 - (2) 低度臨床懷疑 +D-dimer 陽性→需進一步影像學檢查。 - (3) 高度臨床懷疑→直接進一步影像學檢查。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 - 5. 肺血管攝影: 為急性肺栓塞的黃金診斷標準, 但具侵襲性, 現在少做。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].

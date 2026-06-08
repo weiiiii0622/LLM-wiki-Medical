@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch10]]"
   - "[[sources/med3-book1-ch07]]"
+  - "[[sources/med3-book2-ch01]]"
 aliases:
   - 'Pacemaker (心律調節器)'
   - 'Pacemaker'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-治療部分 bradyarrhythmia 或傳導阻滯。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+治療部分 bradyarrhythmia 或傳導阻滯。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book1-ch10]]
 - [[sources/med3-book1-ch07]]
+- [[sources/med3-book2-ch01]]
 
 ## Key Details From Sources
 
+- 膠囊內視鏡 capsule endoscopy:大小約 26×11 mm 為光源、微型攝影機、影像感應器與電池的組合。啟動後每秒拍攝 2 張照片,於 7~8 小時電力中,可拍攝 5~6 萬張照片,患者身上會配戴接收器接收照片,膠囊使用完畢後隨糞便排出不回收。一開始發明動機(2000 年)為補強傳統內視鏡(胃鏡、大腸鏡)較難探查的小腸部份。缺點是僅能影像探查,後續仍須用其他方式進行治療。適應症為:不明原因消化道出血、腹痛、體重減輕、貧血等,且已排除上下消化道後高度懷疑小腸病灶的可能;禁忌症為:懷疑腸道阻塞、狹窄、不蠕動(可能造成膠囊無法排出)者、懷孕、裝有心律調節器等。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (2) SA node、AV node 的起搏細胞(pacemaker cell)因於休息時有一向細胞內流入的鈉離子流(If、Funny current),導致細胞會自己慢慢去極化,再由鈣離子流入細胞,產生構成動作電位的去極化(Phase 0)。(右下圖) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (C) 竇房結(sinoatrial node)的起搏細胞(pacemaker cell):鈉離子 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - 【詳解】心房、心室等心肌細胞和身體其他可興奮性組織相同,皆以鈉離子快速流入細胞產生去極化。SA node、AV node 的起搏細胞(pacemaker cell)則以鈣離子流入使細胞產生去極化。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

@@ -55,7 +55,10 @@ What it does:
 - Reads only chapter-split `.md` files and ignores the full-book `.md`.
 - Creates one source summary per chapter under `wiki/sources/`.
 - Creates topic-first nodes under `wiki/conditions/`, `wiki/drugs/`, `wiki/diagnostics/`, `wiki/procedures/`, `wiki/guidelines/`, `wiki/physiology/`, `wiki/anatomy/`, and `wiki/concepts/`.
+- Updates existing topic nodes when a later textbook overlaps earlier knowledge; avoid duplicate nodes for the same disease, drug, diagnostic, procedure, guideline, anatomy, physiology, or concept.
+- Creates new topic nodes only for concrete medical entities or workflows that are not already represented.
 - Uses source pages as citation anchors; chapter titles should not become the main graph shape.
+- Keeps `wiki/sources/index.md` and category indexes cumulative across all ingested textbooks.
 - Updates `wiki/index.md`, `wiki/sources/index.md`, category indexes, `wiki/overview.md`, and `wiki/log.md`.
 - Writes a health-check file under `docs/`.
 

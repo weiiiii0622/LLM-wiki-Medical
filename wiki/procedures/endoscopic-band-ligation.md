@@ -1,0 +1,48 @@
+---
+type: procedure
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book2-ch23]]"
+  - "[[sources/med3-book2-ch01]]"
+aliases:
+  - 'Endoscopic band ligation (內視鏡靜脈曲張結紮)'
+  - 'Endoscopic band ligation'
+  - '內視鏡靜脈曲張結紮'
+tags:
+  - medicine
+  - procedure
+  - auto-topic-node
+---
+
+# Endoscopic band ligation (內視鏡靜脈曲張結紮)
+
+## Summary
+
+食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med3-book2-ch23]]
+- [[sources/med3-book2-ch01]]
+
+## Key Details From Sources
+
+- (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
+- (2) 預防再出血: - a. 使用非選擇性 β 交感神經阻斷劑,降低心輸出量,藉此降低門脈壓。 - b. 以內視鏡對較大的血管進行 regular band ligation 做預防。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
+- (D) 21. 一位 65 歲男性病人發生急性食道靜脈曲張出血(variceal bleeding),下列何種治療不考慮?98(ニ)専署ニ-56 - (A) 藥物 somatostatin or octreotide 治療 - (B) 內視鏡結紮術 - (C) 內視鏡硬化劑注射 - (D) 食道橫截切除術 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
+- 3. 胃鏡(UGI endoscope): 可診斷兼治療上消化道出血 - (1) 食道靜脈瘤 (Esophageal varices) / 胃靜脈瘤 (Gastric varices): 常有肝硬化的病史 - a. 急性出血時可給予 Octreotide 降低肝門靜脈壓力,控制出血。 - b. 可由胃鏡將食道靜脈瘤結紮 ligation,或直接於食道/胃靜脈瘤施打硬化劑(急性出血或預防出血可用)。 - c. 急性食道靜脈瘤出血時,文獻證實給予抗生素有助於降低再出血風險。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

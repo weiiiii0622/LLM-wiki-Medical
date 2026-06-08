@@ -9,6 +9,11 @@ sources:
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med3-book1-ch19]]"
+  - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book2-ch10]]"
+  - "[[sources/med3-book2-ch24]]"
+  - "[[sources/med3-book2-ch14]]"
+  - "[[sources/med3-book2-ch17]]"
 aliases:
   - 'Systemic corticosteroids (全身性類固醇)'
   - 'Systemic corticosteroids'
@@ -23,7 +28,7 @@ tags:
 
 ## Summary
 
-氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +37,20 @@ tags:
 - [[sources/med3-book1-ch14]]
 - [[sources/med3-book1-ch18]]
 - [[sources/med3-book1-ch19]]
+- [[sources/med3-book2-ch09]]
+- [[sources/med3-book2-ch10]]
+- [[sources/med3-book2-ch24]]
+- [[sources/med3-book2-ch14]]
+- [[sources/med3-book2-ch17]]
 
 ## Key Details From Sources
 
+- ...者最正確? (A) 立即停用 angiotensin-converting enzyme inhibitor (B) 立即做腎臟切片檢查 (C) 立即做 renal arteriography 檢查 (D) 立即以脈衝式類固醇(pulse methylprednisolone)治療 | 104(一)專醫三-7 | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- | 藥 物 | Glucocorticoid | Mineralocorticoid | |----------------------------------|----------------|-------------------| | Hydrocortisone (Solu-Cortef®) | 1 | 1 | | Prednisolone | 4 | 0.25 | | Methylprednisolone (Solumedrol®) | 5 | ( 腦轉移 IICP) | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
+- b. 治療: Prednisolone。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
+- (C) 給 prednisolone 有助於治療 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
+- (C) 4.78 歲的張先生是慢性阻塞性肺病的患者,過去一年內,由於發作頻 繁,每天都需要使用類固醇 prednisolone 10 毫克左右控制。一週前 不幸跌倒,左髖關節骨折,接受人工關節置換,住院期間右髖關節 骨密度 T 值是 -2.2。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
+- (4) 治療: Prednisolone。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - 2. 類固醇:於病程第 7~14 天為纖維增生期 (fibroproliferative phase) 可能有幫助,可使用 Methylprednisolone 2~3 mg/kg/day 以減少纖維化形成,而降低呼吸器依賴的機會。 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
 - ...+LAMA | | 維持用藥 | 最後依 phenotype 考慮 LAMA, antiIgE, anti-IL5 等 | 血中 Eso > 300 者→使用 ICS+LABA | | 急性惡化 | LABA) 優於 SABA | MA)、口服或靜脈類固醇物以 low dose ICS-formoterol (fast onset | Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 4. Step 4: 以急性惡化或 uncontrolled asthma 求診。 - (1) 先給予短時間的口服或靜脈類固醇,開始每天使用中劑量 ICS-LABA。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
@@ -49,7 +65,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/adrenal-insufficiency|Adrenal insufficiency (腎上腺功能不全)]]
 
 ## Follow-up
 

@@ -1,0 +1,53 @@
+---
+type: condition
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book2-ch23]]"
+  - "[[sources/med3-book2-ch18]]"
+  - "[[sources/med3-book2-ch22]]"
+aliases:
+  - 'Spontaneous bacterial peritonitis, SBP (自發性細菌性腹膜炎)'
+  - 'Spontaneous bacterial peritonitis, SBP'
+  - '自發性細菌性腹膜炎'
+tags:
+  - medicine
+  - condition
+  - auto-topic-node
+---
+
+# Spontaneous bacterial peritonitis, SBP (自發性細菌性腹膜炎)
+
+## Summary
+
+肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med3-book2-ch23]]
+- [[sources/med3-book2-ch18]]
+- [[sources/med3-book2-ch22]]
+
+## Key Details From Sources
+
+- 【詳解】肝硬化病人發燒腹痛,且 ascites PMN > 250 顆可考慮 SBP 的診斷。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
+- (A) 24. 自發性細菌性腹膜炎(spontaneous bacterial peritonitis)的常見致病細菌為下列那些細菌? Source: [[sources/med3-book2-ch23|戊、肝硬化]].
+- 【 詳解】SBP 致病菌 70% 為 GNR (E. coli, Klebsiella), 30% 為 GPC (鏈球菌、腸球菌等)。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
+- ...--------------| | (A) | 3. 下列何者不會產生腹水? (A) 肥胖 (B) 肝硬化 (C) 心臟衰竭 (D) 腹膜發炎 | 105(一)專醫三-26 | | (D) | (C) 心臟衰竭 (D) 腹膜發炎 4. 有關自發性細菌性腹膜炎的敘述,下列何者錯誤? (A) 最常見的細菌感染為 Escherichia coli (B) 腹水感染二種以上細菌,要考慮續發性腹膜炎(如腸穿孔)的可能性 (C) 病人可能無發燒及腹痛 (D) 肝硬化合併腹水的病人,發生食道靜脈曲張出血時,不會增加自發性細菌性腹膜炎的發生 | 105(一)專醫三-31 | | (D) | 5. 一位 40 歲男性病人,因腹水日漸加重而住院,其 serum-ascites albumin gradient Source: [[sources/med3-book2-ch18|丙、腹 水]].
+- (B) 腹水白蛋白濃度低較容易發生自發性細菌性腹膜炎 Source: [[sources/med3-book2-ch18|丙、腹 水]].
+- 【詳解】診斷應為 SBP,且因感染引發 hepatic encephalopathy,抗生素與 lactulose 是必須的,另外此時使用 albumin 已證實對 SBP 患者預後有幫助。而 aminoglycoside 類因為有腎毒性,在肝硬化患者擔心加重 hepatorenal syndrome 所以不建議使用。 Source: [[sources/med3-book2-ch18|丙、腹 水]].
+- ...fuse tenderness),並伴隨有輕微反彈痛(rebounding tenderness)。針對此病人的臨床表現,下列敘述何者最為適當? - (A) 病人須同時符合有發燒、腹部壓痛以及意識變差三種症狀,才能懷疑有自發性細菌腹膜炎 (spontaneous bacterial peritonitis) - (B) 若腹水檢查發現多形核嗜中性白血球 (polymorphic neutrophil) 超過 250/mL,可診斷病人有自發性細菌腹膜炎 - (C) 此病人剛做完腫瘤栓塞,可推斷發燒現象必是由腫瘤壞疽 (tumor necrosis) 所造成 - (D) 若懷疑病人有自發性細菌腹膜炎,首選藥物為第一代頭孢菌素 類抗生素(cephalosporin) 加上 aminoglycoside Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- [[conditions/ascites|Ascites (腹水)]]
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

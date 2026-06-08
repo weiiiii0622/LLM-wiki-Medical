@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book1-ch05]]"
   - "[[sources/med3-book1-ch17]]"
   - "[[sources/med3-book1-ch24]]"
+  - "[[sources/med3-book2-ch04]]"
 aliases:
   - 'Noninvasive ventilation, NIV (非侵襲性通氣)'
   - 'Noninvasive ventilation, NIV'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book1-ch05]]
 - [[sources/med3-book1-ch17]]
 - [[sources/med3-book1-ch24]]
+- [[sources/med3-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...(停用 PPI 至少7 天較不易產生偽陰性) - (1) 侵襲性的方法:由胃鏡取出的檢體進行快速尿素檢查法 (rapid urease test)、組織病理檢查法 (histology)、組織細菌培養 (culture)等。 - (2) 非侵襲性的方法:尿素呼吸檢查(urea breath test),使用碳 -13 標記之尿素,服用 後作呼氣檢查,為最佳的非侵襲性方法,可用於確定殺菌成功與否。抽血檢驗 IgG (serology)只能知道有沒有感染過,但無法區分是否現在正在感染。Stool antigen test 亦為一種方法之一。 - 4. 根除幽門螺旋桿菌 (H. pylori) 感染的 triple therapy: - (1) 三合療法: PCM 或 PCA, HP Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...nchodilators)、抗生素和口服類固醇 - (B) 給予吸入性擴張劑(bronchodilators)、抗生素、口服類固醇和 氧氣 - (C) 給予吸入性擴張劑 (bronchodilators)、抗生素、口服類固醇、 氧氣,並給予非侵襲性正壓呼吸 (noninvasive positive-pressure ventilation, NIPPV) - (D) 給予吸入性擴張劑(bronchodilators)、抗生素、口服類固醇、 氧氣和鎮靜劑,立即插氣管內管和使用侵襲性呼吸器(invasive mechanical ventilator)輔助呼吸 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - 【詳解】意識清楚、些微二氧化碳蓄積,可先考慮非侵襲性正壓呼吸。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - (C) 給予支氣管擴張劑吸入治療,並考慮使用非侵襲性呼吸器治療 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].

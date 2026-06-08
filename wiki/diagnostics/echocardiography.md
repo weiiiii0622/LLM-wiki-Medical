@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch06]]"
   - "[[sources/med3-book1-ch22]]"
+  - "[[sources/med3-book2-ch22]]"
 aliases:
   - 'Echocardiography (心臟超音波)'
   - 'Echocardiography'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book1-ch06]]
 - [[sources/med3-book1-ch22]]
+- [[sources/med3-book2-ch22]]
 
 ## Key Details From Sources
 
+- 【詳解】超音波掃描下可見後方音波增強 (post echo enhancement) 現象,且電腦斷層無顯影,屬於囊腫之典型表現。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - (C) 多巴胺壓力 (dobutamine stress) 心臟超音波檢查雖然相當準確, 但敏感度 (sensitivity) 略低於運動心電圖 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - 【詳解】(A) II 級;(B) 可使用;(C) Dobutamine echocardiography 藉由打藥模擬運動時心肌缺氧狀況,應用於無法運動的病人,特異 性較運動心電圖高(較準確),但敏感度還是運動心電圖較佳。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - ...率極低 (D) 若呈陰性反應,則最終診斷為二尖瓣脫垂的機率極低 【詳解】運動心電圖檢查對於二尖瓣脫垂的診斷價值有限,而其陰性結果較能排除 CAD,陽性結果則建議做心導管檢查。 | 100(二)專醫三7 | | (A) 31 | . 關於利用心臟超音波應用於評估急性 ST 節段上升型心肌梗塞(STEMI)病患,下列敘述何者錯誤? (A) 心室壁運動異常(ventricular wall motion abnormality)可用以區分急性 STEMI 與舊有之心肌疤痕 (B) 估算左心室射出分率可作為病人預後之評估 (C) 有助於發現右心室梗塞 (D) 杜卜勒心臟超音波可用於偵測心室中隔缺損與二尖瓣返流等嚴重合併症 【詳解】(A) 需靠舊的心電圖幫助鑑別急性 STEMI 與舊有之心肌 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

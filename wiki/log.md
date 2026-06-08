@@ -23,3 +23,9 @@ Created raw source directories, wiki directories, templates, index, log, overvie
 - Created/updated 151 topic-first medical nodes across conditions, drugs, diagnostics, procedures, guidelines, physiology, anatomy, and concepts.
 - Updated `wiki/index.md`, category indexes, `wiki/sources/index.md`, and health-check report.
 
+## [2026-06-08] ingest | 醫(三)第2冊肝內新陳代謝
+
+- Ingested 26 chapter-split markdown files.
+- Created/updated 220 topic-first medical nodes across conditions, drugs, diagnostics, procedures, guidelines, physiology, anatomy, and concepts.
+- Updated `wiki/index.md`, category indexes, `wiki/sources/index.md`, and health-check report.
+

@@ -11,6 +11,9 @@ sources:
   - "[[sources/med3-book1-ch03]]"
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch08]]"
+  - "[[sources/med3-book2-ch10]]"
+  - "[[sources/med3-book2-ch06]]"
+  - "[[sources/med3-book2-ch11]]"
 aliases:
   - 'Beta blockers (乙型交感神經阻斷劑)'
   - 'Beta blockers'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,16 @@ tags:
 - [[sources/med3-book1-ch03]]
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch08]]
+- [[sources/med3-book2-ch10]]
+- [[sources/med3-book2-ch06]]
+- [[sources/med3-book2-ch11]]
 
 ## Key Details From Sources
 
+- (2) 手術前,先以α blocker (Phenoxybenzamine) 將血壓控制到 160/90 mmHg,之後可再加上β blocker (Propranolol)治療,較穩定後再開刀。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
+- ...r,以改善流汗頭痛等症狀 (C) 病人雖然血壓高低不定,仍應給予 alpha adrenergic blocker (D) 絕對禁用 calcium-channel blocker 以避免血壓變化太大 【詳解】要先 α blocker 再 β blocker,因為 β blocker 使用時可能造成周邊血管收縮導致血壓上升更高。 | 102(一)專醫三-66 | | (D) | 4. 診斷嗜鉻細胞瘤的方法中,下列何者最可靠? (A) urine VMA (B) urine catecholamine (C) plasma catecholamine (D) plasma metanephrine | 101(一)專醫三-56 | | (D) | 5. 一位 20 歲女性病人,主訴近三個月來 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
+- ...n | Cholinergic agonist | Metoclopramide | Protein | | LES | Motilin | α agonist | Domperidone | | | 壓力 | Substance P | β blocker | Cisapride, Baclofen | | | | | | Bethanecol, Histamine | | | 減少 | Secretin, CCK, | Anti-cholinergic agent | CCB | Fat, Chocolate | | LES | Serotonin, | α-blocker | Diazepam, Demerol, Viagra | Ethanol, | | 壓力 | Glucagon Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
+- ...放射碘 | | 毒性多發結節(Toxic multinodular goiter) | 多發結節、不痛 | 多點攝取 | 放射碘 | | 破壞性甲狀腺炎 (Destructive thyroiditis) | 腫大、疼痛 | 沒有攝取 | β blocker 症 狀 治療 | | 服用過多甲狀腺素 | 外觀正常 | 沒有攝取 | - | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - 1. β blocker:藥物分為心臟選擇性 (cardioselective = selective $β_1$ blocker)、無選擇性 ( $β_1$ and $β_2$ blocker)。 - (1) 藉由阻斷 $\beta_1$ : 降低心輸出量及心跳、減少 Renin 分泌使 Baroreceptor 接受較低的血壓、促進血管放鬆的 prostaglandins 釋放、減少血液容積、作用在中樞神經等多種生理 反應使血壓下降。 - (2) 藉由阻斷 $\beta_2$ :可能導致氣喘惡化、對低血糖反應消失;但低劑量的心臟選擇性 $\beta_1$ blocker 可安全地使用於輕微慢性阻塞性肺病(COPD)、糖尿病(DM)、周邊血管疾病患者。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - ...|------------------------------------------------|--------------------| | β 1 blocker [字首為 A~M] | Atenolol (Tenormin®), Bisoprolol, Metoprolol | A cebutolol | | Nonselective β blocker [字首為 N 之後] | Propranolol (Inderol®), Nadolol, Timolol | P indolol | | α 1 blocker + Nonselective β blocker | Carvedilol (Dilatrend®), Labetalol (Trandate®) | | Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - (3) Acebutolol、Pindolol 有 Intrinsic sympathetic activity (ISA),較不會造成心跳慢;但無 ISA 的 β blocker 才可減少猝死、總死亡率、反覆心肌梗塞等。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].

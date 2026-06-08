@@ -18,6 +18,7 @@ sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch19]]"
   - "[[sources/med3-book1-ch24]]"
+  - "[[sources/med3-book2-ch11]]"
 aliases:
   - 'Pleura (肋膜)'
   - 'Pleura'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-肋膜腔疾病包含積液、氣胸與膿胸。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book1-ch19]]
 - [[sources/med3-book1-ch24]]
+- [[sources/med3-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...,心跳加速 | 增加血管阻力,心跳減慢 | | 皮膚 | 溫暖、濕 | 冷、乾 | | 呼吸 | 喘 (Dyspnea) | 呼吸抑制 (hypoventilation) | | | | →二氧化碳滯留 (CO 2 retention); 肋膜積水 | | 腸胃道 | 食慾增加,腸蠕動增加 | 食慾降低,腸蠕動減少 | | 肌肉 | 肌腱反射 (DTR) 增加 | 肌腱反射 (DTR) 減少 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ , LDH ↑ , AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝↑,血糖↑,脂肪酸↑ | 基礎代謝↓ | | | 膽固醇↓,三酸甘油脂↓ Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - ...ost-coronary artery bypass surgery sbestos exposure arcoidosis remia Meigs' syndrome Yellow nail syndrome Drug-induced pleural disease: Nitrofurantoin, Dantrolene, Methysergide, Bromocriptine, Procarbazine, Amiodarone Trapped lung Radiation therapy | |---------------------------------------------------------------------------------------------... Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - #### 3. 各種肋膜積液問題的特徵: Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - (1) Pseudoexudate: (Ref Washington p329) - a. 符合 1~2 項 Light's criteria,但實際上是 Transudate,常見於經利尿劑治療後的心臟衰竭、肝衰竭、腎病症候群病患。 - b. 上述病患的 Serum-pleural fluid albumin gradient > 1.2。 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].

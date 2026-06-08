@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch10]]"
+  - "[[sources/med3-book2-ch15]]"
+  - "[[sources/med3-book2-ch17]]"
 aliases:
   - 'Cardiomyopathy (心肌病變)'
   - 'Cardiomyopathy'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-心肌結構或功能異常的疾病群。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+心肌結構或功能異常的疾病群。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,14 @@ tags:
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book1-ch10]]
+- [[sources/med3-book2-ch15]]
+- [[sources/med3-book2-ch17]]
 
 ## Key Details From Sources
 
+- (3) 症狀: - a. 從 GH、IGF-1 升高到有症狀約需 10 年,肢體末端(Acral)骨頭過度增生,導致下巴、手、腳變大。 - b. 肢端肥大症臨床上更重要的影響包含冠心病、心肌病變(Cardiomyopathy)導致心律不整,上呼吸道阻塞導置睡眠中止(Sleep apnea)、高血壓、糖尿病等,這些與死亡率更有關係。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
+- 2. 鐵質沈積 (Hemochromatosis): - (1) 中年男性,體染色體隱性的遺傳疾病,最常見之突變為 HFE 基因同質接合子 (homozygote) C282Y,導致鐵在體內堆積;也可能因為長期接受輸血治療。 - (2) 理學檢查可見患者全身皮膚呈現鐵灰色。 - (3) 抽血可發現血中 Ferritin 高於正常值 500 倍、High transferrin saturation (男> 55%、女> 45%)、HFE 基因突變(Hemochromatosis gene)。 - (4) 鐵到處沉積會造成心肌病變、肝硬化、糖尿病、關節炎、性腺功能過低等。 - (5) 治療:放血 (Phlebotomy)。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
+- (A) 心肌病變 (B) 肝硬化 (C) 糖尿病 (D) 白內障 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - A. 擴張性心肌病 (Dilated cardiomyopathy, DCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - B. 肥厚性心肌病 (Hypertrophic cardiomyopathy, HCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - C. 侷限性心肌病 (Restrictive cardiomyopathy, RCM) 169 Source: [[sources/med3-book1-ch07|庚、心肌症]].

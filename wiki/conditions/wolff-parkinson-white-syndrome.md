@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch01]]"
+  - "[[sources/med3-book2-ch11]]"
 aliases:
   - 'Wolff-Parkinson-White syndrome (WPW 症候群)'
   - 'Wolff-Parkinson-White syndrome'
@@ -19,14 +20,18 @@ tags:
 
 ## Summary
 
-副傳導路造成 pre-excitation，合併 AF 時治療需特別注意。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+副傳導路造成 pre-excitation，合併 AF 時治療需特別注意。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch01]]
+- [[sources/med3-book2-ch11]]
 
 ## Key Details From Sources
 
+- (2) 給 PTU 後 1 小時再給飽和碘化鉀溶液(saturated solution of potassium iodide, SSKI)或是 Lugol's 溶液(5% iodine & 10% KI): 乃利用高濃度的碘離子反而抑制甲狀腺製造、釋放的特性(Wolff-Chaikoff effect)。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- #### 7. Wolff-chaikoff effect 與 Jod-Basedow phenomenon: Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- (1) Wolff-chaikoff effect:給碘抑制甲狀腺 碘是甲狀腺素製造的重要原料,但甲狀腺暴露到大劑量碘時,反而會暫時性抑制甲 狀腺素的製造、釋放,此作用稱作 Wolff-Chaikoff block,在甲狀腺風暴時就是利用 此特性給予大量的碘抑制甲狀腺,不過此效應只能短期維持。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - ...conduction - a. Amiodarone 150 mg in 10 分鐘,可重複使用。 - (4) 寬、不規則 QRS → Polymorphic VT、Af with aberrancy conduction、Af with WPW - a. 一般的 Polymorphic VT → Amiodarone 150 mg in 10 分鐘 - b. 發作前的心電圖有 QT prolong 須懷疑 Torsades de pointes → MgSO4 1~2 g in 5~60 分鐘;找出 QT prolong 的原因(低血鎂、低血鉀;服用第 IA、IC、III 類的抗心 律不整藥等) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (5) 房室迴旋性心搏過速 (AV reentrant tachycardia, ANRT) = WPW syndrome - a. 房室間除了 AV node,有其他下傳路徑(Accessory pathway, AP) - (a) 由 AV node (Slower) 往下傳為 Orthodromic AVRT, 心電圖可見 short RP。 - (b) 由 AP (Faster) 往下 傳 為 Antidromic AVRT, 心 電 圖 為 Wide QRS tachycardia, 類似 VT;可參考發作前心電圖,若可見 delta wave,較像 AVRT。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (B) 7. 下列有關 WPW (Wolff-Parkinson-White) 症候群病人的心電圖敘述,何者錯誤? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

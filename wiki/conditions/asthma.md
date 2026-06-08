@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book1-ch12]]"
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch18]]"
+  - "[[sources/med3-book2-ch06]]"
+  - "[[sources/med3-book2-ch09]]"
 aliases:
   - 'Asthma (氣喘)'
   - 'Asthma'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med3-book1-ch12]]
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch18]]
+- [[sources/med3-book2-ch06]]
+- [[sources/med3-book2-ch09]]
 
 ## Key Details From Sources
 
+- (B) 1. 下列那些藥物可能會加重逆流性食道炎(reflux esophagitis)? 105(ー)専 ①降血脂藥(HMG-CoA reductase inhibitor) ②高血壓用藥(calcium channel blocker) ③氣喘用藥(theophylline) ④抗過敏薬物(antihistamine) - (A) (1)(2)(3) - (B) 僅②③ - (C) (3)(4) - (D) (1)(2)(4) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
+- | (C) | 一位 66 歲男性高血壓病人,有 30 年抽菸史,年輕時有氣喘病史,最近發現有糖尿病,醫師建議加入「全民健康保險糖尿病共同照護網」。下列糖尿病照護的管理流程,那一項錯誤? (A)每三個月檢查糖化血色素 (B)每年檢查眼底視網膜病變 (C)每年周邊動脈硬化檢查 (D)需要時安排足底神經學檢查 | 107(一)專醫三 -66 | |-----|-------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - A. 氣喘和慢性阻塞性肺疾比較 242 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - #### A. 氣喘 (Asthma) 和慢性阻塞性肺疾 (COPD) 比較 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - | 疾病 | 氣喘 (Asthma) | 慢性阻塞性肺疾 (COPD) | |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------ Source: [[sources/med3-book1-ch15|乙、氣喘]].
