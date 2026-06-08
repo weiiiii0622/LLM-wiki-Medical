@@ -23,6 +23,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book3-ch04]]"
 aliases:
   - 'Coronary arteries (冠狀動脈)'
   - 'Coronary arteries'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,13 @@ LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book3-ch04]]
 
 ## Key Details From Sources
 
+- (D) 20. 對於冠狀動脈心臟病之精神科非藥物治療模式中,下列何者較欠 缺實證醫學之佐證? 105(一)專 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- (C) 24. 有關敵意(hostility)以及冠狀動脈心臟病的敘述,下列何者 錯誤? Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- (A) 依行為模式理論,A 型行為(type A behavior)代表了易怒、不耐煩、急性子,與心肌梗塞和冠狀動脈心臟病的發生率相關 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - 5. 心血管併發症:發病平均約十天時,15~20%的患者可能產生冠狀動脈瘤,危險因子包括男性、小於兩歲、貧血、白血球大於3萬、發炎指數較高、發燒超過二週、低白蛋白、心包膜積水等。冠狀動脈瘤約有八成會在一至二年內消失,特別是常見的直徑小於8mm的中小型冠狀動脈瘤。但直徑超過8mm以上的巨大冠狀動脈瘤較難完全消失,容易形成血栓,造成急性心肌梗塞或冠狀動脈瘤破裂。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (2) 在三個月內確定冠狀動脈正常,則考慮停藥,在發病十天內使用免疫球蛋白,可將冠狀動脈瘤之發生率降至 2~5%,並將巨大冠狀動脈瘤之發生率降至 1%, 且越早使用效果越好。若冠狀動脈瘤一直存在,則需持續服用低劑量阿斯匹靈。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (a) 假使未接受抗生素治療,約 10% 會演變心臟血管病變,梅毒病發後 10~40 年發生。男性患者多於女性,黑種人又較白種人容易發病,其病變 主要是主動脈炎、主動脈逆流、冠狀動脈入口狹窄和動脈瘤等。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -78,9 +83,6 @@ LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 
 - ...性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - (B) 18. 一位 65 歲男性因冠狀動脈狹窄,接受心臟血管繞道手術,術後尿量逐漸減少,現在每小時僅有 15 mL,懷疑有急性腎衰竭。為了分辨prerenal或 intrinsic renal 急性腎衰竭,醫師送檢尿液及血液生化值,結果血中之肌酸酐(Cr)為 3 mg/dL,BUN 35 mg/dL,Na 為 130 mEq/L,K 為 5 mEq/L,尿中之 Cr 為 40 mg/dL,Na 為 50 mEq/L,尿比重= 1.010,FENa 是多少? (A) 0.2%(B) 2.9%(C) 10.3%(D) 35% Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (A) 閉塞性冠狀動脈疾病 (occlusive coronary heart disease) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...ayexalate (sodium polystyrene sulfonate) 降低血鉀 | | | | (B) 透析(dialysis) | | | | (C) 輸血 (blood transfusion) | | | | (D) 經皮冠狀動脈介入治療(percutaneous coronary intervention) | | | | 【詳解】透析是 uremic pericarditis 最根本的治療方式。 | | | (C) | 3. 有關腹膜透析和血液透析的優劣點,下列何者錯誤? | 105(一)專 | | | (A) 血液透析對於超過濾(ultrafiltration)的控制比較正確 | 醫三-36 | | | (B) 腹膜透析比較容易發生血脂肪升高 | | | Source: [[sources/med3-book3-ch06|己、透析治療]].
-- (B) 2. 一位 70 歲女性患有糖尿病外,無其它病史,半夜突然胸痛、冒汗、 108(二)專 想吐,送至急診時血壓 137/79 mmHg,脈搏 73 次 / 分,呼吸 18 次 / 分,心電圖如下所示,緊急心導管檢查發現心肌梗塞,最可能是 那一條冠狀動脈血管堵塞? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 
 ## Clinical Caveats
 

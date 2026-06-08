@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book3-ch06]]"
 aliases:
   - 'Acute bacterial meningitis (急性細菌性腦膜炎)'
   - 'Acute bacterial meningitis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-兒童 CNS 細菌感染急症，診斷依臨床、CSF 與病原檢查，治療需即時。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童 CNS 細菌感染急症，診斷依臨床、CSF 與病原檢查，治療需即時。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med4-book3-ch06]]
 
 ## Key Details From Sources
 
+- ...bdural hematoma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - b. 晚期隱性、心臟血管性、三期梅毒: - (a) CSF 正常: Penicillin G benzathine 2.4 million units IM QW\*3weeks。 - (b) CSF 異常:Aqueous penicillin G(18~24 million units/d IV, given in divided doses every 4 hours)for 10~14 days。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 4. 異位性皮膚炎的病因是許多因素綜合的結果,家族性和異位性體質等基因因素加上環境中過敏因子,造成 Type I(IgE-mediated)hypersensitivity reaction,急性發炎反應和 Th2、IL-4、IL-13 有關,慢性發炎反應則和 Th1、IL-5、IL-12、GM-CSF、IFN-γ有關。 - (1) 常見的過敏原包括塵蟎、貓狗等動物的毛、蟑螂、黴菌、花粉等,幼兒期腸胃 道比起大人較可能受食物過敏原影響,常見的可能食物過敏原有牛奶、蛋白、 麥、花生、海鮮等。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - # A. 急性細菌性腦膜炎 (Acute Bacterial Meningitis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

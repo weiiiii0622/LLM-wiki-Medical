@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Hypertensive emergency (高血壓急症)'
   - 'Hypertensive emergency'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- 1. 此症狀屬於精神科的急症,可發生在使用抗精神病藥物治療的任一個時期。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 1. 外科急症:接觸病人時,首先要排除外科急症的可能性。如腸套疊、闌尾炎、消化 道扭轉(volvulus)、消化道潰瘍破裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如 睪丸扭轉)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】任何腹痛應優先排除外科急症,腸套疊、闌尾炎、 消化 道扭轉(volvulus)、消化 道潰 瘍破 裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如睪丸扭轉)。(C) 一開始表現為右 下腹痛,臨床表現與急性闌尾炎相似,但急性腸繫膜淋巴腺炎 為自限性(self-limiting)疾病。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) 9. 一位 5 歲男童因為發燒 3 天、腹痛與嘔吐前來就診,就診時發現 咽部稍微發紅,呼吸急促,腹部柔軟但有廣泛性輕微壓痛。外科 醫師認為可能有腹部急症而準備開刀,開刀前的例行胸部與腹 部 X 光檢查如圖所示。下列那一項是這位病童最可能的診斷? 102(二)專醫四-4 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -68,7 +71,6 @@ tags:
 - ...NPH insulin 20 單位皮下注射(B) 0.9% NaCl 3,000 mL 靜脈輸注(C) 抗生素治療(D) 7% sodium bicarbonate 40 mL 靜脈注射【詳解】病人狀況接近 HHS,先灌水打胰島素治療,而急症應該使用速效或短效胰島素,使用 NPH 並不適合。 | 101(二)專醫三-53 | |-----|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (2) 重症病患 (Critical ill) 與腎上腺機能低下: - a. 發生急症(開刀、外傷、敗血症)時,Cortisol會上升6~10倍、且失去日夜變化(白天高、晚上低);若Cortisol無法提升到身體需要的量以控制發炎反應、維持血壓,則稱為 Relative adrenal insufficiency。 - b. 診斷:若病人的 cortisol 無法提升至 15 μg/dL 以上,或注射 250 μg Cosyntropin 血中 Cortisol 與基準值相比,無法上升大於 9 μg/dL,可診斷 Rel Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - #### 2. Hypertensive emergency: Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (3) 治療: - a. 先使病患在安靜的環境休息,可能就會降 10~20 mmHg。 - b. 以往希望快速降壓而使用舌下鈣離子阻斷劑(Nifedipine = Adalat® sl.),但在老人病患(收縮壓高、舒張壓低),快速降壓可能造成心肌梗塞、腦部缺血性中風。 - c. 因此建議,若無 Hypertensive emergency 的那些症狀出現,僅須以口服降壓藥在 $1\sim2$ 天內將血壓降至 160/100 mmHg 以下即可。 - d. 口服藥物的選擇可依個別病患給予,如 CHF、CKD 病患給予 ACEI 等。(Cecil ch. 66) Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 
 ## Clinical Caveats
 

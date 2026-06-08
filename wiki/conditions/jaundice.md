@@ -36,6 +36,7 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Jaundice (黃疸)'
   - 'Jaundice'
@@ -50,7 +51,7 @@ tags:
 
 ## Summary
 
-黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +87,11 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- 12. 黃疸(jaundice): 通常發生在使用藥物的第一個月內,如 chlorpromazine(發生率約為 1/1,000)、promazine、thioridazine、fluphenazine、trifluoperazine。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - IV. 新生兒黃疸 (Neonatal Jaundice) 460 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 2. 新生兒臨床表現:常見的表現有胎兒時期發育不良、早產、肝臟腫大伴隨 direct bilirubin升高、發展遲緩等。有些則在胎兒時期死亡。以下為病原體感染其特殊表現: Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (4) B 型肝炎:HBs-Ag、HBs-Ab、HBc-Ag、HBc-Ab、liver enzymes and bilirubin。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -106,7 +109,6 @@ tags:
 - (1) 可能造成 Cholestatic jaundice, bone marrow suppression, hyperkalemia。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (A) 2.60 歲男性,有長期菸瘾習慣,過去病史已知有40年慢性B型肝炎及8年慢性支氣管炎。本次因食慾不佳及黃疸就醫住院,診斷為慢性B型肝炎急性惡化。入院15天後突發性高燒39℃,輕微腹瀉,及呼吸困難,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - | 黃質病毒科 (Flaviv | irus) | 傳 播 | 症 狀 | |---------------|------------------------------|-----------|---------------| | 黃熱病毒 | Yellow fever virus | (埃及/白線)斑紋 | 發燒,肝炎(黃疸) | | 登革熱病毒 | Dengue virus | Aedes | 發燒,頭痛,肌肉痛,關節痛 | | 聖路易斯腦炎病毒 | St. Louis encephalitis virus | (三斑)家蚊 | 發燒,腦炎 | | 日本腦炎病毒 | Japanese encephalitis | Culex | 發燒,腦炎 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- (D) 3. 20 歲男性大學生,主訴持續發燒 10 天,合併頭痛、肌肉疼痛及咽喉疼痛。家人、同學或朋友無類似症狀。身體診查有頸部和鼠蹊淋巴腺腫大及軀幹皮膚有斑丘疹。周邊血白血球 4,200/mL,白血球分類:多核型球 35%、淋巴球 45%、單核球 15% 及非典型淋巴球 5%。GOT:56 U/L,GPT:60 U/L,總膽紅素(total bilirubin):1.0 mg/dL。請問最不需要選擇下列何種檢驗? Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch06]]"
   - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Mitral stenosis (二尖瓣狹窄)'
   - 'Mitral stenosis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-常與風濕性病變相關，造成左心房壓上升與肺鬱血。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常與風濕性病變相關，造成左心房壓上升與肺鬱血。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch06]]
 - [[sources/med3-book4-ch07]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- 2. 心臟副作用: Chlorpromazine 會使 QT prolong、thioridazine 可能會導致 torsade de pointes,因此需要定期追蹤心電圖,當 QT interval 超過 0.44 ms,猝死 (sudden death) 的危險性增高。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - ...-------------| | Ankylosing spondylitis (AS) | B 27 | 0.3 | | Goodpasture's syndrome | DD 4 | 1 | | Multiple sclerosis (MS) | DR 2 | 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - (a) Atrial fibrillation (Af): 臨床上相當常見,因心臟衰竭或二尖瓣狹窄導致心房擴大,造成心房肌肉容易放電,臨床上常以阻斷 AV node 的藥物,防止心室速率過快。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (1) PR interval:表示房室間傳導的狀況,若延遲> 5 格(200 ms)則表示有房室間傳導阻滯,稱為 AV block,依不同的位置又分為幾型,其中 1st degree、Type I 2nd degree 比較沒關係,有症狀再治療,Type II 2nd degree、3rd degree 較嚴重,需給予節律器。 - a. 1st degree AV block:僅有 PR interval > 5 格(200 ms)。 - b. Type I 2nd degree AV block: 加上 P 及 QRS 漸行漸遠。 - c. Type II 2nd degree AV block: 加 上 QRS 突然消失。 - d. 3rd degree AV block: P及 QRS 各跳各的。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

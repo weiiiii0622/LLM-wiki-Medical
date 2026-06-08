@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book3-ch08]]"
 aliases:
   - 'Cerebrospinal fluid analysis, CSF (腦脊髓液檢查)'
   - 'Cerebrospinal fluid analysis, CSF'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med4-book3-ch04]]
+- [[sources/med4-book3-ch08]]
 
 ## Key Details From Sources
 
+- ...s)之敘述,何者錯誤? (A) 在盤尼希林(penicillin)發明後,神經性梅毒較少發生,但自愛滋病出現以來,神經性梅毒再度受到醫學界之重視 (B) 神經性梅毒對腦部之影響主要是顳葉,所以會產生類似精神分裂症患者之幻聽與妄想 (C) 其腦脊髓液有淋巴球增多(lymphocytosis)及較多之蛋白質 (D) 神經性梅毒通常在感染梅毒螺旋菌 10 至 15 年後發生 【詳解】神經性梅毒對腦部之影響主要是額葉(frontal lobe)。 | 102(二)專醫四-70 | | (B) 32. | 將地磚的花紋看成是蟲在地上爬,以致於不敢下床走路,此症狀是: (A) 幻覺 (hallucination) (B) 錯覺 (illusion) (C) 假性幻覺 (pseudo-hall Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- 大腦中 serotonin 降低和自殺行為有很大的相關性,研究也顯示腦脊髓液中 5-HIAA 的濃度較低和自殺行為有關,最新研究提出 noradrenergic system 也可能有關。 Source: [[sources/med4-book3-ch08|辛、自 殺]].
 - (b) 此段時期之腦脊髓液無異常變化。這類病人雖然並無臨床症狀,但體內 仍有梅毒螺旋菌存在,對身體組織器官仍有破壞性。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (a) 約10%未經治療之梅毒病患於病發後10~30年發生神經性梅毒,神經性梅毒分為無症狀和有症狀之神經性梅毒。無症狀之神經性梅毒在臨床上無任何表徵,只有梅毒血清及腦脊髓液檢查異常。有症狀神經梅毒又分為腦膜梅毒、腦膜血管性梅毒和腦實質性梅毒腦。臨床上有頭痛、煩躁 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - b. 晚期隱性、心臟血管性、三期梅毒: - (a) CSF 正常: Penicillin G benzathine 2.4 million units IM QW\*3weeks。 - (b) CSF 異常:Aqueous penicillin G(18~24 million units/d IV, given in divided doses every 4 hours)for 10~14 days。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -69,8 +75,6 @@ tags:
 - ...nes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | | | | , | 過後發生腦膜炎需懷疑 S. aureus | MRSA | Vancomycin | | Haemophilusinfluenzae | (又圓又桿) | 自從孩童普遍接種 H. influenzae type b疫苗,發生率已減少 | | Ceftriaxone | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (A) 1. 某新兵訓練中心爆發多名新兵發燒、頭痛、噁吐、理學檢查為頸部 107( ) 專 僵硬、出血性皮疹,腦脊髓液染色為格蘭氏陰性雙球菌,下列敘述 醫三 -59 何者錯誤? - (A) 病人必須採負壓隔離(空氣隔離防護措施) - (B) 該病原菌是 Neisseria meningitidis - (C) 抗生素投藥 24 小時後,一般病人即不具有傳染性 - (D) 治療藥物為 penicillin 或 ceftriaxone Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (A) CSF opening pressure 常大於 180 $mmH_2O$ Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- | (D) | 1. 40 歲病人因劇烈頭痛發燒來到急診,之前沒有用過抗生素,腦脊髓液檢查發現腦壓(opening pressure) 300 mmH2O,白血球 100/mL (Lymphocyte: Neutrophil = 90:10), Protein level: 45 mg/dL,最不可能的致病菌為何? (A) herpes simplex virus | 108( 一 ) 專醫三 -64 | |-----|--------------------------------------------------- Source: [[sources/med3-book3-ch21|丑、原 蟲]].
-- ...容增加伴隨血小板急速下降。 | 24 小時內 | | 流行性腦脊髓膜炎 | 符合臨床表徵或實驗室診斷者,即可進行通報: 一、臨床表徵: 發燒、劇烈頭痛、噁心、嘔吐、頸僵直、出血性皮疹、粉紅斑,伴有譫妄、抽搐或昏迷現象者。 二、實驗室診斷: 腦脊髓液抹片檢出革蘭氏陰性雙球菌或血液、腦脊髓液中分離出革蘭氏陰性雙球菌。 | 24 小時內 | | 副傷寒 | 有下列情形任一者: 一、出現疑似症狀,如持續性發燒、頭痛、不適、厭食、相對性心跳過慢、脾臟腫大,身驅出現紅疹、成年人較常出現便秘或腹瀉、淋巴組織病變。感染者也可能只有輕微或非典型之症狀。二、血液、糞便或其他臨床檢體經實驗室培養出副傷寒桿菌者。 | 24 小時內 | | (急性無力 | 任何有急性無力肢體麻痺的病例(包括 15 歲以下 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

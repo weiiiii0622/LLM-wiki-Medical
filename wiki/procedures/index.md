@@ -23,9 +23,11 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/cardiac-resynchronization-therapy|Cardiac resynchronization therapy, CRT (心臟再同步治療)]] - 符合 LVEF、NYHA 與傳導阻滯條件的心衰竭裝置治療。
 - [[procedures/chest-tube-thoracostomy|Chest tube thoracostomy (胸管置放)]] - 氣胸、膿胸或大量肋膜積液的引流程序。
 - [[procedures/cholecystectomy|Cholecystectomy (膽囊切除術)]] - 症狀性膽結石或急性膽囊炎常見手術治療。
+- [[procedures/cognitive-behavioral-therapy|Cognitive behavioral therapy, CBT (認知行為治療)]] - 針對自動化思考、行為逃避與暴露反應預防等機制的結構化心理治療。
 - [[procedures/coronary-artery-bypass-graft|Coronary artery bypass graft, CABG (冠狀動脈繞道術)]] - 外科冠狀動脈血管再暢通術。
 - [[procedures/cpap|Continuous positive airway pressure, CPAP (連續正壓呼吸)]] - OSA 標準治療，也可作為非侵襲性正壓通氣模式。
 - [[procedures/dialysis-indications|Dialysis indications (透析適應症)]] - 急性透析常依 acidosis、electrolyte、intoxication、overload、uremia 等評估。
+- [[procedures/electroconvulsive-therapy|Electroconvulsive therapy, ECT (電痙攣治療)]] - 以麻醉下誘發治療性癲癇發作用於重度憂鬱、mania、catatonia、部分 psychosis 或緊急自殺風險。
 - [[procedures/endoscopic-band-ligation|Endoscopic band ligation (內視鏡靜脈曲張結紮)]] - 食道靜脈曲張出血與預防再出血的重要內視鏡治療。
 - [[procedures/endoscopic-sclerotherapy|Endoscopic sclerotherapy (內視鏡硬化劑注射)]] - 靜脈曲張或特定出血病灶的內視鏡注射治療。
 - [[procedures/ercp|Endoscopic retrograde cholangiopancreatography, ERCP (內視鏡逆行性膽胰管攝影)]] - 診斷與治療膽胰管阻塞、結石或膽管炎的重要內視鏡程序。
@@ -46,6 +48,7 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/peritoneal-dialysis|Peritoneal dialysis (腹膜透析)]] - 利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。
 - [[procedures/phototherapy|Phototherapy (新生兒黃疸照光治療)]] - 以藍光將 unconjugated bilirubin 轉為可排泄異構物，降低 kernicterus 風險。
 - [[procedures/plasma-exchange|Plasma exchange (血漿置換)]] - 以血漿移除致病抗體或補充缺乏因子，TTP 等疾病可用。
+- [[procedures/psychotherapy|Psychotherapy (心理治療)]] - 透過治療關係、認知行為、支持與人際介入改善症狀、功能與復健。
 - [[procedures/radiation-therapy|Radiation therapy (放射治療)]] - 以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。
 - [[procedures/radioactive-iodine-therapy|Radioactive iodine therapy (放射性碘治療)]] - 用於部分甲狀腺亢進與甲狀腺癌治療。
 - [[procedures/surfactant-therapy|Surfactant therapy (肺表面張力素治療)]] - 新生兒 RDS 可補充 exogenous surfactant 改善肺泡穩定與氧合。

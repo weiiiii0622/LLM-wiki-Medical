@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book3-ch03]]"
 aliases:
   - 'Mitral valve prolapse (二尖瓣脫垂)'
   - 'Mitral valve prolapse'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-瓣膜脫垂可造成收縮中期 click 與晚期收縮雜音。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瓣膜脫垂可造成收縮中期 click 與晚期收縮雜音。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch06]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book3-ch03]]
 
 ## Key Details From Sources
 
+- ...其症狀都 在半小時內緩解。本案例最可能的診斷是: (A) 癲癇發作 (B) 恐慌症 (C) 失憶症 (D) 心律不整 (D) 17. 承上題,下列那一項疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (3) 心血管異常:約有 1/3 的病人併有心血管異常,常見的有二尖瓣脫垂、反流、 主動脈根部瘤狀樣擴大、甚至造成主動脈剝離。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 【詳解】體型高瘦、四肢與手指腳趾細長、漏斗胸、心超呈現二尖瓣脫垂與主動脈回流,這幾個敘述最有可能是(A)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (2) 除了身材矮小外,其他常見構造上的異常有心臟或是腎臟。 - a. 心臟方面最常見有 bicuspid aortic valves、coarctation of the aorta、aortic stenosis 以及 mitral valve prolapse; 較嚴重的心臟異常有左心發育不全症候群 (HLHS,hypoplastic left heart syndrome)。(簡單記憶:透納氏症心臟問題都在左心,努南氏症心臟問題都在右心)。 - b. 腎臟構造上的異常,常見為低位腎 (pelvic kidney)、馬蹄腎 (Hoarseshoe kidneys)、雙套集尿系統 (double collecting system) 或是單一腎臟 (complete absence of 1 Source: [[sources/med4-book1-ch10|癸、遺傳學]].

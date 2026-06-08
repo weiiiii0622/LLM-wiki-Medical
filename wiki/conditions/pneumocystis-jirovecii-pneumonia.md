@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book3-ch05]]"
 aliases:
   - 'Pneumocystis jirovecii pneumonia, PJP (肺囊蟲肺炎)'
   - 'Pneumocystis jirovecii pneumonia, PJP'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book3-ch05]]
 
 ## Key Details From Sources
 
+- ...mine) | | | | (B) 古柯鹼(cocaine) | | | | (C) 搖頭丸(3, 4-methylenedioxymethamphetamine; MDMA) | | | | (D) 天使麈(phencyclidine; PCP) | | | (C) 55 | 5. 下列何者不是暴力行為之有效預測因子? | 98(二)專 | | | (A) 大量喝酒 | 醫四 -71 | | | (B) 曾有暴力行為因而導致被逮捕或產生犯罪行為 | | | | (C) 長期抽菸 | | | | (D) 過去兒童時期有被虐待之經驗 | | | | | | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - ...novirus, | staphylococci, | Serratia,Klebsiella; | | | | enterovirus); | Haemophilus…); | 黴菌如 Candida; | | | | Candida; PCP ; | XLA 病人常見 | Nocardia, Aspergillus | | | | mycobacteria | enterovirus 感染; | | | | | | 寄生蟲 (giardia, | | | | | | cryptosporidia) | | | | 臨床 | 生長發育不良 | 反覆的鼻竇炎或肺 | 皮膚感染 (abscess, | 腦膜炎,關節炎, | | 表現 | (Failure to thrive) | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...色體異常) - b. 臨床表現:最常見以新生兒低血鈣及抽筋表現。T 細胞免疫不全的程度則因胸腺發育不良的程度而異,complete DiGeorge syndrome (完全沒有胸腺者) 常在新生兒時期就發生嚴重的伺機性感染 (病毒,黴菌,PCP…) - c. 治療:胸腺移植或 HLA-matched 骨髓移植。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...1 種為自體隱性遺傳(例如 ADA deficiency…)。皆會造成淋巴球無法 正常發育,而同時產生體液性及細胞性免疫缺陷。 - b. 臨床症狀:出生後數個月內就產生反覆的感染(肺炎,中耳炎,菌血症…)或伺機性感染(病毒,Candida,PCP…),生長發育不良,慢性腹瀉。抽血會淋巴球(尤其 T 細胞)低,免疫球蛋白低。若沒有骨髓移植則大多一歲前死亡,為急症! - c. 治療:骨髓移植。ADA(adenosine deaminase)-deficient SCID 可以注射 polyethylene glycol conjugated adenosine deaminase(PEG-ADA)治療。另外, ADA-deficient SCID 目前已有基因治療的成功案例。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

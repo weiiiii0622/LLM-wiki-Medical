@@ -32,6 +32,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book3-ch04]]"
 aliases:
   - 'Oxygen therapy (氧氣治療)'
   - 'Oxygen therapy'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book3-ch04]]
 
 ## Key Details From Sources
 
+- 下列何者錯誤? 醫四-66 - (A) 一般智商 (intelligence quotient, IQ) 可穩定保留到 80 歲 - (B) 隨著老化會減少腦血流量和氧氣 - (C) 隨著老化會增加跨血腦屏障 (blood-brain barrier) 的運輸 - (D) 隨著老化正腎上腺素 (norepinephrine) 在中樞神經系統中會增加 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (3) 陣發性發紺發作(paroxysmal hypercyanotic attacks,「blue」or「Tet」spells):好發在兩歲左右,特別是在早晨或是大哭之後。發作時病童會出現躁動、蒼白、呼吸急促、四肢無力、心雜音消失;有些病人甚至意識喪失。當出現 paroxysmal hypercyanotic attack 時,病童用蹲踞(knee-chest position)緩解症狀。適時給予安撫或氧氣,甚至給予適量的嗎啡(皮下注射,劑量不超過 0.2 mg/kg)對病童的緩解有幫助。倘若是嚴重的發作且對上述處置效果不佳,病人動脈血液氧氣分壓(PO2)低於 40 mmHg 時會有代謝性酸中毒。此時應該迅速以 sodium bicarbonate 處理。當病人血液 pH 值恢復正常時,病人狀況可以迅速改善。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3)除了發紺,病人因氧氣供應減少而進行無氧呼吸,造成乳酸增加與酸血症及代謝的異常,進而器官衰竭。臨床上病人很快進入休克狀態。病人也因全身血流供應不足而造成周邊脈搏減弱。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...活方式。但在手術前仍有內科治療方式幫助病人撐到手術治療。 - (1) Presurgical management: - a. 使用 PGE1 保持 PDA 的開啟。 - b. 矯正無氧呼吸造成的酸血症。必要時插管使用呼吸器,要注意的是血液氧氣 濃度( $SpO_2$ )不可太高以免造成肺血管阻力與壓力快速下降,導致肺部過度 充血、而體循環血流嚴重不足(休克)。 - c. 有時可用 ballon artrial septostomy 讓 LA 擴大幫助血液氧氣供應。 - (2) Surgical management:手術以分階段放式治療病人。(畢業考生參考即可) Stage I:為 pallative surgery,手術方式有 Norwood procedure、Sano Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -98,7 +101,6 @@ tags:
 - ...,心跳 70/min,呼吸 36/min,體溫 37.5℃,昏迷指數 GCS(Glasgow coma scale)= E1V2M4,兩眼瞳孔直徑 1 mm 等大,皆有光反應,淚水多,痰液分泌多。下列處置何者錯誤?(A) 可給予 100% 氧氣及插管 (B) 可注射 atropine (C) 可注射 PAM(pralidoxime) (D) 注射 atropine 之最大劑量不可超過 3 mg 【詳解】症狀為 Cholinergic symptoms,atropine 當解毒劑使用可用到症狀緩解。 | 98(一)專醫三-77 | | (B) | 6. 急性泌尿道感染(urinary tract infection),若沒有放導尿管,無泌尿道結構異常,也沒有結石(calculi Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 - | 依與氧氣的關係分類 | | 革蘭氏陰性腸道桿菌 | 其他細菌 | | |-----------|-----------------------|-------------------------------|--------------------------|--| | 絕對須氧 | Obligate aerobes | 1.Psuedomonas | Mycobacterium, | | | 微須氧 | Microaerophilic | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - a. H5N1 流感: 為第一類傳染病→皆須於 24 小時內通報 - (a) 潛伏期 2~8 天,因此病患發病前 7 天應有與懷疑感染 H5N1 流感之動物、或 排泄物接觸或與確定病例接觸。 - (b) 確定或強烈懷疑感染 H5N1 感染的病人,應儘早使用 Oseltamivir (Tamiflu® 克流感);當有神經胺酸抑制劑時, Amantadine 不應該被單獨使用,當做第一線用藥。 - (c) 防護建議:病患本身離開隔離病房,建議配戴外科手術;與病患接觸、執行一般醫療行為也僅需配戴外科手術;唯幫病患執行會引發飛沫微粒行為的治療措施(氣管插管、噴霧治療、誘發痰液的採檢、氣管造口護理、正壓呼吸面罩等)需配戴高效過濾口罩。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- ...| 漢他病毒症候群 | 漢他病毒肺症候群: 符合下列三項通報條件之一者: 一、有相關流行地區旅遊史、動物排泄物或分泌物等致病原暴露史,且符合下列部分或全部臨床描述者: (一)原本健康的人於住院 72 小時內演變成呼吸困難,需藉助呼吸器供給氧氣,發燒高於 38.3℃,兩側肺部瀰漫性水腫,X光片顯示類似急性呼吸窘迫症候群。或 (二)不明原因呼吸性疾病致死,經屍體解剖發現非已知潛在性疾病所引起的非心源性肺水腫者。 二、前項旅遊史或暴露史未知或不明,或無典型之臨床症狀,而相關檢體經實驗室檢驗符合下列任一條件者: (一)血清學抗體檢驗陽性(IgM 抗體陽性或採血間隔恰當之成對血清檢體的 IgG 抗體效價上升≥ 4 倍者)。 (二)臨床檢體 PCR 檢測陽性。 (三)組織切片免疫化學染 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

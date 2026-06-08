@@ -34,6 +34,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med4-book3-ch06]]"
 aliases:
   - 'Heart failure (心臟衰竭)'
   - 'Heart failure'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book2-ch07]]
+- [[sources/med4-book3-ch06]]
 
 ## Key Details From Sources
 
+- 約 10~15% 失智症是可逆性的,尤其是因為系統性疾病如腎臟病、鬱血性心臟衰竭、甲狀腺功能低下、維生素缺乏、藥物或憂鬱症導致的失智症。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (D) 應注意是否有低心輸出量(low cardiac output)心臟衰竭之 徵候 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - 【詳解】除了乾癬,異位性皮膚炎、藥物、白血病、淋巴瘤、 魚鱗癬都有可能會以紅皮症表現,除了會廣泛性脫屑外,表面 體溫上升引起血流增加,造成最後水分蒸發喪失、體溫下降; 且新陳代謝上升,心跳速率上升,嚴重會造成心臟衰竭(high cardiac output heart failure);落屑也會造成蛋白質流失和血液中 白蛋白下降。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - (1) 與 TOF 有相似的臨床表現:cyanosis、fatigue、tachypnea、delayed development、congestive heart failure。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -102,7 +105,6 @@ tags:
 - (B) 6. 下列有關低血鈉症(hyponatremia)的描述,何者正確? 105(二)專 (A) 如果血漿滲透壓(osmolality)偏低,應考慮是否有高血糖 醫三-18 - (B) 心臟衰竭可能造成細胞外體液(extracellular fluid)增加及低血鈉 - (C) 低血鈉及細胞外體液減少的病人,若尿液鈉離子濃度低於 10 mmol/L, 代表有 Na+ wasting nephropathy - (D) 抗利尿激素不適當分泌 (SIADH) 的病人通常血漿滲透壓正常, 但細胞外體液減少 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...O, urine osmolality 為 369 mOsmol/kg H2O, 因此屬於 low osmolality 的 hyponatremia - (B) 病人無 edema, 為 euvolemic status, 因此病因不會是心臟衰竭 或肝腎病變 - (C) 病人 cortisol 23.3 mg/dL, ACTH 13.9 pg/mL, 因此病因不是 cortisol deficiency - (D) 病人 hsTSH 66.7 mIU/mL, 因此病因為 hyperthyroidism Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】水腫最常見原因為慢性腎病、腎病症候群、慢性肝病造成的血清白蛋白降低、心臟衰竭等,因為此 case 頸靜脈壓力正常,兩側肺野無 rales,所以心因性可能性較低。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...ngap)性的混合性代謝性酸血症 【詳解】(C) 主要是因為磷無法藉由腎臟排出。 | 94(一)專內1-5 | | (C) 27 | 7. 下列何者不會造成慢性腎衰竭急性惡化? (A) 體液不足(volume depletion) (B) 心臟衰竭惡化(aggravating heart failure) (C) 高血糖 (D) 高血壓 | 94(一)專內2-7 | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

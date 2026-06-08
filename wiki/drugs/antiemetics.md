@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Antiemetics (止吐藥)'
   - 'Antiemetics'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- (AD)10.王小姐因感冒、噁心、吃不下飯,到衛生所求診,李醫師處方 了咳嗽藥水及止吐藥腹寧朗(Primperan),王小姐服用後約1 小時,舌頭不自主地吐出來,因此,很慌張地回到衛生所求助, 李醫師馬上處理,下列方法何者最不適當? - (A) 予以安慰(reassurance),告知不會有大礙,勸慰王小姐放輕鬆,慢慢呼吸,給予催眠(hypnosis) - (B) 肌肉注射抗過敏藥物: diphenhydramine - (C) 靜脈注射鎮靜劑: diazepam - (D) 口服乙型腎上腺素受體阻斷劑 (β-adrenergic receptor blocker): propranolol Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- 1. 腦中有空間佔據的病灶(space-occupying lesion):若病人 ECT 可能會有 edema 或 herniation 的危險,但是若病灶很小,先可用 dexamethasone 降低腦壓,並適當控制 血壓,可以減少後遺症的產生。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 2. 若病人有明顯症狀時,使用 dexamethasone 0.6 mg/kg/dose (maximum 10 mg)以口服或肌肉注射方式給藥。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (4) 治療:控制好引發 HLH 的原因是最基本的治療,然後再用以下方式。 - a. 化療藥物: etoposide + dexamethasone +/- cyclosporine。 - b. IVIG + steroid 使用在低危險族群。 - c. 無法控制的脾功能亢進者考慮脾切除。 - d. 幹細胞移植:有機會治癒,特別是 primary HLH 的病人。目前治癒率可達到 6 成以上。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 6. 治療:出生後可經由氣管內插管後給予肺泡表面張力素治療(出生 8 小時內使用第一劑,且出生時仍有胎兒肺液體時效果最好)。由於早產是呼吸窘迫症候群最大的危險因子,當孕婦發生早產是不可避免時,在產前 24 小時到七天前給予betamethasone 或者是 dexamethasone 可以降低呼吸窘迫症候群的危險(約可降低60%)以及新生兒的死亡(約 40%)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].

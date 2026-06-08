@@ -51,6 +51,8 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Diabetes mellitus (糖尿病)'
   - 'Diabetes mellitus'
@@ -65,7 +67,7 @@ tags:
 
 ## Summary
 
-慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +118,14 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...不是選擇性血清素再吸收抑制劑(SSRI)的副作用? 109(一)專 (A) 血糖急速上升 醫四-63 (B) 噁心 (C) 性功能障礙 (D) 睡眠障礙 【詳解】(D) SSRI 會讓睡眠的快速動眼期增加,影響睡眠品質。 (B) 5. 有關糖尿病與精神疾病的關聯性,下列何者錯誤? 108(二)專 (A) 許多抗精神病藥物的長期服用可能引發糖尿病 醫四-60 (B) 與糖尿病共病之憂鬱症其致病機轉及治療原則與無生理疾病 共病的憂鬱症類似 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- 【詳解】(B)糖尿病共病之憂鬱症患者藥物治療原則要考慮和 抗憂鬱劑的交互副作用,以及要避免增加代謝症候群的 antidepressants or antipsychotics • Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- 2. 體重增加: Risperidone、olanzapine、quetiapine、clozapine 都有可能會使體重上升, 其中 olanzapine 與 clozapine 甚至可能會引起糖尿病。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (3) 常見於孩童。危險因子為蚊蟲叮咬、長期皮膚局部塗抹類固醇、DM 病人的傷口、老年人、士兵和酗酒等免疫力低下者。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (4) 危險因子: DM、肥胖、衛生不佳、immunocompromised。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (C) 6.45 歲女性糖尿病患,3天前於右側額部出現叢集樣水疱(grouped 105(二)專 vesicles)合併紅斑,同側鼻尖亦出現數個水疱,下列何者為最需 醫四-40 要之檢查? - (A) 皮膚劃紋反應(dermatographism) - (B) KOH 鏡檢 - (C) 眼科檢查 - (D) 伍氏燈檢查 (Wood's light examination) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -134,9 +141,6 @@ tags:
 - (2) 有些先天德國麻疹症候群病人會有一些較晚發生的併發症,如 diabetes mellitus (20%), thyroid dysfunction (5%), and glaucoma。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (1) 接種對象:心肺疾病、心血管疾病、肝病、腎病、糖尿病、或其他免疫疾病的 民眾、孕婦、六十五歲以上老人、6個月大至國小兒童。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) 在所有危險因素中,早產是最重要因素。另外,母親若有糖尿病、懷孕期間營養不良、剖腹產或男嬰也是危險因子。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (1) 產前評估: - a. Lecithin-sphingomyelin (L/S) ratio: 當 L/S ratio > 2.0 時,在 28~32 週出生的新生兒發生 RDS 機率小於 5%。但母親為糖尿病患者的新生兒為例外。 - b. Desaturated phosphatidylcholine (DSPC) concentration: 當 DSPC 濃度 > 500 mg/dL 時肺部未成熟機率低於 1%。 - c. 針對母親為糖尿病患者的新生兒,L/S ratio 與 DSPC 濃度評估要求標準較高 (L/S ratio > 3.5,DSPC 濃度 $> 1,000 \, \mu \text{g/dL}$ )。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (2) 母親若有氣喘、糖尿病,則新生兒發生機率提高。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 2. Diabetes mellitus Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

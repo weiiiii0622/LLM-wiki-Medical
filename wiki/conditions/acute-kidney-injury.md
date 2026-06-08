@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Acute kidney injury, AKI (急性腎損傷)'
   - 'Acute kidney injury, AKI'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- 5. 實驗室檢查也會發現白血球升高、肌酸酵素 (creatinine kinase) 升高、肝指數升高、 肌蛋白尿、嚴重甚至急性腎衰竭。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - V. 腎衰竭 133 - A. 急性腎衰竭 133 - B. 慢性腎衰竭 135 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 1. 小型血管發炎疾病中,以 Henoch-Schönlein purpura(HSP)最為常見,同時,在所有兒童血管炎疾病中,HSP 亦是最常見的血管炎疾病。根據 the 2012 International Chapel Hill Consensus Conference nomenclature,HSP 又稱作 IgA vasculitis。約 30%的病人在腎臟方面會有所影響。影響範圍從 asymptomatic microscopic hematuria、proteinuria、glomerulonephritis、nephrotic syndrome、acute kidney injury 甚至 chronic renal failure。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -68,7 +71,6 @@ tags:
 - (A) 急性腎衰竭 (acute renal failure) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - A. 急性腎衰竭和慢性腎衰竭的鑑別診斷 94 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ## A. 急性腎衰竭和慢性腎衰竭的鑑別診斷 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...stridium difficile | | | (B) | 13 | 關於壞死性筋膜炎之敘述,下列何者不正確? | 94(三)檢 | | (D) | 15. | (A) Necrotizing fasciitis(壞死性筋膜炎)患者可合併急性腎衰竭或敗 | 內 -69 | | | | 血性休克 | ,, | | | | (B) Streptococcus pyogenes 引起的 necrotizing fasciitis 不會同時出現 | | | | | myositis | | | | | (C) 由 mixed aerobic-anaerobic 細菌造成的 necrotizing fasciitis 在深 | | | | | 層皮下組織會有氣體形成 | | | | | ( Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 
 ## Clinical Caveats
 

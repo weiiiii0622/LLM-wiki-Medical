@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book3-ch05]]"
 aliases:
   - 'Hypocalcemia (低血鈣)'
   - 'Hypocalcemia'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book3-ch05]]
 
 ## Key Details From Sources
 
+- (B) 在神經症狀部分,可能會出現抽搐(twitching)、強直 (tetany)、癲癇、昏迷,甚至死亡 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 【詳解】由題目敘述可知道病人有發紺型先天性心臟病。右手血壓明顯高於其他三肢,表示主動脈在左右手分枝之間出現異常,有可能是斷裂造成(interrupted aortic arch with PDA),亦即type B IAA。Type B IAA 很常合併 CATCH22 syndrome。這類病人常有臉部發展異常、胸腺發育不良或是有副甲狀腺低下造成低血鈣。故選(D)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -64,7 +67,6 @@ tags:
 - 2. 實驗室檢查:有無貧血、腎性骨病變、高血磷、低血鈣、副甲狀腺機能亢進等。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - (D) 低鈣血症 (hypocalcemia) 刺激副甲狀腺荷爾蒙之產生 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - (E) 低血鈣 (7.8 mg/dL) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- 2. 維他命 D (D): [重點:增加腸吸收→升鈣、升磷→增加骨頭質量] - (1) 要增加骨頭質量(磷酸鈣)就要先增加身體磷、鈣,所以要抑制腎臟排磷、鈣,促 進腸胃道吸收磷、鈣。 - (2) 低血鈣、低血磷,可刺激維他命 D 活化,造成高血鈣、高血磷。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 
 ## Clinical Caveats
 

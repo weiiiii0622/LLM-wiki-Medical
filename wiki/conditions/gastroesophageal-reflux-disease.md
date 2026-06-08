@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book3-ch04]]"
 aliases:
   - 'Gastroesophageal reflux disease, GERD (胃食道逆流)'
   - 'Gastroesophageal reflux disease, GERD'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-胃酸逆流造成 heartburn、食道炎或併發症，治療包含生活型態與抑酸藥物。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃酸逆流造成 heartburn、食道炎或併發症，治療包含生活型態與抑酸藥物。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book2-ch22]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book3-ch04]]
 
 ## Key Details From Sources
 
+- 【詳解】(A)使用 TCA 可以緩解大腸急躁症的腹瀉症狀但是可能會導致胃食道逆流 (D) 短期的分析導向的心理治療(dynamically oriented)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - IV. 食道(Esophagus) 64 - A. 先天性食道閉鎖與食道氣管瘻管 64 - B. 裂孔疝氣 67 - C. 胃食道逆流疾病 67 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 5. 治療:外科方式治療。在手術前最重要的處理方式為預防病人嗆到,故讓病童維持 prone positioning。術後有些合併症也須注意,如 anastomotic leak、refistulization 以及 anastomotic stricture。此外,有些病人會出現 GERD。出現 GERD 時同時常合併 胃排空能力不佳情形。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) sliding hiatal hernia 通常會有胃食道逆流,好發在 mental retarded 病童。內科治療方式只是用來處理胃食道逆流疾病,而非 hiatal hernia 本身。 Source: [[sources/med4-book1-ch02|乙、消化系統]].

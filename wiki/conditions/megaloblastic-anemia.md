@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book3-ch06]]"
 aliases:
   - 'Megaloblastic anemia (巨芽細胞性貧血)'
   - 'Megaloblastic anemia'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book3-ch04]]
+- [[sources/med4-book3-ch06]]
 
 ## Key Details From Sources
 
+- 【詳解】Restless legs syndrome 主要症狀是感覺大腿有螞蟻在爬行的感覺,通常晚上症狀會更惡化,通常和懷孕缺鐵 B12 或腎臟病有關係。治療使用 benzodiazepine 類是無效的,多半是用L-dopa、Carbidopa、bromocriptine、pergolide、Ropinirole(FDA通過)治療。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- ...n monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stro Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 1. 大球性貧血 (macrocytic anemia) 不等於巨母紅血球性貧血 (megaloblastic anemia)。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - | Megaloblastic anemia | 缺發葉酸或是 Vit B 12 ,藥物 | |--------------------------|--------------------------------| | Non-megaloblastic anemia | 脾切除、慢性肝病、MDS | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - | | Vit B deficiency | Folic acid deficiency | |----------------------|---------------------|-----------------------| | 原因 | (1) 惡性貧血 | (1) 懷孕期間葉酸補充 | | | (2) Crohn's disease | (2) 使用 MTX | | | | (3)慢性溶血 | | | | (4) 酒精 | | Megaloblastic anemia | 是 | 是 | | 神經學症狀 | 舌炎、震動覺跟姿勢覺下降 | 無 | Source: [[sources/med4-book1-ch08|辛、血液學]].

@@ -24,6 +24,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch03]]"
 aliases:
   - 'Heart valves (心臟瓣膜)'
   - 'Heart valves'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,13 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch03]]
 
 ## Key Details From Sources
 
+- ...------| | 若不治療會持續數週到數年之久。 | | | (A) 26. 關於雙極性疾患(bipolar disorder)治療藥物之敘述,下列何者錯誤? (A) lithium 在懷孕婦女身上所造成畸胎性,最常見 Ebstein 氏三尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- ...其症狀都 在半小時內緩解。本案例最可能的診斷是: (A) 癲癇發作 (B) 恐慌症 (C) 失憶症 (D) 心律不整 (D) 17. 承上題,下列那一項疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalize Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - 1. 發紺型先天性心臟病 2 - A. 法洛式四合症 (Tetralogy of Fallot) 2 - B. 肺動脈閉鎖 (Pulmonary atresia) 3 - C. 三尖瓣閉鎖 (Tricuspid atresia) 4 - D. 大動脈轉位 (Transposition of the great arteries, TGA) 6 - E. 全靜脈回流異常(Total anomalous pulmonary venous return, TAPVR) 7 - F. Ebstein 異常 (Ebstein anomaly) 8 - G. 左心發育不全症候群(Hypoplastic left heart syndrome, HLHS) *9* Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 細菌性心內膜炎:好發部位在 right ventricular infundibulum or pulmonary,aortic or tricuspid valves。右心衰竭有可能慢慢出現。進入成年期之後部分病人的右心衰竭情况可能需要靠肺動脈瓣膜置換來解決。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -81,8 +87,6 @@ tags:
 - ...cal) | | > 4 weeks | Acute and chronic osteomyelitis, S. aureus endocarditis, foreign-body infections | | | (prosthetic-valve and joint infections), relapsing pseudomembranous colitis | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...E CONTRACTOR OF THE | 1 2013 | | 麻疹症候群 | 並具有第二項之任何一種缺陷者: | | | | 一、先天性白內障、先天性青光眼、色素性視網膜病變、失聰、先天性心臟 | | | | 病(常見:開放性心臟導管、肺動脈瓣狹窄)。 | | | | 二、紫斑症、黃疸 (24 小時內發生 )、脾腫大、小腦症、心智發育遲緩、腦 | | | | 膜腦炎或長骨放射線透度異常。 | | | 急性病毒性 | 符合下列臨床病例定義且經實驗室診斷: | 1 週內 | | B型肝炎 | 一、臨床病例:(任一即可) | | | | (1) 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服 | | | | 等。 | | | | (2) 黃疸或 ALT 上升。 | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...醫三-49 | | (C) 30 | . 非典型胸痛的年輕女子接受運動心電圖檢查,下列敘述何者最正確? (A) 若呈陽性反應,則最終診斷為冠狀動脈疾病(coronary heartdisease)的機率高 (B) 若呈陽性反應,則最終診斷為二尖瓣脫垂(mitral valve prolapse)的機率高 (C) 若呈陰性反應,則最終診斷為冠狀動脈疾病的機率極低 (D) 若呈陰性反應,則最終診斷為二尖瓣脫垂的機率極低 【詳解】運動心電圖檢查對於二尖瓣脫垂的診斷價值有限,而其陰性結果較能排除 CAD,陽性結果則建議做心導管檢查。 | 100(二)專醫三7 | | (A) 31 | . 關於利用心臟超音波應用於評估急性 ST 節段上升型心肌梗塞(STEMI)病患,下列敘述何者錯誤? Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (A) 主動脈瓣狹窄 (Aortic stenosis) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (B) 主動脈瓣閉鎖不全 (Aortic insufficiency) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

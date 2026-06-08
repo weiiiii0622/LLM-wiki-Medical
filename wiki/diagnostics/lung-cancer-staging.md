@@ -27,6 +27,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book3-ch05]]"
 aliases:
   - 'Lung cancer staging (肺癌分期)'
   - 'Lung cancer staging'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,16 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book3-ch04]]
+- [[sources/med4-book3-ch05]]
 
 ## Key Details From Sources
 
+- ...6. 高先生的太太觀察到高先生半夜起來走出房門,甚至打開冰箱取 107(二)專 用食物,家人呼喊也未能叫醒,隔天清晨高先生對於這些事情沒 醫四 -67 有印象,這種情形發生在睡眠的那一期? (A) 非快速動眼期的第一期(non-REM, stage I) (B) 非快速動眼期的第二期 (non-REM, stage II) (C) 非快速動眼期的第三、四期(non-REM, stages III & IV) (D) 快速動眼期(REM) 【詳解】夢遊 sleep walking disorder 通常發生在NREM的 stage 3, Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- (D) 7.「做夢 (dreaming)」主要出現在下列那一個睡眠週期? 107(二)專 (A) stage I 醫四 -74 (B) stage II (C) stage III (D) 快速動眼期睡眠(REM sleep) (C) 8. 夢遊症(sleepwalking disorder)通常發生在睡眠腦波圖(EEG) 105(二)專 的那一個時期? 醫四 -68 (A) stage I (B) stage II (C) stage III & IV (D) REM(rapid eye movement)sleep (A) 9. 下列何者 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- (C) 34. 根據佛洛依德的心性發展(psychosexual development)理論,在 3~5 歲的幼童處於那一個發展階段? - (A) 口慾期 (oral stage) - (B) 肛門期 (anal stage) - (C) 性蕾期 (phallic stage) - (D) 潛伏期 (latency stage) Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- ...ers) (B) 酒精戒斷症候群包括:手抖、焦慮、噁心、幻覺及癲癇發作 等 - (C) 酒精戒斷症候群治療首選為 benzodiazepines - (D) 使用酒精可幫助入眠,減少睡眠中斷,增加快速動眼期睡眠 (REM sleep) 及 stage 4 sleep Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- 【詳解】(D) 酒精會增加睡眠中斷,減少快速動眼期睡眠(REM sleep)及 stage 4 sleep(深層睡眠)。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - ### Melanoma TNM Classification Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - | T stage | Thickness, mm | Ulceration status | |---------|---------------|-----------------------------------------| | T1 | ≦ 1.0 | a: Without ulceration and level ll/lll* | | | | b: With ulceration or level IV/V/T2 | | T2 | 1.0 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - | N stage | No. of Metastatic Nodes | Nodal Metastatic Mass | | | | |---------|-------------------------------------------------------------------------------------------------|---------------------------------------------------- Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
@@ -84,11 +93,6 @@ tags:
 - CCl, creatinine clearance; eCCl, estimated creatinine clearance; pRIFLE, pediatric risk, injury,failure, loss, and end-stage renal disease. Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (4) pRIFLE 強調的重點在 the glomerular filtration rate (GFR), 因此 Acute Kidney Injury Work 則以 serum creatinine 上升率做為急性腎損傷評估指標:stage I > 150%, stage II > 200%, stage III > 300%。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 1. 卡他期(catarrhal stage):持續 1~2 週,症狀輕微。鼻炎、打噴嚏、輕微發燒、輕 微咳嗽等類似感冒的症狀。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- #### 1. Ann Arbor staging system: Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (1) 五項指標:年紀(A)、體力(P)、LDH、淋巴外(E)、分期(S) - a. $\underline{\mathbf{A}}\mathrm{ge} > 60~\mathrm{years}$ ; $\underline{\mathbf{P}}\mathrm{erformance~status} > 2~\mathrm{(ECOG)}$ or $> 70~\mathrm{(Karnofsky)}$ - b. LDH >正常值; > 1 site of extranodal involvement - c. Ann Arbor stage III or IV - d. 口訣:APLES (蘋果 apples 少一個 P)。 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (A) 4. 一個 35 歲男性患者診斷為 malignant lymphoma,diffuse large B-cell type,stage IIA,下列有關敘述何者為正確? - (A) 一般而言,積極化學治療約可達到 70% 的緩解率 (remission rate) - (B) 除非進行造血幹細胞移植,否則無治癒可能 - (C) 屬於 aggressive malignancy,腫瘤生長速度快,化學藥物治療效果不佳 - (D) 應該儘可能只給予 radiation therapy 就好,避免給予 systemic chemotherapy,以免以後發生 secondary leukemia Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (3) Stage IV: 化療為主 - a. FOLFOX 或 FOLFIRI (Folinic acid+5FU+Irinotecan)。 - b. 傳統化療加上 Bevacizumab (Anti-VEGF Ab) 可改善存活率。 - c. 傳統化療加上Cetuximab(Anti-EGFR Ab),對於k-ras沒有突變的大腸癌有幫助。 - d. 單一的肝轉移可考慮做肝切除。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- 【詳解】未切到肌肉層會導致 incomplete staging,需要重作。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

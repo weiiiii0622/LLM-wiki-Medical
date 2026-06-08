@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book3-ch01]]"
+  - "[[sources/med4-book3-ch06]]"
 aliases:
   - 'SPIKES model (壞消息告知模型)'
   - 'SPIKES model'
@@ -20,15 +22,20 @@ tags:
 
 ## Summary
 
-病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book3-ch01]]
+- [[sources/med4-book3-ch06]]
 
 ## Key Details From Sources
 
+- (7) 妄想性的知覺 (delusional perception) Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
+- (C) 15. 下列何者關於知覺 (perception) 評估的敘述錯誤? Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
+- 2. 認知能力的變化(如記憶缺失、定向感消失、語言障礙)或發生知覺(perception) 障礙,並且無法以個案原有的、新形成的、或正在進行中的失智症(dementia)做 解釋。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 1. 定義:大腦皮質某一區域有不正常電氣生理活動,不一定有意識的喪失。臨床上可分為 simple partial seizure、complex partial seizure、benign partial epilepsy with centrotemporal spikes(BPEC)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (5) 發作時 EEG 顯示在前顳葉有 sharp waves or focal spikes,另外也可發現 multifocal spikes。然而,有 20% 病人其 EEG 顯示正常。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - #### 4. Benign Partial Epilepsy with Centrotemporal Spikes (BPEC): Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

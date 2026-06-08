@@ -15,6 +15,9 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book3-ch01]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Skin (皮膚)'
   - 'Skin'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,15 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch10]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med4-book3-ch01]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- (D) 使用古柯鹼(cocaine)可能造成有蟲或螞蟻在皮膚下爬行的 幻覺(formication) Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
+- ...、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramate | | Fatigue、cognitive dulling、不易 body weight | | | | | increase | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- 10. 過敏性皮膚炎與光敏感:長期使用 chlorpromazine 的病人皮膚可能會呈現藍灰色。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 1. 皮膚覆蓋全身,是身體最大的器官,約為 1.8 m² BSA (body surface area),分為表皮 (epidermis)、真皮 (dermis) 和皮下組織 (subcutaneous tissue)。另外皮膚上有毛囊、指甲、皮脂線及汗腺等附屬器官 (appendages)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - 2. 表皮:位於皮膚最上層,厚度從最薄的眼皮 0.04 mm 至最後的足底 1.5 mm 不等,由表面而下可分為五層:角質層、透明層、顆粒層、棘狀細胞層和基底層。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (1) 角質層(stratum corneum):由 25~30 排扁平死細胞(分化完成之角質細胞)組成,細胞間質為膽固醇、神經醯胺(ceramide)和游離脂肪酸。為人體對付來自外界各式各樣物理、化學性刺激,如乾燥、冷熱、紫外線等的天然屏障。此層含有 15~20% 由皮膚自行產生的天然保濕因子(Natural Moisturizing Factor)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].

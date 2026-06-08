@@ -45,6 +45,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Airway inflammation (氣道發炎)'
   - 'Airway inflammation'
@@ -59,7 +60,7 @@ tags:
 
 ## Summary
 
-氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -104,9 +105,11 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch03]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- 9. 顆粒球缺乏症候群(agranulocytosis): 定義為 ANC(absolute neutrophil count) (dopamine 2 receptor antagonist) | 血清素多巴胺拮抗劑 (serotonin-dopamine antagonist) | | 錐體外症狀(extrapyramidal symptoms, EPS) | 常見 | 少見 | | 抗精神病藥物惡性症候群(neuroleptic malignant syndrome) | 常見 | 少見 | | 遲發性肌張力不全(tardive dyskinesia) | 常見 | 少見 | | 體重增加 | 不常見 | Clozapine、Olanzapine 常見 | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 4. 異位性皮膚炎的病因是許多因素綜合的結果,家族性和異位性體質等基因因素加上環境中過敏因子,造成 Type I(IgE-mediated)hypersensitivity reaction,急性發炎反應和 Th2、IL-4、IL-13 有關,慢性發炎反應則和 Th1、IL-5、IL-12、GM-CSF、IFN-γ有關。 - (1) 常見的過敏原包括塵蟎、貓狗等動物的毛、蟑螂、黴菌、花粉等,幼兒期腸胃 道比起大人較可能受食物過敏原影響,常見的可能食物過敏原有牛奶、蛋白、 麥、花生、海鮮等。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (D)慢性期的病理機轉主要以 Th2 細胞的活化為主要之角色, Th1 細胞角色較少 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - Candidiasis: epidermis 會有 spongiotic change(表皮細胞彼此之間像吸水的海綿間隔距離變寬),在 stratum corneum 和 superficial epidermis 可見 neutrophil 匯聚成一小團一小團的 pustulation,加上臨床不太像,故排除。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -124,7 +127,6 @@ tags:
 - (D) 3. 關於嬰幼兒感染砂眼披衣菌(*Chlamydia trachomatis*) 肺炎之敘 述,下列何者較正確? - (A) 罹患砂眼披衣菌母親且未接受治療,約九成其新生兒會得到 砂眼披衣菌肺炎 - (B) 通常新生兒出生後 1 週內會有明顯肺炎症狀 - (C) 相對呼吸道融合病毒感染,砂眼披衣菌肺炎較容易發燒及喘鳴聲(Wheezing) - (D) 砂眼披衣菌感染後,血液中嗜伊紅白血球會增加 (eosinophils > 400 cells/μL) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 3. 病因: - (1) 真正發生原因仍未明。目前證據顯示可能為後天性疾病。 - (2) (參考)文獻記載 eosinophilic gastroenteritis、Apert syndrome、Zellweger syndrome、**trisomy 18**、Smith-Lemli-Opitz syndrome以及Cornelia de Lange syndrome與HPS有關。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 17. 一個 7 天大男童,因為腹脹及黃疸求診。出生體重為 2,550 公克,出生週數為 38 週。身體診察顯示倦怠、活力不佳,肝臟可摸到兩指幅。血液檢查白血球 8,280/μL,其中 segment 占 15%,band form 占 22%,lymphocyte 占 30%,monocyte 占 1%,eosinophil 占 1.2%。血紅素為 15 g/dL,血小板 220,000/μL。ALT 77 U/L、AST 72 U/L。腹部 X 光、腹部皮膚及糞便如下,臨床診斷最可能為下列何者? Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...t(8;21) | AML1-ETO | Myeloblasts with differentiation | Favorable | | inv(16) | CBFB-MYHII | Myeloblasts plus abnormal eosinophils with dysplastic basophilic granules | Favorable | | t(15;17) | PML-RARA | Promyelocytic | Favorable | | 11q23 abnormalities | MLL rearrangements | Monocytic | Unfavorable | | FLT3 mutation | FLT3-ITD | Any | Unfavorabl Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 
 ## Clinical Caveats
 

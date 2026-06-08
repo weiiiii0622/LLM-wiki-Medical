@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book3-ch02]]"
 aliases:
   - 'Infectious gastroenteritis (感染性腸胃炎)'
   - 'Infectious gastroenteritis'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,12 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med4-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...--|---------------|-------------------------------------------|--| | Lithium | 0.8~1.2 mEq/L | 影響腎功能、tremor、weight gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedatio Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- ...| 104( 一 ) 専醫四 −62 | | (C) 28. 下列關於血清素症候群(serotonin syndrome)的臨床表現,何者錯誤? (A) 體溫升高 (B) 譫妄 (C) 便秘 (D) 盜汗 【詳解】血清素症候群常出現的症狀:diarrhea、diaphoresis、tremor、ataxia、myoclonus、hyperactive reflexes、disorientation、mood liability。 | 104( 一 ) 專醫四 -66 | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 【詳解】癩皮病(Pellagra),原因為營養不良缺乏維他命 B3(即菸鹼酸),主要在日曬部位皮膚一開始會有類似曬傷的狀態,接著逐漸變褐色和脫皮,產生全身色素沉澱。此外口腔有舌炎、口角炎;消化方面有嘔吐、腹瀉、消化不良;精神方面憂鬱、精神分裂、失智以及末梢神經感覺異常等併發症,嚴重者會致死。典型三大症狀(3D): Dermetitis, Diarrhea, Dementia。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (A) 1. 下列何種情形與鉀離子流失所造成的低血鉀 (Hypokalemia ) 最 108( 二 ) 專 無關? - (A) 注射胰島素 (Insulin) - (B) 長期使用利尿劑 (Long-term usage of diuretics) - (C) 腸胃炎引起腹瀉(Gastroenteritis induced diarrhea) - (D) 腎小管酸血症 (Renal tubular acidosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - II. 腹瀉 (Diarrhea) 54 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -69,8 +73,6 @@ tags:
 - ## 2. 旅行者的下痢 (Traveler's diarrhea): (Ref. Harrison ch 40) Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - ...型 | 雙股線狀 | 細胞質 | 痘病毒 (Pox virus) | 天花, 傳染性軟疣 | | | | | 二十面體 | 單股 (+) 無分段 | 細胞質 | 小 RNA 病毒 (Picornavirus) | 小兒麻痺,克沙奇病毒 | 腸胃道感染 | | | | | 雙股分段(11) | 細胞質 | 呼腸孤病毒科 (Reovirus) | 輪狀病毒 | 肠月坦念朱 | | | | | 面體 | 單股 (+) 無分段 | 細胞質 | 披膜病毒 (Togavirus) | a 病毒,(德國麻疹) | 節肢動物 | | | | 早版 (*) 無方权 | 細胞質 | 黃質病毒科 (Flavivirus) | 登革熱,日本腦炎 | (蟲媒病毒) | | | | | 單股 (+) 無分段 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - | 部位 | 病毒株 | 疾病 | | |-----|-----------|---------------------|-------------------------------| | 呼吸道 | 7, 14, 21 | 小孩、新兵的呼吸道感染 | | | 明明基 | 3, 4, 7 | 咽結膜炎(游泳池游泳之病史) | Pharyngoconjunctivitis | | 眼睛 | 8, 19, 37 | 角結膜炎(眼科器械移除眼睛異物之病史) | Epidemic keratoconjunctivitis | | 腸胃道 | 40, 41 | 嬰兒病毒性腸胃炎 | Infantile diarrhea | Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- (1) 輪狀病毒 (Rotavirus): - a. 雙股之 RNA 分段病毒。 - b. 分型: - (a) Group A: 造成幼兒腸胃炎 (infantile gastroenteritis) 主要的病毒 - (b) Group B:在中國大陸可造成成年人流行感染而致病 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- (2) 疾病:在一般人身上,可引起暫時性的腸胃道感染,而導致水便。在長期配戴隱形 眼鏡的人身上,會造成潰瘍。典型的伺機感染菌(opportunistic pathogen),其感染 多發生在抵抗力較弱的宿主。如在 Neutropenia 的病人,可引起肺炎、敗血症。在 放置導尿管的病人,可引起泌尿道感染。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

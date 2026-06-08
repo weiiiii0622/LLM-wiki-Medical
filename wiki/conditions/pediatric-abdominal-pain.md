@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Pediatric abdominal pain (兒童腹痛)'
   - 'Pediatric abdominal pain'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-兒童腹痛鑑別包含感染、外科急症、功能性疾病與腸胃外原因。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童腹痛鑑別包含感染、外科急症、功能性疾病與腸胃外原因。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...6~20小時) | 中等 | | Triazolam | 最短 | 快 | | Estazolam | 中等(6~20 小時) | 快 | | Midazolam | 短((1.5~2.0 mEq/L) | GI | Vomiting · Abdominal pain · Dry mouth | | | | Neurology | Ataxia · Dizziness · Slurred speech · Nystagmus · | | | | | Lethargy · Excitement · Muscle weakness | | | 中度到嚴重(2.0~2.5 mEq/L) | GI | Anorexia · Persistent nausea and vomiting | | | | Neu Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - I. 腹痛 (Abdominal Pain) 53 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - # I. 腹痛 (Abdominal Pain) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) 常見有 fever、chills、chest or abdominal pain、arthralgia、myalgia、dyspnea、malaise、night sweats、weight loss、CNS manifestations (stroke, seizures, headache)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

@@ -7,6 +7,8 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Stevens-Johnson syndrome / toxic epidermal necrolysis, SJS/TEN (史蒂芬強森症候群／毒性表皮壞死溶解症)'
   - 'Stevens-Johnson syndrome / toxic epidermal necrolysis, SJS/TEN'
@@ -21,16 +23,23 @@ tags:
 
 ## Summary
 
-嚴重藥物或感染相關黏膜皮膚反應，表皮壞死剝離且可危及生命。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嚴重藥物或感染相關黏膜皮膚反應，表皮壞死剝離且可危及生命。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...| | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramate | | Fatigue、cognitive dulling、不易 body weight | | | | | increase | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- ...尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic episode)在 DSM-IV-TR 的診斷準則(criteria)之敘述,下列何者錯誤? (A) 膨脹的自尊心或自大狂 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- (C) 緩慢增加 lamotrigine 劑量較不會引起史蒂芬-強生症候群 (Stevens-Johnson Syndrome) 等副作用 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- (C) 9. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(-)專 症候群(Stevens-Johnson syndrome)」? 醫四-74 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - B. 史帝芬強生症候群與毒性表皮壞死溶解症 112 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - B. 史帝芬強生症候群 (Stevens-Johnson syndrome, SJS) 與毒性表皮壞死溶解症 (Toxic epidermal necrolysis, TEN) Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 2. 目前亞洲種族被發現某些 HLA-B 基因型與特定藥物所引起的 SJS/TEN 相關: HLA-B\*1502 (carbamazepine) 和 HLA-B\*5801 (allopurinol)。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
@@ -47,7 +56,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[drugs/carbamazepine|Carbamazepine (卡馬西平)]]
 
 ## Follow-up
 

@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med4-book3-ch04]]"
 aliases:
   - 'Secondary skin lesions (次發性皮膚病灶)'
   - 'Secondary skin lesions'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med4-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...rder 和 Parkinson's disease(PD) 高度相關,也好發在有 PD 家族史的患者身上。 | 106(一)專醫四-67 | | (A) 18. 依據社會再適應評估表(social readjustment rating scale),下列何種生活事件所造成的壓力強度最大? (A) 配偶死亡 (B) 離婚 (C) 入獄 (D) 子女死亡 【詳解】社會再適應評估表是一種把生命中各種可能遇到的壓力量化為 0~100 分的量表;配偶死亡分數最高 100 分;離婚:73 分;入獄:63 分;子女死亡:63 分。 | 105( 二 ) 專醫四 -64 | Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (1) 膿疱(Pustule):隆起,含有膿狀分泌物的丘疹。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (3) 鱗屑(Scales):角質層(Stratum corneum)細胞不正常堆積。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (4) 糜爛 (Erosion): 受傷的深度只到表皮層 (Epidermis), 癒合後不會留疤。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].

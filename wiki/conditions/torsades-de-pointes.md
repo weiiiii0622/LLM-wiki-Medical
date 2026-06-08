@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book3-ch05]]"
 aliases:
   - 'Torsades de pointes (多型性心室頻脈)'
   - 'Torsades de pointes'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-QT 延長相關多型性 VT。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+QT 延長相關多型性 VT。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch01]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book3-ch05]]
 
 ## Key Details From Sources
 
+- ...症狀較輕微,過量也不會抑制呼吸 醫四 -69 (B) 丁基原啡因(buprenorphine)可減弱或阻斷海洛因及嗎啡的 作用,且可帶回家自行服用 (C) 臨床上已不再使用 levomethadyl 是因為可能引起心電圖 QT 間隔延長及 Torsades de pointes (D) Naltrexone 可阻斷欣快感而減少病患尋求海洛因之行為,但 較缺乏使病患願意連續使用之機制 【詳解】由於美沙東會作用在 opioid $\mu$ receptor,因此過量也會 有抑制呼吸的危險。 100(一)專 (D) 47. 下列何者不屬於酒精戒斷症候群的可能表徵? 醫四 -72 (A) 幻覺 (B) 癲癇發作 (C) 焦慮 (D)縮瞳 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - (D) 19. QT 間距延長症候群(long QT syndrome)是一種先天性心臟離子 通道病變(channelopathy)。下列何種藥物有可能加重其 QT 延 長之變化,應避免?① clarithromycin② amiodarone③ acetaminophen④ haloperidol Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...on、ventricular tachycardia。Haloperidol 除了會造成 prolonged Q-T interval外 ECG上會有不正常的T波(prolonged ventricular repolarization)。torsades de pointes、ventricular arrhythmia亦是常見的心律不整。Acetaminophen 在心血管方面的副作用有 peripheral edema、tachycardia、hypertension or hypotension。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (C) Torsades des pointes 之主要原因為 delayed afterdepolarization Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

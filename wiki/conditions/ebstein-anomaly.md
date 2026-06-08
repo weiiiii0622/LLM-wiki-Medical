@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book3-ch02]]"
 aliases:
   - 'Ebstein anomaly (Ebstein 異常)'
   - 'Ebstein anomaly'
@@ -19,14 +20,17 @@ tags:
 
 ## Summary
 
-三尖瓣附著位置下移造成右心房化右心室、三尖瓣逆流與發紺/心律不整風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+三尖瓣附著位置下移造成右心房化右心室、三尖瓣逆流與發紺/心律不整風險。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...---------------| | 若不治療會持續數週到數年之久。 | | | (A) 26. 關於雙極性疾患(bipolar disorder)治療藥物之敘述,下列何者錯誤? (A) lithium 在懷孕婦女身上所造成畸胎性,最常見 Ebstein 氏三尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- 【詳解】lithium 和 valproic acid 懷孕等級為 D, lithium 容易導致 Ebstein's anomaly; valproic acid 容易導致 neural tube 發展 defect。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 1. 發紺型先天性心臟病 2 - A. 法洛式四合症 (Tetralogy of Fallot) 2 - B. 肺動脈閉鎖 (Pulmonary atresia) 3 - C. 三尖瓣閉鎖 (Tricuspid atresia) 4 - D. 大動脈轉位 (Transposition of the great arteries, TGA) 6 - E. 全靜脈回流異常(Total anomalous pulmonary venous return, TAPVR) 7 - F. Ebstein 異常 (Ebstein anomaly) 8 - G. 左心發育不全症候群(Hypoplastic left heart syndrome, HLHS) *9* Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - # F. Ebstein 異常 (Ebstein anomaly) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 正常胚胎發育過程中,三尖瓣的形成是源自右心室心肌脫離而來。當這個過程出現問題時,三尖瓣無法自右心室壁分離而造成 Ebstein 異常(三尖瓣中 the anterior cusp 仍與瓣膜環有部分相連,剩下部分則黏附在右心室壁上)。簡單說就是三尖瓣往下位移,造成右心室一開始相對變小。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

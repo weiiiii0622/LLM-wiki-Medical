@@ -20,6 +20,10 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch07]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -34,7 +38,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +58,20 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book3-ch06]]
+- [[sources/med4-book3-ch05]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch07]]
 
 ## Key Details From Sources
 
+- (A) 抗精神病長效針劑是治療譫妄之首選藥物之一 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
+- (C) 晚上投與長效安眠藥物改善睡眠 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
+- 【詳解】沒有精神病史的老年人突然出現視幻覺,且有日夜顛倒之情形,此應為由內外科問題引起的瞻妄(delirium),應該要找出造成問題的內外科病因並且加以處理,對於短暫的幻覺可以給予抗精神病藥物如 haloperidol 治療,長效安眠藥可能會惡化病人的意識狀態。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
+- 1. 越短效的鴉片類藥物產生的戒斷症狀比較強烈,但是持續時間比較短暫;較長效的 鴉片類藥物產生的戒斷症狀相對較輕微,但是持續時間比較長。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- ...可合併有鎮靜效果之抗憂鬱劑來治療 (C) 避免戒斷癲癇應改投以短效型藥物如 lorazepam (D) 若有住院則可立即停止鎮靜安眠藥 【詳解】(A)使用抗精神病藥物會降到 seizure threshold 導致 seizure;(C) 長效藥物如 clonazepam; (D) 需要緩慢降低藥量(gradual taper)。 104(一)專 (B) 32. 關於天使塵 (phencyclidine) 的敘述,下列何者錯誤? 醫四 -71 (A) 有解離性麻醉的作用 (B) 作用的機轉類似搖頭丸 (3,4-methylene-dioxymethamphetamine, MDMA) (C) 中毒症狀可能呈現極度焦慮 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- (A) 常反覆躁症發作者,可使用抗精神病藥物之長效針劑治療 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- ...不足過動症 | 醫四 -74 | | | (B) 常見的副作用有食慾不振,睡眠障礙,頭痛,不自主運動等 | | | | (C) 可減少中樞神經系統多巴胺(dopamine)的釋放 | | | | (D) 目前除了短效劑型中樞神經興奮劑,也有長效劑型可以選擇 | | | | 【詳解】本題答 (B) 或 (C) 或 (BC) 者均給分。 | | | (D) | 10. 注意力缺失過動症(attention-deficit/hyperactivity disorder)所使 | 102(一)專 | | | 用之治療藥物中,下列何者不是中樞神經刺激劑? | 醫四 -73 | | | (A) methylphenidate | | | | (B) dextroamphetamine | Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - \* 針對使用低劑量 budesonide/formoterol 或低劑量 beclomethasone/formoterol 作為維持 / 緩解治療的病人,可選擇低劑量 ICS/formoterol 作為緩解型藥物。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 長效吸入性乙二型交感神經興奮劑(Long-acting inhaled β2-agonist, LABA): 為長效型的支氣管擴張劑,作用至少 12 小時,因此適用於夜間症狀明顯及白 天常需使用 SABA 者。須配合吸入性類固醇一同使用,不可單獨使用,因為 LABA 本身無 anti-inflammation 作用,因此單獨使用反而會使氣喘急性發作及治 療失敗的風險增加。此外,文獻指出單獨使用 LABA 會增加 asthma mortality, 因此不建議單獨使用。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -68,13 +83,6 @@ tags:
 - (D) 給予長效型 morphine sulfate,有 breakthrough pain 時再給予即效型 morphine sulfate Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...(A) 用含 5-fluorouracil, leucovorin, oxaliplatin (FOLFOX) 的化學治療 - (B) 用 loperamide - (C) 切除迴盲腸的腫瘤 (ileocecal mass) - (D) 用長效型 octreotide Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (2) Benzathine PCN 是長效、肌肉劑型的 Penicillin G,用來治療 Primary syphilis(IM 1 dose)、Secondary syphilis、Group A streptococcal pharyngitis 等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...|-------------------------------------------------------------------------------------------------------|--| | 降何時的血糖 | 長效 SUMetformin中腸效胰島素:NPH、Glargine | 短效 SU、Glinideα glucodase inhibitorGLP-1 相關 (GLP-1、DPP4 inhibitor)短效胰島素 (RI、Aspart、Lispro) | | | 對體重影響 | 增加體重 | 減輕體重 | | | | 增加胰島素 (Insulin, SU, Glinide)導致水腫 (TZD) | 針劑 GLP-1SGLT2 inhibit Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 【詳解】2018年糖尿病治療指引建議目標:飯前80~130 mg/dL, 飯後 80~160 mg/dL,目前是 AC sugar 不符標準,考慮加晚上的中 長效胰島素劑量。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- ...~120 mg/dL,飯後血糖為 218~250 mg/dL。以下敘述何者錯誤? (A) 自測空腹血糖值大多數落於治療目標範圍內 (B) HbA1C 值的升高和基礎胰島素(basal insulin)分泌不足有關 (C) 本病人可併用中效或長效胰島素治療 (D) 本病人應將治療重點放在餐後血糖調控上 【詳解】(B) 和飯後胰島素分泌不足有關。 | 97(二)專醫三-55 | |--------|----------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- (2) 愈長效的糖皮質素,糖皮質素效力愈強、鹽皮質素效力愈弱。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- (4) 治療:若病患有症狀或 MRI 看到 Macroadenoma (> 10 mm),則需治療。 - a. 第一線 (藥物治療): 以 Dopamine agonist (Cabergoline 長效、Bromocriptine 短效) 抑制促乳素瘤 (Prolactinoma) - b. 第二線(開刀治療):內科治療無效,考慮內視鏡開刀(Transsphenoidal surgery) - c. 第三線(放射線治療):開刀也失敗,可考慮γ-刀放射線治療(γ-knife radiotherapy) Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...L,ALT 85 U/L,肝生檢(biopsy)顯示為第二期(Metavir F2)之肝纖維化。下列敘述何者錯誤?(A) 朱女士應定期接受肝癌篩檢,包括腹部超音波和甲型胎兒蛋白(B) 朱女士可接受抗病毒治療(C)目前 C 型肝炎之標準治療為長效型干擾素(pegylated interferon)合併雷巴威林(ribavirin)和蛋白酵素抑制劑(protease inhibitor)(D) 若能清除 C 型肝炎病毒,可減少肝硬化和肝癌之風險【詳解】(C) 不包含蛋白酵素抑制劑。 | 99(一)專醫三-15 | | (D) 30 | ). 下列何者與脂肪肝(fatty liver)無關? (A) 肥胖症 (B) 糖尿病 (C) C 型肝炎 (D) B 型肝炎 | 98(二)專醫 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...日病情時好時壞,但症狀總是存在,且有漸進性活動時喘 (Progressive exertional dyspnea)● 慢性咳嗽咳痰伴隨呼吸困難發作 | | 降階或較輕 | Step2→每天使用低劑量吸入型類固 | Group B→先用一種長效擴張劑 (LABA | | 微病患的維持用藥 | 醇 (ICS)(ICS;氣喘病患不可單用 LABA | or LAMA) | | 起始的維持用藥 | Step 3 →再加長效擴張劑 (LABA)(ICS + LABA) | Group C 持續 AE 者→選用較有證據的長效擴張劑 (LAMA) | | 升階或較嚴 | Step 4→中劑量 ICS+LABA | Group D (注意: GOLD 2019 改版這部分) | | 重病患 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 
 ## Clinical Caveats
 

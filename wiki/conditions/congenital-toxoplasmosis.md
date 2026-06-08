@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book3-ch06]]"
 aliases:
   - 'Congenital toxoplasmosis (先天性弓漿蟲感染)'
   - 'Congenital toxoplasmosis'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book3-ch06]]
 
 ## Key Details From Sources
 
+- ...Trauma | Closed-head injury, heat stroke, postoperative, severe burns | | | | | | CNS pathology | Abscess, hemorrhage, hydrocephalus, subdural hematoma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmona Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - ...-------------------------------------------------------------------------------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosi Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 弓漿蟲病 (Toxoplasmosis) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 22. 一位 8 個月大的嬰兒因發燒 2 天求診,退燒時活力正常,理學檢 查發現前囟門鼓起,血中白血球數目為 4,300/mm³,脊髓液檢查 正常,頭部超音波無異常影像。其腦部最可能的病情為: - (A) 細菌性腦膜炎 (bacterial meningitis) - (B) 假性腦腫瘤 (pseudotumor cerebri) - (C) 腦腫瘤 (brain tumor) - (D) 水腦 (hydrocephalus) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

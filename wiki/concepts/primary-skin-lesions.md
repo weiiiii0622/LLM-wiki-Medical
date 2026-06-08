@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med4-book3-ch06]]"
 aliases:
   - 'Primary skin lesions (基本皮膚病灶)'
   - 'Primary skin lesions'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,13 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch07]]
+- [[sources/med4-book3-ch06]]
 
 ## Key Details From Sources
 
+- 6. Amyloid precursor protein:製造此蛋白質的基因位在染色體 21q,被代謝為 β/A4 protein,是 senile plaque的主要成分,在AD病人腦部發現有過多的 β/A4 protein沉澱。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
+- 9. 神經病理學發現:senile plaque(其他類型失智症也可見到)、neurofibrillary tangle(其他類型失智症也可見到)、neuronal loss(特別是在 cortex 與 hippocampus)、synaptic loss、granulovacuolar degeneration of neurons。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
+- 【詳解】senile plaque 和 neurofibrillary tangle 均可在阿茲海默失智症以外的疾病看到。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 1. 蕁麻疹是指皮膚上出現一塊塊的膨疹(wheal),非常癢,有如蚊子叮咬的腫塊,為皮膚表淺血管擴張,通透性增加與水腫所形成,大多會在一天內消去,但易反覆發生,由於來去如風,俗稱「風疹」。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 4. 貼膚試驗(Patch Test):過敏性接觸性皮膚炎用來尋找過敏原的方式,將懷疑的過敏原直接接觸皮膚並用貼布覆蓋固定,48 小時後(因其為 type IV hypersensitivity reaction,需要時間才會反應出來)拿掉貼布觀察有無出現 erythema、papule、vesicle 的情形,72 小時候再觀察一次。(貼膚試驗需等接觸性皮膚炎痊癒後再行此試驗,且需在非病變皮膚部位〔如背部〕測試。) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 5. 典型症狀 5P: Planus (flat-topped)、Pruritic、Polygonal、Purple、Papule (扁平、癢感、多角形、紫色、丘疹)。(右上圖) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].

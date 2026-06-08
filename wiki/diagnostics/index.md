@@ -40,6 +40,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/d-dimer|D-dimer (D-二聚體)]] - 低風險肺栓塞排除策略常用檢驗。
 - [[diagnostics/developmental-milestones|Developmental milestones (兒童發展里程碑)]] - 依年齡追蹤粗動作、細動作、語言、認知與社會互動發展。
 - [[diagnostics/dexamethasone-suppression-test|Dexamethasone suppression test (地塞米松抑制試驗)]] - 篩檢或評估 Cushing syndrome 的 HPA axis 回饋。
+- [[diagnostics/dsm-diagnostic-criteria|DSM diagnostic criteria (DSM 診斷準則)]] - 精神科疾病分類與診斷準則框架；教材同時使用 DSM-IV-TR 與 DSM-5，需注意版本差異。
 - [[diagnostics/duke-criteria|Duke criteria (Duke 診斷標準)]] - 感染性心內膜炎的診斷架構。
 - [[diagnostics/echocardiography|Echocardiography (心臟超音波)]] - 評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。
 - [[diagnostics/electrocardiography|Electrocardiography, ECG (心電圖)]] - 心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。
@@ -58,6 +59,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/liver-function-tests|Liver function tests, LFTs (肝功能檢查)]] - 用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。
 - [[diagnostics/lung-cancer-staging|Lung cancer staging (肺癌分期)]] - 肺癌治療選擇依組織型與分期。
 - [[diagnostics/mammography|Mammography (乳房 X 光攝影)]] - 乳癌篩檢與診斷影像，特別適合脂肪比例較高的乳房偵測鈣化。
+- [[diagnostics/mental-status-examination|Mental status examination, MSE (精神狀態檢查)]] - 精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。
 - [[diagnostics/methacholine-provocation-test|Methacholine provocation test (Methacholine 支氣管激發試驗)]] - 疑似氣喘但肺功能正常時可用來評估氣道高反應性。
 - [[diagnostics/nikolsky-sign|Nikolsky sign (Nikolsky 徵象)]] - 輕壓或摩擦使表皮剝離，見於 SSSS、pemphigus vulgaris、TEN 等表皮內或表皮壞死疾病。
 - [[diagnostics/oral-glucose-tolerance-test|Oral glucose tolerance test, OGTT (口服葡萄糖耐受試驗)]] - 用於診斷糖尿病、糖尿病前期與妊娠糖尿病。
@@ -72,6 +74,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/serum-ascites-albumin-gradient|Serum-ascites albumin gradient, SAAG (血清腹水白蛋白梯度)]] - SAAG 協助判斷腹水是否與門脈高壓相關。
 - [[diagnostics/stool-osmotic-gap|Stool osmotic gap (糞便滲透壓差)]] - 協助區分滲透性與分泌性腹瀉。
 - [[diagnostics/stress-test|Stress testing (壓力測試)]] - 用於評估冠狀動脈缺血，依運動能力與基礎 ECG 選擇方式。
+- [[diagnostics/suicide-risk-assessment|Suicide risk assessment (自殺風險評估)]] - 評估自殺意念、計畫、手段可近性、過去企圖、精神疾患、物質使用、保護因子與支持系統。
 - [[diagnostics/tanner-staging|Tanner staging (Tanner 青春期分期)]] - 以乳房/生殖器與陰毛發育分期評估青春期進展。
 - [[diagnostics/thyroid-fine-needle-aspiration|Thyroid fine-needle aspiration, FNA (甲狀腺細針抽吸)]] - 甲狀腺結節依超音波風險與大小決定 FNA。
 - [[diagnostics/thyroid-function-tests|Thyroid function tests (甲狀腺功能檢查)]] - TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。

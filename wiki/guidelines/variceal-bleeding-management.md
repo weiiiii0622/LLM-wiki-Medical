@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book2-ch05]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med4-book3-ch02]]"
 aliases:
   - 'Variceal bleeding management (靜脈曲張出血處置)'
   - 'Variceal bleeding management'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-急性靜脈曲張出血需結合復甦、血管收縮藥、抗生素與內視鏡治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性靜脈曲張出血需結合復甦、血管收縮藥、抗生素與內視鏡治療。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book2-ch05]]
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch11]]
+- [[sources/med4-book3-ch02]]
 
 ## Key Details From Sources
 
+- Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (2) 預防再出血: - a. 使用非選擇性 β 交感神經阻斷劑,降低心輸出量,藉此降低門脈壓。 - b. 以內視鏡對較大的血管進行 regular band ligation 做預防。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (D) 21. 一位 65 歲男性病人發生急性食道靜脈曲張出血(variceal bleeding),下列何種治療不考慮?98(ニ)専署ニ-56 - (A) 藥物 somatostatin or octreotide 治療 - (B) 內視鏡結紮術 - (C) 內視鏡硬化劑注射 - (D) 食道橫截切除術 Source: [[sources/med3-book2-ch23|戊、肝硬化]].

@@ -30,6 +30,9 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book3-ch05]]"
 aliases:
   - 'Electrocardiography, ECG (心電圖)'
   - 'Electrocardiography, ECG'
@@ -44,7 +47,7 @@ tags:
 
 ## Summary
 
-心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +77,17 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book3-ch03]]
+- [[sources/med4-book3-ch09]]
+- [[sources/med4-book3-ch05]]
 
 ## Key Details From Sources
 
+- (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
+- (A) 須考慮是否有任何身體疾病,在醫療的處置上,需先評估個 案的標準生化檢查、心電圖與甲狀腺功能檢查 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
+- 2. 心臟副作用: Chlorpromazine 會使 QT prolong、thioridazine 可能會導致 torsade de pointes,因此需要定期追蹤心電圖,當 QT interval 超過 0.44 ms,猝死 (sudden death) 的危險性增高。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- 8. 心臟副作用: Ziprasidone 發現會使某些病人的心電圖 QTc 延長。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- ...methadone) 戒斷症狀較輕微,過量也不會抑制呼吸 醫四 -69 (B) 丁基原啡因(buprenorphine)可減弱或阻斷海洛因及嗎啡的 作用,且可帶回家自行服用 (C) 臨床上已不再使用 levomethadyl 是因為可能引起心電圖 QT 間隔延長及 Torsades de pointes (D) Naltrexone 可阻斷欣快感而減少病患尋求海洛因之行為,但 較缺乏使病患願意連續使用之機制 【詳解】由於美沙東會作用在 opioid $\mu$ receptor,因此過量也會 有抑制呼吸的危險。 100(一)專 (D) 47. 下列何者不屬於酒精戒斷症候群的可能表徵? 醫四 -72 (A) 幻覺 (B) 癲癇發作 (C) 焦慮 (D)縮瞳 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 6. 診斷:以外科方式治療為最終目標。 - (1) 胸部 X 光: 典型表現為靴子形狀(boot-shaped)心臟(但心臟大小正常)、肺血管紋減少,有時可以看到右位主動脈弓。 - (2) 心電圖:電軸右偏(顯示右心室肥大)。 - (3) 心臟超音波:可以用來確立診斷。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 屬於嚴重型的法洛氏四合症。但是沒有如典型 TOF 表現的心雜音。臨床發紺的嚴重度與側枝循環是否充足有關;側枝循環血液足夠的話病人發紺程度會較輕。此外,病人的心電圖呈現右心室肥大。在心臟超音波下病人右心室壁的增厚以及肺動脈閉鎖。胸部 X-ray 影像學下心臟不一定肥大,視肺血流量多寡而定。預後則視本身肺動脈大小而定,最終仍是要以外科方式治療。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - a. 心電圖:a frontal QRS axis between 0 and + 90 degrees,高而尖的 P 波 (right atrial enlargement) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -90,11 +101,6 @@ tags:
 - ...; 電解質 (單位 mmol/L): Na 140, | | | | | K 2.3, Cl 112, Ca 2.25。對於此病人的進一步診斷,下列那個處置最 | | | | | 合適? | | | | | (A) 動脈血氣體分析 (B) 心電圖 (C) 胸部 X 光檢查 (D) 肌電圖 | | | (D) | 10. | 下列選項何者不是 Gitelman's syndrome 的特徵? | 100(二)專 | | | | (A) 低血鉀 (B) 代謝性鹼中毒 (C) 低血鎂 (D) 高尿鈣 | 醫三-26 | | | | 【詳解】G i telman's syndrome 為類似使用 Th i azide,造成高血鈣、 | | | | | 低尿鈣。 | | | (B) | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...---------------------|-------------------------------------------------------| | $K = 3\sim5 \text{ mEq/L}$ | ALA | 正常的 EKG | | K = 7 mEq/L | 1/1/ | T 波變高(Tent T wave)PR 延長 | | K = 8-9 mEq/L | \\\\\ | P 波變平,甚至 Sinus arrestQRS 變寬 | | K > 10 mEq/L | | Sine wave Cardiac standstill Ventricular fibrillation | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 口訣 | 高血鉀 | 低血鉀 | |---------|-----------------------------------|---------------| | 鉀使 T 高 | 高T波 | T 波消失,而出現 U 波 | | 前/後半部延長 | PR 延長、QRS 變寬QT 縮短連成 Sine wave | QT 延長 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...痛 1 小時來院求診,身體檢查 血壓 150/94 mmHg,脈搏每分鐘 80 次,呼吸每分鐘 18 次,心臟聽 診有明顯的心包膜摩擦音,下肢微腫,實驗室檢查血鈉 135 mmol/L,血鉀 5.3 mmol/L,血紅素 8.0 g/dL,心電圖呈廣泛性 ST-segment 上升。下列何項是最根本的治療? | 106(一)專醫三-33 | | | (A) 給予 kayexalate (sodium polystyrene sulfonate) 降低血鉀 | | | | (B) 透析(dialysis) | | | | (C) 輸血 (blood transfusion) | | | | (D) 經皮冠狀動脈介入治療(percutaneous coronary interven Source: [[sources/med3-book3-ch06|己、透析治療]].
-- (A) 8. Sodium bicarbonate 在急救過程中扮演的角色,下列何者正確? - 97(一)專 (A) 病人心臟停止起,已急救一段時間,並且已經插管,但沒有回復 醫三-75 的跡象,則可以使用該藥 - (B) 病人心臟停止起,已急救一段時間,且有酸血症(acidosis) pH 6.9 時,則一定要使用該藥 - (C) 病人心臟停止起,已急救一段時間,雖然尚未插管,但因缺氧 已久,故最好使用該藥 - (D) 病人心臟停止且心電圖顯示為 pulseless electrical activity (PEA),有明確顯示血鉀過高,才可以使用該藥 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
-- ...U/mL(normal range $0.1 \sim 2.0$ $\mu$ IU/mL)。甲狀腺 I-131 掃描顯示右側甲狀腺結節為熱結節(hot nodule)左側甲狀腺 顯影減低。最近她來追蹤,體重 53 公斤,心悸會喘,下肢水腫,心電圖顯示心房震顫,驗血發現 free T4 2.3 ng/dL,T3 220 ng/dL,TSH (細菌感染) | 嗜中性白血球 | NSAID 及適當的抗生素 | | 亞急性甲狀腺炎(病毒感染) | 變形退化的濾泡細胞、多核巨細胞, ESR 上升 | NSAID + /- Steroid | | 橋本氏甲狀腺炎(Hashimoto's thyroiditis) | 不成熟的淋巴球、何氏細胞 (Hürthle cell) | 補充甲狀腺素 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- (B) 8. 一位 60 歲女性有甲狀腺腫大病史數年,三個月前開始有心悸,甲狀 104(-)專 腺右葉有一3 cm 觸感堅實結節,心電圖顯示心房震顫、驗血發現 free T4 1.9 ng/dL (normal range 0.8~1.8 ng/dL), T3 190 ng/dL (normal range $80\sim180 \text{ ng/dL}$ ) , TSH < 0.2 $\mu$ IU/mL (normal range 0.25~4.0 μIU/mL) , 甲促素 (TSH) 受體抗體陰性反應。下一步應 該做什麼檢查來診斷甲狀腺功能異常之病因? Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- (C) 1. 一位 70 歲女性高血壓患者,心電圖顯示有心房顫動(atrial fibrillation), 因突然嚴重腹痛 3 小時被送至急診,發作前她是在看電視。病人有 噁心及嘔吐,但發作前數小時有正常排便。平常用藥有 hydrochlorothiazide、enalapril 及 digoxin。就診時血壓為 88/64 mmHg, 心跳不規則,每分鐘約120次,體溫38.5℃,腹部有壓痛,腸蠕動 音降低(hypoactive bowel sound)。電腦斷層顯示脾臟附近腸壁水 腫且有空氣,其他無特殊發現。在急診患者有少量排便,有含血反 應。血清 amylase 及 lipase 只稍微增高,下列那一診斷方向最可能? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 
 ## Clinical Caveats
 

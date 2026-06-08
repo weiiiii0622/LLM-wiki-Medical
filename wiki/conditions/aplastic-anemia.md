@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Aplastic anemia (再生不良性貧血)'
   - 'Aplastic anemia'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 3. 暫時性性再生不良性貧血(transient aplastic anemia) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 3. 兒童嚴重型再生不良性貧血的治療選項中,下列何種治療方式之 107( 二) 專 治癒率較高? 醫四-24 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 【詳解】嚴重再生不良性貧血病人,骨髓移植是治癒的唯一選擇。 Source: [[sources/med4-book1-ch08|辛、血液學]].

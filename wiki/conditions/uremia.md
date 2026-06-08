@@ -25,6 +25,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book3-ch04]]"
 aliases:
   - 'Uremia (尿毒症)'
   - 'Uremia'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...rder)最常發生在下列那種病人? (A) 帕金森氏症(Parkinson's disease) (B) 阿茲海默症(Alzheimer's disease) (C) 額顳葉失智症(frontotemporal dementia) (D) 尿毒症(uremia) 【詳解】REM sleep behavior disorder 和 Parkinson's disease(PD) 高度相關,也好發在有 PD 家族史的患者身上。 | 106(一)專醫四-67 | | (A) 18. 依據社會再適應評估表(social readjustment rating scale),下列何種生活事件所造成的壓力強度最大? (A) 配偶死亡 (B) 離婚 (C) 入獄 (D) 子女死亡 【詳解】社 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (2) 出生後,若在男性新生兒發現膀胱擴大或是微小的尿流,此時就要懷疑尿道後 瓣膜的可能性。假若在新生兒期間沒有發現,病人則會有很高的機會得到泌尿 道感染引發敗血症或是尿毒症,造成病人死亡。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (3) 血液生化檢查:用來評估腎臟損傷程度,如BUN、Cr、CBC(評估貧血程度)。 5. 治療: - (1) 初步處理:為了防止泌尿系統的惡化,先用鼻胃管(No.5 or 8 French)導尿而不是用導尿管(Foley catheter 上的 balloon 會造成膀胱痙攣)。矯正電解質、BUN、Cr,治療呼吸窘迫…等,當病人情況穩定則以手術治療。 - (2) 手術:用小兒膀胱尿道切除鏡將尿道後瓣膜切除。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 6. Hemolytic-uremic syndrome Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -84,7 +87,6 @@ tags:
 - 【詳解】(A) 尿毒症貧血主要是因為腎臟無法製造紅血球生成素。 (台748) Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...| | | | rindolotics | | Bleomycin →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecit Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...答 (B)、(C) 給分。 | | | (B) | 8. Mitomycin C 和下列何種症候群有關? | 104(一)專 | | | (A) hand-foot syndrome | 醫三-53 | | | (B) hemolytic uremic syndrome | | | | (C) hyperviscosity syndrome | | | | (D) capillary leak syndrome | | | (D) | 9. 下列何者不是 doxorubicin 的副作用? | 103(二)專 | | | (A) 骨髓抑制 | 醫三-44 | | | (B) 心臟毒性 | | | | (C) 噁心 | | | | (D) 腎毒性 | | | (C) | 10. 下列腫 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ...(Testicular pain or tenderness) - d. 肌肉無力、疼痛 - e. 神經病變 (Mononeuropathy or polyneuropathy) - f. 高血壓:舒張壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 

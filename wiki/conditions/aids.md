@@ -14,6 +14,8 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'AIDS (後天免疫缺乏症候群)'
   - 'AIDS'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book3-ch06]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- 2. 20% 燙傷病人, 30% 的 AIDS 病人, 90% 的心臟手術後 (postcardiotomy) 病人。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
+- 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (4) Immunosuppression:器官移植服用免疫抑制劑或 AIDS。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 5. KS 臨床表現,目前分為四型,包括: - (1) 典型:好發於老年、東歐男性,好發自下肢形成暗紅凸起斑塊或結節,再逐漸往上擴張,伴隨下肢淋巴水腫。 - (2) 地域型(Endemic):見於赤道非洲,好發兩個雙峰:大人(平均35歲)及小孩(平均3歲)。病灶較廣泛,也常侵犯內臟,若侵犯內臟,相當致命。 - (3) 因化學療法或器官移植而致免疫力低落者:少見,主要見於 solid-organ 移植並長期服用免疫抑制劑者,停止服用免疫抑制劑可以使症狀緩解。 - (4) 後天免疫不全症候群(AIDS) 相關型: 見於 AIDS 患者,此類 KS 幾乎只發生 在男同性戀者,主要分布在臉上,然後蔓延至驅幹。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (2) 典型 KS 對於放射治療效果較好;地域性 KS 對化療反應最好;因免疫抑制所引發 KS 者,停藥後常會自癒,也可嘗試換藥,如以 sirolimus 取代 cyclosporin 及 tacrolimus。AIDS 患者接受正統抗病毒治療即有療效,或使用干擾素及介白質治療,也可暫時改善。其他局部療法例如液態氮冷凍療法、雷射、電燒、光動力療法也都可。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

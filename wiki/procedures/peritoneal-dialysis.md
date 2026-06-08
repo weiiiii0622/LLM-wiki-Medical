@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book3-ch04]]"
 aliases:
   - 'Peritoneal dialysis (腹膜透析)'
   - 'Peritoneal dialysis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...er's disease) (C) 額顳葉失智症(frontotemporal dementia) (D) 尿毒症(uremia) 【詳解】REM sleep behavior disorder 和 Parkinson's disease(PD) 高度相關,也好發在有 PD 家族史的患者身上。 | 106(一)專醫四-67 | | (A) 18. 依據社會再適應評估表(social readjustment rating scale),下列何種生活事件所造成的壓力強度最大? (A) 配偶死亡 (B) 離婚 (C) 入獄 (D) 子女死亡 【詳解】社會再適應評估表是一種把生命中各種可能遇到的壓力量化為 0~100 分的量表;配偶死亡分數最高 100 分;離婚:73 分;入獄:6 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - ...塞及壞死。 | | | | 半乳糖血症 | 體染色體隱性遺傳疾病(第9對染色體)。病童無法將乳糖正常代謝,常在餵奶後發生嘔吐及昏睡,可造成眼、肝、腦的損害。治療:停用乳製品。 | | | | 葡萄糖 - 六 -磷酸鹽脫氫酵素缺乏症(G-6-PD缺乏症,俗稱蠶豆症) | 此種疾病乃人類最常見的一種遺傳性疾病(性聯遺傳),即紅血球內葡萄糖新陳代謝異常的疾病,每百人中約二~三人帶有此病。在特殊環境下,「如吃蠶豆、接觸萘丸(臭丸)、擦紫藥水、服用磺胺劑及解熱鎮痛劑等」,會造成紅血球破裂產生急性溶血性貧血。 | | | Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (D) 22. 下列那一項不是台灣地區 G-6-PD (Glucose-6-phosphate dehydrogenase) 缺乏症的特徵? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (B) 5. 2,000 公克早產兒在加護病房住院近兩個月,她因為雙側腎臟發育 不全而合併慢性腎衰竭,又因為肺發育不全合併肺炎一直倚賴 呼吸器治療,於3週前需開始長期腹膜透析以維持電解質及體 液等平衡。很不幸地,這兩天醫師發現嬰兒發燒、透析液轉為 混濁,並且流量大為減少,初步檢查診斷為黴菌性腹膜炎,除 了用藥外,醫師建議手術更換腹膜透析管。這時候,不滿 20 歲 的年輕父母親要求醫師:「她實在好可憐,不要救了,讓她走吧, 請幫我們移除呼吸器,讓我們回家吧!」。下列何種做法最合適? - (A) 父母生她,也是法定代理人,必須由父母移除其呼吸器 - (B) 取得父母同意書後,施予緩和醫療,可由醫護人員移除呼吸 Source: [[sources/med4-book1-ch11|子、新生兒科]].

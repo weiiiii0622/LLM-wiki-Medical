@@ -25,6 +25,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book3-ch04]]"
 aliases:
   - 'Asthma (氣喘)'
   - 'Asthma'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med4-book3-ch04]]
 
 ## Key Details From Sources
 
+- 【詳解】鬆弛訓練主要是藉由活化副交感神經,使身體放鬆達 到效果,biofeedback 可以用於:氣喘、心律不整、大小便失禁、 大發作癲癇、過動、本態性高血壓、姿態性低血壓、偏頭痛、 顳顎關節痛、雷諾氏症候群、緊張性頭痛、神經肌肉復健等。 故對於注意力不佳者沒有療效。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - 3. 異位性皮膚炎患者多具有「異位性體質」,也就是同時擁有過敏性鼻炎和氣喘,大 多有家族史。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 【詳解】Wiskott-Aldrich Syndrome 是一種性聯隱性遺傳的疾病,患者多為男性,主要臨床症狀有血小板低下且形狀變小、免疫功能異常(中耳炎、肺炎、腦膜炎)、以及濕疹(佔75%的患者,且容易對過敏原產生反應而併發氣喘等症狀)。治療以症狀治療為主,如需根本治療則需骨髓移植。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (A) 48. 一位 12 歲男童,自2歲後即經常為皮膚病困擾,全身皮膚乾癢 99(二)專 (如圖 A),四肢出現如圖 B的苔癬樣病變(lichenification), 醫四 -37 患者也有氣喘的病史,其父親則有過敏性鼻炎。該病患最可能 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -84,7 +87,6 @@ tags:
 - ...無任何病史,最近因為 咳嗽、流鼻水而到附近診所求治、醫師表示可能為細菌感染需要吃 抗生素治療,發作前半小時才吃第一次藥。依此病人的臨床表現, 下列何種疾病最有可能? - (A) 急性氣管炎 (acute bronchitis) - (B) 氣喘發作 (asthma attack) - (C) 過敏性反應 (anaphylaxis) - (D) 急性冠心症候群 (acute coronary syndrome) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - (C) 5. 一位 28 歲女性因氣喘控制不良,長期服用口服類固醇,而產生體重增加及情緒失調,若繼續下去,也可能造成股骨頭缺血性壞死(avascular necrosis)。下列有關病情告知的敘述,何者最正確? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (A) 擔心告知後,會讓病人害怕而停止服藥造成氣喘惡化,故不應 告知 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (B) 為避免類固醇副作用的產生,不論氣喘控制與否,建議病人減少用量 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med4-book3-ch07]]"
 aliases:
   - 'Tuberous sclerosis complex, TSC (結節性硬化症)'
   - 'Tuberous sclerosis complex, TSC'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 �
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med4-book3-ch07]]
 
 ## Key Details From Sources
 
+- 2. 遺傳因子: 許多研究顯示約 2~4% 自閉症患者的兄弟姐妹也是自閉症,是正常人的 50 倍。某些遺傳性疾病如 fragile X syndrome、tuberous sclerosis 也通常會合併有自閉症。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - C. 結節性硬化症 (Tuberous sclerosis) 169 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - # C. 結節性硬化症 (Tuberous sclerosis, TSC) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - 1. 為自體顯性遺傳,造成外胚層和間皮細胞的增生,導致患者皮膚、中央神經系統、心、腎等器官發生結節性硬化綜合症(tuberous sclerosis complex, TSC)。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].

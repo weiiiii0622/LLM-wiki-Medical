@@ -52,6 +52,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book3-ch06]]"
 aliases:
   - 'Pneumonia (肺炎)'
   - 'Pneumonia'
@@ -66,7 +67,7 @@ tags:
 
 ## Summary
 
-肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -118,9 +119,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med4-book3-ch06]]
 
 ## Key Details From Sources
 
+- ...|------------------------------------------------------------------------------|--|--|--|--| | Infection | HIV, sepsis, Pneumonia | | | | | | W ithdrawal | Alcohol, barbiturate, sedative-hypnotic | | | | | | Acute metabolic | Acidosis, alkalosis, electrolyte disturbance, hepatic failure, renal failure | | | | | | Trauma | Closed-head injury, heat Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - ...嚴重,甚至造成肺部發炎(pneumonitis)或腦炎(encephalitis)等併發症。(\*當肺部發生感染或是受到刺激而導致發炎稱為 Pneumonitis,而當肺部組織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. First trimester 中感染病毒有機會造成 fetal varicella syndrome: limb hypoplasia、muscular atrophy、skin scarring、cort Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹 108( ) 專子型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 【詳解】Wiskott-Aldrich Syndrome 是一種性聯隱性遺傳的疾病,患者多為男性,主要臨床症狀有血小板低下且形狀變小、免疫功能異常(中耳炎、肺炎、腦膜炎)、以及濕疹(佔75%的患者,且容易對過敏原產生反應而併發氣喘等症狀)。治療以症狀治療為主,如需根本治療則需骨髓移植。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -138,7 +141,6 @@ tags:
 - ...cid 不需要 Dihydrofolate reductase,就可以一直當作 Thymidylate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、Vitamin B12 以減少毒性。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...身旁玩耍的幼童衝撞,導致針頭插入左 95(二)專 膝關節,引發敗血性關節炎(septic arthritis)。就此案例,何種細菌 內 2-1 感染最有可能? (A) 金黃色葡萄球菌 (Staphylococcus aureus) (B) 肺炎鏈球菌 (Streptococcus pneumoniae) (C) 大腸桿菌 (E. coli) (D) Beta 溶血性鏈球菌 (β-hemolytic Streptococcus) 【詳解】(A) 金黃色葡萄球菌即是表皮菌,另外敗血性關節炎亦最 常見金黃色葡萄球菌。 (B) 29. 下列有關退化性關節炎的治療,何者是最主要的方法? 95(一)專 (A) 服用 glucosamine (B) 減輕退化關節的負擔 内 1-23 (C) Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (D) 8. 一位 85 歲女性病人兩年前中風臥床,現身上有鼻胃管及導尿管,兩 107(二)專 年中曾有三次因吸入性肺炎住進加護病房,下列有關居家訪視服務 的描述,何者最不適當? Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- (D) 若有發燒馬上送醫院,以免肺炎的惡化 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 

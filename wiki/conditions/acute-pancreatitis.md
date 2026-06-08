@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book2-ch21]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch09]]"
+  - "[[sources/med4-book3-ch05]]"
 aliases:
   - 'Acute pancreatitis (急性胰臟炎)'
   - 'Acute pancreatitis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-急性胰臟發炎常見原因為膽石與酒精，需評估嚴重度與併發症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性胰臟發炎常見原因為膽石與酒精，需評估嚴重度與併發症。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book2-ch21]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch09]]
+- [[sources/med4-book3-ch05]]
 
 ## Key Details From Sources
 
+- (B) 42. 一位長期喝酒之 40 歲男性患者因急性胰臟炎住院治療,不料第 二天開始出現顫抖、流汗、血壓增高、心跳變快、焦慮不安、煩 躁失眠、有視幻覺及被害妄想,之後並出現癲癇發作及意識混 亂,亂拔點滴,下列敘述何者正確? Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - ...eoarthropathy)有相關的疾病為? 94(二)檢 (A) 慢性活動性肝炎 (chronic active hepatitis) 內 -35 (B) 急性心肌梗塞 (acute myocardial infarction) (C) 急性胰臟炎 (acute pancreatitis) (D) 慢性間質性肺炎 (chronic interstitial pneumonitis) (A) 11. 一位 32 歲女性,主訴容易疲倦多年,即使休息過後仍然感到倦怠, 94(一)專 抱怨全身多處肌肉關節疼痛,並有噁心及食慾不振的情形,沒有失 內 2-40 眠及體重減輕,偶而會感到轉移型的肢體麻木,因為這些不適,病 人四處求醫,已經3年沒有工作。理學檢查沒有關節紅腫、亦無神 經學及其他異 Source: [[sources/med3-book4-ch09|辛、其 他]].
 - ...isphosphonates, plicamycin) | | | | Altered vitamin D metabolism (phenytoin, ketoconazole) | | | Miscellaneous causes | Acute pancreatitis | | | | Acute rhabdomyolysis | | | | Hungry bone syndrome after parathyroidectomy | | | | Osteoblastic metastases with marked stimulation of bone formation (prostate cancer) | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | (A) | (A) 急性胰臟炎(B) 維生素 D 中毒(C) 甲狀腺功能亢進 | 101(一)專醫三-45 | |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].

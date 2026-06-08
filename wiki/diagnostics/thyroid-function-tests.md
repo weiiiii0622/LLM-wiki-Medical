@@ -21,6 +21,11 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -35,7 +40,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +61,22 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch03]]
+- [[sources/med4-book3-ch04]]
+- [[sources/med4-book3-ch06]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- 其他情感疾患: - 一般醫學狀況造成的情感性疾患:如甲狀腺功能亢進之病人往往會有類似躁症(mania)發作。 - 物質誘發之情感性疾患:如酒精、安非他命在戒斷時期會出現憂鬱症狀。 - ■其他未註明之情感性疾患。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- ...型雙極性疾患(bipolar I disorder),下列何者正確? (A) 必須也有重鬱發作(major depressive episode) (B) 上述症狀不一定要造成病人的功能損失 (C) 不需考慮藥物之可能影響 (D) 必須排除甲狀腺功能亢進或低下造成的影響 【詳解】(A) 第二型雙極性疾患(bipolar II disorder) 才需要至少 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- 【詳解】甲狀腺功能異常(亢進或是低下)均有可能會造成認知功能缺損。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- ...D) 心律不整 (D) 17. 承上題,下列那一項疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized anxiety disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
+- (A) 須考慮是否有任何身體疾病,在醫療的處置上,需先評估個 案的標準生化檢查、心電圖與甲狀腺功能檢查 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
+- ...四 -72 (A) 憂鬱 (depression) (B) 焦慮 (anxiety) (C) 熱潮紅 (hot flashes) (D) 腹脹 (abdominal bloating) 【詳解】(C) 是停經症候群才會。 (A) 6. 有關甲狀腺功能低下(hypothyroidism)與精神疾病的關聯性, 108(二)專 醫四-62 下列何者錯誤? - (A) 針對甲狀腺功能低下所引發的精神症狀,應該一開始就使用 高劑量的抗精神病藥物 - (B) 甲狀腺功能低下可能引發認知障礙 - (C) 甲狀腺功能低下可能是難治型憂鬱症(treatment refractory depression)的原因之一 - (D) 甲狀腺功能低下可能引發憂鬱情緒 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- 約 10~15% 失智症是可逆性的,尤其是因為系統性疾病如腎臟病、鬱血性心臟衰竭、甲狀腺功能低下、維生素缺乏、藥物或憂鬱症導致的失智症。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
+- β-adrenergic receptor antagonist 又稱作 beta-blocker,可以抑制 adrenergic receptor 的活化,常在內科病人身上用來治療高血壓、心絞痛、心律不整與甲狀腺功能亢進。在精神科方面則常被用來治療病人的社交畏懼症、鋰鹽引起的手部顫抖、控制攻擊行為、與抗精神病藥物引起的急性靜坐不能(acute akathisia)。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - ...l* | | | | b: With ulceration or level IV/V/T2 | | T2 | 1.01~2.0 | a: Without ulceration | | | | b: With ulceration | | T3 | 2.01~4.0 | a: Without ulceration | | | | b: With ulceration | | T4 | > 4.0 | a: Without ulceration | | | | b: With ulceration | Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (2) 新生兒與嬰兒:先天性甲狀腺發育不良。先天性甲狀腺功能低下多為偶發性, 僅少數有家族史。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - a. 新生兒篩檢:在台灣檢查 TSH, 其敏感性與特異性均超過 95%。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -69,14 +87,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - (7) 重症肌無力有時會因甲狀腺功能低下而造成,特別是 Hashimoto thyroiditis。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (5) 其它免疫疾病與甲狀腺功能評估。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - ...階梯狀退化 | | | 混和型失智症 | 最常見為阿茲海默症及血管型失智症併存 | | | 營養失調 | 缺乏維他命 B 12 、葉酸等營養成分 | | | 顱內病灶 | 常壓性水腦症、腦部腫瘤或創傷 | | 其 | 新陳代謝系統異常 | 甲狀腺功能異常、體內電解質不平衡 | | 他 | 中樞神經系統感染 | 梅毒感染第三期、愛滋病病程侵犯中樞神經 | | | 中毒 | 藥物影響、酗酒 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ...生跌倒的因素可能有藥物、疾病、器官退化與外在環境。 | 104(一)專醫三-66 | | (B) 29. | 一位 33 歲男性,因肥胖來門診諮詢。為強化病人減重的動機,你會告訴他有關肥胖的併發症。肥胖會增加下列那一種疾病的風險? (A) 甲狀腺功能低下症(hypothyroidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- (A) 9. 先天性甲狀腺功能低下症的篩檢,對於其檢查工具準確性(accuracy) 的考量,下列敘述何者最正確? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- ...正確。 (#) 14. 有一位妊娠 32 週的孕婦前來接受產前檢查,醫師除了要問診本胎不 105(一)專 適症狀、過去孕產史、家庭疾病史及進行身體檢查外,還需要安排 醫三-68 實驗室檢查。下列那項檢查是此懷孕時程所必需安排的? (A) 甲狀腺功能 (B) 葡萄糖 -6- 磷酸去氫酶 (蠶豆症檢查) (C) 口服葡萄糖耐性試驗 (D) B型肝炎表面抗原檢查 【詳解】本題一律給分。 (C) 15. 有一位 9 個月大的兒童,由她的祖母帶到健兒門診,接受全民健康 104(二)專 保險兒童預防保健服務的第4次檢查,除了檢查身高、體重、頭圍 醫三-69 、營養狀態及一般檢查等身體檢查外,這兒童還需要進行那項發展 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- (2) Graves disease: 抗體刺激 TSH 接受器,造成甲狀腺機能亢進。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- (B) 4. 一位 40 歲女性病人由大腸鏡發現在升結腸有一腫瘤,而沒有其他息肉或發炎性大腸病變。病理切片發現是腺癌,分化不好(poorly differentiated adenocarcinoma),她媽媽於 48 歲死於子宮內膜癌,她爸爸目前健康良好,她 43 歲的姊姊在 2 年前診斷為早期結腸癌,追蹤至今無復發。此外,病人無其他兄弟姊妹,經過右半結腸切除,證實是 T3 N1 M0 腺癌,她擔心 2 個小孩有結腸癌的風險,想做基因檢測,此病人最有可能是那一種家族性的癌症症候群? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (B) 甲狀腺機能低下或亢進的病人可能都會伴隨憂鬱的症狀,所以 懷疑憂鬱的病人應該測量甲狀腺功能 Source: [[sources/med3-book4-ch29|己、特定議題]].
-- 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol/L。下列敘述何者錯誤? - (A) 病人的細胞外液量增加 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 【詳解】TSH 很高,代表下游的甲狀腺素分泌不足,導致上游拼命 的刺激,屬於 hypothyroidism。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 
@@ -87,6 +97,7 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 
 - [[conditions/hyperthyroidism|Hyperthyroidism (甲狀腺亢進)]]
 - [[conditions/hypothyroidism|Hypothyroidism (甲狀腺低下)]]
+- [[drugs/lithium|Lithium (鋰鹽)]]
 - [[conditions/vitiligo|Vitiligo (白斑)]]
 
 ## Follow-up

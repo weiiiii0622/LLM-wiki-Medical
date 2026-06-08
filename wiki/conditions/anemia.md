@@ -30,6 +30,9 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book3-ch07]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -44,7 +47,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +77,15 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med4-book3-ch06]]
+- [[sources/med4-book3-ch07]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...| | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypo Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
+- 3. 生產因子:生產時的後遺症可能和自閉症的引起有關,如:Maternal bleeding、respiratory distress syndrome 與 neonatal anemia。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
+- | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 由傳染性軟疣病毒(molluscum contagiosum virus, MCV)引起,屬於 Poxvirus 的一類(非 HPV)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 5. 心血管併發症:發病平均約十天時,15~20%的患者可能產生冠狀動脈瘤,危險因子包括男性、小於兩歲、貧血、白血球大於3萬、發炎指數較高、發燒超過二週、低白蛋白、心包膜積水等。冠狀動脈瘤約有八成會在一至二年內消失,特別是常見的直徑小於8mm的中小型冠狀動脈瘤。但直徑超過8mm以上的巨大冠狀動脈瘤較難完全消失,容易形成血栓,造成急性心肌梗塞或冠狀動脈瘤破裂。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -92,9 +101,6 @@ tags:
 - 3. 危險因子:某些特殊疾病的病童得到 ALL 機會比一般人高。 **Down syndrome**、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman syndrome、**Klinefelter syndrome、Turner syndrome**、 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 1. 周邊血液檢查:以貧血(88%)、血小板低下(80%)最常見。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 3. 某些物質或疾病與 AML 有關連性,如放射線暴露(ionizing radiation)、化學物質(alkylating agents、epipodophyllontoxin)、有機溶劑、陣發性夜間血紅素尿症(paroxysmal nocturnal hemoglobinuria, PNH)、Down syndrome、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman-Diamond syndrome、Neurofibromatosis type I、Li-Fraumeni syndrome、Kostmann syndrome. Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- ...蠶豆症) | 此種疾病乃人類最常見的一種遺傳性疾病(性聯遺傳),即紅血球內葡萄糖新陳代謝異常的疾病,每百人中約二~三人帶有此病。在特殊環境下,「如吃蠶豆、接觸萘丸(臭丸)、擦紫藥水、服用磺胺劑及解熱鎮痛劑等」,會造成紅血球破裂產生急性溶血性貧血。 | | | Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- D. 小球性貧血 (Microcytic anemia) 111 Source: [[sources/med3-book4-ch10|甲、貧血]].
-- E. 大球性貧血 (Macrocytic anemia) 113 Source: [[sources/med3-book4-ch10|甲、貧血]].
 
 ## Clinical Caveats
 

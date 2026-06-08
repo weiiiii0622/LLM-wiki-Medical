@@ -19,6 +19,11 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med4-book3-ch04]]"
 aliases:
   - 'Myasthenia gravis, MG (重症肌無力)'
   - 'Myasthenia gravis, MG'
@@ -33,7 +38,7 @@ tags:
 
 ## Summary
 
-神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +57,24 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch07]]
+- [[sources/med4-book3-ch05]]
+- [[sources/med4-book3-ch09]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch03]]
+- [[sources/med4-book3-ch04]]
 
 ## Key Details From Sources
 
+- 1. Methadone: Methadone 是合成的鴉片類藥物,可以用來當作海洛因的替代藥物, 通常每天口服劑量 20~80 mg 可以有效抑制戒斷症候群發生。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- (C) 19. 推測人體血液中酒精濃度至少須達到多少 mg/dL 才可能出現眼球 震顫、言語不清等症狀? Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- 20~30 mg/dL:出現運動和思考能力遲緩;30~80 mg/dL:運動和認知功能開始受影響;80~200 mg/dL:步態不穩、判斷出現問題、情緒不穩、認知退化;200~300 mg/dL:眼球震顫說話不清甚至出現失憶情形(alcoholic blackout);>300 mg/dL:生命徵象不穩定甚至可能死亡。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- 11. 眼睛視網膜色素沉澱:Thioridazine(當一天超過 800 mg,為不可逆)、chlorpromazine(可逆)。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- 1. 椎體外症候群:比傳統型抗精神病藥物少見,但是當 risperidone 每天超過 6 mg、olanzapine 每天超過 15 mg,椎體外症候群的機率就會上升。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- ...神病藥比傳統抗精神病藥較易引起代謝症候群 ( metabolic syndrome ) 【詳解】第二代抗精神病藥物有-pine 結尾的會降低 seizure threshold 而增高癲癇風險,以 clozapine 為例,當超過 600 mg/ day 則有 4% risk。 99(二)專 (D) 13. 抗精神病藥物 clozapine 之副作用中,下列何者具有致命性,因 而曾在1970年代被歐美等國禁用? 醫四 -62 (A) 心肌炎 (B) 便秘 (C) 姿勢性低血壓 (D) 顆粒性白血球缺乏症 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- ...8~1.2 mEq/L | 影響腎功能、tremor、weight gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-John Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- (D) 21. 如欲選擇 valproate 來治療急性躁症發作(acute mania),有效的 105(ニ)專血中濃度為多少 mg/mL ? 醫四-67 (A) 0.6~1.2 (B) 4~10 (C) 10~15 (D) 50~120 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, 告知恐慌症的生理病理機制, 症狀是短暫的現象, 通常不會有致命性 - (B) 行為治療: 教導胸式呼吸及漸進式 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
+- (B) 14. 一位 25 歲女性,最近二個月常常無預警地發生胸悶、心悸、頭暈、呼吸困難、快要死掉的感覺,跑了好幾次急診室,均未檢查出身體毛病,被醫師轉介去看精神科,精神科開了一星期的fluoxetine 20 mg/錠,囑咐每天早餐後服用一顆,結果雖然沒有發生噁心、頭痛的副作用,但心悸、恐慌、坐立不安的感覺更嚴重,回診時,下列何者是比較適當的處理? Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - e. 另有研究指出高劑量 Acyclovir (800 mg qid or 400 mg 5 times a day) 可縮短 病程,但仍需更多資料。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 註:接受高劑量類固醇(> 2 mg/kg 或> 20 mg/day)超過 2 weeks 者,三個月內不可接種活菌疫苗。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (d) 出疹 24 小時內可給予 Acyclovir(20 mg/kg, 800 mg maximum, qid\*5 days),可縮短病程,減緩發燒程度及出疹子的數目及時間。Valacyclovir 和 Famciclovir 也可使用。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -63,16 +83,6 @@ tags:
 - ...(包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Thrombocytopenia ( < 10 萬 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (1) 口服類固醇:治療首選,療效最快、最顯著的治療方式。通常類固醇的劑量會從 1 mg/kg/day 的 prednisolone 開始給藥(換算成 60 公斤體重成人,大約是每天 60 毫克)。以類固醇治療時,應每 5~7 天評估療效一次,以便調整劑量,若仍有新水泡繼續產生,則將藥量增加 50~100% 至無任何新水泡為止,等到二週內沒有產生任何新水泡,且 80% 水泡傷口都癒合了,就可以開始減藥。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (2) 環孢黴素(cyclosporine):為免疫抑制劑,給予低劑量(< 5 mg/kg/day)時, 約對 70% 的慢性板塊狀乾癬病人有效,主要用於其他治療無效時或乾癬性紅皮 症患者可快速達到不錯的療效,不適宜長期使用。主要副作用是高血壓、高血 脂、多毛症、牙齦增生和不可逆之腎功能損害。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- Ⅱ. 神經肌肉疾病一運動神經元傳導性疾病 227 - A. 重症肌無力 (Myasthenia gravis, MG) 227 - B. 脊髓性肌肉萎縮症 (Spinal muscular atrophies, SMA) 228 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- # A. 重症肌無力 (Myasthenia gravis, MG) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (2) 其它常見有臉部肌肉無力、吞嚥困難、發音困難、呼吸功能不全(特別是新生 兒母親為重症肌無力患者)、運動後漸進肌肉無力、肌張力低下等。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (3) 陣發性發紺發作(paroxysmal hypercyanotic attacks,「blue」or「Tet」spells):好發在兩歲左右,特別是在早晨或是大哭之後。發作時病童會出現躁動、蒼白、呼吸急促、四肢無力、心雜音消失;有些病人甚至意識喪失。當出現 paroxysmal hypercyanotic attack 時,病童用蹲踞(knee-chest position)緩解症狀。適時給予安撫或氧氣,甚至給予適量的嗎啡(皮下注射,劑量不超過 0.2 mg/kg)對病童的緩解有幫助。倘若是嚴重的發作且對上述處置效果不佳,病人動脈血液氧氣分壓(PO2)低於 40 mmHg 時會有代謝性酸中毒。此時應該迅速以 sodium bicarbonate 處理。當病人血液 pH 值恢復正常時,病人狀況可以迅速改善。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...y for 10 days. Erythromycin is altered if allergic to penicillin。 - b. Carditis: - (a) Without cardiomegaly: aspirin 80 mg/kg/day, 一天分成四次給藥直到症狀 改善或是 ESR 下降至正常。 - (b) With cardiomegaly: prednisone 1~2 mg/kg/day, 一天分成三次給藥並且持續給藥 2~4 週後,開始給予 aspirin。 - c. Arthritis: 急性風溼熱引發的痛關節炎是極疼痛且難以忍受的, 但對於 aspirin 或 NSAIDs 效果好。 - d. Chorea: 急性風溼熱晚期表現,發生在感染後 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 急性期:開始發病起經過14天之內。 - a. IVIG: 2 g/kg over 10~12 hr。使用高劑量 IVIG(≥ 1g/kg)治療時,宜間隔11 個月後再接種日本腦炎、麻疹、MMR 或水痘疫苗。。 - b. Aspirin:80~100 mg/kg/24 hr,每6小時給藥一次直到發病後14天或燒退為止。 高劑量 aspirin 使用目的是為了抗發炎反應。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (B) 6. 一位 3 個月大的女嬰因為發燒 5 天住院。尿液常規檢查發現:血 102(-)專 球 100~150/HPF,紅血球 36~50/HPF,尿蛋白 30 mg/dL, nitrite(+), 醫四-33 尿液細菌培養報告為 Escherichia coli > 100,000 colonies/mL。腎 核子醫學檢查結果如圖,接下來最適合安排何種檢查? - (A) 靜脈腎盂攝影 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 2. 臨床表現:依照 WHO classification 而有不同程度的表現 - (1) 對所有 class II 與部分 class III 病人會有血尿、正常腎功能與輕微的蛋白尿( 3.5 g/24 hr ) or a urine protein:creatinine ratio > 2。臨床上三大表現:(1) 低白蛋白血症( 200 mg/dL)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 2. 抗生素:因為 *H. influenzae* 和 *M. catarrhalis* 多有 β-lactamase 產生抗藥性,所以 Augmentin 為首選。Augmentin 劑量為 amoxicillin 含量 80~90 mg/kg/day, tid,使用 10 天。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

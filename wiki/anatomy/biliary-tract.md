@@ -29,6 +29,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book3-ch02]]"
 aliases:
   - 'Biliary tract (膽道系統)'
   - 'Biliary tract'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...rder)治療藥物之敘述,下列何者錯誤? (A) lithium 在懷孕婦女身上所造成畸胎性,最常見 Ebstein 氏三尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(man Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - VI. 肝膽疾病 79 - A. 肝功能異常 79 - B. 先天性膽道閉鎖 80 - C. 門脈高壓 81 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃炎 | 7. 外傷 | | 3. 骨盆發炎疾病 | 8. 懷孕 | | 4. 消化道潰瘍 | 9. 風濕性疾病 | | 5. 膽囊炎 | 10. 身心症 | | マ・ルラ 孝を少へ | 10. 2 . n./ir | Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 2. Alkaline phosphatase (AP) - (1) Alkaline phosphatase 在許多器官可以被發現,最常見為骨骼、肝臟、小腸以及 胎盤。其常被用來評估肝膽系統疾病或是骨骼相關疾病。 - (2) 當發生 biliary obstruction 或 cholestasis,則 alkaline phosphate 會升高。若是伴隨 direct bilirubin 上升,大大暗示著 biliary obstruction 或 cholestasis。 - (3) 在 Wilson disease 或 hypothyroidism, alkaline phosphatase level 則是會降低的。 - (4) 若是伴隨 γ-GT 的上升,暗示著 al Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -92,7 +95,6 @@ tags:
 - (B) 17. 一位 70 歲婦人因膽囊炎併發腹膜炎住院。住院時腎功能為 BUN 28 mg/dL,Creatinine 1.2 mg/dL。給予抗生素 cefazolin 1 g q8h 和 gentamicin 80 mg q12h 注射,並予全靜脈營養法。三天後體溫下降至 37℃,脈搏、血壓正常,此時體重為 45 公斤。一週後開始給予軟性食物。第十天測得 BUN 和 Creatinine 各為 40 和 3.5 mg/dL,血清電解質(mmol/L):Na 134, K 3.3, Cl 95;病人一日尿量測得為 2,000 mL,尿液分析正常。有關此病人腎臟問題的敘述,下列何者最為正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...| Drugs | gold, mercury, penicillamine, nonsteroidal anti-inflammatory agents, probenecid | | | | A | SLE, RA, primary biliary cirrhosis, dermatitis herpetiformis, | | | | Autoimmune dz. | bullous pemphigoid, myasthenia gravis, Sjögren's syndrome, Hashimoto's thyroiditis | | | | Other systemic | Fanconi's syndrome, sickle cell anemia, diabetes, Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...-------------------------|---------------|---------------------------------| | 年齡 | 50~70 歲 | | 20~40 歲 | | 來源 | 血流而來 | 膽道往上 | 由結腸經肝門靜脈血行性傳染 | | 危險因子 | 糖尿病 | 膽道阻塞 | 曾旅遊到疫區、喝生水 | | | | | 男性間性行為傳播 | | 致病菌 | K.P. | E. Coli 等混合感染 | E. histolytica (E. dispar 無致病性) | | 病灶數 | 多發性病灶 | (50%) | 典型為單一膿瘍 (80%) | | 診斷 | 超音波、C | Γ | 超音波、CT、IHA > 1:32 | | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- ...-----------------------------------| | PCN | Penicillin G | Renal | Yes (when given in high IV doses) | | | Oxacillin | Biliary | No | | | Ticarcillin | Renal | Yes | | Cefa. | Cefazolin | Renal | Yes | | | Ceftazidime | Renal | Yes | | | Ceftriaxone | Renal/biliary | Modest reduction in severe renal impairment | | | Cefepime | Renal | Yes | | G Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

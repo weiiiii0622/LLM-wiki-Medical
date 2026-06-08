@@ -35,6 +35,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Abnormal liver function tests (肝功能異常)'
   - 'Abnormal liver function tests'
@@ -49,7 +50,7 @@ tags:
 
 ## Summary
 
-肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +85,11 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- 5. 肝功能異常: Quetiapine (6%)、olanzapine (2%)、clozapine 最常見。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - a. Azathioprine:除了少數人出現噁心、嘔吐、肝功能異常、血球低下之外,副作用不嚴重,但是療效緩慢,可能要等二至三週,故用來做為類固醇的輔助治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - 2. 其名稱由來是因斑塊顏色有如煮熟的豬肝,和肝功能異常或肝臟疾病無關。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - VI. 肝膽疾病 79 - A. 肝功能異常 79 - B. 先天性膽道閉鎖 80 - C. 門脈高壓 81 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -104,7 +107,6 @@ tags:
 - (A) 7. 一位 54 歲的女性,早晨起床困難有三週之久,身體檢查發現除兩腿無力之外,右臂上舉也有困難。但是兩手的握力正常。吞嚥時偶會 嗆到。實驗室檢查發現 AST 75 U/L, ALT 14 U/L, ANA 1:80(+) speckled, CK 805 U/L (MB form 635 μg/L), IgG 1,720 mg/ml, IgA 354 mg/ml, IgM 213 mg/ml, ESR 34 mm/lh, 78 mm/2h, CRP 0.76 mg/ml。這位患者最可能的診斷是: Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (C) 8. 一位 65 歲男性主訴倦怠、無力,手腳有刺痛感。身體檢查發現臉 色蒼白,有輕微黃疸,舌頭表面平滑,味蕾萎縮;神經學檢查顯示 對振動(vibration)的感覺變差。血液檢查顯示血紅素 7.2 gm/dL, 平均紅血球體積 110 fL,網狀紅血球 1.1%,白血球 2,780/μL,分類 正常,血小板 98,000/uL;全膽紅素 (bilirubin) 2.3 mg/dL, 直接型 0.5 mg/dL, AST 52 U/L(正常 0~37), ALT 38 U/L(正常 0~41), LDH 780 IU/L (正常 140~271)。這位病人最可能的診斷為? Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...兩側多個不足一公分大小淋巴結、無肝脾腫大,下肢出現無癢紅色細小斑點;末梢血檢查結果顯示: WBC 1,280/μL, N/L/Mo = 5/94/1, Hb 7.5 gm/dL, MCV 86 fL, Platelet 8,000/μL, ALT 42 U/L, T. Bil 0.6 mg/dL, Cr 1.1 mg/dL, Alb 3.7 g/dL。下列何種檢驗最有利於正確診斷? (A) 淋巴結切片(biopsy) (B) 正子造影(positron emission tomography, PET) (C) 骨髓切片 (D) 血液培養(blood culture) | 105(一)專醫三-44 | | (C) | 11. 一位 24 歲病人被發現有血紅蛋白 H 疾病(hem Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...節痛及鮭魚色的皮疹發生,發燒通常只歷數小時而後自動退燒,這種發作有時會持續二個月之久,不發作時則與常人無異,本次住院的理學檢查發現有肝、脾腫大,抽血檢查發現 WBC 12,800/μL,ESR 42 mm/lh,CRP 2.48 mg/L,AST 42 U/L,ALT 48 U/L,ferritin 11,280 ng/mL,ANA 及類風濕因子(rheumatoid factors)均為陰性,血液及尿液的三套培養包括細菌及黴菌均無,又常見的病毒抗體均在正常範圍內,則最可能的診斷為何? - (A) Dengue fever - (B) Adult-onset Still's disease - (C) Plasmodium falciparum infestation - (D Source: [[sources/med3-book4-ch09|辛、其 他]].
 
 ## Clinical Caveats
 

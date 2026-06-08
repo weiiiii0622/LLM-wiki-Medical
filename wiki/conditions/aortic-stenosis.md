@@ -25,6 +25,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book3-ch01]]"
 aliases:
   - 'Aortic stenosis (主動脈瓣狹窄)'
   - 'Aortic stenosis'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book3-ch01]]
 
 ## Key Details From Sources
 
+- ...分裂症之敘述,何者正確? (A) Bleuler 與 Kraepelin 意見一致,認為精神分裂症患者之功能一定會持續惡化 (B) Kraepelin 為第一個取名精神分裂症(schizophrenia)之學者 (C) Bleuler 4 As 內 含 聯 想 障 礙(associational disturbances of thought) (D) Kraepelin 所謂的三種嚴重精神疾病不包括妄想症(paranoia)【詳解】(A) 只有 Kraepelin 認為思覺失調症患者功能會持續惡化,Bleuler 認為不會 (B) Kraepelin 將思覺失調症命名為 dementia precox;Bleuler 為取名 schizophrenia 的學者 (C) 4A Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】DiGeorge syndrome 常見的先天性心臟病依序為 Interrupted aortic arch、Truncus arteriosus、Tetralogy of Fallot、Atrial or ventricular septal defects、Vascular ring。Willian syndrome 在心血管先天性問題以 **supravalvular aortic stenosis**(70%)與 pulmonic valve stenosis 最常見。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - #### E. 主動脈瓣狹窄 (Aortic stenosis) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -84,7 +87,6 @@ tags:
 - Source: Fauci AS, Kasper DL, Braunwald E, Hauser SL, Longo DL, Jameson JL, Loscalzo J: Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 - ...4 and days 11 through 14 | | Consolidation MTX (200 mg/m 2 over 2 hours followed by 800 mg/m 2 over 22 hours on day 1) as | | | (courses 2,4,6,8) | high-dose cytarabine (3 g/m² over 2 hours every 12 hours for 4 doses on days 2 and 3) | | Intrathecal | Four intrathecal treatments of MTX 12 mg | | treatments alternating with cytarabine 100 m Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...togenes) | | | | infections | Sepsis (Aspergillus fumigatus) | | | 移植後 6 個月以上 | good graft fun.: same risk of infection as the general population. | | | Divided to subgroup | poorly fun. requiring large dosages of immunosuppressants: | | | | acute and chronic opportunistic infections (e.g., P. carinii, Candida) | | Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- Childring as the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the contr Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 
 ## Clinical Caveats
 

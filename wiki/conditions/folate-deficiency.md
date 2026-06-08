@@ -8,6 +8,11 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Folate deficiency (葉酸缺乏)'
   - 'Folate deficiency'
@@ -22,7 +27,7 @@ tags:
 
 ## Summary
 
-葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +35,21 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book3-ch05]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch03]]
+- [[sources/med4-book3-ch06]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- II. 酒精 (Alcohol) 109 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- III. 安非他命 (Alcohol) 112 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- #### II. 酒精 (Alcohol) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- (A) 18. 根據 DSM-IV-TR, 下列何者不是雙極性疾患(bipolar disorder)106(-)專與重鬱症常見共病(comorbid)的精神疾病?醫四-63 - (A) 身體化症 (somatoform disorder) - (B) 酒精濫用 (alcohol abuse) - (C) 恐慌症 (panic disorder) - (D) 強迫症 (obsessive-compulsive disorder) Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- (D) 酒精濫用 (alcohol abuse) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
+- ...-------------------------------------------|--|--|--|--| | Infection | HIV, sepsis, Pneumonia | | | | | | W ithdrawal | Alcohol, barbiturate, sedative-hypnotic | | | | | | Acute metabolic | Acidosis, alkalosis, electrolyte disturbance, hepatic failure, renal failure | | | | | | Trauma | Closed-head injury, heat stroke, postoperative, severe burn Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
+- 5. Alcohol 與 BZD withdrawal。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (C) 5. 為正確診斷非酒精性脂肪肝疾病(nonalcoholic fatty liver disease), 下列何項敘述,不是需做肝臟超音波檢查此病的危險因子? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】非酒精性脂肪肝疾病(nonalcoholic fatty liver disease,NAFLD)是肝臟疾病中的一種。在兒童,此疾病與**肥胖**有強烈的相關性;同時也是兒童慢性肝疾病(chronic liver disease)中最常見的疾病。NAFLD表現範圍很廣,從僅單純的 fatty liver Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - nonalcoholic steatohepatitis(NASH)(Triad: fatty infiltration, inflammation, and fibrosis)都有可能發生。屍體解剖統計 10%的兒童或是 38% 在 2~19歲的肥胖病人有 NAFLD。到目前為止,沒有一項生化檢查可以做診斷工具;即使 GOT 或是 GPT 正常,仍有 21~23% 兒童罹患 NAFLD。臨床上較可靠的影像工具為超音波。目前確切診斷的方式為肝臟切片。臨床上 Source: [[sources/med4-book1-ch02|乙、消化系統]].

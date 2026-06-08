@@ -26,18 +26,22 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/anthracyclines|Anthracyclines (蒽環類化療藥)]] - 抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。
 - [[drugs/anti-il5-antibodies|Anti-IL-5 antibodies (抗 IL-5 單株抗體)]] - nonallergic eosinophilic asthma 控制不佳時可考慮。
 - [[drugs/anti-tuberculosis-drugs|Anti-tuberculosis drugs (抗結核藥物)]] - 結核病治療核心藥物組合，需注意副作用與療程。
+- [[drugs/antidepressants|Antidepressants (抗憂鬱藥物)]] - 治療 depression、anxiety、OCD、PTSD 等；選擇需考慮副作用、交互作用、自殺風險與 bipolar screening。
 - [[drugs/antiemetics|Antiemetics (止吐藥)]] - 用於預防或治療化療、術後與其他原因的噁心嘔吐。
 - [[drugs/antifungal-agents|Antifungal agents (抗黴菌藥物)]] - 抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。
 - [[drugs/antimetabolites|Antimetabolites (抗代謝藥物)]] - 干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。
 - [[drugs/antiplatelet-drugs|Antiplatelet drugs (抗血小板藥物)]] - 抑制 platelet activation 或 aggregation，用於動脈血栓預防與治療。
+- [[drugs/antipsychotics|Antipsychotics (抗精神病藥物)]] - 主要用於 psychosis、mania 與部分行為激動；需監測 EPS、metabolic syndrome、QT prolongation、NMS 等。
 - [[drugs/antiretroviral-therapy|Antiretroviral therapy, ART (抗反轉錄病毒治療)]] - HIV 治療以多藥組合壓制病毒量、恢復 CD4 並降低 AIDS 風險。
 - [[drugs/antithyroid-drugs|Antithyroid drugs (抗甲狀腺藥物)]] - 抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。
 - [[drugs/aspirin|Aspirin (阿斯匹靈)]] - 抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。
+- [[drugs/benzodiazepines|Benzodiazepines, BZD (苯二氮平類)]] - 增強 GABA-A 作用，用於 anxiety、insomnia、alcohol withdrawal、seizure 與急性激動；需注意依賴、跌倒與呼吸抑制。
 - [[drugs/beta-blockers|Beta blockers (乙型交感神經阻斷劑)]] - 降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。
 - [[drugs/beta-lactamase-inhibitors|Beta-lactamase inhibitors (β-lactamase 抑制劑)]] - 與 beta-lactam 合併以抑制 beta-lactamase，擴大對產酶菌效果。
 - [[drugs/biologic-dmards|Biologic DMARDs (生物製劑抗風濕藥)]] - 針對 TNF、B cell、T cell costimulation、IL-6 等的免疫標靶治療。
 - [[drugs/bisphosphonates|Bisphosphonates (雙磷酸鹽類)]] - 抑制骨吸收，用於骨質疏鬆治療。
 - [[drugs/bisphosphonates-oncology|Bisphosphonates in oncology (腫瘤骨病變雙磷酸鹽治療)]] - 腫瘤骨轉移或 myeloma 骨病變可用以降低 skeletal-related events。
+- [[drugs/carbamazepine|Carbamazepine (卡馬西平)]] - 抗癲癇與 mood stabilizer，可用於 mania；需注意皮疹、SJS/TEN、hyponatremia、血球低下與 CYP 交互作用。
 - [[drugs/carbapenems|Carbapenems (碳青黴烯類)]] - 廣效 beta-lactam，常用於 ESBL/AmpC 等抗藥性 GNB。
 - [[drugs/cephalosporins|Cephalosporins (頭孢子菌素類)]] - beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。
 - [[drugs/chemotherapy|Chemotherapy (化學治療)]] - 細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。
@@ -67,11 +71,14 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/leukotriene-receptor-antagonists|Leukotriene receptor antagonists, LTRA (白三烯受體拮抗劑)]] - 氣喘替代或輔助藥物，對 aspirin-sensitive asthma 有用。
 - [[drugs/levothyroxine|Levothyroxine (左旋甲狀腺素)]] - 甲狀腺低下替代治療核心藥物。
 - [[drugs/linezolid|Linezolid (利奈唑胺)]] - 抗多重抗藥 GPC，可用於 MRSA 或 VRE，但需注意骨髓抑制與 serotonin syndrome。
+- [[drugs/lithium|Lithium (鋰鹽)]] - mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血中濃度、腎功能、甲狀腺與交互作用。
 - [[drugs/loop-diuretics|Loop diuretics (亨利氏環利尿劑)]] - 改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。
 - [[drugs/macrolides|Macrolides (巨環內酯類)]] - 50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。
 - [[drugs/metformin|Metformin (二甲雙胍)]] - 第 2 型糖尿病常用一線藥物，可降低肝糖輸出並改善胰島素阻抗。
 - [[drugs/methotrexate|Methotrexate, MTX (甲氨蝶呤)]] - 抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。
+- [[drugs/methylphenidate|Methylphenidate (哌甲酯)]] - 中樞神經刺激劑，用於 ADHD；需注意食慾、睡眠、血壓心跳與物質濫用風險。
 - [[drugs/metronidazole|Metronidazole (甲硝唑)]] - 抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。
+- [[drugs/monoamine-oxidase-inhibitors|Monoamine oxidase inhibitors, MAOIs (單胺氧化酶抑制劑)]] - 抗憂鬱藥類，需注意 tyramine diet、hypertensive crisis 與藥物交互作用。
 - [[drugs/monobactams|Monobactams (單環 β-lactam 類)]] - Aztreonam 主要抗 GNB，對 penicillin allergy 時可作替代選項之一。
 - [[drugs/nitrates|Nitrates (硝酸鹽類)]] - 擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。
 - [[drugs/nsaids|NSAIDs (非類固醇消炎藥)]] - 抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。
@@ -85,6 +92,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/proton-pump-inhibitors|Proton pump inhibitors, PPI (質子幫浦抑制劑)]] - 抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。
 - [[drugs/rifaximin|Rifaximin (利福昔明)]] - 降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。
 - [[drugs/saba|SABA (短效乙二型交感神經刺激劑)]] - 快速緩解支氣管收縮，但氣喘不宜只依賴 SABA。
+- [[drugs/selective-serotonin-reuptake-inhibitors|Selective serotonin reuptake inhibitors, SSRIs (選擇性血清素回收抑制劑)]] - 常用 antidepressant/anxiolytic 類別，需注意 GI、sexual dysfunction、serotonin syndrome 與初期焦慮。
 - [[drugs/sglt2-inhibitors|SGLT2 inhibitors (SGLT2 抑制劑)]] - 促進尿糖排泄的降糖藥，兼具心腎保護證據但需注意酮酸中毒等風險。
 - [[drugs/somatostatin-analogs|Somatostatin analogs (Somatostatin 類藥物)]] - 降低門脈血流，可用於急性靜脈曲張出血處置。
 - [[drugs/statins|Statins (史他汀類)]] - 降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。
@@ -96,7 +104,9 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/thiazolidinediones|Thiazolidinediones, TZD (Thiazolidinedione 類)]] - PPAR-gamma agonist，改善胰島素阻抗但需注意水腫、心衰竭與骨折等風險。
 - [[drugs/tnf-inhibitors|TNF inhibitors (TNF 抑制劑)]] - 抑制 TNF-alpha 發炎訊號，用於 RA、AS、IBD 等；需注意 TB/HBV reactivation。
 - [[drugs/topoisomerase-inhibitors|Topoisomerase inhibitors (拓樸異構酶抑制劑)]] - 抑制 DNA 拓樸異構酶造成 DNA 損傷，常見於 GI、肺癌與血液腫瘤治療。
+- [[drugs/tricyclic-antidepressants|Tricyclic antidepressants, TCAs (三環抗憂鬱劑)]] - 傳統抗憂鬱藥，具 anticholinergic、cardiotoxicity 與 overdose 風險。
 - [[drugs/trimethoprim-sulfamethoxazole|Trimethoprim-sulfamethoxazole, TMP-SMX (複方新諾明)]] - 葉酸代謝抑制組合，用於 PJP、UTI、Nocardia、部分 MRSA 等。
+- [[drugs/valproate|Valproate / valproic acid (丙戊酸)]] - mood stabilizer 與抗癲癇藥，用於 mania；需注意肝毒性、血小板、胰臟炎、體重與致畸胎性。
 - [[drugs/vancomycin|Vancomycin (萬古黴素)]] - glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。
 - [[drugs/vinca-alkaloids|Vinca alkaloids (長春花生物鹼)]] - 抑制微小管聚合，常見神經毒性與外滲風險。
 - [[drugs/warfarin|Warfarin (華法林)]] - 抑制 vitamin K recycling，降低 factor II、VII、IX、X，需以 INR 監測。

@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'NCEP ATP III metabolic syndrome criteria (NCEP ATP III 新陳代謝症候群準則)'
   - 'NCEP ATP III metabolic syndrome criteria'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-以腰圍、血壓、血糖、TG、HDL 判定 metabolic syndrome。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以腰圍、血壓、血糖、TG、HDL 判定 metabolic syndrome。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...) Aripiprazole 為多巴胺的部分作用劑(dopamine partial agonist) (C) Risperidone 比起 clozapine 更易引起癲癇 (D) 第二代抗精神病藥比傳統抗精神病藥較易引起代謝症候群 ( metabolic syndrome ) 【詳解】第二代抗精神病藥物有-pine 結尾的會降低 seizure threshold 而增高癲癇風險,以 clozapine 為例,當超過 600 mg/ day 則有 4% risk。 99(二)專 (D) 13. 抗精神病藥物 clozapine 之副作用中,下列何者具有致命性,因 而曾在1970年代被歐美等國禁用? 醫四 -62 (A) 心肌炎 (B) 便秘 (C) 姿勢性低血壓 (D) 顆粒性白血球缺乏症 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 2. 代謝症候群 (Metabolic syndrome): - (1) 定義標準:[ Health Promotion Administration, Taiwan, 2007; NCEP-ATP III, 2001; World Health Organization, 1999] Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - | | 臺灣 (2007) | 美國 ATP III (2001) | WHO (1999) | |------------|------------------|-------------------|------------------------------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - A. 新陳代謝症候群 (Metabolic syndrome) 222 Source: [[sources/med3-book2-ch09|丁、糖尿病]].

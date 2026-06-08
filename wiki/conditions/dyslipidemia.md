@@ -29,6 +29,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,12 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- 6. 血脂異常:Quetiapine 與 olanzapine 可能會升高血液中 cholesterol 與 triglyceride 數值 11~17%。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- (D) 3. 下列何種抗精神病藥,比較不會造成體重過重及高血糖或高血脂症? Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (D) 三酸苷油酯(triglyceride)過高 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) Hypertriglyceridemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】家族型高膽固醇血症(familial hypercholesterolemia) 其嚴重度是根據基因上的變異數量決定,即有加成效應(gene dosing effect)。故同型合子會比異型合子的表現來的嚴重。同 合子患者其低密度脂蛋白(low density lipoprotein, LDL)膽固醇 數值是正常人的 4~6 倍,通常 LDL-C 為 500~1200 mg/dL。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
@@ -91,8 +95,6 @@ tags:
 - (A) NS 的特點為重度蛋白尿,低白蛋白血症,高血脂症和水腫 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - | Pseudo | Normal plasma | 1. Hyperlipidemia | |--------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------| | hyponatr Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 對低血鈉有概念了嗎?低血鈉在臨床上相當常見,天天在抽 BUN/CR、Na/K,抽出來的低血鈉你是否會處理?謹記幾個原則,先排除假性低血鈉,看一下 chart,病人是否有高血糖、高血脂等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...清低離子間隙 (low anion gap)? (A) 鋰鹽中毒 (Lithium intoxication) (B) 腎病症候群 (Nephrotic syndrome) (C) 高血磷症 (Hyperphosphatemia) (D) 高血脂 (Hyperlipidemia) 【詳解】(C) 高血磷症 (Hyperphosphatemia) 為高離子間隙 (high anion gap)。 | 95(二)專內1-21 | |---------|--------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- b. 腹膜透析也比血液透析常合併血脂異常,建議以 HMG CoA reductase 將 LDL 控制到 100 以下。 Source: [[sources/med3-book3-ch06|己、透析治療]].
 
 ## Clinical Caveats
 

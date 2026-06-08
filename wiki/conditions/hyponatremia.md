@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book3-ch05]]"
 aliases:
   - 'Hyponatremia (低血鈉)'
   - 'Hyponatremia'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book3-ch05]]
 
 ## Key Details From Sources
 
+- ...ry depression) (D) 體溫升高 【詳解】會出現發燒。 | 108(二)專醫四-68 | | (A) | 8. 對酒精相關疾患的描述,何者錯誤? (A) 酒精戒斷時會心跳變慢 (B) 酒精戒斷時會冒汗 (C) 長期使用酒精時會低血鈉 (D) 酒精戒斷時會誘發譫妄,是高風險病症 【詳解】(A) 心跳變慢。 | 108(二)專醫四-69 | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - (D) 病童會因腎小管的鈉離子再吸收降低而出現低血鈉症 (Hyponatremia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 與 Bartter syndrome 相似之處在於 Gitelman syndrome 也會有低血鈉低血氯代謝性鹼中毒(hypokalemic hypochloremic metabolic alkalosis)。臨床上病人也會出現別內痙攣(cramp and spasm),可能因為低血鎂造成。病人也會出現多尿、夜尿甚至偶爾出現低血壓。另外,Gitelman syndrome 不常出現生長遲緩(growth failure)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (#) 3. 下列何種疾病引起的低血鈉(hyponatremia)與血液稀釋無關? 107(-)專 (A) 肝硬化(liver cirrhosis) 醫四 -21 (B) 鬱血性心臟衰竭 (congestive heart failure) (C) 抗利尿激素不適當分泌症候群 (syndrome of inappropriate antidiuretic hormone secretion) (D) 腎病症候群 (nephrotic syndrome) 【詳解】這些都有機會 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

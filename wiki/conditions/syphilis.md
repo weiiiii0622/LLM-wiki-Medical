@@ -17,6 +17,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book3-ch06]]"
 aliases:
   - 'Syphilis (梅毒)'
   - 'Syphilis'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,13 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book3-ch04]]
+- [[sources/med4-book3-ch06]]
 
 ## Key Details From Sources
 
+- ...30. | 【詳解】若出現自殺想法,要懷疑合併憂鬱症。 發生在腦部那部位的癲癇較常出現攻擊性行為? (A) 顳葉 (B) 頂葉 (C) 枕葉 (D) 基底核 | 103( 一 ) 專醫四 -70 | | (B) 31. | 下列關於神經性梅毒(neurosyphilis)之敘述,何者錯誤? (A) 在盤尼希林(penicillin)發明後,神經性梅毒較少發生,但自愛滋病出現以來,神經性梅毒再度受到醫學界之重視 (B) 神經性梅毒對腦部之影響主要是顳葉,所以會產生類似精神分裂症患者之幻聽與妄想 (C) 其腦脊髓液有淋巴球增多(lymphocytosis)及較多之蛋白質 (D) 神經性梅毒通常在感染梅毒螺旋菌 10 至 15 年後發生 【詳解】神經性梅毒對腦部之影響主要是額葉( Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- ...oma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypo Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (D) 鑑別診斷包括二期梅毒 (secondary syphilis) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 梅毒螺旋體(Treponema pallidum)入侵人體皮膚或黏膜破損處感染所致,病原體為螺旋體,一般 Gram stain 無法染上,需以暗視野顯微鏡檢(dark-field microscopy)或直接螢光抗體染色(Direct fluorescent antibody staining)觀察,主要由性交傳染,也可經由輸血感染;或婦女懷孕時罹患梅毒,經由胎盤而感染胎兒,造成先天性梅毒。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - a. 初期梅毒 (primary syphilis): - (a) 感染後平均潛伏 21 天(10~90 天)後會在接觸處出現無痛性潰瘍。起初為丘疹,旋即變為潰瘍,表面呈肉紅色糜爛,無壓痛感,觸摸感覺像是皮下藏了一顆鈕扣(button-like papule)(右上圖),故有硬性下疳(hard chancre)之稱。局部淋巴腺腫大隨著硬性下疳出現不久即發生,一樣無壓痛感。 - (b) 硬性下疳好發於男性陰莖上任何部位,女性則好發於 子宮頸和會陰,亦可能生於身體任何部位。縱使無治療,硬性下疳經4至6週後會自動癒合消失。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -67,8 +73,6 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - ...症併存 | | | 營養失調 | 缺乏維他命 B 12 、葉酸等營養成分 | | | 顱內病灶 | 常壓性水腦症、腦部腫瘤或創傷 | | 其 | 新陳代謝系統異常 | 甲狀腺功能異常、體內電解質不平衡 | | 他 | 中樞神經系統感染 | 梅毒感染第三期、愛滋病病程侵犯中樞神經 | | | 中毒 | 藥物影響、酗酒 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ## 1. 密螺旋體 (Treponema) 類,如梅毒螺旋體 (Treponema pallidum) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (2) 梅毒 (Syphilis) 分期: Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...期 | 下疳癒合後 | 手掌與腳掌的紅疹、 | 1~6 個月後 | PCN 2.4M IM st | | | 6~8 週 | 扁平濕疣 (Condyloma lata) | 自然消退 | | | 第三期 | 感染後 10~40 年 | 皮膚梅毒腫、心臟血管梅毒 | | PCN 2.4M IM qw*3 | | 神經 | 感染後T . p allidum micro h em agg lutination assay) | | | RPR (Rapid plasma regain) | FTA-ABS (Fluorescent treponemal antibody absorption | | 用途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、治 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...---------------|------------------|---------|----| | 1. Natural Penicillin(PCN) | Penicillin G, Benzathine PCN | A 型鏈球菌、梅毒螺旋體 | x | 腎 | | 2. Penicillinase-resistant-PCN | Methicillin, Nafcillin, Oxacillin,Cloxacillin*, Dicloxacillin* | 金黃色葡萄球菌 | х | 肝 | | 3. Amino-PCN+β lactamase inhibitor | Ampicillin, Amoxicillin* → Augmentin, Unasyn | 肺炎 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

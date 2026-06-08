@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch09]]"
 aliases:
   - 'Drug hypersensitivity (藥物過敏)'
   - 'Drug hypersensitivity'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-藥物引發免疫或類免疫不良反應，需分辨立即型與延遲型嚴重皮膚反應。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+藥物引發免疫或類免疫不良反應，需分辨立即型與延遲型嚴重皮膚反應。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,16 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...hyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramate | | Fatigue、cognitive dulling、不易 bod Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- ...y atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic episode)在 DSM-IV-TR 的診斷準則(criteria)之敘述,下列何者錯誤? (A) 膨脹的自尊心或自大狂 (B) 睡眠需求減少 (C) 持續時間必須至少 3 天 (D) 比平時多話或不能克制地說個不停 | 104( 一 ) 専醫四 −62 | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- (C) 緩慢增加 lamotrigine 劑量較不會引起史蒂芬-強生症候群 (Stevens-Johnson Syndrome) 等副作用 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- (C) 9. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(-)專 症候群(Stevens-Johnson syndrome)」? 醫四-74 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - B. 史帝芬強生症候群 (Stevens-Johnson syndrome, SJS) 與毒性表皮壞死溶解症 (Toxic epidermal necrolysis, TEN) Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 2. 目前亞洲種族被發現某些 HLA-B 基因型與特定藥物所引起的 SJS/TEN 相關: HLA-B\*1502 (carbamazepine) 和 HLA-B\*5801 (allopurinol)。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 3. SJS: 水疱或破皮面積只佔全身體表面積(body surface area, BSA) 30%; 介於 10~30% 之間的則稱為 SJS-TEN overlap。 Source: [[sources/med4-book2-ch06|己、藥物疹]].

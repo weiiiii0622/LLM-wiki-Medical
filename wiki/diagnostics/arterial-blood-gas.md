@@ -28,6 +28,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book3-ch03]]"
 aliases:
   - 'Arterial blood gas, ABG (動脈血氣)'
   - 'Arterial blood gas, ABG'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book3-ch03]]
 
 ## Key Details From Sources
 
+- (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, 告知恐慌症的生理病 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - ...驗 | VDRL (Venereal disease research laboratory) RPR (Rapid plasma regain) | TPHA (T. pallidum hemagglutination assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (A) 11.6 週大男嬰,從1週前吐奶的情況,突然越吐越厲害,最近幾乎每一餐喝完奶半小時內很快就吐光,吐出的內容物為沒有黃綠色,體重也沒有增加反而減少,住院後若抽血檢驗動脈血氣體分析(arterial blood gas analysis),最有可能會呈現下列那種結果? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...| | 3. 有些病人與腫瘤抑制基因 PTCH1 缺失有關 | | | 4. 在 Gorlin syndrome 病人較常發現 | | Myxoma | 1. 在成人最常見,兒童反而不多見 | | | 2. 發生位置主要在心房內 (intra-atrial) | | | 3. 有些病人有家族史,與PRKAR1A 基因 | | | 突變有關 | Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -90,7 +93,6 @@ tags:
 - b. PaCO2 ↓ +HCO3 ↓ ,表示合併呼吸鹼、代謝酸。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 2. 第一型 HLA class I: HLA-A, B, C, 出現在所有的有核細胞。 Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 - 4. 臨床上組織符合抗原以 HLA-A, B, DR 最為重要, 六個都相符為最適合的配對。 Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- ...管梅毒 | | PCN 2.4M IM qw*3 | | 神經 | 感染後T . p allidum micro h em agg lutination assay) | | | RPR (Rapid plasma regain) | FTA-ABS (Fluorescent treponemal antibody absorption | | 用途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、治療後仍呈陽性 | | 偽陽性 | 正常人約1~2%偽陽性,特別是懷孕期間、 | 其他感染或發炎如 SLE | | | 急性發燒疾病(心內膜炎等)、自體免疫 | and the second second | | | 疾病 (SLE)、IV drug use Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

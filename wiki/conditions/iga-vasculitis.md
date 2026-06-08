@@ -26,6 +26,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book3-ch03]]"
 aliases:
   - 'IgA vasculitis / Henoch-Schonlein purpura (IgA 血管炎)'
   - 'IgA vasculitis / Henoch-Schonlein purpura'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,14 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med4-book3-ch05]]
+- [[sources/med4-book3-ch03]]
 
 ## Key Details From Sources
 
+- (D) 17. 一位 36 歲男性患者被送至急診室就醫,當時血壓 182/126 mmHg、 107(-)專心跳每分鐘 112 次、發燒、流鼻涕、腹痛、瞳孔放大、全身肌肉 醫四-72 抽痛。此患者最可能之臨床診斷為何? - (A) 海洛因中毒 (heroin intoxication) - (B) K 他命中毒 (ketamine intoxication) - (C) 安非他命戒斷 (amphetamine withdrawal) - (D) 海洛因戒斷 (heroin withdrawal) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- (D) 41. 一位 42 歲男性患者被送至急診室就醫,當時血壓 180/130 mmHg, 101( 二 ) 專 心跳每分鐘 110 下,發燒、頻頻打哈欠,並抱怨有腹瀉、腹痛、 流鼻涕、流眼淚、全身肌肉抽痛、骨骼疼痛、瞳孔放大。此患者 最可能之臨床診斷為何? Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- (C) 5. 某送貨員個性緊張容易合併腹痛現象,一年前於高架道路塞車時, 106( ) 專 因腹痛及有腹瀉感近乎大便失禁的經驗此後個案不敢再開車上高 醫四 -68 架道路與高速公路而失去工作,隨後甚至不敢搭火車、公車、到 人多或郊外無廁所的地方,而影響生活甚鉅。此個案最可能符合 下列那個診斷? - (A) 適應障礙症 (adjustment disorder) - (B) 創傷後壓力症(posttraumatic stress disorder) - (C) 懼曠症 (agoraphobia) - (D) 泛焦慮症 (generalized anxiety disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - # F. 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 1. 類過敏性紫斑為一種以侵犯微血管及微血管後小靜脈的過敏性血管炎,由於它並非由第一型過敏反應 IgE 所產生,故稱為類過敏性紫斑。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 3. 其臨床診斷三徵(Triad)主要為皮膚紫斑(多發於下肢和臀部)、腹痛及暫時性關節炎。約25~50%的病童會有腎臟侵犯,但其中只有3~4%的病童會有腎功能衰竭產生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -84,9 +91,6 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - 3. Henoch-Schonlein purpura 過敏性紫斑(又稱 anaphylactoid purpura): - (1) 是兒童血管炎中最常見的一種,通常 2~8 歲發病,而一半以上的病人在 5 歲前 出現,男性:女性= 2:1,是一種全身性的血管炎,有 IgA 在血管或組織內沉 積(尤其皮膚及腎絲球中)。 - (2) Clinical criteria (ACR criteria for classification of Henoch-S Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (D) 5.8 歲的小明,主述2天以來有肚子痛及左踝關節疼痛腫脹,身體 檢查時發現下肢有許多紫斑(purpura),下列敘述何者錯誤? - (A) 25~50% 的此類病人會影響腎臟 - (B) 血液中之血小板數目正常 - (C) 若有嚴重腸胃症狀如出血或阻塞,可使用類固醇治療 - (D) 急性期有尿液檢查異常者,建議尿液檢查追蹤 2 個月即可 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】病人症狀較有可能是 Henoch-Schonlein purpura, 若有 腎臟病變可用類固醇或免疫抑制藥物治療。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- III. 血小板疾病 355 - A. 血小板低下症 355 - B. 免疫性血小板缺乏紫斑症(ITP) 355 - C. 溶血性尿毒症候群和血栓性血小板減少紫斑症 355 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- ...性貧血(macroangiopathic hemol-ytic | 1. Pentad: HUS triad + fever + | | 表現 | anemia )、急性腎衰竭、血小板減少。 | CNS change • | | | 2. 腹痛腹瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | h Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (D) 5. 一位 3 歲的男童於一週前發燒、腹瀉,曾在診所接受藥物治療。本日求診時身體診查發現男童有脫水、四肢水腫、肝脾腫大、身上有紫斑,而且男童顯得煩躁不安。實驗室檢查發現血中白血數為 22,000/mm³(中性球 55%,淋巴球 38%,單核球 7%);球血紅素(hemoglobin)值為 8.8 g/dL;血小板數為 55,000/mm³,同時在血液抹片中可以見到毛刺細胞(burr cells)及破碎的紅血球(fragmented RBC),下列何者為最有可能之診斷? - (A) 急性淋巴性白血病(acute lymphoblastic leukemia) - ( Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

@@ -49,6 +49,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book3-ch01]]"
 aliases:
   - 'Liver (肝臟)'
   - 'Liver'
@@ -63,7 +64,7 @@ tags:
 
 ## Summary
 
-肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +113,11 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book3-ch01]]
 
 ## Key Details From Sources
 
+- 【 詳解 】(A) 思覺失調症的患者自我(ego) 功能不好,不 建議做精神分析,(B) 多巴胺受器拮抗劑(dopamine receptor antagonist),(C) 尼古丁會活化肝臟代謝藥物的酵素(cyp450), 會導致藥物濃度降低。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - b. 內服療法: 適用於頭癬及甲癬,或局部療法效果不佳、病灶廣泛之慢性皮癬患者。 - (a) Terbinafine (療黴舒):屬殺黴菌藥物,治療皮黴菌約需 2~4 週,手指甲 癬需 6 週,而腳趾甲癬約需 12 週。治癒率為 80~90%,但對汗斑及念珠 菌感染無效。 - (b) Itraconazole (適譜諾):由於對肝臟損害少,有取代老藥 Ketoconazole 之趨勢,屬於抑黴菌藥物而非殺黴藥物。但因屬 imidazole 類之廣效製劑,故對汗斑及念珠菌感染亦具療效。 - (c) Griseofulvin(灰黃黴素):只對皮癬菌有效,為傳統口服抗黴菌藥物,只具有抑菌效果,主用於頭癬和灰指甲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 3. 臨床症狀: - (1) 皮膚起紅疹,伴隨癢感或疼痛感。經常從手腳開始發病,並且擴散到腹部、胸部以及上半背的部分。 - (2) 腸胃道症狀:腹瀉、失去胃口、噁心、嘔吐甚至會導致腸胃道出血的情況。 - (3) 高膽紅素、高量的鹼性磷酸鹽,甚至也會造成肝臟衰竭。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 2. 其名稱由來是因斑塊顏色有如煮熟的豬肝,和肝功能異常或肝臟疾病無關。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
@@ -132,7 +135,6 @@ tags:
 - 【詳解】圖片可見 petechiae ( 12 deficiency - (D) liver cirrhosis with hypersplenism Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...降低的疾病。則此時需 | | | | | (A) 輸注血小板濃縮液 | | | | | (C) 類固醇治療 | | | | | 【詳解】ITP第一線以類固 | 醇治療為主。 | | | (D) | 24. 下列何種凝(溶)血因子 | 下是由肝臟所製造? | 94(二)檢 | | | (A) factor VII | (B) factor II | 內 -47 | | | (C) protein C | (D) Von Willebrand's factor | | | | 【詳解】凝(溶)血因factor不是由肝臟所製造。 | 子中只有 Factor VIII 及 Von Willebrand's | | | (D) | 最不可能? | l實驗室檢查 aPTT 時間延長,則下 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...oglobulin (Tg) | 甲狀腺癌 | | | | Calretinin, mesothelium | 間皮癌 (Mesothelioma) | | | Hara C | CDX2 | 大腸直腸癌、十二指腸 | | | 横膈下 | Hepatocyte paraffin 1 (HepPar-1) | 肝癌 | | | | Prostate specific antigen (PSA) | 35万(II白)(古 | | | 骨盆腔 | Prostate acid phosphatase (PAP) | 前列腺癌 | | | | URO-III, thrombomodulin | 膀胱癌 (Bladder cancer) | | | | S100, HMB-45 | 黑色素癌 | | | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...CA-15-3-乳癌 | 101(一)專醫三-71 | | (B) | 14. 下列疾病中胎兒蛋白(α-fetoprotein, AFP)最不可能升高的疾病是: (A) 肝細胞癌(Hepatocellular carcinoma) (B) 肝臟腺瘤(Hepatic adenoma) (C) 睪丸畸胎上皮癌(Teratocarcinoma) (D) 重度病毒性肝炎(Severe viral hepatitis) | 100(二)專醫三-45 | | (C) | 15. 一位 55 歲身體狀況一向良好的女性因左腳腫脹 1 週就醫。理學檢查發現左下肢腫脹,溫度比右邊稍高且靜脈明顯,但無紅疹或壓痛。此外,左鎖骨上窩處淋巴腺腫大,稍硬且固著。驗血時那一項為陽性的可能性最高?(A) Al Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 

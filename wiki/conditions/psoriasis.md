@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med4-book3-ch02]]"
 aliases:
   - 'Psoriasis (乾癬)'
   - 'Psoriasis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-慢性免疫介導角質增生疾病，典型為紅色斑塊與銀白色鱗屑，可有關節炎與多型態表現。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性免疫介導角質增生疾病，典型為紅色斑塊與銀白色鱗屑，可有關節炎與多型態表現。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med4-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...-----------------------------------|--| | Lithium | 0.8~1.2 mEq/L | 影響腎功能、tremor、weight gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 3. 遺傳性: 當雙親其中一個有乾癬,小孩罹患乾癬的機率為8%,雙親都有乾癬時,罹患機率則為41%。其中基因型以HLA-Cw6確定最相關,其他如HLA-B13、B17、Bw57也有相關。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - (1) 外傷:即 Koebner phenomenon,抓搔皮膚會促進乾癬的增生,30~50%的病患有此現象。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - (2) 感染:感染被認為能誘發乾癬的發生,急性滴狀乾癬通常出現在急性鏈球菌感 染後一至兩週。HIV 也與乾癬的發生相關。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].

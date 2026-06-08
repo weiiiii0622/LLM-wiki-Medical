@@ -17,6 +17,8 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book3-ch03]]"
 aliases:
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis (下視丘-腦垂體-腎上腺軸)'
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,13 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med4-book3-ch02]]
+- [[sources/med4-book3-ch03]]
 
 ## Key Details From Sources
 
+- Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- (C) 1. 有關急性壓力疾患(acute stress disorder)及創傷後壓力症候群 109(一)專 (posttraumatic stress disorder) 之敘述,下列何者錯誤? - 醫四-65 - (A) 急性壓力疾患之症狀若超過一個月以上則需考慮診斷可能為 創傷後壓力症候群 - (B) 創傷後壓力症候群治療合併藥物治療及心理治療是有助益的 - (C) 急性壓力疾患之症狀中不會出現解離症狀 - (D) 創傷後壓力症候群的病因包含 hypothalamic-pituitary-adrenal (HPA) axis 之功能失調 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (A)無法對 corticotropin stimulation test 有正常的反應,血液中 ACTH 濃度高 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】依題目所提之臨床症狀,推測是腫瘤轉移到兩側腎 上腺破壞腎上腺功能,造成 Addison's disease (primary adrenal insufficiency),病患會有厭食、噁心嘔吐、姿態性低血壓、高 血鉀、皮膚皺褶和黏膜處出現色素沉澱等症狀。因為是 primary adrenal insufficiency,腎上腺組織已經被腫瘤轉移破壞殆盡,所以 ACTH 會增加以刺激皮質醇分泌但徒勞無功,且做 corticotropin stimulation test 不會有反應。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】於 Primary Addison's disease 中由於 glucocorticoid 分泌 不足,使得 pituitary gland 回饋作用分泌 ACTH 增加,為了分泌 ACTH 會先產生前驅物 POMC(pro-opiomelanocortin),POMC 再分解成 ACTH 和 $\gamma$ -MSH(melanocyte-stimulating horone),且 ACTH 又會再分解出 $\alpha$ -MSH,MSH 則會促進黑色素的生產和釋放,故皮膚會廣泛性黑色素沉澱。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
@@ -67,8 +73,6 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol/L。下列敘述何者錯誤? - (A) 病人的細胞外 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...為 369 mOsmol/kg H2O, 因此屬於 low osmolality 的 hyponatremia - (B) 病人無 edema, 為 euvolemic status, 因此病因不會是心臟衰竭 或肝腎病變 - (C) 病人 cortisol 23.3 mg/dL, ACTH 13.9 pg/mL, 因此病因不是 cortisol deficiency - (D) 病人 hsTSH 66.7 mIU/mL, 因此病因為 hyperthyroidism Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...ic state) | | | | | (C) 庫欣氏症 (Cushing's syndrome) | | | | | (D) 低血鉀週期性無力症(hypokalemic periodic paralysis) | | | | | 【詳解】Cortisol 有部分的 mineralocorticoid activity,庫欣氏症造成 | | | | | cortisol 上升,藉由增加 mineralocorticoid activity 造成低血鉀。 | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 1. 定義: Cushing's syndrome 指過多的皮質類固醇(cortisol)造成的症候群,而 Cushing's disease 則專指因腦垂體分泌過多 ACTH,進而刺激腎上腺分泌過多皮質類固醇(cortisol)造成之疾病。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- 2. 病因:(排除掉醫源性 Cushing's syndrome) - (1) Cushing's disease (70%):因為腦垂體腫瘤 (Adenoma) 或增生 (Hyperplasia)。 - (2) Adrenal tumor (20%): 腎上腺腫瘤 (6 cm: Carcinoma)。 - (3) Ectopic ACTH (10%): 肺小細胞癌; 胸腺、胰臟、卵巢的類癌 (Carcinoid tumor)、甲狀腺髓質癌 (Medullary carcinoma of thyroid)、Pheochromocytoma 等。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 
 ## Clinical Caveats
 

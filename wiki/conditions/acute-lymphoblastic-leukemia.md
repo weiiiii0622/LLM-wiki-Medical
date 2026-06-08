@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book3-ch01]]"
+  - "[[sources/med4-book3-ch07]]"
 aliases:
   - 'Acute lymphoblastic leukemia, ALL (急性淋巴性白血病)'
   - 'Acute lymphoblastic leukemia, ALL'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,13 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book3-ch01]]
+- [[sources/med4-book3-ch07]]
 
 ## Key Details From Sources
 
+- (8) 其他意念、情感或衝動被控制的感覺 (all other experiences involving volition, made affects, and made impulses) Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
+- ...多次 | | | | (D) 疾病發生需在 15 歲之前 | | | | 【詳解】18 歲之前。 | | | (B) | 5. 下列有關「妥瑞氏症候群」(Tourette's syndrome)之敘述,何者 | 101(二)專 | | | ALL III O | | Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - ...skin, subcutaneous, | Normal | | | | | | or nodal metastases | | | | | | M1b | Lung metastases | Normal | | | | | M1c | All other visceral metastases | Normal | | | | | | Any distant metastasis | Elevated | | | | Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 1. 急性淋巴性白血病(ALL) 370 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - # I. 急性淋巴性白血病 (Acute Lymphoblastic Leukemia, ALL) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -63,7 +69,6 @@ tags:
 - rom, compe ist, maris es, marier su, marier su, marier se, marienas al, Loscata II; riscon Frincipies el futernal Medicine, l'ith Báltine, were accessoratione, com prophi si The McGrae-Hill Companies, Inc. All rights manyest. Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - (2) 加速期 (Accelerated phase): 骨髓 Blast = 10~19%, 周邊血液 basophil > 20%、血小板減少 ( 20%; 1/3 演變成 ALL, 2/3 演變成 AML。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - (A) 2. 標靶治療藥物 rituximab 合併化學治療已被證明可明顯延長下列何種 107( ) 專 病人的存活期 ? - (A) diffuse large B cell lymphoma - (B) peripheral T cell lymphoma - (C) multiple myeloma - (D) acute lymphoblastic leukemia Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- 2. 流行病學:通常是 high grade lymphoma (如 Burkitt's lymphoma),或 Leukemia (ALL), 較少見於 solid tumor。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 
