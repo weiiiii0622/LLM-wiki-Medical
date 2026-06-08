@@ -5,6 +5,8 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Lynch syndrome / HNPCC (林奇症候群／遺傳性非息肉性大腸癌)'
   - 'Lynch syndrome / HNPCC'
@@ -19,14 +21,18 @@ tags:
 
 ## Summary
 
-mismatch repair gene 缺陷造成右側大腸癌與子宮內膜癌等風險上升，息肉數通常不多。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mismatch repair gene 缺陷造成右側大腸癌與子宮內膜癌等風險上升，息肉數通常不多。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (3) 危險因子 - a. 絨毛狀腺瘤 (villous adenoma) - b. 息肉症候群 (polyposis syndromes) - c. Crohn's disease - d. hereditary nonpolyposis colorectal cancer (HNPCC) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (2) Hereditary nonpolyposis colon cancer (HNPCC) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...y or IPAA • - (b) Total abdominal colectomy with ileal-rectal anastomosis • - (2) Hereditary nonpolyposis colon cancer (HNPCC): - a. 體聯顯性遺傳(AD),defective mismatch repair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total abdominal Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 4. 高危險群: - (1) Ulcerative colitis > 10 年。 - (2) Crohn's disease with stricture • - (3) FAP 或 HNPCC 的家族史。 - (4) 癌症(或息肉)病史或家族史。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (2) 有以下 risk factor 的則 40 歲甚至更早開始定期篩檢: - a. 之前有得過大腸直腸癌或是息肉。 - b. 本身有得過 ulcerative colitis 或 Crohn's disease。 - c. 一等親或二等親有大腸直腸癌病史。 - d. 有 FAP 或 HNPCC 的家族史。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

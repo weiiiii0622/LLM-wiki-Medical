@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch22]]"
 aliases:
   - 'Hypothyroidism (甲狀腺低下)'
   - 'Hypothyroidism'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch22]]
 
 ## Key Details From Sources
 
+- 【詳解】青春期前的孩童出現的乳房腫塊通常為乳房早熟的乳 芽發育,為一良性的表徵。若單側乳房早熟通常追蹤即可,若 是雙側乳房早熟必須考慮甲狀腺低下或性早熟的情形。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - 1. 生化檢驗數據: TSH 和 Free T4 最準。 - (1) TSH: 0.3~5 mIU/L, 在腦下垂體功能正常的情況下: - a. TSH ↑代表 hypothyroidism。 - b. TSH ↓ 代表 hyperthyroidism。 - (2) Total $T_4$ : $3\sim12 \mu g/dL \circ$ - (3) $T_3$ : 80~200 ng/dL • - (4) RT3U (Resin T3 uptake):正常值 20~40%,檢測 resin 跟 T3 結合的量得知 TBG 上沒有與甲狀腺素結合的空位 (thyroid hormone-binding sites)。因為 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (3) 手術: 較後線選擇 - a. Bilateral subtotal thyroidectomy(切除大部分甲狀線,僅於兩側各留下 1~2 g 的組織)或是 total thyroidectomy。 - b. Bilateral subtotal thyroidectomy 會有約 10% 的復發機率, total thyroidectomy 則會導致 hypothyroidism, 須終身服用甲狀腺素。另外手術需注意傷及喉返神經。 - c. Indication: 小孩、孕婦、口服藥物無反應或是無法接受 RAI 者。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...-------|---------| | | (A) $T_3 \downarrow$ | 醫五 -20 | | 1 | (B) 膽固醇(cholesterol)↓ | | | | (C) TSH ↑ | | | ı | (D) 黏液水腫(myxedema) | | | (C) 31. | 甲狀腺乳突癌或濾泡癌在接受全甲狀腺切除術後,可利用下列 | 100(一)專 | | | 何項來偵測復發或轉移? | 醫五 -21 | | | (A) CEA | | | 1 | (B) 抑鈣素 (calcitonin) | | | | (C) 甲狀腺球蛋白(thyroglobulin) | | | | (D) TSH-receptor Ab | | | | 【詳解】甲狀腺乳突癌和濾泡癌皆來自濾泡上皮細 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -74,7 +77,6 @@ tags:
 - (2) 囟門:應在嬰兒安靜平躺時檢查。前囟門通常在10~14個月關閉,後 囟門則在兩個月大以前關閉,也可能在出生時已經關閉。囟門太早關閉 (craniosynostosis)會導致腦部發育不良,須手術治療。前囟門正常約2±1公 分大,但大小變異很大。囟門太大可能為甲狀腺低下,骨骼問題(如成骨不全 症),hypophosphata-sia,水腦等。囟門太小則可能為甲狀腺亢進,小頭症,或 craniosynostosis。囟門突出可能表示腦壓上升,腦膜炎,或水腦,囟門凹陷則 常因脫水造成。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...in) 沈積在下列何處? 醫四 -3 (B) 基底核 (A) 腦膜 (D) 腦室旁 (C) 小腦 (B) 7. 下列何者不是造成延遲性黃疸之原因? 104(二)專 (A) 膽道阻塞 醫四-7 (B) 配方奶哺育 (C) 泌尿道感染 (D) 甲狀腺低下症 (B) 8. 一位足月男嬰出生時很順利,但是第三天大時開始出現黃疸,下 104( - )專 列那一項最不可能是此嬰兒的黃疸原因? 醫四 -8 (A) 生理性黃疸 (B) Rh 血型不合 (C) 哺育母乳黃疸 (D) 泌尿道感染 【詳解】第三天開始出現黃疸為生理性黃疸,因此(A)(C)直接 不選。(B)(D) 雖然是病理性黃疸,但是 RH 血型不合產生溶血 引起的病理性黃疸在出生後第一二天就會出現,不會在出生第 三天表現。泌尿道感染造 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 【詳解】由題目敘述可知道病人有發紺型先天性心臟病。右手血壓明顯高於其他三肢,表示主動脈在左右手分枝之間出現異常,有可能是斷裂造成(interrupted aortic arch with PDA),亦即type B IAA。Type B IAA 很常合併 CATCH22 syndrome。這類病人常有臉部發展異常、胸腺發育不良或是有副甲狀腺低下造成低血鈣。故選(D)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...sis,則 alkaline phosphate 會升高。若是伴隨 direct bilirubin 上升,大大暗示著 biliary obstruction 或 cholestasis。 - (3) 在 Wilson disease 或 hypothyroidism, alkaline phosphatase level 則是會降低的。 - (4) 若是伴隨 γ-GT 的上升,暗示著 alkaline phosphatase 來自於肝膽系統。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

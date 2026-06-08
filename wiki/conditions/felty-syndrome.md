@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Felty syndrome (Felty 氏症候群)'
   - 'Felty syndrome'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合�
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- 【詳解】題幹描述並不精準。這個 data 最合理的推測就是 B 肝 導致 Liver cirrhosis 合併 HCC, 因為 portal hypertension 後 splenomegaly 引起 thrombocytopenia。這種 condition 可能也不適合手術了。但撇除掉這些,如果真的要開刀,那當然 (B)(C)(D) 都很重要必須考慮。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - ...ion assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (3) 伴隨淋巴結和內臟的侵犯:lymphadenopathy、hepatosplenomegaly Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - ...s, deafness and thrombocytopenia. | | | CMV | Microcephaly with periventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between Source: [[sources/med4-book1-ch11|子、新生兒科]].

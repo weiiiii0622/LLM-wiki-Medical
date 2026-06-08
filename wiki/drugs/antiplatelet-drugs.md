@@ -22,6 +22,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book3-ch02]]"
 aliases:
   - 'Antiplatelet drugs (抗血小板藥物)'
   - 'Antiplatelet drugs'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-抑制 platelet activation 或 aggregation，用於動脈血栓預防與治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 platelet activation 或 aggregation，用於動脈血栓預防與治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,13 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch27]]
+- [[sources/med5-book3-ch02]]
 
 ## Key Details From Sources
 
+- 2. 藥物引發:長期 NSAID、Aspirin、Plavix 或合併 steroid 使用容易造成消化性潰瘍。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 1. 根據 Modified Johnson classification,針對位置與其潰瘍產生的機轉作分類。 - (1) 第一型:潰瘍位於胃小彎處,與胃酸分泌量無關。 - (2) 第二型:出現兩個潰瘍,一個位於 胃部,另一個位於十二指腸。與較 高的胃酸分泌量相關。 - (3) 第三型:位於幽門前方的潰瘍,可 能會出現多個潰瘍。與較高胃酸分 泌量相關。 - (4) 第四型:潰瘍靠近胃與食道交界處。 通常與胃酸的分泌量無關,可能與 黏膜防衛機制缺陷相關。 - (5) 第五型:潰瘍可能位於任何位置, 與服用藥物如 NSAID 或 aspirin 相關。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (4) 好發於年紀較大、合併多種系統性疾病的病人,並且使用一些容易造成 ulcer 的 藥物如 NSAID 或 aspirin 所導致。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (C) 19. 此病人不管是否有接受手術,為了要預防再度中風,應接受何種 100(ニ)専 藥物治療?醫五-35 - (A) 抗血小板劑 - (B) 降血脂藥物 - (C) 抗凝血劑 - (D) 血栓溶解劑 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (D) 10. 下列有關 microvascular surgery 時使用 anticoagulant 運用的敘述, 106( ) 專 何者錯誤? 醫五-21 - (A) low dose aspirin 的 anti-platelet 效果不錯 - (B) heparin 可全身性或局部使用 - (C) fibrinolytic agent 於 microanastomosis thrombosis 時有幫忙 - (D) 使用 anticoagulant 可使 free flap transfer 之成功率大量提高 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -76,9 +81,6 @@ tags:
 - ...- (a) 食物:海鮮、高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dyes, benzoates, salicylates)、核桃、巧克力、菇、筍。 - (b) 藥物: 抗生素(Penicillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...its IV daily for 10 days. Erythromycin is altered if allergic to penicillin。 - b. Carditis: - (a) Without cardiomegaly: aspirin 80 mg/kg/day, 一天分成四次給藥直到症狀 改善或是 ESR 下降至正常。 - (b) With cardiomegaly: prednisone 1~2 mg/kg/day, 一天分成三次給藥並且持續給藥 2~4 週後,開始給予 aspirin。 - c. Arthritis: 急性風溼熱引發的痛關節炎是極疼痛且難以忍受的, 但對於 aspirin 或 NSAIDs 效果好。 - d. Chorea: 急性風溼熱晚期表現, Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 急性期:開始發病起經過14天之內。 - a. IVIG: 2 g/kg over 10~12 hr。使用高劑量 IVIG(≥ 1g/kg)治療時,宜間隔11 個月後再接種日本腦炎、麻疹、MMR 或水痘疫苗。。 - b. Aspirin:80~100 mg/kg/24 hr,每6小時給藥一次直到發病後14天或燒退為止。 高劑量 aspirin 使用目的是為了抗發炎反應。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (2) 恢復期: 此時 Aspirin 改為低劑量給藥: 3~5 mg/kg, 一天一次直到開始發病後 6~8 週。低劑量 aspirin 使用目的是為了抗血小板用。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 2. 退燒的藥物,以 acetaminophen 及 NSAID 為主,18 歲以下兒童不可使用 aspirin(可能導致雷氏症候群)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (5) 治療: - a. 在成人或免疫不全的病人身上,建議使用 acyclovir 治療,一般健康兒童感染 水痘則不須常規給 acyclovir。 - b. 不建議使用 aspirin 治療,容易產生 Reye syndrome。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

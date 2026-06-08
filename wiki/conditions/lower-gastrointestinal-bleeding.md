@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch17]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Lower gastrointestinal bleeding (下消化道出血)'
   - 'Lower gastrointestinal bleeding'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,12 @@ tags:
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch17]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- (D) 1.65 歲男性看門診,主訴三天前大便有血絲,醫師做肛診檢查未發 109(-)專現有血跡,下列有關醫師的說法何者最適當? 醫五-75 - (A) 下消化道出血比上消化道出血具有生命危險性 - (B) 年紀大不是上消化道出血的危險因子 - (C) 大多數急性消化道出血不會自動停止流血 - (D)下消化道出血可能來自空腸 (jejunum) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (D) 6. 下列何種症 狀或檢查和中腸扭結 (midgut volvulus) 無關? 102(-) 専(A) 血便 - (B) 貧血 - (C) 腹脹 - (D) 腹部 X 光攝影 (plain abdomen) 可用來確定診斷 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - #### 戊、後天性血管異常及下消化道出血 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - 後天性血管異常和下消化道出血在老年人很常見,大部分的下消化道出血會自己停止,但仍約有 10~25% 的案例須進行手術。下消化道出血的常見原因如下: Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - (2) 常見症狀為嚴重腹痛、嘔吐、腹瀉、瀝青便、血便。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
@@ -77,8 +81,6 @@ tags:
 - 【詳解】本題對醫師而言可說是常識題,但也是需要臨床經驗才可判斷。3個月大孩子解血便,是否有感染的可能性在臨床上要優先考量。如果排除感染,接下來考慮是否有對食物的耐受性不佳或是其它自身腸胃道的疾病。臨床上要檢驗過敏原,理想的年紀應在3歲左右(太早驗的話臨床上會有很高機會誤判)。至於潰瘍性大腸炎,以這個年紀而言應該不是優先考量,大腸鏡檢查不會是第一優先選擇。選項中較好選項為(A)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 典型的症狀,為腹痛、腹部腫塊與血便 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...chonlein purpura): 4 項當中須符合≥ 2項。 - a. Palpable purpura:皮膚上有微凸的紫斑。 - b. 發病年齡≤ 20 歲。 - c. Bowel angina:瀰漫性的腹痛,通常吃東西後加重,可能有血便或腸缺血。 - d. 病理切片發現小血管壁有 granulocytes。 - (3) 臨床症狀:四大典型症狀包括皮膚紫斑(通常維持 3~10 天,病人沒有合併血小板低下及凝血病變),關節痛(特別是下肢關節),腹痛(與黏膜下出血及水腫有關),及腎臟病變(血尿,蛋白尿,急性腎衰竭…,大部分在發病後四週內出現)。此外,身體其它部位如陰囊、眼睛或是呼吸道有可能被侵犯。 - (4) 治療:大多會自行痊癒,以症狀治療為主。有腸胃或中樞神經症狀可用類 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...acroangiopathic hemol-ytic | 1. Pentad: HUS triad + fever + | | 表現 | anemia )、急性腎衰竭、血小板減少。 | CNS change • | | | 2. 腹痛腹瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | helmet Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (A) 便秘 (B) 腹脹 (C) 嘔吐 (D) 血便 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

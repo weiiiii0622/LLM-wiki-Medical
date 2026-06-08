@@ -36,6 +36,11 @@ sources:
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Cardiac catheterization (心導管檢查)'
   - 'Cardiac catheterization'
@@ -50,7 +55,7 @@ tags:
 
 ## Summary
 
-評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +91,19 @@ tags:
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch16]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (A) 10.75 歲的張三,昨天午睡起來突然腹痛難耐而被送醫。急診處醫師 98(二)專 發現他心律不整,有心雜音,腹部壓痛。先進行電腦斷層(CT) 醫五-74 掃描。並為病情處置需要,馬上安排腹部血管攝影。影像如附圖。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (C) 15. 55 歲林先生,近數月來感覺疲倦、食慾減退,右上腹部也感到 有些脹痛。血液檢查胎兒蛋白(alpha-fetoprotein)值正常、HBsAg 陽性(HBsAg+),肝臟 Dynamic CT 影像如圖(一),手術前再 度做血管攝影檢查如圖(二)。林先生最可能患了什麼病? 102(一)專 醫五-73 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (C) 安排血管攝影檢查以及血管栓塞處置 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- (D) 影像診斷工具有內視鏡、電腦斷層、血管攝影等 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
+- ...週,尿液變深、灰白便、身體發癢、皮 107(一)專 膚逐漸變黃,因此到院檢查。身體診察發現鞏膜變黃,下肢無水 醫五-32 腫,其CT影像上可見胰臟頭部有4公分左右腫瘤合併總膽管及 胰管擴大,針對此病患安排下列處置何者最不適當? (A) 安排血管攝影栓塞 (B) 測定 CEA, CA19-9 (C) 進行 ERCP (endoscopic retrograde cholangiopancreatography) 或 EUS (endoscopic ultrasonography) 合併切片 (D) 進行核磁共振膽胰攝影 (MRCP) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 3.68 歲男性因心肌梗塞來急診,呈現休克狀態並經插管緊急處置, 聽診時發現有一第四度收縮期雜音(Grade 4/6 systolic murmur), 目伴隨有肺水腫(pulmonary edema),經心導管攝影為左前降枝 (LAD) 90% 狹窄, 迴旋枝 (LCX) 有 85% 狹窄, 下列處置何 者錯誤? Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (D) 8. 一位 56 歲男性病人因胸悶住院。他有糖尿病、高血壓、與抽菸 史。冠狀動脈血管攝影檢查顯示左冠狀動脈主幹 85% 狹窄、左 前降支 80% 狹窄、左回旋支 77% 狹窄、右冠狀動脈 90% 狹窄。 下列敘述何者正確? ①依冠狀動脈血管攝影檢查前家屬之決 定,立即裝置塗藥支架(drug-eluting stent) ②冠狀動脈血管攝 影檢查時,經與家屬商量後,立即裝置裸金支架(bared-metal stent) ③裝置支架前,不須請心臟外科醫師向病人及其家屬解 釋冠狀動脈繞道手術之優缺點 ④裝置支架時,手術室須準備 好,以便可立即進行緊急手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - ...0. 陳先生 62 歲,除患有糖尿病多年外,身體一向健康。某日午餐後返辦公室,突然感到胸痛不適。同事將陳先生送入醫院急診室,初步判斷為急性冠狀症候群(acute coronary syndrome)。住院一星期後病情穩定,各器官功能正常。經心導管檢查,發現冠狀動脈阻塞情況如下:左冠狀動脈主幹(leftmain coronary artery) 80% 狹窄、左冠狀動脈左前降支近心端 76% 狹窄與中段70% 狹窄、左迴旋支中段65% 狹窄、右冠狀動脈中段83% 狹窄與遠心端90% 狹窄。經心臟內外科團隊討論後,建議陳先生接受下列何種後續治療的一年存活率最好? - (A) 經皮穿徑冠狀動脈血管整形術 (percutaneous transluminal coronary angi Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
@@ -102,11 +117,6 @@ tags:
 - 【詳解】圖中由上方可見一片訊號較強的地方,沿著腦溝分布 呈現五芒星狀為 SAH,該部位為 basal cistern,為動脈瘤破裂所 致。住院做血管攝影確認病灶來源。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (B) 10. 一位 56 歲女性病患,大腦血管攝影發現有一顆後交通動脈瘤 (posterior communicating artery aneurysm),該動脈瘤接觸到大 腦顳葉(temporal lobe),這位病患最有可能的症狀是那一種? Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (C) 在大腦血管攝影前後像可看到動脈瘤在頸內動脈內側突出 (projection of the aneurysm medial to the internal carotid artery on the AP angiogram) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- (3) 血管攝影:血管攝影可以確定有無 AVM,且能區分流入及流出之血管。 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
-- (B) 7. 一位 32 歲女性,突然左側無力,CT 顯示 A 圖,再加做血管攝影 99( - ) 專 如 B 圖,則最可能的診斷是: 醫五 -73 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
-- 【詳解】AVM 在血管攝影可見一團混亂的血管,電腦斷層出血 常為 ICH;aneurysm 在血管攝影為一血管小突起,電腦斷層出 血常為 SAH。 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
-- (C) 18.5 歲男孩,並無發燒或高血壓病史,突然發生右側肢體無力,經腦部電腦斷層檢查,發現左側前腦動脈供應區呈現缺血性梗塞,核磁共振動脈攝影(MRA)及腦血管攝影顯示兩側前腦動脈及中腦動脈供應區出現不正常毛玻璃樣血管叢。下列四項診斷中,那一項最符合? Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- (B) 19. 承上題,以下之敘述,何者最可能是該小孩之腦血管攝影所發現 到的結果? Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 
 ## Clinical Caveats
 

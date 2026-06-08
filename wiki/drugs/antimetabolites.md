@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Antimetabolites (抗代謝藥物)'
   - 'Antimetabolites'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- (A) 22. 陳女士 50 歲為一乳癌患者經手術行 modified radical mastectomy 後,其 staging 為 T2N1M0,術後建議給予 6 次 5-FU, Adriamycin 及 cyclophosphamide。此種化學藥物治療屬於下列那一種? Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (3) Adjuvant chemotherapy: 5-FU 和 leucovorin (Levamisole) 可增加 Dukes B 和 C 的 survival rate 及降低復發率。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 【詳解】(C) FOLFOX 分別為 FOL—Folinic acid(leucovorin)、F—Fluorouracil(5-FU)、OX—Oxaliplatin(Eloxatin),作為 adjuvant chemotherapy 可改善 Duke C(stage III)患者存活率。(D) EGFR 會促進細胞增生或轉移,當使用 anti-EGFR 時可阻斷癌細胞增生和轉移,但是 RAS mutation(KRAS mutation)可以直接促進癌細胞增生轉移,因此對於 anti-EGFR 的治療效果就比較差。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].

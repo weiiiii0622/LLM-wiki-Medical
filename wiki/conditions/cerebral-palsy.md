@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Cerebral palsy, CP (腦性麻痺)'
   - 'Cerebral palsy, CP'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- 2. 而乳房外科大概是外科數一數二好準備的科目,每年大約五題甚至更多,CP 值頗高!! 若沒有時間,一定要看幾個關鍵 topic: - (1) 長胸神經 (Long thoracic nerve): 重要的解剖構造!! - (2) 影像檢查:要理解乳房超音波與乳房攝影的選擇以及什麼是 BI-RADS。 - (3) 良性腫瘤:乳突狀瘤(Papilloma)。 - (4) 惡性腫瘤:免疫組織生化學檢查的意義與手術的方式。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...-----------------------------------------------------------------------------------|----------------------| | (C) 15. 下列腦性麻痺 (cerebral palsy) 類型中,發生脊柱側彎 (scoliosis) 機率最低者為: (A) 四肢麻痺 (quadriplegia) (B) 半身麻痺 (hemiplegia) (C) 雙下肢麻痺 (diplegia) (D) 兩下肢加一上肢麻痺 (triplegia) | 106(一)專醫五-61 | | (B) 16. 有關脊椎滑脫症(spondylolisthesis)引起疼痛、滑脫惡化及身體變形的危險因子,下列何者除 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (B) CP angle aneurysm Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...ous | Vascular parkinsoni | sm | | | acquired | Normal pressure hy | drocephalus | | | conditions | Catatonia | | | | | Cerebral palsy | | | Secondary Pa | arkinsonism | | | | Trauma | Repeated head traun | na ("Dementia pugilis | tica" with parkinsonian features) | | Infectious | Postencephalitic PD | | | | | Neurosyphilis | | | | Metabolic | Hypopara Source: [[sources/med4-book4-ch06|己、大腦疾病]].

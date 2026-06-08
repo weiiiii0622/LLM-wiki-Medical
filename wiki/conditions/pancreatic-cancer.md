@@ -18,6 +18,10 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Pancreatic cancer (胰臟癌)'
   - 'Pancreatic cancer'
@@ -32,7 +36,7 @@ tags:
 
 ## Summary
 
-胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +54,21 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch16]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 2. 流行病學: - (1) 在台灣,每十萬人口中約有五人罹患胰臟癌。十大癌症死因中排名第十。 - (2) 多發生於 60 歲之後的病人。 - (3) 男性發生率高於女性,約為2:1。 - (4) 胰臟癌發生於不同部位會有不同症狀,手術介入也會有不同的選擇。 - a. 胰頭:60~70%。 - b. 胰體:25%。 - c. 胰尾:10%。 - d. 多發性: 5~10%。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 8. 胰臟癌 (Pancreatic cancer)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 1. 腹部超音波:可以提供良好的診斷,可觀察是否有肝內膽管擴張(膽管> 7 mm 定義為擴張),肝外膽管及膽囊是否扁塌等狀況。但較難與壺腹癌、胰臟癌等疾病區分,須進一步以其他影像學檢查診斷。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
+- 1. 胰臟真是個難纏的傢伙! 連一代大師 Steve Jobs 最後也敗在這傢伙手上。除了胰臟疾病不好治療難以搞定之外,連胰臟外科的考題也很難搞定。回顧這十年的考題,胰臟外科聚焦在急性、慢性胰臟炎與胰臟癌上,但是考題的重覆性非常之不高,題數也不多(一年約一到兩題),沒有辦法看出外科醫師想要考大家的重點何在。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
+- 2. 即將上考場的學弟妹們,如果時間不夠,那就把急性胰臟炎好發原因、臨床症狀、Ranson criteria 以及治療方式稍為再複習一下。胰臟癌的部分,也再搞懂一下 Periampullary tumor 與 Whipple procedure 開掉哪些東西。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
+- 4. 轉移癌 - (1) 轉移癌的發生率較原發性小腸癌高出許多。 - (2) 常見轉移至小腸的癌症包括:子宮頸癌、卵巢癌、腎臟癌、胃癌、大腸癌、胰臟癌等腹內器官。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - ...epair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total abdominal hysterectomy 和 bilateral salpingo-oophorectomy。 - (c) Subtotal colectomy • Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 2. 病因: - (1) 醫源性(iatrogenic): 最常見的原因,長期服用含類固醇的止痛藥所致,造成體內 glucocorticoid 過量。 - (2) Cushing disease: 佔非醫源性病患 65~70%。腦下垂體前葉腺瘤或是增生,過度分泌 ACTH,造成雙側腎上腺增生,分泌過量 cortisol。 - (3) 腎上腺腫瘤:佔非醫源性病患 10~20%。Adrenal adenoma 或 carcinoma,不受 ACTH 控制,分泌大量 cortisol。ACTH 反而因受到回饋抑制而濃度降低,腫瘤 周圍的正常腎上腺皮質也會萎縮。 - (4) 異位性(ectopic) ACTH:身體其他部位有會分泌 ACTH 的來源,例如小細胞 肺癌、類癌、胰臟癌、胸腺癌、甲狀腺髓質癌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 【詳解】CA199 為胰臟癌的 tumor marker。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
@@ -63,14 +79,6 @@ tags:
 - | (C) | 1. 有關「血清 CA19-9 值」於胰臟癌(pancreatic ductal adenocarcinoma)診療上的敘述,何者正確? (A)「血清 CA19-9 值的升高」是診斷胰臟癌的必要條件 (B)「血清 CA19-9 值的升高」建議使用於胰臟癌的篩檢(screening) (C)「手術前血清中 CA19-9 值」與病患胰臟癌的期別(stage)具相關性 (D)「手術後血清中 CA19-9 值」與病患的預後無關 | 108(一)專醫三-35 | |-----|------ Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...d foot syn.) | | | S | Antimetabolite | | Cytarabine (Ara-C) → AML (I3A7) | 小腦運動失調、角膜炎 | | | | | | Gemcitabine (Gemzar)→胰臟癌,肺癌 | 似感冒症狀 (Flu-like symptoms) | | | | | | Hydroxyurea →慢性骨髓增生病變 (CMPD) | | | | | | Purine | 6-Mercaptopurine(6MP) → ALL(Maintance) | 與 xanthine oxidase* 併用須減量 | | | | | 1 dime | Fludarabine → CLL, Follicular lymphoma | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...juctivitis)、小腦性共濟 失調(Cerebellar ataxia),所以注射 High dose Ara-C 的病患會每兩個小時點類固 醇眼藥水、經常詢問走路是否正常。 - (2) Gemcitabine (Gemzar®) →胰臟癌,肺癌 - a. 為胞嘧啶延伸物(cytosine derivatives),也會轉成 CTP 類似物,抑制 DNA 複製。 與 Cytarabine 不同的是,Gemcitabine 還能治療固體腫瘤,且較少骨髓抑制外的 副作用。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ...,經過輸液 治療而導致肺水腫,醫師建議進行氣管插管併用呼吸器治療,以緩 解其肺水腫。此時是否應同意陳老先生接受插管? - (A) 反對,因為陳老先生已經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反對,因為陳老先生為胰臟癌末期,不要再進行過於侵入性的 治療,免得增加其痛苦 - (C) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但本次住院的原因為泌尿道感染合併敗血症,並非不可 治癒的疾病,醫師應該為其插管治療 - (D) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但只要屬於病危的患者,均應該依醫師法定急救義務而 加以急救 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (B) 12.72 歲的王教授罹患胰臟癌末期,他瘦弱、嚴重黃疸,無法進食,更無法成眠,每天受劇烈腹痛與全身酸痛所折磨,他簽了 DNR,等著解脫,這一週來,王教授更多次哀求您,讓他早點離開人間,下列何種處置適當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...「腫瘤相關性血糖過低症」(tumorassociated hypoglycemia)? (A) 肝癌(hepatoma) (B) 纖維肉瘤(fibrosarcoma) (C) 血管外皮細胞瘤(hemangiopericytoma) (D) 胰臟癌(adenocarcinoma of pancreas) 【詳解】血糖過低和(1) Mesenchymal tumor (包括 HCC、hemangiopericytoma)、(2) Sarcoma 有關,至於(D) 胰臟癌屬於表皮來源的 carcinoma,所以不會。 | 94(二)檢內-49 | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- (D) 11. 以免疫組織化學染色法檢查發現某一轉移性癌症之細胞為 Cytokeratin 95( 二 ) 專 20 陰性,Cytokeratin 7 陽性 ( CK 20 / CK 7 ),則這癌症可能是源自於: 內 1-27 - (A) 大腸癌 - (B) 胰臟癌 - (C) 膀胱移型上皮癌 - (D) 肺癌 Source: [[sources/med3-book4-ch23|己、其 他]].
-- (B) 9. 下列有關吸煙之敘述,何者錯誤? - (A) 吸煙者相較於未吸煙者,罹患胰臟癌與膀胱癌之風險較高 Source: [[sources/med3-book4-ch25|乙、行為科學]].
-- (A) 1. 關於胰臟癌的敘述,下列何者正確? Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
-- (A) 抽菸是胰臟癌的重要危險因子,約有 20~25%的胰臟癌與抽菸 有關 醫三-21 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
-- (B) 大約有 80% 以上的胰臟癌有遺傳傾向,如 germline mutations: STK11 gene、BRCA2、p16/CDKN2A、PALB2 等 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 
 ## Clinical Caveats
 
@@ -79,7 +87,12 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/distal-pancreatectomy|Distal pancreatectomy (遠端胰臟切除術)]]
+- [[conditions/intraductal-papillary-mucinous-neoplasm|Intraductal papillary mucinous neoplasm, IPMN (胰管內乳突黏液性腫瘤)]]
+- [[diagnostics/mrcp|Magnetic resonance cholangiopancreatography, MRCP (磁振膽胰管攝影)]]
+- [[conditions/mucinous-cystic-neoplasm-pancreas|Mucinous cystic neoplasm of pancreas, MCN (胰臟黏液性囊性腫瘤)]]
+- [[procedures/pancreaticoduodenectomy|Pancreaticoduodenectomy / Whipple procedure (胰十二指腸切除術)]]
+- [[conditions/periampullary-cancer|Periampullary cancer (壺腹周圍癌)]]
 
 ## Follow-up
 

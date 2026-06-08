@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch18]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Esophageal varices (食道靜脈曲張)'
   - 'Esophageal varices'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-門脈高壓造成食道靜脈曲張，可發生大量上消化道出血。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+門脈高壓造成食道靜脈曲張，可發生大量上消化道出血。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book2-ch07]]
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch18]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (B) 遠端脾腎靜脈分流術可能會加重腹水之嚴重度,故不適合用 於治療食道靜脈曲張合併腹水之病患 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (D) 肝硬化合併食道靜脈曲張出血之病患在接受遠端脾腎靜脈分 流術後,不適合再接受肝移植手術 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - #### 2. 食道靜脈曲張 (esophageal varices): Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (D) 21. 一位 65 歲男性病人發生急性食道靜脈曲張出血(variceal bleeding),下列何種治療不考慮?98(ニ)専署ニ-56 - (A) 藥物 somatostatin or octreotide 治療 - (B) 內視鏡結紮術 - (C) 內視鏡硬化劑注射 - (D) 食道橫截切除術 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - ...化併發肝腎症何者錯誤?何者錯誤?(A) 病人尿中的鈉含量極高(B) 病人尿液滲透壓較血漿滲透(C) 腎臟本身並無明顯的病理(D) 與導致腎血管收縮的許多問 | 變化 | 94(一)專內 2-13 | | (D) 28 | . 預防肝硬化病人食道靜脈曲張療藥物為: (A) 抗副交感神經藥物 (B) 鈣離子通道阻斷劑 (C) α 交感神經阻斷劑 (D) β 交感神經阻斷劑 | (esophageal varices) 再出血的最佳治 | 94(一)檢內-56 | | (B) 29 | . 下列神經系統檢查,何者對於有診斷價值:(A) 腦脊髓液檢查(B) 腦波檢查(C) 電腦斷層檢查(D) 磁振造影檢查 | 开腦病變(hepatic encephalopathy)最 | 94(一)檢內-7 Source: [[sources/med3-book2-ch23|戊、肝硬化]].

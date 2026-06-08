@@ -15,6 +15,10 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch16]]"
 aliases:
   - 'Upper gastrointestinal bleeding (上消化道出血)'
   - 'Upper gastrointestinal bleeding'
@@ -29,7 +33,7 @@ tags:
 
 ## Summary
 
-上消化道出血常見來源包含潰瘍、靜脈曲張、Mallory-Weiss tear 等。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+上消化道出血常見來源包含潰瘍、靜脈曲張、Mallory-Weiss tear 等。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +48,19 @@ tags:
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book2-ch11]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch16]]
 
 ## Key Details From Sources
 
+- 2. 臨床症狀:腹痛、吐血、瀝青便、黑便、糞便潛血反應。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (A) 5. 李先生因為解黑便三天,且清晨開始有吐血的情形而被送至急診 處。需要及早照會外科手術治療的適應症,下列何者錯誤? Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 【詳解】罹患馬魏氏症候群(Mallory-Weiss syndrome)的病患 在出血前,會出現持續性的嘔吐,導致腹內壓上升,導致胃和 食道交接處的粘膜產生撕裂傷,造成上消化道出血。80%的病 人會自動的止血,可經由上消化道內視鏡進行診斷或採取止血 治療。少部分較嚴重的患者須接受血管栓塞或手術處置。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- ...histamine 由 Enterochromaffin-like Cell(ECL cell) | ,並 | | | | | 非 D cell。 | | | | (D) | 7. | . 一位 43 歲男性業務員因工作壓力太大,這幾天都解黑便,何 | 他的 102(一) | 專 | | | | 黑便部分原因是因何種物質把血紅素(hemoglobin)分解成D | 血色 醫五-7 | 5 | | | | 素 (hematin)? | | | | | | (A) 小腸液 (B) 胰腋 (C) 膽汁 (D) 胃酸 | | | | (D) | 8. | . 胃腺(gastric gland)中之 ECL(enterochromaffin-like)細胞分 | 泌: 101(二) | Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- (D) 1.65 歲男性看門診,主訴三天前大便有血絲,醫師做肛診檢查未發 109(-)專現有血跡,下列有關醫師的說法何者最適當? 醫五-75 - (A) 下消化道出血比上消化道出血具有生命危險性 - (B) 年紀大不是上消化道出血的危險因子 - (C) 大多數急性消化道出血不會自動停止流血 - (D)下消化道出血可能來自空腸 (jejunum) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (C) 臨床症狀有典型三項:上腹痛、上消化道出血、黃疸 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - 2. 處置:(依照下消化道出血處理原則) - (1) Resuscitation:等張性晶體溶液 ±pRBC。 - (2) 診斷出血位置: - a. NG tube:排除上消化道出血。 - b. Anoscopy/ Proctoscopy:排除 anorectal bleeding。 - c. Nuclear scan: Tc-99m \ tagged RBC \circ - d. Mesenteric angiography (血管攝影)。 - e. Colonoscopy • - f. Laparotomy (剖腹探查)。 - (3) 手術: - a. Urgent segmental resection:持續出血且輸血量已超過 6 U pRBC/24hrs 時緊急 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - (D) 10. 一位 10 歲男童主訴皮膚癢,黃疸,且 2 小時前發生吐血。他在嬰 104(二)專 兒時因膽道閉鎖而做了 Kasai operation,身體診察顯示其肝脾腫 大,且腹部上有顯著之側枝循環。糞便呈黑色,潛血反應呈強陽 性。下列何者最可能造成吐血的原因? - (A) 胃潰瘍 - (B) 流鼻血 - (C) 十二指腸潰瘍 - (D) 食道靜脈瘤破裂 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】先天性膽道閉鎖的孩子雖然經過 Kasai operation,但多 半會有門脈高壓進而和成人相似有食道靜脈瘤產生。最終食道 靜脈瘤破裂造成吐血及上消化道出血表現。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -59,10 +73,6 @@ tags:
 - 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - ...部分切除術後 20 年 (D) 惡性貧血 【詳解】部分研究認為 A 型血型較 O 型血型容易得胃癌; O 型血 型較 A 型血型容易得胃潰瘍,但仍有爭議。 [記憶] cAncer, U(O)lcer (B) 16. 一位 55 歲男性主訴解黑便 3 天,內視鏡檢查發現為十二指腸潰瘍, 102(一)專 除了制酸藥劑 Omeprazole 外,有醫師建議給予口服 Clarithromycin 醫三-24 250 mg 及 Amoxicillin 1,000 mg 每天兩次。服用幾天是最佳選擇? (A) 3 天 (B) 14 天 (C) 30天 (D) 90 天 (B) 17. 一位 50 歲男性主訴體重減輕,實驗室檢查發現血清白蛋白降低,而 100(二)專 上內視鏡檢查發現胃體部 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...) 使用此藥腸溶包膜(enteric coating)劑有效防止潰瘍發生 【詳解】腸溶包膜(enteric coating)不能完全防止潰瘍發生,因為減低的胃的吸收(local effect),但全身吸收是不影響的,所以有實驗結果是不能降低上消化道出血的機率。 | 96(一)專醫三-3 | | (B) 23. 幽門桿菌感染不會增加下列何項疾病發生之危險率? (A) 消化性潰瘍 (peptic ulcer) (B) 賁門部胃癌 (cancer of gastric cardia) (C) 遠端胃癌 (adenocarcinoma of distal stomach) (D) 胃黏膜相關淋巴組織淋巴癌 (lymphoma arising from mucosa-associated ly Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- (D) 15. 一位 86 歲男性因 1 小時前突發性腹痛入急診。病人有消化性潰瘍病史,規則於門診用藥治療。理學檢查發現腸音稍慢,瀰漫性壓痛(diffuse tenderness)與反彈痛(rebound tenderness),肛門檢查有些微黑便(tarry stool)。假如你想排除消化性潰瘍穿孔(perforated peptic ulcer)的可能性,除了站立性胸部 X 光(upright CXR)以外,下列何者為最適合且快速的檢查? Source: [[sources/med3-book2-ch03|乙、腹痛]].
-- ...-------------------------------------------------|----------------------| | | (A) 通常沒有症狀(B) 腹水(C) 黃疸 | 醫三 -28 | | | (D) 吐血 | | | (C) | 10. 一位 35 歲男子從常規的醫療檢查被診斷出患有 B 型肝炎,肝功能正常,血清甲型胎兒蛋白(α-fetoprotein, AFP)在正常範圍內。對這病人的建議,下列何者錯誤? (A) 每 6 個月門診追蹤 (B) 每 6 個月血清甲型胎兒蛋白(α-fetoprotein, AFP)檢查 (C) 每 6 個月腹部電腦斷層掃描 (D) 每 6 個月肝功能檢查 | 105(二)專醫三-39 | | (B) | Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (B) 18. 一位 40 歲男性肝硬化病人因吐血而由急診住院。住院後食道胃十二 98(二)專 指腸內視鏡檢查發現食道病變如附圖。該病變經內視鏡治療後病人 醫三-18 吐血症狀消失。下列何者為此病人之最佳臨床診斷? Source: [[sources/med3-book2-ch23|戊、肝硬化]].
-- (B) 13. 曾先生有 35 年喝酒病史,過去三年內有兩次急性胰臟炎發作,最近 三星期,因持續解黑便,胃十二指腸動脈攝影如圖 A 和 B,最合理 的診斷為 anterior superior pancreaticoduodenal artery 的: Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 
 ## Clinical Caveats
 

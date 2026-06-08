@@ -9,6 +9,11 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Malnutrition (營養不良)'
   - 'Malnutrition'
@@ -23,7 +28,7 @@ tags:
 
 ## Summary
 
-能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +37,19 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book2-ch02]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch08]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch12]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- 2. 營養不良 (Malnutrition): - (1) 約有30%的病患在術後會有營養不良的情況。 - (2) 會導致鐵、葉酸、Vit. B12、鈣以及 Vit. D 的吸收不良,進而導致貧血、神經病變、 失智症等症狀出現,必須要適時的補充這些營養元素。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 【詳解】內科外科都會考,未來在內外科用到的機會也非常多。 由 Encephalopathy(1), Ascites(1), Bilirubin(2), Albumin(1), PTINR(1)所組成。此病人算起來 6 分。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- (A) serum albumin level Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (1) 衰老紅血球進入脾臟,分解後得到 bilirubin,與 albumin 結合後藉由血流會被送到肝臟,此時為非水溶性,稱為未結合型膽色素(unconjugated bilirubin)。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
+- 2. 慢性胰臟炎常見原因: - (1) 酒精(>70%)。 - (2) 胰管阻塞: 先天或後天性胰管狹窄、腫瘤阻塞。 - (3) 遺傳性。 - (4) 高血鈣症。 - (5) 蛋白質缺乏性的營養不良。 - (6) 囊性纖維化 (cystic fibrosis)。 - (7) 外傷導致胰臟受損。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 2. 外在 / 全身因素: 年紀、營養不足 (營養不良 / 肥胖、缺乏維他命 A 或 C、鋅、 鐵或銅 )、抽菸、類固醇的使用、抗癌藥物、糖尿病、尿毒症或 Collagen vascular disease。 - (1) 維他命 A 和 epithelialization 相關,可逆轉類固醇所造成的延緩傷口癒合的作用。 - (2) 維他命 C 與鋅和 collagen 合成相關。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - ...| 102(一)專 | | | | (A) 大多數的肺栓塞(pulmonary embolism)是起源於深層靜脈 | 醫五-5 | | | | 栓塞 (deep venous thrombosis) | | | | | (B) 老年人常因營養不良而有比較高的手術後併發症發生率 | | | | | (C) 肥胖與營養不良並不會增加傷口裂開的機率 | | | | | (D) 手術後的疼痛、輸液量過多會導致高血壓 | | | (B) | 16. | 下列生長因子(growth factors),何者沒有血管新生(angiogene- | 102(一)專 | | | | sis)的作用? | 醫五-18 | | | | (A) 血小板衍生之生長因子 Platelet-derived g Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - ...her | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直持續或加重。 - d. 動脈瘤破裂。 - e. 根據 Aortic Size Index(ASI = Aortic Diameter/Body Surface Area),如果病患 為 BSA 較小的女性,動脈瘤長比較快且易 rupture,故最大直徑為 4.5 公分至 5 公分 Source: [[sources/med5-book2-ch02|乙、血管瘤]].

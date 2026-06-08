@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Non-Hodgkin lymphoma, NHL (非何杰金氏淋巴瘤)'
   - 'Non-Hodgkin lymphoma, NHL'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-多樣化 B/T/NK cell 淋巴瘤疾病群，依侵襲性與細胞來源治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多樣化 B/T/NK cell 淋巴瘤疾病群，依侵襲性與細胞來源治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 1. 淋巴癌:結腸直腸為淋巴癌最常轉移之處,腸胃道淋巴癌中也有 10% 為 primary non-Hodgkin lymphoma。常見症狀為腹痛、排便習慣改變、體重減輕和血便。治療方法為手術切除和術後化療。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 4. 甲狀腺淋巴瘤(thyroid lymphoma): - (1) 相當罕見且多和 Hashimoto thyroiditis 有關。大部分為 non-Hodgkin lymphoma。 - (2) 只能藉由 biopsy 去診斷, FNA 幫助不大。 - (3) 主要治療為 radiotherapy。 - (4) 預後和有沒有侵犯出 thyroid capsule 有關,如果僅侷限在包膜內其五年存活率 為 85%,反之,只剩下 40%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (C) 16. 一位 70 歲男性,因為淋巴瘤接受了三次的 CHOP 化學治療,最 近二至三週在四肢陸續出現暗紅至暗紫色的丘疹及斑塊,皮膚 切片檢查如圖示,此病患最可能的診斷為何? Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

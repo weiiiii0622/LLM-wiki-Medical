@@ -7,6 +7,9 @@ sources:
   - "[[sources/med5-book2-ch18]]"
   - "[[sources/med5-book2-ch19]]"
   - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Appendicitis (闌尾炎)'
   - 'Appendicitis'
@@ -21,16 +24,22 @@ tags:
 
 ## Summary
 
-闌尾管腔阻塞後感染發炎，表現可由臍周痛轉右下腹痛，需注意穿孔與膿瘍。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+闌尾管腔阻塞後感染發炎，表現可由臍周痛轉右下腹痛，需注意穿孔與膿瘍。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch18]]
 - [[sources/med5-book2-ch19]]
 - [[sources/med5-book2-ch11]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- (A) 急性闌尾炎 (acute appendicitis) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- ...stasis,致病菌會經由膽管逆流而上形成膽管炎, 再往上進入肝臟就有可能形成肝膿瘍。 - (2) 肝門靜脈: 肝門靜脈收集來自腸胃道的血液後, 匯集於肝臟, 因此與腸胃道感染相關的病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- ...| | dorsal duct 與 ventral duct。 | | | (D) 10. 有關診斷腹痛之理學檢查的敘述,下列何者正確? | 101(二)專 | | (A) psoas sign 及 obturator sign 為診斷急性闌尾炎之充分必要條件 | 醫五 -30 | | (B) 泛腹膜炎常合併有全腹反彈痛及腸蠕音增加 | | | (C) Courvoisier's sign 陽性指在黃疸病患觸摸到疼痛性膽囊 | | | (D) Grey Turner sign 表示病患可能有急性出血性胰臟炎 | | | 【詳解】(A) 非必要條件。(B) 腸蠕音↓。(C) 無痛性膽囊,暗示 | | | 膽囊腫瘤。(D) 正確。 | | | (D) 11. 一位 45 歲女性因嚴 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 6. 所以懷疑 appendicitis 治療要積極。放一天,1/4 的病人會 perforation; 放一天半,1/2 的病人會 perforation; 放兩天,3/4 的病人會 perforation。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
 - | Obturator sign | 右大腿屈曲外旋會引發下腹痛。 | |-----------------|-------------------------------------------------------| | Psoas sign | 右大腿伸直抬高時會痛。 | | Rovsing's sign | 深壓左下腹時,結腸內之空氣被擠向盲腸部,而刺激發炎的闌尾,可導致右下腹部的痛。 | | McBurney's sign | Anterior superior iliac spine (ASIS) 到肚臍連線外三分之一的點會壓痛。 | Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
 - 1. 腹部 X 光: 會看見異常氣體、右下腹部腫塊或鈣化之糞石(appendicoliths)等特徵,但出現機率不高(約只有 1.4% 術後確診為闌尾炎的病患可在 X 光上看見糞石),故腹部 X 光對於闌尾炎的診斷幾乎沒什麼幫助。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].

@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch15]]"
+  - "[[sources/med5-book3-ch16]]"
 aliases:
   - 'Ulcerative colitis (潰瘍性結腸炎)'
   - 'Ulcerative colitis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-由直腸連續向近端侵犯的黏膜層 IBD。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+由直腸連續向近端侵犯的黏膜層 IBD。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med5-book2-ch11]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch15]]
+- [[sources/med5-book3-ch16]]
 
 ## Key Details From Sources
 
+- 7. 潰瘍性結腸炎 (ulcerative colitis)。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - 發炎性腸炎泛指 Ulcerative Colitis(UC,潰瘍性結腸炎)和 Crohn's Disease(克隆氏症),他們在生理病理學或臨床症狀方面有些許異同之處,但約有 10~15% 的 IBD 病人無法明確定義為 Ulcerative Colitis 或 Crohn's Disease,而稱為 Indeterminate colitis。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 4. 抽菸與 Crohn's disease 正相關,和 UC 負相關。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - #### B. Ulcerative Colitis 和 Crohn's Disease 的比較 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].

@@ -31,6 +31,8 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Central nervous system, CNS (中樞神經系統)'
   - 'Central nervous system, CNS'
@@ -45,7 +47,7 @@ tags:
 
 ## Summary
 
-包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +78,13 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- ...6-T9 發出之神經,經過 celiac plexus 後分佈於胃壁。 - (b) 其作用使胃蠕動減慢,胃液分泌減少,括約肌緊張等。 - b. 副交感神經: - (a) 90% 為輸出神經 (afferent nerve),傳送胃部的訊息至中樞神經。 - (b) 可分成 left vagus nerve 與 right vagus nerve(左分支 在前,右分支在後。記 憶成 Left anterior、right posterior, LARP)。 - (c) 由圖可知,於胃小彎處, 左側迷走神經可再分支出 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- ...(一) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭轉移,其餘為肺部、淋巴結、 | | | | 腦部與肝臟。 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (D) 細菌血栓打出一旦造成腦部缺氧或出血,應儘快手術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (D) 在 type A 或 type B 主動脈剝離產生的器官灌注不良 (malperfusion syndrome) 中,以腦部及腸道最常見 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
@@ -95,8 +101,6 @@ tags:
 - 1. 處理原則: - (1) 檢查呼吸道有無暢誦,GCS ≤ 8的話緊急插管。 - (2) 檢查血氧濃度,不夠的話給予呼吸器。 - (3) 檢查脈搏和血壓,維持 SBP > 90 mmHg。 - (4) 評估胸部和腹部是否也有受傷(PE、影像檢查)。 - (5) 評估意識狀態及局部神經學症狀,考慮脊髓是否受傷(頭顱脊髓 X 光、CT)。 - (6) 最後才檢查肢體有無撕裂或骨折(X光)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (C) 5. 頭部外傷造成的 diffuse axonal injury (DAI),下列敘述何者錯誤? 106(-) 専 (A) 病人通常沒有清明期(lucid interval) - (B) 電腦斷層掃描(brain CT)上可能沒有明顯的病灶,但病人 卻呈昏迷狀態 - (C) 如果病人不幸死亡,解剖上腦部有明顯不正常的外觀 - (D) 在胼胝體(corpus callosum)可見出血性壞死的病灶 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - 1. 時機: Hunt and Hess Grade 1~4 病患在沒有腦部動脈痙攣收縮及嚴重腦浮腫的情況下,手術可盡早施行。Grade 5 病患除了腦脊髓液引流等簡易之處置外,原則上不建議早期開刀。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- (A) 2. 一糖尿病中年婦女,突然頭部劇痛、左眼瞼下垂、複視、瞳孔放 107(二)專大,來急診求治,神智清楚,腦部電腦斷層如附圖,下列處置何 醫五-54 者最恰當? Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- VII. 中樞神經感染的腦電波 (EEG) 特徵 76 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 
 ## Clinical Caveats
 

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Melanoma (黑色素瘤)'
   - 'Melanoma'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (6) Familial atypical multiple mole melanoma (FAMMM) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 惡性黑色素細胞瘤 (malignant melanoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (1) 肛門位處於內外胚層的交界之處,所以腫瘤種類複雜,最多的是鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma),其它的還有腺癌(adenocarcinoma)、泄殖腔細胞癌(cloacogenic cell carcinoma)、黑色素細胞癌(melanoma)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (6) 黑色素細胞癌(melanoma):除了呈現黑色外觀,無色素(amelanotic)的 melanoma 也不少。此種肛門癌的預後不好,五年存活率約 10%,最好的報告頂 多到 26%。治療方式有 APR 和 local excision,但這兩種方法的哪個比較好仍未 有定論。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

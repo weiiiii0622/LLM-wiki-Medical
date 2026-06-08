@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Surgical flap (皮瓣手術)'
   - 'Surgical flap'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-帶有血供的組織轉移用於重建缺損，可依血流、組織組成與移動方式分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+帶有血供的組織轉移用於重建缺損，可依血流、組織組成與移動方式分類。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- b. 改良式根除性乳房全切除術 (Modified radical mastectomy, MRM): 全乳房切除術 (total mastectomy) 加上 腋下淋巴結廓清術 (Axillary lymph node dissection, ALND)。 - (a) 適應症: 適用於任何沒有侵犯胸大肌或非第四期轉 移性乳癌之患者。 - (b) 術中保留胸大肌、長胸神經、胸背血管神經幹,並 儒可能保留肋間上臂神經。 - (c) 常見合併症: - i. 皮瓣壞死。 - ii. 上肢淋巴水腫。 - iii. 傷及肋間上臂神經,導致上臂感覺麻木。 - iv. 傷及長胸神經,導致前踞肌萎縮造成翼狀肩(Winged Scapula)。 - v. 傷口感染。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- 3. 乳房重建手術 (Reconstruction): - (1) 重建時間點: - a. 術後立即重建:乳房切除術後立即重建。 - b. 延遲重建:接受化學治療及放射治療三個月過後,再考慮接受乳房重建。 - (2) 重建方式: - a. 自體組織移植: - (a) TRAM: 使用腹直肌皮瓣(transverse rectus abdominis myocutaneous flap) 進行重建。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (b) 闊背肌皮瓣 (Latissimus dorsi myocutaneous flap): Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - #### 丙、皮瓣手術 (Surgical Flap) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - 1. 很多人常有的疑問是皮瓣和植皮有什麼不同,皮瓣是不是一定包含皮膚?根據「Sabiston Textbook of Surgery 18th ed.」的定義「A flap is defined as a partially or completely isolated segment of tissue perfused with its own blood supply.」,也就是說皮瓣是「一個仍保有自身血液循環且被轉移的部分或完全組織」,並非一定要有皮膚,只是因為早期常用來作皮膚重建,故有「皮」瓣的稱呼。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - 2. 根據前面所提的 reconstructive ladder,當遇到缺乏血液循環的傷口,如韌帶、關節、 骨骼;或是傷口組織缺損相當多,無法單靠皮膚移植填補,就會考慮皮瓣手術。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].

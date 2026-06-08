@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Rifaximin (利福昔明)'
   - 'Rifaximin'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med5-book1-ch05]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- (4) 治療:要看病人到底是什麼樣子的原因導致膽管炎,針對此 underlying 進行 治療。 - a. 80% 病人可經由保守性治療治癒,使用廣效性抗生素(ampicillin + gentamycin/levofloxacin+/- metronidazole)治療即可。 - b. 20%的病人需要進行膽道減壓手術,包含經由ERCP取石術,或是經由PTCD引流,或是手術緩解阻塞原因。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (3) Clostridium tetani (破傷風桿菌): - a. 引起破傷風(Tetanus),臨床症狀有牙關緊閉、肌肉僵直、抽搐。 - b. 治療:肌肉注射破傷風免疫球蛋白;口服或靜脈注射 metronidazole 是首選抗 生素治療,其次可選用靜脈注射 penicillin。抗生素需持續治療 10~14 天。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -74,7 +77,6 @@ tags:
 - 2. 陰道滴蟲 (Trichomonas vaginalis) - (1) 生活史: - a. 囊體期:沒有! - b. 營養體: 具波動膜。 - (2) 寄生在尿道或女性陰道前穹廬(anterior fornix)、男性的攝護腺,引起黃綠色惡臭泡沫狀分泌物。 - (3) 因性接觸而傳染。 - (4) 治療: Metronidazole。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - | 分類 | 治療 | 其他選擇 | |------------------------------|-------------------------------------------|--------------------------------------| | Mixed aerobic-anaerobic bac. | Cefotaxime + metronidazole or clindamycin | Piperacillin-tazobactam + vancomycin | | Clostridium perfringens | Pencillin + Clindamycin | Cefoxitin + Clindamycin | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - 3. 治療:病程為 chronic and benign nature,對存活沒有影響,所以僅需教育病人要高纖飲食、避免咖啡等。如果症狀嚴重到影響作息,可依症狀選擇藥物: - (1) 便秘為主:高纖洋車前子(psyllium)、滲透型瀉劑(polyethylene glycol),gut serotonin modulators。 - (2) 腹痛為主: antispasmodics, antidepressants。 - (3) 腹瀉為主: antidiarrheals, bile acid sequestrants, 抗生素 rifaximin。 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- (C) 1. 下列關於大腸激躁症(irritable bowel syndrome)的敘述,何者正確? 108( 二)專 - (A) 嚴重大腸激躁症,與腸道生理的相關性較強,與精神方面的異常 醫三-19 關聯性較小 - (B) 大腸激躁症的盛行率男性為女性的 2~3 倍 - (C) 某些抗生素如 rifaximin 對於部分大腸激躁症病患會有效 - (D) 抗憂鬱藥物(antidepressant drugs)對於大腸激躁症是無幫助的 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 
 ## Clinical Caveats
 

@@ -11,6 +11,8 @@ sources:
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch16]]"
 aliases:
   - 'Endoscopic band ligation (內視鏡靜脈曲張結紮)'
   - 'Endoscopic band ligation'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch16]]
 
 ## Key Details From Sources
 
+- ...術介入可以分成十二指腸潰瘍出血與胃潰瘍出血兩部分作處理。 - (1) 十二指腸潰瘍出血(Bleeding duodenal ulcers): - a. 主要的手術治療為十二指腸切開術(duodenostomy)加上 three-point ligation。將十二指腸切開後,將會看到三條血管,把三條血管 ligation 起來 就可以達到止血的作用。 - (a) 近端胃十二指腸動脈(Proximal gastroduodenal artery)。 - (b) 遠端胃十二指腸動脈(Distal gastroduodenal artery)。 - (c) 水平胰動脈 (Transverse pancreatic artery)。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 【詳解】可先藉由 angiographic occlusion 的方式止血,若還是無 法順利止血再考慮用 surgical ligation。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - (1) Open repair: - a. 心肌梗塞最常見。 - b. 腎衰竭:第二常見。 - c. 肺炎。 - d. Ischemia colitis: 術中 improper ligation of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - ...sacral, inferiormesenteric, hypogastric, accessory renal arteries | Observation Coil embolization or glue Laparoscopic ligation Open conversion | | Type III | Fabric disruption or tearModule disconnection | Placement of additional stents or cuffs Secondary endograft Open conversion | | Type IV | • Flow from fabric porosity | Observation | Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 1. 常見原因: - (1) 動靜脈血栓。 - (2) 最常見為 SMA embolis。 - (3) 醫源性: 腹主動脈瘤手術時將下腸繋膜動脈 ligation 後造成 left & sigmoid colon ischemia。 - (4) 血管炎: polyarteritis nodosa。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].

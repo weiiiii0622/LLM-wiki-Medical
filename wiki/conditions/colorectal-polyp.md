@@ -8,6 +8,9 @@ sources:
   - "[[sources/med5-book2-ch15]]"
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch19]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Colorectal polyp (大腸直腸息肉)'
   - 'Colorectal polyp'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-大腸直腸息肉依組織型與大小決定癌化風險，adenoma-carcinoma sequence 是篩檢重點。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸直腸息肉依組織型與大小決定癌化風險，adenoma-carcinoma sequence 是篩檢重點。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,18 @@ tags:
 - [[sources/med5-book2-ch15]]
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch19]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- 2. 小腸腺瘤 (Intestinal Adenoma): - (1) 依組織可分成管狀腺瘤(tubular adenoma)、絨毛狀腺瘤(villous adenoma)與混合線瘤(mixed adenoma)。 - (2) 絨毛狀腺瘤 (villous adenoma) 癌化的可能性較高,具淋巴或血行轉移的機會。 - (3) 可能會出現阻塞或出血的症狀。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (3) 危險因子 - a. 絨毛狀腺瘤 (villous adenoma) - b. 息肉症候群 (polyposis syndromes) - c. Crohn's disease - d. hereditary nonpolyposis colorectal cancer (HNPCC) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- ...ond second second second second second second second second second second second second second second second second s | 息肉型(polypoid) | 隆起型腫瘤 | | | Type 2 | Contract to your Park | 腫瘤潰瘍型(fungating) | 腫瘤具界線明顯之潰瘍 | 胃鏡下不易與潰瘍區分 | | Type 3 | | 潰瘍型(ulcerated) | 腫瘤具界線不明之潰瘍 | 最常見 | | Type 4 | # water | 浸潤型(infiltrative) | 瀰漫浸潤型 腫瘤 | 發展極致即所謂的皮革胃 | Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (B) 4. 吳太太於例行性胃內視鏡健康檢查時發現有 1 公分大小的胃息肉 ,下列何者需進行息肉切除? - (A) 切片病理報告為增生性息肉(hyperplastic polyp) - (B) 切片病理報告為腺瘤 (adenomatous polyp) - (C) 切片病理報告為缺陷瘤(hamartoma) - (D) 切片病理報告為異位瘤 (heterotopic polyp) Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (A) 膽囊息肉 (polyp) > 10 mm Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - 1. 家族性: 佔大腸癌約 10~15%。 - (1) Familial adenomatous polyposis (FAP): - a. 體聯顯性遺傳(AD), 腫瘤抑制基因 adenomatous polyposis coli gene, APC (5q21)突變;約 50%的 FAP 患者其子女也會有 FAP, 約三分之二 FAP 患者有家族史。。 - b. 大腸具> 100 個息肉; FAP 合併大腸癌,診斷年齡約為 40 歲。 - c. FAP syndrome: - (a) Familial polyposis • - (b) Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 4. 高危險群: - (1) Ulcerative colitis > 10 年。 - (2) Crohn's disease with stricture • - (3) FAP 或 HNPCC 的家族史。 - (4) 癌症(或息肉)病史或家族史。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (2) 有以下 risk factor 的則 40 歲甚至更早開始定期篩檢: - a. 之前有得過大腸直腸癌或是息肉。 - b. 本身有得過 ulcerative colitis 或 Crohn's disease。 - c. 一等親或二等親有大腸直腸癌病史。 - d. 有 FAP 或 HNPCC 的家族史。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

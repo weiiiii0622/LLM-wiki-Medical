@@ -27,6 +27,8 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch02]]"
 aliases:
   - 'Blood transfusion (輸血)'
   - 'Blood transfusion'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,16 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch11]]
 - [[sources/med5-book2-ch27]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch02]]
 
 ## Key Details From Sources
 
+- (C) 肝臟手術易出血,要預先準備 packed RBC Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 【詳解】此電腦斷層可見 liver laceration。在小朋友的 liver laceration 當中,絕大部分的病人是不需要輸血的,除非病人的 Hb 非常低,或是 vital sign 出現問題的時候才會考慮輸血。若 vital sign stable 時,可嘗試保守性療法治療病人,若出現 shock、大量輸血時,才考慮進行 laparotomy 剖腹探查術。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (C) 為了避免出血,應大量給予 FFP (fresh frozen plasma) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 4. 治療:通常 70% 的病人會自動止血,若仍在活動性出血的病人必須以內視鏡去作止血。手術介入時機在於病人在 24 小時內輸血超過 6U 後仍呈現 hemodynamic instability 時,就可以考慮以手術方式介入。手術介入可以分成十二指腸潰瘍出血與胃潰瘍出血兩部分作處理。 - (1) 十二指腸潰瘍出血(Bleeding duodenal ulcers): - a. 主要的手術治療為十二指腸切開術(duodenostomy)加上 three-point ligation。將十二指腸切開後,將會看到三條血管,把三條血管 ligation 起來 就可以達 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 【詳解】現今 Endoscopy 的進步,大部分的腸胃道出血都能以 內視鏡來止血。約 10% 的病人仍須靠外科的方式來治療。外科 醫師的觀點以是否需要持續輸血作為手術的 indication。除此之 外,Sabiston 提出的 surgery indication 如下: Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (B) 18. 開心手術後的病人,在加護病房照顧時,發現心包腔引流管出血 100(-)專量相當多,第 1 個小時約 300 毫升(病人體重 60 公斤),第 2 個小時約 400 毫升,醫護人員會依流出之量給予靜脈輸血及血小板或新鮮血漿。會造成這麼厲害出血的原因,下列何者最不可能? (A) 體外循環會破壞血小板 (B) 體外循環會造成溶血 (C) 體外循環時,殘餘之肝素 - (D) 可能有出血點沒有查到 【詳解】體外循環的確會造成溶血,但鮮少有如此嚴重的持續 出血狀況,溶血反而會直接造成腎臟功能傷害。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (A) 立刻輸入 O 型 Rh 陰性之紅血球濃縮原液(packed RBC) Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (C) 24. 開心手術時,當體外循環的支持停止後,血液中的肝素(heparin),必須使用下列何種方式處理,使其活化凝血時間(activated clotting time)回復正常? - (A) 血小板靜脈注射 - (B) 新鮮血漿靜脈注射 - (C) 魚精蛋白 (protamine sulfate) 靜脈注射 - (D) 冷沈澱物 (cryoprecipitate) 靜脈注射 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -84,11 +93,6 @@ tags:
 - (C) 對拒絕輸血的耶和華見證人會信徒,不予輸血 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (1) 術中常見高體溫的原因為輸血反應或是病人本身有感染的情況。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (C) 給予大量輸液及輸血,必須將病患收縮壓維持在 120 mmHg 以上才能轉送 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- 情況: 46 歲警察,執勤時遭槍擊,子彈貫穿臉頭部,送到醫院急診室,昏迷血壓量不 到,經急救包括氣管插管,用無菌紗布將右鼻旁臉部及左枕頭皮傷口,左耳道, 雙鼻腔及口腔等部位擠塞壓住止血。輸血處理後,血壓逐漸至正常值內,瞳孔 左側放大至6 mm,右側4 mm,無光反射,四肢無法運動,請回答第19~22 題。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- (1) 梅毒螺旋體(Treponema pallidum)入侵人體皮膚或黏膜破損處感染所致,病原體為螺旋體,一般 Gram stain 無法染上,需以暗視野顯微鏡檢(dark-field microscopy)或直接螢光抗體染色(Direct fluorescent antibody staining)觀察,主要由性交傳染,也可經由輸血感染;或婦女懷孕時罹患梅毒,經由胎盤而感染胎兒,造成先天性梅毒。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- ...利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 在台灣,目前新生兒篩檢方式是用 Tandem mass spectrometry。新生兒出生後 48 小時從足跟部位進行採血檢查。但是早產兒、低體重兒、產程出現併發症的新生兒,因為醫療處置(如輸血)而會有偽陽性的結果。這類病人等到病情穩定後再做檢查。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

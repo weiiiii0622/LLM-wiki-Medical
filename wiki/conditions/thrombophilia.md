@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Thrombophilia (血栓傾向)'
   - 'Thrombophilia'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book2-ch06]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- (A) 高脂肪與蛋白質攝取 (high fat or protein consumption) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 1. 原因:Virchow's triad - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、antithrombin III deficiency、antiphospholipid syndrome 等。 - (3) Endothemium injury: 靜脈內皮細胞受損,例如手術( 髖關節或膝關節手術)、 外傷、之前有過 DVT。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 2. 危險因子同 DVT: Virchow's triad。 - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、Antithrombin III deficiency、Antiphospholipid syndrome 等。 - (3) Endothelium injury: 靜脈內皮細胞受損, 例如手術( 髖關節或膝關節手術) 外傷、 之前有過 DVT。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 【詳解】Neonatal purpura fulminans 可以是遺傳性也可以是 後天性。若是遺傳性,則可能是 protein S、protein C或是 antithrombin III 缺乏造成。Protein S 與 protein C 缺乏何者比例 最高會因不同族群則有不同結果。因此本題選(A)或(B)都對。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].

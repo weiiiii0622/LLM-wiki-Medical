@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(五)第2冊心外大腸長直腸外內分泌外整外`
-- Latest chapter source summaries: 30
-- Total chapter source summaries: 190
-- Total topic-first nodes: 1054
+- Latest ingested textbook: `醫(五)第3冊腎外小腸外肝膽胰外乳外`
+- Latest chapter source summaries: 24
+- Total chapter source summaries: 214
+- Total topic-first nodes: 1111
 
 ## Graph Shape
 

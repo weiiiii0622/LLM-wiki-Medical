@@ -72,6 +72,12 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book3-ch06]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Kidney (腎臟)'
   - 'Kidney'
@@ -86,7 +92,7 @@ tags:
 
 ## Summary
 
-腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -158,9 +164,21 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book3-ch06]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch12]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (C) 內含的異位組織最常見的是胃及腎臟組織 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
+- 4. 轉移癌 - (1) 轉移癌的發生率較原發性小腸癌高出許多。 - (2) 常見轉移至小腸的癌症包括:子宮頸癌、卵巢癌、腎臟癌、胃癌、大腸癌、胰臟癌等腹內器官。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (C) kidney laceration Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- ...指腸經糞便排泄,患者的大便呈現灰白色(Acholic 或 clay stool)。 - (c) 茶色尿(tea-colored urine):當 conjugated bilirubin 被大量製造或無法經由 腸道排除,即會經由血液循環進入腎臟代謝,造成茶色尿,因此無法單純 由此判斷是否為阻塞性或非阻塞性黃疸。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
+- ...----------------------------------------|---------| | | 下列敘述何者錯誤? | 醫五 -29 | | | (A) 低血容合併急性腎衰竭 (hypovolemia with acute renal failure) | | | | (B) 低血氧合併成人呼吸窘迫症 (hypoxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel dis Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 【詳解】遠端脾腎靜脈分流術屬於 selective shunt,斷 coronary vein,重建 gastroepiploic vein 至 left renal vein,減少 EV/GV bleeding 但 portal hypertension 加深,增加臟器回流壓力,ascite 加劇。門脈下腔靜脈分流術 (portacaval shunt) 屬於 non-selective shunt,可做 Total (end to side) or partial (side to side) shunt,減少血流進肝臟去解毒,故加深腦性肝病變,同時肝臟因缺血提早肝衰竭。此兩者都是治療因嚴重肝硬 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 若是臨床上考慮進行 mechanical bowel cleansing,針對腎臟功能不佳的患者,選擇 sodium phosphate 類的灌腸劑,相對polyethylene glycol solution,較少發生嚴重電解質不平衡的情形 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 【詳解】Sodium phosphate 為 osmotic solution,使身體水分往 大腸內滲透,容易影響 fluid/electrolytes imbalance,甚至 impair renal function; polyethylene glycol 則是 nonabsorbable osmotic agent,較不會有 fluid/electrolytes imbalance (fluid shifting)的問題,適合用在 renal failure、congestive heart failure、ascites from liver disease 的病人。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 2. 次發性 (Secondary HPT): Ca ↓ => PTH ↑ - (1) 慢性腎衰竭,腎排磷受阻造成高血磷,使得鈣磷沉積,造成低血鈣;vitamin D 缺乏影響到腸子以及腎臟對鈣的再吸收,低血鈣接著引起 PTH 的分泌。次發性 HPT 也見於骨軟化症(Osteomalacia)及小腸吸收不良(Intestinal malabsorption)。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -173,12 +191,6 @@ tags:
 - (1) Mortality 高,致命的 complication 相當多,例如 malperfusion syndromes (cerebrovascular、visceral、renal 或 peripheral ischemia)、cardiac complications (acute aortic insufficiency、coronary ischemia 或 cardiac tamponade) 或 rupture,所以選擇緊急開刀。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 3. 每個器官的低溫保存期限 (cold ischemia time) 不同:腎臟 24~72 小時、胰臟 12~18 小時、小腸 6~12 小時、肝臟 6~10 小時、肺 4~6 小時、心 4 小時。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (2)除非原本的腎臟產生病變、難以控制之高血壓或嚴重感染,否則通常不會把原來腎臟切除,而是將新的腎臟移植到左下腹或右下腹的髂窩(iliac fossa)處。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (3) 將腎靜脈 (renal vein) 和受贈者外髂靜脈 (external iliac vein) 做吻合;接著將腎動脈 (renal artery) 和受贈者外髂動脈 (external iliac artery) 或內髂動脈 (internal iliac artery) 做吻合,最後將輸尿管縫接於病人的膀胱。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (C) 8. 下列那一個腹部器官在腹部鈍傷中最常受到傷害? 105(一)專 (A) 肝臟 (B) 腎臟 (C) 脾臟 (D) 胰臟 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- (B) 17. 鈍性腹部外傷時,最常發生損傷的器官為: 101(一)專 (A) 肝臟 醫五-3 (B) 脾臟 (C) 胰臟 (D) 腎臟 (B) 18. 一位 48 歲的小鎮男性在一次大客車車禍中腹部受傷,經 10 小時 101( - ) 專 後被轉送至某大醫院急診,雖意識清醒,但因腹膜炎而接受緊急 醫五 -37 剖腹探查術,術中發現有橫結腸裂開、胰臟和胃挫傷,肝臟左 葉裂傷,經修補肝臟裂傷後,血壓及心跳等仍不穩定,此時應 如何處理裂開的結腸最妥當? (A) 直接修補裂口 (B) 利用此裂口拉出大腸作成一個結腸造口 (C) 直接修補裂口,再將近側之大腸拉出腹外作造口 ( Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- 7. 轉移癌:轉移自肺癌、乳癌、腎臟、腸胃道或淋巴癌。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 2. 成年人最常見原發性小腦腫瘤,也可能長在脊髓、視網膜,或在腎臟、胰臟中出現 囊腫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- (4) Omega-3 為不飽和脂肪酸,含有多種脂肪酸,其中 EPA(二十碳五烯酸)、 DHA(二十二碳六烯酸)及 α-Linolenic acid(次亞麻油酸)對人體很重要,可 從魚油獲得。EPA 可以降低血液黏稠度、降血壓、降三酸甘油脂等心血管疾病 保護作用; DHA 直接影響心臟、腦部、眼睛、神經系統、腎臟的正常運作。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 
 ## Clinical Caveats
 

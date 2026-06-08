@@ -11,6 +11,9 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book2-ch13]]"
+  - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book3-ch22]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Cancer screening (癌症篩檢)'
   - 'Cancer screening'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-針對無症狀族群以年齡與風險分層安排癌症早期偵測。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+針對無症狀族群以年齡與風險分層安排癌症早期偵測。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,17 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch11]]
 - [[sources/med5-book2-ch13]]
+- [[sources/med5-book3-ch23]]
+- [[sources/med5-book3-ch22]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- D. 乳房攝影(Mammography) 215 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- #### D. 乳房攝影 (Mammography) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- (1) 由於早期的乳癌可能只會在 X 光中出現微小鈣化點,無法經由 PE 檢查出可疑 腫塊,因此乳房攝影(mammography)作為早期乳癌篩檢的良好工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- ...| (D) FLAM (Pupmomu) | | | (D) | 11. 承上題,下列何者不是必要的檢查? | 99(一)專 | | | (A) 乳房超音波(ultrasonography) | 醫五-44 | | | (B) 乳房攝影(mammography) | | | | (C) 乳管攝影術(galactography) | | | | (D) 血清泌乳激素(prolactin)濃度測定 | | Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
+- (B) mammography screening Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 2. 診斷: - (1) Colonoscopy: Gold standard,可同時作 biopsy。 - (2) Flexible sigmoidoscopy • - (3) Air-contrast enema:可清腸且偵測阻塞的程度。 - (4) Proctoscopy with rigid sigmoidoscopy: 可偵測 50% 的結腸癌,如果是用 flexible sigmoidoscopy 可偵測到 75% 的結腸癌。 - (5) DRE:可檢查直腸腫瘤大小、ulceration、local invasion、lymph node。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 4. 篩檢, American Cancer Society 建議: - (1) 50 歲以上: - a. 每年:肛門指診、潛血反應檢查、Fecal immunochemical test (FIT)。 - b. 每五年定期接受:Flexible sigmoidoscopy、Double-contrast barium enema、CT colonography。 - c. 每十年:Colonoscopy。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 2. Secondary prevention: cancer screening 提前找出癌前期病變或癌病變。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
@@ -52,8 +63,6 @@ tags:
 - 【詳解】(C)雖然大部分的早期偵測大腸癌的計畫都強調糞便潛血 檢查,但卻有50%證實有大腸癌的病人其糞便潛血檢查是陰性的, 這和大腸癌的出血是間斷性的有關,因此敏感度其實不高;另外, 潛血陽性的也< 10%後來發現有大腸癌。其實, Colonoscopy 才是 最具敏感的檢查;因此 ACS 建議篩檢的方法是大於 50 歲的人每年 檢查大便潛血,且5年檢查一次 sigmoidoscopy。(Harrison, 529) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - #### (3) 台灣癌症篩檢建議: [Ref. 國民健康局] Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (A) 5. 以下何項並非 USPSTF (US Preventive Services Task Force) 所強烈 建議 (class A) 的癌症篩檢方式? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- (A) 針對 40~49 歲女性每兩年接受乳房攝影(mammography) Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- (C) 應予以檢查大便潛血反應 (fecal occult blood test, FOBT) Source: [[sources/med3-book4-ch10|甲、貧血]].
 
 ## Clinical Caveats
 

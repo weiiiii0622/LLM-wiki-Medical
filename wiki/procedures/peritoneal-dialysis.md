@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch07]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch16]]"
 aliases:
   - 'Peritoneal dialysis (腹膜透析)'
   - 'Peritoneal dialysis'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,14 @@ tags:
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch07]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch16]]
 
 ## Key Details From Sources
 
+- ...rocedure (resection of pancreatic head) The Frey procedure (resection of pancreatic head) - c. Pancreaticoduodenectomy (PD): Whipple procedure, PPPD Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- (3) Pancreatectomy · Whipple procedure (pancreaticoduodenectomy, PD): - a. 前言: - (a) 若慢性胰臟炎主要影響於胰臟頭部,並且病灶處也無法排除癌化的可能性,可進行 pancreaticoduodenectomy。 - (b) pancreaticoduodenectomy 是針對病灶位於胰臟頭部(含鉤突)或壺腹周圍的手術方式。手術需要切除膽囊、總膽管、十二指腸、胰臟的頭部、遠端的胃、以及淋巴結擴清術。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- (3) 遠端肝外膽管癌:以胰頭十二指腸切除手術(pancreaticoduodenectomy, PD)作 為手術介入治療的方式。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - ...- i. 大量傷患同時到達時可作為檢傷分類之依據。 - ii. 神智改變。 - iii. 酒醉或服用毒藥物。 - iv. 需上麻醉處理其他合併損傷。 - v. 多處受傷之病患。 - vi. 懷疑腹部受傷,但腹部症狀不明顯。 - (b) 將腹膜透析導管插入腹膜腔,並進行抽吸,假使抽到腸胃道內含物、蔬菜纖維或膽汁表示必須做剖腹探查;假使沒抽到,則從導管灌入1,000 cc 林格氏溶液,用壓迫腹部及滾動病人,使腹膜內含物和沖洗液充分混合 之後再抽吸出來送化驗。 - (c) 如果化驗出來流出液紅血球 $\geq 100,000/\text{mm}^3$ ,白血球 $\geq 500/\text{mm}^3$ 或是 Gram stain 發現細菌存在表示陽性反應,須要手術。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - ...r atrophy | | degenerative | | neuronal inclusions) | Shy-Drager syndrome | | disorders | | | Motor neuron disease with PD features | | | | Dementia with Lewy l | podies (cortical · brainstem neuronal inclusions) | | (Parkinson- | tau pathology | Progressive supran | uclear palsy | | Plus syn.) | ("tauopathies") | Corticobasal degene | erat Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...在晚期開始出現運動阻滯(motor block)時,進 | 99(二)專 | | | 行下列何種動作比較不受影響? | 醫四 -48 | | | (A) 上樓梯 (B) 走平地 (C) 過旋轉門 (D) 進出電梯門 | | | | 【詳解】PD 會有 freezing phenomenon, 會伴隨 first step hesitation, | | | | 往往第一步跨不出去。 | | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -62,7 +69,6 @@ tags:
 - ## E. 腹膜透析腹膜炎 (CAPD peritonitis) Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - 2. CAPD peritonitis 以 Coagulase negative staphylococcus 最常見(30%); 若是 exit-site infection,則以 Staphylococcus aureus 最常見。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - (A) 血液透析(hemodialysis) 醫三-31 - (B) 腹膜透析 (peritoneal dialysis) - (C) 腎臟移植 (kidney transplantation) - (D) 血液過濾透析 (hemodiafiltration) Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- (A) 1. 一位 59 歲接受腹膜透析腎病患者,血壓為 125/80 mmHg,心跳為 107( 二 ) 專 76 次 / min,12 導程心電圖發現有 peaked T waves,血鉀值為 7.0 醫三 -76 mmol/L,無溶血。下列何種處置最不優先? - (A) 會診腎臟科後,等待做腹膜透析 - (B) 可使用葡萄糖 (glucose) 加胰島素 (insulin) 治療 - (C) 可使用碳酸氫鈉(sodium bicarbonate)治療 - (D) 可使用噴霧式支氣管擴張藥物 (neubulized albuterol) 治療 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

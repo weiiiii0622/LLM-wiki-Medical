@@ -16,6 +16,9 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book3-ch05]]"
+  - "[[sources/med5-book3-ch14]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Pediatric dehydration (兒童脫水)'
   - 'Pediatric dehydration'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,15 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book3-ch05]]
+- [[sources/med5-book3-ch14]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- (A)病人可能有缺水(dehydration)狀況,需 給予輸液補充(fluid resuscitation)及監測 尿量 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
+- 2. 在臨床上,急性非結石性膽囊炎發生原因主要與膽囊缺血、膽汁淤積相關。 - (1) 膽囊缺血:大面積燒傷、多重外傷、重度感染、重大手術術後、急性心肌梗塞 患者等疾病,這些患者都容易低血壓、休克或心衰竭,導致膽囊壁的供血不足。 - (2) 膽汁淤積:患者因感染體溫上升或脫水,使得膽汁黏稠度增高,淤積於膽囊,造成膽囊發炎。一旦膽囊持續因缺血而缺氧,很容易造成 gangrene 的變化,甚至造成膽囊的 perforation 而致死。因此急性非結石性膽囊炎可做為判定多重器官衰竭預後不佳的早期徵兆。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
+- 3.60%的病人出現不正常的葡萄糖耐受試驗結果,甚至進展成為糖尿病,須觀察糖尿病症狀如口渴、多尿、噁心、嘔吐、皮膚脫水乾燥,與胰臟的內分泌功能喪失相關。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid defic Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 【詳解】氫氟酸會釋放氫離子,產生與強酸類似的局部腐蝕效果及脫水症狀(coagulation necrosis);另外氟離子的組織穿透力高,會和體內的鈣或鎂結合成不溶性的鹽類,造成低血鈣和低血鎂,進而引發心律不整、抽搐、死亡。氫氟酸灼傷形成的水泡都應予以弄破並除去其中可能殘留氟離子的任何壞死組織,水泡底面,應塗以含鈣或鎂的乳膠,以對抗氟離子所造成的毒性。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (A) 6. 一位 50 歲女性,因為發燒、腹瀉、脫水,在一家醫院注射點滴 治療,病患突然意識障礙、煩躁,而且陷入半昏迷狀態,轉到醫 學中心緊急做了 MRI 檢查,根據此二張 MRI T2WI 及 DWI 影像, 最適當的診斷是: 100(二)專醫四-74 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -64,7 +73,6 @@ tags:
 - (1) 與 type I、II RTA 類似有生長遲滯的情形。多尿與脫水(鈉離子排出增加,水分 子跟著鈉離子走)也是常見的臨床表現。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (AB) 4. 5 歲男童因為腹瀉 3 天,有脫水現象被送到急診。抽血檢查發現, 106(一)專 血清鈉離子: 142 mEq/L, 鉀離子: 3.6 mEq/L, 氯離子: 115 mEq/L, 肌酐酸 (creatinine): 1.1 mg/dL。動脈血液氣體分析為 pH = 7.12, PCO2 = 50 mmHg, HCO3 = 14 mmol/L。下列何者正確? Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...e virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發現。男嬰反而以 cortisol Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (2) 理學檢查:仔細觀察新生兒外生殖器、表面是否有黑色素沉澱或是脫水狀態。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

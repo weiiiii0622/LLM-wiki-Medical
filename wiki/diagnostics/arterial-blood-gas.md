@@ -41,6 +41,8 @@ sources:
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch08]]"
 aliases:
   - 'Arterial blood gas, ABG (動脈血氣)'
   - 'Arterial blood gas, ABG'
@@ -55,7 +57,7 @@ tags:
 
 ## Summary
 
-評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +98,13 @@ tags:
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch05]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch08]]
 
 ## Key Details From Sources
 
+- 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 3. 術後併發症: - (1) 腹內膿瘍 (intra-abdominal abscess)。 - (2) 膽汁滲漏 (Bile leakage)。 - (3) 肝功能衰竭(Liver failure): 若剩下的肝臟比例不足,很有可能會造成 liver failure。術前需仔細評估肝臟功能,後面的內容會再解釋。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - A. 主動脈內氣球幫浦(Intra-aortic ballon pump, IABP) 98 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - #### A. 主動脈內氣球幫浦 (Intra-aortic ballon pump, IABP) Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (a) FiO2: 1.0, PaO2 2 retention,造成血行動力學不穩,已排除可逆轉之原因。 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -115,8 +121,6 @@ tags:
 - (C) 在正常呼吸下呼吸速率每分鐘大於 20 下或是血液中二氧化 碳分壓 (PaCO2) 小於 32 mmHg Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 2. MHC 基因位於人類第六對染色體上。 - (1) 第一類 (Class I):包含 HLA-A, B, C, 脊椎動物體內的有核細胞以及血小板都有,被病毒感染的細胞能將抗原呈現給 CD8+毒殺型 T 細胞 (cytotoxic T lymphocyte),引發 cell-mediated immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 【詳解】腎臟移植組織配對以 HLA-A, B, DR 最重要。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 2. 判讀 ABG: - (1) 第一步:是否有酸血症或鹼血症,pH 7.45 為鹼血症。 - (2) 第二步: $pH \ \ CO_2$ 改變方向相同(同升同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- ...(Venereal disease researchlaboratory)RPR (Rapid plasma regain) | TPHA ( T . p allidummicro h em a gglutination assay)FTA-ABS ( F luorescent t reponemalantibody abs orption | | 用 | 途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、治療後仍呈陽性 | | 偽 | 陽性 | IV drug use, SLE, Malaris, HIV inf, viral ill 等 | 正常人約 1~2% 偽陽性→試驗不用於篩檢,用於確認 | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 
 ## Clinical Caveats
 

@@ -30,6 +30,7 @@ sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book3-ch08]]"
 aliases:
   - 'Mechanical ventilation (機械通氣)'
   - 'Mechanical ventilation'
@@ -44,7 +45,7 @@ tags:
 
 ## Summary
 
-呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +75,11 @@ tags:
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book3-ch08]]
 
 ## Key Details From Sources
 
+- 1. 剖腹切肝 (Open liver resection): - (1) 最常見的開腹法是賓士切法。左右兩邊做胸骨下緣切開(subcostal incision), 中線向上畫到劍突(xiphoid process)。 - (2) 可將病人擺成頭低腳高的姿勢(Trendelenburg position),減少術中的失血量。 - (3) 呼吸器可給予 5 cm $H_2O$ 的吐氣末端正壓 (positive end-expiratory pressure),避免空氣栓子。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - (C) 6. 一個 75 歲的男性病患因腹部主動脈瘤接受手術治療,植入 Gortex graft。病人在過去並無腸胃方面的症狀,術後 40 小時,病人在 加護病房中,突然出現多次大量的褐色腹瀉,病人仍依靠氣管 內管(endotracheal tube)及人工呼吸器呼吸,意識不甚清醒 且無法說話,身體檢查並無腹部壓痛,或反彈性壓痛,體溫 37℃,白血球數為 10,000/mL。此時最可能的診斷是什麼? Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (D) 16. 一位 60 歲男性,接受冠狀動脈繞道手術。術後第二天,血行動力正常,胸部 X 光正常,肺臟呼吸音清楚無濕囉聲,動脈血氣體分析正常,病人意識清楚,呼吸器當時的設定是 SIMV mode,呼吸器通氣次數每分鐘 4 次,病人自呼 8 次,PEEP: 4 cmH2O,够感度 2 cmH2O,呼吸器壓力支持 10 cmH2O。準備讓病人脫離呼吸器,接上 T 型管讓病人自己呼吸,呼吸次數很快上升到每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (flu Source: [[sources/med5-book1-ch04|丁、外科併發症]].
@@ -94,7 +97,6 @@ tags:
 - (B) 5. 2,000 公克早產兒在加護病房住院近兩個月,她因為雙側腎臟發育 不全而合併慢性腎衰竭,又因為肺發育不全合併肺炎一直倚賴 呼吸器治療,於3週前需開始長期腹膜透析以維持電解質及體 液等平衡。很不幸地,這兩天醫師發現嬰兒發燒、透析液轉為 混濁,並且流量大為減少,初步檢查診斷為黴菌性腹膜炎,除 了用藥外,醫師建議手術更換腹膜透析管。這時候,不滿 20 歲 的年輕父母親要求醫師:「她實在好可憐,不要救了,讓她走吧, 請幫我們移除呼吸器,讓我們回家吧!」。下列何種做法最合適? - (A) 父母生她,也是法定代理人,必須由父母移除其呼吸器 - (B) 取得父母同意書後,施予 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (D) 對於有昏睡或意識障礙的肝病病童,若血氨(Ammonia)已 經上升且合併第二期肝腦病變(Hepatic encephalopathy Stage II)之意識混淆及嗜睡,應立即插管使用呼吸器 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...能不佳可注射維生素 K、給予新鮮冷凍血漿 FFP 或是血小板控制。此外,急性肝衰竭病人要注意血管內容積不足,因此需維持點滴輸液、補充電解質以及防止水份從腎臟流失。至於是否要輸白蛋白並無共識。當肝性腦病變出現 stage 4 時,應要插管使用呼吸器。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (2) 胃管引流和肛管灌洗,以空針抽取胃內容物,以減少嘔吐和吸入性肺炎的發生,並防止腸胃道因充氣膨脹而增加囊膜破裂的可能性。另外還包括有呼吸器的使用、抗生素的給予、水份及電解質的補充和血糖的監測等等。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

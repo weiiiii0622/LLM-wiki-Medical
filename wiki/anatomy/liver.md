@@ -64,6 +64,19 @@ sources:
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch18]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch10]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch14]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Liver (肝臟)'
   - 'Liver'
@@ -78,7 +91,7 @@ tags:
 
 ## Summary
 
-肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -142,9 +155,32 @@ tags:
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch18]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book3-ch08]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch12]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch10]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch16]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch14]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- 1. 解剖學上,可利用動、靜脈與肝管在肝臟內形成的自然界限,分為三個 divisions。 - (1) First divisions:左右兩半 (hemilivers)。 - a. 左右兩葉由膽囊窩(gallbladder fossa) 與下腔靜脈 (inferior vena cava)所分割而成。這條界線又可稱 之為 Cantlie's line, 走向約與 middle hepatic vein 一致。 - b. 左右兩葉各由一條肝臟動脈 (hepatic arterial branch)、膽管 (bile duct), 與門靜脈 (portal vein) 所支配。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- a. 第二個 division 是由肝臟內部的肝動脈(hepatic artery)與膽管(bile duct)作 為五葉的界線。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- 八段 (segments), 又可以稱 為 Couinaud classification, 將肝臟細分成八段。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- 1. 惡性肝腫瘤可分為原發性 (primary) 與繼發性 (secondary), 其中又以 secondary (即 metastatic liver cancer) 占大多數。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 2. 最常見的肝臟原發癌 (primary cancer) 為肝細胞癌 (hepatocellular carcinoma, HCC), 占了90%以上,其次較為少見的 primary cancer 包括膽管癌 (cholangio-carcinoma),惡性血管瘤 (angiosarcoma)等。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (2) 主要的原因是 B 型肝炎及 C 型肝炎在台灣的高盛行率,使慢性肝臟疾病病得以 進一步發展成為肝硬化及肝癌。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 2. 肝膽系統中有兩個解剖三角形,其一是卡洛氏三角,其二是肝膽三角。 - (1) 卡洛氏三角 (Calot's triangle): - a. 右圖可見是由 liver bed、CD、CHD 三者所組成。 - (a) CD: Cystic duct • - (b) CHD: Common hepatic duct • - b. 卡洛氏三角是一個臨床上重要的解剖 位置。在進行膽囊切除術時,要在該 三角內辨認出膽囊動脈並加以截斷。 並且要保護較粗的右肝動脈避免受 傷,導致右半肝臟的缺血。 - c. 膽囊動脈常出現變異,必須特別注意。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
+- (1) 衰老紅血球進入脾臟,分解後得到 bilirubin,與 albumin 結合後藉由血流會被送到肝臟,此時為非水溶性,稱為未結合型膽色素(unconjugated bilirubin)。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
+- (2) 進入肝臟的膽色素經由肝細胞的作用後,與 Glucuronic acid 結合,轉變結合型 膽色素(conjugated bilirubin),為水溶性,接著被排入膽管進入膽囊,再經由 總膽管流入十二指腸中。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
+- ...) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭轉移,其餘為肺部、淋巴結、 | | | | 腦部與肝臟。 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (B) 3. 一個 4 個月大的女嬰,母親是高齡產婦,女嬰出生時並無發紺現象,出生體重 2,500 gm,一個月後嬰兒呈現呼吸急促,食慾不佳,有盜汗現象,經醫師檢查,呼吸及心跳速率皆增加,胸骨左側可聽到心縮期雜音,肝臟也有腫大現象。心臟超音波檢查發現有左至右的分流,肺動脈壓增高,經投予藥物治療數星期之後,臨床症狀改善有限,且體重只有 3,500 gm,醫師建議手術治療。請依此回答下列 3 題:下列那些手術方式對此病患有幫助?① Blalock-Taussig 分流手術 ②完全矯正 (total correction) ③肺動脈環縮術 (PA banding) ④肺動脈瓣切開術 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 【詳解】沒有發紺、心縮期雜音、肝臟腫大、左心至右心分流、肺動脈壓增高都是心室中膈缺損典型的表現。高壓血於心收縮期由左心經過心室中膈缺損處灌入右心,造成右心以至於肺動脈與體靜脈系統高壓,然後肝臟因肝靜脈高壓回流不順而腫大。治療 VSD 如能直接修補如完全矯正術最好,若時機或條件不成熟則首重右心系統的減壓,例如肺動脈環縮術(Pulmonary artery banding)。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - ...distant metastasis | | | | M1 | Distant metastasis | | | | M1a | Metastasis confined to one organ or site (for example, liver, lung, ovary, non-regional node) | | | | M1b | Metastases in more than one organ/site or the peritoneum | | | Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
@@ -153,16 +189,6 @@ tags:
 - ...thyroid carcinoma, FTC): - a. 由濾泡上皮細胞衍生而來,約佔甲狀腺癌的 10%。 - b. 好發在 50 歲之後,女性的發生率為男性的三倍。 - c. 單發性,不易局部淋巴轉移,反而易經血流轉移至遠端肺、骨骼、及肝臟。 - d. 10 年存活率約為 60~80%。 - e. 病理特色:侵犯包膜(capsule)、血管和淋巴管。FNA 不易和腺瘤作區別。 - f. Hürthle cell carcinoma:濾泡癌的一個亞型,好發老年、好淋巴轉移且對 131I 有抗性。 - g. Thyroglobulin 也可作為其 tumor marker。 - h. 治療: - (a) Thyroid lobectomy:腫瘤 1 公分、多發性、大幅度侵犯包 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...EV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直持續或加重。 - d. 動脈瘤破裂。 - e. 根據 Aortic Size Index(ASI = Aortic Diameter/Body Surface Area),如果病患 為 BSA 較小的女性,動脈瘤長比較快且易 rupture,故最 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 2. Liver abscess • Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
-- 3.60% 為惡性,會轉移到臨近淋巴結或肝臟。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- (D) 肝臟邊緣 (liver edge) Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- 2. 肌肉蛋白的分解可產生較多的支鏈性胺基酸(Leucine、Isoleucine 和 Valine),再轉換成 alanine 及 glutamine 以提供肝臟合成葡萄糖。此外,傷口產生的乳酸和脂肪氧化產生的甘油(glycerol)也可供應葡萄糖合成。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- 3. 重症患者其身體代謝改變如下: - (1) 脂肪分解增加。 - (2) 糖質新生作用增加,但其能量消耗比例降低。 - (3) 乳酸及丙酮生成增加。 - (4) 肌肉分解增加,周邊組織支鏈胺基酸氧化增加,非支鏈胺基酸運往肝臟的量增加。 - (5) 肝臟合成蛋白質以及尿素生成(ureagenesis)增加。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- 4. 葡萄糖代謝作用: - (1) 一克葡萄糖產生四大卡,受傷時血糖會持續升高,原因為: - a. 交感神經興奮腎上腺分泌,刺激肝醣分解以及胰臟分泌昇糖素(glucagon), 使得肝臟的肝醣分解(glycogenolysis)增加。 - b. 缺氧組織產生的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的糖類,也有肝臟 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (4) 成年人捐贈部分肝臟移植於其五親等以內之姻親,或滿十八歲之未成年人捐贈部分肝臟移植於其五親等以內之親屬,則不受「需為成年人」及「移植對象」之限制。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (5) 滿十八歲之未成年人捐贈肝臟,並應經其法定代理人出具書面同意。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (2) 刀傷以最常傷及肝臟,槍傷則最常傷及小腸。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- (2) 腹部鈍傷最常傷及脾臟,其次為肝臟。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 
 ## Clinical Caveats
 
@@ -171,7 +197,9 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/focal-nodular-hyperplasia|Focal nodular hyperplasia, FNH (局部結節性增生)]]
+- [[conditions/hepatic-adenoma|Hepatic adenoma (肝腺瘤)]]
+- [[conditions/hepatic-hemangioma|Hepatic hemangioma (肝血管瘤)]]
 
 ## Follow-up
 

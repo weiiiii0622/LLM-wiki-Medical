@@ -23,6 +23,8 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'NSAIDs (非類固醇消炎藥)'
   - 'NSAIDs'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,16 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- 2. 藥物引發:長期 NSAID、Aspirin、Plavix 或合併 steroid 使用容易造成消化性潰瘍。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 1. 根據 Modified Johnson classification,針對位置與其潰瘍產生的機轉作分類。 - (1) 第一型:潰瘍位於胃小彎處,與胃酸分泌量無關。 - (2) 第二型:出現兩個潰瘍,一個位於 胃部,另一個位於十二指腸。與較 高的胃酸分泌量相關。 - (3) 第三型:位於幽門前方的潰瘍,可 能會出現多個潰瘍。與較高胃酸分 泌量相關。 - (4) 第四型:潰瘍靠近胃與食道交界處。 通常與胃酸的分泌量無關,可能與 黏膜防衛機制缺陷相關。 - (5) 第五型:潰瘍可能位於任何位置, 與服用藥物如 NSAID 或 aspirin 相關。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (4) 好發於年紀較大、合併多種系統性疾病的病人,並且使用一些容易造成 ulcer 的 藥物如 NSAID 或 aspirin 所導致。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- ...的患者。賀爾蒙載體陽性的患者,表示患者的乳癌細胞會受到體內的女性賀爾蒙刺激而生長,因此可經由給予抗女性賀爾蒙,抑制殘留癌細胞的生長。包括 Tamoxifen、芳香環酶抑制劑、LH-RH agonist。 - a. Tamoxifen: 為非類固醇的抗雌性激素。 - (a) 作用機轉: - i. 與雌激素接受體結合,抑制內生性雌激素作用。通常需持續服用5年, 5年後產生抗體,不需繼續使用。 - ii. 適用於停經前婦女,為第一線用藥。若 Tamoxifen 無效,可改用芳香 環酶抑制劑 (Aromatase Inhibitor)。 - (b) 副作用: - i. 熱潮紅。 - ii. 噁心、嘔吐。 - iii. 陰道出血。 - iv. 增加子宮內膜癌的機率。 - v. 增加靜脈栓 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- ii. 停經前與停經後的雌激素來源不同。停經後,體內利用**芳香環酶**將雄性激素轉換成雌性激素,所以可藉由抑制**芳香環酶**導致雌激素濃度下降。可分為非類固醇類芳香環酶抑制劑如 Anastrozole(Arimidex)、Letrozole(Femara)與類固醇類芳香環酶抑制劑如 Exemestane(Aromasin)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - b. 早產兒可注射 indomethacin,能使約 70~90% 的動脈導管關閉。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 3. Subacute (de Quervain) thyroiditis: - (1) 亞急性甲狀腺炎,好發於年輕女性,往往伴隨著上呼吸道病毒感染後發生。 - (2) 前期濾泡細胞遭浸潤破壞,而釋放出大量 T3、T4,造成甲狀腺機能亢進,之後 會因為回饋機制 TSH 分泌下降而變為甲狀腺機能低下,最後回復正常。 - (3) 病人甲狀腺不規則腫大,感到頸部甲狀腺區域疼痛感,且會輻射至下頷、耳朵 或後頸部,甚至前胸和手臂。 - (4) 可給予 NSAID,多數病患會在幾個禮拜內自行緩解。如果口服藥物數月後仍無效,須考慮 thyroidectomy。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 4. 常見引起固定性藥物疹之藥物為 Tetracyclines、NSAID、磺胺類藥物 (sulfadrugs)、Aspirin、Barbiturates。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
@@ -76,11 +85,6 @@ tags:
 - 4. 治療:治療方向為矯正電解質異常如低血鉀與低血鎂。Gitelman syndrome 不需 indomethacin 治療。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 2. 退燒的藥物,以 acetaminophen 及 NSAID 為主,18 歲以下兒童不可使用 aspirin(可能導致雷氏症候群)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (C) 2.5 天大男嬰,被發現有呼吸窘迫、發紺、及心雜音。呼吸次數每 98(-)專分鐘 74 次合併厲害胸凹現象,肝臟於右肋骨下 5 公分摸得到, 醫四-7 其右手血壓為 66/40 mmHg,左手及下肢血壓約為 44/20 mmHg。 同時合併低血鈣。下列何者為不適當的處理? - (A) 給予氣管插管(intubation)維持呼吸,並給予氧氣 - (B) 給予靜脈注射 dopamine、dobutamine - (C) 給予靜脈注射 indomethacin - (D) 抽血檢查是否合併染色體 22q11 缺失症 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- 2. 危險因子:出生時窒息(birth asphyxia)、胎便吸入性肺炎、早期發生的敗血症 (early-onset sepsis,如B群鏈球菌肺炎)、低血糖、紅血球增多症(polycythemia)、 母親在懷孕過程中使用 NSAID 造成動脈導管收縮、羊水過少(如 Potter 症候群)、 母親有糖尿病、先天性橫膈疝氣造成肺部發育不良等。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...--------------| | (A) | 7.46 歲女病人主訴兩側手腕關節及手指關節腫痛已 3 個多月。抽血檢查,ESR 及 CRP 皆明顯上升,且類風濕因子也呈陽性。雙手 X 光也發現關節邊緣性腐蝕現象。此時,除給予消炎止痛劑 (NSAID) 外,最適宜再給予的免疫調節劑為下列那一種? (A) methotrexate (B) cyclosporine (C) cyclophosphamide (D) azathioprine | 103(二)專醫三-8 | | (B) | 8. 下列何者對 Cyclooxygenase (COX)-2 之選擇性抑制性最高? (A) 阿斯匹靈(Aspirin) (B) Celecoxib (C) Ibuprofen (D) Indomet Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...modifying anti-rheumatic drugs)的特性描述,何者正確? (A) 有很強的消炎及止痛效果 (B) 通常服藥後一週內便會開始有效 (C) 會改善患者血清學的異常 (D) 長期服用會治癒風濕病 【詳解】(A) 須靠 NSAID;(B) 須服藥 1~3 月以上才有效果,所以急性期須靠 NSAID消炎、止痛;(D)僅會延緩疾病(Erosion)進展。 | 94(三)檢內-45 | | (A) 17 | . 下列何種治療類風濕性關節炎的藥物,較容易導致結核菌的復發或感染? (A) tumor necrosis factor inhibitors (B) methotrexate (C) sulfasalazine (D) leflunomide 【詳解】結核菌的復 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (B) 非類固醇類抗發炎藥 (NSAID) 控制神經痛之效果良好 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (C) 對非類固醇類抗發炎藥無效之疼痛,可給予 meperidine (Demerol) Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

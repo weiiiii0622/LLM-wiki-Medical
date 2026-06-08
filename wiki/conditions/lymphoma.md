@@ -34,6 +34,10 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch10]]"
+  - "[[sources/med5-book3-ch22]]"
 aliases:
   - 'Lymphoma (淋巴瘤)'
   - 'Lymphoma'
@@ -48,7 +52,7 @@ tags:
 
 ## Summary
 
-淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +86,20 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch10]]
+- [[sources/med5-book3-ch22]]
 
 ## Key Details From Sources
 
+- J. 胃淋巴瘤(Gastric lymphoma) 47 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 2. 胃癌包括胃腺癌、惡性淋巴瘤等,其中胃腺癌約佔90%。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 1. 病理類型: - (1) 胃腺癌 (adenocarcinoma): 90%。 - (2) 類癌 (carcinoid):5%。 - (3) 惡性淋巴瘤 (lymphoma): 3%。 - (4) 惡性胃腸基質瘤 (gastrointestinal stromal tumors, GISTs): 1%。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 1. 腺癌 (Adenocarcinoma): - (1) 前言:**腺癌(Adenocarcinoma)**是最常見的小腸惡性腫瘤,較常出現在年紀大的患者。 - a. 腺癌 (Adenocarcinoma): 40% - b. 類癌 (Carcinoid): 25% - c. 淋巴癌 (Lymphoma): 10%~20% - d. 平滑肌肉瘤 (Leiomyosarcoma): 20% Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (D) 淋巴瘤 (lymphoma) Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
+- 1. 哺乳乳腺炎 (Lactational mastitis): - (1) 前言:是一種乳房組織的感染發炎現象, Staphylococcus aureus 為主要的致病菌。 好發於哺乳的婦女,但並非絕對。 - (2) 症狀: - a. 發燒、畏寒。 - b. 乳房的紅、腫、熱、痛。 - c. 乳頭分泌物較不常見。 - d. 腋下水腫與疼痛,與 lymphadenopathy 相關。 - (3) 治療: - a. 抗生素治療 - b. 可增加哺乳或母乳收集的頻率,可達到症狀緩解的效果。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - 4. 甲狀腺淋巴瘤(thyroid lymphoma): - (1) 相當罕見且多和 Hashimoto thyroiditis 有關。大部分為 non-Hodgkin lymphoma。 - (2) 只能藉由 biopsy 去診斷, FNA 幫助不大。 - (3) 主要治療為 radiotherapy。 - (4) 預後和有沒有侵犯出 thyroid capsule 有關,如果僅侷限在包膜內其五年存活率 為 85%,反之,只剩下 40%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (A) 類癌 (carcinoid) (B) 淋巴癌 (lymphoma) Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 1. 淋巴癌:結腸直腸為淋巴癌最常轉移之處,腸胃道淋巴癌中也有 10% 為 primary non-Hodgkin lymphoma。常見症狀為腹痛、排便習慣改變、體重減輕和血便。治療方法為手術切除和術後化療。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
@@ -96,13 +111,6 @@ tags:
 - (A) 1. 愛滋病毒感染和器官移植後,長期接受免疫抑制劑治療的病人會 105(二)專 增加下列何種腦腫瘤的罹患率? 醫四-56 - (A) 原發性中樞神經淋巴瘤(primary CNS lymphoma) - (B) 腦膜瘤 (meningioma) - (C) 室管膜瘤 (ependymoma) - (D) 顱咽管瘤 (craniopharyngioma) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (D) 2. 下列何種腦腫瘤使用皮質類固醇(corticosteroid)治療後,雖然 105(-)專會減輕腦水腫(brain edema),但也會使腦腫瘤消退(tumor regression)而影響正確的組織細胞學的診斷(histological diagnosis)? - (A) 多形性膠質母細胞瘤 (glioblastoma multiforme) - (B) 室管膜瘤 (ependymoma) - (C) 顱咽管瘤 (craniopharyngioma) - (D) 原發性中樞神經淋巴瘤 (primary CNS lymphoma) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 【詳解】CNS lymphoma 對類固醇的反應很好。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- 2. 原發性腦腫瘤 - (1) 神經膠瘤 (glioma) 最為常見 (43.9%), 包含 glioblastoma、astrocytoma、oligodendorcyte、ependymoma; 惡性機會高。 - (2) Meningioma (17.2%): 好發女性,為良性腫瘤可手術摘除; - (3) Pituitary adenoma (8.6%) Schwannoma (7.0%) Lymphoma... Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- ...| | | (C) 是後顱窩(posterior fossa)最常見之腫瘤 | | | (D) 加碼刀(gamma knife)的治療限於小於 3 公分 | 者 | | 【詳解】第 59 題一律給分。 | | | (A) 12. 腦部原發性淋巴瘤 (primary central nervous system by | ymphoma)的 106(二)專 | | 治療方式中,下列何者最不適當? | 醫四 -60 | | (A) 外科手術 (B) 類固醇 | | | (C) 放射治療 (D) 化學療法 | | | 【詳解】lymphoma對化療及放療反應佳,一般較不 | 會考慮手術。 | | (B) 13. 治療偏頭痛的 triptans 類藥物是影響到 5HT 的那個 | 受體 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (a) 水痘疫苗預防接種: - i. 為活性減毒疫苗,出生滿 1 歲至 12 歲接種一劑即可,12 歲以上者則 須接種兩劑,效價為十年,不過預防效果約 80%,故仍有可能於接種 疫苗後得到水痘。 - ii. 禁忌:先天性免疫功能缺陷、淋巴瘤或腫瘤、有症狀的愛滋病患、接受高劑量類固醇治療者、孕婦、21 天內有接觸水痘或帶狀疱疹病患、對 Neomycin 過敏者禁止接種疫苗。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- ...gglutination assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) 淋巴瘤 (Lymphoma) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (3) 伴隨淋巴結和內臟的侵犯:lymphadenopathy、hepatosplenomegaly Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (C) 16. 一位 70 歲男性,因為淋巴瘤接受了三次的 CHOP 化學治療,最 近二至三週在四肢陸續出現暗紅至暗紫色的丘疹及斑塊,皮膚 切片檢查如圖示,此病患最可能的診斷為何? Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

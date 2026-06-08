@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Candidiasis (念珠菌感染)'
   - 'Candidiasis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch05]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- ...下列有關肝癌之敘述,何者正確? | 100(一)專 | |---------------------------------------------------|-----------| | (A) 50% 的病人是手術切除的 good candidate | 醫五 -25 | | (B) 肝移植的成績可達 5 年 80% 的存活率 | | | (C) 術前肝功能是很重要的 | | | (D) CT arterioportography(CTAP)是重要的檢查,檢查時需要 | | | 做 portal vein cannulation | | | 【詳解】(A) 不到 20% 為手術切除的 candidate。(B) 五年的肝移 | | | 植成績可高達 92%。(D)CTAP:將顯 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 黴菌感染: Candida albicans 最常見,為伺機性感染。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -72,7 +75,6 @@ tags:
 - (2) 臨床表現: 典型表現為多尿與劇渴、夜尿、體重減輕。另外病人會有倦怠、無力、 視力模糊及會陰部念珠菌感染(在女童及嬰兒常見)。有 20~40% 病人一開始就 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...動力並無明 顯異常,下列何種疾病最有可能? - (A) acute graft-versus-host disease (GVHD) - (B) chronic graft-versus-host disease (GVHD) - (C) Candida infection - (D) Epstein-Barr virus (EBV) infection Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 5. 末期病人的症狀處置-消瘦(Cachexia)與厭食(Anorexia) - A: Aches (疼痛) - N: Nausea ( 噁心 ) - O: Oral candidiasis (口腔念珠菌) - R: Reactive depression (憂鬱症) - E: Evacuation problems (排便問題) - X: Xerostomia (口乾) - I: Iatrogenic (化療、放療、藥物相關) - A: Acid-related problem (胃炎、腸胃潰瘍) - 重 1. 厭食是疾病的一部分,病人不會因為飢餓而死亡 - 要 2. 末期病人的水和食物需求通常不多,並不會因為飲食的下降而造成不舒服 - 觀 3. 勉強病人進食,無法改善其生活品質或延長生命 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...鴿糞/土壤→吸入肺中,通常無症狀 | 不需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluconazole | | | ポルエ(球黴菌) | | | 常在菌→鵝口瘡 (thrush) / 尿布疹 | 局部 Nystatin/Azole. | | | (本版图) | 念珠菌 | Candida | →擴散性念珠菌血症 | → Fluconazole,echinocandin | | | 系統性(絲黴菌) | | | 腐敗植物→麴菌球 (Fungus ball) | 開刀 | | | | 麴菌 | Aspergillus | →侵入性麴菌病 (Invasive asper.) | → Voriconazole,Amp Source: [[sources/med3-book3-ch20|子、黴菌學]].
 
 ## Clinical Caveats
 

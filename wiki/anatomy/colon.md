@@ -64,6 +64,18 @@ sources:
   - "[[sources/med5-book2-ch15]]"
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch05]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch04]]"
+  - "[[sources/med5-book3-ch06]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med5-book3-ch16]]"
 aliases:
   - 'Colon (大腸)'
   - 'Colon'
@@ -78,7 +90,7 @@ tags:
 
 ## Summary
 
-大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -142,9 +154,31 @@ tags:
 - [[sources/med5-book2-ch15]]
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch05]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch04]]
+- [[sources/med5-book3-ch06]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch08]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch12]]
+- [[sources/med5-book3-ch16]]
 
 ## Key Details From Sources
 
+- 3. 十二指腸或大腸阻塞(Duodenal/colon obstruction)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 此張可見擴張脹大的小腸,大腸的腸 氣不明顯。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
+- (A) 5. 一位 53 歲男性,主訴腹部疼痛及嘔吐。患者於 3 年前曾因大腸腫瘤接受右側結腸切除術,半年前病患亦有一次相似的腹部疼痛,於急診室處理後症狀改善而出院。此次病患仰臥腹部 X 光片顯示於左上腹部及左下腹部出現充滿氣體之脹大空腸腸管,6小時後追蹤之腹部 X 光片仍顯示脹大的腸管,但是腸管內之氣體消失明顯,被腸腔內液體所取代。身體診查發現病患腸音靜止,患者無排氣無排便。下列何者與患者的病情變化最不相符? Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
+- (C) 7. 吳先生被送至醫院急診時,主訴為腹脹併腹絞痛兩天,當天並有嘔吐現象,過去兩天吳先生未排便但有排氣。身體診查體溫 37.5 ℃,心跳速率每分鐘 102 下,呼吸速率每分鐘 18 下,血壓 130/60 mmHg。腹部診查顯示有右腹部壓痛、反彈痛及右下腹闌尾切除術後疤痕。經抽血檢查及輸液補充,腹部 X 光攝影顯示有小腸阻塞現象,於是進一步安排腹部電腦斷層檢查。則有關腹部電腦斷層檢查的敘述,下列何者錯誤? - (A) 此時電腦斷層檢查通常須配合喝水溶性顯影劑(water soluble contrast) - (B) 電腦斷層檢查中,水溶性顯影劑在24小時內出現在大腸顯 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
+- (2) Hereditary nonpolyposis colon cancer (HNPCC) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (A) hereditary nonpolyposis colon cancer Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (B) colon laceration Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 2. 吸收過後的食物殘渣在腸道蠕動的推動將會繼續被運向大腸。 Source: [[sources/med5-book3-ch04|甲、解剖構造]].
+- 3. 人體內每天約有8到10升的水分進入小腸,只有少數不到500 mL的水分會進入大腸。 Source: [[sources/med5-book3-ch04|甲、解剖構造]].
+- 5.50%的病人在憩室中會發現其他異位黏膜組織,胃黏膜最常見(占60%),其他如 胰臟組織或大腸組織。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - #### 丙、大腸憩室疾病 (Colonic Diverticular Disease) Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - 1. 大腸憩室為穿透大腸壁的囊狀突起物,一般真憩室(true diverticulum)是整層的腸壁向外突出,但大腸憩室為大腸黏膜層穿透過肌肉層向外膨出,肌肉層並沒有一起膨出,所以叫作偽憩室(false diverticulum)。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - 2. 大部分大腸憩室的膨出點是在腸壁較為脆弱之處,通常是血管穿透肌肉層的地方, 也就是 lateral mesenteric (antimesenteric) taeniae 的 mesenteric side 靠近 mesenteric taenia 處,不會發生在 lateral mesenteric taeniae 的 antimesenteric side。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
@@ -153,16 +187,6 @@ tags:
 - (B) 3. 一位 60 歲的女性到某健診中心接受例行健康檢查,在作完 60 公分長的乙狀結腸鏡檢查後,立刻出現腹痛及腹脹的症狀,理學檢查有下腹部壓痛的病徵,但並無反彈性壓痛。經照過腹部 X 光,發現在後腹腔(Retroperitoneum)有少量 free air,胸部 X 光檢查也出現少許縱隔腔的 free air,腹部電腦斷層掃描也看得出有少量的 retroperitoneal free air,但並無腹膜腔內之 free air。在乙狀結腸鏡檢查過程中有發現 sigmoid colon diverticulum,但並未進行任何切片檢查或息肉切除。依上述,病人最有可能發生什麼狀況? Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 - 1. 大腸至直腸總長約 150 cm:盲腸(10 cm)→升結腸(15 cm)→ hepatic flexure → 横結腸(45 cm)→ spleen flexure →降結腸(25 cm)→乙狀結腸(15~50 cm,平均 38 cm)→直腸(12~15 cm)→肛門。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
 - (3) 以 IMA 為例,其中一個動脈分支由大到小為 IMA → left colic artery → marginal artery → vasa recta → colon。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
-- 2. 電解質: 大腸會主動吸收鈉和氯,並分泌出鉀和 HCO,,,,,主要由升結腸負責。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
-- (1) Open repair: - a. 心肌梗塞最常見。 - b. 腎衰竭:第二常見。 - c. 肺炎。 - d. Ischemia colitis: 術中 improper ligation of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 interna Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- .... Clostridium perfringens (產氣莢膜梭菌): 能分解肌肉和結締組織中的糖類, 產生大量氣體造成氣腫,影響血液循環造成壞死 (gas gangrene)。 - b. Clostridium difficile:偽膜性大腸炎(Pseudomembranous colitis)的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidaz Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- ...-----------------------------------|-------------| | | (C) 不抽菸的年輕病人 (D) 營養不良 | | | (C) 13. | . 對於 Clostridium difficile colitis 敘述,下列何者錯誤? (A) 百分之 45 到 55 的 Clostridium difficile colitis 發生在外科的病患,尤其是接受一般外科和血管外科手術的機會最高 (B) Clostridium difficile 過度增生會造成不同程度的疾病,從沒有症狀的帶原者到 self-limited colitis,偽膜性大腸炎(pseudomembranous colitis),猛爆性大腸炎(fulminant coliti Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- (D) 10. 一人獨居臺灣的趙女士因大便習慣改變接受大腸鏡檢查,被發現 在乙狀結腸有環形生長的腫瘤,且即將完全阻塞腸道。在醫師告 知她必須接受手術時她斷然拒絕,並告知醫師她的先生和獨生 子先後因傷病接受手術引發併發症而死亡。接下來,醫師最合 官的處理方式為何? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (C) carcinoembryonic antigen (CEA) and colon cancer Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- ...A) Carbohydrate antigen 19-9(CA19-9)通常用來當胰臟癌的 | 醫五 -8 | | tumor marker | | | (B) Carcinoembryonic antigen (CEA) 臨床上常用來監測大腸直 | | | 腸癌 | | | (C) α-fetoprotein 在胎兒時會下降,出生後會逐漸上升,懷孕時 | | | 會下降 | | | (D) CA-125 在子宮內膜異位和肝硬化的病患會上升 | | | 【詳解】(C) $\alpha$ -fetoprotein 懷孕第四週時,便能在胎兒血清中偵 | | | 測到,到第 12 至 16 週時濃度達到最高點,接著開始逐漸下降, | | | 直到出生。出生後 $1$ 歲以前,血中 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (C) 15. 關於大腸直腸穿刺傷(penetrating colorectal injury)的敘述,下列何者錯誤? Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- (A) 大腸直腸穿刺傷的處理必須考慮受傷的機制、受傷後到外科 手術間的時間延遲、病人腹膜腔內所受到感染的程度 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 
 ## Clinical Caveats
 

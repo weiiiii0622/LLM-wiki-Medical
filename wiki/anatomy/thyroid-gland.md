@@ -58,6 +58,9 @@ sources:
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch22]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Thyroid gland (甲狀腺)'
   - 'Thyroid gland'
@@ -72,7 +75,7 @@ tags:
 
 ## Summary
 
-甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -130,9 +133,15 @@ tags:
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch22]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- (B) familial thyroid cancer Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 【詳解】青春期前的孩童出現的乳房腫塊通常為乳房早熟的乳 芽發育,為一良性的表徵。若單側乳房早熟通常追蹤即可,若 是雙側乳房早熟必須考慮甲狀腺低下或性早熟的情形。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
+- ...以決定是否為 | 107(二)專 | | ( ) | 高危險病患時,下列何項不必 | | 醫五 -40 | | | (A) 停經在 55 歲之後 | | | | | (B) 未產婦(nulliparity) | | | | | (C) 曾有甲狀腺病史 | | | | | (D) 初經小於 12 歲 | | | | | 【詳解】乳癌的 risk factor 與F | | | | (D) | | | 107 ( ) = | | (B) | 9. 乳癌最常見轉移部位為下列何 | | 107 (一) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - C. 甲狀腺腫大 (Goiter) 198 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - E. 甲狀腺炎 (Thyroiditis) 200 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - F. 單一甲狀腺結節 (Solitary thyroid nodule) 201 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -148,9 +157,6 @@ tags:
 - d. Hypothyroidism:對冷敏感、黏液性水腫、皮膚乾燥、毛髮粗糙、反應遲鈍。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...syndrome (B) 為避免 refeeding syndrome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutritio Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancreatitis)、poor Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- ...au sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 2. 外科傷口分類: - (1) 乾淨 (clean): - a. 定義:傷口無發炎,且沒有切開經過呼吸道、消化道、泌尿道或生殖道的手術。 - b. 手術類型:Hernioplasty、Mastectomy、Thyroidectomy、Vascular procedure。 - c. 感染機率: 2%。 - d. 一般不使用預防性抗生素,時間較長者或是有植入物者,如關節置換和心臟 瓣膜置換手術,可使用第一代 cepha 為預防性抗生素。 - (2) 乾淨但易受汙染 (clean-contaminated): - a. 定義:在控制情形下,有切開經過呼吸道、消化道、泌尿道或生殖道的手術。 - b. 手術類型:Gastrectomy、Hysterectomy Source: [[sources/med5-book1-ch05|戊、外科感染]].
 
 ## Clinical Caveats
 

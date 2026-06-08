@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch05]]"
   - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med5-book3-ch02]]"
 aliases:
   - 'Gout (痛風)'
   - 'Gout'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-尿酸鹽結晶造成急性關節炎與慢性痛風石。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿酸鹽結晶造成急性關節炎與慢性痛風石。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch05]]
 - [[sources/med4-book2-ch06]]
+- [[sources/med5-book3-ch02]]
 
 ## Key Details From Sources
 
+- 情況: 蔡先生,男性,50歲,患有痛風及慢性十二指腸潰瘍多年。蔡先生雖然有到醫院看病但沒有按時服藥,並有亂吃止痛藥的習慣。這次入院是因為上腹脹痛及嘔吐已有1星期之久,理學檢查發現有傾倒聲(splash sound)。依此回答第24題至第25題。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (C) 3.38 歲男性,最近因罹患痛風接受藥物治療,兩週後在頭臉、軀 104(二)專 幹、四肢快速出現皮疹(如圖 A 與圖 B),口腔糜爛、眼結膜紅 醫四 -42 腫、會陰部糜爛、身體發燒,最可能之診斷為何? Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 【詳解】有痛風接受藥物治療的藥物史,短期間內迅速早成皮 膚表皮大面積脫皮潰爛,□腔、眼結膜、生殖器等黏膜部位也 受影響,發燒,懷疑是 allopurinol 所引起的 SJS/TEN。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - C. 痛風 (Gouty arthritis, GA) 74 Source: [[sources/med3-book4-ch06|己、關節炎變]].

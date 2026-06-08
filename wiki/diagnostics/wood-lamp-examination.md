@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Wood lamp examination (伍氏燈檢查)'
   - 'Wood lamp examination'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-紫外光輔助辨識 erythrasma、pityriasis versicolor、部分 tinea 與色素異常。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+紫外光輔助辨識 erythrasma、pityriasis versicolor、部分 tinea 與色素異常。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- ...,因此視為一個較差的預後因子。 - (a) Her2/neu (score: 0、1+): 無過度表現, negative。 - (b) Her2/neu(score: 2+):結果並不明確,borderline,進一步作螢光原位雜合技術(fluorescence in situ hybridization, FISH)。 - (c) Her2/neu (score: 3+):表過度表現, positive。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - e. 病理變化: - (a) 表皮內的基底層(Stratum basale)與其上的表皮細胞分離,形成表皮層 內裂縫(Intraepidermal cleft),裂縫中有許多游離的 acantholytic cell,故 此種水泡稱為 suprabasal blister。 - (b) 直接免疫螢光染色(Direct immunofluorescence, DIF): IgG 和 C3 沉積在細胞間隙 (intercellular deposition), 呈現網狀的「IC pattern」, 如右圖可見表皮層自基底層 以上剝離,DIF 呈網狀圖案。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - ...、潰爛、皮膚脆弱起水泡及多毛症。 - (3) 誘發因子:過度飲酒(最重要)、過度鐵質攝取、病毒感染(特別是 HCV, HIV)、殺真菌劑和除草劑中所含的碳氫鹵化物、長時間 hemodialysis 或 estrogen 治療。 - (4) 伍氏燈照射下尿液呈粉紅色。 - (5) 處置: - a. 避免酒精和鐵質攝取、減少陽光曝曬、避免服用 estrogen 或接觸到含碳氫鹵 化物的物質。 - b. 除了避免危險因子外,最有效的治療方法為放血療法(phlebotomy),降低體 內鐵沉積對肝、心等器官的損害。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (C) 10 一位 70 歲男性,三個月來在軀幹、四肢出現如圖 A 的繃緊水疱(tense bullae),合併糜爛(erosion)及痂皮(crust)的形成。醫師取水疱做皮膚切片如圖 B,同時做直接免疫螢光檢查(direct immunofluorescence test)發現在真皮表皮交界處(dermo-epidermal junction)有 linear IgG 及 C3 deposition 如圖 C。最可能的診斷為: Source: [[sources/med4-book2-ch03|丙、水泡疾病]].

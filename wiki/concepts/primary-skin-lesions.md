@@ -22,6 +22,9 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch23]]"
 aliases:
   - 'Primary skin lesions (基本皮膚病灶)'
   - 'Primary skin lesions'
@@ -36,7 +39,7 @@ tags:
 
 ## Summary
 
-以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +61,16 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch03]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch23]]
 
 ## Key Details From Sources
 
+- 4. 治療:也可分成十二指腸潰瘍穿孔與胃潰瘍穿孔兩部分作治療。 - (1) 十二指腸潰瘍穿孔(Perforated duodenal ulcers): - a. 採用簡單縫合再加上 omental patch 與腹腔灌洗 (abdominal cavity lavage)。 - b. 若合併有幽門狹窄或出血,可 考慮神經幹切斷術(Truncal vagotomy)加上幽門整形術 (pyloroplasty)。 - c. 手術完成之後,必須針對幽門 桿菌感染持續治療。 - (2) 胃潰瘍穿孔(Perforated gastric ulcers): - a. 若病人生命徵像不穩定:於潰瘍處做切片及縫合即可。 - b. 視病人情況可考慮作迷走神經 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- ...除術 (truncal vagotomy + antrectomy) | | | (D) 高選擇性迷走神經切除術(highly selective vagotomy) | | | 【詳解】十二指腸潰瘍通常採用簡單縫合再加上 omental patch | | | 與腹腔灌洗(abdominal cavity lavage)。 | | | (D) 17. 承上題,術中不須作何處置? | 100(一)專 | | (A) 以生理食鹽水清洗腹腔 (B) 送幽門螺旋桿菌培養 | 醫五 -33 | | (C) 腹腔滲出物送細菌培養 (D) 術中超音波檢查 | | | 【詳解】偏肝膽系統的疾病才會使用到術中的超音波。 | | | (C) 18. 臨床懷疑 PPU (perforated pept Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 4. 診斷: 先以腹部超音波作為初步追蹤篩檢的工具。除了觀察肝內是否有不正常的 nodule,也可以看整個 liver 的 background 狀況。若真的有發現腫塊,進行下一步的檢查。 - (1) 小於 1 cm 的腫瘤:每 3 個月後作一次腹部超音波,若大小不變的話則回到正常 篩檢,若腫瘤變大的話則依據腫瘤大小作進一步的檢查。 - (2) 介於 1 cm 與 2 cm 之間的腫瘤: - a. 若病患本身為高危險群或肝硬化的患者,若兩種影像檢查都具有典型的血管表現,則不須做切片,直接診斷為 HCC。 - b. 若如果只有一 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 4. 超音波下的惡性表現: - (1) 腫塊邊緣呈針刺狀(sonographic spiculation)。 - (2) 腫塊本身是往深處侵犯的(deeper than wide)。 - (3) 小葉狀的腫塊 (microlobulations)。 - (4) 低迴音腫塊 (hypoechoic nodule)。 - (5) 後方具陰影 (sonographic posterior acoustic shadow)。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - (7) 處置:藥物可給予前列腺素(PGE1)維持動脈導管的通暢,以減緩陣發性呼吸 困難(缺氧性)。但如須完全矯正仍需要手術。 - a. 完全矯正手術 (total correction): - (a) 將 VSD 修補以及右心室出口或肺動脈狹窄處擴大術,以心包膜片(pericardial patch)來擴大狹窄的肺動脈瓣環(pulmonary valve annulus)。但假 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 4. 主動脈窄縮症 Coarctation of Aorta(CoA): 為 PDA 附近胸 主動脈狹窄,屬於左心出口遠端的問題,不需要使用肺動脈 作材料去修補,用牛或馬心包膜 patch enlargement repair 即可。故答案選擇①與③。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
@@ -75,10 +85,6 @@ tags:
 - Firm tangled mass of blood vessels with small hemorrhages, areas of thrombosis & calcified nodules within the bulk of the lesion - Dilated arterialized veins Dilated aneurysmal segment Diminished blood flow to Enlarged feeding vessel Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 6. Amyloid precursor protein:製造此蛋白質的基因位在染色體 21q,被代謝為 β/A4 protein,是 senile plaque的主要成分,在AD病人腦部發現有過多的 β/A4 protein沉澱。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 9. 神經病理學發現:senile plaque(其他類型失智症也可見到)、neurofibrillary tangle(其他類型失智症也可見到)、neuronal loss(特別是在 cortex 與 hippocampus)、synaptic loss、granulovacuolar degeneration of neurons。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- 【詳解】senile plaque 和 neurofibrillary tangle 均可在阿茲海默失智症以外的疾病看到。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- 1. 蕁麻疹是指皮膚上出現一塊塊的膨疹(wheal),非常癢,有如蚊子叮咬的腫塊,為皮膚表淺血管擴張,通透性增加與水腫所形成,大多會在一天內消去,但易反覆發生,由於來去如風,俗稱「風疹」。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 4. 貼膚試驗(Patch Test):過敏性接觸性皮膚炎用來尋找過敏原的方式,將懷疑的過敏原直接接觸皮膚並用貼布覆蓋固定,48 小時後(因其為 type IV hypersensitivity reaction,需要時間才會反應出來)拿掉貼布觀察有無出現 erythema、papule、vesicle 的情形,72 小時候再觀察一次。(貼膚試驗需等接觸性皮膚炎痊癒後再行此試驗,且需在非病變皮膚部位〔如背部〕測試。) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 5. 典型症狀 5P: Planus (flat-topped)、Pruritic、Polygonal、Purple、Papule (扁平、癢感、多角形、紫色、丘疹)。(右上圖) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 
 ## Clinical Caveats
 

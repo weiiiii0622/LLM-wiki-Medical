@@ -15,6 +15,10 @@ sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch04]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Somatostatin analogs (Somatostatin 類藥物)'
   - 'Somatostatin analogs'
@@ -29,7 +33,7 @@ tags:
 
 ## Summary
 
-降低門脈血流，可用於急性靜脈曲張出血處置。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低門脈血流，可用於急性靜脈曲張出血處置。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +48,20 @@ tags:
 - [[sources/med4-book3-ch02]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch04]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- #### (2) 體抑素 (somatostatin): Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- d. 這是一個滿棒的反向性激素。因此就出現了 **Octreotide** 這樣子人工合成的 somatostatin,當病人腸胃道出血(常用於 EV bleeding),可使用 Octreotide 抑制腸胃道激素的分泌,減緩出血。此外也可利用其抑制生長激素分泌的特性來治療 Acromegaly。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- ...phase)及腸期(intestinal phase) | | | | | | (C) 胃期(gastric phase)所分泌的胃酸佔所有胃酸分泌的 60~7 | 70% | | | | | (D) D 細胞(D cell) 所分泌的 somatostatin 會增加組織胺(h | ista- | | | | | mine)及胃泌素(gastrin)的分泌,進而增加胃酸的分泌 | | | | | | 【詳解】D cell 被氫離子刺激後分泌 somatostatin,會抑制 | | | | | | 部排空、膽囊收縮,也會抑制激素的分泌如生長激素(gro | owth | | | | | hormone)、胃泌素 (gastrin) 等等的激素分泌。 | | | | (D) | 6. | . Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- (A) 製造分泌 somatostatin Source: [[sources/med5-book3-ch04|甲、解剖構造]].
+- 【詳解】小腸粘膜細胞可以合成並分泌多種激素,包含 secretim, cholecystokinin, somatostatin, VIP 等等。 Source: [[sources/med5-book3-ch04|甲、解剖構造]].
+- (B) 長效體抑素作用類似物(long-acting somatostatin analogues) 治療無效 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (c) Octreotide (Sandostatin): 可抑制胰島素及腸道賀爾蒙的作用,延長腸胃排空時間。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - E. Somatostatinoma 231 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 3. 一般為 5 mU/mL、血糖 111In-octreotide scintigraphy(成功率僅 50%,效果劣於偵測其他胰島細胞瘤,因 insulinoma 含的 somatostatin receptor 較少)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (2) 藥物治療:diazoxide、verapamil 或 octreotide 去抑制胰島素分泌,但效果有限。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
@@ -58,11 +73,6 @@ tags:
 - ...| GH | ACTH | | 刺激分泌 | GnRH,estrogen | TRH | TRH,Estrogen | GHRH | CRH, AVP | | 抑制分泌 | Sex steroids | T3, T4, dopamine,somatostatin,glucocorticoids | Dopamine | Somatostatin,IGF-1 | Glucocorticoids | | 目標器官 | 性腺 | 甲狀腺 | 乳腺 | 肝、骨骼肌肉 | 腎上腺 | | 發生作用 | Sex hormone合成、性腺發育 | T4 合成與分泌 | 泌乳 | IGF-1 製造、促進生長 | Steroid 製造 | | 正常範圍 | 參照後面 table | 0.34-4.25 uIU/ Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - ...胞瘤 | 肢端肥大症 (Acromegaly) | 10% | 篩檢:IGF-1 ↑ | 先手術→放射、 | | (Somatotrope = GH) | 巨人症 (Gigantism) | 10% | 確診:OGTT (GH ↑ ) | Somatostatin 輔助 | | 皮促素細胞瘤 | 庫欣式病 (Cushing's dz.) | 10-15% | 24 小時尿液 | 先手術→放射、 | | (Corticotrope = ACTH) | 単次式病 (Cusning s dz.) | 10-15% | free cortisol | Ketoconazole 輔助 | | 甲促素細胞瘤 | 中樞甲狀腺亢進 | 最少見 | | 先手術→ PTU、 | | (Thyrotrope = TS Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - a. 下視丘分泌 GHRH刺激、或分泌 Somatostatin 抑制腦垂體分泌生長賀爾蒙 (Growth hormone, GH), GH本身就能刺激周邊組織合成蛋白質、分解脂肪、拮抗胰島素,導致葡萄糖耐受異常 (impaired glucose tolerance)。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- (D) 為控制腸胃道 NET 所導致的 carcinoid syndrome,可使用 somatostatin analogues Source: [[sources/med3-book2-ch16|辛、其 他]].
-- 【詳解】(B) Ki-67 是核蛋白,在細胞有絲分裂時會大量表現, Ki-67 越多代表細胞複製分裂越快,預後越差。(C) MEN1 缺陷的 是 MENIN。(D) NET 產生過多的血清素 (Serotonin, 5-HT) 可能 產生 Carcinoid syndrome,而有皮膚潮紅、心悸、腹瀉症狀,使用 somatostatin analogues 可緩解症狀。 Source: [[sources/med3-book2-ch16|辛、其 他]].
-- (C) 注射體抑素類似物(somatostatin analogue),為最有效的治療 方式 Source: [[sources/med3-book2-ch16|辛、其 他]].
-- (3) 治療:少量多餐,避免純糖食物,Somatostatin。 Source: [[sources/med3-book2-ch05|庚、胃疾病 – 其他]].
-- ...| Diazepam, Demerol, Viagra | Ethanol, | | 壓力 | Glucagon, VIP, | β-agonist | Morphine, Theophylline | Peppermint, | | | Somatostatin, | | Dopamine, Barbiturate | Caffeine, tobacco | Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

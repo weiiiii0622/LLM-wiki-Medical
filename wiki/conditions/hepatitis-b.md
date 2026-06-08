@@ -30,6 +30,8 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch08]]"
 aliases:
   - 'Hepatitis B (B 型肝炎)'
   - 'Hepatitis B'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,15 @@ HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book2-ch06]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch08]]
 
 ## Key Details From Sources
 
+- (2) 主要的原因是 B 型肝炎及 C 型肝炎在台灣的高盛行率,使慢性肝臟疾病病得以 進一步發展成為肝硬化及肝癌。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (3) B型肝炎 (Hepatitis B)。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (B) 3. 一位 45 歲自小罹患慢性 B 型肝炎的男性病患,主訴一個多月前覺得右上腹疼痛,有時疼痛會延伸到右邊的肩膀。最近一週至門診追蹤腹部超音波顯示有多顆肝臟腫瘤,分別是一顆 2.2 公分大小在 S2 的位置,和另一顆 6.6 公分大小在 S5 的位置,有觀察到低迴音(hypoechoic)的腫塊。進一步安排腹部電腦斷層之後,發現在相同位置有同樣大小的腫塊,並且已經侵犯到右側肝門靜脈。其他部位的腹部超音波和電腦斷層結果皆屬正常。抽血結果發現胎兒蛋白值(AFP)為 230 ng/mL,AST 53 U/L,ALT 68 U/L。則這位病人最可能的診斷為何? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 4. 併發症:除了前述之併發症外,肝臟移植要特別注意的是肝動脈栓塞、門靜脈栓塞、膽管狹窄或 leakage、膽管炎等。另外排斥的比例較高,高峰期是術後 4~21 天,確診須靠切片,治療以類固醇為主。而有 B 型肝炎帶原者之肝臟移植病患,需術後連續施打七天 HBIG,降低 B 型肝炎的復發率,之後一週一次 / 打四個 Course,一月一次 / 打六個 Course。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -91,10 +99,6 @@ HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已
 - (5) 媽媽若為高傳染性 B 型肝炎帶原者(e 抗原陽性),其寶寶應於出生後儘速注射 一劑 B 型肝炎免疫球蛋白,最遲不要超過 24 小時。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 接受一般肌肉注射免疫球蛋白治療或B型肝炎免疫球蛋白 (HBIG)者,宜間隔3個月後再接種MMR、水痘或日本腦 炎疫苗。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (C) B 型肝炎帶原者 (hepatitis B carrier) Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- | 疫苗需求等級 | 疾病種類 | |---------|--------------------------------------| | 必需性疫苗 | 黄熱病 | | 例行性疫苗 | A/B型肝炎、日本腦炎、白喉 / 百日咳 / 破傷風、小兒麻痺、卡介苗及 | | (常規性疫苗) | 麻疹 / 腮腺炎 / 德國麻疹等疫苗 | | 建議性疫苗 | A/B 型肝炎、日本腦炎、腦膜炎、霍亂及傷寒等疫苗 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- ...onth | 第二劑 | | | | | | | | | | | | | | | | | | 24hr 內 | 儘速 | 第一劑 | | | | | | | | | | | | | | | | | | 接種年齡 24hr 內 | 疫苗 | B型肝炎疫苗 (HepB) | 卡介苗 (BCG)¹ | 白喉破傷風非細胞性 | 百日咳、b 型嗜血桿菌及 | 不活化小兒麻痺五合一疫 | 苗 (DTaP-Hib-IPV) | 結合型肺炎鏈球菌疫苗(PVC 13) | 水痘疫苗 (Varicella) | 麻疹腮腺炎德國麻疹混合 | 疫苗 (MMR) | 日本腦炎疫苗(圧)2 | 流歐疫苗 (Influenza)³ | A型肝炎疫苗 (HepA) 4 | 白喉破傷風非細胞性百日 | 咳及不活化 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- 5.106 年 5 月 1 日起,以六合一疫苗暫用以取代嬰幼兒應接種之第 3 劑 B 型肝炎疫苗及五合一疫苗。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 

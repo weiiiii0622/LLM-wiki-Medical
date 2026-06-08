@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book4-ch17]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Hepatitis A (A 型肝炎)'
   - 'Hepatitis A'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-HAV 多經糞口傳染，通常急性、自限性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HAV 多經糞口傳染，通常急性、自限性。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ HAV 多經糞口傳染，通常急性、自限性。 本頁已整合至 `醫(四
 - [[sources/med3-book4-ch17]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- ...le)之肝癌 | | | (B) 19. 肝細胞癌(hepatocellular carcinoma)在流行病學上與下列何者 | 98(一)專 | | 無關? | 醫五-51 | | (A) HBV infection | | | (R) HAV infection | | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - ...個月 | 1. 麻疹腮腺炎德國麻疹混合疫苗第一劑 | | | 山土州121四月 | 2. 水痘疫苗一劑 | | | 出生滿 12~15 個月 | 1.13 價結合型肺炎鏈球菌疫苗第三劑 | | | 口工工(网 12~13 回 万 | 2. A 型肝炎疫苗 | | | 出生滿 15 個月 | 日本腦炎疫苗第一劑 | | | 出生滿 18 個月 3 | 五合一疫苗(白喉破傷風非細胞性百日咳、b 型嗜 | | | | 血桿菌及不活化小兒麻痺混合疫苗)第四劑 | | | 出生滿 18~21 個月 | A型肝炎疫苗第二劑(需與第一劑間隔 6 個月) | | | 出生滿 27 個月 | 日本腦炎疫苗第二劑 | | | | 1. 減量破傷風白喉非細胞性百日咳及不活化小兒麻 | | | 滿 5 歲 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (4) A型肝炎疫苗 107 年 1 月起之實施對象為民國 106 年 1 月 1 日(含)以後出生, 年滿 12 個月以上之幼兒。另包括設籍於 30 個山地鄉、9 個鄰近山地鄉之平地 鄉鎮及金門連江兩縣等原公費 A 肝疫苗實施地區補接種之學齡前幼兒。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) A 型肝炎疫苗 (Hepatitis A vaccine) Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -58,7 +61,6 @@ HAV 多經糞口傳染，通常急性、自限性。 本頁已整合至 `醫(四
 - | | Hepatitis A | Hepatitis B | Hepatitis C | Hepatitis D | Hepatitis E | |-------------|--------------|--------------|-------------|-------------|----------------| | 所屬科別 | 小 RNA 病毒 | 肝炎病毒科 | 黃質病毒科 | 不完全病毒 | 杯狀病毒科 | | 广川海州 | Picornavi Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - (2) 血清檢查:急性期 IgM-anti-HAV(+)、曾經得過 IgG-anti-HAV(+) Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - 1. 肝指數以AST、ALT升高為主,則懷疑是肝臟的問題,如病毒性肝炎、自體免疫性肝炎、 毒藥物性肝炎、脂肪肝等。 - (1) 病毒性肝炎: - a. A 型肝炎:急性期 IgM-anti-HAV(+)、曾經得過 IgG-anti-HAV(+) 可終身免疫(很常考急性期應檢驗 IgM 非 IgG)。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- (C) 2. 一位 28 歳女性病人主訴倦怠與茶色尿。身體檢查顯示有黃疸,無明 104(-)専 顯腹部壓痛。血液檢查顯示: ALT (GPT): 1,890 U/L、AST (GOT): - (A) 急性 A 型肝炎 - (B) 急性 B型肝炎 - (C) 原發性膽汁性肝硬化 - (D) 藥物引起之肝炎 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 
 ## Clinical Caveats
 

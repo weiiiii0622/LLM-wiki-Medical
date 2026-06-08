@@ -26,6 +26,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Hemolytic anemia (溶血性貧血)'
   - 'Hemolytic anemia'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,13 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch17]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- ...一個算一分,累積加總後,依總分預測 mortality。 - (2) On admission: - a. Glucose > 200 mg/dL $\circ$ - b. Age $> 55 \text{ y} \circ$ - c. LDH > 350 IU/L $\circ$ - d. AST > 250 IU/L - e. WBC > 16,000/U1 - (3) Initial 48 hrs: - a. BUN elevation $> 5 \text{ mg/dL} \circ$ - b. Base deficit $> 4 \text{ mEq/L} \circ$ - c. Ca 10\%$ ° - f. fluid Sequestration > 6 L $ Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
+- 【詳解】Ranson criteria on admission:(a) Glucose > 200,(b) Age > 55,(c) LDH > 350,(d) AST > 250,(e) WBC > 16,000。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...呼吸抑制,二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyro Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...部度作遲鈍,目前無有效治療方式。 | 107(二)專醫四-56 | | (A) | 7. 下列何者的異常值高低和粒線體疾病的病況嚴重程度最相關? (A) 血中乳酸量的高低 (B) 血中乳酸去氫酶(lactic dehydrogenase, LDH)的活性 (C) 脊髓液中的蛋白質含量 (D) 脊髓液中免疫球蛋白 G 的指數(IgG index) | 107(二)專醫四 -58 | | (B) | 8. 有關慢性疲勞症候群之敘述,下列何者正確? (A) 最好發於 40~60 歲之男性 (B) 常與 EB 病毒(EBV) 感染相關 (C) 絕大多數是心理因素引起 (D) 與免疫功能異常無關 【詳解】本顯一律給分。 | 105( 二 ) 専醫四 -58 | Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 4. 皮肌炎的診斷標準包括:若符合以下四項中的三項以上,加上典型的皮膚症狀,即可診斷為皮肌炎;而多發性肌炎需符合四項中的三項以上,且無皮膚症狀。需注意的是,有一部分皮肌炎患者僅有皮肌炎的皮膚病變,但臨床上並無肌肉病變症狀且無肌肉酵素或肌電圖異常,稱作 amyopathic dermatomyositis。 - (1) 四肢近端肌肉群對稱性無力。 - (2) 血清中肌肉酵素,如:CPK、LDH、SGOT上昇。 - (3) 肌電圖異常。 - (4) 肌肉切片有發炎性病變。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -85,8 +91,6 @@ tags:
 - ...on (C) hypothyroidism (D) Wilson disease 【詳解】新生兒感染、代謝性疾病(ex:galactosemia、hypothyroidism、tyrosinosis、hypermethioninemia)、溶血性貧血、血 液外渗 (extravasation, 如 cephalohematoma、internal bleeding)、 Crigler-Najjar syndrome type I/II · Gilbert syndrome · biliary atresia、choledochal cyst、biliary narrowing、cholelithiasis 等,均 會造成延遲性黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 4. Direct Coomb test 和 Indirect Coomb test - (1) Direct Coomb test:是指在紅血球細胞的表面上附著有免疫球蛋白或補體,當血液中的洗滌紅血球添加抗球蛋白的血清,而產生凝集反應即表示為陽性。 - a. 例如:新生兒溶血症、自體免疫溶血性貧血(AIHA)、系統性紅斑狼瘡症、 ABO 輸錯血、冷凝集素綜合症。 - (2) Indirect Coomb test: 血清中有無游離的不完全抗體。陽性反應表示血清中有游離的不完全抗體。 - a. 例如:藥物誘發的免疫性溶血性貧血、新生兒同種免疫性溶血病、輸血後症狀。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 1. 病生理學:慢性溶血性貧血。因在第 11 對染色體上 β-globin gene 的 GTG 取代 GAG。 HbS 在去氧時會聚合成新月型。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- ...| α-thalassemia | Silent carrier | α 鏈有三個功能基因 | 無症狀 | | | Trait | α 鏈有兩個功能基因 | 無症狀,僅 Hb 降低 | | | Нь Н | α 鏈有一個功能基因 | 慢性溶血性貧血 | | | | 由於 α 鏈缺乏,只好 | 髓外造血造成肝脾腫大 | | | | 由β鏈構成 HbH | | | | Bart Hb | α 鏈沒有功能基因, | 死胎,hydrops fetalis | | | | 胎兒γ鏈構成 Bart Hb | | | β-thalassemia | Trait | 體隱性遺傳,染色體 | 無症狀 | | | | 11 一個基因缺陷 | 血液抹片:basophilic stippling | | Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (5) 實驗室檢查: Macrocytic anemia, 也可能看到 Leukopenia、Thrombocytopenia; 無效的造血會 造成髓內溶血,所以 LDH, Indirect Bil. 也會上 升(Intramedullary hemolysis)。 Source: [[sources/med3-book4-ch10|甲、貧血]].
 
 ## Clinical Caveats
 

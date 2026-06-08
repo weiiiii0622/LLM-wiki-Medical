@@ -26,6 +26,9 @@ sources:
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Glucose homeostasis (血糖恆定)'
   - 'Glucose homeostasis'
@@ -40,7 +43,7 @@ tags:
 
 ## Summary
 
-胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +69,19 @@ tags:
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- b. 功能:抑制胃部排空、膽囊收縮,也會抑制激素的分泌如生長激素(growth hormone)、升糖素(glucagon)、胰島素(Insulin)、胃泌素(gastrin)、腸泌血管擴張激素(VIP)、胰高血糖素(GLP)、腸促胰泌素(secretin)等等。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- (C) 3. 下列關於胰臟神經內分泌腫瘤之敘述,何者錯誤? 108(二)專 (A) 胰臟功能性神經內分泌腫瘤以胰島素瘤(insulinoma) 最多 醫五-32 (B) insulinoma 的 Whipple's triad 診斷包括:低血糖,因低血糖 出現的症狀及給與葡萄糖後症狀立刻緩解三項 (C) insulinoma 大部分是 hypovascularity。在 contrast enhanced CT 下,易形成完全低顯影的腫塊影像 (D) 發生率男、女性差不多 【詳解】insulinoma 通常為 hypervascular 的 tumor。 (A) 4. Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (BC)21. 一位女性病患多次因飢餓暈倒,心跳加快、冒冷汗,血糖 40 mg/dL,從血管灌注高濃度葡萄糖,症狀立即改善,同時間的 insulin /glucose 比例為 0.52, 腹部 CT 發現胰臟尾部接近脾臟有一個 1.3 公分大小的腫塊,則其最恰當處置為: Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 【詳解】題幹描述,符合 Whipple triad:血糖濃度小於45 mg/ dL,且有低血糖症狀,補充葡萄糖後迅速恢復。此外 Insulin/ Glucose (I/G) 比值 > 0.3,考慮是 insulinoma。在胰尾的 tumor 考慮 distal pancreatectomy。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (B) 2. 關於胰島素瘤(insulinoma)之敘述,下列何者錯誤? Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- (C) 診斷 insulinoma 重要的臨床症狀是 Whipple's triad,包括低血糖的症狀、當時測得的血糖濃度偏低,及給予靜脈注射葡萄糖液可以減輕低血糖的症狀 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- (D) 定位 insulinoma 的影像學工具包括有腹部電腦斷層及磁振造影 【詳解】絕大部分的 insulinoma 為良性,而且是 slow growth。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - A. Insulinoma (胰島素瘤) 228 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - D. Glucagonoma 230 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - #### A. Insulinoma (胰島素瘤) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
@@ -80,13 +93,6 @@ tags:
 - (A) insulin-resistant diabetes mellitus Source: [[sources/med4-book2-ch11|子、其 他]].
 - (A) 可能與胰島素抗性(insulin resistance)的內分泌疾病有關 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (D) glucagonoma syndrome Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- (C) 18. 一位三週大足月順產男嬰,出生體重 3800 公克,因持續發生低血糖而就診,身體檢查未發現任何異常,先前作過的實驗室檢查顯示當其血糖值為 25 mg/dL 時,血漿酮體(ketone bodies)濃度測不到亦無酸血症(acidosis)。下列那一項檢查對此病人診斷的確立,最沒有幫助? - (A) 血清胰島素 (Insulin) 濃度 - (B) 血漿氨 (Ammonia) 濃度 - (C) 左旋-多巴試驗(L-Dopa test) - (D) 升糖素試驗(Glucagon test) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- 【詳解】L-Dopa test是用來偵測 growth hormone deficiency用(L-Dopa 可促進 growth hormone 分泌)。(A) 則是可以用來排除 congenital hyperinsulinism。(B) 當病人有中鏈脂肪酸去氫酶缺乏症時,則出現低酮體低血糖。在急性期,血中的氨、尿酸、肝臟轉胺(liver transaminase)以及肌酸磷酸激酶(creatine phosphokinase)常常會上升。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (A) 3. 關於幼兒持續性高胰島素低血糖症(persistent hyperinsulinemic hypoglycemia of infancy)的敘述,下列何者錯誤? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (1) 又稱為胰島素依賴型糖尿病 (insulin-dependent diabetes mellitus, IDDM)、幼年型糖尿病 (juvenile diabetes mellitus)。由於自體免疫造成胰臟 β 細胞被破壞。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (1) 又稱非胰島素依賴型糖尿病(non-insulin-dependent diabetes mellitus, NIDDM)。 由於週邊組織對胰島素產生抗性,造成相對的胰島素不足。好發在肥胖的青少年,約 90% 有家族史。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- glucagon 以及 clonidine test 等。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (A) 1. 下列何種情形與鉀離子流失所造成的低血鉀 (Hypokalemia ) 最 108( 二 ) 專 無關? - (A) 注射胰島素 (Insulin) - (B) 長期使用利尿劑 (Long-term usage of diuretics) - (C) 腸胃炎引起腹瀉(Gastroenteritis induced diarrhea) - (D) 腎小管酸血症 (Renal tubular acidosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

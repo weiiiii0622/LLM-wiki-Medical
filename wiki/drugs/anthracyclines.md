@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Anthracyclines (蒽環類化療藥)'
   - 'Anthracyclines'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,14 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- (3) 化學治療: - a. 適應症: - (a) 有淋巴結的轉移(N1)。 - (b) 乳癌細胞侵犯大於 $1 \text{cm} \cdot \text{Ki} 67 > 30\% \cdot \text{PR/ER}(-)$ 可考慮做化學治療,但 $\text{PR} \cdot \text{ER}$ 為陽性時不建議做化學治療。 - (c) High grade 的 breast cancer - (d) 必須考慮年紀,年紀大的患者不建議做化療,但年紀輕的病患可能會導致不孕,必須向患者解釋與溝通治療方向。 - b. 常用藥物:包括紫杉醇與 Anthracycline 類藥物。 - (a) 紫杉醇包括太平洋紫杉醇(taxol)及歐洲紫杉醇(Taxotere)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (b) Anthracycline 類藥物包括小紅莓 (epirubicin) 及微脂體小紅莓 (Lipodox)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- ...tage B 的病人,肝腫瘤尺寸較大或為多發性,但尚無血管 侵犯,動脈栓塞術為第一線的治療。 - c. 作法: - (a) 穿刺股動脈並將導管置入股動脈,再往上抵達腹主動脈幹後,繼續往前進入**肝動脈**。 - (b) 使用化學治療藥物如 Doxorubicin 或 Adriamycin 等藥物混合 Lipiodol 顯影 劑針對 HCC 灌注。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - ...ards | Melphalan→多發性骨髓瘤 (MM) | | | | CCNS | | Other | Carmustine (BCNU) · Lomustine (CCNU) | 延遲的骨髓抑制 | | | | | 4 4 12 | Doxorubicin→淋巴瘤 (CHOP)、乳癌、肉癌 | | | | | Antitumor | Anthracycline | Idarubicin → AML (BA7), Epirubicin →乳癌 | 心毒性、發泡劑 ( | | | | Antibiotics | | Mitoxantrone(Novantrone 小藍莓)→前列腺癌 | 心毒性(較少)、發泡劑(冰敷) | | | | rindolotics | | Bleomycin →何杰 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - Doxorubicin ( = Hydroxydaunorubicin) Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - #### 2. 小紅莓 (Anthracycline) 類: Source: [[sources/med3-book4-ch19|乙、化學治療]].

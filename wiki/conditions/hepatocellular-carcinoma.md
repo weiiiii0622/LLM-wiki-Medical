@@ -20,6 +20,12 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch10]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch08]]"
 aliases:
   - 'Hepatocellular carcinoma, HCC (肝細胞癌)'
   - 'Hepatocellular carcinoma, HCC'
@@ -34,7 +40,7 @@ tags:
 
 ## Summary
 
-HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +60,24 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch10]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch08]]
 
 ## Key Details From Sources
 
+- 2. 最常見的肝臟原發癌 (primary cancer) 為肝細胞癌 (hepatocellular carcinoma, HCC), 占了90%以上,其次較為少見的 primary cancer 包括膽管癌 (cholangio-carcinoma),惡性血管瘤 (angiosarcoma)等。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- #### B. 肝細胞癌 (Hepatocellular carcinoma, HCC, 又可稱為 hepatoma) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (1) 根據衛生福利部的統計顯示,肝癌是台灣癌症死亡的第二大原因,每年約有 七千名患者死於肝癌。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (3) 考慮開刀的時機: - a. Kasabach-Merritt syndrome:是一種罕見的凝血異常疾病。血管瘤大量消耗血小板與凝血因子,須緊急切除肝血管瘤部分。較常出現在小朋友身上。 - b. 無法排除是否為肝癌。 - c. 大量出血。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
+- a. FNH的 lesion 中約八成含有**庫佛氏細胞(Kupffer cell**),Kupffer cell 可被**technetium sulfur colloid** 染色,因此可以利用 technetium sulfur colloid 去與**HCC** 做進一步的鑑別診斷。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
+- 1. 肝臟外科主要內容可以分為肝臟解剖組織、肝膿瘍、良性肝腫瘤、惡性肝癌 HCC。這五年的外科學,我覺得在肝臟的題目並不多也很零散,準備起來若是時間不夠,個人覺得可以挑出來看的部分。 - (1) 肝膿瘍:阿米巴性與細菌性的差別、臨床症狀、影像上的 finding。 - (2) **良性肝腫瘤**:肝血管瘤 (hepatic hemangioma)、肝臟局部結節性增生 (FNH, focal nodular hyperplasia)、以及肝腺瘤 (hepatocellular adenoma) 這三種在影像上的差別,如何鑑別診斷。 - (3) **HCC**: HCC 的診斷流程、有哪些治療、什麼時候可以開刀(看一下 BCLC 和 ICG test)。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (D) 肝細胞癌 (hepatocellular carcinoma) Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- (B) 肝細胞癌 (hepatocellular carcinoma) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (B) 4. 下圖是一位肝癌病人的電腦斷層攝影,根據 Couinaud 等所提出, 106 (二) 專 依照門脈分枝的肝臟解剖學分葉,則腫瘤位於肝臟的那一個小葉? 醫五 -23 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - (A) 20. 一般外科的何主任最近進行某項肝癌患者的基因研究,為了要蒐 集健康人之對照組,特邀請未來兩個月到一般外科學習的住院醫 師及實習醫師自願參與這項研究提供 10 cc 之血液檢體。在研究 倫理的觀點上,下列何項是這種納入受試者的方式最大的爭議? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (B) alpha fetoprotein (AFP) and hepatocellular carcinoma Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...中 $\alpha$ -fetoprotein 濃度便降到和正 | | | 常成人相同。 | | | (D) 23. 下列對照的致癌原(Carcinogen)何者錯誤? | 102(一)專 | | (A) 黃麴毒素(Aflatoxins)-肝癌(Hepatocellular carcinoma) | 醫五 -10 | | (B) 幽門 螺 旋 桿 菌(Helicobacter pylori)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
@@ -66,15 +87,6 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 2. 原發性惡性肝臟腫瘤中,超過65%為 hepatoblastoma,其次為 hepatocellular carcinoma。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - (B) 1. 關於兒童惡性肝腫瘤 (malignant hepatic tumor) 的敘述,下列何 107( ) 專 者最不恰當? 醫四 -28 - (A) 肝母細胞癌(hepatoblastoma)主要發生在 3 歲以下的小孩, 而肝細胞癌(hepatocellular carcinoma)的發病年齡較大 - (B) Beckwith-Wiedemann syndrome 的患者,較易發生肝母細胞癌(hepatoblastoma) - (C) 由於 B 型肝炎疫苗的施打,已讓國內肝母細胞癌(hepatoblastoma)發生率顯著下降,但肝細胞癌(hepatocellular carcinoma)則比率維持不變 - (D) 肝細胞癌(hepatocellular carc Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 【詳解】由於 B 肝疫苗施打的普及化,肝細胞癌發生機率與過往相比有明顯的下降。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (C) C型肝炎急性感染 20~30 年後,部分患者會進展至肝硬化 (cirrhosis)、肝衰竭 (liver failure) 甚至肝癌 (hepatocellular carcinoma) Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- | 症 狀 | 媒介物 | 腫 瘤 | |-----------------------|-----|-----------------------------------------| | DIC | | 前列腺癌、APL(M3) | | AIHA | Ab | CLL | | Erythrocytosis | EPO | RCC · HCC · Cerebellar hemangioblastoma | | Eosinophilia | IL5 | Lymphoma > Leukemia | | Pure red cell aplasia | Ab | Thymoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...e cell carcinoma) | 107(一)專醫三-48 | | (B) | 3. 下列腫瘤何者較不會合併紅血球增生症? (A) 腎細胞癌 (Renal cell carcinoma) (B) 淋巴瘤 (Lymphoma) (C) 肝癌 (Hepatocellular carcinoma) (D) 小腦血管母細胞瘤 (Cerebellar hemangioblastoma) | 100(二)專醫三-49 | | (D) | 4. 下列有關癌症的遠處效應(remote effects of neoplasm),何者正確? (A) 是癌症轉移(metastasis)產生 (B) 有些是因為 IgE 自體免疫抗體造成 (C) 只會產生中樞神經病變 (D) 肺癌是常見引起該效 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- (D) 7. 一位 35 歲肝癌末期病患 T,於腫瘤病房住院期間得知自己之病情, 102(二)專 一開始非常震驚、哭泣,其後經過醫護人員與妻子之支持,情緒逐 漸好轉;住院3個星期之後,T主動要求簽署「不施行心肺復甦術」 之意願書,經腫瘤科主治醫師詳細評估並說明後,由 T 親自簽署意 願書。下列敘述何者較為合理? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (C) 某日 T 因為與肝癌病情無關之感冒高燒併發肺炎時,醫護人員 認為T已經簽了「不施行心肺復甦術」之意願書,其實不需積 極治療 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (D) T 出院之後, 散步時因為肝癌末期之器官衰竭路倒, 生命危急, 被好心人送到醫院急診,急診醫師不知T有簽署「不施行心肺 復甦術」之意願書,為T施行插管急救,保住T之生命跡象。 其後,在T之妻的告知下,拔管讓T離開急診回家 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...tinin, mesothelium | 間皮癌 (Mesothelioma) | | | Hara C | CDX2 | 大腸直腸癌、十二指腸 | | | 横膈下 | Hepatocyte paraffin 1 (HepPar-1) | 肝癌 | | | | Prostate specific antigen (PSA) | 35万(II白)(古 | | | 骨盆腔 | Prostate acid phosphatase (PAP) | 前列腺癌 | | | | URO-III, thrombomodulin | 膀胱癌 (Bladder cancer) | | | | S100, HMB-45 | 黑色素癌 | | | ++ /11+ | Vimentin, Desmin Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 
@@ -83,9 +95,12 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 
 ## Related Pages
 
+- [[procedures/hepatectomy|Hepatectomy / liver resection (肝切除術)]]
+- [[conditions/hepatic-adenoma|Hepatic adenoma (肝腺瘤)]]
 - [[conditions/hepatitis-b|Hepatitis B (B 型肝炎)]]
 - [[conditions/hepatitis-c|Hepatitis C (C 型肝炎)]]
 - [[procedures/liver-transplantation|Liver transplantation (肝臟移植)]]
+- [[procedures/radiofrequency-ablation|Radiofrequency ablation, RFA (射頻燒灼治療)]]
 
 ## Follow-up
 

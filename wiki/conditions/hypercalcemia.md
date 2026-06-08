@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Hypercalcemia (高血鈣)'
   - 'Hypercalcemia'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,15 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 【詳解】考%數是一個很討厭的考法。HCC 的四大 paraneo-plastic syndrome 包含 erythrocytosis ,hypoglycemia,hyperchole-sterolemia,hypercalcemia,比較常見的發生率是寫 40% 左右,但也有 paper 寫在 10~20%。比例就僅供參考,重點還是要知道有 paraneoplastic syndrome 這回事。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 2. 慢性胰臟炎常見原因: - (1) 酒精(>70%)。 - (2) 胰管阻塞: 先天或後天性胰管狹窄、腫瘤阻塞。 - (3) 遺傳性。 - (4) 高血鈣症。 - (5) 蛋白質缺乏性的營養不良。 - (6) 囊性纖維化 (cystic fibrosis)。 - (7) 外傷導致胰臟受損。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- ...nal failure) | | | | (B) 低血氧合併成人呼吸窘迫症 (hypoxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以低血鈣來做表現。 | | | (D) | 2. 急性胰臟炎局部合併症中,下列何者最不常見? | 105(二)專 | | | (A) pancreatic phlegmon | 醫五 -34 | | | (B) Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 3. 再次發性 (Tertiary HPT): PTH ↑=> Ca ↑ - (1) 長期慢性腎衰竭造成的次發性副甲狀腺亢進症一段時間後,會導致副甲狀腺發生自主性變化,使得副甲狀腺細胞組織增生,導致 PTH 升高,引發高血鈣。長期腎衰竭的病人在腎臟移植一段時間後,其次發性副甲狀腺亢進卻沒改善,血鈣和 PTH 偏高,則可診斷為再次發性副甲狀腺亢進。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (D) 4. 一位女性體檢時,意外發現有高血鈣,進一步檢查證實為原發性 107(二)專 副甲狀腺功能亢進(primary hyperparathyroidism),根據目前的 醫五-37 治療指引,有些原發性副甲狀腺功能亢進患者即使無臨床症狀 亦建議應接受手術,但下列何者除外? - (A) 骨密度檢查 T-score 小於 -2.5 - (B) 肌酸酐廓清率 (creatinine clearance) 小於 60 mL/min - (C) 血鈣超過正常值上限 1.0 mg/dL 以上 - (D) 年齡大於 60 歲 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ♦ Severe hypercalcemia (serum calcium > 11.5 or 12 mg/dL) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -81,10 +89,6 @@ tags:
 - (5) 病人也會表現高血鈣,進而造成腎臟鈣化或結石發生。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】病人血液 pH 值為 7.56,故 (A)(D) 先可以刪除。病人 血液低血鉀但血氯正常,因此 Bartter syndrome 不選(Bartter syndrome 病人血液出現低血鉀、低血氯、高血鈣、正常鎂離子 濃度、以及代謝性鹼中毒,尿液檢查出現高尿鈣與尿肌酸酐比 值)。故選(B)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (D) 2.7 天大男嬰,發現有呼吸窘迫、發紺及心雜音。呼吸次數每分鐘 60 次合併厲害胸凹(Subcostal retraction)現象,肝臟下緣位於右 肋骨下 4 公分,右手血壓為 90/50 mmHg,左手及下肢血壓約為 60/45 mmHg。下列敘述何者錯誤? - (A) 需要給與前列腺素 (Prostaglandin E1) - (B) 常合併胸腺發育不良(Thymic hypoplasia) - (C) 常合併臉部異常及顎裂(Cleft palate) - (D) 常合併血中鈣離子偏高(Hypercalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...is:在主動脈瓣狹窄中最少見,有可能為偶發性、家族性遺傳;與 Williams syndrome 有關。PS:Williams syndrome:mental retardation、elfin facies and idiopathic hypercalcemia of infancy。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (B) 22. 使用毛地黃(digoxin)藥物時,下列何者較少會加重毛地黃的 104(-)專毒性?醫四-31 - (A) 高血鈣 (hypercalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 多與高血鈣有關:肌肉無力、厭食症、噁心、嘔吐、便秘、劇渴(polydipsia)、 多尿、體重減輕、胰臟炎甚至發燒。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (2) 高血鈣時間一久,則鈣離子沉降在腎臟 parenchyma 形成鈣化與結石,造成腎功能受損。此外,腎結石亦會造成嚴重腎絞痛或血尿。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

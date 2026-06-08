@@ -37,6 +37,7 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Oxygenation and ventilation (氧合與通氣)'
   - 'Oxygenation and ventilation'
@@ -51,7 +52,7 @@ tags:
 
 ## Summary
 
-區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +89,11 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- ...-----------|---------| | | 下列敘述何者錯誤? | 醫五 -29 | | | (A) 低血容合併急性腎衰竭 (hypovolemia with acute renal failure) | | | | (B) 低血氧合併成人呼吸窘迫症 (hypoxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - C. 葉克膜(Extracorporeal membrane oxygenation, ECMO) *100* Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 1. 1953 年由美國外科醫生 Gibbon 所發明,體外循環是指應用人工管道將人體大血管 與人工心肺機連接,從靜脈系統引出靜脈血,並在體外氧合,再經血泵將氧合血輸 回動脈系統。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - #### C. 葉克膜 (Extracorporeal membrane oxygenation, ECMO) Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -108,7 +111,6 @@ tags:
 - (C) 5. 下圖 45 歲男性,急性冠狀動脈阻塞導至心因性休克,緊急做完 107( - ) 專 冠狀動脈繞道手術後,心臟收縮能力不好,因此放上了主動脈 氣球幫浦及葉克膜氧合器,送往加護病房觀察,左腳六個小時後發現有鼓脹的情形,下列敘述何者錯誤? ①肢端的脈搏先確 認 ②有可能血液中肌酸激酶(CK)會提高 ③可以量測腔室的 壓力,若大於 20 mmHg 可能要作筋膜切開手術 ④小腿有五個腔室:anterior、deep posterior、superficial posterior、lateral 和 medial Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (D) 16. 一位 60 歲男性,接受冠狀動脈繞道手術。術後第二天,血行動力正常,胸部 X 光正常,肺臟呼吸音清楚無濕囉聲,動脈血氣體分析正常,病人意識清楚,呼吸器當時的設定是 SIMV mode,呼吸器通氣次數每分鐘 4 次,病人自呼 8 次,PEEP: 4 cmH2O,够感度 2 cmH2O,呼吸器壓力支持 10 cmH2O。準備讓病人脫離呼吸器,接上 T 型管讓病人自己呼吸,呼吸次數很快上升到每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 3. 絕對禁忌症:肋膜腔嚴重的沾黏、無法承受單肺通氣(one lung ventilation)的病人。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- 5. 手術方法: 病人側躺,並使用雙管氣管插管(Double-lumen endotracheal tube),使單側肺部塌陷(one lung ventilation),在胸腔內製造出空間來以便進行胸腔鏡手術(故不需像腹腔鏡一樣進行胸腔充氣)。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 
 ## Clinical Caveats
 

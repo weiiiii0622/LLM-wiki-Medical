@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book3-ch09]]"
 aliases:
   - 'AIDS (後天免疫缺乏症候群)'
   - 'AIDS'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成肝膿瘍。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - ...| | 蛋白 | | | (#) | 8. 下列有關神經性梅毒(neurosyphilis)之敘述,何者錯誤? | 106(二)專 | | | (A) 10% 沒有接受治療的早期梅毒的患者會罹病 | 醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性反應有助於診斷 | | | | (D)治療方法為經肌肉注射盤尼西林(penicillin)每週一次共三次 | | | | 【詳解】本題答 (A)、(D) 給分。 | | | (D) | 9. 變異型庫賈氏病(variant Creutzfeldt-Jakob disease, vCJD)和散發 | 106(一)專 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (1) 可能因全身性疾病(systemic illness)導致去髓鞘(demyelination),常發生於白血病、惡性淋巴病及後天免疫缺乏症候群的患者。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 2. 20% 燙傷病人, 30% 的 AIDS 病人, 90% 的心臟手術後 (postcardiotomy) 病人。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
@@ -70,7 +73,6 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 - ...母為人類免疫缺乏病毒感染者。 | | | | (二)其生母臨產時為快速檢測法及抗體篩檢檢測陽性者。 | | | | (二)新生兒以快速檢測法及抗體篩檢檢測呈陽性者。 | | | | 二、流行病學條件:符合下列任一情形之新生兒。 | | | 後天免疫缺 | | 24 小時內 | | 泛元光授献乏症候群 | 感染、隱球菌症、食道念珠菌症等(詳如後天免疫缺乏症候群個案報告 | 21.1.011 | | | 單背面表列,AIDS 之診斷依據)。 | | | (AIDS) | | | | | 二、檢驗條件: | | | | 經醫師診斷為伺機性感染或 AIDS 有關的腫瘤,如:肺囊蟲肺炎、弓形 | | | | 蟲確認為 HIV 感染,且依不同年齡,其 CD4 值或比例為: | | | | ( Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - (B) 1. 醫師發現其病患為 AIDS 帶原者,依照法令,應該通知下列何者? (A) 病患之合法配偶 (B) 當地之主管機關 (C) 醫師有保密義務,除非病患同意,否則不得告知任何人 (D) 有可能與病患發生性行為之人 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...azole (CNS)AmphoB (Life-threatening) | | | | 副球孢子菌 | Paracoccidioides | | | | | | 青黴菌 | Talaromyces (Penicillium) | 東南亞,AIDS 伺機感染 | | | | | | | 鴿糞/土壤→吸入肺中,通常無症狀 | 不需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluconazole | | | ポルエ(球黴菌) | | | 常在菌→鵝口瘡 (thrush) / 尿布疹 | 局部 Nystatin/Azole. | | | (本版图) | 念珠菌 | Candida | →擴散性念珠菌血症 | → Fl Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- (2) 感染病程:Cryptococcus neoformans 存在被禽鳥排泄物(如鴿糞)污染的土壤中,一般人吸入肺中,通常無症狀;但免疫不全者吸入(如 AIDS CD4 Synthesis (細胞壁) | Itra-conazole (表皮黴菌) Flu-conazole (球黴菌型) Vori-conazole (絲黴菌型) Posa-conazole (Mucormycosis) | Ketoconazole ( 洗頭皮屑 )Clotrimazole,Econazole ( 擦香港腳 ) | | Echinocandins 類 | 抑制 β-1,3-glucansynthase(細胞壁) Source: [[sources/med3-book3-ch20|子、黴菌學]].
 
 ## Clinical Caveats
 

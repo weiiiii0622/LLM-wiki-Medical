@@ -28,6 +28,8 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Penicillins (青黴素類)'
   - 'Penicillins'
@@ -42,7 +44,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +72,13 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book1-ch05]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- 【詳解】幽門螺旋桿菌(Helicobacter pylori) 感染以藥物保守性治療為主, ex: Clarithromycin + Amoxicillin。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (4) 治療:要看病人到底是什麼樣子的原因導致膽管炎,針對此 underlying 進行 治療。 - a. 80% 病人可經由保守性治療治癒,使用廣效性抗生素(ampicillin + gentamycin/levofloxacin+/- metronidazole)治療即可。 - b. 20%的病人需要進行膽道減壓手術,包含經由ERCP取石術,或是經由PTCD引流,或是手術緩解阻塞原因。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - ...氣腫,影響血液循環造成壞死 (gas gangrene)。 - b. Clostridium difficile:偽膜性大腸炎(Pseudomembranous colitis)的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (3) Clostridium tetani (破傷風桿菌): - a. 引起破傷風(Tetanus),臨床症狀有牙關緊閉、肌肉僵直、抽搐。 - b. 治療:肌肉注射破傷風免疫球蛋白;口服或靜脈注射 metronidazole 是首選抗 生素治療,其次可選用靜脈注射 penicillin。抗生素需持續治療 10~14 天。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性反應有助於診斷 | | | | (D)治療方法為經肌肉注射盤尼西林(penicillin)每週一次共三次 | | | | 【詳解】本題答 (A)、(D) 給分。 | | | (D) | 9. 變異型庫賈氏病(variant Creutzfeldt-Jakob disease, vCJD)和散發 | 106(一)專 | | | 型庫賈氏病(sporadic Creutzfeldt-Jakob disease, sCJD)的差異, | 醫四 -57 | | | 下列敘述何者錯誤? | | | | (A) vCJD 的病程比 s Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -89,8 +95,6 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - (B) 1. 一位 2 歲男童發燒 2 天後就診,發現有兩側急性中耳炎,給予 amoxicillin 40 mg/kg/day 治療 3 天之後,仍然持續發燒,於是改 用 amoxicillin 90 mg/kg/day,體溫隨即回復正常。下列四種細菌 之中,那一種最符合該男童中耳炎的治療反應? - (A) Staphylococcus aureus - (B) Streptococcus pneumoniae - (C) Haemophilus influenzae - (D) Moraxella catarrhalis - 【詳解 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...cter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫過低、生命跡象不穩的病童,發展為毒性巨結腸症的病童,以及免疫功能有缺損的病童。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) 在抗生素使用上,依照 CSF gram stain 檢查後使用經驗性抗生素:3rd generation Cephalosporin(ceftriaxone、cefotaxime) + Vancomycin。若病人小於三個月, 須加上 Ampicillin 以涵蓋 Listeria monocytogenes。依照培養結果再做出調整。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...,其它臨床表現會有腹部不適、黃疸、紅血球或血紅素降低及血色素尿(hemoglobinuria),但不會有血小板低下,因此 (B) 的機會不大。感染性單核球增生症臨床表現為發燒、淋巴結腫大、肝脾腫大、肝功能異常、黃疸、上眼皮浮腫、給予藥物後(amoxicillin)會出現皮膚紅疹。但本題內容敘述與感染性單核球增生症臨床表現不符合,故不與考慮。考慮以上疾病臨床表現,故 (D) 較適合。(Burr cell 的 臨 床 意 義:renal insufficiency(uremia),sever dehydration,burns, and pyruvate kinase deficiency;Fragmented RBC 臨床意義:DIC、TTP、hemolysis.)。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

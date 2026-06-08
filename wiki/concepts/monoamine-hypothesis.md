@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch12]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Monoamine hypothesis (單胺假說)'
   - 'Monoamine hypothesis'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,13 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch12]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- ...mping。 - a. 早期傾食症候群 (early dumping syndrome): 可視為腸胃道症狀加上心血管症狀。 - (a) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (a) Serotonin antagonist:對於 early dumping 較有效,但效果有限。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (A) 王先生的症狀與身體分泌 Serotonin 有關,但服用 Serotonin 拮抗劑 (Serotonin antagonists) 僅能部分改善症狀 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 【詳解】心肌無法有效收縮,即使心跳收縮頻率加快,仍無法 將血液送出,故給予強心劑增加心肌收縮力。此病人應優先考 慮投予增加收縮力併具有升壓效果的 Dopamine 或 Bosmin 等強 心劑,併視臨床反應再調整用藥或輔以 IABP。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (D) 藥物治療可以考慮 neostigmine,不過要小心病患施打藥物後 會有 bradycardia,需要仔細觀察心率變化,和準備 dopamine 作為緊急解毒劑 Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
 - 2. 類癌 (Carcinoid tumor): - (1) 為一種生長緩慢的神經內分泌瘤,最常生長於腸胃道(80%在迴腸),其次是呼吸道。由於早期症狀不明顯,所以不易診斷,其中約10%的類癌會分泌過多的血清素(serotonin),故病患會有類癌症候群(carcinoid syndrome),會發生 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
@@ -80,9 +85,6 @@ tags:
 - ...刺激骨骼肌的 nicotinic 接受器。 - b. 交感神經由胸椎、腰椎脊髓的側角神經元發出,經兩個神經元,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎旁神經節(paravertebral ggl.)的神經元,其再分泌正腎上腺素(norepinephrine)刺激目標器官(心肌、平滑肌、腺體)的 Adrenergic 接受器。 - c. 副交感神經由**顱神經、薦椎的側角神經元**發出,也經**兩個神經元**,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎前神經節(prevertebral ggl.)的神經元,其再分泌 ACh 刺激目標器官(心肌、平滑肌、腺體)的 muscarinic 接受器。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...----------------------------------------|-----------------------------| | 好發於 | 緊張的性格 | 年輕女 | 年輕男 | | 機制 | 肌肉緊縮 | 血管、神經 Serotonin 活性改變 | 血中 Histamine 增加、下視丘 | | →痛法 | →環狀(雙側)持續的痛 | →單側搏動性的痛 | →單側眼眶周圍疼痛, | | | | | 併發流淚、流鼻涕 (Histamine) | | 時間 | 白天接觸到壓力時發生 | 被光線刺激,晚上休息改善 | 一天數次,好發夜晚入睡後 | | | 30 分鐘至 7 日 | 持續4到72小時 | 15 到 180 分鐘 | | 急性 | 改變生活方式; | Suma Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - 1. 病因: 女比男(2:1),70% 有家族史(爸爸、媽媽也有偏頭痛),多於青少年發病(剛好面臨升高中、大學的聯考壓力),常持續4至72小時。乃因血管與神經組織的 serotonin 活性改變有關,因與血管有關係,所以會有**搏動性**疼痛。(cf. 緊張型與肌肉緊繃有關,所以是較持續的痛) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- 4. 急性治療: (serotonin agonist) - (1) 門診口服 sumatriptan (selective 5HTIB/ID agonist) 或 ergotamine (5HT agonist)。 - (2) 有的較嚴重的會收住院打靜脈 Prochlorperazine (Novamine),利用 Prochlorperazine 也有 Serotonin agonist 來治療偏頭痛。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- ...腦電圖(EEG)上可發現在腿抖動的對側大腦額葉運動區, 伴隨有 20 到 90 秒一次之癲癇放電 (epileptic discharges) 現象 (C) 常伴隨有不寧腿症候群 (restless legs syndrome) (D) dopamine agonist 或 anticonvulsants 對部分病人有效 (C) 11. 下列關於癲癇症候群(epilepsy syndromes)藥物治療的敘述, 107(一)專 何者錯誤? 醫四 -51 (A) 青少年肌陣攣癲癇(juvenile myoclonic epilepsy) 常對單一 抗癲癇藥的反應良好 (B) 青少年失神癲癇(juvenile absence epilepsy) 常對單一抗癲癇 藥的反應良好 (C) Len Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- Norepinephrine 與 serotonin 是目前被研究最多和情感性精神疾患相關的生物因子, 其 他 如 dopamine、GABA、vasopressin、endogenous opiates、glutamate、glycine 等也可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 
 ## Clinical Caveats
 

@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Acute kidney injury, AKI (急性腎損傷)'
   - 'Acute kidney injury, AKI'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch06]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- ...----|-----------------------------------------------------------------|---------| | | 下列敘述何者錯誤? | 醫五 -29 | | | (A) 低血容合併急性腎衰竭 (hypovolemia with acute renal failure) | | | | (B) 低血氧合併成人呼吸窘迫症 (hypoxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis w Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...(malperfusion syndrome): - (1) 冠狀動脈:缺血性心臟病。 - (2) 主動脈瓣:急性心衰竭。 - (3) 兩側頸動脈:腦中風。 - (4) 脊椎動脈:下半身麻痺 (paraplegia)。 - (5) 腎動脈:急性腎衰竭, oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心臟舒張,造成回心血量減少, 連帶使得心輸出量減少。 - b. 典型的臨床表現有 Beck's t Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...4~8分鐘,心肌為17~20分鐘)。 - (b) 但長時間缺血後,再灌流時會造成 reperfusion injury/syndrome,使得阻塞 時缺氧組織所釋放的自由基和代謝廢物(K+、myoglobin)對細胞及組織 造成傷害,引起 acute kidney injury 和 myoglobinuria。 - (c) 另外 reperfusion 後也會造成細胞和組織 edema (細胞內膜受損以及血管通透性增加), ischemia 的時間越久 edema 情形越嚴重,太腫導致 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 【詳解】(A) 電流熱效應為 I2Rt(電流安培數平方 × 電阻 × 受電時間),電阻越高產生的熱能越高,對組織的傷害越高;(C) 肌球蛋白會對腎小管的表皮細胞造成直接性的傷害,且肌球蛋白在體液不足或酸性環境之下,易在腎小管中形成結晶阻塞腎小管,因此橫紋肌溶解症容易造成急性腎衰竭,大量輸液目標為 3mL/kg/hr;(D) 在 electrically-induced ocular injury 中 cataract 的機率只有 1~6%,總體不可能到 30%。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
@@ -78,7 +81,6 @@ tags:
 - ## 丙、急性腎損傷 (Acute kidney injury, AKI) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 1. 以往我們通常使用 acute renal failure(ARF)來描述短時間內發生的腎功能惡化,但由 於文獻上對於 ARF 的定義分歧,且皆未對病患的嚴重度有良好分類,因此,近年已改 用 acute kidney injury(AKI)來取代 acute renal failure(ARF)。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 2. AKI 的定義,目前主要有三個分類門派: - (1) RIFLE classification: Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (1) 臨床特徵:急性腎損傷;全身表現:高血壓、水腫;尿液表現:寡尿(400 ml/day of urine)、血尿(Macroscopic hematuria)。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

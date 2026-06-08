@@ -30,6 +30,8 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Hepatitis C (C 型肝炎)'
   - 'Hepatitis C'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,14 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - [[sources/med4-book2-ch06]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (2) 主要的原因是 B 型肝炎及 C 型肝炎在台灣的高盛行率,使慢性肝臟疾病病得以 進一步發展成為肝硬化及肝癌。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (4) C型肝炎 (Hepatitis C)。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (C) 8. 一位 63 歲男性到門診主訴發現皮膚泛黃已三週,尿液呈深褐色, 106 (二) 專 最近有灰白色大便,無腹部疼痛及不適,食慾稍差。下列何種 醫五-22 檢查能快速做鑑別診斷? - (A) 抽血驗 B 型、C 型肝炎 - (B) 測血中總膽紅素 / 直接型膽紅素指數 - (C) 腹部超音波檢查 - (D) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (3) 末期肝硬化:包括不明原因、B型或C型肝炎及酒精性肝硬化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -92,9 +99,6 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - (C) 1.32 歲男病人罹患活動性 C 型病毒肝炎已數年。最近數星期,兩下肢 107(-) 專 皮膚出現許多有壓痛之小紅疹。且四肢麻木疼痛。檢查發現有輕度 醫三-13 蛋白尿。下列那一項檢查陽性最具診斷價值? - (A) 類風濕因子 (RF) - (B) 抗細胞核抗體 (ANA) - (C)冷凝球蛋白 (cryoglobulin) - (D) C 型肝炎病毒量(viral load) Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (C) 10. 一位 30 歲女性病人,最近一週發燒及下肢水腫就醫。身體診察:意 - (B) C型肝炎抗體 (anti-hepatitis C virus antibody) - (C) 雙股去氧核糖核酸抗體 (anti-double stranded DNA antibody) - (D) 冷凝球蛋白 (cryoglobulin) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- .../lymphoma | | 反轉錄 | HTLV-2 | Hairy cell leukemia | | 病毒 | HIV | Burkitt's lymphoma, Diffuse large B cell lymphoma | | | HCV | Lymphoplasmacytic lymphoma | | 其他病毒 | EBV | 鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma)、Burkitt's lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- \* 須排除:曾接受過頭頸部放射線治療、病患有 HCV、HIV 感染,病患有 lymphoma、Sarcoidosis、GVHD 或服用 Anticholinergic drugs。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (A) 4. 一位病人在體檢時發現血小板數為 65,000/μL,紅血球及白血球正常 106(-) 專 ,下列何項檢查對於釐清血小板低下的原因幫忙最小? - (A) platelet antibody - (B) antibody to hepatitis C virus - (C) antibody to human immunodeficiency virus - (D) antinuclear antibody Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 
 ## Clinical Caveats
 

@@ -31,6 +31,18 @@ sources:
   - "[[sources/med5-book2-ch19]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch04]]"
+  - "[[sources/med5-book3-ch05]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch06]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch15]]"
 aliases:
   - 'Small intestine (小腸)'
   - 'Small intestine'
@@ -45,7 +57,7 @@ tags:
 
 ## Summary
 
-小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +88,31 @@ tags:
 - [[sources/med5-book2-ch19]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book2-ch27]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch12]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch04]]
+- [[sources/med5-book3-ch05]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch06]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch15]]
 
 ## Key Details From Sources
 
+- #### 丁、小腸腫瘤(Tumors of small intestine) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 1. 小腸腫瘤大約佔所有消化道癌症的 1~3%,相對胃癌與大腸癌而言少見。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 2. 一般而言小腸腫瘤以惡性腫瘤居多,約佔70%。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (A) 十二指腸 (duodenum) (B) 空腸 (jejunum) Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
+- Bile salt 絕大部分在小腸被再吸收,只有不到 10% 的膽鹽會進到 大腸形成糞便。在小腸是 passive reabsorption, 在 terminal ileum 則是 active reabsorption。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
+- ...ut pancreatectomy: Partington-Rochelle's modification of Puestow procedure - b. Drainage procedure with pancreatectomy (duodenum preserved): Puestow procedure (resection of pancreatic tail) The Berger procedure (resection of pancreatic head) The Frey procedure (resection of pancreatic head) - c. Pancreaticoduodenectomy (PD): Whipple procedure, PP Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- ①這張圖可見擴張的胰管。將 pancreas 切開後, 也將 B 處的 jejunum 切開往上拉到 pancreas 處 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- (2) Combined pancreatic duct drainage and pancreatric head lesion resection: 分為 The Berger procedure、The Frey procedure。 - a. The Berger procedure( Duodenum-preserving pancreatic head resection, DPPHR ) : - (a) C-loop 將被保留下來。 - (b) 胰臟從 portal vein 處截 斷,胰頭大部分是被切 掉的,但是會留一小部 分殘餘在 C-loop 上。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 3. 傾食症候群 (Dumping syndrome): - (1) 前言: - a. 當胃部切除手術後,胃部的儲存容積下降,食物將會快速進入小腸,大量刺激後導致一系列的症狀出現。 - b. 在胃部手術後約有 25~50% 的患者會出現傾食症候群。好發於 Billroth II reconstruction。 - c. 傾食症候群常在胃切除手術後前三個月發生,一般在手術後一年內就不再發生。 - (2) 可分成 Early dumping 與 Late dumping。 - a. 早期傾食症候群 (early dumping syndrome): 可視為腸胃道症狀加上心血管症狀。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- a. 飲食調整: - (a) 少量多餐:避免食物快速進入小腸造成 dumping syndrome。 - (b) 增加咀嚼次數。 - (c) 進餐時要限制液體食物的攝取,湯汁或飲料最好在進食後30分再喝。 - (d) 避免精緻糖類的飲食。 - (e) 攝取蛋白質食物。 - (f) 增加纖維質攝取:可有效降低食物進入小腸的速度,延緩葡萄糖的吸收。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (1) Gastrinoma triangle:膽管、十二指腸第二和第三部分交接處和胰頸部圍成的三角,90%的 gastrinoma 皆位於此處,其中 45~60% 位在 duodenum,25% 位在 pancreas。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - ...ch repair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total abdominal hysterectomy 和 bilateral salpingo-oophorectomy。 - (c) Subtotal colectomy • Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
@@ -87,16 +121,6 @@ tags:
 - (1) 上腸繋膜動脈(SMA)支配:小腸、盲腸、升結腸和前三分之二的橫結腸。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
 - (1) 臨床症狀:噁心、嘔吐、腹痛和腹脹,跟小腸阻塞類似。 Source: [[sources/med5-book2-ch10|乙、腸扭結]].
 - ...大腸炎之炎症反應只侷限於腸壁之黏膜層及黏膜下層 (B) 克隆氏疾症之炎症反應,影響腸壁全層 (C) 潰瘍性大腸炎可有偽息肉(pseudopolyp)之表現 (D) 克隆氏疾症沒有偽息肉之表現 (C) 8. 長期 Crohn's 疾病可能導致小腸及大腸惡性病變,以何種惡性腫 98(二)專 醫五-30 瘤居多? Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- (D) 最常見腸繋膜內疝氣的位置在迴腸結(ileocolic junction)附近 【詳解】腹腔鏡手術產生的 mesenteric defect 是否要將其關 閉一直沒有定論,主要是擔心小腸從 defect 穿出造成 internal herniation。但是於內視鏡手術中關閉 mesenteric defect 有些困難, 包含視野受限關閉困難、手術時間延長、可能於修補過程中傷 害到 mesentery blood supply、甚至傷到其他器官。目前的研究報 告結論多為「不一定要關,關了也無顯著好處」。 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- 2. 次發性 (Secondary HPT): Ca ↓ => PTH ↑ - (1) 慢性腎衰竭,腎排磷受阻造成高血磷,使得鈣磷沉積,造成低血鈣;vitamin D 缺乏影響到腸子以及腎臟對鈣的再吸收,低血鈣接著引起 PTH 的分泌。次發性 HPT 也見於骨軟化症(Osteomalacia)及小腸吸收不良(Intestinal malabsorption)。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (C) 因上腸繋膜動脈血栓併腹膜炎切除大部分小腸,術後第八天 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (D) 因 胃 及 小 腸 胃 腸 間 質 瘤(gastrointestinal stroma tumor, GIST)接受半胃切除術及小腸部分切除術,約切除二十公分 小腸,術後第三天仍未排氣,持續禁食中 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- 【詳解】(A)(D) 為無法經腸給予營養的狀況,但預期恢復時間小於十天,可給 PPN。(B) 可給予鼻胃管飲食。(C) 切除大部分小腸 (short bowel syndrome),預期短時間無法恢復,需給予TPN。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (2) 刀傷以最常傷及肝臟,槍傷則最常傷及小腸。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- (1) 因直接重擊或高速停止引起的減速反作用力,造成腹腔臟器壓迫或壓碎損傷, 使得實質器官如肝脾破裂出血、腹內血管破裂出血或是中空器官如小腸損傷甚 至破裂,引發腹膜炎。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- 3. 每個器官的低溫保存期限 (cold ischemia time) 不同:腎臟 24~72 小時、胰臟 12~18 小時、小腸 6~12 小時、肝臟 6~10 小時、肺 4~6 小時、心 4 小時。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 2. 此外,PJ 患者罹患癌症的機率也會增加,發生機率依序為小腸、胃、胰臟、大腸、 食道、卵巢或乳癌等。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- (A) 息肉好發於空腸 (jejunum) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 
 ## Clinical Caveats
 
@@ -105,7 +129,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/small-bowel-obstruction|Small bowel obstruction (小腸阻塞)]]
+- [[conditions/small-bowel-tumor|Small bowel tumor (小腸腫瘤)]]
 
 ## Follow-up
 

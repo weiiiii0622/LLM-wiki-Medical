@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch02]]"
 aliases:
   - 'Helicobacter pylori infection (幽門螺旋桿菌感染)'
   - 'Helicobacter pylori infection'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,17 @@ H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch02]]
 
 ## Key Details From Sources
 
+- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- ...。 - c. 好發於胃部近端,易由淋巴循環轉移。 - (2) 腸道型 (intestinal-type cancers, 30%): - a. 胃癌細胞結合性較佳,腫瘤細胞會排列成腺體構造。 - b. 好發於男性與年老病人。 - c. 與 H. pylori 的感染息息相關。 - d. 病灶好發於胃部遠端, 易由血液循環轉移。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (A) 2. 幽門螺旋桿菌(Helicobacter pylori)感染是產生胃癌最重要的危 109( ) 專 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 1. 幽門桿菌(Helicobacter pylori)感染:消化性潰瘍的病人之中,50%以上的病人都是因幽門桿菌感染後而形成,其中與十二指腸潰瘍相關性更高。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 1. 上消化道 X 光檢查。 - (1) 上消化道內視鏡檢查為 golden standard。可直接觀察潰瘍的嚴重程度,也可作 切片檢查,判斷病灶為良性或惡性、是否為幽門螺旋桿菌感染等。 - (2) 幽門桿菌試驗。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (C) 幽門螺旋桿菌 (Helicobacter pylori) 感染 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - .... 下列對照的致癌原(Carcinogen)何者錯誤? | 102(一)專 | | (A) 黃麴毒素(Aflatoxins)-肝癌(Hepatocellular carcinoma) | 醫五 -10 | | (B) 幽門 螺 旋 桿 菌(Helicobacter pylori)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (B) 13. 下列何種檢查,最無法確定目前胃中有幽門桿菌(Helicobacter pylori)感染? Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -59,12 +69,6 @@ H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 
 - (1) Tetracycline · Doxycycline · Minocycline - a. 對細菌的抗藥性高,主因細菌產生排出幫浦,將進入細菌的四環黴素迅速排出, 因此主要用在 - (a) 立克次體 (Rickettsia, 如恙蟲病= Scrub typhus, Q fever); - (b) 螺旋菌(Spirochetes,如 Lyme disease 造成的關節炎,對 PCN 過敏的梅毒患者替代用藥); - (c) 弧菌(H. pylori),用於合併治療根治幽門桿菌造成的消化性潰瘍。 - (d) 披衣菌 (Chlamydia trachomatis) 眼睛、泌尿系統感染;青春痘 (Acne)等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 4.2週:幽門螺旋桿菌造成胃潰瘍、神經性梅毒、急性腎盂腎炎。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...cholera, V. parahaemolyticus, V. vulnificus | ndv 🛧 | | | 腸道 | 桿 空腸彎曲桿菌 | Campylobacter | C. jejuni | 嗜 章* | | | 桿菌 | 菌幽門螺旋桿菌 | Helicobacter | H. pylori | 1" | | | | 假單胞菌 | Pseudomonas | P. aeruginosa | | | 桿菌(D) | | 類桿菌 | Bacteroid | B. fragilis | 厭氧 | | | 呼吸道桿菌 | 嗜血桿菌 | Haemophilus | H. influenzae, H. ducreyi | | | | | 博得氏菌 | Bordetella | B. Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...era, V. parahaemolyticus,V. vulnificus | 兼性厭氧 | | | | 腸道桿菌 | 桿 | 空腸彎曲桿菌 | Campylobacter | C. jejuni | 微須氧 | | | | | 菌 | 幽門螺旋桿菌 | Helicobacter | H. pylori | 1成須羊 | | | | | tiel - | | Estarabastaria ana | Escherichia, Klebsiella, | 兼性厭氧 | | | 桿 | | 腸內菌 * | | Enterobacteriaceae | Salmonella, Shigella | 末 土 八 羊 | | | 菌 | | 類相 | 早菌 | Bacteroid | B. Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ## 3. 幽門桿菌 (Helicobacter pylori) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...(A) 肺囊蟲肺炎 (Pneumocystis pneumonia) (B) 肺外結核 (Extrapulmonary tuberculosis) (C) 巨細胞病毒網膜炎 (Cytomegalovirus retinitis) (D) 幽門螺旋桿菌 (Helicobacter pylori) 感染 | 100(二)專醫三-57 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- 1. 幽門螺旋桿菌 (H. pylori) 相關介紹: - G(-),會產生 Urease, 使 Urea $\rightarrow$ NH $_3$ +CO $_2$ ;為糞口傳染。侵犯部位為 Antrum 為主,非 body, 所以 parietal cell preserved $\rightarrow$ 繼續分泌胃酸。 - 目前已知與 (a) Multifocal atrophic gastritis (MAG) 有關; - (b) Diffus Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- 2. 幽門螺旋桿菌 (H. pylori) 感染→胃、十二指腸潰瘍比較: Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- \* BAS = Basal acid secretion,因此 HP 感染並未一定會造成酸分泌增加,導致 GERD。 - 3. 檢查是否有幽門螺旋桿菌 (H. pylori) 感染: (停用 PPI 至少7 天較不易產生偽陰性) - (1) 侵襲性的方法:由胃鏡取出的檢體進行快速尿素檢查法 (rapid urease test)、組織病理檢查法 (histology)、組織細菌培養 (culture)等。 - (2) 非侵襲性的方法:尿素呼吸檢查(urea breath test),使用碳 -13 標記之尿素,服用 後作呼氣檢查,為最佳的非侵襲性方法,可用於確定殺菌成功與否。抽血檢驗 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 
 ## Clinical Caveats
 

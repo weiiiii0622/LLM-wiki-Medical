@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book2-ch18]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book3-ch17]]"
 aliases:
   - 'Hepatorenal syndrome (肝腎症候群)'
   - 'Hepatorenal syndrome'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-肝硬化與門脈高壓造成的功能性腎衰竭，需排除其他腎損傷。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝硬化與門脈高壓造成的功能性腎衰竭，需排除其他腎損傷。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book2-ch18]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book3-ch17]]
 
 ## Key Details From Sources
 
+- ...$ - b. Age $> 55 \text{ y} \circ$ - c. LDH > 350 IU/L $\circ$ - d. AST > 250 IU/L - e. WBC > 16,000/U1 - (3) Initial 48 hrs: - a. BUN elevation $> 5 \text{ mg/dL} \circ$ - b. Base deficit $> 4 \text{ mEq/L} \circ$ - c. Ca 10\%$ ° - f. fluid Sequestration > 6 L $\circ$ Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - (2) Asymptomatic HPT,但有以下條件可作 parathyroidectomy: - a. 年紀小於 50 歲。 - b. 無法定期追蹤檢查者。 - c. 血清鈣濃度> 11 mg/dL。 - d. 尿鈣> 400 mg/24 hrs。 - e. Ccr 15 mg/dL。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - 分類依據與 RIFLE 相似,也是看 GFR、SCr 與 urine output,但判斷依據改為 48 hrs 內。差別在於嚴重度分級改為 1~3,且將 SCr acute rise $\geq$ 0.3 定義為 stage 1 AKI。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 4. 肝腎症候群 (hepatorenal syndrome): - (1) 腎臟本身並無明顯的病理變化,與肝硬化門脈高壓導致腎血管收縮的許多因素有關,目前確切的詳細機制仍不明,也因此不容易預防,只能盡可能保持肝硬化患者體液平衡、避免出血、感染等加重因素。 - (2) 肝硬化合併門脈高壓、腹水的患者較容易產生。 - (3) 寡尿、尿液渗透壓較血漿渗透壓為高,但尿中的鈉含量3 = 110 μg/dL (normal range: 醫三-7 19~60), Source: [[sources/med3-book2-ch23|戊、肝硬化]].

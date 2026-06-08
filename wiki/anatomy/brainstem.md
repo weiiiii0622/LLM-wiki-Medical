@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Brainstem (腦幹)'
   - 'Brainstem'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,13 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- (1) 分類:臨床上以組織學分類可分為五類 - a. 浸潤性乳腺管癌(infiltrating ductal cancer):是最常見的乳癌,佔75~80%。 - b. 浸潤性小葉癌 (infiltrating lobular cancer): 6~8%。 - c. 其他類型: - (a) 髓樣癌 (medullary cancer): 5~8%。 - (b) 黏液性癌 (mucinous cancer): 2~4%。 - (c) 管狀癌 (tubular cancer): 1~2%。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- ...aget disease 是原發的 | 目乳房的腫瘤,經由乳腺管路系統 | | | | 進入乳頭的上皮層。 | | | | (B) | 6. 比較同一期別的乳癌,下列何 | 運乳癌組織型態預後最好? | 108(一)專 | | | (A) medullary carcinoma | | 醫五 -42 | | | (B) mucinous carcinoma | | | | | (C) metaplastic carcinoma | | | | | (D) infiltrating ductal carcinoma | | | | | 【詳解】Mucinous carcinoma 予 | 頁後最好,五年存活率約九成。 | | | (C) | 7. BRCA 1 的基因變異與下列何種 | Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- ...--------|---------| | 化(micro-calcification)的表徵,臨床理學檢查無法觸摸到腫塊 | 醫五 -9 | | 位置,請問病人最可能的診斷是: | | | (A) phyllodes tumor (B) medullary carcinoma | | | (C) ductal carcinoma (D) lobular carcinoma | | | 【詳解】乳癌最常見的類型就是 ductal carcinoma,於乳房攝影 | | | 上的表現為群聚性的微小鈣化。 | | | (B) 17. 下列對於乳房之發炎性癌(inflammatory carcinoma)的敘述,何 | | | 者正確? | 醫五 -40 | | (A) 預後佳 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...| | (C) 目前放射線治療 (radiation therapy) 及化學治療 (chemo- | | | | therapy)效果不彰 | | | | (D) 很少需要根除手術,預後甚差 | | | (C) 19. | 甲狀腺髓質癌(medullary carcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -72,9 +77,6 @@ tags:
 - (C) 3.55 歲男性,平時除高血壓外無其他疾病,於半小時前,突發暈眩之後意識漸漸昏迷,血壓 180/105 mmHg,心跳 105/分,呼吸 22/分,兩側瞳孔皆為 2.0 mm,光反射不明顯;Glasgow昏迷指數為 $E_2V_2M_3$ ,在實行快速程序插管 (rapid sequence intubation)後,瞳孔狀況不變,此時電腦斷層顯示小腦出血合併腦幹壓迫跡象,下列那一項處置較適當? - (A) 會診放射科作血管攝影及栓塞 - (B) 安排加護病房,採保守支持性治療 - (C) 會診神經外科安排緊急手術 - (D) 給予過度換氣治療(hyperventilation ),控制 $PaO_2$ 在 25~30 mmHg Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - 2. 硬膜內脊髓外腫瘤(intradural extramedullary spinal cord tumor):40% - (1) 腦膜瘤 (meningioma): - a. 好發於年老人,女性多於男性。 - b. 常長於胸椎。 - c. 由於生長緩慢,故在臨床症狀出現之前,脊髓已經被壓迫扁平到某種程度了。 - d. 影像檢查: MRI 或 CT 脊髓攝影。 - e. 手術切除,預後好。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 3. 脊髓內腫瘤 (intramedullary tumor):5% - (1) 罕見,最常見為星狀細胞瘤(astrocytoma)、其次為室管膜瘤(ependymoma)。 其它包括血管細胞瘤、脂肪瘤、類上皮瘤、結核瘤及海綿狀血管瘤都有被報 告過。 - (2) 臨床症狀:類似於 central cord syndrome。 - (3) 影像檢查:脊髓攝影可以確定脊髓內有無病灶。但 MRI 可提供較多資訊,區分 腫瘤和空洞症,了解病灶範圍。 - (4) 處置:脊椎縱切片或針刺法得到組織切片,手術切除、放射線治療。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- | (D) | ) 3. 下列何者不是常見的 intradural extramedullary spinal to | ımor 的種類? 109( - ) 專 | |-----|---------------------------------------------------------|----------------------| | | (A) meningioma | 醫五 -10 | | | (B) schwannoma | | | | (C) neurofibroma | | | | (D) anaplas Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...持呼吸。 - b. 病人昏迷原因已經確定。 - c. 病人係遭受無法復原之腦部結構損壞。 - (2) 應排除可逆性之昏迷(第四條): - a. 因新陳代謝障礙、藥物中毒或低體溫所導致之昏迷。 - b. 罹病原因不明之昏迷。 - (3) 下列腦幹反射皆完全消失(第六條):其中一個正常就不算腦死。 - a. 頭眼反射 (Doll's eye sign):正常情況下,將病人頭部轉動,眼球會轉向相反 方向,例如頭往右轉,眼球會向左轉。 - b. 瞳孔對光反射(Light reflex)。 - c. 眼角膜反射 (Corneal reflex) = blink reflex,用棉花棒碰角膜會引發閉眼。 - d. 前庭-動眼反射(Oculo-vestibular reflex):Calo Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
-- ...的症狀。 | 108( 一 ) 專醫四 -51 | | (B) | 8.52 歲男性,主訴反覆出現之左臉陣發性劇烈疼痛一年多,在發作數週或數月後,可自行緩解數月。疼痛部位大多在左臉中下部分,無感覺缺失。其最可能診斷為下列何者? (A)中腦(midbrain)中風 (B)三叉神經痛(trigeminal neuralgia) (C)舌咽神經痛(glossopharyngeal neuralgia) (D)癲癇發作(seizures) | 107( 二 ) 専醫四 -54 | | (B) | 9. 下列何者不屬於頭顱內會引發痛覺的結構? (A) 顱內的大血管 (large intracranial vessels) (B) 軟腦膜 (pia matter) (C) 硬腦膜 (dura mat Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 
 ## Clinical Caveats
 

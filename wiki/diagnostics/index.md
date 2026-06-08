@@ -31,6 +31,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/bone-mineral-density|Bone mineral density, BMD (骨密度檢查)]] - 骨質疏鬆診斷與骨折風險評估常用檢查。
 - [[diagnostics/brain-computed-tomography|Brain computed tomography, brain CT (腦部電腦斷層)]] - 急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。
 - [[diagnostics/brain-magnetic-resonance-imaging|Brain magnetic resonance imaging, brain MRI (腦部磁振造影)]] - 對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。
+- [[diagnostics/breast-ultrasonography|Breast ultrasonography (乳房超音波)]] - 評估乳房腫塊囊性或實質性，常用於年輕或緻密乳房，也可導引切片。
 - [[diagnostics/bronchodilator-reversibility-test|Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)]] - 評估可逆性氣流阻塞，是氣喘診斷依據之一。
 - [[diagnostics/c-peptide|C-peptide (C 胜肽)]] - 反映內生性胰島素分泌，可協助分辨糖尿病型態。
 - [[diagnostics/cardiac-biomarkers|Cardiac biomarkers (心肌酵素)]] - 用於區分 UA 與 MI，並評估心肌壞死。
@@ -69,8 +70,10 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/liver-function-tests|Liver function tests, LFTs (肝功能檢查)]] - 用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。
 - [[diagnostics/lung-cancer-staging|Lung cancer staging (肺癌分期)]] - 肺癌治療選擇依組織型與分期。
 - [[diagnostics/mammography|Mammography (乳房 X 光攝影)]] - 乳癌篩檢與診斷影像，特別適合脂肪比例較高的乳房偵測鈣化。
+- [[diagnostics/meld-score|MELD score (MELD 分數)]] - 以 bilirubin、INR、creatinine 等估計末期肝病預後與移植優先度。
 - [[diagnostics/mental-status-examination|Mental status examination, MSE (精神狀態檢查)]] - 精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。
 - [[diagnostics/methacholine-provocation-test|Methacholine provocation test (Methacholine 支氣管激發試驗)]] - 疑似氣喘但肺功能正常時可用來評估氣道高反應性。
+- [[diagnostics/mrcp|Magnetic resonance cholangiopancreatography, MRCP (磁振膽胰管攝影)]] - 非侵襲性顯示膽道與胰管結構，用於膽總管結石、膽管癌、胰臟癌或胰膽管異常評估。
 - [[diagnostics/nerve-conduction-study|Nerve conduction study, NCS/NCV (神經傳導檢查)]] - 評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。
 - [[diagnostics/neurologic-examination|Neurologic examination (神經學檢查)]] - 系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。
 - [[diagnostics/nikolsky-sign|Nikolsky sign (Nikolsky 徵象)]] - 輕壓或摩擦使表皮剝離，見於 SSSS、pemphigus vulgaris、TEN 等表皮內或表皮壞死疾病。

@@ -15,6 +15,9 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Proton pump inhibitors, PPI (質子幫浦抑制劑)'
   - 'Proton pump inhibitors, PPI'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,17 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- 4. 補充:這邊不得不提到一顆好藥:**Proton pump inhibitor**。由圖片可知 Parietal cell 可受到**神經細胞**與**腸道賀爾蒙(histamine、Gastrin**)這三個 pathway 來控制胃酸的分泌。傳統的 H2 blocker 只能 block histamine 的 pathway,並不能有效控制胃酸的分泌,但 PPI 卻能有效直接抑制幫浦,直接 block 住三線 pathway,抑制胃酸的分泌,也大大減低近年來因 peptic ulcer 所帶來的 complication 如出血或穿孔。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- 1. 目前消化性潰瘍大多能以保守內科治療,尤其在 PPI 的出現之後,消化性潰瘍產生併發症的機率越趨減低。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 2. 在目前的 PPI 的治療之下,這種嚴重的 complication 發生機率較低。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (A)以 proton pump inhibitor (PPI)治療無效的病人 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (B) 對於 gastrinoma 引起的腸胃道急性出血,使用 proton pump inhibitors 是無效的 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - ...O,基礎胃酸分泌量) > 15 mEq/hr。 - c. 如果 hypergastrinemia 但 BAO 沒上升,則考慮是:atrophic gastritis、renal failure、病人正在服用 H2 antagonist 或 PPI。 - d. 但有些情況也會同時有 fasting hypergastrinemia 及 BAO 上升: retained gastric antrum syndrome、gastric outlet obstruction、antral G-cell hyperplasia。所以需再進一步作 Secretin 刺激檢驗。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (1) 藥物: $H_2$ antagonist 或 PPI 抑制胃酸分泌,效果好,不再需要 total gastrectomy。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
@@ -60,11 +71,6 @@ tags:
 - \* BAS = Basal acid secretion,因此 HP 感染並未一定會造成酸分泌增加,導致 GERD。 - 3. 檢查是否有幽門螺旋桿菌 (H. pylori) 感染: (停用 PPI 至少7 天較不易產生偽陰性) - (1) 侵襲性的方法:由胃鏡取出的檢體進行快速尿素檢查法 (rapid urease test)、組織病理檢查法 (histology)、組織細菌培養 (culture)等。 - (2) 非侵襲性的方法:尿素呼吸檢查(urea breath test),使用碳 -13 標記之尿素,服用 後作呼氣檢查,為最佳的非侵襲性方法,可用於確定殺菌成功與否。抽血檢驗 IgG (serology)只能知道有沒有感染 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...acid)宜與第二型組織胺拮抗劑(H 2 receptor antagonist)併用以增加療效 | 醫三-30 | | | (B) 長期服用第二型組織胺拮抗劑可能有陽痿、男性女乳症、月經失調等藥物不良反應 | | | | (C) 長期服用質子幫浦抑制劑(proton pump inhibitor)可能會增加骨質疏鬆與髖骨骨折之機會 | | | | (D) 制酸劑會抑制四環素(tetracycline)在胃腸道之吸收 | | | | 【詳解】(A) 兩者機轉不同但作用一樣,沒有併用的需要。 | | | (A) | 8. 幽門螺旋桿菌感染不會增加下列何項疾病的風險? | 105(二)專 | | | (A) reflux esophagitis | 醫三-26 | | | (B) n Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - (C) proton pump inhibitor Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- 【詳解】(A)(B) 皆為 EV bleeding 之治療;(C) PPI於 EV 的角色未明,但此病患未做胃鏡,也有潰瘍的可能,可先使用,且肝硬化患者本身潰瘍出血機率就比常人高;(D) TIPS 因技術需求,且需患者平躺,較難立即在第一線使用,且病患已有肝昏迷,TIPS 會加重病人的肝昏迷,也不適當。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- (B) 立即注射 PPI (proton pump inhibitor) Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- 1. 藉由病史(胸骨後方灼熱感)或使用 PPI (porton pump inhibitor)後會改善可做症狀診 斷,或以胃鏡探查是否有 EC junction 的黏膜破損作為診斷。(國內需以胃鏡影像做確診, 才可開立 PPI)。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- 2. 緩解藥物:Antacids、H2-blocker、PPI、Prokinetic agent。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (A) 應立即給予服用 proton pump inhibitor (PPI) 至少 4 個月 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

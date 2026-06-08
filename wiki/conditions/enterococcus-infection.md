@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Enterococcus infection (腸球菌感染)'
   - 'Enterococcus infection'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-常見膽道、泌尿道、院內與心內膜感染病原，抗藥性治療需特別注意。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見膽道、泌尿道、院內與心內膜感染病原，抗藥性治療需特別注意。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch05]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- (a) Grade III (severe) acute cholecystitis: - i. 先考慮保守治療,先讓病人 NPO,合併靜脈液體注射。若病人持續噁 心嘔吐,考慮鼻胃管置入。 - ii. 止痛藥使用與抗生素使用。 - iii. 常見菌種:*Escherichia coli、Bacteroides fragilis*、Klebsiella、Enterococcus、Pseudomonas species。 - iv. 考慮作 percutaneous cholecystostomy,將膽汁 drainage 出來。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - ...五天 | | | (D) 術前三十分鐘 | | | (B) 24. 大腸內容物中最常見的細菌為: | 99(一)專 | | (A) Escherichia coli | 醫五-5 | | (B) Bacteroides | | | (C) Enterococcus | | | (D) Pseudomonas species | | | (C) 25. 大腸內容物中最常見的 aerobic bacteria 是下列何者? | 97(一)專 | | (A) Enterococcus | 醫五-1 | | (B) Proteus | | | (C) Escherichia coli | | | (D) Pseudomonas | | | | | Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (3) Enterococcus、S. pneumonia、group A streptococci、Haemophilus species、anaerobes、gram-negative bacilli 或真菌感染較少見。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 經驗性抗生素使用: - a. 若懷疑 Viridians streptococci 或 Enterococcus: penicillin 或 ampicillin 加上 gentamicin。 - b. 若懷疑 *Staphylococcus aureus*: penicillinase-resistant penicillin 或 vancomycin 加上 gentamicin。 - c. 若針對術後病童或是病童有 prosthetic valves,使用 vancomycin 與 gentamicin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

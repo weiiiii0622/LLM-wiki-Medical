@@ -11,6 +11,11 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Liver abscess (肝膿瘍)'
   - 'Liver abscess'
@@ -25,7 +30,7 @@ tags:
 
 ## Summary
 
-肝臟膿瘍可為細菌性或阿米巴性，表現發燒與右上腹痛。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟膿瘍可為細菌性或阿米巴性，表現發燒與右上腹痛。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +41,23 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book2-ch18]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch16]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- 1. 肝膿瘍有不同的致病機轉,通常與肝臟的解剖構造有關,如膽管、血管、腹部手術 後以及外傷等,途徑如下: - (1) 膽管:肝膿瘍最常見的致病途徑,當膽管因疾病(如膽結石、膽管癌等)或手 術導致膽管阻塞,會導致 biliary stasis,致病菌會經由膽管逆流而上形成膽管炎, 再往上進入肝臟就有可能形成肝膿瘍。 - (2) 肝門靜脈: 肝門靜脈收集來自腸胃道的血液後, 匯集於肝臟, 因此與腸胃道感染相關的病原都有機會經由肝門靜脈進入至肝臟, 常見 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- 1. 細菌性肝膿瘍:細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumonia),除此之外,大腸桿菌、金黃色葡萄球菌也是常見的致病菌種。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- 2. 阿米巴性肝膿瘍:阿米巴性肝膿瘍主要由阿米巴原蟲所引起,但隨著公共衛生的改善與飲用水的進步,目前已較少見了,但仍有可能因至偏遠地區旅遊時,當地衛生不潔而感染阿米巴原蟲,進而造成肝膿瘍。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- (D) 肝膿瘍 (Liver abscess) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (B) 肝膿瘍(liver abscess) 及腸壁積氣(pneumatosis intestinalis) Source: [[sources/med5-book3-ch16|戊、膽管癌]].
+- (A) liver abscess with necrosis Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 【詳解】此腫瘤位於 S23 與 S4 交界,導致左側的 IHD 擴張。從 CT 的 hypodensity 和 specimen 看起來,此腫瘤是 solid tumor 但是其中含有 cyst 和一些 necrotic 的成份。而從 CT 看起來也不是典型的 liver abscess。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (D) 3. 腹內實質臟器發生鈍性挫傷時,非手術療法(nonoperative management)已成為常態性之治療方式。當摩托車騎士受傷後,經確醫五-7認診斷為單獨性肝臟裂傷(isolated liver laceration),經採用非手術療法後,下列何種合併症比較不會出現? - (A) 延遲性腹內出血 (delayed hemorrhage) - (B) 肝膿瘍 (liver abscess) - (C) 黃疸 (jaundice) - (D) 血尿 (hematuria) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 1. 肝臟外科主要內容可以分為肝臟解剖組織、肝膿瘍、良性肝腫瘤、惡性肝癌 HCC。這五年的外科學,我覺得在肝臟的題目並不多也很零散,準備起來若是時間不夠,個人覺得可以挑出來看的部分。 - (1) 肝膿瘍:阿米巴性與細菌性的差別、臨床症狀、影像上的 finding。 - (2) **良性肝腫瘤**:肝血管瘤 (hepatic hemangioma)、肝臟局部結節性增生 (FNH, focal nodular hyperplasia)、以及肝腺瘤 (hepatocellular adenoma) 這三種在影像上的差別,如何鑑別診斷。 - (3) **HCC**: HCC 的診斷流程、有哪些治療、什麼時候可以開刀(看一下 BCLC 和 ICG test)。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 2. Liver abscess • Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
 - (B) 細菌性膿瘍 (pyogenic abscess) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ## F. 肝膿瘍 (Liver abscess) (Ref. Cecil Table 155-2) Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
@@ -48,7 +67,6 @@ tags:
 - (D) 1. 在臺灣引起肝膿瘍最常見的細菌為何? Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
 - (D) 2. 在臺灣地區未有肝膽疾病之病人,如罹患原發性肝膿瘍,其最可能 106(-) 專 的致病菌是: 醫三-60 - (A) 金黃色葡萄球菌 (Staphylococcus aureus) - (B) A 族鏈球菌 (group A streptococcus) - (C) 大腸桿菌 (E. coli) - (D) 克雷白氏肺炎桿菌 (Klebsiella pneumoniae) Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
 - (A) 致病菌為 Entamoeba dispar, 臨床上會引起 腸炎以及肝膿瘍等疾病 Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
-- (B) 肝膿瘍 (hepatic abscess) Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 
 ## Clinical Caveats
 

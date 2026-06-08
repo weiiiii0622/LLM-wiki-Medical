@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Pseudomonas aeruginosa infection (綠膿桿菌感染)'
   - 'Pseudomonas aeruginosa infection'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book2-ch05]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- (a) Grade III (severe) acute cholecystitis: - i. 先考慮保守治療,先讓病人 NPO,合併靜脈液體注射。若病人持續噁 心嘔吐,考慮鼻胃管置入。 - ii. 止痛藥使用與抗生素使用。 - iii. 常見菌種:*Escherichia coli、Bacteroides fragilis*、Klebsiella、Enterococcus、Pseudomonas species。 - iv. 考慮作 percutaneous cholecystostomy,將膽汁 drainage 出來。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - 1. 急性心內膜炎:病情較惡,病人大多無潛在性心臟病灶,常見致病菌為 S. aureus、Streptococcus pyogenes、Streptococcus pneumoniae、Pseudomonas aeruginosa。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...| (B) 24. 大腸內容物中最常見的細菌為: | 99(一)專 | | (A) Escherichia coli | 醫五-5 | | (B) Bacteroides | | | (C) Enterococcus | | | (D) Pseudomonas species | | | (C) 25. 大腸內容物中最常見的 aerobic bacteria 是下列何者? | 97(一)專 | | (A) Enterococcus | 醫五-1 | | (B) Proteus | | | (C) Escherichia coli | | | (D) Pseudomonas | | | | | Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -72,7 +75,6 @@ tags:
 - ## A. 假單孢菌 (Pseudomonas) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...nasyn | 肺炎鏈球菌 | 流感嗜血桿菌 | 腎 | | 4. Carboxy-PCN,+β lactamase inhibitor | Carbenicillin, Ticarcillin, → Timentin | 肺炎鏈球菌 | 綠膿桿菌 | 腎 | | 5. Ureido-PCN+β lactamase inhibitor | Piperacillin→ Tazocin | 肺炎鏈球菌 | 綠膿桿菌更可靠 | 腎 | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (1) 可用於對抗院內感染常見的綠膿桿菌(Pseudomonas),如院內感染的肺炎(Hospital acquired pneumonia, HAP)。對 Stenotrophomonas 感染也有其角色。此藥含鈉(Sodium content)較多,須小心使用,避免病患水分過多(fluid overload);另外可能影響血小版功能,導致出血。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (1) 結構更易進入格蘭氏陰性菌,對抗 Pseudomonas 效果更好。若是 Pseudomonas 引起的嚴重感染症,可考慮加 aminoglycosides。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

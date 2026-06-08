@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Hemoglobin A1c, HbA1c (糖化血色素)'
   - 'Hemoglobin A1c, HbA1c'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-反映近期平均血糖並作為糖尿病診斷與控制目標。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+反映近期平均血糖並作為糖尿病診斷與控制目標。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- (B) 2. 李先生 35 歲,BMI(body mass index): 43 kg/m²,過去一年努 1090 力藉由保守方法減重但效果不彰,本身亦有第二型糖尿病,且糖 化血紅素(HbA1C)指數為 8.5%,胃鏡檢查發現胃食道逆流程 度為 Los Angeles Grade C。李先生決定接受代謝減重手術治療, 下列何種手術最為適合? Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (D) 9. 一位 56 歲的男性糖尿病患,有糖尿病足來到門診,與醫師討論 有沒有可能憑藉換藥使傷口癒合,則下列何項最具決定性? - (A) 抽血檢查 HbA1c - (B) 安排神經傳導及肌電圖檢查(NCV/EMG) - (C) 做細菌培養 - (D) 檢查足背動脈與後脛動脈有無脈動 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - ...(C) 反應遲緩 (D)抽筋 (CD) 6. 張女士是一位 63 歲的獨居農婦,三週前清理田中雜草時割傷右 98(一)專 手中指,門診檢查發現手掌紅腫、手指彎曲、叩診腱鞘及被動伸 醫五-7 展中指時引發極度疼痛,血糖 430 mg/dL,糖化血色素 HbA1c 11%。住院給予廣效性抗生素及胰島素注射治療後症狀逐漸緩 解,第3天下午四點病房護士指尖採血驗血糖值為70 mg/dL, 當時張女士意識清楚,心跳每分鐘 75 次,皮膚溫暖乾燥,下列 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (1) 血糖相關檢測:空腹血糖值、口服葡萄糖耐受性試驗(OGTT)、糖化血色素 (HbA1c)。 - a. OGTT:以 1.75 g/kg (max: 75 g) 葡萄糖水口服後 2 小時抽血檢測血糖值, 正常值為 Gonadotropin or hCG-secreting tumor: tumors associated with tuberous germinoma · chorioepithelioma · sclerosis · teratoma teratoma · hepatoblastoma (b Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

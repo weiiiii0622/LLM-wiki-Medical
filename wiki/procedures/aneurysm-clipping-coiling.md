@@ -25,6 +25,15 @@ sources:
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book3-ch22]]"
 aliases:
   - 'Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)'
   - 'Aneurysm clipping/coiling'
@@ -39,7 +48,7 @@ tags:
 
 ## Summary
 
-ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +73,28 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - [[sources/med5-book2-ch11]]
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch16]]
+- [[sources/med5-book3-ch22]]
 
 ## Key Details From Sources
 
+- (b) 門脈主幹栓塞、下腔靜脈栓塞。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (6) 經導管動脈化學藥物栓塞治療(transcatheter arterial chemoembolization, TACE): - a. 前言: - (a) 在前面解剖的部分提及,肝臟有兩套血流系統,一套為門靜脈(portal vein),另外一套為肝臟動脈(hepatic artery),門靜脈提供了 75% 的血液及養分,而肝動脈提供了 25% 的血液及養分,但 HCC 大部份是藉由肝動脈血液快速成長,鮮少從肝門靜脈長出來。 - (b) 根據統計,動脈栓塞 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 7. 脾靜脈栓塞 (Splenic vein thrombosis)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 3. 腹部電腦斷層:良好的診斷工具。對於胰臟的萎縮、腺體的壞死,胰管擴張及胰鈣化,都能提供準確的診斷,除此之外電腦斷層檢查也可提供其他合併症的出現與否如pseudocyst、脾靜脈栓塞,與癌化的可能性。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- ...oxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以低血鈣來做表現。 | | | (D) | 2. 急性胰臟炎局部合併症中,下列何者最不常見? | 105(二)專 | | | (A) pancreatic phlegmon | 醫五 -34 | | | (B) pancreatic abscess | | | | (C) Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- ...變深、灰白便、身體發癢、皮 107(一)專 膚逐漸變黃,因此到院檢查。身體診察發現鞏膜變黃,下肢無水 醫五-32 腫,其CT影像上可見胰臟頭部有4公分左右腫瘤合併總膽管及 胰管擴大,針對此病患安排下列處置何者最不適當? (A) 安排血管攝影栓塞 (B) 測定 CEA, CA19-9 (C) 進行 ERCP (endoscopic retrograde cholangiopancreatography) 或 EUS (endoscopic ultrasonography) 合併切片 (D) 進行核磁共振膽胰攝影 (MRCP) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (C) 儘可能以手術切除 metastatic islet cell carcinoma (cytoreduction surgery)後,肝臟轉移的部分可以肝動脈栓塞來治療 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- ...moxifen 無效,可改用芳香 環酶抑制劑 (Aromatase Inhibitor)。 - (b) 副作用: - i. 熱潮紅。 - ii. 噁心、嘔吐。 - iii. 陰道出血。 - iv. 增加子宮內膜癌的機率。 - v. 增加靜脈栓塞的機率。 - b. 芳香環酶抑制劑(Aromatase Inhibitor): - (a) 簡介: - i. 新一代的荷爾蒙治療藥物。停經後婦女若使用 Tamoxifen 無效,則考慮使用芳香環酶抑制劑。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- iii. 不會增加子宮內膜癌及靜脈栓塞的機率。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - ...病變緩慢,風溼熱痊癒初期也都不太有症狀,通常至少十年過後才開始有症狀出現,會有疲倦、運動後呼吸困難、胸痛、心律不整,而後加重出現肺水腫及右心衰竭的症狀,如全身性靜脈鬱血、水腫、肝硬化、端坐呼吸、咳血等。另外血液滯留於心房形成血塊向外打出造成栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (d) 瓣膜置換手術 (mitral valve replacement): 若患者瓣膜嚴重狹窄、閉鎖,瓣膜和周圍組織嚴重鈣化,以及同時伴有嚴重 MR,則採用瓣膜置換手術,可選用機械性或生物性瓣膜。 - i. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎,且難以控制。 - ii. 生物性瓣膜: 血栓栓塞機率較低,抗凝血劑只需短期服用約3~6個月,但較無耐抗力,大約能使用10~20年,適用年紀較長者,因瓣膜失效時大約也已不久於世。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -75,16 +103,6 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - #### B. 深層靜脈栓塞 (Deep vein thrombosis, DVT) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 2. 雖然 myxoma 是良性的腫瘤,但黏液瘤的組織疏鬆脆弱,其碎片或面的血栓易脫落 造成系統性或局部血管栓塞。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- ...腫瘤約 25% 為良性,約 75% 為惡性 醫五-22 (B) 成人最常見原發性良性心臟內腫瘤為 myxoma (C) 15 歲以下孩童最常見原發性良性心臟內腫瘤為 rhabdomyoma (D) 即便是原發性良性心臟內腫瘤,一旦有心衰竭、栓塞症狀及 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- ...疾病合併左心室瘤的外科適應症? 100(一)專 (A) 充血性心臟衰竭 醫五 -36 (B) 感染性心內膜炎 (C) 心絞痛 (D) 心室性心律不整 【詳解】感染性心內膜炎以抗生素治療為主,除非治療失敗, 或是合併心臟衰竭、心肌膿瘍或反覆性栓塞才是外科適應症。 (C) 26. 冠狀動脈疾病合併厲害的心臟衰竭時,要決定繞道手術是否有益 99(二)專 於病人,必須作下列何種檢查以判定梗塞後的心肌細胞是否仍然 醫五-13 存活 (viable)? (A) 心電圖檢查 (B) 超音波檢查 (C) 核醫檢查 (thallium scanning) (D) 心導管檢查 【詳解】Thallium scanning:藉由注射 thallium-201 並偵測其在 心臟的分布情形得知病患運動時 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- 4. 併發症:除了前述之併發症外,肝臟移植要特別注意的是肝動脈栓塞、門靜脈栓塞、膽管狹窄或 leakage、膽管炎等。另外排斥的比例較高,高峰期是術後 4~21 天,確診須靠切片,治療以類固醇為主。而有 B 型肝炎帶原者之肝臟移植病患,需術後連續施打七天 HBIG,降低 B 型肝炎的復發率,之後一週一次 / 打四個 Course,一月一次 / 打六個 Course。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (2) 血管栓塞、狹窄;輸尿管狹窄、滲漏。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- ...54 mg/dL, 主治 醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決 然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 cc。以下什麼情況最可能解釋移植腎沒有發揮功能? (A) 移植腎腎小管壞死 (B) 移植腎腎動脈栓塞 (C) 移植腎腎靜脈栓塞 (D) 移植腎輸尿管壞死 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 4. 腹腔充氣 (Pneumoperitoneum): - (1) 腹腔鏡手術時需將腹腔充氣以便手術進行,以下為常使用之氣體: - a. CO2: 易溶於水,對腹膜刺激大,但不會引起氣爆、不易氣體栓塞、易從肺部排出。最常使用。 - b. N2O: 易溶於水,對腹膜刺激小,但會引起氣爆。 - c. Helium、Neon、Argon:不會有高碳酸血症,但因難溶於血漿,故易造成氣體栓塞。 - (2) 腹內壓維持在 10~15 mmHg。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- 5. 併發症: - (1) 氣體栓塞 (gas embolism): - a. 大的氣體栓塞會造成肺動脈阻塞。 - b. 症狀: End-tidal CO, 下降、血壓下降、心跳減慢、低血氫。 - c. 處置: - (a) 停止充氣。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- (b) Trendelenburg position (頭低腳高)且身體右側抬高:使氣體流向右心室 心尖,遠離右心室和肺動脈相接處 (right ventricular outflow),減緩栓塞。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- 2. 原因: 敗血症、惡性腫瘤、嚴重外傷或燒傷、休克、羊水栓塞、胎盤剝離、過期流產。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 3. 症狀:出血、栓塞、低血壓甚至休克、器官灌流不足、酸中毒。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 
 ## Clinical Caveats
 

@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Noninvasive ventilation, NIV (非侵襲性通氣)'
   - 'Noninvasive ventilation, NIV'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- 1. 惡性乳房腫瘤可以分成非侵襲性(Non-invasive)與侵襲性(invasive)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- 2. 非侵襲性癌(Non-invasive cancer):表示腫瘤尚未侵犯到乳房組織的乳管或乳小葉的基底膜,可再分成乳管原位癌(Ductal carcinoma in situ, DCIS)與葉狀原位癌(Lobular carcinoma in situ, LCIS)。 - (1) 乳管原位癌 (Ductal carcinoma in situ, DCIS): - a. 前言: - (a) 惡性乳管上皮細胞,未侵犯基底膜,仍侷限在乳管內,發生率約為 5~10%。 - (b) 可視為癌症前期病灶,50~60% 會 進展成同側乳癌,5~10% 會進展 成對側乳癌,最多45% 同時已伴 隨有乳癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (c) 化學治療: DCIS 為非侵襲性癌症,不考慮作化學治療。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (D) 36. 關於睡眠呼吸中止症(sleep apnea)的敘述,下列何者錯誤? (A) 呼吸中止(apnea)可以發生在非快速動眼期(NREM)或快速動眼期(REM)睡眠,通常非快速動眼期較常發生呼吸中止,而發生在快速動眼期則較嚴重 - (B) 選擇性血清素再吸收抑制劑(SSRI)治療呼吸中止症是藉由 減少快速動眼期睡眠所致 - (C) 早期認為阻塞型(obstructive)呼吸中止症較常抱怨白天嗜睡,中樞型(central)呼吸中止症較常抱怨失眠,近年研究發現嗜睡或失眠症狀均可發生在此2類型的呼吸中止症 - (D) 持續性呼吸道正壓儀器(CPAP)是用來治療中樞型呼吸中 止症 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - 【詳解】CPAP是用來治療阻塞型呼吸中止症。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (2) 除了給予氧氣或 CPAP (continuous positive airway pressure) 外,對於發生呼吸暫停但病人本身沒有 precipitating identifiable cause 可以給予 theophylline 或 caffeine 治療。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -60,7 +65,6 @@ tags:
 - (4) 若以上 Noninvasive stress test 陽性、心絞痛無法以藥物控制、疑似缺血性心臟病 導致 Cardiac arrest 或 Ventricular dysfunction 皆可進一步做心導管檢查 (Coronary arteriography)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (C) 10. 張先生 62 歲,高血壓服藥多年,今早上班時,因前胸撕裂性疼痛並延伸到背部,上肢血壓右側 128/76 mmHg,左側 102/68 mmHg,心臟聽診有第二度收縮期雜音,下列非侵襲性檢查何者對診斷最有幫助? - (A) 胸部 X 光 Source: [[sources/med3-book1-ch05|子、其 他]].
 - 2. 重度病患(AHI > 30): Nasal CPAP 為治療首選。若無法適應 nasal CPAP,可考慮 uvulopalatopharyngoplasty,但效果有限,成功率只有50%而且療效會隨著時間遞減。 Source: [[sources/med3-book1-ch17|子、阻塞性睡眠呼吸停止症候群]].
-- &lt;sup>cThis may be delivered noninvasively in the mild acute respiratory distress syndrome group. Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
 
 ## Clinical Caveats
 

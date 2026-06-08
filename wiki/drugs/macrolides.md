@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med5-book3-ch02]]"
 aliases:
   - 'Macrolides (巨環內酯類)'
   - 'Macrolides'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med5-book3-ch02]]
 
 ## Key Details From Sources
 
+- 【詳解】幽門螺旋桿菌(Helicobacter pylori) 感染以藥物保守性治療為主, ex: Clarithromycin + Amoxicillin。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 3. 猝死(sudden death):Low potency 與 high potency 的藥物都曾經有 case report 過,當 pimozide 與 clarithromycin、erythromycin、azithromycin 與 dirithromycin 合 併 使用時容易發生。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - ...: - a. General: Benzathine penicillin: 1.2 million units IM 或 procaine penicillin G 600,000 units IV daily for 10 days. Erythromycin is altered if allergic to penicillin。 - b. Carditis: - (a) Without cardiomegaly: aspirin 80 mg/kg/day, 一天分成四次給藥直到症狀 改善或是 ESR 下降至正常。 - (b) With cardiomegaly: prednisone 1~2 mg/kg/day, 一天分成三次給藥並且持續給藥 2~4 週後,開始給予 aspirin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -62,7 +65,6 @@ tags:
 - (D) oral erythromycin Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (A) 3. 一個 3 天大新生兒,雙眼有化膿性分泌物,格蘭氏染色(Gram stain) 104( ) 專 為格蘭氏陰性雙球菌,應選用何種抗生素治療? 醫三-63 - (A) ceftriaxone - (B) erythromycin - (C) oxacillin - (D) tetracycline Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...狀動脈硬化、免疫缺乏、有心瓣膜、 | | | 治療用藥 | Multidrug resis. | Ciprofloxacin | 嚴重關節病變需要給予 Ceftriaxone ] | | | | withtitiding resis. | Azithromycin | 成里爾即內妥而安和」 Centraxone 实Ciprofloxacin | | | | Quinolone resis. | Ceftriaxone, | Cipionoxaciii | | | | Azithromycin | | | | | 通報 | 第二類法定傳染 | 病→24小時內通報 | 不須通報 | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (AB) 3. 一位病人接受腎移植後服用環孢靈(cyclosporine),下列何種藥物 98(二)專 應避免使用? 醫三-3 (A) Allopurinol (B) 紅黴素 (erythromycin) (C) 阿斯匹靈 (aspirin) (D) 氫離子幫浦抑制劑 (proton pump inhibitor) 【詳解】erythromycin 是 cytochrome P 450 CYP3A4 抑制劑,會增 加藥物濃度。 (A) 4. 腎臟移植手術一個月之內比較少見的感染為何? 97(一)專 (A) BK virus (polyoma) (B) 泌尿道感染 醫三-29 (C) oral candidiasis (D) herpe Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 
 ## Clinical Caveats
 

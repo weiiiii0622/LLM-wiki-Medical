@@ -49,6 +49,7 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Heart failure (心臟衰竭)'
   - 'Heart failure'
@@ -63,7 +64,7 @@ tags:
 
 ## Summary
 
-心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +113,12 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- ...能認定,合併甲型胎兒蛋白(AFP)大於 **200**,也可診斷 為 HCC,不須加做切片。 - c. 只有一種影像檢查能認定, AFP 肝硬化程度:Child-Pugh A。肝腫瘤:單顆、原位癌、2公分以下。治療:手術切除腫瘤。 | | Stage A-C | 日常生活功能:0~2級。肝硬化程度:Child-Pugh為 A-B,再依照病人的體能狀況、肝腫瘤顆數、有無黃疸、有無肝門高壓、肝門靜脈侵犯、淋巴轉移等去區分出 stageA-C。 | | Stage D | 日常生活功能:3~4級。肝硬化:Child-Pugh C。肝癌:只要有肝癌腫瘤,不管尺寸大小、腫瘤數目。治療:症狀治療(支持性療法)。 | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- ...脈提供了 25% 的血液及養分,但 HCC 大部份是藉由肝動脈血液快速成長,鮮少從肝門靜脈長出來。 - (b) 根據統計,動脈栓塞術可有效的造成廣泛性的腫瘤壞死。雖然不屬於治癒性治療,但可以改善病人的預後。 - b. 適應症:在 BCLC stage B 的病人,肝腫瘤尺寸較大或為多發性,但尚無血管 侵犯,動脈栓塞術為第一線的治療。 - c. 作法: - (a) 穿刺股動脈並將導管置入股動脈,再往上抵達腹主動脈幹後,繼續往前進入**肝動脈**。 - (b) 使用化學治療藥物如 Doxorubicin 或 Adriamycin 等藥物混合 Lipiodol 顯影 劑針對 HCC 灌注。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 3. 因壓迫鄰近器官而有的臨床表現:congestive heart failure (aortic root aneurysm with dilatation 造成 aortic regurgitation)、Hoarseness (aortic arch aneurysm 壓到 left recurrent laryngeal or vagus nerves)、呼吸困難、pulmonary compression、吞嚥困難、易飽足感(壓迫到胃)、嘔吐。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - ...ardiac disease | Stable coronary disease; remote MI; EF > 35% | Significant coronarydisease; recent MI; frequentangina; CHF; EF 1 > 1 L/sec | O 2 dependent; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 1. Absolute indications: - (1) 因 heart failure 所導致的 hemodynamic compromise。 - a. Refractory cardiogenic shock • - b. 需要持續倚賴給予 IV inotropic agent 才能達到足夠的 organ perfusion。 - c. Peak $VO_2 2 11~14 mL/kg/min 且對日常活動造成限制。 - (2) 反覆性 unstable angina 且無法靠其他方法有效控制。 - (3) 病患在常規治療下仍舊體液不平衡或腎功能不穩定。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
@@ -131,8 +135,6 @@ tags:
 - ...70 歲男性病患,因十二指腸大量出血接受手術。術後第三 99(一)專 天病人的血清鈉離子濃度為 126 mEq/L, 鉀離子濃度為 4.7 mEq/L, 醫五 -32 氯離子濃度為 85 mEq/L,病人的數據反映出病況為: (A) 鬱血性心臟衰竭 (B) 鼻胃管大量引流 (C) 抗利尿荷爾蒙分泌不適當(SIADH) (D) 尿中鈉離子流失 【詳解】病患血鈉和氯離子偏低,病患年紀大月剛接受完手術, SIADH 的可能性最高。(A) 可能會看到病患有水腫情形。(B)NG 引流會造成氯離子流失,代謝性鹼血症,但不會低鈉。(D) 血中 氯離子不會降低。 (C) 4. 承上題,對於本病人的情況,應如何處置? 99(一)專 (A) 給予含鈉離子的大量輸液 醫五-33 (B) 給予強心劑 ( Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 2. 原因: - (1) 低血容性(hypovolemic):大出血或大量體液流失(燒傷、胰臟炎等)造成休克。 - (2) 心因性休克(cardiogenic):急性心肌梗塞、心臟衰竭、心律不整,影響到有效心輸出量而造成休克。 - (3) 分配性 (distributive):分為敗血性 (septic)、過敏性 (anaphylactic) 和神經性 (neurogenic)。 - a. 敗血性休克:遭細菌感染釋放出之毒素,使得 TNF-α、IL-1、IL-6、IL-8 會增加,造成周邊血管擴張,vessel tone 下降,血管內有效容積下降,引起休克。 - b. 過敏性休克: 因嚴重的過敏反應而引發體內細胞釋放 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (A) 常見之 surgical indication 為 end-stage pulmonary vascular disease 以及 end-stage bronchopulmonary pathology Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (B) 37. 一位 25 歲的半導體工廠員工,右手臂不小心被 49% 的氫氟酸 (hydrofluoric acid, HF) 潑到約 5% 體表面,20 分鐘後到急診室,此時皮膚微紅,起一個直徑兩公分之水泡,無其他全身性症狀。下列敘述何者錯誤? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- 約 10~15% 失智症是可逆性的,尤其是因為系統性疾病如腎臟病、鬱血性心臟衰竭、甲狀腺功能低下、維生素缺乏、藥物或憂鬱症導致的失智症。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 
 ## Clinical Caveats
 

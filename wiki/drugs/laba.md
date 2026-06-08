@@ -25,6 +25,7 @@ sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch07]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- (B) 長效體抑素作用類似物(long-acting somatostatin analogues) 治療無效 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 腎上腺手術前準備藥物,以長效型 bisoprolol 為首選 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - (A) 抗精神病長效針劑是治療譫妄之首選藥物之一 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (C) 晚上投與長效安眠藥物改善睡眠 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
@@ -84,7 +87,6 @@ tags:
 - (C) 當病人發生疼痛時給予適量短效嗎啡,待穩定後改為長效嗎啡 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (D) 直接給予長效嗎啡,避免影響患者睡眠 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (D) 給予長效型 morphine sulfate,有 breakthrough pain 時再給予即效型 morphine sulfate Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...(A) 用含 5-fluorouracil, leucovorin, oxaliplatin (FOLFOX) 的化學治療 - (B) 用 loperamide - (C) 切除迴盲腸的腫瘤 (ileocecal mass) - (D) 用長效型 octreotide Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

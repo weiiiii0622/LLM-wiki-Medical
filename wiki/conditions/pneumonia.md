@@ -65,6 +65,7 @@ sources:
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book3-ch09]]"
 aliases:
   - 'Pneumonia (肺炎)'
   - 'Pneumonia'
@@ -79,7 +80,7 @@ tags:
 
 ## Summary
 
-肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -144,9 +145,13 @@ tags:
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...就有可能形成肝膿瘍。 - (2) 肝門靜脈: 肝門靜脈收集來自腸胃道的血液後, 匯集於肝臟, 因此與腸胃道感染相關的病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成肝膿瘍。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- 1. 細菌性肝膿瘍:細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumonia),除此之外,大腸桿菌、金黃色葡萄球菌也是常見的致病菌種。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- 【 詳解】細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumoniae)。只有50%病人可以從血液培養出致病菌。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - b. 如果嬰兒有 large VSD 且一出生就心衰竭且無法靠藥物控制、發育遲緩、肺高壓或反覆性肺炎,則需立即開刀。早期會作肺動脈繃紮術(pulmonary artery banding, PA banding)減少肺動脈血流,減緩肺高壓和心衰竭的情形,大一點再作 VSD 修補,不過隨著嬰兒開心手術的進步,現在比較少作 PA banding。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - .... 承上題,上述治療主要的目的是: | 99(二)專 | | (A) 溶解肺動脈栓塞 | 醫 5-10 | | (B) 使動脈性導管(ductus arteriosus)打開 | | | (C) 將肺動脈瓣打開 | | | (D) 治療急性肺炎 | | | (C) 28. 承上題,若病人情況改善之後,下列何種治療不適於此病人之下 | 00(一) 亩 | | 一步治療計畫? | 器 5-11 | | (A) 肺動脈瓣切開術 | 函 ひ 11 | | (B) 體動脈至肺動脈分流術 | | | (C) 肺動脈環縮術 | | | (D) 作越過肺動脈環部的布塊(transannular patch)來擴大右心 | | | 室出口 | | | 【詳解】已經肺動脈瓣閉鎖,再作 PA ba Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (1) Open repair: - a. 心肌梗塞最常見。 - b. 腎衰竭:第二常見。 - c. 肺炎。 - d. Ischemia colitis: 術中 improper ligation of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 auton Source: [[sources/med5-book2-ch02|乙、血管瘤]].
@@ -162,9 +167,6 @@ tags:
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (3) 移植六個月之後,移植受贈者的情況較穩定,感染就跟一般社會大眾一樣 (community-acquired),如流感、泌尿道感染及肺炎雙球菌肺炎。唯一伺機性 病毒感染為 herpes zoster;而 CMV 視網膜炎則較罕見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 細菌性肺炎(bacterial pneumonia) Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (2) 診斷後,很少能活超過5年,常死於肺炎。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...|------------------------------------------------------------------------------|--|--|--|--| | Infection | HIV, sepsis, Pneumonia | | | | | | W ithdrawal | Alcohol, barbiturate, sedative-hypnotic | | | | | | Acute metabolic | Acidosis, alkalosis, electrolyte disturbance, hepatic failure, renal failure | | | | | | Trauma | Closed-head injury, heat Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- ...嚴重,甚至造成肺部發炎(pneumonitis)或腦炎(encephalitis)等併發症。(\*當肺部發生感染或是受到刺激而導致發炎稱為 Pneumonitis,而當肺部組織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. First trimester 中感染病毒有機會造成 fetal varicella syndrome: limb hypoplasia、muscular atrophy、skin scarring、cort Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

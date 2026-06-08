@@ -19,6 +19,9 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Malignant spinal cord compression (惡性脊髓壓迫)'
   - 'Malignant spinal cord compression'
@@ -33,7 +36,7 @@ tags:
 
 ## Summary
 
-癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +55,17 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (C) Occult breast cancer 的定義為有 lymph node 的 metastasisc 或 distant 的 metastasis,但沒有臨床上或影像上乳房腫瘤的證據。 對於此種 occult breast cancer,MRI 算是相當有效的檢查。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (a) pN1mi: micrometastasis (大小介於 0.2 mm 到 2.0 mm 之間)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- M: Metastasis, p: pathological) Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (A) 肝臟轉移腫瘤 (liver metastasis) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- ...| |---------|----------------------------------|-------------------------------|---------| | | 其他轉移病灶(no evidence | of metastasis),那一種處理應優先 | 醫五 -19 | | | 考慮? | | | | | (A) stent and chemotherapy | | | | | (B) local excision and radiother | rapy | | | | (C) Whipple procedure | | | | | (D) radiotherapy | | | | | 【詳解】Periampullary tumor | 的術式首選為 Whi Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...| | | N | Regional Lymph nodes | | | | Nx | Regional lymph nodes cannot be assessed | | | | N0 | No regional lymph node metastasis | | | | N1 | Metastasis in 1-3 regional lymph nodes | | | | Nla | Metastasis in one regional lymph node | | | | N1b | Metastasis in 2-3 regional lymph nodes | | | | Nlc | Tumor deposit(s) in the subserosa, mesentery, or Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...| onal Lymph Nodes (N) | | | | | | Nx | Regional lymph nodes cannot be assessed | | | | | | N0 | No regional lymph node metastasis | | | | | | N1 | Metastasis in perirectal lymph node(s) | | | | | | N2 | Metastasis in unilateral internal iliac and/or inguinal lymph node(s) | | | | | | N3 | Metastasis in perirectal and inguinal lymph nodes and/or bi Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (7) 預後:分化良好型甲狀腺癌有許多套預後評估系統,常用的有 AGES (Age, pathologic Grade of tumor, and Extent and Size of primary tumor) 或 AMES (Age, distant Metastasis, Extent of the primary tumor, and the Size of the primary tumor)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -68,11 +79,6 @@ tags:
 - 【詳解】(C) metastasis 會有 ring enhancement and perifocal edema。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...----------------------------|-------------------------------------------------------------|--|--|--| | N1 | 1 | a: Micrometastasis | | | | | | | b: Macrometastasis | | | | | N2 | 2~3 | a: Micrometastasis | | | | | | | b: Macrometastasis | | | | | | | c: In-transit meta(s)/satellite(s) without metastatic nodes | | | | | N3 | Four or more nodes, or m Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - ...手術切除的主流。 - b. Indication: - (a) High risk of local recurrence • - (b) Need for tissue preservation • - (c) High risk of metastasis • Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 兒童心臟惡性腫瘤臨床上更少見,大部分惡性腫瘤為 sarcomas,例如 angiosarcomas、rhabdosarcomas、fibrosarcomas。其他更少見的有 lymphoma 或是 pheochromocytomas。臨床上,兒童心臟惡性腫瘤多為 secondary; 比較常見的病因有 Wilms tumor 或是 lymphoma/leukemia 造成的 metastasis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- #### C. 脊髓壓迫 (Spinal cord compression) Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- 1. 定義:腫瘤轉移至 vertebral body, 使脊髓壓迫。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (3) 蝕骨轉移 (osteolytic metastasis) - a. 常見於乳癌、多發性骨髓癌。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (B) 30. 胡先生,80 歲,與太太同住,有三男一女。五個月前發生下背痛,漸感下肢無力,走路困難,急診發現第四胸椎病理性骨折,導致脊髓壓迫,入院檢查為胃腺癌併肝、肺和脊椎轉移,手術後再接受化學治療及放射治療。因症狀持續惡化,在家人要求下照會並轉入安寧病房。病情方面,病人只知道神經壓迫引起下肢不適,不知是癌症末期,家人接受病情但擔心病人得知後會無法承受。下列有關病情告知的敘述,何者錯誤? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

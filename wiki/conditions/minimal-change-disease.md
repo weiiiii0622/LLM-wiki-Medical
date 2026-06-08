@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Minimal change disease, MCD (微小變化疾病)'
   - 'Minimal change disease, MCD'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-足細胞病變造成 nephrotic syndrome，兒童常見且類固醇反應佳。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+足細胞病變造成 nephrotic syndrome，兒童常見且類固醇反應佳。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- (1) 胃鏡除了可直接觀察胃內部黏膜微小變化, 更可以針對可疑病灶作活體切片病理檢查及 細胞學檢查。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...litis and | | | cryoglobulinemia, | | | Hemolytic-uremic syndrome | | Epithelial disease | Membranous nephropathy | | | Minimal change disease | | | Focal and segmental glomerulosclerosis | | | Class V lupus nephritis | | | Diabetic nephropathy | Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (A) 微小變化型腎病變(minimal change nephropathy) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (B) 13. 12 歲的男童幾天前有呼吸道感染,這兩天出現眼皮浮腫,陰囊水腫。尿液檢查顯示尿蛋白 >300 mg/dL, RBC 3~5/HPF,血中白蛋白 1.7 gm/dL,醫師給予類固醇治療 8 週之後,再次檢測尿蛋白仍是 >300 mg/dL 反應,且血中肌酐酸值兩個月間增加了 1.2 mg/dL,下列何者最可能是男童的診斷? - (A) 微小變化型腎病變 (minimal change nephropathy) - (B) 局部巢狀腎絲球硬化(focal segmental glomerulosclerosis) - (C) 腎絲球基底膜薄膜病 (thin glomerular basement membrane disease) - (D) IgA 腎炎 (IgA nephropathy) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

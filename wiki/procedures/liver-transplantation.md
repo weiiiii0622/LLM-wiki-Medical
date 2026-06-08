@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch16]]"
 aliases:
   - 'Liver transplantation (肝臟移植)'
   - 'Liver transplantation'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-末期肝病、部分 HCC 或肝衰竭的根本治療選項。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+末期肝病、部分 HCC 或肝衰竭的根本治療選項。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch16]]
 
 ## Key Details From Sources
 
+- a. 根據 Milan criteria,決定病人是否適合接受肝臟移植。 - (a) 單顆腫瘤:尺寸必須小於或等於5公分。 - (b) 多發性腫瘤:數目必須小於等於三顆,尺寸最大者必須不大於3公分。 - (c) 沒有大血管的侵犯。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 【詳解】在肝臟移植方面,歐美國家以MELD score 為評估方式,項目包含總膽紅素(total bilirubin)、凝血時間(INR)、腎功能(creatinine level)。以下列公式計算: MELD = 3.78 [Ln serum bilirubin (mg/dL)] + 11.2 [Ln INR] + 9.57 [Ln serum creatinine (mg/dL)] + 6.43 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (C) 14. 肝癌病人若因肝功能過差而無法手術切除者,可考慮肝臟移植手 104(-)專 術,但應符合米蘭規約(Milan criteria),其中不包括: 醫五-33 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 1. 外科切除或肝臟移植手術式是唯一有治癒效果的方式。但膽道癌被發現通常較晚, 僅不到 1/3 的病人能夠藉由外科介入的方式 治療。 - (1) 肝內膽管癌:肝切除,預後較差。 - (2) 肝門膽管癌:必須要看膽道癌的 Bismuth classification 來作決定。 - a. Types I and II: 必須要作肝外膽道 與膽囊的 en bloc resection,再加上 Roux-en-Y hepaticojejunostomy。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - (4) 成年人捐贈部分肝臟移植於其五親等以內之姻親,或滿十八歲之未成年人捐贈部分肝臟移植於其五親等以內之親屬,則不受「需為成年人」及「移植對象」之限制。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 4. 併發症:除了前述之併發症外,肝臟移植要特別注意的是肝動脈栓塞、門靜脈栓塞、膽管狹窄或 leakage、膽管炎等。另外排斥的比例較高,高峰期是術後 4~21 天,確診須靠切片,治療以類固醇為主。而有 B 型肝炎帶原者之肝臟移植病患,需術後連續施打七天 HBIG,降低 B 型肝炎的復發率,之後一週一次 / 打四個 Course,一月一次 / 打六個 Course。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...amycin) 和 Cyclosporine 都屬於 Calcineurin inhibitors (D) Tacrolimus 和 Cyclosporine 都是常用於腎臟移植術後的藥物, 但是同時也具有腎毒性的副作用 (D) 7. 有關肝臟移植的適應症,下列何者錯誤? 102(一)專 (A) Primary sclerosing cholangitis 醫五-9 (B) Failure of a previous liver graft (C) Alagille's syndrome (D) Colon cancer with liver metastases (AC) 8. 目前器官移植後,常用的藥物為 Tacrolimus (又稱 FK-506 或 101(二)專 Pro Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -56,6 +64,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/hepatectomy|Hepatectomy / liver resection (肝切除術)]]
 - [[conditions/hepatocellular-carcinoma|Hepatocellular carcinoma, HCC (肝細胞癌)]]
 - [[conditions/liver-cirrhosis|Liver cirrhosis (肝硬化)]]
 - [[concepts/organ-transplantation|Organ transplantation (器官移植)]]

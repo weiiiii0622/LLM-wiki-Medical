@@ -94,6 +94,10 @@ sources:
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Hypertension (高血壓)'
   - 'Hypertension'
@@ -108,7 +112,7 @@ tags:
 
 ## Summary
 
-血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -202,9 +206,18 @@ tags:
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book3-ch08]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- 【詳解】(D) 在 portal hypertension 的情形之下,會導致 portal system 與 venous system 產生 collateral vein,也就是我們所說的 varices,增加出血的風險。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- (C) 8. 門脈高血壓患者,血液經肝臟回流受阻,下列何者不會造成靜99(ニ)專脈曲張 (varices)?醫五-50 - (A) Esophageal veins - (B) Paraumbilical veins Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- ...| | | 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 【詳解】題幹描述並不精準。這個 data 最合理的推測就是 B 肝 導致 Liver cirrhosis 合併 HCC, 因為 portal hypertension 後 splenomegaly 引起 thrombocytopenia。這種 condition 可能也不適合手術了。但撇除掉這些,如果真的要開刀,那當然 (B)(C)(D) 都很重要必須考慮。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 【詳解】遠端脾腎靜脈分流術屬於 selective shunt,斷 coronary vein,重建 gastroepiploic vein 至 left renal vein,減少 EV/GV bleeding 但 portal hypertension 加深,增加臟器回流壓力,ascite 加劇。門脈下腔靜脈分流術 (portacaval shunt) 屬於 non-selective shunt,可做 Total (end to side) or partial (side to side) shunt,減少血流進肝臟去解毒,故加深腦性肝病變,同時肝臟因缺血提早肝衰竭。此兩者都是治療因嚴重肝硬化導致 GI bleeding 的 salvage surgery,等待最終肝移植的 br Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...或 uncomplicated。 - (1) Complicated: 如果病人有 rupture、limb ischemia、abdominal malperfusion、persistent pain 或 uncontrollable hypertension等 complication,則需要積極處置,例如 fenestration(在 intimal flap 上打洞讓假腔內的血流回真腔,使假腔減壓以舒緩真腔所受到的壓迫)、放支架、主動脈置換手術或是血管繞道手術。 - (2) Uncomplicated: 病人為 uncomplicated,則以藥物治療為主(anti-impulse therapy)。(後面另詳述 anti-impulse therapy) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (D) 4.50 歲男性病患主訴,有高血壓病史,未接受規則性之治療,3 星期前有突發性撕裂性背痛至今仍舊無法緩解。電腦斷層顯示如下圖,下列診斷及治療何者錯誤? Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (A) 主動脈剝離病人往往合併有高血壓或主動脈瓣膜疾病 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
@@ -218,11 +231,6 @@ tags:
 - 3. 常見造成動脈瘤的因子如下: - (1) 先天血管壁異常 (medial gap)。 - (2) 動脈硬化。 - (3) 高血壓。 - (4) 感染 (mycotic aneurysm)、外傷等。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (D) 1. 傳統預防腦動脈瘤破裂出血後的腦血管痙攣(cerebral vasospasm) 108( ) 専有所謂的 "Triple-H" therapy,下列何者不包含於 Triple-H ? - (A) hypervolemia - (B) hypertension - (C) hemodilution - (D) hyperventilation Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 情況: 57 歲王先生平時有高血壓但無規則服藥控制,在家中看電視時突發劇烈頭痛合併頸部僵硬,因頭痛難耐被送至急診室,腦部電腦斷層檢查如下圖。請依此回答下列第8題至第9題: Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- 1. Prednisolone: 具有抗發炎和免疫抑制的作用,抑制 macrophage,降低 IL-1,2,6 和 TNF 的分泌。副作用有水牛肩、月亮臉、骨質疏鬆、肌肉無力、高血壓、高血糖、感染、消化道潰瘍,少數人會白內障或青光眼。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 6. Sirolimus:機轉不同於 Cyclosporine 和 Tacrolimus,作用在 mTOR (或稱 FRAP1),抑制 IL-2 和其他細胞內的訊息傳遞,阻斷 T 和 B 細胞的活化。不具腎毒性,且因作用機轉不同於目前其他免疫抑制劑,所以常用來和其他免疫抑制劑合併使用來增強效果,並減低其他藥物的副作用。副作用有高血壓、腹瀉、水腫、蛋白尿、血小板下降、白血球下降、貧血及高血脂。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 3. 橋腦: 10~15%, 90% 的橋腦出血病因為高血壓。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- 1. 高血壓:占五成,高血壓使血管壁形成 Charcot-Bouchard's aneurysm,然後導致破裂出血。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 
 ## Clinical Caveats
 

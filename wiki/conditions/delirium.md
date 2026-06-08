@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Delirium (譫妄)'
   - 'Delirium'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-急性波動性注意力與意識障礙，常由感染、藥物、代謝或住院壓力誘發。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性波動性注意力與意識障礙，常由感染、藥物、代謝或住院壓力誘發。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- (C) 腹痛(abdominal pain) (D) 意識譫妄(delirium) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - | 中文 | 英文 | 描述 | 對刺激 | | |----|------------|----------------------------|--------------------|--| | 清醒 | Clear | 意識清醒 | | | | 混亂 | Confusion | 注意力變差、反應變慢、無法正確思考 | | | | 譫妄 | Delirium | 混亂的意識狀態起起伏伏 (Wax and wane) | | | | 嗜睡 | Drowsiness | 意識昏迷 | 對刺激能很快清醒、做出反應 | | | 木僵 | Stupor | 意識昏迷 | 對強烈刺激僅有張眼等簡單動作 | | | 昏迷 | Coma | 意識昏迷 | 對強烈刺激毫無反應 | | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (D) 5. 李先生,75 歲,有高血壓、糖尿病病史,因突發性右側肢體乏力,兩側眼球偏轉到左側,合併意識障礙而住院診治。如果李先生是腦梗塞患者,下列何者正確? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (C) 15. 意識障礙最常見之原因是: Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
@@ -66,7 +69,6 @@ tags:
 - (C) 11. 一位 70 歲女性患者,二年來持續有急躁、易怒、囉嗦、多疑、 99( ) 專 夜眠差、記憶受損、智能全面退化等症狀,難以勝任簡單家務。 醫四 -63 該患者之診斷最可能是: - (A) 譫妄 (delirium) - (B) 精神分裂症(schizophrenic disorder) - (C) 失智症 (dementia) - (D) 妄想症 (delusional disorder) Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 【詳解】譫妄通常是急性發作,合併有幻覺、意識障礙;思覺 失調症女性通常發病年齡為 25~30 歲;妄想症的病人通常不會 合併記憶或認知功能受損。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - | 接受體 | 相關副作用 | |--------------------------------------------------------------|-----------------------| | 組織胺受體(anti-histamine) | 頭昏、鎮靜、食欲增加,常用在幫助老人的安眠 | | 膽鹼性受體(muscarinic cholinergic receptor antagonist) | 便秘、口乾、視力模糊,老人用容易產生譫妄 | | $\alpha_1$ 腎上腺受體( $\alpha_1$ adrenergic receptor antagonist) | 頭昏、姿態性低血壓,老人使用容易半夜跌倒 | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- ...| | Neurology | Blurred vision · Muscle fasciculation · Clonic limb | | | | | movement · Hyperactive DTR · Convulsion · Delirium · | | | | | Syncope · EEG change · Stupor · Coma · Circulatory | | | | | failure | | | 嚴重(>2.5 mEq/L) | | Generalized convulsions · Oliguria · Renal failure · Death | | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 
 ## Clinical Caveats
 

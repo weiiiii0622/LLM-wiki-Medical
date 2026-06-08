@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Helicobacter pylori testing (幽門螺旋桿菌檢測)'
   - 'Helicobacter pylori testing'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-H. pylori 可用侵入性或非侵入性檢測確認。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+H. pylori 可用侵入性或非侵入性檢測確認。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ H. pylori 可用侵入性或非侵入性檢測確認。 本頁已整合至 `醫(
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch18]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- ...。 - c. 好發於胃部近端,易由淋巴循環轉移。 - (2) 腸道型 (intestinal-type cancers, 30%): - a. 胃癌細胞結合性較佳,腫瘤細胞會排列成腺體構造。 - b. 好發於男性與年老病人。 - c. 與 H. pylori 的感染息息相關。 - d. 病灶好發於胃部遠端, 易由血液循環轉移。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 【詳解】(A)(B)(D) intestinal type 好發於男性與年老病人,與環境影響、H. pylori 的感染息息相關。腸道型腫瘤好發於胃部遠端,易由血液循環轉移。(C) 這個選項我覺得出的不好,gastric cancer intestinal type 與 p53、p16 有關係沒錯,但是 p53 是個oncoprotein,應是 overexpression 才會造成 cancer,p16 為 tumor suppressor gene,經 mutation之後 inactivation,造成 cancer 的產生。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary effusion lymphoma, Multicentric Castleman's dz. | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - ...lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...ticus, V. vulnificus | ndv 🛧 | | | 腸道 | 桿 空腸彎曲桿菌 | Campylobacter | C. jejuni | 嗜 章* | | | 桿菌 | 菌幽門螺旋桿菌 | Helicobacter | H. pylori | 1" | | | | 假單胞菌 | Pseudomonas | P. aeruginosa | | | 桿菌(D) | | 類桿菌 | Bacteroid | B. fragilis | 厭氧 | | | 呼吸道桿菌 | 嗜血桿菌 | Haemophilus | H. influenzae, H. ducreyi | | | | | 博得氏菌 | Bordetella | B. pertusis | 1 | | | | 退伍軍人菌 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

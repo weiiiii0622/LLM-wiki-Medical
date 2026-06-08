@@ -5,6 +5,8 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book3-ch05]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Intestinal malrotation (腸旋轉不良)'
   - 'Intestinal malrotation'
@@ -19,14 +21,18 @@ tags:
 
 ## Summary
 
-中腸旋轉固定異常，可造成 volvulus 與膽汁性嘔吐急症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中腸旋轉固定異常，可造成 volvulus 與膽汁性嘔吐急症。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book3-ch05]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- (C) 1. 下列何者是成人機械性腸阻塞(mechanical obstruction)最主要的 104( 二)專 成因? 醫五-36 - (A) 疝氣 - (B) 癌症 - (C) 手術後沾黏 - (D) 腸扭轉 (malrotation) Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
+- (D) 6. 下列何種症 狀或檢查和中腸扭結 (midgut volvulus) 無關? 102(-) 専(A) 血便 - (B) 貧血 - (C) 腹脹 - (D) 腹部 X 光攝影 (plain abdomen) 可用來確定診斷 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - V. 胃與腸道 (Stomach and Intestines) 68 - A. 肥厚性幽門狹窄 68 - B. 十二指腸閉鎖 71 - C. 腸轉位異常 71 - D. 腸套疊 72 - E. 梅克爾氏憩室 73 - F. 功能性便秘 74 - G. 先天性巨腸症 75 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - # C. 腸轉位異常 (Malrotation) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (2) 腸轉位異常發生在當回到腹腔後中腸便停止迴轉,僅有第一、二段的十二指腸 有在正常的位置上。餘下部分十二指腸,空腸、迴腸停留在腹腔右側,大腸在 左側。 Source: [[sources/med4-book1-ch02|乙、消化系統]].

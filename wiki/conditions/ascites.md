@@ -23,6 +23,10 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Ascites (腹水)'
   - 'Ascites'
@@ -37,7 +41,7 @@ tags:
 
 ## Summary
 
-腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +64,22 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book3-ch08]]
+- [[sources/med5-book3-ch17]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- 【詳解】內科外科都會考,未來在內外科用到的機會也非常多。 由 Encephalopathy(1), Ascites(1), Bilirubin(2), Albumin(1), PTINR(1)所組成。此病人算起來 6 分。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- $2 \, \, \mathcal{H}$ : one or more of pleural effusion, ascites, vascular complications, parenchymal complications and or gastrointestinal involvement Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
+- 2. 外科介入:在急性胰臟炎早期,大多以內科支持性治療為主,不須介入性的治療。 但若治療期間出現以下狀況導致腹部高壓進而造成腔室症候群,必須考慮外科介入 處理。 - (1) 後腹腔水腫。 - (2) 腹水產生。 - (3) 腸阻塞。 - (4) 在胰臟炎後期,有些病人會出現併發症如壞死性胰臟炎,壞死組織會受到感染, 此時就需要進一步的清創治療。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
+- (b) 到底什麼才算是肝功能代常良好呢?日本人不虧是一個細膩的民族, Makuuchi 醫師利用有無腹水、有無黃疸、ICG 清除率為何,更精確的估 計肝功能代償的狀況,讓外科醫師有所依據,算出能夠切除的量,確保 肝臟被切除後不會造成肝衰竭。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (c) 肝功能已嚴重受損,如無法以藥物控制的腹水。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 【詳解】由 Makuuchi criteria 與 BCLC 可知,若病人的腹水無法被控制,也就是 performance 較差時,不適合以手術方式來作為 肝癌治療。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- ...的腫瘤分期最有關聯 (B) 多層次細切片的電腦斷層為最符合效益的診斷工具,可以幫 忙診斷是否有轉移及能否手術 (C) 和其他壺腹周遭惡性腫瘤相比,胰臟癌的預後普遍較同期別 的惡性腫瘤為差 (D) 診斷性腹腔鏡可以協助確定是否有腹膜轉移或惡性腹水,對 於不確定是否可以切除的病患,建議進行 【詳解】胰臟癌好發於胰臟頭部,佔整體胰臟癌 60~70%。 (D) 5. 胰十二指腸切除手術(Whipple operation)切除的部分包含下列 107(二)專 何者?①胰頭(pancreatic head) ②脾臟(spleen) ③總膽管下 醫五 -35 端(distal common bile duct) ④十二指腸(duodenum) ⑤腹 腔幹 (celiac trunk) (C Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (B) 遠端脾腎靜脈分流術可能會加重腹水之嚴重度,故不適合用 於治療食道靜脈曲張合併腹水之病患 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 【詳解】Sodium phosphate 為 osmotic solution,使身體水分往 大腸內滲透,容易影響 fluid/electrolytes imbalance,甚至 impair renal function; polyethylene glycol 則是 nonabsorbable osmotic agent,較不會有 fluid/electrolytes imbalance (fluid shifting)的問題,適合用在 renal failure、congestive heart failure、ascites from liver disease 的病人。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...nous colitis),猛爆性大腸炎(fulminant colitis)到毒性巨結腸症(toxic megacolon)都有 (C) 主要治療方法是 vancomycin 靜脈注射 (D) 電腦斷層上的表現主要是結腸壁變厚和水腫以及有腹水產生【詳解】口服 vancomycin 不易被腸胃道消化吸收,正因如此才能在腸胃道內維持其效果。如果被吸收離開腸胃道,就無法達到治療 Clostridium difficile 的目的,所以 IVform 反而沒有效, | 104(一)專醫五-1 | | | 因為 Clostridium difficile 是在腸胃道管腔內。 | | | (D) 14. | . 一位 58 歲女性糖尿病病人,因跌落水溝造成右小腿撕裂傷,傷口曾浸於水溝水 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (3) 其他臨床表徵或是身體評估可以發現黃疸、手掌紅斑、血管擴張(vascular telangiectasis)、肝臟腫大、肝功能受損、腹水等。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -72,15 +89,6 @@ tags:
 - 2. 確診 dengue hemorrhagic fever 條件包括 fever、hemorrhagic manifestations、thrombocytopenia ( $20%、pleural effusion or ascites or hypoalbuminemia)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (1) 肝臟:臨床上 Wilson disease 表現在肝臟的疾病很多元:無症狀的肝臟腫大(有時會合併脾腫大)、亞急性或慢性肝炎、肝臟衰竭(有時合併溶血性貧血)、門脈高壓、腹水、全身性水腫、肝硬化、食道靜脈瘤破裂等。有時因肝功能問題造成其他問題如青春期延遲或無月經(amenorrhea)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - | 症狀 | % | 症狀 | % | |----------|------|----------|------| | 1. 全身倦怠感 | 89.7 | 11. 出血 | 34.1 | | 2. 疼痛 | 85.5 | 12. 腹水 | 32.2 | | 3. 食慾不佳 | 79.9 | 13. 發燒 | 31.8 | | 4. 便秘 | 67.8 | 14. 不安 | 31.3 | | 5. 呼吸困難 | 56.6 | 15. 吞嚥困難 | 30.4 | | 6. 水腫 | 50.0 | 16. 口腔炎 | 22.9 | | 7. 失眠 | 48.1 | 17. 潰爛傷口 | 22.5 | | 8. 噁心、嘔吐 | 44.0 | 18. 暈眩 | 19.1 | Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- 病程相關:癌細胞侵犯肺部、肋膜積水、大量腹水、心包膜積液 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (C) 1. 一位 46 歲男性,過去無特殊病史,因呼吸急促,腹部腫脹而被送到 急診求診。理學檢查呈現結膜蒼白,脾臟腫大並且有腹水。實驗室 數據顯示:白血球 8,450/μL,分類 blast 2.9%,myelocyte 1%,metamyelocyte 3.8%,band 6.7%,segmented neutrophil 37.1%,lymphocyte 31.4%。血紅素 9.7 g/dL,血小板 55,000/μL,尿酸 12.1 mg/dL(參考 區間 2.6~7.5),lactate dehydrogenase(LDH)2,342 U/L(參考區間 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- (A) 6.56 歲女性,15 個月前被診斷為卵巢癌接受化學治療,最近主訴有噁心、嘔吐及食慾不振(anorexia)。半年前開始體重逐漸下降,已減輕 20 公斤,感覺越來越虛弱。檢查發現呼吸每分鐘約 25 次,結膜蒼白,腹部鼓脹,有腹水且有一 10×30 cm 之腫塊。治療此病人之惡病質(cachexia)與食慾不振,下列那一種藥物較適當? Source: [[sources/med3-book4-ch23|己、其 他]].
-- ...項以上症狀: 一、頭痛/後眼窩痛/肌肉痛/關節痛/骨頭痛。 二、出疹。 三、白血球減少(leukopenia)。 四、噁心/嘔吐。 五、血壓帶試驗陽性。 六、任一警示徵象: (一)腹部疼痛及壓痛。 (二)持續性嘔吐。 (三)臨床上體液蓄積(腹水、胸水…)。 (四)黏膜出血。 (五)嗜睡/躁動不安。 (六)肝臟腫大超出肋骨下緣2公分。 (七)血比容增加伴隨血小板急速下降。 | 24 小時內 | | 流行性腦脊髓膜炎 | 符合臨床表徵或實驗室診斷者,即可進行通報: 一、臨床表徵: 發燒、劇烈頭痛、噁心、嘔吐、頸僵直、出血性皮疹、粉紅斑,伴有譫妄、抽搐或昏迷現象者。 二、實驗室診斷: 腦脊髓液抹片檢出革蘭氏陰性雙球菌或血液、腦脊髓液中分離出革蘭氏陰性雙球菌。 | 24 小時內 | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...24 小時內 | | | 一、急性腸胃炎,快速的腹瀉及/或嘔吐的症狀,嚴重度因人而異。 | ~ 1.1491.1 | | | 二、糞便經實驗室培養出霍亂弧菌,且無法排除為產毒性O1或O139血清型。 | | | | 備註:如僅為病患血液、腹水等檢體檢出電亂弧菌時,得以「其他」傳染病 | | | | 進行通報,以利菌株鑑定。 | | | 德國麻疹 | 符合臨床表徵或實驗室診斷者,即可進行通報: | 24 dutter | | 120000000000000000000000000000000000000 | | 24 小時內 | | | 一、臨床表徵: | | | | 出現急性發作的全身斑狀丘疹 (Maculopapular rash)、耳溫或肛溫 (≥ 37.2℃), | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- (a) 診斷: Cloudy effluent, Ascites WBC > 100, Neu > 50%。 Source: [[sources/med3-book3-ch06|己、透析治療]].
-- b. 診斷:目前強調辨識登革熱重症,無須區分出血性登革熱或登革休克症候群(ref. CDC) - (a) 突發發燒≧ 38℃,伴隨頭痛/後眼窩痛/肌肉痛/關節痛/骨頭痛、出疹、白血球減少(leukopenia)、噁心/嘔吐、血壓帶試驗陽性。 - (b) 登革熱重症警示徵象:腹部疼痛及壓痛、持續性嘔吐、臨床上體液蓄積(腹水、胸水…)、黏膜出血、嗜睡/躁動不安、肝臟腫大超出肋骨下緣2公分、血比容增加伴隨血小板急速下降。 - (c) 登革熱重症診斷條件: - i. 嚴重血漿滲漏造成休克或呼吸窘迫。 - ii. 嚴重出血。 - iii. 嚴重器官損傷,如 GOT or GPT > 1,000 U/L、意識狀態改變等。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- #### A. 鑑別診斷:用 Serum ascites albumin gradient (SAAG) Source: [[sources/med3-book2-ch18|丙、腹 水]].
-- 1. SAAG > 1.1 g/dL,則為 portal hypertension related,考慮有東西阻塞 - (1) Pre-sinusoidal: Portal vein thrombosis • - (2) Sinusoidal: Cirrhosis (最常見原因,占 80%)、acute hepatitis。 - (3) Post-sinusoidal: Heart failure · Budd-Chiari syndrome · Source: [[sources/med3-book2-ch18|丙、腹 水]].
 
 ## Clinical Caveats
 

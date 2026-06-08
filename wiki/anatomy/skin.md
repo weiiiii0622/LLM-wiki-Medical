@@ -45,6 +45,15 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch24]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Skin (皮膚)'
   - 'Skin'
@@ -59,7 +68,7 @@ tags:
 
 ## Summary
 
-身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -104,9 +113,28 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch24]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch23]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch12]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch16]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- (A) 皮膚凹陷 (skin dimpling) 較腫瘤硬度對乳癌的陽性預測值高 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (B) 若無皮膚凹陷 (skin dimpling),即可排除乳癌可能 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (D) 皮膚凹陷 (skin dimpling) 的發生與 Cooper's ligament 有關 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- 1. 乳房: - (1) 出現硬塊。 - (2) 形狀、大小等外觀上的改變。 - (3) 皮膚凹陷、變厚、濕疹、潰爛或橘皮樣的變化。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- (3) 其結果報告可分成以下七大類: - a. BI-RADS 0:表示評估並不完整,需安排進一步的影像檢查,同時也需要跟 之前的影像做比較。 - b. BI-RADS 1:正常, negative finding。無腫瘤,結構變化,皮膚增厚及微小鈣化等證據,定期追蹤即可。 - c. BI-RADS 2: 良性發現, typically benign findings。在乳房中發現單純性水囊 (simple cyst)、纖維腺瘤 (calcified fibroadenoma)、脂肪瘤 (lipoma) 或乳房內淋巴結 (intra-mammary lymph node)、乳房填充物 (breast implant) 等等,只需每年定期檢查及追蹤。 - d. BI-RA Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- 4. 手術切片檢查 (surgical biopsy): - (1) 可採用切開性切片檢查 (incisional biopsy),即取一小片組織,或切除性切片檢查 (excisional biopsy),將整個腫塊切除後進行切片檢查。 - (2) 適應症: - a. 當 FNAC 或 CNB 沒有明確的結論,但臨床醫師仍懷疑腫塊為惡性時,則可利用 surgical biopsy 來排除惡性腫瘤。 - b. 實心的腫塊、囊腫抽吸出來有血。 - c. 乳房攝影中可疑的病灶。 - d. 乳頭分泌物有血、乳頭潰瘍或皮膚炎。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- 2. 發生於胰頭的腫瘤,可能會侵犯壓迫至膽管導致膽汁無法暢流到十二指腸,病患會有皮膚發黃、鞏膜泛黃、深茶色尿液或是皮膚發癢等 obstructive jaundice 的情形,甚至導致發燒或畏寒等症狀。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (C) 8. 一位 63 歲男性到門診主訴發現皮膚泛黃已三週,尿液呈深褐色, 106 (二) 專 最近有灰白色大便,無腹部疼痛及不適,食慾稍差。下列何種 醫五-22 檢查能快速做鑑別診斷? - (A) 抽血驗 B 型、C 型肝炎 - (B) 測血中總膽紅素 / 直接型膽紅素指數 - (C) 腹部超音波檢查 - (D) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (D) 9.65 歲林先生,近日來感覺疲倦、食慾減退、皮膚發黃。血液檢 106(二)專查肝功能異常、CA-199 值升高。醫師為他做 CT 檢查,影像如圖 醫五-73 示。林先生最可能患了什麼病? Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 2. 黃疸 (hyperbilirubinemia): - (1) 定義: bilirubin > 2.0 mg/dL,為一種臨床表徵,可見皮膚、鞏膜或黏膜泛黃。 根據 Direct bilirubin 與 total bilirubin 來作進一步的鑑別診斷。 - a. 小於 35%: unconjugated hyperbilirubinemia, 常見於 hemolysis (hemoglobin Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - B. Split-thickness graft (STSG) 分層皮膚移植 256 Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
 - C. Full-thickness graft (FTSG) 全層皮膚移植 256 Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
 - #### 乙、皮膚移植手術 (Skin Graft) Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
@@ -115,16 +143,6 @@ tags:
 - 傷口癒合有其一定步驟,皮膚最外層由上皮層(epidermis)和真皮層(dermis)作為屏障保護的作用,一旦受到破壞產生傷口、微血管破裂,身體就會開始一連串的癒合過程。也許因為傷口種類不同每一時期長短不一,甚至可同時看到不同時期的組織一起出現,但傷口仍舊是依循順序去癒合的。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - 3. Simple: 只有皮膚或軟組織融合在一起。 Source: [[sources/med5-book2-ch29|戊、併指畸形]].
 - 3. Skin coverage • Source: [[sources/med5-book2-ch29|戊、併指畸形]].
-- 1. 很多人常有的疑問是皮瓣和植皮有什麼不同,皮瓣是不是一定包含皮膚?根據「Sabiston Textbook of Surgery 18th ed.」的定義「A flap is defined as a partially or completely isolated segment of tissue perfused with its own blood supply.」,也就是說皮瓣是「一個仍保有自身血液循環且被轉移的部分或完全組織」,並非一定要有皮膚,只是因為早期常用來作皮膚重建,故有「皮」瓣的稱呼。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- 2. 根據前面所提的 reconstructive ladder,當遇到缺乏血液循環的傷口,如韌帶、關節、 骨骼;或是傷口組織缺損相當多,無法單靠皮膚移植填補,就會考慮皮瓣手術。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- ...us hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- d. Hypothyroidism:對冷敏感、黏液性水腫、皮膚乾燥、毛髮粗糙、反應遲鈍。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...) | | | (B) | 4. 下列何者較少出現在 Neurofibromatosis type I 的病人? | 108(一)專 | | | (A) 家族顯性遺傳 | 醫五-9 | | | (B) 雙側聽神經瘤 | | | | (C) 皮膚咖啡牛奶斑(Cafe-au-lait macules) | | | | (D) 脊椎發育異常 | | | | 【詳解】雙側聽神經瘤屬第二型。 | | | (B) | 5. 有關腦下垂體泌乳素瘤(prolactinoma)的描述,下列何者正確? | 108(一)專 | | | (A) 腫瘤通常直徑大於 3 公分 | 醫五-11 | | | (B) 血中泌乳素(prolactin)濃度通常 > 150 ng/mL | | | | (C) 手 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 3. 人體水分之需求 = 尿量 + 未察覺流失量 內生性水分。尿量佔全部流失水分約50%,另外50%為未察覺流失量(30%皮膚散失、15%呼吸道散失、5%糞便流失)。 而內生性水分為身體組織代謝過程中所產生的水分。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- | | Skin | SVR | CVP | Heart rate | Cardiac output | |---------|------|----------|----------|------------|----------------| | 低血溶性 | 白/冷 | 1 | 1 | 1 | ↓ | | 心因性 | 白/冷 | 1 | 1 | 1 | ↓ | | 敗血性(早期) | 紅/溫 | ↓ | 1 | 1 | ↑ | | 神經性 | 紅/溫 | 1 | 1 | ↓ ↓ | 1 | | 過敏性 | 紅/溫 | ↓ | ↓ | 1 | \ | | 阻塞性 | 白/冷 | 1 | 1 | 1 | 1 | Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (C) 鼻部主要組成可分為皮膚覆蓋(skin cover)、結構支撐 (structural support) 及黏膜內襯(mucosallining),治療時 可以根據缺損的範圍,做不同的重建考量 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- 1. 淺層切口手術部位感染(Superficial incisional SSI): - (1) 感染範圍僅包含皮膚和皮下組織,為最常見的手術部位感染。 - (2) 發生於術後 30 天內。 - (3) 有以下任何一種情形發生: - a. 切口有化膿性液體。 - b. 從切口淺層組織或液體中培養出病原體。 - c. 具有感染發炎的症狀,例如局部發紅、腫脹、發熱、疼痛和觸痛。 - (4) 以下情形不算是淺層切口手術部位感染: - a. 縫線處化膿。 - b. 外陰切開處或包皮環切術部位的感染。 - c. 燒傷傷口。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 
 ## Clinical Caveats
 

@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Alkylating agents (烷化劑)'
   - 'Alkylating agents'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch06]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- (A) 22. 陳女士 50 歲為一乳癌患者經手術行 modified radical mastectomy 後,其 staging 為 T2N1M0,術後建議給予 6 次 5-FU, Adriamycin 及 cyclophosphamide。此種化學藥物治療屬於下列那一種? Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (2) 免疫抑制劑: chlorambucil、cyclosporine A 和 cyclophosphamide,對於眼鏡病變、 黏膜潰瘍和神經病變都有不錯療效。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...! | | (B) 臉上多有蝴蝶斑(butterfly rash) | | | (C) 血清抗核抗體(antinuclear antibody)為陽性 | | | (D) 應多曬太陽,以強化免疫力 | | | (B) 17. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic | 102(一)專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -72,7 +75,6 @@ tags:
 - | 分 類 | 作用 | 藥 物 | | | |------------------|-----------------|---------------------------------|--|--| | 烷化劑 | 抑制分化快速細胞 | Cyclophosphamide (Endoxan® 愛德星) | | | | 抑制 Purine 製造 | 抑制白血球 | Azathioprine (Imuran® 移護寧 ) | | | | 14th Latine 35/5 | 256169 1 mr. 9. | MMF (Cellcept® 山喜多) | | | | 減少 IL2 分泌 | 抑制T細胞 | Cyclosporin (Sandimmun®新體睦) | | | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (1) 烷化劑 (Alkylating agent): Cyclophosphamide (Endoxan® 愛德星) - a. 作用機制:烷化(Alkylating)DNA、與 DNA 結合,進而抑制 DNA 複製;針對 分化快速細胞皆有作用,效果最強、副作用也最大。 - b. 可能造成骨髓抑制、出血性膀胱炎(Hemorrhagic cystitis)、提前停經(premature ovarian failure)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 4. 治療: (Ref. Harrison p2109 fig 317-1) - (1) 眼乾、口乾給予症狀治療,或服用 Pilocarpine (Salagen)、Cevimeline (Evoxac)。 - (2) 腎小管酸中毒 (RTA) 需給予 Bicarbonate 補充。 - (3) 關節炎給予低劑量類固醇加上 Hydroxychloroquine 或 MTX 治療。 - (4) 血管炎則需給予類固醇加上免疫抑制劑 Cyclophosphamide 治療。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...| 1.30 威女性主訴近半年來口乾眼乾越來越嚴重,即使每大喝很多水也無法改善,眼科醫師經過 Schirme's test 之後確認為乾眼症,轉介至風濕免疫科門診。下列何種處置比較恰當? (A) 直接使用高劑量類固醇治療 (B) 直接使用 Cyclophosphamide 治療 (C) 直接使用 Rituximab 治療 (D) 先抽血檢驗 Anti-SSA/SSB 抗體 | 107(二)專醫三 -30 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

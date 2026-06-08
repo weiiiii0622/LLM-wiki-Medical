@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Vaccine contraindications (疫苗禁忌與注意事項)'
   - 'Vaccine contraindications'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-疫苗接種前需評估嚴重過敏、免疫低下、懷孕與急性中重度疾病等禁忌/延後情境。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+疫苗接種前需評估嚴重過敏、免疫低下、懷孕與急性中重度疾病等禁忌/延後情境。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- 【詳解】這一題就隱藏在 Sabiston 的其中一個章節的其中一行 裡面, 利用 laparoscopic choledochotomy 來摘除 common bile duct stone 的 contraindication 為總膽管的直徑不可小於 6 mm, 以免縫合時導致 stricture。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- ...手術清除結石,但治療後約4 | 0%的 | | 病人容易復發,需反覆治療。 | | | (B) 20. 下列何者是腹腔鏡膽囊切除術(laparoscopic cholecystectom | ny) 100(一)專 | | 约 major contraindication ? | 醫五 -7 | | (A) 懷孕婦女 | | | (B) Calot triangle 無法清楚辨識 | | | (C) 腹部曾開過刀 | | | (D) 肝硬化病人 | | | 【詳解】Anatomy無法清楚辨識為腹腔鏡膽囊切除術的 | J con- | | traindication • | | | | | Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - #### 5. Contraindication: Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 5. Contraindication (健保局 guideline): - (1) 絕對禁忌症: - a. 不可逆之腦病變。 - b. 惡性腫瘤末期。 - c. 不可逆之心、肺疾患且不適合做臟器移植者。 - d. 不可逆之多重器官衰竭。 - (2)相對禁忌症: - a. 持續進展之退化性全身性疾病。 - b. 不可控制之感染。 - c. 不可控制之出血。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 【詳解】(A) 同一根手指/肢端有好幾個截斷口,斷成多個 segments,每個 segment 神經血管組織的損傷 level 都不同,讓 replantation 的難度更為複雜,重建過程耗時,且接完後斷肢是否能成功存活也很難預估。所以 Multiple level amputation 是 replantation 的 contraindication,但隨著 micro-surgery 技術的進步以及嘗試,還是有 multiple level amputation 的成功案例。下面為 Replantation 的 indication 和 contraindication: Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].

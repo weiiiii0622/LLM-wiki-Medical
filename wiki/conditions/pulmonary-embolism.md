@@ -24,6 +24,8 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book3-ch05]]"
+  - "[[sources/med5-book3-ch23]]"
 aliases:
   - 'Pulmonary embolism (肺栓塞)'
   - 'Pulmonary embolism'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,13 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book2-ch18]]
+- [[sources/med5-book3-ch05]]
+- [[sources/med5-book3-ch23]]
 
 ## Key Details From Sources
 
+- 3. 疝氣(hernia): 10%。疝氣導致的 ileus 佔了將近 10%,因此進行 PE 時務必將病人的衣服和褲子掀起,仔細觸診。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
+- (1) 由於早期的乳癌可能只會在 X 光中出現微小鈣化點,無法經由 PE 檢查出可疑 腫塊,因此乳房攝影(mammography)作為早期乳癌篩檢的良好工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 2. 症狀:單側下肢紅、水腫、熱、疼痛或壓痛,腳掌作 dorsiflexion 時小腿肚會痛(Homan's sign)。血栓假如打到肺部引發 pulmonary embolism,會呼吸困難、胸痛或咳血等。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - ...(4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 - c. 慢性肺栓塞合併產生肺高壓之患者。 - d. 因服用抗凝血劑而產生不良併發症患者。 - e. 在 iliofemoral vein 或下腔靜脈有 free-floating thrombus。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (C) 深部靜脈栓塞,且有慢性肺栓塞,並已造成肺高壓 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
@@ -81,8 +87,6 @@ tags:
 - 【詳解】肺栓塞會使肺動脈血管阻力上升導致肺高壓,常見症狀包括 dyspnea、pleural pain、tachycardia、syncope(cardiac output 突然 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - 2. 疾病: Deep vein thrombosis, Pulmonary embolism。 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...乙檢驗陰性者 10 人,無甲疾病但乙檢驗陽性者 10 人,疾病且乙檢驗陰性者 190 人。則乙檢驗診斷甲疾病之特異性 xcificity ) 為: 0% (B) 80% (C) 90% (D) 95% | 99(二)專醫三-13 | | (pe(A) f(B) †(C) ∮ | 現有的成人預防保健服務比較符合下列那一項週期性健康檢查 riodic health examination)的理念? | 99(一)專醫三-67 | | (A) = (B) = (C) = 3 | 關於流行性感冒(influenza)的敘述,何者錯誤?其症狀常常突然發生,包括頭痛、倦怠、發燒、咳嗽、肌肉酸痛等老年人罹患流行性感冒之後可能引起肺炎而導致死亡抗病毒藥物 oseltamivir(Tamifl Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- 【詳解】考一個 PE 的題目,以下為分級: Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- ...se 才能分解,由肝臟以外的組織分解,可用於肝腦病變患者。 | 101(一)專醫三-12 | | (C) | 16. 一位 60 歲男性病人,端坐時感覺呼吸困難,躺平時即獲得緩解,下列何者為最可能的診斷? (A) 心臟衰竭 (B) 肺梗塞(pulmonary embolism) (C) 肝肺症候群(hepato-pulmonary syndrome) (D) 糖尿病合併酮酸中毒(diabetic ketoacidosis) 【詳解】(C) 肝肺症候群會產生 shunt 導致低血氧,這些 shunt 在肺底部較多,站著的時候較多血流經 shunt,低血氧較嚴重。 | 99(一)專醫三-16 | | (D) | 17. 一位 50 歲男性因為 B 型肝炎相關肝硬化合併大量腹水住院治療,經利尿劑及幾次大量腹水放液 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 
 ## Clinical Caveats
 

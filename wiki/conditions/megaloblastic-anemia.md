@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Megaloblastic anemia (巨芽細胞性貧血)'
   - 'Megaloblastic anemia'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- 2. 營養不良 (Malnutrition): - (1) 約有30%的病患在術後會有營養不良的情況。 - (2) 會導致鐵、葉酸、Vit. B12、鈣以及 Vit. D 的吸收不良,進而導致貧血、神經病變、 失智症等症狀出現,必須要適時的補充這些營養元素。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - III. 大腦代謝疾病 141 - A. 橋腦中央脊髓去髓鞘化 (Central pontine myelinolysis) 141 - B. Vitamin B1 (Thiamine) deficiency 141 - C. Vitamin B12 (Cobalamine) deficiency 142 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ## C. Vitamin B12 (Cobalamine) deficiency: 亞急性合併退化症 (subacute combined generation) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -66,7 +69,6 @@ DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已
 - | | 胃 | 十二指腸 | 近端空腸 | 終端迴腸 | |-------------------------|--------------------|------|------|------| | Iron | 胃酸分解→ Vit. C 還原成二價 | 吸收 | | | | Folate | | | 吸收 | | | Vitamin B 12 | 在胃和 IF 結合 | | | 吸收 | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...Bleomycin →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecitabine (Xeloda)→乳癌,大腸癌 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...) - (a) 高劑量 MTX 會產生嚴重的骨髓抑制、黏膜破損,因此注射後 12 小時會給予 Leucovorin(Folinic acid = 擬葉酸劑)來拯救正常骨髓及黏膜細胞,減少毒性。Folinic acid 不需要 Dihydrofolate reductase,就可以一直當作 Thymidylate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (5) Pernicious anemia: 抗體攻擊 Parietal 細胞抗原、Intrinsic factor,導致 Vit B12 吸收不良,造成紅血球成熟異常而貧血。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 
 ## Clinical Caveats
 

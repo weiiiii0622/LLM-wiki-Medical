@@ -32,6 +32,8 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book2-ch19]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,14 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book2-ch19]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- ...atory carcinoma)的敘述,何 | | | 者正確? | 醫五 -40 | | (A) 預後佳 | | | (B) 治療方式常須多管齊下,包括化學治療、放射線治療及手術治療 | | | (C) 在乳癌分期上,屬 TNM 系統的 T3 | | | (D) 這些患者常沒有腋下淋巴結轉移或全身其他器官轉移 | | | 【詳解】發炎性癌(inflammatory carcinoma)為 stage T4c,屬 | | | 於預後很差的乳癌類型,合併多處轉移,必須以多種方式治療。 | | | (C) 18. 下列那一項是乳癌最常見之早期症狀? | 100(二)專 | | (A) 乳房痛 | 醫五 -45 | | (B) 乳頭分泌物 | | | (C) 乳房硬塊 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- | Anatomic Sta | ge/Prognosti | c Groups | | |--------------|--------------|----------|----| | Stage 0 | Tis | N0 | M0 | | Stage IA | T1* | N0 | M0 | | Stage IB | T0 | N1mi | M0 | | | T1* | N1mi | M0 | | Stage IIA | T0 | N1** | M0 | | | T1* | N1** | M0 | | | T2 | N0 | M0 | | Stage IIB | T2 | N1 | M0 | | | T3 | N0 | M0 | Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- | | N0 | N1 | N2 | N3 | |--------------|------|----------|------|------| | T1 | IA | IB | IIA | IIB | | T2 | IB | IIA | IIB | IIIA | | T3 | IIA | IIB | IIIA | IIIB | | T4a | IIB | IIIA | IIIB | IIIC | | T4b | IIIB | IIIB | IIIC | IIIC | | Any T, any N | • M1 | Stage IV | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 5. 細胞: - (1) 濾泡細胞 (follicular cell): 合成分泌 T3、T4。 - (2) 濾泡旁細胞(parafollicular cell):又叫 C cell,分泌降鈣素(calcitonin)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...dase 將 I 氧化成碘 (I)。 - (3) Organification:碘和甲狀腺球蛋白(thyroglobulin)上的 Tyrosine 結合形成 MIT 和 DIT。 - (4) Coupling: MIT 和 DIT 合成 T3、DIT 和 DIT 合成 T4。 - (5) Secretion: 下視丘分泌 TRH (thyrotropin-releasing hormone)→腦下垂體前葉分泌 TSH (thyroid-stimulating hormone) 刺激甲狀腺→ T₃和 T₄經由 proteolysis 脱離甲狀腺球蛋白,並離開甲狀腺分泌至血液中。 - (6) 血液中以 T4 為主, T3 和 T4 在血中和 TBG (thyroxine-bin Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 1. 生化檢驗數據: TSH 和 Free T4 最準。 - (1) TSH: 0.3~5 mIU/L, 在腦下垂體功能正常的情況下: - a. TSH ↑代表 hypothyroidism。 - b. TSH ↓ 代表 hyperthyroidism。 - (2) Total $T_4$ : $3\sim12 \mu g/dL \circ$ - (3) $T_3$ : 80~200 ng/dL • - (4) RT3U (Resin T3 uptake):正常值 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -96,9 +103,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - ...au sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 其他情感疾患: - 一般醫學狀況造成的情感性疾患:如甲狀腺功能亢進之病人往往會有類似躁症(mania)發作。 - 物質誘發之情感性疾患:如酒精、安非他命在戒斷時期會出現憂鬱症狀。 - ■其他未註明之情感性疾患。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- ...型雙極性疾患(bipolar I disorder),下列何者正確? (A) 必須也有重鬱發作(major depressive episode) (B) 上述症狀不一定要造成病人的功能損失 (C) 不需考慮藥物之可能影響 (D) 必須排除甲狀腺功能亢進或低下造成的影響 【詳解】(A) 第二型雙極性疾患(bipolar II disorder) 才需要至少 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 【詳解】甲狀腺功能異常(亢進或是低下)均有可能會造成認知功能缺損。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- ...D) 心律不整 (D) 17. 承上題,下列那一項疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized anxiety disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 
 ## Clinical Caveats
 

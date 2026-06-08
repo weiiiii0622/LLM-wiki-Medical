@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Pediatric abdominal pain (兒童腹痛)'
   - 'Pediatric abdominal pain'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-兒童腹痛鑑別包含感染、外科急症、功能性疾病與腸胃外原因。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童腹痛鑑別包含感染、外科急症、功能性疾病與腸胃外原因。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,14 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med5-book2-ch14]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- (B) 21. 手術後 6 星期,蔡先生再到門診,並主訴於每次飯後二、三十分 98(ニ)専 鐘會有心悸 (palpitation)、頭昏 (dizziness)、流汗 (sweating) 醫五-29 、腹絞痛 (cramping abdominal pain) 及腹瀉 (diarrhea) 等現象。 下列那一項處置優先考慮? Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (D) 腹痛 (Abdominal pain) Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (C) 腹痛(abdominal pain) (D) 意識譫妄(delirium) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - ...漫性充血、表淺不規則潰瘍 | 鵝卵石樣 (cobble stone)、線性潰瘍 | | | | 臨床症狀 | • | | | Diarrhea | 常見 | 常見 | | | Rectal bleeding | 常見 | 少見 | | | Abdominal pain 輕微 | | 嚴重 | | | Abdominal mass | 無 | 偶爾 | | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - ...6~20小時) | 中等 | | Triazolam | 最短 | 快 | | Estazolam | 中等(6~20 小時) | 快 | | Midazolam | 短((1.5~2.0 mEq/L) | GI | Vomiting · Abdominal pain · Dry mouth | | | | Neurology | Ataxia · Dizziness · Slurred speech · Nystagmus · | | | | | Lethargy · Excitement · Muscle weakness | | | 中度到嚴重(2.0~2.5 mEq/L) | GI | Anorexia · Persistent nausea and vomiting | | | | Neu Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - I. 腹痛 (Abdominal Pain) 53 Source: [[sources/med4-book1-ch02|乙、消化系統]].

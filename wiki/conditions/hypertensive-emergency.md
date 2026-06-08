@@ -22,6 +22,9 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Hypertensive emergency (高血壓急症)'
   - 'Hypertensive emergency'
@@ -36,7 +39,7 @@ tags:
 
 ## Summary
 
-高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +61,15 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book2-ch18]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- 【詳解】Diaphragm 下可見 free air,須考慮為 peptic ulcer perforation。此為急症,須緊急開刀處理。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 【詳解】Peritonitis 為急症,可能會有 malignant hypercapnia 和 toxic shock syndrome,要以 open 的方式介入。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (A) 急性闌尾炎為最常見的腹部急症,常好發於老年人及兒童 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
 - (B) 1. 急性肌腔室症候群(acute compartment syndrome)是骨科急症之 108( ) 專一,若未即時進行減壓手術,將導致組織缺血及壞死。關於急性 醫五-56 肌腔室症候群之敘述,下列何者錯誤? - (A) 骨折是最常見的原因 - (B) 受到創傷後,大腿遠比小腿容易發生 - (C) 即使患側肢體的周邊脈搏搏動(peripheral pulse)及微血管 回流(capillary return)正常,仍不可排除 - (D) 疼痛常是最早出現的症狀 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - c. 馬尾症候群(Cauda equine syndrome)(急症):壓迫到 S2-4, 薦神經支配的 部位會麻痛無力,甚至使腸道、膀胱失去正常功能,大小便失禁、尿液感減退、尿意滯留、排尿困難。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -76,9 +85,6 @@ tags:
 - (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (1) 觀念: - a. 屬於內科急症, 什麼時候要懷疑? - $\rightarrow$ Rapid onset anemia (Hb $\downarrow$ > 1 g/wk); Dark urine (Hemoglobinuria) - b. 如何初步佐證:LDH ↑ - c. 進一步要檢查:Reticulocyte ↑、Indirect Bil ↑、Haptoglobin ↓ Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (C) 先評估是否有內出血等急症,然後再依據世界衛生組織 (WHO) 的三階段止痛法予以止痛 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- | (D) | (A) | 们何者會導致高血壓合併低腎素(腎動脈高血壓 (B)惡性高血壓本態性高血壓 (D)原發性皮質 | 医 | 101(一)專醫三-25 | |-----|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- | (B) | 1. 高血鈣急症的治療原則下列那一項最不適當? (A) 立即補充生理食鹽水 (B) 使用 thiazide 類利尿劑 (C) 惡性腫瘤引發高血鈣可以考慮給予雙磷酸鹽(bisphosphonates) (D) 維生素 D 造成的高血鈣症可以考慮使用類固醇治療 【詳解】Thiazide 可能會加重高血鈣。 | 107(二)專醫三-10 | |-----|---------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...析多年。血液檢查顯示血鈣值為 2.75 mmol/L,i-PTH 值為 650 pg/mL,下列那一項敘述正確?(A) 已有腎衰竭,考慮血鈣之高低時,不需以血液中之白蛋白值加以調整 | 99(二)專醫三-56 | | | (B) 治療高血鈣急症,使用 bisphosphonate 比使用 calcitonin 之效果較慢出現(C) 副甲狀腺之增生腫大屬代償性,不應考慮手術切除(D) 腎衰竭是做 Sestamibi parathyroid scan 檢查的禁忌症 | | | (C) | 8. 用手指敲耳前方時引起顏面肌肉抽動(twitching),最可能是那一種異常? (A) 血鉀過高 (C) 血鈣過低 (D) 血磷過低 【詳解】Chvostek's sign:輕敲耳前的顏面神 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

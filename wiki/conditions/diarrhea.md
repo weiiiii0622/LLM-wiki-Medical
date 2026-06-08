@@ -59,6 +59,9 @@ sources:
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch17]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Diarrhea (腹瀉)'
   - 'Diarrhea'
@@ -73,7 +76,7 @@ tags:
 
 ## Summary
 
-腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -132,9 +135,17 @@ tags:
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch17]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- ...可視為腸胃道症狀加上心血管症狀。 - (a) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (C) 3. 病房有一因胃癌接受次全胃切除及 Billroth-II reconstruction 的病 109( ) 專人,開始進食後,抱怨進食 20~30 分鐘後會有噁心 (nausea)、 醫五-24 心悸 (palpitation)、冒汗及腹瀉等症狀,檢查生命跡象後發覺 有心搏過速 (tachycardia) 的情形,最有可能的診斷為何? - (A) 輸入環症候群 (afferent loop syndrome) - (B) 輸出環症候群 (efferent loop syndrome) - (C) 傾倒症候群 (dumping syndrome) - (D) 急躁性腸道症候群 (irritable bowel syndrome) Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (B) 21. 手術後 6 星期,蔡先生再到門診,並主訴於每次飯後二、三十分 98(ニ)専 鐘會有心悸 (palpitation)、頭昏 (dizziness)、流汗 (sweating) 醫五-29 、腹絞痛 (cramping abdominal pain) 及腹瀉 (diarrhea) 等現象。 下列那一項處置優先考慮? Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- ...必要 (C) biliary tract 之 definitive treatment 儘可能同一次住院中施行(D) nutritional support 是必要的 | 醫五 -26 | | (D) 15. 對於慢性胰臟炎導致的吸收不良及腹瀉之治療方法,下列何乎不妥? (A) Acid-inhibiting agents (B) 低脂肪飲食 (C) 脂肪酶口服製劑 (D) 低糖飲食 | 頁 100(一)專醫五-54 | | (B) 16. 急性胰臟炎後最常見的併發症為: (A) 糖尿病 (B) 胰臟假性囊腫(pseudocyst) (C) 胰臟出血 (D) 胰臟鈣化 【詳解】急性胰臟炎最常見的併發為 fluid retention (40%):治療以 supportive Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...B) 大腸鏡(colonoscopy) | | | (C) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的術前放射線治療之敘述,何者錯誤? | 100(二)專 | | (A) 可以增加 Resectability rate | 醫五-16 | | (B) 可以減少術中之 Tumor Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 4. 症狀:消化性潰瘍(PUD)、上腹疼痛(epigastric pain)、腹瀉(因胃酸過度分泌破壞消化酵素)、體重減輕。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
@@ -148,11 +159,6 @@ tags:
 - ...Eq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancreatitis)、poor intake。 - e. 外科病患常見低血鈉原因為體液過剩,前列腺肥大病患在做完經尿道前列腺切除術(Transurethral resection of the prostate)會有機會 TURP syndrome(因為術中會用大量沖洗液,病人體液增加造成的低血鈉),神經外科病人則是 SIADH 為低血鈉常見原因。 - (2) 高血鈉(hypernatremia Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - b. 腸胃道流失:腹瀉、嘔吐、鼻胃管引流。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- ...的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- ...| (B) 20. 一位 60 歲男性病患於一週前因退化性關節炎接受左髋部人工髓關節全置換手術治療(total hip replacement),術後連續五天注射止痛劑和 cephalosporin 治療,病人於術後第 7 天開始發生持續性腹瀉、腹痛、且帶有少許血便,發燒及白血球增多,但並無腹膜炎現象,此時除了 stool culture 之外,該先如何處理? (A) 給予 Buscopan,並重新使用 cephalosporin 治療 (B) 作 stool cytotoxin assay,保守性治療,並安排大腸鏡檢查 (C) 安排 barium enema 檢查 (D) 安排緊急全大腸切除術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool cultu Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 6. Sirolimus:機轉不同於 Cyclosporine 和 Tacrolimus,作用在 mTOR (或稱 FRAP1),抑制 IL-2 和其他細胞內的訊息傳遞,阻斷 T 和 B 細胞的活化。不具腎毒性,且因作用機轉不同於目前其他免疫抑制劑,所以常用來和其他免疫抑制劑合併使用來增強效果,並減低其他藥物的副作用。副作用有高血壓、腹瀉、水腫、蛋白尿、血小板下降、白血球下降、貧血及高血脂。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 1. 晶體溶液 (crystalloid):Normal Saline (NS) 和 Lactated Ringer's (LR)(術中、燒傷、腹瀉或膽汁喪失時使用)兩種,在許多的研究發現,NS 在大量的輸液下造成的酸血症會比 LR 嚴重,而且尿液的輸出也比較少,所以 LR 在復甦的過程中其結果比NS 好;但 LR 中含有 Ca²+,如果與含有 citrate 的血液溶劑一起混合,會造成沈澱,且LR 所含的鉀離子對腎是種負擔。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

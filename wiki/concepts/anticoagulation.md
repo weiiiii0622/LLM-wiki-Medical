@@ -38,6 +38,7 @@ sources:
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Anticoagulation (抗凝治療)'
   - 'Anticoagulation'
@@ -52,7 +53,7 @@ tags:
 
 ## Summary
 
-血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +91,12 @@ tags:
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch03]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- | | Hb | Platelet | PT | aPTT | |-----|---------|----------|----------|-------| | 張奶奶 | 10.2 | 40 | 16.2 | 36.4 | | 正常值 | 13.5~17 | 138~353 | 9.4~12.5 | 26~38 | | 單位 | g/dL | 10^3/mL | sec | sec | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (B) 6. 36 歲男性病人,因長期應酬,每日平均喝半瓶烈酒已十年,近日 101( 二) 專 因身體倦怠,食慾不佳,臉色發黃而住院,住院後發現總膽紅素 醫五 -4 高至 22 mg/dL,ALT 高至 226 U/L,AST 高至 282 U/L,GGT 高至 388 U/L,凝血機能 PT 延長大於 4 秒,INR 為 1.59,aPTT 比正常值稍高,以下何者為最適當之處置? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 5. 治療: - (1) 穿彈性襪 (compression therapy)。 - (2) 先使用 heparin 維持 INR 2~3, 之後改用 Warfarin 維持,至少吃三個月到六個月,如果復發則建議吃終身。 - (3) 靜脈血栓清除術(venous thrombectomy): 以導管進入阳塞的靜脈清除血栓。 - (4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (B) 深部靜脈栓塞,且不適合使用抗凝血劑 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (D) 在足量之抗凝血劑治療下,仍反復多次靜脈栓塞 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
@@ -109,8 +113,6 @@ tags:
 - 【詳解】使用 warfarin 者,在手術前需停藥五天,讓 INR 低於 1.5 • Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...(1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - | 分類 | 病程 | 意義 | |---------------------------------|------------------|---------------| | 暫時性腦缺血 | 定義為24小時內恢復,且無 | 中風的警訊, | | (Transient ischemic attack=TIA) | 任何後遺症 | 需積極 Survey、預防 | | 完成性腦中風 | 頸動脈於24小時後,基底動 | 給抗凝劑反而易出血 | | (Complete stroke) | 脈於 72 小時後病況穩定 | 宜保守治療 | | 進行性腦中風 | 頸動脈於 24 小時後,基底動脈 | 考慮使用 Heparin | | (Stroke in evolution) | 於 72 小時後病況仍持續進展 | | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...l atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),rivaroxaban(Xarelto®),Apixaban(Eliquis 恣®)和 Edoxaban(Lixiana®)等。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

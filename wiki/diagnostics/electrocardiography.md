@@ -39,6 +39,7 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Electrocardiography, ECG (心電圖)'
   - 'Electrocardiography, ECG'
@@ -53,7 +54,7 @@ tags:
 
 ## Summary
 
-心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +93,12 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch06]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- (C) 11. 一位 70 歲男性,晚餐後覺得一陣心悸,三十分鐘後突然腹部劇痛,因疼痛持續一小時仍未緩解,而至急診室就診,當時你發現此病人臉色蒼白、冷汗直流,血壓 140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG顯示有心房顫動,血液檢查:Hb 14 /dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (A) 11. 李先生 71 歲,身體一向健康。近半年因經常發生暈厥而前來求 診。聽診時,於胸骨旁兩側的肋間可聽見心臟有射出性的收縮雜 音,伴隨第二心音有剝裂聲,此外,病患亦承認多次於勞動中 出現胸悶、心絞痛的情形,心電圖呈現左心室肥大和倒置 T 波, 血壓: 95/70 mmHg,各器官功能正常。綜合上列敘述,下列何 種處置不適宜? Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 情況:一位50歲的婦女,主訴這幾個月來常半夜突然心悸,同時呼吸困難,在過去2、3年內曾有2次腦中風病史,但並沒有任何神經學症狀遺留下來,心臟聽診時,心跳非常不規則,同時在心尖部聽到心舒期雜音,胸部X光檢查及心電圖檢查如圖示。依此回答下列第17題至第19題。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (A) 5. 一位洗腎病人血液中的鉀離子 6.2 mmol/L,心電圖中會觀察到下列何種現象? Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -111,8 +115,6 @@ tags:
 - (A) 17. 一位 70 歲女性患者,有高血壓、糖尿病病史多年,晚上 11 點入 睡時皆正常,清晨 6 點起床時,卻發現說話不太清楚,左側肢體 無力,早晨 6點 30分,被家人送至急診室,早晨 7點 20分,血壓: 160/88 mmHg,所有血液生化檢查、心電圖皆正常,腦斷層檢查 無腦出血或其它異常,此時最不適合的治療為何? Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (A) 須考慮是否有任何身體疾病,在醫療的處置上,需先評估個 案的標準生化檢查、心電圖與甲狀腺功能檢查 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 2. 心臟副作用: Chlorpromazine 會使 QT prolong、thioridazine 可能會導致 torsade de pointes,因此需要定期追蹤心電圖,當 QT interval 超過 0.44 ms,猝死 (sudden death) 的危險性增高。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 8. 心臟副作用: Ziprasidone 發現會使某些病人的心電圖 QTc 延長。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 
 ## Clinical Caveats
 

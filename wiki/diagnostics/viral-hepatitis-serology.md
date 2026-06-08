@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Viral hepatitis serology (病毒性肝炎血清學)'
   - 'Viral hepatitis serology'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch27]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- (C) 15. 55 歲林先生,近數月來感覺疲倦、食慾減退,右上腹部也感到 有些脹痛。血液檢查胎兒蛋白(alpha-fetoprotein)值正常、HBsAg 陽性(HBsAg+),肝臟 Dynamic CT 影像如圖(一),手術前再 度做血管攝影檢查如圖(二)。林先生最可能患了什麼病? 102(一)專 醫五-73 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】Anti-HBs 可經由疫苗注射或是自然感染後獲得。Anti-HBc(+)表示正在感染的 B 肝帶原者,或是感染過 B 肝病毒但已痊癒者(若是 Anti-HBc(-)的人,代表未曾感染 B 肝病毒,可選擇注射疫苗以避免日後感染。) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...家庭疾病史、過去疾病史、過去孕產史、本胎不適症狀、成癮習慣查詢。 (2) 身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 (3)實驗室檢驗:血液常規(WBC、RBC、Plt、Hct、Hb、MCV)、血型、Rh 因子、HBsAg 及 HBeAg(惟因特殊情況無法於本次檢查者,可於第五次孕婦產前檢查時接受本項檢查)、VDRL 或 RPR(梅毒檢查)、Rubella IgG(德麻疹抗體)、愛滋病檢查(EIA或 PA)及尿液常規。 2. 例行檢查項目。(註二)註: 德國麻疹抗體檢查呈陰性之孕婦,應在產後儘速注射1劑麻疹腮腺炎德國麻疹混合疫苗,該劑疫苗免費。(註五) | | 第二次 | | 第16週 | 1. 例行檢查項目。(註二)2. 早產防治衛教指導。 | | 第 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...不到(目前用 PCR 最少可測到 20~40 copies/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者), CCR5 (考慮用 maraviroc 者)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].

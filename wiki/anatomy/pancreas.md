@@ -49,6 +49,20 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch24]]"
+  - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch19]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch06]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch12]]"
 aliases:
   - 'Pancreas (胰臟)'
   - 'Pancreas'
@@ -63,7 +77,7 @@ tags:
 
 ## Summary
 
-胰臟兼具外分泌消化酵素與內分泌血糖調控功能。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰臟兼具外分泌消化酵素與內分泌血糖調控功能。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +126,33 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch24]]
+- [[sources/med5-book3-ch17]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch16]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch19]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch06]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch12]]
 
 ## Key Details From Sources
 
+- 1. 急性胰臟炎是一個常見的急性腸胃道疾病,80%的病人病程都是較為和緩,但卻有20%的病人狀況較為嚴重,除了內科性的支持療法外,甚至情況危急需轉入加護病房持續治療監控,而其有將近5%的死亡率。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
+- 2. 急性胰臟炎是因為胰臟腺泡細胞(pancreatic acinar cells)的胰蛋白酵素(trypsin)被活化,導致一連串的胰臟發炎反應與自我分解,並且導致胰臟周圍脂肪細胞壞死。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
+- (2) Amylase、Lipase ↑:如果上升至三倍的正常值,需強烈懷疑急性胰臟炎。 Amylase 在發病三到四天後恢復正常,**Lipase** 半衰期較長可達一星期以上,較 具特異性。Amylase 與 Lipase 的數值與疾病嚴重程度無關。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
+- 1. 慢性胰臟炎是指胰臟因發炎反應,產生組織鈣化、纖維化,而導致不可逆的胰臟內 分泌及外分泌組織的永久性破壞。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 2. 慢性胰臟炎常見原因: - (1) 酒精(>70%)。 - (2) 胰管阻塞: 先天或後天性胰管狹窄、腫瘤阻塞。 - (3) 遺傳性。 - (4) 高血鈣症。 - (5) 蛋白質缺乏性的營養不良。 - (6) 囊性纖維化 (cystic fibrosis)。 - (7) 外傷導致胰臟受損。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 2. 腸胃習慣改變,並且出現脂肪便(steatorrhea),與胰臟外分泌功能喪失,脂肪及蛋白質的消化會受到影響相關。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 2. 流行病學: - (1) 在台灣,每十萬人口中約有五人罹患胰臟癌。十大癌症死因中排名第十。 - (2) 多發生於 60 歲之後的病人。 - (3) 男性發生率高於女性,約為2:1。 - (4) 胰臟癌發生於不同部位會有不同症狀,手術介入也會有不同的選擇。 - a. 胰頭:60~70%。 - b. 胰體:25%。 - c. 胰尾:10%。 - d. 多發性: 5~10%。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- ...- (a) 近端胃十二指腸動脈(Proximal gastroduodenal artery)。 - (b) 遠端胃十二指腸動脈(Distal gastroduodenal artery)。 - (c) 水平胰動脈 (Transverse pancreatic artery)。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - #### 丙、胰島細胞瘤(Pancreatic Islet Cell Tumors) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (1) 手術:首選 - a. 腫瘤位於 Pancreatic head: 腫瘤摘除 (enucleated)。 - b. 腫瘤位於 Pancreatic body 或 tail:遠端胰臟切除(resection)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 1. 定義:胰臟(或其他位置)的非 β 細胞腫瘤,分泌胃泌素,刺激胃製造過多 HCl, 而導致潰瘍。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
@@ -123,16 +161,6 @@ tags:
 - 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - (2) 其他尖銳物品刺傷: - a. 前腹部刺入:打開傷口探查有無穿透腹膜,如穿過腹膜,則作腹腔灌洗判斷有無出血,再決定是否需剖腹探查。假使病患有休克、腹膜炎症狀、NG 有引流出血或有便血、組織外露或 X 光上有 free air 時,不需作其他確認檢查,應儘快手術。 - b. 後驅幹刺入: 自腰部或背部刺入傷可能會傷及後腹腔之器官, 例如胰臟、 十二指腸、升降結腸或泌尿系統, 如病人情況不穩定或有腹膜炎症狀則應立 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - ...| | (abdominal computed tomog | graphy)? | 醫五-5 | | | | | | (A) 腹部鈍挫傷(abdominal | blunt trauma) | | | | | | | (B) 評估是否有胰臟受傷 | | | | | | | | (C) 身體評估無法判斷腹部是 | 是否受傷 | | | | | | | (D) 病人血壓為 65~72 mmHg, 脈搏為 108~112 / 分鐘, 呼吸 | | | | | | | | 20~25 / 分鐘 | | | | | | | | 【詳解】病人已經 vital sigr | n unstable,應以穩定 ABC 和剖腹探 | | | | | | | 查為優先,診斷為其次。 | | | Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- (C) 8. 下列那一個腹部器官在腹部鈍傷中最常受到傷害? 105(一)專 (A) 肝臟 (B) 腎臟 (C) 脾臟 (D) 胰臟 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- 3. 每個器官的低溫保存期限 (cold ischemia time) 不同:腎臟 24~72 小時、胰臟 12~18 小時、小腸 6~12 小時、肝臟 6~10 小時、肺 4~6 小時、心 4 小時。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (C) 大多數的胰臟移植時常會合併腎臟移植一起進行 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 【詳解】CA199 為胰臟癌的 tumor marker。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- ...2(一)專 | |-------------------------------------------------------|---------| | (A) Carbohydrate antigen 19-9(CA19-9)通常用來當胰臟癌的 | 醫五 -8 | | tumor marker | | | (B) Carcinoembryonic antigen (CEA) 臨床上常用來監測大腸直 | | | 腸癌 | | | (C) α-fetoprotein 在胎兒時會下降,出生後會逐漸上升,懷孕時 | | | 會下降 | | | (D) CA-125 在子宮內膜異位和肝硬化的病患會上升 | | | 【詳解】(C) $\alpha$ -fetoprotein 懷孕第四 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- 4. 葡萄糖代謝作用: - (1) 一克葡萄糖產生四大卡,受傷時血糖會持續升高,原因為: - a. 交感神經興奮腎上腺分泌,刺激肝醣分解以及胰臟分泌昇糖素(glucagon), 使得肝臟的肝醣分解(glycogenolysis)增加。 - b. 缺氧組織產生的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- ...carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazi Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 2. 原因: - (1) 低血容性(hypovolemic):大出血或大量體液流失(燒傷、胰臟炎等)造成休克。 - (2) 心因性休克(cardiogenic):急性心肌梗塞、心臟衰竭、心律不整,影響到有效心輸出量而造成休克。 - (3) 分配性 (distributive):分為敗血性 (septic)、過敏性 (anaphylactic) 和神經性 (neurogenic)。 - a. 敗血性休克:遭細菌感染釋放出之毒素,使得 TNF-α、IL-1、IL-6、IL-8 會增加,造成周邊血管擴張,vessel tone 下降, Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (B) 42. 一位長期喝酒之 40 歲男性患者因急性胰臟炎住院治療,不料第 二天開始出現顫抖、流汗、血壓增高、心跳變快、焦慮不安、煩 躁失眠、有視幻覺及被害妄想,之後並出現癲癇發作及意識混 亂,亂拔點滴,下列敘述何者正確? Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- (C) 胰臟炎與酒精性譫妄 (alcohol withdrawal delirium) 的產生 沒有關聯 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 
 ## Clinical Caveats
 

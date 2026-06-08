@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Taxanes (紫杉醇類)'
   - 'Taxanes'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-穩定微小管、抑制解聚的化療藥，常見過敏、神經毒性與水腫。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+穩定微小管、抑制解聚的化療藥，常見過敏、神經毒性與水腫。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- (3) 化學治療: - a. 適應症: - (a) 有淋巴結的轉移(N1)。 - (b) 乳癌細胞侵犯大於 $1 \text{cm} \cdot \text{Ki} 67 > 30\% \cdot \text{PR/ER}(-)$ 可考慮做化學治療,但 $\text{PR} \cdot \text{ER}$ 為陽性時不建議做化學治療。 - (c) High grade 的 breast cancer - (d) 必須考慮年紀,年紀大的患者不建議做化療,但年紀輕的病患可能會導致不孕,必須向患者解釋與溝通治療方向。 - b. 常用藥物:包括紫杉醇與 Anthracycline 類藥物。 - (a) 紫杉醇包括太平洋紫杉醇(taxol)及歐洲紫杉醇(Taxotere)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 2. Taxanes (紫杉醇):穩定微小管 (Stabilized)→導致微小管無法解聚 (Depolymerization) - (1) Pacitaxel (Taxol®、太平洋紫杉醇) - a. Taxanes (紫杉醇)類能對抗多種癌症,包括肺癌、乳癌、卵巢癌、血管肉瘤 (Angiosarcoma)等。 - b. 此藥需以包含 cremophor 的載體輸注,所以容易導致過敏,注射前需以 Dexamethasone, Diphenhydrami Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - 【詳解】轉移性前列腺癌最主要的治療是荷爾蒙療法,但多是病人兩年後會進展成去勢治療失敗攝護腺癌(metastatic castration-restant prostate cancer, mCRPC),傳統以 decetaxel 並用 prednisolone治療;近年 FDA 陸續核准幾類新藥:包括 cabazitaxel 屬新一代紫杉醇(taxane)類化療藥、mitoxantrone(type II topoisomerase inhibitor)、abiraterone 是口服雄性激素生合成抑制劑、enzalutamide是口服雄性激素接受體抑制劑,用於治療先前曾使用過 docetaxel 但無效的 mCRPC 病人,皆可有意義的延長中位存活期。 Source: [[sources/med3-book4-ch19|乙、化學治療]].

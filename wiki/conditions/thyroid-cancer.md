@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch19]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Thyroid cancer (甲狀腺癌)'
   - 'Thyroid cancer'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-甲狀腺惡性腫瘤依病理型態預後與治療不同。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺惡性腫瘤依病理型態預後與治療不同。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book2-ch19]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (B) familial thyroid cancer Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - c. 甲狀腺癌 (5%, thyroid cancer): T3、T4正常,晚期下降。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (2) Radioactive iodine (RAI) ablation: - a. 口服放射性的 131 I, 甲狀腺會吸收 131 I, 對甲狀腺產生破壞作用。 - b. 劑量 5~10 mCi , 持續 4~12 週 , 75% 病患會有效 , 剩下 25% 無效的病患則加 倍劑量。 - c. 會有 70% 的病患會終生甲狀腺機能低下,但並不會增加 thyroid cancer、leukemia、teratogenicity 的危險性。 - d. Contraindication:孕婦、新生兒、甲狀腺 RAI 吸收量不足 20%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 5. 有以下狀況時需作 thyroid lobectomy: - (1) FNA 結果為 malignant 或 indeterminate。 - (2) 病患為小孩。 - (3) 病患曾接受頸部放射線治療。 - (4) 有甲狀腺癌的家族史。 - (5) 美觀效果。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -68,7 +71,6 @@ tags:
 - | 化療藥物 | 血液腫瘤 | Leukemia · Lymphoma · HD | |-----------|--------|----------------------------------------------| | | 固體腫瘤 | 小細胞肺癌、生殖細胞瘤 *、GTN*、卵巢癌 | | | 小兒腫瘤 | Wilms' tumor, Ewing's sarcoma, Neuroblastoma | | 化療藥物+放射治療 | 鱗狀細胞癌( | 頭頸部、肛門)、乳癌、子宮頸癌 | | 化療藥物+手術 | | - 骨肉癌、乳癌 | | 對化療藥物少有反應 | 肝膽胰癌、腎 | Y細胞癌、甲狀腺癌、黑色素細胞癌、前列腺癌 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...-4(C) IL-11(D) IL-29 | 95(一)専内1-27 | | (B) | ( | 下列何種癌症對化學治療反應最差? (A) 急性骨髓性白血病 (B) 腎臟細胞癌 (C) 乳癌 (D) 精原細胞癌 【詳解】肝膽胰癌、腎細胞癌、甲狀腺癌、黑色素細胞癌、前列腺 | 95(一)専内1-29 | | (D) | [. | 下列何種化學藥劑為發泡劑(vesicant),靜脈注射不慎外滲時會造成皮膚壞死? (A) 5-FU (B) Methotrexate (C) Cisplatin (D) Vincristine 【詳解】兩類的發泡劑 熱敷 M phase (Miotic inhibitor) Vinblastine、Vincristine 冰敷 Antibiotics Do Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...) | API2/MALT, BCL-10 | | Aggressive | Diffuse large cell lymphoma | t(3; -), t(17; -) | BCL-6; p53 | | lymphoma | CD30+Anaplastic large cell lymphoma | a t(2;5) | ALK | | Highly | Burkitt's lymphoma/leukemia | t(8; 14) | C-MYC | | aggressive | Precursor B cell ALL | t(4; 11) | AF4, ALLI | | lymphoma | Precursor ALL | t(9; 22), t(1; 19), | BCR, ABL Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...dult T cell lymphoma/leukemia | | | | | Peripheral T cell lymphoma | | | | Aggressive | Diffuse large B cell lymphoma . Anaplastic large cell lymphoma | | | | | Hairy cell leukemia · T-cell/NK cell lymphoma | | | | | Mantle cell lymphoma · Marginal zone lymphoma | | | | Indolent | Follicular lymphoma > Small lymphocytic lymphoma/ B-cell CLL | | | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 
 ## Clinical Caveats
 

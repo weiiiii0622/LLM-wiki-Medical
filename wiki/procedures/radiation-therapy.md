@@ -27,6 +27,9 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -41,7 +44,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +71,17 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book2-ch27]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (5) 乳房保留手術與改良式根除性乳房全切除術: - a. 乳房保留手術 (Breast conserving surgery, BCS): 部分 乳房切除術 (partial mastectomy) 加上腋下淋巴結廓清 術 (Axillary LN dissection: Level I+II,至少10~15個LN)加上術後放射線治療(Radiotherapy)。 - (a) 乳房保留手術加上術後放射治療,減少局部復發機率,臨床預後與改良型乳癌根除手術(MRM)相同。可以保留乳房外觀,對於罹癌婦女的心理與精神衝擊相對較小。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- 3. 乳房重建手術 (Reconstruction): - (1) 重建時間點: - a. 術後立即重建:乳房切除術後立即重建。 - b. 延遲重建:接受化學治療及放射治療三個月過後,再考慮接受乳房重建。 - (2) 重建方式: - a. 自體組織移植: - (a) TRAM: 使用腹直肌皮瓣(transverse rectus abdominis myocutaneous flap) 進行重建。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (C) 20. 50 歲婦人,兩年前曾因乳癌而接受右側乳房切除,近日右側胸 100(二)專 廓手術疤痕邊緣呈現多顆小腫瘤,下列何種處理最恰當? 醫五-6 - (A) Radiotherapy - (B) Chemotherapy - (C) 腫瘤切片檢查 - (D) 腫瘤超音波檢查 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (C) 手術完全切除才較有機會治癒, 化學治療和放射治療效果至 目前結果都不好 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- ...A) stent and chemotherapy | | | | | (B) local excision and radiother | rapy | | | | (C) Whipple procedure | | | | | (D) radiotherapy | | | | | 【詳解】Periampullary tumor | 的術式首選為 Whipple procedure。 | | | (C) 17 | . 下列何種基因和胰臟癌的發生 | 上較無關聯? | 100(二)專 | | | (A) Her2/neu | | 醫五-20 | | | (B) K-ras | | | | | (C) APC | | | | | (D) p53 | | | | (C) 18 | . Whipple Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 3. 未分化型甲狀腺癌(undifferentiated or anaplastic carcinoma): - (1) 由濾泡上皮細胞衍生而來,多源自 PTC 或 FTC,約佔甲狀腺癌的 1~2%。 - (2) 相當惡性且預後極差,平均存活率 3 個月,好犯 50 歲以上老年人。 - (3) 易侵犯至鄰近組織造成食道、氣管阻塞,破壞喉返神經。 - (4) 易局部淋巴及遠端血液轉移。 - (5) 手術切除預後不好,放射治療以及化療幫助有限。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 4. 甲狀腺淋巴瘤(thyroid lymphoma): - (1) 相當罕見且多和 Hashimoto thyroiditis 有關。大部分為 non-Hodgkin lymphoma。 - (2) 只能藉由 biopsy 去診斷, FNA 幫助不大。 - (3) 主要治療為 radiotherapy。 - (4) 預後和有沒有侵犯出 thyroid capsule 有關,如果僅侷限在包膜內其五年存活率 為 85%,反之,只剩下 40%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...癌(anaplastic carcinoma),何者錯誤? | 105(一)專 | | | (A) 不可能由分化良好型甲狀腺癌轉變而來 | 醫五 -40 | | | (B) 需作切片檢查或氣管切開 | | | | (C) 目前放射線治療 (radiation therapy) 及化學治療 (chemo- | | | | therapy)效果不彰 | | | | (D) 很少需要根除手術,預後甚差 | | | (C) 19. | 甲狀腺髓質癌(medullary carcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CE Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -84,11 +95,6 @@ tags:
 - (2) Grade II: 病人多以癲癇表現而無其他症狀,加上大部分 low grade astrocytoma 沒有 clear margin,因此並無證據顯示手術或是放射治療能改善預後,多採保守治療。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (3) Grade III 和 IV: - a. 顱骨切開術或是立體定位法做組織切片,然後進入腫瘤內腔將腫瘤清除乾淨。但困難之處在於腫瘤和周圍腦組織無明顯界線。 - b. 放射治療:對於惡性腫瘤較有效,能延長生命但無法根除疾病。劑量越集中效果越好。 - c. 化學治療:temozolomide,單獨治療反應效果不高,需合併手術或放射治療效果較好。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 5. 分低惡性和惡性,低惡性可以手術切除,輔以化療/放療,惡性則以放射治療為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 4. 相對禁忌症: 之前作過開胸手術、腫瘤侵犯至肺門血管、因肺或食道腫瘤而作過化療或放射治療者。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- ...。 - (b) 運動或自主神經功能異常:第二常見,會有 urinary urgency 和 retention。 - (c) 感覺異常。 - (d) 脊椎骨被侵蝕導致病理性骨折、高血鈣。 - e. 檢查: X 光、MRI。 - f. 治療:放射治療,假使放射治療無效或神經症狀急速惡化,才考慮手術減壓。 - (2) 動脈瘤性骨囊腫 (aneurismal bone cyst): - a. 良性的骨性囊腫,發病的骨頭內,會產生空洞化,充滿了不正常的血管組織。 - b. 佔 15% 的脊椎腫瘤,多在 20 歲左右發作。 - c. 如果骨囊腫不斷膨脹會使骨頭變薄,有骨折、出血的危險。 - d. 治療: - (a) 先把骨囊腫的主要供血管用藥物栓塞,減少手術當中的出血。 - (b) 將骨囊 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- (D) 若上述檢查皆正常,儘早給予血栓溶解劑 rt-PA Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (A) 給予靜脈血栓溶解劑(rt-PA)治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 【詳解】本題無法確認發作時間,是 rt-PA 的禁忌症。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 
@@ -97,6 +103,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/breast-conserving-surgery|Breast-conserving surgery / lumpectomy (乳房保留手術)]]
 - [[conditions/glioblastoma|Glioblastoma, GBM (膠質母細胞瘤)]]
 
 ## Follow-up

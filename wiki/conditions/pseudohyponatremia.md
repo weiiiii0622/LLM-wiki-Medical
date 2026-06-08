@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Pseudohyponatremia (假性低血鈉)'
   - 'Pseudohyponatremia'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- ...| 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (4) 另外年紀大、男性、高血壓、抽菸、高血脂、genetic (Marfan syndrome) 皆為 危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (#) 1. 動脈瘤形成的危險因素不包括下列何者? 108( ) 專 (A) 高年齡 (B) 男性 (C) 高血脂 (D) 糖尿病 醫五 -22 【詳解】皆是危險因子,故送分。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (A) 高蛋白餐試驗 (High protein meal test) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
@@ -78,7 +81,6 @@ tags:
 - ...i」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...oidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ...lity | 2. Hyperproteinemia | | | | 3. Posttransurethral resection of prostate/bladder tumor | | | Increased plasma | 1. Hyperglycemia | | | osmolality | 2. Mannitol | | Hypoosmolal | Primary Na + loss | 1. Integumentary loss: sweating, burns | | hyponatremia | (secondary water gain) | 2. Gastrointestinal loss: vomiting, tube drainage, fistula, obstruc Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

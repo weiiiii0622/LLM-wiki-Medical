@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Paraneoplastic syndrome (腫瘤旁症候群)'
   - 'Paraneoplastic syndrome'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 【詳解】考%數是一個很討厭的考法。HCC 的四大 paraneo-plastic syndrome 包含 erythrocytosis ,hypoglycemia,hyperchole-sterolemia,hypercalcemia,比較常見的發生率是寫 40% 左右,但也有 paper 寫在 10~20%。比例就僅供參考,重點還是要知道有 paraneoplastic syndrome 這回事。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (b) 手術方法: 術中於腫瘤旁注射甲基藍或同位素,用來定位出前哨淋巴結, 將其摘除後由病理科醫師初步分析是否受到癌細胞侵犯,再決定是否進 行腋窩淋巴結廓清術。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - ...依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancre Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...專 天病人的血清鈉離子濃度為 126 mEq/L, 鉀離子濃度為 4.7 mEq/L, 醫五 -32 氯離子濃度為 85 mEq/L,病人的數據反映出病況為: (A) 鬱血性心臟衰竭 (B) 鼻胃管大量引流 (C) 抗利尿荷爾蒙分泌不適當(SIADH) (D) 尿中鈉離子流失 【詳解】病患血鈉和氯離子偏低,病患年紀大月剛接受完手術, SIADH 的可能性最高。(A) 可能會看到病患有水腫情形。(B)NG 引流會造成氯離子流失,代謝性鹼血症,但不會低鈉。(D) 血中 氯離子不會降低。 (C) 4. 承上題,對於本病人的情況,應如何處置? 99(一)專 (A) 給予含鈉離子的大量輸液 醫五-33 (B) 給予強心劑 (C) 降低或限制輸液的給予 (D) 限制鈉離子給予 【詳解】SIAD Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -58,9 +65,6 @@ tags:
 - 3. Leser-Trélat Sign:假使身上短時間大量出現脂漏性角化症時,須懷疑體內是否有癌症,特別是胃癌、肺癌、與大腸癌,為 paraneoplastic syndrome 的一種表現。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 1. 依照腫瘤位置、疾病程度或是否有副腫瘤症候群(paraneoplastic syndrome)表現有關。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 5. 副腫瘤症候群 (paraneoplastic syndrome): - (1) Horner syndrome: 腫瘤在 superior cervical ganglion,造成病人出現單側眼瞼下垂、瞳孔縮小、無汗。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- #### 丁、腫瘤旁症候群 (Paraneoplastic Syndrome) Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- 2. Squamous cell carcinoma 會分泌 PTHrP 造成高血鈣(HyperCalcemia),因為常長在肺尖(Pancoast tumor)而造成肩痛、手臂痠痛、Horner syndrome。 - \*口訣:死龜(Squa)愛搞怪(高鈣),愛爬到肺尖造成肩痛 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 
 ## Clinical Caveats
 

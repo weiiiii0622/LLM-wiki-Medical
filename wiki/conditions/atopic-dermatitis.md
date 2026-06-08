@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Atopic dermatitis (異位性皮膚炎)'
   - 'Atopic dermatitis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-慢性搔癢濕疹性疾病，與皮膚屏障異常、Th2 inflammation 與 atopy 相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性搔癢濕疹性疾病，與皮膚屏障異常、Th2 inflammation 與 atopy 相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book2-ch10]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch07]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- ...| | 108(二)專 | | | (A) 一種由乳管內乳癌(intradu | ictal carcinoma)生成之乳癌 | 醫五 -38 | | | (B) 原始病灶在乳暈 | | | | | (C) 乳頭及乳暈皮膚呈濕疹樣 | (eczematous eruption)或牛皮疹 | | | | (psoriatic rash) | | | | | (D) 需切片檢查以鑑別診斷皮膚 | 請病變 | | | | 【詳解】Paget disease 是原發的 | 目乳房的腫瘤,經由乳腺管路系統 | | | | 進入乳頭的上皮層。 | | | | (B) | 6. 比較同一期別的乳癌,下列何 | 運乳癌組織型態預後最好? | 108(一)專 | | | (A) medullary Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - C. 異位性皮膚炎 (Atopic dermatitis) 89 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - E. 缺脂性皮膚炎 (Asteatotic eczema) 90 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].

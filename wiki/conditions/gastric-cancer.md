@@ -22,6 +22,9 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Gastric cancer (胃癌)'
   - 'Gastric cancer'
@@ -36,7 +39,7 @@ tags:
 
 ## Summary
 
-胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +61,19 @@ tags:
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- 1. 根據為衛服部的統計,胃癌的發生率位居台灣十大癌症發生率的第四位,而**男性**胃 癌病人的罹患率為女性的 1.8 倍。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 2. 胃癌包括胃腺癌、惡性淋巴瘤等,其中胃腺癌約佔90%。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 1. 胃癌的確切致癌過程到目前為止還不是很清楚,經研究顯示胃癌是由多重因子造成。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (C) 胃癌 (gastric cancer) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 1. 小腸腫瘤大約佔所有消化道癌症的 1~3%,相對胃癌與大腸癌而言少見。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 4. 轉移癌 - (1) 轉移癌的發生率較原發性小腸癌高出許多。 - (2) 常見轉移至小腸的癌症包括:子宮頸癌、卵巢癌、腎臟癌、胃癌、大腸癌、胰臟癌等腹內器官。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (C) 7. 在 HNPCC(hereditary nonpolyposis colorectal cancer)患者中, 106(二)專 最常見的腸道外腫瘤為何? 醫五-39 - (A) 膀胱癌 - (B) 胃癌 - (C) 子宮內膜癌 - (D) 卵巢癌 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (B) 因胃癌住院準備接受手術,手術後體重由七十公斤降為 六十五公斤,抽血檢查血清白蛋白濃度為 3.2 g/dL Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (BC)26. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證 實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲 知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外 籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀 而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。 下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
@@ -72,13 +85,6 @@ tags:
 - ...large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...(C) Epstein-Barr 病毒感染 (D) 人類乳突病毒感染 (HPV) | 107(二)專醫三-36 | | (B) | 4. 有關微生物及癌症的關係,下列何者關聯性最低? (A) Helicobacter pylori vs. 胃癌(gastric cancer) (B) Human papilloma virus vs. 子宮癌(uterine cancer) (C) Human herpesvirus type 8 vs. 卡波氏肉瘤(Kaposi's sarcoma) (D) Epstein-Barr virus vs. 霍金氏淋巴癌(Hodgkin's lymphoma) | 106(二)專醫三-60 | | (C) | 5. 一位 33 歲男性病人,有一 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...之腫瘤(A) 大腸癌(C) 乳癌 | 指標(tumor marker)?(B) 卵巢癌(D) 肺癌 | 94(二)檢內-48 | | (B) 23. CA-125 為那一種癌症之腫瘤(A) 肺癌(C) 乳癌 | 標記?(B) 卵巢癌(D) 胃癌 | 94( 一 ) 檢內 -19 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- (D) 8. 周醫師在幫病患王老先生進行胃鏡檢查時,發現王老先生胃部有一處胃潰瘍,周醫師初步判斷應該屬於良性潰瘍而沒有幫王老先生進行切片檢查。胃鏡檢查結束,王老先生很擔心該胃潰瘍會不會是胃癌,而多次詢問周醫師是否應該馬上再次做胃鏡配合切片檢查,周醫師告知只要吃藥 4 個月胃潰瘍就可以痊癒。4 個月後,王先生再度接受胃鏡檢查,切片檢查顯示為胃癌。周醫師為了避免醫療糾紛,在第一次胃鏡報告上增加「病患想先吃藥」的敘述。下列敘述何者正確? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (#) 19. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...在這個階段最適當的檢查為: (A) 上消化道內視鏡 (B) 胸部 CT 掃描 (C) 骨掃描 (D) PET 掃描 【詳解】男性 IDA 多為腸胃道慢性出血,腸胃道癌症一定要列入考慮,左鎖骨上 LAP 是 Virchow's node,是個胃癌特殊轉移位置,所以懷疑胃癌做胃鏡。 | 104(一)專醫三-46 | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- | 症 狀 | 腫 瘤 | |--------------------------------------------------------|------------------------| | Acanthosis nigricans | 胃癌、非小細胞肺癌 | | Sweet syndrome (Acute febrile neutrophilic dermatosis) | AML · MDS | | Pruritis | Hodgkin's disease | | Pemphigus | Non- Hodgkin's disease | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...題,該病患之處置,下列何者較適當? (A) 立即給予靜脈注射 50% 葡萄糖 (B) 補充水分,並給予利尿劑 (C) 注射鈣離子 (D) 給予佳力美粉(Kalimate) | 97(二)專醫三-45 | | (C) | 8. 一位 70 歲胃癌男性因為突然下半身癱瘓(paraplegia)來急診就醫。發病前一個月開始出現下背痛。X 光檢查發現第一腰椎產生病理性骨折(pathological fracture),並產生脊髓壓迫(spinal cord compression)。血液檢查 alkaline phosphatase 780 U/L, calcium 3.8 mmol/L。下列敘述何者錯誤? (A) 轉移性癌症引起之脊髓壓迫,可使用大劑量類固醇及放射線治療(B) 愈早 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (#) 18. 一位 86 歲男性,26 年前因雙側股骨頭缺血性壞死,做過雙側髖關節 置換手術; 20 年前因胃癌, 做過部分胃切除手術。此外, 還曾罹患 過肺結核及做過腸阻塞手術等。病患長期虛弱臥床,發生過數次吸 入性肺炎,亦有嚴重攝護腺肥大。此次病人再度發燒、喘、黃痰、 少尿和肺囉音,懷疑尿路或肺部感染,使用廣效抗生素後,病情獲 得控制。針對目前病史之臨床處置模式,符合下列那一種? Source: [[sources/med3-book4-ch25|乙、行為科學]].
-- (2) 疾病:胃炎、胃潰瘍、十二指腸潰瘍、胃癌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 
@@ -87,7 +93,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/gastrectomy|Gastrectomy (胃切除術)]]
+- [[conditions/gastric-outlet-obstruction|Gastric outlet obstruction (胃出口阻塞)]]
 
 ## Follow-up
 

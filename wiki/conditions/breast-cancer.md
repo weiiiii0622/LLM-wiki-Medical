@@ -23,6 +23,11 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch21]]"
+  - "[[sources/med5-book3-ch22]]"
+  - "[[sources/med5-book3-ch23]]"
 aliases:
   - 'Breast cancer (乳癌)'
   - 'Breast cancer'
@@ -37,7 +42,7 @@ tags:
 
 ## Summary
 
-乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +65,24 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch21]]
+- [[sources/med5-book3-ch22]]
+- [[sources/med5-book3-ch23]]
 
 ## Key Details From Sources
 
+- 1. 乳癌為台灣婦女發生率第一位的癌症(每十萬名婦女約有 180 人發生),好發於 45~69 歲之間的女性。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- 2. 依據衛生福利部統計資料顯示,每年有約9,600位婦女罹患乳癌,1,900人死於乳癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (1) BRCA1 與 BRCA2 為 tumor suppressor gene,當此基因突變時,會導致家族遺傳性乳癌及卵巢癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (5) Familial breast cancer (BRCA2) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- ...| | | | 【詳解】Periampullary tumor | 的術式首選為 Whipple procedure。 | | | (C) 17 | . 下列何種基因和胰臟癌的發生 | 上較無關聯? | 100(二)專 | | | (A) Her2/neu | | 醫五-20 | | | (B) K-ras | | | | | (C) APC | | | | | (D) p53 | | | | (C) 18 | . Whipple 手術後,最嚴重的併 | :發症是: | 99(二)專 | | | (A) 延遲性胃排空 | | 醫五 -34 | | | (B) 膽汁滲漏 | | | | | (C) 胰液滲漏 | | | | | (D) 傷口感染 | | | | | 【詳解】Whip Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- c. 利用與胸小肌的相對關係來定義 level,在乳癌中,較高階的淋巴結侵犯代表 著較差的預後,但淋巴結受到侵犯的數目對於預後更為重要。 - (a) Level I(低):胸小肌外側。 - (b) Level II (中):胸小肌後側。 - (c) Level III(高):胸小肌內側。 Source: [[sources/med5-book3-ch21|甲、解剖構造]].
+- ...ectoral nerve | | | | | 【詳解】必考題阿一定要會,一考再考。肋間臂神經(intercostal | | | | | brachial nerve)的損傷將會導致上臂內側麻木或疼痛。 | | | (B) | 2. | 乳癌病患接受改良式根治性乳房切除術(modified radical | 106 (二) 專 | | | | mastectomy)後,發生肩胛畸形(winged scapula deformity), | 醫五 -34 | | | | 表示下列何神經受損? | | | | | (A) 胸背神經(thoracodorsal nerve) | | | | | (B) 長胸神經 (long thoracic nerve) | | | | | ( Source: [[sources/med5-book3-ch21|甲、解剖構造]].
+- (1) 乳房的病理切片中可見乳房上皮組織有異常增殖細胞,視為一種癌前病變,也表示病人未來罹患乳癌的機率增加2到4倍。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
+- 2. 治療:當 core needle biopsy 檢查顯示為非典型乳管增生,需要進一步作 **surgical biopsy** 把全部腫塊取出,作進一步的病理診斷,因為約有 1/3 的病人最後被確診為乳癌。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - (C) 19. 42 歲肥胖並有抽菸的女性,腹部已有橫式剖腹產疤痕,乳房是 E罩杯。現罹患右側乳癌,要求改良式乳房全切除手術(modified radical mastectomy)後立即進行乳房重建手術。下列有幾項選擇: Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (D) 25. 林小姐罹患乳癌須接受一側乳房切除,她想同時接受乳房重建 手術,則下列那一個皮瓣最不適合用來作為乳房重建之用? - (A) 闊背肌肌皮瓣 (latissimus dorsi muscle flap) - (B) 橫腹直肌皮瓣(transverse rectus abdominis myocutaneous flap) - (C) 上臀動脈穿通枝皮瓣(superior gluteal artery perforator flap) - (D) 腹網膜瓣 (omental flap) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - ...甲狀球蛋白(Thyroglobulin) | 醫五-8 | | (B) 血清抑鈣激素(Calcitonin) | | | (C) RET 基因分析 | | | (D) 頸部超音波 | | | (B) 41.60 歲女性病人,20 年前有右側乳癌做過 irrad | liation,發現右側甲 98(-)專 | | 狀腺硬塊約二個月,則應建議做何檢查? | 醫五-38 | | (A) $T_3$ , $T_4$ , TSH | | | (B) 超音波定位細胞學檢查 | | | (C) 核磁共振 | | | (D) 血管攝影 | | | (A) 42. 承上題,上述病人接受手術,最可能的診斷是 | 是: 98(一)專 | | (A) 乳突癌(papillary thyroid c Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -71,16 +91,6 @@ tags:
 - ...24. 下列關於脊椎病理性骨折(pathologic fracture)的敘述,何者錯誤? | 104(二)專 | | (A) 多為轉移性腫瘤(metastatic tumor)造成 | 醫五 -12 | | (B) 常見的腫瘤來源為肺癌、乳癌等 | | | (C) 判斷腫瘤對於脊髓壓迫的嚴重程度時,CT 比 MRI 更適合 | | | (D) 當病患下肢日漸無力或有大小便失禁等症狀時應考慮手術 | | | 減壓 | | | (C) 25. 有關脊椎損傷,下列何者錯誤? | 104(二)專 | | (A) 只要下肢仍有感覺就屬於不完全性的損傷 | 醫五 -75 | | (B) Central cord syndrome 指病人理學檢查時上肢比下肢無力 | | | (C) Br Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 7. 轉移癌:轉移自肺癌、乳癌、腎臟、腸胃道或淋巴癌。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。選(B)。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- (D) 對於肥胖相關的黑色棘皮症,減重對於皮膚病灶沒有改善作用 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細 胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發 於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗 性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、 雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一 種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症 最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或 治療相關之癌症。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 2. 此外,PJ 患者罹患癌症的機率也會增加,發生機率依序為小腸、胃、胰臟、大腸、 食道、卵巢或乳癌等。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- (2) 心電圖:通常會表現 **RBBB**,可能出現高且寬的 P 波、prolonged PR interval。 此外,約 **20%** 的病人有 **Wolff-Parkinson-White syndrome**。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...yperkalemia)的處理,下列何者敘述錯誤? 106(二)專 (A) 停止所有鉀離子的補充 醫四 -20 (B) 若血鉀濃度高於 6.5 mEq/L, 心電圖可能先出現 peak T waves, 進一步可能出現 prolonged PR interval (C) 靜脈內注射胰島素改善高血鉀時,不可同時加葡萄糖點滴 (D) 若高血鉀對於藥物的反應不佳,應考慮透析治療 【詳解】靜脈注射胰島素、使用 β,-agonist 藥物可以把血漿中的 鉀離子趕到細胞內,但是要注意其副作用如低血糖、心搏過速 等。因此注射胰島素時須同時給予醣類補充。 (C) 5.15 歲男生為田徑隊員,在訓練 3 小時後,發生雙側大腿疼痛,尿 106(二)專 液變成紅色而至急診求診。尿液檢查發現,潛血反 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- A. 乳癌 (Breast cancer) 210 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- #### A. 乳癌 (Breast cancer) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (1) 國民健康署補助 45~69 歲女性及 40~44 二等血親內曾罹患乳癌之婦女每 2 年 1 次乳房 X 光攝影檢查。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- \*CEA 的腺癌包括大腸癌、胰癌、肺癌、乳癌、卵巢癌 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...(prostate specific antigen, PSA)-攝護腺癌 (B) 癌抗原 CA-125-卵巢癌 (C) 癌胚胎抗原(carcinoembryonic antigen, CEA)-大腸直腸癌 (D) 癌抗原 CA-15-3-乳癌 | 101(一)專醫三-71 | | (B) | 14. 下列疾病中胎兒蛋白(α-fetoprotein, AFP)最不可能升高的疾病是: (A) 肝細胞癌(Hepatocellular carcinoma) (B) 肝臟腺瘤(Hepatic adenoma) (C) 睪丸畸胎上皮癌(Teratocarcinoma) (D) 重度病毒性肝炎(Severe viral hepatitis) | 100(二)專醫三-45 | | (C) Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 
@@ -89,7 +99,19 @@ tags:
 
 ## Related Pages
 
+- [[procedures/axillary-lymph-node-dissection|Axillary lymph node dissection, ALND (腋下淋巴結廓清)]]
 - [[procedures/breast-augmentation|Breast augmentation (隆乳手術)]]
+- [[procedures/breast-conserving-surgery|Breast-conserving surgery / lumpectomy (乳房保留手術)]]
+- [[diagnostics/breast-ultrasonography|Breast ultrasonography (乳房超音波)]]
+- [[procedures/core-needle-biopsy-breast|Core needle biopsy of breast (乳房粗針切片)]]
+- [[conditions/ductal-carcinoma-in-situ|Ductal carcinoma in situ, DCIS (乳管原位癌)]]
+- [[conditions/fibrocystic-change|Fibrocystic change (纖維囊性變化)]]
+- [[conditions/intraductal-papilloma|Intraductal papilloma (乳管內乳突瘤)]]
+- [[conditions/invasive-ductal-carcinoma|Invasive ductal carcinoma (浸潤性乳管癌)]]
+- [[conditions/invasive-lobular-carcinoma|Invasive lobular carcinoma (浸潤性小葉癌)]]
+- [[conditions/lobular-carcinoma-in-situ|Lobular carcinoma in situ, LCIS (小葉原位癌)]]
+- [[conditions/paget-disease-of-breast|Paget disease of breast (乳房 Paget disease)]]
+- [[procedures/sentinel-lymph-node-biopsy|Sentinel lymph node biopsy, SLNB (前哨淋巴結切片)]]
 
 ## Follow-up
 

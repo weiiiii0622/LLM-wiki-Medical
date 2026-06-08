@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Von Hippel-Lindau disease, VHL (馮希伯-林道症候群)'
   - 'Von Hippel-Lindau disease, VHL'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-腫瘤抑制基因疾病，增加 hemangioblastoma、renal cell carcinoma、pheochromocytoma 等風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤抑制基因疾病，增加 hemangioblastoma、renal cell carcinoma、pheochromocytoma 等風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- (3) Von Hippel-Lindau disease (VHL) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - L. 血管母細胞瘤 (Hemangioblastoma) 212 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ## L. 血管母細胞瘤 (Hemangioblastoma) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 3. 血管母細胞瘤也是 von Hippel-Lindau disease 最常見的其中一個表現。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

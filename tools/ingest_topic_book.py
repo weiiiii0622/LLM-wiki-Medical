@@ -1235,7 +1235,71 @@ TENTH_BOOK_SEEDS: tuple[TopicSeed, ...] = (
 )
 
 
-ALL_SEEDS: tuple[TopicSeed, ...] = SEEDS + SECOND_BOOK_SEEDS + THIRD_BOOK_SEEDS + FOURTH_BOOK_SEEDS + FIFTH_BOOK_SEEDS + SIXTH_BOOK_SEEDS + SEVENTH_BOOK_SEEDS + EIGHTH_BOOK_SEEDS + NINTH_BOOK_SEEDS + TENTH_BOOK_SEEDS
+ELEVENTH_BOOK_SEEDS: tuple[TopicSeed, ...] = (
+    # Stomach and foregut surgery.
+    TopicSeed("condition", "gastric-outlet-obstruction", "Gastric outlet obstruction (胃出口阻塞)", ("Gastric outlet obstruction", "胃出口阻塞", "pyloric obstruction"), "胃或十二指腸出口阻塞造成嘔吐、早飽、脫水與電解質異常，常見原因包含潰瘍瘢痕與惡性腫瘤。"),
+    TopicSeed("condition", "perforated-peptic-ulcer", "Perforated peptic ulcer (消化性潰瘍穿孔)", ("Perforated peptic ulcer", "PPU", "潰瘍穿孔", "free air"), "消化性潰瘍穿孔可造成急性腹膜炎與 pneumoperitoneum，需要復甦、抗生素與手術或內視鏡策略評估。"),
+    TopicSeed("procedure", "gastrectomy", "Gastrectomy (胃切除術)", ("gastrectomy", "胃切除", "subtotal gastrectomy", "total gastrectomy"), "胃癌或複雜潰瘍可需部分或全胃切除，並依病灶位置與淋巴清除需求選擇重建方式。"),
+    TopicSeed("procedure", "vagotomy", "Vagotomy (迷走神經切斷術)", ("vagotomy", "迷走神經阻斷", "迷走神經切斷"), "透過切斷 vagal input 降低胃酸分泌，傳統上用於潰瘍手術策略，常需搭配 drainage procedure。"),
+    TopicSeed("procedure", "billroth-reconstruction", "Billroth reconstruction (Billroth 胃腸重建)", ("Billroth I", "Billroth II", "Billroth reconstruction"), "胃切除後可用 Billroth I 或 II 重建胃腸連續性，影響膽汁逆流、dumping 與 loop syndrome 風險。"),
+    TopicSeed("procedure", "roux-en-y-reconstruction", "Roux-en-Y reconstruction (Roux-en-Y 重建)", ("Roux-en-Y", "Roux stasis"), "以 Roux limb 重建消化道連續性，可降低膽汁逆流但可能有 Roux stasis syndrome。"),
+    TopicSeed("condition", "dumping-syndrome", "Dumping syndrome (傾倒症候群)", ("Dumping syndrome", "傾倒症候群", "postgastrectomy"), "胃切除後高滲食物快速進入小腸造成早期血管運動症狀或晚期低血糖。"),
+    TopicSeed("condition", "afferent-loop-syndrome", "Afferent loop syndrome (輸入袢症候群)", ("Afferent loop syndrome", "輸入袢", "afferent loop"), "Billroth II 或相關重建後輸入袢阻塞造成膽胰液鬱積、腹痛、嘔吐或膽管胰臟併發症。"),
+    TopicSeed("condition", "alkaline-reflux-gastritis", "Alkaline reflux gastritis (鹼性逆流性胃炎)", ("Alkaline reflux gastritis", "鹼性逆流", "bile reflux gastritis"), "胃手術後膽汁與胰液逆流刺激胃黏膜，可造成上腹痛、噁心與嘔吐。"),
+    # Small bowel surgery.
+    TopicSeed("condition", "small-bowel-obstruction", "Small bowel obstruction (小腸阻塞)", ("small bowel obstruction", "SBO", "小腸阻塞", "mechanical ileus", "stack of coin"), "小腸機械性阻塞常因術後沾黏、疝氣、腫瘤或腸扭結造成，需評估絞扼與缺血風險。"),
+    TopicSeed("condition", "adhesive-small-bowel-obstruction", "Adhesive small bowel obstruction (沾黏性小腸阻塞)", ("adhesion ileus", "腸沾黏", "adhesive obstruction"), "腹部手術後沾黏是成人小腸阻塞常見原因，多數先支持療法，但惡化或絞扼需手術。"),
+    TopicSeed("condition", "strangulated-bowel-obstruction", "Strangulated bowel obstruction (絞扼性腸阻塞)", ("strangulation", "絞扼性腸阻塞", "bowel ischemia", "peritoneal sign"), "腸阻塞合併血流受阻會導致缺血、壞死與穿孔，是需緊急處置的外科急症。"),
+    TopicSeed("condition", "small-bowel-tumor", "Small bowel tumor (小腸腫瘤)", ("Tumors of small intestine", "small bowel tumor", "小腸腫瘤", "小腸癌"), "小腸腫瘤可為良性或惡性，症狀常不特異，可造成出血、阻塞、穿孔或腸套疊。"),
+    TopicSeed("condition", "small-bowel-adenocarcinoma", "Small bowel adenocarcinoma (小腸腺癌)", ("small bowel adenocarcinoma", "小腸腺癌", "duodenal adenocarcinoma"), "小腸惡性腫瘤之一，與 Crohn disease、celiac disease、FAP 等風險相關。"),
+    TopicSeed("condition", "gastrointestinal-carcinoid-tumor", "Gastrointestinal carcinoid tumor (胃腸道類癌)", ("carcinoid", "類癌", "neuroendocrine tumor", "5-HIAA"), "胃腸道 neuroendocrine tumor 可分泌 serotonin 等物質，轉移後可能造成 carcinoid syndrome。"),
+    TopicSeed("condition", "carcinoid-syndrome", "Carcinoid syndrome (類癌症候群)", ("carcinoid syndrome", "類癌症候群", "flushing", "5-HIAA"), "類癌腫瘤分泌物進入體循環後可造成 flushing、diarrhea、bronchospasm 與右心瓣膜病變。"),
+    # Liver surgery and tumors.
+    TopicSeed("condition", "hepatic-hemangioma", "Hepatic hemangioma (肝血管瘤)", ("hepatic hemangioma", "肝血管瘤", "cavernous hemangioma"), "常見良性肝腫瘤，多數偶然發現且無症狀，影像典型時通常追蹤即可。"),
+    TopicSeed("condition", "focal-nodular-hyperplasia", "Focal nodular hyperplasia, FNH (局部結節性增生)", ("focal nodular hyperplasia", "FNH", "局部結節性增生", "central scar"), "良性肝細胞增生病灶，常見於年輕女性，影像可見 central scar。"),
+    TopicSeed("condition", "hepatic-adenoma", "Hepatic adenoma (肝腺瘤)", ("hepatic adenoma", "肝腺瘤", "oral contraceptive"), "良性肝細胞腫瘤，與 estrogen exposure 等相關，需注意出血與惡性轉化風險。"),
+    TopicSeed("procedure", "hepatectomy", "Hepatectomy / liver resection (肝切除術)", ("hepatectomy", "liver resection", "肝切除"), "肝臟腫瘤或部分膿瘍/創傷可需肝切除，需評估肝功能、剩餘肝容量與腫瘤分布。"),
+    TopicSeed("procedure", "radiofrequency-ablation", "Radiofrequency ablation, RFA (射頻燒灼治療)", ("radiofrequency ablation", "RFA", "射頻燒灼"), "以熱能局部消融肝腫瘤等病灶，常用於特定 HCC 或轉移病灶。"),
+    # Biliary surgery.
+    TopicSeed("condition", "acute-acalculous-cholecystitis", "Acute acalculous cholecystitis (急性非結石性膽囊炎)", ("Acute Acalculous Cholecystitis", "急性非結石性膽囊炎", "acalculous cholecystitis"), "重症、外傷、燒傷或禁食病人可發生無結石膽囊炎，診斷較困難且壞疽穿孔風險較高。"),
+    TopicSeed("condition", "gallstone-ileus", "Gallstone ileus (膽石性腸阻塞)", ("gallstone ileus", "膽結石腸阻塞", "Rigler"), "膽腸瘻後膽石進入腸道造成機械性阻塞，常見於高齡膽石病人。"),
+    TopicSeed("condition", "biliary-pancreatitis", "Biliary pancreatitis (膽源性胰臟炎)", ("biliary pancreatitis", "膽源性胰臟炎", "gallstone pancreatitis"), "膽石或膽泥阻塞壺腹可誘發急性胰臟炎，需評估 ERCP 與膽囊切除時機。"),
+    TopicSeed("condition", "cholangiocarcinoma", "Cholangiocarcinoma (膽管癌)", ("Cholangiocarcinoma", "CCA", "膽管癌", "Klatskin"), "膽管上皮惡性腫瘤，可依肝內、肝門部與遠端膽管分類，常以阻塞性黃疸表現。"),
+    TopicSeed("condition", "choledochal-cyst", "Choledochal cyst (膽道囊腫)", ("choledochal cyst", "膽道囊腫", "Todani"), "先天或後天膽道囊狀擴張，與膽管炎、胰臟炎、結石與膽道癌風險相關。"),
+    TopicSeed("condition", "gallbladder-cancer", "Gallbladder cancer (膽囊癌)", ("gallbladder cancer", "膽囊癌", "gall bladder cancer"), "膽囊惡性腫瘤常與膽石、慢性發炎或 porcelain gallbladder 相關，早期症狀不明顯。"),
+    TopicSeed("diagnostic", "mrcp", "Magnetic resonance cholangiopancreatography, MRCP (磁振膽胰管攝影)", ("MRCP", "核磁共振膽胰道", "magnetic resonance cholangiopancreatography"), "非侵襲性顯示膽道與胰管結構，用於膽總管結石、膽管癌、胰臟癌或胰膽管異常評估。"),
+    TopicSeed("procedure", "percutaneous-cholecystostomy", "Percutaneous cholecystostomy (經皮膽囊引流)", ("percutaneous cholecystostomy", "經皮膽囊引流", "PTGBD"), "高風險急性膽囊炎病人可用經皮膽囊引流作為橋接或替代治療。"),
+    # Pancreas surgery.
+    TopicSeed("condition", "pancreatic-pseudocyst", "Pancreatic pseudocyst (胰臟假性囊腫)", ("pancreatic pseudocyst", "胰臟假性囊腫", "pseudocyst"), "急性或慢性胰臟炎後的液體囊腫，壁無上皮襯裡，需依症狀、感染、出血或阻塞決定引流。"),
+    TopicSeed("condition", "pancreatic-necrosis", "Pancreatic necrosis (胰臟壞死)", ("pancreatic necrosis", "胰臟壞死", "infected necrosis"), "重症急性胰臟炎可有胰臟或周邊壞死，感染性壞死需抗生素與 step-up drainage/debridement 策略。"),
+    TopicSeed("condition", "periampullary-cancer", "Periampullary cancer (壺腹周圍癌)", ("periampullary cancer", "壺腹周圍癌", "ampulla Vater cancer"), "壺腹周圍腫瘤包含胰頭癌、遠端膽管癌、十二指腸癌與壺腹癌，常以阻塞性黃疸表現。"),
+    TopicSeed("condition", "pancreatic-neuroendocrine-tumor", "Pancreatic neuroendocrine tumor, pNET (胰臟神經內分泌腫瘤)", ("pancreatic neuroendocrine", "pNET", "胰臟神經內分泌腫瘤"), "胰臟 neuroendocrine tumor 可為功能性或非功能性，包含 insulinoma、gastrinoma、VIPoma、glucagonoma 等。"),
+    TopicSeed("condition", "intraductal-papillary-mucinous-neoplasm", "Intraductal papillary mucinous neoplasm, IPMN (胰管內乳突黏液性腫瘤)", ("IPMN", "intraductal papillary mucinous", "胰管內乳突黏液"), "胰管系統黏液性囊腫性腫瘤，可依 main duct 或 branch duct 分型並有癌化風險。"),
+    TopicSeed("condition", "mucinous-cystic-neoplasm-pancreas", "Mucinous cystic neoplasm of pancreas, MCN (胰臟黏液性囊性腫瘤)", ("mucinous cystic neoplasm", "MCN", "胰臟黏液性囊性腫瘤"), "多見於女性胰體尾部的 mucin-producing cystic neoplasm，具 ovarian-type stroma 與惡性潛能。"),
+    TopicSeed("procedure", "pancreaticoduodenectomy", "Pancreaticoduodenectomy / Whipple procedure (胰十二指腸切除術)", ("Whipple procedure", "Whipple operation", "Whipple's resection", "pancreaticoduodenectomy", "胰十二指腸切除", "PPPD"), "胰頭癌、壺腹周圍癌或遠端膽管癌常見根治手術，需重建膽道、胰管與消化道。"),
+    TopicSeed("procedure", "distal-pancreatectomy", "Distal pancreatectomy (遠端胰臟切除術)", ("distal pancreatectomy", "遠端胰臟切除", "胰體尾"), "胰體尾病灶可行遠端胰臟切除，常合併脾臟切除，需注意胰液滲漏與感染風險。"),
+    TopicSeed("condition", "pancreatic-fistula", "Postoperative pancreatic fistula (術後胰瘻)", ("pancreatic fistula", "pancreatic leak", "胰液滲漏", "胰瘻"), "胰臟手術後胰液由引流管或傷口漏出，可造成膿瘍、出血、敗血與延長住院。"),
+    # Breast surgery and pathology.
+    TopicSeed("condition", "fibroadenoma", "Fibroadenoma (纖維腺瘤)", ("fibroadenoma", "纖維腺瘤"), "常見年輕女性良性乳房腫塊，通常界線清楚、可移動，需依影像與變化決定追蹤或切除。"),
+    TopicSeed("condition", "fibrocystic-change", "Fibrocystic change (纖維囊性變化)", ("fibrocystic", "纖維囊性", "breast cyst"), "常見良性乳房變化，可有週期性疼痛、結節或囊腫，需與惡性徵象鑑別。"),
+    TopicSeed("condition", "mastitis", "Mastitis (乳腺炎)", ("mastitis", "乳腺炎", "lactational mastitis"), "乳腺感染或發炎常見於哺乳期，可能進展為 breast abscess。"),
+    TopicSeed("condition", "breast-abscess", "Breast abscess (乳房膿瘍)", ("breast abscess", "乳房膿瘍"), "乳腺感染局部化膿，常需抗生素與超音波導引抽吸或切開引流。"),
+    TopicSeed("condition", "intraductal-papilloma", "Intraductal papilloma (乳管內乳突瘤)", ("intraductal papilloma", "乳管內乳突瘤", "nipple discharge"), "乳管內良性乳突狀病灶，可造成血性乳頭分泌物，需排除 atypia 或 malignancy。"),
+    TopicSeed("condition", "phyllodes-tumor", "Phyllodes tumor (葉狀腫瘤)", ("phyllodes", "葉狀腫瘤", "cystosarcoma phyllodes"), "纖維上皮性乳房腫瘤，可為良性、邊緣性或惡性，治療重點是足夠切緣切除。"),
+    TopicSeed("condition", "ductal-carcinoma-in-situ", "Ductal carcinoma in situ, DCIS (乳管原位癌)", ("DCIS", "ductal carcinoma in situ", "乳管原位癌", "comedo"), "非侵襲性乳管上皮惡性病灶，常以 mammography 微鈣化發現，治療依範圍與風險選擇切除、放療與內分泌治療。"),
+    TopicSeed("condition", "lobular-carcinoma-in-situ", "Lobular carcinoma in situ, LCIS (小葉原位癌)", ("LCIS", "lobular carcinoma in situ", "葉狀原位癌", "E-cadherin"), "小葉上皮非侵襲性病灶，更多是雙側乳癌風險標記，常需風險管理與追蹤。"),
+    TopicSeed("condition", "invasive-ductal-carcinoma", "Invasive ductal carcinoma (浸潤性乳管癌)", ("infiltrating ductal", "invasive ductal", "浸潤性乳腺管癌"), "最常見侵襲性乳癌組織型，治療依分期、ER/PR/HER2 與病人條件規劃。"),
+    TopicSeed("condition", "invasive-lobular-carcinoma", "Invasive lobular carcinoma (浸潤性小葉癌)", ("infiltrating lobular", "invasive lobular", "浸潤性小葉癌"), "常呈瀰漫性生長且可能雙側或多中心，影像與觸診有時低估範圍。"),
+    TopicSeed("condition", "paget-disease-of-breast", "Paget disease of breast (乳房 Paget disease)", ("Paget disease", "乳房 Paget", "eczematous eruption"), "乳頭乳暈濕疹樣病灶，常與 underlying DCIS 或 invasive breast cancer 相關，需切片確認。"),
+    TopicSeed("diagnostic", "breast-ultrasonography", "Breast ultrasonography (乳房超音波)", ("breast ultrasonography", "乳房超音波", "breast ultrasound"), "評估乳房腫塊囊性或實質性，常用於年輕或緻密乳房，也可導引切片。"),
+    TopicSeed("procedure", "core-needle-biopsy-breast", "Core needle biopsy of breast (乳房粗針切片)", ("core needle biopsy", "乳房粗針", "core biopsy"), "取得乳房病灶組織以判斷良惡性、受體狀態與治療方向。"),
+    TopicSeed("procedure", "sentinel-lymph-node-biopsy", "Sentinel lymph node biopsy, SLNB (前哨淋巴結切片)", ("sentinel lymph node biopsy", "SLNB", "前哨淋巴結"), "乳癌腋下分期程序，可降低完整腋下廓清造成的淋巴水腫與神經肩部併發症。"),
+    TopicSeed("procedure", "breast-conserving-surgery", "Breast-conserving surgery / lumpectomy (乳房保留手術)", ("lumpectomy", "breast-conserving", "partial mastectomy", "乳房保留"), "切除乳房腫瘤並保留多數乳房組織，常需搭配放射治療。"),
+    TopicSeed("procedure", "axillary-lymph-node-dissection", "Axillary lymph node dissection, ALND (腋下淋巴結廓清)", ("axillary lymph node dissection", "ALND", "腋下淋巴結廓清"), "乳癌腋下淋巴結治療與分期手術，較 SLNB 有更高淋巴水腫與神經損傷風險。"),
+)
+
+
+ALL_SEEDS: tuple[TopicSeed, ...] = SEEDS + SECOND_BOOK_SEEDS + THIRD_BOOK_SEEDS + FOURTH_BOOK_SEEDS + FIFTH_BOOK_SEEDS + SIXTH_BOOK_SEEDS + SEVENTH_BOOK_SEEDS + EIGHTH_BOOK_SEEDS + NINTH_BOOK_SEEDS + TENTH_BOOK_SEEDS + ELEVENTH_BOOK_SEEDS
 
 
 def slugify(text: str) -> str:
@@ -1288,7 +1352,7 @@ def chapter_sort_key(path: Path) -> tuple[int, int, str]:
         "戌": 21,
         "亥": 22,
     }
-    part_order = {"第一篇": 1, "第二篇": 2, "第三篇": 3, "第四篇": 4}
+    part_order = {"第一篇": 1, "第二篇": 2, "第三篇": 3, "第四篇": 4, "第五篇": 5, "第六篇": 6}
     part = 99
     for label, order in part_order.items():
         if label in path.stem:
@@ -1882,6 +1946,60 @@ def related_links(seed: TopicSeed, available_slugs: set[str]) -> list[str]:
         "breast-augmentation": ["breast-cancer"],
         "anal-canal": ["colon", "hemorrhoids", "anal-fissure", "anorectal-abscess-fistula"],
         "colorectal-physiology": ["colon", "anal-canal", "diarrhea", "constipation"],
+        "gastric-outlet-obstruction": ["peptic-ulcer-disease", "gastric-cancer", "metabolic-alkalosis"],
+        "perforated-peptic-ulcer": ["peptic-ulcer-disease", "pneumoperitoneum", "septic-shock"],
+        "gastrectomy": ["gastric-cancer", "dumping-syndrome", "billroth-reconstruction", "roux-en-y-reconstruction"],
+        "vagotomy": ["peptic-ulcer-disease", "gastrectomy"],
+        "billroth-reconstruction": ["gastrectomy", "afferent-loop-syndrome", "alkaline-reflux-gastritis"],
+        "roux-en-y-reconstruction": ["gastrectomy", "alkaline-reflux-gastritis"],
+        "dumping-syndrome": ["gastrectomy", "hypoglycemia"],
+        "afferent-loop-syndrome": ["billroth-reconstruction", "acute-pancreatitis"],
+        "alkaline-reflux-gastritis": ["gastrectomy", "gastritis"],
+        "small-bowel-obstruction": ["adhesive-small-bowel-obstruction", "strangulated-bowel-obstruction", "intussusception", "gallstone-ileus", "small-intestine"],
+        "adhesive-small-bowel-obstruction": ["small-bowel-obstruction", "postoperative-ileus"],
+        "strangulated-bowel-obstruction": ["small-bowel-obstruction", "septic-shock", "lactic-acidosis"],
+        "small-bowel-tumor": ["small-bowel-adenocarcinoma", "gastrointestinal-carcinoid-tumor", "gastrointestinal-stromal-tumor", "small-intestine"],
+        "small-bowel-adenocarcinoma": ["small-bowel-tumor", "crohn-disease", "familial-adenomatous-polyposis"],
+        "gastrointestinal-carcinoid-tumor": ["carcinoid-syndrome", "small-bowel-tumor", "tumor-markers"],
+        "carcinoid-syndrome": ["gastrointestinal-carcinoid-tumor", "diarrhea", "heart-valves"],
+        "hepatic-hemangioma": ["liver", "liver-function-tests"],
+        "focal-nodular-hyperplasia": ["liver", "hepatic-adenoma"],
+        "hepatic-adenoma": ["liver", "hepatocellular-carcinoma"],
+        "hepatectomy": ["hepatocellular-carcinoma", "hepatic-adenoma", "liver-transplantation"],
+        "radiofrequency-ablation": ["hepatocellular-carcinoma", "hepatectomy"],
+        "acute-acalculous-cholecystitis": ["acute-cholecystitis", "cholecystectomy", "percutaneous-cholecystostomy"],
+        "gallstone-ileus": ["cholelithiasis", "small-bowel-obstruction"],
+        "biliary-pancreatitis": ["acute-pancreatitis", "cholelithiasis", "choledocholithiasis", "ercp"],
+        "cholangiocarcinoma": ["biliary-tract", "choledochal-cyst", "mrcp", "ercp"],
+        "choledochal-cyst": ["cholangiocarcinoma", "acute-cholangitis", "mrcp"],
+        "gallbladder-cancer": ["cholelithiasis", "cholecystectomy", "cholangiocarcinoma"],
+        "mrcp": ["choledocholithiasis", "cholangiocarcinoma", "pancreatic-cancer", "biliary-pancreatitis"],
+        "percutaneous-cholecystostomy": ["acute-cholecystitis", "acute-acalculous-cholecystitis"],
+        "pancreatic-pseudocyst": ["acute-pancreatitis", "chronic-pancreatitis"],
+        "pancreatic-necrosis": ["acute-pancreatitis", "septic-shock"],
+        "periampullary-cancer": ["pancreatic-cancer", "cholangiocarcinoma", "pancreaticoduodenectomy"],
+        "pancreatic-neuroendocrine-tumor": ["insulinoma", "gastrinoma", "vipoma", "glucagonoma", "multiple-endocrine-neoplasia"],
+        "intraductal-papillary-mucinous-neoplasm": ["pancreatic-cancer", "mrcp"],
+        "mucinous-cystic-neoplasm-pancreas": ["pancreatic-cancer", "pancreatic-pseudocyst"],
+        "pancreaticoduodenectomy": ["pancreatic-cancer", "periampullary-cancer", "cholangiocarcinoma", "pancreatic-fistula"],
+        "distal-pancreatectomy": ["pancreatic-cancer", "pancreatic-neuroendocrine-tumor", "pancreatic-fistula"],
+        "pancreatic-fistula": ["pancreaticoduodenectomy", "distal-pancreatectomy", "intra-abdominal-abscess"],
+        "fibroadenoma": ["breast-ultrasonography", "core-needle-biopsy-breast"],
+        "fibrocystic-change": ["breast-ultrasonography", "breast-cancer"],
+        "mastitis": ["breast-abscess", "staphylococcus-aureus-infection"],
+        "breast-abscess": ["mastitis", "breast-ultrasonography"],
+        "intraductal-papilloma": ["breast-cancer", "core-needle-biopsy-breast"],
+        "phyllodes-tumor": ["fibroadenoma", "breast-conserving-surgery"],
+        "ductal-carcinoma-in-situ": ["breast-cancer", "mammography", "breast-conserving-surgery", "mastectomy", "sentinel-lymph-node-biopsy"],
+        "lobular-carcinoma-in-situ": ["breast-cancer", "mammography", "endocrine-therapy-for-breast-cancer"],
+        "invasive-ductal-carcinoma": ["breast-cancer", "sentinel-lymph-node-biopsy", "mastectomy"],
+        "invasive-lobular-carcinoma": ["breast-cancer", "sentinel-lymph-node-biopsy"],
+        "paget-disease-of-breast": ["breast-cancer", "ductal-carcinoma-in-situ", "core-needle-biopsy-breast"],
+        "breast-ultrasonography": ["breast-cancer", "fibroadenoma", "breast-abscess", "core-needle-biopsy-breast"],
+        "core-needle-biopsy-breast": ["breast-ultrasonography", "breast-cancer"],
+        "sentinel-lymph-node-biopsy": ["breast-cancer", "ductal-carcinoma-in-situ", "axillary-lymph-node-dissection"],
+        "breast-conserving-surgery": ["breast-cancer", "ductal-carcinoma-in-situ", "radiation-therapy"],
+        "axillary-lymph-node-dissection": ["breast-cancer", "sentinel-lymph-node-biopsy"],
     }
     slug_to_seed = {item.slug: item for item in ALL_SEEDS}
     rel_slugs = set(groups.get(seed.slug, []))

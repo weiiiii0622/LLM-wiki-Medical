@@ -17,6 +17,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch17]]"
 aliases:
   - 'Pleural effusion (肋膜積液)'
   - 'Pleural effusion'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med5-book2-ch01]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch17]]
 
 ## Key Details From Sources
 
+- (1) 右邊的肺部可能會出現 basilar atelectasis 或 pleural effusion Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- $2 \, \, \mathcal{H}$ : one or more of pleural effusion, ascites, vascular complications, parenchymal complications and or gastrointestinal involvement Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - 1. 胸部 X 光:可觀察主動脈、氣管是否有移位,或是縱隔腔會有 widening 的情形, 也有機會看見 pleural effusion 或 cardiomegaly。但 X 光敏感性和特異性皆不好,並 不能用來作為排除主動脈剝離的診斷,需做 CT 或是 MRI 才能確診。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...nts, | | | | | | | characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - | | Image pattern | Distribution | Pleural effusion | |------------|---------------------------------|----------------------------------------|------------------| | Bacteria | Alveolar | Usually unilateral: lobar or segmental | Maybe | | Virus | Hyperinflation and Inters Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -67,8 +73,6 @@ tags:
 - (D) 1. 關於過敏性支氣管肺麴黴菌病 (allergic bronchopulmonary aspergillosis), 105(ニ)専 下列何種影像學徵象最少見? 醫三-74 - (A) 肺擴張不全 (atelectasis) - (B) 支氣管囊腫 (bronchocele) - (C) 肺實質化 (consolidation) - (D) 明顯的肋膜積液 (pleural effusion) Source: [[sources/med3-book1-ch21|戊、感 染]].
 - ...ecreased | Decreased | Absent | | 肋 | Pneumothorax | Hyperresonant | Decreased | Decreased | Decreased | Absent | | 膜 | Pleural effusion | Dull | Decreaseda | Decreased | Decreaseda | Pleural friction rib | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - b. 鑑別診斷: (口訣:外到內) - (a) 胸壁病灶 (Chest wall lesion)、肋膜積水 (Pleural effusion) - (b) 腫瘤 (Tumor mass)、肺塌陷 (Lung collapse) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- 肋膜積水 (Pleural effusion) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- b. CXR:可見縱膈腔變厚、肋膜積液。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 
 ## Clinical Caveats
 

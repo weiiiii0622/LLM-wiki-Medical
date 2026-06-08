@@ -32,6 +32,7 @@ sources:
   - "[[sources/med5-book1-ch19]]"
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ tags:
 - [[sources/med5-book1-ch19]]
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- b. Reynolds's pentad: Charcot's triad 再加上休克與意識改變,發生比率小於 10%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - 2. 成人: - (1) IICP sign:頭痛、嘔吐、視乳突水腫。 - (2) 意識改變。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 【詳解】(D) 尿失禁、步態不穩和失智症為正常壓力水腦症的症狀,因頭部外傷造成的急性水腦症的症狀以 IICP sign 或意識改變為主。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 1. 腦震盪 (concussion):頭骨和腦沒有受傷,僅有意識改變,例如:意識不清、失去 意識、記憶缺失 (amnesia)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
@@ -98,7 +101,6 @@ tags:
 - ...rocephalus, subdural hematoma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossi Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 4. 抽動並不是因為物質使用(如精神刺激劑)或一般性醫學狀況(如病毒性腦炎)所 造成的。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - ...)。 - (c) 皮疹會連續分批出現,故同一時間可於身上看見各階段的皮疹變化,同時看見 papules、vesicles、pustules 和 crusts。 - (d) 成人症狀比較明顯且嚴重,甚至造成肺部發炎(pneumonitis)或腦炎(encephalitis)等併發症。(\*當肺部發生感染或是受到刺激而導致發炎稱為 Pneumonitis,而當肺部組織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. Fi Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (2) 臨床症狀:潛伏期為 2~10 天,初次感染大多無症狀,典型單純性疱疹會出現一小群水泡,接著破裂形成潰瘍然後結痂,會刺痛及癢感,病程約 20 天,病毒會潛入感覺神經節伺機再發。 - a. HSV-1: 疱疹性齦口炎(herpetic gingivostomatitis)、唇疱疹(Herpes labialis) →顔面部三叉感覺神經節潛伏→復發齦口炎、腦炎。 - b. HSV-2:生殖器疱疹→腰、尾椎感覺神經節潛伏→復發生殖器疱疹。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

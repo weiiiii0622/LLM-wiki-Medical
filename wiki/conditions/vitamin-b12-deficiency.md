@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book3-ch01]]"
 aliases:
   - 'Vitamin B12 deficiency (維生素 B12 缺乏)'
   - 'Vitamin B12 deficiency'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-B12 缺乏造成 megaloblastic anemia，可合併神經病變。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+B12 缺乏造成 megaloblastic anemia，可合併神經病變。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ B12 缺乏造成 megaloblastic anemia，可合併神經病變。 本頁已整合
 - [[sources/med3-book4-ch19]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book3-ch01]]
 
 ## Key Details From Sources
 
+- ...一、二型胃蛋白酶原(pepsinogen I and | $\Pi$ ) | | | | | (C)細胞內粒線體 (mitochondria) 含量最多的細胞是 par | ietal | | | | | cell,負責分泌胃酸、內在因子(intrinsic factor) | | | | | | (D) 內分泌細胞 (endocrine cell),包含負責分泌胃泌素 (gasta | rin) | | | | | 的 G 細胞及分泌 histamine 的 D 細胞 | | | | | | 【詳解】histamine 由 Enterochromaffin-like Cell(ECL cell) | ,並 | | | | | 非 D cell。 | | | | (D) | 7. | . 一位 43 歲 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - III. 大腦代謝疾病 141 - A. 橋腦中央脊髓去髓鞘化 (Central pontine myelinolysis) 141 - B. Vitamin B1 (Thiamine) deficiency 141 - C. Vitamin B12 (Cobalamine) deficiency 142 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ## C. Vitamin B12 (Cobalamine) deficiency: 亞急性合併退化症 (subacute combined generation) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (D) 2.65 歲女性素食者來門診,主訴漸進性步態不穩6個月,血液檢查發現維生素 B12 (Vitamin B12) 偏低,神經學檢查發現膝反射和踝反射增強,陽性巴賓斯基氏徵象(positive Babinski sign),下肢振動覺和位置覺受損,神經傳導檢查出現周圍神經病變,其診斷最可能為何? Source: [[sources/med4-book4-ch06|己、大腦疾病]].

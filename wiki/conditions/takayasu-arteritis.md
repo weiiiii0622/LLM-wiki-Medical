@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book3-ch21]]"
 aliases:
   - 'Takayasu arteritis (高安氏動脈炎)'
   - 'Takayasu arteritis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med5-book1-ch10]]
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch02]]
+- [[sources/med5-book3-ch21]]
 
 ## Key Details From Sources
 
+- 1. 血管:主要的動脈供應為 - (1) 鎖骨下動脈 (subclavian artery): 分 支出內胸動脈與肋間動脈。 - a. 內胸動脈(internal thoracic artery), 分支出 medial mammary branch,供 應內側乳房。 - b. 肋間動脈 (intercostal artery)。 - (2) 腋動脈 (axillary artery): 分支出外胸 動脈與胸肩峰動脈。 - a. 外胸動脈(lateral thoracic artery), 分支出 lateral mammary branch,供 應外側乳房。 Source: [[sources/med5-book3-ch21|甲、解剖構造]].
 - b. Blalock Taussig shunt (B-T shunt): 分流手術。 - (a) 為 palliative surgery, 將 subclavian artery 和 pulmonary artery 接在一起, 引流部分 subclavian artery 血液至肺部增加 pulmonary blood flow,增加回心的含氧血。(下圖 A) - (b) 但接久了 subclavian artery 會變大,使得肺血流太多導致肺高壓。故可改用人工血管(modified B-T shunt),減少肺高壓的情形。(下圖 B) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - d. 常見的成年患者開刀原則是以肺血流量 / 全身血流量(Qp/Qs)的值來決定(正常時:Qp/Qs = 1): - (a) Qp/Qs > 2,表示由 left to right shunt 嚴重,則建議開刀治療。 - (b) Qp/Qs = 1.5~2 之間,則建議藥物治療再加上密切的追蹤。 - (c) Qp/Qs type A(43%) > type C(4%)。 - a. Type A: 斷在左鎖骨下動脈遠端。 - b. Type B: 斷在左總頸動脈與左鎖骨下動脈(left subclavian artery)之間。 - c. Type C:斷在左總頸動脈(left common carotid artery)和主動脈之間。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

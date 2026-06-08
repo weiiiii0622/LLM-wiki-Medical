@@ -13,6 +13,8 @@ sources:
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch15]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch16]]"
 aliases:
   - 'Enteropathic arthritis (腸病性關節炎)'
   - 'Enteropathic arthritis'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-IBD 相關周邊或中軸關節炎。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IBD 相關周邊或中軸關節炎。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ IBD 相關周邊或中軸關節炎。 本頁已整合至 `醫(五)第2冊心外�
 - [[sources/med5-book2-ch11]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch15]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch16]]
 
 ## Key Details From Sources
 
+- (3) 危險因子 - a. 絨毛狀腺瘤 (villous adenoma) - b. 息肉症候群 (polyposis syndromes) - c. Crohn's disease - d. hereditary nonpolyposis colorectal cancer (HNPCC) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 7. 潰瘍性結腸炎 (ulcerative colitis)。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - 發炎性腸炎泛指 Ulcerative Colitis(UC,潰瘍性結腸炎)和 Crohn's Disease(克隆氏症),他們在生理病理學或臨床症狀方面有些許異同之處,但約有 10~15% 的 IBD 病人無法明確定義為 Ulcerative Colitis 或 Crohn's Disease,而稱為 Indeterminate colitis。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 4. 抽菸與 Crohn's disease 正相關,和 UC 負相關。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - #### B. Ulcerative Colitis 和 Crohn's Disease 的比較 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].

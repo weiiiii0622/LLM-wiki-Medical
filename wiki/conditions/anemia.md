@@ -43,6 +43,8 @@ sources:
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -57,7 +59,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +102,14 @@ tags:
 - [[sources/med5-book2-ch11]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 2. 營養不良 (Malnutrition): - (1) 約有30%的病患在術後會有營養不良的情況。 - (2) 會導致鐵、葉酸、Vit. B12、鈣以及 Vit. D 的吸收不良,進而導致貧血、神經病變、 失智症等症狀出現,必須要適時的補充這些營養元素。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (D) 6. 下列何種症 狀或檢查和中腸扭結 (midgut volvulus) 無關? 102(-) 専(A) 血便 - (B) 貧血 - (C) 腹脹 - (D) 腹部 X 光攝影 (plain abdomen) 可用來確定診斷 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 1. 症狀:(依腫瘤位置而有不同症狀) - (1) 右結腸:血便,但多以潛血反應呈現,所以病人常有貧血和疲弱。右結腸由於 直徑較大,且該處的糞便較軟,所以比位於左結腸的腫瘤較少腸阻塞。 - (2) 左結腸:左結腸的腸內壓高、糞便較硬,因此常見腸阻塞(大便習慣改變)、 腹痛。 - (3) 直腸:血便最常見、裡急後重。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的術前放射線治療之敘述,何者錯誤? | 100(二)專 | | (A) 可以增加 Resectability rate | 醫五-16 | | (B) 可以減少術中之 Tumor seeding | | | (C) 可增加保留肛門的機會 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 【詳解】(C)從圖可懷疑是右結腸癌,常見症狀為貧血(頭暈)疲勞,右腹部不適。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
@@ -118,9 +125,6 @@ tags:
 - ...-----| | (A) 過度肥胖併月經不規則 | 醫四 -50 | | (B) 大腦側靜脈竇阻塞 (lateral venous sinus thrombosis ) | B4 | | (C) 服用大量維生素 A | | | (D) 惡性貧血 | | | 【詳解】第50題一律給分。大腦假性腫瘤的發生原因至今不明, | | | 一般相信因為腦膜吸收腦脊髓液能力下降,導致腦壓逐漸增高。 | | | 可能與過度服用維生素 A、四環黴素、荷爾蒙類避孕藥等有關。 | | | 偽性大腦腫瘤症為 Idiopathic,與 (ACD)可能都相關,但 (B)為 | | | 已知病因造成腦壓上升,不屬於偽性大腦腫瘤症範疇。 | | | (C) 25. 下列有關頭痛的現象之中,何者最需要讓病人接 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...l THF → THF +甲基 (Cobalamine +甲基→ Methylcobalamin)此甲基若能被 Vit B 12 順利接收,則 Uridine 可藉由 THF 的幫忙,合成 Thymidine | Megaloblasticanemia | | 給 | Homocysteine + 甲基→ Methionine (Methylcobalamin → Cobalamine + 甲基) | Peripheral | | 甲基 | 若 Vit B 12 能順利提供甲基,則 Methionine 可幫助髓鞘(myelin)合成 | neuropathy | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (3) 由此總結, $B_{12}$ 缺乏會導致 megaloblastic anemia、peripheral neuropathy;而 folate 缺乏僅會導致 megaloblastic anemia。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- ...| | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypo Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- 3. 生產因子:生產時的後遺症可能和自閉症的引起有關,如:Maternal bleeding、respiratory distress syndrome 與 neonatal anemia。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 
 ## Clinical Caveats
 

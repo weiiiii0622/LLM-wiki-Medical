@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book1-ch15]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Coma (昏迷)'
   - 'Coma'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med5-book1-ch15]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- (A) 早期的 Dumping 症候群之症狀與低血糖的症狀完全相符,例如出冷汗、心跳加快、飢餓性震顫、全身軟弱無力及昏迷等 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (D) 16. 有關體外循環維生系統(extracorporeal life support,又簡稱 ECMO) 之敘述,下列何者正確?①對危急病人可提供長期(數月至數年 之久)之心肺支持 ②使用於胎便吸入症候群新生兒之存活率低 於 50% ③應使用於深度昏迷之危急病人 ④出血為常見併發症 (A) ①②③ (B) ①③ (C) ②④ (D) ④ Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (D) 情侶分手,女方極度沮喪而燒炭自殺。女方昏迷後被發現, 送醫成功挽回生命。但患者在燒炭昏迷的過程中,右腳太靠 近炭火,連肌肉都被烤焦了。這是四度燒燙傷 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - A. Glasgow Coma Score 120 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].

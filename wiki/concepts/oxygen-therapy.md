@@ -44,6 +44,7 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch09]]"
+  - "[[sources/med5-book3-ch08]]"
 aliases:
   - 'Oxygen therapy (氧氣治療)'
   - 'Oxygen therapy'
@@ -58,7 +59,7 @@ tags:
 
 ## Summary
 
-低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +103,11 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch09]]
+- [[sources/med5-book3-ch08]]
 
 ## Key Details From Sources
 
+- 3. 肝臟有兩套系統提供血流,一套為門靜脈 (portal vein),另外一套為肝臟動脈 (hepatic artery)。 - (1) 門靜脈提供 75% 的血液供應,但只提供 50% 的氧氣。 - (2) 肝臟動脈提供 25% 的血液供應,卻也可提供 50% 的氧氣。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - 2. 當構造異常,心臟有由右心至左心的分流,使得缺氧血直接參雜進含氧血內,降低氧氣濃度,則為發紺型先天性心臟病,會有嘴唇發紫、clubbing finger 的情形。(心臟瓣膜疾病也會有發紺的情形,統一於下一章節「心臟瓣膜疾病」介紹) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - a. 緊急處置可給予 PGE1 維持動脈導管的通暢,或經由心導管進行氣球心房中膈造口術(balloon atrial septostomy),使左右心房的血液混合改善血中氧氣濃度。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (2) 須靠藥物(PGE1)維持動脈導管的開放,血液才能去肺部交換氧氣。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
@@ -122,7 +125,6 @@ tags:
 - ...被光線刺激,晚上休息改善 | 一天數次,好發夜晚入睡後 | | | 30 分鐘至 7 日 | 持續4到72小時 | 15 到 180 分鐘 | | 急性 | 改變生活方式; | Sumatriptan, Ergotamine | 100% 氧氣 | | 治療 | Antidepressant | Novamin | Sumatriptan, Ergotamine | | 慢性 | β blocker \ | $\underline{\mathbf{A}}$ nticonvulsant, $\underline{\mathbf{\beta}}$ blocker, | CCB | | 預防 | 肌肉鬆弛劑 | CCB, Antidepressant | 鋰鹽 (Lithium) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (1) 急性發作: - a. 100% 氧氣可使大部分病人緩解。 - b. Sumatriptan (selective 5HT1 agonist) 或 ergotamine (5HT agonist) 也對急性發作有效。 - c. 較難治療的可給予類固醇。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (C) 15. 承上題, 關於該病患的治療之敘述,下列何者錯誤? 106(一)專 (A) 急性發作時可以呼吸 100% 氧氣 15 分鐘 醫四 -60 (B) 使用 10~14 天的類固醇治療 (C) 使用 1 個月的 ergotamine 來預防發作 (D) 急性發作時使用 sumatriptan 來止痛 【詳解】一般只在急性期緩解症狀用。 (C) 16. 關於皮質傳播性抑制(cortical spreading depression)的敘述,下 105(二)專 列何者正確? 醫四-49 (A) 由腦部額葉向枕葉方向傳遞 (B) 傳導速度是每分鐘 2~3 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (A) 41. 一位 10 歲女童,因全身抽搐(Seizure)至急診,體溫 38.5℃, 100(こ)專 已停止抽搐,意識清楚,過去並無抽搐病史,下列處置何者最不 醫四-77 適當? - (A) 馬上給予 Phenytoin - (B) 建立靜脈注射輸液路徑 - (C) 若懷疑是腦膜炎 (meningitis),應安排做脊髓穿刺 (lumbar puncture) - (D) 保持呼吸道通暢,給予氧氣 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 

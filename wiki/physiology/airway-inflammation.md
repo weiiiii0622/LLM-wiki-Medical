@@ -49,6 +49,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Airway inflammation (氣道發炎)'
   - 'Airway inflammation'
@@ -63,7 +64,7 @@ tags:
 
 ## Summary
 
-氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +113,11 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- | Tis | Carcinoma in situ | |-----|--------------------------------------------| | T1a | 腫瘤侷限在胰臟內,最大徑≦ 0.5 cm | | T1b | 腫瘤侷限在胰臟內,0.5 cm 110 mg/dL),及膽固醇(cholesterol)低⑤淋巴球(lymphocyte)比率高,及中性白血球(neutrophil)比率低 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - Inflammation phase (發炎期):一受傷即同時開始發炎期,微血管通透性增加,白血球被 complement、TGF-β、IL-1、IgG、PDGF等吸引過來(趨化 chemotaxis)進行吞噬作用 (phagocytosis)。先以 neutrophil 為主,接著以 monocytes (受傷後第24至第48小時)和 macrophage (第48至第72小時)主導,lymphocyte 較晚點(第72小時以後)參與作用,此時期以 neutrophil、monocyte和 macrophage 為主要細胞。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (D) 巨噬細胞(macrophages)和嗜中性粒細胞(neutrophils)是 傷口癒合炎症期的主要細胞 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (D) macrophages 和 neutrophils 在 inflammatory phase 扮演極重要的角色 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
@@ -132,7 +135,6 @@ tags:
 - 下列何項檢查最有助於診斷 Wegener's granulomatosis ? 醫四 -42 - (A) anti-histone antibodies - (B) antiproteinase-3 antineutrophil cytoplasmic antibodies ( PR3-ANCA ) - (C) anticardiolipin antibodies - (D) antinuclear antibodies (ANA) Source: [[sources/med4-book2-ch11|子、其 他]].
 - (C) 病灶的病理組織檢查常見嗜伊紅球(eosinophil)浸潤 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - 1. T細胞:當接觸到過敏原時,非過敏體質的人主要引起第一型 T 輔助細胞(Th1 cell)增生,產生 Interferon g 等 cytokine,誘發產生對抗原專一的 IgG。而過敏體質的人則主要產生第二型 T 輔助細胞(Th2 cell)增生,分泌 IL-4, IL-5, IL-9, IL-13 等 cytokine,會促進 IgE 產生及嗜伊紅性白血球發育,引起過敏反應。故過敏疾病的發生與第二型 T 輔助細胞活性有著密切的關係。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 2. 抗原呈現細胞:包括樹突細胞(dendritic cell),單核球(monocyte),巨噬細胞(macrophage),及蘭格罕氏細胞(Langerhans cells)。會將抗原呈現給 T 細胞。樹突細胞依據其傾向造成 Th1 或 Th2 細胞分化分為兩型,第一型樹突細胞(DC1)分泌 IL-12,造成 T 細胞分化為 Th1 細胞,而第二型樹突細胞(DC2)不分泌 IL-12,故 T 細胞分化為 Th2 細胞。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

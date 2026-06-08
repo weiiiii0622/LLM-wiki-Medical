@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book2-ch26]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Epidermis (表皮)'
   - 'Epidermis'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book2-ch26]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...---------|----------------------------------------------------------|----------------------------------------| | 一度燒傷 | 表皮層 | 皮膚發紅、腫脹、有明顯觸痛感 | 約 3~5 天即可癒合,僅破壞表皮層,故癒合後不會有疤痕 | | 淺二度燒傷 | 表皮層、真皮乳突層(約三分之一以上) | 皮膚紅腫、起水泡,有劇烈疼痛及灼熱感、Blanches withpressure (壓迫後變色) | 約 14 天内即可癒合,通常無疤痕或輕微疤痕 | | 深二度燒傷 | 表皮層、真皮深層 | 皮膚呈白、黃色、起白色大水泡,較不感覺疼痛(受刺激依舊會痛)、Less blan Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (A) 6. 病人都希望表皮腫瘤切除時留下的疤痕不明顯,下列的切痕設計 那一個較不能達到良好的結果? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (2) 皮膚薄、微血管脆弱易表皮瘀血、傷口癒合差。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -80,7 +83,6 @@ tags:
 - 4. 光化性角化症可分為數種亞型(委縮型、增厚型、色素擴散型、增生型、苔癬型及類波文氏型),其病理特徵為局部角質化不全(parakeratosis)或角質化不良(dyskeratosis),併有顆粒層喪失、非典型角質細胞(atypical keratinocytes)增生,但不像 Bowen's disease 是整層 epidermis 都有 atypia 的情形。Atypical 的情形是指細胞大小形狀不一(pleomorphism),nuclear hyperchromatism,increased mitosis。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (3) 局部塗抹藥劑: - a. 5-FU (fluorouracil):抑制 DNA 合成和複製,導致分生不良細胞死亡。但較 具刺激性,可能會有灼熱刺痛感及造成皮膚潰瘍。 - b. Imiquimod:屬於一種免疫調節劑,可刺激皮膚的免疫反應,由自身的免疫系統來攻擊不正常增生的表皮細胞。 - c. 三氯醋酸 (Trichloroacetic acid, TCA): 很強的蛋白質變性劑,用於化學換膚,使病灶被破壞脫落,幾週後長出新皮膚,穿透性良好適合移除較深層的病灶,皮膚刺激感也較強烈。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 【詳解】此題於 101 年也考過,從左圖外觀來判斷,脂漏性角化症病灶像黑色蠟塊,盤狀紅斑性狼瘡為邊界明顯的紅色斑塊伴有厚屑,剩日光性角化症和基底細胞癌為可能診斷。右圖可見 atypical keratinocytes,局限於表皮層下 1/3,非全層 atypia(如 Bowen's disease),故推判為 (A) 光化性角化病(actinic keratosis)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 1. 葡萄球菌性燙傷樣皮膚綜合症(Staphylococcal scalded skin syndrome, SSSS) - (1) 致病因子:眼耳口鼻感染 S. aureus,其分泌的外毒素 Exfoliatin A 和 B,是一種 蛋白酶(protease),會去攻擊負責連結表皮顆粒層和棘狀層之間的 desmoglein 1,導致表皮裂解。顯微鏡下可見表皮裂解於顆粒層中或是與棘狀層之間。 - (2) 最好發於新生兒前三個月大,以及五歲前孩童。Immunocompromised 的成人也 會,但罕見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book3-ch06]]"
 aliases:
   - 'Diverticular disease (大腸憩室疾病)'
   - 'Diverticular disease'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-大腸憩室可無症狀，也可造成 diverticulitis、出血、膿瘍、穿孔或狹窄。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸憩室可無症狀，也可造成 diverticulitis、出血、膿瘍、穿孔或狹窄。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch18]]
+- [[sources/med5-book3-ch06]]
 
 ## Key Details From Sources
 
+- (D) 2. 有關小腸的憩室疾病(diverticular disease)之敘述,下列何者錯誤? Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
+- (A) 關於腸道 diverticular disease 的好發位置,小腸是僅次於大腸 排名第二的 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
+- (C) 診斷有腸道 diverticular disease 的患者,病患年紀很少小於 40 歳 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - #### 丙、大腸憩室疾病 (Colonic Diverticular Disease) Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - 1. 大腸憩室為穿透大腸壁的囊狀突起物,一般真憩室(true diverticulum)是整層的腸壁向外突出,但大腸憩室為大腸黏膜層穿透過肌肉層向外膨出,肌肉層並沒有一起膨出,所以叫作偽憩室(false diverticulum)。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - 2. 大部分大腸憩室的膨出點是在腸壁較為脆弱之處,通常是血管穿透肌肉層的地方, 也就是 lateral mesenteric (antimesenteric) taeniae 的 mesenteric side 靠近 mesenteric taenia 處,不會發生在 lateral mesenteric taeniae 的 antimesenteric side。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].

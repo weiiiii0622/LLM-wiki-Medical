@@ -11,6 +11,8 @@ sources:
   - "[[sources/med5-book1-ch12]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Lethal triad of trauma (創傷致命三角)'
   - 'Lethal triad of trauma'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med5-book1-ch12]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (D) PT 異常,必須先矯正 coagulopathy Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】機械型瓣膜病人須終身服用抗凝血劑,出血風 險相對組織型來得高,故不適合計劃生育之女性(Post partum hemorrhage),也不適合老年人(ICH)與血友病患者 (Coagulopathy),另有研究顯示裝有組織型瓣膜的洗腎患者較 不易流血且洗腎通路較不易阻塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (1) 血液中 Ca ↑、PTH ↑、ALP ↑、P ↓、Cl ↑ (PTH 促 HCO₃ 排出導致 hyperchloremic metabolic acidosis)、Cl: P > 33:1。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ## B. 創傷致命三角 (Lethal triad) Source: [[sources/med5-book1-ch07|庚、急救外傷]].

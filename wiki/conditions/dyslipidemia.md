@@ -37,6 +37,7 @@ sources:
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -51,7 +52,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +89,11 @@ tags:
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- ...| 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (4) 另外年紀大、男性、高血壓、抽菸、高血脂、genetic (Marfan syndrome) 皆為 危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (#) 1. 動脈瘤形成的危險因素不包括下列何者? 108( ) 專 (A) 高年齡 (B) 男性 (C) 高血脂 (D) 糖尿病 醫五 -22 【詳解】皆是危險因子,故送分。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
@@ -108,7 +111,6 @@ tags:
 - (D) 三酸苷油酯(triglyceride)過高 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) Hypertriglyceridemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】家族型高膽固醇血症(familial hypercholesterolemia) 其嚴重度是根據基因上的變異數量決定,即有加成效應(gene dosing effect)。故同型合子會比異型合子的表現來的嚴重。同 合子患者其低密度脂蛋白(low density lipoprotein, LDL)膽固醇 數值是正常人的 4~6 倍,通常 LDL-C 為 500~1200 mg/dL。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (c) Cyclosporine 最常見的副作用包括減低腎臟功能、血壓升高、升高血脂肪濃 度、毛髮過度生長、上臂及腳部刺痛及灼熱感、牙齦增生等。Tacrolimus 常 見的副作用包括腎毒性、腹瀉、誘發糖尿病等。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 
 ## Clinical Caveats
 

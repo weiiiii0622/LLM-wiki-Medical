@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Omphalocele (臍膨出)'
   - 'Omphalocele'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-腹壁缺損且腸管由膜囊包覆，常合併染色體或其他先天異常。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹壁缺損且腸管由膜囊包覆，常合併染色體或其他先天異常。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- 10. 胃癌伴隨轉移會出現的症狀: - (1) 鎖骨上淋巴結腫大(Virchow's node)。 - (2) 臍膨出(Sister Mary Joseph's node)。 - (3) 直肛檢驗可摸到腫塊,表胃癌轉移至 Douglas puch (Blumer's shelf)。 - (4) 女性骨盆腔檢查可摸到腫大的卵巢(Krukenberg's tumor)。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - VII. 腹壁缺損 (Abdominal Wall Defect) 88 - A. 臍膨出 88 - B. 腹裂畸形 88 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - # A. 臍膨出 (Omphalocele) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) 一開始可以用溫暖、無菌的生理食鹽水濕紗來包住。臍膨出囊膜如果乾燥,則 會增加腹膜炎和破裂的危險。 Source: [[sources/med4-book1-ch02|乙、消化系統]].

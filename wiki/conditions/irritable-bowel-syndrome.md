@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Irritable bowel syndrome, IBS (腸躁症)'
   - 'Irritable bowel syndrome, IBS'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-功能性腸道症候群，以腹痛與排便習慣改變為核心。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+功能性腸道症候群，以腹痛與排便習慣改變為核心。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- (C) 3. 病房有一因胃癌接受次全胃切除及 Billroth-II reconstruction 的病 109( ) 專人,開始進食後,抱怨進食 20~30 分鐘後會有噁心 (nausea)、 醫五-24 心悸 (palpitation)、冒汗及腹瀉等症狀,檢查生命跡象後發覺 有心搏過速 (tachycardia) 的情形,最有可能的診斷為何? - (A) 輸入環症候群 (afferent loop syndrome) - (B) 輸出環症候群 (efferent loop syndrome) - (C) 傾倒症候群 (dumping syndrome) - (D) 急躁性腸道症候群 (irritable bowel syndrome) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (A) 三環類抗鬱劑(tricyclic antidepressants)可以減緩這些患者 之腸躁症狀 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (C) 腸躁症 (Irritable bowel syndrome) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 4. 一位 56 歲女性病人有隱隱的腹部不適,間歇性拉肚子,和潮熱(flush) 104(一)專 約5年,被診斷為腸躁症 (irritable bowel syndrome) 和停經過渡期 症候群 (perimenopausal syndrome),她的症狀逐漸變嚴重,水瀉一 天有三次,腹部電腦斷層發現多處肝轉移及腸繫膜 (mesenteric) 淋巴結腫大,和一個 3 cm 的腫瘤在迴盲腸 (ileocecal region),血 清 CEA 正常,24 小時尿的 5-hydroindoleacetic acid (5-HIAA)增加。 下列何種治療可 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].

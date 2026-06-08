@@ -39,6 +39,9 @@ sources:
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch09]]"
 aliases:
   - 'Bone marrow examination (骨髓檢查)'
   - 'Bone marrow examination'
@@ -53,7 +56,7 @@ tags:
 
 ## Summary
 
-骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +95,17 @@ tags:
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch23]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch09]]
 
 ## Key Details From Sources
 
+- 1. 細針抽吸 (fine needle aspiration cytology, FNAC): - (1) 最常用以鑑別水囊狀腫塊與實質腫塊。 - (2) 為細胞學檢查(cytology),不可作為病理診斷。但 cytology的結果若為 adenocarcinoma,有大於 90%的機會最後可確診為惡性腫瘤。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- (A) 7. 下列有關乳房腫瘤細針穿刺 (fine needle aspiration) 檢查之敘述, 106(一)專 何者錯誤? 醫五-47 - (A) 用 16 或 18 號針頭(16 or 18 gauge needle) - (B) 不需局部麻醉 - (C) 可區分實質腫瘤或囊腫(solid tumor or cyst) - (D) 若發現有癌細胞(carcinoma cell) 仍需作切片檢查(tumor biopsy) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- 【詳解】可用 22 號針頭執行 fine needle aspiration。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- (4) Bone marrow biopsy • Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- ...能形成肝膿瘍。 - (2) 肝門靜脈: 肝門靜脈收集來自腸胃道的血液後, 匯集於肝臟, 因此與腸胃道感染相關的病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成肝膿瘍。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - (A) 糖尿病足併骨髓炎的 X-ray 特徵, 會比臨床症狀晚 1 週出現 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (B) 核磁共振檢查(magnetic resonance imaging, MRI)可以早期 診斷骨髓炎 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (C) 骨骼掃描(bone scan) 對於骨髓炎的診斷有幫忙 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
@@ -108,11 +119,6 @@ tags:
 - Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 【詳解】(A)Prednisolone 會造成高血糖 (B)Azathioprine 副作用應為骨髓抑制造成的白血球低下(leukopenia)。(C)MMF 是 inosine monophosphate dehydrogenase inhibitor,非 calcineurin inhibitor。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - .... 下列何種情況對於受腎者而言是腎臟移植手術的禁忌? | 99(二)專 | | | (A) 糖尿病 | 醫五-2 | | | (B) 受腎者年齡大於 50 歲 | | | | (C) 10 年前曾接受肺癌手術 | | | | (D) 慢性骨髓炎 | | | | 【詳解】慢性骨髓炎歸類為無法控制的感染,故為禁忌症。 | | | (B) 19 | . 下列有關主要組織相容性複合體(major histocompatibility)之敘 | 99(二)專 | | | 述,何者錯誤? | 醫五-3 | | | (A) CD4+T細胞可辨認結合第二類 MHC 分子的胜肽 | | | | (B) CD8+T細胞為第二類 MHC 限制性 | | | | (C) MHC 分子的生理功能是將 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- ...。 - d. 治療: - (a) 先把骨囊腫的主要供血管用藥物栓塞,減少手術當中的出血。 - (b) 將骨囊腫分離完整切除,如果不完整切除會有 20~50% 的復發率。 - (c) 約70~90% 可獲控制,需合併放射線治療。 - (3) 骨髓瘤 (myeloma)。 - (4) 神經纖維瘤 (neurofibroma)。 - (5) 淋巴瘤(lymphoma)。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- (D) 29. 下圖為一位 41 歲女性腰椎之磁振造影矢狀面 T1 及 T2 影像。第 103 四及第五腰椎體內中央部分有橫向之高訊號變化。請問此高訊號 8 的骨髓變化為何? Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...在整個療程中,飲食可以不必忌諱高含銅食物 | | | (C) 所有的病人都會在開始治療後惡化 | | | (D) 若因 D-penicillamine 副作用而無法服用的患者可改用 trientine | | | 【詳解】(A) 副作用為 bone marrow suppression,還有要注意肝 | | | 毒性。 | | | | | | (D) 18. 一位 18 歲男性,近年來漸次出現肢體顫抖,步態不穩,構音障 | 103(二)專 | | 礙,在學成績退步,情緒不穩定。身體檢查發現眼角膜有棕綠色 | 醫四 -60 | | 的沉澱,上肢有翼跳動震顫(wing beating tremor)合併有肌張力 | | | 異常的姿勢(dystonic posture)。下列何者是最可能的診斷? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- 3. 羅倫佐的油 Lorenzo's Oil 是目前最普遍被採用的治療方式;羅倫佐的油 Lorenzo's Oil 的處方為:患者嚴格控制脂肪攝取,每公斤體重給予 1.7 公克 glycerol trioleate oil 和 0.3 公克 glycerol trierucate oil。然而羅倫佐的油 Lorenzo's Oil 並不能治療已經產生的神經病變,對成年病患也不具療效;骨髓移植仍然是大腦白質硬化症目前較佳的治療方式。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...身性紅斑狼瘡(systemic | 102(一)專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Dysphagia (吞嚥困難)'
   - 'Dysphagia'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book2-ch02]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- 7. 吞嚥困難(dysphagia)與近端胃癌有關。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 3. 因壓迫鄰近器官而有的臨床表現:congestive heart failure (aortic root aneurysm with dilatation 造成 aortic regurgitation)、Hoarseness (aortic arch aneurysm 壓到 left recurrent laryngeal or vagus nerves)、呼吸困難、pulmonary compression、吞嚥困難、易飽足感(壓迫到胃)、嘔吐。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (D) 16. 一位 65 歲男性,因吞嚥困難及體重減輕住院檢查,病患體重 40 公斤,血清蛋白(serum albumin)值為 2.5 g/dL,內視鏡檢查發現食道下段有腫瘤造成阻塞,切片病理報告為食道之鱗狀上皮細胞癌,胸部電腦斷層檢查結果並無明顯之縱膈腔或肝臟轉移,骨頭掃描結果並無明顯遠處轉移。胸腔外科醫師評估可以手術切除,你認為以下那種處置比較適當? - (A) 馬上安排手術切除食道並重建以免癌症擴散 - (B) 一般葡萄糖輸液補充 7 天後手術 - (C) 全靜脈營養 (total parenteral nutrition) 補充 1 天,立即手術 - (D) 全靜脈營養補充 7 天後手術 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - 【詳解】Arnold-Chiari malformation,又稱小腦扁條體下疝,指的是小腦扁桃體疝氣,通過枕骨大孔下疝到椎管內,使得腦幹、脊髓受到壓迫,甚至影響腦脊液的流通。第一型較輕微,無其他神經系統畸形,多在學齡、或成人時才會出現一些神經學症狀(頭痛、頭暈、噁心、肌肉無力、協調障礙)。第二型合併出現脊柱裂(脊膨出 myelomeningocele),容易有呼吸、吞嚥困難,四肢無力的情形。第三型則是小腦下半部或是腦幹下疝到椎管內。第二和第三型通常在產前超音波檢查即可發現。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
@@ -86,7 +89,6 @@ tags:
 - (1) 多發性肌炎(28%): - a. 主要表現是急性或慢性兩側對稱性近端肌肉無力及疼痛,尤其是上臂、肩胛 肌或大腿肌肉無力。病人常出現上、下樓梯困難、無法舉起手臂梳頭、更衣 困難、無法從座椅上站立起來等症狀;假使侵犯到口咽部或食道的肌肉則會 吞嚥困難,有的則合併有明顯體重減輕之現象。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (5) 食道及腸道的纖維化會造成吞嚥困難及吸收不良。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 現指節腫大,吞嚥困難,以及續發性雷諾氏症候群 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 2. Fever (sudden onset 且 24 小時內> 39°C )、喉嚨痛、吞嚥困難、流口水、頸部疼痛、頸部淋巴結腫大、吸氣時喘鳴 (stridor)、呼吸窘迫。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

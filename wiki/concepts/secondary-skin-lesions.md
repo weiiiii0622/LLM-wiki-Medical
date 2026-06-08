@@ -28,6 +28,15 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book2-ch26]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch10]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Secondary skin lesions (次發性皮膚病灶)'
   - 'Secondary skin lesions'
@@ -42,7 +51,7 @@ tags:
 
 ## Summary
 
-膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +79,28 @@ tags:
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book2-ch26]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch10]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch16]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- I. 潰瘍穿孔(Perforated peptic ulcer disease, PPU) 15 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- #### 乙、消化性潰瘍 (Peptic ulcer disease) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- • Type I (60%): Only gastric ulcer (almost lesser curvature) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (C) 手術後產生吻合口潰瘍(stomal ulcer),通常是在手術後 3~5 天內產生 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 【 詳解】(A) 若噁心嘔吐為陽阻塞造成,通常與 internal herniation 相關,此時嘔吐物是含有膽汁的,因為阻塞的位置通常較下段的小腸。(B) Stomal ulcer 為 late complication,通常在一個月之後才發生。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- a. Arterial phase 中可見 lesion 呈現 hyperdense,同時中央可見 hypodense 的 central scar。此 central scar 長的像向心狀的輪狀輻射,稱為 **spoke-wheel sign**。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
+- b. Venous phase 較為 isodense,但中央仍可見 hypodense 的 central scar。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
+- 6. 消化道出血 (Peptic ulcer)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- (c) 除了標準的 Whipple procedure 之外,很多醫師也會採用幽門保留術 (Pylorus-preserving pancreaticoduodenectomy, PPPD)。據臨床研究, 與 Whipple procedure 相比,進行 PPPD 對於病人預後並無明顯提升,但 會縮短手術時間,術後較不會出現 Dumping syndrome,營養狀況也較好。但胃排空時遲緩 (delayed gastric emptying) 與邊緣性潰瘍 (marginal ulcer) 出現的機會較大。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 4. 補充:這邊不得不提到一顆好藥:**Proton pump inhibitor**。由圖片可知 Parietal cell 可受到**神經細胞**與**腸道賀爾蒙(histamine、Gastrin**)這三個 pathway 來控制胃酸的分泌。傳統的 H2 blocker 只能 block histamine 的 pathway,並不能有效控制胃酸的分泌,但 PPI 卻能有效直接抑制幫浦,直接 block 住三線 pathway,抑制胃酸的分泌,也大大減低近年來因 peptic ulcer 所帶來的 complication 如出血或穿孔。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - (A) 9. 有關 solitary rectal ulcer syndrome 之敘述,下列何者錯誤? Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - (A) 一定要有肛門口近端 4 到 12 公分處的 anterior rectal wall ulcer 才算 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 【詳解】Solitary rectal ulcer syndrome(SRUS)常發生於長期便秘之年輕女性,位置主要在 anterior 和 anterolateral wall,但也有部分在 lateral wall(17%)或 posterior wall(15%)。常見症狀有 rectal bleeding、rectal pain、黏液分泌或便秘。診斷需依賴排便攝影檢查(defecography),會有 full-thickness rectal prolapse、internal prolapse、paradoxical puborectalis syndrome(恥骨直腸肌在排便時無法放鬆或是有不正常收縮,使得肛門直腸角無法變大,造成排便障礙)及 thickened rectal folds。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
@@ -81,16 +109,6 @@ tags:
 - ...情況下局部皮瓣 | (local flaps)可能受傷,不一定可能 | 靠 | | (D) 老人的 | 内局部皮瓣(local fla | ps)與年輕病患的局部皮瓣一樣可認 | 靠 | | (D) 13. 當褥瘡( | pressure ulcer)侵蝕 | 到肌肉及骨頭的時候屬於: | 105(一)專 | | (A) Stage | I | (B) Stage II | 醫五-18 | | (C) Stage | III | (D) Stage IV | | | 【詳解】 | Pressure sore 分期: | | | | stage I - r | on-blanchable erythe | ma of intact skin | | | stage II - | pa Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - stage II partial-thickness loss of dermis, appearing as open ulcer with red-pink wound bed without slough or bruising Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - 6. 動脈瘤有 erosion 時有機會和鄰近的呼吸道、腸胃道形成 fistula,造成 hemoptysis、GI bleeding。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- ...ear that is frequently associated with anterior infarcts and that occurs early ( within 24 h) $\circ$ - b. Type II : an erosion of infarcted myocardium at the border between the infarcted and viable myocardium $\circ$ - c. Type III: an early aneurysm formation correlated with older and severely expanded infarcts • Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- Symptomatic hyperparathyroidism - Fatigue - Pruritis - Bone pain or pathologic bone fracture - · Peptic ulcer disease - · Mental status changes - History of renal calculi Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (C) 2. 25 歲男性因頭部外傷送至急診,檢查時瞳孔對光反應遲鈍,給予 疼痛刺激時會張開眼睛,發出他人無法了解的聲音,右手臂變形 對疼痛刺激無反應,左手對疼痛刺激會用手撥開,則此病人的 格拉斯哥昏迷指數(Glasgow Coma Scale)分數為何? Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
-- (B) 4. 一位路倒病人被救護車送到急診室時發現眼睛僅對痛有反應,會 108(二)專 發出嗯嗯啊啊的呻吟,四肢呈現不正常的彎曲(abnormal flexion), 醫五-47 病人的昏迷指數(Glasgow coma scale)是幾分? Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
-- ...6. | 外傷病人的眼睛受痛刺激時會睜開,對刺激無言語反應(no | 106(二)專 | | | | response),對痛的刺激只有退縮反應(withdrawal)。昏迷指數 | 醫五 -2 | | | | (Glasgow coma scale, GCS) 為何? | | | | | (A) 8 | | | | | (B) 9 | | | | | (C) 10 | | | | | (D) 7 | | | | | 【詳解】 $E_1V_1M_5$ | | | (C) | 7. | 一位頭部外傷病人之理學檢查如下:受疼痛刺激,眼睛會睜開。 | 104(一)專 | | | | 病人不會言語和出聲。受疼痛刺激,左上肢不會動,右上肢則會 | 醫五-5 | | | | 不正常伸張 (ab Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
-- (A) 5. 一位 28 歲男性,從四樓陽台掉落,到急診室時 Glasgow coma scale (GCS) 是 8 分。心跳 110 次 / 分鐘、血壓 150/90 mmHg (平均動脈壓 110 mmHg) 和呼吸 18 次 / 分鐘。血中酒精濃度 是 150 mg/dL。假設顱內壓為 25 mmHg,則腦灌注壓 (cerebral perfusion pressure) 為多少 mmHg ? Source: [[sources/med5-book1-ch12|丙、顱內壓]].
-- 8. H2 blocker 或是 PPI 去減輕 stress ulcer。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- (C) 35. 依照 British Medical Research Council 的 muscle-grading scale, 正常的肌力是: Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...床表現的神經退化疾病(Parkinson-plus syndrome): 非典型巴金森氏症,特色是兩側同時出現症狀且進展快速,早期即出現平衡感差、頻繁跌倒、認知功能下降,且對藥物的反應效果不佳。 - (1) Multiple System Atrophy (MSA): - a. 病因:這類疾病的共通是有 $\alpha$ -synuclein-positive inclusions 沉積在中樞神經的 各處,包括基底核、小腦等。 - b. 症狀: MSA 共同特徵是自主神經症狀,如姿勢性暈眩(因站立時血壓突然下降所致),亦可量測躺坐站血壓;其中再分為兩大亞型,一類會合併巴金森氏症(MSA-p)、一類會合併小腦性運動失調(MSA-c)。 - c. 巴金森氏症的病患若合併有姿態性低血壓等其他 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...r | α-synuclein | Multiple system | Striatonigral degeneration | | Neuro- | | atrophies (glial \ | Olivopontocerebellar atrophy | | degenerative | | neuronal inclusions) | Shy-Drager syndrome | | disorders | | | Motor neuron disease with PD features | | | | Dementia with Lewy l | podies (cortical · brainstem neuronal inclusions) | | (Parkinson- Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

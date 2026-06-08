@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book3-ch22]]"
 aliases:
   - 'Thyroid fine-needle aspiration, FNA (甲狀腺細針抽吸)'
   - 'Thyroid fine-needle aspiration, FNA'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-甲狀腺結節依超音波風險與大小決定 FNA。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺結節依超音波風險與大小決定 FNA。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ tags:
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch23]]
+- [[sources/med5-book3-ch22]]
 
 ## Key Details From Sources
 
+- 1. 細針抽吸 (fine needle aspiration cytology, FNAC): - (1) 最常用以鑑別水囊狀腫塊與實質腫塊。 - (2) 為細胞學檢查(cytology),不可作為病理診斷。但 cytology的結果若為 adenocarcinoma,有大於 90%的機會最後可確診為惡性腫瘤。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- (A) 7. 下列有關乳房腫瘤細針穿刺 (fine needle aspiration) 檢查之敘述, 106(一)專 何者錯誤? 醫五-47 - (A) 用 16 或 18 號針頭(16 or 18 gauge needle) - (B) 不需局部麻醉 - (C) 可區分實質腫瘤或囊腫(solid tumor or cyst) - (D) 若發現有癌細胞(carcinoma cell) 仍需作切片檢查(tumor biopsy) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- 【詳解】可用 22 號針頭執行 fine needle aspiration。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- 3. 治療: - (1)無症狀:觀察並定期追蹤。 - (2)有症狀:可考慮細針抽吸,送組織學檢查。並且進一步做 cancer survey。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - (1) Thyroid ultrasonography: - a. 分辨是 solid 或是 cystic lesion。 - b. 惡性的可能性: hypoechoic、lesion 周圍有不完整的光圈 (incomplete peripheral halo)、邊緣不規則、有許多小鈣化點、大於 3 公分的 cyst。 - c. 可協助 FNA。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - a. Cold: cancer risk 15~20%,需進一步作 FNA 細胞學檢查。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 4. 檢查: - (1) FNA:甲狀腺結節首選檢查方法,具診斷性且安全又便宜。 - (2) 超音波:難以分別結節為良性還是惡性,通常是用來補助 FNA 的操作。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].

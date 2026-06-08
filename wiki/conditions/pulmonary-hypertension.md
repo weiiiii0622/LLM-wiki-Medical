@@ -48,6 +48,7 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Pulmonary hypertension (肺高壓)'
   - 'Pulmonary hypertension'
@@ -62,7 +63,7 @@ tags:
 
 ## Summary
 
-肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -110,9 +111,11 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- (C) 11. 一位 70 歲男性,晚餐後覺得一陣心悸,三十分鐘後突然腹部劇痛,因疼痛持續一小時仍未緩解,而至急診室就診,當時你發現此病人臉色蒼白、冷汗直流,血壓 140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG顯示有心房顫動,血液檢查:Hb 14 /dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
 - b. Blalock Taussig shunt (B-T shunt): 分流手術。 - (a) 為 palliative surgery, 將 subclavian artery 和 pulmonary artery 接在一起, 引流部分 subclavian artery 血液至肺部增加 pulmonary blood flow,增加回心的含氧血。(下圖 A) - (b) 但接久了 subclavian artery 會變大,使得肺血流太多導致肺高壓。故可改用人工血管(modified B-T shunt),減少肺高壓的情形。(下圖 B) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - a. 心上型(supracardiac):下圖 A,肺靜脈經由垂直靜脈(vertical vein)到無名靜脈(left innominate vein, LI),再回到上腔靜脈,流進右心房。而垂直靜脈容易塞住,引發肺水腫和肺高壓。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
@@ -130,7 +133,6 @@ tags:
 - Ⅲ. 新生兒呼吸相關疾病 443 - A. 呼吸窘迫症候群 (RDS) 443 - B. 新生兒暫時性呼吸急促(TTNB) 444 - C. 早產兒呼吸暫停 445 - D. 新生兒持續性肺高壓 (PPHN) 445 - E. 吸入性症候群 446 - F. 先天性橫膈膜疝氣 446 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - # D. 新生兒持續性肺高壓 (Persistent pulmonary hypertension of neonate, PPHN) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (1) 心臟超音波:可發現心房中膈凸向左心房、通過卵圓孔或動脈導管的右向左分流。另外,亦可以見到三尖瓣逆流,可用來評估肺高壓的程度。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...ribonucleoprotein (anti- | Increased risk for Raynaud phenomenon, insterstitial lung | | | RNP) antibody | disease, and pulmonary hypertension | | | Anti-Ro antibody (anti-SSA | Associated with sicca syndrome | | | antibody) | May suggest diagnosis of Sjögren syndrome | | | Anti-La antibody (anti-SSB | Increased risk of neonatal lupus in offspring (congenital Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

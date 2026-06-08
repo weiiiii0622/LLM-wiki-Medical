@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'IgA nephropathy (IgA 腎病變)'
   - 'IgA nephropathy'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-成人常見原發性腎絲球病變，常在上呼吸道感染後短期內肉眼血尿。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+成人常見原發性腎絲球病變，常在上呼吸道感染後短期內肉眼血尿。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- ...- b. Drainage procedure with pancreatectomy (duodenum preserved): Puestow procedure (resection of pancreatic tail) The Berger procedure (resection of pancreatic head) The Frey procedure (resection of pancreatic head) - c. Pancreaticoduodenectomy (PD): Whipple procedure, PPPD Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- (2) 由於慢性胰臟炎主要的 trigger point 是位於胰頭處,因此大部分的手術都是針對 胰頭作處理,目前較為有效的手術為 The Berger procedure、The Frey procedure 與 Whipple procedure。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- (2) Combined pancreatic duct drainage and pancreatric head lesion resection: 分為 The Berger procedure、The Frey procedure。 - a. The Berger procedure( Duodenum-preserving pancreatic head resection, DPPHR ) : - (a) C-loop 將被保留下來。 - (b) 胰臟從 portal vein 處截 斷,胰頭大部分是被切 掉的,但是會留一小部 分殘餘在 C-loop 上。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 1. Immunoglobulin (Ig) A nephropathy (Berger disease) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - | Mesangial cell disease | IgA nephropathy | |--------------------------|-----------------------------------------------------------| | | IgM nephropathy | | | Mesangioproliferative glomerulonephritis | | | Class II lupus nephritis | | | Diabetic nephropathy | | Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

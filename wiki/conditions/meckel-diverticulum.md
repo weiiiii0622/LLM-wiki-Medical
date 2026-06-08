@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book3-ch06]]"
+  - "[[sources/med5-book3-ch10]]"
 aliases:
   - 'Meckel diverticulum (梅克爾氏憩室)'
   - 'Meckel diverticulum'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-卵黃管殘跡，可因異位胃黏膜造成無痛性下消化道出血。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+卵黃管殘跡，可因異位胃黏膜造成無痛性下消化道出血。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book3-ch06]]
+- [[sources/med5-book3-ch10]]
 
 ## Key Details From Sources
 
+- #### 丙、梅克爾憩室症 (Meckel diverticulum) Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
+- 1. 梅克爾憩室症是最常見的先天性消化道結構異常。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
+- 3. 梅克爾憩室是一種真性憩室 (true diverticulum),包含全部的組織層。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
+- a. FNH的 lesion 中約八成含有**庫佛氏細胞(Kupffer cell**),Kupffer cell 可被**technetium sulfur colloid** 染色,因此可以利用 technetium sulfur colloid 去與**HCC** 做進一步的鑑別診斷。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
 - ...Ultrasound • - b. Tc-sestamibi scintigraphy • - c. Videoscopic exploration • - d. CT/MRI • - e. 術中 PTH 同步監測。 - f. Tl201-technetium Tc 99m pertechnetate subtraction scanning • - (3) 最常用方法為 Tc-sestamibi scintigraphy: - a. 先作 Tc-sestamibi scintigraphy 定位出可疑腺體。 - b. 將該腺體切除。 - c. Intraoperative PTH assay 來監測術中的血中 PTH 濃度。 - d. 如果在切除後 10 分鐘內 PTH 濃度有下降達 50 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...| 療已無效時,增進病人生活品質及人性尊嚴 | | | | (C) 節省 | 醫療人員做醫療決定的時間 | | | | (D) 減少 | 家屬為當事者作生死決定時可能產生的焦慮、矛盾與內疚 | | | (A) 33 | . 核子醫學 | technetium pertechnetate scan 對診斷下列何種疾病有 | 100(一)專 | | | 幫助? | | 醫五-16 | | | (A) 梅克. | 耳憩室(Meckels diverticulum) | | | | (B) 水腎 | | | | | (C) 骨髓 | 丙變 | | | | (D) 腎上 | 泉腫瘤 | | | | 【詳解】 | Technetium-99m 可偵測 0.1 mL/min 的出血量,可用於 | | | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (D) 梅克爾氏細胞癌 (Merkel cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

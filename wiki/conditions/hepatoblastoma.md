@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Hepatoblastoma (肝母細胞瘤)'
   - 'Hepatoblastoma'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-幼兒最常見肝臟惡性腫瘤，常見 AFP 升高與腹部腫塊。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+幼兒最常見肝臟惡性腫瘤，常見 AFP 升高與腹部腫塊。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- ...b. 若如果只有一種影像能認定,則考慮加做切片。 - (3) 大於 2 cm 的腫瘤: - a. 若病患本身為高危險群或肝硬化患者,要有二種影像檢查皆具典型血管特徵 才能診斷為 HCC。 - b. 只有一種影像檢查能認定,合併甲型胎兒蛋白(AFP)大於 **200**,也可診斷 為 HCC,不須加做切片。 - c. 只有一種影像檢查能認定, AFP 肝硬化程度:Child-Pugh A。肝腫瘤:單顆、原位癌、2公分以下。治療:手術切除腫瘤。 | | Stage A-C | 日常生活功能:0~2級。肝硬化程度:Child-Pugh為 A-B,再依照病人的體能狀況、肝腫瘤顆數、有無黃疸、有無肝門高壓、肝門靜脈侵犯、淋巴轉移等去區分出 stageA-C。 | | Stage D | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (B) 3. 一位 45 歲自小罹患慢性 B 型肝炎的男性病患,主訴一個多月前覺得右上腹疼痛,有時疼痛會延伸到右邊的肩膀。最近一週至門診追蹤腹部超音波顯示有多顆肝臟腫瘤,分別是一顆 2.2 公分大小在 S2 的位置,和另一顆 6.6 公分大小在 S5 的位置,有觀察到低迴音(hypoechoic)的腫塊。進一步安排腹部電腦斷層之後,發現在相同位置有同樣大小的腫塊,並且已經侵犯到右側肝門靜脈。其他部位的腹部超音波和電腦斷層結果皆屬正常。抽血結果發現胎兒蛋白值(AFP)為 230 ng/mL,AST 53 U/L,ALT 68 U/L。則這位病人最可能的診斷為何? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- 【詳解】HCC 在超音波之下通常呈現低迴音型,AFP 呈現較高的數值。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (D) 9. 一位 35 歲男性患者因持續右側腹痛就醫,經下消化道攝影發現 106(-)專升結腸有一蘋果核(apple core)般的病灶,下列何者是不需要 醫五-54的檢查? - (A) 大腸鏡切片檢查 (colonoscopic biopsy) - (B) 電腦斷層 (CT scan) - (C)癌胚胎抗原(CEA) - (D) 甲型胎兒蛋白(AFP) Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (B) alpha fetoprotein (AFP) and hepatocellular carcinoma Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - VII. 肝母細胞瘤 (Hepatoblastoma) 389 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

@@ -21,6 +21,9 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch16]]"
 aliases:
   - 'Gastritis (胃炎)'
   - 'Gastritis'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,17 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch16]]
 
 ## Key Details From Sources
 
+- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- b. Postgastrectomy syndromes: - (a) 較符合生理狀態,但因幽門被切除,容易 有膽汁的逆流現像,造成逆行性胃炎症狀 如噁心嘔吐。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (b) 因為空腸和胃吻合後膽汁會流經胃,容易造成逆流性胃炎、輸入盲端症候群 (afferent loop syndrome)、傾食症候群 (dumping syndrome),得到殘胃癌機會大於 Billroth I。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (C) 急性腸胃炎 (acute gastroenteritis) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- ...cal cyst) | 醫五-51 | | | (B) 急性腸系膜缺血性疾病(mesenteric ischemia) | | | | (C) 消化性潰瘍穿孔(perforated peptic ulcer) | | | | (D) 急性腸胃炎 (acute gastroenteritis) | | | (D) | 4. 下列關於膽囊癌之敘述,何者錯誤? | 99(二)專 | | | (A) 好發於女性 | 醫五 -25 | | | (B) 與膽結石相關性密切 | | | | (C) 多數病人發病時已屬晚期,無法手術治癒 | | | | (D) 因極易侵犯,預後不佳,故即使是第一期疾病,除切除膽囊 | | | | 外亦須切除部分肝臟並進行淋巴結廓清 | | | (D) | 5 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - (C) 急性腸胃炎 (acutegastroenteritis) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - ...100 pg/mL • - b. Basal gastric acid output (BAO,基礎胃酸分泌量) > 15 mEq/hr。 - c. 如果 hypergastrinemia 但 BAO 沒上升,則考慮是:atrophic gastritis、renal failure、病人正在服用 H2 antagonist 或 PPI。 - d. 但有些情況也會同時有 fasting hypergastrinemia 及 BAO 上升: retained gastric antrum syndrome、gastric outlet obstruction、antral G-cell hyperplasia。所以需再進一步作 Secretin 刺激檢驗。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - ...-----------| | 1. 腸套疊 | 7. 疝氣 | | 2. 巨腸症 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 泌尿道感染或腎盂腎炎 | | 4. 腸扭轉或是腸阻塞 | 10. 胰臟炎 | | 5. 腸胃炎 | 11. 外傷 | | 6. 肺炎 | | | 3~11 歲: | | | 1. 急性闌尾炎 | 7. 腎盂腎炎 | | 2. 外傷 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 胰臟炎 | | 4. 急性腸胃炎 | 10. 腸扭轉或腸阻塞 | | 5. 肺炎 | 11. 腸系膜淋巴瘤 | | 6. 類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -72,11 +83,6 @@ tags:
 - (D) 6. 一位 4 歲男童最近隨母親回大陸省親,回國後他與母親均發生腹瀉及發燒現象,經醫師診斷為急性腸胃炎。過去兩天母親注意到男童變得蒼白、疲倦,而且雙眼浮腫、尿液明顯變少。抽血檢驗發現男童之血色素及血小板數皆降低,尿液常規檢查可見到血尿、蛋白尿。下列何者為最可能之診斷? - (A) Henoch-Schönlein 紫斑症 (Henoch-Schönlein purpura) - (B) IgA 腎炎 (IgA nephropathy) - (C) 鏈球菌感染後之急性腎炎(poststreptococcal glomerulonephritis) - (D) 溶血性尿毒症候群 (hemolytic-uremic syndrome) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...Xerostomia):原發性休格蘭氏症 2/3 唾腺腫大,次發性(有合併其他自體 免疫疾病)則少見。 - b. 眼乾 (Dry eye): 眼瞼下沙質感、灼熱、紅癢、光敏感。 - c. 呼吸道:鼻、喉、氣管乾;消化道:食道黏膜萎縮、萎縮性胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Ex Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - 5. 末期病人的症狀處置-消瘦(Cachexia)與厭食(Anorexia) - A: Aches (疼痛) - N: Nausea ( 噁心 ) - O: Oral candidiasis (口腔念珠菌) - R: Reactive depression (憂鬱症) - E: Evacuation problems (排便問題) - X: Xerostomia (口乾) - I: Iatrogenic (化療、放療、藥物相關) - A: Acid-related problem (胃炎、腸胃潰瘍) - 重 1. 厭食是疾病的一部分,病人不會因為飢餓而死亡 - 要 2. 末期病人的水和食物需求通常不多,並不會因為飲食的下降而造成不舒服 - 觀 3. 勉強病人進食,無法改善其生活品質或延長生命 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (2) 疾病:胃炎、胃潰瘍、十二指腸潰瘍、胃癌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (2) 疾病: - a. 泌尿道感染:P pili (pyelonephritis-associated pilus) 有助於其黏附到泌尿道上皮,而 *E. coli* 也是泌尿道感染最常見的致病菌。 - b. 腸胃炎:常考下面兩隻細菌 ETEC、EHEC, 比較如下 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (2) 疾病: - a. 年輕人:偽闌尾炎 (Pseudoappendicitis)。 - b. 成人:腸胃炎,痊癒之後可能會發生反應性關節炎(Reactive arthritis)。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...線狀 | 核內 | 細小 DNA 病毒 (Parvovirus) | B19→感染性紅斑 (第五疾病) | | | | DNA | - 1 | 雙股線狀 | 核內 | 腺病毒 (Adenovirus) | 結膜炎(游泳池游泳), | 嬰兒腸胃炎 | | | | 二十 | 雙股環狀 | 5.7 (3.5) | | HPV →疣; Polyoma vir | us (BK, JC) | | | | 雙股線狀 核內 | | 核內 | 疱疹病毒 (Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长, Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- | 部位 | 病毒株 | 疾病 | | |-----|-----------|---------------------|-------------------------------| | 呼吸道 | 7, 14, 21 | 小孩、新兵的呼吸道感染 | | | 明明基 | 3, 4, 7 | 咽結膜炎(游泳池游泳之病史) | Pharyngoconjunctivitis | | 眼睛 | 8, 19, 37 | 角結膜炎(眼科器械移除眼睛異物之病史) | Epidemic keratoconjunctivitis | | 腸胃道 | 40, 41 | 嬰兒病毒性腸胃炎 | Infantile diarrhea | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 
@@ -85,7 +91,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/alkaline-reflux-gastritis|Alkaline reflux gastritis (鹼性逆流性胃炎)]]
 
 ## Follow-up
 

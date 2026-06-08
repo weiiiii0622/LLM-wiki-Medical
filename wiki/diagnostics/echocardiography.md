@@ -28,6 +28,8 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Echocardiography (心臟超音波)'
   - 'Echocardiography'
@@ -42,7 +44,7 @@ tags:
 
 ## Summary
 
-評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +72,13 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book3-ch23]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- (A) 乳房簡單性水瘤 (simple cyst) 在超音波檢查呈現,邊緣平滑,內在無音波 (echo-free) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- 【詳解】此題一樣是在考乳癌可能轉移部位,可使用 PET、bone scan、liver echo 去評估轉移的可能性。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 2. CT: 搭配顯影劑,能看出主動脈剝離的位置和範圍,分辨真腔和假腔。以及是否 有心包填塞、血胸的情況。 - (1) 如下圖為一個 Type A 的主動脈剝離,內膜與中膜分離後被血液充滿形成的假腔,和真腔之間以剝離內膜瓣(intimal flap)分隔。假腔的結構通常比真腔還大,由於假腔充滿相對比較不流動的血液,顯影劑比較難進入,因此 contrast-CT 下假腔會比真腔還暗。 - (2) 假使假腔有另一個出口,使得假腔也有血流,則真腔和假腔就會比較難分辨。 - (3) 當病人對顯影劑過敏,或是有 renal insufficiency 的情形,可改用 MRA 或是經 食道心臟超音波 (transesophageal echocardiography, TEE) 檢查。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 4. 經食道心臟超音波(transesophageal echocardiography, TEE):使用相當方便迅速,藉由 Doppler 探測,除了能發現結構異常外,也能觀察血液在各腔室內的流動情形、流速,以及瓣膜部分是否有血液逆流的現象。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (A) 急性主動脈剝離最佳診斷工具是心臟超音波(cardiac echocar-diography) 或是核磁共振攝影(magnetic resonance imaging) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
@@ -89,8 +95,6 @@ tags:
 - 屬於嚴重型的法洛氏四合症。但是沒有如典型 TOF 表現的心雜音。臨床發紺的嚴重度與側枝循環是否充足有關;側枝循環血液足夠的話病人發紺程度會較輕。此外,病人的心電圖呈現右心室肥大。在心臟超音波下病人右心室壁的增厚以及肺動脈閉鎖。胸部 X-ray 影像學下心臟不一定肥大,視肺血流量多寡而定。預後則視本身肺動脈大小而定,最終仍是要以外科方式治療。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 心臟超音波:可以發現三尖瓣被 fibromuscular membrane 取代、較小的右心室、 左心室變大與不同程度的 VSD 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 心臟超音波:可發現心房中膈凸向左心房、通過卵圓孔或動脈導管的右向左分流。另外,亦可以見到三尖瓣逆流,可用來評估肺高壓的程度。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 5. 一個 40 週出生 2,000 公克的新生兒,在出生後第 2 小時出現呼吸 107( 二) 專 喘快、有肋骨下凹陷、全身發紅但嘴唇為紫紅色的現象,體溫脈搏 醫四 -8 正常,檢測血糖值為 30 mg/dL。接下來應做何種檢驗最為重要? (A) C 反應蛋白(CRP) - (B) 血球血比容 (Hematocrit) - (C) 心臟超音波 (Heart ultrasound) - (D) 血液鈉離子濃度 (Serum sodium concentration) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (A) 1.2 歲女童體型特別高瘦,手腳與手指(腳趾)特別細長,關節鬆 109(二)專 弛,有輕度漏斗胸,心臟超音波呈現二尖瓣脈脫垂及主動脈回 醫四-31 流,下列何者為最可能之診斷? - (A) Marfan syndrome - (B) Menkes syndrome - (C) Kallmann syndrome - (D) Klinefelter syndrome Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

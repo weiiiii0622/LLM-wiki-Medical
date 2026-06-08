@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book3-ch01]]"
 aliases:
   - 'Acromegaly (肢端肥大症)'
   - 'Acromegaly'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch06]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book3-ch01]]
 
 ## Key Details From Sources
 
+- d. 這是一個滿棒的反向性激素。因此就出現了 **Octreotide** 這樣子人工合成的 somatostatin,當病人腸胃道出血(常用於 EV bleeding),可使用 Octreotide 抑制腸胃道激素的分泌,減緩出血。此外也可利用其抑制生長激素分泌的特性來治療 Acromegaly。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...孕症、無月經(amenorrhea)或乳漏症(galactorrhea),男性則會陽痿。Functional prolactinoma 患者其血中 prolactin level 多大於 150~200 ng/mL。 - b. 生長激素 (GH): 刺激生長,成人出現末端肥大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

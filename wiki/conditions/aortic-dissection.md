@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Aortic dissection (主動脈剝離)'
   - 'Aortic dissection'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,15 @@ tags:
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch27]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- (C) 手術治療包含 level II 腋下淋巴廓清 (axillary lymph node dissection up to level II) Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- ...rtial mastectomy,又稱 Lumpectomy)。 - (2) 腋下淋巴結:可分成前哨淋巴結切片(Sentinel lymph node biopsy, SLNB) 與腋下淋巴結廓清術(Axillary lymph node dissection, ALND)。 - (3) 因此手術的方式可以有四種選擇:全切除 +SLNB、全切除 +ALND (MRM)、 部分切除 +SLNB (BCS)、部分切除 +ALND (QUART)。 - (4) 前哨淋巴結切片與腋下淋巴結廓清術: - a. 前哨淋巴結切片(Sentinel lymph node biopsy, SLNB)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- b. 腋下淋巴結廓清術(Axillary lymph node dissection, ALND): - (a) 前言: - i. 腋下淋巴結是否受到癌細胞的侵犯為乳癌患者最重要的預後指標之一,因此腋下淋巴結廓清術可作為一個診斷與治療的術式。 - ii. 廓清後經常導致病患手臂淋巴水腫、感覺麻痺、手臂活動受限等後遺症。 - (b) 適應症: - i. 術前已經證實患者的腋下淋巴結受到侵犯。 - ii. 術中前哨淋巴結病理檢驗發現有轉移的病患。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- 【詳解】經內視鏡腫瘤切除可分為內視鏡黏膜切除術(endoscopic mucosal resection, EMR) 與內視鏡黏膜下分離術(endoscopic submucosal dissection, ESD),適用於僅浸潤至黏膜層的早期胃癌必須小於 3cm 且無 ulceration,並且須達成一次切除(en bloc resection)。此位病人腫瘤超過 3 cm,較不適合使用內視鏡手術。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - #### 甲、主動脈剝離 (Aortic Dissection) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 2. 結構上的分類是根據主動脈被侵犯之範圍,而非以內膜撕裂處所在之地點決定,目前常用的分類法有 Stanford 及 DeBakey 兩種。(見下圖) - (1) Stanford:以 dissection 的範圍有無牽涉到 ascending aorta 為分型。 - a. Type A:有牽涉到 ascending aorta,約佔 2/3的 case。 - b. Type B: 無牽涉到 ascending aorta,約佔 1/3 的 case。 - (2) Debakey: - a. Type I: 牽涉到 ascending aorta 和 descending arota。 - b. Type II: 僅牽涉 ascendi Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 1. 突發性的劇烈胸痛,且有後背痛(interscapular pain)。如果胸痛僅在前胸,可能為 升主動脈剝離;延伸至頸部或下顎,可能有主動脈弓剝離;延伸至下背部,可能為 降主動脈剝離。隨著主動脈剝離的進展,病人會描述有撕裂痛(tearing pain)的感覺。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
@@ -81,10 +89,6 @@ tags:
 - 3. 聽診: - (1) 頸動脈聽得見雜音(bruits)時,需懷疑 carotid dissection。 - (2) 眼球周圍可聽見雜音,懷疑 traumatic carotid-cavernous fistula。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (A) 13. 60 歲男性於腹主動脈剝離後 3 日,發現雙下肢無力與麻木、失禁,神經學檢查顯示下肢的感覺功能異常,但下列何感覺功能仍可能是正常? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...下則頭痛立即改善,一般檢查為正常。最可能的診斷為何? | 醫四 -46 | | (A) 大腦靜脈竇栓塞(cerebral sinus thrombosis) | | | (B) 內頸動脈剝離(internal carotid artery dissection)引起的頭痛 | | | (C) 低顱內壓頭痛(low intracranial pressure headache) | | | (D) 椎基底偏頭痛(vertebrobasilar migraine) | | | (B) 23. 關於慢性緊縮型頭痛(chronic tension-type headache)的敘述, | 102(二)專 | | 下列何者錯誤? | 醫四 -52 | | (A) 每個月頭痛天數超過 15 天以上 | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (3) 心血管異常:約有 1/3 的病人併有心血管異常,常見的有二尖瓣脫垂、反流、 主動脈根部瘤狀樣擴大、甚至造成主動脈剝離。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...部 McBurney point*)、憩室炎 | | | | | | 左下腹部 | 結腸病變(憩室炎、便秘) | | | | | | 下腹部 | 膀胱感染或病變、女性的骨盆腔發炎 | | | | | 轉移性 | 後中背部 | 急性胰臟炎、腹主動脈剝離 | | | | | 疼痛 | 右背肩胛骨處 | 急性膽囊炎 | | | | | 25714 | 左肩 | 脾臟發炎、膿瘍或脾臟缺血 (infarction) | | | | | | 同側睪丸 | 輸尿管結石 | | | | | 腹痛性質 | 持續 | 腹内炎症或出血 | | | | | | 陣發性 | 中空臟器阻塞、痙攣 | | | | Source: [[sources/med3-book2-ch03|乙、腹痛]].
-- 【詳解】甲狀腺癌除非是早期或低惡性度的病人做 lobectomy 外, 一般治療為: total thyroidectomy + neck LN dissection, 術後再服用 放射碘,之後長期甲狀腺素使用。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- (C) 主動脈剝離 (aortic dissection) Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 
 ## Clinical Caveats
 

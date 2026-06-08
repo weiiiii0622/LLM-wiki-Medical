@@ -9,6 +9,9 @@ sources:
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book3-ch21]]"
+  - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Mastectomy (乳房切除術)'
   - 'Mastectomy'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-乳癌手術方式之一，依病灶、風險與病人選擇決定範圍。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳癌手術方式之一，依病灶、風險與病人選擇決定範圍。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,18 @@ tags:
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book3-ch21]]
+- [[sources/med5-book3-ch23]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- ...e | | | | | 【詳解】必考題阿一定要會,一考再考。肋間臂神經(intercostal | | | | | brachial nerve)的損傷將會導致上臂內側麻木或疼痛。 | | | (B) | 2. | 乳癌病患接受改良式根治性乳房切除術(modified radical | 106 (二) 專 | | | | mastectomy)後,發生肩胛畸形(winged scapula deformity), | 醫五 -34 | | | | 表示下列何神經受損? | | | | | (A) 胸背神經(thoracodorsal nerve) | | | | | (B) 長胸神經 (long thoracic nerve) | | | | | (C) 內胸神經 (media Source: [[sources/med5-book3-ch21|甲、解剖構造]].
+- ...ifications),兩者檢查結果報告均為 BI-RADS(Breast Imaging Reporting and Data System)Category 4。則下列何者為對病患最適官的建議? - (A) 高度懷疑為惡性腫瘤可直接安排乳房切除手術(mastectomy) - (B) 可安排門診 6 個月後再追蹤 - (C) 可追蹤 3 個月再安排超音波及乳房 X 光攝影檢查 - (D) 安排門診粗針穿刺切片檢查 (core needle biopsy) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- (D) 21. 一位 32 歲經期規則婦女,未曾生育,右側乳房有一腫塊約兩個月,至門診就診。乳房檢查外觀對稱,皮膚無凹陷。觸診發現右側乳房 10 點鐘方向有一腫瘤,外緣不規則,但是可以移動,約2公分大小。超音波檢查顯示低回音病灶(hypoechoic lesion),檢查結果報告為 BI-RADS Category: 4。試問下列何者為對病患最適宜的建議? - (A) 高度懷疑為惡性腫瘤可直接安排乳房切除手術 (mastectomy) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- (a) 手術切除:切除之外必須考慮加作放射線治療。 - i. 單發性病灶:可作 partial mastectomy, safe margin 必須大於 1 cm 以上。 - ii. 多發性病灶:作 total mastectomy。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (b) 當病人具有強烈的乳癌家族史,可以預防性手術切除(Prophylactic bilateral mastectomy)作為治療。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- 【 詳解 】 若為 DCIS 僅 做 partial mastectomy 即 可, 若為 high grade 則加做 sentinel lymph node biopsy。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (C) 19. 42 歲肥胖並有抽菸的女性,腹部已有橫式剖腹產疤痕,乳房是 E罩杯。現罹患右側乳癌,要求改良式乳房全切除手術(modified radical mastectomy)後立即進行乳房重建手術。下列有幾項選擇: Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (D) 25. 林小姐罹患乳癌須接受一側乳房切除,她想同時接受乳房重建 手術,則下列那一個皮瓣最不適合用來作為乳房重建之用? - (A) 闊背肌肌皮瓣 (latissimus dorsi muscle flap) - (B) 橫腹直肌皮瓣(transverse rectus abdominis myocutaneous flap) - (C) 上臀動脈穿通枝皮瓣(superior gluteal artery perforator flap) - (D) 腹網膜瓣 (omental flap) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - ...癌,患者側頸部無淋巴腺轉移,則下述 | 99(二)專 | | | 何種治療法為佳? | 醫五 -39 | | | (A) 次全甲狀腺切除 | | | | (B) 全甲狀腺切除加上中央頸部淋巴腺清除 | | | | (C) 全甲狀腺切除加上 modified radical neck dissection | | | | (D) 只用 131 I 治療 | | | | | | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -51,7 +63,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/ductal-carcinoma-in-situ|Ductal carcinoma in situ, DCIS (乳管原位癌)]]
+- [[conditions/invasive-ductal-carcinoma|Invasive ductal carcinoma (浸潤性乳管癌)]]
 
 ## Follow-up
 

@@ -29,6 +29,7 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Immunosuppressants (免疫抑制劑)'
   - 'Immunosuppressants'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,11 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- (A) 22. 陳女士 50 歲為一乳癌患者經手術行 modified radical mastectomy 後,其 staging 為 T2N1M0,術後建議給予 6 次 5-FU, Adriamycin 及 cyclophosphamide。此種化學藥物治療屬於下列那一種? Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -92,7 +95,6 @@ tags:
 - (4) 治療:以類固醇為主要治療方式。若效果不佳,可以考慮脈衝治療。有時可以 考慮免疫抑制劑 azathioprine、hydroxycloroquine、cyclosporine 或是 methotrexate 合併治療。若效果不好的話考慮 IVIG。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) 13. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時,下列那一項不是其常見的併發症? Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 
@@ -101,6 +103,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/heart-transplantation|Heart transplantation (心臟移植)]]
 - [[concepts/organ-transplantation|Organ transplantation (器官移植)]]
 - [[conditions/pemphigus-vulgaris|Pemphigus vulgaris (尋常性天疱瘡)]]
 - [[conditions/transplant-rejection|Transplant rejection (移植排斥反應)]]

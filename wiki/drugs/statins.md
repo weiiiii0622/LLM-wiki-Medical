@@ -31,6 +31,10 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch04]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Statins (史他汀類)'
   - 'Statins'
@@ -45,7 +49,7 @@ tags:
 
 ## Summary
 
-降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +80,22 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book2-ch06]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch04]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- #### (2) 體抑素 (somatostatin): Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- d. 這是一個滿棒的反向性激素。因此就出現了 **Octreotide** 這樣子人工合成的 somatostatin,當病人腸胃道出血(常用於 EV bleeding),可使用 Octreotide 抑制腸胃道激素的分泌,減緩出血。此外也可利用其抑制生長激素分泌的特性來治療 Acromegaly。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- ...)及腸期(intestinal phase) | | | | | | (C) 胃期(gastric phase)所分泌的胃酸佔所有胃酸分泌的 60~7 | 70% | | | | | (D) D 細胞(D cell) 所分泌的 somatostatin 會增加組織胺(h | ista- | | | | | mine)及胃泌素(gastrin)的分泌,進而增加胃酸的分泌 | | | | | | 【詳解】D cell 被氫離子刺激後分泌 somatostatin,會抑制 | | | | | | 部排空、膽囊收縮,也會抑制激素的分泌如生長激素(gro | owth | | | | | hormone)、胃泌素 (gastrin) 等等的激素分泌。 | | | | (D) | 6. | . Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
+- (c) Octreotide (Sandostatin): 可抑制胰島素及腸道賀爾蒙的作用,延長腸胃排空時間。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (D) 王先生的症狀,皮下注射 Sandostatin 可以有效改善胃腸症 狀,但對於頭暈、心悸等症狀無效 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 【詳解】Dumping syndrome 可分為 early dumping 與 late dumping,此題描述手術後發現用餐後沒多久,就出現相關症狀,比較像是 early dumping。(B) 出現 dumping syndrome 建議可以攝取蛋白質類的食物。(C) 必須限制液體食物的攝取 (D) Sandostatin 對於 early dumping 的腸胃道症狀或心血管症狀都具有效果。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (A) 製造分泌 somatostatin Source: [[sources/med5-book3-ch04|甲、解剖構造]].
+- 【詳解】小腸粘膜細胞可以合成並分泌多種激素,包含 secretim, cholecystokinin, somatostatin, VIP 等等。 Source: [[sources/med5-book3-ch04|甲、解剖構造]].
+- (B) 長效體抑素作用類似物(long-acting somatostatin analogues) 治療無效 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - E. Somatostatinoma 231 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 3. 一般為 5 mU/mL、血糖 111In-octreotide scintigraphy(成功率僅 50%,效果劣於偵測其他胰島細胞瘤,因 insulinoma 含的 somatostatin receptor 較少)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (2) 111In-octreotide scintigraphy:最有效,因為 90%的 gastrinoma 有 somatostatin receptor。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
@@ -88,15 +105,6 @@ tags:
 - (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- b. 局部塗抹:Nystatin 專治念珠菌,對皮癬菌則無療效。或可用 Imidazole。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 【詳解】家族型高膽固醇血症(familial hypercholesterolemia) 其嚴重度是根據基因上的變異數量決定,即有加成效應(gene dosing effect)。故同型合子會比異型合子的表現來的嚴重。同 合子患者其低密度脂蛋白(low density lipoprotein, LDL)膽固醇 數值是正常人的 4~6 倍,通常 LDL-C 為 500~1200 mg/dL。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...-------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- ...------------|--------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- 題目 108(一)專 (A) 1. 有關多發性肌炎(polymyositis)的敘述,下列何者正確? 醫三-31 (A) statin 類藥物會引發類似 polymyositis 的表現 (B) 在大於 50 歲的發炎性肌肉病變 (inflammatory myopathies) 患 者中, polymyositis 是最常見的診斷 (C) 關節攣縮(joint contractures)常發生於 polymyositis (D) 皮下鈣化(subcutaneous calcifications)常發生於 polymyositis 【詳解】(B) 應是 inclusi Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...| 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 22 mg/dL (B) 85 mg/dL (C) 130 mg/dL (D) 162 mg/dL 【詳解】(D) 當總膽固醇小於 400 mg/dl 時,可以用公式 LDL-C=(TC)-(HDL-C)-(TG/5)=162 mg/dl。 | 104(一)專醫三-61 | | (A) 28. | . 一位 85 歲王先生,患有高血壓、糖尿病多年。5 年前曾中風,可行走但步履不穩。自己並不清楚目前服用的藥物,常 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- b. 藥物副作用: - (a) Lactic acidosis 可能與傷害粒腺體有關,NRTI (Stavudine、Didanosin)常見。 - (b) Lipodystrophy: NRTIs 及 PIs 較易使周邊皮下脂肪減少,頸背(Buffalo hump)、腹部脂肪增加。 - (c) Hyperlipidemia:特別是高TG,其中PIs(Ritonavir)常見,併用Statin或Fibrates可改善。 - (d) Glucose intolerance: PIs (Indinavir, Ritonavir) 常見。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

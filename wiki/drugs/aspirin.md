@@ -37,6 +37,7 @@ sources:
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book3-ch02]]"
 aliases:
   - 'Aspirin (阿斯匹靈)'
   - 'Aspirin'
@@ -51,7 +52,7 @@ tags:
 
 ## Summary
 
-抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +89,13 @@ tags:
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch27]]
+- [[sources/med5-book3-ch02]]
 
 ## Key Details From Sources
 
+- 2. 藥物引發:長期 NSAID、Aspirin、Plavix 或合併 steroid 使用容易造成消化性潰瘍。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 1. 根據 Modified Johnson classification,針對位置與其潰瘍產生的機轉作分類。 - (1) 第一型:潰瘍位於胃小彎處,與胃酸分泌量無關。 - (2) 第二型:出現兩個潰瘍,一個位於 胃部,另一個位於十二指腸。與較 高的胃酸分泌量相關。 - (3) 第三型:位於幽門前方的潰瘍,可 能會出現多個潰瘍。與較高胃酸分 泌量相關。 - (4) 第四型:潰瘍靠近胃與食道交界處。 通常與胃酸的分泌量無關,可能與 黏膜防衛機制缺陷相關。 - (5) 第五型:潰瘍可能位於任何位置, 與服用藥物如 NSAID 或 aspirin 相關。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (4) 好發於年紀較大、合併多種系統性疾病的病人,並且使用一些容易造成 ulcer 的 藥物如 NSAID 或 aspirin 所導致。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - ...py \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Less effective | | | | Steroids | 用於 Severe exacerbations | 用於 Severe exacerbations | | | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - ...結腸,血液檢查正常,無發燒現象,下列何者並非現階段 醫五-55 之治療選項? (A) 禁食牛奶製品 (B) 給予抗生素 (D) 給予磺胺類藥物 (C) 給予類固醇 【詳解】依題意描述,此病人推測是潰瘍性大腸炎,給予類固 醇和磺胺類藥物(5-ASA)可改善發炎情形,奶製品應避免。血 液檢查正常又無發燒現象,現階段沒有給予抗生素的需要。 (A) 6. 對 chronic ulcerative colitis 的病人而言,下列何者非促成其形成 101(二)專 醫五-51 癌症的因素之一? (A) 潰瘍之深度 (B) 發病年齡 (C) 罹病之期限 (D)病變範圍 【詳解】ulcerative colitis 的罹癌因素有:(1) 發病年齡越早越易 轉為大腸直腸癌。(2)病發期間越久,轉 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 5. 處置: - (1) 先採用內科療法: 軟便劑、類固醇栓劑 (steroid enema)、局部 5-ASA (5-aminosalicylic acid)。 - (2) 內科療法失敗、復發性狹窄、瘻管則手術處理:結腸造口(diverting colostomy)。 - (3) 狹窄也可用 endoscopic dilation。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
@@ -106,9 +111,6 @@ tags:
 - (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹 108( ) 專子型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 4. 常見引起固定性藥物疹之藥物為 Tetracyclines、NSAID、磺胺類藥物 (sulfadrugs)、Aspirin、Barbiturates。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 6. 治療:一般給予支持性療法,給予 Aspirin、NSAID、口服或局部注射類固醇、臥床抬腿、穿彈性襪皆有不錯效果。如果是潛在病因或感染源所造成,則優先處裡,給予抗生素治療。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- ...- (a) 食物:海鮮、高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dyes, benzoates, salicylates)、核桃、巧克力、菇、筍。 - (b) 藥物: 抗生素(Penicillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- ...its IV daily for 10 days. Erythromycin is altered if allergic to penicillin。 - b. Carditis: - (a) Without cardiomegaly: aspirin 80 mg/kg/day, 一天分成四次給藥直到症狀 改善或是 ESR 下降至正常。 - (b) With cardiomegaly: prednisone 1~2 mg/kg/day, 一天分成三次給藥並且持續給藥 2~4 週後,開始給予 aspirin。 - c. Arthritis: 急性風溼熱引發的痛關節炎是極疼痛且難以忍受的, 但對於 aspirin 或 NSAIDs 效果好。 - d. Chorea: 急性風溼熱晚期表現, Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 急性期:開始發病起經過14天之內。 - a. IVIG: 2 g/kg over 10~12 hr。使用高劑量 IVIG(≥ 1g/kg)治療時,宜間隔11 個月後再接種日本腦炎、麻疹、MMR 或水痘疫苗。。 - b. Aspirin:80~100 mg/kg/24 hr,每6小時給藥一次直到發病後14天或燒退為止。 高劑量 aspirin 使用目的是為了抗發炎反應。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

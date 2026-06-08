@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch04]]"
+  - "[[sources/med5-book3-ch02]]"
 aliases:
   - 'Barrett esophagus (巴洛氏食道)'
   - 'Barrett esophagus'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-慢性 GERD 相關腸化生，是食道腺癌風險因子。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性 GERD 相關腸化生，是食道腺癌風險因子。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch04]]
+- [[sources/med5-book3-ch02]]
 
 ## Key Details From Sources
 
+- (D) 病人有 Barrett's mucosa Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- 4. 病人有 Barrett's mucosa Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - Barrett's esophagus (intestinal metaplasia) · Esophageal adenocarcinoma · Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - (D) 3. 巴洛氏食道(Barrett's esophagus)是下列何種癌症的危險因子(risk factor)? Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - 【詳解】食道鱗狀細胞癌發生在食道上段,與抽菸、喝酒較相關; 食道腺癌發生在食道下段,與胃酸逆流、巴洛氏食道相關。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].

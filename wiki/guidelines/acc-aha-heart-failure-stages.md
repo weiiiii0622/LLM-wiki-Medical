@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'ACC/AHA heart failure stages (ACC/AHA 心衰竭分期)'
   - 'ACC/AHA heart failure stages'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-依危險因子、結構病變、症狀與末期狀態分期。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依危險因子、結構病變、症狀與末期狀態分期。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- ...能認定,合併甲型胎兒蛋白(AFP)大於 **200**,也可診斷 為 HCC,不須加做切片。 - c. 只有一種影像檢查能認定, AFP 肝硬化程度:Child-Pugh A。肝腫瘤:單顆、原位癌、2公分以下。治療:手術切除腫瘤。 | | Stage A-C | 日常生活功能:0~2級。肝硬化程度:Child-Pugh為 A-B,再依照病人的體能狀況、肝腫瘤顆數、有無黃疸、有無肝門高壓、肝門靜脈侵犯、淋巴轉移等去區分出 stageA-C。 | | Stage D | 日常生活功能:3~4級。肝硬化:Child-Pugh C。肝癌:只要有肝癌腫瘤,不管尺寸大小、腫瘤數目。治療:症狀治療(支持性療法)。 | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- ...脈提供了 25% 的血液及養分,但 HCC 大部份是藉由肝動脈血液快速成長,鮮少從肝門靜脈長出來。 - (b) 根據統計,動脈栓塞術可有效的造成廣泛性的腫瘤壞死。雖然不屬於治癒性治療,但可以改善病人的預後。 - b. 適應症:在 BCLC stage B 的病人,肝腫瘤尺寸較大或為多發性,但尚無血管 侵犯,動脈栓塞術為第一線的治療。 - c. 作法: - (a) 穿刺股動脈並將導管置入股動脈,再往上抵達腹主動脈幹後,繼續往前進入**肝動脈**。 - (b) 使用化學治療藥物如 Doxorubicin 或 Adriamycin 等藥物混合 Lipiodol 顯影 劑針對 HCC 灌注。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (2) Stage B1: 侵犯至肌肉層。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (3) Stage B2:侵犯超過肌肉層甚至到達 visceral peritoneum 表面。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (4) Stage B3: 腫瘤直接侵犯到或是緊貼著臨近器官。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

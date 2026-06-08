@@ -18,6 +18,8 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch16]]"
 aliases:
   - 'Atrial fibrillation (心房顫動)'
   - 'Atrial fibrillation'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,15 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch16]]
 
 ## Key Details From Sources
 
+- (C) 11. 一位 70 歲男性,晚餐後覺得一陣心悸,三十分鐘後突然腹部劇痛,因疼痛持續一小時仍未緩解,而至急診室就診,當時你發現此病人臉色蒼白、冷汗直流,血壓 140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG顯示有心房顫動,血液檢查:Hb 14 /dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- (D) 2.69 歲的張先生,過去病史包括急性胰臟炎及7年前接受過主動脈 瓣膜置換術,5小時前因腹部劇烈疼痛而被送到醫院,醫師檢查 發現他腹部有壓痛,無反彈痛,有心房纖維顫動(atrial fibrillation),最後做了腹部電腦斷層攝影(如圖),顯示出: 101(一)專 醫五-50 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
+- 【詳解】關鍵字:腹部有壓痛、心房纖維顫動 (atrial fibrillation),必須考慮 acute mesenteric ischemia。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - ...140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG 顯示有心房顫動,血液檢查:Hb 14 g/dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃⁻ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 - (B) 腹部核磁共振檢查 - (C) 腹部血管攝影檢查 - (D) 直接剖腹探查 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 【詳解】心悸後腹痛,無緩解,PE 無腸音,EKG 發現有 Af => 懷疑是 Af 的 thrombus 打到腸子血管造成 acute thromboembolism。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -67,10 +75,6 @@ tags:
 - ...ithromycin、azithromycin)均會引起 prolonged Q-T interval,也會引起其他心律不整。Amiodaron 本身為心臟用藥,除了 prolonged Q-T interval外,也會引起其它心律不整如 atrial fibrillation、atrioventricular block、atrioventricular dissociation、bradycardia、ventricular fibrillation、ventricular tachycardia。Haloperidol 除了會造成 prolonged Q-T interval外 ECG上會有不正常的T波(prolonged ventricular repolarization)。torsades de Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (A) 心房顫動 (atrial fibrillation) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 檢查病人時可能有竇性心搏過速甚至 atrial fibrillation、手抖、反射增強、皮膚 摸起來潮濕溫暖、手掌出現紅斑、指甲剝落(onycholysis)、肌肉無力。如果是 亞洲男性病人,可能會表現 hypokalemic periodic paralysis(早上最嚴重、下午 則改善)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (3) 臨床表現: - a. 情緒變得不穩常為 Graves' disease 一開始的臨床表現。此外,病人也會出現 手指抖動、食量大增但體重沒有變化甚至出現下降、眼球突出但不若成人般 嚴重、眼睛往下看時上眼瞼運動遲滯、易流汗。 - b. 病人也會出現心搏過速、心悸、呼吸急促,但不會真正威脅到生命。Atrial fibrillation、肌肉無力與 pretibial myxedema 在 Graves' disease 病人反而不若成人常見,但病人若有肌肉無力,則會較常出現跌倒情形。此外,甲狀腺風暴在兒童不若成人常見。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (C) 1. 一位 70 歲女性高血壓患者,心電圖顯示有心房顫動(atrial fibrillation), 因突然嚴重腹痛 3 小時被送至急診,發作前她是在看電視。病人有 噁心及嘔吐,但發作前數小時有正常排便。平常用藥有 hydrochlorothiazide、enalapril 及 digoxin。就診時血壓為 88/64 mmHg, 心跳不規則,每分鐘約120次,體溫38.5℃,腹部有壓痛,腸蠕動 音降低(hypoactive bowel sound)。電腦斷層顯示脾臟附近腸壁水 腫且有空氣,其他無特殊發現。在急診患者有少量排便,有含血反 應。血清 amylase 及 lipase 只稍微增高,下列那一診斷方向最可能? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- 心房撲動 (atrial flutter, AF) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (a) Atrial fibrillation (Af): 臨床上相當常見,因心臟衰竭或二尖瓣狹窄導致心房擴大,造成心房肌肉容易放電,臨床上常以阻斷 AV node 的藥物,防止心室速率過快。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 
 ## Clinical Caveats
 

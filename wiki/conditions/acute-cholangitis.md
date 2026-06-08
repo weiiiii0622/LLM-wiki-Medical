@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Acute cholangitis (急性膽管炎)'
   - 'Acute cholangitis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-膽道阻塞合併感染，可出現 Charcot triad 或 Reynolds pentad。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽道阻塞合併感染，可出現 Charcot triad 或 Reynolds pentad。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- a. Charcot's triad:發燒與寒顫(chills)、右上腹部疼痛、黃疸,發生比率約佔50~70%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- b. Reynolds's pentad: Charcot's triad 再加上休克與意識改變,發生比率小於 10%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- 【詳解】Charcot's triad = 上腹痛+黃疸+發燒= Acute cholangitis。 為什麼會 cholangitis ? 不知道,所以要再安排腹部超音波做進一 步檢查。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - 1. 高血壓:占五成,高血壓使血管壁形成 Charcot-Bouchard's aneurysm,然後導致破裂出血。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - ...ing Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acut Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - #### C. Charcot-Marie-Tooth disease (CMT) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
@@ -49,7 +54,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/choledochal-cyst|Choledochal cyst (膽道囊腫)]]
 
 ## Follow-up
 

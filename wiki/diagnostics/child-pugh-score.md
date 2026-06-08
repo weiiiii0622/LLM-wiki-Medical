@@ -12,6 +12,8 @@ sources:
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch08]]"
 aliases:
   - 'Child-Pugh score (Child-Pugh 分級)'
   - 'Child-Pugh score'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch08]]
 
 ## Key Details From Sources
 
+- ...化患者,要有二種影像檢查皆具典型血管特徵 才能診斷為 HCC。 - b. 只有一種影像檢查能認定,合併甲型胎兒蛋白(AFP)大於 **200**,也可診斷 為 HCC,不須加做切片。 - c. 只有一種影像檢查能認定, AFP 肝硬化程度:Child-Pugh A。肝腫瘤:單顆、原位癌、2公分以下。治療:手術切除腫瘤。 | | Stage A-C | 日常生活功能:0~2級。肝硬化程度:Child-Pugh為 A-B,再依照病人的體能狀況、肝腫瘤顆數、有無黃疸、有無肝門高壓、肝門靜脈侵犯、淋巴轉移等去區分出 stageA-C。 | | Stage D | 日常生活功能:3~4級。肝硬化:Child-Pugh C。肝癌:只要有肝癌腫瘤,不管尺寸大小、腫瘤數目。治療:症狀治療(支持性療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (D) 病人的肝功能為 Child-Pugh class B Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - ...t; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直持續或加重。 - d. 動脈瘤破裂。 - e. 根據 Aortic Size Index(ASI = Aortic Diameter/Body Surface Area),如果病患 為 BSA 較小的女性 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 5. Any amputation in a child Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (A) 常跟虐兒(child abuse)有關,有時需要社工介入 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].

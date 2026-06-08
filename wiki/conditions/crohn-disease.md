@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch15]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Crohn disease (克隆氏症)'
   - 'Crohn disease'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med5-book2-ch11]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch15]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- (3) 危險因子 - a. 絨毛狀腺瘤 (villous adenoma) - b. 息肉症候群 (polyposis syndromes) - c. Crohn's disease - d. hereditary nonpolyposis colorectal cancer (HNPCC) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 發炎性腸炎泛指 Ulcerative Colitis(UC,潰瘍性結腸炎)和 Crohn's Disease(克隆氏症),他們在生理病理學或臨床症狀方面有些許異同之處,但約有 10~15% 的 IBD 病人無法明確定義為 Ulcerative Colitis 或 Crohn's Disease,而稱為 Indeterminate colitis。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 4. 抽菸與 Crohn's disease 正相關,和 UC 負相關。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - #### B. Ulcerative Colitis 和 Crohn's Disease 的比較 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
@@ -61,8 +65,6 @@ tags:
 - | | Vit B deficiency | Folic acid deficiency | |----------------------|---------------------|-----------------------| | 原因 | (1) 惡性貧血 | (1) 懷孕期間葉酸補充 | | | (2) Crohn's disease | (2) 使用 MTX | | | | (3)慢性溶血 | | | | (4) 酒精 | | Megaloblastic anemia | 是 | 是 | | 神經學症狀 | 舌炎、震動覺跟姿勢覺下降 | 無 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...Sjögren's syndrome, Hashimoto's thyroiditis | | | | Other systemic | Fanconi's syndrome, sickle cell anemia, diabetes, Crohn's disease, sarcoidosis, | | | | dz. | Guillain-Barré syndrome, Weber-Christian disease, angiofollicular lymph node hyperplasia | | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - | Crohn's disease (CD) | Ulcerative colitis (UC) | |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- ④有接受過闌尾切除手術(appendectomy),可以顯著降低發生潰瘍性大腸炎(ulcerative colitis)與克隆氏症(Crohn's disease)的風險 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- (C) 2. 關於 Ulcerative colitis 及 Crohn's disease 的比較,下列何者正確? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 
 ## Clinical Caveats
 
@@ -73,6 +75,7 @@ tags:
 
 - [[conditions/anal-fissure|Anal fissure (肛裂)]]
 - [[conditions/anorectal-abscess-fistula|Anorectal abscess and fistula (肛門直腸膿瘍與瘻管)]]
+- [[conditions/small-bowel-adenocarcinoma|Small bowel adenocarcinoma (小腸腺癌)]]
 
 ## Follow-up
 

@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch17]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Headache (頭痛)'
   - 'Headache'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,12 @@ tags:
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch17]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- ...) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- 【詳解】傾食症候群(Dumping syndrome)會出現腸胃道症狀 與心血管症狀如頭痛、心悸、潮紅、低血壓等等。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - b. 導管後型/成人型(Postductal/adult):窄縮處位於主動脈過動脈導管後,症狀和窄縮程度相關,股動脈脈搏微弱甚至完全消失,手腕脈搏強,上肢血壓高於下肢,且因為上半身血壓高,所以有頭痛、頭暈、流鼻血等症狀,甚至有中風的風險。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (3) 症狀:因狹窄程度及位置有所差異,在新生兒或嬰兒時期即有症狀,常因開放性動脈導管關閉所致,很快會出現餵食困難、呼吸困難、心率加快,甚至發紺休克或心臟衰竭。若嬰幼兒時期無症狀,則多在青年時期因量血壓發現血壓高而檢查得知。患者由於頭部及上肢血壓高,易有頭痛、暈眩或流鼻血等症狀。而下肢因血液流量少,股動脈脈搏薄弱,會有下肢冰冷、間歇性跛行或尿液減少等情形。另外因主動脈弓狹窄使近端血壓升高,左心室後負荷增大,會使左心室擴大,進一步引起鬱血性心臟衰竭。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 6. 處置: - (1) 藥物治療:90% 可以癒合 - a. 首要維持排便通暢,降低肛門內括約肌痙攣,故急性期多先給予軟便劑並教 導正確排便習慣。 - b. 溫水坐浴:使肛門內括約肌放鬆,增加局部血流加速肛裂癒合。 - c. 局部塗抹 glyceryl trinitrate (GTN) ointment (0.2~0.4%), 也是使肛門內括約 肌放鬆,增加局部血流加速肛裂癒合。不過會有頭痛的副作用。 - d. GTN 失敗時可考慮使用 diltiazem ointment、CCB 或注射肉毒桿菌至肛門內括約肌。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
@@ -79,8 +83,6 @@ tags:
 - Ⅱ. 原發性頭痛 58 - A. 緊縮型頭痛 (Tension headache) 59 - B. 偏頭痛 (Migraine) 59 - C. 叢發型頭痛 (Cluster headache) 60 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - Ⅲ. 次發性頭痛 61 - A. 造成腦膜刺激(Meningeal irritation)的頭痛 61 - B. 顱內壓太高、太低的頭痛:太高(IICP)、太低(腰椎穿刺後) 61 - C. 腦腫瘤 62 - D. 顳動脈血管炎(Temporal arteritis) 62 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...--------------------|-------------------------------------------------|------------------------------------------| | 原發性頭痛(Primary headache) | 緊縮型頭痛(最常見、但少考)偏頭痛(常見、也愛考)叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (B) 38. 相較其他中風類型,下列那一項是蜘蛛網膜下腔出血時最特殊之 99( ) 專 發病症狀? § 97 51 - (A) acute onset of neurological deficit - (B) abrupt onset of severe headache - (C) elevated blood pressure at onset - (D) fever at onset Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (D) 39. 一位 43 歲男性因右側眼眶周圍痛及頭痛合併流鼻水、流淚現象 99(-)專至急診室求診,這樣的頭痛在一年前也曾發生,當時兩星期內幾 醫四-68 乎每天頭痛數小時,後來就不曾發生類似狀況。其頭痛最可能的原因為: - (A) 偏頭痛 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

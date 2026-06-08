@@ -29,6 +29,12 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'Tumor staging (腫瘤分期)'
   - 'Tumor staging'
@@ -43,7 +49,7 @@ tags:
 
 ## Summary
 
-腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +78,25 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch24]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch23]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- #### (4) TNM staging: Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- | | N0 | N1 | N2 | N3 | |--------------|------|----------|------|------| | T1 | IA | IB | IIA | IIB | | T2 | IB | IIA | IIB | IIIA | | T3 | IIA | IIB | IIIA | IIIB | | T4a | IIB | IIIA | IIIB | IIIC | | T4b | IIIB | IIIB | IIIC | IIIC | | Any T, any N | • M1 | Stage IV | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (D) 胃癌的手術治療中,脾切除(splenectomy)是常規的步驟 【詳解】目前脾臟切除並不是胃癌手術的 routine。有些研究為了要拿更多的淋巴結,建議將脾臟拿下來,但目前仍建議 stage II 或 stage III 的胃癌不需做 elective splenectomy。除非是較廣泛的 tumor invasion,或有明顯的 spleen hilum lymphdemopathy。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- ...(inflammatory carcinoma)的敘述,何 | | | 者正確? | 醫五 -40 | | (A) 預後佳 | | | (B) 治療方式常須多管齊下,包括化學治療、放射線治療及手術治療 | | | (C) 在乳癌分期上,屬 TNM 系統的 T3 | | | (D) 這些患者常沒有腋下淋巴結轉移或全身其他器官轉移 | | | 【詳解】發炎性癌(inflammatory carcinoma)為 stage T4c,屬 | | | 於預後很差的乳癌類型,合併多處轉移,必須以多種方式治療。 | | | (C) 18. 下列那一項是乳癌最常見之早期症狀? | 100(二)專 | | (A) 乳房痛 | 醫五 -45 | | (B) 乳頭分泌物 | | | (C) 乳房硬塊 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- #### 4. TNM staging: Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- | Anatomic Sta | ge/Prognosti | c Groups | | |--------------|--------------|----------|----| | Stage 0 | Tis | N0 | M0 | | Stage IA | T1* | N0 | M0 | | Stage IB | T0 | N1mi | M0 | | | T1* | N1mi | M0 | | Stage IIA | T0 | N1** | M0 | | | T1* | N1** | M0 | | | T2 | N0 | M0 | | Stage IIB | T2 | N1 | M0 | | | T3 | N0 | M0 | Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- ...hypervascular 的 tumor。 (A) 4. 下列對於胰臟癌之敘述,何者並不適合? 107 (二) 專 (A) 胰臟癌好發於胰臟體部,其次為頭和迴溝處(uncinate process) 醫五 -31 或胰尾;預後與診斷時的腫瘤分期最有關聯 (B) 多層次細切片的電腦斷層為最符合效益的診斷工具,可以幫 忙診斷是否有轉移及能否手術 (C) 和其他壺腹周遭惡性腫瘤相比,胰臟癌的預後普遍較同期別 的惡性腫瘤為差 (D) 診斷性腹腔鏡可以協助確定是否有腹膜轉移或惡性腹水,對 於不確定是否可以切除的病患,建議進行 【詳解】胰臟癌好發於胰臟頭部,佔整體胰臟癌 60~70%。 (D) 5. 胰十二指腸切除手術(Whipple operation)切除的部分包含下列 107(二) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- ...American Joint Com | mittee on Cancer(AJCC)第六版的 | 99(二)專 | | | 分類,胰臟惡性腫瘤若達 T4 | (已侵犯胰臟附近的動脈),anyN | 醫五-48 | | | 及 M0,則其 stage 應為: | | | | | (A) IIA | (B) IIB | | | | (C) III | (D) IV | | | (D) 20. | . 對於胰臟惡性腫瘤的治療方法 | 去,下列何種治療較少使用? | 98(二)專 | | | (A) 手術 | (B) 化學 | 醫五 -39 | | | (C) 放射線 | (D) 免疫 | | | | | | | Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- ...能認定,合併甲型胎兒蛋白(AFP)大於 **200**,也可診斷 為 HCC,不須加做切片。 - c. 只有一種影像檢查能認定, AFP 肝硬化程度:Child-Pugh A。肝腫瘤:單顆、原位癌、2公分以下。治療:手術切除腫瘤。 | | Stage A-C | 日常生活功能:0~2級。肝硬化程度:Child-Pugh為 A-B,再依照病人的體能狀況、肝腫瘤顆數、有無黃疸、有無肝門高壓、肝門靜脈侵犯、淋巴轉移等去區分出 stageA-C。 | | Stage D | 日常生活功能:3~4級。肝硬化:Child-Pugh C。肝癌:只要有肝癌腫瘤,不管尺寸大小、腫瘤數目。治療:症狀治療(支持性療法)。 | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- ...脈提供了 25% 的血液及養分,但 HCC 大部份是藉由肝動脈血液快速成長,鮮少從肝門靜脈長出來。 - (b) 根據統計,動脈栓塞術可有效的造成廣泛性的腫瘤壞死。雖然不屬於治癒性治療,但可以改善病人的預後。 - b. 適應症:在 BCLC stage B 的病人,肝腫瘤尺寸較大或為多發性,但尚無血管 侵犯,動脈栓塞術為第一線的治療。 - c. 作法: - (a) 穿刺股動脈並將導管置入股動脈,再往上抵達腹主動脈幹後,繼續往前進入**肝動脈**。 - (b) 使用化學治療藥物如 Doxorubicin 或 Adriamycin 等藥物混合 Lipiodol 顯影 劑針對 HCC 灌注。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - #### C. 大腸直腸癌分期:影響之後的治療計畫和預後,常見的分期系統 為 TNM 和 Dukes classification。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (2) Stage B1: 侵犯至肌肉層。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (3) Stage B2:侵犯超過肌肉層甚至到達 visceral peritoneum 表面。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
@@ -83,16 +105,6 @@ tags:
 - Stage II: 骨盆腔、遠處腹腔內 (> 5 cm 或遠離原發憩室處)、後腹腔膿瘍 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - (1) 這是 stage II 薦部褥瘡,每兩小時勤翻身,睡氣墊床能夠預 防變壞發生 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - stage I - non-blanchable erythema of intact skin Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- stage II - partial-thickness loss of dermis, appearing as open ulcer with red-pink wound bed without slough or bruising Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- ...(D) 老人的 | 内局部皮瓣(local fla | ps)與年輕病患的局部皮瓣一樣可認 | 靠 | | (D) 13. 當褥瘡( | pressure ulcer)侵蝕 | 到肌肉及骨頭的時候屬於: | 105(一)專 | | (A) Stage | I | (B) Stage II | 醫五-18 | | (C) Stage | III | (D) Stage IV | | | 【詳解】 | Pressure sore 分期: | | | | stage I - r | on-blanchable erythe | ma of intact skin | | | stage II - | partial-thickness loss | of dermis, appearin Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- (A) 常見之 surgical indication 為 end-stage pulmonary vascular disease 以及 end-stage bronchopulmonary pathology Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (C) 10. 復發-緩解型之多發性硬化症(relapsing-remitting type of multiple sclerosis)病人在疾病緩解期(remitting stage)須接受治療以減 少疾病復發,下列那一項選擇為最不適當之藥物? Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...6. 高先生的太太觀察到高先生半夜起來走出房門,甚至打開冰箱取 107(二)專 用食物,家人呼喊也未能叫醒,隔天清晨高先生對於這些事情沒 醫四 -67 有印象,這種情形發生在睡眠的那一期? (A) 非快速動眼期的第一期(non-REM, stage I) (B) 非快速動眼期的第二期 (non-REM, stage II) (C) 非快速動眼期的第三、四期(non-REM, stages III & IV) (D) 快速動眼期(REM) 【詳解】夢遊 sleep walking disorder 通常發生在NREM的 stage 3, Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- (D) 7.「做夢 (dreaming)」主要出現在下列那一個睡眠週期? 107(二)專 (A) stage I 醫四 -74 (B) stage II (C) stage III (D) 快速動眼期睡眠(REM sleep) (C) 8. 夢遊症(sleepwalking disorder)通常發生在睡眠腦波圖(EEG) 105(二)專 的那一個時期? 醫四 -68 (A) stage I (B) stage II (C) stage III & IV (D) REM(rapid eye movement)sleep (A) 9. 下列何者 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- (C) 34. 根據佛洛依德的心性發展(psychosexual development)理論,在 3~5 歲的幼童處於那一個發展階段? - (A) 口慾期 (oral stage) - (B) 肛門期 (anal stage) - (C) 性蕾期 (phallic stage) - (D) 潛伏期 (latency stage) Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- ...ers) (B) 酒精戒斷症候群包括:手抖、焦慮、噁心、幻覺及癲癇發作 等 - (C) 酒精戒斷症候群治療首選為 benzodiazepines - (D) 使用酒精可幫助入眠,減少睡眠中斷,增加快速動眼期睡眠 (REM sleep) 及 stage 4 sleep Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 【詳解】(D) 酒精會增加睡眠中斷,減少快速動眼期睡眠(REM sleep)及 stage 4 sleep(深層睡眠)。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- ### Melanoma TNM Classification Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Behavior change counseling (行為改變諮商)'
   - 'Behavior change counseling'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-以動機與階段評估協助戒菸、飲食、運動等健康行為改變。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以動機與階段評估協助戒菸、飲食、運動等健康行為改變。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- (B) 1. 有關肝性腦病變(hepatic encephalopathy)的敘述,下列何者錯誤? 108( 二) 專 - (A) 臨床症狀可以是行為改變或手部顫動 (flapping tremor) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 在美國,65歲以上的老人失智症的盛行率為20%,失智症會表現出許多大腦功能的缺損,如認知、記憶力、語言、視覺空間能力等,也可能會出現如情緒激躁、晚上四處遊蕩、脾氣易怒、突發暴力、衝動控制力不佳、睡眠障礙等行為改變,更嚴重可能會出現精神症狀,如幻覺、妄想等。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 4. 併發症:在過去病人未開刀時,常有併發症產生。現今病人多在一歲內手術矯正, 併發症發生機會大幅下降。常見併發症如下: - (1) 腦血管栓塞:通常發生部位在 cerebral veins、dural sinus。偶爾在動脈也會有血栓產生。血管栓塞好發年紀在 2 歲以下,常因 polycythemia 與 dehydration 造成。 - (2) 腦部膿瘍:好發機率不若腦血管栓塞,好發年紀多在2歲以上。臨床上常以低度發燒或是逐漸行為改變這兩者為表現。有時病人也會出現頭痛、頭暈、噁心、嘔吐甚至癲癇發作。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...(請參考 First Choice 內科學): - (1) 內在路徑: factor 12, 11, 9, 10。 - (2) 外在路徑: factor 7, tissue factor。 - (3) 共同路徑: factor 10a, 5a, 2, 1。 - (4) 記法: EX-PresidenT K went to WAR. (Extrinsic, PT, Vit K, Warfarin)。 - (5) 特殊因子: - a. Factor 7 是半衰期最短的因子。 - b. Factor 8 是唯一不由肝臟製造的因子。 - c. Factor 13 缺乏時無法由 PT/PTT 測得。 - d. Vit K dependent 的因子:factor 2, 7, 9, 1 Source: [[sources/med4-book1-ch08|辛、血液學]].

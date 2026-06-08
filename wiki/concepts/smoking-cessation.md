@@ -41,6 +41,9 @@ sources:
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch22]]"
 aliases:
   - 'Smoking cessation (戒菸)'
   - 'Smoking cessation'
@@ -55,7 +58,7 @@ tags:
 
 ## Summary
 
-心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +99,15 @@ tags:
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book3-ch03]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch22]]
 
 ## Key Details From Sources
 
+- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (A) 5.55 歲男性,酗酒抽菸超過10年,斷斷續續嚴重腹痛,也會痛到 104(二)專 背後,電腦斷層如下,則此病人目前最可能的診斷及症狀發生的 醫五-52 原因為何? Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- ...詳解】粗針切片病理為非典型腺管增生的病人,約有 1/3 為惡 | | | 性,須以 surgical biopsy 的方式將病灶切除進行 biopsy 作確診。 | | | (B) 6.35 歲女性,來診主訴無痛性乳頭出血性分泌,病人過去無抽菸 101(ニ) | 專 | | 喝酒習慣,沒有懷孕過往史,理學檢查無可觸摸腫瘤,腋下無淋 醫五-7 | | | 巴結腫大,以下何者是最可能的診斷? | | | (A) Paget's disease | | | (B) intraductal papilloma | | | (C) ductal carcinoma | | | (D) fibrocystic disease | | | 【詳解】關鍵字為無痛性乳頭出血性分泌,考慮 int Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - 2. 危險因子:糖尿病、高血壓、高膽固醇、高三酸甘油酯、高胱胺酸血症、抽菸、老年、男性、家族史。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 【 詳解 】有 pain、pale、pulseless 等 6 P 症狀,輔以病人的 underlying ( 高血壓、抽菸 ),懷疑是急性動脈阻塞,此時首選 即為 embolectomy 或 thrombectomy。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
@@ -114,9 +123,6 @@ tags:
 - 3. 物質濫用:抽菸、喝酒、古柯鹼。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - 2. 藥廳,注意抽菸並不會增加 ICH 的機率。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - (D) 9. 在尼古丁的戒瘾治療中,下列那種治療方式成效最好? 108(一)專 (A) 病人自己靠意志力戒除 醫四 -67 (B) 醫生建議病人戒除 (C) 使用尼古丁貼片或口香糖 (D) 使用戒菸藥物併用團體治療 (C) 10. 一位 61 歲男性長期使用 diazepam 每天 50~60 毫克達 15 年,若立 108(一)專 即停止服用後,下列何者為最正確的描述? 醫四 -69 (A) 心搏變慢 (B) 戒斷症狀不會在停用 5 天後才出現 (C) 抽搐發作為較嚴重之戒斷症狀 (D) 戒斷症狀不致於產生譫妄 【詳解】diazepam 屬於 BZD 鎮定劑,因此戒斷症狀會類似酒精 戒斷症狀,所以會:(A)心搏變快,(B)停用2 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- (B) 12. 當戒菸治療的取代療法 (replacement therapy) 失敗,可以考慮 下列那一種藥物? Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 【詳解】Bupropion可以被拿來做戒菸的二線治療藥物。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- (4) 保持肢體溫暖、少抽菸以改善雷諾氏現象;CCB、ACEI、及 vasodilator 的使用可防止指尖或皮膚的潰瘍。ACEI對於硬皮症腎臟侵犯的治療也佔有重要的角色。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

@@ -34,6 +34,22 @@ sources:
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book3-ch14]]"
+  - "[[sources/med5-book3-ch15]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book3-ch04]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch10]]"
+  - "[[sources/med5-book3-ch17]]"
 aliases:
   - 'Biliary tract (膽道系統)'
   - 'Biliary tract'
@@ -48,7 +64,7 @@ tags:
 
 ## Summary
 
-膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +98,35 @@ tags:
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book3-ch14]]
+- [[sources/med5-book3-ch15]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch08]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch12]]
+- [[sources/med5-book3-ch16]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch01]]
+- [[sources/med5-book3-ch04]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch10]]
+- [[sources/med5-book3-ch17]]
 
 ## Key Details From Sources
 
+- #### 丙、急性非結石性膽囊炎(Acute Acalculous Cholecystitis) Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
+- 1. 根據統計,將近 90% 的急性膽囊炎患者伴隨結石的存在,急性非結石性膽囊炎只 佔所有患者的 2~15%。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
+- 2. 在臨床上,急性非結石性膽囊炎發生原因主要與膽囊缺血、膽汁淤積相關。 - (1) 膽囊缺血:大面積燒傷、多重外傷、重度感染、重大手術術後、急性心肌梗塞 患者等疾病,這些患者都容易低血壓、休克或心衰竭,導致膽囊壁的供血不足。 - (2) 膽汁淤積:患者因感染體溫上升或脫水,使得膽汁黏稠度增高,淤積於膽囊,造成膽囊發炎。一旦膽囊持續因缺血而缺氧,很容易造成 gangrene 的變化,甚至造成膽囊的 perforation 而致死。因此急性非結石性膽囊炎可做為判定多重器官衰竭預後不佳的早期徵兆。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
+- #### 丁、膽道囊腫(Choledochal Cyst) Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
+- 1. 為一種先天性肝內或肝外膽道的異常,出現囊狀的擴張(cystic dilation)。 Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
+- 1. Type I:最常見(60~70%)。可見局部或全部的總膽管擴張,但是肝內膽管不受影響。 Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
+- ...Black stone:由膽色素、磷酸鈣等組成,較為堅硬,顏色深黑。好發於 Cirrhosis、hemolysis 的病人。 - (b) Brown stone (也可稱為 mixed stone):由膽固醇、膽色素、磷酸鈣所混合組成。與膽道感染(K.P infection)息息相關。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- 2. 治療:若為無症狀的膽結石,不需要做預防性的膽囊切除。但以下兩種情形必須做 預防性膽囊切除。 - (1) 膽囊壁鈣化 (gallbladder wall calcification): 由於慢性發炎,導致膽囊壁鈣化, 在影像學上又稱為**陶瓷膽囊** (**Porcelain gallbladder**)。在這種狀況容易有癌化 的產生,必須積極處理。 - (2) 幼童膽結石:小朋友的身上意外發現膽結石時,由於小朋友比較不會表達自己身上的疼痛,可考慮進行膽囊切除。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- (2) Quality:以膽絞痛(biliary colic)為主要疼痛表現。由於結石卡在膽囊內或膽管中,當膽汁經過膽管排出時,受到結石的阻礙,引起膽囊與膽管不斷的收縮摩擦,導致絞痛。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- 1. 解剖學上,可利用動、靜脈與肝管在肝臟內形成的自然界限,分為三個 divisions。 - (1) First divisions:左右兩半 (hemilivers)。 - a. 左右兩葉由膽囊窩(gallbladder fossa) 與下腔靜脈 (inferior vena cava)所分割而成。這條界線又可稱 之為 Cantlie's line, 走向約與 middle hepatic vein 一致。 - b. 左右兩葉各由一條肝臟動脈 (hepatic arterial branch)、膽管 (bile duct), 與門靜脈 (portal vein) 所支配。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - ...泌尿道的手術 例如:割雙眼皮、甲狀腺切除、乳房切除 | | Class II | Clean-contaminatedwounds | 1. 進入呼吸道、消化道或生殖泌尿道但無特殊感染的手術傷口2. 手術過程中無明顯汙染3. 例如:無感染性膽道或闌尾手術、Hysterectomy、Gastrectomy | | Class III | Contaminated | 開放性、新的、外傷傷口 胃腸道內含物溢出或手術過程中有些微感染者 有急性發炎但未化膿 | | Class IV | Dirty or infected wounds | 舊的、有壞死組織的外傷口 內臟穿孔 已有感染化膿的傷口 | Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (1) 先天性膽道閉鎖(biliary atresia),是小兒換肝最常見的原因。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (6) 原發性膽汁性肝硬化 (primary biliary cirrhosis)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -93,16 +135,6 @@ tags:
 - (B) 膽囊管 (cystic duct) Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - (C) 膽囊動脈 (cystic artery) Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - ...drome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- ...rder)治療藥物之敘述,下列何者錯誤? (A) lithium 在懷孕婦女身上所造成畸胎性,最常見 Ebstein 氏三尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(man Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- VI. 肝膽疾病 79 - A. 肝功能異常 79 - B. 先天性膽道閉鎖 80 - C. 門脈高壓 81 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃炎 | 7. 外傷 | | 3. 骨盆發炎疾病 | 8. 懷孕 | | 4. 消化道潰瘍 | 9. 風濕性疾病 | | 5. 膽囊炎 | 10. 身心症 | | マ・ルラ 孝を少へ | 10. 2 . n./ir | Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 2. Alkaline phosphatase (AP) - (1) Alkaline phosphatase 在許多器官可以被發現,最常見為骨骼、肝臟、小腸以及 胎盤。其常被用來評估肝膽系統疾病或是骨骼相關疾病。 - (2) 當發生 biliary obstruction 或 cholestasis,則 alkaline phosphate 會升高。若是伴隨 direct bilirubin 上升,大大暗示著 biliary obstruction 或 cholestasis。 - (3) 在 Wilson disease 或 hypothyroidism, alkaline phosphatase level 則是會降低的。 - (4) 若是伴隨 γ-GT 的上升,暗示著 al Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (4) 若黃疸持續兩週以上,考慮檢查直接型膽紅素以及評估是否有膽道閉鎖的可能。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 【詳解】一個月大的嬰兒仍出現黃疸,應該優先考慮代謝問題 或是先天性解剖構造問題(ex:先天性膽道閉鎖),進而安排檢 查,而非單純停止母乳哺餵。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...接型膽紅素(unconjugated 105(一)專 bilirubin) 沈積在下列何處? 醫四 -3 (B) 基底核 (A) 腦膜 (D) 腦室旁 (C) 小腦 (B) 7. 下列何者不是造成延遲性黃疸之原因? 104(二)專 (A) 膽道阻塞 醫四-7 (B) 配方奶哺育 (C) 泌尿道感染 (D) 甲狀腺低下症 (B) 8. 一位足月男嬰出生時很順利,但是第三天大時開始出現黃疸,下 104( - )專 列那一項最不可能是此嬰兒的黃疸原因? 醫四 -8 (A) 生理性黃疸 (B) Rh 血型不合 (C) 哺育母乳黃疸 (D) 泌尿道感染 【詳解】第三天開始出現黃疸為生理性黃疸,因此(A)(C)直接 不選。(B)(D) 雖然是病理性黃疸,但是 RH 血型不合產生溶血 引起 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...iac disease、short bowel syndrome、cystic fibrosis、inflammatory bowel disease and gastric bypass surgery。 - c. 肝膽相關疾病:如先天性膽道閉鎖。 - d. 腎臟疾病:如 nephrotic syndrome、renal 1-alpha hydroxylase deficiency (造成 1,25(OH)2 D 缺乏,即 vitamin D dependent rickets type I)。 - e. 藥物: anticonvulsants、glucocorticoids、cholestyramine。 - f. 缺乏照射陽光或肥胖。 - (2) End-organ 對 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...Jo-1 | PM (ILD ↑ *) | | | | | | Anti-smooth muscle | Autoimmune hepatitis | | (細胞質 | ) | | Anti-mitochondrion | Primary biliary cirrhosis | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...nt cell arteritis),常與下列何種疾病共同發生? (A) rheumatoid arthritis (B) Sjögren's syndrome (C) polymyalgia rheumatica (D) primary biliary cirrhosis | 104(二)專醫三-35 | Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 
@@ -111,7 +143,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/cholangiocarcinoma|Cholangiocarcinoma (膽管癌)]]
 
 ## Follow-up
 

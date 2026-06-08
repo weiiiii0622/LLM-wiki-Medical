@@ -36,6 +36,7 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book3-ch07]]"
 aliases:
   - 'HIV infection (人類免疫不全病毒感染)'
   - 'HIV infection'
@@ -50,7 +51,7 @@ tags:
 
 ## Summary
 
-HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +87,11 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book3-ch07]]
 
 ## Key Details From Sources
 
+- 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - ...immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...髓炎歸類為無法控制的感染,故為禁忌症。 | | | (B) 19 | . 下列有關主要組織相容性複合體(major histocompatibility)之敘 | 99(二)專 | | | 述,何者錯誤? | 醫五-3 | | | (A) CD4+T細胞可辨認結合第二類 MHC 分子的胜肽 | | | | (B) CD8+T細胞為第二類 MHC 限制性 | | | | (C) MHC 分子的生理功能是將胜肽呈獻給 T 細胞 | | | | (D) 人類的 MHC 分子稱為人類白血球抗原(HLA) | | | (C) 20 | 下列有關各種較易發生於器官移植病患之惡性腫瘤的敘述,何者 | 99(二)專 | | | 錯誤? | 醫五-18 | | | (A) 較易發生 malign Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -106,7 +109,6 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - 【詳解】(A) 乾癬沒有分第幾型的說法;(C) 所敘述疾病為異位性皮膚炎,乾癬反而 β-defensin 和 LL37 的濃度升高與疾病相關。(D) HIV 患者的乾癬盛行率是大於一般民眾的乾癬盛行率,且HIV 患者的乾癬多較嚴重且預後不好,治療也比較棘手,因為嚴重乾癬需使用免疫抑制劑,但 HIV 患者的免疫本來就不全了,因此更增添治療的挑戰性。不過選 (D) 沒有給分。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - 8. HIV nephropathy Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 先天的感染如 syphilis 或 HIV 可以造成此種情況 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【詳解】出生後三個月內若發生 nephrotic syndrome,則診斷為 先天性腎病症候群(congenital nephrotic syndrome)。其中最 常見的是 Finnish type congenital nephrotic syndrome(位在第 19 對染色體上的 NPHS1 gene 發生突變,影響 nephrin 製造), 類固醇或是免疫抑制劑治療無效,病人約在 5 歲左右死亡。此 外,syphilis、toxoplasmosis、rubella、cytomegalovirus、HIV、 hepatitis B 感染都有可能造成先天性腎病症候群。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

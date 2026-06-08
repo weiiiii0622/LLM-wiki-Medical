@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med5-book3-ch13]]"
 aliases:
   - 'Fluoroquinolones (氟喹諾酮類)'
   - 'Fluoroquinolones'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book4-ch27]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med5-book3-ch13]]
 
 ## Key Details From Sources
 
+- (4) 治療:要看病人到底是什麼樣子的原因導致膽管炎,針對此 underlying 進行 治療。 - a. 80% 病人可經由保守性治療治癒,使用廣效性抗生素(ampicillin + gentamycin/levofloxacin+/- metronidazole)治療即可。 - b. 20%的病人需要進行膽道減壓手術,包含經由ERCP取石術,或是經由PTCD引流,或是手術緩解阻塞原因。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - | Nelson Textbook of Pediatrics 21 th Edition Table 428.6 | |-------------------------------------------------------------------------------------------------------------| | Age | | | Tetracyclines* | 2° 或 3° cephalosporins | | | | Fluoroquinolone | Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) 11. 一位 52 歲患有高血壓並服用藥物的男性,計畫到印度鄉下去旅游 106(-)專 七天,若您要給他建議,下列何者不適當? 醫三-69 (A) 高血壓藥可以不帶,因旅遊時間只有七天 (B) 自備 ciprofloxacin 以治療旅程中可能發生的旅遊者腹瀉或泌尿 道感染 (C) 攜帶一些消炎止痛藥及抗組織胺以備不時之需 (D) 飲食必需煮熟,煮開,剝皮,否則就不要吃 (C) 12. 依據 2005 年 Starfield 等人的研究報告,美國地區每 10,000 人口多增 105(二)專 加一位家庭醫師,對死亡人數的影響為何? 醫三-66 (A) 每 100,000 人口增加 700 人死亡 (B) 每 100,000 人口增加 70 人死亡 (C) 每 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...無下列情形 | Clarithromycin, Azithromycin | | | CAP | 無卜列情形3個月內曾使用過抗生素 | | | | CAP | 當地 Macrolide resistance to S.P. > 25% | Moxifloxacin 或 | | | Comorbidity CAP | | Augmentin+ Clarithromycin, Azithromycin | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

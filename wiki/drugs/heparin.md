@@ -30,6 +30,7 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Heparin (肝素)'
   - 'Heparin'
@@ -44,7 +45,7 @@ tags:
 
 ## Summary
 
-ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +75,12 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch27]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- | | Hb | Platelet | PT | aPTT | |-----|---------|----------|----------|-------| | 張奶奶 | 10.2 | 40 | 16.2 | 36.4 | | 正常值 | 13.5~17 | 138~353 | 9.4~12.5 | 26~38 | | 單位 | g/dL | 10^3/mL | sec | sec | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (B) 6. 36 歲男性病人,因長期應酬,每日平均喝半瓶烈酒已十年,近日 101( 二) 專 因身體倦怠,食慾不佳,臉色發黃而住院,住院後發現總膽紅素 醫五 -4 高至 22 mg/dL,ALT 高至 226 U/L,AST 高至 282 U/L,GGT 高至 388 U/L,凝血機能 PT 延長大於 4 秒,INR 為 1.59,aPTT 比正常值稍高,以下何者為最適當之處置? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 5. 治療: - (1) 穿彈性襪 (compression therapy)。 - (2) 先使用 heparin 維持 INR 2~3, 之後改用 Warfarin 維持,至少吃三個月到六個月,如果復發則建議吃終身。 - (3) 靜脈血栓清除術(venous thrombectomy): 以導管進入阳塞的靜脈清除血栓。 - (4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - ①同時合併靜脈注射肝素(unfractionated heparin)及口服 warfarin Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - ②靜脈注射 80 U/kg 肝素, 然後 15~18 U/kg/hour 持續靜脈滴注 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
@@ -93,8 +97,6 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - | 分類 | 病程 | 意義 | |---------------------------------|------------------|---------------| | 暫時性腦缺血 | 定義為24小時內恢復,且無 | 中風的警訊, | | (Transient ischemic attack=TIA) | 任何後遺症 | 需積極 Survey、預防 | | 完成性腦中風 | 頸動脈於24小時後,基底動 | 給抗凝劑反而易出血 | | (Complete stroke) | 脈於 72 小時後病況穩定 | 宜保守治療 | | 進行性腦中風 | 頸動脈於 24 小時後,基底動脈 | 考慮使用 Heparin | | (Stroke in evolution) | 於 72 小時後病況仍持續進展 | | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - # D. Warfarin 和 heparin Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (1) Initial: heparin 75 U/kg, IVD for 10 mins • Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (2) Maintanance: 20 U/kg/hr, q4h check PTT, keep aPTT: 60~80 secs 五天。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 5. Prothrombin time (PT) - (1) 與白蛋白相同,用來評估肝臟合成功能的指標。 - (2) 除了 factor VIII 以外,其餘凝血因子均由肝臟製造。因此發生嚴重的肝功能受損時,除了 PT 延長以外, aPTT 亦會延長。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

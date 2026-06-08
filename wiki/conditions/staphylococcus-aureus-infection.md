@@ -25,6 +25,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book3-ch22]]"
 aliases:
   - 'Staphylococcus aureus infection (金黃色葡萄球菌感染)'
   - 'Staphylococcus aureus infection'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,14 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book2-ch05]]
+- [[sources/med5-book3-ch09]]
+- [[sources/med5-book3-ch22]]
 
 ## Key Details From Sources
 
+- 1. 細菌性肝膿瘍:細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumonia),除此之外,大腸桿菌、金黃色葡萄球菌也是常見的致病菌種。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- (C) 最常見的致病菌為 Staphylococcus aureus Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- 1. 哺乳乳腺炎 (Lactational mastitis): - (1) 前言:是一種乳房組織的感染發炎現象, Staphylococcus aureus 為主要的致病菌。 好發於哺乳的婦女,但並非絕對。 - (2) 症狀: - a. 發燒、畏寒。 - b. 乳房的紅、腫、熱、痛。 - c. 乳頭分泌物較不常見。 - d. 腋下水腫與疼痛,與 lymphadenopathy 相關。 - (3) 治療: - a. 抗生素治療 - b. 可增加哺乳或母乳收集的頻率,可達到症狀緩解的效果。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - 1. 急性心內膜炎:病情較惡,病人大多無潛在性心臟病灶,常見致病菌為 S. aureus、Streptococcus pyogenes、Streptococcus pneumoniae、Pseudomonas aeruginosa。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture 長出何種細菌,則會被認為是 antibiotic associated colitis? (A) Clostridium difficile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - 100(一)專醫五-11 | | (D) 22. 承上題,此時會選擇何種藥物治療? (A) 注射 clindamycin | 100(一)專醫五-12 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -82,9 +89,6 @@ tags:
 - (B) 1. 未規則產檢的媽媽急產,其新生兒因呼吸窘迫住院,細菌室通知 108(二)專 血液培養長革蘭氏陽性球菌,下列何者為最可能造成此新生兒敗 醫四-4 血症的細菌? - (A) Staphylococcus aureus - (B) Streptococcus agalactiae - (C) Escherichia coli - (D) Listeria monocytogenes Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...,給予 amoxicillin 40 mg/kg/day 治療 3 天之後,仍然持續發燒,於是改 用 amoxicillin 90 mg/kg/day,體溫隨即回復正常。下列四種細菌 之中,那一種最符合該男童中耳炎的治療反應? - (A) Staphylococcus aureus - (B) Streptococcus pneumoniae - (C) Haemophilus influenzae - (D) Moraxella catarrhalis - 【詳解】(A) 不是急性中耳炎常見的病原體故不選。(D) 因為對 amoxicillin 有 100% 的抗藥性也因此不選。Nelson's Textbook of Pediatrics 20th Edition 中提到 *H. influenza* 雖然抗 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 2. 慢性鼻竇炎可能有 Staphylococcus aureus 感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 1. 侵犯胸腔 (thoracic cavity): pleural effusion `empyema and pericarditis ·其中 S. aureus `S. pneumoniae 以及 S. pyogenes 是造成 pleural effusion 或是 empyema 最常見的細菌 。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (1) **Viridans-type streptococci**(α-hemolytic streptococci)與 *Staphylococcus aureus* 為 最常見。此外 Group D streptococcus (*S. bovis* or *S. faecalis*) 亦是常見病原體。 - a. Viridians group streptococcal infection (*Streptococcus mutans*, *S. sanguinis*, *S. mitis*) 常見於牙科侵入性治療後。 - b. Staphylococcus aureus 是第二常見的細菌。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (4) 若有裝置人工瓣膜,感染病原體要考慮以下菌種:Staphylococcus epidermidis、 Staphylococcus aureus、Viridans group streptococcus、Pseudomonas aeruginosa、 Serratia marcescens、 Diphtheroids、Legionella spp.、HACEK group 以及 Fungi。 PS: HACEK group:Haemophilus species, Aggregatibacter species, Cardiobacterium hominis, Eikenella corrodens, and Kingella species. Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 
@@ -94,6 +98,7 @@ tags:
 ## Related Pages
 
 - [[conditions/impetigo|Impetigo (膿痂疹)]]
+- [[conditions/mastitis|Mastitis (乳腺炎)]]
 - [[conditions/staphylococcal-scalded-skin-syndrome|Staphylococcal scalded skin syndrome, SSSS (葡萄球菌性燙傷樣皮膚症候群)]]
 - [[conditions/toxic-shock-syndrome|Toxic shock syndrome, TSS (中毒性休克症候群)]]
 

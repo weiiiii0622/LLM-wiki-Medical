@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Hypocalcemia (低血鈣)'
   - 'Hypocalcemia'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- ...emia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以低血鈣來做表現。 | | | (D) | 2. 急性胰臟炎局部合併症中,下列何者最不常見? | 105(二)專 | | | (A) pancreatic phlegmon | 醫五 -34 | | | (B) pancreatic abscess | | | | (C) pancreatic pseudocyst | | | | (D) renal artery thrombosis | | | (C) | 3. 王先生因為急性胰臟炎入院,下 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - #### 2. Transient hypocalcemia: Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (1) 術中傷及副甲狀腺而引起暫時性低血鈣,通常發生在術後 24~48 小時。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 2. 次發性 (Secondary HPT): Ca ↓ => PTH ↑ - (1) 慢性腎衰竭,腎排磷受阻造成高血磷,使得鈣磷沉積,造成低血鈣;vitamin D 缺乏影響到腸子以及腎臟對鈣的再吸收,低血鈣接著引起 PTH 的分泌。次發性 HPT 也見於骨軟化症(Osteomalacia)及小腸吸收不良(Intestinal malabsorption)。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -76,7 +79,6 @@ tags:
 - 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 檢驗 Ca、P、Mg、腎功能(要排除腎功能低下造成低血鈣)、Albumin(白蛋白 過低會造成假性低血鈣,故判斷鈣離子是否正常須同時檢驗白蛋白做矯正)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (1) 當低血鈣引發抽搐時,使用 10% calcium gluconate 以 0.5~1 mL/min 速率滴注,同時監測心臟;快速輸注 calcium gluconate 時可能出現 bradycardia 或 arrhythmia。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

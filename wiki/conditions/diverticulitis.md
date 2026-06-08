@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch19]]"
   - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book3-ch09]]"
 aliases:
   - 'Diverticulitis (憩室炎)'
   - 'Diverticulitis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-憩室發炎感染造成腹痛、發燒與局部腹膜刺激，併發症可包含膿瘍、穿孔、瘻管或阻塞。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+憩室發炎感染造成腹痛、發燒與局部腹膜刺激，併發症可包含膿瘍、穿孔、瘻管或阻塞。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch19]]
 - [[sources/med5-book2-ch18]]
+- [[sources/med5-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...iary stasis,致病菌會經由膽管逆流而上形成膽管炎, 再往上進入肝臟就有可能形成肝膿瘍。 - (2) 肝門靜脈: 肝門靜脈收集來自腸胃道的血液後, 匯集於肝臟, 因此與腸胃道感染相關的病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - 3. 在西方國家乙狀結腸憩室最常見,因其管徑小但管內壓大,容易將黏膜往外擠出。 而在亞洲國家,右側結腸憩室炎的盛行率偏高。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - 5. 大腸憩室的併發症主要為憩室出血(diverticular hemorrhage) 和憩室炎(diverticulitis),其它較少見併發症為膿瘍(abscess)、廣泛性腹膜炎(generalized peritonitis)、瘻管(fistulization)、腸阻塞(obstruction)。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - 1. 特色: 憩室發炎,假使憩室破裂使糞便流出會造成憩室周炎(peridiverticulitis)甚至腹膜炎。約佔大腸憩室病人中 10~25% 的發生率。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].

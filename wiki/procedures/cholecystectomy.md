@@ -6,6 +6,9 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch20]]"
   - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch12]]"
 aliases:
   - 'Cholecystectomy (膽囊切除術)'
   - 'Cholecystectomy'
@@ -20,15 +23,24 @@ tags:
 
 ## Summary
 
-症狀性膽結石或急性膽囊炎常見手術治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+症狀性膽結石或急性膽囊炎常見手術治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch20]]
 - [[sources/med5-book1-ch09]]
+- [[sources/med5-book3-ch18]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch12]]
 
 ## Key Details From Sources
 
+- (B) 6. 承上題,此病人後續的檢查也發現主胰管(main pancreatic duct) 104(二)專 徑大於 1 公分,如果選擇開刀治療,針對這病人最可能採取下列 醫五-53 何種手術方式? - (A) 惠普式手術 (Whipple operation) - (B) Puestow 手術並清除主胰管內結石 - (C) 膽囊切除術 - (D) 引流管置放引流術 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- ...(二)專 | | 性囊腫(pseudocyst)或膽石症(cholelithiasis),內視鏡逆行性 | 醫五 -32 | | 膽道胰管攝影(ERCP)發現胰管擴張並且有多處狹窄,則下列 | | | 何種術式最適當? | | | (A) cholecystectomy | | | (B) splenectomy | | | (C) distal pancreatectomy | | | (D) pancreaticojejunostomy (Puestow) | | | (D) 12. 35 歲男性,主訴飽餐後突發性腹痛,直達背部。疼痛持續而嚴 | 101(一)專 | | 重,伴隨嘔吐的症狀。病人吐後無法減輕症狀,但將身體前傾 | 醫五-2 | | 症狀可稍有改善。理學檢查發現病人體溫 38℃,上腹 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 2. 治療:若為無症狀的膽結石,不需要做預防性的膽囊切除。但以下兩種情形必須做 預防性膽囊切除。 - (1) 膽囊壁鈣化 (gallbladder wall calcification): 由於慢性發炎,導致膽囊壁鈣化, 在影像學上又稱為**陶瓷膽囊** (**Porcelain gallbladder**)。在這種狀況容易有癌化 的產生,必須積極處理。 - (2) 幼童膽結石:小朋友的身上意外發現膽結石時,由於小朋友比較不會表達自己身上的疼痛,可考慮進行膽囊切除。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- (1) 外科治療:若病人已經出現疼痛影響生活,建議直接進行膽囊切除術,這是最有效預防膽結石再復發以及併發症發生的方法。根據統計,約90%的病人經過膽囊切除術後其腹部疼痛的症狀完全消失。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- (6) 急性膽囊炎之治療: - a. 前言:什麼時間點該進行膽囊切除術在不同外科醫師具有不同的論點。日本人提出了 **Tokyo guideline** 去幫助我們進一步的將膽囊炎分級,以決定治療的方式,在 2018 年也出了新的 Tokyo guideline。 - b. 分級: Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- 2. 肝膽系統中有兩個解剖三角形,其一是卡洛氏三角,其二是肝膽三角。 - (1) 卡洛氏三角 (Calot's triangle): - a. 右圖可見是由 liver bed、CD、CHD 三者所組成。 - (a) CD: Cystic duct • - (b) CHD: Common hepatic duct • - b. 卡洛氏三角是一個臨床上重要的解剖 位置。在進行膽囊切除術時,要在該 三角內辨認出膽囊動脈並加以截斷。 並且要保護較粗的右肝動脈避免受 傷,導致右半肝臟的缺血。 - c. 膽囊動脈常出現變異,必須特別注意。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - (C) 1. 正確分辨 Calot's triangle 是降低腹腔鏡膽囊切除手術併發症的重要關鍵,其構成邊界不含下列何項? Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - 【詳解】Calot's triangle 是由總肝管(common hepatic duct)、膽管(cystic duct)和膽囊動脈(cystic artery)圍成的三角形,藉由三角型三個邊的對應關係以利於膽囊切除中找出膽囊動脈將其截斷。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - (C) 手術中由單一切口腹腔鏡膽囊手術轉換成傳統腹腔鏡膽囊切除手術的比率(conversion rate)文獻報告約為 0~24% Source: [[sources/med5-book1-ch09|壬、內視鏡]].
@@ -42,7 +54,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/acute-acalculous-cholecystitis|Acute acalculous cholecystitis (急性非結石性膽囊炎)]]
+- [[conditions/gallbladder-cancer|Gallbladder cancer (膽囊癌)]]
 
 ## Follow-up
 

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book3-ch18]]"
 aliases:
   - 'Oral glucose tolerance test, OGTT (口服葡萄糖耐受試驗)'
   - 'Oral glucose tolerance test, OGTT'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-用於診斷糖尿病、糖尿病前期與妊娠糖尿病。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於診斷糖尿病、糖尿病前期與妊娠糖尿病。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch09]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book3-ch18]]
 
 ## Key Details From Sources
 
+- 2. 口服葡萄糖耐受試驗(OGTT):用來檢查是否為第一型糖尿病。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - (1) 血糖相關檢測:空腹血糖值、口服葡萄糖耐受性試驗(OGTT)、糖化血色素 (HbA1c)。 - a. OGTT:以 1.75 g/kg (max: 75 g) 葡萄糖水口服後 2 小時抽血檢測血糖值, 正常值為 Gonadotropin or hCG-secreting tumor: tumors associated with tuberous germinoma · chorioepithelioma · sclerosis · teratoma teratoma · he Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...失敗再手術 | | 生長激素細胞瘤 | 肢端肥大症 (Acromegaly) | 10% | 篩檢:IGF-1 ↑ | 先手術→放射、 | | (Somatotrope = GH) | 巨人症 (Gigantism) | 10% | 確診:OGTT (GH ↑ ) | Somatostatin 輔助 | | 皮促素細胞瘤 | 庫欣式病 (Cushing's dz.) | 10-15% | 24 小時尿液 | 先手術→放射、 | | (Corticotrope = ACTH) | 単次式病 (Cusning s dz.) | 10-15% | free cortisol | Ketoconazole 輔助 | | 甲促素細胞瘤 | 中樞甲狀腺亢進 | 最少見 | | 先手術→ PT Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - b. 確診:口服 75 克的葡萄糖耐受試驗(Oral Glucose Tolerance Test,OGTT),即給予 75 克葡萄糖後,於 1~2 小時內,皆無法將 GH 抑制到 1 $\mu$ g/L 以下即可確診。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

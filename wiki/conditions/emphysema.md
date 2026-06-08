@@ -14,6 +14,8 @@ sources:
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch14]]"
 aliases:
   - 'Emphysema (肺氣腫)'
   - 'Emphysema'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-肺泡壁破壞與過度充氣造成氣體交換障礙。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺泡壁破壞與過度充氣造成氣體交換障礙。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,14 @@ tags:
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch14]]
 
 ## Key Details From Sources
 
+- (d) 膽囊中可見氣體 (emphysematous cholecystitis)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- 4. 在影像上可見顯著的發炎現象,包括 gangrenous cholecystitis、pericholecystic abscess、hepatic abscess、biliary peritonitis、emphysematous cholecystitis。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- 1. 可利用腹部超音波與電腦斷層掃描診斷急性非結石性膽囊炎。 - (1) Sonographic Murphy sign - (2) 膽囊壁厚度≥ 3.5 cm - (3) 膽囊腫大 - (4) 膽囊周圍組織有積液 - (5) 膽囊黏膜有剝離現象 - (6) 膽囊壁內有氣體影像 (如 emphysematous cholecystitis) Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
 - (D) 合併有腎功能不良及肺氣腫的病人應優先考慮不停跳冠狀動 脈繞道手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - ...縫合。 | | | (D) | 4. 現在出現一個 25 歲腦死的潛在性器官捐贈者,下列哪一個病患 | 98(二)專 | | | 需要心肺移植(heart-lung transplantation)? | 醫五-1 | | | (A) 末期肺氣腫 | | | | (B) 缺血性心臟病 | | | | (C) 原發性肺動脈高壓 | | | | (D) 原發性心肌症合併次發性肺動脈高壓 | | | (B) | 5. 在心臟移植手術時,若受贈者術前的肺動脈壓非常高,因而造成 | 94(二)專 | | | 術後死亡,最可能的死亡原因為: | 外一-22 | | | (A) 急性肺水腫 | | | | (B) 急性右心衰竭 | | | | (C) 急性排斥現象 | | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].

@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med5-book2-ch13]]"
+  - "[[sources/med5-book3-ch10]]"
 aliases:
   - 'Colonic angiodysplasia (大腸血管發育不良)'
   - 'Colonic angiodysplasia'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-退化性黏膜下血管擴張是下消化道出血原因之一，常見於右側大腸與高齡病人。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+退化性黏膜下血管擴張是下消化道出血原因之一，常見於右側大腸與高齡病人。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch13]]
+- [[sources/med5-book3-ch10]]
 
 ## Key Details From Sources
 
+- (2) 目前認為 FNH 是一種先天性血管異常增生所導致的腫瘤。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
 - #### 戊、後天性血管異常及下消化道出血 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - 後天性血管異常和下消化道出血在老年人很常見,大部分的下消化道出血會自己停止,但仍約有 10~25% 的案例須進行手術。下消化道出血的常見原因如下: Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - 5. 血管發育不良 (angiodysplasia): 0.1 cc/min、tagged RBC 可偵測出血速率> 0.5 cc/min 的出血點) - (b) Mesenteric angiography:當 nuclear scan 為陽性反應時,才會採用血管攝影去尋找出血點的實際解剖位置,可偵測出血速率> 1.0 cc/min 的出血點,並可同時施打 vasopressin 或作 embolization,達到治療的效果,成功率約 85%。 - (c) Colonscopy:用 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book3-ch01]]"
 aliases:
   - 'H2 receptor antagonists (H2 受體拮抗劑)'
   - 'H2 receptor antagonists'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-抑制胃酸分泌，可用於 GERD 或潰瘍相關症狀控制。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制胃酸分泌，可用於 GERD 或潰瘍相關症狀控制。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch19]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book3-ch01]]
 
 ## Key Details From Sources
 
+- 4. 補充:這邊不得不提到一顆好藥:**Proton pump inhibitor**。由圖片可知 Parietal cell 可受到**神經細胞**與**腸道賀爾蒙(histamine、Gastrin**)這三個 pathway 來控制胃酸的分泌。傳統的 H2 blocker 只能 block histamine 的 pathway,並不能有效控制胃酸的分泌,但 PPI 卻能有效直接抑制幫浦,直接 block 住三線 pathway,抑制胃酸的分泌,也大大減低近年來因 peptic ulcer 所帶來的 complication 如出血或穿孔。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - 8. H2 blocker 或是 PPI 去減輕 stress ulcer。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - (D) $H_2$ 接受器抑制劑( $H_2$ receptor blocker),如 ranitidine 是沒有治療效果 Source: [[sources/med4-book2-ch11|子、其 他]].
 - ...肉瘤 (Angiosarcoma)等。 - b. 此藥需以包含 cremophor 的載體輸注,所以容易導致過敏,注射前需以 Dexamethasone, Diphenhydramine (H1 blocker), Cimetidine (H2 blocker)預防過敏。 - c. 還可能導致四肢末端麻木等神經毒性(glove-and-stocking neuropathy)。 - d. 有些病患會有心率不整,以 asymptomatic bradycardia 最常見,也可能造成 heart block。 - (2) Docetaxel (Taxotere®、歐洲紫杉醇) - a. 以 polysorbate 80 formulation 輸注,也會造成過敏反應,還可能會造成水分滯留。 也 Source: [[sources/med3-book4-ch19|乙、化學治療]].

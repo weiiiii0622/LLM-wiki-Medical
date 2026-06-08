@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book3-ch03]]"
 aliases:
   - 'Antacids (制酸劑)'
   - 'Antacids'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-中和胃酸，用於短期緩解胃酸相關症狀。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中和胃酸，用於短期緩解胃酸相關症狀。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med5-book3-ch02]]
+- [[sources/med5-book3-ch03]]
 
 ## Key Details From Sources
 
+- (A) 22. 一位 33 歲木工,工作十分忙碌;已有三年慢性上腹部疼痛且服 99(-)專用制酸劑治療。送到急診前 1 小時,在工地突然腹部劇烈疼痛無 醫五-49 法工作。身體檢查發現生命跡象穩定;血壓:130/80 mmHg;心跳: 80 /分;無發燒;腹部觸診呈木板樣僵硬(board-like rigidity);輕壓會使腹痛加劇。根據上述,下列何項診斷最有可能? Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- (a) 保守治療如給予制酸劑通常效果不彰。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...劑(包括色素及防腐劑,如 azo dyes, benzoates, salicylates)、核桃、巧克力、菇、筍。 - (b) 藥物: 抗生素(Penicillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (2) 內科治療: - a. 傳統制酸劑使用可以迅速改善症狀,但因副作用不建議長期使用。PS:副作用如 diarrhea (magnesium) and constipation (aluminum)。 - b. Histamine-2 receptor antagonists、proton pump inhibitors (PPIs) 使用,治療效果佳。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 2. 口服吸收佳,但若與含鋁、鎂制酸劑、口服鐵劑、綜合維他命、鈣片、牛奶等同時服用, 會明顯降低吸收。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

@@ -36,6 +36,7 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Lung cancer (肺癌)'
   - 'Lung cancer'
@@ -50,7 +51,7 @@ tags:
 
 ## Summary
 
-肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +87,11 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 在次發性惡性心包膜積液 (secondary malignant pericardial effusion)的病人中,男性及女性皆以肺癌最為常見 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 2. 病因: - (1) 醫源性(iatrogenic): 最常見的原因,長期服用含類固醇的止痛藥所致,造成體內 glucocorticoid 過量。 - (2) Cushing disease: 佔非醫源性病患 65~70%。腦下垂體前葉腺瘤或是增生,過度分泌 ACTH,造成雙側腎上腺增生,分泌過量 cortisol。 - (3) 腎上腺腫瘤:佔非醫源性病患 10~20%。Adrenal adenoma 或 carcinoma,不受 ACTH 控制,分泌大量 cortisol。ACTH 反而因受到回饋抑制而濃度降低,腫瘤 周圍的正常腎上腺皮質也會萎縮。 - (4) 異位性(ectopic) ACTH:身體其他部位有會分泌 ACTH 的來源,例如小細胞 肺癌、類癌、胰臟癌、胸腺癌、甲狀腺髓質癌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...極處理。 | | | (D) 18 | . 下列何種情況對於受腎者而言是腎臟移植手術的禁忌? | 99(二)專 | | | (A) 糖尿病 | 醫五-2 | | | (B) 受腎者年齡大於 50 歲 | | | | (C) 10 年前曾接受肺癌手術 | | | | (D) 慢性骨髓炎 | | | | 【詳解】慢性骨髓炎歸類為無法控制的感染,故為禁忌症。 | | | (B) 19 | . 下列有關主要組織相容性複合體(major histocompatibility)之敘 | 99(二)專 | | | 述,何者錯誤? | 醫五-3 | | | (A) CD4+T細胞可辨認結合第二類 MHC 分子的胜肽 | | | | (B) CD8+T細胞為第二類 MHC 限制性 | | | Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -106,7 +109,6 @@ tags:
 - (C) 15. 一位 70 歲病患有肺癌,目前在接受化學治療,期間發現身體軀幹右側有如圖之皮膚表徵。下列敘述何者錯誤? Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) **惡性腫瘤(肺癌、**淋巴癌、轉移來的癌症)佔了 90% 原因,其中肺癌佔了 85% 的 絕大多數。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - (2) 惡性腫瘤中 Small cell lung cancer 及 squamous cell lung cancer 佔了 85%。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (4) Non-small cell lung cancer、Metastases 需用 Radiation therapy。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 

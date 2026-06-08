@@ -9,6 +9,9 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book3-ch24]]"
 aliases:
   - 'Surgical site infection, SSI (手術部位感染)'
   - 'Surgical site infection, SSI'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,16 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book3-ch20]]
+- [[sources/med5-book3-ch07]]
+- [[sources/med5-book3-ch24]]
 
 ## Key Details From Sources
 
+- (D) 傷口感染 (wound infection) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- ...) 18 | . Whipple 手術後,最嚴重的併 | :發症是: | 99(二)專 | | | (A) 延遲性胃排空 | | 醫五 -34 | | | (B) 膽汁滲漏 | | | | | (C) 胰液滲漏 | | | | | (D) 傷口感染 | | | | | 【詳解】Whipple procedure 名 | 後的 complication rate 約為 25%,最 | | | | 常見併發症是吻合端的胰液液 | 寥液(anastomotic leak)以及胰臟膽 | | | | 道管 (pancreatic-biliary fistula | a) ° | | | (C) 19 | . 依據 The American Joint Com | mittee on Ca Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- ...接受手術治療 (C) 切口疝氣(incisional hernia)都可以直接縫合(primary closure),即使疝氣洞口大於 5 公分也不需要使用人工網膜(prosthetic material)來縫合 (D) 肥胖及腹部手術術後傷口感染都能造成切口疝氣(incisional hernia)的發生率增加 【詳解】Incisional hernia 的病患,切口若大於 5 公分須考慮人 | 106 (一) 專醫五-34 | Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- b. 改良式根除性乳房全切除術 (Modified radical mastectomy, MRM): 全乳房切除術 (total mastectomy) 加上 腋下淋巴結廓清術 (Axillary lymph node dissection, ALND)。 - (a) 適應症: 適用於任何沒有侵犯胸大肌或非第四期轉 移性乳癌之患者。 - (b) 術中保留胸大肌、長胸神經、胸背血管神經幹,並 儒可能保留肋間上臂神經。 - (c) 常見合併症: - i. 皮瓣壞死。 - ii. 上肢淋巴水腫。 - iii. 傷及肋間上臂神經,導致上臂感覺麻木。 - iv. 傷及長胸神經,導致前踞肌萎縮造成翼狀肩(Winged Scapula)。 - v. 傷口感染。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 【詳解】從題目敘述需擔心病人因局部傷口感染引發敗血症, 除了給予抗生素外,因儘早施行清創手術,把膿瘍和潰瘍處之 細菌量減低。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - 4. 除非毛髮會影響手術,否則手術前不需剃毛。剃毛應在手術之前距開刀時間越近越好,在手術室內且使用電動刮鬍刀最適宜。已有系統性文獻回顧證實手術前剃除毛髮並沒有顯著降低手術部位感染發生,更有新的文獻顯示手術前剃除毛髮反而較易增加手術部位感染的風險。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ## B. 手術部位感染 (Surgical site infection, SSI) Source: [[sources/med5-book1-ch05|戊、外科感染]].

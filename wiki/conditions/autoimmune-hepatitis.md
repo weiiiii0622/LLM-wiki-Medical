@@ -24,6 +24,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med5-book3-ch11]]"
 aliases:
   - 'Autoimmune hepatitis (自體免疫性肝炎)'
   - 'Autoimmune hepatitis'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med5-book3-ch11]]
 
 ## Key Details From Sources
 
+- (8) 自體免疫肝臟疾病如 primary biliary cirrhosis 與 autoimmune hepatitis。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - | 項目 | 特徵 | |--------------------|------------------------------------------------------| | ANA | 95~99% (+),敏感度 (sensitivity) 高但特異性 (specificity) 低,最 | | | 佳篩檢工具,重複陰性反應可排除 SLE。 | | Anti-ds DNA | 特異性最高,和疾病活動度有關(值越高疾病越活躍),可預測 | | | 腎炎和血管炎。 | | Anti-sm (Anti-U1 | 呈陽性時,大大增加 SLE 的機會,和疾病活動度無關。但對於診 | | RNP) | 斷混合性結締組織病( Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Thrombocytopenia ( < 10 萬 )。 | | | | | | 實驗室檢查 | (10) ANA(+)、(11) Anti-dsDNA(+) 或 Anti-Sm(+) 或 Anti-phospholipid(+) | | | | | Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...linear morphea 常出現在小兒患者 醫四 -42 (B) circumscribed morphea 患者身上並不會出現指端硬化現象, 也不會有食道硬化等內臟器官影響 (C) generalized morphea 患者血中 ANA 可能呈現陽性,但與患 者預後關聯性仍未明 (D) generalized morphea 多數病人會轉變為 systemic sclerosis, 出 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -82,7 +85,6 @@ tags:
 - (A) 13. 24 歲女性病人主訴雙側手腕及手指關節疼痛已一個多月,最近也常 103( ) 專 口腔潰瘍及無故發燒。體檢發現血中白血球數目偏低。請問下列那 醫 = -8 一項檢驗,獲得陽性的機率最高? - (A) 抗細胞核抗體 (ANA) - (B) 類風濕因子 (RF) - (C) 抗 DNA 抗體 (anti-dsDNA) - (D) 抗環狀瓜氨酸化胜肽抗體 (anti-CCP antibodies) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...件之一?in IgM antibody 呈中度陽性反應週,因子癇症(eclampsia)造成早產 | 99(二)專醫三-39 | | (C) | 21. | 病活性(disease activity)? (A) high titer of ANA (B) high levels of C3 and C4 (C) high titer of anti-dsDNA ant (D) high level of C-reactive prot | | 99(一)專醫三-27 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - A. 抗核抗體 (Anti-nuclear antibody, ANA) 30 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- #### A. 抗核抗體 (Anti-nuclear antibody, ANA) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

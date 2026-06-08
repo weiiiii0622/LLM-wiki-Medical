@@ -31,6 +31,11 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book3-ch10]]"
+  - "[[sources/med5-book3-ch20]]"
 aliases:
   - 'Coagulation tests, PT/aPTT (凝血檢查)'
   - 'Coagulation tests, PT/aPTT'
@@ -45,7 +50,7 @@ tags:
 
 ## Summary
 
-PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondary hemostasis 異常。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondary hemostasis 異常。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +81,22 @@ PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondar
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book2-ch27]]
+- [[sources/med5-book3-ch11]]
+- [[sources/med5-book3-ch08]]
+- [[sources/med5-book3-ch13]]
+- [[sources/med5-book3-ch10]]
+- [[sources/med5-book3-ch20]]
 
 ## Key Details From Sources
 
+- | | Hb | Platelet | PT | aPTT | |-----|---------|----------|----------|-------| | 張奶奶 | 10.2 | 40 | 16.2 | 36.4 | | 正常值 | 13.5~17 | 138~353 | 9.4~12.5 | 26~38 | | 單位 | g/dL | 10^3/mL | sec | sec | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (D) PT 異常,必須先矯正 coagulopathy Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (B) INR (international normalized ratio) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (4) INR 術後可能會延長,補充新鮮冷凍血漿 (fresh-frozen plasma) 將 INR 控制在 2 以下。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
+- 5. 肝功能受損, PT-INR > 1.5 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- (3) 考慮開刀的時機: - a. Kasabach-Merritt syndrome:是一種罕見的凝血異常疾病。血管瘤大量消耗血小板與凝血因子,須緊急切除肝血管瘤部分。較常出現在小朋友身上。 - b. 無法排除是否為肝癌。 - c. 大量出血。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
+- (A) 11. 一位 53 歲男性,以往健康良好,最近逐漸出現黃疸症狀,糞便 呈淺色,尿液茶褐色。病患以往沒有膽道結石病史。理學檢查顯 示患者腹部無痛覺,沒有硬塊,膽囊亦觸摸不到。實驗室血液 數據顯示總膽管色素:9.8 mg/dL,直接膽紅素:7.6 mg/dL, prothrombin time INR: 1.79, ALT: 141 U/L, AST: 147 U/L, 澱粉酶: 130 U/L, 脂肪酶: 86 U/L, alkaline-P: 469 U/L。腹部 超音波顯示肝內肝管擴大,膽囊正常。則下列何者與病患最可 能的疾病診斷不符? - (A) 腹部電腦斷層顯示總膽管明顯擴大 - (B) 病患的腫瘤為腺癌,生長速度緩慢 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 5. 治療: - (1) 穿彈性襪 (compression therapy)。 - (2) 先使用 heparin 維持 INR 2~3, 之後改用 Warfarin 維持,至少吃三個月到六個月,如果復發則建議吃終身。 - (3) 靜脈血栓清除術(venous thrombectomy): 以導管進入阳塞的靜脈清除血栓。 - (4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 - c. 慢性 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (B) 深部靜脈栓塞,且不適合使用抗凝血劑 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (D) 在足量之抗凝血劑治療下,仍反復多次靜脈栓塞 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
@@ -89,14 +107,6 @@ PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondar
 - (2) 血栓生成,故須使用大量抗凝血劑,但反而可能造成出血的情況。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 【詳解】血液流經體循機管路表面啟動凝血路徑、心臟麻痺液或其他藥物引起過敏、缺血與再灌流過程…等,皆有可能在術後引發 SIRS。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - Coagulation, hemostasis, phase (止血期): 一受傷即開始此凝血機制啟動,血小板和 fibrin 共同凝成血塊以避免持續出血。血小板內的 α granule 會釋放出 PDGF (platelet-derived growth factor)、TGF-β (transforming growth factor-beta)以促進傷口癒合,此時期主要細胞為 platelet。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- ...合 2 個以上: - (1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- ...超過 2,500 mL,或 24 小時內輸超過 5,000 mL。 - (1) 大量輸血可能引起許多併發症,包括: - (2) 低體溫:因為血品儲存溫度為 1~6℃,在輸血前盡量要對冷藏血進行預熱,輸血後也要注意進行體溫回復。 - (3) 凝血功能障礙:一部分因為外傷損失大量血小板和凝血因子,且止血過程中又會消耗血小板和凝血因子;另外像是 packed RBC 內不含足夠凝血因子,而輸血帶來的大量體積又會稀釋掉血小板濃度(dilution thrombocytopenia),所以會有凝血功能障礙的情形。可以 pRBC: FFP: platelet 以 1:1:1 的方式輸注來預防。 - (4) 急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- 1. 全身小血管發生凝血,廣泛形成血栓,因而消耗大量凝血因子和血小板,並繼發激 活纖維蛋白溶解,因而引起嚴重的廣泛的全身性出血。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 5. 治療:抗凝血劑 heparin。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (C) 1. 病患手術前有使用 vitamin K antagonist (VKA),例如 warfarin, 109(二)專 會增加手術中出血的機會;一般在 elective surgery 前,建議先停 藥5天以上,讓 international normalized ratio (INR)上限低於 多少以下,再進行手術? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- 【詳解】使用 warfarin 者,在手術前需停藥五天,讓 INR 低於 1.5 • Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (C) 35. PT (prothrombin time) 延長是因凝血因子低於正常的百分之五十以下,但下列何種因子除外? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 
