@@ -132,6 +132,22 @@ When the user asks to ingest a source:
 8. Update `wiki/index.md`.
 9. Append one entry to `wiki/log.md`.
 
+### Textbook Ingest Requirements
+
+For chapter-split medical textbooks under `raw/books/md/`, use a topic-first graph workflow:
+
+- Ingest the chapter-split markdown files; ignore the full-book markdown unless the user explicitly asks for it.
+- Do not use chapter titles as the main knowledge graph nodes. Chapter pages belong in `wiki/sources/` only as citation anchors.
+- Make or update nodes for concrete medical knowledge: diseases/syndromes, treatments, drugs/classes, diagnostics/tests/criteria, procedures/workflows, guidelines, physiology, anatomy, and other specific high-yield concepts.
+- Avoid abstract or overly broad nodes. Prefer `liver-cirrhosis`, `child-pugh-score`, `metformin`, and `upper-endoscopy` over vague titles like `clinical`, `treatment`, `diagnosis`, or `other`.
+- Control graph size. Create a new topic node only when it represents a distinct concrete entity or workflow not already covered.
+- Maintain overlap by updating existing nodes rather than creating duplicates. Add new source coverage and source-grounded details to the existing page.
+- Keep each topic page as independent as practical: summary, source coverage, key source details, clinical caveats, related pages, and follow-up should make sense without reading the chapter page first.
+- Body content should be Mandarin-first. Use English for specialized medical terms, with Mandarin translation when available, especially in titles and aliases.
+- Keep `wiki/sources/index.md`, category indexes, `wiki/index.md`, and `wiki/overview.md` cumulative across books.
+- After each textbook, run a health check for missing links and source/index consistency, write a health-check file under `docs/`, then commit with a message naming the ingested book, e.g. `Ingest 醫(三)第2冊肝內新陳代謝`.
+- If the user asks to wait for approval after a book, stop after the health check and commit.
+
 For each source summary include:
 
 - Bibliographic metadata if present.
@@ -190,4 +206,3 @@ Append entries to `wiki/log.md` using this parseable header:
 ```
 
 Keep log append-only. Do not rewrite old log entries except to fix broken markdown when necessary.
-
