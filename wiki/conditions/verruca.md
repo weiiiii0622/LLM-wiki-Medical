@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Verruca / warts (疣)'
   - 'Verruca / warts'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、�
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch07]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- (2) 肛門癌症約佔大腸直腸癌症的 1~2%, 男女比例約 2:1, 好發年齡在 50~80 歲之間。致病原因包含 HPV type 16、18, 致癌基因 oncogene (c-myc, P53, Rb-1), 局部慢性肛門疾病或克隆氏症 (Crohn's disease)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - # 6. 疣(Verruca、warts): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 疣是因感染人類乳突病毒(Human Papillomavirus, HPV)而形成的一種非癌皮膚增生。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

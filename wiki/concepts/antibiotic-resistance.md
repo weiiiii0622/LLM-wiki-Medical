@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book2-ch05]]"
 aliases:
   - 'Antibiotic resistance (抗生素抗藥性)'
   - 'Antibiotic resistance'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch05]]
+- [[sources/med5-book2-ch05]]
 
 ## Key Details From Sources
 
+- 4. 開心手術更換人工瓣膜的 indication: - (1) 感染導致 valve stenosis or regurgitation 引發心衰竭。 - (2) 嚴重瓣膜閉鎖不全。 - (3) 黴菌或強抗藥性的菌種造成的心內膜炎。 - (4) 感染導致心臟傳導阻礙、annular or aortic abscess、穿孔產生 fistula。 - (5) 抗生素治療下仍舊反覆性栓塞和細菌贅生物(vegetation)。 - (6) 細菌贅生物大於1公分。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 【詳解】(B) 當菌種為對 vancomycin 有抗藥性時,才會選擇使用 linezolid;(D) 需考量到 Pseudomonas aeruginosa 或其他 Gram-negative bacilli 等菌。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 【詳解】病人已給予四天 cephalexin 但傷口仍擴大化膿,懷疑有抗藥性,可能是 MRSA 感染,故選擇 vancomycin 較有效。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -68,7 +71,6 @@ tags:
 - (1) 觸媒(Catalase)陽性、氧化酶(Oxidase)陰性、會發酵葡萄糖,為兼性厭氧菌。 許多菌種均能攜得抗生素的抗藥性。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - | 藥 物 | 機制 | 附註 | |---------------------------|--------------------------------------|----------------| | Oseltamivir · Zanamivir · | 可抑制神經胺酸 (Neuraminidase) | 對 A, B 型皆有效 | | Peramivir | | | | Amantadine · Rimantadine | 抑制 M2 蛋白阻止病毒 Uncoating | 僅對 A 型有效,但抗藥性高 | | Baloxavir | Cap-dependent endonuclease inhibitor | 對 A, B 型皆有效 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - d. Amantadine、Rimantadine(100 mg PO q12h for 7~10 days): 可抑制 Influenza A 進入宿主細胞,若在有症狀後的 48 小時內服用效果最佳。可能腸胃道不適、中樞神經異常(頭暈、緊張等),但抗藥性高,較少使用。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- b. H1N1 流感: 若併發重症則為第四類傳染病→須於 7 天內通報 - (a) 須接受篩檢的個案:發燒合併呼吸道症狀,但老人、嬰兒、免疫缺乏者可能 有非典型的症狀,需要住院治療的病人等須優先篩檢。 - (b) 治療:新型流感對 Amantadine、Rimantadine 已具有抗藥性 (99%);對 Oseltamivir (Tamiflu®) 則僅有零星個案報導,而 Zanamivir 則尚未發現有抗藥性菌株。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

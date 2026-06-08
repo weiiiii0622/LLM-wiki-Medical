@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Graves disease (葛瑞夫茲病)'
   - 'Graves disease'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med3-book4-ch07]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- D. Graves disease 199 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimoto thyroiditis亞急性甲狀腺炎 (de Quervain)Iodine deficiency | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- #### D. Graves disease Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (C) Graves' disease Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (1) 以 Graves' disease 為最常見。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

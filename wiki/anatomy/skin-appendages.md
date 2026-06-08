@@ -15,6 +15,11 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med5-book2-ch26]]"
+  - "[[sources/med5-book2-ch09]]"
+  - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book2-ch06]]"
 aliases:
   - 'Skin appendages (皮膚附屬器官)'
   - 'Skin appendages'
@@ -29,7 +34,7 @@ tags:
 
 ## Summary
 
-毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +49,23 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book4-ch01]]
+- [[sources/med5-book2-ch26]]
+- [[sources/med5-book2-ch09]]
+- [[sources/med5-book2-ch25]]
+- [[sources/med5-book2-ch30]]
+- [[sources/med5-book2-ch06]]
 
 ## Key Details From Sources
 
+- (B) 毛囊 (hair follicle) Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
+- (C) 皮脂腺 (sebaceous gland) Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
+- 【詳解】汗腺、毛囊和皮脂腺都具有可再分化之上皮細胞,可 在供皮區取皮作 STSG 後複製並移行至傷口缺損處填補。 Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
+- 2. 肛管由齒狀線(dentate line)或稱作梳狀線(pectinate line)為界,將肛管分為上 2/3 和下 1/3 兩段。 - (1) 肛管上半段:源自內胚層,內襯上皮為單層柱狀,上直腸動靜脈支配。 - (2) 肛管下半段:源自外胚層,內襯上皮為複層鱗狀,下直腸動靜脈支配。雖然覆蓋著複層鱗狀上皮,但缺乏毛囊、汗腺和皮脂腺,僅有下直腸神經分布支配輕觸覺和痛覺,不屬於真正的皮膚,故肛管下半段的上皮組織又稱作 anoderm。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
+- (C) 在真皮附屬物(如毛囊及皮脂腺)的上皮細胞複製而覆蓋裸露的真皮 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- (B) 15. 一名中年婦女在餐廳工作,切雞肉時不慎將左手食指指尖一併剁 101( 二 ) 專 下,隨即送到急診室。檢查發現切口整齊,位在指甲橫向二分之 一處,但未達指甲生發層(germinal matrix)合併指骨外露,依據 fingertip amputation 之分類 Allen's classification, 此狀況應屬何 種 type ? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- Type II: 傷害小於二分之一的 甲床和以及遠端指骨受傷, 但未達指甲生發層。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- Type IV: 剁掉部分達近端指骨,整個指甲皆截掉。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- (2) 慢性動脈阻塞(chronic thromboembolism):慢性血管阻塞,造成間歇性跛行的症狀,當 ischemia 嚴重時連休息或夜間睡覺都會疼痛,最後組織壞死。因血液供養不足,腳部也常有脫髮、泛白及指甲易碎的情形。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 【詳解】Tuberous sclerosis complex 是自體顯性遺傳性疾病,可分為 type 1 & type 2。因基因突變,造成患者神經細胞及髓鞘形成不良,產生結節硬化。臨床表現會有智能障礙和癲癇,其他明顯的徵象有面部血管纖維瘤、指甲纖維瘤、脫色斑、鯊魚皮斑、多發神網膜結節缺陷瘤、腦皮質結節、腦室管膜下結節、腦室管膜下巨細胞星狀瘤、腎血管肌脂肪瘤等。頭部電腦斷層可見多發性鈣化病灶。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 1. 皮膚覆蓋全身,是身體最大的器官,約為 1.8 m² BSA (body surface area),分為表皮 (epidermis)、真皮 (dermis) 和皮下組織 (subcutaneous tissue)。另外皮膚上有毛囊、指甲、皮脂線及汗腺等附屬器官 (appendages)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - 3. 真皮: 真皮厚度約是表皮的 15~40 倍,約佔皮膚厚度的 95%,在人體以背部的真皮最厚,真皮是由結締組織所構成,內含膠原纖維、彈性纖維和網狀纖維等纖維蛋白。上層為乳突真皮層,深層為網狀真皮層。 - (1) 乳突真皮層 (papillary layer): 含豐富的血管及較細的結締纖維,成波浪乳頭狀 凸入於表皮,使表皮和真皮不分開。 - (2) 網狀真皮層 (reticular layer): 含少許細胞及較粗的結締纖維,在網狀層中有許多皮膚的附屬器官如毛囊、皮脂腺和汗腺等。毛囊和汗腺都是由表皮層逐步往真皮層生長,甚至會深入到皮下組織。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
@@ -56,8 +75,6 @@ tags:
 - 3. 好發部位包括頭皮、鼻翼兩側、眉毛及眉間、耳後或耳內及前胸等皮脂區(seborrheic area),都是人體皮脂腺最多的地方(見右圖)。皮膚會有發癢及發紅性脫屑現象;偶有發黃及油膩的皮屑。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 【詳解】化療會造成毛囊中基質細胞的分裂受到抑制,導致生長期(anagen)毛髮之生長突然停止或破壞,直接進入退化期及休止期,最後產生大量掉髮,屬於生長期落髮(anagen effluvium) Source: [[sources/med4-book2-ch11|子、其 他]].
 - (D) 指甲可出現 pitting、trachyonychia (rough nail) 等現象 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 【詳解】圓形禿(Alopecia areata),俗稱鬼剃頭,頭皮上一塊塊界線分明的圓形區域掉髮,任何年紀都會,但好發於25歲前。最常發生在頭皮,但眉毛、鬍子或其他體毛也有可能。目前認為和自體免疫、情緒或壓力有關。症狀發生時不痛不癢,免疫細胞攻擊毛囊造成毛囊發炎,從生長期(anagen)迅速邁入退化期(catagen)和終止期(telogen),造成髮幹變細、脫色甚至掉髮,不過毛囊幹細胞仍會存留,毛囊不會被破壞掉,故輕微的圓形禿在停止擴大2~3個月後會自行長回毛髮。另外病患指甲可見凹陷點(fine pitting)、指甲變薄且表面粗糙(trachyonychia)、指甲脫落(onychomadesis)。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- (2) 皮膚病變:患者手的組織會紅腫,失去自然皺摺。手背後的肌腱和血管會消失, 病變處的毛囊及汗腺會萎縮,最後腫脹會消退成厚而硬的皮膚,此時皮膚看起 來發亮,摸起來有緊繃感,失去色澤。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

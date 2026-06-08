@@ -17,6 +17,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Beta blockers (乙型交感神經阻斷劑)'
   - 'Beta blockers'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- (C) 腎上腺手術前準備藥物,以長效型 bisoprolol 為首選 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...| 急性 | 改變生活方式; | Sumatriptan, Ergotamine | 100% 氧氣 | | 治療 | Antidepressant | Novamin | Sumatriptan, Ergotamine | | 慢性 | β blocker \ | $\underline{\mathbf{A}}$ nticonvulsant, $\underline{\mathbf{\beta}}$ blocker, | CCB | | 預防 | 肌肉鬆弛劑 | CCB, Antidepressant | 鋰鹽 (Lithium) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - 3. 治療: 改變生活方式; 抗憂鬱劑、β blocker、肌肉鬆弛劑、止痛藥。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - 5. 慢性預防:(A、B、C) - (1) Antidepressant (如 amitriptyline); Anticonvulsant。 - (2) β blocker: 如 Propranolol。 - (3) CCB:如 Flunarizine。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
@@ -68,7 +71,6 @@ tags:
 - \*ABCD 的記憶方法: (A) 僅有危險因子先用 A (ACEI) → (B) 造成結構異常再用 B (β blocker) → (C) 導致臨床症狀用 D (Digoxin, Diuretics) → (D) 內科無法控制考慮心臟移植 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 - 心肌因某種原因受傷害→導致左心室重塑(包含腔室擴張 ± 肌肉肥大)→ RAA 系統 啟動(Angiotensin 使血管收縮、Aldosterone 留鈉)且交感神經系統活化以增加心收縮及心輸出→細胞毒性、纖維化、心律不整→心輸出下降、肺及周邊組織積水。[編按:病生理的惡性循環與治療相關,用 ACEI 對抗血管收縮、用 β blocker 對抗交感神經系統活化、用 Aldactone 或利尿劑改善留鈉及水腫。] Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 - ...-------------------------------------------------------|--| | Narrow regular (如 PSVT) | Adenosine 6 mg → 12 mg iv push; β blocker ( 台灣無 iv form 藥物 ); | | | → ABCD | CCB = Verapamil = Isoptin ® 2.5~5 mg ( 半支∼一支 ) iv push 2 分鐘; | | | | Digoxin 0.25~0.5 mg ( 半支~一支 ) iv drip | | | Narrow irregular (如 Af) | 好心(心臟功能正常):Bblocker、CCB = Diltiazem = Herbess Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (D) 4.56 歲女性因三週前出現胸痛而診斷急性心肌梗塞,接受了血栓溶解劑治療後出院。最近二天因為覺得很喘經由門診住院。病人表示她很規則地服用醫師開立的藥物,包含 atorvastatin,lisinopril,metoprolol,aspirin。身體診察血壓 100/45 毫米汞柱,心跳每分鐘46 次,雙側肺部有囉音(bilateral crackles),頸靜脈怒張,雙側下肢水腫,沒有出現新的心雜音或奔馬音(gallop)。心電圖有竇性心搏過緩,呈現近期的心肌梗塞,但沒有出現新的變化。下列處置何者正確? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 
 ## Clinical Caveats
 
@@ -77,6 +79,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/aortic-dissection-surgery|Aortic dissection surgery (主動脈剝離手術)]]
 - [[conditions/essential-tremor|Essential tremor (原發性顫抖症)]]
 - [[conditions/heart-failure|Heart failure (心臟衰竭)]]
 - [[conditions/social-anxiety-disorder|Social anxiety disorder / social phobia (社交焦慮症／社交畏懼症)]]

@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Pulmonary atresia (肺動脈閉鎖)'
   - 'Pulmonary atresia'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-右心出口完全阻塞，肺血流常依賴 PDA 或 major aortopulmonary collateral arteries。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+右心出口完全阻塞，肺血流常依賴 PDA 或 major aortopulmonary collateral arteries。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- #### 8. 肺動脈瓣閉鎖(pulmonary atresia): Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 3. 肺動脈瓣閉鎖合併心室中膈缺損 Pulmonary Atresia with Intact Ventricular Septum (PA/IVS): 這是右心近端出口疾病,三階段修補術式 stage 1 的 Norwood 便是以帶有瓣膜的肺動脈作為材料與舊的主動脈合成一個新的主動脈。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 【詳解】肺動脈閉鎖(Pulmonary Atresia),分為合併 IVS(Intact Ventricular Septum,心室完整,此型合併 ASD),以及合併 VSD 兩種。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 1. 發紺型先天性心臟病 2 - A. 法洛式四合症 (Tetralogy of Fallot) 2 - B. 肺動脈閉鎖 (Pulmonary atresia) 3 - C. 三尖瓣閉鎖 (Tricuspid atresia) 4 - D. 大動脈轉位 (Transposition of the great arteries, TGA) 6 - E. 全靜脈回流異常(Total anomalous pulmonary venous return, TAPVR) 7 - F. Ebstein 異常 (Ebstein anomaly) 8 - G. 左心發育不全症候群(Hypoplastic left heart syndrome, HLHS) *9* Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...undibular stenosis, valvular pulmonary stenosis, and sometimes supravalvular pulmonary stenosis),最後造成右心室肥大。當肺動脈血流阻塞甚至造成 pulmonary atresia 時,除了靠 patent ductus arteriosus (PDA) 外甚至還需要靠 major aortopulmonary collateral arteries (MAPCAs) 才可能有較足夠的血液打入肺部血管。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - # B. 肺動脈閉鎖 (Pulmonary atresia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

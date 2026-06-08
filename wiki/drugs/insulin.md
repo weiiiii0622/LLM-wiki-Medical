@@ -30,6 +30,9 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch24]]"
 aliases:
   - 'Insulin (胰島素)'
   - 'Insulin'
@@ -44,7 +47,7 @@ tags:
 
 ## Summary
 
-治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +77,17 @@ tags:
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch22]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch24]]
 
 ## Key Details From Sources
 
+- A. Insulinoma (胰島素瘤) 228 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- #### A. Insulinoma (胰島素瘤) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- 1. 定義:正常的 β 細胞會因應血糖的上升而分泌胰島素達到降血糖的效果,但是 insulinoma 的 β 細胞不論是在飢餓狀態或是運動後仍會持續分泌胰島素,造成低血糖。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- (D) 6. 承上題,對於急性高鉀血症的處置,下列何者效果最慢? 109(一)專 (A) 靜脈注射 50 mL 的 D50W 和 10 units 的短效胰島素 (regular 醫五-50 insulin), 並嚴密監測血糖 (B) 靜脈注射 10 mL 的 10% 氯化鈣 (calcium chloride) 或是 10 mL 的 10% 葡萄糖酸鈣 (calcium gluconate) (C) 靜脈注射 50~100 mEq 的碳酸氫鈉 (sodium bicarbonate) (D) 給與腸胃道的 potassium-binding resins (C) 7. 下列何者為主動脈氣球幫 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - a. Transcellular shift: 鹼中毒、insulin、beta agonist、週期性的低血鉀,使得鉀離子從細胞外往細胞內移動,造成血液中血鉀降低。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...是一位 63 歲的獨居農婦,三週前清理田中雜草時割傷右 98(一)專 手中指,門診檢查發現手掌紅腫、手指彎曲、叩診腱鞘及被動伸 醫五-7 展中指時引發極度疼痛,血糖 430 mg/dL,糖化血色素 HbA1c 11%。住院給予廣效性抗生素及胰島素注射治療後症狀逐漸緩 解,第3天下午四點病房護士指尖採血驗血糖值為70 mg/dL, 當時張女士意識清楚,心跳每分鐘 75 次,皮膚溫暖乾燥,下列 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -90,11 +101,6 @@ tags:
 - (C) 18. 一位三週大足月順產男嬰,出生體重 3800 公克,因持續發生低血糖而就診,身體檢查未發現任何異常,先前作過的實驗室檢查顯示當其血糖值為 25 mg/dL 時,血漿酮體(ketone bodies)濃度測不到亦無酸血症(acidosis)。下列那一項檢查對此病人診斷的確立,最沒有幫助? - (A) 血清胰島素 (Insulin) 濃度 - (B) 血漿氨 (Ammonia) 濃度 - (C) 左旋-多巴試驗(L-Dopa test) - (D) 升糖素試驗(Glucagon test) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 【詳解】L-Dopa test是用來偵測 growth hormone deficiency用(L-Dopa 可促進 growth hormone 分泌)。(A) 則是可以用來排除 congenital hyperinsulinism。(B) 當病人有中鏈脂肪酸去氫酶缺乏症時,則出現低酮體低血糖。在急性期,血中的氨、尿酸、肝臟轉胺(liver transaminase)以及肌酸磷酸激酶(creatine phosphokinase)常常會上升。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (A) 3. 關於幼兒持續性高胰島素低血糖症(persistent hyperinsulinemic hypoglycemia of infancy)的敘述,下列何者錯誤? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (1) 又稱為胰島素依賴型糖尿病 (insulin-dependent diabetes mellitus, IDDM)、幼年型糖尿病 (juvenile diabetes mellitus)。由於自體免疫造成胰臟 β 細胞被破壞。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (1) 又稱非胰島素依賴型糖尿病(non-insulin-dependent diabetes mellitus, NIDDM)。 由於週邊組織對胰島素產生抗性,造成相對的胰島素不足。好發在肥胖的青少年,約 90% 有家族史。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (2) 臨床表現: type 2 diabetes mellitus 血糖上升值不若 type 1 diabetes mellitus 嚴重,故從病發到診斷所需時間較長。病人亦會發生糖尿病酮酸中毒,但大部分為酮尿(ketonuria)。另外,病人頸部或腋下會有黑色棘皮症(acanthosis nigricans),此為對胰島素產生抗性在皮膚的表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (A) 1. 下列何種情形與鉀離子流失所造成的低血鉀 (Hypokalemia ) 最 108( 二 ) 專 無關? - (A) 注射胰島素 (Insulin) - (B) 長期使用利尿劑 (Long-term usage of diuretics) - (C) 腸胃炎引起腹瀉(Gastroenteritis induced diarrhea) - (D) 腎小管酸血症 (Renal tubular acidosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【詳解】注射胰島素引發血液中的鉀離子移到細胞內,並非真 正造成鉀離子流失掉。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

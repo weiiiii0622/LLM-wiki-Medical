@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch04]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Constrictive pericarditis (縮窄性心包膜炎)'
   - 'Constrictive pericarditis'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-硬化心包限制舒張充填，可類似限制型心肌病變。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+硬化心包限制舒張充填，可類似限制型心肌病變。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch04]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- (B) 窄縮性心包膜炎 (constrictive pericarditis) 與限制性心肌病 變(restrictive cardiomyopathy)的鑑別診斷往往需要藉由右 側心導管的壓力追蹤圖來區分 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (D) 因為窄縮性心包膜炎 (constrictive pericarditis) 而接受心 包膜切除手術 (pericardiectomy) 的病人中,以 radiationinduced 的窄縮性心包膜炎(constrictive pericarditis)預後最佳 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 【詳解】radiation-induced constrictive pericarditis 由於 radiation 的影響,心臟本身也有很多問題,例如 coronary artery disease、 myocardial fibrosis、atrioventricular conduction disturbances 或 valve dysfunction,因此相較於其他 pericarditis,預後較差。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - C. 侷限性心包膜炎 (Constrictive pericarditis) 177 Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 - | | 急性心包膜炎Acute pericarditis | 心包填塞Pericardial tamponade | 侷限性心包膜炎Constrictive pericarditis | |---------|------------------------------|------------------------------------|--------------------------------------| | ,e3:173 | 感染 (Coxsackievirus, TB) | 任何 Pericarditis 皆可 | 任何 Pericarditis 皆可 | | 病因 | 自免,尿毒症,甲狀腺低 Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 - 4. 病情追蹤時應注意頸靜脈狀態,如靜脈壓開始上昇,則應考慮發生 effusive constrictive pericarditis 或心包填塞(cardiac tamponade)。 Source: [[sources/med3-book1-ch11|辛、心包疾病]].

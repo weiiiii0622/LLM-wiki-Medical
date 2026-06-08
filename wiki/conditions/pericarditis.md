@@ -19,6 +19,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch03]]"
 aliases:
   - 'Pericarditis (心包膜炎)'
   - 'Pericarditis'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,15 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch03]]
 
 ## Key Details From Sources
 
+- (B) 窄縮性心包膜炎 (constrictive pericarditis) 與限制性心肌病 變(restrictive cardiomyopathy)的鑑別診斷往往需要藉由右 側心導管的壓力追蹤圖來區分 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (D) 因為窄縮性心包膜炎 (constrictive pericarditis) 而接受心 包膜切除手術 (pericardiectomy) 的病人中,以 radiationinduced 的窄縮性心包膜炎(constrictive pericarditis)預後最佳 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 【詳解】radiation-induced constrictive pericarditis 由於 radiation 的影響,心臟本身也有很多問題,例如 coronary artery disease、 myocardial fibrosis、atrioventricular conduction disturbances 或 valve dysfunction,因此相較於其他 pericarditis,預後較差。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- ...or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral embolization | | Inflammatory | Pericarditis | Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - ...characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性)、Leukopenia( Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (3) 心臟的侵犯是川崎病最重要的臨床表現,可能出現 myocarditis、pericarditis with pericardial effusion(急性期)。若沒有治療,約 25% 病人在疾病發生後第二至 三週會有 coronary artery aneurysms;當冠狀動脈瘤內徑≥ 8 mm 時,破裂的機會非常高。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 急性期(前兩週):心律不整、心肌炎、心包膜炎。冠狀動脈發炎,但還不會形成動脈瘤。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -69,10 +77,6 @@ tags:
 - 5. 心肺:常見肋膜炎(Pleuritis)、心包膜炎(Pericarditis)、Libman-Sacks endocarditis(與疾病罹病時間、活性、APS 相關,最常見於 MV)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...均應通報。 | | | | 符合下列臨床症狀及實驗室診斷者: | 1週內 | | | 一、由肺炎鏈球菌 (Streptococcus pneumoniae) 引起之侵襲性疾病,如:敗血 | | | 症 | 症、肺炎、腦膜炎、關節炎、骨髓炎、心包膜炎、溶血性尿毒症、腹膜炎…等,且 | | | | 二、經由正常狀況下之無菌檢體如:血液、腦脊髓液…等,分離培養出該菌者。 | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...併發重症 | 一、肺部併發症 (Pulmonary complication) 且住院者 | | | | 二、神經系統併發症 (Neurological complication) | | | | 三、心肌炎 (myocarditis) 或心包膜炎 (pericarditis) | | | | 四、侵襲性細菌感染 (Invasive bacterial infection) | | | | 五、非符合上述四項臨床症狀,但個案需於加護病房治療,或死亡者。 | | | | (* 類流感: 需同時符合「突然發病、有發燒(耳溫≥ 38℃)及呼吸道症狀」、 | | | | 「肌肉酸痛或頭痛或極度倦怠感」、「需排除單純性流鼻水、扁桃腺炎及支 | | | | 氣管炎」等三項條件者。) | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- 1) acute pulmonary edema 2) severe hyperkalemia 3) uremic pericarditis Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (B) 尿毒性心包膜發炎 (uremic pericarditis) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...s) | | | | (C) 輸血 (blood transfusion) | | | | (D) 經皮冠狀動脈介入治療(percutaneous coronary intervention) | | | | 【詳解】透析是 uremic pericarditis 最根本的治療方式。 | | | (C) | 3. 有關腹膜透析和血液透析的優劣點,下列何者錯誤? | 105(一)專 | | | (A) 血液透析對於超過濾(ultrafiltration)的控制比較正確 | 醫三-36 | | | (B) 腹膜透析比較容易發生血脂肪升高 | | | | (C) 血液透析比較常有白蛋白流失(D) 腹膜透析比較容易有低血鉀情況 | | | | 【詳解】腹膜透析比較容易從透析液中流失白蛋白。 | | | Source: [[sources/med3-book3-ch06|己、透析治療]].
 
 ## Clinical Caveats
 

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch02]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Stool osmotic gap (糞便滲透壓差)'
   - 'Stool osmotic gap'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-協助區分滲透性與分泌性腹瀉。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+協助區分滲透性與分泌性腹瀉。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch02]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- 4. 診斷: fasting VIP > 190 pg/mL 且為 secretory diarrhea。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 【詳解】secretory diarrhea 發生機轉有兩大類:(1) NaCl 在腸絨毛細胞(villous enterocytes)吸收異常,(2) Cl- 在腸分泌細胞(secretory crypt cells)分泌增加。與這些離子運送相關細胞膜蛋白通道有(1) the Na-K-2Cl cotransporter(讓氯離子以電中性狀態進入細胞)、(2) the Na-K pump(減少細胞內 Na+)、(3) the K+-selective pump(當 N+ 與 K Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 13. 有關滲透壓性腹瀉(osmotic diarrhea),下列敘述何者正確? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (C) 乳糖不耐症會造成滲透性腹瀉 (osmotic diarrhea) Source: [[sources/med4-book1-ch02|乙、消化系統]].

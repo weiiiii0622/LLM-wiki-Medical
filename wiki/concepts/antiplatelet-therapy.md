@@ -32,6 +32,8 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch27]]"
 aliases:
   - 'Antiplatelet therapy (抗血小板治療)'
   - 'Antiplatelet therapy'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-冠心症與 PCI 的核心血栓預防策略。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠心症與 PCI 的核心血栓預防策略。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,13 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch27]]
 
 ## Key Details From Sources
 
+- (C) 19. 此病人不管是否有接受手術,為了要預防再度中風,應接受何種 100(ニ)専 藥物治療?醫五-35 - (A) 抗血小板劑 - (B) 降血脂藥物 - (C) 抗凝血劑 - (D) 血栓溶解劑 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (D) 10. 下列有關 microvascular surgery 時使用 anticoagulant 運用的敘述, 106( ) 專 何者錯誤? 醫五-21 - (A) low dose aspirin 的 anti-platelet 效果不錯 - (B) heparin 可全身性或局部使用 - (C) fibrinolytic agent 於 microanastomosis thrombosis 時有幫忙 - (D) 使用 anticoagulant 可使 free flap transfer 之成功率大量提高 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...最可能在何處?(A) 視丘(thalamus)(B) 中腦(midbrain)(C) 橋腦(pons)(D) 延腦(medulla) | 106(二)專醫四-46 | | (C) 1 | 0. 下列有關腦中風的敘述,何者錯誤? (A) 使用抗血小板藥物,有預防缺血性中風再發的效果 (B) 治療高血壓,可有效降低中風的發生 (C) 抽煙與腦中風,無直接的關聯性 (D) 缺血性腦中風的病人,只要合併心房震顫,應建議接受抗凝血劑治療 | 106(二)專醫四-47 | | (A) 1 | 1. A 先生,65 歲男性,有高血壓病史多年,早上吃完早飯後,突然頭暈,步態不穩,被送至急診室,身體神經功能檢查,發現講話口語不清,吞嚥困難,右側 gag reflex 消失,左側疼痛感覺遲鈍,其病灶 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (B) 給予口服抗血小板劑 (aspirin) 治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -97,8 +103,6 @@ tags:
 - (2) 恢復期: 此時 Aspirin 改為低劑量給藥: 3~5 mg/kg, 一天一次直到開始發病後 6~8 週。低劑量 aspirin 使用目的是為了抗血小板用。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 2. 退燒的藥物,以 acetaminophen 及 NSAID 為主,18 歲以下兒童不可使用 aspirin(可能導致雷氏症候群)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (5) 治療: - a. 在成人或免疫不全的病人身上,建議使用 acyclovir 治療,一般健康兒童感染 水痘則不須常規給 acyclovir。 - b. 不建議使用 aspirin 治療,容易產生 Reye syndrome。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹子 108( ) 專型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】病人血氨上升代表病人肝臟 urea cycle 代謝出問題,(B)(C) 接有可能。但是 (C) 為性聯遺傳疾病,只有男性才會得到,因此 (C) 最不可能。Aspirin 在兒童常見的併發症為 Reye syndrome,此疾病的特點為 rapid and progressive encephalopathy 以及肝功能異常。Aspirin 其他副作用包括 metabolic acidosis、hyperglycemia、hyperkalemia、hypernatremia、hypoglycemia、edema、hypotension、arrhythmia、coma、confusion、dizziness、rhabdomyolysis、hemolytic anemia、thrombocytopenia。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 
@@ -109,6 +113,7 @@ tags:
 
 - [[conditions/acute-coronary-syndrome|Acute coronary syndrome (急性冠心症)]]
 - [[conditions/ischemic-stroke|Ischemic stroke (缺血性腦中風)]]
+- [[conditions/peripheral-arterial-disease|Peripheral arterial disease / PAOD (周邊動脈阻塞疾病)]]
 - [[conditions/transient-ischemic-attack|Transient ischemic attack, TIA (暫時性腦缺血發作)]]
 
 ## Follow-up

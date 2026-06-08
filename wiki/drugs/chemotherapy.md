@@ -28,6 +28,8 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Chemotherapy (化學治療)'
   - 'Chemotherapy'
@@ -42,7 +44,7 @@ tags:
 
 ## Summary
 
-細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +72,15 @@ tags:
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- ...aris propria)、well or moderately differentiated、無血管或淋巴的侵犯。且針對 T2 的患者,在做完 local excision 仍建議需要再作 adjuvant radiation plus chemotherapy 或是 radical excision (LAR 或 APR)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (3) Adjuvant chemotherapy: 5-FU 和 leucovorin (Levamisole) 可增加 Dukes B 和 C 的 survival rate 及降低復發率。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 1. 第 0 期:接受手術後,固定追蹤即可,不須輔助性化學治療或放射治療。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- ...ma),何者錯誤? | 105(一)專 | | | (A) 不可能由分化良好型甲狀腺癌轉變而來 | 醫五 -40 | | | (B) 需作切片檢查或氣管切開 | | | | (C) 目前放射線治療 (radiation therapy) 及化學治療 (chemo- | | | | therapy)效果不彰 | | | | (D) 很少需要根除手術,預後甚差 | | | (C) 19. | 甲狀腺髓質癌(medullary carcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calci Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (3) Grade III 和 IV: - a. 顱骨切開術或是立體定位法做組織切片,然後進入腫瘤內腔將腫瘤清除乾淨。但困難之處在於腫瘤和周圍腦組織無明顯界線。 - b. 放射治療:對於惡性腫瘤較有效,能延長生命但無法根除疾病。劑量越集中效果越好。 - c. 化學治療:temozolomide,單獨治療反應效果不高,需合併手術或放射治療效果較好。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (4) 腦下垂體中風 (pituitary apoplexy): - a. 當腦下垂體腫瘤逐漸擴大時,一旦壓迫到腦下垂體莖的血管,可導致急性的腦下垂體及腫瘤的缺血壞死,造成腦下垂體中風。 - b. 腦下垂體中風也可以被頭部外傷、Sheehan syndrome、內分泌藥物檢驗或治療(肢端巨大症及庫欣氏症候群)、腦下垂體放射線治療、或化學治療所引發。 - c. 症狀: 腦內壓力陡昇所造成的急性臨床症狀有頭痛、噁心嘔吐、視力模糊及 視野缺損、眼球肌肉麻痺及內分泌失調等。 - d. 處置:迅速給予類固醇治療,並在七天內進行經蝶骨(transsphenoidal)手術切除。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (D) 化學治療(chemotherapy) 對 high-grade 及 low-grade 星狀細胞瘤(astrocytoma)皆有良好療效 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -87,10 +95,6 @@ tags:
 - (1) 放射治療和化學治療效果都不錯,如果僅為單一或小範圍侵犯者,切除也可達 痊癒。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 4. 治療:早期病灶侷限於皮膚時較有治癒機會,而當病灶侵犯至淋巴結或內臟時,多 半只能緩解無法治癒。 - (1) 皮膚病灶:外用強效類固醇、局部化學治療、光化學治療(PUVA)、外用芥子 氦或 BCNU、局部或全身電子束放射療法。 - (2) 全身性治療:化療、骨髓移植、干擾素或單株抗體。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (C) 15. 一位 70 歲病患有肺癌,目前在接受化學治療,期間發現身體軀幹右側有如圖之皮膚表徵。下列敘述何者錯誤? Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- c. Cyclophosphamide:這也是一種免疫抑制劑,原本是用來做為癌症的化學治療之用,後來也常用來做為自體免疫疾病的輔助治療或脈衝治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (C) 23. 化學治療時造成的落髮原因中,最常見的是下列何者? Source: [[sources/med4-book2-ch11|子、其 他]].
-- 5. 治療: 化學治療與放射線治療。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- E. 治療: 手術切除, 有時考慮加上放射線治療或是化學治療。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 
 ## Clinical Caveats
 

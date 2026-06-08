@@ -7,6 +7,8 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book2-ch09]]"
+  - "[[sources/med5-book2-ch13]]"
 aliases:
   - 'Spinal muscular atrophy, SMA (脊髓性肌肉萎縮症)'
   - 'Spinal muscular atrophy, SMA'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-SMN1 缺陷造成 anterior horn cell degeneration 與對稱性近端肌無力。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SMN1 缺陷造成 anterior horn cell degeneration 與對稱性近端肌無力。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book2-ch09]]
+- [[sources/med5-book2-ch13]]
 
 ## Key Details From Sources
 
+- (1) 上腸繋膜動脈(SMA)支配:小腸、盲腸、升結腸和前三分之二的橫結腸。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
+- (4) SMA 和 IMA 之間藉由 arc of Riolan 以及 marginal a. 相吻合連通。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
+- 6. 淋巴結分階(由低至高): - (1) Epicolic nodes:沿著 vasa recta 分佈。 - (2) Paracolic nodes:沿著 marginal artery 分佈。 - (3) Intermediate nodes: 沿著 SMA 和 IMA 之主要分支 (ileocolic a.、right colic a.、middle colic a.、left colic a.、sigmoid a.、superior rectal a.) 分佈。 - (4) Principal nodes:沿著 SMA 和 IMA 之主幹分佈。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
+- 1. 常見原因: - (1) 動靜脈血栓。 - (2) 最常見為 SMA embolis。 - (3) 醫源性: 腹主動脈瘤手術時將下腸繋膜動脈 ligation 後造成 left & sigmoid colon ischemia。 - (4) 血管炎: polyarteritis nodosa。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - ...森氏症 (Wilson's disease) | | | (B) Friedreich 氏共濟失調(Friedreich's ataxia) | | | (C) 亨丁頓舞蹈症(Huntington's disease) | | | (D) 脊髓性肌肉萎縮症(spinal muscular atrophy) | | | 【詳解】第 60 題答 C 或 D 或 CD 者均給分。 | | | (D) 22. 下列何者不屬於三核苷酸重複異常(trinucleotide-repeat disorder)? | 102(一)專 | | (A) 亨丁頓舞蹈症(Huntington's chorea) | 醫四-51 | | (B) 第三型脊髓小腦共濟失調(spinocerebellar ataxia Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (A) 4. 脊髓神經肌肉萎縮症(spinal muscular atrophy)會造成病患廣泛 101(二)專 肌肉萎縮,但何種肌肉群組不受影響? 醫四-16 - (A) 外眼球運動肌肉 - (B) 呼吸運動肌肉 - (C) 面部表情肌肉 - (D) 吸吮吞嚥肌肉 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (D) progressive spinal muscular atrophy Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].

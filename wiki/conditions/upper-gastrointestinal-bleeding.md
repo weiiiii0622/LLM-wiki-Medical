@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book2-ch11]]"
 aliases:
   - 'Upper gastrointestinal bleeding (上消化道出血)'
   - 'Upper gastrointestinal bleeding'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-上消化道出血常見來源包含潰瘍、靜脈曲張、Mallory-Weiss tear 等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+上消化道出血常見來源包含潰瘍、靜脈曲張、Mallory-Weiss tear 等。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book2-ch11]]
 
 ## Key Details From Sources
 
+- 2. 處置:(依照下消化道出血處理原則) - (1) Resuscitation:等張性晶體溶液 ±pRBC。 - (2) 診斷出血位置: - a. NG tube:排除上消化道出血。 - b. Anoscopy/ Proctoscopy:排除 anorectal bleeding。 - c. Nuclear scan: Tc-99m \ tagged RBC \circ - d. Mesenteric angiography (血管攝影)。 - e. Colonoscopy • - f. Laparotomy (剖腹探查)。 - (3) 手術: - a. Urgent segmental resection:持續出血且輸血量已超過 6 U pRBC/24hrs 時緊急 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - (D) 10. 一位 10 歲男童主訴皮膚癢,黃疸,且 2 小時前發生吐血。他在嬰 104(二)專 兒時因膽道閉鎖而做了 Kasai operation,身體診察顯示其肝脾腫 大,且腹部上有顯著之側枝循環。糞便呈黑色,潛血反應呈強陽 性。下列何者最可能造成吐血的原因? - (A) 胃潰瘍 - (B) 流鼻血 - (C) 十二指腸潰瘍 - (D) 食道靜脈瘤破裂 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】先天性膽道閉鎖的孩子雖然經過 Kasai operation,但多 半會有門脈高壓進而和成人相似有食道靜脈瘤產生。最終食道 靜脈瘤破裂造成吐血及上消化道出血表現。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - | 在 家 | 在醫療機構 | |-------------------|-----------------------| | 一、病人:良好的症狀控制 | 一、病人:不願加重家屬負擔 | | 二、家屬:足夠的臨終教育 | 二、家屬: | | 三、環境:有足夠的居家儀器設備 | 1. 病人無法從口或鼻管進食,需要醫院 | | 四、醫護: | 的設備供應點滴 | | 1. 專業的居家安寧緩和團隊支援, | 2. 病人出現家屬無法處理的狀況,如大 | | 包括醫師、護理師的訪視 | 量吐血、傷口照護困難 | | | 三、環境:無法在家準備需要的醫療設備, | | | 如氧氣瓶、抽痰機 | | | 四、 其他:轉介制度不完善,擔心一旦出院, | | | 需要入院時會有困難 | Source: [[sources/med3-book4-ch28|戊、緩和醫療]].

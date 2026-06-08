@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Surgical site infection, SSI (手術部位感染)'
   - 'Surgical site infection, SSI'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- 【詳解】從題目敘述需擔心病人因局部傷口感染引發敗血症, 除了給予抗生素外,因儘早施行清創手術,把膿瘍和潰瘍處之 細菌量減低。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - 4. 除非毛髮會影響手術,否則手術前不需剃毛。剃毛應在手術之前距開刀時間越近越好,在手術室內且使用電動刮鬍刀最適宜。已有系統性文獻回顧證實手術前剃除毛髮並沒有顯著降低手術部位感染發生,更有新的文獻顯示手術前剃除毛髮反而較易增加手術部位感染的風險。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ## B. 手術部位感染 (Surgical site infection, SSI) Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 1. 淺層切口手術部位感染(Superficial incisional SSI): - (1) 感染範圍僅包含皮膚和皮下組織,為最常見的手術部位感染。 - (2) 發生於術後 30 天內。 - (3) 有以下任何一種情形發生: - a. 切口有化膿性液體。 - b. 從切口淺層組織或液體中培養出病原體。 - c. 具有感染發炎的症狀,例如局部發紅、腫脹、發熱、疼痛和觸痛。 - (4) 以下情形不算是淺層切口手術部位感染: - a. 縫線處化膿。 - b. 外陰切開處或包皮環切術部位的感染。 - c. 燒傷傷口。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -48,6 +51,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/anorectal-abscess-fistula|Anorectal abscess and fistula (肛門直腸膿瘍與瘻管)]]
 - [[conditions/necrotizing-fasciitis|Necrotizing fasciitis (壞死性筋膜炎)]]
 - [[conditions/septic-shock|Septic shock (敗血性休克)]]
 - [[conditions/wound-dehiscence|Wound dehiscence (傷口裂開)]]

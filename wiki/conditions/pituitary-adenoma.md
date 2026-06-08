@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch24]]"
 aliases:
   - 'Pituitary adenoma (腦垂體腺瘤)'
   - 'Pituitary adenoma'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch24]]
 
 ## Key Details From Sources
 
+- 3. Pituitary adenoma (30%): functional or non-functional • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - 3. Microadenoma:直徑小於 1 公分;Macroadenoma:直徑大於 1 公分,大部分的 pituitary tumor 屬於 microadenoma,而 macroadenoma 多屬於 non-functional。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...公 | 103(二)專 | | 分之腫瘤,向上壓迫 optic chiasma,注射顯影劑後呈現均匀且明 | 醫五-16 | | 顯之顯影,請問最可能之診斷為? | | | (A) lymphoma | | | (B) pituitary macroadenoma | | | (C) meningioma | | | (D) germ cell tumor | | Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (B) 31. 有關腦下垂體瘤 (pituitary adenoma) 的敘述,下列何者錯誤? Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -58,6 +61,7 @@ tags:
 
 - [[conditions/brain-tumor|Brain tumor (腦瘤)]]
 - [[conditions/craniopharyngioma|Craniopharyngioma (顱咽瘤)]]
+- [[conditions/men1-syndrome|MEN1 syndrome (第一型多發性內分泌腫瘤)]]
 
 ## Follow-up
 

@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Hyperkalemia (高血鉀)'
   - 'Hyperkalemia'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-高血鉀可能造成致命心律不整，需結合 ECG、腎功能、藥物與酸鹼狀態判斷。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血鉀可能造成致命心律不整，需結合 ECG、腎功能、藥物與酸鹼狀態判斷。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- 【詳解】Hyperkalemia typical EKG findings。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...enia),所以會有凝血功能障礙的情形。可以 pRBC: FFP: platelet 以 1:1:1 的方式輸注來預防。 - (4) 急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - a. 大量輸血有機會造成高血鉀,另外病人大都存在休克狀態,其體內的醛固酮、 抗利尿及皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (D) 使用非新鮮的血液製品大量輸血時,有可能發生高鉀血症 (hyperkalemia) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (C) 高血鉀症 (hyperkalemia) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -74,7 +77,6 @@ tags:
 - 【詳解】21- 羥酶缺乏所致之先天性腎上腺增生(congenital adrenal hyperplasia)中 salt losing form 會有低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | helmet cell,以及網狀紅血 | | | | 球計數的增加。 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (3) Cyclosporin (Sandimmune®): 直接抑制 IL2 合成,而減少對 T 細胞的活化,不會有骨髓抑制;常見副作用包括高血壓、高血鉀、高尿酸血症、牙齦肥大 (Gingival hypertrophy) 等。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (2) 若是細胞膜內外轉移造成的低血鉀,如低血鉀週期性麻痺(Hypokalemia periodic paralysis),要小心補過頭而造成反彈性高血鉀(rebound hyperkalemia)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

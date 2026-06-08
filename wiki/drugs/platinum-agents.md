@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Platinum agents (鉑類化療藥)'
   - 'Platinum agents'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- 【詳解】(C) FOLFOX 分別為 FOL—Folinic acid(leucovorin)、F—Fluorouracil(5-FU)、OX—Oxaliplatin(Eloxatin),作為 adjuvant chemotherapy 可改善 Duke C(stage III)患者存活率。(D) EGFR 會促進細胞增生或轉移,當使用 anti-EGFR 時可阻斷癌細胞增生和轉移,但是 RAS mutation(KRAS mutation)可以直接促進癌細胞增生轉移,因此對於 anti-EGFR 的治療效果就比較差。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- ...n | | | | expect a 5-year cure. In contrast, only 27% of patients treated with | | | | salvage radiation and concurrent cisplatin-based chemotherapy can | | | | expect to be cured. | | | | | | Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (b) 另外也可以考慮以血管攝影放置 multiple helical platinum coils 到血管瘤底 部,進行 coil embolization。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 1. 標準化療藥物組合:BEP (Bleomycin, etoposide, cisplatin)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...-------------|-----------------------|----------------------------------------|------------------------------|--| | | | Platinum | Cisplatin→肺癌、生殖細胞癌、頭頸胃腸癌 | | | | | | | Carboplatin →肺癌 (腎不好者)、卵巢癌 | 骨髓抑制 | | | | Alkylating | | Oxaliplatin→大腸癌 | 神經毒性 | | | | | Nitrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | Source: [[sources/med3-book4-ch19|乙、化學治療]].

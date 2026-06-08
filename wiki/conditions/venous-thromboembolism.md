@@ -10,6 +10,9 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch13]]"
 aliases:
   - 'Venous thromboembolism, VTE (靜脈血栓栓塞)'
   - 'Venous thromboembolism, VTE'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,17 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch12]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch13]]
 
 ## Key Details From Sources
 
+- B. 深層靜脈栓塞 (Deep vein thrombosis, DVT) 84 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- #### B. 深層靜脈栓塞 (Deep vein thrombosis, DVT) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- 1. 原因:Virchow's triad - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、antithrombin III deficiency、antiphospholipid syndrome 等。 - (3) Endothemium injury: 靜脈內皮細胞受損,例如手術( 髖關節或膝關節手術)、 外傷、之前有過 DVT。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- 【詳解】服用 warfarin 要監控 prothrombin time (PT), 服 用 heparin 才是監控 aPTT。服用 thyroxine 會造成凝血因子的 turnover rate 加快,使得 PT prolonged,所以應適當降低 warfarin 服用量。而服用口服避孕藥有增加DVT的危險,故需增加 warfarin 服用量。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 1. 常見原因: - (1) 動靜脈血栓。 - (2) 最常見為 SMA embolis。 - (3) 醫源性: 腹主動脈瘤手術時將下腸繋膜動脈 ligation 後造成 left & sigmoid colon ischemia。 - (4) 血管炎: polyarteritis nodosa。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - 1. 周邊靜脈血栓經血液循環流到肺動脈並塞住,而血栓來源大多是下肢深層靜脈拴。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 2. 危險因子同 DVT: Virchow's triad。 - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、Antithrombin III deficiency、Antiphospholipid syndrome 等。 - (3) Endothelium injury: 靜脈內皮細胞受損, 例如手術( 髖關節或膝關節手術) 外傷、 之前有過 DVT。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ...)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 (B)合併症較少 (C)腸道黏膜(intestinal mucosa)較不易萎縮 (D)易引發吸入性肺炎(aspirat Source: [[sources/med5-book1-ch01|甲、外科營養]].

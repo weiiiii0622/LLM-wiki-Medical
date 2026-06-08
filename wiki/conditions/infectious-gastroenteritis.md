@@ -19,6 +19,10 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Infectious gastroenteritis (感染性腸胃炎)'
   - 'Infectious gastroenteritis'
@@ -33,7 +37,7 @@ tags:
 
 ## Summary
 
-由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +56,18 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book3-ch02]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- ...| 少見 | 較常見 | | | (lymphoid aggregates) | | | | | 黏膜鏡檢 | 瀰漫性充血、表淺不規則潰瘍 | 鵝卵石樣 (cobble stone)、線性潰瘍 | | | | 臨床症狀 | • | | | Diarrhea | 常見 | 常見 | | | Rectal bleeding | 常見 | 少見 | | | Abdominal pain 輕微 | | 嚴重 | | | Abdominal mass | 無 | 偶爾 | | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- ...Acute severe fulminant colitis: WBC > 16,000、發燒、腹痛和腹脹。起初內科療法採 bowel rest、antibiotics、steroids; 避免使用 contrast enema、antidiarrhea及 morphine。如果病人產生敗血症或是腹膜炎就需手術處理。 - (2) 手術方法:手術目標為將結腸直腸切除,並保留肛門括約肌的功能,維持正常的排泄功能,由於 UC 僅侷限於大腸直腸,所以切除後痊癒的可能性很高。 - a. Total proctocolectomy with ileal pouch-anal anastomosis (IPAA): 常用 - (a) 將結腸和直腸切除後(保留肛門括約肌),於迴腸端製造一個憩袋,再將 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- (C) 急性腸胃炎 (acutegastroenteritis) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...大腸鏡(colonoscopy) | | | (C) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的術前放射線治療之敘述,何者錯誤? | 100(二)專 | | (A) 可以增加 Resectability rate | 醫五-16 | | (B) 可以減少術中之 Tumor seeding | Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 4. 診斷: fasting VIP > 190 pg/mL 且為 secretory diarrhea。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - ...--|---------------|-------------------------------------------|--| | Lithium | 0.8~1.2 mEq/L | 影響腎功能、tremor、weight gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedatio Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...| 104( 一 ) 専醫四 −62 | | (C) 28. 下列關於血清素症候群(serotonin syndrome)的臨床表現,何者錯誤? (A) 體溫升高 (B) 譫妄 (C) 便秘 (D) 盜汗 【詳解】血清素症候群常出現的症狀:diarrhea、diaphoresis、tremor、ataxia、myoclonus、hyperactive reflexes、disorientation、mood liability。 | 104( 一 ) 專醫四 -66 | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 【詳解】癩皮病(Pellagra),原因為營養不良缺乏維他命 B3(即菸鹼酸),主要在日曬部位皮膚一開始會有類似曬傷的狀態,接著逐漸變褐色和脫皮,產生全身色素沉澱。此外口腔有舌炎、口角炎;消化方面有嘔吐、腹瀉、消化不良;精神方面憂鬱、精神分裂、失智以及末梢神經感覺異常等併發症,嚴重者會致死。典型三大症狀(3D): Dermetitis, Diarrhea, Dementia。 Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -68,11 +81,6 @@ tags:
 - ...室檢查顯示血糖值為50 mg/dL,血清鈉離子濃度 125 mmol/L、鉀離子濃度 3.6 mmol/L、氯離子濃度 80 mmol/L,尿液鈉離子濃度 50 mmol/L。此病童最可能的診斷為何? - (A) 急性腸胃炎 (acute gastroenteritis) - (B) 心臟衰竭 (heart failure) - (C) 腦炎 (encephalitis) - (D) 腎上腺機能不全 (adrenal insufficiency) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...rin(Folinic acid)+ 5FU + Irinotecan [FOLFIRI] 。 - b. 急性膽鹼性症候群 (Cholinergic reaction): 發生於給藥 ~ 給藥後 24 小時。症狀 有早期腹瀉 (early diarrhea)、盜汗、腹部痙攣、流淚、瞳孔縮小及唾液增加。可 給予 Atropine 緩解症狀。 - c. 延遲性腹瀉 (late diarrhea):近 90% 病人會腹瀉,發生在給藥後 24 小時之後至下一治療週期開始之前。可給予 Loperamide 治療。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- 2. 鑑別診斷:假性腹瀉 (Pseudodiarrhea):頻繁地解小量糞便,可能與腸躁症 (IBS) 或直腸炎 (Proctitis) 有關。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- ...| |----------|--------------------|---------------------------------------------|-----------| | 病毒 | 輪狀病毒 (Rotavirus | Diarrhea(水瀉) | | | 食入 | 金黃色葡萄球菌 (S. | | | | 毒素 | 產氣莢膜梭菌 (C. p | erfringens) | 糞便 WBC(-) | | fmt (⇒ | 腸毒素* | 霍亂弧菌 (Vibrio cholerae)、 | 糞便 OB(-) | | 無侵 | (Enterotoxin) | 產毒素大腸菌 (Enterotoxigenic E. coli, ETEC) | | | 襲性細菌 | 細胞毒素* | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- ## 2. 旅行者的下痢 (Traveler's diarrhea): (Ref. Harrison ch 40) Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- ...型 | 雙股線狀 | 細胞質 | 痘病毒 (Pox virus) | 天花, 傳染性軟疣 | | | | | 二十面體 | 單股 (+) 無分段 | 細胞質 | 小 RNA 病毒 (Picornavirus) | 小兒麻痺,克沙奇病毒 | 腸胃道感染 | | | | | 雙股分段(11) | 細胞質 | 呼腸孤病毒科 (Reovirus) | 輪狀病毒 | 肠月坦念朱 | | | | | 面體 | 單股 (+) 無分段 | 細胞質 | 披膜病毒 (Togavirus) | a 病毒,(德國麻疹) | 節肢動物 | | | | 早版 (*) 無方权 | 細胞質 | 黃質病毒科 (Flavivirus) | 登革熱,日本腦炎 | (蟲媒病毒) | | | | | 單股 (+) 無分段 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- | 部位 | 病毒株 | 疾病 | | |-----|-----------|---------------------|-------------------------------| | 呼吸道 | 7, 14, 21 | 小孩、新兵的呼吸道感染 | | | 明明基 | 3, 4, 7 | 咽結膜炎(游泳池游泳之病史) | Pharyngoconjunctivitis | | 眼睛 | 8, 19, 37 | 角結膜炎(眼科器械移除眼睛異物之病史) | Epidemic keratoconjunctivitis | | 腸胃道 | 40, 41 | 嬰兒病毒性腸胃炎 | Infantile diarrhea | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

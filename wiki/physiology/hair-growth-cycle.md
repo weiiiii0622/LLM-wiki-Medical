@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med5-book2-ch25]]"
 aliases:
   - 'Hair growth cycle (毛髮生長週期)'
   - 'Hair growth cycle'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-毛囊依 anagen、catagen、telogen 循環，影響掉髮與毛髮疾病判讀。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+毛囊依 anagen、catagen、telogen 循環，影響掉髮與毛髮疾病判讀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med5-book2-ch25]]
 
 ## Key Details From Sources
 
+- 3. Proliferative phase (增生期):約第2~3天開始,可持續到3~4週。 - (1) Granulation phase (肉芽組織生長期): 纖維母細胞 (fibroblast) 移行至傷口處,不斷產生纖維細胞 (fibrocyte),並分泌第三型膠原蛋白 (type III collagen)。 膠原蛋白的作用為提供上皮細胞移行的管道、刺激真皮細胞移行並作為真皮細胞層生長的骨架,以促進傷口癒合。同時也會有微血管新生 (angiogenesis)的 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- (3) Epithelization phase (上皮組織生長期):這段期間上皮細胞會覆蓋在傷口上,形成保護層將正在癒合的傷口與外界環境隔開。此時期受到完整上皮基底層和適當傷口潮濕度的影響,可以加速上皮層的形成。到此傷口癒合算是告一段落,接下來剩下「形成疤痕」。假使傷口深度僅為 Partial thickness wound (僅傷到上皮層或淺層真皮層),由於傷口淺,其癒合主要靠上皮細胞移行 (Epithelization)作用,而 Full thickness wound 則是傷到深層真皮層,癒合作用需仰賴上述的肉芽組織生長,靠纖維母細胞製造膠原蛋白促進傷口癒合。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (1) 不願意維持就其年齡和身高而言,所應有的最低正常標準或標準以上的體重(例如:體重下降導致低於預期體重 85%以下;或在生長期不能增加預期應該增加的體重,體重反而低於預期體重 85%以下)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - c. 毛囊生長階段分為生長期(anagen)、退化期(catagen)、休止期(telogen)。 - (a) 生長期 (anagen): 約有 85~90% 的毛囊屬於生長期,頭皮毛囊生長期時間約 2~6 年,每天約以 0.35 mm 生長,平均一個月約可長出 1cm。 - (b) 退化期(catagen):約有 1%的毛囊屬於退化期,毛囊細胞將進行細胞凋亡的動作,時間約 2~3 週。 - (c) 休止期(telogen):約有 $10\sim15\%$ 的毛囊屬於休止期,時間約為 3 個月。 正常人一天約有 $50\sim100$ 根頭髮會自動脫落,之後再進入生長期,進行下 一個循環。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (B) 休止期落髮 (telogen effluvium) Source: [[sources/med4-book2-ch11|子、其 他]].

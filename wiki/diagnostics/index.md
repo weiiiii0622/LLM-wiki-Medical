@@ -17,6 +17,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 
 - [[diagnostics/acth-stimulation-test|ACTH stimulation test (ACTH 刺激試驗)]] - 評估腎上腺皮質醇分泌能力。
 - [[diagnostics/anion-gap|Anion gap (陰離子間隙)]] - 用 Na、Cl、HCO3 估計未測量陰離子，輔助代謝性酸中毒鑑別。
+- [[diagnostics/ankle-brachial-index|Ankle-brachial index, ABI (踝肱指數)]] - 以下肢與上肢收縮壓比值評估 peripheral arterial disease 嚴重度與追蹤治療反應。
 - [[diagnostics/anti-ccp-antibody|Anti-CCP antibody (抗環瓜氨酸抗體)]] - RA 診斷與預後評估的重要自體抗體，特異性較 RF 高。
 - [[diagnostics/antinuclear-antibody|Antinuclear antibody, ANA (抗核抗體)]] - SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。
 - [[diagnostics/apgar-score|Apgar score (Apgar 評分)]] - 出生後快速評估 heart rate、respiration、tone、reflex irritability 與 color。
@@ -50,6 +51,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/electromyography|Electromyography, EMG (肌電圖)]] - 針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。
 - [[diagnostics/esophageal-ph-monitoring|Esophageal pH monitoring (食道酸鹼監測)]] - GERD 疑似但內視鏡正常時可量化酸暴露。
 - [[diagnostics/evoked-potential-test|Evoked potential test (誘發電位檢查)]] - 以視覺、聽覺或體感刺激測量傳導路徑反應，常用於 demyelinating disease 評估。
+- [[diagnostics/fine-needle-aspiration-cytology|Fine needle aspiration cytology, FNA (細針抽吸細胞學)]] - 甲狀腺結節與其他表淺腫塊常用細胞學檢查，用於良惡性分流與手術決策。
 - [[diagnostics/flow-cytometry|Flow cytometry (流式細胞術)]] - 以表面標記與細胞特徵分類白血病、淋巴瘤、PNH 等血液疾病。
 - [[diagnostics/focused-assessment-with-sonography-for-trauma|FAST exam (創傷超音波快速評估)]] - 外傷病人床邊超音波快速評估腹腔、心包膜或胸腔液體。
 - [[diagnostics/fractional-excretion-of-sodium|Fractional excretion of sodium, FENa (鈉分率排泄)]] - 用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。
@@ -88,6 +90,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/tanner-staging|Tanner staging (Tanner 青春期分期)]] - 以乳房/生殖器與陰毛發育分期評估青春期進展。
 - [[diagnostics/thyroid-fine-needle-aspiration|Thyroid fine-needle aspiration, FNA (甲狀腺細針抽吸)]] - 甲狀腺結節依超音波風險與大小決定 FNA。
 - [[diagnostics/thyroid-function-tests|Thyroid function tests (甲狀腺功能檢查)]] - TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。
+- [[diagnostics/thyroid-ultrasonography|Thyroid ultrasonography (甲狀腺超音波)]] - 評估 thyroid nodule 的 cystic/solid、鈣化、邊緣、血流與 FNA 導引。
 - [[diagnostics/toast-stroke-classification|TOAST stroke classification (TOAST 中風病因分類)]] - 急性缺血性中風病因分類，包含 large artery atherosclerosis、cardioembolism、small vessel 等。
 - [[diagnostics/tumor-markers|Tumor markers (腫瘤標記)]] - 腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。
 - [[diagnostics/tumor-staging|Tumor staging (腫瘤分期)]] - 腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。

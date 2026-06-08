@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book1-ch20]]"
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med5-book2-ch03]]"
 aliases:
   - 'Acute coronary syndrome (急性冠心症)'
   - 'Acute coronary syndrome'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-斑塊破裂與冠狀動脈血栓造成不穩定心絞痛或心肌梗塞。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+斑塊破裂與冠狀動脈血栓造成不穩定心絞痛或心肌梗塞。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,12 @@ tags:
 - [[sources/med3-book1-ch20]]
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med5-book2-ch03]]
 
 ## Key Details From Sources
 
+- CLASS I recommendation for emergency CABG in STEMI: Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (C) 20. 陳先生 62 歲,除患有糖尿病多年外,身體一向健康。某日午餐後返辦公室,突然感到胸痛不適。同事將陳先生送入醫院急診室,初步判斷為急性冠狀症候群(acute coronary syndrome)。住院一星期後病情穩定,各器官功能正常。經心導管檢查,發現冠狀動脈阻塞情況如下:左冠狀動脈主幹(leftmain coronary artery) 80% 狹窄、左冠狀動脈左前降支近心端 76% 狹窄與中段70% 狹窄、左迴旋支中段65% 狹窄、右冠狀動脈中段83% 狹窄與遠心端90% 狹窄。經心臟內外科團隊討論後,建議陳先生接受下列何種後續治療的一年存活率最好? - (A) 經皮穿徑冠狀動脈血管整形術 (percutaneous t Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - ...才吃第一次藥。依此病人的臨床表現, 下列何種疾病最有可能? - (A) 急性氣管炎 (acute bronchitis) - (B) 氣喘發作 (asthma attack) - (C) 過敏性反應 (anaphylaxis) - (D) 急性冠心症候群 (acute coronary syndrome) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - 【詳解】(C)雖然大部分的早期偵測大腸癌的計畫都強調糞便潛血 檢查,但卻有50%證實有大腸癌的病人其糞便潛血檢查是陰性的, 這和大腸癌的出血是間斷性的有關,因此敏感度其實不高;另外, 潛血陽性的也< 10%後來發現有大腸癌。其實, Colonoscopy 才是 最具敏感的檢查;因此 ACS 建議篩檢的方法是大於 50 歲的人每年 檢查大便潛血,且5年檢查一次 sigmoidoscopy。(Harrison, 529) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - C. 急性冠心症(Acute coronary syndrome) 48 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

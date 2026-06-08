@@ -18,6 +18,9 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch07]]"
 aliases:
   - 'Cardiomyopathy (心肌病變)'
   - 'Cardiomyopathy'
@@ -32,7 +35,7 @@ tags:
 
 ## Summary
 
-心肌結構或功能異常的疾病群。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌結構或功能異常的疾病群。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +53,18 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch07]]
 
 ## Key Details From Sources
 
+- (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (B) 窄縮性心包膜炎 (constrictive pericarditis) 與限制性心肌病 變(restrictive cardiomyopathy)的鑑別診斷往往需要藉由右 側心導管的壓力追蹤圖來區分 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (A) 7. 下列關於心臟瓣膜疾病,何者正確? ①暈厥(syncope)為重度 主動脈瓣狹窄之手術適應症之一 ②僧帽瓣修補術可用於擴張性 心肌症(dilated cardiomyopathy) 患者的手術治療 ③心臟移植 手術可用於心臟瓣膜疾病患的手術治療(④僧帽瓣修補的手術死 亡率比僧帽瓣置換術的手術死亡率高 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 2. 缺血性心肌病變合併大範圍心肌梗塞,導致衰竭,且無法以傳統冠狀動脈繞道手術 改善。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
+- 3. 瓣膜性心臟病經多次瓣膜手術仍無法治療,且合併心肌病變。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
+- ...| | | 需要心肺移植(heart-lung transplantation)? | 醫五-1 | | | (A) 末期肺氣腫 | | | | (B) 缺血性心臟病 | | | | (C) 原發性肺動脈高壓 | | | | (D) 原發性心肌症合併次發性肺動脈高壓 | | | (B) | 5. 在心臟移植手術時,若受贈者術前的肺動脈壓非常高,因而造成 | 94(二)專 | | | 術後死亡,最可能的死亡原因為: | 外一-22 | | | (A) 急性肺水腫 | | | | (B) 急性右心衰竭 | | | | (C) 急性排斥現象 | | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - ...是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),rivaroxaban(Xarelto®),Apixaban(Eliquis 恣®)和 Edoxaban(Lixiana® Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (D) 擴張型心肌病變 (Dilated cardiomyopathy) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 年紀較大的幼兒:急性感染可能會出現急性鬱血性心衰竭、擴張型心肌病變、 心室性心律不整。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -65,12 +77,6 @@ tags:
 - ...性病人因再生不良性貧血而長期接受輸血治療,病人全 | 102(二)專 | | (-) | 身皮膚呈現鐵灰色,血中 ferritin 高於正常值 500 倍,下列何種併發 | 醫三-5 | | | 症與長期輸血無關? | | | | (A) 心肌病變(cardiomyopathy) | | | | (B) 肝硬化 (liver cirrhosis) | | | | (C) 糖尿病 (diabetes mellitus) | | | | (D) 白內障 (cataract) | | | (B) 1 | 9. 在有慢性溶血疾病的病人,下列何種病毒感染會導致暫時性的再生 | 102(二)專 | | (-, | 不良性貧血(transient aplastic crisis)? | 醫三 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (B) Cardiomyopathy Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (B) 阻塞性心肌病變(obstructive cardiomyopathy) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- (3) 症狀: - a. 從 GH、IGF-1 升高到有症狀約需 10 年,肢體末端(Acral)骨頭過度增生,導致下巴、手、腳變大。 - b. 肢端肥大症臨床上更重要的影響包含冠心病、心肌病變(Cardiomyopathy)導致心律不整,上呼吸道阻塞導置睡眠中止(Sleep apnea)、高血壓、糖尿病等,這些與死亡率更有關係。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- 2. 鐵質沈積 (Hemochromatosis): - (1) 中年男性,體染色體隱性的遺傳疾病,最常見之突變為 HFE 基因同質接合子 (homozygote) C282Y,導致鐵在體內堆積;也可能因為長期接受輸血治療。 - (2) 理學檢查可見患者全身皮膚呈現鐵灰色。 - (3) 抽血可發現血中 Ferritin 高於正常值 500 倍、High transferrin saturation (男> 55%、女> 45%)、HFE 基因突變(Hemochromatosis gene)。 - (4) 鐵到處沉積會造成心肌病變、肝硬化、糖尿病、關節炎、性腺功能過低等。 - (5) 治療:放血 (Phlebotomy)。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (A) 心肌病變 (B) 肝硬化 (C) 糖尿病 (D) 白內障 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- A. 擴張性心肌病 (Dilated cardiomyopathy, DCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- B. 肥厚性心肌病 (Hypertrophic cardiomyopathy, HCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- C. 侷限性心肌病 (Restrictive cardiomyopathy, RCM) 169 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 
 ## Clinical Caveats
 

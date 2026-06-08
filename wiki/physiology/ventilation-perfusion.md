@@ -16,6 +16,9 @@ sources:
   - "[[sources/med5-book1-ch19]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Ventilation-perfusion matching, V/Q (通氣灌流匹配)'
   - 'Ventilation-perfusion matching, V/Q'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,17 @@ tags:
 - [[sources/med5-book1-ch19]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- 在處理各式先天性心臟病時,我們會策略性的關閉或維持 PFO 與 PDA 這兩個「額外」連通左右心的天然孔道,或甚至製造人工孔道如心房穿孔或 Blaylock-Taussig (BT) Shunt 等。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- b. Blalock Taussig shunt (B-T shunt): 分流手術。 - (a) 為 palliative surgery, 將 subclavian artery 和 pulmonary artery 接在一起, 引流部分 subclavian artery 血液至肺部增加 pulmonary blood flow,增加回心的含氧血。(下圖 A) - (b) 但接久了 subclavian artery 會變大,使得肺血流太多導致肺高壓。故可改用人工血管(modified B-T shunt),減少肺高壓的情形。(下圖 B) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- ...d 階段手術,嬰兒才能存活。 - a. 第一階段(Norwood procedure):出生後第一週進行。 - (a) 心房中膈切除術使左心房血液流至右心房;將主動脈重建接至右心室讓右心室將血液打到全身,而肺動脈則和右心房分離;做 B-T shunt 使右心室打出的部份血液能引至肺動脈並流到肺部進行氧合作用。(見上圖右) - b. 第二階 (bidirectional Glenn procedure): 出生三到六個月進行。 - (a) 將上腔靜脈血液直接分流至肺動脈,降低右心室的負擔。 - c. 第三階段 (Fontan procedure): 兩到三歲進行。 - (a) 同樣將下腔靜脈分流至肺動脈,至此上、下腔靜脈血液不經心臟直接流 回肺動脈,而右心室專心負責體循環,將血液輸送 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- ...gle-vessel disease、extensive MI 以及 poor septal collateral circulation。 - (3) 聽診可發現新的 holosystolic murmur (Left to Right shunt), Doppler 超音波是最佳的診斷工具。 - (4) 處置:緊急手術切除 rupture 的 necrotic tissue,並進行修補。手術前先做主動脈 內氣球幫浦(intra-aortic balloon pump, IABP)可穩定血循,降低 afterload(也 就是降低 systemic vascular resistance)並增加血液灌流至 coronary perfusion。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (D) 臉部傷口之縫合需消除皮下死腔(dead space),使用較細之 縫線縫合傷口 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - 2. 腦室腹腔分流(ventriculoperitoneal shunt)。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 3. 腦室心房分流(ventriculo-atrial shunt)。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 【詳解】NPH 的三個典型症狀中,尿失禁和步態不穩在做 VP shunt 以後可以明顯獲得症狀改善,失智方面由於牽涉到組織病理變化 (neurodegenerative),其症狀改善相較於另外兩者較不顯著。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
@@ -62,11 +73,6 @@ tags:
 - (1) 一開始使用 PGE1 確保 PDA 暢通直到 surgical aortopulmonary shunt。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...| 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | | | | , | 過後發生腦膜炎需懷疑 S. aureus | MRSA | Vancomycin | | Haemophilusinfluenzae | (又圓又桿) | 自從孩童普遍接種 H. influenzae type b疫苗,發生率已減少 | | Ceftriaxone | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (1) 肝功能衰竭後,一些有毒物如 NH3 無法被代謝,循環到腦部造成傷害。然而也認為 與門脈 - 體循環產生交通支(portal-systemic shunt)、腸內細菌過度生長且易穿透 腸壁 bacteria translocation 等有關。臨床上檢驗 NH3 作為代表,但 surum NH3 與嚴重 度並無絕對相關,且影響腦部的物質目前認為不止 NH3 一種。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
-- ...(B) 肺梗塞(pulmonary embolism) (C) 肝肺症候群(hepato-pulmonary syndrome) (D) 糖尿病合併酮酸中毒(diabetic ketoacidosis) 【詳解】(C) 肝肺症候群會產生 shunt 導致低血氧,這些 shunt 在肺底部較多,站著的時候較多血流經 shunt,低血氧較嚴重。 | 99(一)專醫三-16 | | (D) | 17. 一位 50 歲男性因為 B 型肝炎相關肝硬化合併大量腹水住院治療,經利尿劑及幾次大量腹水放液術治療後,小便量及 glomerular filtration rate 明顯減少,最適當的治療為何? (A) propranolol (B) fluid supply (C) 增加利尿劑劑量 ( Source: [[sources/med3-book2-ch23|戊、肝硬化]].
-- (D) transjugular intrahepatic portosystemic shunt Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- ...尖、指甲床、四肢) | | 症狀 | 會喘、四肢溫暖、clubbing fingers、動脈血氧 (ABG) 低 | 不會喘、四肢冷、動脈血氧 (ABG) 正常 | | 病因 | 動脈氧不足:高緯度,肺部疾病 VQ mismatch,解剖 shunt ( 發紺型先天性 心臟病,如 Fallot 四重症等 ) 血紅素異常:變性血紅素 | | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...\times Pa_{CO2} = 150$ | − 1.25×Pa CO2 | | $PA_{O2} - Pa_{O2}$ | PA 02 — Pa 02 正常人 (Hypovia) | A-a gradient 異常 | 不可校正→ Shunt | 局部肺塌陷、肺炎 | | (Hypoxia) | A-a gradient 美吊 | 可校正→ V/Q mismatch | 最廣泛 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...併呼吸衰竭 106(一)專 (B) 3. COPD 患者休息狀態時,動脈血已出現缺氧現象,該病患較不可能 因 COPD 而出現下列那一項呼吸生理的障礙? 醫三-46 (A) 第一秒吐氣量 (FEV,) 低於預期值的 50% (B) 分流 (shunt) 增加 (C) 換氣 / 灌流失衡 (ventilation/perfusion mismatching) (D) 第一秒吐氣量(FEV1)低於預期值的25%時,可能同時伴有動 脈血中二氧化碳升高(PaCO,) 【詳解】(B)分流(shunt)增加發生於肺炎等無法進行氧氣交換的 區域。 105(二)專 (D) 4. 下列有關呼吸衰竭 (respiratory failure) 之敘述,何者錯誤? (A) 一般以動脈血中的氣體(如氧氣、 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 

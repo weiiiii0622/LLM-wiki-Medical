@@ -22,6 +22,8 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Renal potassium handling (腎臟鉀離子處理)'
   - 'Renal potassium handling'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,15 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 1. 血液 aldosterone 濃度過高。Aldosterone 的生理作用是留鈉、排氫、排鉀。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 3. 症狀:腹瀉 (fasting stool output > 1 L/day )、低血鉀、胃酸低、高血糖、高血鈣、潮紅。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - ...enia),所以會有凝血功能障礙的情形。可以 pRBC: FFP: platelet 以 1:1:1 的方式輸注來預防。 - (4) 急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - a. 大量輸血有機會造成高血鉀,另外病人大都存在休克狀態,其體內的醛固酮、 抗利尿及皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (C) 高血鉀症 (hyperkalemia) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 2. 鉀:正常血鉀濃度為 3.5~5.0 mEq/L。 - (1) 低血鉀 (hypokalemia): 症狀有噁心嘔吐、肌肉無力、ileus、橫紋肌溶解和多尿; 心電圖變化有 T 波變平坦、出現 U 波、ST segment 下降、APC/VPC。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -75,10 +83,6 @@ tags:
 - 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (3) Salt losing form 臨床上常表現典型 cortisol 與 aldosterone 缺乏症狀,但通常要出生後 1~2 週才會有表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...-------------| | 先天性腎上腺增生(21-hydroxylasedeficiency) | 先天腎上腺增生為體染色體隱性遺傳疾病。大部分是因為腎上腺21- 酵素缺乏。嬰兒會在出生後 10 天左右,因鹽分大量流失,造成低血鈉、高血鉀、嘔吐、體重不增等現象。此外,此疾病會刺激雄性素的分泌,而引起雄性化,使得嬰兒在胎兒期就會發生外陰雄性化現象。 | | 楓糖尿症 | 體染色體隱性遺傳疾病。人體中缺少支鏈甲型酮酸脫氫酵素,使得此胺基酸的代謝無法進行。症狀:在開始餵食後數天至一周內,會出現嘔吐、嗜睡、食慾減低、呼吸急促、黃疸及抽搐等現象,身上散發楓樹糖漿的體味或尿味。 | | 中鏈脂肪酸去氫酶缺乏症(中鏈醯輔酶A去氫酶缺乏症) | 體染色體隱性遺傳的脂肪酸代謝異常疾病。此 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...drenal crisis,因此篩檢重點在於 classic type。而 classic type 又可分為 saltwasting CAH 與 simple virilizing CAH。其中 salt-wasting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

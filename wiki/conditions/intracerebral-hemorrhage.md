@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch16]]"
+  - "[[sources/med5-book2-ch05]]"
 aliases:
   - 'Intracerebral hemorrhage, ICH (腦出血)'
   - 'Intracerebral hemorrhage, ICH'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-腦實質出血，常與高血壓、amyloid angiopathy、AVM、抗凝或腫瘤相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質出血，常與高血壓、amyloid angiopathy、AVM、抗凝或腫瘤相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch16]]
+- [[sources/med5-book2-ch05]]
 
 ## Key Details From Sources
 
+- 【詳解】機械型瓣膜病人須終身服用抗凝血劑,出血風 險相對組織型來得高,故不適合計劃生育之女性(Post partum hemorrhage),也不適合老年人(ICH)與血友病患者 (Coagulopathy),另有研究顯示裝有組織型瓣膜的洗腎患者較 不易流血且洗腎通路較不易阻塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 5. 顱內動脈瘤最危險的地方在於動脈瘤破裂,造成 SAH (最常見)、ICH (intracerebral hemorrhage, 20~40%)、IVH (intraventricular hemorrhage, 13~28%)或 SDH (2~5%)。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (D) 高血壓性腦出血(hypertensive cerebral hemorrhage) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - ## 己、腦內出血 (Intracerebral Hemorrhage, ICH) Source: [[sources/med5-book1-ch15|己、腦內出血]].
@@ -61,8 +65,6 @@ tags:
 - ...---------------------------------| | 原發性頭痛(Primary headache) | 緊縮型頭痛(最常見、但少考)偏頭痛(常見、也愛考)叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血管炎 (Temporal arteritis) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - 1. 顱內壓太高 (increased intracranial pressure = IICP): - (1) 特徵: - a. 這類頭痛通常慢慢發生;早上起來最痛,因為平躺一晚,水往頭部分佈,腦 壓增加使然。其他咳嗽、身體彎曲等使腦壓增加的狀況也會惡化頭痛。 - b. 腦壓太高,會造成頭痛、嘔吐;還會造成視乳突水腫(papilledema),而有視力模糊等症狀。 - c. 若腦壓高到造成 tentorial herniation, 會壓到第三對腦神經、中腦,造成瞳孔 放大、失去光反射。 - d. 若使延腦受到壓迫,會有 Cushing triad:血壓高、心跳慢、呼吸不規則。 - (2) 病因: - a. 常需影像學進一步找出 IICP 原因,嚴重的中風導致腦水腫?腦出血?腫瘤? Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (A) 額葉部腦出血(frontal lobe hemorrhage) Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- (B) 視丘腦出血(thalamic hemorrhage) Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- ...正常 | 15~40 | 0~5 | 50~100 | Clear | 9~18 | | 發炎 (AIDP, MS) | > 40 | 0~5 | 50~100 | Clear | 9~18 | | 病毒性腦膜炎 | 50~100 | (ICH) | 蜘蛛膜下腔出血(SAH) | 慢性硬膜下出血(Chronic SDH) | 硬膜上出血(EDH) | |--------|------------------------|------------------|--------------------------|----------------| | 常見原因 | 高血壓、動靜脈畸形(AVM) | 動脈瘤(交通支) | 老年人跌倒 | 嚴重外傷 | | 出血處 | 腦實質內 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 
 ## Clinical Caveats
 

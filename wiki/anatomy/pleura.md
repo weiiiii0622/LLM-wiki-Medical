@@ -36,6 +36,9 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Pleura (肋膜)'
   - 'Pleura'
@@ -50,7 +53,7 @@ tags:
 
 ## Summary
 
-肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +89,15 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- 1. 胸部 X 光:可觀察主動脈、氣管是否有移位,或是縱隔腔會有 widening 的情形, 也有機會看見 pleural effusion 或 cardiomegaly。但 X 光敏感性和特異性皆不好,並 不能用來作為排除主動脈剝離的診斷,需做 CT 或是 MRI 才能確診。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 【詳解】可能是血管吻合處有 leakage,給予強心劑會加重出血,甚至壓力過大將出血點用破更大傷口。開心手術患者胸管通常放置於心包膜腔或肋膜腔,兩者因心包膜與肋膜切開而相通,故胸管引流量異常增加須考慮 postoperative surgical site active bleeding。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- ...---------------------------------------| | 皮膚 | 溫暖、濕 | 冷、乾 | | 心血管 | 減少血管阻力、心跳加速 | 增加血管阻力、心跳減慢 | | 呼吸 | 喘 | 呼吸抑制,二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (1) Video-assisted thoracoscopic surgery (VATS): - a. 電視輔助胸腔手術,當作了胸腔穿刺或是經皮肋膜切片仍無法診斷疾病時, 會選擇用 VATS 進去作切片。 - b. VATS 經常用來作肺邊緣小結節切片、縱膈腔腫瘤及淋巴切片來診斷惡性或 良性。 - c. 在診斷肋膜疾病有 95% 的準確率。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - (1) VATS 也可用來治療疾病: - a. 肺邊緣小結節切除、肺氣泡切除(bleb resection),肋膜切除(pleurectomy) - b. 膿胸 (empyema) 處理。 - c. 肺膜沾合術 (pleurodesis)。 - d. 交感神經切除術(sympathectomy):切除 T2 交感神經節,治療手汗(hyperhidrosis palmaris)。 - e. 心包膜開窗術 (pericardial window)。 - f. 較複雜的胸腔手術: 食道肌切開術 (myotomy)、縱膈腔或肋膜腫瘤的切除、肺葉或肺全切除術 (lobectomy or pneumonectomy) 以及食道切除術 (esophagectomy)等。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - 3. 絕對禁忌症:肋膜腔嚴重的沾黏、無法承受單肺通氣(one lung ventilation)的病人。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
@@ -104,9 +113,6 @@ tags:
 - (B) 3. 一位 3 歲大的男童,因持續 8 天的發燒、咳嗽、流鼻水而住院。 身體診察發現呼吸聲有囉音和右側呼吸音下降的情形,胸部 X 光 在入院時為圖一。血液檢查:血紅素 7.2 gm/dL、血小板 32,000/ mm³、白血球 24,000/mm³、CRP 25 mg/dL、GOT128 IU/L、GPT 26 IU/L,肋膜抽取液的格蘭氏染色為圖二。經輸血後出現黃疸 情形並且出現無尿的狀況。下列那個診斷最符合? Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 5. 心肺:常見肋膜炎(Pleuritis)、心包膜炎(Pericarditis)、Libman-Sacks endocarditis(與疾病罹病時間、活性、APS 相關,最常見於 MV)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- (B) 14. 根據 1982 年美國風濕病學院所制定的全身性紅斑狼瘡(SLE)的 11 102( 二 ) 專項分類準則中符合 4 項即可診斷。下列何種組合最符合 SLE 的診斷? - (A) 臉頰部紅斑,發燒,關節疼痛及口腔黏膜潰瘍 - (B) 抗核抗體陽性,抗 dsDNA 抗體升高,尿蛋白 1.25 公克/天,以及血小板數為 $68,000/\mu$ L - (C) 多發性關節炎,抗核抗體陽性,白血球增加及肋膜炎 - (D) 多發性關節痛,口腔黏膜潰瘍,抽搐及血清補體 C3 降低 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- 【詳解】肺栓塞會使肺動脈血管阻力上升導致肺高壓,常見症狀包括 dyspnea、pleural pain、tachycardia、syncope(cardiac output 突然 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- e. Pleural or pericardial effusion Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 
 ## Clinical Caveats
 

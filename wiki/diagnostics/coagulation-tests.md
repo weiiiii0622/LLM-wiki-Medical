@@ -26,6 +26,11 @@ sources:
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book2-ch27]]"
 aliases:
   - 'Coagulation tests, PT/aPTT (凝血檢查)'
   - 'Coagulation tests, PT/aPTT'
@@ -40,7 +45,7 @@ tags:
 
 ## Summary
 
-PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondary hemostasis 異常。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondary hemostasis 異常。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +71,24 @@ PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondar
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch11]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch25]]
+- [[sources/med5-book2-ch27]]
 
 ## Key Details From Sources
 
+- 5. 治療: - (1) 穿彈性襪 (compression therapy)。 - (2) 先使用 heparin 維持 INR 2~3, 之後改用 Warfarin 維持,至少吃三個月到六個月,如果復發則建議吃終身。 - (3) 靜脈血栓清除術(venous thrombectomy): 以導管進入阳塞的靜脈清除血栓。 - (4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 - c. 慢性 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (B) 深部靜脈栓塞,且不適合使用抗凝血劑 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (D) 在足量之抗凝血劑治療下,仍反復多次靜脈栓塞 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (d) 瓣膜置換手術 (mitral valve replacement): 若患者瓣膜嚴重狹窄、閉鎖,瓣膜和周圍組織嚴重鈣化,以及同時伴有嚴重 MR,則採用瓣膜置換手術,可選用機械性或生物性瓣膜。 - i. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎,且難以控制。 - ii. 生物性瓣膜: 血栓栓塞機率較低,抗凝血劑只需短期服用約3~6個月,但較無耐抗力,大約能使用10~20年,適用年紀較長者,因瓣膜失效時大約也已不久於世。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (d) Ross procedure: 連同主動脈瓣拿掉一段主動脈,將肺動脈連同肺動脈瓣 (autograft) 截取一段去修補主動脈,再從器捐者取得的肺動脈(allograft) 去修補缺少的肺動脈。好處是不需服用抗凝血劑,且置換的肺動脈瓣能 隨著病患成長而跟著長大,對於小孩或年輕人是不錯的選擇。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 1. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞 率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎, 且難以控制。 - (1) 適用於小孩、小於六十歲者、有 atrial fibrillation 患者(本身就有在服用 Wafarin)、瓣膜的環部(annular)太小,因為生物性瓣膜比較大片,換了反而 會造成 stenosis 的後果。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 1. 正名為體外膜氧合,俗稱葉克膜,其原理類似傳統體外循環系統,將體內靜脈血引流出體外,使缺氧血經由體外膜氧合器(人工肺)靠擴散作用進行氧氣交換成充氧血,而後經動力泵(人工心臟)及體溫熱交換器將血液注入回病人動脈或靜脈系統,暫時替代心肺的功能,維持人體器官組織氧合血供應。其他還有氣體混合器(可調整氧氣濃度及氣體流速)、以及各種生理監視器,以便監測血液流速、血紅素、血氧飽和度、血液溫度、活化凝血時間,也可同時做連續性的血液透析。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (2) 血栓生成,故須使用大量抗凝血劑,但反而可能造成出血的情況。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 【詳解】血液流經體循機管路表面啟動凝血路徑、心臟麻痺液或其他藥物引起過敏、缺血與再灌流過程…等,皆有可能在術後引發 SIRS。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- Coagulation, hemostasis, phase (止血期): 一受傷即開始此凝血機制啟動,血小板和 fibrin 共同凝成血塊以避免持續出血。血小板內的 α granule 會釋放出 PDGF (platelet-derived growth factor)、TGF-β (transforming growth factor-beta)以促進傷口癒合,此時期主要細胞為 platelet。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - ...合 2 個以上: - (1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...超過 2,500 mL,或 24 小時內輸超過 5,000 mL。 - (1) 大量輸血可能引起許多併發症,包括: - (2) 低體溫:因為血品儲存溫度為 1~6℃,在輸血前盡量要對冷藏血進行預熱,輸血後也要注意進行體溫回復。 - (3) 凝血功能障礙:一部分因為外傷損失大量血小板和凝血因子,且止血過程中又會消耗血小板和凝血因子;另外像是 packed RBC 內不含足夠凝血因子,而輸血帶來的大量體積又會稀釋掉血小板濃度(dilution thrombocytopenia),所以會有凝血功能障礙的情形。可以 pRBC: FFP: platelet 以 1:1:1 的方式輸注來預防。 - (4) 急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 1. 全身小血管發生凝血,廣泛形成血栓,因而消耗大量凝血因子和血小板,並繼發激 活纖維蛋白溶解,因而引起嚴重的廣泛的全身性出血。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
@@ -77,16 +97,6 @@ PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondar
 - (C) 1. 病患手術前有使用 vitamin K antagonist (VKA),例如 warfarin, 109(二)專 會增加手術中出血的機會;一般在 elective surgery 前,建議先停 藥5天以上,讓 international normalized ratio (INR)上限低於 多少以下,再進行手術? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 【詳解】使用 warfarin 者,在手術前需停藥五天,讓 INR 低於 1.5 • Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (C) 35. PT (prothrombin time) 延長是因凝血因子低於正常的百分之五十以下,但下列何種因子除外? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- 4. 腫瘤、凝血異常、創傷、古柯鹼等。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- 1. 保守療法和外科手術的治療結果差不多,目前多先採保守療法: - (1) 控制 blood pressure (約 140/90) 和 cerebral pressure。 - (2) 體液和電解質平衡。 - (3) 防止癲癇發生。 - (4) 校正凝血功能。 - (5) 插管和過度換氣。 - \*類固醇不建議使用在 ICH,會增加 complication 的機率(主要是感染)。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- ...brillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),rivaroxaban(Xarelto®),Apixaban(Eliquis 恣®)和 Edoxaban(Lixiana®)等。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 5. Prothrombin time (PT) - (1) 與白蛋白相同,用來評估肝臟合成功能的指標。 - (2) 除了 factor VIII 以外,其餘凝血因子均由肝臟製造。因此發生嚴重的肝功能受損時,除了 PT 延長以外, aPTT 亦會延長。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 5. 治療:兩個目標:緊急處理出血以及防範再出血。 - (1) Emergency treatment:輸液補充、矯正凝血功能、藥物治療出血(vasopressin、H2-receptor blocker、proton pump inhibitor)。 - (2) 防範再出血: Propranolol。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (C) 若凝血酶原時間 (Prothrombin time) 和部分凝血活酶時間 (Activated partial thromboplastin time) 延長,應給與維生素 K 以提升肝臟合成凝血因子 II, VII, IX, X Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...nt)為 8,700/mm³,血紅素濃度(Hb)為 10.5 g/dL,血小板(platelets)數目為 32,000/mm³,其他理學檢查無異常;數天後男嬰身上發現出血點,且血小板(platelets)數目降為 12,000/mm³,前凝血酵素時間(prothrombin time)及 活化凝血酵素時間(partial thromboplastin time, PTT)皆延長,經檢查無感染或休克情況。病人最可能發生下列那一種情況? - (A) 免疫性紫斑症(immune thrombocytopenic purpura) - (B) 類過敏性紫斑症(Henoch-Schönlein purpura or anaphylactoid purpura) - (C) Kasab Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 1. 初級凝血:血管受損後,血小板、VWF,會在局部密密麻麻的形成血小板栓子。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

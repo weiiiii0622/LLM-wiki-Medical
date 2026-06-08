@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Digoxin (毛地黃)'
   - 'Digoxin'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (4) 處置: - a. 藥物治療:預防性抗生素(心內膜炎)、vasodilator、diuretics、digitalis。 - b. 手術 indication: - (a) 有出現臨床症狀。 - (b) 無症狀但 EF 55 mmHg 或是左心室舒張末期寬度(LV end-diastolic dimension, LVEDD)> 70 mmHg。 - (d) AR 合併有其他疾病,如冠狀動脈心臟病、主動脈疾病或其他瓣膜疾病, 在手術時需同時修正 AR。 - c. 手術方法同樣為 valve replacement(SAVR 為主,TAVR 目前不適用於 AR 患者)、surgical repair 和 Ross procedure。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- a. 可用 Digoxin、利尿劑、血管擴張劑等來控制心衰竭,一般追蹤到一至兩歲 左右假使 VSD 自然閉合的機率不大則來決定是否開刀。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (D) 以靜脈鈣輸液治療低鈣血症,而病人有服用毛地黃時,輸液 速率不可太快以免引起心律失常 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (3) 毛地黃類藥物使用上必須注意病人心律不整。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) 22. 使用毛地黃(digoxin)藥物時,下列何者較少會加重毛地黃的 104(-)專毒性?醫四-31 - (A) 高血鈣 (hypercalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -58,9 +65,6 @@ tags:
 - (2) 心臟衰竭藥物: - a. β blocker 可減少心臟收縮力而減緩症狀。 - b. Non-DHP CCB 可增加心室舒張時的填充,而減緩症狀。DHP-CCB 則需避免。 - c. Diuretics 在有體液過多時可適當使用,需小心過度脫水會惡化左心室出口阻塞。 - d. Nitrate 及 Vasodilator 需避免,以免增加左心室出口壓力差,惡化症狀。 - e. Digoxin 是相對禁忌的藥物,因為其強心功能,導致左心室出口阻塞更嚴重。 (HCM 病患心臟收縮功能正常~過強) Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - 3. 治療:治療之後造成浸潤的原因,Steroid for sarcoidosis、去鐵劑 for Hemochromatosis等。 Amyloidosis RCM 需避免 Digoxin,Digoxin 較易於這類病患發生毒性。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - ...、 | β blocker(僅含 Carvedilol, | D: .: D: .: | > 0+4.10.1-b | | 藥物 | ACEI (if HTN) | Bisoprolol, Metoprolol) | Diuretics, Digoxin | 心臟移植 | Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- \*ABCD 的記憶方法: (A) 僅有危險因子先用 A (ACEI) → (B) 造成結構異常再用 B (β blocker) → (C) 導致臨床症狀用 D (Digoxin, Diuretics) → (D) 內科無法控制考慮心臟移植 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- ...----------------------------------------------------------------------------|-------------| | 治療沒有實證醫學證據顯示可延長病人的存活? (A) digoxin | | | (A) digoxiii (B) β-blockers | | | (C) Angiotensin-converting enzyme inhibitors (ACEI) | | | (D) aspirin | | | A) 19. 根據流行病學研究,產生心臟衰竭的最主要原因是: | 97(二)專 | | (A) 高血壓與冠狀動脈疾病 | 醫三-12 | | (B) 瓣膜性疾病與高血壓 | | | (C) 先天性心臟病與瓣 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- (2) **R**ifampin (RMP) → **R**ed~Orange urine: 10 mg/kg, 最多 600 mg qd - a. 抑制細菌的 RNA polymerase。 - b. RMP 及其代謝產物呈橘紅色,服用 RMP 時排尿、眼淚、咳痰均會變成橘紅色。 - c. RMP 會加速肝臟對藥物的代謝,同時服用其他經肝代謝的藥物時,如口服避孕藥,RMP 會降低避孕藥的效果,故服用 RMP 期間應改用其他避孕方法。此外,同時服用 Coumadin 類抗凝血劑、口服糖尿病藥、副腎皮質賀爾蒙、毛地黃製劑,RMP 亦會減弱其作用。 Source: [[sources/med3-book1-ch19|己、結 核]].
 
 ## Clinical Caveats
 

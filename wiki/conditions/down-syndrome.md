@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Down syndrome / Trisomy 21 (唐氏症)'
   - 'Down syndrome / Trisomy 21'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-第 21 對染色體三體症，與先天心臟病、腸胃道異常、甲狀腺與血液疾病風險相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+第 21 對染色體三體症，與先天心臟病、腸胃道異常、甲狀腺與血液疾病風險相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- (2) 為 Down syndrome 最常合併的先天性心臟病。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - | (C) 27. 一位唐氏症(mongolism)新生兒,在 3 天大的時候因為腹脹嘔 | | |--------------------------------------------|--| | 吐,無法進食,被診斷為先天腸阻塞,需要進行手術以維持生命 | | | 。然而,爸爸堅決拒絕手術,媽媽卻要開刀治療。作為外科醫師, | | | 除了盡力溝通外,您的最佳處置為何? | | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 【詳解】本題解答應為(A),年齡老化是公認 Alzheimer disease 的首要危險因子,其次是家族史和唐氏症。至於心血管危險因 子、低教育程度和頭部外傷亦也有關聯性,但心血管危險因子 需更注意血管性失智的發生率。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (C) 唐氏症 (Down syndrome) Source: [[sources/med4-book4-ch06|己、大腦疾病]].

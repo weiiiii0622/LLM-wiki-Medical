@@ -21,6 +21,9 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch12]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Monoamine hypothesis (單胺假說)'
   - 'Monoamine hypothesis'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,15 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch12]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- 【詳解】心肌無法有效收縮,即使心跳收縮頻率加快,仍無法 將血液送出,故給予強心劑增加心肌收縮力。此病人應優先考 慮投予增加收縮力併具有升壓效果的 Dopamine 或 Bosmin 等強 心劑,併視臨床反應再調整用藥或輔以 IABP。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (D) 藥物治療可以考慮 neostigmine,不過要小心病患施打藥物後 會有 bradycardia,需要仔細觀察心率變化,和準備 dopamine 作為緊急解毒劑 Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
+- 2. 類癌 (Carcinoid tumor): - (1) 為一種生長緩慢的神經內分泌瘤,最常生長於腸胃道(80%在迴腸),其次是呼吸道。由於早期症狀不明顯,所以不易診斷,其中約10%的類癌會分泌過多的血清素(serotonin),故病患會有類癌症候群(carcinoid syndrome),會發生 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - (7) 芳香族的氨基酸也十分重要,如 Tyrosine 由 Phenylalanine 合成而來,可進一步合成 Dopamine、norepinephrine,epinephrine;Tryptophan 可合成 serotonin,Melatonin。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (D) 口服 dopamine agonist 如 bromocriptine,可使 80% 泌乳激素瘤 (prolactinoma) 縮小 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -74,9 +83,6 @@ tags:
 - 4. 急性治療: (serotonin agonist) - (1) 門診口服 sumatriptan (selective 5HTIB/ID agonist) 或 ergotamine (5HT agonist)。 - (2) 有的較嚴重的會收住院打靜脈 Prochlorperazine (Novamine),利用 Prochlorperazine 也有 Serotonin agonist 來治療偏頭痛。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...腦電圖(EEG)上可發現在腿抖動的對側大腦額葉運動區, 伴隨有 20 到 90 秒一次之癲癇放電 (epileptic discharges) 現象 (C) 常伴隨有不寧腿症候群 (restless legs syndrome) (D) dopamine agonist 或 anticonvulsants 對部分病人有效 (C) 11. 下列關於癲癇症候群(epilepsy syndromes)藥物治療的敘述, 107(一)專 何者錯誤? 醫四 -51 (A) 青少年肌陣攣癲癇(juvenile myoclonic epilepsy) 常對單一 抗癲癇藥的反應良好 (B) 青少年失神癲癇(juvenile absence epilepsy) 常對單一抗癲癇 藥的反應良好 (C) Len Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - Norepinephrine 與 serotonin 是目前被研究最多和情感性精神疾患相關的生物因子, 其 他 如 dopamine、GABA、vasopressin、endogenous opiates、glutamate、glycine 等也可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- ...---------|------------------| | TCA (tri-cyclic antidepressant) | (-)NE, 5-HT 回收 | 心律不整、口乾、嗜睡、 | | | | 姿態性低血壓 | | MAOI (monoamine oxidase inhibitor) | (-)NE, 5-HT, DA 代謝 | 不可吃含有 tyramine 類 | | | | 的食物如乳酪、起士, | | | | 可能會引起高血壓危機 | | RIMA (reversible inhibitor of | 三、关:温·温·朴()1/4/0 | 飲食方面較沒有限制, | | monoamine oxidase A) | 可逆選擇性 (-)MAO A | 副作用比 MAOI 少 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 註: NE: Norepinephrine、5-HT: Serotonin、DA: Dopamine Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 2. 主要相關的神經傳導物質包括 serotonin、norepinephrine、GABA 等。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 
 ## Clinical Caveats
 

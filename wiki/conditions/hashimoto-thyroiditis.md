@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Hashimoto thyroiditis (橋本氏甲狀腺炎)'
   - 'Hashimoto thyroiditis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-自體免疫甲狀腺炎，常導致甲狀腺低下。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性自體免疫甲狀腺炎，是 hypothyroidism 常見原因，可伴其他自體免疫疾病。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- ...加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimoto thyroiditis亞急性甲狀腺炎 (de Quervain)Iodine deficiency | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- b. Hot: cancer risk 3、T4上升。 - (2) Hashimoto thyroiditis: T3、T4下降。 - (3) 亞急性甲狀腺炎 (de Quervain): T3、T4 先上升後下降。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- #### 1. Hashimoto thyroiditis: Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (1) 兒童:橋本氏甲狀腺炎(最常見)、碘缺乏、放射治療、血管瘤( $T_4$ 轉換成 reverse $T_3$ )。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - #### 4. 後天性甲狀腺低下症-橋本氏甲狀腺炎 (Hashimoto disease): Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -61,6 +66,7 @@ tags:
 ## Related Pages
 
 - [[conditions/hypothyroidism|Hypothyroidism (甲狀腺低下)]]
+- [[diagnostics/thyroid-function-tests|Thyroid function tests (甲狀腺功能檢查)]]
 
 ## Follow-up
 

@@ -39,6 +39,10 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -53,7 +57,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +96,21 @@ tags:
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch11]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- 1. 症狀:(依腫瘤位置而有不同症狀) - (1) 右結腸:血便,但多以潛血反應呈現,所以病人常有貧血和疲弱。右結腸由於 直徑較大,且該處的糞便較軟,所以比位於左結腸的腫瘤較少腸阻塞。 - (2) 左結腸:左結腸的腸內壓高、糞便較硬,因此常見腸阻塞(大便習慣改變)、 腹痛。 - (3) 直腸:血便最常見、裡急後重。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- ...) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的術前放射線治療之敘述,何者錯誤? | 100(二)專 | | (A) 可以增加 Resectability rate | 醫五-16 | | (B) 可以減少術中之 Tumor seeding | | | (C) 可增加保留肛門的機會 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 【詳解】(C)從圖可懷疑是右結腸癌,常見症狀為貧血(頭暈)疲勞,右腹部不適。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (B) 1. 下列何者為結腸憩室炎(diverticulitis)必須手術的適應症?①破 製造成腹膜炎(free perforation with peritonitis) ②形成局部 2 公 分膿瘍(localized abscess)無腹膜炎 ③形成結腸膀胱瘻管 (colovesical fistula) ④造成貧血、血紅素 9.9 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
+- 【詳解】憩室炎的基本治療以內科(抗生素)為主,除非反覆性憩室炎、腸穿孔引起腹膜炎、形成瘻管、急性大量出血才需要手術介入。貧血/出血方面先藉由輸液/輸血穩定hemodynamic status,做大腸鏡鏡檢(順便可進行止血),大腸鏡檢沒辦法找到出血點,可用血管攝影(順便做血管栓塞治療),最後出血都還沒法停止,才考慮手術。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
+- ...LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimoto thyroiditis亞急性甲狀腺炎 (de Quervain)Iodine deficiency | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- (3) 約有 25% 的機會出現其他的自體免疫疾病,如:惡性貧血、紅斑性狼瘡、類風 濕性關節炎、糖尿病等。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 3. 症狀:Type II DM、低胺基酸血症、貧血、體重減輕、壞死性移走紅斑(necrolytic migratory erythema)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 5. 脂肪代謝:一克脂肪產生九大卡。 - (1) 交感神經的興奮和壓力荷爾蒙的分泌刺激 lipolysis,另外敗血症越嚴重,能量來源從脂肪氧化而得的比例會增高,相對地葡萄糖氧化的比例會降低。 - (2) 人體的必需脂肪酸為亞麻油酸(Linoleic acid)和次亞麻油酸( $\alpha$ -Linolenic acid),缺乏會有掉髮、皮膚炎、貧血等情形。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - 6. Sirolimus:機轉不同於 Cyclosporine 和 Tacrolimus,作用在 mTOR (或稱 FRAP1),抑制 IL-2 和其他細胞內的訊息傳遞,阻斷 T 和 B 細胞的活化。不具腎毒性,且因作用機轉不同於目前其他免疫抑制劑,所以常用來和其他免疫抑制劑合併使用來增強效果,並減低其他藥物的副作用。副作用有高血壓、腹瀉、水腫、蛋白尿、血小板下降、白血球下降、貧血及高血脂。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. 會引起腦壓升高的可能因素有過度服用藥物(維生素 A、tetracycline、hormonal contraceptive、steroid)、內分泌異常、貧血、及慢性呼吸衰竭。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -105,14 +121,6 @@ tags:
 - (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...| | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypo Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 3. 生產因子:生產時的後遺症可能和自閉症的引起有關,如:Maternal bleeding、respiratory distress syndrome 與 neonatal anemia。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 由傳染性軟疣病毒(molluscum contagiosum virus, MCV)引起,屬於 Poxvirus 的一類(非 HPV)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 5. 心血管併發症:發病平均約十天時,15~20%的患者可能產生冠狀動脈瘤,危險因子包括男性、小於兩歲、貧血、白血球大於3萬、發炎指數較高、發燒超過二週、低白蛋白、心包膜積水等。冠狀動脈瘤約有八成會在一至二年內消失,特別是常見的直徑小於8mm的中小型冠狀動脈瘤。但直徑超過8mm以上的巨大冠狀動脈瘤較難完全消失,容易形成血栓,造成急性心肌梗塞或冠狀動脈瘤破裂。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- ...尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Thrombocytopenia ( < 10 萬 )。 | | | | | | 實驗室檢查 | (10) ANA(+)、(11) Anti-dsDNA(+) 或 Anti-Sm(+) 或 Anti-phospholipid(+) | | | | | Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- 1. 自體顯性遺傳疾病,臨床表現有: - (1) 腸胃道內會長許多過誤性息肉(hamartomatous polyps),約於孩童至三十歲前 出現,患者會有腹痛、腸胃道出血、反覆腸套疊或貧血等症狀。息肉好發於小 腸,特別是空腸,息肉有機會惡性化為 adenocarcinoma,不過機率不高。 - (2) 表皮黏膜出現黑色素沉澱,常可見病患嘴唇周圍、口腔黏膜、手指或手掌有黑色沉澱斑點,黑色斑點出生時即出現,或是在孩童時期出現,並會隨著時間褪掉,但口腔黏膜的色素沉澱會持續存在。(下圖) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- (3) 血液生化檢查:用來評估腎臟損傷程度,如BUN、Cr、CBC(評估貧血程度)。 5. 治療: - (1) 初步處理:為了防止泌尿系統的惡化,先用鼻胃管(No.5 or 8 French)導尿而不是用導尿管(Foley catheter 上的 balloon 會造成膀胱痙攣)。矯正電解質、BUN、Cr,治療呼吸窘迫…等,當病人情況穩定則以手術治療。 - (2) 手術:用小兒膀胱尿道切除鏡將尿道後瓣膜切除。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

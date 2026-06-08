@@ -10,6 +10,11 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Stroke / cerebrovascular accident, CVA (腦中風)'
   - 'Stroke / cerebrovascular accident, CVA'
@@ -24,7 +29,7 @@ tags:
 
 ## Summary
 
-腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +39,20 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book1-ch14]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 情況:一位50歲的婦女,主訴這幾個月來常半夜突然心悸,同時呼吸困難,在過去2、3年內曾有2次腦中風病史,但並沒有任何神經學症狀遺留下來,心臟聽診時,心跳非常不規則,同時在心尖部聽到心舒期雜音,胸部X光檢查及心電圖檢查如圖示。依此回答下列第17題至第19題。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 3. 由於主動脈剝離侵犯到其他血管或是假腔壓迫真腔影響血流而引發器官灌流不足症狀(malperfusion syndrome): - (1) 冠狀動脈:缺血性心臟病。 - (2) 主動脈瓣:急性心衰竭。 - (3) 兩側頸動脈:腦中風。 - (4) 脊椎動脈:下半身麻痺 (paraplegia)。 - (5) 腎動脈:急性腎衰竭, oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (B) 9. 下列關於不停跳冠狀動脈繞道手術(off-pump coronary artery bypass grafting)的敘述,何者正確? ①須使用 heparin ②人工 心肺機不需待命 ③不須降低體溫 ④不會引發腦中風 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (3) 病人會合併其他部位的動脈異常,如冠狀動脈、大腦血管、腸動脈及腎動脈的 病變,因此會有高比例的心肌梗塞、腦中風或腎病變的可能。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (4) 避免 stroke,可以從無名動脈對 carotid artery 灌流,維持腦部血流避免中風。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (D) 缺血性腦中風 (ischemic stroke) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - I. 缺血性腦中風 (Ischemic Stroke) 85 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - II. 出血性腦中風 (Hemorrhagic Stroke) 103 - A.介紹 103 - B. 腦出血 (Intracerebral hemorrhage, ICH) 104 - C. 蜘蛛膜下腔出血 (Subarachnoid hemorrhage, AH) 108 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].

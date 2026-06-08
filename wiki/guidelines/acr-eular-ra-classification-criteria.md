@@ -23,6 +23,9 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'ACR/EULAR RA classification criteria (RA 分類準則)'
   - 'ACR/EULAR RA classification criteria'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,16 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch10]]
 - [[sources/med5-book1-ch05]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- AGES score 的 20-year survival rate: Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- (B) 按照 AGES score (age, grade, extension, size),應屬於 low risk(低於4) Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- (B) 6. 一位 2 星期大的男嬰,出生時體重 3,000 gm, Apgar score 8 至 9 分,身體檢查並沒有發現異常現象。幾天前,開始有呼吸急促及發紺的現象,急送某醫學中心。經心臟超音波檢查發現病人有肺動脈瓣閉鎖的現象,經投予前列腺素靜脈注射,病人的發紺改善了。請依此回答下列 3 題: Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (D) 4. 一位女性體檢時,意外發現有高血鈣,進一步檢查證實為原發性 107(二)專 副甲狀腺功能亢進(primary hyperparathyroidism),根據目前的 醫五-37 治療指引,有些原發性副甲狀腺功能亢進患者即使無臨床症狀 亦建議應接受手術,但下列何者除外? - (A) 骨密度檢查 T-score 小於 -2.5 - (B) 肌酸酐廓清率 (creatinine clearance) 小於 60 mL/min - (C) 血鈣超過正常值上限 1.0 mg/dL 以上 - (D) 年齡大於 60 歲 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - A. Glasgow Coma Score 120 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - A. Glasgow Coma Score: 利用睜眼、語言和運動反應來評估意識,總分 15 分。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - (D) 營養不良的病人若在營養風險篩檢時營養不良分數(nutritional risk screening maluntrition score)得到5分,在手術前不需要矯正 Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -77,10 +87,6 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - ...1. 新生兒比大人更容易散失熱量,其原因是: (A) 心跳、呼吸速率較快 (B) 體表面積與體重比值較高 (C) 棕色脂肪代謝率較快 (D) 血液甲狀腺素較高 | 105(一)專醫四-4 | | (D) 12. 下列那一項不是 Apgar score 的評估項目?(A) 心跳次數(B) 肌肉張力(C) 呼吸(D) 哭聲大小 | 104(二)專醫四-4 | | (A) 13. 一位懷孕 27 週女性,G2P2,分娩女嬰一名,女嬰剛出生時呼吸微弱不規則,沒有心跳,全身與四肢膚色藍紫。依 Apgar score,此女嬰於膚色之分項應得幾分?(A) 0 (B) 1 (C) 2 (D) 3 | | | (D) 14. 下列有關陰囊水腫的敘述,何者錯誤? (A) 一般男嬰發生陰囊水腫的機率約為 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (E) 2. 出生週數 37 週,體重 3,300 克之男嬰,Apgar score 9(1 min)→ 10(5 min),出生後放在 baby room 觀察,於第四天發現 nasal flaring、poor feeding、 skin mottling, grade II systolic murmur over left middle sternal border、右上肢血壓:65/40 mmHg,左下肢血壓:40/20 mmHg,心跳:每分鐘 180 下,下列處置何者最"不" 考慮? - (A) Check Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) 2. 關於幼年型類風濕性關節炎(Juvenile idiopathic arthritis, JIA), 下列何者錯誤? 108(二)專 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 2. 好發 $35\sim50$ 歲,男:女 =1:3;帶有 HLA-DR4 有更高的發生率。也有不少超過 60 歲的類風濕性關節炎 (Elderly onset RA),若合併 RF(+)或 anti-CCP(+),通常疾病進展較快、較嚴重。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (1) 好犯手部關節,滑液膜發炎(Synovitis)導致關節處腫痛,進而侵蝕骨頭,晚期會 導致周圍肌腱等軟組織遭到破壞,使手指變形,典型特徵包括:(下圖) - a. 手腕向橈骨側彎曲變形 (Radial deviation), 手指向尺骨側彎曲變形 (Ulnar deviation), 而呈現 Z 字型。 - b. PIP volar (ventral) plate 受到破壞,導致伸指肌無 volar plate 抗衡,造成 PIP 過度伸展、DIP 屈曲以抗衡,狀似 Swan nec Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...ell carcinoma (D) non-Hodgkin's lymphoma | 104(二)專醫三-37 | | (C) | 5. 當懷疑病人有乾眼症時,下列那種檢查最常使用以檢測淚腺分泌功能的低下? (A) Rose Bengal score (B) slit lamp examination (C) Schirmer's test (D) lacrimal gland biopsy | 103(一)專醫三-43 | | (B) | 6. 與 Sjögren's syndrome 的診斷最無關的檢查為: (A) sialoscintigraphy (B) HLA-DR2 檢測 (C) 嘴唇的小唾液腺組織切片檢查 (biopsy of lip minor salivary g Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

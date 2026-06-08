@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch29]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Antithyroid drugs (抗甲狀腺藥物)'
   - 'Antithyroid drugs'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book4-ch29]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- (1) Antithyroid drug: - a. 口服抗甲狀腺藥物:Propylthiouracil (PTU)、methimazole。 - b. 一天三次共 4~6 個禮拜,達到 euthyroid 的狀態,之後再慢慢調降劑量。 - c. 易復發,只有 20~30% 的病患可以達到長期緩解(long term remission)。 - d. 藥物副作用:rash、hepatitis、arthralgias、lupus-like syndrome、agranulocytes (0.5%)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- (1) 慢性自體免疫性疾病,患者體內會產生抗甲狀腺抗體,造成淋巴浸潤,破壞自己的甲狀腺組織。90%的病患可在血液中檢驗出 antithyroid peroxidase (anti-TPO)和 antithyroglobulin (anti-Tg)抗體。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...| 下列有關治療甲狀腺風暴的敘述,何者錯誤? | 105(一)專 | |---------|--------------------------------------------------|---------| | | (A) 可使用抗甲狀腺藥物以降低血中 T4 轉化成 T3 的量 | 醫五 -39 | | | (B) 可使用乙型拮抗劑(beta-blockers)以降低血中 $T_4$ 轉化為 $T_3$ | | | | 的量 | | | | (C) 給予 2% 碘劑溶液 (Lugol's solution) 可減少甲狀腺荷爾蒙 | | | | 分泌量 | | | | (D) 使用類固醇及阿斯匹靈退燒,同時需輸液治療 | | | (A) 18. | 未分化型甲狀腺癌(an Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - a. 藥物治療:最常用的藥物為 propylthiouracil (PTU) and methimazole (Tapazol)。 PTU 因半衰期較短故常一天給藥三次; Tapazol 一天一次給藥即可。此外, PTU 較不易穿透胎盤與乳腺,因此較不用擔心影響胎兒或是授乳。 - PTU: 5~10 mg/kg/24hr 一天分三次給予。 - Tapazol: 0.25~1.0 mg/kg/24hr —天一次給予。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) propylthiouracil Source: [[sources/med3-book4-ch29|己、特定議題]].

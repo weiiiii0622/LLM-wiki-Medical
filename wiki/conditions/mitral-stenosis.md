@@ -12,6 +12,9 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Mitral stenosis (二尖瓣狹窄)'
   - 'Mitral stenosis'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-常與風濕性病變相關，造成左心房壓上升與肺鬱血。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常與風濕性病變相關，造成左心房壓上升與肺鬱血。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,17 @@ tags:
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- 1. 僧帽瓣狹窄 (mitral stenosis, MS): - (1) 正常成人的僧帽瓣口徑約 4~6 cm²,當口徑變窄,使得左心房流向左心室之血流不順,血液滯留於左心房,且左心室舒張末期,左心房須作更大的功,才能將血液推進左心室。 - (2) 口徑小於 1.5 cm² (or 2 cm²) 為 moderate MS,口徑小於 1 cm² 為 severe MS。 - (3) 長久下來,左心房因壓力上升而擴大,壓力逆著血流方向回傳,導致肺靜脈壓 上升甚至肺動脈高壓。而右心室為了 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (b) 瓣膜氣球導管擴張術(balloon mitral valvuloplasty):將導管放置入左心, 膨脹氣球擴張狹窄的瓣膜,對沒有鈣化且輕度或中度 MS 效果佳,禁用 於瓣膜腱索鈣化及 MR (mitral regurgitation)的患者。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- ...因,感染性心內膜炎、創傷、或先天性異常都 有可能。 - (3) 症狀:呼吸困難、端坐呼吸、肺水腫、肺高壓、atrial fibrillation。症狀嚴重度和 閉鎖不全程度相關,mild MR 患者幾乎不會有症狀, - (4) 處置方式和 MS 相同,可先藥物處理(利尿劑、ACEI),當藥物無法控制,症 狀持續嚴重、發展成肺動脈高壓、左心室功能惡化,則考慮手術修補。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (1) 左心發育不全,左心房和心室比正常人小很多(見下圖左),常合併主動脈弓窄縮、主動脈瓣狹窄/閉鎖以及二尖瓣狹窄/閉鎖。由於左心和主動脈幾乎無作用,全身血液循環需藉由肺動脈經 PDA 供應。而冠狀動脈的血流來源也倚靠肺動脈、動脈導管,經主動脈、倒流回冠狀動脈,導致心肌灌流不足。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (3) 在台灣,MS 常侵犯脊髓、視神經,故常以手腳無力、麻木表現,或導致視神經炎(optic neuritis)、眼球後視神經炎(retrobulbar neuritis),會在幾天內視力從 1.0 降到 0.1。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (6) 三叉神經痛多見於老人,年輕人的三叉神經痛或短暫顏面麻木,則要懷疑是 MS 的可能。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (2) 若僅發作一次,輔以腦脊液有異常發現也可懷疑 MS;腦脊液可發現白血球、蛋白稍微增加,電泳會發現 oligoclonal bands,其暗示著一群彼此相似的免疫球蛋白攻擊髓鞘。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
@@ -54,9 +65,6 @@ tags:
 - (1) PR interval:表示房室間傳導的狀況,若延遲> 5 格(200 ms)則表示有房室間傳導阻滯,稱為 AV block,依不同的位置又分為幾型,其中 1st degree、Type I 2nd degree 比較沒關係,有症狀再治療,Type II 2nd degree、3rd degree 較嚴重,需給予節律器。 - a. 1st degree AV block:僅有 PR interval > 5 格(200 ms)。 - b. Type I 2nd degree AV block: 加上 P 及 QRS 漸行漸遠。 - c. Type II 2nd degree AV block: 加 上 QRS 突然消失。 - d. 3rd degree AV block: P及 QRS 各跳各的。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (2) QRS interval:表示左、右希氏束的傳導狀況,若延遲>3格(120 ms),表示有希氏束傳導阻礙(Bundle branch block),這些傳導阻滯可能是希氏束的血液供應減少(如 AMI 時)或心室肥大等其他因素造成。 - a. Left Bundle branch block (LBBB): Lead V1 可見典型深 V。(記憶:LV) - b. Right Bundle branch block (RBBB): Lead V1 可見典型的兔耳朵。 (記憶:R = Rabbit) - c. Interventricular conduction block (IVCD):沒有以上典型發現,但 QRS > 3 格。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - F. 僧帽瓣狹窄 (Mitral stenosis, MS) 138 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (1) 心搏過速(Short PR interval)、MS 愈嚴重→左心室血愈少→左心室壓力上升快→聲音愈大(門關得又快又急);但當 MS 非常嚴重時,S1反而消失。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (2) Pressure gradient 愈小 (MS, S3, S4), 聲音愈低音 (Lower pitch)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- ...m, Subcutaneous nodules; Minor: fever, polyarthralgia. | 99(一)專醫三-6 | | (D) 18 | . 感染性心內膜炎最不容易發生於下列何種心臟病? (A) 主動脈狹窄 (B) 二尖瓣狹窄 (C) 肺動脈狹窄 | 97(一)專醫三-26 | Source: [[sources/med3-book1-ch06|己、細菌性心內膜炎]].
 
 ## Clinical Caveats
 
@@ -65,7 +73,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/valve-replacement-repair|Valve replacement/repair (瓣膜置換與修補)]]
 
 ## Follow-up
 

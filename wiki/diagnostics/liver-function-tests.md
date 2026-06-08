@@ -35,6 +35,8 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Liver function tests, LFTs (肝功能檢查)'
   - 'Liver function tests, LFTs'
@@ -49,7 +51,7 @@ tags:
 
 ## Summary
 
-用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +86,14 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch21]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- (1) 血液中 Ca ↑、PTH ↑、ALP ↑、P ↓、Cl ↑ (PTH 促 HCO₃ 排出導致 hyperchloremic metabolic acidosis)、Cl: P > 33:1。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...醫五-59 (A) 鈣離子 (calcium ion) 濃度 (B) 磷酸根離子 (phosphate ion) 濃度 (C) 鎂離子 (magnesium ion) 濃度 (D) 鹼性磷酸酶 (alkaline phosphatase, ALP) 濃度 【詳解】副甲狀腺術後低血鈣多為暫時性,但也有少數病患因 骨骼飢餓症候群(Hungry bone syndrome)造成永久性低血鈣, 其風險因子為術前嚴重骨病變、術前血中尿素氮濃度較高、術 前血中鹼性磷酸酶濃度較高或病患年紀較大。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - d. Bilirubin (mg/dL) - (a) 1.2~1.9:1分 - (b) 2.0~5.9:2分 - (c) 6.0~11.9:3分 - (d) > 12.0:4分 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (D) 13.50 歲男性肝臟移植術後第七天,出現右上腹痛及輕微發燒, 100(二)專 g-GT、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的肝功能正常且與國 醫五-79 明有相同基因,但醫師並沒有提出要摘取大維肝臟 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -102,9 +109,6 @@ tags:
 - (4) B 型肝炎:HBs-Ag、HBs-Ab、HBc-Ag、HBc-Ab、liver enzymes and bilirubin。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (C) 8. 一位 65 歲男性主訴倦怠、無力,手腳有刺痛感。身體檢查發現臉 色蒼白,有輕微黃疸,舌頭表面平滑,味蕾萎縮;神經學檢查顯示 對振動(vibration)的感覺變差。血液檢查顯示血紅素 7.2 gm/dL, 平均紅血球體積 110 fL,網狀紅血球 1.1%,白血球 2,780/μL,分類 正常,血小板 98,000/uL;全膽紅素 (bilirubin) 2.3 mg/dL, 直接型 0.5 mg/dL, AST 52 U/L(正常 0~37), ALT 38 U/L(正常 0~41), LDH 780 IU/L (正常 140~271)。這位病人最可能的診斷為? Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...兩側多個不足一公分大小淋巴結、無肝脾腫大,下肢出現無癢紅色細小斑點;末梢血檢查結果顯示: WBC 1,280/μL, N/L/Mo = 5/94/1, Hb 7.5 gm/dL, MCV 86 fL, Platelet 8,000/μL, ALT 42 U/L, T. Bil 0.6 mg/dL, Cr 1.1 mg/dL, Alb 3.7 g/dL。下列何種檢驗最有利於正確診斷? (A) 淋巴結切片(biopsy) (B) 正子造影(positron emission tomography, PET) (C) 骨髓切片 (D) 血液培養(blood culture) | 105(一)專醫三-44 | | (C) | 11. 一位 24 歲病人被發現有血紅蛋白 H 疾病(hem Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...101(一)專醫三-33 | | | (A) | | 下列有關惡性貧血(pernicious anemia)病人的敘述,何者錯誤? (A) 由於 Vit B 12 攝取不足造成 (B) 網狀紅血球降低 (C) 間接膽紅素(indirect bilirubin)升高 (D) 可出現神經學症狀 【詳解】(A) 病人有自體抗體攻擊 Intrinsic factor 或 parietal cell,導致 Vit B 12 不足,稱作惡性貧血(Pernicious anemia)。 | 101(一)專醫三-34 | | | (B) | 24. | 下列何者不是陣發性夜間血色素尿(paroxysmal nocturnal hemoglo-binuria)的特徵? (A) Indirect hyperb Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (1) 多肌炎 (Polymyositis, PM): 4 個都符合。 - a. 近端肌肉無力 (Proximal muscle weakness)。 - b. 肌肉酵素如 AST, ALT, aldolase, LDH and **CK** 值上升(Elevated serum creatine kinase level)。 - c. **肌電圖**表現肌肉病變(short-duration, polyphasic motor unit potentials with spontaneous fibrillation potentials)。 - d. 病理切片符合發炎性肌炎 (inflammatory infiltration or active regeneration may be seen)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (A) 5. 一位 42 歲女性最近二週覺得起床相當困難,必須以兩手支撐才能爬起。另外,前額、手背及指間關節的皮膚有紅斑出現(如附圖)。右肩膀的肌肉也無力,無法上舉。有時會發燒達 38.5℃左右。抽血發現 ANA 1: 160X speckled pattern, AST 37 U/L, ALT 86 U/L, CK 2,784 U/L。下列何者為最可能的診斷? Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

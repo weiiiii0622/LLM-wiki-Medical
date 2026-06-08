@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Basal cell carcinoma, BCC (基底細胞癌)'
   - 'Basal cell carcinoma, BCC'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-最常見皮膚癌，局部侵犯為主，典型可見 pearly papule 與 telangiectasia。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+最常見皮膚癌，局部侵犯為主，典型可見 pearly papule 與 telangiectasia。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- (A) 基底細胞癌 (basal cell carcinoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- 【詳解】陽光曝曬、突起、發亮蠟狀、末梢血管擴張、突起處 有小潰瘍,臨床線索都指向基底細胞癌。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - J. 基底細胞癌 (Basal cell carcinoma) 151 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (D) 基底細胞癌 (basal cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 【詳解】此題於 101 年也考過,從左圖外觀來判斷,脂漏性角化症病灶像黑色蠟塊,盤狀紅斑性狼瘡為邊界明顯的紅色斑塊伴有厚屑,剩日光性角化症和基底細胞癌為可能診斷。右圖可見 atypical keratinocytes,局限於表皮層下 1/3,非全層 atypia(如 Bowen's disease),故推判為 (A) 光化性角化病(actinic keratosis)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

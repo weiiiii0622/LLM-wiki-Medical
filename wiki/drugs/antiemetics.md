@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Antiemetics (止吐藥)'
   - 'Antiemetics'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- (1) 先確診病患有 hypercortisolism: - a. 24 小時尿中 cortisol > 100 mg/day。 - b. Overnight dexamethasone suppression test:晚上 11 點給予 1 mg dexamethasone,隔天早上八點測量血漿 cortisol 濃度,如果 > 5 μg/dL 則為 hypercortisolism。因 dexamethasone 可以負回饋抑制 ACTH 分泌,但若在 Cushing syndrome 的病患,cortisol 濃度則不會受到抑制。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- (2) 找出造成 hypercortisolism 的原因: - a. 測量 ACTH 濃度: - (a) ACTH 15 pg/mL: hypercortisolism 是受到 ACTH 刺激所致, 則懷疑是 Cushing disease 或異位性 ACTH。 - b. 高劑量 dexamethasone 抑制試驗: - (a) 用來區分是 Cushing disease 或是異位性 ACTH,腦下垂體導致的 Cushing disease 可以被高劑量 dexamethasone 抑制,使尿量中的 cortisol 和 17-OHCS(cortisol 的代謝物)降低。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 8. 輕度頭部創傷 (GCS = 13~15): - (1) 床頭向上傾斜 30~45 度。 - (2) 每兩小時作 NE。 - (3) NPO 直到意識正常。 - (4) 靜脈輸液。 - (5) 止痛、止吐。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - 6. Dexamethasone:可改善頭痛和脖子痛,改善腦水腫的效果仍具爭議性。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - ...icular degeneration | | | | Drugs | Neuroleptics (typical antipsychotics) \ Some atypical antipsychotics | | | | (常併有 | Antiemetics (e.g., Compazine, metoclopramide) | | | | akathisia) | Dopamine-depleting agents (reserpine, tetrabenazine) | | | | | α-Methyldopa · Lithium carbonate · Valproic acid · Fluoxetine | | | | Toxins | Methyl-1,2,4,6 tetrah Source: [[sources/med4-book4-ch06|己、大腦疾病]].

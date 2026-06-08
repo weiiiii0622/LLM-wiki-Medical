@@ -7,6 +7,8 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Melanoma (黑色素瘤)'
   - 'Melanoma'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch30]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- (C) 惡性黑色素細胞瘤 (malignant melanoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- (1) 肛門位處於內外胚層的交界之處,所以腫瘤種類複雜,最多的是鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma),其它的還有腺癌(adenocarcinoma)、泄殖腔細胞癌(cloacogenic cell carcinoma)、黑色素細胞癌(melanoma)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (6) 黑色素細胞癌(melanoma):除了呈現黑色外觀,無色素(amelanotic)的 melanoma 也不少。此種肛門癌的預後不好,五年存活率約 10%,最好的報告頂 多到 26%。治療方式有 APR 和 local excision,但這兩種方法的哪個比較好仍未 有定論。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- | (C) 18. | 有關肛門的惡性黑色素瘤,下列敘述何者錯誤? | 102(二)專 | |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - .... 何種脊髓內腫瘤(intramedullary tumor)最常見? | 104(一)專 | | (A) 腦膜瘤(meningioma) | 醫五 -14 | | (B) 轉移腫瘤(metastatic tumor) | | | (C) 黑色素細胞瘤(melanoma) | | | (D) 星狀細胞瘤(astrocytoma) | | | | | Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 3. 腦膜瘤(tumor of the meninges): - (1) 腦膜瘤 (meningioma)。 - (2) Meningeal sarcoma · primary meningeal melanoma · Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - I. 黑色素細胞瘤 (Melanoma) 148 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

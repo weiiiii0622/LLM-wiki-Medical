@@ -19,6 +19,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Gastritis (胃炎)'
   - 'Gastritis'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- (C) 急性腸胃炎 (acutegastroenteritis) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...100 pg/mL • - b. Basal gastric acid output (BAO,基礎胃酸分泌量) > 15 mEq/hr。 - c. 如果 hypergastrinemia 但 BAO 沒上升,則考慮是:atrophic gastritis、renal failure、病人正在服用 H2 antagonist 或 PPI。 - d. 但有些情況也會同時有 fasting hypergastrinemia 及 BAO 上升: retained gastric antrum syndrome、gastric outlet obstruction、antral G-cell hyperplasia。所以需再進一步作 Secretin 刺激檢驗。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - ...-----------| | 1. 腸套疊 | 7. 疝氣 | | 2. 巨腸症 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 泌尿道感染或腎盂腎炎 | | 4. 腸扭轉或是腸阻塞 | 10. 胰臟炎 | | 5. 腸胃炎 | 11. 外傷 | | 6. 肺炎 | | | 3~11 歲: | | | 1. 急性闌尾炎 | 7. 腎盂腎炎 | | 2. 外傷 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 胰臟炎 | | 4. 急性腸胃炎 | 10. 腸扭轉或腸阻塞 | | 5. 肺炎 | 11. 腸系膜淋巴瘤 | | 6. 類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (3) 病毒性腸胃炎不需使用抗生素,以支持性療法即可。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (4) 細菌性腸胃炎:視病菌及臨床狀況可考慮給予抗生素。 - a. Enterotoxigenic E. coli: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metroni Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -71,8 +77,6 @@ tags:
 - (2) 疾病: - a. 年輕人:偽闌尾炎 (Pseudoappendicitis)。 - b. 成人:腸胃炎,痊癒之後可能會發生反應性關節炎(Reactive arthritis)。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...線狀 | 核內 | 細小 DNA 病毒 (Parvovirus) | B19→感染性紅斑 (第五疾病) | | | | DNA | - 1 | 雙股線狀 | 核內 | 腺病毒 (Adenovirus) | 結膜炎(游泳池游泳), | 嬰兒腸胃炎 | | | | 二十 | 雙股環狀 | 5.7 (3.5) | | HPV →疣; Polyoma vir | us (BK, JC) | | | | 雙股線狀 核內 | | 核內 | 疱疹病毒 (Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长, Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - | 部位 | 病毒株 | 疾病 | | |-----|-----------|---------------------|-------------------------------| | 呼吸道 | 7, 14, 21 | 小孩、新兵的呼吸道感染 | | | 明明基 | 3, 4, 7 | 咽結膜炎(游泳池游泳之病史) | Pharyngoconjunctivitis | | 眼睛 | 8, 19, 37 | 角結膜炎(眼科器械移除眼睛異物之病史) | Epidemic keratoconjunctivitis | | 腸胃道 | 40, 41 | 嬰兒病毒性腸胃炎 | Infantile diarrhea | Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- (1) 輪狀病毒 (Rotavirus): - a. 雙股之 RNA 分段病毒。 - b. 分型: - (a) Group A: 造成幼兒腸胃炎 (infantile gastroenteritis) 主要的病毒 - (b) Group B:在中國大陸可造成成年人流行感染而致病 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- (3) 雖然週期性寒顫(因為瘧原蟲造成反覆溶血)可以提供線索,但其實瘧疾的症狀和 其他感染症不易區分,造成診斷上很大的困難。發燒、頭痛、肌肉酸痛、咳嗽等和 感冒類似,而噁心、嘔吐、腹瀉等則和腸胃炎易混淆。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 
 ## Clinical Caveats
 

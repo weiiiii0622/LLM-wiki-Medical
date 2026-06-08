@@ -19,6 +19,8 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Hypoglycemia (低血糖)'
   - 'Hypoglycemia'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,15 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch22]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- 1. 定義:正常的 β 細胞會因應血糖的上升而分泌胰島素達到降血糖的效果,但是 insulinoma 的 β 細胞不論是在飢餓狀態或是運動後仍會持續分泌胰島素,造成低血糖。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- (A) 低血糖症狀、血糖低於 50 mg/dL 及有服用糖尿病藥物史 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- (B) 低血糖症狀、血糖低於 50 mg/dL 及口服葡萄糖後可改善症狀 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- (D) 20. 承上題,在由靜脈輸入全血、血小板及新鮮血漿後,第3個小時 出血量減少至300毫升左右,但第4個小時減少至50毫升左右, 同時病人心跳加速至每分鐘120次左右,血壓降至心縮壓約 80~90毫米汞柱,中心靜脈壓約20毫米汞柱,小便量也減少, 病人四肢冰冷及有冒汗現象,這是什麼現象? - (A) 低血糖症狀表現 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (A) Prednisolone 屬於 adrenal corticosteroid 類,長期使用會有高血壓(hypertension)與低血糖(hypoglycemia)之副作用 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...nates ( 35 years) | CVA, Brain tumor, Alcohol withdrawal Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (C) 心理壓力、挫折、孤獨等高壓力情境時常會造成飲食控制的 改變,進而影響到血糖的控制 - (D) 低血糖可能造成焦慮、意識混亂、行為混亂等症狀 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -69,10 +77,6 @@ tags:
 - 2. 危險因子:出生時窒息(birth asphyxia)、胎便吸入性肺炎、早期發生的敗血症 (early-onset sepsis,如B群鏈球菌肺炎)、低血糖、紅血球增多症(polycythemia)、 母親在懷孕過程中使用 NSAID 造成動脈導管收縮、羊水過少(如 Potter 症候群)、 母親有糖尿病、先天性橫膈疝氣造成肺部發育不良等。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 【詳解】患有奸娠型糖尿病的母親,胰島素分泌較正常母親多目 胰島素會經過胎盤進入胎兒體內。新生兒在出生後處在相對性高 胰島素血症,因此出生後24小時內需密切注意新生兒低血糖。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...interval (C) 靜脈內注射胰島素改善高血鉀時,不可同時加葡萄糖點滴 (D) 若高血鉀對於藥物的反應不佳,應考慮透析治療 【詳解】靜脈注射胰島素、使用 β,-agonist 藥物可以把血漿中的 鉀離子趕到細胞內,但是要注意其副作用如低血糖、心搏過速 等。因此注射胰島素時須同時給予醣類補充。 (C) 5.15 歲男生為田徑隊員,在訓練 3 小時後,發生雙側大腿疼痛,尿 106(二)專 液變成紅色而至急診求診。尿液檢查發現,潛血反應(occult 醫四 -21 blood): 3+, urobilinogen: 3+, RBC: 1~2/HPF, WBC: 0~2/HPF • 抽血檢查發現, AST/ALT = 120/130 U/L, K = 5.0 mM, LDH = Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (D) 若意識持續未恢復,須檢驗血糖以鑑別低血糖之昏迷 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...peptide 產生的一些生理反應;(C) 不止中樞神經病變;雖然 (B) 不確定,但 (D) 一定對。 | 95(二)專內1-50 | | (D) | 5. 下列何種癌症較不會發生「腫瘤相關性血糖過低症」(tumorassociated hypoglycemia)? (A) 肝癌(hepatoma) (B) 纖維肉瘤(fibrosarcoma) (C) 血管外皮細胞瘤(hemangiopericytoma) (D) 胰臟癌(adenocarcinoma of pancreas) 【詳解】血糖過低和(1) Mesenchymal tumor (包括 HCC、hemangiopericytoma)、(2) Sarcoma 有關,至於(D) 胰臟癌屬於表皮來源的 carcinoma,所以不會。 | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- a. 瘧原蟲中,惡性瘧最易引起貧血、中樞神經症狀。 - (a) 惡性瘧破壞紅血球,除了會引起貧血,若大量溶血,還會造成血紅素尿,稱為黑水熱 (Blackwater fever)。 - (b) 紅血球被破壞時,釋出的 TNFα 除了使病患發燒,也會使紅血球容易凝結,在腦血管造成血塊、堵塞,導致中樞神經症狀,稱為**腦性瘧(cerebral** malaria)。 - (c) 嚴重的惡性瘧感染(Hyperparasitemia > 5%RBC) 會造成腦性瘧、低血糖、乳酸中毒、腎衰竭、凝血病變等。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 
 ## Clinical Caveats
 
@@ -81,7 +85,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/insulinoma|Insulinoma (胰島素瘤)]]
 
 ## Follow-up
 

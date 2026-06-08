@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book2-ch06]]"
 aliases:
   - 'Upper motor neuron lesion, UMN lesion (上運動神經元病灶)'
   - 'Upper motor neuron lesion, UMN lesion'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-UMN lesion 常見 weakness、spasticity、hyperreflexia、Babinski sign。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+UMN lesion 常見 weakness、spasticity、hyperreflexia、Babinski sign。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ UMN lesion 常見 weakness、spasticity、hyperreflexia、Babinski sign。 本�
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book2-ch06]]
 
 ## Key Details From Sources
 
+- ...p vein thrombosis) | 左下肢腫脹約1星期,身體診查發排腫大,並沒有紅腫現象,但小腿肌身左足部作向後彎曲(dorsiflexion)痛,表示很可能是左下肢深層靜脈,則此測試之名稱為:(B) Homans' test(D) Babinski's test | 102(一)專醫五-26 | |--------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------ Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - ...沿著肩膀、手臂到手指產生麻痛沒力。 - b. 無法做精細的動作,走路腳步越來越僵硬無力、麻痺,有時拖鞋掉了都不 自覺。 - c. 手和腳會有像被電到的感覺,尤其當脖子彎曲時,更容易引發被電到的感覺 和手臂疼痛麻木。 - d. 神經學檢查為 upper motor neuron disease 的表現: - (a) 下肢肌肉張力增強; 膝反射及足根反射增強。 - (b) 用力壓下腳背會引發腳步向上下快速擺動(陣攣 clonus )。 - (c) Babinski sign: positive • - (d) Hoffman's sign:輕彈中指,會引起大拇指及食指彎曲。 - (e) Tandem gait : unstable • - e. 最常造成頸椎神經根壓迫的位置依序為 C6-7 > C5-6 > C Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...(D) type IV (A) 50. 頸椎間管狹窄造成脊髓壓迫,導致頸脊髓病變(myelopathy), 98(一)專 下述症狀何者較少出現? 醫五-42 (A) 枕部神經痛 (occipital neuralgia) (B) 痙攣 (spasticity) (C) 深腱反射增加 (increased deep tendon reflexes) (D) 病理反射 Babinski's sign, Hoffmann's sign: 陽性 【詳解】(B)(C)(D) 皆為上運動神經元病灶 (upper motor neuron disease) 常見症狀。 (B) 51. 脊椎腦膜瘤最常發生在那一部位脊椎? 98(一)專 (A) 頸椎 (B) 胸椎 醫五-44 (C) 腰椎 (D) 薦椎 ( Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - | | 椎體 (Pyramid) 運動系統疾病 | 椎體外 (Extrapyramid) 運動系統疾病 | |------------------------|--------------------------|---------------------------| | 描述 | 去皮質 (Decorticate) | 去大腦 (Decerebrate) | | 支配位置 | 手臂屈肌、下腿伸肌 | 四肢伸肌 | | 去抑制導致的 痙攣 (Spasticity) | | 僵硬 (Rigidity) | | 肌張力表現 | 手臂伸開有阻力、彎曲則無 | 手臂伸開、彎曲皆有阻力 | | 特點 | 肌腱反射增加、Babinski sign (+) | 不隨意運動、顫抖 (Tremor) | Source: [[sources/med4-book4-ch06|己、大腦疾病]].

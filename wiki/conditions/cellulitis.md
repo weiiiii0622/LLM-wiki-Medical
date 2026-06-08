@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med5-book2-ch17]]"
 aliases:
   - 'Cellulitis (蜂窩性組織炎)'
   - 'Cellulitis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med5-book2-ch17]]
 
 ## Key Details From Sources
 
+- ...,形成 supralevator abscess,較少見。 - (3) 症狀:局部紅、腫、熱、痛、壓痛或發燒。 - (4) 治療:手術切開引流,一般不須給予抗生素,除非病患為 immunocompromised、 DM、extensive cellulitis 或 valvular heart disease。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
 - 【詳解】(A)Kawasaki disease 主要特徵為發燒超過五天、結膜炎、紅疹、草莓舌,按題意描述此病患為傷口感染後所引起,加上未發燒超過五天,故不像 Kawasaki disease。(D)Vibrio vulnificus,海洋弧菌,會有嘔吐、腹瀉、腹痛、急性蜂窩性組織炎和水泡性皮膚炎等病狀,最重要的是需有海水接觸史或是海產食物史。(B)(C)藉由題意描述和刪去法,病人症狀比較像是 scarlet fever,由於病人為傷口感染化膿後引發之 scarlet fever,故應為表皮的 S. aureus 感染所造成,Group A Streptococcus 多為飛沫傳染後喉嚨感染導致 scarlet fever。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) 1. 關於皮膚與軟組織感染 skin and soft tissue infections (SSTIs) 之 - (A) impetigo 與 necrotizing fascitis 之致病菌可能是 Staphylococcus aureus - (B) methicillin-resistant S. aureus (MRSA) 在 SSTI 的盛行率逐漸增加 - (C) MRSA 在異位性皮膚炎患者形成菌落的機會高於正常人 - (D) MRSA 引起的皮膚與軟組織感染,多發生在醫療機構工作人 員或住院病患,很少發生於一般社區正常人 tinea cruris Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - ...織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. First trimester 中感染病毒有機會造成 fetal varicella syndrome: limb hypoplasia、muscular atrophy、skin scarring、cortical atrophy、microcephaly、cataract formation、rudimentary digits。 - ii. 生產前四天內感染水痘,則有15%的 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

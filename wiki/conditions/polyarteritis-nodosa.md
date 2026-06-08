@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch13]]"
 aliases:
   - 'Polyarteritis nodosa, PAN (結節性多動脈炎)'
   - 'Polyarteritis nodosa, PAN'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch06]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch13]]
 
 ## Key Details From Sources
 
+- 1. 常見原因: - (1) 動靜脈血栓。 - (2) 最常見為 SMA embolis。 - (3) 醫源性: 腹主動脈瘤手術時將下腸繋膜動脈 ligation 後造成 left & sigmoid colon ischemia。 - (4) 血管炎: polyarteritis nodosa。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. 皮膚切片下為 leukocytoclastic vasculitis 的表現,會有 neutrophil 浸潤於血管本身或 周圍、nuclear dust、RBC 滲出到血管外、以及血管壞死。另可染 Direct immunofluorescence (DIF),去鑑別是哪種疾病引起的 small vessel vasculitis,例如: - (1) Henoch-Schönlein purpura:血管周圍有 IgA 沉澱。 - (2) Cryoglobulinaemia:血管周圍有 IgM 沉澱。 - (3) Cutaneous polyarteritis nodosa 和 ANCA-positive vasculitis: DIF 則多為 negative。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].

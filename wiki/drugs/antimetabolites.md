@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Antimetabolites (抗代謝藥物)'
   - 'Antimetabolites'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- (3) Adjuvant chemotherapy: 5-FU 和 leucovorin (Levamisole) 可增加 Dukes B 和 C 的 survival rate 及降低復發率。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 【詳解】(C) FOLFOX 分別為 FOL—Folinic acid(leucovorin)、F—Fluorouracil(5-FU)、OX—Oxaliplatin(Eloxatin),作為 adjuvant chemotherapy 可改善 Duke C(stage III)患者存活率。(D) EGFR 會促進細胞增生或轉移,當使用 anti-EGFR 時可阻斷癌細胞增生和轉移,但是 RAS mutation(KRAS mutation)可以直接促進癌細胞增生轉移,因此對於 anti-EGFR 的治療效果就比較差。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (3) 局部塗抹藥劑: - a. 5-FU (fluorouracil):抑制 DNA 合成和複製,導致分生不良細胞死亡。但較 具刺激性,可能會有灼熱刺痛感及造成皮膚潰瘍。 - b. Imiquimod:屬於一種免疫調節劑,可刺激皮膚的免疫反應,由自身的免疫系統來攻擊不正常增生的表皮細胞。 - c. 三氯醋酸 (Trichloroacetic acid, TCA): 很強的蛋白質變性劑,用於化學換膚,使病灶被破壞脫落,幾週後長出新皮膚,穿透性良好適合移除較深層的病灶,皮膚刺激感也較強烈。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - B. S phase (Antimetabolite) 202 Source: [[sources/med3-book4-ch19|乙、化學治療]].

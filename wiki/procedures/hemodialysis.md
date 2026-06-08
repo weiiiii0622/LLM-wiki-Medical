@@ -22,6 +22,9 @@ sources:
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Hemodialysis (血液透析)'
   - 'Hemodialysis'
@@ -36,7 +39,7 @@ tags:
 
 ## Summary
 
-以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +61,19 @@ tags:
 - [[sources/med4-book2-ch03]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- (C) 5. 下列關於心臟瓣膜置換手術中,置換瓣膜(prosthetic valve)的 選擇,何者正確? ①計畫生育之年輕女性患者可選擇機械型瓣 膜(mechanical prosthesis) ②年齡大於 70 歲患者可選擇生物組 織型瓣膜(bioprosthesis) ③血友病患者可選擇機械型瓣膜 ④ 尿毒症患者目須長期血液透析,可選擇組織型瓣膜 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 【詳解】機械型瓣膜病人須終身服用抗凝血劑,出血風 險相對組織型來得高,故不適合計劃生育之女性(Post partum hemorrhage),也不適合老年人(ICH)與血友病患者 (Coagulopathy),另有研究顯示裝有組織型瓣膜的洗腎患者較 不易流血且洗腎通路較不易阻塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (B) 40 歲病人合併長期規則洗腎以及高血鈣症 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 1. 正名為體外膜氧合,俗稱葉克膜,其原理類似傳統體外循環系統,將體內靜脈血引流出體外,使缺氧血經由體外膜氧合器(人工肺)靠擴散作用進行氧氣交換成充氧血,而後經動力泵(人工心臟)及體溫熱交換器將血液注入回病人動脈或靜脈系統,暫時替代心肺的功能,維持人體器官組織氧合血供應。其他還有氣體混合器(可調整氧氣濃度及氣體流速)、以及各種生理監視器,以便監測血液流速、血紅素、血氧飽和度、血液溫度、活化凝血時間,也可同時做連續性的血液透析。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (A) 5. 一位洗腎病人血液中的鉀離子 6.2 mmol/L,心電圖中會觀察到下列何種現象? Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...yceride)濃度 (D) 12. 下列何者與血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維他命 D (C) 抑鈣激素 (D) 雌性激素 (C) 13. 一位 57 歲的尿毒症病患,5 年來持續接受血液透析治療,直到 99(二)專 2個月前接受了腎臟移植手術。最近他開始出現皮膚搔癢、腹痛、 醫五-58 骨頭酸痛等現象,抽血檢查鈣值為 12 mg/dL。下列何者是此患 者最可能的診斷? (A) Primary hyperparathyroidism (B) Secondary hyperparathyroidism (C) Tertiary hyperparathyroidism (D) Parathyroid carcinoma (D) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (1) 高血壓機率較洗腎患者高,其可能的原因為 cyclosporine 的副作用、排斥、腎動脈狹窄等。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...rograf),其作用機轉為: 醫五-3 (A) 抑制 IL-2 的生成 (B) 抑制 purine 的代謝 (C) 抑制 cytokine 的產生 (D) 抑制淋巴球進入移植體 (A) 9. 病患蔡先生, 現年 40 歲, 因尿毒症而接受血液透析共 10 年, 登 101(一)專 記換腎也等待6年,此次住院前一天晚上被通知住院並接受腎臟 醫五-1 移植。捐贈者是一位 55 歲女性腦死病患,實驗室檢查發現血清 內肌酸酐值高至 6.0 mg/dL, 血清內尿毒素氮為 54 mg/dL, 主治 醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決 然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 cc。以下什麼情況最可能解釋移植腎沒有發揮功能? (A) 移植腎腎小管壞死 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...cyte globulin (ALG) 移植後需終生使用以避免 排斥 【詳解】Antilymphocyte globulin 主要是用在術前的 induction 和 術後的急性排斥的拯救,並非終生使用。 (B) 16. 一位 22 歲女性洗腎已三年,兄弟姊妹欲捐一腎臟給她,下列那 100(一)專 些 HLA 抗原具有較為重要的臨床意義? 醫五-51 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -72,13 +85,6 @@ tags:
 - (A) 2. 比較先天性巨結腸症(Hirschsprung disease, HD)和功能性便秘 108( ) 專 (Functional constipation, FC)各種症狀出現之機率,下列敘述何 醫四 -10 者錯誤? - (A) 大便失禁 (Encopresis): HD > FC - (B) 生長遲緩 (Failure to thrive): HD > FC - (C) 小腸結腸炎 (Enterocolitis): HD > FC - (D) 腹漲 (Abdominal distention): HD > FC Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - | | HD: non-HD | non-HD 低惡性度比率 | | |-------|------------|---------------|--| | 西方發生率 | 1:3 | 40~50% | | | 台灣發生率 | 1:9 | 10~15% | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - ...mphoma | | EBV | Burkitt's lymphoma, Primary CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary effusion lymphoma, Multicentric Castleman's dz. | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...al involvement (B) 在青春期(adolescence)有一出現高峰 (C) 發生頻率較 non-Hodgkin's lymphoma 高 (D) 大部分 stage I~II,放射治療(R/T)是可痊癒的 【詳解】(C) HD:non-HD 西方 1:3,東方 1:9,所以較 non-HD dz. 低。 | 94(一)專內 2-3 | | (B) | 17. 下列有關 Burkitt 淋巴瘤的敘述,何者錯誤? (A) 部分病人的腫瘤與 Epstein-Barr 病毒感染有關 (B) 常有染色體的異常 t (14,18) (C) 常侵犯中樞神經,分期檢查應包括腦脊髓液檢查 (D) 細胞生長快速,須即早治療 【詳解】(B) 應是 (8,14),t (14,18) Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...( | | | | Antibiotics | | Mitoxantrone(Novantrone 小藍莓)→前列腺癌 | 心毒性(較少)、發泡劑(冰敷) | | | | rindolotics | | Bleomycin →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ...ul vesicant)靜脈注射不慎外滲時會造成皮膚壞死,須予熱敷。 - b. 常見四肢末端麻木、胃腸道蠕動下降等神經毒性(glove-and-stocking neuropathy)。 - (2) Vinblastine (敏畢瘤) → HD (AB\(\overline{V}\)D) - a. 類似 Vincristine,但骨髓抑制較強,特別是血小板低下。 - (3) Vinorelbine (Navelbine®) →非小細胞肺癌 - a. 其 Resistant patterns 與上述藥物不同,可口服給予,用於治療非小細胞肺癌。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- | 化療藥物 | 血液腫瘤 | Leukemia · Lymphoma · HD | |-----------|--------|----------------------------------------------| | | 固體腫瘤 | 小細胞肺癌、生殖細胞瘤 *、GTN*、卵巢癌 | | | 小兒腫瘤 | Wilms' tumor, Ewing's sarcoma, Neuroblastoma | | 化療藥物+放射治療 | 鱗狀細胞癌( | 頭頸部、肛門)、乳癌、子宮頸癌 | | 化療藥物+手術 | | - 骨肉癌、乳癌 | | 對化療藥物少有反應 | 肝膽胰癌、腎 | Y細胞癌、甲狀腺癌、黑色素細胞癌、前列腺癌 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- | 分類 | Warm | Cold | |----|---------------------|-------------------------| | 意義 | 於人體溫度時就會攻擊 | 在低溫時才會攻擊 | | 抗體 | IgG 攻擊 RBC 的 Rh 抗原 | IgM 攻擊 RBC 的 C3d, Ii 抗原 | | 病因 | 藥物、感染 (EBV/CMV)、 | 感染 (Mycoplasma) | | | 結締組織病 SLE/RA、HD/CLL | Non-Hodgkin lymphoma | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...ymphoma | | 其他病毒 | EBV | 鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma)、Burkitt's lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- (3) Dialysis:嚴重的高血鈣無法以 hydration、Biphosphonate 治療時,較快降鈣的方法 是使用血液透析。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 

@@ -9,6 +9,10 @@ sources:
   - "[[sources/med3-book1-ch23]]"
   - "[[sources/med3-book2-ch18]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book2-ch12]]"
 aliases:
   - 'Coronary artery bypass graft, CABG (冠狀動脈繞道術)'
   - 'Coronary artery bypass graft, CABG'
@@ -23,7 +27,7 @@ tags:
 
 ## Summary
 
-外科冠狀動脈血管再暢通術。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外科冠狀動脈血管再暢通術。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +36,21 @@ tags:
 - [[sources/med3-book1-ch23]]
 - [[sources/med3-book2-ch18]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch07]]
+- [[sources/med5-book2-ch12]]
 
 ## Key Details From Sources
 
+- ### 丙、冠狀動脈疾病及冠狀動脈繞道手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- D. 冠狀動脈繞道手術 (CABG) 及適應症 28 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- E. CABG 和 PTCA (percutaneous transluminal coronary angioplasty,氣球擴張術)的比較 30 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- 3. 適用於需在體外循環支持下而進行的開心手術:如心臟冠狀動脈繞道手術、心臟瓣 膜置換術、先天性小兒心臟矯正手術。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (B) 根據 STITCH 試驗研究,冠狀動脈繞道術加上左心室成型術 (surgical ventricular restoration) 相較於單純之冠狀動脈繞 道術,可以改善心衰竭病患之症狀及存活率 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (B) The STICH trial, Surgical Treatment for Ischemic Heart Failure, 2011 年發表於 NEJM,發現在缺血性心衰竭患者身上,只服用藥物 vs 服用藥物 + CABG,兩者於 All cause mortality 並無顯著差異,而接受手術的患者在心血管疾病相關死亡率比只服用藥物的患者低一點。本選項敘述與 NEJM 內容出入甚大,是錯的。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 2. 缺血性心肌病變合併大範圍心肌梗塞,導致衰竭,且無法以傳統冠狀動脈繞道手術 改善。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
+- 好犯長期臥床者、病危者(嚴重呼吸疾病、心臟病或腎臟病)或外傷者(脊椎受傷)。Ogilvie's syndrome 又好發在共病多(心肌梗塞、心衰竭、肝腎不好、感染),遭受創傷或接受重大手術(冠狀動脈繞道手術)的患者,以及使用抗膽鹼藥物,鴉片類藥物患者。 Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
 - (C) 5. 下圖 45 歲男性,急性冠狀動脈阻塞導至心因性休克,緊急做完 107( - ) 專 冠狀動脈繞道手術後,心臟收縮能力不好,因此放上了主動脈 氣球幫浦及葉克膜氧合器,送往加護病房觀察,左腳六個小時後發現有鼓脹的情形,下列敘述何者錯誤? ①肢端的脈搏先確 認 ②有可能血液中肌酸激酶(CK)會提高 ③可以量測腔室的 壓力,若大於 20 mmHg 可能要作筋膜切開手術 ④小腿有五個腔室:anterior、deep posterior、superficial posterior、lateral 和 medial Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (D) 16. 一位 60 歲男性,接受冠狀動脈繞道手術。術後第二天,血行動力正常,胸部 X 光正常,肺臟呼吸音清楚無濕囉聲,動脈血氣體分析正常,病人意識清楚,呼吸器當時的設定是 SIMV mode,呼吸器通氣次數每分鐘 4 次,病人自呼 8 次,PEEP: 4 cmH2O,够感度 2 cmH2O,呼吸器壓力支持 10 cmH2O。準備讓病人脫離呼吸器,接上 T 型管讓病人自己呼吸,呼吸次數很快上升到每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 【 詳解】fluid overload 和 acute heart failure 肺 臟應會有濕囉聲,acute heart failure 病人不會因 ventilator 就整個改善症狀,ventilator 的有無會造成症狀明顯差異,會懷疑是否是意識不清或 musculoskeletal 的問題,但病人意識清楚,且才剛開過冠狀動脈繞道手術,故可合理懷疑是 phrenic nerve injury 導致橫膈膜 paralysis。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].

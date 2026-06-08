@@ -21,6 +21,8 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'NSAIDs (非類固醇消炎藥)'
   - 'NSAIDs'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,13 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- b. 早產兒可注射 indomethacin,能使約 70~90% 的動脈導管關閉。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 3. Subacute (de Quervain) thyroiditis: - (1) 亞急性甲狀腺炎,好發於年輕女性,往往伴隨著上呼吸道病毒感染後發生。 - (2) 前期濾泡細胞遭浸潤破壞,而釋放出大量 T3、T4,造成甲狀腺機能亢進,之後 會因為回饋機制 TSH 分泌下降而變為甲狀腺機能低下,最後回復正常。 - (3) 病人甲狀腺不規則腫大,感到頸部甲狀腺區域疼痛感,且會輻射至下頷、耳朵 或後頸部,甚至前胸和手臂。 - (4) 可給予 NSAID,多數病患會在幾個禮拜內自行緩解。如果口服藥物數月後仍無效,須考慮 thyroidectomy。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 4. 常見引起固定性藥物疹之藥物為 Tetracyclines、NSAID、磺胺類藥物 (sulfadrugs)、Aspirin、Barbiturates。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 6. 治療:一般給予支持性療法,給予 Aspirin、NSAID、口服或局部注射類固醇、臥床抬腿、穿彈性襪皆有不錯效果。如果是潛在病因或感染源所造成,則優先處裡,給予抗生素治療。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 【詳解】(A)是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B)為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C)為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D)為NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
@@ -75,8 +81,6 @@ tags:
 - ...modifying anti-rheumatic drugs)的特性描述,何者正確? (A) 有很強的消炎及止痛效果 (B) 通常服藥後一週內便會開始有效 (C) 會改善患者血清學的異常 (D) 長期服用會治癒風濕病 【詳解】(A) 須靠 NSAID;(B) 須服藥 1~3 月以上才有效果,所以急性期須靠 NSAID消炎、止痛;(D)僅會延緩疾病(Erosion)進展。 | 94(三)檢內-45 | | (A) 17 | . 下列何種治療類風濕性關節炎的藥物,較容易導致結核菌的復發或感染? (A) tumor necrosis factor inhibitors (B) methotrexate (C) sulfasalazine (D) leflunomide 【詳解】結核菌的復 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (B) 非類固醇類抗發炎藥 (NSAID) 控制神經痛之效果良好 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (C) 對非類固醇類抗發炎藥無效之疼痛,可給予 meperidine (Demerol) Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- 選項(B): 非類固醇類抗發炎藥對於神經痛效果不佳,可採用 Phenytoin或 Carbamazepine 類藥物。 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- | 藥物 | 機制 | 備註 | |----------------|-------------------------------|----------------------------------------------| | | 抑制 microtubule polymerization | 快發作的時候吃可預防 1#bid~tid | | Colchicine | →防止 neutrophil 趨化 | 副作用:噁心、嘔吐、腹瀉 | | NSAID | 減少發炎 | 效果佳,發作時一線用藥 | | Corticosteroid | 減少發炎 | 腎不好、消化性潰瘍而無法使用 NSAID 時,可用 Corticosteroid | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 
 ## Clinical Caveats
 

@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Hepatoblastoma (肝母細胞瘤)'
   - 'Hepatoblastoma'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-幼兒最常見肝臟惡性腫瘤，常見 AFP 升高與腹部腫塊。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+幼兒最常見肝臟惡性腫瘤，常見 AFP 升高與腹部腫塊。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- (D) 9. 一位 35 歲男性患者因持續右側腹痛就醫,經下消化道攝影發現 106(-)專升結腸有一蘋果核(apple core)般的病灶,下列何者是不需要 醫五-54的檢查? - (A) 大腸鏡切片檢查 (colonoscopic biopsy) - (B) 電腦斷層 (CT scan) - (C)癌胚胎抗原(CEA) - (D) 甲型胎兒蛋白(AFP) Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (B) alpha fetoprotein (AFP) and hepatocellular carcinoma Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - VII. 肝母細胞瘤 (Hepatoblastoma) 389 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - PS: Wilms tumor 屬於 embryonal tumors 中的一種。在台灣,最常見的 embryonal tumor 為 Wilms tumor,其次為 hepatoblastoma。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

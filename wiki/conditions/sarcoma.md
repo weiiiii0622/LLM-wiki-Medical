@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Sarcoma (肉瘤)'
   - 'Sarcoma'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- 【詳解】(A) 原發性心臟內腫瘤約 25% 為惡性,其中 75% 為 sarcoma,另外別處轉移過來的轉移癌發生機率比原發性心臟內 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...| | | | (B) 在這類病患中,以 virus-mediated 所引起之 tumor or malig- | | | | nancy 最為常見 | | | | (C) Human papillomavirus 與 Kaposi's sarcoma 有關 | | | | (D) Epstein-Barr virus 與 post-transplant lymphoproliferative | | | | disorders (PTLD) 有關 | | | | 【詳解】Kaposi's sarcoma (KS)和Human herpesvirus 8 (HHV8) | | | | 有關。 | | | | | | Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. 腦膜瘤(tumor of the meninges): - (1) 腦膜瘤 (meningioma)。 - (2) Meningeal sarcoma · primary meningeal melanoma · Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -68,7 +71,6 @@ tags:
 - ...巴瘤(CHOP),免疫風濕科用較低劑量治療狼瘡腎炎,而骨髓移植前則用較大劑量當作 conditioning regimens,後者可能造成心臟功能受損。 - c. Ifosfamide:為Cyclophosphamide analog,對於肉瘤(Sarcoma)較有效。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - 2. 拓樸異構酶 II 抑制劑(Topoisomerase II inhibitors)會妨礙 DNA 的雙股拆接 - (1) Etoposide (VP-16): 用於小細胞肺癌 (Cisplatin + VP16)、骨肉瘤 (Ifosfamide + VP16) Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - D. 肉瘤 (Sarcoma) 223 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- 【 詳解】Li-Fraumeni 的 典型 症狀是 breast cancer, sarcoma and adrenal gland, BRAC 則是 breast cancer 與 ovarian, HNPCC 的稱為 Lynch syndrome 與 endometrial、ovarian、gastric、pancreatic、urothelial cancer 有關,FAP 就是在腸胃道腫瘤。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

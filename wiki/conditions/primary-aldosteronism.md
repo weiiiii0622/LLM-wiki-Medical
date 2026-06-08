@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Primary aldosteronism (原發性醛固酮症)'
   - 'Primary aldosteronism'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-醛固酮自主分泌造成高血壓與低血鉀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+醛固酮自主分泌造成高血壓與低血鉀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch04]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 【詳解】Conn's syndrome、Cushing's syndrome、Pheochromocytoma等功能性腎上腺腫瘤在手術切除後改善效果非常顯著,無 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - (a) 血壓高:若與礦物性皮質素 (Aldosterone) 分泌過量有關,乃因其藉由留 鈉排鉀,所以會合併高血壓,要考慮腎動脈狹窄 (Renal artery stenosis)、 Conn's syndrome 等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (D) 原發性皮質醛酮症 (primary aldosteronism) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (A) 原發性皮質醛酮過多症 (primary aldosteronism) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
@@ -50,7 +54,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/adrenalectomy|Adrenalectomy (腎上腺切除術)]]
+- [[conditions/men2-syndrome|MEN2 syndrome (第二型多發性內分泌腫瘤)]]
 
 ## Follow-up
 

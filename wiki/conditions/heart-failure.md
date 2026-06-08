@@ -40,6 +40,15 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Heart failure (心臟衰竭)'
   - 'Heart failure'
@@ -54,7 +63,7 @@ tags:
 
 ## Summary
 
-心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +103,28 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch07]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- 3. 因壓迫鄰近器官而有的臨床表現:congestive heart failure (aortic root aneurysm with dilatation 造成 aortic regurgitation)、Hoarseness (aortic arch aneurysm 壓到 left recurrent laryngeal or vagus nerves)、呼吸困難、pulmonary compression、吞嚥困難、易飽足感(壓迫到胃)、嘔吐。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- ...ardiac disease | Stable coronary disease; remote MI; EF > 35% | Significant coronarydisease; recent MI; frequentangina; CHF; EF 1 > 1 L/sec | O 2 dependent; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- 1. Absolute indications: - (1) 因 heart failure 所導致的 hemodynamic compromise。 - a. Refractory cardiogenic shock • - b. 需要持續倚賴給予 IV inotropic agent 才能達到足夠的 organ perfusion。 - c. Peak $VO_2 2 11~14 mL/kg/min 且對日常活動造成限制。 - (2) 反覆性 unstable angina 且無法靠其他方法有效控制。 - (3) 病患在常規治療下仍舊體液不平衡或腎功能不穩定。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
+- 3. Insufficient indications:單有以下情形並不足以作心臟移植。 - (1) 左心室 ejection fraction 低下。 - (2) 曾經有 NYHA class III 或 IV 的 heart failure。 - (3) Peak VO2 > 15 mL/kg/min,且無其他適應症。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
+- ...------------------------------------------------| | Ischemic | Angina, reinfarction, infarct extension | | Mechanical | Heart failure, cardiogenic shock, mitral valve dysfunction, aneurysms, cardiac rupture | | Arrhythmic | Atrial or ventricular arrhythmias, sinus or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (4) 處置: 先維持 hemodynamic 穩定,使用 IABP 維持心臟血液穩定輸出,也避免 因 MR 而引發 pulmonary edema 甚至 heart failure,然後緊急手術修補。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (3) 處置:通常 aneurysm 很小或沒明顯症狀不需開刀,內科藥物治療(ACEI) 並追蹤即可。假使 aneurysm 擴張太快、angina、severe heart failure、refractory ventricular tachyarrhythmias 或是 recurrent thromboembolism 則需開刀將其切除。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (2) Stage B1: 侵犯至肌肉層。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (3) Stage B2:侵犯超過肌肉層甚至到達 visceral peritoneum 表面。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (4) Stage B3: 腫瘤直接侵犯到或是緊貼著臨近器官。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (C) 冠狀動脈疾病(coronary artery disease)、高血壓和年齡的增加是發生手術後心臟衰竭的危險因素 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ...覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 【 詳解】fluid overload 和 acute heart failure 肺 臟應會有濕囉聲,acute heart failure 病人不會因 ventilator 就整個改善症狀,ventilator 的有無會造成症狀明顯差異,會懷疑是否是意識不清或 musculoskeletal 的問題,但病人意識清楚,且才剛開過冠狀動脈繞道手術,故可合理懷疑是 phrenic nerve injury 導致橫膈膜 paralysis。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
@@ -105,16 +133,6 @@ tags:
 - (A) 常見之 surgical indication 為 end-stage pulmonary vascular disease 以及 end-stage bronchopulmonary pathology Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (B) 37. 一位 25 歲的半導體工廠員工,右手臂不小心被 49% 的氫氟酸 (hydrofluoric acid, HF) 潑到約 5% 體表面,20 分鐘後到急診室,此時皮膚微紅,起一個直徑兩公分之水泡,無其他全身性症狀。下列敘述何者錯誤? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 約 10~15% 失智症是可逆性的,尤其是因為系統性疾病如腎臟病、鬱血性心臟衰竭、甲狀腺功能低下、維生素缺乏、藥物或憂鬱症導致的失智症。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- (D) 應注意是否有低心輸出量(low cardiac output)心臟衰竭之 徵候 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- 【詳解】除了乾癬,異位性皮膚炎、藥物、白血病、淋巴瘤、 魚鱗癬都有可能會以紅皮症表現,除了會廣泛性脫屑外,表面 體溫上升引起血流增加,造成最後水分蒸發喪失、體溫下降; 且新陳代謝上升,心跳速率上升,嚴重會造成心臟衰竭(high cardiac output heart failure);落屑也會造成蛋白質流失和血液中 白蛋白下降。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- (1) 與 TOF 有相似的臨床表現:cyanosis、fatigue、tachypnea、delayed development、congestive heart failure。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 發紺或其它症狀表現嚴重程度由三尖瓣影響範圍大小與右心出口阻塞程度而 異。從沒有或輕微症狀到新生兒時期出現嚴重發紺、肝腫大、休克、心臟衰竭 甚至死亡等都有可能出現。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (2) The large PDA 造成的心衰竭與 large VSD 表現相似,而且心臟衰竭症狀會更快發生。其它臨床症狀包括寬的脈搏壓(the wide pulse pressure)、周邊動脈具有跳躍性脈搏(bounding peripheral arterial pulses)、嬰兒生長遲滯、心臟肥大等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...- (D) 心臟纖維瘤 (fibroma) - 【詳解】懷疑病人為 Tuberous sclerosis 患者,常見的心臟異常為 rhabdomyoma(佔 50%),其數量可不只一個且位在左心室心 尖處。併發症如 congestive heart failure、arrhythmias 有可能發生。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- 【詳解】裘馨氏肌肉失養症會合併智能不足但不會有癲癇。脊髓肌肉萎縮症是屬於運動神經元退化性疾病。福山型先天性肌肉失養症(Fukuyama congenital muscular dystrophy)臨床上除了肌肉發育不良外,其他症狀包括嚴重的心肌病變、腦部發育不良。因此可能出現心臟肥大或心臟衰竭、智能不足、癲癇、小頭甚至無法存活。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- ...濃度 125 mmol/L、鉀離子濃度 3.6 mmol/L、氯離子濃度 80 mmol/L,尿液鈉離子濃度 50 mmol/L。此病童最可能的診斷為何? - (A) 急性腸胃炎 (acute gastroenteritis) - (B) 心臟衰竭 (heart failure) - (C) 腦炎 (encephalitis) - (D) 腎上腺機能不全 (adrenal insufficiency) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 【詳解】題目敘述中,病人出現低血糖、低血鈉,脫水症狀,低血壓,及意識不清,可聯想至 adrenal insufficiency。其尿鈉高(>25)表示鈉由 renal loss,故不像急性腸胃炎或心臟衰竭,無局部神經學症狀,故也不像腦炎。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (#) 3. 下列何種疾病引起的低血鈉(hyponatremia)與血液稀釋無關? 107(-)專 (A) 肝硬化(liver cirrhosis) 醫四 -21 (B) 鬱血性心臟衰竭 (congestive heart failure) (C) 抗利尿激素不適當分泌症候群 (syndrome of inappropriate antidiuretic hormone secretion) (D) 腎病症候群 (nephrotic syndrome) 【詳解】這些都有機會造成血管內容積量增加,進而造成血液 中的鈉離子被稀釋造成相對性的低血鈉。 (C) 4. 關於高血鉀(hyperkalemia)的處理,下列何者敘述錯 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 
@@ -127,6 +145,7 @@ tags:
 - [[drugs/ace-inhibitors|ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)]]
 - [[drugs/beta-blockers|Beta blockers (乙型交感神經阻斷劑)]]
 - [[diagnostics/bnp|BNP / NT-proBNP (腦利鈉胜肽)]]
+- [[procedures/heart-transplantation|Heart transplantation (心臟移植)]]
 - [[conditions/hfpef|HFpEF (射出分率保留型心衰竭)]]
 - [[conditions/hfref|HFrEF (射出分率降低型心衰竭)]]
 - [[drugs/loop-diuretics|Loop diuretics (亨利氏環利尿劑)]]

@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Child-Pugh score (Child-Pugh 分級)'
   - 'Child-Pugh score'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- ...t; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直持續或加重。 - d. 動脈瘤破裂。 - e. 根據 Aortic Size Index(ASI = Aortic Diameter/Body Surface Area),如果病患 為 BSA 較小的女性 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- 5. Any amputation in a child Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (A) 常跟虐兒(child abuse)有關,有時需要社工介入 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (C) 11. 在兒童受虐(child abuse)的表現中,下列何者為最少見之臨床 表徵? 104(二)專 醫五-13 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - 3. Severe dehydration (>10% in an infant; >6% in an older child or adult): Source: [[sources/med4-book1-ch02|乙、消化系統]].

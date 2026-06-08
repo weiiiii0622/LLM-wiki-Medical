@@ -25,6 +25,12 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Central nervous system, CNS (中樞神經系統)'
   - 'Central nervous system, CNS'
@@ -39,7 +45,7 @@ tags:
 
 ## Summary
 
-包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +70,22 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch10]]
 - [[sources/med5-book1-ch12]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- (D) 細菌血栓打出一旦造成腦部缺氧或出血,應儘快手術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (D) 在 type A 或 type B 主動脈剝離產生的器官灌注不良 (malperfusion syndrome) 中,以腦部及腸道最常見 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- ...ac rupture | | Arrhythmic | Atrial or ventricular arrhythmias, sinus or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral embolization | | Inflammatory | Pericarditis | Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (4) 避免 stroke,可以從無名動脈對 carotid artery 灌流,維持腦部血流避免中風。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- ...sis • - (b) Gardner's syndrome: polyposis + osteoma + fibroma + sebaceous cyst • - (c) Turcot's syndrome: glioblastoma (CNS tumor) • - (d) CHRPE: congenital hypertrophy of retinal pigmented epithelium • - d. 篩檢: - (a) APC 基因檢驗。 - (b) 眼科檢查: CHRPE (congenital hypertrophy of retinal pigmented epithelium)。 - (c) 大腸鏡檢。 - e. 處置: - (a) Total procto Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- Neurogenic:動眼神經、交感神經或 CNS 受損所致,例如動脈流 血、腦膜炎、Horner's syndrome、糖尿病、多發性硬化症等。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - 2. 顱內室管膜瘤好發於孩童,但長於脊髓的室管膜瘤則以成年人為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. Medulloblastoma 為一種惡性高度侵犯,位於小腦的惡性腫瘤,好發於 5~7 歲,為 小孩最常見之腦部惡性腫瘤,屬於神經外胚層母細胞瘤,又稱 embryonal tumor。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (1) X光:有機會發現腫瘤本身鈣化、顱骨的增生肥厚(hyperostosis)或顱骨遭到破壞,但是比較準確的檢查則以腦部電腦斷層或核磁共振掃描為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -78,13 +97,6 @@ tags:
 - 1. 時機: Hunt and Hess Grade 1~4 病患在沒有腦部動脈痙攣收縮及嚴重腦浮腫的情況下,手術可盡早施行。Grade 5 病患除了腦脊髓液引流等簡易之處置外,原則上不建議早期開刀。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - (A) 2. 一糖尿病中年婦女,突然頭部劇痛、左眼瞼下垂、複視、瞳孔放 107(二)專大,來急診求治,神智清楚,腦部電腦斷層如附圖,下列處置何 醫五-54 者最恰當? Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - VII. 中樞神經感染的腦電波 (EEG) 特徵 76 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- 病毒可能經由呼吸道、腸胃道、泌尿道進入人體,造成病毒血症(viremia),而其 在中樞神經的感染不同的部位有不同的名稱。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- #### VII. 中樞神經感染的腦電波(EEG)特徵 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- L. 基本神經學 151 - A. 血管支配 151 - B. 大腦與脊髓病灶的比較 151 - C. 上運動神經元、下運動神經元病灶的比較 151 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 本章節以介紹基本神經學開始,先比較大腦與脊髓病灶,而脊髓病灶又分上、 下神經元,再比較彼此差異。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 1. 癲癇發作(seizure)是因為中樞神經無法控制的放電造成的,表現可以從小動作、 大動作痙攣(motor convulsion)到短暫的失去意識。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- ...l Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 

@@ -31,6 +31,9 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Lymphoma (淋巴瘤)'
   - 'Lymphoma'
@@ -45,7 +48,7 @@ tags:
 
 ## Summary
 
-淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +79,15 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- 4. 甲狀腺淋巴瘤(thyroid lymphoma): - (1) 相當罕見且多和 Hashimoto thyroiditis 有關。大部分為 non-Hodgkin lymphoma。 - (2) 只能藉由 biopsy 去診斷, FNA 幫助不大。 - (3) 主要治療為 radiotherapy。 - (4) 預後和有沒有侵犯出 thyroid capsule 有關,如果僅侷限在包膜內其五年存活率 為 85%,反之,只剩下 40%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- (A) 類癌 (carcinoid) (B) 淋巴癌 (lymphoma) Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- 1. 淋巴癌:結腸直腸為淋巴癌最常轉移之處,腸胃道淋巴癌中也有 10% 為 primary non-Hodgkin lymphoma。常見症狀為腹痛、排便習慣改變、體重減輕和血便。治療方法為手術切除和術後化療。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...) 將骨囊腫分離完整切除,如果不完整切除會有 20~50% 的復發率。 - (c) 約70~90% 可獲控制,需合併放射線治療。 - (3) 骨髓瘤 (myeloma)。 - (4) 神經纖維瘤 (neurofibroma)。 - (5) 淋巴瘤(lymphoma)。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...專 | | | (A) intramedullary spinal cord tumor 約占所有 spinal | tumor的 5% 醫五-46 | | | (B) primary intramedullary spinal cord lymphoma 相當 | 2 罕見 | | | (C) 最常見的 intramedullary spinal cord tumor 為轉移 | 9性腫瘤 | | | (D) 黏液乳突狀室管膜瘤 (myxopapillary ependym | oma) 較常長 | | | 在腰椎處 | | | | 【詳解】最常見為星狀細胞瘤(astrocytoma)。 | | | (C) | ) 5. 有關頸椎退化性疾病之手術敘述,下列何者錯誤? | 107(二)專 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 4. Lymphomas and hematopoietic neoplasms • Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -94,9 +103,6 @@ tags:
 - (B) 淋巴瘤 (Lymphoma) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (3) 伴隨淋巴結和內臟的侵犯:lymphadenopathy、hepatosplenomegaly Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (C) 16. 一位 70 歲男性,因為淋巴瘤接受了三次的 CHOP 化學治療,最 近二至三週在四肢陸續出現暗紅至暗紫色的丘疹及斑塊,皮膚 切片檢查如圖示,此病患最可能的診斷為何? Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (B) 是皮膚的 T-cell 淋巴瘤 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 【詳解】除了乾癬,異位性皮膚炎、藥物、白血病、淋巴瘤、 魚鱗癬都有可能會以紅皮症表現,除了會廣泛性脫屑外,表面 體溫上升引起血流增加,造成最後水分蒸發喪失、體溫下降; 且新陳代謝上升,心跳速率上升,嚴重會造成心臟衰竭(high cardiac output heart failure);落屑也會造成蛋白質流失和血液中 白蛋白下降。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- (C) 皮膚 T 細胞淋巴癌 (cutaneous T cell lymphoma) Source: [[sources/med4-book2-ch11|子、其 他]].
 
 ## Clinical Caveats
 

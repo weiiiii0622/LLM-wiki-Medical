@@ -9,6 +9,8 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Lethal triad of trauma (創傷致命三角)'
   - 'Lethal triad of trauma'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch12]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- 【詳解】機械型瓣膜病人須終身服用抗凝血劑,出血風 險相對組織型來得高,故不適合計劃生育之女性(Post partum hemorrhage),也不適合老年人(ICH)與血友病患者 (Coagulopathy),另有研究顯示裝有組織型瓣膜的洗腎患者較 不易流血且洗腎通路較不易阻塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (1) 血液中 Ca ↑、PTH ↑、ALP ↑、P ↓、Cl ↑ (PTH 促 HCO₃ 排出導致 hyperchloremic metabolic acidosis)、Cl: P > 33:1。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ## B. 創傷致命三角 (Lethal triad) Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - 1. 致命三角(Lethal Triad)包含 hypothermia、coagulopathy、metabolic acidosis,常見於嚴重外傷患者,這三者之間關係密切,任一個症狀都能誘發另一個症狀產生,造成死亡率上升。因此出現致命三角其中一個症狀出現時,需積極介入,手術探查找出血點給予止血,輸液/電解質矯正,體溫加熱等。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - ...-------------------------|---------------------------------------|-----------------|--|--|--| | (A) | 1. 大量出血或休克的病患,容屬於 lethal triad ? | 易造成所謂 lethal triad,下列何者不 | 109(二)專醫五-4 | | | | | | (A) arrhythmia | (B) acidosis | | | | | | | (C) hypothermia | (D) coagulopathy | | | | | | (A) | 2. 外傷死亡之病人,在外傷發 | 生後那一個時段,死亡人數最多? | 108(二)專 | | | | | | (A) 0~15 mi Source: [[sources/med5-book1-ch07|庚、急救外傷]].

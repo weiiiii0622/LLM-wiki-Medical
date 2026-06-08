@@ -17,6 +17,9 @@ sources:
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch24]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Brainstem (腦幹)'
   - 'Brainstem'
@@ -31,7 +34,7 @@ tags:
 
 ## Summary
 
-中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +51,19 @@ tags:
 - [[sources/med5-book1-ch10]]
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book1-ch11]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch24]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...| | (C) 目前放射線治療 (radiation therapy) 及化學治療 (chemo- | | | | therapy)效果不彰 | | | | (D) 很少需要根除手術,預後甚差 | | | (C) 19. | 甲狀腺髓質癌(medullary carcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- 2. IIB: - (1) Medullary thyroid carcinoma (100%) • - (2) Pheochromocytoma (50%) • - (3) Mucosal and gastrointestinal neuroma • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- (D) 1. 有關多發性內分泌贅瘤症候群 (multiple endocrine neoplasia , 107(-) 専 MEN) 的敘述 , 下列何者錯誤? - (A) MEN 1 包含副甲狀腺機能亢進(hyperparathyroidism) - (B) MEN 2A 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (C) MEN 2B 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (D) MEN 2C 包含嗜鉻細胞瘤 (pheochromocytoma) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- ...那一層合成? | 99(二)專 | | (A) Zona fasciculata | 醫五 -41 | | (B) Zona reticularis | | | (C) Zona glomerulosa | | | (D) Adrenal medulla | | Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 3. Infratentorial tumor:症狀以小腦和腦幹為主。 - (1) 因 CFS 流通受阻 hydrocephalus 導致 IICP signs。 - (2) CN III~XII 受壓迫或侵犯產生神經學症狀。 - (3) 頭量、嘔叶、量眩。 - (4) 步態不穩、運動失調(ataxia)、意向性顫抖(intention tremor)。 - (5) 眼球震顫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (1) 聽力檢查:去鑑別是傳導聽還是神經性聽力異常。 - a. 理學檢查: Weber test、Rinne test、Caloric test。 - b. Pure tone audiogram (PTA) • - c. Auditory brainstem response • Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 3. 好發於橋腦小腦角、鞍旁,也可發生於第四腦室、側腦室、大腦、小腦、腦幹或脊柱。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -62,13 +75,6 @@ tags:
 - | (D) | ) 3. 下列何者不是常見的 intradural extramedullary spinal to | ımor 的種類? 109( - ) 專 | |-----|---------------------------------------------------------|----------------------| | | (A) meningioma | 醫五 -10 | | | (B) schwannoma | | | | (C) neurofibroma | | | | (D) anaplas Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...持呼吸。 - b. 病人昏迷原因已經確定。 - c. 病人係遭受無法復原之腦部結構損壞。 - (2) 應排除可逆性之昏迷(第四條): - a. 因新陳代謝障礙、藥物中毒或低體溫所導致之昏迷。 - b. 罹病原因不明之昏迷。 - (3) 下列腦幹反射皆完全消失(第六條):其中一個正常就不算腦死。 - a. 頭眼反射 (Doll's eye sign):正常情況下,將病人頭部轉動,眼球會轉向相反 方向,例如頭往右轉,眼球會向左轉。 - b. 瞳孔對光反射(Light reflex)。 - c. 眼角膜反射 (Corneal reflex) = blink reflex,用棉花棒碰角膜會引發閉眼。 - d. 前庭-動眼反射(Oculo-vestibular reflex):Calo Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - ...的症狀。 | 108( 一 ) 專醫四 -51 | | (B) | 8.52 歲男性,主訴反覆出現之左臉陣發性劇烈疼痛一年多,在發作數週或數月後,可自行緩解數月。疼痛部位大多在左臉中下部分,無感覺缺失。其最可能診斷為下列何者? (A)中腦(midbrain)中風 (B)三叉神經痛(trigeminal neuralgia) (C)舌咽神經痛(glossopharyngeal neuralgia) (D)癲癇發作(seizures) | 107( 二 ) 専醫四 -54 | | (B) | 9. 下列何者不屬於頭顱內會引發痛覺的結構? (A) 顱內的大血管 (large intracranial vessels) (B) 軟腦膜 (pia matter) (C) 硬腦膜 (dura mat Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (D)33. 一位腦外傷的病患在幾天後發現右眼跳動式的疼痛,右眼球逐漸 98(二)專 突出,且無法上下或向內轉動,眼球充血。用聽診器在眼球上可 醫四-55 聽到雜音,最可能的診斷是: - (A) 右眼血管瘤 (hemangioma) - (B) 右眼腫瘤(tumor) - (C) 腦幹出血 (brainstem hemorrhage) - (D) 頸動脈與海綿竇管 (carotid-cavernous fistula) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- | | 運動 | 感覺 | |----------------------|------|-----------| | 大腦、腦幹病灶 | 對側無力 | 對側溫痛覺消失 | | 脊髓病灶 (Brown Séquard) | 同側無力 | 對側以下溫痛覺消失 | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (C) Brainstem injury Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (B) 5. 內囊後區(posterior section of internal capsule)、腦幹(brainstem) 101(ニ)専 及脊髓(spinal cord)之錐體系統(pyramidal system)出現核磁共 醫四-59 振影像(MRI, T2)對稱性信號增強病灶,則最有可能的疾病是: Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 我們的中樞神經可分為 5 個部分,位在最外面的大腦皮質→包在裡面的基底核 →往下走到腦幹→腦幹後面的小腦→腦幹往下的脊髓。除了各部位的中風會造成不 同的症狀,接下來要分別介紹各部位的疾病。第一部分,大腦皮質功能退化又稱為 失智症,失智症各種病因及治療將此章節討論;第二部分,基底核的退化則會造成 運動功能的失調,一類是不動、一類是過動;第三部分,代謝上的問題造成大腦的 傷害,如維他命缺乏等;最後則是其他雜項。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...er syndrome | | disorders | | | Motor neuron disease with PD features | | | | Dementia with Lewy l | podies (cortical · brainstem neuronal inclusions) | | (Parkinson- | tau pathology | Progressive supran | uclear palsy | | Plus syn.) | ("tauopathies") | Corticobasal degene | eration | | | | Frontotemporal dem | nentia | | | amyloid pathology ("amy Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- 在腦部電腦斷層攝影可見到最典型的病灶? 醫四-46 - (A) 橋腦腹部 (basilar pons) - (B) 黑質 (substantia nigra) - (C) 蒼白核 (pallidum) - (D) 扣帶回 (cingulate gyrus) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Apgar score (Apgar 評分)'
   - 'Apgar score'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-出生後快速評估 heart rate、respiration、tone、reflex irritability 與 color。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+出生後快速評估 heart rate、respiration、tone、reflex irritability 與 color。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- (B) 6. 一位 2 星期大的男嬰,出生時體重 3,000 gm, Apgar score 8 至 9 分,身體檢查並沒有發現異常現象。幾天前,開始有呼吸急促及發紺的現象,急送某醫學中心。經心臟超音波檢查發現病人有肺動脈瓣閉鎖的現象,經投予前列腺素靜脈注射,病人的發紺改善了。請依此回答下列 3 題: Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - \* 小常識:可用 APGAR 來記憶這五個評分項目,但實際上 Apgar 是最早發明此評分的麻醉科醫師的名字。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 3. 一個新生兒出生後第 5 分鐘時呈現心跳每分鐘 75 次、呼吸緩慢不規則、全身發紺(Cyanosis)、上肢體有些微彎曲但下肢體軟趴、對抽痰刺激僅有皺眉反應。根據你的評估 Apgar score 是幾分? Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...Î 0 | | (D) | 6. 一個足月嬰兒出生後哭聲洪亮、四肢活動力好、全身膚色紅洞 | 買、 107(二)専 | | | 心跳大約 140 / 分、呼吸 40 / 分,抽吸刺激時會有打噴嚏反應 | 度, 醫四-10 | | | 他的 Apgar Score 為幾分? | | | | (A) 4 (B) 6 (C) 8 (D) 10 | | | (A) | 7.1個月大的新生兒,睡眠時正常心跳的範圍為: | 107(一)專 | | | (A) 100~140 次 / 分 | 醫四 -12 | | | (B) 160~180 次 / 分 | | | | (C) 80~100 次 / 分 | | | | (D) 180~220 次 / 分 | | | (B) | 8. 有關 Apg Source: [[sources/med4-book1-ch11|子、新生兒科]].

@@ -13,6 +13,12 @@ sources:
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch05]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -27,7 +33,7 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +46,25 @@ tags:
 - [[sources/med3-book3-ch06]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch05]]
 
 ## Key Details From Sources
 
+- E. CABG 和 PTCA (percutaneous transluminal coronary angioplasty,氣球擴張術)的比較 30 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (A) 5. 一位 65 歲男性病人因左前胸痛至急診室求診,下列敘述何者正確?①急性主動脈剝離為鑑別診斷之一 ②若診斷急性 B 型主動脈剝離,可考慮以主動脈內血管支架(endovascular aortic graft)治療 ③若診斷急性心肌梗塞,須考慮經皮冠狀動脈處置(percutaneous coronary intervention) ④若診斷急性心肌梗塞,須立即執行冠狀動脈繞道術 - (A) 123 - (B) (1)(3)(4) - (C) 僅2(4) - (D) 僅④ Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- 急性心肌梗塞(AMI)有 medication、PCI 或 CABG 等治療對策, 各有其適應症,不是每一個 AMI 患者都要做 emergent CABG。 Emergent CABG indication: (ACC/AHA guidelines) Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- ①開放性動脈導管置放支架(stent) ②鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty) ③布塊擴大術(patch augmentation) ④廣泛切除窄縮部分再兩端吻合(extended resection with primary anastomosis) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- ...| | 紺,經心臟超音波檢查,發現有肺動脈瓣閉鎖,這時候要給予 | | | 何種治療最迫切且適當? | | | (A) 抗生素靜脈注射 | | | (B) 血栓溶解劑靜脈注射 | | | (C) 前列腺素靜脈注射 | | | (D) 使用氣球擴張術 | | | 【詳解】凡是發紺性先天性心臟病,前列腺素(PGE1)是重要 | | | 的藥物,能維持動脈導管開放,讓血液能從主動脈流向肺動脈。 | | | (B) 27. 承上題,上述治療主要的目的是: | 99(二)專 | | (A) 溶解肺動脈栓塞 | 醫 5-10 | | (B) 使動脈性導管(ductus arteriosus)打開 | | | (C) 將肺動脈瓣打開 | | | (D) 治療急性肺炎 | | | (C) 28 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (3) Endovascular Aortic Aneurysm Repair (EVAR):為低侵襲性的血管內支架手術,從兩側腹股溝股動脈處,將含金屬支架的人工血管(stent-graft)置放到主動脈瘤的位置撐開,使人工血管緊緊地貼緊主動脈壁,阻斷動脈瘤之血流供應,動脈瘤就會隨著時間慢慢的縮小。優點是傷口小、死亡率低、住院時間短及手術併發症降低。當病患年紀大、屬於開刀的高風險族群,EVAR會是個不錯的選擇。(下圖為 EVAR 示意圖) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- b. Endoleak: 支架沒放好,使得血流流出人工血管外或流進 aneurysm sac, 進而無法達到控制動脈瘤擴張的效果。依原因分成四種 type, 見下表。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (A) 3.60 歳趙先生(意識清楚)健康檢查時發現胸部 X 光片之縱膈腔 103(ニ)専8公分寬。下列敘述何者正確? 警五-23 - ①安排胸部電腦斷層檢查 - ②胸部降主動脈瘤為可能診斷之一 - ③手術前,醫師可應趙先生之書面要求而不將其手術危險性告 知其分居之配偶 - ④主動脈內血管支架 (endovascular aortic graft) 不可用於胸部 降主動脈瘤之治療 - (A) ①②③ (B) 僅①③ (C) ②④ (D) 僅④ Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- ...moral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm 的血管。 - d. 栓塞切除術(embolectomy): 開刀將血栓拿掉,恢復灌流,為急性動脈阻塞 首選。 - (a) 針對急性動脈阻塞塞,四肢對於缺血的耐受性較高,其黃金時期(即組織缺血後再灌注時仍可恢復功能)為6至8小時(大腦為4~8分鐘,心肌為17~20分鐘)。 - (b) 但長時間缺血後,再灌流時會造成 reperfusion injury/syndrome,使得阻塞 時缺氧組 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 1. 大血管粥狀硬化 (athero-thrombotic or artery to artery emboli): - (1) 位置:中大型動脈(ACA, MCA, PCA, BA, ICA×2, VA×2)。 - (2) 成因:因 DM、高血脂等形成粥狀硬化瘤(Atheroma)。 - (3) 診斷:頸部超音波、穿顱超音波、MRA。 - (4) 治療:若 ICA > 60% 有症狀的狹窄,或> 70% 無症狀的狹窄,建議放 Stent。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -51,14 +73,6 @@ tags:
 - (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...(sodium polystyrene sulfonate) 降低血鉀 | | | | (B) 透析(dialysis) | | | | (C) 輸血 (blood transfusion) | | | | (D) 經皮冠狀動脈介入治療(percutaneous coronary intervention) | | | | 【詳解】透析是 uremic pericarditis 最根本的治療方式。 | | | (C) | 3. 有關腹膜透析和血液透析的優劣點,下列何者錯誤? | 105(一)專 | | | (A) 血液透析對於超過濾(ultrafiltration)的控制比較正確 | 醫三-36 | | | (B) 腹膜透析比較容易發生血脂肪升高 | | | | (C) 血液透析比較常有白蛋白流失(D) 腹膜透析比較容易有低血鉀情況 | Source: [[sources/med3-book3-ch06|己、透析治療]].
 - 6. 治療:保守治療可以內視鏡注射肉毒桿菌素治療、或服用鈣離子阻斷劑(CCB)、硝 酸鹽類藥物(Nitrate)等達到肌肉放鬆;或以內視鏡進行氣球擴張術;若仍無效可考 慮用內視鏡或外科手術方法進行 myotomy ( 經內視鏡食道肌肉切開術: POEM-perioral endoscopic myotomy)(外科進行食道肌肉切開:Laparoscopic myotmy, 術式名 Heller myotomy)。緩解率可達 8 成以上,但亦可能造成 GERD 等併發症。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- ...吞食攝影發現食道有鳥嘴狀外觀(bird beak),肌電圖發現高壓的下食道括約肌無法放鬆,則下列敘述何者正確? (A)可能是硬皮症(scleroderma)影響食道 (B)可能是含有一氧化氮(NO)的神經元亢奮造成 (C)可以內視鏡放置食道支架(esophageal stent)治療 (D)可以內視鏡注射肉毒桿菌素治療 【詳解】本題病症應是指 Achlasia 為下食道括約肌無法放鬆;(A)硬皮症應是觀察到食道肌肉萎縮、纖維化,導致 LES 關不緊,易有胃酸逆流典型症狀(胸痛、嘔酸水等);(B) 應是含有一氧化氮(NO)的神經元被破壞;(C)食道支架(esophageal stent)較常用在惡性疾病造成的狹窄例如:食道癌末期的 palliative treatment,用在 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- 小腸鏡 enteroendoscopy:可想成是胃鏡的延伸,目前藉由特殊的氣囊構造(雙氣囊或單氣囊)可將內視鏡推進至小腸,直接進行探查,也可同步進行止血、切片、定位、異物取出、擴張、支架放置等治療。由於施行時間較長、風險也較高,因此多在已有其他檢查(膠囊、CT、RBC scan等)高度懷疑小腸病灶後進行, Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (1) 處置重點: - a. 心電圖沒有 STE 的這類病患重點在於將病患危險分級及追蹤病情變化,針對高 危險群病患,給予 Early PCI;針對有臨床症狀,但無心電圖、酵素上升等變化, 須 6 小時後再追蹤一次心電圖、酵素,轉為有變化者,需住院治療。 - b. 臨床上常使用 TIMI risk score for UA/NSTEMI: (口訣: AACC+3) - (a) A : age $> 65 \circ$ - (b) A: aspirin used in past 7 days • - (c) C: CAD (> 50% stenosis) • - (d) C: Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (c) Gp IIb/IIIa inhibitor:目前只用於 down stream therapy,對於施行 PCI 的病人,如發現 thrombus burden 量大才使用,可減少血栓造成的併發症。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (2) Limited stage:若體力許可,可予化療+放療,若達完全緩解(complete remission),可考慮加做腦部放療(prophylactic cranial irradiation, PCI),以達更好的控制。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
-- | 分期 | 定義 | 治療 | |-----------|-------------------|------------------------------------------------| | Limited | 同側 Hemithorax | CT+RT+/-PCI (Prophylactic cranial irradiation) | | Extensive | 超過 Radiation port | CT (Cisplatin+Etoposide) | Source: [[sources/med3-book1-ch13|丑、肺癌]].
-- ...on murmur)並延伸至右頸部,下列敘述何者正確? (A)本病人發生此疾病的原因,最常見的是風濕性心臟病(B)心臟超音波測量二尖瓣開口面積,可評估本病人心臟疾病的嚴重程度 (C)本病人如未積極治療,存活率大約一年半至兩年 (D)心臟瓣膜氣球擴張術是本病人治療的首選方法 | 104(一)專醫三-27 | | |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 
 ## Clinical Caveats
 

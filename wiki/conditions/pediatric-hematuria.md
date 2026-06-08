@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book2-ch18]]"
 aliases:
   - 'Pediatric hematuria (兒童血尿)'
   - 'Pediatric hematuria'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-兒童血尿需區分腎絲球性、非腎絲球性、感染、結石與遺傳性腎病。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童血尿需區分腎絲球性、非腎絲球性、感染、結石與遺傳性腎病。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,14 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med5-book2-ch11]]
+- [[sources/med5-book2-ch18]]
 
 ## Key Details From Sources
 
+- (C) 7. 一位 40 歲男性病人至門診就醫,主訴一週以來有持續性下腹痛及尿液混濁並夾雜氣泡,且有輕微之排尿困難,但無血便之症狀。理學檢查只見下腹及左下腹壓痛,但並無反彈性壓痛。有輕微發燒(38℃),白血球14,000/mm³,尿液中有雜質及多量WBC但只有少量RBC。經詢問病人,在過去5年內即經常有左下腹痛及便秘之現象,但並無解血便或血尿的情況,則病人最可能的診斷是: Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
+- 【詳解】本題線索很多:病人無 gross hematuria,尿液鏡檢也無血尿,可初步排除(A)膀胱腫瘤;(B)膀胱結石應該比較高機會有血尿,且較少造成大便習慣改變。(C)左下腹痛、大便習慣改變(便秘)和發燒,比較像是憩室炎的表現,加上尿液混濁夾雜氣泡,更可懷疑是憩室炎造成的 enterovesical fistula。(D)大腸直腸癌大多有血便,且尿液不會混濁夾雜氣泡。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
+- 3. Urinanalysis:因為盲腸附近的發炎,有可能造成尿道跟著發炎,所以尿液檢查中有機會看到血尿以及膿尿。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
 - (AC) 1. 一位 15 歲女童主訴過去幾個月有間歇性的發燒、手腕及踝關節 101(二)專痛。尿液檢查發現有血尿(hematuria)、蛋白尿(proteinuria)及 醫四-10 膿尿(pyuria)。下列何種檢驗對診斷最有幫助? - (A) 雙股 DNA (dsDNA) 抗體 - (B) 喉頭 A 群 beta 溶血性鏈球菌 (group A beta-hemolytic streptococcus) 培養 - (C) 小便培養 - (D) 紅血球沈澱速率 (erythrocyte sedimentation rate) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】有血尿及蛋白尿懷疑有 nephritis,加上關節炎及慢性 systemic 徵兆 (發燒),又是年輕女性,因此首先考慮 SLE,驗 dsDNA 有助診斷。而 systemic inflammation 就有可能造成 pyuria,但為排除泌尿道感染,仍應做小便培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...-------------------| | Thrombocytopenia | 每3,000 位病人中就有一位,通常為自限性(self-limited)。好發在兒童且為女孩子,通常發生在出疹後2週,表現特點為身上有出血點、腸胃道出血或是血尿。 | | Arthritis | 較常出現在成年人,特別是女性成年人。通常在出疹後一週表現,典型發生部位在手部關節,通常是自限性(self-limited),臨床上關節炎會持續幾週,鮮少有不良後果。 | | Encephalitis | 最嚴重的併發症。臨床上有兩種型態:1. Postinfectious encephalitis、2. Progressive rubella panencephalitis(PRP) 1. Posti Source: [[sources/med4-book1-ch04|丁、感染科學]].

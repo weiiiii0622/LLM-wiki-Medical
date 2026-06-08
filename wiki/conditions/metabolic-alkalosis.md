@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Metabolic alkalosis (代謝性鹼中毒)'
   - 'Metabolic alkalosis'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralocorticoid excess 相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralocorticoid excess 相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralo
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- (2) 低血鉀、低氫離子=>代謝性鹼中毒。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...col, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (3) 嘔吐後病人會表現出飢餓感,但餵食後又嘔吐。反覆嘔吐下病童逐漸失去水分、 氫離子、氯離子進而造成代謝性鹼中毒。病人血漿鉀離子通常正常但實際上可 能出現鉀離子總量不足。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (2) 手術治療(the Rammstedt pyloromyotomy)。手術前先矯正代謝性鹼中毒引起的離子不平衡。 Source: [[sources/med4-book1-ch02|乙、消化系統]].

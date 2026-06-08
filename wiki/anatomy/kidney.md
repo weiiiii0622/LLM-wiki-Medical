@@ -61,6 +61,17 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch10]]"
+  - "[[sources/med5-book2-ch12]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Kidney (腎臟)'
   - 'Kidney'
@@ -75,7 +86,7 @@ tags:
 
 ## Summary
 
-腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -136,9 +147,30 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch21]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch10]]
+- [[sources/med5-book2-ch12]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch22]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- (C) 若是臨床上考慮進行 mechanical bowel cleansing,針對腎臟功能不佳的患者,選擇 sodium phosphate 類的灌腸劑,相對polyethylene glycol solution,較少發生嚴重電解質不平衡的情形 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 【詳解】Sodium phosphate 為 osmotic solution,使身體水分往 大腸內滲透,容易影響 fluid/electrolytes imbalance,甚至 impair renal function; polyethylene glycol 則是 nonabsorbable osmotic agent,較不會有 fluid/electrolytes imbalance (fluid shifting)的問題,適合用在 renal failure、congestive heart failure、ascites from liver disease 的病人。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 2. 次發性 (Secondary HPT): Ca ↓ => PTH ↑ - (1) 慢性腎衰竭,腎排磷受阻造成高血磷,使得鈣磷沉積,造成低血鈣;vitamin D 缺乏影響到腸子以及腎臟對鈣的再吸收,低血鈣接著引起 PTH 的分泌。次發性 HPT 也見於骨軟化症(Osteomalacia)及小腸吸收不良(Intestinal malabsorption)。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- 3. 再次發性 (Tertiary HPT): PTH ↑=> Ca ↑ - (1) 長期慢性腎衰竭造成的次發性副甲狀腺亢進症一段時間後,會導致副甲狀腺發生自主性變化,使得副甲狀腺細胞組織增生,導致 PTH 升高,引發高血鈣。長期腎衰竭的病人在腎臟移植一段時間後,其次發性副甲狀腺亢進卻沒改善,血鈣和 PTH 偏高,則可診斷為再次發性副甲狀腺亢進。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- Symptomatic hyperparathyroidism - Fatigue - Pruritis - Bone pain or pathologic bone fracture - · Peptic ulcer disease - · Mental status changes - History of renal calculi Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- 1. 超音波為常用的篩檢工具,非侵略性、便宜、無輻射性,可初步判定動脈瘤的位置、大小、硬化的部分,偵測 AAA 的效果好,但對於 thoracic aorta(被肺部干擾)、 renal arteries、iliac arteries 效果比較差,且易受病人的體型(肥胖)和操作者的經驗影響檢查結果,故如果要開刀,CT 會是一個最佳的 pre-operative planning tool。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- 3. MRI: 病人有 renal insufficiency 或是對 contrast 過敏的替代方案。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- ...| | Type II | Flow from backbleeding arteries Patent lumbar, middle sacral, inferiormesenteric, hypogastric, accessory renal arteries | Observation Coil embolization or glue Laparoscopic ligation Open conversion | | Type III | Fabric disruption or tearModule disconnection | Placement of additional stents or cuffs Secondary endograft Open conv Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- 2. CT: 搭配顯影劑,能看出主動脈剝離的位置和範圍,分辨真腔和假腔。以及是否 有心包填塞、血胸的情況。 - (1) 如下圖為一個 Type A 的主動脈剝離,內膜與中膜分離後被血液充滿形成的假腔,和真腔之間以剝離內膜瓣(intimal flap)分隔。假腔的結構通常比真腔還大,由於假腔充滿相對比較不流動的血液,顯影劑比較難進入,因此 contrast-CT 下假腔會比真腔還暗。 - (2) 假使假腔有另一個出口,使得假腔也有血流,則真腔和假腔就會比較難分辨。 - (3) 當病人對顯影劑過敏,或是有 renal insufficiency 的情形,可改用 MRA 或是經 食道心臟超音波 (transesophageal echocardiography, TEE) 檢查。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (1) Mortality 高,致命的 complication 相當多,例如 malperfusion syndromes (cerebrovascular、visceral、renal 或 peripheral ischemia)、cardiac complications (acute aortic insufficiency、coronary ischemia 或 cardiac tamponade) 或 rupture,所以選擇緊急開刀。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 3. 每個器官的低溫保存期限 (cold ischemia time) 不同:腎臟 24~72 小時、胰臟 12~18 小時、小腸 6~12 小時、肝臟 6~10 小時、肺 4~6 小時、心 4 小時。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (2)除非原本的腎臟產生病變、難以控制之高血壓或嚴重感染,否則通常不會把原來腎臟切除,而是將新的腎臟移植到左下腹或右下腹的髂窩(iliac fossa)處。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (3) 將腎靜脈 (renal vein) 和受贈者外髂靜脈 (external iliac vein) 做吻合;接著將腎動脈 (renal artery) 和受贈者外髂動脈 (external iliac artery) 或內髂動脈 (internal iliac artery) 做吻合,最後將輸尿管縫接於病人的膀胱。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -147,16 +179,6 @@ tags:
 - 7. 轉移癌:轉移自肺癌、乳癌、腎臟、腸胃道或淋巴癌。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 2. 成年人最常見原發性小腦腫瘤,也可能長在脊髓、視網膜,或在腎臟、胰臟中出現 囊腫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (4) Omega-3 為不飽和脂肪酸,含有多種脂肪酸,其中 EPA(二十碳五烯酸)、 DHA(二十二碳六烯酸)及 α-Linolenic acid(次亞麻油酸)對人體很重要,可 從魚油獲得。EPA 可以降低血液黏稠度、降血壓、降三酸甘油脂等心血管疾病 保護作用; DHA 直接影響心臟、腦部、眼睛、神經系統、腎臟的正常運作。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (D) 10. 腹部腔室症候群(abdominal compartment syndrome)是指腹腔內臟器出血或腹內組織水腫,造成腹內壓(intra-abdominal pressure)急遽上升,導致呼吸困難、血壓下降、腎臟衰竭時,應立即採用下列何種方法處理為佳? Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 約 10~15% 失智症是可逆性的,尤其是因為系統性疾病如腎臟病、鬱血性心臟衰竭、甲狀腺功能低下、維生素缺乏、藥物或憂鬱症導致的失智症。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- ...iturate, sedative-hypnotic | | | | | | Acute metabolic | Acidosis, alkalosis, electrolyte disturbance, hepatic failure, renal failure | | | | | | Trauma | Closed-head injury, heat stroke, postoperative, severe burns | | | | | | CNS pathology | Abscess, hemorrhage, hydrocephalus, subdural hematoma, Infection, seizures, | | | | | | CNS pathology Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- 【詳解】Restless legs syndrome 主要症狀是感覺大腿有螞蟻在爬行的感覺,通常晚上症狀會更惡化,通常和懷孕缺鐵 B12 或腎臟病有關係。治療使用 benzodiazepine 類是無效的,多半是用L-dopa、Carbidopa、bromocriptine、pergolide、Ropinirole(FDA通過)治療。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- ...EG change · Stupor · Coma · Circulatory | | | | | failure | | | 嚴重(>2.5 mEq/L) | | Generalized convulsions · Oliguria · Renal failure · Death | | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- (2) 其它如關節、腎臟、心肺、腸胃道和中樞神經皆會受影響。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- ...| 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Throm Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (3) 口服皮質類固醇(Prednisolone):Indication 為 CNS involvement、renal involvement、severely ill patients without CNS involvement、hemolytic crisis 或 thrombocytopenia。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 5. 砷會引起肺癌、腎臟癌、膀胱癌或前列腺癌。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

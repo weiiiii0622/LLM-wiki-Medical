@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch27]]"
 aliases:
   - 'Antiphospholipid syndrome, APS (抗磷脂質抗體症候群)'
   - 'Antiphospholipid syndrome, APS'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-以動靜脈血栓或妊娠 morbidity 合併 antiphospholipid antibodies 為核心。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以動靜脈血栓或妊娠 morbidity 合併 antiphospholipid antibodies 為核心。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch27]]
 
 ## Key Details From Sources
 
+- 1. 原因:Virchow's triad - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、antithrombin III deficiency、antiphospholipid syndrome 等。 - (3) Endothemium injury: 靜脈內皮細胞受損,例如手術( 髖關節或膝關節手術)、 外傷、之前有過 DVT。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...| | | 【詳解】 | (C) 全層皮層缺損。 | | | | (D) 12. 與顯微組 | 織皮瓣(microvascu | ular free flaps)比較之下,局部皮類 | 瓣 105(二)專 | | (local fl | aps)有下列限制,何 | 可者錯誤? | 醫五-22 | | (A) 局部 | 皮瓣(local flaps)的 | 內覆蓋範圍是受限制的 | | | (B) 局部 | 皮瓣(local flaps)的 | 的遠端之血液循環可能不好 | | | (C) 在外( | 易的情況下局部皮瓣 | (local flaps)可能受傷,不一定可能 | 靠 | | (D) 老人的 | 内局部皮瓣(local fla | ps)與年輕病患的局部皮瓣一樣可認 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - 2. 危險因子同 DVT: Virchow's triad。 - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、Antithrombin III deficiency、Antiphospholipid syndrome 等。 - (3) Endothelium injury: 靜脈內皮細胞受損, 例如手術( 髖關節或膝關節手術) 外傷、 之前有過 DVT。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 下列何項檢查最有助於診斷 Wegener's granulomatosis ? 醫四 -42 - (A) anti-histone antibodies - (B) antiproteinase-3 antineutrophil cytoplasmic antibodies ( PR3-ANCA ) - (C) anticardiolipin antibodies - (D) antinuclear antibodies (ANA) Source: [[sources/med4-book2-ch11|子、其 他]].
 - h. Immunologic disorder 免疫學異常: - (a) Anti-dsDNA 陽性或 - (b) Anti-Smith (Anti-Sm) 陽性或 - (c) Anti-phospholipid Antibodies 陽性: - i. Anticardiolipin antibodies 陽性或 - ii. Lupus anticoagulant 陽性或 - iii. False positive serology test for syphilis • Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

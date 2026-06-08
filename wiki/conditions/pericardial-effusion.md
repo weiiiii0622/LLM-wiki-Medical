@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch01]]"
 aliases:
   - 'Pericardial effusion (心包膜積液)'
   - 'Pericardial effusion'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-心包膜腔液體增加，需注意 tamponade 生理。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心包膜腔液體增加，需注意 tamponade 生理。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch01]]
 
 ## Key Details From Sources
 
+- (C) 在次發性惡性心包膜積液 (secondary malignant pericardial effusion)的病人中,男性及女性皆以肺癌最為常見 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- ...liac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心臟舒張,造成回心血量減少, 連帶使得心輸出量減少。 - b. 典型的臨床表現有 Beck's triad: JVP 上升、hypotension,distant heart sounds (隔了一層積液,心音聽起來低沉,好像很遠的感覺)。 - c. 其他表現有 pulsus paradoxus (吸氣時 SBP 下降超過 10 mmHg 或者 9%),以及 Kussmaul's sign (吸氣時 jugul Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...ion (開刀時機為病人在 1.5 至 3 歲時)。(參考)PS:若手術方式為 Fontan procedure,術後發生可能的問題有 systemic venous pressure、fluid retention、pleural or pericardial effusions,其中 pleural effusion 佔 30~40%。晚期併發症可能有 baffle obstruction 進而造成 superior or inferior vena cava syndrome、vena cava or pulmonary artery thromboembolism、protein-losing enteropathy、supraventricular arrhythmias(atrial flutter Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 心臟的侵犯是川崎病最重要的臨床表現,可能出現 myocarditis、pericarditis with pericardial effusion(急性期)。若沒有治療,約 25% 病人在疾病發生後第二至 三週會有 coronary artery aneurysms;當冠狀動脈瘤內徑≥ 8 mm 時,破裂的機會非常高。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

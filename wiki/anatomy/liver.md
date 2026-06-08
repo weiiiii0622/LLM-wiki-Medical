@@ -58,6 +58,12 @@ sources:
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Liver (肝臟)'
   - 'Liver'
@@ -72,7 +78,7 @@ tags:
 
 ## Summary
 
-肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -130,9 +136,24 @@ tags:
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch18]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- (B) 3. 一個 4 個月大的女嬰,母親是高齡產婦,女嬰出生時並無發紺現象,出生體重 2,500 gm,一個月後嬰兒呈現呼吸急促,食慾不佳,有盜汗現象,經醫師檢查,呼吸及心跳速率皆增加,胸骨左側可聽到心縮期雜音,肝臟也有腫大現象。心臟超音波檢查發現有左至右的分流,肺動脈壓增高,經投予藥物治療數星期之後,臨床症狀改善有限,且體重只有 3,500 gm,醫師建議手術治療。請依此回答下列 3 題:下列那些手術方式對此病患有幫助?① Blalock-Taussig 分流手術 ②完全矯正 (total correction) ③肺動脈環縮術 (PA banding) ④肺動脈瓣切開術 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 【詳解】沒有發紺、心縮期雜音、肝臟腫大、左心至右心分流、肺動脈壓增高都是心室中膈缺損典型的表現。高壓血於心收縮期由左心經過心室中膈缺損處灌入右心,造成右心以至於肺動脈與體靜脈系統高壓,然後肝臟因肝靜脈高壓回流不順而腫大。治療 VSD 如能直接修補如完全矯正術最好,若時機或條件不成熟則首重右心系統的減壓,例如肺動脈環縮術(Pulmonary artery banding)。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- ...distant metastasis | | | | M1 | Distant metastasis | | | | M1a | Metastasis confined to one organ or site (for example, liver, lung, ovary, non-regional node) | | | | M1b | Metastases in more than one organ/site or the peritoneum | | | Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 【詳解】Sodium phosphate 為 osmotic solution,使身體水分往 大腸內滲透,容易影響 fluid/electrolytes imbalance,甚至 impair renal function; polyethylene glycol 則是 nonabsorbable osmotic agent,較不會有 fluid/electrolytes imbalance (fluid shifting)的問題,適合用在 renal failure、congestive heart failure、ascites from liver disease 的病人。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- ...| | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimoto thyroiditis亞急性甲狀腺炎 (de Quer Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...thyroid carcinoma, FTC): - a. 由濾泡上皮細胞衍生而來,約佔甲狀腺癌的 10%。 - b. 好發在 50 歲之後,女性的發生率為男性的三倍。 - c. 單發性,不易局部淋巴轉移,反而易經血流轉移至遠端肺、骨骼、及肝臟。 - d. 10 年存活率約為 60~80%。 - e. 病理特色:侵犯包膜(capsule)、血管和淋巴管。FNA 不易和腺瘤作區別。 - f. Hürthle cell carcinoma:濾泡癌的一個亞型,好發老年、好淋巴轉移且對 131I 有抗性。 - g. Thyroglobulin 也可作為其 tumor marker。 - h. 治療: - (a) Thyroid lobectomy:腫瘤 1 公分、多發性、大幅度侵犯包 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...EV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直持續或加重。 - d. 動脈瘤破裂。 - e. 根據 Aortic Size Index(ASI = Aortic Diameter/Body Surface Area),如果病患 為 BSA 較小的女性,動脈瘤長比較快且易 rupture,故最 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- 2. Liver abscess • Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
+- 3.60% 為惡性,會轉移到臨近淋巴結或肝臟。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (D) 肝臟邊緣 (liver edge) Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - 2. 肌肉蛋白的分解可產生較多的支鏈性胺基酸(Leucine、Isoleucine 和 Valine),再轉換成 alanine 及 glutamine 以提供肝臟合成葡萄糖。此外,傷口產生的乳酸和脂肪氧化產生的甘油(glycerol)也可供應葡萄糖合成。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - 3. 重症患者其身體代謝改變如下: - (1) 脂肪分解增加。 - (2) 糖質新生作用增加,但其能量消耗比例降低。 - (3) 乳酸及丙酮生成增加。 - (4) 肌肉分解增加,周邊組織支鏈胺基酸氧化增加,非支鏈胺基酸運往肝臟的量增加。 - (5) 肝臟合成蛋白質以及尿素生成(ureagenesis)增加。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
@@ -142,15 +163,6 @@ tags:
 - Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (2) 刀傷以最常傷及肝臟,槍傷則最常傷及小腸。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - (2) 腹部鈍傷最常傷及脾臟,其次為肝臟。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- (C) 8. 下列那一個腹部器官在腹部鈍傷中最常受到傷害? 105(一)專 (A) 肝臟 (B) 腎臟 (C) 脾臟 (D) 胰臟 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- ...as the first symptom 以跌倒為第一個症狀 | PSP | | Exposure to neuroleptics 有服用抗精神病藥物 | Drug-induced parkinsonism | | Associated liver disease 有肝功能上升 | Wilson's disease | | Dementia as first symptom 以失智症為第一個表現 | Dementia with Lewy bodies | | Prominent orthostasis 有姿態性低血壓 | MSA-p | | High frequency (8~10 Hz) symmetric tremor 高頻率顫抖 | Essential tremor | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (A) 病人的血中銅含量增加,但因為在肝臟及腦中沉澱,因此 24 小時尿中的總銅量反而減少 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...| | 【詳解】本題答 B 或 C 者均給分。 (C) 34. 下列有關威爾遜氏症(Wilson's disease,即 hepatolenticular degeneration)的敘述,何者正確? (A) 病人的血中銅含量增加,但因為在肝臟及腦中沈澱,因此 | | | 【詳解】本題答 B 或 C 者均給分。 (C) 34. 下列有關威爾遜氏症(Wilson's disease,即 hepatolenticular degeneration)的敘述,何者正確? (A) 病人的血中銅含量增加,但因為在肝臟及腦中沈澱,因此 24 小時尿中的銅量反而減少 | | | 【詳解】本題答 B 或 C 者均給分。 (C) 34. 下列有關威爾遜氏症(Wilson's disease,即 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- (1) Valproic acid (Depakine® 帝拔癲): - a. 失神性發作(小發作)的首選,但部分發作、全身肌強直陣攣(大發作)、 失神性發作(小發作)皆適用。 - b. 最常見腸胃道的副作用,而使用在2歲以下的嬰幼兒容易發生肝臟毒性,一般常在使用後的4個月內會發生,因此使用時常需監測肝功能。 - c. 致畸胎性,孕婦禁用。可能造成血小板低下。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- a. Phenobarbital (Luminal®): 部分發作、全身肌強直陣攣(大發作)的二線用藥。 誘發肝臟 P-450 的合成,加速其他藥物代謝。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- 【 詳解 】(A) 思覺失調症的患者自我(ego) 功能不好,不 建議做精神分析,(B) 多巴胺受器拮抗劑(dopamine receptor antagonist),(C) 尼古丁會活化肝臟代謝藥物的酵素(cyp450), 會導致藥物濃度降低。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- b. 內服療法: 適用於頭癬及甲癬,或局部療法效果不佳、病灶廣泛之慢性皮癬患者。 - (a) Terbinafine (療黴舒):屬殺黴菌藥物,治療皮黴菌約需 2~4 週,手指甲 癬需 6 週,而腳趾甲癬約需 12 週。治癒率為 80~90%,但對汗斑及念珠 菌感染無效。 - (b) Itraconazole (適譜諾):由於對肝臟損害少,有取代老藥 Ketoconazole 之趨勢,屬於抑黴菌藥物而非殺黴藥物。但因屬 imidazole 類之廣效製劑,故對汗斑及念珠菌感染亦具療效。 - (c) Griseofulvin(灰黃黴素):只對皮癬菌有效,為傳統口服抗黴菌藥物,只具有抑菌效果,主用於頭癬和灰指甲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

@@ -20,6 +20,8 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch07]]"
 aliases:
   - 'Pulmonary function test, PFT (肺功能檢查)'
   - 'Pulmonary function test, PFT'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,14 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch07]]
 
 ## Key Details From Sources
 
+- 2. 見下表,以 AAA 為例,年齡、活動度、心臟(CAD、AMI等)、肺功能(FEV1、COPD)、腎功能、AAA 的 type 及肝功能等都會影響到手術的 mortality,其中以心臟(CAD) 為最主要的手術危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- ...F > 35% | Significant coronarydisease; recent MI; frequentangina; CHF; EF 1 > 1 L/sec | O 2 dependent; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (4) 嚴重的慢性阻塞性肺病, $FEV_1 5 Wood units) | | | | (D) 22 歲女性罹患良性心臟內腫瘤合併反覆性心室性頻脈,無 | | | | 法以外科手術切除者 | | | | 【詳解】(C) 心臟移植後有馬上右心室衰竭的風險。 | | | (B) | 3. 在下列何種情況下,作異位心臟移植(heterotopic transplantation) | 99(二)專 | | | 比正位心臟移植(orthotopic transplantation) Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. 相對禁忌症(Relative contraindications): - (1) 之前有作過腹腔手術者:腹腔內會沾黏,影響手術,須作 adhesiolysis 減少沾黏。 隨著經驗的累積、技術的進步及器械的改良,已經少被列為禁忌症了。 - (2) 腹膜炎。 - (3) 懷孕第一期和第三期婦女。 - (4) 嚴重心肺疾病:心肺疾病會因使用 CO2 充氣產生高碳酸血症而惡化病情,腹內 壓上升也會影響到心肺功能。 - (5) 腸胃脹氣: 術中容易傷害到腸胃。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
@@ -72,9 +79,6 @@ tags:
 - (A) 6. 一位 32 歲女性病人主訴最近 3 個月手指遇冷水或生氣時膚色便會轉 101(一)專 為蒼白色,同時覺得有些吞嚥困難,且半夜時常胃酸逆流到嘴裡。2 星期前,開始時常乾咳,且稍微運動便覺得喘。下列的檢查,那項 最不必要? - (A) 運動心電圖 - (B) 心臟超音波 - (C) 胸部 X 光 - (D) 肺功能檢查 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - | 內在因子 | 外在因子 | |-------------------------------------------------------------------------------------------------------------------------------|----------------| | 1. 聽力與視力下降 | 1. 居住環境雜亂、浴廁潮濕 | | 2. 暈眩,可由疾病或藥物造成: (1)心血管疾病:心律不整、姿態性低血壓 (2)神經疾病:中風、失智症、巴金森氏症 (3)新陳代謝疾病:糖尿病 (4)高血壓藥物、利尿劑、抗憂鬱劑與抗組織胺藥物 3. 心肺功能、肌肉骨骼功能退化造成移動與平衡能力下降 | 2. 環境陰暗、照明度不足 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - 3. 不適合使用腹膜透析的情況: - (1) 自己不能操作又無人協助者,衛生習慣不佳。 - (2) 腹膜開過刀、沾黏。 - (3) 腰脊骨病併發慢性疼痛者。 - (4) 慢性肺疾,肺功能減低者(因透析中腹膜腔內都是透析液會對橫膈造成壓迫)。 Source: [[sources/med3-book3-ch06|己、透析治療]].
-- A. 定 義:肺功能檢查有不可逆的氣道阻塞證據,post bronchodilator FEV1/FVC 3月/1年*2年 | 病理上:小氣道擴張,肺泡壁破壞 | | حلالتك | Severe hypoxemia, Hypercapnia, V/Q mismatch | Mild hypoxemia | | 症狀 | Pul. HTN, Cor pulmonale (EKG: RVH) | DLCO ↓ | | 呼吸音 | Wheezing | Di Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- ...-------------|----------------------| | | | -7 | 急性惡化病史 | | | | 支氣管擴張試驗後 | FE | V1 (預測值%) | ≧ 1 次急性惡化需住院 | | 111212 | | FEV 1 /FVC全 2 次急性惡化但未導致住院 | CD | D | | | GOLD 2 | 50-79 | | | | | | GOLD 3 | 30-49 | | | | | | GOLD 4 | CAT CAT ≥ 10 | Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- 1. FEV1/FVC 1% predicted 用於嚴重度分級。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 
 ## Clinical Caveats
 

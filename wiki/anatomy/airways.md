@@ -35,6 +35,9 @@ sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch07]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Airways (氣道)'
   - 'Airways'
@@ -49,7 +52,7 @@ tags:
 
 ## Summary
 
-氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +87,15 @@ tags:
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch07]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- (D) 12. 在高速道路上突然減速的撞擊,很可能造成胸部傷害,尤其是外 98(-)專 傷性主動脈斷裂,此種傷害,在胸部 X 光上最常見的表現是什麼? 醫五-77 - (A) 主動脈節不見 (obliteration of aortic knob) - (B) 氣管向右邊 (deviation of the trachea to the right) - (C) 左支氣管下移 (depression of the left main stem bronchus) - (D) 中膈腔寬大 (widened mediastinum) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- ...度破裂風險,可考慮提早開刀。 - f. 其他像是 saccular aneurysm、mycotic aneurysm、pseudoaneurysm、dissecting aneurysm、fistula with GI tract or airway 等情形,不論大小皆建議馬上開刀。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- d. 其他: - (a) 氣道外傷 - (b) 極低體溫 (核心體溫≤ 30°C) Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (6) 支氣管擴張症及其他發炎之後遺症。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -102,9 +111,6 @@ tags:
 - 2. 種類:可分為 obstructive、central 與 mixed 三種。 - (1) Obstructive apnea: 有胸壁的起伏但氣道沒有氣體的流動,當胸壁呈現吸氣時咽部氣道發生塌陷。 - (2) Central apnea:中樞神經對呼吸相關肌肉刺激減少,造成沒有氣體流動與胸部起伏,但呼吸道沒有阻塞的證據。 - (3) Mixed apnea: 最常見, 佔 50~75%。阻塞型與中樞型混合,通常阻塞型在中樞型前發生。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (2) 除了給予氧氣或 CPAP (continuous positive airway pressure) 外,對於發生呼吸暫停但病人本身沒有 precipitating identifiable cause 可以給予 theophylline 或 caffeine 治療。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 12. 一位 36 週早產兒經剖腹產生下後,發生呼吸窘迫症狀,呼吸聲 104(2) 專 有囉音(rales),經給予氧氣(FiO $_2$ 25%)及連續性氣道正壓 80-6 (CPAP)呼吸後,症狀逐漸改善,隔天即無症狀。下列那一項 是最可能的診斷? - (A) 呼吸窘迫症候群(respiratory distress syndrome) - (B) 短暫呼吸急促 (transient tachypnea of newborn) - (C) 細菌性肺炎 (bacterial pneumonia) - (D) 自發性氣胸 (spontaneous pneumothorax) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (2) 先天性肺動脈瓣缺失(congenital absence of the pulmonary valve):病人常有呼吸道阻塞,發紺嚴重程度不一。心臟明顯肥大且有 to-and-fro murmur。肺動脈有明顯的 aneurysmal dilation,進而壓迫支氣管造成呼吸音出現 wheezing 或stridor。病人常有反覆性肺炎。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...列標記何者引?cell tumor,所以 hCG 會高。 | 95(一)専内2-6 | | (A) 21. 癌胚胎抗原(carcinoembryon關此抗原的敘述何者錯誤?(A) 大腸癌早期數值即升高,(B) 胰臟癌病人數值可能升高(C) 支氣管炎病人數值可能升(D) 吸菸者數值可能升高 | | 94(三)檢內-23 | | (C) 22. CA15-3 是那一種癌症之腫瘤(A) 大腸癌(C) 乳癌 | 指標(tumor marker)?(B) 卵巢癌(D) 肺癌 | 94(二)檢內-48 | | (B) 23. CA-125 為那一種癌症之腫瘤(A) 肺癌(C) 乳癌 | 標記?(B) 卵巢癌(D) 胃癌 | 94( 一 ) 檢內 -19 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- (C) 支氣管囊腫 (bronchogenic cyst)、心包膜囊腫 (pericardial cyst) 常出現在中縱膈腔 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

@@ -10,6 +10,9 @@ sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch01]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Cardiac tamponade (心包膜填塞)'
   - 'Cardiac tamponade'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-心包壓升高限制心臟充填，可能造成休克。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+心包壓升高限制心臟充填，可能造成休克。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,17 @@ tags:
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch01]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- ..., oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心臟舒張,造成回心血量減少, 連帶使得心輸出量減少。 - b. 典型的臨床表現有 Beck's triad: JVP 上升、hypotension,distant heart sounds (隔了一層積液,心音聽起來低沉,好像很遠的感覺)。 - c. 其他表現有 pulsus paradoxus (吸氣時 SBP 下降超過 10 mmHg 或者 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (1) Mortality 高,致命的 complication 相當多,例如 malperfusion syndromes (cerebrovascular、visceral、renal 或 peripheral ischemia)、cardiac complications (acute aortic insufficiency、coronary ischemia 或 cardiac tamponade) 或 rupture,所以選擇緊急開刀。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (B) 8. 心包填塞 (cardiac tamponade ) 是下列那一個情形 ? 105( - ) 專中心靜脈壓 動脈壓 心輸出量 混合靜脈血氧飽和度 醫五 -9 A ↓ ↓ ↓ ↓ Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (A) 8.70 歲男性,機械性人工二尖瓣瓣膜置換手術後,術後三小時,胸 腔引流管之流量逐漸減少,但是中心靜脈壓逐漸上升,尿量逐漸 減少,心跳逐漸加快,動脈壓逐漸下降。此時要鑑別診斷是心 包填塞(cardiac tamponade)或是術後心臟失能(myocardial dysfunction),最好的診斷工具為下列何者? - (A) 心臟超音波 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (A) 正常人的心包膜液約為 20 ml, 創傷性急性心包膜填塞積液一 旦達 40 ml,壓力便會急速上升 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...st rales 【 詳解 】 Pulsus alternans:severely impaired LV systolic function,可見於心臟衰竭。Pulsus paradoxicus(吸氣時 SBP下降 > 10 mmHg):cardiac tamponade, airway obstruction, SVC obstruction, COPD。 | 97(二)專醫三-9 | Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 - ...組織血流灌注不足(inadequate tissue perfusion) (B) 持續性嚴重腹瀉會造成大量脫水,但不致於造成休克 | 醫三 -17 | | | (C) 嚴重心肌梗塞會造成心因性休克 | | | | (D) 心包膜積水如發生心包膜填塞(pericardial tamponade),亦會造成休克 | | | (C) | 2. 休克狀態時,下列那一項生理變化對於組織缺氧惡化的影響最小? | 107(一)專 | | | (A) 動脈平均血壓由 70 mmHg 降為 50 mmHg | 醫三 -46 | | | (B) 血色素由 15 g/dL 降為 10 g/dL | | | | (C) 動脈氧氣分壓由 100 mmHg 降為 70 mmHg(D) 動脈血氧飽和度由 10 Source: [[sources/med3-book1-ch05|子、其 他]].
 - ...= | 動脈搏動快速上升, | Stroke volume 增加, | AR | | Water-hammer pulse | 且快速下降 | 且動脈瓣逆流 | AK | | | 四层中 小小空里工厂及打印 10 | 吸氣→右心變大→ | Cardiac tamponade | | Pulsus paradoxus | 吸氣時,收縮壓下降超過 10 | 左心受壓迫* | Cardiac tamponade | | Pulsus alternans | 脈搏規則但強弱一大一小交替變動 | 低左心室射出率 | 心臟衰竭 | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].

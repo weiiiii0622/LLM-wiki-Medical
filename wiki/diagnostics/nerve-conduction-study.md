@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book2-ch25]]"
 aliases:
   - 'Nerve conduction study, NCS/NCV (神經傳導檢查)'
   - 'Nerve conduction study, NCS/NCV'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch14]]
+- [[sources/med5-book2-ch25]]
 
 ## Key Details From Sources
 
+- (D) 9. 一位 56 歲的男性糖尿病患,有糖尿病足來到門診,與醫師討論 有沒有可能憑藉換藥使傷口癒合,則下列何項最具決定性? - (A) 抽血檢查 HbA1c - (B) 安排神經傳導及肌電圖檢查(NCV/EMG) - (C) 做細菌培養 - (D) 檢查足背動脈與後脛動脈有無脈動 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (A) 神經傳導速率檢查 (nerve conduction velocity testing) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (C) 3.28 歲女性病患,主訴每天醒來沒有異狀,經過一段時間漸漸產生 106(-)專 眼皮下垂及複視現象,以上症狀經過休息會獲得改善,下列那種 醫四-55 檢查最能幫助病人確認診斷? - (A) 神經傳導測試 (nerve conduction studies) - (B) 肌電圖檢查 (electromyogram) - (C) 重複性電擊刺激(repetitive stimulation test) - (D) 瞬眼反射檢查(blink reflex) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].

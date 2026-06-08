@@ -15,6 +15,9 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Atrial fibrillation (心房顫動)'
   - 'Atrial fibrillation'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,18 @@ tags:
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- ...140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG 顯示有心房顫動,血液檢查:Hb 14 g/dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃⁻ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 - (B) 腹部核磁共振檢查 - (C) 腹部血管攝影檢查 - (D) 直接剖腹探查 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- 【詳解】心悸後腹痛,無緩解,PE 無腸音,EKG 發現有 Af => 懷疑是 Af 的 thrombus 打到腸子血管造成 acute thromboembolism。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- ...血流 反而流回左心房,造成左心房擴張。左心室代償而擴大及肥厚,久之代償失效, 導致左心衰竭。 - (2) 病因:主要也是風濕熱為主要原因,感染性心內膜炎、創傷、或先天性異常都 有可能。 - (3) 症狀:呼吸困難、端坐呼吸、肺水腫、肺高壓、atrial fibrillation。症狀嚴重度和 閉鎖不全程度相關,mild MR 患者幾乎不會有症狀, - (4) 處置方式和 MS 相同,可先藥物處理(利尿劑、ACEI),當藥物無法控制,症 狀持續嚴重、發展成肺動脈高壓、左心室功能惡化,則考慮手術修補。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 1. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞 率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎, 且難以控制。 - (1) 適用於小孩、小於六十歲者、有 atrial fibrillation 患者(本身就有在服用 Wafarin)、瓣膜的環部(annular)太小,因為生物性瓣膜比較大片,換了反而 會造成 stenosis 的後果。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (D) 13. 下列有關心房震顫(atrial fibrillation)之敘述,何者錯誤? Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (4) 心臟方面輕微低體溫會 bradycardia,接著 Af和 Vf。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ...2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),r Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (D) 心房顫動造成心因性血栓 (cardiac emboli) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -59,12 +71,6 @@ tags:
 - (C) 1. 一位 70 歲女性高血壓患者,心電圖顯示有心房顫動(atrial fibrillation), 因突然嚴重腹痛 3 小時被送至急診,發作前她是在看電視。病人有 噁心及嘔吐,但發作前數小時有正常排便。平常用藥有 hydrochlorothiazide、enalapril 及 digoxin。就診時血壓為 88/64 mmHg, 心跳不規則,每分鐘約120次,體溫38.5℃,腹部有壓痛,腸蠕動 音降低(hypoactive bowel sound)。電腦斷層顯示脾臟附近腸壁水 腫且有空氣,其他無特殊發現。在急診患者有少量排便,有含血反 應。血清 amylase 及 lipase 只稍微增高,下列那一診斷方向最可能? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - 心房撲動 (atrial flutter, AF) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (a) Atrial fibrillation (Af): 臨床上相當常見,因心臟衰竭或二尖瓣狹窄導致心房擴大,造成心房肌肉容易放電,臨床上常以阻斷 AV node 的藥物,防止心室速率過快。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- 心房顫動 (atrial fibrillation, Af) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- 7. S₄: 心室 Compliance 變差→心房收縮→血液充填心室的聲音 - (1) 收縮期前(Presystolic)的低頻雜音,心房有效收縮時,血液充填心室的聲音。 - (2) Af 時,心房無有效收縮,所以沒有 S4。 - (3) 主動脈瓣狹窄(AS)、高血壓、肥厚性心臟病(HCM)、缺血性心臟病等左心 Compliance 變差時,更需靠心房收縮充填血液,此時可聽到 S。。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- 1. a wave →心房(Atrium)收縮→心房收縮受到阻礙 - (1) 當心房顫動時,看不太到 a wave。 - (2) 當心房收縮受到阻礙,如三尖瓣狹窄(TS)、肺動脈狹窄(PS)、肺高壓,就會造成很大的 a wave。 - (3) 當心房收縮時,心室同時收縮,如 AV dissociation 時,會 造成 canon a wave;Regular cannon a wave 要考慮 junctional rhythm,Irregular cannon a wave 要考慮 complete AV block 或 VT。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- ...us (慢慢上升), | Pulsus bisferiens (波鋒 *2), | | 脈壓 | | | Pulsus parvus (振幅減小) | Bounding pulse (快上快下) | | 藥物 | Warfarin for Af | Warfarin for Af | 不可用 Vasodilator | Vasodilator (ACEI, CCB) | | BB | 15 1 16 0 6 7 1 5 1 | G MD /D C > 500/\ | Severe AS | Severe AR (Reg.fx.>50%)+ | | 開刀 | Mod. MS (MVA50%)+ | (AVA40) | Severe AR (Reg.1x.>3070)+ | | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- 4. 治療:同一般心臟衰竭治療。 - (1) 口服抗凝血劑:在心臟功能不佳的病患身上,使用抗凝血劑無法減少血栓形成,因此不建議常規使用,僅在有 Af、LV thrombus、有 thromboembolic event 的病患使用。 - (2) 抗心律不整藥物:DCM 的病患,Sudden cardiac death(SCD)、Ventricular arrhythmia 機會較高,但不建議常規使用抗心律不整藥物於無症狀的 VPC、Non sustained VT,可能反而導致更嚴重的心律不整發生(Proarrhythmic effects of the drugs)。 - (3) DCM 病患,若 LVEF 1.3)、腔室縮小、舒張功能↓。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- (C) 心房顫動 (atrial fibrillation) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 

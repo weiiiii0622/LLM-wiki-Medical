@@ -41,6 +41,9 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch19]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Adrenal gland (腎上腺)'
   - 'Adrenal gland'
@@ -55,7 +58,7 @@ tags:
 
 ## Summary
 
-腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +99,17 @@ tags:
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch19]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- E. 腎上腺性器症候群 (Adrenogenital syndrome) 238 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 1. 腎上腺位於腎臟上方,屬於後腹膜器官,外層為皮質,內層為髓質。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 3. 髓質: - (1) 嗜鉻細胞(chromaffin cell)分泌腎上腺素、正腎上腺素。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 內分泌外科共分甲狀腺、副甲狀腺、胰島和腎上腺四大部分。甲狀腺重點在甲狀腺功能評估和疾病診斷、甲狀腺癌種類的分辨和甲狀腺術後併發症。副甲狀腺重點為機能評估。胰島重點在於分辨各種胰島細胞瘤之症狀、診斷和處置。腎上腺重點為Cushing syndrome 和嗜鉻細胞瘤。 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
+- ...(C) 血中 TSH (D) 血中可體松 (cortisol) 及 ACTH 【詳解】病人長期服用類固醇長達半年,甲狀腺手術後停止服 用類固醇,產生發燒、全身無力及血壓低的情形,比較像是長 期服用 steroid 造成 secondary adrenal insufficiency,而在停用 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...150~200 ng/mL。 - b. 生長激素 (GH): 刺激生長,成人出現末端肥大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - e. Hypoadrenalism:姿態性低血壓、肌肉無力、易疲倦。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -112,11 +123,6 @@ tags:
 - | 接受體 | 相關副作用 | |--------------------------------------------------------------|-----------------------| | 組織胺受體(anti-histamine) | 頭昏、鎮靜、食欲增加,常用在幫助老人的安眠 | | 膽鹼性受體(muscarinic cholinergic receptor antagonist) | 便秘、口乾、視力模糊,老人用容易產生譫妄 | | $\alpha_1$ 腎上腺受體( $\alpha_1$ adrenergic receptor antagonist) | 頭昏、姿態性低血壓,老人使用容易半夜跌倒 | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (B) 6. 關於抗精神病藥 (antipsychotics) 的副作用及其主要藥物機轉之 103(ニ) 専 配對,下列何者正確? - (A) 口乾:血清素 (serotonin) 再回收阻斷作用 - (B) 姿勢性低血壓 (orthostatic hypotension) : 甲型腎上腺素受體 (α adrenergic receptors) 阻斷作用 - (C) 錐體外症候群 (extrapyramidal syndrome): 多巴胺 (dopamine) 再回收阻斷作用 - (D) 尿液滯留:甲型腎上腺素受體(α adrenergic receptors) 阻斷作用 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (AD)10.王小姐因感冒、噁心、吃不下飯,到衛生所求診,李醫師處方 了咳嗽藥水及止吐藥腹寧朗(Primperan),王小姐服用後約1 小時,舌頭不自主地吐出來,因此,很慌張地回到衛生所求助, 李醫師馬上處理,下列方法何者最不適當? - (A) 予以安慰(reassurance),告知不會有大礙,勸慰王小姐放輕鬆,慢慢呼吸,給予催眠(hypnosis) - (B) 肌肉注射抗過敏藥物: diphenhydramine - (C) 靜脈注射鎮靜劑: diazepam - (D) 口服乙型腎上腺素受體阻斷劑 (β-adrenergic receptor blocker): propranolol Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 【詳解】(A) 血清素、正腎上腺素和 GABA。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (D) 直接停用 fluoxetine, 改用乙型腎上腺素受體阻斷劑 (badrenergic receptor blocker) 治療 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (C) 1. 有關急性壓力疾患(acute stress disorder)及創傷後壓力症候群 109(一)專 (posttraumatic stress disorder) 之敘述,下列何者錯誤? - 醫四-65 - (A) 急性壓力疾患之症狀若超過一個月以上則需考慮診斷可能為 創傷後壓力症候群 - (B) 創傷後壓力症候群治療合併藥物治療及心理治療是有助益的 - (C) 急性壓力疾患之症狀中不會出現解離症狀 - (D) 創傷後壓力症候群的病因包含 hypothalamic-pituitary-adrenal (HPA) axis 之功能失調 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 抗憂鬱藥物主要作用機轉是透過升高腦中血清素與正腎上腺素的濃度,來改善病人憂鬱症狀與自殺意念,通常必須服用 2~3 星期之後治療效果才會出現。可分成傳統型與新型抗憂鬱藥物,傳統型抗憂鬱藥物如:三環或四環類抗憂鬱劑、單胺氧化酵素抑制劑(MAOI);新型抗憂鬱藥物如:SSRI、trazodone、SDRI、SNRI 類藥物,目前臨床上,由於藥物副作用少安全性相對較高,新型抗憂鬱藥物目前已成為治療憂鬱症的首選。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 下列何者錯誤? 醫四-66 - (A) 一般智商 (intelligence quotient, IQ) 可穩定保留到 80 歲 - (B) 隨著老化會減少腦血流量和氧氣 - (C) 隨著老化會增加跨血腦屏障 (blood-brain barrier) 的運輸 - (D) 隨著老化正腎上腺素 (norepinephrine) 在中樞神經系統中會增加 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 
 ## Clinical Caveats
 

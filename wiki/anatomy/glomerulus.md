@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Glomerulus (腎絲球)'
   - 'Glomerulus'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- ...胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimot Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - \* 之前各種神經膠細胞來源的腫瘤皆統稱為神經膠質瘤 (glioma),其中包含了 astrocytoma、oligodendroglioma、ependymoma 和 glioblastoma multiforme (GBM)。 但在後來的 WHO 分類系統中則不再使用 glioma 一詞,而個別分類上述腫瘤。此外,也因確定了 GBM 之來源細胞,故 GBM 歸入於 astrocytoma 的 grade IV。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...strocytoma),分化不良且呈絲狀分裂(anaplasia and mitotic activity),為惡性,平均年齡 46 歲。 - (4) Grade IV: 神經膠母細胞瘤 (glioblastoma multiforme, GBM),有微小血管增生或是壞死 (also show microvascular proliferation and/or necrosis),為惡性,平均年齡 56歲,最常見原發性腦瘤。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...分 | 醫五-11 | | | (B) 血中泌乳素(prolactin)濃度通常 > 150 ng/mL | | | | (C) 手術是第一線主要治療方法 | | | | (D) 直徑 J是 glioblastoma multiforme(GBM) | 106(二)專醫五-6 | | | (B) ependymoma 好發於老年 | | | | | | rimary brain tumor 最常見的種類 | | | | , , | š CSF 轉移至中樞神經系統的其他 | | | | 位置 | | | | | 【詳解】(B)好發孩童;(C | )孩童最常見原發性腦瘤為 astro- | | | | cytoma,最常見惡性腦瘤為 r | nedulloblastoma 。 | Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -72,7 +75,6 @@ tags:
 - 【詳解】神經膠細胞瘤 Glioblastoma multiforme (GBM) 是腦瘤中致死率最高的一種,平均存活期小於 2 年。首次治療以以手術,接續併用化學治療(temozolomide)及放射治療為主要治療方式。Temozolomide 的優點是口服便能達到所需濃度,而缺點則是當 O-6-甲基鳥嘌呤甲基轉移酶(MGMT)表現量上升時,TMZ 所造成的DNA 損傷便會被逆轉,使得腫瘤細胞不會走向死亡。Bevacizumab可用於復發後的病人。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - A. 腎絲球疾病 (Glomerular disease) 72 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ## A. 腎絲球疾病 (Glomerular disease) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (1) 腎絲球的疾病分為兩大類: - a. 腎絲球發炎 (Glomerulonephritis, GN): - (a) 幾天內突然發生的稱作 Acute GN, 幾週內發生的稱作 Rapid progressive GN (RPGN), RPGN 病理特徵為 Crescent formation, 好幾個月才慢慢形成的稱為 Chronic GN (CGN); Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

@@ -33,6 +33,10 @@ sources:
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Blood pressure measurement (血壓測量)'
   - 'Blood pressure measurement'
@@ -47,7 +51,7 @@ tags:
 
 ## Summary
 
-正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +84,19 @@ tags:
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch07]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- (2) 目標是控制心率在每分鐘 60~80 下,收縮壓 110~120 mmHg,mean arterial blood pressure 在 80 mmHg 左右。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- ...離 (aortic dissection) 的治療上,下列敘述何者 110(一)專 錯誤? - 醫五-17 - (A) 在高度懷疑為主動脈剝離之情形下,可先實行降低心跳及 控制血壓之藥物治療 (anti-pulse therapy and blood pressure control) - (B) 對急性史丹佛 A 型 (Stanford type A) 之主動脈剝離病患, 應考慮進行緊急主動脈置換手術 - (C) 對急性史丹佛 B 型 (Stanford type B) 之主動脈剝離合併有 器官供血不足 (malperfusion) 之病患,應立即考慮介入性 血管內主動脈支架 (endovascular treatment) 之可能性 - (D) 對於急性史丹佛 A 型 (Stanford typ Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 中心靜脈壓 (central venous pressure),動脈壓 (arterial blood pressure),心輸出量 (cardiac output),混合靜脈血氧飽和度 (mixed venous oxygenation saturation) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 2. IABP的基本原理是將一氣球導管經鼠蹊部股動脈放置入降主動脈靠近主動脈弓處,當心臟收縮時(Q波出現之際)氣球會同時消氣(deflation),可以因此降低心臟的後負擔(afterload)及心壁張力,同時降低左心室末期舒張壓(LVEDP)減少右心室後負荷量,與減低雙心室心肌的耗氧量;而當心臟舒張(T波出現之際)時氣球則會同時充氣擴張(inflation),將血液壓回至升主動脈,增加冠狀動脈的血液灌流量。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- ...---------------------------------------------------------------------| | (A) 心跳速率較正常低 | 外一-94 | | (B) 心搏量較正常高 | | | (C) 收縮壓較正常高 | | | (D) 血中乳酸(lactate)較正常低 | | | 【詳解】(A) 移植之心臟不受交感神經控制,故運動時心跳加速 | | | 較慢;另外也沒有迷走神經控制,所以休息時心跳也較不受抑 | | | 制。(B) 心搏量主要受 preload 影響,故和正常差不多。 | | | 7. 移植後的心臟在休息狀態下,何種心臟功能參數較正堂為低? | 93(二)專 | | | 外二-91 | | | 71 - 01 | | | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
+- (A) 3. 一位 50 歲男性因急性心臟衰竭住院,入院時收縮壓為 200 mmHg, 檢查發現右腎上腺有一 5 公分腫瘤,臨床醫師懷疑為嗜鉻細胞瘤 (pheochromocytoma),下列敘述何者正確? Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...B) 6. 成人急性大量失血 2,000 毫升 (mL) 以上時,下列何者不是臨床 107(二)專 常見之表徵? 醫五-6 (A) 意識焦慮(anxious) 及錯亂(confused) (B) Pulse pressure 上升 (C) Blood pressure 下降 (D) 尿量減少 (B) 7. 一位 32 歲女性,體重 60 kg,騎機車不慎被貨車撞到造成腹內 - 107(二)專 出血,送至急診時初步檢查為心縮壓(systolic blood pressure) 醫五-75 正常,但脈搏壓(pulse pressure)明顯下降,且心跳 112下/分, 尿量 20~30 mL/hour。此病人約流失多少血液? (A) 500 mL (C) 1,300~1,700 mL Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 中心靜脈壓(central venous pressure),動脈壓(arterial blood pressure),心輸出量(cardiac output),混合靜脈血氧飽和度 (mixed venous oxygenation saturation) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (B) 23. 一位 38 歲男性,體重 70 kg,騎腳踏車不慎在路口被貨車撞到造成體內出血,送到急診時初步檢查發現收縮壓輕微下降,但脈搏壓 (pulse pressure)明顯下降,且脈搏 110 次 / 分,尿量 25 mL/hr,病人約流失多少血液? Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -95,12 +109,6 @@ tags:
 - (B) 缺血性腦中風,收縮壓> 200 mmHg,舒張壓> 100 mmHg 以上時,要緊急降壓 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (B) 38. 相較其他中風類型,下列那一項是蜘蛛網膜下腔出血時最特殊之 99( ) 專 發病症狀? § 97 51 - (A) acute onset of neurological deficit - (B) abrupt onset of severe headache - (C) elevated blood pressure at onset - (D) fever at onset Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - B. 類天疱瘡 (Bullous pemphigoid, BP) 59 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- # B. 類天疱瘡 (Bullous pemphigoid, BP) Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- 4. 臨床特徵: - (1) 一開始皮膚呈現發紅的紅疹或類似蕁麻疹的病灶,數月後才慢慢出現水泡,與 PV 相比,BP 裂在較深層,故水泡看起來較大,厚而緊繃,較不容易破掉,為 繃緊水泡(tense bullae)。 - (2) Nikolsky sign(-) • - (3) 好發於腋下、腹股溝等皮膚皺摺處,約有 10% 病人會有口腔病灶。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (1) 肺動脈瓣狹窄發生機制仍未十分清楚。一般認為在胚胎發育過程中肺動脈 形成出現問題,導致瓣膜發育不良(dysplasia)。瓣膜可以為 bicuspid 或是 tricuspid,leaflets 之間會有部分融合造成右心出口血流受阻。為了能順利使血 流進入肺循環,右心室收縮勢必增強並且使心室壁增厚。甚至在嚴重病人身上 可以發現右心室收縮壓大於左心室的收縮壓。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 不同程度的 PVS 會有不同的臨床表徵。臨床上一般而言依照經過狹窄瓣膜的壓力梯度(pressure gradient)去分輕中重度。 - a. 輕度 PVS: 壓力梯度介於 10~40 mmHg。 - b. 中度 PVS: 壓力梯度介於 40~60 mmHg。 - c. 重度 PVS: 壓力梯度超過 60 mmHg 或是右心室收縮壓大於左心室收縮壓。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 3. 臨床表現:與狹窄程度有關。 - (1) 高輸出阻力與低心輸出量造成疲憊、活動力不佳、呼吸急促甚至呼吸窘迫。為 了增加心輸出量,則收縮壓力增加、心臟肥大,最後造成心衰竭與相關症狀。 - (2) 若先前未診斷,病童年紀大時可能有胸痛、暈眩甚至昏厥。當出現以上症狀時 代表左心室功能不良。 - (3)極嚴重狹窄在新生兒可能就出現症狀。有嚴重狹窄的嬰兒在出生一個月時表現心輸出不足、呼吸窘迫、甚至發紺、心衰竭。此時又稱為 critical aortic Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- Peripheral pulses either rapid and weak or absent; decreased blood pressure; no urine output; very sunken eyes and fontanel; no tears; parched mucous membranes; delayed elasticity (poor skin turgor); very delayed capillary refill (>3 sec); cold and mottled; limp, depressed consciousness Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

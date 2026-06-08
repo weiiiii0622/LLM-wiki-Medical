@@ -21,6 +21,8 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Breast cancer (乳癌)'
   - 'Breast cancer'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,14 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch27]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- (C) 19. 42 歲肥胖並有抽菸的女性,腹部已有橫式剖腹產疤痕,乳房是 E罩杯。現罹患右側乳癌,要求改良式乳房全切除手術(modified radical mastectomy)後立即進行乳房重建手術。下列有幾項選擇: Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- (D) 25. 林小姐罹患乳癌須接受一側乳房切除,她想同時接受乳房重建 手術,則下列那一個皮瓣最不適合用來作為乳房重建之用? - (A) 闊背肌肌皮瓣 (latissimus dorsi muscle flap) - (B) 橫腹直肌皮瓣(transverse rectus abdominis myocutaneous flap) - (C) 上臀動脈穿通枝皮瓣(superior gluteal artery perforator flap) - (D) 腹網膜瓣 (omental flap) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- ...甲狀球蛋白(Thyroglobulin) | 醫五-8 | | (B) 血清抑鈣激素(Calcitonin) | | | (C) RET 基因分析 | | | (D) 頸部超音波 | | | (B) 41.60 歲女性病人,20 年前有右側乳癌做過 irrad | liation,發現右側甲 98(-)專 | | 狀腺硬塊約二個月,則應建議做何檢查? | 醫五-38 | | (A) $T_3$ , $T_4$ , TSH | | | (B) 超音波定位細胞學檢查 | | | (C) 核磁共振 | | | (D) 血管攝影 | | | (A) 42. 承上題,上述病人接受手術,最可能的診斷是 | 是: 98(一)專 | | (A) 乳突癌(papillary thyroid c Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人體重 70 公斤,工作時不慎發生火災,身體 | 102(一)專 | | 表面積有 30% 的燒傷,根據 Parkland formula 計算,他前 8 小時 | 醫五 -77 | | 應給予多少毫升的輸液? | | | (A) 8,400 | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...24. 下列關於脊椎病理性骨折(pathologic fracture)的敘述,何者錯誤? | 104(二)專 | | (A) 多為轉移性腫瘤(metastatic tumor)造成 | 醫五 -12 | | (B) 常見的腫瘤來源為肺癌、乳癌等 | | | (C) 判斷腫瘤對於脊髓壓迫的嚴重程度時,CT 比 MRI 更適合 | | | (D) 當病患下肢日漸無力或有大小便失禁等症狀時應考慮手術 | | | 減壓 | | | (C) 25. 有關脊椎損傷,下列何者錯誤? | 104(二)專 | | (A) 只要下肢仍有感覺就屬於不完全性的損傷 | 醫五 -75 | | (B) Central cord syndrome 指病人理學檢查時上肢比下肢無力 | | | (C) Br Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -74,9 +81,6 @@ tags:
 - (1) 國民健康署補助 45~69 歲女性及 40~44 二等血親內曾罹患乳癌之婦女每 2 年 1 次乳房 X 光攝影檢查。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - \*CEA 的腺癌包括大腸癌、胰癌、肺癌、乳癌、卵巢癌 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...(prostate specific antigen, PSA)-攝護腺癌 (B) 癌抗原 CA-125-卵巢癌 (C) 癌胚胎抗原(carcinoembryonic antigen, CEA)-大腸直腸癌 (D) 癌抗原 CA-15-3-乳癌 | 101(一)專醫三-71 | | (B) | 14. 下列疾病中胎兒蛋白(α-fetoprotein, AFP)最不可能升高的疾病是: (A) 肝細胞癌(Hepatocellular carcinoma) (B) 肝臟腺瘤(Hepatic adenoma) (C) 睪丸畸胎上皮癌(Teratocarcinoma) (D) 重度病毒性肝炎(Severe viral hepatitis) | 100(二)專醫三-45 | | (C) Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...敘述何者錯誤?(A) 大腸癌早期數值即升高,(B) 胰臟癌病人數值可能升高(C) 支氣管炎病人數值可能升(D) 吸菸者數值可能升高 | | 94(三)檢內-23 | | (C) 22. CA15-3 是那一種癌症之腫瘤(A) 大腸癌(C) 乳癌 | 指標(tumor marker)?(B) 卵巢癌(D) 肺癌 | 94(二)檢內-48 | | (B) 23. CA-125 為那一種癌症之腫瘤(A) 肺癌(C) 乳癌 | 標記?(B) 卵巢癌(D) 胃癌 | 94( 一 ) 檢內 -19 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...in →肺癌 (腎不好者)、卵巢癌 | 骨髓抑制 | | | | Alkylating | | Oxaliplatin→大腸癌 | 神經毒性 | | | | | Nitrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | | Ifosfamide → 肉癌 (Sarcoma) | 出血性膀胱炎 | | | CCNS | | mustards | Melphalan→多發性骨髓瘤 (MM) | | | | CCNS | | Other | Carmustine (BCNU) · Lomustine (CCNU) | 延遲的骨髓抑制 | | | | | 4 4 12 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ...s (紫杉醇):穩定微小管 (Stabilized)→導致微小管無法解聚 (Depolymerization) - (1) Pacitaxel (Taxol®、太平洋紫杉醇) - a. Taxanes (紫杉醇)類能對抗多種癌症,包括肺癌、乳癌、卵巢癌、血管肉瘤 (Angiosarcoma)等。 - b. 此藥需以包含 cremophor 的載體輸注,所以容易導致過敏,注射前需以 Dexamethasone, Diphenhydramine (H1 blocker), Cimetidine (H2 blocker)預防過敏。 - c. 還可能導致四肢末端麻木等神經毒性(glove-and-stocking neuropathy)。 - d. 有些病患會有心率不整,以 asym Source: [[sources/med3-book4-ch19|乙、化學治療]].
 
 ## Clinical Caveats
 
@@ -85,7 +89,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/breast-augmentation|Breast augmentation (隆乳手術)]]
 
 ## Follow-up
 

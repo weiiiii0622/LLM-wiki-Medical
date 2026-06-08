@@ -33,6 +33,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book2-ch25]]"
 aliases:
   - 'Biliary tract (膽道系統)'
   - 'Biliary tract'
@@ -47,7 +48,7 @@ tags:
 
 ## Summary
 
-膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +81,11 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch01]]
+- [[sources/med5-book2-ch25]]
 
 ## Key Details From Sources
 
+- ...泌尿道的手術 例如:割雙眼皮、甲狀腺切除、乳房切除 | | Class II | Clean-contaminatedwounds | 1. 進入呼吸道、消化道或生殖泌尿道但無特殊感染的手術傷口2. 手術過程中無明顯汙染3. 例如:無感染性膽道或闌尾手術、Hysterectomy、Gastrectomy | | Class III | Contaminated | 開放性、新的、外傷傷口 胃腸道內含物溢出或手術過程中有些微感染者 有急性發炎但未化膿 | | Class IV | Dirty or infected wounds | 舊的、有壞死組織的外傷口 內臟穿孔 已有感染化膿的傷口 | Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (1) 先天性膽道閉鎖(biliary atresia),是小兒換肝最常見的原因。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (6) 原發性膽汁性肝硬化 (primary biliary cirrhosis)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. 手術: 吻合順序為下腔靜脈、門靜脈、肝動脈, 最後才是膽道重建。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -100,7 +103,6 @@ tags:
 - ...iac disease、short bowel syndrome、cystic fibrosis、inflammatory bowel disease and gastric bypass surgery。 - c. 肝膽相關疾病:如先天性膽道閉鎖。 - d. 腎臟疾病:如 nephrotic syndrome、renal 1-alpha hydroxylase deficiency (造成 1,25(OH)2 D 缺乏,即 vitamin D dependent rickets type I)。 - e. 藥物: anticonvulsants、glucocorticoids、cholestyramine。 - f. 缺乏照射陽光或肥胖。 - (2) End-organ 對 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...Jo-1 | PM (ILD ↑ *) | | | | | | Anti-smooth muscle | Autoimmune hepatitis | | (細胞質 | ) | | Anti-mitochondrion | Primary biliary cirrhosis | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...nt cell arteritis),常與下列何種疾病共同發生? (A) rheumatoid arthritis (B) Sjögren's syndrome (C) polymyalgia rheumatica (D) primary biliary cirrhosis | 104(二)專醫三-35 | Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...8 | | (#) | 8. 有關風濕免疫疾病合併眼病變,下列何種組合最正確? (A) 類風濕性關節炎合併葡萄膜炎(uveitis)及全身性紅斑性狼瘡(SLE)合併眼視網膜病變 (B) 類風濕性關節炎合併鞏膜炎(scleritis)及原發性膽道硬化症合併乾燥症(Sjögren's syndrome) (C) 僵直性脊椎炎合併後房葡萄膜炎(posterior uveitis)及 SLE 合併視網膜病變 (D) 乾癬性關節炎合併鞏膜炎及僵直性脊椎炎合併前房葡萄膜炎(anterior uveitis) 【詳解】本題答(B) 或(D) 或(BD) 者均給分。 | 104(一)專醫三-42 | | (D) | 9. 超音波最適合用來診斷下列何種肌肉骨骼疾病? (A) metastati Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

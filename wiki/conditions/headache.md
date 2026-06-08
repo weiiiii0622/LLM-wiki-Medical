@@ -21,6 +21,8 @@ sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch19]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch17]]"
 aliases:
   - 'Headache (頭痛)'
   - 'Headache'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,14 @@ tags:
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch19]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch17]]
 
 ## Key Details From Sources
 
+- b. 導管後型/成人型(Postductal/adult):窄縮處位於主動脈過動脈導管後,症狀和窄縮程度相關,股動脈脈搏微弱甚至完全消失,手腕脈搏強,上肢血壓高於下肢,且因為上半身血壓高,所以有頭痛、頭暈、流鼻血等症狀,甚至有中風的風險。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (3) 症狀:因狹窄程度及位置有所差異,在新生兒或嬰兒時期即有症狀,常因開放性動脈導管關閉所致,很快會出現餵食困難、呼吸困難、心率加快,甚至發紺休克或心臟衰竭。若嬰幼兒時期無症狀,則多在青年時期因量血壓發現血壓高而檢查得知。患者由於頭部及上肢血壓高,易有頭痛、暈眩或流鼻血等症狀。而下肢因血液流量少,股動脈脈搏薄弱,會有下肢冰冷、間歇性跛行或尿液減少等情形。另外因主動脈弓狹窄使近端血壓升高,左心室後負荷增大,會使左心室擴大,進一步引起鬱血性心臟衰竭。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 6. 處置: - (1) 藥物治療:90% 可以癒合 - a. 首要維持排便通暢,降低肛門內括約肌痙攣,故急性期多先給予軟便劑並教 導正確排便習慣。 - b. 溫水坐浴:使肛門內括約肌放鬆,增加局部血流加速肛裂癒合。 - c. 局部塗抹 glyceryl trinitrate (GTN) ointment (0.2~0.4%), 也是使肛門內括約 肌放鬆,增加局部血流加速肛裂癒合。不過會有頭痛的副作用。 - d. GTN 失敗時可考慮使用 diltiazem ointment、CCB 或注射肉毒桿菌至肛門內括約肌。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
 - ...AVM 周圍的腦組織血流減少。 - (4) 神經學缺損 (neurological deficit): - a. 大型 AVM,尤其是影響到基底核,會使病人逐漸表現出失智症的現象,且有 半身癱瘓或視野缺損。可能與盜血效應有關。 - (5) 頭痛。 - (6) 雜音(bruit):尤其是眼球。 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
 - ...(一)專 | | | 列何 | 者較少? | 醫五-20 | | | (A) [ | 順內出血(intracranial hemorrhage) | | | | (B) 鬚 | 癲癇(seizure) | | | | (C) 5 | 頂痛(headache) | | | | (D) ½ | 步熊不穩(unstable gait) | | Source: [[sources/med5-book1-ch16|庚、血管畸形]].
 - (B) 4.34 歲男性,車禍外傷,劇烈頭痛,意識混亂,CT 影像圖 A 可見 107(2) 專 左臉頰腫脹,根據圖 B 箭頭所指的是: Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
@@ -74,9 +81,6 @@ tags:
 - ...--------------------|-------------------------------------------------|------------------------------------------| | 原發性頭痛(Primary headache) | 緊縮型頭痛(最常見、但少考)偏頭痛(常見、也愛考)叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (B) 38. 相較其他中風類型,下列那一項是蜘蛛網膜下腔出血時最特殊之 99( ) 專 發病症狀? § 97 51 - (A) acute onset of neurological deficit - (B) abrupt onset of severe headache - (C) elevated blood pressure at onset - (D) fever at onset Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (D) 39. 一位 43 歲男性因右側眼眶周圍痛及頭痛合併流鼻水、流淚現象 99(-)專至急診室求診,這樣的頭痛在一年前也曾發生,當時兩星期內幾 醫四-68 乎每天頭痛數小時,後來就不曾發生類似狀況。其頭痛最可能的原因為: - (A) 偏頭痛 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- b. 動脈瘤破裂造成 SAH 會有劇烈頭痛,幾個小時後會出現頸部僵硬等 meningeal sign。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...is) | 蒼白 (Pallor) | | | 臉部表情 | 口吐白沫 (Frothing) | | | | 發作後意識混亂、嗜睡的時間 | 幾分鐘到幾小時 | 小於5分 | | | 發作後肌肉痛 | 常見 | 有時可見 | | | 咬舌、頭痛 | 有時可見 | 罕見 | | Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- (C) 24.66 歲男性,已知高血壓多年但未控制,突發頭痛、意識不清與 癲癇,至急診時血壓為 240/130 mmHg,神經學檢查意識混沌, 但無局部肢體無力現象,腦部磁振照影檢查最可能的發現為何? - (A) 小腦 (cerebellum) 出血 - (B) 視丘 (thalamus) 出血 - (C) 大腦枕葉部 (occipital lobe) 水腫 - (D) 中腦 (midbrain) 梗塞 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 

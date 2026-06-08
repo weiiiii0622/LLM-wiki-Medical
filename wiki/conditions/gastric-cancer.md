@@ -21,6 +21,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Gastric cancer (胃癌)'
   - 'Gastric cancer'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- (C) 7. 在 HNPCC(hereditary nonpolyposis colorectal cancer)患者中, 106(二)專 最常見的腸道外腫瘤為何? 醫五-39 - (A) 膀胱癌 - (B) 胃癌 - (C) 子宮內膜癌 - (D) 卵巢癌 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (B) 因胃癌住院準備接受手術,手術後體重由七十公斤降為 六十五公斤,抽血檢查血清白蛋白濃度為 3.2 g/dL Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (BC)26. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證 實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲 知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外 籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀 而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。 下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -76,7 +79,6 @@ tags:
 - ...題,該病患之處置,下列何者較適當? (A) 立即給予靜脈注射 50% 葡萄糖 (B) 補充水分,並給予利尿劑 (C) 注射鈣離子 (D) 給予佳力美粉(Kalimate) | 97(二)專醫三-45 | | (C) | 8. 一位 70 歲胃癌男性因為突然下半身癱瘓(paraplegia)來急診就醫。發病前一個月開始出現下背痛。X 光檢查發現第一腰椎產生病理性骨折(pathological fracture),並產生脊髓壓迫(spinal cord compression)。血液檢查 alkaline phosphatase 780 U/L, calcium 3.8 mmol/L。下列敘述何者錯誤? (A) 轉移性癌症引起之脊髓壓迫,可使用大劑量類固醇及放射線治療(B) 愈早 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - (#) 18. 一位 86 歲男性,26 年前因雙側股骨頭缺血性壞死,做過雙側髖關節 置換手術; 20 年前因胃癌, 做過部分胃切除手術。此外, 還曾罹患 過肺結核及做過腸阻塞手術等。病患長期虛弱臥床,發生過數次吸 入性肺炎,亦有嚴重攝護腺肥大。此次病人再度發燒、喘、黃痰、 少尿和肺囉音,懷疑尿路或肺部感染,使用廣效抗生素後,病情獲 得控制。針對目前病史之臨床處置模式,符合下列那一種? Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - (2) 疾病:胃炎、胃潰瘍、十二指腸潰瘍、胃癌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 其中 a, b 亦被稱之 type B gastritis;Type A gastritis 為 Autoimmune gastritis $\rightarrow$ 和 H.p. 無關 H.p. 已知與胃內 hyperplastic polyp 有關;另外長期感染造成 intestinal metaplasia 也可能是後續引發胃癌的危險因子之一。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 
 ## Clinical Caveats
 

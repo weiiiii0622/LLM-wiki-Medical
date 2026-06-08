@@ -33,6 +33,7 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch05]]"
 aliases:
   - 'Liver cirrhosis (肝硬化)'
   - 'Liver cirrhosis'
@@ -47,7 +48,7 @@ tags:
 
 ## Summary
 
-慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +81,11 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...感染而和瓣膜交互作用發炎,最後導致結疤。) - (5) 症狀:此病變緩慢,風溼熱痊癒初期也都不太有症狀,通常至少十年過後才開始有症狀出現,會有疲倦、運動後呼吸困難、胸痛、心律不整,而後加重出現肺水腫及右心衰竭的症狀,如全身性靜脈鬱血、水腫、肝硬化、端坐呼吸、咳血等。另外血液滯留於心房形成血塊向外打出造成栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (3) 末期肝硬化:包括不明原因、B型或C型肝炎及酒精性肝硬化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (6) 原發性膽汁性肝硬化 (primary biliary cirrhosis)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (6) 肝硬化或中度以上之腎功能不全者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -100,7 +103,6 @@ tags:
 - 【詳解】圖片可見 petechiae ( 12 deficiency - (D) liver cirrhosis with hypersplenism Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 甲、Normal BM: 肝硬化等。(Abnormal sequestration) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - | 骨髓狀況 | 代表疾病 | |-------------------------|-------------------------------------------| | 骨髓細胞少 (Hypocellular BM) | 再生不良性貧血 (Aplastic anemia, AA) | | 骨髓細胞適量 (Cellular BM) | 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) | | 骨髓被取代 (Myelophthisis) | 原發性骨髓纖維化 (idiopathic myelofibrosis) | | 全身疾病 (Systemic disease) | 肝硬化等導致脾腫大 (Hypersplenism)、敗血症 (Sepsis) | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...專 | | (-) | 身皮膚呈現鐵灰色,血中 ferritin 高於正常值 500 倍,下列何種併發 | 醫三-5 | | | 症與長期輸血無關? | | | | (A) 心肌病變(cardiomyopathy) | | | | (B) 肝硬化 (liver cirrhosis) | | | | (C) 糖尿病 (diabetes mellitus) | | | | (D) 白內障 (cataract) | | | (B) 1 | 9. 在有慢性溶血疾病的病人,下列何種病毒感染會導致暫時性的再生 | 102(二)專 | | (-, | 不良性貧血(transient aplastic crisis)? | 醫三 -38 | | | (A) human immunodefici Source: [[sources/med3-book4-ch10|甲、貧血]].
 
 ## Clinical Caveats
 

@@ -17,6 +17,7 @@ Organs, structures, and regions.
 
 - [[anatomy/adrenal-gland|Adrenal gland (腎上腺)]] - 腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。
 - [[anatomy/airways|Airways (氣道)]] - 氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。
+- [[anatomy/anal-canal|Anal canal (肛管)]] - 肛管解剖包含 dentate line、內外括約肌、血管與淋巴引流，決定痔瘡、肛裂、膿瘍與直腸癌處置。
 - [[anatomy/basal-ganglia|Basal ganglia (基底核)]] - 調節動作起始、抑制與不自主運動；Parkinson disease、Huntington disease、Wilson disease 常涉及此迴路。
 - [[anatomy/biliary-tract|Biliary tract (膽道系統)]] - 膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。
 - [[anatomy/brainstem|Brainstem (腦幹)]] - 中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。

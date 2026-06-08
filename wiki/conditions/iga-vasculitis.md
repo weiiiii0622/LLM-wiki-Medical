@@ -32,6 +32,17 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book2-ch10]]"
+  - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch19]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch12]]"
+  - "[[sources/med5-book2-ch13]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'IgA vasculitis / Henoch-Schonlein purpura (IgA 血管炎)'
   - 'IgA vasculitis / Henoch-Schonlein purpura'
@@ -46,7 +57,7 @@ tags:
 
 ## Summary
 
-IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +89,30 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch18]]
+- [[sources/med5-book2-ch10]]
+- [[sources/med5-book2-ch11]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch19]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch12]]
+- [[sources/med5-book2-ch13]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- 1. 症狀:(依腫瘤位置而有不同症狀) - (1) 右結腸:血便,但多以潛血反應呈現,所以病人常有貧血和疲弱。右結腸由於 直徑較大,且該處的糞便較軟,所以比位於左結腸的腫瘤較少腸阻塞。 - (2) 左結腸:左結腸的腸內壓高、糞便較硬,因此常見腸阻塞(大便習慣改變)、 腹痛。 - (3) 直腸:血便最常見、裡急後重。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (2) Leakage: 20% 發生率,約在術後 4~7 天後發生,假使病人在這段期間有發燒、WBC 上升、引流量變多或腹痛,需注意是否有 leakage。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 1. 淋巴癌:結腸直腸為淋巴癌最常轉移之處,腸胃道淋巴癌中也有 10% 為 primary non-Hodgkin lymphoma。常見症狀為腹痛、排便習慣改變、體重減輕和血便。治療方法為手術切除和術後化療。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 4. 腹痛通常在 24h 內轉移到 RLQ。(因為發炎造成腹膜刺激)。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
+- | Obturator sign | 右大腿屈曲外旋會引發下腹痛。 | |-----------------|-------------------------------------------------------| | Psoas sign | 右大腿伸直抬高時會痛。 | | Rovsing's sign | 深壓左下腹時,結腸內之空氣被擠向盲腸部,而刺激發炎的闌尾,可導致右下腹部的痛。 | | McBurney's sign | Anterior superior iliac spine (ASIS) 到肚臍連線外三分之一的點會壓痛。 | Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
+- 2. 超音波:可以看到 appendix 直徑大於 6 mm (Sensitivity: 86%, Specificity: 81%)、 糞石,超音波可幫助鑑別診斷婦科或是兒科的急性腹痛。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
+- (1)臨床症狀:腹痛、腹脹、頑固性便秘(obstipation)。 Source: [[sources/med5-book2-ch10|乙、腸扭結]].
+- (1) 臨床症狀:噁心、嘔吐、腹痛和腹脹,跟小腸阻塞類似。 Source: [[sources/med5-book2-ch10|乙、腸扭結]].
+- (C) 1. 一名 84 歲男性,因四天未解便,出現腹脹、陣發性腹痛等症狀 而被送到急診。病患先前有慢性便秘病史,沒有接受過腹部手 術,腹部 X 光檢查可看到明顯脹大之乙狀結腸,有 bent inner tube sign。生命徵象穩定,理學檢查腹部有輕微壓痛,但無腹膜 炎症狀,無腹股溝疝氣,下列初步處置何者最理想? Source: [[sources/med5-book2-ch10|乙、腸扭結]].
+- (A) 2.62歲男性有高血壓病史,但不規則服藥,因左下腹痛兩天來到 急診,發燒38.5℃,血壓90/60 mmHg,心跳每分鐘110次,理 學檢查左下腹明顯有壓痛硬塊,肛門指診出現黏液血便,抽血 結果白血球22,000/μL,血紅素9.7 g/dL。依據前述情況,其最 不適宜的檢查為: Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - (D) 11. 一位 4 歲女童被時速 60 公里機車撞擊,摔離 5 公尺之遠,送到 106( 二 )專 急診時主訴腹痛,血壓 68/40 mmHg,心跳每分鐘 200 下,女童 體重 20 公斤,何種輸液最恰當? - 醫五 -77 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...B) 20. 一位 60 歲男性病患於一週前因退化性關節炎接受左髋部人工髓關節全置換手術治療(total hip replacement),術後連續五天注射止痛劑和 cephalosporin 治療,病人於術後第 7 天開始發生持續性腹瀉、腹痛、且帶有少許血便,發燒及白血球增多,但並無腹膜炎現象,此時除了 stool culture 之外,該先如何處理? (A) 給予 Buscopan,並重新使用 cephalosporin 治療 (B) 作 stool cytotoxin assay,保守性治療,並安排大腸鏡檢查 (C) 安排 barium enema 檢查 (D) 安排緊急全大腸切除術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (D) 13.50 歲男性肝臟移植術後第七天,出現右上腹痛及輕微發燒, 100(二)專 g-GT、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -89,16 +121,6 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - (D) 41. 一位 42 歲男性患者被送至急診室就醫,當時血壓 180/130 mmHg, 101( 二 ) 專 心跳每分鐘 110 下,發燒、頻頻打哈欠,並抱怨有腹瀉、腹痛、 流鼻涕、流眼淚、全身肌肉抽痛、骨骼疼痛、瞳孔放大。此患者 最可能之臨床診斷為何? Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - (C) 5. 某送貨員個性緊張容易合併腹痛現象,一年前於高架道路塞車時, 106( ) 專 因腹痛及有腹瀉感近乎大便失禁的經驗此後個案不敢再開車上高 醫四 -68 架道路與高速公路而失去工作,隨後甚至不敢搭火車、公車、到 人多或郊外無廁所的地方,而影響生活甚鉅。此個案最可能符合 下列那個診斷? - (A) 適應障礙症 (adjustment disorder) - (B) 創傷後壓力症(posttraumatic stress disorder) - (C) 懼曠症 (agoraphobia) - (D) 泛焦慮症 (generalized anxiety disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - # F. 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 1. 類過敏性紫斑為一種以侵犯微血管及微血管後小靜脈的過敏性血管炎,由於它並非由第一型過敏反應 IgE 所產生,故稱為類過敏性紫斑。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 3. 其臨床診斷三徵(Triad)主要為皮膚紫斑(多發於下肢和臀部)、腹痛及暫時性關節炎。約25~50%的病童會有腎臟侵犯,但其中只有3~4%的病童會有腎功能衰竭產生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 3. 典型表徵一開始為 1~2 公分之紫斑,後來會進展為 丘疹、斑塊、結節或腫塊,顏色為粉紅到深紫色,無痛無癢感。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 【詳解】(A)Kawasaki disease 主要特徵為發燒超過五天、結膜炎、紅疹、草莓舌,按題意描述此病患為傷口感染後所引起,加上未發燒超過五天,故不像 Kawasaki disease。(D)Vibrio vulnificus,海洋弧菌,會有嘔吐、腹瀉、腹痛、急性蜂窩性組織炎和水泡性皮膚炎等病狀,最重要的是需有海水接觸史或是海產食物史。(B)(C)藉由題意描述和刪去法,病人症狀比較像是 scarlet fever,由於病人為傷口感染化膿後引發之 scarlet fever,故應為表皮的 S. aureus 感染所造成,Group A Streptococcus 多為飛沫傳染後喉嚨感染導致 scarlet fever。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- ...好發於 5~10 歲之孩童、冬春季節。 - c. 傳染期主要為出疹前兩天到出疹後五天,直到所有水泡都結痂才沒有傳染力。潛伏期平均為 14 天(10~23 天)。 - d. 臨床症狀: - (a) 前驅症狀:微燒(37.5~39°C)、顫抖、腹痛、肌肉或關節酸痛。 - (b) 起初於臉部或頭皮上出現丘疹(papule)往軀幹及四肢延伸,隨後變成水疱(vesicle),看起來像是「紅玫瑰花瓣上的露珠(dewdrops on a rose petal)」,接著水疱在 8~12 小時內轉變為膿疱(Pustule) 和痂(Crusts)。 - (c) 皮疹會連續分批出現,故同一時間可於身上看見各階段的皮疹變化,同時看見 papules、vesicles、pustules 和 crust Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (5) 遺傳性血管水腫(Hereditary Angioedema (HAE)): 為自體顯性遺傳,顏面、四肢之水腫病灶為其特徵,腸壁的侵犯可造成腹痛症狀。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 1. 自體顯性遺傳疾病,臨床表現有: - (1) 腸胃道內會長許多過誤性息肉(hamartomatous polyps),約於孩童至三十歲前 出現,患者會有腹痛、腸胃道出血、反覆腸套疊或貧血等症狀。息肉好發於小 腸,特別是空腸,息肉有機會惡性化為 adenocarcinoma,不過機率不高。 - (2) 表皮黏膜出現黑色素沉澱,常可見病患嘴唇周圍、口腔黏膜、手指或手掌有黑色沉澱斑點,黑色斑點出生時即出現,或是在孩童時期出現,並會隨著時間褪掉,但口腔黏膜的色素沉澱會持續存在。(下圖) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...恥骨上疼痛(suprapubic pain)、incontinence 與尿液有異味(malodorous urine)。 另外,cystitis 不會引起發燒或是腎實質損傷。 - (3) 腎盂腎炎 (pyelonephritis):常見有腹痛或腰痛、發燒、疲倦、噁心或嘔吐、腹瀉。有些新生兒或是幼兒會表現黃疸、躁動不安、餵食困難甚至體重下降。當出現上述癥候時, upper urinary tract infection 要列入考慮。急性腎盂腎炎有可能會造成 pyelonephritic scarring,嚴重者造成日後腎臟功能變差甚至高血壓。 - (4) 無症狀菌尿症(asymptomatic bacteriuria):尿液培養陽性但沒有臨床症狀表現,這種情況幾乎只出現在男性 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

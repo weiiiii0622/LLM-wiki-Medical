@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med5-book1-ch07]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'FAST exam (創傷超音波快速評估)'
   - 'FAST exam'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-外傷病人床邊超音波快速評估腹腔、心包膜或胸腔液體。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外傷病人床邊超音波快速評估腹腔、心包膜或胸腔液體。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch07]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- (D) 近幾年關於 fast track surgery 的研究發現,常規長時間讓病 患術前禁食,對於腸胃道排空功能正常患者,反而會有腸黏 膜萎縮進而增加感染的機會 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (5) 超音波(FAST): 能迅速偵測腹膜積血,掃描能得到心包膜、肝腎窩(Morison Pouch)、脾腎窩(perisplenic space)及骨盆腔的 rectovesicular space 四個地方是否有出血的影像。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - ...當? (A) 應立即進行腦部電腦斷層檢查 (B) 床邊腹部超音波可用於加速手術的決定 (C) 中心靜脈導管的放置不應拖延進手術室的時間 (D) 血氧飽和度 92% 可因為血壓低,故僅供參考 【詳解】先以穩定 ABC、vital sign, FAST 尋找潛在出血處, Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 

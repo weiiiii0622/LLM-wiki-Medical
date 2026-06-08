@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book2-ch07]]"
 aliases:
   - 'Lactic acidosis (乳酸中毒)'
   - 'Lactic acidosis'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book2-ch07]]
 
 ## Key Details From Sources
 
+- ...----------------------------------------------| | (A) 心跳速率較正常低 | 外一-94 | | (B) 心搏量較正常高 | | | (C) 收縮壓較正常高 | | | (D) 血中乳酸(lactate)較正常低 | | | 【詳解】(A) 移植之心臟不受交感神經控制,故運動時心跳加速 | | | 較慢;另外也沒有迷走神經控制,所以休息時心跳也較不受抑 | | | 制。(B) 心搏量主要受 preload 影響,故和正常差不多。 | | | 7. 移植後的心臟在休息狀態下,何種心臟功能參數較正堂為低? | 93(二)專 | | | 外二-91 | | | 71 - 01 | | | | | | | | (少) 印 灰座 | | | 8 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - ...血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在前 6 小時內達到以下目標。 - a. CVP 維持在 $8\sim12~\text{mmHg}$ : 給予晶體或膠體溶液(目前多建議晶體溶液),每 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - d. Septic shock 的定義:需要靠升壓劑維持 MAP > 65 mmHg,而且血液 lactate > 2 mmol/L(18 mg/dL)。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 1. 晶體溶液 (crystalloid):Normal Saline (NS) 和 Lactated Ringer's (LR)(術中、燒傷、腹瀉或膽汁喪失時使用)兩種,在許多的研究發現,NS 在大量的輸液下造成的酸血症會比 LR 嚴重,而且尿液的輸出也比較少,所以 LR 在復甦的過程中其結果比NS 好;但 LR 中含有 Ca²+,如果與含有 citrate 的血液溶劑一起混合,會造成沈澱,且LR 所含的鉀離子對腎是種負擔。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -68,7 +71,6 @@ tags:
 - .... Posthypercapnic state | | | | hyperaldosteronism | | 3. Hypercalcemia/hypoparathyroidism | | | | | | 4. Recovery from lactic acidosis or ketoacidosis | | | | | | 5. Nonreabsorbable anions (penicillin, carbenicillin) | | | | | | 6. Mg 2+ deficiency | | | | | | 7. K + depletion | | | | | | 8. Bartter's syn. (loss of function mutations in TALH) | | | | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...(3) 第三步:AG = 20 →陰離子間隙代謝酸; $\Delta$ AG(10) = 1~2× $\Delta$ [HCO₃](6) →單純的 高陰離子間隙代謝酸。 - (4) 臨床狀況:常見於嚴重肺炎、肺水腫的病人,因為末梢循環差導致乳酸中毒的高陰 離子間隙代謝酸,加上肺部問題,因而代償不完全,合併呼吸酸。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...| | 葡萄糖 | 0 to 0.20 | 1.5, 2.5, 4.25 | PD 的葡萄糖濃度高愈能脱水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35-40 | 維持 pH 65~70% 為佳。 Source: [[sources/med3-book3-ch06|己、透析治療]].
-- ...| 葡萄糖 | 0 to 0.20 | 1.5, 2.5, 4.0, 25 | PD 的葡萄糖濃度高愈能脫水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35~40 | 維持 pH = 5.2~5.6 → 不易感染 | Source: [[sources/med3-book3-ch06|己、透析治療]].
 
 ## Clinical Caveats
 

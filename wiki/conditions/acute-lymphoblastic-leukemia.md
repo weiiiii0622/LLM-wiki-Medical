@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Acute lymphoblastic leukemia, ALL (急性淋巴性白血病)'
   - 'Acute lymphoblastic leukemia, ALL'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book4-ch01]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- (B) The STICH trial, Surgical Treatment for Ischemic Heart Failure, 2011 年發表於 NEJM,發現在缺血性心衰竭患者身上,只服用藥物 vs 服用藥物 + CABG,兩者於 All cause mortality 並無顯著差異,而接受手術的患者在心血管疾病相關死亡率比只服用藥物的患者低一點。本選項敘述與 NEJM 內容出入甚大,是錯的。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...|-----------------------|------|--|--| | 養 | 基底 | 紋狀體 (Striatum) | 豆核 (Lentiform) | 被殼 (Putamen) | 新紋狀體 | | | | 基 | 核 | All Charles In | 尾核 (Caudate nucl | eus) | | | | | 底 | 12 | 杏仁核 (Amygdaloi | loid) | | | | | | 核 | 間腦的底丘腦核 (Subthalamus nucleus) | | | | | | | | 腹 | 體 中腦的黑質 (Substantia nigra) | | | | | | | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (8) 其他意念、情感或衝動被控制的感覺 (all other experiences involving volition, made affects, and made impulses) Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - ...多次 | | | | (D) 疾病發生需在 15 歲之前 | | | | 【詳解】18 歲之前。 | | | (B) | 5. 下列有關「妥瑞氏症候群」(Tourette's syndrome)之敘述,何者 | 101(二)專 | | | ALL III O | | Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
@@ -70,7 +73,6 @@ tags:
 - (2) 抑制二氫葉酸還原成四氫葉酸作用: - a. Methotrexate (MTX) →血癌 (ALL) - (a) 高劑量 MTX 會產生嚴重的骨髓抑制、黏膜破損,因此注射後 12 小時會給予 Leucovorin(Folinic acid = 擬葉酸劑)來拯救正常骨髓及黏膜細胞,減少毒性。Folinic acid 不需要 Dihydrofolate reductase,就可以一直當作 Thymidylate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - 3. 模仿嘌呤 (Purine agntagonist) - (1) 6-Mercaptopurine (6MP) →血癌 (ALL) - a. 嘌呤類似物,影響 DNA 合成。可口服給予,治療 ALL。 - b. 由 Xanthine oxidase 代謝,與 Allopurinol (Xanthine oxidase inhibitor) 併用須減量。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - rom, compe ist, maris es, marier su, marier su, marier se, marienas al, Loscata II; riscon Frincipies el futernal Medicine, l'ith Báltine, were accessoratione, com prophi si The McGrae-Hill Companies, Inc. All rights manyest. Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- (2) 加速期 (Accelerated phase): 骨髓 Blast = 10~19%, 周邊血液 basophil > 20%、血小板減少 ( 20%; 1/3 演變成 ALL, 2/3 演變成 AML。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 
 ## Clinical Caveats
 

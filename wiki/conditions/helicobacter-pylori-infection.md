@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Helicobacter pylori infection (幽門螺旋桿菌感染)'
   - 'Helicobacter pylori infection'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 
 - [[sources/med3-book4-ch15]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - .... 下列對照的致癌原(Carcinogen)何者錯誤? | 102(一)專 | | (A) 黃麴毒素(Aflatoxins)-肝癌(Hepatocellular carcinoma) | 醫五 -10 | | (B) 幽門 螺 旋 桿 菌(Helicobacter pylori)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (B) 13. 下列何種檢查,最無法確定目前胃中有幽門桿菌(Helicobacter pylori)感染? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】診斷胃幽門螺旋桿菌感染最直接的做法是切片檢查。 此外,非侵入性診斷方式有採取糞便檢驗胃幽門螺旋桿菌抗原 以及碳-13尿素吹氣試驗。至於血液抗幽門螺旋桿菌抗體(IgG), 最多僅能做追蹤用,無法評估現階段是否有感染以及治療後的 成效。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -62,7 +65,6 @@ H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 
 - 1. 幽門螺旋桿菌 (H. pylori) 相關介紹: - G(-),會產生 Urease, 使 Urea $\rightarrow$ NH $_3$ +CO $_2$ ;為糞口傳染。侵犯部位為 Antrum 為主,非 body, 所以 parietal cell preserved $\rightarrow$ 繼續分泌胃酸。 - 目前已知與 (a) Multifocal atrophic gastritis (MAG) 有關; - (b) Diffus Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - 2. 幽門螺旋桿菌 (H. pylori) 感染→胃、十二指腸潰瘍比較: Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - \* BAS = Basal acid secretion,因此 HP 感染並未一定會造成酸分泌增加,導致 GERD。 - 3. 檢查是否有幽門螺旋桿菌 (H. pylori) 感染: (停用 PPI 至少7 天較不易產生偽陰性) - (1) 侵襲性的方法:由胃鏡取出的檢體進行快速尿素檢查法 (rapid urease test)、組織病理檢查法 (histology)、組織細菌培養 (culture)等。 - (2) 非侵襲性的方法:尿素呼吸檢查(urea breath test),使用碳 -13 標記之尿素,服用 後作呼氣檢查,為最佳的非侵襲性方法,可用於確定殺菌成功與否。抽血檢驗 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- (A) 幽門螺旋桿菌 (H. pylori) Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
 
 ## Clinical Caveats
 

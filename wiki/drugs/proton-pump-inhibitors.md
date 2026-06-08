@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Proton pump inhibitors, PPI (質子幫浦抑制劑)'
   - 'Proton pump inhibitors, PPI'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,13 @@ tags:
 - [[sources/med3-book3-ch11]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- ...O,基礎胃酸分泌量) > 15 mEq/hr。 - c. 如果 hypergastrinemia 但 BAO 沒上升,則考慮是:atrophic gastritis、renal failure、病人正在服用 H2 antagonist 或 PPI。 - d. 但有些情況也會同時有 fasting hypergastrinemia 及 BAO 上升: retained gastric antrum syndrome、gastric outlet obstruction、antral G-cell hyperplasia。所以需再進一步作 Secretin 刺激檢驗。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- (1) 藥物: $H_2$ antagonist 或 PPI 抑制胃酸分泌,效果好,不再需要 total gastrectomy。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 8. H2 blocker 或是 PPI 去減輕 stress ulcer。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - (2) 內科治療: - a. 傳統制酸劑使用可以迅速改善症狀,但因副作用不建議長期使用。PS:副作用如 diarrhea (magnesium) and constipation (aluminum)。 - b. Histamine-2 receptor antagonists、proton pump inhibitors (PPIs) 使用,治療效果佳。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 5. 治療:兩個目標:緊急處理出血以及防範再出血。 - (1) Emergency treatment:輸液補充、矯正凝血功能、藥物治療出血(vasopressin、H2-receptor blocker、proton pump inhibitor)。 - (2) 防範再出血: Propranolol。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -60,7 +65,6 @@ tags:
 - 1. 藉由病史(胸骨後方灼熱感)或使用 PPI (porton pump inhibitor)後會改善可做症狀診 斷,或以胃鏡探查是否有 EC junction 的黏膜破損作為診斷。(國內需以胃鏡影像做確診, 才可開立 PPI)。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - 2. 緩解藥物:Antacids、H2-blocker、PPI、Prokinetic agent。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - (A) 應立即給予服用 proton pump inhibitor (PPI) 至少 4 個月 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (1) 住院感染到 C. difficile spore (周圍帶菌者多,抗生素使用多): 住院天數越長則感染機會增加(住院一週患者糞便有菌叢者> 20%,而非住院者則為 1~3%)。另已有證據顯示長期服用 PPI 會增加感染機會。 Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 
 ## Clinical Caveats
 

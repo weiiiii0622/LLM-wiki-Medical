@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch19]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Neurologic examination (神經學檢查)'
   - 'Neurologic examination'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch19]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- (C) 2. 一位 20 歲女性割腕自殺被送至急診室時,左手腕掌面橈側有約 3 公分橫向刀口,神經學檢查發現手掌五指可伸直及併指,但無法 彎曲握拳,且手指腹面有麻木感,則此病人最可能為下列那一 條神經受損? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - ...頸部開始酸痛,沿著肩膀、手臂到手指產生麻痛沒力。 - b. 無法做精細的動作,走路腳步越來越僵硬無力、麻痺,有時拖鞋掉了都不 自覺。 - c. 手和腳會有像被電到的感覺,尤其當脖子彎曲時,更容易引發被電到的感覺 和手臂疼痛麻木。 - d. 神經學檢查為 upper motor neuron disease 的表現: - (a) 下肢肌肉張力增強; 膝反射及足根反射增強。 - (b) 用力壓下腳背會引發腳步向上下快速擺動(陣攣 clonus )。 - (c) Babinski sign: positive • - (d) Hoffman's sign:輕彈中指,會引起大拇指及食指彎曲。 - (e) Tandem gait : unstable • - e. 最常造成頸椎神經根壓迫的位 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (2) 症狀:頸部疼痛以及頸部的 ROM 受限,但是通常神經學檢查會是正常的。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (C) 44. 患者神經學檢查, 肱三頭肌反射 (triceps reflex) 有減弱或消失 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].

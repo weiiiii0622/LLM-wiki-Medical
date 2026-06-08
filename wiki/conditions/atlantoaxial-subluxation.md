@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book4-ch08]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch11]]"
 aliases:
   - 'Atlantoaxial subluxation (寰樞椎半脫位)'
   - 'Atlantoaxial subluxation'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整
 - [[sources/med3-book4-ch08]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch11]]
 
 ## Key Details From Sources
 
+- (5) Stage C1: Stage B1 +淋巴轉移。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (6) Stage C2: Stage B2 +淋巴轉移。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- ...| N0 | M0 | B2 | 60~80% | | IIB | T4a | N0 | M0 | B2 | | | IIC | T4b | N0 | M0 | В3 | | | IIIA | T1-T2 | N1/N1c | M0 | C1 | 30~60% | | | T1 | N2a | M0 | C1 | | | IIIB | T3-T4a | N1/N1c | M0 | C2 | | | | T2-T3 | N2a | M0 | C1/C2 | | | | T1-T2 | N2b | M0 | C1 | | | IIIC | T4a | N2a | M0 | C2 | | | | T3-T4a | N2b | M0 | C2 | | | | T4b | N1-N2 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (C) 10. 一位 51 歲的女病人因罹患下 1/3 的直腸癌而直接進行低前位切除術治療,術後病理報告為 Dukes' C2,術後第5天排氣,且小便自解無礙,逐步開始恢復進食,術後第7天順利排放大便,術後第9天出院。出院後隔天晚上,病人在家發現有多量的黃濁具臭味之液體自陰道口排出,病人又回醫院急診室就醫,則最可能是何種診斷? Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - ...--------------------------------------------------|-------------------|---------------------------------------------| | C1-4 | 頸部肌肉 (neck muscle) | | | | C3, 4, 5 | 横膈肌 (diaphragm) | 吸氣、TV、FEV、VC | | | C5 , 6 | 三角肌 (deltoid) | 局部外展 > 90° | | | C5 , 6 | 二頭肌 (biceps) | 手肘彎曲 | biceps jerk | | C6 , 7 | 伸腕橈肌 (extensor carpi radialis) | 手腕伸張 | su Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 2. C2 fracture: 又可分成兩種。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...pe 1 | Odontoid process 的頂端斷裂 | 少見,相對穩定 | 如果發生 atlanto-occipital dislocation,則需手術 | | Type 2 | Odontoid process 的基底部斷裂和 C2 的 body 分開 | 最常見,不穩定也最不容易癒合 | 小於 7 歲或是 displacement小於 4 mm,使用頸圈固定 10~12 週;大於 7 歲或是 displacement 大於 6 mm或是頸圈無效,則考慮手術 | | Type 3 | Odontoid process 連同 C2body 一起斷裂開 | 通常穩定 | 頸圈固定 | Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].

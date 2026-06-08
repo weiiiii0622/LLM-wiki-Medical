@@ -8,6 +8,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch01]]"
 aliases:
   - 'Cyanotic congenital heart disease (發紺型先天性心臟病)'
   - 'Cyanotic congenital heart disease'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-右到左分流或肺血流不足造成發紺，常需評估 PDA-dependent circulation 與緊急穩定。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+右到左分流或肺血流不足造成發紺，常需評估 PDA-dependent circulation 與緊急穩定。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,14 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch01]]
 
 ## Key Details From Sources
 
+- 2. 當構造異常,心臟有由右心至左心的分流,使得缺氧血直接參雜進含氧血內,降低氧氣濃度,則為發紺型先天性心臟病,會有嘴唇發紫、clubbing finger 的情形。(心臟瓣膜疾病也會有發紺的情形,統一於下一章節「心臟瓣膜疾病」介紹) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 1. 法洛氏四重症(Tetralogy of Fallot, TOF): - (1) 最常見的發紺型先天性心臟病,佔15~20%。 - (2) 四種異常為:心室中隔缺損(ventricular septal defect, VSD)、主動脈跨位 (aortic override)、右心室出口阻塞(right ventricular outflow tract obstruction, RVOTO)、右心室肥大(right ventricular hypertrophy)。(見下圖左) - (3) **心室中膈缺損**連帶影響主動脈與心室的連接,造 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (全)11.38 歲男性,因駕轎車撞橋墩被送到急診室,到院後評估發現, 100(二)專血壓 100/70 mmHg,心跳 88 / 分,呼吸次數 20 / 分,頸靜脈 醫五-22 無怒張,無 cyanosis,呼吸音正常,胸部 X 光顯示縱膈變寬,以下何者是最可能的診斷? - (A) 心包填塞 (cardiac tamponade) - (B) 主動脈剝離 (aortic dissection) - (C) 主動脈瘤破裂 (ruptured aortic aneurysm) - (D) 心肌挫傷 (myocardial contusion) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...幾秒中慢慢失去意識 | | | | 識 | 除了某些心律不整會立即失去意識 | | | 失去意識的延續時間 | 幾分 | 幾秒 | | | 肌強直陣攣的延續時間 | 30~60 秒 | 一定小於 15 秒 | | | 脸郊丰丰 | 發紺 (Cyanosis) | 蒼白 (Pallor) | | | 臉部表情 | 口吐白沫 (Frothing) | | | | 發作後意識混亂、嗜睡的時間 | 幾分鐘到幾小時 | 小於5分 | | | 發作後肌肉痛 | 常見 | 有時可見 | | | 咬舌、頭痛 | 有時可見 | 罕見 | | Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 1. 發紺型先天性心臟病 2 - A. 法洛式四合症 (Tetralogy of Fallot) 2 - B. 肺動脈閉鎖 (Pulmonary atresia) 3 - C. 三尖瓣閉鎖 (Tricuspid atresia) 4 - D. 大動脈轉位 (Transposition of the great arteries, TGA) 6 - E. 全靜脈回流異常(Total anomalous pulmonary venous return, TAPVR) 7 - F. Ebstein 異常 (Ebstein anomaly) 8 - G. 左心發育不全症候群(Hypoplastic left heart syndrome, HLHS) *9* Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

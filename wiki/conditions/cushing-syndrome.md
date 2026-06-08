@@ -16,6 +16,8 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch19]]"
 aliases:
   - 'Cushing syndrome (庫欣氏症候群)'
   - 'Cushing syndrome'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,15 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch19]]
 
 ## Key Details From Sources
 
+- B. Cushing syndrome 234 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- #### B. Cushing syndrome Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 2. 病因: - (1) 醫源性(iatrogenic): 最常見的原因,長期服用含類固醇的止痛藥所致,造成體內 glucocorticoid 過量。 - (2) Cushing disease: 佔非醫源性病患 65~70%。腦下垂體前葉腺瘤或是增生,過度分泌 ACTH,造成雙側腎上腺增生,分泌過量 cortisol。 - (3) 腎上腺腫瘤:佔非醫源性病患 10~20%。Adrenal adenoma 或 carcinoma,不受 ACTH 控制,分泌大量 cortisol。ACTH 反而因受到回饋抑制而濃度降低,腫瘤 周圍的正常腎上腺皮質也會萎縮。 - (4) 異位性(ectopic) ACTH:身體其他部位有會分泌 ACTH 的來源,例如小細胞 肺癌、類癌、胰臟癌、胸腺癌、甲狀腺髓質癌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 內分泌外科共分甲狀腺、副甲狀腺、胰島和腎上腺四大部分。甲狀腺重點在甲狀腺功能評估和疾病診斷、甲狀腺癌種類的分辨和甲狀腺術後併發症。副甲狀腺重點為機能評估。胰島重點在於分辨各種胰島細胞瘤之症狀、診斷和處置。腎上腺重點為Cushing syndrome 和嗜鉻細胞瘤。 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 - ...大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (4) 腦下垂體中風 (pituitary apoplexy): - a. 當腦下垂體腫瘤逐漸擴大時,一旦壓迫到腦下垂體莖的血管,可導致急性的腦下垂體及腫瘤的缺血壞死,造成腦下垂體中風。 - b. 腦下垂體中風也可以被頭部外傷、Sheehan syndrome、內分泌藥物檢驗或治療(肢端巨大症及庫欣氏症候群)、腦下垂體放射線治療、或化學治療所引發。 - c. 症狀: 腦內壓力陡昇所造成的急性臨床症狀有頭痛、噁心嘔吐、視力模糊及 視野缺損、眼球肌肉麻痺及內分泌失調等。 - d. 處置:迅速給予類固醇治療,並在七天內進行經蝶骨(transsphenoidal)手術切除。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. 顱內壓太高 (increased intracranial pressure = IICP): - (1) 特徵: - a. 這類頭痛通常慢慢發生;早上起來最痛,因為平躺一晚,水往頭部分佈,腦 壓增加使然。其他咳嗽、身體彎曲等使腦壓增加的狀況也會惡化頭痛。 - b. 腦壓太高,會造成頭痛、嘔吐;還會造成視乳突水腫(papilledema),而有視力模糊等症狀。 - c. 若腦壓高到造成 tentorial herniation, 會壓到第三對腦神經、中腦,造成瞳孔 放大、失去光反射。 - d. 若使延腦受到壓迫,會有 Cushing triad:血壓高、心跳慢、呼吸不規則。 - (2) 病因: - a. 常需影像學進一步找出 IICP 原因,嚴重的中風導致腦水腫?腦出血?腫瘤? Source: [[sources/med4-book4-ch03|丙、頭 痛]].
@@ -63,10 +71,6 @@ tags:
 - B. 庫欣氏症候群 (Cushing's syndrome) 208 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - ...----|----------------|--------------------|---------------------------------| | H-1915 | 中胚層 | G: 11 | Glucocorticoid | Cushing's syn. | Addison's dz.Adrenal crisis | | 及質 (meso | (mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural cr Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - #### B. 庫欣氏症候群 (Cushing's syndrome) Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...傳性疾病、胃腸 疾病引起 - a. 副甲狀腺機能亢進症:大部分的副甲狀腺機能亢進症屬於繼發性腎功能不全引起,並影響 Vit. D 在腎臟之活化反應,使小腸鈣吸收能力減少,同時血中副甲狀腺素分泌過多,增加骨骼周轉率,骨質密度流失。 - b. 庫欣氏(Cushing's)症候群:多因類固醇使用引起,因類固醇直接作用在造骨細胞和前驅造骨細胞之演變,進而使骨骼重塑過程製造減少,吸收增加,促骨質快速流失,尤其是海綿骨流失的比例比緻密骨大,致使脊椎骨折之危險性增加。 - c. 性腺功能低下症:早發性停經、性腺發育不全等會引起異常之鈣代謝,故骨質流失且骨質密度減少。 - d. 甲狀腺機能亢進症:常造成骨骼周轉率增加,骨質加速流失。 - e. 藥物: (Harrison 348-3) - ( Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- (A) hyperthyroidism - (B) Cushing's syndrome - (C) hypogonadism - (D) hyperaldosteronism Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- ...| 篩檢:IGF-1 ↑ | 先手術→放射、 | | (Somatotrope = GH) | 巨人症 (Gigantism) | 10% | 確診:OGTT (GH ↑ ) | Somatostatin 輔助 | | 皮促素細胞瘤 | 庫欣式病 (Cushing's dz.) | 10-15% | 24 小時尿液 | 先手術→放射、 | | (Corticotrope = ACTH) | 単次式病 (Cusning s dz.) | 10-15% | free cortisol | Ketoconazole 輔助 | | 甲促素細胞瘤 | 中樞甲狀腺亢進 | 最少見 | | 先手術→ PTU、 | | (Thyrotrope = TSH) | (Central hyper Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- 4. ACTH 過高 / 庫欣氏病 (Cushing's disease): 占 70% Cushing's syndrome, 因為症狀明顯, 常能早期診斷。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 
@@ -75,6 +79,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/adrenalectomy|Adrenalectomy (腎上腺切除術)]]
 - [[diagnostics/dexamethasone-suppression-test|Dexamethasone suppression test (地塞米松抑制試驗)]]
 - [[physiology/hpa-axis|Hypothalamic-pituitary-adrenal axis, HPA axis (下視丘-腦垂體-腎上腺軸)]]
 

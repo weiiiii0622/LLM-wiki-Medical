@@ -24,6 +24,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Opportunistic infection (伺機性感染)'
   - 'Opportunistic infection'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch05]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- (5) 動脈幹的嬰兒常合併有 Di-George 症候群(胸腺發育不全,致使 T 淋巴球免疫不全),預後不佳。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - ...immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (8) 免疫不全或其他全身性疾病,雖經治療但仍預後不良者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -82,7 +85,6 @@ tags:
 - 【詳解】免疫不全患者應避免活菌疫苗的接種。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) 免疫不全的病童比一般兒童更容易發生菌血症 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (4) 免疫方面:胸腺發育部分或全部缺陷。 - a. 部分 DiGeorge 症候群佔大多數。 - b. 完全 DiGeorge 症候群因胸腺完全無發育,故 T 細胞嚴重缺乏,易引起伺機性感染。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...(NSE)/M4,M5 (Mono) | (110) | | | | Periodic acid Schiff (PAS)/M6,M7 | A Late | | | 表面標誌(分類) | CD13,33 (Myeloid series); CD4,14 (M4 單核球 ) | T | TdT(+),CD2,3,5,7(+) | | Immunophenotype | Glycophorin A (M6 紅血球); CD41,61 (M7 血小板) | Pre B | TdT(+),CD10,19,20,21,22(+) | | | | Burkitt | TdT(-), Surface Ig(+) | | 染色體,基因(預後) | 好: t(8,21)/M2; t(15,17) Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 
 ## Clinical Caveats
 

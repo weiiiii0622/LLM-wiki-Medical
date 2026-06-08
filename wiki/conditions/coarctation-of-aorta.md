@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch01]]"
 aliases:
   - 'Coarctation of the aorta, CoA (主動脈窄縮)'
   - 'Coarctation of the aorta, CoA'
@@ -20,15 +22,21 @@ tags:
 
 ## Summary
 
-主動脈峽部狹窄造成上下肢血壓差、股動脈脈搏弱與左心負荷增加。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈峽部狹窄造成上下肢血壓差、股動脈脈搏弱與左心負荷增加。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch01]]
 
 ## Key Details From Sources
 
+- #### 7. 主動脈窄縮 (Coarctation of Aorta, CoA): Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (B) 2. 在先天性心臟病的完全矯正,有時需使用帶有瓣膜的同種異體移植物(homograft of pulmonary artery or aorta, valved)來銜接右心室至肺動脈,下列那些先天性心臟病之完全矯正可能需要用到此移植物?①動脈幹症(truncus arteriosus)②肺靜脈回流完全異常 ③肺動脈瓣閉鎖合併心室中隔缺損 ④主動脈窄縮症 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 4. 主動脈窄縮症 Coarctation of Aorta(CoA): 為 PDA 附近胸 主動脈狹窄,屬於左心出口遠端的問題,不需要使用肺動脈 作材料去修補,用牛或馬心包膜 patch enlargement repair 即可。故答案選擇①與③。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 4. 先天性主動脈窄縮(coarctation of the aorta)。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (5) 三尖瓣閉鎖變型:這類病人除了三尖瓣閉鎖以外,同時發生大血管轉位 (transposition of the great arteries);此時臨床上表現為進入肺循環血液大量增加。若 VSD 大小不夠的話,進入體循環的血流量會減少。長期下來造成早期心衰竭。臨床上主動脈窄縮不常見於這類病人。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 心臟超音波:診斷工具。在左側心血管方面,可看到縮小的左心室、歪曲變形的 二尖瓣(有時超音波影像看不到二尖瓣)、主動脈發育不全(severe hypoplasia of the aorta and aortic annulus)以及 coarctation of aorta。右側心血管部分可以看到 明顯擴大的右心室以及三尖瓣。心房中間有 ASD 或是 PFO。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

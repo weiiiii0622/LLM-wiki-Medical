@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Renal sodium and water handling (腎臟鈉水處理)'
   - 'Renal sodium and water handling'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,13 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 1. 血液 aldosterone 濃度過高。Aldosterone 的生理作用是留鈉、排氫、排鉀。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - f. 影響到 ADH 的分泌造成尿崩症。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 【詳解】(B) 腦下垂體腫瘤造成的尿崩症需腫瘤大到壓迫腦下垂體後葉影響 ADH 分泌才會造成,故不常見。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -62,9 +67,6 @@ tags:
 - ...drenal crisis,因此篩檢重點在於 classic type。而 classic type 又可分為 saltwasting CAH 與 simple virilizing CAH。其中 salt-wasting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...-----------------------------|--------| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syn Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ...| 1. Primary polydipsia | | | gain | 2. Decreased solute intake (e.g., beer potomania) | | | (secondaryNa + loss) | 3. AVP release due to pain, nausea, drugs | | | | 4. Syndrome of inappropriate AVP secretion | | | | 5. Glucocorticoid deficiency | | | | 6. Hypothyroidism | | | | 7. Chronic renal insufficiency | | | Primary Na + gain | 1. He Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (C) 皮質醛酮素缺乏 (aldosterone deficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

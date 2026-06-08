@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch12]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book2-ch02]]"
 aliases:
   - 'Spinal cord (脊髓)'
   - 'Spinal cord'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch12]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book2-ch02]]
 
 ## Key Details From Sources
 
+- ...ortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性器官的灌注 血流。 - f. 下肢半癱(spinal cord ischemia,Adamkiewicz 動脈灌流不足) - g. Graft infection · Aorto-enteral fistula · Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - H. 脊椎與脊髓腫瘤 (Spine and spinal cord tumor) 188 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (4) 由於脊髓只有到 L1,往下 發出神經叢稱作馬尾(cauda equina),馬尾發出的神經自 對應椎體的椎間孔出來,如 右圖例,L4 神經根已經從 L4 腰椎間孔出來,所以當 L4-L5 椎間盤突出時,反而 較少壓迫到 L4 神經根,卻 是壓迫到 L5。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (6) 影像檢查: - a. 腰薦椎 X 光: 只能顯現骨骼結構,可以看出是否有脊椎骨的病變,如骨折、 關節變形、側彎、滑脫或椎間空間變窄等,但無法確認是否有椎間盤突出。 - b. CT:可偵測神經有無受到椎間盤壓迫,另外可加作脊髓腔造影,在蜘蛛膜下 腔注射顯影劑,以加強脊索及神經根之影像,增加診斷之正確性。 - c. MRI: 首選檢查工具,可清楚看到脊椎、脊髓、神經根、軟骨等結構,找出 椎間盤突出的部位,不需要打顯影劑。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -78,7 +81,6 @@ tags:
 - ...振動覺: - i. 第一棒:背根神經節 (dorsal root ganglion)接受來自肌纖維內的肌 梭 (muscle spindle)、肌腱上的高爾肌鍵器官 (Golgi tendon organ), 將刺激藉由 Aα 神經纖維傳入脊髓,下肢藉由薄束 (fasciculus gracilis)、上肢藉由楔形束 (fasciculus cuneatus),其上行於同側的背 側 (dorsal column)脊髓,將訊息傳到延腦的薄核、楔形核。 - ii. 第二棒:薄核、楔形核發出的神經纖維在延腦交叉到對側後,將訊息 由內側蹄系 (medial lemniscus) 傳到視丘 (thalamus)。 - iii. 第三棒:視丘將訊息傳到大腦皮質 (area 1~3)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - i. 第一棒:背根神經節 (dorsal root ganglion)接受來自體表 Pacinian corpuscle、Meissner's corpuscle、Merke's disc 接收的刺激,將刺激藉由 Aβ 神經纖維傳入脊髓。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (A) 結核菌腦膜炎的脊髓液外觀經常是混濁的,細胞數通常為每 毫升 25~500 顆,以嗜中性白血球為主,脊髓液中葡萄糖量 減少,但是蛋白質量增加 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- (C) 脊髓硬膜外膿腫(spinal epidural abscess)通常會有嚴重的背 痛、疲倦、發燒,接著會有嚴重的神經根痛及肢體麻痺無力 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 
 ## Clinical Caveats
 

@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch13]]"
 aliases:
   - 'Inflammatory bowel disease, IBD (發炎性腸道疾病)'
   - 'Inflammatory bowel disease, IBD'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與病理。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與病理。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,15 @@ IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch13]]
 
 ## Key Details From Sources
 
+- #### 己、發炎性腸炎 (Inflammatory bowel disease, IBD) Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- 發炎性腸炎泛指 Ulcerative Colitis(UC,潰瘍性結腸炎)和 Crohn's Disease(克隆氏症),他們在生理病理學或臨床症狀方面有些許異同之處,但約有 10~15% 的 IBD 病人無法明確定義為 Ulcerative Colitis 或 Crohn's Disease,而稱為 Indeterminate colitis。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- (A) 2. 下列關於發炎性腸疾(inflammatory bowel disease)的敘述,何者 錯誤? Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- 2. 發炎性腸炎 (inflammatory bowel disease): 13%。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - (3) IBD (inflammatory bowel disease) • Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...omphalitis)、腹腔感染。 - (2) Intrahepatic: - a. 肝門靜脈發生栓塞(portal vein thrombosis)是常見原因:在新生兒常因脫水或是全身性感染,年紀大一點的病童發生靜脈栓塞則與發炎性腸疾病(inflammatory bowel disease)、膽道感染或是原發性硬化性膽管炎有關。此外,血液高凝集狀態(hypercoagulable state)也與門脈栓塞有關。少見發生原因則與解剖構造發展異常有關:agenesis, atresia or stenosis of the portal vein。 - b. 肝門靜脈流動受阻: 急性或慢性肝炎、先天性肝纖維化 (congenital hepatic fibrosis)、血吸蟲病 (schistosomiasis)、肝硬化。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - b. 其他原因亦會造成 Budd-Chiari syndrome,如 Behcet syndrome、aspergilosis、inflammatory bowel disease。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -59,8 +67,6 @@ IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與
 - (B) 1. 關於發炎性腸道疾病(inflammatory bowel disease, IBD)的敘述,下列何者正確? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - ③出生第一年有使用抗生素的嬰兒,未來發生發炎性腸道疾病的風 險比較高 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - ...id with serotonin secretion) - c. laxative abuse (瀉劑濫用造成腸黏膜破壞) - (3) NPO 不會好、Fecal WBC/RBC (+): 發炎 (Inflammatiory) - a. IBD → Colonoscopy Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- 3. 原發性硬化性膽管炎 (Primary sclerosing cholangitis, PSC): - (1) 中年男性,和發炎性腸病(inflammatory bowel disease)有關,70%的病人有潰瘍性大腸炎(Ulcerative colitis)。肝內、肝外膽管可見纖維化、膽管擴張,有較高的機率發生上升型細菌性膽囊炎(ascending bacterial cholangitis)、膽管癌(cholangio-carcinoma)。 - (2) 除了 Alk-p、黃疸昇高,MRCP 可見 multifocal beaded bile duct structure,肝生檢可見膽管附近呈現 onion skin。 - (3) 目前並無有效療法。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- Drugs used for inflammatory bowel disease sulfasalazine, 5-ASA Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 
 ## Clinical Caveats
 
@@ -69,7 +75,7 @@ IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與
 
 ## Related Pages
 
-- 待補。
+- [[procedures/colectomy|Colectomy (大腸切除術)]]
 
 ## Follow-up
 

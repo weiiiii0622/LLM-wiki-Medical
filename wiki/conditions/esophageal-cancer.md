@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Esophageal cancer (食道癌)'
   - 'Esophageal cancer'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med3-book4-ch21]]
 - [[sources/med3-book4-ch22]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- ...一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | | situ),不是腺癌。 | _ | | (C) 17. 有關直腸癌的經肛門局部切除治療,下列敘述何者錯誤? | 102(二)專 | | (A) 須小於 4 公分的 T1 和 T2 癌瘤才可使用 | 醫五-54 | | (B) 癌瘤須在離肛門口 6 公分以內的範圍才能採用此療法 | | | (C) T1 和 T2 的癌瘤皆不需再接受進一步的治療 | | | (D) 癌瘤必須是分化良好或中度分化者 | | | 【詳解 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (B) 鱗狀細胞癌(squamous cell carcinoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) 152 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - # K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (A) 鱗狀細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

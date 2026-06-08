@@ -19,6 +19,8 @@ sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Calcium homeostasis (鈣離子恆定)'
   - 'Calcium homeostasis'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,17 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- 5. 細胞: - (1) 濾泡細胞 (follicular cell): 合成分泌 T3、T4。 - (2) 濾泡旁細胞(parafollicular cell):又叫 C cell,分泌降鈣素(calcitonin)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...oma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | (B) 20. | 格雷 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 3. 主細胞(chief cell):較多且小,製造副甲狀腺素(PTH)。嗜酸細胞(oxyphil cell):較少、較大,功能未知。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- 4. PTH 功能:增加血鈣濃度(活化破骨細胞、抑制成骨細胞、抑制腎排鈣、促進腎排磷)。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- 1. 原發性(Primary HPT): PTH ↑=> Ca ↑,來自副甲狀腺本身的不正常增生 - (1) Single parathyroid adenoma (85%) • - (2) Diffuse parathyroid hyperplasia (10%) • - (3) Parathyroid carcinoma (1%) • Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...k sign:手指輕敲耳前的顏面神經分支會引起同側肌肉抽動;Trousseau sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (B) 缺乏鋅(zinc)會造成禿頭(alopecia) (C) 接受過胃切除的病患容易缺乏鐵(iron) (D) 缺乏 vitamin D 會造成骨質疏鬆(osteoporosis) Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -67,12 +77,6 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - (4) Calcitonin:對於需要快速降鈣也有其角色。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - | Low PTH Levels | Parathyroid agenesis | Isolated | |-------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 疾病 | PTH | 血磷 | | |---------------|------------|-----|--------------------------------------------| | 副甲狀腺機能亢進(最常見) | ↑ ↑ | ↓ | 80% 腺瘤 (Adenoma);增生 (Hyperplasia) 要考慮有 MEN | | 惡性腫瘤(第二常見) | 1 | 不一定 | 腫瘤轉移直接侵犯骨或分泌 PTH-rP (鱗狀細胞癌) | | 維他命 D 過多 | ↓ | 1 | 肉芽腫病變 (結核或類肉瘤病) | | 藥物 | 不一定 | 不一定 | 以 Thiazide 類利尿劑 ** 最常見、鋰鹽 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- b. 惡性腫瘤引起的高血鈣症可用 calcitonin 或 bisphosphonate 類藥物。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...ica) | 無動力性骨病變(Adynamic bone disease) | 骨軟化症(osteomalacia) | | 病因 | 腎衰竭→磷高鈣低→ 2 nd 副甲狀腺機能亢進 | 服用過多 VitD 或鈣、使用高鈣透析液→過度抑制 PTH(好發於老人、DM;近年來漸增) | 磷高→含鋁的磷結合劑*故現已不用含鋁的磷結合劑。 | | 骨頭 | → High bone turnover | → Low bone turnover | → Low bone turnover | | 變化 | → Osteitis fibrosa cystica | → Adynamic bone dz. | → Osteomalacia | | 症狀 | Bone pain & fractu Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- (A) 4.65 歲女性病人因長期糖尿病腎病變,接受規則血液透析治療已5年, 108(-)專 透析前血中磷 (PO43-) 6.8 mg/dL、鈣 (Ca+) 10.8 mg/dL、副甲狀 腺賀爾蒙(PTH)88 pg/mL。對此病人,下列何者為最適當治療? Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- (B) 使用維他命 D3 (vitamin D3) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...139, K 5.5, Cl 103, Ca 1.95, P 8.9 mg/dL;有關此病人的處置下列何者較為適當? (A) 這次可能是急性的腎功能惡化,觀察2個月後再測定腎功能 (B) 病人維生素 D 製造不良,可先用 1-alpha-vitamin D,控制磷離子 (C) 予胰島素降低血鉀濃度 (D) 開始透析治療 (B) 8. 一位 55 歲男性, 尿素氮 (BUN) 130 mg/dL, 肌酐 (creatinine) 為 99(二)專 12 mg/dL, 兩邊腎臟在超音波呈現萎縮至 6.5 公分, 他有慢性肺氣腫, 醫三-22 曾經作過胃切除,有一長疤自上腹至下腹。他最好選擇那一種長期 透析療法? (A) 間歇性腹膜透析 (intermittent peritoneal dia Source: [[sources/med3-book3-ch06|己、透析治療]].
-- A. 鈣離子平衡 I 一副甲狀腺素 (Parathyroid hormone)、維他命 D (Vit. D)、抑鈣素 (Calcitonin) Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 
 ## Clinical Caveats
 

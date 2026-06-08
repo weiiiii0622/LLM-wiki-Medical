@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book4-ch24]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'ARDS (急性呼吸窘迫症候群)'
   - 'ARDS'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-瀰漫性肺泡傷害造成低氧性呼吸衰竭，通氣策略需肺保護。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瀰漫性肺泡傷害造成低氧性呼吸衰竭，通氣策略需肺保護。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,13 @@ tags:
 - [[sources/med3-book4-ch24]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- (B) 19. 在急性心肌梗塞後,會發生各種併發症,下列何種併發症發生後 102( ) 專 必須考慮儘速手術治療,以免病人病情惡化而死亡? 醫五-25 - (A) 呼吸窘迫症候群(acute respiratory distress syndrome) - (B) 壞死性心室中隔缺損 - (C) 低心輸出量合併寡尿(oliguria) - (D) 細菌性心內膜炎 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- 暫時使用 ECMO 直至心臟功能恢復,或者是過渡、穩定病人到下一個治療方式 (心臟移植);肺衰竭(新生兒肺部疾病、急性呼吸窘迫症候群);或肺臟移植、 神經外科手術及大血管動脈瘤的手術等等。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 【詳解】移植術後早期常見之死亡原因為 graft failure,會造成 ARDS/diffuse alveolar damage,而晚期常見之死亡原因則為bronchiolitis obliterans syndrome (BOS)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (C) 6.63 歲的王女士有糖尿病腎病變,其家系圖(pedigree)及病人自填的家庭圈(family circle)如下圖。王女士最近因急性腎衰竭併急性呼吸窘迫症候群,住進加護病房並接受氣管插管,經近一週的治療,病情並無明顯改善,必須執行氣管造口術(tracheostomy),醫護人員告知王女士及家屬氣管造口術的需要性。雖然王女士無法說話,但意識清楚,一直搖頭拒絕氣管造口術,除了醫護人員的努力之外,您會認為請那一位家屬去說服最合適? Source: [[sources/med3-book4-ch24|甲、家庭醫業]].

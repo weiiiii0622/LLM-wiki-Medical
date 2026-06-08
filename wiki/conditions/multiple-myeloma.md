@@ -42,6 +42,14 @@ sources:
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book1-ch15]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book2-ch15]]"
+  - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Multiple myeloma, MM (多發性骨髓瘤)'
   - 'Multiple myeloma, MM'
@@ -56,7 +64,7 @@ tags:
 
 ## Summary
 
-漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -98,9 +106,27 @@ tags:
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book1-ch15]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med5-book2-ch30]]
+- [[sources/med5-book2-ch18]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch11]]
+- [[sources/med5-book2-ch15]]
+- [[sources/med5-book2-ch21]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- 【詳解】眼瞼下垂程度輕微(約1~2 mm)可考慮使用結膜苗勒 氏肌(Müller's Muscle)切除(Putterman procedure)來矯正, 若是較嚴重的眼瞼下垂(≥2 mm)且提瞼肌功能大於5 mm 以 上,可以用提瞼肌切除術 (levator resection),來提高眼瞼高度。 眼瞼下垂嚴重且提瞼肌功能幾乎完全喪失(5 mm 以下),則考 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- (A) 3. 眼瞼下垂(ptosis)依照其嚴重度來分,兩側眼瞼水平高度相差 4 mm 以上時屬於: Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- 【詳解】下垂 2 mm 為輕度,下垂 3 mm 為中等度,下垂 4 mm 則為重度。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- 2. 超音波:可以看到 appendix 直徑大於 6 mm (Sensitivity: 86%, Specificity: 81%)、 糞石,超音波可幫助鑑別診斷婦科或是兒科的急性腹痛。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
+- 3. 如果依照 Hx, PE 診斷不確定,可以使用腹部 CT 輔助診斷。CT 上可以看到 appendix 直徑大於 6 mm, appendix 附近有水聚積(fluid accumulation),或是看到 糞石。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
+- (A) 6. 一位 52 歲女性病患,因下腹痛 5 天被帶至急診處。患者體溫攝 氏 38 度,理學檢查顯示右下腹壓痛及反彈痛,並可摸到一大小 約 5 公分、界線不明之硬塊。抽血血液檢查白血球值 13,800/ mm³。請問下列何者為最適當之進一步檢查? Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
+- (B) 無症狀但合併嚴重主動脈瓣膜逆流及左心室射出比率 50% 及 end-diastolic dimention " 70 mm,才需要手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (B) 14. 一位 75 歲的男性,主訴最近 6 個月來快走會有心悸和胸悶的現 象,身體檢查時,血壓 140/50 mmHg,心跳規律,胸骨右側上方 可聽到心舒期雜音,心臟超音波檢查有嚴重的主動脈瓣逆流, 但左心室收縮內徑(left ventricular end systolic dimension)為 58 mm,舒張內徑為80 mm,此時最好的治療方式為何? - (A) 用金屬性瓣膜置換主動脈瓣 - (B) 用豬心瓣膜置換主動脈瓣 - (C) 使用抗心律不整藥劑 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm 的血管。 - d. 栓塞切除術( Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (C) 7. 一位 40 歲男性病人至門診就醫,主訴一週以來有持續性下腹痛及尿液混濁並夾雜氣泡,且有輕微之排尿困難,但無血便之症狀。理學檢查只見下腹及左下腹壓痛,但並無反彈性壓痛。有輕微發燒(38℃),白血球14,000/mm³,尿液中有雜質及多量WBC但只有少量RBC。經詢問病人,在過去5年內即經常有左下腹痛及便秘之現象,但並無解血便或血尿的情況,則病人最可能的診斷是: Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - ...(systemic inflammatory response syndrome):以下符合 2 個以上: - (1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmH Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (D) 白血球大於 12,000 cells/mm³ 或小於 4,000 cells/mm³ 或在周邊血液抹片有大於 10% immature (Band) cells Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...29. 系統發炎反應症候群(syst | emic inflammatory response syndrome) | 100(一)專 | | | 的定義包括下列那幾項? | | 醫五 -60 | | | ①體溫 12,000/\text{mm}^3$ | | | | $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $ | ④心跳> 100 bpm | | | | (A) ①② | (B) ①④ | | | | (C) 23 | (D) 24 | | | (D) | 30. 以下何者不是典型的發炎生 | 三理反應? | 99(二)專 | | | (A) 體溫上升 | (B) 心跳變快 | 醫五 -19 | | | (C) 呼吸速率變快 | (D) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -109,16 +135,6 @@ tags:
 - (3) MRA (magnetic resonance angiography):難以偵測 3 mm 以下的動脈瘤。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - (1) 中央椎管狹窄 (central canal stenosis): 脊椎管的前後徑變短,因而壓迫脊髓或神經根,脊髓正常的直徑應超過 13 mm。如果小於 10 mm 為絕對狹窄 (absolute stenosis),介於 10~13 mm 為相對狹窄 (relative stenosis)。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (2) 椎間孔狹窄 (foraminal stenosis): 側邊的椎間孔呈長橢圓形,當椎間孔因椎間盤突出、脊椎滑脫、脊椎關節面 (facet)增生等原因導致椎間孔狹窄,壓迫到神經根。正常的橢圓高度是 20~23 mm,小於 15 mm 就是狹窄。70% 椎間孔狹窄發生在第五節腰椎,容易壓迫坐骨神經根。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...ipital dislocation,則需手術 | | Type 2 | Odontoid process 的基底部斷裂和 C2 的 body 分開 | 最常見,不穩定也最不容易癒合 | 小於 7 歲或是 displacement小於 4 mm,使用頸圈固定 10~12 週;大於 7 歲或是 displacement 大於 6 mm或是頸圈無效,則考慮手術 | | Type 3 | Odontoid process 連同 C2body 一起斷裂開 | 通常穩定 | 頸圈固定 | Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- 5. 開刀 indication: - (1) 血塊厚度 > 10 mm 或是 midline shift > 5 mm。 - (2) 血塊厚度 2 分。 - b. 且/或瞳孔大小不對稱或放大。 - c. 且/或ICP > 20 mmHg。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- ...公分 (C) 後續會有血流降低的現象 (D) 傳導的區域和血管分布的位置相關 【詳解】Cortical spreading depression 通常於 migraine aurea 發生, 由枕葉向額葉方向傳遞,傳導速度為每分鐘 2~5 mm,後續會有 血流降低的現象,但傳導的區域與血流分布無關。 (C) 17. 顳動脈炎(temporal arteritis)是一種較常發生於女性的血管炎, 105(二)專 下列敘述何者最不恰當? 醫四 -78 (A) 好發年紀大於 50 歲 (B) 通常為單側 (C) 觸診可發現顳動脈炎(temporal arteritis)的脈動增強 (D) 常合併肌肉疼痛 【詳解】Temporal arteritis 可以觸診顳動脈有 tendern Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- ...開始有輕微的發燒及頭痛;2天前有一次聽到外面有人 醫四-54 在講她的壞話,跑出去跟不相關的路人大吵一架,然後就不再出 門,在家裡喃喃自語,行為非常奇怪;今天早上發生癲癇而來住 院。病人在急診室做了腦脊髓液的檢查,結果顯示 RBC 102/mm³, WBC 347/mm3, 其中 83% 是淋巴球,蛋白質為正常的 1.5 倍, 糖分濃度則正好為當時血糖值的一半。腦波檢查發現兩側顳葉的 功能異常,並有規則陣發性的癲癇樣放電 (periodic epileptiform discharges)。下列診斷中那一項最有可能? (A) 細菌性腦膜炎 (bacterial meningitis) (B) 單純疱疹性腦炎 (herpes simplex encephalitis) (C) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- (3) Verruca Vulgaris(common wart)(右上圖): 尋常疣,最常長在手指、指甲周圍或四肢其 他部位。為 1~10 mm 之小乳突狀丘疹,表面 角質化,略帶灰色,仔細觀察可見表面有許 多微血管栓塞而成的黑色針狀小點,將表層 刮去可看見紅色小出血點。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (5) Verruca Plana (flat wart) (右下圖):扁平 疣,1~5 mm之扁平小丘疹,多發生在臉部, 偶爾可見於前額或手背,呈皮膚色,似青春痘。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 【詳解】5 mm 以內的小丘疹、中間有肚臍狀凹陷、長在幼童上,最可能為傳染性軟疣。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 2. ABCDE rule:病患臨床上有以下特徵時,需懷疑為黑色素細胞瘤。 - (1) Asymmetry:形狀不對稱。 - (2) Border irregular:邊緣不規則、有突起或是表面潰瘍。 - (3) Color variation: 顏色斑駁不一致。 - (4) Diameter > 6 mm: 直徑大於 6 mm - (5) Enlargement:短時間內持續增大; Elevation:表面不規則隆起。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 3. 危險因子: - (1) CDKN2a (tumor suppressor gene) 突變。 - (2) SPT type I or II • - (3) Sun exposure or radiation exposure • - (4) Family or personal history • - (5) 身上超過 50 顆且大於 5 mm 的黑色素母斑 (melanocytic nevi)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- | T stage | Thickness, mm | Ulceration status | |---------|---------------|-----------------------------------------| | T1 | ≦ 1.0 | a: Without ulceration and level ll/lll* | | | | b: With ulceration or level IV/V/T2 | | T2 | 1.01~2.0 | a: Witho Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

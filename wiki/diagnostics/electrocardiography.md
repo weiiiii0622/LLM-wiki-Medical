@@ -35,6 +35,10 @@ sources:
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch06]]"
 aliases:
   - 'Electrocardiography, ECG (心電圖)'
   - 'Electrocardiography, ECG'
@@ -49,7 +53,7 @@ tags:
 
 ## Summary
 
-心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +88,21 @@ tags:
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch06]]
 
 ## Key Details From Sources
 
+- (A) 11. 李先生 71 歲,身體一向健康。近半年因經常發生暈厥而前來求 診。聽診時,於胸骨旁兩側的肋間可聽見心臟有射出性的收縮雜 音,伴隨第二心音有剝裂聲,此外,病患亦承認多次於勞動中 出現胸悶、心絞痛的情形,心電圖呈現左心室肥大和倒置 T 波, 血壓: 95/70 mmHg,各器官功能正常。綜合上列敘述,下列何 種處置不適宜? Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 情況:一位50歲的婦女,主訴這幾個月來常半夜突然心悸,同時呼吸困難,在過去2、3年內曾有2次腦中風病史,但並沒有任何神經學症狀遺留下來,心臟聽診時,心跳非常不規則,同時在心尖部聽到心舒期雜音,胸部X光檢查及心電圖檢查如圖示。依此回答下列第17題至第19題。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (A) 5. 一位洗腎病人血液中的鉀離子 6.2 mmol/L,心電圖中會觀察到下列何種現象? Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 【詳解】Hyperkalemia typical EKG findings。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 【詳解】運動心電圖是無症狀或症狀輕微者的 screening tool,不適合使用於產生明顯急性症狀的疑似心臟衰竭患者。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- ...心臟衰竭、心肌膿瘍或反覆性栓塞才是外科適應症。 (C) 26. 冠狀動脈疾病合併厲害的心臟衰竭時,要決定繞道手術是否有益 99(二)專 於病人,必須作下列何種檢查以判定梗塞後的心肌細胞是否仍然 醫五-13 存活 (viable)? (A) 心電圖檢查 (B) 超音波檢查 (C) 核醫檢查 (thallium scanning) (D) 心導管檢查 【詳解】Thallium scanning:藉由注射 thallium-201 並偵測其在 心臟的分布情形得知病患運動時和休息時的心肌血流灌注狀況, 也能用於判別心肌是否存活。 (C) 27. 在冠狀動脈繞道手術時,若同時使用兩側帶莖的內乳動脈(pedicle 99(二)專 internal thoracic artery),則在下列 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- ...冷汗直流,血壓 140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG 顯示有心房顫動,血液檢查:Hb 14 g/dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃⁻ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 - (B) 腹部核磁共振檢查 - (C) 腹部血管攝影檢查 - (D) 直接剖腹探查 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- 【詳解】心悸後腹痛,無緩解,PE 無腸音,EKG 發現有 Af => 懷疑是 Af 的 thrombus 打到腸子血管造成 acute thromboembolism。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 2. 鉀:正常血鉀濃度為 3.5~5.0 mEq/L。 - (1) 低血鉀 (hypokalemia): 症狀有噁心嘔吐、肌肉無力、ileus、橫紋肌溶解和多尿; 心電圖變化有 T 波變平坦、出現 U 波、ST segment 下降、APC/VPC。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -97,14 +113,6 @@ tags:
 - (A) 須考慮是否有任何身體疾病,在醫療的處置上,需先評估個 案的標準生化檢查、心電圖與甲狀腺功能檢查 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - 2. 心臟副作用: Chlorpromazine 會使 QT prolong、thioridazine 可能會導致 torsade de pointes,因此需要定期追蹤心電圖,當 QT interval 超過 0.44 ms,猝死 (sudden death) 的危險性增高。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 8. 心臟副作用: Ziprasidone 發現會使某些病人的心電圖 QTc 延長。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- ...methadone) 戒斷症狀較輕微,過量也不會抑制呼吸 醫四 -69 (B) 丁基原啡因(buprenorphine)可減弱或阻斷海洛因及嗎啡的 作用,且可帶回家自行服用 (C) 臨床上已不再使用 levomethadyl 是因為可能引起心電圖 QT 間隔延長及 Torsades de pointes (D) Naltrexone 可阻斷欣快感而減少病患尋求海洛因之行為,但 較缺乏使病患願意連續使用之機制 【詳解】由於美沙東會作用在 opioid $\mu$ receptor,因此過量也會 有抑制呼吸的危險。 100(一)專 (D) 47. 下列何者不屬於酒精戒斷症候群的可能表徵? 醫四 -72 (A) 幻覺 (B) 癲癇發作 (C) 焦慮 (D)縮瞳 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 6. 診斷:以外科方式治療為最終目標。 - (1) 胸部 X 光: 典型表現為靴子形狀(boot-shaped)心臟(但心臟大小正常)、肺血管紋減少,有時可以看到右位主動脈弓。 - (2) 心電圖:電軸右偏(顯示右心室肥大)。 - (3) 心臟超音波:可以用來確立診斷。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 屬於嚴重型的法洛氏四合症。但是沒有如典型 TOF 表現的心雜音。臨床發紺的嚴重度與側枝循環是否充足有關;側枝循環血液足夠的話病人發紺程度會較輕。此外,病人的心電圖呈現右心室肥大。在心臟超音波下病人右心室壁的增厚以及肺動脈閉鎖。胸部 X-ray 影像學下心臟不一定肥大,視肺血流量多寡而定。預後則視本身肺動脈大小而定,最終仍是要以外科方式治療。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- a. 心電圖:a frontal QRS axis between 0 and + 90 degrees,高而尖的 P 波 (right atrial enlargement) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 十二指腸閉鎖約 50~70% 有其它構造上的異常,如心臟、其它消化道或腎臟, 因此需再做心電圖、胸部 X 光影像學做仔細的評估。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...,進而造成血液 中的鈉離子被稀釋造成相對性的低血鈉。 (C) 4. 關於高血鉀(hyperkalemia)的處理,下列何者敘述錯誤? 106(二)專 (A) 停止所有鉀離子的補充 醫四 -20 (B) 若血鉀濃度高於 6.5 mEq/L, 心電圖可能先出現 peak T waves, 進一步可能出現 prolonged PR interval (C) 靜脈內注射胰島素改善高血鉀時,不可同時加葡萄糖點滴 (D) 若高血鉀對於藥物的反應不佳,應考慮透析治療 【詳解】靜脈注射胰島素、使用 β,-agonist 藥物可以把血漿中的 鉀離子趕到細胞內,但是要注意其副作用如低血糖、心搏過速 等。因此注射胰島素時須同時給予醣類補充。 (C) 5.15 歲男生為田徑隊員,在訓練 3 小時後,發 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (A) 3. 一位唐氏症(Down syndrome, trisomy 21)寶寶,經身體診查發 100( ) 專 現有收縮期心雜音(grade II/VI),胸部 X 光片顯示心臟擴大, 醫四 -5 心電圖呈現兩心室肥大及向上之 QRS 軸向(superior QRS axis)。 最可能的先天性心臟病為何? - (A) 心內膜墊缺損 (endocardial cushion defect) - (B) 第二型心房中膈缺損(secundum atrial septal defect) - (C) 主動脈幹 (truncus arteriosus) - (D) 主動脈弓窄縮(coarctation of aorta) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (A) 6. 一位 32 歲女性病人主訴最近 3 個月手指遇冷水或生氣時膚色便會轉 101(一)專 為蒼白色,同時覺得有些吞嚥困難,且半夜時常胃酸逆流到嘴裡。2 星期前,開始時常乾咳,且稍微運動便覺得喘。下列的檢查,那項 最不必要? - (A) 運動心電圖 - (B) 心臟超音波 - (C) 胸部 X 光 - (D) 肺功能檢查 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

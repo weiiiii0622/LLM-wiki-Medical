@@ -13,6 +13,9 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch13]]"
 aliases:
   - 'Tumor markers (腫瘤標記)'
   - 'Tumor markers'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,19 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch13]]
 
 ## Key Details From Sources
 
+- ...侵犯包膜(capsule)、血管和淋巴管。FNA 不易和腺瘤作區別。 - f. Hürthle cell carcinoma:濾泡癌的一個亞型,好發老年、好淋巴轉移且對 131I 有抗性。 - g. Thyroglobulin 也可作為其 tumor marker。 - h. 治療: - (a) Thyroid lobectomy:腫瘤 1 公分、多發性、大幅度侵犯包膜或血管、 遠處轉移。 - (c) Total thyroidectomy 後同樣作 Radioablation 和 thyroid hormone suppression。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...rcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | ( Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...| mucinous or signet-ring pathology > venous or perineural invasion > bowel perforation > aneuploidy nuclei > elevated CEA • Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 4. 術後追蹤: 術後 4 年內復發率高達 90%,每年 colonscopy、CEA,假使有異常則需作 CXR、CT、PET 去偵測是否有復發。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (D) 9. 一位 35 歲男性患者因持續右側腹痛就醫,經下消化道攝影發現 106(-)專升結腸有一蘋果核(apple core)般的病灶,下列何者是不需要 醫五-54的檢查? - (A) 大腸鏡切片檢查 (colonoscopic biopsy) - (B) 電腦斷層 (CT scan) - (C)癌胚胎抗原(CEA) - (D) 甲型胎兒蛋白(AFP) Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (B) 3. 一位 65 歲之女性病人在三年半前因 Dukes' B 直腸癌接受低前位 切除術治療,術後一年發生骨盆腔內左側壁之局部復發;經完整 療程的放射線治療後一直在門診接受三個月一次的定期追蹤, 並無任何自覺症狀,一切檢查包括血清 CEA 等也都正常。兩天 前突然發現有大便經由陰道排出,則最可能是何種診斷? Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - ...夠存活超過一星 | 105(二)專 | | 期,最常見之晚期死亡原因為何? | 醫五-4 | | (A) 嚴重頭部外傷 (B) 多重器官衰竭 | | | (C) 出血性休克 (D) 急性腎衰竭 | | | (A) 16. 下列關於癌症和它的腫瘤標記(tumor markers)之配對,何者 | 105(二)專 | | 錯誤? | 醫五-9 | | (A) carbohydrate antigen 19-9 (CA19-9) and ovarian cancer | | | (D) 1.1 C. (AED) 11 4 11.1 | | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (B) alpha fetoprotein (AFP) and hepatocellular carcinoma Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (C) carcinoembryonic antigen (CEA) and colon cancer Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
@@ -54,13 +67,6 @@ tags:
 - 3. 診斷:同臍膨出,出生前可以用超音波診斷,超過第 13 週時即可診斷。此外,母 親血液 AFP 會升高。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 抽血檢驗 CEA、CA-125、AFP 及 PSA Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - ...3 價陽性反應,下列何種術後輔助性治療最不恰當?(A) 放射治療(B) 化學治療(C) 荷爾蒙拮抗治療(D) 抗 Her-2 抗體治療 | 98(一)專醫三-38 | | 4. 承上題,該患者在術後一年半之例行追蹤檢查,第一次發現腫瘤指數 CA15-3 增高至 45k U/L (正常值 Folinic acid)+5FU+Oxaliplatin [FOLFOX]。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (C) 13. 一位 73 歲男性病人因腹瀉 2 個月並體重減少 10 公斤而由門診住院。門診超音波檢查顯示有多個肝腫瘤。大腸鏡檢查發現上行結腸有突起之腫瘤,病理檢查證實為腺癌。病人之 B 型肝炎、C 型肝炎標記陰性,胎兒蛋白正常,但癌胚胎抗原(CEA)為 1,160 ng/mL。病人腹部電腦斷層如附圖。下列何者為此病人之最適合之 Dukes 分期? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- A. 腫瘤標記 (Tumor marker) 192 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- #### A. 腫瘤標記 (Tumor marker): (Harrison 439, Table 66-5) Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- | | Tumor marker | 半衰期 | Cancer | Other condition | |------------|------------------|-----------|-----------------------|------------------| | Hormone | Calcitonin | 12 min | 甲狀腺癌 (Medullary ca.) | | | | β -нсс | 18~24 hr | 生殖細胞癌 (GCT), Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...使用大劑量類固醇及放射線治療(B) 愈早開始進行治療,則日後病患之神經學症狀能改善的機會也愈大 (C) 高血鈣症(hypercalcemia)之治療,包括限制水分攝取、使用利尿劑及 bisphosphonate 類藥物 (D) 腫瘤指標如 CEA(carcinoembryonic antigen)、PSA(prostate specific antigen)可以幫助鑑別診斷 【詳解】高血鈣的治療是水分補充,而非限水。 | 96(二)專醫三-60 | | (A) | 9. 最常造成上腔靜脈症候群(superior vena cava syndrome)的惡性病為: (A) 肺癌(Lung cancer) (B) 淋巴瘤(Lymphoma) (C) 原發性縱隔腔胚細胞瘤(Prima Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- C. **其包含四種疾病**: 僵直性脊椎炎(AS)、反應性關節炎(ReA)、乾癬性關節炎(PsA)、發炎性腸炎相關之關節炎等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- (1) 關節炎:不對稱,好發下肢關節,如 Knee、Ankle、MTP等。(DDx.: AS 好發下肢關節、PsA 好發上肢關節) Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

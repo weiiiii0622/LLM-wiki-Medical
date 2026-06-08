@@ -21,6 +21,9 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch25]]"
 aliases:
   - 'Complement system (補體系統)'
   - 'Complement system'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,16 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch25]]
 
 ## Key Details From Sources
 
+- (7) Stage C3: Stage C3 +淋巴轉移。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- ...| | | T1-T2 | N2b | M0 | C1 | | | IIIC | T4a | N2a | M0 | C2 | | | | T3-T4a | N2b | M0 | C2 | | | | T4b | N1-N2 | M0 | C3 | | | IVA | Any T | Any N | M1a | D | mucinous or signet-ring pathology > venous or perineural invasion > bowel perforation > aneuploidy nuclei > elevated CEA • Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- Inflammation phase (發炎期):一受傷即同時開始發炎期,微血管通透性增加,白血球被 complement、TGF-β、IL-1、IgG、PDGF等吸引過來(趨化 chemotaxis)進行吞噬作用 (phagocytosis)。先以 neutrophil 為主,接著以 monocytes (受傷後第24至第48小時)和 macrophage (第48至第72小時)主導,lymphocyte 較晚點(第72小時以後)參與作用,此時期以 neutrophil、monocyte和 macrophage 為主要細胞。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - ...ve • - (d) Hoffman's sign:輕彈中指,會引起大拇指及食指彎曲。 - (e) Tandem gait : unstable • - e. 最常造成頸椎神經根壓迫的位置依序為 C6-7 > C5-6 > C7-T1 > C4-5。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...----------------|-------------------|---------------------------------------------| | C1-4 | 頸部肌肉 (neck muscle) | | | | C3, 4, 5 | 横膈肌 (diaphragm) | 吸氣、TV、FEV、VC | | | C5 , 6 | 三角肌 (deltoid) | 局部外展 > 90° | | | C5 , 6 | 二頭肌 (biceps) | 手肘彎曲 | biceps jerk | | C6 , 7 | 伸腕橈肌 (extensor carpi radialis) | 手腕伸張 | supinator jerk | | C7, 8 | 三頭肌 (tric Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (A) C3 以上的受傷通常會導致窒息(apnea) Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -73,10 +83,6 @@ tags:
 - ...| Kawasaki disease)孩童最少發生? | 103(一)專 | | | , , , , , , , , , , , , , , , , , , , , | (B) 膿尿(pyuria) | 醫四 -28 | | | (C) 補體 C3、C4 下降 | | | | 1 | C3、C4 下降情形。 | 非自體免疫性疾病,故不會有發生 | | | : | 有米粒至豌豆大小斑丘疹,並 | 量咳嗽,眼睛發紅,臉部與軀幹部短無水泡,頸部淋巴腺腫大。上述描近且較少見於川崎氏病(Kawasaki | 102(一)專醫四-1 | | ( | (A) 咳嗽 | (B) 皮疹大小形狀 | | | | (C) 眼睛發紅 | (D) 頸部淋巴腺腫大 | | | | 童曾經發燒5天,身上 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 血尿若合併出現水腫、高血壓或是明顯的蛋白尿,則意味著**腎絲球腎炎**。初步 評估包括 CBC (排除溶血性尿毒症候群)、尿液沉澱分析 (sediment)、喉嚨細 菌培養、鏈球菌酶試驗 (Streptozyme)、補體濃度 (考慮 PIGN)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 2. 病因:絕大部份為免疫複合體沉積在腎絲球上後,引發後續的免疫反應造成(eg. complement activation、leukocyte recruitment、release of growth factor or cytokines)。 後續引發不同的免疫反應造就不同的疾病的病生理機轉。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (4) 血漿 C3 補體濃度為正常; 血漿 IgA 濃度僅有 15% 會上升, 故血漿 IgA 無法做診斷工具。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- | | 主要 T-CELL 缺陷 | 主要 B-CELL 缺陷 | GRANULOCYTE 缺陷 | COMPLEMENT缺陷 | |-----|-----------------------|-----------------|-------------------------|---------------------| | 開始發 | 發病早,通常 2~6 | 媽媽的抗體保護減 | 發病早 | 任何年齡皆可能 | | 生感染 | 個月大時發病 | 少後發病,通常在 | | | | 的年齡 | | 5~7個月大以後, | | | | | , | 也可能 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- | | 主要 T-CELL 缺陷 | 主要 B-CELL 缺陷 | GRANULOCYTE缺陷 | COMPLEMENT缺陷 | |----|---------------------|----------------------|-------------------------|-------------------| | 檢驗 | * Absolute | * IgA, IgG , IgM | * Screening test: | * Screening test: | | | lymphocyte count | level | respira Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (D) 補體缺損易有自體免疫疾病,其中 alternative pathway deficiencies 最常合併發生自體免疫疾病 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

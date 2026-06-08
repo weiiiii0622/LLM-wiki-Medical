@@ -9,6 +9,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch10]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch02]]"
 aliases:
   - 'Takayasu arteritis (高安氏動脈炎)'
   - 'Takayasu arteritis'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,17 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch10]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch02]]
 
 ## Key Details From Sources
 
+- b. Blalock Taussig shunt (B-T shunt): 分流手術。 - (a) 為 palliative surgery, 將 subclavian artery 和 pulmonary artery 接在一起, 引流部分 subclavian artery 血液至肺部增加 pulmonary blood flow,增加回心的含氧血。(下圖 A) - (b) 但接久了 subclavian artery 會變大,使得肺血流太多導致肺高壓。故可改用人工血管(modified B-T shunt),減少肺高壓的情形。(下圖 B) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- d. 常見的成年患者開刀原則是以肺血流量 / 全身血流量(Qp/Qs)的值來決定(正常時:Qp/Qs = 1): - (a) Qp/Qs > 2,表示由 left to right shunt 嚴重,則建議開刀治療。 - (b) Qp/Qs = 1.5~2 之間,則建議藥物治療再加上密切的追蹤。 - (c) Qp/Qs type A(43%) > type C(4%)。 - a. Type A: 斷在左鎖骨下動脈遠端。 - b. Type B: 斷在左總頸動脈與左鎖骨下動脈(left subclavian artery)之間。 - c. Type C:斷在左總頸動脈(left common carotid artery)和主動脈之間。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (1) Type A:從 left subclavian artery 到第六肋間之間。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (1) Type I: left subclavian artery 到腎動脈之間。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (2) Type II: left subclavian artery 到 iliac bifurcation。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - ...(A) 內頸靜脈(internal jugular vein) | | | | | (B) 股靜脈(femoral vein) | | | | | (C) 頭靜脈 (cephalic vein) | | | | | (D) 鎖骨下靜脈 (subclavian vein) | | | | | 【詳解】頭靜脈管徑小,不宜大量輸液。 | | | (D) | 6. | 外傷病人的眼睛受痛刺激時會睜開,對刺激無言語反應(no | 106(二)專 | | | | response),對痛的刺激只有退縮反應(withdrawal)。昏迷指數 | 醫五 -2 | | | | (Glasgow coma scale, GCS) 為何? | | | | | (A) 8 | | | | | (B) 9 | | Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - (C) 高安氏動脈炎 (Takayasu's arteritis) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 【詳解】(A) 源自於 subclavian artery。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].

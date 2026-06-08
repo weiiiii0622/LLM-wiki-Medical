@@ -16,6 +16,8 @@ sources:
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Pancreatic cancer (胰臟癌)'
   - 'Pancreatic cancer'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,13 @@ tags:
 - [[sources/med3-book4-ch25]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- ...epair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total abdominal hysterectomy 和 bilateral salpingo-oophorectomy。 - (c) Subtotal colectomy • Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 2. 病因: - (1) 醫源性(iatrogenic): 最常見的原因,長期服用含類固醇的止痛藥所致,造成體內 glucocorticoid 過量。 - (2) Cushing disease: 佔非醫源性病患 65~70%。腦下垂體前葉腺瘤或是增生,過度分泌 ACTH,造成雙側腎上腺增生,分泌過量 cortisol。 - (3) 腎上腺腫瘤:佔非醫源性病患 10~20%。Adrenal adenoma 或 carcinoma,不受 ACTH 控制,分泌大量 cortisol。ACTH 反而因受到回饋抑制而濃度降低,腫瘤 周圍的正常腎上腺皮質也會萎縮。 - (4) 異位性(ectopic) ACTH:身體其他部位有會分泌 ACTH 的來源,例如小細胞 肺癌、類癌、胰臟癌、胸腺癌、甲狀腺髓質癌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 【詳解】CA199 為胰臟癌的 tumor marker。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...2(一)專 | |-------------------------------------------------------|---------| | (A) Carbohydrate antigen 19-9(CA19-9)通常用來當胰臟癌的 | 醫五 -8 | | tumor marker | | | (B) Carcinoembryonic antigen (CEA) 臨床上常用來監測大腸直 | | | 腸癌 | | | (C) α-fetoprotein 在胎兒時會下降,出生後會逐漸上升,懷孕時 | | | 會下降 | | | (D) CA-125 在子宮內膜異位和肝硬化的病患會上升 | | | 【詳解】(C) $\alpha$ -fetoprotein 懷孕第四週 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (3) 合併惡性腫瘤之肌炎(20%) - a. 罹患成人型的皮肌炎者/多發性肌炎者,合併惡性腫瘤的機會較高,包括肺癌、子宮頸癌、卵巢癌、胰臟癌、胃癌與膀胱癌等,而台灣等東南亞地區尤其以合併鼻咽癌為最多。但其真正原因則有待進一步研究,病人應定期做各部位之癌症篩檢,包括:乳房、卵巢、子宮、肺、胃、大腸及鼻咽等,以便能早期發現與治療,提高治癒機會。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -65,8 +71,6 @@ tags:
 - (A) 1. 關於胰臟癌的敘述,下列何者正確? Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 - (A) 抽菸是胰臟癌的重要危險因子,約有 20~25%的胰臟癌與抽菸 有關 醫三-21 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 - (B) 大約有 80% 以上的胰臟癌有遺傳傾向,如 germline mutations: STK11 gene、BRCA2、p16/CDKN2A、PALB2 等 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
-- ...(C) 息肉可能變大或出血,造成腸阻塞或腸套疊 (D) 息肉本身就是一種惡性病變,因此要將所有息肉切除乾淨 【詳解】(D) 息肉本身是良性,但病患一生中有 37~93% 發生癌症,最常見依次是大腸直腸癌、乳癌(腸胃道中最多)、胃癌、小腸癌、胰臟癌。 | 99(一)專醫三-17 | | (D) | 7. 下列關於潰瘍性大腸炎(ulcerative colitis)之敘述,何者錯誤? (A) 患者常解血便 (B) 常侵犯直腸 (C) 主要病灶在腸之黏膜層(mucosa) (D) 好發生在國人 | 98(一)專醫三-21 | | (B) | 8. 下列有關克隆氏病(Crohn's disease)之敘述,何者錯誤? (A) 易併發瘻管(fistula)及腸阻塞 (B) 腸內的病灶為連 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- ...看是否有 biliary dilatation。 - a. 若有,則懷疑是 **biliary duct obstruction**,如:CBD stone(Choledo-cholithiasis)、Cholangiocarcinoma、Pancreatic cancer。 - b. 若無,則懷疑是 **Hepatocellular dysfuction**,如:Sepsis、Post OP、PBC、藥物(Sex hormone、Erythromycin)造成 intrahepatic cholestasis。理由是當敗血症等狀況使 肝臟負荷量過大時,因為 excretion 功能最耗能,所以就會最先出現問題,導致 cholestasis,而有 conjugated bilirubin 上升;另外,一些 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
 
 ## Clinical Caveats
 

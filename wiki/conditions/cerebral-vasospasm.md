@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book2-ch27]]"
 aliases:
   - 'Cerebral vasospasm (腦血管痙攣)'
   - 'Cerebral vasospasm'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-SAH 後 delayed vasospasm 可造成 delayed cerebral ischemia。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SAH 後 delayed vasospasm 可造成 delayed cerebral ischemia。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book2-ch27]]
 
 ## Key Details From Sources
 
+- 4. 因此皮瓣術後照顧相當重要,重點大至如下: - (1) 給病人補充足夠水分。 - (2) 避免發生血管痙攣:房間保持溫暖、避免吃時用咖啡、巧克力和茶。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (D) 1. 傳統預防腦動脈瘤破裂出血後的腦血管痙攣(cerebral vasospasm) 108( ) 専有所謂的 "Triple-H" therapy,下列何者不包含於 Triple-H ? - (A) hypervolemia - (B) hypertension - (C) hemodilution - (D) hyperventilation Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (C) 7. 除了再出血外,動脈瘤破裂的病人最常出現嚴重後遺症及死亡的 103(ニ)専原因為: - (A) 水腦 (hydrocephalus) - (B) 癲癇 (seizure) - (C) 血管攣縮 (vasospasm) - (D)頭痛 (headache) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (D) 11. 下列何者不是內頸動脈結紮(Internal carotid artery ligation)的禁忌症(contraindication)? - (A) 嚴重低血容症 (Severe hypovolemia) - (B) 最近有蜘蛛膜下腔出血(Evidence of recent SAH) - (C) 腦血管攝影有腦血管痙攣跡象 (Evidence of cerebral vasospasm on the arteriogram) - (D) 頸動脈顳骨岩部之創傷性動脈瘤剝離(Traumatic dissecting aneurysm of the petrous carotid artery) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].

@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Lipid profile (血脂檢查)'
   - 'Lipid profile'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book1-ch01]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...尿管結石去過急診,最近常感到倦怠、四肢肌肉無力, 醫五-47 則下列何種檢查,較無診斷價值? (A) 血鈣濃度 (B) 血中鹼性磷酸酶 (alkaline phosphatase) 濃度 (C) 血中副甲狀腺素(iPTH)濃度 (D) 血中三酸甘油脂(triglyceride)濃度 (D) 12. 下列何者與血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維他命 D (C) 抑鈣激素 (D) 雌性激素 (C) 13. 一位 57 歲的尿毒症病患,5 年來持續接受血液透析治療,直到 99(二)專 2個月前接受了腎臟移植手術。最近他開始出現皮膚搔癢、腹痛、 醫五-58 骨頭酸痛等現象,抽血檢查鈣值為 12 mg/dL。下列何者是此患 者最可能的診斷? Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (4) Omega-3 為不飽和脂肪酸,含有多種脂肪酸,其中 EPA(二十碳五烯酸)、 DHA(二十二碳六烯酸)及 α-Linolenic acid(次亞麻油酸)對人體很重要,可 從魚油獲得。EPA 可以降低血液黏稠度、降血壓、降三酸甘油脂等心血管疾病 保護作用; DHA 直接影響心臟、腦部、眼睛、神經系統、腎臟的正常運作。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...巨噬細胞之能量來源。是維持腸道黏膜完整和免疫功能的重要物質,在 stress 和敗血症時含量會很明顯地下降。 - (5) Arginine:為一氧化氮(NO)的原料來源,促使血管舒張減少心臟輸出的負荷, 緩和心紋痛的狀況,降低低密度脂蛋白(LDL)氧化,另外能促進傷口癒合, 以及促進免疫系統分泌自然殺手細胞、吞噬細胞和 interleukin-1。 - (6) 支鏈胺基酸 (Branched-chain amino acids, BCAA):包括 Leucine, Isoleucine, Valine 均屬必須胺基酸,可直接由骨骼肌代謝產生能量而非肝臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - ( Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - 【詳解】水溶性纖維可與脂肪酸結合,降低膽固醇總量和 LDL 膽固醇,延長食物在胃中停留的時間,從而減慢糖分釋放及被吸收的速度,有助糖尿病患者控制血糖。非水溶性纖維能幫助食物渣滓通過腸道,防止便秘,控制及平衡腸道的酸鹼值,防止微生物產生致癌物質,有助預止結腸癌。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
@@ -69,8 +75,6 @@ tags:
 - ...腹部肥胖:腰圍>90(男)/80(女)cm或腰/臀>0.9。 - b. 高血壓 (BP > 130/85 mmHg 或已服用降壓藥),高血糖 (空腹血糖 > 100 mg/dL 或已服用降血糖藥),高血脂 (TG > 150 mg/dL、HDL dL | 100~125 mg/dL | ≧ 126 mg/dL | | 兩小時葡萄糖耐受時驗 (OGTT) | 正常人 | Impaired glucose tolerance (IGT)葡萄糖耐受失調 | 糖尿病 | | (喝下75g葡萄糖水之後兩小時) | dL | 140~199 mg/dL | ≧ 200 mg/dL | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (2) 有高血壓( $\ge$ 140/90 mmHg 或已在吃血壓藥)、血脂異常(TG > 250 mg/dL、HDL 4kg)、有多囊性卵巢症。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - ...的敏感度→抑制肝臟糖質新生(Gluconeogenesis) →糖質新生為空腹血糖來源,故 Metformin 可降空腹血糖。另外也增加組織(肌肉) 對胰島素敏感度,以增加其對血糖的利用。 - b. 優點:首選用藥,較不會造成低血糖且改善 lipid profile,降低心血管風險。 - c. 缺點: - (a) 最常見的是在剛開始服用時,常引起腹瀉、噁心感。 - (b) 最嚴重副作用則是乳酸中毒(Lactic acidosis)。雖此藥被列為第一線,但心 肝腎較差、酗酒、老年人為乳酸中毒高風險。 - (c) eGFR 2 禁用, eGFR 30~45 mL/min/1.73 m2 減量(每日最大 1,000 mg); 80 歲以上老人過去從未用過,不建議使用。 - (2) TZD (Glitaz Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- ...| Alkaline phosphatase ↑ , LDH ↑ , AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝↑,血糖↑,脂肪酸↑ | 基礎代謝↓ | | | 膽固醇↓,三酸甘油脂↓ | 膽固醇↑,三酸甘油脂↑ | | 血球 | 造血增加+代謝增加→貧血 | 造血減少→貧血 | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- (D) 6. 下列有關急性胰臟炎(acute pancreatitis)的生化檢查可能出現的變 102(-) 專 化,何者錯誤? - (A) 血清澱粉酶 (amylase) 及脂肪酶 (lipase) 上升,大於正常值 三倍 - (B) 血清三酸甘油脂 (triglyceride) 大於 1,000 mg/dL - (C) C- 反應蛋白 (C-reactive protein) 上升 - (D) 脂肪酶上升 2-3 天後下降, 澱粉酶上升 7~14 天後下降 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 
 ## Clinical Caveats
 

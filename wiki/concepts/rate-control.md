@@ -12,6 +12,9 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Rate control (心率控制)'
   - 'Rate control'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-AF 等心律不整控制心室反應速率的策略。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AF 等心律不整控制心室反應速率的策略。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,15 @@ AF 等心律不整控制心室反應速率的策略。 本頁已整合至 `醫(�
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- a. 可用 Digoxin、利尿劑、血管擴張劑等來控制心衰竭,一般追蹤到一至兩歲 左右假使 VSD 自然閉合的機率不大則來決定是否開刀。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (A) 藥物療法除了心率控制以外,須包括抗凝血療法以減少血栓 產生 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (B) 22. 使用毛地黃(digoxin)藥物時,下列何者較少會加重毛地黃的 104(-)專毒性?醫四-31 - (A) 高血鈣 (hypercalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...aCl 2 )靜脈注射,不適合用於下列何種病況的治療? (A) 高血鉀(hyperkalemia) (B) 高血鎂 (hypermagnesemia) (C) 氫氟酸 (HF, hydrofluoric acid) 中毒 (D) 毛地黃 (digoxin) 中毒 【詳解】低血鉀、高血鈣會加重毛地黃中毒。 | 102(一)專醫三-65 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...omycin 與 theophyllin | e 併用會增加 theophylline 毒性 | | | | | , , , , , , , , , , , , , , , , , , , , | A | | | | | | zole 與 digoxin 併 用 可 能 會 發 生 | | | | | digoxin 毒性反應 | | | | | | | Ħ會增強 fluoroquinolone 藥效 | | | | | 【詳解】(D) Fluoroquinolone 身 | 與制酸劑併用會減弱 fluoroquinolone | | | | | 茲於方。 | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

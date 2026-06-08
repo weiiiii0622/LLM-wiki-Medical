@@ -13,6 +13,8 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Peripheral nerves (周邊神經)'
   - 'Peripheral nerves'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med5-book2-ch27]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- (C) 可修補周圍神經(peripheral nerves) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- (D) 26. 人體組織對缺氧的耐受性不同,下列何者耐受性最差? - (A) 皮膚 - (B) 皮下組織 - (C) 肌肉 - (D) 周邊神經 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- (D) 14. 周邊神經(peripheral nerve)完全切斷是屬於 Sunderland 分類的那一類損傷? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - 2. 腦神經、脊神經及周邊神經腫瘤(tumor of cranial, spinal and peripheral nerves) - (1) 許旺氏細胞瘤 (schwannoma): 許旺氏細胞 (Schwann cell)。 - (2) 神經纖維瘤 (neurofibroma): 許旺氏細胞、纖維母細胞。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的糖類,也有肝臟保護的作用,有利於病人對手術的耐受。術 後糖類的補充是最易消化吸收,對術後消化功能欠佳者更為適宜。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - 2. 周邊神經阻斷:用酒精或石炭酸注射可暫時止痛。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].

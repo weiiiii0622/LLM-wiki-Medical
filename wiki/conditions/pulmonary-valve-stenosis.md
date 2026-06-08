@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Pulmonary valve stenosis (肺動脈瓣狹窄)'
   - 'Pulmonary valve stenosis'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-右心室出口瓣膜層級狹窄，可造成收縮期雜音、右心室肥大與發紺。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+右心室出口瓣膜層級狹窄，可造成收縮期雜音、右心室肥大與發紺。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- (D) 1. 下列那些先天性心臟病若不及時手術,可能會發生所謂的 Eisenmenger syndrome,最後需要心肺移植?①肺動脈瓣狹窄 ②心室中隔缺損 ③動脈幹症(truncus arteriosus) ④開放性動脈導管 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- ① 肺動脈瓣狹窄 通常合併 ASD 或 VSD, 右心室血流不進去 肺動脈,會改由其他孔道進入左心,左心混入來自右心大量 缺氧血很早就使患者發紺,但不涉及肺部血管硬化的機轉,與 Eisenmenger syndrome 致病機轉無關。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...**VSD、主動脈跨位**到右心室造成**肺動脈血流受阻** (Right ventricular outflow tract obstruction, including infundibular stenosis, valvular pulmonary stenosis, and sometimes supravalvular pulmonary stenosis),最後造成右心室肥大。當肺動脈血流阻塞甚至造成 pulmonary atresia 時,除了靠 patent ductus arteriosus (PDA) 外甚至還需要靠 major aortopulmonary collateral arteries (MAPCAs) 才可能有較足夠的血液打入肺部血管。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) Tetralogy of Fallot with Severe Pulmonary Valve Stenosis • Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

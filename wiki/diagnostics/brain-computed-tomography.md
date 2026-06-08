@@ -24,6 +24,14 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med5-book1-ch16]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book2-ch19]]"
 aliases:
   - 'Brain computed tomography, brain CT (腦部電腦斷層)'
   - 'Brain computed tomography, brain CT'
@@ -38,7 +46,7 @@ tags:
 
 ## Summary
 
-急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +70,27 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch10]]
 - [[sources/med5-book1-ch16]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch18]]
+- [[sources/med5-book2-ch11]]
+- [[sources/med5-book2-ch19]]
 
 ## Key Details From Sources
 
+- (D) 4.50 歲男性病患主訴,有高血壓病史,未接受規則性之治療,3 星期前有突發性撕裂性背痛至今仍舊無法緩解。電腦斷層顯示如下圖,下列診斷及治療何者錯誤? Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (B) 診斷的方式包含主動脈攝影、食道超音波、電腦斷層或核磁 共振,診斷的 sensitivity 及 specificity 皆有 80% 以上 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (B) 9. 趙先生 59 歲,晚餐後突感前胸劇痛,並延伸到後背,經救護車送到醫院急診。趙先生除高血壓外並無其他病史。理學檢查發現意識清楚,血壓 180/50 mmHg,心跳 96 / 分,呼吸 18 / 分,頸靜脈平坦,胸骨左側有心縮期及心舒期雜音。胸部 X 光發現縱膈腔寬度約 8.5 公分。趙先生在胸部電腦斷層掃描檢查後又感胸痛,此時血壓下降至 110/50 mmHg,心跳 130 / 分,呼吸 25 / 分,頸靜脈怒張,下列何者是適當的處置? ①立即心臟超音波檢查 ②給予 propranolol 及 sodium nitroprusside 治療 ③緊急手術 ④送入加護病房觀察並接受藥物治療 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (3) 血管攝影、電腦斷層:適合診斷和術前計畫評估。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...--------------------------------------------------|------------------| | (A) 6. | 承上題,要作進一步確定診斷(A)靜脈杜普勒超音波檢查(B)靜脈血管攝影(C)電腦斷層掃描(D)核醫檢查 | | 102(一)專醫五-27 | | (C) 7. | | 是一種須緊急手術的對象,為避免最遲在完全阻塞發生之後幾個小時(B) 3~5(D) 9~12 | 101(二)專醫五-16 | | (C) 8. | | | 101(二)專醫五-18 | | 情況: | 就好了(Intermittent claudical | 年前開始右下肢在走一段路之後會疼痛tion),最近右腳傷口癒合不佳,身體核肖為差些(比起左邊)。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (A) 14.75 歲的張三,昨天午睡起來突然腹痛難耐而被送醫。急診處醫師 發現他心律不整,有心雜音,腹部壓痛。先進行電腦斷層(CT) 掃描。並為病情處置需要,馬上安排腹部血管攝影。影像如附 圖。張先生最有可能罹患: Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (C) 1. 一位 50 歲高血壓男性接受電腦斷層檢查時,意外發現左腎上腺有一 2 公分腫瘤,內部均匀、邊界清楚、且為低密度性腫瘤,臨床醫師懷疑為腎上腺腺瘤(adenoma)合併原發性高醛固酮症(primary hyperaldosteronism),下列敘述何者錯誤? Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- (C) 要區分是單側腎上腺腺瘤或雙側腎上腺增生,除電腦斷層外,40歲以下患者建議常規接受腎上腺靜脈取樣(adrenal vein sampling)檢查 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- (B) 4.54 歲男性因嚴重高血壓合併低血鉀症多次來急診室處理,初步 106(-)專 診斷疑有 hyperaldosteronism,手術前的病灶定位以何者之敏感 醫五-42 性(sensitivity)最高? - (A) 超音波掃描 - (B) 電腦斷層掃描 - (C) 鉈掃描 (thallium-201 scan) - (D) 血管造影術 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- (A) 3.60 歳趙先生(意識清楚)健康檢查時發現胸部 X 光片之縱膈腔 103(ニ)専8公分寬。下列敘述何者正確? 警五-23 - ①安排胸部電腦斷層檢查 - ②胸部降主動脈瘤為可能診斷之一 - ③手術前,醫師可應趙先生之書面要求而不將其手術危險性告 知其分居之配偶 - ④主動脈內血管支架 (endovascular aortic graft) 不可用於胸部 降主動脈瘤之治療 - (A) ①②③ (B) 僅①③ (C) ②④ (D) 僅④ Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 7. 影像學檢查: - (1) Brain CT • - (2) Spine file: C-spine \ T-spine \ L-spine \ \ - (3) Skull X-rays: Skull lateral view · Waters view · Caldwell view · - (4) MRI • Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (C) 1. 一位小朋友左眼遭棒球擊中,眼眶部位立即腫大,結膜下出血, 109( ) 專 左眼球無法向上移動,下列敘述何者錯誤? - 醫五-15 - (A) 小朋友可能有眼眶下緣骨折 (infra-orbital rim fracture) - (B) 小朋友可能有眼眶底部骨折 (orbital floor fracture) - (C) 左眼球無法向上移動是因為上直肌卡在眼眶底部骨折 - (D) 小朋友需要接受眼眶電腦斷層檢查(orbital CT) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (A) 4. 一位 68 歲男性因跌倒送來急診,意識狀態模糊,對痛刺激眼睛會張開,且左手會撥開痛刺激,但不會出聲,頭部電腦斷層如下圖所示,下列何者正確? Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
@@ -73,16 +99,6 @@ tags:
 - (C) 腦部電腦斷層血管照影(computed tomography angiography) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 即手術。也可作泌尿系統攝影(IVP)判斷泌尿系統是否受損。如病人生命 象徵穩定,腹部檢查正常,則應作 CT,假使正常仍需持續追蹤病狀,因腹 內空腔器官或橫膈膜破裂早期在電腦斷層常常顯示不出來。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - ...| | | | | (C) 喘鳴(stridor) | (D) 脈搏增快 | | | | | | | 【詳解】脈搏增快的原因有 | 許多,須排除掉其他可能性。 | | | | | | (D) | 4. 外傷病人有下列何種情況時 | 不做腹部電腦斷層攝影檢查 | 107(一)專 | | | | | | (abdominal computed tomog | graphy)? | 醫五-5 | | | | | | (A) 腹部鈍挫傷(abdominal | blunt trauma) | | | | | | | (B) 評估是否有胰臟受傷 | | | | | | | | (C) 身體評估無法判斷腹部是 | 是否受傷 | | | | | | | (D) 病人血壓為 65~72 mmHg Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- ...) 7. 一位 50 歲男性的卡車司機,因打瞌睡於高速公路追撞前方聯結 車,卡在前座達 20 分鐘,到達急診時,血壓 80/40 mmHg、意識 醫五-76 清楚但躁動不安、腹部脹大、左腿變形,下列何項敘述最不適當? (A) 應立即進行腦部電腦斷層檢查 (B) 床邊腹部超音波可用於加速手術的決定 (C) 中心靜脈導管的放置不應拖延進手術室的時間 (D) 血氧飽和度 92% 可因為血壓低,故僅供參考 【詳解】先以穩定 ABC、vital sign, FAST 尋找潛在出血處, Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- (1) X光:有機會發現腫瘤本身鈣化、顱骨的增生肥厚(hyperostosis)或顱骨遭到破壞,但是比較準確的檢查則以腦部電腦斷層或核磁共振掃描為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- (B) 4. 如圖, 這是一位 70 歲男性的腦部電腦斷層, 其左側大腦的病變 (箭頭所示)所造成的語言障礙是: - (A) 表達困難, 說話不流暢, 但聽 得懂別人的話 - (B) 講話流利,但聽不懂別人的話 - (C) 只有命名的困難 - (D) 只是不會重覆別人的話 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (B) 5. 這是一位慣用右手的 68 歲男性的腦部電腦斷層(沒打顯影劑), 98(-)專他的語言障礙最可能是:警四-57 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (C) 2. 一位 52 歲男性突然發生右手的辨距不良(dysmetria),經頭部電腦斷層檢查發現是中腦左側紅核(red nucleus)附近的小出血。 幾個月後,此患者出現喉部不自主的動作,檢查發現軟腭出現 很有節奏性的 2~2.5 Hz 向上收縮的動作。頭部核磁共振造影檢 查最可能的發現是: 108(一)專 醫四-53 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (A) 19.70 歲女性,有高血壓、心房震顫病史,早上起床時,突然發生短 104(二)專 暫性右側肢體無力,約5分鐘後完全復原,至門診求診,經腦部 醫四-48 電腦斷層檢查正常後,下列何者處置較不適宜? - (A) 應長期使用抗血小板藥物治療 - (B) 應長期使用抗凝血劑治療 - (C) 應長期使用降血壓藥物治療 - (D) 安排頸部血管超音波檢查 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (D) 22. 一位 45 歲病患,在中風症狀發生後 1 小時之內被送到某醫學中心。經過頭部電腦斷層檢查、急診科與神經內科醫師的評估後,病患符合施打血栓溶解劑 r-tPA 的條件,家屬很焦急的詢問有關r-tPA 的禁忌症。下列何者非急性梗塞性腦中風(acute stroke)病患使用 r-tPA 的絕對禁忌症? - (A) 先前曾經有過腦出血 - (B) 有胃潰瘍病史 - (C) 1 個月前有缺血性腦中風 - (D) 3 週前動過顱內手術 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (A) 31. 一位 63 歲男性被家人送入急診,主訴為 1 小時前出現突發性右側偏癱與講話不清。病人意識清楚,血壓為 185/105 mmHg,血糖值為 106 mg/dL,你立即為病人安排了腦部電腦斷層。按照 2005年美國心臟醫學會指引(American Heart Association guidelines),從病人進急診算起,多少時間內你需判讀完電腦斷層? - (A) 45 分鐘 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (A) 14. 一位 75 歲輕度失智老人,於一年前其認知障礙漸進發生且逐漸 103(二)專 惡化,於近半年動作緩慢易跌倒,常有意識混亂及幻覺的現象。 醫四 -53 神經學檢查驅幹僵直,四肢輕微顫抖。電腦斷層掃描顯示大腦 泛發性萎縮。病人最可能罹患下列何種病? (A) 路易體失智症 (dementia with Lewy bodies) (B) 阿茲海默症(Alzheimer disease) (C) 常壓性水腦症 (normal-pressure hydrocephalus) (D) 庫賈氏症 (Creutzfeldt-Jakob disease) (D) 15. 下列有關阿茲海默症(Alzheimer's disease)之敘述,何者錯 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

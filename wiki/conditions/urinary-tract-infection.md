@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book2-ch11]]"
 aliases:
   - 'Urinary tract infection, UTI (泌尿道感染)'
   - 'Urinary tract infection, UTI'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch01]]
+- [[sources/med5-book2-ch11]]
 
 ## Key Details From Sources
 
+- (a) 腸道膀胱瘻管(enterovesical fistula): 憩室炎即為造成腸道膀胱瘻管的最常見原因, 而憩室炎最常產生 fistula 的器官就是膀胱。 - i. 症狀:UTI、尿中含空氣(pneumaturia)、尿中含糞便(fecaluria)。 - ii. 診斷: CT 發現膀胱內有空氣或糞便。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (A) 抗生素可以預防尿路感染(urinary tract infection) Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...良者之腹腔內感染比較有發生併發症的風險 | 106(一)專醫五-7 | | (C) | 11. | 下列敘述,何者正確? (A) 植入物(prosthesis)相關的感染通常發生在肺部 (B) 手術後發燒需立即給予抗生素 (C) 尿路感染(urinary tract infection)是手術後最常見的非手術感染(nonsurgical infection) (D) 選擇抗生素做經驗性治療(empirical treatment)時,最好是同時使用抗厭氧菌的抗生素 | 105(二)專醫五-2 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -78,7 +81,6 @@ tags:
 - ...syndrome | | | Rotor syndrome | | | | Galactosemia | | | | 2. 感染 | | | | Rubella, CMV, herpes | | | | virus, | : | | | UTI due to E. coli, | | | | toxoplasmosis , syphilis | | | | 3. 全靜脈營養 (TPN) | | | | 4. 其它:shock、 | | | | hemotochromatosis | | | Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 【詳解】有血尿及蛋白尿懷疑有 nephritis,加上關節炎及慢性 systemic 徵兆 (發燒),又是年輕女性,因此首先考慮 SLE,驗 dsDNA 有助診斷。而 systemic inflammation 就有可能造成 pyuria,但為排除泌尿道感染,仍應做小便培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...itrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | | Ifosfamide → 肉癌 (Sarcoma) | 出血性膀胱炎 | | | CCNS | | mustards | Melphalan→多發性骨髓瘤 (MM) | | | | CCNS | | Other | Carmustine (BCNU) · Lomustine (CCNU) | 延遲的骨髓抑制 | | | | | 4 4 12 | Doxorubicin→淋巴瘤 (CHOP)、乳癌、肉癌 | | | | | Antitumor | Anthracycline | Idarubicin → Source: [[sources/med3-book4-ch19|乙、化學治療]].
 
 ## Clinical Caveats
 

@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book2-ch25]]"
 aliases:
   - 'Electromyography, EMG (肌電圖)'
   - 'Electromyography, EMG'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book2-ch25]]
 
 ## Key Details From Sources
 
+- (D) 9. 一位 56 歲的男性糖尿病患,有糖尿病足來到門診,與醫師討論 有沒有可能憑藉換藥使傷口癒合,則下列何項最具決定性? - (A) 抽血檢查 HbA1c - (B) 安排神經傳導及肌電圖檢查(NCV/EMG) - (C) 做細菌培養 - (D) 檢查足背動脈與後脛動脈有無脈動 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (2) 肌電圖(EMG)可發現有去神經(denervation)的現象,尤其是早期症狀不明顯時,可用來鑑別診斷。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (1) 以肌電圖做重複電刺激神經試驗 (repetitive nerve stimulation test), 有**遞減反應** (**decremental response**),與前述的臨床症狀吻合,肌肉愈刺激、愈用就愈無力。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (1) 以肌電圖做重複電刺激神經試驗 (repetitive nerve stimulation test), 有**遞增反應** (incremental response),與前述的臨床症狀吻合,肌肉愈刺激、愈用就愈有力。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].

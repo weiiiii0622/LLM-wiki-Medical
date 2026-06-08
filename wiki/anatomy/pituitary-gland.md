@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book2-ch24]]"
 aliases:
   - 'Pituitary gland (腦垂體)'
   - 'Pituitary gland'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book2-ch24]]
 
 ## Key Details From Sources
 
+- 3. Pituitary adenoma (30%): functional or non-functional • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - N. 腦下垂體腫瘤 (Pituitary tumor) 212 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 6. 蝶鞍區腫瘤 (tumors of the sellar region): - (1) 顱咽瘤 (craniopharyngioma)。 - (2) 腦下腺瘤(pituitary tumor):前腦下腺細胞(adenohypophyseal cells)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ## N. 腦下垂體腫瘤 (Pituitary tumor) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -68,7 +71,6 @@ tags:
 - C. 腦垂體前葉荷爾蒙的交互作用 171 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - D. 全腦垂體低能症(Panhypopituitarism) 171 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - E. 腦垂體亢進(Hyperpituitarism) 173 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- 1. 定義: Cushing's syndrome 指過多的皮質類固醇(cortisol)造成的症候群,而 Cushing's disease 則專指因腦垂體分泌過多 ACTH,進而刺激腎上腺分泌過多皮質類固醇(cortisol)造成之疾病。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 
 ## Clinical Caveats
 

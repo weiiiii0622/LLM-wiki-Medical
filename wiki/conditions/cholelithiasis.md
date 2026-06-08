@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book2-ch25]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Cholelithiasis (膽結石)'
   - 'Cholelithiasis'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-膽囊或膽道結石可造成 biliary colic、膽囊炎、膽管炎或胰臟炎。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊或膽道結石可造成 biliary colic、膽囊炎、膽管炎或胰臟炎。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ tags:
 - [[sources/med3-book2-ch25]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book1-ch09]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- ...| 轉大腸癌機率 High risk: 10~30% | | Low risk: 7% (stricture site) | | | | 腸外症狀 | 關節炎、虹膜炎、壞疽性膿皮、硬化性膽管炎 | 關節炎、虹膜炎、肛裂、肛門瘻管、肛圍膿瘍、膽結石、腎結石 | | | | 診斷 contrast X-ray、endoscopy、biopsy | | endoscopy \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Less effective | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- 3. 症狀: Type II DM、脂漏症、膽結石。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - ...下列何者不是腹腔鏡手術時,二氧化碳氣腹可能造成的生理影響? (A) 呼吸性酸血症 (B) 下腔大靜脈回流下降 (C) 刺激迷走神經引起心跳加快 (D) 尿量減少 | 101(二)專醫五-34 | | (B) 10. | 55 歲陳先生因為膽結石接受腹腔鏡膽囊切除,手術過程中麻醉科醫師發現病人血壓下降,則下列何種處置不恰當?(A) 檢查腹腔內有無出血(B) 提高二氧化碳氣腹壓力設定(C) 抽血做動脈血分析(D) 將手術台調回正常水平位置 | 101(二)專醫五-48 | | (D) 11. | 以下關於胸腔鏡手術之描述,何者正確? (A) 胸腔鏡手術時必須在肋膜腔灌入二氧化碳,使肺臟塌陷以利手術之進行 (B) 胸腔鏡手術適用於良性疾病之診斷及治療,惡性疾病最好利用開胸手術以免腫 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - ...al bleeding)、 Crigler-Najjar syndrome type I/II · Gilbert syndrome · biliary atresia、choledochal cyst、biliary narrowing、cholelithiasis 等,均 會造成延遲性黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...oledochal cyst | | cystic fibrosis | artery) | 3. Cholangiostenosis | | Zellweger's syndrome | 2. Inspissated bile | 4. Cholelithiasis | | Dubin-Johnson syndrome | syndrome | | | Rotor syndrome | | | | Galactosemia | | | | 2. 感染 | | | | Rubella, CMV, herpes | | | | virus, | : | | | UTI due to E. coli, | | | | toxoplasmosis , syphilis | | | | 3. 全靜脈營養 ( Source: [[sources/med4-book1-ch11|子、新生兒科]].

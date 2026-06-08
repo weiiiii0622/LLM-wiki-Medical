@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Congenital rubella syndrome (先天性德國麻疹症候群)'
   - 'Congenital rubella syndrome'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-孕期 rubella 感染造成白內障、PDA/肺動脈狹窄、聽損與發育問題。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+孕期 rubella 感染造成白內障、PDA/肺動脈狹窄、聽損與發育問題。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- Fetus 的左右心系統除了肺部與系統的微血管相通之外,還有連通左心房與右心房的卵圓孔(Foramen Ovale)與連通主動脈與肺動脈的動脈導管(Ductus Arteriosus)兩處,兩者於產前呈開放(Patent)狀態,名之開放性卵圓孔(Patent Foramen Ovale, PFO)與開放性動脈導管(Patent Ductus Arteriosus, PDA)。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 出生後因 PFO 與 PDA 關閉,故兩條分支路線階段性任務結束。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 在處理各式先天性心臟病時,我們會策略性的關閉或維持 PFO 與 PDA 這兩個「額外」連通左右心的天然孔道,或甚至製造人工孔道如心房穿孔或 Blaylock-Taussig (BT) Shunt 等。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (D) 低電壓(low-voltage)電傷的傷患,30%左右在受傷後數個月至數年間可能罹患白內障(cataract)或神經系統缺陷(neurologic deficits) Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 【詳解】(A) 電流熱效應為 I2Rt(電流安培數平方 × 電阻 × 受電時間),電阻越高產生的熱能越高,對組織的傷害越高;(C) 肌球蛋白會對腎小管的表皮細胞造成直接性的傷害,且肌球蛋白在體液不足或酸性環境之下,易在腎小管中形成結晶阻塞腎小管,因此橫紋肌溶解症容易造成急性腎衰竭,大量輸液目標為 3mL/kg/hr;(D) 在 electrically-induced ocular injury 中 cataract 的機率只有 1~6%,總體不可能到 30%。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...ester 中感染病毒有機會造成 fetal varicella syndrome: limb hypoplasia、muscular atrophy、skin scarring、cortical atrophy、microcephaly、cataract formation、rudimentary digits。 - ii. 生產前四天內感染水痘,則有15%的新生兒會發生嚴重性水痘感染。 通常新生兒在出生後兩星期內發病,其症狀包括全身性水痘和中樞神 經系統病變,有兩到三成的死亡率。 - (g) 免疫不全患者:易併發肝炎、肺炎、腦癌和血小板減少症,死亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated ac Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

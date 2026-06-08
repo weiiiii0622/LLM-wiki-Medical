@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch06]]"
 aliases:
   - 'D-dimer (D-二聚體)'
   - 'D-dimer'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-低風險肺栓塞排除策略常用檢驗。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低風險肺栓塞排除策略常用檢驗。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book4-ch12]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch06]]
 
 ## Key Details From Sources
 
+- 4. 診斷:杜卜勒超音波檢查、靜脈攝影(CT、MRI)、驗 D-dimer。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 4. 診斷:血中 d-dimer 可幫助排除(high sensitivity, low specificity),確診須靠 contrast-CT、血管攝影、V/Q scan。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (D) 4. 兒童患者如果發生 disseminated intravascular coagulation (DIC), 104(二)專 血液檢查時,下列何者不會出現? - (A) 血中 D-dimer 出現 - (B) 血中 Factor V 或 Factor VIII 降低 - (C) 血小板 (platelets) 數目降低 - (D) 血中 fibrinogen 升高 Source: [[sources/med4-book1-ch04|丁、感染科學]].

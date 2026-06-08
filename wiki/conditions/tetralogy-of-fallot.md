@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Tetralogy of Fallot, TOF (法洛氏四合症)'
   - 'Tetralogy of Fallot, TOF'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-最常見發紺型先天性心臟病，包含 VSD、主動脈跨位、右心室出口阻塞與右心室肥大。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+最常見發紺型先天性心臟病，包含 VSD、主動脈跨位、右心室出口阻塞與右心室肥大。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- 1. 法洛氏四重症(Tetralogy of Fallot, TOF): - (1) 最常見的發紺型先天性心臟病,佔15~20%。 - (2) 四種異常為:心室中隔缺損(ventricular septal defect, VSD)、主動脈跨位 (aortic override)、右心室出口阻塞(right ventricular outflow tract obstruction, RVOTO)、右心室肥大(right ventricular Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 同學若想知道 Dr. Blalock、Dr. Thomas、Dr. Taussig 發明 BT shunt 以治療法洛氏四合症藍寶貝 Blue baby 的經典故事,可參考 HBO 電影 "Something the lord made" (天賜良醫)。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (B) 25. 法洛氏四合症(tetralogy of Fallot)完全矯正後,長期追蹤若有 102( ) 專嚴重的肺動脈瓣逆流,右心室擴大,及右心室功能失效,此時最 醫五-28 好的處理方式為何? - (A) 心房中膈造口 (creation of atrial septal defect) - (B) 肺動脈瓣置換 - (C) 三尖瓣置換 - (D) 使用降肺高壓藥物 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 1. 發紺型先天性心臟病 2 - A. 法洛式四合症 (Tetralogy of Fallot) 2 - B. 肺動脈閉鎖 (Pulmonary atresia) 3 - C. 三尖瓣閉鎖 (Tricuspid atresia) 4 - D. 大動脈轉位 (Transposition of the great arteries, TGA) 6 - E. 全靜脈回流異常(Total anomalous pulmonary venous return, TAPVR) 7 - F. Ebstein 異常 (Ebstein anomaly) 8 - G. 左心發育不全症候群(Hypoplastic left heart syndrome, HLHS) *9* Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - # A. 法洛式四合症 (Tetralogy of Fallot) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 6. 診斷:以外科方式治療為最終目標。 - (1) 胸部 X 光: 典型表現為靴子形狀(boot-shaped)心臟(但心臟大小正常)、肺血管紋減少,有時可以看到右位主動脈弓。 - (2) 心電圖:電軸右偏(顯示右心室肥大)。 - (3) 心臟超音波:可以用來確立診斷。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

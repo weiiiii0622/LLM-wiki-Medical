@@ -34,6 +34,9 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -48,7 +51,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +85,16 @@ tags:
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- (4) 另外年紀大、男性、高血壓、抽菸、高血脂、genetic (Marfan syndrome) 皆為 危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (#) 1. 動脈瘤形成的危險因素不包括下列何者? 108( ) 專 (A) 高年齡 (B) 男性 (C) 高血脂 (D) 糖尿病 醫五 -22 【詳解】皆是危險因子,故送分。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...急診,最近常感到倦怠、四肢肌肉無力, 醫五-47 則下列何種檢查,較無診斷價值? (A) 血鈣濃度 (B) 血中鹼性磷酸酶 (alkaline phosphatase) 濃度 (C) 血中副甲狀腺素(iPTH)濃度 (D) 血中三酸甘油脂(triglyceride)濃度 (D) 12. 下列何者與血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維他命 D (C) 抑鈣激素 (D) 雌性激素 (C) 13. 一位 57 歲的尿毒症病患,5 年來持續接受血液透析治療,直到 99(二)專 2個月前接受了腎臟移植手術。最近他開始出現皮膚搔癢、腹痛、 醫五-58 骨頭酸痛等現象,抽血檢查鈣值為 12 mg/dL。下列何者是此患 者最可能的診斷? (A) Primary Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...巨噬細胞之能量來源。是維持腸道黏膜完整和免疫功能的重要物質,在 stress 和敗血症時含量會很明顯地下降。 - (5) Arginine:為一氧化氮(NO)的原料來源,促使血管舒張減少心臟輸出的負荷, 緩和心紋痛的狀況,降低低密度脂蛋白(LDL)氧化,另外能促進傷口癒合, 以及促進免疫系統分泌自然殺手細胞、吞噬細胞和 interleukin-1。 - (6) 支鏈胺基酸 (Branched-chain amino acids, BCAA):包括 Leucine, Isoleucine, Valine 均屬必須胺基酸,可直接由骨骼肌代謝產生能量而非肝臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - ( Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...| (D) | 4. | 使用全靜脈營養(TPN)之後產生膽汁鬱積(cholestasis),下列何者是最理想的治療方法? (A) 增加脂肪乳劑施打 (B) 增加脂溶性維生素的補充量 (C) 使用中鏈三酸甘油酯(medium-chain triglyceride)的配方 (D) 儘可能恢復腸道營養 | 108(一)專醫五-48 | | (B) | | 相較於靜脈營養,腸道營養對手術病人營養支持之好處,下列何者錯誤? (A) 吃進去的多醣(polysaccharides)在大腸會被細菌發酵(bacterial fermentation),以維持腸道正常菌落 (B) 嚴重血流動力學不穩定(marked hemodynamic instability)的病人適合給與腸道營養 (C) 有較好的腸胃道免 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - 【詳解】水溶性纖維可與脂肪酸結合,降低膽固醇總量和 LDL 膽固醇,延長食物在胃中停留的時間,從而減慢糖分釋放及被吸收的速度,有助糖尿病患者控制血糖。非水溶性纖維能幫助食物渣滓通過腸道,防止便秘,控制及平衡腸道的酸鹼值,防止微生物產生致癌物質,有助預止結腸癌。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
@@ -99,10 +109,6 @@ tags:
 - (B) Hypertriglyceridemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】家族型高膽固醇血症(familial hypercholesterolemia) 其嚴重度是根據基因上的變異數量決定,即有加成效應(gene dosing effect)。故同型合子會比異型合子的表現來的嚴重。同 合子患者其低密度脂蛋白(low density lipoprotein, LDL)膽固醇 數值是正常人的 4~6 倍,通常 LDL-C 為 500~1200 mg/dL。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (c) Cyclosporine 最常見的副作用包括減低腎臟功能、血壓升高、升高血脂肪濃 度、毛髮過度生長、上臂及腳部刺痛及灼熱感、牙齦增生等。Tacrolimus 常 見的副作用包括腎毒性、腹瀉、誘發糖尿病等。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...ietic stem cell transplantation)用來預防移植物反宿主疾病(graft-versus-host disease)的重要免疫抑制劑,下列何者不是 CsA 常見的副作用? (A) hypertension (B) hyperlipidemia (C) hyperglycemia (D) nephrotoxicity | 105(一)專醫三-45 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- (B) 12. 當懷疑有抗磷脂質抗體症候群(antiphospholipid antibody syndrome) 103(ニ)専時,下列的何種檢查最為重要? - (A) C3 及 C4 - (B) prothrombin time 及 activated partial thromboplastin time - (C) ESR 及 CRP - (D) cholesterol 及 triglyceride Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...----------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL 異常,只 | | | | | 當一項計算之) | | 腹部肥胖或肥胖 | 腰圍 (cm): | 腰圍 (cm): | BMI ≥ 30 kg/m² 或腰臀比: | | | 男≥ 90 | 男> 102 | 男> 0.9 | | | 女≧ 80 | 女> 88 | 女> 0.85 | | 三酸甘油酯 (TG) | ≥ 150 mg/dL | $\geq$ 150 mg/dL | $\geq$ 150 mg/dL | | 高密度酯蛋白 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- (C) 肥胖與血脂異常、第二型糖尿病、癌症有關 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 

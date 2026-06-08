@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book3-ch07]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Neonatal respiratory distress syndrome, RDS (新生兒呼吸窘迫症候群)'
   - 'Neonatal respiratory distress syndrome, RDS'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-早產兒 surfactant deficiency 造成肺泡塌陷、低氧與 hyaline membrane disease。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+早產兒 surfactant deficiency 造成肺泡塌陷、低氧與 hyaline membrane disease。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book3-ch07]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- (B) 19. 在急性心肌梗塞後,會發生各種併發症,下列何種併發症發生後 102( ) 專 必須考慮儘速手術治療,以免病人病情惡化而死亡? 醫五-25 - (A) 呼吸窘迫症候群(acute respiratory distress syndrome) - (B) 壞死性心室中隔缺損 - (C) 低心輸出量合併寡尿(oliguria) - (D) 細菌性心內膜炎 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 3. 生產因子:生產時的後遺症可能和自閉症的引起有關,如:Maternal bleeding、respiratory distress syndrome 與 neonatal anemia。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - # A. 呼吸窘迫症候群 (Respiratory distress syndrome, RDS) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (4) 病理表現:肺部病理解剖在顯微鏡下可以看到玻璃樣變性的膜狀構造(hyaline membrane),同時還有塌陷的肺泡;病理診斷為 hyaline membrane disease (HMD),而 surfactant deficiency 是造成其最主要的原因。 Source: [[sources/med4-book1-ch11|子、新生兒科]].

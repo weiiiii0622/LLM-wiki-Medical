@@ -23,6 +23,10 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book2-ch27]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -37,7 +41,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +64,21 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch25]]
+- [[sources/med5-book2-ch27]]
 
 ## Key Details From Sources
 
+- 3. 未分化型甲狀腺癌(undifferentiated or anaplastic carcinoma): - (1) 由濾泡上皮細胞衍生而來,多源自 PTC 或 FTC,約佔甲狀腺癌的 1~2%。 - (2) 相當惡性且預後極差,平均存活率 3 個月,好犯 50 歲以上老年人。 - (3) 易侵犯至鄰近組織造成食道、氣管阻塞,破壞喉返神經。 - (4) 易局部淋巴及遠端血液轉移。 - (5) 手術切除預後不好,放射治療以及化療幫助有限。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 4. 甲狀腺淋巴瘤(thyroid lymphoma): - (1) 相當罕見且多和 Hashimoto thyroiditis 有關。大部分為 non-Hodgkin lymphoma。 - (2) 只能藉由 biopsy 去診斷, FNA 幫助不大。 - (3) 主要治療為 radiotherapy。 - (4) 預後和有沒有侵犯出 thyroid capsule 有關,如果僅侷限在包膜內其五年存活率 為 85%,反之,只剩下 40%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...癌(anaplastic carcinoma),何者錯誤? | 105(一)專 | | | (A) 不可能由分化良好型甲狀腺癌轉變而來 | 醫五 -40 | | | (B) 需作切片檢查或氣管切開 | | | | (C) 目前放射線治療 (radiation therapy) 及化學治療 (chemo- | | | | therapy)效果不彰 | | | | (D) 很少需要根除手術,預後甚差 | | | (C) 19. | 甲狀腺髓質癌(medullary carcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CE Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- (1) Preoperative radiotherapy:能提升各期之 5-year survival rate 和降低復發率,為 直腸癌的標準治療程序,治療劑量有兩種: - a. 總劑量 2,000 cGy 分五天照完後立即開刀。(1 Gy = 100 rad) - b. 總劑量 4,500 cGy 分五週照完後,待7週腫瘤縮小後再開刀。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (2) Postoperative radiotherapy: 用於術前無照射者或是術後無法確保有完全切除者, 但術後照射併發症高,容易損傷小腸和腸吻合處。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 1. 第 0 期:接受手術後,固定追蹤即可,不須輔助性化學治療或放射治療。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 1. 內在/局部因素:氧合作用及灌流不良、感染、異物、血腫、放射治療等都會使傷口的癒合變差,另外手術中適當的止血,減少不必要的電燒和 ligation,以及密閉性引流皆有助於傷口癒合。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- (B) 放射治療容易導致重建乳房的纖維化或脂肪壞死 (fat necrosis) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - ...血的可能性,尤其年紀輕且 AVM 有數年之久的病人、AVM 位於大腦功能較不重要的區域、AVM 直徑 - | 立體定位放射手術(stereotactic radiosurgery) | 醫五 -48 | | | (B) ‡ | 文射線治療(radiotherapy) | | | | (C) { | 堇以血管栓塞治療(endovascular embolization)即可 | | | | (D) = | 手術完全切除 | | | | 【詳 | 解】立體定位放射治療適用於3公分以下,血管栓塞治療 | | | | 用於 | 縮小病灶,無法作為單一治療。 | | | (A) | 5. 對血 | 管瘤(hemangioma)與血管畸形(vascular malformation)的 | 102(一)專 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
 - ...nd gabapentin (Neurontin) 對多數 | | | | 病患有效 | | | | (C) 顯微血管減壓手術 (microvascular decompression) 及伽瑪刀 | | | | (gamma knife)放射治療效果皆不錯 | | | | (D) 伽瑪刀放射治療五年內復發的比例比顯微血管減壓手術低 | | | (A) | 4. 三叉神經痛之顯微血管減壓術(microvascular decompression, | 99(一)專 | | | MVD) 主要是要減壓下列何種血管? | 醫五 -19 | | | (A) 上小腦動脈(superior cerebellar artery) | | | | (B) 後下小腦動脈(posterior in Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (2) Grade II: 病人多以癲癇表現而無其他症狀,加上大部分 low grade astrocytoma 沒有 clear margin,因此並無證據顯示手術或是放射治療能改善預後,多採保守治療。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -73,14 +89,6 @@ tags:
 - (D) 若上述檢查皆正常,儘早給予血栓溶解劑 rt-PA Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (A) 給予靜脈血栓溶解劑(rt-PA)治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 【詳解】本題無法確認發作時間,是 rt-PA 的禁忌症。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (C) 3. 鑑別復發性星狀細胞瘤(recurrent astrocytoma)與放射治療後的 腦部壞死(radiation necrosis of brain),最好的檢查是: Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- ...。 | | | (#) 11. 下列有關腦膜瘤(meningioma)之敘述,何者正確 | ? 106(二)專 | | (A) 使用抗女性荷爾蒙(antiestrogen)治療是有效的 | 醫四 -59 | | (B) 應先使用放射線治療(radiotherapy) | | | (C) 是後顱窩(posterior fossa)最常見之腫瘤 | | | (D) 加碼刀(gamma knife)的治療限於小於 3 公分 | 者 | | 【詳解】第 59 題一律給分。 | | | (A) 12. 腦部原發性淋巴瘤 (primary central nervous system by | ymphoma)的 106(二)專 | | 治療方式中,下列何者最不適當? | 醫四 -60 | | (A) 外科 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (C) 3. 鑑別復發性星狀細胞瘤(recurrent astrocytoma)與放射治療後的 102( ) 專 腦部壞死(radiation necrosis of brain),最好的檢查是: 醫四 -59 - (A) 電腦斷層 (computed tomography, CT) - (B) 磁振造影 (magnetic resonance imaging, MRI) - (C) 正子電腦斷層(positron emission tomography, PET) - (D) 單光子電腦斷層 (single-photon emission computed tomography, SPECT) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...或皮瓣移植。較小病灶可採用冷凍療法或電燒。 - (2) 但針對顏面的「危險地帶」,例如鼻唇區域、眼睛周圍、眼瞼、耳道、耳後 或頭皮,因結構脆弱、手術易出血且考量顏面美觀,會採用顯微手術(Mohs Micrographic surgery)或放射治療。 - (3) Mohs Micrographic surgery: - a. 將切下來的一小塊癌組織以冷凍切片染色在顯微鏡下定位,確定有 free margin 後,再將皮膚癌完整的切除乾淨。治癒率高,復發率低,且可保留較多的正常皮膚組織,為當前皮膚癌手術切除的主流。 - b. Indication: - (a) High risk of local recurrence • - (b) Need for tissue preserv Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (1) 放射治療和化學治療效果都不錯,如果僅為單一或小範圍侵犯者,切除也可達 痊癒。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (2) 典型 KS 對於放射治療效果較好;地域性 KS 對化療反應最好;因免疫抑制所引發 KS 者,停藥後常會自癒,也可嘗試換藥,如以 sirolimus 取代 cyclosporin 及 tacrolimus。AIDS 患者接受正統抗病毒治療即有療效,或使用干擾素及介白質治療,也可暫時改善。其他局部療法例如液態氮冷凍療法、雷射、電燒、光動力療法也都可。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- a. 雖然水痘發過一次就不會再感染,但是水痘病毒於初次感染時便會沿著感覺 神經纖維侵入到感覺神經節並終年潛伏於此。當病人年紀大免疫力下降或處 於免疫力不全(腫瘤、HIV、器官移植、接受放射治療或化療)狀況下時, 病毒就會再度活化並沿著神經纖維從神經節返回皮膚表面產生皮疹,故分佈 多延著 dermatome 的範圍。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (A) 5. 承上題,對此皮膚病灶的敘述,下列何者錯誤? - (A) 手術切除是治療最佳選擇 - (B) 膚色越深的人種越好發 - (C) 好發於皮膚張力較大處 - (D) 放射治療是治療方法之一 Source: [[sources/med4-book2-ch11|子、其 他]].
 
 ## Clinical Caveats
 

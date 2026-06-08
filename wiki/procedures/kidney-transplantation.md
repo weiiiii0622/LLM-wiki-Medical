@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Kidney transplantation (腎臟移植)'
   - 'Kidney transplantation'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- 3. 再次發性 (Tertiary HPT): PTH ↑=> Ca ↑ - (1) 長期慢性腎衰竭造成的次發性副甲狀腺亢進症一段時間後,會導致副甲狀腺發生自主性變化,使得副甲狀腺細胞組織增生,導致 PTH 升高,引發高血鈣。長期腎衰竭的病人在腎臟移植一段時間後,其次發性副甲狀腺亢進卻沒改善,血鈣和 PTH 偏高,則可診斷為再次發性副甲狀腺亢進。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維他命 D (C) 抑鈣激素 (D) 雌性激素 (C) 13. 一位 57 歲的尿毒症病患,5 年來持續接受血液透析治療,直到 99(二)專 2個月前接受了腎臟移植手術。最近他開始出現皮膚搔癢、腹痛、 醫五-58 骨頭酸痛等現象,抽血檢查鈣值為 12 mg/dL。下列何者是此患 者最可能的診斷? (A) Primary hyperparathyroidism (B) Secondary hyperparathyroidism (C) Tertiary hyperparathyroidism (D) Parathyroid carcinoma (D) 14. 承上題,患者接受副甲狀腺切除手術。下列術 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (2)除非原本的腎臟產生病變、難以控制之高血壓或嚴重感染,否則通常不會把原來腎臟切除,而是將新的腎臟移植到左下腹或右下腹的髂窩(iliac fossa)處。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 歷史上最早完成的器官移植為腎臟移植 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (C) 大多數的胰臟移植時常會合併腎臟移植一起進行 Source: [[sources/med5-book1-ch06|己、移植外科]].

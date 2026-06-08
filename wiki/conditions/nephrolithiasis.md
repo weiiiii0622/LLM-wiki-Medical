@@ -12,6 +12,9 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Nephrolithiasis (腎結石)'
   - 'Nephrolithiasis'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,15 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch21]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- ...腸癌機率 High risk: 10~30% | | Low risk: 7% (stricture site) | | | | 腸外症狀 | 關節炎、虹膜炎、壞疽性膿皮、硬化性膽管炎 | 關節炎、虹膜炎、肛裂、肛門瘻管、肛圍膿瘍、膽結石、腎結石 | | | | 診斷 contrast X-ray、endoscopy、biopsy | | endoscopy \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Less effective | | | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- 3. 症狀:腎結石、骨質疏鬆、高血壓、四肢無力、多尿、情緒不穩定。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - | (D) 21. 下列那一位腦死病患,最不適合成為腎臟移植的捐贈者? (A) 43 歲,糖尿病病患 (B) 35 歲,腎結石病史者 (C) 37 歲,十二指腸潰瘍病史 (D) 20 歲,HIV 陽性 | 98(二)專醫五-5 | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (a) 發病初期會頭痛、倦怠或發燒,身體某側會感到深部疼痛,容易被誤認 為是心絞痛或腎結石等其他問題,皮膚感覺異常(癢、刺痛、燒灼感) 且極度敏感,連碰到衣服也會痛。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (2) 高血鈣時間一久,則鈣離子沉降在腎臟 parenchyma 形成鈣化與結石,造成腎功能受損。此外,腎結石亦會造成嚴重腎絞痛或血尿。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Glioma (神經膠質瘤)'
   - 'Glioma'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-源自 glial cells 的 CNS 腫瘤群，包含 astrocytoma、oligodendroglioma、glioblastoma 等。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+源自 glial cells 的 CNS 腫瘤群，包含 astrocytoma、oligodendroglioma、glioblastoma 等。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- ...amilial polyposis • - (b) Gardner's syndrome: polyposis + osteoma + fibroma + sebaceous cyst • - (c) Turcot's syndrome: glioblastoma (CNS tumor) • - (d) CHRPE: congenital hypertrophy of retinal pigmented epithelium • - d. 篩檢: - (a) APC 基因檢驗。 - (b) 眼科檢查: CHRPE (congenital hypertrophy of retinal pigmented epithelium)。 - (c) 大腸鏡檢。 - e. 處置: - (a) Total p Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - C. 星狀細胞瘤 (Astrocytoma) 207 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - D. 寡樹突神經膠瘤 (Oligodendroglioma) 208 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. 神經表皮細胞腫瘤(tumor of neuroepithelial tissue): - (1) 星狀細胞瘤 (astrocytoma):星狀細胞 (astrocyte)。 - (2) 寡樹突神經膠瘤(oligodendroglioma):寡樹突細胞(oligodendrocyte)。 - (3) 室管細胞瘤 (ependymoma):室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor)。 - (5) 神經節神經膠瘤 (ganglioglioma)/神經節細胞瘤 (gangliocytoma)/神經胚母細胞瘤 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

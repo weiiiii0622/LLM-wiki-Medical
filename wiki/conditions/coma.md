@@ -16,6 +16,8 @@ sources:
   - "[[sources/med5-book1-ch12]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Coma (昏迷)'
   - 'Coma'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,13 @@ tags:
 - [[sources/med5-book1-ch12]]
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- (D) 16. 有關體外循環維生系統(extracorporeal life support,又簡稱 ECMO) 之敘述,下列何者正確?①對危急病人可提供長期(數月至數年 之久)之心肺支持 ②使用於胎便吸入症候群新生兒之存活率低 於 50% ③應使用於深度昏迷之危急病人 ④出血為常見併發症 (A) ①②③ (B) ①③ (C) ②④ (D) ④ Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (D) 情侶分手,女方極度沮喪而燒炭自殺。女方昏迷後被發現, 送醫成功挽回生命。但患者在燒炭昏迷的過程中,右腳太靠 近炭火,連肌肉都被烤焦了。這是四度燒燙傷 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - A. Glasgow Coma Score 120 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - A. Glasgow Coma Score: 利用睜眼、語言和運動反應來評估意識,總分 15 分。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - 5. EC:眼睛因臉部腫脹無法睜開、 $E_{cata}$ :白內障、 $V_E$ :插管、 $V_T$ :氣切、 $V_A$ :失語症,前述因無法評估病人實際情形,故不列入 GCS 的記分。例如重度昏迷氣管插管者,GCS 表示為 $E_1V_TM_1$ ,總分為 2T,兩分。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].

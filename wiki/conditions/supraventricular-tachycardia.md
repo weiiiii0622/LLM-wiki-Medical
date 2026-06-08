@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Supraventricular tachycardia (上心室頻脈)'
   - 'Supraventricular tachycardia'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-窄 QRS 規則性頻脈常與再迴路相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+窄 QRS 規則性頻脈常與再迴路相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book1-ch22]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- (3) 最常伴隨 ASD,另外約有 1/3 的病患有 WPW syndrome,是發生 supraventricular tachycardia 的高風險族群。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (C) 8. 下列何種疾病最不常合併有 accessory pathway,也較少引致心室 106( ) 專 上心搏過速(supraventricular tachycardia)? 醫四 -31 (A) 愛伯斯坦氏異常(Ebstein anomaly) (B) 兩側右心房症(right atrial isomerism) (C) 法洛氏四重症(tetrology of Fallot) - (D) Wolff-Parkinson-White 症候群(WPW syndrome) 【詳解】Ebstein anomaly 常合併 WPW syndrome,衝動 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) 心室上心搏過速(supraventricular tachycardia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (D) 房室結迴旋頻脈(AVNRT) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

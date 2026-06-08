@@ -22,6 +22,8 @@ sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis (下視丘-腦垂體-腎上腺軸)'
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,15 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch01]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 4. 下視丘前葉分泌促皮質素釋放激素(Corticotropin-releasing hormone, CRH),刺激腦下垂體前葉分泌促腎上腺皮質素(Adrenocorticotropic hormone, ACTH),而刺激腎上腺分泌皮質醇(cortisol)。Cortisol 可再回饋抑制 ACTH 分泌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 1. 定義:血液內 cortisol 過高。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- ...5 mg) 每天兩顆,病人接受甲 醫五-42 狀腺右葉全切除及左葉次全切除。第二天病人體溫為38.3℃,全 身無力,血壓較低,下列檢查何者對診斷最有幫助? (A) 血中 T3 (B) 血中 T₄ (C) 血中 TSH (D) 血中可體松 (cortisol) 及 ACTH 【詳解】病人長期服用類固醇長達半年,甲狀腺手術後停止服 用類固醇,產生發燒、全身無力及血壓低的情形,比較像是長 期服用 steroid 造成 secondary adrenal insufficiency,而在停用 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...ng/mL。 - b. 生長激素 (GH): 刺激生長,成人出現末端肥大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -75,10 +83,6 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - ...droxylase deficiency 可分為兩種: Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (3) Salt losing form 臨床上常表現典型 cortisol 與 aldosterone 缺乏症狀,但通常要出生後 1~2 週才會有表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (C) 14. 臺灣地區先天性腎上腺增生(congenital adrenal hyperplasia)的 新生兒篩檢是測定嬰兒血片的: - (A) ACTH - (B) cortisol - (C) 17-hydroxyprogesterone - (D) 21-hydroxylase enzyme activity Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...因此篩檢重點在於 classic type。而 classic type 又可分為 saltwasting CAH 與 simple virilizing CAH。其中 salt-wasting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (D) 5. 一位 8 歲小男孩,因為牙齦發黑,檢查發現 cortisol 下降,ACTH 上升,診斷為 Addison 病。患童定時補充 cortisone acetate,但是 在治療一年半後,發現學習上有退步的現象,而且走路也不太穩。 下列的後續診斷發現,何者最不合理? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (4) 治療:維生素 $B_6$ , 抗癲癇藥物,ACTH, 或類固醇, 生酮飲食也有幫助。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 
 ## Clinical Caveats
 

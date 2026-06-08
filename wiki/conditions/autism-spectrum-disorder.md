@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Autism spectrum disorder, ASD (自閉症類群障礙)'
   - 'Autism spectrum disorder, ASD'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-神經發展疾病，核心為社會溝通互動缺損與侷限重複行為或興趣。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經發展疾病，核心為社會溝通互動缺損與侷限重複行為或興趣。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- 4. 全肺靜脈回流異常(total anomalous pulmonary venous return, TAPVR): - (1) 四條肺靜脈正常應回到左心,但要是肺靜脈全接到上、下腔靜脈或右心房,則稱為全肺靜脈回流異常。通常合併 ASD,充氧血才有機會回到左側心臟。 - (2) X 光下可見 Snowman heart,是由於右心接受太多血流,所以變大,像雪人頭疊在心室上。(見下圖) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (3) 最常伴隨 ASD,另外約有 1/3 的病患有 WPW syndrome,是發生 supraventricular tachycardia 的高風險族群。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (1) 三尖瓣完全沒發育,右心房和右心室無法相通,右心房的血液只能藉由開放性 卵圓孔或 ASD 進入左心房。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - II. 自閉性疾患 (Autistic Disorder) 157 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - #### II. 自閉性疾患 (Autistic Disorder) Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - 3. 超過 67% 的自閉症患者有智能不足 (mental retardation)。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].

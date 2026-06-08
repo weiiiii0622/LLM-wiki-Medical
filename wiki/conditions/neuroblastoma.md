@@ -11,6 +11,9 @@ sources:
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch07]]"
 aliases:
   - 'Neuroblastoma (神經母細胞瘤)'
   - 'Neuroblastoma'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,17 @@ tags:
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch07]]
 
 ## Key Details From Sources
 
+- \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...itonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | (B) 20. | 格雷氏病(Graves' disease)合併下列何種情況時,甲狀腺次全切 | 104(二)專 | | | 除術為最合理的選擇? | 醫五 -37 | | | (A) 併有嚴重凸眼症狀 | | | | (B) 併有抗甲狀腺藥物嚴重併發症,如白血球降低及黃疸等 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- (A) 收集 24 小時尿液檢驗兒茶酚胺(catecholamines) 和香草扁桃酸(vanillylmandelic acid) 來診斷,有很好的特異度(specificity),但敏感度(sensitivity)並不高 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- (D) 5. 26 歲女性無故暈倒而被送至急診室,理學檢查發現血壓 220/110 100(-) 專 mmHg,心跳 130 次 / 分鐘,臉部潮紅,則要安排下列那些檢查? $\$ \pm -28$ - ① complete blood count (CBC) ② total urine VMA level - (3) blood free catecholamines (4) total urine free catecholamines - (5) abdominal CT scan - (A) 1 2 3 - (B) 235 - (C) 145 - (D) 245 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- ...之使用時機,下列何者錯誤? (A) 受贈者有嚴重的肺高血壓 (B) 捐贈者的心臟太小 (C) 受贈者與捐贈者的血型不相配 (D) 捐贈者心臟缺血時間太長 9. 心臟移植患者於運動量增加時,下列何者最不可能發生? (A) 血中循環之兒茶酚胺(catecholamine)量增加 (B) 心輸出量增加 (C) 心跳速率立即增加 | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - G. 神經胚母細胞瘤 (Neuroblastoma) 209 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...:室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor)。 - (5) 神經節神經膠瘤 (ganglioglioma)/神經節細胞瘤 (gangliocytoma)/神經胚母細胞瘤 (neuroblastoma):神經元。 - (6) 松果體細胞瘤 (pinealocytoma): 松果體細胞 (pineal cell)。 - (7) 胚胎細胞瘤 (embryonal tumor): 髓母細胞瘤 (medulloblastoma)、神經外胚層母細胞瘤 (primitive neuroectodermal tumor, PNET)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ## G. 神經胚母細胞瘤 (Neuroblastoma) Source: [[sources/med5-book1-ch18|壬、腦瘤]].

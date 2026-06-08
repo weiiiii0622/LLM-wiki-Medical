@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Burkitt lymphoma (伯基特淋巴瘤)'
   - 'Burkitt lymphoma'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-高度侵襲性 B cell lymphoma，常見 c-MYC translocation。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高度侵襲性 B cell lymphoma，常見 c-MYC translocation。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch22]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- (2) 肛門癌症約佔大腸直腸癌症的 1~2%, 男女比例約 2:1, 好發年齡在 50~80 歲之間。致病原因包含 HPV type 16、18, 致癌基因 oncogene (c-myc, P53, Rb-1), 局部慢性肛門疾病或克隆氏症 (Crohn's disease)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...| MLL-AF4 | Unfavorable | 2% | | B-ALL | t (9;22) | BCR-ABL | Unfavorable | 3% | | Mature | | | | | | B-cell leukemia | t(8;14) | IGH-MYC | Favorable | 1~2% | | (Burkitt) | | | | | | B-ALL | Hyperdiploidy | | Favorable | 20~25% | | B-ALL | Hypodiploidy | | Unfavorable | 1% | | T-ALL | t (10;14) | TLX1/HOX11 | Favorable | 5~10% | | Infant | 11q23 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 2. 臨床表現與何杰金氏病相似,但不同的組織病理學分類而有不同的表現: - (1) Burkitt lymphoma: - a. 兒童 NHL 中最常見,為 B cell 淋巴瘤。 - b. 腫瘤增殖迅速、多發或侵襲各處內臟,有淋巴結外的表現如腸套疊(>6歲 兒童發生腸套疊,統計上約有50%以淋巴瘤為 lead point)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - c. 超過 90% 的病人有 c-myc 致癌基因 (第 8 對染色體),免疫球蛋白重鍊與輕鍊基因發生轉位 80% 病人為 t (8; 14)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

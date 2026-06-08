@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Patent ductus arteriosus, PDA (開放性動脈導管)'
   - 'Patent ductus arteriosus, PDA'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-動脈導管出生後未關閉造成主肺動脈間分流；早產兒與特定先心病情境意義不同。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+動脈導管出生後未關閉造成主肺動脈間分流；早產兒與特定先心病情境意義不同。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- Fetus 的左右心系統除了肺部與系統的微血管相通之外,還有連通左心房與右心房的卵圓孔(Foramen Ovale)與連通主動脈與肺動脈的動脈導管(Ductus Arteriosus)兩處,兩者於產前呈開放(Patent)狀態,名之開放性卵圓孔(Patent Foramen Ovale, PFO)與開放性動脈導管(Patent Ductus Arteriosus, PDA)。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 其中另有肺動脈→開放性動脈導管→主動脈,以及右心房→開放性卵圓孔→左心 房兩條分支路線使右心系統承接自母體回來的充氧血混和至左心系統的缺氧血,提高 氧分壓。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 出生後因 PFO 與 PDA 關閉,故兩條分支路線階段性任務結束。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...ular pulmonary stenosis, and sometimes supravalvular pulmonary stenosis),最後造成右心室肥大。當肺動脈血流阻塞甚至造成 pulmonary atresia 時,除了靠 patent ductus arteriosus (PDA) 外甚至還需要靠 major aortopulmonary collateral arteries (MAPCAs) 才可能有較足夠的血液打入肺部血管。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 7. 治療:以外科方式治療為最終目標。 - (1) 先維持肺部血液的灌流,如注射 PGE1 維持開放性動脈導管、人工血管放置 (Blalock-Taussig shunt 或 central shunt) 或 PDA stent。 - (2) 手術治療 VSD 與矯正右心室出口阻塞。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

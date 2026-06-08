@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book2-ch06]]"
 aliases:
   - 'Spinal stenosis (脊椎狹窄)'
   - 'Spinal stenosis'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-椎管或神經孔狹窄造成神經壓迫，腰椎可表現 neurogenic claudication。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+椎管或神經孔狹窄造成神經壓迫，腰椎可表現 neurogenic claudication。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book2-ch06]]
 
 ## Key Details From Sources
 
+- ...----------------------------------------------------------------------------------------|------------------| | | 關節炎,可能有脊椎狹窄(spinal stenosis)的現象,由於脊椎狹 | 醫五 -30 | | | 窄也會造成下肢疼痛的症狀,此二者如何分別? | | | | (A) 動脈阻塞造成疼痛強度大於脊椎狹窄之疼痛 | | | | (B) 脊椎狹窄造成之疼痛強度大於動脈阻塞造成之疼痛 | | | | (C) 脊椎狹窄造成之疼痛往往在長時間走動後發生,而動脈阻塞 | | | | 造成的則否 | | | | (D) 脊椎狹窄所造成的疼痛和腰部姿勢改變有關,而動脈阻 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - B. 脊椎狹窄 (Spinal stenosis) 174 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ## B. 脊椎狹窄 (Spinal stenosis) Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...-----------------------------------------------|--------------------------------------------------------| | 原因 | Lumbar spinal stenosis (with nerve root compression) | Peripheral artery disease (with limb ischemia) | | 疼痛 | 下背痛、兩臀痛、下肢痠痛(從上往下痛) | 小腿痙攣抽痛(從下往上痛) | | 加重因子 | 走路、站立、身體向後彎曲、趴著 | 走路、騎腳踏車 | | 緩解因子 | 身體向前彎曲 | 站著或坐著休息 | | 其它症狀 | 下肢麻木、感覺異常、下肢無力、反射降低 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].

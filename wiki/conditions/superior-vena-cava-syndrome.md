@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Superior vena cava syndrome, SVCS (上腔靜脈症候群)'
   - 'Superior vena cava syndrome, SVCS'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-腫瘤或血栓壓迫/阻塞 SVC 造成臉頸上肢腫脹與靜脈怒張。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤或血栓壓迫/阻塞 SVC 造成臉頸上肢腫脹與靜脈怒張。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...而肺動脈則和右心房分離;做 B-T shunt 使右心室打出的部份血液能引至肺動脈並流到肺部進行氧合作用。(見上圖右) - b. 第二階 (bidirectional Glenn procedure): 出生三到六個月進行。 - (a) 將上腔靜脈血液直接分流至肺動脈,降低右心室的負擔。 - c. 第三階段 (Fontan procedure): 兩到三歲進行。 - (a) 同樣將下腔靜脈分流至肺動脈,至此上、下腔靜脈血液不經心臟直接流 回肺動脈,而右心室專心負責體循環,將血液輸送至全身。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- a. 心上型(supracardiac):下圖 A,肺靜脈經由垂直靜脈(vertical vein)到無名靜脈(left innominate vein, LI),再回到上腔靜脈,流進右心房。而垂直靜脈容易塞住,引發肺水腫和肺高壓。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (4) 輕微無症狀者只需定期追蹤,有心衰竭或心律不整則先藥物控制,嚴重者則考慮手術。手術為三尖瓣修復術為主,部份病患會合併作 Glenn procedure (上腔靜脈接到肺動脈)及心房間隔造口術以減輕右心負荷。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 4. 分類: 依照連接解剖位置不同分類。 - (1) Supracardiac: 50% - a. Left innominate vein: 佔 40%;同時發生阻塞機率為 40%。 - b. Right superior vena cava: 佔 10%;同時發生阻塞機率為 75%。 - (2) Cardiac: 25% - a. Coronary sinus:佔20%;同時發生阻塞機率為10%。 - b. Right atrium: 佔 5%;同時發生阻塞機率為 5%。 - (3) Infracardiac: 20%;同時發生阻塞機率為95~100%。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 靜脈竇型缺損(sinus venosus defect): 佔 10%,通常會有一條或多條肺靜脈(通常來自右肺)注入 the superior vena cava。有時上腔靜脈會注入缺損處,血液進入左心房中;極少有機會引起發紺。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (A) 9. 一位 5 歲大女生,出現腹水有 1~2 個月的時間,最後診斷為 Budd-104(二)專 Chiari syndrome,其最可能是由下列那條血管阻塞造成? 醫四 -10 - (A) 肝靜脈 - (B) 肝動脈 - (C) 肝門靜脈 - (D) 上腔靜脈 Source: [[sources/med4-book1-ch02|乙、消化系統]].

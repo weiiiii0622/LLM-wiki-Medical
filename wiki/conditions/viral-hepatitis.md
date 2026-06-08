@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med5-book2-ch07]]"
 aliases:
   - 'Viral hepatitis (病毒性肝炎)'
   - 'Viral hepatitis'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-病毒性肝炎包含 HAV、HBV、HCV、HDV、HEV，臨床可急性或慢性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+病毒性肝炎包含 HAV、HBV、HCV、HDV、HEV，臨床可急性或慢性。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book4-ch18]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med5-book2-ch07]]
 
 ## Key Details From Sources
 
+- ...正位心臟移植(orthotopic transplantation)來得比較適當? | 醫五 -12 | | | (A) 捐贈者有嚴重的肺動脈高血壓 | | | | (B) 捐贈者的心臟遠小於受贈者所需 | | | | (C) 受贈者有急性病毒性肝炎時 | | | | (D) 受贈者與捐贈者血型不符合 | | | | 【詳解】異位心臟移植即受贈者的原有心臟仍存在,僅將捐贈 | | | | 的心臟與受贈心縫合。 | | | (D) | 4. 現在出現一個 25 歲腦死的潛在性器官捐贈者,下列哪一個病患 | 98(二)專 | | | 需要心肺移植(heart-lung transplantation)? | 醫五-1 | | | (A) 末期肺氣腫 | | | | (B) 缺血性心臟病 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - 1. Aspartate aminotransferase (AST) 與 alanine aminotransferase (ALT) - (1) 當肝臟細胞急性受損時兩者皆會上升; ALT 特異性比 AST 高。 - (2) 急性病毒性肝炎、中毒、缺氧或是低組織灌流均可造成 ALT 或 AST 在血液升高至破千。 - (3) 在急性病毒性肝炎中, ALT 上升數值比 AST 高。 - (4) 在酒精性肝炎、fulminant echovirus infection 以及代謝障礙引發的肝炎中,AST 升高幅度比 ALT 高。 - (5) 兩者僅可代表肝臟細胞受損,但數值的高低無法代表疾病嚴重度以及預後。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 2. Acute and chronic viral hepatitis Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (2) 新生兒:嚴重的心衰竭、二尖瓣功能不良、脈搏微弱、發燒、呼吸窘迫、發紺、 酸血症、休克。無菌性腦膜炎、病毒性肝炎甚至猝死。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

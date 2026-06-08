@@ -28,6 +28,11 @@ sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Aortic stenosis (主動脈瓣狹窄)'
   - 'Aortic stenosis'
@@ -42,7 +47,7 @@ tags:
 
 ## Summary
 
-固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +75,23 @@ tags:
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch27]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch25]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- 1. 主動脈瓣狹窄 (aortic stenosis, AS): - (1) 病因:見下圖,老年人以退化性為主(瓣膜隨著年紀鈣化),年輕族群主要是 先天性的 Bicuspid aortic valve(BAV)—主動脈瓣膜只有兩片,血液流過易產生 turbulent flow,導致瓣膜纖維化、鈣化、變厚口徑狹窄。風濕熱也會造成 AS, 通常會一起侵犯 mitral valve。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- iv. AS 合併有其他疾病,如冠狀動脈心臟病,或其他瓣膜疾病,在手術時需同時修正 AS。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (A) 7. 下列關於心臟瓣膜疾病,何者正確? ①暈厥(syncope)為重度 主動脈瓣狹窄之手術適應症之一 ②僧帽瓣修補術可用於擴張性 心肌症(dilated cardiomyopathy) 患者的手術治療 ③心臟移植 手術可用於心臟瓣膜疾病患的手術治療(④僧帽瓣修補的手術死 亡率比僧帽瓣置換術的手術死亡率高 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 1. 很多人常有的疑問是皮瓣和植皮有什麼不同,皮瓣是不是一定包含皮膚?根據「Sabiston Textbook of Surgery 18th ed.」的定義「A flap is defined as a partially or completely isolated segment of tissue perfused with its own blood supply.」,也就是說皮瓣是「一個仍保有自身血液循環且被轉移的部分或完全組織」,並非一定要有皮膚,只是因為早期常用來作皮膚重建,故有「皮」瓣的稱呼。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- ...stage I - r | on-blanchable erythe | ma of intact skin | | | stage II - | partial-thickness loss | of dermis, appearing as open ulcer | | | with | red-pink wound bed v | vithout slough or bruising | | | stage III - | · full-thickness tissue | loss, subcutaneous fat may be visible | e | | but be | one, tendon or muscle | e not exposed | | | Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- stage II partial-thickness loss of dermis, appearing as open ulcer with red-pink wound bed without slough or bruising Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- (1) 左心發育不全,左心房和心室比正常人小很多(見下圖左),常合併主動脈弓窄縮、主動脈瓣狹窄/閉鎖以及二尖瓣狹窄/閉鎖。由於左心和主動脈幾乎無作用,全身血液循環需藉由肺動脈經 PDA 供應。而冠狀動脈的血流來源也倚靠肺動脈、動脈導管,經主動脈、倒流回冠狀動脈,導致心肌灌流不足。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- stage II - partial-thickness loss of dermis, appearing as open ulcer with red-pink wound bed without slough or bruising Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- 8. Any patient with burns and concomitant trauma (such as fractures) in which the burn injury poses the greatest risk of morbidity or mortality. In such cases, if the trauma poses the greater immediate risk, the patient may be initially stabilized in a trauma center before bei Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (3) Spondylitis: -itis 也是發炎。但是通常講 Spondylitis 意思是病理性的脊椎發炎,像是 AS、Pott's disease。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...(Ceruloplasmin)減少 ( 要考慮的其他診斷 | |-------------------------------------------------|---------------------------| | Falls as the first symptom 以跌倒為第一個症狀 | PSP | | Exposure to neuroleptics 有服用抗精神病藥物 | Drug-induced parkinsonism | | Associated liver disease 有肝功能上升 | Wilson's disease | | Dementia as first symptom 以失智症為第一個表現 | Dementia with Lewy b Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...分裂症之敘述,何者正確? (A) Bleuler 與 Kraepelin 意見一致,認為精神分裂症患者之功能一定會持續惡化 (B) Kraepelin 為第一個取名精神分裂症(schizophrenia)之學者 (C) Bleuler 4 As 內 含 聯 想 障 礙(associational disturbances of thought) (D) Kraepelin 所謂的三種嚴重精神疾病不包括妄想症(paranoia)【詳解】(A) 只有 Kraepelin 認為思覺失調症患者功能會持續惡化,Bleuler 認為不會 (B) Kraepelin 將思覺失調症命名為 dementia precox;Bleuler 為取名 schizophrenia 的學者 (C) 4A Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
@@ -82,15 +101,6 @@ tags:
 - (2) 除了身材矮小外,其他常見構造上的異常有心臟或是腎臟。 - a. 心臟方面最常見有 bicuspid aortic valves、coarctation of the aorta、aortic stenosis 以及 mitral valve prolapse; 較嚴重的心臟異常有左心發育不全症候群 (HLHS,hypoplastic left heart syndrome)。(簡單記憶:透納氏症心臟問題都在左心,努南氏症心臟問題都在右心)。 - b. 腎臟構造上的異常,常見為低位腎 (pelvic kidney)、馬蹄腎 (Hoarseshoe kidneys)、雙套集尿系統 (double collecting system) 或是單一腎 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - Red-green color blindness (as in males) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- # C. 亞伯氏症候群(Alport syndrome, AS) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 1. 85% 為 X- linked disease, 與合成 type IV collagen 的基因突變(the COL4A5 gene, encoding the α5 chain)有關。type IV collagen 又是 basement membranes 主要組成。5%的 AS 為體顯性遺傳,10% 為體隱性遺傳(參考)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...中樞神經疾病有關 (ex. infection、hypoxic-ischemic encephalopathy with periventricular leukomalacia、neurocutaneous syndromes such as tuberous sclerosis)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- C. **其包含四種疾病**: 僵直性脊椎炎(AS)、反應性關節炎(ReA)、乾癬性關節炎(PsA)、發炎性腸炎相關之關節炎等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- #### D. 僵直性脊椎炎 (Ankylosing spondylitis, AS) Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- 2. 與 HLA B27 的關係: [超愛考] - (1) AS 病人有 90% HLA-B27(+), 一般人口有 7%HLA-B27(+)。 - (2) 帶此基因有 1~6% 的人會發展成 AS,若一等親有 AS 者更高達 10~30% 發病,這暗示除了 HLA B27,有其他基因會使 AS 發病。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...gren's syndrome 的盛行率約 0.5~1%(Harrison, 1990),SLE 的盛行率約 0.015~0.05%(Harrison, 1960),常見的風濕疾病排名:OA > RA(0.8%) > SS(0.5%) > AS > SLE > PsA > Scleroderma > Myositis(Harrison, 2031 Fig 311-2)。 | 94(二)檢內-43 | Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...HLA | Relative risk | |--------------------------------------------|--------|---------------| | Ankylosing spondylitis (AS) | B 27 | 0.3 | | Goodpasture's syndrome | DD 4 | 1 | | Multiple sclerosis (MS) | DR 2 | 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-depe Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- Source: Fauci AS, Kasper DL, Braunwald E, Hauser SL, Longo DL, Jameson JL, Loscalzo J: Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 
 ## Clinical Caveats
 
@@ -99,7 +109,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/valve-replacement-repair|Valve replacement/repair (瓣膜置換與修補)]]
 
 ## Follow-up
 

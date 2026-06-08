@@ -20,6 +20,8 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Pseudohyponatremia (假性低血鈉)'
   - 'Pseudohyponatremia'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,14 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- (4) 另外年紀大、男性、高血壓、抽菸、高血脂、genetic (Marfan syndrome) 皆為 危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (#) 1. 動脈瘤形成的危險因素不包括下列何者? 108( ) 專 (A) 高年齡 (B) 男性 (C) 高血脂 (D) 糖尿病 醫五 -22 【詳解】皆是危險因子,故送分。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (A) 高蛋白餐試驗 (High protein meal test) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 1. 鈉:正常血鈉濃度為 135~145 mEq/L。 - (1) 低血鈉(hyponatremia)症狀為輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。 - a. Pseudohyponatremia:發現病患低血鈉,首先要排除高血糖、高血脂等高滲透 壓造成的相對低血鈉,真的低血鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 6. Sirolimus:機轉不同於 Cyclosporine 和 Tacrolimus,作用在 mTOR (或稱 FRAP1),抑制 IL-2 和其他細胞內的訊息傳遞,阻斷 T 和 B 細胞的活化。不具腎毒性,且因作用機轉不同於目前其他免疫抑制劑,所以常用來和其他免疫抑制劑合併使用來增強效果,並減低其他藥物的副作用。副作用有高血壓、腹瀉、水腫、蛋白尿、血小板下降、白血球下降、貧血及高血脂。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...心肌缺血心臟病並有抽菸,在手術前後期可使用乙型阻斷劑(β-blocker) | | | (B) 老年人發生無症狀菌尿症(bacteriuria)的機率比較高,手術前應檢查尿液 | | | (C) 雖然老年人有糖尿病的比率較高,但是高血糖 (hyperglycemia) 並不會增加手術的發病率和死亡率 (morbidity and mortality) | | | (D) 老年人在手術前應評估其肺部功能 | | | (A) 14. 當小客車司機因追撞大貨車,於急救時出現大量血氣胸,必須緊急給予胸管引流治療。有關胸管置放之位置,下列敘述何者 | 106(一)專醫五-6 | | 正確? | | | (A) 第四或五肋間,腋中線(4th or 5th intercostal space, mid-axil Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
@@ -72,9 +79,6 @@ tags:
 - ...人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...oidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...lity | 2. Hyperproteinemia | | | | 3. Posttransurethral resection of prostate/bladder tumor | | | Increased plasma | 1. Hyperglycemia | | | osmolality | 2. Mannitol | | Hypoosmolal | Primary Na + loss | 1. Integumentary loss: sweating, burns | | hyponatremia | (secondary water gain) | 2. Gastrointestinal loss: vomiting, tube drainage, fistula, obstruc Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 對低血鈉有概念了嗎?低血鈉在臨床上相當常見,天天在抽 BUN/CR、Na/K,抽出來的低血鈉你是否會處理?謹記幾個原則,先排除假性低血鈉,看一下 chart,病人是否有高血糖、高血脂等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (A) 高血糖 (hyperglycemia) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...---------|-----------------| | (B) | 10. | 關於腎病症候群(nephrotic syndrome)的敘述,下列何者錯誤? (A) 腎病症候群的特點為重度蛋白尿,低白蛋白血症,高脂血症和水腫 (B) 高蛋白飲食為治療腎病症候群的必要方式之一 (C) 膜性腎病變(membranous glomerulonephritis)腎絲球腎炎容易發生腎靜脈血栓 (D) 腎病症候群患者其血漿滲透壓降低,可刺激肝臟脂蛋白合成而造成高脂血症,其中以低密度脂蛋白及膽固醇之增加為最常見 | 100(一)專醫三-27 | | (A) | 11. | 下列何者是糖尿病腎病變的早期指標,同時也是心血管疾病的早期指標? (A) 微蛋白尿(microalbuminuri Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

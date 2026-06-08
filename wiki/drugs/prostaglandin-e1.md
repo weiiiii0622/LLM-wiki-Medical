@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Prostaglandin E1, PGE1 (前列腺素 E1)'
   - 'Prostaglandin E1, PGE1'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-用於維持 PDA 開放以穩定 ductal-dependent congenital heart disease。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於維持 PDA 開放以穩定 ductal-dependent congenital heart disease。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- (7) 處置:藥物可給予前列腺素(PGE1)維持動脈導管的通暢,以減緩陣發性呼吸 困難(缺氧性)。但如須完全矯正仍需要手術。 - a. 完全矯正手術 (total correction): - (a) 將 VSD 修補以及右心室出口或肺動脈狹窄處擴大術,以心包膜片(pericardial patch)來擴大狹窄的肺動脈瓣環(pulmonary valve annulus)。但假 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- a. 緊急處置可給予 PGE1 維持動脈導管的通暢,或經由心導管進行氣球心房中膈造口術(balloon atrial septostomy),使左右心房的血液混合改善血中氧氣濃度。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (3) 處置:作氣球心房中膈造口術使右心房的血流能流往左心,同時使用 PGE1 維持動脈導管暢通。開刀方面,嬰兒時期先做血管分流手術,三到四歲間則可作 (a) 改良的 Fontan 式手術,連接右心室及右心房,並關閉心房及心室中膈缺損。(b) Fontan 術式:將病人的右心房或右心房的心耳連接到肺動脈上,如此右心房的血就能夠直接流到肺部去行氣體交換。(c)全靜脈一肺動脈吻合術:將上腔靜脈及下腔靜脈與肺動脈直接相連接。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 7. 治療:以外科方式治療為最終目標。 - (1) 先維持肺部血液的灌流,如注射 PGE1 維持開放性動脈導管、人工血管放置 (Blalock-Taussig shunt 或 central shunt) 或 PDA stent。 - (2) 手術治療 VSD 與矯正右心室出口阻塞。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - a. 手術治療前,注射 PGE1 以維持動脈導管暢通。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 一開始使用 PGE1 確保 PDA 暢通直到 surgical aortopulmonary shunt。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

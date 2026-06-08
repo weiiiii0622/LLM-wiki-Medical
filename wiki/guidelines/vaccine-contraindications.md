@@ -9,6 +9,12 @@ sources:
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Vaccine contraindications (疫苗禁忌與注意事項)'
   - 'Vaccine contraindications'
@@ -23,7 +29,7 @@ tags:
 
 ## Summary
 
-疫苗接種前需評估嚴重過敏、免疫低下、懷孕與急性中重度疾病等禁忌/延後情境。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+疫苗接種前需評估嚴重過敏、免疫低下、懷孕與急性中重度疾病等禁忌/延後情境。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +38,23 @@ tags:
 - [[sources/med4-book3-ch09]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch14]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch30]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch07]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- #### 5. Contraindication: Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 5. Contraindication (健保局 guideline): - (1) 絕對禁忌症: - a. 不可逆之腦病變。 - b. 惡性腫瘤末期。 - c. 不可逆之心、肺疾患且不適合做臟器移植者。 - d. 不可逆之多重器官衰竭。 - (2)相對禁忌症: - a. 持續進展之退化性全身性疾病。 - b. 不可控制之感染。 - c. 不可控制之出血。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 【詳解】(A) 同一根手指/肢端有好幾個截斷口,斷成多個 segments,每個 segment 神經血管組織的損傷 level 都不同,讓 replantation 的難度更為複雜,重建過程耗時,且接完後斷肢是否能成功存活也很難預估。所以 Multiple level amputation 是 replantation 的 contraindication,但隨著 micro-surgery 技術的進步以及嘗試,還是有 multiple level amputation 的成功案例。下面為 Replantation 的 indication 和 contraindication: Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- #### Contraindications Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- ④ 「過去有右側膿胸且經開胸治療之病史」的病人,是胸腔鏡或小傷口內視鏡的 Contraindication。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- #### C. Contraindications Source: [[sources/med5-book2-ch07|庚、心臟移植]].
+- (D) operative treatment: Crohn's colitis 是 ileal pouch 的 contraindication Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- (2) Radioactive iodine (RAI) ablation: - a. 口服放射性的 131 I, 甲狀腺會吸收 131 I, 對甲狀腺產生破壞作用。 - b. 劑量 5~10 mCi , 持續 4~12 週 , 75% 病患會有效 , 剩下 25% 無效的病患則加 倍劑量。 - c. 會有 70% 的病患會終生甲狀腺機能低下,但並不會增加 thyroid cancer、leukemia、teratogenicity 的危險性。 - d. Contraindication:孕婦、新生兒、甲狀腺 RAI 吸收量不足 20%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 2. 絕對禁忌症 (Absolute contraindications): - (1) 因腹腔鏡手術需全身麻醉,故無法接受全身麻醉的病患不能接受腹腔鏡手術。 - (2) 凝血功能異常無法矯正者。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - 3. 相對禁忌症(Relative contraindications): - (1) 之前有作過腹腔手術者:腹腔內會沾黏,影響手術,須作 adhesiolysis 減少沾黏。 隨著經驗的累積、技術的進步及器械的改良,已經少被列為禁忌症了。 - (2) 腹膜炎。 - (3) 懷孕第一期和第三期婦女。 - (4) 嚴重心肺疾病:心肺疾病會因使用 CO2 充氣產生高碳酸血症而惡化病情,腹內 壓上升也會影響到心肺功能。 - (5) 腸胃脹氣: 術中容易傷害到腸胃。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - (D) 11. 下列何者不是內頸動脈結紮(Internal carotid artery ligation)的禁忌症(contraindication)? - (A) 嚴重低血容症 (Severe hypovolemia) - (B) 最近有蜘蛛膜下腔出血(Evidence of recent SAH) - (C) 腦血管攝影有腦血管痙攣跡象 (Evidence of cerebral vasospasm on the arteriogram) - (D) 頸動脈顳骨岩部之創傷性動脈瘤剝離(Traumatic dissecting aneurysm of the petrous carotid artery) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].

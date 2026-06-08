@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Preventive medicine (預防醫學)'
   - 'Preventive medicine'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-以初級、次級、三級預防降低疾病發生、早期偵測與減少失能。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以初級、次級、三級預防降低疾病發生、早期偵測與減少失能。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch27]]
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- 1. Primary prevention:辨認出環境的致癌因子,並 modifyis 致癌因子以降低罹癌風險,例如 dietary modification(多吃蔬菜水果及高纖維食物)、avoidance of environmental hazards(遠離有害環境)和 chemoprevention(服用預防癌症的藥物)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 2. Secondary prevention: cancer screening 提前找出癌前期病變或癌病變。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- ...腸癌最佳的治療方式是局部切除、保存肛門 | | | | 【詳解】T2 已經侵犯到 muscularis propria,僅局部切除的預後 | | | | 不好,仍建議做根除性切除。 | | | (D) 20 | 下列那一項並非大腸直腸癌的 primary prevention ? | 102(一)專 | | | (A) Dietary modification | 醫五 -54 | | | | | | | (B) Avoidance of environmental hazards | | | | (B) Avoidance of environmental hazards (C) Chemoprevention | | | | | | | | (C) Chemoprevention | | | (D) 2 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (A) 25. 腦梗塞的二次預防(secondary prevention)須使用抗血小板藥物, 102( ) 專 若考慮藥物經濟學(同時考慮藥價與療效的最大效益),首選藥 醫四 -60 物為何? - (A) Aspirin - (B) Ticlopidine - (C) Clopidogrel - (D) Dipyridamole Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - #### A. 疾病的三段五級預防 [Ref. 陳拱北預防醫學基金會。公共衛生學(上)。2001] Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - 【詳解】(A) 美國預防醫學工作小組(USPSTF) 建議 50~74 歲女性 每兩年做一次乳房攝影篩檢(B級)。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].

@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book4-ch23]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Ankylosing spondylitis, AS (僵直性脊椎炎)'
   - 'Ankylosing spondylitis, AS'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,14 @@ seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 �
 - [[sources/med3-book4-ch23]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- 3. 自體免疫疾病(ankylosing spondylitis)。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- c. Peripheral arthritis/ankylosing spondylitis 於術後可改善,但 primary sclerosing cholangitis 術後無法改善。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- (B) ankylosing spondylitis Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - f. Enthesitis-related arthritis(包括 ankylosing spondylitis 僵直性關節炎):關節炎加上 enthesitis(肌腱、韌帶、關節囊或 fascia 和骨頭相接出疼痛),或關節炎或 enthesitis 其中之一加上以下至少兩項: - (a) 有或曾有 sacroiliac joint 壓痛或 inflammatory lumbosacral pain。 - (b) HLA-B27 陽性。 - (c) > 6 歲的男性初發關節炎。 - (d) 急性 anterior uveitis。 - (e) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】(B)除非病人免疫低下、臨床有毒性病容、年紀太小低於三個月,治療方式優先以支持性療法為主。(D) Nelson's Textbookd of Pediatrics 20th Edition p1387 裡提到沙門氏桿菌腸炎引起胃腸道外的併發症有 reactive arthritis(通常是發生在青少年,特別是帶有 HLA-B27)或是骨髓炎(osteomyelitis,特別是罹患 sickle cell disease 的病童)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - C. **其包含四種疾病**: 僵直性脊椎炎(AS)、反應性關節炎(ReA)、乾癬性關節炎(PsA)、發炎性腸炎相關之關節炎等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].

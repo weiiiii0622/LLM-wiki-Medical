@@ -25,6 +25,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Renin-angiotensin-aldosterone system, RAAS (腎素-血管張力素-醛固酮系統)'
   - 'Renin-angiotensin-aldosterone system, RAAS'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-心衰竭與高血壓治療的重要神經荷爾蒙路徑。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭與高血壓治療的重要神經荷爾蒙路徑。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,13 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 1. 血液 aldosterone 濃度過高。Aldosterone 的生理作用是留鈉、排氫、排鉀。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...dosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (2) 遠端腎小管與尿液酸化有關途徑:H+/ATPase、the HCO3-/Cl- anion exchanger 或是 the aldosterone pathway。以上若其中一項出問題,則可能發生第一型腎小管酸中毒。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -82,9 +87,6 @@ tags:
 - 2. 給生理食鹽水會改善的、Ucl +:嘔吐(Vomiting)、使用鼻胃管引流(gastric aspiration)、Villous adenoma。 - (2) 腎臟流失:先前使用利尿劑造成體液缺乏(Volume depletion),可想成體液缺乏時,Renin angiotensin aldosteron system 啟動,aldosteron 造成留鈉排鉀排氫,導致 H+ loss。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...tion in Na+-Cl- cotransporter in DCT) | | | | ECFV expansion, | High | 1. Renal artery stenosis | | | | hypertension, | renin | 2. Accelerated hypertension | | | | K+ deficiency, and | | 3. Renin-secreting tumor | | | | mineralocorticoid | | 4. Estrogen therapy | | | | excess | Low | 1. Primary aldosteronism (Adenoma, Hyperplasia, Carcinoma) | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (C) 皮質醛酮素缺乏 (aldosterone deficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (D) 血管升壓素 (angiotensin) 增加 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (a) 血壓高:若與礦物性皮質素 (Aldosterone) 分泌過量有關,乃因其藉由留 鈉排鉀,所以會合併高血壓,要考慮腎動脈狹窄 (Renal artery stenosis)、 Conn's syndrome 等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...| 4. 下列有關糖尿病腎病變之敘述,何者錯誤? (A) 蛋白尿或微蛋白尿不會出現於新診斷第二型糖尿病病人 (B) 病理上的變化如腎絲球基底膜變厚及腎小球內基質 (mesangium)擴張是常見的 (C) 使用腎素 - 血管張力素系統 (renin-angiotensin system)阻斷劑 (D) 國內目前每年進入透析的新病人其原發病因以糖尿病腎病變占第一位 | 105(二)專醫三-7 | |-----|------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

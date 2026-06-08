@@ -24,6 +24,9 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book2-ch19]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Peptic ulcer disease (消化性潰瘍)'
   - 'Peptic ulcer disease'
@@ -38,7 +41,7 @@ tags:
 
 ## Summary
 
-胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +65,17 @@ tags:
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch21]]
+- [[sources/med5-book2-ch19]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- Symptomatic hyperparathyroidism - Fatigue - Pruritis - Bone pain or pathologic bone fracture - · Peptic ulcer disease - · Mental status changes - History of renal calculi Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...甲狀腺增生或癌較易發生 (D) 治療應給予 normal saline infusion 及 furosemide 【詳解】(A) 高血鈣的神經症狀應為疲倦、嗜睡、虚弱肌腱反射 下降,意識不清等。 (D) 11.50 歲男性,過去有高血壓及十二指腸潰瘍病史,上個月曾經因 102(一)專 為左側輸尿管結石去過急診,最近常感到倦怠、四肢肌肉無力, 醫五-47 則下列何種檢查,較無診斷價值? (A) 血鈣濃度 (B) 血中鹼性磷酸酶 (alkaline phosphatase) 濃度 (C) 血中副甲狀腺素(iPTH)濃度 (D) 血中三酸甘油脂(triglyceride)濃度 (D) 12. 下列何者與血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...理學檢查有輕度發燒(38℃),腹部有壓 痛及反彈性壓痛,白血球數也增加至 15,000,腹部 X 光檢查出 現明顯的腹膜腔內之 free air。則最有可能的診斷是: - (A) diverticulitis of colon - (B) peptic ulcer perforation - (C) colon perforation at polypectomy site - (D) perforated appendicitis Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
+- (A) Peptic ulcer perforation Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
+- 4. 症狀:消化性潰瘍(PUD)、上腹疼痛(epigastric pain)、腹瀉(因胃酸過度分泌破壞消化酵素)、體重減輕。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (A) 因急性十二指腸潰瘍穿孔接受腹腔鏡十二指腸修補縫合術, 術後第三天,鼻胃管仍留置,每日引流量約為六百毫升 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - | (D) 21. 下列那一位腦死病患,最不適合成為腎臟移植的捐贈者? (A) 43 歲,糖尿病病患 (B) 35 歲,腎結石病史者 (C) 37 歲,十二指腸潰瘍病史 (D) 20 歲,HIV 陽性 | 98(二)專醫五-5 | |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (BC)26. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證 實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲 知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外 籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀 而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。 下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
@@ -78,11 +89,6 @@ tags:
 - | 藥物 | 機制 | 備註 | |----------------|-------------------------------|----------------------------------------------| | | 抑制 microtubule polymerization | 快發作的時候吃可預防 1#bid~tid | | Colchicine | →防止 neutrophil 趨化 | 副作用:噁心、嘔吐、腹瀉 | | NSAID | 減少發炎 | 效果佳,發作時一線用藥 | | Corticosteroid | 減少發炎 | 腎不好、消化性潰瘍而無法使用 NSAID 時,可用 Corticosteroid | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (C) 5. 一位 57 歲男性在 40 歲時曾經做過一次健康檢查,當時血液相是正 常的。15年前因胃潰瘍穿孔接受了三分之二的胃切除手術,其他無 特殊病史。最近因為容易疲倦,接受血液檢查,發現血紅素為8.7 gm/dL, MCV 71 fL, 白血球 3,650/μL, 分類正常, 血小板 395,000/μL。 大便潛血反應為陰性,胃鏡檢查無潰瘍或腫瘤。此病人最可能的診斷 為何? Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (1) Tetracycline · Doxycycline · Minocycline - a. 對細菌的抗藥性高,主因細菌產生排出幫浦,將進入細菌的四環黴素迅速排出, 因此主要用在 - (a) 立克次體 (Rickettsia, 如恙蟲病= Scrub typhus, Q fever); - (b) 螺旋菌(Spirochetes,如 Lyme disease 造成的關節炎,對 PCN 過敏的梅毒患者替代用藥); - (c) 弧菌(H. pylori),用於合併治療根治幽門桿菌造成的消化性潰瘍。 - (d) 披衣菌 (Chlamydia trachomatis) 眼睛、泌尿系統感染;青春痘 (Acne)等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- 4.2週:幽門螺旋桿菌造成胃潰瘍、神經性梅毒、急性腎盂腎炎。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...associated diarrhea (10 days), Giardia enteritis, cellulitis, epididymitis | | 2 weeks | Helicobacter pylori-associated peptic ulcer, neurosyphilis (penicillin IV), | | | penicillin-susceptible viridans streptococcal endocarditis (penicillin plus | | | aminoglycoside), disseminated gonococcal infection with arthritis, acute pyelonephritis, | | | unco Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (2) 疾病:胃炎、胃潰瘍、十二指腸潰瘍、胃癌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 1. HCO3 gain:如乳-鹼綜合徵(Milk-Alkali Syndrome),因長期服用太多鈣(如牛奶或鈣片)及可吸收的鹼性藥物(如治療消化性潰瘍的制酸劑 Antacid),導致高血鈣、鹼中毒及腎功能損害。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...C) 連續可活動性腹膜透析 (continuous ambulatory peritoneal dialysis) (D) 自動化腹膜透析 (automated peritoneal dialysis) (A) 9. 一位 84 歲男性,因胃潰瘍大量出血,收縮壓降至 60 mmHg,有心 98(二)專 衰竭病史,其血壓用升壓劑勉強維持在 90/65 mmHg 左右,血中尿素 醫三-24 氦(BUN)升至145 mg/dL,肌酸酐(creatinine)11.5 mg/dL,每 天尿總量只有 75 cc,血紅素為 7 g/dL,需輸血及大量輸液治療約 2,500~3,500 ml /天,下列何種透析療法對他最為合適? (A) 連續性靜脈靜脈血液透析 (continuous ven Source: [[sources/med3-book3-ch06|己、透析治療]].
 
 ## Clinical Caveats
 
@@ -91,6 +97,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/gastrinoma|Gastrinoma / Zollinger-Ellison syndrome (胃泌素瘤／Zollinger-Ellison 症候群)]]
 - [[conditions/helicobacter-pylori-infection|Helicobacter pylori infection (幽門螺旋桿菌感染)]]
 - [[diagnostics/helicobacter-pylori-testing|Helicobacter pylori testing (幽門螺旋桿菌檢測)]]
 - [[drugs/proton-pump-inhibitors|Proton pump inhibitors, PPI (質子幫浦抑制劑)]]

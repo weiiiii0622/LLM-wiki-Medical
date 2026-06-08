@@ -20,6 +20,13 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book2-ch13]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)'
   - 'CT pulmonary angiography, CTPA'
@@ -34,7 +41,7 @@ tags:
 
 ## Summary
 
-肺栓塞常用影像診斷。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺栓塞常用影像診斷。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +61,26 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch11]]
+- [[sources/med5-book2-ch13]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- (3) 血管攝影、電腦斷層:適合診斷和術前計畫評估。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...---------------------------------------------------------|------------------| | (A) 6. | 承上題,要作進一步確定診斷(A)靜脈杜普勒超音波檢查(B)靜脈血管攝影(C)電腦斷層掃描(D)核醫檢查 | | 102(一)專醫五-27 | | (C) 7. | | 是一種須緊急手術的對象,為避免最遲在完全阻塞發生之後幾個小時(B) 3~5(D) 9~12 | 101(二)專醫五-16 | | (C) 8. | | | 101(二)專醫五-18 | | 情況: | 就好了(Intermittent claudical | 年前開始右下肢在走一段路之後會疼痛tion),最近右腳傷口癒合不佳,身體核肖為差些 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...有關,而動脈阻塞造 | | | | 成之疼痛則否 | | | (B) 11. | 若要正確診斷同時作外科前的計畫評估,下列那種檢查最需要? | 100(二)專 | | | (A) 杜卜勒超音波檢查 | 醫五 -31 | | | (B) 動脈血管攝影 | | | | (C) 股動脈臂動脈壓比值(Femoro-brachial pressure ratio) | | | | (D) Plethysmography | | | | | | | (A) 12. | 此病人若接受外科手術治療,下列何項步驟不正確? | 100(二)專 | | (A) 12. | 此病人若接受外科手術治療,下列何項步驟不正確?(A) 股動脈至膝動脈繞道手術 | 100(二)專醫五-32 | | (A) 12. Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- 2. 處置:(依照下消化道出血處理原則) - (1) Resuscitation:等張性晶體溶液 ±pRBC。 - (2) 診斷出血位置: - a. NG tube:排除上消化道出血。 - b. Anoscopy/ Proctoscopy:排除 anorectal bleeding。 - c. Nuclear scan: Tc-99m \ tagged RBC \circ - d. Mesenteric angiography (血管攝影)。 - e. Colonoscopy • - f. Laparotomy (剖腹探查)。 - (3) 手術: - a. Urgent segmental resection:持續出血且輸血量已超過 6 U pRBC/24hrs 時緊急 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
+- 【詳解】憩室炎的基本治療以內科(抗生素)為主,除非反覆性憩室炎、腸穿孔引起腹膜炎、形成瘻管、急性大量出血才需要手術介入。貧血/出血方面先藉由輸液/輸血穩定hemodynamic status,做大腸鏡鏡檢(順便可進行止血),大腸鏡檢沒辦法找到出血點,可用血管攝影(順便做血管栓塞治療),最後出血都還沒法停止,才考慮手術。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
+- ...angiodysplasia): 0.1 cc/min、tagged RBC 可偵測出血速率> 0.5 cc/min 的出血點) - (b) Mesenteric angiography:當 nuclear scan 為陽性反應時,才會採用血管攝影去尋找出血點的實際解剖位置,可偵測出血速率> 1.0 cc/min 的出血點,並可同時施打 vasopressin 或作 embolization,達到治療的效果,成功率約 85%。 - (c) Colonscopy:用來治療勝過診斷,適合較慢速的出血。可用 vasoconstrictive agents (epinephrine)、vasodestructive agents (alcohol、morrhuate、sodium tet Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
+- (D) 血管攝影(angiography)可以用於尋找出血位置及治療 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
+- (D) 8. 一位 56 歲男性病人因胸悶住院。他有糖尿病、高血壓、與抽菸 史。冠狀動脈血管攝影檢查顯示左冠狀動脈主幹 85% 狹窄、左 前降支 80% 狹窄、左回旋支 77% 狹窄、右冠狀動脈 90% 狹窄。 下列敘述何者正確? ①依冠狀動脈血管攝影檢查前家屬之決 定,立即裝置塗藥支架(drug-eluting stent) ②冠狀動脈血管攝 影檢查時,經與家屬商量後,立即裝置裸金支架(bared-metal stent) ③裝置支架前,不須請心臟外科醫師向病人及其家屬解 釋冠狀動脈繞道手術之優缺點 ④裝置支架時,手術室須準備 好,以便可立即進行緊急手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (D) 安排心臟超音波檢查、心導管檢查術與冠狀動脈血管攝影術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- | (B) 28. 承上題,接下來何者為適當的檢查? | 101(一)專 | |----------------------------------------|---------| | (A) 血管攝影 (angiography) | 醫五 -55 | | (B) 大腸鏡(colonoscopy) | | | (C) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstru Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 【詳解】圖中由上方可見一片訊號較強的地方,沿著腦溝分布 呈現五芒星狀為 SAH,該部位為 basal cistern,為動脈瘤破裂所 致。住院做血管攝影確認病灶來源。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (B) 10. 一位 56 歲女性病患,大腦血管攝影發現有一顆後交通動脈瘤 (posterior communicating artery aneurysm),該動脈瘤接觸到大 腦顳葉(temporal lobe),這位病患最有可能的症狀是那一種? Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (C) 在大腦血管攝影前後像可看到動脈瘤在頸內動脈內側突出 (projection of the aneurysm medial to the internal carotid artery on the AP angiogram) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
@@ -65,16 +89,6 @@ tags:
 - 【詳解】AVM 在血管攝影可見一團混亂的血管,電腦斷層出血 常為 ICH;aneurysm 在血管攝影為一血管小突起,電腦斷層出 血常為 SAH。 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
 - (C) 18.5 歲男孩,並無發燒或高血壓病史,突然發生右側肢體無力,經腦部電腦斷層檢查,發現左側前腦動脈供應區呈現缺血性梗塞,核磁共振動脈攝影(MRA)及腦血管攝影顯示兩側前腦動脈及中腦動脈供應區出現不正常毛玻璃樣血管叢。下列四項診斷中,那一項最符合? Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (B) 19. 承上題,以下之敘述,何者最可能是該小孩之腦血管攝影所發現 到的結果? Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- 4. 診斷:血中 d-dimer 可幫助排除(high sensitivity, low specificity),確診須靠 contrast-CT、血管攝影、V/Q scan。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (C) 懷疑有動脈血管損傷必須考慮安排血管攝影檢查 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (C) 5. 一位 60 歲女性,於一週前發生複視(diplopia),並無劇烈頭痛,神經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ischemic type) - (D) 海綿靜脈竇徵候群 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (B) 1. 八十四歲的伍爺爺因突發頭痛及行動不便,被送至急診室,神經 106(-)專 內科主治醫師認為是出血性中風,最合適的檢查為下列何者? 醫四-49 - (A) 血管攝影 (angiogram) - (B) 電腦斷層攝影(CT) - (C) 核磁共振攝影 (MRI) - (D) transcranial doppler Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- ...(A) | 5.33 歲健康女性,突發劇烈頭痛及暈厥(syncope),病人清醒後有頭痛、嘔吐及頸部酸痛現象,此時最優先的檢查為何? (A) 不打顯影劑的腦部電腦斷層 (B) 打顯影劑的腦部電腦斷層 (C) 打顯影劑的腦部磁振造影 (D) 血管攝影 【詳解】當然是先做不打顯影劑的頭部電腦斷層,先搶時間診斷是否為顱內出血,如 SAH。然後再適時選擇下一步的檢查。 | 108( 二 ) 專醫四 -77 | |-----|--------------------------------------------------------------------------------------------------------------------------------------... Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (b) 另外也可以考慮以血管攝影放置 multiple helical platinum coils 到血管瘤底 部,進行 coil embolization。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...1990)[不用死記,建議多看幾次能對此病有概念] - a. 年紀 10 mmHg - d. 四肢動作困難 (Extremities claudication) - e. 鎖骨下動脈或主動脈聽到雜音(Bruit) - f. 大動脈或主要分之血管攝影異常 (Irregular vessel wall, stenosis 等) - (4) 治療: Steroid、MTX Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...Mononeuropathy or polyneuropathy) - f. 高血壓:舒張壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (C) 10. 一位 35 歲女性最近兩個月來有微燒,而體重減輕約 6 公斤,吃飯之 後會有輕度腹痛。檢查結果發現 WBC 11,500/mL、CRP 1.46 mg/L、 ANA: 1: 160 speckled、cANCA 陰性、anti-cardiolipin < 12 U/mL, proteinuria (++),腹部血管攝影如附圖。最可能的診斷為何? Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

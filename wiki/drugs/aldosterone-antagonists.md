@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'Aldosterone antagonists (醛固酮拮抗劑)'
   - 'Aldosterone antagonists'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- C. Hyperaldosteronism (醛固酮亢進) 236 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- #### C. Hyperaldosteronism (醛固酮亢進) Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...以 pRBC: FFP: platelet 以 1:1:1 的方式輸注來預防。 - (4) 急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - a. 大量輸血有機會造成高血鉀,另外病人大都存在休克狀態,其體內的醛固酮、 抗利尿及皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-relate Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - akalosis)。由於刺激 renin-angiotensin II-aldosteron axis,病人血液內腎素、醛固酮、前列腺素 E 濃度明顯升高。雖然腎功能正常,但尿液檢查表現高尿鈣,超音波檢查可以發現到腎鈣沉積症(nephrocalcinosis),特別是 Bartter syndrome type I 與 type II 的病人。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (3) 血液檢驗: Gitelman syndrome 臨床上除了低血鉀低血氯代謝性鹼中毒外,也會 出現低血鎂。腎素、醛固酮以及前列腺素 E 濃度都在正常範圍內。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -56,7 +61,6 @@ tags:
 - ...Hg 的情況,下列何種內分泌疾病最需要列入診斷考量? (A) 嗜鉻細胞瘤(pheochromocytoma) (B) 甲狀腺功能亢進(hyperthyroidism) (C) 庫欣氏症(Cushing's syndrome) (D) 原發性醛固酮過高症(primary aldosteronism) | 108(一)專醫三-55 | |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - (A) spironolactone Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - 【 詳解】Spironolactone 為 Aldosterone 的 拮 抗 劑 , 適 合 用 在 hyperaldosteronism 病人。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
-- 心肌因某種原因受傷害→導致左心室重塑(包含腔室擴張 ± 肌肉肥大)→ RAA 系統 啟動(Angiotensin 使血管收縮、Aldosterone 留鈉)且交感神經系統活化以增加心收縮及心輸出→細胞毒性、纖維化、心律不整→心輸出下降、肺及周邊組織積水。[編按:病生理的惡性循環與治療相關,用 ACEI 對抗血管收縮、用 β blocker 對抗交感神經系統活化、用 Aldactone 或利尿劑改善留鈉及水腫。] Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 
 ## Clinical Caveats
 

@@ -28,6 +28,10 @@ sources:
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book2-ch19]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -42,7 +46,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +74,21 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med4-book3-ch09]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch21]]
+- [[sources/med5-book2-ch19]]
 
 ## Key Details From Sources
 
+- 5. 細胞: - (1) 濾泡細胞 (follicular cell): 合成分泌 T3、T4。 - (2) 濾泡旁細胞(parafollicular cell):又叫 C cell,分泌降鈣素(calcitonin)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...dase 將 I 氧化成碘 (I)。 - (3) Organification:碘和甲狀腺球蛋白(thyroglobulin)上的 Tyrosine 結合形成 MIT 和 DIT。 - (4) Coupling: MIT 和 DIT 合成 T3、DIT 和 DIT 合成 T4。 - (5) Secretion: 下視丘分泌 TRH (thyrotropin-releasing hormone)→腦下垂體前葉分泌 TSH (thyroid-stimulating hormone) 刺激甲狀腺→ T₃和 T₄經由 proteolysis 脱離甲狀腺球蛋白,並離開甲狀腺分泌至血液中。 - (6) 血液中以 T4 為主, T3 和 T4 在血中和 TBG (thyroxine-bin Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 1. 生化檢驗數據: TSH 和 Free T4 最準。 - (1) TSH: 0.3~5 mIU/L, 在腦下垂體功能正常的情況下: - a. TSH ↑代表 hypothyroidism。 - b. TSH ↓ 代表 hyperthyroidism。 - (2) Total $T_4$ : $3\sim12 \mu g/dL \circ$ - (3) $T_3$ : 80~200 ng/dL • - (4) RT3U (Resin T3 uptake):正常值 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...----|-----------------| | 0 | Tis | N0 | M0 | - | | | I | T1 | N0 | M0 | A | 85~95% | | | T2 | N0 | M0 | B1 | | | IIA | T3 | N0 | M0 | B2 | 60~80% | | IIB | T4a | N0 | M0 | B2 | | | IIC | T4b | N0 | M0 | В3 | | | IIIA | T1-T2 | N1/N1c | M0 | C1 | 30~60% | | | T1 | N2a | M0 | C1 | | | IIIB | T3-T4a | N1/N1c | M0 | C2 | | | | T2-T3 | N2a | M0 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- ...|------------------|--|--| | Stage 0 | Tis, N0, M0 | | | | Stage I | T1, N0, M0 | | | | Stage II | T2, N0, M0 | | | | | T3, N0, M0 | | | | Stage IIIA | T1, N1, M0 | | | | | T2, N1, M0 | | | | | T3, N1, M0 | | | | | T4, N0, M0 | | | | Stage IIIB | T4, N1, M0 | | | | | Any T, N2, M0 | | | | | Any T, N3, M0 | | | | Stage IV | Any T, any N, M1 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- (D) 4. 一位女性體檢時,意外發現有高血鈣,進一步檢查證實為原發性 107(二)專 副甲狀腺功能亢進(primary hyperparathyroidism),根據目前的 醫五-37 治療指引,有些原發性副甲狀腺功能亢進患者即使無臨床症狀 亦建議應接受手術,但下列何者除外? - (A) 骨密度檢查 T-score 小於 -2.5 - (B) 肌酸酐廓清率 (creatinine clearance) 小於 60 mL/min - (C) 血鈣超過正常值上限 1.0 mg/dL 以上 - (D) 年齡大於 60 歲 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- 內分泌外科共分甲狀腺、副甲狀腺、胰島和腎上腺四大部分。甲狀腺重點在甲狀腺功能評估和疾病診斷、甲狀腺癌種類的分辨和甲狀腺術後併發症。副甲狀腺重點為機能評估。胰島重點在於分辨各種胰島細胞瘤之症狀、診斷和處置。腎上腺重點為Cushing syndrome 和嗜鉻細胞瘤。 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 - 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...ne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -83,14 +99,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - ...型雙極性疾患(bipolar I disorder),下列何者正確? (A) 必須也有重鬱發作(major depressive episode) (B) 上述症狀不一定要造成病人的功能損失 (C) 不需考慮藥物之可能影響 (D) 必須排除甲狀腺功能亢進或低下造成的影響 【詳解】(A) 第二型雙極性疾患(bipolar II disorder) 才需要至少 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 【詳解】甲狀腺功能異常(亢進或是低下)均有可能會造成認知功能缺損。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...D) 心律不整 (D) 17. 承上題,下列那一項疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized anxiety disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (A) 須考慮是否有任何身體疾病,在醫療的處置上,需先評估個 案的標準生化檢查、心電圖與甲狀腺功能檢查 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- ...四 -72 (A) 憂鬱 (depression) (B) 焦慮 (anxiety) (C) 熱潮紅 (hot flashes) (D) 腹脹 (abdominal bloating) 【詳解】(C) 是停經症候群才會。 (A) 6. 有關甲狀腺功能低下(hypothyroidism)與精神疾病的關聯性, 108(二)專 醫四-62 下列何者錯誤? - (A) 針對甲狀腺功能低下所引發的精神症狀,應該一開始就使用 高劑量的抗精神病藥物 - (B) 甲狀腺功能低下可能引發認知障礙 - (C) 甲狀腺功能低下可能是難治型憂鬱症(treatment refractory depression)的原因之一 - (D) 甲狀腺功能低下可能引發憂鬱情緒 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- 約 10~15% 失智症是可逆性的,尤其是因為系統性疾病如腎臟病、鬱血性心臟衰竭、甲狀腺功能低下、維生素缺乏、藥物或憂鬱症導致的失智症。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- β-adrenergic receptor antagonist 又稱作 beta-blocker,可以抑制 adrenergic receptor 的活化,常在內科病人身上用來治療高血壓、心絞痛、心律不整與甲狀腺功能亢進。在精神科方面則常被用來治療病人的社交畏懼症、鋰鹽引起的手部顫抖、控制攻擊行為、與抗精神病藥物引起的急性靜坐不能(acute akathisia)。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- ...l* | | | | b: With ulceration or level IV/V/T2 | | T2 | 1.01~2.0 | a: Without ulceration | | | | b: With ulceration | | T3 | 2.01~4.0 | a: Without ulceration | | | | b: With ulceration | | T4 | > 4.0 | a: Without ulceration | | | | b: With ulceration | Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (2) 新生兒與嬰兒:先天性甲狀腺發育不良。先天性甲狀腺功能低下多為偶發性, 僅少數有家族史。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- a. 新生兒篩檢:在台灣檢查 TSH, 其敏感性與特異性均超過 95%。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- b. 新生兒篩檢異常者抽血驗 TSH 和 $T_4$ 或 free $T_4$ 確認( $T_4$ 與 free $T_4$ 會低下)。 血液中 $T_4$ 有可能在正常值範圍故對診斷沒有幫助。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 
@@ -99,9 +107,11 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 
 ## Related Pages
 
+- [[conditions/hashimoto-thyroiditis|Hashimoto thyroiditis (橋本氏甲狀腺炎)]]
 - [[conditions/hyperthyroidism|Hyperthyroidism (甲狀腺亢進)]]
 - [[conditions/hypothyroidism|Hypothyroidism (甲狀腺低下)]]
 - [[drugs/lithium|Lithium (鋰鹽)]]
+- [[conditions/subacute-thyroiditis|Subacute thyroiditis / de Quervain thyroiditis (亞急性甲狀腺炎)]]
 - [[conditions/vitiligo|Vitiligo (白斑)]]
 
 ## Follow-up

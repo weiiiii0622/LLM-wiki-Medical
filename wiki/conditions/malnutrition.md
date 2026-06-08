@@ -7,6 +7,8 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book2-ch02]]"
 aliases:
   - 'Malnutrition (營養不良)'
   - 'Malnutrition'
@@ -21,16 +23,21 @@ tags:
 
 ## Summary
 
-能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med5-book2-ch25]]
+- [[sources/med5-book2-ch02]]
 
 ## Key Details From Sources
 
+- 2. 外在 / 全身因素: 年紀、營養不足 (營養不良 / 肥胖、缺乏維他命 A 或 C、鋅、 鐵或銅 )、抽菸、類固醇的使用、抗癌藥物、糖尿病、尿毒症或 Collagen vascular disease。 - (1) 維他命 A 和 epithelialization 相關,可逆轉類固醇所造成的延緩傷口癒合的作用。 - (2) 維他命 C 與鋅和 collagen 合成相關。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- ...| 102(一)專 | | | | (A) 大多數的肺栓塞(pulmonary embolism)是起源於深層靜脈 | 醫五-5 | | | | 栓塞 (deep venous thrombosis) | | | | | (B) 老年人常因營養不良而有比較高的手術後併發症發生率 | | | | | (C) 肥胖與營養不良並不會增加傷口裂開的機率 | | | | | (D) 手術後的疼痛、輸液量過多會導致高血壓 | | | (B) | 16. | 下列生長因子(growth factors),何者沒有血管新生(angiogene- | 102(一)專 | | | | sis)的作用? | 醫五-18 | | | | (A) 血小板衍生之生長因子 Platelet-derived g Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- ...her | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直持續或加重。 - d. 動脈瘤破裂。 - e. 根據 Aortic Size Index(ASI = Aortic Diameter/Body Surface Area),如果病患 為 BSA 較小的女性,動脈瘤長比較快且易 rupture,故最大直徑為 4.5 公分至 5 公分 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - ...-------------|----------------------| | (B) | 8. 嚴重外傷之病患,術後需要足量營養補充,以維持各項生理功能與組織復原。營養補充是否足夠,可藉由下列各種生化檢定來評估,何者除外?(A) 白蛋白(albumin) (B) 球蛋白(globulin)(C) 前白蛋白(prealbumin) (D) 轉鐵蛋白(transferrin) | 105(二)專醫五-3 | | (A) | 9. 下列對於再餵食症候群(refeeding syndrome)的敘述,何者錯誤? (A) Refeeding syndrome 又稱為 magnesium steal syndrome (B) 為避免 refeeding syndrome,在給予大量營養時要添加鎂 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (D) moderate malnutrition 的病人,非蛋白質的熱量攝取與氮素比 為 150:1 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (D) 16. 一位 65 歲男性,因吞嚥困難及體重減輕住院檢查,病患體重 40 公斤,血清蛋白(serum albumin)值為 2.5 g/dL,內視鏡檢查發現食道下段有腫瘤造成阻塞,切片病理報告為食道之鱗狀上皮細胞癌,胸部電腦斷層檢查結果並無明顯之縱膈腔或肝臟轉移,骨頭掃描結果並無明顯遠處轉移。胸腔外科醫師評估可以手術切除,你認為以下那種處置比較適當? - (A) 馬上安排手術切除食道並重建以免癌症擴散 - (B) 一般葡萄糖輸液補充 7 天後手術 - (C) 全靜脈營養 (total parenteral nutrition) 補充 1 天,立即手術 - (D) 全靜脈營養補充 7 天後手術 Source: [[sources/med5-book1-ch01|甲、外科營養]].

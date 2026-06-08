@@ -21,6 +21,8 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Osteoporosis (骨質疏鬆症)'
   - 'Osteoporosis'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,15 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch21]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- 3. 症狀:腎結石、骨質疏鬆、高血壓、四肢無力、多尿、情緒不穩定。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- (A) osteoporosis, osteopenia Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- (D) 骨質疏鬆密度檢查 T < -2.5 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...跳加速 | 增加血管阻力、心跳減慢 | | 呼吸 | 喘 | 呼吸抑制,二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disea Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (B) 缺乏鋅(zinc)會造成禿頭(alopecia) (C) 接受過胃切除的病患容易缺乏鐵(iron) (D) 缺乏 vitamin D 會造成骨質疏鬆(osteoporosis) Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (5) 病理性滑脫(Pathological):骨質疏鬆、局部性的感染或腫瘤侵犯造成的病理性骨折所引起,少見。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...cavernosus reflex 都會消失。 (BC) 11. 關於脊椎的爆裂性骨折(burst fracture)之敘述,下列何者正確? 106(二)專 (A) 發生機轉與脊椎的 Chance 氏骨折相同 醫五-60 (B) 容易發生在骨質疏鬆症的病人 (C) 脊椎體塌陷大於 50% 為不穩定骨折 (D) 與脊椎的壓迫性骨折 (compression fracture) 相比,較少發 生神經損傷 【 詳解】(A) Chance fracture 為屈曲牽張性損傷 (Flexiondistraction injury );(D)爆裂的碎片容易對附近著神經造成損傷。 (#) 12. 下列有關脊神經及支配的肌肉配對,何者錯誤? 106(一)專 (A) C5 – deltoid mu Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -73,10 +81,6 @@ tags:
 - ...B5701) | function | | INKII | 的病毒 DNA | Lami vudine (3TC) | impairement, | | | | Emtricitabine (FTC, 為 3TC 之 prodrug) | osteoporosis | | | | Tenofovir (TDF, TAF) | TAF 為 tenofovir | | | | 3TC, FTC, TDF, TAF 同時可治療 HIV 及 | 之 prodrug,較 | | | | HBV | TDF 副作用少 | | | | Efavirenz (EFV) → CNS (Dizziness) | | | NNRTI* | 結合 RT 而抑制 | Nevirapine (NVP) → Stevens- Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - E. 骨質疏鬆症 (Osteoporosis) 260 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - 1. 副甲狀腺素 (PTH): [重點:低鈣時→副甲狀腺被刺激→溶解骨頭以升鈣] - (1) 要先知道骨頭是由磷酸鈣構成,要升鈣,先從骨頭搬出磷、鈣,再將磷由腎臟排出、 且抑制鈣由腎排泄,因而藉此升鈣;否則溶解出磷、鈣後,不將磷由腎臟排出,又 會等比例沉澱回骨頭。 - (2) 因此生理上的 PTH 除了會促進骨溶蝕出鈣、磷,還會抑制腎排鈣、促進腎排磷,造成高血鈣、低血磷; - (3) 副甲狀腺亢進時分泌的 PTH 劑量較大、且持續分泌,因而促進骨溶蝕造成高血鈣、 骨質疏鬆;但若較小劑量、脈衝方式分泌的 PTH,反而會促進成骨作用,例如用來 治療嚴重骨鬆症的每天皮下一針 PTH。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- #### E. 骨質疏鬆症 (Osteoporosis) Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- ...------------------------|---------------------------------------------------------------| | 較不具特殊性 | 糖尿病 (DM)、高血壓 (HTN)、骨質疏鬆 (Osteoporosis) | | | | 真皮層的 Collagen 變得脆弱易斷 | 腹部紫羅蘭色寬紋 (Wide violaceous striae),易瘀血 (Easy bruisability) | | 較具特殊性 | 雄性化特徵 (Virilizing signs) | 青春痘 (Acne)、多毛 (Hirsutism), Amenorrhea | | | 脂肪重新分布 | 驅幹肥胖 (Central obesity), Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...----------------|-------------------------------|--| | D 5 1 1 6 | 確定能改善停經症候群(潮紅、生殖泌尿道症狀) | | | Definite benefit | 確定能改善骨質疏鬆症,增加骨質密度 | | | Probable benefit | 可能降低大腸癌 | | | Unproven benefit | 也許能降低老人癡呆症發生率 | | | | Unopposed estrogen 確定會增加子宮內膜癌 | | | Definite risks | 治療 5 年以上確定會增加乳癌 | | | | 確定會增加靜脈栓塞 | | | D 1 11 11 | 可能會增加冠心病機率 | | | Probable Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
-- ...t 內 1-45 therapy)的適應症? (A) 有乳癌之家族史 (B) 三酸甘油酯過高症 (C) 子宮內膜癌 (D) 潮紅(flushing)及生殖泌尿道症狀 【詳解】荷爾蒙替代治療只有確定能改善停經症候群(潮紅、生殖 泌尿道症狀)、骨質疏鬆症。 94(二)檢 (C) 10. 停經婦女接受女性荷爾蒙療法 (hormone replacement therapy),對於 下列何者不僅無預防療效,卻反有增加的危險? 內 -8 (B) colon cancer (A) hip fracture Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
 
 ## Clinical Caveats
 

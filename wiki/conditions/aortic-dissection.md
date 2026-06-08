@@ -18,6 +18,13 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch27]]"
 aliases:
   - 'Aortic dissection (主動脈剝離)'
   - 'Aortic dissection'
@@ -32,7 +39,7 @@ tags:
 
 ## Summary
 
-急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +57,26 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch11]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch27]]
 
 ## Key Details From Sources
 
+- #### 甲、主動脈剝離 (Aortic Dissection) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 2. 結構上的分類是根據主動脈被侵犯之範圍,而非以內膜撕裂處所在之地點決定,目前常用的分類法有 Stanford 及 DeBakey 兩種。(見下圖) - (1) Stanford:以 dissection 的範圍有無牽涉到 ascending aorta 為分型。 - a. Type A:有牽涉到 ascending aorta,約佔 2/3的 case。 - b. Type B: 無牽涉到 ascending aorta,約佔 1/3 的 case。 - (2) Debakey: - a. Type I: 牽涉到 ascending aorta 和 descending arota。 - b. Type II: 僅牽涉 ascendi Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 1. 突發性的劇烈胸痛,且有後背痛(interscapular pain)。如果胸痛僅在前胸,可能為 升主動脈剝離;延伸至頸部或下顎,可能有主動脈弓剝離;延伸至下背部,可能為 降主動脈剝離。隨著主動脈剝離的進展,病人會描述有撕裂痛(tearing pain)的感覺。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (1) Absolute: - a. 嚴重的 AR, 在舒張期 aortic valve 關不緊,此時還將 balloon 充氣會使血液回流至左心室,造成左心室的 loading 太大。 - b. 病人有 aortic dissection 或 aneurysm 的時候,造成額外的壓力波動有可能讓 dissection 裂得更大,或使 aneurysm 破掉。 - c. 嚴重的 aorta-iliac artery 的鈣化,此種脆弱的血管容易有風險。 - d. 不適合心臟移植的慢性末期心衰竭患者(用了幫助不大)。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- ...onate) (D) 給與腸胃道的 potassium-binding resins (C) 7. 下列何者為主動脈氣球幫浦(intra-aortic balloon pump)的最佳使 108(二)專 用時機? 醫五-18 (A) 急性升主動脈剝離合併急性重度主動脈瓣逆流 (B) 升主動脈瘤合併慢性重度主動脈瓣逆流 (C) 二尖瓣腱索斷裂合併急性重度二尖瓣逆流 (D) 感染性腹主動脈瘤合併敗血性休克 【詳解】主動脈剝離和動脈瘤皆為 IABP 的禁忌症,因可能會惡 化症狀, 感染性腹主動脈瘤合併敗血性休克應優先考慮抗生素 治療與升壓藥物、ICU care,不適合裝 IABP。 (D) 8. 心臟手術時使用的人工心肺機包含下列那些裝置? 107(二)專 ①熱交換器(heat exch Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (3) Traumatic、dissection、先天性、血管炎或結締組織疾病造成的較少見。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- ...n of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性器官的灌注 血流。 - f. 下肢半癱(spinal cord ischemia,Adamkiewicz 動脈灌流不足) - g. Graft infection · Aorto-enteral fistula · Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (a) Total thyroidectomy,假使病人有頸部淋巴轉移則加作 ipsilateral central neck dissection。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- a. Total thyroidectomy + Central neck dissection (上下從舌骨到胸骨切跡,左右至頸動脈鞘)。如同時有 pheochromocytoma,需先將其切除,因為 pheochromocytoma 會增加甲狀腺切除術中的風險,例如 hypertensive crisis。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- b. 如果有侵犯至 ipsilateral cervical lymph nodes,則作 modified neck dissection。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (B) 對後腹膜腔的器官或需要從腹膜外(extraperitoneal space) 進入腹腔時,有時需要用氣球撐開術(balloon dissection) 來打開第一個洞 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - 3. 聽診: - (1) 頸動脈聽得見雜音(bruits)時,需懷疑 carotid dissection。 - (2) 眼球周圍可聽見雜音,懷疑 traumatic carotid-cavernous fistula。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (A) 13. 60 歲男性於腹主動脈剝離後 3 日,發現雙下肢無力與麻木、失禁,神經學檢查顯示下肢的感覺功能異常,但下列何感覺功能仍可能是正常? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
@@ -61,15 +85,6 @@ tags:
 - ...部 McBurney point*)、憩室炎 | | | | | | 左下腹部 | 結腸病變(憩室炎、便秘) | | | | | | 下腹部 | 膀胱感染或病變、女性的骨盆腔發炎 | | | | | 轉移性 | 後中背部 | 急性胰臟炎、腹主動脈剝離 | | | | | 疼痛 | 右背肩胛骨處 | 急性膽囊炎 | | | | | 25714 | 左肩 | 脾臟發炎、膿瘍或脾臟缺血 (infarction) | | | | | | 同側睪丸 | 輸尿管結石 | | | | | 腹痛性質 | 持續 | 腹内炎症或出血 | | | | | | 陣發性 | 中空臟器阻塞、痙攣 | | | | Source: [[sources/med3-book2-ch03|乙、腹痛]].
 - 【詳解】甲狀腺癌除非是早期或低惡性度的病人做 lobectomy 外, 一般治療為: total thyroidectomy + neck LN dissection, 術後再服用 放射碘,之後長期甲狀腺素使用。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - (C) 主動脈剝離 (aortic dissection) Source: [[sources/med3-book1-ch11|辛、心包疾病]].
-- (C) aortic dissection Source: [[sources/med3-book1-ch11|辛、心包疾病]].
-- (D) 2. 一位 65 歲女性病人,有肥胖、腦中風、高血壓的病史。4 週前曾因 大腿骨折而接受手術治療,目前在家臥床休養,傷口癒合良好。此 病人清晨突然覺得噁心、胸悶、喘不過氣來、家人緊急送醫治療。 到院時體溫正常意識清楚,呼吸27次/min,心跳120次/min,血 壓 88/43 mmHg, 血氧飽和度 86%。你發現心電圖在 Lead V1 至 V4 出 現新的 T wave inversion 及 S1-Q3-T3 pattern,該病人最可能之診斷為何? (A) 主動脈剝離 (aortic dissection) Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
-- (A) 病患可能為主動脈剝離延伸左鎖骨下動脈 Source: [[sources/med3-book1-ch05|子、其 他]].
-- 【詳解】Tearing chest pain 是主動脈剝離之特徵,診斷以電腦斷層最有幫助。 Source: [[sources/med3-book1-ch05|子、其 他]].
-- (A) 13. 有關主動脈剝離的說法,下列何者是不正確的? - (A) 腹部主動脈剝離比胸部主動脈剝離多見,前者之發生與高血壓, 後者之發生與血管動脈粥狀硬化之變化有關 Source: [[sources/med3-book1-ch05|子、其 他]].
-- ...i. 兩大腎動脈狹窄的常見原因分別是: - (i) 年紀大的粥狀動脈硬化。 - (ii) 年輕女性常見的 Fibromuscular dysplasia 造成腎動脈中層纖維化 (Medial fibroplasia)。 - ii. 另外,主動脈剝離到腎動脈也會造成腎動脈狹窄。 - (b) 腎動脈狹窄的臨床線索:腹部肚臍附近聽見連續亂流聲、服用 ACEI 產生急性腎衰竭需考慮之;須以 Doppler 超音波、MRA 等進一步檢查。 - b. 腎實質疾病(2%):可能有糖尿病等腎臟功能障礙等病史,續發性高血壓(secondary hypertension)最常見的原因。 - (2) 内分泌(0.5%):(口訣:CCPG) - a. Primary Hyperaldosteronism Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (1) 定義:不管血壓上升多少,發現病患有「合併」急性目標器官受損(Acute target organ damage),如腦中風、心肌梗塞、主動脈剝離、急性肺水腫、急性腎衰竭等。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- ...缺血性中風若欲給予血栓溶解劑 | 降至 185/110 以下 | | | | 出血性中風病患 | 降至 180/130 以下 | | | 積極降壓 | SAH 建議將 MAP | 降至 130 以下 | | | 作用 (MA) 中国 | Aortic dissection 建議將 SBP | 降至 120 以下 | | Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (3) 理學檢查:胸痛時的生命徵象、視診、聽診等,懷疑主動脈剝離可量測雙手血壓。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 
@@ -78,7 +93,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/aortic-dissection-surgery|Aortic dissection surgery (主動脈剝離手術)]]
 
 ## Follow-up
 

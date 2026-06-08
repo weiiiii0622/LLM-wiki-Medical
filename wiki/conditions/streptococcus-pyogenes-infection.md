@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book2-ch05]]"
 aliases:
   - 'Streptococcus pyogenes infection (A 群鏈球菌感染)'
   - 'Streptococcus pyogenes infection'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch09]]
+- [[sources/med5-book2-ch05]]
 
 ## Key Details From Sources
 
+- 1. 急性心內膜炎:病情較惡,病人大多無潛在性心臟病灶,常見致病菌為 S. aureus、Streptococcus pyogenes、Streptococcus pneumoniae、Pseudomonas aeruginosa。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - ...革蘭氏陽性菌,廣泛存在於土壤、人和動物腸道中,大部份可水解糖、蛋白質及產生外毒素。 - a. Clostridium perfringens (產氣莢膜梭菌): 能分解肌肉和結締組織中的糖類, 產生大量氣體造成氣腫,影響血液循環造成壞死 (gas gangrene)。 - b. Clostridium difficile:偽膜性大腸炎(Pseudomembranous colitis)的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (A) 動脈氣體分析 (arterial blood gas) Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 5. 併發症: - (1) 氣體栓塞 (gas embolism): - a. 大的氣體栓塞會造成肺動脈阻塞。 - b. 症狀: End-tidal CO, 下降、血壓下降、心跳減慢、低血氫。 - c. 處置: - (a) 停止充氣。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
@@ -70,7 +73,6 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 - (A) A 群鏈球菌 (group A Streptococcus) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - \* 臨床上常稱 Coagulase negative staphylococci (CoNS), 指的就是表皮葡萄球菌等; Group A streptococci (GAS), 指的就是 Streptococcus pyogen; GBS, 指的就是 Streptococcus agalactiae。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...溶血 | 存在處 | 毒力 | 臨床疾病 | |----------------|--------|---------------|-----|--------|---------|---------------| | A 群鏈球菌 | 化膿性鏈球菌 | S. pyogenes | β | 咽喉,皮膚 | M蛋白 | 咽炎,猩紅熱,風濕熱,腎炎 | | B群鏈球菌 | 無乳鏈球菌 | S. agalactiae | β | 陰道 | | 新生兒敗血症,腦膜炎 | | D群鏈球菌 | 腸球菌 | E. faecalis | αβγ | 腸道,泌尿道 | | 膽道,泌尿道→心內膜炎 | | | 牛鏈球菌 | S. bovis | γ | 7 | 莢膜 | 大腸惡性腫瘤 | | 草綠色鏈 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 1. 化膿性鏈球菌 (Streptococcus pyogenes) => A 群鏈球菌 (Group A streptococcus, GAS): - (1) 致病原因: 鏈球菌以 A 群最可怕,又稱為 Flesh eating bacteria,主要存在人類咽喉、皮膚。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

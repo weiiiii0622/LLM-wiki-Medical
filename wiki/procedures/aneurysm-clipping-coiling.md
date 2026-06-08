@@ -17,6 +17,14 @@ sources:
   - "[[sources/med5-book1-ch15]]"
   - "[[sources/med5-book1-ch16]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book2-ch13]]"
+  - "[[sources/med5-book2-ch25]]"
 aliases:
   - 'Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)'
   - 'Aneurysm clipping/coiling'
@@ -31,7 +39,7 @@ tags:
 
 ## Summary
 
-ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +56,27 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - [[sources/med5-book1-ch15]]
 - [[sources/med5-book1-ch16]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch11]]
+- [[sources/med5-book2-ch13]]
+- [[sources/med5-book2-ch25]]
 
 ## Key Details From Sources
 
+- ...病變緩慢,風溼熱痊癒初期也都不太有症狀,通常至少十年過後才開始有症狀出現,會有疲倦、運動後呼吸困難、胸痛、心律不整,而後加重出現肺水腫及右心衰竭的症狀,如全身性靜脈鬱血、水腫、肝硬化、端坐呼吸、咳血等。另外血液滯留於心房形成血塊向外打出造成栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (d) 瓣膜置換手術 (mitral valve replacement): 若患者瓣膜嚴重狹窄、閉鎖,瓣膜和周圍組織嚴重鈣化,以及同時伴有嚴重 MR,則採用瓣膜置換手術,可選用機械性或生物性瓣膜。 - i. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎,且難以控制。 - ii. 生物性瓣膜: 血栓栓塞機率較低,抗凝血劑只需短期服用約3~6個月,但較無耐抗力,大約能使用10~20年,適用年紀較長者,因瓣膜失效時大約也已不久於世。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- B. 深層靜脈栓塞 (Deep vein thrombosis, DVT) 84 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm 的血管。 - d. 栓塞切除術(embolectomy): 開刀將血栓拿掉,恢復灌流,為急性動脈阻塞 首選。 - (a) 針對急性動脈阻塞塞,四肢對於缺血的耐受性較高,其黃金時期(即組織缺血後再灌注時仍可恢復功能)為6至8小時(大腦為4~8分鐘,心肌為17~20分鐘)。 - (b) 但長時間缺血後,再灌流時會造成 reperfusion injury/syndrome,使得阻塞 時缺氧組織所釋放的自由基和代謝廢物(K+、myoglobin)對細胞及組織 造成傷 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- #### B. 深層靜脈栓塞 (Deep vein thrombosis, DVT) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 2. 雖然 myxoma 是良性的腫瘤,但黏液瘤的組織疏鬆脆弱,其碎片或面的血栓易脫落 造成系統性或局部血管栓塞。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- ...腫瘤約 25% 為良性,約 75% 為惡性 醫五-22 (B) 成人最常見原發性良性心臟內腫瘤為 myxoma (C) 15 歲以下孩童最常見原發性良性心臟內腫瘤為 rhabdomyoma (D) 即便是原發性良性心臟內腫瘤,一旦有心衰竭、栓塞症狀及 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- ...疾病合併左心室瘤的外科適應症? 100(一)專 (A) 充血性心臟衰竭 醫五 -36 (B) 感染性心內膜炎 (C) 心絞痛 (D) 心室性心律不整 【詳解】感染性心內膜炎以抗生素治療為主,除非治療失敗, 或是合併心臟衰竭、心肌膿瘍或反覆性栓塞才是外科適應症。 (C) 26. 冠狀動脈疾病合併厲害的心臟衰竭時,要決定繞道手術是否有益 99(二)專 於病人,必須作下列何種檢查以判定梗塞後的心肌細胞是否仍然 醫五-13 存活 (viable)? (A) 心電圖檢查 (B) 超音波檢查 (C) 核醫檢查 (thallium scanning) (D) 心導管檢查 【詳解】Thallium scanning:藉由注射 thallium-201 並偵測其在 心臟的分布情形得知病患運動時 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - 4. 併發症:除了前述之併發症外,肝臟移植要特別注意的是肝動脈栓塞、門靜脈栓塞、膽管狹窄或 leakage、膽管炎等。另外排斥的比例較高,高峰期是術後 4~21 天,確診須靠切片,治療以類固醇為主。而有 B 型肝炎帶原者之肝臟移植病患,需術後連續施打七天 HBIG,降低 B 型肝炎的復發率,之後一週一次 / 打四個 Course,一月一次 / 打六個 Course。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (2) 血管栓塞、狹窄;輸尿管狹窄、滲漏。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...54 mg/dL, 主治 醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決 然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 cc。以下什麼情況最可能解釋移植腎沒有發揮功能? (A) 移植腎腎小管壞死 (B) 移植腎腎動脈栓塞 (C) 移植腎腎靜脈栓塞 (D) 移植腎輸尿管壞死 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -59,15 +85,6 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - (b) Trendelenburg position (頭低腳高)且身體右側抬高:使氣體流向右心室 心尖,遠離右心室和肺動脈相接處 (right ventricular outflow),減緩栓塞。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - 2. 原因: 敗血症、惡性腫瘤、嚴重外傷或燒傷、休克、羊水栓塞、胎盤剝離、過期流產。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 3. 症狀:出血、栓塞、低血壓甚至休克、器官灌流不足、酸中毒。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (D) 15. 術後發生肺部栓塞的危險因素,不包括下列何項? Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- ...性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 (B)合併症較少 (C)腸道黏膜(intestinal mucosa)較不易萎縮 (D)易引發吸入性肺炎(aspiratio Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- 腦血管疾病俗稱中風(stroke),血管病變中,梗塞(infarction)占 84%,即血管被粥狀硬化阻塞或被心臟來的血栓塞住等,導致血液供應不到遠端腦組織,造成缺血性腦中風(ischemic stroke);出血(hemorrhage)占 16%,即血管壁因高血壓或先天性異常而破裂,血液流到腦組織中(ICH)、蜘蛛膜下腔(SAH),造成出血性腦中風(hemorrhagic stroke)。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...M、高血脂等因素形成粥狀硬化瘤(Atheroma) 若破裂引起血小板聚集,則造成阻塞;或在 ICA 較軟的 thrombi脫落,在遠方動脈梗塞 | 大腦皮質、腦幹、小腦症狀 | | 心源性血栓 | MCA 的上支 | CA的上支 心臟來的血栓塞住,病灶多在灰質 | | | Cardio-embolic | (併發癲癇↑) | 蘭↑) 較易轉化為出血性梗塞 | | | 小血管栓塞Lacunar infarction | 小動脈穿透支 | 因「高血壓」導致動脈硬化,病灶多在白質 | 小洞中風症候群 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 2. 心因性血栓 (cardio-embolic): - (1) 位置: MCA 的上支。 - (2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...---| | 原發性頭痛(Primary headache) | 緊縮型頭痛(最常見、但少考)偏頭痛(常見、也愛考)叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血管炎 (Temporal arteritis) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (C) 3.40 歲男性,自2個月前開始有漸進性的右側耳鳴,此耳鳴與脈搏 108(二)專 頻率相近,夜間會較大聲且影響其睡眠,並有右側耳後枕部頭 醫四-44 痛。最可能的診斷為何? - (A) 腦內動靜脈畸形 (arteriovenous malformation) - (B) 硬腦膜靜脈竇栓塞 (dural sinus thrombosis) - (C) 硬腦膜動靜脈瘻管 (dural arteriovenous fistula) - (D) 腦動脈瘤 (cerebral aneurysm) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- ...---------------------------------------------------------------------------|----------------------| | (B) | 6. 以下何者是腦靜脈竇栓塞 (cerebral venous sinus thrombosis) 最常見的臨床表現? (A) 複視 (B) 頭痛 (C) 單側肢體無力 (D) 意識障礙 | 108( 一 ) 專醫四 -48 | | (D) | 7. 下列何者不是國際頭痛疾病分類第 3 版測試版(ICHD-3, beta)偏頭痛(migraine)的診斷標準? (A) 不治療或治療無效時,頭痛發作會持續 4~72 小時(B) 伴隨噁心及 / 或嘔吐(C) 日常活動 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (C) 上矢靜脈竇栓塞(superior sagittal sinus thrombosis) Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 

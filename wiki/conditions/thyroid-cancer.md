@@ -13,6 +13,10 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch24]]"
+  - "[[sources/med5-book2-ch19]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Thyroid cancer (甲狀腺癌)'
   - 'Thyroid cancer'
@@ -27,7 +31,7 @@ tags:
 
 ## Summary
 
-甲狀腺惡性腫瘤依病理型態預後與治療不同。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺惡性腫瘤依病理型態預後與治療不同。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +44,21 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch24]]
+- [[sources/med5-book2-ch19]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- c. 甲狀腺癌 (5%, thyroid cancer): T3、T4正常,晚期下降。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- (2) Radioactive iodine (RAI) ablation: - a. 口服放射性的 131 I, 甲狀腺會吸收 131 I, 對甲狀腺產生破壞作用。 - b. 劑量 5~10 mCi , 持續 4~12 週 , 75% 病患會有效 , 剩下 25% 無效的病患則加 倍劑量。 - c. 會有 70% 的病患會終生甲狀腺機能低下,但並不會增加 thyroid cancer、leukemia、teratogenicity 的危險性。 - d. Contraindication:孕婦、新生兒、甲狀腺 RAI 吸收量不足 20%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 5. 有以下狀況時需作 thyroid lobectomy: - (1) FNA 結果為 malignant 或 indeterminate。 - (2) 病患為小孩。 - (3) 病患曾接受頸部放射線治療。 - (4) 有甲狀腺癌的家族史。 - (5) 美觀效果。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- 2. IIB: - (1) Medullary thyroid carcinoma (100%) • - (2) Pheochromocytoma (50%) • - (3) Mucosal and gastrointestinal neuroma • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- (D) 1. 有關多發性內分泌贅瘤症候群 (multiple endocrine neoplasia , 107(-) 専 MEN) 的敘述 , 下列何者錯誤? - (A) MEN 1 包含副甲狀腺機能亢進(hyperparathyroidism) - (B) MEN 2A 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (C) MEN 2B 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (D) MEN 2C 包含嗜鉻細胞瘤 (pheochromocytoma) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- 內分泌外科共分甲狀腺、副甲狀腺、胰島和腎上腺四大部分。甲狀腺重點在甲狀腺功能評估和疾病診斷、甲狀腺癌種類的分辨和甲狀腺術後併發症。副甲狀腺重點為機能評估。胰島重點在於分辨各種胰島細胞瘤之症狀、診斷和處置。腎上腺重點為Cushing syndrome 和嗜鉻細胞瘤。 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
+- D. 副甲狀腺癌(Parathyroid carcinoma) 222 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...---------|----------------------| | | (A) meningioma | 醫五 -10 | | | (B) schwannoma | | | | (C) neurofibroma | | | | (D) anaplastic astrocytoma | | | (C) | ) 4. 下列關於 intramedullary spinal cord tumor 的敘述,f | 可者錯誤? 109( - ) 專 | | | (A) intramedullary spinal cord tumor 約占所有 spinal | tumor的 5% 醫五-46 | | | (B) primary intramedullary spinal cord lymphoma Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...又叫作 low grade astrocytoma,單獨非典型細胞增生 (cytological atypia alone),細胞為良性但臨床表現為惡性,少有鈣化,好發於兒童或年輕人。 - (3) Grade III: 分化不良星狀細胞瘤(anaplastic astrocytoma),分化不良且呈絲狀分裂(anaplasia and mitotic activity),為惡性,平均年齡 46 歲。 - (4) Grade IV: 神經膠母細胞瘤 (glioblastoma multiforme, GBM),有微小血管增生或是壞死 (also show microvascular proliferation and/or necrosis),為惡性,平均年齡 56歲,最常見原發性腦瘤。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (4) Anaplastic large cell lymphoma: - a. 為周邊 T cell lymphoma。 - b. 典型表現為無痛性周邊淋巴病變,有時會合併皮膚或皮下侵犯。也常出現發 燒、體重減輕等。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -53,11 +69,6 @@ tags:
 - ...-4(C) IL-11(D) IL-29 | 95(一)専内1-27 | | (B) | ( | 下列何種癌症對化學治療反應最差? (A) 急性骨髓性白血病 (B) 腎臟細胞癌 (C) 乳癌 (D) 精原細胞癌 【詳解】肝膽胰癌、腎細胞癌、甲狀腺癌、黑色素細胞癌、前列腺 | 95(一)専内1-29 | | (D) | [. | 下列何種化學藥劑為發泡劑(vesicant),靜脈注射不慎外滲時會造成皮膚壞死? (A) 5-FU (B) Methotrexate (C) Cisplatin (D) Vincristine 【詳解】兩類的發泡劑 熱敷 M phase (Miotic inhibitor) Vinblastine、Vincristine 冰敷 Antibiotics Do Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...) | API2/MALT, BCL-10 | | Aggressive | Diffuse large cell lymphoma | t(3; -), t(17; -) | BCL-6; p53 | | lymphoma | CD30+Anaplastic large cell lymphoma | a t(2;5) | ALK | | Highly | Burkitt's lymphoma/leukemia | t(8; 14) | C-MYC | | aggressive | Precursor B cell ALL | t(4; 11) | AF4, ALLI | | lymphoma | Precursor ALL | t(9; 22), t(1; 19), | BCR, ABL Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...dult T cell lymphoma/leukemia | | | | | Peripheral T cell lymphoma | | | | Aggressive | Diffuse large B cell lymphoma . Anaplastic large cell lymphoma | | | | | Hairy cell leukemia · T-cell/NK cell lymphoma | | | | | Mantle cell lymphoma · Marginal zone lymphoma | | | | Indolent | Follicular lymphoma > Small lymphocytic lymphoma/ B-cell CLL | | | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- 【詳解】(B) 橋本氏甲狀腺炎或亞急性甲狀腺炎,在急性期時都可能因為破壞甲狀腺導致暫時性的甲狀腺功能亢進,之後再變功能低下。(D) 甲狀腺癌不是正常組織,缺乏製造甲狀腺素的功能,難以造成亢進。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- 1. 乳突癌 (Papillary thyroid cancer, PTC): - (1) 最常見的甲狀腺癌,女性多。 - (2) 跟 RET, RAS, BRAF, MET 基因突變有關。 - (3) 預後很好的癌症, 25 年 survival rate 95%。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- 2. 濾泡癌 (Follicular thyroid cancer, FTC): - (1) 在碘攝取不足的地方較常見,女生多。 - (2) 跟 RAS 基因突變有關。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- ...類 | I | Ha (95%) | IIb (5%) | | 口訣 | PPP(P 後母音) | 2 miles per hours (MPH) | 3M plastic (MMMP) | | | Pituitary tumor . | Medullary thyroid ca. \ | Mucosal neuroma · | | 內容 | Parathyroid hyperplasia . | Pheochromocytoma > | Medullary thyroid ca. | | 內台 | Pancreatic islet tumor | H yperparathyroidism | Marfanoid body habitus | | | (Gastrinoma 最多) | | Pheochr Source: [[sources/med3-book2-ch16|辛、其 他]].
-- (B) MEN 2A 與 MEN 2B 之共同特徵是甲狀腺髓質癌 (medullary thyroid cancer)及副甲狀腺瘤 Source: [[sources/med3-book2-ch16|辛、其 他]].
 
 ## Clinical Caveats
 
@@ -66,7 +77,11 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/follicular-thyroid-carcinoma|Follicular thyroid carcinoma (濾泡狀甲狀腺癌)]]
+- [[conditions/medullary-thyroid-carcinoma|Medullary thyroid carcinoma (髓質甲狀腺癌)]]
+- [[conditions/papillary-thyroid-carcinoma|Papillary thyroid carcinoma (乳突狀甲狀腺癌)]]
+- [[conditions/thyroid-nodule|Thyroid nodule (甲狀腺結節)]]
+- [[procedures/thyroidectomy|Thyroidectomy (甲狀腺切除術)]]
 
 ## Follow-up
 

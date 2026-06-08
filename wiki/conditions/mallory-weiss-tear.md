@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch07]]"
+  - "[[sources/med5-book2-ch01]]"
 aliases:
   - 'Mallory-Weiss tear (Mallory-Weiss 裂傷)'
   - 'Mallory-Weiss tear'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-劇烈嘔吐後食道胃交界黏膜裂傷可造成上消化道出血。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+劇烈嘔吐後食道胃交界黏膜裂傷可造成上消化道出血。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch07]]
+- [[sources/med5-book2-ch01]]
 
 ## Key Details From Sources
 
+- 主動脈血管壁有內膜(tunica intima)、中膜(tunica media)和外膜(tunica adventitia)三層,當內膜因主動脈高壓血流衝擊而破裂時,會導致血液流入血管壁,進一步將內膜和中膜撕裂開來,形成假腔(false lumen)。自內膜破口灌注入假腔的血流使其逐漸膨脹甚至會壓迫到真腔(true lumen),降低通過的血流量(flow volume)進而影響到全身各器官血液供應,造成器官灌流不足(organ malperfusion),又由於假腔的血管外壁脆弱,容易破裂引起大出血、出血性休克甚至死亡。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 2. 結構上的分類是根據主動脈被侵犯之範圍,而非以內膜撕裂處所在之地點決定,目前常用的分類法有 Stanford 及 DeBakey 兩種。(見下圖) - (1) Stanford:以 dissection 的範圍有無牽涉到 ascending aorta 為分型。 - a. Type A:有牽涉到 ascending aorta,約佔 2/3的 case。 - b. Type B: 無牽涉到 ascending aorta,約佔 1/3 的 case。 - (2) Debakey: - a. Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 1. 突發性的劇烈胸痛,且有後背痛(interscapular pain)。如果胸痛僅在前胸,可能為 升主動脈剝離;延伸至頸部或下顎,可能有主動脈弓剝離;延伸至下背部,可能為 降主動脈剝離。隨著主動脈剝離的進展,病人會描述有撕裂痛(tearing pain)的感覺。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 4. Diffuse axonal injury:大腦被撞擊時,在加速/減速的過程受到的機械性損傷,會使神經元軸突分裂及撕裂,CT上看起來可能是正常的,但病人依嚴重程度不同會意識混亂或失去意識,甚至死亡。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - 1. 處理原則: - (1) 檢查呼吸道有無暢誦,GCS ≤ 8的話緊急插管。 - (2) 檢查血氧濃度,不夠的話給予呼吸器。 - (3) 檢查脈搏和血壓,維持 SBP > 90 mmHg。 - (4) 評估胸部和腹部是否也有受傷(PE、影像檢查)。 - (5) 評估意識狀態及局部神經學症狀,考慮脊髓是否受傷(頭顱脊髓 X 光、CT)。 - (6) 最後才檢查肢體有無撕裂或骨折(X光)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (B) 2.25 歲男性病人因騎機車車禍而顏面部受傷,主要症狀為右側鼻翼 撕裂傷 (avulsion injury)、流鼻血 (epistaxis) 和腫痛,送至急診 室,下列敘述何者錯誤? Source: [[sources/med5-book1-ch11|乙、頭部創傷]].

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Fontan procedure (Fontan 手術)'
   - 'Fontan procedure'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-單心室循環的階段性手術終點，使體靜脈血被動進入肺循環。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+單心室循環的階段性手術終點，使體靜脈血被動進入肺循環。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...引至肺動脈並流到肺部進行氧合作用。(見上圖右) - b. 第二階 (bidirectional Glenn procedure): 出生三到六個月進行。 - (a) 將上腔靜脈血液直接分流至肺動脈,降低右心室的負擔。 - c. 第三階段 (Fontan procedure): 兩到三歲進行。 - (a) 同樣將下腔靜脈分流至肺動脈,至此上、下腔靜脈血液不經心臟直接流 回肺動脈,而右心室專心負責體循環,將血液輸送至全身。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (3) 處置:作氣球心房中膈造口術使右心房的血流能流往左心,同時使用 PGE1 維持動脈導管暢通。開刀方面,嬰兒時期先做血管分流手術,三到四歲間則可作 (a) 改良的 Fontan 式手術,連接右心室及右心房,並關閉心房及心室中膈缺損。(b) Fontan 術式:將病人的右心房或右心房的心耳連接到肺動脈上,如此右心房的血就能夠直接流到肺部去行氣體交換。(c)全靜脈一肺動脈吻合術:將上腔靜脈及下腔靜脈與肺動脈直接相連接。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- #### Stage 3: Fontan Procedure Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - b. 手術治療(參考即可):視右心室發育大小,最後的循環可從雙心室、一又二分之一、到單一心室循環皆有可能。術式包括 pulmonary valvotomy 合併 aortopulmonary shunt、移除閉鎖部位以 patch grafting 代替、心導管介入治療、modified Fontan procedure 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...手術治療:此類病人最終需走向單一心室循環。階段性治療包括 Rashkind balloon atrial septostomy (BAS)(當心房之間的通道不夠大時)、Blalock-Taussig procedure、modified Fontan operation (開刀時機為病人在 1.5 至 3 歲時)。(參考)PS:若手術方式為 Fontan procedure,術後發生可能的問題有 systemic venous pressure、fluid retention、pleural or pericardial effusions,其中 pleural effusion 佔 30~40%。晚期併發症可能有 baffle obstruction 進而造成 superior Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - Stage II: 第二階段開始為矯正手術,術式為 Glenn anastomosis (Glenn shunt, 又稱為 bidirectional Glenn procedure or the hemi-Fontan procedure)。通常在第二階段手術約在病人年紀 3~6 個月大時進行。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

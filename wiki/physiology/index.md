@@ -18,6 +18,7 @@ Normal function and pathways.
 - [[physiology/airway-inflammation|Airway inflammation (氣道發炎)]] - 氣喘 phenotype 與控制藥物選擇的免疫基礎。
 - [[physiology/bilirubin-metabolism|Bilirubin metabolism (膽紅素代謝)]] - 膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。
 - [[physiology/calcium-homeostasis|Calcium homeostasis (鈣離子恆定)]] - PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。
+- [[physiology/colorectal-physiology|Colorectal physiology (大腸直腸生理)]] - 大腸負責水分電解質吸收、菌叢代謝與糞便儲存排出；肛門括約肌與直腸感覺參與 continence。
 - [[physiology/complement-system|Complement system (補體系統)]] - 補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。
 - [[physiology/coronary-circulation|Coronary circulation (冠狀動脈循環)]] - 冠狀動脈解剖決定心肌缺血位置與 ECG 導程變化。
 - [[physiology/corticospinal-tract|Corticospinal tract (皮質脊髓徑)]] - 主要 voluntary motor pathway，病灶造成上運動神經元徵象與定位價值。

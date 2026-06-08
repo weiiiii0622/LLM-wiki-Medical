@@ -23,6 +23,9 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book2-ch24]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Glucose homeostasis (血糖恆定)'
   - 'Glucose homeostasis'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,17 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book2-ch22]]
+- [[sources/med5-book2-ch24]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- A. Insulinoma (胰島素瘤) 228 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- D. Glucagonoma 230 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- #### A. Insulinoma (胰島素瘤) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- (D) 6. 承上題,對於急性高鉀血症的處置,下列何者效果最慢? 109(一)專 (A) 靜脈注射 50 mL 的 D50W 和 10 units 的短效胰島素 (regular 醫五-50 insulin), 並嚴密監測血糖 (B) 靜脈注射 10 mL 的 10% 氯化鈣 (calcium chloride) 或是 10 mL 的 10% 葡萄糖酸鈣 (calcium gluconate) (C) 靜脈注射 50~100 mEq 的碳酸氫鈉 (sodium bicarbonate) (D) 給與腸胃道的 potassium-binding resins (C) 7. 下列何者為主動脈氣球幫浦(intra-aortic balloon Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 4. 葡萄糖代謝作用: - (1) 一克葡萄糖產生四大卡,受傷時血糖會持續升高,原因為: - a. 交感神經興奮腎上腺分泌,刺激肝醣分解以及胰臟分泌昇糖素(glucagon), 使得肝臟的肝醣分解(glycogenolysis)增加。 - b. 缺氧組織產生的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - a. Transcellular shift: 鹼中毒、insulin、beta agonist、週期性的低血鉀,使得鉀離子從細胞外往細胞內移動,造成血液中血鉀降低。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -76,11 +87,6 @@ tags:
 - (1) 又稱非胰島素依賴型糖尿病(non-insulin-dependent diabetes mellitus, NIDDM)。 由於週邊組織對胰島素產生抗性,造成相對的胰島素不足。好發在肥胖的青少年,約 90% 有家族史。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - glucagon 以及 clonidine test 等。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (A) 1. 下列何種情形與鉀離子流失所造成的低血鉀 (Hypokalemia ) 最 108( 二 ) 專 無關? - (A) 注射胰島素 (Insulin) - (B) 長期使用利尿劑 (Long-term usage of diuretics) - (C) 腸胃炎引起腹瀉(Gastroenteritis induced diarrhea) - (D) 腎小管酸血症 (Renal tubular acidosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...(acute hemolysis) (B) 6. 以下何者不是緊急治療高血鉀之藥物? 99(一)專 (A) 鈣 (calcium) 醫四 -3 (B) β 阻斷劑 (propranolol) (C) 葡萄糖及胰島素(glucose and insulin) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (A) 胰島素抗性 (insulin resistance) Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (4) Insulin-dependent diabetes mellitus: Tc 細胞攻擊蘭氏小島內的 β 細胞,導致胰島素分泌減少,造成高血糖。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- ...| 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

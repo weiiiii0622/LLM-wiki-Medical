@@ -33,6 +33,11 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch03]]"
 aliases:
   - 'Anticoagulation (抗凝治療)'
   - 'Anticoagulation'
@@ -47,7 +52,7 @@ tags:
 
 ## Summary
 
-血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +85,24 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch27]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch03]]
 
 ## Key Details From Sources
 
+- 5. 治療: - (1) 穿彈性襪 (compression therapy)。 - (2) 先使用 heparin 維持 INR 2~3, 之後改用 Warfarin 維持,至少吃三個月到六個月,如果復發則建議吃終身。 - (3) 靜脈血栓清除術(venous thrombectomy): 以導管進入阳塞的靜脈清除血栓。 - (4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (B) 深部靜脈栓塞,且不適合使用抗凝血劑 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (D) 在足量之抗凝血劑治療下,仍反復多次靜脈栓塞 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 3. 不同於傳統的體外循環(CPB): ECMO 為密閉性管路,無 CPB 的儲血裝置,且人工血管管路是內有肝素塗層,具有抗凝作用的管道,裝置時多數無需開胸手術,無需強烈的抗凝藥物使用,減少了出血的併發症。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (2) 血栓生成,故須使用大量抗凝血劑,但反而可能造成出血的情況。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (D) 10. 下列有關 microvascular surgery 時使用 anticoagulant 運用的敘述, 106( ) 專 何者錯誤? 醫五-21 - (A) low dose aspirin 的 anti-platelet 效果不錯 - (B) heparin 可全身性或局部使用 - (C) fibrinolytic agent 於 microanastomosis thrombosis 時有幫忙 - (D) 使用 anticoagulant 可使 free flap transfer 之成功率大量提高 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- 【詳解】(D) 抗凝血劑對於 free flap 的成功率沒有顯著幫助。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- (d) 瓣膜置換手術 (mitral valve replacement): 若患者瓣膜嚴重狹窄、閉鎖,瓣膜和周圍組織嚴重鈣化,以及同時伴有嚴重 MR,則採用瓣膜置換手術,可選用機械性或生物性瓣膜。 - i. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎,且難以控制。 - ii. 生物性瓣膜: 血栓栓塞機率較低,抗凝血劑只需短期服用約3~6個月,但較無耐抗力,大約能使用10~20年,適用年紀較長者,因瓣膜失效時大約也已不久於世。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (d) Ross procedure: 連同主動脈瓣拿掉一段主動脈,將肺動脈連同肺動脈瓣 (autograft) 截取一段去修補主動脈,再從器捐者取得的肺動脈(allograft) 去修補缺少的肺動脈。好處是不需服用抗凝血劑,且置換的肺動脈瓣能 隨著病患成長而跟著長大,對於小孩或年輕人是不錯的選擇。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 5. 治療:抗凝血劑 heparin。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (C) 1. 病患手術前有使用 vitamin K antagonist (VKA),例如 warfarin, 109(二)專 會增加手術中出血的機會;一般在 elective surgery 前,建議先停 藥5天以上,讓 international normalized ratio (INR)上限低於 多少以下,再進行手術? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
@@ -91,16 +111,6 @@ tags:
 - | 分類 | 病程 | 意義 | |---------------------------------|------------------|---------------| | 暫時性腦缺血 | 定義為24小時內恢復,且無 | 中風的警訊, | | (Transient ischemic attack=TIA) | 任何後遺症 | 需積極 Survey、預防 | | 完成性腦中風 | 頸動脈於24小時後,基底動 | 給抗凝劑反而易出血 | | (Complete stroke) | 脈於 72 小時後病況穩定 | 宜保守治療 | | 進行性腦中風 | 頸動脈於 24 小時後,基底動脈 | 考慮使用 Heparin | | (Stroke in evolution) | 於 72 小時後病況仍持續進展 | | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...l atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),rivaroxaban(Xarelto®),Apixaban(Eliquis 恣®)和 Edoxaban(Lixiana®)等。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...factor 7, tissue factor。 - (3) 共同路徑: factor 10a, 5a, 2, 1。 - (4) 記法: EX-PresidenT K went to WAR. (Extrinsic, PT, Vit K, Warfarin)。 - (5) 特殊因子: - a. Factor 7 是半衰期最短的因子。 - b. Factor 8 是唯一不由肝臟製造的因子。 - c. Factor 13 缺乏時無法由 PT/PTT 測得。 - d. Vit K dependent 的因子:factor 2, 7, 9, 10 和 protein C, protein S。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- # D. Warfarin 和 heparin Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (1) Initial: heparin 75 U/kg, IVD for 10 mins • Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (4) 發生冠狀動脈病變的病人,長期處理: (參考) - a. Aspirin 3~5 mg/kg,一天一次給藥。視情況加上 dipyridamole 4~6 mg/kg/24 hr,一天分成兩至三次給藥。 - b. 具有產生血栓高風險的病人(冠狀動脈有明顯擴大者), 甚至會給予 warfarin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (B) 使用高劑量 Aspirin (80~100 mg/kg/day) 是為了抗凝血作用 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 5. Prothrombin time (PT) - (1) 與白蛋白相同,用來評估肝臟合成功能的指標。 - (2) 除了 factor VIII 以外,其餘凝血因子均由肝臟製造。因此發生嚴重的肝功能受損時,除了 PT 延長以外, aPTT 亦會延長。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 6. 血液高凝狀態(hypercoagulability):由於血管內水分的流失,血小板與 coagulation factors 在血液中濃度上升,增加血栓形成機會。此外,肝臟製造 fibrinogen 的增加以及抗凝血因子(antithrombin Ⅲ and protein S)從腎臟流失,也是造成血栓形成機會增加。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...------------------------| | 病理缺陷 | Platelet/ vascular defect | Coagulation defect | | 實驗室檢查 | Bleeding time (BT) | PT \ aPTT | | 出血處 | 皮膚、黏膜 | 肌肉、關節 (Deep in soft tissue) | | 病灶名稱 | Petechiae, Ecchymosis | Hemarthroses, Hematomas | | 出血時機 | 小切傷,較立即、輕微 | 大手術,較延遲、嚴重 | | | 如:流鼻血、刷牙流血 | 如:血膝、爬山後肌肉內血腫 | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- 2. 血管缺陷:如 Senile purpura,老年人皮下脂肪減少,尤其是四肢伸側,皮一拉,血管易破。CBC、PT、aPTT 皆正常,Senile purpura 不需治療,僅需觀察。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (2) 破壞增加: - a. Immune thrombocytopenic purpura (ITP): - (a) 病因:因未知的原因,身體產生 Anti-PLT Ab,使血小板被破壞。 - (b) 診斷:好發於 15~30 歲女性,藉由排除其他血小板低下的病因後診斷。 - (c) 實驗室檢查: CBC 只見 Plt ↓ 需檢查 ANA、HIV、EBV、Hepatitis virus 以排 除其他次發性原因; Anti-plt Ab 僅具低敏感度及低專一性。 - (d) 治療: - i. Plt > 30,000: 不需治療。(目前治療 guideline 建議維持 30,000 以上) - ii. Plt 10 萬,通常沒有臨床症狀,可繼續使用 heparin,觀察即可。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 
 ## Clinical Caveats
 
@@ -109,6 +119,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/acute-limb-ischemia|Acute limb ischemia (急性肢體缺血)]]
 - [[conditions/pulmonary-embolism|Pulmonary embolism (肺栓塞)]]
 
 ## Follow-up

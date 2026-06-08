@@ -32,6 +32,14 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch24]]"
+  - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book2-ch03]]"
 aliases:
   - 'Hypersensitivity reactions (過敏反應分類)'
   - 'Hypersensitivity reactions'
@@ -46,7 +54,7 @@ tags:
 
 ## Summary
 
-Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +86,27 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch27]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch25]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch24]]
+- [[sources/med5-book2-ch30]]
+- [[sources/med5-book2-ch22]]
+- [[sources/med5-book2-ch03]]
 
 ## Key Details From Sources
 
+- ...只含有肌肉的皮瓣,根據血管供應肌肉的方式還可以分成五種 (Mathes & Nahai classification)。如果手術中同時轉移支配該肌肉的神經且成功,肌肉保有其收縮運動的功能,稱之為 functional flap。 - a. Type I:單一血管供應,例如闊筋膜張肌(Tensor fascia lata)。 - b. Type II: 一條主血管及數條小血管個別供應肌肉的不同部位,例如股薄肌 (Gracilis)。 - c. Type III: 兩條主要血管供應,例如臀大肌 (Gluteus maximus)。 - d. Type IV:數條相同大小的血管一起供應,每一條血管只供應肌肉的一小段, 縫匠肌(Sartorius)。 - e. Type V: 一條主要血管供 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- (C) 7. 在處理一個困難的傷口時,我們常以肌肉皮瓣(muscle flap)來 重建缺損,根據 Mathes & Nahai 的分類,以下敘述何者正確? (A) 臀大肌(gluteus maximus)和腹直肌(rectus abdominis)皮 瓣都屬於 type II - (B) 闊背肌(latissimus dorsi)由單一血管莖供應,屬於 type I - (C) 適合取較大肌肉來重建缺損的是屬於 type I、III、V - (D) 股薄肌(gracilis)是屬於 type IV,所以只能取一小部分肌肉來重建缺損 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- ...分型。 - a. Type A:有牽涉到 ascending aorta,約佔 2/3的 case。 - b. Type B: 無牽涉到 ascending aorta,約佔 1/3 的 case。 - (2) Debakey: - a. Type I: 牽涉到 ascending aorta 和 descending arota。 - b. Type II: 僅牽涉 ascending aorta。 - c. Type III:僅牽涉 descending arota。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (A) 2. 主動脈剝離(aortic dissection)DeBakey type II,其剝離侵犯範圍 109(二)專 主要是下圖那一部分之主動脈? 醫五-23 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 【詳解】DeBakey Type I 僅侵犯 Ascending aorta。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 3. Proliferative phase (增生期):約第2~3天開始,可持續到3~4週。 - (1) Granulation phase (肉芽組織生長期): 纖維母細胞 (fibroblast) 移行至傷口處,不斷產生纖維細胞 (fibrocyte),並分泌第三型膠原蛋白 (type III collagen)。 膠原蛋白的作用為提供上皮細胞移行的管道、刺激真皮細胞移行並作為真皮細胞層生長的骨架,以促進傷口癒合。同時也會有微血管新生 (angiogenesis)的 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- 4. Remodeling phase/maturation (疤痕重塑期):約第三週開始,此時期,原本生成於 內芽組織增生期的第三型膠原蛋白 (type III collagen) 會被分解掉,然後由纖維母 細胞生成較為細緻且排列整齊的第一型膠原蛋白 (type I collagen),增加整齊性和 韌性,使外型和功能接近原先之正常組織,但復原後傷口張力最多僅能達到原先的 80%。此時期大概會持續三個禮拜到兩年之久,大至上約為傷口癒合後六至十個月。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- ...|-----|-----|-------------------------------------------------------|------------------| | | | (A) 受傷後,纖維母細胞開始合成第三型膠原蛋白(type III | | | | | collagen) | | | | | (B) 膠原蛋白是傷口癒合之主要成分 | | | | | (C) 膠原蛋白之合成,始於膠原蛋白前身 (procollagen) 之 $\alpha$ 鏈 | | | | | (pro-α-chains)黏著在高爾基氏體(Golgi apparatus)進行合成 | | | | | (D) 第一型膠原蛋白(type I collagen)占成人皮膚的 80% | | | | Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- (1) Type I: left subclavian artery 到腎動脈之間。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (2) Type II: left subclavian artery 到 iliac bifurcation。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (B) 34. 下列有關第二頸椎樞突骨折(odontoid process fracture) 之敘述, 102(-)専何者錯誤?8五-15 - (A) 第一型骨折(Type I fracture) 大都發生在翼狀韌帶(alar ligament) 的接著處 - (B) 第二型骨折(Type II fracture) 最常發生,但是較穩定 - (C) 第二型骨折發生在樞突(odontoid process)的基底部(base) 不侵犯到第二頸椎椎體部(body) - (D) 第三型骨折(Type III fracture)發生在樞突的基底部並侵犯 到第二頸椎椎體部 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 【詳解】Type II 極度不穩定,且易癒合不良。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (B) 49. 依 Anderson and D'alonzo 分類,下列那一種齒狀突骨折(odontoid 98(二)專 fracture) 最容易發生接合不全(non-union)? 醫五-59 (A) type I (B) type II (C) type III (D) type IV (A) 50. 頸椎間管狹窄造成脊髓壓迫,導致頸脊髓病變(myelopathy), 98(一)專 下述症狀何者較少出現? 醫五-42 (A) 枕部神經痛 (occipital neuralgia) (B) 痙攣 (spasticity) (C) 深腱反射增加 (increased deep tendon reflexes) (D) 病理反射 Babinski's Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -89,16 +115,6 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - (C) spinocerebellar ataxia type III Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (B) 第一型神經纖維瘤(neurofibromatosis type I) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (D) 第二型神經纖維瘤 (neurofibromatosis type II) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- | Type I | Type II | |------------------------------|--------------------------------| | Positive symptoms | Negative symptoms | | Normal brain structure on CT | Abnormal brain structure on CT | | Good response to treatment | Poor response to treatment | Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- 3. 任何年齡都有可能發生,15~23%的人一生中會有一次蕁麻疹/血管神經性水腫的經驗,蕁麻疹/血管神經性水腫並非疾病,而是皮膚的一種過敏反應表現。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 5. 依致病原因分類: - (1) 免疫性(Immunologic): - a. IgE 免疫引起(IgE-Mediated): 即第一型過敏反應(type I anaphylactic hypersensitivity),身體接觸到過敏原而引發人體產生特異性的 IgE, IgE 與過敏原結合,便會引發皮膚中或血液中肥大細胞(mast cells)的活化反應,使組織胺(histamine)從細胞中釋放出來,進而使得皮膚中的血管擴張、組織腫脹,也會興奮神經引起厲害的癢感。常見過敏原如下: - (a) 食物:海鮮、高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dy Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 3. 過敏性接觸性皮膚炎 (Allergic contact dermatitis, ACD): - (1) 為身體接觸到抗原後所引起的 type IV (cell-mediated or delayed) hypersensitivity reaction,和人體對物質的敏感度有關,敏感度越高,引起發炎反應所需的物質量越少。由於為免疫反應,所以皮膚發炎不只侷限於曝露處,會擴散到全身。 - (2) 致敏性物質有很多,不勝枚舉: - a. 耳環、鈕釦、皮帶扣、拉鍊:含鎳的成份。 - b. 橡膠製品(如橡皮手套、皮帶):含 Thiuram 的成份。 - c. 水泥:含鉻鹽 (chroma Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- H. 過敏性血管炎 (Hypersensitivity vasculitis) 75 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 1. 類過敏性紫斑為一種以侵犯微血管及微血管後小靜脈的過敏性血管炎,由於它並非由第一型過敏反應 IgE 所產生,故稱為類過敏性紫斑。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- # H. 過敏性血管炎(Hypersensitivity vasculitis) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (A) 可能是過敏反應, 首要評估有無呼吸道的問題 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 【詳解】雖然 $H_2$ receptor blocker 主要是用來抑制胃酸分泌,但它也有 anti-allergic 效果,近期有研究指出在抑制過敏反應方面, $H_1$ 和 $H_2$ receptor blocker 一起使用,比單一使用 $H_1$ receptor blocker 還來的有效。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 【詳解】此圖患者的掉髮為前額髮線退縮,呈特殊的 M 字型禿 髮,為典型雄性禿(androgenetic alopecia)表現,原因為身體 週邊的 type II 5α-reductase 將睪固酮 (testosterone) 轉變為效能 更強的雄性激素 Dihydrotestosterone (DHT) 與頭皮上的雄性 激素接受體 (androgen receptor) 結合後,引起頭髮毛囊 (hair follicles)變小、縮短生長期,變成短而細的杵狀髮(vellus hair),最後毛囊上舊的頭髮脫離毛囊而掉落。 Source: [[sources/med4-book2-ch11|子、其 他]].
 
 ## Clinical Caveats
 

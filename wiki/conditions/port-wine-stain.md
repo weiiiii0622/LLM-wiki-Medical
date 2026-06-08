@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Port-wine stain (葡萄酒斑)'
   - 'Port-wine stain'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-先天 capillary malformation，可與 Sturge-Weber syndrome 相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+先天 capillary malformation，可與 Sturge-Weber syndrome 相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- (A) 16. 下列有關葡萄酒斑(port-wine stain)的敘述,何者錯誤? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- 【詳解】(A) 血管瘤是指細胞會增生變大的血管腫瘤,但也會隨 著年齡細胞亦會消褪變小。血管畸形,細胞不會增生,大小固 定不變,葡萄酒斑即為血管畸形的一種。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - B. 葡萄酒斑 (Port-wine stain) 140 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - # B. 葡萄酒斑 (Port-wine stain) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 1. 又稱作 nevus flammeus 或 capillary malformation (CM), 為微血管不正常擴張(非增生)於皮膚所形成之紅色不 規則斑塊,出生時即出現,隨著年齡逐漸增厚,顏色轉 暗紅或紫色,持續一輩子不會自動消失(右圖)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

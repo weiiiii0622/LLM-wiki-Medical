@@ -24,6 +24,7 @@ sources:
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch07]]"
+  - "[[sources/med5-book2-ch23]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch07]]
+- [[sources/med5-book2-ch23]]
 
 ## Key Details From Sources
 
+- (C) 腎上腺手術前準備藥物,以長效型 bisoprolol 為首選 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - (A) 抗精神病長效針劑是治療譫妄之首選藥物之一 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (C) 晚上投與長效安眠藥物改善睡眠 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 【詳解】沒有精神病史的老年人突然出現視幻覺,且有日夜顛倒之情形,此應為由內外科問題引起的瞻妄(delirium),應該要找出造成問題的內外科病因並且加以處理,對於短暫的幻覺可以給予抗精神病藥物如 haloperidol 治療,長效安眠藥可能會惡化病人的意識狀態。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
@@ -82,7 +85,6 @@ tags:
 - (D) 直接給予長效嗎啡,避免影響患者睡眠 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (D) 給予長效型 morphine sulfate,有 breakthrough pain 時再給予即效型 morphine sulfate Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...(A) 用含 5-fluorouracil, leucovorin, oxaliplatin (FOLFOX) 的化學治療 - (B) 用 loperamide - (C) 切除迴盲腸的腫瘤 (ileocecal mass) - (D) 用長效型 octreotide Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (2) Benzathine PCN 是長效、肌肉劑型的 Penicillin G,用來治療 Primary syphilis(IM 1 dose)、Secondary syphilis、Group A streptococcal pharyngitis 等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

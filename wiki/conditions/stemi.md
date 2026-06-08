@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch09]]"
+  - "[[sources/med5-book2-ch03]]"
 aliases:
   - 'STEMI (ST 段上升心肌梗塞)'
   - 'STEMI'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-全層心肌缺血常出現 ST elevation，需再灌流策略。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+全層心肌缺血常出現 ST elevation，需再灌流策略。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch09]]
+- [[sources/med5-book2-ch03]]
 
 ## Key Details From Sources
 
+- CLASS I recommendation for emergency CABG in STEMI: Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - ...(+) | | | | (僅心內膜 Subendocardial) | EKG: ST Depression, TWI | | | | 管腔完全堵塞一段時間 | Pain not relieve by NTG (>30min) | | | STEMI | 造成心肌壞死(全層心肌 | Enzyme (+) | | | | 皆受影響 Transmural) | EKG: ST elevation | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - \*STD 指 ST segment depression, STE 指 ST segment elevation, TWI 指 T wave inversion Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

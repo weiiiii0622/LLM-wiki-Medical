@@ -24,6 +24,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch05]]"
 aliases:
   - 'ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)'
   - 'ACE inhibitors, ACEI'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,13 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch05]]
 
 ## Key Details From Sources
 
+- (3) 處置:通常 aneurysm 很小或沒明顯症狀不需開刀,內科藥物治療(ACEI) 並追蹤即可。假使 aneurysm 擴張太快、angina、severe heart failure、refractory ventricular tachyarrhythmias 或是 recurrent thromboembolism 則需開刀將其切除。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- ...異常都 有可能。 - (3) 症狀:呼吸困難、端坐呼吸、肺水腫、肺高壓、atrial fibrillation。症狀嚴重度和 閉鎖不全程度相關,mild MR 患者幾乎不會有症狀, - (4) 處置方式和 MS 相同,可先藥物處理(利尿劑、ACEI),當藥物無法控制,症 狀持續嚴重、發展成肺動脈高壓、左心室功能惡化,則考慮手術修補。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (4) 保持肢體溫暖、少抽菸以改善雷諾氏現象;CCB、ACEI、及 vasodilator 的使用可防止指尖或皮膚的潰瘍。ACEI對於硬皮症腎臟侵犯的治療也佔有重要的角色。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (3) ACEI或 ARB 類藥物對於蛋白尿的治療與預防腎臟惡化現今仍持保留的態度。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

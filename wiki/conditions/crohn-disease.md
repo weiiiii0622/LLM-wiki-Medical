@@ -10,6 +10,10 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch15]]"
 aliases:
   - 'Crohn disease (克隆氏症)'
   - 'Crohn disease'
@@ -24,7 +28,7 @@ tags:
 
 ## Summary
 
-可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +38,23 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch03]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch11]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch15]]
 
 ## Key Details From Sources
 
+- 發炎性腸炎泛指 Ulcerative Colitis(UC,潰瘍性結腸炎)和 Crohn's Disease(克隆氏症),他們在生理病理學或臨床症狀方面有些許異同之處,但約有 10~15% 的 IBD 病人無法明確定義為 Ulcerative Colitis 或 Crohn's Disease,而稱為 Indeterminate colitis。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- 4. 抽菸與 Crohn's disease 正相關,和 UC 負相關。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- #### B. Ulcerative Colitis 和 Crohn's Disease 的比較 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- (a) 憩室長期發炎會使腸壁增厚、肌肉層增生和攣縮,易導致腸阻塞,病人 會有便秘的情形。雖然影像學方面可看見腸道狹窄,但仍須作病理切片 與 Crohn's disease 或是癌症作鑑別診斷。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
+- (D) 克隆氏症 (Crohn's disease) Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
+- ..., 並且作腸造口預防 fistula 受到汗染。大部分的 fistula 可以自行 癒合,而無法癒合的則視情況再進行手術修補。 (D) 12. 最常造成大腸-膀胱瘻管的病因是下列那一個? 100(一)專 (A) 大腸癌 醫五-55 (B) Crohn's 症 (C) Chronic ulcerative colitis (D) Diverticulitis (D) 13. 李老太太今年 72 歲,主訴為下腹痛已經 3 天,腹痛為持續的悶 98(一)專 痛,伴隨有間歇性陣痛。李老太太這幾天食慾不佳,僅進食一 醫五-20 些稀飯,且這幾天沒有排便,雖仍有排氣。耳溫為38℃,腹部 理學檢查顯示左下腹部腸音減少,併有左下腹壓痛。抽血檢查 白血球數為 13,800/mm3。下列何者為李老太太 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
+- 4. 高危險群: - (1) Ulcerative colitis > 10 年。 - (2) Crohn's disease with stricture • - (3) FAP 或 HNPCC 的家族史。 - (4) 癌症(或息肉)病史或家族史。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (2) 有以下 risk factor 的則 40 歲甚至更早開始定期篩檢: - a. 之前有得過大腸直腸癌或是息肉。 - b. 本身有得過 ulcerative colitis 或 Crohn's disease。 - c. 一等親或二等親有大腸直腸癌病史。 - d. 有 FAP 或 HNPCC 的家族史。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (2) 肛門癌症約佔大腸直腸癌症的 1~2%, 男女比例約 2:1, 好發年齡在 50~80 歲之間。致病原因包含 HPV type 16、18, 致癌基因 oncogene (c-myc, P53, Rb-1), 局部慢性肛門疾病或克隆氏症 (Crohn's disease)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 3. **發炎性息肉 (inflammatory or reactive polyp)**: 又稱作 pseudopolyp,任何對大腸之傷害,尤其嚴重且反覆發生之大腸發炎均有可能產生發炎性息肉。最常見於 UC 或 Crohn's disease,為良性。 Source: [[sources/med5-book2-ch15|庚、息 肉]].
 - (C) 21. 一位 25 歲女性,於七年前小腿出現多處疼痛的紅色結節,而在 100(-)專 二年前開始於陰唇部位出現劇痛性潰瘍,患者也經常出現口腔 醫四-42 潰瘍,曾因虹彩炎(uveitis)在眼科就診。這位患者最有可能之 診斷為何? - (A) 疤痕性類天疱瘡(cicatricial pemphigoid) - (B) 克隆氏病 (Crohn's disease) - (C) 貝塞特氏病 (Behçet's disease) - (D) 多形性紅斑 (erythema multiforme) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (C) 克隆氏症 (Crohn's disease) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...sis | 常出現在受傷過 | +/- | | subepidermal | Linear IgG/C3 in | | bullosa | 的皮膚、可能跟 | | | blister | epidermal | | acquisita | Crohn's disease | | | | basement | | | 有關 | | | | membrane | Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
@@ -45,8 +63,6 @@ tags:
 - | Crohn's disease (CD) | Ulcerative colitis (UC) | |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - ④有接受過闌尾切除手術(appendectomy),可以顯著降低發生潰瘍性大腸炎(ulcerative colitis)與克隆氏症(Crohn's disease)的風險 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - (C) 2. 關於 Ulcerative colitis 及 Crohn's disease 的比較,下列何者正確? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- ...多次腹瀉約 8 個月求診,病人無特殊藥物史及過去病史。泛內視鏡檢查發現嚴重食道炎、多處胃潰瘍及十二指腸第二部分多處潰瘍,下列疾病中鑑別診斷首要考慮之疾病為: (A) insulinoma (C) Whipple's disease (D) Crohn's disease (革解】Z-E syndrome 為 gastrinoma 所致,症狀多為腹痛、腹瀉、多發性胃潰瘍、多發性十二指腸潰瘍及嚴重食道炎(胃酸分泌過多)。 | 98(二)專醫三-19 | | (C) 21. 一位 30 歲男性,長期因十二指腸潰瘍而困擾,醫師安排吹氣檢查(urea breath test),請問這是測那一種感染?(A) Clostridium difficile (B) Escherichia coli( Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- ...m)。 | | | (C) 25 | . 一位 17 歲之男生因偏頭痛而服用非類療。半天前突然發生急性上腹痛,接吐物中見有血絲。經洗胃後,血絲在的診斷是: | 接著發生嘔吐,且咖啡底色之嘔 | 94(一)專內 2-35 | | | (A) 克隆氏症(Crohn disease) (B) | 十二指腸潰瘍 | | | | (C) 胃發炎 (gastritis) (D) f | 食道發炎 (esophagitis) | | | | 【 詳 解 】Acute gastritis 常 因 mucosal damage 造成。 | NSAID · Alcohol · stress-related | | | (A) 26 | . 下列何種藥物組合最不常被推薦為根染之治療? | 除幽門螺旋 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 
 ## Clinical Caveats
 
@@ -55,7 +71,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/anal-fissure|Anal fissure (肛裂)]]
+- [[conditions/anorectal-abscess-fistula|Anorectal abscess and fistula (肛門直腸膿瘍與瘻管)]]
 
 ## Follow-up
 

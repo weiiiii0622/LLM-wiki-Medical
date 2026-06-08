@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Atrial septal defect, ASD (心房中膈缺損)'
   - 'Atrial septal defect, ASD'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-心房層級左到右分流，常見固定分裂 S2 與右心容量負荷。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心房層級左到右分流，常見固定分裂 S2 與右心容量負荷。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- 4. 全肺靜脈回流異常(total anomalous pulmonary venous return, TAPVR): - (1) 四條肺靜脈正常應回到左心,但要是肺靜脈全接到上、下腔靜脈或右心房,則稱為全肺靜脈回流異常。通常合併 ASD,充氧血才有機會回到左側心臟。 - (2) X 光下可見 Snowman heart,是由於右心接受太多血流,所以變大,像雪人頭疊在心室上。(見下圖) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (3) 最常伴隨 ASD,另外約有 1/3 的病患有 WPW syndrome,是發生 supraventricular tachycardia 的高風險族群。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (1) 三尖瓣完全沒發育,右心房和右心室無法相通,右心房的血液只能藉由開放性 卵圓孔或 ASD 進入左心房。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 全身靜脈回心血液無法經由右心房往右心室運送,故血流從右心房經由卵圓孔或是心房中膈缺損(ASD)往左心運送。(參考): Nelson Textbook of Pediatircs 20th edition page 2218 中原文: ··· by means of the foramen ovale, or, most often, through an atrial septal defect.,暗示著三尖瓣閉鎖常合併 ASD。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) PGE1 使用讓 PDA 維持暢通好讓兩套循環有連接。若心房中膈缺損或卵圓孔太小,也可考慮使用 balloon atrial septostomy (BAS) 暫時增加血氧濃度。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

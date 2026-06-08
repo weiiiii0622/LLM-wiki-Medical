@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Hodgkin lymphoma (何杰金氏淋巴瘤)'
   - 'Hodgkin lymphoma'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-具 Reed-Sternberg cells 的淋巴瘤，治療常與 ABVD 化療及放療相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+具 Reed-Sternberg cells 的淋巴瘤，治療常與 ABVD 化療及放療相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch21]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- 1. 淋巴癌:結腸直腸為淋巴癌最常轉移之處,腸胃道淋巴癌中也有 10% 為 primary non-Hodgkin lymphoma。常見症狀為腹痛、排便習慣改變、體重減輕和血便。治療方法為手術切除和術後化療。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- 4. 甲狀腺淋巴瘤(thyroid lymphoma): - (1) 相當罕見且多和 Hashimoto thyroiditis 有關。大部分為 non-Hodgkin lymphoma。 - (2) 只能藉由 biopsy 去診斷, FNA 幫助不大。 - (3) 主要治療為 radiotherapy。 - (4) 預後和有沒有侵犯出 thyroid capsule 有關,如果僅侷限在包膜內其五年存活率 為 85%,反之,只剩下 40%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (4) 相較於 non-Hodgkin lymphoma,Hodgkin disease 發生病程較為緩慢。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - # C. 非何杰金氏淋巴瘤(Non-Hodgkin lymphoma, NHL) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - (1) B 淋巴球或 T 淋巴球的惡性腫瘤,沒有 Reed-Sternberg cell 表現。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

@@ -27,6 +27,15 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book2-ch13]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Cardiac catheterization (心導管檢查)'
   - 'Cardiac catheterization'
@@ -41,7 +50,7 @@ tags:
 
 ## Summary
 
-評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +77,28 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch11]]
+- [[sources/med5-book2-ch13]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- (C) 3.68 歲男性因心肌梗塞來急診,呈現休克狀態並經插管緊急處置, 聽診時發現有一第四度收縮期雜音(Grade 4/6 systolic murmur), 目伴隨有肺水腫(pulmonary edema),經心導管攝影為左前降枝 (LAD) 90% 狹窄, 迴旋枝 (LCX) 有 85% 狹窄, 下列處置何 者錯誤? Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (D) 8. 一位 56 歲男性病人因胸悶住院。他有糖尿病、高血壓、與抽菸 史。冠狀動脈血管攝影檢查顯示左冠狀動脈主幹 85% 狹窄、左 前降支 80% 狹窄、左回旋支 77% 狹窄、右冠狀動脈 90% 狹窄。 下列敘述何者正確? ①依冠狀動脈血管攝影檢查前家屬之決 定,立即裝置塗藥支架(drug-eluting stent) ②冠狀動脈血管攝 影檢查時,經與家屬商量後,立即裝置裸金支架(bared-metal stent) ③裝置支架前,不須請心臟外科醫師向病人及其家屬解 釋冠狀動脈繞道手術之優缺點 ④裝置支架時,手術室須準備 好,以便可立即進行緊急手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- ...0. 陳先生 62 歲,除患有糖尿病多年外,身體一向健康。某日午餐後返辦公室,突然感到胸痛不適。同事將陳先生送入醫院急診室,初步判斷為急性冠狀症候群(acute coronary syndrome)。住院一星期後病情穩定,各器官功能正常。經心導管檢查,發現冠狀動脈阻塞情況如下:左冠狀動脈主幹(leftmain coronary artery) 80% 狹窄、左冠狀動脈左前降支近心端 76% 狹窄與中段70% 狹窄、左迴旋支中段65% 狹窄、右冠狀動脈中段83% 狹窄與遠心端90% 狹窄。經心臟內外科團隊討論後,建議陳先生接受下列何種後續治療的一年存活率最好? - (A) 經皮穿徑冠狀動脈血管整形術 (percutaneous transluminal coronary angi Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- a. 緊急處置可給予 PGE1 維持動脈導管的通暢,或經由心導管進行氣球心房中膈造口術(balloon atrial septostomy),使左右心房的血液混合改善血中氧氣濃度。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- c. 足月兒藥物治療沒幫助,需靠外科手術,於左側腋窩部位切開,將動脈導管 綁緊或切斷即可(見下圖,其中 left recurrent laryngeal nerve 經過動脈導管下 方,手術時須注意)。或是用內視鏡開刀、用心導管將動脈導管堵塞。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (3) 血管攝影、電腦斷層:適合診斷和術前計畫評估。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...---------------------------------------------------------|------------------| | (A) 6. | 承上題,要作進一步確定診斷(A)靜脈杜普勒超音波檢查(B)靜脈血管攝影(C)電腦斷層掃描(D)核醫檢查 | | 102(一)專醫五-27 | | (C) 7. | | 是一種須緊急手術的對象,為避免最遲在完全阻塞發生之後幾個小時(B) 3~5(D) 9~12 | 101(二)專醫五-16 | | (C) 8. | | | 101(二)專醫五-18 | | 情況: | 就好了(Intermittent claudical | 年前開始右下肢在走一段路之後會疼痛tion),最近右腳傷口癒合不佳,身體核肖為差些 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...有關,而動脈阻塞造 | | | | 成之疼痛則否 | | | (B) 11. | 若要正確診斷同時作外科前的計畫評估,下列那種檢查最需要? | 100(二)專 | | | (A) 杜卜勒超音波檢查 | 醫五 -31 | | | (B) 動脈血管攝影 | | | | (C) 股動脈臂動脈壓比值(Femoro-brachial pressure ratio) | | | | (D) Plethysmography | | | | | | | (A) 12. | 此病人若接受外科手術治療,下列何項步驟不正確? | 100(二)專 | | (A) 12. | 此病人若接受外科手術治療,下列何項步驟不正確?(A) 股動脈至膝動脈繞道手術 | 100(二)專醫五-32 | | (A) 12. Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (D) 1.68 歲農婦因右手輕微無力伴隨下肢輕微水腫來診,經診斷為二尖瓣狹窄 (mitral stenosis),超音波顯示為心房顫動 (atrial fibrillation) 且瓣膜開口為 1.35 cm²,過去有右側膿胸且經開胸治療之病史,下列敘述或處置何者正確?①中風之故,不應給與抗凝血劑,如 warfarin ②應建議進行心導管檢查 ③進行瓣膜手術,且可同時進行迷宮手術(Cox-Maze procedure) ④可選擇胸腔鏡或小傷口內視鏡進行手術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 【詳解】圖中由上方可見一片訊號較強的地方,沿著腦溝分布 呈現五芒星狀為 SAH,該部位為 basal cistern,為動脈瘤破裂所 致。住院做血管攝影確認病灶來源。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (B) 10. 一位 56 歲女性病患,大腦血管攝影發現有一顆後交通動脈瘤 (posterior communicating artery aneurysm),該動脈瘤接觸到大 腦顳葉(temporal lobe),這位病患最有可能的症狀是那一種? Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (C) 在大腦血管攝影前後像可看到動脈瘤在頸內動脈內側突出 (projection of the aneurysm medial to the internal carotid artery on the AP angiogram) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
@@ -79,16 +107,6 @@ tags:
 - 【詳解】AVM 在血管攝影可見一團混亂的血管,電腦斷層出血 常為 ICH;aneurysm 在血管攝影為一血管小突起,電腦斷層出 血常為 SAH。 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
 - (C) 18.5 歲男孩,並無發燒或高血壓病史,突然發生右側肢體無力,經腦部電腦斷層檢查,發現左側前腦動脈供應區呈現缺血性梗塞,核磁共振動脈攝影(MRA)及腦血管攝影顯示兩側前腦動脈及中腦動脈供應區出現不正常毛玻璃樣血管叢。下列四項診斷中,那一項最符合? Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (B) 19. 承上題,以下之敘述,何者最可能是該小孩之腦血管攝影所發現 到的結果? Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- 4. 診斷:血中 d-dimer 可幫助排除(high sensitivity, low specificity),確診須靠 contrast-CT、血管攝影、V/Q scan。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (C) 懷疑有動脈血管損傷必須考慮安排血管攝影檢查 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (C) 5. 一位 60 歲女性,於一週前發生複視(diplopia),並無劇烈頭痛,神經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ischemic type) - (D) 海綿靜脈竇徵候群 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (B) 1. 八十四歲的伍爺爺因突發頭痛及行動不便,被送至急診室,神經 106(-)專 內科主治醫師認為是出血性中風,最合適的檢查為下列何者? 醫四-49 - (A) 血管攝影 (angiogram) - (B) 電腦斷層攝影(CT) - (C) 核磁共振攝影 (MRI) - (D) transcranial doppler Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- ...(A) | 5.33 歲健康女性,突發劇烈頭痛及暈厥(syncope),病人清醒後有頭痛、嘔吐及頸部酸痛現象,此時最優先的檢查為何? (A) 不打顯影劑的腦部電腦斷層 (B) 打顯影劑的腦部電腦斷層 (C) 打顯影劑的腦部磁振造影 (D) 血管攝影 【詳解】當然是先做不打顯影劑的頭部電腦斷層,先搶時間診斷是否為顱內出血,如 SAH。然後再適時選擇下一步的檢查。 | 108( 二 ) 專醫四 -77 | |-----|--------------------------------------------------------------------------------------------------------------------------------------... Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (b) 另外也可以考慮以血管攝影放置 multiple helical platinum coils 到血管瘤底 部,進行 coil embolization。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- b. 心導管:可以顯示右心房與右心室高壓、測量右心室大小、右心血流途徑、 三尖瓣逆流程度,肺部血流量等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- b. 手術治療(參考即可):視右心室發育大小,最後的循環可從雙心室、一又二分之一、到單一心室循環皆有可能。術式包括 pulmonary valvotomy 合併 aortopulmonary shunt、移除閉鎖部位以 patch grafting 代替、心導管介入治療、modified Fontan procedure 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (4) 心導管檢查:通常不需要做,除非考慮要進行 BAS 時。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (B) 新生兒曾插入臍靜脈管(catheterization of umbilical vein ) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

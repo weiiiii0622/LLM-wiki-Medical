@@ -9,6 +9,8 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch03]]"
 aliases:
   - 'Ventricular septal defect, VSD (心室中膈缺損)'
   - 'Ventricular septal defect, VSD'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-最常見先天性心臟病之一；分流量取決於缺損大小與肺血管阻力。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+最常見先天性心臟病之一；分流量取決於缺損大小與肺血管阻力。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,16 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch03]]
 
 ## Key Details From Sources
 
+- 1. 法洛氏四重症(Tetralogy of Fallot, TOF): - (1) 最常見的發紺型先天性心臟病,佔15~20%。 - (2) 四種異常為:心室中隔缺損(ventricular septal defect, VSD)、主動脈跨位 (aortic override)、右心室出口阻塞(right ventricular outflow tract obstruction, RVOTO)、右心室肥大(right ventricular hypertrophy)。(見下圖左) - (3) **心室中膈缺損**連帶影響主動脈與心室的連接,造成**主動脈跨位**至右心室,進而 佔據影響右心室的出口,右**心室出口受阻**(阻力變大),所以血流都從右 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (7) 處置:藥物可給予前列腺素(PGE1)維持動脈導管的通暢,以減緩陣發性呼吸 困難(缺氧性)。但如須完全矯正仍需要手術。 - a. 完全矯正手術 (total correction): - (a) 將 VSD 修補以及右心室出口或肺動脈狹窄處擴大術,以心包膜片(pericardial patch)來擴大狹窄的肺動脈瓣環(pulmonary valve annulus)。但假 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (b) 術後併發症: 傳導異常、殘餘的心室中膈缺損、殘餘的肺動脈狹窄、肺動脈瓣關閉不全、右心室衰竭、心肌梗塞、早發性心室傳導。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 3. Ventricular septal rupture (VSR) 或稱 Ventricular septal defect (VSD): - (1) 發生率較低但也很致命,危險高峰期為 AMI 後 24 小時內以及三到五天之間, 較常發生於 LAD 阻塞造成的 anterior infarction。 - (2) VSR 的危險因子有年老、女性、single-vessel disease、extensive MI 以及 poor septal collateral circulation。 - (3) 聽診可發現新的 holosystolic murmur Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- 3. Ventricular septal defect POST Ml Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 2. 病生理:心室中膈的 outlet septum 向前上方移位造成 **VSD、主動脈跨位**到右心室造成**肺動脈血流受阻** (Right ventricular outflow tract obstruction, including infundibular stenosis, valvular pulmonary stenosis, and sometimes supravalvular pulmonary stenosis),最後造成右心室肥大。當肺動脈血流阻塞甚至造成 pulmonary atres Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 7. 治療:以外科方式治療為最終目標。 - (1) 先維持肺部血液的灌流,如注射 PGE1 維持開放性動脈導管、人工血管放置 (Blalock-Taussig shunt 或 central shunt) 或 PDA stent。 - (2) 手術治療 VSD 與矯正右心室出口阻塞。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

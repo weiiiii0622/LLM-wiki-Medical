@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch10]]"
+  - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Autoimmune hemolytic anemia, AIHA (自體免疫溶血性貧血)'
   - 'Autoimmune hemolytic anemia, AIHA'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch10]]
+- [[sources/med5-book2-ch27]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- 6. Bone、tendon、skin 可以有約 8~12 小時 warm ischemia time 和 24 小時 cold ischemia time; 肌肉則只有 6 小時 warm ischemia time 和 12 小時 cold ischemia time。大抵上,斷指可以承受 8~12 小時 warm ischemia time 和 12~24 小時 cold ischemia time; 而更大塊的斷肢則只有 4~6 小時 warm ischemia time 和 10~12 小時 cold ischemia time (因為肌肉佔的比例增加)。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- (CD)15. 急診來一名左姆指掌指骨關節 metacarpophalangeal joint 完全截肢 105(一)專 傷,該斷指可承受的 warm ischemia time 為: 醫五-54 (A) 2 小時 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
+- 4. Prolonged warm ischemia time Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - ...度並用約 50 cc 冷水(30℃)或冰水灌入其中一邊外耳道內,則兩眼會共軛地轉向對側,若用溫水(44℃)灌入兩眼會轉向同側,此表示腦幹功能正常。當腦幹尤其前庭核區有病灶時,則此反射會消失。口訣:"COWS":cold opposite,warm,same side。 - e. 對身體任何部位之疼痛刺激,在顱神經分布區範圍內,不能引起運動反應(但 脊髓反射仍可存在)。 - f. 以導管在氣管抽痰時,不能引起作嘔咳嗽反射。 - (4) 確定腦幹反射都消失後,進一步確認病人無法自行呼吸。 - (5) 重複上述步驟,連續兩次判定皆無腦幹反射和無法自行呼吸後,即可判定為腦死。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - (4) Calori test: 平躺,頭抬高 30 度,右外耳道灌冷水,右側的耳蝸受到抑制→右側的前庭核受抑制→左側 CN6 受抑制(左 CN3 強);右側 CN3 受抑制(右 CN6 強)→共軛往左看受抑制,造成眼睛會慢慢往右看(慢相),再快速向左看補償回正(快向、即所描述的眼震方向)。口訣是 COWS (Cold opposite、Warm same),灌冷水(Cold)時眼震朝對側(Opposite)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - b. 左邊前庭灌「溫水」可刺激刺激右 CN6 使右眼往右看,再藉由 MLF 刺激左 CN3 使左眼往右看(慢相),往右看到不能再右時,會往左跳回(快相=眼震描述方向),再慢慢往右看(慢相),如此循環。冷水的效果相反。有口訣是描述快向(眼震方向): COWS, Cold opposite, Warm the same;單耳灌冷水,眼震往對側;單耳灌溫水,眼震往同側。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].

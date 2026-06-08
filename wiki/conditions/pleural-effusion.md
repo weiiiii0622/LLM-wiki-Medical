@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book2-ch01]]"
 aliases:
   - 'Pleural effusion (肋膜積液)'
   - 'Pleural effusion'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book2-ch01]]
 
 ## Key Details From Sources
 
+- 1. 胸部 X 光:可觀察主動脈、氣管是否有移位,或是縱隔腔會有 widening 的情形, 也有機會看見 pleural effusion 或 cardiomegaly。但 X 光敏感性和特異性皆不好,並 不能用來作為排除主動脈剝離的診斷,需做 CT 或是 MRI 才能確診。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...nts, | | | | | | | characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - | | Image pattern | Distribution | Pleural effusion | |------------|---------------------------------|----------------------------------------|------------------| | Bacteria | Alveolar | Usually unilateral: lobar or segmental | Maybe | | Virus | Hyperinflation and Inters Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) 痰液或肋膜積液的培養與格蘭氏染色。 Source: [[sources/med4-book1-ch04|丁、感染科學]].

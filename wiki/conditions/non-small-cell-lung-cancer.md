@@ -18,6 +18,9 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Non-small-cell lung cancer (非小細胞肺癌)'
   - 'Non-small-cell lung cancer'
@@ -32,7 +35,7 @@ tags:
 
 ## Summary
 
-肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +53,17 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch10]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch14]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- (1) 肛門位處於內外胚層的交界之處,所以腫瘤種類複雜,最多的是鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma),其它的還有腺癌(adenocarcinoma)、泄殖腔細胞癌(cloacogenic cell carcinoma)、黑色素細胞癌(melanoma)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (5) 鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma):為 SCC,非 adenocarcinoma。早期治療是以腹部會陰切除術(abdomino-perineal resection, APR)為首選,將直腸肛門做根治性的切除及製作永久人工造口術,對於 early stage 的效果好。現在以結合放射線治療和化學治療為主流,可提供相當程度的治療率,並且保持肛門的功能。但假使病患有需要做人工造口或有大便失禁的情形、對於電療化療 contraindicated、或是電化療失敗者,仍應考慮 APR。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- ...一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | | situ),不是腺癌。 | _ | | (C) 17. 有關直腸癌的經肛門局部切除治療,下列敘述何者錯誤? | 102(二)專 | | (A) 須小於 4 公分的 T1 和 T2 癌瘤才可使用 | 醫五-54 | | (B) 癌瘤須在離肛門口 6 公分以內的範圍才能採用此療法 | | | (C) T1 和 T2 的癌瘤皆不需再接受進一步的治療 | | | (D) 癌瘤必須是分化良好或中度分化者 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (C) 腺癌(adenocarcinoma ) (D) 組織間質癌(stromal tumor ) Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- (B) 鱗狀細胞癌(squamous cell carcinoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - ...(A) 黃麴毒素(Aflatoxins)-肝癌(Hepatocellular carcinoma) | 醫五 -10 | | (B) 幽門 螺 旋 桿 菌(Helicobacter pylori)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人體重 70 公斤,工作時不慎發生火災,身體 | 102(一)專 | | 表 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) 152 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - # K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
@@ -66,11 +77,6 @@ tags:
 - ...原發性縱隔腔胚細胞瘤(Primary mediastinal germ cell tumor) (D) 轉移性癌(Metastatic cancer) 【詳解】尤其是長在靠肺中央的肺癌,如 Small cell lung cancer, Squamous cell cancer of lung。 | 94(三)檢內-44 | | (D) | 10. 下列有關 tumor lysis syndrome 的敘述,何者錯誤? (A) 最常發生於快速生長的腫瘤,特別在接受化學治療後 (B) 血清中磷酸鹽(phosphate)增加,可造成磷酸鈣沈積及腎衰竭 (C) 血清中鉀離子濃度增加,可造成心室不整脈 (D) 注射重碳酸鈉(sodium bicarbonate)鹼化小便,可減少尿酸及磷酸鈣沈積 【詳解】 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - ...ate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、Vitamin B12 以減少毒性。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...(2) Vinblastine (敏畢瘤) → HD (AB\(\overline{V}\)D) - a. 類似 Vincristine,但骨髓抑制較強,特別是血小板低下。 - (3) Vinorelbine (Navelbine®) →非小細胞肺癌 - a. 其 Resistant patterns 與上述藥物不同,可口服給予,用於治療非小細胞肺癌。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- | (C) | 1. 有關「血清 CA19-9 值」於胰臟癌(pancreatic ductal adenocarcinoma)診療上的敘述,何者正確? (A)「血清 CA19-9 值的升高」是診斷胰臟癌的必要條件 (B)「血清 CA19-9 值的升高」建議使用於胰臟癌的篩檢(screening) (C)「手術前血清中 CA19-9 值」與病患胰臟癌的期別(stage)具相關性 (D)「手術後血清中 CA19-9 值」與病患的預後無關 | 108(一)專醫三-35 | |-----|--------------------------------------- Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- (B) 4. 一位 40 歲女性病人由大腸鏡發現在升結腸有一腫瘤,而沒有其他息肉或發炎性大腸病變。病理切片發現是腺癌,分化不好(poorly differentiated adenocarcinoma),她媽媽於 48 歲死於子宮內膜癌,她爸爸目前健康良好,她 43 歲的姊姊在 2 年前診斷為早期結腸癌,追蹤至今無復發。此外,病人無其他兄弟姊妹,經過右半結腸切除,證實是 T3 N1 M0 腺癌,她擔心 2 個小孩有結腸癌的風險,想做基因檢測,此病人最有可能是那一種家族性的癌症症候群? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- Barrett's esophagus (intestinal metaplasia) · Esophageal adenocarcinoma · Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (A) 胃腺癌 (gastric adenocarcinoma) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (C) 食道鱗狀細胞癌 (esophageal squamous cell carcinoma) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

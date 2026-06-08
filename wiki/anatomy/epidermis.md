@@ -19,6 +19,10 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book2-ch26]]"
 aliases:
   - 'Epidermis (表皮)'
   - 'Epidermis'
@@ -33,7 +37,7 @@ tags:
 
 ## Summary
 
-表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +56,18 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch30]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch25]]
+- [[sources/med5-book2-ch26]]
 
 ## Key Details From Sources
 
+- ...---------|----------------------------------------------------------|----------------------------------------| | 一度燒傷 | 表皮層 | 皮膚發紅、腫脹、有明顯觸痛感 | 約 3~5 天即可癒合,僅破壞表皮層,故癒合後不會有疤痕 | | 淺二度燒傷 | 表皮層、真皮乳突層(約三分之一以上) | 皮膚紅腫、起水泡,有劇烈疼痛及灼熱感、Blanches withpressure (壓迫後變色) | 約 14 天内即可癒合,通常無疤痕或輕微疤痕 | | 深二度燒傷 | 表皮層、真皮深層 | 皮膚呈白、黃色、起白色大水泡,較不感覺疼痛(受刺激依舊會痛)、Less blan Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- (A) 6. 病人都希望表皮腫瘤切除時留下的疤痕不明顯,下列的切痕設計 那一個較不能達到良好的結果? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- (2) 皮膚薄、微血管脆弱易表皮瘀血、傷口癒合差。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 傷口癒合有其一定步驟,皮膚最外層由上皮層(epidermis)和真皮層(dermis)作為屏障保護的作用,一旦受到破壞產生傷口、微血管破裂,身體就會開始一連串的癒合過程。也許因為傷口種類不同每一時期長短不一,甚至可同時看到不同時期的組織一起出現,但傷口仍舊是依循順序去癒合的。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- 1. 植皮歷史相當久,從西元前的印度和埃及就有相關文獻記載。植皮簡單定義即「將表皮與全部或部分真皮從身上取下,並且沒保留其原本血流供應,然後將之移植到身上其他部位。」依真皮層被取下的多寡可分為全層皮膚移植(full-thickness skin graft, FTSG)與分層皮膚移植(split-thickness skin graft, STSG)。皮膚移植並不包含移植之皮膚本身的血管。 Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
 - P. 表皮樣囊腫 (Epidermoid tumor) 215 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. 神經表皮細胞腫瘤(tumor of neuroepithelial tissue): - (1) 星狀細胞瘤 (astrocytoma):星狀細胞 (astrocyte)。 - (2) 寡樹突神經膠瘤(oligodendroglioma):寡樹突細胞(oligodendrocyte)。 - (3) 室管細胞瘤 (ependymoma):室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ## P. 表皮樣囊腫 (Epidermoid tumor) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -68,9 +81,6 @@ tags:
 - (3) 局部塗抹藥劑: - a. 5-FU (fluorouracil):抑制 DNA 合成和複製,導致分生不良細胞死亡。但較 具刺激性,可能會有灼熱刺痛感及造成皮膚潰瘍。 - b. Imiquimod:屬於一種免疫調節劑,可刺激皮膚的免疫反應,由自身的免疫系統來攻擊不正常增生的表皮細胞。 - c. 三氯醋酸 (Trichloroacetic acid, TCA): 很強的蛋白質變性劑,用於化學換膚,使病灶被破壞脫落,幾週後長出新皮膚,穿透性良好適合移除較深層的病灶,皮膚刺激感也較強烈。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 【詳解】此題於 101 年也考過,從左圖外觀來判斷,脂漏性角化症病灶像黑色蠟塊,盤狀紅斑性狼瘡為邊界明顯的紅色斑塊伴有厚屑,剩日光性角化症和基底細胞癌為可能診斷。右圖可見 atypical keratinocytes,局限於表皮層下 1/3,非全層 atypia(如 Bowen's disease),故推判為 (A) 光化性角化病(actinic keratosis)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 1. 葡萄球菌性燙傷樣皮膚綜合症(Staphylococcal scalded skin syndrome, SSSS) - (1) 致病因子:眼耳口鼻感染 S. aureus,其分泌的外毒素 Exfoliatin A 和 B,是一種 蛋白酶(protease),會去攻擊負責連結表皮顆粒層和棘狀層之間的 desmoglein 1,導致表皮裂解。顯微鏡下可見表皮裂解於顆粒層中或是與棘狀層之間。 - (2) 最好發於新生兒前三個月大,以及五歲前孩童。Immunocompromised 的成人也 會,但罕見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- b. 由於裂在表皮, 水泡鬆弛易破, 表皮易脫落。在 水泡邊緣輕微施壓,原本好好的皮膚也會上下層 分離,水泡往旁擴散變大,摩擦表皮會像衛生紙 一樣脫落,稱作 Nikolsky sign(+)(右下圖)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 【詳解】(B)SSSS不會侵犯黏膜組織。(C)治療以抗生素為主。(D) 表皮脫皮癒合後不會留下任何疤痕。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 1. 為一種罕見自體免疫水泡疾病,體內 B 細胞淋巴球過度活躍,分泌 IgG 攻擊表皮中負責將細胞之間連接在一起的胞橋小體(Desmosome)內的 Desmoglein(一種glycoprotein),破壞表皮細胞間的聯結。游離的表皮細胞形狀也從多角形變圓形,這樣的細胞就叫作 acantholytic cell,該過程叫棘層鬆解(acantholysis),使皮膚或黏膜發炎剝離產生水泡。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 
 ## Clinical Caveats
 

@@ -27,6 +27,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)'
   - 'GOLD COPD assessment'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,13 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - [[sources/med4-book1-ch07]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- 2. 見下表,以 AAA 為例,年齡、活動度、心臟(CAD、AMI等)、肺功能(FEV1、COPD)、腎功能、AAA 的 type 及肝功能等都會影響到手術的 mortality,其中以心臟(CAD) 為最主要的手術危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- 2. 診斷: - (1) Colonoscopy: Gold standard,可同時作 biopsy。 - (2) Flexible sigmoidoscopy • - (3) Air-contrast enema:可清腸且偵測阻塞的程度。 - (4) Proctoscopy with rigid sigmoidoscopy: 可偵測 50% 的結腸癌,如果是用 flexible sigmoidoscopy 可偵測到 75% 的結腸癌。 - (5) DRE:可檢查直腸腫瘤大小、ulceration、local invasion、lymph node。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPI Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (1) Angiogram: DSA (digital subtraction angiography),為評估大腦動脈瘤的 gold standard,可偵測出 80~85%的 aneurysm。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - | Age | Bacteria | Virus | |-----------|---------------------------------|-----------------------------| | 新生兒 | Group B streptococcus | Enterovirus | | ( 感染的肺炎。感染流感的病童,在感染後需注意 $\bf S$ . $\bf aureus$ 感染的肺炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -87,8 +93,6 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - c. 肺炎、中耳炎:常見於 COPD、抽菸者。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (2) 若發現 $PaCO_2$ 太高,表示病患呼吸太慢(Hypoventilation),可因上述低血氧、酸中毒刺激呼吸中樞,病人喘到後來呼吸肌 fatigue。COPD病人呼吸道長期吐氣不完全,也可能導致 $CO_2$ 累積(Retention);其他中樞神經、周邊神經、肌肉病變等也可能使呼吸肌無力,或是鎮靜劑抑制呼吸中樞。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 4. 第三題:pH = 7.42; $HCO_3^- = 42$ ; $Pa_{CO2} = 67$ ; $Na^+ = 140$ ; $K^+ = 3.5$ ; $Cl^- = 88$ - (1) 第一步:中性→呼吸酸+代謝鹼 - (2) 第二步: $\Delta[HCO_3^-]=0.1\sim0.3\times\Delta PaCO_2=2.7\sim8.1$ ; $[HCO_3^-]=15.9\sim21.3$ ,但病患 $HCO_3^-=42$ ,所以由此也可證實病患合併代謝鹼。 - (3) 第三步: AG = 10, 未合併高陰離子間隙代謝酸。 - (4) 臨床狀況: 常見於 COPD 長期的呼吸酸加上過度使用利尿劑,體液缺乏導致代謝鹼。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...along the GBM。 - iii 電顯: subepithelial deposition。 - (c) 大部分為 idiopathic,和 B型肝炎、梅毒、自體免疫疾病(SLE, RA)、實質性腫瘤(乳癌、肺癌、大腸癌)、藥物(gold、penicillamine、captopril、NSAIDs)有關。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...is, leprosy, filariasis | | | | Cancer | Breast, colon, lung, stomach, kidney, esophagus, neuroblastoma | | | | Drugs | gold, mercury, penicillamine, nonsteroidal anti-inflammatory agents, probenecid | | | | A | SLE, RA, primary biliary cirrhosis, dermatitis herpetiformis, | | | | Autoimmune dz. | bullous pemphigoid, myasthenia gravis, Sjögre Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

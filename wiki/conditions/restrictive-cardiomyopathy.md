@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch11]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Restrictive cardiomyopathy (限制型心肌病變)'
   - 'Restrictive cardiomyopathy'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-舒張受限造成充填障礙。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+舒張受限造成充填障礙。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch11]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- (B) 窄縮性心包膜炎 (constrictive pericarditis) 與限制性心肌病 變(restrictive cardiomyopathy)的鑑別診斷往往需要藉由右 側心導管的壓力追蹤圖來區分 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - C. 侷限性心肌病 (Restrictive cardiomyopathy, RCM) 169 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - #### C. 侷限性心肌病 (Restrictive cardiomyopathy, RCM) Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - 3. 治療:治療之後造成浸潤的原因,Steroid for sarcoidosis、去鐵劑 for Hemochromatosis等。 Amyloidosis RCM 需避免 Digoxin,Digoxin 較易於這類病患發生毒性。 Source: [[sources/med3-book1-ch07|庚、心肌症]].

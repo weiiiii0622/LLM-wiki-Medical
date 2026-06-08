@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book2-ch28]]"
 aliases:
   - 'Cleft lip and palate (唇顎裂)'
   - 'Cleft lip and palate'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-口腔顏面裂隙可影響餵食、語言、牙齒與中耳功能，需多專科照護。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+口腔顏面裂隙可影響餵食、語言、牙齒與中耳功能，需多專科照護。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book2-ch28]]
 
 ## Key Details From Sources
 
+- A. 唇裂 (Cleft lip) 278 Source: [[sources/med5-book2-ch28|丁、唇顎裂]].
+- B. 顎裂(Cleft palate) 279 Source: [[sources/med5-book2-ch28|丁、唇顎裂]].
+- #### A. 唇裂 (Cleft lip) Source: [[sources/med5-book2-ch28|丁、唇顎裂]].
 - # A. Cleft lip and palate Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) 每 750 位新生兒中就有一位是唇裂病人(不管有沒有顎裂);單純顎裂發生率為 每 2,500 位新生兒中就有一位。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (2) 顎裂:胚胎發育時兩天側顎突無法完全融合,且鼻中隔與 median palatine process 融合出問題所致。裂開畸形程度亦可分為 incomplete (只裂部分)與 complete。 Source: [[sources/med4-book1-ch02|乙、消化系統]].

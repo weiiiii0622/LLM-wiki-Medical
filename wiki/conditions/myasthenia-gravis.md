@@ -38,6 +38,13 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Myasthenia gravis, MG (重症肌無力)'
   - 'Myasthenia gravis, MG'
@@ -52,7 +59,7 @@ tags:
 
 ## Summary
 
-神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +97,26 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book1-ch12]]
+- [[sources/med5-book2-ch21]]
+- [[sources/med5-book2-ch22]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch07]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- 5. 血鈣: 2~2.5 mM 或 8~10 mg/dL,游離態和結合態各約 50%。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- (2) Asymptomatic HPT,但有以下條件可作 parathyroidectomy: - a. 年紀小於 50 歲。 - b. 無法定期追蹤檢查者。 - c. 血清鈣濃度> 11 mg/dL。 - d. 尿鈣> 400 mg/24 hrs。 - e. Ccr 15 mg/dL。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- (A) 低血糖症狀、血糖低於 50 mg/dL 及有服用糖尿病藥物史 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- (B) 低血糖症狀、血糖低於 50 mg/dL 及口服葡萄糖後可改善症狀 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- (C) 低血糖症狀、血糖低於 50 mg/dL 及靜脈注射葡萄糖後可改善症狀 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm 的血管。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (D) 15. 一位 30 歲男性因為右膝骨折脫臼合併膕動脈(popliteal artery) 斷裂,接受緊急血管吻合術以及筋膜切開術後,隔天病人發生尿 量減少(oligouria),抽血檢查發現 GOT 200 mg/dL,myoglobin 5,700 mg/L。請問下列那一種狀況最能解釋目前的病情? Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (A) 16.72 歲男性,有多年高血壓病史,來診時主訴左下肢疼痛麻木達 3 小時。病人過去一天一包菸持續超過 40 年,理學檢查發現左足 部冰冷,顏色蒼白,未見腳部腫脹,但足部脈搏微弱。病人有 多年雙側下肢靜脈曲張的疾病史,未服用藥物控制。病人血壓 180/110 mmHg,心跳 100/min,抽血時血糖值 220 mg/dL。此病 人最可能的診斷是: 98(一)專 醫五-13 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (1) 先確診病患有 hypercortisolism: - a. 24 小時尿中 cortisol > 100 mg/day。 - b. Overnight dexamethasone suppression test:晚上 11 點給予 1 mg dexamethasone,隔天早上八點測量血漿 cortisol 濃度,如果 > 5 μg/dL 則為 hypercortisolism。因 dexamethasone 可以負回饋抑制 ACTH 分泌,但若在 Cushing syndrome 的病患,cortisol 濃度則不會受到抑制。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - (C) 住院,檢驗是否有重症肌無力 (myasthenia gravis) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - ...syndrome):以下符合 2 個以上: - (1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe s Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - d. Bilirubin (mg/dL) - (a) 1.2~1.9:1分 - (b) 2.0~5.9:2分 - (c) 6.0~11.9:3分 - (d) > 12.0:4分 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -101,16 +125,6 @@ tags:
 - ...(B) 倦怠 (C) 反應遲緩 (D)抽筋 (CD) 6. 張女士是一位 63 歲的獨居農婦,三週前清理田中雜草時割傷右 98(一)專 手中指,門診檢查發現手掌紅腫、手指彎曲、叩診腱鞘及被動伸 醫五-7 展中指時引發極度疼痛,血糖 430 mg/dL,糖化血色素 HbA1c 11%。住院給予廣效性抗生素及胰島素注射治療後症狀逐漸緩 解,第3天下午四點病房護士指尖採血驗血糖值為70 mg/dL, 當時張女士意識清楚,心跳每分鐘 75 次,皮膚溫暖乾燥,下列 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...蔡先生, 現年 40 歲, 因尿毒症而接受血液透析共 10 年, 登 101(一)專 記換腎也等待6年,此次住院前一天晚上被通知住院並接受腎臟 醫五-1 移植。捐贈者是一位 55 歲女性腦死病患,實驗室檢查發現血清 內肌酸酐值高至 6.0 mg/dL, 血清內尿毒素氮為 54 mg/dL, 主治 醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決 然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 cc。以下什麼情況最可能解釋移植腎沒有發揮功能? (A) 移植腎腎小管壞死 (B) 移植腎腎動脈栓塞 (C) 移植腎腎靜脈栓塞 (D) 移植腎輸尿管壞死 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (D) 11. 病患 32 歲女性,第一型糖尿病合併尿毒症,於 6 個月前接受胰腎同時移植。2 星期前因急性排斥,接受 3 天的高劑量類固醇(prednisolone 500 mg)靜脈注射,最近因發燒至 39.5℃,呼吸急喘,乾咳,肺部 X 光呈現兩側對稱性下肺部浸潤(bilateral symmetric lower pulmonary infiltration),血液白血球為 3,400/mm³。此病人之診斷最可能為何? Source: [[sources/med5-book1-ch06|己、移植外科]].
-- ...onemius muscle (#) 13. 下列有關脊髓損傷病人使用高劑量皮質類固醇(corticosteroid) 106(一)專 的敘述,何者錯誤? 醫五-12 (A) 建議在受傷後 8 小時內使用 (B) bolus 劑量為 30 mg/kg 靜脈滴注一小時後, 給予 5.4 mg/kg/ Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- 【詳解】根據 National Acute Spinal Cord Injury Study (NASCIS)、 NASCIS II、NASCIS III的研究結果, Spinal injury後8小時內 使用高劑量 methylprednisolone 有助於改善 neurologic outcome, 劑量為先給予30 mg/kg的 bolus,之後5.4 mg/kg/hour 靜脈滴 注 23 小時。而給予如此高劑量類固醇,需注意其副作用,例如 infection 或 avascular necrosis。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- II. 神經肌肉接合處疾病 (Neuromuscular Junction Disease) 174 - A. 重症肌無力 (Myasthenia gravis) 174 - B. Lambert-Eaton syndrome 175 - C. 肉毒桿菌中毒 (Botulism) 175 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- #### A. 重症肌無力 (Myasthenia gravis) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- (1) 定義:前中後大腦動脈、基底動脈的穿透支造成的中風,CT等影像學上的病兆 200 mg/dL 以上時,可以重複注射低劑量的胰島素 將血糖控制在 110 mg/dL 以內。(A, level 1+) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (D) 以 r-tPA 治療缺血性腦中風之劑量,最大量不超過 90 mg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- ...醫四 -56 正確的? (A) 立刻在其口中塞入壓舌板,以免病人咬到自己的舌頭 (B) 剛發作完血糖會過低,要立刻給予葡萄糖液靜脈注射 (C) 安排腦部電腦斷層攝影或磁振造影 (D) 立刻給予靜脈注射 phenytoin,每公斤體重 75 mg Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 

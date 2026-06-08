@@ -10,6 +10,10 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch16]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch07]]"
 aliases:
   - 'ACC/AHA heart failure stages (ACC/AHA 心衰竭分期)'
   - 'ACC/AHA heart failure stages'
@@ -24,7 +28,7 @@ tags:
 
 ## Summary
 
-依危險因子、結構病變、症狀與末期狀態分期。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依危險因子、結構病變、症狀與末期狀態分期。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +38,20 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch16]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch16]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch07]]
 
 ## Key Details From Sources
 
+- (2) Stage B1: 侵犯至肌肉層。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (3) Stage B2:侵犯超過肌肉層甚至到達 visceral peritoneum 表面。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (4) Stage B3: 腫瘤直接侵犯到或是緊貼著臨近器官。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- (D) 此情況為 ACC/AHA 準則之 Class I 之冠狀動脈繞道術適應症 【詳解】正確診斷應為急性心肌梗塞後導致大片心臟肌肉壞死、 心室中膈破裂,然後左心高壓血往右心流去產生第四度收縮期 雜音,併發肺高壓與肺水腫。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- 急性心肌梗塞(AMI)有 medication、PCI 或 CABG 等治療對策, 各有其適應症,不是每一個 AMI 患者都要做 emergent CABG。 Emergent CABG indication: (ACC/AHA guidelines) Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- 5. Fontaine stage classification: 分級 - (1) Stage I:無症狀的,脈搏減弱。(Asymptomatic, decreased pulses, ABI 1.4:動脈硬化(鈣化)程度很嚴重失去彈性,所以測量下血壓很高。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- #### B. Indications: ACC/AHA Guidelines Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (A) 常見之 surgical indication 為 end-stage pulmonary vascular disease 以及 end-stage bronchopulmonary pathology Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. 依治療策略的嚴重程度分級(ACC/AHA): Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 - | | Stage A | Stage B | Stage C | Stage D | |--------|----------------|--------------------------|--------------------|--------------| | 124.26 | 有危險因子 | 左心收縮功能異常、 | 有心臟衰竭症狀 | 內科治療後, | | 定義 | (CAD, HTN, DM) | 心肌梗塞、瓣膜性心臟病 | | 仍有症狀 | Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].

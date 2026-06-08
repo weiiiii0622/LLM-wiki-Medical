@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch07]]"
 aliases:
   - 'Emphysema (肺氣腫)'
   - 'Emphysema'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-肺泡壁破壞與過度充氣造成氣體交換障礙。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺泡壁破壞與過度充氣造成氣體交換障礙。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch09]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch07]]
 
 ## Key Details From Sources
 
+- (D) 合併有腎功能不良及肺氣腫的病人應優先考慮不停跳冠狀動 脈繞道手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- ...縫合。 | | | (D) | 4. 現在出現一個 25 歲腦死的潛在性器官捐贈者,下列哪一個病患 | 98(二)專 | | | 需要心肺移植(heart-lung transplantation)? | 醫五-1 | | | (A) 末期肺氣腫 | | | | (B) 缺血性心臟病 | | | | (C) 原發性肺動脈高壓 | | | | (D) 原發性心肌症合併次發性肺動脈高壓 | | | (B) | 5. 在心臟移植手術時,若受贈者術前的肺動脈壓非常高,因而造成 | 94(二)專 | | | 術後死亡,最可能的死亡原因為: | 外一-22 | | | (A) 急性肺水腫 | | | | (B) 急性右心衰竭 | | | | (C) 急性排斥現象 | | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (2) 灌注氣體的隨處移動也可能導致 subcutaneous emphysema、pneumothorax、pneumomediastinum、pneumopericardium。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - ...破裂後,空氣進入肺泡以外部位;通常與使用輔助通氣(assistant ventilation)而造成其併發症。因進入的部位不同而有 pneumomediastinum、pneumothorax、pulmonary interstitial emphysema、pneumopericardium、pneumoperitoneum、pneumoretroperitoneum以及pneumatocele。當新生兒出生時有肺部相關問題,如 respiratory distress syndrome、meconium aspiration、pneumonia 或是pulmonary hypoplasia,則氣漏症候群發生機會大增。在所有氣漏症候群中,以pneumothorax最常發生,其次為pulm Source: [[sources/med4-book1-ch11|子、新生兒科]].

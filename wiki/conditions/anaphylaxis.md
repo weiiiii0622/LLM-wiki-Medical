@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch13]]"
 aliases:
   - 'Anaphylaxis (全身性過敏反應)'
   - 'Anaphylaxis'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch13]]
 
 ## Key Details From Sources
 
+- ...出血點,並可同時施打 vasopressin 或作 embolization,達到治療的效果,成功率約 85%。 - (c) Colonscopy:用來治療勝過診斷,適合較慢速的出血。可用 vasoconstrictive agents (epinephrine)、vasodestructive agents (alcohol、morrhuate、sodium tetradecyl sulfate)或是 thermal therapy (laser、electro、heater coagulation)達到止血效果。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - ...tic) 和神經性 (neurogenic)。 - a. 敗血性休克:遭細菌感染釋放出之毒素,使得 TNF-α、IL-1、IL-6、IL-8 會增加,造成周邊血管擴張,vessel tone 下降,血管內有效容積下降,引起休克。 - b. 過敏性休克: 因嚴重的過敏反應而引發體內細胞釋放出物質使全身血管擴張 導致血壓下降。 - c. 神經性休克:由於脊髓損傷導致神經性反射及血管阻力喪失,使周邊血管擴張使得血液湧向周邊部位、造成主要器官組織灌流不足,心輸出量減少,引起休克。 - (4) 阻塞性(obstructive):心包填塞、肺動脈栓塞、張力性氣胸等造成心輸出量不足。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...液),每半小時 $500\sim1,000~\text{mL}$ ,以達到目標,假使患者是使用呼吸器,則目標為 $12\sim15~\text{mmHg}$ 。 - b. 平均動脈壓(MAP) > 65 mmHg: 升壓第一線藥物為 Norepinephrine(35~90 mcg/min),第二線為 Vasopressin(劑量上限為 0.03 U/min),此時可考慮加上可同時考慮加上類固醇 Hydrocortisone(200 mg/day)。第三線藥物才是 Epinephrine(25~50 mcg/min)。 - c. 中心靜脈的血氧飽和度( $ScvO_2$ ) > 70%:假使 $ScvO_2$ 5 $\mu$ g/kg/min 或是 Epinephrine/Norepineph Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (C) 2. 一位 25 歲女性,從高處跌落,造成頸部疼痛及四肢癱瘓,但意 識清楚,四肢無冰冷現象。電腦斷層影像檢查發現第五頸椎骨折 神經壓迫。此時病患心搏速率:60次/分、血壓:75/55毫米汞 柱。關於病患現在血壓狀況,下列何者是最適當的診斷? - (A) 過敏性休克 (anaphylactic shock) - (B) 失血性休克 (hypovolemic shock) - (C) 神經性休克 (neurogenic shock) - (D) 心因性休克 (cardiogenic shock) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -76,7 +79,6 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - 安非他命主要是促進神經分泌 catecholamine 類神經傳導物質,特別是 norepinephrine 與 dopamine $\circ$ Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - (A) 40. 有關安非他命(amphetamines)藥理機轉,乃在於刺激神經間隙 102(一)專 前之末端(presynaptic terminals)分泌下列何種神經傳導介質? 醫四 -75 - (A) 多巴胺(dopamine)及正腎上腺素(norepinephrine) - (B) 血清素 (serotonin) - (C) 神經胜肽 -γ (neuropeptide-γ) - (D) 麩胺酸 (glutamate) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 4. 姿態性低血壓:主要是阻斷 $\alpha_1$ -adrenergic receptor,主要發生在 low potency 抗精神病藥物,特別是 chlorpromazine、thioridazine。當低血壓發生時,可以 IV 補充 fluid 或直接給予升壓劑 norepinephrine,使用 epinephrine 可能會使病人的低血壓更惡化 (因為 epinephrine 還會作用到 $\beta_2$ -receptor)。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- (C) serotonin norepinephrine reuptake inhibitors Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 
 ## Clinical Caveats
 

@@ -27,6 +27,7 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Asthma (氣喘)'
   - 'Asthma'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,11 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- 皮膚潮紅、拉肚子、氣管痙攣導致的氣喘及心臟病變等問題。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...s)的脈動增強 (D) 常合併肌肉疼痛 【詳解】Temporal arteritis 可以觸診顳動脈有 tenderness,可見突 起、較硬的顳動脈,但脈動卻是減弱的。 (B) 18. 一位罹患躁鬱症(bipolar disorder)和氣喘的病人,偏頭痛變得 105(一)專 越來越頻繁,目前一週會有兩三天的偏頭痛發作。醫師打算使用 醫四-49 預防性藥物治療來減少她的偏頭痛,下列何種藥物是最合適的 治療? (A) propranolol (B) divalproex (C) amitriptyline (D) lithium 【詳解】預防用藥的選擇:amitriptyline、propgranolol、flunarizine、 valproic acid、topirama Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - 【詳解】鬆弛訓練主要是藉由活化副交感神經,使身體放鬆達 到效果,biofeedback 可以用於:氣喘、心律不整、大小便失禁、 大發作癲癇、過動、本態性高血壓、姿態性低血壓、偏頭痛、 顳顎關節痛、雷諾氏症候群、緊張性頭痛、神經肌肉復健等。 故對於注意力不佳者沒有療效。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - 3. 異位性皮膚炎患者多具有「異位性體質」,也就是同時擁有過敏性鼻炎和氣喘,大 多有家族史。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -88,7 +91,6 @@ tags:
 - ...A) granulomatosis with polyangiitis—urticaria (B) microscopic polyangiitis—chronic sinusitis (C) Churg-Strauss syndrome—asthmatic attack (D) polyarteritis nodosa—severe migraine | 107(一)專醫三-37 | | (A) | 4. 下列的何種全身性血管炎會有氣喘病的發作? (A) Churg-Strauss syndrome (B) Goodpasture's syndrome (C) essential mixed cryoglobulinemia (D) drug-induced vasculitis Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - ...) 沉澱 | 外來的抗原:慢性活動性肝炎、血清病、亞瑟氏反應 | | IV | Th1 | 皮膚結核菌素試驗 (Skin tuberculin test)、接觸性皮膚炎 (Contact dermatitis) | | | Th2 | 慢性氣喘 (Chronic asthma)、慢性鼻炎 (Chronic allergic rhinitis) | | | CTL | 移植排斥 (Graft rejection) | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...無任何病史,最近因為 咳嗽、流鼻水而到附近診所求治、醫師表示可能為細菌感染需要吃 抗生素治療,發作前半小時才吃第一次藥。依此病人的臨床表現, 下列何種疾病最有可能? - (A) 急性氣管炎 (acute bronchitis) - (B) 氣喘發作 (asthma attack) - (C) 過敏性反應 (anaphylaxis) - (D) 急性冠心症候群 (acute coronary syndrome) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- (C) 5. 一位 28 歲女性因氣喘控制不良,長期服用口服類固醇,而產生體重增加及情緒失調,若繼續下去,也可能造成股骨頭缺血性壞死(avascular necrosis)。下列有關病情告知的敘述,何者最正確? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

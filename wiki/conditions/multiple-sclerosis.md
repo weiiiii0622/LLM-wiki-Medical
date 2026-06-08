@@ -9,6 +9,9 @@ sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch30]]"
 aliases:
   - 'Multiple sclerosis, MS (多發性硬化症)'
   - 'Multiple sclerosis, MS'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,17 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch30]]
 
 ## Key Details From Sources
 
+- 1. 僧帽瓣狹窄 (mitral stenosis, MS): - (1) 正常成人的僧帽瓣口徑約 4~6 cm²,當口徑變窄,使得左心房流向左心室之血流不順,血液滯留於左心房,且左心室舒張末期,左心房須作更大的功,才能將血液推進左心室。 - (2) 口徑小於 1.5 cm² (or 2 cm²) 為 moderate MS,口徑小於 1 cm² 為 severe MS。 - (3) 長久下來,左心房因壓力上升而擴大,壓力逆著血流方向回傳,導致肺靜脈壓 上升甚至肺動脈高壓。而右心室為了抵抗肺動 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (b) 瓣膜氣球導管擴張術(balloon mitral valvuloplasty):將導管放置入左心, 膨脹氣球擴張狹窄的瓣膜,對沒有鈣化且輕度或中度 MS 效果佳,禁用 於瓣膜腱索鈣化及 MR (mitral regurgitation)的患者。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- ...因,感染性心內膜炎、創傷、或先天性異常都 有可能。 - (3) 症狀:呼吸困難、端坐呼吸、肺水腫、肺高壓、atrial fibrillation。症狀嚴重度和 閉鎖不全程度相關,mild MR 患者幾乎不會有症狀, - (4) 處置方式和 MS 相同,可先藥物處理(利尿劑、ACEI),當藥物無法控制,症 狀持續嚴重、發展成肺動脈高壓、左心室功能惡化,則考慮手術修補。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- Neurogenic:動眼神經、交感神經或 CNS 受損所致,例如動脈流 血、腦膜炎、Horner's syndrome、糖尿病、多發性硬化症等。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - ...神經痛的敘述,下列何者錯誤? | 108(一)專 | |-----|-------------------------------------------------------------|---------| | | (A) 可能源自於多發性硬化症(multiple sclerosis) | 醫五 -13 | | | (B) 可能因良性或惡性腫瘤造成 | | | | (C) 最常發生原因是 superior cerebellar artery 壓到三叉神經之腦 | | | | 幹端 | | | | (D) 開腦手術將血管與神經墊開是第一線治療方式 | | | | 【詳解】第一線治療為藥物。 | | | (A) | 2. 藥物(如 carbamazepine、gabapentin Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - 5. 第五對腦神經:三叉(trigeminal)神經 - (1) 功能:感覺方面:臉部所有感覺;運動方面:咀嚼肌。 - (2) 三叉神經痛(trigeminal neuralgia): 陣發臉部尖銳疼痛,像是突然被電到; - a. 年輕人要考慮是多發性硬化症 (multiple sclerosis)。 - b. 年紀大的可能是上**小腦動脈(SCA)扭曲膨脹**,壓迫到一起走在腦幹底部的 三叉神經,造成三叉神經痛。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 【詳解】Pseudobulbar palsy 的特性就是會引起情緒失禁。它是 損傷於大腦皮質投射至腦幹之間的運動路徑,致口咽部器官的 運動失調,如咀嚼、吞嚥及舌頭等功能失調。除了腦中風外, 其他的中樞神經病變亦可導致此症候群,如:多發性硬化症、 ALS、腦瘤等。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].

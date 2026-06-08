@@ -27,6 +27,11 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch07]]"
 aliases:
   - 'Cardiogenic pulmonary edema (心因性肺水腫)'
   - 'Cardiogenic pulmonary edema'
@@ -41,7 +46,7 @@ tags:
 
 ## Summary
 
-心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +73,24 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch07]]
 
 ## Key Details From Sources
 
+- (4) 處置: 先維持 hemodynamic 穩定,使用 IABP 維持心臟血液穩定輸出,也避免 因 MR 而引發 pulmonary edema 甚至 heart failure,然後緊急手術修補。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (C) 3.68 歲男性因心肌梗塞來急診,呈現休克狀態並經插管緊急處置, 聽診時發現有一第四度收縮期雜音(Grade 4/6 systolic murmur), 目伴隨有肺水腫(pulmonary edema),經心導管攝影為左前降枝 (LAD) 90% 狹窄, 迴旋枝 (LCX) 有 85% 狹窄, 下列處置何 者錯誤? Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (D) 此情況為 ACC/AHA 準則之 Class I 之冠狀動脈繞道術適應症 【詳解】正確診斷應為急性心肌梗塞後導致大片心臟肌肉壞死、 心室中膈破裂,然後左心高壓血往右心流去產生第四度收縮期 雜音,併發肺高壓與肺水腫。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- ...瓣膜本身非因風濕熱而被感染。而是身體產生抗體對抗感染而和瓣膜交互作用發炎,最後導致結疤。) - (5) 症狀:此病變緩慢,風溼熱痊癒初期也都不太有症狀,通常至少十年過後才開始有症狀出現,會有疲倦、運動後呼吸困難、胸痛、心律不整,而後加重出現肺水腫及右心衰竭的症狀,如全身性靜脈鬱血、水腫、肝硬化、端坐呼吸、咳血等。另外血液滯留於心房形成血塊向外打出造成栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (d) 瓣膜置換手術 (mitral valve replacement): 若患者瓣膜嚴重狹窄、閉鎖,瓣膜和周圍組織嚴重鈣化,以及同時伴有嚴重 MR,則採用瓣膜置換手術,可選用機械性或生物性瓣膜。 - i. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎,且難以控制。 - ii. 生物性瓣膜: 血栓栓塞機率較低,抗凝血劑只需短期服用約3~6個月,但較無耐抗力,大約能使用10~20年,適用年紀較長者,因瓣膜失效時大約也已不久於世。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- ...得左心室收縮時,血流 反而流回左心房,造成左心房擴張。左心室代償而擴大及肥厚,久之代償失效, 導致左心衰竭。 - (2) 病因:主要也是風濕熱為主要原因,感染性心內膜炎、創傷、或先天性異常都 有可能。 - (3) 症狀:呼吸困難、端坐呼吸、肺水腫、肺高壓、atrial fibrillation。症狀嚴重度和 閉鎖不全程度相關,mild MR 患者幾乎不會有症狀, - (4) 處置方式和 MS 相同,可先藥物處理(利尿劑、ACEI),當藥物無法控制,症 狀持續嚴重、發展成肺動脈高壓、左心室功能惡化,則考慮手術修補。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- a. 心上型(supracardiac):下圖 A,肺靜脈經由垂直靜脈(vertical vein)到無名靜脈(left innominate vein, LI),再回到上腔靜脈,流進右心房。而垂直靜脈容易塞住,引發肺水腫和肺高壓。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- c. 心下型 (infracardiac): 下圖 C,四條肺靜脈經由一條 inferior connecting vein 往下流經橫膈膜,與 portal vein system 結合再回到右心。此種類型在 inferior connecting vein 這段很容易塞住,造成立即的肺水腫,肺高壓。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- (3) 嬰兒不會有發紺的情形,如果動脈導管很小,不太有症狀,假使動脈導管很大,會發育不好、呼吸困難,主動脈流往肺動脈的壓力大(left to right shunt),造成肺高壓和肺水腫。長期下造成肺部的血管發炎硬化以及血管阻力變大,右心為了抵抗肺部的高壓將血打往肺部,久之右心 remodeling 力量增強變為 right to left shunt,最終導致心衰竭和肺衰竭,這一連串變化叫做 Eisenmenger's syndrome。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- 3. 由於主動脈剝離侵犯到其他血管或是假腔壓迫真腔影響血流而引發器官灌流不足症狀(malperfusion syndrome): - (1) 冠狀動脈:缺血性心臟病。 - (2) 主動脈瓣:急性心衰竭。 - (3) 兩側頸動脈:腦中風。 - (4) 脊椎動脈:下半身麻痺 (paraplegia)。 - (5) 腎動脈:急性腎衰竭, oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-related acute lung injury, TRALI): 輸血後 6 小時內發生, 臨床症狀有急性呼吸困難、非心因性肺水腫、血壓降低及體溫升高。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 5. 臨床表現:一般而言與連接的位置、管腔有無阻塞有關。臨床症狀有不同程度的發 紺、呼吸急促(severe tachypnea)、生長遲緩、呼吸窘迫、肺水腫。血管阻塞越嚴 重則症狀越早出現,預後也越差。如果沒有治療,大多數病人一歲前死亡。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -79,16 +99,6 @@ tags:
 - 5. 腸病毒重症: - (1) 好發於小於五歲的幼兒,好發時機是發病三到七日內。常以腦幹腦炎、心臟衰竭、肺水腫與肺出血表現,最後造成病童死亡。 - (2) 三大重症前兆: - a. 持續昏睡。 - b. 持續嘔吐。 - c. 肌躍型抽搐 (myoclonic jerk)。 - (3) 症狀: - a. 交感神經症狀:休克之前常見交感神經症狀,包括血壓上升,心跳過快,冒冷汗,顫抖。 - b. 神經系統症狀: 意識改變、肢體麻痺、眼球震顫、運動失調。 - c. 心肺系統症狀:呼吸急促、皮膚冰冷、發紺。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】死亡病例多因肺水腫、肺出血造成心衰竭而死亡,病毒性心肌炎反而少見。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...瘍末期而簽署了安寧緩和醫療意願 105( ) 專 書,希望病危的時候可以放棄急救。3天前,陳老先生出現發燒、 頻尿的情況,而被送往醫院救治,經過醫師的診察確認陳老先生為 尿路感染合併敗血症,陳老先生於住院中因為血壓不穩,經過輸液 治療而導致肺水腫,醫師建議進行氣管插管併用呼吸器治療,以緩 解其肺水腫。此時是否應同意陳老先生接受插管? - (A) 反對,因為陳老先生已經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反對,因為陳老先生為胰臟癌末期,不要再進行過於侵入性的 治療,免得增加其痛苦 - (C) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但本次住院的原因為泌尿道感染合併敗血症,並非不可 治癒的疾病,醫師應該為其插管治療 - (D) Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...CD) 2.8 | 急性腎衰竭 (acute renal | failure) 最主要的死因是那一項? | 97(一)專 | | (11000) 20 | (A) 出血 | (B) 感染 | 醫三-2 | | | (C) 昏迷 | (D) 肺水腫 | | | (D) 29 | . 下列那個尿液診斷指標業 | 対於鑑別診斷 prerenal 或 intrinsic renal 之急 | 97(一)專 | | (-) | 性腎衰竭最有用? | | 醫三-7 | | | (A) urine sodium concentra | ation | | | | (B) urine creatinine to plas | sma creatinine ratio tion | | | | Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- 1) acute pulmonary edema 2) severe hyperkalemia 3) uremic pericarditis Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (A) 肺水腫 (lung edema) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (C) 肺水腫 (pulmonary edema) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (1) 若發現 $PaCO_2$ 太低,表示病患呼吸太快(Hyperventilation),有可能是低血氧、酸中毒、疼痛或焦慮等原因刺激呼吸中樞造成的。一方面可以看看胸部 X 光,是否有肺炎、肺水腫等造成低血氧;一方面考慮病人是否因感染導致敗血症或其他原因造成酸中毒,病患用喘來 wash out $CO_2$ 以維持酸鹼平衡。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...38$ ,所以合併呼吸酸。 - (3) 第三步:AG = 20 →陰離子間隙代謝酸; $\Delta$ AG(10) = 1~2× $\Delta$ [HCO₃](6) →單純的 高陰離子間隙代謝酸。 - (4) 臨床狀況:常見於嚴重肺炎、肺水腫的病人,因為末梢循環差導致乳酸中毒的高陰 離子間隙代謝酸,加上肺部問題,因而代償不完全,合併呼吸酸。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...rin 可用來治療 HFRS。 - (3) 漢他病毒肺症候群(Hantavirus pulmonary syndrome, HPS) - a. 一開始是發燒,4~5 天後病人會出現咳嗽、呼吸困難等呼吸道症狀,乃因肺部血管通透性劇烈增加,導致肺水腫、休克。 - b. 目前缺乏臨床實驗證實 ribavirin 可用來治療 HPS。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- ...述者: (一)原本健康的人於住院 72 小時內演變成呼吸困難,需藉助呼吸器供給氧氣,發燒高於 38.3℃,兩側肺部瀰漫性水腫,X光片顯示類似急性呼吸窘迫症候群。或 (二)不明原因呼吸性疾病致死,經屍體解剖發現非已知潛在性疾病所引起的非心源性肺水腫者。 二、前項旅遊史或暴露史未知或不明,或無典型之臨床症狀,而相關檢體經實驗室檢驗符合下列任一條件者: (一)血清學抗體檢驗陽性(IgM 抗體陽性或採血間隔恰當之成對血清檢體的 IgG 抗體效價上升≥ 4 倍者)。 (二)臨床檢體 PCR 檢測陽性。 (三)組織切片免疫化學染色陽性。 三、雖未符合前二項條件,但經醫師或法醫師高度懷疑者。漢他病毒出血熱通報定義符合下列三項通報條件之一者: 一、有相關流行地區旅遊史、動物排泄物或分泌物等致病 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...tion, STEMI)的敘述,何者錯誤? 醫三-19 (A) 病態生理學為血管內粥狀硬化斑瑰破裂,產生急性血栓將血管 完全阻塞 (B) 心肌肌鈣蛋白 (cardiac troponin) 升高,通常可持續一週 (C) 通常到院前死亡是因為急性心衰竭 (D) 下壁心肌梗塞 (inferior wall myocardial infarction) 病患例行要 做右前胸壁心電圖 【詳解】應是致命性心律不整 VT or Vf。 (D) 9. 下列何種藥物不可使用於 non-ST elevation myocardial infarction 或不 106(一)專 醫三-22 穩定心絞痛患者? (A) aspirin (B) low-molecular-weight heparin Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (D) 在年老的病人身上,ST 節段上升型心肌梗塞可能表現為突發性 呼吸困難,且可能進一步導致肺水腫 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

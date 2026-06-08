@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book2-ch14]]"
 aliases:
   - 'Upper endoscopy, EGD (上消化道內視鏡)'
   - 'Upper endoscopy, EGD'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med3-book4-ch27]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book2-ch14]]
 
 ## Key Details From Sources
 
+- ...risk: 7% (stricture site) | | | | 腸外症狀 | 關節炎、虹膜炎、壞疽性膿皮、硬化性膽管炎 | 關節炎、虹膜炎、肛裂、肛門瘻管、肛圍膿瘍、膽結石、腎結石 | | | | 診斷 contrast X-ray、endoscopy、biopsy | | endoscopy \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Less effective | | | | Steroids | 用於 Severe exacerbations Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - ...sophagogramBronchoscopy † | Surgery | | Esophageal stenosis | Infants to adults | DysphagiaFood impaction | EsophagogramEndoscopy † | DilationSurgery | Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...AngiographyMRI/CT/EUS | DietarymodificationSurgery § | | Esophageal ring | Children to adults | Dysphagia | EsophagogramEndoscopy † | DilationEndoscopicincision | | Esophageal web | Children to adults | Dysphagia | EsophagogramEndoscopy † | Bougienage | Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (C) 5. 一位 57 歲男性在 40 歲時曾經做過一次健康檢查,當時血液相是正 常的。15年前因胃潰瘍穿孔接受了三分之二的胃切除手術,其他無 特殊病史。最近因為容易疲倦,接受血液檢查,發現血紅素為8.7 gm/dL, MCV 71 fL, 白血球 3,650/μL, 分類正常, 血小板 395,000/μL。 大便潛血反應為陰性,胃鏡檢查無潰瘍或腫瘤。此病人最可能的診斷 為何? Source: [[sources/med3-book4-ch10|甲、貧血]].

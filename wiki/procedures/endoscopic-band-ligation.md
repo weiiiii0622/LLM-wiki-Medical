@@ -7,6 +7,10 @@ sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch13]]"
+  - "[[sources/med5-book2-ch17]]"
+  - "[[sources/med5-book2-ch25]]"
 aliases:
   - 'Endoscopic band ligation (內視鏡靜脈曲張結紮)'
   - 'Endoscopic band ligation'
@@ -21,16 +25,25 @@ tags:
 
 ## Summary
 
-食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book2-ch01]]
 - [[sources/med5-book1-ch14]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch13]]
+- [[sources/med5-book2-ch17]]
+- [[sources/med5-book2-ch25]]
 
 ## Key Details From Sources
 
+- (1) Open repair: - a. 心肌梗塞最常見。 - b. 腎衰竭:第二常見。 - c. 肺炎。 - d. Ischemia colitis: 術中 improper ligation of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- ...sacral, inferiormesenteric, hypogastric, accessory renal arteries | Observation Coil embolization or glue Laparoscopic ligation Open conversion | | Type III | Fabric disruption or tearModule disconnection | Placement of additional stents or cuffs Secondary endograft Open conversion | | Type IV | • Flow from fabric porosity | Observation | Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- 1. 常見原因: - (1) 動靜脈血栓。 - (2) 最常見為 SMA embolis。 - (3) 醫源性: 腹主動脈瘤手術時將下腸繋膜動脈 ligation 後造成 left & sigmoid colon ischemia。 - (4) 血管炎: polyarteritis nodosa。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
+- b. 常復發的二度和三度:橡皮圈結紮 (elastic ligation),需結紮於 dentate line 1~2 公分以上以避免造成疼痛和感染,每兩週結紮一象限,約 7~10 天可脫落。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
+- 1. 內在/局部因素:氧合作用及灌流不良、感染、異物、血腫、放射治療等都會使傷口的癒合變差,另外手術中適當的止血,減少不必要的電燒和 ligation,以及密閉性引流皆有助於傷口癒合。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (D) 11. 下列何者不是內頸動脈結紮(Internal carotid artery ligation)的禁忌症(contraindication)? - (A) 嚴重低血容症 (Severe hypovolemia) - (B) 最近有蜘蛛膜下腔出血(Evidence of recent SAH) - (C) 腦血管攝影有腦血管痙攣跡象 (Evidence of cerebral vasospasm on the arteriogram) - (D) 頸動脈顳骨岩部之創傷性動脈瘤剝離(Traumatic dissecting aneurysm of the petrous carotid artery) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 【詳解】(A)(B)(C) 為內頸動脈結紮的禁忌症,ligation 會加重腦部 circulation 不足的問題。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].

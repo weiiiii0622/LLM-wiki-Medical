@@ -38,6 +38,8 @@ sources:
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Abnormal liver function tests (肝功能異常)'
   - 'Abnormal liver function tests'
@@ -52,7 +54,7 @@ tags:
 
 ## Summary
 
-肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +92,14 @@ tags:
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book2-ch21]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- (1) 血液中 Ca ↑、PTH ↑、ALP ↑、P ↓、Cl ↑ (PTH 促 HCO₃ 排出導致 hyperchloremic metabolic acidosis)、Cl: P > 33:1。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...醫五-59 (A) 鈣離子 (calcium ion) 濃度 (B) 磷酸根離子 (phosphate ion) 濃度 (C) 鎂離子 (magnesium ion) 濃度 (D) 鹼性磷酸酶 (alkaline phosphatase, ALP) 濃度 【詳解】副甲狀腺術後低血鈣多為暫時性,但也有少數病患因 骨骼飢餓症候群(Hungry bone syndrome)造成永久性低血鈣, 其風險因子為術前嚴重骨病變、術前血中尿素氮濃度較高、術 前血中鹼性磷酸酶濃度較高或病患年紀較大。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...腹外核最後再傳回大腦皮質 | | 豆核 *- 手足徐動症 (Athetosis) | | | | - 不自主手足慢速扭曲 ( 小關節 ) | | | | 豆核 *- 威爾森氏症 (Wilson's dz.) | | | | - 不自主運動+肝功能異常 | | | 京に野女 (C-bth alamas may) | 芭蕾舞症 (Ballism) | | | 底丘腦核 (Subthalamus nu.) | -不自主四肢近端大規模投擲、跳躍(大關節) | | DZ 657-1-104 456 五百4-4-11-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1- | 阿桥 (C-1-44 | 巴金森氏症 (Parkinsonism) | | 黑質有路徑到紋狀體調節 | 黑質 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 5. 肝功能異常: Quetiapine (6%)、olanzapine (2%)、clozapine 最常見。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
@@ -108,9 +115,6 @@ tags:
 - 【詳解】幹細胞移植後第 45 天出現全身性紅疹、腹瀉、肝臟功 能檢查有異常(AST、ALT、total bilirubin升高),但沒出現感 染相關症狀,故可知為(A)。當症狀持續或是出現時超過3個月 則定義為 chronic GVHD。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 1. 特色:急性發作的嬰兒,同時有下列四點之一時,需謹慎考慮: - (1) 餵食情況不佳。 - (2) 昏迷、嗜睡。 - (3) 代謝性酸血症。 - (4) 肝功能異常或肝腫大。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (C) 12. 一位 3 歲女童因嘔吐、意識不清與抽搐等急性腦病變(acute encephalopathy)的症狀送到急診室,檢查發現有代謝性酸血症(metabolic acidosis)合併低血糖、肝功能異常及血氨數值偏高(大約正常最高值三倍),她的服藥病史不明,下列疾病或狀態何者最不可能? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (1) 多肌炎 (Polymyositis, PM): 4 個都符合。 - a. 近端肌肉無力 (Proximal muscle weakness)。 - b. 肌肉酵素如 AST, ALT, aldolase, LDH and **CK** 值上升(Elevated serum creatine kinase level)。 - c. **肌電圖**表現肌肉病變(short-duration, polyphasic motor unit potentials with spontaneous fibrillation potentials)。 - d. 病理切片符合發炎性肌炎 (inflammatory infiltration or active regeneration may be seen)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (A) 5. 一位 42 歲女性最近二週覺得起床相當困難,必須以兩手支撐才能爬起。另外,前額、手背及指間關節的皮膚有紅斑出現(如附圖)。右肩膀的肌肉也無力,無法上舉。有時會發燒達 38.5℃左右。抽血發現 ANA 1: 160X speckled pattern, AST 37 U/L, ALT 86 U/L, CK 2,784 U/L。下列何者為最可能的診斷? Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (A) 7. 一位 54 歲的女性,早晨起床困難有三週之久,身體檢查發現除兩腿無力之外,右臂上舉也有困難。但是兩手的握力正常。吞嚥時偶會 嗆到。實驗室檢查發現 AST 75 U/L, ALT 14 U/L, ANA 1:80(+) speckled, CK 805 U/L (MB form 635 μg/L), IgG 1,720 mg/ml, IgA 354 mg/ml, IgM 213 mg/ml, ESR 34 mm/lh, 78 mm/2h, CRP 0.76 mg/ml。這位患者最可能的診斷是: Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

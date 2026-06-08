@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med5-book2-ch04]]"
 aliases:
   - 'Wolff-Parkinson-White syndrome (WPW 症候群)'
   - 'Wolff-Parkinson-White syndrome'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-副傳導路造成 pre-excitation，合併 AF 時治療需特別注意。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+副傳導路造成 pre-excitation，合併 AF 時治療需特別注意。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med5-book2-ch04]]
 
 ## Key Details From Sources
 
+- (3) 最常伴隨 ASD,另外約有 1/3 的病患有 WPW syndrome,是發生 supraventricular tachycardia 的高風險族群。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (2) 心電圖:通常會表現 **RBBB**,可能出現高且寬的 P 波、prolonged PR interval。 此外,約 **20%** 的病人有 **Wolff-Parkinson-White syndrome**。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (C) 8. 下列何種疾病最不常合併有 accessory pathway,也較少引致心室 106( ) 專 上心搏過速(supraventricular tachycardia)? 醫四 -31 (A) 愛伯斯坦氏異常(Ebstein anomaly) (B) 兩側右心房症(right atrial isomerism) (C) 法洛氏四重症(tetrology of Fallot) - (D) Wolff-Parkinson-White 症候群(WPW syndrome) 【詳解】Ebstein anomaly 常合併 WPW syndrome,衝動 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】Ebstein anomaly 常合併 WPW syndrome,衝動經 accessary pathway 下傳,造成不正常心室提早收縮,也常有 PSVT 發生。兩側右心症因兩個心房都是右心房,因此有兩個節律點發出訊號、兩個傳導路徑,因此造成心室不正常收縮產生心室上心搏過速。法洛氏四重症主要問題在心臟解剖構造出問題,但傳導路徑無太大問題(無 accessary pathway),因此不太會引發心室上心搏過速。但是需注意的是法洛氏四重症在手術矯正後因為心臟有被打開修補,組織癒合產生的瘢痕會出現傳導問題,病人須注意 AV block 或是 VT。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

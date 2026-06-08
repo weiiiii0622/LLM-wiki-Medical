@@ -20,6 +20,8 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch25]]"
 aliases:
   - 'Cytokine signaling (細胞激素訊號)'
   - 'Cytokine signaling'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,13 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch25]]
 
 ## Key Details From Sources
 
+- 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- Inflammation phase (發炎期):一受傷即同時開始發炎期,微血管通透性增加,白血球被 complement、TGF-β、IL-1、IgG、PDGF等吸引過來(趨化 chemotaxis)進行吞噬作用 (phagocytosis)。先以 neutrophil 為主,接著以 monocytes (受傷後第24至第48小時)和 macrophage (第48至第72小時)主導,lymphocyte 較晚點(第72小時以後)參與作用,此時期以 neutrophil、monocyte和 macrophage 為主要細胞。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - ...染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 1. Prednisolone: 具有抗發炎和免疫抑制的作用,抑制 macrophage,降低 IL-1,2,6 和 TNF 的分泌。副作用有水牛肩、月亮臉、骨質疏鬆、肌肉無力、高血壓、高血糖、感染、消化道潰瘍,少數人會白內障或青光眼。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -73,8 +79,6 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - ...| 5 | Med-large joints = elbows, shoulders, hips,knees, ankles. | | Serology | RF & ACPA | 0 | Low- ⊕ serology ceptor,與 Cytokine 結合,抑制其作用,如 Etanercept - b. -mab:此藥物為單株抗體(Monoclonal Ab),與 Cytokine 結合,抑制其作用; - (a) -ximab:為 Chimeric 單株抗體,含 25% Mouse protein,如 Rituximab - (b) -zumab: 為 Humanized 單株抗體,含 5~10% Mouse protein,如 Tocilizumab - (c) -umab:為 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (2) TNF: Etanercept (Enbrel® 恩博)、Adalimumab (Humira® 復邁)、Golimumab (Symponi® 欣普尼)、Certolizumab (Cimzia® 欣膝亞): - a. 與 $TNF-\alpha$ 結合,抑制其引發的發炎反應,但此藥最大的擔憂即是結核菌的復發或感染;因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則無法被活化,便較無法攻擊細胞內的病原體。另外也可能造成 HBV reactivation。 - b. 可能增加 Lymphoma 的發生、造成 ANA、anti-DNA 自體抗體的產生,還可能造成乾癬及中樞神經去髓鞘疾病。(Harrison 2090) Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (2) 病因:因數種 Cytokine (TNF, IL1, IFN $\gamma$ ) 抑制鐵的應用,因此僅靠輸血不能根治,需治療其慢性疾病。 Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...------------------------------------| | | 1 | MHC | 用於呈現抗原給T細胞 | | APC | 2 | B7 | 可與 T 細胞的 CD28 結合,將 T 細胞完全活化 | | | 3 | Cytokines | IL12 可促進 Th0 往 Th1 分化,IL4 往 Th2 分化 | | | | TCD/CD2 | TCR 負責抗原與 MHC 認知,若辨識吻合,則 CD3 負責將訊息傳遞到 | | | | TCR/CD3 | 細胞內部 (Signal transduction),此為活化 T 細胞的第一活化訊息。 | | | 1 | 複合物 | (注:TCR=T cell receptor,Th=Helper T cell,Tc=Cyt Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 
 ## Clinical Caveats
 

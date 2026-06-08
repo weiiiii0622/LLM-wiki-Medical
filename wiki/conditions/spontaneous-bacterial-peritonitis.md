@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book2-ch01]]"
 aliases:
   - 'Spontaneous bacterial peritonitis, SBP (自發性細菌性腹膜炎)'
   - 'Spontaneous bacterial peritonitis, SBP'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book2-ch01]]
 
 ## Key Details From Sources
 
+- ...的臨床表現有 Beck's triad: JVP 上升、hypotension,distant heart sounds (隔了一層積液,心音聽起來低沉,好像很遠的感覺)。 - c. 其他表現有 pulsus paradoxus (吸氣時 SBP 下降超過 10 mmHg 或者 9%),以及 Kussmaul's sign (吸氣時 jugular venous pressure 上升)。 - d. 若是近端主動脈剝離,血液破出 adventitia,併發心包膜填塞,死亡率極高。 因為通常是急性產生,容易快速發展到阻塞性休克,造成心跳停止。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...l bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在前 6 小時內達到以下目標。 - a. CVP 維持在 $8\sim12~\text{mmHg}$ : 給予晶體或膠體溶液(目前多建議晶體溶液),每半小時 $500\sim1,000~\text{mL}$ ,以達到目標,假使 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...| | sure)下降 | | | | | (C) 出血程度是以理想體重 | 百分比計算之 | | | | (D) 小兒血量之計算標準是 | 每公斤 80 mL 到 90 mL | | | | 【詳解】pulse pressure 為 | SBP 減 DBP,神經性、敗血性和過 | | | | 敏性休克病人因為血管的: | sympathetic tone 下降,周邊血管阻力 | | | | (SVR)降低,所以脈搏壓 | 医會增加。 | | | (A) | 29. 系統發炎反應症候群(syst | emic inflammatory response syndrome) | 100(一)專 | | | 的定義包括下列那幾項? | | 醫五 -60 | | | ①體溫 12,0 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 1. 處理原則: - (1) 檢查呼吸道有無暢誦,GCS ≤ 8的話緊急插管。 - (2) 檢查血氧濃度,不夠的話給予呼吸器。 - (3) 檢查脈搏和血壓,維持 SBP > 90 mmHg。 - (4) 評估胸部和腹部是否也有受傷(PE、影像檢查)。 - (5) 評估意識狀態及局部神經學症狀,考慮脊髓是否受傷(頭顱脊髓 X 光、CT)。 - (6) 最後才檢查肢體有無撕裂或骨折(X光)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].

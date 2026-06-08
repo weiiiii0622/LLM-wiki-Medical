@@ -16,6 +16,8 @@ sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch22]]"
 aliases:
   - 'Hypokalemia (低血鉀)'
   - 'Hypokalemia'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,15 @@ tags:
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch22]]
 
 ## Key Details From Sources
 
+- 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- (2) 低血鉀、低氫離子=>代謝性鹼中毒。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- (D) 如果原發性高醛固酮症的患者手術前有合併低血鉀症,腎上腺切除手術後血鉀會很快恢復正常 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 3. 症狀:腹瀉 (fasting stool output > 1 L/day )、低血鉀、胃酸低、高血糖、高血鈣、潮紅。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 2. 鉀:正常血鉀濃度為 3.5~5.0 mEq/L。 - (1) 低血鉀 (hypokalemia): 症狀有噁心嘔吐、肌肉無力、ileus、橫紋肌溶解和多尿; 心電圖變化有 T 波變平坦、出現 U 波、ST segment 下降、APC/VPC。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - a. Transcellular shift: 鹼中毒、insulin、beta agonist、週期性的低血鉀,使得鉀離子從細胞外往細胞內移動,造成血液中血鉀降低。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - e. 低血鉀病人要注意是否有低血鎂,補鉀前要先補鎂。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -63,10 +71,6 @@ tags:
 - 臨床表現:與第二型腎小管酸中毒相同有生長遲滯、正常陰離子間隙代謝性酸中毒。 此外,病人也會表現嘔吐、脫水、骨頭疾病、腎臟鈣化合併高尿鈣與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】病人血液 pH 值為 7.56,故 (A)(D) 先可以刪除。病人 血液低血鉀但血氯正常,因此 Bartter syndrome 不選(Bartter syndrome 病人血液出現低血鉀、低血氯、高血鈣、正常鎂離子 濃度、以及代謝性鹼中毒,尿液檢查出現高尿鈣與尿肌酸酐比 值)。故選(B)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (a) 低血鉀週期性麻痺(Hypokalemia periodic paralysis, HPP): 先天的鈣離子通 道異常,藉由未明的機制導致陣發性的鉀 shift 入細胞,造成四肢無力,但較 少造成呼吸肌無力。和前者不同的是,這類病患常有家族史、常於 20 歲前 就發病。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- | | 公式 | 記法 | 意義 | |------|--------------------------------------------------------|------------------------|----------------------------------------------------------------| | TTKG | $(U_{\rm K}/U_{\rm osm})$$(P_{\rm K}/P_{\rm osm})$ | 尿鉀占血鉀的比例再各以 OSM 校正 | 低血鉀中TTKG > 7 表鉀由腎臟漏出TTKG $(P_{Na}/P_{Cr})$ | 尿鈉占血鈉的比例再各以 Cr 校正 | 腎衰竭中FENa FENa > 1 表示鈉由腎臟漏出→內因性腎臟衰竭 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...---------|--------------------------------| | 鈉離子 | 135 to 155 | 132 | HD 選擇較高鈉→不易低血壓 | | 鉀離子 | 0 to 4 | 0 | PD 較 HD 易造成低血鉀 | | 鈣離子 | 2.5-3.5 mEq/L | | 一般用 2.5, 血鈣低者可選 3.5 | | 葡萄糖 | 0 to 0.20 | 1.5, 2.5, 4.25 | PD 的葡萄糖濃度高愈能脱水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35-40 | 維持 pH 65~70% 為佳。 Source: [[sources/med3-book3-ch06|己、透析治療]].
-- ...---------|--------------------------------| | 鈉離子 | 135 to 155 | 132 | HD 選擇較高鈉→不易低血壓 | | 鉀離子 | 0 to 4 | 0 | PD 較 HD 易造成低血鉀 | | 鈣離子 | 2.5~3.5 mEq/ | L | 一般用 2.5, 血鈣低者可選 3.5 | | 葡萄糖 | 0 to 0.20 | 1.5, 2.5, 4.0, 25 | PD 的葡萄糖濃度高愈能脫水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35~40 | 維持 pH = 5.2~5.6 → 不易感染 | Source: [[sources/med3-book3-ch06|己、透析治療]].
 
 ## Clinical Caveats
 
@@ -77,6 +81,7 @@ tags:
 
 - [[conditions/hypokalemic-periodic-paralysis|Hypokalemic periodic paralysis (低血鉀週期性麻痺)]]
 - [[conditions/postoperative-ileus|Postoperative ileus (術後腸麻痺)]]
+- [[conditions/vipoma|VIPoma (血管活性腸胜肽瘤)]]
 
 ## Follow-up
 

@@ -19,6 +19,8 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Hypocalcemia (低血鈣)'
   - 'Hypocalcemia'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,16 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- #### 2. Transient hypocalcemia: Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- (1) 術中傷及副甲狀腺而引起暫時性低血鈣,通常發生在術後 24~48 小時。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 2. 次發性 (Secondary HPT): Ca ↓ => PTH ↑ - (1) 慢性腎衰竭,腎排磷受阻造成高血磷,使得鈣磷沉積,造成低血鈣;vitamin D 缺乏影響到腸子以及腎臟對鈣的再吸收,低血鈣接著引起 PTH 的分泌。次發性 HPT 也見於骨軟化症(Osteomalacia)及小腸吸收不良(Intestinal malabsorption)。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- 【詳解】題目中 iPTH 高過正常值,血鈣則是接近正常範圍的上界。次發性 HPT 為低血鈣所引起,再次發性 HPT 則是次發性 HPT 的延伸,故不合題幹所述。由於患者曾經接受副甲狀腺切除後,抽血數值恢復正常,因此選 (D) 為合適。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- ...idism (C) Tertiary hyperparathyroidism (D) Parathyroid carcinoma (D) 14. 承上題,患者接受副甲狀腺切除手術。下列術前抽血檢查項目 99(二)專 中,何者最能預測術後併發低血鈣血症? 醫五-59 (A) 鈣離子 (calcium ion) 濃度 (B) 磷酸根離子 (phosphate ion) 濃度 (C) 鎂離子 (magnesium ion) 濃度 (D) 鹼性磷酸酶 (alkaline phosphatase, ALP) 濃度 【詳解】副甲狀腺術後低血鈣多為暫時性,但也有少數病患因 骨骼飢餓症候群(Hungry bone syndrome)造成永久性低血鈣, 其風險因子為術前嚴重骨病變、術前血中尿素氮 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - 3. 鈣: 血鈣正常濃度為 8~10 mg/dL。 - (1) 低血鈣 (hypocalcemia): - a. 症狀:疲倦、肌肉無力、強直性痙攣(tetany)、prolonged QT 和 ST;Chvostek sign:手指輕敲耳前的顏面神經分支會引起同側肌肉抽動;Trousseau sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (C) 休克病人治療復甦後會有急性低鈣血症(hypocalcemia)的 情形 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -68,11 +77,6 @@ tags:
 - ...;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 檢驗 Ca、P、Mg、腎功能(要排除腎功能低下造成低血鈣)、Albumin(白蛋白 過低會造成假性低血鈣,故判斷鈣離子是否正常須同時檢驗白蛋白做矯正)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (1) 當低血鈣引發抽搐時,使用 10% calcium gluconate 以 0.5~1 mL/min 速率滴注,同時監測心臟;快速輸注 calcium gluconate 時可能出現 bradycardia 或 arrhythmia。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 3. 臨床表現:病人會出現因低血鈣而有痙攣現象。此外,其它表現有 muscle weakness、hypotonia、delayed motor development、poor feeding、irritability、craniotabes(頭骨軟化變薄造成壓下去會凹陷再自動彈起,一般在枕骨及頂骨)、手腕變寬(widening of wrists)、弓形腿(bowed legs)、胸廓肋軟骨變大(即佝僂症珠串 rachitic rosary)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (3) 內分泌: 副甲狀腺低下造成低血鈣,有時亦有甲狀腺低下的情形。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (A) 1. 一位 4 個月大,體重 4 公斤的男嬰,因為反覆抽搐(seizure)及 104( ) 專 低血鈣症,住進醫院的加護病房。自從出生後,他就常拉肚子, 醫四 -26 並有反覆且難以治癒的念珠菌(Candida)感染。身體診察發現左 胸骨下緣有第三度心雜音,您認為最可能的診斷為何? - (A) DiGeorge syndrome - (B) Wiskott-Aldrich syndrome - (C) X-linked agammaglobulinemia - (D) common variable immunodeficiency Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- 【詳解】反覆念珠菌感染代表病人免疫能力低下,加上低血鈣 且有心雜音,臨床上最有可能就是 DiGeorge syndrome。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...: Cisplatin based chemotherapy 是肺癌的標準化療配方。 - (a) 須搭配適量 hydration 及適當利尿以避免腎臟毒性,但儘管各種預防措施,仍 常見病患腎功能慢慢變差。 - (b) 可能導致低血鎂、並伴隨低血鈣等電解質異常。還可能導致四肢未端麻木等神經毒性(glove-and-stocking neuropathy)、聽力受損等。 - (c) 強致吐劑,臨床上以 5-HT3 antagonists: Tropisetron (Navoban®)、Ondansetron (Onzod®),palonosetron (Aloxi) 預防。 - b. Carboplatin: 卵巢癌或肺癌病患腎功能不佳的病患會用 Carboplatin。 - (a Source: [[sources/med3-book4-ch19|乙、化學治療]].
 
 ## Clinical Caveats
 
@@ -81,7 +85,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/parathyroidectomy|Parathyroidectomy (副甲狀腺切除術)]]
+- [[procedures/thyroidectomy|Thyroidectomy (甲狀腺切除術)]]
 
 ## Follow-up
 

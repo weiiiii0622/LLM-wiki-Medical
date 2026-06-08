@@ -13,6 +13,12 @@ sources:
   - "[[sources/med5-book1-ch16]]"
   - "[[sources/med5-book1-ch15]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch06]]"
 aliases:
   - 'Cerebral aneurysm (腦動脈瘤)'
   - 'Cerebral aneurysm'
@@ -27,7 +33,7 @@ tags:
 
 ## Summary
 
-顱內動脈壁局部擴張，破裂可造成 SAH。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內動脈壁局部擴張，破裂可造成 SAH。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +46,25 @@ tags:
 - [[sources/med5-book1-ch16]]
 - [[sources/med5-book1-ch15]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch06]]
 
 ## Key Details From Sources
 
+- #### 乙、血管瘤 (Aneurysm) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- 動脈血管壁因局部病變而導致向外膨出,當膨大的血管直徑為正常血管的 1.5 倍大以上的話,即稱為動脈瘤(aneurysm)。如果直徑僅 $1\sim1.5$ 倍大以內,則稱為 ectasia。動脈瘤可發生於身體任何動脈部位,最常見於主動脈,其次依序為 iliac、popliteal 和 femoral artery。(本章節不包括腦動脈瘤的介紹) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (1) 真性動脈瘤(true aneurysm):內膜、中膜和外膜三層血管壁皆向外膨出。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- ...| Angina, reinfarction, infarct extension | | Mechanical | Heart failure, cardiogenic shock, mitral valve dysfunction, aneurysms, cardiac rupture | | Arrhythmic | Atrial or ventricular arrhythmias, sinus or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral embolization | | Inflammatory | Pericarditis | Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- ...osion of infarcted myocardium at the border between the infarcted and viable myocardium $\circ$ - c. Type III: an early aneurysm formation correlated with older and severely expanded infarcts • Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- #### 5. Ventricular aneurysm: Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (DTAA, descending thoracic aortic aneurysm; MRA, magnetic resonance angiography; TAAA, thoracoabdominal aortic aneurysm) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (全)11.38 歲男性,因駕轎車撞橋墩被送到急診室,到院後評估發現, 100(二)專血壓 100/70 mmHg,心跳 88 / 分,呼吸次數 20 / 分,頸靜脈 醫五-22 無怒張,無 cyanosis,呼吸音正常,胸部 X 光顯示縱膈變寬,以下何者是最可能的診斷? - (A) 心包填塞 (cardiac tamponade) - (B) 主動脈剝離 (aortic dissection) - (C) 主動脈瘤破裂 (ruptured aortic aneurysm) - (D) 心肌挫傷 (myocardial contusion) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (1) Absolute: - a. 嚴重的 AR, 在舒張期 aortic valve 關不緊,此時還將 balloon 充氣會使血液回流至左心室,造成左心室的 loading 太大。 - b. 病人有 aortic dissection 或 aneurysm 的時候,造成額外的壓力波動有可能讓 dissection 裂得更大,或使 aneurysm 破掉。 - c. 嚴重的 aorta-iliac artery 的鈣化,此種脆弱的血管容易有風險。 - d. 不適合心臟移植的慢性末期心衰竭患者(用了幫助不大)。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (C) 易形成血管瘤 (aneurysm formation) Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ## 戊、顱內動脈瘤 (Cerebral Aneurysm) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 2. 顱內大血管的動脈瘤型態多為囊狀(莓果狀),故稱作 saccular or berry aneurysm。 另一種梭狀(fusiform aneurysm)較常見在 vertebrobasilar system。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 3. 常見造成動脈瘤的因子如下: - (1) 先天血管壁異常 (medial gap)。 - (2) 動脈硬化。 - (3) 高血壓。 - (4) 感染 (mycotic aneurysm)、外傷等。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
@@ -51,13 +73,6 @@ tags:
 - B. Aneurysmal SAH 146 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - H. Aneurysmal SAH 的外科處置 149 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - ## B. Aneurysmal SAH: 顱內動脈瘤破裂引發的 SAH Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- (A) 年輕型中風, mycotic aneurysm 破裂引起 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
-- 【詳解】AVM 在血管攝影可見一團混亂的血管,電腦斷層出血 常為 ICH;aneurysm 在血管攝影為一血管小突起,電腦斷層出 血常為 SAH。 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
-- (C) 3.40 歲男性,自2個月前開始有漸進性的右側耳鳴,此耳鳴與脈搏 108(二)專 頻率相近,夜間會較大聲且影響其睡眠,並有右側耳後枕部頭 醫四-44 痛。最可能的診斷為何? - (A) 腦內動靜脈畸形 (arteriovenous malformation) - (B) 硬腦膜靜脈竇栓塞 (dural sinus thrombosis) - (C) 硬腦膜動靜脈瘻管 (dural arteriovenous fistula) - (D) 腦動脈瘤 (cerebral aneurysm) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- ...roke) 的分類 | ICH (15)出血性 (20)SAH (5) | HTN | 15%×50% | | | | | ICH (15) | Amyloid angiopathy | 15%×30% | | | | CATI(E) | Aneurysm | 5%×75% | | | | SAII (5) | AVM | 5%×5% | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (B) 35. 一位 65 歲男性,突發性頭暈、嘔吐、口齒不清且吞嚥困難。身 99( 二 ) 專 體檢查發現左側瞳孔較小且眼瞼下垂。請問最可能的病因是: 醫四 -58 - (A) 左側後交通動脈之動脈瘤破裂(posterior communicating artery aneurysm rupture) - (B) 左側後下小腦動脈阻塞 (posterior inferior cerebellar artery occlusion) - (C) 左側豆紋狀動脈阻塞(lenticulostriate artery occlusion) - (D) 左側中大腦動脈阻塞 (middle cerebral artery occlusion) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 3. 較大血管的出血(SAH)常因動脈瘤破裂導致,較小血管的出血(ICH)常因高血 壓造成的 Charcot-Bouchard's aneurysm 或腦類澱粉樣血管病變導致。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ischemic type) - (D) 海綿靜脈竇徵候群 (cavernous sinus syndrome) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 
 ## Clinical Caveats
 

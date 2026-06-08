@@ -27,6 +27,8 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Systemic lupus erythematosus, SLE (全身性紅斑狼瘡)'
   - 'Systemic lupus erythematosus, SLE'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,13 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- ...是否存活。 (C) 27. 在冠狀動脈繞道手術時,若同時使用兩側帶莖的內乳動脈(pedicle 99(二)專 internal thoracic artery),則在下列何種病人易引起胸部傷口之 醫五-15 感染? (A) 肥胖症 (B) 紅斑性狼瘡症 (C)糖尿病 (D)慢性腎衰竭 (A) 28. 冠狀動脈繞道手術時,所使用的導管(conduit)有許多種,長期 98(-)專 追蹤後,通暢率最佳的是: 醫五-47 (A) 內乳動脈 (B) 大隱靜脈 (C) 橈骨動脈 (radial artery) Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (3) 約有 25% 的機會出現其他的自體免疫疾病,如:惡性貧血、紅斑性狼瘡、類風 濕性關節炎、糖尿病等。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...escent t reponemalantibody abs orption | | 用 | 途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、治療後仍呈陽性 | | 偽 | 陽性 | IV drug use, SLE, Malaris, HIV inf, viral ill 等 | 正常人約 1~2% 偽陽性→試驗不用於篩檢,用於確認 | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (A) 全身性紅斑性狼瘡(systemic lupus erythematosus) Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -87,8 +93,6 @@ tags:
 - 1. Systemic lupus erythematosus nephritis\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - E. 紅斑性狼瘡引發的腎絲球腎炎 (Glomerulonephritis associated with systemic lupus erythematosus) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...臍帶較晚脱落 | 較常合併風濕 | | | GVHD; | 及 lymphoma, | (Leukocyte adhesion | 免疫疾病: | | | 打完疫苗後造成 | thymoma 機會較 | deficiency),傷口難 | SLE, vasculitis, | | | disseminated BCG | 高;接受活性小兒 | 以癒合 | dermatomyositis, | | | or varicella;嬰兒 | 麻痺疫苗後發生 | | scleroderma, | | | 時期低血鈣造成抽 | paralysis | | glomerulonephritis, | | | 筋(此為 DiGeorge | | | angioedema | | | synd Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- h. Immunologic disorder 免疫學異常: - (a) Anti-dsDNA 陽性或 - (b) Anti-Smith (Anti-Sm) 陽性或 - (c) Anti-phospholipid Antibodies 陽性: - i. Anticardiolipin antibodies 陽性或 - ii. Lupus anticoagulant 陽性或 - iii. False positive serology test for syphilis • Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- j. Malar rash 臉部兩頰紅斑,又稱蝴蝶斑。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

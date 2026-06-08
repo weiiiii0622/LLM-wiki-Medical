@@ -19,6 +19,10 @@ sources:
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book2-ch07]]"
 aliases:
   - 'Ischemic heart disease (缺血性心臟病)'
   - 'Ischemic heart disease'
@@ -33,7 +37,7 @@ tags:
 
 ## Summary
 
-心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +56,20 @@ tags:
 - [[sources/med3-book4-ch25]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch01]]
+- [[sources/med5-book2-ch02]]
+- [[sources/med5-book2-ch07]]
 
 ## Key Details From Sources
 
+- ### 丙、冠狀動脈疾病及冠狀動脈繞道手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- #### 丙、冠狀動脈疾病(Coronary artery disease, CAD)及冠狀動脈 繞道手術(Coronary artery bypass graft surgery, CABG) Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- (D) 10. 下列有關冠狀動脈疾病病人之處置,何者錯誤? Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- 3. 由於主動脈剝離侵犯到其他血管或是假腔壓迫真腔影響血流而引發器官灌流不足症狀(malperfusion syndrome): - (1) 冠狀動脈:缺血性心臟病。 - (2) 主動脈瓣:急性心衰竭。 - (3) 兩側頸動脈:腦中風。 - (4) 脊椎動脈:下半身麻痺 (paraplegia)。 - (5) 腎動脈:急性腎衰竭, oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac ta Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- (C) 發生急性主動脈剝離最常見的症狀為胸痛,非常類似冠狀動脈疾病的壓迫性胸痛,二者並不容易區別 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 2. 見下表,以 AAA 為例,年齡、活動度、心臟(CAD、AMI等)、肺功能(FEV1、COPD)、腎功能、AAA 的 type 及肝功能等都會影響到手術的 mortality,其中以心臟(CAD) 為最主要的手術危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- ...4. 現在出現一個 25 歲腦死的潛在性器官捐贈者,下列哪一個病患 | 98(二)專 | | | 需要心肺移植(heart-lung transplantation)? | 醫五-1 | | | (A) 末期肺氣腫 | | | | (B) 缺血性心臟病 | | | | (C) 原發性肺動脈高壓 | | | | (D) 原發性心肌症合併次發性肺動脈高壓 | | | (B) | 5. 在心臟移植手術時,若受贈者術前的肺動脈壓非常高,因而造成 | 94(二)專 | | | 術後死亡,最可能的死亡原因為: | 外一-22 | | | (A) 急性肺水腫 | | | | (B) 急性右心衰竭 | | | | (C) 急性排斥現象 | | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (C) 冠狀動脈疾病(coronary artery disease)、高血壓和年齡的增加是發生手術後心臟衰竭的危險因素 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - PS: LAP, Lymphadenopathy in head and neck area; BCG, reactivation of bacille Calmette-Guérin inoculation site; CAD, coronary artery dilation, defined by an internal diameter > 3 mm. Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (D) 15. 心堵鎮是一個冠狀動脈疾病盛行的社區, 林醫師努力推動社區居民 的戒菸運動。林醫師調查社區中有那些團體如婦女、兒童健康組織 等,能對戒菸者提供心理與社會支持。林醫師目前的工作,屬於 Lawrence W. Green 的 PRECEDE 模式中那一個步驟? Source: [[sources/med3-book4-ch25|乙、行為科學]].
@@ -66,12 +81,6 @@ tags:
 - 2. 缺血性心臟病分為兩大類,一類是慢性穩定型心絞痛(Chronic stable angina),一類是 急性冠心症(Acute coronary syndrome)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - ...度,第二個數字代表斜率。可見 V2~V5 運動後都有大於 1 mm 的下降,且斜率皆小於 -1,代表皆是下斜式下降。因此,此病患的 Treadmill exercise test 為陽性。 - c. 若是 ST 段上升,須高度懷疑有更嚴重的冠狀動脈疾病導致 Transmural ischemia;而 ST 段上斜式下降(Upsloping depression)則較無意義。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - 冠狀動脈疾病占心臟衰竭的50%病因,其他包括糖尿病、高血壓等。 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- ...------------------------|--------------------|--------------| | 124.26 | 有危險因子 | 左心收縮功能異常、 | 有心臟衰竭症狀 | 內科治療後, | | 定義 | (CAD, HTN, DM) | 心肌梗塞、瓣膜性心臟病 | | 仍有症狀 | | 治療 | 降低 Afterload | 減少心臟做功 降低 Preload | | | | | 衛教、 | β blocker(僅含 Carvedilol, | D: .: D: .: | > 0+4.10.1-b | | 藥物 | ACEI (if HTN) | Bisoprolol, Metoprolol) | Diuretics, Digoxin | 心臟 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- ...otensin-converting enzyme inhibitors (ACEI) | | | (D) aspirin | | | A) 19. 根據流行病學研究,產生心臟衰竭的最主要原因是: | 97(二)專 | | (A) 高血壓與冠狀動脈疾病 | 醫三-12 | | (B) 瓣膜性疾病與高血壓 | | | (C) 先天性心臟病與瓣膜性疾病 | | | (D) 先天性心臟病與冠狀動脈心臟病 | | | BC)20. 在病生理學的觀點上,下列何者對心衰竭的心搏出量影響最大? | 97(一)專 | | (A) 前負荷 (preload) | 醫三 -33 | | (B) 心收縮力(contractility) | | | (C) 後負荷 (after load) | | | (D Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- ...------|-------|----------------------| | Ic. Propafenone · Flecainide | 心臟結構正常, HTN | ↑ QRS | 心臟功能變差 | | III. Sotalol | CAD (normal EF) | ↑ QT | Torsades des pointes | | III. Amiodarone . Dofetilide | CHF (EF to drug tx. | Ablation of focal source of Af | | | | | Inappropriate sinus tachy., Automatic junctional tachy. | | | | | Idiopathic VT Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- ...r tachycardia, VT) - a. 病因: - (a) 併有結構性心臟病 (VT associated with structural heart disease): - i. 大部分的 VT 發生在有結構性心臟病的病患,尤其是缺血性心臟病。曾經梗塞的區域附近(Peri-infarct)或疤痕(Scar)容易形成 Reentry,導致monomorphic VT;缺血區域(Ischemic)常與 polymorphic VT、Vf 有關。 - ii. Cardiomyopathy、Arrhythmogenic right ventricular dysplasia(ARVD)等也 與心室心搏過速有關。 - (b) 無結構性心臟病 (VT in the absence of Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- 心臟內科方面,臨床上最重要、較危急的疾病莫非是冠狀動脈疾病、心肌梗塞,這部分年年必考,除了有大量考古題可供參考,更建議可以考古題為導向延伸 閱讀,對臨床、考試皆有幫助。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- CAD = Coronary artery disease Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 
 ## Clinical Caveats
 

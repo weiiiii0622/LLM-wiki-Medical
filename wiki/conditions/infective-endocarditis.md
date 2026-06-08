@@ -18,6 +18,9 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch16]]"
 aliases:
   - 'Infective endocarditis (感染性心內膜炎)'
   - 'Infective endocarditis'
@@ -32,7 +35,7 @@ tags:
 
 ## Summary
 
-菌血症造成心內膜或瓣膜感染，診斷依血液培養、心超與 Duke criteria。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+菌血症造成心內膜或瓣膜感染，診斷依血液培養、心超與 Duke criteria。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +53,17 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch16]]
 
 ## Key Details From Sources
 
+- C. 感染性心內膜炎 (Infective endocarditis) 72 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- ...,壓力逆著血流方向回傳,導致肺靜脈壓 上升甚至肺動脈高壓。而右心室為了抵抗肺動脈高壓而造成右心室肥大,最後 影響下來轉變成三尖瓣逆流,使得右心房擴張,以及右心衰竭。 - (4) 病因:風濕熱(rheumatic fever)為主要原因,以及感染性心內膜炎,使瓣膜及腱索(chordae tendineae)的發炎後纖維化而產生攣縮、瓣膜粘連,使瓣膜打開時呈漏斗狀,造成 MS。(瓣膜本身非因風濕熱而被感染。而是身體產生抗體對抗感染而和瓣膜交互作用發炎,最後導致結疤。) - (5) 症狀:此病變緩慢,風溼熱痊癒初期也都不太有症狀,通常至少十年過後才開始有症狀出現,會有疲倦、運動後呼吸困難、胸痛、心律不整,而後加重出現肺水腫及右心衰竭的症狀,如全身性靜脈鬱血、水腫、肝硬化、端坐呼吸、咳血等。另 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- a. 沒臨床症狀的病患可投藥預防感染性心內膜炎即可。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (B) 25. 下列何者並非冠狀動脈疾病合併左心室瘤的外科適應症? 100(一)專 (A) 充血性心臟衰竭 醫五 -36 (B) 感染性心內膜炎 (C) 心絞痛 (D) 心室性心律不整 【詳解】感染性心內膜炎以抗生素治療為主,除非治療失敗, 或是合併心臟衰竭、心肌膿瘍或反覆性栓塞才是外科適應症。 (C) 26. 冠狀動脈疾病合併厲害的心臟衰竭時,要決定繞道手術是否有益 99(二)專 於病人,必須作下列何種檢查以判定梗塞後的心肌細胞是否仍然 醫五-13 存活 (viable)? (A) 心電圖檢查 (B) 超音波檢查 (C) 核醫檢查 (thallium scanning) (D Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
+- 【詳解】(C) FOLFOX 分別為 FOL—Folinic acid(leucovorin)、F—Fluorouracil(5-FU)、OX—Oxaliplatin(Eloxatin),作為 adjuvant chemotherapy 可改善 Duke C(stage III)患者存活率。(D) EGFR 會促進細胞增生或轉移,當使用 anti-EGFR 時可阻斷癌細胞增生和轉移,但是 RAS mutation(KRAS mutation)可以直接促進癌細胞增生轉移,因此對於 anti-EGFR 的治療效果就比較差。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (BD) 8. 病患經過處理之後狀況逐漸改善,不幸的是,在術後五天之後又 106(二)專再度高燒不退,下列處置何者錯誤? 醫五-45 - (A) 血球檢查、胸部 X 光、尿液分析和血液培養 - (B) 若懷疑是導管相關感染,拔掉導管同時並給予 vancomycin 或是 linezolid - (C) 假如懷疑是心內膜炎(endocarditis),至少要給予抗生素四 到六週 - (D) 若是嚴重的敗血症或是免疫抑制 (immunosuppression) 的病人, 抗生素藥效須涵蓋 *gram-positive cocci* 和 fungus Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ...oli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),rivaroxaban(Xarelto®),Apixaban(Eliquis 恣®)和 Edoxaban(Lixiana®)等。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - III. 後天性心臟疾病 (Acquired Heart Disease) 30 - A. 感染性心內膜炎 (Infective endocarditis) 30 - B. 風溼性心臟病(Rheumatic heart disease) 32 - C. 川崎病 (Kawasaki disease) 33 - D. 心肌炎 (Myocarditis) 39 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -66,11 +77,6 @@ tags:
 - 5.4週:急性前列腺炎、感染性心內膜炎。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...cter pylori-associated peptic ulcer, neurosyphilis (penicillin IV), | | | penicillin-susceptible viridans streptococcal endocarditis (penicillin plus | | | aminoglycoside), disseminated gonococcal infection with arthritis, acute pyelonephritis, | | | uncomplicated S. aureus catheter-associated bacteremia | | 3 weeks | Lyme disease, septic arthritis ( Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...s, | Neisseria meningitidis (0) | | | Gp A, B streptococcal infections, pneumococcal infections, viridans streptococcal endocarditis, | Viridans streptococci (5-10) | | | Oral and periodontal infections, Pasteurella multocida infections | Streptococcus pneumoniae (17) | | | meningococcal meningitis, clostridial myonecrosis, tetanus, anthrax, rat-bite Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (B) 55 歲男性拔牙後引起心內膜炎 (infectious endocarditis)。 尿液 分析有 300 mg/dL 蛋白, 高倍鏡檢有 20~30 RBC Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...--------------------------------------------|--| | Type I Disease | Idiopathic | | | (Most Common) | Subacute bacterial endocarditis | | | | Systemic lupus erythematosus | | | | Hepatitis C±cryoglobulinemia | | | | Mixed cryoglobulinemia | | | | Hepatitis B | | | | Cancer: Lung, breast, and ovary (germinal) | | | Type II Disease | Idiopathic | | | (D Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (A) 安排心臟超音波,尋找感染性心內膜炎之證據 Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
-- ...antibody (C) anti-cardiolipin antibody (D) 鼻腔腫塊活體切片 (D) 13. 下列何者同時會出現杵狀指(clubbing fingers)及發紺(cyanosis) 98(一)專 醫三-3 (A) 感染性心內膜炎 (infective endocarditis) (B) 腸道發炎病 (inflammatory bowel disease) (C) 正常人 (D) 肺動靜脈瘻管 (pulmonary arteriovenous fistula) 【詳解】Ref. Harrison's 17th, ch35 Clubbing of the digits: - Lung cancer Interstitial lung disease - Chron Source: [[sources/med3-book1-ch18|寅、其 他]].
-- | 分類 | 症狀 | 病原菌 | |----------------------------------|------------------------|----------------------------------------------------------------------| | 急性心內膜炎Acute endocarditis | 發燒、急性破壞心臟組織影響心臟外器官 | Staphylococcus aureus | | 亞急性心內膜炎Subacute endocarditis | 較慢地破壞心臟組織較少影響心臟外器官 | Coagulase negative staph. Strep. viridans, enterococci, HACEK groups | Source: [[sources/med3-book1-ch06|己、細菌性心內膜炎]].
 
 ## Clinical Caveats
 

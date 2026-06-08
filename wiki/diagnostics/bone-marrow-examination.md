@@ -36,6 +36,9 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Bone marrow examination (骨髓檢查)'
   - 'Bone marrow examination'
@@ -50,7 +53,7 @@ tags:
 
 ## Summary
 
-骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +89,17 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch30]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- (A) 糖尿病足併骨髓炎的 X-ray 特徵, 會比臨床症狀晚 1 週出現 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- (B) 核磁共振檢查(magnetic resonance imaging, MRI)可以早期 診斷骨髓炎 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- (C) 骨骼掃描(bone scan) 對於骨髓炎的診斷有幫忙 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (D) 35. 35 歲李小姐因為甲狀腺 3.5 公分單一結節接受檢查,包括血清 甲狀腺功能檢查、頸部超音波、Tc-99m 甲狀腺掃描、細針抽吸 (fine needle aspiration, FNA)細胞學檢查,則下列何描述正確? 99(一)專 醫五-22 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的糖類,也有肝臟保護的作用,有利於病人對手術的耐受。術 後糖類的補充是最易消化吸收,對術後消化功能欠佳者更為適宜。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 (B)合併症較少 (C)腸道黏膜(intestinal mucosa)較不易萎縮 (D)易引發吸入性肺炎(aspiration pneumonia) | 103(一)專醫五-2 | Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (B) 6. aspiration pneumonia 對於年長病人而言,是常見的術後合併症; 下列對於 aspiration pneumonia 的敘述,何者錯誤? Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -102,11 +113,6 @@ tags:
 - ...在整個療程中,飲食可以不必忌諱高含銅食物 | | | (C) 所有的病人都會在開始治療後惡化 | | | (D) 若因 D-penicillamine 副作用而無法服用的患者可改用 trientine | | | 【詳解】(A) 副作用為 bone marrow suppression,還有要注意肝 | | | 毒性。 | | | | | | (D) 18. 一位 18 歲男性,近年來漸次出現肢體顫抖,步態不穩,構音障 | 103(二)專 | | 礙,在學成績退步,情緒不穩定。身體檢查發現眼角膜有棕綠色 | 醫四 -60 | | 的沉澱,上肢有翼跳動震顫(wing beating tremor)合併有肌張力 | | | 異常的姿勢(dystonic posture)。下列何者是最可能的診斷? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 3. 羅倫佐的油 Lorenzo's Oil 是目前最普遍被採用的治療方式;羅倫佐的油 Lorenzo's Oil 的處方為:患者嚴格控制脂肪攝取,每公斤體重給予 1.7 公克 glycerol trioleate oil 和 0.3 公克 glycerol trierucate oil。然而羅倫佐的油 Lorenzo's Oil 並不能治療已經產生的神經病變,對成年病患也不具療效;骨髓移植仍然是大腦白質硬化症目前較佳的治療方式。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...身性紅斑狼瘡(systemic | 102(一)專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 【詳解】Wiskott-Aldrich Syndrome 是一種性聯隱性遺傳的疾病,患者多為男性,主要臨床症狀有血小板低下且形狀變小、免疫功能異常(中耳炎、肺炎、腦膜炎)、以及濕疹(佔75%的患者,且容易對過敏原產生反應而併發氣喘等症狀)。治療以症狀治療為主,如需根本治療則需骨髓移植。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (1) Methotrexate(MTX):治療慢性塊狀乾癬或乾癬性關節炎的第一線用藥。最常見的副作用為噁心、疲倦、食慾減退、骨髓抑制造成白血球下降以及肝毒性,故有肝病史和酗酒者不適此療法,可能引發肝纖維化或肝硬化的危險。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- 4. 治療:早期病灶侷限於皮膚時較有治癒機會,而當病灶侵犯至淋巴結或內臟時,多 半只能緩解無法治癒。 - (1) 皮膚病灶:外用強效類固醇、局部化學治療、光化學治療(PUVA)、外用芥子 氦或 BCNU、局部或全身電子束放射療法。 - (2) 全身性治療:化療、骨髓移植、干擾素或單株抗體。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- II. 急性骨髓性白血病 (Acute Myelogenous Leukemia, AML) 374 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 3. 骨髓檢查:當周邊血液檢查懷疑是白血病時,建議做骨髓檢查以做確診。一般以做骨髓抽吸(aspiration)即可,但為了排除其它造成骨髓衰竭疾病有時加做骨髓切片(biopsy)。當超過 25% 的骨髓細胞表現為 homogeneous population of lymphoblasts 時即可確診。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 
 ## Clinical Caveats
 

@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book2-ch20]]"
 aliases:
   - 'Levothyroxine (左旋甲狀腺素)'
   - 'Levothyroxine'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-甲狀腺低下替代治療核心藥物。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺低下替代治療核心藥物。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch11]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book2-ch20]]
 
 ## Key Details From Sources
 
+- (5) 治療方法:針對甲狀腺機能低下給予甲狀腺素 Levothyroxine $(T_4)$ 補充,如果有轉為惡性腫瘤的可能性或是為了美觀考量才會考慮手術切除。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - b. 以 levothyroxine 治療,目標使 $T_4$ 與 TSH 在正常範圍。一般建議劑量為 $10\sim15$ mg/kg/day,當 $T_4$ 越早上升至正常範圍,越能減少先天性甲狀腺機能低下對腦部的傷害。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (4) 治療:當 TSH > 10 mU/L 且 low free T4 時:給予 levothyroxine。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) 治療: 須以 Levothyroxine (T4) 治療。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].

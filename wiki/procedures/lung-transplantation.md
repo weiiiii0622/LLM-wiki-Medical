@@ -5,6 +5,8 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Lung transplantation (肺臟移植)'
   - 'Lung transplantation'
@@ -19,14 +21,18 @@ tags:
 
 ## Summary
 
-末期肺病的移植治療，需評估感染、惡性腫瘤、肺高壓與術後慢性排斥。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+末期肺病的移植治療，需評估感染、惡性腫瘤、肺高壓與術後慢性排斥。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch07]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- ...詳解】異位心臟移植即受贈者的原有心臟仍存在,僅將捐贈 | | | | 的心臟與受贈心縫合。 | | | (D) | 4. 現在出現一個 25 歲腦死的潛在性器官捐贈者,下列哪一個病患 | 98(二)專 | | | 需要心肺移植(heart-lung transplantation)? | 醫五-1 | | | (A) 末期肺氣腫 | | | | (B) 缺血性心臟病 | | | | (C) 原發性肺動脈高壓 | | | | (D) 原發性心肌症合併次發性肺動脈高壓 | | | (B) | 5. 在心臟移植手術時,若受贈者術前的肺動脈壓非常高,因而造成 | 94(二)專 | | | 術後死亡,最可能的死亡原因為: | 外一-22 | | | (A) 急性肺水腫 | | | | (B) 急性右心衰竭 | | | | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
+- 暫時使用 ECMO 直至心臟功能恢復,或者是過渡、穩定病人到下一個治療方式 (心臟移植);肺衰竭(新生兒肺部疾病、急性呼吸窘迫症候群);或肺臟移植、 神經外科手術及大血管動脈瘤的手術等等。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (D) 10. 下列有關肺臟移植後使用免疫抑制藥物之敘述,何者正確? Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (C) 26. 下列有關小兒肺臟移植(Pediatric lung transplantation)之敘述,何者有誤? Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (B) 施行單側肺臟移植手術時,不一定需要使用體外循環心肺輔助機(cardiopulmonary bypass) Source: [[sources/med5-book1-ch06|己、移植外科]].

@@ -37,6 +37,9 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch21]]"
 aliases:
   - 'Loop diuretics (亨利氏環利尿劑)'
   - 'Loop diuretics'
@@ -51,7 +54,7 @@ tags:
 
 ## Summary
 
-改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +91,17 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch04]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch21]]
 
 ## Key Details From Sources
 
+- a. 可用 Digoxin、利尿劑、血管擴張劑等來控制心衰竭,一般追蹤到一至兩歲 左右假使 VSD 自然閉合的機率不大則來決定是否開刀。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- a. 內科:新生兒時期若有立即性症狀,給予 PGE1 維持動脈導管開放,若同時合併有心臟衰竭則給予強心劑、利尿劑、氧氣等。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
+- b. 如果有症狀可給予利尿劑降低左心房壓,β-blocker 或 CCB 維持 sinus rhythm。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- ...或先天性異常都 有可能。 - (3) 症狀:呼吸困難、端坐呼吸、肺水腫、肺高壓、atrial fibrillation。症狀嚴重度和 閉鎖不全程度相關,mild MR 患者幾乎不會有症狀, - (4) 處置方式和 MS 相同,可先藥物處理(利尿劑、ACEI),當藥物無法控制,症 狀持續嚴重、發展成肺動脈高壓、左心室功能惡化,則考慮手術修補。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- ...crisis),下列敘述何者錯誤? 102(二)專 (A) 病人多焦躁不安, 意識興奮 醫五-42 (B) 血鈣超過 16 mg/dL (C) 副甲狀腺增生或癌較易發生 (D) 治療應給予 normal saline infusion 及 furosemide 【詳解】(A) 高血鈣的神經症狀應為疲倦、嗜睡、虚弱肌腱反射 下降,意識不清等。 (D) 11.50 歲男性,過去有高血壓及十二指腸潰瘍病史,上個月曾經因 102(一)專 為左側輸尿管結石去過急診,最近常感到倦怠、四肢肌肉無力, 醫五-47 則下列何種檢查,較無診斷價值? (A) 血鈣濃度 (B) 血中鹼性磷酸酶 (alkaline phosphatase) 濃度 (C) 血中副甲狀腺素(iPTH)濃度 (D) 血中三酸甘油脂(tri Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...的低血鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid def Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -104,11 +115,6 @@ tags:
 - (B) 8. 關於兒童急性鏈球菌感染後腎臟發炎(acute poststreptococcal 107(-)專 glomerulonephritis)的治療,下列敘述何者正確? 醫四-22 - (A) 由於為鏈球菌感染所引起的,因此給與適當的抗生素治療可以縮短病程 - (B) 高血壓的治療包括給與鈣離子抑制劑(calcium channel antagonists)或利尿劑(diuretics) - (C) 限制鈉離子的攝取,主要是針對慢性腎臟病的預防 - (D) 類固醇為首選的治療藥物 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (B) 利尿劑有可能會增加血栓併發症(thromboembolic complication)的可能性 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】除未作答者不給分外,其餘均給分。依題目敘述,病人沒有血尿但出現嚴重的蛋白尿,同時白蛋白過低,故懷疑nephrotic syndrome。利尿劑使用時機為嚴重水腫病人,因為使用利尿劑會使血管內容積減少進而增加血栓風險。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (1) 內科治療:臨床上有症狀的早產兒,先限制水分攝取,必要時考慮利尿劑使用。 若無效則注射 indomethacin 或 ibuprofen 促使 PDA 關閉。對於小的 PDA 或是沒 有症狀的早產兒,一般先觀察,因為有可能自然關閉。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (2) 利尿劑、頭抬高、氧氣可讓症狀暫時舒緩。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (1) 生理食鹽水靜脈輸注:可稀釋血鈣、促進尿鈣排除(Calciuresis)。當病患體液足夠 時,適當給予 Loop diuretics 可幫助尿鈣排除。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- ...(A) PR 波間距縮短(B) QT 波間距縮短(C) 心房震顫(D) 高聳的 T 波 | 醫三 -44 | | (B) | 7. 承上題,該病患之處置,下列何者較適當? (A) 立即給予靜脈注射 50% 葡萄糖 (B) 補充水分,並給予利尿劑 (C) 注射鈣離子 (D) 給予佳力美粉(Kalimate) | 97(二)專醫三-45 | | (C) | 8. 一位 70 歲胃癌男性因為突然下半身癱瘓(paraplegia)來急診就醫。發病前一個月開始出現下背痛。X 光檢查發現第一腰椎產生病理性骨折(pathological fracture),並產生脊髓壓迫(spinal cord compression)。血液檢查 alkaline phosphatase 780 U/L, Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- | 內在因子 | 外在因子 | |-------------------------------------------------------------------------------------------------------------------------------|----------------| | 1. 聽力與視力下降 | 1. 居住環境雜亂、浴廁潮濕 | | 2. 暈眩,可由疾病或藥物造成: (1)心血管疾病:心律不整、姿態性低血壓 (2)神經疾病:中風、失智症、巴金森氏症 (3)新陳代謝疾病:糖尿病 (4)高血壓藥物、利尿劑、抗憂鬱劑與抗組織胺藥物 3. 心肺功能、肌肉骨骼功能退化造成移動與平衡能力下降 | 2. 環境陰暗、照明度不足 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 

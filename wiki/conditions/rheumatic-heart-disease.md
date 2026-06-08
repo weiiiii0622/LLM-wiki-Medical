@@ -30,6 +30,7 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book2-ch05]]"
 aliases:
   - 'Rheumatic heart disease (風濕性心臟病)'
   - 'Rheumatic heart disease'
@@ -44,7 +45,7 @@ tags:
 
 ## Summary
 
-鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +75,13 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...。 - (3) 長久下來,左心房因壓力上升而擴大,壓力逆著血流方向回傳,導致肺靜脈壓 上升甚至肺動脈高壓。而右心室為了抵抗肺動脈高壓而造成右心室肥大,最後 影響下來轉變成三尖瓣逆流,使得右心房擴張,以及右心衰竭。 - (4) 病因:風濕熱(rheumatic fever)為主要原因,以及感染性心內膜炎,使瓣膜及腱索(chordae tendineae)的發炎後纖維化而產生攣縮、瓣膜粘連,使瓣膜打開時呈漏斗狀,造成 MS。(瓣膜本身非因風濕熱而被感染。而是身體產生抗體對抗感染而和瓣膜交互作用發炎,最後導致結疤。) - (5) 症狀:此病變緩慢,風溼熱痊癒初期也都不太有症狀,通常至少十年過後才開始有症狀出現,會有疲倦、運動後呼吸困難、胸痛、心律不整,而後加重出現肺水腫及右心衰竭的症狀,如全身性 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (1) 風濕性心內膜炎或細菌感染後,主動脈瓣會因為發炎而縮小,以致無法在瓣膜 閉合時關緊,於舒張期血流由主動脈逆流回左心室。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (B) 嚴重的二尖瓣狹窄大都以風濕性心臟病 (rheumatic heart disease) 為主 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (D) 8. 病人因嚴重類風濕關節炎導致劇痛就醫,就診時告知其為一牧師,因為要主持巡迴佈道,故要求你開立最有效的止痛藥。類固醇是一種消炎效力極強的藥物,常用於風濕性疾病的短期給藥,但因其與胰島素存有藥品交互作用,可能會促進糖質新生而誘發或加重糖尿病的病情,嚴重者更可能導致死亡,故在開立類固醇時,應特別注意患者是否有糖尿病史。病人顯然具有豐富的醫學知識,雖然告知你有糖尿病病史,仍要求你開給他類固醇藥物,他表示站在維護其神職人員堅強健全形象且期望專心投身工作的立場,即使類固醇治療最壞結果是導致死亡亦不後悔,下列可能的作法,那一個最符合倫理? - (A) 既然這個病人如此要求,基於尊重病人自主權,就照他 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 【詳解】本題就是在考 rheumatic fever,其中一個 major criteria 就是 Sydenham chorea。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 2. 有 40~50% 的顳動脈血管炎病人會合併 polymyalgia rheumatica,這兩個病是同一病理的兩個不同臨床表徵,皆是中大型的血管發炎,一個導致頭痛,一個導致肩頸、背、大腿多處肌肉痠痛。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
@@ -92,9 +97,6 @@ tags:
 - 3. DMARDs (Disease-modifying antirheumatic drugs): 對風濕疾病具有減緩疾病進展作用的一群藥物,其中較常見的藥物及其作用: Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...| | | 抑制 purine 生成→抑制發炎 | JRA, SLE, dermatomyositis… | | Etanercept | Anti-TNF-α | JRA | | Hydroxychloroquine | 原為抗瘧疾藥,在風濕性疾病 | SLE, dermatomyositis 的皮膚 | | | 治療的機轉不明 | 病灶 | | Sulfasalazine | 不明,可能和抑制 prostaglandin, | JRA, inflammatory bowel | | | leukotriene 的生成有關 | disease | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) 2. 關於幼年型類風濕性關節炎(Juvenile idiopathic arthritis, JIA), 下列何者錯誤? 108(二)專 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (C) 風濕熱 (rheumatic fever) Source: [[sources/med4-book1-ch08|辛、血液學]].
-- ...腸系膜淋巴瘤 | | 6. 類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃炎 | 7. 外傷 | | 3. 骨盆發炎疾病 | 8. 懷孕 | | 4. 消化道潰瘍 | 9. 風濕性疾病 | | 5. 膽囊炎 | 10. 身心症 | | マ・ルラ 孝を少へ | 10. 2 . n./ir | Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 2. 好發 $35\sim50$ 歲,男:女 =1:3;帶有 HLA-DR4 有更高的發生率。也有不少超過 60 歲的類風濕性關節炎 (Elderly onset RA),若合併 RF(+)或 anti-CCP(+),通常疾病進展較快、較嚴重。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 

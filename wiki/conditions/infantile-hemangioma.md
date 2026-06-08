@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book2-ch01]]"
 aliases:
   - 'Infantile hemangioma (嬰兒血管瘤)'
   - 'Infantile hemangioma'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-嬰兒期血管增生性腫瘤，多數先增生後退化；危及功能或潰瘍時需治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嬰兒期血管增生性腫瘤，多數先增生後退化；危及功能或潰瘍時需治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book2-ch01]]
 
 ## Key Details From Sources
 
+- (B) 9. 趙先生 59 歲,晚餐後突感前胸劇痛,並延伸到後背,經救護車送到醫院急診。趙先生除高血壓外並無其他病史。理學檢查發現意識清楚,血壓 180/50 mmHg,心跳 96 / 分,呼吸 18 / 分,頸靜脈平坦,胸骨左側有心縮期及心舒期雜音。胸部 X 光發現縱膈腔寬度約 8.5 公分。趙先生在胸部電腦斷層掃描檢查後又感胸痛,此時血壓下降至 110/50 mmHg,心跳 130 / 分,呼吸 25 / 分,頸靜脈怒張,下列何者是適當的處置? ①立即心臟超音波檢查 ②給予 propranolol 及 sodium nitroprusside 治療 ③緊急手術 ④送入加護病房觀察並接受藥物治療 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (B) 4. 下列何者是治療麻醉氣體引起的惡性高溫 (malignant hyperthermia) 最主要的藥物? 107(-) 専 - (A) propranolol - (B) dantrolene - (C) doxazosin - (D) nifedipine Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 5. 慢性預防:(A、B、C) - (1) Antidepressant (如 amitriptyline); Anticonvulsant。 - (2) β blocker: 如 Propranolol。 - (3) CCB:如 Flunarizine。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...8. 一位罹患躁鬱症(bipolar disorder)和氣喘的病人,偏頭痛變得 105(一)專 越來越頻繁,目前一週會有兩三天的偏頭痛發作。醫師打算使用 醫四-49 預防性藥物治療來減少她的偏頭痛,下列何種藥物是最合適的 治療? (A) propranolol (B) divalproex (C) amitriptyline (D) lithium 【詳解】預防用藥的選擇:amitriptyline、propgranolol、flunarizine、 valproic acid、topiramate,本題個案患有 bipolar disoder 和氣喘,應 Source: [[sources/med4-book4-ch03|丙、頭 痛]].

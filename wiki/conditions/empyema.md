@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book2-ch05]]"
 aliases:
   - 'Empyema (膿胸)'
   - 'Empyema'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-肋膜腔感染積膿，常需引流與抗生素。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔感染積膿，常需引流與抗生素。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med3-book1-ch18]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book1-ch09]]
+- [[sources/med5-book2-ch05]]
 
 ## Key Details From Sources
 
+- (D) 1.68 歲農婦因右手輕微無力伴隨下肢輕微水腫來診,經診斷為二尖瓣狹窄 (mitral stenosis),超音波顯示為心房顫動 (atrial fibrillation) 且瓣膜開口為 1.35 cm²,過去有右側膿胸且經開胸治療之病史,下列敘述或處置何者正確?①中風之故,不應給與抗凝血劑,如 warfarin ②應建議進行心導管檢查 ③進行瓣膜手術,且可同時進行迷宮手術(Cox-Maze procedure) ④可選擇胸腔鏡或小傷口內視鏡進行手術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- ④ 「過去有右側膿胸且經開胸治療之病史」的病人,是胸腔鏡或小傷口內視鏡的 Contraindication。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (1) VATS 也可用來治療疾病: - a. 肺邊緣小結節切除、肺氣泡切除(bleb resection),肋膜切除(pleurectomy) - b. 膿胸 (empyema) 處理。 - c. 肺膜沾合術 (pleurodesis)。 - d. 交感神經切除術(sympathectomy):切除 T2 交感神經節,治療手汗(hyperhidrosis palmaris)。 - e. 心包膜開窗術 (pericardial window)。 - f. 較複雜的胸腔手術: 食道肌切開術 (myotomy)、縱膈腔或肋膜腫瘤的切除、肺葉或肺全切除術 (lobectomy or pneumonectomy) 以及食道切除術 (esophagectomy)等。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - 1. 侵犯胸腔 (thoracic cavity): pleural effusion `empyema and pericarditis ·其中 S. aureus `S. pneumoniae 以及 S. pyogenes 是造成 pleural effusion 或是 empyema 最常見的細菌 。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...g | 心臟超音波 會診心臟內科放人 pig tail | | | 心也展現莖 | (Pulsus paradoxus) | 心脉起百次 | 會診心臟內科放入 pig tail | | 肋膜疼痛 | 吸氣會引發疼痛 | 胸部 X 光 | 依膿胸、結核等不同問題治療 | | 食道逆流 | 胸骨後燒灼痛 | 胃鏡 | 制酸劑 | | 肌肉骨骼 | 姿勢改變會引發痛 | 可壓到疼痛點 | Acetaminophen 或 NSAID | | 帶狀泡疹 | 單側沿皮節 (Dermatome) 分布 | 紅疹沿皮節分布 | Acyclovir | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].

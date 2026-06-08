@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch19]]"
   - "[[sources/med3-book1-ch11]]"
+  - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book2-ch08]]"
 aliases:
   - 'Unstable angina (不穩定心絞痛)'
   - 'Unstable angina'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-ACS 光譜中無心肌酵素上升的缺血狀態。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+ACS 光譜中無心肌酵素上升的缺血狀態。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch19]]
 - [[sources/med3-book1-ch11]]
+- [[sources/med5-book2-ch07]]
+- [[sources/med5-book2-ch08]]
 
 ## Key Details From Sources
 
+- 1. Absolute indications: - (1) 因 heart failure 所導致的 hemodynamic compromise。 - a. Refractory cardiogenic shock • - b. 需要持續倚賴給予 IV inotropic agent 才能達到足夠的 organ perfusion。 - c. Peak $VO_2 2 11~14 mL/kg/min 且對日常活動造成限制。 - (2) 反覆性 unstable angina 且無法靠其他方法有效控制。 - (3) 病患在常規治療下仍舊體液不平衡或腎功能不穩定。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
+- (3) 無法用藥物控制的不穩定心絞痛 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - #### 4. UA/NSTEMI 的臨床處置: Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - ...級及追蹤病情變化,針對高 危險群病患,給予 Early PCI;針對有臨床症狀,但無心電圖、酵素上升等變化, 須 6 小時後再追蹤一次心電圖、酵素,轉為有變化者,需住院治療。 - b. 臨床上常使用 TIMI risk score for UA/NSTEMI: (口訣: AACC+3) - (a) A : age $> 65 \circ$ - (b) A: aspirin used in past 7 days • - (c) C: CAD (> 50% stenosis) • - (d) C: CAD risk factor > 3 ° - (e) 3:診斷心肌梗塞三項表準→ angina, EKG, cardiac enzyme。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (4) 長期治療 (Secondary prevention): [編按:這部分 STEMI 與 UA/NSTEMI 類似] - a. Aspirin:可減少再梗塞的機率、有存活上的益處。 - b. Clopidogrel:單用於無法使用 Aspirin 者;不論有無置放支架,建議合併 Aspirin 使用 12 個月。 - c. ACEI:對 STEMI後的患者有存活上的益處。 - d. β blocker:實證醫學上顯示,可減少 MI 的再發生率。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

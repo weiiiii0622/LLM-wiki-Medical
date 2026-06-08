@@ -19,6 +19,7 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med3-book4-ch29]]"
   - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med5-book2-ch17]]"
 aliases:
   - 'Nitrates (硝酸鹽類)'
   - 'Nitrates'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med3-book4-ch29]]
 - [[sources/med4-book2-ch07]]
+- [[sources/med5-book2-ch17]]
 
 ## Key Details From Sources
 
+- 6. 處置: - (1) 藥物治療:90% 可以癒合 - a. 首要維持排便通暢,降低肛門內括約肌痙攣,故急性期多先給予軟便劑並教 導正確排便習慣。 - b. 溫水坐浴:使肛門內括約肌放鬆,增加局部血流加速肛裂癒合。 - c. 局部塗抹 glyceryl trinitrate (GTN) ointment (0.2~0.4%), 也是使肛門內括約 肌放鬆,增加局部血流加速肛裂癒合。不過會有頭痛的副作用。 - d. GTN 失敗時可考慮使用 diltiazem ointment、CCB 或注射肉毒桿菌至肛門內括約肌。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
 - (A) isosorbide mononitrate Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - | 疾病 | 物質 | |-------|-------------------| | 氣喘 | 二異氰酸類、甲醛、環氧樹酯 | | 腎臟疾病 | 四氯化碳、乙二醇、甲醇、鉛、汞、鉻 | | 肝臟疾病 | 二甲基甲醯胺、四氯化碳、砷 | | 血液疾病 | 苯、硝基苯、硝化甘油 | | 心血管疾病 | 二硫化碳、硝化甘油、砷 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - (A) isosorbide mononitrate Source: [[sources/med3-book4-ch29|己、特定議題]].

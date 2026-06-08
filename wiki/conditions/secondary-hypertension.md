@@ -18,6 +18,9 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book2-ch24]]"
 aliases:
   - 'Secondary hypertension (次發性高血壓)'
   - 'Secondary hypertension'
@@ -32,7 +35,7 @@ tags:
 
 ## Summary
 
-需從腎臟、內分泌、血管與藥物原因找可逆病因。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+需從腎臟、內分泌、血管與藥物原因找可逆病因。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +53,21 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch10]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book2-ch20]]
+- [[sources/med5-book2-ch23]]
+- [[sources/med5-book2-ch24]]
 
 ## Key Details From Sources
 
+- \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- a. Total thyroidectomy + Central neck dissection (上下從舌骨到胸骨切跡,左右至頸動脈鞘)。如同時有 pheochromocytoma,需先將其切除,因為 pheochromocytoma 會增加甲狀腺切除術中的風險,例如 hypertensive crisis。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- ...切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | (B) 20. | 格雷氏病(Graves' disease)合併下列何種情況時,甲狀腺次全切 | 104(二 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- D. 嗜鉻細胞瘤 (Pheochromocytoma) 237 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 【詳解】Conn's syndrome、Cushing's syndrome、Pheochromocytoma等功能性腎上腺腫瘤在手術切除後改善效果非常顯著,無 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- (A) 3. 一位 50 歲男性因急性心臟衰竭住院,入院時收縮壓為 200 mmHg, 檢查發現右腎上腺有一 5 公分腫瘤,臨床醫師懷疑為嗜鉻細胞瘤 (pheochromocytoma),下列敘述何者正確? Source: [[sources/med5-book2-ch23|丁、腎上腺]].
+- 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- 2. IIB: - (1) Medullary thyroid carcinoma (100%) • - (2) Pheochromocytoma (50%) • - (3) Mucosal and gastrointestinal neuroma • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- (D) 1. 有關多發性內分泌贅瘤症候群 (multiple endocrine neoplasia , 107(-) 専 MEN) 的敘述 , 下列何者錯誤? - (A) MEN 1 包含副甲狀腺機能亢進(hyperparathyroidism) - (B) MEN 2A 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (C) MEN 2B 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (D) MEN 2C 包含嗜鉻細胞瘤 (pheochromocytoma) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - (1) 高血壓機率較洗腎患者高,其可能的原因為 cyclosporine 的副作用、排斥、腎動脈狹窄等。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. 除上述症狀,神經纖維瘤患者易因腎動脈狹窄引起高血壓、得到嗜鉻細胞瘤機會較高、學習力和智力出現障礙或是得到惡性腫瘤的機會增高。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - 兒童心臟惡性腫瘤臨床上更少見,大部分惡性腫瘤為 sarcomas,例如 angiosarcomas、rhabdosarcomas、fibrosarcomas。其他更少見的有 lymphoma 或是 pheochromocytomas。臨床上,兒童心臟惡性腫瘤多為 secondary; 比較常見的病因有 Wilms tumor 或是 lymphoma/leukemia 造成的 metastasis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -62,14 +77,6 @@ tags:
 - ...nsion) | | | | | (B) 大動脈狹窄 (coarctation of aorta) | | | | | (C) 原發性皮質醛酮過高症(primary aldosteronism) | | | | | (D) 嗜鉻性細胞瘤 (pheochromocytoma) | | | | | 【詳解】Aldosterone 會留鈉排鉀,病人會有高血壓合併低血鉀的 | | | | | 表現。 | | | (C) | 13. | 下列低血鉀之成因何者不是因鉀離子移入細胞內? | 96(二)專 | | | | (A) 代謝性鹼中毒(metabolic alkalosis) | 醫三-12 | | | | (B) 合成代謝階段(anabolic state) | | | | | (C) 庫欣氏症 (Cushi Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...| 98 腎臟 01 | | | 【詳解】 2,3,5 會低血鉀。 | | | (C) | 下何何種情況會造成低血鉀症? (1) 代謝性鹼中毒(鹼血症) (2) β2-agonists (3) α-agonists (4) 腹瀉 (5) 腎動脈狹窄 | 97腎臓 12 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (C) 安排 captopril 腎臟同位素攝影,考慮腎動脈狹窄 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- 94(一)專 (B) 38. 對於因雙側腎動脈狹窄導致高血壓的病人,下列何種降血壓藥物應 內 2-17 避免使用? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (A) 單側腎動脈狹窄 (unilateral renal arterial stenosis) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...(A) Rb (B) p53 (C) VHL (D) WT-1 【詳解】此為 Von-Hippel Lindau syndrome,此疾病會有家族遺傳特性,臨床上會出現多處的 hemagioblastoma(視網膜、小腦),且可能合併有 pheochromocytoma、pancreas / renal cyst 或 renal cell carcinoma。 | 97(一)專醫三-53 | Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
-- E. 嗜鉻細胞瘤 (Pheochromocytoma) 218 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...(mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural crest) | Tyrosine | Norepinephrine | Fileociiromocytoma | | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- 2. 病因:(排除掉醫源性 Cushing's syndrome) - (1) Cushing's disease (70%):因為腦垂體腫瘤 (Adenoma) 或增生 (Hyperplasia)。 - (2) Adrenal tumor (20%): 腎上腺腫瘤 (6 cm: Carcinoma)。 - (3) Ectopic ACTH (10%): 肺小細胞癌; 胸腺、胰臟、卵巢的類癌 (Carcinoid tumor)、甲狀腺髓質癌 (Medullary carcinoma of thyroid)、Pheochromocytoma 等。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...astic (MMMP) | | | Pituitary tumor . | Medullary thyroid ca. \ | Mucosal neuroma · | | 內容 | Parathyroid hyperplasia . | Pheochromocytoma > | Medullary thyroid ca. | | 內台 | Pancreatic islet tumor | H yperparathyroidism | Marfanoid body habitus | | | (Gastrinoma 最多) | | Pheochromocytoma | | 金山路 | 只有 P | 有 M 要想 II | | | 記憶 | | IIa, IIb 共同有 Medullary th | hy Source: [[sources/med3-book2-ch16|辛、其 他]].
-- 【詳解】Von Hippel-Lindau disease 主要病灶是先天性毛細血管缺陷瘤 (capillary hamartoma),可出現在視網膜、小腦、及其他器官;還可 能併有胰臟及腎臟的囊腫(cysts)、嗜鉻細胞瘤(pheochromocytoma)、 及腎細胞瘤 (renal cell carcinoma) 等。 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 
 ## Clinical Caveats
 

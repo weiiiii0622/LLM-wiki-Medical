@@ -25,6 +25,11 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book2-ch27]]"
 aliases:
   - 'Heparin (肝素)'
   - 'Heparin'
@@ -39,7 +44,7 @@ tags:
 
 ## Summary
 
-ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +69,24 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med5-book2-ch06]]
+- [[sources/med5-book2-ch08]]
+- [[sources/med5-book2-ch05]]
+- [[sources/med5-book2-ch03]]
+- [[sources/med5-book2-ch27]]
 
 ## Key Details From Sources
 
+- 5. 治療: - (1) 穿彈性襪 (compression therapy)。 - (2) 先使用 heparin 維持 INR 2~3, 之後改用 Warfarin 維持,至少吃三個月到六個月,如果復發則建議吃終身。 - (3) 靜脈血栓清除術(venous thrombectomy): 以導管進入阳塞的靜脈清除血栓。 - (4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ①同時合併靜脈注射肝素(unfractionated heparin)及口服 warfarin Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ②靜脈注射 80 U/kg 肝素, 然後 15~18 U/kg/hour 持續靜脈滴注 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 3. 不同於傳統的體外循環(CPB): ECMO 為密閉性管路,無 CPB 的儲血裝置,且人工血管管路是內有肝素塗層,具有抗凝作用的管道,裝置時多數無需開胸手術,無需強烈的抗凝藥物使用,減少了出血的併發症。 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (A) 在啟動體外循環之前必須施打肝素 (heparin) 約 300~400 units/kg,以使 activated clotting time (ACT) 能大於 450 秒 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (B) 15. 王女士 38 歲,接受機械性僧帽瓣置換手術後,術後使用 warfarin sodium,則下列何者正確?①若王女士須服用 thyroxine,應定期 監測 prothrombin time,適當減少 warfarin 的劑量 ②若王女士須 服用當歸、銀杏等中藥,應定期監測 aPTT,適當減少 warfarin 的劑量 ③若王女士須服用口服避孕藥,應定期監測 prothrombin time,適當增加 warfarin 的劑量 ④若王女士嗜食菠菜,應定期 監測 aPTT,適當增加 warfarin 的劑量 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- 【詳解】服用 warfarin 要監控 prothrombin time (PT), 服 用 heparin 才是監控 aPTT。服用 thyroxine 會造成凝血因子的 turnover rate 加快,使得 PT prolonged,所以應適當降低 warfarin 服用量。而服用口服避孕藥有增加DVT的危險,故需增加 warfarin 服用量。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
+- (B) 9. 下列關於不停跳冠狀動脈繞道手術(off-pump coronary artery bypass grafting)的敘述,何者正確? ①須使用 heparin ②人工 心肺機不需待命 ③不須降低體溫 ④不會引發腦中風 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 5. 治療:抗凝血劑 heparin。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ...(1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -75,16 +95,6 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - (1) Initial: heparin 75 U/kg, IVD for 10 mins • Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (2) Maintanance: 20 U/kg/hr, q4h check PTT, keep aPTT: 60~80 secs 五天。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 5. Prothrombin time (PT) - (1) 與白蛋白相同,用來評估肝臟合成功能的指標。 - (2) 除了 factor VIII 以外,其餘凝血因子均由肝臟製造。因此發生嚴重的肝功能受損時,除了 PT 延長以外, aPTT 亦會延長。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...------------------------| | 病理缺陷 | Platelet/ vascular defect | Coagulation defect | | 實驗室檢查 | Bleeding time (BT) | PT \ aPTT | | 出血處 | 皮膚、黏膜 | 肌肉、關節 (Deep in soft tissue) | | 病灶名稱 | Petechiae, Ecchymosis | Hemarthroses, Hematomas | | 出血時機 | 小切傷,較立即、輕微 | 大手術,較延遲、嚴重 | | | 如:流鼻血、刷牙流血 | 如:血膝、爬山後肌肉內血腫 | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- 2. 血管缺陷:如 Senile purpura,老年人皮下脂肪減少,尤其是四肢伸側,皮一拉,血管易破。CBC、PT、aPTT 皆正常,Senile purpura 不需治療,僅需觀察。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (2) 破壞增加: - a. Immune thrombocytopenic purpura (ITP): - (a) 病因:因未知的原因,身體產生 Anti-PLT Ab,使血小板被破壞。 - (b) 診斷:好發於 15~30 歲女性,藉由排除其他血小板低下的病因後診斷。 - (c) 實驗室檢查: CBC 只見 Plt ↓ 需檢查 ANA、HIV、EBV、Hepatitis virus 以排 除其他次發性原因; Anti-plt Ab 僅具低敏感度及低專一性。 - (d) 治療: - i. Plt > 30,000: 不需治療。(目前治療 guideline 建議維持 30,000 以上) - ii. Plt 10 萬,通常沒有臨床症狀,可繼續使用 heparin,觀察即可。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...upus anticoagulant (B) factor VIII (C) protein S | 105(一)專醫三-12 | | | (D) protein C | | | | 【 詳解 】APS 的檢驗異常包括 prolonged aPTT 及 false positive RPR。 | | | (D) | 8. 下列對於全身性紅斑性狼瘡(SLE)病人血清中的各種自體抗體的描述,何者最為正確? (A) anti-RNP 對於診斷 SLE 的特異性最高 (B) anti-histone 抗體與 SLE 的腎炎最有相關 (C) anti-Sm 與 SLE 的 psychosis 最有相關 (D) anti-phospholipid 與 habitual fetal loss Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- 貧血方面,算是考得很多,也考得比較深入,有機會可多翻翻其他書,但各種貧血的必記重點都先要牢牢記住,本書皆有整理出來。凝血異常部份更要記清楚每個疾病的實驗室檢查結果,哪些BT會延長、哪些PT會延長、哪些aPTT會延長,還有哪些臨床表現跟實驗室檢查有出入的,如HIT、APS看似血小板減少、aPTT延長,病人卻有血栓現象,本書皆有深入淺出的說明。 Source: [[sources/med3-book4-ch09|辛、其 他]].
-- ...(a) 血液抹片上看到 Fragment RBC, 須懷疑 TTP、DIC等原因造成血管壁不平順, 導致溶血; 若是 TTP 須進行血漿置換, 而 DIC 則是控制背後引發 DIC 的病因, 如敗血症等。 - (b) TTP 不會有 PT、aPTT 延長問題,而 DIC 必合併凝血問題 (PT、aPTT 延長)。 - (c) 非免疫還有包括 enzymopathy 如蠶豆症、hemoglobinopathy 如 hemoglobin H、感染如 malaria 等。 - c. 免疫 (Autoimmune hemolytic anemia, AIHA): - (a) 測 Coombs' test 可知血中是否有攻擊 RBC 的抗體, 測法有兩種: Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (B) 3. 一位 52 歲急性肺炎患者住院治療,臥床 7 天後發生右下肢 proximal deep vein thrombosis,給予 heparin 併 warfarin 治療後略有改善。該 患者出院後口服抗凝血劑 warfarin 至少應給多長? Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...G 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease ACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistant to aldosterone) | | 服用利尿劑 Spironolactone服用抗生素 Trimethoprim | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 
