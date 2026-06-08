@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch13]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Lyme disease (萊姆病)'
   - 'Lyme disease'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-蜱媒 Borrelia 感染，可有游走性紅斑、神經、心臟與關節表現。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+蜱媒 Borrelia 感染，可有游走性紅斑、神經、心臟與關節表現。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book3-ch13]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- #### 3. Lyme disease: Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- (1) Borrelia burgdorferi 的感染發生於埤 (Ticks) 咬後 36~48 小時。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- ...drate arthritis — acute polyarticular arthritis (C) Staphylococcus aureus arthritis — acute monoarticular arthritis (D) Borrelia burgdorferi arthritis - acute episodes of polyarthritis on both hands 【詳解】(A)、(D) 這些感染性關節炎通常是單一關節。(B) CPPD 大多是「多關節」,只是不一定是 acute 根據 Harrison 16EP.2048 右欄第四行: CPPD deposition is polyarticular in at least two-thirds of patients; 左欄的 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - 2. 疏螺旋體 (Borrelia) 類,如伯氏疏螺旋體 (Borrelia burgdorferi), - (1) 由硬蜱 (tick) 傳染給人。 - (2) 萊姆病 (Lyme disease) 分期: - a. 第一期:慢性遊走性紅斑 (erythema chronicum migrans) - b. 第二期:無菌性腦膜炎、Bell's palsy、心臟節律阻斷、心肌炎 - c. 第三期:慢性關節炎、腦病變 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...----------------------------------------------------------------|------------------| | (C) | 6. 下列疾病以及其致病原的組合,何者正確? (A) 萊姆病 (lyme disease): Leptospira interrogans (B) 百日咳 (pertussis): Borrelia burgdorferi (C) 貓抓熱 (cat-scratch disease): Bartonella henselae (D) 恙蟲病 (scrub typhus): Coxiella burnetii | 101(二)專醫三-59 | | (A) | 7. 下列有關恙蟲病(Scrub typ Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 1. Borrelia burgdorferi 的感染發生於埤 (Ticks) 咬後 36~48 小時。 Source: [[sources/med3-book3-ch13|戊、感染性關節炎]].

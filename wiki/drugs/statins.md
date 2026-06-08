@@ -19,6 +19,9 @@ sources:
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch20]]"
+  - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Statins (史他汀類)'
   - 'Statins'
@@ -33,7 +36,7 @@ tags:
 
 ## Summary
 
-降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +55,16 @@ tags:
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch20]]
+- [[sources/med3-book4-ch12]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- ...-------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- ...------------|--------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- 題目 108(一)專 (A) 1. 有關多發性肌炎(polymyositis)的敘述,下列何者正確? 醫三-31 (A) statin 類藥物會引發類似 polymyositis 的表現 (B) 在大於 50 歲的發炎性肌肉病變 (inflammatory myopathies) 患 者中, polymyositis 是最常見的診斷 (C) 關節攣縮(joint contractures)常發生於 polymyositis (D) 皮下鈣化(subcutaneous calcifications)常發生於 polymyositis 【詳解】(B) 應是 inclusi Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...| 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 22 mg/dL (B) 85 mg/dL (C) 130 mg/dL (D) 162 mg/dL 【詳解】(D) 當總膽固醇小於 400 mg/dl 時,可以用公式 LDL-C=(TC)-(HDL-C)-(TG/5)=162 mg/dl。 | 104(一)專醫三-61 | | (A) 28. | . 一位 85 歲王先生,患有高血壓、糖尿病多年。5 年前曾中風,可行走但步履不穩。自己並不清楚目前服用的藥物,常 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - b. 藥物副作用: - (a) Lactic acidosis 可能與傷害粒腺體有關,NRTI (Stavudine、Didanosin)常見。 - (b) Lipodystrophy: NRTIs 及 PIs 較易使周邊皮下脂肪減少,頸背(Buffalo hump)、腹部脂肪增加。 - (c) Hyperlipidemia:特別是高TG,其中PIs(Ritonavir)常見,併用Statin或Fibrates可改善。 - (d) Glucose intolerance: PIs (Indinavir, Ritonavir) 常見。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - b. 腹膜透析也比血液透析常合併血脂異常,建議以 HMG CoA reductase 將 LDL 控制到 100 以下。 Source: [[sources/med3-book3-ch06|己、透析治療]].

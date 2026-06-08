@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Hyperphosphatemia (高血磷)'
   - 'Hyperphosphatemia'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-高血磷常見於腎功能下降，會影響鈣磷與副甲狀腺軸。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血磷常見於腎功能下降，會影響鈣磷與副甲狀腺軸。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...表現很相似 (B) CPPD 引起的急性關節炎常發生在年輕男性,因此要利用關節 - 液結晶分析來和其他關節炎做鑑別診斷 (C) calcium apatite deposition 引起的關節與關節附近發炎,更容易發生在慢性腎臟衰竭合併有 hyperphosphatemia 的病人 - (D) CPPD 與 calcium apatite deposition 結晶引起的關節炎皆可用 colchicine 和 glucocorticoid 治療 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - 2. 實驗室檢查:有無貧血、腎性骨病變、高血磷、低血鈣、副甲狀腺機能亢進等。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - (A) 腎臟衰竭造成高磷血症 (hyperphosphatemia) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - (C) 高磷血症 (hyperphosphatemia) 促進活性維他命 D 之產生 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].

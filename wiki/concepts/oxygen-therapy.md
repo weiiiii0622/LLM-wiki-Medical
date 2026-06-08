@@ -24,6 +24,8 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med3-book4-ch22]]"
 aliases:
   - 'Oxygen therapy (氧氣治療)'
   - 'Oxygen therapy'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,15 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch28]]
+- [[sources/med3-book4-ch22]]
 
 ## Key Details From Sources
 
+- (D) 使用袋 瓣 面罩 (bag-valve-mask) 協助高中生呼吸,並立即 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- 1. 醫療方面:有氧氣、嗎啡、氣管擴張劑、類固醇或鎮定劑等選項,可依臨床需求來選擇 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- (D) 因患者不願接受心肺復甦術,故只給予面罩氧氣治療即可,不 需太積極處理其症狀 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- (2) 利尿劑、頭抬高、氧氣可讓症狀暫時舒緩。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - ...,心跳 70/min,呼吸 36/min,體溫 37.5℃,昏迷指數 GCS(Glasgow coma scale)= E1V2M4,兩眼瞳孔直徑 1 mm 等大,皆有光反應,淚水多,痰液分泌多。下列處置何者錯誤?(A) 可給予 100% 氧氣及插管 (B) 可注射 atropine (C) 可注射 PAM(pralidoxime) (D) 注射 atropine 之最大劑量不可超過 3 mg 【詳解】症狀為 Cholinergic symptoms,atropine 當解毒劑使用可用到症狀緩解。 | 98(一)專醫三-77 | | (B) | 6. 急性泌尿道感染(urinary tract infection),若沒有放導尿管,無泌尿道結構異常,也沒有結石(calculi Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 - | 依與氧氣的關係分類 | | 革蘭氏陰性腸道桿菌 | 其他細菌 | | |-----------|-----------------------|-------------------------------|--------------------------|--| | 絕對須氧 | Obligate aerobes | 1.Psuedomonas | Mycobacterium, | | | 微須氧 | Microaerophilic | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - a. H5N1 流感: 為第一類傳染病→皆須於 24 小時內通報 - (a) 潛伏期 2~8 天,因此病患發病前 7 天應有與懷疑感染 H5N1 流感之動物、或 排泄物接觸或與確定病例接觸。 - (b) 確定或強烈懷疑感染 H5N1 感染的病人,應儘早使用 Oseltamivir (Tamiflu® 克流感);當有神經胺酸抑制劑時, Amantadine 不應該被單獨使用,當做第一線用藥。 - (c) 防護建議:病患本身離開隔離病房,建議配戴外科手術;與病患接觸、執行一般醫療行為也僅需配戴外科手術;唯幫病患執行會引發飛沫微粒行為的治療措施(氣管插管、噴霧治療、誘發痰液的採檢、氣管造口護理、正壓呼吸面罩等)需配戴高效過濾口罩。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
@@ -79,7 +87,6 @@ tags:
 - b. 吐氣時給予較低的壓力 ( $\geq$ 4 cm $H_2O$ ),以維持氣道、氣泡張開,防止肺扁塌 (atelectasis);亦可避免面罩二氧化碳蓄積。 Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - | (C) | 1. 一位 70 歲病患疑似急性冠心症 ,測量其氧合血紅素飽和度顯示為 | 107(一)專 | |-----|-------------------------------------|---------| | | 91%,呼吸速度20次/分鐘,若考量使用氧氣治療,下列敘述何者 | 醫三 -76 | | | 正確? | | Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - ...ory rate 30/min,體溫:38℃;下列處置何者最適宜? - (A) 給予吸入性擴張劑 (bronchodilators)、抗生素和口服類固醇 - (B) 給予吸入性擴張劑(bronchodilators)、抗生素、口服類固醇和 氧氣 - (C) 給予吸入性擴張劑 (bronchodilators)、抗生素、口服類固醇、 氧氣,並給予非侵襲性正壓呼吸 (noninvasive positive-pressure ventilation, NIPPV) - (D) 給予吸入性擴張劑(bronchodilators)、抗生素、口服類固醇、 氧氣和鎮靜劑,立即插氣管內管和使用侵襲性呼吸器(invasive mechanical ventilator)輔助呼吸 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- (B) 9. 慢性阻塞性肺疾併有慢性呼吸衰竭之患者,需要給予氧氣治療時,動脈血液氧氣分壓(PaO2)宣維持在下列何種程度較為合適? Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 
 ## Clinical Caveats
 

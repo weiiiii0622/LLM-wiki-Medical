@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book3-ch10]]"
+  - "[[sources/med3-book4-ch27]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book3-ch10]]
+- [[sources/med3-book4-ch27]]
 
 ## Key Details From Sources
 
+- | 疫苗需求等級 | 疾病種類 | |---------|--------------------------------------| | 必需性疫苗 | 黄熱病 | | 例行性疫苗 | A/B型肝炎、日本腦炎、白喉 / 百日咳 / 破傷風、小兒麻痺、卡介苗及 | | (常規性疫苗) | 麻疹 / 腮腺炎 / 德國麻疹等疫苗 | | 建議性疫苗 | A/B 型肝炎、日本腦炎、腦膜炎、霍亂及傷寒等疫苗 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- ...胞性 | 百日咳、b 型嗜血桿菌及 | 不活化小兒麻痺五合一疫 | 苗 (DTaP-Hib-IPV) | 結合型肺炎鏈球菌疫苗(PVC 13) | 水痘疫苗 (Varicella) | 麻疹腮腺炎德國麻疹混合 | 疫苗 (MMR) | 日本腦炎疫苗(圧)2 | 流歐疫苗 (Influenza)³ | A型肝炎疫苗 (HepA) 4 | 白喉破傷風非細胞性百日 | 咳及不活化小兒麻痺混合 | 疫苗 (DTaP-IPV/Tdap-IPV)6 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- 2.106年5月22日起,改採用細胞培養之日本腦炎活性滅毒疫苗,接種時程為出生滿15個月接種第1劑,間隔12個月接種第2劑 1.105年起,卡介苗接種時程由出生滿 24 小時後,調整為出生滿 5個月 (建議接種時間為出生滿 5~8 個月 )。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ...| | 面體 | 單股 (+) 無分段 | 細胞質 | 披膜病毒 (Togavirus) | a 病毒,(德國麻疹) | 節肢動物 | | | | 早版 (*) 無方权 | 細胞質 | 黃質病毒科 (Flavivirus) | 登革熱,日本腦炎 | (蟲媒病毒) | | | | | 單股 (+) 無分段 | 細胞質 | 冠狀病毒科 (Coronavirus) | SARS | | | | RNA | | 單股(-)分段(8)核內 正黏液病毒科(Orth | | 正黏液病毒科 (Orthomyxovirus) | 流行性感冒病毒 | 呼吸道感染 | | | KNA | | 單股 (-) 無分段 | 細胞質 | 副黏液病毒科 (Paramyxovirus) | RSV, 腮腺炎, Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - ...--------------------|--|--| | HHV1 | HSV1 | 單純疱疹病毒第一型 | 齦□炎→顏面感覺神經結潛伏 | | | | 10 | | (Herpes simplex virus 1) | →復發齦口炎, 腦炎 (Encephalitis) | | | | HHV2 | HSV2 | 單純疱疹病毒第二型 | 生殖器疱疹→腰,尾椎感覺神經結潛伏 | | | | | | (Herpes simplex virus 2) | s 2) →復發生殖器疱疹 | | | | HHV3 | HV3 VZV 水痘帶狀疱疹 | | 水痘 (Varicella = chicken pox)→顱, 咽感覺神 | | | | | (Varicella zoster Source: [[sources/med3-book3-ch18|壬、病毒學]].

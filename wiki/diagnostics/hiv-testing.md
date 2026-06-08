@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book4-ch01]]"
 aliases:
   - 'HIV testing (HIV 檢測)'
   - 'HIV testing'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 count。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 count。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch14]]
+- [[sources/med3-book4-ch01]]
 
 ## Key Details From Sources
 
+- \*Anti-phospholipid Ab 的測法有三種,用 ELISA 測是否有對抗 Cardiolipin、β2GP1 的抗體, 或量 Sensitive prothrombin time (DRVVT) 去測是否有 Lupus anticoagulant。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - \*註:由於台灣為肺結核流行區域,因此在台灣單純肺結核並非 AIDS-defined illness,須合併 CD4 99% sensitivity, 感染 1~12 週後才會陽性);只有 ELISA 陽性時,不建議在 Western blot 結果出來前先行告知病患。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - (3) 確認:重複 ELISA 後,再用 Western blot (> 99% specificity,至少看到> 2 個 bands from different HIV genome, Ex. p24, gp41, gp120/160)。急性感染時,也可使用核酸檢測作為診斷依據。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - (4) 實驗室檢查: CBC、肝腎功能、尿液常規。 - a. CD4 count(正常 $600\sim1,500/\text{mm}^3$ ),每年追蹤 $3\sim4$ 次,以評估免疫功能及給予伺機感染的預防性用藥。 - b. HIV RNA 用來監測 HAART 藥物效果,用藥目標是壓制到測不到(目前用 PCR 最少可測到 20~40 copies/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者) Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].

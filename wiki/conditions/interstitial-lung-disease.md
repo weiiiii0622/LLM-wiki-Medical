@@ -9,6 +9,10 @@ sources:
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med3-book1-ch23]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med3-book4-ch02]]"
+  - "[[sources/med3-book4-ch09]]"
 aliases:
   - 'Interstitial lung disease (間質性肺疾病)'
   - 'Interstitial lung disease'
@@ -23,7 +27,7 @@ tags:
 
 ## Summary
 
-限制型通氣障礙與擴散能力下降相關的肺間質疾病群。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+限制型通氣障礙與擴散能力下降相關的肺間質疾病群。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +36,20 @@ tags:
 - [[sources/med3-book1-ch21]]
 - [[sources/med3-book1-ch18]]
 - [[sources/med3-book1-ch23]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch19]]
+- [[sources/med3-book4-ch02]]
+- [[sources/med3-book4-ch09]]
 
 ## Key Details From Sources
 
+- ...| | 不連續斑點(Discrete S.) | Anti-centromere | lcSSc ( C R E ST syn.) | | Nucleolar (dc 硬皮病)(核仁) | | | Anti-Scl 70 | dcSSc (ILD ↑ ) | | | | | Anti-PM/Scl | SSc+ PM (Overlap syn.) | | Cytoplasmic | | Anti-Jo-1 | PM (ILD ↑ *) | | | | | | Anti-smooth muscle | Autoimmune hepatitis | | (細胞質 | ) | | Anti-mitochondrion | Primary biliary cirrhosis | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- \*SSc (Systemic scleroderma) 分 兩 型, 分 別 是 Limited cutaneous SSc (lcSSc)、Diffuse cutaneous SSc (dcSSc)。ILD ↑ (有此抗體的病患,Interstitial lung disease 發生機率增加) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...感。 - c. 呼吸道:鼻、喉、氣管乾;消化道:食道黏膜萎縮、萎縮性胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Extranodal, low grade, marginal zone B cell lymphoma),特別是唾液腺持續腫大、Low C4、合併冷凝蛋白血症等病患;有時會在腫大 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...| Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecitabine (Xeloda)→乳癌,大腸癌 | 手足症候群 (Hand and foot syn.) | | | S | Antimetabolite Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- ...c acid 不需要 Dihydrofolate reductase,就可以一直當作 Thymidylate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、Vitamin B12 以減少毒性。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- (3) **肋膜、肺侵犯**:最常見間質性肺病(以 NSIP、UIP 居多)、還可能以肋膜肺結節(Pleuropulmonary nodules)表現;若發生在肺塵症(Pneumoconiosis)的病患身上,可見廣泛性的結節纖維化,稱為 Caplan's syndrome。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
+- ...慢性活動性肝炎 (chronic active hepatitis) 內 -35 (B) 急性心肌梗塞 (acute myocardial infarction) (C) 急性胰臟炎 (acute pancreatitis) (D) 慢性間質性肺炎 (chronic interstitial pneumonitis) (A) 11. 一位 32 歲女性,主訴容易疲倦多年,即使休息過後仍然感到倦怠, 94(一)專 抱怨全身多處肌肉關節疼痛,並有噁心及食慾不振的情形,沒有失 內 2-40 眠及體重減輕,偶而會感到轉移型的肢體麻木,因為這些不適,病 人四處求醫,已經3年沒有工作。理學檢查沒有關節紅腫、亦無神 經學及其他異常發現,在鑑別診斷中,下列何者較不重要? (A) 安排全身健康檢 Source: [[sources/med3-book4-ch09|辛、其 他]].
 - #### A. 間質性肺疾(ILD)目前分為四大類:已知病因、未知病因、肉芽腫、其他。 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - ...因 | 病名 | | | |-----------------|----------------|-------------------------------------------------------------|--|--| | ILD of known 藥物 | | Bleomycin, Amiodarone, Nitrofurantoin, MTX | | | | etiology | 結締組織病 | Connective tissue dz.: SS, PM, DM 等 | | | | | | Pulmonary hemorrhage syn. : Goodpasture's syn. | | | | | 環境相關 | 塵肺症 (Pneumoconiosis) Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - ...pecific interstitial pneumonia (NSIP), Cryptogenic organizing pneumonia (COP) | | 抽菸相關 | Respiratory bronchiolitis (RB)/ILD, 形態學上稱 Desquamative interstitial pneumonia (DIP) | | 其他 | Lymphoid interstitial pneumonia (LIP), Acute interstitial pneumonia (AIP) | Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].

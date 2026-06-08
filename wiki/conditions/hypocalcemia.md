@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book4-ch19]]"
 aliases:
   - 'Hypocalcemia (低血鈣)'
   - 'Hypocalcemia'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch03]]
+- [[sources/med3-book4-ch19]]
 
 ## Key Details From Sources
 
+- ...: Cisplatin based chemotherapy 是肺癌的標準化療配方。 - (a) 須搭配適量 hydration 及適當利尿以避免腎臟毒性,但儘管各種預防措施,仍 常見病患腎功能慢慢變差。 - (b) 可能導致低血鎂、並伴隨低血鈣等電解質異常。還可能導致四肢未端麻木等神經毒性(glove-and-stocking neuropathy)、聽力受損等。 - (c) 強致吐劑,臨床上以 5-HT3 antagonists: Tropisetron (Navoban®)、Ondansetron (Onzod®),palonosetron (Aloxi) 預防。 - b. Carboplatin: 卵巢癌或肺癌病患腎功能不佳的病患會用 Carboplatin。 - (a Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...------------------| | (C) | 9. 使用 ACE 抑制劑(angiotensin converting enzyme inhibitor)要注意那一種副作用? (A) 高血鈉(Hypernatremia) (B) 低血鈣(Hypocalcemia) (C) 高血鉀(Hyperkalemia) (D) 低血鈉(Hyponatremia) | 95(一)專內 1-18 | | 內具 | 專 考 題 | | | 題 | 目 | | | (A) | 下列何種情況容易造成高血鉀症? 使用 amiloride 利尿劑 使用 amphotericin B 使用 thiazide 利尿劑 使用 trimethoprim 巴特氏(Bartter)症候群 (A) 1+4 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ## 2. 低血鈣 (Total Ca ↑ | 磷排出減少,磷與鈣結合沉積,造成低血鈣 | | 維他命 D 缺乏 | 1 | 1 | ·P | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (2) 症狀:疲倦、肌肉無力,躁動不安,肌肉陣攣(tetany)、抽搐,感覺異常;心電圖 變化為 QT 間期延長, T 波倒立等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].

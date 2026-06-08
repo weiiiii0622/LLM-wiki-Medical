@@ -22,6 +22,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Cardiogenic pulmonary edema (心因性肺水腫)'
   - 'Cardiogenic pulmonary edema'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- ...瘍末期而簽署了安寧緩和醫療意願 105( ) 專 書,希望病危的時候可以放棄急救。3天前,陳老先生出現發燒、 頻尿的情況,而被送往醫院救治,經過醫師的診察確認陳老先生為 尿路感染合併敗血症,陳老先生於住院中因為血壓不穩,經過輸液 治療而導致肺水腫,醫師建議進行氣管插管併用呼吸器治療,以緩 解其肺水腫。此時是否應同意陳老先生接受插管? - (A) 反對,因為陳老先生已經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反對,因為陳老先生為胰臟癌末期,不要再進行過於侵入性的 治療,免得增加其痛苦 - (C) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但本次住院的原因為泌尿道感染合併敗血症,並非不可 治癒的疾病,醫師應該為其插管治療 - (D) Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...CD) 2.8 | 急性腎衰竭 (acute renal | failure) 最主要的死因是那一項? | 97(一)專 | | (11000) 20 | (A) 出血 | (B) 感染 | 醫三-2 | | | (C) 昏迷 | (D) 肺水腫 | | | (D) 29 | . 下列那個尿液診斷指標業 | 対於鑑別診斷 prerenal 或 intrinsic renal 之急 | 97(一)專 | | (-) | 性腎衰竭最有用? | | 醫三-7 | | | (A) urine sodium concentra | ation | | | | (B) urine creatinine to plas | sma creatinine ratio tion | | | | Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 1) acute pulmonary edema 2) severe hyperkalemia 3) uremic pericarditis Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - (A) 肺水腫 (lung edema) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

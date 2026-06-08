@@ -10,6 +10,9 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Urinary tract infection, UTI (泌尿道感染)'
   - 'Urinary tract infection, UTI'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,16 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch03]]
+- [[sources/med3-book4-ch19]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- ...itrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | | Ifosfamide → 肉癌 (Sarcoma) | 出血性膀胱炎 | | | CCNS | | mustards | Melphalan→多發性骨髓瘤 (MM) | | | | CCNS | | Other | Carmustine (BCNU) · Lomustine (CCNU) | 延遲的骨髓抑制 | | | | | 4 4 12 | Doxorubicin→淋巴瘤 (CHOP)、乳癌、肉癌 | | | | | Antitumor | Anthracycline | Idarubicin → Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- | (C) | ()() | 下列何項不是 cyclophosphamide 常見的副作用? (A) 抑制骨髓 (B) 出血性膀胱炎 (C) 周邊神經病變 (D) 噁心嘔吐 | 101(一)專醫三-37 | |-----|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- (1) 烷化劑 (Alkylating agent): Cyclophosphamide (Endoxan® 愛德星) - a. 作用機制:烷化(Alkylating)DNA、與 DNA 結合,進而抑制 DNA 複製;針對 分化快速細胞皆有作用,效果最強、副作用也最大。 - b. 可能造成骨髓抑制、出血性膀胱炎(Hemorrhagic cystitis)、提前停經(premature ovarian failure)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- ...經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反對,因為陳老先生為胰臟癌末期,不要再進行過於侵入性的 治療,免得增加其痛苦 - (C) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但本次住院的原因為泌尿道感染合併敗血症,並非不可 治癒的疾病,醫師應該為其插管治療 - (D) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但只要屬於病危的患者,均應該依醫師法定急救義務而 加以急救 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ## 丁、泌尿道感染 (Urinary Tract Infection, UTI) Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 1. 下泌尿道感染包含 Urethritis、Cystitis、Prostatitis Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 2. 上泌尿道感染包含 Pyelonephritis、Renal abscess Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].

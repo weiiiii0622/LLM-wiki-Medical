@@ -5,6 +5,9 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch11]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch13]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Pericardial effusion (心包膜積液)'
   - 'Pericardial effusion'
@@ -19,14 +22,20 @@ tags:
 
 ## Summary
 
-心包膜腔液體增加，需注意 tamponade 生理。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+心包膜腔液體增加，需注意 tamponade 生理。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch11]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch13]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- e. Pleural or pericardial effusion Source: [[sources/med3-book4-ch13|丁、急性白血病]].
+- 病程相關:癌細胞侵犯肺部、肋膜積水、大量腹水、心包膜積液 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - 3. 心電圖:Low voltage,因為心包膜積液使得心臟位置不固定,所以會有 Electrical alternans(Every other QRS complex has a reduced amplitude alternating with a higher amplitude)。 Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 - (C) 2. 一位 36 歲女性無任何過去病史,因連續 3 日胸痛至急診求診。胸痛於特定姿勢可較緩解。她否認近日有使用藥物或創傷史,但目前有喉嚨痛等感冒症狀。抽血檢查發現 D-dimer 與心肌酶正常,但白血球與發炎指數(hsCRP)均有輕微升高現象。心電圖檢查如下圖所示。心臟超音波檢查顯示心臟收縮功能正常,且無局部室壁活動異常(regional wall motion abnormality),可見少量心包膜積液。其最可能診斷為何? Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 - (C) 大量心包膜積液(massive pericardial effusion) Source: [[sources/med3-book1-ch11|辛、心包疾病]].

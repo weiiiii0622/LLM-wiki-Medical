@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book2-ch16]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch07]]"
 aliases:
   - 'Glucose homeostasis (血糖恆定)'
   - 'Glucose homeostasis'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med3-book2-ch16]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch07]]
 
 ## Key Details From Sources
 
+- (4) Insulin-dependent diabetes mellitus: Tc 細胞攻擊蘭氏小島內的 β 細胞,導致胰島素分泌減少,造成高血糖。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
+- ...| 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】(1) 透過 dextrose solution 補 K,由於 glucose 會刺激 Insulin 分泌,而使 K shift 到細胞內導致昇鉀效果較差。(2) potassium citrate 除了矯正低血鉀,也可順便矯正酸中毒。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...------------------|----------|-------------------| | 葡萄糖酸鈣 (Cal. gluconate 1~2 amp) | 幾分之內 | 使細胞膜電位穩定,避免致命心律不整 | | 胰島素 (Insulin 10 U + D50W 2 amp) | 15-30 分鐘 | 短暫作用,使鉀離子進入細胞內 | | 碳酸根離子 (Sod. bicarbonate) | 15-30 分鐘 | 短暫作用,使鉀離子進入細胞內 | | 利尿劑 (Diuretics) | 30 分鐘 | 使體內鉀總量下降 | | β 2 致效劑 (β 2 agonist) | 30-90 分鐘 | 使鉀離子進入細胞內 | | 陽離子交換樹脂 (Kayexalate/Kal Source: [[sources/med3-book3-ch02|乙、離子平衡]].

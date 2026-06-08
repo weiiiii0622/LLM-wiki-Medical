@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book3-ch12]]"
+  - "[[sources/med3-book4-ch11]]"
 aliases:
   - 'Neisseria meningitidis infection (腦膜炎雙球菌感染)'
   - 'Neisseria meningitidis infection'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-可造成流行性腦膜炎與敗血症，密切接觸者需預防性投藥與通報。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成流行性腦膜炎與敗血症，密切接觸者需預防性投藥與通報。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book3-ch12]]
+- [[sources/med3-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...Coagulation defect | | 實驗室檢查 | Bleeding time (BT) | PT \ aPTT | | 出血處 | 皮膚、黏膜 | 肌肉、關節 (Deep in soft tissue) | | 病灶名稱 | Petechiae, Ecchymosis | Hemarthroses, Hematomas | | 出血時機 | 小切傷,較立即、輕微 | 大手術,較延遲、嚴重 | | | 如:流鼻血、刷牙流血 | 如:血膝、爬山後肌肉內血腫 | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
+- 【詳解】圖片可見 petechiae ( 12 deficiency - (D) liver cirrhosis with hypersplenism Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - D. 腦膜炎雙球菌 (Neisseria meningitidis) 129 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ...| 黴菌性 | 混濁 | 18~30 cm | 20~500 | 淋巴球為主 | Vanco | | Neisseriameningitidis | 100 | | 主要在兒童及年輕人,有群聚病史(軍隊、宿舍),由鼻咽進入,有出血點、斑 (petechiae and purpuric rash) | PCN-S | PCN G | | g | | , , | | PCN-R | Ceftriaxone | | Listeriamonocytogenes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ## D. 腦膜炎雙球菌 (Neisseria meningitidis) Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].

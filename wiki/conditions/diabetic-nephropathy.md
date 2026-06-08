@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book4-ch24]]"
 aliases:
   - 'Diabetic nephropathy (糖尿病腎病變)'
   - 'Diabetic nephropathy'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-糖尿病微血管併發症，可有白蛋白尿與腎功能下降。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+糖尿病微血管併發症，可有白蛋白尿與腎功能下降。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med3-book4-ch24]]
 
 ## Key Details From Sources
 
+- (C) 6.63 歲的王女士有糖尿病腎病變,其家系圖(pedigree)及病人自填的家庭圈(family circle)如下圖。王女士最近因急性腎衰竭併急性呼吸窘迫症候群,住進加護病房並接受氣管插管,經近一週的治療,病情並無明顯改善,必須執行氣管造口術(tracheostomy),醫護人員告知王女士及家屬氣管造口術的需要性。雖然王女士無法說話,但意識清楚,一直搖頭拒絕氣管造口術,除了醫護人員的努力之外,您會認為請那一位家屬去說服最合適? Source: [[sources/med3-book4-ch24|甲、家庭醫業]].
 - #### 4. 糖尿病腎病變 (DM nephropathy): Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...狀階段 | 發病 1.5~2.5 年後,尿液白蛋白量正常,但病理上已出現 | | (Silent stage) | 腎絲球基底膜變厚及間質增加的變化,一般此階段維持 5-15 年 | | 第三階段:微量白蛋白尿期 | 24 小時白蛋白尿 (Albuminuria) 30~300 mg 稱之, | | (Microalbuminuria stage) | 一般至此階段糖尿病已有 6~15 年歷史,常伴隨血壓上升現象 | | 第四階段:明確腎病變階段 | 此時期用一般驗尿試紙即可驗出蛋白尿,尿中白蛋白量大於300 | | (Overt nephropathy) | mg/24hr | | | 此時期病人通常伴隨高血壓,且 GFR 以每年 10 ml/min 之速率下降 | | 第五階段:末期腎病 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - d. 微蛋白尿階段(第三期)如好好治療,微蛋白尿還有機會改善回到上個 stage,如果進入第四期,糖尿病腎病變通常就無法再回頭,而只能逐漸走下坡了(point of no return)。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

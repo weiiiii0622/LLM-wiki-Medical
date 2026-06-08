@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book3-ch12]]"
   - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Streptococcus pneumoniae infection (肺炎鏈球菌感染)'
   - 'Streptococcus pneumoniae infection'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book3-ch12]]
 - [[sources/med3-book3-ch18]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...衝撞,導致針頭插入左 95(二)專 膝關節,引發敗血性關節炎(septic arthritis)。就此案例,何種細菌 內 2-1 感染最有可能? (A) 金黃色葡萄球菌 (Staphylococcus aureus) (B) 肺炎鏈球菌 (Streptococcus pneumoniae) (C) 大腸桿菌 (E. coli) (D) Beta 溶血性鏈球菌 (β-hemolytic Streptococcus) 【詳解】(A) 金黃色葡萄球菌即是表皮菌,另外敗血性關節炎亦最 常見金黃色葡萄球菌。 (B) 29. 下列有關退化性關節炎的治療,何者是最主要的方法? 95(一)專 (A) 服用 glucosamine (B) 減輕退化關節的負擔 内 1-23 (C) 持續服用消炎止痛劑 (D) 浸泡溫泉或溫水 (C) 30 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - C. 肺炎雙球菌 (Streptococcus pneumoniae) 129 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ## C. 肺炎雙球菌 (Streptococcus pneumoniae) Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].

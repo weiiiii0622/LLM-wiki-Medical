@@ -23,6 +23,9 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med3-book4-ch12]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,20 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch07]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch26]]
+- [[sources/med3-book4-ch12]]
 
 ## Key Details From Sources
 
+- (c) Cyclosporine 最常見的副作用包括減低腎臟功能、血壓升高、升高血脂肪濃 度、毛髮過度生長、上臂及腳部刺痛及灼熱感、牙齦增生等。Tacrolimus 常 見的副作用包括腎毒性、腹瀉、誘發糖尿病等。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- ...ietic stem cell transplantation)用來預防移植物反宿主疾病(graft-versus-host disease)的重要免疫抑制劑,下列何者不是 CsA 常見的副作用? (A) hypertension (B) hyperlipidemia (C) hyperglycemia (D) nephrotoxicity | 105(一)專醫三-45 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- (B) 12. 當懷疑有抗磷脂質抗體症候群(antiphospholipid antibody syndrome) 103(ニ)専時,下列的何種檢查最為重要? - (A) C3 及 C4 - (B) prothrombin time 及 activated partial thromboplastin time - (C) ESR 及 CRP - (D) cholesterol 及 triglyceride Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- ...----------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL 異常,只 | | | | | 當一項計算之) | | 腹部肥胖或肥胖 | 腰圍 (cm): | 腰圍 (cm): | BMI ≥ 30 kg/m² 或腰臀比: | | | 男≥ 90 | 男> 102 | 男> 0.9 | | | 女≧ 80 | 女> 88 | 女> 0.85 | | 三酸甘油酯 (TG) | ≥ 150 mg/dL | $\geq$ 150 mg/dL | $\geq$ 150 mg/dL | | 高密度酯蛋白 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- (C) 肥胖與血脂異常、第二型糖尿病、癌症有關 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- ...接因跌倒而產生的疾病。老年人常見的呼吸道疾病應該是以肺部感染為大宗。 | 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 22 mg/dL (B) 85 mg/dL (C) 130 mg/dL (D) 162 mg/dL 【詳解】(D) 當總膽固醇小於 400 mg/dl 時,可以用公式 LDL-C=(TC)-(HDL-C)-(TG/5)=162 mg/dl。 | 104(一)專醫三-61 | | (A) 28. | . 一位 85 歲王先生,患有高血壓、糖尿病多 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- ...i」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- ...人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - (B) 1. 一位 18 歲男性大學新生,一星期前入學體檢報告正常。三天前參加新生盃籃球比賽後關節酸痛,自行購買止痛藥(diclofenac)服用後開始出現小便泡沫與腳腫,故至門診求診。無嘔吐、腹瀉、發燒與頻尿症狀。理學檢查發現:血壓 160/90 mmHg,呼吸速率每分鐘 20下,四肢出現紅疹,雙下肢 4+ 水腫。血液檢查:尿素氮(BUN)52mg/dL、肌酸酐:2.0 mg/dL,白蛋白 1.8 g/dL,白血球 7,000/μL,血色素 10.2 g/dL,膽固醇 320 mg/dL,三酸甘油脂(triglyceride)260mg/dL。尿液檢查:紅血球 2~3 顆/HPF,白血球 3~5 顆/HPF,尿液總蛋白質與肌酸酐比值為 12 g/g Cr。下列何項為最可能的診斷? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...ria) (B) 血尿(hematuria) (C) 腎臟肥大(enlarged kidney) (D) 肌酐上升 | 99(二)專醫三-25 | | (D) | 12. | 下列何者非腎病症候群之臨床特徵? (A) 低白蛋白血症 (B) 高血脂症 (C) 24 小時尿蛋白總量超過 3.5 克 / 1.73 m² (D) 氮血症超過 3 個月 | 99(一)專醫三-25 | | (C) | 13. | 下列何種腎絲球病變與 B 型肝炎病毒感染無關? (A) Membranous glomerulopathy (B) IgA nephropathy (C) Anti-glomerular basement membrane disease (D) Polyarteritis no Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (A) NS 的特點為重度蛋白尿,低白蛋白血症,高血脂症和水腫 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

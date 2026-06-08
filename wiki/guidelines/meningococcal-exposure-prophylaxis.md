@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch12]]"
 aliases:
   - 'Meningococcal exposure prophylaxis (腦膜炎雙球菌暴露後預防)'
   - 'Meningococcal exposure prophylaxis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者
 - [[sources/med3-book3-ch09]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch12]]
 
 ## Key Details From Sources
 
+- | 可誘導 CYP3A4 | Barbiturate, Phenobarbital (抗癲癇藥) | Rifampin ( 抗生素 ) | |------------|-----------------------------------------------------|-----------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- | 可誘導 CYP3A4 | Barbiturate, Phenobarbital (抗癲癇藥) | Rifampin (抗生素) | |------------|-----------------------------------------|--------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- (A) 4. 一位罹患深部靜脈血栓已接受口服 warfarin 治療二個月的患者,INR 102( ) 專 (international normalized ratio) 正控制在理想的範圍時,若再合併 醫三-45 使用下列何種藥物,可能會減弱 warfarin 的藥效? - (A) Rifampin Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - 3. Rifabutin 類似 Rifampin,用於 AIDS 病患的 TB, MAC 感染,因為較少影響抗愛滋病毒藥(PI)代謝。可能導致葡萄膜炎(Uveitis)。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...nia, diabetic foot ulcers); | | | | infections caused by Pseudomonas aeruginosa | | | Cefazolin | E. coli UTI, surgical prophylaxis, | E. coli (7) | | | S. aureus (non-MRSA) bacteremia and endocarditis | S. aureus (46; MRSA) | | Cefoxitin | Intraabdominal infections and pelvic inflammatory disease | Bacteroides fragilis (12) | | Ceftriaxone | pneumo Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...coccus aureus 感染之單獨或合併治 | 95(一)專 | | , | 療,下列那項藥物最不適 | | 內 1-41 | | | (A) Fluoroquinolones | (B) Vancomycin | | | | (C) Rifampin | (D) Linezolid | | | (C) | 18. 血循感染急性骨髓炎的抗 | 菌藥物一般建議之治療時間為幾週? | 94(二)檢 | | | (A) 1~2 | (B) 2~3 | 內 -65 | | | (C) 4~6 | (D) 12~16 | | | | | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

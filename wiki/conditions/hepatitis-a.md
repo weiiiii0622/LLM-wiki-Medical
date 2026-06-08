@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch24]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med3-book4-ch17]]"
 aliases:
   - 'Hepatitis A (A 型肝炎)'
   - 'Hepatitis A'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-HAV 多經糞口傳染，通常急性、自限性。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HAV 多經糞口傳染，通常急性、自限性。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ HAV 多經糞口傳染，通常急性、自限性。 本頁已整合至 `醫(三
 - [[sources/med3-book2-ch24]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch27]]
+- [[sources/med3-book4-ch17]]
 
 ## Key Details From Sources
 
+- ...| 苗 (DTaP-Hib-IPV) | 結合型肺炎鏈球菌疫苗(PVC 13) | 水痘疫苗 (Varicella) | 麻疹腮腺炎德國麻疹混合 | 疫苗 (MMR) | 日本腦炎疫苗(圧)2 | 流歐疫苗 (Influenza)³ | A型肝炎疫苗 (HepA) 4 | 白喉破傷風非細胞性百日 | 咳及不活化小兒麻痺混合 | 疫苗 (DTaP-IPV/Tdap-IPV)6 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- 4. A 型肝炎疫苗 107 年 1 月起之實施對象為民國 106 年 1 月 1 日 ( 含 ) 以後出生,年滿 12 個月以上之幼兒。另包括設籍於 30 個山地鄉、9 個鄰近 山地鄉之平地鄉鎮及金門連江兩縣等原公費A肝疫苗實施地區補接種之學齡前幼兒。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- (A) 18.40 歲陳姓工程師,主訴將受聘到大陸廣州擔任工廠幹部,且至少會在當地工作3年,當地有A型肝炎疫情。因預計6個月後將攜帶懷孕的妻子及一位11個月大的男孩一起前去任職,下列有關A型肝炎疫苗注射的敘述,何者最為正確? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- (A) 3. 減白的血小板 (leucocyte-depleted platelet),可降低藉輸血發生下列 99(二)專 那一種傳染疾病的機率? - (A) Cytomegalovirus - (B) Hepatitis A virus - (C) Human immunodeficiency virus type 1 (HIV-1) - (D) Hepatitis C virus Source: [[sources/med3-book4-ch17|辛、輸血]].
 - ...、流鼻水或結膜炎 ( 畏光、流淚水或眼睛發紅 ) 三種病狀中的一種。 二、實驗室診斷: (一 ) 分離出麻疹病毒,或 (二 ) 急性期與恢復期血清 IgG ≥ 4 倍上升,或 (三 )IgM 抗體陽性。 | 24 小時內 | | 急性病毒性A 型肝炎 | 符合下列臨床病例定義且經實驗室診斷: 一、臨床病例(任一即可) (1)出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服等。 (2) 黃疸或 ALT 上升。 二、實驗室: Anti-HAV IgM 檢驗陽性。 | 24 小時內 | | 腸道出血性大腸桿菌感染症 | 有下列情形任一者: 一、出現疑似症狀,如腹瀉(多為血便)、腹絞痛,可能合併溶血性尿毒症候群或栓塞性血小板減少性紫斑症等。無症狀感染也可能發生。 二、實驗室培養 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...1 週內 | | 肝炎未定型 | 及血清轉胺酶值上升 2.5 倍以上,排除藥物、中毒性肝炎、自體免疫性肝炎、 | | | | 酒精性肝炎、膽道疾病、心血管疾病(如鬱血性心衰竭、休克等),血清學 | | | | 標記 (IgM Anti -HAV、HBsAg、IgM Anti -HBc、Anti -HCV、Anti -HEV) 檢 | | | | 驗項目為陰性。(E 型肝炎檢驗,送疾病管制局確認 )。 | | | 思腺炎 | 符合臨床表徵或實驗室診斷者,即可進行通報: | 1 週內 | | | 一、臨床表徵:出現急性單或雙側腮腺或其他唾液腺疼痛、自限性腫脹持續 | - ~31 1 | | | 2天,且無其他明顯原因者,且高度懷疑由 mumps virus 引起。 | | | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...是壓制到測不到(目前用 PCR 最少可測到 20~40 copies/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者), CCR5 (考慮用 maraviroc 者)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].

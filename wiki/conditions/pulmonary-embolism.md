@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch23]]"
+  - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med3-book4-ch27]]"
 aliases:
   - 'Pulmonary embolism (肺栓塞)'
   - 'Pulmonary embolism'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,15 @@ tags:
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch23]]
+- [[sources/med3-book4-ch12]]
+- [[sources/med3-book4-ch27]]
 
 ## Key Details From Sources
 
+- ...---------------------|--------| | (D) | 2. 一位 30 歲臺灣人左手發生深層靜脈血栓(deep vein thrombosis, DVT), | | | | 回顧其家族史,他的哥哥在 35 歲時死於肺栓塞。下列何者最不可能是這位病人 DVT 發生的原因? | 醫三 -43 | | | (A) protein C deficiency | | | | (B) protein S deficiency | | | | (C) antithrombin III deficiency | | | | (D) factor V Leiden mutation | | | (B) | 3. 在台灣,家族性血栓好發症(thrombophilia)最常 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- 【詳解】肺栓塞會使肺動脈血管阻力上升導致肺高壓,常見症狀包括 dyspnea、pleural pain、tachycardia、syncope(cardiac output 突然 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- 2. 疾病: Deep vein thrombosis, Pulmonary embolism。 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- ...乙檢驗陰性者 10 人,無甲疾病但乙檢驗陽性者 10 人,疾病且乙檢驗陰性者 190 人。則乙檢驗診斷甲疾病之特異性 xcificity ) 為: 0% (B) 80% (C) 90% (D) 95% | 99(二)專醫三-13 | | (pe(A) f(B) †(C) ∮ | 現有的成人預防保健服務比較符合下列那一項週期性健康檢查 riodic health examination)的理念? | 99(一)專醫三-67 | | (A) = (B) = (C) = 3 | 關於流行性感冒(influenza)的敘述,何者錯誤?其症狀常常突然發生,包括頭痛、倦怠、發燒、咳嗽、肌肉酸痛等老年人罹患流行性感冒之後可能引起肺炎而導致死亡抗病毒藥物 oseltamivir(Tamifl Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - 【詳解】考一個 PE 的題目,以下為分級: Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - ...se 才能分解,由肝臟以外的組織分解,可用於肝腦病變患者。 | 101(一)專醫三-12 | | (C) | 16. 一位 60 歲男性病人,端坐時感覺呼吸困難,躺平時即獲得緩解,下列何者為最可能的診斷? (A) 心臟衰竭 (B) 肺梗塞(pulmonary embolism) (C) 肝肺症候群(hepato-pulmonary syndrome) (D) 糖尿病合併酮酸中毒(diabetic ketoacidosis) 【詳解】(C) 肝肺症候群會產生 shunt 導致低血氧,這些 shunt 在肺底部較多,站著的時候較多血流經 shunt,低血氧較嚴重。 | 99(一)專醫三-16 | | (D) | 17. 一位 50 歲男性因為 B 型肝炎相關肝硬化合併大量腹水住院治療,經利尿劑及幾次大量腹水放液 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - 1. Active cancer, Immobilization, Bed rest > 3d or major surgery within 4wks →題目喜歡出癌症病人術後喘,一定要想到肺血管栓塞。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].

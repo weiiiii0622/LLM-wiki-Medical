@@ -8,6 +8,12 @@ sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch19]]"
   - "[[sources/med3-book2-ch21]]"
+  - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med3-book4-ch23]]"
+  - "[[sources/med3-book4-ch25]]"
 aliases:
   - 'Pancreatic cancer (胰臟癌)'
   - 'Pancreatic cancer'
@@ -22,7 +28,7 @@ tags:
 
 ## Summary
 
-胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +36,25 @@ tags:
 - [[sources/med3-book2-ch08]]
 - [[sources/med3-book2-ch19]]
 - [[sources/med3-book2-ch21]]
+- [[sources/med3-book4-ch18]]
+- [[sources/med3-book4-ch19]]
+- [[sources/med3-book4-ch28]]
+- [[sources/med3-book4-ch21]]
+- [[sources/med3-book4-ch23]]
+- [[sources/med3-book4-ch25]]
 
 ## Key Details From Sources
 
+- | 前腸 (Pre-gut) → CK7(+) | 其他 | 後腸 (Hindgut) → CK20(+) | |-----------------------------------|-------------------------------------------|------------------------| | CK7(+)CK20(-)甲狀腺、肺腺癌、女性癌症 | CK7(+)CK20(+)泌尿上皮癌、卵巢黏液性腺癌胰臟癌、膽管癌 | CK7(-)CK20(+)大腸癌 | | (乳、子宮內膜、子宮頸癌) | CK7(-)CK20(-) | | | 胰臟癌、膽管癌 | 頭頸部鱗狀細胞癌肺小細胞、鱗狀細胞癌、肝、腎細胞癌 | | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- 記憶: CK7, 20 看腺癌; CK7(-)CK20(-)→頭頸部鱗狀細胞癌、肺小細胞、鱗狀細胞癌、肝、腎細胞癌前腸 CK7→想上半身器官+女性癌症→甲狀腺、肺腺癌;女性癌症(乳、子宮內膜、子宮頸癌) CK7(+)CK20(+)→想位於身體中間器官→胰臟癌、膽管癌;泌尿上皮癌、卵巢黏液性腺癌後腸 CK20(+)→想下半身器官→大腸癌 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- | (C) | 1. 有關「血清 CA19-9 值」於胰臟癌(pancreatic ductal adenocarcinoma)診療上的敘述,何者正確? (A)「血清 CA19-9 值的升高」是診斷胰臟癌的必要條件 (B)「血清 CA19-9 值的升高」建議使用於胰臟癌的篩檢(screening) (C)「手術前血清中 CA19-9 值」與病患胰臟癌的期別(stage)具相關性 (D)「手術後血清中 CA19-9 值」與病患的預後無關 | 108(一)專醫三-35 | |-----|------ Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- ...d foot syn.) | | | S | Antimetabolite | | Cytarabine (Ara-C) → AML (I3A7) | 小腦運動失調、角膜炎 | | | | | | Gemcitabine (Gemzar)→胰臟癌,肺癌 | 似感冒症狀 (Flu-like symptoms) | | | | | | Hydroxyurea →慢性骨髓增生病變 (CMPD) | | | | | | Purine | 6-Mercaptopurine(6MP) → ALL(Maintance) | 與 xanthine oxidase* 併用須減量 | | | | | 1 dime | Fludarabine → CLL, Follicular lymphoma | Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- ...juctivitis)、小腦性共濟 失調(Cerebellar ataxia),所以注射 High dose Ara-C 的病患會每兩個小時點類固 醇眼藥水、經常詢問走路是否正常。 - (2) Gemcitabine (Gemzar®) →胰臟癌,肺癌 - a. 為胞嘧啶延伸物(cytosine derivatives),也會轉成 CTP 類似物,抑制 DNA 複製。 與 Cytarabine 不同的是,Gemcitabine 還能治療固體腫瘤,且較少骨髓抑制外的 副作用。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- ...,經過輸液 治療而導致肺水腫,醫師建議進行氣管插管併用呼吸器治療,以緩 解其肺水腫。此時是否應同意陳老先生接受插管? - (A) 反對,因為陳老先生已經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反對,因為陳老先生為胰臟癌末期,不要再進行過於侵入性的 治療,免得增加其痛苦 - (C) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但本次住院的原因為泌尿道感染合併敗血症,並非不可 治癒的疾病,醫師應該為其插管治療 - (D) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但只要屬於病危的患者,均應該依醫師法定急救義務而 加以急救 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- (B) 12.72 歲的王教授罹患胰臟癌末期,他瘦弱、嚴重黃疸,無法進食,更無法成眠,每天受劇烈腹痛與全身酸痛所折磨,他簽了 DNR,等著解脫,這一週來,王教授更多次哀求您,讓他早點離開人間,下列何種處置適當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- ...「腫瘤相關性血糖過低症」(tumorassociated hypoglycemia)? (A) 肝癌(hepatoma) (B) 纖維肉瘤(fibrosarcoma) (C) 血管外皮細胞瘤(hemangiopericytoma) (D) 胰臟癌(adenocarcinoma of pancreas) 【詳解】血糖過低和(1) Mesenchymal tumor (包括 HCC、hemangiopericytoma)、(2) Sarcoma 有關,至於(D) 胰臟癌屬於表皮來源的 carcinoma,所以不會。 | 94(二)檢內-49 | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- (D) 11. 以免疫組織化學染色法檢查發現某一轉移性癌症之細胞為 Cytokeratin 95( 二 ) 專 20 陰性,Cytokeratin 7 陽性 ( CK 20 / CK 7 ),則這癌症可能是源自於: 內 1-27 - (A) 大腸癌 - (B) 胰臟癌 - (C) 膀胱移型上皮癌 - (D) 肺癌 Source: [[sources/med3-book4-ch23|己、其 他]].
+- (B) 9. 下列有關吸煙之敘述,何者錯誤? - (A) 吸煙者相較於未吸煙者,罹患胰臟癌與膀胱癌之風險較高 Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - (A) 1. 關於胰臟癌的敘述,下列何者正確? Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 - (A) 抽菸是胰臟癌的重要危險因子,約有 20~25%的胰臟癌與抽菸 有關 醫三-21 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 - (B) 大約有 80% 以上的胰臟癌有遺傳傾向,如 germline mutations: STK11 gene、BRCA2、p16/CDKN2A、PALB2 等 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].

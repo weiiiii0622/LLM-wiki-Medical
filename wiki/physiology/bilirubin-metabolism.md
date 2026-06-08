@@ -15,6 +15,7 @@ sources:
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book4-ch10]]"
 aliases:
   - 'Bilirubin metabolism (膽紅素代謝)'
   - 'Bilirubin metabolism'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med3-book2-ch22]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch18]]
+- [[sources/med3-book4-ch10]]
 
 ## Key Details From Sources
 
+- (C) 8. 一位 65 歲男性主訴倦怠、無力,手腳有刺痛感。身體檢查發現臉 色蒼白,有輕微黃疸,舌頭表面平滑,味蕾萎縮;神經學檢查顯示 對振動(vibration)的感覺變差。血液檢查顯示血紅素 7.2 gm/dL, 平均紅血球體積 110 fL,網狀紅血球 1.1%,白血球 2,780/μL,分類 正常,血小板 98,000/uL;全膽紅素 (bilirubin) 2.3 mg/dL, 直接型 0.5 mg/dL, AST 52 U/L(正常 0~37), ALT 38 U/L(正常 0~41), LDH 780 IU/L (正常 140~271)。這位病人最可能的診斷為? Source: [[sources/med3-book4-ch10|甲、貧血]].
+- ...血 (D)缺鐵性貧血 | 101(一)專醫三-33 | | | (A) | | 下列有關惡性貧血(pernicious anemia)病人的敘述,何者錯誤? (A) 由於 Vit B 12 攝取不足造成 (B) 網狀紅血球降低 (C) 間接膽紅素(indirect bilirubin)升高 (D) 可出現神經學症狀 【詳解】(A) 病人有自體抗體攻擊 Intrinsic factor 或 parietal cell,導致 Vit B 12 不足,稱作惡性貧血(Pernicious anemia)。 | 101(一)專醫三-34 | | | (B) | 24. | 下列何者不是陣發性夜間血色素尿(paroxysmal nocturnal hemoglo-binuria)的特徵? Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (5) 預防: Conjugated capsular polysaccharide-protein vaccine:可用來預防感染,應而需於 2、4、6、15 個月大時施打。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (C) 4. 八八水災造成屏東低窪地區嚴重淹水,十天後,該地區有位 50 歲男性發生急性高燒 38.5℃、頭痛、肌肉酸痛,週邊血白血球為17,000/μL, 血小板120,000/μL, GOT:150 U/L 及 GPT:162 U/L,總膽紅素(total bilirubin):4.1 mg/dL;血清肌酸酐(serum creatinine):3.2 mg/dL。下列何種抗生素為最適當之治療選擇? - (A) amikacin - (B) ciprofloxacin - (C) crystal penicillin G - (D) vancomycin Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (D) 3. 20 歲男性大學生,主訴持續發燒 10 天,合併頭痛、肌肉疼痛及咽喉疼痛。家人、同學或朋友無類似症狀。身體診查有頸部和鼠蹊淋巴腺腫大及軀幹皮膚有斑丘疹。周邊血白血球 4,200/mL,白血球分類:多核型球 35%、淋巴球 45%、單核球 15% 及非典型淋巴球 5%。GOT:56 U/L,GPT:60 U/L,總膽紅素(total bilirubin):1.0 mg/dL。請問最不需要選擇下列何種檢驗? Source: [[sources/med3-book3-ch18|壬、病毒學]].

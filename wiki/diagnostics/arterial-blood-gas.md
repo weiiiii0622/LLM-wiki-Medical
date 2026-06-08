@@ -20,6 +20,10 @@ sources:
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med3-book4-ch05]]"
+  - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med3-book4-ch18]]"
 aliases:
   - 'Arterial blood gas, ABG (動脈血氣)'
   - 'Arterial blood gas, ABG'
@@ -34,7 +38,7 @@ tags:
 
 ## Summary
 
-評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +58,18 @@ tags:
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch27]]
+- [[sources/med3-book4-ch05]]
+- [[sources/med3-book4-ch07]]
+- [[sources/med3-book4-ch18]]
 
 ## Key Details From Sources
 
+- (C) 此篇論文是屬於綜合分析的研究 (meta-analysis) Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- (C) 統合分析 (meta-analysis) Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- (D) Juxta-articular osteoporosis Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
+- | (B) | 2. 下列有關自體免疫疾病— HLA 的配對中,何者相關性最高? (A) systemic lupus erythematosus — HLA-A8 (B) rheumatoid arthritis — HLA-DR4 (C) Behçet's disease — HLA-C51 (D) chronic active hepatitis — HLA-B27 | 103(一)專醫三-41 | |-----|----------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
+- (D) Helicobacter pylori: gastric mucosa-associated lymphoid tissue (MALT) lymphoma Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - (B) 5. 承上題,在急診處對該病人的處置,下列何者最為適當? 106(一)專 (A) 腦部電腦斷層攝影,並給予口服 kayexalate 60 mg 醫三-65 (B) 尿液渗透壓測定,並給予 0.9% NaCl (C) 動脈血氣體分析,並作血液的細菌培養 - (D) 腦脊髓液檢查, 並給予 5% 葡萄糖溶液, 加入 5 單位的短效胰 島素 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - B. 荷爾蒙 - 1. 胰島素 - 2. β2-Adrenergic agonists (endogenous or exogenous) - 3. a-Adrenergic antagonists Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (D) 1. 一名 35 歲女性因夜尿(nocturia)就診,身體檢查:血壓 150/94 mmHg,脈搏 78/min,其它檢查無異常。實驗室檢驗:blood urea nitrogen 15 mg/dL,creatinine 1.0 mg/dL,空腹血糖 97 mg/dL,血鈉 142 mmol/L,血鉀 2.8 mmol/L,血氯 90 mmol/L,尿沉渣正常,尿 鉀排泄量 50 mmol/day,動脈氣體 pH 7.45,[HCO3¯] 30 mmol/L,PaCO2 44 mmHg,則本病人最可能罹患? Source: [[sources/med3-book3-ch02|乙、離子平衡]].

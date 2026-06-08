@@ -20,6 +20,9 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med3-book4-ch08]]"
+  - "[[sources/med3-book4-ch20]]"
 aliases:
   - 'Anti-tuberculosis drugs (抗結核藥物)'
   - 'Anti-tuberculosis drugs'
@@ -34,7 +37,7 @@ tags:
 
 ## Summary
 
-結核病治療核心藥物組合，需注意副作用與療程。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+結核病治療核心藥物組合，需注意副作用與療程。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +57,17 @@ tags:
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch12]]
+- [[sources/med3-book4-ch08]]
+- [[sources/med3-book4-ch20]]
 
 ## Key Details From Sources
 
+- | 可誘導 CYP3A4 | Barbiturate, Phenobarbital (抗癲癇藥) | Rifampin ( 抗生素 ) | |------------|-----------------------------------------------------|-----------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- | 可誘導 CYP3A4 | Barbiturate, Phenobarbital (抗癲癇藥) | Rifampin (抗生素) | |------------|-----------------------------------------|--------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- (A) 4. 一位罹患深部靜脈血栓已接受口服 warfarin 治療二個月的患者,INR 102( ) 專 (international normalized ratio) 正控制在理想的範圍時,若再合併 醫三-45 使用下列何種藥物,可能會減弱 warfarin 的藥效? - (A) Rifampin Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- ...s)的敘述,下列何者正確? (A) 活化的 CD8+T 淋巴球(CD8+T lymphocytes)可分化成可分泌細胞激素的 TH1 或 TH2 細胞(cytokine-producing TH1 or TH2 cells) (B) 宿主對抗結核菌感染,CD4+T 淋巴球(CD4+T lymphocytes)的活化和增生是最重要的 (C) TH1 細胞(TH1 cells)主要製造的細胞激素為干擾素(IFN-γ)以及介白質 4 和 5(interleukin-4 and interleukin-5) (D) TH2 細胞(TH2 cells)主要製造介白質 2、10 和 13(interleukin-2, interleukin-10 and interleukin-13) | Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
+- (4) 無法開刀的乳癌: (Ref. Washington p759) - a. ER/PR(+) 可單用荷爾蒙治療。或是合併 CDK4/6 inhibitor 或是 everolimus 等標靶 治療。 - b. 荷爾蒙治療對骨轉移有其角色,而肝等其他內臟轉移需使用化療效果較佳; 腦轉 移則給予適當的放射線治療。 - c. 大部分病患建議單一化療優於多種藥物合併的化療配方。 - d. Trastuzumab (Herceptin):可與荷爾蒙治療或化療併用於 HER2(+) 病患。 - e. Lapatinib (Tyrosine kinase inh. of HER2 & EGFR)、Bevacizumab (Avastin, Anti-VEGF antibody) 合併化療用於乳癌患者有其角色。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - 3. Rifabutin 類似 Rifampin,用於 AIDS 病患的 TB, MAC 感染,因為較少影響抗愛滋病毒藥(PI)代謝。可能導致葡萄膜炎(Uveitis)。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...------|------------------------------------|-----------|---------------|--|--| | 對抗細菌(易→難) | Clindamycin | +β lactamase inh.,Moxifloxacin | Cefoxitin | Metronidazole | | | | Peptostreptococcus | + | + | + | + | | | | Bacteroid fragilis | - | + | + | + | | | | C. difficile colitis | _* | _* | _* | + | | | | 用途 | 咽喉膿瘍(横膈上) | 吸入性肺炎 | 腹腔內混合 | 性感 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...ycosides | | 2. Carbapenems(imipenem) | 2. Clindamycin | 2. Cephalosporins | 2. Monobactams | | 3. β-Lactam+β-lactamase inh. | 3. High-dose | 3. Tetracycline | 3. Trimethoprim- | | (Ampicillin+ sulbactam, | antipseudomonal | 4. Vancomycin | sulfamethoxazole | | Ticarcillin+ clavulanic acid, | penicillins | 5. Erythromycin | | | Piperacillin+ Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

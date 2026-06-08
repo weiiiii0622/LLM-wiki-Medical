@@ -23,6 +23,9 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med3-book4-ch05]]"
 aliases:
   - 'Biliary tract (膽道系統)'
   - 'Biliary tract'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,15 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch04]]
+- [[sources/med3-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...Jo-1 | PM (ILD ↑ *) | | | | | | Anti-smooth muscle | Autoimmune hepatitis | | (細胞質 | ) | | Anti-mitochondrion | Primary biliary cirrhosis | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...nt cell arteritis),常與下列何種疾病共同發生? (A) rheumatoid arthritis (B) Sjögren's syndrome (C) polymyalgia rheumatica (D) primary biliary cirrhosis | 104(二)專醫三-35 | Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- ...8 | | (#) | 8. 有關風濕免疫疾病合併眼病變,下列何種組合最正確? (A) 類風濕性關節炎合併葡萄膜炎(uveitis)及全身性紅斑性狼瘡(SLE)合併眼視網膜病變 (B) 類風濕性關節炎合併鞏膜炎(scleritis)及原發性膽道硬化症合併乾燥症(Sjögren's syndrome) (C) 僵直性脊椎炎合併後房葡萄膜炎(posterior uveitis)及 SLE 合併視網膜病變 (D) 乾癬性關節炎合併鞏膜炎及僵直性脊椎炎合併前房葡萄膜炎(anterior uveitis) 【詳解】本題答(B) 或(D) 或(BD) 者均給分。 | 104(一)專醫三-42 | | (D) | 9. 超音波最適合用來診斷下列何種肌肉骨骼疾病? (A) metastati Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - ...炎,猩紅熱,風濕熱,腎炎 | | B群鏈球菌 | 無乳鏈球菌 | S. agalactiae | β | 陰道 | | 新生兒敗血症,腦膜炎 | | D群鏈球菌 | 腸球菌 | E. faecalis | αβγ | 腸道,泌尿道 | | 膽道,泌尿道→心內膜炎 | | | 牛鏈球菌 | S. bovis | γ | 7 | 莢膜 | 大腸惡性腫瘤 | | 草綠色鏈球菌 | 突變鏈球菌 | S. mutans | α | 牙齦 | Dextran | 牙菌斑→亞急性心內膜炎 | | 肺炎雙球菌 | 肺炎鏈球菌 | S. pneumoniae | α | 呼吸道 | 多醣莢膜 | 肺炎 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...s, GBS): 導致疾病: 主要存在人類陰道。新生兒敗血症、腦膜炎: 乃因經過產道時感染所致。 - 3. 糞腸球菌 (Enterococcus faecalis) => D 群鏈球菌 (Group D streptococcus): 引起膽道、 泌尿道感染,常引起院內感染。當腸道、尿道接受侵入性檢查時,此菌可能因此進入血中,瓣膜有壞損的人,就可能因此感染心內膜炎。治療: Ampicillin+ Gentamicin。 - 4. 牛鏈球菌 (S. bovis) => D 群鏈球菌 (Group D streptococcus): 與大腸惡性腫瘤有關。 - 5. 突變鏈球菌 (S. mutans) => 草綠色鏈球菌 (Viridans streptococci): 牙齦的正常 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (3) 傷寒沙門桿菌 (Salmonella typhi) 如 S. typhi, S. paratyphi - a. 此菌只存在於人身上,會存在帶原者的膽囊中。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

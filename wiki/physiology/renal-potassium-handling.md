@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch20]]"
+  - "[[sources/med3-book4-ch02]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Renal potassium handling (腎臟鉀離子處理)'
   - 'Renal potassium handling'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch20]]
+- [[sources/med3-book4-ch02]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- (3) Cyclosporin (Sandimmune®): 直接抑制 IL2 合成,而減少對 T 細胞的活化,不會有骨髓抑制;常見副作用包括高血壓、高血鉀、高尿酸血症、牙齦肥大 (Gingival hypertrophy) 等。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
+- ...生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - 2. 診斷出代謝性鹼中毒要想想看是不是病人體液不足?是不是過度利尿劑使用?是不是有低血鉀或 hyperaldosteronism ?診斷出代謝性酸中毒後,是否有進一步算陰離子間隙,再分別找出其原因進行治療。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...酸中毒 (Renal tubular acidosis, RTA): 哪些問題會造成腎小管受傷? - a. Type 1 RTA (distal RTA): 自體免疫 (Sjögren syn) 造成遠段腎小管破壞→無法排 H+造成酸中毒、低血鉀; 尿中 H+ ↓→尿 NH4+ ↓ (UAG > 0)、尿 pH > 5.3 - b. Type 2 RTA (proximal RTA):蛋白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ## Hypo RAS →留鉀留氫→高血鉀(Renal gain)、酸中毒(Type IV RTA)鑑別診斷時需用 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

@@ -20,6 +20,7 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch19]]"
 aliases:
   - 'Cardiac biomarkers (心肌酵素)'
   - 'Cardiac biomarkers'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch19]]
 
 ## Key Details From Sources
 
+- ...性、發泡劑(熱敷) | | | M | Antimitotic | | Vinorelbine(Navelbine) →肺癌 | 便秘 | | | | | ⊖解聚 | | 神經毒性、過敏;Doce.(水腫) | | | G1 | Bac. Enzyme | | | 胰臟炎、凝血病變 | | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (D) 8. 一位 88 歲男性有攝護腺肥大病史,主訴近半年來體能衰退很多,身 體虛弱,3個月前曾因近乎昏厥(near syncope)送至急診處,心跳 較慢約 58/min,規則,抽血發現 Na+ 124 mmol/L,Troponin I + 104 mmol/L,其他生化檢查: Cr 1.0 mg/dL , BUN 15.3 mg/dL , K+ 5.4 mmol/L , Ca2+ 2.07 mmol/L , albumin 4.7 g/dL, blood sugar 113 mg/dL。下列敘述何者錯誤? - (A) 此病人住院時 serum osmolality 為 248 mOsmol/kg H2O, urine osmolality 為 369 mOsmo Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...------------------------------------------------------|------------------| | (C) | 9. 使用 ACE 抑制劑(angiotensin converting enzyme inhibitor)要注意那一種副作用? (A) 高血鈉(Hypernatremia) (B) 低血鈣(Hypocalcemia) (C) 高血鉀(Hyperkalemia) (D) 低血鈉(Hyponatremia) | 95(一)專內 1-18 | | 內具 | 專 考 題 | | | 題 | 目 | | | (A) | 下列何種情況容易造成高血鉀症? 使用 amiloride 利尿劑 使用 amphotericin B 使用 t Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...酐為 2.5 mg/dL,應該是第四期 (B) 使用 captopril 可以延緩慢性腎病衰竭的速度,主要是可以增加腎絲球內壓力,提高腎絲球過濾速率 (C) 目前最被研究和腎臟衰竭相關的基因是 angiotensin-converting enzyme。具有 deletion (D) 的同質接合者 (DD),其腎功能比較會進展至衰竭 (D) 有蛋白尿的慢性腎臟病人,血壓的控制目標是在 125/75 mmHg | 101(二)專醫三-28 | | (C) | 13. 下列那一項治療在減緩慢性腎衰竭的進行速率上,沒有效果? (A) 服用 ACEI(Angiotensin converting enzyme inhibitors)或 ARB (Angiotensin receptor bl Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].

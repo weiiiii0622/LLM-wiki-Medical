@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch08]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Sarcoidosis (類肉瘤病)'
   - 'Sarcoidosis'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch08]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- \* 須排除:曾接受過頭頸部放射線治療、病患有 HCV、HIV 感染,病患有 lymphoma、Sarcoidosis、GVHD 或服用 Anticholinergic drugs。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - | 疾病 | PTH | 血磷 | | |---------------|------------|-----|--------------------------------------------| | 副甲狀腺機能亢進(最常見) | ↑ ↑ | ↓ | 80% 腺瘤 (Adenoma);增生 (Hyperplasia) 要考慮有 MEN | | 惡性腫瘤(第二常見) | 1 | 不一定 | 腫瘤轉移直接侵犯骨或分泌 PTH-rP (鱗狀細胞癌) | | 維他命 D 過多 | ↓ | 1 | 肉芽腫病變 (結核或類肉瘤病) | | 藥物 | 不一定 | 不一定 | 以 Thiazide 類利尿劑 ** 最常見、鋰鹽 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...tumors) | | | | of malignancy | Lytic skeletal metastases (breast, myeloma) | | | | Excessive | Granulomatous diseases (sarcoidosis, tuberculosis, silicosis) | | | | 1,25(OH)2D | Lymphomas | | | | production | Vitamin D intoxication | | | | Primary increase in | Hyperthyroidism | | | | bone resorption | Immobilization | | | | Excessive calcium | Mil Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...β lactams、NSAID、馬兜鈴酸等 - ii. 感染(Infection):急性腎盂腎炎(Acute pyelonephritis, APN) - iii. 浸潤型病變 (Infiltrative): 淋巴瘤 (Lymphoma)、類肉瘤 (Sarcoid) - (c) 特徵: - i. 因 Sulfa drug 過敏造成的 AIN,其血中白血球的 Eosinophil 可能會增加。 - ii. 驗 U/R 的鏡檢可見 WBC cast, 乃因間質發炎而有白血球浸潤,由間質至 腎小管經擠壓變形成為 WBC case。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

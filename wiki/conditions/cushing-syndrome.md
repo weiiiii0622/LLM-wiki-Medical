@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Cushing syndrome (庫欣氏症候群)'
   - 'Cushing syndrome'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med3-book2-ch13]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch01]]
+- [[sources/med3-book4-ch21]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- ...----| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syndrome | (D) Pancoast syndrome | | | | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- ...(obesity)之敘述,「 | | 105(一)專 | | | | 增質量指數 (BMI) 大於等於 30 kg/m² | 醫三-57 | | | | 是女性腰圍大於 80 cm,男性大於 90 | | | | cm(C) 肥胖很常見於 Cushing's sy | ndrome | | | | (D) craniopharyngioma 會引發多 | | | | | | 體質量指數(BMI)≥ 27 kg/m²。 | | | (4) 22 | | | 104(二)專 | | (A) 22. | 下列有關老人尿失禁的描述,(A) 80 歲以上女性最常見的尿 | | 醫三-1 | | | (B) 使用利尿劑類的降血壓藥不 | | | | | (C) 使用安眠鎮靜藥不會增加原 | | | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...者不是因鉀離子移入細胞內? | 96(二)專 | | | | (A) 代謝性鹼中毒(metabolic alkalosis) | 醫三-12 | | | | (B) 合成代謝階段(anabolic state) | | | | | (C) 庫欣氏症 (Cushing's syndrome) | | | | | (D) 低血鉀週期性無力症(hypokalemic periodic paralysis) | | | | | 【詳解】Cortisol 有部分的 mineralocorticoid activity,庫欣氏症造成 | | | | | cortisol 上升,藉由增加 mineralocorticoid activity 造成低血鉀。 | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...Hyperplasia, Carcinoma) | | | | | renin | 2. Adrenal enzyme defects (11b or 17a-Hydroxylase deficiency) | | | | | | 3. Cushing's syndrome or disease | | | | | | 4. Other(Licorice, Carbenoxolone, Chewer's tobacco) | | | | Gain-of-function mu | itation o | of renal sodium channel with ECFV expansion, hypertension, | | | | | | nemic-hypoaldosteron Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - B. 庫欣氏症候群 (Cushing's syndrome) 208 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].

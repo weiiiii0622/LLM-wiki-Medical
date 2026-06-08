@@ -19,6 +19,8 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch07]]"
 aliases:
   - 'ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)'
   - 'ACE inhibitors, ACEI'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch04]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch07]]
 
 ## Key Details From Sources
 
+- (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...| | | b. Physical: dermographism, cold, solar | | | c. Autoimmune | | 2. Bradykinin-mediated | Hereditary angioedema · ACEI | | 3. Complement-mediated | Necrotizing vasculitis · Serum sickness · Reactions to blood products | | Nonimmunologic (pseudoallergy, anaphylactoid | a. Direct mast cell - releasing agents (opiates, antibiotics, curare, Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...ludrocortisone 後 TTKG > 10。 - ① Renin 低:考慮因使用 NSAID、β-blockers 抑制 Renin 分泌造成的,糖尿病腎病變也會有 Renin 低的現象。 - ② Renin 偏高: 考慮因使用 ACEI 抑制 Angiotensin 往下轉換成 Aldosterone 造成的,或是腎上腺本身無法分泌 Aldosterone 造成的。 - (ii) Aldosterone 正常或給予 Fludrocortisone 後 TTKG 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...-----------------------------------------------------------------------------|------------------| | (C) | 9. 使用 ACE 抑制劑(angiotensin converting enzyme inhibitor)要注意那一種副作用? (A) 高血鈉(Hypernatremia) (B) 低血鈣(Hypocalcemia) (C) 高血鉀(Hyperkalemia) (D) 低血鈉(Hyponatremia) | 95(一)專內 1-18 | | 內具 | 專 考 題 | | | 題 | 目 | | | (A) | 下列何種情況容易造成高血鉀症? 使用 amiloride 利尿劑 使用 amphotericin B 使用 t Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...mmHg, 腎臟 11 脈搏是 76/min, 她的血鈉是 133 mEq/L, 血鉀是 3.2 mEq/L, 一個 月前的血鈉報告是 140 mEq/L,血鉀是 4 mEq/L。下列哪項可能是 一個月前診所醫師給她服用的藥物? (A) Enalapril (B) Hydrochlorothiazide (C) Furosemide (D) Spironolactone (E) Atenolol 【詳解】Thiazide 還有降血壓的功能, Furosemide 降壓效果不強, 少用來降血壓。 (A) 5. 張先生患愛滋病,此次因咳嗽、氣促住院,身體診查血壓 110/70 96 mmHg, 兩邊下肺有囉音。抽血時 Cr 1.0 mg/dL, K 4.3 mEq/L, 胸腔 腎臟 12 X Source: [[sources/med3-book3-ch02|乙、離子平衡]].

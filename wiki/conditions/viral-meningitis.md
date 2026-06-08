@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch10]]"
 aliases:
   - 'Viral meningitis (病毒性腦膜炎)'
   - 'Viral meningitis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等�
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch10]]
 
 ## Key Details From Sources
 
+- ...| 醫三 -38 | | | (A) human immunodeficiency virus (HIV) | | | | (B) Parvovirus B19 | | | | (C) Coxsackievirus | | | | (D) Enterovirus | | | (A) 2 | D. 陣發性夜間血色素尿(paroxysmal nocturnal hemoglobinuria)的病人發生溶血的原因,是因為紅血球上缺乏何種抗原? | 102(一)專醫三-41 | | | (A) CD55, CD59 | | | | (B) CD16, CD66 | | | | (C) CD15, CD25 | | | | (D) CD11, CD14 | | | | | | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (1) 與正常相比,WBC、Protein 稍高,但葡萄糖正常,考慮病毒性腦膜炎。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ...------------------------|--------------------------------------------------------------------|--|--| | Genital herpes | HSV2 | Acyclovir PO 400 mg tid 1 週或 IV 5 mg/kg q8h | | | | Genital warts | HPV 6, 11 | HPV 6, 11 若有皮膚病灶→局部電燒 | | | | Primary Syphilis | Benzathine PCN 2.4 | Benzathine PCN 2.4MU IM stat 或 Doxycycline 100 mg PO bid 14 天 | | | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].

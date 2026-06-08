@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch11]]"
+  - "[[sources/med3-book4-ch12]]"
 aliases:
   - 'Macrolides (巨環內酯類)'
   - 'Macrolides'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch11]]
+- [[sources/med3-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...--| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- ...----------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...----------|--------------------|-----------------|-------------------------------|--| | 大分類 | 細分類 | 例子 | 臨床上常用於 | | | | Macrolide (肝) | Erythromycin | 非典型肺炎 (Mycoplasma, Chlamydia) | | | | | Azithromycin | HIV 病患的 MAC | | | 抑制 50S 核醣體 | Lincosamide (肝) | Clindamycin | 厭氧菌→橫膈以上的膿瘍 | | | | | | 抑制細菌毒素製造→壞死性筋膜炎 | | | | Oxazolidinones (肝) | Linezolid | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 1. Macrolide 類:如 Erythromycin、較新的 Azithromycin, - (1) Erythromycin: - a. 可抗 GPC (Gram positive coccus、革蘭氏陽性球菌),用來治療對 Penicillin 過敏病患的支氣管炎、咽喉炎、鼻竇炎、中耳炎、軟組織感染等。但無法治療 Haemophilus influenzae,因此經驗性治療上下呼吸道感染不是那麼理想。 - b. 對常見的非典型肺炎有效,如 Legio Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...--|---------------------------------------|-----------------------------------------|--| | N = C = === 1.1114 | 無下列情形 | Clarithromycin, Azithromycin | | | CAP | 無卜列情形3個月內曾使用過抗生素 | | | | CAP | 當地 Macrolide resistance to S.P. > 25% | Moxifloxacin 或 | | | Comorbidity CAP | | Augmentin+ Clarithromycin, Azithromycin | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

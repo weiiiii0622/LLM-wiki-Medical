@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book4-ch15]]"
 aliases:
   - 'Membranous nephropathy (膜性腎病變)'
   - 'Membranous nephropathy'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-成人 nephrotic syndrome 重要原因，需評估原發與繼發病因。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+成人 nephrotic syndrome 重要原因，需評估原發與繼發病因。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch07]]
+- [[sources/med3-book4-ch15]]
 
 ## Key Details From Sources
 
+- (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - (A) membranous nephropathy Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (A) 膜性腎炎 (Membranous glomerulonephritis) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (D) 病理變化和膜性腎病變(membranous nephropathy)相似 【 詳解】(A) 最 嚴 重 是 第 六 型,(B) 第 五 級 以 nephrotic range proteinuria 為主。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

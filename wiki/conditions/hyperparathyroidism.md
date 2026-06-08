@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Hyperparathyroidism (副甲狀腺亢進)'
   - 'Hyperparathyroidism'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch05]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- 2. 危險因子: (Harrison table 327-2) - (1) 年紀大、 - (2) 副甲狀腺亢進、低鎂、低磷、鐵沉積, - (3) 慢性痛風、半月板切除過(Post-meniscectomy)等。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - | Low PTH Levels | Parathyroid agenesis | Isolated | |-------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 疾病 | PTH | 血磷 | | |---------------|------------|-----|--------------------------------------------| | 副甲狀腺機能亢進(最常見) | ↑ ↑ | ↓ | 80% 腺瘤 (Adenoma);增生 (Hyperplasia) 要考慮有 MEN | | 惡性腫瘤(第二常見) | 1 | 不一定 | 腫瘤轉移直接侵犯骨或分泌 PTH-rP (鱗狀細胞癌) | | 維他命 D 過多 | ↓ | 1 | 肉芽腫病變 (結核或類肉瘤病) | | 藥物 | 不一定 | 不一定 | 以 Thiazide 類利尿劑 ** 最常見、鋰鹽 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | Excessive PTH | Primary hyperparathyroidism (adenoma, hyperplasia, rarely carcinoma) | | | |---------------------|----------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].

@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch15]]"
+  - "[[sources/med3-book4-ch04]]"
 aliases:
   - 'Anti-IL-5 antibodies (抗 IL-5 單株抗體)'
   - 'Anti-IL-5 antibodies'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-nonallergic eosinophilic asthma 控制不佳時可考慮。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+nonallergic eosinophilic asthma 控制不佳時可考慮。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch15]]
+- [[sources/med3-book4-ch04]]
 
 ## Key Details From Sources
 
+- (5) 治療: 單用類固醇對大部分病患有效,無效再合併口服 cyclophosphamide, mepolizumab (anti-IL5 單株抗體) 可作為後線治療。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - ...D 2019 改版這部分) | | 重病患的 | Step 5→高劑量 ICS+LABA | 有症狀者 (ACT > 20) →使用 LABA+LAMA | | 維持用藥 | 最後依 phenotype 考慮 LAMA, antiIgE, anti-IL5 等 | 血中 Eso > 300 者→使用 ICS+LABA | | 急性惡化 | LABA) 優於 SABA | MA)、口服或靜脈類固醇物以 low dose ICS-formoterol (fast onset | Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 2. 另一類的路徑與 goblet cell、NKT cell 相關,藉由 TSLP、IL33 等引發 ILC2 細胞與 eosinophil 等過敏反應,這類 nonallergic eosinophil 氣喘通常較為晚發,可能成年才開始, 對類固醇效果不佳,若嚴重控制不佳,可使用 anti-IL5 antibody。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - (2) 評估 phenotype 選擇用藥: - a. 過敏性氣喘(allergic eosinophilc asthma),血中 IgE = 30~1,300 IU/mL:抗 IgE 單株抗體(omalizumab)。 - b. 非過敏性氣喘 (nonallergic eosinophil), 血中 Eosinophil > 300: 抗 IL-5 單株抗體。 - c. Neutrophil asthma:吸入型 LAMA (tiotropium)或口服 macrolide。 Source: [[sources/med3-book1-ch15|乙、氣喘]].

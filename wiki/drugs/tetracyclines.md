@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch13]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Tetracyclines (四環黴素類)'
   - 'Tetracyclines'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch13]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- (3) 可用 Doxycycline 治療。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - 2. 治療: - (1) 患病者:給予第三代頭孢黴素(如 Ceftriaxone 250 mg im for one dose)加上四環黴素(Tetracycline),如此亦可 cover 性病常見的砂眼披衣菌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (A) 3. 一個 3 天大新生兒,雙眼有化膿性分泌物,格蘭氏染色(Gram stain) 104( ) 專 為格蘭氏陰性雙球菌,應選用何種抗生素治療? 醫三-63 - (A) ceftriaxone - (B) erythromycin - (C) oxacillin - (D) tetracycline Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (3) 急性期以 Ceftazidime 治療 2~4 週,需接著以四合一抗生素維持治療 20 週。 (Chloramphenicol, doxycycline, cotrimoxazole, sulfamethoxazole) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

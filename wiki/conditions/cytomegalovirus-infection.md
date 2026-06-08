@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med3-book4-ch17]]"
 aliases:
   - 'Cytomegalovirus infection, CMV (巨細胞病毒感染)'
   - 'Cytomegalovirus infection, CMV'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book3-ch07]]
+- [[sources/med3-book4-ch10]]
+- [[sources/med3-book4-ch17]]
 
 ## Key Details From Sources
 
+- | 分類 | Warm | Cold | |----|---------------------|-------------------------| | 意義 | 於人體溫度時就會攻擊 | 在低溫時才會攻擊 | | 抗體 | IgG 攻擊 RBC 的 Rh 抗原 | IgM 攻擊 RBC 的 C3d, Ii 抗原 | | 病因 | 藥物、感染 (EBV/CMV)、 | 感染 (Mycoplasma) | | | 結締組織病 SLE/RA、HD/CLL | Non-Hodgkin lymphoma | Source: [[sources/med3-book4-ch10|甲、貧血]].
+- (A) 3. 減白的血小板 (leucocyte-depleted platelet),可降低藉輸血發生下列 99(二)專 那一種傳染疾病的機率? - (A) Cytomegalovirus - (B) Hepatitis A virus - (C) Human immunodeficiency virus type 1 (HIV-1) - (D) Hepatitis C virus Source: [[sources/med3-book4-ch17|辛、輸血]].
 - ...十 | 雙股環狀 | 5.7 (3.5) | | HPV →疣; Polyoma vir | us (BK, JC) | | | | 雙股線狀 核內 | | 核內 | 疱疹病毒 (Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长,肝硬化 | | | | 複雜型 | 雙股線狀 | 細胞質 | 痘病毒 (Pox virus) | 天花, 傳染性軟疣 | | | | | 二十面體 | 單股 (+) 無分段 | 細胞質 | 小 RNA 病毒 (Picornavirus) | 小兒麻痺,克沙奇病毒 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - ...增多症 (Infectious mononucleosis) | | | | | | (Epstein-Barr virus) | 伯奇氏淋巴瘤 (Burkitt's lymphoma); 鼻咽癌 (NPC) | | | | HHV5 | CMV | 巨細胞病毒 | 先天感染(TORCH)→孕婦感染,使胎兒畸型,流產 | | | | | (Cytomegalovirus) | | 免疫不全者: 視網膜炎, 肺炎 | | | | HHV6 (Human 人類疱疹病毒第6型 | | 人類疱疹病毒第6型 | 玫瑰疹 (Roseola, Exanthem subitum)[ 典型病史: | | | | herpesvi | rus 6) | In Tables 200 London | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - | 藥 物 | 機制 | 適用於 | |-------------|-------------------|----------------------------------------| | Acyclovir | Guanosine 類似物 | HSV1 · HSV2 · VZV | | Ganciclovir | Guanosine 類似物 | CMV | | Foscarnet | Pyrophosphate 類似物 | 對 Acyclovir 及 Ganciclovir 有抗性的 HSV、CMV | Source: [[sources/med3-book3-ch18|壬、病毒學]].

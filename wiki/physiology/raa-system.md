@@ -19,6 +19,8 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med3-book4-ch03]]"
 aliases:
   - 'Renin-angiotensin-aldosterone system, RAAS (腎素-血管張力素-醛固酮系統)'
   - 'Renin-angiotensin-aldosterone system, RAAS'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-心衰竭與高血壓治療的重要神經荷爾蒙路徑。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭與高血壓治療的重要神經荷爾蒙路徑。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch06]]
+- [[sources/med3-book4-ch26]]
+- [[sources/med3-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...25 | 5. 老化過程中會發生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|--------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...e myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎臟留鉀留氫 - →高血鉀(一般 RTA 的酸中毒會低血鉀,只有 Type 4 RTA 的酸中毒會高血鉀) - →高血鉀造成近端腎小管製造 NH, ↓但腎臟排 H+ 正常 - → $\mathbb{R}$ NH3 ↓→ $\mathbb{R}$ NH4+ ↓→ UAG > 0 但 $\mathbb{R}$ 中 H+ ↑→ $\mathbb{R}$ pH + | 尿中 HCO3 | 病因 | |-----|---------- Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 2. 給生理食鹽水會改善的、Ucl +:嘔吐(Vomiting)、使用鼻胃管引流(gastric aspiration)、Villous adenoma。 - (2) 腎臟流失:先前使用利尿劑造成體液缺乏(Volume depletion),可想成體液缺乏時,Renin angiotensin aldosteron system 啟動,aldosteron 造成留鈉排鉀排氫,導致 H+ loss。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...tion in Na+-Cl- cotransporter in DCT) | | | | ECFV expansion, | High | 1. Renal artery stenosis | | | | hypertension, | renin | 2. Accelerated hypertension | | | | K+ deficiency, and | | 3. Renin-secreting tumor | | | | mineralocorticoid | | 4. Estrogen therapy | | | | excess | Low | 1. Primary aldosteronism (Adenoma, Hyperplasia, Carcinoma) | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

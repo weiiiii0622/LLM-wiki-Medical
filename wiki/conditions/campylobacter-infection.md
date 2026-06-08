@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book4-ch05]]"
 aliases:
   - 'Campylobacter infection (空腸彎曲桿菌感染)'
   - 'Campylobacter infection'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-常見細菌性腸炎原因，可與 Guillain-Barre syndrome 相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見細菌性腸炎原因，可與 Guillain-Barre syndrome 相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med3-book4-ch05]]
 
 ## Key Details From Sources
 
+- (1) 通常發生在感染 1~4 週後,如腸胃道的 Yersinia, Shigella, Salmonella, Yersinia Campylobacter species 感染,或生殖道的 *Chlamydia trachomatis、Ureaplasma urealyticum* 感染等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - ...lla, Salmonella, Shigella | | | | | 彎 弧菌 | Vibrio | V. cholera, V. parahaemolyticus, V. vulnificus | ndv 🛧 | | | 腸道 | 桿 空腸彎曲桿菌 | Campylobacter | C. jejuni | 嗜 章* | | | 桿菌 | 菌幽門螺旋桿菌 | Helicobacter | H. pylori | 1" | | | | 假單胞菌 | Pseudomonas | P. aeruginosa | | | 桿菌(D) | | 類桿菌 | Bacteroid | B. fragilis | 厭氧 | | | 呼吸道桿菌 | 嗜血桿菌 | Haemophilus | H. i Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...pseudomallei | 兼性厭氧 | | | | | 彎 | 弧菌 | Vibrio | V. cholera, V. parahaemolyticus,V. vulnificus | 兼性厭氧 | | | | 腸道桿菌 | 桿 | 空腸彎曲桿菌 | Campylobacter | C. jejuni | 微須氧 | | | | | 菌 | 幽門螺旋桿菌 | Helicobacter | H. pylori | 1成須羊 | | | | | tiel - | | Estarabastaria ana | Escherichia, Klebsiella, | 兼性厭氧 | | | 桿 | | 腸內菌 * | | Enterobacteriaceae | Salmonella, S Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...------------------------|--| | 絕對須氧 | Obligate aerobes | 1.Psuedomonas | Mycobacterium, | | | 微須氧 | Microaerophilic | 2.Campylobacter, Helicobacter | | | | 兼性厭氧 | Facultative anaerobes | 3.Enterobacteriaceae | 大部分的細菌 | | | 絕對厭氧 | Obligate anaerobes | 4.Bacteroides | Actinomyces, Clostridium | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

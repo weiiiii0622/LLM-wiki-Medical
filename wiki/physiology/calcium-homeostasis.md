@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med3-book4-ch22]]"
 aliases:
   - 'Calcium homeostasis (鈣離子恆定)'
   - 'Calcium homeostasis'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch06]]
+- [[sources/med3-book4-ch18]]
+- [[sources/med3-book4-ch22]]
 
 ## Key Details From Sources
 
+- ...Other condition | |------------|------------------|-----------|-----------------------|------------------| | Hormone | Calcitonin | 12 min | 甲狀腺癌 (Medullary ca.) | | | | β -нсс | 18~24 hr | 生殖細胞癌 (GCT), GTD | 懷孕 | | Tumor | PSA | 2~3 d | 前列腺癌 | BPH, Prostatitis | | associated | CA125 | 4~5 d | 卵巢癌 | 月經、腹膜炎 | | protein | CA153 | \*GTD = Gestational Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- (4) Calcitonin:對於需要快速降鈣也有其角色。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - | Low PTH Levels | Parathyroid agenesis | Isolated | |-------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 疾病 | PTH | 血磷 | | |---------------|------------|-----|--------------------------------------------| | 副甲狀腺機能亢進(最常見) | ↑ ↑ | ↓ | 80% 腺瘤 (Adenoma);增生 (Hyperplasia) 要考慮有 MEN | | 惡性腫瘤(第二常見) | 1 | 不一定 | 腫瘤轉移直接侵犯骨或分泌 PTH-rP (鱗狀細胞癌) | | 維他命 D 過多 | ↓ | 1 | 肉芽腫病變 (結核或類肉瘤病) | | 藥物 | 不一定 | 不一定 | 以 Thiazide 類利尿劑 ** 最常見、鋰鹽 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - b. 惡性腫瘤引起的高血鈣症可用 calcitonin 或 bisphosphonate 類藥物。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].

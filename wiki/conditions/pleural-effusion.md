@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch05]]"
+  - "[[sources/med3-book4-ch01]]"
 aliases:
   - 'Pleural effusion (肋膜積液)'
   - 'Pleural effusion'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-肋膜腔液體增加，需區分 transudate 與 exudate。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book1-ch09]]
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch05]]
+- [[sources/med3-book4-ch01]]
 
 ## Key Details From Sources
 
+- 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - #### 3. 各種肋膜積液問題的特徵: Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - (1) Pseudoexudate: (Ref Washington p329) - a. 符合 1~2 項 Light's criteria,但實際上是 Transudate,常見於經利尿劑治療後的心臟衰竭、肝衰竭、腎病症候群病患。 - b. 上述病患的 Serum-pleural fluid albumin gradient > 1.2。 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - (2) Simple parapneumonic effusion: - a. 肺炎合併少量、無菌肋膜積液, pH > 7.2, Glu 1,000 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].

@@ -10,6 +10,10 @@ sources:
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch12]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch15]]"
+  - "[[sources/med3-book4-ch19]]"
 aliases:
   - 'Glomerulus (腎絲球)'
   - 'Glomerulus'
@@ -24,7 +28,7 @@ tags:
 
 ## Summary
 
-腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +38,19 @@ tags:
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book3-ch12]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch15]]
+- [[sources/med3-book4-ch19]]
 
 ## Key Details From Sources
 
+- 6. 血液:(9)Hemolytic anemia ( Coombs' test 陽性 )、Leukopenia ( 一預後佳,不需治療 | | | III. Focal LN | 50% 腎絲球發炎 (Subendo. 免疫物沉積 ) | 一 | | | V. Membranous LN | Subepi. 免疫物沉積 | 若合併發炎,才治療 | | | VI. Advanced Sclerotic LN | 90% 腎絲球硬化,無殘餘發炎反應 | 末期病變,治療無效 | | | Classification of Lupus Nephritis | s (LN) [ISN&RPS, Harrison Table 313-2] | | | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- (2) Class III、Class IV 可見 Subendothelial immune deposits、腎絲球活躍地發炎,須積極以高劑量類固醇+免疫抑制劑(Cyclophosphamide)治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- (4) Class VI 則是 9 成以上的腎絲球皆已硬化(Sclerosis),無殘餘發炎反應,給類固醇已無太大的幫助。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- 94(三)檢 (C) 2. 下列有關混合結締組織病 (mixed connective tissue disease)的描述, 內 -42 何者正確? - (A) 為全身性紅斑性狼瘡+橋本氏甲狀腺炎+慢性活動性肝炎+心 肌炎的綜合病症 - (B) 最具診斷價值的抗體為 anti-ribosomal phosphoprotein 抗體 - (C) 最常見的致死原因為肺高血壓症 (pulmonary arterial hypertension) - (D) 90% 以上的患者會發生瀰漫性增殖性腎絲球腎炎 (diffuse proliferative glomerulonephritis) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
+- 【詳解】神經膠細胞瘤 Glioblastoma multiforme (GBM) 是腦瘤中致死率最高的一種,平均存活期小於 2 年。首次治療以以手術,接續併用化學治療(temozolomide)及放射治療為主要治療方式。Temozolomide 的優點是口服便能達到所需濃度,而缺點則是當 O-6-甲基鳥嘌呤甲基轉移酶(MGMT)表現量上升時,TMZ 所造成的DNA 損傷便會被逆轉,使得腫瘤細胞不會走向死亡。Bevacizumab可用於復發後的病人。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - A. 腎絲球疾病 (Glomerular disease) 72 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ## A. 腎絲球疾病 (Glomerular disease) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (1) 腎絲球的疾病分為兩大類: - a. 腎絲球發炎 (Glomerulonephritis, GN): - (a) 幾天內突然發生的稱作 Acute GN, 幾週內發生的稱作 Rapid progressive GN (RPGN), RPGN 病理特徵為 Crescent formation, 好幾個月才慢慢形成的稱為 Chronic GN (CGN); Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

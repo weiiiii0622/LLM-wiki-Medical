@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book4-ch16]]"
 aliases:
   - 'Nephrotic syndrome (腎病症候群)'
   - 'Nephrotic syndrome'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-大量蛋白尿造成低白蛋白、水腫、高血脂與高凝固狀態。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大量蛋白尿造成低白蛋白、水腫、高血脂與高凝固狀態。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch05]]
+- [[sources/med3-book4-ch16]]
 
 ## Key Details From Sources
 
+- ...),或導致近端腎小管功能受損,即所謂的 Adult Fanconi syndrome(包含 Type 2 RTA),使得無法吸收Glucose 及 Amino acid 等。 - b. Amyloid 或 light chain 沉積造成 nephrotic syndrome。 - (3) 貧血(80%):除了骨髓被侵犯,腫瘤也會分泌造血的抑制因子。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - ...y | | | Primary Na + gain | 1. Heart failure | | | (exceeded by | 2. Hepatic cirrhosis | | | secondary water gain) | 3. Nephrotic syndrome | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】腎病症候群會導致水分 shift 到 third space,故有效血液容 量會減少。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | (C) 23 | 下列何者不會造成血清低離子間隙 (low anion gap)? (A) 鋰鹽中毒 (Lithium intoxication) (B) 腎病症候群 (Nephrotic syndrome) (C) 高血磷症 (Hyperphosphatemia) (D) 高血脂 (Hyperlipidemia) 【詳解】(C) 高血磷症 (Hyperphosphatemia) 為高離子間隙 (high anion gap)。 | 95(二)專內1-21 | |---------|----------------------------------------------------------- Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

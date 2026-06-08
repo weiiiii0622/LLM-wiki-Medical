@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch11]]"
 aliases:
   - 'Acute tubular necrosis, ATN (急性腎小管壞死)'
   - 'Acute tubular necrosis, ATN'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-缺血或腎毒性造成 intrinsic AKI，尿沉渣與 FENa 可輔助判讀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+缺血或腎毒性造成 intrinsic AKI，尿沉渣與 FENa 可輔助判讀。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch11]]
 
 ## Key Details From Sources
 
+- (A) 急性腎小管壞死 (acute tubular necrosis) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...| | $(P_K/P_{osm})$ | 再各以 OSM 校正 | TTKG 1%(尿鈉高),表示尿鈉無法由腎臟回收,可知腎臟功能已受損。一位敗血症的病患一開始可能有腎前性腎衰竭,此時 FENa 20;若敗血症未控制,將導致腎因性腎衰竭(急性腎小管壞死、ATN),此時的 FENa > 1%、血中 BUN/Cr 1 | | Spot | Urine sodium conc.(mmol/L) | 20 | | urine | Urine to plasma urea nitrogen ratio | > 8 尿素能排除 | 40 | 2 O) | > 500 尿能濃縮 | ~300 | | Serum | Plasma BUN/creatinine ratio | > 20 | 1.02 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - #### Intrinsic renal azotemia (Acute tubular necrosis, ATN) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...素阻斷劑 (angiotensin-converting enzyme inhibitors) (C) 含鉑的抗癌製劑(如 cisplatin) (D) 腎素抑制劑 (renin inhibitors) 【詳解】cisplatin 會造成 ATN。 (B) 10.68 歲女性病人,高血壓及糖尿病 10年,兩年前血液肌酸酐 2.0 mg/dL, 104(二)專 五週前血液肌酸酐 7.5 mg/dL。最近 1 週高血壓更嚴重,出現譫妄、 醫三-7 少尿、水腫、呼吸困難、嘔吐。血液肌酸酐 9.6 mg/dL, Na+120 mmol/L, K+5.5 mmol/L, 尿液蛋白質 4+。腎臟超音波左腎長度 9.8 cm,右腎長度 9.6 cm。下列處置何者最正確? (A) 腎臟切片檢查 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

@@ -22,6 +22,10 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch08]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med3-book4-ch14]]"
+  - "[[sources/med3-book4-ch22]]"
 aliases:
   - 'Electrocardiography, ECG (心電圖)'
   - 'Electrocardiography, ECG'
@@ -36,7 +40,7 @@ tags:
 
 ## Summary
 
-心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +62,17 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book3-ch08]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch12]]
+- [[sources/med3-book4-ch14]]
+- [[sources/med3-book4-ch22]]
 
 ## Key Details From Sources
 
+- (A) 6. 一位 32 歲女性病人主訴最近 3 個月手指遇冷水或生氣時膚色便會轉 101(一)專 為蒼白色,同時覺得有些吞嚥困難,且半夜時常胃酸逆流到嘴裡。2 星期前,開始時常乾咳,且稍微運動便覺得喘。下列的檢查,那項 最不必要? - (A) 運動心電圖 - (B) 心臟超音波 - (C) 胸部 X 光 - (D) 肺功能檢查 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (A) 1. 一位 45 歲女教師,主訴半年內逐漸發生運動時氣促,倦怠,胸悶以及昏厥的症狀。身體診察發現頸靜脈壓力上升,可摸到右心室搏動, 且在右側聽到 S4 的心音,胸部 X 光發現肺動脈膨大,下列敘述何者 最適當? - 107(一)專 醫三 -25 - (A) 應檢測 protein C, protein S, antithrombin III 等是否異常 - (B) 心電圖通常可以發現心軸向左偏轉及左心室肥大 - (C) 可以用心臟超音波測量二尖瓣逆流的流速來估計肺動脈的壓力 - (D) 病患肺血管主要的表徵為血管內皮增生,發炎反應增加,以及 血管擴張 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- (D) 9. 一位 58 歲男性,過去無全身性疾病之病史,最近在例行之健康檢查 中發現其血液相如下:血紅素 14.7 g/dL,血比容 46%,白血球數 12,350/µL, 血小板數 725,000/µL。其他生化、心電圖及胸部 X 光 檢查均無異常,病人亦無自述症狀。下列何者是目前對此病人最適 當的治療? Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
+- (C) 1. 一位 70 歲男性淋巴癌病人,分期為 Ann Arbor 第四期,血清 LDH 值 102( 二 ) 專 6,500 U/L (正常 (A) PR 波間距縮短(B) QT 波間距縮短(C) 心房震顫(D) 高聳的 T 波 | 醫三 -44 | | (B) | 7. 承上題,該病患之處置,下列何者較適當? (A) 立即給予靜脈注射 50% 葡萄糖 (B) 補充水分,並給予利尿劑 (C) 注射鈣離子 (D) 給予佳力美粉(Kalimate) | 97(二)專醫三-45 | | (C) | 8. 一位 70 歲胃癌男性因為突然下半身癱瘓(paraplegia)來急診就醫。發病前一個月開始出現下背痛。X 光檢查發現 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - ...; 電解質 (單位 mmol/L): Na 140, | | | | | K 2.3, Cl 112, Ca 2.25。對於此病人的進一步診斷,下列那個處置最 | | | | | 合適? | | | | | (A) 動脈血氣體分析 (B) 心電圖 (C) 胸部 X 光檢查 (D) 肌電圖 | | | (D) | 10. | 下列選項何者不是 Gitelman's syndrome 的特徵? | 100(二)專 | | | | (A) 低血鉀 (B) 代謝性鹼中毒 (C) 低血鎂 (D) 高尿鈣 | 醫三-26 | | | | 【詳解】G i telman's syndrome 為類似使用 Th i azide,造成高血鈣、 | | | | | 低尿鈣。 | | | (B) | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...---------------------|-------------------------------------------------------| | $K = 3\sim5 \text{ mEq/L}$ | ALA | 正常的 EKG | | K = 7 mEq/L | 1/1/ | T 波變高(Tent T wave)PR 延長 | | K = 8-9 mEq/L | \\\\\ | P 波變平,甚至 Sinus arrestQRS 變寬 | | K > 10 mEq/L | | Sine wave Cardiac standstill Ventricular fibrillation | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 口訣 | 高血鉀 | 低血鉀 | |---------|-----------------------------------|---------------| | 鉀使 T 高 | 高T波 | T 波消失,而出現 U 波 | | 前/後半部延長 | PR 延長、QRS 變寬QT 縮短連成 Sine wave | QT 延長 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].

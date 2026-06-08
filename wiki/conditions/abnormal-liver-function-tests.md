@@ -23,6 +23,10 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med3-book4-ch09]]"
+  - "[[sources/med3-book4-ch14]]"
 aliases:
   - 'Abnormal liver function tests (肝功能異常)'
   - 'Abnormal liver function tests'
@@ -37,7 +41,7 @@ tags:
 
 ## Summary
 
-肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +64,20 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch18]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch10]]
+- [[sources/med3-book4-ch09]]
+- [[sources/med3-book4-ch14]]
 
 ## Key Details From Sources
 
+- (1) 多肌炎 (Polymyositis, PM): 4 個都符合。 - a. 近端肌肉無力 (Proximal muscle weakness)。 - b. 肌肉酵素如 AST, ALT, aldolase, LDH and **CK** 值上升(Elevated serum creatine kinase level)。 - c. **肌電圖**表現肌肉病變(short-duration, polyphasic motor unit potentials with spontaneous fibrillation potentials)。 - d. 病理切片符合發炎性肌炎 (inflammatory infiltration or active regeneration may be seen)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (A) 5. 一位 42 歲女性最近二週覺得起床相當困難,必須以兩手支撐才能爬起。另外,前額、手背及指間關節的皮膚有紅斑出現(如附圖)。右肩膀的肌肉也無力,無法上舉。有時會發燒達 38.5℃左右。抽血發現 ANA 1: 160X speckled pattern, AST 37 U/L, ALT 86 U/L, CK 2,784 U/L。下列何者為最可能的診斷? Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (A) 7. 一位 54 歲的女性,早晨起床困難有三週之久,身體檢查發現除兩腿無力之外,右臂上舉也有困難。但是兩手的握力正常。吞嚥時偶會 嗆到。實驗室檢查發現 AST 75 U/L, ALT 14 U/L, ANA 1:80(+) speckled, CK 805 U/L (MB form 635 μg/L), IgG 1,720 mg/ml, IgA 354 mg/ml, IgM 213 mg/ml, ESR 34 mm/lh, 78 mm/2h, CRP 0.76 mg/ml。這位患者最可能的診斷是: Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (C) 8. 一位 65 歲男性主訴倦怠、無力,手腳有刺痛感。身體檢查發現臉 色蒼白,有輕微黃疸,舌頭表面平滑,味蕾萎縮;神經學檢查顯示 對振動(vibration)的感覺變差。血液檢查顯示血紅素 7.2 gm/dL, 平均紅血球體積 110 fL,網狀紅血球 1.1%,白血球 2,780/μL,分類 正常,血小板 98,000/uL;全膽紅素 (bilirubin) 2.3 mg/dL, 直接型 0.5 mg/dL, AST 52 U/L(正常 0~37), ALT 38 U/L(正常 0~41), LDH 780 IU/L (正常 140~271)。這位病人最可能的診斷為? Source: [[sources/med3-book4-ch10|甲、貧血]].
+- ...兩側多個不足一公分大小淋巴結、無肝脾腫大,下肢出現無癢紅色細小斑點;末梢血檢查結果顯示: WBC 1,280/μL, N/L/Mo = 5/94/1, Hb 7.5 gm/dL, MCV 86 fL, Platelet 8,000/μL, ALT 42 U/L, T. Bil 0.6 mg/dL, Cr 1.1 mg/dL, Alb 3.7 g/dL。下列何種檢驗最有利於正確診斷? (A) 淋巴結切片(biopsy) (B) 正子造影(positron emission tomography, PET) (C) 骨髓切片 (D) 血液培養(blood culture) | 105(一)專醫三-44 | | (C) | 11. 一位 24 歲病人被發現有血紅蛋白 H 疾病(hem Source: [[sources/med3-book4-ch10|甲、貧血]].
+- ...節痛及鮭魚色的皮疹發生,發燒通常只歷數小時而後自動退燒,這種發作有時會持續二個月之久,不發作時則與常人無異,本次住院的理學檢查發現有肝、脾腫大,抽血檢查發現 WBC 12,800/μL,ESR 42 mm/lh,CRP 2.48 mg/L,AST 42 U/L,ALT 48 U/L,ferritin 11,280 ng/mL,ANA 及類風濕因子(rheumatoid factors)均為陰性,血液及尿液的三套培養包括細菌及黴菌均無,又常見的病毒抗體均在正常範圍內,則最可能的診斷為何? - (A) Dengue fever - (B) Adult-onset Still's disease - (C) Plasmodium falciparum infestation - (D Source: [[sources/med3-book4-ch09|辛、其 他]].
+- ...50.75%,eosinophil 2.75%,basophil 4.5%,monocyte 1.5%,lymphocyte 12.25%,血小板 319,000/mm³,白血球鹼性磷酸酶(LAP)活性 28,LDH 1,148 U/L,AST 50 U/L,ALT 23 U/L。下列何項檢查對診斷此男士白血球過多症的原因最有幫助? - (A) Uric acid - (B) Hepatitis B and C serology - (C) X-ray of the right big toe - (D) Bone marrow chromosome analysis Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - ...位 30 歲喜好爬山的男子,無任何潛在疾病,出現不明原因發燒 7 天,於診所處方服用 Amoxicillin 無效。到急診求診,給予抽血檢查發現 WBC: 11,000/mm³,Neutrophil/lymphocyte: 55%/45%,AST: 178 U/L,ALT: 145 U/L,理學檢查有粟狀紅斑及 0.5 cm 圓形疤痕位於陰莖上(如圖),診斷最可能為何? | 100(二)專醫三-37 | | | (A) Primary syphilis (B) Scrub typhus (C) Cutaneous anthrax (D) Staphylococcus aureus infection | ·圖請見 274 頁) | | (C) | 9. 下列有關恙蟲病的敘述,何 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (A) 10. 25 歲女性病患,平時身體健康狀況良好。主訴為期約一週的發高燒、頭痛、咽喉腫痛、右腋窩淋巴腺腫(lymphadenopathy)。她在發病前一週左右,曾至台東山區旅遊。住院檢查發現右乳房下有一直徑0.5 公分大的焦痂(eschar)、血小板低下、肝功能異常。下列敘述,何者是對的? Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (#) 4. 一位 55 歲男性這兩天意識變化被送至急診處。病人一個月前診斷為 肺癌,但他拒絕任何進一步治療。家人敘述病人這個月情緒低落, 但進食情況尚可,無嘔吐或發燒。身體檢查:體溫 36.8℃,血壓 130/78 mmHg, 脈搏每分 80 次, 呼吸每分 19 次。病人對時空有錯 亂情形,以及嗜睡;其他神經學檢查無異常;右上鎖骨窩有一拇 指大的淋巴結,下肢無水腫。初步檢查血比容 42%,白血球 8,300/ mm3, 血小板 240,000/mm3; 尿液檢查正常; 尿素氮 15 mg/dL, ALT 30 U/L,血糖 156 mg/dL。血清電解質,Na+ 122,K+ 5.5,Cl- 86 (電解質單位 mmol/L)。有關此病人的可能診斷,下列那一個最 適當? Source: [[sources/med3-book3-ch02|乙、離子平衡]].

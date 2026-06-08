@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Peritoneal dialysis (腹膜透析)'
   - 'Peritoneal dialysis'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch10]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- ...VAb (-),HBsAb (+),Cr 0.68 mg/dL,ALT/AST: 26/32 U/L,LDH 140 U/L。下列那一項檢查對診斷此病人之血球減少最有幫助? (A) parvovirus B19 (B) serum G-6-PD (C) bone marrow biopsy (D) serum ANA 【詳解】這個病患 pancytoprenia 應該 懷疑是 SAA,考慮 bone marrow 確診。 | 104(一)專醫三-10 | | (A) | 14. 一位 50 歲男士有缺鐵性貧血病史,因左鎖骨上腫塊求診,經病理切片診斷為轉移性腺癌與戒環細胞分化(signet ring cell differentiation)。在這個階段最適當的檢查為: (A) Source: [[sources/med3-book4-ch10|甲、貧血]].
+- C. 青少年醫學 [ Ref. Sloane PD et al. Essentials of Family Medicne, 2002 ] Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - C. 腹膜透析 (Peritoneal dialysis, PD) 108 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - | 透析液成份 | 血液透析液 | 腹膜透析液 | 注意事項 | |---------------|---------------|----------------|--------------------------------| | 鈉離子 | 135 to 155 | 132 | HD 選擇較高鈉→不易低血壓 | | 鉀離子 | 0 to 4 | 0 | PD 較 HD 易造成低血鉀 | | 鈣離子 | 2.5-3.5 mEq/L | | 一般用 2.5, 血鈣低者可選 3 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - ## C. 腹膜透析 (Peritoneal dialysis, PD) Source: [[sources/med3-book3-ch06|己、透析治療]].

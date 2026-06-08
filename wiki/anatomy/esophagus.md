@@ -19,6 +19,8 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch20]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch22]]"
 aliases:
   - 'Esophagus (食道)'
   - 'Esophagus'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,15 @@ tags:
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book3-ch20]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch22]]
 
 ## Key Details From Sources
 
+- ...: - a. 口乾(Xerostomia):原發性休格蘭氏症 2/3 唾腺腫大,次發性(有合併其他自體 免疫疾病)則少見。 - b. 眼乾 (Dry eye): 眼瞼下沙質感、灼熱、紅癢、光敏感。 - c. 呼吸道:鼻、喉、氣管乾;消化道:食道黏膜萎縮、萎縮性胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...drome,常合併 **Anti-centromere(+)**,包含五種表現:Calcinosis cutis(皮下鈣化)、Raynaud's phenomenon(皮膚遇冷時會白→紫→紅)、Esophageal dysmotility(食道下 1/3 無法活動)、Sclerodactyly(指硬化)、Telangiectasis(微血管擴張,壓病灶處會變白)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (4) 腸胃道:好犯食道下 2/3,肌肉纖維化導致胃酸逆流等。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- | 病因 | 腫 瘤 | |--------------------------|-----------------------------| | PTHrP | 麟狀細胞癌(肺癌、頭頸部、食道、皮膚); | | | 乳癌、泌尿系統癌症 | | 1,25 (OH) 2 D | 淋巴瘤 | | osteolytic cytokir | nes, inflammatory mediators | Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - ...B and C, syphilis, malaria, schistosomiasis, leprosy, filariasis | | | | Cancer | Breast, colon, lung, stomach, kidney, esophagus, neuroblastoma | | | | Drugs | gold, mercury, penicillamine, nonsteroidal anti-inflammatory agents, probenecid | | | | A | SLE, RA, primary biliary cirrhosis, dermatitis herpetiformis, | | | | Autoimmune dz. | bullous p Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - a. 為 Triazole 類,最大特點為可過 BBB,用於治療全身感染的「球黴菌型」 (Coccidioidal)黴菌:念珠菌、隱球菌;可治療念珠菌血症(Candidemia)、念 珠菌食道炎等;而隱球菌(Cryptococcal)腦膜炎須先用 Amphotericin B 引導治療數週,再用 Fluconazole 維持治療。 Source: [[sources/med3-book3-ch20|子、黴菌學]].

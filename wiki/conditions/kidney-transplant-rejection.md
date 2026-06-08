@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book3-ch20]]"
+  - "[[sources/med3-book4-ch07]]"
 aliases:
   - 'Kidney transplant rejection (腎臟移植排斥)'
   - 'Kidney transplant rejection'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-移植腎可能發生超急性、急性或慢性排斥，需依時間與病理判斷。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+移植腎可能發生超急性、急性或慢性排斥，需依時間與病理判斷。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch20]]
+- [[sources/med3-book4-ch07]]
 
 ## Key Details From Sources
 
+- ...rculin test)、接觸性皮膚炎 (Contact dermatitis) | | | Th2 | 慢性氣喘 (Chronic asthma)、慢性鼻炎 (Chronic allergic rhinitis) | | | CTL | 移植排斥 (Graft rejection) | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - b. 目前僅有口服劑型,口服吸收受食物影響甚大(須與高油脂食物併服),為骨髓 移植後 neutropenia 及 acute rejection 之預防性黴菌用藥。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
 
 ## Clinical Caveats

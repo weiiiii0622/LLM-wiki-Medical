@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book3-ch13]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med3-book4-ch02]]"
 aliases:
   - 'Septic arthritis (感染性關節炎)'
   - 'Septic arthritis'
@@ -20,15 +22,22 @@ tags:
 
 ## Summary
 
-關節腔感染造成急性單關節痛與發炎，需快速抽液與治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+關節腔感染造成急性單關節痛與發炎，需快速抽液與治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch13]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med3-book4-ch06]]
+- [[sources/med3-book4-ch02]]
 
 ## Key Details From Sources
 
+- E. 感染性關節炎 (Septic arthritis) 75 Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- ### E. 感染性關節炎 (Septic arthritis) Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- (D) Septic arthritis Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- (D) Septic arthritis Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
+- (A) Septic arthritis Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - ## 戊、感染性關節炎 (Septic Arthritis) Source: [[sources/med3-book3-ch13|戊、感染性關節炎]].
 - ...thritis, acute pyelonephritis, | | | uncomplicated S. aureus catheter-associated bacteremia | | 3 weeks | Lyme disease, septic arthritis (nongonococcal) | | 4 weeks | Acute and chronic prostatitis, infective endocarditis (penicillin-resistant | | | streptococcal) | | > 4 weeks | Acute and chronic osteomyelitis, S. aureus endocarditis, foreign-body infect Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 

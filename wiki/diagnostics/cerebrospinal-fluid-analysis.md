@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book4-ch14]]"
+  - "[[sources/med3-book4-ch15]]"
 aliases:
   - 'Cerebrospinal fluid analysis, CSF (腦脊髓液檢查)'
   - 'Cerebrospinal fluid analysis, CSF'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch18]]
+- [[sources/med3-book4-ch14]]
+- [[sources/med3-book4-ch15]]
 
 ## Key Details From Sources
 
+- (C) 此病之治療過程必須包含腦脊髓液之 檢查與 intrathecal chemotherapy Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
+- ...2-3 | | (B) | 17. 下列有關 Burkitt 淋巴瘤的敘述,何者錯誤? (A) 部分病人的腫瘤與 Epstein-Barr 病毒感染有關 (B) 常有染色體的異常 t (14,18) (C) 常侵犯中樞神經,分期檢查應包括腦脊髓液檢查 (D) 細胞生長快速,須即早治療 【詳解】(B) 應是 (8,14),t (14,18) 是 Follicular lymphoma。請將表格記熟,這是每年必考題,因為其他機車題實在沒辦法掌握,這些難記的東西反而是必拿的分數。 | 94(一)檢內-22 | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - ...nes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | | | | , | 過後發生腦膜炎需懷疑 S. aureus | MRSA | Vancomycin | | Haemophilusinfluenzae | (又圓又桿) | 自從孩童普遍接種 H. influenzae type b疫苗,發生率已減少 | | Ceftriaxone | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (A) 1. 某新兵訓練中心爆發多名新兵發燒、頭痛、噁吐、理學檢查為頸部 107( ) 專 僵硬、出血性皮疹,腦脊髓液染色為格蘭氏陰性雙球菌,下列敘述 醫三 -59 何者錯誤? - (A) 病人必須採負壓隔離(空氣隔離防護措施) - (B) 該病原菌是 Neisseria meningitidis - (C) 抗生素投藥 24 小時後,一般病人即不具有傳染性 - (D) 治療藥物為 penicillin 或 ceftriaxone Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (A) CSF opening pressure 常大於 180 $mmH_2O$ Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].

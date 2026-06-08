@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med3-book4-ch20]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,15 @@ tags:
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med3-book4-ch28]]
+- [[sources/med3-book4-ch20]]
 
 ## Key Details From Sources
 
+- (C) 當病人發生疼痛時給予適量短效嗎啡,待穩定後改為長效嗎啡 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- (D) 直接給予長效嗎啡,避免影響患者睡眠 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- (D) 給予長效型 morphine sulfate,有 breakthrough pain 時再給予即效型 morphine sulfate Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- ...(A) 用含 5-fluorouracil, leucovorin, oxaliplatin (FOLFOX) 的化學治療 - (B) 用 loperamide - (C) 切除迴盲腸的腫瘤 (ileocecal mass) - (D) 用長效型 octreotide Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (2) Benzathine PCN 是長效、肌肉劑型的 Penicillin G,用來治療 Primary syphilis(IM 1 dose)、Secondary syphilis、Group A streptococcal pharyngitis 等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...|-------------------------------------------------------------------------------------------------------|--| | 降何時的血糖 | 長效 SUMetformin中腸效胰島素:NPH、Glargine | 短效 SU、Glinideα glucodase inhibitorGLP-1 相關 (GLP-1、DPP4 inhibitor)短效胰島素 (RI、Aspart、Lispro) | | | 對體重影響 | 增加體重 | 減輕體重 | | | | 增加胰島素 (Insulin, SU, Glinide)導致水腫 (TZD) | 針劑 GLP-1SGLT2 inhibit Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 【詳解】2018年糖尿病治療指引建議目標:飯前80~130 mg/dL, 飯後 80~160 mg/dL,目前是 AC sugar 不符標準,考慮加晚上的中 長效胰島素劑量。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
@@ -61,9 +69,6 @@ tags:
 - 3. 治療再依臨床的兩大類表徵(一類是平時喘的症狀較嚴重、一類是反覆急性惡化)進行 調整: - (1) 喘為主的病人以擴張劑治療為主,COPD 病患 long-acting Anticholiergic agent (LAMA)為首選,抑制M3接受器,減少氣管收縮;劑量使用過多會抑制M2接受器,而使效果減弱;另外也可使用LABA,若症狀持續,則可合併LAMA+LABA。若效果仍不佳,需檢視吸藥技巧或換吸藥劑型或進一步評估喘的原因。 - (2) 反覆急性惡化為主的病人除了使用擴張劑,針對血中 eosinophil $\geq$ 100 病患,考慮加上 ICS;若血中 eosinophil 1)」是單一最好評估嚴重度的 指標 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - (D) 做為附加 (add-on) 治療,效果比吸入型長效性乙二型增效劑 (long acting $\beta_2$ -agonist) 弱 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - (C) 使用長效的 nitrates 比硝化甘油舌下含片更能立即有效的改善胸 縮的症狀 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- | | (C) 10 | . 承上題,病人住院後,以下的處理何者最不適當? (A) 給予利尿劑 (B) 給予毛地黃 (C) 給予 α 交感神經阻斷劑(alpha-adrenergic blocker) (D) 給予長效型硝化甘油 【詳解】alpha-adrenergic blocker 在心臟衰竭的處理無角色。 | 97(一)專醫三-31 | |---|----------|-------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- ...) diltiazem 或 verapamil 可造成房室傳導時間(atrioventricular conduction)延長 (C) dihydropyridines 易造成下肢水腫 (D) 短效的 dihydropyridines 比長效的 dihydropyridines 治療高血壓,更能達到保護心血管效果 | 100(二)專醫三-14 | |--------|------------------------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (B) 18. 一位 70 歲男性病患,抽菸 45 年,被診斷為 COPD 已經超過 10 年,平常用吸入型長效性支氣管擴張劑 (long-acting bronchodilator)治療。這次因為發燒、咳嗽加劇有黃痰、呼吸困難加劇住院治療。胸部 X 光片無新增變化,病人痰液抹片呈現 Gram(+) small diplococci,下列敘述何者錯誤? Source: [[sources/med3-book1-ch21|戊、感 染]].
 
 ## Clinical Caveats
 

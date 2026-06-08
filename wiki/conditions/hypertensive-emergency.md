@@ -10,6 +10,10 @@ sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Hypertensive emergency (高血壓急症)'
   - 'Hypertensive emergency'
@@ -24,7 +28,7 @@ tags:
 
 ## Summary
 
-高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +38,18 @@ tags:
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch22]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch10]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- #### 戊、腫瘤急症 (Oncological Emergency) Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
+- ...ase),幾個月後就可能開始皮膚硬化(Fibrotic phase);皮膚硬化會超過手肘或膝蓋,包含軀幹; - b. Anti-topoisomerase (scl-70) 陽性病患較快發生間質性肺病 (ILD)、肺纖維化; 還可能併發腎臟急症 (Scleroderma renal crisis)。 - (2) Limited cutaneous SSc (lcSSc): - a. 病程進展較慢,雷諾氏症候群幾年後才會慢慢有其他表現,皮膚硬化僅限於手指硬化(Sclerodactyly)及遠端肢體(Distal to elbow and knee), 軀幹通常不受影響,預後較好,但病程晚期可能併發肺動脈高壓(PAH)。 - b. 其中有一亞型,稱作 CREST syndrome Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (1) 觀念: - a. 屬於內科急症, 什麼時候要懷疑? - $\rightarrow$ Rapid onset anemia (Hb $\downarrow$ > 1 g/wk); Dark urine (Hemoglobinuria) - b. 如何初步佐證:LDH ↑ - c. 進一步要檢查:Reticulocyte ↑、Indirect Bil ↑、Haptoglobin ↓ Source: [[sources/med3-book4-ch10|甲、貧血]].
+- (C) 先評估是否有內出血等急症,然後再依據世界衛生組織 (WHO) 的三階段止痛法予以止痛 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - | (D) | (A) | 们何者會導致高血壓合併低腎素(腎動脈高血壓 (B)惡性高血壓本態性高血壓 (D)原發性皮質 | 医 | 101(一)專醫三-25 | |-----|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | (B) | 1. 高血鈣急症的治療原則下列那一項最不適當? (A) 立即補充生理食鹽水 (B) 使用 thiazide 類利尿劑 (C) 惡性腫瘤引發高血鈣可以考慮給予雙磷酸鹽(bisphosphonates) (D) 維生素 D 造成的高血鈣症可以考慮使用類固醇治療 【詳解】Thiazide 可能會加重高血鈣。 | 107(二)專醫三-10 | |-----|---------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...析多年。血液檢查顯示血鈣值為 2.75 mmol/L,i-PTH 值為 650 pg/mL,下列那一項敘述正確?(A) 已有腎衰竭,考慮血鈣之高低時,不需以血液中之白蛋白值加以調整 | 99(二)專醫三-56 | | | (B) 治療高血鈣急症,使用 bisphosphonate 比使用 calcitonin 之效果較慢出現(C) 副甲狀腺之增生腫大屬代償性,不應考慮手術切除(D) 腎衰竭是做 Sestamibi parathyroid scan 檢查的禁忌症 | | | (C) | 8. 用手指敲耳前方時引起顏面肌肉抽動(twitching),最可能是那一種異常? (A) 血鉀過高 (C) 血鈣過低 (D) 血磷過低 【詳解】Chvostek's sign:輕敲耳前的顏面神 Source: [[sources/med3-book3-ch02|乙、離子平衡]].

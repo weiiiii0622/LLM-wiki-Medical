@@ -23,6 +23,9 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Airways (氣道)'
   - 'Airways'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,15 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch18]]
+- [[sources/med3-book4-ch20]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- ...列標記何者引?cell tumor,所以 hCG 會高。 | 95(一)専内2-6 | | (A) 21. 癌胚胎抗原(carcinoembryon關此抗原的敘述何者錯誤?(A) 大腸癌早期數值即升高,(B) 胰臟癌病人數值可能升高(C) 支氣管炎病人數值可能升(D) 吸菸者數值可能升高 | | 94(三)檢內-23 | | (C) 22. CA15-3 是那一種癌症之腫瘤(A) 大腸癌(C) 乳癌 | 指標(tumor marker)?(B) 卵巢癌(D) 肺癌 | 94(二)檢內-48 | | (B) 23. CA-125 為那一種癌症之腫瘤(A) 肺癌(C) 乳癌 | 標記?(B) 卵巢癌(D) 胃癌 | 94( 一 ) 檢內 -19 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- (C) 支氣管囊腫 (bronchogenic cyst)、心包膜囊腫 (pericardial cyst) 常出現在中縱膈腔 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
+- ...------------------------------------------------------------|------------------| | (B) 26 | . 下列何者在老年病患最不常見? (A) 骨折 (B) 支氣管哮喘 (bronchial asthma) (C) 憂鬱 (D) 尿失禁 【詳解】(B) 骨折是間接因跌倒而產生的疾病。老年人常見的呼吸道疾病應該是以肺部感染為大宗。 | 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 2 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...類:如 Erythromycin、較新的 Azithromycin, - (1) Erythromycin: - a. 可抗 GPC (Gram positive coccus、革蘭氏陽性球菌),用來治療對 Penicillin 過敏病患的支氣管炎、咽喉炎、鼻竇炎、中耳炎、軟組織感染等。但無法治療 Haemophilus influenzae,因此經驗性治療上下呼吸道感染不是那麼理想。 - b. 對常見的非典型肺炎有效,如 Legionella pneumophila, Chlamydophila pneumoniae, Mycoplasma pneumoniae。 - (2) Clarithromycin · Azithromycin : - a. 抗菌範圍類似 Erythr Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (A) 2.60 歲男性,有長期菸瘾習慣,過去病史已知有40年慢性B型肝炎及8年慢性支氣管炎。本次因食慾不佳及黃疸就醫住院,診斷為慢性B型肝炎急性惡化。入院15天後突發性高燒39℃,輕微腹瀉,及呼吸困難,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast s Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...、實驗室診斷: | | | | (一)分離出德國麻疹病毒,或 | | | | (二)急性期與恢復期血清 IgG ≧ 4 倍上升,或 | | | | (三)IgM 抗體陽性。 | | | | 實驗室診斷條件:肺部檢體(如痰、肋膜液、胃洗出液、支氣管沖洗液等檢體) | 24 小時內 | | 結核病 | 結核分枝桿菌培養陽性之藥物感受性試驗顯示至少同時對 isoniazid 及 | | | | rifampicin 抗藥。 | | | 屈公病 | 有「屈公病」相關流行地區旅遊史,且有下列症狀:發燒、頭痛、噁心、嘔吐、 | 24 小時內 | | | 肌痛、出疹、關節痛者等。 | | | 西尼羅熱 | 一、有「西尼羅熱」相關流行地區旅遊史,且有下列症狀:發燒且符合下列 | 24 小時內 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].

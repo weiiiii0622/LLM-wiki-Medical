@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Gastritis (胃炎)'
   - 'Gastritis'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- ...Xerostomia):原發性休格蘭氏症 2/3 唾腺腫大,次發性(有合併其他自體 免疫疾病)則少見。 - b. 眼乾 (Dry eye): 眼瞼下沙質感、灼熱、紅癢、光敏感。 - c. 呼吸道:鼻、喉、氣管乾;消化道:食道黏膜萎縮、萎縮性胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Ex Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- 5. 末期病人的症狀處置-消瘦(Cachexia)與厭食(Anorexia) - A: Aches (疼痛) - N: Nausea ( 噁心 ) - O: Oral candidiasis (口腔念珠菌) - R: Reactive depression (憂鬱症) - E: Evacuation problems (排便問題) - X: Xerostomia (口乾) - I: Iatrogenic (化療、放療、藥物相關) - A: Acid-related problem (胃炎、腸胃潰瘍) - 重 1. 厭食是疾病的一部分,病人不會因為飢餓而死亡 - 要 2. 末期病人的水和食物需求通常不多,並不會因為飲食的下降而造成不舒服 - 觀 3. 勉強病人進食,無法改善其生活品質或延長生命 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (2) 疾病:胃炎、胃潰瘍、十二指腸潰瘍、胃癌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (2) 疾病: - a. 泌尿道感染:P pili (pyelonephritis-associated pilus) 有助於其黏附到泌尿道上皮,而 *E. coli* 也是泌尿道感染最常見的致病菌。 - b. 腸胃炎:常考下面兩隻細菌 ETEC、EHEC, 比較如下 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (2) 疾病: - a. 年輕人:偽闌尾炎 (Pseudoappendicitis)。 - b. 成人:腸胃炎,痊癒之後可能會發生反應性關節炎(Reactive arthritis)。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

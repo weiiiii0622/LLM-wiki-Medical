@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book4-ch13]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book2-ch08]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med3-book4-ch13]]
 
 ## Key Details From Sources
 
+- (C) 17. 一位 26 歲男性因發燒、疲倦入院,血液檢查發現血紅素為 9.5 g/dL; 白血球 36,300/μL,其中 blast 30.5%, banded neutrophil 4.5%, segmented neutrophil 51%, monocyte 2%, lymphocyte 12%; 血小板 103,000/μL。胸部 X 光如圖所示。下列何者為此位病人最可能的診斷? Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...性藥物 - (2) 限制:限水,低鉀、低磷及低蛋白質(0.6~0.7 g/kg/day),熱量 35~50 kcal/kg/day。 - (3) 補充:sodium bicarbonate(if $HCO_3 6 mg/dL or Ccr 200 mL, IV 會給到 500 mL/hr或更多的量。 (D) 7. 下列何種檢查結果代表病人可能有腎前性氮血症(prerenal azotemia)? 107( - ) 專 (A) blood urea nitrogen /plasma creatinine (BUN/Pcr) ratio 40 \text{ meq/L}$ (C) urine osmolality 2O (D) urine creatinine/plasma creati Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...| | (D) | 10. 一位 45 歲男性,有糖尿病及糖尿病腎病變之病史,診斷為社區型肺炎(Community-acquired pneumonia)而住院。血液檢查如下:白血球 15,200/mm³(中性白血球占 85%,淋巴球占 12%)、肌酐酸 3.5 mg/dL。對於此病患的治療,最好不要選擇使用下列那一種抗生素? (A) Moxifloxacin (B) Ceftriaxone (C) Ampicillin-Sulbactam + clarithromycin (D) Cefuroxime + Gentamicin | 100(二)專醫三-62 | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...塞 | 假性息肉 (Pseudopolyp) | | 15% Erythema nodosum (EN) | 10% Erythema nodosum (EN) | | Less Pyoderma gangrenosum (PG) | 1~12% Pyoderma gangrenosum (PG) | | ASCA (Anti-saccharomyces Cerevisiae Ab) | ANCA (Antineutrophil Cytoplasm Antibody) | | Plain film with oral contrast | 大腸鏡 | | 線狀 (fissure),爬行性潰瘍 (serpiginous) | 瀰漫性充血、融合性潰瘍 | | 鵝卵石樣 (cobbl Source: [[sources/med3-book2-ch08|辛、腸道疾病]].

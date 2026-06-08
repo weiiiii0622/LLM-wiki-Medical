@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book4-ch01]]"
 aliases:
   - 'Pericarditis (心包膜炎)'
   - 'Pericarditis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch06]]
+- [[sources/med3-book4-ch01]]
 
 ## Key Details From Sources
 
+- 5. 心肺:常見肋膜炎(Pleuritis)、心包膜炎(Pericarditis)、Libman-Sacks endocarditis(與疾病罹病時間、活性、APS 相關,最常見於 MV)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...均應通報。 | | | | 符合下列臨床症狀及實驗室診斷者: | 1週內 | | | 一、由肺炎鏈球菌 (Streptococcus pneumoniae) 引起之侵襲性疾病,如:敗血 | | | 症 | 症、肺炎、腦膜炎、關節炎、骨髓炎、心包膜炎、溶血性尿毒症、腹膜炎…等,且 | | | | 二、經由正常狀況下之無菌檢體如:血液、腦脊髓液…等,分離培養出該菌者。 | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...併發重症 | 一、肺部併發症 (Pulmonary complication) 且住院者 | | | | 二、神經系統併發症 (Neurological complication) | | | | 三、心肌炎 (myocarditis) 或心包膜炎 (pericarditis) | | | | 四、侵襲性細菌感染 (Invasive bacterial infection) | | | | 五、非符合上述四項臨床症狀,但個案需於加護病房治療,或死亡者。 | | | | (* 類流感: 需同時符合「突然發病、有發燒(耳溫≥ 38℃)及呼吸道症狀」、 | | | | 「肌肉酸痛或頭痛或極度倦怠感」、「需排除單純性流鼻水、扁桃腺炎及支 | | | | 氣管炎」等三項條件者。) | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - 1) acute pulmonary edema 2) severe hyperkalemia 3) uremic pericarditis Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

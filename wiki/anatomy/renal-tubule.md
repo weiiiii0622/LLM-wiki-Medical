@@ -9,6 +9,9 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch16]]"
+  - "[[sources/med3-book4-ch11]]"
 aliases:
   - 'Renal tubule (腎小管)'
   - 'Renal tubule'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,17 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch05]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch16]]
+- [[sources/med3-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Extranodal, low grade, marginal zone B cell lymphoma),特別是唾液腺持續腫大、Low C4、合併冷凝蛋白血症等病患;有時會在腫大唾液腺意外發現。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- 4. 治療: (Ref. Harrison p2109 fig 317-1) - (1) 眼乾、口乾給予症狀治療,或服用 Pilocarpine (Salagen)、Cevimeline (Evoxac)。 - (2) 腎小管酸中毒 (RTA) 需給予 Bicarbonate 補充。 - (3) 關節炎給予低劑量類固醇加上 Hydroxychloroquine 或 MTX 治療。 - (4) 血管炎則需給予類固醇加上免疫抑制劑 Cyclophosphamide 治療。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...化破骨細胞(Osteoclast)等, 導致骨頭遭到破壞、溶出,並造成高血鈣。 - (2) 腎病變 (25%): 有多個因素造成: - a. 濾出的 light chain 傷害腎臟導致腎衰竭(cast nephropathy),或導致近端腎小管功能受損,即所謂的 Adult Fanconi syndrome(包含 Type 2 RTA),使得無法吸收Glucose 及 Amino acid 等。 - b. Amyloid 或 light chain 沉積造成 nephrotic syndrome。 - (3) 貧血(80%):除了骨髓被侵犯,腫瘤也會分泌造血的抑制因子。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
+- (A) 腎衰竭的原因包括高鈣血症、高尿酸血症、輕鏈(lightchain) 對 腎小管的傷害及脫水等 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
+- (A) 急性腎小管壞死 (acute tubular necrosis) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...後 | 尿液渗透壓在兩小時內增加 50% 以上 | 尿液渗透壓在兩小時內增加小於 10% | | 治療 | 給予 DDAVP | 給予 Thiazide,造成 mild volume depletion,導致濾出去的尿液較不易分布到異常的腎小管內,而減少尿液在集尿管無法被回收;治療引起腎性尿崩症的原因,如高血鈣、鋰鹽中毒 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ps. TTKG 使用前需注意是否符合以下兩個前提,如不符合,則不可使用 TTKG 來做鑑別診斷。 - i. urine Na > 25 mEq/L(代表有足夠的 distal tubule Na delivery)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (b) 血壓正常:若為腎小管本身病變,可由動脈血的酸、鹼進一步鑑別診斷。 - i. 若合併酸中毒,考慮酮酸中毒、腎小管酸中毒第二型(多發性骨髓瘤) 或部分的第一型(紅斑性狼瘡腎病變等)、使用 Amphotericin B 等。 - ii. 若合併鹼中毒,可能是使用利尿劑造成低血鉀,或其他腎小管病變,如 以下兩個狀況: Source: [[sources/med3-book3-ch02|乙、離子平衡]].

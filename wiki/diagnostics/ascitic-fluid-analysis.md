@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book3-ch13]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Ascitic fluid analysis (腹水分析)'
   - 'Ascitic fluid analysis'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med3-book3-ch13]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med3-book4-ch04]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- (2) 類似 PAN,但不僅是動脈,微血管、靜脈也會侵犯;類似 PAN,有 PMN 浸潤、Fibrinoid necrosis,但無 IC 沉澱,反而是 70% 病患 pANCA(+)。無肉芽腫、無嗜酸性球浸潤。有肺部(血痰、肺出血)、腎臟侵犯(血尿、腎衰竭)。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- | | 正常 | 非發炎性 | 發炎性 | 感染性 (Septic) | |-------------|------------|---------|--------------|--------------| | 外觀 | 清澈 (Clear) | 清澈~黃 | 稍混濁、黃白 | 混濁 (Opaque) | | 白血球/mm³ | 50,000 | | 多核球比例 (PMN) | | 75% | > 90% | | 葡萄糖濃度 | ~Serum | ~Serum | 25~Serum | 3 | > 3 | > 3 | | 狀況 | | OA | RA, SLE, GA | 感染 | Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- (2) 通常是單一關節發炎,關節液 WBC > 10 萬、> 90%PMN,S. aureus 最常見。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - 2. 通常是單一關節發炎,關節液 WBC > 10 萬、 > 90% PMN, S. aureus 最常見。 Source: [[sources/med3-book3-ch13|戊、感染性關節炎]].
 - ...| | | 差)→所以須通 | 報,以改善受感染區域 | →不須通報,雞隻被感染與公衛無關, | | | | 的衛生環境 | | 難以阻斷 | | | 庙池心今初 | 穿透小腸黏膜一 | 被巨噬細胞吞噬→散布 | 使小、大腸黏膜發炎→大量 PMN 浸潤 | | | 傳染途徑 | 到全身淋巴結、 | 肝脾、骨髓→發燒、 | 並傷害腸黏膜→發炎性腹瀉 | | | | 食入被汙染的食 | 物10~14天後→發燒(可 | 食入被汙染的食物 6~48 小時後→發 | | | 臨床病程 | 能伴隨心跳慢* | 、不治療發燒可持續到 | 燒、腹瀉→發燒通常於 2~3 天、腹瀉 | | | | 一個月)、頭痛 | 、鮭魚斑*自行緩解 | 通常於 3~7 天 | | | | 第1週近90%止 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何種抗生素為最適當之治療選擇? - (A) ciprofloxacin - (B) fluconazole - (C) imipenem/cilastatin - (D) vancomycin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

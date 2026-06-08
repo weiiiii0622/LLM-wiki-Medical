@@ -15,6 +15,7 @@ Clinical procedures, operations, interventions, and workflows.
 
 ## Pages
 
+- [[procedures/blood-transfusion|Blood transfusion (輸血)]] - 依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。
 - [[procedures/bronchoscopy|Bronchoscopy (支氣管鏡)]] - 用於呼吸道檢查、採檢或部分治療。
 - [[procedures/cardiac-catheterization|Cardiac catheterization (心導管檢查)]] - 評估冠狀動脈狹窄並可銜接介入治療。
 - [[procedures/cardiac-resynchronization-therapy|Cardiac resynchronization therapy, CRT (心臟再同步治療)]] - 符合 LVEF、NYHA 與傳導阻滯條件的心衰竭裝置治療。
@@ -26,16 +27,21 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/endoscopic-band-ligation|Endoscopic band ligation (內視鏡靜脈曲張結紮)]] - 食道靜脈曲張出血與預防再出血的重要內視鏡治療。
 - [[procedures/endoscopic-sclerotherapy|Endoscopic sclerotherapy (內視鏡硬化劑注射)]] - 靜脈曲張或特定出血病灶的內視鏡注射治療。
 - [[procedures/ercp|Endoscopic retrograde cholangiopancreatography, ERCP (內視鏡逆行性膽胰管攝影)]] - 診斷與治療膽胰管阻塞、結石或膽管炎的重要內視鏡程序。
+- [[procedures/hematopoietic-stem-cell-transplantation|Hematopoietic stem cell transplantation, HSCT (造血幹細胞移植)]] - 治療高風險血液惡性腫瘤、骨髓衰竭與部分免疫疾病的細胞治療。
 - [[procedures/hemodialysis|Hemodialysis (血液透析)]] - 以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。
 - [[procedures/implantable-cardioverter-defibrillator|Implantable cardioverter-defibrillator, ICD (植入式心臟去顫器)]] - 預防猝死的植入式裝置。
 - [[procedures/kidney-transplantation|Kidney transplantation (腎臟移植)]] - ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。
 - [[procedures/liver-transplantation|Liver transplantation (肝臟移植)]] - 末期肝病、部分 HCC 或肝衰竭的根本治療選項。
+- [[procedures/lumpectomy|Lumpectomy (乳房保留手術)]] - 乳癌局部治療之一，常需搭配放射治療。
+- [[procedures/mastectomy|Mastectomy (乳房切除術)]] - 乳癌手術方式之一，依病灶、風險與病人選擇決定範圍。
 - [[procedures/mechanical-ventilation|Mechanical ventilation (機械通氣)]] - 呼吸衰竭支持治療，設定與肺保護策略需依病況調整。
 - [[procedures/noninvasive-ventilation|Noninvasive ventilation, NIV (非侵襲性通氣)]] - 以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。
 - [[procedures/pacemaker|Pacemaker (心律調節器)]] - 治療部分 bradyarrhythmia 或傳導阻滯。
 - [[procedures/paracentesis|Paracentesis (腹水穿刺)]] - 用於腹水診斷、SBP 評估與大量腹水治療。
 - [[procedures/percutaneous-coronary-intervention|Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)]] - 冠狀動脈再灌流與血管再暢通方法。
 - [[procedures/peritoneal-dialysis|Peritoneal dialysis (腹膜透析)]] - 利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。
+- [[procedures/plasma-exchange|Plasma exchange (血漿置換)]] - 以血漿移除致病抗體或補充缺乏因子，TTP 等疾病可用。
+- [[procedures/radiation-therapy|Radiation therapy (放射治療)]] - 以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。
 - [[procedures/radioactive-iodine-therapy|Radioactive iodine therapy (放射性碘治療)]] - 用於部分甲狀腺亢進與甲狀腺癌治療。
 - [[procedures/thoracentesis|Thoracentesis (胸腔穿刺)]] - 肋膜積液診斷與治療程序。
 - [[procedures/transjugular-intrahepatic-portosystemic-shunt|Transjugular intrahepatic portosystemic shunt, TIPS (經頸靜脈肝內門體分流)]] - 以介入方式降低門脈壓，可用於選定的靜脈曲張出血或難治性腹水。

@@ -26,6 +26,10 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med3-book4-ch20]]"
 aliases:
   - 'Loop diuretics (亨利氏環利尿劑)'
   - 'Loop diuretics'
@@ -40,7 +44,7 @@ tags:
 
 ## Summary
 
-改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +70,20 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch05]]
+- [[sources/med3-book4-ch22]]
+- [[sources/med3-book4-ch26]]
+- [[sources/med3-book4-ch06]]
+- [[sources/med3-book4-ch20]]
 
 ## Key Details From Sources
 
+- (2) 利尿劑、頭抬高、氧氣可讓症狀暫時舒緩。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
+- (1) 生理食鹽水靜脈輸注:可稀釋血鈣、促進尿鈣排除(Calciuresis)。當病患體液足夠 時,適當給予 Loop diuretics 可幫助尿鈣排除。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
+- ...(A) PR 波間距縮短(B) QT 波間距縮短(C) 心房震顫(D) 高聳的 T 波 | 醫三 -44 | | (B) | 7. 承上題,該病患之處置,下列何者較適當? (A) 立即給予靜脈注射 50% 葡萄糖 (B) 補充水分,並給予利尿劑 (C) 注射鈣離子 (D) 給予佳力美粉(Kalimate) | 97(二)專醫三-45 | | (C) | 8. 一位 70 歲胃癌男性因為突然下半身癱瘓(paraplegia)來急診就醫。發病前一個月開始出現下背痛。X 光檢查發現第一腰椎產生病理性骨折(pathological fracture),並產生脊髓壓迫(spinal cord compression)。血液檢查 alkaline phosphatase 780 U/L, Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
+- | 內在因子 | 外在因子 | |-------------------------------------------------------------------------------------------------------------------------------|----------------| | 1. 聽力與視力下降 | 1. 居住環境雜亂、浴廁潮濕 | | 2. 暈眩,可由疾病或藥物造成: (1)心血管疾病:心律不整、姿態性低血壓 (2)神經疾病:中風、失智症、巴金森氏症 (3)新陳代謝疾病:糖尿病 (4)高血壓藥物、利尿劑、抗憂鬱劑與抗組織胺藥物 3. 心肺功能、肌肉骨骼功能退化造成移動與平衡能力下降 | 2. 環境陰暗、照明度不足 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- ...| | 體質量指數(BMI)≥ 27 kg/m²。 | | | (4) 22 | | | 104(二)專 | | (A) 22. | 下列有關老人尿失禁的描述,(A) 80 歲以上女性最常見的尿 | | 醫三-1 | | | (B) 使用利尿劑類的降血壓藥不 | | | | | (C) 使用安眠鎮靜藥不會增加原 | | | | | (D) 第一線尿失禁的治療是使用 | | | | | 【詳解】(A) 尿失禁的治療應語 | 该要先找到原因,如:藥物副作用或 | | | | 液體攝取過多等。都是可以不同 | 目藥物,甚至停藥就可以讓症狀改善。 | | | (B) 23 | 一位 48 歲男性,身高 170 公分 | ,體重 85 公斤,空腹血糖 136 mg/dl。 | 104( Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- (A) 2. 高尿酸血症(hyperuricemia)是造成痛風(gout)的最主要原因, 108(-)專 下列關於造成高尿酸血症的敘述何者正確? 醫三-29 - (A) hypoxanthine phosphoribosyl transferase (HPRT) 基因位在 X 染色體上,當此基因突變時會造成高尿酸血症 - (B) uric acid 由肝臟代謝,因此肝臟功能不全時會造成高尿酸血症 - (C) 利尿劑(diuretics)會增加尿酸從尿液排出而降低血中尿酸 - (D) acute myeloid leukemia(AML)在化學治療時會產生高尿酸血症,因此可用 benzbromarone 來預防高尿酸血症 Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- 【詳解】(BCD) 正確,一般積極補充白蛋白是在加護病房使用呼吸器,或是水腫很厲害,需要脫水(與利尿劑合用)才會使用。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - 2. 診斷出代謝性鹼中毒要想想看是不是病人體液不足?是不是過度利尿劑使用?是不是有低血鉀或 hyperaldosteronism ?診斷出代謝性酸中毒後,是否有進一步算陰離子間隙,再分別找出其原因進行治療。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 2. 給生理食鹽水會改善的、Ucl +:嘔吐(Vomiting)、使用鼻胃管引流(gastric aspiration)、Villous adenoma。 - (2) 腎臟流失:先前使用利尿劑造成體液缺乏(Volume depletion),可想成體液缺乏時,Renin angiotensin aldosteron system 啟動,aldosteron 造成留鈉排鉀排氫,導致 H+ loss。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...| Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

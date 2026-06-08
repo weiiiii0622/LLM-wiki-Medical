@@ -15,6 +15,7 @@ sources:
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch13]]"
   - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med3-book4-ch05]]"
 aliases:
   - 'Infectious diarrhea (感染性腹瀉)'
   - 'Infectious diarrhea'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-感染性腹瀉依病原、血便、發燒與旅遊/抗生素暴露判斷。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+感染性腹瀉依病原、血便、發燒與旅遊/抗生素暴露判斷。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch13]]
 - [[sources/med3-book3-ch21]]
+- [[sources/med3-book4-ch05]]
 
 ## Key Details From Sources
 
+- (1) 通常發生在感染 1~4 週後,如腸胃道的 Yersinia, Shigella, Salmonella, Yersinia Campylobacter species 感染,或生殖道的 *Chlamydia trachomatis、Ureaplasma urealyticum* 感染等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - ...llus 桿菌屬 | B. anthracis, B. cereus | 嗜氧 | | 革蘭氏陽性 | 座10丁 | Clostridium 梭狀桿菌屬 | C. botulinum, C. tetani, C. perfringens, C. difficile | 厭氧 | | 桿菌 GPB(B) | 小金畑子 | Corynebacterium diphtheria | ne ( 白喉桿菌 ), Listeria monocytogenes ( 李斯特單核球增生菌 ) | 嗜氧 | | | | Lactobacillus (乳酸桿菌) | ), Actinomyces (放射線菌) | 厭氧 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...------------------------------------------------|----------| | | | 腸內菌* | Enterobacteriaceae | Escherichia, Klebsiella, Salmonella, Shigella | | | | | 彎 弧菌 | Vibrio | V. cholera, V. parahaemolyticus, V. vulnificus | ndv 🛧 | | | 腸道 | 桿 空腸彎曲桿菌 | Campylobacter | C. jejuni | 嗜 章* | | | 桿菌 | 菌幽門螺旋桿菌 | Helicobacter | H. pylori | 1" | | | | 假單胞菌 | Pseudom Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...梭狀芽孢桿菌 | 破傷風桿菌 | C. tetani | 傷口 | 肌肉痙攣 | | 1 | 氧 | Clostridium | 產氣芽孢桿菌 | C. perfringens | 傷口 | 氣性壞疽 | | | | | 困難芽孢桿菌 | C. difficile | 使用抗生素 | 偽膜性結腸炎 | | 不產 | 嗜 | Corynebacterium | 白喉桿菌 | C. diphtheriae | 飛沫傳染 | 偽膜(咽),心肌炎,神經麻痺 | | 个座 | 氧 | Listeria | 李斯特菌 | L. monocytogenes | 受污牛奶,分娩 | 菌血症、腦膜炎 | | 167 | 厭 | Lactobacillus | 乳酸桿菌 | Lactobacillus | 生完小孩 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

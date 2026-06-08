@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book4-ch13]]"
 aliases:
   - 'Child-Pugh score (Child-Pugh 分級)'
   - 'Child-Pugh score'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book2-ch22]]
 - [[sources/med3-book3-ch07]]
+- [[sources/med3-book4-ch13]]
 
 ## Key Details From Sources
 
+- ...ALL 中, | CR1 後不須骨髓移植,復發後再考慮 | | | 除非是預後好的,復發後再考慮骨髓移植 | Ph(+) 這類病人存活率低,於 CRI 後異體骨骼 | | | 預後佳 | FAB 2.3.4, Young ( 60)or child, High WBC at dx. | Older, B | ALL, t(9,22), t(4,11), t(1,19), del(11q23) | | | MDS 轉來 (del 5q, del 7q), FLT3 mutation | | | Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...sion, hyperlipidemia, osteoporosis, osteonecrosis, myopathy, cosmetic defect (e.g. buffalo hump), growth suppression in child | | Cyclosporin (CsA) | Glucose intolerance, hypertension, nephrotoxicity | | Tacrolimus (FK506) | Glucose intolerance (diabetes more common thant CsA), hypertension | | Sirolimus | Bone marrow suppression, interstitial Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 - #### A. Child's classification Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (C) 19. 陳女士,60歳,5年前診斷有 C 型肝炎相關之肝硬化。最近之檢驗 值為白蛋白(albumin)3.3 g/dL,凝血酶原時間(prothrombin time) 比對照值延長5秒,膽紅素2.5 mg/dL,理學檢查發現有輕度肝 腦病變(hepatic encephalopathy),腹部超音波檢查有大量腹水 (ascites)。陳女士之 Child-Pugh 分類為何? - (A) A (B) B (C) C (D) D Source: [[sources/med3-book2-ch23|戊、肝硬化]].

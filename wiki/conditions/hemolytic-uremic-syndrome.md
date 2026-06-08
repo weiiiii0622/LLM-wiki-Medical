@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med3-book4-ch19]]"
 aliases:
   - 'Hemolytic uremic syndrome, HUS (溶血性尿毒症候群)'
   - 'Hemolytic uremic syndrome, HUS'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-常與 Shiga toxin 相關，造成溶血、血小板低下與 AKI。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常與 Shiga toxin 相關，造成溶血、血小板低下與 AKI。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,14 @@ tags:
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch04]]
+- [[sources/med3-book4-ch11]]
+- [[sources/med3-book4-ch19]]
 
 ## Key Details From Sources
 
+- (B) 溶血性尿毒症候群 (hemolytic uremic syndrome) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
+- 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
+- ...| | 【詳解】本題答 (B)、(C) 給分。 | | | (B) | 8. Mitomycin C 和下列何種症候群有關? | 104(一)專 | | | (A) hand-foot syndrome | 醫三-53 | | | (B) hemolytic uremic syndrome | | | | (C) hyperviscosity syndrome | | | | (D) capillary leak syndrome | | | (D) | 9. 下列何者不是 doxorubicin 的副作用? | 103(二)專 | | | (A) 骨髓抑制 | 醫三-44 | | | (B) 心臟毒性 | | | | (C) 噁心 | | | | (D) 腎毒性 | | | (C) | 10. 下列腫 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (2) 疾病: - a. 泌尿道感染:P pili (pyelonephritis-associated pilus) 有助於其黏附到泌尿道上皮,而 *E. coli* 也是泌尿道感染最常見的致病菌。 - b. 腸胃炎:常考下面兩隻細菌 ETEC、EHEC, 比較如下 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...oli)熱穩定性毒素 | Heat stable toxin (ST) | 抑制 NaCl 再吸收⊕ cGMP → | 一腹瀉 | | | (Emerotoxigenie E. Con) | | | 抑制 NaCl 再吸收 | | | | EHEC | 類似志賀毒素 | Verotoxin = | 去活化 60S 核醣體→ | 血樣腹瀉 | | | (Enterohemorrhagic E. Coli) | 類以心貝母系 | Shiga-like toxin | 抑制蛋白質製造 | HUS* | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - \*HUS (Hemolytic uremia syndrome), 因感染 *E. Coli* O157 (EHEC), 細菌分泌的 Verotoxin 會攻擊大 腸腸壁,造成出血性大腸炎 (hemorrhagic colitis),而有血便;還會攻擊腎臟,造成腎衰竭 (=尿毒症 Uremia)。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

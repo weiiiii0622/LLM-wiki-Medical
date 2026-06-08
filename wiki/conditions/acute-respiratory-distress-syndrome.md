@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch24]]"
 aliases:
   - 'ARDS (急性呼吸窘迫症候群)'
   - 'ARDS'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-瀰漫性肺泡傷害造成低氧性呼吸衰竭，通氣策略需肺保護。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瀰漫性肺泡傷害造成低氧性呼吸衰竭，通氣策略需肺保護。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch24]]
 
 ## Key Details From Sources
 
+- (C) 6.63 歲的王女士有糖尿病腎病變,其家系圖(pedigree)及病人自填的家庭圈(family circle)如下圖。王女士最近因急性腎衰竭併急性呼吸窘迫症候群,住進加護病房並接受氣管插管,經近一週的治療,病情並無明顯改善,必須執行氣管造口術(tracheostomy),醫護人員告知王女士及家屬氣管造口術的需要性。雖然王女士無法說話,但意識清楚,一直搖頭拒絕氣管造口術,除了醫護人員的努力之外,您會認為請那一位家屬去說服最合適? Source: [[sources/med3-book4-ch24|甲、家庭醫業]].
 - | 簡稱 | 致病菌 | 表徵 | 治療 | |-------|-------------|-------------------------|------------| | | | 發燒+低血壓+全身紅斑(1~2 週後脫屑)以及 | 單純是毒素造成 | | TSS | S. aureus | 全身多器官侵犯,如肝腎功能下降、凝血病變、 | 血清學、培養 (-) | | | | 肌肉痛 (CK 高 )、黏膜充血、意識改變等 | 不需抗生素 | | erree | C D | 低血壓 + 全身紅斑以及全身多器官侵犯, | 血清學、培養 (+) | | 2122 | S. Pyogenes | 如肝腎功能下降、凝血病變、ARDS 等 | 需抗生素* | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - 【詳解】山區旅遊、焦痂(eschar)需考慮恙蟲症(scrub typhus)。(B) 診斷是靠血清學檢查,如 ELISA、Weil-Felix OX-K。(C)治療的抗 生素首選是 Tetracycline。(D)用「不可能」太過絕對,通常是錯的 答案,腦膜炎、ARDS、心肌炎皆是被報告過的併發症。(台 965) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (2) 症狀:發燒、咳嗽、呼吸困難,肺炎及 ARDS 與 SARS 類似,但腎衰竭及 DIC 案 例較 SARS 多。 Source: [[sources/med3-book3-ch18|壬、病毒學]].

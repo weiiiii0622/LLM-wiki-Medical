@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch05]]"
   - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med3-book4-ch21]]"
 aliases:
   - 'Hypoglycemia (低血糖)'
   - 'Hypoglycemia'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch05]]
 - [[sources/med3-book3-ch21]]
+- [[sources/med3-book4-ch21]]
 
 ## Key Details From Sources
 
+- | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- ...peptide 產生的一些生理反應;(C) 不止中樞神經病變;雖然 (B) 不確定,但 (D) 一定對。 | 95(二)專內1-50 | | (D) | 5. 下列何種癌症較不會發生「腫瘤相關性血糖過低症」(tumorassociated hypoglycemia)? (A) 肝癌(hepatoma) (B) 纖維肉瘤(fibrosarcoma) (C) 血管外皮細胞瘤(hemangiopericytoma) (D) 胰臟癌(adenocarcinoma of pancreas) 【詳解】血糖過低和(1) Mesenchymal tumor (包括 HCC、hemangiopericytoma)、(2) Sarcoma 有關,至於(D) 胰臟癌屬於表皮來源的 carcinoma,所以不會。 | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - a. 瘧原蟲中,惡性瘧最易引起貧血、中樞神經症狀。 - (a) 惡性瘧破壞紅血球,除了會引起貧血,若大量溶血,還會造成血紅素尿,稱為黑水熱 (Blackwater fever)。 - (b) 紅血球被破壞時,釋出的 TNFα 除了使病患發燒,也會使紅血球容易凝結,在腦血管造成血塊、堵塞,導致中樞神經症狀,稱為**腦性瘧(cerebral** malaria)。 - (c) 嚴重的惡性瘧感染(Hyperparasitemia > 5%RBC) 會造成腦性瘧、低血糖、乳酸中毒、腎衰竭、凝血病變等。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - TG Glibenclamide (Diabitin®) | 降血糖效果好、便宜 | 低血糖與增重 | 肝腎 | | 抑制鉀離子通道 | Glinide 類 | 0.5~1.5% | Repaglinide (Novonorm®)Nateglinide (Starlix®) | 降低飯後血糖 | 低血糖與增重 | | | 促進分泌 (胰臟)/減少 Incretin 分解 | DPP-4 inhibitor | 0.5~1.0% | Sitagliptin (Januvia®) Saxagliptin (Onglyza®) Vi Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - \*「腎」: Metformin eGFR Saxagliptin (Onglyza®) > Vildagliptin (Galvus®) > Linagliptin (Trajenta®) - a. 藥物機制:食物會刺激腸道分泌腸泌素(Incretin),腸泌素中最重要的就是GLP-1 會刺激胰臟分泌胰島素。而GLP-1 會被的體內 enzyme DPP-4 分解,使用DPP-4 inhibitor可延長 GLP-1 作用。[縮寫:Glucagon like peptide-1 (GLP-1)、Dipeptidyl peptidase-4 (DPP-4)] - b. 優點:副作用少,不易造成低血糖。 - c. 缺點:呼吸道感染、急性胰臟炎可能。另外,Saxagliptin 可能增加 DM 患者心衰竭住院。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].

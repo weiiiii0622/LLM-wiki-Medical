@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch12]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch20]]"
 aliases:
   - 'Infective endocarditis (感染性心內膜炎)'
   - 'Infective endocarditis'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-菌血症造成心內膜或瓣膜感染，診斷依血液培養、心超與 Duke criteria。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+菌血症造成心內膜或瓣膜感染，診斷依血液培養、心超與 Duke criteria。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch12]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch20]]
 
 ## Key Details From Sources
 
+- 5. 心肺:常見肋膜炎(Pleuritis)、心包膜炎(Pericarditis)、Libman-Sacks endocarditis(與疾病罹病時間、活性、APS 相關,最常見於 MV)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- (C) 16. 一位 45 歲男性,於二年前發現有大腸癌,為 Duke B1 期,接受手術 切除,病理診斷為腺癌,今年例行檢查時發現右上肺葉有一個 2×2 公分轉移病灶,病理切片亦為腺癌,經正子掃描並未發現其他地方轉移,該病患之處置,下列何者最為適當? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - 5.4週:急性前列腺炎、感染性心內膜炎。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...cter pylori-associated peptic ulcer, neurosyphilis (penicillin IV), | | | penicillin-susceptible viridans streptococcal endocarditis (penicillin plus | | | aminoglycoside), disseminated gonococcal infection with arthritis, acute pyelonephritis, | | | uncomplicated S. aureus catheter-associated bacteremia | | 3 weeks | Lyme disease, septic arthritis ( Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...s, | Neisseria meningitidis (0) | | | Gp A, B streptococcal infections, pneumococcal infections, viridans streptococcal endocarditis, | Viridans streptococci (5-10) | | | Oral and periodontal infections, Pasteurella multocida infections | Streptococcus pneumoniae (17) | | | meningococcal meningitis, clostridial myonecrosis, tetanus, anthrax, rat-bite Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

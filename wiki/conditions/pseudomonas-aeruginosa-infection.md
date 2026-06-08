@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch12]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch08]]"
 aliases:
   - 'Pseudomonas aeruginosa infection (綠膿桿菌感染)'
   - 'Pseudomonas aeruginosa infection'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch12]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch08]]
 
 ## Key Details From Sources
 
+- ...ay 缺陷,較易罹患一些特殊感染,下列何者除外? (A) non-tuberculous mycobacteria (B) Mycobacterium tuberculosis (C) Listeria monocytogenes (D) Pseudomonas aeruginosa | 103(一)專醫三-64 | | | 【詳解】Th1 cytokine 跟細胞內免疫反應相關,可以清除細胞內微生物。 | | | (B) | 3. 下列何者為第二型幫助 T 細胞 (Th2)產生之細胞激素 (cytokine)? (A) 干擾素 (Interferon-γ) (B) 白血球間質素 10 (IL-10) (C) 白血球間質素 12 (IL-12) (D) β 腫瘤壞死因素 (TNF-β) 【詳解 Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 - ...| | 腸道 | 桿 空腸彎曲桿菌 | Campylobacter | C. jejuni | 嗜 章* | | | 桿菌 | 菌幽門螺旋桿菌 | Helicobacter | H. pylori | 1" | | | | 假單胞菌 | Pseudomonas | P. aeruginosa | | | 桿菌(D) | | 類桿菌 | Bacteroid | B. fragilis | 厭氧 | | | 呼吸道桿菌 | 嗜血桿菌 | Haemophilus | H. influenzae, H. ducreyi | | | | | 博得氏菌 | Bordetella | B. pertusis | 1 | | | | 退伍軍人菌 | Legionella | L. pneumophila | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - | | | 假單胞菌 | | Pseudomonas | P. aeruginosa | 絕對須氧 | | |---|-------|----------------------------------------------------------------------------------------------------|------------|--------------------|-------------------------------------------- Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ## A. 假單孢菌 (Pseudomonas) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

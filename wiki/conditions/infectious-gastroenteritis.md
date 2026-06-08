@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch16]]"
+  - "[[sources/med3-book4-ch19]]"
 aliases:
   - 'Infectious gastroenteritis (感染性腸胃炎)'
   - 'Infectious gastroenteritis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch16]]
+- [[sources/med3-book4-ch19]]
 
 ## Key Details From Sources
 
+- ...rin(Folinic acid)+ 5FU + Irinotecan [FOLFIRI] 。 - b. 急性膽鹼性症候群 (Cholinergic reaction): 發生於給藥 ~ 給藥後 24 小時。症狀 有早期腹瀉 (early diarrhea)、盜汗、腹部痙攣、流淚、瞳孔縮小及唾液增加。可 給予 Atropine 緩解症狀。 - c. 延遲性腹瀉 (late diarrhea):近 90% 病人會腹瀉,發生在給藥後 24 小時之後至下一治療週期開始之前。可給予 Loperamide 治療。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - 2. 鑑別診斷:假性腹瀉 (Pseudodiarrhea):頻繁地解小量糞便,可能與腸躁症 (IBS) 或直腸炎 (Proctitis) 有關。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - ...| |----------|--------------------|---------------------------------------------|-----------| | 病毒 | 輪狀病毒 (Rotavirus | Diarrhea(水瀉) | | | 食入 | 金黃色葡萄球菌 (S. | | | | 毒素 | 產氣莢膜梭菌 (C. p | erfringens) | 糞便 WBC(-) | | fmt (⇒ | 腸毒素* | 霍亂弧菌 (Vibrio cholerae)、 | 糞便 OB(-) | | 無侵 | (Enterotoxin) | 產毒素大腸菌 (Enterotoxigenic E. coli, ETEC) | | | 襲性細菌 | 細胞毒素* | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - ## 2. 旅行者的下痢 (Traveler's diarrhea): (Ref. Harrison ch 40) Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].

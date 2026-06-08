@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch12]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch07]]"
 aliases:
   - 'Penicillins (青黴素類)'
   - 'Penicillins'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch12]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch07]]
 
 ## Key Details From Sources
 
+- 1. 原因:藥物(Penicillin、Sulfonamide),食物(甲殼類、花生、蛋),叮咬(膜翅類昆蟲),放射線顯影劑等過敏原與肥胖細胞(mast cell)上的 IgE 抗體結合,導致肥胖細胞釋出大量 histamine,進而造成下列症狀。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
+- (A) 9. 下列有關過敏性休克(anaphylaxis)的敘述,何者錯誤?(A) 只有注射藥物或昆蟲叮咬才會產生 - (B) 是經由過敏原與肥胖細胞 (mast cell) 上的 IgE 抗體結合所導致 - (C) 儘快給病人施打 epinephrine,可緩解大部分症狀 - (D) 盤尼西林 (penicillin) 過敏者,若打頭孢子菌素 (cephalosporin) 仍有部分病患可能過敏 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...| 淋巴球為主 | Vanco | | Neisseriameningitidis | 100 | | 主要在兒童及年輕人,有群聚病史(軍隊、宿舍),由鼻咽進入,有出血點、斑 (petechiae and purpuric rash) | PCN-S | PCN G | | g | | , , | | PCN-R | Ceftriaxone | | Listeriamonocytogenes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epi Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - 2. 肺炎雙球菌導致的腦膜炎需根據抗藥性狀況,選擇抗生素(重要,常考!!)。 - (1) 完全沒有抗藥性可考慮 IV high dose penicillin。 - (2) 一般經驗性用藥需使用第三代cephalosporin最好的選擇是Ceftriaxone(Rocephin®)。 - (3) 高度抗藥性,需加上 Vancomycin。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (A) 1. 某新兵訓練中心爆發多名新兵發燒、頭痛、噁吐、理學檢查為頸部 107( ) 專 僵硬、出血性皮疹,腦脊髓液染色為格蘭氏陰性雙球菌,下列敘述 醫三 -59 何者錯誤? - (A) 病人必須採負壓隔離(空氣隔離防護措施) - (B) 該病原菌是 Neisseria meningitidis - (C) 抗生素投藥 24 小時後,一般病人即不具有傳染性 - (D) 治療藥物為 penicillin 或 ceftriaxone Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].

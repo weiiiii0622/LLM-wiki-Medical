@@ -26,6 +26,8 @@ sources:
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Heart failure (心臟衰竭)'
   - 'Heart failure'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,13 @@ tags:
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch18]]
+- [[sources/med3-book4-ch20]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- a. 若 Her2/neu(+) 則可於化療外加標靶治療: - (a) Trastuzumab (Herceptin® = Her2/neu MAB):使用一年:與化療並用,可改善存活率,但可能造成心臟衰竭(Reversible)。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
+- ...及雙胞胎間輸血症候群、羊水過多、子宮早期收縮。其間該孕婦接受一系列羊水引流術約有 2 萬 mL 羊水被抽出,孕婦之血色素在 1 個月之間由 10.2 g/dL 降為 7.5 g/dL。醫師判定該孕婦應接受輸血,以防止胎兒子宮內缺氧、改善胎兒心臟衰竭現象,並為接受手術後易併發產後大出血之準備。但該孕婦因為乃耶和華見證人會之信徒,故拒絕接受輸血。雖經醫院醫師、院牧工作人員及社工師基於醫療救人之職責,多次與其溝通,該孕婦仍堅持其不接受輸血之立場。在這個個案中,那兩個倫理原則互相衝突,而使醫師陷入兩難抉擇? - (A) 病人自主原則和公平正義原則 - (B) 行善原則和不傷害原則 - (C) 病人自主原則和不傷害原則 - (D) 行善原則和公平正義原則 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...Glucocorticoid deficiency | | | | 6. Hypothyroidism | | | | 7. Chronic renal insufficiency | | | Primary Na + gain | 1. Heart failure | | | (exceeded by | 2. Hepatic cirrhosis | | | secondary water gain) | 3. Nephrotic syndrome | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (B) 6. 下列有關低血鈉症(hyponatremia)的描述,何者正確? 105(二)專 (A) 如果血漿滲透壓(osmolality)偏低,應考慮是否有高血糖 醫三-18 - (B) 心臟衰竭可能造成細胞外體液(extracellular fluid)增加及低血鈉 - (C) 低血鈉及細胞外體液減少的病人,若尿液鈉離子濃度低於 10 mmol/L, 代表有 Na+ wasting nephropathy - (D) 抗利尿激素不適當分泌 (SIADH) 的病人通常血漿滲透壓正常, 但細胞外體液減少 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...O, urine osmolality 為 369 mOsmol/kg H2O, 因此屬於 low osmolality 的 hyponatremia - (B) 病人無 edema, 為 euvolemic status, 因此病因不會是心臟衰竭 或肝腎病變 - (C) 病人 cortisol 23.3 mg/dL, ACTH 13.9 pg/mL, 因此病因不是 cortisol deficiency - (D) 病人 hsTSH 66.7 mIU/mL, 因此病因為 hyperthyroidism Source: [[sources/med3-book3-ch02|乙、離子平衡]].

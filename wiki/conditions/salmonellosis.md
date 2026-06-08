@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch13]]"
   - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med3-book4-ch05]]"
 aliases:
   - 'Salmonellosis (沙門氏菌感染)'
   - 'Salmonellosis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-Salmonella 可造成腸胃炎、菌血症或傷寒樣疾病。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Salmonella 可造成腸胃炎、菌血症或傷寒樣疾病。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ Salmonella 可造成腸胃炎、菌血症或傷寒樣疾病。 本頁已整合�
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch13]]
 - [[sources/med3-book3-ch21]]
+- [[sources/med3-book4-ch05]]
 
 ## Key Details From Sources
 
+- (1) 通常發生在感染 1~4 週後,如腸胃道的 Yersinia, Shigella, Salmonella, Yersinia Campylobacter species 感染,或生殖道的 *Chlamydia trachomatis、Ureaplasma urealyticum* 感染等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - ...------------------------------------------------|----------| | | | 腸內菌* | Enterobacteriaceae | Escherichia, Klebsiella, Salmonella, Shigella | | | | | 彎 弧菌 | Vibrio | V. cholera, V. parahaemolyticus, V. vulnificus | ndv 🛧 | | | 腸道 | 桿 空腸彎曲桿菌 | Campylobacter | C. jejuni | 嗜 章* | | | 桿菌 | 菌幽門螺旋桿菌 | Helicobacter | H. pylori | 1" | | | | 假單胞菌 | Pseudom Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...須羊 | | | | | tiel - | | Estarabastaria ana | Escherichia, Klebsiella, | 兼性厭氧 | | | 桿 | | 腸內菌 * | | Enterobacteriaceae | Salmonella, Shigella | 末 土 八 羊 | | | 菌 | | 類相 | 早菌 | Bacteroid | B. fragilis | 絕對厭氧 | | | | | 嗜血桿菌呼吸道桿菌 博得氏菌 | | Haemophilus | H. influenza, H. ducreyi | | | | | 呼吸道桿菌 | | | Bordetella | B. pertussis | | | | | | 退伍軍人菌 | | Legionel Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...herichia Coli | | 觸媒 (Catalase) 陽性 | | | 肺炎克雷伯氏菌 | Klebsiella pneumoniae | | 氧化酶 (Oxidase) 陰性 | 發酵乳糖(-) | 具運動性 | 沙門桿菌 | Salmonella | | 發酵葡萄糖 (+) | | 製造 H 2 S | 奇異變形桿菌 | Proteus mirabilis | | 兼性厭氧菌 | 安野孔楣(-) | 無運動性 | 志賀菌 | Shigella | | M-33-10-27-7-10-10-1 | | 不製造 H 2 S | 小腸結腸耶氏菌 | Yersinia enterocolitica | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

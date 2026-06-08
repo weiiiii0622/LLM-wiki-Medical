@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Renal sodium and water handling (腎臟鈉水處理)'
   - 'Renal sodium and water handling'
@@ -21,16 +23,21 @@ tags:
 
 ## Summary
 
-腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch03]]
+- [[sources/med3-book4-ch21]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- ...-----------------------------|--------| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syn Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- ...生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...| 1. Primary polydipsia | | | gain | 2. Decreased solute intake (e.g., beer potomania) | | | (secondaryNa + loss) | 3. AVP release due to pain, nausea, drugs | | | | 4. Syndrome of inappropriate AVP secretion | | | | 5. Glucocorticoid deficiency | | | | 6. Hypothyroidism | | | | 7. Chronic renal insufficiency | | | Primary Na + gain | 1. He Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (C) 皮質醛酮素缺乏 (aldosterone deficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (D) SIADH (syndrome of inappropriate ADH secretion) Source: [[sources/med3-book3-ch02|乙、離子平衡]].

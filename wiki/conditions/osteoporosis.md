@@ -13,6 +13,10 @@ sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med3-book4-ch05]]"
+  - "[[sources/med3-book4-ch20]]"
 aliases:
   - 'Osteoporosis (骨質疏鬆症)'
   - 'Osteoporosis'
@@ -27,7 +31,7 @@ tags:
 
 ## Summary
 
-骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +44,18 @@ tags:
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch26]]
+- [[sources/med3-book4-ch27]]
+- [[sources/med3-book4-ch05]]
+- [[sources/med3-book4-ch20]]
 
 ## Key Details From Sources
 
+- ...肥胖的併發症。肥胖會增加下列那一種疾病的風險? (A) 甲狀腺功能低下症(hypothyroidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- 【詳解】(A) 依據 USPSTF 的建議, 65 歲以上老年人的篩檢建議項目,包括有骨質疏鬆、視力篩檢、聽力篩檢、憂鬱症篩檢及肥胖症篩檢等。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- 【詳解】(D) 依據 NAMS 及 USPSTF 的建議,停經後婦女的篩檢建 議項目,包括有乳癌篩檢、子宮頸癌篩檢及骨質疏鬆篩檢等。冀便 潛血檢查則是建議 50~69 歲的民眾每 2 年篩檢 1 次。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- (D) Juxta-articular osteoporosis Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
+- (b) 停經後用 Aromatase inhibitor: - i. 包含: Anastrozole, Letrozole, Exemestane。 - ii. 缺點:關節痛 (Joint pain)、骨質疏鬆及骨折。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - ...------------------------------------------------------| | Corticosteroid | Hyperglycemia, hypertension, hyperlipidemia, osteoporosis, osteonecrosis, myopathy, cosmetic defect (e.g. buffalo hump), growth suppression in child | | Cyclosporin (CsA) | Glucose intolerance, hypertension, nephrotoxicity | | Tacrolimus (FK506) | Glucose intolerance (diabetes Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 - ...B5701) | function | | INKII | 的病毒 DNA | Lami vudine (3TC) | impairement, | | | | Emtricitabine (FTC, 為 3TC 之 prodrug) | osteoporosis | | | | Tenofovir (TDF, TAF) | TAF 為 tenofovir | | | | 3TC, FTC, TDF, TAF 同時可治療 HIV 及 | 之 prodrug,較 | | | | HBV | TDF 副作用少 | | | | Efavirenz (EFV) → CNS (Dizziness) | | | NNRTI* | 結合 RT 而抑制 | Nevirapine (NVP) → Stevens- Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - E. 骨質疏鬆症 (Osteoporosis) 260 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].

@@ -16,6 +16,9 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med3-book4-ch10]]"
 aliases:
   - 'Peptic ulcer disease (消化性潰瘍)'
   - 'Peptic ulcer disease'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,17 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch06]]
+- [[sources/med3-book4-ch28]]
+- [[sources/med3-book4-ch06]]
+- [[sources/med3-book4-ch10]]
 
 ## Key Details From Sources
 
+- (D) 8. 周醫師在幫病患王老先生進行胃鏡檢查時,發現王老先生胃部有一處胃潰瘍,周醫師初步判斷應該屬於良性潰瘍而沒有幫王老先生進行切片檢查。胃鏡檢查結束,王老先生很擔心該胃潰瘍會不會是胃癌,而多次詢問周醫師是否應該馬上再次做胃鏡配合切片檢查,周醫師告知只要吃藥 4 個月胃潰瘍就可以痊癒。4 個月後,王先生再度接受胃鏡檢查,切片檢查顯示為胃癌。周醫師為了避免醫療糾紛,在第一次胃鏡報告上增加「病患想先吃藥」的敘述。下列敘述何者正確? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- (#) 19. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- 5. 末期病人的症狀處置-消瘦(Cachexia)與厭食(Anorexia) - A: Aches (疼痛) - N: Nausea ( 噁心 ) - O: Oral candidiasis (口腔念珠菌) - R: Reactive depression (憂鬱症) - E: Evacuation problems (排便問題) - X: Xerostomia (口乾) - I: Iatrogenic (化療、放療、藥物相關) - A: Acid-related problem (胃炎、腸胃潰瘍) - 重 1. 厭食是疾病的一部分,病人不會因為飢餓而死亡 - 要 2. 末期病人的水和食物需求通常不多,並不會因為飲食的下降而造成不舒服 - 觀 3. 勉強病人進食,無法改善其生活品質或延長生命 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- | 藥物 | 機制 | 備註 | |----------------|-------------------------------|----------------------------------------------| | | 抑制 microtubule polymerization | 快發作的時候吃可預防 1#bid~tid | | Colchicine | →防止 neutrophil 趨化 | 副作用:噁心、嘔吐、腹瀉 | | NSAID | 減少發炎 | 效果佳,發作時一線用藥 | | Corticosteroid | 減少發炎 | 腎不好、消化性潰瘍而無法使用 NSAID 時,可用 Corticosteroid | Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- (C) 5. 一位 57 歲男性在 40 歲時曾經做過一次健康檢查,當時血液相是正 常的。15年前因胃潰瘍穿孔接受了三分之二的胃切除手術,其他無 特殊病史。最近因為容易疲倦,接受血液檢查,發現血紅素為8.7 gm/dL, MCV 71 fL, 白血球 3,650/μL, 分類正常, 血小板 395,000/μL。 大便潛血反應為陰性,胃鏡檢查無潰瘍或腫瘤。此病人最可能的診斷 為何? Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (1) Tetracycline · Doxycycline · Minocycline - a. 對細菌的抗藥性高,主因細菌產生排出幫浦,將進入細菌的四環黴素迅速排出, 因此主要用在 - (a) 立克次體 (Rickettsia, 如恙蟲病= Scrub typhus, Q fever); - (b) 螺旋菌(Spirochetes,如 Lyme disease 造成的關節炎,對 PCN 過敏的梅毒患者替代用藥); - (c) 弧菌(H. pylori),用於合併治療根治幽門桿菌造成的消化性潰瘍。 - (d) 披衣菌 (Chlamydia trachomatis) 眼睛、泌尿系統感染;青春痘 (Acne)等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 4.2週:幽門螺旋桿菌造成胃潰瘍、神經性梅毒、急性腎盂腎炎。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...associated diarrhea (10 days), Giardia enteritis, cellulitis, epididymitis | | 2 weeks | Helicobacter pylori-associated peptic ulcer, neurosyphilis (penicillin IV), | | | penicillin-susceptible viridans streptococcal endocarditis (penicillin plus | | | aminoglycoside), disseminated gonococcal infection with arthritis, acute pyelonephritis, | | | unco Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

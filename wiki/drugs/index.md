@@ -18,32 +18,49 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/ace-inhibitors|ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)]] - 降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。
 - [[drugs/acyclovir|Acyclovir (阿昔洛韋)]] - 抗 herpesvirus 核苷類藥物，用於 HSV/VZV 感染。
 - [[drugs/aldosterone-antagonists|Aldosterone antagonists (醛固酮拮抗劑)]] - 改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。
+- [[drugs/alkylating-agents|Alkylating agents (烷化劑)]] - 與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。
 - [[drugs/alpha-glucosidase-inhibitors|Alpha-glucosidase inhibitors (α-葡萄糖苷酶抑制劑)]] - 延緩碳水化合物吸收，主要降低餐後血糖。
 - [[drugs/aminoglycosides|Aminoglycosides (胺基糖苷類)]] - 30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。
 - [[drugs/angiotensin-receptor-blockers|Angiotensin receptor blockers, ARB (血管張力素受體阻斷劑)]] - ACEI 類似效果但較少 bradykinin 相關咳嗽。
 - [[drugs/antacids|Antacids (制酸劑)]] - 中和胃酸，用於短期緩解胃酸相關症狀。
+- [[drugs/anthracyclines|Anthracyclines (蒽環類化療藥)]] - 抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。
 - [[drugs/anti-il5-antibodies|Anti-IL-5 antibodies (抗 IL-5 單株抗體)]] - nonallergic eosinophilic asthma 控制不佳時可考慮。
 - [[drugs/anti-tuberculosis-drugs|Anti-tuberculosis drugs (抗結核藥物)]] - 結核病治療核心藥物組合，需注意副作用與療程。
+- [[drugs/antiemetics|Antiemetics (止吐藥)]] - 用於預防或治療化療、術後與其他原因的噁心嘔吐。
 - [[drugs/antifungal-agents|Antifungal agents (抗黴菌藥物)]] - 抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。
+- [[drugs/antimetabolites|Antimetabolites (抗代謝藥物)]] - 干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。
+- [[drugs/antiplatelet-drugs|Antiplatelet drugs (抗血小板藥物)]] - 抑制 platelet activation 或 aggregation，用於動脈血栓預防與治療。
 - [[drugs/antiretroviral-therapy|Antiretroviral therapy, ART (抗反轉錄病毒治療)]] - HIV 治療以多藥組合壓制病毒量、恢復 CD4 並降低 AIDS 風險。
 - [[drugs/antithyroid-drugs|Antithyroid drugs (抗甲狀腺藥物)]] - 抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。
 - [[drugs/aspirin|Aspirin (阿斯匹靈)]] - 抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。
 - [[drugs/beta-blockers|Beta blockers (乙型交感神經阻斷劑)]] - 降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。
 - [[drugs/beta-lactamase-inhibitors|Beta-lactamase inhibitors (β-lactamase 抑制劑)]] - 與 beta-lactam 合併以抑制 beta-lactamase，擴大對產酶菌效果。
+- [[drugs/biologic-dmards|Biologic DMARDs (生物製劑抗風濕藥)]] - 針對 TNF、B cell、T cell costimulation、IL-6 等的免疫標靶治療。
 - [[drugs/bisphosphonates|Bisphosphonates (雙磷酸鹽類)]] - 抑制骨吸收，用於骨質疏鬆治療。
+- [[drugs/bisphosphonates-oncology|Bisphosphonates in oncology (腫瘤骨病變雙磷酸鹽治療)]] - 腫瘤骨轉移或 myeloma 骨病變可用以降低 skeletal-related events。
 - [[drugs/carbapenems|Carbapenems (碳青黴烯類)]] - 廣效 beta-lactam，常用於 ESBL/AmpC 等抗藥性 GNB。
 - [[drugs/cephalosporins|Cephalosporins (頭孢子菌素類)]] - beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。
+- [[drugs/chemotherapy|Chemotherapy (化學治療)]] - 細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。
 - [[drugs/clindamycin|Clindamycin (克林黴素)]] - 50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。
+- [[drugs/conventional-dmards|Conventional DMARDs (傳統疾病修飾抗風濕藥)]] - RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。
 - [[drugs/digoxin|Digoxin (毛地黃)]] - 增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。
+- [[drugs/direct-oral-anticoagulants|Direct oral anticoagulants, DOACs (直接口服抗凝血劑)]] - 直接抑制 Xa 或 thrombin 的口服抗凝藥。
 - [[drugs/dpp4-inhibitors|DPP-4 inhibitors (DPP-4 抑制劑)]] - 延長內生性 incretin 作用的口服降糖藥。
+- [[drugs/endocrine-therapy-for-breast-cancer|Endocrine therapy for breast cancer (乳癌荷爾蒙治療)]] - ER/PR positive 乳癌的重要全身治療，依停經狀態與疾病情境選藥。
 - [[drugs/fluoroquinolones|Fluoroquinolones (氟喹諾酮類)]] - 抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。
 - [[drugs/ganciclovir|Ganciclovir / Valganciclovir (更昔洛韋類)]] - 抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。
 - [[drugs/glp1-receptor-agonists|GLP-1 receptor agonists (GLP-1 受體促效劑)]] - 腸泌素類藥物，促進葡萄糖依賴性胰島素分泌並有減重效果。
+- [[drugs/h2-receptor-antagonists|H2 receptor antagonists (H2 受體拮抗劑)]] - 抑制胃酸分泌，可用於 GERD 或潰瘍相關症狀控制。
 - [[drugs/heparin|Heparin (肝素)]] - ACS 與血栓疾病抗凝治療常用，需注意 HIT。
+- [[drugs/her2-targeted-therapy|HER2-targeted therapy (HER2 標靶治療)]] - HER2 positive 乳癌等疾病的標靶治療，需注意 trastuzumab 心毒性。
 - [[drugs/hiv-prep-pep|HIV PrEP and PEP (HIV 暴露前與暴露後預防)]] - 高風險暴露前或暴露後抗病毒預防策略，時間與藥物組合需依現行 guideline 複核。
 - [[drugs/hydralazine|Hydralazine (肼屈嗪)]] - 動脈擴張降低 afterload，可與 nitrate 合用於心衰竭。
+- [[drugs/hydroxychloroquine|Hydroxychloroquine (羥氯奎)]] - SLE 與 RA 常用免疫調節藥，需注意視網膜毒性監測。
+- [[drugs/immunosuppressants|Immunosuppressants (免疫抑制劑)]] - 用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。
 - [[drugs/inhaled-corticosteroids|Inhaled corticosteroids, ICS (吸入型類固醇)]] - 氣喘控制核心藥物，依 step 調整劑量。
 - [[drugs/insulin|Insulin (胰島素)]] - 治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。
+- [[drugs/iron-supplementation|Iron supplementation (鐵劑治療)]] - 補充鐵以治療 iron deficiency，需依吸收、耐受性與病因選擇路徑。
+- [[drugs/jak-inhibitors|JAK inhibitors (JAK 抑制劑)]] - 小分子免疫調節藥，阻斷 cytokine receptor 下游 JAK/STAT 訊號。
 - [[drugs/laba|LABA (長效乙二型交感神經刺激劑)]] - 氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。
 - [[drugs/lactulose|Lactulose (乳果糖)]] - 酸化腸道並促進排便，用於 hepatic encephalopathy 治療。
 - [[drugs/lama|LAMA (長效抗膽鹼劑)]] - COPD 與部分嚴重氣喘 phenotype 可用。
@@ -53,12 +70,15 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/loop-diuretics|Loop diuretics (亨利氏環利尿劑)]] - 改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。
 - [[drugs/macrolides|Macrolides (巨環內酯類)]] - 50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。
 - [[drugs/metformin|Metformin (二甲雙胍)]] - 第 2 型糖尿病常用一線藥物，可降低肝糖輸出並改善胰島素阻抗。
+- [[drugs/methotrexate|Methotrexate, MTX (甲氨蝶呤)]] - 抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。
 - [[drugs/metronidazole|Metronidazole (甲硝唑)]] - 抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。
 - [[drugs/monobactams|Monobactams (單環 β-lactam 類)]] - Aztreonam 主要抗 GNB，對 penicillin allergy 時可作替代選項之一。
 - [[drugs/nitrates|Nitrates (硝酸鹽類)]] - 擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。
+- [[drugs/nsaids|NSAIDs (非類固醇消炎藥)]] - 抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。
 - [[drugs/omalizumab|Omalizumab (抗 IgE 單株抗體)]] - 嚴重 allergic eosinophilic asthma 可考慮。
 - [[drugs/p2y12-inhibitors|P2Y12 inhibitors (P2Y12 抑制劑)]] - ACS 或 PCI 後常與 aspirin 合併。
 - [[drugs/penicillins|Penicillins (青黴素類)]] - beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。
+- [[drugs/platinum-agents|Platinum agents (鉑類化療藥)]] - 鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。
 - [[drugs/prokinetic-agents|Prokinetic agents (促腸胃蠕動藥)]] - 促進胃腸蠕動或提高 LES 壓力，部分用於 GERD 或胃排空問題。
 - [[drugs/proton-pump-inhibitors|Proton pump inhibitors, PPI (質子幫浦抑制劑)]] - 抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。
 - [[drugs/rifaximin|Rifaximin (利福昔明)]] - 降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。
@@ -68,8 +88,13 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/statins|Statins (史他汀類)]] - 降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。
 - [[drugs/sulfonylureas|Sulfonylureas (磺醯脲類)]] - 促進胰島素分泌，降糖效果明顯但有低血糖與體重增加風險。
 - [[drugs/systemic-corticosteroids|Systemic corticosteroids (全身性類固醇)]] - 氣喘/COPD 急性惡化與多種肺部發炎疾病常用。
+- [[drugs/taxanes|Taxanes (紫杉醇類)]] - 穩定微小管、抑制解聚的化療藥，常見過敏、神經毒性與水腫。
 - [[drugs/tetracyclines|Tetracyclines (四環黴素類)]] - 30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。
 - [[drugs/theophylline|Theophylline (茶鹼)]] - 氣喘輔助治療但治療窗窄，可造成心律不整或癲癇。
 - [[drugs/thiazolidinediones|Thiazolidinediones, TZD (Thiazolidinedione 類)]] - PPAR-gamma agonist，改善胰島素阻抗但需注意水腫、心衰竭與骨折等風險。
+- [[drugs/tnf-inhibitors|TNF inhibitors (TNF 抑制劑)]] - 抑制 TNF-alpha 發炎訊號，用於 RA、AS、IBD 等；需注意 TB/HBV reactivation。
+- [[drugs/topoisomerase-inhibitors|Topoisomerase inhibitors (拓樸異構酶抑制劑)]] - 抑制 DNA 拓樸異構酶造成 DNA 損傷，常見於 GI、肺癌與血液腫瘤治療。
 - [[drugs/trimethoprim-sulfamethoxazole|Trimethoprim-sulfamethoxazole, TMP-SMX (複方新諾明)]] - 葉酸代謝抑制組合，用於 PJP、UTI、Nocardia、部分 MRSA 等。
 - [[drugs/vancomycin|Vancomycin (萬古黴素)]] - glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。
+- [[drugs/vinca-alkaloids|Vinca alkaloids (長春花生物鹼)]] - 抑制微小管聚合，常見神經毒性與外滲風險。
+- [[drugs/warfarin|Warfarin (華法林)]] - 抑制 vitamin K recycling，降低 factor II、VII、IX、X，需以 INR 監測。

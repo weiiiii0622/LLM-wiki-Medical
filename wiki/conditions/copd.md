@@ -21,6 +21,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book4-ch25]]"
 aliases:
   - 'COPD (慢性阻塞性肺疾病)'
   - 'COPD'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch14]]
+- [[sources/med3-book4-ch25]]
 
 ## Key Details From Sources
 
+- ...y) (D) 非語言溝通(non-verbal communication) | 97(二)專醫三-70 | | (D) 26 | 一位 70 歲男性,菸齡五十幾年,原本一天抽一包半,膀胱癌手術後改成一天約半包菸,有冠狀動脈心臟病、高血壓、慢性阻塞性肺病,醫師勸他要戒菸。一般而言,下列有關戒菸的敘述,何者錯誤? (A) 長期抽菸者,戒菸後可立即獲得健康上之助益 (B) 戒菸可降低得到癌症之機會及降低死亡率 (C) 尼古丁是長期抽菸中造成成瘾之重要因素 (D) 體重減輕是使用尼古丁製劑戒菸時的常見現象 【詳解】(D) 體重增加是戒菸時一個常見現象,也常見於戒菸失敗者的理由之一。 | 97(一)專醫三-72 | | (A) 27 | 一位 55 歲罹患肝癌合併腹腔內轉移的患者,目前正在接 Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - (2) 若發現 $PaCO_2$ 太高,表示病患呼吸太慢(Hypoventilation),可因上述低血氧、酸中毒刺激呼吸中樞,病人喘到後來呼吸肌 fatigue。COPD病人呼吸道長期吐氣不完全,也可能導致 $CO_2$ 累積(Retention);其他中樞神經、周邊神經、肌肉病變等也可能使呼吸肌無力,或是鎮靜劑抑制呼吸中樞。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 4. 第三題:pH = 7.42; $HCO_3^- = 42$ ; $Pa_{CO2} = 67$ ; $Na^+ = 140$ ; $K^+ = 3.5$ ; $Cl^- = 88$ - (1) 第一步:中性→呼吸酸+代謝鹼 - (2) 第二步: $\Delta[HCO_3^-]=0.1\sim0.3\times\Delta PaCO_2=2.7\sim8.1$ ; $[HCO_3^-]=15.9\sim21.3$ ,但病患 $HCO_3^-=42$ ,所以由此也可證實病患合併代謝鹼。 - (3) 第三步: AG = 10, 未合併高陰離子間隙代謝酸。 - (4) 臨床狀況: 常見於 COPD 長期的呼吸酸加上過度使用利尿劑,體液缺乏導致代謝鹼。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入), 造成暫時的低血鉀, 導致肌肉無力,病人可能一早起來發現四肢無力,未經鉀離子的補充,下午鉀離子就會 shift 出細胞,無力就會改善。治療甲狀腺 Source: [[sources/med3-book3-ch02|乙、離子平衡]].

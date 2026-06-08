@@ -9,6 +9,10 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Syphilis (梅毒)'
   - 'Syphilis'
@@ -23,7 +27,7 @@ tags:
 
 ## Summary
 
-Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +36,17 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch27]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch04]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- ...壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 (3)實驗室檢驗:血液常規(WBC、RBC、Plt、Hct、Hb、MCV)、血型、Rh 因子、HBsAg 及 HBeAg(惟因特殊情況無法於本次檢查者,可於第五次孕婦產前檢查時接受本項檢查)、VDRL 或 RPR(梅毒檢查)、Rubella IgG(德麻疹抗體)、愛滋病檢查(EIA或 PA)及尿液常規。 2. 例行檢查項目。(註二)註: 德國麻疹抗體檢查呈陰性之孕婦,應在產後儘速注射1劑麻疹腮腺炎德國麻疹混合疫苗,該劑疫苗免費。(註五) | | 第二次 | | 第16週 | 1. 例行檢查項目。(註二)2. 早產防治衛教指導。 | | 第三次 | 妊娠第二期妊娠 17 週至 | 第 20 週 | 1. 例行檢查項目。(註二)2. 超 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- ...factor VIII (C) protein S | 105(一)專醫三-12 | | | (D) protein C | | | | 【 詳解 】APS 的檢驗異常包括 prolonged aPTT 及 false positive RPR。 | | | (D) | 8. 下列對於全身性紅斑性狼瘡(SLE)病人血清中的各種自體抗體的描述,何者最為正確? (A) anti-RNP 對於診斷 SLE 的特異性最高 (B) anti-histone 抗體與 SLE 的腎炎最有相關 (C) anti-Sm 與 SLE 的 psychosis 最有相關 (D) anti-phospholipid 與 habitual fetal loss 最有相關 | 105(一)專醫三-40 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- 2. 診斷準則: 反覆性疼痛口腔潰瘍加上以下 2 項以上(Arthritis Rheum 1990; 33: 1078.) - (1) 反覆疼痛生殖器潰瘍(Recurrent genital ulcer);梅毒的潰瘍不會痛。 - (2) 眼睛:最常見的是兩側全葡萄膜炎(Panuveitis),其他包括 Iritis、Posterior uveitis、Retinal vasculitis/vessel occlusion、Optic neuritis 等,眼盲是此病最嚴重的併發症。 - (3) 皮膚:結節性紅斑 (Erythema nodosum)、毛囊炎 (psuedofolliculitis)、膿疱 (Pustule)、 丘疹 (Papu Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- ...症併存 | | | 營養失調 | 缺乏維他命 B 12 、葉酸等營養成分 | | | 顱內病灶 | 常壓性水腦症、腦部腫瘤或創傷 | | 其 | 新陳代謝系統異常 | 甲狀腺功能異常、體內電解質不平衡 | | 他 | 中樞神經系統感染 | 梅毒感染第三期、愛滋病病程侵犯中樞神經 | | | 中毒 | 藥物影響、酗酒 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ## 1. 密螺旋體 (Treponema) 類,如梅毒螺旋體 (Treponema pallidum) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (2) 梅毒 (Syphilis) 分期: Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...期 | 下疳癒合後 | 手掌與腳掌的紅疹、 | 1~6 個月後 | PCN 2.4M IM st | | | 6~8 週 | 扁平濕疣 (Condyloma lata) | 自然消退 | | | 第三期 | 感染後 10~40 年 | 皮膚梅毒腫、心臟血管梅毒 | | PCN 2.4M IM qw*3 | | 神經 | 感染後T . p allidum micro h em agg lutination assay) | | | RPR (Rapid plasma regain) | FTA-ABS (Fluorescent treponemal antibody absorption | | 用途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、治 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

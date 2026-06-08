@@ -13,6 +13,16 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med3-book4-ch14]]"
+  - "[[sources/med3-book4-ch15]]"
+  - "[[sources/med3-book4-ch17]]"
+  - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med3-book4-ch29]]"
 aliases:
   - 'Hepatitis C (C 型肝炎)'
   - 'Hepatitis C'
@@ -27,7 +37,7 @@ tags:
 
 ## Summary
 
-HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +50,29 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch04]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch18]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch11]]
+- [[sources/med3-book4-ch14]]
+- [[sources/med3-book4-ch15]]
+- [[sources/med3-book4-ch17]]
+- [[sources/med3-book4-ch20]]
+- [[sources/med3-book4-ch29]]
 
 ## Key Details From Sources
 
+- (1) 類似 SLE, **HBV** 相關的結節狀多發性動脈炎(PAN)、**HCV** 相關的冷凝球蛋白血症(Cryoglobulinemia)、過敏性紫斑(Henoch-Schönlein Purpura)等,都是 IC 沉積於血管上,最後導致血管炎。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- (C) 1.32 歲男病人罹患活動性 C 型病毒肝炎已數年。最近數星期,兩下肢 107(-) 專 皮膚出現許多有壓痛之小紅疹。且四肢麻木疼痛。檢查發現有輕度 醫三-13 蛋白尿。下列那一項檢查陽性最具診斷價值? - (A) 類風濕因子 (RF) - (B) 抗細胞核抗體 (ANA) - (C)冷凝球蛋白 (cryoglobulin) - (D) C 型肝炎病毒量(viral load) Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- (C) 10. 一位 30 歲女性病人,最近一週發燒及下肢水腫就醫。身體診察:意 - (B) C型肝炎抗體 (anti-hepatitis C virus antibody) - (C) 雙股去氧核糖核酸抗體 (anti-double stranded DNA antibody) - (D) 冷凝球蛋白 (cryoglobulin) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- .../lymphoma | | 反轉錄 | HTLV-2 | Hairy cell leukemia | | 病毒 | HIV | Burkitt's lymphoma, Diffuse large B cell lymphoma | | | HCV | Lymphoplasmacytic lymphoma | | 其他病毒 | EBV | 鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma)、Burkitt's lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- \* 須排除:曾接受過頭頸部放射線治療、病患有 HCV、HIV 感染,病患有 lymphoma、Sarcoidosis、GVHD 或服用 Anticholinergic drugs。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (A) 4. 一位病人在體檢時發現血小板數為 65,000/μL,紅血球及白血球正常 106(-) 專 ,下列何項檢查對於釐清血小板低下的原因幫忙最小? - (A) platelet antibody - (B) antibody to hepatitis C virus - (C) antibody to human immunodeficiency virus - (D) antinuclear antibody Source: [[sources/med3-book4-ch11|乙、凝血異常]].
+- (D) hepatitis C virus infection Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
+- ...| | EBV | Burkitt's lymphoma, Primary CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary effusion lymphoma, Multicentric Castleman's dz. | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
+- (A) 3. 減白的血小板 (leucocyte-depleted platelet),可降低藉輸血發生下列 99(二)專 那一種傳染疾病的機率? - (A) Cytomegalovirus - (B) Hepatitis A virus - (C) Human immunodeficiency virus type 1 (HIV-1) - (D) Hepatitis C virus Source: [[sources/med3-book4-ch17|辛、輸血]].
 - ...定義且經實驗室診斷: | 1 週內 | |--------------------|----------------------------------------------------------------|---------| | C型肝炎 | 一、臨床病例:(符合其一即可) | | | | (1) 出現急性發作症狀: 包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服、 | | | | 黄疸等,且 Anti-HCV 陽性,ALT ≥ 100,亦排除急性 A、B 型肝炎發作。 | | | | | | | | (2) 曾檢驗血清 C 型肝炎病毒抗體 (Anti-HCV) 陰性,後轉變成 C 型肝炎 | | | | 病毒抗體陽性,且 ALT ≥ 100 (建議以一年內之 Anti-H Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...disease | → ANA (+)、Anti-dsDNA (+)、C3 下降 | | | | Cryoglobulinemia (冷凝球蛋白血症) | 下降 | | | → Cryoprecipitate (+)、C3 下降、Anti-HCV Ab (+) | | | | Henoch-schönlein purpura (HSP) | 正常 | | | → IgA nephropathy+systemic vasculitis (腹痛)、C3 正常 | | | 治療: 鈴 | 十對本身疾病治療,類固醇 +/- Alkylating agent (腎臟疾病) | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (A) 47 歲男性,患有 C 型肝炎十年,近半年開始出現下肢水腫,尿 液分析有 300 mg/dL 蛋白, 高倍鏡檢有 20~30 RBC Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
@@ -51,10 +81,6 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - ...es/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者), CCR5 (考慮用 maraviroc 者)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - | | Hepatitis A | Hepatitis B | Hepatitis C | Hepatitis D | Hepatitis E | |-------------|--------------|--------------|-------------|-------------|----------------| | 所屬科別 | 小 RNA 病毒 | 肝炎病毒科 | 黃質病毒科 | 不完全病毒 | 杯狀病毒科 | | 广川海州 | Picornavirus | Hepadnavirus | Flavivi Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - (2) 血清檢查: - a. anti-HCV(+):表示曾經感染到C型肝炎病毒,血液中可能有病毒也可能沒有。 C型肝炎病毒根除後,anti-HCV還有可能存在一段時間。目前臨床上驗的 anti-HCV antibody 不是保護性抗體。 - b. 因輸血、針扎等感染 C 型肝炎 6 個月後,若測不到 anti-HCV antibody,表示身體成功消滅病毒,並沒有 C 型肝炎感染;若仍測得到 anti-HCV antibody,表示成為慢性感染。但仍有例外的情形,現多量測 HCV RNA 來監測感染活躍程度。 - c. HCV genotype:目前已知有 6 種基因型,在台灣,絕大多數是基因型第一型 1b 或第二型,其次是基因型第一型 1a,基因型與使用的藥物、用藥療程、治療效果 相關,是治療前必須檢驗的。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (4) 治療: PegIFN + Ribavirin (傳統、副作用多、現已少用), Direct acting anti-viral agent (DAA) 直接作用抗病毒藥物 (目前已成為第一線治療首選) - a. 開始治療:符合下列條件 - (a) Anti-HCV 陽性 / HCV RNA(+)→因為治療效果很好,2019 年台灣全面開放 只要血中有驗到病毒就可以治療。一般篩檢患者是否感染仍以抽血 Anti-HCV 為第一步,確定有要進入治療才檢驗 RNA。 - b. 藥物副作用:[記憶: Ribavirin → RBC、Renal insufficiency] Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- 2. 危險因子: HBV、HCV、黃麴毒素、CCl4; 肝硬化、血色素病(hemochomatosis)、威爾森氏病(Wilson's disease)、血型B(比較: 血型A 較易得胃癌, 血型B 較易得肝癌)。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- ...或國家最重要的 etiologic factor of HCC」的組合中,何者正確? (A) Europe & US:Hepatitis B chronic infection and Wilson's disease (B) China:Hepatitis C chronic infection and nonalcoholic steatohepatitis (C) Africa:Aflatoxin B1 and hepatitis B chronic infection (D) Taiwan:Ethanol chronic consumption and primary biliary cirrhosis 【詳解】歐美國家以 HCV、alcohol、NASH 為主,亞洲地區(含台灣)為 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (B) 17. 黃先生,70歲,已知有 C 型肝炎 20年,但無肝硬化,本次因右上腹疼痛和發燒來院急診,腹部超音波檢查發現在肝右葉有一顆 2 公分的高迴音(Hyperechoic)腫瘤和膽囊結石,電腦斷層顯示肝腫瘤呈棉絮狀(Cotton wool)顯影。下列敘述何者錯誤? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 
 ## Clinical Caveats
 

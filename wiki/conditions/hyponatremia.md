@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch10]]"
 aliases:
   - 'Hyponatremia (低血鈉)'
   - 'Hyponatremia'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch10]]
 
 ## Key Details From Sources
 
+- ...ne (Vidaza)、Decitab | | | | | | 可與 DNA 甲基轉移酶 1 (DNA methyltransferase 1, DNMT-1) 結合,進而 | | | | | | 抑制 DNA 複製時之甲基化作用,導致 DNA 低甲基化作用,此結果可 | | | | | 50.43 | 重建造血幹細胞的正常生長與分化。或進行異體幹細胞移植 | | | | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - A. 低血鈉: (血鈉濃度 40 mmol/L;尿液的渗透度> 100 mOsm/kgH 2 O | | | 血液 | 血液被稀釋 | 血中渗透壓 ( 20 mmol/L): 利尿劑、Salt wasting nephropathy、Hypoaldosteronism。 - (b) 腎外流失鈉離子 (UNa 8~12 mEq/day)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...--------------------------------------------------------------------------------------------------------------------| | hyponatremia | osmolality | 2. Hyperproteinemia | | | | 3. Posttransurethral resection of prostate/bladder tumor | | | Increased plasma | 1. Hyperglycemia | | | osmolality | 2. Mannitol | | Hypoosmolal | Primary Na + loss | 1. Integ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 對低血鈉有概念了嗎?低血鈉在臨床上相當常見,天天在抽 BUN/CR、Na/K,抽出來的低血鈉你是否會處理?謹記幾個原則,先排除假性低血鈉,看一下 chart,病人是否有高血糖、高血脂等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].

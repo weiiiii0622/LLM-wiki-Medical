@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch27]]"
 aliases:
   - 'Cholera (霍亂)'
   - 'Cholera'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-Vibrio cholerae 毒素造成大量水瀉與脫水。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Vibrio cholerae 毒素造成大量水瀉與脫水。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch27]]
 
 ## Key Details From Sources
 
+- | 疫苗需求等級 | 疾病種類 | |---------|--------------------------------------| | 必需性疫苗 | 黄熱病 | | 例行性疫苗 | A/B型肝炎、日本腦炎、白喉 / 百日咳 / 破傷風、小兒麻痺、卡介苗及 | | (常規性疫苗) | 麻疹 / 腮腺炎 / 德國麻疹等疫苗 | | 建議性疫苗 | A/B 型肝炎、日本腦炎、腦膜炎、霍亂及傷寒等疫苗 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...gens | 腹絞痛,腹 | 牛肉、雞肉 (Poultry) 等 | | 菌 | Bacillus cereus (腹瀉型毒素) | 瀉 | 肉、蔬菜、乾豆、麥片 | | 於腸道產毒素) | | (Cramp, Dia.) | | | | Vibrio cholerae | 水瀉 | 干貝類 (Shellfish) | | > 16 Just | Enterotoxigenic E. Coli (ETEC) | (Watery dia.) | 沙拉、起士、肉類 | | > 16 小時 | Salmonella spp. | 發炎性腹瀉 | 雞肉 (Poultry)、蛋、乳製品 | | (細菌侵入腸道) | Campylobacter jejuni | (Inflam dia.) | 雞肉 (Poult Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - ...Rotavirus | Diarrhea(水瀉) | | | 食入 | 金黃色葡萄球菌 (S. | | | | 毒素 | 產氣莢膜梭菌 (C. p | erfringens) | 糞便 WBC(-) | | fmt (⇒ | 腸毒素* | 霍亂弧菌 (Vibrio cholerae)、 | 糞便 OB(-) | | 無侵 | (Enterotoxin) | 產毒素大腸菌 (Enterotoxigenic E. coli, ETEC) | | | 襲性細菌 | 細胞毒素* | 出血性大腸桿菌 (E. coli O157: H7)、 | Dysentary | | 和困 | (Cytotoxin) | 艱難梭菌 (Clostridium difficile) | (赤痢) | | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - ...---------| | | | 腸內菌* | Enterobacteriaceae | Escherichia, Klebsiella, Salmonella, Shigella | | | | | 彎 弧菌 | Vibrio | V. cholera, V. parahaemolyticus, V. vulnificus | ndv 🛧 | | | 腸道 | 桿 空腸彎曲桿菌 | Campylobacter | C. jejuni | 嗜 章* | | | 桿菌 | 菌幽門螺旋桿菌 | Helicobacter | H. pylori | 1" | | | | 假單胞菌 | Pseudomonas | P. aeruginosa | | | 桿菌(D) | | 類桿菌 | Bact Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

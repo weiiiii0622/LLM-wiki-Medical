@@ -24,6 +24,8 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Jaundice (黃疸)'
   - 'Jaundice'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,15 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book3-ch21]]
+- [[sources/med3-book4-ch10]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- (C) 8. 一位 65 歲男性主訴倦怠、無力,手腳有刺痛感。身體檢查發現臉 色蒼白,有輕微黃疸,舌頭表面平滑,味蕾萎縮;神經學檢查顯示 對振動(vibration)的感覺變差。血液檢查顯示血紅素 7.2 gm/dL, 平均紅血球體積 110 fL,網狀紅血球 1.1%,白血球 2,780/μL,分類 正常,血小板 98,000/uL;全膽紅素 (bilirubin) 2.3 mg/dL, 直接型 0.5 mg/dL, AST 52 U/L(正常 0~37), ALT 38 U/L(正常 0~41), LDH 780 IU/L (正常 140~271)。這位病人最可能的診斷為? Source: [[sources/med3-book4-ch10|甲、貧血]].
+- ...-----------------------------------------------|------------------| | (C) | 10. 一位 30 歲平常健康良好的男性,主訴 2~3 週來易倦。理學檢查發現結膜蒼白無黃疸、頸部兩側多個不足一公分大小淋巴結、無肝脾腫大,下肢出現無癢紅色細小斑點;末梢血檢查結果顯示: WBC 1,280/μL, N/L/Mo = 5/94/1, Hb 7.5 gm/dL, MCV 86 fL, Platelet 8,000/μL, ALT 42 U/L, T. Bil 0.6 mg/dL, Cr 1.1 mg/dL, Alb 3.7 g/dL。下列何種檢驗最有利於正確診斷? (A) 淋巴結切片(biopsy) (B) 正子 Source: [[sources/med3-book4-ch10|甲、貧血]].
+- | (B) | | 一位 24 歲女性出現輕微黃疸,驗血發現 Hb 6.8 g/dL,MCV 110 fL,Platelet 54,000/μL,reticulocyte 12.8%。下列何種疾病較不可能? (A) 伊凡氏症候群(Evan's syndrome) (B) 維生素 B 12 缺乏(vitamin B 12 deficiency) (C) 血 栓 性 血 小 板 缺 乏 紫 斑 症(thrombotic thrombocytopenic purpura) (D) 全身性紅斑 Source: [[sources/med3-book4-ch10|甲、貧血]].
+- (B) 12.72 歲的王教授罹患胰臟癌末期,他瘦弱、嚴重黃疸,無法進食,更無法成眠,每天受劇烈腹痛與全身酸痛所折磨,他簽了 DNR,等著解脫,這一週來,王教授更多次哀求您,讓他早點離開人間,下列何種處置適當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (1) 可能造成 Cholestatic jaundice, bone marrow suppression, hyperkalemia。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (A) 2.60 歲男性,有長期菸瘾習慣,過去病史已知有40年慢性B型肝炎及8年慢性支氣管炎。本次因食慾不佳及黃疸就醫住院,診斷為慢性B型肝炎急性惡化。入院15天後突發性高燒39℃,輕微腹瀉,及呼吸困難,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - | 黃質病毒科 (Flaviv | irus) | 傳 播 | 症 狀 | |---------------|------------------------------|-----------|---------------| | 黃熱病毒 | Yellow fever virus | (埃及/白線)斑紋 | 發燒,肝炎(黃疸) | | 登革熱病毒 | Dengue virus | Aedes | 發燒,頭痛,肌肉痛,關節痛 | | 聖路易斯腦炎病毒 | St. Louis encephalitis virus | (三斑)家蚊 | 發燒,腦炎 | | 日本腦炎病毒 | Japanese encephalitis | Culex | 發燒,腦炎 | Source: [[sources/med3-book3-ch18|壬、病毒學]].

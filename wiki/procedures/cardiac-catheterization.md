@@ -15,6 +15,7 @@ sources:
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch08]]"
+  - "[[sources/med3-book4-ch04]]"
 aliases:
   - 'Cardiac catheterization (心導管檢查)'
   - 'Cardiac catheterization'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,13 @@ tags:
 - [[sources/med3-book2-ch22]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch08]]
+- [[sources/med3-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...1990)[不用死記,建議多看幾次能對此病有概念] - a. 年紀 10 mmHg - d. 四肢動作困難 (Extremities claudication) - e. 鎖骨下動脈或主動脈聽到雜音(Bruit) - f. 大動脈或主要分之血管攝影異常 (Irregular vessel wall, stenosis 等) - (4) 治療: Steroid、MTX Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- ...Mononeuropathy or polyneuropathy) - f. 高血壓:舒張壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- (C) 10. 一位 35 歲女性最近兩個月來有微燒,而體重減輕約 6 公斤,吃飯之 後會有輕度腹痛。檢查結果發現 WBC 11,500/mL、CRP 1.46 mg/L、 ANA: 1: 160 speckled、cANCA 陰性、anti-cardiolipin < 12 U/mL, proteinuria (++),腹部血管攝影如附圖。最可能的診斷為何? Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...低血壓(D) 最近曾服用降血脂藥物 | 94(二)專內 1-23 | | (D) 36. 要評估腎臟血管硬化程度,下列那一種方法比較不影響腎功能? (A) 電腦斷層(CT scan)加顯影劑(contrast medium) (B) 標準型血管攝影(standard angiography) (C) 靜脈輸注泌尿道攝影(intravenous urography) (D) 核磁共振血管攝影(magnetic resonance angiography) | 94(二)專內 1-26 | | (D) 37. 關於急性腎小管壞死,下列那個推論是正確的? (A) 利尿劑可以避免急性腎小管壞死 (B) 注射腎 - 劑量的 dopamine 可以避免腎小管壞死 (C) 注射腎 - 劑量的 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - (B) 應做腎血管攝影,診斷可能是腎動脈高血壓 (renovascular hyper-tension) Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
@@ -62,7 +67,6 @@ tags:
 - (B) 2. 一位 70 歲女性患有糖尿病外,無其它病史,半夜突然胸痛、冒汗、 108(二)專 想吐,送至急診時血壓 137/79 mmHg,脈搏 73 次 / 分,呼吸 18 次 / 分,心電圖如下所示,緊急心導管檢查發現心肌梗塞,最可能是 那一條冠狀動脈血管堵塞? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (C) 將病人送至心導管室準備進行血管再灌流處置 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (B) 立即做心導管檢查及冠狀動脈攝影 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (4) Percutaneous mitral balloon valvotomy (PMBV): - a. 以心導管,用氣球將瓣膜撐開。 - b. Moderate to severe MS (MVA 2) 可考慮 PMBV (Class I)。 - c. 禁忌: LA thrombus, mod to severe MR, echo mitral valve score > 8 (表示瓣膜較厚、 鈣化嚴重等,其形態不適合 PMBV)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 
 ## Clinical Caveats
 

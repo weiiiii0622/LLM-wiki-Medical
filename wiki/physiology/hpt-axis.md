@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch16]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch07]]"
 aliases:
   - 'Hypothalamic-pituitary-thyroid axis, HPT axis (下視丘-腦垂體-甲狀腺軸)'
   - 'Hypothalamic-pituitary-thyroid axis, HPT axis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book2-ch16]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch07]]
 
 ## Key Details From Sources
 
+- (2) Graves disease: 抗體刺激 TSH 接受器,造成甲狀腺機能亢進。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol/L。下列敘述何者錯誤? - (A) 病人的細胞外液量增加 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】TSH 很高,代表下游的甲狀腺素分泌不足,導致上游拼命 的刺激,屬於 hypothyroidism。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...se 671 IU/L(參考值,38~174 IU/L);甲狀腺刺激素(thyroid stimulating hormone)為 0.013 μIU/mL(參考值,0.35~5.5 μIU/mL)和游離 T 4 甲狀腺素(free T4 thyroxine)為 4.51 ng/dL(參考值,0.89~1.80 ng/dL)。此病患最有可能的診斷為何? Source: [[sources/med3-book3-ch02|乙、離子平衡]].

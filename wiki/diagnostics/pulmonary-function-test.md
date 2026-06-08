@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Pulmonary function test, PFT (肺功能檢查)'
   - 'Pulmonary function test, PFT'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch21]]
 - [[sources/med3-book3-ch06]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- (3) 肺臟: - a. deSSc 易合併間質性肺病(ILD),若疾病早期,肺功能持續惡化,可考慮 Cyclophosphamide治療; - b. lcSSc 易合併肺動脈高壓 (PAH),可用 Endothelin-1 R. antagonist (Bosentan)或 Phosphodiesterase 5 inhibiter (Sildenafil) 甚至 prostacyclin pathway agonist 降低肺動脈壓。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (A) 6. 一位 32 歲女性病人主訴最近 3 個月手指遇冷水或生氣時膚色便會轉 101(一)專 為蒼白色,同時覺得有些吞嚥困難,且半夜時常胃酸逆流到嘴裡。2 星期前,開始時常乾咳,且稍微運動便覺得喘。下列的檢查,那項 最不必要? - (A) 運動心電圖 - (B) 心臟超音波 - (C) 胸部 X 光 - (D) 肺功能檢查 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- | 內在因子 | 外在因子 | |-------------------------------------------------------------------------------------------------------------------------------|----------------| | 1. 聽力與視力下降 | 1. 居住環境雜亂、浴廁潮濕 | | 2. 暈眩,可由疾病或藥物造成: (1)心血管疾病:心律不整、姿態性低血壓 (2)神經疾病:中風、失智症、巴金森氏症 (3)新陳代謝疾病:糖尿病 (4)高血壓藥物、利尿劑、抗憂鬱劑與抗組織胺藥物 3. 心肺功能、肌肉骨骼功能退化造成移動與平衡能力下降 | 2. 環境陰暗、照明度不足 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - 3. 不適合使用腹膜透析的情況: - (1) 自己不能操作又無人協助者,衛生習慣不佳。 - (2) 腹膜開過刀、沾黏。 - (3) 腰脊骨病併發慢性疼痛者。 - (4) 慢性肺疾,肺功能減低者(因透析中腹膜腔內都是透析液會對橫膈造成壓迫)。 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - A. 定 義:肺功能檢查有不可逆的氣道阻塞證據,post bronchodilator FEV1/FVC 3月/1年*2年 | 病理上:小氣道擴張,肺泡壁破壞 | | حلالتك | Severe hypoxemia, Hypercapnia, V/Q mismatch | Mild hypoxemia | | 症狀 | Pul. HTN, Cor pulmonale (EKG: RVH) | DLCO ↓ | | 呼吸音 | Wheezing | Di Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - ...-------------|----------------------| | | | -7 | 急性惡化病史 | | | | 支氣管擴張試驗後 | FE | V1 (預測值%) | ≧ 1 次急性惡化需住院 | | 111212 | | FEV 1 /FVC全 2 次急性惡化但未導致住院 | CD | D | | | GOLD 2 | 50-79 | | | | | | GOLD 3 | 30-49 | | | | | | GOLD 4 | CAT CAT ≥ 10 | Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].

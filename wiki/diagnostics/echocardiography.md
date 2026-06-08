@@ -17,6 +17,8 @@ sources:
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch12]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch12]]"
 aliases:
   - 'Echocardiography (心臟超音波)'
   - 'Echocardiography'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,13 @@ tags:
 - [[sources/med3-book2-ch22]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch12]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch12]]
 
 ## Key Details From Sources
 
+- (A) 6. 一位 32 歲女性病人主訴最近 3 個月手指遇冷水或生氣時膚色便會轉 101(一)專 為蒼白色,同時覺得有些吞嚥困難,且半夜時常胃酸逆流到嘴裡。2 星期前,開始時常乾咳,且稍微運動便覺得喘。下列的檢查,那項 最不必要? - (A) 運動心電圖 - (B) 心臟超音波 - (C) 胸部 X 光 - (D) 肺功能檢查 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (A) 1. 一位 45 歲女教師,主訴半年內逐漸發生運動時氣促,倦怠,胸悶以及昏厥的症狀。身體診察發現頸靜脈壓力上升,可摸到右心室搏動, 且在右側聽到 S4 的心音,胸部 X 光發現肺動脈膨大,下列敘述何者 最適當? - 107(一)專 醫三 -25 - (A) 應檢測 protein C, protein S, antithrombin III 等是否異常 - (B) 心電圖通常可以發現心軸向左偏轉及左心室肥大 - (C) 可以用心臟超音波測量二尖瓣逆流的流速來估計肺動脈的壓力 - (D) 病患肺血管主要的表徵為血管內皮增生,發炎反應增加,以及 血管擴張 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...35 mg/dL, 肌酸酐 1.6 mg/dL。先作下列那個處置是最適當的? (A) 給予降血壓藥物 Amlodipine 每天 5 mg, 一個月後再作尿液分 - 析和生化檢查 - (B) 檢查血清補體濃度,並限制鹽分攝取 - (C) 心臟超音波檢查,並給予利尿劑 - (D) 胸部 X 光檢查,並給予抗生素兩週 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (A) 安排心臟超音波,尋找感染性心內膜炎之證據 Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 【詳解】超音波掃描下可見後方音波增強 (post echo enhancement) 現象,且電腦斷層無顯影,屬於囊腫之典型表現。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].

@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'AIDS (後天免疫缺乏症候群)'
   - 'AIDS'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch18]]
+- [[sources/med3-book4-ch11]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- (C) 20. 後天免疫不全病毒造成血小板過低之機轉為下列何者? Source: [[sources/med3-book4-ch11|乙、凝血異常]].
+- (C) 15. A 君在求診時被診斷有 AIDS。基於個人因素, A 君希望主治醫師不要將他的病情透露給其配偶知道。下列主治醫師的處置何者不適當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - \*註:由於台灣為肺結核流行區域,因此在台灣單純肺結核並非 AIDS-defined illness,須合併 CD4 99% sensitivity, 感染 1~12 週後才會陽性);只有 ELISA 陽性時,不建議在 Western blot 結果出來前先行告知病患。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - 2. HAART (Highly Active Anti-Retroviral Therapy)治療可減少血中病毒量、增加 CD4 數量、避免疾病進展至 AIDS,增加 survival rate。只要診斷出 HIV infection 即應盡早用藥。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - | (C) | 6. 發生人類後天免疫缺乏病毒(HIV)母子傳染最主要時期為: (A) 第一及第二妊娠期 (B) 第三妊娠期 (C) 分娩 (D) 哺乳 | 104(二)專醫三-52 | |-----|------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].

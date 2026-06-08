@@ -16,6 +16,8 @@ sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book2-ch19]]"
   - "[[sources/med3-book2-ch07]]"
+  - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med3-book4-ch29]]"
 aliases:
   - 'Nitrates (硝酸鹽類)'
   - 'Nitrates'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,13 @@ tags:
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book2-ch19]]
 - [[sources/med3-book2-ch07]]
+- [[sources/med3-book4-ch26]]
+- [[sources/med3-book4-ch29]]
 
 ## Key Details From Sources
 
+- | 疾病 | 物質 | |-------|-------------------| | 氣喘 | 二異氰酸類、甲醛、環氧樹酯 | | 腎臟疾病 | 四氯化碳、乙二醇、甲醇、鉛、汞、鉻 | | 肝臟疾病 | 二甲基甲醯胺、四氯化碳、砷 | | 血液疾病 | 苯、硝基苯、硝化甘油 | | 心血管疾病 | 二硫化碳、硝化甘油、砷 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- (A) isosorbide mononitrate Source: [[sources/med3-book4-ch29|己、特定議題]].
 - 臨床上常見之致命者多為後天性血紅素血症,可能是對於下列物質產生過敏反應:抗生素(trimethoprim, sulfonamides and dapsone)、含過量亞硝酸鹽(nitrates)食物、含的樟腦丸等。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
 - 6. 治療:保守治療可以內視鏡注射肉毒桿菌素治療、或服用鈣離子阻斷劑(CCB)、硝 酸鹽類藥物(Nitrate)等達到肌肉放鬆;或以內視鏡進行氣球擴張術;若仍無效可考 慮用內視鏡或外科手術方法進行 myotomy ( 經內視鏡食道肌肉切開術: POEM-perioral endoscopic myotomy)(外科進行食道肌肉切開:Laparoscopic myotmy, 術式名 Heller myotomy)。緩解率可達 8 成以上,但亦可能造成 GERD 等併發症。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 - ...塞,已造成心肌壞死 | Enzyme (+) | | | | (僅心內膜 Subendocardial) | EKG: ST Depression, TWI | | | | 管腔完全堵塞一段時間 | Pain not relieve by NTG (>30min) | | | STEMI | 造成心肌壞死(全層心肌 | Enzyme (+) | | | | 皆受影響 Transmural) | EKG: ST elevation | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

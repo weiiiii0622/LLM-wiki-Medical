@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book4-ch07]]"
 aliases:
   - 'Adrenal insufficiency (腎上腺功能不全)'
   - 'Adrenal insufficiency'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch01]]
+- [[sources/med3-book4-ch07]]
 
 ## Key Details From Sources
 
+- ...s (D) Antiphospholipid syndrome 【詳解】(Harrison 1959 Table 299-5) Organ specific: Graves' disease、Hashimoto's thyroiditis、Addison's disease 等。 Organ nonspecific: SLE、RA、APS、Sjögren's syn.、Wegner's granulomatosis。 | 93(二)檢內-64 | | (A) | 4. 器官移植後受贈者(recipient)之 T 淋巴球會被活化:一種是接受到捐贈者之組織抗原(Donor Major Histocompatability Antigen, Donor MHC)及捐贈者之抗原多胜腱 (Do Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...one 正常或給予 Fludrocortisone 後 TTKG 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease ACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistant to aldosterone) | | 服用利尿劑 Spironolactone服用抗生素 Trimethoprim | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (5) 腎上腺功能不全 (adrenal insufficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...calcium | Milk-alkali syndrome | | | | intake | Total parenteral nutrition | | | | Other causes | Endocrine disorders (adrenal insufficiency, pheochromocytoma, VIPoma) | | | | | Medications (thiazides, vitamin A, antiestrogens) | | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].

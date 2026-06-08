@@ -25,6 +25,16 @@ sources:
   - "[[sources/med3-book3-ch13]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med3-book4-ch02]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med3-book4-ch08]]"
+  - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med3-book4-ch15]]"
+  - "[[sources/med3-book4-ch25]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Tuberculosis (結核病)'
   - 'Tuberculosis'
@@ -39,7 +49,7 @@ tags:
 
 ## Summary
 
-分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +74,29 @@ tags:
 - [[sources/med3-book3-ch13]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch21]]
+- [[sources/med3-book4-ch06]]
+- [[sources/med3-book4-ch02]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch07]]
+- [[sources/med3-book4-ch08]]
+- [[sources/med3-book4-ch12]]
+- [[sources/med3-book4-ch15]]
+- [[sources/med3-book4-ch25]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- (C) 27. 下列有關病因與「關節炎分類」的配對中,何者最正確? 95(二)專 (A) Mycobacterium tuberculosis arthritis — chronic polyarticular arthritis 內 1-24 (B) Calcium pyrophosphate dihydrate arthritis — acute polyarticular arthritis (C) Staphylococcus aureus arthritis — acute monoarticular arthritis (D) Borrelia burgdorfe Source: [[sources/med3-book4-ch06|己、關節炎變]].
+- (2) TNF: Etanercept (Enbrel® 恩博)、Adalimumab (Humira® 復邁)、Golimumab (Symponi® 欣普尼)、Certolizumab (Cimzia® 欣膝亞): - a. 與 $TNF-\alpha$ 結合,抑制其引發的發炎反應,但此藥最大的擔憂即是結核菌的復發或感染;因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則無法被活化,便較無法攻擊細胞內的病原體。另外也可能造成 HBV reactivation。 - b. 可能增加 Lymphoma 的發生、造成 ANA、anti-DNA 自體抗體的產生,還可能造成乾癬及中樞神經去髓鞘疾病。(Harrison 2090) Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
+- (3) 其他生物製劑:Anti-TNF 治療無效或有結核之虞,可考慮下列藥物 - a. Rituximab (Mabthera® 莫須瘤):與B淋巴球表面 CD20 結合的 Chimeric 單株抗體。 - b. Abatacept (Orencia®):模仿 T 細胞表面的 CTLA4,與抗原呈現細胞 (APC)的表面的 B8 (CD 80/86)結合,防止 APC 用 B8 活化 T 細胞。 - c. IL1: Anakinra 會與 IL-1 Receptor 結合,給予抑制訊息。 - d. IL6: Tocilizumab 是會與 IL-6 Receptor 結合的 Humanized 單株抗體。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
+- ...須靠 NSAID;(B) 須服藥 1~3 月以上才有效果,所以急性期須靠 NSAID消炎、止痛;(D)僅會延緩疾病(Erosion)進展。 | 94(三)檢內-45 | | (A) 17 | . 下列何種治療類風濕性關節炎的藥物,較容易導致結核菌的復發或感染? (A) tumor necrosis factor inhibitors (B) methotrexate (C) sulfasalazine (D) leflunomide 【詳解】結核菌的復發或感染就是這個新藥 tumor necrosis factor inhibitors (Enbrel®) 最大的擔憂。因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則被抑制,便較無法攻擊細胞內的病原體。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
+- ...為連續五天的發燒和呼吸困難來診。在病房時懷疑感染,所以分別做了血液、尿液和痰液的培養,但是都沒有任何陽性的結果。也給予廣效性抗生素,但是患者仍持續發燒。肺部的 X- 光檢查可以發現間質性浸潤形式的發炎。下列何種檢查對診斷較無幫助? (A) 結核菌素(Tuberculin)檢查 (B) 肺部電腦斷層攝影 (C) 抗核抗體(ANA) (D) 周邊血液抹片 | 95(一)專內 2-29 | | (D) 28 | . 承上題,在檢查時發現結核菌素測驗為陰性,但是抗核抗體為 1:2,560 陽性。由這些初步的檢查結果,還需要作何種檢查來確定診斷? (A) 痰液的抗酸染色(acid-fast stain)檢查 (B) 肺部切片 (C) 肺部的黴菌培養 (D) 抗雙股 DNA 抗體 【詳解 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- (A) pulmonary tuberculosis Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...isease | | Ш | IgG & IgM 和 | 自體的抗原:紅斑性狼瘡 (SLE)、類風濕性關節炎 (RA) | | | 補體 (IC) 沉澱 | 外來的抗原:慢性活動性肝炎、血清病、亞瑟氏反應 | | IV | Th1 | 皮膚結核菌素試驗 (Skin tuberculin test)、接觸性皮膚炎 (Contact dermatitis) | | | Th2 | 慢性氣喘 (Chronic asthma)、慢性鼻炎 (Chronic allergic rhinitis) | | | CTL | 移植排斥 (Graft rejection) | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
+- ...)的敘述,下列何者正確? (A) 活化的 CD8+T 淋巴球(CD8+T lymphocytes)可分化成可分泌細胞激素的 TH1 或 TH2 細胞(cytokine-producing TH1 or TH2 cells) (B) 宿主對抗結核菌感染,CD4+T 淋巴球(CD4+T lymphocytes)的活化和增生是最重要的 (C) TH1 細胞(TH1 cells)主要製造的細胞激素為干擾素(IFN-γ)以及介白質 4 和 5(interleukin-4 and interleukin-5) (D) TH2 細胞(TH2 cells)主要製造介白質 2、10 和 13(interleukin-2, interleukin-10 and interleukin-13) | Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
+- (C) 5. 一位工人由於大腿深部靜脈栓塞正在服用 warfarin,前凝血酵素時間 (prothrombin time) INR (international normalization ratio) 穩定控制 在 2 左右。最近在工廠身體檢查時又發現得了肺結核,已開始服用 rifampin。為了良好控制靜脈栓塞及避免併發出血,目前最適當的 處理方式為何? Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - Mycobacterium tuberculosis, any site (pulmonarya or extrapulmonary)\* Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - \*註:由於台灣為肺結核流行區域,因此在台灣單純肺結核並非 AIDS-defined illness,須合併 CD4 99% sensitivity, 感染 1~12 週後才會陽性);只有 ELISA 陽性時,不建議在 Western blot 結果出來前先行告知病患。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - ...) 共用餐具 (D) 被愛滋病毒感染的母親哺餵母乳 | 101(二)專醫三-61 | | (D) | 12. 與愛滋病毒感染最不相關之伺機性感染為下列何者? (A) 肺囊蟲肺炎 (Pneumocystis pneumonia) (B) 肺外結核 (Extrapulmonary tuberculosis) (C) 巨細胞病毒網膜炎 (Cytomegalovirus retinitis) (D) 幽門螺旋桿菌 (Helicobacter pylori) 感染 | 100(二)專醫三-57 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
@@ -75,8 +105,6 @@ tags:
 - ...Moxifloxacin | 吸入性肺炎(可對抗厭氧菌) | | 製造有毒物質破壞 DNA | Metronic | lazole | 厭氧菌、原蟲、偽膜性大腸炎 | | 抑制 RNA polymerase | Rifampir | n 肺結核 | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (4) Quinolones 對多重抗藥的結核菌有其角色。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 2. 用於治療肺結核,因容易產生抗藥性,所以常和其他藥物併用。預防親密接觸 Neisseria meningitidis 患者被傳染。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...登革出血 | 3. 新生兒破傷風 | 3. 類鼻疽 | 3. 黃熱病 | | 症候群 | 熱/登革休克症候群 | 4. 日本腦炎 | 4. 肉毒桿菌中毒 | 4. 伊波拉病毒出血熱 | | 4. 狂犬病 | 4. 流行性腦脊髓膜 | 5. 結核病(除多重抗 | 5. 侵襲性肺炎鏈球菌 | 5. 拉薩熱 | | 5. 炭疽病 | 炎 | 藥性結核病外) | 感染症 | | | 6. H5N1 流感 | 5. 副傷寒 | 6. 漢生病 | 6. Q 熱 | | | | 6. 小兒麻痺症 (急性 | 7. 先天性德國麻疹 | 7. 地方性斑疹傷寒 | | | | 無力肢體麻痺) | 症候群 | 8. 萊姆病 | | | | 7. 桿菌性痢疾 | 8-12. 急性病毒性 | 9. 兔 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...麻疹病毒,或 | | | | (二)急性期與恢復期血清 IgG ≧ 4 倍上升,或 | | | | (三)IgM 抗體陽性。 | | | | 實驗室診斷條件:肺部檢體(如痰、肋膜液、胃洗出液、支氣管沖洗液等檢體) | 24 小時內 | | 結核病 | 結核分枝桿菌培養陽性之藥物感受性試驗顯示至少同時對 isoniazid 及 | | | | rifampicin 抗藥。 | | | 屈公病 | 有「屈公病」相關流行地區旅遊史,且有下列症狀:發燒、頭痛、噁心、嘔吐、 | 24 小時內 | | | 肌痛、出疹、關節痛者等。 | | | 西尼羅熱 | 一、有「西尼羅熱」相關流行地區旅遊史,且有下列症狀:發燒且符合下列 | 24 小時內 | | | 任一臨床表現:頭痛、關節痛、肌痛、 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

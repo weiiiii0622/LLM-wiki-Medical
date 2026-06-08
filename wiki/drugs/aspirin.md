@@ -17,6 +17,13 @@ sources:
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book4-ch02]]"
+  - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med3-book4-ch14]]"
+  - "[[sources/med3-book4-ch20]]"
 aliases:
   - 'Aspirin (阿斯匹靈)'
   - 'Aspirin'
@@ -31,7 +38,7 @@ tags:
 
 ## Summary
 
-抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +55,26 @@ tags:
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch18]]
+- [[sources/med3-book4-ch02]]
+- [[sources/med3-book4-ch11]]
+- [[sources/med3-book4-ch27]]
+- [[sources/med3-book4-ch12]]
+- [[sources/med3-book4-ch07]]
+- [[sources/med3-book4-ch14]]
+- [[sources/med3-book4-ch20]]
 
 ## Key Details From Sources
 
+- ...closporine (C) cyclophosphamide (D) azathioprine | 103(二)專醫三-8 | | (B) | 8. 下列何者對 Cyclooxygenase (COX)-2 之選擇性抑制性最高? (A) 阿斯匹靈(Aspirin) (B) Celecoxib (C) Ibuprofen (D) Indomethacin | 102(一)專醫三-2 | | (C) | 9. 下列有關 Rheumatoid arthritis(RA)的敘述,何者正確? (A) RA 的晨僵(morning stiffness)通常不會超過 60 分鐘 (B) RA 的最常見眼睛併發症為虹膜炎(uveitis) (C) 抗腫瘤壞死因子(anti-TNF agents Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
+- ...---------------------------------------|------------------| | (A) | 7. 下列何者對血小板功能的影響最小? | 103(二)專 | | | (A) heparin (B) aspirin | 醫三-49 | | | (C) uremia (D) von Willebrand disease | | | (D) | 8. 一位病人血液檢查發現血小板數目是 520,000/μL。下列何者不需列入鑑別診斷? (A) Iron deficiency anemia (B) Massive hemorrhage (C) Postoperation of ruptured appendicitis (D) Ascariasis 【詳 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
+- (D) Aspirin uptake Source: [[sources/med3-book4-ch11|乙、凝血異常]].
+- (D) 使用阿斯匹靈可能會加重患者出血之狀況 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
+- (C) 1. 某論文經搜尋 Cochrane Library、MEDLINE 等,取得多個類似研究資料,並合併分析後結果如下:長期使用抗血小板藥物比上安慰劑的隨機分配試驗,有 1,965 位病人,使用每日劑量 75 mg 到 325 mg的 aspirin,平均追蹤 1.3 年。結果 aspirin 對於中風合併心肌梗塞或血管性事件有明顯下降(odds ratio (OR) 0.71,95% confidence interval (CI) 0.51 to 0.97)。依據實證醫學的原則,下列何者正確? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- (C) 6. 某論文摘要如下:長期使用抗血小板藥物比上安慰劑的隨機分配試驗,每日劑量 75 mg 到 325 mg 的 aspirin,平均追蹤 1.3 年。aspirin 對於中風合併心肌梗塞或血管性事件有明顯下降(odds ratio (OR) 0.71,95%confidence interval (CI) 0.51 to 0.97)。服用 aspirin 者比未服用 aspirin 者發生中風合併心肌梗塞或血管性事件的敘述,何者正確? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- (C) 服用 aspirin 者發生事件與沒發生事件的比值,除以未服用 aspirin 者發生事件與沒發生事件的比值為 0.71 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- ...iolipin antibodies)很高,為正常上限值的3倍,但過去並不曾發生血管栓塞。本次因左腿急性腫痛至急診室求診,影像學檢查見左腿有深部靜脈栓塞(deep vein thrombosis)。下列處置何者最為適當? - (A) 加上 aspirin,每日 100 毫克 - (B)加上口服 warfarin,希望目標 international normalized ratio (INR) 2.0~2.5 - (C) 應立即用高劑量類固醇治療 - (D) 加上新型抗凝血藥物 (new oral anticoagulants, NOAC) Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- (D) 停止 warfarin, 改用 aspirin Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- ...biotics, curare, D-tubocurarine, radiocontrast media) b. Agents that alter arachidonic acid metabolism | | reaction) | (aspirin and NSAID, azo dyes, and benzoates) | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - (AB) 3. 一位病人接受腎移植後服用環孢靈(cyclosporine),下列何種藥物 98(二)專 應避免使用? 醫三-3 (A) Allopurinol (B) 紅黴素 (erythromycin) (C) 阿斯匹靈 (aspirin) (D) 氫離子幫浦抑制劑 (proton pump inhibitor) 【詳解】erythromycin 是 cytochrome P 450 CYP3A4 抑制劑,會增 加藥物濃度。 (A) 4. 腎臟移植手術一個月之內比較少見的感染為何? 97(一)專 (A) BK virus (polyoma) (B) 泌尿道感染 醫三-29 (C) oral candidiasis (D) herpesvirus 【詳解 Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 - ...--------------------------------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(chronic kidne Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...,何者錯誤? (A) 肺炎是最常見的併發症,包含原發性流行性感冒病毒肺炎、細菌性肺炎及二者的混合型 (B) 大人感冒且服用 acetaminophen 可能併發雷氏症候群(Reye's syndrome) (C) 幼兒罹患流行性感冒且服用 aspirin 可能併發雷氏症候群(C) 心肌炎、横紋肌溶解、腦炎及 Guillain-Barre syndrome,都是流行性感冒可能出現的併發症 | 94(一)專內1-44 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
@@ -59,13 +83,6 @@ tags:
 - (1) Aspirin 腸胃毒性強、無心臟毒性。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - 3. NSAID 與腸胃道毒性: - (1) 胃腸出血的風險為aspirin > ketolac、indomethacin > naproxen、diclofenac > ibuprofen。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...論 | |--------------------|--------------------|----------------|----------------|---------------------| | Salicylates | Aspirin | Higher | No | Aspirin 腸胃毒性強、無心臟毒性 | | Coxibs | Celecoxib | No | Higher | Coxib 心臟毒性強、無腸胃毒性 | | Propionic acid | Naproxen | 2 Intermediate | 3 Lower | Naproxen 最不傷心 | | To a second second | Ibuprofen | 3 Lower | 2 Inte Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- (B) 施行內視鏡前,假如有服用低劑量阿斯匹靈則必須先停藥一週 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- Drugs used for inflammatory bowel disease sulfasalazine, 5-ASA Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
-- (2) 抗血小板藥物方面:Stable angina 會使用 Aspirin,而 ACS 病患會加上 Clopidogrel (Dual antiplatlet),針對高危險病患(血管造影下血栓量多)甚至會再加 GP IIb/ IIIa inhibitor (Triple antiplatlet)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...時後再追蹤一次心電圖、酵素,轉為有變化者,需住院治療。 - b. 臨床上常使用 TIMI risk score for UA/NSTEMI: (口訣: AACC+3) - (a) A : age $> 65 \circ$ - (b) A: aspirin used in past 7 days • - (c) C: CAD (> 50% stenosis) • - (d) C: CAD risk factor > 3 ° - (e) 3:診斷心肌梗塞三項表準→ angina, EKG, cardiac enzyme。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (2) 對 aspirin sensitive asthma 特別有效。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- 1. Aspirin induced asthma: Aspirin 及一些 NSAID 也會造成氣喘,通常由 perennial vasomotor rhinitis 開始,再產生 nasal polyp,最後造成氣喘。用 Leukotriene modifier 效果好。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 
 ## Clinical Caveats
 

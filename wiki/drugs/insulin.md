@@ -17,6 +17,8 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Insulin (胰島素)'
   - 'Insulin'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,14 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book3-ch05]]
+- [[sources/med3-book4-ch07]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- (4) Insulin-dependent diabetes mellitus: Tc 細胞攻擊蘭氏小島內的 β 細胞,導致胰島素分泌減少,造成高血糖。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
+- ...| 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
+- ...美國 ATP III (2001) | WHO (1999) | |------------|------------------|-------------------|------------------------------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL 異常,只 | | | | | 當一項計算之) | | 腹部肥胖或肥胖 | 腰圍 (cm): | 腰圍 (cm): | BMI ≥ 30 kg/m² 或腰臀比: | | | 男≥ 90 | 男> 102 | 男> 0.9 | | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 分類 | 病況 | 機制 | |---------------------------------------------|-----------------------------|-----------| | H+K+離子通道 | 鹼中毒 (Alkalosis) | 酸出細胞、鉀入細胞 | | Ca離子通道 | 理提供底值 (David dia nondersia) | 先天性離子通道異常 | | Na + -K + ATPase 離子通道 | 一週期性麻痺 (Periodic paralysis) | 甲狀腺刺激 | | Na -K AIFase 離丁週担 | 使用胰島素、β agonist | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (3) 低血鉀的病人給予靜脈輸液應避免葡萄糖液,因為可能會造成血糖上升,促進胰島素分泌,使鉀離子 shift 進細胞內,進而造成低血鉀加重。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].

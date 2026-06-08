@@ -18,6 +18,8 @@ sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med3-book4-ch04]]"
 aliases:
   - 'Blood pressure measurement (血壓測量)'
   - 'Blood pressure measurement'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,15 @@ tags:
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch26]]
+- [[sources/med3-book4-ch04]]
 
 ## Key Details From Sources
 
+- 【詳解】根據台灣心臟學會跟台灣高血壓學會發表的論文,關於生 活型態改變對於收縮壓的調整效果: Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- 選項(C):減重1公斤可降收縮壓1 mmHg,所以9公斤可降9 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- 選項(D):減少1克鹽可降收縮壓2.5 mmHg,但題目沒說原本該男 性使用幾克的鹽。 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- ...ticularis) - c. 睪丸疼痛 (Testicular pain or tenderness) - d. 肌肉無力、疼痛 - e. 神經病變 (Mononeuropathy or polyneuropathy) - f. 高血壓:舒張壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - 4. 常見併發症與其處理方式: - (1) 透析低血壓 (Intradialytic hypotension): - a. 一般指透析中或透析後收縮壓降至 100 mmHg 以下或是透析前收縮壓只有 100 mmHg,再下降 25% 者;機轉為多因性包括心臟血管自主神經功能失調,體液容積過低,降血壓藥物使用不當等。 - b. 處理方式: - (a) 調高乾體重。 - (b) 改變透析液的組成及溫度:提高透析液的鈉離子(一般用 140 →改用 150), 使用溫度較低的透析液(可降低 NO 產生,增加血管收縮)。 - (c) 改善心臟機能:改善貧血,避免使用低鈣透析液。 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - ...性腹膜透析 (continuous ambulatory peritoneal dialysis) (D) 自動化腹膜透析 (automated peritoneal dialysis) (A) 9. 一位 84 歲男性,因胃潰瘍大量出血,收縮壓降至 60 mmHg,有心 98(二)專 衰竭病史,其血壓用升壓劑勉強維持在 90/65 mmHg 左右,血中尿素 醫三-24 氦(BUN)升至145 mg/dL,肌酸酐(creatinine)11.5 mg/dL,每 天尿總量只有 75 cc,血紅素為 7 g/dL,需輸血及大量輸液治療約 2,500~3,500 ml /天,下列何種透析療法對他最為合適? (A) 連續性靜脈靜脈血液透析 (continuous veno-venous Source: [[sources/med3-book3-ch06|己、透析治療]].
 - (3) Chvostek's sign:輕敲耳前的顏面神經會引起顏面肌肉的抽動;Trousseau's sign:以血壓計之 Cuff 將壓力打到高於收縮壓 3 分鐘後,可見手腕痙攣(spasm)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
@@ -67,7 +75,6 @@ tags:
 - (b) 絕對禁忌:5 項必記。(Harrison p1537) - i. 2項是腦血管:先前有過腦出血;過去1年內有非出血性腦中風或其他腦血管疾病。 - ii. 3項是周邊血管: - (i) 高血壓(收縮壓> 180 mmHg、舒張壓> 110 mmHg); - (ii) 活動性內出血(Active internal bleeding),不包含月經的出血; - (iii) 疑似動脈剝離。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - ...下腔出血、腦內動脈瘤、或動靜脈瘤)、腦出血病皮、腦內腫瘤、活動性出血(月經不包含在內)、主動脈剝離。而相對禁忌症亦有電腦斷層顯示多處梗塞(低密度區大於大腦半球的三分之一)、七天內於無法壓迫處進行動脈穿刺、最近接受過腦內或脊髓內手術、高血壓(收縮壓高於 185 mmHg,舒張壓高於 110 mmHg)、或血糖低於 50 mg/dL…等。目前由於心導管介入治療相當進步,因此 r-tPA(血栓溶解劑)的使用日漸減少。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (D) 合併嚴重的高血壓(收縮壓大於 180 mmHg)者,是施行血栓 溶解劑治療的禁忌症 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (C) 肺動脈舒張壓力>右心室舒張壓力 Source: [[sources/med3-book1-ch05|子、其 他]].
 
 ## Clinical Caveats
 

@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch01]]"
+  - "[[sources/med3-book4-ch20]]"
 aliases:
   - 'Somatostatin analogs (Somatostatin 類藥物)'
   - 'Somatostatin analogs'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-降低門脈血流，可用於急性靜脈曲張出血處置。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低門脈血流，可用於急性靜脈曲張出血處置。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch01]]
+- [[sources/med3-book4-ch20]]
 
 ## Key Details From Sources
 
+- ...用含 5-fluorouracil, leucovorin, oxaliplatin (FOLFOX) 的化學治療 - (B) 用 loperamide - (C) 切除迴盲腸的腫瘤 (ileocecal mass) - (D) 用長效型 octreotide Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (D) 21. 一位 65 歲男性病人發生急性食道靜脈曲張出血(variceal bleeding),下列何種治療不考慮?98(ニ)専署ニ-56 - (A) 藥物 somatostatin or octreotide 治療 - (B) 內視鏡結紮術 - (C) 內視鏡硬化劑注射 - (D) 食道橫截切除術 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - ...| GH | ACTH | | 刺激分泌 | GnRH,estrogen | TRH | TRH,Estrogen | GHRH | CRH, AVP | | 抑制分泌 | Sex steroids | T3, T4, dopamine,somatostatin,glucocorticoids | Dopamine | Somatostatin,IGF-1 | Glucocorticoids | | 目標器官 | 性腺 | 甲狀腺 | 乳腺 | 肝、骨骼肌肉 | 腎上腺 | | 發生作用 | Sex hormone合成、性腺發育 | T4 合成與分泌 | 泌乳 | IGF-1 製造、促進生長 | Steroid 製造 | | 正常範圍 | 參照後面 table | 0.34-4.25 uIU/ Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

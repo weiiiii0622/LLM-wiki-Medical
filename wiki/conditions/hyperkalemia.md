@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book4-ch02]]"
 aliases:
   - 'Hyperkalemia (高血鉀)'
   - 'Hyperkalemia'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-高血鉀可能造成致命心律不整，需結合 ECG、腎功能、藥物與酸鹼狀態判斷。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血鉀可能造成致命心律不整，需結合 ECG、腎功能、藥物與酸鹼狀態判斷。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med3-book4-ch02]]
 
 ## Key Details From Sources
 
+- (3) Cyclosporin (Sandimmune®): 直接抑制 IL2 合成,而減少對 T 細胞的活化,不會有骨髓抑制;常見副作用包括高血壓、高血鉀、高尿酸血症、牙齦肥大 (Gingival hypertrophy) 等。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (2) 若是細胞膜內外轉移造成的低血鉀,如低血鉀週期性麻痺(Hypokalemia periodic paralysis),要小心補過頭而造成反彈性高血鉀(rebound hyperkalemia)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (D) 需密切監測血鉀,以避免反彈性高血鉀 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】本病患低血鉀,卻無明顯酸鹼異常且 TTKG 偏低,為典型 cellular shifting 造成之低血鉀,不可大量補充鉀離子,否則會造成 反彈性高血鉀。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].

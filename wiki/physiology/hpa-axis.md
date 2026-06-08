@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med3-book2-ch16]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch21]]"
 aliases:
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis (下視丘-腦垂體-腎上腺軸)'
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - [[sources/med3-book2-ch13]]
 - [[sources/med3-book2-ch16]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch21]]
 
 ## Key Details From Sources
 
+- 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- ...------------|--------| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syndrome | (D) Pancoa Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol/L。下列敘述何者錯誤? - (A) 病人的細胞外 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...為 369 mOsmol/kg H2O, 因此屬於 low osmolality 的 hyponatremia - (B) 病人無 edema, 為 euvolemic status, 因此病因不會是心臟衰竭 或肝腎病變 - (C) 病人 cortisol 23.3 mg/dL, ACTH 13.9 pg/mL, 因此病因不是 cortisol deficiency - (D) 病人 hsTSH 66.7 mIU/mL, 因此病因為 hyperthyroidism Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...ic state) | | | | | (C) 庫欣氏症 (Cushing's syndrome) | | | | | (D) 低血鉀週期性無力症(hypokalemic periodic paralysis) | | | | | 【詳解】Cortisol 有部分的 mineralocorticoid activity,庫欣氏症造成 | | | | | cortisol 上升,藉由增加 mineralocorticoid activity 造成低血鉀。 | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].

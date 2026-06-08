@@ -8,6 +8,9 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch20]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch19]]"
 aliases:
   - 'Lupus nephritis (狼瘡腎炎)'
   - 'Lupus nephritis'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-SLE 腎臟侵犯，可依病理分型決定治療強度。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SLE 腎臟侵犯，可依病理分型決定治療強度。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,19 @@ SLE 腎臟侵犯，可依病理分型決定治療強度。 本頁已整合至 `�
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch20]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch19]]
 
 ## Key Details From Sources
 
+- 6. 血液:(9)Hemolytic anemia ( Coombs' test 陽性 )、Leukopenia ( 一預後佳,不需治療 | | | III. Focal LN | 50% 腎絲球發炎 (Subendo. 免疫物沉積 ) | 一 | | | V. Membranous LN | Subepi. 免疫物沉積 | 若合併發炎,才治療 | | | VI. Advanced Sclerotic LN | 90% 腎絲球硬化,無殘餘發炎反應 | 末期病變,治療無效 | | | Classification of Lupus Nephritis | s (LN) [ISN&RPS, Harrison Table 313-2] | | | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- 2. 狼瘡腎炎 (Lupus nephritis) 的免疫抑制劑: Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- (D) anti-double-stranded DNA 抗體檢驗值的高低不可以當狼瘡腎炎 活性的指標 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- ...--------------------|--------------------|--------------------------------------| | | Chromatin | 週邊型(Peripheral rim) | Anti-dsDNA* | SLE (Dis. Activity) | | | (紅斑狼獊) | 廣泛型 | Anti-dsDNA* | SLE (Dis. Activity) | | | | (Diffuse chromatin) | Anti-histone | Drug induced LE | | Nucleo-plasmic | Ribonucleo-Protein Centromere (Ic 硬皮病) | 細斑點型(Fine Speckled Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- \*Anti-dsDNA 可能是 Peripheral 或 Diffuse type。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...pheral)、廣泛型 | |---------------|-----------------------|-------------------------|------------------------| | (核質) | 需考慮 Anti-dsDNA, | 需考慮 Anti-dsDNA、 | (Diffuse) 於細胞分裂的分裂期可 | | | 此抗體對 SLE 具專一性, | Anti-histone,後者與 | 見Chromatin螢光(左圖虛線箭頭); | | | 且與疾病活性有關 | Drug induced LE 有關 | 細、粗斑點型則不見 Chromatin | | | | | 螢光(左下圖虛線箭頭);而著絲 | | | * | | 點型可見 Chromatin 處有 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...H 基的粘液溶解劑 (HS-C-C-SO3),可使 Acrolein 不活化, 以預防它對尿路粘膜的傷害。 - b. Cyclophosphamide (Endoxan®): - (a) 用於治療淋巴瘤(CHOP),免疫風濕科用較低劑量治療狼瘡腎炎,而骨髓移植前則用較大劑量當作 conditioning regimens,後者可能造成心臟功能受損。 - c. Ifosfamide:為Cyclophosphamide analog,對於肉瘤(Sarcoma)較有效。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...功能不良者預後較差, 1/3 的病人 20 年後會進入腎衰竭 | | | | →若每天蛋白尿>1克:須以類固醇治療 | | | | →若已達腎病症候群 ( > 3 克 ): 類固醇 +ACEI 控制蛋白尿 | | | Systemic | Lupus nephritis( 狼瘡腎炎 ) 請參考 AIR 部分 | 下降 | | disease | → ANA (+)、Anti-dsDNA (+)、C3 下降 | | | | Cryoglobulinemia (冷凝球蛋白血症) | 下降 | | | → Cryoprecipitate (+)、C3 下降、Anti-HCV Ab (+) | | | | Henoch-schönlein purpura (HSP) | 正常 | | | → IgA neph Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (C) lupus nephritis Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - 【詳解】(A) GBM 厚度正常,排除 MGN s;(C) lupus nephritis 會 C3,C4 同時下降;(D) PSGN 在電鏡下的重要特徵:subepithelial humplike dense deposit。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

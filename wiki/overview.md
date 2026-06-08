@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(三)第3冊腎內感染`
-- Latest chapter source summaries: 22
-- Total chapter source summaries: 72
-- Total topic-first nodes: 441
+- Latest ingested textbook: `醫(三)第4冊免疫血液腫瘤家醫`
+- Latest chapter source summaries: 29
+- Total chapter source summaries: 101
+- Total topic-first nodes: 590
 
 ## Graph Shape
 

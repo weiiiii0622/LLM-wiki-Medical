@@ -7,6 +7,11 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med3-book4-ch15]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Kidney biopsy (腎臟切片)'
   - 'Kidney biopsy'
@@ -21,16 +26,27 @@ tags:
 
 ## Summary
 
-診斷腎絲球、間質與部分腎實質疾病的重要檢查。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+診斷腎絲球、間質與部分腎實質疾病的重要檢查。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch03]]
+- [[sources/med3-book4-ch04]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch03]]
+- [[sources/med3-book4-ch15]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- ...cANCA (cytoplasmic ANCA) | pANCA (perinuclear ANCA) | | 攻擊對象 | Anti-PR3 (Proteinase 3) | Anti-MPO (myeloperoxidase) | | 免疫螢光 | Diffuse, granular cytoplasmic staining pattern | Localized perinuclear staining pattern | | 中小型 | Wegener's granulomatosis | Churg-Strauss syn., Microscopic polyangiitis, | | 血管炎 | | Wegener's granulomatosis* | Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- 1. 衛格式肉芽腫 (Wegener's granulomatosis) [ 最常考!!] - (1) 流病:平均於40歲發病,好犯上下呼吸道及腎臟的血管。 - (2) 病生理:肺或腎臟切片可見有壞死性肉芽腫性血管炎(Necrotizing granulomatous vasculitis); 90%的 Wegener's granulomatosis 病患 cANCA(+)。 - (3) 症狀: - a. 上呼吸道:副鼻竇疼痛、血膿樣鼻分泌物、鼻中隔穿孔,甚至造成馬鞍鼻(Saddle nose deformity)。 - b. 下呼吸道:由無症狀到咳嗽、咳血;CT可見兩側多發性開洞浸潤(Cavitary infiltration)。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- (5) 因此,腎臟切片有助於計畫 SLE 病患的治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- (A) 1. 以免疫螢光法做抗核抗體(ANA)時,其結果除了濃度高低外,另 102( ) 專 能看出核染色之類型(pattern),下列那一種類型與全身性硬化症 醫三-33 (systemic sclerosis)最具相關性? - (A) Centromere pattern Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
+- (B) 31. 陳小姐最近被診斷患有全身性紅斑狼瘡(SLE)合併有腎炎,醫師建 97(-)專 議腎臟切片檢查。陳小姐拒絕進行切片檢查,同時要求不要將其病 醫三-80 情告知其未婚夫(擔心影響彼此的婚約)。陳小姐的未婚夫相當關 心陳小姐的病情,親自前來詢問,醫師是否應該將陳小姐的病情告 知其未婚夫? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...3.5 g/d,我們就會先下 Nephrotic syndrome 這個診斷,再根據服用 NSAID 的病史等,可以猜測為 Nephrotic syndrome r/o Minimal change disease (MCD),最後當然需要腎臟切片來證實病患是由 MCD 造成的 Nephrotic syndrome。 - b. 例如病人來急診,主訴這幾個禮拜水腫、血壓高、咳血、氣喘發作,小便驗起來有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9,無糖尿病、高血壓,我們可懷疑為 ESRD due Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (3) 因此接下來要介紹很多腎絲球疾病,有些會較以腎炎(Nephritic)表現,有些則以蛋白尿表現(Nephrotic syndrome),雖然有時候依照病人臨床症狀可能可以猜出病人是哪一種腎絲球疾病,但最後要確定診斷還是要靠腎臟切片。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (D) 1. 一名 30 歲女性,近 2 個月血清肌酸酐從 1.0 升至 3.0 mg/dL,其血清 anti-neutrophil cytoplasmic 抗體呈陰性反應,血清 C3 降低,C4 正常,經腎臟切片檢查確定為新月型腎絲球腎炎,電鏡檢查發現有 subepithelial electron-dense 沉積,glomerular basement membrane 厚度正常,下列 診斷何者正確? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

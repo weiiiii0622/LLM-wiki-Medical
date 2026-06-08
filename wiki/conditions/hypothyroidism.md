@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med3-book4-ch27]]"
 aliases:
   - 'Hypothyroidism (甲狀腺低下)'
   - 'Hypothyroidism'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch26]]
+- [[sources/med3-book4-ch27]]
 
 ## Key Details From Sources
 
+- ...藥物、疾病、器官退化與外在環境。 | 104(一)專醫三-66 | | (B) 29. | 一位 33 歲男性,因肥胖來門診諮詢。為強化病人減重的動機,你會告訴他有關肥胖的併發症。肥胖會增加下列那一種疾病的風險? (A) 甲狀腺功能低下症(hypothyroidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
+- (B) 甲狀腺機能低下 (hypothyroidism) Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...pain, nausea, drugs | | | | 4. Syndrome of inappropriate AVP secretion | | | | 5. Glucocorticoid deficiency | | | | 6. Hypothyroidism | | | | 7. Chronic renal insufficiency | | | Primary Na + gain | 1. Heart failure | | | (exceeded by | 2. Hepatic cirrhosis | | | secondary water gain) | 3. Nephrotic syndrome | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (B) 甲狀腺機能低下 (hypothyroidism) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】TSH 很高,代表下游的甲狀腺素分泌不足,導致上游拼命 的刺激,屬於 hypothyroidism。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].

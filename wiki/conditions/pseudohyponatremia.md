@@ -10,6 +10,9 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Pseudohyponatremia (假性低血鈉)'
   - 'Pseudohyponatremia'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,17 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch07]]
+- [[sources/med3-book4-ch01]]
+- [[sources/med3-book4-ch12]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- (c) Cyclosporine 最常見的副作用包括減低腎臟功能、血壓升高、升高血脂肪濃 度、毛髮過度生長、上臂及腳部刺痛及灼熱感、牙齦增生等。Tacrolimus 常 見的副作用包括腎毒性、腹瀉、誘發糖尿病等。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- ...nsplantation)用來預防移植物反宿主疾病(graft-versus-host disease)的重要免疫抑制劑,下列何者不是 CsA 常見的副作用? (A) hypertension (B) hyperlipidemia (C) hyperglycemia (D) nephrotoxicity | 105(一)專醫三-45 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
+- ...i」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- ...人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- ...oidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...lity | 2. Hyperproteinemia | | | | 3. Posttransurethral resection of prostate/bladder tumor | | | Increased plasma | 1. Hyperglycemia | | | osmolality | 2. Mannitol | | Hypoosmolal | Primary Na + loss | 1. Integumentary loss: sweating, burns | | hyponatremia | (secondary water gain) | 2. Gastrointestinal loss: vomiting, tube drainage, fistula, obstruc Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 對低血鈉有概念了嗎?低血鈉在臨床上相當常見,天天在抽 BUN/CR、Na/K,抽出來的低血鈉你是否會處理?謹記幾個原則,先排除假性低血鈉,看一下 chart,病人是否有高血糖、高血脂等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (A) 高血糖 (hyperglycemia) Source: [[sources/med3-book3-ch02|乙、離子平衡]].

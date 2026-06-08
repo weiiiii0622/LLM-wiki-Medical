@@ -16,6 +16,16 @@ sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med3-book4-ch23]]"
+  - "[[sources/med3-book4-ch25]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Lung cancer (肺癌)'
   - 'Lung cancer'
@@ -30,7 +40,7 @@ tags:
 
 ## Summary
 
-肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +56,29 @@ tags:
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch04]]
+- [[sources/med3-book4-ch22]]
+- [[sources/med3-book4-ch19]]
+- [[sources/med3-book4-ch21]]
+- [[sources/med3-book4-ch27]]
+- [[sources/med3-book4-ch28]]
+- [[sources/med3-book4-ch18]]
+- [[sources/med3-book4-ch04]]
+- [[sources/med3-book4-ch23]]
+- [[sources/med3-book4-ch25]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- (1) **惡性腫瘤(肺癌、**淋巴癌、轉移來的癌症)佔了 90% 原因,其中肺癌佔了 85% 的 絕大多數。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
+- (2) 惡性腫瘤中 Small cell lung cancer 及 squamous cell lung cancer 佔了 85%。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
+- (4) Non-small cell lung cancer、Metastases 需用 Radiation therapy。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
+- ...----------------|----------------------------------------|------------------------------|--| | | | Platinum | Cisplatin→肺癌、生殖細胞癌、頭頸胃腸癌 | | | | | | | Carboplatin →肺癌 (腎不好者)、卵巢癌 | 骨髓抑制 | | | | Alkylating | | Oxaliplatin→大腸癌 | 神經毒性 | | | | | Nitrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | | Ifosfamide → Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- (2) Platinum (鉑) 家族: - a. Cisplatin: Cisplatin based chemotherapy 是肺癌的標準化療配方。 - (a) 須搭配適量 hydration 及適當利尿以避免腎臟毒性,但儘管各種預防措施,仍 常見病患腎功能慢慢變差。 - (b) 可能導致低血鎂、並伴隨低血鈣等電解質異常。還可能導致四肢未端麻木等神經毒性(glove-and-stocking neuropathy)、聽力受損等。 - (c) 強致吐劑,臨床上以 5-HT3 antagonists: Tropisetron (Navoban®)、Ondansetron Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- ...synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、Vitamin B12 以減少毒性。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- | 症 狀 | 腫 瘤 | | |-----------------------------------------|-------|--| | Eaton-Lambert syndrome | 小細胞肺癌 | | | Hypertrophic pulmonary osteoarthropathy | 肺腺癌 | | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- | 症 狀 | 腫 瘤 | |--------------------------------------------------------|------------------------| | Acanthosis nigricans | 胃癌、非小細胞肺癌 | | Sweet syndrome (Acute febrile neutrophilic dermatosis) | AML · MDS | | Pruritis | Hodgkin's disease | | Pemphigus | Non- Hodgkin's disease | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- (B) 3. 假設你收集 100 位肺癌病人及 1,000 位年齡、性別及社會經濟狀況 相似的非肺癌控制群為研究對象,100 位肺癌病人有 90 位是有規律 的吸菸者,1,000 位控制群有 270 位是規律的吸菸者,則吸菸得到 肺癌的危險勝算比(odds ratio)是多少? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (#) 4. 一位 55 歲男性這兩天意識變化被送至急診處。病人一個月前診斷為 肺癌,但他拒絕任何進一步治療。家人敘述病人這個月情緒低落, 但進食情況尚可,無嘔吐或發燒。身體檢查:體溫 36.8℃,血壓 130/78 mmHg, 脈搏每分 80 次, 呼吸每分 19 次。病人對時空有錯 亂情形,以及嗜睡;其他神經學檢查無異常;右上鎖骨窩有一拇 指大的淋巴結,下肢無水腫。初步檢查血比容 42%,白血球 8,300/ mm3, 血小板 240,000/mm3; 尿液檢查正常; 尿素氮 15 mg/dL, ALT 30 U/L,血糖 156 mg/dL。血清電解質,Na+ 122,K+ 5.5,Cl- 86 (電解質單位 mmol/L)。有關此病人的可能診斷,下列那一個最 適當? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (B) 10.63 歲男性,患有肺癌接受化學治療三天後,因意識不清被送至急診處。家人告知:病人食慾不好,有噁心但無嘔吐;身體診查:體溫36.8℃,血壓124/75 mmHg,脈搏78/min,呼吸18/min。病人除對時空有錯亂及嗜睡外,其他神經學檢查無異常;下肢無水腫;尿液檢查正常;尿素氦18 mg/dL,尿酸2.5 mg/dL,ALT20 U/L,血糖108 mg/dL。血清電解質:Na+118,K+3.5,Cl-79,free calcium 2.4(電解質單位 mmol/L);病人尿液的渗透壓是290 mOsmol/kg H₂O。對此病人下列敘述何者錯誤? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (B) 通常是某些疾病的併發症,如肺結核、肺癌等 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
@@ -57,12 +87,6 @@ tags:
 - 1. 過去認為 85% 肺癌病人有抽菸,台灣目前癌登統計,非抽菸者肺癌已略多於 50%。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
 - 2. 肺腺癌最常見,也是非吸煙者得肺癌最常見的類型,位置較 Peripheral。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
 - 3. 小細胞肺癌(Small cell carcinoma)會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
-- \*FEV1/FVC 正常值約為 80%, 阻塞性肺疾 (Obstructive lung disease) 的定義是 FEV1/FVC 1 為 50% 預測值,FEV1/FVC 為 45%,下列何者為最可 - (A) 肺癌 - (B) 阻塞性肺疾 - (C) 侷限性肺疾 - (D) 血管性肺疾 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- (C) 肺癌 (lung cancer) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- (A) 肺癌 (lung cancer) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...--------|-----------------------| | (D) | 2. 60 歲男性,主述長期咳痰,呼吸不暢,最近有關節痠痛症狀。身體檢查時看到杵狀指(clubbing fingers)。下列那些疾病應優先列入鑑別診斷?①肺癌 ②急性肺炎 ③支氣管擴張症 ④先天性心臟病 ⑤肝硬化 ⑥克隆氏症(Crohn's disease)(A) ①②③④⑤⑥(B) 僅③④⑤⑥(C) 僅②④⑤⑥ | 105(一)專醫三-49 | | (C) | 3. 下列關於胸腺惡性腫瘤(malignant thymoma)的敘述,何者錯誤? (A) 最常見於前縱膈腔,好發於中年者,男女約各半 (B) 約有 1/3 合併重症肌無力 (C) 有心包膜(pericardium)或肋膜(pleu Source: [[sources/med3-book1-ch18|寅、其 他]].
-- ...disease) (C) 正常人 (D) 肺動靜脈瘻管 (pulmonary arteriovenous fistula) 【詳解】Ref. Harrison's 17th, ch35 Clubbing of the digits: - Lung cancer Interstitial lung disease - Chronic infections in the thorax, such as bronchiectasis, lung abscess, and empyema. Congenital heart disease associated with right-to-left shunting - Chronic inflammatory or infectious disea Source: [[sources/med3-book1-ch18|寅、其 他]].
-- ...ale 而有 peripheral edema) | Puffer 是因為製造 Auto-PEEP 吐氣狀) | | 治療 | FEV₁1 antitrypsin deficiency。 一般抽菸造成的疾病多在上肺葉,如上肺葉肺氣腫、上肺葉肺癌。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 
 ## Clinical Caveats
 

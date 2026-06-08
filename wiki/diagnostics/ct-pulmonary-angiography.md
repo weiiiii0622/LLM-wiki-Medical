@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch08]]"
+  - "[[sources/med3-book4-ch04]]"
 aliases:
   - 'CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)'
   - 'CT pulmonary angiography, CTPA'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-肺栓塞常用影像診斷。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺栓塞常用影像診斷。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book2-ch22]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch08]]
+- [[sources/med3-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...1990)[不用死記,建議多看幾次能對此病有概念] - a. 年紀 10 mmHg - d. 四肢動作困難 (Extremities claudication) - e. 鎖骨下動脈或主動脈聽到雜音(Bruit) - f. 大動脈或主要分之血管攝影異常 (Irregular vessel wall, stenosis 等) - (4) 治療: Steroid、MTX Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- ...Mononeuropathy or polyneuropathy) - f. 高血壓:舒張壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- (C) 10. 一位 35 歲女性最近兩個月來有微燒,而體重減輕約 6 公斤,吃飯之 後會有輕度腹痛。檢查結果發現 WBC 11,500/mL、CRP 1.46 mg/L、 ANA: 1: 160 speckled、cANCA 陰性、anti-cardiolipin < 12 U/mL, proteinuria (++),腹部血管攝影如附圖。最可能的診斷為何? Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...低血壓(D) 最近曾服用降血脂藥物 | 94(二)專內 1-23 | | (D) 36. 要評估腎臟血管硬化程度,下列那一種方法比較不影響腎功能? (A) 電腦斷層(CT scan)加顯影劑(contrast medium) (B) 標準型血管攝影(standard angiography) (C) 靜脈輸注泌尿道攝影(intravenous urography) (D) 核磁共振血管攝影(magnetic resonance angiography) | 94(二)專內 1-26 | | (D) 37. 關於急性腎小管壞死,下列那個推論是正確的? (A) 利尿劑可以避免急性腎小管壞死 (B) 注射腎 - 劑量的 dopamine 可以避免腎小管壞死 (C) 注射腎 - 劑量的 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - (B) 應做腎血管攝影,診斷可能是腎動脈高血壓 (renovascular hyper-tension) Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].

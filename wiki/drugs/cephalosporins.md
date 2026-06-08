@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch13]]"
+  - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Cephalosporins (頭孢子菌素類)'
   - 'Cephalosporins'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book3-ch13]]
+- [[sources/med3-book4-ch07]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- (A) 9. 下列有關過敏性休克(anaphylaxis)的敘述,何者錯誤?(A) 只有注射藥物或昆蟲叮咬才會產生 - (B) 是經由過敏原與肥胖細胞 (mast cell) 上的 IgE 抗體結合所導致 - (C) 儘快給病人施打 epinephrine,可緩解大部分症狀 - (D) 盤尼西林 (penicillin) 過敏者,若打頭孢子菌素 (cephalosporin) 仍有部分病患可能過敏 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
+- (3) 可用 Ceftriaxone (Rocephin®) 治療。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - 2. Urethritis: 需治療 Neisseria (Ceftriaxone 250 mg IM\*1 dose)、Chlamydia Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 4. Pyelonephritis: Quinolone 或 1st cephalosporin (cefazolin®) 或 Amoxicillin/clavulanate (Augmentin®) \* 14 天 Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - ...s | 100 | | 主要在兒童及年輕人,有群聚病史(軍隊、宿舍),由鼻咽進入,有出血點、斑 (petechiae and purpuric rash) | PCN-S | PCN G | | g | | , , | | PCN-R | Ceftriaxone | | Listeriamonocytogenes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].

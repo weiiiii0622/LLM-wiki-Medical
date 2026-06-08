@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch16]]"
+  - "[[sources/med3-book4-ch02]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Acromegaly (肢端肥大症)'
   - 'Acromegaly'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch16]]
+- [[sources/med3-book4-ch02]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- 2. DAS28 = $(0.56 \times \text{vTJC}) + (0.28 \times \text{vSJC}) + (0.7 \times \ln \text{ESR}) + (0.014 \times \text{GH})$ - (1) TJC:觸痛關節數,SJC:腫脹關節數,ESR: 紅血球沉降速率(單位為 mm/h) - (2) GH:病患為自己的整體健康狀態 (general health status) 由 0~100 分打分數 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
+- | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - ...----------------------|------------------|------------------------|-----------------| | Hormone | FSH, LH | TSH | PRL | GH | ACTH | | 刺激分泌 | GnRH,estrogen | TRH | TRH,Estrogen | GHRH | CRH, AVP | | 抑制分泌 | Sex steroids | T3, T4, dopamine,somatostatin,glucocorticoids | Dopamine | Somatostatin,IGF-1 | Glucocorticoids | | 目標器官 | 性腺 | 甲狀腺 | 乳腺 | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - (1) 荷爾蒙 (Hormone): 腦垂體腫瘤在蝶鞍僅有 的空間內壓迫腦垂體正常部分,造成荷爾蒙 低下。前葉分泌細胞分部位置如圖所示,內 側較不容易受腫瘤壓迫影響。通常生理上越 重要的越慢受影響,影響順序 GH → FSH、 LH → TSH → ACTH。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - | 五種細胞 | 症 狀 | |-------------------|---------------------------------| | 生長激素低下 (GH ↓ ) | 小孩:身材矮小 | | | 成人:倦怠、無力、骨質疏鬆、脂肪量增多 | | 性促素低下 (FSH、LH ↓ ) | 男:不孕、性慾降低、無第二性徵 | | | 女:不孕、無月經 | | 甲促素低下 (TSH ↓ ) | 甲狀腺低能症 (Hypothyroidism) | | 皮促素低下 (ACTH ↓ ) | 腎上腺功能不足 (Adrenal insufficiency) | | 乳促素低下 (PRL ↓ ) | 女性無法泌乳 | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

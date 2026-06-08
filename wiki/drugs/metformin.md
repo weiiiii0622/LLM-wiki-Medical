@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch01]]"
 aliases:
   - 'Metformin (二甲雙胍)'
   - 'Metformin'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-第 2 型糖尿病常用一線藥物，可降低肝糖輸出並改善胰島素阻抗。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+第 2 型糖尿病常用一線藥物，可降低肝糖輸出並改善胰島素阻抗。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch01]]
 
 ## Key Details From Sources
 
+- (B) 22. 一位糖尿病病患,曾因鬱血性心臟病接受心臟移植手術,之後一直在門診追蹤,並規則服用糖尿病藥物 glibenclamide、metformin 及抗排斥藥 tacrolimus,情況良好。三週前因為腹瀉,疑是 tacrolimus 的副作用,因此改用 azathioprine。這兩天病人出現發燒、畏寒症狀被送到急診處。身體檢查,除發燒、輕度貧血外,無其他異常。血液相顯示血紅素 11.1 g/dL,白血球 760/μL,其中 neutrophil 5%,lymphocyte 80%,monocyte 14%,eosinophil 1%,血 小板 62,000/μL。這位病人最可 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (B) metformin 引發酸血症 (metformin related acidosis) Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (B) 11. 一名 60 歲婦女因意識不清和倦怠而住院,病人有糖尿病長期服用metformin,去年被診斷罹患肺小細胞癌目前仍治療中。身體診查:血壓 136/80 mmHg,脈搏每分鐘 76 次,呼吸每分鐘 14 次,頸靜脈平坦,胸腹部無異常,四肢無水腫,神經學檢查無運動缺陷,唯deep tendon reflexes對稱性減弱。實驗室檢查:血鈉 108 mmol/L,鉀 3.8 mmol/L,HCO3 24 mEq/L,尿素氮 5 mg/dL,肌酸酐 0.5 mg/dL,血清渗透壓 220 mOsmol/kg H2O,尿渗透壓 400 mOsmol/kg H2O。若太快校正此病人之電解質異常,最擔心發生下列何種併發症? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (2) 藥物:Metformin、Acarbose、TZD 皆有研究證實有效,是否要常規使用,仍待更多 臨床證據。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].

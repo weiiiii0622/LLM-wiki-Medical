@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch27]]"
 aliases:
   - 'Pertussis (百日咳)'
   - 'Pertussis'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch27]]
 
 ## Key Details From Sources
 
+- | 疫苗需求等級 | 疾病種類 | |---------|--------------------------------------| | 必需性疫苗 | 黄熱病 | | 例行性疫苗 | A/B型肝炎、日本腦炎、白喉 / 百日咳 / 破傷風、小兒麻痺、卡介苗及 | | (常規性疫苗) | 麻疹 / 腮腺炎 / 德國麻疹等疫苗 | | 建議性疫苗 | A/B 型肝炎、日本腦炎、腦膜炎、霍亂及傷寒等疫苗 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- ...| | | 24hr 內 | 儘速 | 第一劑 | | | | | | | | | | | | | | | | | | 接種年齡 24hr 內 | 疫苗 | B型肝炎疫苗 (HepB) | 卡介苗 (BCG)¹ | 白喉破傷風非細胞性 | 百日咳、b 型嗜血桿菌及 | 不活化小兒麻痺五合一疫 | 苗 (DTaP-Hib-IPV) | 結合型肺炎鏈球菌疫苗(PVC 13) | 水痘疫苗 (Varicella) | 麻疹腮腺炎德國麻疹混合 | 疫苗 (MMR) | 日本腦炎疫苗(圧)2 | 流歐疫苗 (Influenza)³ | A型肝炎疫苗 (HepA) 4 | 白喉破傷風非細胞性百日 | 咳及不活化小兒麻痺混合 | 疫苗 (DTaP-IPV/Tdap-IPV)6 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
+- (#) 10. 高媽媽帶著剛滿 11 個月的小孩前來看咳嗽及流鼻水,詢問高媽媽有 106( 二 ) 專 關高小弟的疫苗接種情況,依據衛生福利部國民健康署的建議,高 小弟應已接受下列那些疫苗注射?①卡介苗 ② B 型肝炎 ③白喉 破傷風百日咳混合疫苗 ④小兒麻痺口服疫苗 ⑤水痘疫苗 ⑥麻 疹腮腺炎德國麻疹混合疫苗 ①日本腦炎疫苗 ⑧破傷風減量白喉 混合疫苗? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...D) | | 類桿菌 | Bacteroid | B. fragilis | 厭氧 | | | 呼吸道桿菌 | 嗜血桿菌 | Haemophilus | H. influenzae, H. ducreyi | | | | | 博得氏菌 | Bordetella | B. pertusis | 1 | | | | 退伍軍人菌 | Legionella | L. pneumophila | | | | 人畜 | 耶氏菌 | Yersinia | Y. pestis | 嗜氧 | | | 共通 | 弗倫西絲菌 | Francisella | F. tularensis | | | | 村 | 布氏桿菌 | Brucella | | | | | | 巴斯德桿菌 | Pasteurella | P. Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...acteroid | B. fragilis | 絕對厭氧 | | | | | 嗜血桿菌呼吸道桿菌 博得氏菌 | | Haemophilus | H. influenza, H. ducreyi | | | | | 呼吸道桿菌 | | | Bordetella | B. pertussis | | | | | | 退伍軍人菌 | | Legionella | L. pneumophila | | | | | | 耶氏菌・・・・・・・・・・・・・・・・・・・ | | Yersinia | Y. pestis | 兼性厭氧 | | | | 人畜共通 | | | Francisella | F. tularensis | | | | | 桿菌 | 布」 | 氏桿菌 | Brucella | | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...| | | | 中老年人:肺炎、中耳炎 | | | 杜克氏嗜血桿菌 | 僅需 factor X (hemin) | 軟性下疳 (Chancroid) [ 很痛的潰瘍 | | | Haemophilus ducreyi | | | | | 百日咳博得氏菌 | Bordet-Gengou agar | 百日咳 (Pertusis) | | | Bordetella pertussis | (BG 培養基 ) | | | | 嗜肺退伍軍人桿菌 | Buffered charcoal yeast | 退伍軍人熱 (Legionnaires' disease) | | | Legionella pneumophila | Extract agar (BCYE 培養基) | 龐帝亞克熱 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

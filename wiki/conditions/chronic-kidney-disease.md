@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book4-ch21]]"
 aliases:
   - 'Chronic kidney disease, CKD (慢性腎臟病)'
   - 'Chronic kidney disease, CKD'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-腎功能或腎臟結構慢性異常，需分期、控制進展因子與併發症。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎功能或腎臟結構慢性異常，需分期、控制進展因子與併發症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch01]]
+- [[sources/med3-book4-ch21]]
 
 ## Key Details From Sources
 
+- ...thy 與肺癌(lung cancer)有關 (B) pigmented villonodular synovitis (PVNS)與糖尿病(diabetes mellitus)有關 (C) hemophilic arthropathy 與慢性腎臟病(chronic kidney disease)有關 (D) neuropathic joint disease 與 carpal tunnel syndrome 有關 | 108(二)專醫三-29 | |-----|--------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ## 戊、慢性腎臟病 (Chronic Kidney Disease, CKD) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ## B. CKD 分級 (依據 NKF-KDOQI guideline) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - 1. 控制血壓: JNC8 建議將血壓控制低於 140/90 mmHg ,不論是否有蛋白尿,血壓控制的標準都一樣 (cf. 之前的 JNC7 建議 CKD 病患之血壓控制在 130/80 mmHg 以下,如果有蛋白尿大於每天 1 公克,則血壓最好能控制在低於 125/75 mmHg)。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].

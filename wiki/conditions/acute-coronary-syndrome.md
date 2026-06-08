@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch20]]"
+  - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med3-book4-ch20]]"
 aliases:
   - 'Acute coronary syndrome (急性冠心症)'
   - 'Acute coronary syndrome'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-斑塊破裂與冠狀動脈血栓造成不穩定心絞痛或心肌梗塞。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+斑塊破裂與冠狀動脈血栓造成不穩定心絞痛或心肌梗塞。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book1-ch20]]
+- [[sources/med3-book4-ch07]]
+- [[sources/med3-book4-ch20]]
 
 ## Key Details From Sources
 
+- ...才吃第一次藥。依此病人的臨床表現, 下列何種疾病最有可能? - (A) 急性氣管炎 (acute bronchitis) - (B) 氣喘發作 (asthma attack) - (C) 過敏性反應 (anaphylaxis) - (D) 急性冠心症候群 (acute coronary syndrome) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
+- 【詳解】(C)雖然大部分的早期偵測大腸癌的計畫都強調糞便潛血 檢查,但卻有50%證實有大腸癌的病人其糞便潛血檢查是陰性的, 這和大腸癌的出血是間斷性的有關,因此敏感度其實不高;另外, 潛血陽性的也< 10%後來發現有大腸癌。其實, Colonoscopy 才是 最具敏感的檢查;因此 ACS 建議篩檢的方法是大於 50 歲的人每年 檢查大便潛血,且5年檢查一次 sigmoidoscopy。(Harrison, 529) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - C. 急性冠心症(Acute coronary syndrome) 48 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - 2. 缺血性心臟病分為兩大類,一類是慢性穩定型心絞痛(Chronic stable angina),一類是 急性冠心症(Acute coronary syndrome)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - ...-------------------------| | Chroni | c stable angina | Fixed atherosclerotic plaque | Pain during exertion (30min) | | ACS | NSTEMI | 阻塞,已造成心肌壞死 | Enzyme (+) | | | | (僅心內膜 Subendocardial) | EKG: ST Depression, TWI | | | | 管腔完全堵塞一段時間 | Pain not relieve by NTG (>30min) | | | STEMI | 造成心肌壞死(全層心肌 | Enzyme (+) | | | | 皆受影響 Transmural) | EKG: ST Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

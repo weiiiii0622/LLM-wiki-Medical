@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Candidiasis (念珠菌感染)'
   - 'Candidiasis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- 5. 末期病人的症狀處置-消瘦(Cachexia)與厭食(Anorexia) - A: Aches (疼痛) - N: Nausea ( 噁心 ) - O: Oral candidiasis (口腔念珠菌) - R: Reactive depression (憂鬱症) - E: Evacuation problems (排便問題) - X: Xerostomia (口乾) - I: Iatrogenic (化療、放療、藥物相關) - A: Acid-related problem (胃炎、腸胃潰瘍) - 重 1. 厭食是疾病的一部分,病人不會因為飢餓而死亡 - 要 2. 末期病人的水和食物需求通常不多,並不會因為飲食的下降而造成不舒服 - 觀 3. 勉強病人進食,無法改善其生活品質或延長生命 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...鴿糞/土壤→吸入肺中,通常無症狀 | 不需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluconazole | | | ポルエ(球黴菌) | | | 常在菌→鵝口瘡 (thrush) / 尿布疹 | 局部 Nystatin/Azole. | | | (本版图) | 念珠菌 | Candida | →擴散性念珠菌血症 | → Fluconazole,echinocandin | | | 系統性(絲黴菌) | | | 腐敗植物→麴菌球 (Fungus ball) | 開刀 | | | | 麴菌 | Aspergillus | →侵入性麴菌病 (Invasive asper.) | → Voriconazole,Amp Source: [[sources/med3-book3-ch20|子、黴菌學]].
 - 2. 球黴菌型 (Coccidioidal) 指的是酵母菌型 (Yeast) 的隱球菌 (Cryptococcus) 或類酵母菌型 (Yeast-like) 的念珠菌 (Candida); 絲黴菌型 (Filamentous) 指的是黴菌型 (Mold) 的麴菌 (Aspergillus)。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
 - | 酵母菌( | Yeast) | 黴菌 (Molds) | |---------------------------------------------------|---------------------------------------------------|------------------------------------------------| | 酵母菌型 (Yeast)沒有菌絲,屬單細胞,如隱球菌 (Cryptococcus) | 類酵母菌型 (Yeast-like)有假菌絲,屬單細胞如念珠菌 (Candida) | 黴菌型 (Mold)許多菌絲構成,屬多細胞如麴菌 (Aspergillus) | | | Afr | | Source: [[sources/med3-book3-ch20|子、黴菌學]].

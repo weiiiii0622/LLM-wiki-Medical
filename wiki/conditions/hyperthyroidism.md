@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch06]]"
 aliases:
   - 'Hyperthyroidism (甲狀腺亢進)'
   - 'Hyperthyroidism'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch06]]
 
 ## Key Details From Sources
 
+- 2. 危險因子: (Harrison table 327-2) - (1) 年紀大、 - (2) 副甲狀腺亢進、低鎂、低磷、鐵沉積, - (3) 慢性痛風、半月板切除過(Post-meniscectomy)等。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - ...是心臟衰竭 或肝腎病變 - (C) 病人 cortisol 23.3 mg/dL, ACTH 13.9 pg/mL, 因此病因不是 cortisol deficiency - (D) 病人 hsTSH 66.7 mIU/mL, 因此病因為 hyperthyroidism Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入), 造成暫時的低血鉀, 導致肌肉無力,病人可能一早起來發現四肢無力,未經鉀離子的補充,下午鉀離子就會 shift 出細胞,無力就會改善。治療甲狀腺機能亢進,症狀就會改善。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - D. Other - 1. Pseudohypokalemia - 2. Hypothermia - 3. Hypokalemic periodic paralysis(HPP,好發男性,和甲狀腺亢進有關,以四肢麻痺全身無力表現) - 4. Barium toxicity Source: [[sources/med3-book3-ch02|乙、離子平衡]].

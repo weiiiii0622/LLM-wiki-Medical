@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med3-book2-ch15]]"
+  - "[[sources/med3-book4-ch29]]"
 aliases:
   - 'Antithyroid drugs (抗甲狀腺藥物)'
   - 'Antithyroid drugs'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch13]]
 - [[sources/med3-book2-ch15]]
+- [[sources/med3-book4-ch29]]
 
 ## Key Details From Sources
 
+- (B) propylthiouracil Source: [[sources/med3-book4-ch29|己、特定議題]].
 - | | PTU (Propylthiouracil) | Methimazole | |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - 6. 甲狀腺風暴 (Thyroid storm):定義是甲狀腺毒症 (Thyrotoxicosis)嚴重到使生理 decompensation,如意識昏迷、黃疸、心臟衰竭、高體溫等。可用下列藥物治療: - (1) 大劑量的 PTU:除了抑制甲狀腺製造,此時更利用其可抑制釋放到周邊的 T4 轉為 較強的 T3。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - (2) 給 PTU 後 1 小時再給飽和碘化鉀溶液(saturated solution of potassium iodide, SSKI)或是 Lugol's 溶液(5% iodine & 10% KI): 乃利用高濃度的碘離子反而抑制甲狀腺製造、釋放的特性(Wolff-Chaikoff effect)。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].

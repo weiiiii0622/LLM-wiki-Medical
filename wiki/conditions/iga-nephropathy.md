@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch12]]"
   - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med3-book4-ch15]]"
 aliases:
   - 'IgA nephropathy (IgA 腎病變)'
   - 'IgA nephropathy'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-成人常見原發性腎絲球病變，常在上呼吸道感染後短期內肉眼血尿。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+成人常見原發性腎絲球病變，常在上呼吸道感染後短期內肉眼血尿。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch12]]
 - [[sources/med3-book3-ch07]]
+- [[sources/med3-book4-ch04]]
+- [[sources/med3-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...血尿 (Microscopic hematuria)等。 - (4) 切片:皮膚(Leukocytoclastic vasculitis 且可發現 **IgA、**C3 沉積);腎臟(IgA 沉積 於 Mesangium),腎臟病變又稱為 IgA nephropathy(= Berger disease)。 - (5) 診斷準則:符合 3 項以上(Arthritis Rheum 33: 1114, 1990)[不用死記,供加強疾病概念] - a. 年紀 ↓ -#Ⅱ | 高安氏動脈炎(Takayasu arteritis) | Т | 主動脈弓 | 年輕女性 | 無脈搏、跛行 | | 大型 | 巨細胞血管炎(Giant cell arteritis) | Т | 頸動脈分支 | 老年女性 | 頭痛、ES Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - ...,常在 A 型 β 溶血性鏈球菌感染 2 週後引起血尿 | | | disease | → ASLO(+), C3 和 CH50 在兩週下降,6~8 週後回復正常, C4 正常 | | | | →治療:支持性療法和 抗生素 | | | | IgA nephropathy (Berger's disease) | 正常 | | | →成人最常見的原發性腎炎;年輕男性,發生上呼吸道症狀 1~3 天後有血尿 | | | | →一半病人血清 IgA 有上升現象,C3 正常 | | | | →一般病程為良性;但出現於老年、男性、或以腎病症候群、高血壓表現、 | | | | 診斷時腎功能不良者預後較差, 1/3 的病人 20 年後會進入腎衰竭 | | | | →若每天蛋白尿>1克:須以類固醇治療 | | | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (A) 11. 有關 IgA 腎病變,下列何者敘述最不正確? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - 【詳解】(A) 成人 IgA 腎病變最多,小孩微小變化疾病最多。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

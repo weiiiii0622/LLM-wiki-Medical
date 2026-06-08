@@ -16,6 +16,9 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book4-ch25]]"
+  - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med3-book4-ch26]]"
 aliases:
   - 'Coronary circulation (冠狀動脈循環)'
   - 'Coronary circulation'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-冠狀動脈解剖決定心肌缺血位置與 ECG 導程變化。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈解剖決定心肌缺血位置與 ECG 導程變化。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,16 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch06]]
+- [[sources/med3-book4-ch25]]
+- [[sources/med3-book4-ch04]]
+- [[sources/med3-book4-ch26]]
 
 ## Key Details From Sources
 
+- (D) 15. 心堵鎮是一個冠狀動脈疾病盛行的社區, 林醫師努力推動社區居民 的戒菸運動。林醫師調查社區中有那些團體如婦女、兒童健康組織 等,能對戒菸者提供心理與社會支持。林醫師目前的工作,屬於 Lawrence W. Green 的 PRECEDE 模式中那一個步驟? Source: [[sources/med3-book4-ch25|乙、行為科學]].
+- ...同情心(sympathy) (D) 非語言溝通(non-verbal communication) | 97(二)專醫三-70 | | (D) 26 | 一位 70 歲男性,菸齡五十幾年,原本一天抽一包半,膀胱癌手術後改成一天約半包菸,有冠狀動脈心臟病、高血壓、慢性阻塞性肺病,醫師勸他要戒菸。一般而言,下列有關戒菸的敘述,何者錯誤? (A) 長期抽菸者,戒菸後可立即獲得健康上之助益 (B) 戒菸可降低得到癌症之機會及降低死亡率 (C) 尼古丁是長期抽菸中造成成瘾之重要因素 (D) 體重減輕是使用尼古丁製劑戒菸時的常見現象 【詳解】(D) 體重增加是戒菸時一個常見現象,也常見於戒菸失敗者的理由之一。 | 97(一)專醫三-72 | | (A) 27 | 一位 55 歲罹患肝癌合併 Source: [[sources/med3-book4-ch25|乙、行為科學]].
+- ...等 | HBV | 和IC沉澱有關 | | 小型 | 顯微性多血管炎(Microscopic poly.) | В | 腎炎等 | pANCA | 無 IC 沉澱,無肉芽腫 | | | 川崎氏病(Kawasaki disease) | | 冠狀動脈 | 小兒 | 發燒出疹 | | | 柏格式病(Buerger's disease) | | 小腿 | 年輕男性 | 吸菸 | | 小型 | 原發性皮膚血管炎(Idio. cutaneous vas.) | IC(N) | 皮膚 | 大人吃藥/下肢有浮腸 | | | 11.55 | 過敏性紫斑症(HSP) | IC(N) | 皮膚、腎 | 小孩上呼吸 | 及道感染 / 吃藥後,支紅疹、血尿 | | 大~小 | 貝塞特氏症候群(Behçe Source: [[sources/med3-book4-ch04|丁、血管炎]].
+- ...性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - (B) 18. 一位 65 歲男性因冠狀動脈狹窄,接受心臟血管繞道手術,術後尿量逐漸減少,現在每小時僅有 15 mL,懷疑有急性腎衰竭。為了分辨prerenal或 intrinsic renal 急性腎衰竭,醫師送檢尿液及血液生化值,結果血中之肌酸酐(Cr)為 3 mg/dL,BUN 35 mg/dL,Na 為 130 mEq/L,K 為 5 mEq/L,尿中之 Cr 為 40 mg/dL,Na 為 50 mEq/L,尿比重= 1.010,FENa 是多少? (A) 0.2%(B) 2.9%(C) 10.3%(D) 35% Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - (A) 閉塞性冠狀動脈疾病 (occlusive coronary heart disease) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].

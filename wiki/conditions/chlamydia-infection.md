@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch12]]"
+  - "[[sources/med3-book4-ch05]]"
 aliases:
   - 'Chlamydia infection (披衣菌感染)'
   - 'Chlamydia infection'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-絕對細胞內病原，可造成泌尿生殖道、眼部與肺部感染。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+絕對細胞內病原，可造成泌尿生殖道、眼部與肺部感染。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch12]]
+- [[sources/med3-book4-ch05]]
 
 ## Key Details From Sources
 
+- (1) 通常發生在感染 1~4 週後,如腸胃道的 Yersinia, Shigella, Salmonella, Yersinia Campylobacter species 感染,或生殖道的 *Chlamydia trachomatis、Ureaplasma urealyticum* 感染等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - ...疏螺旋體 | Borrelia | B. burgdorferi, B. recurrentis | 厭氧 | | (E) | | 鉤端螺旋體 | Leptospira | Leptospira interrogans | | | | | 披衣菌 | Chlamydia | C. trachomatis, C. pneumoniae | | | 絕業 | 加內 | 巴東氏菌 | Bartonella | B. henselae | 阿奈尔 | | 寄生 | € (F) | 立克次體 | Rickettsia | R. rickettsii, R. typhi, O. tsutsugamushi | 厭氧 | | | | 考克氏菌 | Coxiella burnetii | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 2. 治療: - (1) 患病者:給予第三代頭孢黴素(如 Ceftriaxone 250 mg im for one dose)加上四環黴素(Tetracycline),如此亦可 cover 性病常見的砂眼披衣菌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (C) lymphogranuloma venereum Chlamydia trachomatis Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

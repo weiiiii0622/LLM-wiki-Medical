@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Bisphosphonates (雙磷酸鹽類)'
   - 'Bisphosphonates'
@@ -21,16 +24,25 @@ tags:
 
 ## Summary
 
-抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med3-book4-ch20]]
+- [[sources/med3-book4-ch22]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- (A) 芳香環轉化酶抑制劑 + 雙磷酸鹽 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
+- (B) 多種藥劑化學治療 + 雙磷酸鹽 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
+- (C) capecitabine + 雙磷酸鹽 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
+- (2) Bisphosphonates: 會抑制蝕骨細胞,可在1~2天內降血鈣,效果維持數周。有腎毒性,可能造成 Jaw osteonecrosis。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
+- ...。下列敘述何者錯誤? (A) 轉移性癌症引起之脊髓壓迫,可使用大劑量類固醇及放射線治療(B) 愈早開始進行治療,則日後病患之神經學症狀能改善的機會也愈大 (C) 高血鈣症(hypercalcemia)之治療,包括限制水分攝取、使用利尿劑及 bisphosphonate 類藥物 (D) 腫瘤指標如 CEA(carcinoembryonic antigen)、PSA(prostate specific antigen)可以幫助鑑別診斷 【詳解】高血鈣的治療是水分補充,而非限水。 | 96(二)專醫三-60 | | (A) | 9. 最常造成上腔靜脈症候群(superior vena cava syndrome)的惡性病為: (A) 肺癌(Lung cancer) (B) 淋巴瘤(Lymphoma) (C Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
+- (A) 每週靜脈注射雙磷酸鹽 zoledronate 及不定時使用短效嗎啡 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...| Pseudohypoparathyroidism (G protein mutations) | | | Drugs | Calcium chelators | | | | Inhibitors of bone resorption (bisphosphonates, plicamycin) | | | | Altered vitamin D metabolism (phenytoin, ketoconazole) | | | Miscellaneous causes | Acute pancreatitis | | | | Acute rhabdomyolysis | | | | Hungry bone syndrome after parathyroidectomy | | | | Oste Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - b. 惡性腫瘤引起的高血鈣症可用 calcitonin 或 bisphosphonate 類藥物。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | (B) | 1. 高血鈣急症的治療原則下列那一項最不適當? (A) 立即補充生理食鹽水 (B) 使用 thiazide 類利尿劑 (C) 惡性腫瘤引發高血鈣可以考慮給予雙磷酸鹽(bisphosphonates) (D) 維生素 D 造成的高血鈣症可以考慮使用類固醇治療 【詳解】Thiazide 可能會加重高血鈣。 | 107(二)專醫三-10 | |-----|----------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].

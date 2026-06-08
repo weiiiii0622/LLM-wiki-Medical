@@ -17,6 +17,8 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med3-book4-ch28]]"
 aliases:
   - 'Heart valves (心臟瓣膜)'
   - 'Heart valves'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,13 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch12]]
+- [[sources/med3-book4-ch28]]
 
 ## Key Details From Sources
 
+- (A) 1. 一位 45 歲女教師,主訴半年內逐漸發生運動時氣促,倦怠,胸悶以及昏厥的症狀。身體診察發現頸靜脈壓力上升,可摸到右心室搏動, 且在右側聽到 S4 的心音,胸部 X 光發現肺動脈膨大,下列敘述何者 最適當? - 107(一)專 醫三 -25 - (A) 應檢測 protein C, protein S, antithrombin III 等是否異常 - (B) 心電圖通常可以發現心軸向左偏轉及左心室肥大 - (C) 可以用心臟超音波測量二尖瓣逆流的流速來估計肺動脈的壓力 - (D) 病患肺血管主要的表徵為血管內皮增生,發炎反應增加,以及 血管擴張 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
+- (D) 使用袋 瓣 面罩 (bag-valve-mask) 協助高中生呼吸,並立即 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - 2. 表皮葡萄球菌 (S. epidermidis): 會附著在各種體內修補裝置物,如人工瓣膜 (Prosthetic valve)、人工關節 (Prosthetic joint)。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...cal) | | > 4 weeks | Acute and chronic osteomyelitis, S. aureus endocarditis, foreign-body infections | | | (prosthetic-valve and joint infections), relapsing pseudomembranous colitis | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...E CONTRACTOR OF THE | 1 2013 | | 麻疹症候群 | 並具有第二項之任何一種缺陷者: | | | | 一、先天性白內障、先天性青光眼、色素性視網膜病變、失聰、先天性心臟 | | | | 病(常見:開放性心臟導管、肺動脈瓣狹窄)。 | | | | 二、紫斑症、黃疸 (24 小時內發生 )、脾腫大、小腦症、心智發育遲緩、腦 | | | | 膜腦炎或長骨放射線透度異常。 | | | 急性病毒性 | 符合下列臨床病例定義且經實驗室診斷: | 1 週內 | | B型肝炎 | 一、臨床病例:(任一即可) | | | | (1) 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服 | | | | 等。 | | | | (2) 黃疸或 ALT 上升。 | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].

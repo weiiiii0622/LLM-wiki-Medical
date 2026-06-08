@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book4-ch11]]"
 aliases:
   - 'Necrotizing fasciitis (壞死性筋膜炎)'
   - 'Necrotizing fasciitis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-快速進展的深部軟組織感染，需早期手術評估與廣效抗生素。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+快速進展的深部軟組織感染，需早期手術評估與廣效抗生素。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med3-book4-ch11]]
 
 ## Key Details From Sources
 
+- 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...ocidin) | 在人類的白血球細胞膜上打洞 (Pore), 使溶解 | | | 毒素 | Enterotoxin A~E ( 腸毒素 ) 對熱穩定 | 食物中毒 (Food poisoning) | | | | Exfoliative toxin (脱皮毒素) | 脱皮症候群 (Scaled skin syndrome, SSS) | | | | TSST-1 (毒性休克症候群毒素) | 超級抗原,毒性休克症候群 (Toxic shock syndrome) | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 1. 化膿性鏈球菌 (Streptococcus pyogenes) => A 群鏈球菌 (Group A streptococcus, GAS): - (1) 致病原因: 鏈球菌以 A 群最可怕,又稱為 Flesh eating bacteria,主要存在人類咽喉、皮膚。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...-------------| | | 咽炎 | Pharyngitis | 扁桃腺紅腫,膿狀分泌物 | | Acute / | 皮膚感染 | Impetigo, Erysipelas, | | | Suppurative | 及膺恐朵 | Necrotizing fasciitis | | | infection (直接 | 猩紅熱 | Scarlet fever [Dick test* 確定診斷] | 砂紙般 (Sandpaper) 紅疹,草莓舌 | | 入侵/毒素) | 中毒性休 | Streptococcal toxic shock | | | | 克症候群 | syndrome | early and a second | | Non-suppurative | 風濕熱 | Rheumatic fever Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

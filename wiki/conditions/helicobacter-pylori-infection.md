@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med3-book4-ch15]]"
 aliases:
   - 'Helicobacter pylori infection (幽門螺旋桿菌感染)'
   - 'Helicobacter pylori infection'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med3-book4-ch18]]
+- [[sources/med3-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- ...上皮癌的危險因子? (A) 吸菸 (B) 喝酒 (C) Epstein-Barr 病毒感染 (D) 人類乳突病毒感染 (HPV) | 107(二)專醫三-36 | | (B) | 4. 有關微生物及癌症的關係,下列何者關聯性最低? (A) Helicobacter pylori vs. 胃癌(gastric cancer) (B) Human papilloma virus vs. 子宮癌(uterine cancer) (C) Human herpesvirus type 8 vs. 卡波氏肉瘤(Kaposi's sarcoma) (D) Epstein-Barr virus vs. 霍金氏淋巴癌(Hodgkin's lymphoma) | 106(二)專醫三-60 | | (C) | 5. 一位 33 歲 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- (D) Helicobacter pylori: gastric mucosa-associated lymphoid tissue (MALT) lymphoma Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- ...CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary effusion lymphoma, Multicentric Castleman's dz. | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - c. 用來治療 HIV 病患的 MAC (*Mycobacterium avium* complex) 感染; 可抗 G(-) 弧菌, 如 *Helicobacter pylori*、Vibrio、Campylobacter, 用於三合療法根除幽門螺旋菌的配方中。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (1) Tetracycline · Doxycycline · Minocycline - a. 對細菌的抗藥性高,主因細菌產生排出幫浦,將進入細菌的四環黴素迅速排出, 因此主要用在 - (a) 立克次體 (Rickettsia, 如恙蟲病= Scrub typhus, Q fever); - (b) 螺旋菌(Spirochetes,如 Lyme disease 造成的關節炎,對 PCN 過敏的梅毒患者替代用藥); - (c) 弧菌(H. pylori),用於合併治療根治幽門桿菌造成的消化性潰瘍。 - (d) 披衣菌 (Chlamydia trachomatis) 眼睛、泌尿系統感染;青春痘 (Acne)等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 4.2週:幽門螺旋桿菌造成胃潰瘍、神經性梅毒、急性腎盂腎炎。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book4-ch24]]"
 aliases:
   - 'Berlin definition of ARDS (ARDS Berlin 定義)'
   - 'Berlin definition of ARDS'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合�
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch18]]
+- [[sources/med3-book4-ch24]]
 
 ## Key Details From Sources
 
+- 2. 以病人為中心的臨床應用:LEARN model [Ref. Berlin E et al. West J Med, 1983] - L: listen (傾聽) 專心且用心的傾聽病人所述的症狀,完整的收集診斷與治療所需的相關資料。 - E: explain(說明) 收集完診斷與治療的資料後,醫師以平易的用語,嘗試說明可能的診斷及病因。 - A:acknowledge(容許)-藉著醫師與病人相互溝通,發覺雙方對於疾病認知的相異之處,必要時進行處理及說明,以消弭彼此認知上的差距。在說服病人接受醫師看法之時,要盡 Source: [[sources/med3-book4-ch24|甲、家庭醫業]].
+- ...-------------------------------------------------------------------------------------------|------------------| | (D) | Berlin 與 Fowkes 所發展的文化差異處理模式(LEARN),包括那五個步驟? (A) 傾聽、評估、認知、建議、包容 (B) 傾聽、評估、警覺、建議、包容 (C) 傾聽、解釋、警覺、建議、妥協 (D) 傾聽、解釋、認知、建議、妥協 | 107(一)專醫三-71 | | (C) | 3. 下列何者不屬於 Berlin 與 Fowkes 所發展出來的 LEARN 模式? (A) 傾聽 (listen) (B) 解釋 (explain) (C) Source: [[sources/med3-book4-ch24|甲、家庭醫業]].
+- (C) 9. 面對一位外籍勞工因病來診,在醫病間之認知及溝通有所困難時, Berlin 及 Fowker 提出有用之溝通方式 "EARN" Model,有關 LEARN Model 之敘述,下列何者錯誤? Source: [[sources/med3-book4-ch24|甲、家庭醫業]].
 - | 簡稱 | 致病菌 | 表徵 | 治療 | |-------|-------------|-------------------------|------------| | | | 發燒+低血壓+全身紅斑(1~2 週後脫屑)以及 | 單純是毒素造成 | | TSS | S. aureus | 全身多器官侵犯,如肝腎功能下降、凝血病變、 | 血清學、培養 (-) | | | | 肌肉痛 (CK 高 )、黏膜充血、意識改變等 | 不需抗生素 | | erree | C D | 低血壓 + 全身紅斑以及全身多器官侵犯, | 血清學、培養 (+) | | 2122 | S. Pyogenes | 如肝腎功能下降、凝血病變、ARDS 等 | 需抗生素* | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - 【詳解】山區旅遊、焦痂(eschar)需考慮恙蟲症(scrub typhus)。(B) 診斷是靠血清學檢查,如 ELISA、Weil-Felix OX-K。(C)治療的抗 生素首選是 Tetracycline。(D)用「不可能」太過絕對,通常是錯的 答案,腦膜炎、ARDS、心肌炎皆是被報告過的併發症。(台 965) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (2) 症狀:發燒、咳嗽、呼吸困難,肺炎及 ARDS 與 SARS 類似,但腎衰竭及 DIC 案 例較 SARS 多。 Source: [[sources/med3-book3-ch18|壬、病毒學]].

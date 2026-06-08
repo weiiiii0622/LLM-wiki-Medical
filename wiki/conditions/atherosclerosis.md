@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch05]]"
+  - "[[sources/med3-book4-ch04]]"
 aliases:
   - 'Atherosclerosis (動脈粥狀硬化)'
   - 'Atherosclerosis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-斑塊形成、破裂與血栓連結穩定型心絞痛和急性冠心症。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+斑塊形成、破裂與血栓連結穩定型心絞痛和急性冠心症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book1-ch09]]
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch05]]
+- [[sources/med3-book4-ch04]]
 
 ## Key Details From Sources
 
+- (B) mesenteric artery atherosclerosis Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - B. 動脈粥狀硬化之病生理變化依序如下 35 Source: [[sources/med3-book1-ch03|乙、高血脂、動脈粥狀硬化]].
 - #### B. 動脈粥狀硬化之病生理變化依序如下 Source: [[sources/med3-book1-ch03|乙、高血脂、動脈粥狀硬化]].
 - 2. 之後動脈內皮漸漸變得不平滑,血球更易堆積,泡沫細胞更壯大後,便刺激內彈性纖維層下方的平滑肌增生,之後便形成動脈粥狀硬化斑(atheroma)。 Source: [[sources/med3-book1-ch03|乙、高血脂、動脈粥狀硬化]].

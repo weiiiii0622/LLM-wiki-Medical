@@ -15,6 +15,9 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med3-book4-ch15]]"
 aliases:
   - 'Stomach (胃)'
   - 'Stomach'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,17 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch04]]
+- [[sources/med3-book4-ch18]]
+- [[sources/med3-book4-ch20]]
+- [[sources/med3-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...imary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- ...Epstein-Barr 病毒感染 (D) 人類乳突病毒感染 (HPV) | 107(二)專醫三-36 | | (B) | 4. 有關微生物及癌症的關係,下列何者關聯性最低? (A) Helicobacter pylori vs. 胃癌(gastric cancer) (B) Human papilloma virus vs. 子宮癌(uterine cancer) (C) Human herpesvirus type 8 vs. 卡波氏肉瘤(Kaposi's sarcoma) (D) Epstein-Barr virus vs. 霍金氏淋巴癌(Hodgkin's lymphoma) | 106(二)專醫三-60 | | (C) | 5. 一位 33 歲男性病人,有一約 6 cm 前 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- (D) Helicobacter pylori: gastric mucosa-associated lymphoid tissue (MALT) lymphoma Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- 【 詳解】Li-Fraumeni 的 典型 症狀是 breast cancer, sarcoma and adrenal gland, BRAC 則是 breast cancer 與 ovarian, HNPCC 的稱為 Lynch syndrome 與 endometrial、ovarian、gastric、pancreatic、urothelial cancer 有關,FAP 就是在腸胃道腫瘤。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
+- ...large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary effusion lymphoma, Multicentric Castleman's dz. | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - 2. 給生理食鹽水會改善的、Ucl +:嘔吐(Vomiting)、使用鼻胃管引流(gastric aspiration)、Villous adenoma。 - (2) 腎臟流失:先前使用利尿劑造成體液缺乏(Volume depletion),可想成體液缺乏時,Renin angiotensin aldosteron system 啟動,aldosteron 造成留鈉排鉀排氫,導致 H+ loss。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...-----------------------------------------|--|--| | Effective ECFV | GI | 1. Vomiting | | | | contraction, | origin | 2. Gastric aspiration | | | | normotension, | | 3. Congenital chloridorrhea | | | | K + deficiency, | | 4. Villous adenoma | | | | and secondary | Renal | 1. Diuretics (Thiazide) [ 常考!] | | | | hyperreninemic | origin | 2. Posthyp Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...:1 | Fusobacterium nucleatum, IBacteroides ureolyticus igp. | | | | Gingival crevices | 1011-1012 | 10³: 1 | | | | GI | Stomach | $0-10^5$ | 1:1 | Bacteroides spp. (B. fragilis),Clostridium spp. | Prevotella spp., Peptostreptococcus spp. | | | Jejunum/ileum | 10 4 -10 7 | 1:1 | | | | tract | Colon | 10 11 -10 12 | $10^3:1$ | | | | Female | genit Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
