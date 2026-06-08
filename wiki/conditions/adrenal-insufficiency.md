@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch01]]"
 aliases:
   - 'Adrenal insufficiency (腎上腺功能不全)'
   - 'Adrenal insufficiency'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch11]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch01]]
 
 ## Key Details From Sources
 
+- ...one 正常或給予 Fludrocortisone 後 TTKG 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease ACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistant to aldosterone) | | 服用利尿劑 Spironolactone服用抗生素 Trimethoprim | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- (5) 腎上腺功能不全 (adrenal insufficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...calcium | Milk-alkali syndrome | | | | intake | Total parenteral nutrition | | | | Other causes | Endocrine disorders (adrenal insufficiency, pheochromocytoma, VIPoma) | | | | | Medications (thiazides, vitamin A, antiestrogens) | | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...------------|--| | Aldosterone 低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - C. 腎上腺機能低下 (Adrenal insufficiency) 213 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - ...----|--------------------|---------------------------------| | H-1915 | 中胚層 | G: 11 | Glucocorticoid | Cushing's syn. | Addison's dz.Adrenal crisis | | 及質 (meso | (mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural crest) | Tyrosine | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - #### C. 腎上腺機能低下 (Adrenal insufficiency) Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].

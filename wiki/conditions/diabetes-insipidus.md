@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch14]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch05]]"
 aliases:
   - 'Diabetes insipidus (尿崩症)'
   - 'Diabetes insipidus'
@@ -20,15 +22,21 @@ tags:
 
 ## Summary
 
-ADH 缺乏或腎臟反應不良造成多尿與高鈉風險。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch14]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch05]]
 
 ## Key Details From Sources
 
+- | | 中樞型尿崩症(Central diabetes insipidus) | 腎性尿崩症(Nephrogenic diabetes insipidus) | |---------------|----------------------------------------|------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...mmol/L,K 3.8 mmol/L。尿液 osmolality 200 mOsmol/kg H2O,限 水 試 驗 2 小 時 之 體 重 47 公 斤, 尿 液 osmolality 290 mOsmol/kg H2O,給予 ADH(DDAVP)後 2 小時內最高的尿液 osmolality 320 mOsmol/kg H2O。下列敘述何者最正確? - (A) 最可能的診斷是原發性多飲症(primary polydipsia) - (B) 治療使用限水 - (C) 治療使用 thiazides - (D) 最可能的診斷是中樞型尿崩症(central diabetes insipidus) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- 【詳解】最有可能是 nephrogenic DI,治療是 thiazide 跟限鹽。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(chronic kidney disease)的敘述,下列何者最不正確? Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - 3. 腦垂體後葉則由下視丘的神經元經腦垂體柄(Pituitary stalk)延伸到腦垂體後葉,由神經末梢分泌荷爾蒙(ADH、Oxytocin)。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - ...交叉 | 先損失紅色視覺 (Loss of red perception) | | (Optic chiasm) | 接著雙側顳側上方視野 (Bitemporal hemianopia) | | 往上壓下視丘 | 體溫失調、食慾改變、肥胖、尿崩症 | | (Hypothalamus) | 睡眠、行為、自主神經失調 | | 上壓到額葉 人格異常 (Personality disorder) | | | (Frontal lobe) | 嗅覺喪失症 (Anosmia) | | 往旁側壓到海綿竇 CN3,4,5-2,6 眼肌麻痺 (Opthalmoplegia)、眼瞼下垂 (ptos | | | (Cavernous sinus) | 臉麻 (Facial numbness) | | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - | 缺乏的荷爾蒙 | 補充的的荷爾蒙 | | |-------------------------------------------------------------------------|--------------|--| | GH | Somatotropin | | | 女性 Premarin (Conjugated estrogen)、Provera (Progester男性 Testosterone | | | | TSH | Thyroxine | | | ACTH | Cortisone | | | Vasopressin(中樞性尿崩症) Vasopressin (DADVP) 鼻噴劑 | | | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

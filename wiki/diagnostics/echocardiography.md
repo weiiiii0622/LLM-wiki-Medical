@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book1-ch06]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book2-ch22]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch12]]"
 aliases:
   - 'Echocardiography (心臟超音波)'
   - 'Echocardiography'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,13 @@ tags:
 - [[sources/med3-book1-ch06]]
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book2-ch22]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch12]]
 
 ## Key Details From Sources
 
+- ...35 mg/dL, 肌酸酐 1.6 mg/dL。先作下列那個處置是最適當的? (A) 給予降血壓藥物 Amlodipine 每天 5 mg, 一個月後再作尿液分 - 析和生化檢查 - (B) 檢查血清補體濃度,並限制鹽分攝取 - (C) 心臟超音波檢查,並給予利尿劑 - (D) 胸部 X 光檢查,並給予抗生素兩週 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- (A) 安排心臟超音波,尋找感染性心內膜炎之證據 Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 【詳解】超音波掃描下可見後方音波增強 (post echo enhancement) 現象,且電腦斷層無顯影,屬於囊腫之典型表現。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - (C) 多巴胺壓力 (dobutamine stress) 心臟超音波檢查雖然相當準確, 但敏感度 (sensitivity) 略低於運動心電圖 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - 【詳解】(A) II 級;(B) 可使用;(C) Dobutamine echocardiography 藉由打藥模擬運動時心肌缺氧狀況,應用於無法運動的病人,特異 性較運動心電圖高(較準確),但敏感度還是運動心電圖較佳。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

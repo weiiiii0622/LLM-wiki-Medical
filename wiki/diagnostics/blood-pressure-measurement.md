@@ -16,6 +16,8 @@ sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book3-ch02]]"
 aliases:
   - 'Blood pressure measurement (血壓測量)'
   - 'Blood pressure measurement'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,14 @@ tags:
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch11]]
+- [[sources/med3-book3-ch06]]
+- [[sources/med3-book3-ch02]]
 
 ## Key Details From Sources
 
+- 4. 常見併發症與其處理方式: - (1) 透析低血壓 (Intradialytic hypotension): - a. 一般指透析中或透析後收縮壓降至 100 mmHg 以下或是透析前收縮壓只有 100 mmHg,再下降 25% 者;機轉為多因性包括心臟血管自主神經功能失調,體液容積過低,降血壓藥物使用不當等。 - b. 處理方式: - (a) 調高乾體重。 - (b) 改變透析液的組成及溫度:提高透析液的鈉離子(一般用 140 →改用 150), 使用溫度較低的透析液(可降低 NO 產生,增加血管收縮)。 - (c) 改善心臟機能:改善貧血,避免使用低鈣透析液。 Source: [[sources/med3-book3-ch06|己、透析治療]].
+- ...性腹膜透析 (continuous ambulatory peritoneal dialysis) (D) 自動化腹膜透析 (automated peritoneal dialysis) (A) 9. 一位 84 歲男性,因胃潰瘍大量出血,收縮壓降至 60 mmHg,有心 98(二)專 衰竭病史,其血壓用升壓劑勉強維持在 90/65 mmHg 左右,血中尿素 醫三-24 氦(BUN)升至145 mg/dL,肌酸酐(creatinine)11.5 mg/dL,每 天尿總量只有 75 cc,血紅素為 7 g/dL,需輸血及大量輸液治療約 2,500~3,500 ml /天,下列何種透析療法對他最為合適? (A) 連續性靜脈靜脈血液透析 (continuous veno-venous Source: [[sources/med3-book3-ch06|己、透析治療]].
+- (3) Chvostek's sign:輕敲耳前的顏面神經會引起顏面肌肉的抽動;Trousseau's sign:以血壓計之 Cuff 將壓力打到高於收縮壓 3 分鐘後,可見手腕痙攣(spasm)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (D) 1. 一位 40 歲女性,因車禍接受頭部電腦斷層攝影檢查,發現腦下垂體 108(一)專 部位有空蝶鞍 (empty sella) 現象。她目前月經正常,飯前血糖 90 醫三-1 mg/dL, PR 80/min, BP 130/80 mmHg, free T4 1.2 ng/dL (normal range $0.8\sim1.8 \text{ ng/dL}$ ) , TSH $1.0\mu\text{IU/mL}$ (normal range $0.1\sim2.0 \mu\text{IU/mL}$ ) , early morning cortisol 15 $\mu$ g/dL(normal range 8 $\sim$ 18 $\mu$ g/d Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - (B) 2. 一位 40 歲男性過去無任何病史,最近因為極度疲倦、嗜睡、食慾減少來就醫。病患回想這些症狀是在三個月前一次嚴重頭痛後發生。檢查發現飯前血糖 90 mg/dL,PR 70/min,BP 100/60 mmHg,free T4 0.5 ng/dL(normal range 0.8~1.8 ng/dL),TSH 1.0 μIU/mL(normal range 0.1~2.0 μIU/mL),early morning cortisol 2.0 μg/dL(normal range 9.0 ~ 15 μg/dL),體毛、鬍鬚減少。電腦斷層攝影發現蝶鞍(sella)部位有一 3 公分不均質腫塊,壓迫腦下垂體組織。最可能的診斷 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - ...1999、WHO 1999、AACE 2003。 - (2) NCEP ATPIII 準則:5個符合3個以上[口訣:腹部肥胖加3高,血脂有兩項] - a. 腹部肥胖:腰圍>90(男)/80(女)cm或腰/臀>0.9。 - b. 高血壓 (BP > 130/85 mmHg 或已服用降壓藥),高血糖 (空腹血糖 > 100 mg/dL 或已服用降血糖藥),高血脂 (TG > 150 mg/dL、HDL dL | 100~125 mg/dL | ≧ 126 mg/dL | | 兩小時葡萄糖耐受時驗 (OGTT) | 正常人 | Impaired glucose tolerance (IGT)葡萄糖耐受失調 | 糖尿病 | | (喝下75g葡萄糖水之後兩小時) | dL | 140 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
@@ -61,9 +68,6 @@ tags:
 - ...下腔出血、腦內動脈瘤、或動靜脈瘤)、腦出血病皮、腦內腫瘤、活動性出血(月經不包含在內)、主動脈剝離。而相對禁忌症亦有電腦斷層顯示多處梗塞(低密度區大於大腦半球的三分之一)、七天內於無法壓迫處進行動脈穿刺、最近接受過腦內或脊髓內手術、高血壓(收縮壓高於 185 mmHg,舒張壓高於 110 mmHg)、或血糖低於 50 mg/dL…等。目前由於心導管介入治療相當進步,因此 r-tPA(血栓溶解劑)的使用日漸減少。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (D) 合併嚴重的高血壓(收縮壓大於 180 mmHg)者,是施行血栓 溶解劑治療的禁忌症 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (C) 肺動脈舒張壓力>右心室舒張壓力 Source: [[sources/med3-book1-ch05|子、其 他]].
-- (D) 主動脈收縮壓力=左心室收縮壓力 Source: [[sources/med3-book1-ch05|子、其 他]].
-- (C) 應該是右心室舒張壓力>肺動脈舒張壓力,因為右心室舒張有 肺動脈瓣將血隔著,此時右心室壓力繼續下降,但肺動脈壓力 不再下降。 Source: [[sources/med3-book1-ch05|子、其 他]].
-- 2. 懷疑 Neurally- mediated syncope 的病患可用 tilt table testing 驗證: - (1) 讓病患躺著休息一段時間後,將病患立成 60~70 度約 20~45 分鐘,若無症狀,注射 isoproterenol 或 isosorbide dinitrate 後再立 10 分鐘,若此時發生有症狀的收縮壓下降 或心跳過緩,則為試驗陽性。 - (2) 若注射藥物後使症狀加重明顯,則 neurally-mediated syncope 的機率大於 orthostatic syncope。 - (3) 進行此試驗的前提是要病患心臟功能正常,且用於高度懷疑 Neurally- mediated syncope 的病患,診斷價值才高。 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
 
 ## Clinical Caveats
 

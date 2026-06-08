@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book1-ch23]]"
+  - "[[sources/med3-book3-ch06]]"
 aliases:
   - 'Emphysema (肺氣腫)'
   - 'Emphysema'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-肺泡壁破壞與過度充氣造成氣體交換障礙。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+肺泡壁破壞與過度充氣造成氣體交換障礙。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch14]]
 - [[sources/med3-book1-ch23]]
+- [[sources/med3-book3-ch06]]
 
 ## Key Details From Sources
 
+- ...島素降低血鉀濃度 (D) 開始透析治療 (B) 8. 一位 55 歲男性, 尿素氮 (BUN) 130 mg/dL, 肌酐 (creatinine) 為 99(二)專 12 mg/dL, 兩邊腎臟在超音波呈現萎縮至 6.5 公分, 他有慢性肺氣腫, 醫三-22 曾經作過胃切除,有一長疤自上腹至下腹。他最好選擇那一種長期 透析療法? (A) 間歇性腹膜透析 (intermittent peritoneal dialysis) (B) 血液透析 (hemodialysis) (C) 連續可活動性腹膜透析 (continuous ambulatory peritoneal dialysis) (D) 自動化腹膜透析 (automated peritoneal dialysis) (A Source: [[sources/med3-book3-ch06|己、透析治療]].
 - | | 分 類 | 肺內、外氣 | 肺內水 | 肺外水 | |---------|-------------|------------|------------|------------| | | 原則\疾病 | 氣胸、肺氣腫 | 肺炎 | 肋膜腔積液 | | Δ≤ IIII | 氣體→共鳴音 | 共鳴音 | 鈍音 | 鈍音 | | 叩診 | 液體→鈍音 | (Tympanic) | (Dullness) | (Dullness) | | おお 全人 | 氣體、肺外水→呼吸音弱 | 呼吸音減弱 | 呼吸音增強 | 呼吸音減弱 | | 聽診 | 肺內水→呼吸音強 | | | | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - ...| Normal | Normal | Wheezing | | 實 | Interstitial lung dz. | Resonant | Vesicular | Normal | Normal | Crackles | | 質 | Emphysema | Hyperresonant | Decreased | Decreased | Decreased | Absent | | 肋 | Pneumothorax | Hyperresonant | Decreased | Decreased | Decreased | Absent | | 膜 | Pleural effusion | Dull | Decreaseda | Decreased | Decreaseda | Pleu Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - \*叩診正常是Resonant:肺內浸潤、肋膜水變成Dull;肺內氣(肺氣腫)、肋膜氣(氣胸)變成 Hyperresonant Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].

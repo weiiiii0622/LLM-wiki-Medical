@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book2-ch06]]"
+  - "[[sources/med3-book3-ch15]]"
 aliases:
   - 'Theophylline (茶鹼)'
   - 'Theophylline'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-氣喘輔助治療但治療窗窄，可造成心律不整或癲癇。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘輔助治療但治療窗窄，可造成心律不整或癲癇。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book1-ch14]]
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book2-ch06]]
+- [[sources/med3-book3-ch15]]
 
 ## Key Details From Sources
 
+- ...。 | | | (D) | 15. | 有關抗菌藥物與其他藥物併用錯誤? | 可能發生交互影響之敘述,下列何者 | 95(二)專內 1-42 | | | | (A) Erythromycin 與 theophyllin | e 併用會增加 theophylline 毒性 | | | | | , , , , , , , , , , , , , , , , , , , , | A | | | | | | zole 與 digoxin 併 用 可 能 會 發 生 | | | | | digoxin 毒性反應 | | | | | | | Ħ會增強 fluoroquinolone 藥效 | | | | | 【詳解】(D) Fluoroquinolone 身 | 與制酸劑併用會減弱 fluoroquinol Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...| | LES | Serotonin, | α-blocker | Diazepam, Demerol, Viagra | Ethanol, | | 壓力 | Glucagon, VIP, | β-agonist | Morphine, Theophylline | Peppermint, | | | Somatostatin, | | Dopamine, Barbiturate | Caffeine, tobacco | Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - (B) 1. 下列那些藥物可能會加重逆流性食道炎(reflux esophagitis)? 105(ー)専 ①降血脂藥(HMG-CoA reductase inhibitor) ②高血壓用藥(calcium channel blocker) ③氣喘用藥(theophylline) ④抗過敏薬物(antihistamine) - (A) (1)(2)(3) - (B) 僅②③ - (C) (3)(4) - (D) (1)(2)(4) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - 4. 口服 Theophyllin (Phyllocontin®): - (1) 輔助治療,對夜間症狀有幫助,但可能造成心律不整、癲癇發作。 Source: [[sources/med3-book1-ch15|乙、氣喘]].

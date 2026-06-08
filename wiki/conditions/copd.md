@@ -18,6 +18,9 @@ sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch14]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch14]]"
 aliases:
   - 'COPD (慢性阻塞性肺疾病)'
   - 'COPD'
@@ -32,7 +35,7 @@ tags:
 
 ## Summary
 
-長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +53,16 @@ tags:
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch14]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch14]]
 
 ## Key Details From Sources
 
+- (2) 若發現 $PaCO_2$ 太高,表示病患呼吸太慢(Hypoventilation),可因上述低血氧、酸中毒刺激呼吸中樞,病人喘到後來呼吸肌 fatigue。COPD病人呼吸道長期吐氣不完全,也可能導致 $CO_2$ 累積(Retention);其他中樞神經、周邊神經、肌肉病變等也可能使呼吸肌無力,或是鎮靜劑抑制呼吸中樞。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- 4. 第三題:pH = 7.42; $HCO_3^- = 42$ ; $Pa_{CO2} = 67$ ; $Na^+ = 140$ ; $K^+ = 3.5$ ; $Cl^- = 88$ - (1) 第一步:中性→呼吸酸+代謝鹼 - (2) 第二步: $\Delta[HCO_3^-]=0.1\sim0.3\times\Delta PaCO_2=2.7\sim8.1$ ; $[HCO_3^-]=15.9\sim21.3$ ,但病患 $HCO_3^-=42$ ,所以由此也可證實病患合併代謝鹼。 - (3) 第三步: AG = 10, 未合併高陰離子間隙代謝酸。 - (4) 臨床狀況: 常見於 COPD 長期的呼吸酸加上過度使用利尿劑,體液缺乏導致代謝鹼。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入), 造成暫時的低血鉀, 導致肌肉無力,病人可能一早起來發現四肢無力,未經鉀離子的補充,下午鉀離子就會 shift 出細胞,無力就會改善。治療甲狀腺 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- c. 肺炎、中耳炎:常見於 COPD、抽菸者。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (C) 1. 關於非自主性的體重流失 (involuntary weight loss) 的敘述,下列 108(二)專 何者錯誤? - (A) 在 6 至 12 個月內,體重下降超過 4.5 公斤 - (B) 在 6 至 12 個月內,體重下降大於原先體重的 5% - (C) 甲狀腺功能亢進時,食慾減退是體重下降的主因 - (D) 慢性阻塞性肺病是其中一個原因 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - (C) 4.78 歲的張先生是慢性阻塞性肺病的患者,過去一年內,由於發作頻 繁,每天都需要使用類固醇 prednisolone 10 毫克左右控制。一週前 不幸跌倒,左髖關節骨折,接受人工關節置換,住院期間右髖關節 骨密度 T 值是 -2.2。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - 3. COPD 較少有 Clubbing finger,若有,須考慮其他問題,如肺癌等。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
@@ -63,8 +73,6 @@ tags:
 - | 疾病 | 氣喘 (Asthma) | 慢性阻塞性肺疾 (COPD) | |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------ Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - ...一秒吐氣量( $FEV_1$ )可能都會比預測值低。 - b. 但若是阻塞性(Obstructive)肺疾病,因為氣管變窄,使得第一秒吐氣量(FEV1)變小程度更大,因此 FEV1/FVC 比值下降則可用來偵測阻塞性肺病,包含氣喘、肺阳塞(COPD)。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - | 分 類 | 疾病 | 肺功能 | | 順應性 | |------------------------------|--------------------------------------|---------------------------------------|--------------|----------------| | 阻塞性肺疾Obstructive disease | 氣喘 (Asthma)慢性阻塞性肺疾 (COPD) | (FEV 1 /FVC) ↓( (肺氣腫) | | 限制性肺疾Restrictive disease | 間質性肺疾(Interstitial lung disease) | (FEV₁/FVC) ↑ | TLC ↓ | 順應性降低 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...二)專 醫三 -46 動脈血液氣體分析顯示 pH 7.12, PaCO280 mmHg, PaO245 mmHg, HCO3-28 mEq/L, BE (ECF) 0 mEq/L。其低血氧症最可能之原因為何? (A) 急性氣喘發作 (B) 慢性阻塞性肺疾併急性發作 (C) 安眠藥中毒,換氣不足 (D) 肺炎併呼吸衰竭 106(一)專 (B) 3. COPD 患者休息狀態時,動脈血已出現缺氧現象,該病患較不可能 因 COPD 而出現下列那一項呼吸生理的障礙? 醫三-46 (A) 第一秒吐氣量 (FEV,) 低於預期值的 50% (B) 分流 (shunt) 增加 (C) 換氣 / 灌流失衡 (ventilation/perfusion mismatching) (D) 第一秒吐氣量(F Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- (D) 慢性阻塞性肺疾 (chronic obstructive pulmonary disease) Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 
 ## Clinical Caveats
 

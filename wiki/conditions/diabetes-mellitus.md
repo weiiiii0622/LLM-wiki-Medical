@@ -17,6 +17,18 @@ sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch24]]"
   - "[[sources/med3-book2-ch26]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch12]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch10]]"
+  - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book3-ch11]]"
+  - "[[sources/med3-book3-ch13]]"
+  - "[[sources/med3-book3-ch15]]"
 aliases:
   - 'Diabetes mellitus (糖尿病)'
   - 'Diabetes mellitus'
@@ -31,7 +43,7 @@ tags:
 
 ## Summary
 
-慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,19 +60,31 @@ tags:
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book2-ch24]]
 - [[sources/med3-book2-ch26]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch05]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch12]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch10]]
+- [[sources/med3-book3-ch06]]
+- [[sources/med3-book3-ch11]]
+- [[sources/med3-book3-ch13]]
+- [[sources/med3-book3-ch15]]
 
 ## Key Details From Sources
 
-- B. 糖尿病致病機轉(八大惡兆) 222 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- ...mmHg 或已服用降壓藥),高血糖 (空腹血糖 > 100 mg/dL 或已服用降血糖藥),高血脂 (TG > 150 mg/dL、HDL dL | 100~125 mg/dL | ≧ 126 mg/dL | | 兩小時葡萄糖耐受時驗 (OGTT) | 正常人 | Impaired glucose tolerance (IGT)葡萄糖耐受失調 | 糖尿病 | | (喝下75g葡萄糖水之後兩小時) | dL | 140~199 mg/dL | ≧ 200 mg/dL | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- #### 2. 哪些人需注意自己是否有糖尿病: Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- (2) 促發因子:頭部外傷、高血壓、糖尿病、出血傾向、腦垂體放射線治療。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...失敗再手術 | | 生長激素細胞瘤 | 肢端肥大症 (Acromegaly) | 10% | 篩檢:IGF-1 ↑ | 先手術→放射、 | | (Somatotrope = GH) | 巨人症 (Gigantism) | 10% | 確診:OGTT (GH ↑ ) | Somatostatin 輔助 | | 皮促素細胞瘤 | 庫欣式病 (Cushing's dz.) | 10-15% | 24 小時尿液 | 先手術→放射、 | | (Corticotrope = ACTH) | 単次式病 (Cusning s dz.) | 10-15% | free cortisol | Ketoconazole 輔助 | | 甲促素細胞瘤 | 中樞甲狀腺亢進 | 最少見 | | 先手術→ PT Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- (3) 症狀: - a. 從 GH、IGF-1 升高到有症狀約需 10 年,肢體末端(Acral)骨頭過度增生,導致下巴、手、腳變大。 - b. 肢端肥大症臨床上更重要的影響包含冠心病、心肌病變(Cardiomyopathy)導致心律不整,上呼吸道阻塞導置睡眠中止(Sleep apnea)、高血壓、糖尿病等,這些與死亡率更有關係。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...--|----------------------------------------|---------------------------------------------------------------| | 較不具特殊性 | 糖尿病 (DM)、高血壓 (HTN)、骨質疏鬆 (Osteoporosis) | | | | 真皮層的 Collagen 變得脆弱易斷 | 腹部紫羅蘭色寬紋 (Wide violaceous striae),易瘀血 (Easy bruisability) | | 較具特殊性 | 雄性化特徵 (Virilizing signs) | 青春痘 (Acne)、多毛 (Hirsutism), Amenorrhea | | | 脂肪重新分布 | 驅幹肥 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...glucagonoma 常見症狀之敘述,何者正確? | 94(三)核 | | | (A) 嚴重紅斑疹,壞死性移行性紅斑 | 內 -39 | | | (B) 舌頭紅腫,口角炎 | | | | (C) 貧血,精神沮喪 | | | | (D) 糖尿病症狀,體重增加 | | | | 【詳解】Glucagonoma常見三症狀為Dermatitis (migratory | | | | necrolytic erythema) · Glucose intolerance (DM) · Weight loss · | | | | (Harrison, 2228) | | | (C) | 9. 下列有關內分泌疾病肇因於突變之敘述,何者為誤? | 94(一)核 | | (-) | (A) 多發 Source: [[sources/med3-book2-ch16|辛、其 他]].
-- ...tor)(D) 若能清除 C 型肝炎病毒,可減少肝硬化和肝癌之風險【詳解】(C) 不包含蛋白酵素抑制劑。 | 99(一)專醫三-15 | | (D) 30 | ). 下列何者與脂肪肝(fatty liver)無關? (A) 肥胖症 (B) 糖尿病 (C) C 型肝炎 (D) B 型肝炎 | 98(二)專醫三-13 | | (B) 3 | I. 使用 ribavirin 治療肝炎之最大副作用為: (A) 凝血酶原時間 (prothrombin time) 延長 (B) 貧血 (C) 白血球減少 (D) 血小板減少 【 詳解 】 Ribavirin 會 有 hemolytic anemia (RBC) 之 副 作 用, Interferon 可能造成白血球減少、血小板減少。 | 9 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...型肝炎疫苗 (D) HBV DNA (hepatitis B virus DNA) 【詳解】(D) 選項目前沒有用作預防注射,B型肝炎疫苗是用 Surface antigen o 96(二)專 (A) 39. 一位 60 歲男性病患,有長期糖尿病及高血壓,以口服藥物控制良好 醫三-18 。因有 1 年肝功能異常求診,抽血檢查 GOT 值為 68 U/L, GPT 值為 104 U/L (兩項正常值均為 0~35 U/L),以下各診斷那一項最不可能? (A) 慢性 A 型肝炎 (B) 慢性 B型肝炎 (C) 慢性 C型肝炎 (D) 脂肪肝 【詳解】A型肝炎不會造成慢性肝炎,都是急性發作。 (B) 40. 一位 40 歲男性,曾經因肝功能異常接受血液檢查,被告知結果為 96(二)專 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
+- ...有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9,無糖尿病、高血壓,我們可懷疑為 ESRD due to CGN。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- #### 4. 糖尿病腎病變 (DM nephropathy): Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- ...變厚及間質增加的變化,一般此階段維持 5-15 年 | | 第三階段:微量白蛋白尿期 | 24 小時白蛋白尿 (Albuminuria) 30~300 mg 稱之, | | (Microalbuminuria stage) | 一般至此階段糖尿病已有 6~15 年歷史,常伴隨血壓上升現象 | | 第四階段:明確腎病變階段 | 此時期用一般驗尿試紙即可驗出蛋白尿,尿中白蛋白量大於300 | | (Overt nephropathy) | mg/24hr | | | 此時期病人通常伴隨高血壓,且 GFR 以每年 10 ml/min 之速率下降 | | 第五階段:末期腎病 | 第四階段經過7年或糖尿病發病25年以上,需透析治療 | | (End stage renal disease Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- 3. 腎臟超音波:若腎臟大小出現萎縮現象,較可能是慢性腎衰竭。但幾個情況例外(CRF 但腎臟大小正常或變大): 糖尿病腎病變、愛滋病腎病變、類澱粉沉積症、腎靜脈栓塞 (renal vein thrombosis)、多囊腎症候群等物質沉積或腫瘤浸潤。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- ...~29 | 準備 renal replacement therapy | | Stage 5 | glomerular nephritis=CGN) | 蛋白流失 | 腫 | > 1 g | High AG acidosis | MGN, DM,SLE | | 慢性腎間質病變 (Chr.interstitial nephritis) | 貧血 (EPO) | 乾 | (RTA) | 吃中藥 | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- ...性骨病變(Adynamic bone disease) | 骨軟化症(osteomalacia) | | 病因 | 腎衰竭→磷高鈣低→ 2 nd 副甲狀腺機能亢進 | 服用過多 VitD 或鈣、使用高鈣透析液→過度抑制 PTH(好發於老人、DM;近年來漸增) | 磷高→含鋁的磷結合劑*故現已不用含鋁的磷結合劑。 | | 骨頭 | → High bone turnover | → Low bone turnover | → Low bone turnover | | 變化 | → Osteitis fibrosa cystica | → Adynamic bone dz. | → Osteomalacia | | 症狀 | Bone pain & fracture | Bone Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- ...ctate acid 檢視是否有 Ketoacidosis、Lactic acidosis。 - a. 酮酸中毒(Ketoacidosis):因身體無法消耗醣類、或醣類以消耗殆盡,轉而消耗脂肪產生酮體(Ketone body);可能發生在 DM 病人、酗酒、過度肌餓等, - b. 乳酸中毒(Lactic acidosis):要想到末梢循環不良導致細胞無氧呼吸,可能發生在敗血症(Sepsis)或心、肺衰竭的病患身上。 - (2) 測 Cr 檢視是否因腎衰竭導致陰離子堆積,如 Phosphate、Sulfate。 - (3) 問病史是否有喝或食入下列有機酸: - a. Osmolal gap = Measured osmoles-Calculated osmoles (2Na+G Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...A):蛋白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎臟留鉀留氫 - →高血鉀(一般 RTA 的酸中毒會低血鉀,只有 Type 4 RTA 的酸中毒會高血鉀) - →高血鉀造成近端腎小管製造 NH, ↓但腎臟排 H+ 正常 - → $\mathbb{R}$ NH3 ↓→ $\mathbb{R}$ NH4+ ↓→ UAG > 0 但 $\mathbb{R}$ 中 H+ ↑→ $\mathbb{R}$ pH + | 尿中 HCO3 | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...----------|----------------------------------------------------------------------------|--| | Aldosterone 低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...ing enzyme inhibitors) (C) 含鉑的抗癌製劑(如 cisplatin) (D) 腎素抑制劑 (renin inhibitors) 【詳解】cisplatin 會造成 ATN。 (B) 10.68 歲女性病人,高血壓及糖尿病 10年,兩年前血液肌酸酐 2.0 mg/dL, 104(二)專 五週前血液肌酸酐 7.5 mg/dL。最近 1 週高血壓更嚴重,出現譫妄、 醫三-7 少尿、水腫、呼吸困難、嘔吐。血液肌酸酐 9.6 mg/dL, Na+120 mmol/L, K+5.5 mmol/L, 尿液蛋白質 4+。腎臟超音波左腎長度 9.8 cm,右腎長度 9.6 cm。下列處置何者最正確? (A) 腎臟切片檢查 (B) 透析治療 (C) 以 angiotens Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch01]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch06]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book2-ch07]]
 - [[sources/med3-book2-ch01]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch06]]
 
 ## Key Details From Sources
 
+- (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- ...(sodium polystyrene sulfonate) 降低血鉀 | | | | (B) 透析(dialysis) | | | | (C) 輸血 (blood transfusion) | | | | (D) 經皮冠狀動脈介入治療(percutaneous coronary intervention) | | | | 【詳解】透析是 uremic pericarditis 最根本的治療方式。 | | | (C) | 3. 有關腹膜透析和血液透析的優劣點,下列何者錯誤? | 105(一)專 | | | (A) 血液透析對於超過濾(ultrafiltration)的控制比較正確 | 醫三-36 | | | (B) 腹膜透析比較容易發生血脂肪升高 | | | | (C) 血液透析比較常有白蛋白流失(D) 腹膜透析比較容易有低血鉀情況 | Source: [[sources/med3-book3-ch06|己、透析治療]].
 - 6. 治療:保守治療可以內視鏡注射肉毒桿菌素治療、或服用鈣離子阻斷劑(CCB)、硝 酸鹽類藥物(Nitrate)等達到肌肉放鬆;或以內視鏡進行氣球擴張術;若仍無效可考 慮用內視鏡或外科手術方法進行 myotomy ( 經內視鏡食道肌肉切開術: POEM-perioral endoscopic myotomy)(外科進行食道肌肉切開:Laparoscopic myotmy, 術式名 Heller myotomy)。緩解率可達 8 成以上,但亦可能造成 GERD 等併發症。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 - ...吞食攝影發現食道有鳥嘴狀外觀(bird beak),肌電圖發現高壓的下食道括約肌無法放鬆,則下列敘述何者正確? (A)可能是硬皮症(scleroderma)影響食道 (B)可能是含有一氧化氮(NO)的神經元亢奮造成 (C)可以內視鏡放置食道支架(esophageal stent)治療 (D)可以內視鏡注射肉毒桿菌素治療 【詳解】本題病症應是指 Achlasia 為下食道括約肌無法放鬆;(A)硬皮症應是觀察到食道肌肉萎縮、纖維化,導致 LES 關不緊,易有胃酸逆流典型症狀(胸痛、嘔酸水等);(B) 應是含有一氧化氮(NO)的神經元被破壞;(C)食道支架(esophageal stent)較常用在惡性疾病造成的狹窄例如:食道癌末期的 palliative treatment,用在 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 - 小腸鏡 enteroendoscopy:可想成是胃鏡的延伸,目前藉由特殊的氣囊構造(雙氣囊或單氣囊)可將內視鏡推進至小腸,直接進行探查,也可同步進行止血、切片、定位、異物取出、擴張、支架放置等治療。由於施行時間較長、風險也較高,因此多在已有其他檢查(膠囊、CT、RBC scan等)高度懷疑小腸病灶後進行, Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].

@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book2-ch08]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch15]]"
 aliases:
   - 'Rate control (心率控制)'
   - 'Rate control'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-AF 等心律不整控制心室反應速率的策略。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AF 等心律不整控制心室反應速率的策略。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ AF 等心律不整控制心室反應速率的策略。 本頁已整合至 `醫(�
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book2-ch08]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch15]]
 
 ## Key Details From Sources
 
+- ...aCl 2 )靜脈注射,不適合用於下列何種病況的治療? (A) 高血鉀(hyperkalemia) (B) 高血鎂 (hypermagnesemia) (C) 氫氟酸 (HF, hydrofluoric acid) 中毒 (D) 毛地黃 (digoxin) 中毒 【詳解】低血鉀、高血鈣會加重毛地黃中毒。 | 102(一)專醫三-65 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...omycin 與 theophyllin | e 併用會增加 theophylline 毒性 | | | | | , , , , , , , , , , , , , , , , , , , , | A | | | | | | zole 與 digoxin 併 用 可 能 會 發 生 | | | | | digoxin 毒性反應 | | | | | | | Ħ會增強 fluoroquinolone 藥效 | | | | | 【詳解】(D) Fluoroquinolone 身 | 與制酸劑併用會減弱 fluoroquinolone | | | | | 茲於方。 | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (C) 1. 一位 70 歲女性高血壓患者,心電圖顯示有心房顫動(atrial fibrillation), 因突然嚴重腹痛 3 小時被送至急診,發作前她是在看電視。病人有 噁心及嘔吐,但發作前數小時有正常排便。平常用藥有 hydrochlorothiazide、enalapril 及 digoxin。就診時血壓為 88/64 mmHg, 心跳不規則,每分鐘約120次,體溫38.5℃,腹部有壓痛,腸蠕動 音降低(hypoactive bowel sound)。電腦斷層顯示脾臟附近腸壁水 腫且有空氣,其他無特殊發現。在急診患者有少量排便,有含血反 應。血清 amylase 及 lipase 只稍微增高,下列那一診斷方向最可能? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - ...push; β blocker ( 台灣無 iv form 藥物 ); | | | → ABCD | CCB = Verapamil = Isoptin ® 2.5~5 mg ( 半支∼一支 ) iv push 2 分鐘; | | | | Digoxin 0.25~0.5 mg ( 半支~一支 ) iv drip | | | Narrow irregular (如 Af) | 好心(心臟功能正常):Bblocker、CCB = Diltiazem = Herbesser® | | | →好 BC 壞 AD | 壞心(心臟功能差): Amiodarone 150 mg(一支) iv drip 10 分鐘、Digoxin | | | Wide regular (如 VT) | Procai Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (C) 5.32 歲女性突然覺得心跳很快,這是本週第二次出現,第一次出現在 數分鐘之後自行停止。這次已經持續半個小時,當她到達急診時, 血壓 120/70 毫米汞柱,呼吸每分鐘十四次,氧合濃度百分之九十八 (沒有使用氧氣),心電圖出現窄波規則心率,每分鐘一百八十次。 此心律不整經給予頸動脈竇按摩及 Valsalva maneuver,心跳並沒有 下降。接下來給予何種藥物為佳? - (A) verapamil 2.5 到 5 mg, 一分鐘靜脈注射完畢 - (B) digoxin 0.5 mg, 靜脈緩慢注射 - (C) adenosine 6 mg, 靜脈快速注射 - (D) diltiazem 0.25 mg/kg, 一分鐘靜脈注射完畢 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

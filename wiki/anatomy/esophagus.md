@@ -15,6 +15,10 @@ sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch16]]"
   - "[[sources/med3-book2-ch22]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book3-ch20]]"
+  - "[[sources/med3-book3-ch22]]"
 aliases:
   - 'Esophagus (食道)'
   - 'Esophagus'
@@ -29,7 +33,7 @@ tags:
 
 ## Summary
 
-食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +48,17 @@ tags:
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book2-ch16]]
 - [[sources/med3-book2-ch22]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch19]]
+- [[sources/med3-book3-ch20]]
+- [[sources/med3-book3-ch22]]
 
 ## Key Details From Sources
 
+- ...B and C, syphilis, malaria, schistosomiasis, leprosy, filariasis | | | | Cancer | Breast, colon, lung, stomach, kidney, esophagus, neuroblastoma | | | | Drugs | gold, mercury, penicillamine, nonsteroidal anti-inflammatory agents, probenecid | | | | A | SLE, RA, primary biliary cirrhosis, dermatitis herpetiformis, | | | | Autoimmune dz. | bullous p Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- a. 為 Triazole 類,最大特點為可過 BBB,用於治療全身感染的「球黴菌型」 (Coccidioidal)黴菌:念珠菌、隱球菌;可治療念珠菌血症(Candidemia)、念 珠菌食道炎等;而隱球菌(Cryptococcal)腦膜炎須先用 Amphotericin B 引導治療數週,再用 Fluconazole 維持治療。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
+- ...篩檢檢測陽性者。 | | | | (二)新生兒以快速檢測法及抗體篩檢檢測呈陽性者。 | | | | 二、流行病學條件:符合下列任一情形之新生兒。 | | | 後天免疫缺 | | 24 小時內 | | 泛元光授献乏症候群 | 感染、隱球菌症、食道念珠菌症等(詳如後天免疫缺乏症候群個案報告 | 21.1.011 | | | 單背面表列,AIDS 之診斷依據)。 | | | (AIDS) | | | | | 二、檢驗條件: | | | | 經醫師診斷為伺機性感染或 AIDS 有關的腫瘤,如:肺囊蟲肺炎、弓形 | | | | 蟲確認為 HIV 感染,且依不同年齡,其 CD4 值或比例為: | | | | (一)年齡滿6歲(含)以上: 一、有相關流行地區旅遊史、病例接觸史、猿猴或致病原 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - 下食道括約肌(LES)過多暫時性的放鬆造成胃酸逆流,影響 LES 壓力的因素:Tips: LES: 3~4 cm. Resting pressure: 10~30 mmHg / Cholinergic excitatory neuron(副交感)→維持張力!! Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - ...--|---------------------------|-------------------| | 增加 | Gastrin | Cholinergic agonist | Metoclopramide | Protein | | LES | Motilin | α agonist | Domperidone | | | 壓力 | Substance P | β blocker | Cisapride, Baclofen | | | | | | Bethanecol, Histamine | | | 減少 | Secretin, CCK, | Anti-cholinergic agent | CCB | Fat, Chocolate | | LES | Serotoni Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - 3. 若胃鏡正常,仍懷疑 GERD,可使用 Ambulatory 24-hour ph monitoring,將 probe 放於 LES 上 5 公分監測,是目前用來定量酸暴露的最佳方法。另有一 Bernstein test -以 0.1% HCL 刺激看是否能引發相同症狀,可作為輔助。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch13]]"
+  - "[[sources/med3-book3-ch19]]"
 aliases:
   - 'Insulin resistance (胰島素阻抗)'
   - 'Insulin resistance'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-胰島素作用下降連結第 2 型糖尿病、代謝症候群、脂肪肝與心血管風險。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素作用下降連結第 2 型糖尿病、代謝症候群、脂肪肝與心血管風險。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book2-ch13]]
+- [[sources/med3-book3-ch19]]
 
 ## Key Details From Sources
 
+- ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - 1. 又稱為 Insulin resistance syndrome, 顧名思義和 Insulin resistance 有很大的關係。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - ...素敏感度,乃藉由活化細胞核的 PPAR $\gamma$ 接受器(Peroxisome Proliferative-Activated Receptor),一方面增加細胞表面 GLUT4 而 使葡萄糖利用增加,另外也可促進脂肪組織分化而減少胰島素阻抗。 - b. 優點:不會造成低血糖,且可改善 lipid profile。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 1. 高尿酸血症與代謝症候群相關,與 insulin resistance 有關係 Source: [[sources/med3-book2-ch09|丁、糖尿病]].

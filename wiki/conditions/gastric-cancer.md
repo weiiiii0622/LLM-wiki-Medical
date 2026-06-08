@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch22]]"
+  - "[[sources/med3-book3-ch14]]"
 aliases:
   - 'Gastric cancer (胃癌)'
   - 'Gastric cancer'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch22]]
+- [[sources/med3-book3-ch14]]
 
 ## Key Details From Sources
 
+- (2) 疾病:胃炎、胃潰瘍、十二指腸潰瘍、胃癌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 其中 a, b 亦被稱之 type B gastritis;Type A gastritis 為 Autoimmune gastritis $\rightarrow$ 和 H.p. 無關 H.p. 已知與胃內 hyperplastic polyp 有關;另外長期感染造成 intestinal metaplasia 也可能是後續引發胃癌的危險因子之一。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - (A) Helicobacter pylori infection 會造成 10~15% 的感染者產生慢性 胃炎,這些患者少數會發生消化性潰瘍或胃癌 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - (D) Helicobacter pylori infection 的 outcome 除了 bacterial virulent factor 之外,也與 host factor 有關,若兩者交互作用造成 antrumpredominant 胃炎,感染者的胃萎縮及胃癌的風險關聯性較大;若造成 corpus-predominant 胃炎,感染者的十二指腸潰瘍的風險較大,而與胃癌的風險關聯性較小 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].

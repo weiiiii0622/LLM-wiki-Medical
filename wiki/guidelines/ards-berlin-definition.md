@@ -8,6 +8,9 @@ sources:
   - "[[sources/med3-book1-ch20]]"
   - "[[sources/med3-book1-ch12]]"
   - "[[sources/med3-book1-ch21]]"
+  - "[[sources/med3-book3-ch10]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch18]]"
 aliases:
   - 'Berlin definition of ARDS (ARDS Berlin 定義)'
   - 'Berlin definition of ARDS'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,15 @@ ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁以 `醫(�
 - [[sources/med3-book1-ch20]]
 - [[sources/med3-book1-ch12]]
 - [[sources/med3-book1-ch21]]
+- [[sources/med3-book3-ch10]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch18]]
 
 ## Key Details From Sources
 
+- | 簡稱 | 致病菌 | 表徵 | 治療 | |-------|-------------|-------------------------|------------| | | | 發燒+低血壓+全身紅斑(1~2 週後脫屑)以及 | 單純是毒素造成 | | TSS | S. aureus | 全身多器官侵犯,如肝腎功能下降、凝血病變、 | 血清學、培養 (-) | | | | 肌肉痛 (CK 高 )、黏膜充血、意識改變等 | 不需抗生素 | | erree | C D | 低血壓 + 全身紅斑以及全身多器官侵犯, | 血清學、培養 (+) | | 2122 | S. Pyogenes | 如肝腎功能下降、凝血病變、ARDS 等 | 需抗生素* | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
+- 【詳解】山區旅遊、焦痂(eschar)需考慮恙蟲症(scrub typhus)。(B) 診斷是靠血清學檢查,如 ELISA、Weil-Felix OX-K。(C)治療的抗 生素首選是 Tetracycline。(D)用「不可能」太過絕對,通常是錯的 答案,腦膜炎、ARDS、心肌炎皆是被報告過的併發症。(台 965) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (2) 症狀:發燒、咳嗽、呼吸困難,肺炎及 ARDS 與 SARS 類似,但腎衰竭及 DIC 案 例較 SARS 多。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - A. 定位:ARDS 還有許多名稱,如 Shock lung, non-cardiogenic pulmonary edema 等,但皆無法適切描述其臨床意義。ARDS 其實是許多造成全身發炎疾病的肺部表現。 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
 - ...肺泡上皮細胞破壞、微血管通透性增加、肺泡中充斥滲出液 (Exudate) | | (Exudative) | 透明膜(Hyaline membrane) | 3~7 天 | 嗜伊紅性之高蛋白滲出液沈著於肺泡,顯微鏡下呈現透明膜般之構造,為 ARDS 特別的病理特徵 | | 增生期(Proliferative) | 纖維增生期(Fibroproliferative) | 7~10 天 | 纖維母細胞、第二型肺泡細胞增生、膠原蛋白增加肺間質發炎、纖維化 | Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
 - 1. 從 ARDS 被定義的過去 40 年以來,只有低潮氣容積且低氣道高原壓(Low TV & Low Pplat)能降低死亡率,而加呼氣末正壓(PEEP)僅可見死亡率較低的趨勢,無統計學上顯著差異。 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].

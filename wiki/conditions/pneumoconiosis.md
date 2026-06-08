@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch12]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch19]]"
+  - "[[sources/med3-book3-ch02]]"
 aliases:
   - 'Pneumoconiosis (塵肺症)'
   - 'Pneumoconiosis'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-職業暴露造成的肺部纖維化疾病群。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+職業暴露造成的肺部纖維化疾病群。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch12]]
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch19]]
+- [[sources/med3-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...cy | Lytic skeletal metastases (breast, myeloma) | | | | Excessive | Granulomatous diseases (sarcoidosis, tuberculosis, silicosis) | | | | 1,25(OH)2D | Lymphomas | | | | production | Vitamin D intoxication | | | | Primary increase in | Hyperthyroidism | | | | bone resorption | Immobilization | | | | Excessive calcium | Milk-alkali syndrome | | | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...結締組織病 | Connective tissue dz.: SS, PM, DM 等 | | | | | | Pulmonary hemorrhage syn. : Goodpasture's syn. | | | | | 環境相關 | 塵肺症 (Pneumoconiosis) 中的石棉 (Asbestosis) | | | | | 放射線傷害 (I | Radiation) · Aspiration pneumonia, Residual of ARDS | | | | Idiopathic | 發炎末期 | Idiopathic pulmonary fibrosis (IPF) | | | | interstitial | | [形態學上稱 Usual intersti Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - | 分 類 | 塵肺症 Pneumoconiosis無機物 (Inorganic dust) | | | 過敏性肺炎 Hypersensitivity Pneum. | | | |-----------|--------------------------------------------|-----------|-------------|-------------------------------|------------|--| | | | | Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - \* Caplan syndrome=RA + Pneumoconiosis Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].

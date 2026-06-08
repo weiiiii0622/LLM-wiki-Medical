@@ -14,6 +14,9 @@ sources:
   - "[[sources/med3-book2-ch24]]"
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch17]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch19]]"
 aliases:
   - 'Systemic corticosteroids (全身性類固醇)'
   - 'Systemic corticosteroids'
@@ -28,7 +31,7 @@ tags:
 
 ## Summary
 
-氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +45,15 @@ tags:
 - [[sources/med3-book2-ch24]]
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book2-ch17]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch19]]
 
 ## Key Details From Sources
 
+- ...度 9.8 cm,右腎長度 9.6 cm。下列處置何者最正確? (A) 腎臟切片檢查 (B) 透析治療 (C) 以 angiotensin-converting enzyme inhibitor 治療 (D) 以脈衝式類固醇 (pulse methylprednisolone) 治療 【詳解】病患之腎臟大小已偏小(正常 10~12 cm),且已出現尿 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- ...若腎臟病理變化為極微變化型腎病變(minimal change disease),其特殊治療之第一線藥物應為下列那一種? (A) cyclophosphamide (B) cyclosporine (C) chlorambucil (D) prednisolone | 98(一)專醫三-26 | | (B) | 15. | 下列何種腎絲球病變和 HIV (human immunodeficiency virus) 感染最有關聯? (A) Crescentic glomerulonephritis (B) Focal segmental glomerulosclerosis (C) Glomerular nodular sclerosis (D) Thrombotic microangiopath Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- #### 1. 黴菌 (Fungal infection): CD4 200 達 3 個月。 - c. 血氧濃度低 (PaO2 35 mmHg) 者,可給予類固醇。 Prednisolone 40 mg PO bid day1~5 → 20 mg bid day 6~10 → 10 mg bid day11~20。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - ...者最正確? (A) 立即停用 angiotensin-converting enzyme inhibitor (B) 立即做腎臟切片檢查 (C) 立即做 renal arteriography 檢查 (D) 立即以脈衝式類固醇(pulse methylprednisolone)治療 | 104(一)專醫三-7 | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - | 藥 物 | Glucocorticoid | Mineralocorticoid | |----------------------------------|----------------|-------------------| | Hydrocortisone (Solu-Cortef®) | 1 | 1 | | Prednisolone | 4 | 0.25 | | Methylprednisolone (Solumedrol®) | 5 | ( 腦轉移 IICP) | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - b. 治療: Prednisolone。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].

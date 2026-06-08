@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch24]]"
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch22]]"
 aliases:
   - 'Autoimmune hepatitis (自體免疫性肝炎)'
   - 'Autoimmune hepatitis'
@@ -21,16 +24,23 @@ tags:
 
 ## Summary
 
-自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book2-ch24]]
 - [[sources/med3-book2-ch11]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch22]]
 
 ## Key Details From Sources
 
+- ...療 | | | | →若已達腎病症候群 ( > 3 克 ): 類固醇 +ACEI 控制蛋白尿 | | | Systemic | Lupus nephritis( 狼瘡腎炎 ) 請參考 AIR 部分 | 下降 | | disease | → ANA (+)、Anti-dsDNA (+)、C3 下降 | | | | Cryoglobulinemia (冷凝球蛋白血症) | 下降 | | | → Cryoprecipitate (+)、C3 下降、Anti-HCV Ab (+) | | | | Henoch-schönlein purpura (HSP) | 正常 | | | → IgA nephropathy+systemic vasculitis (腹痛)、C3 正常 | | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- ...sts 2~4。全血球數檢查: Hb 10.6 g/dL、WBC 4,600/μL、platelets 120,000/μL;血液生化檢查: BUN 35 mg/dL、肌酸酐 1.8 mg/dL。下列那個處置是最適當的? (A) 檢查血清 ANA, C3 濃度,並安排腎臟切片檢查 (B) 安排胃鏡檢查 (C) 給予輸血 (D) 尿液細菌培養,並給予抗生素兩週 (B) 8. 腎病症候群 (Nephrotic Syndrome) 和下列何種癌症最有關聯? 101(一)專 (B) 何杰金氏淋巴癌 醫三-36 (A) 腎臟細胞癌 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- ...pylobacter | C. jejuni | 微須氧 | | | | | 菌 | 幽門螺旋桿菌 | Helicobacter | H. pylori | 1成須羊 | | | | | tiel - | | Estarabastaria ana | Escherichia, Klebsiella, | 兼性厭氧 | | | 桿 | | 腸內菌 * | | Enterobacteriaceae | Salmonella, Shigella | 末 土 八 羊 | | | 菌 | | 類相 | 早菌 | Bacteroid | B. fragilis | 絕對厭氧 | | | | | 嗜血桿菌呼吸道桿菌 博得氏菌 | | Haemophilus | H. influenza, H Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- ...| (E 型肝炎檢驗,送疾病管制局確認) | | | 急性病毒性 | 具有急性肝炎之症狀 (如黃疸、茶色尿、疲倦、腹痛、胃口差、噁心、嘔吐) | 1 週內 | | 肝炎未定型 | 及血清轉胺酶值上升 2.5 倍以上,排除藥物、中毒性肝炎、自體免疫性肝炎、 | | | | 酒精性肝炎、膽道疾病、心血管疾病(如鬱血性心衰竭、休克等),血清學 | | | | 標記 (IgM Anti -HAV、HBsAg、IgM Anti -HBc、Anti -HCV、Anti -HEV) 檢 | | | | 驗項目為陰性。(E 型肝炎檢驗,送疾病管制局確認 )。 | | | 思腺炎 | 符合臨床表徵或實驗室診斷者,即可進行通報: | 1 週內 | | | 一、臨床表徵:出現急性單或雙側腮腺或其他唾液腺疼 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - (D) antinuclear antibody (ANA) high titer 時,IgM anti-HBc 有假陽性的可能 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - 1. 自體免疫性肝炎 (Autoimmune hepatitis, AIH): - (1) 肝炎+球蛋白上升+自體免疫抗體。 - (2) 分類: - a. Type 1:Anti-smooth muscle Ab(ASMA)、ANA,有 2/3 是女性,可能合併自體 免疫甲狀腺炎、類風濕性關節炎。 - b. Type 2: Anti-liver/kidney microsome type 1 (Anti-LKM1) • - (3) 診斷:排除病毒、藥物、酒精等原因,加上 Revised Original Scoring System of the International Autoimmune Hepatitis Group 評分表(如下,Ref:AASLD 2010)。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - ...rum globulin or IgG | >2.0 | +3 | | | | above normal | 1.5~2.0 | +2 | | | | | 1.0~1.5 | +1 | | | | | 1:80 | +3 | | | | (ANA,ASMAm,LKM-1) | 1:80 | +2 | | | | | 1:40 | +1 | | | | | 60 g/day) | -2 | | | | Liver Histology | Interface hepatitis | +3 | Biliary change/other | | | | Lymphoplasmacytic | +1 | feature 暗示可能是 PBC | | | | infiltrate/Hepat Source: [[sources/med3-book2-ch17|丁、肝 炎]].

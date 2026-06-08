@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch19]]"
 aliases:
   - 'Dysphagia (吞嚥困難)'
   - 'Dysphagia'
@@ -21,16 +24,24 @@ tags:
 
 ## Summary
 
-吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch07]]
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch11]]
+- [[sources/med3-book3-ch22]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch19]]
 
 ## Key Details From Sources
 
+- ...-| | | 一、臨床條件:符合下列部分或全部臨床描述: | | | | 一種急性病毒性腦脊髓炎,症狀包括焦慮、頭痛、發燒、被動物咬傷部 | | | | 位之異樣感。焦燥和恐懼氣流是經常出現的症狀。疾病會漸進性發展至 | | | | 麻痺、吞嚥困難,咽喉部肌肉痙攣,以致於引起恐水現象,隨後併有精 | | | | 神錯亂及抽搐等現象。 | | | | 二、流行病學條件: | | | | 疾病潛伏期內,具有下列任一個條件: | | | | (一)有狂犬病相關流行地區旅遊史,且曾遭犬、貓、蝙蝠、浣熊等哺乳 | | | | 動物咬傷,或傷口、黏膜曾接觸帶有狂犬病病毒之唾液。 | | | | (二)曾接受器官移植者,而器官捐贈者疑似感染狂犬病。 | | | | (三)進行狂犬病病毒或檢體實 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...內 | | 血熱 | 一、有相關流行地區旅遊史、病例接觸史、動物或致病原暴露史,且符合下 | | | | 列部分或全部臨床描述者: | | | | 急性發燒、腹瀉(可能帶血)、嘔吐、頭痛、噁心、腹痛,進一步發展成 | | | | 結膜充血、吞嚥困難、流鼻血、牙齦出血、吐血、血便、紫斑症等症狀、 | | | | 有些病人也可能在軀幹出現斑點狀丘疹,接著出現脫水和虛脫,疾病後 | | | | 期經常出現中樞神經系統症狀,明顯的嗜睡、精神錯亂或昏迷。致死率 | | | | 為 50%~90%。 | | | | 二、前項旅遊史、接觸史或暴露史未知或不明,或無典型之臨床症狀,而相 | | | | 關檢體經實驗室檢驗符合下列任一條件者: | | | | (一)血清學 IgG 和(或)IgM Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...| 24 小時內 | | 出血熱 | 一、有相關流行地區旅遊史、病例接觸史、動物或致病原暴露史,且符合下 | | | | 列部分或全部臨床描述者:急性發燒、腹瀉(可能帶血)、嘔吐、頭痛、 | | | | 嘌心、腹痛,進一步發展成結膜充血、吞嚥困難、流鼻血、牙齦出血、 | | | | 吐血、血便、紫斑症等症狀,有些病人也可能在軀幹出現斑點狀丘疹, | | | | 接著出現脫水和虛脫,疾病後期經常出現中樞神經系統症狀,明顯的嗜 | | | | | | | | 睡、精神錯亂或昏迷。 | | | | 二、前項旅遊史、接觸史或暴露史未知或不明,或無典型之臨床症狀,而相 | | | | 關檢體經實驗室檢驗符合下列任一條件者: | | | | (一)血清學 IgG 和 (或 )IgM 檢測結 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- (2) 症狀:意識不清 (70%)、吞嚥困難 (40%)、四肢癱瘓 (Quadriparesis) 或 Lock-in syndrome (33%)、情緒異常、癲癇發作。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - 2. 固體、液體食物皆會困難吞嚥→神經肌肉疾病(neuromuscular disorder),導致食道蠕動功能受損,而有吞嚥固體、液體食物皆有困難。注意:無論是食道括約肌無法放鬆或無法正常收縮都會吞嚥困難,因為沒有正常的推進波。 - (1) 若僅是間歇性發生,可懷疑是 diffuse esophageal spasm, 然而這些病人有可能會進展到 achalasia。 - (2) 併有呼吸道的症狀,可懷疑是 achalasia,因為 achalasia 的病人下食道括約肌(lower esophageal sphincter, LES)無法放鬆,食物會積在食道,可能多到會跑到氣管內,而有呼吸道症狀或咳嗽、嘔吐等。 - (3) 長期有 h Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 - (Ref: Spieker MR et al., Evalua ting dysphagia. American family physician 61:3639, 2000) Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 - 4. 症狀: 吞嚥困難不侷限於液態或固態食物。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].

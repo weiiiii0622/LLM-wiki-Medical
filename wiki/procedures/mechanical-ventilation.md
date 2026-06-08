@@ -12,6 +12,9 @@ sources:
   - "[[sources/med3-book1-ch17]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch23]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch22]]"
 aliases:
   - 'Mechanical ventilation (機械通氣)'
   - 'Mechanical ventilation'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,15 @@ tags:
 - [[sources/med3-book1-ch17]]
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch23]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch22]]
 
 ## Key Details From Sources
 
+- 2. 第一題:pH = 7.39;HCO $_3$ = 14;Pa $_{CO2}$ = 24;Na $^+$ = 140;K $^+$ = 4.0;Cl $^-$ = 106 - (1) 第一步:酸→代謝酸。 - (2) 第二步:判斷代償是否合宜? $\Delta PaCO_2 = 1.25 \times \Delta [HCO_3] = 12.5$ ;所以 $PaCO_2$ 應 該代償至 40-12.5=27.5,但病患 $Pa_{CO_2}=24$ ,所以合併呼吸鹼。 - (3) 第三步 AG = 20 →陰離子間隙代謝酸; $\Delta$ AG(10) = $\Delta$ [HCO₃](10) →單純的高陰離子間隙代謝酸。 - (4) 臨床狀況: 常見於 ICU 敗血症的病人用上呼吸器後的狀況。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...食慾不佳及黃疸就醫住院,診斷為慢性B型肝炎急性惡化。入院15天後突發性高燒39℃,輕微腹瀉,及呼吸困難,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何種抗生素為最適當之治療選擇? - (A) ciprofloxacin - (B) fluconazole - (C) imipenem/cilastatin - (D) vancomycin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- ...小時內 | | 漢他病毒症候群 | 漢他病毒肺症候群: 符合下列三項通報條件之一者: 一、有相關流行地區旅遊史、動物排泄物或分泌物等致病原暴露史,且符合下列部分或全部臨床描述者: (一)原本健康的人於住院 72 小時內演變成呼吸困難,需藉助呼吸器供給氧氣,發燒高於 38.3℃,兩側肺部瀰漫性水腫,X光片顯示類似急性呼吸窘迫症候群。或 (二)不明原因呼吸性疾病致死,經屍體解剖發現非已知潛在性疾病所引起的非心源性肺水腫者。 二、前項旅遊史或暴露史未知或不明,或無典型之臨床症狀,而相關檢體經實驗室檢驗符合下列任一條件者: (一)血清學抗體檢驗陽性(IgM 抗體陽性或採血間隔恰當之成對血清檢體的 IgG 抗體效價上升≥ 4 倍者)。 (二)臨床檢體 PCR 檢測陽性。 (三)組織切片免 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - # B. 非侵入性呼吸器 (Non-invasive Positive Pressure Ventilator = NIPPV): CPAP, BiPAP Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - 1.目的:呼吸器不是用來治病(curative)的,是用來支持衰竭的呼吸系統,直到病人的呼吸功能因治療或自然回復功能。且不該用呼吸器來延長死亡過程,如癌症末期病人、 末期之慢性呼吸衰竭。 Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - ...人肺部病變惡化時,因為給予 | | Control | 的壓力不變,所以通氣量可能不足。優點是可避免肺部壓力過大。 | | (PC) | 適應症:急性期過後,停用鎮靜劑時,不限制通氣量,給予固定的壓力輔助,病患較 | | , , | 能配合呼吸器。氣胸病患因為漏氣,故用 PC mode 較能維持適當通氣量。 | Source: [[sources/med3-book1-ch20|庚、呼吸器]].

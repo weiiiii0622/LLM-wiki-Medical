@@ -1,0 +1,45 @@
+---
+type: condition
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book3-ch02]]"
+aliases:
+  - 'Hypernatremia (高血鈉)'
+  - 'Hypernatremia'
+  - '高血鈉'
+tags:
+  - medicine
+  - condition
+  - auto-topic-node
+---
+
+# Hypernatremia (高血鈉)
+
+## Summary
+
+高血鈉多代表水分相對不足，需依水分流失、鈉負荷與口渴/ADH 軸評估。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med3-book3-ch02]]
+
+## Key Details From Sources
+
+- ## B. 高血鈉: (血鈉濃度> 145 mEq/L) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- 1. 依據體液狀況鑑別診斷;治療也依體液狀況不同 - (1) 四肢水腫、體液過剩 (Hypervolemia): - a. 給予太多的高濃度鈉溶液,如心臟停止 (Cardiac arrest) 急救時,為了鹼化血液,短時間內給予太多 Sodium bicarbonate。 - b. 治療: 搭配 D5W 給予一些利尿劑治療。 - (2) 無明顯體液異常(Euvolemia): ADH 沒有作用,導致純水無法回收,造成高血鈉。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- a. 給予利尿劑脫過頭,或腸道等處水流失的比鈉多,造成高血鈉。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

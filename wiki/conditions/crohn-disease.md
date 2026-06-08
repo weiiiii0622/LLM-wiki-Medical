@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch04]]"
+  - "[[sources/med3-book3-ch04]]"
 aliases:
   - 'Crohn disease (克隆氏症)'
   - 'Crohn disease'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可侵犯全消化道的 transmural IBD，常有 skip lesions、瘻管或狹窄。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch08]]
 - [[sources/med3-book2-ch04]]
+- [[sources/med3-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...Sjögren's syndrome, Hashimoto's thyroiditis | | | | Other systemic | Fanconi's syndrome, sickle cell anemia, diabetes, Crohn's disease, sarcoidosis, | | | | dz. | Guillain-Barré syndrome, Weber-Christian disease, angiofollicular lymph node hyperplasia | | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - | Crohn's disease (CD) | Ulcerative colitis (UC) | |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - ④有接受過闌尾切除手術(appendectomy),可以顯著降低發生潰瘍性大腸炎(ulcerative colitis)與克隆氏症(Crohn's disease)的風險 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - (C) 2. 關於 Ulcerative colitis 及 Crohn's disease 的比較,下列何者正確? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].

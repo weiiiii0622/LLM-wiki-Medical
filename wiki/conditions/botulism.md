@@ -1,0 +1,52 @@
+---
+type: condition
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book3-ch10]]"
+aliases:
+  - 'Botulism (肉毒桿菌中毒)'
+  - 'Botulism'
+  - '肉毒桿菌中毒'
+tags:
+  - medicine
+  - condition
+  - auto-topic-node
+---
+
+# Botulism (肉毒桿菌中毒)
+
+## Summary
+
+肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch22]]
+- [[sources/med3-book3-ch10]]
+
+## Key Details From Sources
+
+- \* 國考題的翻譯:臘桿菌(Bacillus cereus)、臘腸毒桿菌(Clostridium botulinum),前者就是大家熟悉的造成食物中毒的仙人掌桿菌,後者就是能使肌膚緊縮的肉毒桿菌,乍看中文翻譯易搞混,須依英文學名為主。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- | 致病菌 | | 疾病 | | 症狀 | |--------|-------------------------|-------|--------------------------|--------| | 肉毒桿菌 | Clostridium botulinum | 肉毒桿菌病 | Botulism(抑制 Ach 釋放) | 肌肉衰弱 | | 破傷風桿菌 | Clostridium tetani | 破傷風 | Tetanus(抑制 Gly,GABA 釋放) | 肌肉痙攣 | | 產氣芽孢桿菌 | Clostridium perfringens | 氣性壞疽 | Gas gangrene | 蜂窩性組織炎 | | 困難芽孢桿菌 | Clost Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- #### 1. 臘腸毒桿菌 (Clostridium botulinum) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- ...2. 鉤端螺旋體病 | 2. 馬堡病毒出血熱 | | 3. 嚴重急性呼吸道 | 3. 登革熱 / 登革出血 | 3. 新生兒破傷風 | 3. 類鼻疽 | 3. 黃熱病 | | 症候群 | 熱/登革休克症候群 | 4. 日本腦炎 | 4. 肉毒桿菌中毒 | 4. 伊波拉病毒出血熱 | | 4. 狂犬病 | 4. 流行性腦脊髓膜 | 5. 結核病(除多重抗 | 5. 侵襲性肺炎鏈球菌 | 5. 拉薩熱 | | 5. 炭疽病 | 炎 | 藥性結核病外) | 感染症 | | | 6. H5N1 流感 | 5. 副傷寒 | 6. 漢生病 | 6. Q 熱 | | | | 6. 小兒麻痺症 (急性 | 7. 先天性德國麻疹 | 7. 地方性斑疹傷寒 | | | | 無力肢體麻痺) | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...性,其臨床從無症狀或局部皮膚潰瘍,到以嚴重肺炎表現,甚至是全身性敗血症、休克等,臨床檢體經由實驗室培養出疑似為類鼻 | 24 小時内 | | | 疽伯克氏菌 (Burkholderia pseudomallei) 者必須通報。 | | | 肉毒桿菌 | 本病典型臨床症狀主要與神經系統有關,包括複視、視覺模糊、延髓性衰弱、 | 24 小時內 | | 中毒 | 對稱性神經麻痺等。 | | | | 臨床病例定義依感染源可分下列幾型: | | | | 一、食媒型:因攝食已受肉毒桿菌污染,產生毒素食物;症狀最初不舒服之 | | | | 處為視覺障礙 (視覺模糊或複視),嚥物困難及口乾。之後,病例漸有弛 | | | | 緩性麻痺之現象,嘔吐和便秘或下痢也會出現,嚴重時會因窒息而死亡。 | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...正常人的下肢並引起糖尿病感染產氣性壞疽 | 95(一)專 | | (1.1) | | 病 (gas gangrene)? | 內 1-43 | | | | (A) Clostridium perfringens | | | | | (B) Clostridium botulinum | | | | | (C) Clostridium tetani | | | | | (D) Clostridium difficile | | | (B) | 13 | 關於壞死性筋膜炎之敘述,下列何者不正確? | 94(三)檢 | | (D) | 15. | (A) Necrotizing fasciitis(壞死性筋膜炎)患者可合併急性腎衰竭或敗 | 內 -69 | | | | 血性休克 | ,, | | | | (B) Str Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

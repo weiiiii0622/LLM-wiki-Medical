@@ -13,6 +13,9 @@ sources:
   - "[[sources/med3-book1-ch05]]"
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch16]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book3-ch06]]"
 aliases:
   - 'Coronary arteries (冠狀動脈)'
   - 'Coronary arteries'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,16 @@ LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁以 `醫(三)
 - [[sources/med3-book1-ch05]]
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book1-ch16]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch05]]
+- [[sources/med3-book3-ch06]]
 
 ## Key Details From Sources
 
+- (B) 18. 一位 65 歲男性因冠狀動脈狹窄,接受心臟血管繞道手術,術後尿量逐漸減少,現在每小時僅有 15 mL,懷疑有急性腎衰竭。為了分辨prerenal或 intrinsic renal 急性腎衰竭,醫師送檢尿液及血液生化值,結果血中之肌酸酐(Cr)為 3 mg/dL,BUN 35 mg/dL,Na 為 130 mEq/L,K 為 5 mEq/L,尿中之 Cr 為 40 mg/dL,Na 為 50 mEq/L,尿比重= 1.010,FENa 是多少? (A) 0.2%(B) 2.9%(C) 10.3%(D) 35% Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- (A) 閉塞性冠狀動脈疾病 (occlusive coronary heart disease) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- ...ayexalate (sodium polystyrene sulfonate) 降低血鉀 | | | | (B) 透析(dialysis) | | | | (C) 輸血 (blood transfusion) | | | | (D) 經皮冠狀動脈介入治療(percutaneous coronary intervention) | | | | 【詳解】透析是 uremic pericarditis 最根本的治療方式。 | | | (C) | 3. 有關腹膜透析和血液透析的優劣點,下列何者錯誤? | 105(一)專 | | | (A) 血液透析對於超過濾(ultrafiltration)的控制比較正確 | 醫三-36 | | | (B) 腹膜透析比較容易發生血脂肪升高 | | | Source: [[sources/med3-book3-ch06|己、透析治療]].
 - (B) 2. 一位 70 歲女性患有糖尿病外,無其它病史,半夜突然胸痛、冒汗、 108(二)專 想吐,送至急診時血壓 137/79 mmHg,脈搏 73 次 / 分,呼吸 18 次 / 分,心電圖如下所示,緊急心導管檢查發現心肌梗塞,最可能是 那一條冠狀動脈血管堵塞? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - ...,兩塞住 | ズ相 叔 DC 擅 AD 寸 | | | Amio去顫 | | | | | 插管後再電 | 心破(心包膜填塞) | | 分一次最多3 mg; | _ | | 下/分+不穩定 | | | | 描破(張力性氣胸)若仍無脈搏→心塞(冠狀動脈梗塞) | | 雕加·柳 古小 独词等型 (T/CD) | | | | 寬 | | | | | | S//11 D opatimic pamp (2 Tonig kg/mm) | | | 100 | | | | | 給藥 Amiodarone300 mg (兩支) iv push | 肺塞(肺動脈栓塞) | 或用Epinephrine pump (2~10mg/min) | | | | 去顫 | | | Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (B) 施以緊急冠狀動脈攝影術及血管成型術 (Emergent coronary angiography and angioplasty) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

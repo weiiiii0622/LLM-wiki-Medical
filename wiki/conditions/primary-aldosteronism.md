@@ -5,6 +5,9 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch10]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch04]]"
 aliases:
   - 'Primary aldosteronism (原發性醛固酮症)'
   - 'Primary aldosteronism'
@@ -19,14 +22,23 @@ tags:
 
 ## Summary
 
-醛固酮自主分泌造成高血壓與低血鉀。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+醛固酮自主分泌造成高血壓與低血鉀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch10]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch04]]
 
 ## Key Details From Sources
 
+- (a) 血壓高:若與礦物性皮質素 (Aldosterone) 分泌過量有關,乃因其藉由留 鈉排鉀,所以會合併高血壓,要考慮腎動脈狹窄 (Renal artery stenosis)、 Conn's syndrome 等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- (D) 原發性皮質醛酮症 (primary aldosteronism) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- (A) 原發性皮質醛酮過多症 (primary aldosteronism) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...eficiency, and | | 3. Renin-secreting tumor | | | | mineralocorticoid | | 4. Estrogen therapy | | | | excess | Low | 1. Primary aldosteronism (Adenoma, Hyperplasia, Carcinoma) | | | | | renin | 2. Adrenal enzyme defects (11b or 17a-Hydroxylase deficiency) | | | | | | 3. Cushing's syndrome or disease | | | | | | 4. Other(Licorice, Carbenoxolone, Chewer's tobac Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...tubular acidosis) (D) 保鉀利尿劑(例如 spironolactone) | 94(三)檢內-2 | | | 下列情況皆會發生代謝性鹼血症,檢查尿液的氯離子濃度時,下列何者與其他三種狀況不同? (A) 原發性皮質醛酮症(primary aldosteronism) (B) 病人使用鼻胃管引流 (C) Gitelman's syndrome (D) 使用利尿劑 【詳解】思考 renal loss (ACD) or GI loss (B) of H + 。 | 94(一)專內1-2 | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- (D) 原發性皮質醛酮症 (primary aldosteronism) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...11 | Glucocorticoid | Cushing's syn. | Addison's dz.Adrenal crisis | | 及質 (meso | (mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural crest) | Tyrosine | Norepinephrine | Fileociiromocytoma | | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - (1) Primary: 腎上腺本身分泌很多 Aldosteronism → Vol. 充足→低 Renin - a. 70% Adrenal hyperplasia (多是雙側、較少有低血鉀)、25% Adrenal adenoma = Conn's syn. (多是單側有腫瘤)、5% Carcinoma Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - ...mmHg 的情況,下列何種內分泌疾病最需要列入診斷考量? (A) 嗜鉻細胞瘤(pheochromocytoma) (B) 甲狀腺功能亢進(hyperthyroidism) (C) 庫欣氏症(Cushing's syndrome) (D) 原發性醛固酮過高症(primary aldosteronism) | 108(一)專醫三-55 | |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].

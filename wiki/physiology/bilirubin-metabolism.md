@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch20]]"
   - "[[sources/med3-book2-ch22]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch18]]"
 aliases:
   - 'Bilirubin metabolism (膽紅素代謝)'
   - 'Bilirubin metabolism'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book2-ch20]]
 - [[sources/med3-book2-ch22]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch18]]
 
 ## Key Details From Sources
 
+- (5) 預防: Conjugated capsular polysaccharide-protein vaccine:可用來預防感染,應而需於 2、4、6、15 個月大時施打。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (C) 4. 八八水災造成屏東低窪地區嚴重淹水,十天後,該地區有位 50 歲男性發生急性高燒 38.5℃、頭痛、肌肉酸痛,週邊血白血球為17,000/μL, 血小板120,000/μL, GOT:150 U/L 及 GPT:162 U/L,總膽紅素(total bilirubin):4.1 mg/dL;血清肌酸酐(serum creatinine):3.2 mg/dL。下列何種抗生素為最適當之治療選擇? - (A) amikacin - (B) ciprofloxacin - (C) crystal penicillin G - (D) vancomycin Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (D) 3. 20 歲男性大學生,主訴持續發燒 10 天,合併頭痛、肌肉疼痛及咽喉疼痛。家人、同學或朋友無類似症狀。身體診查有頸部和鼠蹊淋巴腺腫大及軀幹皮膚有斑丘疹。周邊血白血球 4,200/mL,白血球分類:多核型球 35%、淋巴球 45%、單核球 15% 及非典型淋巴球 5%。GOT:56 U/L,GPT:60 U/L,總膽紅素(total bilirubin):1.0 mg/dL。請問最不需要選擇下列何種檢驗? Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - a. 膽色素(Bilirubin): 分為 Indirect/Unconjugated bilirubin 要經過肝臟 Conjugation 的過程,形成 Direct/Conjugated bilirubin 後由膽管排至十二指腸。因此,根據 Direct Bilirubin/Total Bilirubin 的比值可進行鑑別診斷: Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - (C) 5. 何小姐,18 歲,因腹脹和茶色尿來院門診。理學檢查發現有黃疸和 100(2) 專 肝臟腫大,實驗室檢查為 AST 1500 U/L,ALT 1600 U/L,膽紅素 5.2 醫 = -19 mg/dL,ALP 和 $\gamma$ -GT 值正常,腹部超音波無異常。下列敘述何者 錯誤? - (A) 應檢測 IgM anti-HAV - (B) 應檢測 IgM anti-HBc - (C) 應檢測 IgM anti-HCV - (D) 應檢測 ANA (Antinuclear antibody) Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - ...x hormone、Erythromycin)造成 intrahepatic cholestasis。理由是當敗血症等狀況使 肝臟負荷量過大時,因為 excretion 功能最耗能,所以就會最先出現問題,導致 cholestasis,而有 conjugated bilirubin 上升;另外,一些藥物引起的藥物性肝炎也 特別會使排泄膽汁的功能受損,導致 cholestasis。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].

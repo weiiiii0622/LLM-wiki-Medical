@@ -28,5 +28,8 @@ Normal function and pathways.
 - [[physiology/oxygenation-and-ventilation|Oxygenation and ventilation (氧合與通氣)]] - 區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。
 - [[physiology/preload-afterload|Preload and afterload (前負荷與後負荷)]] - 理解心衰竭、瓣膜病與血管擴張藥物效果的基本概念。
 - [[physiology/raa-system|Renin-angiotensin-aldosterone system, RAAS (腎素-血管張力素-醛固酮系統)]] - 心衰竭與高血壓治療的重要神經荷爾蒙路徑。
+- [[physiology/renal-acid-base-handling|Renal acid-base handling (腎臟酸鹼處理)]] - 腎臟藉由 HCO3 再吸收、H+ 分泌與 NH4 排泄維持酸鹼平衡。
+- [[physiology/renal-potassium-handling|Renal potassium handling (腎臟鉀離子處理)]] - 遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。
+- [[physiology/renal-sodium-water-handling|Renal sodium and water handling (腎臟鈉水處理)]] - 腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。
 - [[physiology/ventilation-perfusion|Ventilation-perfusion matching, V/Q (通氣灌流匹配)]] - 低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。
 - [[physiology/ventricular-remodeling|Ventricular remodeling (心室重塑)]] - 心肌傷害後結構與功能變化，與心衰竭進展相關。

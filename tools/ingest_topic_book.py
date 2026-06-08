@@ -393,7 +393,154 @@ SECOND_BOOK_SEEDS: tuple[TopicSeed, ...] = (
     TopicSeed("anatomy", "parathyroid-glands", "Parathyroid glands (副甲狀腺)", ("副甲狀腺", "parathyroid"), "副甲狀腺分泌 PTH，調控鈣磷平衡。"),
 )
 
-ALL_SEEDS: tuple[TopicSeed, ...] = SEEDS + SECOND_BOOK_SEEDS
+THIRD_BOOK_SEEDS: tuple[TopicSeed, ...] = (
+    # Nephrology: acid-base, electrolytes, kidney syndromes.
+    TopicSeed("condition", "metabolic-acidosis", "Metabolic acidosis (代謝性酸中毒)", ("代謝性酸中毒", "Metabolic acidosis", "HCO3 低", "HCO₃ 低"), "HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因。"),
+    TopicSeed("condition", "high-anion-gap-metabolic-acidosis", "High anion gap metabolic acidosis (高陰離子間隙代謝性酸中毒)", ("高陰離子間隙代謝", "high anion gap", "HAGMA", "anion gap acidosis"), "未測量陰離子增加造成代謝性酸中毒，常見於乳酸、酮酸、腎衰竭與毒物。"),
+    TopicSeed("condition", "normal-anion-gap-metabolic-acidosis", "Normal anion gap metabolic acidosis (正常陰離子間隙代謝性酸中毒)", ("正常陰離子間隙代謝", "normal anion gap", "NAGMA", "hyperchloremic acidosis"), "多與 HCO3 流失或腎排酸障礙相關，常見鑑別為 diarrhea 與 RTA。"),
+    TopicSeed("condition", "metabolic-alkalosis", "Metabolic alkalosis (代謝性鹼中毒)", ("代謝性鹼中毒", "Metabolic alkalosis", "HCO3 高", "HCO₃ 高"), "HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralocorticoid excess 相關。"),
+    TopicSeed("condition", "respiratory-acidosis", "Respiratory acidosis (呼吸性酸中毒)", ("呼吸性酸中毒", "Respiratory acidosis", "PaCO2 高", "hypoventilation"), "換氣不足造成 PaCO2 上升，需分辨急性與慢性腎代償。"),
+    TopicSeed("condition", "respiratory-alkalosis", "Respiratory alkalosis (呼吸性鹼中毒)", ("呼吸性鹼中毒", "Respiratory alkalosis", "PaCO2 低", "hyperventilation"), "過度換氣造成 PaCO2 下降，常見於低氧、疼痛、焦慮、敗血症或藥物。"),
+    TopicSeed("condition", "renal-tubular-acidosis", "Renal tubular acidosis, RTA (腎小管酸中毒)", ("腎小管酸中毒", "Renal tubular acidosis", "RTA", "distal RTA", "proximal RTA", "Type 4 RTA"), "腎小管排酸或 HCO3 處理異常造成正常陰離子間隙代謝性酸中毒。"),
+    TopicSeed("condition", "lactic-acidosis", "Lactic acidosis (乳酸中毒)", ("乳酸中毒", "Lactic acidosis", "lactate"), "組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。"),
+    TopicSeed("condition", "ketoacidosis", "Ketoacidosis (酮酸中毒)", ("酮酸中毒", "Ketoacidosis", "ketone body", "alcoholic ketoacidosis", "starvation ketoacidosis"), "脂肪分解產生 ketone body，可見於糖尿病、酒精或飢餓狀態。"),
+    TopicSeed("condition", "toxic-alcohol-poisoning", "Toxic alcohol poisoning (毒性醇中毒)", ("Methanol", "Ethylene glycol", "Isopropanol", "毒性醇", "osmolal gap"), "甲醇、乙二醇等可造成 osmolal gap 與高陰離子間隙代謝性酸中毒。"),
+    TopicSeed("condition", "hyponatremia", "Hyponatremia (低血鈉)", ("低血鈉", "Hyponatremia", "血鈉 < 135", "Na 低"), "低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。"),
+    TopicSeed("condition", "pseudohyponatremia", "Pseudohyponatremia (假性低血鈉)", ("假性低血鈉", "Pseudohyponatremia", "高血脂", "高蛋白", "hyperglycemia"), "血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。"),
+    TopicSeed("condition", "syndrome-of-inappropriate-adh-secretion", "SIADH (抗利尿激素不適當分泌症候群)", ("SIADH", "ADH 不適當", "抗利尿激素不適當", "syndrome of inappropriate"), "euvolemic hypotonic hyponatremia 的重要原因，需排除甲狀腺與腎上腺功能不足。"),
+    TopicSeed("condition", "osmotic-demyelination-syndrome", "Osmotic demyelination syndrome (滲透性去髓鞘症候群)", ("Central pontine", "CPM", "osmotic demyelination", "橋腦去髓鞘", "矯正太快"), "慢性低血鈉矯正過快可能造成橋腦或橋腦外去髓鞘。"),
+    TopicSeed("condition", "hypernatremia", "Hypernatremia (高血鈉)", ("高血鈉", "Hypernatremia", "Na 高", "血鈉 >"), "高血鈉多代表水分相對不足，需依水分流失、鈉負荷與口渴/ADH 軸評估。"),
+    TopicSeed("condition", "diabetes-insipidus", "Diabetes insipidus (尿崩症)", ("尿崩症", "Diabetes insipidus", "central DI", "nephrogenic DI", "DDAVP"), "ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。"),
+    TopicSeed("condition", "hypokalemia", "Hypokalemia (低血鉀)", ("低血鉀", "Hypokalemia", "K 低", "血鉀 低"), "低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。"),
+    TopicSeed("condition", "hyperkalemia", "Hyperkalemia (高血鉀)", ("高血鉀", "Hyperkalemia", "K 高", "血鉀 高"), "高血鉀可能造成致命心律不整，需結合 ECG、腎功能、藥物與酸鹼狀態判斷。"),
+    TopicSeed("condition", "hypophosphatemia", "Hypophosphatemia (低血磷)", ("低血磷", "Hypophosphatemia", "phosphate 低"), "低血磷可影響肌肉、呼吸與紅血球功能，常與再餵食、酒精、腎流失或細胞內移動相關。"),
+    TopicSeed("condition", "hyperphosphatemia", "Hyperphosphatemia (高血磷)", ("高血磷", "Hyperphosphatemia", "phosphate 高"), "高血磷常見於腎功能下降，會影響鈣磷與副甲狀腺軸。"),
+    TopicSeed("condition", "acute-kidney-injury", "Acute kidney injury, AKI (急性腎損傷)", ("急性腎損傷", "AKI", "acute kidney injury", "acute renal failure", "急性腎衰竭"), "短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。"),
+    TopicSeed("condition", "prerenal-azotemia", "Prerenal azotemia (腎前性氮血症)", ("腎前性", "Prerenal", "有效血液容量", "FENa"), "腎灌流不足造成腎功能下降，早期可逆但可進展為 ATN。"),
+    TopicSeed("condition", "acute-tubular-necrosis", "Acute tubular necrosis, ATN (急性腎小管壞死)", ("急性腎小管壞死", "ATN", "acute tubular necrosis", "muddy brown"), "缺血或腎毒性造成 intrinsic AKI，尿沉渣與 FENa 可輔助判讀。"),
+    TopicSeed("condition", "acute-interstitial-nephritis", "Acute interstitial nephritis, AIN (急性間質性腎炎)", ("急性間質性腎炎", "AIN", "interstitial nephritis", "eosinophiluria"), "常與藥物過敏、感染或自體免疫相關，屬 intrinsic AKI。"),
+    TopicSeed("condition", "chronic-kidney-disease", "Chronic kidney disease, CKD (慢性腎臟病)", ("慢性腎臟病", "CKD", "chronic kidney disease", "chronic renal insufficiency"), "腎功能或腎臟結構慢性異常，需分期、控制進展因子與併發症。"),
+    TopicSeed("condition", "end-stage-kidney-disease", "End-stage kidney disease, ESKD (末期腎臟病)", ("末期腎", "ESKD", "ESRD", "end-stage renal"), "腎功能進入需 renal replacement therapy 或保守照護評估的階段。"),
+    TopicSeed("condition", "uremia", "Uremia (尿毒症)", ("尿毒症", "Uremia", "uremic", "BUN"), "腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。"),
+    TopicSeed("condition", "nephritic-syndrome", "Nephritic syndrome (腎炎症候群)", ("腎炎症候群", "Nephritic syndrome", "RBC cast", "dysmorphic RBC"), "以血尿、RBC cast、高血壓、水腫與腎功能下降為核心的腎絲球發炎表現。"),
+    TopicSeed("condition", "nephrotic-syndrome", "Nephrotic syndrome (腎病症候群)", ("腎病症候群", "Nephrotic syndrome", "蛋白尿 > 3.5", "hypoalbuminemia"), "大量蛋白尿造成低白蛋白、水腫、高血脂與高凝固狀態。"),
+    TopicSeed("condition", "glomerulonephritis", "Glomerulonephritis, GN (腎絲球腎炎)", ("腎絲球腎炎", "Glomerulonephritis", "GN", "glomerular disease"), "腎絲球發炎疾病群，臨床可表現為 nephritic syndrome、RPGN 或慢性腎炎。"),
+    TopicSeed("condition", "rapidly-progressive-glomerulonephritis", "Rapidly progressive glomerulonephritis, RPGN (急速進行性腎絲球腎炎)", ("RPGN", "Rapid progressive", "急速進行性", "crescent"), "數週內腎功能快速惡化，病理常見 crescent formation。"),
+    TopicSeed("condition", "anca-associated-vasculitis", "ANCA-associated vasculitis (ANCA 相關血管炎)", ("ANCA vasculitis", "ANCA", "c-ANCA", "p-ANCA", "Wegener", "Microscopic polyangiitis", "Churg"), "pauci-immune RPGN 重要病因，可合併肺部侵犯。"),
+    TopicSeed("condition", "anti-gbm-disease", "Anti-GBM disease / Goodpasture syndrome (抗腎絲球基底膜疾病)", ("Anti-GBM", "Goodpasture", "抗基底膜", "pulmonary hemorrhage"), "anti-GBM antibody 造成腎絲球腎炎，Goodpasture syndrome 合併肺出血。"),
+    TopicSeed("condition", "post-streptococcal-glomerulonephritis", "Post-streptococcal glomerulonephritis, PSGN (鏈球菌感染後腎絲球腎炎)", ("PSGN", "post-streptococcal", "鏈球菌感染後", "ASLO"), "A 群鏈球菌感染後免疫複合物腎炎，常見 C3 暫時下降。"),
+    TopicSeed("condition", "iga-nephropathy", "IgA nephropathy (IgA 腎病變)", ("IgA nephropathy", "Berger", "IgA 腎", "上呼吸道症狀 1~3 天"), "成人常見原發性腎絲球病變，常在上呼吸道感染後短期內肉眼血尿。"),
+    TopicSeed("condition", "lupus-nephritis", "Lupus nephritis (狼瘡腎炎)", ("狼瘡腎炎", "Lupus nephritis", "anti-dsDNA", "SLE 腎"), "SLE 腎臟侵犯，可依病理分型決定治療強度。"),
+    TopicSeed("condition", "minimal-change-disease", "Minimal change disease, MCD (微小變化疾病)", ("Minimal change", "MCD", "微小變化"), "足細胞病變造成 nephrotic syndrome，兒童常見且類固醇反應佳。"),
+    TopicSeed("condition", "focal-segmental-glomerulosclerosis", "Focal segmental glomerulosclerosis, FSGS (局部節段性腎絲球硬化)", ("FSGS", "focal segmental", "局部節段"), "成人 nephrotic syndrome 重要原因，可為原發或次發。"),
+    TopicSeed("condition", "membranous-nephropathy", "Membranous nephropathy (膜性腎病變)", ("Membranous nephropathy", "膜性腎", "spike and dome"), "成人 nephrotic syndrome 重要原因，需評估原發與繼發病因。"),
+    TopicSeed("condition", "membranoproliferative-glomerulonephritis", "Membranoproliferative glomerulonephritis, MPGN (膜增生性腎絲球腎炎)", ("MPGN", "membranoproliferative", "膜增生"), "免疫複合物或補體異常相關腎絲球病變，可有低補體。"),
+    TopicSeed("condition", "polycystic-kidney-disease", "Polycystic kidney disease (多囊性腎病)", ("多囊性腎", "polycystic kidney", "ADPKD", "PKD"), "遺傳性腎囊腫疾病，可造成高血壓、血尿、腎功能下降與腎外表現。"),
+    TopicSeed("condition", "nephrolithiasis", "Nephrolithiasis (腎結石)", ("腎結石", "Nephrolithiasis", "kidney stone", "urinary stone"), "尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。"),
+    TopicSeed("condition", "renal-osteodystrophy", "Renal osteodystrophy (腎性骨病變)", ("腎性骨病變", "renal osteodystrophy", "secondary hyperparathyroidism", "CKD-MBD"), "CKD 鈣磷、PTH 與 vitamin D 異常造成骨代謝疾病。"),
+    # Renal diagnostics, procedures, anatomy, physiology.
+    TopicSeed("diagnostic", "anion-gap", "Anion gap (陰離子間隙)", ("陰離子間隙", "Anion gap", "AG =", "delta AG", "ΔAG"), "用 Na、Cl、HCO3 估計未測量陰離子，輔助代謝性酸中毒鑑別。"),
+    TopicSeed("diagnostic", "osmolal-gap", "Osmolal gap (滲透壓間隙)", ("Osmolal gap", "滲透壓間隙", "Measured osmoles", "Calculated osmoles"), "實測與計算血漿滲透壓差，可輔助 toxic alcohol 等鑑別。"),
+    TopicSeed("diagnostic", "urine-anion-gap", "Urine anion gap (尿液陰離子間隙)", ("Urine anion gap", "UAG", "尿液陰離子", "UNa", "UK", "UCl"), "用尿 Na、K、Cl 推估尿 NH4 排泄，協助正常陰離子間隙代謝性酸中毒鑑別。"),
+    TopicSeed("diagnostic", "urinalysis", "Urinalysis (尿液檢查)", ("尿液分析", "尿液檢查", "urinalysis", "urine sediment", "尿沉渣"), "蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。"),
+    TopicSeed("diagnostic", "fractional-excretion-of-sodium", "Fractional excretion of sodium, FENa (鈉分率排泄)", ("FENa", "fractional excretion", "鈉分率"), "用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。"),
+    TopicSeed("diagnostic", "kidney-biopsy", "Kidney biopsy (腎臟切片)", ("腎臟切片", "kidney biopsy", "renal biopsy", "免疫螢光"), "診斷腎絲球、間質與部分腎實質疾病的重要檢查。"),
+    TopicSeed("diagnostic", "cerebrospinal-fluid-analysis", "Cerebrospinal fluid analysis, CSF (腦脊髓液檢查)", ("腦脊髓液", "CSF", "lumbar puncture", "opening pressure"), "用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。"),
+    TopicSeed("procedure", "hemodialysis", "Hemodialysis (血液透析)", ("血液透析", "hemodialysis", "HD", "洗腎"), "以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。"),
+    TopicSeed("procedure", "peritoneal-dialysis", "Peritoneal dialysis (腹膜透析)", ("腹膜透析", "peritoneal dialysis", "PD", "CAPD"), "利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。"),
+    TopicSeed("procedure", "dialysis-indications", "Dialysis indications (透析適應症)", ("透析適應症", "AEIOU", "urgent dialysis", "emergent hemodialysis"), "急性透析常依 acidosis、electrolyte、intoxication、overload、uremia 等評估。"),
+    TopicSeed("procedure", "kidney-transplantation", "Kidney transplantation (腎臟移植)", ("腎臟移植", "kidney transplantation", "renal transplant"), "ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。"),
+    TopicSeed("condition", "kidney-transplant-rejection", "Kidney transplant rejection (腎臟移植排斥)", ("移植排斥", "transplant rejection", "acute rejection", "chronic rejection"), "移植腎可能發生超急性、急性或慢性排斥，需依時間與病理判斷。"),
+    TopicSeed("anatomy", "kidney", "Kidney (腎臟)", ("腎臟", "kidney", "renal", "nephron"), "腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。"),
+    TopicSeed("anatomy", "glomerulus", "Glomerulus (腎絲球)", ("腎絲球", "glomerulus", "GBM", "podocyte"), "腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。"),
+    TopicSeed("anatomy", "renal-tubule", "Renal tubule (腎小管)", ("腎小管", "renal tubule", "proximal tubule", "distal tubule", "collecting duct"), "腎小管調控水、電解質、酸鹼與藥物/毒物處理。"),
+    TopicSeed("physiology", "renal-sodium-water-handling", "Renal sodium and water handling (腎臟鈉水處理)", ("鈉水", "ADH", "AVP", "aldosterone", "urine osmolality"), "腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。"),
+    TopicSeed("physiology", "renal-potassium-handling", "Renal potassium handling (腎臟鉀離子處理)", ("鉀離子平衡", "potassium handling", "aldosterone", "高血鉀", "低血鉀"), "遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。"),
+    TopicSeed("physiology", "renal-acid-base-handling", "Renal acid-base handling (腎臟酸鹼處理)", ("腎臟酸鹼", "ammonium", "NH4", "bicarbonate reabsorption", "HCO3 reabsorption"), "腎臟藉由 HCO3 再吸收、H+ 分泌與 NH4 排泄維持酸鹼平衡。"),
+    # Infectious disease syndromes and organisms.
+    TopicSeed("condition", "bacterial-meningitis", "Bacterial meningitis (細菌性腦膜炎)", ("細菌性腦膜炎", "Bacterial meningitis", "purulent meningitis", "Kernig", "Brudzinski"), "急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。"),
+    TopicSeed("condition", "viral-meningitis", "Viral meningitis (病毒性腦膜炎)", ("病毒性腦膜炎", "aseptic meningitis", "Enterovirus", "HSV2"), "CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。"),
+    TopicSeed("condition", "encephalitis", "Encephalitis (腦炎)", ("腦炎", "Encephalitis", "HSV encephalitis", "意識改變"), "腦實質發炎，常有意識改變、癲癇或局部神經學症狀。"),
+    TopicSeed("condition", "urinary-tract-infection", "Urinary tract infection, UTI (泌尿道感染)", ("泌尿道感染", "UTI", "urinary tract infection", "膀胱炎", "腎盂腎炎"), "泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。"),
+    TopicSeed("condition", "cystitis", "Cystitis (膀胱炎)", ("膀胱炎", "Cystitis", "dysuria", "frequency"), "下泌尿道感染，常有頻尿、急尿、解尿疼痛。"),
+    TopicSeed("condition", "pyelonephritis", "Pyelonephritis (腎盂腎炎)", ("腎盂腎炎", "Pyelonephritis", "flank pain", "CVA tenderness"), "上泌尿道感染，可有發燒、腰痛與菌血症風險。"),
+    TopicSeed("condition", "cellulitis", "Cellulitis (蜂窩性組織炎)", ("蜂窩性組織炎", "Cellulitis", "soft tissue infection"), "皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。"),
+    TopicSeed("condition", "necrotizing-fasciitis", "Necrotizing fasciitis (壞死性筋膜炎)", ("壞死性筋膜炎", "Necrotizing fasciitis", "flesh eating", "toxin"), "快速進展的深部軟組織感染，需早期手術評估與廣效抗生素。"),
+    TopicSeed("condition", "impetigo", "Impetigo (膿痂疹)", ("膿痂疹", "Impetigo"), "表淺皮膚感染，可由 GAS 或 S. aureus 造成。"),
+    TopicSeed("condition", "septic-arthritis", "Septic arthritis (感染性關節炎)", ("感染性關節炎", "Septic arthritis", "infectious arthritis"), "關節腔感染造成急性單關節痛與發炎，需快速抽液與治療。"),
+    TopicSeed("condition", "infectious-gastroenteritis", "Infectious gastroenteritis (感染性腸胃炎)", ("感染性腸胃炎", "gastroenteritis", "腸胃道感染", "diarrhea"), "由病毒、細菌、毒素或寄生蟲造成腹瀉、嘔吐或腹痛。"),
+    TopicSeed("condition", "clostridioides-difficile-infection", "Clostridioides difficile infection (困難梭菌感染)", ("Clostridium difficile", "Clostridioides difficile", "C. difficile", "偽膜性腸炎", "pseudomembranous"), "抗生素後腸道菌相改變造成 toxin-mediated colitis。"),
+    TopicSeed("condition", "cholera", "Cholera (霍亂)", ("霍亂", "Cholera", "Vibrio cholerae", "rice-water stool"), "Vibrio cholerae 毒素造成大量水瀉與脫水。"),
+    TopicSeed("condition", "salmonellosis", "Salmonellosis (沙門氏菌感染)", ("Salmonella", "沙門氏菌", "typhoid", "enteric fever"), "Salmonella 可造成腸胃炎、菌血症或傷寒樣疾病。"),
+    TopicSeed("condition", "shigellosis", "Shigellosis (志賀氏菌感染)", ("Shigella", "志賀氏菌", "bacillary dysentery"), "Shigella 造成發炎性腹瀉與痢疾，具低感染劑量。"),
+    TopicSeed("condition", "campylobacter-infection", "Campylobacter infection (空腸彎曲桿菌感染)", ("Campylobacter", "空腸彎曲桿菌", "C. jejuni"), "常見細菌性腸炎原因，可與 Guillain-Barre syndrome 相關。"),
+    TopicSeed("condition", "escherichia-coli-infection", "Escherichia coli infection (大腸桿菌感染)", ("Escherichia coli", "E. coli", "大腸桿菌", "EHEC", "ETEC"), "E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。"),
+    TopicSeed("condition", "hemolytic-uremic-syndrome", "Hemolytic uremic syndrome, HUS (溶血性尿毒症候群)", ("HUS", "hemolytic uremic", "溶血性尿毒", "EHEC"), "常與 Shiga toxin 相關，造成溶血、血小板低下與 AKI。"),
+    TopicSeed("condition", "staphylococcus-aureus-infection", "Staphylococcus aureus infection (金黃色葡萄球菌感染)", ("Staphylococcus aureus", "S. aureus", "金黃色葡萄球菌", "MSSA", "MRSA"), "可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。"),
+    TopicSeed("condition", "methicillin-resistant-staphylococcus-aureus", "MRSA infection (抗甲氧西林金黃色葡萄球菌感染)", ("MRSA", "Methicillin resistant", "抗甲氧西林"), "PBP 改變造成 beta-lactam 抗藥的 S. aureus，嚴重感染常需抗 MRSA 藥物。"),
+    TopicSeed("condition", "streptococcus-pyogenes-infection", "Streptococcus pyogenes infection (A 群鏈球菌感染)", ("Streptococcus pyogenes", "Group A streptococcus", "GAS", "化膿性鏈球菌"), "GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。"),
+    TopicSeed("condition", "streptococcus-pneumoniae-infection", "Streptococcus pneumoniae infection (肺炎鏈球菌感染)", ("Streptococcus pneumoniae", "S. pneumoniae", "肺炎雙球菌", "Pneumococcus"), "可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。"),
+    TopicSeed("condition", "enterococcus-infection", "Enterococcus infection (腸球菌感染)", ("Enterococcus", "E. faecalis", "腸球菌", "VRE"), "常見膽道、泌尿道、院內與心內膜感染病原，抗藥性治療需特別注意。"),
+    TopicSeed("condition", "neisseria-meningitidis-infection", "Neisseria meningitidis infection (腦膜炎雙球菌感染)", ("Neisseria meningitidis", "腦膜炎雙球菌", "meningococcus", "petechiae", "purpuric rash"), "可造成流行性腦膜炎與敗血症，密切接觸者需預防性投藥與通報。"),
+    TopicSeed("condition", "gonorrhea", "Gonorrhea (淋病)", ("Gonorrhea", "Neisseria gonorrhoeae", "淋病", "淋菌"), "性傳染病，可造成尿道炎、子宮頸炎、PID、附睪炎或播散性感染。"),
+    TopicSeed("condition", "listeriosis", "Listeriosis (李斯特菌感染)", ("Listeria", "李斯特", "Listeriosis", "monocytogenes"), "老人、孕婦、免疫不全者可有菌血症或腦膜炎，常以 ampicillin 為核心治療。"),
+    TopicSeed("condition", "diphtheria", "Diphtheria (白喉)", ("Diphtheria", "白喉", "Corynebacterium diphtheriae", "pseudomembrane"), "白喉毒素可造成咽部偽膜、心肌炎與神經病變。"),
+    TopicSeed("condition", "anthrax", "Anthrax (炭疽病)", ("Anthrax", "Bacillus anthracis", "炭疽", "black eschar"), "人畜共通感染，可為皮膚、吸入或腸胃型。"),
+    TopicSeed("condition", "botulism", "Botulism (肉毒桿菌中毒)", ("Botulism", "Clostridium botulinum", "肉毒", "flaccid paralysis"), "肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。"),
+    TopicSeed("condition", "tetanus", "Tetanus (破傷風)", ("Tetanus", "Clostridium tetani", "破傷風", "lockjaw"), "破傷風毒素阻斷抑制性神經傳導，造成肌肉痙攣。"),
+    TopicSeed("condition", "gas-gangrene", "Gas gangrene (氣性壞疽)", ("Gas gangrene", "Clostridium perfringens", "氣性壞疽", "產氣芽孢"), "Clostridium perfringens 傷口感染可造成肌肉壞死、產氣與毒血症。"),
+    TopicSeed("condition", "nocardiosis", "Nocardiosis (奴卡氏菌感染)", ("Nocardia", "奴卡氏菌", "nocardiosis", "weak acid-fast"), "可造成肺部、皮膚或中樞感染，免疫不全者風險較高。"),
+    TopicSeed("condition", "actinomycosis", "Actinomycosis (放線菌病)", ("Actinomyces", "放射線菌", "Actinomycosis", "sulfur granules"), "厭氧絲狀菌感染，常見慢性下顎臉部或腹盆腔病灶。"),
+    TopicSeed("condition", "pseudomonas-aeruginosa-infection", "Pseudomonas aeruginosa infection (綠膿桿菌感染)", ("Pseudomonas", "P. aeruginosa", "綠膿桿菌"), "常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。"),
+    TopicSeed("condition", "legionnaires-disease", "Legionnaires disease (退伍軍人病)", ("Legionella", "退伍軍人菌", "Legionnaires", "atypical pneumonia"), "Legionella pneumophila 造成 atypical pneumonia，常與水源暴露相關。"),
+    TopicSeed("condition", "pertussis", "Pertussis (百日咳)", ("Pertussis", "Bordetella", "百日咳", "whooping cough"), "Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。"),
+    TopicSeed("condition", "vibrio-vulnificus-infection", "Vibrio vulnificus infection (海洋弧菌感染)", ("Vibrio vulnificus", "海洋弧菌", "V. vulnificus"), "海鮮或海水暴露後可造成敗血症或壞死性軟組織感染，肝病者風險高。"),
+    TopicSeed("condition", "syphilis", "Syphilis (梅毒)", ("Syphilis", "Treponema pallidum", "梅毒", "RPR", "VDRL"), "Treponema pallidum 性傳染病，分期影響表現與治療策略。"),
+    TopicSeed("condition", "lyme-disease", "Lyme disease (萊姆病)", ("Lyme", "Borrelia burgdorferi", "萊姆病", "erythema migrans"), "蜱媒 Borrelia 感染，可有游走性紅斑、神經、心臟與關節表現。"),
+    TopicSeed("condition", "leptospirosis", "Leptospirosis (鉤端螺旋體病)", ("Leptospira", "鉤端螺旋體", "Leptospirosis", "Weil"), "動物尿液或水土暴露相關 spirochete infection，可侵犯肝腎。"),
+    TopicSeed("condition", "rickettsial-disease", "Rickettsial disease (立克次體疾病)", ("Rickettsia", "立克次體", "scrub typhus", "恙蟲病", "Q fever"), "節肢動物媒介或人畜共通感染，常以發燒、皮疹或 eschar 呈現。"),
+    TopicSeed("condition", "chlamydia-infection", "Chlamydia infection (披衣菌感染)", ("Chlamydia", "披衣菌", "C. trachomatis"), "絕對細胞內病原，可造成泌尿生殖道、眼部與肺部感染。"),
+    TopicSeed("condition", "hiv-infection", "HIV infection (人類免疫不全病毒感染)", ("HIV", "Human immunodeficiency", "人類免疫不全病毒", "CD4", "viral load"), "HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。"),
+    TopicSeed("condition", "aids", "AIDS (後天免疫缺乏症候群)", ("AIDS", "後天免疫", "CD4 < 200", "AIDS-defining"), "HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。"),
+    TopicSeed("condition", "pneumocystis-jirovecii-pneumonia", "Pneumocystis jirovecii pneumonia, PJP (肺囊蟲肺炎)", ("Pneumocystis", "PJP", "PCP", "肺囊蟲"), "AIDS 常見伺機感染，造成間質性肺炎與低氧。"),
+    TopicSeed("condition", "toxoplasmosis", "Toxoplasmosis (弓漿蟲感染)", ("Toxoplasma", "弓漿蟲", "toxoplasmosis", "eccentric target"), "免疫低下者可造成多發性中樞神經病灶。"),
+    TopicSeed("condition", "cytomegalovirus-infection", "Cytomegalovirus infection, CMV (巨細胞病毒感染)", ("CMV", "Cytomegalovirus", "巨細胞病毒", "retinitis"), "免疫低下者可造成 retinitis、colitis、encephalitis 等。"),
+    TopicSeed("condition", "cryptococcosis", "Cryptococcosis (隱球菌感染)", ("Cryptococcus", "隱球菌", "cryptococcal", "India ink"), "免疫低下者可造成肺部感染與 cryptococcal meningitis。"),
+    TopicSeed("condition", "candidiasis", "Candidiasis (念珠菌感染)", ("Candida", "Candidiasis", "念珠菌", "thrush", "esophageal candidiasis"), "黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。"),
+    TopicSeed("condition", "kaposi-sarcoma", "Kaposi sarcoma (卡波西肉瘤)", ("Kaposi", "HHV8", "卡波西"), "HHV-8 相關腫瘤，HIV/AIDS 免疫低下者較常見。"),
+    # Antimicrobials, antiviral, antifungal, infection-control frameworks.
+    TopicSeed("drug", "penicillins", "Penicillins (青黴素類)", ("Penicillin", "PCN", "青黴素", "Ampicillin", "Amoxicillin", "Piperacillin"), "beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。"),
+    TopicSeed("drug", "beta-lactamase-inhibitors", "Beta-lactamase inhibitors (β-lactamase 抑制劑)", ("clavulanate", "sulbactam", "tazobactam", "β lactamase inhibitor", "beta-lactamase inhibitor"), "與 beta-lactam 合併以抑制 beta-lactamase，擴大對產酶菌效果。"),
+    TopicSeed("drug", "cephalosporins", "Cephalosporins (頭孢子菌素類)", ("Cephalosporin", "Cefazolin", "Ceftriaxone", "Ceftazidime", "Cefepime", "頭孢"), "beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。"),
+    TopicSeed("drug", "carbapenems", "Carbapenems (碳青黴烯類)", ("Carbapenem", "Imipenem", "Meropenem", "Ertapenem", "碳青黴烯"), "廣效 beta-lactam，常用於 ESBL/AmpC 等抗藥性 GNB。"),
+    TopicSeed("drug", "monobactams", "Monobactams (單環 β-lactam 類)", ("Monobactam", "Aztreonam", "單環"), "Aztreonam 主要抗 GNB，對 penicillin allergy 時可作替代選項之一。"),
+    TopicSeed("drug", "vancomycin", "Vancomycin (萬古黴素)", ("Vancomycin", "萬古黴素", "red man", "trough"), "glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。"),
+    TopicSeed("drug", "aminoglycosides", "Aminoglycosides (胺基糖苷類)", ("Aminoglycoside", "Gentamicin", "Amikacin", "Tobramycin", "胺基糖苷"), "30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。"),
+    TopicSeed("drug", "macrolides", "Macrolides (巨環內酯類)", ("Macrolide", "Azithromycin", "Clarithromycin", "Erythromycin", "巨環內酯"), "50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。"),
+    TopicSeed("drug", "clindamycin", "Clindamycin (克林黴素)", ("Clindamycin", "克林黴素", "Lincosamide"), "50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。"),
+    TopicSeed("drug", "linezolid", "Linezolid (利奈唑胺)", ("Linezolid", "Oxazolidinone", "利奈唑胺"), "抗多重抗藥 GPC，可用於 MRSA 或 VRE，但需注意骨髓抑制與 serotonin syndrome。"),
+    TopicSeed("drug", "tetracyclines", "Tetracyclines (四環黴素類)", ("Tetracycline", "Doxycycline", "Minocycline", "四環黴素"), "30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。"),
+    TopicSeed("drug", "fluoroquinolones", "Fluoroquinolones (氟喹諾酮類)", ("Fluoroquinolone", "Ciprofloxacin", "Levofloxacin", "Moxifloxacin", "氟喹諾酮"), "抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。"),
+    TopicSeed("drug", "trimethoprim-sulfamethoxazole", "Trimethoprim-sulfamethoxazole, TMP-SMX (複方新諾明)", ("TMP/SMX", "TMP-SMX", "Trimethoprim", "Sulfamethoxazole", "Baktar"), "葉酸代謝抑制組合，用於 PJP、UTI、Nocardia、部分 MRSA 等。"),
+    TopicSeed("drug", "metronidazole", "Metronidazole (甲硝唑)", ("Metronidazole", "甲硝唑", "Flagyl"), "抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。"),
+    TopicSeed("drug", "antifungal-agents", "Antifungal agents (抗黴菌藥物)", ("Antifungal", "抗黴菌", "Amphotericin", "Azole", "Echinocandin", "Fluconazole"), "抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。"),
+    TopicSeed("drug", "acyclovir", "Acyclovir (阿昔洛韋)", ("Acyclovir", "Valacyclovir", "阿昔洛韋", "HSV", "VZV"), "抗 herpesvirus 核苷類藥物，用於 HSV/VZV 感染。"),
+    TopicSeed("drug", "ganciclovir", "Ganciclovir / Valganciclovir (更昔洛韋類)", ("Ganciclovir", "Valganciclovir", "更昔洛韋", "CMV"), "抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。"),
+    TopicSeed("drug", "antiretroviral-therapy", "Antiretroviral therapy, ART (抗反轉錄病毒治療)", ("HAART", "ART", "antiretroviral", "NRTI", "NNRTI", "Protease inhibitor", "Integrase inhibitor"), "HIV 治療以多藥組合壓制病毒量、恢復 CD4 並降低 AIDS 風險。"),
+    TopicSeed("drug", "hiv-prep-pep", "HIV PrEP and PEP (HIV 暴露前與暴露後預防)", ("PrEP", "PEP", "post-exposure", "preexposure", "TDF/FTC"), "高風險暴露前或暴露後抗病毒預防策略，時間與藥物組合需依現行 guideline 複核。"),
+    TopicSeed("diagnostic", "hiv-testing", "HIV testing (HIV 檢測)", ("HIV testing", "ELISA", "Western blot", "p24", "HIV viral load", "HIV RNA"), "HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 count。"),
+    TopicSeed("guideline", "aids-defining-conditions", "AIDS-defining conditions (AIDS 定義疾病)", ("AIDS-defining", "AIDS surveillance", "CD4 < 200", "伺機性感染"), "AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區對 TB 定義不同。"),
+    TopicSeed("guideline", "opportunistic-infection-prophylaxis", "Opportunistic infection prophylaxis (伺機性感染預防)", ("opportunistic infection prophylaxis", "PJP prophylaxis", "MAC prophylaxis", "CD4 < 200", "CD4 < 50"), "HIV/AIDS 依 CD4 閾值給予 PJP、Toxoplasma、MAC 等預防。"),
+    TopicSeed("guideline", "meningococcal-exposure-prophylaxis", "Meningococcal exposure prophylaxis (腦膜炎雙球菌暴露後預防)", ("rifampin", "腦膜炎雙球菌", "接觸者", "prophylaxis", "呼吸道隔離"), "Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。"),
+    TopicSeed("guideline", "notifiable-infectious-diseases", "Notifiable infectious diseases (法定傳染病通報)", ("法定傳染病", "通報", "notifiable", "CDC Taiwan", "衛生單位"), "特定傳染病依法需在規定時限內通報，實際分類與時限需查最新官方規定。"),
+    TopicSeed("concept", "gram-stain-classification", "Gram stain classification (革蘭氏染色分類)", ("Gram positive", "Gram negative", "革蘭氏", "GPC", "GNB", "GPB"), "以 Gram stain、形態、觸媒、凝固酶、溶血等特徵建立細菌鑑別框架。"),
+    TopicSeed("concept", "antibiotic-resistance", "Antibiotic resistance (抗生素抗藥性)", ("抗藥性", "antibiotic resistance", "ESBL", "AmpC", "VRE", "PRSP"), "抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。"),
+    TopicSeed("concept", "beta-lactam-mechanism", "Beta-lactam mechanism (β-lactam 作用機轉)", ("beta-lactam ring", "β-lactam", "PBP", "transpeptidase", "細胞壁"), "beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。"),
+    TopicSeed("concept", "opportunistic-infection", "Opportunistic infection (伺機性感染)", ("伺機性感染", "opportunistic infection", "CD4", "免疫不全"), "免疫功能下降時由平時低致病性或潛伏病原造成的感染。"),
+)
+
+
+ALL_SEEDS: tuple[TopicSeed, ...] = SEEDS + SECOND_BOOK_SEEDS + THIRD_BOOK_SEEDS
 
 
 def slugify(text: str) -> str:
@@ -421,9 +568,45 @@ def display_chapter_title(path: Path) -> str:
     return stem.split("_")[-1]
 
 
+def chapter_sort_key(path: Path) -> tuple[int, int, str]:
+    stem_order = {
+        "甲": 1,
+        "乙": 2,
+        "丙": 3,
+        "丁": 4,
+        "戊": 5,
+        "己": 6,
+        "庚": 7,
+        "辛": 8,
+        "壬": 9,
+        "癸": 10,
+        "子": 11,
+        "丑": 12,
+        "寅": 13,
+        "卯": 14,
+        "辰": 15,
+        "巳": 16,
+        "午": 17,
+        "未": 18,
+        "申": 19,
+        "酉": 20,
+        "戌": 21,
+        "亥": 22,
+    }
+    part_order = {"第一篇": 1, "第二篇": 2, "第三篇": 3, "第四篇": 4}
+    part = 99
+    for label, order in part_order.items():
+        if label in path.stem:
+            part = order
+            break
+    match = re.search(r"_([甲乙丙丁戊己庚辛壬癸子丑寅卯辰巳午未申酉戌亥])、", path.stem)
+    stem = stem_order.get(match.group(1), 99) if match else 99
+    return (part, stem, path.name)
+
+
 def chapter_files(book_dir: Path) -> list[Path]:
     full_book = book_dir / f"{book_dir.name}.md"
-    files = sorted(book_dir.glob("*.md"))
+    files = sorted(book_dir.glob("*.md"), key=chapter_sort_key)
     return [path for path in files if path != full_book]
 
 
@@ -569,7 +752,7 @@ def source_relevance(seed: TopicSeed, item: tuple[str, Path, list[str]]) -> tupl
     return (-score, source_path.name)
 
 
-def existing_topic_parts(path: Path) -> tuple[list[str], list[str], str]:
+def existing_topic_parts(path: Path, replace_source_prefix: str | None = None) -> tuple[list[str], list[str], str]:
     if not path.exists():
         return [], [], TODAY
     text = path.read_text(encoding="utf-8", errors="ignore")
@@ -578,21 +761,25 @@ def existing_topic_parts(path: Path) -> tuple[list[str], list[str], str]:
     if match_sources:
         sources_section = match_sources.group(1)
     raw_sources = re.findall(r"\[\[(sources/[^\]|#]+)(?:[^\]]*)\]\]", sources_section)
+    if replace_source_prefix:
+        raw_sources = [source for source in raw_sources if not source.startswith(f"sources/{replace_source_prefix}")]
     sources = [f"[[{source}]]" for source in dict.fromkeys(raw_sources)]
     details: list[str] = []
     match = re.search(r"## Key Details From Sources\n\n(.*?)(?=\n## Clinical Caveats)", text, flags=re.S)
     if match:
         for line in match.group(1).splitlines():
             if line.startswith("- "):
+                if replace_source_prefix and f"[[sources/{replace_source_prefix}" in line:
+                    continue
                 details.append(line)
     created_match = re.search(r"^created:\s*([0-9-]+)", text, flags=re.M)
     created = created_match.group(1) if created_match else TODAY
     return sources, details, created
 
 
-def topic_page(seed: TopicSeed, source_mentions: list[tuple[str, Path, list[str]]], available_slugs: set[str], book_name: str) -> str:
+def topic_page(seed: TopicSeed, source_mentions: list[tuple[str, Path, list[str]]], available_slugs: set[str], book_name: str, book_key: str) -> str:
     path = seed_page_path(seed)
-    prior_sources, prior_details, created = existing_topic_parts(path)
+    prior_sources, prior_details, created = existing_topic_parts(path, replace_source_prefix=book_key)
     source_mentions = sorted(source_mentions, key=lambda item: source_relevance(seed, item))
     source_links = prior_sources + [wiki_link(source_path) for _, source_path, _ in source_mentions]
     source_links = list(dict.fromkeys(source_links))
@@ -978,7 +1165,7 @@ def run(book_name: str, book_key: str) -> None:
     existing_seed_slugs = {seed.slug for seed in ALL_SEEDS if seed_page_path(seed).exists()}
     available_slugs = existing_seed_slugs | {seed.slug for seed in matched_seeds}
     for seed, source_mentions in mentions_by_seed.items():
-        seed_page_path(seed).write_text(topic_page(seed, source_mentions, available_slugs, book_name), encoding="utf-8")
+        seed_page_path(seed).write_text(topic_page(seed, source_mentions, available_slugs, book_name, book_key), encoding="utf-8")
 
     category_counts: dict[str, int] = {}
     all_existing_seeds = [seed for seed in ALL_SEEDS if seed_page_path(seed).exists()]

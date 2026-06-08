@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(三)第2冊肝內新陳代謝`
-- Latest chapter source summaries: 26
-- Total chapter source summaries: 50
-- Total topic-first nodes: 302
+- Latest ingested textbook: `醫(三)第3冊腎內感染`
+- Latest chapter source summaries: 22
+- Total chapter source summaries: 72
+- Total topic-first nodes: 441
 
 ## Graph Shape
 

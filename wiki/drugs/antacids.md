@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch02]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch14]]"
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch01]]"
 aliases:
   - 'Antacids (制酸劑)'
   - 'Antacids'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-中和胃酸，用於短期緩解胃酸相關症狀。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中和胃酸，用於短期緩解胃酸相關症狀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,14 @@ tags:
 - [[sources/med3-book2-ch02]]
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch14]]
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch01]]
 
 ## Key Details From Sources
 
+- 2. 口服吸收佳,但若與含鋁、鎂制酸劑、口服鐵劑、綜合維他命、鈣片、牛奶等同時服用, 會明顯降低吸收。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- ...goxin 併 用 可 能 會 發 生 | | | | | digoxin 毒性反應 | | | | | | | Ħ會增強 fluoroquinolone 藥效 | | | | | 【詳解】(D) Fluoroquinolone 身 | 與制酸劑併用會減弱 fluoroquinolone | | | | | 茲於方。 | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- 1. HCO3 gain:如乳-鹼綜合徵(Milk-Alkali Syndrome),因長期服用太多鈣(如牛奶或鈣片)及可吸收的鹼性藥物(如治療消化性潰瘍的制酸劑 Antacid),導致高血鈣、鹼中毒及腎功能損害。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...,若罹有此菌,也需要殺菌,但並未普遍於各 | | | | 國臨床實施。(D) 十二指腸潰瘍患者約9成合併幽門螺旋桿菌感染。 | | | (A) | 7. 下列有關消化性潰瘍治療藥物之敘述,何者錯誤? | 106(一)專 | | | (A) 制酸劑(antacid)宜與第二型組織胺拮抗劑(H 2 receptor antagonist)併用以增加療效 | 醫三-30 | | | (B) 長期服用第二型組織胺拮抗劑可能有陽痿、男性女乳症、月經失調等藥物不良反應 | | | | (C) 長期服用質子幫浦抑制劑(proton pump inhibitor)可能會增加骨質疏鬆與髖骨骨折之機會 | | | | (D) 制酸劑會抑制四環素(tetracycline)在胃腸道之吸收 | | | Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...合併脂肪和維生素 B12 的吸收不良情形,治療上下列何項藥物最適當? (A) 質子幫浦抑制劑(proton pump inhibitor) (B) 抗生素(antibiotics) (C) 胃腸蠕動促進劑(prokinetics) (D) 制酸劑(antacid) | 99(二)專醫三-17 | |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - 失衡等,可考慮使用,所以(D)後來也算對。(B)(C)是制酸劑,用 Source: [[sources/med3-book2-ch02|丙、腹 瀉]].

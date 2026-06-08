@@ -14,6 +14,9 @@ sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch22]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch22]]"
 aliases:
   - 'Heart valves (心臟瓣膜)'
   - 'Heart valves'
@@ -28,7 +31,7 @@ tags:
 
 ## Summary
 
-瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +45,15 @@ tags:
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch09]]
 - [[sources/med3-book1-ch22]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch22]]
 
 ## Key Details From Sources
 
+- 2. 表皮葡萄球菌 (S. epidermidis): 會附著在各種體內修補裝置物,如人工瓣膜 (Prosthetic valve)、人工關節 (Prosthetic joint)。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- ...cal) | | > 4 weeks | Acute and chronic osteomyelitis, S. aureus endocarditis, foreign-body infections | | | (prosthetic-valve and joint infections), relapsing pseudomembranous colitis | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- ...E CONTRACTOR OF THE | 1 2013 | | 麻疹症候群 | 並具有第二項之任何一種缺陷者: | | | | 一、先天性白內障、先天性青光眼、色素性視網膜病變、失聰、先天性心臟 | | | | 病(常見:開放性心臟導管、肺動脈瓣狹窄)。 | | | | 二、紫斑症、黃疸 (24 小時內發生 )、脾腫大、小腦症、心智發育遲緩、腦 | | | | 膜腦炎或長骨放射線透度異常。 | | | 急性病毒性 | 符合下列臨床病例定義且經實驗室診斷: | 1 週內 | | B型肝炎 | 一、臨床病例:(任一即可) | | | | (1) 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服 | | | | 等。 | | | | (2) 黃疸或 ALT 上升。 | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...醫三-49 | | (C) 30 | . 非典型胸痛的年輕女子接受運動心電圖檢查,下列敘述何者最正確? (A) 若呈陽性反應,則最終診斷為冠狀動脈疾病(coronary heartdisease)的機率高 (B) 若呈陽性反應,則最終診斷為二尖瓣脫垂(mitral valve prolapse)的機率高 (C) 若呈陰性反應,則最終診斷為冠狀動脈疾病的機率極低 (D) 若呈陰性反應,則最終診斷為二尖瓣脫垂的機率極低 【詳解】運動心電圖檢查對於二尖瓣脫垂的診斷價值有限,而其陰性結果較能排除 CAD,陽性結果則建議做心導管檢查。 | 100(二)專醫三7 | | (A) 31 | . 關於利用心臟超音波應用於評估急性 ST 節段上升型心肌梗塞(STEMI)病患,下列敘述何者錯誤? Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (A) 主動脈瓣狹窄 (Aortic stenosis) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (B) 主動脈瓣閉鎖不全 (Aortic insufficiency) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

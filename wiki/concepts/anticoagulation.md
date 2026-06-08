@@ -16,6 +16,10 @@ sources:
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch24]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book3-ch06]]"
 aliases:
   - 'Anticoagulation (抗凝治療)'
   - 'Anticoagulation'
@@ -30,7 +34,7 @@ tags:
 
 ## Summary
 
-血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +50,18 @@ tags:
 - [[sources/med3-book2-ch04]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch24]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch05]]
+- [[sources/med3-book3-ch06]]
 
 ## Key Details From Sources
 
+- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...G 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease ACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistant to aldosterone) | | 服用利尿劑 Spironolactone服用抗生素 Trimethoprim | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...--------------------------------------------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(c Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- ...| | | SLED | 1週3次, | 介於兩者間 | | (Sustained low efficiency dialysis) | 每次 8~10 小時 | | | CRRT→逐漸矯正病人生化異常 | 連續 24 小時 | 需使用較多抗凝劑 | | (Continuous renal replacement therapy) | | 低體溫(無法察覺病患發燒) | Source: [[sources/med3-book3-ch06|己、透析治療]].
 - (B) captopril (D) warfarin Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...otal T4 ↑ | Free T4 ↑ | 抑制 T4→ T3 | Amiodarone · Propranolol | | (Euthyroidism) | Total T4 正常 | Free T4 ↑ | T4 離開 TBG | Heparin · LMWH | | | Total T4 ↑ | Free T4 正常 | 增加 TBG | 雌激素 (Estrogen)、懷孕、肝炎、肝 | | | | | | 硬化 | | | Total T4 ↓ | Free T4 正常 | 減少 TBG | 雄激素 (Androgen) | | 甲狀腺功能低下 | Total T4 ↓ | free T4 ↓ | 抑制 TSH | Glucocorticoid, Dopamine, | | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - a. 凝血因子(PT、aPTT): 若肝臟製造能力下降,可在短時間內表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
@@ -57,11 +70,6 @@ tags:
 - 4. 整理靜脈栓塞(DVT)及肺栓塞治療時間: - (1) 3個月:有手術、外傷等誘發事件,且僅影響上肢或小腿的 DVT,治療 3個月即可。 - (2) 3~6 個月:無誘發事件或影響到大腿 DVT 或肺栓塞,需治療 3~6 個月。有研究發現治療 6 個月效果更好。 - (3) 終生:腫瘤病患併發 DVT 或肺栓塞需終身使用 LMWH,不需轉為 warfarin。若 cancer 治癒,才可慮停藥。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 - (3) 抗血栓藥物方面:ACS 病患會使用 Heparin 將 aPTT 控制在 60 秒左右。因為 Heparin induced thrombocytopenia 的副作用,這方面還可用 LMWH、Fondaparinus、 Bivalirudin 等。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - iii. 藥物史:目前正使用抗凝劑(INR > 2)、2 年內曾使用過 tPA(避免過敏反應)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (a) Heparin: 在接受 fibrinolysis 的 STEMI 病人身上,可降低 MI 相關死亡率。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...| pulsus tardus (慢慢上升), | Pulsus bisferiens (波鋒 *2), | | 脈壓 | | | Pulsus parvus (振幅減小) | Bounding pulse (快上快下) | | 藥物 | Warfarin for Af | Warfarin for Af | 不可用 Vasodilator | Vasodilator (ACEI, CCB) | | BB | 15 1 16 0 6 7 1 5 1 | G MD /D C > 500/\ | Severe AS | Severe AR (Reg.fx.>50%)+ | | 開刀 | Mod. MS (MVA50%)+ | (AVA40) | Severe AR (Reg.1x.>3070 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (2) 預防血栓形成:下列病患建議使用抗凝血劑 (ACC/AHA Class I indication for anticoagulation for prevention systemic embolization in MS) - a. MS with Af (paroxysmal, persistent, or permanent) • - b. MS with prior embolic event, even in sinus rhythm o - c. MS with left atrial thrombus . Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- | (A) 44. 一位病人因心臟瓣膜開刀後長期服用 warfarin 抗凝血劑。服用下列最可能導致 warfarin 代謝減少,而使其作用增加,那種藥物甚至產生毒性? (A) cimetidine (B) phenytoin (C) rifampin (D) 水楊酸(salicylates) | 99(一)專醫三-12 | |------------------------------------------------------------------------------------------ Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- ...w | Aspirin | Aspirin daily | | 1~2 | Moderate | Aspirin | Aspirin daily or raise INR to 2.0-3.0 | | 1~2 | Moderate | 或 Warfarin | (若有 Prior Stroke or TIA,建議選擇 Warfarin) | | 3~6 H | High | High Warfarin | Raise INR to 2.0-3.0, unless contraindicated | | | rigii | wanann | (e.g. clinically significant GI bleeding) | Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 
 ## Clinical Caveats
 

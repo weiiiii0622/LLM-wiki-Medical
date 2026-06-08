@@ -12,6 +12,9 @@ sources:
   - "[[sources/med3-book2-ch03]]"
   - "[[sources/med3-book2-ch02]]"
   - "[[sources/med3-book2-ch23]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch04]]"
 aliases:
   - 'Stomach (胃)'
   - 'Stomach'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,17 @@ tags:
 - [[sources/med3-book2-ch03]]
 - [[sources/med3-book2-ch02]]
 - [[sources/med3-book2-ch23]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch04]]
 
 ## Key Details From Sources
 
+- 2. 給生理食鹽水會改善的、Ucl +:嘔吐(Vomiting)、使用鼻胃管引流(gastric aspiration)、Villous adenoma。 - (2) 腎臟流失:先前使用利尿劑造成體液缺乏(Volume depletion),可想成體液缺乏時,Renin angiotensin aldosteron system 啟動,aldosteron 造成留鈉排鉀排氫,導致 H+ loss。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...-----------------------------------------|--|--| | Effective ECFV | GI | 1. Vomiting | | | | contraction, | origin | 2. Gastric aspiration | | | | normotension, | | 3. Congenital chloridorrhea | | | | K + deficiency, | | 4. Villous adenoma | | | | and secondary | Renal | 1. Diuretics (Thiazide) [ 常考!] | | | | hyperreninemic | origin | 2. Posthyp Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...:1 | Fusobacterium nucleatum, IBacteroides ureolyticus igp. | | | | Gingival crevices | 1011-1012 | 10³: 1 | | | | GI | Stomach | $0-10^5$ | 1:1 | Bacteroides spp. (B. fragilis),Clostridium spp. | Prevotella spp., Peptostreptococcus spp. | | | Jejunum/ileum | 10 4 -10 7 | 1:1 | | | | tract | Colon | 10 11 -10 12 | $10^3:1$ | | | | Female | genit Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- ...in penicillin-allergic patients; | Streptococcus pyogenes (0-10) | | | | H. pylori (2-20) | | AzithromycinClindamycin | gastric infections due to Helicobacter pylori ; Mycobacterium avium -intracellulare inf. Severe, invasive group A streptococcal infections; | S. aureus | | Cinidaniyeni | | (nosocomial=58; CA-MRSA=10) | | Linezolid | Infections Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- ...tion | Hepatitis B and C, syphilis, malaria, schistosomiasis, leprosy, filariasis | | | | Cancer | Breast, colon, lung, stomach, kidney, esophagus, neuroblastoma | | | | Drugs | gold, mercury, penicillamine, nonsteroidal anti-inflammatory agents, probenecid | | | | A | SLE, RA, primary biliary cirrhosis, dermatitis herpetiformis, | | | | Autoimm Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - #### A. 術後併發症 (Stomach - Post op complication) Source: [[sources/med3-book2-ch05|庚、胃疾病 – 其他]].
 - (B) 1. 關於胃息肉症(gastric polyposis),下列何者錯誤? Source: [[sources/med3-book2-ch05|庚、胃疾病 – 其他]].
 - (C) 2. 胃的惡性腫瘤中,約有 15% 為惡性淋巴癌,即原發性胃淋巴瘤 (primary gastric lymphoma)。以下相關的敘述中,何者正確? Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
@@ -49,8 +60,6 @@ tags:
 - 3. 胃鏡(UGI endoscope): 可診斷兼治療上消化道出血 - (1) 食道靜脈瘤 (Esophageal varices) / 胃靜脈瘤 (Gastric varices): 常有肝硬化的病史 - a. 急性出血時可給予 Octreotide 降低肝門靜脈壓力,控制出血。 - b. 可由胃鏡將食道靜脈瘤結紮 ligation,或直接於食道/胃靜脈瘤施打硬化劑(急性出血或預防出血可用)。 - c. 急性食道靜脈瘤出血時,文獻證實給予抗生素有助於降低再出血風險。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (A) 10. 一位 55 歲男性至急診就醫,主訴 3 天來感覺頭暈,站立時較嚴重, 躺臥時可緩解。除此以外無任何不適。平日偶爾會服用非類固醇類 消炎止痛藥治療關節痠痛。理學檢查無明顯腹部壓痛,腸音蠕動正 常。肛門檢查發現有血便,在急診安排胃灌洗 (gastriclavage)、胃 鏡以及大腸鏡檢查皆無發現異常。住院後進行血管攝影也無異常。 然而病人的血便仍持續。以下何者為最適合的下一步檢查? Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (A) 胃腺癌 (gastric adenocarcinoma) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (6) Scleroderma esophagus showing dilated esophagus with a stricture (6A) and reflux of barium from the stomach into the esophagus (6B);硬皮症造成狹窄,因此上端食道擴張,但因為其括約肌也閉鎖不緊,所以同時存在逆流 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- 2. 下食道括約肌(LES)內包覆胃食道接合處(esophageal gastric junction, EGJ)。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 
 ## Clinical Caveats
 

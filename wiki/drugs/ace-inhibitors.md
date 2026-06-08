@@ -14,6 +14,11 @@ sources:
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch08]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch04]]"
 aliases:
   - 'ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)'
   - 'ACE inhibitors, ACEI'
@@ -28,7 +33,7 @@ tags:
 
 ## Summary
 
-降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,22 +47,24 @@ tags:
 - [[sources/med3-book1-ch14]]
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch08]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch05]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch04]]
 
 ## Key Details From Sources
 
-- (B) 給予 angiotensin converting enzyme inhibitor 治療 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 【詳解】積極控制血糖(HbAlc 醫三-27 | | (D) 15 | . 下列何者不能延緩微蛋白尿變成明顯腎病變? (A) 血糖控制接近於正常 (B) 嚴格之血壓控制 (C) Angiotensin converting enzyme (ACE) 抑制劑 (D) 高蛋白飲食 | 98(一)專醫三-52 | | (D) 16 | . 下列何者不是糖尿病第三腦神經病變之臨床表現? (A) 眼瞼下垂 (B) 眼肌麻痺(ophthalmoplegia) (C) 瞳孔對光反應正常 (D) 突眼 【詳解】pupil sparing 為其特徵,突眼較常出現於甲狀腺疾病。 | 96(一)專醫三-42 | | (#) 17 | . 下列何者不是糖尿病人使用阿斯匹靈(aspirin)之 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- (C) 1. 一位 70 歲女性高血壓患者,心電圖顯示有心房顫動(atrial fibrillation), 因突然嚴重腹痛 3 小時被送至急診,發作前她是在看電視。病人有 噁心及嘔吐,但發作前數小時有正常排便。平常用藥有 hydrochlorothiazide、enalapril 及 digoxin。就診時血壓為 88/64 mmHg, 心跳不規則,每分鐘約120次,體溫38.5℃,腹部有壓痛,腸蠕動 音降低(hypoactive bowel sound)。電腦斷層顯示脾臟附近腸壁水 腫且有空氣,其他無特殊發現。在急診患者有少量排便,有含血反 應。血清 amylase 及 lipase 只稍微增高,下列那一診斷方向最可能? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- ACEI = Angiotensin converting enzyme inhibitor Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- ...Fibromuscular dysplasia 造成腎動脈中層纖維化 (Medial fibroplasia)。 - ii. 另外,主動脈剝離到腎動脈也會造成腎動脈狹窄。 - (b) 腎動脈狹窄的臨床線索:腹部肚臍附近聽見連續亂流聲、服用 ACEI 產生急性腎衰竭需考慮之;須以 Doppler 超音波、MRA 等進一步檢查。 - b. 腎實質疾病(2%):可能有糖尿病等腎臟功能障礙等病史,續發性高血壓(secondary hypertension)最常見的原因。 - (2) 内分泌(0.5%):(口訣:CCPG) - a. Primary Hyperaldosteronism (Conn's syndrom), Cushing's syndrome: 患者可能 會有低血鉀、代謝性 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- b. β blocker 較 CCB、ACEI 不能預防中風發生。針對老年人的 Isolated systolic HTN 效果也較差。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (D) 4.56 歲女性因三週前出現胸痛而診斷急性心肌梗塞,接受了血栓溶解劑治療後出院。最近二天因為覺得很喘經由門診住院。病人表示她很規則地服用醫師開立的藥物,包含 atorvastatin,lisinopril,metoprolol,aspirin。身體診察血壓 100/45 毫米汞柱,心跳每分鐘46 次,雙側肺部有囉音(bilateral crackles),頸靜脈怒張,雙側下肢水腫,沒有出現新的心雜音或奔馬音(gallop)。心電圖有竇性心搏過緩,呈現近期的心肌梗塞,但沒有出現新的變化。下列處置何者正確? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (A) 5. 一位 70 歲男性病人,罹患高血壓 5 年,並持續在門診治療。主治醫 師給予的藥物為 furosemide 每天 20 mg 以及 enalapril 每天 10 mg。 病人由於最近感覺頭暈、衰弱、心悸,經由門診簽住院由你照護。 看到了門診的心電圖後(如附圖),你下一步最需要安排的檢驗、檢查或治療是那一項? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (D) angiotensin converting enzyme inhibitor Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- 【詳解】需要用β blocker 或 calcium channel blocker 減少心跳速率,降低心臟之收縮,增加舒張期 ventricular filling time,才可改善病人量厥、胸悶症狀。(台 305) 肥厚型阻塞性心肌病症患者的禁忌藥物:Digoxin、Diuretic、Vasodilator(Nitrate、ACEI),恰與上述治療機制相反。Diuretic 造成的 Dehydration 會加重出口阻塞,Vasodilator可能造成 reflex tachycardia等,使 pressure gradient 變大,LVOT 阻塞更 severe。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- ...D) 重症肌無力患者實施胸腺切除手術,會比單獨內科治療有較高的症狀緩解率 | 105(一)專醫三-52 | | (C) | 4. 下列有關咳嗽之敘述,何者錯誤? (A) 在正常情況下,咳嗽可用來做清理呼吸道的保護機制 (B) 有些藥物,如 ACEI (angiotensin-converting enzyme inhibitor) 亦會引起咳嗽 (C) 胃食道逆流會引起食道發炎,但不會引發慢性咳嗽 (D) 咳嗽可因外在因子(如煙、塵)或內在因子(如呼吸道分泌物) 誘發 | 104( 二 ) 專醫 三 −15 | | (D) | 5. 下列何者並非診斷全身性發炎反應症候群 (systemic inflammatory response syndrome) 的準則?(A) 發燒 (口 Source: [[sources/med3-book1-ch18|寅、其 他]].
-- ...與胸悶到院求診。胸部 X 光顯示 102(一)專 為兩側肺門腫塊。胸部電腦斷層顯示為兩側肺門與縱膈腔淋巴腺腫 醫三-52 。淋巴結活體切片病理顯示為非乳酪狀壞死之肉芽腫。有關後續診 斷與治療的敘述何者正確? (A) 有 2/3 的病例血中 Angiotensin converting enzyme (ACE) 會升高 (B) Ga67 scan 可以提供此病的確診影像,為必要之檢查 (C) 應給予高劑量類固醇治療 (D) 應給予抗結核藥物治療 【詳解】兩側肺門與縱膈腔淋巴腺腫、切片發現肉芽腫 (granuloma) 須懷疑 sarcoidosis,給予中低劑量類固醇 (prednisolone 20~40 mg qd)治療。主要是病理診斷, Ga67 scan 可以提供此病的 參考影像, 非必要。 (B) 8. 原本健康的 20 Source: [[sources/med3-book1-ch18|寅、其 他]].
-- (a) ACEI(or ARB): 可可改善 ventricular remodeling 以及減少 STEMI 病患的死亡率,因 STEMI 的心肌壞死而拉扯變形,導致心臟變大。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
+- ...ludrocortisone 後 TTKG > 10。 - ① Renin 低:考慮因使用 NSAID、β-blockers 抑制 Renin 分泌造成的,糖尿病腎病變也會有 Renin 低的現象。 - ② Renin 偏高: 考慮因使用 ACEI 抑制 Angiotensin 往下轉換成 Aldosterone 造成的,或是腎上腺本身無法分泌 Aldosterone 造成的。 - (ii) Aldosterone 正常或給予 Fludrocortisone 後 TTKG 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...-----------------------------------------------------------------------------|------------------| | (C) | 9. 使用 ACE 抑制劑(angiotensin converting enzyme inhibitor)要注意那一種副作用? (A) 高血鈉(Hypernatremia) (B) 低血鈣(Hypocalcemia) (C) 高血鉀(Hyperkalemia) (D) 低血鈉(Hyponatremia) | 95(一)專內 1-18 | | 內具 | 專 考 題 | | | 題 | 目 | | | (A) | 下列何種情況容易造成高血鉀症? 使用 amiloride 利尿劑 使用 amphotericin B 使用 t Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...mmHg, 腎臟 11 脈搏是 76/min, 她的血鈉是 133 mEq/L, 血鉀是 3.2 mEq/L, 一個 月前的血鈉報告是 140 mEq/L,血鉀是 4 mEq/L。下列哪項可能是 一個月前診所醫師給她服用的藥物? (A) Enalapril (B) Hydrochlorothiazide (C) Furosemide (D) Spironolactone (E) Atenolol 【詳解】Thiazide 還有降血壓的功能, Furosemide 降壓效果不強, 少用來降血壓。 (A) 5. 張先生患愛滋病,此次因咳嗽、氣促住院,身體診查血壓 110/70 96 mmHg, 兩邊下肺有囉音。抽血時 Cr 1.0 mg/dL, K 4.3 mEq/L, 胸腔 腎臟 12 X Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- 2. 使用 ACEI、ARB 可以減緩蛋白尿和腎功能的惡化。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- ...(DD),其腎功能比較會進展至衰竭 (D) 有蛋白尿的慢性腎臟病人,血壓的控制目標是在 125/75 mmHg | 101(二)專醫三-28 | | (C) | 13. 下列那一項治療在減緩慢性腎衰竭的進行速率上,沒有效果? (A) 服用 ACEI(Angiotensin converting enzyme inhibitors)或 ARB (Angiotensin receptor blockers)來治療高血壓 (B) 糖尿病患者嚴格控制血糖,維持 HbA1C 14. 減緩糖尿病腎病變(diabetic nephropathy)腎衰竭之進行,最好的降血壓藥是那一種? (A) 利尿劑(diuretics) (B) α- 交感神經阻斷劑(α-sympathetic blocker Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- ...----|----------------| | (D) 24 | E. 下列那一種方法無法降低 intraglomerular hypertension 而達到減緩 chronic renal failure 進行的目的? (A) 服用 angiotensin converting enzyme inhibitors (ACEI) (B) 服用 angiotensin-receptor blockers (ARB) (C) 限制 dietary protein 攝取 (D) 服用 kayexalate | 94(二)檢內-29 | | (B) 25 | 5. 腎臟之腎元 (nephron) 受慢性傷害至多少 % 以上,血中肌酸酐 (creatinine) 才會開始升高? (A) 20 (B) 50 (C) 80 (D) 95 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- ...| | (A) 23 | . 一位 69 歲糖尿病病人,其血清肌酸酐(creatinine)為 2.3 mg/dL,門診醫師最近加了一項降血壓藥,2 週後抽血,肌酸酐上升至 4.5 mg/dL,下列那一類藥物最有可能造成上述情況?(A) ACE inhibitors (B) β-blockers(C) calcium channel blockers (D) α-blockers | 99(一)專醫三-22 | | (C) 24 | 下列那一種藥物引起的急性腎衰竭,其機轉和其他三者不同? (A) captopril (B) valsartan (C) gentamicin (D) indomethacin 【詳解】NSAID 使入球小動脈收縮,ACEI、ARB 使出球小動脈放鬆,導致腎絲球內血管的 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- 【詳解】(B)血管張力素轉換抑制劑(ACEI)會讓入球小動脈放鬆, 使得腎血流更加減少。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- ...白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎臟留鉀留氫 - →高血鉀(一般 RTA 的酸中毒會低血鉀,只有 Type 4 RTA 的酸中毒會高血鉀) - →高血鉀造成近端腎小管製造 NH, ↓但腎臟排 H+ 正常 - → $\mathbb{R}$ NH3 ↓→ $\mathbb{R}$ NH4+ ↓→ UAG > 0 但 $\mathbb{R}$ 中 H+ ↑→ $\mathbb{R}$ pH + | 尿中 HCO3 | 病因 | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

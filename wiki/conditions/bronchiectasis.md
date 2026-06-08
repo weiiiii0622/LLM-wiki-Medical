@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book1-ch12]]"
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch23]]"
+  - "[[sources/med3-book3-ch02]]"
 aliases:
   - 'Bronchiectasis (支氣管擴張症)'
   - 'Bronchiectasis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-支氣管永久擴張，常有慢性痰與反覆感染。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book1-ch12]]
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch23]]
+- [[sources/med3-book3-ch02]]
 
 ## Key Details From Sources
 
+- (A) 1. 一位 59 歲接受腹膜透析腎病患者,血壓為 125/80 mmHg,心跳為 107( 二 ) 專 76 次 / min,12 導程心電圖發現有 peaked T waves,血鉀值為 7.0 醫三 -76 mmol/L,無溶血。下列何種處置最不優先? - (A) 會診腎臟科後,等待做腹膜透析 - (B) 可使用葡萄糖 (glucose) 加胰島素 (insulin) 治療 - (C) 可使用碳酸氫鈉(sodium bicarbonate)治療 - (D) 可使用噴霧式支氣管擴張藥物 (neubulized albuterol) 治療 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - H. 支氣管擴張 (Bronchiectasis) 282 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - (7) 結構性肺疾病(支氣管擴張症): Pseudomonas aeruginosa。 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - (B) 18. 一位 70 歲男性病患,抽菸 45 年,被診斷為 COPD 已經超過 10 年,平常用吸入型長效性支氣管擴張劑 (long-acting bronchodilator)治療。這次因為發燒、咳嗽加劇有黃痰、呼吸困難加劇住院治療。胸部 X 光片無新增變化,病人痰液抹片呈現 Gram(+) small diplococci,下列敘述何者錯誤? Source: [[sources/med3-book1-ch21|戊、感 染]].

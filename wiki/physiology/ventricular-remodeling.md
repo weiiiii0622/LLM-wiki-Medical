@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch06]]"
 aliases:
   - 'Ventricular remodeling (心室重塑)'
   - 'Ventricular remodeling'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,13 @@ tags:
 - [[sources/med3-book2-ch07]]
 - [[sources/med3-book2-ch08]]
 - [[sources/med3-book2-ch09]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch06]]
 
 ## Key Details From Sources
 
+- (c) 小動脈透明化(hyalinization),同時侵犯出球和入球小動脈,最後腎小管間質纖維化將出現。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- b. 表現:廣泛的腹膜纖維化,導致腸子被包覆,造成 ileus、噁心、腹痛、排便不順、 食慾變差、體重減輕,甚至造成腹膜沾黏。 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - ...| 少數演化成肝硬化,肝 | 肝功能上升,可導致臨 | | 表現 | 象 | 導致臨床上的急性發作 | 癌 | 床上的急性發作(acute | | | | (acute exacerbation) 可 | | exacerbation),肝纖維化 | | | + | 能產生肝纖維化甚至肝 | | 肝癌的風險上升。 | | | | 癌,因此這段時間應該 | | | | | | 越短越好。 | | | Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - ...於 1%。 | 99(一)專醫三-14 | | (C) 29 | 2. 朱女士,45 歲,20 年前因開刀輸血感染 C 型肝炎,目前 AST 60 U/L,ALT 85 U/L,肝生檢(biopsy)顯示為第二期(Metavir F2)之肝纖維化。下列敘述何者錯誤?(A) 朱女士應定期接受肝癌篩檢,包括腹部超音波和甲型胎兒蛋白(B) 朱女士可接受抗病毒治療(C)目前 C 型肝炎之標準治療為長效型干擾素(pegylated interferon)合併雷巴威林(ribavirin)和蛋白酵素抑制劑(protease inhibitor)(D) 若能清除 C 型肝炎病毒,可減少肝硬化和肝癌之風險【詳解】(C) 不包含蛋白酵素抑制劑。 | 99(一)專醫三-15 | | (D) 30 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - ...GOT 值及 GPT 值都維持 150 97(二)專 U/L 左右(兩項正常值均為 0-35 U/L), C型肝炎抗體陽性, B型肝 醫三-22 炎表面抗原陰性反應,表面抗體陽性反應,核心抗體陽性反應,接 受肝穿刺檢查,病理報告顯示中等度纖維化及發炎。請問以下之治 療藥物何者是最佳選擇? (A) Interferon + Ribavirin (B) Interferon + Lamivudine (C) Interferon + Adefovir (D) Interferon + Entecavir (B) 34. 慢性病毒性肝炎病人若長期酗酒,以下列何者最易造成肝硬化? 97(二)專 (A) B 型 (B) C型 醫三-23 (C) D型 (D) E型 (C) 35. 一位 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
@@ -61,9 +67,6 @@ tags:
 - a. IPF 與 NSIP 較常見,可想成慢性纖維化到活性發炎的兩端,肺部多已纖維化 (HRCT 看到 honeycomb) 則偏向 IPF,像是疾病進展到末期,此時用類固醇較無效果;若仍活性發炎(HRCT 看到毛玻璃樣浸潤)則偏向 NSIP,像是發炎正在進行,毛玻璃樣浸潤愈多,預期用類固醇效果愈好。如下圖。 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - (D) 3. 有關石綿肺症(asbestosis)的敘述,下列何者錯誤? - (A) 主要是暴露於石綿生產過程所造成,常見用於防火或電流絕緣 的材料中 - (B) 肺部容易出現瀰漫性纖維化病灶 - (C) 可能合併出現肺癌或間皮細胞瘤 (mesothelioma) - (D) 肺功能出現阻塞性功能障礙及氣體瀰散量(diffusing capacity) 下降,為病人呼吸急促的主因 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - (D) 5. 一位 67 歲退休農夫近 5 年來逐漸感到運動時呼吸困難,經高解析度電腦斷層 (HRCT)檢查,診斷出間質性肺纖維化 (interstitial lung fibrosis)。下列敘述何者錯誤? Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
-- c. 但若限制性(Restrictive)肺疾病,如肺泡纖維化,因為肺泡回彈力量增加,使得第一秒吐氣量比例增加,可見 FEV1/FVC 比值增加。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...氣腫 (Emphysema): 肺泡換氣面積減少 | | 限制性肺疾 | D L CO正常~↓ | 重症肌無力 (Neuromuscular dis.):可合併 RV ↑ | | Restrictive dz. | D L CO ↓ | 肺纖維化 (Pul. Fibrosis):有效換氣面積減少 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- b. 限制性肺部疾病之病人,如:肺纖維化,肺組織牽扯的能力提升,導致一定壓力下,肺能夠擴張的程度變小,即順應性(Compliance)變小。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 

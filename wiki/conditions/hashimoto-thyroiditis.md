@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book3-ch04]]"
 aliases:
   - 'Hashimoto thyroiditis (橋本氏甲狀腺炎)'
   - 'Hashimoto thyroiditis'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-自體免疫甲狀腺炎，常導致甲狀腺低下。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫甲狀腺炎，常導致甲狀腺低下。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch11]]
+- [[sources/med3-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...irrhosis, dermatitis herpetiformis, | | | | Autoimmune dz. | bullous pemphigoid, myasthenia gravis, Sjögren's syndrome, Hashimoto's thyroiditis | | | | Other systemic | Fanconi's syndrome, sickle cell anemia, diabetes, Crohn's disease, sarcoidosis, | | | | dz. | Guillain-Barré syndrome, Weber-Christian disease, angiofollicular lymph node hyperplas Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - #### 2. 橋本氏甲狀腺炎(Hashimoto's thyroiditis): Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - b. 再測 **Anti-TPO Ab**(**thyroid peroxidase**)、Anti-Tg Ab(thyroglobulin)、TSH-binding inhibiting immunoglobulin(TBII):若呈陽性,則為 Autoimmune hypothyroidism(Hashimoto's thyroiditis);乃因抗體引發一系列免疫反應,導致甲狀腺被破壞,造成甲狀腺機能低下。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - (1) 病因:有一半的病人是因為 chronic autoimmune (Hashimoto's) thyroiditis。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].

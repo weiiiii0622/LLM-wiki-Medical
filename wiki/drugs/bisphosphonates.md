@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch06]]"
+  - "[[sources/med3-book3-ch02]]"
 aliases:
   - 'Bisphosphonates (雙磷酸鹽類)'
   - 'Bisphosphonates'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book2-ch06]]
+- [[sources/med3-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...| Pseudohypoparathyroidism (G protein mutations) | | | Drugs | Calcium chelators | | | | Inhibitors of bone resorption (bisphosphonates, plicamycin) | | | | Altered vitamin D metabolism (phenytoin, ketoconazole) | | | Miscellaneous causes | Acute pancreatitis | | | | Acute rhabdomyolysis | | | | Hungry bone syndrome after parathyroidectomy | | | | Oste Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- b. 惡性腫瘤引起的高血鈣症可用 calcitonin 或 bisphosphonate 類藥物。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- | (B) | 1. 高血鈣急症的治療原則下列那一項最不適當? (A) 立即補充生理食鹽水 (B) 使用 thiazide 類利尿劑 (C) 惡性腫瘤引發高血鈣可以考慮給予雙磷酸鹽(bisphosphonates) (D) 維生素 D 造成的高血鈣症可以考慮使用類固醇治療 【詳解】Thiazide 可能會加重高血鈣。 | 107(二)專醫三-10 | |-----|----------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...因,限鈣飲食會有幫助。 - (b) 若是肺、頭頸部的 squamous cell carcinoma, 會分泌 PTHrP,溶解骨頭造成高血鈣;或乳癌骨轉移、白血病在骨髓腔內侵蝕骨頭都會造成高血鈣,反而會抑制正常的 PTH;根據病因,給予 Bisphosphonate 抑制破骨細胞會有幫助。 - (c) 甲狀腺亢進、臥床(Immobilization)導致骨頭 turnover 快,造成骨質流失、 高血鈣。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - c. 維持治療→ Bisphosphonate: 抑制蝕骨細胞,但要 1~2 天血鈣才會慢慢恢復,效果較能持續。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - (B) 給予靜脈注射 bisphosphonate Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].

@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch13]]"
+  - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book3-ch04]]"
 aliases:
   - 'Type 2 diabetes mellitus (第 2 型糖尿病)'
   - 'Type 2 diabetes mellitus'
@@ -21,16 +23,21 @@ tags:
 
 ## Summary
 
-胰島素阻抗與 β cell 功能下降造成慢性高血糖。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素阻抗與 β cell 功能下降造成慢性高血糖。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book2-ch13]]
+- [[sources/med3-book3-ch19]]
+- [[sources/med3-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...(APV), Daru navir (DRV), | CYP450 inh. | | Protease inh.(PI) | 抑制病毒處理轉錄出的蛋白 | Fosampre navir (FPV), Lopi navir (LPV) | T2DM | | | 中等政(山口)虫 口 | Rito navir (RTV), Nelfi navir (NFV), | Hyperlipidemia | | | | Saqui navir (SQV), Tipra navir (TPV), | | | HIV entry inh. | 防止病毒進入 | Enfuvirtide (T-20, Fusion inhibitor) | Inj. site Rxn. | | m v endy m Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- ...yme inhibitors 的腎臟保護作用,下列何者錯誤? (A) 可以降低血壓 (B) 可以降低蛋白尿 (C) 可以增加腎絲球過濾速率 (D) 可以降低出球小動脈的壓力 | 105(一)專醫三-37 | | (C) | 6. 下列何項是第 2 型糖尿病腎病變最早期的臨床表現? (A) 尿液白蛋白排泄量&gt; 30 mg/day (B) 血清肌酸酐(creatinine)&gt; 1.2 mg/dL (C) 腎絲球過濾率&gt; 120 mL/min (D) 血壓&gt; 130/80 mmHg | 103(一)專醫三-37 | | (C) | 7. 一位 65 歲病人最近一個月疲倦、走路呼吸急促。十年前診斷腎病症候群,給予類固醇治療效果不彰。他的血清肌酸酐五年前為 2.8 mg/d Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - 1. 又稱為 Insulin resistance syndrome, 顧名思義和 Insulin resistance 有很大的關係。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 4. 診斷糖尿病後,特別是年輕人,有時難以分辨第 1、第 2 型糖尿病,除可由臨床特徵分辨,也可參考升糖素(Glucagon)刺激試驗,若 (1) 空腹 C peptide \beta-adrenergic agonists , thiazides | | | | | phenytoin, α-inte | erferon, protease inhibitors, clozapine | | | | | F. Infections — congenital rubella, cytomegaloviru Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 1. 高尿酸血症與代謝症候群相關,與 insulin resistance 有關係 Source: [[sources/med3-book2-ch09|丁、糖尿病]].

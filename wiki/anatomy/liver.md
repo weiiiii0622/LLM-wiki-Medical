@@ -18,6 +18,15 @@ sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch20]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med3-book3-ch08]]"
+  - "[[sources/med3-book3-ch11]]"
+  - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book3-ch22]]"
 aliases:
   - 'Liver (肝臟)'
   - 'Liver'
@@ -32,7 +41,7 @@ tags:
 
 ## Summary
 
-肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,19 +59,28 @@ tags:
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch20]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch21]]
+- [[sources/med3-book3-ch08]]
+- [[sources/med3-book3-ch11]]
+- [[sources/med3-book3-ch18]]
+- [[sources/med3-book3-ch19]]
+- [[sources/med3-book3-ch22]]
 
 ## Key Details From Sources
 
-- 1. 定義:阻斷或干擾肝臟排出血流的病生理變化稱之,較常指在 hepatic veins 或 inferior vena cava 的 thrombosis。 Source: [[sources/med3-book2-ch26|辛、肝臟-其他]].
-- ...酒精性肝病 (C) 肥胖症 | l b b b b b b b b b b b b b b b b b b b | 93(一)檢內-43 | | (B) | 5. 下列何者不是脂肪肝(fatty (A) 酗酒者(C) 糖尿病患者 | y liver ) 常見的族群 ?(B) 老煙槍(D) 肥胖者 | 93(一)檢內-44 | Source: [[sources/med3-book2-ch26|辛、肝臟-其他]].
-- (6) 何時開始治療:符合下列其一,則建議治療,惟治療前仍需小心排除其他可能造成 肝臟損傷原因:(以下依照健保局給付規範,更新至109/1/1) - \*慢性B型肝炎定義: HBsAg(+) 超過6個月(需有兩次至少相隔六個月的報告) - \*除列為可長期使用者,1,3,4治療於健保規範中有限制年限(規範可能隨時改變,也不需死背),非終身服用藥物,主要因目前藥物並不能根除病毒,且缺乏理想治療預測指標,年輕患者終身使用可能長達數十年,仍須考慮長期可能產生的抗藥性。 - a. 慢性B型肝炎帶原者且已發生肝代償不全者:以口服藥 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...on (Leukopenia · Anemia · Thrombocytopenia) | Depression, alopecia Thyroiditis, injection site reaction | Decompensated liver | | R ibavirin | RBCHemolytic anemia | Teratogenicity, pulmonarySymptoms (Dyspnea, pneumonitis) | Pregnancy,chronic renal insufficiency | Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (B) 重覆感染 HDV, 對原本慢性 HBV 帶原者有不好的影響,可能 促使肝臟疾病快速惡化或造成猛爆性肝衰竭 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- a. ALK-P ( Alimentary、Liver、Kidney、Placenta + Bone 的疾病都會升高。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- a. 凝血因子(PT、aPTT): 若肝臟製造能力下降,可在短時間內表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- b. 白蛋白(Albumin): 若肝臟製造能力下降,需較長時間才會表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- ...axagliptin (Onglyza®) Vildagliptin (Galvus®) Linagliptin (Trajenta®) | 不易低血糖、部份藥物保護心血管、部份藥物降低尿蛋白 | | 部分藥要注意腎 | | 增加敏感 ( 肝臟 )/肝新生糖↓gluconeogenesis | Biguanide | 1.0~2.0% | Metformin (Glucophage®) | 首選用藥,降血糖效果好、減重、降低心血管風險 | 噁心、嘔吐、腹瀉、乳酸中毒 | 心肝腎 | | 增加敏感(肌肉脂脂)/刺激 PPARγ | Thiazolidinediones (TZD) | 0.5~1.0% | Pio-glitazone (Actos®) | 不易低血糖 | 水腫、 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 3. 增加組織對胰島素敏感度的 2 類藥物: - (1) Biguanide 類: Metformin (Glucophage®) - a. 藥物機制:主要增加肝臟對胰島素的敏感度→抑制肝臟糖質新生(Gluconeogenesis) →糖質新生為空腹血糖來源,故 Metformin 可降空腹血糖。另外也增加組織(肌肉) 對胰島素敏感度,以增加其對血糖的利用。 - b. 優點:首選用藥,較不會造成低血糖且改善 lipid profile,降低心血管風險。 - c. 缺點: - (a) 最常見的是在剛開始服用時,常引起腹瀉、噁心感。 - (b) 最嚴重副作用則是乳酸中毒(Lactic acidosis Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- (2) 疾病: - a. 肺炎:較常見於有慢性肺疾病、糖尿病、酒鬼(Alcoholism)的肺炎;吐出來的 痰通常很濃且含著血(Thick and bloody)。 - b. 泌尿道感染:較常見於導尿管相關的泌尿道感染。 - c. 國內糖尿病常見,須留意併發眼內炎、肝臟膿瘍。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (A) 2.50 歲男性,患有糖尿病多年,未規則服用降血糖藥物,因為右眼紅腫疼痛及發燒2天,至急診就醫,診斷有眼內炎(endophthalmitis),腹部超音波檢查發現有肝臟膿瘍。在國內,這位病人最恰當的抗生素治療為何? Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- 【詳解】糖尿病、眼内炎、肝臟膿瘍都要聯想到 K.P.。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- ...尿,低白蛋白血症,高脂血症和水腫 (B) 高蛋白飲食為治療腎病症候群的必要方式之一 (C) 膜性腎病變(membranous glomerulonephritis)腎絲球腎炎容易發生腎靜脈血栓 (D) 腎病症候群患者其血漿滲透壓降低,可刺激肝臟脂蛋白合成而造成高脂血症,其中以低密度脂蛋白及膽固醇之增加為最常見 | 100(一)專醫三-27 | | (A) | 11. | 下列何者是糖尿病腎病變的早期指標,同時也是心血管疾病的早期指標? (A) 微蛋白尿(microalbuminuria) (B) 血尿(hematuria) (C) 腎臟肥大(enlarged kidney) (D) 肌酐上升 | 99(二)專醫三-25 | | (D) | 12. | 下列何者非腎病症候群之臨 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- (B) NS 患者其血漿渗透性降低,可刺激肝臟脂蛋白合成而造成高血脂症,其中以低密度脂蛋白及膽固醇之增加為最常見 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- (2) 灰嬰症候群:新生兒的肝臟尚未有足夠的 UDP-glucuronyl transferase 代謝此藥,導致 Chloramphenicol 堆積,造成發紺、嘔吐、綠色大便、血管擴張失調,即灰嬰症候群 (Gray baby syndrome)。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- 1. 懷孕期間(台939): - (1) 可在懷孕期間使用的抗生素: Penicillin 類、Cephalosporin 類、Erythromycin base 等。 - (2) 不可在懷孕期間使用的抗生素: Tetracycline、Quinolone、Chloramphenicol、Erythromycin estolate等。 - (3) 由肝臟代謝,腎功能異常時不需減其量:Penicillin 中只有 Oxacillin,Cephalosporin 中有 Cefoperazone(CPZ)、Ceftriaxone 等,其他如 Metronidazole 等也由肝臟代謝。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- (2) 腸道外感染:阿米巴肝膿瘍、肺膿瘍、腦膿瘍、次發性阿米巴腦膜炎 - a. 腸道外、全身性的感染最常發生在肝臟。 - b. 阿米巴侵犯至黏膜下層後,可經由門脈循環,到達肝臟(肝右葉較多),形成阿米巴肝膿瘍。甚至進一步侵犯肺臟、心包膜。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
+- ...中間宿主,瘧原蟲在此進行無性生殖(分裂生殖);蚊子是瘧原蟲 的最終宿主,瘧原蟲在此進行有性生殖(孢子/配子生殖)。 - b. 無性生殖 (分裂生殖): - (a) 紅血球外相(肝相): 雌瘧蚊叮咬人,將唾腺中的孢子送進人的血管中,之後會進入肝臟間質細胞,產生裂殖體。 - (b) 紅血球期(臨床期):裂殖體經特殊受器進入紅血球,之後會生成更多裂殖子(Schizoite),之後紅血球破裂,釋出Pyogen、裂殖子,此時的體溫會升高,釋出的裂殖子再侵入紅血球,這樣一個循環每種瘧原蟲都有不同的週期。在紅血球期內,也可進行有性分化,有的裂殖子會分裂形成大配子體,有的會形成小配子體。 - c. 有性生殖(孢子/配子生殖):當蚊子再次叮咬人體,大配子體、小配子體會進入蚊子體內並形成雌配子、 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
+- C. **隱性多囊性腎病變(ARPKD)**又稱兒童型多囊性腎病變,死亡率較高,常伴 肝臟病變。 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 
 ## Clinical Caveats
 

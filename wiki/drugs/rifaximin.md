@@ -12,6 +12,10 @@ sources:
   - "[[sources/med3-book2-ch18]]"
   - "[[sources/med3-book2-ch20]]"
   - "[[sources/med3-book2-ch25]]"
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch11]]"
+  - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med3-book3-ch10]]"
 aliases:
   - 'Rifaximin (利福昔明)'
   - 'Rifaximin'
@@ -26,7 +30,7 @@ tags:
 
 ## Summary
 
-降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,19 +42,25 @@ tags:
 - [[sources/med3-book2-ch18]]
 - [[sources/med3-book2-ch20]]
 - [[sources/med3-book2-ch25]]
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch11]]
+- [[sources/med3-book3-ch21]]
+- [[sources/med3-book3-ch10]]
 
 ## Key Details From Sources
 
+- ...Fortum®)可對抗綠膿桿菌,針對院內感染可使用;Ceftriaxone(Rocephin®)可穿透血腦障壁(Blood brain barrier),可用於治療腦膜炎,還可用於治療 Urosepsis、Pneumonia、腹內感染(與 Metronidazole 併用)、淋病(Gonorrhea)。但對會產生 AmpC β-lactamase 格蘭氏陰性菌無效。 - (4) 第四代最廣效,可對抗會產生 AmpC β-lactamase 格蘭氏陰性菌,用於嗜中性球低下病患發燒(Neutropenic fever)或院內感染的經驗性抗生素。其中 Ceftaroline 及 Ceftobiprole 因具有抗 MRSA 能力,又被稱為第五代 cephalosporin。Ceftobiprole 同時 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- 抑制細胞壁製造,但因腎毒性太強,所以僅用於外敷。臨床上 Bacitracin 常與 Neomycin 混合成藥膏(利膚),塗抹於傷口。Bacitracin 對抗格蘭氏陽性細菌,Neomycin 對抗格蘭氏陰性細菌。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- (1) Clindamycin: - a. 抗菌範圍類似 Erythromycin,可抗 GPC - b. 還能抗厭氧菌,對膿瘍有不錯的穿透力,可治療咽喉附近的膿瘍(橫膈上);對 *Bacteroid fragilis* 效果不可信,因此腹腔內的膿瘍仍建議使用 Metronidazole(橫膈下)。 - c. 合併其他藥物治療嚴重的Streptococcal, clostridial 感染,可抑制其釋放出來的毒素。 - d. 會破壞大腸內正常菌群,使 Clostridium difficile 增生,引起偽膜性大腸炎 (Pseudomembranous colitis),須以口服 Metronidazole 或 Vancomycin 治療。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- 3. 診斷、治療: (Harrison table 122-5) - (1) 治療首重水分、電解質補充。 - (2) 針對腹瀉較嚴重,但沒發燒且糞便中無 WBC 者,可給予止瀉劑(loperamide)控制症狀;但有發燒或糞便中有 WBC 者則不可使用,因止瀉劑會延長這類病患的病程。 - (3) 針對較嚴重的發燒及糞便中有 WBC 患者,在未知病原菌時,可給予 ciprofloxacin (500 mg bid, 3 天)或 Azithromycin (500 mg qd, 3 天);懷疑 Giardia 感染,則可考慮口服 Metronidazole。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
+- ...l animada | Vancomycin 125mg po qid x 10 days | Alternative: | | Initial episode | Fidaxomycin 200mg po bid x 10 days | Metronidazole 500mg po tid x 10 days | | Fulminant infection | Vancomycin 500mg po/enema qid + | Chook ilous massaslan | | rummant infection | Metronidazole 500mg iv q8h | Shock, ileus, megacolon | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
+- ...病灶數 | 多發性病灶 | (50%) | 典型為單一膿瘍 (80%) | | 診斷 | 超音波、C | Γ | 超音波、CT、IHA > 1:32 | | 治療 | 抗生素+引 | 流 | Metronodazole 即可, | | | Metronidazole+Ceftriaxone orPiperacillin-tazobactam or | | 不需引流→ | | | | | 否則阿米巴會由引流管蔓延開 | | | Ampicillin-sulbactam | | | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
+- 1. 梨形鞭毛蟲 (Giardia lamblia) (超超超愛考,務必記熟此蟲!!) - (1) 生活史: - a. 營養體:有兩個核,四對鞭毛,成梨型,行落葉般運動。 - b. 囊體:有四個核,為感染型。環境變差時,營養體會變成囊體。 - (2) 寄生在十二指腸,使得吸收不佳,引起脂肪便、低蛋白血症、膽囊炎。 - (3) 因喝被污染的水、親密接觸而傳染。 - (4) 治療: Metronidazole 針對營養體; paromomycin, iodoquinol 針對 cyst。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
+- 2. 陰道滴蟲 (Trichomonas vaginalis) - (1) 生活史: - a. 囊體期:沒有! - b. 營養體: 具波動膜。 - (2) 寄生在尿道或女性陰道前穹廬(anterior fornix)、男性的攝護腺,引起黃綠色惡臭泡沫狀分泌物。 - (3) 因性接觸而傳染。 - (4) 治療: Metronidazole。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
+- | 分類 | 治療 | 其他選擇 | |------------------------------|-------------------------------------------|--------------------------------------| | Mixed aerobic-anaerobic bac. | Cefotaxime + metronidazole or clindamycin | Piperacillin-tazobactam + vancomycin | | Clostridium perfringens | Pencillin + Clindamycin | Cefoxitin + Clindamycin | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - 3. 治療:病程為 chronic and benign nature,對存活沒有影響,所以僅需教育病人要高纖飲食、避免咖啡等。如果症狀嚴重到影響作息,可依症狀選擇藥物: - (1) 便秘為主:高纖洋車前子(psyllium)、滲透型瀉劑(polyethylene glycol),gut serotonin modulators。 - (2) 腹痛為主: antispasmodics, antidepressants。 - (3) 腹瀉為主: antidiarrheals, bile acid sequestrants, 抗生素 rifaximin。 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - (C) 1. 下列關於大腸激躁症(irritable bowel syndrome)的敘述,何者正確? 108( 二)專 - (A) 嚴重大腸激躁症,與腸道生理的相關性較強,與精神方面的異常 醫三-19 關聯性較小 - (B) 大腸激躁症的盛行率男性為女性的 2~3 倍 - (C) 某些抗生素如 rifaximin 對於部分大腸激躁症病患會有效 - (D) 抗憂鬱藥物(antidepressant drugs)對於大腸激躁症是無幫助的 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - (4) 治療:限制蛋白質飲食、lactulose edema 酸化腸道( $NH_3 \rightarrow NH_4^+$ )、 $\square$ 服 neomycin 或 metronidazole 殺死腸道中製造 $NH_3$ 的微生物。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
-- (3) 針對較嚴重的發燒及糞便中有 RBC 患者,在未知病原菌時,可給予 ciprofloxacin (500 mg bid, 3~5 d);若培養對 Baktar 敏感,則可使用;懷疑 Giardia 感染,則可考慮口服 Metronidazole。 Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- ...培養 | Cip. 或 TMP-SMX (若培養試驗為敏感) | | | 發炎 | 大腸桿菌 (E. Coli) | 糞便培養 | Cip. 或 TMP-SMX (若培養試驗為敏感) | | | | 痢疾阿米巴原蟲 | 糞便培養 | 口服 Metronidazole | Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- (1) 停止目前的抗生素,口服 metronidazole 10天(首選)。 Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- ...| 單一病灶 | | 症狀 | 發燒較明顯 | 右上腹疼痛較明顯 | | 診斷 | 超音波、CT | 超音波、CT、IHA > 1:32 | | | 抗生素+引流 | Metronodazole 即可,除非太大有破裂致腹 | | 治療 | Metronidazole + Ceftriaxone or Pipera- | 腔內的疑慮,不然單次抽取培養並減壓即可, | | | cillin-tazobactam or ampicillin-sulbactam | 不需引流,否則阿米巴會由引流管蔓延開 | Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
-- (D) 治療以 Metronidazole 為首選用藥 Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
-- (D) 9. 對於目前台灣的化膿性肝膿瘍之敘述,下列何者錯誤? - 70°11日的古得时儿族性肝服物心球地,「70°11月百妇缺! - (A) 在肝膽沒有解剖結構異常的情況下,最常見的致病菌是 Klebsiella pneumoniae, 此菌通常對 ampicillin 具抗藥性 - (B) 當病人有肝膽道結構異常,混合菌種如 Escherichia coli 及厭氧菌是常見病原 - (C) 潛隱性(cryptogenic) 肝膿瘍主要是指沒有解剖結構異常者, 這類病人常見有糖尿病 - (D) 潛隱性肝膿瘍治療之原則包括及早引流及採用含有 gentamicin 和 metronidazole 之抗生素治療 Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
-- ...方法之一。 - 4. 根除幽門螺旋桿菌 (H. pylori) 感染的 triple therapy: - (1) 三合療法: PCM 或 PCA, HP 根除率可達 80~90%。 - a. PPI + Clarithromycin + Metronidazole 14 天 - b. PPI + Clarithromycin + Amoxicillin 14 天 - c. 若 Clarithromycin 有抗藥性,可考慮 PPI + Metronidazole + Amoxicillin - (2) Bismuth based treatment - a. Bismuth + PPI + Tetracycline + metronidazole Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 
 ## Clinical Caveats
 

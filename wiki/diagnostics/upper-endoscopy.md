@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch07]]"
+  - "[[sources/med3-book3-ch04]]"
 aliases:
   - 'Upper endoscopy, EGD (上消化道內視鏡)'
   - 'Upper endoscopy, EGD'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book2-ch04]]
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch07]]
+- [[sources/med3-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...L、WBC 4,600/μL、platelets 120,000/μL;血液生化檢查: BUN 35 mg/dL、肌酸酐 1.8 mg/dL。下列那個處置是最適當的? (A) 檢查血清 ANA, C3 濃度,並安排腎臟切片檢查 (B) 安排胃鏡檢查 (C) 給予輸血 (D) 尿液細菌培養,並給予抗生素兩週 (B) 8. 腎病症候群 (Nephrotic Syndrome) 和下列何種癌症最有關聯? 101(一)專 (B) 何杰金氏淋巴癌 醫三-36 (A) 腎臟細胞癌 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (B) 11. 一位 49 歲女性病患因上腹以及左上腹區域疼痛約 2 至 3 天而求診, 急診室的檢查結果顯示 Hb 10.4 g/dL, WBC 分類 N/L 79.9%/14.5%, glucose 115 mg/dL, BUN 13 mg/dL, creatinine 0.9 mg/dL, CRP 10.8 mg/L, lipase 173 U/L, amylase 67 U/L, triglyceride 1634 mg/dL。下列 何項檢查最可能確定診斷? - (A) 上消化道內視鏡(UGI endoscopy) - (B) 腹部電腦斷層檢查 (abdominal CT scan) - (C) 大腸鏡檢查 (colonoscopy) - (D) 腫瘤標記檢查(tumor markers) Source: [[sources/med3-book2-ch03|乙、腹痛]].
 - (B) 13. 一位 45 歲婦人因急性上腹疼痛,被送至急診室,發現其腹痛會傳到 101(一)專 背後,實驗室檢查發現 Amylase 2,680 U/L; Lipase 4,860 U/L,對於 此婦女的處理,下列敘述何者最適當? - (A) 胃鏡對其上腹痛之診斷是必要的 - (B) 腹部超音波可幫助其診斷 - (C) 應給予 morphine 止痛 - (D) 要立刻安排 ERCP 加以診斷兼治療 Source: [[sources/med3-book2-ch03|乙、腹痛]].
 - (B) 胃鏡 (upper gastrointestinal endoscopy) Source: [[sources/med3-book2-ch03|乙、腹痛]].

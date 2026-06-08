@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch25]]"
+  - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book3-ch15]]"
 aliases:
   - 'Upper gastrointestinal bleeding (上消化道出血)'
   - 'Upper gastrointestinal bleeding'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-上消化道出血常見來源包含潰瘍、靜脈曲張、Mallory-Weiss tear 等。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+上消化道出血常見來源包含潰瘍、靜脈曲張、Mallory-Weiss tear 等。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,14 @@ tags:
 - [[sources/med3-book2-ch22]]
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book2-ch25]]
+- [[sources/med3-book3-ch22]]
+- [[sources/med3-book3-ch15]]
 
 ## Key Details From Sources
 
+- ...相關流行地區旅遊史、病例接觸史、動物或致病原暴露史,且符合下 | | | | 列部分或全部臨床描述者: | | | | 急性發燒、腹瀉(可能帶血)、嘔吐、頭痛、噁心、腹痛,進一步發展成 | | | | 結膜充血、吞嚥困難、流鼻血、牙齦出血、吐血、血便、紫斑症等症狀、 | | | | 有些病人也可能在軀幹出現斑點狀丘疹,接著出現脫水和虛脫,疾病後 | | | | 期經常出現中樞神經系統症狀,明顯的嗜睡、精神錯亂或昏迷。致死率 | | | | 為 50%~90%。 | | | | 二、前項旅遊史、接觸史或暴露史未知或不明,或無典型之臨床症狀,而相 | | | | 關檢體經實驗室檢驗符合下列任一條件者: | | | | (一)血清學 IgG 和(或)IgM 檢測結果陽性 (ELIS Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...相關流行地區旅遊史、病例接觸史、動物或致病原暴露史,且符合下 | | | | 列部分或全部臨床描述者:急性發燒、腹瀉(可能帶血)、嘔吐、頭痛、 | | | | 嘌心、腹痛,進一步發展成結膜充血、吞嚥困難、流鼻血、牙齦出血、 | | | | 吐血、血便、紫斑症等症狀,有些病人也可能在軀幹出現斑點狀丘疹, | | | | 接著出現脫水和虛脫,疾病後期經常出現中樞神經系統症狀,明顯的嗜 | | | | | | | | 睡、精神錯亂或昏迷。 | | | | 二、前項旅遊史、接觸史或暴露史未知或不明,或無典型之臨床症狀,而相 | | | | 關檢體經實驗室檢驗符合下列任一條件者: | | | | (一)血清學 IgG 和 (或 )IgM 檢測結果陽性 (ELISA)。 | | | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- (C) 4.78 歲女性患有高血壓、慢性腎功能不全、陳舊性中風,長期使用導尿管,居住在慢性養護機構;因發高燒兩天,消化不佳,解黑便及意識不清,住院治療。經檢查發現血液和尿液培養皆長出:具有廣效乙內醯胺酵素(extended-spectrum beta-lactamase, ESBL)之大腸桿菌(*Escherichia coli*),下列抗生素藥物治療及投與途徑,何者最適合用於治療初期? - (A) oral cephalexin - (B) intravenous cefotaxime - (C) intravenous ertapenem - (D) intramuscular gentamicin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 1. 血液混和胃酸呈現黑色,有黑便須先考慮上消化道出血 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - 3. 胃鏡(UGI endoscope): 可診斷兼治療上消化道出血 - (1) 食道靜脈瘤 (Esophageal varices) / 胃靜脈瘤 (Gastric varices): 常有肝硬化的病史 - a. 急性出血時可給予 Octreotide 降低肝門靜脈壓力,控制出血。 - b. 可由胃鏡將食道靜脈瘤結紮 ligation,或直接於食道/胃靜脈瘤施打硬化劑(急性出血或預防出血可用)。 - c. 急性食道靜脈瘤出血時,文獻證實給予抗生素有助於降低再出血風險。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].

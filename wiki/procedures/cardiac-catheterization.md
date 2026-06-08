@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch22]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch08]]"
 aliases:
   - 'Cardiac catheterization (心導管檢查)'
   - 'Cardiac catheterization'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch22]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch08]]
 
 ## Key Details From Sources
 
+- (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- ...低血壓(D) 最近曾服用降血脂藥物 | 94(二)專內 1-23 | | (D) 36. 要評估腎臟血管硬化程度,下列那一種方法比較不影響腎功能? (A) 電腦斷層(CT scan)加顯影劑(contrast medium) (B) 標準型血管攝影(standard angiography) (C) 靜脈輸注泌尿道攝影(intravenous urography) (D) 核磁共振血管攝影(magnetic resonance angiography) | 94(二)專內 1-26 | | (D) 37. 關於急性腎小管壞死,下列那個推論是正確的? (A) 利尿劑可以避免急性腎小管壞死 (B) 注射腎 - 劑量的 dopamine 可以避免腎小管壞死 (C) 注射腎 - 劑量的 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- (B) 應做腎血管攝影,診斷可能是腎動脈高血壓 (renovascular hyper-tension) Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 - (B) 嚴重的出血病例可以安排血管攝影檢查(angiography),找到 出血源時可注射 vasopressin 或以血管栓塞(embolization)止血 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (C) 核醫紅血球掃描(RBC scan), 偵測出血較血管攝影術敏感, 可以精確定位,幫助治療 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (D) 如無活動性出血,除非是血管豐富(hypervascular)的腫瘤或 是血管發育不良(angiodysplasia),否則血管攝影術幫助不大 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
@@ -56,9 +63,6 @@ tags:
 - (C) 將病人送至心導管室準備進行血管再灌流處置 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (B) 立即做心導管檢查及冠狀動脈攝影 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (4) Percutaneous mitral balloon valvotomy (PMBV): - a. 以心導管,用氣球將瓣膜撐開。 - b. Moderate to severe MS (MVA 2) 可考慮 PMBV (Class I)。 - c. 禁忌: LA thrombus, mod to severe MR, echo mitral valve score > 8 (表示瓣膜較厚、 鈣化嚴重等,其形態不適合 PMBV)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- ...B) coronary AV fistula (C) atrial septal defect (D) ruptured sinus of Valsalva aneurysm | 103(二)專醫三-22 | | | (A) 30 | . 心導管檢查時,在左心室注射對比劑(contrast medium)後攝影無法評估以下那個項目?(A) 主動脈閉鎖不全(aortic regurgitation)的嚴重度(B) 二尖瓣閉鎖不全(mitral regurgitation)的嚴重度(C) 左心室射出分率(left ventricular ejection fraction) | 103(二)專醫三-25 | | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (C) 1. 一位 65 歲男性,有高血壓病史,一天抽菸一包,在腹部摸到一個無 104(二)專 痛而隨脈搏跳動之腫塊,接受腹部斷層掃描血管攝影(CT angiography) 醫三-21 發現異常如附圖,有關此患者下列敘述何者正確? Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (C) 應馬上進行動脈血管攝影或胸部電腦斷層檢查 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 
 ## Clinical Caveats
 

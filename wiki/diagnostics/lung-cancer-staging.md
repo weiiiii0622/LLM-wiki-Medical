@@ -11,6 +11,9 @@ sources:
   - "[[sources/med3-book1-ch16]]"
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med3-book2-ch18]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch05]]"
 aliases:
   - 'Lung cancer staging (肺癌分期)'
   - 'Lung cancer staging'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,19 +39,23 @@ tags:
 - [[sources/med3-book1-ch16]]
 - [[sources/med3-book2-ch22]]
 - [[sources/med3-book2-ch18]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch05]]
 
 ## Key Details From Sources
 
+- (1) 重要性:造成末期腎病 (End-stage renal disease)的第一位原因。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- ...------|----------------------------------------| | 第一階段:超過濾階段 | GFR 較同年齡正常人上升 20~40%, 在鏡檢下可發現腎絲球肥厚 | | (Hyperfiltration stage) | 和間質增生,此時期為可逆變化,控制好血糖可使上述變化恢復正常 | | 第二階段:無症狀階段 | 發病 1.5~2.5 年後,尿液白蛋白量正常,但病理上已出現 | | (Silent stage) | 腎絲球基底膜變厚及間質增加的變化,一般此階段維持 5-15 年 | | 第三階段:微量白蛋白尿期 | 24 小時白蛋白尿 (Albuminuria) 30~300 mg 稱之, | | (Microalbuminuria stage Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- d. 微蛋白尿階段(第三期)如好好治療,微蛋白尿還有機會改善回到上個 stage,如果進入第四期,糖尿病腎病變通常就無法再回頭,而只能逐漸走下坡了(point of no return)。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- 分類依據與 RIFLE 相似,也是看 GFR、SCr 與 urine output,但判斷依據改為 48 hrs 內。差別在於嚴重度分級改為 1~3,且將 SCr acute rise $\geq$ 0.3 定義為 stage 1 AKI。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- | Stage | Serum creatinine criteria | Urine output criteria | |-------|---------------------------------------------|----------------------------| | 1 | Increase in serum creatinine of ≥ 0.3 mg/dL | 200% to | 2$ to 3 fold) from Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- | Stage | GFR (ml/min) | 治療目標 | |---------|--------------|--------------------------------| | Stage 1 | > 90 | 治療 comorbid conditions,降低心血管風險 | | Stage 2 | 60~89 | | | Stage 3 | 30~59 | 開始限制蛋白質攝取,評估、治療併發症 | | Stage 4 | 15~29 | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- (2) Stage 3(GFR +,加上高血鉀會抑制 ammonia 製造,故會造成 non-anion-gap metabolic acidosis,此時 須適當治療高血鉀。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - (C) 5. 針對 TNM Staging System Stage I、3 cm 的早期肝細胞癌,以下的治療方式,何者不是「具治癒性可能(curative-intent)」的治療策略? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - (C) 1. 一位下肢水腫合併腹水的病人,血清中白蛋白(albumin)為 3.0 g/dL, 108( 二 ) 專 腹水中的白蛋白(ascitic albumin)及蛋白質總量(ascitic protein) - (A) hepatic vein thrombosis, early stage - (B) heart failure - (C) liver cirrhosis - (D) hepatic sinusoidal obstruction syndrome Source: [[sources/med3-book2-ch18|丙、腹 水]].
 - (1) Stages I, II, and some IIIA:能開就開乾淨。 - a. Stage I, Stage IB & 4 公分;stage II;stage III & N0-N1:開刀加術後化療。 - c. N2 or N3 nodes: CCRT o Source: [[sources/med3-book1-ch13|丑、肺癌]].
 - (2) Limited stage:若體力許可,可予化療+放療,若達完全緩解(complete remission),可考慮加做腦部放療(prophylactic cranial irradiation, PCI),以達更好的控制。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
-- (3) Extensive stage: 化療即可。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
-- | | Normal | Pre-HTN | Stage 1 HTN | Stage 2 HTN | |--------------|--------------------|------------------|------------------|-----------------------------| | Sys./Dia. | 100$ | | Sys./Dia.(記) | 100$ | | 記法 | (120) + (80) = 200 | (+20)/(+10) | (+20)/(+10) | (+20)/(+10) | Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- #### (4) Stage 2 HTN: Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- | | Stage A | Stage B | Stage C | Stage D | |--------|----------------|--------------------------|--------------------|--------------| | 124.26 | 有危險因子 | 左心收縮功能異常、 | 有心臟衰竭症狀 | 內科治療後, | | 定義 | (CAD, HTN, DM) | 心肌梗塞、瓣膜性心臟病 | | 仍有症狀 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- (A) 依據 GOLD criteria, 病患 COPD 的嚴重度應該為 stage III (severity = severe) Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- (B) 末期糖尿病腎病變 (end-stage diabetic nephropathy) Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 
 ## Clinical Caveats
 

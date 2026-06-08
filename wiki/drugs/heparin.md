@@ -12,6 +12,9 @@ sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch24]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch05]]"
 aliases:
   - 'Heparin (肝素)'
   - 'Heparin'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,16 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch24]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch05]]
 
 ## Key Details From Sources
 
+- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...G 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease ACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistant to aldosterone) | | 服用利尿劑 Spironolactone服用抗生素 Trimethoprim | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...--------------------------------------------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(c Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...otal T4 ↑ | Free T4 ↑ | 抑制 T4→ T3 | Amiodarone · Propranolol | | (Euthyroidism) | Total T4 正常 | Free T4 ↑ | T4 離開 TBG | Heparin · LMWH | | | Total T4 ↑ | Free T4 正常 | 增加 TBG | 雌激素 (Estrogen)、懷孕、肝炎、肝 | | | | | | 硬化 | | | Total T4 ↓ | Free T4 正常 | 減少 TBG | 雄激素 (Androgen) | | 甲狀腺功能低下 | Total T4 ↓ | free T4 ↓ | 抑制 TSH | Glucocorticoid, Dopamine, | | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - a. 凝血因子(PT、aPTT): 若肝臟製造能力下降,可在短時間內表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - (3) 抗血栓藥物方面:ACS 病患會使用 Heparin 將 aPTT 控制在 60 秒左右。因為 Heparin induced thrombocytopenia 的副作用,這方面還可用 LMWH、Fondaparinus、 Bivalirudin 等。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
@@ -51,7 +61,6 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - (D) 給予 heparin 靜脈注射治療 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - c. \*新舊藥筆記:ps. Enoxaparin 目前比 Heparin 好, ARB 則未被證實比 ACEI 好。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - (A) 下肢靜脈栓塞,給予抗凝血劑 heparin Source: [[sources/med3-book1-ch13|丑、肺癌]].
-- ...| | | | 肺水腫 | 雙側吸氣末期不連續音 (rales) | 使用利尿劑 | | | | CXR: Butterfly distribution | | | 肺血管 | 肺栓塞 | CXR 正常但顯著低血氧 | CTA 確診後給予 LMWH | | 心臟 | 心肌梗塞 | 心電圖、心肌酵素 | Bokey, Plavix, LMWH | | | | CXR: Butterfly distribution | 會診心臟內科 | | 組織 | 敗血症 | 抽動脈血 (HCO3-下降) | 積極補充水分、給予正確抗生素 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 

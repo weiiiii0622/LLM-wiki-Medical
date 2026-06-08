@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med3-book1-ch20]]"
   - "[[sources/med3-book1-ch24]]"
+  - "[[sources/med3-book3-ch15]]"
 aliases:
   - 'Pneumothorax (氣胸)'
   - 'Pneumothorax'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-空氣進入肋膜腔造成肺塌陷，張力性氣胸為急症。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+空氣進入肋膜腔造成肺塌陷，張力性氣胸為急症。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book1-ch18]]
 - [[sources/med3-book1-ch20]]
 - [[sources/med3-book1-ch24]]
+- [[sources/med3-book3-ch15]]
 
 ## Key Details From Sources
 
+- (c) Minocycline:用途類似 Doxycycline,靜脈劑型,治療嚴重的立克次體感染,還可用於 Nocardiosis、Actinomycosis;也用於氣胸病患的肋膜沾粘術。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...ection, empyema | | | | NIDO -5 IZ | Lymphocytosis (>85%) | TB, lymphoma, sarcoid, pseudoexudates | | | 核 | WBC 100/) | Pneumothorax, Hemothorax, Fungal, parasitic inf., | | | 細 | | Eosinophilia (>10%) | Meds, Malignancy, Benign asbestos effusion | | | 胞 | Mesothelia cell >5% | 3 g/dL | >3 g/dL Exudate, >4 TB, | | | 生 | LDH | >1,000 IU/L | Empyema, r Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - 1. 原發性自發性氣胸 (Primary spontaneous pneumothorax) - (1) 多因肋膜氣泡(subpleural emphysematous blebs)破裂導致氣胸,好發於肺尖。 - (2) 多發生在 20 歲左右年輕男性人,通常在休息時發生,不常發生在重度運動時。 - (3) 發生一次氣胸後,約有50%會復發。 - (4) 診斷:胸部 X 光。 - (5) 氣胸大小評估:並無一致共識。 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - ...---------------------------|--------------------------------------------------| | 美國胸腔 | Apical 量測胸壁到肋膜距離 (a) ≥ 3 公分→大範圍氣胸 | | | 學會 (ACCP) | | a | | 英國胸腔 | Hilum 高度量測胸壁到肋膜距離 (m) ≥ 2 公分→ | b Upper half | | 學會指引 (BTS) | 氣胸 > 50% | (x \m) | | 平均肋膜腔 | a (mm) + b (mm) + c (mm) | ``\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ | | 距離 (AID) | $\frac{2}{3}$ Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].

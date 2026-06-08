@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book1-ch16]]"
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch22]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch08]]"
 aliases:
   - 'CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)'
   - 'CT pulmonary angiography, CTPA'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-肺栓塞常用影像診斷。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺栓塞常用影像診斷。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,14 @@ tags:
 - [[sources/med3-book1-ch16]]
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch22]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch08]]
 
 ## Key Details From Sources
 
+- (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- ...低血壓(D) 最近曾服用降血脂藥物 | 94(二)專內 1-23 | | (D) 36. 要評估腎臟血管硬化程度,下列那一種方法比較不影響腎功能? (A) 電腦斷層(CT scan)加顯影劑(contrast medium) (B) 標準型血管攝影(standard angiography) (C) 靜脈輸注泌尿道攝影(intravenous urography) (D) 核磁共振血管攝影(magnetic resonance angiography) | 94(二)專內 1-26 | | (D) 37. 關於急性腎小管壞死,下列那個推論是正確的? (A) 利尿劑可以避免急性腎小管壞死 (B) 注射腎 - 劑量的 dopamine 可以避免腎小管壞死 (C) 注射腎 - 劑量的 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- (B) 應做腎血管攝影,診斷可能是腎動脈高血壓 (renovascular hyper-tension) Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 - (B) 嚴重的出血病例可以安排血管攝影檢查(angiography),找到 出血源時可注射 vasopressin 或以血管栓塞(embolization)止血 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (C) 核醫紅血球掃描(RBC scan), 偵測出血較血管攝影術敏感, 可以精確定位,幫助治療 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (D) 如無活動性出血,除非是血管豐富(hypervascular)的腫瘤或 是血管發育不良(angiodysplasia),否則血管攝影術幫助不大 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].

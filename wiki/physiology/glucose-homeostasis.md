@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med3-book2-ch16]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch19]]"
 aliases:
   - 'Glucose homeostasis (血糖恆定)'
   - 'Glucose homeostasis'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ tags:
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch13]]
 - [[sources/med3-book2-ch16]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch19]]
 
 ## Key Details From Sources
 
+- 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- 【詳解】(1) 透過 dextrose solution 補 K,由於 glucose 會刺激 Insulin 分泌,而使 K shift 到細胞內導致昇鉀效果較差。(2) potassium citrate 除了矯正低血鉀,也可順便矯正酸中毒。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...------------------|----------|-------------------| | 葡萄糖酸鈣 (Cal. gluconate 1~2 amp) | 幾分之內 | 使細胞膜電位穩定,避免致命心律不整 | | 胰島素 (Insulin 10 U + D50W 2 amp) | 15-30 分鐘 | 短暫作用,使鉀離子進入細胞內 | | 碳酸根離子 (Sod. bicarbonate) | 15-30 分鐘 | 短暫作用,使鉀離子進入細胞內 | | 利尿劑 (Diuretics) | 30 分鐘 | 使體內鉀總量下降 | | β 2 致效劑 (β 2 agonist) | 30-90 分鐘 | 使鉀離子進入細胞內 | | 陽離子交換樹脂 (Kayexalate/Kal Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - 1. 又稱為 Insulin resistance syndrome, 顧名思義和 Insulin resistance 有很大的關係。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 4. 診斷糖尿病後,特別是年輕人,有時難以分辨第 1、第 2 型糖尿病,除可由臨床特徵分辨,也可參考升糖素(Glucagon)刺激試驗,若 (1) 空腹 C peptide \beta-adrenergic agonists , thiazides | | | | | phenytoin, α-inte | erferon, protease inhibitors, clozapine | | | | | F. Infections — congenital rubella, cytomegalovirus, coxsackie | | | | | | G. Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - \*「腎」: Metformin eGFR Saxagliptin (Onglyza®) > Vildagliptin (Galvus®) > Linagliptin (Trajenta®) - a. 藥物機制:食物會刺激腸道分泌腸泌素(Incretin),腸泌素中最重要的就是GLP-1 會刺激胰臟分泌胰島素。而GLP-1 會被的體內 enzyme DPP-4 分解,使用DPP-4 inhibitor可延長 GLP-1 作用。[縮寫:Glucagon like peptide-1 (GLP-1)、Dipeptidyl peptidase-4 (DPP-4)] - b. 優點:副作用少,不易造成低血糖。 - c. 缺點:呼吸道感染、急性胰臟炎可能。另外,Saxagliptin 可能增加 DM 患者心衰竭住院。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].

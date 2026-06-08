@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch17]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch04]]"
 aliases:
   - 'Rheumatic heart disease (風濕性心臟病)'
   - 'Rheumatic heart disease'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,14 @@ tags:
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch17]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...| | 入侵/毒素) | 中毒性休 | Streptococcal toxic shock | | | | 克症候群 | syndrome | early and a second | | Non-suppurative | 風濕熱 | Rheumatic fever | 心肌炎,關節炎,舞蹈症,皮下結節 | | sequelae | 急性腎絲 | Acute post-streptococcal | 茶褐色的尿 | | (抗體媒介) | 球腎炎 | glomerulonephritis | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- | (B) | 1. 下列何種抗體與風濕熱(rheumatic fever)的血清學診斷最不相關? (A) Anti-streptolysin O antibody (C) Anti-DNase B antibody (D) Anti-hyaluronidase antibody | 98(二)專醫三-33 | |-----|--------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (C) 14. 一位 70 歲婦女因肺出血及血尿住院,病人過去有類風濕性關節炎 (RA)及高血壓並接受治療,住院期間發現腎功能急速惡化,肺部 穿刺檢查結果為壞死性血管炎(necrotizing vasculitis),下列何種檢 查對病人之病因有特殊之診斷結果? - (A) 紅血球沉降速度(ESR) - (B) C- 反應蛋白 (CRP) - (C) 抗中性白血球細胞質抗體(ANCA) - (D) 補體 (complement) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (B) 2. 一位 63 歲女性被家人送入急診,主訴為 4 天前開始漸進性全身無力與胃口不佳。病人為一類風濕性關節炎(rheumatoid arthritis)患者,長期於門診拿藥控制。1 週前出國旅遊,因忘記帶藥而沒繼續吃。身體診查發現病人意識尚清楚,無局部神經學症狀,血壓為 70/30 mmHg,呼吸速率為 12/min,體溫為 36.2℃,心電圖為寶狀心搏過慢(sinus bradycardia),心跳為 53/min,無明顯缺血性變化(ischemic change),糞便無潛血反應。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - 1. 自體免疫性肝炎 (Autoimmune hepatitis, AIH): - (1) 肝炎+球蛋白上升+自體免疫抗體。 - (2) 分類: - a. Type 1:Anti-smooth muscle Ab(ASMA)、ANA,有 2/3 是女性,可能合併自體 免疫甲狀腺炎、類風濕性關節炎。 - b. Type 2: Anti-liver/kidney microsome type 1 (Anti-LKM1) • - (3) 診斷:排除病毒、藥物、酒精等原因,加上 Revised Original Scoring System of the International Autoimmune Hepatitis Group 評分表(如下,Ref:AASLD 2010)。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - (4) 免疫學現象 (Immunologic phenomena): - a. 腎絲球炎(Glomerulonephritis)、類風濕性因子陽性。 - b. Roth's spots、Osler's node (指腹、疼痛、隆起;記法:痛會叫 Ouch)。 Source: [[sources/med3-book1-ch06|己、細菌性心內膜炎]].

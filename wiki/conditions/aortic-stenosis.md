@@ -15,6 +15,7 @@ sources:
   - "[[sources/med3-book1-ch24]]"
   - "[[sources/med3-book2-ch02]]"
   - "[[sources/med3-book2-ch23]]"
+  - "[[sources/med3-book3-ch07]]"
 aliases:
   - 'Aortic stenosis (主動脈瓣狹窄)'
   - 'Aortic stenosis'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med3-book1-ch24]]
 - [[sources/med3-book2-ch02]]
 - [[sources/med3-book2-ch23]]
+- [[sources/med3-book3-ch07]]
 
 ## Key Details From Sources
 
+- ...togenes) | | | | infections | Sepsis (Aspergillus fumigatus) | | | 移植後 6 個月以上 | good graft fun.: same risk of infection as the general population. | | | Divided to subgroup | poorly fun. requiring large dosages of immunosuppressants: | | | | acute and chronic opportunistic infections (e.g., P. carinii, Candida) | | Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 - Childring as the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the control of the contr Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 - ...白 | (B) 凝血酶原時間 | 醫三 -17 | | | (C) ALT 值 | (D) 膽色素 (Bilirubin) | | | | 【詳解】必背 Child-Pugh 系統 | ABCDE: Albumin, Bilirubin, as Cites, | | | | PT time Delay, Encephalopathy | 0 | | | (A) 27 | . 下列有關末期肝硬化併發肝腎症何者錯誤?何者錯誤?(A) 病人尿中的鈉含量極高(B) 病人尿液滲透壓較血漿滲透(C) 腎臟本身並無明顯的病理(D) 與導致腎血管收縮的許多問 | 變化 | 94(一)專內 2-13 | | (D) 28 | . 預防肝硬化病人食道靜脈曲張療藥物為: (A) 抗副交感神經藥物 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (A) 主動脈瓣狹窄 (Aortic stenosis) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

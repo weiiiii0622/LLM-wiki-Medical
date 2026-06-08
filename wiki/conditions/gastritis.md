@@ -9,6 +9,10 @@ sources:
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med3-book2-ch02]]"
   - "[[sources/med3-book2-ch03]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med3-book3-ch22]]"
 aliases:
   - 'Gastritis (胃炎)'
   - 'Gastritis'
@@ -23,7 +27,7 @@ tags:
 
 ## Summary
 
-胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,17 +36,23 @@ tags:
 - [[sources/med3-book2-ch04]]
 - [[sources/med3-book2-ch02]]
 - [[sources/med3-book2-ch03]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch18]]
+- [[sources/med3-book3-ch21]]
+- [[sources/med3-book3-ch22]]
 
 ## Key Details From Sources
 
+- (2) 疾病:胃炎、胃潰瘍、十二指腸潰瘍、胃癌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (2) 疾病: - a. 泌尿道感染:P pili (pyelonephritis-associated pilus) 有助於其黏附到泌尿道上皮,而 *E. coli* 也是泌尿道感染最常見的致病菌。 - b. 腸胃炎:常考下面兩隻細菌 ETEC、EHEC, 比較如下 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (2) 疾病: - a. 年輕人:偽闌尾炎 (Pseudoappendicitis)。 - b. 成人:腸胃炎,痊癒之後可能會發生反應性關節炎(Reactive arthritis)。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- ...線狀 | 核內 | 細小 DNA 病毒 (Parvovirus) | B19→感染性紅斑 (第五疾病) | | | | DNA | - 1 | 雙股線狀 | 核內 | 腺病毒 (Adenovirus) | 結膜炎(游泳池游泳), | 嬰兒腸胃炎 | | | | 二十 | 雙股環狀 | 5.7 (3.5) | | HPV →疣; Polyoma vir | us (BK, JC) | | | | 雙股線狀 核內 | | 核內 | 疱疹病毒 (Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长, Source: [[sources/med3-book3-ch18|壬、病毒學]].
+- | 部位 | 病毒株 | 疾病 | | |-----|-----------|---------------------|-------------------------------| | 呼吸道 | 7, 14, 21 | 小孩、新兵的呼吸道感染 | | | 明明基 | 3, 4, 7 | 咽結膜炎(游泳池游泳之病史) | Pharyngoconjunctivitis | | 眼睛 | 8, 19, 37 | 角結膜炎(眼科器械移除眼睛異物之病史) | Epidemic keratoconjunctivitis | | 腸胃道 | 40, 41 | 嬰兒病毒性腸胃炎 | Infantile diarrhea | Source: [[sources/med3-book3-ch18|壬、病毒學]].
+- (1) 輪狀病毒 (Rotavirus): - a. 雙股之 RNA 分段病毒。 - b. 分型: - (a) Group A: 造成幼兒腸胃炎 (infantile gastroenteritis) 主要的病毒 - (b) Group B:在中國大陸可造成成年人流行感染而致病 Source: [[sources/med3-book3-ch18|壬、病毒學]].
+- (3) 雖然週期性寒顫(因為瘧原蟲造成反覆溶血)可以提供線索,但其實瘧疾的症狀和 其他感染症不易區分,造成診斷上很大的困難。發燒、頭痛、肌肉酸痛、咳嗽等和 感冒類似,而噁心、嘔吐、腹瀉等則和腸胃炎易混淆。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
+- ...(二)臨床檢體 PCR 檢測陽性。 | | | | (三)組織切片免疫化學染色陽性。 | | | | 三、雖未符合前二項條件,但經醫師或法醫師高度懷疑者。 | | | 霍亂 | 有下列情形任一者: | 24 小時內 | | | 一、急性腸胃炎,快速的腹瀉及/或嘔吐的症狀,嚴重度因人而異。 | ~ 1.1491.1 | | | 二、糞便經實驗室培養出霍亂弧菌,且無法排除為產毒性O1或O139血清型。 | | | | 備註:如僅為病患血液、腹水等檢體檢出電亂弧菌時,得以「其他」傳染病 | | | | 進行通報,以利菌株鑑定。 | | | 德國麻疹 | 符合臨床表徵或實驗室診斷者,即可進行通報: | 24 dutter | | 12000000000000000000000000 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - (C) 急性胃炎 (acute gastritis) Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (D) 急性胃炎 (acute gastritis) Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...CO $_2$ ;為糞口傳染。侵犯部位為 Antrum 為主,非 body, 所以 parietal cell preserved $\rightarrow$ 繼續分泌胃酸。 - 目前已知與 (a) Multifocal atrophic gastritis (MAG) 有關; - (b) Diffuse antral predominant gastritis (DAG 又名 nonatropic gastritis) 有關; - (c) Mucosa associated lymphoid tissue lymphoma(MALToma)-為低惡性度 B cell lymphoma 有關→根除 HP 有 7 成以上患者可獲得緩解。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- 其中 a, b 亦被稱之 type B gastritis;Type A gastritis 為 Autoimmune gastritis $\rightarrow$ 和 H.p. 無關 H.p. 已知與胃內 hyperplastic polyp 有關;另外長期感染造成 intestinal metaplasia 也可能是後續引發胃癌的危險因子之一。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- | | 胃體炎 | 賁門部胃炎 | |---------------|--------------------------------|--------------------------------------| | | (Corpus predominant gastritis) | (Antral predominant gastritis) | | | HP 感染 (70%) 或 NSAID | HP 感染 (90%)→賁門部胃炎 (antral gastr Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- ...是由 Salmonella typhi 引起的一種全身性的疾病 (C) typhoid fever 臨床表現有 rose spots, relative tachycardia,以及肝 脾腫大 (D) salmonella 感染所引起的腸胃炎,一般是不需要抗生素的治療 【詳解】(C) Typhoid fever 特徵是 relative bradycardia。同樣會 relative bradycardia 的 感染: Brucella, Legionella, Rickettsia, Dengue fever; (D) > 65 歲免疫不佳者、Neutropenic 等須給抗生素。 (AD)27. 一位 20 歲大學生正在印度旅遊,二週來每天有 4 至 5 次腹瀉現象, Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- ...音加快,整個腹部膨脹,有些微壓痛感(tenderness), 肛門觸診在直腸處有摸到一塊稍硬的糞便。依此病人臨床表現,你 認為何種疾病最有可能? (A) 糞便阻塞 (stool impaction) (B) 軟便劑引起的腹瀉 (C) 急性腸胃炎 (acute gastroenteritis) (D) 假膜性腸炎 (pseudomembranous colitis) 【詳解】最近無服用抗生素排除假膜性陽炎; 肛門觸診在直腸處有 摸到一塊稍硬的糞便想到 stool impaction,因為糞便從硬便旁滲漏, 造成腹瀉的情形。 (A) 29. 引起急性感染性腹瀉,大便呈水狀且顯微鏡檢查看不到白血球,其 95(二)專 最可能的致病菌是: 內 1-43 (B) Salmonella s Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- (A) acute gastritis Source: [[sources/med3-book2-ch03|乙、腹痛]].
 
 ## Clinical Caveats
 

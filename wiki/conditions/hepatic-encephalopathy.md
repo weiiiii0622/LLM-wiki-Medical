@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch18]]"
+  - "[[sources/med3-book3-ch05]]"
 aliases:
   - 'Hepatic encephalopathy (肝腦病變)'
   - 'Hepatic encephalopathy'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-肝衰竭與門體分流相關神經精神症候群，常由出血、感染、便秘等誘發。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝衰竭與門體分流相關神經精神症候群，常由出血、感染、便秘等誘發。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch18]]
+- [[sources/med3-book3-ch05]]
 
 ## Key Details From Sources
 
+- | (B) 23 | B. 尿毒症病人理學檢查時,較不可能發現的為: (A) 心包摩擦音(pericardial friction rub) (B) 肝腫大 (C) 手掌撲動(asterixis) (D) 末梢神經病變 | 94(二)檢內-26 | |--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - (2) Grade 2 = Impending (嗜睡)、Asterixis (Flapping tremor)。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - #### 1. 肝腦病變 (hepatic encephalopathy): Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - ...ole and the red「spider legs」 are small veins carrying away the freely-flowing blood。 | 101(一)專醫三-11 | | (D) | 15. 下列何者不是肝腦病變(hepatic encephalopathy)的誘發因素? (A) 感染 (B) 高蛋白飲食 (C) 低血鉀 (D) 靜脈注射支鏈氨基酸(branch-chained amino acid)溶液 【 詳解 】(D) 支 鏈 胺 基 酸(Branched- chain amino acid)包 括 Valine,Leucine,Isoleucine,需要由 branched-chain aminotransferase 才能分解,由肝臟 Source: [[sources/med3-book2-ch23|戊、肝硬化]].

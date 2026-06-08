@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book3-ch02]]"
 aliases:
   - 'Beta blockers (乙型交感神經阻斷劑)'
   - 'Beta blockers'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch11]]
+- [[sources/med3-book3-ch02]]
 
 ## Key Details From Sources
 
+- (1) 細胞膜內外轉移 (Transcellular shift): - a. H+K+離子通道:酸中毒。 - b. Na $^{\scriptscriptstyle +}$ -K $^{\scriptscriptstyle +}$ ATPase 離子通道:使用 β blocker、毛地黃中毒等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...是腎上腺本身無法分泌 Aldosterone 造成的。 - (ii) Aldosterone 正常或給予 Fludrocortisone 後 TTKG 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease ACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistant to aldosterone) | | 服用利尿劑 Spironolactone服用抗生素 Trimethoprim | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (2) 手術前,先以α blocker (Phenoxybenzamine) 將血壓控制到 160/90 mmHg,之後可再加上β blocker (Propranolol)治療,較穩定後再開刀。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - ...r,以改善流汗頭痛等症狀 (C) 病人雖然血壓高低不定,仍應給予 alpha adrenergic blocker (D) 絕對禁用 calcium-channel blocker 以避免血壓變化太大 【詳解】要先 α blocker 再 β blocker,因為 β blocker 使用時可能造成周邊血管收縮導致血壓上升更高。 | 102(一)專醫三-66 | | (D) | 4. 診斷嗜鉻細胞瘤的方法中,下列何者最可靠? (A) urine VMA (B) urine catecholamine (C) plasma catecholamine (D) plasma metanephrine | 101(一)專醫三-56 | | (D) | 5. 一位 20 歲女性病人,主訴近三個月來 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - ...n | Cholinergic agonist | Metoclopramide | Protein | | LES | Motilin | α agonist | Domperidone | | | 壓力 | Substance P | β blocker | Cisapride, Baclofen | | | | | | Bethanecol, Histamine | | | 減少 | Secretin, CCK, | Anti-cholinergic agent | CCB | Fat, Chocolate | | LES | Serotonin, | α-blocker | Diazepam, Demerol, Viagra | Ethanol, | | 壓力 | Glucagon Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].

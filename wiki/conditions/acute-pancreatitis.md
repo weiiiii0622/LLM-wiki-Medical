@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch20]]"
   - "[[sources/med3-book2-ch21]]"
+  - "[[sources/med3-book3-ch02]]"
 aliases:
   - 'Acute pancreatitis (急性胰臟炎)'
   - 'Acute pancreatitis'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-急性胰臟發炎常見原因為膽石與酒精，需評估嚴重度與併發症。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性胰臟發炎常見原因為膽石與酒精，需評估嚴重度與併發症。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch20]]
 - [[sources/med3-book2-ch21]]
+- [[sources/med3-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...isphosphonates, plicamycin) | | | | Altered vitamin D metabolism (phenytoin, ketoconazole) | | | Miscellaneous causes | Acute pancreatitis | | | | Acute rhabdomyolysis | | | | Hungry bone syndrome after parathyroidectomy | | | | Osteoblastic metastases with marked stimulation of bone formation (prostate cancer) | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- | (A) | (A) 急性胰臟炎(B) 維生素 D 中毒(C) 甲狀腺功能亢進 | 101(一)專醫三-45 | |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 5. 急性胰臟炎腹部超音波的發現: - (1) Normal pancreas: Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 - (2) Acute pancreatitis - Pancreatic gland (P) is edematous and there is a fluid visible in front of the pancreas. (Black anechogenic strip marked by arrows). From other anatomical structures we see splenic vein (SV), aorta (A) and inferior vena cava (IVC). Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 - (1) Ranson criteria 大於三項: - a. 住院先檢查 (ASS 是否乳白): Age > 55, Sugar > 200, AST > 250, LDH > 350, WBC > 1 萬 6。 - b. 最初 48 小時內 (快上 BBS 告訴 CHO): Base deficit > 4, BUN 上升 > 5, Sequestration > 6 L, Ca 8 mg/dL, Hct 下降 > 10%, PaO2 60 mmHg。 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].

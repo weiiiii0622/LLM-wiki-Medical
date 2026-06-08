@@ -9,6 +9,13 @@ sources:
   - "[[sources/med3-book2-ch24]]"
   - "[[sources/med3-book2-ch19]]"
   - "[[sources/med3-book2-ch23]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch21]]"
 aliases:
   - 'Hepatitis B (B 型肝炎)'
   - 'Hepatitis B'
@@ -23,7 +30,7 @@ tags:
 
 ## Summary
 
-HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,19 +39,26 @@ HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已
 - [[sources/med3-book2-ch24]]
 - [[sources/med3-book2-ch19]]
 - [[sources/med3-book2-ch23]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch19]]
+- [[sources/med3-book3-ch22]]
+- [[sources/med3-book3-ch18]]
+- [[sources/med3-book3-ch07]]
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch21]]
 
 ## Key Details From Sources
 
-- \*記憶: (1) 目前有疫苗的只有 HAV 跟 HBV; (2) HDV 一定要在有 HBV 感染之下才會並存。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- | | Hepatitis A | Hepatitis B | Hepatitis C | Hepatitis D | Hepatitis E | |-------------|--------------|--------------|-------------|-------------|----------------| | 所屬科別 | 小 RNA 病毒 | 肝炎病毒科 | 黃質病毒科 | 不完全病毒 | 杯狀病毒科 | | 广川海州 | Picornavirus | Hepadnav Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (2) 疫苗:打三劑(0/1/6個月),台灣從1984年7月開始對 HBsAg 陽性母親的嬰兒 實施疫苗接種,於1986年7月全面實施行所有新生兒施打疫苗。目前所有的嬰兒 在出生後24小時內會接種第一劑,HBsAg 陽性母親的嬰兒再多一劑免疫球蛋白 HBIG。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- 2. 危險因子: HBV、HCV、黃麴毒素、CCl4; 肝硬化、血色素病(hemochomatosis)、威爾森氏病(Wilson's disease)、血型B(比較: 血型A 較易得胃癌, 血型B 較易得肝癌)。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (D) 3.50 歲的 B 型肝炎男性病人,肝臟內有一顆 8 公分的肝細胞癌併有肝門靜脈主幹腫瘤栓塞(main portal vein tumor thrombosis),及多處肺部轉移。病人沒有肝硬化,肝臟沒有任何失代償現象,沒有黃疸,沒有腹水。以下那一種治療最適合這位病人? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- ...c factors,且這些 factors 在不同地區和國家促成肝癌發生的重要性也 不盡相同。以下有關「地區或國家:該地區或國家最重要的 etiologic factor of HCC」的組合中,何者正確? (A) Europe & US:Hepatitis B chronic infection and Wilson's disease (B) China:Hepatitis C chronic infection and nonalcoholic steatohepatitis (C) Africa:Aflatoxin B1 and hepatitis B chronic infection (D) Taiwan:Ethanol chronic consumption and primar Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (a) HBsAg(+)表示帶原狀態, anti-HBs(+)表示有終身免疫力(s:surface); HBsAg 和肝細胞呈毛玻璃樣(ground glass hepatocyte)外觀有關。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- (b) IgM-anti-HBc(+) 表示急性感染中,IgG-anti-HBc(+) 表示曾經感染,有接觸過病毒核心 (c:core);所以若是未感染過 B 肝,而是經由疫苗產生免疫力(僅接觸過病毒外殼 s:surface)會是 anti-HBs(+)、而 anti-HBc(-);另外,血液中測不到 HBcAg。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- (c) HBeAg(+) 表示病毒正在活躍地複製,若轉為 anti-HBe(+),表示病毒沒有活躍地複製→未來產生肝硬化肝癌機率會下降。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- (A) 18. 一位婦女因為疲累應診,理學檢查顯示臉色發黃,眼白呈現黃疸, 血液檢查顯示全膽紅素(totalbilirubin)為 4.2 mg/dL,直接膽紅素為 0.8 mg/dL, AST (GOT) 105 U/L (正常 < 31), ALT (GPT) 30 U/L(正常 < 31),小便檢查顯示顏色為黃色,膽紅素陰性。則下 列何項檢查對進一步診斷最無幫助? - (A) B型肝炎抗原 (HBsAg) - (B) 乳酸去氫 (LDH) - (C) 全血球計數 (CBC) - (D) 網狀紅血球 (reticulocyte) Source: [[sources/med3-book2-ch19|乙、黃 疸]].
+- ...tain。 - ii 免疫: granular deposition of IgG、C3 along the GBM。 - iii 電顯: subepithelial deposition。 - (c) 大部分為 idiopathic,和 B型肝炎、梅毒、自體免疫疾病(SLE, RA)、實質性腫瘤(乳癌、肺癌、大腸癌)、藥物(gold、penicillamine、captopril、NSAIDs)有關。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- ...-------|------------------------------------------------------------------------------------------|--|--| | Infection | Hepatitis B and C, syphilis, malaria, schistosomiasis, leprosy, filariasis | | | | Cancer | Breast, colon, lung, stomach, kidney, esophagus, neuroblastoma | | | | Drugs | gold, mercury, penicillamine, nonsteroidal anti-inflammatory Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- ...rditis | | | | Systemic lupus erythematosus | | | | Hepatitis C±cryoglobulinemia | | | | Mixed cryoglobulinemia | | | | Hepatitis B | | | | Cancer: Lung, breast, and ovary (germinal) | | | Type II Disease | Idiopathic | | | (Dense Deposit Disease) | C 3 nephritic factor-associated | | | | Partial lipodystrophy | | | Type III Disease | Idiopathic | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- ...不到(目前用 PCR 最少可測到 20~40 copies/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者), CCR5 (考慮用 maraviroc 者)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- (1) HAV(可考慮施打,特別是男性性行為者);HBV(HBcAb, HBsAg 陰性者建議施打)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- ...steoporosis | | | | Tenofovir (TDF, TAF) | TAF 為 tenofovir | | | | 3TC, FTC, TDF, TAF 同時可治療 HIV 及 | 之 prodrug,較 | | | | HBV | TDF 副作用少 | | | | Efavirenz (EFV) → CNS (Dizziness) | | | NNRTI* | 結合 RT 而抑制 | Nevirapine (NVP) → Stevens-Johnson syn. | Rash, hepatitis, | | ININKII. | 轉錄出 DNA | Etravirine (ETR) | CYP450 inh. | | | | Rilpi virine (RP Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- ...脈瓣狹窄)。 | | | | 二、紫斑症、黃疸 (24 小時內發生 )、脾腫大、小腦症、心智發育遲緩、腦 | | | | 膜腦炎或長骨放射線透度異常。 | | | 急性病毒性 | 符合下列臨床病例定義且經實驗室診斷: | 1 週內 | | B型肝炎 | 一、臨床病例:(任一即可) | | | | (1) 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服 | | | | 等。 | | | | (2) 黃疸或 ALT 上升。 | | | | 二、實驗室:血清 B 型肝炎 IgM 核心抗體 (Anti -HBc IgM)。 | | | | 一 具家主,皿值 D 空川火 協M 核心切损 (Aut -1100 協M) | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...----| | C型肝炎 | 一、臨床病例:(符合其一即可) | | | | (1) 出現急性發作症狀: 包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服、 | | | | 黄疸等,且 Anti-HCV 陽性,ALT ≥ 100,亦排除急性 A、B 型肝炎發作。 | | | | | | | | (2) 曾檢驗血清 C 型肝炎病毒抗體 (Anti-HCV) 陰性,後轉變成 C 型肝炎 | | | | 病毒抗體陽性,且 ALT ≥ 100 (建議以一年內之 Anti-HCV 陰性轉陽 | | | | 性為宜)。 | | | e Let unbermheitet | 二、實驗室:血清 C 型肝炎抗體 (Anti -HCV) 陽性。 | | | | 符合下列臨床病例定義且經實驗室診斷: | 1週 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...| us (BK, JC) | | | | 雙股線狀 核內 | | 核內 | 疱疹病毒 (Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长,肝硬化 | | | | 複雜型 | 雙股線狀 | 細胞質 | 痘病毒 (Pox virus) | 天花, 傳染性軟疣 | | | | | 二十面體 | 單股 (+) 無分段 | 細胞質 | 小 RNA 病毒 (Picornavirus) | 小兒麻痺,克沙奇病毒 | 腸胃道感染 | | | | | 雙股分段(11) | 細胞質 | 呼腸孤病毒科 (Reov Source: [[sources/med3-book3-ch18|壬、病毒學]].
+- ...rison's internal medicine 17th) Peritransplant ( 6 months)Aspergillus · Nocardia · BK virus (polyoma) · Herpes zoster · Hepatitis B · Hepatitis C (D) 5. 下列何種腎病變在腎移植後,最少復發? 94(三)檢 (A) IgA nephropathy 內 -35 (B) Diabetic nephropathy (C) Focal Segmental glomerulosclerosis (D) Lupus nephritis Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 
 ## Clinical Caveats
 

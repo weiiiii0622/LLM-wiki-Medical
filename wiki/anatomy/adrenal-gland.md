@@ -10,6 +10,11 @@ sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch25]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch21]]"
 aliases:
   - 'Adrenal gland (腎上腺)'
   - 'Adrenal gland'
@@ -24,7 +29,7 @@ tags:
 
 ## Summary
 
-腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,19 +39,23 @@ tags:
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch25]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch21]]
 
 ## Key Details From Sources
 
-- C. 腎上腺機能低下 (Adrenal insufficiency) 213 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- F. 腎上腺偶見瘤 (Adrenal incidentaloma) 220 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...------------|---------------------------------| | H-1915 | 中胚層 | G: 11 | Glucocorticoid | Cushing's syn. | Addison's dz.Adrenal crisis | | 及質 (meso | (mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural crest) | Tyrosine | Norepinephri Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...mine,somatostatin,glucocorticoids | Dopamine | Somatostatin,IGF-1 | Glucocorticoids | | 目標器官 | 性腺 | 甲狀腺 | 乳腺 | 肝、骨骼肌肉 | 腎上腺 | | 發生作用 | Sex hormone合成、性腺發育 | T4 合成與分泌 | 泌乳 | IGF-1 製造、促進生長 | Steroid 製造 | | 正常範圍 | 參照後面 table | 0.34-4.25 uIU/mL | 0-20 ng/mL | 參照後面 table | 6-76 pg/mL | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- | 五種細胞 | 症 狀 | |-------------------|---------------------------------| | 生長激素低下 (GH ↓ ) | 小孩:身材矮小 | | | 成人:倦怠、無力、骨質疏鬆、脂肪量增多 | | 性促素低下 (FSH、LH ↓ ) | 男:不孕、性慾降低、無第二性徵 | | | 女:不孕、無月經 | | 甲促素低下 (TSH ↓ ) | 甲狀腺低能症 (Hypothyroidism) | | 皮促素低下 (ACTH ↓ ) | 腎上腺功能不足 (Adrenal insufficiency) | | 乳促素低下 (PRL ↓ ) | 女性無法泌乳 | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- (1) 針對全腦垂體低能症(Panhypopituitarism)的病患,或無法確定有無腎上腺機能低下的情形,一概先短期給予 glucocorticoid,因為短期給予 glucocorticoid 無太大的副作用,但腎上腺機能低下卻可能致命。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...ary) | | | | Ovarian tumors: Sertoli-Leydig cell tumors · Granulosa-theca | | | | cell tumors · Hilus-cell tumors | | | 腎上腺方面 | Adrenal tumors | | | | Cushing's syndrome | | | | Congenital adrenal hyperplasia (most often 21-hydroxylase | | | | deficiency) | | | 内分泌方面 | Severe insulin resistance syndromes | | | | Hyperprolactinemia | Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
-- (3) 排除其他雄性素過剩及月經不規則原因:congenital adrenal hyperplasia, androgensecreting tumors, and hyperprolactinemia。 Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
-- ...H)作用到 Sertoli cells 使其合成 testosterone (B) 血液中的 testosterone 只有 0.5%~3% 未與蛋白質接合 (C) 男性血液中的 testosterone 80% 來自於睪丸,20% 來自於腎上腺 (D) 性荷爾蒙接合球蛋白(sex hormone-binding globulin)濃度會隨 老化而減少 | 99(一)專醫三-39 | | (C) 4 | 一位 20 歲男性病人,因為第二性徵不明顯而來求診。他的身高 178 公分,體重 70 公斤,沒有鬍子、腋毛及陰毛稀少、睪丸小而硬。此病人經下列各項檢查,那一種結果最有可能? (A) FSH 值偏低 (B) Testosterone 仍在正常範圍 (C) 染色體檢查不正常 (D Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
-- ...ta$ -subunits。 | | | (D) | 10. 糖尿病病人所表現出的黎明現象(dawn phenomenon),可能和下列何種荷爾蒙的分泌有關? (A) 昇糖素(glucagon) (B) 胰島素(insulin) (C) 促腎上腺素(ACTH) (D) 生長激素(GH) 【詳解】人體荷爾蒙分泌有每日的週期性,像 GH, cortisol 都是早晨分泌量上升,而兩者都會引起血糖上升,此種現象在 DM 患者稱為黎明現象,可能會造成血糖在早上不好控制。 | 94(一)專內 2-9 | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- (A) 診斷必須排除腎上腺或甲狀腺功能不足 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...mEq/L,確立診斷方法為:(A) 24 小時小便 Catecholamine (B) plasma ACTH,Cortisol(C) plasma aldosterone / plasma renin activity ratio(D) 腎上腺電腦斷層檢查【詳解】高血壓合併低血鉀要想到醛固酮分泌過多,或是皮質性類固醇分泌過多。 | 94(一)檢內-9 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...Estrogen therapy | | | | excess | Low | 1. Primary aldosteronism (Adenoma, Hyperplasia, Carcinoma) | | | | | renin | 2. Adrenal enzyme defects (11b or 17a-Hydroxylase deficiency) | | | | | | 3. Cushing's syndrome or disease | | | | | | 4. Other(Licorice, Carbenoxolone, Chewer's tobacco) | | | | Gain-of-function mu | itation o | of renal sodium c Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- 1. 臨床疾病: - (1) 由飛沫傳染,在口咽寄生後,經由血液循環,造成腦膜炎、敗血症。 - (2) 猛爆性腦膜炎雙球菌血症(Waterhouse-Friderichsen syndrome),即雙側腎上腺出血,伴隨低血壓、出疹。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- 【詳解】(C) Waterhouse-Friderichsen syndrome 是猛爆性腦膜雙球菌 菌血症,雙側的腎上腺出血,伴隨低血壓和出疹。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (A) 可能是腎上腺腫瘤,理學檢查應該特別注意腹部的觸摸 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- (A) 1. 接受高劑量腎上腺皮質素治療的兒童,在預防接種時需避免下列何 102(二)專 種疫苗? 醫三-70 - (A) 麻疹、腮腺炎及德國麻疹(MMR)疫苗 - (B) B型肝炎疫苗 - (C) 白喉、百日咳及破傷風(DPT)疫苗 - (D) 小兒麻痺不活化病毒疫苗(沙克疫苗) Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 
 ## Clinical Caveats
 

@@ -17,6 +17,12 @@ sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch21]]"
   - "[[sources/med3-book2-ch25]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch18]]"
 aliases:
   - 'Abnormal liver function tests (肝功能異常)'
   - 'Abnormal liver function tests'
@@ -31,7 +37,7 @@ tags:
 
 ## Summary
 
-肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,19 +54,25 @@ tags:
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch21]]
 - [[sources/med3-book2-ch25]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch05]]
+- [[sources/med3-book3-ch22]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch18]]
 
 ## Key Details From Sources
 
-- a. ALT = GPT ( 1,000,較常見於病毒性肝炎、藥物性肝炎、缺血等引起的肝傷害;有時只會高到幾百,較常見於膽道阻塞、脂肪肝等 infiltrative disease。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- b. AST = GOT ( 2 時,需考慮酒精性肝炎。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- b. GGT(Cholangiocarcinoma、CBD stone、DM(高血糖會造成膽汁滯留)、Drug(如 Phenytoin、Barbiturate)、PBC、PSC、Alcohol。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- ...oma)患者抽血檢驗,下列何者正確? (A) AFP(甲型胎兒蛋白、alfa-fetoprotein)一定大於 320 ng/ml (B) 約 1/3 患者 AFP(甲型胎兒蛋白、alfa-fetoprotein)正常 (C) 肝發炎指數(AST、ALT)一定正常 (D) AFP(甲型胎兒蛋白、alfa-fetoprotein)一定正常 | 104( 二 ) 專醫三 -26 | | (B) | 12. 下列有關肝腺瘤(hepatic adenoma)之敘述,何者錯誤? (A) 肝腺瘤與使用口服避孕藥相關 (B) 確定診斷後可繼續服用避孕藥 (C) 單一腺瘤通常位於右葉肝 (D) 病理組織腺瘤係由正常形態之肝細胞增生而成 | 102(一)專醫三-16 | | (C) | 13. Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (A) 21. 許先生被診斷罹患慢性 B 型肝炎 10 多年,例行性的肝功能及超音波檢查只發現輕微脂肪肝以及輕微肝功能異常。半年前,許先生的父親被診斷罹患肝細胞癌,而且診斷時已經是肝癌末期,經過治療後於 1 個多月前過世。許先生開始擔心自己是否也可能罹患肝癌,要求主治醫師張醫師幫他進行電腦斷層掃描,雖然電腦斷層掃描只發現輕微脂肪肝,許先生還是非常擔心電腦斷層掃描沒有辦法檢查出他可能罹患的肝癌,因此進一步要求張醫師幫他安排磁振影像(MRI)檢查及血管攝影檢查。如果你是張醫師,你認為怎麼做比較合適? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (A) 22. 一位 72 歲男性患有慢性 C 型肝炎多年,超音波檢查發現有肝硬化及一顆直徑 3 公分腫瘤在右葉,且距肝臟表面 2.5 公分,血清胎兒蛋白為 2,019 ng/mL (正常值 < 20 ng/mL),患者身體狀況大致良好,電腦斷層顯示只有一顆 3 公分腫瘤,無侵犯血管。進一步肝功能檢查(AST、ALT等)數值正常,Prothrombin time 及血小板數值正常,在此狀況之初步治療計畫,下列何者最不應優先考慮? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (D) 11. 39 歲家庭主婦,住院前二年常有上腹部不適,來院前三天突然發生嚴重上腹痛伴隨嘔吐現象,在外院打針後止痛,抽血發現 ALT 超過300 U/L 而轉診住院。抽血肝生化檢查顯示:AST:1,090 U/L、ALT:1,870 U/L、bilirubin:3.2/1.8 mg/dL、ALP:286 U/L, amylase、albumin及 PT 正常。血液相顯示:WBC:12,500/cmm、seg:86%。請問:最可能診斷為何? Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
-- (A) ALT (GPT), AST (GOT) Source: [[sources/med3-book2-ch03|乙、腹痛]].
-- 【詳解】身體向前可減輕疼痛暗示為後腹腔問題,配合病人無發燒腹瀉但有喝酒病史,可懷疑是急性胰臟炎,而急性胰臟炎同時檢查肝膽指數(AST, ALT, ALK-p, rGT)是合理的,因為需排除是膽道結石造成的胰臟炎。 Source: [[sources/med3-book2-ch03|乙、腹痛]].
-- ...痛至急診室就診,身體診查顯示病人有上 103( - ) 專 腹壓痛並有輕微反彈痛(rebound tenderness),無黃疸,體溫 37.0℃。 醫三-33 血液檢查顯示: WBC: 9,800/mm3, Hb: 16.2 g/dL, ALT (GPT): 58 U/L (正常值 < 40 U/L), AST (GOT): 139 U/L (正常值 < 45 U/L), 鹼性磷酸酶 (alkaline phosphatase): 108 U/L (正常值< 100 U/L), y-glutamyltransferase (GGT): 380 U/L (正常值< 60 U/L), amylase: 785 U/L (正常值 < 190 U/L), lipase: 859 U/ Source: [[sources/med3-book2-ch03|乙、腹痛]].
+- ...位 30 歲喜好爬山的男子,無任何潛在疾病,出現不明原因發燒 7 天,於診所處方服用 Amoxicillin 無效。到急診求診,給予抽血檢查發現 WBC: 11,000/mm³,Neutrophil/lymphocyte: 55%/45%,AST: 178 U/L,ALT: 145 U/L,理學檢查有粟狀紅斑及 0.5 cm 圓形疤痕位於陰莖上(如圖),診斷最可能為何? | 100(二)專醫三-37 | | | (A) Primary syphilis (B) Scrub typhus (C) Cutaneous anthrax (D) Staphylococcus aureus infection | ·圖請見 274 頁) | | (C) | 9. 下列有關恙蟲病的敘述,何 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (A) 10. 25 歲女性病患,平時身體健康狀況良好。主訴為期約一週的發高燒、頭痛、咽喉腫痛、右腋窩淋巴腺腫(lymphadenopathy)。她在發病前一週左右,曾至台東山區旅遊。住院檢查發現右乳房下有一直徑0.5 公分大的焦痂(eschar)、血小板低下、肝功能異常。下列敘述,何者是對的? Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (#) 4. 一位 55 歲男性這兩天意識變化被送至急診處。病人一個月前診斷為 肺癌,但他拒絕任何進一步治療。家人敘述病人這個月情緒低落, 但進食情況尚可,無嘔吐或發燒。身體檢查:體溫 36.8℃,血壓 130/78 mmHg, 脈搏每分 80 次, 呼吸每分 19 次。病人對時空有錯 亂情形,以及嗜睡;其他神經學檢查無異常;右上鎖骨窩有一拇 指大的淋巴結,下肢無水腫。初步檢查血比容 42%,白血球 8,300/ mm3, 血小板 240,000/mm3; 尿液檢查正常; 尿素氮 15 mg/dL, ALT 30 U/L,血糖 156 mg/dL。血清電解質,Na+ 122,K+ 5.5,Cl- 86 (電解質單位 mmol/L)。有關此病人的可能診斷,下列那一個最 適當? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...無力至急診就醫。理學檢查血壓 128/88 | 101(二)專 | | | | mmHg,心跳 80/min,呼吸 20/min;肌力在上肢正常,但大腿的肌 | 醫三-25 | | | | 力兩側皆低下。生化檢查,BUN 19 mg/dL,AST 42 U/L,creatine | | | | | kinase 410 U/L (正常值 60~400); 電解質 (單位 mmol/L): Na 140, | | | | | K 2.3, Cl 112, Ca 2.25。對於此病人的進一步診斷,下列那個處置最 | | | | | 合適? | | | | | (A) 動脈血氣體分析 (B) 心電圖 (C) 胸部 X 光檢查 (D) 肌電圖 | | | (D) | 10. | 下列選 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- (C) 肝功能檢查 (ALT, AST) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- ...升,或 (三 )IgM 抗體陽性。 | 24 小時內 | | 急性病毒性A 型肝炎 | 符合下列臨床病例定義且經實驗室診斷: 一、臨床病例(任一即可) (1)出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服等。 (2) 黃疸或 ALT 上升。 二、實驗室: Anti-HAV IgM 檢驗陽性。 | 24 小時內 | | 腸道出血性大腸桿菌感染症 | 有下列情形任一者: 一、出現疑似症狀,如腹瀉(多為血便)、腹絞痛,可能合併溶血性尿毒症候群或栓塞性血小板減少性紫斑症等。無症狀感染也可能發生。 二、實驗室培養出 E. coli O157: NM。 | 24 小時內 | | 漢他病毒症候群 | 漢他病毒肺症候群: 符合下列三項通報條件之一者: 一、有相關流行地區旅遊史、動 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...合下列臨床病例定義且經實驗室診斷: | 1 週內 | | B型肝炎 | 一、臨床病例:(任一即可) | | | | (1) 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服 | | | | 等。 | | | | (2) 黃疸或 ALT 上升。 | | | | 二、實驗室:血清 B 型肝炎 IgM 核心抗體 (Anti -HBc IgM)。 | | | | 一 具家主,皿值 D 空川火 協M 核心切损 (Aut -1100 協M) | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...------------|---------| | C型肝炎 | 一、臨床病例:(符合其一即可) | | | | (1) 出現急性發作症狀: 包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服、 | | | | 黄疸等,且 Anti-HCV 陽性,ALT ≥ 100,亦排除急性 A、B 型肝炎發作。 | | | | | | | | (2) 曾檢驗血清 C 型肝炎病毒抗體 (Anti-HCV) 陰性,後轉變成 C 型肝炎 | | | | 病毒抗體陽性,且 ALT ≥ 100 (建議以一年內之 Anti-HCV 陰性轉陽 | | | | 性為宜)。 | | | e Let unbermheitet | 二、實驗室:血清 C 型肝炎抗體 (Anti -HCV) 陽性。 | | | | 符合下 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...eating | /L ,且 Kayexalate (sodium polystyrene | 102(二)專醫三-30 | | ( | 下列何者不是顯影劑(contr(A) 脫水(B) 糖尿病腎病變(C) 高劑量顯影劑(D) 肥胖症 | ast media)引致急性腎衰竭的危險因子? | 101(一)專醫三-48 | | ( | 下列何項在腎前腎衰竭(Pr(A) 排鈉分率(FENa)小於(B) 尿鈉大於 10 mmol/L(C) 尿比重大於 1.018(D) 出現玻璃圓柱(Hyaline | | 100(二)專醫三-6 | | 1 ( | 多年,近半年的降血壓藥物份 | | 100(二)專醫三-23 | Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- (3) 實驗室檢查: (台1022) - a. 常見血小板低下(80%)、白血球減少,尤其是淋巴球減少(90%)。 - b. 還可見肝功能異常、CRP 上升等。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

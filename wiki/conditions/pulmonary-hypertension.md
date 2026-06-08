@@ -19,6 +19,13 @@ sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch04]]"
+  - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book3-ch08]]"
+  - "[[sources/med3-book3-ch14]]"
 aliases:
   - 'Pulmonary hypertension (肺高壓)'
   - 'Pulmonary hypertension'
@@ -33,7 +40,7 @@ tags:
 
 ## Summary
 
-肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,26 +59,26 @@ tags:
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch04]]
+- [[sources/med3-book3-ch01]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch06]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch05]]
+- [[sources/med3-book3-ch08]]
+- [[sources/med3-book3-ch14]]
 
 ## Key Details From Sources
 
-- ...S ( 約 600~1,200)H igh Osmo ( = 2 Na + Glu/18 = 330~380)S tupor | Dextrose: GS (約 250~600) Ketonemia, Ketouria Acidosis: pH 3 150 mEq/L 考慮改為 Hypotonic saline (0.45%)。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- (4) 補充碳酸氫 (HCO3): 不建議常規補充,除非 shock、pH 小血管瘤 (Microaneurysms) | | [動脈瘤,出血, | →血管瘤點狀出血 (Dot and blot hemorrhage) | | 滲出物] | →血管瘤滲出物 (Hard exudates) | | PPDR | 小血管阻塞更嚴重→更大的出血點 | | (Pre-proliferative) | →神經缺血→眼底一塊白色 (Cotton-wool spots) | | [ 缺血白,靜脈擴張 ] | →靜脈擴張、串 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- (D) 7. 關於糖尿病(diabetes mellitus)之急性併發症(acute complication) 103( 二 ) 專 之敘述,下列何者錯誤? - (A) 通常糖尿病酮酸血症(diabetic ketoacidosis)比高血糖暨高渗透 壓狀態(hyperglycemic hyperosmolar state),動脈血 pH 值較低, 且一般低於 7.3 - (B) 血糖濃度在高血糖暨高渗透壓狀態時,通常較糖尿病酮酸血症 時為高,且常高於 500 mg/dL - (C) 高血糖暨高滲透壓狀態較常見於病弱之老人,而糖尿病酮酸血 症較常見於兒童 - (D) Kussmaul's 呼吸方式通常較常見於高血糖暨高滲透壓狀態時, 較少見於糖尿病酮酸血症時 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 3. 若胃鏡正常,仍懷疑 GERD,可使用 Ambulatory 24-hour ph monitoring,將 probe 放於 LES 上 5 公分監測,是目前用來定量酸暴露的最佳方法。另有一 Bernstein test -以 0.1% HCL 刺激看是否能引發相同症狀,可作為輔助。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (C) 應進一步檢查食道內之 pH 值 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (A) 9. 下列何者不是胃食道逆流疾病(gastroesophageal reflux disease, GERD) 95(二)專的檢查? 內 1-15 - (A) 分泌激素試驗 (secretin test) - (B) 食道內視鏡 (esophagoscopy) - (C) 食道酸鹼度(pH)檢查 - (D) 黏膜切片 (mucosal biopsy) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (3) H+ 可使胃體(Body)的主細胞(Chief cell)分泌的胃蛋白酶原(Pepsinogen)處在低 pH 值的環境中,而轉換成胃蛋白酶(Pepsin),進而消化、分解蛋白質。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- 【詳解】肺心症:右心室因肺高壓等肺部疾病造成其結構變化, 不包含因左心衰竭的進展而影響到右心。本題的肺水腫暗示左心 衰竭。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...? 醫三-77 (A) 頭痛 (B) 噁心、嘔吐 (C) 腹瀉 (D) 失眠 【詳解】此題(C)(D)皆給分。 (C) 2.24 歲女性患者,因意識不清被送來急診處。在吸入室內空氣時,其 107(二)專 醫三 -46 動脈血液氣體分析顯示 pH 7.12, PaCO280 mmHg, PaO245 mmHg, HCO3-28 mEq/L, BE (ECF) 0 mEq/L。其低血氧症最可能之原因為何? (A) 急性氣喘發作 (B) 慢性阻塞性肺疾併急性發作 (C) 安眠藥中毒,換氣不足 (D) 肺炎併呼吸衰竭 106(一)專 (B) 3. COPD 患者休息狀態時,動脈血已出現缺氧現象,該病患較不可能 因 COPD 而出現下列那一項呼吸生理的障礙? 醫三-46 (A) 第一秒 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- (C) 8. 一位 28 歲女性因為長時間杵狀指與肢端發紺到院求治。動脈血氣體分析為: pH 7.45, PaO2 50 mmHg, PaCO2 35 mmHg, HCO3- 24 mmol/L (未使用氧氣),血比容為 65%。給予純氧呼吸 30 分鐘後,再分析動脈血氣體結果為: pH 7.4, PaO2 195 mmHg, PaCO2 39 mmHg, HCO3- 24 mmol/L,胸部 X 光與肺功能檢驗都正常。最可能造成此病人低血氧的機制為何? Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- 1. a wave →心房(Atrium)收縮→心房收縮受到阻礙 - (1) 當心房顫動時,看不太到 a wave。 - (2) 當心房收縮受到阻礙,如三尖瓣狹窄(TS)、肺動脈狹窄(PS)、肺高壓,就會造成很大的 a wave。 - (3) 當心房收縮時,心室同時收縮,如 AV dissociation 時,會 造成 canon a wave;Regular cannon a wave 要考慮 junctional rhythm,Irregular cannon a wave 要考慮 complete AV block 或 VT。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (5) Surgical mitral commissurotomy or Mitral valve replacement: - a. 有上述禁忌無法進行 PMBV,加上嚴重肺高壓(運動 PASA > 60 mmHg)則建 議手術(Commissurotomy or Mitral valve replacement)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (D) 肺動脈高壓症 (pulmonary hypertension) Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (2) 對大部分病患,pH = 7.2~7.25、pCO $_{\!\!2}$ = 60~70 mmHg 是安全的,若太酸,可考慮加快呼吸速率。 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- 5. 呼吸器調整步驟:降 $\overline{TV}$ 、加 $\overline{PEEP}$ →降 $\overline{TV}$ 達 $\overline{Ppl}$ 7.3 - (1) 依理想體重先將 TV 降到 8 ml/kg,再加上 PEEP = 5~7 cmH2O;每 2 小時調降 TV 約 1 ml/kg,目標是 6 ml/kg。 - (2) 目標將 Ppl(Plateau pressure 氣道高原壓)控制在 7.3 或 RR = $40/\min$ ;若 pH $35/\min$ ,增加 TV 直到 pH > 7.15。 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- ...-------------| | (D) | 4. 一位 70 歲男性病人因肺炎住進加護病房,經插氣管內管,給予氧氣和呼吸器輔助呼吸後,動脈血檢查(給予 FiO 2 60%)PaO 2 = 60 mmHg,PaCO 2 = 32 mmHg,pH = 7.38,胸部 X 光片顯示兩側肺炎浸潤明顯,下列敘述和處置何者最正確? (A) 病況尚未演變成急性呼吸窘迫症候群(acute respiratory distress syndrome, ARDS) (B) 呼吸器初始設定建議給予 12 mL/kg predicted body weight,對病患較有幫助 (C) 經給予廣效性抗生素,大部分病人在 7 天內可改善,並脫離呼吸器 (D) 死亡率約在 26~44% 間,且大多非因肺 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- ...掛急診,急診檢查顯示 WBC: 15,000/μL,neutrophil/lymphocyte: 90/8%; 動脈血(room air)檢查 PaO₂ = 50 mmHg,PaCO₂ = 60 mmHg,HCO₃⁻ = 30 mEq/L,pH = 7.22; vital signs: BP 160/100 mmHg,heart rate 120/min(regular),respiratory rate 30/min,體溫:38℃;下列處置何者最適宜? - (A) 給予吸入性擴張劑 (bronchodilators)、抗生素和口服類固醇 - (B) 給予吸入性擴張劑(bronchodilators)、抗生素、口服類固醇和 氧氣 - (C) 給予吸入性擴張劑 (broncho Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
+- 1. 第一步先看 pH 值,找出異常的酸、鹼中毒: - (1) pH 7.45 為鹼:若 HCO; 高→代謝鹼; PaCO2 低→呼吸鹼。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- | 第一步先看 pH 值,找出異常 | 的酸、 | ・鹼中毒 | | |---------------------------|----------|---------------------------|------------------------| | Primary Disorder | pН | Primary change | Compensatory change | | 代謝酸 Metabolic acidosis | 1 | ↓ [HC Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...哪些問題會造成腎小管受傷? - a. Type 1 RTA (distal RTA): 自體免疫 (Sjögren syn) 造成遠段腎小管破壞→無法排 H+造成酸中毒、低血鉀; 尿中 H+ ↓→尿 NH4+ ↓ (UAG > 0)、尿 pH > 5.3 - b. Type 2 RTA (proximal RTA):蛋白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎臟留鉀留氫 - →高血鉀(一般 RTA 的酸中毒會低血鉀,只有 T Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- (D) 1. 一名 35 歲女性因夜尿(nocturia)就診,身體檢查:血壓 150/94 mmHg,脈搏 78/min,其它檢查無異常。實驗室檢驗:blood urea nitrogen 15 mg/dL,creatinine 1.0 mg/dL,空腹血糖 97 mg/dL,血鈉 142 mmol/L,血鉀 2.8 mmol/L,血氯 90 mmol/L,尿沉渣正常,尿 鉀排泄量 50 mmol/day,動脈氣體 pH 7.45,[HCO3¯] 30 mmol/L,PaCO2 44 mmHg,則本病人最可能罹患? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- (B) 4. 一位 20 歲男性因突發四肢無力至急診室就診,血壓 150/90 mmHg, 心跳 110 次 / 分鐘, 血液檢查發現: 鈉 138 mmol/L, 鉀 2.4 mmol/L, 氯 106 mmol/L, 肌酸酐 0.9 mg/dL, 滲透度 290 mOsmol/kgH2O, pH 值 7.40, 重碳酸根 23 mmol/L; 尿液檢查發現: 肌酸酐 98.5 mg/ dL,鈉 102 mmol/L,鉀 10.4 mmol/L,氦 98 mmol/L,滲透度 600 mOsmol/kgH,O。則下列敘述,何者錯誤? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...予 trimethoprim (240 mg)和 sulfamethoxazole (120 mg) 每天三次,三天後肺炎狀況穩定,但站立時血壓為 90/70 mmHg, 24 小時尿量 800 ml,檢驗如下: HCO3 Na K C1 pH Cr Osm 血 131 5.6 99 21 7.35 1.3 268 77 尿 82 18 5.1 577 造成本病人高血鉀症的最可能原因是: (A) trimethoprim 的副作用 (B) sulfamethoxazole 的副作用 (C) 病人因咳嗽吃甘草導致的副作用 - (D) 腎上腺功能不足 - (E) 巴特氏症候群(Bartter's syndrome) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ..., 2.5, 4.25 | PD 的葡萄糖濃度高愈能脱水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35-40 | 維持 pH 65~70% 為佳。 Source: [[sources/med3-book3-ch06|己、透析治療]].
+- ....5, 4.0, 25 | PD 的葡萄糖濃度高愈能脫水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35~40 | 維持 pH = 5.2~5.6 → 不易感染 | Source: [[sources/med3-book3-ch06|己、透析治療]].
+- (3) 治療方式為鹼化尿液 (讓尿中的 pH > 7.0) ,以減少色素對腎小管的毒性。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- (2) 當腎功能更差,有機酸無法排除,便會造成 anion-gap metabolic acidosis;大部分酸中毒不太嚴重(pH 很少 22 mEq/L。[Ref. Harrison ch 280] Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

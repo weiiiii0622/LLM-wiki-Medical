@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book3-ch02]]"
 aliases:
   - 'Hypothyroidism (甲狀腺低下)'
   - 'Hypothyroidism'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch11]]
+- [[sources/med3-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...pain, nausea, drugs | | | | 4. Syndrome of inappropriate AVP secretion | | | | 5. Glucocorticoid deficiency | | | | 6. Hypothyroidism | | | | 7. Chronic renal insufficiency | | | Primary Na + gain | 1. Heart failure | | | (exceeded by | 2. Hepatic cirrhosis | | | secondary water gain) | 3. Nephrotic syndrome | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- (B) 甲狀腺機能低下 (hypothyroidism) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- 【詳解】TSH 很高,代表下游的甲狀腺素分泌不足,導致上游拼命 的刺激,屬於 hypothyroidism。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 五種細胞 | 症 狀 | |-------------------|---------------------------------| | 生長激素低下 (GH ↓ ) | 小孩:身材矮小 | | | 成人:倦怠、無力、骨質疏鬆、脂肪量增多 | | 性促素低下 (FSH、LH ↓ ) | 男:不孕、性慾降低、無第二性徵 | | | 女:不孕、無月經 | | 甲促素低下 (TSH ↓ ) | 甲狀腺低能症 (Hypothyroidism) | | 皮促素低下 (ACTH ↓ ) | 腎上腺功能不足 (Adrenal insufficiency) | | 乳促素低下 (PRL ↓ ) | 女性無法泌乳 | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - ...| | | (A) 腦下腺機能低下 | 醫三 -20 | | | (B) 副甲狀腺機能低下 | | | | (C) 腎上腺機能低下 (Addison's disease) | | | | (D) 腦中風 | | | | 【詳解】低體溫先想到甲狀腺低下。 | | | | (B) 副甲狀腺與鈣離子平衡較相關。 | | | (C) | 2. 一位 25 歲年輕女性因上腹不適至胃腸科門診,服用藥物一段時間後 | 101(二)專 | | | 發生乳房腫脹及泌乳情形,她有可能服用下列何種藥物? | 醫三-19 | | | (A) antacid (B) proton pump inhibitor | | | | (C) metoclopramide | | | | (D) magnesium Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - (B) primary hypothyroidism Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

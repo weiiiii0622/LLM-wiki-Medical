@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch12]]"
   - "[[sources/med3-book2-ch08]]"
+  - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med3-book3-ch15]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med3-book1-ch21]]
 - [[sources/med3-book1-ch12]]
 - [[sources/med3-book2-ch08]]
+- [[sources/med3-book3-ch03]]
+- [[sources/med3-book3-ch15]]
 
 ## Key Details From Sources
 
+- ...性藥物 - (2) 限制:限水,低鉀、低磷及低蛋白質(0.6~0.7 g/kg/day),熱量 35~50 kcal/kg/day。 - (3) 補充:sodium bicarbonate(if $HCO_3 6 mg/dL or Ccr 200 mL, IV 會給到 500 mL/hr或更多的量。 (D) 7. 下列何種檢查結果代表病人可能有腎前性氮血症(prerenal azotemia)? 107( - ) 專 (A) blood urea nitrogen /plasma creatinine (BUN/Pcr) ratio 40 \text{ meq/L}$ (C) urine osmolality 2O (D) urine creatinine/plasma creati Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
+- ...| | (D) | 10. 一位 45 歲男性,有糖尿病及糖尿病腎病變之病史,診斷為社區型肺炎(Community-acquired pneumonia)而住院。血液檢查如下:白血球 15,200/mm³(中性白血球占 85%,淋巴球占 12%)、肌酐酸 3.5 mg/dL。對於此病患的治療,最好不要選擇使用下列那一種抗生素? (A) Moxifloxacin (B) Ceftriaxone (C) Ampicillin-Sulbactam + clarithromycin (D) Cefuroxime + Gentamicin | 100(二)專醫三-62 | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...塞 | 假性息肉 (Pseudopolyp) | | 15% Erythema nodosum (EN) | 10% Erythema nodosum (EN) | | Less Pyoderma gangrenosum (PG) | 1~12% Pyoderma gangrenosum (PG) | | ASCA (Anti-saccharomyces Cerevisiae Ab) | ANCA (Antineutrophil Cytoplasm Antibody) | | Plain film with oral contrast | 大腸鏡 | | 線狀 (fissure),爬行性潰瘍 (serpiginous) | 瀰漫性充血、融合性潰瘍 | | 鵝卵石樣 (cobbl Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - 1. 記錄肺功能的過度變異並記錄氣流受阻。 - (1) 變化越大,變化越多,愈能確認診斷為氣喘。 - (2) FEV, 低時,診斷過程至少一次,確認 FEV,/FVC減少(成年人通常>0.75~0.80)。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 2. 陽性支氣管擴張劑可逆性試驗 (禁 SABA ≥ 4, LABA ≥ 15 小時 )。 - (1) FEV, 增加> 12% 且> 200 mL。 - (2) 如果增加> 15% 且> 400 mL, 愈能確認。 Source: [[sources/med3-book1-ch15|乙、氣喘]].

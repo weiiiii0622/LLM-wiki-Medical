@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch16]]"
   - "[[sources/med3-book2-ch25]]"
   - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch08]]"
 aliases:
   - 'Pheochromocytoma (嗜鉻細胞瘤)'
   - 'Pheochromocytoma'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ tags:
 - [[sources/med3-book2-ch16]]
 - [[sources/med3-book2-ch25]]
 - [[sources/med3-book2-ch09]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch08]]
 
 ## Key Details From Sources
 
+- ...nsion) | | | | | (B) 大動脈狹窄 (coarctation of aorta) | | | | | (C) 原發性皮質醛酮過高症(primary aldosteronism) | | | | | (D) 嗜鉻性細胞瘤 (pheochromocytoma) | | | | | 【詳解】Aldosterone 會留鈉排鉀,病人會有高血壓合併低血鉀的 | | | | | 表現。 | | | (C) | 13. | 下列低血鉀之成因何者不是因鉀離子移入細胞內? | 96(二)專 | | | | (A) 代謝性鹼中毒(metabolic alkalosis) | 醫三-12 | | | | (B) 合成代謝階段(anabolic state) | | | | | (C) 庫欣氏症 (Cushi Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...0 歲男性因昨天體檢發現高血壓來就診,病人主訴 6 個月來頭暈,爬樓梯無力,身體檢查血壓 156/102 mmHg,脈搏每分 64 規則,抽血檢查 Na 145 mEq/L, K 2.3 mEq/L,確立診斷方法為:(A) 24 小時小便 Catecholamine (B) plasma ACTH,Cortisol(C) plasma aldosterone / plasma renin activity ratio(D) 腎上腺電腦斷層檢查【詳解】高血壓合併低血鉀要想到醛固酮分泌過多,或是皮質性類固醇分泌過多。 | 94(一)檢內-9 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...syndrome | | | | intake | Total parenteral nutrition | | | | Other causes | Endocrine disorders (adrenal insufficiency, pheochromocytoma, VIPoma) | | | | | Medications (thiazides, vitamin A, antiestrogens) | | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+- ...(A) Rb (B) p53 (C) VHL (D) WT-1 【詳解】此為 Von-Hippel Lindau syndrome,此疾病會有家族遺傳特性,臨床上會出現多處的 hemagioblastoma(視網膜、小腦),且可能合併有 pheochromocytoma、pancreas / renal cyst 或 renal cell carcinoma。 | 97(一)專醫三-53 | Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 - E. 嗜鉻細胞瘤 (Pheochromocytoma) 218 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - ...(mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural crest) | Tyrosine | Norepinephrine | Fileociiromocytoma | | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - 2. 病因:(排除掉醫源性 Cushing's syndrome) - (1) Cushing's disease (70%):因為腦垂體腫瘤 (Adenoma) 或增生 (Hyperplasia)。 - (2) Adrenal tumor (20%): 腎上腺腫瘤 (6 cm: Carcinoma)。 - (3) Ectopic ACTH (10%): 肺小細胞癌; 胸腺、胰臟、卵巢的類癌 (Carcinoid tumor)、甲狀腺髓質癌 (Medullary carcinoma of thyroid)、Pheochromocytoma 等。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].

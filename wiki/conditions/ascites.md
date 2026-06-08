@@ -11,6 +11,9 @@ sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch24]]"
+  - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book3-ch18]]"
 aliases:
   - 'Ascites (腹水)'
   - 'Ascites'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,16 @@ tags:
 - [[sources/med3-book2-ch08]]
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch24]]
+- [[sources/med3-book3-ch22]]
+- [[sources/med3-book3-ch06]]
+- [[sources/med3-book3-ch18]]
 
 ## Key Details From Sources
 
+- ...項以上症狀: 一、頭痛/後眼窩痛/肌肉痛/關節痛/骨頭痛。 二、出疹。 三、白血球減少(leukopenia)。 四、噁心/嘔吐。 五、血壓帶試驗陽性。 六、任一警示徵象: (一)腹部疼痛及壓痛。 (二)持續性嘔吐。 (三)臨床上體液蓄積(腹水、胸水…)。 (四)黏膜出血。 (五)嗜睡/躁動不安。 (六)肝臟腫大超出肋骨下緣2公分。 (七)血比容增加伴隨血小板急速下降。 | 24 小時內 | | 流行性腦脊髓膜炎 | 符合臨床表徵或實驗室診斷者,即可進行通報: 一、臨床表徵: 發燒、劇烈頭痛、噁心、嘔吐、頸僵直、出血性皮疹、粉紅斑,伴有譫妄、抽搐或昏迷現象者。 二、實驗室診斷: 腦脊髓液抹片檢出革蘭氏陰性雙球菌或血液、腦脊髓液中分離出革蘭氏陰性雙球菌。 | 24 小時內 | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...24 小時內 | | | 一、急性腸胃炎,快速的腹瀉及/或嘔吐的症狀,嚴重度因人而異。 | ~ 1.1491.1 | | | 二、糞便經實驗室培養出霍亂弧菌,且無法排除為產毒性O1或O139血清型。 | | | | 備註:如僅為病患血液、腹水等檢體檢出電亂弧菌時,得以「其他」傳染病 | | | | 進行通報,以利菌株鑑定。 | | | 德國麻疹 | 符合臨床表徵或實驗室診斷者,即可進行通報: | 24 dutter | | 120000000000000000000000000000000000000 | | 24 小時內 | | | 一、臨床表徵: | | | | 出現急性發作的全身斑狀丘疹 (Maculopapular rash)、耳溫或肛溫 (≥ 37.2℃), | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- (a) 診斷: Cloudy effluent, Ascites WBC > 100, Neu > 50%。 Source: [[sources/med3-book3-ch06|己、透析治療]].
+- b. 診斷:目前強調辨識登革熱重症,無須區分出血性登革熱或登革休克症候群(ref. CDC) - (a) 突發發燒≧ 38℃,伴隨頭痛/後眼窩痛/肌肉痛/關節痛/骨頭痛、出疹、白血球減少(leukopenia)、噁心/嘔吐、血壓帶試驗陽性。 - (b) 登革熱重症警示徵象:腹部疼痛及壓痛、持續性嘔吐、臨床上體液蓄積(腹水、胸水…)、黏膜出血、嗜睡/躁動不安、肝臟腫大超出肋骨下緣2公分、血比容增加伴隨血小板急速下降。 - (c) 登革熱重症診斷條件: - i. 嚴重血漿滲漏造成休克或呼吸窘迫。 - ii. 嚴重出血。 - iii. 嚴重器官損傷,如 GOT or GPT > 1,000 U/L、意識狀態改變等。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - #### A. 鑑別診斷:用 Serum ascites albumin gradient (SAAG) Source: [[sources/med3-book2-ch18|丙、腹 水]].
 - 1. SAAG > 1.1 g/dL,則為 portal hypertension related,考慮有東西阻塞 - (1) Pre-sinusoidal: Portal vein thrombosis • - (2) Sinusoidal: Cirrhosis (最常見原因,占 80%)、acute hepatitis。 - (3) Post-sinusoidal: Heart failure · Budd-Chiari syndrome · Source: [[sources/med3-book2-ch18|丙、腹 水]].
 - 2. SAAG 250 polys | > 250 polys | | | One organism | Polymicrobial | | 腹水培養、檢查 | 70% GNR (E. Coli · Klebsiella) | 腹水 Glucose 225 U/L | | 治療 | 不需抗厭氧 | 需抗厭氧 | | Ref. Harrison | 3 rd cephalosporin (Ex. Cefotaxime, | Piperacillin-tazobactam, Cefoxitin, | | Chapter 121 | Ceftriaxone), Piperacillin-tazobactam | Ampicillin+metronidazole+ciprofloxacin | Source: [[sources/med3-book2-ch18|丙、腹 水]].

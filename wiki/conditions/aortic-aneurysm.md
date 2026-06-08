@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch25]]"
+  - "[[sources/med3-book3-ch08]]"
 aliases:
   - 'Aortic aneurysm (主動脈瘤)'
   - 'Aortic aneurysm'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch25]]
+- [[sources/med3-book3-ch08]]
 
 ## Key Details From Sources
 
+- (A) 1. 一位 50 歲病人,腎超音波檢查可見兩個腎臟皆長約 15 公分,以及 非常多個大小不一的囊泡(cysts),家族中亦有人患有此病,下列 敘述何者錯誤? - (A) 大多數的病人為自體隱性 (autosomal recessive) 遺傳 - (B) 病人產生腎結石的機會較一般人高 - (C) 有些病人會出現顱內血管瘤(aneurysm),但不需所有此類病人皆作顱內血管瘤的篩檢 - (D) 若囊泡出現細菌感染, ciprofloxacin 是用藥選擇之一 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 - (C) 2. 下列那幾項敘述是正確的?①上腹痛原因不包括急性膽囊炎 ②急性 大腸憩室炎的壓痛點為 McBurney point ③急性胰臟炎容易輻射痛至 右側肩膀 ④脾臟膿瘍容易輻射痛至左側肩膀 ⑤腹主動脈瘤剝離之疼 痛可能傳導至肩膀區域 Source: [[sources/med3-book2-ch03|乙、腹痛]].
 - (B) 12. 根據多數研究資料結果顯示,老年人的腹主動脈瘤(abdominal aortic aneurysm) 最常被誤診為下列何種疾病? Source: [[sources/med3-book2-ch03|乙、腹痛]].
 - ...C-reactive protein(CRP)為 0.05 mg/dL,BUN/Creatinine 為 30/1.0 mg/dL,沒有尿液所以無法做尿液檢查。依以上的臨床表現,下列何種疾病最有可能,且需要馬上做鑑別診斷? - (A) 腹部主動脈瘤破裂 (abdominal aortic aneurysm rupture) - (B) 急性膀胱炎 (acute cystitis) - (C) 腸缺血 (mesenteric ischemia) - (D) 尿路結石 (urolithiasis) Source: [[sources/med3-book2-ch03|乙、腹痛]].

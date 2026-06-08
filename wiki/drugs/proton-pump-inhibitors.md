@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book2-ch02]]"
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch15]]"
+  - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book3-ch11]]"
 aliases:
   - 'Proton pump inhibitors, PPI (質子幫浦抑制劑)'
   - 'Proton pump inhibitors, PPI'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med3-book2-ch02]]
 - [[sources/med3-book2-ch07]]
 - [[sources/med3-book2-ch15]]
+- [[sources/med3-book3-ch07]]
+- [[sources/med3-book3-ch11]]
 
 ## Key Details From Sources
 
+- ...植後服用環孢靈(cyclosporine),下列何種藥物 98(二)專 應避免使用? 醫三-3 (A) Allopurinol (B) 紅黴素 (erythromycin) (C) 阿斯匹靈 (aspirin) (D) 氫離子幫浦抑制劑 (proton pump inhibitor) 【詳解】erythromycin 是 cytochrome P 450 CYP3A4 抑制劑,會增 加藥物濃度。 (A) 4. 腎臟移植手術一個月之內比較少見的感染為何? 97(一)專 (A) BK virus (polyoma) (B) 泌尿道感染 醫三-29 (C) oral candidiasis (D) herpesvirus 【詳解】 The Most Common Opportunistic Infections in Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
+- 1. 致病三部曲: (Harrison fig 123-2) - (1) 住院感染到 C. difficile spore:住愈久愈容易、服用 PPI 使胃酸降低無法殺死孢子也增加 risk。 - (2) 使用抗生素抑制正常細菌:包含 Clindamycin, cephalosporin, quinolone 等。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - 3. 抑制藥物: Atropine 為 M3 接受器的阻斷劑, Cimetidine 為 H2 接受器的阻斷劑, Misoprostol 為 PGE 接受器的刺激劑,皆可間接抑制胃酸分泌;Omeprazole (質子幫浦阳斷劑)則直接抑制 H+-K+ATPase 幫浦分泌。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - \* BAS = Basal acid secretion,因此 HP 感染並未一定會造成酸分泌增加,導致 GERD。 - 3. 檢查是否有幽門螺旋桿菌 (H. pylori) 感染: (停用 PPI 至少7 天較不易產生偽陰性) - (1) 侵襲性的方法:由胃鏡取出的檢體進行快速尿素檢查法 (rapid urease test)、組織病理檢查法 (histology)、組織細菌培養 (culture)等。 - (2) 非侵襲性的方法:尿素呼吸檢查(urea breath test),使用碳 -13 標記之尿素,服用 後作呼氣檢查,為最佳的非侵襲性方法,可用於確定殺菌成功與否。抽血檢驗 IgG (serology)只能知道有沒有感染 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...acid)宜與第二型組織胺拮抗劑(H 2 receptor antagonist)併用以增加療效 | 醫三-30 | | | (B) 長期服用第二型組織胺拮抗劑可能有陽痿、男性女乳症、月經失調等藥物不良反應 | | | | (C) 長期服用質子幫浦抑制劑(proton pump inhibitor)可能會增加骨質疏鬆與髖骨骨折之機會 | | | | (D) 制酸劑會抑制四環素(tetracycline)在胃腸道之吸收 | | | | 【詳解】(A) 兩者機轉不同但作用一樣,沒有併用的需要。 | | | (A) | 8. 幽門螺旋桿菌感染不會增加下列何項疾病的風險? | 105(二)專 | | | (A) reflux esophagitis | 醫三-26 | | | (B) n Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].

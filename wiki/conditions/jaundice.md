@@ -17,6 +17,13 @@ sources:
   - "[[sources/med3-book2-ch26]]"
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch18]]"
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch08]]"
+  - "[[sources/med3-book3-ch21]]"
 aliases:
   - 'Jaundice (黃疸)'
   - 'Jaundice'
@@ -31,7 +38,7 @@ tags:
 
 ## Summary
 
-黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,19 +55,26 @@ tags:
 - [[sources/med3-book2-ch26]]
 - [[sources/med3-book2-ch08]]
 - [[sources/med3-book2-ch18]]
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch18]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch22]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch08]]
+- [[sources/med3-book3-ch21]]
 
 ## Key Details From Sources
 
-- (3)治療:支持性療法。痊癒後可終身免疫。部分患者症狀輕微,體內有驗到抗體卻不 記得曾得過 A 型肝炎,另外也有急型感染導致黃疸甚至肝衰竭等嚴重的表現。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...根除病毒,且缺乏理想治療預測指標,年輕患者終身使用可能長達數十年,仍須考慮長期可能產生的抗藥性。 - a. 慢性B型肝炎帶原者且已發生肝代償不全者:以口服藥物治療為主。(肝代償不全條件為 prothrombin time 延長≥ 3 秒或 bilirubin (total) ≥ 2.0 mg/dL)。 - b. 慢性 B 型肝炎帶原者: - (a) 接受非肝臟之器官移植後, B型肝炎發作者,可長期使用。 - (b) 接受癌症化學療法中B型肝炎發作者,經照會消化系專科醫師同意後,可長期使用。 - (c) 接受肝臟移植者,可預防性使用。 - (d)接受癌症化學療法,經照會消化系專科醫師同意後,可於化學療法前1週開始給付使用,直至化學療法結束後6個月,以預防B型肝炎發作。 - (e) 確診為肝癌 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (B) 6. 45 歲女性病患來門診時,主訴疲倦(malaise),鞏膜泛黃(icteric sclera),急診檢驗資料顯示血清 albumin level:3.6 g/dL(reference value > 3.5),total bilirubin level:5.6 mg/dL(reference value 醫三-20 | | (D) | 19. 王小明,25 歲,高中入學之體檢發現有 B 型肝炎帶原,之後有定期追蹤。目前肝功能 AST 20 U/L,ALT 15 U/L,HBeAg 陽性,HBVDNA 值為 2×10 7 IU/mL。家族史方面,他的媽媽和哥哥也是 B 肝帶原者,有一位舅舅在 45 歲得到肝細胞癌。下列敘述何者錯誤?(A) 王小明 感染 B 型肝炎之最可能途 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...rythromycin)造成 intrahepatic cholestasis。理由是當敗血症等狀況使 肝臟負荷量過大時,因為 excretion 功能最耗能,所以就會最先出現問題,導致 cholestasis,而有 conjugated bilirubin 上升;另外,一些藥物引起的藥物性肝炎也 特別會使排泄膽汁的功能受損,導致 cholestasis。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
-- b. 惡性腫瘤的特徵: - (a) Courvoisier's sign = enlarged, non-tender gallbladder together with jaundice - (b) Sonography: Enlarged gallbladder, non-thickened wall Source: [[sources/med3-book2-ch19|乙、黃 疸]].
-- (1) 黄疸的生理代謝: - a. 溶血時,RBC 破掉,Hemogloblin 釋放至血中,若 Hemoglobin 由尿液排出,可 見紅棕色尿液; - b. Hemogloblin 經過脾臟分解成 Indirect bilirubin, 其為無色、脂溶性、和白蛋白緊密結合,送到肝臟; - c. 進入肝臟進行 conjugation,形成 direct bilirubin,其為褐黃色、水溶性,正常狀況下會經由膽道排到腸胃道,使糞便看起來是黃色的,但若發生膽道阻塞,則會經由腎臟排出,而尿液變看起來是深黃色的,且糞便會是白色的。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
-- ...| Cholesto | erol | | 4F (Female, Forty, Fat, Fertility),40 歲女性、懷孕、肥胖的易發生膽固醇結石,通常只有一顆且體積較大 | | | 色素結石(Pigment | Black | Bilirubin pigment polymer | 60% | 溶血性貧血、酒精性肝硬化 | | | stone) | Brown | Calcium bilirubinate | 0% | 膽汁滯留、膽道感染 | | Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
-- 4. 治療: 抗生素 (3rd cephalosporin + metronidazole), 膽囊切除術 (醫三-20 | | (C) | 9. 一位 70 歲男性因突發高燒及意識不清被送至醫院,理學檢查發現有明顯黃疸,血清總膽紅素及直接型膽紅素分別為 9.5 mg/dL 及 4.2 mg/dL,腹部超音波檢查發現有膽結石及總膽管與肝內膽管之顯著擴張,膽囊也脹大,請問應該立即為病患安排下列那一種處置最為恰當? (A) 抽血檢驗 B 型及 C 型肝炎 (B) 安排緊急外科手術治療切除膽囊 (C) 安排緊急膽道內視鏡並引流治療 (D) 肝臟切片 【詳解】症狀是急性膽管炎,最重要的治療就是抗生素和緊急減壓膽道引流。 | 97(一)專醫三-13 | | (D Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
-- (D) 11. 39 歲家庭主婦,住院前二年常有上腹部不適,來院前三天突然發生嚴重上腹痛伴隨嘔吐現象,在外院打針後止痛,抽血發現 ALT 超過300 U/L 而轉診住院。抽血肝生化檢查顯示:AST:1,090 U/L、ALT:1,870 U/L、bilirubin:3.2/1.8 mg/dL、ALP:286 U/L, amylase、albumin及 PT 正常。血液相顯示:WBC:12,500/cmm、seg:86%。請問:最可能診斷為何? Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
-- (A) 理學檢查時,應注意是否有 jaundice、ascites、spider angioma、 palmar erythema 等可能指出有 chronic liver disease 或 liver cirrhosis 的 signs Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
+- (1) 可能造成 Cholestatic jaundice, bone marrow suppression, hyperkalemia。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- (A) 2.60 歲男性,有長期菸瘾習慣,過去病史已知有40年慢性B型肝炎及8年慢性支氣管炎。本次因食慾不佳及黃疸就醫住院,診斷為慢性B型肝炎急性惡化。入院15天後突發性高燒39℃,輕微腹瀉,及呼吸困難,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- | 黃質病毒科 (Flaviv | irus) | 傳 播 | 症 狀 | |---------------|------------------------------|-----------|---------------| | 黃熱病毒 | Yellow fever virus | (埃及/白線)斑紋 | 發燒,肝炎(黃疸) | | 登革熱病毒 | Dengue virus | Aedes | 發燒,頭痛,肌肉痛,關節痛 | | 聖路易斯腦炎病毒 | St. Louis encephalitis virus | (三斑)家蚊 | 發燒,腦炎 | | 日本腦炎病毒 | Japanese encephalitis | Culex | 發燒,腦炎 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
+- (D) 3. 20 歲男性大學生,主訴持續發燒 10 天,合併頭痛、肌肉疼痛及咽喉疼痛。家人、同學或朋友無類似症狀。身體診查有頸部和鼠蹊淋巴腺腫大及軀幹皮膚有斑丘疹。周邊血白血球 4,200/mL,白血球分類:多核型球 35%、淋巴球 45%、單核球 15% 及非典型淋巴球 5%。GOT:56 U/L,GPT:60 U/L,總膽紅素(total bilirubin):1.0 mg/dL。請問最不需要選擇下列何種檢驗? Source: [[sources/med3-book3-ch18|壬、病毒學]].
+- ...汙染水及土壤,農民、礦工、資源回收工人工作時,皮膚、 黏膜傷口接觸到被汙染水及土壤而感染。台灣於 2006~2009 年的颱風大淹水,曾造 成鉤端螺旋體病群聚。 - (3) 輕則類似感冒症狀,重則導致衛氏病(Weil syndrome),有黃疸、腎炎、多器官出血。 - (4) 治療 - a. 症狀嚴重:首選藥物是高劑量 penicillin G 1.5~3MU q6h 7 days,替代藥物為 Ceftriaxone。 - b. 症狀不嚴重:可用 Doxycycline、Amoxicillin、Erythromycin等。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (A) 1.35 歲男性,家住山上,在颱風之後清掃自家附近水溝,當時注意到 107(二)專有很多死老鼠,一週後因黃疸、茶色尿及發高燒被送到急診,最可 醫三 -59 能的致病菌是: - (A) 鉤端螺旋體 (Leptospira species) - (B) 腸病毒 (enterovirus) - (C) 流感病毒 (influenza virus) - (D) 登革熱病毒 (dengue virus) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (C) 4. 八八水災造成屏東低窪地區嚴重淹水,十天後,該地區有位 50 歲男性發生急性高燒 38.5℃、頭痛、肌肉酸痛,週邊血白血球為17,000/μL, 血小板120,000/μL, GOT:150 U/L 及 GPT:162 U/L,總膽紅素(total bilirubin):4.1 mg/dL;血清肌酸酐(serum creatinine):3.2 mg/dL。下列何種抗生素為最適當之治療選擇? - (A) amikacin - (B) ciprofloxacin - (C) crystal penicillin G - (D) vancomycin Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- | 瘧疾 | 一、曾經到過瘧疾流行地區,出現不明原因發燒,以及有下列任何一種症狀:頭痛、背痛、寒顫、出汗、肌肉痛、噁心、嘔吐、下痢、咳嗽、脾腫大、黃疸、休克、肝腎衰竭、急性腦病變及昏迷等;或 二、未曾到過瘧疾流行地區,居住在病媒蚊孳生地區,醫師高度懷疑者;或 三、不論有無症狀,下列任何一種瘧原蟲檢驗為陽性者1、顯微鏡檢查。 2、特異性抗原檢驗。 3、聚合酶鏈鎖反應。 | 24 小時內 | |----------------------|--------------------------------------------------------------------------- Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...2013 | | 麻疹症候群 | 並具有第二項之任何一種缺陷者: | | | | 一、先天性白內障、先天性青光眼、色素性視網膜病變、失聰、先天性心臟 | | | | 病(常見:開放性心臟導管、肺動脈瓣狹窄)。 | | | | 二、紫斑症、黃疸 (24 小時內發生 )、脾腫大、小腦症、心智發育遲緩、腦 | | | | 膜腦炎或長骨放射線透度異常。 | | | 急性病毒性 | 符合下列臨床病例定義且經實驗室診斷: | 1 週內 | | B型肝炎 | 一、臨床病例:(任一即可) | | | | (1) 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服 | | | | 等。 | | | | (2) 黃疸或 ALT 上升。 | | | | 二、實驗室:血清 B 型肝炎 I Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...-HCV) 陽性。 | | | | 符合下列臨床病例定義且經實驗室診斷: | 1週內 | | )型肝炎 | 一、臨床病例: | | | | (1) 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服等。 | | | | (2) 黃疸或 ALT 上升。 | | | | 二、實驗室:血清 B 型肝炎表面抗原 (HBsAg) 陽性。( D 型肝炎檢驗,送疾 | | | | 病管制局確認) | | | 急性病毒性 | 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服、黃疸 | 1 週內 | | 3 型肝炎 | 或 ALT 上升且排除急性 A、B、C 型肝炎。 | | | | (E 型肝炎檢驗,送疾病管制局確認) | | | 急性病毒性 | 具有急性肝炎之症狀 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

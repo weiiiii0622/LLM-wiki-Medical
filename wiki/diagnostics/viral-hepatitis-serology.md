@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book2-ch24]]"
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch19]]"
+  - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med3-book3-ch22]]"
 aliases:
   - 'Viral hepatitis serology (病毒性肝炎血清學)'
   - 'Viral hepatitis serology'
@@ -21,16 +24,23 @@ tags:
 
 ## Summary
 
-用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch24]]
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book2-ch19]]
+- [[sources/med3-book3-ch19]]
+- [[sources/med3-book3-ch04]]
+- [[sources/med3-book3-ch22]]
 
 ## Key Details From Sources
 
+- ...不到(目前用 PCR 最少可測到 20~40 copies/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者), CCR5 (考慮用 maraviroc 者)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- (1) HAV(可考慮施打,特別是男性性行為者);HBV(HBcAb, HBsAg 陰性者建議施打)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- ...| | disease | → ANA (+)、Anti-dsDNA (+)、C3 下降 | | | | Cryoglobulinemia (冷凝球蛋白血症) | 下降 | | | → Cryoprecipitate (+)、C3 下降、Anti-HCV Ab (+) | | | | Henoch-schönlein purpura (HSP) | 正常 | | | → IgA nephropathy+systemic vasculitis (腹痛)、C3 正常 | | | 治療: 鈴 | 十對本身疾病治療,類固醇 +/- Alkylating agent (腎臟疾病) | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- ...------------------------|---------| | C型肝炎 | 一、臨床病例:(符合其一即可) | | | | (1) 出現急性發作症狀: 包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服、 | | | | 黄疸等,且 Anti-HCV 陽性,ALT ≥ 100,亦排除急性 A、B 型肝炎發作。 | | | | | | | | (2) 曾檢驗血清 C 型肝炎病毒抗體 (Anti-HCV) 陰性,後轉變成 C 型肝炎 | | | | 病毒抗體陽性,且 ALT ≥ 100 (建議以一年內之 Anti-HCV 陰性轉陽 | | | | 性為宜)。 | | | e Let unbermheitet | 二、實驗室:血清 C 型肝炎抗體 (Anti -HCV) 陽性。 | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - (a) HBsAg(+)表示帶原狀態, anti-HBs(+)表示有終身免疫力(s:surface); HBsAg 和肝細胞呈毛玻璃樣(ground glass hepatocyte)外觀有關。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - (b) IgM-anti-HBc(+) 表示急性感染中,IgG-anti-HBc(+) 表示曾經感染,有接觸過病毒核心 (c:core);所以若是未感染過 B 肝,而是經由疫苗產生免疫力(僅接觸過病毒外殼 s:surface)會是 anti-HBs(+)、而 anti-HBc(-);另外,血液中測不到 HBcAg。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - (c) HBeAg(+) 表示病毒正在活躍地複製,若轉為 anti-HBe(+),表示病毒沒有活躍地複製→未來產生肝硬化肝癌機率會下降。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].

@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch18]]"
+  - "[[sources/med3-book3-ch21]]"
 aliases:
   - 'Lung abscess (肺膿瘍)'
   - 'Lung abscess'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-肺實質壞死形成膿腔，常與吸入性病原相關。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+肺實質壞死形成膿腔，常與吸入性病原相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch18]]
+- [[sources/med3-book3-ch21]]
 
 ## Key Details From Sources
 
+- (2) 腸道外感染:阿米巴肝膿瘍、肺膿瘍、腦膿瘍、次發性阿米巴腦膜炎 - a. 腸道外、全身性的感染最常發生在肝臟。 - b. 阿米巴侵犯至黏膜下層後,可經由門脈循環,到達肝臟(肝右葉較多),形成阿米巴肝膿瘍。甚至進一步侵犯肺臟、心包膜。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - I. 肺膿瘍 (Lung abscess) 285 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - (10) 肺膿瘍:CA-MRSA,口腔厭氧菌,Aspergillus,肺結核,非典型結核。 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - #### I. 肺膿瘍 (Lung abscess) Source: [[sources/med3-book1-ch21|戊、感 染]].

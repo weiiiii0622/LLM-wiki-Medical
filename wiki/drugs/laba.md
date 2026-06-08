@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch17]]"
+  - "[[sources/med3-book3-ch15]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch17]]
+- [[sources/med3-book3-ch15]]
 
 ## Key Details From Sources
 
+- (2) Benzathine PCN 是長效、肌肉劑型的 Penicillin G,用來治療 Primary syphilis(IM 1 dose)、Secondary syphilis、Group A streptococcal pharyngitis 等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...|-------------------------------------------------------------------------------------------------------|--| | 降何時的血糖 | 長效 SUMetformin中腸效胰島素:NPH、Glargine | 短效 SU、Glinideα glucodase inhibitorGLP-1 相關 (GLP-1、DPP4 inhibitor)短效胰島素 (RI、Aspart、Lispro) | | | 對體重影響 | 增加體重 | 減輕體重 | | | | 增加胰島素 (Insulin, SU, Glinide)導致水腫 (TZD) | 針劑 GLP-1SGLT2 inhibit Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 【詳解】2018年糖尿病治療指引建議目標:飯前80~130 mg/dL, 飯後 80~160 mg/dL,目前是 AC sugar 不符標準,考慮加晚上的中 長效胰島素劑量。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - ...~120 mg/dL,飯後血糖為 218~250 mg/dL。以下敘述何者錯誤? (A) 自測空腹血糖值大多數落於治療目標範圍內 (B) HbA1C 值的升高和基礎胰島素(basal insulin)分泌不足有關 (C) 本病人可併用中效或長效胰島素治療 (D) 本病人應將治療重點放在餐後血糖調控上 【詳解】(B) 和飯後胰島素分泌不足有關。 | 97(二)專醫三-55 | |--------|----------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch09|丁、糖尿病]].

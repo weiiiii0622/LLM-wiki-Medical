@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch03]]"
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book3-ch11]]"
 aliases:
   - 'Colonoscopy (大腸鏡)'
   - 'Colonoscopy'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-評估下消化道出血、IBD、腫瘤與慢性腹瀉的重要檢查。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估下消化道出血、IBD、腫瘤與慢性腹瀉的重要檢查。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book2-ch03]]
 - [[sources/med3-book2-ch08]]
 - [[sources/med3-book2-ch11]]
+- [[sources/med3-book3-ch11]]
 
 ## Key Details From Sources
 
+- 2. 診斷:(1)+(2) - (1) 腹瀉 24 小時內 3 次且連續 2 天皆如此。 - (2) 糞便有 C. difficile toxin(+) 或 糞便培養出此菌 (+)\* 或大腸鏡觀察到典型偽膜。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - 3. 治療: Colonoscopy (electrical coagulation), Mesenteric arteriography, Segmentectomy Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - 膠囊內視鏡 capsule endoscopy:大小約 26×11 mm 為光源、微型攝影機、影像感應器與電池的組合。啟動後每秒拍攝 2 張照片,於 7~8 小時電力中,可拍攝 5~6 萬張照片,患者身上會配戴接收器接收照片,膠囊使用完畢後隨糞便排出不回收。一開始發明動機(2000 年)為補強傳統內視鏡(胃鏡、大腸鏡)較難探查的小腸部份。缺點是僅能影像探查,後續仍須用其他方式進行治療。適應症為:不明原因消化道出血、腹痛、體重減輕、貧血等,且已排除上下消化道後高度懷疑小腸病灶的可能;禁忌症為:懷疑腸道阻塞、狹窄、不蠕動(可能造成膠囊無法排出)者、懷孕、裝有心律調節器等。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (A) 如果病人解大量鮮血便(hematochezia),必為下消化道的大量 出血,要緊急安排大腸鏡 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].

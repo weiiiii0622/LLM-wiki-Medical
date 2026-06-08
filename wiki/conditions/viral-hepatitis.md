@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch24]]"
   - "[[sources/med3-book2-ch17]]"
+  - "[[sources/med3-book3-ch18]]"
 aliases:
   - 'Viral hepatitis (病毒性肝炎)'
   - 'Viral hepatitis'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-病毒性肝炎包含 HAV、HBV、HCV、HDV、HEV，臨床可急性或慢性。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+病毒性肝炎包含 HAV、HBV、HCV、HDV、HEV，臨床可急性或慢性。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch24]]
 - [[sources/med3-book2-ch17]]
+- [[sources/med3-book3-ch18]]
 
 ## Key Details From Sources
 
+- ...| | (B) 中南美洲地區 | | | | (C) 非洲地區 | | | | (D) 東南亞地區 | | | | 【詳解】二十世紀後期伊波拉熱(Ebola fever)曾發生在非洲地區。 | | | (D) | 5. 下列何者不會造成 viral hepatitis-like syndrome ? | 93(一)專 | | | (A) Infectious mononucleosis (B) Herpes simplex | À 1−3 | | | (C) Cytomegalovirus (D) Rabies virus | | | | 【詳解】(D) Rabies virus 主要出現中樞神經症狀,較少產生 | | | | hepatitis • | | | | | | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - a. ALT = GPT ( 1,000,較常見於病毒性肝炎、藥物性肝炎、缺血等引起的肝傷害;有時只會高到幾百,較常見於膽道阻塞、脂肪肝等 infiltrative disease。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - 1. 肝指數以AST、ALT升高為主,則懷疑是肝臟的問題,如病毒性肝炎、自體免疫性肝炎、 毒藥物性肝炎、脂肪肝等。 - (1) 病毒性肝炎: - a. A 型肝炎:急性期 IgM-anti-HAV(+)、曾經得過 IgG-anti-HAV(+) 可終身免疫(很常考急性期應檢驗 IgM 非 IgG)。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - 【詳解】ALT 上升為主考慮病毒性肝炎、脂肪肝, AST 上升為主考 歯洒精性肝炎。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].

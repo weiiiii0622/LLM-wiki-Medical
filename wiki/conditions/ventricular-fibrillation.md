@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch10]]"
+  - "[[sources/med3-book3-ch02]]"
 aliases:
   - 'Ventricular fibrillation (心室顫動)'
   - 'Ventricular fibrillation'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-致命心律不整，需立即去顫與急救。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+致命心律不整，需立即去顫與急救。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch10]]
+- [[sources/med3-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...T wave)PR 延長 | | K = 8-9 mEq/L | \\\\\ | P 波變平,甚至 Sinus arrestQRS 變寬 | | K > 10 mEq/L | | Sine wave Cardiac standstill Ventricular fibrillation | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (b) Ventricular fibrillation (VF): 這種心律常見於垂死的心臟,也是猝死中最常見的心律不整。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - 心室顫動 (ventricular fibrillation, VF) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - 1. 2010 年新版 BLS 步驟的 A-B-C 變為 C-A-B - (1) 舊版作法: 先打開呼吸道(A)後給予2次人工呼吸(B),接著再進行胸部按壓(C); 新版建議在人工呼吸(AB)前開始胸部按壓(C)。 - (2) 理由:經過統計,有人目擊的心臟停止中,需及早胸部按壓(C)和去顫的心室顫動或無脈搏心室心搏過速存活率最高。加上施救者常為了打開呼吸道或取得隔離裝置 進行口對口人工呼吸而延誤進行胸部按壓及電擊。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

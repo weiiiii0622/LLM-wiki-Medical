@@ -1,0 +1,60 @@
+---
+type: drug
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch20]]"
+  - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med3-book3-ch02]]"
+aliases:
+  - 'Antifungal agents (抗黴菌藥物)'
+  - 'Antifungal agents'
+  - '抗黴菌藥物'
+tags:
+  - medicine
+  - drug
+  - auto-topic-node
+---
+
+# Antifungal agents (抗黴菌藥物)
+
+## Summary
+
+抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch20]]
+- [[sources/med3-book3-ch19]]
+- [[sources/med3-book3-ch21]]
+- [[sources/med3-book3-ch02]]
+
+## Key Details From Sources
+
+- ...phrotoxicity) - (a) 常用的抗生素中,Aminoglycoside 類的腎毒性最常被提及,尤其是連續使用 5 天以上、老年人、本來腎功能就不好的病人,更容易產生腎毒性。 - (b) 需避免同時使用其他具有腎毒性的藥物,如 Amphotericin B、foscarnet、NSAID、cisplatin 等。 - b. 耳毒性 (Ototoxicity)、前庭毒性 (Vestibulotoxicity): 可能以聽覺損傷(高頻)、 耳鳴表現,但也可能以前庭受損、頭暈、步態不穩表現。 - c. 神經肌肉阻斷 (Neuromuscular block): 高劑量時, 會導致神經肌肉阻斷, 甚至造成呼吸肌癱瘓, 可用 calcium gluconate、neostigmine 回復。重 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- ...痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何種抗生素為最適當之治療選擇? - (A) ciprofloxacin - (B) fluconazole - (C) imipenem/cilastatin - (D) vancomycin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- ...則即可: | | | | 組織胞漿菌 | Histoplasmosis | | Itraconazole | | | 系統性(雙形性) | 皮炎芽生菌 | Blastomycesdermatitidis | 肺部感染,95% 沒有症狀 | Fluconazole (CNS)AmphoB (Life-threatening) | | | | 副球孢子菌 | Paracoccidioides | | | | | | 青黴菌 | Talaromyces (Penicillium) | 東南亞,AIDS 伺機感染 | | | | | | | 鴿糞/土壤→吸入肺中,通常無症狀 | 不需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluc Source: [[sources/med3-book3-ch20|子、黴菌學]].
+- 1. 淺層表皮 (Superficial infections): *M. furfur* 會造成汗斑 (Tinea vesicolor),可見皮膚脫色,大部分局部塗抹 Azole 類藥物即可痊癒;若程度嚴重、範圍較廣,可口服 Ketoconazole。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
+- 2. 表皮 (Cutaneous): 皮膚絲狀菌 (Dermatophyte) 會造成癬 (Tinea), 大部分局部 塗抹 Azole 類藥物即可痊癒;若侵犯腳掌角質較厚處、指甲,需口服 Itraconazole、Terbinafine 數週。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
+- a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- b. 若致病菌是 Fluconazole 無效的念珠菌(*C. glabrata, C. krusei*)或對 fluconazole 治療無效,可考慮用 IV Caspofungin 或 Voriconazole。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- b. 雖然隱球菌對 fluconazole 也有效,但腦膜炎—開始需用 Amphotericin B 0.7 mg/kg/d IV 及 5-flucytosine 25 mg/kg PO q6h 達 2~3 週,再改口服 fluconazole 400 mg PO qd 達 8~10 週,再繼續用 200 mg PO qd 治療至少一年。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- ...) Klebsiella pneumonia【詳解】若是細菌性的,Protein>100 mg/dL,白血球 >1,000 mL。 | | | (D) | 2. 承上題,腦脊髓液培養初步結果顯示有 yeast,下列處置何者錯誤?(A) 給 amphotericin B + flucytosine | 108(一)專醫三-65 | | | (B) 檢查 HIV screening test | | | | (C) 照胸部 X 光,抽血做黴菌培養及抗原檢測 | | | | (D) 給 echinocandin 類藥物 | | | | 【詳解】依照 candida meningitis 治療。 | | | (D) | 3. 下列何者不是瘧疾預防性藥物? | 103(二)專 | | | (A) chlo Source: [[sources/med3-book3-ch21|丑、原 蟲]].
+- (b) 血壓正常:若為腎小管本身病變,可由動脈血的酸、鹼進一步鑑別診斷。 - i. 若合併酸中毒,考慮酮酸中毒、腎小管酸中毒第二型(多發性骨髓瘤) 或部分的第一型(紅斑性狼瘡腎病變等)、使用 Amphotericin B 等。 - ii. 若合併鹼中毒,可能是使用利尿劑造成低血鉀,或其他腎小管病變,如 以下兩個狀況: Source: [[sources/med3-book3-ch02|乙、離子平衡]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- 待補。
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

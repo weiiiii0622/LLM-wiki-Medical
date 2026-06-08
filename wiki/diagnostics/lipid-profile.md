@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch25]]"
+  - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med3-book3-ch04]]"
 aliases:
   - 'Lipid profile (血脂檢查)'
   - 'Lipid profile'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch25]]
+- [[sources/med3-book3-ch06]]
+- [[sources/med3-book3-ch04]]
 
 ## Key Details From Sources
 
+- b. 腹膜透析也比血液透析常合併血脂異常,建議以 HMG CoA reductase 將 LDL 控制到 100 以下。 Source: [[sources/med3-book3-ch06|己、透析治療]].
+- ...|--------| | | (A)糖尿病病人使用腹膜透析血糖控制較不易 | 醫三-26 | | | (B) 腹膜炎發生的機率每 12 個人月 (patient-month) 發生一次是可以接受的 | | | | (C) 治療後 1 年通常三酸甘油脂會明顯上升 | | | | (D) 與血液透析比較,這些病人的血清白蛋白值通常較低 | | | | 【詳解】本題一律給分。 | | | (D) | 12. 腹膜透析病人發生腹膜炎時一般不會有那個徵象? | 98(一)專 | | | (A) 渾濁的透析液 | 醫三-25 | | | (B) 腹痛 | | | | (C) 腹膜透析流出液之白血球數 > 100 per microliter | | | | (D) 腹膜透析脫水量增加 | | Source: [[sources/med3-book3-ch06|己、透析治療]].
+- (B) 1. 一位 18 歲男性大學新生,一星期前入學體檢報告正常。三天前參加新生盃籃球比賽後關節酸痛,自行購買止痛藥(diclofenac)服用後開始出現小便泡沫與腳腫,故至門診求診。無嘔吐、腹瀉、發燒與頻尿症狀。理學檢查發現:血壓 160/90 mmHg,呼吸速率每分鐘 20下,四肢出現紅疹,雙下肢 4+ 水腫。血液檢查:尿素氮(BUN)52mg/dL、肌酸酐:2.0 mg/dL,白蛋白 1.8 g/dL,白血球 7,000/μL,血色素 10.2 g/dL,膽固醇 320 mg/dL,三酸甘油脂(triglyceride)260mg/dL。尿液檢查:紅血球 2~3 顆/HPF,白血球 3~5 顆/HPF,尿液總蛋白質與肌酸酐比值為 12 g/g Cr。下列何項為最可能的診斷? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...些 Lipoprotein 有關 | 特性 | | | |----------------------|-------------------------|----------------------------|--|--| | A-I HDL, Chylomicron | | ⊕ LCAT | | | | B-48 | Chylomicron | 腸製造,只在 Chylomicron 中 | | | | B-100 | IDL, LDL, VLDL | 肝製造,可接到 LDL receptor | | | | C-I | Chylomicrons, VLDL, HDL | ⊕ LCAT | | | | C-II | Chylomicrons, VLDL, HDL | ⊕ L Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
 - ...----------------------|--------------|-----------------|------------| | Risk | IIa Familial hypercholesterolemia (FH) | LDL | Chol ↑ ↑ | LDL R. 有問題 | | of CAD | IIb Familial combined hyperlipidemia | LDL & VLDL | Chol & TG ↑ | 和 DM、肥胖有關 | | | III Familial dysbetalipoproteinemia | IDL & Chylo. | Chol & TG ↑ | Apo E 有問題 | | No risk | I Familia Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
 - | (B) | 1. | 構成 VLDL、IDL 及 LDL 的(A) 內臟脂肪(C) 腸 | 表面蛋白 Apo B-100,由下列何者分泌?(B)肝(D)骨骼肌 | 97(一)專醫三-41 | |------|-----|------------------------------------------|-------------------------------------------|-------------| | (B) | 2. | 下列何者不是家族性膽固醇 | | 95(一)專 Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
@@ -53,12 +60,6 @@ tags:
 - Total cholesterol, LDL-cholesterol, HDL-cholesterol and triglycerides Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - | Basic testing | Fasting blood glucose* | |---------------|-----------------------------------| | | Complete blood count | | | Lipid profile | | | Serum creatinine with eGFR* | | | Serum sodium, potassium, calcium* | | | Thyroid-stimulating hormone | Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - CBC, BUN, Cr, electrolytes, Ca, Mg, fasting glucose, fasting lipid profile, urinalysis, thyroid function tests ° Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- (c) 圖中上方:在肝臟,TG 與 apolipoprotein B 100 (APOB 100) 結合進入 very low-density lipoprotein (VLDL),當 VLDL 的 TG 被 lipoprotein lipase (LPL) 水解出 FA 後,則形成 IDL、LDL。 Source: [[sources/med3-book1-ch03|乙、高血脂、動脈粥狀硬化]].
-- (b) 圖中上方:在肝臟,cholesterol 可由飲食而來,也可藉由 HMG CoA reductase 自行重新生成。肝臟的 cholesterol 與 TG 一起藉由 VLDL 到周邊利用,VLDL 中的 TG 被水解後剩下的 LDL 可將其 cholesterol 運輸到周邊細胞,或回到肝臟再利用。 Source: [[sources/med3-book1-ch03|乙、高血脂、動脈粥狀硬化]].
-- (c) HDL 的功能與 LDL 相反,是將 cholesterol 由周邊細胞帶回肝臟利用。 Source: [[sources/med3-book1-ch03|乙、高血脂、動脈粥狀硬化]].
-- b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (A) 低密度脂蛋白(LDL cholesterol) 過高 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (D) 使用 HMG-CoA reductase inhibitors 來治療血脂肪異常,可以降低低密度脂蛋白膽固醇(LDL-C)濃度及心血管風險 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

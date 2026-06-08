@@ -17,6 +17,14 @@ sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch18]]"
   - "[[sources/med3-book2-ch21]]"
+  - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med3-book3-ch09]]"
+  - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med3-book3-ch13]]"
+  - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med3-book3-ch21]]"
 aliases:
   - 'Tuberculosis (結核病)'
   - 'Tuberculosis'
@@ -31,7 +39,7 @@ tags:
 
 ## Summary
 
-分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,25 +56,27 @@ tags:
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch18]]
 - [[sources/med3-book2-ch21]]
+- [[sources/med3-book3-ch19]]
+- [[sources/med3-book3-ch09]]
+- [[sources/med3-book3-ch15]]
+- [[sources/med3-book3-ch22]]
+- [[sources/med3-book3-ch02]]
+- [[sources/med3-book3-ch13]]
+- [[sources/med3-book3-ch14]]
+- [[sources/med3-book3-ch21]]
 
 ## Key Details From Sources
 
-- ...多,甚至造成高血鈣 - b. PTH 低者考慮三個方面:高血鈣由 GI 來的(維他命 D 太多)、Bone 來的(惡性腫瘤 PTHrP)、腎臟排太少(服用 Thiazide) - (a) 服用過多 Vit. D 或 Sarcoidosis、TB 造成的肉芽腫內,其巨噬細胞會分泌 $1,25(OH)_2D$ ,刺激腸胃道吸收鈣,進而造成高血鈣;根據病因,限鈣飲食會有幫助。 - (b) 若是肺、頭頸部的 squamous cell carcinoma, 會分泌 PTHrP,溶解骨頭造成高血鈣;或乳癌骨轉移、白血病在骨髓腔內侵蝕骨頭都會造成高血鈣,反而會抑制正常的 PTH;根據病因,給予 Bisphosphonate 抑制破骨細胞會有幫助。 - (c) 甲狀腺亢進、臥床(Immob Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- ...惡性腫瘤 | 鱗狀細胞癌分泌 PTHrP、乳癌骨轉移、白血病、多發骨髓瘤 | | | | | Vit. D 過多 | 攝取 Vit. D 過多→ 25(OH)D ↑ ↑ | | | | 小里小件- | 1-2 | Sarcoidosis、TB的肉芽腫巨噬細胞分泌 1,25(OH)₂D ↑ ↑ | | | | 一一世 | 骨頭 Turnover 快 | 甲狀腺亢進、臥床 (Immobilization) 導致骨質流失→血鈣 ↑ | | | | | 其他 | Thiazide 減少尿鈣排出→血鈣 ↑ | | Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- (2) 1,25-(OH)2D: 懷疑 Sarcoidosis、TB 的肉芽腫巨噬細胞分泌過多 1,25-(OH)2D 造成高血鈣可測。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- (1) Primary: Addison's disease 指的就是腎上腺本身遭到破壞, - a. 感染:早期腎上腺急性機能低下多因結核或其他慢性肉芽腫疾病使腎上腺遭到破壞所致; - b. 自體免疫:現在腎上腺急性機能低下多是自體免疫等其他未知的因素造成 (Idiopathic atrophy)。 - c. 出血: 腎上腺出血常導致急性腎上腺機能低下; - (a) 小孩: 常因綠膿桿菌菌血症、腦膜炎球菌菌血症 (Meningococcemia、Waterhouse-Friderichsen syndrome); - (b) 成人:常因凝血機能異常導致腎上腺出血。 - d Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- (A) TB peritonitis Source: [[sources/med3-book2-ch18|丙、腹 水]].
-- (C) 13. 中年男性病人,主訴倦怠、上腹痛、噁心、嘔吐及發燒兩週住院, 血清檢驗 IHA (indirect hemagglutination) 1:512。鑑別診斷中首要 考慮的疾病為: 95(二)專 內 2-19 - (A) 愛滋病 - (B) 胰臟癌 - (C)阿米巴肝膿瘍 - (D) 肝結核 Source: [[sources/med3-book2-ch21|己、肝膿瘍]].
-- 1. 人類的結核病多由 Mycobacterium tuberculosis 引起;家畜的結核病多由 Mycobacterium bovis、avium 等引起。 Source: [[sources/med3-book1-ch19|己、結 核]].
-- 2. 結核菌的分裂速度很慢,大約每20小時分裂一次。 Source: [[sources/med3-book1-ch19|己、結 核]].
-- 3. Mycobacterium tuberculosis 外的合稱為 Nontuberculous Mycobacteria (NTM), 其在免疫 缺乏的病人身上較為重要。Mycobacterium avium complex (MAC) 包含 Mycobacterium avium, Mycobacterium avium hominis (MAH), and Mycobacterium avium paratuberculosis (MAP). Source: [[sources/med3-book1-ch19|己、結 核]].
-- ...心臟超音波 會診心臟內科放人 pig tail | | | 心也展現莖 | (Pulsus paradoxus) | 心脉起百次 | 會診心臟內科放入 pig tail | | 肋膜疼痛 | 吸氣會引發疼痛 | 胸部 X 光 | 依膿胸、結核等不同問題治療 | | 食道逆流 | 胸骨後燒灼痛 | 胃鏡 | 制酸劑 | | 肌肉骨骼 | 姿勢改變會引發痛 | 可壓到疼痛點 | Acetaminophen 或 NSAID | | 帶狀泡疹 | 單側沿皮節 (Dermatome) 分布 | 紅疹沿皮節分布 | Acyclovir | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- | 傳播方式→分布特性 | 例子→點的特性 | |------------------------------|----------------------------------| | 空氣傳播→上肺葉為主、CP angle sparing | 塵肺症 (Pneumoconiosis) →大小介於下列兩者之間 | | 而行性→下肺養与主、CP angle involving | 粟狀結核 (Miliary TB) →較細的點、均一大小 | | 血行性→下肺葉為主、CP angle involving | 肺轉移 (Metastasis)→較大、大小不一 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- 肺結核 (miliary TB):細點、均一大小 Lower lung nodules, CP angle involved Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- (10) 肺膿瘍:CA-MRSA,口腔厭氧菌,Aspergillus,肺結核,非典型結核。 Source: [[sources/med3-book1-ch21|戊、感 染]].
-- (5) Fluoroquinolone 經驗性療法有延遲肺結核的診斷及增加抗藥性的風險,在臨床已懷疑結核感染的病人應審慎評估後使用。 Source: [[sources/med3-book1-ch21|戊、感 染]].
-- ...堅實性變化 (consolidation) 合併肺葉 間隙鼓漲 (bulging interlobar fissure),此病患肺部感染的菌種最可 能為何? (B) 克雷白氏肺炎桿菌 (Klebsiella pneumoniae) (A) 結核菌 (C) 肺炎雙球菌 (D) 肺炎黴漿菌 (Mycoplasma pneumoniae) 101(一)專 (B) 15. 健康男性因社區感染肺炎住院,痰液濃稠且顯微鏡檢查顯示有許多 醫三-62 多核白血球及細胞內成對的格蘭氏陽性球菌,痰液培養結果只有正 常菌叢 (normal flora),則最可能的致病菌是下列那一項: (A) Legionella pneumophila (B) Streptococcus pneumoniae ( Source: [[sources/med3-book1-ch21|戊、感 染]].
-- | Exudate | Malignancy, TB, Empyema | 繼續以下列方法鑑別診斷 | |------------|------------------------------------|-------------| | Transudate | CHF, Cirrhosis, Nephrotic syndrome | 依照前述疾病治療 | Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
+- Mycobacterium tuberculosis, any site (pulmonarya or extrapulmonary)\* Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- \*註:由於台灣為肺結核流行區域,因此在台灣單純肺結核並非 AIDS-defined illness,須合併 CD4 99% sensitivity, 感染 1~12 週後才會陽性);只有 ELISA 陽性時,不建議在 Western blot 結果出來前先行告知病患。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- ...) 共用餐具 (D) 被愛滋病毒感染的母親哺餵母乳 | 101(二)專醫三-61 | | (D) | 12. 與愛滋病毒感染最不相關之伺機性感染為下列何者? (A) 肺囊蟲肺炎 (Pneumocystis pneumonia) (B) 肺外結核 (Extrapulmonary tuberculosis) (C) 巨細胞病毒網膜炎 (Cytomegalovirus retinitis) (D) 幽門螺旋桿菌 (Helicobacter pylori) 感染 | 100(二)專醫三-57 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
+- (2) 若 WBC、Protein 稍高,但葡萄糖減少,考慮黴菌、結核腦膜炎。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
+- (A) Cryptococcus neoformans (B) Mycobacterium tuberculosis Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
+- ...Moxifloxacin | 吸入性肺炎(可對抗厭氧菌) | | 製造有毒物質破壞 DNA | Metronic | lazole | 厭氧菌、原蟲、偽膜性大腸炎 | | 抑制 RNA polymerase | Rifampir | n 肺結核 | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- (4) Quinolones 對多重抗藥的結核菌有其角色。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- 2. 用於治療肺結核,因容易產生抗藥性,所以常和其他藥物併用。預防親密接觸 Neisseria meningitidis 患者被傳染。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- ...登革出血 | 3. 新生兒破傷風 | 3. 類鼻疽 | 3. 黃熱病 | | 症候群 | 熱/登革休克症候群 | 4. 日本腦炎 | 4. 肉毒桿菌中毒 | 4. 伊波拉病毒出血熱 | | 4. 狂犬病 | 4. 流行性腦脊髓膜 | 5. 結核病(除多重抗 | 5. 侵襲性肺炎鏈球菌 | 5. 拉薩熱 | | 5. 炭疽病 | 炎 | 藥性結核病外) | 感染症 | | | 6. H5N1 流感 | 5. 副傷寒 | 6. 漢生病 | 6. Q 熱 | | | | 6. 小兒麻痺症 (急性 | 7. 先天性德國麻疹 | 7. 地方性斑疹傷寒 | | | | 無力肢體麻痺) | 症候群 | 8. 萊姆病 | | | | 7. 桿菌性痢疾 | 8-12. 急性病毒性 | 9. 兔 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
+- ...麻疹病毒,或 | | | | (二)急性期與恢復期血清 IgG ≧ 4 倍上升,或 | | | | (三)IgM 抗體陽性。 | | | | 實驗室診斷條件:肺部檢體(如痰、肋膜液、胃洗出液、支氣管沖洗液等檢體) | 24 小時內 | | 結核病 | 結核分枝桿菌培養陽性之藥物感受性試驗顯示至少同時對 isoniazid 及 | | | | rifampicin 抗藥。 | | | 屈公病 | 有「屈公病」相關流行地區旅遊史,且有下列症狀:發燒、頭痛、噁心、嘔吐、 | 24 小時內 | | | 肌痛、出疹、關節痛者等。 | | | 西尼羅熱 | 一、有「西尼羅熱」相關流行地區旅遊史,且有下列症狀:發燒且符合下列 | 24 小時內 | | | 任一臨床表現:頭痛、關節痛、肌痛、 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

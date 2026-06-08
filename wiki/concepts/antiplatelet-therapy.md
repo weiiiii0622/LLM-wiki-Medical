@@ -13,6 +13,9 @@ sources:
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch01]]"
+  - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book3-ch18]]"
 aliases:
   - 'Antiplatelet therapy (抗血小板治療)'
   - 'Antiplatelet therapy'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-冠心症與 PCI 的核心血栓預防策略。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠心症與 PCI 的核心血栓預防策略。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,15 @@ tags:
 - [[sources/med3-book2-ch04]]
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch01]]
+- [[sources/med3-book3-ch05]]
+- [[sources/med3-book3-ch07]]
+- [[sources/med3-book3-ch18]]
 
 ## Key Details From Sources
 
+- ...--------------------------------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(chronic kidne Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
+- (AB) 3. 一位病人接受腎移植後服用環孢靈(cyclosporine),下列何種藥物 98(二)專 應避免使用? 醫三-3 (A) Allopurinol (B) 紅黴素 (erythromycin) (C) 阿斯匹靈 (aspirin) (D) 氫離子幫浦抑制劑 (proton pump inhibitor) 【詳解】erythromycin 是 cytochrome P 450 CYP3A4 抑制劑,會增 加藥物濃度。 (A) 4. 腎臟移植手術一個月之內比較少見的感染為何? 97(一)專 (A) BK virus (polyoma) (B) 泌尿道感染 醫三-29 (C) oral candidiasis (D) herpesvirus 【詳解】 The Mos Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
+- ...,何者錯誤? (A) 肺炎是最常見的併發症,包含原發性流行性感冒病毒肺炎、細菌性肺炎及二者的混合型 (B) 大人感冒且服用 acetaminophen 可能併發雷氏症候群(Reye's syndrome) (C) 幼兒罹患流行性感冒且服用 aspirin 可能併發雷氏症候群(C) 心肌炎、横紋肌溶解、腦炎及 Guillain-Barre syndrome,都是流行性感冒可能出現的併發症 | 94(一)專內1-44 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - (1) Aspirin 腸胃毒性強、無心臟毒性。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - 3. NSAID 與腸胃道毒性: - (1) 胃腸出血的風險為aspirin > ketolac、indomethacin > naproxen、diclofenac > ibuprofen。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...論 | |--------------------|--------------------|----------------|----------------|---------------------| | Salicylates | Aspirin | Higher | No | Aspirin 腸胃毒性強、無心臟毒性 | | Coxibs | Celecoxib | No | Higher | Coxib 心臟毒性強、無腸胃毒性 | | Propionic acid | Naproxen | 2 Intermediate | 3 Lower | Naproxen 最不傷心 | | To a second second | Ibuprofen | 3 Lower | 2 Inte Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
@@ -55,10 +64,6 @@ tags:
 - (2) 對 aspirin sensitive asthma 特別有效。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 1. Aspirin induced asthma: Aspirin 及一些 NSAID 也會造成氣喘,通常由 perennial vasomotor rhinitis 開始,再產生 nasal polyp,最後造成氣喘。用 Leukotriene modifier 效果好。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - (B) 14. 一位 46 歲女性 Asthma 病患,平日使用 MDI combination therapy 控制,每個星期仍會有一次至二次的發作。本次因為壓力型頭痛(tension headache)在開業醫師處就診,醫師給予 Aspirin,病人服用後發生臉部潮紅、流鼻水及呼吸困難加劇的症狀。下列敘述何者錯誤? Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- (D) 4.56 歲女性因三週前出現胸痛而診斷急性心肌梗塞,接受了血栓溶解劑治療後出院。最近二天因為覺得很喘經由門診住院。病人表示她很規則地服用醫師開立的藥物,包含 atorvastatin,lisinopril,metoprolol,aspirin。身體診察血壓 100/45 毫米汞柱,心跳每分鐘46 次,雙側肺部有囉音(bilateral crackles),頸靜脈怒張,雙側下肢水腫,沒有出現新的心雜音或奔馬音(gallop)。心電圖有竇性心搏過緩,呈現近期的心肌梗塞,但沒有出現新的變化。下列處置何者正確? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- | 分數 | 風險 | 用藥 | 備 註 | |-------|----------|---------------|----------------------------------------------| | 0 | Low | Aspirin | Aspirin daily | | 1~2 | Moderate | Aspirin | Aspirin daily or raise INR to 2.0-3.0 | | 1~2 | Moderate | 或 Warfarin | (若有 Prior Stroke or TIA,建議選擇 Warfarin) | | 3~6 H | High | High Warfarin | Raise INR to 2.0-3.0, unle Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (D) 使用 Aspirin 預防腦中風尚未定論 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- 【詳解】根據(麻 1-23),MVP 的治療分三項:(1) 若有 audible murmur 或 thickened leaflets 需給予心內膜炎防治處置,(2) 若之前有 neurologic event 需給予 aspirin 或 anticoagulant,(3) 若有症狀可給予 ß blocker。所以(B) 錯。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 
 ## Clinical Caveats
 

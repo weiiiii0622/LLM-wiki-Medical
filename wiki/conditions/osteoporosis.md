@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch11]]"
+  - "[[sources/med3-book3-ch07]]"
+  - "[[sources/med3-book3-ch19]]"
 aliases:
   - 'Osteoporosis (骨質疏鬆症)'
   - 'Osteoporosis'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med3-book2-ch04]]
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book2-ch11]]
+- [[sources/med3-book3-ch07]]
+- [[sources/med3-book3-ch19]]
 
 ## Key Details From Sources
 
+- ...------------------------------------------------------| | Corticosteroid | Hyperglycemia, hypertension, hyperlipidemia, osteoporosis, osteonecrosis, myopathy, cosmetic defect (e.g. buffalo hump), growth suppression in child | | Cyclosporin (CsA) | Glucose intolerance, hypertension, nephrotoxicity | | Tacrolimus (FK506) | Glucose intolerance (diabetes Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
+- ...B5701) | function | | INKII | 的病毒 DNA | Lami vudine (3TC) | impairement, | | | | Emtricitabine (FTC, 為 3TC 之 prodrug) | osteoporosis | | | | Tenofovir (TDF, TAF) | TAF 為 tenofovir | | | | 3TC, FTC, TDF, TAF 同時可治療 HIV 及 | 之 prodrug,較 | | | | HBV | TDF 副作用少 | | | | Efavirenz (EFV) → CNS (Dizziness) | | | NNRTI* | 結合 RT 而抑制 | Nevirapine (NVP) → Stevens- Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - E. 骨質疏鬆症 (Osteoporosis) 260 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - 1. 副甲狀腺素 (PTH): [重點:低鈣時→副甲狀腺被刺激→溶解骨頭以升鈣] - (1) 要先知道骨頭是由磷酸鈣構成,要升鈣,先從骨頭搬出磷、鈣,再將磷由腎臟排出、 且抑制鈣由腎排泄,因而藉此升鈣;否則溶解出磷、鈣後,不將磷由腎臟排出,又 會等比例沉澱回骨頭。 - (2) 因此生理上的 PTH 除了會促進骨溶蝕出鈣、磷,還會抑制腎排鈣、促進腎排磷,造成高血鈣、低血磷; - (3) 副甲狀腺亢進時分泌的 PTH 劑量較大、且持續分泌,因而促進骨溶蝕造成高血鈣、 骨質疏鬆;但若較小劑量、脈衝方式分泌的 PTH,反而會促進成骨作用,例如用來 治療嚴重骨鬆症的每天皮下一針 PTH。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - #### E. 骨質疏鬆症 (Osteoporosis) Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].

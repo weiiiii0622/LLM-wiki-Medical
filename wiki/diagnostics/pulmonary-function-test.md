@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch21]]"
+  - "[[sources/med3-book3-ch06]]"
 aliases:
   - 'Pulmonary function test, PFT (肺功能檢查)'
   - 'Pulmonary function test, PFT'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-區分阻塞型、限制型與擴散障礙。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch21]]
+- [[sources/med3-book3-ch06]]
 
 ## Key Details From Sources
 
+- 3. 不適合使用腹膜透析的情況: - (1) 自己不能操作又無人協助者,衛生習慣不佳。 - (2) 腹膜開過刀、沾黏。 - (3) 腰脊骨病併發慢性疼痛者。 - (4) 慢性肺疾,肺功能減低者(因透析中腹膜腔內都是透析液會對橫膈造成壓迫)。 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - A. 定 義:肺功能檢查有不可逆的氣道阻塞證據,post bronchodilator FEV1/FVC 3月/1年*2年 | 病理上:小氣道擴張,肺泡壁破壞 | | حلالتك | Severe hypoxemia, Hypercapnia, V/Q mismatch | Mild hypoxemia | | 症狀 | Pul. HTN, Cor pulmonale (EKG: RVH) | DLCO ↓ | | 呼吸音 | Wheezing | Di Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - ...-------------|----------------------| | | | -7 | 急性惡化病史 | | | | 支氣管擴張試驗後 | FE | V1 (預測值%) | ≧ 1 次急性惡化需住院 | | 111212 | | FEV 1 /FVC全 2 次急性惡化但未導致住院 | CD | D | | | GOLD 2 | 50-79 | | | | | | GOLD 3 | 30-49 | | | | | | GOLD 4 | CAT CAT ≥ 10 | Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - 1. FEV1/FVC 1% predicted 用於嚴重度分級。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].

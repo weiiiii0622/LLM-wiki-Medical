@@ -5,6 +5,8 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch17]]"
+  - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med3-book3-ch22]]"
 aliases:
   - 'Hepatitis D (D 型肝炎)'
   - 'Hepatitis D'
@@ -19,14 +21,18 @@ tags:
 
 ## Summary
 
-HDV 需依賴 HBV，可造成 coinfection 或 superinfection。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HDV 需依賴 HBV，可造成 coinfection 或 superinfection。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch17]]
+- [[sources/med3-book3-ch18]]
+- [[sources/med3-book3-ch22]]
 
 ## Key Details From Sources
 
+- | 病毒株 | 疾病 | produced in Children operancy and | |------------|------|---------------------------------------------| | HPV 1, 2 | 皮膚疣 | Skin warts | | HPV 1, 4 | 足底疣 | Plantar wart | | HDV C 11 | 生殖器疣 | Anogenital papilloma (Condyloma acuminatum) | | HPV 6, 11 | 喉疣 | Laryngeal papilloma | | HPV 16, 18 | 子宮頸癌 | Cervical intraepithelial neoplasia (CIN) | Source: [[sources/med3-book3-ch18|壬、病毒學]].
+- ...| 一、臨床病例: | | | | (1) 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服等。 | | | | (2) 黃疸或 ALT 上升。 | | | | 二、實驗室:血清 B 型肝炎表面抗原 (HBsAg) 陽性。( D 型肝炎檢驗,送疾 | | | | 病管制局確認) | | | 急性病毒性 | 出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服、黃疸 | 1 週內 | | 3 型肝炎 | 或 ALT 上升且排除急性 A、B、C 型肝炎。 | | | | (E 型肝炎檢驗,送疾病管制局確認) | | | 急性病毒性 | 具有急性肝炎之症狀 (如黃疸、茶色尿、疲倦、腹痛、胃口差、噁心、嘔吐) | 1 週內 | | 肝炎未定型 | 及血清轉胺酶值上升 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - \*記憶: (1) 目前有疫苗的只有 HAV 跟 HBV; (2) HDV 一定要在有 HBV 感染之下才會並存。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - | | Hepatitis A | Hepatitis B | Hepatitis C | Hepatitis D | Hepatitis E | |-------------|--------------|--------------|-------------|-------------|----------------| | 所屬科別 | 小 RNA 病毒 | 肝炎病毒科 | 黃質病毒科 | 不完全病毒 | 杯狀病毒科 | | 广川海州 | Picornavirus | Hepadnavirus | Flavivirus | Defectiv Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - (D) 1. 下列有關 HDV 的描述,何者錯誤? Source: [[sources/med3-book2-ch17|丁、肝 炎]].
