@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Folate deficiency (葉酸缺乏)'
   - 'Folate deficiency'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...---------------------------------------------------------------------------| | Neonates ( 35 years) | CVA, Brain tumor, Alcohol withdrawal Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - II. 酒精 (Alcohol) 109 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - III. 安非他命 (Alcohol) 112 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - #### II. 酒精 (Alcohol) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].

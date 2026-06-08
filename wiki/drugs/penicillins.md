@@ -26,6 +26,7 @@ sources:
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch04]]"
 aliases:
   - 'Penicillins (青黴素類)'
   - 'Penicillins'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性反應有助於診斷 | | | | (D)治療方法為經肌肉注射盤尼西林(penicillin)每週一次共三次 | | | | 【詳解】本題答 (A)、(D) 給分。 | | | (D) | 9. 變異型庫賈氏病(variant Creutzfeldt-Jakob disease, vCJD)和散發 | 106(一)專 | | | 型庫賈氏病(sporadic Creutzfeldt-Jakob disease, sCJD)的差異, | 醫四 -57 | | | 下列敘述何者錯誤? | | | | (A) vCJD 的病程比 s Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ...的癲癇較常出現攻擊性行為? (A) 顳葉 (B) 頂葉 (C) 枕葉 (D) 基底核 | 103( 一 ) 專醫四 -70 | | (B) 31. | 下列關於神經性梅毒(neurosyphilis)之敘述,何者錯誤? (A) 在盤尼希林(penicillin)發明後,神經性梅毒較少發生,但自愛滋病出現以來,神經性梅毒再度受到醫學界之重視 (B) 神經性梅毒對腦部之影響主要是顳葉,所以會產生類似精神分裂症患者之幻聽與妄想 (C) 其腦脊髓液有淋巴球增多(lymphocytosis)及較多之蛋白質 (D) 神經性梅毒通常在感染梅毒螺旋菌 10 至 15 年後發生 【詳解】神經性梅毒對腦部之影響主要是額葉(frontal lobe)。 | 102(二)專醫四-70 | | (B) 32. | 將 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (B) high dose penicillin G Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -86,7 +89,6 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - ...,其它臨床表現會有腹部不適、黃疸、紅血球或血紅素降低及血色素尿(hemoglobinuria),但不會有血小板低下,因此 (B) 的機會不大。感染性單核球增生症臨床表現為發燒、淋巴結腫大、肝脾腫大、肝功能異常、黃疸、上眼皮浮腫、給予藥物後(amoxicillin)會出現皮膚紅疹。但本題內容敘述與感染性單核球增生症臨床表現不符合,故不與考慮。考慮以上疾病臨床表現,故 (D) 較適合。(Burr cell 的 臨 床 意 義:renal insufficiency(uremia),sever dehydration,burns, and pyruvate kinase deficiency;Fragmented RBC 臨床意義:DIC、TTP、hemolysis.)。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...\ thyroid deficiency \ | | | | 或是活性降低 | pyruvate kinase deficiency. | | | | 與代謝酵素競爭或是阻 | Sulfonamide · nitrofurantoin · penicillin | | | | 斷代謝酵素 | | | | | 肝細胞對膽色素吸收代 | Crigler-Najjar syndrome · Gilbert syndrome · Lucey-Driscoll | | | | 謝所需的酵素功能降低 | syndrome Novobicin. | | | | 或缺乏 | | | | Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 1. 原因:藥物(Penicillin、Sulfonamide),食物(甲殼類、花生、蛋),叮咬(膜翅類昆蟲),放射線顯影劑等過敏原與肥胖細胞(mast cell)上的 IgE 抗體結合,導致肥胖細胞釋出大量 histamine,進而造成下列症狀。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- (A) 9. 下列有關過敏性休克(anaphylaxis)的敘述,何者錯誤?(A) 只有注射藥物或昆蟲叮咬才會產生 - (B) 是經由過敏原與肥胖細胞 (mast cell) 上的 IgE 抗體結合所導致 - (C) 儘快給病人施打 epinephrine,可緩解大部分症狀 - (D) 盤尼西林 (penicillin) 過敏者,若打頭孢子菌素 (cephalosporin) 仍有部分病患可能過敏 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 
 ## Clinical Caveats
 

@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Measles (麻疹)'
   - 'Measles'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-高度傳染性病毒感染，表現發燒、咳嗽、結膜炎、Koplik spots 與全身斑丘疹。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高度傳染性病毒感染，表現發燒、咳嗽、結膜炎、Koplik spots 與全身斑丘疹。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch06]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- | 致病原 | 疾病 | 腦電波 (EEG) 特徵 | | |-----------------------|----------------------------|---------------------|-------| | 感染性蛋白 (Prion protein) | 庫賈氏病 (CJD) | Periodic complex of | 1S | | 疱疹病毒 (Herpes virus) | 疱疹腦炎 (Herpes encephalitis) | spike or slow wave | 2S | | 麻疹病毒 (Measles virus) | 亞急性硬化性廣泛性腦炎 (SSPE) | at intervals of | 3~20S | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- 【詳解】(B) SSPE 最常由 measles 引發。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 補充:於二十世紀初,為方便辨別而將好發於孩童的皮膚疹予以編號,總共編了六號: - First disease 為麻疹 (Measles)。 - Second disease 為猩紅熱 (Scarlet fever)。 - Third disease 為德國麻疹(Rubella)。 - Fourth disease 為 Filatow-Dukes' disease,該病目前已除名,此病為某些會長疹子的疾病之共同表現。 - Fifth disease 為傳染性紅斑(Erythema infectiosum)。 - Sixth disease 為嬰兒玫瑰疹(Roseola infantum)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - # A. 蕁麻疹 (Urticaria) 和血管神經性水腫 (Angioedema) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 1. 蕁麻疹是指皮膚上出現一塊塊的膨疹(wheal),非常癢,有如蚊子叮咬的腫塊,為皮膚表淺血管擴張,通透性增加與水腫所形成,大多會在一天內消去,但易反覆發生,由於來去如風,俗稱「風疹」。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -56,9 +63,6 @@ tags:
 - (C) 3.10個月大的男嬰發燒和皮疹已2天。過去健康狀況良好,家人沒 107(二)專有生病。此男嬰精神好,身體診察發現口腔黏膜有潰瘍,頭皮、 醫四-4 臉部、耳朵和軀幹有水泡,部分水泡中央凹陷呈肚臍狀。最可能的診斷是: - (A) 手足口症 (Hand-foot-and-mouth disease) - (B) 猩紅熱 (Scarlet fever) - (C) 水痘(Varicella) - (D) 麻疹 (Measles) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 3. 危險因子:早產兒、女性、高海拔出生的嬰兒、周產期缺氧、母親懷孕期間感染德國麻疹。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 感染性疾病: - a. 病毒性:麻疹、EB virus、adenovirus 等。 - b. 細菌性:猩紅熱、toxic shock syndrome 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 急性期:開始發病起經過14天之內。 - a. IVIG: 2 g/kg over 10~12 hr。使用高劑量 IVIG(≥ 1g/kg)治療時,宜間隔11 個月後再接種日本腦炎、麻疹、MMR 或水痘疫苗。。 - b. Aspirin:80~100 mg/kg/24 hr,每6小時給藥一次直到發病後14天或燒退為止。 高劑量 aspirin 使用目的是為了抗發炎反應。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】由腦室周圍鈣化、聽力篩檢異常兩個線索告訴我們病人有 congenital cytomegalovirus, infection,故選 (D)。(A) 的特殊表現為胎兒水腫與貧血。(B) 雖然有耳聾的表現,但是在其他神經學方面表現異常為小頭症、智能障礙、癲癇等,在腦部超音波檢查未有腦室周邊鈣化或是腦室擴大。此外,先天性德國麻疹感染其他特殊的表現有視網膜病變、白內障以及肺動脈狹窄。(C) 在神經學上的表現為腦炎、小頭症、智能障礙。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 105(一)專 (D) 6. 下列何者不是造成新生兒先天性感染之重要病原體? 醫四 -5 (A) 巨細胞病毒 (B) 梅毒螺旋體 (C) 弓蟲症 (D) 麻疹病毒 (B) 7. 造成早發性(early-onset)新生兒感染的細菌中,最常見的格蘭 105(一)專 醫四 -7 氏陽性菌為: (A) 金黃色葡萄球菌 (B) B 群鏈球菌 (C) 肺炎雙球菌 (D) 大腸桿菌 (D) 8. 下列那一種病原最不常發生母子之間的垂直感染? 101(一)專 醫四-1 (A) Cytomegalovirus (B) Syphilis (C) Rubella (D) Epstein-Barr virus 【詳解】(A)(B)(C) 均為先天性感染中常見的病原體,(D) 反而 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

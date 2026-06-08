@@ -17,6 +17,9 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Aortic aneurysm (主動脈瘤)'
   - 'Aortic aneurysm'
@@ -31,7 +34,7 @@ tags:
 
 ## Summary
 
-主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +51,17 @@ tags:
 - [[sources/med3-book4-ch04]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book4-ch05]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...roke) 的分類 | ICH (15)出血性 (20)SAH (5) | HTN | 15%×50% | | | | | ICH (15) | Amyloid angiopathy | 15%×30% | | | | CATI(E) | Aneurysm | 5%×75% | | | | SAII (5) | AVM | 5%×5% | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (B) 35. 一位 65 歲男性,突發性頭暈、嘔吐、口齒不清且吞嚥困難。身 99( 二 ) 專 體檢查發現左側瞳孔較小且眼瞼下垂。請問最可能的病因是: 醫四 -58 - (A) 左側後交通動脈之動脈瘤破裂(posterior communicating artery aneurysm rupture) - (B) 左側後下小腦動脈阻塞 (posterior inferior cerebellar artery occlusion) - (C) 左側豆紋狀動脈阻塞(lenticulostriate artery occlusion) - (D) 左側中大腦動脈阻塞 (middle cerebral artery occlusion) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- 3. 較大血管的出血(SAH)常因動脈瘤破裂導致,較小血管的出血(ICH)常因高血 壓造成的 Charcot-Bouchard's aneurysm 或腦類澱粉樣血管病變導致。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- ...經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ischemic type) - (D) 海綿靜脈竇徵候群 (cavernous sinus syndrome) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (C) 3.40 歲男性,自2個月前開始有漸進性的右側耳鳴,此耳鳴與脈搏 108(二)專 頻率相近,夜間會較大聲且影響其睡眠,並有右側耳後枕部頭 醫四-44 痛。最可能的診斷為何? - (A) 腦內動靜脈畸形 (arteriovenous malformation) - (B) 硬腦膜靜脈竇栓塞 (dural sinus thrombosis) - (C) 硬腦膜動靜脈瘻管 (dural arteriovenous fistula) - (D) 腦動脈瘤 (cerebral aneurysm) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (2) 先天性肺動脈瓣缺失(congenital absence of the pulmonary valve):病人常有呼吸道阻塞,發紺嚴重程度不一。心臟明顯肥大且有 to-and-fro murmur。肺動脈有明顯的 aneurysmal dilation,進而壓迫支氣管造成呼吸音出現 wheezing 或stridor。病人常有反覆性肺炎。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 較小的膜週邊型(perimembranous type, type II )VSD 可以先觀察,讓其自動 癒合。有較小 VSD 的病人約 30~50% 在 2 歲前有自動癒合的機會。一般而言, 絕大多數的病人在 4 歲前會自動癒合。雖然為數不多,但也有在成人期才癒合 的案例。癒合時,通常會形成 ventricular septal aneurysm(由 accessary tricuspid valve 組織形成)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...絕大多數自行癒合的時間在小朋友四歲以前。 (D) 膜周部(perimembranous type)心室中膈缺損所佔比例最高,位在三尖瓣瓣膜旁邊,因此自然癒合的時候部分的三尖瓣瓣膜組織會和心室中膈結合成 ventricular septal aneurysm,也因為這樣,此類型的心室中膈缺損常常會合併三尖瓣瓣膜閉 | 106 | | | 鎖不全。 | | Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -64,11 +75,6 @@ tags:
 - 【詳解】(A) 小腸出血機率遠小於上下消化道出血,目前建議先實施上下消化道內視鏡檢查至少兩次,排除可能忽略的出血點,再進行小腸探查(膠囊內視鏡或小腸鏡)。(C) RBC scan 定位不準確。(D) 活動性出血時,血管攝影可看見 contrast extravasation,非活動性出血時,如有微血管豐富的腫瘤或是明顯異常血管結構(ex: aneurysm)也可偵測到,但如都沒有則無法由 contrast 偵測到出血的部位。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (4) 補充碳酸氫 (HCO3): 不建議常規補充,除非 shock、pH 小血管瘤 (Microaneurysms) | | [動脈瘤,出血, | →血管瘤點狀出血 (Dot and blot hemorrhage) | | 滲出物] | →血管瘤滲出物 (Hard exudates) | | PPDR | 小血管阻塞更嚴重→更大的出血點 | | (Pre-proliferative) | →神經缺血→眼底一塊白色 (Cotton-wool spots) | | [ 缺血白,靜脈擴張 ] | →靜脈擴張、串珠狀、環狀 (dilatation, b Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (B) 假性動脈瘤 (pseudoaneurysm) Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
-- #### 1. 動脈瘤 (Aneurysm) Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- ...----------------------------------------------------------|------------------------------------------|--| | | (Thoracic aortic aneurysm) | (Abdominal aortic aneurysm) | | | | CTD (Marfan, Ehlers-Danlos IV) | 男性較多 | | | 危險因子 | Congenital (Bicuspid aortic valve) | Atherosclerosis risk ( 菸、高血壓、高血脂 | | | 危厥囚丁 | Aortitis (Takayasu's, GCA, Syphilis) | 、年紀、家族史 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (B) 2. 根據多數研究資料結果顯示,老年人的腹主動脈瘤 (abdominal aortic aneurysm) 最常被誤診為下列何種疾病? Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (3) 血管現象 (Vascular phenomena): - a. 血管栓塞 (arterial emboli, septic pulmonary infarcts)。 - b. 感染性主動脈瘤 (mycotic aneurysm)。 - c. 顧內出血 (ICH)、結膜出血 (Conjunctiva hemorrhage)。 - d. Janeway's lesion (手掌紅斑、不痛、平)。 Source: [[sources/med3-book1-ch06|己、細菌性心內膜炎]].
-- b. 若缺血持續導致梗塞(Infarction = Irreversible),接著會有Q波形成;ST段通常在2週內會恢復,留下Q波形成、T波導置。2週後ST段若沒恢復,可能暗示心室瘤(Aneurysm)形成,即梗塞區域心肌形成Scar,無收縮能力(Akinetic zone);或可看到心臟收縮時,其反向外突出。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

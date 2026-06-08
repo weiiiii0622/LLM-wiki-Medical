@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Atrial fibrillation (心房顫動)'
   - 'Atrial fibrillation'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ tags:
 - [[sources/med3-book2-ch08]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book4-ch05]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- ...2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),r Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (D) 心房顫動造成心因性血栓 (cardiac emboli) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (A) 4.80 歲女性,有高血壓與心房顫動病史,突發左側顏面與左側肢體無力,左上肢肌力為1分,左下肢肌力為3分,兩眼偏向右看,無明顯的視野缺損與忽略。病灶最可能在何處? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...ithromycin、azithromycin)均會引起 prolonged Q-T interval,也會引起其他心律不整。Amiodaron 本身為心臟用藥,除了 prolonged Q-T interval外,也會引起其它心律不整如 atrial fibrillation、atrioventricular block、atrioventricular dissociation、bradycardia、ventricular fibrillation、ventricular tachycardia。Haloperidol 除了會造成 prolonged Q-T interval外 ECG上會有不正常的T波(prolonged ventricular repolarization)。torsades de Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (A) 心房顫動 (atrial fibrillation) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 檢查病人時可能有竇性心搏過速甚至 atrial fibrillation、手抖、反射增強、皮膚 摸起來潮濕溫暖、手掌出現紅斑、指甲剝落(onycholysis)、肌肉無力。如果是 亞洲男性病人,可能會表現 hypokalemic periodic paralysis(早上最嚴重、下午 則改善)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

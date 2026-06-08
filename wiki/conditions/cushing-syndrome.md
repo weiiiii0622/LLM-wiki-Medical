@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Cushing syndrome (庫欣氏症候群)'
   - 'Cushing syndrome'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- 1. 顱內壓太高 (increased intracranial pressure = IICP): - (1) 特徵: - a. 這類頭痛通常慢慢發生;早上起來最痛,因為平躺一晚,水往頭部分佈,腦 壓增加使然。其他咳嗽、身體彎曲等使腦壓增加的狀況也會惡化頭痛。 - b. 腦壓太高,會造成頭痛、嘔吐;還會造成視乳突水腫(papilledema),而有視力模糊等症狀。 - c. 若腦壓高到造成 tentorial herniation, 會壓到第三對腦神經、中腦,造成瞳孔 放大、失去光反射。 - d. 若使延腦受到壓迫,會有 Cushing triad:血壓高、心跳慢、呼吸不規則。 - (2) 病因: - a. 常需影像學進一步找出 IICP 原因,嚴重的中風導致腦水腫?腦出血?腫瘤? Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (A) Cushing's syndrome Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 1. Endocardial Cushing defects Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].

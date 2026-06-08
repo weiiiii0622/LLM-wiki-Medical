@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Tetracyclines (四環黴素類)'
   - 'Tetracyclines'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch06]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...(C) 服用大量維生素 A | | | (D) 惡性貧血 | | | 【詳解】第50題一律給分。大腦假性腫瘤的發生原因至今不明, | | | 一般相信因為腦膜吸收腦脊髓液能力下降,導致腦壓逐漸增高。 | | | 可能與過度服用維生素 A、四環黴素、荷爾蒙類避孕藥等有關。 | | | 偽性大腦腫瘤症為 Idiopathic,與 (ACD)可能都相關,但 (B)為 | | | 已知病因造成腦壓上升,不屬於偽性大腦腫瘤症範疇。 | | | (C) 25. 下列有關頭痛的現象之中,何者最需要讓病人接受腦部磁振造 | 101(二)專 | | 影或電腦斷層攝影? | 醫四 -56 | | (A) 頭痛通常發生在單側 | | | (B) 頭痛已經十年,型態及嚴重度都沒有變化 | | | (C Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - a. 一期、二期、早期隱性梅毒:單次 Penicillin G benzathine 2.4 million units IM。對 penicillin 過敏者可改用 Tetracycline hydrochloride(500 mg PO qid) 或 doxycycline(100 mg PO bid)\*14 天。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (A) doxycycline 是目前認為治療首選的藥物 - (B) VDRL(Venereal disease research laboratory test)陽性即可診 斷此病 - (C) 一般 Gram's stain 下可清楚看見菌體 - (D) 第二期梅毒可以侵犯皮膚、腎、肝、脾臟、肌肉骨骼等 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 所致,為革蘭性陰性菌。叮咬處會出現焦痂(eschar),大多無痛性,伴隨有發燒、頭痛、出汗、結膜充血和淋巴結腫大。發燒一週後身體會出現暗紅性丘疹並擴散至四肢,數天後會消失。恙蟲體立克次體會攻擊血管內皮細胞,組織切片可見lymphohistiocytic vasculitis。病患多數有旅遊史,台灣病例主要分佈在金門縣、澎湖縣、台東縣、花蓮縣和南投縣。診斷可作PCR 病原體檢測及細胞培養法做病原體分離或以間接螢光抗體法(Indirect Immunofluorescene Assay, IFA)測其 IgM 及 IgG 抗體, IgM $\geq$ 1:80 或 IgG 有 4 倍以上上升者判定為陽性。治療則給予 Doxycycline bid 七天。以上選項皆對。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -66,7 +69,6 @@ tags:
 - (A) 3. 一個 3 天大新生兒,雙眼有化膿性分泌物,格蘭氏染色(Gram stain) 104( ) 專 為格蘭氏陰性雙球菌,應選用何種抗生素治療? 醫三-63 - (A) ceftriaxone - (B) erythromycin - (C) oxacillin - (D) tetracycline Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (3) 急性期以 Ceftazidime 治療 2~4 週,需接著以四合一抗生素維持治療 20 週。 (Chloramphenicol, doxycycline, cotrimoxazole, sulfamethoxazole) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...enicol | Chloramphenicol | 毒性大,現少用(再生不良貧血、灰嬰) | | | 抑制 30S 核醣體 | Aminoglycoside | Gentamicin | 合併 β lactam 使用 | | | 型 | Tetracycline | Doxycycline | 立克次體、螺旋菌、披衣菌、青春痘 | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- #### 2. Tetracycline 類: Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Lithium (鋰鹽)'
   - 'Lithium'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血中濃度、腎功能、甲狀腺與交互作用。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血中濃度、腎功能、甲狀腺與交互作用。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血�
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...nderline{\mathbf{A}}$ nticonvulsant, $\underline{\mathbf{\beta}}$ blocker, | CCB | | 預防 | 肌肉鬆弛劑 | CCB, Antidepressant | 鋰鹽 (Lithium) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- (2) 慢性預防: CCB、鋰鹽(lithium)。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- ...越來越頻繁,目前一週會有兩三天的偏頭痛發作。醫師打算使用 醫四-49 預防性藥物治療來減少她的偏頭痛,下列何種藥物是最合適的 治療? (A) propranolol (B) divalproex (C) amitriptyline (D) lithium 【詳解】預防用藥的選擇:amitriptyline、propgranolol、flunarizine、 valproic acid、topiramate,本題個案患有 bipolar disoder 和氣喘,應 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- ...ine, metoclopramide) | | | | akathisia) | Dopamine-depleting agents (reserpine, tetrabenazine) | | | | | α-Methyldopa · Lithium carbonate · Valproic acid · Fluoxetine | | | | Toxins | Methyl-1,2,4,6 tetrahydropyridine (MPTP) \cdot Manganese \cdot Cyanide | | P) · Manganese · Cyanide | | | Methanol · Carbon monoxide · Carbon disulfide · Hexane | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - | 藥物類型 | 有效血液治療濃度 | 副作用 | | |---------------|---------------|-------------------------------------------|--| | Lithium | 0.8~1.2 mEq/L | 影響腎功能、tremor、weight gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...作與一次重鬱發作 (D) 可能於青少年時期發作 【詳解】雙極性疾患男女比為 1:1;重鬱症男女比為 1:2。 (A) 16. 對於雙極性疾患(bipolar disorder)治療之敘述,何者正確? 106(二)專 (A) 急性躁期可以給予鋰鹽、抗癲癇藥物、或抗精神病藥物治療 醫四-64 (B)維持(maintenance)治療可使用抗癲癇藥物或鋰鹽,但只有 鋰鹽需進行血中藥物濃度監測 (C) 抗癲癇藥物 lamotrigine 對於預防躁症效果優於其他抗癲癇藥物 (D) 電痙攣治療(electroconvulsive therapy) 不適合治療雙極性疾 患之鬱期 【詳解】(B) 都需要濃度檢測避免有時候濃度過高或過低;(C) lamotrigine 預防躁症效果較差,對於 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (A) 鋰鹽(lithium) 可治療躁症發作 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].

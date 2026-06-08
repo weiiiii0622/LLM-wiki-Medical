@@ -24,6 +24,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Chemotherapy (化學治療)'
   - 'Chemotherapy'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,14 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (A) Acute MCA infarction with cytotoxic edema Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (B) Acute ACA infarction with cytotoxic edema Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- | 腦水腫 | 血管性 (Vasogenic) | 細胞毒性 (Cytotoxic) | |-----|-----------------|---------------------| | 病因 | 腦腫瘤 | 腦中風 | | 機制 | 血管通透性增加 | 細胞受傷害後,水滲入細胞,造成細胞腫脹 | | 位置 | 主要在白質 | 病灶附近 | | 治療 | 類固醇 | Glycerol · Mannitol | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (4) 光化療(photochemotherapy, PUVA):口服或局部塗抹 Methoxypsoralen,再以 UVA 照射來治療。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (B) 長波長紫外線光化學治療 (PUVA phototherapy) Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (1) 外科手術:因黑色素細胞瘤對化學治療和放射線治療的反應並非十分良好,且 容易轉移,因此目前最主要的治療方式,仍是早期發現,趁病灶還很小的時候 就將其切除。其他如肺、腦、胃腸單一病灶及局部淋巴轉移都可以採用外科手 術切除。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
@@ -80,9 +87,6 @@ tags:
 - ### 乙、化學治療藥物 (Chemotherapy) Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - #### A. Cell cycle non-specific (CCNS) Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (D) 3. 一位 27 歲男性因為牙齦出血不止來到醫院,血液檢查發現血紅素為 8.2 gm/dL,白血球 1,250/μL,其中 promyelocyte 18%,segmented neutrophil 2%,monocytes 8%,lymphocytes 72%,血 小 板 21,000/μL。骨髓穿刺檢查證明為 acute promyelocytic leukemia。下列各選項,何者是治療此病人所必須的? - 1) platelet transfusion 2) chemotherapy 3 all-trans retinoic acid - (A) (1)(2) - (B) 23 - (C) ①3 - (D) (1)(2)(3) Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...血病細胞內有異常的融合基因 AML 1/ETO (C) 病人常出現瀰漫性血管內凝血(DIC) (D) 最 適 當 的 誘 導 性 治 療 為 tretinoin(all-trans retinoic acid) anthracycline 化學治療 | 104( 一 ) 專醫三 -52加 | | (B) | 9. 林先生 36 歲,罹患急性骨髓性白血病,在化學治療後成功達到完緩解狀態,在醫師建議下接受異體造血幹細胞移植。以下何種檢其可靠性及時效最能證實移植成功? (A) RBCs ABO grouping (B) DNA/STR(short tandem repeat)analysis (C) chromosomal study (D) RH system | 驗 醫三-9 | Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...acute lymphoblastic leukemia 【詳解】(A) t(8.14)。 | ? 101(二)專醫三-37 | | | (A) | 15. 一位 26 歲病人被診斷為急性淋巴芽細胞白血病,其。經過誘導(induction)化學治療達到完全緩解。此方式為: (A) 尋找 HLA 相合之捐贈者,並準備做異體造血幹(B) 繼續鞏固及加強性化學治療,接著再進行維持性(C) 可改用口服酪氨酸激酶抑制劑 imatinib 做維持性(D) 可停止治療,但需繼續追蹤 | 時最理想的治療 醫三-43細胞移植生化學治療 | | | (A) | 16. 一位急性白血病患者的白血病細胞 peroxidase 反應為修CD10 抗原表現,則此病人為何種白血病?(A) B- 細胞急性淋巴芽 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- (5) Lymphoma、Small cell lung cancer 需用 Chemotherapy Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 

@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Herpes zoster (帶狀皰疹)'
   - 'Herpes zoster'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- #### 4. 感覺系統檢查 (dermatome): Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (A) 帶狀皰疹神經炎(herpes zoster neuritis) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - # 4. 水痘帶狀疱疹病毒(Varicella-Zoster Virus, VZV): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (a) 水痘疫苗預防接種: - i. 為活性減毒疫苗,出生滿 1 歲至 12 歲接種一劑即可,12 歲以上者則 須接種兩劑,效價為十年,不過預防效果約 80%,故仍有可能於接種 疫苗後得到水痘。 - ii. 禁忌:先天性免疫功能缺陷、淋巴瘤或腫瘤、有症狀的愛滋病患、接受高劑量類固醇治療者、孕婦、21 天內有接觸水痘或帶狀疱疹病患、對 Neomycin 過敏者禁止接種疫苗。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - # (2) 帶狀疱疹 (Herpes zoster) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

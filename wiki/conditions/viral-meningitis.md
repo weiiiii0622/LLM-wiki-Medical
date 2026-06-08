@@ -15,6 +15,9 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Viral meningitis (病毒性腦膜炎)'
   - 'Viral meningitis'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,17 @@ CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等�
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...**再看 WBC**,如果加上 WBC 高 (> 5)、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低( 40 | 0~5 | 50~100 | Clear | 9~18 | | 病毒性腦膜炎 | 50~100 | 20 年): 侵犯腦實質、脊柱、背根神經節(tabes dorsalis; 步態不穩、感覺異常)、Argyll-Robertson 瞳孔。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- (D) 10. 下列那些腦膜炎,如果沒有及早治療,容易發生顱底腦膜嚴重滲 105(ニ)専出性發炎變化(basilar meningeal exduate),導致次發性腦血管梗塞(cerebral infarction)?①腮腺炎病毒腦膜炎(mumps)②巨細胞病毒性腦膜炎(CMV)③結核菌腦膜炎④隱球菌腦膜炎(A)①②(B)②③(C)①④(D)③④ Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- ...-----|----------| | 正常 | 15~40 | 0~5 | 50~100 | Clear | 9~18 | | 發炎 (AIDP, MS) | > 40 | 0~5 | 50~100 | Clear | 9~18 | | 病毒性腦膜炎 | 50~100 | (ICH) | 蜘蛛膜下腔出血(SAH) | 慢性硬膜下出血(Chronic SDH) | 硬膜上出血(EDH) | |--------|------------------------|------------------|--------------------------|----------------| | 常見原因 | 高血壓、動靜脈畸形(AVM) | 動脈瘤(交通支) | 老年人跌倒 | 嚴重外傷 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- 2. 腦膜刺激的 sign: - (1) 頸部僵硬 (neck stiffness): 當我們把病患的頭往下巴彎,會因病患疼痛遭受阻力; 而細菌性腦膜炎更明顯,甚至頭稍左右轉動就會引起疼痛;而病毒性腦膜炎要 將頭往下巴頂才比較會痛;另外,當我們將病人頭部彎曲時,其腳會自己縮回, 以減少腦膜拉扯的壓力,稱作 Brudzinski sign; - (2) 病患躺平,髋、膝關節皆成 90 度,當我們將病患的膝蓋往上打直時,會因引起 病患疼痛而遭受阻力,稱作 Kernig's sign。(記憶: Knee 打直 = Kernig's) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (B) 2. 9個月大的男嬰高燒 5 天,今天早上開始呈現嗜睡狀態,晚上因全身僵直陣攣性發作(Generalized tonic clonic seizure) 5 分鐘被送來急診。在加護病房做了脊髓穿刺檢查,腦脊髓液報告顯示WBC 10,000/μL (90% PMNs 和 10% Lymphocyte), Protein 380 mg/dL, Glucose 5 mg/dL。下列何者為最可能的致病原? - (A) 單純疱疹病毒第一型 (HSV type 1) - (B) 肺炎鏈球菌(Streptococcus pneumoniae) - (C) 腸病毒 (Enterovirus) - (D) 新型隱球菌 (Cryptococcus neoformans) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (A) 4.6 週大之嬰兒,媽媽主訴昨天開始發燒,活力變差,剛剛突然發 105(二)專 生抽搐,持續5分鐘,住院醫師認為病嬰疑似感染腦膜炎,進行 醫四-9 脊椎穿刺檢查,脊髓液呈現 leukocytes: 5,000/mm³, protein: 300 mg/dL, glucose: 20 mg/dL。最可能的診斷是? - (A) 細菌性腦膜炎 - (B) 病毒性腦膜炎 - (C) 嗜伊紅性腦膜炎 - (D) 真菌性腦膜炎 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - XIII. 腸病毒 (Enterovirus) 感染 186 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -60,11 +71,6 @@ CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等�
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (1) 與正常相比,WBC、Protein 稍高,但葡萄糖正常,考慮病毒性腦膜炎。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ...------------------------|--------------------------------------------------------------------|--|--| | Genital herpes | HSV2 | Acyclovir PO 400 mg tid 1 週或 IV 5 mg/kg q8h | | | | Genital warts | HPV 6, 11 | HPV 6, 11 若有皮膚病灶→局部電燒 | | | | Primary Syphilis | Benzathine PCN 2.4 | Benzathine PCN 2.4MU IM stat 或 Doxycycline 100 mg PO bid 14 天 | | | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...T | | | 體液性免疫反應障礙 | ALL MM - Nonhussis | Encapsulated bacteria > | | | (hypogammaglobulinemia) | ALL · MM · Nephrosis | Enterovirus > PCP - Giardia | | | 細胞性免疫反應障礙 | HD · Steroid · Uremia · AIDS | Intracellular bacteria > | | | 加加日土 分 7支/文//恶P早晚 | TID Steroid Cremia AIDS | Nocardia · Fungus · Most virus | | | 補體 (complement) 缺陷 | 基因缺失 | Bacteria · N Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...1 | HSV1 | 單純疱疹病毒第一型 | 齦□炎→顏面感覺神經結潛伏 | | | | 10 | | (Herpes simplex virus 1) | →復發齦口炎, 腦炎 (Encephalitis) | | | | HHV2 | HSV2 | 單純疱疹病毒第二型 | 生殖器疱疹→腰,尾椎感覺神經結潛伏 | | | | | | (Herpes simplex virus 2) | s 2) →復發生殖器疱疹 | | | | HHV3 | HV3 VZV 水痘帶狀疱疹 | | 水痘 (Varicella = chicken pox)→顱, 咽感覺神 | | | | | (Varicella zoster virus) | | 經結潛伏→復發帶狀疱疹 (Shingles) | Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- | 藥 物 | 機制 | 適用於 | |-------------|-------------------|----------------------------------------| | Acyclovir | Guanosine 類似物 | HSV1 · HSV2 · VZV | | Ganciclovir | Guanosine 類似物 | CMV | | Foscarnet | Pyrophosphate 類似物 | 對 Acyclovir 及 Ganciclovir 有抗性的 HSV、CMV | Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- (1) 腸病毒(Enteroviruses):這類病毒皆是糞口傳染,但不造成腹瀉等症狀,反而造成中樞神經、上呼吸道、心肌炎。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- (A) 1.35 歲男性,家住山上,在颱風之後清掃自家附近水溝,當時注意到 107(二)專有很多死老鼠,一週後因黃疸、茶色尿及發高燒被送到急診,最可 醫三 -59 能的致病菌是: - (A) 鉤端螺旋體 (Leptospira species) - (B) 腸病毒 (enterovirus) - (C) 流感病毒 (influenza virus) - (D) 登革熱病毒 (dengue virus) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Cyanotic congenital heart disease (發紺型先天性心臟病)'
   - 'Cyanotic congenital heart disease'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-右到左分流或肺血流不足造成發紺，常需評估 PDA-dependent circulation 與緊急穩定。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+右到左分流或肺血流不足造成發紺，常需評估 PDA-dependent circulation 與緊急穩定。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- ...幾秒中慢慢失去意識 | | | | 識 | 除了某些心律不整會立即失去意識 | | | 失去意識的延續時間 | 幾分 | 幾秒 | | | 肌強直陣攣的延續時間 | 30~60 秒 | 一定小於 15 秒 | | | 脸郊丰丰 | 發紺 (Cyanosis) | 蒼白 (Pallor) | | | 臉部表情 | 口吐白沫 (Frothing) | | | | 發作後意識混亂、嗜睡的時間 | 幾分鐘到幾小時 | 小於5分 | | | 發作後肌肉痛 | 常見 | 有時可見 | | | 咬舌、頭痛 | 有時可見 | 罕見 | | Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 1. 發紺型先天性心臟病 2 - A. 法洛式四合症 (Tetralogy of Fallot) 2 - B. 肺動脈閉鎖 (Pulmonary atresia) 3 - C. 三尖瓣閉鎖 (Tricuspid atresia) 4 - D. 大動脈轉位 (Transposition of the great arteries, TGA) 6 - E. 全靜脈回流異常(Total anomalous pulmonary venous return, TAPVR) 7 - F. Ebstein 異常 (Ebstein anomaly) 8 - G. 左心發育不全症候群(Hypoplastic left heart syndrome, HLHS) *9* Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 發紺(cyanosis)不一定出生後會馬上表現;若肺部血流阻塞太嚴重則新生兒會出現。長期下來會出現杵狀指(趾)。由於右心室出口狹窄(Right ventricular outflow tract obstruction)造成血流阻塞與加速,因此聽診時有心雜音(左上胸骨緣有收縮期心雜音)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

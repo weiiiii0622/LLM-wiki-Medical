@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Bronchiectasis (支氣管擴張症)'
   - 'Bronchiectasis'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (1) 短效吸入性乙二型交感神經興奮劑(short-acting $\beta_2$ -agonist, SABA): 緩解急性氣喘發作及預防運動引起的支氣管擴張的首選。藉由使呼吸道平滑肌 舒張,減少血管通透性及呼吸道水腫,及增進纖毛清除能力,使支氣管擴張。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (3) 白三烯受體拮抗劑(Leukotriene receptor antagonist, LTRA): 使支氣管擴張,具抗發炎作用,也可以減少運動及過敏原引起的支氣管收縮。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 長效吸入性乙二型交感神經興奮劑(Long-acting inhaled β2-agonist, LABA): 為長效型的支氣管擴張劑,作用至少 12 小時,因此適用於夜間症狀明顯及白 天常需使用 SABA 者。須配合吸入性類固醇一同使用,不可單獨使用,因為 LABA 本身無 anti-inflammation 作用,因此單獨使用反而會使氣喘急性發作及治 療失敗的風險增加。此外,文獻指出單獨使用 LABA 會增加 asthma mortality, 因此不建議單獨使用。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

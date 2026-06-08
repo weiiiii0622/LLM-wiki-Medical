@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Antidepressants (抗憂鬱藥物)'
   - 'Antidepressants'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-治療 depression、anxiety、OCD、PTSD 等；選擇需考慮副作用、交互作用、自殺風險與 bipolar screening。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療 depression、anxiety、OCD、PTSD 等；選擇需考慮副作用、交互作用、自殺風險與 bipolar screening。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch03]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- 3. 治療: 改變生活方式; 抗憂鬱劑、β blocker、肌肉鬆弛劑、止痛藥。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - IV. 輕鬱症 (Dysthymic Disorder) 26 - A. 診 斷 26 - B. 抗憂鬱藥物 (Antidepressants) 42 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...類型 | 作用機轉 | 副作用 | |-------------------------------------|----------------------------------------|------------------| | TCA (tri-cyclic antidepressant) | (-)NE, 5-HT 回收 | 心律不整、口乾、嗜睡、 | | | | 姿態性低血壓 | | MAOI (monoamine oxidase inhibitor) | (-)NE, 5-HT, DA 代謝 | 不可吃含有 tyramine 類 | | | | 的食物如乳酪、起士, | | | | 可能會引起高血壓危機 | | RIMA (reversible inhibit Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - @ DSM-5 的躁狂準則和 DSM-IV-TR 的相同,唯一的差別在於吃抗憂鬱藥物引起的躁症(mania),在 DSM-IV-TR 視為物質引起的情緒疾患; DSM-5 則認為若判斷認為藥物的生理效應,還是要診斷為第一型躁鬱症(Bipolar I disorder)。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].

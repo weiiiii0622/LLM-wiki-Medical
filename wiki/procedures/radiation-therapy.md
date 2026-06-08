@@ -14,6 +14,10 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -28,7 +32,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +46,19 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med4-book4-ch05]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (D) 若上述檢查皆正常,儘早給予血栓溶解劑 rt-PA Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (A) 給予靜脈血栓溶解劑(rt-PA)治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- 【詳解】本題無法確認發作時間,是 rt-PA 的禁忌症。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (C) 3. 鑑別復發性星狀細胞瘤(recurrent astrocytoma)與放射治療後的 腦部壞死(radiation necrosis of brain),最好的檢查是: Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- ...。 | | | (#) 11. 下列有關腦膜瘤(meningioma)之敘述,何者正確 | ? 106(二)專 | | (A) 使用抗女性荷爾蒙(antiestrogen)治療是有效的 | 醫四 -59 | | (B) 應先使用放射線治療(radiotherapy) | | | (C) 是後顱窩(posterior fossa)最常見之腫瘤 | | | (D) 加碼刀(gamma knife)的治療限於小於 3 公分 | 者 | | 【詳解】第 59 題一律給分。 | | | (A) 12. 腦部原發性淋巴瘤 (primary central nervous system by | ymphoma)的 106(二)專 | | 治療方式中,下列何者最不適當? | 醫四 -60 | | (A) 外科 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- (C) 3. 鑑別復發性星狀細胞瘤(recurrent astrocytoma)與放射治療後的 102( ) 專 腦部壞死(radiation necrosis of brain),最好的檢查是: 醫四 -59 - (A) 電腦斷層 (computed tomography, CT) - (B) 磁振造影 (magnetic resonance imaging, MRI) - (C) 正子電腦斷層(positron emission tomography, PET) - (D) 單光子電腦斷層 (single-photon emission computed tomography, SPECT) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...或皮瓣移植。較小病灶可採用冷凍療法或電燒。 - (2) 但針對顏面的「危險地帶」,例如鼻唇區域、眼睛周圍、眼瞼、耳道、耳後 或頭皮,因結構脆弱、手術易出血且考量顏面美觀,會採用顯微手術(Mohs Micrographic surgery)或放射治療。 - (3) Mohs Micrographic surgery: - a. 將切下來的一小塊癌組織以冷凍切片染色在顯微鏡下定位,確定有 free margin 後,再將皮膚癌完整的切除乾淨。治癒率高,復發率低,且可保留較多的正常皮膚組織,為當前皮膚癌手術切除的主流。 - b. Indication: - (a) High risk of local recurrence • - (b) Need for tissue preserv Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (1) 放射治療和化學治療效果都不錯,如果僅為單一或小範圍侵犯者,切除也可達 痊癒。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (2) 典型 KS 對於放射治療效果較好;地域性 KS 對化療反應最好;因免疫抑制所引發 KS 者,停藥後常會自癒,也可嘗試換藥,如以 sirolimus 取代 cyclosporin 及 tacrolimus。AIDS 患者接受正統抗病毒治療即有療效,或使用干擾素及介白質治療,也可暫時改善。其他局部療法例如液態氮冷凍療法、雷射、電燒、光動力療法也都可。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
@@ -57,12 +71,6 @@ tags:
 - ...結廓清手術,手術後病理檢查發現為乳管癌,有 12 顆淋巴結確定有乳癌轉移,estrogen receptor 陰性,progesterone receptor 陰性,Her-2染色呈 3 價陽性反應,下列何種術後輔助性治療最不恰當?(A) 放射治療(B) 化學治療(C) 荷爾蒙拮抗治療(D) 抗 Her-2 抗體治療 | 98(一)專醫三-38 | | 4. 承上題,該患者在術後一年半之例行追蹤檢查,第一次發現腫瘤指數 CA15-3 增高至 45k U/L (正常值 Folinic acid)+5FU+Oxaliplatin [FOLFOX]。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (4) 直腸癌:術前的 CCRT(Combination chemoradiotherapy)可減少局部復發及肛門保留的機會(Sphincter preserving surgery)。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (D) 2. 一位 56 歲男性發現右側腎細胞癌合併多處肝轉移,經腎臟切除後, 99(二)專 下列治療何者最不適當? 醫三-36 - (A) 使用 Interleukin-2 治療 - (B) 使用 Sunitinib 治療 - (C) 使用 Temsirolimus (mTOR inhibitor) 治療 - (D) 使用放射治療 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (A) 4. 一個 35 歲男性患者診斷為 malignant lymphoma,diffuse large B-cell type,stage IIA,下列有關敘述何者為正確? - (A) 一般而言,積極化學治療約可達到 70% 的緩解率 (remission rate) - (B) 除非進行造血幹細胞移植,否則無治癒可能 - (C) 屬於 aggressive malignancy,腫瘤生長速度快,化學藥物治療效果不佳 - (D) 應該儘可能只給予 radiation therapy 就好,避免給予 systemic chemotherapy,以免以後發生 secondary leukemia Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...述,何者錯誤? (A) 病變部位主要為 axial involvement (B) 在青春期(adolescence)有一出現高峰 (C) 發生頻率較 non-Hodgkin's lymphoma 高 (D) 大部分 stage I~II,放射治療(R/T)是可痊癒的 【詳解】(C) HD:non-HD 西方 1:3,東方 1:9,所以較 non-HD dz. 低。 | 94(一)專內 2-3 | | (B) | 17. 下列有關 Burkitt 淋巴瘤的敘述,何者錯誤? (A) 部分病人的腫瘤與 Epstein-Barr 病毒感染有關 (B) 常有染色體的異常 t (14,18) (C) 常侵犯中樞神經,分期檢查應包括腦脊髓液檢查 (D) 細胞生長快速,須即早治療 【詳解】(B Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- | 化療藥物 | 血液腫瘤 | Leukemia · Lymphoma · HD | |-----------|--------|----------------------------------------------| | | 固體腫瘤 | 小細胞肺癌、生殖細胞瘤 *、GTN*、卵巢癌 | | | 小兒腫瘤 | Wilms' tumor, Ewing's sarcoma, Neuroblastoma | | 化療藥物+放射治療 | 鱗狀細胞癌( | 頭頸部、肛門)、乳癌、子宮頸癌 | | 化療藥物+手術 | | - 骨肉癌、乳癌 | | 對化療藥物少有反應 | 肝膽胰癌、腎 | Y細胞癌、甲狀腺癌、黑色素細胞癌、前列腺癌 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (B) 首次治療以手術,接續併用化學治療(temozolomide)及放射治療為主要治療方式 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- 【詳解】神經膠細胞瘤 Glioblastoma multiforme (GBM) 是腦瘤中致死率最高的一種,平均存活期小於 2 年。首次治療以以手術,接續併用化學治療(temozolomide)及放射治療為主要治療方式。Temozolomide 的優點是口服便能達到所需濃度,而缺點則是當 O-6-甲基鳥嘌呤甲基轉移酶(MGMT)表現量上升時,TMZ 所造成的DNA 損傷便會被逆轉,使得腫瘤細胞不會走向死亡。Bevacizumab可用於復發後的病人。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (B) 30. 胡先生,80 歲,與太太同住,有三男一女。五個月前發生下背痛,漸感下肢無力,走路困難,急診發現第四胸椎病理性骨折,導致脊髓壓迫,入院檢查為胃腺癌併肝、肺和脊椎轉移,手術後再接受化學治療及放射治療。因症狀持續惡化,在家人要求下照會並轉入安寧病房。病情方面,病人只知道神經壓迫引起下肢不適,不知是癌症末期,家人接受病情但擔心病人得知後會無法承受。下列有關病情告知的敘述,何者錯誤? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

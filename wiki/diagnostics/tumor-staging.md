@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Tumor staging (腫瘤分期)'
   - 'Tumor staging'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch05]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- (C) 10. 復發-緩解型之多發性硬化症(relapsing-remitting type of multiple sclerosis)病人在疾病緩解期(remitting stage)須接受治療以減 少疾病復發,下列那一項選擇為最不適當之藥物? Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...6. 高先生的太太觀察到高先生半夜起來走出房門,甚至打開冰箱取 107(二)專 用食物,家人呼喊也未能叫醒,隔天清晨高先生對於這些事情沒 醫四 -67 有印象,這種情形發生在睡眠的那一期? (A) 非快速動眼期的第一期(non-REM, stage I) (B) 非快速動眼期的第二期 (non-REM, stage II) (C) 非快速動眼期的第三、四期(non-REM, stages III & IV) (D) 快速動眼期(REM) 【詳解】夢遊 sleep walking disorder 通常發生在NREM的 stage 3, Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (D) 7.「做夢 (dreaming)」主要出現在下列那一個睡眠週期? 107(二)專 (A) stage I 醫四 -74 (B) stage II (C) stage III (D) 快速動眼期睡眠(REM sleep) (C) 8. 夢遊症(sleepwalking disorder)通常發生在睡眠腦波圖(EEG) 105(二)專 的那一個時期? 醫四 -68 (A) stage I (B) stage II (C) stage III & IV (D) REM(rapid eye movement)sleep (A) 9. 下列何者 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (C) 34. 根據佛洛依德的心性發展(psychosexual development)理論,在 3~5 歲的幼童處於那一個發展階段? - (A) 口慾期 (oral stage) - (B) 肛門期 (anal stage) - (C) 性蕾期 (phallic stage) - (D) 潛伏期 (latency stage) Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
@@ -72,7 +75,6 @@ tags:
 - ...------------------| | Risk | eCCl decrease by 25% | 2 | anuric for 12 hr | | Loss | Persistent failure > 4 wk | | | End-stage | End-stage renal disease | | | | (persistent failure > 3 mo) | | | CCL creatinine clearance: eCCL estimated creatinine clearance: pRIFLE. | | | Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - CCl, creatinine clearance; eCCl, estimated creatinine clearance; pRIFLE, pediatric risk, injury,failure, loss, and end-stage renal disease. Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (4) pRIFLE 強調的重點在 the glomerular filtration rate (GFR), 因此 Acute Kidney Injury Work 則以 serum creatinine 上升率做為急性腎損傷評估指標:stage I > 150%, stage II > 200%, stage III > 300%。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 1. 卡他期(catarrhal stage):持續 1~2 週,症狀輕微。鼻炎、打噴嚏、輕微發燒、輕 微咳嗽等類似感冒的症狀。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

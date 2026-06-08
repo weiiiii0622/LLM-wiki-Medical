@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Neuroblastoma (神經母細胞瘤)'
   - 'Neuroblastoma'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch05]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 隨著研究進展,目前思覺失調症產生的理論認為疾病的產生並非單一神經傳導物質 dopamine 的失衡,腦中其他神經傳導物質如 norepinephrine、serotonin、GABA、 glutamate、neuropeptide 的失去平衡也可能有關。研究也顯示,血液中香草酸 (homovanillic acid, catecholamine 的代謝物) 濃度越高,精神症狀越嚴重,對於抗精神病藥物的反應也越好。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - 安非他命主要是促進神經分泌 catecholamine 類神經傳導物質,特別是 norepinephrine 與 dopamine $\circ$ Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - VI. 神經母細胞瘤 (Neuroblastoma, NB) 385 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

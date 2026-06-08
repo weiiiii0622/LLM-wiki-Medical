@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Biologic DMARDs (生物製劑抗風濕藥)'
   - 'Biologic DMARDs'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-針對 TNF、B cell、T cell costimulation、IL-6 等的免疫標靶治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+針對 TNF、B cell、T cell costimulation、IL-6 等的免疫標靶治療。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch03]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- 4. 治療:類固醇、血漿置換術、免疫抑制劑、Rituximab。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (4) 生物製劑:生物製劑主要是指由生物體製造,具有藥理作用的蛋白質製劑。 目前國際上普遍使用的共有五種,包括針對 TNF 的單株抗體 Infliximab 及 Adalimumab、TNF 受體融合蛋白 Etanercept、針對 IL-12 和 IL-23 的單株抗體 Ustekinumab、作用於 CD2 的 Alefacep。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - e. Rituximab: 抗 CD20 抗體生物製劑,近幾年來備受期待的新治療方法,原本是用來治療淋巴癌,可以有效去除淋巴球中的 B 細胞;後來發現也可以有效去除製造自體抗體的免疫細胞,因此可用來治療自體免疫疾病,目前已有多篇報告此藥物可以有效治療難治的天疱瘡,但治療後因為 B 淋巴球大量減少,必須密切注意感染的副作用。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - Minocycline, procainamide, hydralazine, isoniazid, penicillamine, diltiazem, interferon- $\alpha$ , methyldopa, chlorpromazine, etanercept, infliximab, adalimumab Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

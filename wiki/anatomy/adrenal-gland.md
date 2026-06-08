@@ -34,6 +34,9 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Adrenal gland (腎上腺)'
   - 'Adrenal gland'
@@ -48,7 +51,7 @@ tags:
 
 ## Summary
 
-腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +85,16 @@ tags:
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch07]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- 2. 民國 94 年曾報導高雄市張氏三兄弟罹患「腎上腺白質退化症」(adrenoleuko-dystrophy, ALD),即屬於白質失養症(leukodystrophy)的一類,與長鏈脂肪酸(very long chain fatty acid, VLCFA)無法代謝有關,非常長鏈脂肪酸過多,堆積在身體各處器官,尤其是大腦白質(髓鞘)和腎上腺皮質,所以導致腎上腺機能與神經傳導功能喪失。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- ...一)專 | | | (A) 多發性硬化症(multiple sclerosis) | 醫四 -58 | | | (B) 急性散播性腦脊髓炎(acute disseminated encephalomyelitis) | | | | (C) 腎上腺腦白質病(adrenoleukodystrophy) | | | | (D) 急性神經根炎(Guillain-Barré syndrome) | | | (D) 13. | 下列有關急性散漫性腦脊髓炎(acute disseminated encephalomyelitis, | 101(二)專 | | | ADEM) 之敘述,何者錯誤? | 醫四 -52 | | | (A) 是一種去髓脫病變(demyelinating illness Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- ...Ach 刺激骨骼肌的 nicotinic 接受器。 - b. 交感神經由胸椎、腰椎脊髓的側角神經元發出,經兩個神經元,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎旁神經節(paravertebral ggl.)的神經元,其再分泌正腎上腺素(norepinephrine)刺激目標器官(心肌、平滑肌、腺體)的 Adrenergic 接受器。 - c. 副交感神經由**顱神經、薦椎的側角神經元**發出,也經**兩個神經元**,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎前神經節(prevertebral ggl.)的神經元,其再分泌 ACh 刺激目標器官(心肌、平滑肌、腺體)的 muscarinic 接受器。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - | 接受體 | 相關副作用 | |--------------------------------------------------------------|-----------------------| | 組織胺受體(anti-histamine) | 頭昏、鎮靜、食欲增加,常用在幫助老人的安眠 | | 膽鹼性受體(muscarinic cholinergic receptor antagonist) | 便秘、口乾、視力模糊,老人用容易產生譫妄 | | $\alpha_1$ 腎上腺受體( $\alpha_1$ adrenergic receptor antagonist) | 頭昏、姿態性低血壓,老人使用容易半夜跌倒 | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (B) 6. 關於抗精神病藥 (antipsychotics) 的副作用及其主要藥物機轉之 103(ニ) 専 配對,下列何者正確? - (A) 口乾:血清素 (serotonin) 再回收阻斷作用 - (B) 姿勢性低血壓 (orthostatic hypotension) : 甲型腎上腺素受體 (α adrenergic receptors) 阻斷作用 - (C) 錐體外症候群 (extrapyramidal syndrome): 多巴胺 (dopamine) 再回收阻斷作用 - (D) 尿液滯留:甲型腎上腺素受體(α adrenergic receptors) 阻斷作用 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (AD)10.王小姐因感冒、噁心、吃不下飯,到衛生所求診,李醫師處方 了咳嗽藥水及止吐藥腹寧朗(Primperan),王小姐服用後約1 小時,舌頭不自主地吐出來,因此,很慌張地回到衛生所求助, 李醫師馬上處理,下列方法何者最不適當? - (A) 予以安慰(reassurance),告知不會有大礙,勸慰王小姐放輕鬆,慢慢呼吸,給予催眠(hypnosis) - (B) 肌肉注射抗過敏藥物: diphenhydramine - (C) 靜脈注射鎮靜劑: diazepam - (D) 口服乙型腎上腺素受體阻斷劑 (β-adrenergic receptor blocker): propranolol Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
@@ -99,10 +109,6 @@ tags:
 - ...is): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - IV. 腎上腺一先天性腎上腺增生 287 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - # IV. 腎上腺 - 先天性腎上腺增生 (Congenital Adrenal Hyperplasia, CAH) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...-----------------------------------------------------------------------------------------------------------------| | 先天性腎上腺增生(21-hydroxylasedeficiency) | 先天腎上腺增生為體染色體隱性遺傳疾病。大部分是因為腎上腺21- 酵素缺乏。嬰兒會在出生後 10 天左右,因鹽分大量流失,造成低血鈉、高血鉀、嘔吐、體重不增等現象。此外,此疾病會刺激雄性素的分泌,而引起雄性化,使得嬰兒在胎兒期就會發生外陰雄性化現象。 | | 楓糖尿症 | 體染色體隱性遺傳疾病。人體中缺少支鏈甲型酮酸脫氫酵素,使得此胺基酸的代謝無法進行。症狀:在開始餵食後數天至 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (A) 先天腎上腺增生症(congenital adrenal hyperplasia) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (C) 14. 臺灣地區先天性腎上腺增生(congenital adrenal hyperplasia)的 新生兒篩檢是測定嬰兒血片的: - (A) ACTH - (B) cortisol - (C) 17-hydroxyprogesterone - (D) 21-hydroxylase enzyme activity Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

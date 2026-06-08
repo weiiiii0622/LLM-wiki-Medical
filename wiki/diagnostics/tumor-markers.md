@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Tumor markers (腫瘤標記)'
   - 'Tumor markers'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch02]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- (B) 30. 一位 70 歲男性,最近數月天天頭痛且視力模糊。頭痛位置在左 100(二)專 側顳部,非搏動性疼痛(non-throbbing pain),每天頭痛時間達 醫四-52 數小時之久,頭痛時並沒有噁心、嘔吐或流淚等症狀。病患同時 抱怨全身倦怠、發燒及肌肉疼痛。身體檢查發現左側淺部顳動脈 (superficial temporal artery)變硬且附近皮膚有紅腫。以下那個 檢查,對診斷最有幫助? - (A) 類風濕因子 (Rheumatoid factor, RF) - (B) 紅血球沈降速率 (Erythrocyte sedimentation rate, ESR) - (C) HLA-typing - (D) 腫瘤標記 (Tumor markers) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...ppled | | | | nodules (infants) | calcification in mass | | Hepatoblastoma | Birth-3 yr | Large, firm liver | Increased AFP | | Hepatoma | School age, | Large, firm liver; hepatitis | Increased AFP | | | teens | B, cirrhosis | | | Rhabdomyosarcoma | All | GI/GU obstruction, | | | | | sarcoma botryoides, | | | | | vaginal bleeding, para- | | Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 1. α-fetoprotein (AFP): 常用來診斷與監測腫瘤用。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 2. Germ cell tumor(GCT)又可以分成精母細胞癌(seminomatous GCT)以及非精母細胞癌(Non-seminomatous GCT)、其中 NSGCT 又包含 embryonal cell cancer, teratoma, yolk sac tumor, choriocarcinoma。特色是 β-hCG 以及 AFP 同時會升高。因此,可以使用 AFP, CEA, 或是 β-hCG 做為追蹤指標。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

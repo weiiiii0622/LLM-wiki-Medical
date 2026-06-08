@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med4-book4-ch04]]"
 aliases:
   - 'Liver abscess (肝膿瘍)'
   - 'Liver abscess'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-肝臟膿瘍可為細菌性或阿米巴性，表現發燒與右上腹痛。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟膿瘍可為細菌性或阿米巴性，表現發燒與右上腹痛。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med4-book4-ch04]]
 
 ## Key Details From Sources
 
+- (B) 細菌性膿瘍 (pyogenic abscess) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ## F. 肝膿瘍 (Liver abscess) (Ref. Cecil Table 155-2) Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - | 變形蟲綱 | | | | | | |------|-------|---------|------------|----------|--| | 腸道 | 大腸纖毛蟲 | 食入囊體→大腸 | →腹瀉 | 水瀉便→營養體 | | | | 痢疾阿米巴 | 食入囊體→大腸 | →燒杯狀潰瘍→肝膿瘍 | (成形便→囊體) | | Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - (2) 腸道外感染:阿米巴肝膿瘍、肺膿瘍、腦膿瘍、次發性阿米巴腦膜炎 - a. 腸道外、全身性的感染最常發生在肝臟。 - b. 阿米巴侵犯至黏膜下層後,可經由門脈循環,到達肝臟(肝右葉較多),形成阿米巴肝膿瘍。甚至進一步侵犯肺臟、心包膜。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].

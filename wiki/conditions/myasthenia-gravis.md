@@ -24,6 +24,12 @@ sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Myasthenia gravis, MG (重症肌無力)'
   - 'Myasthenia gravis, MG'
@@ -38,7 +44,7 @@ tags:
 
 ## Summary
 
-神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +68,25 @@ tags:
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch08]]
+- [[sources/med4-book4-ch05]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- II. 神經肌肉接合處疾病 (Neuromuscular Junction Disease) 174 - A. 重症肌無力 (Myasthenia gravis) 174 - B. Lambert-Eaton syndrome 175 - C. 肉毒桿菌中毒 (Botulism) 175 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- #### A. 重症肌無力 (Myasthenia gravis) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- (1) 定義:前中後大腦動脈、基底動脈的穿透支造成的中風,CT等影像學上的病兆 200 mg/dL 以上時,可以重複注射低劑量的胰島素 將血糖控制在 110 mg/dL 以內。(A, level 1+) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (D) 以 r-tPA 治療缺血性腦中風之劑量,最大量不超過 90 mg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...醫四 -56 正確的? (A) 立刻在其口中塞入壓舌板,以免病人咬到自己的舌頭 (B) 剛發作完血糖會過低,要立刻給予葡萄糖液靜脈注射 (C) 安排腦部電腦斷層攝影或磁振造影 (D) 立刻給予靜脈注射 phenytoin,每公斤體重 75 mg Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (B) 13. 38 歲男性,三星期前開始出現倦怠,頭痛,間歇性微燒,最近 兩天頭痛加劇合併噁心,嘔吐與嗜睡。身體檢查發現頸部僵硬。 醫四-5 腦脊髓液檢查呈現:壓力為 240 mmH2O,白血球為 480 顆(其中 淋巴球占 80%),蛋白質為 80 mg/dL,糖值為 20 mg/dL(血糖 值為 120 mg/dL),隱球菌抗原(cryptococcal antigen)為陰性。 血清之性病研究實驗室凝集法(VDRL)為陰性。下列何者為最 有可能之診斷? - (A) 病毒性腦膜炎 - (B) 結核性腦膜炎 - (C) 未經抗生素治療過之細菌性腦膜炎 - (D) 寄生蟲性腦膜炎 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- 【詳解】Valproic acid(VPA)比其他抗癲癇藥較易產生 tremor 的副作用,發生機轉可能與干擾 GABA pathway 有關。Tremor 的發生與使用劑量有關,但非血清濃度相關(即便在正常治療濃度)。研究顯示病患使用 1,000~1,500 mg/d 的劑量會增加 tremor 的風險。減少劑量或停藥 tremor 就會消失,可與 essential tremor 區別。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 1. Methadone: Methadone 是合成的鴉片類藥物,可以用來當作海洛因的替代藥物, 通常每天口服劑量 20~80 mg 可以有效抑制戒斷症候群發生。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - (C) 19. 推測人體血液中酒精濃度至少須達到多少 mg/dL 才可能出現眼球 震顫、言語不清等症狀? Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 20~30 mg/dL:出現運動和思考能力遲緩;30~80 mg/dL:運動和認知功能開始受影響;80~200 mg/dL:步態不穩、判斷出現問題、情緒不穩、認知退化;200~300 mg/dL:眼球震顫說話不清甚至出現失憶情形(alcoholic blackout);>300 mg/dL:生命徵象不穩定甚至可能死亡。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
@@ -73,16 +95,6 @@ tags:
 - ...神病藥比傳統抗精神病藥較易引起代謝症候群 ( metabolic syndrome ) 【詳解】第二代抗精神病藥物有-pine 結尾的會降低 seizure threshold 而增高癲癇風險,以 clozapine 為例,當超過 600 mg/ day 則有 4% risk。 99(二)專 (D) 13. 抗精神病藥物 clozapine 之副作用中,下列何者具有致命性,因 而曾在1970年代被歐美等國禁用? 醫四 -62 (A) 心肌炎 (B) 便秘 (C) 姿勢性低血壓 (D) 顆粒性白血球缺乏症 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - ...8~1.2 mEq/L | 影響腎功能、tremor、weight gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-John Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (D) 21. 如欲選擇 valproate 來治療急性躁症發作(acute mania),有效的 105(ニ)專血中濃度為多少 mg/mL ? 醫四-67 (A) 0.6~1.2 (B) 4~10 (C) 10~15 (D) 50~120 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, 告知恐慌症的生理病理機制, 症狀是短暫的現象, 通常不會有致命性 - (B) 行為治療: 教導胸式呼吸及漸進式 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (B) 14. 一位 25 歲女性,最近二個月常常無預警地發生胸悶、心悸、頭暈、呼吸困難、快要死掉的感覺,跑了好幾次急診室,均未檢查出身體毛病,被醫師轉介去看精神科,精神科開了一星期的fluoxetine 20 mg/錠,囑咐每天早餐後服用一顆,結果雖然沒有發生噁心、頭痛的副作用,但心悸、恐慌、坐立不安的感覺更嚴重,回診時,下列何者是比較適當的處理? Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- e. 另有研究指出高劑量 Acyclovir (800 mg qid or 400 mg 5 times a day) 可縮短 病程,但仍需更多資料。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 註:接受高劑量類固醇(> 2 mg/kg 或> 20 mg/day)超過 2 weeks 者,三個月內不可接種活菌疫苗。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (d) 出疹 24 小時內可給予 Acyclovir(20 mg/kg, 800 mg maximum, qid\*5 days),可縮短病程,減緩發燒程度及出疹子的數目及時間。Valacyclovir 和 Famciclovir 也可使用。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 靜脈免疫球蛋白(IVIG)效果相當突出,高劑量單次注射 IVIG(2 gm/kg), 合併 Aspirin 於急性期發燒時使用,用以退燒及減輕發炎反應,通常於急性期給 予高劑量阿斯匹靈(80~100 mg/kg/day),用以抗發炎與抑制血小板凝集作用, 而退燒後改以低劑量阿斯匹靈(3~5 mg/kg/day)長期使用,持續到血小板及 ESR 回復正常。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (2) 口服類固醇(prednisolone):是治療的最重要藥物,0.5~1~mg/kg/day,假使效果不明顯可增至 1.5~mg/kg/day,使用期間約一到三個月後,。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- ...(包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Thrombocytopenia ( < 10 萬 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (1) 口服類固醇:治療首選,療效最快、最顯著的治療方式。通常類固醇的劑量會從 1 mg/kg/day 的 prednisolone 開始給藥(換算成 60 公斤體重成人,大約是每天 60 毫克)。以類固醇治療時,應每 5~7 天評估療效一次,以便調整劑量,若仍有新水泡繼續產生,則將藥量增加 50~100% 至無任何新水泡為止,等到二週內沒有產生任何新水泡,且 80% 水泡傷口都癒合了,就可以開始減藥。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (2) 環孢黴素(cyclosporine):為免疫抑制劑,給予低劑量(< 5 mg/kg/day)時, 約對 70% 的慢性板塊狀乾癬病人有效,主要用於其他治療無效時或乾癬性紅皮 症患者可快速達到不錯的療效,不適宜長期使用。主要副作用是高血壓、高血 脂、多毛症、牙齦增生和不可逆之腎功能損害。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 
 ## Clinical Caveats
 
@@ -91,7 +103,9 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[diagnostics/electromyography|Electromyography, EMG (肌電圖)]]
+- [[anatomy/neuromuscular-junction|Neuromuscular junction, NMJ (神經肌肉接合處)]]
+- [[procedures/plasma-exchange|Plasma exchange, PLEX (血漿置換)]]
 
 ## Follow-up
 

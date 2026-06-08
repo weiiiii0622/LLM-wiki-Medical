@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Spontaneous bacterial peritonitis, SBP (自發性細菌性腹膜炎)'
   - 'Spontaneous bacterial peritonitis, SBP'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book2-ch22]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- 2. 治療(Ref. Taiwan guidelines for the management of stroke 2008,胡漢華,台灣腦中風學會): - (1) 一般採保守療法 - a. 血壓的控制目前尚無定論,但一般建議 SBP > 200 或有 IICP 且 SBP > 180 者, 需積極以靜脈持續點滴控制血壓;若 SBP > 180 仍須適度降壓。(IIb、Level C) 一般而言,目標是 SBP 50 cc 且 GCS 30 cc 且 GCS 3 cm 或> 30 cc | | 位 直 | (除非產生水腦,要做 VP shunt) | 且壓迫腦幹或造成水腦者要開 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 【詳解】6個月~12個月大的孩子正常心跳速率為80~120 bpm, SBP:100~80 mmHg, DBP:65~55 mmHg。病人體重由10 kg 掉至9.2 kg, 脫水達到體重的8%。眼窩下凹, 哭鬧不安但眼淚很少, 一天內尿布只換兩次且有心搏過快現象,代表男嬰處於中度脫水狀態。依照題目給予的線索,(B)是較合理的答案。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 1. $1\sim3$ per 100,000 children 250 時高度懷疑是 spontaneous bacterial peritonitis。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】肝硬化病人發燒腹痛,且 ascites PMN > 250 顆可考慮 SBP 的診斷。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].

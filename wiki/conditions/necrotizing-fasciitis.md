@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Necrotizing fasciitis (壞死性筋膜炎)'
   - 'Necrotizing fasciitis'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-快速進展的深部軟組織感染，需早期手術評估與廣效抗生素。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+快速進展的深部軟組織感染，需早期手術評估與廣效抗生素。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (B) botulinum toxin Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (1) 致病因子: S. aureus 分泌之 Toxic shock syndrome toxin 1 (TSST-1) 及 Staphylococcal enterotoxin 和 Group A Streptococcus 分泌之 Streptococcal pyrogenic exotoxins (SPE) ,也就是超級抗原 (superantigen) 所導致之系統性症候群。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - | Bacteria | Toxin | Toxin Type | Clinical Disease | |----------------|--------------------------|---------------|-------------------------------------| | Staphylococcus | Exfoliatin type A | Epidermolytic | Bullous impetigo | | aureus | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) 主要致病機轉為 Pseudomonas 製造的 exfoliative toxin 所引起 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

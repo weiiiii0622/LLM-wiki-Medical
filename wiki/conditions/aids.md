@@ -16,6 +16,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'AIDS (後天免疫缺乏症候群)'
   - 'AIDS'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,13 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- ...| | 蛋白 | | | (#) | 8. 下列有關神經性梅毒(neurosyphilis)之敘述,何者錯誤? | 106(二)專 | | | (A) 10% 沒有接受治療的早期梅毒的患者會罹病 | 醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性反應有助於診斷 | | | | (D)治療方法為經肌肉注射盤尼西林(penicillin)每週一次共三次 | | | | 【詳解】本題答 (A)、(D) 給分。 | | | (D) | 9. 變異型庫賈氏病(variant Creutzfeldt-Jakob disease, vCJD)和散發 | 106(一)專 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- (1) 可能因全身性疾病(systemic illness)導致去髓鞘(demyelination),常發生於白血病、惡性淋巴病及後天免疫缺乏症候群的患者。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 2. 20% 燙傷病人, 30% 的 AIDS 病人, 90% 的心臟手術後 (postcardiotomy) 病人。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (4) Immunosuppression:器官移植服用免疫抑制劑或 AIDS。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
@@ -65,8 +71,6 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 - (B) 1. 醫師發現其病患為 AIDS 帶原者,依照法令,應該通知下列何者? (A) 病患之合法配偶 (B) 當地之主管機關 (C) 醫師有保密義務,除非病患同意,否則不得告知任何人 (D) 有可能與病患發生性行為之人 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...azole (CNS)AmphoB (Life-threatening) | | | | 副球孢子菌 | Paracoccidioides | | | | | | 青黴菌 | Talaromyces (Penicillium) | 東南亞,AIDS 伺機感染 | | | | | | | 鴿糞/土壤→吸入肺中,通常無症狀 | 不需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluconazole | | | ポルエ(球黴菌) | | | 常在菌→鵝口瘡 (thrush) / 尿布疹 | 局部 Nystatin/Azole. | | | (本版图) | 念珠菌 | Candida | →擴散性念珠菌血症 | → Fl Source: [[sources/med3-book3-ch20|子、黴菌學]].
 - (2) 感染病程:Cryptococcus neoformans 存在被禽鳥排泄物(如鴿糞)污染的土壤中,一般人吸入肺中,通常無症狀;但免疫不全者吸入(如 AIDS CD4 Synthesis (細胞壁) | Itra-conazole (表皮黴菌) Flu-conazole (球黴菌型) Vori-conazole (絲黴菌型) Posa-conazole (Mucormycosis) | Ketoconazole ( 洗頭皮屑 )Clotrimazole,Econazole ( 擦香港腳 ) | | Echinocandins 類 | 抑制 β-1,3-glucansynthase(細胞壁) Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- c. 骨髓移植後、AIDS 的病人常預防性的使用 Fluconazole 避免黴菌感染,但要注意 與日俱增的抗藥性 (Fluconazole resistant fungi)。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- ...--------------| | (A) | 關於 Pneumocystis pneumonia 的敘述下列何者錯誤? (A) Pathogen Pneumocystis jirovecii 是一種 protozoan (B) 常發生於 AIDS 患者,此時病患血液 CD4+ 淋巴球數通常少於 200 cells/mm³ (C) 利用氣管鏡進行 bronchoalveolar lavage (BAL),在 BAL fluid 利用 Wright-Giemsa stain 可驗出 pathogen (D) Trimethoprim-Sulfamethoxazole (TMP-SMX) 是標準治療藥物 | 98(二)專醫三-47 | | (D) | 3. 下列有關性病以及 geni Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

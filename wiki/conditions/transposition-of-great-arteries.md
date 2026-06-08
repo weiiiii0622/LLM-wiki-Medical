@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Transposition of the great arteries, TGA (大動脈轉位)'
   - 'Transposition of the great arteries, TGA'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-主動脈與肺動脈連接錯位形成平行循環，需靠 ASD/VSD/PDA 混合血流維持生命。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈與肺動脈連接錯位形成平行循環，需靠 ASD/VSD/PDA 混合血流維持生命。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- b. 海馬回(hippocampus)與記憶形成有關,杏仁核與恐懼情緒(fear)有關。 - (a) 暫時性失憶症(Transient global amnesia, TGA):可能是海馬迴短暫缺血 所引起,好發中老年人,患者會短暫失去記憶數個小時,診斷需排除外 傷、癲癇等其他因素。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 1. 發紺型先天性心臟病 2 - A. 法洛式四合症 (Tetralogy of Fallot) 2 - B. 肺動脈閉鎖 (Pulmonary atresia) 3 - C. 三尖瓣閉鎖 (Tricuspid atresia) 4 - D. 大動脈轉位 (Transposition of the great arteries, TGA) 6 - E. 全靜脈回流異常(Total anomalous pulmonary venous return, TAPVR) 7 - F. Ebstein 異常 (Ebstein anomaly) 8 - G. 左心發育不全症候群(Hypoplastic left heart syndrome, HLHS) *9* Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (5) 三尖瓣閉鎖變型:這類病人除了三尖瓣閉鎖以外,同時發生大血管轉位 (transposition of the great arteries);此時臨床上表現為進入肺循環血液大量增加。若 VSD 大小不夠的話,進入體循環的血流量會減少。長期下來造成早期心衰竭。臨床上主動脈窄縮不常見於這類病人。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 心電圖:左心室肥大造成電軸左偏 (left-superior axis) (except in those with transposition of the great arteries)。臨床上發現電軸左偏與發紺時,強烈懷疑是三尖瓣閉鎖。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

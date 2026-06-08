@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Calcium homeostasis (鈣離子恆定)'
   - 'Calcium homeostasis'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 3. Pseudohypoparathyroidism: PTH 分泌正常但 PTH receptor (bone、kidney) 發生缺陷造成 PTH 抗性。病人有矮胖、圓臉、皮下鈣化、第四指骨短、智能不足,特稱為 Albright's hereditary osteodystrophy (AHO)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) 出院治療則是補充 Vitamin D、口服鈣片使血鈣維持正常。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -66,7 +69,6 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - A. 鈣離子平衡 I 一副甲狀腺素 (Parathyroid hormone)、維他命 D (Vit. D)、抑鈣素 (Calcitonin) Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - 鈣、磷的平衡有了生理的基礎搭配圖像會很好記憶,鈣磷由腸胃道吸收至血中→血中的鈣磷儲存於骨頭、血中多餘的鈣磷由腎臟排泄。Vit. D、PTH皆可以升血鈣,Vit. D增加腸胃吸收而來,PTH增加骨頭溶解而來。[Ref. LANGE pharmacology, Fig Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - 1. 副甲狀腺素 (PTH): [重點:低鈣時→副甲狀腺被刺激→溶解骨頭以升鈣] - (1) 要先知道骨頭是由磷酸鈣構成,要升鈣,先從骨頭搬出磷、鈣,再將磷由腎臟排出、 且抑制鈣由腎排泄,因而藉此升鈣;否則溶解出磷、鈣後,不將磷由腎臟排出,又 會等比例沉澱回骨頭。 - (2) 因此生理上的 PTH 除了會促進骨溶蝕出鈣、磷,還會抑制腎排鈣、促進腎排磷,造成高血鈣、低血磷; - (3) 副甲狀腺亢進時分泌的 PTH 劑量較大、且持續分泌,因而促進骨溶蝕造成高血鈣、 骨質疏鬆;但若較小劑量、脈衝方式分泌的 PTH,反而會促進成骨作用,例如用來 治療嚴重骨鬆症的每天皮下一針 PTH。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- ...,一個哥哥因甲狀腺髓質癌開刀,請問下列檢查何者為必要? | 內泌 04 | | | (1) Ca · P · albumin/globulin · intact parathyroid hormone (iPTH) | | | | (2) Calcitonin (3) 甲狀腺超音波 (4) 24hr urine catecholamine | | | | (5) growth hormone (GH) · thyroid-stimulating hormone (TSH) · | | | | adrenocorticotropic hormone (ACTH) · cortisol · prolactin | | | | (6) MRI of sella | | | | (A) (1)+(2 Source: [[sources/med3-book2-ch16|辛、其 他]].
 
 ## Clinical Caveats
 

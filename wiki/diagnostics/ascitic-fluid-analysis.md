@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Ascitic fluid analysis (腹水分析)'
   - 'Ascitic fluid analysis'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- 1. 結果判讀順序: Protein → WBC → Sugar - (1) 先看 protein ,protein 高代表發炎,只有 protein 高,WBC 不高、glucose 不低, 考慮自體免疫疾病,如 Guillain-Barre 症候群(= acute inflammatory demyelinating polyneuropathy = AIDP)、多發性硬化症(multiple sclerosis)。 - (2) 再看 WBC,如果加上 WBC 高、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低,代表是黴菌、結核、細菌性腦膜炎;其中可依白血球的量、lymphocyte 或 PMN 為主來進一步鑑別。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 【詳解】依照腦脊髓液檢驗數據(glucose),(A)、(C)可以優先刪除。再者,腦脊髓液白血球分類顯示 PMN 佔絕大多數(bacterial meningitis),故選(B)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - PS: 黴菌引起的中樞神經感染,其 CSF 中白血球分類上以monocyte 為主(若在感染初期做腰椎穿刺檢查,仍有可能以PMN 為主要表現。此外,隱球菌感染中樞神經,其 CSF 檢查白血球計數也有可能是在正常範圍)。再者,臨床上新型隱球菌感染影響到中樞神經時,發生在 subacute or chronic infection。若以臨床病程時間來看,(B)的機會最大。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (1) 尿液分析:可見到紅血球細胞,通常為 RBC casts。此外,可以偵測到蛋白質、 PMN 白血球。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

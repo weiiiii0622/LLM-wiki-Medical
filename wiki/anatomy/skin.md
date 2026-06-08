@@ -18,6 +18,9 @@ sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Skin (皮膚)'
   - 'Skin'
@@ -32,7 +35,7 @@ tags:
 
 ## Summary
 
-身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +53,17 @@ tags:
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...Stevens-Johnson syndrome)」? 醫四 -74 (A) topiramate (B) gabapentin (C) lamotrigine (D) valproate 【詳解】lamotrigine 在臨床上很容易有 skin rash 的副作用,也 易引發過敏。AED中除了老藥 phenytoin 和 carbamazepine 外, 新藥就 lamotrigine 有案例報告會引發 SJS。 (#) 39. 下列何種癲癇藥物之作用機轉,不會增加神經突觸(synapse) 101(二)專 中 GABA ( $\gamma$ -aminobutyric acid) 之濃度或作用? 醫四-17 (A) valproic acid (B) vigabatrin Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...? | 醫四 -54 | | (A) 小於 30% | | | (B) 30~40% | | | (C) 60~70% | | | (D) 大於 90% | | | (D) 47. 因服用抗癲癇藥物(anticonvulsants)而造成的皮膚疹(skin | 98(一)專 | | rash) 是: | 醫四 -56 | | (A) 與抗癲癇藥物的劑量有關(dose-related) | | | (B) 與服用者的肝功能有關 | | | (C) 與服用者的腎功能有關 | | | (D) 是一種特異體質反應(idiosyncratic reaction) | | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (C) 1. 下列何者不是神經纖維瘤第一型 (neurofibromatosis type 1) 的典 108(一)專 型症狀? 醫四-58 - (A) 虹膜色素瘤(Lisch nodule) - (B) 咖啡牛奶斑 (café au lait spots) - (C) 雙側聽神經瘤 (bilateral acoustic neuromas) - (D) 皮膚多發性神經纖維瘤 (multiple skin neurofibromas) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (#) 2. 軀幹及肢體皮膚呈現 café-au-lait 斑點,是下列何種疾病的特徵? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (B) 30. 一位 70 歲男性,最近數月天天頭痛且視力模糊。頭痛位置在左 100(二)專 側顳部,非搏動性疼痛(non-throbbing pain),每天頭痛時間達 醫四-52 數小時之久,頭痛時並沒有噁心、嘔吐或流淚等症狀。病患同時 抱怨全身倦怠、發燒及肌肉疼痛。身體檢查發現左側淺部顳動脈 (superficial temporal artery)變硬且附近皮膚有紅腫。以下那個 檢查,對診斷最有幫助? - (A) 類風濕因子 (Rheumatoid factor, RF) - (B) 紅血球沈降速率 (Erythrocyte sedimentation rate, ESR) - (C) HLA-typing - (D) 腫瘤標記 (Tumor markers) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (D) 使用古柯鹼(cocaine)可能造成有蟲或螞蟻在皮膚下爬行的 幻覺(formication) Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - ...、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramate | | Fatigue、cognitive dulling、不易 body weight | | | | | increase | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 10. 過敏性皮膚炎與光敏感:長期使用 chlorpromazine 的病人皮膚可能會呈現藍灰色。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].

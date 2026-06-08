@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book3-ch07]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Selective serotonin reuptake inhibitors, SSRIs (選擇性血清素回收抑制劑)'
   - 'Selective serotonin reuptake inhibitors, SSRIs'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-常用 antidepressant/anxiolytic 類別，需注意 GI、sexual dysfunction、serotonin syndrome 與初期焦慮。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常用 antidepressant/anxiolytic 類別，需注意 GI、sexual dysfunction、serotonin syndrome 與初期焦慮。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book3-ch07]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...ia) | Dopamine-depleting agents (reserpine, tetrabenazine) | | | | | α-Methyldopa · Lithium carbonate · Valproic acid · Fluoxetine | | | | Toxins | Methyl-1,2,4,6 tetrahydropyridine (MPTP) \cdot Manganese \cdot Cyanide | | P) · Manganese · Cyanide | | | Methanol · Carbon monoxide · Carbon disulfide · Hexane | | | | Ref. Harrison | Table 366-2 Diffe Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 1. 藥物治療: - (1) SSRI類藥物:所有的 SSRI類藥物對於 panic disorder 均有效果,如 paroxetine (FDA approval)、sertraline、fluvoxamine,但是需要較長時間才會開始有效。 - (2) BZD 類藥物:較快產生 anti-panic 的效果,如 alprazolam、clonazepam、lorazepam, 缺點是可能會產生耐受性(tolerance)或依賴(dependence)。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (C) 選擇性血清素再吸收抑制劑(SSRI)對恐慌症有不錯的療效 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (A) 苯二氮平類(benzodiazepines) 醫四-75 - (B) 情緒穩定劑 (mood stabilizers) - (C) 血清素再吸收抑制劑(SSRI) - (D) 抗精神病藥物 (antipsychotics) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].

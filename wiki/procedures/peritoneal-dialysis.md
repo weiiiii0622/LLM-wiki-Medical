@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Peritoneal dialysis (腹膜透析)'
   - 'Peritoneal dialysis'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,12 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...r atrophy | | degenerative | | neuronal inclusions) | Shy-Drager syndrome | | disorders | | | Motor neuron disease with PD features | | | | Dementia with Lewy l | podies (cortical · brainstem neuronal inclusions) | | (Parkinson- | tau pathology | Progressive supran | uclear palsy | | Plus syn.) | ("tauopathies") | Corticobasal degene | erat Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...在晚期開始出現運動阻滯(motor block)時,進 | 99(二)專 | | | 行下列何種動作比較不受影響? | 醫四 -48 | | | (A) 上樓梯 (B) 走平地 (C) 過旋轉門 (D) 進出電梯門 | | | | 【詳解】PD 會有 freezing phenomenon, 會伴隨 first step hesitation, | | | | 往往第一步跨不出去。 | | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...er's disease) (C) 額顳葉失智症(frontotemporal dementia) (D) 尿毒症(uremia) 【詳解】REM sleep behavior disorder 和 Parkinson's disease(PD) 高度相關,也好發在有 PD 家族史的患者身上。 | 106(一)專醫四-67 | | (A) 18. 依據社會再適應評估表(social readjustment rating scale),下列何種生活事件所造成的壓力強度最大? (A) 配偶死亡 (B) 離婚 (C) 入獄 (D) 子女死亡 【詳解】社會再適應評估表是一種把生命中各種可能遇到的壓力量化為 0~100 分的量表;配偶死亡分數最高 100 分;離婚:73 分;入獄:6 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - ...塞及壞死。 | | | | 半乳糖血症 | 體染色體隱性遺傳疾病(第9對染色體)。病童無法將乳糖正常代謝,常在餵奶後發生嘔吐及昏睡,可造成眼、肝、腦的損害。治療:停用乳製品。 | | | | 葡萄糖 - 六 -磷酸鹽脫氫酵素缺乏症(G-6-PD缺乏症,俗稱蠶豆症) | 此種疾病乃人類最常見的一種遺傳性疾病(性聯遺傳),即紅血球內葡萄糖新陳代謝異常的疾病,每百人中約二~三人帶有此病。在特殊環境下,「如吃蠶豆、接觸萘丸(臭丸)、擦紫藥水、服用磺胺劑及解熱鎮痛劑等」,會造成紅血球破裂產生急性溶血性貧血。 | | | Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (D) 22. 下列那一項不是台灣地區 G-6-PD (Glucose-6-phosphate dehydrogenase) 缺乏症的特徵? Source: [[sources/med4-book1-ch10|癸、遺傳學]].

@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Aminoglycosides (胺基糖苷類)'
   - 'Aminoglycosides'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- (D) 病人感染時使用 aminoglycoside 藥物 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (C) 1. 治療黴漿菌 (*Mycoplasma pneumoniae*) 肺炎,下列何種藥物最 109(二)專 適當? 醫四-4 - (A) Penicillin - (B) Vancomycin - (C) Azithromycin - (D) Gentamicin Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) ampicillin 與 gentamicin 投予 7 天 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (1) 經驗性抗生素使用: - a. 若懷疑 Viridians streptococci 或 Enterococcus: penicillin 或 ampicillin 加上 gentamicin。 - b. 若懷疑 *Staphylococcus aureus*: penicillinase-resistant penicillin 或 vancomycin 加上 gentamicin。 - c. 若針對術後病童或是病童有 prosthetic valves,使用 vancomycin 與 gentamicin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

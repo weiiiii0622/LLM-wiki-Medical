@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Cerebral palsy, CP (腦性麻痺)'
   - 'Cerebral palsy, CP'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...ous | Vascular parkinsoni | sm | | | acquired | Normal pressure hy | drocephalus | | | conditions | Catatonia | | | | | Cerebral palsy | | | Secondary Pa | arkinsonism | | | | Trauma | Repeated head traun | na ("Dementia pugilis | tica" with parkinsonian features) | | Infectious | Postencephalitic PD | | | | | Neurosyphilis | | | | Metabolic | Hypopara Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - IV. 其它的神經肌肉疾病 234 - A. 格林一巴利症候群(Guillain-Barrésyndrome) 234 - B. 貝爾氏顏面神經麻痺 (Bell palsy) 235 - C. 腦性麻痺 (Cerebral palsy, CP) 236 - D. 遺傳性運動一感覺神經病變 (Hereditary motor and sensory neuropathy) *237* Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (A) 周產期窒息導致腦性麻痺 (Cerebral palsy, perinatal asphyxia induced) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - Neurological disorders: Arnold-Chiari malformation (I and II) · Cerebral palsy · Meningomyelocele · Mobius syndrome · Myasthenia gravis. Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

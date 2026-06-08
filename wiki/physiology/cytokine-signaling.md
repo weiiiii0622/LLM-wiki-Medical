@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Cytokine signaling (細胞激素訊號)'
   - 'Cytokine signaling'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- ...性硬化症(multiple sclerosis)的敘述,何者錯誤? | 100(二)專 | | | (A) 是週邊神經系統的疾病 | 醫四 -47 | | | (B) 腦脊髓液內之腫瘤壞死因子(Tumor Necrosis Factor, TNF) | | | | 與疾病活動性有關 | | | | (C) 干擾素治療有療效 | | | | (D) 相關之病毒為 EBV 及 HHV6 | | | | | | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - a. 超級抗原會直接和 MHC II 結合並刺激活化 T 細胞,造成 IL-1、IL-6、TNF 和 Interferon $\gamma$ 等激素的釋放,引起發燒、低血壓、紅疹和多重器官衰竭。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (4) 生物製劑:生物製劑主要是指由生物體製造,具有藥理作用的蛋白質製劑。 目前國際上普遍使用的共有五種,包括針對 TNF 的單株抗體 Infliximab 及 Adalimumab、TNF 受體融合蛋白 Etanercept、針對 IL-12 和 IL-23 的單株抗體 Ustekinumab、作用於 CD2 的 Alefacep。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - 4. 異位性皮膚炎的病因是許多因素綜合的結果,家族性和異位性體質等基因因素加上環境中過敏因子,造成 Type I(IgE-mediated)hypersensitivity reaction,急性發炎反應和 Th2、IL-4、IL-13 有關,慢性發炎反應則和 Th1、IL-5、IL-12、GM-CSF、IFN-γ有關。 - (1) 常見的過敏原包括塵蟎、貓狗等動物的毛、蟑螂、黴菌、花粉等,幼兒期腸胃 道比起大人較可能受食物過敏原影響,常見的可能食物過敏原有牛奶、蛋白、 麥、花生、海鮮等。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -68,7 +71,6 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - | (B) | 有關 T 淋巴球(T lymphocytes)的敘述,下列何者正確? (A) 活化的 CD8+T 淋巴球(CD8+T lymphocytes)可分化成可分泌細胞激素的 TH1 或 TH2 細胞(cytokine-producing TH1 or TH2 cells) (B) 宿主對抗結核菌感染,CD4+T 淋巴球(CD4+T lymphocytes)的活化和增生是最重要的 (C) TH1 細胞(TH1 cells)主要製造的細胞激素為干擾素(IFN-γ)以及介白質 4 和 5(interleukin-4 and interleukin-5) (D) TH2 細胞(TH2 cells)主要製造介白質 Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 - (2) Anti-TNF $\alpha$ : 自 2000 年,不斷有報告顯示其可迅速、持續地減緩臨床上、實驗室數據上的疾病活性,有> 50% 病患的 BASDAI(評估 AS 的活性量表)可減少一半以上。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - (3) Sulfasalazine:對周邊關節較有效,以周邊關節表現的患者建議先使用此藥,無效 再使用 Anti-TNF α 生物製劑。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- (1) 與 AS 類似, NSAID 可急性緩解疼痛、Anti-TNF 的生物製劑不僅對皮膚、關節病變都有顯著的改善,還可減緩疾病的進展(Delay disease progression)。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

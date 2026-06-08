@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(四)第3冊精神科`
-- Latest chapter source summaries: 9
-- Total chapter source summaries: 132
-- Total topic-first nodes: 860
+- Latest ingested textbook: `醫(四)第4冊神內`
+- Latest chapter source summaries: 8
+- Total chapter source summaries: 140
+- Total topic-first nodes: 934
 
 ## Graph Shape
 

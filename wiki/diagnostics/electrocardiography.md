@@ -33,6 +33,7 @@ sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Electrocardiography, ECG (心電圖)'
   - 'Electrocardiography, ECG'
@@ -47,7 +48,7 @@ tags:
 
 ## Summary
 
-心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +81,13 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book3-ch05]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- 2. 心因性血栓 (cardio-embolic): - (1) 位置: MCA 的上支。 - (2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (B) 立即抽血進行血液生化和相關檢查,並做心電圖 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (A) 17. 一位 70 歲女性患者,有高血壓、糖尿病病史多年,晚上 11 點入 睡時皆正常,清晨 6 點起床時,卻發現說話不太清楚,左側肢體 無力,早晨 6點 30分,被家人送至急診室,早晨 7點 20分,血壓: 160/88 mmHg,所有血液生化檢查、心電圖皆正常,腦斷層檢查 無腦出血或其它異常,此時最不適合的治療為何? Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (A) 須考慮是否有任何身體疾病,在醫療的處置上,需先評估個 案的標準生化檢查、心電圖與甲狀腺功能檢查 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - 2. 心臟副作用: Chlorpromazine 會使 QT prolong、thioridazine 可能會導致 torsade de pointes,因此需要定期追蹤心電圖,當 QT interval 超過 0.44 ms,猝死 (sudden death) 的危險性增高。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
@@ -98,9 +103,6 @@ tags:
 - (A) 1. 一位 45 歲女教師,主訴半年內逐漸發生運動時氣促,倦怠,胸悶以及昏厥的症狀。身體診察發現頸靜脈壓力上升,可摸到右心室搏動, 且在右側聽到 S4 的心音,胸部 X 光發現肺動脈膨大,下列敘述何者 最適當? - 107(一)專 醫三 -25 - (A) 應檢測 protein C, protein S, antithrombin III 等是否異常 - (B) 心電圖通常可以發現心軸向左偏轉及左心室肥大 - (C) 可以用心臟超音波測量二尖瓣逆流的流速來估計肺動脈的壓力 - (D) 病患肺血管主要的表徵為血管內皮增生,發炎反應增加,以及 血管擴張 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - (D) 9. 一位 58 歲男性,過去無全身性疾病之病史,最近在例行之健康檢查 中發現其血液相如下:血紅素 14.7 g/dL,血比容 46%,白血球數 12,350/µL, 血小板數 725,000/µL。其他生化、心電圖及胸部 X 光 檢查均無異常,病人亦無自述症狀。下列何者是目前對此病人最適 當的治療? Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - (C) 1. 一位 70 歲男性淋巴癌病人,分期為 Ann Arbor 第四期,血清 LDH 值 102( 二 ) 專 6,500 U/L (正常 (A) PR 波間距縮短(B) QT 波間距縮短(C) 心房震顫(D) 高聳的 T 波 | 醫三 -44 | | (B) | 7. 承上題,該病患之處置,下列何者較適當? (A) 立即給予靜脈注射 50% 葡萄糖 (B) 補充水分,並給予利尿劑 (C) 注射鈣離子 (D) 給予佳力美粉(Kalimate) | 97(二)專醫三-45 | | (C) | 8. 一位 70 歲胃癌男性因為突然下半身癱瘓(paraplegia)來急診就醫。發病前一個月開始出現下背痛。X 光檢查發現 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- ...; 電解質 (單位 mmol/L): Na 140, | | | | | K 2.3, Cl 112, Ca 2.25。對於此病人的進一步診斷,下列那個處置最 | | | | | 合適? | | | | | (A) 動脈血氣體分析 (B) 心電圖 (C) 胸部 X 光檢查 (D) 肌電圖 | | | (D) | 10. | 下列選項何者不是 Gitelman's syndrome 的特徵? | 100(二)專 | | | | (A) 低血鉀 (B) 代謝性鹼中毒 (C) 低血鎂 (D) 高尿鈣 | 醫三-26 | | | | 【詳解】G i telman's syndrome 為類似使用 Th i azide,造成高血鈣、 | | | | | 低尿鈣。 | | | (B) | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...---------------------|-------------------------------------------------------| | $K = 3\sim5 \text{ mEq/L}$ | ALA | 正常的 EKG | | K = 7 mEq/L | 1/1/ | T 波變高(Tent T wave)PR 延長 | | K = 8-9 mEq/L | \\\\\ | P 波變平,甚至 Sinus arrestQRS 變寬 | | K > 10 mEq/L | | Sine wave Cardiac standstill Ventricular fibrillation | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- | 口訣 | 高血鉀 | 低血鉀 | |---------|-----------------------------------|---------------| | 鉀使 T 高 | 高T波 | T 波消失,而出現 U 波 | | 前/後半部延長 | PR 延長、QRS 變寬QT 縮短連成 Sine wave | QT 延長 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

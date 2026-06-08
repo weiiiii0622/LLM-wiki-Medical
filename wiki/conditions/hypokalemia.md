@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Hypokalemia (低血鉀)'
   - 'Hypokalemia'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 【詳解】(A) 女性較多。(C) 低血鉀現象。(D) 暴食症盛行率(年 輕女性 1~4%) 比厭食症(年輕女性 0.5~1%) 高。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -60,7 +63,6 @@ tags:
 - 2. 診斷出代謝性鹼中毒要想想看是不是病人體液不足?是不是過度利尿劑使用?是不是有低血鉀或 hyperaldosteronism ?診斷出代謝性酸中毒後,是否有進一步算陰離子間隙,再分別找出其原因進行治療。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...酸中毒 (Renal tubular acidosis, RTA): 哪些問題會造成腎小管受傷? - a. Type 1 RTA (distal RTA): 自體免疫 (Sjögren syn) 造成遠段腎小管破壞→無法排 H+造成酸中毒、低血鉀; 尿中 H+ ↓→尿 NH4+ ↓ (UAG > 0)、尿 pH > 5.3 - b. Type 2 RTA (proximal RTA):蛋白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...0. 下列關於 Liddle's syndrome 的敘述,何者錯誤? (A) 為自體顯性遺傳,amiloride-sensitive sodium channel 發生 activating mutations (B) 臨床表現有高血壓,低血鉀及代謝性鹼中毒 (C) 血清 renin 濃度高,aldosterone 濃度高 (D) 低鈉飲食及 amiloride 可矯正其高血壓及電解質異常 【 詳 解 】(C) Liddle's syndrome 重 點: 血 清 renin 濃 度 低,aldosterone 濃度低,但卻表現 Hyper RAS(留鈉排鉀排氫)。 | | | (C) | 21. 下列何者為正常陰離子隊代謝性酸中毒(normal anion gap meta Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- b. 驗 Spot urine 算 FeNa 的值 Na /F Cr ) | 一 再合以 い 校正 | FENa > 1表示鈉由腎臟漏出→內因性腎臟衰竭 | | | атат у | 尿鉀占血鉀的比例 | 低血鉀中 | | TTKG | $\frac{(U_K/U_{osm})}{(D_K/D_{osm})}$ | | TTKG > 7表鉀由腎臟漏出 | | | $(P_K/P_{osm})$ | 再各以 OSM 校正 | TTKG 1%(尿鈉高),表示尿鈉無法由腎臟回收,可知腎臟功能已受損。一位敗血症的病患一開始可能有腎前性腎衰竭,此時 FENa 20;若敗血症未控制,將導致腎因性腎衰竭(急性腎小管壞死、ATN),此時的 FENa > 1%、 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 
@@ -69,7 +71,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/hypokalemic-periodic-paralysis|Hypokalemic periodic paralysis (低血鉀週期性麻痺)]]
 
 ## Follow-up
 

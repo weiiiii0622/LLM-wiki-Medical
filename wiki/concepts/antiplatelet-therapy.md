@@ -30,6 +30,8 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Antiplatelet therapy (抗血小板治療)'
   - 'Antiplatelet therapy'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-冠心症與 PCI 的核心血栓預防策略。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠心症與 PCI 的核心血栓預防策略。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,16 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med4-book4-ch05]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- ...最可能在何處?(A) 視丘(thalamus)(B) 中腦(midbrain)(C) 橋腦(pons)(D) 延腦(medulla) | 106(二)專醫四-46 | | (C) 1 | 0. 下列有關腦中風的敘述,何者錯誤? (A) 使用抗血小板藥物,有預防缺血性中風再發的效果 (B) 治療高血壓,可有效降低中風的發生 (C) 抽煙與腦中風,無直接的關聯性 (D) 缺血性腦中風的病人,只要合併心房震顫,應建議接受抗凝血劑治療 | 106(二)專醫四-47 | | (A) 1 | 1. A 先生,65 歲男性,有高血壓病史多年,早上吃完早飯後,突然頭暈,步態不穩,被送至急診室,身體神經功能檢查,發現講話口語不清,吞嚥困難,右側 gag reflex 消失,左側疼痛感覺遲鈍,其病灶 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (B) 給予口服抗血小板劑 (aspirin) 治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- ...論李 | | | | 先生的疾病和用藥,下列何者最為正確? | | | | (A) 帕金森氏症(Parkinson's disease)及 L-dopa | | | | (B) 本耐狄克氏徵候群(Benedikt's syndrome)及 Aspirin | | | | (C) 傑克遜氏發作(Jacksonian seizure) 及 phenytoin | | | | (D) 紀蘭巴雷徵候群(Guillain-Barré syndrome )及 Vitamin B 1 | | | | 【詳解】(A) 長期服用大量 Levodopa 會造成 On off phenomenon。 | | | (C) 28. | 下列有關 Huntington disease 的敘述,何者錯誤? | 10 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...---|-------------| | (A) 阿多平 (atropine) | 醫四 -49 | | (B) 麻醉劑(narcotics) | | | (C) 苯二氮平類(benzodiazepines) | | | (D) 阿斯匹靈(aspirin) | | | (D) 32. 王先生 38 歲,他在近 2 年來逐漸變得多疑,事事挑人毛病,偶 | 99(二)專 | | 會爆發脾氣,同時無法集中注意力,手指會出現不規則扭動,無 | 醫四-56 | | 法長時間緊握一件物體。追問其家族史發現他的爸爸在 45 歲左 | | | 右有類似的症狀,發病幾年後已去世。最可能之診斷是: | | | (A) 魏斯特氏症候群(West's syndrome) | | | (B) 亞爾培氏症 (Al Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (e) 感染水痘之病童勿給予水楊酸類藥物(Aspirin)退燒,會增加發生雷氏症候群(Reye's syndrome)的危險性。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹 108( ) 專子型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 4. 常見引起固定性藥物疹之藥物為 Tetracyclines、NSAID、磺胺類藥物 (sulfadrugs)、Aspirin、Barbiturates。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
@@ -90,11 +99,6 @@ tags:
 - (5) 治療: - a. 在成人或免疫不全的病人身上,建議使用 acyclovir 治療,一般健康兒童感染 水痘則不須常規給 acyclovir。 - b. 不建議使用 aspirin 治療,容易產生 Reye syndrome。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹子 108( ) 專型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】病人血氨上升代表病人肝臟 urea cycle 代謝出問題,(B)(C) 接有可能。但是 (C) 為性聯遺傳疾病,只有男性才會得到,因此 (C) 最不可能。Aspirin 在兒童常見的併發症為 Reye syndrome,此疾病的特點為 rapid and progressive encephalopathy 以及肝功能異常。Aspirin 其他副作用包括 metabolic acidosis、hyperglycemia、hyperkalemia、hypernatremia、hypoglycemia、edema、hypotension、arrhythmia、coma、confusion、dizziness、rhabdomyolysis、hemolytic anemia、thrombocytopenia。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (3) Platelet aggregation:活化後會表現 GP IIb/IIIa,再藉由 Fibrinogen 等互相聚集。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...---------------------------------------|------------------| | (A) | 7. 下列何者對血小板功能的影響最小? | 103(二)專 | | | (A) heparin (B) aspirin | 醫三-49 | | | (C) uremia (D) von Willebrand disease | | | (D) | 8. 一位病人血液檢查發現血小板數目是 520,000/μL。下列何者不需列入鑑別診斷? (A) Iron deficiency anemia (B) Massive hemorrhage (C) Postoperation of ruptured appendicitis (D) Ascariasis 【詳 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (D) Aspirin uptake Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (C) 1. 某論文經搜尋 Cochrane Library、MEDLINE 等,取得多個類似研究資料,並合併分析後結果如下:長期使用抗血小板藥物比上安慰劑的隨機分配試驗,有 1,965 位病人,使用每日劑量 75 mg 到 325 mg的 aspirin,平均追蹤 1.3 年。結果 aspirin 對於中風合併心肌梗塞或血管性事件有明顯下降(odds ratio (OR) 0.71,95% confidence interval (CI) 0.51 to 0.97)。依據實證醫學的原則,下列何者正確? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- (C) 6. 某論文摘要如下:長期使用抗血小板藥物比上安慰劑的隨機分配試驗,每日劑量 75 mg 到 325 mg 的 aspirin,平均追蹤 1.3 年。aspirin 對於中風合併心肌梗塞或血管性事件有明顯下降(odds ratio (OR) 0.71,95%confidence interval (CI) 0.51 to 0.97)。服用 aspirin 者比未服用 aspirin 者發生中風合併心肌梗塞或血管性事件的敘述,何者正確? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 
 ## Clinical Caveats
 
@@ -104,6 +108,8 @@ tags:
 ## Related Pages
 
 - [[conditions/acute-coronary-syndrome|Acute coronary syndrome (急性冠心症)]]
+- [[conditions/ischemic-stroke|Ischemic stroke (缺血性腦中風)]]
+- [[conditions/transient-ischemic-attack|Transient ischemic attack, TIA (暫時性腦缺血發作)]]
 
 ## Follow-up
 

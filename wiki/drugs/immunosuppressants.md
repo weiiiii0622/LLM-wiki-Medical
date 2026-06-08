@@ -27,6 +27,7 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Immunosuppressants (免疫抑制劑)'
   - 'Immunosuppressants'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,11 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- 【詳解】本題解答應為(D),目前可用 Azathioprine、prednisolone 和 Ritaximab 來預防。Interferon-β 不應使用在 NMO 患者上, 會有惡化疾病的可能。Glatiramer acetate 目前無足夠資料顯示對 治療 NMO 有效。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (1) 疾病初期可使用局部或是全身性的類固醇及免疫抑制劑(如 MTX, tacrolimus等)來控制發炎。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (2) 免疫抑制劑: chlorambucil、cyclosporine A 和 cyclophosphamide,對於眼鏡病變、 黏膜潰瘍和神經病變都有不錯療效。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -88,7 +91,6 @@ tags:
 - (4) 治療:控制好引發 HLH 的原因是最基本的治療,然後再用以下方式。 - a. 化療藥物: etoposide + dexamethasone +/- cyclosporine。 - b. IVIG + steroid 使用在低危險族群。 - c. 無法控制的脾功能亢進者考慮脾切除。 - d. 幹細胞移植:有機會治癒,特別是 primary HLH 的病人。目前治癒率可達到 6 成以上。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) 藥物:類固醇、生長激素、β agonist、cyclosporine。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) Class III、Class IV 可見 Subendothelial immune deposits、腎絲球活躍地發炎,須積極以高劑量類固醇+免疫抑制劑(Cyclophosphamide)治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- | 分 類 | 作用 | 藥 物 | | | |------------------|-----------------|---------------------------------|--|--| | 烷化劑 | 抑制分化快速細胞 | Cyclophosphamide (Endoxan® 愛德星) | | | | 抑制 Purine 製造 | 抑制白血球 | Azathioprine (Imuran® 移護寧 ) | | | | 14th Latine 35/5 | 256169 1 mr. 9. | MMF (Cellcept® 山喜多) | | | | 減少 IL2 分泌 | 抑制T細胞 | Cyclosporin (Sandimmun®新體睦) | | | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 
 ## Clinical Caveats
 

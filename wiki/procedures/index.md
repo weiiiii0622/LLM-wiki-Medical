@@ -15,6 +15,7 @@ Clinical procedures, operations, interventions, and workflows.
 
 ## Pages
 
+- [[procedures/aneurysm-clipping-coiling|Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)]] - ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。
 - [[procedures/arterial-switch-operation|Arterial switch operation (大血管轉位動脈轉位術)]] - TGA 的根治手術，將主動脈與肺動脈換回並轉移冠狀動脈。
 - [[procedures/balloon-atrial-septostomy|Balloon atrial septostomy, BAS (氣球心房中膈造口術)]] - 在 TGA 等心房混合不足時擴大心房交通以改善氧合。
 - [[procedures/blood-transfusion|Blood transfusion (輸血)]] - 依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。
@@ -38,6 +39,7 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/implantable-cardioverter-defibrillator|Implantable cardioverter-defibrillator, ICD (植入式心臟去顫器)]] - 預防猝死的植入式裝置。
 - [[procedures/kidney-transplantation|Kidney transplantation (腎臟移植)]] - ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。
 - [[procedures/liver-transplantation|Liver transplantation (肝臟移植)]] - 末期肝病、部分 HCC 或肝衰竭的根本治療選項。
+- [[procedures/lumbar-puncture|Lumbar puncture, LP (腰椎穿刺)]] - 取得 cerebrospinal fluid 以診斷 CNS infection、subarachnoid hemorrhage、demyelinating disease 等；IICP 或 mass effect 時需先評估風險。
 - [[procedures/lumpectomy|Lumpectomy (乳房保留手術)]] - 乳癌局部治療之一，常需搭配放射治療。
 - [[procedures/mastectomy|Mastectomy (乳房切除術)]] - 乳癌手術方式之一，依病灶、風險與病人選擇決定範圍。
 - [[procedures/mechanical-ventilation|Mechanical ventilation (機械通氣)]] - 呼吸衰竭支持治療，設定與肺保護策略需依病況調整。
@@ -47,10 +49,11 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/percutaneous-coronary-intervention|Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)]] - 冠狀動脈再灌流與血管再暢通方法。
 - [[procedures/peritoneal-dialysis|Peritoneal dialysis (腹膜透析)]] - 利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。
 - [[procedures/phototherapy|Phototherapy (新生兒黃疸照光治療)]] - 以藍光將 unconjugated bilirubin 轉為可排泄異構物，降低 kernicterus 風險。
-- [[procedures/plasma-exchange|Plasma exchange (血漿置換)]] - 以血漿移除致病抗體或補充缺乏因子，TTP 等疾病可用。
+- [[procedures/plasma-exchange|Plasma exchange, PLEX (血漿置換)]] - 以血漿移除致病抗體或補充缺乏因子，可用於 TTP、GBS、NMO、MG crisis 等疾病。
 - [[procedures/psychotherapy|Psychotherapy (心理治療)]] - 透過治療關係、認知行為、支持與人際介入改善症狀、功能與復健。
 - [[procedures/radiation-therapy|Radiation therapy (放射治療)]] - 以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。
 - [[procedures/radioactive-iodine-therapy|Radioactive iodine therapy (放射性碘治療)]] - 用於部分甲狀腺亢進與甲狀腺癌治療。
+- [[procedures/stroke-thrombolysis|Stroke thrombolysis (中風血栓溶解治療)]] - 急性 ischemic stroke 在合適時間窗與條件下以 alteplase 等進行再灌流治療。
 - [[procedures/surfactant-therapy|Surfactant therapy (肺表面張力素治療)]] - 新生兒 RDS 可補充 exogenous surfactant 改善肺泡穩定與氧合。
 - [[procedures/thoracentesis|Thoracentesis (胸腔穿刺)]] - 肋膜積液診斷與治療程序。
 - [[procedures/transjugular-intrahepatic-portosystemic-shunt|Transjugular intrahepatic portosystemic shunt, TIPS (經頸靜脈肝內門體分流)]] - 以介入方式降低門脈壓，可用於選定的靜脈曲張出血或難治性腹水。

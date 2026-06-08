@@ -33,6 +33,7 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Ventricular remodeling (心室重塑)'
   - 'Ventricular remodeling'
@@ -47,7 +48,7 @@ tags:
 
 ## Summary
 
-心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +81,11 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (A) 6. 當發生腦血管阻塞後,腦細胞會發生缺血連鎖反應(ischemic 107(二)專 cascade);下列反應順序何者為最正確?①細胞去極化(depolarization) 醫四-46 - ②鈉鉀離子能量系統瓦解 (sodium/potassium ATP pump failure) - ③細胞內的鈣離子增加,活化細胞內酵素,溶解胞器(apoptosis) - ④釋放興奮性神經傳遞物質,如麩胺酸(glutamate) - $(A) \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \$ Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (5) 食道及腸道的纖維化會造成吞嚥困難及吸收不良。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...| (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous lesions on the extremities | 醫四 -54 | | (B) a purplish discoloration around the eyes | | | (C) shagreen patches Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 4. SJS/TEN 主要是藥物激發免疫反應所造成,特別是透過與人類白血球抗原(HLA)的交互作用而活化了特異的 CD8 + T 細胞,這些 T 細胞會增生且浸潤到皮膚組織中攻擊表皮細胞,導致表皮細胞大量的凋亡(apoptosis),因此在皮膚切片中會看到整層表皮的壞死與溶解。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
@@ -100,7 +103,6 @@ tags:
 - (C) 11. 早產兒呼吸窘迫症候群其第一天時胸部 X 光的變化不包括下列那 104( 二 ) 專 一項? 醫四 -5 - (A) 氣管空氣影像 (air bronchogram) - (B) 網狀顆粒影像(reticulogranular pattern) - (C) 纖維化變化 - (D) air leakage Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 2. 病生理:免疫失調造成血管病變(Vasculopathy)、纖維化(Fibrosis) - (1) 血管病變(Vasculopathy):早期以血管對冷的反應改變表現,稱為雷諾氏症候群(Raynaud's Phenomenon),慢慢的管壁發炎、纖維化,導致血管阻塞(Obliterative vasculopathy),最後造成手部尖端開始缺血壞死、腎臟也因慢性缺血而萎縮等。 - (2) 纖維化(Fibrosis):由 Th2 細胞製造 TGF- $\beta$ ,進而刺激纖維母細胞(Fibroblast)持續不斷進行纖維化。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...Edematous phase),幾個月後就可能開始皮膚硬化(Fibrotic phase);皮膚硬化會超過手肘或膝蓋,包含軀幹; - b. Anti-topoisomerase (scl-70) 陽性病患較快發生間質性肺病 (ILD)、肺纖維化; 還可能併發腎臟急症 (Scleroderma renal crisis)。 - (2) Limited cutaneous SSc (lcSSc): - a. 病程進展較慢,雷諾氏症候群幾年後才會慢慢有其他表現,皮膚硬化僅限於手指硬化(Sclerodactyly)及遠端肢體(Distal to elbow and knee), 軀幹通常不受影響,預後較好,但病程晚期可能併發肺動脈高壓(PAH)。 - b. 其中有一亞型,稱作 CRE Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- 4. 診斷準則:有主要 (Major) 標準或兩項次要 (Minor) 標準 - (1) 主要(Major)標準:指(趾)(超過 MCP/MTP)、四肢、面部、頸或軀幹的皮膚硬化 - (2) 次要 (Minor) 標準: - a. 指(趾)硬化(Sclerodactyly)。 - b. 指(趾)凹陷性瘢痕(Digital pitted scarring)。 - c. 兩側肺底部纖維化 (Bibasilar pulmonary fibrosis)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

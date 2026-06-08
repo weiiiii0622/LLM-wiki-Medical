@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Macrocytic anemia (大球性貧血)'
   - 'Macrocytic anemia'
@@ -20,15 +22,20 @@ tags:
 
 ## Summary
 
-MCV 上升的貧血，常見於 B12/folate deficiency、肝病、酒精或骨髓疾病。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+MCV 上升的貧血，常見於 B12/folate deficiency、肝病、酒精或骨髓疾病。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch10]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- ...接收甲基 | Methyl THF → THF +甲基 (Cobalamine +甲基→ Methylcobalamin)此甲基若能被 Vit B 12 順利接收,則 Uridine 可藉由 THF 的幫忙,合成 Thymidine | Megaloblasticanemia | | 給 | Homocysteine + 甲基→ Methionine (Methylcobalamin → Cobalamine + 甲基) | Peripheral | | 甲基 | 若 Vit B 12 能順利提供甲基,則 Methionine 可幫助髓鞘(myelin)合成 | neuropathy | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (3) 由此總結, $B_{12}$ 缺乏會導致 megaloblastic anemia、peripheral neuropathy;而 folate 缺乏僅會導致 megaloblastic anemia。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 3. 依 MCV 大小鑑別貧血: MCV 小於 80 fL 稱為小球性貧血; MCV 介於 80~100 fL 稱為正(等) 球性貧血; MCV 大於 100 fL 稱為大球性貧血。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 1. 大球性貧血 (macrocytic anemia) 不等於巨母紅血球性貧血 (megaloblastic anemia)。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 3. 巨母紅血球性貧血的原因是因為 DNA 合成缺陷(缺發葉酸或是 Vit $B_{12}$ 或是藥物影響)造成不成熟的巨母紅血球釋放到血液中,血液抹片可以看到 megaloblastic cell;非巨母紅血球性大球性貧血原因則不明。 Source: [[sources/med4-book1-ch08|辛、血液學]].

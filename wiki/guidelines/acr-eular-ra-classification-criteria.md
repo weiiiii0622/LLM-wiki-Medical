@@ -19,6 +19,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'ACR/EULAR RA classification criteria (RA 分類準則)'
   - 'ACR/EULAR RA classification criteria'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- 3. 外科常用來評估意識狀態的方法:Glasgow Coma Score Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (B) 8. 66 歲男性出現如圖所示病灶,最可能診斷,與最重要的臨床特徵 106(二)專 為何? 醫四-43 - (A) 紅斑性狼瘡(lupus erythematosus);狼瘡性脂肪炎(lupus panniculitis) - (B) 全身性硬皮症 (systemic sclerosis); 手 指硬化 (sclerodactyly)、手指潰瘍 (digital ulcerations) - (C) 類風濕性關節炎(rheumatoid arthritis); 類風濕性結節(rheumatoid nodules) - (D) 皮肌炎 (dermatomyositis); Gottron 氏徴 候 (Gottron sign) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (D) 32. 一個 6 歲大的男孩,雙股及兩側下肢出現紫斑及出血疹,男孩無 98( ) 專 發燒,精神良好,但右膝腫脹,全血球計量正常,最可能診斷為: 醫四 -11 (A) 原發性血小板過低紫斑症 (idiopathic thrombocytopenic - (B) 青年型類風濕性關節炎(juvenile rheumatoid arthritis) - (C) 腦膜炎雙球菌敗血症(meningococcemia) - (D) 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura 【詳解】(A) 全血球不會正常。(B) 會發燒。(C) 會發燒,且意識 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -71,8 +77,6 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - (3) ACR/EULAR new 2013 classification criteria 可以更早期診斷 (≥9分)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - | Items (每大格取最高分加總) | Score | |-------------------------------------------------------------|-------| | 手部皮膚硬化超過 MCP | 9 | | Puffy finger( 未超過 MCP) | 2 | | Sclerodactyly( 未超過 MCP) | 4 | | 指端潰瘍 | 2 | | 指端凹陷結疤 (pitting scar) | 3 | | 微血管擴張 | 2 | | 甲褶鏡異常 | 2 | | 肺動脈高壓或是肺部纖維化 | 2 | | 雷諾式症候群 | 3 | | 自體抗體 (anti-centromere, anti-Scl70, anti-RNA polymerase III) | 3 | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (1) **慢性期(Chronic phase)**: **Leukocytosis with left shift**,須與感染發炎時的 Leukemoid reaction 作鑑別診斷,CML 的 LAP score 通常很低,周邊血液還可見 basophilia、血小板增多,且常有 Splenomegaly。 - a. LAP = Leukocyte alkaline phosphatase,正常白血球才會有的酵素,感染發炎時的 Leukemoid reaction,LAP score 高。 - b. CML 的白血球則無此酵素,所以 LAP score 通常很低。 - c. 周邊血液抹片會出現 blast、promyelocyte、myelocyte 等各期顆粒球。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- (C) 這類病人之 leukocyte alkaline phosphatase (LAP) score 常常是降低的 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- (B) increased LAP score Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 
 ## Clinical Caveats
 

@@ -27,6 +27,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Systemic corticosteroids (全身性類固醇)'
   - 'Systemic corticosteroids'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,14 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med4-book4-ch07]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (B) 9. 有關視神經脊髓炎 (neuromyelitis optica, NMO) 和多發性硬化症 104(一)專 (multiple sclerosis, MS)的比較,下列敘述何者錯誤? - (A) NMO 對於脊髓的侵犯通常都大於 3 節 - (B) NMO 之患者較容易出現 NMO-IgG 或 aquaporin-4 抗體 - (C) NMO 之患者急性復發時須使用靜脈注射大劑量的 methylprednisolone - (D) β 干擾素 (interferon-β) 和 glatiramer acetate 可以有效的預防 NMO 復發,其效果比預防 MS 復發更好 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- 【詳解】本題解答應為(D),目前可用 Azathioprine、prednisolone 和 Ritaximab 來預防。Interferon-β 不應使用在 NMO 患者上, 會有惡化疾病的可能。Glatiramer acetate 目前無足夠資料顯示對 治療 NMO 有效。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- ...(A) 所有的病人都會在開始治療後惡化 | 醫四 -46 | | | (B) 在整個療程中,飲食可以不必忌諱含銅食物 | | | | (C) 在以 D-penicillamine 治療初期患者對藥過敏時,可重新減量 | | | | 或合併 prednisolone 之使用 | | | | (D) 所有的病人都可使用 D-penicillamine 治療而得改善 | | | (A) 30. | 當帕金森氏病人在晚期開始出現運動阻滯(motor block)時,進 | 99(二)專 | | | 行下列何種動作比較不受影響? | 醫四 -48 | | | (A) 上樓梯 (B) 走平地 (C) 過旋轉門 (D) 進出電梯門 | | | | 【詳解】PD 會有 freezing phenomenon, Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (1) 口服類固醇:治療首選,療效最快、最顯著的治療方式。通常類固醇的劑量會從 1 mg/kg/day 的 prednisolone 開始給藥(換算成 60 公斤體重成人,大約是每天 60 毫克)。以類固醇治療時,應每 5~7 天評估療效一次,以便調整劑量,若仍有新水泡繼續產生,則將藥量增加 50~100% 至無任何新水泡為止,等到二週內沒有產生任何新水泡,且 80% 水泡傷口都癒合了,就可以開始減藥。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (2) 注射類固醇:病情嚴重患者,可直接用針劑類固醇治療,採用脈衝式靜脈注射類固醇法(Pulse therapy),每日靜脈注射 500 毫克 methylprednisolone 針劑,連續三日,可以有效控制病情發展,又可以減少副作用。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (2) 口服類固醇(prednisolone):是治療的最重要藥物,0.5~1~mg/kg/day,假使效果不明顯可增至 1.5~mg/kg/day,使用期間約一到三個月後,。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -86,9 +93,6 @@ tags:
 - (C) 6. 一位淋巴瘤病人接受化學治療 CHOP (cyclophosphamide, adriamycin, vincristine 及 prednisolone) 後出現指端麻木感,這個 症狀最可能是 - (A) cyclophosphamide - (B) adriamycin - (C) vincristine - (D) prednisolone Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - (B) 給予化學治療 COP (cyclophosphamide, vincristine 及 prednisolone) Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - ...plex karyotype | 差: t(9,22)=Philadelphia chromosome | | | 引導治療 | A (Ara-C) 7 天 -I (Idarubicin) 3 天 | Q (Vincristine) P (Prednisolone) D (Daunorubic | | | (Induction) | APL (M3): ATRA+ Idarubicin (或 arsenic trioxide) | L (L-asparaginase) | | | | | CNS pro | phylaxis: IT MTX, AraC, Decadron | | 評估 (CR) | BM (Blast →若再復發才考慮骨髓移植 (CR2) | | | | * 預後差的完全緩解後 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- (C) anthracycline, vincristine 及 prednisolone Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...--------------|--| | (C(D | 分離術 3) 血小板數目太低且有出血傾向,需要輸注血小板 3) 強燒可能是有感染,須做微生物培養,並開始抗 3) 為急性骨髓性白血病,需儘早做化學治療 HC vincristine, prednisolone) | 生素治療 | | | _[ | 詳解】HOP 是淋巴癌的 regimen。 | | | | let(A(B | 列何項特性可見於急性巨核細胞白血病(acute mukemia)?A) peroxidase 陽性反應B) 細胞質內出現 Auer rodC) 表現 Glycophorin A | egakaryoblastic 95(二)專內 1-30 | | | (D | D) 表現 CD41詳解】(A) Peroxidase 主 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...多發性肌痛症(Polymyalgia rheumatica),這兩個病是同一病理的兩個不同臨床表徵,皆是中大型的血管發炎,一個導致頭痛,一個導致肩頸、背、大腿多處肌肉痠痛。 - (4) 治療: - a. 類固醇治療效果良好。巨細胞血管炎需 Prednisolone 40~60 mg/d;若僅有風濕性多發性肌痛症,僅需 Prednisolone 10~20 mg/d Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 
@@ -97,9 +101,13 @@ tags:
 
 ## Related Pages
 
+- [[conditions/acute-disseminated-encephalomyelitis|Acute disseminated encephalomyelitis, ADEM (急性瀰散型腦脊髓炎)]]
 - [[conditions/adrenal-insufficiency|Adrenal insufficiency (腎上腺功能不全)]]
 - [[conditions/bullous-pemphigoid|Bullous pemphigoid (類天疱瘡)]]
+- [[conditions/giant-cell-arteritis|Giant cell arteritis / temporal arteritis, GCA (巨細胞動脈炎／顳動脈炎)]]
+- [[conditions/multiple-sclerosis|Multiple sclerosis, MS (多發性硬化症)]]
 - [[conditions/pemphigus-vulgaris|Pemphigus vulgaris (尋常性天疱瘡)]]
+- [[conditions/polymyositis-dermatomyositis|Polymyositis and dermatomyositis (多發性肌炎與皮肌炎)]]
 
 ## Follow-up
 

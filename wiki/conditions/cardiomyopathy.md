@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Cardiomyopathy (心肌病變)'
   - 'Cardiomyopathy'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-心肌結構或功能異常的疾病群。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌結構或功能異常的疾病群。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),rivaroxaban(Xarelto®),Apixaban(Eliquis 恣®)和 Edoxaban(Lixiana® Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (D) 擴張型心肌病變 (Dilated cardiomyopathy) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 年紀較大的幼兒:急性感染可能會出現急性鬱血性心衰竭、擴張型心肌病變、 心室性心律不整。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (4) 兒童期晚期或青少年:通常為 asymptomatic 或是出現擴張型心肌病變前兆 (ex. CHF、心律不整、運動耐受不良)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -68,7 +71,6 @@ tags:
 - A. 擴張性心肌病 (Dilated cardiomyopathy, DCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - B. 肥厚性心肌病 (Hypertrophic cardiomyopathy, HCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - C. 侷限性心肌病 (Restrictive cardiomyopathy, RCM) 169 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- ...~80 y/o) | 梅毒動脈炎 (Syphilis) | | | (Severe mitral annular | Functional 慢性 MR: | 風濕病常造成 AS+AR | | | | calcification) | 擴大型心肌病變 (DCM) | (30~50y/o) | | | **** | 舒張中期雜音(心尖)、 | 全收縮期雜音(心尖) | 收縮期雜音(胸骨右上) | 舒張期雜音(胸骨左下) | | 雜音 | 左側躺最清楚 | 輻射到腋下 (Axilla) | 輻射到頸部 (Bil. carotid) | 往前傾最清楚 (Sit forwad) | | 1 77 | MS 愈厲害: S 1 愈大聲 | 微弱 S i | | 微弱 S 1 | | 心音 | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 
 ## Clinical Caveats
 

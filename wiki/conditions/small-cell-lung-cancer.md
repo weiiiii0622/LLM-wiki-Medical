@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Small-cell lung cancer (小細胞肺癌)'
   - 'Small-cell lung cancer'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-侵襲性高、常早期轉移的肺癌類型。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+侵襲性高、常早期轉移的肺癌類型。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch21]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- (2) 屬於一種 paraneoplastic syndrome,常見於小細胞肺癌;乃因鈣離子通道與癌細胞有相似處,使得抗體本來要對抗癌細胞,卻同時使神經末梢的鈣離子通道被破壞。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- ...-------------------| | 病因 | 自體抗體破壞「肌肉」上的乙醯膽鹼 (Ach) 接受器 | 自體抗體破壞「神經末梢」的鈣離子通道 | 毒素干擾「神經末梢」的乙醯膽鹼 (Ach) 釋出 | | 合併症 | 胸腺增生 | 小細胞肺癌 | | | 症狀 | 眼瞼下垂、複視→肢體無力、呼吸衰竭 | 四肢近端、軀幹無力 | 吐、視力模糊(副交感↓)→肢體無力、呼吸衰竭 | | 愈用愈 | 症狀在下午更嚴重 | 症狀在下午改善 | 症狀在下午改善 | | 肌電圖 | 遞減反應(Decremental) | 遞增反應(Incremental) | 遞增反應(Incremental) | | 治療 | 盡早切除胸腺、口服 Mestinon | 治療癌症 | | Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - ...oisomerase | Topo I* | Irinotecan (CPT11)→大腸癌 | 腹瀉(加 Atropine 預防) | | | U2 | inhibitors | Topo II* | Etoposide (VP-16) →小細胞肺癌 | | | | | | | Vincristine (Oncovin)→淋巴瘤 (CHQP) | Show that We have a thirty a | | | . . | A | ⊖ 聚合 | Vinblastine →何杰金式瘤 (ABMD) | 神經毒性、發泡劑(熱敷) | | | M | Antimitotic | | Vinorelbine(Navelbine) →肺癌 | 便秘 | | | | | ⊖解聚 | | 神 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...te synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、Vitamin B12 以減少毒性。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - 2. 拓樸異構酶 II 抑制劑(Topoisomerase II inhibitors)會妨礙 DNA 的雙股拆接 - (1) Etoposide (VP-16): 用於小細胞肺癌 (Cisplatin + VP16)、骨肉瘤 (Ifosfamide + VP16) Source: [[sources/med3-book4-ch19|乙、化學治療]].
@@ -48,6 +52,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/lambert-eaton-myasthenic-syndrome|Lambert-Eaton myasthenic syndrome, LEMS (Lambert-Eaton 肌無力症候群)]]
 - [[conditions/lung-cancer|Lung cancer (肺癌)]]
 
 ## Follow-up

@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Ventilation-perfusion matching, V/Q (通氣灌流匹配)'
   - 'Ventilation-perfusion matching, V/Q'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,14 @@ tags:
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book3-ch09]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...| Frontotemporal Dementia | Pick (Tau) protein | 失智+步態不穩+人格異常 | | | NPH (Communicating h.) | CSF 回收↓ | 失智+步態不穩+尿失禁 | VP shunt | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (3) 治療:唯一可治癒的退化性疾病,可施行腦室腹膜分流術(Ventricular-Peritoneum shunt, VP shunt)而使症狀改善。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- 2. 治療(Ref. Taiwan guidelines for the management of stroke 2008,胡漢華,台灣腦中風學會): - (1) 一般採保守療法 - a. 血壓的控制目前尚無定論,但一般建議 SBP > 200 或有 IICP 且 SBP > 180 者, 需積極以靜脈持續點滴控制血壓;若 SBP > 180 仍須適度降壓。(IIb、Level C) 一般而言,目標是 SBP 50 cc 且 GCS 30 cc 且 GCS 3 cm 或> 30 cc | | 位 直 | (除非產生水腦,要做 VP shunt) | 且壓迫腦幹或造成水腦者要開 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 7. 治療:以外科方式治療為最終目標。 - (1) 先維持肺部血液的灌流,如注射 PGE1 維持開放性動脈導管、人工血管放置 (Blalock-Taussig shunt 或 central shunt) 或 PDA stent。 - (2) 手術治療 VSD 與矯正右心室出口阻塞。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - b. 手術治療(參考即可):視右心室發育大小,最後的循環可從雙心室、一又二分之一、到單一心室循環皆有可能。術式包括 pulmonary valvotomy 合併 aortopulmonary shunt、移除閉鎖部位以 patch grafting 代替、心導管介入治療、modified Fontan procedure 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 一開始使用 PGE1 確保 PDA 暢通直到 surgical aortopulmonary shunt。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

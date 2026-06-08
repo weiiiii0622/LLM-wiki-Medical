@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Adrenal insufficiency (腎上腺功能不全)'
   - 'Adrenal insufficiency'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (B) Addison disease Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 【詳解】依題目所提之臨床症狀,推測是腫瘤轉移到兩側腎 上腺破壞腎上腺功能,造成 Addison's disease (primary adrenal insufficiency),病患會有厭食、噁心嘔吐、姿態性低血壓、高 血鉀、皮膚皺褶和黏膜處出現色素沉澱等症狀。因為是 primary adrenal insufficiency,腎上腺組織已經被腫瘤轉移破壞殆盡,所以 ACTH 會增加以刺激皮質醇分泌但徒勞無功,且做 corticotropin stimulation test 不會有反應。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 7. Hypermelanosis: 受基因、賀爾蒙 (Addison disease) 和紫外線曝曬影響。 - (1) 黑色素細胞增加,且黑色素分泌增加:例如曬斑(Solar lentigo)。 - (2) 黑色素細胞無增加,但黑色素分泌增加:例如雀斑(Freckle)、肝斑(Melasma)。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
@@ -64,7 +67,6 @@ tags:
 - ...calcium | Milk-alkali syndrome | | | | intake | Total parenteral nutrition | | | | Other causes | Endocrine disorders (adrenal insufficiency, pheochromocytoma, VIPoma) | | | | | Medications (thiazides, vitamin A, antiestrogens) | | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...------------|--| | Aldosterone 低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - C. 腎上腺機能低下 (Adrenal insufficiency) 213 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...----|--------------------|---------------------------------| | H-1915 | 中胚層 | G: 11 | Glucocorticoid | Cushing's syn. | Addison's dz.Adrenal crisis | | 及質 (meso | (mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural crest) | Tyrosine | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 
 ## Clinical Caveats
 

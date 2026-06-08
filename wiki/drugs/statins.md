@@ -26,6 +26,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Statins (史他汀類)'
   - 'Statins'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book3-ch02]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - b. 局部塗抹:Nystatin 專治念珠菌,對皮癬菌則無療效。或可用 Imidazole。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -86,7 +89,6 @@ tags:
 - (B) 1. 下列那些藥物可能會加重逆流性食道炎(reflux esophagitis)? 105(ー)専 ①降血脂藥(HMG-CoA reductase inhibitor) ②高血壓用藥(calcium channel blocker) ③氣喘用藥(theophylline) ④抗過敏薬物(antihistamine) - (A) (1)(2)(3) - (B) 僅②③ - (C) (3)(4) - (D) (1)(2)(4) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - ...| ACTH | | 刺激分泌 | GnRH,estrogen | TRH | TRH,Estrogen | GHRH | CRH, AVP | | 抑制分泌 | Sex steroids | T3, T4, dopamine,somatostatin,glucocorticoids | Dopamine | Somatostatin,IGF-1 | Glucocorticoids | | 目標器官 | 性腺 | 甲狀腺 | 乳腺 | 肝、骨骼肌肉 | 腎上腺 | | 發生作用 | Sex hormone合成、性腺發育 | T4 合成與分泌 | 泌乳 | IGF-1 製造、促進生長 | Steroid 製造 | | 正常範圍 | 參照後面 table | 0.34-4.25 uIU/ Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - ...端肥大症 (Acromegaly) | 10% | 篩檢:IGF-1 ↑ | 先手術→放射、 | | (Somatotrope = GH) | 巨人症 (Gigantism) | 10% | 確診:OGTT (GH ↑ ) | Somatostatin 輔助 | | 皮促素細胞瘤 | 庫欣式病 (Cushing's dz.) | 10-15% | 24 小時尿液 | 先手術→放射、 | | (Corticotrope = ACTH) | 単次式病 (Cusning s dz.) | 10-15% | free cortisol | Ketoconazole 輔助 | | 甲促素細胞瘤 | 中樞甲狀腺亢進 | 最少見 | | 先手術→ PTU、 | | (Thyrotrope = TS Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- a. 下視丘分泌 GHRH刺激、或分泌 Somatostatin 抑制腦垂體分泌生長賀爾蒙 (Growth hormone, GH), GH本身就能刺激周邊組織合成蛋白質、分解脂肪、拮抗胰島素,導致葡萄糖耐受異常 (impaired glucose tolerance)。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 
@@ -95,7 +97,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/ischemic-stroke|Ischemic stroke (缺血性腦中風)]]
+- [[conditions/transient-ischemic-attack|Transient ischemic attack, TIA (暫時性腦缺血發作)]]
 
 ## Follow-up
 

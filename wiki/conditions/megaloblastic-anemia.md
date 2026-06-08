@@ -13,6 +13,9 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Megaloblastic anemia (巨芽細胞性貧血)'
   - 'Megaloblastic anemia'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,17 @@ DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- III. 大腦代謝疾病 141 - A. 橋腦中央脊髓去髓鞘化 (Central pontine myelinolysis) 141 - B. Vitamin B1 (Thiamine) deficiency 141 - C. Vitamin B12 (Cobalamine) deficiency 142 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ## C. Vitamin B12 (Cobalamine) deficiency: 亞急性合併退化症 (subacute combined generation) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (A) 8. 一位 24 歲女性於 7 天前出現雙下肢無力和麻痛, 3 天後變得完全 無法走路同時出現尿滯留的現象。在過去病史方面,患者於5年 前曾有左眼視力突然喪失,眼科醫師診斷為視神經炎,而視力 於2至3個月後幾乎完全恢復。另外,在2年前患者也曾出現 複視和右側肢體偏癱的現象,而此症狀也在2個月幾乎完全復 原。根據以上之敘述,下列何者是此患者最可能之診斷? - (A) 多發性硬化症 (multiple sclerosis) - (B) 慢性脫髓鞘多發性神經炎 (chronic inflammatory demyelinating polyneuropathy) - (C) 神經性梅毒 (neurosyphilis) - (D) 維他命 B12 缺乏之神經系統併發症 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 【詳解】Restless legs syndrome 主要症狀是感覺大腿有螞蟻在爬行的感覺,通常晚上症狀會更惡化,通常和懷孕缺鐵 B12 或腎臟病有關係。治療使用 benzodiazepine 類是無效的,多半是用L-dopa、Carbidopa、bromocriptine、pergolide、Ropinirole(FDA通過)治療。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - ...n monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stro Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 1. 大球性貧血 (macrocytic anemia) 不等於巨母紅血球性貧血 (megaloblastic anemia)。 Source: [[sources/med4-book1-ch08|辛、血液學]].
@@ -56,7 +67,6 @@ DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已
 - ...Bleomycin →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecitabine (Xeloda)→乳癌,大腸癌 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...) - (a) 高劑量 MTX 會產生嚴重的骨髓抑制、黏膜破損,因此注射後 12 小時會給予 Leucovorin(Folinic acid = 擬葉酸劑)來拯救正常骨髓及黏膜細胞,減少毒性。Folinic acid 不需要 Dihydrofolate reductase,就可以一直當作 Thymidylate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (5) Pernicious anemia: 抗體攻擊 Parietal 細胞抗原、Intrinsic factor,導致 Vit B12 吸收不良,造成紅血球成熟異常而貧血。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- 【詳解】病史有牙齦出血應想到 primary hemostasis 出問題, 這四 個疾病都會造成血小板減少。若是 Pancytopenia, 就剩下 (B)、(C)。 但病人有疲倦(胸骨壓痛)等症狀,以急性白血病的診斷最適合。 (C) 選項較常發生在素食者身上,缺乏 B12 會有周邊神經病變,以 感覺麻木、喪失振動覺 (vibratory) 及本體感覺為主。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 
 ## Clinical Caveats
 

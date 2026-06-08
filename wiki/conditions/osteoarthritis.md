@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book4-ch05]]"
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med3-book4-ch02]]"
+  - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Osteoarthritis, OA (退化性關節炎)'
   - 'Osteoarthritis, OA'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-軟骨退化與骨贅形成造成機械性關節痛，常侵犯 DIP、PIP、膝、髖等。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+軟骨退化與骨贅形成造成機械性關節痛，常侵犯 DIP、PIP、膝、髖等。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,14 @@ tags:
 - [[sources/med3-book4-ch05]]
 - [[sources/med3-book4-ch26]]
 - [[sources/med3-book4-ch02]]
+- [[sources/med4-book4-ch05]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- 3. 較大血管的出血(SAH)常因動脈瘤破裂導致,較小血管的出血(ICH)常因高血 壓造成的 Charcot-Bouchard's aneurysm 或腦類澱粉樣血管病變導致。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (1) **高血壓(hypertension**):占5成,高血壓使血管壁形成 Charcot-Bouchard's aneurysm,然後導致破裂出血,出血位置常見於基底核、視丘、橋腦、小腦。如右下圖。 - a. (B) 基底核:最常見,又以被殼核(putamen)最常見,可能出現運動、感覺等異常。 - b. (C) 視丘:對側身體感覺異常、兩眼向下直視(sunset eye)。 - c. (D) 橋腦:臨床上常以 5P 來描述, - (a) 對側肢體無力(paralysis)、 - (b) 細微的脈搏 (pulsus parvus)、 - ( Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- ...的診斷是: | | | | (A) CNS tuberculosis(B) CNS cryptococcal infection(C) multiple sclerosis | | | (D) 18. | (D) metastases 頸椎退化性關節炎而導致脊髓病變,下列何者錯誤? (A) 會產生雙下肢緊而無力 (B) 造成解尿困難 (C) 會產生胸部以下麻木現象 (D) 造成吞嚥困難 | 98(二)專醫四-47 | | (D) 19. | 多發性硬化症患者的腦脊髓液常可見到下列何種情形? (A) 葡萄糖量為血糖中的 20% 以下 (B) 蛋白質降低 (C) 每微升 (mL) 有 100 顆以上的白血球 (D) 免疫球蛋白 G (IgG) 升高 | 98(一)專醫四-50 | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - B. 退化性關節炎 (Osteoarthritis, OA) 74 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - | | 正常 | 非發炎性 | 發炎性 | 感染性 (Septic) | |-------------|------------|---------|--------------|--------------| | 外觀 | 清澈 (Clear) | 清澈~黃 | 稍混濁、黃白 | 混濁 (Opaque) | | 白血球/mm³ | 50,000 | | 多核球比例 (PMN) | | 75% | > 90% | | 葡萄糖濃度 | ~Serum | ~Serum | 25~Serum | 3 | > 3 | > 3 | | 狀況 | | OA | RA, SLE, GA | 感染 | Source: [[sources/med3-book4-ch06|己、關節炎變]].

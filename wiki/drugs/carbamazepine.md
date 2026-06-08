@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Carbamazepine (卡馬西平)'
   - 'Carbamazepine'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-抗癲癇與 mood stabilizer，可用於 mania；需注意皮疹、SJS/TEN、hyponatremia、血球低下與 CYP 交互作用。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗癲癇與 mood stabilizer，可用於 mania；需注意皮疹、SJS/TEN、hyponatremia、血球低下與 CYP 交互作用。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- ...| |--------|-------------------------------------|---------------------------------------------------------| | 部分發作 | | Carbamazepine · Phenytoin · Valproic acid · Lamotrigine | | 入云似路床 | 全身性癲癇 (GTCS)=大發作 (Grand mal) | Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...|-----------------------------------------------------|--------------------------|---------------------| | Na 離子通道阻斷劑 | Carbamazepine (Tegretol®),Phenytoin (Dilantin®) | | 部分發作癲癇首選 | | Ca 離子通道阻斷劑 | Ethosuximide | | 失神性(小發作) | | Na, Ca 離子通道阻斷劑 | Valproic acid (Depakine®) | | 以上兩個皆可 | | 加強 GABA | Barbiturate 類 | Phenobarbital (Luminal®) | 部分、全身性癲癇二線藥 | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (1) Carbamazepine(Tegretol® 癲通):部分發作的首選,也可用於三叉神經痛(Trigeminal neuralgia);可能有頭暈、低血鈉等副作用,在 HLA-B1502 身上易引起 Steven-Johnson syndrome。孕婦的 AED 中,Tegretol 相對較安全。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramat Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic episode)在 DSM-IV-TR 的診斷準則(criteria)之敘述,下列何者錯誤? (A) 膨脹的自尊心或自大狂 (B) 睡眠需求減少 (C) 持續時間必須至少 3 天 (D) 比平時多話或不能克制地說個不停 | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (C) carbamazepine 與 lamotrigine 均可能會產生史帝文生 強生症 候群 (Stevens-Johnson syndrome) Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -55,6 +60,7 @@ tags:
 
 ## Related Pages
 
+- [[drugs/anti-seizure-medications|Anti-seizure medications / anti-epileptic drugs, ASMs/AEDs (抗癲癇藥物)]]
 - [[conditions/bipolar-disorder|Bipolar disorder (躁鬱症／雙相情緒障礙)]]
 - [[conditions/stevens-johnson-syndrome-toxic-epidermal-necrolysis|Stevens-Johnson syndrome / toxic epidermal necrolysis, SJS/TEN (史蒂芬強森症候群／毒性表皮壞死溶解症)]]
 

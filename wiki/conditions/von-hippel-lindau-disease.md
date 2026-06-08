@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Von Hippel-Lindau disease, VHL (馮希伯-林道症候群)'
   - 'Von Hippel-Lindau disease, VHL'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-腫瘤抑制基因疾病，增加 hemangioblastoma、renal cell carcinoma、pheochromocytoma 等風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤抑制基因疾病，增加 hemangioblastoma、renal cell carcinoma、pheochromocytoma 等風險。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (D) von Hippel-Lindau disease Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - L. 神經皮膚症候群 218 - A. 神經纖維瘤 (Neurofibromatosis, NF) 218 - B. 結節性硬化症 (Tuberous sclerosis, TS) 220 - C. 史德格-韋伯症候群 (Sturge-Weber disease) 223 - D. 逢希伯一林道症候群 (von Hippel-Lindau disease) 224 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - # D. 逢希伯一林道症候群 (von Hippel-Lindau disease) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (C) von Hippel-Lindau disease Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

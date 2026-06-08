@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Mitral regurgitation (二尖瓣逆流)'
   - 'Mitral regurgitation'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-收縮期逆流造成左心房與左心室容量負荷。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+收縮期逆流造成左心房與左心室容量負荷。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch12]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- Ref. Cecil FIGURE 425-2 Flow diagram for the differential diagnosis of dementia. The percent contributions of various diagnoses are approximate. The list of secondary causes of dementia is not exhaustive. CSF = cerebrospinal fluid; MR = magnetic resonance imaging. Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ①心室中隔缺損②開放性動脈導管③二尖瓣逆流④主動脈逆流 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】常見收縮期心雜音:ASD、VSD、MR、TR、AS and PS。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - | 分 類 | 作用 | 藥 物 | | | |------------------|-----------------|---------------------------------|--|--| | 烷化劑 | 抑制分化快速細胞 | Cyclophosphamide (Endoxan® 愛德星) | | | | 抑制 Purine 製造 | 抑制白血球 | Azathioprine (Imuran® 移護寧 ) | | | | 14th Latine 35/5 | 256169 1 mr. 9. | MMF (Cellcept® 山喜多) | | | | 減少 IL2 分泌 | 抑制T細胞 | Cyclosporin (Sandimmun®新體睦) | | | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Aortic regurgitation (主動脈瓣逆流)'
   - 'Aortic regurgitation'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-舒張期逆流造成容量負荷與脈壓變化。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+舒張期逆流造成容量負荷與脈壓變化。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch11]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- (A) 尿中總銅量會增加。(B) AR。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...只出現在編碼位置(coding region) (D) 巴金森氏症候群主要是因為丘腦的異常而導致,不會有小腦共濟失調的現象 【詳解】脊髓小腦共濟失調症(spinocerebellar ataxia)是一群晚發型(中年左右發病)遺傳性(AD、AR、X-link)罕見疾病,基因中分別有段異常的 CAG 核甘酸重複序列異常倍增,導致神經元退化。患者四肢運動不平衡,說話不清、吞嚥困難、眼球異常轉動、寫字或手部度作遲鈍,目前無有效治療方式。 | 107(二)專醫四-56 | | (A) | 7. 下列何者的異常值高低和粒線體疾病的病況嚴重程度最相關? (A) 血中乳酸量的高低 (B) 血中乳酸去氫酶(lactic dehydrogenase, LDH)的活性 (C) 脊髓液中的蛋白質含 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - ...氯的代謝性鹼中毒(hypokalemic hypochloremic metabolic alkalosis)合併高尿鈣(hypercalciuria)。Bartter syndrome 造成的原因為基因突變造成,大部分以體染色體隱性遺傳(AR)遺傳給下一代(type I-IV),只有 Bartter syndrome type V 以性聯遺傳隱性(XR)方式遺傳給下一代。Brtter syndrome type I、II、IV(antenatal Bartter syndrome, ABS)與 type V(transient ABS)在胎兒時期就有表徵(羊水過多 polyhydramnios)。Bartter syndrome type III(typical Bartt Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - I. 主動瓣逆流 (Aortic regurgitation, AR) 140 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - (1) Pressure gradient 愈大(AS, AR, MR), 聲音愈高音(Higher pitch)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].

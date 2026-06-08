@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Ganciclovir / Valganciclovir (更昔洛韋類)'
   - 'Ganciclovir / Valganciclovir'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book2-ch06]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- (D) 10. 下列那些腦膜炎,如果沒有及早治療,容易發生顱底腦膜嚴重滲 105(ニ)専出性發炎變化(basilar meningeal exduate),導致次發性腦血管梗塞(cerebral infarction)?①腮腺炎病毒腦膜炎(mumps)②巨細胞病毒性腦膜炎(CMV)③結核菌腦膜炎④隱球菌腦膜炎(A)①②(B)②③(C)①④(D)③④ Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- (2) 好發於 45~64 歲間,發病前 2~3 周往往有上呼吸道感染或腸胃道症狀,特別是 EBV、CMV 感染,再經由未明的原因引發免疫系統攻擊周邊神經的髓鞘。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - ...and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosis, deafness and thrombocytopenia. | | | CMV | Microcephaly with periventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoc Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (3) Urine antigen and culture : CMV • Source: [[sources/med4-book1-ch11|子、新生兒科]].

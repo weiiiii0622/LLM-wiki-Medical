@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch04]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Prokinetic agents (促腸胃蠕動藥)'
   - 'Prokinetic agents'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-促進胃腸蠕動或提高 LES 壓力，部分用於 GERD 或胃排空問題。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+促進胃腸蠕動或提高 LES 壓力，部分用於 GERD 或胃排空問題。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch04]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...ugs | Neuroleptics (typical antipsychotics) \ Some atypical antipsychotics | | | | (常併有 | Antiemetics (e.g., Compazine, metoclopramide) | | | | akathisia) | Dopamine-depleting agents (reserpine, tetrabenazine) | | | | | α-Methyldopa · Lithium carbonate · Valproic acid · Fluoxetine | | | | Toxins | Methyl-1,2,4,6 tetrahydropyridine (MPTP) \cdot Manganes Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (C) 6. 一位 20 歲男性突然發生頸部僵硬的症狀,持續維持在奇怪的姿勢而很難轉動。此患者並無外傷,最近因為胃食道逆流服用metoclopramide藥物治療。此時最好的治療方式是給與下列那一種藥物? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- 【詳解】服用 metoclopramide、Haloperidol、抗精神病藥物都可能產生錐體外症狀(extrapyramidal syndrome, EPS),可以抗組織胺(Vena)、BZD、抗膽鹼藥物(Benztropine)治療。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...headache) | | | (D) 叢發性頭痛 (cluster headache) | | | (AD)27. 偏頭痛之預防治療藥物為: | 101(一)專 | | (A) propranolol | 醫四 -57 | | (B) metoclopramide | | | (C) sumatriptan (D) ergotamine | | | 【詳解】本題答A或D或AD者均給分。一般常用藥物:pro- | | | pranolol、amitriptyline、flunarizine、valproic acid或topiramate等。 | | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...------|------------------------|---------------------------|-------------------| | 增加 | Gastrin | Cholinergic agonist | Metoclopramide | Protein | | LES | Motilin | α agonist | Domperidone | | | 壓力 | Substance P | β blocker | Cisapride, Baclofen | | | | | | Bethanecol, Histamine | | | 減少 | Secretin, CCK, | Anti-cholinergic agent | CCB | Fat, Chocolate Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - 2. 緩解藥物:Antacids、H2-blocker、PPI、Prokinetic agent。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - ...ry mass 需懷疑,可能是自體免疫攻擊造成,不需手術,以類固醇治療即可) | | | 30~100 ng/L | able the Length 1 | Dopamine receptor blocker: Haloperidol · Metoclopramide (Primperan) | | | | 藥物抑制 dopamine | Dopamine synthesis inhibitors: a -methyldopa | | | | →使得抑制訊息減少 | CCB: Verapamil (抑制 dopamine 釋放) | | | | Table 118 | Hormone: Estrogen | | | | 全身疾病 | 甲狀腺機能低下 (TRH 刺激 Prolactin 分泌 )、慢性 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

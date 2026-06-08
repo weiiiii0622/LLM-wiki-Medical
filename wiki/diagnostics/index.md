@@ -28,6 +28,8 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/bone-age|Bone age (骨齡)]] - 以手腕 X 光估計骨成熟度，協助評估性早熟與身材矮小。
 - [[diagnostics/bone-marrow-examination|Bone marrow examination (骨髓檢查)]] - 骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。
 - [[diagnostics/bone-mineral-density|Bone mineral density, BMD (骨密度檢查)]] - 骨質疏鬆診斷與骨折風險評估常用檢查。
+- [[diagnostics/brain-computed-tomography|Brain computed tomography, brain CT (腦部電腦斷層)]] - 急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。
+- [[diagnostics/brain-magnetic-resonance-imaging|Brain magnetic resonance imaging, brain MRI (腦部磁振造影)]] - 對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。
 - [[diagnostics/bronchodilator-reversibility-test|Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)]] - 評估可逆性氣流阻塞，是氣喘診斷依據之一。
 - [[diagnostics/c-peptide|C-peptide (C 胜肽)]] - 反映內生性胰島素分泌，可協助分辨糖尿病型態。
 - [[diagnostics/cardiac-biomarkers|Cardiac biomarkers (心肌酵素)]] - 用於區分 UA 與 MI，並評估心肌壞死。
@@ -44,9 +46,13 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/duke-criteria|Duke criteria (Duke 診斷標準)]] - 感染性心內膜炎的診斷架構。
 - [[diagnostics/echocardiography|Echocardiography (心臟超音波)]] - 評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。
 - [[diagnostics/electrocardiography|Electrocardiography, ECG (心電圖)]] - 心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。
+- [[diagnostics/electroencephalography|Electroencephalography, EEG (腦電圖)]] - 記錄大腦皮質電活動，用於 epilepsy 分型、encephalopathy、CNS infection 與 CJD 等評估。
+- [[diagnostics/electromyography|Electromyography, EMG (肌電圖)]] - 針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。
 - [[diagnostics/esophageal-ph-monitoring|Esophageal pH monitoring (食道酸鹼監測)]] - GERD 疑似但內視鏡正常時可量化酸暴露。
+- [[diagnostics/evoked-potential-test|Evoked potential test (誘發電位檢查)]] - 以視覺、聽覺或體感刺激測量傳導路徑反應，常用於 demyelinating disease 評估。
 - [[diagnostics/flow-cytometry|Flow cytometry (流式細胞術)]] - 以表面標記與細胞特徵分類白血病、淋巴瘤、PNH 等血液疾病。
 - [[diagnostics/fractional-excretion-of-sodium|Fractional excretion of sodium, FENa (鈉分率排泄)]] - 用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。
+- [[diagnostics/glasgow-coma-scale|Glasgow Coma Scale, GCS (格拉斯哥昏迷指數)]] - 以 eye、verbal、motor response 評估意識程度，常用於腦傷、中風與急症神經評估。
 - [[diagnostics/growth-chart|Growth chart (生長曲線)]] - 兒童生長評估工具，需連續追蹤身高、體重、頭圍與 growth velocity。
 - [[diagnostics/hba1c|Hemoglobin A1c, HbA1c (糖化血色素)]] - 反映近期平均血糖並作為糖尿病診斷與控制目標。
 - [[diagnostics/helicobacter-pylori-testing|Helicobacter pylori testing (幽門螺旋桿菌檢測)]] - H. pylori 可用侵入性或非侵入性檢測確認。
@@ -61,6 +67,8 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/mammography|Mammography (乳房 X 光攝影)]] - 乳癌篩檢與診斷影像，特別適合脂肪比例較高的乳房偵測鈣化。
 - [[diagnostics/mental-status-examination|Mental status examination, MSE (精神狀態檢查)]] - 精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。
 - [[diagnostics/methacholine-provocation-test|Methacholine provocation test (Methacholine 支氣管激發試驗)]] - 疑似氣喘但肺功能正常時可用來評估氣道高反應性。
+- [[diagnostics/nerve-conduction-study|Nerve conduction study, NCS/NCV (神經傳導檢查)]] - 評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。
+- [[diagnostics/neurologic-examination|Neurologic examination (神經學檢查)]] - 系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。
 - [[diagnostics/nikolsky-sign|Nikolsky sign (Nikolsky 徵象)]] - 輕壓或摩擦使表皮剝離，見於 SSSS、pemphigus vulgaris、TEN 等表皮內或表皮壞死疾病。
 - [[diagnostics/oral-glucose-tolerance-test|Oral glucose tolerance test, OGTT (口服葡萄糖耐受試驗)]] - 用於診斷糖尿病、糖尿病前期與妊娠糖尿病。
 - [[diagnostics/osmolal-gap|Osmolal gap (滲透壓間隙)]] - 實測與計算血漿滲透壓差，可輔助 toxic alcohol 等鑑別。
@@ -78,6 +86,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/tanner-staging|Tanner staging (Tanner 青春期分期)]] - 以乳房/生殖器與陰毛發育分期評估青春期進展。
 - [[diagnostics/thyroid-fine-needle-aspiration|Thyroid fine-needle aspiration, FNA (甲狀腺細針抽吸)]] - 甲狀腺結節依超音波風險與大小決定 FNA。
 - [[diagnostics/thyroid-function-tests|Thyroid function tests (甲狀腺功能檢查)]] - TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。
+- [[diagnostics/toast-stroke-classification|TOAST stroke classification (TOAST 中風病因分類)]] - 急性缺血性中風病因分類，包含 large artery atherosclerosis、cardioembolism、small vessel 等。
 - [[diagnostics/tumor-markers|Tumor markers (腫瘤標記)]] - 腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。
 - [[diagnostics/tumor-staging|Tumor staging (腫瘤分期)]] - 腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。
 - [[diagnostics/tzanck-smear|Tzanck smear (Tzanck 抹片)]] - 水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。

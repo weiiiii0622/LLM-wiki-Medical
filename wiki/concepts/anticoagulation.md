@@ -29,6 +29,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Anticoagulation (抗凝治療)'
   - 'Anticoagulation'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,13 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- | 分類 | 病程 | 意義 | |---------------------------------|------------------|---------------| | 暫時性腦缺血 | 定義為24小時內恢復,且無 | 中風的警訊, | | (Transient ischemic attack=TIA) | 任何後遺症 | 需積極 Survey、預防 | | 完成性腦中風 | 頸動脈於24小時後,基底動 | 給抗凝劑反而易出血 | | (Complete stroke) | 脈於 72 小時後病況穩定 | 宜保守治療 | | 進行性腦中風 | 頸動脈於 24 小時後,基底動脈 | 考慮使用 Heparin | | (Stroke in evolution) | 於 72 小時後病況仍持續進展 | | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- ...l atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),rivaroxaban(Xarelto®),Apixaban(Eliquis 恣®)和 Edoxaban(Lixiana®)等。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...factor 7, tissue factor。 - (3) 共同路徑: factor 10a, 5a, 2, 1。 - (4) 記法: EX-PresidenT K went to WAR. (Extrinsic, PT, Vit K, Warfarin)。 - (5) 特殊因子: - a. Factor 7 是半衰期最短的因子。 - b. Factor 8 是唯一不由肝臟製造的因子。 - c. Factor 13 缺乏時無法由 PT/PTT 測得。 - d. Vit K dependent 的因子:factor 2, 7, 9, 10 和 protein C, protein S。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - # D. Warfarin 和 heparin Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (1) Initial: heparin 75 U/kg, IVD for 10 mins • Source: [[sources/med4-book1-ch08|辛、血液學]].
@@ -90,9 +95,6 @@ tags:
 - | 抗凝因子 (Natural anticoagulant) | 作用 | |------------------------------|--------------------| | Antithrombin III | 分解活化的 Factor 10a | | Protein C 及其輔酶 Protein S | 分解活化的 Factor 5a、8a | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...upus anticoagulant (B) factor VIII (C) protein S | 105(一)專醫三-12 | | | (D) protein C | | | | 【 詳解 】APS 的檢驗異常包括 prolonged aPTT 及 false positive RPR。 | | | (D) | 8. 下列對於全身性紅斑性狼瘡(SLE)病人血清中的各種自體抗體的描述,何者最為正確? (A) anti-RNP 對於診斷 SLE 的特異性最高 (B) anti-histone 抗體與 SLE 的腎炎最有相關 (C) anti-Sm 與 SLE 的 psychosis 最有相關 (D) anti-phospholipid 與 habitual fetal loss Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 貧血方面,算是考得很多,也考得比較深入,有機會可多翻翻其他書,但各種貧血的必記重點都先要牢牢記住,本書皆有整理出來。凝血異常部份更要記清楚每個疾病的實驗室檢查結果,哪些BT會延長、哪些PT會延長、哪些aPTT會延長,還有哪些臨床表現跟實驗室檢查有出入的,如HIT、APS看似血小板減少、aPTT延長,病人卻有血栓現象,本書皆有深入淺出的說明。 Source: [[sources/med3-book4-ch09|辛、其 他]].
-- ...(a) 血液抹片上看到 Fragment RBC, 須懷疑 TTP、DIC等原因造成血管壁不平順, 導致溶血; 若是 TTP 須進行血漿置換, 而 DIC 則是控制背後引發 DIC 的病因, 如敗血症等。 - (b) TTP 不會有 PT、aPTT 延長問題,而 DIC 必合併凝血問題 (PT、aPTT 延長)。 - (c) 非免疫還有包括 enzymopathy 如蠶豆症、hemoglobinopathy 如 hemoglobin H、感染如 malaria 等。 - c. 免疫 (Autoimmune hemolytic anemia, AIHA): - (a) 測 Coombs' test 可知血中是否有攻擊 RBC 的抗體, 測法有兩種: Source: [[sources/med3-book4-ch10|甲、貧血]].
-- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

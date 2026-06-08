@@ -16,6 +16,8 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Primary skin lesions (基本皮膚病灶)'
   - 'Primary skin lesions'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,15 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...| 治療 | |-------------------------|--------------------|--------------|--------------------| | Alzheimer's dz. | Senile plaques | 記憶力↓+認知功能↓ | Anticholinesterase | | Vascular dementia | 累積小中風 | 失智+局部神經學症狀 | 控制 HTN, DM | | Dementia c/ Lewy bodies | Lewy bodies ↓ | 失智+巴金森氏症,視幻覺 | Anticholinesterase | | Frontotemporal Dementia | Pick (Tau) protein Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...這些變異形成不正常的蛋白質所引起。 - b. 晚發型: 絕大多數病患屬於這一類,好發 60 歲以上。還未發現明確致病基因,但 19 號染色體上的 APOE ε4 gene 確定會增加病情惡化的風險。 - (3) 病理:老年斑(senile plaques)、神經纖維糾結(neurofibrillary tangles)。 - (4) 症狀:初期為記憶減退,尤其是短期記憶 (recent memory) 最先喪失。 - (5) 診斷: - a. 靠認知功能評估及排除其他疾病。 - b. 影像學: - (a) 主要用來排除其他造成失智症的器質性疾病(organic disorder)。 - (b) 阿茲海默症可見腦萎縮,如側腦室擴大、腦溝(sulcus)變寬,由以顳葉 內側(medial Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (C) 病理特徵為老年斑 (senile plaques) 和神經纖維糾結 (neurofibrillary tangles) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- Firm tangled mass of blood vessels with small hemorrhages, areas of thrombosis & calcified nodules within the bulk of the lesion - Dilated arterialized veins Dilated aneurysmal segment Diminished blood flow to Enlarged feeding vessel Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 6. Amyloid precursor protein:製造此蛋白質的基因位在染色體 21q,被代謝為 β/A4 protein,是 senile plaque的主要成分,在AD病人腦部發現有過多的 β/A4 protein沉澱。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 9. 神經病理學發現:senile plaque(其他類型失智症也可見到)、neurofibrillary tangle(其他類型失智症也可見到)、neuronal loss(特別是在 cortex 與 hippocampus)、synaptic loss、granulovacuolar degeneration of neurons。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 【詳解】senile plaque 和 neurofibrillary tangle 均可在阿茲海默失智症以外的疾病看到。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].

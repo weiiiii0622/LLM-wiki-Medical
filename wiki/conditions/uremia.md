@@ -26,6 +26,9 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Uremia (尿毒症)'
   - 'Uremia'
@@ -40,7 +43,7 @@ tags:
 
 ## Summary
 
-腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +69,15 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- 【詳解】OPCD 係影響到 cerebellum, pons 和 inferior olives 的神經退化性疾病。包含遺傳性脊髓小腦失調症(spinocerebellar ataxia)和 multiple system atrophy。其症狀主要為漸近性軀幹及肢體失調,並包含其他神經學症狀,如 parkinsonism, dystonia等。頭部 MRI 影像可見小腦萎縮,或是橋腦(pons)出現十字線(hot cross bun sign)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- ...---------------------------------------------| | Neonates ( 35 years) | CVA, Brain tumor, Alcohol withdrawal Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...及下肢麻、刺痛(tingling) (D) 足部潰爛相當罕見 | 106(一)專醫四-56 | | (C) | 3. 於一般臨床診療,下列何者是造成多發性神經病變之最常見原因? (A) 慢性酒精中毒 (B) 鉛中毒 (C) 糖尿病 (D) 尿毒症 | 105(一)專醫四-55 | | (D) | 4.72 歲陳老太太,罹患糖尿病已 10 年,長期規則服用降血糖藥物,飯前血糖大約控制在 180 mg/dL 左右。近 3 個月來,逐漸出現手掌無力及不靈活,晚上也常因肢體末端灼熱感而無法入睡。下列臨床症狀,那一項最不可能在陳老太太身上出現? (A) 肌腱反射低下 (B) 姿勢性低血壓(orthostatic hypotension) (C) 手掌肌肉萎縮 (D) Babinski s Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...rder)最常發生在下列那種病人? (A) 帕金森氏症(Parkinson's disease) (B) 阿茲海默症(Alzheimer's disease) (C) 額顳葉失智症(frontotemporal dementia) (D) 尿毒症(uremia) 【詳解】REM sleep behavior disorder 和 Parkinson's disease(PD) 高度相關,也好發在有 PD 家族史的患者身上。 | 106(一)專醫四-67 | | (A) 18. 依據社會再適應評估表(social readjustment rating scale),下列何種生活事件所造成的壓力強度最大? (A) 配偶死亡 (B) 離婚 (C) 入獄 (D) 子女死亡 【詳解】社 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (2) 出生後,若在男性新生兒發現膀胱擴大或是微小的尿流,此時就要懷疑尿道後 瓣膜的可能性。假若在新生兒期間沒有發現,病人則會有很高的機會得到泌尿 道感染引發敗血症或是尿毒症,造成病人死亡。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (3) 血液生化檢查:用來評估腎臟損傷程度,如BUN、Cr、CBC(評估貧血程度)。 5. 治療: - (1) 初步處理:為了防止泌尿系統的惡化,先用鼻胃管(No.5 or 8 French)導尿而不是用導尿管(Foley catheter 上的 balloon 會造成膀胱痙攣)。矯正電解質、BUN、Cr,治療呼吸窘迫…等,當病人情況穩定則以手術治療。 - (2) 手術:用小兒膀胱尿道切除鏡將尿道後瓣膜切除。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -84,9 +93,6 @@ tags:
 - (B) 溶血性尿毒症候群 (hemolytic uremic syndrome) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (A) 43. 下列那一種貧血使用血紅生成素 (Erythropoietin) 治療效果最好? 94(一)專 (A) 尿毒症貧血 (anemia of uremia) 內 1-10 - (B) 缺鐵性貧血 (iron deficiency anemia) - (C) 惡性貧血 (pernicious anemia) - (D) 頑固性貧血 (refractory anemia) Source: [[sources/med3-book4-ch10|甲、貧血]].
-- 【詳解】(A) 尿毒症貧血主要是因為腎臟無法製造紅血球生成素。 (台748) Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...| | | | rindolotics | | Bleomycin →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecit Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ...答 (B)、(C) 給分。 | | | (B) | 8. Mitomycin C 和下列何種症候群有關? | 104(一)專 | | | (A) hand-foot syndrome | 醫三-53 | | | (B) hemolytic uremic syndrome | | | | (C) hyperviscosity syndrome | | | | (D) capillary leak syndrome | | | (D) | 9. 下列何者不是 doxorubicin 的副作用? | 103(二)專 | | | (A) 骨髓抑制 | 醫三-44 | | | (B) 心臟毒性 | | | | (C) 噁心 | | | | (D) 腎毒性 | | | (C) | 10. 下列腫 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 
 ## Clinical Caveats
 

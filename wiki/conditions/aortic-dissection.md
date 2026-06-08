@@ -14,6 +14,8 @@ sources:
   - "[[sources/med3-book2-ch03]]"
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Aortic dissection (主動脈剝離)'
   - 'Aortic dissection'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med3-book2-ch03]]
 - [[sources/med3-book2-ch11]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- (A) 13. 60 歲男性於腹主動脈剝離後 3 日,發現雙下肢無力與麻木、失禁,神經學檢查顯示下肢的感覺功能異常,但下列何感覺功能仍可能是正常? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- ...下則頭痛立即改善,一般檢查為正常。最可能的診斷為何? | 醫四 -46 | | (A) 大腦靜脈竇栓塞(cerebral sinus thrombosis) | | | (B) 內頸動脈剝離(internal carotid artery dissection)引起的頭痛 | | | (C) 低顱內壓頭痛(low intracranial pressure headache) | | | (D) 椎基底偏頭痛(vertebrobasilar migraine) | | | (B) 23. 關於慢性緊縮型頭痛(chronic tension-type headache)的敘述, | 102(二)專 | | 下列何者錯誤? | 醫四 -52 | | (A) 每個月頭痛天數超過 15 天以上 | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (3) 心血管異常:約有 1/3 的病人併有心血管異常,常見的有二尖瓣脫垂、反流、 主動脈根部瘤狀樣擴大、甚至造成主動脈剝離。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...部 McBurney point*)、憩室炎 | | | | | | 左下腹部 | 結腸病變(憩室炎、便秘) | | | | | | 下腹部 | 膀胱感染或病變、女性的骨盆腔發炎 | | | | | 轉移性 | 後中背部 | 急性胰臟炎、腹主動脈剝離 | | | | | 疼痛 | 右背肩胛骨處 | 急性膽囊炎 | | | | | 25714 | 左肩 | 脾臟發炎、膿瘍或脾臟缺血 (infarction) | | | | | | 同側睪丸 | 輸尿管結石 | | | | | 腹痛性質 | 持續 | 腹内炎症或出血 | | | | | | 陣發性 | 中空臟器阻塞、痙攣 | | | | Source: [[sources/med3-book2-ch03|乙、腹痛]].
 - 【詳解】甲狀腺癌除非是早期或低惡性度的病人做 lobectomy 外, 一般治療為: total thyroidectomy + neck LN dissection, 術後再服用 放射碘,之後長期甲狀腺素使用。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].

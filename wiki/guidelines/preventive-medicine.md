@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Preventive medicine (預防醫學)'
   - 'Preventive medicine'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-以初級、次級、三級預防降低疾病發生、早期偵測與減少失能。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以初級、次級、三級預防降低疾病發生、早期偵測與減少失能。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch27]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (A) 25. 腦梗塞的二次預防(secondary prevention)須使用抗血小板藥物, 102( ) 專 若考慮藥物經濟學(同時考慮藥價與療效的最大效益),首選藥 醫四 -60 物為何? - (A) Aspirin - (B) Ticlopidine - (C) Clopidogrel - (D) Dipyridamole Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - #### A. 疾病的三段五級預防 [Ref. 陳拱北預防醫學基金會。公共衛生學(上)。2001] Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - 【詳解】(A) 美國預防醫學工作小組(USPSTF) 建議 50~74 歲女性 每兩年做一次乳房攝影篩檢(B級)。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (#) 28. 黃太太今年 41 歲,育有一位 15 歲男孩,並無重要病史及家族史,亦未定期作健康檢查。她來到你的門診接受預防醫學服務,除了量血壓、一般生化檢查、尿液檢查及子宮頸抹片外,根據美國預防服務工作小組(U.S. Preventive Service Task Force)的建議,應該再安排那些預防保健服務? Source: [[sources/med3-book4-ch27|丁、預防醫學]].

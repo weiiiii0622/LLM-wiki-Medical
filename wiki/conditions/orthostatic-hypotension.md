@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch10]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Orthostatic hypotension (姿勢性低血壓)'
   - 'Orthostatic hypotension'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-姿勢改變後血壓下降造成頭暈或暈厥。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+姿勢改變後血壓下降造成頭暈或暈厥。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch10]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch07]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...10 年,長期規則服用降血糖藥物,飯前血糖大約控制在 180 mg/dL 左右。近 3 個月來,逐漸出現手掌無力及不靈活,晚上也常因肢體末端灼熱感而無法入睡。下列臨床症狀,那一項最不可能在陳老太太身上出現? (A) 肌腱反射低下 (B) 姿勢性低血壓(orthostatic hypotension) (C) 手掌肌肉萎縮 (D) Babinski sign 呈現大腳趾背伸反應(dorsiflexion response) | 醫四 -57 | | (D) | 5. 下列何種神經病變較不可能是糖尿病所導致? (A) Autonomic neuropathy (B) Distal sensory neuropathy (C) Cranial nerve palsy (D) Polyra Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- 【詳解】(A) 此病的特色是嚴重的姿勢性低血壓。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 7. 姿態性低血壓 (orthostatic hypotension)、鎮靜、心搏加快:以 quetiapine 最常見。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (B) 6. 關於抗精神病藥 (antipsychotics) 的副作用及其主要藥物機轉之 103(ニ) 専 配對,下列何者正確? - (A) 口乾:血清素 (serotonin) 再回收阻斷作用 - (B) 姿勢性低血壓 (orthostatic hypotension) : 甲型腎上腺素受體 (α adrenergic receptors) 阻斷作用 - (C) 錐體外症候群 (extrapyramidal syndrome): 多巴胺 (dopamine) 再回收阻斷作用 - (D) 尿液滯留:甲型腎上腺素受體(α adrenergic receptors) 阻斷作用 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - ...過 600 mg/ day 則有 4% risk。 99(二)專 (D) 13. 抗精神病藥物 clozapine 之副作用中,下列何者具有致命性,因 而曾在1970年代被歐美等國禁用? 醫四 -62 (A) 心肌炎 (B) 便秘 (C) 姿勢性低血壓 (D) 顆粒性白血球缺乏症 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].

@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book3-ch08]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch07]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Psychosis (精神病性症狀)'
   - 'Psychosis'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-現實感受損的症狀群，包含妄想、幻覺、思考形式障礙與混亂行為。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+現實感受損的症狀群，包含妄想、幻覺、思考形式障礙與混亂行為。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,13 @@ tags:
 - [[sources/med4-book3-ch08]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch07]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...sterase | | Vascular dementia | 累積小中風 | 失智+局部神經學症狀 | 控制 HTN, DM | | Dementia c/ Lewy bodies | Lewy bodies ↓ | 失智+巴金森氏症,視幻覺 | Anticholinesterase | | Frontotemporal Dementia | Pick (Tau) protein | 失智+步態不穩+人格異常 | | | NPH (Communicating h.) | CSF 回收↓ | 失智+步態不穩+尿失禁 | VP shunt | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- 3. Dementia with Lewy bodies - (1) 病因:這類疾病是 Lewy bodies 在大腦、基底核沉積。 - (2) 症狀:失智症+巴金森氏症(兩者發病間隔小於一年),易有視幻覺,且症狀是 波動性的(fluctuation)。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- 容易出現下列那一症狀? 醫四-52 - (A) 聽幻覺 (auditory hallucinations) - (B) 注意力(attention)不集中 - (C) 攻擊行為 (aggression) - (D) 癲癇發作 (seizures) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (B) 甲狀腺亢進不致於出現幻覺或被害意念之精神病症狀 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (A) 苯二氮平類(benzodiazepines) 醫四-75 - (B) 情緒穩定劑 (mood stabilizers) - (C) 血清素再吸收抑制劑(SSRI) - (D) 抗精神病藥物 (antipsychotics) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (C) 7. 一位 19 歲男性患者,主訴每次洗澡必須超過 5 小時,因他很擔 99(二)專 心上班時辦公室的空氣、灰塵及其他被人觸碰過的物體不乾淨, 醫四-76 這樣擔心的想法持續地困擾他,久久揮之不去。此患者之臨床診 斷最有可能為下列何者? - (A) 慮病症 (B) 憂鬱症 (C) 強迫症 (D) 妄想症 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].

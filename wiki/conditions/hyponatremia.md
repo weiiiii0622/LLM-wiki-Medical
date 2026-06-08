@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Hyponatremia (低血鈉)'
   - 'Hyponatremia'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book3-ch05]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (1) Carbamazepine(Tegretol® 癲通):部分發作的首選,也可用於三叉神經痛(Trigeminal neuralgia);可能有頭暈、低血鈉等副作用,在 HLA-B1502 身上易引起 Steven-Johnson syndrome。孕婦的 AED 中,Tegretol 相對較安全。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (B) 1.45 歲女性,為減重並避免高血壓,過去2個月只食用極度少鹽少糖的餐點,因為全身無力倦怠被送到醫院。血液生化檢查發現血中的鈉離子濃度為117 mEq/L,醫師緊急使用高濃度(3%)的食鹽水靜脈點滴補充,在6小時內血中鈉離子濃度升高到137 mEq/L,結果病人出現神經學症狀。有關低血鈉的處理及這位病人的神經學病變,下列何者正確? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...ry depression) (D) 體溫升高 【詳解】會出現發燒。 | 108(二)專醫四-68 | | (A) | 8. 對酒精相關疾患的描述,何者錯誤? (A) 酒精戒斷時會心跳變慢 (B) 酒精戒斷時會冒汗 (C) 長期使用酒精時會低血鈉 (D) 酒精戒斷時會誘發譫妄,是高風險病症 【詳解】(A) 心跳變慢。 | 108(二)專醫四-69 | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - (D) 病童會因腎小管的鈉離子再吸收降低而出現低血鈉症 (Hyponatremia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 與 Bartter syndrome 相似之處在於 Gitelman syndrome 也會有低血鈉低血氯代謝性鹼中毒(hypokalemic hypochloremic metabolic alkalosis)。臨床上病人也會出現別內痙攣(cramp and spasm),可能因為低血鎂造成。病人也會出現多尿、夜尿甚至偶爾出現低血壓。另外,Gitelman syndrome 不常出現生長遲緩(growth failure)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -61,7 +67,6 @@ tags:
 - 對低血鈉有概念了嗎?低血鈉在臨床上相當常見,天天在抽 BUN/CR、Na/K,抽出來的低血鈉你是否會處理?謹記幾個原則,先排除假性低血鈉,看一下 chart,病人是否有高血糖、高血脂等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】病患因嘔吐→脫水→啟動 RAA system →留鈉排鉀排酸 代謝性鹼中毒;由於處於脫水狀態,尿液滲透壓會上升。(A) 血清 滲透壓可能會下降(hypovolemic hyponatremia),(B) 高尿鉀 due to metabolic alkalosis。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (A) 2.60 歲男性,有長期菸瘾習慣,過去病史已知有40年慢性B型肝炎及8年慢性支氣管炎。本次因食慾不佳及黃疸就醫住院,診斷為慢性B型肝炎急性惡化。入院15天後突發性高燒39℃,輕微腹瀉,及呼吸困難,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何種抗生素為最適當之治療選擇? - (A) ciprofloxacin - (B) fluconazole - (C) imipen Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (B) 2. 有關 Legionella pneumophila 引起的肺炎,下列描述何者錯誤? (A) 是一種 atypical pneumonia,與水塔或水質污染有關 (C) 臨床症狀除了發燒、咳嗽,常合併其他的肺外症狀 (D) 較其它病菌所引起的肺炎,更常有低血鈉症 【詳解】好發於老年人。 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 
@@ -70,7 +75,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/acute-intermittent-porphyria|Acute intermittent porphyria, AIP (急性間歇性紫質症)]]
+- [[conditions/central-pontine-myelinolysis|Central pontine myelinolysis / osmotic demyelination syndrome (橋腦中央髓鞘溶解症)]]
 
 ## Follow-up
 

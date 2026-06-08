@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med4-book4-ch04]]"
 aliases:
   - 'Neonatal herpes simplex infection (新生兒單純皰疹感染)'
   - 'Neonatal herpes simplex infection'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-新生兒 HSV 可表現為 skin-eye-mouth disease、CNS disease 或 disseminated disease。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+新生兒 HSV 可表現為 skin-eye-mouth disease、CNS disease 或 disseminated disease。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book4-ch07]]
+- [[sources/med4-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- #### G. 急性瀰散型腦脊髓炎 (Acute disseminated encephalomyelitis, ADEM) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- (B) 4. 下列有關急性散發性腦脊髓炎(acute disseminated encephalomyelitis, 108(二)專 ADEM)的敘述,何者錯誤? 醫四 -58 - (A) 肇因於病毒感染後或疫苗接種後誘發的自體免疫疾病 - (B) 很容易復發 - (C) 若有嚴重大腦傷害,死亡率高 - (D) 病理變化以髓鞘 (myelin) 的破壞為主 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ...亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated acantholytic epidermal cells,為受病毒感染之 keratinocytes,於HSV (herpes simplex virus) 感染造成之水疱也可看見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - # 5. 單純性疱疹 (Herpes simplex virus, HSV): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 為接觸感染,分為兩型 HSV-1 侵犯口唇黏膜和皮膚為主, HSV-2 侵犯生殖器官 為主,但也有可能互換位置。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

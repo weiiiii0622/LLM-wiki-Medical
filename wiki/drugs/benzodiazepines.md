@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Benzodiazepines, BZD (苯二氮平類)'
   - 'Benzodiazepines, BZD'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-增強 GABA-A 作用，用於 anxiety、insomnia、alcohol withdrawal、seizure 與急性激動；需注意依賴、跌倒與呼吸抑制。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+增強 GABA-A 作用，用於 anxiety、insomnia、alcohol withdrawal、seizure 與急性激動；需注意依賴、跌倒與呼吸抑制。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,16 @@ tags:
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- 【詳解】服用 metoclopramide、Haloperidol、抗精神病藥物都可能產生錐體外症狀(extrapyramidal syndrome, EPS),可以抗組織胺(Vena)、BZD、抗膽鹼藥物(Benztropine)治療。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...-----------------------------------------|-------------| | (A) 阿多平 (atropine) | 醫四 -49 | | (B) 麻醉劑(narcotics) | | | (C) 苯二氮平類(benzodiazepines) | | | (D) 阿斯匹靈(aspirin) | | | (D) 32. 王先生 38 歲,他在近 2 年來逐漸變得多疑,事事挑人毛病,偶 | 99(二)專 | | 會爆發脾氣,同時無法集中注意力,手指會出現不規則扭動,無 | 醫四-56 | | 法長時間緊握一件物體。追問其家族史發現他的爸爸在 45 歲左 | | | 右有類似的症狀,發病幾年後已去世。最可能之診斷是: | | | (A) 魏斯 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...| Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan) | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...pakine®) | | 以上兩個皆可 | | 加強 GABA | Barbiturate 類 | Phenobarbital (Luminal®) | 部分、全身性癲癇二線藥 | | //ling GABA (增強 GABA 作用) | BZD 類 | Clonazepam (Rivotril®) | 肌陣攣(Myoclonus) 發作可用 | | (增無 UADA 作用) | DZD 积 | Lorazepam (Ativan®) | 癲癇重積狀態首選 | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- b. Diazepam (Valium®):靜脈注射,但需注意血壓下降及呼吸抑制,目前逐漸被 Lorazepam 所取代。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 1. 藥物治療: - (1) SSRI類藥物:所有的 SSRI類藥物對於 panic disorder 均有效果,如 paroxetine (FDA approval)、sertraline、fluvoxamine,但是需要較長時間才會開始有效。 - (2) BZD 類藥物:較快產生 anti-panic 的效果,如 alprazolam、clonazepam、lorazepam, 缺點是可能會產生耐受性(tolerance)或依賴(dependence)。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (B) 苯二氮平類(benzodiazepines)的藥物治療效果好,故在治療第 4~12 週後可將劑量往上調 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (D) 使用 alprazolam 治療,其成癮性低 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
@@ -61,6 +70,7 @@ tags:
 - [[conditions/generalized-anxiety-disorder|Generalized anxiety disorder, GAD (廣泛性焦慮症)]]
 - [[conditions/panic-disorder|Panic disorder (恐慌症)]]
 - [[conditions/sleep-disorders|Sleep disorders (睡眠疾患)]]
+- [[conditions/status-epilepticus|Status epilepticus (癲癇重積狀態)]]
 - [[conditions/substance-use-disorder|Substance use disorder (物質使用疾患)]]
 
 ## Follow-up

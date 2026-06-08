@@ -30,6 +30,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -44,7 +45,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +75,13 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...---------------------------------|----------------------| | 大血管 * 粥狀硬化Athero- thromboticor a. to a. emboli | 中大型動脈 | DM、高血脂等因素形成粥狀硬化瘤(Atheroma) 若破裂引起血小板聚集,則造成阻塞;或在 ICA 較軟的 thrombi脫落,在遠方動脈梗塞 | 大腦皮質、腦幹、小腦症狀 | | 心源性血栓 | MCA 的上支 | CA的上支 心臟來的血栓塞住,病灶多在灰質 | | | Cardio-embolic | (併發癲癇↑) | 蘭↑) 較易轉化為出血性梗塞 | | | 小血管栓塞Lacunar infarction | 小動脈穿透支 | 因「高血壓 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- 1. 大血管粥狀硬化 (athero-thrombotic or artery to artery emboli): - (1) 位置:中大型動脈(ACA, MCA, PCA, BA, ICA×2, VA×2)。 - (2) 成因:因 DM、高血脂等形成粥狀硬化瘤(Atheroma)。 - (3) 診斷:頸部超音波、穿顱超音波、MRA。 - (4) 治療:若 ICA > 60% 有症狀的狹窄,或> 70% 無症狀的狹窄,建議放 Stent。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- ...A)右側後下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 6. 血脂異常:Quetiapine 與 olanzapine 可能會升高血液中 cholesterol 與 triglyceride 數值 11~17%。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (D) 3. 下列何種抗精神病藥,比較不會造成體重過重及高血糖或高血脂症? Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (D) 三酸苷油酯(triglyceride)過高 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -92,9 +97,6 @@ tags:
 - ...人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - (B) 1. 一位 18 歲男性大學新生,一星期前入學體檢報告正常。三天前參加新生盃籃球比賽後關節酸痛,自行購買止痛藥(diclofenac)服用後開始出現小便泡沫與腳腫,故至門診求診。無嘔吐、腹瀉、發燒與頻尿症狀。理學檢查發現:血壓 160/90 mmHg,呼吸速率每分鐘 20下,四肢出現紅疹,雙下肢 4+ 水腫。血液檢查:尿素氮(BUN)52mg/dL、肌酸酐:2.0 mg/dL,白蛋白 1.8 g/dL,白血球 7,000/μL,血色素 10.2 g/dL,膽固醇 320 mg/dL,三酸甘油脂(triglyceride)260mg/dL。尿液檢查:紅血球 2~3 顆/HPF,白血球 3~5 顆/HPF,尿液總蛋白質與肌酸酐比值為 12 g/g Cr。下列何項為最可能的診斷? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...ria) (B) 血尿(hematuria) (C) 腎臟肥大(enlarged kidney) (D) 肌酐上升 | 99(二)專醫三-25 | | (D) | 12. | 下列何者非腎病症候群之臨床特徵? (A) 低白蛋白血症 (B) 高血脂症 (C) 24 小時尿蛋白總量超過 3.5 克 / 1.73 m² (D) 氮血症超過 3 個月 | 99(一)專醫三-25 | | (C) | 13. | 下列何種腎絲球病變與 B 型肝炎病毒感染無關? (A) Membranous glomerulopathy (B) IgA nephropathy (C) Anti-glomerular basement membrane disease (D) Polyarteritis no Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (A) NS 的特點為重度蛋白尿,低白蛋白血症,高血脂症和水腫 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- | Pseudo | Normal plasma | 1. Hyperlipidemia | |--------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------| | hyponatr Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 對低血鈉有概念了嗎?低血鈉在臨床上相當常見,天天在抽 BUN/CR、Na/K,抽出來的低血鈉你是否會處理?謹記幾個原則,先排除假性低血鈉,看一下 chart,病人是否有高血糖、高血脂等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

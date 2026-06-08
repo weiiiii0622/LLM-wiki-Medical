@@ -5,6 +5,8 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Bell palsy (貝爾氏顏面神經麻痺)'
   - 'Bell palsy'
@@ -19,14 +21,20 @@ tags:
 
 ## Summary
 
-急性周邊型顏面神經麻痺，需排除中樞與感染等原因。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性周邊型顏面神經麻痺，需排除中樞與感染等原因。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (A) 類固醇治療有助於貝爾氏顏面神經麻痺(Bell's palsy) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (C) 4.66 歲男性,無過去病史,某天早上起床盥洗時發現自己無法漱口,右側眼睛無法完全閉合。神經學檢查發現病人有周邊型顏面神經麻痺(peripheral type facial palsy),下列何者較不可能發生? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- ...爸在 45 歲左 | | | 右有類似的症狀,發病幾年後已去世。最可能之診斷是: | | | (A) 魏斯特氏症候群(West's syndrome) | | | (B) 亞爾培氏症 (Alper's disease) | | | (C) 貝爾氏麻痺 (Bell's palsy ) | | | (D) 亨丁頓氏症(Huntington's disease) | | | (#) 33. 下列何疾病與基因轉錄區(coding region)之三核苷酸異常重複 | 98(二)專 | | (trinucleotide repeats)無關? | 醫四 -45 | | (A) 亨汀頓舞蹈症(Huntington's chorea) | | | (B) 肌強直失養症(myotonic d Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (D) 3. 一位 42 歲女性,近 3 年來右耳聽力逐漸喪失,經常性頭暈,偶 103(一)專 而會有眩暈的現象,一星期前出現右側周邊性顏面神經麻痺(peripheral type facial palsy)。腦幹聽覺誘發電位 (brainstem auditory evoked potential)檢查發現有耳蝸後病變(retro-cochlear pathology)。 在家族史方面,患者之弟弟罹患兩側性聽神經瘤。下列何者是 - (A) 結節性硬化症(tuberous sclerosis) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - IV. 其它的神經肌肉疾病 234 - A. 格林一巴利症候群(Guillain-Barrésyndrome) 234 - B. 貝爾氏顏面神經麻痺 (Bell palsy) 235 - C. 腦性麻痺 (Cerebral palsy, CP) 236 - D. 遺傳性運動一感覺神經病變 (Hereditary motor and sensory neuropathy) *237* Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats

@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Hypoglycemia (低血糖)'
   - 'Hypoglycemia'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- ...nates ( 35 years) | CVA, Brain tumor, Alcohol withdrawal Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (C) 心理壓力、挫折、孤獨等高壓力情境時常會造成飲食控制的 改變,進而影響到血糖的控制 - (D) 低血糖可能造成焦慮、意識混亂、行為混亂等症狀 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...緩解。本案例最可能的診斷是: (A) 癲癇發作 (B) 恐慌症 (C) 失憶症 (D) 心律不整 (D) 17. 承上題,下列那一項疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized anxiety Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - ...| Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticid Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
@@ -68,7 +71,6 @@ tags:
 - ...peptide 產生的一些生理反應;(C) 不止中樞神經病變;雖然 (B) 不確定,但 (D) 一定對。 | 95(二)專內1-50 | | (D) | 5. 下列何種癌症較不會發生「腫瘤相關性血糖過低症」(tumorassociated hypoglycemia)? (A) 肝癌(hepatoma) (B) 纖維肉瘤(fibrosarcoma) (C) 血管外皮細胞瘤(hemangiopericytoma) (D) 胰臟癌(adenocarcinoma of pancreas) 【詳解】血糖過低和(1) Mesenchymal tumor (包括 HCC、hemangiopericytoma)、(2) Sarcoma 有關,至於(D) 胰臟癌屬於表皮來源的 carcinoma,所以不會。 | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - a. 瘧原蟲中,惡性瘧最易引起貧血、中樞神經症狀。 - (a) 惡性瘧破壞紅血球,除了會引起貧血,若大量溶血,還會造成血紅素尿,稱為黑水熱 (Blackwater fever)。 - (b) 紅血球被破壞時,釋出的 TNFα 除了使病患發燒,也會使紅血球容易凝結,在腦血管造成血塊、堵塞,導致中樞神經症狀,稱為**腦性瘧(cerebral** malaria)。 - (c) 嚴重的惡性瘧感染(Hyperparasitemia > 5%RBC) 會造成腦性瘧、低血糖、乳酸中毒、腎衰竭、凝血病變等。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - TG Glibenclamide (Diabitin®) | 降血糖效果好、便宜 | 低血糖與增重 | 肝腎 | | 抑制鉀離子通道 | Glinide 類 | 0.5~1.5% | Repaglinide (Novonorm®)Nateglinide (Starlix®) | 降低飯後血糖 | 低血糖與增重 | | | 促進分泌 (胰臟)/減少 Incretin 分解 | DPP-4 inhibitor | 0.5~1.0% | Sitagliptin (Januvia®) Saxagliptin (Onglyza®) Vi Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- \*「腎」: Metformin eGFR Saxagliptin (Onglyza®) > Vildagliptin (Galvus®) > Linagliptin (Trajenta®) - a. 藥物機制:食物會刺激腸道分泌腸泌素(Incretin),腸泌素中最重要的就是GLP-1 會刺激胰臟分泌胰島素。而GLP-1 會被的體內 enzyme DPP-4 分解,使用DPP-4 inhibitor可延長 GLP-1 作用。[縮寫:Glucagon like peptide-1 (GLP-1)、Dipeptidyl peptidase-4 (DPP-4)] - b. 優點:副作用少,不易造成低血糖。 - c. 缺點:呼吸道感染、急性胰臟炎可能。另外,Saxagliptin 可能增加 DM 患者心衰竭住院。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 
 ## Clinical Caveats
 

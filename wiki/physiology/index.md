@@ -20,6 +20,7 @@ Normal function and pathways.
 - [[physiology/calcium-homeostasis|Calcium homeostasis (鈣離子恆定)]] - PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。
 - [[physiology/complement-system|Complement system (補體系統)]] - 補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。
 - [[physiology/coronary-circulation|Coronary circulation (冠狀動脈循環)]] - 冠狀動脈解剖決定心肌缺血位置與 ECG 導程變化。
+- [[physiology/corticospinal-tract|Corticospinal tract (皮質脊髓徑)]] - 主要 voluntary motor pathway，病灶造成上運動神經元徵象與定位價值。
 - [[physiology/cytokine-signaling|Cytokine signaling (細胞激素訊號)]] - cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。
 - [[physiology/enterohepatic-circulation|Enterohepatic circulation (腸肝循環)]] - 膽汁酸與部分物質在肝膽腸之間循環。
 - [[physiology/glucose-homeostasis|Glucose homeostasis (血糖恆定)]] - 胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。

@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Hypercalcemia (高血鈣)'
   - 'Hypercalcemia'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...析顯示 Occult blood:強陽性 (4+);Protein:陰性 (-);WBC 3~5/HPF;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (5) 病人也會表現高血鈣,進而造成腎臟鈣化或結石發生。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】病人血液 pH 值為 7.56,故 (A)(D) 先可以刪除。病人 血液低血鉀但血氯正常,因此 Bartter syndrome 不選(Bartter syndrome 病人血液出現低血鉀、低血氯、高血鈣、正常鎂離子 濃度、以及代謝性鹼中毒,尿液檢查出現高尿鈣與尿肌酸酐比 值)。故選(B)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -70,7 +73,6 @@ tags:
 - 【詳解】貧血,高血鈣,bone pain 要想到多發性骨髓瘤 multiple myeloma。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - 2. Squamous cell carcinoma 會分泌 PTHrP 造成高血鈣(HyperCalcemia),因為常長在肺尖(Pancoast tumor)而造成肩痛、手臂痠痛、Horner syndrome。 - \*口訣:死龜(Squa)愛搞怪(高鈣),愛爬到肺尖造成肩痛 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...dL,Albumin:1.9 g/dL,Ca++:13.5 mg/dL。下列敘述何者較不適當? - (A) 血清白蛋白偏低應積極補充矯正 - (B) 懷疑 morphine 過量導致意識障礙可使用 naloxone 以鑑別診斷 - (C) 高血鈣症除適當補充體液也可考慮類固醇或 mithramycin 的使用 - (D) 感染症導致意識障礙之可能性須加以排除 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

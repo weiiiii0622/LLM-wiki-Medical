@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Cytomegalovirus infection, CMV (巨細胞病毒感染)'
   - 'Cytomegalovirus infection, CMV'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch06]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- (D) 10. 下列那些腦膜炎,如果沒有及早治療,容易發生顱底腦膜嚴重滲 105(ニ)専出性發炎變化(basilar meningeal exduate),導致次發性腦血管梗塞(cerebral infarction)?①腮腺炎病毒腦膜炎(mumps)②巨細胞病毒性腦膜炎(CMV)③結核菌腦膜炎④隱球菌腦膜炎(A)①②(B)②③(C)①④(D)③④ Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- (2) 好發於 45~64 歲間,發病前 2~3 周往往有上呼吸道感染或腸胃道症狀,特別是 EBV、CMV 感染,再經由未明的原因引發免疫系統攻擊周邊神經的髓鞘。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - ...-------------------------------------------------------------------------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosi Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (3) Urine antigen and culture : CMV • Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -69,8 +75,6 @@ tags:
 - ...十 | 雙股環狀 | 5.7 (3.5) | | HPV →疣; Polyoma vir | us (BK, JC) | | | | 雙股線狀 核內 | | 核內 | 疱疹病毒 (Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长,肝硬化 | | | | 複雜型 | 雙股線狀 | 細胞質 | 痘病毒 (Pox virus) | 天花, 傳染性軟疣 | | | | | 二十面體 | 單股 (+) 無分段 | 細胞質 | 小 RNA 病毒 (Picornavirus) | 小兒麻痺,克沙奇病毒 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - ...增多症 (Infectious mononucleosis) | | | | | | (Epstein-Barr virus) | 伯奇氏淋巴瘤 (Burkitt's lymphoma); 鼻咽癌 (NPC) | | | | HHV5 | CMV | 巨細胞病毒 | 先天感染(TORCH)→孕婦感染,使胎兒畸型,流產 | | | | | (Cytomegalovirus) | | 免疫不全者: 視網膜炎, 肺炎 | | | | HHV6 (Human 人類疱疹病毒第6型 | | 人類疱疹病毒第6型 | 玫瑰疹 (Roseola, Exanthem subitum)[ 典型病史: | | | | herpesvi | rus 6) | In Tables 200 London | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - | 藥 物 | 機制 | 適用於 | |-------------|-------------------|----------------------------------------| | Acyclovir | Guanosine 類似物 | HSV1 · HSV2 · VZV | | Ganciclovir | Guanosine 類似物 | CMV | | Foscarnet | Pyrophosphate 類似物 | 對 Acyclovir 及 Ganciclovir 有抗性的 HSV、CMV | Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- Cytomegalovirus disease (other than liver, spleen, or nodes) Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- Cytomegalovirus retinitis (with loss of vision) Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

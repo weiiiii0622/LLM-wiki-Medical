@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Acyclovir (阿昔洛韋)'
   - 'Acyclovir'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-抗 herpesvirus 核苷類藥物，用於 HSV/VZV 感染。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗 herpesvirus 核苷類藥物，用於 HSV/VZV 感染。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- (D) 給予藥物 acyclovir Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - e. 另有研究指出高劑量 Acyclovir (800 mg qid or 400 mg 5 times a day) 可縮短 病程,但仍需更多資料。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - # 4. 水痘帶狀疱疹病毒(Varicella-Zoster Virus, VZV): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - ...亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated acantholytic epidermal cells,為受病毒感染之 keratinocytes,於HSV (herpes simplex virus) 感染造成之水疱也可看見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -59,8 +65,6 @@ tags:
 - ...ions, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Ente Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...| | | 二十 | 雙股環狀 | 5.7 (3.5) | | HPV →疣; Polyoma vir | us (BK, JC) | | | | 雙股線狀 核內 | | 核內 | 疱疹病毒 (Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长,肝硬化 | | | | 複雜型 | 雙股線狀 | 細胞質 | 痘病毒 (Pox virus) | 天花, 傳染性軟疣 | | | | | 二十面體 | 單股 (+) 無分段 | 細胞質 | 小 RNA 病毒 (Picornavirus) | 小兒麻痺 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - ...| | HHV2 | HSV2 | 單純疱疹病毒第二型 | 生殖器疱疹→腰,尾椎感覺神經結潛伏 | | | | | | (Herpes simplex virus 2) | s 2) →復發生殖器疱疹 | | | | HHV3 | HV3 VZV 水痘帶狀疱疹 | | 水痘 (Varicella = chicken pox)→顱, 咽感覺神 | | | | | (Varicella zoster virus) | | 經結潛伏→復發帶狀疱疹 (Shingles) | | | | HHV4 | EBV | 艾帕斯坦 - 巴爾病毒 | 傳染性單核球增多症 (Infectious mononucleosis) | | | | | | (Epstein-Barr virus) | 伯奇 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- | 藥 物 | 機制 | 適用於 | |-------------|-------------------|----------------------------------------| | Acyclovir | Guanosine 類似物 | HSV1 · HSV2 · VZV | | Ganciclovir | Guanosine 類似物 | CMV | | Foscarnet | Pyrophosphate 類似物 | 對 Acyclovir 及 Ganciclovir 有抗性的 HSV、CMV | Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 
 ## Clinical Caveats
 

@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Myelodysplastic syndrome, MDS (骨髓發育不良症候群)'
   - 'Myelodysplastic syndrome, MDS'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-造血幹細胞異常造成無效造血與 cytopenia，可進展為 AML。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+造血幹細胞異常造成無效造血與 cytopenia，可進展為 AML。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch21]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (A) 肌躍-肌張力不全症(myoclonus-dystonia syndrome, MDS) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - | Megaloblastic anemia | 缺發葉酸或是 Vit B 12 ,藥物 | |--------------------------|--------------------------------| | Non-megaloblastic anemia | 脾切除、慢性肝病、MDS | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - | 骨髓狀況 | 代表疾病 | |-------------------------|-------------------------------------------| | 骨髓細胞少 (Hypocellular BM) | 再生不良性貧血 (Aplastic anemia, AA) | | 骨髓細胞適量 (Cellular BM) | 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) | | 骨髓被取代 (Myelophthisis) | 原發性骨髓纖維化 (idiopathic myelofibrosis) | | 全身疾病 (Systemic disease) | 肝硬化等導致脾腫大 (Hypersplenism)、敗血症 (Sepsis) | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - #### 3. 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) Source: [[sources/med3-book4-ch10|甲、貧血]].

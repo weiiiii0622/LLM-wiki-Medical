@@ -11,6 +11,9 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)'
   - 'CT pulmonary angiography, CTPA'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-肺栓塞常用影像診斷。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺栓塞常用影像診斷。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,16 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book4-ch04]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (C) 5. 一位 60 歲女性,於一週前發生複視(diplopia),並無劇烈頭痛,神經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ischemic type) - (D) 海綿靜脈竇徵候群 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (B) 1. 八十四歲的伍爺爺因突發頭痛及行動不便,被送至急診室,神經 106(-)專 內科主治醫師認為是出血性中風,最合適的檢查為下列何者? 醫四-49 - (A) 血管攝影 (angiogram) - (B) 電腦斷層攝影(CT) - (C) 核磁共振攝影 (MRI) - (D) transcranial doppler Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- ...(A) | 5.33 歲健康女性,突發劇烈頭痛及暈厥(syncope),病人清醒後有頭痛、嘔吐及頸部酸痛現象,此時最優先的檢查為何? (A) 不打顯影劑的腦部電腦斷層 (B) 打顯影劑的腦部電腦斷層 (C) 打顯影劑的腦部磁振造影 (D) 血管攝影 【詳解】當然是先做不打顯影劑的頭部電腦斷層,先搶時間診斷是否為顱內出血,如 SAH。然後再適時選擇下一步的檢查。 | 108( 二 ) 專醫四 -77 | |-----|--------------------------------------------------------------------------------------------------------------------------------------... Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- (b) 另外也可以考慮以血管攝影放置 multiple helical platinum coils 到血管瘤底 部,進行 coil embolization。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...1990)[不用死記,建議多看幾次能對此病有概念] - a. 年紀 10 mmHg - d. 四肢動作困難 (Extremities claudication) - e. 鎖骨下動脈或主動脈聽到雜音(Bruit) - f. 大動脈或主要分之血管攝影異常 (Irregular vessel wall, stenosis 等) - (4) 治療: Steroid、MTX Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - ...Mononeuropathy or polyneuropathy) - f. 高血壓:舒張壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (C) 10. 一位 35 歲女性最近兩個月來有微燒,而體重減輕約 6 公斤,吃飯之 後會有輕度腹痛。檢查結果發現 WBC 11,500/mL、CRP 1.46 mg/L、 ANA: 1: 160 speckled、cANCA 陰性、anti-cardiolipin < 12 U/mL, proteinuria (++),腹部血管攝影如附圖。最可能的診斷為何? Source: [[sources/med3-book4-ch04|丁、血管炎]].
@@ -53,8 +63,6 @@ tags:
 - (D) 16. 一位 55 歲男性病人為慢性 B 型肝炎帶原者,最近腹部電腦斷層及血管攝影發現肝右葉有一 2 公分大小的腫瘤,高度懷疑為肝癌,血清胎兒蛋白為 420 ng/mL, Child-Pugh 分類為 A,其他影像檢查並未有腫瘤轉移情形,你最不考慮採用下列何種治療? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - (C) 1. 一位 65 歲男性,有高血壓病史,一天抽菸一包,在腹部摸到一個無 104(二)專 痛而隨脈搏跳動之腫塊,接受腹部斷層掃描血管攝影(CT angiography) 醫三-21 發現異常如附圖,有關此患者下列敘述何者正確? Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - (C) 應馬上進行動脈血管攝影或胸部電腦斷層檢查 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- 5. 肺血管攝影: 為急性肺栓塞的黃金診斷標準, 但具侵襲性, 現在少做。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
-- (B) 5. 下列有關肺栓塞 (pulmonary embolism) 的診斷敘述,何者錯誤? 105(ニ) 專 (A) 氣促 (dyspnea)、胸痛、咳血等症狀不具特異性 醫ニ-51 - (B) 診斷主要靠肺血管攝影 (pulmonary angiography) - (C) 血清中 d-dimer 的檢測具有高敏感度、低特異性的特點 - (D) 使用核醫通氣-灌注肺掃描檢查,會出現「通氣-灌注不吻合」 (ventilation-perfusion mismatch)的影像 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 
 ## Clinical Caveats
 

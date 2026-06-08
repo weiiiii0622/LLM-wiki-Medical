@@ -44,6 +44,8 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Thyroid gland (甲狀腺)'
   - 'Thyroid gland'
@@ -58,7 +60,7 @@ tags:
 
 ## Summary
 
-甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +104,15 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...a" with parkinsonian features) | | Infectious | Postencephalitic PD | | | | | Neurosyphilis | | | | Metabolic | Hypoparathyroidism or pseudohypoparathyroidism with basal ganglia calcifications Non-Wilsonian hepatolenticular degeneration | | | | Drugs | Neuroleptics (typical antipsychotics) \ Some atypical antipsychotics | | | | (常併有 | Antiemetic Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (A) 12. 陳小姐今年 25 歲,二年前開始左手會不自主甩動,接著是右手、 105(一)專 臉部、及雙腳都會發生不自主動作(如擠眉弄眼、聳肩、扮鬼臉、 醫四-59 彈指或舉腿等等),最後在身體各部位都出現,且愈來愈頻繁。 一年前她也感覺到記憶力減低,常常打錯字。她的母親在 48 歲 時也出現類似症狀,在55歲時自殺身亡。陳小姐的身體理學檢 查正常,但其智力減低且易怒。她最可能的診斷是: - (A) 亨丁頓舞蹈症(Huntington chorea) - (B) 席登罕氏舞蹈症 (Sydenham chorea) - (C) 高甲狀腺亢進舞蹈症 - (D) 中風性半邊舞蹈症 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 其他情感疾患: - 一般醫學狀況造成的情感性疾患:如甲狀腺功能亢進之病人往往會有類似躁症(mania)發作。 - 物質誘發之情感性疾患:如酒精、安非他命在戒斷時期會出現憂鬱症狀。 - ■其他未註明之情感性疾患。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...-----------------------|--| | Lithium | 0.8~1.2 mEq/L | 影響腎功能、tremor、weight gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrig Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -119,10 +127,6 @@ tags:
 - ...neous candidiasis): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 5. 其他症狀: 視網膜白斑、心臟橫紋肌瘤 (rhabdomyoma)、過誤瘤 (腎、肺、甲狀腺、 睪丸或腸胃道)。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - I. 甲狀腺 274 - A. 甲狀腺機能低下 (Hypothyroidism) 274 - B. 甲狀腺機能亢進 277 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- # A. 甲狀腺機能低下 (Hypothyroidism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...-----------------------------------------------------------------------------------------|--|--| | 疾病名稱 | 簡介 | | | | 先天性甲狀腺低能症 | 新生兒體內缺乏甲狀腺荷爾蒙。會嚴重影響腦及體格發育,症狀在二~三個月後慢慢出現,若六個月以後才治療,大部份會變成智能障礙、生長發育遲緩及身材矮小。 | | | | 苯酮尿症 | 此為體染色體隱性遺傳疾病,病人肝臟缺乏苯丙胺酸羥化酶(PAH)或輔酶 BH4 因此代謝途徑出問題。苯丙胺酸(PHE)無法藉由 PAH 與 BH4 作用轉換成酪胺酸,而在體內大量堆積,進而產生有毒的代謝產物(如尿中出現大量的 phenylpyruvat Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (D) 先天性甲狀腺功能低下症(congenital hypothyroidism) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

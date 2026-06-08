@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Pheochromocytoma (嗜鉻細胞瘤)'
   - 'Pheochromocytoma'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch05]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 隨著研究進展,目前思覺失調症產生的理論認為疾病的產生並非單一神經傳導物質 dopamine 的失衡,腦中其他神經傳導物質如 norepinephrine、serotonin、GABA、 glutamate、neuropeptide 的失去平衡也可能有關。研究也顯示,血液中香草酸 (homovanillic acid, catecholamine 的代謝物) 濃度越高,精神症狀越嚴重,對於抗精神病藥物的反應也越好。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - ...疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized anxiety disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - 安非他命主要是促進神經分泌 catecholamine 類神經傳導物質,特別是 norepinephrine 與 dopamine $\circ$ Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
@@ -70,7 +73,6 @@ tags:
 - 2. 病因:(排除掉醫源性 Cushing's syndrome) - (1) Cushing's disease (70%):因為腦垂體腫瘤 (Adenoma) 或增生 (Hyperplasia)。 - (2) Adrenal tumor (20%): 腎上腺腫瘤 (6 cm: Carcinoma)。 - (3) Ectopic ACTH (10%): 肺小細胞癌; 胸腺、胰臟、卵巢的類癌 (Carcinoid tumor)、甲狀腺髓質癌 (Medullary carcinoma of thyroid)、Pheochromocytoma 等。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - ...astic (MMMP) | | | Pituitary tumor . | Medullary thyroid ca. \ | Mucosal neuroma · | | 內容 | Parathyroid hyperplasia . | Pheochromocytoma > | Medullary thyroid ca. | | 內台 | Pancreatic islet tumor | H yperparathyroidism | Marfanoid body habitus | | | (Gastrinoma 最多) | | Pheochromocytoma | | 金山路 | 只有 P | 有 M 要想 II | | | 記憶 | | IIa, IIb 共同有 Medullary th | hy Source: [[sources/med3-book2-ch16|辛、其 他]].
 - (D) 4.50 歲女性,有一甲狀腺結節,併高血壓,後來發現是甲狀腺髓質癌 106(一)專 併嗜鉻細胞瘤。則她及她的小孩要作何種致癌基因(oncogene)檢查? 醫三-51 Source: [[sources/med3-book2-ch16|辛、其 他]].
-- ...-----------------------------------------------------|--------| | | 姊姊因甲狀腺髓質癌開刀。有關此病例之處置,何者不適當? | 醫三-42 | | | (A) urine catecholamine 測定 | | | | (B) 腦垂腺 MRI 檢查 | | | | (C) serum Ca、P、iPTH 測定 | | | | (D) RET proto-oncogene 檢測 | | | (A) | 8. 下列有關 glucagonoma 常見症狀之敘述,何者正確? | 94(三)核 | | | (A) 嚴重紅斑疹,壞死性移行性紅斑 | 內 -39 | | | (B) 舌頭紅腫,口角炎 | | | | (C) 貧血,精神沮喪 | Source: [[sources/med3-book2-ch16|辛、其 他]].
 
 ## Clinical Caveats
 

@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Pituitary adenoma (腦垂體腺瘤)'
   - 'Pituitary adenoma'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch15]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- \* 視交叉正下方若有腦垂體腫瘤(pituitary adenoma)、鼻咽癌(NPC)往上壓迫視交叉的正中央,會造成由上往下的雙顳側視野受損,如下圖;若 craniopharyngioma 由外側壓迫,會造成鼻側視野受損。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- 2. 原發性腦腫瘤 - (1) 神經膠瘤 (glioma) 最為常見 (43.9%), 包含 glioblastoma、astrocytoma、oligodendorcyte、ependymoma; 惡性機會高。 - (2) Meningioma (17.2%): 好發女性,為良性腫瘤可手術摘除; - (3) Pituitary adenoma (8.6%) Schwannoma (7.0%) Lymphoma... Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (2) 橋本氏甲狀腺炎(早期)、亞急性甲狀腺炎(de Quervain's thyroiditis)、pituitary adenoma、腦下垂體對 T4 有抗性等。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - i. Pituitary adenoma 分泌 ACTH,又稱 Cushing's disease,其中 microadenoma (ACTH > 30~150 pg/mL)、macroadenoma (ACTH > 200 pg/mL)。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - i. 可施行 High dose DST (**2 mg q6h\* 2days**), 若是 Pituitary adenoma 會被 抑制 cortisol 濃度 (cortisol level suppression 超過 50%), 而 Ectopic tumor 不會被抑制。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].

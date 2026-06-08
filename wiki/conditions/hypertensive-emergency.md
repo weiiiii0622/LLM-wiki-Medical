@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Hypertensive emergency (高血壓急症)'
   - 'Hypertensive emergency'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- 【詳解】惡性高血壓引起的神經症狀,要考慮 Hypertensive encephalopathy。頭痛為首先發生的症狀,然後可能造成意識障礙,視力模糊,癲癇等。影像可見 occipital lobe edema。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 1. 此症狀屬於精神科的急症,可發生在使用抗精神病藥物治療的任一個時期。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 1. 外科急症:接觸病人時,首先要排除外科急症的可能性。如腸套疊、闌尾炎、消化 道扭轉(volvulus)、消化道潰瘍破裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如 睪丸扭轉)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】任何腹痛應優先排除外科急症,腸套疊、闌尾炎、 消化 道扭轉(volvulus)、消化 道潰 瘍破 裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如睪丸扭轉)。(C) 一開始表現為右 下腹痛,臨床表現與急性闌尾炎相似,但急性腸繫膜淋巴腺炎 為自限性(self-limiting)疾病。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -70,7 +73,6 @@ tags:
 - (1) 此屬外科急症,好犯於胃次全切除術及 B-II 吻合術最初幾週內,afferent loop 阻塞,小腸液、膽汁、胰液很快就充滿 afferent loop,並導致膽汁、胰液滯留,而發生膽囊炎、胰臟炎。 Source: [[sources/med3-book2-ch05|庚、胃疾病 – 其他]].
 - ...NPH insulin 20 單位皮下注射(B) 0.9% NaCl 3,000 mL 靜脈輸注(C) 抗生素治療(D) 7% sodium bicarbonate 40 mL 靜脈注射【詳解】病人狀況接近 HHS,先灌水打胰島素治療,而急症應該使用速效或短效胰島素,使用 NPH 並不適合。 | 101(二)專醫三-53 | |-----|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (2) 重症病患 (Critical ill) 與腎上腺機能低下: - a. 發生急症(開刀、外傷、敗血症)時,Cortisol會上升6~10倍、且失去日夜變化(白天高、晚上低);若Cortisol無法提升到身體需要的量以控制發炎反應、維持血壓,則稱為 Relative adrenal insufficiency。 - b. 診斷:若病人的 cortisol 無法提升至 15 μg/dL 以上,或注射 250 μg Cosyntropin 血中 Cortisol 與基準值相比,無法上升大於 9 μg/dL,可診斷 Rel Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- #### 2. Hypertensive emergency: Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 
 ## Clinical Caveats
 

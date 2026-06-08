@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'NSTEMI (非 ST 段上升心肌梗塞)'
   - 'NSTEMI'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-通常為心內膜下梗塞，心肌酵素上升但無 ST elevation。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+通常為心內膜下梗塞，心肌酵素上升但無 ST elevation。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- (C) 28. 巨細胞動脈炎 (Giant cell arteritis) 的主要治療是: 101(一)專 (A) Non-steroidal anti-inflammatory drugs 醫四 -61 (B) Sumatriptan (C) Prednisone (D) Morphine Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...rmal $< 30$ ) | | | 【詳解】(D) 其中以 anti-ds DNA 對於 SLE 非常具專一性。 | | | (D) 33. 下列何種藥物不宜在急性痛風發作時使用? | 94(一)專 | | (A) 非類固醇消炎藥物 (non-steroid anti-inflammatory drugs, NSAID) | 內 1-81 | | (B) 秋水仙素 (colchicine) (C) 類固醇 (steroids) | | | (D) 降尿酸藥物 (hypouricemic agents), 如 allopurinol | | | (D) 34. 下列有關痛風的診療,何者不正確? | 94(一)檢 | | (A) 痛風的確定診斷為關節液中有 monosodium ur Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (B) non-steroid anti-inflammatory drugs Source: [[sources/med3-book4-ch09|辛、其 他]].
 - ...引發大量 出血,活體切片呈現幽門桿菌陰性。下列的疼痛控制策略對此病人 是最適當的? - 醫三-70 - (A) 疼痛是屬於神經性的 (neuropathic pain), 因此可加入 gabapentin - (B) 在現有處方中加入強效 non-steroid anti-inflammatory drugs (NSAIDs) 例如 ketoprofen - (C) 可加入 Cox-2 抗炎劑以維持止痛效果 - (D) 嗎啡可加量至每4小時10毫克(睡覺中除外) Source: [[sources/med3-book4-ch28|戊、緩和醫療]].

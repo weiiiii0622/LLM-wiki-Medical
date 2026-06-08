@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Wilson disease (威爾森氏病)'
   - 'Wilson disease'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-銅代謝異常造成肝病、神經精神症狀與 Kayser-Fleischer rings。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+銅代謝異常造成肝病、神經精神症狀與 Kayser-Fleischer rings。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...- 舞蹈症+認知障礙 | | 再往內給底丘腦核、蒼白球再給丘腦的腹前核、腹外核最後再傳回大腦皮質 | | 豆核 *- 手足徐動症 (Athetosis) | | | | - 不自主手足慢速扭曲 ( 小關節 ) | | | | 豆核 *- 威爾森氏症 (Wilson's dz.) | | | | - 不自主運動+肝功能異常 | | | 京に野女 (C-bth alamas may) | 芭蕾舞症 (Ballism) | | | 底丘腦核 (Subthalamus nu.) | -不自主四肢近端大規模投擲、跳躍(大關節) | | DZ 657-1-104 456 五百4-4-11-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1- | 阿桥 (C-1-44 | 巴金 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- #### (5) 威爾森氏症 (Wilson disease): Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- a. 25 μg/dL)、24 小時尿液 銅離子排泄增加 (urinary copper level > 100 μg)、且血中藍胞漿素 (Ceruloplasmin)減少 ( 要考慮的其他診斷 | |-------------------------------------------------|---------------------------| | Falls as the first symptom 以跌倒為第一個症狀 | PSP | | Exposure to neuroleptics 有服用抗精神病藥物 | Drug-induced parkinsonism | | Associa Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...uction 或 cholestasis,則 alkaline phosphate 會升高。若是伴隨 direct bilirubin 上升,大大暗示著 biliary obstruction 或 cholestasis。 - (3) 在 Wilson disease 或 hypothyroidism, alkaline phosphatase level 則是會降低的。 - (4) 若是伴隨 γ-GT 的上升,暗示著 alkaline phosphatase 來自於肝膽系統。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 8.6 歲大男生,被發現肝功能異常,懷疑是 Wilson disease,下列何 105(二)專 者錯誤? 醫四 -11 - (A) Wilson disease 是性聯隱性遺傳 - (B) serum copper 和 ceruloplasmin 在 Wilson disease 早期不一定 會低 - (C) 5 歲以上找不到合理解釋的肝功能異常病人, Wilson disease 應被列為鑑別診斷之一 - (D) 應會診眼科,看 cornea 是否有 Kayser-Fleischer (K-F) ring 【詳解】(A) 應為體染色體隱性遺傳。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - Ⅱ. 染色體異常疾病 417 - A. 愛德華氏症= Trisomy 18 417 - B. 唐氏症 (Down syndrome) 418 - C. Fragile X syndrome 421 - D. DiGeorge's 症候群(CATCH 22) 422 - E. 馬凡症候群(Marfan's syndrome) 424 - F. 威爾森氏病 (Wilson disease) 425 - G. 透納氏症(Turner syndrome) 427 - H. 努南氏症 (Noonan synfrome) 429 - I. 其他 432 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
@@ -45,7 +50,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[anatomy/basal-ganglia|Basal ganglia (基底核)]]
 
 ## Follow-up
 

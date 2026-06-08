@@ -7,9 +7,11 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
-  - 'Plasma exchange (血漿置換)'
-  - 'Plasma exchange'
+  - 'Plasma exchange, PLEX (血漿置換)'
+  - 'Plasma exchange, PLEX'
   - '血漿置換'
 tags:
   - medicine
@@ -17,20 +19,26 @@ tags:
   - auto-topic-node
 ---
 
-# Plasma exchange (血漿置換)
+# Plasma exchange, PLEX (血漿置換)
 
 ## Summary
 
-以血漿移除致病抗體或補充缺乏因子，TTP 等疾病可用。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以血漿移除致病抗體或補充缺乏因子，可用於 TTP、GBS、NMO、MG crisis 等疾病。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch10]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med4-book4-ch07]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- (2) Beta 干擾素 (interferon)治療、血漿置換 (plasmapheresis),可以降低發作頻率。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- 4. 治療:類固醇、血漿置換術、免疫抑制劑、Rituximab。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- 6. 治療: - (1) 預防併發症以及支持療法。 - (2) 急性期可使用大量的類固醇進行脈衝治療、血漿置換或是免疫球蛋白治療。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- (2) 血漿置換術 (plasmapheresis):減少血中自體抗體,用於急性呼吸衰竭或切除胸腺前的準備工作。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (3) Plasmapheresis (血漿置換):針對 steroid 治療效果差的病人。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (A) 血漿置換術 (plasmapheresis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -43,7 +51,10 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/chronic-inflammatory-demyelinating-polyneuropathy|Chronic inflammatory demyelinating polyneuropathy, CIDP (慢性發炎性脫髓鞘型多發神經病變)]]
+- [[conditions/guillain-barre-syndrome|Guillain-Barre syndrome, GBS (格林-巴利症候群)]]
+- [[conditions/myasthenia-gravis|Myasthenia gravis, MG (重症肌無力)]]
+- [[conditions/neuromyelitis-optica|Neuromyelitis optica, NMO (視神經脊髓炎)]]
 
 ## Follow-up
 

@@ -22,6 +22,7 @@ sources:
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Heparin (肝素)'
   - 'Heparin'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - [[sources/med3-book4-ch12]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- | 分類 | 病程 | 意義 | |---------------------------------|------------------|---------------| | 暫時性腦缺血 | 定義為24小時內恢復,且無 | 中風的警訊, | | (Transient ischemic attack=TIA) | 任何後遺症 | 需積極 Survey、預防 | | 完成性腦中風 | 頸動脈於24小時後,基底動 | 給抗凝劑反而易出血 | | (Complete stroke) | 脈於 72 小時後病況穩定 | 宜保守治療 | | 進行性腦中風 | 頸動脈於 24 小時後,基底動脈 | 考慮使用 Heparin | | (Stroke in evolution) | 於 72 小時後病況仍持續進展 | | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - # D. Warfarin 和 heparin Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (1) Initial: heparin 75 U/kg, IVD for 10 mins • Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (2) Maintanance: 20 U/kg/hr, q4h check PTT, keep aPTT: 60~80 secs 五天。 Source: [[sources/med4-book1-ch08|辛、血液學]].
@@ -78,7 +81,6 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - ...--------------------------------------------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(c Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...otal T4 ↑ | Free T4 ↑ | 抑制 T4→ T3 | Amiodarone · Propranolol | | (Euthyroidism) | Total T4 正常 | Free T4 ↑ | T4 離開 TBG | Heparin · LMWH | | | Total T4 ↑ | Free T4 正常 | 增加 TBG | 雌激素 (Estrogen)、懷孕、肝炎、肝 | | | | | | 硬化 | | | Total T4 ↓ | Free T4 正常 | 減少 TBG | 雄激素 (Androgen) | | 甲狀腺功能低下 | Total T4 ↓ | free T4 ↓ | 抑制 TSH | Glucocorticoid, Dopamine, | | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - a. 凝血因子(PT、aPTT): 若肝臟製造能力下降,可在短時間內表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- (3) 抗血栓藥物方面:ACS 病患會使用 Heparin 將 aPTT 控制在 60 秒左右。因為 Heparin induced thrombocytopenia 的副作用,這方面還可用 LMWH、Fondaparinus、 Bivalirudin 等。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

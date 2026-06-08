@@ -31,6 +31,7 @@ sources:
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Esophagus (食道)'
   - 'Esophagus'
@@ -45,7 +46,7 @@ tags:
 
 ## Summary
 
-食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +77,11 @@ tags:
 - [[sources/med4-book2-ch10]]
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (C) 6. 一位 20 歲男性突然發生頸部僵硬的症狀,持續維持在奇怪的姿勢而很難轉動。此患者並無外傷,最近因為胃食道逆流服用metoclopramide藥物治療。此時最好的治療方式是給與下列那一種藥物? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (C) 3. 下列關於功能性腸胃道疾患(functional gastrointestinal disorders) 敘述,何者錯誤? - (A) 具有腸胃道收縮異常以及功能性食道症狀的病人經常合併有 精神疾病 - (B) 焦慮症為功能性腸胃道疾患常見的精神科共病 - (C) 在與功能性腸胃道疾患共病的焦慮疾患中,創傷後壓力症候 群(posttraumatic stress disorder)是最常出現的 - (D) 恐慌發作的症狀亦包含了腸胃道症狀 - 【詳解】(C) 應為廣泛性焦慮症(generalized anxiety disorder)。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - 【詳解】(A)使用 TCA 可以緩解大腸急躁症的腹瀉症狀但是可能會導致胃食道逆流 (D) 短期的分析導向的心理治療(dynamically oriented)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (1) 多發性肌炎(28%): - a. 主要表現是急性或慢性兩側對稱性近端肌肉無力及疼痛,尤其是上臂、肩胛 肌或大腿肌肉無力。病人常出現上、下樓梯困難、無法舉起手臂梳頭、更衣 困難、無法從座椅上站立起來等症狀;假使侵犯到口咽部或食道的肌肉則會 吞嚥困難,有的則合併有明顯體重減輕之現象。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -96,7 +99,6 @@ tags:
 - ...deletion。病人也常合併有先天性心血管異常(cono-truncal anomalies, tetralogy of Fallot, interrupted aortic arch,右側主動脈弓;心房或心室中膈缺損…)及其他先天異常如食道閉鎖,bifid uvula,眼距寬,下巴小,low-set ears…。(CATCH 22:Cardiac, Abnormal facies, Thymic hypoplasia, Cleft palate, Hypocalcemia; 第 22 對染色體異常) - b. 臨床表現:最常見以新生兒低血鈣及抽筋表現。T 細胞免疫不全的程度則因胸腺發育不良的程度而異,complete DiGeorge syndrome (完全沒有胸腺者) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (b) 食道與呼吸肌也會受到影響,病人可能出現吞嚥困難而有異物誤入氣管或是呼吸衰竭。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...: - a. 口乾(Xerostomia):原發性休格蘭氏症 2/3 唾腺腫大,次發性(有合併其他自體 免疫疾病)則少見。 - b. 眼乾 (Dry eye): 眼瞼下沙質感、灼熱、紅癢、光敏感。 - c. 呼吸道:鼻、喉、氣管乾;消化道:食道黏膜萎縮、萎縮性胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...drome,常合併 **Anti-centromere(+)**,包含五種表現:Calcinosis cutis(皮下鈣化)、Raynaud's phenomenon(皮膚遇冷時會白→紫→紅)、Esophageal dysmotility(食道下 1/3 無法活動)、Sclerodactyly(指硬化)、Telangiectasis(微血管擴張,壓病灶處會變白)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

@@ -33,6 +33,9 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -47,7 +50,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +83,17 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- 4. 抽血可見 ESR 上升、貧血、ALK-p、血中 IgG 上升,而通常 CK 不會上升;以類固醇治療效果良好。[Ref. Harrison ch 319] Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- ...-----| | (A) 過度肥胖併月經不規則 | 醫四 -50 | | (B) 大腦側靜脈竇阻塞 (lateral venous sinus thrombosis ) | B4 | | (C) 服用大量維生素 A | | | (D) 惡性貧血 | | | 【詳解】第50題一律給分。大腦假性腫瘤的發生原因至今不明, | | | 一般相信因為腦膜吸收腦脊髓液能力下降,導致腦壓逐漸增高。 | | | 可能與過度服用維生素 A、四環黴素、荷爾蒙類避孕藥等有關。 | | | 偽性大腦腫瘤症為 Idiopathic,與 (ACD)可能都相關,但 (B)為 | | | 已知病因造成腦壓上升,不屬於偽性大腦腫瘤症範疇。 | | | (C) 25. 下列有關頭痛的現象之中,何者最需要讓病人接 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- ...l THF → THF +甲基 (Cobalamine +甲基→ Methylcobalamin)此甲基若能被 Vit B 12 順利接收,則 Uridine 可藉由 THF 的幫忙,合成 Thymidine | Megaloblasticanemia | | 給 | Homocysteine + 甲基→ Methionine (Methylcobalamin → Cobalamine + 甲基) | Peripheral | | 甲基 | 若 Vit B 12 能順利提供甲基,則 Methionine 可幫助髓鞘(myelin)合成 | neuropathy | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (3) 由此總結, $B_{12}$ 缺乏會導致 megaloblastic anemia、peripheral neuropathy;而 folate 缺乏僅會導致 megaloblastic anemia。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...| | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypo Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 3. 生產因子:生產時的後遺症可能和自閉症的引起有關,如:Maternal bleeding、respiratory distress syndrome 與 neonatal anemia。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
@@ -96,11 +107,6 @@ tags:
 - ...ematuria)、輕微的蛋白尿。極少數病人會有 nephritic or nephrotic manifestation。血液學檢查並無特殊發現,僅有一些無特異性的表現如 leukocytosis,thrombocytosis,mild anemia,and elevations of erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)。HSP病人不會出現血小板低下。會出現血小板低下則是血栓性血小板減少紫斑症(thrombotic thrombocytopenic purpura, TTP)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (D) 24. 一位 8 歲男童主訴自 1 週前開始有紅棕色尿。兩週前他有輕微的上呼吸道感染,但是過去兩週當中他沒有發燒、咳嗽、腹痛或腰痛的症狀。實驗室檢查發現他有輕微貧血(血色素值 10.5 g/dL)。尿液常規檢查顯示 Occult blood 強陽性 (4+); Protein > 300 mg/dL; WBC 50~100/HPF; RBC 100~150/HPF。血中 C3 補體下降、C4 正常。下列何者為最可能之診斷? - (A) B 型肝炎相關之膜性腎病變(hepatitis B associated membranous nephropathy) - (B) IgA 腎炎 (IgA nep Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - Ⅱ. 血紅素疾病 349 - A. 鐮刀型貧血 349 - B. 地中海型貧血 349 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 2. 紅血球平均體積(MCV)或是血色素因年紀不同正常值也不同。例如: 六個月嬰兒的 MCV 正常值是 70~90 fL, 十八歲的青年正常值是 80~100 fL。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 3. 依 MCV 大小鑑別貧血: MCV 小於 80 fL 稱為小球性貧血; MCV 介於 80~100 fL 稱為正(等) 球性貧血; MCV 大於 100 fL 稱為大球性貧血。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 3. 危險因子:某些特殊疾病的病童得到 ALL 機會比一般人高。 **Down syndrome**、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman syndrome、**Klinefelter syndrome、Turner syndrome**、 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 1. 周邊血液檢查:以貧血(88%)、血小板低下(80%)最常見。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 3. 某些物質或疾病與 AML 有關連性,如放射線暴露(ionizing radiation)、化學物質(alkylating agents、epipodophyllontoxin)、有機溶劑、陣發性夜間血紅素尿症(paroxysmal nocturnal hemoglobinuria, PNH)、Down syndrome、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman-Diamond syndrome、Neurofibromatosis type I、Li-Fraumeni syndrome、Kostmann syndrome. Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 
 ## Clinical Caveats
 

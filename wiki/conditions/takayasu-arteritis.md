@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Takayasu arteritis (高安氏動脈炎)'
   - 'Takayasu arteritis'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch04]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (C) 高安氏動脈炎 (Takayasu's arteritis) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- 【詳解】(A) 源自於 subclavian artery。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (A) 鎖骨下動脈和同側肺靜脈 (Subclavian artery and pulmonary vein of the same side) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (C) 頸動脈和同側肺動脈 (Carotid artery and subclavian artery of the same side ) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (D) 鎖骨下動脈和同側肺動脈 (Subclavian artery and pulmonary artery of the same side) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

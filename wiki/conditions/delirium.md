@@ -10,6 +10,12 @@ sources:
   - "[[sources/med4-book3-ch08]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Delirium (譫妄)'
   - 'Delirium'
@@ -24,7 +30,7 @@ tags:
 
 ## Summary
 
-急性波動性注意力與意識障礙，常由感染、藥物、代謝或住院壓力誘發。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性波動性注意力與意識障礙，常由感染、藥物、代謝或住院壓力誘發。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +40,25 @@ tags:
 - [[sources/med4-book3-ch08]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- | 中文 | 英文 | 描述 | 對刺激 | | |----|------------|----------------------------|--------------------|--| | 清醒 | Clear | 意識清醒 | | | | 混亂 | Confusion | 注意力變差、反應變慢、無法正確思考 | | | | 譫妄 | Delirium | 混亂的意識狀態起起伏伏 (Wax and wane) | | | | 嗜睡 | Drowsiness | 意識昏迷 | 對刺激能很快清醒、做出反應 | | | 木僵 | Stupor | 意識昏迷 | 對強烈刺激僅有張眼等簡單動作 | | | 昏迷 | Coma | 意識昏迷 | 對強烈刺激毫無反應 | | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (D) 5. 李先生,75 歲,有高血壓、糖尿病病史,因突發性右側肢體乏力,兩側眼球偏轉到左側,合併意識障礙而住院診治。如果李先生是腦梗塞患者,下列何者正確? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (C) 15. 意識障礙最常見之原因是: Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (B) 3. 瞻妄(delirium) 與失智症(dementia)的最大區別在於瞻妄病人 108(-)專 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (B) 4.72 歲男性,出現波動性的認知障礙及注意力不集中(fluctuating cognitive and attention disturbances),並且有視幻覺(visual 醫四-59 hallucination)。這半年來,除了上述病症加劇外,病人出現記憶力衰退,肢體僵硬,步態緩慢,並容易跌倒。其最可能的診斷為何? - (A) 阿茲海默症 (Alzheimer disease) - (B) 路易氏體失智症(dementia with Lewy bodies) - (C) 巴金森氏失智症(Parkinson disease dementia) - (D) 進行性核上麻痺(progressive supranuclear palsy) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (C) 10. 下列關於阿茲海默症(Alzheimer disease)的敘述,何者正確? 106(一)專 - (A) 意識障礙是首發症狀 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- 【詳解】惡性高血壓引起的神經症狀,要考慮 Hypertensive encephalopathy。頭痛為首先發生的症狀,然後可能造成意識障礙,視力模糊,癲癇等。影像可見 occipital lobe edema。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...---------------------| | (B) | 6. 以下何者是腦靜脈竇栓塞 (cerebral venous sinus thrombosis) 最常見的臨床表現? (A) 複視 (B) 頭痛 (C) 單側肢體無力 (D) 意識障礙 | 108( 一 ) 專醫四 -48 | | (D) | 7. 下列何者不是國際頭痛疾病分類第 3 版測試版(ICHD-3, beta)偏頭痛(migraine)的診斷標準? (A) 不治療或治療無效時,頭痛發作會持續 4~72 小時(B) 伴隨噁心及 / 或嘔吐(C) 日常活動會使頭痛加劇 (D) 伴隨流淚及眼結膜充血 【詳解】(D) 為叢發性頭痛的症狀。 | 108( 一 ) 專醫四 -51 | | (B) | 8.52 歲男性, Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- ...(cryptococcosis) 醫四 -45 (B) 念珠菌 (candidiasis) (C) 麴菌 (aspergillosis) (D) 白黴菌 (mucormycosis) (B) 20. 一位 36 歲的女性病人,因為癲癇發作及意識障礙而住院治療。 99(二)專 1週前她開始有輕微的發燒及頭痛;2天前有一次聽到外面有人 醫四-54 在講她的壞話,跑出去跟不相關的路人大吵一架,然後就不再出 門,在家裡喃喃自語,行為非常奇怪;今天早上發生癲癇而來住 院。病人在急診室做了腦脊髓液的檢查,結果顯示 RBC 102/mm³, WBC 347/mm3, 其中 83% 是淋巴球,蛋白質為正常的 1.5 倍, 糖分濃度則正好為當時血糖值的一半。腦波檢查發現兩側顳葉的 功能異常,並有規 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- (D) 4. 李小姐,55 歲,因突發性頭痛及癲癇發作、意識障礙被同事送到 108(二)專 急診室,其電腦斷層攝影檢查(CT)如下圖。下列敘述何者錯誤? 醫四-46 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - | 停止喝酒後之時間 | 症狀表現 | |----------|-------------------------| | 6~8 小時 | 全身顫抖 | | 8~12 小時 | 出現精神症狀和感官功能障礙(如產生妄想和幻覺) | | 12~24 小時 | Seizure attack | | 72 小時 | 震顫性譫妄(delirium tremens) | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 1. Benzodiazepine 類藥物:可以幫助控制病人的 seizure、delirium、anxiety、tachycardia、hypertension、diaphoresis 與 tremor。 常用的藥物包括 diazepam、chlordiazepoxide、lorazepam等。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - ...D) 體溫升高 【詳解】會出現發燒。 | 108(二)專醫四-68 | | (A) | 8. 對酒精相關疾患的描述,何者錯誤? (A) 酒精戒斷時會心跳變慢 (B) 酒精戒斷時會冒汗 (C) 長期使用酒精時會低血鈉 (D) 酒精戒斷時會誘發譫妄,是高風險病症 【詳解】(A) 心跳變慢。 | 108(二)專醫四-69 | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
@@ -45,8 +67,6 @@ tags:
 - 【詳解】譫妄通常是急性發作,合併有幻覺、意識障礙;思覺 失調症女性通常發病年齡為 25~30 歲;妄想症的病人通常不會 合併記憶或認知功能受損。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - | 接受體 | 相關副作用 | |--------------------------------------------------------------|-----------------------| | 組織胺受體(anti-histamine) | 頭昏、鎮靜、食欲增加,常用在幫助老人的安眠 | | 膽鹼性受體(muscarinic cholinergic receptor antagonist) | 便秘、口乾、視力模糊,老人用容易產生譫妄 | | $\alpha_1$ 腎上腺受體( $\alpha_1$ adrenergic receptor antagonist) | 頭昏、姿態性低血壓,老人使用容易半夜跌倒 | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - ...| | Neurology | Blurred vision · Muscle fasciculation · Clonic limb | | | | | movement · Hyperactive DTR · Convulsion · Delirium · | | | | | Syncope · EEG change · Stupor · Coma · Circulatory | | | | | failure | | | 嚴重(>2.5 mEq/L) | | Generalized convulsions · Oliguria · Renal failure · Death | | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 2. CNS effects:頭痛、意識混亂或是 ECT 後短暫的 delirium。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 【詳解】95%的自殺者患有精神疾患,其中80%為憂鬱性疾患,10%為schizophrenia;5%為失智症/譫妄(dementia/delirium)。答案的情感性疾患包括躁鬱症和憂鬱性疾患,故選(C)。 Source: [[sources/med4-book3-ch08|辛、自 殺]].
 
 ## Clinical Caveats
 

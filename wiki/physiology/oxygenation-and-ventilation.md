@@ -24,6 +24,8 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Oxygenation and ventilation (氧合與通氣)'
   - 'Oxygenation and ventilation'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,15 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- ...暫幾秒鐘到幾分鐘的突然消失,但發作後不會嗜睡、 意識混淆。常見的例子是小男孩在學校上課時常發呆,以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperventilation)或一些光刺激(photic stimulation)引發。 藥物首選為 valproate(Depakine®),或使用 ethosuximide。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (C) 可被過度換氣(hyperventilation)檢查誘發 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (D) 42. 下列關於癲癇失神型小發作(absence, petit mal)的敘述,何者 100(一)專 最正確? - (A) 首次發作通常發生於 15 歲到 20 歲之間 - (B) 發作中不會有自動症(automatism) - (C) 發作時腦電圖(EEG)呈現局部性棘波(focal spikes) - (D) 過度換氣(hyperventilation) 會引起發作 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...Lethargy or stupor | Coma ( 腦幹受損 | 較易呈現深度昏迷) | | | | Cheyne-Stokes | Central | Apneustic | Ataxic | | | (一段深一段淺) | hyperventilation | (長吸式呼吸 | (失調式呼吸=亂) | | 呼吸 | | (過度換氣) | =深吸+短暫吐氣) | | | | ~~~~~ | WWW. | m | $\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{$ | | 瞳孔 | Small & Reactive | Mi Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 6. 高度換氣 高氧測試(hyperventilation-hyperoxia test):當在 $FiO_2$ 100% 的氧氣與過度換氣狀況下(100~150/min)下達到 $PaCO_2 \le 25$ mmHg 才能使 $PaO_2$ 上升者需懷疑 PPHN。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (1) 氧氣:利用呼吸器維持病人 $PaO_2$ 在 $50\sim90$ mmHg 以維持適當的組織氧合狀態,同時避免高氧的傷害與高二氧化碳造成肺部血管阻力。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (2) NO 吸入治療:藉由 NO 放鬆血管平滑肌特性調整血管張力。吸入 NO 不但可以 提高組織氧合,更可降低使用 ECMO 的機率, Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -79,10 +87,6 @@ tags:
 - (2) 若發現 $PaCO_2$ 太高,表示病患呼吸太慢(Hypoventilation),可因上述低血氧、酸中毒刺激呼吸中樞,病人喘到後來呼吸肌 fatigue。COPD病人呼吸道長期吐氣不完全,也可能導致 $CO_2$ 累積(Retention);其他中樞神經、周邊神經、肌肉病變等也可能使呼吸肌無力,或是鎮靜劑抑制呼吸中樞。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (D) 1. 一名 35 歲女性因夜尿(nocturia)就診,身體檢查:血壓 150/94 mmHg,脈搏 78/min,其它檢查無異常。實驗室檢驗:blood urea nitrogen 15 mg/dL,creatinine 1.0 mg/dL,空腹血糖 97 mg/dL,血鈉 142 mmol/L,血鉀 2.8 mmol/L,血氯 90 mmol/L,尿沉渣正常,尿 鉀排泄量 50 mmol/day,動脈氣體 pH 7.45,[HCO3¯] 30 mmol/L,PaCO2 44 mmHg,則本病人最可能罹患? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - #### 1. 黴菌 (Fungal infection): CD4 200 達 3 個月。 - c. 血氧濃度低 (PaO2 35 mmHg) 者,可給予類固醇。 Prednisolone 40 mg PO bid day1~5 → 20 mg bid day 6~10 → 10 mg bid day11~20。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...-------------------------------| | 心血管 | 減少血管阻力,心跳加速 | 增加血管阻力,心跳減慢 | | 皮膚 | 溫暖、濕 | 冷、乾 | | 呼吸 | 喘 (Dyspnea) | 呼吸抑制 (hypoventilation) | | | | →二氧化碳滯留 (CO 2 retention); 肋膜積水 | | 腸胃道 | 食慾增加,腸蠕動增加 | 食慾降低,腸蠕動減少 | | 肌肉 | 肌腱反射 (DTR) 增加 | 肌腱反射 (DTR) 減少 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ , LDH ↑ , AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- (1) Ranson criteria 大於三項: - a. 住院先檢查 (ASS 是否乳白): Age > 55, Sugar > 200, AST > 250, LDH > 350, WBC > 1 萬 6。 - b. 最初 48 小時內 (快上 BBS 告訴 CHO): Base deficit > 4, BUN 上升 > 5, Sequestration > 6 L, Ca 8 mg/dL, Hct 下降 > 10%, PaO2 60 mmHg。 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
-- (C) 3. 一位 56 歲女性,由美國紐約返回臺北的飛機途中發生暈厥(syncope), 下了飛機後因呼吸不順至急診就診,她以前不曾發生類似狀況,平常 亦無特殊疾病,身體檢查發現血壓 120/70 mmHg,心跳 126 次 / 分, 呼吸 28 次 / 分,體溫 37.2℃,呼吸音及心音皆正常,四肢活動自如, 無腫脹現象,在給予 40% 氧氣五分鐘後,動脈氣體分析為 pH=7.48, PaO2=70 mmHg, PaCO2=28 mmHg, O2 saturation=92%, 此時應安排 下列那一項檢查最適當? Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
-- (B) 5. 下列有關肺栓塞 (pulmonary embolism) 的診斷敘述,何者錯誤? 105(ニ) 專 (A) 氣促 (dyspnea)、胸痛、咳血等症狀不具特異性 醫ニ-51 - (B) 診斷主要靠肺血管攝影 (pulmonary angiography) - (C) 血清中 d-dimer 的檢測具有高敏感度、低特異性的特點 - (D) 使用核醫通氣-灌注肺掃描檢查,會出現「通氣-灌注不吻合」 (ventilation-perfusion mismatch)的影像 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 
 ## Clinical Caveats
 

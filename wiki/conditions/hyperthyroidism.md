@@ -16,6 +16,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Hyperthyroidism (甲狀腺亢進)'
   - 'Hyperthyroidism'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch03]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- (A) 12. 陳小姐今年 25 歲,二年前開始左手會不自主甩動,接著是右手、 105(一)專 臉部、及雙腳都會發生不自主動作(如擠眉弄眼、聳肩、扮鬼臉、 醫四-59 彈指或舉腿等等),最後在身體各部位都出現,且愈來愈頻繁。 一年前她也感覺到記憶力減低,常常打錯字。她的母親在 48 歲 時也出現類似症狀,在55歲時自殺身亡。陳小姐的身體理學檢 查正常,但其智力減低且易怒。她最可能的診斷是: - (A) 亨丁頓舞蹈症(Huntington chorea) - (B) 席登罕氏舞蹈症 (Sydenham chorea) - (C) 高甲狀腺亢進舞蹈症 - (D) 中風性半邊舞蹈症 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (B) 19. 有關甲狀腺亢進與精神疾病的關聯性,下列何者錯誤? Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (A) 甲狀腺亢進可能說話會滔滔不絕 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (B) 甲狀腺亢進不會造成認知功能缺損 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -65,8 +71,6 @@ tags:
 - D. Other - 1. Pseudohypokalemia - 2. Hypothermia - 3. Hypokalemic periodic paralysis(HPP,好發男性,和甲狀腺亢進有關,以四肢麻痺全身無力表現) - 4. Barium toxicity Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - C. 甲狀腺毒症(Thyrotoxicosis) 192 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - 1. 甲狀腺促進素 (Thyroid Stimulating Hormone, TSH): - (1) 與其他腦下垂體分泌的荷爾蒙一樣,都是脈動性分泌(Pulsatile secretion),但半衰期較長,因此單點量測足以提供臨床資訊。(Harrison 2225) - (2) TSH 為偵測 Primary hypo/hyperthyroidism 最敏感的方法。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- | 器官 | 甲狀腺機能亢進 (Thyrotoxicosis) | 甲狀腺機能低下 (Hypothyroidism) | |-----|--------------------------|-------------------------------------------| | 心血管 | 減少血管阻力,心跳加速 | 增加血管阻力,心跳減慢 | | 皮膚 | 溫暖、濕 | 冷、乾 | | 呼吸 | 喘 (Dyspnea) | 呼吸抑制 (hypoventilation) | | | | →二 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- ...尿液 | 先手術→放射、 | | (Corticotrope = ACTH) | 単次式病 (Cusning s dz.) | 10-15% | free cortisol | Ketoconazole 輔助 | | 甲促素細胞瘤 | 中樞甲狀腺亢進 | 最少見 | | 先手術→ PTU、 | | (Thyrotrope = TSH) | (Central hyperthyroidism) | 取少元 | | Somatostatin 輔助 | | 性促素細胞瘤 | 通常無症狀或有 | 不明 | | 觀察 | | (Gonadotrope = FSH, LH) | 性低能 (Hypogonadism) | 1199 | | 視覺受損再手術 | | 無功能腫瘤 | | 最多* | | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 
@@ -77,6 +81,7 @@ tags:
 
 - [[drugs/antithyroid-drugs|Antithyroid drugs (抗甲狀腺藥物)]]
 - [[conditions/graves-disease|Graves disease (葛瑞夫茲病)]]
+- [[conditions/hypokalemic-periodic-paralysis|Hypokalemic periodic paralysis (低血鉀週期性麻痺)]]
 - [[procedures/radioactive-iodine-therapy|Radioactive iodine therapy (放射性碘治療)]]
 - [[diagnostics/thyroid-function-tests|Thyroid function tests (甲狀腺功能檢查)]]
 - [[conditions/thyroid-storm|Thyroid storm (甲狀腺風暴)]]

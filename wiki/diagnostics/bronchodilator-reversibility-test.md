@@ -20,6 +20,8 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,13 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch03]]
+- [[sources/med4-book4-ch05]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- a. Acom (26%) > Pcom (22%) > ICA (20%) > MCA (19%) > ACA (12%) Basilar a. (3.2%) > PCA (2.9%) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - ...--|-----------------------------| | Depressive disorders(憂鬱性疾患) | · | | 重鬱症(major depressive disorder) | 女:10%~25%;男:5%~12% | | 輕鬱症(dysthymic disorder) | 約 6% | | 雙鬱症 (double depression) | 約有 20~25% 的重鬱症病人 | | Bipolar disorders(雙極性疾患) | | | 第一型雙極性疾患(bipolar I disorder) | 0.4%~1.6% | | 第二型雙極性疾患(bipolar II disorder) | 約 0.5% | | 循環性疾患(cyclothy Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 2. 男性終生盛行率為 5~6%; 女性為 10~12%。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - $FEV_1/FVC$ ratio 12\%$ or predicted $\text{FEV}_1 > 10\%$ after inhalation of a short-acting $\beta$ -agonist (SABA)\* Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -73,8 +79,6 @@ tags:
 - ...塞 | 假性息肉 (Pseudopolyp) | | 15% Erythema nodosum (EN) | 10% Erythema nodosum (EN) | | Less Pyoderma gangrenosum (PG) | 1~12% Pyoderma gangrenosum (PG) | | ASCA (Anti-saccharomyces Cerevisiae Ab) | ANCA (Antineutrophil Cytoplasm Antibody) | | Plain film with oral contrast | 大腸鏡 | | 線狀 (fissure),爬行性潰瘍 (serpiginous) | 瀰漫性充血、融合性潰瘍 | | 鵝卵石樣 (cobbl Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - 1. 記錄肺功能的過度變異並記錄氣流受阻。 - (1) 變化越大,變化越多,愈能確認診斷為氣喘。 - (2) FEV, 低時,診斷過程至少一次,確認 FEV,/FVC減少(成年人通常>0.75~0.80)。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 2. 陽性支氣管擴張劑可逆性試驗 (禁 SABA ≥ 4, LABA ≥ 15 小時 )。 - (1) FEV, 增加> 12% 且> 200 mL。 - (2) 如果增加> 15% 且> 400 mL, 愈能確認。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- 4. 4 週抗發炎治療後肺功能顯著增加:治療後基準 $FEV_1$ 增加 > 12% 且 > 200 mL 或 PEF > 20% ) 。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- A. 定 義:肺功能檢查有不可逆的氣道阻塞證據,post bronchodilator FEV1/FVC 3月/1年*2年 | 病理上:小氣道擴張,肺泡壁破壞 | | حلالتك | Severe hypoxemia, Hypercapnia, V/Q mismatch | Mild hypoxemia | | 症狀 | Pul. HTN, Cor pulmonale (EKG: RVH) | DLCO ↓ | | 呼吸音 | Wheezing | Diminished breath sounds | | 口訣 | B Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 
 ## Clinical Caveats
 

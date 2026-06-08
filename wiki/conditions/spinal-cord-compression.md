@@ -12,6 +12,9 @@ sources:
   - "[[sources/med3-book4-ch23]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Malignant spinal cord compression (惡性脊髓壓迫)'
   - 'Malignant spinal cord compression'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,15 @@ tags:
 - [[sources/med3-book4-ch23]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (C) Metastasis with peripheral brain tissue edema Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (C) 轉移 (metastasis) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- 【詳解】(C) metastasis 會有 ring enhancement and perifocal edema。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...----------------------------|-------------------------------------------------------------|--|--|--| | N1 | 1 | a: Micrometastasis | | | | | | | b: Macrometastasis | | | | | N2 | 2~3 | a: Micrometastasis | | | | | | | b: Macrometastasis | | | | | | | c: In-transit meta(s)/satellite(s) without metastatic nodes | | | | | N3 | Four or more nodes, or m Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - ...手術切除的主流。 - b. Indication: - (a) High risk of local recurrence • - (b) Need for tissue preservation • - (c) High risk of metastasis • Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 兒童心臟惡性腫瘤臨床上更少見,大部分惡性腫瘤為 sarcomas,例如 angiosarcomas、rhabdosarcomas、fibrosarcomas。其他更少見的有 lymphoma 或是 pheochromocytomas。臨床上,兒童心臟惡性腫瘤多為 secondary; 比較常見的病因有 Wilms tumor 或是 lymphoma/leukemia 造成的 metastasis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

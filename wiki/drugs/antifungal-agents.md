@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book4-ch04]]"
 aliases:
   - 'Antifungal agents (抗黴菌藥物)'
   - 'Antifungal agents'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med4-book4-ch04]]
 
 ## Key Details From Sources
 
+- 3. 治療:Amphotericin B + flucytosine for 6~10 weeks。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (B) 口服 fluconazole Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - b. 內服療法: 適用於頭癬及甲癬,或局部療法效果不佳、病灶廣泛之慢性皮癬患者。 - (a) Terbinafine (療黴舒):屬殺黴菌藥物,治療皮黴菌約需 2~4 週,手指甲 癬需 6 週,而腳趾甲癬約需 12 週。治癒率為 80~90%,但對汗斑及念珠 菌感染無效。 - (b) Itraconazole (適譜諾):由於對肝臟損害少,有取代老藥 Ketoconazole 之趨勢,屬於抑黴菌藥物而非殺黴藥物。但因屬 imidazole 類之廣效製劑,故對汗斑及念珠菌感染亦具療效。 - (c) Griseofulvin(灰黃黴素):只對皮癬菌有效,為傳統口服抗黴菌藥物,只具有抑菌效果,主用於頭癬和灰指甲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - c. 嚴重患者可口服 Itraconazole、Fluconazole 或 Ketoconazole。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

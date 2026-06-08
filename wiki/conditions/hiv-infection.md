@@ -34,6 +34,7 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch04]]"
 aliases:
   - 'HIV infection (人類免疫不全病毒感染)'
   - 'HIV infection'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,11 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...emalantibody abs orption | | 用 | 途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、治療後仍呈陽性 | | 偽 | 陽性 | IV drug use, SLE, Malaris, HIV inf, viral ill 等 | 正常人約 1~2% 偽陽性→試驗不用於篩檢,用於確認 | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ...-------------|------------------------------------------------------------------------------|--|--|--|--| | Infection | HIV, sepsis, Pneumonia | | | | | | W ithdrawal | Alcohol, barbiturate, sedative-hypnotic | | | | | | Acute metabolic | Acidosis, alkalosis, electrolyte disturbance, hepatic failure, renal failure | | | | | | Trauma | Closed Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (C) Human immunodeficiency virus(HIV)感染可能 與此病之發生有關 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - a. 雖然水痘發過一次就不會再感染,但是水痘病毒於初次感染時便會沿著感覺 神經纖維侵入到感覺神經節並終年潛伏於此。當病人年紀大免疫力下降或處 於免疫力不全(腫瘤、HIV、器官移植、接受放射治療或化療)狀況下時, 病毒就會再度活化並沿著神經纖維從神經節返回皮膚表面產生皮疹,故分佈 多延著 dermatome 的範圍。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -102,7 +105,6 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...bsets (C) PMN function tests, including chemotaxis, nitroblue tetrazolium test, CD11/CD18 expression 及 phagocytosis (D) HIV 1 + 2 Ab(A) 10. 化膿性關節炎是兒科病人的急症之一,需要快速診斷及治療。下 100(一)專 列那一種關節炎若未迅速診斷引流與抗生素治療,易引起缺血性 醫四-13 骨頭壞死(Avascular necrosis)? (A) Hip (B) Elbow (C) Knee (D) Ankle Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...分,母親說,孩童打完卡介苗後其注射位置直到目前尚無法癒合。男童自從 2 個月大開始,便有反覆性腹瀉、肺炎,一般 CBC/DC 檢查,一直都是lymphopenia 980/mm³,lymphocyte subsets 顯示 CD3+ 2%、CD4+ 1%、CD8+ 1%、CD19+ 85%、CD16+ CD56+(NK cell) 5%;immunoglobulin(Ig)level 顯 示 IgG 86 mg/dL、IgA 5 mg/dL、IgM undetectable、IgE 2週(通常≥39℃)。常合併鮭魚色 (salmon-colored)的暫時性紅疹。 - (2) 新的 ILAR classification for juvenile idiopathic arth Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (2) 破壞增加: - a. Immune thrombocytopenic purpura (ITP): - (a) 病因:因未知的原因,身體產生 Anti-PLT Ab,使血小板被破壞。 - (b) 診斷:好發於 15~30 歲女性,藉由排除其他血小板低下的病因後診斷。 - (c) 實驗室檢查: CBC 只見 Plt ↓ 需檢查 ANA、HIV、EBV、Hepatitis virus 以排 除其他次發性原因; Anti-plt Ab 僅具低敏感度及低專一性。 - (d) 治療: - i. Plt > 30,000: 不需治療。(目前治療 guideline 建議維持 30,000 以上) - ii. Plt 10 萬,通常沒有臨床症狀,可繼續使用 heparin,觀察即可。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 
 ## Clinical Caveats
 
@@ -111,7 +113,7 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 
 ## Related Pages
 
-- 待補。
+- [[conditions/progressive-multifocal-leukoencephalopathy|Progressive multifocal leukoencephalopathy, PML (進行性多灶性白質腦病)]]
 
 ## Follow-up
 

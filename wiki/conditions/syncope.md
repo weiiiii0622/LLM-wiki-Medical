@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book4-ch29]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Syncope (暈厥)'
   - 'Syncope'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,15 @@ tags:
 - [[sources/med3-book4-ch29]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- | (A) | 5.33 歲健康女性,突發劇烈頭痛及暈厥(syncope),病人清醒後有頭痛、嘔吐及頸部酸痛現象,此時最優先的檢查為何? (A) 不打顯影劑的腦部電腦斷層 (B) 打顯影劑的腦部電腦斷層 (C) 打顯影劑的腦部磁振造影 (D) 血管攝影 【詳解】當然是先做不打顯影劑的頭部電腦斷層,先搶時間診斷是否為顱內出血,如 SAH。然後再適時選擇下一步的檢查。 | 108( 二 ) 專醫四 -77 | |-----|------------------------------------ Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- 2. 癲癇 (epilepsy) 與昏厥 (syncope) 鑑別診斷: Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- | 特徵 | 癲癇 (Epilepsy) | 昏厥 (Syncope) | | |--------------------------------------------|------------------|-----------------|--| | · 發作導因 | 無 | 情緒壓力、Valsalva、 | | | 按TF等凶 | ///// | 姿態性低血壓、心臟疾病 | | | 發作前的症狀 | 無、前兆 (Aura 如 | 疲累、噁心、 | | | (1) 10 10 10 10 10 1 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- Harrison Table 363-7 Features that Distinguish Generalized Tonic-Clonic Seizure from Syncope Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...ed vision · Muscle fasciculation · Clonic limb | | | | | movement · Hyperactive DTR · Convulsion · Delirium · | | | | | Syncope · EEG change · Stupor · Coma · Circulatory | | | | | failure | | | 嚴重(>2.5 mEq/L) | | Generalized convulsions · Oliguria · Renal failure · Death | | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - ...): 發生於人體接觸到低溫時,如跳入游泳池或以冰塊接觸皮膚。 - c. 陽光誘發型蕁麻疹(Solar Urticaria): 發生於人體曝曬於陽光下(波長 290~500 nm)的局部部位,此種蕁麻疹於曝曬數分鐘內即可發生,有時會併發暈眩(syncope)。 - d. 膽素型蕁麻疹(Cholinergic Urticaria):發生於運動、洗熱水澡或合併有焦慮症的人身體上,其成因與控制身體血壓和心跳等功能的神經系統釋放出來的某些化學物質有關。例如激烈運動完身體某處皮膚會有癢感,抓一抓會出現疹子。 - e. 水誘發型(Aquagenic Urticaria):非常罕見,接觸到任何溫度的水皆能引起。 - f. 壓力誘發型蕁麻疹 (Pressure Urticaria): 發生於局部人體接觸 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 【詳解】肺栓塞會使肺動脈血管阻力上升導致肺高壓,常見症狀包括 dyspnea、pleural pain、tachycardia、syncope(cardiac output 突然 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
@@ -61,8 +69,6 @@ tags:
 - 2. 如果神經反射不當、過度抑制心臟會造成 neurally-mediated syncope(或稱為 reflex syncope);如果是心臟本身的問題造成突發腦部灌流不足,則稱 cardiac syncope;若是體液不足或自主神經失能,則會導致站立後發生 orthostatic syncope。 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
 - 3. 久站後的 syncope 可能是 vasovagal 或 orthostatic;突然站起來或變換姿勢後發生則較像 是 orthostatic syncope。 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
 - ...eflex) | 抑制心臟,造成心跳減慢 | 激→常伴隨噁心、冷汗、腹 | 站等情形下發生 | | (最常見) | 或暫時停止; Reflex | 痛等副交感症狀) | | | [用 tilt table 確定診斷] | mediated syncope 分三 | carotid sinus hypersensitivity | 轉頭或壓到 carotid | | | 種,如右列 | | sinus 後發作 | | | | Situational | 某動作(排尿/飯後/ | | | | | 咳嗽/抽血)後引發 | | Cardiac | 心臟本身疾病造成暫時 | 心律不整 ( 發作突然、快速恢 | 進行活動時發生 | | [針對心臟完整評估] | 腦灌流減少 | 復);肥厚性心肌病變 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
-- (C) 7. 一位 75 歲男性農夫,平常尚可務農;然而最近 3 個月內時有暈厥發生且伴有「緩脈」(心跳過慢)。住院後血壓 140/80 mmHg、脈搏42 /分。根據所附的心電圖,病人「緩脈」的診斷最有可能的原因為何? Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- ...C. cardioversion (D) Digoxin I.V. bolus 【詳解】Paroxysmal Af,發作時間為一小時,有不穩定之徵象(喘), 可考慮 DC cardioversion。 (A) 20. 下列何種心律最不易導致暈厥? 97(一)專 醫三-27 (A) sinus tachycardia (B) sinus bradycardia (C) atrioventricular block Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 
 ## Clinical Caveats
 

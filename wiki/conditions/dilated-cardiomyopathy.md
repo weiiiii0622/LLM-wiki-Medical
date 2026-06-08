@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Dilated cardiomyopathy (擴張型心肌病變)'
   - 'Dilated cardiomyopathy'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-心室擴張與收縮功能下降，可導致心衰竭。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心室擴張與收縮功能下降，可導致心衰竭。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch11]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...c echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),rivaroxaban(Xarelto®),Apixaban(Eliquis 恣®)和 Edoxaban(Lixiana® Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (D) 擴張型心肌病變 (Dilated cardiomyopathy) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 年紀較大的幼兒:急性感染可能會出現急性鬱血性心衰竭、擴張型心肌病變、 心室性心律不整。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (4) 兒童期晚期或青少年:通常為 asymptomatic 或是出現擴張型心肌病變前兆 (ex. CHF、心律不整、運動耐受不良)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

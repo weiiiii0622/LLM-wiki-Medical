@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'SPIKES model (壞消息告知模型)'
   - 'SPIKES model'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- ...作後會有一段時間意識混淆 (postictal confusion), 甚至可能因為 neuron exhaustion, 導致持續有局部的神經症狀,稱做 Todd's paralysis。 - c. 癲癇發作後腦電圖(EEG)仍可見棘波(spikes),可用來與暈厥(syncope) 鑑別診斷。 - (2) 失神性發作 (absence) =小發作 (petit mal): - a. 常發生於小孩,意識會短暫幾秒鐘到幾分鐘的突然消失,但發作後不會嗜睡、 意識混淆。常見的例子是小男孩在學校上課時常發呆,以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperventilation)或一些光刺激(p Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...08(一)專 | | | | 家長發現不自主肢體抽搐,有時甚至會跌倒在地上,下列有關診 | 醫四 -50 | | | | 斷及治療的敘述何者錯誤? | | | | | (A) 腦波可能出現 4~6 Hz 廣泛性棘波(generalized spikes) | | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (C) 23. 一位 9 歲神經學檢查均正常的男孩,求診時之主訴為偶爾在睡覺 104(-)專時有癲癇大發作(grand mal seizure),白天時亦偶有半邊臉或手 醫四-50 腳抽搐之現象。下列敘述何者錯誤? - (A) 抗癲癇藥物(antiepileptic drugs)治療效果及預後均佳,青春期後漸痊癒 - (B) 部分病人與染色體 15q14 有關 - (C) 半邊大腦切除術(hemispherectomy)是最常用來治療此症的 外科治療方法 - (D) 中央及中顳葉區棘波(central and midtemporal spikes)為其 特徵性之腦電圖(EEG)表現 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (7) 妄想性的知覺 (delusional perception) Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - (C) 15. 下列何者關於知覺 (perception) 評估的敘述錯誤? Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - 2. 認知能力的變化(如記憶缺失、定向感消失、語言障礙)或發生知覺(perception) 障礙,並且無法以個案原有的、新形成的、或正在進行中的失智症(dementia)做 解釋。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].

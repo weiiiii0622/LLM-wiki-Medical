@@ -13,6 +13,10 @@ sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book3-ch08]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Monoamine hypothesis (單胺假說)'
   - 'Monoamine hypothesis'
@@ -27,7 +31,7 @@ tags:
 
 ## Summary
 
-以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +44,22 @@ tags:
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book3-ch08]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- 是提升何種神經傳導物質在腦中的濃度? - (A) acetylcholine - (B) norepinephrine - (C) serotonin - (D) dopamine Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...(B) 尿失禁(C) 單側無力(D) 步態不穩 | 101( 二 ) 專醫四 -77 | | (C) 22. 一般認為 Alzheimer's disease 主要是因何種神經傳導物質(neurotransmitter)減少所致? (A) dopamine (B) serotonin (C) acetylcholine | 100(一)專醫四-48 | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (1) 不動(= dopamine 太少→減少抑制 GABAergic 神經元→導致 GABAergic 神經元抑制動作的效果增加→不動),如巴金森氏症的動作緩慢,要給 dopamine agonist 治療; Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- b. 廣義基底核還包括黑質、底丘腦核, 會給予上述途徑調節: - (a) 中腦的黑質 (Substantia nigra) 會分泌 Dopamine 調控紋狀體 (刺激 D1 receptor 或抑制 D2 receptor)。 - (b) 外蒼白球 (GPe) 以 GABA 抑制底丘腦核 (subthalamus nucleus)。 - (c) 間腦的底丘腦核 (Subthalamus nucleus) 會分泌 Glutamate 刺激內蒼白球 (Internal Globus pallidus, GPi)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- ...刺激骨骼肌的 nicotinic 接受器。 - b. 交感神經由胸椎、腰椎脊髓的側角神經元發出,經兩個神經元,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎旁神經節(paravertebral ggl.)的神經元,其再分泌正腎上腺素(norepinephrine)刺激目標器官(心肌、平滑肌、腺體)的 Adrenergic 接受器。 - c. 副交感神經由**顱神經、薦椎的側角神經元**發出,也經**兩個神經元**,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎前神經節(prevertebral ggl.)的神經元,其再分泌 ACh 刺激目標器官(心肌、平滑肌、腺體)的 muscarinic 接受器。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- ...----------------------------------------|-----------------------------| | 好發於 | 緊張的性格 | 年輕女 | 年輕男 | | 機制 | 肌肉緊縮 | 血管、神經 Serotonin 活性改變 | 血中 Histamine 增加、下視丘 | | →痛法 | →環狀(雙側)持續的痛 | →單側搏動性的痛 | →單側眼眶周圍疼痛, | | | | | 併發流淚、流鼻涕 (Histamine) | | 時間 | 白天接觸到壓力時發生 | 被光線刺激,晚上休息改善 | 一天數次,好發夜晚入睡後 | | | 30 分鐘至 7 日 | 持續4到72小時 | 15 到 180 分鐘 | | 急性 | 改變生活方式; | Suma Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- 1. 病因: 女比男(2:1),70% 有家族史(爸爸、媽媽也有偏頭痛),多於青少年發病(剛好面臨升高中、大學的聯考壓力),常持續4至72小時。乃因血管與神經組織的 serotonin 活性改變有關,因與血管有關係,所以會有**搏動性**疼痛。(cf. 緊張型與肌肉緊繃有關,所以是較持續的痛) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- 4. 急性治療: (serotonin agonist) - (1) 門診口服 sumatriptan (selective 5HTIB/ID agonist) 或 ergotamine (5HT agonist)。 - (2) 有的較嚴重的會收住院打靜脈 Prochlorperazine (Novamine),利用 Prochlorperazine 也有 Serotonin agonist 來治療偏頭痛。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- ...腦電圖(EEG)上可發現在腿抖動的對側大腦額葉運動區, 伴隨有 20 到 90 秒一次之癲癇放電 (epileptic discharges) 現象 (C) 常伴隨有不寧腿症候群 (restless legs syndrome) (D) dopamine agonist 或 anticonvulsants 對部分病人有效 (C) 11. 下列關於癲癇症候群(epilepsy syndromes)藥物治療的敘述, 107(一)專 何者錯誤? 醫四 -51 (A) 青少年肌陣攣癲癇(juvenile myoclonic epilepsy) 常對單一 抗癲癇藥的反應良好 (B) 青少年失神癲癇(juvenile absence epilepsy) 常對單一抗癲癇 藥的反應良好 (C) Len Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - Norepinephrine 與 serotonin 是目前被研究最多和情感性精神疾患相關的生物因子, 其 他 如 dopamine、GABA、vasopressin、endogenous opiates、glutamate、glycine 等也可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...---------|------------------| | TCA (tri-cyclic antidepressant) | (-)NE, 5-HT 回收 | 心律不整、口乾、嗜睡、 | | | | 姿態性低血壓 | | MAOI (monoamine oxidase inhibitor) | (-)NE, 5-HT, DA 代謝 | 不可吃含有 tyramine 類 | | | | 的食物如乳酪、起士, | | | | 可能會引起高血壓危機 | | RIMA (reversible inhibitor of | 三、关:温·温·朴()1/4/0 | 飲食方面較沒有限制, | | monoamine oxidase A) | 可逆選擇性 (-)MAO A | 副作用比 MAOI 少 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 註: NE: Norepinephrine、5-HT: Serotonin、DA: Dopamine Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -52,7 +69,6 @@ tags:
 - 1. 傳統性抗精神病藥物 (typical antipsychotics): 屬於 dopamine receptor antagonist,常見的如 chlorpromazine、thioridazine、fluphenazine 與 haloperidol 等。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 2. 非傳統性抗精神病藥物(atypical antipsychotics):屬於 serotonin-dopamine antagonist,除了神經學副作用比傳統性抗精神病藥物少以外,對於思覺失調症病人的負性症狀如社交退縮、情感平淡、沒有動力(anhedonia)、言語貧乏與認知功能障礙也有改善之效果,常見的如 risperidone、olanzapine、quetiapine、clozapine、ziprasidone等。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 傳統性抗精神病藥物約對於 75% 的病人有效,通常病人的激躁情形首先改善,接下來是幻聽、妄想等正性症狀。主要的作用機轉是透過對腦中的多巴胺受器拮抗劑(dopamine receptor antagonist),而依照對多巴胺受器的親和力強度不同,又可以再分為: Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- (C) 若要藥物治療,應選擇具血清素(serotonin) 回收抑制效果 的抗憂鬱劑 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 
 ## Clinical Caveats
 

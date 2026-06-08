@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Drug hypersensitivity (藥物過敏)'
   - 'Drug hypersensitivity'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-藥物引發免疫或類免疫不良反應，需分辨立即型與延遲型嚴重皮膚反應。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+藥物引發免疫或類免疫不良反應，需分辨立即型與延遲型嚴重皮膚反應。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- (1) Carbamazepine(Tegretol® 癲通):部分發作的首選,也可用於三叉神經痛(Trigeminal neuralgia);可能有頭暈、低血鈉等副作用,在 HLA-B1502 身上易引起 Steven-Johnson syndrome。孕婦的 AED 中,Tegretol 相對較安全。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (1) Ethosuximide:僅可用於失神性發作(小發作);也可能引起 Steven-Johnson syndrome。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...pertension, 即 pseudotumor cerebri。為已排除腫瘤等結構性問題之顱內高壓。最常見症狀為 頭痛、視力模糊或複視。 (C) 38. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(一)專 症候群(Stevens-Johnson syndrome)」? 醫四 -74 (A) topiramate (B) gabapentin (C) lamotrigine (D) valproate 【詳解】lamotrigine 在臨床上很容易有 skin rash 的副作用,也 易引發過敏。AED中除了老藥 phenytoin 和 carbamazepine 外, 新藥就 lamotrigine 有案例報告會引發 SJS。 (#) 39. 下列何種癲癇藥 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...hyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramate | | Fatigue、cognitive dulling、不易 bod Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...y atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic episode)在 DSM-IV-TR 的診斷準則(criteria)之敘述,下列何者錯誤? (A) 膨脹的自尊心或自大狂 (B) 睡眠需求減少 (C) 持續時間必須至少 3 天 (D) 比平時多話或不能克制地說個不停 | 104( 一 ) 専醫四 −62 | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (C) 緩慢增加 lamotrigine 劑量較不會引起史蒂芬-強生症候群 (Stevens-Johnson Syndrome) 等副作用 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -56,9 +61,6 @@ tags:
 - (B) 1. 一位 9 歲女童於雙側臉頰出現紅斑,四肢伸展側有網狀紅斑,並 99(二)專 無發燒與呼吸道症狀。下列那一項是最可能的診斷? 醫四-28 - (A) Drug allergy Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (B) Stevens-Johnson syndrome Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) 非感染性疾病:如 Steven-Johnson syndrome、juvenile rheumatoid arthritis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- | 項目 | 川崎症(Kawasakidisease) | 毒性休克症候群 (Toxic shocksyndrome) | 猩紅熱(Streptococcalscarlet fever) | 史蒂芬強生症候群 (Stevens-Johnsonsyndrome) | 系統性幼年型風濕性關節炎 (Systemictype-JuvenileRheumatoid Arthritis) | |------------|----------------------------------|---------------------------------------|-----------------------------------------|--------- Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- | 分類 | Xanthine oxidase inhibitor | Uricosuric agent | |-----|----------------------------|-----------------------| | 藥物 | Allopurinol | Benz bromarone | | | Febuxostat (腎差不需調量) | | | 適應症 | 腎功能不佳、腎結石病患 | 每天尿酸排泄 \*有 HLA B5801 的病患使用 Allopurinol 較易造成 Steven Johnson syn. Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- \*有 HLA B1502 的病患使用 Carbamazepine 較易造成 Steven Johnson syn. Source: [[sources/med3-book4-ch06|己、關節炎變]].
 
 ## Clinical Caveats
 

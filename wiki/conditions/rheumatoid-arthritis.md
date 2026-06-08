@@ -21,6 +21,8 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Rheumatoid arthritis, RA (類風濕性關節炎)'
   - 'Rheumatoid arthritis, RA'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,13 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (B) 30. 一位 70 歲男性,最近數月天天頭痛且視力模糊。頭痛位置在左 100(二)專 側顳部,非搏動性疼痛(non-throbbing pain),每天頭痛時間達 醫四-52 數小時之久,頭痛時並沒有噁心、嘔吐或流淚等症狀。病患同時 抱怨全身倦怠、發燒及肌肉疼痛。身體檢查發現左側淺部顳動脈 (superficial temporal artery)變硬且附近皮膚有紅腫。以下那個 檢查,對診斷最有幫助? - (A) 類風濕因子 (Rheumatoid factor, RF) - (B) 紅血球沈降速率 (Erythrocyte sedimentation rate, ESR) - (C) HLA-typing - (D) 腫瘤標記 (Tumor markers) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (B) 8. 66 歲男性出現如圖所示病灶,最可能診斷,與最重要的臨床特徵 106(二)專 為何? 醫四-43 - (A) 紅斑性狼瘡(lupus erythematosus);狼瘡性脂肪炎(lupus panniculitis) - (B) 全身性硬皮症 (systemic sclerosis); 手 指硬化 (sclerodactyly)、手指潰瘍 (digital ulcerations) - (C) 類風濕性關節炎(rheumatoid arthritis); 類風濕性結節(rheumatoid nodules) - (D) 皮肌炎 (dermatomyositis); Gottron 氏徴 候 (Gottron sign) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 【詳解】(A) palmar erythema 是指手掌在 thenar 和 hypothenar muscle 處呈現發紅現象,可能和 estrogen 過高有關,大於 60% 的病人有 rheumatoid arthritis 或其他相關 collagen disease,故在 SLE 的病人也可能出現。(B) fissuring of the lips 是 Kawasaki disease 的表現之一。(C) 和感染或藥物造成的 type IV hypersensitivity 有關。(D) 急性皮下結節性紅斑,通常位在手指或下肢身側,大部分原因不明,少數和細菌感染以及免疫疾病如 SLE或 Behcet's disease 有關。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -75,8 +81,6 @@ tags:
 - (1) Juvenile rheumatoid arthritis (排除性診斷)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - RA 近年來進展不少,Anti-CCP 的意義、DMARD、生物製劑、免疫抑制劑的 角色都要有概念,將是未來考試的重點。內專愛考 criteria, 要能默背出來才能答題。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - 2. 好發 $35\sim50$ 歲,男:女 =1:3;帶有 HLA-DR4 有更高的發生率。也有不少超過 60 歲的類風濕性關節炎 (Elderly onset RA),若合併 RF(+)或 anti-CCP(+),通常疾病進展較快、較嚴重。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- 1. 這類疾病與 RA 都會造成滑液膜炎、骨質腐蝕 (Bone erosion),但卻類風濕性因子陰性,這也是這類疾病被稱為「血清陰性」的原因,藉此與 RA 做區隔。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

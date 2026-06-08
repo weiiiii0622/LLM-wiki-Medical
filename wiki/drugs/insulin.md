@@ -25,6 +25,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Insulin (胰島素)'
   - 'Insulin'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (1) 定義:前中後大腦動脈、基底動脈的穿透支造成的中風,CT等影像學上的病兆 200 mg/dL 以上時,可以重複注射低劑量的胰島素 將血糖控制在 110 mg/dL 以內。(A, level 1+) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (A) insulin-resistant diabetes mellitus Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -84,7 +87,6 @@ tags:
 - ...| 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...美國 ATP III (2001) | WHO (1999) | |------------|------------------|-------------------|------------------------------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL 異常,只 | | | | | 當一項計算之) | | 腹部肥胖或肥胖 | 腰圍 (cm): | 腰圍 (cm): | BMI ≥ 30 kg/m² 或腰臀比: | | | 男≥ 90 | 男> 102 | 男> 0.9 | | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- | 分類 | 病況 | 機制 | |---------------------------------------------|-----------------------------|-----------| | H+K+離子通道 | 鹼中毒 (Alkalosis) | 酸出細胞、鉀入細胞 | | Ca離子通道 | 理提供底值 (David dia nondersia) | 先天性離子通道異常 | | Na + -K + ATPase 離子通道 | 一週期性麻痺 (Periodic paralysis) | 甲狀腺刺激 | | Na -K AIFase 離丁週担 | 使用胰島素、β agonist | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

@@ -27,6 +27,8 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book3-ch01]]"
+  - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Hypersensitivity reactions (過敏反應分類)'
   - 'Hypersensitivity reactions'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,14 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch10]]
 - [[sources/med4-book3-ch01]]
+- [[sources/med4-book4-ch07]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (C) spinocerebellar ataxia type III Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- (B) 第一型神經纖維瘤(neurofibromatosis type I) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (D) 第二型神經纖維瘤 (neurofibromatosis type II) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - | Type I | Type II | |------------------------------|--------------------------------| | Positive symptoms | Negative symptoms | | Normal brain structure on CT | Abnormal brain structure on CT | | Good response to treatment | Poor response to treatment | Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - 3. 任何年齡都有可能發生,15~23%的人一生中會有一次蕁麻疹/血管神經性水腫的經驗,蕁麻疹/血管神經性水腫並非疾病,而是皮膚的一種過敏反應表現。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 5. 依致病原因分類: - (1) 免疫性(Immunologic): - a. IgE 免疫引起(IgE-Mediated): 即第一型過敏反應(type I anaphylactic hypersensitivity),身體接觸到過敏原而引發人體產生特異性的 IgE, IgE 與過敏原結合,便會引發皮膚中或血液中肥大細胞(mast cells)的活化反應,使組織胺(histamine)從細胞中釋放出來,進而使得皮膚中的血管擴張、組織腫脹,也會興奮神經引起厲害的癢感。常見過敏原如下: - (a) 食物:海鮮、高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dy Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -86,9 +93,6 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - (1) 肺動脈瓣下型 (subpulmonary type, type I): 又稱 supracristal type、outlet (infundibular) defect、subarterial doubly committed defec,位於右心室出口 (RVOT),佔 VSD 約 6%,在東方人較常見 (東方人 VSD 中佔約 30%)。此型容易造成主動脈瓣 脫垂或逆流,開刀為第一優先治療選擇。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 膜週邊型 (perimembranous type, type II): 又稱 subaortic type, 位於主動脈瓣膜下方、三尖瓣附近,最常見的心室中膈缺損(佔70%),自行癒合機會約35%。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 入口型(inlet type, type III):又稱 AV canal type,佔 VSD 約 6%。通常伴隨 ASD 而造成 a complete AV-canal or endocardial cushion defect。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (B) 9. 嬰兒尿道後瓣膜(posterior urethral valves),最不常見之表現為: 99(一)專 - 醫四-2 - (A)慢性腎衰竭 - (B) 腎鈉堆積(sodium retention) 及水腫 - (C) 第四型腎小管酸血症(type IV renal tubular acidosis) - (D) 水腎及輸尿管擴張(hydronephrosis and hydroureter) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 1. 85% 為 X- linked disease, 與合成 type IV collagen 的基因突變(the COL4A5 gene, encoding the α5 chain)有關。type IV collagen 又是 basement membranes 主要組成。5%的 AS 為體顯性遺傳,10% 為體隱性遺傳(參考)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- RTA 主要可分為三大類,分別是遠端型(type I)RTA、近端型(type II)RTA 與 高血鉀型(type IV)RTA。另外,還有一種是 type I、II 的混合型(mixed type),特別 發生在 carbonic anhydrase deficiency 病人上,又稱為 type III RTA。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

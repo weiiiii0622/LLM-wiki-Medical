@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Botulism (肉毒桿菌中毒)'
   - 'Botulism'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch10]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- II. 神經肌肉接合處疾病 (Neuromuscular Junction Disease) 174 - A. 重症肌無力 (Myasthenia gravis) 174 - B. Lambert-Eaton syndrome 175 - C. 肉毒桿菌中毒 (Botulism) 175 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- #### C. 肉毒桿菌中毒 (Botulism) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 【詳解】嘗試添加新的副食品時,原則是每次只添加一種並觀察孩子的狀況。兒童可嘗試食用新鮮水果,但不建議用果汁當作水分來源;應多鼓勵喝水,少喝含糖或是含咖啡因飲料。另外,一歲以前的孩子禁止食用蜂蜜,避免肉毒桿菌感染。因此較適合的答案為(D)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 1.1 歲以下的寶寶不可餵食蜂蜜,因為蜂蜜中易有肉毒桿菌孢子。1 歲以下寶寶因免疫系統及腸道菌叢尚未健全,喝蜂蜜容易造成肉毒桿菌毒素中毒而引發呼吸哀竭;另帶皮蔬果可能沾染泥土,應澈底清洗及去皮後,才進行副食品的製作,減少肉毒桿菌中毒的風險。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 以內視鏡注射肉毒桿菌毒素(botulinum toxin)可完全治癒 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -50,7 +55,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[anatomy/neuromuscular-junction|Neuromuscular junction, NMJ (神經肌肉接合處)]]
 
 ## Follow-up
 

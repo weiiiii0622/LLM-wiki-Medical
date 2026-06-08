@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Bacterial meningitis (細菌性腦膜炎)'
   - 'Bacterial meningitis'
@@ -21,16 +24,24 @@ tags:
 
 ## Summary
 
-急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch09]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- 2. 腦膜刺激的 sign: - (1) 頸部僵硬 (neck stiffness): 當我們把病患的頭往下巴彎,會因病患疼痛遭受阻力; 而細菌性腦膜炎更明顯,甚至頭稍左右轉動就會引起疼痛;而病毒性腦膜炎要 將頭往下巴頂才比較會痛;另外,當我們將病人頭部彎曲時,其腳會自己縮回, 以減少腦膜拉扯的壓力,稱作 Brudzinski sign; - (2) 病患躺平,髋、膝關節皆成 90 度,當我們將病患的膝蓋往上打直時,會因引起 病患疼痛而遭受阻力,稱作 Kernig's sign。(記憶: Knee 打直 = Kernig's) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- (D) 脊髓硬膜外膿腫(spinal epidural abscess)不是腫瘤轉移,因此不會有敲擊痛,也不會出現 Kernig 徵狀(Kernig sign) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- (B) 13. 38 歲男性,三星期前開始出現倦怠,頭痛,間歇性微燒,最近 兩天頭痛加劇合併噁心,嘔吐與嗜睡。身體檢查發現頸部僵硬。 醫四-5 腦脊髓液檢查呈現:壓力為 240 mmH2O,白血球為 480 顆(其中 淋巴球占 80%),蛋白質為 80 mg/dL,糖值為 20 mg/dL(血糖 值為 120 mg/dL),隱球菌抗原(cryptococcal antigen)為陰性。 血清之性病研究實驗室凝集法(VDRL)為陰性。下列何者為最 有可能之診斷? - (A) 病毒性腦膜炎 - (B) 結核性腦膜炎 - (C) 未經抗生素治療過之細菌性腦膜炎 - (D) 寄生蟲性腦膜炎 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- ...淋巴球,蛋白質為正常的 1.5 倍, 糖分濃度則正好為當時血糖值的一半。腦波檢查發現兩側顳葉的 功能異常,並有規則陣發性的癲癇樣放電 (periodic epileptiform discharges)。下列診斷中那一項最有可能? (A) 細菌性腦膜炎 (bacterial meningitis) (B) 單純疱疹性腦炎 (herpes simplex encephalitis) (C) 黴菌性腦炎 (fungal meningoencephalitis) (D) 結核菌性腦膜炎 (T.B. meningitis) (B) 21. 單純疱疹腦炎(herpes simplex encephalitis)的好發部位在大腦 98(二)專 的: 醫四-46 (A) 額葉及頂葉 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- 1. 結果判讀順序: Protein → WBC → Sugar - (1) 先看 protein ,protein 高代表發炎,只有 protein 高,WBC 不高、glucose 不低, 考慮自體免疫疾病,如 Guillain-Barre 症候群(= acute inflammatory demyelinating polyneuropathy = AIDP)、多發性硬化症(multiple sclerosis)。 - (2) 再看 WBC,如果加上 WBC 高、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低,代表是黴菌、結核、細菌性腦膜炎;其中可依白血球的量、lymphocyte 或 PMN 為主來進一步鑑別。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - # A. 急性細菌性腦膜炎 (Acute Bacterial Meningitis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (1) 出生兩個月內的病人得到細菌性腦膜炎多半因為母親身體與環境的菌叢造成。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (1) 病史詢問:在新生兒與幼小嬰兒時期細菌性腦膜炎症狀多沒有特異性,每個病 童臨床表現差異很大。當小朋友出現活動力變差、食慾下降、看起來病懨懨的, 不管是否有無發燒或是神經學症狀,皆要考慮腦膜炎的可能性。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

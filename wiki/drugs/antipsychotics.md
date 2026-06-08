@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch01]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Antipsychotics (抗精神病藥物)'
   - 'Antipsychotics'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-主要用於 psychosis、mania 與部分行為激動；需監測 EPS、metabolic syndrome、QT prolongation、NMS 等。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主要用於 psychosis、mania 與部分行為激動；需監測 EPS、metabolic syndrome、QT prolongation、NMS 等。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ tags:
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch01]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- (2) 過動(= GABAergic 神經元抑制動作的效果減少→過動),如亨汀頓舞蹈症,要給 dopamine antagonist (Haloperidol) 治療。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...症 (chorea) | | 負性症狀 | 動作緩慢 (Bradykinesia) | | | | Dopamine agonist | Dopamine antagonist | | 付加 | Anticholinergics 等 | (Haloperidol) | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...-------------|---------------------------| | Falls as the first symptom 以跌倒為第一個症狀 | PSP | | Exposure to neuroleptics 有服用抗精神病藥物 | Drug-induced parkinsonism | | Associated liver disease 有肝功能上升 | Wilson's disease | | Dementia as first symptom 以失智症為第一個表現 | Dementia with Lewy bodies | | Prominent orthostasis 有姿態性低血壓 | MSA-p | | High frequency (8~10 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- b. 廣義基底核還包括黑質、底丘腦核, 會給予上述途徑調節: - (a) 中腦的黑質 (Substantia nigra) 會分泌 Dopamine 調控紋狀體 (刺激 D1 receptor 或抑制 D2 receptor)。 - (b) 外蒼白球 (GPe) 以 GABA 抑制底丘腦核 (subthalamus nucleus)。 - (c) 間腦的底丘腦核 (Subthalamus nucleus) 會分泌 Glutamate 刺激內蒼白球 (Internal Globus pallidus, GPi)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 目前研究顯示抗精神病藥物有助於縮短病人躁期發作,因此常合併情緒穩定劑一起 使用如 haloperidol、risperidone、olanzapine、zotepine、quetiapine、ziprasidone 等等。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (A) 常反覆躁症發作者,可使用抗精神病藥物之長效針劑治療 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...A) 血糖急速上升 醫四-63 (B) 噁心 (C) 性功能障礙 (D) 睡眠障礙 【詳解】(D) SSRI 會讓睡眠的快速動眼期增加,影響睡眠品質。 (B) 5. 有關糖尿病與精神疾病的關聯性,下列何者錯誤? 108(二)專 (A) 許多抗精神病藥物的長期服用可能引發糖尿病 醫四-60 (B) 與糖尿病共病之憂鬱症其致病機轉及治療原則與無生理疾病 共病的憂鬱症類似 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].

@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book3-ch07]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Tuberous sclerosis complex, TSC (結節性硬化症)'
   - 'Tuberous sclerosis complex, TSC'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,14 @@ mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 �
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch10]]
 - [[sources/med4-book3-ch07]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- (D) 3. 一位 42 歲女性,近 3 年來右耳聽力逐漸喪失,經常性頭暈,偶 103(一)專 而會有眩暈的現象,一星期前出現右側周邊性顏面神經麻痺(peripheral type facial palsy)。腦幹聽覺誘發電位 (brainstem auditory evoked potential)檢查發現有耳蝸後病變(retro-cochlear pathology)。 在家族史方面,患者之弟弟罹患兩側性聽神經瘤。下列何者是 - (A) 結節性硬化症(tuberous sclerosis) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (C) tuberous sclerosis (TS) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- 【詳解】Tuberous sclerosis complex 是自體顯性遺傳性疾病,可分為 type 1 & type 2。因基因突變,造成患者神經細胞及髓鞘形成不良,產生結節硬化。臨床表現會有智能障礙和癲癇,其他明顯的徵象有面部血管纖維瘤、指甲纖維瘤、脫色斑、鯊魚皮斑、多發神網膜結節缺陷瘤、腦皮質結節、腦室管膜下結節、腦室管膜下巨細胞星狀瘤、腎血管肌脂肪瘤等。頭部電腦斷層可見多發性鈣化病灶。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 2. 遺傳因子: 許多研究顯示約 2~4% 自閉症患者的兄弟姐妹也是自閉症,是正常人的 50 倍。某些遺傳性疾病如 fragile X syndrome、tuberous sclerosis 也通常會合併有自閉症。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - C. 結節性硬化症 (Tuberous sclerosis) 169 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - # C. 結節性硬化症 (Tuberous sclerosis, TSC) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].

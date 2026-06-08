@@ -23,6 +23,7 @@ Mechanisms, definitions, and frameworks.
 - [[concepts/beta-lactam-mechanism|Beta-lactam mechanism (β-lactam 作用機轉)]] - beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。
 - [[concepts/community-medicine|Community medicine (社區醫學)]] - 以社區與族群為單位評估健康問題、資源與介入。
 - [[concepts/gram-stain-classification|Gram stain classification (革蘭氏染色分類)]] - 以 Gram stain、形態、觸媒、凝固酶、溶血等特徵建立細菌鑑別框架。
+- [[concepts/lower-motor-neuron-lesion|Lower motor neuron lesion, LMN lesion (下運動神經元病灶)]] - LMN lesion 常見 weakness、atrophy、fasciculation、hyporeflexia。
 - [[concepts/lung-protective-ventilation|Lung-protective ventilation (肺保護性通氣)]] - ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。
 - [[concepts/medical-ethics-four-principles|Four principles of medical ethics (醫學倫理四原則)]] - 尊重自主、行善、不傷害與正義是臨床倫理分析常用框架。
 - [[concepts/monoamine-hypothesis|Monoamine hypothesis (單胺假說)]] - 以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。
@@ -38,3 +39,4 @@ Mechanisms, definitions, and frameworks.
 - [[concepts/secondary-skin-lesions|Secondary skin lesions (次發性皮膚病灶)]] - 膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。
 - [[concepts/smoking-cessation|Smoking cessation (戒菸)]] - 心血管與肺部疾病最重要的風險修正之一。
 - [[concepts/spikes-model|SPIKES model (壞消息告知模型)]] - 病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。
+- [[concepts/upper-motor-neuron-lesion|Upper motor neuron lesion, UMN lesion (上運動神經元病灶)]] - UMN lesion 常見 weakness、spasticity、hyperreflexia、Babinski sign。

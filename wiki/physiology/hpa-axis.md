@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis (下視丘-腦垂體-腎上腺軸)'
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch03]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- (C) 25. 一位 5 個月大的男孩,父母發現他在剛睡醒時常會有一陣陣全身 抽動現象,每隔幾秒就抽動一次,一連串的發作甚至可達 3 至 5 分鐘。下列敘述何者錯誤? - (A) ACTH、corticosteroid 或 benzodiazepine drugs 是常用的治療藥物 - (B) 最可能的診斷是 West syndrome - (C) 90% 以上的病患在 1 歲後會逐漸康復痊癒 - (D) Hypsarrhythmia 為其特徵性之腦電圖(EEG)表現 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (C) 1. 有關急性壓力疾患(acute stress disorder)及創傷後壓力症候群 109(一)專 (posttraumatic stress disorder) 之敘述,下列何者錯誤? - 醫四-65 - (A) 急性壓力疾患之症狀若超過一個月以上則需考慮診斷可能為 創傷後壓力症候群 - (B) 創傷後壓力症候群治療合併藥物治療及心理治療是有助益的 - (C) 急性壓力疾患之症狀中不會出現解離症狀 - (D) 創傷後壓力症候群的病因包含 hypothalamic-pituitary-adrenal (HPA) axis 之功能失調 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (A)無法對 corticotropin stimulation test 有正常的反應,血液中 ACTH 濃度高 Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -72,7 +75,6 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - ...------------|--------| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syndrome | (D) Pancoa Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol/L。下列敘述何者錯誤? - (A) 病人的細胞外 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...為 369 mOsmol/kg H2O, 因此屬於 low osmolality 的 hyponatremia - (B) 病人無 edema, 為 euvolemic status, 因此病因不會是心臟衰竭 或肝腎病變 - (C) 病人 cortisol 23.3 mg/dL, ACTH 13.9 pg/mL, 因此病因不是 cortisol deficiency - (D) 病人 hsTSH 66.7 mIU/mL, 因此病因為 hyperthyroidism Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...ic state) | | | | | (C) 庫欣氏症 (Cushing's syndrome) | | | | | (D) 低血鉀週期性無力症(hypokalemic periodic paralysis) | | | | | 【詳解】Cortisol 有部分的 mineralocorticoid activity,庫欣氏症造成 | | | | | cortisol 上升,藉由增加 mineralocorticoid activity 造成低血鉀。 | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

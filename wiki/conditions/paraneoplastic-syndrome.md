@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Paraneoplastic syndrome (腫瘤旁症候群)'
   - 'Paraneoplastic syndrome'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- II. 神經肌肉接合處疾病 (Neuromuscular Junction Disease) 174 - A. 重症肌無力 (Myasthenia gravis) 174 - B. Lambert-Eaton syndrome 175 - C. 肉毒桿菌中毒 (Botulism) 175 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- #### B. Lambert-Eaton syndrome Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (D) 對於肥胖相關的黑色棘皮症,減重對於皮膚病灶沒有改善作用 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細 胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發 於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗 性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、 雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一 種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症 最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或 治療相關之癌症。 Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -58,7 +63,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/lambert-eaton-myasthenic-syndrome|Lambert-Eaton myasthenic syndrome, LEMS (Lambert-Eaton 肌無力症候群)]]
 
 ## Follow-up
 

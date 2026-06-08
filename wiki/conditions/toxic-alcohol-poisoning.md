@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Toxic alcohol poisoning (毒性醇中毒)'
   - 'Toxic alcohol poisoning'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-甲醇、乙二醇等可造成 osmolal gap 與高陰離子間隙代謝性酸中毒。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲醇、乙二醇等可造成 osmolal gap 與高陰離子間隙代謝性酸中毒。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book3-ch21]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...| | Toxins | Methyl-1,2,4,6 tetrahydropyridine (MPTP) \cdot Manganese \cdot Cyanide | | P) · Manganese · Cyanide | | | Methanol · Carbon monoxide · Carbon disulfide · Hexane | | | | Ref. Harrison | Table 366-2 Differen | tial Diagnosis of Parl | kinsonism | | | | | | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (D) 乙二醇中毒(Ethylene glycol intoxication) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...,生長發育不良,慢性腹瀉。抽血會淋巴球(尤其 T 細胞)低,免疫球蛋白低。若沒有骨髓移植則大多一歲前死亡,為急症! - c. 治療:骨髓移植。ADA(adenosine deaminase)-deficient SCID 可以注射 polyethylene glycol conjugated adenosine deaminase(PEG-ADA)治療。另外, ADA-deficient SCID 目前已有基因治療的成功案例。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...末梢循環不良導致細胞無氧呼吸,可能發生在敗血症(Sepsis)或心、肺衰竭的病患身上。 - (2) 測 Cr 檢視是否因腎衰竭導致陰離子堆積,如 Phosphate、Sulfate。 - (3) 問病史是否有喝或食入下列有機酸: - a. Osmolal gap = Measured osmoles-Calculated osmoles (2Na+Glu/18+BUN/2.8) ° - b. Osmolal gap > 10 表示可能有喝甲醇、乙醇、乙二醇、異丙醇等。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

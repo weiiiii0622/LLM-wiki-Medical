@@ -20,6 +20,13 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch08]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Cerebrospinal fluid analysis, CSF (腦脊髓液檢查)'
   - 'Cerebrospinal fluid analysis, CSF'
@@ -34,7 +41,7 @@ tags:
 
 ## Summary
 
-用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +61,26 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch08]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch07]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch05]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- 2. 診斷: CSF 可用 Indian ink 染色,可見外包一層厚厚的 polysaccharides 的隱球菌或直接偵測 *Cryptococcus antigen*;有一半的病人抽血也可偵測到 *Cryptococcus antigen*。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- ...,下列何者正確? | 醫四 -54 | | | (A) 通常發生此病之平均年齡為 65 歲 | | | | (B) 常合併憂鬱,智能急速減退,及肌躍症 | | | | (C) 平均存活時間比散發型庫賈氏病長 | | | | (D) 大多數於腦脊髓液中會有 14-3-3 蛋白,且可測得普利昂 (prion) | | | | 蛋白 | | | (#) | 8. 下列有關神經性梅毒(neurosyphilis)之敘述,何者錯誤? | 106(二)專 | | | (A) 10% 沒有接受治療的早期梅毒的患者會罹病 | 醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- (D) 11. 下列何項檢查結果對診斷單純疱疹性腦炎(herpes simplex ence-phalitis)最不具有特異性? 105( ) 專 - (A) 腦脊髓液的單純疱疹病毒的 PCR (polymerase chain reaction) 檢查呈陽性反應 - (B) 腦部磁振照影檢查發現大腦之額葉和顳葉受侵犯 - (C) 腦波出現單側週期性癲癇波 (periodic lateralized epileptic discharges, PLEDs) - (D) 血清中抗疱疹病毒抗體上升 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- 【詳解】(A) 正確,也因此中樞神經破壞範圍較大,預後較差。(B) 並無周邊神經病變的表現。(C) NMO 的預後比 MS 差。(D) 兩者的 CSF 的蛋白質均會升高;但 NMO 確實比較少 oligoclonal band。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- | (C) 11. | 腦脊髓液檢查的結果,下列那一個組合對診斷多發性硬化症 | 102(二)專 | |---------|-----------------------------------------------------|---------| | | (multiple sclerosis)最有幫助? | 醫四 -58 | | ( | ① 蛋白電泳分析出現寡株帶(oligoclonal bands) | | | ( | ②蛋白質降低 | | | | ③糖值降 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- ...--------------------------------------------------------------------------------------------|-----------------| | | (B) 腦脊髓液(C) 腦波電流圖 (EEG)(D) 核磁共振 (MRI) | | | (C) 17. | 一位 28 歲女性,近三年來經常發生手腳麻而無力、臉歪、視力模糊,時好時壞,根據這二張 MRI 的 FLAIR 影像,最可能的診斷是: | | | | (A) CNS tuberculosis(B) CNS cryptococcal infection(C) multiple sclerosis | | | (D) 18. | (D) metas Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- (A) 41. 一位 10 歲女童,因全身抽搐(Seizure)至急診,體溫 38.5℃, 100(こ)專 已停止抽搐,意識清楚,過去並無抽搐病史,下列處置何者最不 醫四-77 適當? - (A) 馬上給予 Phenytoin - (B) 建立靜脈注射輸液路徑 - (C) 若懷疑是腦膜炎 (meningitis),應安排做脊髓穿刺 (lumbar puncture) - (D) 保持呼吸道通暢,給予氧氣 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (CD)43.有關熱痙攣,檢查腦脊髓液的時機,下列何者錯誤? Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (a) 太輕微者( 5. 承上題,所述病症,急診室醫師最先要做的處置為何? (A) 腦脊髓液檢查 (CSF examination) (B) 給予高壓氧氣治療 (hyperbaric oxygen therapy) (C) 頭部電腦斷層檢查 (head CT scan) (D) 使用藥物、優先降血壓 (antihypertensive therapy) | 103( 一 ) 專醫四 -48 | |-----|------------------------------------------------------------ Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- ...視幻覺 | Anticholinesterase | | Frontotemporal Dementia | Pick (Tau) protein | 失智+步態不穩+人格異常 | | | NPH (Communicating h.) | CSF 回收↓ | 失智+步態不穩+尿失禁 | VP shunt | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...s)之敘述,何者錯誤? (A) 在盤尼希林(penicillin)發明後,神經性梅毒較少發生,但自愛滋病出現以來,神經性梅毒再度受到醫學界之重視 (B) 神經性梅毒對腦部之影響主要是顳葉,所以會產生類似精神分裂症患者之幻聽與妄想 (C) 其腦脊髓液有淋巴球增多(lymphocytosis)及較多之蛋白質 (D) 神經性梅毒通常在感染梅毒螺旋菌 10 至 15 年後發生 【詳解】神經性梅毒對腦部之影響主要是額葉(frontal lobe)。 | 102(二)專醫四-70 | | (B) 32. | 將地磚的花紋看成是蟲在地上爬,以致於不敢下床走路,此症狀是: (A) 幻覺 (hallucination) (B) 錯覺 (illusion) (C) 假性幻覺 (pseudo-hall Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - 大腦中 serotonin 降低和自殺行為有很大的相關性,研究也顯示腦脊髓液中 5-HIAA 的濃度較低和自殺行為有關,最新研究提出 noradrenergic system 也可能有關。 Source: [[sources/med4-book3-ch08|辛、自 殺]].
 - (b) 此段時期之腦脊髓液無異常變化。這類病人雖然並無臨床症狀,但體內 仍有梅毒螺旋菌存在,對身體組織器官仍有破壞性。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -65,16 +89,6 @@ tags:
 - 4. 異位性皮膚炎的病因是許多因素綜合的結果,家族性和異位性體質等基因因素加上環境中過敏因子,造成 Type I(IgE-mediated)hypersensitivity reaction,急性發炎反應和 Th2、IL-4、IL-13 有關,慢性發炎反應則和 Th1、IL-5、IL-12、GM-CSF、IFN-γ有關。 - (1) 常見的過敏原包括塵蟎、貓狗等動物的毛、蟑螂、黴菌、花粉等,幼兒期腸胃 道比起大人較可能受食物過敏原影響,常見的可能食物過敏原有牛奶、蛋白、 麥、花生、海鮮等。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (C) 需立即做電腦斷層掃描及腦脊髓液抽取檢查 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - 【詳解】熱抽搐(febrile convulsion)臨床表現仍有 fever,感染仍是必須優先考量,特別是腦膜炎,因此初步處理可以先做症狀治療、神經學檢查或是血液生化檢查;腦脊髓液抽取檢查通常不是第一時間做,除非病人有明顯中樞神經感染的症狀。在完全排除其他診斷後才可以下 febrile convulsion 這個診斷。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- CSF 判讀 (form Nelson's Textbook of Pediatrics 20th Edition,TABLE 603-1) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (D) 10. 一位 6 歲女童持續發燒、咳嗽 8 天,因為突然意識不清並有持續 16 分鐘的全身性抽搐住院。住院時雙側呼吸音有細囉音(fine crackles),頸部與大腿有境界不清的紅色丘疹如圖 1 所示,胸部 X 光如圖 2 所示。周邊血液白血球計數 12,100/mm³(segment 76%;lymphocyte 15%;monocyte 9%)。腦脊髓液 protein 145.2 mg/dL,glucose 82 mg/dL(blood sugar 102 mg/dL),白血球 14/ mm³(mononuclear cell:polymorphonuclear cell = 12:2),腦部電 腦斷層影像無明顯異常,下列那一種病原的可能性最高? Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】胸部 X 光影像顯示 lobular pneumonia, 因此 (A)(B) 可以先刪除。此外,腦脊髓液生化顯查顯示 glucose 並沒有下降很多(與當下的血糖值做比較),因此細菌性中樞神經感染機會不大。由以上可判斷為 (D)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 3. 診斷檢查:與 Hodgkin disease 相同,再加上腦脊髓液檢查以尿酸值檢驗。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (D) 安排儘快住院做脊髓穿刺,取 CSF 做檢查後立即給予抗生素 【詳解】乾尿布、純母乳哺餵、黃疸、意識狀態改變(極度嗜睡) 等,顯示病人出現因脫水造成新生兒黃疸。因此需要靜脈輸液 補充水分治療。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (C) 此病之治療過程必須包含腦脊髓液之 檢查與 intrathecal chemotherapy Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- ...2-3 | | (B) | 17. 下列有關 Burkitt 淋巴瘤的敘述,何者錯誤? (A) 部分病人的腫瘤與 Epstein-Barr 病毒感染有關 (B) 常有染色體的異常 t (14,18) (C) 常侵犯中樞神經,分期檢查應包括腦脊髓液檢查 (D) 細胞生長快速,須即早治療 【詳解】(B) 應是 (8,14),t (14,18) 是 Follicular lymphoma。請將表格記熟,這是每年必考題,因為其他機車題實在沒辦法掌握,這些難記的東西反而是必拿的分數。 | 94(一)檢內-22 | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...nes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | | | | , | 過後發生腦膜炎需懷疑 S. aureus | MRSA | Vancomycin | | Haemophilusinfluenzae | (又圓又桿) | 自從孩童普遍接種 H. influenzae type b疫苗,發生率已減少 | | Ceftriaxone | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- (A) 1. 某新兵訓練中心爆發多名新兵發燒、頭痛、噁吐、理學檢查為頸部 107( ) 專 僵硬、出血性皮疹,腦脊髓液染色為格蘭氏陰性雙球菌,下列敘述 醫三 -59 何者錯誤? - (A) 病人必須採負壓隔離(空氣隔離防護措施) - (B) 該病原菌是 Neisseria meningitidis - (C) 抗生素投藥 24 小時後,一般病人即不具有傳染性 - (D) 治療藥物為 penicillin 或 ceftriaxone Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- (A) CSF opening pressure 常大於 180 $mmH_2O$ Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 
 ## Clinical Caveats
 
@@ -83,7 +97,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[anatomy/central-nervous-system|Central nervous system, CNS (中樞神經系統)]]
+- [[procedures/lumbar-puncture|Lumbar puncture, LP (腰椎穿刺)]]
 
 ## Follow-up
 

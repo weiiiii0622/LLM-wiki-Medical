@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Post-streptococcal glomerulonephritis, PSGN (鏈球菌感染後腎絲球腎炎)'
   - 'Post-streptococcal glomerulonephritis, PSGN'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-A 群鏈球菌感染後免疫複合物腎炎，常見血尿、水腫、高血壓與 C3 暫時下降。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+A 群鏈球菌感染後免疫複合物腎炎，常見血尿、水腫、高血壓與 C3 暫時下降。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ A 群鏈球菌感染後免疫複合物腎炎，常見血尿、水腫、高血壓
 - [[sources/med3-book3-ch14]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...(magnetic resonance imaging) | 醫四 -54 | | (B) 腦波檢查 (electroencephalography) | | | (C) 抗鏈球菌溶血素 O 抗體(anti-streptolysin O, ASLO) | | | (D) 腦脊髓液(cerebrospinal fluid) | | | 【詳解】本題解答應為(C),係 Streptococcus pyogenes 感染後 | | | 發生。 | | | (D) 17. 下列關於威爾遜氏病(Wilson disease)治療的敘述,何者正確? | 103(二)專 | | (A) D-penicillamine 最常見副作用是會產生多發性神經病變 | 醫四 -54 | | (polyne Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 4. Postinfectious GN (poststreptococcal GN)\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - # D. 急性鏈球菌感染後腎絲球腎炎 (Acute poststreptococcal glomerulonephritis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

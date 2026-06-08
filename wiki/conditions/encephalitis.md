@@ -23,6 +23,12 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch07]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -37,7 +43,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +66,25 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch07]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch07]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- | 感染位置 | 名稱 | |-------|-------------------| | 腦膜 | 腦膜炎 (Meningitis) | | 腦實質 | 腦炎 (Encephalitis) | | 運動神經元 | Poliomyelitis | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- | 致病原 | 疾病 | 腦電波 (EEG) 特徵 | | |-----------------------|----------------------------|---------------------|-------| | 感染性蛋白 (Prion protein) | 庫賈氏病 (CJD) | Periodic complex of | 1S | | 疱疹病毒 (Herpes virus) | 疱疹腦炎 (Herpes encephalitis) | spike or slow wave | 2S | | 麻疹病毒 (Measles virus) | 亞急性硬化性廣泛性腦炎 (SSPE) | at intervals of | 3~20S | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- 3. 病理切片會發現急性散發性腦炎,因發炎壞死更厲害,所以併發小出血。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- 4. 臨床症狀包括發燒、頭痛、瞻妄、意識改變、癲癇發作、頸部僵硬、視神經炎、急性橫截性脊髓炎、肢體無力等,大多數病人為單次發作。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- (D) 6.18 歲男學生,因為上課時發生頭痛、意識混亂、雙腿無力及尿失 107(-)專禁被送到急診。在兩星期前,他曾有幾天的上呼吸道感染、發燒, 醫四-59 經過治療後,當時症狀已完全緩解。根據病史,最可能的診斷是: - (A) 多發性硬化症 (multiple sclerosis) - (B) 急性發炎性脫髓鞘多發性神經病變症候群(Guillain-Barré syndrome) - (C) 病毒性腦膜腦炎 (viral meningoencephalitis) - (D) 急性瀰散型腦脊髓炎 (acute disseminated encephalomyelitis) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- ...述,下列何者錯誤? | 108(二)專 | |-----|----|------------------------------------------------------|---------| | | | (A) Rasmussen encephalitis 以半邊大腦切除術(hemispherectomy) | 醫四 -48 | | | | 為主 | | | | | (B) 失張發作(atonic seizure)以胼胝體切斷術(corpus calloso- | | | | | tomy)為主 | | | | | (C) 兒童失神性癲癇(childhood absence epilepsy)以迷走神經刺 | | | | | 激術(vagus nerve stimulation)為主 | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (A) 最可能的診斷是 Rasmussen encephalitis Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- 【詳解】(A) Rasmussen encephalitis 好發於小孩,它是一種發炎性腦炎,多半發生於單側大腦半球(左或右皆可),常見症狀為 hemiparesis,視野缺損,嚴重 seizure(focal motor seizure or epilepsia partialis continus),dementia 等。它是一種慢性腦炎,最後導致受侵犯的大腦半球萎縮。受侵犯的腦組織可見 T lymphocyte 浸潤。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...dache) | 緊縮型頭痛(最常見、但少考)偏頭痛(常見、也愛考)叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血管炎 (Temporal arteritis) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...rocephalus, subdural hematoma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossi Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 4. 抽動並不是因為物質使用(如精神刺激劑)或一般性醫學狀況(如病毒性腦炎)所 造成的。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - ...)。 - (c) 皮疹會連續分批出現,故同一時間可於身上看見各階段的皮疹變化,同時看見 papules、vesicles、pustules 和 crusts。 - (d) 成人症狀比較明顯且嚴重,甚至造成肺部發炎(pneumonitis)或腦炎(encephalitis)等併發症。(\*當肺部發生感染或是受到刺激而導致發炎稱為 Pneumonitis,而當肺部組織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. Fi Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -71,16 +93,6 @@ tags:
 - 2. 經由血液循環侵犯遠處的器官:較少見,但會造成 meningitis、encephalitis、acute disseminated encephalomyelitis(ADEM)、transverse myelitis、cerebellar ataxia、endocarditis、suppurative arthritis and osteomyelitis 這些併發症。Pneumococcal or *H. influenzae* type b infection 是造成遠端器官侵犯常見的病原體。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 2. 對於肺炎黴漿菌 (*Mycoplasma pneumoniae* ) 感染的描述,下列 109( ) 專 何者錯誤? - (A) 是學齡兒童社區性肺炎的常見病原 - (B) 肺外病徵包括腦炎、關節炎和皮疹 - (C) 潛伏期 2~3 週,家庭內傳染性高 - (D) 正確診斷主要靠痰液和血液培養 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) Japanese encephalitis virus Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...tended | | | | | | period of time | | | | Viral meningitis or | Normal | Rarely >1,000 | Usually | Generally | | meningoencephalitis | or slightly | cells. Eastern | 50~200 | normal; may | | | elevated | equine encephalitis | | be decreased | | | (80~150) | and lymphocytic | | to | | 1 | I | L | Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (C) 腦炎 (Encephalitis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (C) 病毒性腦膜腦炎 (viral meningoencephalitis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- ...l/L、氯離子濃度 80 mmol/L,尿液鈉離子濃度 50 mmol/L。此病童最可能的診斷為何? - (A) 急性腸胃炎 (acute gastroenteritis) - (B) 心臟衰竭 (heart failure) - (C) 腦炎 (encephalitis) - (D) 腎上腺機能不全 (adrenal insufficiency) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 【詳解】題目敘述中,病人出現低血糖、低血鈉,脫水症狀,低血壓,及意識不清,可聯想至 adrenal insufficiency。其尿鈉高(>25)表示鈉由 renal loss,故不像急性腸胃炎或心臟衰竭,無局部神經學症狀,故也不像腦炎。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...sa cell \, theca cell \, surgery \, trauma \, prior inflammation luteoma · follicular cysts); Testicular (meningitis \, encephalitis) \, (Leydig cell) hydrocephalus **Exogenous sex steroids:** oral contraceptives \estrogen- or androgencontaining creams , consumption of estrogen-fed poultry or cattle Severe hypothyroidism (associated with ovarian cyst Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...| | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Enterovirus | Sepsis, DIC, hepatitis, myocarditis and meningoencephalitis. | | | Varicella zostervirus ( Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- | 疫苗需求等級 | 疾病種類 | |---------|--------------------------------------| | 必需性疫苗 | 黄熱病 | | 例行性疫苗 | A/B型肝炎、日本腦炎、白喉 / 百日咳 / 破傷風、小兒麻痺、卡介苗及 | | (常規性疫苗) | 麻疹 / 腮腺炎 / 德國麻疹等疫苗 | | 建議性疫苗 | A/B 型肝炎、日本腦炎、腦膜炎、霍亂及傷寒等疫苗 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- ...胞性 | 百日咳、b 型嗜血桿菌及 | 不活化小兒麻痺五合一疫 | 苗 (DTaP-Hib-IPV) | 結合型肺炎鏈球菌疫苗(PVC 13) | 水痘疫苗 (Varicella) | 麻疹腮腺炎德國麻疹混合 | 疫苗 (MMR) | 日本腦炎疫苗(圧)2 | 流歐疫苗 (Influenza)³ | A型肝炎疫苗 (HepA) 4 | 白喉破傷風非細胞性百日 | 咳及不活化小兒麻痺混合 | 疫苗 (DTaP-IPV/Tdap-IPV)6 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- 2.106年5月22日起,改採用細胞培養之日本腦炎活性滅毒疫苗,接種時程為出生滿15個月接種第1劑,間隔12個月接種第2劑 1.105年起,卡介苗接種時程由出生滿 24 小時後,調整為出生滿 5個月 (建議接種時間為出生滿 5~8 個月 )。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 
 ## Clinical Caveats
 
@@ -89,7 +101,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[diagnostics/electroencephalography|Electroencephalography, EEG (腦電圖)]]
+- [[procedures/lumbar-puncture|Lumbar puncture, LP (腰椎穿刺)]]
 
 ## Follow-up
 

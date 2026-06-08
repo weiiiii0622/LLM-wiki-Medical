@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'DSM diagnostic criteria (DSM 診斷準則)'
   - 'DSM diagnostic criteria'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-精神科疾病分類與診斷準則框架；教材同時使用 DSM-IV-TR 與 DSM-5，需注意版本差異。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+精神科疾病分類與診斷準則框架；教材同時使用 DSM-IV-TR 與 DSM-5，需注意版本差異。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- (1) 診斷準則 (criteria): - a. 至少一處有 UMN 症狀+至少兩肢體有 LMN sign 存在,且疾病一直在進展。 b. 沒有感覺異常、沒有括約肌異常。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - Ⅱ.診斷 3 - 一、依據 DSM 的診斷準則 3 - 二、其他表現症狀類似思覺失調症的精神疾病之比較 3 - 三、Eugen Bleuler 的 4As 4 - 四、Kurt Schneider 的 first rank symptoms 4 - 五、T.J. Crow 的 schizophrenia 分類 4 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - #### 一、依據 DSM-IV-TR 的診斷準則(和 DSM-5 大致相同) Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - (6) 注意:如果妄想內容是怪異的,或幻聽內容是不斷地批評病人的行為或思想, 或兩種以上的聲音在交談。則 A 只要符合一項即可。→ DSM-5 已經去掉此項 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].

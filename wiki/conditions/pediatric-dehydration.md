@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Pediatric dehydration (兒童脫水)'
   - 'Pediatric dehydration'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch05]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (A) 6. 一位 50 歲女性,因為發燒、腹瀉、脫水,在一家醫院注射點滴 治療,病患突然意識障礙、煩躁,而且陷入半昏迷狀態,轉到醫 學中心緊急做了 MRI 檢查,根據此二張 MRI T2WI 及 DWI 影像, 最適當的診斷是: 100(二)專醫四-74 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 1. 住院治療:處理病人可能會因為長期厭食而導致的內科問題如脫水(dehydration)、 飢餓(starvation)、電解質不平衡(electrolyte imbalance)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - ...病則較易引起譫妄 (B) 酒精戒斷會引起攻擊,因此需盡快將患者約束在床上 (C) 常須給 benzodiazepine 類藥物治療 (D) 避免給抗精神病藥物 (antipsychotics) 【詳解】(B)除非不得已應該減少約束,避免患者脫水。 (D) 15. 酒精戒斷症狀可能因人而異,可分為四大類包含:① 知覺障礙 107(一)專 (如:幻覺) ②震顫 (tremulousness) ③抽搐 (seizure) 醫四-69 ④ 譫妄 (delirium tremens); 雖未必人人有一樣的發作順序,但 若以最典型的發生時序,中斷飲用酒精後,依先後排序為何? (A) (3) (1) (4) (2) (B) 1 3 2 4 (C) 4 2 3 1 (D) 2 1 3 4 ( Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 【詳解】酒精戒斷常見的考題模式:長期酗酒→住院(不能喝酒) →戒斷症狀出現,請考生多熟悉。(A)不建議約束,因為病人可 能會掙扎而導致脫水讓症狀更嚴重;(C)身體狀況不穩定(胰臟 炎)會增高瞻妄的危險性;(D)和正常人比起來代謝明顯減少。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].

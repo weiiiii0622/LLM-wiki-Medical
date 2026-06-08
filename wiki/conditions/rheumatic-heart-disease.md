@@ -26,6 +26,9 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Rheumatic heart disease (風濕性心臟病)'
   - 'Rheumatic heart disease'
@@ -40,7 +43,7 @@ tags:
 
 ## Summary
 
-鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +69,15 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- 【詳解】本題就是在考 rheumatic fever,其中一個 major criteria 就是 Sydenham chorea。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- 2. 有 40~50% 的顳動脈血管炎病人會合併 polymyalgia rheumatica,這兩個病是同一病理的兩個不同臨床表徵,皆是中大型的血管發炎,一個導致頭痛,一個導致肩頸、背、大腿多處肌肉痠痛。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (B) 8. 66 歲男性出現如圖所示病灶,最可能診斷,與最重要的臨床特徵 106(二)專 為何? 醫四-43 - (A) 紅斑性狼瘡(lupus erythematosus);狼瘡性脂肪炎(lupus panniculitis) - (B) 全身性硬皮症 (systemic sclerosis); 手 指硬化 (sclerodactyly)、手指潰瘍 (digital ulcerations) - (C) 類風濕性關節炎(rheumatoid arthritis); 類風濕性結節(rheumatoid nodules) - (D) 皮肌炎 (dermatomyositis); Gottron 氏徴 候 (Gottron sign) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (D) 32. 一個 6 歲大的男孩,雙股及兩側下肢出現紫斑及出血疹,男孩無 98( ) 專 發燒,精神良好,但右膝腫脹,全血球計量正常,最可能診斷為: 醫四 -11 (A) 原發性血小板過低紫斑症 (idiopathic thrombocytopenic - (B) 青年型類風濕性關節炎(juvenile rheumatoid arthritis) - (C) 腦膜炎雙球菌敗血症(meningococcemia) - (D) 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura 【詳解】(A) 全血球不會正常。(B) 會發燒。(C) 會發燒,且意識 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -84,9 +93,6 @@ tags:
 - ...腸系膜淋巴瘤 | | 6. 類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃炎 | 7. 外傷 | | 3. 骨盆發炎疾病 | 8. 懷孕 | | 4. 消化道潰瘍 | 9. 風濕性疾病 | | 5. 膽囊炎 | 10. 身心症 | | マ・ルラ 孝を少へ | 10. 2 . n./ir | Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 2. 好發 $35\sim50$ 歲,男:女 =1:3;帶有 HLA-DR4 有更高的發生率。也有不少超過 60 歲的類風濕性關節炎 (Elderly onset RA),若合併 RF(+)或 anti-CCP(+),通常疾病進展較快、較嚴重。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (1) 類風濕性結節 (Rheumatoid nodule):由巨噬細胞、肉芽組織包圍壞死纖維而形成的結節,導因於局部的血管炎,好發骨頭突起處(bony prominences)、肢體伸側(extensor surfaces)、近關節區(juxtaarticular regions)。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (2) 類風濕性血管炎 (Rheumatoid vasculitis): 發生在高 RF titer 等病患,可能造成 - a. Neurovascular disease: Distal sensory polyneuropathy · Mononeuritis multiplex - b. Cutaneous vasculitis: Dermal necrosis · Digital gangrene · Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...- b. 新發生的頭痛 (New headache) - c. 顳動脈疼痛、脈搏減弱 - d. ESR > 50 mm/h - e. 切片:血管發炎且有肉芽腫(Granuloma)形成 - (3) 有 40~50%的顳動脈血管炎病人會合併風濕性多發性肌痛症(Polymyalgia rheumatica),這兩個病是同一病理的兩個不同臨床表徵,皆是中大型的血管發炎,一個導致頭痛,一個導致肩頸、背、大腿多處肌肉痠痛。 - (4) 治療: - a. 類固醇治療效果良好。巨細胞血管炎需 Prednisolone 40~60 mg/d;若僅有風濕性多發性肌痛症,僅需 Prednisolone 10~20 mg/d Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...------------------------|----------------------| | (B) | 2. 有關顳動脈血管炎(temporal arteritis)的敘述,下列何者正確? (A) 屬於中小型血管炎 (B) 常常與風濕性多肌痛(polymyalgia rheumatica)一起發生 (C) 好發於 20~40 歲女性 (D) 通常對類固醇的治療反應不佳 | 108( 一 ) 專醫三 -32 | | (C) | 3. 下列有關各種血管炎臨床特徵的描述,何者最為正確? (A) granulomatosis with polyangiitis—urticaria (B) microscopic polyangiitis—chronic sinusitis ( Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 

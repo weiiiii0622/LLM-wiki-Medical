@@ -32,6 +32,8 @@ sources:
   - "[[sources/med4-book2-ch01]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch04]]"
 aliases:
   - 'Multiple myeloma, MM (多發性骨髓瘤)'
   - 'Multiple myeloma, MM'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,13 @@ tags:
 - [[sources/med4-book2-ch01]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...公分 (C) 後續會有血流降低的現象 (D) 傳導的區域和血管分布的位置相關 【詳解】Cortical spreading depression 通常於 migraine aurea 發生, 由枕葉向額葉方向傳遞,傳導速度為每分鐘 2~5 mm,後續會有 血流降低的現象,但傳導的區域與血流分布無關。 (C) 17. 顳動脈炎(temporal arteritis)是一種較常發生於女性的血管炎, 105(二)專 下列敘述何者最不恰當? 醫四 -78 (A) 好發年紀大於 50 歲 (B) 通常為單側 (C) 觸診可發現顳動脈炎(temporal arteritis)的脈動增強 (D) 常合併肌肉疼痛 【詳解】Temporal arteritis 可以觸診顳動脈有 tendern Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- ...開始有輕微的發燒及頭痛;2天前有一次聽到外面有人 醫四-54 在講她的壞話,跑出去跟不相關的路人大吵一架,然後就不再出 門,在家裡喃喃自語,行為非常奇怪;今天早上發生癲癇而來住 院。病人在急診室做了腦脊髓液的檢查,結果顯示 RBC 102/mm³, WBC 347/mm3, 其中 83% 是淋巴球,蛋白質為正常的 1.5 倍, 糖分濃度則正好為當時血糖值的一半。腦波檢查發現兩側顳葉的 功能異常,並有規則陣發性的癲癇樣放電 (periodic epileptiform discharges)。下列診斷中那一項最有可能? (A) 細菌性腦膜炎 (bacterial meningitis) (B) 單純疱疹性腦炎 (herpes simplex encephalitis) (C) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (3) Verruca Vulgaris(common wart)(右上圖): 尋常疣,最常長在手指、指甲周圍或四肢其 他部位。為 1~10 mm 之小乳突狀丘疹,表面 角質化,略帶灰色,仔細觀察可見表面有許 多微血管栓塞而成的黑色針狀小點,將表層 刮去可看見紅色小出血點。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (5) Verruca Plana (flat wart) (右下圖):扁平 疣,1~5 mm之扁平小丘疹,多發生在臉部, 偶爾可見於前額或手背,呈皮膚色,似青春痘。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 【詳解】5 mm 以內的小丘疹、中間有肚臍狀凹陷、長在幼童上,最可能為傳染性軟疣。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -97,8 +103,6 @@ tags:
 - (2) 診斷標準:以下症狀至少出現兩項,可隨時間演進慢慢出現。 - a. 6個以上咖啡牛奶斑(café-au-lait macules),青春期前斑塊直徑 5 mm 以上,青春期後斑塊直徑 15 mm 以上。咖啡牛奶斑為該疾病最常見表徵,幾乎所有的 NF-1 病人都有。出生時可以發現,隨著時間斑塊數量、大小與色素沉澱都會增加。 - b. 四肢與身體交接處(axillary or inguinal)有雀斑(freckling),NF-1第二常見表徵。 - c. **Lisch nodules**:通常為 2 個以上,為虹膜上的 hamartoma,裂隙燈下可見,NF-1 病人可觀察到但 NF-2 病 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (B) 符合 NF-1 診斷的 café-au-lait spots 病灶大小,在成年人要大 於 30 mm Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - 【詳解】(B) 青春期前斑塊直徑 5 mm 以上,青春期後斑塊直徑 15 mm。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (A) 常在溫度 6/mm³、Hb: 6.5 g/dL、MCV 62 fL、MCH 19 pg/cell、RDW (RBC distribution width)上昇、血小板: 250,000/mm³,他最有可能是下列那一種疾病? - (A) 缺鐵性貧血 (iron deficiency anemia) - (B) 海洋性貧血症 (thalassemia) - (C) 再生不良性貧血症 (aplastic anemia) - (D) 急性白血病 (acute leukemia) Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (D) 12. 一位 7 歲大的女孩,因腸胃炎就診被發現有貧血現象,過去無重大疾病史,一般發育無明顯異常。進一步血液檢查結果如下:WBC: 3,400/mm³、segment 32%、lymphocyte 62%、RBC: 6.0×106/mm³、Hb: 10.2 g/dL、MCV: 63 fL、MCH: 22 pg、MCHC: 31.4 g/dL、RDW(RBC distribution width)值在正常之下; HbA1: 92.4%、HbA2: 5.2%、HbF: 2.4%。顯示該女孩最有可能是: Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

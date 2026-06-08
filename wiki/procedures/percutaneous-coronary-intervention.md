@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch06]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- 1. 大血管粥狀硬化 (athero-thrombotic or artery to artery emboli): - (1) 位置:中大型動脈(ACA, MCA, PCA, BA, ICA×2, VA×2)。 - (2) 成因:因 DM、高血脂等形成粥狀硬化瘤(Atheroma)。 - (3) 診斷:頸部超音波、穿顱超音波、MRA。 - (4) 治療:若 ICA > 60% 有症狀的狹窄,或> 70% 無症狀的狹窄,建議放 Stent。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- ...)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 7. 治療:以外科方式治療為最終目標。 - (1) 先維持肺部血液的灌流,如注射 PGE1 維持開放性動脈導管、人工血管放置 (Blalock-Taussig shunt 或 central shunt) 或 PDA stent。 - (2) 手術治療 VSD 與矯正右心室出口阻塞。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 心導管氣球擴張術:在嬰幼兒發生再窄縮比率高於外科手術。此外,發生股動 脈損傷或栓塞併發症機會較外科手術高,因此對於未開過刀的主動脈窄縮而言, 手術治療是首選。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

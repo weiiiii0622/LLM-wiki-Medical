@@ -23,6 +23,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Echocardiography (心臟超音波)'
   - 'Echocardiography'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- 2. 心因性血栓 (cardio-embolic): - (1) 位置: MCA 的上支。 - (2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel ora Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (1) 傳統檢查:包含胸部 X 光、abdominal echo、CT 或 MRI 等,以檢查是否有器官轉移。但須在腫瘤大於 1 公分以上才能顯像,且無法確定是否是真的轉移惡性腫瘤或其他良性的病變。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 6. 診斷:以外科方式治療為最終目標。 - (1) 胸部 X 光: 典型表現為靴子形狀(boot-shaped)心臟(但心臟大小正常)、肺血管紋減少,有時可以看到右位主動脈弓。 - (2) 心電圖:電軸右偏(顯示右心室肥大)。 - (3) 心臟超音波:可以用來確立診斷。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 屬於嚴重型的法洛氏四合症。但是沒有如典型 TOF 表現的心雜音。臨床發紺的嚴重度與側枝循環是否充足有關;側枝循環血液足夠的話病人發紺程度會較輕。此外,病人的心電圖呈現右心室肥大。在心臟超音波下病人右心室壁的增厚以及肺動脈閉鎖。胸部 X-ray 影像學下心臟不一定肥大,視肺血流量多寡而定。預後則視本身肺動脈大小而定,最終仍是要以外科方式治療。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -80,7 +83,6 @@ tags:
 - ...率極低 (D) 若呈陰性反應,則最終診斷為二尖瓣脫垂的機率極低 【詳解】運動心電圖檢查對於二尖瓣脫垂的診斷價值有限,而其陰性結果較能排除 CAD,陽性結果則建議做心導管檢查。 | 100(二)專醫三7 | | (A) 31 | . 關於利用心臟超音波應用於評估急性 ST 節段上升型心肌梗塞(STEMI)病患,下列敘述何者錯誤? (A) 心室壁運動異常(ventricular wall motion abnormality)可用以區分急性 STEMI 與舊有之心肌疤痕 (B) 估算左心室射出分率可作為病人預後之評估 (C) 有助於發現右心室梗塞 (D) 杜卜勒心臟超音波可用於偵測心室中隔缺損與二尖瓣返流等嚴重合併症 【詳解】(A) 需靠舊的心電圖幫助鑑別急性 STEMI 與舊有之心肌 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (4) Percutaneous mitral balloon valvotomy (PMBV): - a. 以心導管,用氣球將瓣膜撐開。 - b. Moderate to severe MS (MVA 2) 可考慮 PMBV (Class I)。 - c. 禁忌: LA thrombus, mod to severe MR, echo mitral valve score > 8 (表示瓣膜較厚、 鈣化嚴重等,其形態不適合 PMBV)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - ...發現有 grade 1-2 的 mid-systolic murmur,於是醫師要王女轉診去附近的區域醫院作進一步檢查。王女到了區域醫院的心臟科門診就診,在問診確定病史和身體診查發現如同轉診單所記載後,其最合適的處置為: (A) 直接安排做心臟超音波檢查,再決定如何處置 (B) 直接安排做心臟超音波檢查,再決定如何處置 (C) 直接安排做 CXR 檢查,如無異常,即可不用再做其他檢查 (C) 直接安排做 CXR 檢查,如無異常,再做心臟超音波檢查,之後再決定如何處置 (D) 直接安排做 ECG 和 CXR 檢查,如無異常,即可不用再做其他檢查 | 107(二)專醫三-19 | | (D) | (A) 第一心音為房室瓣關閉(二尖瓣及三尖瓣)(B) 第二心音為主動脈瓣及肺動脈瓣關閉(C Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- ...期滴答聲(midsystolic click)以及第二度收縮末期雜音(late systolic murmur),下列何項是確認診斷的最佳診斷工具? (A) 標準 12- 導程心電圖 (B) 胸部 X- 光片 (C) 電腦斷層檢查 (D) 心臟超音波 | 106(一)專醫三-21 | | (D) 15. 有關單獨二尖瓣狹窄(isolated mitral stenosis)之敘述,何者正確? (A) 大多數病患狹窄愈嚴重,第一心音(S1)愈弱 (B) opening snap 如果聽得見,是在心收縮期 (C) 感染性心內膜炎在單獨二尖瓣狹窄病患的機率與合併二尖瓣閉鎖不全病患相同 (D) 臨床症狀除運動時呼吸困難外,有時會出現咳血、肺栓塞或肺炎等 | 106(一)專醫三-23 | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 
 ## Clinical Caveats
 

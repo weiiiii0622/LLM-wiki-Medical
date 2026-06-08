@@ -30,6 +30,7 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Lung cancer (肺癌)'
   - 'Lung cancer'
@@ -44,7 +45,7 @@ tags:
 
 ## Summary
 
-肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +75,12 @@ tags:
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- (2) 屬於一種 paraneoplastic syndrome,常見於小細胞肺癌;乃因鈣離子通道與癌細胞有相似處,使得抗體本來要對抗癌細胞,卻同時使神經末梢的鈣離子通道被破壞。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- ...----------------| | 病因 | 自體抗體破壞「肌肉」上的乙醯膽鹼 (Ach) 接受器 | 自體抗體破壞「神經末梢」的鈣離子通道 | 毒素干擾「神經末梢」的乙醯膽鹼 (Ach) 釋出 | | 合併症 | 胸腺增生 | 小細胞肺癌 | | | 症狀 | 眼瞼下垂、複視→肢體無力、呼吸衰竭 | 四肢近端、軀幹無力 | 吐、視力模糊(副交感↓)→肢體無力、呼吸衰竭 | | 愈用愈 | 症狀在下午更嚴重 | 症狀在下午改善 | 症狀在下午改善 | | 肌電圖 | 遞減反應(Decremental) | 遞增反應(Incremental) | 遞增反應(Incremental) | | 治療 | 盡早切除胸腺、口服 Mestinon | 治療癌症 | | Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (3) 合併惡性腫瘤之肌炎(20%) - a. 罹患成人型的皮肌炎者/多發性肌炎者,合併惡性腫瘤的機會較高,包括肺癌、子宮頸癌、卵巢癌、胰臟癌、胃癌與膀胱癌等,而台灣等東南亞地區尤其以合併鼻咽癌為最多。但其真正原因則有待進一步研究,病人應定期做各部位之癌症篩檢,包括:乳房、卵巢、子宮、肺、胃、大腸及鼻咽等,以便能早期發現與治療,提高治癒機會。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -93,8 +97,6 @@ tags:
 - ...synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、Vitamin B12 以減少毒性。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - | 症 狀 | 腫 瘤 | | |-----------------------------------------|-------|--| | Eaton-Lambert syndrome | 小細胞肺癌 | | | Hypertrophic pulmonary osteoarthropathy | 肺腺癌 | | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- | 症 狀 | 腫 瘤 | |--------------------------------------------------------|------------------------| | Acanthosis nigricans | 胃癌、非小細胞肺癌 | | Sweet syndrome (Acute febrile neutrophilic dermatosis) | AML · MDS | | Pruritis | Hodgkin's disease | | Pemphigus | Non- Hodgkin's disease | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- (B) 3. 假設你收集 100 位肺癌病人及 1,000 位年齡、性別及社會經濟狀況 相似的非肺癌控制群為研究對象,100 位肺癌病人有 90 位是有規律 的吸菸者,1,000 位控制群有 270 位是規律的吸菸者,則吸菸得到 肺癌的危險勝算比(odds ratio)是多少? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 
 ## Clinical Caveats
 

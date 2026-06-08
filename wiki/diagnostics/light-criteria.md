@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Light criteria (Light 標準)'
   - 'Light criteria'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- (C) 5. 一位 60 歲女性,於一週前發生複視(diplopia),並無劇烈頭痛,神經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ische Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (4) 特色是在伍德氏燈(Wood light)下會呈現珊瑚紅螢光(coral red)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (A) 2.60 歲男性,在腹股溝出現搔癢之紅斑,以伍氏燈(Wood's light) 檢查出現如圖之發現,最適合之診斷為: 103(二)專 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (C) 6.45 歲女性糖尿病患,3天前於右側額部出現叢集樣水疱(grouped 105(二)專 vesicles)合併紅斑,同側鼻尖亦出現數個水疱,下列何者為最需 醫四-40 要之檢查? - (A) 皮膚劃紋反應(dermatographism) - (B) KOH 鏡檢 - (C) 眼科檢查 - (D) 伍氏燈檢查 (Wood's light examination) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -62,7 +65,6 @@ tags:
 - ...): 不建議常規補充,除非 shock、pH 小血管瘤 (Microaneurysms) | | [動脈瘤,出血, | →血管瘤點狀出血 (Dot and blot hemorrhage) | | 滲出物] | →血管瘤滲出物 (Hard exudates) | | PPDR | 小血管阻塞更嚴重→更大的出血點 | | (Pre-proliferative) | →神經缺血→眼底一塊白色 (Cotton-wool spots) | | [ 缺血白,靜脈擴張 ] | →靜脈擴張、串珠狀、環狀 (dilatation, beading, looping) | | PDR | 新生血管 (Neo-vascularization) 於視神經盤 (Disc) 及大血管旁 | | (Prolife Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 【詳解】SAAG = 3.5 - 2.6 = 0.9 左側 (15%) >右側 (8%) 積水 | 積水,80% 在右側,通常大量到可佔整個 | | | hemithorax | | Post-CABG | Meigs' syndrome | | | 70% 右側積水,exudate with low WBC | | | < 1,000, CA125 ↑ (不該認為與 | | | malignancy 有關 ) | Source: [[sources/med3-book2-ch18|丙、腹 水]].
 - #### 1. 先分是 Exudate 或是 Transudate: Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
-- (1) Light's criteria (三個符合一個即為 Exudate) Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 
 ## Clinical Caveats
 

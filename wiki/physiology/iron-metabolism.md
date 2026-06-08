@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Iron metabolism (鐵代謝)'
   - 'Iron metabolism'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-鐵吸收、運輸、儲存與發炎調控決定紅血球生成與 anemia pattern。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鐵吸收、運輸、儲存與發炎調控決定紅血球生成與 anemia pattern。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- ...疾病有關? (A) 鎂 (magnesium) (B) 鉀 (potassium) (C) 磷 (phosphorus) (D) 鐵 (iron) 【詳解】此懷疑 restless leg syndrome。約 20% 的病人有缺鐵的病症(ferritin 5. 下列有關健康成人正常睡眠的結構,何者正確?(A) 每個睡眠週期約 60 分鐘(B) 非動眼睡眠第三期約占睡眠 50% 的時間(C) 入睡通常小於 5 分鐘(D) 每晚經歷 3~5 個睡眠週期 | 107(二)專醫四-49 | |-----|------------------------------------------------------------------------------------------------ Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 2. Mentzer Index (MI): MCV/RBC > 13 為缺鐵性貧血; \ | ↑或正常 | \ | | TIBC | ↑ | \ | \ | | ferritin | ↓ | 1 | 1 | | Mentzer | > 13 | 鐵的吸收(2) 1~4 週後 data 會改善 | 電泳確定診斷 | (1)也可以是正球性貧血(2)CKD病人常見 | Source: [[sources/med4-book1-ch08|辛、血液學]].

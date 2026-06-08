@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Vitamin B12 deficiency (維生素 B12 缺乏)'
   - 'Vitamin B12 deficiency'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-B12 缺乏造成 megaloblastic anemia，可合併神經病變。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+B12 缺乏造成 megaloblastic anemia，可合併神經病變。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ B12 缺乏造成 megaloblastic anemia，可合併神經病變。 本頁已整合
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch19]]
 - [[sources/med4-book2-ch08]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- III. 大腦代謝疾病 141 - A. 橋腦中央脊髓去髓鞘化 (Central pontine myelinolysis) 141 - B. Vitamin B1 (Thiamine) deficiency 141 - C. Vitamin B12 (Cobalamine) deficiency 142 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ## C. Vitamin B12 (Cobalamine) deficiency: 亞急性合併退化症 (subacute combined generation) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (D) 2.65 歲女性素食者來門診,主訴漸進性步態不穩6個月,血液檢查發現維生素 B12 (Vitamin B12) 偏低,神經學檢查發現膝反射和踝反射增強,陽性巴賓斯基氏徵象(positive Babinski sign),下肢振動覺和位置覺受損,神經傳導檢查出現周圍神經病變,其診斷最可能為何? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 記法: Iron → Folate → Vitamin B12 愈長的字愈在後面吸收十二指腸→空腸→迴腸 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (4) Vitamin B12 缺乏:較葉酸缺乏常見, - a. 最常見的是因病人有自體抗體攻擊 Intrinsic factor 或 parietal cell,這稱作惡性貧血(Pernicious anemia);或因為病人的胃、迴腸(Ileum)開過刀;B 12 僅存在肉中,所以素食者也可能缺乏。 - b. Vit. B12 參予的反應包含接收甲基、給甲基, 後者與髓鞘合成有關,若 B12 缺乏,可能造 成周邊神經病變。 Source: [[sources/med3-book4-ch10|甲、貧血]].
@@ -47,7 +52,7 @@ B12 缺乏造成 megaloblastic anemia，可合併神經病變。 本頁已整合
 
 ## Related Pages
 
-- 待補。
+- [[conditions/subacute-combined-degeneration|Subacute combined degeneration (亞急性合併退化症)]]
 
 ## Follow-up
 

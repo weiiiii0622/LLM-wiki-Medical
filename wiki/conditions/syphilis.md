@@ -19,6 +19,9 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Syphilis (梅毒)'
   - 'Syphilis'
@@ -33,7 +36,7 @@ tags:
 
 ## Summary
 
-Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +55,18 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch04]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- ...--------------------| | 方 | 法 | 間接測病患有無 Anti-cardiolipin-lecithin-cholesterol antigen complex Ab | 直接測是否有此菌 | | 試 | 驗 | VDRL (Venereal disease researchlaboratory)RPR (Rapid plasma regain) | TPHA ( T . p allidummicro h em a gglutination assay)FTA-ABS ( F luorescent t reponemalantibody abs orption | | 用 | 途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- (C) 3. 下列何者與神經性梅毒 (neurosyphilis) 較無關? Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- | (D) | 6. 對於神經性梅毒(neurosyphilis)的敘述,下列何者正確? (A) 若測得病患血中的 VDRL(Veneral Disease Research Laboratory) | 108(一)專醫四-60 | |-----|---------------------------------------------------------------------------------------------|--------------| | | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...d traun | na ("Dementia pugilis | tica" with parkinsonian features) | | Infectious | Postencephalitic PD | | | | | Neurosyphilis | | | | Metabolic | Hypoparathyroidism or pseudohypoparathyroidism with basal ganglia calcifications Non-Wilsonian hepatolenticular degeneration | | | | Drugs | Neuroleptics (typical antipsychotics) \ Some atypical anti Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (A) 8. 一位 24 歲女性於 7 天前出現雙下肢無力和麻痛, 3 天後變得完全 無法走路同時出現尿滯留的現象。在過去病史方面,患者於5年 前曾有左眼視力突然喪失,眼科醫師診斷為視神經炎,而視力 於2至3個月後幾乎完全恢復。另外,在2年前患者也曾出現 複視和右側肢體偏癱的現象,而此症狀也在2個月幾乎完全復 原。根據以上之敘述,下列何者是此患者最可能之診斷? - (A) 多發性硬化症 (multiple sclerosis) - (B) 慢性脫髓鞘多發性神經炎 (chronic inflammatory demyelinating polyneuropathy) - (C) 神經性梅毒 (neurosyphilis) - (D) 維他命 B12 缺乏之神經系統併發症 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...30. | 【詳解】若出現自殺想法,要懷疑合併憂鬱症。 發生在腦部那部位的癲癇較常出現攻擊性行為? (A) 顳葉 (B) 頂葉 (C) 枕葉 (D) 基底核 | 103( 一 ) 專醫四 -70 | | (B) 31. | 下列關於神經性梅毒(neurosyphilis)之敘述,何者錯誤? (A) 在盤尼希林(penicillin)發明後,神經性梅毒較少發生,但自愛滋病出現以來,神經性梅毒再度受到醫學界之重視 (B) 神經性梅毒對腦部之影響主要是顳葉,所以會產生類似精神分裂症患者之幻聽與妄想 (C) 其腦脊髓液有淋巴球增多(lymphocytosis)及較多之蛋白質 (D) 神經性梅毒通常在感染梅毒螺旋菌 10 至 15 年後發生 【詳解】神經性梅毒對腦部之影響主要是額葉( Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - ...oma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypo Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (D) 鑑別診斷包括二期梅毒 (secondary syphilis) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -67,12 +79,6 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - (C) 先天的感染如 syphilis 或 HIV 可以造成此種情況 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】出生後三個月內若發生 nephrotic syndrome,則診斷為 先天性腎病症候群(congenital nephrotic syndrome)。其中最 常見的是 Finnish type congenital nephrotic syndrome(位在第 19 對染色體上的 NPHS1 gene 發生突變,影響 nephrin 製造), 類固醇或是免疫抑制劑治療無效,病人約在 5 歲左右死亡。此 外,syphilis、toxoplasmosis、rubella、cytomegalovirus、HIV、 hepatitis B 感染都有可能造成先天性腎病症候群。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - h. Immunologic disorder 免疫學異常: - (a) Anti-dsDNA 陽性或 - (b) Anti-Smith (Anti-Sm) 陽性或 - (c) Anti-phospholipid Antibodies 陽性: - i. Anticardiolipin antibodies 陽性或 - ii. Lupus anticoagulant 陽性或 - iii. False positive serology test for syphilis • Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 (3)實驗室檢驗:血液常規(WBC、RBC、Plt、Hct、Hb、MCV)、血型、Rh 因子、HBsAg 及 HBeAg(惟因特殊情況無法於本次檢查者,可於第五次孕婦產前檢查時接受本項檢查)、VDRL 或 RPR(梅毒檢查)、Rubella IgG(德麻疹抗體)、愛滋病檢查(EIA或 PA)及尿液常規。 2. 例行檢查項目。(註二)註: 德國麻疹抗體檢查呈陰性之孕婦,應在產後儘速注射1劑麻疹腮腺炎德國麻疹混合疫苗,該劑疫苗免費。(註五) | | 第二次 | | 第16週 | 1. 例行檢查項目。(註二)2. 早產防治衛教指導。 | | 第三次 | 妊娠第二期妊娠 17 週至 | 第 20 週 | 1. 例行檢查項目。(註二)2. 超 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- ...factor VIII (C) protein S | 105(一)專醫三-12 | | | (D) protein C | | | | 【 詳解 】APS 的檢驗異常包括 prolonged aPTT 及 false positive RPR。 | | | (D) | 8. 下列對於全身性紅斑性狼瘡(SLE)病人血清中的各種自體抗體的描述,何者最為正確? (A) anti-RNP 對於診斷 SLE 的特異性最高 (B) anti-histone 抗體與 SLE 的腎炎最有相關 (C) anti-Sm 與 SLE 的 psychosis 最有相關 (D) anti-phospholipid 與 habitual fetal loss 最有相關 | 105(一)專醫三-40 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- 2. 診斷準則: 反覆性疼痛口腔潰瘍加上以下 2 項以上(Arthritis Rheum 1990; 33: 1078.) - (1) 反覆疼痛生殖器潰瘍(Recurrent genital ulcer);梅毒的潰瘍不會痛。 - (2) 眼睛:最常見的是兩側全葡萄膜炎(Panuveitis),其他包括 Iritis、Posterior uveitis、Retinal vasculitis/vessel occlusion、Optic neuritis 等,眼盲是此病最嚴重的併發症。 - (3) 皮膚:結節性紅斑 (Erythema nodosum)、毛囊炎 (psuedofolliculitis)、膿疱 (Pustule)、 丘疹 (Papu Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...症併存 | | | 營養失調 | 缺乏維他命 B 12 、葉酸等營養成分 | | | 顱內病灶 | 常壓性水腦症、腦部腫瘤或創傷 | | 其 | 新陳代謝系統異常 | 甲狀腺功能異常、體內電解質不平衡 | | 他 | 中樞神經系統感染 | 梅毒感染第三期、愛滋病病程侵犯中樞神經 | | | 中毒 | 藥物影響、酗酒 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ## 1. 密螺旋體 (Treponema) 類,如梅毒螺旋體 (Treponema pallidum) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (2) 梅毒 (Syphilis) 分期: Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

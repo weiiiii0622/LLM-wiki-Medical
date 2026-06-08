@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Platinum agents (鉑類化療藥)'
   - 'Platinum agents'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (b) 另外也可以考慮以血管攝影放置 multiple helical platinum coils 到血管瘤底 部,進行 coil embolization。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 1. 標準化療藥物組合:BEP (Bleomycin, etoposide, cisplatin)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...-------------|-----------------------|----------------------------------------|------------------------------|--| | | | Platinum | Cisplatin→肺癌、生殖細胞癌、頭頸胃腸癌 | | | | | | | Carboplatin →肺癌 (腎不好者)、卵巢癌 | 骨髓抑制 | | | | Alkylating | | Oxaliplatin→大腸癌 | 神經毒性 | | | | | Nitrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (2) Platinum (鉑) 家族: - a. Cisplatin: Cisplatin based chemotherapy 是肺癌的標準化療配方。 - (a) 須搭配適量 hydration 及適當利尿以避免腎臟毒性,但儘管各種預防措施,仍 常見病患腎功能慢慢變差。 - (b) 可能導致低血鎂、並伴隨低血鈣等電解質異常。還可能導致四肢未端麻木等神經毒性(glove-and-stocking neuropathy)、聽力受損等。 - (c) 強致吐劑,臨 Source: [[sources/med3-book4-ch19|乙、化學治療]].

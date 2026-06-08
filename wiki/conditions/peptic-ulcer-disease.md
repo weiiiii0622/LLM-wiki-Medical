@@ -20,6 +20,7 @@ sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Peptic ulcer disease (消化性潰瘍)'
   - 'Peptic ulcer disease'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch10]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (D) 22. 一位 45 歲病患,在中風症狀發生後 1 小時之內被送到某醫學中心。經過頭部電腦斷層檢查、急診科與神經內科醫師的評估後,病患符合施打血栓溶解劑 r-tPA 的條件,家屬很焦急的詢問有關r-tPA 的禁忌症。下列何者非急性梗塞性腦中風(acute stroke)病患使用 r-tPA 的絕對禁忌症? - (A) 先前曾經有過腦出血 - (B) 有胃潰瘍病史 - (C) 1 個月前有缺血性腦中風 - (D) 3 週前動過顱內手術 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 1. 外科急症:接觸病人時,首先要排除外科急症的可能性。如腸套疊、闌尾炎、消化 道扭轉(volvulus)、消化道潰瘍破裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如 睪丸扭轉)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】任何腹痛應優先排除外科急症,腸套疊、闌尾炎、 消化 道扭轉(volvulus)、消化 道潰 瘍破 裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如睪丸扭轉)。(C) 一開始表現為右 下腹痛,臨床表現與急性闌尾炎相似,但急性腸繫膜淋巴腺炎 為自限性(self-limiting)疾病。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 10. 一位 10 歲男童主訴皮膚癢,黃疸,且 2 小時前發生吐血。他在嬰 104(二)專 兒時因膽道閉鎖而做了 Kasai operation,身體診察顯示其肝脾腫 大,且腹部上有顯著之側枝循環。糞便呈黑色,潛血反應呈強陽 性。下列何者最可能造成吐血的原因? - (A) 胃潰瘍 - (B) 流鼻血 - (C) 十二指腸潰瘍 - (D) 食道靜脈瘤破裂 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -74,7 +77,6 @@ tags:
 - #### B. 消化性潰瘍 (Peptic Ulcer Disease) Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - 2. 幽門螺旋桿菌 (H. pylori) 感染→胃、十二指腸潰瘍比較: Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...胃體炎 (corpus gastritis) | → 破壞十二指腸黏膜 | | TENNESS (DAG) | 酸分泌減少 (BAS 20) → | | 基礎酸分泌 (BAS) | 與 GERD 較無關 | 與 GERD 較有關 | | 消化性潰瘍(症狀) | 胃潰瘍(吃食物惡化) | 十二指腸潰瘍(吃食物緩解、凌晨被痛醒) | Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- ...continuous lesion。 | 96(二)專醫三-14 | | (#) | 9. 下列何者之疾病發生危險性(disease risk)增加與吸菸無關? (A) 膀胱癌 (B) Burger 氏疾病 (C) 潰瘍性大腸炎 (D) 消化性潰瘍 【詳解】原來的答案是(C),因為抽菸可預防潰瘍性大腸炎,使危險性降低。另外,(ABD) 和吸菸多少有關係,但後來修正的答案是送分。 | 96(二)專醫三-66 | Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 
 ## Clinical Caveats
 

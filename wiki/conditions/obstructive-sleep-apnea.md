@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Obstructive sleep apnea (阻塞性睡眠呼吸中止症)'
   - 'Obstructive sleep apnea'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-睡眠中上呼吸道反覆阻塞造成缺氧與日間嗜睡。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+睡眠中上呼吸道反覆阻塞造成缺氧與日間嗜睡。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- (B) 11. 下列關於睡眠呼吸中止症候群 (sleep apnea syndrome ) 的敘述 , 101(二) 專 何者錯誤 ? - (A) 阻塞型睡眠呼吸中止症候群(obstructive sleep apnea),常有夜間打鼾、白天頭痛的病史 - (B) 阻塞型睡眠呼吸中止症候群的診斷是依據睡眠多項生理 (polysomnography)檢查中發現,鼻息氣流與肺、腹部的呼 吸動作同時中止 - (C) 阻塞型睡眠呼吸中止症候群較容易發生在肥胖及下顎短的人 身上 - (D) 睡眠呼吸中止症候群會增加心血管疾病 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (A) 睡眠呼吸中止症候群 (obstructive sleep apnea syndrome) Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (D) 36. 關於睡眠呼吸中止症(sleep apnea)的敘述,下列何者錯誤? (A) 呼吸中止(apnea)可以發生在非快速動眼期(NREM)或快速動眼期(REM)睡眠,通常非快速動眼期較常發生呼吸中止,而發生在快速動眼期則較嚴重 - (B) 選擇性血清素再吸收抑制劑(SSRI)治療呼吸中止症是藉由 減少快速動眼期睡眠所致 - (C) 早期認為阻塞型(obstructive)呼吸中止症較常抱怨白天嗜睡,中樞型(central)呼吸中止症較常抱怨失眠,近年研究發現嗜睡或失眠症狀均可發生在此2類型的呼吸中止症 - (D) 持續性呼吸道正壓儀器(CPAP)是用來治療中樞型呼吸中 止症 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (C) 13. 有關阻塞性睡眠呼吸中止症候群 (obstructive sleep apnea syndrome; OSAS) 之敘述,下列何者錯誤? Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

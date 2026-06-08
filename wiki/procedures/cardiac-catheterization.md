@@ -18,6 +18,9 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med4-book4-ch05]]"
 aliases:
   - 'Cardiac catheterization (心導管檢查)'
   - 'Cardiac catheterization'
@@ -32,7 +35,7 @@ tags:
 
 ## Summary
 
-評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +53,16 @@ tags:
 - [[sources/med3-book4-ch04]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch03]]
+- [[sources/med4-book4-ch05]]
 
 ## Key Details From Sources
 
+- (C) 5. 一位 60 歲女性,於一週前發生複視(diplopia),並無劇烈頭痛,神經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ischemic type) - (D) 海綿靜脈竇徵候群 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- (B) 1. 八十四歲的伍爺爺因突發頭痛及行動不便,被送至急診室,神經 106(-)專 內科主治醫師認為是出血性中風,最合適的檢查為下列何者? 醫四-49 - (A) 血管攝影 (angiogram) - (B) 電腦斷層攝影(CT) - (C) 核磁共振攝影 (MRI) - (D) transcranial doppler Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- ...(A) | 5.33 歲健康女性,突發劇烈頭痛及暈厥(syncope),病人清醒後有頭痛、嘔吐及頸部酸痛現象,此時最優先的檢查為何? (A) 不打顯影劑的腦部電腦斷層 (B) 打顯影劑的腦部電腦斷層 (C) 打顯影劑的腦部磁振造影 (D) 血管攝影 【詳解】當然是先做不打顯影劑的頭部電腦斷層,先搶時間診斷是否為顱內出血,如 SAH。然後再適時選擇下一步的檢查。 | 108( 二 ) 專醫四 -77 | |-----|--------------------------------------------------------------------------------------------------------------------------------------... Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- (b) 另外也可以考慮以血管攝影放置 multiple helical platinum coils 到血管瘤底 部,進行 coil embolization。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - b. 心導管:可以顯示右心房與右心室高壓、測量右心室大小、右心血流途徑、 三尖瓣逆流程度,肺部血流量等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - b. 手術治療(參考即可):視右心室發育大小,最後的循環可從雙心室、一又二分之一、到單一心室循環皆有可能。術式包括 pulmonary valvotomy 合併 aortopulmonary shunt、移除閉鎖部位以 patch grafting 代替、心導管介入治療、modified Fontan procedure 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (4) 心導管檢查:通常不需要做,除非考慮要進行 BAS 時。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -67,10 +77,6 @@ tags:
 - (C) 核醫紅血球掃描(RBC scan), 偵測出血較血管攝影術敏感, 可以精確定位,幫助治療 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (D) 如無活動性出血,除非是血管豐富(hypervascular)的腫瘤或 是血管發育不良(angiodysplasia),否則血管攝影術幫助不大 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - 3. 診斷: - (1) 篩檢:超音波掃描為第一線影像學檢查工具、AFP > 200 則暗示有 HCC。 - (2) 確診: CT 可見 arterial phase enhancement。 - (3) 結論:超音波用來篩檢,電腦斷層用來確診,磁振造影、血管攝影通常用在電腦斷層沒有辦法完全確診時,可用在較小、較早期的病灶偵測。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (C) 6. 黃先生,60歲,經腹部電腦斷層、腹部血管攝影及肝臟切片檢查後 106 確診為肝癌,下列敘述何者錯誤? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (D) 16. 一位 55 歲男性病人為慢性 B 型肝炎帶原者,最近腹部電腦斷層及血管攝影發現肝右葉有一 2 公分大小的腫瘤,高度懷疑為肝癌,血清胎兒蛋白為 420 ng/mL, Child-Pugh 分類為 A,其他影像檢查並未有腫瘤轉移情形,你最不考慮採用下列何種治療? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (4) 若以上 Noninvasive stress test 陽性、心絞痛無法以藥物控制、疑似缺血性心臟病 導致 Cardiac arrest 或 Ventricular dysfunction 皆可進一步做心導管檢查 (Coronary arteriography)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- 【詳解】ST 段上升型心肌梗塞的病人於症狀發生的十二小時內應接受緊急心導管介入治療,若無法在兩小時內接受心導管介入治療者,建議施打 r-tPA(血栓溶解劑)。目前治療指引建議自進急診室求治的三十鐘內應施打 r-tPA(血栓溶解劑)。由於 r-tPA(血栓溶解劑)是一種血栓溶解劑,因此最常見的副作用就是出血;若有相關禁忌症,不建議使用。這些絕對禁忌症包含:三個月內有明顯的頭部或臉部外傷、三個月內發生缺血性中風、已知腦血管病灶(蜘蛛網膜下腔出血、腦內動脈瘤、或動靜脈瘤)、腦出血病皮、腦內腫瘤、活動性出血(月經不包 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

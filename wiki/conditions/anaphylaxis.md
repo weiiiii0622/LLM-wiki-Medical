@@ -15,6 +15,9 @@ sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Anaphylaxis (全身性過敏反應)'
   - 'Anaphylaxis'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,15 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med4-book4-ch01]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- ...骼肌的 nicotinic 接受器。 - b. 交感神經由胸椎、腰椎脊髓的側角神經元發出,經兩個神經元,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎旁神經節(paravertebral ggl.)的神經元,其再分泌正腎上腺素(norepinephrine)刺激目標器官(心肌、平滑肌、腺體)的 Adrenergic 接受器。 - c. 副交感神經由**顱神經、薦椎的側角神經元**發出,也經**兩個神經元**,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎前神經節(prevertebral ggl.)的神經元,其再分泌 ACh 刺激目標器官(心肌、平滑肌、腺體)的 muscarinic 接受器。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- 是提升何種神經傳導物質在腦中的濃度? - (A) acetylcholine - (B) norepinephrine - (C) serotonin - (D) dopamine Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - Norepinephrine 與 serotonin 是目前被研究最多和情感性精神疾患相關的生物因子, 其 他 如 dopamine、GABA、vasopressin、endogenous opiates、glutamate、glycine 等也可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...uptake | 温·罗··································· | 腸胃道不適、性功能障 | | inhibitor) | * 選擇性 (-)5-HT 回收 | | | SNRI (serotonin-norepinephrine | (-)NE, 5-HT 回收 | 頭痛、血壓升高 | | reuptake inhibitor) | | | | NDRI (norepinephrine- dopamine | (-)NE, DA 回收 | 如 bupropion | | reuptake inhibitor) | | | | | | | | NaSSA (NE and specific serotonergic | (+)NE, 5-HT 分泌 | 如 mir Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 註: NE: Norepinephrine、5-HT: Serotonin、DA: Dopamine Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -62,9 +71,6 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - 【詳解】Epinephrine 在兒童急救的使用時機為病人出現心臟停止的心律(VF、pulseless VT、asystole、PEA)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...) 注射類固醇 | | | (C) 使用升壓劑,如 Dopar | mine (D)使用抗組織胺 | | | 【詳解】病人突然出現呼呼 | 吸困難、眼睛四周及嘴唇血管水腫、全 | | | 身發癢與吞嚥困難,故可知 | 印發生全身型過敏反應(anaphylaxis)。 | | | 此時最重要是先給予腎上 | 腺素,輔助治療則包括類固醇與抗組 | | | 織胺等。 | | | (D) | 4. 有關預防嬰幼兒過敏的觀測 | 念,下列敘述何者最不恰當? 109(- | | | (A) 孕婦飲食不需避免高過 | B敏食物(例如海鮮、花生等) | | | (B) 建議在 4~6 個月大可開 | 開始添加副食品 | | | (C) 母乳哺育對於預防氣喘 | 始的效果不確定 | | | (D) 按照國際指引 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (D) 20. 一位 6 歲小男童因吃花生產生過敏性反應(anaphylaxis),最不 101( 二 ) 專 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 適合接受何種治療? 醫四 -23 - (A) 注射腎上腺素 (epinephrine) - (B) 給予氧氣 - (C) 給予抗組織胺 - (D) 給予非類固醇抗發炎劑(NSAID) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 3. 當病人有嚴重的 stridor 或是呼吸窘迫時,給予消旋腎上腺素(racemic epinephrine) 混合生理食鹽水以霧氣吸入方式治療。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (C) 急性期可先給與氧氣及 Epinephrine 混合生理 食鹽水以吸入方式治療 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

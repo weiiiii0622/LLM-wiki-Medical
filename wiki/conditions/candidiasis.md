@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med4-book4-ch04]]"
 aliases:
   - 'Candidiasis (念珠菌感染)'
   - 'Candidiasis'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med4-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...(A) 腦部磁振造影 醫四 -48 (B) 腦脊髓液檢查 (C) 腦波檢查 (D)電腦斷層攝影 (A) 19. 腦內最常見的黴菌(fungus)感染是: 99(二)專 (A) 隱球菌 (cryptococcosis) 醫四 -45 (B) 念珠菌 (candidiasis) (C) 麴菌 (aspergillosis) (D) 白黴菌 (mucormycosis) (B) 20. 一位 36 歲的女性病人,因為癲癇發作及意識障礙而住院治療。 99(二)專 1週前她開始有輕微的發燒及頭痛;2天前有一次聽到外面有人 醫四-54 在講她的壞話,跑出去跟不相關的路人大吵一架,然後就不再出 門,在家裡喃喃自語,行為非常奇怪;今天早上發生癲癇而來住 院。病人在急診室做了腦脊髓液的檢查,結果 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (B) candidal intertrigo Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) 3. 承上題,這位患者皮膚病的致病菌為: - (A) Trichophyton rubrum - (B) Malassezia furfur - (C) Candida albicans - (D) Corynebacterium minutissimum Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - b. 內服療法: 適用於頭癬及甲癬,或局部療法效果不佳、病灶廣泛之慢性皮癬患者。 - (a) Terbinafine (療黴舒):屬殺黴菌藥物,治療皮黴菌約需 2~4 週,手指甲 癬需 6 週,而腳趾甲癬約需 12 週。治癒率為 80~90%,但對汗斑及念珠 菌感染無效。 - (b) Itraconazole (適譜諾):由於對肝臟損害少,有取代老藥 Ketoconazole 之趨勢,屬於抑黴菌藥物而非殺黴藥物。但因屬 imidazole 類之廣效製劑,故對汗斑及念珠菌感染亦具療效。 - (c) Griseofulvin(灰黃黴素):只對皮癬菌有效,為傳統口服抗黴菌藥物,只具有抑菌效果,主用於頭癬和灰指甲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -66,7 +69,6 @@ tags:
 - 2. 球黴菌型 (Coccidioidal) 指的是酵母菌型 (Yeast) 的隱球菌 (Cryptococcus) 或類酵母菌型 (Yeast-like) 的念珠菌 (Candida); 絲黴菌型 (Filamentous) 指的是黴菌型 (Mold) 的麴菌 (Aspergillus)。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
 - | 酵母菌( | Yeast) | 黴菌 (Molds) | |---------------------------------------------------|---------------------------------------------------|------------------------------------------------| | 酵母菌型 (Yeast)沒有菌絲,屬單細胞,如隱球菌 (Cryptococcus) | 類酵母菌型 (Yeast-like)有假菌絲,屬單細胞如念珠菌 (Candida) | 黴菌型 (Mold)許多菌絲構成,屬多細胞如麴菌 (Aspergillus) | | | Afr | | Source: [[sources/med3-book3-ch20|子、黴菌學]].
 - \*Cry m., Can e. = Cryptococcal meningitis, Candida esophagitis Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ## (2) 念珠菌感染 (Candidiasis): Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

@@ -8,6 +8,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch03]]"
 aliases:
   - 'Acute bacterial sinusitis (急性細菌性鼻竇炎)'
   - 'Acute bacterial sinusitis'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch03]]
 
 ## Key Details From Sources
 
+- (C) 35. 一位 85 歲的老先生最近一星期有新發作的右側偏頭痛,而且一 102( ) 專 天比一天嚴重,媳婦說老先生這兩天有嗜睡的傾向,檢查時發現 醫四-48 左臂力道稍弱,則最可能的診斷是: - (A) 偏頭痛 - (B) 右側鼻竇炎 - (C) 硬腦膜下出血 - (D) 老年憂鬱症 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (B) 31.26 歲女性病人,間歇性頭痛已有3年,尤其在月經來之前更容 100(一)專 易發生;頭痛之前常有眼前黑影的現象大約持續5至10分鐘, 頭痛的位置以右眼窩後面最嚴重,有脈搏跳動感,同時有畏光的 現象,通常痛一整天,到隔天睡醒才會好;門診理學檢查無異常 之發現。此病人最可能患有: - (A) 右眼球後腫瘤 - (B) 偏頭痛 - (C) 鼻竇炎 - (D) 右側內頸動脈狹窄 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - d. 併發症:中耳炎、鼻竇炎、頸部淋巴腺炎、風濕熱、腎絲球腎炎。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - III. 鼻竇炎 (Sinusitis) 160 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - # III. 鼻竇炎 (Sinusitis) Source: [[sources/med4-book1-ch04|丁、感染科學]].

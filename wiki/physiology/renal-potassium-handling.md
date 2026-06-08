@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med4-book4-ch08]]"
 aliases:
   - 'Renal potassium handling (腎臟鉀離子處理)'
   - 'Renal potassium handling'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med4-book4-ch08]]
 
 ## Key Details From Sources
 
+- IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 【詳解】(A) 女性較多。(C) 低血鉀現象。(D) 暴食症盛行率(年 輕女性 1~4%) 比厭食症(年輕女性 0.5~1%) 高。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - RTA 主要可分為三大類,分別是遠端型(type I)RTA、近端型(type II)RTA 與 高血鉀型(type IV)RTA。另外,還有一種是 type I、II 的混合型(mixed type),特別 發生在 carbonic anhydrase deficiency 病人上,又稱為 type III RTA。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 遠端腎小管與尿液酸化有關途徑:H+/ATPase、the HCO3-/Cl- anion exchanger 或是 the aldosterone pathway。以上若其中一項出問題,則可能發生第一型腎小管酸中毒。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -70,7 +73,6 @@ tags:
 - ...酸中毒 (Renal tubular acidosis, RTA): 哪些問題會造成腎小管受傷? - a. Type 1 RTA (distal RTA): 自體免疫 (Sjögren syn) 造成遠段腎小管破壞→無法排 H+造成酸中毒、低血鉀; 尿中 H+ ↓→尿 NH4+ ↓ (UAG > 0)、尿 pH > 5.3 - b. Type 2 RTA (proximal RTA):蛋白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ## Hypo RAS →留鉀留氫→高血鉀(Renal gain)、酸中毒(Type IV RTA)鑑別診斷時需用 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (C) 皮質醛酮素缺乏 (aldosterone deficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

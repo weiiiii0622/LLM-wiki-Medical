@@ -50,6 +50,8 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book3-ch01]]"
+  - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med4-book4-ch02]]"
 aliases:
   - 'Liver (肝臟)'
   - 'Liver'
@@ -64,7 +66,7 @@ tags:
 
 ## Summary
 
-肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -114,9 +116,17 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book3-ch01]]
+- [[sources/med4-book4-ch06]]
+- [[sources/med4-book4-ch02]]
 
 ## Key Details From Sources
 
+- ...as the first symptom 以跌倒為第一個症狀 | PSP | | Exposure to neuroleptics 有服用抗精神病藥物 | Drug-induced parkinsonism | | Associated liver disease 有肝功能上升 | Wilson's disease | | Dementia as first symptom 以失智症為第一個表現 | Dementia with Lewy bodies | | Prominent orthostasis 有姿態性低血壓 | MSA-p | | High frequency (8~10 Hz) symmetric tremor 高頻率顫抖 | Essential tremor | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (A) 病人的血中銅含量增加,但因為在肝臟及腦中沉澱,因此 24 小時尿中的總銅量反而減少 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...| | 【詳解】本題答 B 或 C 者均給分。 (C) 34. 下列有關威爾遜氏症(Wilson's disease,即 hepatolenticular degeneration)的敘述,何者正確? (A) 病人的血中銅含量增加,但因為在肝臟及腦中沈澱,因此 | | | 【詳解】本題答 B 或 C 者均給分。 (C) 34. 下列有關威爾遜氏症(Wilson's disease,即 hepatolenticular degeneration)的敘述,何者正確? (A) 病人的血中銅含量增加,但因為在肝臟及腦中沈澱,因此 24 小時尿中的銅量反而減少 | | | 【詳解】本題答 B 或 C 者均給分。 (C) 34. 下列有關威爾遜氏症(Wilson's disease,即 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (1) Valproic acid (Depakine® 帝拔癲): - a. 失神性發作(小發作)的首選,但部分發作、全身肌強直陣攣(大發作)、 失神性發作(小發作)皆適用。 - b. 最常見腸胃道的副作用,而使用在2歲以下的嬰幼兒容易發生肝臟毒性,一般常在使用後的4個月內會發生,因此使用時常需監測肝功能。 - c. 致畸胎性,孕婦禁用。可能造成血小板低下。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- a. Phenobarbital (Luminal®): 部分發作、全身肌強直陣攣(大發作)的二線用藥。 誘發肝臟 P-450 的合成,加速其他藥物代謝。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 【 詳解 】(A) 思覺失調症的患者自我(ego) 功能不好,不 建議做精神分析,(B) 多巴胺受器拮抗劑(dopamine receptor antagonist),(C) 尼古丁會活化肝臟代謝藥物的酵素(cyp450), 會導致藥物濃度降低。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - b. 內服療法: 適用於頭癬及甲癬,或局部療法效果不佳、病灶廣泛之慢性皮癬患者。 - (a) Terbinafine (療黴舒):屬殺黴菌藥物,治療皮黴菌約需 2~4 週,手指甲 癬需 6 週,而腳趾甲癬約需 12 週。治癒率為 80~90%,但對汗斑及念珠 菌感染無效。 - (b) Itraconazole (適譜諾):由於對肝臟損害少,有取代老藥 Ketoconazole 之趨勢,屬於抑黴菌藥物而非殺黴藥物。但因屬 imidazole 類之廣效製劑,故對汗斑及念珠菌感染亦具療效。 - (c) Griseofulvin(灰黃黴素):只對皮癬菌有效,為傳統口服抗黴菌藥物,只具有抑菌效果,主用於頭癬和灰指甲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 3. 臨床症狀: - (1) 皮膚起紅疹,伴隨癢感或疼痛感。經常從手腳開始發病,並且擴散到腹部、胸部以及上半背的部分。 - (2) 腸胃道症狀:腹瀉、失去胃口、噁心、嘔吐甚至會導致腸胃道出血的情況。 - (3) 高膽紅素、高量的鹼性磷酸鹽,甚至也會造成肝臟衰竭。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -129,12 +139,6 @@ tags:
 - (4) B 型肝炎:HBs-Ag、HBs-Ab、HBc-Ag、HBc-Ab、liver enzymes and bilirubin。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...stenosis 最常見;其它則有 pulmonary atresia、ASD、VSD、甚 至 TOF)。另外,此類病人在中軸骨骼可發現異常(最常見是胸 椎呈現蝴蝶結狀)、臉部異常(臉呈現倒三角形)、周邊神經異 常(維生素 D 缺乏造成)。肝臟超音波顯示病人 intralobular bile ducts 減少甚至沒有。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...: EX-PresidenT K went to WAR. (Extrinsic, PT, Vit K, Warfarin)。 - (5) 特殊因子: - a. Factor 7 是半衰期最短的因子。 - b. Factor 8 是唯一不由肝臟製造的因子。 - c. Factor 13 缺乏時無法由 PT/PTT 測得。 - d. Vit K dependent 的因子:factor 2, 7, 9, 10 和 protein C, protein S。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- ...HUS/ TTP | ↓ | Normal | Normal | | DIC | ↓ | 1 | ↑ | | Vit K deficiency/ Coumadin used/ | Normal | ↑ | 剛開始時正常,後來都會↑ | | Liver cirrhosis | | | | | vWD | Normal | Normal | ↑ (因為 factor 8 下降 ) | | Hemophilia | Normal | Normal | ↑ | Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 1. Aspartate aminotransferase (AST) 與 alanine aminotransferase (ALT) - (1) 當肝臟細胞急性受損時兩者皆會上升; ALT 特異性比 AST 高。 - (2) 急性病毒性肝炎、中毒、缺氧或是低組織灌流均可造成 ALT 或 AST 在血液升高至破千。 - (3) 在急性病毒性肝炎中, ALT 上升數值比 AST 高。 - (4) 在酒精性肝炎、fulminant echovirus infection 以及代謝障礙引發的肝炎中,AST 升高幅度比 ALT 高。 - (5) 兩者僅可代表肝臟細胞受損,但數值的高低無法代表疾病嚴重度以及預後。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 2. Alkaline phosphatase (AP) - (1) Alkaline phosphatase 在許多器官可以被發現,最常見為骨骼、肝臟、小腸以及 胎盤。其常被用來評估肝膽系統疾病或是骨骼相關疾病。 - (2) 當發生 biliary obstruction 或 cholestasis,則 alkaline phosphate 會升高。若是伴隨 direct bilirubin 上升,大大暗示著 biliary obstruction 或 cholestasis。 - (3) 在 Wilson disease 或 hypothyroidism, alkaline pho Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 【詳解】圖片可見 petechiae ( 12 deficiency - (D) liver cirrhosis with hypersplenism Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...降低的疾病。則此時需 | | | | | (A) 輸注血小板濃縮液 | | | | | (C) 類固醇治療 | | | | | 【詳解】ITP第一線以類固 | 醇治療為主。 | | | (D) | 24. 下列何種凝(溶)血因子 | 下是由肝臟所製造? | 94(二)檢 | | | (A) factor VII | (B) factor II | 內 -47 | | | (C) protein C | (D) Von Willebrand's factor | | | | 【詳解】凝(溶)血因factor不是由肝臟所製造。 | 子中只有 Factor VIII 及 Von Willebrand's | | | (D) | 最不可能? | l實驗室檢查 aPTT 時間延長,則下 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...oglobulin (Tg) | 甲狀腺癌 | | | | Calretinin, mesothelium | 間皮癌 (Mesothelioma) | | | Hara C | CDX2 | 大腸直腸癌、十二指腸 | | | 横膈下 | Hepatocyte paraffin 1 (HepPar-1) | 肝癌 | | | | Prostate specific antigen (PSA) | 35万(II白)(古 | | | 骨盆腔 | Prostate acid phosphatase (PAP) | 前列腺癌 | | | | URO-III, thrombomodulin | 膀胱癌 (Bladder cancer) | | | | S100, HMB-45 | 黑色素癌 | | | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 

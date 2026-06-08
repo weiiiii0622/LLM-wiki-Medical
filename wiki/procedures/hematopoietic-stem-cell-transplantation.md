@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med4-book4-ch07]]"
 aliases:
   - 'Hematopoietic stem cell transplantation, HSCT (造血幹細胞移植)'
   - 'Hematopoietic stem cell transplantation, HSCT'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-治療高風險血液惡性腫瘤、骨髓衰竭與部分免疫疾病的細胞治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療高風險血液惡性腫瘤、骨髓衰竭與部分免疫疾病的細胞治療。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med4-book4-ch07]]
 
 ## Key Details From Sources
 
+- 3. 羅倫佐的油 Lorenzo's Oil 是目前最普遍被採用的治療方式;羅倫佐的油 Lorenzo's Oil 的處方為:患者嚴格控制脂肪攝取,每公斤體重給予 1.7 公克 glycerol trioleate oil 和 0.3 公克 glycerol trierucate oil。然而羅倫佐的油 Lorenzo's Oil 並不能治療已經產生的神經病變,對成年病患也不具療效;骨髓移植仍然是大腦白質硬化症目前較佳的治療方式。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 【詳解】Wiskott-Aldrich Syndrome 是一種性聯隱性遺傳的疾病,患者多為男性,主要臨床症狀有血小板低下且形狀變小、免疫功能異常(中耳炎、肺炎、腦膜炎)、以及濕疹(佔75%的患者,且容易對過敏原產生反應而併發氣喘等症狀)。治療以症狀治療為主,如需根本治療則需骨髓移植。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 4. 治療:早期病灶侷限於皮膚時較有治癒機會,而當病灶侵犯至淋巴結或內臟時,多 半只能緩解無法治癒。 - (1) 皮膚病灶:外用強效類固醇、局部化學治療、光化學治療(PUVA)、外用芥子 氦或 BCNU、局部或全身電子束放射療法。 - (2) 全身性治療:化療、骨髓移植、干擾素或單株抗體。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 【詳解】嚴重再生不良性貧血病人,骨髓移植是治癒的唯一選擇。 Source: [[sources/med4-book1-ch08|辛、血液學]].
@@ -68,7 +71,6 @@ tags:
 - (1) 先給予 A (Ara-C) 7 天 -I (Idarubicin) 3 天的引導治療 - a. 達 CR 後預後好→ 3-4 次 High dose Ara-C 鞏固治療即可。 - b. 達 CR 後預後差或未達 CR→異體骨髓移植。 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - | (#) | 5. 以下何者被視為造血幹細胞(hematopoietic stem cell)最重要的特徵 (A) 自我更新(self-renewal) (B) 增殖(proliferation) (C) 分化(differentiation) (D) 計畫凋亡(programmed death) 【詳解】本題答(A)、(C) 給分。 | ? 105(一)專醫三-43 | |-----|----------------------------------------------- Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...0 metaphases 。目前學界共識第一線治療 為何? - (A) hydroxyurea - (B) interferon-alpha - (C) tyrosine kinase inhibitor - (D) allogeneic hematopoietic stem cell transplantation Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- ...1.5%; 血紅素及血小板正常。骨髓細胞染色體檢查有 t(9;22)(q34;q11)。下列何者為此女士最適當的治療方式? - (A) Hydroxyurea - (B) α-Interferon - (C) Imatinib - (D) hematopoietic stem cell transplantation Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 
 ## Clinical Caveats
 

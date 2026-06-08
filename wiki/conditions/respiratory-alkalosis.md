@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med4-book4-ch01]]"
 aliases:
   - 'Respiratory alkalosis (呼吸性鹼中毒)'
   - 'Respiratory alkalosis'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-過度換氣造成 PaCO2 下降，常見於低氧、疼痛、焦慮、敗血症或藥物。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+過度換氣造成 PaCO2 下降，常見於低氧、疼痛、焦慮、敗血症或藥物。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,15 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book3-ch03]]
+- [[sources/med4-book4-ch02]]
+- [[sources/med4-book4-ch01]]
 
 ## Key Details From Sources
 
+- ...,意識會短暫幾秒鐘到幾分鐘的突然消失,但發作後不會嗜睡、 意識混淆。常見的例子是小男孩在學校上課時常發呆,以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperventilation)或一些光刺激(photic stimulation)引發。 藥物首選為 valproate(Depakine®),或使用 ethosuximide。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (C) 可被過度換氣(hyperventilation)檢查誘發 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (D) 42. 下列關於癲癇失神型小發作(absence, petit mal)的敘述,何者 100(一)專 最正確? - (A) 首次發作通常發生於 15 歲到 20 歲之間 - (B) 發作中不會有自動症(automatism) - (C) 發作時腦電圖(EEG)呈現局部性棘波(focal spikes) - (D) 過度換氣(hyperventilation) 會引起發作 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...狀態 | Lethargy or stupor | Coma ( 腦幹受損 | 較易呈現深度昏迷) | | | | Cheyne-Stokes | Central | Apneustic | Ataxic | | | (一段深一段淺) | hyperventilation | (長吸式呼吸 | (失調式呼吸=亂) | | 呼吸 | | (過度換氣) | =深吸+短暫吐氣) | | | | ~~~~~ | WWW. | m | $\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{$ | | 瞳孔 | Small & Reactive | Mi Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, 告知恐慌症的生理病理機制, 症狀是短暫的現象, Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (C) 呼吸性鹼中毒(respiratory alkalosis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...1) 又稱為小發作(petit mal),發作時病人會突然出現動作靜止、面無表情;發作期間病人無法藉由呼叫或碰觸喚醒。 - (2) 5 歲以前不常發生,女性較男性好發。發作時不會有 aura,且發作時間很少會 持續超過 30 秒。過度換氣(hyperventilation)持續 3~4 分鐘或是閃光可以誘發 失神發作。 - (3) 失神發作一天內可以發生很多次,甚至可達數十次。然而,complex partial seizure 一天內發生次數不若失神發作般。 - (4) 90% 病人有 automatic behavior。 - (5) EEG 可以發現 3/sec spike 與 generalized wave discharge (整個腦袋亂放電)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

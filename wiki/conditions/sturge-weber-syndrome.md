@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med4-book4-ch06]]"
 aliases:
   - 'Sturge-Weber syndrome (史德格-韋伯症候群)'
   - 'Sturge-Weber syndrome'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-臉部 port-wine stain 合併 leptomeningeal angioma，可有癲癇、青光眼與神經缺損。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+臉部 port-wine stain 合併 leptomeningeal angioma，可有癲癇、青光眼與神經缺損。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med4-book4-ch06]]
 
 ## Key Details From Sources
 
+- (C) Sturge-Weber disease Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - B. 葡萄酒斑 (Port-wine stain) 140 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - # B. 葡萄酒斑 (Port-wine stain) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 3. Sturge-Weber syndrome: CM 在 CNV1 +同側 leptomeningeal capillary-venous malformation + choroid angioma 所導致的青光眼及視網膜剝離,還合併有 choroid plexus 鈣化、癲癇、大腦萎網及智力障礙。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
