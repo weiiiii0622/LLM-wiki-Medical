@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch16]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Hyperuricemia (高尿酸血症)'
   - 'Hyperuricemia'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch16]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- (A) 尿酸 (uric acid): 10 mg/dL Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 【詳解】病人血液相裡白血球過高且合併 high blast cell,因 此懷疑白血病的可能。白血病其併發症中需特別留意 tumor lysis syndrome: elevated uric acid and inorganic phosphorus and hyperkalemia • Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 5. 症狀: - (1) 無力、腦病變與低血糖。 - (2) 顯著的肝脾腫大。 - (3) Pompe disease (GSD type 2) 因缺乏酵素 acid alpha-glucosidase,特別嚴重。特 徵為心臟肥大,低肌張力,肝臟腫大,病童多於一歲內死亡。 - (4) von Gierke's disease(GSD type 1)因缺乏酵素 glucose-6-phosphatase,造成 lactic acidosis, hyperuricemia, 生長遲緩,但不會有肌肉的症狀。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - #### 5. 慢性治療著重在控制高尿酸血症: Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (C) 1. 下列關於痛風 (gout) 和急性痛風性關節炎 (acute gouty arthritis) 108(二)專的描述,何者錯誤? - (A) 急性痛風性關節炎發生在下肢的機率比上肢高 - (B) 痛風發生在男性的機率比女性高 - (C) 高尿酸血症(hyperuricemia)是引起痛風的主要原因,因此急性痛風性關節炎發作時測血中尿酸值對疾病的診斷很有幫助 - (D) 急性痛風性關節炎的關節液檢查可發現白血球上升的情形,關 節液白血球計數可從數千至數萬 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (A) 2. 高尿酸血症(hyperuricemia)是造成痛風(gout)的最主要原因, 108(-)專 下列關於造成高尿酸血症的敘述何者正確? 醫三-29 - (A) hypoxanthine phosphoribosyl transferase (HPRT) 基因位在 X 染色體上,當此基因突變時會造成高尿酸血症 - (B) uric acid 由肝臟代謝,因此肝臟功能不全時會造成高尿酸血症 - (C) 利尿劑(diuretics)會增加尿酸從尿液排出而降低血中尿酸 - (D) acute myeloid leukemia(AML)在化學治療時會產生高尿酸血症,因此可用 benzbromarone 來預防高尿酸血症 Source: [[sources/med3-book4-ch06|己、關節炎變]].
@@ -58,7 +65,6 @@ tags:
 - 1. 高尿酸血症與代謝症候群相關,與 insulin resistance 有關係 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 2. 治療: - (1) 無症狀高尿酸血症: - a. 以往認為高尿酸血症與心血管疾病、腎臟衰竭有關,但目前證據不足、且藥物副 作用大,故不再建議用藥物治療無症狀高尿酸血症。 - b. 僅有一種情形,癌症病患接受化療前,給予降尿酸藥物,預防 uric acid nephropathy。 - (2) 有症狀高尿酸血症:痛風關節炎、痛風石、腎臟尿酸結石 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (C) 4. 一位 45 歲男性病人,曾有高尿酸血症及血脂異常之病史,求診時主 訴最近兩週體重急遽下降8公斤,有口渴頻尿之現象,理學檢查發 現病人身高 165 公分,體重 80 公斤,血壓 160/90 mmHg,呼吸每 分鐘 15次,脈搏每分鐘 100次,頸部有黑色素沈積之現象,病人 最可能的診斷為何? Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- ...tion 的 | | | (ACE | )3. | 使用 HMG-CoA reductase inh | ibitors 可能產生那一種副作用? | 94(一)專 | | | | (A) 肌炎 (B) 心律不整 (C | ) 便秘 (D) 高尿酸血症 | 內 1-14 | | | | | ase inhibitors 最有名的副作用就是 | | | | | Myopathy 及 Hepatitis。 | | | | (B) | 4. | 下列那種基因突變引起之肥肥 | 伴症在人類不會發生? | 94(一)檢 | | | | (A) MC4R (B) AgRP (C) P | POMC (D) Leptin receptor (db) | 內 -12 | | (D) | 5. | Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
 
 ## Clinical Caveats
 

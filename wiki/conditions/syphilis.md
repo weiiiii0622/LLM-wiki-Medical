@@ -13,6 +13,9 @@ sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Syphilis (梅毒)'
   - 'Syphilis'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,19 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- ...-----------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosis, deafness and thrombocytopenia. | | | CMV | Microcephaly wi Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (B) 先天性梅毒 (congenital syphilis) Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (2) chronic hepatitis B, and (3) congenital syphilis。因題目敘述, Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (C) 先天的感染如 syphilis 或 HIV 可以造成此種情況 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】出生後三個月內若發生 nephrotic syndrome,則診斷為 先天性腎病症候群(congenital nephrotic syndrome)。其中最 常見的是 Finnish type congenital nephrotic syndrome(位在第 19 對染色體上的 NPHS1 gene 發生突變,影響 nephrin 製造), 類固醇或是免疫抑制劑治療無效,病人約在 5 歲左右死亡。此 外,syphilis、toxoplasmosis、rubella、cytomegalovirus、HIV、 hepatitis B 感染都有可能造成先天性腎病症候群。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- h. Immunologic disorder 免疫學異常: - (a) Anti-dsDNA 陽性或 - (b) Anti-Smith (Anti-Sm) 陽性或 - (c) Anti-phospholipid Antibodies 陽性: - i. Anticardiolipin antibodies 陽性或 - ii. Lupus anticoagulant 陽性或 - iii. False positive serology test for syphilis • Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 (3)實驗室檢驗:血液常規(WBC、RBC、Plt、Hct、Hb、MCV)、血型、Rh 因子、HBsAg 及 HBeAg(惟因特殊情況無法於本次檢查者,可於第五次孕婦產前檢查時接受本項檢查)、VDRL 或 RPR(梅毒檢查)、Rubella IgG(德麻疹抗體)、愛滋病檢查(EIA或 PA)及尿液常規。 2. 例行檢查項目。(註二)註: 德國麻疹抗體檢查呈陰性之孕婦,應在產後儘速注射1劑麻疹腮腺炎德國麻疹混合疫苗,該劑疫苗免費。(註五) | | 第二次 | | 第16週 | 1. 例行檢查項目。(註二)2. 早產防治衛教指導。 | | 第三次 | 妊娠第二期妊娠 17 週至 | 第 20 週 | 1. 例行檢查項目。(註二)2. 超 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...factor VIII (C) protein S | 105(一)專醫三-12 | | | (D) protein C | | | | 【 詳解 】APS 的檢驗異常包括 prolonged aPTT 及 false positive RPR。 | | | (D) | 8. 下列對於全身性紅斑性狼瘡(SLE)病人血清中的各種自體抗體的描述,何者最為正確? (A) anti-RNP 對於診斷 SLE 的特異性最高 (B) anti-histone 抗體與 SLE 的腎炎最有相關 (C) anti-Sm 與 SLE 的 psychosis 最有相關 (D) anti-phospholipid 與 habitual fetal loss 最有相關 | 105(一)專醫三-40 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 2. 診斷準則: 反覆性疼痛口腔潰瘍加上以下 2 項以上(Arthritis Rheum 1990; 33: 1078.) - (1) 反覆疼痛生殖器潰瘍(Recurrent genital ulcer);梅毒的潰瘍不會痛。 - (2) 眼睛:最常見的是兩側全葡萄膜炎(Panuveitis),其他包括 Iritis、Posterior uveitis、Retinal vasculitis/vessel occlusion、Optic neuritis 等,眼盲是此病最嚴重的併發症。 - (3) 皮膚:結節性紅斑 (Erythema nodosum)、毛囊炎 (psuedofolliculitis)、膿疱 (Pustule)、 丘疹 (Papu Source: [[sources/med3-book4-ch04|丁、血管炎]].
@@ -54,9 +67,6 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - (1) Penicillin 目前是 Syphilis、Group A streptococcus 感染的首選用藥。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...無法入細胞內,Listeria 腦膜炎用 Ampicillin 治療 | | | | 格蘭氏陰性菌 Neisseria meningitis | | 抗藥性增,現少用 PCN 治療 Neisseria 造成的腦膜炎 | | | | | | Syphilis 的首選用藥 | | | | 厭氧菌 Pasteurella multocida, Actinomyces | | | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...b. HIV RNA 用來監測 HAART 藥物效果,用藥目標是壓制到測不到(目前用 PCR 最少可測到 20~40 copies/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者), CCR5 (考慮用 maraviroc 者)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...| Acyclovir PO 400 mg tid 1 週或 IV 5 mg/kg q8h | | | | Genital warts | HPV 6, 11 | HPV 6, 11 若有皮膚病灶→局部電燒 | | | | Primary Syphilis | Benzathine PCN 2.4 | Benzathine PCN 2.4MU IM stat 或 Doxycycline 100 mg PO bid 14 天 | | | | Secondary Syphilis | Benzathine PCN 2.4MU IM stat 或 Doxycycline 100 mg PO bid 14 天 | | | | | Latent/Tertiary | Benzathine PCN Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- (A) 4. 人類免疫不全病毒(HIV) 感染者感染梅毒(syphilis) 或其他性行為 傳染疾病的臨床表徵敘述,何者錯誤? Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...- ii 免疫: granular deposition of IgG、C3 along the GBM。 - iii 電顯: subepithelial deposition。 - (c) 大部分為 idiopathic,和 B型肝炎、梅毒、自體免疫疾病(SLE, RA)、實質性腫瘤(乳癌、肺癌、大腸癌)、藥物(gold、penicillamine、captopril、NSAIDs)有關。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

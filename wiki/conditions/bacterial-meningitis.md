@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Bacterial meningitis (細菌性腦膜炎)'
   - 'Bacterial meningitis'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch09]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- # A. 急性細菌性腦膜炎 (Acute Bacterial Meningitis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (1) 出生兩個月內的病人得到細菌性腦膜炎多半因為母親身體與環境的菌叢造成。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (1) 病史詢問:在新生兒與幼小嬰兒時期細菌性腦膜炎症狀多沒有特異性,每個病 童臨床表現差異很大。當小朋友出現活動力變差、食慾下降、看起來病懨懨的, 不管是否有無發燒或是神經學症狀,皆要考慮腦膜炎的可能性。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - B. 細菌性腦膜炎 (Bacterial meningitis) 128 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - \*Kernig's sign (患者臗關節、膝關節 Knee 皆彎曲 90 度,伸展患者膝關節,有痛即為陽性) Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].

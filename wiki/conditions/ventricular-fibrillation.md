@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch10]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Ventricular fibrillation (心室顫動)'
   - 'Ventricular fibrillation'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-致命心律不整，需立即去顫與急救。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+致命心律不整，需立即去顫與急救。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch10]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- 【詳解】Epinephrine 在兒童急救的使用時機為病人出現心臟停止的心律(VF、pulseless VT、asystole、PEA)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...rolonged Q-T interval外,也會引起其它心律不整如 atrial fibrillation、atrioventricular block、atrioventricular dissociation、bradycardia、ventricular fibrillation、ventricular tachycardia。Haloperidol 除了會造成 prolonged Q-T interval外 ECG上會有不正常的T波(prolonged ventricular repolarization)。torsades de pointes、ventricular arrhythmia亦是常見的心律不整。Acetaminophen 在心血管方面的副作用有 peripheral edema、tachyca Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...T wave)PR 延長 | | K = 8-9 mEq/L | \\\\\ | P 波變平,甚至 Sinus arrestQRS 變寬 | | K > 10 mEq/L | | Sine wave Cardiac standstill Ventricular fibrillation | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (b) Ventricular fibrillation (VF): 這種心律常見於垂死的心臟,也是猝死中最常見的心律不整。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - 心室顫動 (ventricular fibrillation, VF) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

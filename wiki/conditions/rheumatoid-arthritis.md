@@ -15,6 +15,9 @@ sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch08]]"
   - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Rheumatoid arthritis, RA (類風濕性關節炎)'
   - 'Rheumatoid arthritis, RA'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,18 @@ tags:
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch08]]
 - [[sources/med3-book4-ch10]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...or peritonitis) • - b. Oligoarticular JIA:發病後 6 個月內有 1~4 個關節受到影響。 - c. Polyarthritis (RF negative):發病後6個月內有≥5個關節受到影響,且 rheumatoid factor (RF) 陰性。 - d. Polyarthritis(RF positive):發病後 6 個月內有 $\geq$ 5 個關節受到影響,且RF $\geq$ 2 次測到陽性(兩次需間隔 3 個月以上,且皆需在發病後 6 個月內)。 - e. Psoriatic arthritis: 關節炎加上乾癬, 或關節炎加上以下至少兩項: - (a) Dactylitis (指/趾炎)。 - (b) Nail pitting and onych Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- c. 發病時通常白血球及血小板高,血紅素低,且 CRP 及 ESR 高。Oligoarthritis 及 polyarthritis 有 40~85% ANA 會陽性。Rheumatoid factor(RF)可能陰性或 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (B) 2. 關於幼年型類風濕性關節炎(Juvenile idiopathic arthritis, JIA), 下列何者錯誤? 108(二)專 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (2) 非感染性疾病:如 Steven-Johnson syndrome、juvenile rheumatoid arthritis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...cksyndrome) | 猩紅熱(Streptococcalscarlet fever) | 史蒂芬強生症候群 (Stevens-Johnsonsyndrome) | 系統性幼年型風濕性關節炎 (Systemictype-JuvenileRheumatoid Arthritis) | |------------|----------------------------------|---------------------------------------|-----------------------------------------|------------------------------------------------|------------------------------------ Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (1) Juvenile rheumatoid arthritis (排除性診斷)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - RA 近年來進展不少,Anti-CCP 的意義、DMARD、生物製劑、免疫抑制劑的 角色都要有概念,將是未來考試的重點。內專愛考 criteria, 要能默背出來才能答題。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - 2. 好發 $35\sim50$ 歲,男:女 =1:3;帶有 HLA-DR4 有更高的發生率。也有不少超過 60 歲的類風濕性關節炎 (Elderly onset RA),若合併 RF(+)或 anti-CCP(+),通常疾病進展較快、較嚴重。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].

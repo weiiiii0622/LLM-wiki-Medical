@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med3-book4-ch14]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Pancytopenia (全血球減少症)'
   - 'Pancytopenia'
@@ -21,16 +23,21 @@ tags:
 
 ## Summary
 
-紅血球、白血球與血小板皆下降，需評估骨髓、脾臟與全身疾病。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+紅血球、白血球與血小板皆下降，需評估骨髓、脾臟與全身疾病。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch11]]
 - [[sources/med3-book4-ch14]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- (A) 13. 一位 4 歲男童出現全血球低下(pancytopenia),身體驅幹及頸部有色素沈著及咖啡斑(café-au-lait spots),身材矮小(short stature),並且有不正常的染色體脆弱(chromosome fragility)情形,他最有可能罹患: - (A) Fanconi anemia Source: [[sources/med4-book1-ch08|辛、血液學]].
+- ...血小板。病人出生後為了預防顱內出血,治療方式為輸血小板預防出血,有時也會使用IVIG。(A)Wiskott-Aldrich syndrome 為性聯遺傳隱性疾病,WAS gene mutation(Xp11.22-23)。臨床上病人會出現 pancytopenia。(C) amegakaryocytic thrombocytopenia 多為先天性,血液學檢查多呈現 thrombocytopenia,但是病人的血紅素與白血球有可能正常。(D) Fanconi anemia 病人因骨髓功能失能(marrowfailure),因此臨床上會依序出現 thrombocytopenia、red blood cell macrocytosis、granulocytopenia,最後出現 anemia。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (5) 努南氏症病人常與 juvenile myelomonocytic leukemia 有關。其它血液學疾病有 amegakaryocytic thrombocytopeniac 或 pancytopenia with hypocellular marrow。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - F. 全血球減少症 (Pancytopenia) 115 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - 3. 若不只貧血,白血球、血小板也低(Pancytopenia),則有其他鑑別診斷。 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - 1. 巨芽細胞貧血(Megaloblastic anemia):缺 B12 或葉酸 - (1) 典型的血液學表現是 Pancytopenia,且 MCV 高達 120 fl 以上,周邊血球抹片可觀察 到高分葉核的中性球增多 (hypersegmented neutrophils)。 - (2) 整理營養素的吸收: Source: [[sources/med3-book4-ch10|甲、貧血]].

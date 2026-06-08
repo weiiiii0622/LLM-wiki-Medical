@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Chronic myeloid leukemia, CML (慢性骨髓性白血病)'
   - 'Chronic myeloid leukemia, CML'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-BCR-ABL 相關 myeloproliferative neoplasm，可有 leukocytosis 與 splenomegaly。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+BCR-ABL 相關 myeloproliferative neoplasm，可有 leukocytosis 與 splenomegaly。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ BCR-ABL 相關 myeloproliferative neoplasm，可有 leukocytosis 與 splenomegal
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch12]]
 - [[sources/med3-book4-ch19]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- (3) 不良的細胞遺傳學特徵: hypoploidy (33~39 個染色體) 或 near hypoploidy (23~29 個染色體)、baby t (4;11) /MLL-AF4 fusion gene (80% 的嬰兒 ALL 身上出現)、t (9;22) /BCR-ABL protein/ Philadelphia chromosome。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- ...% | | B-ALL | t (1;19) | E2A-PBX | None | 5~6% | | B-ALL | t (4;11) | MLL-AF4 | Unfavorable | 2% | | B-ALL | t (9;22) | BCR-ABL | Unfavorable | 3% | | Mature | | | | | | B-cell leukemia | t(8;14) | IGH-MYC | Favorable | 1~2% | | (Burkitt) | | | | | | B-ALL | Hyperdiploidy | | Favorable | 20~25% | | B-ALL | Hypodiploidy | | Unfavorable | 1% | | T Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- (C) 有費城染色體(Philadelphia chromosome) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - A. Chronic myelogenous leukemia (CML) 158 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - #### 戊、慢性骨髓性增生性疾病 (Chronic Myeloproliferative Neoplasm) Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - #### A. Chronic myelogenous leukemia (CML) Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].

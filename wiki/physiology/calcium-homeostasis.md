@@ -13,6 +13,9 @@ sources:
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Calcium homeostasis (鈣離子恆定)'
   - 'Calcium homeostasis'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,17 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch22]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 3. Pseudohypoparathyroidism: PTH 分泌正常但 PTH receptor (bone、kidney) 發生缺陷造成 PTH 抗性。病人有矮胖、圓臉、皮下鈣化、第四指骨短、智能不足,特稱為 Albright's hereditary osteodystrophy (AHO)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (2) 出院治療則是補充 Vitamin D、口服鈣片使血鈣維持正常。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (1) 常見的有 CBC/DC、CRP、procalcitonin。但是有時病毒性感染(如 adenovirus) 也會造成 WBC、CRP、procalcitonin 高,判別上會增加困難。一般而言,可以 用白血球數以及其分類初步判斷肺炎的病原體: Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (C) 血清 1,25-dihydroxyvitamin D 濃度正常 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...Other condition | |------------|------------------|-----------|-----------------------|------------------| | Hormone | Calcitonin | 12 min | 甲狀腺癌 (Medullary ca.) | | | | β -нсс | 18~24 hr | 生殖細胞癌 (GCT), GTD | 懷孕 | | Tumor | PSA | 2~3 d | 前列腺癌 | BPH, Prostatitis | | associated | CA125 | 4~5 d | 卵巢癌 | 月經、腹膜炎 | | protein | CA153 | \*GTD = Gestational Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - (4) Calcitonin:對於需要快速降鈣也有其角色。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - | Low PTH Levels | Parathyroid agenesis | Isolated | |-------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].

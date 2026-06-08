@@ -25,6 +25,11 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Liver cirrhosis (肝硬化)'
   - 'Liver cirrhosis'
@@ -39,7 +44,7 @@ tags:
 
 ## Summary
 
-慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +69,21 @@ tags:
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch12]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- (#) 3. 下列何種疾病引起的低血鈉(hyponatremia)與血液稀釋無關? 107(-)專 (A) 肝硬化(liver cirrhosis) 醫四 -21 (B) 鬱血性心臟衰竭 (congestive heart failure) (C) 抗利尿激素不適當分泌症候群 (syndrome of inappropriate antidiuretic hormone secretion) (D) 腎病症候群 (nephrotic syndrome) 【詳解】這些都有機會造成血管內容積量增加,進而造成血液 中的鈉離子被稀釋造成相對性的低血鈉。 ( Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...HUS/ TTP | ↓ | Normal | Normal | | DIC | ↓ | 1 | ↑ | | Vit K deficiency/ Coumadin used/ | Normal | ↑ | 剛開始時正常,後來都會↑ | | Liver cirrhosis | | | | | vWD | Normal | Normal | ↑ (因為 factor 8 下降 ) | | Hemophilia | Normal | Normal | ↑ | Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 3. Gamma-glutamyltransferase ( $\gamma$ -GT) and 5' nucleotidase (5NT) - (1) Gamma-glutamyltransferase (γ-GT) 位在細胞膜上,分布器官主要在**肝、膽道、**腎及胰臟,但不存在於骨骼。臨床上 Gamma-glutamyltransferase 上升代表以下可能原因:急性或慢性肝炎、肝硬化、膽汁滯留、原發性硬化性膽管炎、肝轉移腫瘤或是 liver carcinoma。 - (2) 5' nucleotidase (5NT) 主要分布在肝、肌肉、心臟及腎臟,但不存在於骨骼。 臨床上 5NT 上升代表以下可能原因: 肝炎、膽汁滯留性疾病、肝臟腫瘤(原發性或是次發性)、肝毒性藥物。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 3. 確切的原因仍不明,但有懷疑某些病毒感染造成,如 reovirus、CMV、HPV、 rotavirus C。此疾病的病程為一漸進性的發炎反應,造成膽道的纖維化及膽汁鬱積, 最終造成肝硬化。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...sia or stenosis of the portal vein。 - b. 肝門靜脈流動受阻: 急性或慢性肝炎、先天性肝纖維化 (congenital hepatic fibrosis)、血吸蟲病 (schistosomiasis)、肝硬化。 - (3) Posthepatic: - a. Budd-Chiary syndrome: 肝靜脈到下腔靜脈間發生栓塞導致血流受阻。原因 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ..., firm liver | Increased AFP | | Hepatoma | School age, | Large, firm liver; hepatitis | Increased AFP | | | teens | B, cirrhosis | | | Rhabdomyosarcoma | All | GI/GU obstruction, | | | | | sarcoma botryoides, | | | | | vaginal bleeding, para- | | | | | testicular mass | | | Non-Hodgkin | > 1 yr | Intussusception in | Increased urate; bone | | lym Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- (1) 肝臟:臨床上 Wilson disease 表現在肝臟的疾病很多元:無症狀的肝臟腫大(有時會合併脾腫大)、亞急性或慢性肝炎、肝臟衰竭(有時合併溶血性貧血)、門脈高壓、腹水、全身性水腫、肝硬化、食道靜脈瘤破裂等。有時因肝功能問題造成其他問題如青春期延遲或無月經(amenorrhea)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - | 分類 | 病因 | |-------|----------------------------------------------------------| | 脾臟腫大 | Normal BM: 肝硬化等。(Abnormal sequestration) | | | Abnormal BM:白血病 (Leukemia)、淋巴瘤 (Lymphoma)。 | | 脾臟未腫大 | Normal BM: 免疫 (ITP) 或非免疫 (DIC) 因素摧毀血小板。(Destruction) | | | Abnormal BM: Aplastic anemia · PNH · (Production defect) | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 【詳解】圖片可見 petechiae ( 12 deficiency - (D) liver cirrhosis with hypersplenism Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 甲、Normal BM: 肝硬化等。(Abnormal sequestration) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
@@ -78,13 +95,6 @@ tags:
 - | | 急性 | 慢性 | |---------|---------|----------------------| | 心血管疾病 | 心肌梗塞 | 高血壓、靜脈曲張、心律不整、姿態性低血壓 | | 神經疾病 | 中風 | 失智症、巴金森氏症 | | 新陳代謝疾病 | 糖尿病、甲狀腺 | 以 对能低下 | | 肌肉骨骼疾病 | 骨折 | 退化性關節炎 | | 肝膽腸胃疾病 | 急性腹瀉 | 慢性肝炎、肝硬化、便祕、痔瘡 | | 眼耳鼻喉疾病 | 白内障、聽力丁 | 降 | | 泌尿生殖道疾病 | 尿失禁、疝氣、 | ·攝護腺肥大 | | 精神疾病 | 憂鬱症、失眠、 | ・譫妄 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...aureus 或一些厭氧的 streptococcus | | | | 生處 | 誘鐵釘刺入組織深 | Pseudomonas | Ceftazidime (Fortum) 或 Ciprofloxacin | | | 接觸 | 生食海鮮+肝硬化在海邊受傷(鹹水) | Vibrio vulnificus | 3rd cephalosporin+ Tetracycline(台灣有研究顯示加 Tetracycline 預後較加) | | | 胸水 | 摔到水溝水、泡溫泉(淡水) | Aeromonas hydrophila (GNB) | 對 Quinolone, Baktar, 3 rd ceph 皆敏感 | | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - | 菌種 | 治療 | 危險因子 | |-----------------------------------|------------------------------------------|---------------| | Group A streptococcus (S. pyogen) | Pencillin + Clindamycin | | | Vibrio vulnificus | Doxycycline+Ceftriaxone | Cirrhosis+ 海水 | | Aeromonas hydrophila | Doxycycline+Ceftriaxone or Ciprofloxacin | Cirrhosis+ 淡水 | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- (B) 1. 有一肝硬化的病人,來急診主訴8小時前在釣魚時,右腳被牡蠣殼 割傷後,右下肢紅腫並迅速往小腿擴散,併有水泡出現及組織壞死 現象,除此之外,伴隨著發燒發冷的現象。關於該病人疾病,下列 敘述何者錯誤? Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- ...idism | | | | 7. Chronic renal insufficiency | | | Primary Na + gain | 1. Heart failure | | | (exceeded by | 2. Hepatic cirrhosis | | | secondary water gain) | 3. Nephrotic syndrome | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (b) TTKG > 10,表示尿液已是高鉀,Aldosterone 有發揮留鈉排鉀的作用。 - i. 考慮是 Effective circulating volume (ECF) 不足,導致排鉀受限,如心臟衰竭、肝硬化的病人;或 - ii. 病患食入太多鉀離子。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...| gold, mercury, penicillamine, nonsteroidal anti-inflammatory agents, probenecid | | | | A | SLE, RA, primary biliary cirrhosis, dermatitis herpetiformis, | | | | Autoimmune dz. | bullous pemphigoid, myasthenia gravis, Sjögren's syndrome, Hashimoto's thyroiditis | | | | Other systemic | Fanconi's syndrome, sickle cell anemia, diabetes, Crohn's d Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (A) 肝硬化引起水腫常伴隨頸靜脈曲張 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (3) 創傷弧菌 (Vibrio vulnificus) - a. 疾病:當肝硬化患者生食海鮮或蜂窩性組織炎病患的傷口有接觸過海水的病史, 需懷疑創傷弧菌感染。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长,肝硬化 | | | | 複雜型 | 雙股線狀 | 細胞質 | 痘病毒 (Pox virus) | 天花, 傳染性軟疣 | | | | | 二十面體 | 單股 (+) 無分段 | 細胞質 | 小 RNA 病毒 (Picornavirus) | 小兒麻痺,克沙奇病毒 | 腸胃道感染 | | | | | 雙股分段(11) | 細胞質 | 呼腸孤病毒科 (Reovirus) | 輪狀病毒 | 肠月坦念朱 | | | | | 面體 | 單股 (+) 無 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

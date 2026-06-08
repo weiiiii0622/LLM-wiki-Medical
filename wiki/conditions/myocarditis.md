@@ -11,6 +11,10 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Myocarditis (心肌炎)'
   - 'Myocarditis'
@@ -25,7 +29,7 @@ tags:
 
 ## Summary
 
-心肌發炎可造成胸痛、心律不整或心衰竭。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌發炎可造成胸痛、心律不整或心衰竭。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +40,21 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- III. 後天性心臟疾病 (Acquired Heart Disease) 30 - A. 感染性心內膜炎 (Infective endocarditis) 30 - B. 風溼性心臟病(Rheumatic heart disease) 32 - C. 川崎病 (Kawasaki disease) 33 - D. 心肌炎 (Myocarditis) 39 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (A) 心肌炎 (Myocarditis) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- Acquired heart disease 在成人比兒童較常見。先天性心臟病在出生前心臟已經出現問題,出生後有臨床表現;後天性心臟病常因病人本身以外因子造成。兒科常見後天性心臟病有感染性心內膜炎、風濕性心臟熱、川崎症、心肌炎。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 4. 嬰兒急性心肌炎、心包膜炎:主要由 B 族克沙奇病毒引起。 - (1) 特徵為突發性呼吸困難、蒼白、發紺、嘔吐。開始可能誤以為肺炎,接著會又明顯心跳過速,快速演變成心衰竭、休克、甚至死亡。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (B) 死亡病例九成以上有病毒性心肌炎 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 【詳解】死亡病例多因肺水腫、肺出血造成心衰竭而死亡,病毒性心肌炎反而少見。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...· corneal ulcers · | | | | |---------------|-------------------------------------------------|--|--|--| | | pneumonia · myocarditis · reactive arthritis · | | | | | | arthritis (usually 2-5 weeks after enteritis) · | | | | | | cystitis and vaginitis. | | | | | Campylobacter | Meningitis · pneumonia · thrombophlebitis · | | | | | | pancreatitis · cho Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...tween 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Enterovirus | Sepsis, DIC, hepatitis, myocarditis and meningoencephalitis. | | | Varicella zostervirus (VZV) | Cicatricial skin lesions. | | Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (3) 在愛滋病患者可能引起弓蟲性壞死性腦炎 (necrotizing encephalitis)、心肌炎 (Myocarditis)。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - | 免疫正常之成人(後天性感染) | 先天性感染 | 愛滋病患者 | |----------------------------|--------------|----------| | 大多數沒有臨床症狀,或類似傳染性單核球增生症 | 中樞神經不正常,如水腦症 | 弓蟲性壞死性腦炎 | | 眼睛的症狀,如葡萄膜炎、視網膜脈絡膜炎等 | | 心肌炎 | Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - ...| Streptococcal toxic shock | | | | 克症候群 | syndrome | early and a second | | Non-suppurative | 風濕熱 | Rheumatic fever | 心肌炎,關節炎,舞蹈症,皮下結節 | | sequelae | 急性腎絲 | Acute post-streptococcal | 茶褐色的尿 | | (抗體媒介) | 球腎炎 | glomerulonephritis | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

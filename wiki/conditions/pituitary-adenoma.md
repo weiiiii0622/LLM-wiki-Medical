@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Pituitary adenoma (腦垂體腺瘤)'
   - 'Pituitary adenoma'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch15]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- (2) 橋本氏甲狀腺炎(早期)、亞急性甲狀腺炎(de Quervain's thyroiditis)、pituitary adenoma、腦下垂體對 T4 有抗性等。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - i. Pituitary adenoma 分泌 ACTH,又稱 Cushing's disease,其中 microadenoma (ACTH > 30~150 pg/mL)、macroadenoma (ACTH > 200 pg/mL)。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - i. 可施行 High dose DST (**2 mg q6h\* 2days**), 若是 Pituitary adenoma 會被 抑制 cortisol 濃度 (cortisol level suppression 超過 50%), 而 Ectopic tumor 不會被抑制。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - iii. 有時腦垂體腫瘤太小,可用 IPSS 來尋找 Pituitary adenoma。Inferior petrosal sinus sampling (IPSS) 是抽血比較中樞與周邊的 ACTH 比例,若 > 3 可懷疑有 Pituitary adenoma;此外,若兩邊採血差 1.5 倍以上,可知 腫瘤長在哪一邊。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].

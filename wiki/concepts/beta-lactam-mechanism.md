@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch20]]"
   - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Beta-lactam mechanism (β-lactam 作用機轉)'
   - 'Beta-lactam mechanism'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch20]]
 - [[sources/med3-book3-ch14]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- 2. 抗生素:因為 *H. influenzae* 和 *M. catarrhalis* 多有 β-lactamase 產生抗藥性,所以 Augmentin 為首選。Augmentin 劑量為 amoxicillin 含量 80~90 mg/kg/day, tid,使用 10 天。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...f Pediatrics 20th Edition 中提到 *H. influenza* 雖然抗藥性不比 *S. pneumoniae*,但是使用高劑量 amoxicillin 無法治療 *H. influenza* 引起的中耳炎,必須加入β-lactamase inhibitor (clavulanate) 才可治療。而 *S. pneumonia* 雖然抗藥性有 50%(抗藥性的原因與 penicillin-binding protein 改變有關),但仍可用高劑量 amoxicillin 去治療中耳炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 【詳解】中耳炎常見致病菌為 S. pneumoniae、H. influenzae、 M. catarrhalis。(A)Streptococcus pneumoniae 是 GPC, 且大多對 high dose amoxicillin 有效。(B) H. influenzae 是 GNB,且多有 β-lactamase,故以 high dose amoxicillin 治療無效。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (D) 檢驗 γGT (γ-glutamyl transpeptidase) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 2. 作用機制 (PCN 為例): 具有 β-lactam ring, 青黴素會穿過細胞壁的 Porin, 之後與細胞膜上的 Penicillin binding protein (PBP) 結合, 而抑制細胞壁合成的最後一個步驟所需的酵素:轉胜肽酶 (Transpeptidase)。細菌可產生各種 β-lactamase 破壞 Penicillin 的 β-lactam ring 或改變 PBP 結構, 使藥物失效, 因而產生抗藥性。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (1) 結構也是 β-lactam, 作用機制與抗藥性的原理與 Penicillin 類似, 但對於許多細菌的 β-lactamases 更為穩定,所以抗菌範圍較廣。毒性也較 Penicillin 類少。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...hin®)可穿透血腦障壁(Blood brain barrier),可用於治療腦膜炎,還可用於治療 Urosepsis、Pneumonia、腹內感染(與 Metronidazole 併用)、淋病(Gonorrhea)。但對會產生 AmpC β-lactamase 格蘭氏陰性菌無效。 - (4) 第四代最廣效,可對抗會產生 AmpC β-lactamase 格蘭氏陰性菌,用於嗜中性球低下病患發燒(Neutropenic fever)或院內感染的經驗性抗生素。其中 Ceftaroline 及 Ceftobiprole 因具有抗 MRSA 能力,又被稱為第五代 cephalosporin。Ceftobiprole 同時可抗 Pseudomonas aeruginosa。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

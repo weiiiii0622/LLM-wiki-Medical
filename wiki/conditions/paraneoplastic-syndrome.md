@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Paraneoplastic syndrome (腫瘤旁症候群)'
   - 'Paraneoplastic syndrome'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch21]]
 - [[sources/med3-book4-ch22]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- 1. 依照腫瘤位置、疾病程度或是否有副腫瘤症候群(paraneoplastic syndrome)表現有關。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 5. 副腫瘤症候群 (paraneoplastic syndrome): - (1) Horner syndrome: 腫瘤在 superior cervical ganglion,造成病人出現單側眼瞼下垂、瞳孔縮小、無汗。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - #### 丁、腫瘤旁症候群 (Paraneoplastic Syndrome) Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - 2. Squamous cell carcinoma 會分泌 PTHrP 造成高血鈣(HyperCalcemia),因為常長在肺尖(Pancoast tumor)而造成肩痛、手臂痠痛、Horner syndrome。 - \*口訣:死龜(Squa)愛搞怪(高鈣),愛爬到肺尖造成肩痛 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].

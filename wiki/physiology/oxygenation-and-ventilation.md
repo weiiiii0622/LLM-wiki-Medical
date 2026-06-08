@@ -20,6 +20,10 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book4-ch29]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Oxygenation and ventilation (氧合與通氣)'
   - 'Oxygenation and ventilation'
@@ -34,7 +38,7 @@ tags:
 
 ## Summary
 
-區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +58,21 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book4-ch29]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- 6. 高度換氣 高氧測試(hyperventilation-hyperoxia test):當在 $FiO_2$ 100% 的氧氣與過度換氣狀況下(100~150/min)下達到 $PaCO_2 \le 25$ mmHg 才能使 $PaO_2$ 上升者需懷疑 PPHN。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (1) 氧氣:利用呼吸器維持病人 $PaO_2$ 在 $50\sim90$ mmHg 以維持適當的組織氧合狀態,同時避免高氧的傷害與高二氧化碳造成肺部血管阻力。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (2) NO 吸入治療:藉由 NO 放鬆血管平滑肌特性調整血管張力。吸入 NO 不但可以 提高組織氧合,更可降低使用 ECMO 的機率, Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- ...為小發作(petit mal),發作時病人會突然出現動作靜止、面無表情;發作期間病人無法藉由呼叫或碰觸喚醒。 - (2) 5 歲以前不常發生,女性較男性好發。發作時不會有 aura,且發作時間很少會 持續超過 30 秒。過度換氣(hyperventilation)持續 3~4 分鐘或是閃光可以誘發 失神發作。 - (3) 失神發作一天內可以發生很多次,甚至可達數十次。然而,complex partial seizure 一天內發生次數不若失神發作般。 - (4) 90% 病人有 automatic behavior。 - (5) EEG 可以發現 3/sec spike 與 generalized wave discharge (整個腦袋亂放電)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (A) 2. 一歲小孩自 6 個月大起,發生數次大哭後面色發黑,並喪失意識, 108( 二) 專 數秒後清醒正常,身體診察無明顯異常,最常見之疾病為何? 醫四-18 - (A) 屏氣發作 (Breath-holding spell) - (B) 先天性心臟病(Congenital heart disease) - (C) 過度換氣症候群 (Hyperventilation syndrome) - (D) 失神發作 (Absence attack) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (C) extracorporeal membrane oxygenation Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (B) 16. 特定疾病或狀況,容易造成兒童阻塞性呼吸暫停(obstructive sleep apnea)或換氣不足(hypoventilation),導致睡眠障礙、 生長不良,甚至腦缺氧,下列何者最不可能? Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 2. 流行病學:最常見的新生兒下消化道阻塞疾病,好發足月產新生兒。每 5,000 位新生兒中就有一位,男性發生比例較高(男:女= 4:1)。與某些先天性疾病有關,如 **Down**, Smith-Lemli-Opitz, Waardenburg, cartilage-hair hypoplasia, and congenital hypoventilation(「Ondine curse」)syndromes and urogenital or cardiovascular abnormalities。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) 換氣過度 (hyperventilation) Source: [[sources/med3-book4-ch29|己、特定議題]].
 - 1. 診斷出呼吸性鹼中毒,要去想為什麼病人會喘(呼吸變快)?診斷出呼吸性酸中毒,要想看看為什麼病人呼吸變慢(hypoventilation),是不是快呼吸衰竭了? Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (1) 若發現 $PaCO_2$ 太低,表示病患呼吸太快(Hyperventilation),有可能是低血氧、酸中毒、疼痛或焦慮等原因刺激呼吸中樞造成的。一方面可以看看胸部 X 光,是否有肺炎、肺水腫等造成低血氧;一方面考慮病人是否因感染導致敗血症或其他原因造成酸中毒,病患用喘來 wash out $CO_2$ 以維持酸鹼平衡。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
@@ -67,10 +83,6 @@ tags:
 - (1) Ranson criteria 大於三項: - a. 住院先檢查 (ASS 是否乳白): Age > 55, Sugar > 200, AST > 250, LDH > 350, WBC > 1 萬 6。 - b. 最初 48 小時內 (快上 BBS 告訴 CHO): Base deficit > 4, BUN 上升 > 5, Sequestration > 6 L, Ca 8 mg/dL, Hct 下降 > 10%, PaO2 60 mmHg。 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
 - (C) 3. 一位 56 歲女性,由美國紐約返回臺北的飛機途中發生暈厥(syncope), 下了飛機後因呼吸不順至急診就診,她以前不曾發生類似狀況,平常 亦無特殊疾病,身體檢查發現血壓 120/70 mmHg,心跳 126 次 / 分, 呼吸 28 次 / 分,體溫 37.2℃,呼吸音及心音皆正常,四肢活動自如, 無腫脹現象,在給予 40% 氧氣五分鐘後,動脈氣體分析為 pH=7.48, PaO2=70 mmHg, PaCO2=28 mmHg, O2 saturation=92%, 此時應安排 下列那一項檢查最適當? Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 - (B) 5. 下列有關肺栓塞 (pulmonary embolism) 的診斷敘述,何者錯誤? 105(ニ) 專 (A) 氣促 (dyspnea)、胸痛、咳血等症狀不具特異性 醫ニ-51 - (B) 診斷主要靠肺血管攝影 (pulmonary angiography) - (C) 血清中 d-dimer 的檢測具有高敏感度、低特異性的特點 - (D) 使用核醫通氣-灌注肺掃描檢查,會出現「通氣-灌注不吻合」 (ventilation-perfusion mismatch)的影像 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
-- #### D. 診斷:急性發作、氧合異常( $PaO_2/FiO_2 a | Bilateral opacities — not fully explained by effusions, lobar/lung collapse, or nodules | | Origin of edema | Respiratory failure not fully explained by cardiac failure or fluid overload | | | Need o Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- 2. 低潮氣容積和低氣道高原壓 (Low TV = 6~8 mL/kg, Low Pplat 2O) - (1) 傳統上認為高潮氣容積通氣 (High tidal volume ventilation) 可減少肺扁塌 (Atelectasis),所以將呼吸器的潮氣容積 (Tidal volume) 設到 10~15 ml/kg,相對於一般人靜止呼吸時的潮氣容積僅有 6~7 ml/kg。[換算時,體重須用 Predicted BW 帶入,指引建議可用衛生署公告之理想體重替代:男性:(身高-80 cm)×0.7;女性:(身高-70 cm)×0.6] - (2) 對 ARDS Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- (1) 低潮氣容積通氣較易造成末端小氣道塌陷、造成肺扁塌(Atelectasis),給予呼氣 末正壓(PEEP)可在呼氣過程維持和穩定肺泡持續張開,使肺泡回復(Alveolar recruitment)原來正常的生理狀態,不再塌陷,改善通氣,降低肺內分流,增加氧合。 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- ...按壓中斷 | 儘量避免中斷胸部按壓的施行嘗試將中斷時間限制為不超過 10 秒 | | | | | | | 呼吸道 | 壓額提瀕(醫護人員懷疑發生創傷:下顎前推) | | | | | | | | | 30 | ):2 | | | | | 按壓通氣比率(直到已放置 | 30:2 | 單一施救者 | | | | | | 高級呼吸道裝置) | 1或2名施救者 | 15 | 5:2 | | | | | | ta e souls Course orderes | 2 位醫護人員施救者 | | | | | | 通氣:當施救者未經訓練或經過訓練但尚不熟練時 | | 單純按壓 | | | | | | | 每 | 6~8 秒 1 次呼吸 (8~10 次呼吸 / 分 | 鐘) | | | | | Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 
 ## Clinical Caveats
 
@@ -79,7 +91,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/neonatal-respiratory-distress-syndrome|Neonatal respiratory distress syndrome, RDS (新生兒呼吸窘迫症候群)]]
 
 ## Follow-up
 

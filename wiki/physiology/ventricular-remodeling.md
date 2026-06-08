@@ -23,6 +23,11 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Ventricular remodeling (心室重塑)'
   - 'Ventricular remodeling'
@@ -37,7 +42,7 @@ tags:
 
 ## Summary
 
-心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +65,23 @@ tags:
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- ...----------------------------------------------------------------|--------------| | | | (C) 腹部超音波 (D) 汗液試驗(sweat test)及囊性纖維化病(cystic fibrosis)之 基因檢測 | | | | | 【詳解】兩天未解胎便,肛門指診發現肛門括約肌壓力上升而非反射性下降,故優先懷疑先天性巨結腸症(Congenitalaganglionic megacolon, Hirschsprung disease)。先天性巨結腸症確定診斷則是做病理切片檢查。 | | | (D) | 4. | 下列有關先天性巨大結腸症(Hirschsprung disease)之敘述,何者錯誤? Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 3. 確切的原因仍不明,但有懷疑某些病毒感染造成,如 reovirus、CMV、HPV、 rotavirus C。此疾病的病程為一漸進性的發炎反應,造成膽道的纖維化及膽汁鬱積, 最終造成肝硬化。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...agulable state)也與門脈栓塞有關。少見發生原因則與解剖構造發展異常有關:agenesis, atresia or stenosis of the portal vein。 - b. 肝門靜脈流動受阻: 急性或慢性肝炎、先天性肝纖維化 (congenital hepatic fibrosis)、血吸蟲病 (schistosomiasis)、肝硬化。 - (3) Posthepatic: - a. Budd-Chiary syndrome: 肝靜脈到下腔靜脈間發生栓塞導致血流受阻。原因 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (3) 慢性發炎反應: Th2 細胞分泌的 cytokine 中,IL-4, IL-9, IL-13 會使黏液(mucus)分泌增加,IL-4, IL-13 會刺激纖維母細胞(fibroblast)生長,而 IL-5,IL-9 會增加表皮細胞下纖維增生(subepithelial fibrosis);嗜伊紅性白血球分泌的 IL-11 也會造成 subepithelial fibrosis 及 fibroblast 的堆積,這些都會促成 tissue remodeling,使發炎成為慢性或不可逆。組織的發炎可能維持數日至數年。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (D) 組織的重模組化(remodeling)造成氣管不可逆的組織變化 而使疾病成慢性且持續 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 4. Scleroderma 硬皮症:最早的表現通常為雷諾氏現象(Raynaud's phenomenon),即指(趾)尖因小動脈痙攣而出現白→黑→紅的顏色變化,也常伴隨著痛和麻。之後可能逐漸出現手指皮膚緊繃(sclerodactyly),逐漸往身體近端皮膚蔓延。可能影響肺部而造成肺纖維化及肺高壓。自體免疫抗體方面,ANA 常為陽性,而且如果anti-Scl70 或 anti-centromere 陽性則 scleroderma 的可能性很大。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 4. 診斷: 診斷方法仍是以詳細的病史詢問與臨床表現為主。一歲以前確立診斷的病人,血液鉀濃度通常低於 2.5 mmol/L 並且合併代謝性鹼中毒。低血鎂只會出現在極少數的 Bartter syndrome 病人,但在 Gitelman syndrome 低血鎂很常見。另外,由於 Bartter syndrome 病人氯離子流失,因此尿液檢查也可以發現氯離子濃度上升,這可與慢性嘔吐(chronicvomiting)以及囊腫性纖維化(cystic fibrosis)病人做鑑別診斷(這兩種病人尿液檢查氯離子濃度是低下表現)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (1) 最常見的原因為囊性纖維化疾病、過多類固醇使用、胰臟切除(治療高胰島素 血症造成低血糖)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (C) 11. 早產兒呼吸窘迫症候群其第一天時胸部 X 光的變化不包括下列那 104( 二 ) 專 一項? 醫四 -5 - (A) 氣管空氣影像 (air bronchogram) - (B) 網狀顆粒影像(reticulogranular pattern) - (C) 纖維化變化 - (D) air leakage Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 2. 病生理:免疫失調造成血管病變(Vasculopathy)、纖維化(Fibrosis) - (1) 血管病變(Vasculopathy):早期以血管對冷的反應改變表現,稱為雷諾氏症候群(Raynaud's Phenomenon),慢慢的管壁發炎、纖維化,導致血管阻塞(Obliterative vasculopathy),最後造成手部尖端開始缺血壞死、腎臟也因慢性缺血而萎縮等。 - (2) 纖維化(Fibrosis):由 Th2 細胞製造 TGF- $\beta$ ,進而刺激纖維母細胞(Fibroblast)持續不斷進行纖維化。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...Edematous phase),幾個月後就可能開始皮膚硬化(Fibrotic phase);皮膚硬化會超過手肘或膝蓋,包含軀幹; - b. Anti-topoisomerase (scl-70) 陽性病患較快發生間質性肺病 (ILD)、肺纖維化; 還可能併發腎臟急症 (Scleroderma renal crisis)。 - (2) Limited cutaneous SSc (lcSSc): - a. 病程進展較慢,雷諾氏症候群幾年後才會慢慢有其他表現,皮膚硬化僅限於手指硬化(Sclerodactyly)及遠端肢體(Distal to elbow and knee), 軀幹通常不受影響,預後較好,但病程晚期可能併發肺動脈高壓(PAH)。 - b. 其中有一亞型,稱作 CRE Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - 4. 診斷準則:有主要 (Major) 標準或兩項次要 (Minor) 標準 - (1) 主要(Major)標準:指(趾)(超過 MCP/MTP)、四肢、面部、頸或軀幹的皮膚硬化 - (2) 次要 (Minor) 標準: - a. 指(趾)硬化(Sclerodactyly)。 - b. 指(趾)凹陷性瘢痕(Digital pitted scarring)。 - c. 兩側肺底部纖維化 (Bibasilar pulmonary fibrosis)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
@@ -72,15 +91,6 @@ tags:
 - | 骨髓狀況 | 代表疾病 | |-------------------------|-------------------------------------------| | 骨髓細胞少 (Hypocellular BM) | 再生不良性貧血 (Aplastic anemia, AA) | | 骨髓細胞適量 (Cellular BM) | 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) | | 骨髓被取代 (Myelophthisis) | 原發性骨髓纖維化 (idiopathic myelofibrosis) | | 全身疾病 (Systemic disease) | 肝硬化等導致脾腫大 (Hypersplenism)、敗血症 (Sepsis) | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - \*Follicular lymphoma 中,Bcl-2 的過度表現使得細胞無法走向凋亡(Apoptosis)。 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - 治療相關:放射治療(肺纖維化)、化學治療(Methotrexate、Bleomycin)、手術治療 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (c) 小動脈透明化(hyalinization),同時侵犯出球和入球小動脈,最後腎小管間質纖維化將出現。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- b. 表現:廣泛的腹膜纖維化,導致腸子被包覆,造成 ileus、噁心、腹痛、排便不順、 食慾變差、體重減輕,甚至造成腹膜沾黏。 Source: [[sources/med3-book3-ch06|己、透析治療]].
-- ...| 少數演化成肝硬化,肝 | 肝功能上升,可導致臨 | | 表現 | 象 | 導致臨床上的急性發作 | 癌 | 床上的急性發作(acute | | | | (acute exacerbation) 可 | | exacerbation),肝纖維化 | | | + | 能產生肝纖維化甚至肝 | | 肝癌的風險上升。 | | | | 癌,因此這段時間應該 | | | | | | 越短越好。 | | | Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...於 1%。 | 99(一)專醫三-14 | | (C) 29 | 2. 朱女士,45 歲,20 年前因開刀輸血感染 C 型肝炎,目前 AST 60 U/L,ALT 85 U/L,肝生檢(biopsy)顯示為第二期(Metavir F2)之肝纖維化。下列敘述何者錯誤?(A) 朱女士應定期接受肝癌篩檢,包括腹部超音波和甲型胎兒蛋白(B) 朱女士可接受抗病毒治療(C)目前 C 型肝炎之標準治療為長效型干擾素(pegylated interferon)合併雷巴威林(ribavirin)和蛋白酵素抑制劑(protease inhibitor)(D) 若能清除 C 型肝炎病毒,可減少肝硬化和肝癌之風險【詳解】(C) 不包含蛋白酵素抑制劑。 | 99(一)專醫三-15 | | (D) 30 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...GOT 值及 GPT 值都維持 150 97(二)專 U/L 左右(兩項正常值均為 0-35 U/L), C型肝炎抗體陽性, B型肝 醫三-22 炎表面抗原陰性反應,表面抗體陽性反應,核心抗體陽性反應,接 受肝穿刺檢查,病理報告顯示中等度纖維化及發炎。請問以下之治 療藥物何者是最佳選擇? (A) Interferon + Ribavirin (B) Interferon + Lamivudine (C) Interferon + Adefovir (D) Interferon + Entecavir (B) 34. 慢性病毒性肝炎病人若長期酗酒,以下列何者最易造成肝硬化? 97(二)專 (A) B 型 (B) C型 醫三-23 (C) D型 (D) E型 (C) 35. 一位 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...sphincter, LES)無法放鬆,食物會積在食道,可能多到會跑到氣管內,而有呼吸道症狀或咳嗽、嘔吐等。 - (3) 長期有 heartburn 的症狀,可懷疑是 scleroderma,因為 scleroderma 的病人其食道 肌肉纖維化,導致下方括約肌 LES 無法收縮,容易有胃酸逆流、heartburn 症狀。且食道蠕動推進功能受損,亦可導致吞嚥困難。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- ...氧化氮(NO)的神經元亢奮造成 (C)可以內視鏡放置食道支架(esophageal stent)治療 (D)可以內視鏡注射肉毒桿菌素治療 【詳解】本題病症應是指 Achlasia 為下食道括約肌無法放鬆;(A)硬皮症應是觀察到食道肌肉萎縮、纖維化,導致 LES 關不緊,易有胃酸逆流典型症狀(胸痛、嘔酸水等);(B) 應是含有一氧化氮(NO)的神經元被破壞;(C)食道支架(esophageal stent)較常用在惡性疾病造成的狹窄例如:食道癌末期的 palliative treatment,用在食道黏膜正常之鬆弛不能的病人容易滑脫。 | 92(一)専内1-12 | Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- ...由左側往右側進展) | | 陽盲腸交界處、不侵犯直腸) | (特別是直腸) | | 跳躍式、全層發炎 | 連續性、僅黏膜層發炎 | | 切片可見肉芽腫 (granuloma)、瘻管、 | 隱窩膿瘍 (Crypt abscess)、 | | 纖維化→狹窄阻塞 | 假性息肉 (Pseudopolyp) | | 15% Erythema nodosum (EN) | 10% Erythema nodosum (EN) | | Less Pyoderma gangrenosum (PG) | 1~12% Pyoderma gangrenosum (PG) | | ASCA (Anti-saccharomyces Cerevisiae Ab) | ANCA (Antineutrophil Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- ...rative | →此時須作 雷射光凝固治療 (Laser photocoagulation)!!! | | diabetic retinopathy) | →否則易併發玻璃體出血 (Vitreous hemorrhage) | | | →纖維化→牽拉性視網膜剝離 (Traction retinal detachment) | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 
 ## Clinical Caveats
 

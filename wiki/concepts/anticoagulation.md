@@ -25,6 +25,10 @@ sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Anticoagulation (抗凝治療)'
   - 'Anticoagulation'
@@ -39,7 +43,7 @@ tags:
 
 ## Summary
 
-血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +68,20 @@ tags:
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch10]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- ...factor 7, tissue factor。 - (3) 共同路徑: factor 10a, 5a, 2, 1。 - (4) 記法: EX-PresidenT K went to WAR. (Extrinsic, PT, Vit K, Warfarin)。 - (5) 特殊因子: - a. Factor 7 是半衰期最短的因子。 - b. Factor 8 是唯一不由肝臟製造的因子。 - c. Factor 13 缺乏時無法由 PT/PTT 測得。 - d. Vit K dependent 的因子:factor 2, 7, 9, 10 和 protein C, protein S。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- # D. Warfarin 和 heparin Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (1) Initial: heparin 75 U/kg, IVD for 10 mins • Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (4) 發生冠狀動脈病變的病人,長期處理: (參考) - a. Aspirin 3~5 mg/kg,一天一次給藥。視情況加上 dipyridamole 4~6 mg/kg/24 hr,一天分成兩至三次給藥。 - b. 具有產生血栓高風險的病人(冠狀動脈有明顯擴大者), 甚至會給予 warfarin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (B) 使用高劑量 Aspirin (80~100 mg/kg/day) 是為了抗凝血作用 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 5. Prothrombin time (PT) - (1) 與白蛋白相同,用來評估肝臟合成功能的指標。 - (2) 除了 factor VIII 以外,其餘凝血因子均由肝臟製造。因此發生嚴重的肝功能受損時,除了 PT 延長以外, aPTT 亦會延長。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 6. 血液高凝狀態(hypercoagulability):由於血管內水分的流失,血小板與 coagulation factors 在血液中濃度上升,增加血栓形成機會。此外,肝臟製造 fibrinogen 的增加以及抗凝血因子(antithrombin Ⅲ and protein S)從腎臟流失,也是造成血栓形成機會增加。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...------------------------| | 病理缺陷 | Platelet/ vascular defect | Coagulation defect | | 實驗室檢查 | Bleeding time (BT) | PT \ aPTT | | 出血處 | 皮膚、黏膜 | 肌肉、關節 (Deep in soft tissue) | | 病灶名稱 | Petechiae, Ecchymosis | Hemarthroses, Hematomas | | 出血時機 | 小切傷,較立即、輕微 | 大手術,較延遲、嚴重 | | | 如:流鼻血、刷牙流血 | 如:血膝、爬山後肌肉內血腫 | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 2. 血管缺陷:如 Senile purpura,老年人皮下脂肪減少,尤其是四肢伸側,皮一拉,血管易破。CBC、PT、aPTT 皆正常,Senile purpura 不需治療,僅需觀察。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (2) 破壞增加: - a. Immune thrombocytopenic purpura (ITP): - (a) 病因:因未知的原因,身體產生 Anti-PLT Ab,使血小板被破壞。 - (b) 診斷:好發於 15~30 歲女性,藉由排除其他血小板低下的病因後診斷。 - (c) 實驗室檢查: CBC 只見 Plt ↓ 需檢查 ANA、HIV、EBV、Hepatitis virus 以排 除其他次發性原因; Anti-plt Ab 僅具低敏感度及低專一性。 - (d) 治療: - i. Plt > 30,000: 不需治療。(目前治療 guideline 建議維持 30,000 以上) - ii. Plt 10 萬,通常沒有臨床症狀,可繼續使用 heparin,觀察即可。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
@@ -78,13 +93,6 @@ tags:
 - ...(a) 血液抹片上看到 Fragment RBC, 須懷疑 TTP、DIC等原因造成血管壁不平順, 導致溶血; 若是 TTP 須進行血漿置換, 而 DIC 則是控制背後引發 DIC 的病因, 如敗血症等。 - (b) TTP 不會有 PT、aPTT 延長問題,而 DIC 必合併凝血問題 (PT、aPTT 延長)。 - (c) 非免疫還有包括 enzymopathy 如蠶豆症、hemoglobinopathy 如 hemoglobin H、感染如 malaria 等。 - c. 免疫 (Autoimmune hemolytic anemia, AIHA): - (a) 測 Coombs' test 可知血中是否有攻擊 RBC 的抗體, 測法有兩種: Source: [[sources/med3-book4-ch10|甲、貧血]].
 - Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...G 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease ACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistant to aldosterone) | | 服用利尿劑 Spironolactone服用抗生素 Trimethoprim | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...--------------------------------------------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(c Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...| | | SLED | 1週3次, | 介於兩者間 | | (Sustained low efficiency dialysis) | 每次 8~10 小時 | | | CRRT→逐漸矯正病人生化異常 | 連續 24 小時 | 需使用較多抗凝劑 | | (Continuous renal replacement therapy) | | 低體溫(無法察覺病患發燒) | Source: [[sources/med3-book3-ch06|己、透析治療]].
-- (B) captopril (D) warfarin Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- ...otal T4 ↑ | Free T4 ↑ | 抑制 T4→ T3 | Amiodarone · Propranolol | | (Euthyroidism) | Total T4 正常 | Free T4 ↑ | T4 離開 TBG | Heparin · LMWH | | | Total T4 ↑ | Free T4 正常 | 增加 TBG | 雌激素 (Estrogen)、懷孕、肝炎、肝 | | | | | | 硬化 | | | Total T4 ↓ | Free T4 正常 | 減少 TBG | 雄激素 (Androgen) | | 甲狀腺功能低下 | Total T4 ↓ | free T4 ↓ | 抑制 TSH | Glucocorticoid, Dopamine, | | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- a. 凝血因子(PT、aPTT): 若肝臟製造能力下降,可在短時間內表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- 2. 藥物選擇: - (1) 非口服抗凝劑 (parental anticoagulant) 可選擇 Heparin, LMWH, fondaparinus。 - (2) 傳統口服抗凝血藥物: Warfarin, 容易與食物或藥品產生經互作用,需監測凝血功能; 出血風險較高。 - (3) 新型口服抗凝血藥物(Noval oral anti-coagulants, NOAC 如 rivaroxaban,dabigatran,apixaban)效果不亞於 warfarin,且出血事件較為減少。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 
 ## Clinical Caveats
 

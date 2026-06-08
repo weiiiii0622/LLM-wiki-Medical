@@ -18,6 +18,8 @@ sources:
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch15]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Stomach (胃)'
   - 'Stomach'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,15 @@ tags:
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch15]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- V. 胃與腸道 (Stomach and Intestines) 68 - A. 肥厚性幽門狹窄 68 - B. 十二指腸閉鎖 71 - C. 腸轉位異常 71 - D. 腸套疊 72 - E. 梅克爾氏憩室 73 - F. 功能性便秘 74 - G. 先天性巨腸症 75 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (1) 當放置 nasogastric 或 orogastric tube 無法再放得更深入時,懷疑食道發生閉鎖。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- # V. 胃與腸道 (Stomach and Intestines) Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...獲得來源缺乏。 - b. 吸收不良 (malabsorption): 如 celiac disease、short bowel syndrome、cystic fibrosis、inflammatory bowel disease and gastric bypass surgery。 - c. 肝膽相關疾病:如先天性膽道閉鎖。 - d. 腎臟疾病:如 nephrotic syndrome、renal 1-alpha hydroxylase deficiency (造成 1,25(OH)2 D 缺乏,即 vitamin D dependent rickets type I)。 - e. 藥物: anticonvulsants、glucocorticoids、cholestyramine Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...imary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...Epstein-Barr 病毒感染 (D) 人類乳突病毒感染 (HPV) | 107(二)專醫三-36 | | (B) | 4. 有關微生物及癌症的關係,下列何者關聯性最低? (A) Helicobacter pylori vs. 胃癌(gastric cancer) (B) Human papilloma virus vs. 子宮癌(uterine cancer) (C) Human herpesvirus type 8 vs. 卡波氏肉瘤(Kaposi's sarcoma) (D) Epstein-Barr virus vs. 霍金氏淋巴癌(Hodgkin's lymphoma) | 106(二)專醫三-60 | | (C) | 5. 一位 33 歲男性病人,有一約 6 cm 前 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - (D) Helicobacter pylori: gastric mucosa-associated lymphoid tissue (MALT) lymphoma Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
@@ -67,10 +75,6 @@ tags:
 - (B) 1. 關於胃息肉症(gastric polyposis),下列何者錯誤? Source: [[sources/med3-book2-ch05|庚、胃疾病 – 其他]].
 - (C) 2. 胃的惡性腫瘤中,約有 15% 為惡性淋巴癌,即原發性胃淋巴瘤 (primary gastric lymphoma)。以下相關的敘述中,何者正確? Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...-----------------------------------|------------------| | | (B) 萎縮性胃炎 (atrophic gastritis) | | | | (C) B 細胞胃淋巴癌 (B cell gastric lymphoma) | | | | (D) 十二指腸潰瘍(duodenal ulcer) | | | | 【詳解】本題一律給分。 | | | (#) | 6. 下列有關幽門螺旋桿菌之敘述,何者正確? | 106(一)專 | | | (A) 由於 urease test 之診斷率過低,因此需以細菌培養來確立診斷 | 醫三 -29 | | | (B) 無潰瘍之消化不良患者,若罹有此菌,國際共識認為需要殺菌 | - | | | (C) 將幽 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- ...心血管風險 【詳解】(A)加上 aspirin, 腸胃出血風險增加;(B)會;(D)某些 NSAID (diclofenac、ibuprofen)會增加心血管風險,某些(naproxen) 不會。 (B) 15. 下列何者不會增加胃腺癌 (gastric adenocarcinoma) 的風險? 102(二)專 (A) 幽門螺旋桿菌感染 醫三-20 (B) O 型血型 (C) 胃部分切除術後 20 年 (D) 惡性貧血 【詳解】部分研究認為 A 型血型較 O 型血型容易得胃癌; O 型血 型較 A 型血型容易得胃潰瘍,但仍有爭議。 [記憶] cAncer, U(O)lcer (B) 16. 一位 55 歲男性主訴解黑便 3 天,內視鏡檢查發現為十二指腸潰瘍, 102(一)專 除了制酸藥 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- 3. 胃鏡(UGI endoscope): 可診斷兼治療上消化道出血 - (1) 食道靜脈瘤 (Esophageal varices) / 胃靜脈瘤 (Gastric varices): 常有肝硬化的病史 - a. 急性出血時可給予 Octreotide 降低肝門靜脈壓力,控制出血。 - b. 可由胃鏡將食道靜脈瘤結紮 ligation,或直接於食道/胃靜脈瘤施打硬化劑(急性出血或預防出血可用)。 - c. 急性食道靜脈瘤出血時,文獻證實給予抗生素有助於降低再出血風險。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- (A) 10. 一位 55 歲男性至急診就醫,主訴 3 天來感覺頭暈,站立時較嚴重, 躺臥時可緩解。除此以外無任何不適。平日偶爾會服用非類固醇類 消炎止痛藥治療關節痠痛。理學檢查無明顯腹部壓痛,腸音蠕動正 常。肛門檢查發現有血便,在急診安排胃灌洗 (gastriclavage)、胃 鏡以及大腸鏡檢查皆無發現異常。住院後進行血管攝影也無異常。 然而病人的血便仍持續。以下何者為最適合的下一步檢查? Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- (A) 胃腺癌 (gastric adenocarcinoma) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

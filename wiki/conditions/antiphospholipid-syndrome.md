@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch09]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Antiphospholipid syndrome, APS (抗磷脂質抗體症候群)'
   - 'Antiphospholipid syndrome, APS'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-以動靜脈血栓或妊娠 morbidity 合併 antiphospholipid antibodies 為核心。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以動靜脈血栓或妊娠 morbidity 合併 antiphospholipid antibodies 為核心。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch09]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- h. Immunologic disorder 免疫學異常: - (a) Anti-dsDNA 陽性或 - (b) Anti-Smith (Anti-Sm) 陽性或 - (c) Anti-phospholipid Antibodies 陽性: - i. Anticardiolipin antibodies 陽性或 - ii. Lupus anticoagulant 陽性或 - iii. False positive serology test for syphilis • Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (4) 另外,其它會出現在 SLE 病人的自體抗體有 anti-Ro/La antibody 或是 antiphospholipid antibody (詳見 Nelson's Textbook of Pediatrics 21st Edition Table 183.6) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...with cutaneous and pulmonary | | | | manifestations of SLE | | | | May be associated with isolated discoid lupus | | | Antiphospholipid antibodies | Increased risk for venous and arterial thrombotic events | | | (including anticardiolipin | | | | antibodies) | | | | Antihistone antibodies | Present in a majority of patients with drug-induced lupus | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...(15%) | ) | | | (重要必記熟,因為缺血時,骨髓會連血小板一起做出來)。 | | | (D) | 5. 中國人靜脈血栓症盛行率遠比白種人低,因為中國人罕見下列那項 | | | | 疾病? | 內 1-11 | | | (A) 抗磷脂症候群(antiphospholipid syndrome) | | | | (B) S 蛋白缺乏(protein S deficiency) | | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - (#) 1.40 歲李女士約3年前診斷為全身性紅斑狼瘡(systemic lupus erythematosus),除發病時曾有關節腫痛與皮膚紅斑外,近2年病情尚稱穩定。李女士過去驗血就知道血中的抗心脂抗體(anticardiolipin antibodies)很高,為正常上限值的3倍,但過去並不曾發生血管栓塞。本次因左腿急性腫痛至急診室求診,影像學檢查見左腿有深部靜脈栓塞(deep vein thrombosis)。下列處置何者最為適當? - (A) 加上 aspirin,每日 100 毫克 - (B)加上口服 warfarin,希望目標 international normalized ratio (INR) 2.0~2.5 - (C) 應立即用高劑量類固醇治療 - Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - 5. 心肺:常見肋膜炎(Pleuritis)、心包膜炎(Pericarditis)、Libman-Sacks endocarditis(與疾病罹病時間、活性、APS 相關,最常見於 MV)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

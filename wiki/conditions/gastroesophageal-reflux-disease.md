@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch03]]"
   - "[[sources/med3-book2-ch22]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Gastroesophageal reflux disease, GERD (胃食道逆流)'
   - 'Gastroesophageal reflux disease, GERD'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-胃酸逆流造成 heartburn、食道炎或併發症，治療包含生活型態與抑酸藥物。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃酸逆流造成 heartburn、食道炎或併發症，治療包含生活型態與抑酸藥物。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ tags:
 - [[sources/med3-book2-ch07]]
 - [[sources/med3-book2-ch03]]
 - [[sources/med3-book2-ch22]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- IV. 食道(Esophagus) 64 - A. 先天性食道閉鎖與食道氣管瘻管 64 - B. 裂孔疝氣 67 - C. 胃食道逆流疾病 67 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 5. 治療:外科方式治療。在手術前最重要的處理方式為預防病人嗆到,故讓病童維持 prone positioning。術後有些合併症也須注意,如 anastomotic leak、refistulization 以及 anastomotic stricture。此外,有些病人會出現 GERD。出現 GERD 時同時常合併 胃排空能力不佳情形。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (1) sliding hiatal hernia 通常會有胃食道逆流,好發在 mental retarded 病童。內科治療方式只是用來處理胃食道逆流疾病,而非 hiatal hernia 本身。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 能不足。PS:Angelman syndrome,即俗稱的「天使症候群」。 這類的病人臨床上有肌張力低下、餵食困難、胃食道逆流、 膚色或髮色較淺(fair skin and hair)、臉部發育異常(midface hypoplasia、prognathism)、癲癇發作、神經肌肉發展異常(limb tremor and ataxia)、語言發展遲緩(poor or absent speech)、不 自主大笑(inappropriate laughter)以及嚴重智能不足。天使症 候群的病人隨著年紀增長,臨床表現越加明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 3. 若胃鏡正常,仍懷疑 GERD,可使用 Ambulatory 24-hour ph monitoring,將 probe 放於 LES 上 5 公分監測,是目前用來定量酸暴露的最佳方法。另有一 Bernstein test -以 0.1% HCL 刺激看是否能引發相同症狀,可作為輔助。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - (B) 1. 下列那些藥物可能會加重逆流性食道炎(reflux esophagitis)? 105(ー)専 ①降血脂藥(HMG-CoA reductase inhibitor) ②高血壓用藥(calcium channel blocker) ③氣喘用藥(theophylline) ④抗過敏薬物(antihistamine) - (A) (1)(2)(3) - (B) 僅②③ - (C) (3)(4) - (D) (1)(2)(4) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - (D) 應建議他減重,並少喝酒、咖啡及茶,少吃油脂類及酸性食物 【詳解】目前本國健保雖給付 GERD LA Gr. A 使用 4 個月 PPI 治療, 但因本題為無症狀健檢民眾,可考慮先進行生活習慣改善。目前對 GERD LA Gr. A 是否需要追蹤,共識傾向無症狀且無任何疾病史不 需追蹤。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
@@ -55,6 +63,7 @@ tags:
 
 - [[conditions/barrett-esophagus|Barrett esophagus (巴洛氏食道)]]
 - [[diagnostics/esophageal-ph-monitoring|Esophageal pH monitoring (食道酸鹼監測)]]
+- [[drugs/h2-receptor-antagonists|H2 receptor antagonists (H2 受體拮抗劑)]]
 - [[physiology/lower-esophageal-sphincter-pressure|Lower esophageal sphincter pressure (下食道括約肌壓力)]]
 - [[drugs/proton-pump-inhibitors|Proton pump inhibitors, PPI (質子幫浦抑制劑)]]
 

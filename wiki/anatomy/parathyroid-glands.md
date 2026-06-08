@@ -16,6 +16,10 @@ sources:
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch16]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Parathyroid glands (副甲狀腺)'
   - 'Parathyroid glands'
@@ -30,7 +34,7 @@ tags:
 
 ## Summary
 
-副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +50,22 @@ tags:
 - [[sources/med3-book4-ch21]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch16]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- # A. 副甲狀腺低下 (Hypoparathyroidism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 1. 機轉:導因於第 22 對染色體短臂缺損(del 22q11),造成胚胎時期的咽囊(pharyngeal pouch)發育異常。而這胚胎時期的咽囊系統,往後將會發育成胸腺、甲狀腺、副甲狀腺、主動脈弓、中/外耳、顎骨、下頷等許多構造,因而產生不等程度的先天發育異常。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (3) 內分泌: 副甲狀腺低下造成低血鈣,有時亦有甲狀腺低下的情形。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 5. 預後: CATCH 22 症候群患者的預後取決於其心臟疾病的嚴重性、副甲狀腺低下的程度、免疫功能與智力發展。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (1) DiGeorge syndrome: - a. 致病機轉及特色:胚胎發育早期,第三及第四 pharyngeal pouch 發育異常,造成胸腺及副甲狀腺缺乏或發育不良(aplasia/hypoplasia),因此會有 T 細胞免疫不全(胸腺缺乏造成)及低血鈣(副甲狀腺素缺乏造成)。病人大多有 chromosome 22q11.2 的 microdeletion。病人也常合併有先天性心血管異常(cono-truncal anomalies, tetralogy of Fallot, interrupted aortic arch,右側主動脈弓;心房或心室中膈缺損…)及其他先天異常如食道閉 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 【詳解】DiGeorge syndrome 在胚胎發育時第三與第四鰓弓發育 異常,造成胸腺缺乏(T細胞免疫不全)與副甲狀腺發育不良 或缺乏(低血鈣)。 醫四 -22 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 【詳解】由題目敘述可知道病人有發紺型先天性心臟病。右手血壓明顯高於其他三肢,表示主動脈在左右手分枝之間出現異常,有可能是斷裂造成(interrupted aortic arch with PDA),亦即type B IAA。Type B IAA 很常合併 CATCH22 syndrome。這類病人常有臉部發展異常、胸腺發育不良或是有副甲狀腺低下造成低血鈣。故選(D)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...----------------------------------------------------------|------------------| | (C) | 腫瘤旁症候群(paraneoplastic syndrome)中,副甲狀腺素相關胜肽(parathyroid hormone-related peptide)的產生最常見於何種肺癌的組織學型態? (A) 小細胞肺癌(small cell lung cancer) (B) 腺癌(adenocarcinoma) (C) 鱗狀細胞癌(squamous cell carcinoma) (D) 大細胞肺癌(large cell carcinoma) | 107(一)專醫三-48 | | (B) | 3. 下列腫瘤何者較 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - 2. 危險因子: (Harrison table 327-2) - (1) 年紀大、 - (2) 副甲狀腺亢進、低鎂、低磷、鐵沉積, - (3) 慢性痛風、半月板切除過(Post-meniscectomy)等。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (C) parathyroid hormone Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
@@ -58,10 +75,6 @@ tags:
 - 2. 實驗室檢查:有無貧血、腎性骨病變、高血磷、低血鈣、副甲狀腺機能亢進等。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - 2. 毒素在尿毒症病人組織或血漿濃度應超過正常人,且濃度愈高,症狀越明顯;濃度降至正常之後,此症狀應消失,一般認為尿素、副甲狀腺素、 $\beta_2$ -microglobulin 為符合上述定義的毒素。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...造減少,造成血管收縮、高血壓、免疫功 | | | | compounds) | 能異常和神經學上的變化。P.s Guanidinosuccinic acid 會干擾血小板凝集功能 | | | 電解質 | | 尿毒症病人血中磷酸鹽值升高,造成副甲狀腺功能亢進及皮膚癢, | | | | | 減少活性維生素D的製造 | | | 代謝性 | 竣 中毒 | 尿毒症時腎臟無法增加 ammoniagenesis,故會造成酸中毒, | | | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | | 導致噁心、嘔吐、胃口差、加速骨中礦物質流失、增加胰島素抗性等 | | | 中分子及蛋白質 | | 副甲狀腺素、β 2 -microglobulin、過度糖化終產物 (a Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...) [ 常考!] | | | | hyperreninemic | origin | 2. Posthypercapnic state | | | | hyperaldosteronism | | 3. Hypercalcemia/hypoparathyroidism | | | | | | 4. Recovery from lactic acidosis or ketoacidosis | | | | | | 5. Nonreabsorbable anions (penicillin, carbenicillin) | | | | | | 6. Mg 2+ deficiency | | | | | | 7. K + depletion | | | | | | 8. Bartter's syn Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...,電解質:Na 139 mmol/L,K 5.8 mmol/L,Cl 103 mmol/L,Ca 7.8 mg/dL,P 7.0 mg/dL。有關此病人的處置下列何者較不適當? (A) 給予 erythropoietin 注射 (B) 病人副甲狀腺素濃度通常會上升,可先用 CaCO₃ 控制磷離子(C) 可考慮給予血管張力素第一型受體抑制劑(angiotensin type I receptor blocker)減緩腎功能衰退 (D) 可考慮開始透析治療 | 102(一)專醫三-26 | | (B) | 8. 一位 13 歲兒童發生嚴重水腫,每日尿蛋白平均排泄量為 5.6 公克,血清白蛋白偏低,血中膽固醇升高,其腎臟切片在光學顯微鏡看來最常見的變化為何?(A) 腎小球間質細胞增生( Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- A. 鈣離子平衡 I 一副甲狀腺素 (Parathyroid hormone)、維他命 D (Vit. D)、抑鈣素 (Calcitonin) Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- 1. 副甲狀腺素 (PTH): [重點:低鈣時→副甲狀腺被刺激→溶解骨頭以升鈣] - (1) 要先知道骨頭是由磷酸鈣構成,要升鈣,先從骨頭搬出磷、鈣,再將磷由腎臟排出、 且抑制鈣由腎排泄,因而藉此升鈣;否則溶解出磷、鈣後,不將磷由腎臟排出,又 會等比例沉澱回骨頭。 - (2) 因此生理上的 PTH 除了會促進骨溶蝕出鈣、磷,還會抑制腎排鈣、促進腎排磷,造成高血鈣、低血磷; - (3) 副甲狀腺亢進時分泌的 PTH 劑量較大、且持續分泌,因而促進骨溶蝕造成高血鈣、 骨質疏鬆;但若較小劑量、脈衝方式分泌的 PTH,反而會促進成骨作用,例如用來 治療嚴重骨鬆症的每天皮下一針 PTH。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 
 ## Clinical Caveats
 

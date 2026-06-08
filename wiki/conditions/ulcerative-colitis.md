@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch17]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Ulcerative colitis (潰瘍性結腸炎)'
   - 'Ulcerative colitis'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-由直腸連續向近端侵犯的黏膜層 IBD。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+由直腸連續向近端侵犯的黏膜層 IBD。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch08]]
 - [[sources/med3-book2-ch17]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (D) 潰瘍性大腸炎(ulcerative colitis) 機率最大,立即做大腸鏡檢查 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - | Crohn's disease (CD) | Ulcerative colitis (UC) | |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - ④有接受過闌尾切除手術(appendectomy),可以顯著降低發生潰瘍性大腸炎(ulcerative colitis)與克隆氏症(Crohn's disease)的風險 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - (C) 2. 關於 Ulcerative colitis 及 Crohn's disease 的比較,下列何者正確? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].

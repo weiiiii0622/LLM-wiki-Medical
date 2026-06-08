@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch23]]"
   - "[[sources/med3-book1-ch18]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Empyema (膿胸)'
   - 'Empyema'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-肋膜腔感染積膿，常需引流與抗生素。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+肋膜腔感染積膿，常需引流與抗生素。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book1-ch21]]
 - [[sources/med3-book1-ch23]]
 - [[sources/med3-book1-ch18]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- 1. 侵犯胸腔 (thoracic cavity): pleural effusion `empyema and pericarditis ·其中 S. aureus `S. pneumoniae 以及 S. pyogenes 是造成 pleural effusion 或是 empyema 最常見的細菌 。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...g | 心臟超音波 會診心臟內科放人 pig tail | | | 心也展現莖 | (Pulsus paradoxus) | 心脉起百次 | 會診心臟內科放入 pig tail | | 肋膜疼痛 | 吸氣會引發疼痛 | 胸部 X 光 | 依膿胸、結核等不同問題治療 | | 食道逆流 | 胸骨後燒灼痛 | 胃鏡 | 制酸劑 | | 肌肉骨骼 | 姿勢改變會引發痛 | 可壓到疼痛點 | Acetaminophen 或 NSAID | | 帶狀泡疹 | 單側沿皮節 (Dermatome) 分布 | 紅疹沿皮節分布 | Acyclovir | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - (C) 肋膜膿胸 (empyema) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - | | 肺膿瘍 (Lung abscess) | 膿胸 (Empyema) | |-------------------|------------------------------------|-------------------------------------------| | 定義→治療 | 肺組織侷限性發炎→抗生素治療 | 肋膜腔感染→「引流」及抗生素 | | ida alla met il D | 圓形 (Spherical) | 半月形 (Lenticular) | | Source: [[sources/med3-book1-ch21|戊、感 染]].

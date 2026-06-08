@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Conventional DMARDs (傳統疾病修飾抗風濕藥)'
   - 'Conventional DMARDs'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (4) 治療:以類固醇為主要治療方式。若效果不佳,可以考慮脈衝治療。有時可以 考慮免疫抑制劑 azathioprine、hydroxycloroquine、cyclosporine 或是 methotrexate 合併治療。若效果不好的話考慮 IVIG。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- | DMARD | 作用機轉 | 常用於何種疾病 | |--------------------|------------------------------|----------------------------| | Methotrexate | 抑制 dihydrofolate reductase → | 多種風濕疾病都可使用,如 | | | 抑制 purine 生成→抑制發炎 | JRA, SLE, dermatomyositis… | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...ions),與 Anti-Ro (SSA) 有關。 | | Chronic | Discoid lupus | 週邊紅腫脫屑,中央因全層皮膚都被破壞而萎縮凹陷; | | (Mild) | erythematosus (DLE) | 以口服 Hydroxychloroquine、局部擦類固醇治療。 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 2. 若懷孕前, 須以 Hydroxychloroquine 控制病情, 建議繼續服用。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (B) 1.31 歲王小姐被診斷為全身性紅斑狼瘡併腎炎約7年,初發病時經過 prednisolone 與 mycophenolate 治療後,近5年24小時尿蛋白都小於0.5克,血中 creatinine 為0.6 mg/dL,目前用藥為 prednisolone 每日5毫克加 hydroxychloroquine 200毫克。王小姐因近日即將結婚,有懷孕的計畫,所以到門診來諮詢是否需調整藥物。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

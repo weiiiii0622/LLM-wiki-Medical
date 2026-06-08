@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Aldosterone antagonists (醛固酮拮抗劑)'
   - 'Aldosterone antagonists'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- akalosis)。由於刺激 renin-angiotensin II-aldosteron axis,病人血液內腎素、醛固酮、前列腺素 E 濃度明顯升高。雖然腎功能正常,但尿液檢查表現高尿鈣,超音波檢查可以發現到腎鈣沉積症(nephrocalcinosis),特別是 Bartter syndrome type I 與 type II 的病人。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (3) 血液檢驗: Gitelman syndrome 臨床上除了低血鉀低血氯代謝性鹼中毒外,也會 出現低血鎂。腎素、醛固酮以及前列腺素 E 濃度都在正常範圍內。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...程中會發生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|------------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...nin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (C) 低腎素低醛固酮血症 (hyporeninemic hypoaldosteronism) Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

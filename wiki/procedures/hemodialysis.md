@@ -17,6 +17,8 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Hemodialysis (血液透析)'
   - 'Hemodialysis'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,15 @@ tags:
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch22]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (B) 25. 一位 13 歲男孩學校尿液篩檢發現有血尿。他主訴以前在上呼吸 道感染後一兩天就會有肉眼可見的血尿,但是會自然消失。醫師 檢查發現他戴有助聽器,而且哥哥患有末期腎病,目前規則接受 1 週 3 次之血液透析。尿液常規檢查顯示 occult blood:強陽性 (3+); Protein: > 300 mg/dL; WBC 3~5/HPF; RBC 100~150/HPF。 下列何者為其最可能之診斷? - (A) 局部巢狀腎絲球硬化(focal segmental glomerulosclerosis) - (B) Alport 症候群 (Alport syndrome) - (C) 家族性薄基底膜疾病(familial thin base Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】十三歲男孩戴有助聽器、尿液常規檢查發現明顯的蛋白尿與潛血反應、哥哥患有末期性腎病且規則接受血液透析治療,種種跡象暗示兄弟患有 Alport syndrome。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (2) 血液透析: 與成人急洗條件差不多, 也可用 AEIOU 記憶: - Acidosis:當病人出現嚴重酸血症(pH th 版對慢性腎衰竭有明確的 敘述: Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (A) 2. 比較先天性巨結腸症(Hirschsprung disease, HD)和功能性便秘 108( ) 專 (Functional constipation, FC)各種症狀出現之機率,下列敘述何 醫四 -10 者錯誤? - (A) 大便失禁 (Encopresis): HD > FC - (B) 生長遲緩 (Failure to thrive): HD > FC - (C) 小腸結腸炎 (Enterocolitis): HD > FC - (D) 腹漲 (Abdominal distention): HD > FC Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - | | HD: non-HD | non-HD 低惡性度比率 | | |-------|------------|---------------|--| | 西方發生率 | 1:3 | 40~50% | | | 台灣發生率 | 1:9 | 10~15% | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - ...mphoma | | EBV | Burkitt's lymphoma, Primary CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary effusion lymphoma, Multicentric Castleman's dz. | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - ...al involvement (B) 在青春期(adolescence)有一出現高峰 (C) 發生頻率較 non-Hodgkin's lymphoma 高 (D) 大部分 stage I~II,放射治療(R/T)是可痊癒的 【詳解】(C) HD:non-HD 西方 1:3,東方 1:9,所以較 non-HD dz. 低。 | 94(一)專內 2-3 | | (B) | 17. 下列有關 Burkitt 淋巴瘤的敘述,何者錯誤? (A) 部分病人的腫瘤與 Epstein-Barr 病毒感染有關 (B) 常有染色體的異常 t (14,18) (C) 常侵犯中樞神經,分期檢查應包括腦脊髓液檢查 (D) 細胞生長快速,須即早治療 【詳解】(B) 應是 (8,14),t (14,18) Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
@@ -65,10 +73,6 @@ tags:
 - | 縮寫(全名) | 洗腎模式 | 缺點 | |----------------------------------------|------------|---------------| | IHD→快速矯正病人生化異常 | 1週3次, | 血液動力學較不穩定 | | (Intermittent hemodialysis) | 每次 3~4 小時 | | | SLED | 1週3次, | 介於兩者間 | | (Sustained low efficiency Source: [[sources/med3-book3-ch06|己、透析治療]].
 - (c) 反過來說, 洗腎病人的低血鉀、低血磷就要考慮 poor intake。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...離子交換樹脂 (Kayexalate/Kalimate) | 1.2 小時 | 在腸道中以鈉離子和鉀離子交換, | | 物離丁交換倒脂 (Kayexalate/Kalimate) | 1~2 /14号 | 使體內鉀總量下降 | | 透析 (Hemodialysis) | 幾分之內 | 使體內鉀總量下降 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (C) 2. 一位 50 歲男病人,患慢性腎臟病 8 年,一個月前血清肌酸酐(creatinine) 103( 二 ) 專 為 3.0 mg/dL 現因身體虛弱而就診,抽血發現血清肌酸酐 6.0 mg/dL, - (A) 給予口服鉀離子交換樹脂 (potassium exchange resin) - (B) 給予重碳酸鈉靜脈注射 - (C) 給予口服氧化鎂 - (D) 緊急血液透析治療 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...蛋白質 | | 副甲狀腺素、β 2 -microglobulin、過度糖化終產物 (advanced glycosylation e | | | (MW 在 300~12000D) | | products, AGE)等;中分子不易被一般的洗腎機洗出 | | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- (A) 4.65 歲女性病人因長期糖尿病腎病變,接受規則血液透析治療已5年, 108(-)專 透析前血中磷 (PO43-) 6.8 mg/dL、鈣 (Ca+) 10.8 mg/dL、副甲狀 腺賀爾蒙(PTH)88 pg/mL。對此病人,下列何者為最適當治療? Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- | (D) | 9. 一位長期血液透析的尿毒病人,接受紅血球生成素(erythropoietin)注射,每週三次,每次 2,000 U,打了 3 個月,血色素(hemoglobin)不見上升。尋找原因時,下列何者最不需要考慮? (A) 慢性腸胃道出血 (B) 透析效率不良 (C) 缺鐵 (D) 缺鈣 | | |-----|----------------------------------------------------------------------------- Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

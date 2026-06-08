@@ -21,6 +21,11 @@ sources:
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Cardiac biomarkers (心肌酵素)'
   - 'Cardiac biomarkers'
@@ -35,7 +40,7 @@ tags:
 
 ## Summary
 
-用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +61,19 @@ tags:
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book4-ch19]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- (1) 血液生化檢查:心肌酵素(creatine phosphokinase, lactate dehydrogenase)在急性或慢性心肌炎可能會提高。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (B) 3. 關於 21- 羥酶缺乏(21-hydroxylase deficiency)所致之先天性腎上 104( 二 ) 專 腺增生(congenital adrenal hyperplasia)的敘述,下列何者正確? 醫四 -17 - (A) 男嬰的外陰部會出現性器混淆(ambiguous genitalia) - (B) 大多數患兒會出現電解質失調(electrolyte disturbance) - (C) 男童比女童易罹患此症 - (D) 臨床上常以 21- 羥酶酵素活性 (enzyme activity) 的測定作為 診斷的依據 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...--------------------------------------| | Plus 3 of the following: | | | Weakness | Symmetric | | | Proximal | | Muscle enzyme elevation ( $\geq 1$ ) | Creatine kinase | | | Aspartate aminotransferase | | | Lactate dehydrogenase | | | Aldolase | | Electromyographic changes | Short, small polyphasic motor unit potentials | | | Fibrillations | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (C) 14. 臺灣地區先天性腎上腺增生(congenital adrenal hyperplasia)的 新生兒篩檢是測定嬰兒血片的: - (A) ACTH - (B) cortisol - (C) 17-hydroxyprogesterone - (D) 21-hydroxylase enzyme activity Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (4) B 型肝炎:HBs-Ag、HBs-Ab、HBc-Ag、HBc-Ab、liver enzymes and bilirubin。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...性、發泡劑(熱敷) | | | M | Antimitotic | | Vinorelbine(Navelbine) →肺癌 | 便秘 | | | | | ⊖解聚 | | 神經毒性、過敏;Doce.(水腫) | | | G1 | Bac. Enzyme | | | 胰臟炎、凝血病變 | | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (D) 8. 一位 88 歲男性有攝護腺肥大病史,主訴近半年來體能衰退很多,身 體虛弱,3個月前曾因近乎昏厥(near syncope)送至急診處,心跳 較慢約 58/min,規則,抽血發現 Na+ 124 mmol/L,Troponin I + 104 mmol/L,其他生化檢查: Cr 1.0 mg/dL , BUN 15.3 mg/dL , K+ 5.4 mmol/L , Ca2+ 2.07 mmol/L , albumin 4.7 g/dL, blood sugar 113 mg/dL。下列敘述何者錯誤? - (A) 此病人住院時 serum osmolality 為 248 mOsmol/kg H2O, urine osmolality 為 369 mOsmo Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...------------------------------------------------------|------------------| | (C) | 9. 使用 ACE 抑制劑(angiotensin converting enzyme inhibitor)要注意那一種副作用? (A) 高血鈉(Hypernatremia) (B) 低血鈣(Hypocalcemia) (C) 高血鉀(Hyperkalemia) (D) 低血鈉(Hyponatremia) | 95(一)專內 1-18 | | 內具 | 專 考 題 | | | 題 | 目 | | | (A) | 下列何種情況容易造成高血鉀症? 使用 amiloride 利尿劑 使用 amphotericin B 使用 t Source: [[sources/med3-book3-ch02|乙、離子平衡]].

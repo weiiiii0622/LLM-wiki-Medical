@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Polycystic kidney disease (多囊性腎病)'
   - 'Polycystic kidney disease'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-遺傳性腎囊腫疾病，可造成高血壓、血尿、腎功能下降與腎外表現。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遺傳性腎囊腫疾病，可造成高血壓、血尿、腎功能下降與腎外表現。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch06]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- 3. Polycystic kidney disease Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (A) Adult polycystic kidney disease Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (B) Infantile polycystic kidney disease Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ## 辛、多囊性腎病 (Polycystic Kidney Disease) Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 - A. 遺傳性的疾病, 90%ADPKD (Autosomal dominant)、10%ARPKD (Autosomal recessive)。 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 - B. 顯性多囊性腎病變 (ADPKD) Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].

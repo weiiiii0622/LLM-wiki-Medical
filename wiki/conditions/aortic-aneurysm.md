@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book2-ch25]]"
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Aortic aneurysm (主動脈瘤)'
   - 'Aortic aneurysm'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,15 @@ tags:
 - [[sources/med3-book2-ch25]]
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book4-ch04]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (2) 先天性肺動脈瓣缺失(congenital absence of the pulmonary valve):病人常有呼吸道阻塞,發紺嚴重程度不一。心臟明顯肥大且有 to-and-fro murmur。肺動脈有明顯的 aneurysmal dilation,進而壓迫支氣管造成呼吸音出現 wheezing 或stridor。病人常有反覆性肺炎。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (2) 較小的膜週邊型(perimembranous type, type II )VSD 可以先觀察,讓其自動 癒合。有較小 VSD 的病人約 30~50% 在 2 歲前有自動癒合的機會。一般而言, 絕大多數的病人在 4 歲前會自動癒合。雖然為數不多,但也有在成人期才癒合 的案例。癒合時,通常會形成 ventricular septal aneurysm(由 accessary tricuspid valve 組織形成)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...絕大多數自行癒合的時間在小朋友四歲以前。 (D) 膜周部(perimembranous type)心室中膈缺損所佔比例最高,位在三尖瓣瓣膜旁邊,因此自然癒合的時候部分的三尖瓣瓣膜組織會和心室中膈結合成 ventricular septal aneurysm,也因為這樣,此類型的心室中膈缺損常常會合併三尖瓣瓣膜閉 | 106 | | | 鎖不全。 | | Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 2. Malformations (aneurysms, hemangiomas) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...thy or polyneuropathy) - f. 高血壓:舒張壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (D) Aortic aneurysm Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (A) 1. 一位 50 歲病人,腎超音波檢查可見兩個腎臟皆長約 15 公分,以及 非常多個大小不一的囊泡(cysts),家族中亦有人患有此病,下列 敘述何者錯誤? - (A) 大多數的病人為自體隱性 (autosomal recessive) 遺傳 - (B) 病人產生腎結石的機會較一般人高 - (C) 有些病人會出現顱內血管瘤(aneurysm),但不需所有此類病人皆作顱內血管瘤的篩檢 - (D) 若囊泡出現細菌感染, ciprofloxacin 是用藥選擇之一 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
@@ -61,8 +69,6 @@ tags:
 - (B) 2. 根據多數研究資料結果顯示,老年人的腹主動脈瘤 (abdominal aortic aneurysm) 最常被誤診為下列何種疾病? Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - (3) 血管現象 (Vascular phenomena): - a. 血管栓塞 (arterial emboli, septic pulmonary infarcts)。 - b. 感染性主動脈瘤 (mycotic aneurysm)。 - c. 顧內出血 (ICH)、結膜出血 (Conjunctiva hemorrhage)。 - d. Janeway's lesion (手掌紅斑、不痛、平)。 Source: [[sources/med3-book1-ch06|己、細菌性心內膜炎]].
 - b. 若缺血持續導致梗塞(Infarction = Irreversible),接著會有Q波形成;ST段通常在2週內會恢復,留下Q波形成、T波導置。2週後ST段若沒恢復,可能暗示心室瘤(Aneurysm)形成,即梗塞區域心肌形成Scar,無收縮能力(Akinetic zone);或可看到心臟收縮時,其反向外突出。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...s murmur)? (A) patent ductus arteriosus (B) coronary AV fistula (C) atrial septal defect (D) ruptured sinus of Valsalva aneurysm | 103(二)專醫三-22 | | | (A) 30 | . 心導管檢查時,在左心室注射對比劑(contrast medium)後攝影無法評估以下那個項目?(A) 主動脈閉鎖不全(aortic regurgitation)的嚴重度(B) 二尖瓣閉鎖不全(mitral regurgitation)的嚴重度(C) 左心室射出分率(left ventricular ejection fraction) | 103(二)專醫三-25 | | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- ...toneal shunt 治療 | 101(二)專醫三-47 | | (A) | 11. 一位 50 歲男性患者,因持續性左胸痛 2 天而前來就診,其左胸痛隨患者深吸氣而更痛,患者最有可能罹患下列何種疾病?(A) 結核性肋膜炎(C) 撕裂性主動脈瘤(D) 間質性肺病 | 101(一)專醫三-41 | | (A) | 12. 一位 60 歲男性病人,因發燒,右側胸痛而住院。胸部 X 光顯示有少量右側肋膜腔積水,抽水檢查顯示其為 exudate,WBC:8,800/mm³ 且細胞主要為多核中性白血球(85%),pH 值為 7.28,Sugar 為 76 mg/dL。下列何種處理為最適當? (A) 開始給予抗生素治療,並追蹤胸部 X 光片檢查 (B) 給予抗生素,並即時插胸管引流肋膜腔 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 
 ## Clinical Caveats
 

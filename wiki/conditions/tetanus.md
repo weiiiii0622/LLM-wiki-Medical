@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Tetanus (破傷風)'
   - 'Tetanus'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-破傷風毒素阻斷抑制性神經傳導，造成肌肉痙攣。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+破傷風毒素阻斷抑制性神經傳導，造成肌肉痙攣。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book4-ch27]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...山井 24 小哇西伊浦拉廷 | 1. B 型肝炎免疫球蛋白一劑 | | | 出生 24 小時內儘速接種 | 2. B 型肝炎遺傳工程疫苗第一劑 | | | 出生滿1個月 | B型肝炎遺傳工程疫苗第二劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿2個月 | 嗜血桿菌及不活化小兒麻痺混合疫苗)第一劑 | | | | 2.13 價結合型肺炎鏈球菌疫苗第一劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿4個月 | 嗜血桿菌及不活化小兒麻痺混合疫苗)第二劑 | | | | 2.13 價結合型肺炎鏈球菌疫苗第二劑 | | | 出生滿 5 個月 | 卡介苗一劑 | | | | 1. B 型肝炎遺傳工程疫苗第三劑 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (C) 7. 一位 6 歲的女生,罹患彌漫增生型狼瘡性腎炎(diffuse proliferative lupus nephritis),已接受每天 30 mg 口服 prednisolone 2 個月, - (A) Haemophilus influenza type b conjugate vaccine - (B) Influenza vaccine - (C) Measles, mumps 及 rubella vaccine - (D) Tetanus 及 diphtheria toxoid vaccine Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - | 疫苗需求等級 | 疾病種類 | |---------|--------------------------------------| | 必需性疫苗 | 黄熱病 | | 例行性疫苗 | A/B型肝炎、日本腦炎、白喉 / 百日咳 / 破傷風、小兒麻痺、卡介苗及 | | (常規性疫苗) | 麻疹 / 腮腺炎 / 德國麻疹等疫苗 | | 建議性疫苗 | A/B 型肝炎、日本腦炎、腦膜炎、霍亂及傷寒等疫苗 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...| | | | | | | | 24hr 內 | 儘速 | 第一劑 | | | | | | | | | | | | | | | | | | 接種年齡 24hr 內 | 疫苗 | B型肝炎疫苗 (HepB) | 卡介苗 (BCG)¹ | 白喉破傷風非細胞性 | 百日咳、b 型嗜血桿菌及 | 不活化小兒麻痺五合一疫 | 苗 (DTaP-Hib-IPV) | 結合型肺炎鏈球菌疫苗(PVC 13) | 水痘疫苗 (Varicella) | 麻疹腮腺炎德國麻疹混合 | 疫苗 (MMR) | 日本腦炎疫苗(圧)2 | 流歐疫苗 (Influenza)³ | A型肝炎疫苗 (HepA) 4 | 白喉破傷風非細胞性百日 | 咳及不活化小兒麻痺混合 | 疫苗 (DTaP-IPV/Tdap-IPV Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (#) 10. 高媽媽帶著剛滿 11 個月的小孩前來看咳嗽及流鼻水,詢問高媽媽有 106( 二 ) 專 關高小弟的疫苗接種情況,依據衛生福利部國民健康署的建議,高 小弟應已接受下列那些疫苗注射?①卡介苗 ② B 型肝炎 ③白喉 破傷風百日咳混合疫苗 ④小兒麻痺口服疫苗 ⑤水痘疫苗 ⑥麻 疹腮腺炎德國麻疹混合疫苗 ①日本腦炎疫苗 ⑧破傷風減量白喉 混合疫苗? Source: [[sources/med3-book4-ch27|丁、預防醫學]].

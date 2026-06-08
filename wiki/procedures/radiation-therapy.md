@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ tags:
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med3-book4-ch22]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- (1) 兒童:橋本氏甲狀腺炎(最常見)、碘缺乏、放射治療、血管瘤( $T_4$ 轉換成 reverse $T_3$ )。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...sis · teratoma teratoma · hepatoblastoma (boys) Brain damage: Androgen- or estrogen-secreting tumors: CNS anomalies · irradiation therapy · Ovarian(granulosa cell \, theca cell \, surgery \, trauma \, prior inflammation luteoma · follicular cysts); Testicular (meningitis \, encephalitis) \, (Leydig cell) hydrocephalus **Exogenous sex steroids:** oral cont Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (4) Medulloblastoma: 為 embryonal tumor,最常發現在小腦蚓部(cerebellar vermis)。 經過手術切除、放射治療與化療後,五年存活率約70%。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- (C) 1. 青少年骨肉瘤(osteosarcoma)與下列何者的關聯性最小? - 101(二)專 醫四-25 - (A) 遺傳性視網膜神經母細胞瘤 (hereditary retinoblastoma) - (B) Li-Fraumeni 症候群 - (C) Epstein-Barr virus (EBV) 感染 - (D) 放射線治療(radiotherapy)後 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...結廓清手術,手術後病理檢查發現為乳管癌,有 12 顆淋巴結確定有乳癌轉移,estrogen receptor 陰性,progesterone receptor 陰性,Her-2染色呈 3 價陽性反應,下列何種術後輔助性治療最不恰當?(A) 放射治療(B) 化學治療(C) 荷爾蒙拮抗治療(D) 抗 Her-2 抗體治療 | 98(一)專醫三-38 | | 4. 承上題,該患者在術後一年半之例行追蹤檢查,第一次發現腫瘤指數 CA15-3 增高至 45k U/L (正常值 Folinic acid)+5FU+Oxaliplatin [FOLFOX]。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (4) 直腸癌:術前的 CCRT(Combination chemoradiotherapy)可減少局部復發及肛門保留的機會(Sphincter preserving surgery)。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (D) 2. 一位 56 歲男性發現右側腎細胞癌合併多處肝轉移,經腎臟切除後, 99(二)專 下列治療何者最不適當? 醫三-36 - (A) 使用 Interleukin-2 治療 - (B) 使用 Sunitinib 治療 - (C) 使用 Temsirolimus (mTOR inhibitor) 治療 - (D) 使用放射治療 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].

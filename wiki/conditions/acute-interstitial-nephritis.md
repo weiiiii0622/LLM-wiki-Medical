@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch18]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Acute interstitial nephritis, AIN (急性間質性腎炎)'
   - 'Acute interstitial nephritis, AIN'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-常與藥物過敏、感染或自體免疫相關，屬 intrinsic AKI。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常與藥物過敏、感染或自體免疫相關，屬 intrinsic AKI。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch18]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- 2. Interstitial nephritis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 7. Acute interstitial nephritis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...斷? - (A) 急性腎絲球腎炎 (acute glomerulonephritis) 合併急性腎衰竭 - (B) 急性腎小管壞死 (acute tubular necrosis) 合併急性腎衰竭 - (C) 急性腎間質腎炎 (acute interstitial nephritis) 合併急性腎衰竭 - (D) 低血容(hypovolemia) 合併急性腎衰竭 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - #### 1. Allergic interstitial nephritis (AIN) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (2) 臨床特徵和表徵:皮膚紅疹、血中嗜伊紅性白血球增加(Eosinophilia),尿中出現 嗜伊紅性白血球(Eosinophiluria)。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - 【詳解】(A) MCD; (B) Acute interstitial nephritis; (C) Myoglobinuria; Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

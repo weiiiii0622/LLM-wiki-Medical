@@ -11,6 +11,12 @@ sources:
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book4-ch02]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Hyperkalemia (高血鉀)'
   - 'Hyperkalemia'
@@ -25,7 +31,7 @@ tags:
 
 ## Summary
 
-高血鉀可能造成致命心律不整，需結合 ECG、腎功能、藥物與酸鹼狀態判斷。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血鉀可能造成致命心律不整，需結合 ECG、腎功能、藥物與酸鹼狀態判斷。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +42,25 @@ tags:
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book4-ch02]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- ...-------------| | 先天性腎上腺增生(21-hydroxylasedeficiency) | 先天腎上腺增生為體染色體隱性遺傳疾病。大部分是因為腎上腺21- 酵素缺乏。嬰兒會在出生後 10 天左右,因鹽分大量流失,造成低血鈉、高血鉀、嘔吐、體重不增等現象。此外,此疾病會刺激雄性素的分泌,而引起雄性化,使得嬰兒在胎兒期就會發生外陰雄性化現象。 | | 楓糖尿症 | 體染色體隱性遺傳疾病。人體中缺少支鏈甲型酮酸脫氫酵素,使得此胺基酸的代謝無法進行。症狀:在開始餵食後數天至一周內,會出現嘔吐、嗜睡、食慾減低、呼吸急促、黃疸及抽搐等現象,身上散發楓樹糖漿的體味或尿味。 | | 中鏈脂肪酸去氫酶缺乏症(中鏈醯輔酶A去氫酶缺乏症) | 體染色體隱性遺傳的脂肪酸代謝異常疾病。此 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 【詳解】病人血氨上升代表病人肝臟 urea cycle 代謝出問題,(B)(C) 接有可能。但是 (C) 為性聯遺傳疾病,只有男性才會得到,因此 (C) 最不可能。Aspirin 在兒童常見的併發症為 Reye syndrome,此疾病的特點為 rapid and progressive encephalopathy 以及肝功能異常。Aspirin 其他副作用包括 metabolic acidosis、hyperglycemia、hyperkalemia、hypernatremia、hypoglycemia、edema、hypotension、arrhythmia、coma、confusion、dizziness、rhabdomyolysis、hemolytic anemia、thrombocytopenia。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- ...ting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (B) 高血鉀 (hyperkalemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- RTA 主要可分為三大類,分別是遠端型(type I)RTA、近端型(type II)RTA 與 高血鉀型(type IV)RTA。另外,還有一種是 type I、II 的混合型(mixed type),特別 發生在 carbonic anhydrase deficiency 病人上,又稱為 type III RTA。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (1) 近端腎小管對於 bicarbonate(HCO3-)再吸收出現問題,導致血漿 bicarbonate 濃度下降造成代謝性酸中毒。由於遠端腎小管氫離子幫浦沒有問題,腎臟還是可以進行正常尿液酸化,故尿液 pH 可 +ATPase 有直接作用,故 aldosterone 製造有問題或是腎臟 對 aldosterone 反應不佳則造成酸中毒。 - b. Aldosterone 在集尿管有鉀離子分泌作用。若有問題則無法將鉀離子分泌出去 進而造成**高血鉀**。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】(D) 與第二型腎小管酸中毒有關。(C) 的特徵為低血鉀、 低血氯、代謝性鹼中毒以及血中腎素濃度過高(但血壓為正常)。 第四型腎小管酸血症的特徵是**高血鉀**。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...imple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發現。男嬰反而以 corti Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 【詳解】21- 羥酶缺乏所致之先天性腎上腺增生(congenital adrenal hyperplasia)中 salt losing form 會有低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | helmet cell,以及網狀紅血 | | | | 球計數的增加。 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (3) Cyclosporin (Sandimmune®): 直接抑制 IL2 合成,而減少對 T 細胞的活化,不會有骨髓抑制;常見副作用包括高血壓、高血鉀、高尿酸血症、牙齦肥大 (Gingival hypertrophy) 等。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (2) 若是細胞膜內外轉移造成的低血鉀,如低血鉀週期性麻痺(Hypokalemia periodic paralysis),要小心補過頭而造成反彈性高血鉀(rebound hyperkalemia)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (D) 需密切監測血鉀,以避免反彈性高血鉀 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
@@ -47,9 +69,6 @@ tags:
 - ## Hypo RAS →留鉀留氫→高血鉀(Renal gain)、酸中毒(Type IV RTA)鑑別診斷時需用 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 【詳解】 hyperkalemia with inadequate K excretion(TTKG + 132, K+ 2.9, Cl- 85。動脈氣體分析如下:pH:7.49,PaCO2:47 mmHg,PaO2:90 mmHg,HCO3:32 mmol/L。下列有關對此病人的敘述何者最為正確? Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 1) acute pulmonary edema 2) severe hyperkalemia 3) uremic pericarditis Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (2) Stage 3(GFR +,加上高血鉀會抑制 ammonia 製造,故會造成 non-anion-gap metabolic acidosis,此時 須適當治療高血鉀。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- | 簡稱 | 致病菌 | 表徵 | 治療 | |-------|-------------|-------------------------|------------| | | | 發燒+低血壓+全身紅斑(1~2 週後脫屑)以及 | 單純是毒素造成 | | TSS | S. aureus | 全身多器官侵犯,如肝腎功能下降、凝血病變、 | 血清學、培養 (-) | | | | 肌肉痛 (CK 高 )、黏膜充血、意識改變等 | 不需抗生素 | | erree | C D | 低血壓 + 全身紅斑以及全身多器官侵犯, | 血清學、培養 (+) | | 2122 | S. Pyogenes | 如肝腎功能下降、凝血病變、ARDS 等 | 需抗生素* | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- (1) 可能造成 Cholestatic jaundice, bone marrow suppression, hyperkalemia。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

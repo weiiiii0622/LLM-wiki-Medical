@@ -6,6 +6,9 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Respiratory acidosis (呼吸性酸中毒)'
   - 'Respiratory acidosis'
@@ -20,15 +23,24 @@ tags:
 
 ## Summary
 
-換氣不足造成 PaCO2 上升，需分辨急性與慢性腎代償。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+換氣不足造成 PaCO2 上升，需分辨急性與慢性腎代償。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- 2. 流行病學:最常見的新生兒下消化道阻塞疾病,好發足月產新生兒。每 5,000 位新生兒中就有一位,男性發生比例較高(男:女= 4:1)。與某些先天性疾病有關,如 **Down**, Smith-Lemli-Opitz, Waardenburg, cartilage-hair hypoplasia, and congenital hypoventilation(「Ondine curse」)syndromes and urogenital or cardiovascular abnormalities。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 呼吸性酸中毒 (respiratory acidosis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (A) normal anion gap metabolic acidosis with respiratory acidosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (B) high anion gap metabolic acidosis with respiratory acidosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】本題血液 pH 值為 7.12, 可知微酸中毒。再來就是看 HCO、低於正常範圍,可知有代謝性酸中毒。第三看血液二氧 化碳有 50 mmHg,若是單純代謝性酸中毒,血液二氧化碳應該 是下降但卻上升,故可知合併呼吸性酸中毒。最後計算 anion gap 為 142-115-14=13,以 Nelson's Textbook of Pediatrics 20th Edition 裡提到正常 anion gap 範圍在 4~11, 理當選 (B) 較合適。但是實 際上小兒腎臟學對於 anion gap 範圍並未統一,也有以成人資料 為主。故最終答案為 (A) or (B)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (B) 16. 特定疾病或狀況,容易造成兒童阻塞性呼吸暫停(obstructive sleep apnea)或換氣不足(hypoventilation),導致睡眠障礙、 生長不良,甚至腦缺氧,下列何者最不可能? Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 1. 診斷出呼吸性鹼中毒,要去想為什麼病人會喘(呼吸變快)?診斷出呼吸性酸中毒,要想看看為什麼病人呼吸變慢(hypoventilation),是不是快呼吸衰竭了? Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (2) 若發現 $PaCO_2$ 太高,表示病患呼吸太慢(Hypoventilation),可因上述低血氧、酸中毒刺激呼吸中樞,病人喘到後來呼吸肌 fatigue。COPD病人呼吸道長期吐氣不完全,也可能導致 $CO_2$ 累積(Retention);其他中樞神經、周邊神經、肌肉病變等也可能使呼吸肌無力,或是鎮靜劑抑制呼吸中樞。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 4. $HCO_3$ : 呼吸性鹼中毒( $PaCO_2$ 太低)可直接與呼吸太快聯想在一起,呼吸性酸中毒( $PaCO_2$ 太高)可直接與呼吸太慢聯想在一起,呼吸鹼、呼吸酸不可能並存;但是代謝的問題就複雜多了,「高陰離子間隙代謝酸(high anion gap metabolic acidosis)」、「正常陰離子間隙代謝酸(normal anion gap metabolic acidosis)」、「代謝鹼」這3種狀況便可能並存,一個動脈血最多可以有4種異常。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

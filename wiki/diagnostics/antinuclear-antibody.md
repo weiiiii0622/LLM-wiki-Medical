@@ -14,6 +14,8 @@ sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Antinuclear antibody, ANA (抗核抗體)'
   - 'Antinuclear antibody, ANA'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,17 @@ SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch10]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- 1. 針對初次發病的病人,應該檢查 CBC/DC、albumin、TG、cholesterol、BUN、Cr、Na、K、C3、C4、ANA、IgA、ASLO、renal ultrasound、spot urine total protein 等以找出造成腎病症候群的可能疾病。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (C) 抗核抗體 (antinuclear antibody) 陽性 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (4) 血液生化檢查如白蛋白、膽固醇、血清補體、ANA、鏈球菌血清學檢查等。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- c. 發病時通常白血球及血小板高,血紅素低,且 CRP 及 ESR 高。Oligoarthritis 及 polyarthritis 有 40~85% ANA 會陽性。Rheumatoid factor(RF)可能陰性或 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- g. ANA: Antinuclear Antibody (ANA) 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ..., 及腎臟疾病。 - b. 其他常見實驗室檢查異常:C3, C4 低(和 disease activity 有關,嚴重時特別低); ESR, CRP 高;Hypergammaglobulinemia。 - c. 自體免疫抗體: - (a) ANA: 是很好的 screening tool, 但並非 SLE 特有。 - (b) Anti-dsDNA: 70~80%SLE 會出現,對 SLE 較有特異性,且和疾病活性 (disease activity)有關,反映紅斑狼瘡的嚴重程度。 - (c) Anti-Sm: 只有 10~30%SLE 會出現,但對全身性紅斑狼瘡具有專一性。 和 disease activity 無關。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - | 自體免疫抗體 | 特徵 | |--------------------|----------------------------------------------------| | ANA | 95~99%(+),很 Sensitive,但不 Specific | | | 最佳篩檢工具,重複的陰性反應可排除 SLE | | Anti-ds DNA | 最 Specific,和疾病活動度有關 ( 值愈高疾病愈活躍 ), | | Anti-ds DNA | 可預測腎炎、血管炎 | | Anti-sm | 最 Specific,和疾病活動度無關 | | Anti-Ro (SSA) | 可穿過胎盤,造成胎兒先天性心臟傳導障礙* Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (C) 抗核抗體 (antinuclear antibodies) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (A) 13. 24 歲女性病人主訴雙側手腕及手指關節疼痛已一個多月,最近也常 103( ) 專 口腔潰瘍及無故發燒。體檢發現血中白血球數目偏低。請問下列那 醫 = -8 一項檢驗,獲得陽性的機率最高? - (A) 抗細胞核抗體 (ANA) - (B) 類風濕因子 (RF) - (C) 抗 DNA 抗體 (anti-dsDNA) - (D) 抗環狀瓜氨酸化胜肽抗體 (anti-CCP antibodies) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

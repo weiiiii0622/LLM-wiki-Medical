@@ -19,6 +19,8 @@ sources:
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Coronary arteries (冠狀動脈)'
   - 'Coronary arteries'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,17 @@ LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 
 - [[sources/med3-book4-ch25]]
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- (2) 在無法從左側心臟輸送充氧血至全身情況下,肺靜脈回流的充氧血則從心房中膈缺損或是卵圓孔流至右心房與全身的缺氧血混合,再從肺動脈經開放性動脈導管(PDA)運送至全身與冠狀動脈。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...),下列敘述何者錯誤? (A) 嵴上型心室中膈缺損(supracristal type or conoseptal type or subpulmonic type VSD)在東方人發生的機會高於西方人,又稱作東方型心室中膈缺損。容易發生右冠狀動脈瓣膜脫垂併主動脈瓣閉鎖不全,自行癒合的機率比較低。 (B) 心電圖會看到右心室擴大、心軸偏右、及右束支不完全傳導阻滯。 (C) 30%~50%的 VSD會自行癒合,且絕大多數自行癒合的時間在小朋友四歲以前。 (D) 膜周部(perimembranous type)心室中膈缺損所佔比例最高,位在三尖瓣瓣膜旁邊,因此自然癒合的時候部分的三尖瓣瓣膜組織會和心室中膈結合成 ventricular septal aneurysm,也因為這樣,此類 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 1. 又稱做 mucocutaneous lymph node syndrome 或是 infantile polyarteritis nodosa; 臨床表現像感染性疾病,病理上是血管炎變化。臨床上 KD 影響血管範圍是在中型血管(medium-sized arteries),其中以冠狀動脈為最常見(其他血管如 axillary、subclavian、femoral、popliteal or brachial arteries 也會受到影響)。若未積極處理,約 20~25% 病人會有冠狀動脈異常 coronary artery abnormalities(CAA)。積極處理(使用 IVIG)的病人發生 CAA 的機率則可降至低於 5%。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...metry: | | | | lymphocytes 約 70% | * Flow cytometry | Leukocyte adhesion | | | | 故 T 細胞如果少, | (算B細胞數目,正 | deficiency 1 (LAD-1): | | | | ALC 就會低 ) | 常約占 circulating | 缺乏 CD11/CD18 | | | | * Candida skin test | lymphocytes 的 | | | | | (positive 則可排除 | 10%,XLA 病人則 | | | | | T細胞缺陷) | 無B細胞) | | | | | * Flow cytometry | | | | | | (算T細胞數目) | | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (1) Leukocyte adhesion deficiency (LAD): Neutrophil的 adhesion molecule基因突變, 導致 neutrophil 無法附著到內皮細胞上,因此此種病患發炎時雖然 neutrophil 在 周邊血中數量很多,但發炎處反而很少(多而無用)。LAD-1 缺乏的 adhesion molecule 為 CD11/CD18。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 【詳解】全身反覆細菌感染、周邊白血球數高、臍帶很晚才掉, 由這些臨床線索可知為 LAD。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (D) 15. 心堵鎮是一個冠狀動脈疾病盛行的社區, 林醫師努力推動社區居民 的戒菸運動。林醫師調查社區中有那些團體如婦女、兒童健康組織 等,能對戒菸者提供心理與社會支持。林醫師目前的工作,屬於 Lawrence W. Green 的 PRECEDE 模式中那一個步驟? Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - ...同情心(sympathy) (D) 非語言溝通(non-verbal communication) | 97(二)專醫三-70 | | (D) 26 | 一位 70 歲男性,菸齡五十幾年,原本一天抽一包半,膀胱癌手術後改成一天約半包菸,有冠狀動脈心臟病、高血壓、慢性阻塞性肺病,醫師勸他要戒菸。一般而言,下列有關戒菸的敘述,何者錯誤? (A) 長期抽菸者,戒菸後可立即獲得健康上之助益 (B) 戒菸可降低得到癌症之機會及降低死亡率 (C) 尼古丁是長期抽菸中造成成瘾之重要因素 (D) 體重減輕是使用尼古丁製劑戒菸時的常見現象 【詳解】(D) 體重增加是戒菸時一個常見現象,也常見於戒菸失敗者的理由之一。 | 97(一)專醫三-72 | | (A) 27 | 一位 55 歲罹患肝癌合併 Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - ...等 | HBV | 和IC沉澱有關 | | 小型 | 顯微性多血管炎(Microscopic poly.) | В | 腎炎等 | pANCA | 無 IC 沉澱,無肉芽腫 | | | 川崎氏病(Kawasaki disease) | | 冠狀動脈 | 小兒 | 發燒出疹 | | | 柏格式病(Buerger's disease) | | 小腿 | 年輕男性 | 吸菸 | | 小型 | 原發性皮膚血管炎(Idio. cutaneous vas.) | IC(N) | 皮膚 | 大人吃藥/下肢有浮腸 | | | 11.55 | 過敏性紫斑症(HSP) | IC(N) | 皮膚、腎 | 小孩上呼吸 | 及道感染 / 吃藥後,支紅疹、血尿 | | 大~小 | 貝塞特氏症候群(Behçe Source: [[sources/med3-book4-ch04|丁、血管炎]].
@@ -67,12 +77,6 @@ LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 
 - ...,兩塞住 | ズ相 叔 DC 擅 AD 寸 | | | Amio去顫 | | | | | 插管後再電 | 心破(心包膜填塞) | | 分一次最多3 mg; | _ | | 下/分+不穩定 | | | | 描破(張力性氣胸)若仍無脈搏→心塞(冠狀動脈梗塞) | | 雕加·柳 古小 独词等型 (T/CD) | | | | 寬 | | | | | | S//11 D opatimic pamp (2 Tonig kg/mm) | | | 100 | | | | | 給藥 Amiodarone300 mg (兩支) iv push | 肺塞(肺動脈栓塞) | 或用Epinephrine pump (2~10mg/min) | | | | 去顫 | | | Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (B) 施以緊急冠狀動脈攝影術及血管成型術 (Emergent coronary angiography and angioplasty) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - 1. 缺血性心臟病(Ischemic heart disease)指的是心肌供氧不足,最常見的原因是冠狀動脈粥狀硬化。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- 1. **病生理**:病患常有可預測性的、重複性的左前胸痛,特別是在運動後、情緒壓力、天氣 冷等。可見一條或多條冠狀動脈大於 70% 的阻塞,但阻塞的程度與胸痛的程度不一定 有直接的關係。(Ref. N Engl J Med 2005; 352: 2524-33.) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...度,第二個數字代表斜率。可見 V2~V5 運動後都有大於 1 mm 的下降,且斜率皆小於 -1,代表皆是下斜式下降。因此,此病患的 Treadmill exercise test 為陽性。 - c. 若是 ST 段上升,須高度懷疑有更嚴重的冠狀動脈疾病導致 Transmural ischemia;而 ST 段上斜式下降(Upsloping depression)則較無意義。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- 冠狀動脈疾病占心臟衰竭的50%病因,其他包括糖尿病、高血壓等。 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- ...水、肝腫大, (4) 下肢水腫(edema);則下列何者是最確切的右心衰竭特點? (A)(1)(2) (B)(2)(3) (C)(3)(4) (D)(1)(4) | 98(一)專醫三-9 | | (C) | 16. | 張先生 58 歲,患冠狀動脈心臟病及高血壓,目前服用下列藥物,今欲使用威而剛(sildenafil, Viagra),則那一藥物應停止服用?(A) beta-blocker(B) calcium channel blocker(C) nitrate(D) angiotensin-converting enzyme inhibitor | 97(二)專醫三-8 | | (B) | 17. | 下列有關鬱血性心衰竭(congestive heart failure)的 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- ...otensin-converting enzyme inhibitors (ACEI) | | | (D) aspirin | | | A) 19. 根據流行病學研究,產生心臟衰竭的最主要原因是: | 97(二)專 | | (A) 高血壓與冠狀動脈疾病 | 醫三-12 | | (B) 瓣膜性疾病與高血壓 | | | (C) 先天性心臟病與瓣膜性疾病 | | | (D) 先天性心臟病與冠狀動脈心臟病 | | | BC)20. 在病生理學的觀點上,下列何者對心衰竭的心搏出量影響最大? | 97(一)專 | | (A) 前負荷 (preload) | 醫三 -33 | | (B) 心收縮力(contractility) | | | (C) 後負荷 (after load) | | | Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- 心臟內科方面,臨床上最重要、較危急的疾病莫非是冠狀動脈疾病、心肌梗塞,這部分年年必考,除了有大量考古題可供參考,更建議可以考古題為導向延伸 閱讀,對臨床、考試皆有幫助。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 
 ## Clinical Caveats
 

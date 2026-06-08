@@ -20,6 +20,10 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Blood pressure measurement (血壓測量)'
   - 'Blood pressure measurement'
@@ -34,7 +38,7 @@ tags:
 
 ## Summary
 
-正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +58,19 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch26]]
 - [[sources/med3-book4-ch04]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- (1) 肺動脈瓣狹窄發生機制仍未十分清楚。一般認為在胚胎發育過程中肺動脈 形成出現問題,導致瓣膜發育不良(dysplasia)。瓣膜可以為 bicuspid 或是 tricuspid,leaflets 之間會有部分融合造成右心出口血流受阻。為了能順利使血 流進入肺循環,右心室收縮勢必增強並且使心室壁增厚。甚至在嚴重病人身上 可以發現右心室收縮壓大於左心室的收縮壓。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (1) 不同程度的 PVS 會有不同的臨床表徵。臨床上一般而言依照經過狹窄瓣膜的壓力梯度(pressure gradient)去分輕中重度。 - a. 輕度 PVS: 壓力梯度介於 10~40 mmHg。 - b. 中度 PVS: 壓力梯度介於 40~60 mmHg。 - c. 重度 PVS: 壓力梯度超過 60 mmHg 或是右心室收縮壓大於左心室收縮壓。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 3. 臨床表現:與狹窄程度有關。 - (1) 高輸出阻力與低心輸出量造成疲憊、活動力不佳、呼吸急促甚至呼吸窘迫。為 了增加心輸出量,則收縮壓力增加、心臟肥大,最後造成心衰竭與相關症狀。 - (2) 若先前未診斷,病童年紀大時可能有胸痛、暈眩甚至昏厥。當出現以上症狀時 代表左心室功能不良。 - (3)極嚴重狹窄在新生兒可能就出現症狀。有嚴重狹窄的嬰兒在出生一個月時表現心輸出不足、呼吸窘迫、甚至發紺、心衰竭。此時又稱為 critical aortic Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- Peripheral pulses either rapid and weak or absent; decreased blood pressure; no urine output; very sunken eyes and fontanel; no tears; parched mucous membranes; delayed elasticity (poor skin turgor); very delayed capillary refill (>3 sec); cold and mottled; limp, depressed consciousness Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 4. 約 20~30% 登革出血熱病人會有休克(dengue shock syndrome)表現,病人周邊血管阻力與舒張壓增加,進而導致周邊血液灌流不足,有時血壓無法測得。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (A) 5. 一位 2 歲男童於發燒 3 天後,躁動不安、脖子僵硬、突然陷入昏 103(一)專 迷而送至醫院。就診時發現手掌與腳掌有些小水泡,血壓:收縮 醫四-3 壓 50 mmHg,舒張壓 20 mmHg,呼吸速率極快,胸部 X 光如圖 所示。下列那一種治療最不適當? Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - 【詳解】根據台灣心臟學會跟台灣高血壓學會發表的論文,關於生 活型態改變對於收縮壓的調整效果: Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - 選項(C):減重1公斤可降收縮壓1 mmHg,所以9公斤可降9 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - 選項(D):減少1克鹽可降收縮壓2.5 mmHg,但題目沒說原本該男 性使用幾克的鹽。 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
@@ -69,12 +83,6 @@ tags:
 - ...1999、WHO 1999、AACE 2003。 - (2) NCEP ATPIII 準則:5個符合3個以上[口訣:腹部肥胖加3高,血脂有兩項] - a. 腹部肥胖:腰圍>90(男)/80(女)cm或腰/臀>0.9。 - b. 高血壓 (BP > 130/85 mmHg 或已服用降壓藥),高血糖 (空腹血糖 > 100 mg/dL 或已服用降血糖藥),高血脂 (TG > 150 mg/dL、HDL dL | 100~125 mg/dL | ≧ 126 mg/dL | | 兩小時葡萄糖耐受時驗 (OGTT) | 正常人 | Impaired glucose tolerance (IGT)葡萄糖耐受失調 | 糖尿病 | | (喝下75g葡萄糖水之後兩小時) | dL | 140 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - ...ension (B) primary aldosteronism | 四 — 71 | | | (C) pheochromocytoma (D) coarctation of aorta | | | | 【詳解】Five Ps: high blood pressure, pain (headache or chest pain), | | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - (2) 食慾變差、但體重增加(因體內水滯留)、臉及四肢水腫(Myxedema)、周邊阻力增加→舒張壓上升 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- 1. 凡是年齡大於 18 歲,未服用降壓劑之正常人,連續 2 次收縮壓≥ 140 mmHg 或舒張壓 ≥ 90 mmHg, 定義為高血壓,須以藥物控制; Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- 2. 若連續 2 次收縮壓 120~139 mmHg 或舒張壓大於 80~89 mmHg, 定義為高血壓前期 (Pre-HTN), 須調整生活型態以避免進展到高血壓;針對高危險群(合併糖尿病、腎 臟病、心臟病、腦中風或蛋白尿)病患須開始用藥治療。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- ...raves's disease)或低下、副甲狀腺亢進。 - (3) 主動脈窄縮(Coarctation of the aorta, 0.2%): 患者上肢發育明顯優於下肢 - a. 其狹窄處最常見於剛分出左鎖骨下動脈的降主動脈近端,因此上肢收縮壓會高於下肢,且會造成腎臟的低灌流導致 renin 釋出,接著 volume expansion 造成高血壓以維持腎臟的灌流。 - (4) 神經疾病(腦壓過高、呼吸停止症候群)。 - (5) 藥物(避孕藥、消炎止痛藥、類固醇、紅血球生成素、抗排斥藥、可卡因)。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (b) 絕對禁忌:5 項必記。(Harrison p1537) - i. 2項是腦血管:先前有過腦出血;過去1年內有非出血性腦中風或其他腦血管疾病。 - ii. 3項是周邊血管: - (i) 高血壓(收縮壓> 180 mmHg、舒張壓> 110 mmHg); - (ii) 活動性內出血(Active internal bleeding),不包含月經的出血; - (iii) 疑似動脈剝離。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...下腔出血、腦內動脈瘤、或動靜脈瘤)、腦出血病皮、腦內腫瘤、活動性出血(月經不包含在內)、主動脈剝離。而相對禁忌症亦有電腦斷層顯示多處梗塞(低密度區大於大腦半球的三分之一)、七天內於無法壓迫處進行動脈穿刺、最近接受過腦內或脊髓內手術、高血壓(收縮壓高於 185 mmHg,舒張壓高於 110 mmHg)、或血糖低於 50 mg/dL…等。目前由於心導管介入治療相當進步,因此 r-tPA(血栓溶解劑)的使用日漸減少。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (D) 合併嚴重的高血壓(收縮壓大於 180 mmHg)者,是施行血栓 溶解劑治療的禁忌症 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

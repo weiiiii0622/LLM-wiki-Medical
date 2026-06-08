@@ -14,6 +14,9 @@ sources:
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Pulmonary function test, PFT (肺功能檢查)'
   - 'Pulmonary function test, PFT'
@@ -28,7 +31,7 @@ tags:
 
 ## Summary
 
-區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +45,19 @@ tags:
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- $FEV_1/FVC$ ratio 12\%$ or predicted $\text{FEV}_1 > 10\%$ after inhalation of a short-acting $\beta$ -agonist (SABA)\* Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- Worsening in $FEV_1 \ge 15\%$ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- FEV1, forced expiratory volume in 1 sec; FVC, forced vital capacity; ICS, inhaled corticosteroid; ppb, parts per billion. Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (C) 肺功能檢查常見到阻塞性的異常 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】漏斗胸男性發生率是女性的9倍。臨床上肺功能有可 能正常,但是嚴重的病人會出現限制性異常。因此(B)、(C)明 顯錯誤,兩者均可選。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- b. 腰椎穿刺:當強烈懷疑腦膜炎時執行腰椎穿刺檢查。做腰椎穿刺禁忌症如下: 心肺功能不穩、明顯嚴重腦水腫或腦壓升高、執行腰椎穿刺的表現附近有傷 口或感染。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- 【詳解】阻塞性睡眠呼吸中止症候群為在睡眠中有重覆性呼吸暫停現象,進而產生血氧下降、容易產生驚醒、睡眠因此被打斷。扁桃腺及腺樣體的肥大是最主要的原因;其他原因包括過度肥胖、顱顏部的異常、先天呼吸道的異常及神經肌肉障礙等。若情況嚴重者,則會產生肺高壓、心肺功能受損。清晨起床頭痛現象常因血中二氧化碳濃度升高所致。目前治療方式如下:(1)扁桃腺及腺樣體的切除手術、(2)鼻部治療藥物的給予、(3)連續正壓呼吸輔助器(CPAP)的使用以及(4)牙科口內矯正器的配戴。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (3) 肺臟: - a. deSSc 易合併間質性肺病(ILD),若疾病早期,肺功能持續惡化,可考慮 Cyclophosphamide治療; - b. lcSSc 易合併肺動脈高壓 (PAH),可用 Endothelin-1 R. antagonist (Bosentan)或 Phosphodiesterase 5 inhibiter (Sildenafil) 甚至 prostacyclin pathway agonist 降低肺動脈壓。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (A) 6. 一位 32 歲女性病人主訴最近 3 個月手指遇冷水或生氣時膚色便會轉 101(一)專 為蒼白色,同時覺得有些吞嚥困難,且半夜時常胃酸逆流到嘴裡。2 星期前,開始時常乾咳,且稍微運動便覺得喘。下列的檢查,那項 最不必要? - (A) 運動心電圖 - (B) 心臟超音波 - (C) 胸部 X 光 - (D) 肺功能檢查 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - | 內在因子 | 外在因子 | |-------------------------------------------------------------------------------------------------------------------------------|----------------| | 1. 聽力與視力下降 | 1. 居住環境雜亂、浴廁潮濕 | | 2. 暈眩,可由疾病或藥物造成: (1)心血管疾病:心律不整、姿態性低血壓 (2)神經疾病:中風、失智症、巴金森氏症 (3)新陳代謝疾病:糖尿病 (4)高血壓藥物、利尿劑、抗憂鬱劑與抗組織胺藥物 3. 心肺功能、肌肉骨骼功能退化造成移動與平衡能力下降 | 2. 環境陰暗、照明度不足 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
@@ -56,9 +69,6 @@ tags:
 - c. 但若限制性(Restrictive)肺疾病,如肺泡纖維化,因為肺泡回彈力量增加,使得第一秒吐氣量比例增加,可見 FEV1/FVC 比值增加。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - 2. 一氧化碳彌散量 (Lung diffusing capacity for carbon monoxide、DLCO): - (1) 吸入一氧化碳一段時間後吐出,測其擴散(Diffusion)入體內的比率,可用來測量 肺泡膜的擴散能力。 - (2) 需考慮血流、換氣面積的多少以鑑別診斷: Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - ...a | 煤礦工人 | 矽肺症 | 石棉塵肺症 | 農夫肺 | 棉屑沉著病 | | | 疾病 | Coal worker | Silicosis | Asbestosis | Farmer's lung | Byssinosis | | | 肺功能 | 阻+侷 (PMF) | 阻+侷(PMF) | 侷為主(肋膜鈣化) | 阻為主 | 阻為主 | | | CXR | 上肺網狀 | 上肺圓狀+ | 下肺不規則線 | | | | | CAR | | 肺門蛋殼 | 狀+肋膜鈣化 | | | | | | Caplan syn | 易得 TB | 易得 | 對放射線菌 | 紡織工業星期 | | | 特點 | 可能進展到進行性大量纖維 | | esothelioma | 孢子過敏 | 一上班就 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
-- \* 肺功能列中,阻表示 obstructive lung disease,侷表示 restrictive lung disease Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
-- (D) 3. 有關石綿肺症(asbestosis)的敘述,下列何者錯誤? - (A) 主要是暴露於石綿生產過程所造成,常見用於防火或電流絕緣 的材料中 - (B) 肺部容易出現瀰漫性纖維化病灶 - (C) 可能合併出現肺癌或間皮細胞瘤 (mesothelioma) - (D) 肺功能出現阻塞性功能障礙及氣體瀰散量(diffusing capacity) 下降,為病人呼吸急促的主因 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
-- ...病 | 在 40 歲後發病 | | 病因→病程→治療觀念 | 有氣喘或其他過敏性疾病(過敏性鼻炎、濕疹)家族病史 過敏原導致氣道慢性發炎,每次的暴露會造成急性惡化 症狀未隨時間惡化,但有季節性變化 通常可恢復(Reversible),緩解期肺功能正常 治療依症狀升、降階 | ● 有害氣體 (抽菸、生物燃料產生的煙)破壞氣道、肺泡● 長期暴露造成不可逆的傷害● 治療無法完全恢復 (Not fullyreversible),緩解期肺功能仍異常● 依肺功能、症狀、惡化頻率長期治療,不可降階 | | 免疫反應→參予細胞 | CD4+ T cell 中的 Th2 引發 * Mast cell, Eosinophil 等發炎細胞 | CD4+ T cell 中的 Th1 引發 CD8+ T Source: [[sources/med3-book1-ch15|乙、氣喘]].
 
 ## Clinical Caveats
 

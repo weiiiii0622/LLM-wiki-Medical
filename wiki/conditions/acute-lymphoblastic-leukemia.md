@@ -10,6 +10,10 @@ sources:
   - "[[sources/med3-book4-ch14]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Acute lymphoblastic leukemia, ALL (急性淋巴性白血病)'
   - 'Acute lymphoblastic leukemia, ALL'
@@ -24,7 +28,7 @@ tags:
 
 ## Summary
 
-淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +38,19 @@ tags:
 - [[sources/med3-book4-ch14]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch22]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- 1. 急性淋巴性白血病(ALL) 370 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- # I. 急性淋巴性白血病 (Acute Lymphoblastic Leukemia, ALL) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 3. 危險因子:某些特殊疾病的病童得到 ALL 機會比一般人高。 **Down syndrome**、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman syndrome、**Klinefelter syndrome、Turner syndrome**、 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- ...%);球血紅素(hemoglobin)值為 8.8 g/dL;血小板數為 55,000/mm³,同時在血液抹片中可以見到毛刺細胞(burr cells)及破碎的紅血球(fragmented RBC),下列何者為最有可能之診斷? - (A) 急性淋巴性白血病(acute lymphoblastic leukemia) - (B) 葡萄糖 -6- 磷酸脫氫酶缺乏症(G6PD deficiency)合併急性溶血 - (C) 傳染性單核球增生症 (infectious mononucleosis) - (D) 溶血性尿毒症候群 (hemolytic-uremic syndrome) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 1. 流行病學:每 10,000 名新生兒中就有 1 位發生。此外,十二指腸閉鎖在所有腸道閉鎖疾病中為最常見(25~40% of all intestinal atresia),第二常見是空腸,再來是迴腸、結腸。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- PS: 3 歲以前 AML 發生機率略高於 ALL Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - A.診斷 146 - B. 依染色、表面抗原鑑別診斷 147 - C. 基因轉位整理 147 - D. 血液抹片 148 - E. 急性骨髓細胞白血病 149 - F. 急性淋巴細胞白血病 150 - G. 前骨髓細胞白血病 150 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - | 急性白血病 | AML | ALL | | |-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------| | 年紀 | AML 成人多(平均 65 歲) | ALL 兒童、老人多(雙峰 Bimodal 分 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...| | (Leukemia) | | | MPO(-) | Glycophorin A(+) | M6 | | (2000) | | | | CD41,61(+) | M7 | | | T cell | CD1,7(+); sCD3(-) TdT(+) | | TdT(+) | T-ALL | | | | | | TdT(+),CD10(+) | Precursor B-ALL | | | | CD19,20,22( | +) | TdT(-),Surface Ig(+) | B-ALL (L3, Burkitt) | | | | | CD23(+) | CLL/Small lymphoc | ytic lymphoma | | | | CD5(+) | | Mantle ce Source: [[sources/med3-book4-ch13|丁、急性白血病]].
@@ -55,7 +69,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/down-syndrome|Down syndrome / Trisomy 21 (唐氏症)]]
 
 ## Follow-up
 

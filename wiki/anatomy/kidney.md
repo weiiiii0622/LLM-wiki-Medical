@@ -35,6 +35,16 @@ sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Kidney (腎臟)'
   - 'Kidney'
@@ -49,7 +59,7 @@ tags:
 
 ## Summary
 
-腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +94,29 @@ tags:
 - [[sources/med3-book4-ch22]]
 - [[sources/med3-book4-ch26]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- VI. 腎小管酸中毒 (Renal Tubular Acidosis, RTA) 139 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...些新生兒或是幼兒會表現黃疸、躁動不安、餵食困難甚至體重下降。當出現上述癥候時, upper urinary tract infection 要列入考慮。急性腎盂腎炎有可能會造成 pyelonephritic scarring,嚴重者造成日後腎臟功能變差甚至高血壓。 - (4) 無症狀菌尿症(asymptomatic bacteriuria):尿液培養陽性但沒有臨床症狀表現,這種情況幾乎只出現在男性。原則上無症狀菌尿症不會對腎實質造成損傷,但對懷孕的女性卻是有可能造成腎臟傷害。無症狀菌尿症若不處理,最終還是會演變成有症狀的泌尿道感染。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 5. 影像學檢查:找出解剖學構造上的異常為其主要目的。 - (1) 腎臟超音波:感染部位的定位、程度的判斷、腎臟泌尿系統阻塞或畸形有無。 一般而言,病人第一次得到 UTI 後建議做超音波檢查。 - (2) 解尿膀胱尿道攝影(voiding cystourethrogram, VCUG): 可檢查有無 vesicoureteral reflux(VUR), 此外, 也可發現 trabeculation、post-urethral valve。目前 AAP guideline 已不建議兒童第一次發生 UTI 後 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (3) 有 50% 同時有其它器官上的異常,最常見為 VATER/VACTERL (Vertebral、Anorectal、Trachea、Esophagus、Cardiac、Renal、Radial and Limb) syndrome。 這些病人心臟或脊椎異常比率分別為 32%與 24%。這些病人智力表現是正常的。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (1) 十二指腸閉鎖約 50~70% 有其它構造上的異常,如心臟、其它消化道或腎臟, 因此需再做心電圖、胸部 X 光影像學做仔細的評估。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 3. Gamma-glutamyltransferase ( $\gamma$ -GT) and 5' nucleotidase (5NT) - (1) Gamma-glutamyltransferase (γ-GT) 位在細胞膜上,分布器官主要在**肝、膽道、**腎及胰臟,但不存在於骨骼。臨床上 Gamma-glutamyltransferase 上升代表以下可能原因:急性或慢性肝炎、肝硬化、膽汁滯留、原發性硬化性膽管炎、肝轉移腫瘤或是 liver carcinoma。 - (2) 5' nucleotidase (5NT) 主要分布在肝、肌肉、心臟及腎臟,但不存在於骨骼。 臨床上 5NT 上升代表以下可能原因: 肝炎、膽汁滯留性疾病、肝臟腫瘤(原發性或是次發性)、肝毒性藥物。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 3. Pseudohypoparathyroidism: PTH 分泌正常但 PTH receptor (bone、kidney) 發生缺陷造成 PTH 抗性。病人有矮胖、圓臉、皮下鈣化、第四指骨短、智能不足,特稱為 Albright's hereditary osteodystrophy (AHO)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (2) 高血鈣時間一久,則鈣離子沉降在腎臟 parenchyma 形成鈣化與結石,造成腎功能受損。此外,腎結石亦會造成嚴重腎絞痛或血尿。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 1. 臨床上可從兩方向去探討: - (1) Calcipenic: due to deprivation of vitamin D or calcium • - (2) Phosphopenic: usually due to renal phosphate wasting • Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...ase)之代謝異常,造成有機酸的蓄積。臨床表現為一系列的神經系統損害,患者會突然發生進食不良、高血氨症、呼吸急促甚至昏迷、死亡。 | | 法布瑞氏症 | 是一種代謝脂質的酵素基因缺陷,導致無法正常代謝一些脂質,而堆積在身體中。不僅造成心臟、腎臟及腦血管病變,還會引起四肢劇烈疼痛。腳部或手部有間歇性「燒灼」的感覺,持續時間從數分鐘到幾天都有。目前治療可分為症狀治療及酵素替代療法。 | | 龐貝氏症(肝醣儲積症第二型) | 肝醣無法被分解而持續堆積,進而影響到細胞的功能。由於肝醣不能轉化葡萄糖而無法產生能量,進而導致患者四肢無力,因而又稱為「軟寶寶」。大部分在二~三個月大時,開始出現四肢活動力及頸部控制力差等症狀,在三~四個月大時,常因為罹患氣管炎,進行胸部 X 光檢查時發現心臟 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 2. 症狀:口訣 CRAB (Hypercalcemia, Renal insufficiency, Anemia, Bone lesion) - (1) 骨頭痛(70%):骨頭的病灶乃因腫瘤細胞增生、活化破骨細胞(Osteoclast)等, 導致骨頭遭到破壞、溶出,並造成高血鈣。 - (2) 腎病變 (25%): 有多個因素造成: - a. 濾出的 light chain 傷害腎臟導致腎衰竭(cast nephropathy),或導致近端腎小管功能受損,即所謂的 Adult Fanconi syndro Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - ...y 與肺癌(lung cancer)有關 (B) pigmented villonodular synovitis (PVNS)與糖尿病(diabetes mellitus)有關 (C) hemophilic arthropathy 與慢性腎臟病(chronic kidney disease)有關 (D) neuropathic joint disease 與 carpal tunnel syndrome 有關 | 108(二)專醫三-29 | |-----|-------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Extranodal, low grade, marginal zone B cell lymphoma),特別是唾液腺持續腫大、Low C4、合併冷凝蛋白血症等病患;有時會在腫大唾液腺意外發現。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
@@ -95,16 +125,6 @@ tags:
 - 3. 腎臟:病理根據 ISN & RPS 分成六型,與治療、預後相關,詳見後面介紹。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 4. 腎臟:(7)蛋白尿(> 500 mg/day 或 3 +以上),或 Cellular cast(+) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (5) 因此,腎臟切片有助於計畫 SLE 病患的治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- 1. 衛格式肉芽腫 (Wegener's granulomatosis) [ 最常考!!] - (1) 流病:平均於40歲發病,好犯上下呼吸道及腎臟的血管。 - (2) 病生理:肺或腎臟切片可見有壞死性肉芽腫性血管炎(Necrotizing granulomatous vasculitis); 90%的 Wegener's granulomatosis 病患 cANCA(+)。 - (3) 症狀: - a. 上呼吸道:副鼻竇疼痛、血膿樣鼻分泌物、鼻中隔穿孔,甚至造成馬鞍鼻(Saddle nose deformity)。 - b. 下呼吸道:由無症狀到咳嗽、咳血;CT可見兩側多發性開洞浸潤(Cavitary infiltration)。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- c. 腎臟: 腎炎 (RPGN) 導致血尿、蛋白尿; 若沒治療, 常是造成死亡最常見的原因。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...ic glomerulonephritis | Subacute | | Slowly progressive | Focal proliferative glomerulonephritis | Moderate, Slowly | | renal insufficiency | | | | Asymptomatic hematuria | Mesangioproliferative glomerulonephritis | Mild, Indolent | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...3.5 g/d,我們就會先下 Nephrotic syndrome 這個診斷,再根據服用 NSAID 的病史等,可以猜測為 Nephrotic syndrome r/o Minimal change disease (MCD),最後當然需要腎臟切片來證實病患是由 MCD 造成的 Nephrotic syndrome。 - b. 例如病人來急診,主訴這幾個禮拜水腫、血壓高、咳血、氣喘發作,小便驗起來有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9,無糖尿病、高血壓,我們可懷疑為 ESRD du Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (3) 因此接下來要介紹很多腎絲球疾病,有些會較以腎炎(Nephritic)表現,有些則以蛋白尿表現(Nephrotic syndrome),雖然有時候依照病人臨床症狀可能可以猜出病人是哪一種腎絲球疾病,但最後要確定診斷還是要靠腎臟切片。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ## 戊、慢性腎臟病 (Chronic Kidney Disease, CKD) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- 1. 病史:過去有無腎臟方面的疾病,之前腎功能檢查的結果。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- 3. 腎臟超音波:若腎臟大小出現萎縮現象,較可能是慢性腎衰竭。但幾個情況例外(CRF 但腎臟大小正常或變大): 糖尿病腎病變、愛滋病腎病變、類澱粉沉積症、腎靜脈栓塞 (renal vein thrombosis)、多囊腎症候群等物質沉積或腫瘤浸潤。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ## 庚、腎臟移植 (Renal Transplantation) Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- (C) 2. 下列何種腎臟替代療法為末期腎病之最佳治療(treatment of choice)? 106(二)專 Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 
 ## Clinical Caveats
 
@@ -113,7 +133,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/wilms-tumor|Wilms tumor (威爾姆氏腫瘤)]]
 
 ## Follow-up
 

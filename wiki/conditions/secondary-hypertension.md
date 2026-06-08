@@ -13,6 +13,9 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch08]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Secondary hypertension (次發性高血壓)'
   - 'Secondary hypertension'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-需從腎臟、內分泌、血管與藥物原因找可逆病因。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+需從腎臟、內分泌、血管與藥物原因找可逆病因。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,15 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch08]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- 兒童心臟惡性腫瘤臨床上更少見,大部分惡性腫瘤為 sarcomas,例如 angiosarcomas、rhabdosarcomas、fibrosarcomas。其他更少見的有 lymphoma 或是 pheochromocytomas。臨床上,兒童心臟惡性腫瘤多為 secondary; 比較常見的病因有 Wilms tumor 或是 lymphoma/leukemia 造成的 metastasis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...少數病人其脊髓也有血管母細胞瘤,造成病人有尿失禁或步態不穩。 - c. 視網膜血管瘤通常在視網膜的周圍,通常視力不受影響。然而,血管瘤若不 斷有滲出液,則會造成視網膜剝離與視力喪失。 - (2) 其他器官:與腫瘤發生有關。 - a. 腎:pheochromocytoma、renal carcinoma(造成死亡最常見原因)。 - b. 胰臟:神經內分泌腫瘤和漿液性囊腺瘤(serous cystadenoma)。 - c. 副睪:乳頭狀囊腺瘤(papillary cystadenoma)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (B) 23. 台灣的苯酮尿症患者,大約有三分之一是由苯丙胺酸 hydroxylase 101( ) 專的輔酶 tetrahydrobiopterin(BH4)缺乏所引起。BH4 同時也是 醫四 -26 dopamine 以及 serotonin 合成所需。所以 BH4 缺乏時,除了苯丙胺酸的濃度上升之外,還會有那一項表現? - (A)酸血症 - (B) 因為神經傳導物質缺乏所引起之神經退化症狀 - (C) 容易產生嗜鉻性細胞瘤(pheochromocytoma) - (D) 先天性心臟病 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (a) 血壓高:若與礦物性皮質素 (Aldosterone) 分泌過量有關,乃因其藉由留 鈉排鉀,所以會合併高血壓,要考慮腎動脈狹窄 (Renal artery stenosis)、 Conn's syndrome 等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...nsion) | | | | | (B) 大動脈狹窄 (coarctation of aorta) | | | | | (C) 原發性皮質醛酮過高症(primary aldosteronism) | | | | | (D) 嗜鉻性細胞瘤 (pheochromocytoma) | | | | | 【詳解】Aldosterone 會留鈉排鉀,病人會有高血壓合併低血鉀的 | | | | | 表現。 | | | (C) | 13. | 下列低血鉀之成因何者不是因鉀離子移入細胞內? | 96(二)專 | | | | (A) 代謝性鹼中毒(metabolic alkalosis) | 醫三-12 | | | | (B) 合成代謝階段(anabolic state) | | | | | (C) 庫欣氏症 (Cushi Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...| 98 腎臟 01 | | | 【詳解】 2,3,5 會低血鉀。 | | | (C) | 下何何種情況會造成低血鉀症? (1) 代謝性鹼中毒(鹼血症) (2) β2-agonists (3) α-agonists (4) 腹瀉 (5) 腎動脈狹窄 | 97腎臓 12 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].

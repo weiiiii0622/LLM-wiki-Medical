@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,12 @@ tags:
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch06]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- 7. 治療:以外科方式治療為最終目標。 - (1) 先維持肺部血液的灌流,如注射 PGE1 維持開放性動脈導管、人工血管放置 (Blalock-Taussig shunt 或 central shunt) 或 PDA stent。 - (2) 手術治療 VSD 與矯正右心室出口阻塞。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (2) 心導管氣球擴張術:在嬰幼兒發生再窄縮比率高於外科手術。此外,發生股動 脈損傷或栓塞併發症機會較外科手術高,因此對於未開過刀的主動脈窄縮而言, 手術治療是首選。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...(sodium polystyrene sulfonate) 降低血鉀 | | | | (B) 透析(dialysis) | | | | (C) 輸血 (blood transfusion) | | | | (D) 經皮冠狀動脈介入治療(percutaneous coronary intervention) | | | | 【詳解】透析是 uremic pericarditis 最根本的治療方式。 | | | (C) | 3. 有關腹膜透析和血液透析的優劣點,下列何者錯誤? | 105(一)專 | | | (A) 血液透析對於超過濾(ultrafiltration)的控制比較正確 | 醫三-36 | | | (B) 腹膜透析比較容易發生血脂肪升高 | | | | (C) 血液透析比較常有白蛋白流失(D) 腹膜透析比較容易有低血鉀情況 | Source: [[sources/med3-book3-ch06|己、透析治療]].
 - 6. 治療:保守治療可以內視鏡注射肉毒桿菌素治療、或服用鈣離子阻斷劑(CCB)、硝 酸鹽類藥物(Nitrate)等達到肌肉放鬆;或以內視鏡進行氣球擴張術;若仍無效可考 慮用內視鏡或外科手術方法進行 myotomy ( 經內視鏡食道肌肉切開術: POEM-perioral endoscopic myotomy)(外科進行食道肌肉切開:Laparoscopic myotmy, 術式名 Heller myotomy)。緩解率可達 8 成以上,但亦可能造成 GERD 等併發症。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].

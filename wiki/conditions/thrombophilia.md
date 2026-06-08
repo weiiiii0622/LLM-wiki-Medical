@@ -9,6 +9,9 @@ sources:
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Thrombophilia (血栓傾向)'
   - 'Thrombophilia'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,17 @@ tags:
 - [[sources/med3-book4-ch11]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch04]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- 【詳解】Neonatal purpura fulminans 可以是遺傳性也可以是 後天性。若是遺傳性,則可能是 protein S、protein C或是 antithrombin III 缺乏造成。Protein S 與 protein C 缺乏何者比例 最高會因不同族群則有不同結果。因此本題選(A)或(B)都對。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 3. 新生兒的止血: - (1) 剛初生時, Vit K dependent factor (factor 2, 7, 9, 10) 和 protein C, protein S 只有成人的 50%。 - (2) 剛初生時, VWF 的濃度會升高。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- ...7 是半衰期最短的因子。 - b. Factor 8 是唯一不由肝臟製造的因子。 - c. Factor 13 缺乏時無法由 PT/PTT 測得。 - d. Vit K dependent 的因子:factor 2, 7, 9, 10 和 protein C, protein S。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (D) antithrombin III Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 6. 血液高凝狀態(hypercoagulability):由於血管內水分的流失,血小板與 coagulation factors 在血液中濃度上升,增加血栓形成機會。此外,肝臟製造 fibrinogen 的增加以及抗凝血因子(antithrombin Ⅲ and protein S)從腎臟流失,也是造成血栓形成機會增加。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 2. 若是抗凝因子(Natural anticoagulant)缺乏會導致高凝固狀態(Hypercoagulable state); 如缺乏 Protein C 而有高凝固狀態。 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - | 抗凝因子 (Natural anticoagulant) | 作用 | |------------------------------|--------------------| | Antithrombin III | 分解活化的 Factor 10a | | Protein C 及其輔酶 Protein S | 分解活化的 Factor 5a、8a | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - 1. 在台灣抗凝因子缺乏的發生率: Protein S 缺乏 > Protein C 缺乏 > Antithrombin III 缺乏 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].

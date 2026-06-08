@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Toxoplasmosis (弓漿蟲感染)'
   - 'Toxoplasmosis'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ tags:
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book3-ch09]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- ...-----------------------------------------------------------------------------------------------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmon Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (1) 血液 IgM 檢查: Toxoplasmosis。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- 【詳解】出生後三個月內若發生 nephrotic syndrome,則診斷為 先天性腎病症候群(congenital nephrotic syndrome)。其中最 常見的是 Finnish type congenital nephrotic syndrome(位在第 19 對染色體上的 NPHS1 gene 發生突變,影響 nephrin 製造), 類固醇或是免疫抑制劑治療無效,病人約在 5 歲左右死亡。此 外,syphilis、toxoplasmosis、rubella、cytomegalovirus、HIV、 hepatitis B 感染都有可能造成先天性腎病症候群。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...發 | 貧血、 | 發燒時血液抹片鏡檢 | | | | | | la alle | 脾腫大 | | | | | 三日瘧 | 72 小時發燒, 使 RBC 縮小→ | 少再發 | A TREES T | 發燒時血液抹片鏡檢 | | 組織 | 弓漿蟲 | | 貓糞(囊體),豬肉(假囊體) | →速殖子→緩殖子(假囊體的 | 肺,腦) | 生檢蟲體 | Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - ## B. 弓漿蟲 (Toxoplasma gondii) Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - ...醫三-62 | | | (B) doxycycline | | | | (C) Malarone (atovaquone/proguanil) | | | | (D) quinine | | | (D) | 4. 下列各項有關弓形蟲感染症(Toxoplasma infection)之敘述,何者最不適當? | 103(二)專醫三-64 | | | (A) 可經由食入、輸血、或接受器官移植而感染 | | | | (B) 免疫功能正常的人感染弓形蟲,通常是沒有症狀 | | | | (C) 免疫功能正常成人,有症狀之急性弓形蟲感染的主要臨床表現為頸部淋巴病變 | | | | (D) 先天性弓形蟲感染大多是孕婦懷孕過程中再次感染所引發 | | | | 【詳解】孕期初次感染弓漿蟲才會造成先天性感染。 | Source: [[sources/med3-book3-ch21|丑、原 蟲]].

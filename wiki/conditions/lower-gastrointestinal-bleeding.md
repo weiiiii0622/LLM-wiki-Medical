@@ -10,6 +10,10 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Lower gastrointestinal bleeding (下消化道出血)'
   - 'Lower gastrointestinal bleeding'
@@ -24,7 +28,7 @@ tags:
 
 ## Summary
 
-下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +38,19 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- (A) 1.3個月大的女嬰,體重 5.8公斤,純母乳哺育。最近常出現血便, 但沒有發燒,體力、精神、食慾都很好。大便除帶血絲外無特殊 變化。下列敘述何者最為正確? Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 【詳解】本題對醫師而言可說是常識題,但也是需要臨床經驗才可判斷。3個月大孩子解血便,是否有感染的可能性在臨床上要優先考量。如果排除感染,接下來考慮是否有對食物的耐受性不佳或是其它自身腸胃道的疾病。臨床上要檢驗過敏原,理想的年紀應在3歲左右(太早驗的話臨床上會有很高機會誤判)。至於潰瘍性大腸炎,以這個年紀而言應該不是優先考量,大腸鏡檢查不會是第一優先選擇。選項中較好選項為(A)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 典型的症狀,為腹痛、腹部腫塊與血便 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...chonlein purpura): 4 項當中須符合≥ 2項。 - a. Palpable purpura:皮膚上有微凸的紫斑。 - b. 發病年齡≤ 20 歲。 - c. Bowel angina:瀰漫性的腹痛,通常吃東西後加重,可能有血便或腸缺血。 - d. 病理切片發現小血管壁有 granulocytes。 - (3) 臨床症狀:四大典型症狀包括皮膚紫斑(通常維持 3~10 天,病人沒有合併血小板低下及凝血病變),關節痛(特別是下肢關節),腹痛(與黏膜下出血及水腫有關),及腎臟病變(血尿,蛋白尿,急性腎衰竭…,大部分在發病後四週內出現)。此外,身體其它部位如陰囊、眼睛或是呼吸道有可能被侵犯。 - (4) 治療:大多會自行痊癒,以症狀治療為主。有腸胃或中樞神經症狀可用類 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...acroangiopathic hemol-ytic | 1. Pentad: HUS triad + fever + | | 表現 | anemia )、急性腎衰竭、血小板減少。 | CNS change • | | | 2. 腹痛腹瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | helmet Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (A) 便秘 (B) 腹脹 (C) 嘔吐 (D) 血便 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...果及少纖維質等 (B) 90%的 CRC 出現在脾曲(splenic flexure)以下,可用乙狀結腸 鏡(sigmoidoscopy)檢查發現 (C) 右側大腸之 CRC, 常出現貧血 (D) 左側大腸之 CRC, 會出現排便習慣改變或血便 (A) 10. 一位 35 歲男病患經診斷為結腸癌, 他的母親在 20 歲時被診斷有子 104(一)專 宮內膜癌,48 歲時被診斷有結腸癌。他外祖父55 歲時死於結腸癌, 器三-48 他38歲的姊姊最近接受一次大腸鏡的檢查,被診斷有第一期直腸癌, 但沒有發現息肉。下列那種突變跟他的結腸癌最可能有相關性? (A) germ-line 的 hMSH, gene 突變或低表現 (B) ATM gene 的喪失異型結合 (loss of he Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (A) 便血 (hematochezia) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - ...目前已根除,係以急性無力肢體麻痺做為根除保全監視之用,請循「急性無力肢體麻痺」報告流程進行通報) | 24 小時內 | | | 有下列情形任一者: 一、出現嚴重程度不等的腹瀉、伴隨發燒、噁心、嘔吐、腹部絞痛及裏急後重 (tenesmus)、血便及粘液便等症狀。無症狀感染也可能發生。 二、糞便或肛門拭子檢體經實驗室培養出志賀氏菌者。 | 24 小時內 | | 阿米巴性痢疾 | 有下列情形任一者: 一、輕微、慢性到嚴重腹瀉,糞便中帶粘液、血絲、裏急後重、間歇性下痢、腹痛、發燒、噁心、嘔吐。 二、糞便檢體鏡檢發現痢疾阿米巴囊體或活動體。 三、腸道及腸外之組織切片或潰瘍刮除發現痢疾阿米巴活動體者。 四、超音波或電腦斷層診斷為肝膿瘍且血清抗體呈陽性反應。 | 24 小時內 | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
@@ -49,9 +63,6 @@ tags:
 - (C) 5. 下列有關下消化道出血的敘述,何者錯誤? Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (B) 嬰幼兒發燒超過 24 小時,有血便,或腹瀉持續數天,應就醫進 行診治 Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 - (C) 嬰幼兒有血便及發燒,投予口服第一代 cephalosporin Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- (D) 老年人有血便及發燒,投予口服 fluoroquinolones Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- ...-----------------------| | 15~30 歲或 60~80 歲 | 15~30 歲或 60~80 歲 | | 抽菸、口服避孕藥會增加 CD | 抽菸、切除闌尾可預防 UC | | 腹瀉、吸收不良、腹痛、小腸阻塞 | 血便 | | 全消化道都會(右側大腸較多,特別是迴 | 僅大腸(由左側往右側進展) | | 陽盲腸交界處、不侵犯直腸) | (特別是直腸) | | 跳躍式、全層發炎 | 連續性、僅黏膜層發炎 | | 切片可見肉芽腫 (granuloma)、瘻管、 | 隱窩膿瘍 (Crypt abscess)、 | | 纖維化→狹窄阻塞 | 假性息肉 (Pseudopolyp) | | 15% Erythema nodosum (EN) | 10% Eryt Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- ...~93% 發生癌症,最常見依次是大腸直腸癌、乳癌(腸胃道中最多)、胃癌、小腸癌、胰臟癌。 | 99(一)專醫三-17 | | (D) | 7. 下列關於潰瘍性大腸炎(ulcerative colitis)之敘述,何者錯誤? (A) 患者常解血便 (B) 常侵犯直腸 (C) 主要病灶在腸之黏膜層(mucosa) (D) 好發生在國人 | 98(一)專醫三-21 | | (B) | 8. 下列有關克隆氏病(Crohn's disease)之敘述,何者錯誤? (A) 易併發瘻管(fistula)及腸阻塞 (B) 腸內的病灶為連繼性(continuous lesion) (C) 病人有周邊白血球過多及電解質不平衡現象 (D) 臨床表徵不一 【 詳解】(CD) 典型特徵是 skip l Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 
 ## Clinical Caveats
 

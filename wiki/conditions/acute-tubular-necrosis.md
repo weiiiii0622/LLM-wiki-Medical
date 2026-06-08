@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Acute tubular necrosis, ATN (急性腎小管壞死)'
   - 'Acute tubular necrosis, ATN'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-缺血或腎毒性造成 intrinsic AKI，尿沉渣與 FENa 可輔助判讀。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+缺血或腎毒性造成 intrinsic AKI，尿沉渣與 FENa 可輔助判讀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- 4. Acute tubular necrosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 3. Acute tubular necrosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...的鈉離子排出率(fractional excretion of sodium; FENa) 小於 1%。下列何者為最可能之診斷? - (A) 急性腎絲球腎炎 (acute glomerulonephritis) 合併急性腎衰竭 - (B) 急性腎小管壞死 (acute tubular necrosis) 合併急性腎衰竭 - (C) 急性腎間質腎炎 (acute interstitial nephritis) 合併急性腎衰竭 - (D) 低血容(hypovolemia) 合併急性腎衰竭 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (A) 急性腎小管壞死 (acute tubular necrosis) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...| | $(P_K/P_{osm})$ | 再各以 OSM 校正 | TTKG 1%(尿鈉高),表示尿鈉無法由腎臟回收,可知腎臟功能已受損。一位敗血症的病患一開始可能有腎前性腎衰竭,此時 FENa 20;若敗血症未控制,將導致腎因性腎衰竭(急性腎小管壞死、ATN),此時的 FENa > 1%、血中 BUN/Cr 1 | | Spot | Urine sodium conc.(mmol/L) | 20 | | urine | Urine to plasma urea nitrogen ratio | > 8 尿素能排除 | 40 | 2 O) | > 500 尿能濃縮 | ~300 | | Serum | Plasma BUN/creatinine ratio | > 20 | 1.02 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - #### Intrinsic renal azotemia (Acute tubular necrosis, ATN) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

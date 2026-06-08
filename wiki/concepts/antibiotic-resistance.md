@@ -11,6 +11,9 @@ sources:
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Antibiotic resistance (抗生素抗藥性)'
   - 'Antibiotic resistance'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,17 @@ tags:
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch09]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- | 病源菌 | 盛行率 | 對 Amoxicillin 抗藥性 | 自行緩解 | |--------------------------|-------|-------------------|------| | Streptococcus pneumoniae | 50% | 50% | 20% | | Hemophilia influenza | 25% | 40% | 40% | | M. catarrhalis | 12.5% | 100% | 80% | Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 2. 抗生素:因為 *H. influenzae* 和 *M. catarrhalis* 多有 β-lactamase 產生抗藥性,所以 Augmentin 為首選。Augmentin 劑量為 amoxicillin 含量 80~90 mg/kg/day, tid,使用 10 天。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...umoniae - (C) Haemophilus influenzae - (D) Moraxella catarrhalis - 【詳解】(A) 不是急性中耳炎常見的病原體故不選。(D) 因為對 amoxicillin 有 100% 的抗藥性也因此不選。Nelson's Textbook of Pediatrics 20th Edition 中提到 *H. influenza* 雖然抗藥性不比 *S. pneumoniae*,但是使用高劑量 amoxicillin 無法治療 *H. influenza* 引起的中耳炎,必須加入β-lactamase inhibitor (clavulanate) 才可治療。而 *S. pneumonia* 雖然抗藥性有 50%(抗藥性的原因 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (C) 對類固醇抗藥性(steroid resistant)是指在使用全量類固醇 4 週後仍然無法達到緩解(remission) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (C) 原則上使用兩種藥物優於單一藥物,避免發生抗藥性 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - 2. 作用機制 (PCN 為例): 具有 β-lactam ring, 青黴素會穿過細胞壁的 Porin, 之後與細胞膜上的 Penicillin binding protein (PBP) 結合, 而抑制細胞壁合成的最後一個步驟所需的酵素:轉胜肽酶 (Transpeptidase)。細菌可產生各種 β-lactamase 破壞 Penicillin 的 β-lactam ring 或改變 PBP 結構, 使藥物失效, 因而產生抗藥性。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...| | | 俗阑氏陽性困 | Listeria monocytogenes | PCN 無法入細胞內,Listeria 腦膜炎用 Ampicillin 治療 | | | | 格蘭氏陰性菌 Neisseria meningitis | | 抗藥性增,現少用 PCN 治療 Neisseria 造成的腦膜炎 | | | | | | Syphilis 的首選用藥 | | | | 厭氧菌 Pasteurella multocida, Actinomyces | | | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (4) Staphylococcus 會產生 Penicillinase 破壞 Penicillin 的 β lactam, 因此 Penicillin、 Ampicillin、Ticarcillin 都無法對抗 Staphylococcus,可選用 Penicillinase-resistant 藥物 (Oxacillin)或加上 β lactamase inhibitor (Augmentin、Tazocin),抑制細菌的抗藥性。以下分述這些藥物。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

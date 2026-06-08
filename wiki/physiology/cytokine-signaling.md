@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Cytokine signaling (細胞激素訊號)'
   - 'Cytokine signaling'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch19]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- 1. T細胞:當接觸到過敏原時,非過敏體質的人主要引起第一型 T 輔助細胞(Th1 cell)增生,產生 Interferon g 等 cytokine,誘發產生對抗原專一的 IgG。而過敏體質的人則主要產生第二型 T 輔助細胞(Th2 cell)增生,分泌 IL-4, IL-5, IL-9, IL-13 等 cytokine,會促進 IgE 產生及嗜伊紅性白血球發育,引起過敏反應。故過敏疾病的發生與第二型 T 輔助細胞活性有著密切的關係。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 2. 抗原呈現細胞:包括樹突細胞(dendritic cell),單核球(monocyte),巨噬細胞(macrophage),及蘭格罕氏細胞(Langerhans cells)。會將抗原呈現給 T 細胞。樹突細胞依據其傾向造成 Th1 或 Th2 細胞分化分為兩型,第一型樹突細胞(DC1)分泌 IL-12,造成 T 細胞分化為 Th1 細胞,而第二型樹突細胞(DC2)不分泌 IL-12,故 T 細胞分化為 Th2 細胞。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (2)晚期反應:在接觸過敏原後幾小時內發生,嗜伊紅性白血球及中性球浸潤,接著是嗜鹼性白血球,肥大細胞,單核球,及 Th2 細胞浸潤。活化的肥大細胞分泌 TNF-α,使血管內皮表現出 cell adhesion molecules,使發炎細胞可以穿過血管內皮移動出去。另外發炎局部也產生許多 chemokines,吸引更多發炎細胞到達。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 2. 病因:絕大部份為免疫複合體沉積在腎絲球上後,引發後續的免疫反應造成(eg. complement activation、leukocyte recruitment、release of growth factor or cytokines)。 後續引發不同的免疫反應造就不同的疾病的病生理機轉。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - ...| 5 | Med-large joints = elbows, shoulders, hips,knees, ankles. | | Serology | RF & ACPA | 0 | Low- ⊕ serology ceptor,與 Cytokine 結合,抑制其作用,如 Etanercept - b. -mab:此藥物為單株抗體(Monoclonal Ab),與 Cytokine 結合,抑制其作用; - (a) -ximab:為 Chimeric 單株抗體,含 25% Mouse protein,如 Rituximab - (b) -zumab: 為 Humanized 單株抗體,含 5~10% Mouse protein,如 Tocilizumab - (c) -umab:為 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (2) TNF: Etanercept (Enbrel® 恩博)、Adalimumab (Humira® 復邁)、Golimumab (Symponi® 欣普尼)、Certolizumab (Cimzia® 欣膝亞): - a. 與 $TNF-\alpha$ 結合,抑制其引發的發炎反應,但此藥最大的擔憂即是結核菌的復發或感染;因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則無法被活化,便較無法攻擊細胞內的病原體。另外也可能造成 HBV reactivation。 - b. 可能增加 Lymphoma 的發生、造成 ANA、anti-DNA 自體抗體的產生,還可能造成乾癬及中樞神經去髓鞘疾病。(Harrison 2090) Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].

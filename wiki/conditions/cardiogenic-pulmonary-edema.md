@@ -23,6 +23,8 @@ sources:
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Cardiogenic pulmonary edema (心因性肺水腫)'
   - 'Cardiogenic pulmonary edema'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,16 @@ tags:
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- 5. 臨床表現:一般而言與連接的位置、管腔有無阻塞有關。臨床症狀有不同程度的發 紺、呼吸急促(severe tachypnea)、生長遲緩、呼吸窘迫、肺水腫。血管阻塞越嚴 重則症狀越早出現,預後也越差。如果沒有治療,大多數病人一歲前死亡。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (1) 胸部 X-ray:在出生後最初幾小時或是一天內,心臟大小在影像上不一定會有 cardiomegaly 表現。隨著時間的進展 cardiomegaly 會迅速進展,且會有肺血管 紋的增加,更甚者會有 pulmonary edema。側身的影像可能看到明顯的 PDA。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】從胸部 X 光影像並未顯示明顯的肺水腫或是肺積水。兩側有出現 air bronchogram sign,且橫膈還不至於不明顯。腹部 X 光影像未有因腸胃道破裂而引起腹腔積氣。由以上線索可以推測為 (B) 的機會最大。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 5. 腸病毒重症: - (1) 好發於小於五歲的幼兒,好發時機是發病三到七日內。常以腦幹腦炎、心臟衰竭、肺水腫與肺出血表現,最後造成病童死亡。 - (2) 三大重症前兆: - a. 持續昏睡。 - b. 持續嘔吐。 - c. 肌躍型抽搐 (myoclonic jerk)。 - (3) 症狀: - a. 交感神經症狀:休克之前常見交感神經症狀,包括血壓上升,心跳過快,冒冷汗,顫抖。 - b. 神經系統症狀: 意識改變、肢體麻痺、眼球震顫、運動失調。 - c. 心肺系統症狀:呼吸急促、皮膚冰冷、發紺。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 【詳解】死亡病例多因肺水腫、肺出血造成心衰竭而死亡,病毒性心肌炎反而少見。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...瘍末期而簽署了安寧緩和醫療意願 105( ) 專 書,希望病危的時候可以放棄急救。3天前,陳老先生出現發燒、 頻尿的情況,而被送往醫院救治,經過醫師的診察確認陳老先生為 尿路感染合併敗血症,陳老先生於住院中因為血壓不穩,經過輸液 治療而導致肺水腫,醫師建議進行氣管插管併用呼吸器治療,以緩 解其肺水腫。此時是否應同意陳老先生接受插管? - (A) 反對,因為陳老先生已經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反對,因為陳老先生為胰臟癌末期,不要再進行過於侵入性的 治療,免得增加其痛苦 - (C) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但本次住院的原因為泌尿道感染合併敗血症,並非不可 治癒的疾病,醫師應該為其插管治療 - (D) Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...CD) 2.8 | 急性腎衰竭 (acute renal | failure) 最主要的死因是那一項? | 97(一)專 | | (11000) 20 | (A) 出血 | (B) 感染 | 醫三-2 | | | (C) 昏迷 | (D) 肺水腫 | | | (D) 29 | . 下列那個尿液診斷指標業 | 対於鑑別診斷 prerenal 或 intrinsic renal 之急 | 97(一)專 | | (-) | 性腎衰竭最有用? | | 醫三-7 | | | (A) urine sodium concentra | ation | | | | (B) urine creatinine to plas | sma creatinine ratio tion | | | | Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 1) acute pulmonary edema 2) severe hyperkalemia 3) uremic pericarditis Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

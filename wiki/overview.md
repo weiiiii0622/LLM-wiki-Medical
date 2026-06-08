@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(三)第4冊免疫血液腫瘤家醫`
-- Latest chapter source summaries: 29
-- Total chapter source summaries: 101
-- Total topic-first nodes: 590
+- Latest ingested textbook: `醫(四)第1冊小兒`
+- Latest chapter source summaries: 11
+- Total chapter source summaries: 112
+- Total topic-first nodes: 725
 
 ## Graph Shape
 

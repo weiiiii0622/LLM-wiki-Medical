@@ -35,6 +35,8 @@ sources:
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Tuberculosis (結核病)'
   - 'Tuberculosis'
@@ -49,7 +51,7 @@ tags:
 
 ## Summary
 
-分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +86,15 @@ tags:
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch25]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- B. 病因:在從前以 *Haemophilus influenza* type b (Hib) 最常見,隨著疫苗的普及 Hib 感染比率下降許多。現在較常見的病原體為 group A streptococci、pneumococci、EBV。另外,文獻紀載有少數的病人由 *Corynebacterium diphtheria* 或 *Mycobacterium tuberculosis* 感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (2) TB:痰液收集做 Acid-fast stain、培養或是 PPD test (tuberculosis skin test)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (A) 結核病(tuberculosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (C) 27. 下列有關病因與「關節炎分類」的配對中,何者最正確? 95(二)專 (A) Mycobacterium tuberculosis arthritis — chronic polyarticular arthritis 內 1-24 (B) Calcium pyrophosphate dihydrate arthritis — acute polyarticular arthritis (C) Staphylococcus aureus arthritis — acute monoarticular arthritis (D) Borrelia burgdorfe Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (2) TNF: Etanercept (Enbrel® 恩博)、Adalimumab (Humira® 復邁)、Golimumab (Symponi® 欣普尼)、Certolizumab (Cimzia® 欣膝亞): - a. 與 $TNF-\alpha$ 結合,抑制其引發的發炎反應,但此藥最大的擔憂即是結核菌的復發或感染;因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則無法被活化,便較無法攻擊細胞內的病原體。另外也可能造成 HBV reactivation。 - b. 可能增加 Lymphoma 的發生、造成 ANA、anti-DNA 自體抗體的產生,還可能造成乾癬及中樞神經去髓鞘疾病。(Harrison 2090) Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
@@ -101,10 +109,6 @@ tags:
 - \*註:由於台灣為肺結核流行區域,因此在台灣單純肺結核並非 AIDS-defined illness,須合併 CD4 99% sensitivity, 感染 1~12 週後才會陽性);只有 ELISA 陽性時,不建議在 Western blot 結果出來前先行告知病患。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - ...) 共用餐具 (D) 被愛滋病毒感染的母親哺餵母乳 | 101(二)專醫三-61 | | (D) | 12. 與愛滋病毒感染最不相關之伺機性感染為下列何者? (A) 肺囊蟲肺炎 (Pneumocystis pneumonia) (B) 肺外結核 (Extrapulmonary tuberculosis) (C) 巨細胞病毒網膜炎 (Cytomegalovirus retinitis) (D) 幽門螺旋桿菌 (Helicobacter pylori) 感染 | 100(二)專醫三-57 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - (2) 若 WBC、Protein 稍高,但葡萄糖減少,考慮黴菌、結核腦膜炎。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- (A) Cryptococcus neoformans (B) Mycobacterium tuberculosis Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- ...Moxifloxacin | 吸入性肺炎(可對抗厭氧菌) | | 製造有毒物質破壞 DNA | Metronic | lazole | 厭氧菌、原蟲、偽膜性大腸炎 | | 抑制 RNA polymerase | Rifampir | n 肺結核 | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (4) Quinolones 對多重抗藥的結核菌有其角色。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- 2. 用於治療肺結核,因容易產生抗藥性,所以常和其他藥物併用。預防親密接觸 Neisseria meningitidis 患者被傳染。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

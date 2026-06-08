@@ -15,6 +15,10 @@ sources:
   - "[[sources/med3-book3-ch13]]"
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Cephalosporins (頭孢子菌素類)'
   - 'Cephalosporins'
@@ -29,7 +33,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +48,20 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - [[sources/med3-book3-ch13]]
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch06]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- 2. 若使用 Amoxicillin 後病情沒有改善、有併發症、病患最近 30 日內有使用 Amoxicillin,則考慮使用 Amoxicillin/Clavulanate 或是第二代 Cephalosporin。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 3. 抗生素:Unasyn 200 mg/kg/day 或 ceftriaxone 50 mg/kg/day 或是 cefotaxime 150~200 mg/ka/day。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- | Nelson Textbook of Pediatrics 21 th Edition Table 428.6 | |-------------------------------------------------------------------------------------------------------------| | Age | | | Tetracyclines* | 2° 或 3° cephalosporins | | | | Fluoroquinolone | Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (1) 在抗生素使用上,依照 CSF gram stain 檢查後使用經驗性抗生素:3rd generation Cephalosporin(ceftriaxone、cefotaxime) + Vancomycin。若病人小於三個月, 須加上 Ampicillin 以涵蓋 Listeria monocytogenes。依照培養結果再做出調整。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- ...fficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫過低、生命跡象不穩的病童,發展為毒性巨結腸症的病童,以及免疫功能有缺損的病童。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 可給 ceftriaxone、metronidazole、 amikacin 等抗生素 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 6. 治療:在尿液培養結果出來之前可以先使用經驗性抗生素。一般建議使用第一代 cephalosporin 加上 aminoglycoside。當培養結果出來後再換適合的抗生素。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (A) 9. 下列有關過敏性休克(anaphylaxis)的敘述,何者錯誤?(A) 只有注射藥物或昆蟲叮咬才會產生 - (B) 是經由過敏原與肥胖細胞 (mast cell) 上的 IgE 抗體結合所導致 - (C) 儘快給病人施打 epinephrine,可緩解大部分症狀 - (D) 盤尼西林 (penicillin) 過敏者,若打頭孢子菌素 (cephalosporin) 仍有部分病患可能過敏 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - (3) 可用 Ceftriaxone (Rocephin®) 治療。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - 2. Urethritis: 需治療 Neisseria (Ceftriaxone 250 mg IM\*1 dose)、Chlamydia Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
@@ -58,7 +73,6 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - 2. 治療:施打多糖體莢膜的疫苗,親密接觸者給予 Rifampin 預防,患病者給予第三代頭 孢黴素(如 Ceftriaxone)治療。[ 詳見腦膜炎章節 ] Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 2. 治療: - (1) 患病者:給予第三代頭孢黴素(如 Ceftriaxone 250 mg im for one dose)加上四環黴素(Tetracycline),如此亦可 cover 性病常見的砂眼披衣菌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...-|--| | 最常見 | | Staphylococcus,Streptococcus | Oxacillin for Staphylococcus Penicillin for Streptococcus 1st generation cephalosporin for both | | | | 貓咬 (Cat bite) | Pasteurella multocida | | | | 咬傷 | 狗咬 (Dog bite) | Capnocytophaga canimorsus,Streptococcus intermedius, Anaerobes | A | | | | 人咬 (Human bite) | Eikenella corrodens | Ampicillin-clavulant Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- | 菌種 | 治療 | 危險因子 | |-----------------------------------|------------------------------------------|---------------| | Group A streptococcus (S. pyogen) | Pencillin + Clindamycin | | | Vibrio vulnificus | Doxycycline+Ceftriaxone | Cirrhosis+ 海水 | | Aeromonas hydrophila | Doxycycline+Ceftriaxone or Ciprofloxacin | Cirrhosis+ 淡水 | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 
 ## Clinical Caveats
 

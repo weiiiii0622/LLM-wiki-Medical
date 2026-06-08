@@ -12,6 +12,9 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Ascitic fluid analysis (腹水分析)'
   - 'Ascitic fluid analysis'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,16 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch06]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- 【詳解】依照腦脊髓液檢驗數據(glucose),(A)、(C)可以優先刪除。再者,腦脊髓液白血球分類顯示 PMN 佔絕大多數(bacterial meningitis),故選(B)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- PS: 黴菌引起的中樞神經感染,其 CSF 中白血球分類上以monocyte 為主(若在感染初期做腰椎穿刺檢查,仍有可能以PMN 為主要表現。此外,隱球菌感染中樞神經,其 CSF 檢查白血球計數也有可能是在正常範圍)。再者,臨床上新型隱球菌感染影響到中樞神經時,發生在 subacute or chronic infection。若以臨床病程時間來看,(B)的機會最大。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (1) 尿液分析:可見到紅血球細胞,通常為 RBC casts。此外,可以偵測到蛋白質、 PMN 白血球。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...tion test including antigens and mitogens stimulation (B) Immunoglobulins level (IgG, A, M, E) & lymphocyte subsets (C) PMN function tests, including chemotaxis, nitroblue tetrazolium test, CD11/CD18 expression 及 phagocytosis (D) HIV 1 + 2 Ab(A) 10. 化膿性關節炎是兒科病人的急症之一,需要快速診斷及治療。下 100(一)專 列那一種關節炎若未迅速診斷引流與抗生素治療,易引起缺血性 醫四-13 骨頭壞死(Avascular necros Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (2) 類似 PAN,但不僅是動脈,微血管、靜脈也會侵犯;類似 PAN,有 PMN 浸潤、Fibrinoid necrosis,但無 IC 沉澱,反而是 70% 病患 pANCA(+)。無肉芽腫、無嗜酸性球浸潤。有肺部(血痰、肺出血)、腎臟侵犯(血尿、腎衰竭)。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - | | 正常 | 非發炎性 | 發炎性 | 感染性 (Septic) | |-------------|------------|---------|--------------|--------------| | 外觀 | 清澈 (Clear) | 清澈~黃 | 稍混濁、黃白 | 混濁 (Opaque) | | 白血球/mm³ | 50,000 | | 多核球比例 (PMN) | | 75% | > 90% | | 葡萄糖濃度 | ~Serum | ~Serum | 25~Serum | 3 | > 3 | > 3 | | 狀況 | | OA | RA, SLE, GA | 感染 | Source: [[sources/med3-book4-ch06|己、關節炎變]].

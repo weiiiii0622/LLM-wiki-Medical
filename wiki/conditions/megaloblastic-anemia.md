@@ -8,6 +8,9 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Megaloblastic anemia (巨芽細胞性貧血)'
   - 'Megaloblastic anemia'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,17 @@ DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- 1. 大球性貧血 (macrocytic anemia) 不等於巨母紅血球性貧血 (megaloblastic anemia)。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- | Megaloblastic anemia | 缺發葉酸或是 Vit B 12 ,藥物 | |--------------------------|--------------------------------| | Non-megaloblastic anemia | 脾切除、慢性肝病、MDS | Source: [[sources/med4-book1-ch08|辛、血液學]].
+- | | Vit B deficiency | Folic acid deficiency | |----------------------|---------------------|-----------------------| | 原因 | (1) 惡性貧血 | (1) 懷孕期間葉酸補充 | | | (2) Crohn's disease | (2) 使用 MTX | | | | (3)慢性溶血 | | | | (4) 酒精 | | Megaloblastic anemia | 是 | 是 | | 神經學症狀 | 舌炎、震動覺跟姿勢覺下降 | 無 | Source: [[sources/med4-book1-ch08|辛、血液學]].
+- ...常用於何種疾病 | |--------------------|------------------------------|----------------------------| | Methotrexate | 抑制 dihydrofolate reductase → | 多種風濕疾病都可使用,如 | | | 抑制 purine 生成→抑制發炎 | JRA, SLE, dermatomyositis… | | Etanercept | Anti-TNF-α | JRA | | Hydroxychloroquine | 原為抗瘧疾藥,在風濕性疾病 | SLE, dermatomyositis 的皮膚 | | | 治療的機轉不明 | 病灶 | | Sulfasalazine | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 5. 治療: - (1) 限制蛋白質攝取。 - (2) 補充 carnitine 或高劑量 hydroxocobalamin (Vit B12) 也許會有幫助。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - A. 定義:Hgb 男生 100 fl 為大球性貧血,一定想到 Megaloblastic anemia ( Source: [[sources/med3-book4-ch10|甲、貧血]].
 - 1. 巨芽細胞貧血(Megaloblastic anemia):缺 B12 或葉酸 - (1) 典型的血液學表現是 Pancytopenia,且 MCV 高達 120 fl 以上,周邊血球抹片可觀察 到高分葉核的中性球增多 (hypersegmented neutrophils)。 - (2) 整理營養素的吸收: Source: [[sources/med3-book4-ch10|甲、貧血]].
 - | | 胃 | 十二指腸 | 近端空腸 | 終端迴腸 | |-------------------------|--------------------|------|------|------| | Iron | 胃酸分解→ Vit. C 還原成二價 | 吸收 | | | | Folate | | | 吸收 | | | Vitamin B 12 | 在胃和 IF 結合 | | | 吸收 | Source: [[sources/med3-book4-ch10|甲、貧血]].

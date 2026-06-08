@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Angiotensin receptor blockers, ARB (血管張力素受體阻斷劑)'
   - 'Angiotensin receptor blockers, ARB'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-ACEI 類似效果但較少 bradykinin 相關咳嗽。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ACEI 類似效果但較少 bradykinin 相關咳嗽。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ ACEI 類似效果但較少 bradykinin 相關咳嗽。 本頁已整合至 `醫(�
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch04]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (3) ACEI或 ARB 類藥物對於蛋白尿的治療與預防腎臟惡化現今仍持保留的態度。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...ers(C) calcium channel blockers (D) α-blockers | 99(一)專醫三-22 | | (C) 24 | 下列那一種藥物引起的急性腎衰竭,其機轉和其他三者不同? (A) captopril (B) valsartan (C) gentamicin (D) indomethacin 【詳解】NSAID 使入球小動脈收縮,ACEI、ARB 使出球小動脈放鬆,導致腎絲球內血管的壓力差減小。Aminoglycoside 類的腎毒性主要為 tubular necrosis。 | 99(一)專醫三-26 | | (A) 25. | 一位 52 歲女性,BUN 60 mg/dL,creatinine 1.8 mg/dL,看起來皮膚乾燥,兩腳無水腫,病人有口乾現象 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 2. 使用 ACEI、ARB 可以減緩蛋白尿和腎功能的惡化。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...75 mmHg | 101(二)專醫三-28 | | (C) | 13. 下列那一項治療在減緩慢性腎衰竭的進行速率上,沒有效果? (A) 服用 ACEI(Angiotensin converting enzyme inhibitors)或 ARB (Angiotensin receptor blockers)來治療高血壓 (B) 糖尿病患者嚴格控制血糖,維持 HbA1C 14. 減緩糖尿病腎病變(diabetic nephropathy)腎衰竭之進行,最好的降血壓藥是那一種? (A) 利尿劑(diuretics) (B) α- 交感神經阻斷劑(α-sympathetic blockers) (C) 血管張力素接受體阻斷劑(angiotensin receptor blocker Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].

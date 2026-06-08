@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'SPIKES model (壞消息告知模型)'
   - 'SPIKES model'
@@ -19,14 +20,18 @@ tags:
 
 ## Summary
 
-病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- 1. 定義:大腦皮質某一區域有不正常電氣生理活動,不一定有意識的喪失。臨床上可分為 simple partial seizure、complex partial seizure、benign partial epilepsy with centrotemporal spikes(BPEC)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (5) 發作時 EEG 顯示在前顳葉有 sharp waves or focal spikes,另外也可發現 multifocal spikes。然而,有 20% 病人其 EEG 顯示正常。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- #### 4. Benign Partial Epilepsy with Centrotemporal Spikes (BPEC): Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - 1. 告知壞消息:以病人為中心的病情告知過程 (SPIKES model) [Ref. Baile WF, The oncologist, 2000] - (1) S: Setting (環境) -告知病人病情前,應準備一個安全且隱私的會談空間。 - (2) P: Perception (自我認知) -告知病人病情前,了解病人對於目前病情和檢查的認知。 - (3) I: Invitation(探詢意願)-告知病人病情前,了解病人目前是否希望知道更詳細的 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (A) 13. 傳達壞消息給病人是醫師的許多困難責任之一,需要人性化的溝通過程,來協助末期病人有機會自主性地選擇符合個人意願的末期醫療照顧。當病人的家屬來請求你,不要將癌末病情的診斷告知病人本人時,你該怎麼辦? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - 【詳解】(A) 病人才是最有權利知道真實狀況的人,可以嘗試著用 SPIKES model 進行介入。 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].

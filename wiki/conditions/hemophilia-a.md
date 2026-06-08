@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Hemophilia A (A 型血友病)'
   - 'Hemophilia A'
@@ -21,16 +24,24 @@ tags:
 
 ## Summary
 
-factor VIII 缺乏造成 intrinsic pathway 異常與深部出血。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+factor VIII 缺乏造成 intrinsic pathway 異常與深部出血。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch11]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch12]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (C) 2.15 歲女病患,有家族性易出血現象,她易流鼻血、月經量多、 貧血。血液檢驗結果顯示: bleeding time 超過 30 分鐘, PT 10 秒 (control 11 秒), aPTT 48 秒 (control 30 秒), Hb 5.0g/dL, platelet count 480×10³/mm³。最可能的診斷為: - (A) hemophilia A - (B) hemophilia B - (C) von Willebrand disease - (D) Bernard-Soulier syndrome Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (D) 6. 甲型血友病(hemophilia A)病童未治療時,下列何種偵測結果 為真? Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 99(一)專 - 醫四-11 - (A) 原發性血小板過低紫斑症(idiopathic thrombocytopenic purpura) - (B) von Willebrand 氏病(von Willebrand disease) - (C) 甲型血友病 (hemophilia A) - (D) 維生素 K 缺乏 (vitamin K deficiency) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 5. Prothrombin time (PT) - (1) 與白蛋白相同,用來評估肝臟合成功能的指標。 - (2) 除了 factor VIII 以外,其餘凝血因子均由肝臟製造。因此發生嚴重的肝功能受損時,除了 PT 延長以外, aPTT 亦會延長。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 4. 兒童患者如果發生 disseminated intravascular coagulation (DIC), 104(二)專 血液檢查時,下列何者不會出現? - (A) 血中 D-dimer 出現 - (B) 血中 Factor V 或 Factor VIII 降低 - (C) 血小板 (platelets) 數目降低 - (D) 血中 fibrinogen 升高 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) 5. 凝血因子 X (coagulation factor X) 活化為 Xa 的反應中,下列何因子 105(-) 專 沒有參與? - (A) factor Va - (B) factor VIIa - (C) factor VIIIa - (D) factor IXa Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...550/μL,血小板 196,500/mL,前凝血酵素時間 (PT) INR 1.0,活 化 之 部 分 凝 血 激 素 時 間 (aPTT) 56 秒 (control: 28"~35"),下列何種檢查對此病人的診斷不是必要的? (A) factor VIII activity (B) factor IX activity (C) factor XIII activity (D) von Willebrand factor activity 【詳解】factero XIII 與 PT aPTT 都無關。 | 104(二)專醫三-43 | |-----|----------------------------------------------------------------------- Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (C) Porcine factor VIII Source: [[sources/med3-book4-ch11|乙、凝血異常]].

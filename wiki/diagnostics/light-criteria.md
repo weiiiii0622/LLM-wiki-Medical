@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book2-ch18]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch16]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Light criteria (Light 標準)'
   - 'Light criteria'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,14 @@ tags:
 - [[sources/med3-book2-ch18]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch16]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (1) high spiking fever (39℃或更高)、兩側結膜紅腫 (usually without exudates)、口 與咽部發現紅斑 (erythema)、草莓舌 (strawberry tongue)、嘴唇乾裂、頸部淋 巴結腫大、身上出現紅疹、手腳紅腫等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...peeling of fingers, toes in wk 2 and 3 - b. Polymorphous exanthem - c. Bilateral bulbar conjunctival injection without exudate - d. Erythema and cracking of lips, strawberry tongue, and/or erythema of oral and pharyngeal mucosa - e. Cervical lymphadenopathy (>1.5 cm diameter), usually unilateral Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (B) 9. 一位 6 歲男童發燒 5 天就診,身體檢查發現上眼皮浮腫、扁桃腺 98(-)專有滲出液(exudate)、肝臟下緣於右肋下方 5 公分、脾臟下緣於 醫四-2 左肋下方 3 公分,下列那一種檢查對於診斷最有幫助? - (A) Weil-Felix reaction - (B) Heterophile antibody test - (C) Throat bacteria culture - (D) Throat virus culture Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (B) 1. 一位 65 歲男性,其血液數據顯示,白血球高達 160,000/μL,血紅素 12.7 g/dL,血小板是 165,000/μL,白血球分類顯示 segmented neutrophil 14%,lymphocyte 80.3%,無不成熟血球。其血液抹片之細胞顯示如下圖。這些淋巴球表達 CD19、CD5、dim CD20、CD23、dim kappa light chain restriction。而 CD10 與 CD34 均陰性。以下關於這位病人最可能的疾病之診斷與治療,何者錯誤? Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - (D) 11. 一位 50 歲男性病人,有糖尿病史,一直在家醫科門診追蹤。兩天前開始有發燒、咳嗽,做了血糖及全血球檢查;空腹血糖為 124 mg/dL,血色素為 16.8 g/dL,白血球數為 32,260/μl,中性球 25%,淋巴球 69.5%,單核球 4%,嗜伊紅性血球 1%,嗜鹼性血球 0.5%,血小板為 190,000/μl。流式細胞儀檢查顯示淋巴球為 CD19、CD20、CD5 及 κ-light chain 陽性,CD3 及 λ-light chain 為陰性。下列何者是此病人最可能的診斷? Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - 【詳解】CD19、CD20 陽性要想到成熟的 B 細胞;只有 $\kappa$ -light chain 陽性, $\lambda$ -light chain 及 T 細胞的 CD3 為陰性要想到 monoclonal cell line,暗示惡性腫瘤。剩下 (B)(D),其中 (B) 指的是 Burkitt's lymphoma,不會有 CD19、CD20,只有 CLL 才會有成熟的 B 細胞。慢性 B 淋巴細胞白血病(CLL)的細胞表面多會表現 T 淋巴細胞才有的 CD5 抗原,可與正常 B 淋巴細胞區別。(按:我認為 (B) 指的是 infectious mononucleosis) Source: [[sources/med3-book4-ch15|己、淋巴瘤]].

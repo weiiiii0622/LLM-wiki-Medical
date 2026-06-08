@@ -8,6 +8,11 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch29]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Respiratory alkalosis (呼吸性鹼中毒)'
   - 'Respiratory alkalosis'
@@ -22,7 +27,7 @@ tags:
 
 ## Summary
 
-過度換氣造成 PaCO2 下降，常見於低氧、疼痛、焦慮、敗血症或藥物。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+過度換氣造成 PaCO2 下降，常見於低氧、疼痛、焦慮、敗血症或藥物。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +35,20 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch29]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- (C) 呼吸性鹼中毒(respiratory alkalosis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...1) 又稱為小發作(petit mal),發作時病人會突然出現動作靜止、面無表情;發作期間病人無法藉由呼叫或碰觸喚醒。 - (2) 5 歲以前不常發生,女性較男性好發。發作時不會有 aura,且發作時間很少會 持續超過 30 秒。過度換氣(hyperventilation)持續 3~4 分鐘或是閃光可以誘發 失神發作。 - (3) 失神發作一天內可以發生很多次,甚至可達數十次。然而,complex partial seizure 一天內發生次數不若失神發作般。 - (4) 90% 病人有 automatic behavior。 - (5) EEG 可以發現 3/sec spike 與 generalized wave discharge (整個腦袋亂放電)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (A) 2. 一歲小孩自 6 個月大起,發生數次大哭後面色發黑,並喪失意識, 108( 二) 專 數秒後清醒正常,身體診察無明顯異常,最常見之疾病為何? 醫四-18 - (A) 屏氣發作 (Breath-holding spell) - (B) 先天性心臟病(Congenital heart disease) - (C) 過度換氣症候群 (Hyperventilation syndrome) - (D) 失神發作 (Absence attack) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (D) normal anion gap metabolic acidosis with respiratory alkalosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】題目敘述排除肝膽腸道異常,故(D)先排除。另外, anion gap 上升,暗示著病人呈現代謝性酸中毒,因此(A)可刪 去(尿素循環障礙一開始的典型表現為呼吸性鹼中毒)。題目敘 述病人出現餵食困難、嘔吐、嗜睡,進而抽搐、昏迷,因此選 (B)。(C)常見的表現有肌肉無力、萎縮等。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 6. 高度換氣 高氧測試(hyperventilation-hyperoxia test):當在 $FiO_2$ 100% 的氧氣與過度換氣狀況下(100~150/min)下達到 $PaCO_2 \le 25$ mmHg 才能使 $PaO_2$ 上升者需懷疑 PPHN。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 換氣過度 (hyperventilation) Source: [[sources/med3-book4-ch29|己、特定議題]].
 - 1. 診斷出呼吸性鹼中毒,要去想為什麼病人會喘(呼吸變快)?診斷出呼吸性酸中毒,要想看看為什麼病人呼吸變慢(hypoventilation),是不是快呼吸衰竭了? Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (1) 若發現 $PaCO_2$ 太低,表示病患呼吸太快(Hyperventilation),有可能是低血氧、酸中毒、疼痛或焦慮等原因刺激呼吸中樞造成的。一方面可以看看胸部 X 光,是否有肺炎、肺水腫等造成低血氧;一方面考慮病人是否因感染導致敗血症或其他原因造成酸中毒,病患用喘來 wash out $CO_2$ 以維持酸鹼平衡。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

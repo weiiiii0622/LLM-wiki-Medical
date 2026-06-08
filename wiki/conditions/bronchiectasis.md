@@ -13,6 +13,10 @@ sources:
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch23]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Bronchiectasis (支氣管擴張症)'
   - 'Bronchiectasis'
@@ -27,7 +31,7 @@ tags:
 
 ## Summary
 
-支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +44,19 @@ tags:
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch23]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (1) 短效吸入性乙二型交感神經興奮劑(short-acting $\beta_2$ -agonist, SABA): 緩解急性氣喘發作及預防運動引起的支氣管擴張的首選。藉由使呼吸道平滑肌 舒張,減少血管通透性及呼吸道水腫,及增進纖毛清除能力,使支氣管擴張。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (3) 白三烯受體拮抗劑(Leukotriene receptor antagonist, LTRA): 使支氣管擴張,具抗發炎作用,也可以減少運動及過敏原引起的支氣管收縮。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (4) 長效吸入性乙二型交感神經興奮劑(Long-acting inhaled β2-agonist, LABA): 為長效型的支氣管擴張劑,作用至少 12 小時,因此適用於夜間症狀明顯及白 天常需使用 SABA 者。須配合吸入性類固醇一同使用,不可單獨使用,因為 LABA 本身無 anti-inflammation 作用,因此單獨使用反而會使氣喘急性發作及治 療失敗的風險增加。此外,文獻指出單獨使用 LABA 會增加 asthma mortality, 因此不建議單獨使用。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (D) 6.2 歲的小朋友,昨晚飯後跑動玩耍時突然持續咳嗽,今天到急診, 108(-)專 發現呼吸聲音變得明顯,聽診有單側喘息音(Wheezing),給與 短效型支氣管擴張劑 (Bronchodilator)後,喘息音沒有改變, 下列何者為最可能之診斷? Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...iration | Esophagogram Plain film: gas-filled abdomen | Surgery | | H-type TEF | Infants to adults | Recurrent pneumoniaBronchiectasis | EsophagogramBronchoscopy † | Surgery | | Esophageal stenosis | Infants to adults | DysphagiaFood impaction | EsophagogramEndoscopy † | DilationSurgery | Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (B) 2.1 歲半的幼兒,昨晚發燒、咳嗽,今天到急診。醫師發現呼吸聲音變得明顯,聽診雙側有喘息音(Wheezing),給與短效型支氣管擴張劑(Bronchodilator)後,喘息音沒有改變,下列何種診斷最有可能? Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) 1. 一位 59 歲接受腹膜透析腎病患者,血壓為 125/80 mmHg,心跳為 107( 二 ) 專 76 次 / min,12 導程心電圖發現有 peaked T waves,血鉀值為 7.0 醫三 -76 mmol/L,無溶血。下列何種處置最不優先? - (A) 會診腎臟科後,等待做腹膜透析 - (B) 可使用葡萄糖 (glucose) 加胰島素 (insulin) 治療 - (C) 可使用碳酸氫鈉(sodium bicarbonate)治療 - (D) 可使用噴霧式支氣管擴張藥物 (neubulized albuterol) 治療 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - H. 支氣管擴張 (Bronchiectasis) 282 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - (7) 結構性肺疾病(支氣管擴張症): Pseudomonas aeruginosa。 Source: [[sources/med3-book1-ch21|戊、感 染]].

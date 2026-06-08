@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch09]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Interstitial lung disease (間質性肺疾病)'
   - 'Interstitial lung disease'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-限制型通氣障礙與擴散能力下降相關的肺間質疾病群。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+限制型通氣障礙與擴散能力下降相關的肺間質疾病群。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch09]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (3) Wheezing:較常見於細支氣管炎或病毒間質性肺炎或非典型肺炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...| | 不連續斑點(Discrete S.) | Anti-centromere | lcSSc ( C R E ST syn.) | | Nucleolar (dc 硬皮病)(核仁) | | | Anti-Scl 70 | dcSSc (ILD ↑ ) | | | | | Anti-PM/Scl | SSc+ PM (Overlap syn.) | | Cytoplasmic | | Anti-Jo-1 | PM (ILD ↑ *) | | | | | | Anti-smooth muscle | Autoimmune hepatitis | | (細胞質 | ) | | Anti-mitochondrion | Primary biliary cirrhosis | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - \*SSc (Systemic scleroderma) 分 兩 型, 分 別 是 Limited cutaneous SSc (lcSSc)、Diffuse cutaneous SSc (dcSSc)。ILD ↑ (有此抗體的病患,Interstitial lung disease 發生機率增加) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...感。 - c. 呼吸道:鼻、喉、氣管乾;消化道:食道黏膜萎縮、萎縮性胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Extranodal, low grade, marginal zone B cell lymphoma),特別是唾液腺持續腫大、Low C4、合併冷凝蛋白血症等病患;有時會在腫大 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].

@@ -7,6 +7,10 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Polyarteritis nodosa, PAN (結節性多動脈炎)'
   - 'Polyarteritis nodosa, PAN'
@@ -21,16 +25,24 @@ tags:
 
 ## Summary
 
-中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch18]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- 1. 又稱做 mucocutaneous lymph node syndrome 或是 infantile polyarteritis nodosa; 臨床表現像感染性疾病,病理上是血管炎變化。臨床上 KD 影響血管範圍是在中型血管(medium-sized arteries),其中以冠狀動脈為最常見(其他血管如 axillary、subclavian、femoral、popliteal or brachial arteries 也會受到影響)。若未積極處理,約 20~25% 病人會有冠狀動脈異常 coronary artery abnormalities(CAA)。積極處理(使用 IVIG)的病人發生 CAA 的機率則可降至低於 5%。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 4. Polyarteritis nodosa Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (C) 5. 已知有 B 型肝炎免疫力的人,由下列何種血清標記可區分 HBV 是自然感染(immunity through natural infection)而非經由疫苗 獲得抗體? Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...(HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Enterovirus | Sepsis, DIC, hepatitis, myocarditis and meningoencephalitis. | | | Varicella zostervirus (VZV) | Cicatricial Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (1) 類似 SLE, **HBV** 相關的結節狀多發性動脈炎(PAN)、**HCV** 相關的冷凝球蛋白血症(Cryoglobulinemia)、過敏性紫斑(Henoch-Schönlein Purpura)等,都是 IC 沉積於血管上,最後導致血管炎。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - #### 3. 結節狀多發性動脈炎 (Polyarteritis nodosa, PAN): Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (1) 流病:好發於 50 歲男性,30% 病患合併 **HBV** 感染。[Arteritis =血管炎不侵犯靜脈,僅侵犯動脈; Nodosa = 可能有皮膚結節等表現。] Source: [[sources/med3-book4-ch04|丁、血管炎]].

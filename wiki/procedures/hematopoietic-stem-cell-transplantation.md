@@ -11,6 +11,10 @@ sources:
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch17]]"
   - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Hematopoietic stem cell transplantation, HSCT (造血幹細胞移植)'
   - 'Hematopoietic stem cell transplantation, HSCT'
@@ -25,7 +29,7 @@ tags:
 
 ## Summary
 
-治療高風險血液惡性腫瘤、骨髓衰竭與部分免疫疾病的細胞治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療高風險血液惡性腫瘤、骨髓衰竭與部分免疫疾病的細胞治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +40,20 @@ tags:
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch17]]
 - [[sources/med3-book4-ch19]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- 【詳解】嚴重再生不良性貧血病人,骨髓移植是治癒的唯一選擇。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 1. 定義: 造血幹細胞受傷或損失導致下列至少兩項: - (1) ANC : $ and thrombocytopenia (platelet count - b. A raised lactate dehydrogenase (LDH) and/or direct bilirubin level Source: [[sources/med4-book1-ch08|辛、血液學]].
+- ...T 細胞免疫不全的程度則因胸腺發育不良的程度而異,complete DiGeorge syndrome (完全沒有胸腺者) 常在新生兒時期就發生嚴重的伺機性感染 (病毒,黴菌,PCP…) - c. 治療:胸腺移植或 HLA-matched 骨髓移植。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...,而同時產生體液性及細胞性免疫缺陷。 - b. 臨床症狀:出生後數個月內就產生反覆的感染(肺炎,中耳炎,菌血症…)或伺機性感染(病毒,Candida,PCP…),生長發育不良,慢性腹瀉。抽血會淋巴球(尤其 T 細胞)低,免疫球蛋白低。若沒有骨髓移植則大多一歲前死亡,為急症! - c. 治療:骨髓移植。ADA(adenosine deaminase)-deficient SCID 可以注射 polyethylene glycol conjugated adenosine deaminase(PEG-ADA)治療。另外, ADA-deficient SCID 目前已有基因治療的成功案例。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 1. Induction (誘導期):給予數種高劑量化療藥物,一般而言絕大部分病人可以在這階段緩解。假使無法緩解或是在治療過程中出現復發,則考慮骨髓移植。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- ...正常上升。診斷方式利用基因學及染色體檢查。治療方式目前以 tyrosine kinase inhibitor(針對 the BCR-ABL tyrosine kinase)為第一線治療,如 Imatinib(Gleevec)。治療失敗再考慮骨髓移植。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- (C) 對產生輕微症狀的初期病患,即使骨髓移植也無法改善神經 症狀 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - ...Thalassemia major (Cooley's anemia): Transfusion dependent, Ferritin > 1,000 ng/ml 需考慮給 Deferoxamine 或 deferasirox, 可考慮骨髓移植。 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...DNA 甲基轉移酶 1 (DNA methyltransferase 1, DNMT-1) 結合,進而 | | | | | | 抑制 DNA 複製時之甲基化作用,導致 DNA 低甲基化作用,此結果可 | | | | | 50.43 | 重建造血幹細胞的正常生長與分化。或進行異體幹細胞移植 | | | | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (D) 2. 下列何種疾病無法用異體造血幹細胞移植(hematopoietic stem cell transplantation)的方式來達到長期緩解? Source: [[sources/med3-book4-ch10|甲、貧血]].

@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Aplastic anemia (再生不良性貧血)'
   - 'Aplastic anemia'
@@ -21,16 +24,24 @@ tags:
 
 ## Summary
 
-骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- 3. 暫時性性再生不良性貧血(transient aplastic anemia) Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (D) 3. 兒童嚴重型再生不良性貧血的治療選項中,下列何種治療方式之 107( 二) 專 治癒率較高? 醫四-24 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 【詳解】嚴重再生不良性貧血病人,骨髓移植是治癒的唯一選擇。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (A) 常在溫度 6/mm³、Hb: 6.5 g/dL、MCV 62 fL、MCH 19 pg/cell、RDW (RBC distribution width)上昇、血小板: 250,000/mm³,他最有可能是下列那一種疾病? - (A) 缺鐵性貧血 (iron deficiency anemia) - (B) 海洋性貧血症 (thalassemia) - (C) 再生不良性貧血症 (aplastic anemia) - (D) 急性白血病 (acute leukemia) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (5) 努南氏症病人常與 juvenile myelomonocytic leukemia 有關。其它血液學疾病有 amegakaryocytic thrombocytopeniac 或 pancytopenia with hypocellular marrow。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - | 骨髓狀況 | 代表疾病 | |-------------------------|-------------------------------------------| | 骨髓細胞少 (Hypocellular BM) | 再生不良性貧血 (Aplastic anemia, AA) | | 骨髓細胞適量 (Cellular BM) | 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) | | 骨髓被取代 (Myelophthisis) | 原發性骨髓纖維化 (idiopathic myelofibrosis) | | 全身疾病 (Systemic disease) | 肝硬化等導致脾腫大 (Hypersplenism)、敗血症 (Sepsis) | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - #### 1. 再生不良性貧血 (Aplastic anemia) Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (2) PNH 病患常合併 Aplastic anemia,暗示骨髓內有異常幹細胞主導,因此除了溶血,還會有 Pancytopenia 等表現。 Source: [[sources/med3-book4-ch10|甲、貧血]].

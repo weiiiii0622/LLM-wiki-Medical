@@ -5,6 +5,9 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Von Willebrand disease, vWD (類血友病)'
   - 'Von Willebrand disease, vWD'
@@ -19,14 +22,22 @@ tags:
 
 ## Summary
 
-vWF 缺乏或功能異常造成 platelet adhesion 缺陷與 factor VIII 穩定性下降。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+vWF 缺乏或功能異常造成 platelet adhesion 缺陷與 factor VIII 穩定性下降。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- 1. 初級凝血:血管受損後,血小板、VWF,會在局部密密麻麻的形成血小板栓子。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 3. 新生兒的止血: - (1) 剛初生時, Vit K dependent factor (factor 2, 7, 9, 10) 和 protein C, protein S 只有成人的 50%。 - (2) 剛初生時, VWF 的濃度會升高。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- #### B. von Willebrand disease Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (C) 2. 一位 9 歲大的男童因最近一個月來發現夜尿症(nocturnal enuresis) 100( 二 ) 專 至門診求診。男童自 3 歲之後晚上即不需要包尿布。下列何種處 醫四 -10 置最適當? - (A) 給父母衛教,告訴他們這是暫時現象,將來自然會好 - (B) 開立抗利尿激素(DDAVP)給男童,改善其症狀 - (C) 需要進一步檢查以排除病態問題 - (D) 限制睡前之水分攝取是最好的治療方法 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (C) 血友病 (hemophilia) (D) von Willebrand 病 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (1) Platelet adhesion:血管缺陷→ Collagen 與血小板 GP Ia 結合,或藉由 vWF 與血小板 GP Ib 結合。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (D) von Willebrand disease Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 【詳解】vWD為vWF缺乏或功能缺失,會導致 factor8下降,可能會以單純 aPTT 延長表現。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].

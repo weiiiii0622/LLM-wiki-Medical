@@ -41,6 +41,15 @@ sources:
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med3-book4-ch23]]"
   - "[[sources/med3-book4-ch25]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Pneumonia (肺炎)'
   - 'Pneumonia'
@@ -55,7 +64,7 @@ tags:
 
 ## Summary
 
-肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +105,28 @@ tags:
 - [[sources/med3-book4-ch12]]
 - [[sources/med3-book4-ch23]]
 - [[sources/med3-book4-ch25]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- VI. 肺炎 (Pneumonia) 165 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- | 病源菌 | 盛行率 | 對 Amoxicillin 抗藥性 | 自行緩解 | |--------------------------|-------|-------------------|------| | Streptococcus pneumoniae | 50% | 50% | 20% | | Hemophilia influenza | 25% | 40% | 40% | | M. catarrhalis | 12.5% | 100% | 80% | Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...發燒,於是改 用 amoxicillin 90 mg/kg/day,體溫隨即回復正常。下列四種細菌 之中,那一種最符合該男童中耳炎的治療反應? - (A) Staphylococcus aureus - (B) Streptococcus pneumoniae - (C) Haemophilus influenzae - (D) Moraxella catarrhalis - 【詳解】(A) 不是急性中耳炎常見的病原體故不選。(D) 因為對 amoxicillin 有 100% 的抗藥性也因此不選。Nelson's Textbook of Pediatrics 20th Edition 中提到 *H. influenza* 雖然抗藥性不比 *S. pneumoniae*,但是使用高劑量 a Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 1. 特殊,慢性,或反覆的感染。例如: - (1) ≥ 1 次全身性的感染(sepsis, meningitis)。 - (2) 一年內≥ 2 次嚴重的呼吸道或軟組織細菌感染 (cellulitis, draining otitis media, pneumonia, lymphadenitis)。 - (3) 特殊部位的嚴重感染(liver, brain abscess…)。 - (4) 特殊病原菌的感染(Aspergillus, Nocardia…)。 - (5) 常見病原菌感染但異常的嚴重。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...| 腦膜炎,關節炎, | | 表現 | (Failure to thrive) | 炎 | dermatitis, cellulitis) | 菌血症,反覆的鼻 | | | 長期腹瀉,廣泛的 | ,慢性腸胃道症 | 化膿性淋巴腺 | 竇炎或肺炎 | | | 皮膚念珠菌感染 | 狀,吸收不良,關 | 炎,口腔內感染 | | | | | 狀,吸收不良,關 | (periodontitis,ulcers), | | | | | 的腦膜炎或腦炎 * | 器官內的膿瘍骨髓炎 | · | | 特色 | 輸血後造成 | 自體免疫疾病 | 臍帶較晚脱落 | 較常合併風濕 | | | GVHD; | 及 lymphoma, | (Leukocyte adhesion | 免疫疾病: | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...bulinemia,扁桃腺小或沒有,且沒有可以摸到的淋巴結。T 細胞則比例上升,功能正常。 - b. 臨床表現:男性才會得此病(X-linked),通常出生後 6~9 個月都還正常(此時還有媽媽的抗體保護),之後則陸續出現感染,常見 S. pneumoniae 或 H. influenza等有莢膜細菌感染造成鼻竇炎或肺炎。對病毒的抵抗力通常正常(因為 T 細胞正常),但肝炎病毒,enterovirus,及 polio 為例外。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (2) 先天性肺動脈瓣缺失(congenital absence of the pulmonary valve):病人常有呼吸道阻塞,發紺嚴重程度不一。心臟明顯肥大且有 to-and-fro murmur。肺動脈有明顯的 aneurysmal dilation,進而壓迫支氣管造成呼吸音出現 wheezing 或stridor。病人常有反覆性肺炎。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (3) Enterococcus、S. pneumonia、group A streptococci、Haemophilus species、anaerobes、gram-negative bacilli 或真菌感染較少見。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (D) Streptococcus pneumoniae Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 腹痛在兒科病人中是很常見的主訴,背後原因範圍非常廣。它可以是單純因飲食不均衡引起的便秘或吃壞肚子引起,也可以是因為腸套疊引起,也可能是腹膜炎,甚至肺炎、泌尿道感染、敗血症…等。因此,在小兒科,當我們在接觸病人時,不能只是單純想到腹部消化系統疾病,其它系統疾病也要考慮。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...itomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecitabine (Xeloda)→乳癌,大腸癌 | 手足症候群 (Hand and foot syn.) | | | S | Antimetabolite Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...cid 不需要 Dihydrofolate reductase,就可以一直當作 Thymidylate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、Vitamin B12 以減少毒性。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...身旁玩耍的幼童衝撞,導致針頭插入左 95(二)專 膝關節,引發敗血性關節炎(septic arthritis)。就此案例,何種細菌 內 2-1 感染最有可能? (A) 金黃色葡萄球菌 (Staphylococcus aureus) (B) 肺炎鏈球菌 (Streptococcus pneumoniae) (C) 大腸桿菌 (E. coli) (D) Beta 溶血性鏈球菌 (β-hemolytic Streptococcus) 【詳解】(A) 金黃色葡萄球菌即是表皮菌,另外敗血性關節炎亦最 常見金黃色葡萄球菌。 (B) 29. 下列有關退化性關節炎的治療,何者是最主要的方法? 95(一)專 (A) 服用 glucosamine (B) 減輕退化關節的負擔 内 1-23 (C) Source: [[sources/med3-book4-ch06|己、關節炎變]].
@@ -107,16 +135,6 @@ tags:
 - 【詳解】本題是臨床實務題,可能要跟過家醫科家訪的同學比較能 選出答案。因為題目已描述病案年齡高、有不可回復的身體功能缺 失、近期又因吞嚥功能受限導致肺炎反覆入院,這都在暗示著積極 的醫療處置可能無法逆轉病程逐漸變差的狀況。本著維持病人生活 品質與尊嚴的初衷,家訪醫師可能會來探詢家屬或病人繼續接受積 極醫療的意願。但最後的結果仍待家屬與病人的決定,所以臨床仍 有可能會繼續選項(D)的作為,因此只能說選項(D) 通常不會面對 此類病人最優先的建議。 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - (C) 29.17 歲的小茹因斷斷續續發燒、咳嗽數星期、體重減輕、容易疲累, 而住到醫院接受一連串的檢查,最後證實小茹罹患惡性淋巴瘤。小 茹的父母要求醫師不要讓她知道此診斷,而告訴她罹患的是肺炎。 下列何敘述最恰當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (B) 接受插入鼻胃管灌食之末期病人,會有自拔鼻胃管及造成吸入 性肺炎的機會 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (C) 某日 T 因為與肝癌病情無關之感冒高燒併發肺炎時,醫護人員 認為T已經簽了「不施行心肺復甦術」之意願書,其實不需積 極治療 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...| | | | 接種年齡 24hr 內 | 疫苗 | B型肝炎疫苗 (HepB) | 卡介苗 (BCG)¹ | 白喉破傷風非細胞性 | 百日咳、b 型嗜血桿菌及 | 不活化小兒麻痺五合一疫 | 苗 (DTaP-Hib-IPV) | 結合型肺炎鏈球菌疫苗(PVC 13) | 水痘疫苗 (Varicella) | 麻疹腮腺炎德國麻疹混合 | 疫苗 (MMR) | 日本腦炎疫苗(圧)2 | 流歐疫苗 (Influenza)³ | A型肝炎疫苗 (HepA) 4 | 白喉破傷風非細胞性百日 | 咳及不活化小兒麻痺混合 | 疫苗 (DTaP-IPV/Tdap-IPV)6 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- ...icloxacillin* | 金黃色葡萄球菌 | х | 肝 | | 3. Amino-PCN+β lactamase inhibitor | Ampicillin, Amoxicillin* → Augmentin, Unasyn | 肺炎鏈球菌 | 流感嗜血桿菌 | 腎 | | 4. Carboxy-PCN,+β lactamase inhibitor | Carbenicillin, Ticarcillin, → Timentin | 肺炎鏈球菌 | 綠膿桿菌 | 腎 | | 5. Ureido-PCN+β lactamase inhibitor | Piperacillin→ Tazocin | 肺炎鏈球菌 | 綠膿桿菌更可靠 | 腎 | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (1) 可用於對抗院內感染常見的綠膿桿菌(Pseudomonas),如院內感染的肺炎(Hospital acquired pneumonia, HAP)。對 Stenotrophomonas 感染也有其角色。此藥含鈉(Sodium content)較多,須小心使用,避免病患水分過多(fluid overload);另外可能影響血小版功能,導致出血。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...azolin、Cephalexin | | 格蘭氏陽性球菌(GPC) | 一部份格蘭氏陰性菌 (PECK*) | | | | 第二代 | Cefuroxime 横膈上 | 格蘭氏陽性球菌(GPC) | 增加對格蘭氏陰性腸內菌效果 | 社區型肺炎 | | | | Cefoxitin 横膈下 | 格蘭氏陽性球菌(GPC) | 還可對抗厭氧 (B. fragilis) | 腹內,婦科感染 | | | *** LI> | Ceftazidime (Fortum®) | 格蘭氏陽性球菌(GPC) | 可對抗格蘭氏陰性菌 (P. aeruginosa) | 院內感染 | | | 第二1 | Ceftazidime (Fortum®)Ceftriaxone (Rocephin®) (肝) Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- C. 肺炎雙球菌 (Streptococcus pneumoniae) 129 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- ## C. 肺炎雙球菌 (Streptococcus pneumoniae) Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- ...ymphoma); 鼻咽癌 (NPC) | | | | HHV5 | CMV | 巨細胞病毒 | 先天感染(TORCH)→孕婦感染,使胎兒畸型,流產 | | | | | (Cytomegalovirus) | | 免疫不全者: 視網膜炎, 肺炎 | | | | HHV6 (Human 人類疱疹病毒第6型 | | 人類疱疹病毒第6型 | 玫瑰疹 (Roseola, Exanthem subitum)[ 典型病史: | | | | herpesvi | rus 6) | In Tables 200 London | 高燒 3~5 天後痊癒,全身紅疹 1~2 天後痊癒] | | | | HHV8 | | 人類疱疹病毒第8型 | AIDS 病患:卡波西氏肉瘤 (Kaposi's sa Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- (D) 肺炎黴漿菌(Mycoplasma pneumoniae) 感染 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

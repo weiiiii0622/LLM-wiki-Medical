@@ -22,6 +22,9 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Systemic corticosteroids (全身性類固醇)'
   - 'Systemic corticosteroids'
@@ -36,7 +39,7 @@ tags:
 
 ## Summary
 
-氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +61,16 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch19]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (1) 類固醇仍是腎病症候群主要治療藥物,一般使用 prednisone or prednisolone 60 mg/m²/day or 2 mg/kg/day (maximum daily dose: 60 mg),分成兩次或三次給予,連續用藥約 4~6 週。臨床證據顯示給予六週會降低復發機率。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (C) 7. 一位 6 歲的女生,罹患彌漫增生型狼瘡性腎炎(diffuse proliferative lupus nephritis),已接受每天 30 mg 口服 prednisolone 2 個月, - (A) Haemophilus influenza type b conjugate vaccine - (B) Influenza vaccine - (C) Measles, mumps 及 rubella vaccine - (D) Tetanus 及 diphtheria toxoid vaccine Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 5. 急性氣喘發作時,須以吸入性 SABA 加上口服或靜脈注射類固醇(prednisolone 1~2 mg/kg/day)治療。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (1) Class III、Class IV 為 Proliferative GN,病情輕微者可使用 Azathioprine (AZA)治療, 病情中度嚴重者,可使用 Mycophenolate mofetil (MMF)治療,最嚴重的則考慮每 月一次的 Methylprednisolone (MP) 加 Cyclophosphamide (CY) 脈衝治療。皆無效 者,可考慮 Rituximab (Anti-CD20 Ab)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 1. 因為胎盤具有把 Prednisolone 分解的酵素,所以建議以最低有效劑量的 Prednisolone 維 持治療: Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (B) 1.31 歲王小姐被診斷為全身性紅斑狼瘡併腎炎約7年,初發病時經過 prednisolone 與 mycophenolate 治療後,近5年24小時尿蛋白都小於0.5克,血中 creatinine 為0.6 mg/dL,目前用藥為 prednisolone 每日5毫克加 hydroxychloroquine 200毫克。王小姐因近日即將結婚,有懷孕的計畫,所以到門診來諮詢是否需調整藥物。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
@@ -75,10 +85,6 @@ tags:
 - ...若腎臟病理變化為極微變化型腎病變(minimal change disease),其特殊治療之第一線藥物應為下列那一種? (A) cyclophosphamide (B) cyclosporine (C) chlorambucil (D) prednisolone | 98(一)專醫三-26 | | (B) | 15. | 下列何種腎絲球病變和 HIV (human immunodeficiency virus) 感染最有關聯? (A) Crescentic glomerulonephritis (B) Focal segmental glomerulosclerosis (C) Glomerular nodular sclerosis (D) Thrombotic microangiopath Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - #### 1. 黴菌 (Fungal infection): CD4 200 達 3 個月。 - c. 血氧濃度低 (PaO2 35 mmHg) 者,可給予類固醇。 Prednisolone 40 mg PO bid day1~5 → 20 mg bid day 6~10 → 10 mg bid day11~20。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - ...者最正確? (A) 立即停用 angiotensin-converting enzyme inhibitor (B) 立即做腎臟切片檢查 (C) 立即做 renal arteriography 檢查 (D) 立即以脈衝式類固醇(pulse methylprednisolone)治療 | 104(一)專醫三-7 | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- | 藥 物 | Glucocorticoid | Mineralocorticoid | |----------------------------------|----------------|-------------------| | Hydrocortisone (Solu-Cortef®) | 1 | 1 | | Prednisolone | 4 | 0.25 | | Methylprednisolone (Solumedrol®) | 5 | ( 腦轉移 IICP) | Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- b. 治療: Prednisolone。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- (C) 給 prednisolone 有助於治療 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- (C) 4.78 歲的張先生是慢性阻塞性肺病的患者,過去一年內,由於發作頻 繁,每天都需要使用類固醇 prednisolone 10 毫克左右控制。一週前 不幸跌倒,左髖關節骨折,接受人工關節置換,住院期間右髖關節 骨密度 T 值是 -2.2。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 
 ## Clinical Caveats
 

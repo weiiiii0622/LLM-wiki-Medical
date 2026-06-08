@@ -20,6 +20,12 @@ sources:
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Lung cancer staging (肺癌分期)'
   - 'Lung cancer staging'
@@ -34,7 +40,7 @@ tags:
 
 ## Summary
 
-肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +60,25 @@ tags:
 - [[sources/med3-book4-ch25]]
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch19]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- Stage 1: 腫瘤限制在腎包膜內,可完全切除。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- Stage 2: 腫瘤超過腎包膜,仍可完全切除。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- Stage 3:切除後仍有殘餘的腫瘤。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- ...、而體循環血流嚴重不足(休克)。 - c. 有時可用 ballon artrial septostomy 讓 LA 擴大幫助血液氧氣供應。 - (2) Surgical management:手術以分階段放式治療病人。(畢業考生參考即可) Stage I:為 pallative surgery,手術方式有 Norwood procedure、Sano procedure or a hybrid operation。第一階段手術目的是為了讓病人活下去。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- Stage II: 第二階段開始為矯正手術,術式為 Glenn anastomosis (Glenn shunt, 又稱為 bidirectional Glenn procedure or the hemi-Fontan procedure)。通常在第二階段手術約在病人年紀 3~6 個月大時進行。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- Stage Ⅲ:Fontan procedure。第三階段矯正手術最快約在病人年紀 2~3 歲時進行。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...------------------| | Risk | eCCl decrease by 25% | 2 | anuric for 12 hr | | Loss | Persistent failure > 4 wk | | | End-stage | End-stage renal disease | | | | (persistent failure > 3 mo) | | | CCL creatinine clearance: eCCL estimated creatinine clearance: pRIFLE. | | | Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- CCl, creatinine clearance; eCCl, estimated creatinine clearance; pRIFLE, pediatric risk, injury,failure, loss, and end-stage renal disease. Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (4) pRIFLE 強調的重點在 the glomerular filtration rate (GFR), 因此 Acute Kidney Injury Work 則以 serum creatinine 上升率做為急性腎損傷評估指標:stage I > 150%, stage II > 200%, stage III > 300%。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 1. 卡他期(catarrhal stage):持續 1~2 週,症狀輕微。鼻炎、打噴嚏、輕微發燒、輕 微咳嗽等類似感冒的症狀。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - #### 1. Ann Arbor staging system: Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - (1) 五項指標:年紀(A)、體力(P)、LDH、淋巴外(E)、分期(S) - a. $\underline{\mathbf{A}}\mathrm{ge} > 60~\mathrm{years}$ ; $\underline{\mathbf{P}}\mathrm{erformance~status} > 2~\mathrm{(ECOG)}$ or $> 70~\mathrm{(Karnofsky)}$ - b. LDH >正常值; > 1 site of extranodal involvement - c. Ann Arbor stage III or IV - d. 口訣:APLES (蘋果 apples 少一個 P)。 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - (A) 4. 一個 35 歲男性患者診斷為 malignant lymphoma,diffuse large B-cell type,stage IIA,下列有關敘述何者為正確? - (A) 一般而言,積極化學治療約可達到 70% 的緩解率 (remission rate) - (B) 除非進行造血幹細胞移植,否則無治癒可能 - (C) 屬於 aggressive malignancy,腫瘤生長速度快,化學藥物治療效果不佳 - (D) 應該儘可能只給予 radiation therapy 就好,避免給予 systemic chemotherapy,以免以後發生 secondary leukemia Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
@@ -65,16 +87,6 @@ tags:
 - | Stage | International Staging System (ISS) | Durie-Salmon Criteria | | 中位存活 | |-------|-----------------------------------------------|----------------------------------------|-------------|-------| | | | Hgb>10, Ca 3.5g/dL | Low M protein (IgG 12,> 5 Lytic bone lesion | IIIA (Cr 5.5 mg/L | High M protein (IgG>7g/dL, IgA>5 g/dL) | IIIB (Cr>2) | 15 個月 | Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - ...---------| | 懵懂期(precontemplationstage) | 未曾認真考慮於將來六個月內改變。 | 1. 增強戒菸動機。2. 評估其意願並提供菸害相關資訊,闡述戒菸的好處。 | | 沉思期(contemplation stage) | 認真考慮於將來六個月內改變。 | 1. 加強認知戒菸的好處。2. 找出強力的戒菸動機。3. 找出戒菸的理由。4. 增加病人的自我認知。 | | 準備期(preparation) | 準備就緒,並認真計劃於一個月內改變。 | 鼓勵病人設定開始戒菸的日期。 讓病人告訴親友已經開始戒菸。 對於預期困難戒菸做好準備。 使病人暸解戒菸的目標要達到完全不吸菸。 準備尼古丁戒斷症候群的處理方式。 | | 行動期(action stage) | Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - (A) 沈思前期 (precontemplation stage) Source: [[sources/med3-book4-ch25|乙、行為科學]].
-- (B) 沈思期 (contemplation stage) Source: [[sources/med3-book4-ch25|乙、行為科學]].
-- ...oma)診療上的敘述,何者正確? (A)「血清 CA19-9 值的升高」是診斷胰臟癌的必要條件 (B)「血清 CA19-9 值的升高」建議使用於胰臟癌的篩檢(screening) (C)「手術前血清中 CA19-9 值」與病患胰臟癌的期別(stage)具相關性 (D)「手術後血清中 CA19-9 值」與病患的預後無關 | 108(一)專醫三-35 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- (1) 重要性:造成末期腎病 (End-stage renal disease)的第一位原因。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...------|----------------------------------------| | 第一階段:超過濾階段 | GFR 較同年齡正常人上升 20~40%, 在鏡檢下可發現腎絲球肥厚 | | (Hyperfiltration stage) | 和間質增生,此時期為可逆變化,控制好血糖可使上述變化恢復正常 | | 第二階段:無症狀階段 | 發病 1.5~2.5 年後,尿液白蛋白量正常,但病理上已出現 | | (Silent stage) | 腎絲球基底膜變厚及間質增加的變化,一般此階段維持 5-15 年 | | 第三階段:微量白蛋白尿期 | 24 小時白蛋白尿 (Albuminuria) 30~300 mg 稱之, | | (Microalbuminuria stage Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- d. 微蛋白尿階段(第三期)如好好治療,微蛋白尿還有機會改善回到上個 stage,如果進入第四期,糖尿病腎病變通常就無法再回頭,而只能逐漸走下坡了(point of no return)。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- 分類依據與 RIFLE 相似,也是看 GFR、SCr 與 urine output,但判斷依據改為 48 hrs 內。差別在於嚴重度分級改為 1~3,且將 SCr acute rise $\geq$ 0.3 定義為 stage 1 AKI。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- | Stage | Serum creatinine criteria | Urine output criteria | |-------|---------------------------------------------|----------------------------| | 1 | Increase in serum creatinine of ≥ 0.3 mg/dL | 200% to | 2$ to 3 fold) from Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- | Stage | GFR (ml/min) | 治療目標 | |---------|--------------|--------------------------------| | Stage 1 | > 90 | 治療 comorbid conditions,降低心血管風險 | | Stage 2 | 60~89 | | | Stage 3 | 30~59 | 開始限制蛋白質攝取,評估、治療併發症 | | Stage 4 | 15~29 | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- (2) Stage 3(GFR +,加上高血鉀會抑制 ammonia 製造,故會造成 non-anion-gap metabolic acidosis,此時 須適當治療高血鉀。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- (C) 5. 針對 TNM Staging System Stage I、3 cm 的早期肝細胞癌,以下的治療方式,何者不是「具治癒性可能(curative-intent)」的治療策略? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 
 ## Clinical Caveats
 

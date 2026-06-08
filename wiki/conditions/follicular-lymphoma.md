@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch19]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Follicular lymphoma (濾泡性淋巴瘤)'
   - 'Follicular lymphoma'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-indolent B cell lymphoma，常見 t(14;18)/BCL2。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+indolent B cell lymphoma，常見 t(14;18)/BCL2。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch19]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- 1. 咽結膜炎熱 (Pharyngo-conjunctival fever, PCF): - (1) 常見腺病毒 3型及 7型引起。 - (2) 症狀:類似感冒。發燒、喉痛及結膜炎為特徵,咽部扁桃腺發炎,頸部淋巴腺腫大,眼球及眼臉結膜呈濾泡性充血。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...all lymphoc | ytic lymphoma | | | | CD5(+) | | Mantle cell lymphor | na - Cyclin D1(+) | | | CD19(+) | O(+) | CD10(+) | Follicular lymphoma | | | Lymphocytosis | | | SD 10() | CD25(+) | Hairy cell leukemia | | (Lymphoma) | | | CD10(-) | CD25(-) | MALToma | | (-) inpirama) | | | | CD25(+) | Adult T cell lym. | | | CD3(+) | | | CD25(-) | Peripheral T cell lym Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...lent | Mantle cell lymphoma | t(11; 14) | BCL-1, IgH | | lymphoma | CLL/small lymphocytic lymphoma | t([4]; 15) | | | | Follicular lymphoma | t(14; [18]) | BCL-2, IgH | | | MALT lymphoma | t(11; 18) | API2/MALT, BCL-10 | | Aggressive | Diffuse large cell lymphoma | t(3; -), t(17; -) | BCL-6; p53 | | lymphoma | CD30+Anaplastic large cell lymphoma | a t(2;5) Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - \*Follicular lymphoma 中,Bcl-2 的過度表現使得細胞無法走向凋亡(Apoptosis)。 Source: [[sources/med3-book4-ch13|丁、急性白血病]].

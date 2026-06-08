@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch11]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Proton pump inhibitors, PPI (質子幫浦抑制劑)'
   - 'Proton pump inhibitors, PPI'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch11]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (2) 內科治療: - a. 傳統制酸劑使用可以迅速改善症狀,但因副作用不建議長期使用。PS:副作用如 diarrhea (magnesium) and constipation (aluminum)。 - b. Histamine-2 receptor antagonists、proton pump inhibitors (PPIs) 使用,治療效果佳。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 5. 治療:兩個目標:緊急處理出血以及防範再出血。 - (1) Emergency treatment:輸液補充、矯正凝血功能、藥物治療出血(vasopressin、H2-receptor blocker、proton pump inhibitor)。 - (2) 防範再出血: Propranolol。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 氫離子幫浦抑制劑(Proton pump inhibitors),可用於治療嚴 重潰瘍出血的病患 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...植後服用環孢靈(cyclosporine),下列何種藥物 98(二)專 應避免使用? 醫三-3 (A) Allopurinol (B) 紅黴素 (erythromycin) (C) 阿斯匹靈 (aspirin) (D) 氫離子幫浦抑制劑 (proton pump inhibitor) 【詳解】erythromycin 是 cytochrome P 450 CYP3A4 抑制劑,會增 加藥物濃度。 (A) 4. 腎臟移植手術一個月之內比較少見的感染為何? 97(一)專 (A) BK virus (polyoma) (B) 泌尿道感染 醫三-29 (C) oral candidiasis (D) herpesvirus 【詳解】 The Most Common Opportunistic Infections in Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 - 1. 致病三部曲: (Harrison fig 123-2) - (1) 住院感染到 C. difficile spore:住愈久愈容易、服用 PPI 使胃酸降低無法殺死孢子也增加 risk。 - (2) 使用抗生素抑制正常細菌:包含 Clindamycin, cephalosporin, quinolone 等。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - 3. 抑制藥物: Atropine 為 M3 接受器的阻斷劑, Cimetidine 為 H2 接受器的阻斷劑, Misoprostol 為 PGE 接受器的刺激劑,皆可間接抑制胃酸分泌;Omeprazole (質子幫浦阳斷劑)則直接抑制 H+-K+ATPase 幫浦分泌。 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].

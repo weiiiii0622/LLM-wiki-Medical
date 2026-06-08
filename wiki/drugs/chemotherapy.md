@@ -18,6 +18,7 @@ sources:
   - "[[sources/med3-book4-ch08]]"
   - "[[sources/med3-book4-ch23]]"
   - "[[sources/med3-book4-ch25]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Chemotherapy (化學治療)'
   - 'Chemotherapy'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,13 @@ tags:
 - [[sources/med3-book4-ch08]]
 - [[sources/med3-book4-ch23]]
 - [[sources/med3-book4-ch25]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- 5. 治療: 化學治療與放射線治療。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- E. 治療: 手術切除, 有時考慮加上放射線治療或是化學治療。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- F. 治療: 以根除性切除為主,術後有時輔以放射線治療或化學治療。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - A. Cell cycle non-specific (CCNS) 201 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ### 乙、化學治療藥物 (Chemotherapy) Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - #### A. Cell cycle non-specific (CCNS) Source: [[sources/med3-book4-ch19|乙、化學治療]].

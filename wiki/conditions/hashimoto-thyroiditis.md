@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Hashimoto thyroiditis (橋本氏甲狀腺炎)'
   - 'Hashimoto thyroiditis'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-自體免疫甲狀腺炎，常導致甲狀腺低下。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫甲狀腺炎，常導致甲狀腺低下。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ tags:
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch03]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- (1) 兒童:橋本氏甲狀腺炎(最常見)、碘缺乏、放射治療、血管瘤( $T_4$ 轉換成 reverse $T_3$ )。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- #### 4. 後天性甲狀腺低下症-橋本氏甲狀腺炎 (Hashimoto disease): Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- d. 有些病人在剛開始發病時會有亢進症狀表現(橋本氏甲狀腺毒症),之後表現甲狀腺功能下降。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (7) 重症肌無力有時會因甲狀腺功能低下而造成,特別是 Hashimoto thyroiditis。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (3) Hashimoto thyroiditis:抗體攻擊 Thyroglobulin、Microsomal antigen,造成甲狀腺機能低下。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...abetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...(C) Rheumatoid arthritis (D) Antiphospholipid syndrome 【詳解】(Harrison 1959 Table 299-5) Organ specific: Graves' disease、Hashimoto's thyroiditis、Addison's disease 等。 Organ nonspecific: SLE、RA、APS、Sjögren's syn.、Wegner's granulomatosis。 | 93(二)檢內-64 | | (A) | 4. 器官移植後受贈者(recipient)之 T 淋巴球會被活化:一種是接受到捐贈者之組織抗原(Donor Major Histocompatability Antigen, Do Source: [[sources/med3-book4-ch07|庚、過敏疾病]].

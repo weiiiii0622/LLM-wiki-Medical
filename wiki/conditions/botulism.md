@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch10]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Botulism (肉毒桿菌中毒)'
   - 'Botulism'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch10]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- 【詳解】嘗試添加新的副食品時,原則是每次只添加一種並觀察孩子的狀況。兒童可嘗試食用新鮮水果,但不建議用果汁當作水分來源;應多鼓勵喝水,少喝含糖或是含咖啡因飲料。另外,一歲以前的孩子禁止食用蜂蜜,避免肉毒桿菌感染。因此較適合的答案為(D)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 1.1 歲以下的寶寶不可餵食蜂蜜,因為蜂蜜中易有肉毒桿菌孢子。1 歲以下寶寶因免疫系統及腸道菌叢尚未健全,喝蜂蜜容易造成肉毒桿菌毒素中毒而引發呼吸哀竭;另帶皮蔬果可能沾染泥土,應澈底清洗及去皮後,才進行副食品的製作,減少肉毒桿菌中毒的風險。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 以內視鏡注射肉毒桿菌毒素(botulinum toxin)可完全治癒 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - \* 國考題的翻譯:臘桿菌(Bacillus cereus)、臘腸毒桿菌(Clostridium botulinum),前者就是大家熟悉的造成食物中毒的仙人掌桿菌,後者就是能使肌膚緊縮的肉毒桿菌,乍看中文翻譯易搞混,須依英文學名為主。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - | 致病菌 | | 疾病 | | 症狀 | |--------|-------------------------|-------|--------------------------|--------| | 肉毒桿菌 | Clostridium botulinum | 肉毒桿菌病 | Botulism(抑制 Ach 釋放) | 肌肉衰弱 | | 破傷風桿菌 | Clostridium tetani | 破傷風 | Tetanus(抑制 Gly,GABA 釋放) | 肌肉痙攣 | | 產氣芽孢桿菌 | Clostridium perfringens | 氣性壞疽 | Gas gangrene | 蜂窩性組織炎 | | 困難芽孢桿菌 | Clost Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - #### 1. 臘腸毒桿菌 (Clostridium botulinum) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

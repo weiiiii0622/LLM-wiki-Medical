@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Lipid profile (血脂檢查)'
   - 'Lipid profile'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,13 @@ tags:
 - [[sources/med3-book3-ch06]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- (A) 27. 一位三星期大女嬰因全身水腫,尿量減少而就診。實驗檢查發現蛋白尿 4+,24 小時蛋白尿為 10.5 g 血中白蛋白為 0.88 mg/dL, 膽固醇:498 mg/dL,三酸甘油脂:248 mg/dL,下列之描述何者錯誤? Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】家族型高膽固醇血症(familial hypercholesterolemia) 其嚴重度是根據基因上的變異數量決定,即有加成效應(gene dosing effect)。故同型合子會比異型合子的表現來的嚴重。同 合子患者其低密度脂蛋白(low density lipoprotein, LDL)膽固醇 數值是正常人的 4~6 倍,通常 LDL-C 為 500~1200 mg/dL。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...----------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL 異常,只 | | | | | 當一項計算之) | | 腹部肥胖或肥胖 | 腰圍 (cm): | 腰圍 (cm): | BMI ≥ 30 kg/m² 或腰臀比: | | | 男≥ 90 | 男> 102 | 男> 0.9 | | | 女≧ 80 | 女> 88 | 女> 0.85 | | 三酸甘油酯 (TG) | ≥ 150 mg/dL | $\geq$ 150 mg/dL | $\geq$ 150 mg/dL | | 高密度酯蛋白 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...接因跌倒而產生的疾病。老年人常見的呼吸道疾病應該是以肺部感染為大宗。 | 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 22 mg/dL (B) 85 mg/dL (C) 130 mg/dL (D) 162 mg/dL 【詳解】(D) 當總膽固醇小於 400 mg/dl 時,可以用公式 LDL-C=(TC)-(HDL-C)-(TG/5)=162 mg/dl。 | 104(一)專醫三-61 | | (A) 28. | . 一位 85 歲王先生,患有高血壓、糖尿病多 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - b. 腹膜透析也比血液透析常合併血脂異常,建議以 HMG CoA reductase 將 LDL 控制到 100 以下。 Source: [[sources/med3-book3-ch06|己、透析治療]].
@@ -63,7 +69,6 @@ tags:
 - 3. 抽血檢驗:(Ref. Harrison Table 247-6) - (1) 腎臟: BUN、Cr、尿液分析、尿液白蛋白排泄量(檢測高血壓腎病變) - (2) 內分泌:Na、K、Ca、TSH(高鈉低鉀暗示 hyperaldosteronism) - (3) 代謝:空腹血糖、total cholesterol、HDL、LDL(可經總膽固醇—HDL-C TG/5 計算得知此項,TG 很高(> 400 mg/dL)或很低的時候就會失準,最好直接檢測 LDL-C 濃度)、TG - (4) 其他: Hematocrit, EKG Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - Total cholesterol, LDL-cholesterol, HDL-cholesterol and triglycerides Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - | Basic testing | Fasting blood glucose* | |---------------|-----------------------------------| | | Complete blood count | | | Lipid profile | | | Serum creatinine with eGFR* | | | Serum sodium, potassium, calcium* | | | Thyroid-stimulating hormone | Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- CBC, BUN, Cr, electrolytes, Ca, Mg, fasting glucose, fasting lipid profile, urinalysis, thyroid function tests ° Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 
 ## Clinical Caveats
 

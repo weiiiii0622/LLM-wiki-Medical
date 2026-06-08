@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch16]]"
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Acromegaly (肢端肥大症)'
   - 'Acromegaly'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med3-book2-ch16]]
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch06]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- 3. 實驗室檢查:CBC、BUN、creatinine、電解質(Na, K, Ca, P)、血液 pH 值、alkaline phosphatase、25-OH vitamin D、尿液分析、IGF-1、thyroid hormone、TSH、arginine、 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...nt human growth hormone, rhGH)早從 1980 年代開始。即使到今天仍未有長效型藥物問世。目前長效型藥物仍處於臨床試驗階段。美國食品藥物管理局(FDA)列出 8 項臨床疾病核准使用 rhGH 治療: - (1) GH deficiency - (2) Turner syndrome - (3) Chronic renal failure before transplantation - (4) Idiopathic short stature - (5) Small-for-gestational-age short stature - (6) Prader-Willi syndrome - (7) SHOX gene abnormality - Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...μg/kg/day),採取皮下注射(一天一次)。一般而言在開始治療的第一年效果最明顯(可達到生長曲線第 95 個百分位以上)。隨著每年增長,劑量也跟著往下調整。若要使用高劑量方式治療,使用時機在病人處於青春期狀態或是病人本身疾病為 non-GH deficiency。 IGF-1 是用來追蹤血液生長激素濃度一個較好的標的。當有以下狀況則考慮停止使用 rhGH 治療:(a) 病人覺得身高已經達到要求,(b) 每年生長高度低於 1 英吋( - (A) 柯林菲特氏症 (Klinefelter syndrome) - (B) 卡門氏症 (Kallmann syndrome) - (C) 普瑞德威利氏症 (Prader-Willi syndrome) - (D) 先天性腦垂體低能症(C Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 2. DAS28 = $(0.56 \times \text{vTJC}) + (0.28 \times \text{vSJC}) + (0.7 \times \ln \text{ESR}) + (0.014 \times \text{GH})$ - (1) TJC:觸痛關節數,SJC:腫脹關節數,ESR: 紅血球沉降速率(單位為 mm/h) - (2) GH:病患為自己的整體健康狀態 (general health status) 由 0~100 分打分數 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - ...----------------------|------------------|------------------------|-----------------| | Hormone | FSH, LH | TSH | PRL | GH | ACTH | | 刺激分泌 | GnRH,estrogen | TRH | TRH,Estrogen | GHRH | CRH, AVP | | 抑制分泌 | Sex steroids | T3, T4, dopamine,somatostatin,glucocorticoids | Dopamine | Somatostatin,IGF-1 | Glucocorticoids | | 目標器官 | 性腺 | 甲狀腺 | 乳腺 | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

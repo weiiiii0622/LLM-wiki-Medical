@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Warfarin (華法林)'
   - 'Warfarin'
@@ -20,15 +22,21 @@ tags:
 
 ## Summary
 
-抑制 vitamin K recycling，降低 factor II、VII、IX、X，需以 INR 監測。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 vitamin K recycling，降低 factor II、VII、IX、X，需以 INR 監測。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch11]]
 - [[sources/med3-book4-ch12]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...factor 7, tissue factor。 - (3) 共同路徑: factor 10a, 5a, 2, 1。 - (4) 記法: EX-PresidenT K went to WAR. (Extrinsic, PT, Vit K, Warfarin)。 - (5) 特殊因子: - a. Factor 7 是半衰期最短的因子。 - b. Factor 8 是唯一不由肝臟製造的因子。 - c. Factor 13 缺乏時無法由 PT/PTT 測得。 - d. Vit K dependent 的因子:factor 2, 7, 9, 10 和 protein C, protein S。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- ...-------------| | ITP | ↓ | Normal | Normal | | HUS/ TTP | ↓ | Normal | Normal | | DIC | ↓ | 1 | ↑ | | Vit K deficiency/ Coumadin used/ | Normal | ↑ | 剛開始時正常,後來都會↑ | | Liver cirrhosis | | | | | vWD | Normal | Normal | ↑ (因為 factor 8 下降 ) | | Hemophilia | Normal | Normal | ↑ | Source: [[sources/med4-book1-ch08|辛、血液學]].
+- # D. Warfarin 和 heparin Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (4) 發生冠狀動脈病變的病人,長期處理: (參考) - a. Aspirin 3~5 mg/kg,一天一次給藥。視情況加上 dipyridamole 4~6 mg/kg/24 hr,一天分成兩至三次給藥。 - b. 具有產生血栓高風險的病人(冠狀動脈有明顯擴大者), 甚至會給予 warfarin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - | | Warfarin (口服) | Heparin (靜脈、皮下注射) | |--------|--------------------------------|--------------------------| | 機轉 | 抑制凝血因子製造 | 抑制凝血因子活化 | | | 抑制 vitamin K epoxide reductase | 主要抑制 10a; | | | →減少 Vit K 再生 | 與 Antithrombin 結合,加強其作用, Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (A) coumadin treatment Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 3. 治療: Warfarin 治療 3 個月,將 INR 控制在 2.5 至 3 左右。 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].

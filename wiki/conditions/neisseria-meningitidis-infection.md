@@ -10,6 +10,10 @@ sources:
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book3-ch12]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Neisseria meningitidis infection (腦膜炎雙球菌感染)'
   - 'Neisseria meningitidis infection'
@@ -24,7 +28,7 @@ tags:
 
 ## Summary
 
-可造成流行性腦膜炎與敗血症，密切接觸者需預防性投藥與通報。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成流行性腦膜炎與敗血症，密切接觸者需預防性投藥與通報。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +38,18 @@ tags:
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book3-ch12]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- ...------------------------------------|--|--| | 1~3 個月 | B 群鏈球菌、E. coli 、Listeria monocytogenes、肺炎鏈球菌、H. influenzaetype b、腦膜炎雙球菌(N. meningitides)、沙門氏菌(Salmonella) | | | | 3個月~3歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 3~12 歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 12 歲以後 | 肺炎鏈球菌、腦膜炎雙球菌 (N. meningitides) | Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (3) 治療時間: - a. 腦膜炎雙球菌: 7~10 天 - b. 肺炎鏈球菌、H. influenzae type b: 10~14 天 - c. B 群鏈球菌、Listeria monocytogenes: 14~21 天 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (2) 有些病人會有 embolic phenomena (Roth spots、petechiae、 splinter nail bed hemorrhages、Osler nodes、CNS or ocular lesions)、Janeway lesions、新出現的 murmur、心律不整或心衰竭。 - a. Osler node: 在手指或腳趾床出現具有壓痛、碗豆大小的結節。 - b. Janeway lesion:在手掌或腳掌出現 painless、small erythematous or hemorrhagic lesions。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】非傷寒沙門氏桿菌感染需要使用抗生素治療的情況如下:3個月以下的嬰幼兒、免疫功能缺陷的病人、臨床上持續高燒或是體溫過低、生命跡象不穩定的病人以及發展為毒性巨結腸症的病人。鐮刀型紅血球疾病(sickle cell disease)病人由於其不正常的紅血球會造成血管梗塞(特別是 splenic infarction),因此病人免疫功能低下,感染的機會大增,特別是 encapsulated bacteria 感染,如 Streptococcus pneumoniae、Haemophilus influenzae type b 以及 Neisseria meningitidis。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (C) 臨床症狀包括肝脾腫大、黃疸、出疹(Petechiae、Purpura)等 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...Coagulation defect | | 實驗室檢查 | Bleeding time (BT) | PT \ aPTT | | 出血處 | 皮膚、黏膜 | 肌肉、關節 (Deep in soft tissue) | | 病灶名稱 | Petechiae, Ecchymosis | Hemarthroses, Hematomas | | 出血時機 | 小切傷,較立即、輕微 | 大手術,較延遲、嚴重 | | | 如:流鼻血、刷牙流血 | 如:血膝、爬山後肌肉內血腫 | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 【詳解】圖片可見 petechiae ( 12 deficiency - (D) liver cirrhosis with hypersplenism Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - D. 腦膜炎雙球菌 (Neisseria meningitidis) 129 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].

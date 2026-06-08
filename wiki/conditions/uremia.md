@@ -19,6 +19,12 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Uremia (尿毒症)'
   - 'Uremia'
@@ -33,7 +39,7 @@ tags:
 
 ## Summary
 
-腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +58,25 @@ tags:
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch04]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- (2) 出生後,若在男性新生兒發現膀胱擴大或是微小的尿流,此時就要懷疑尿道後 瓣膜的可能性。假若在新生兒期間沒有發現,病人則會有很高的機會得到泌尿 道感染引發敗血症或是尿毒症,造成病人死亡。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (3) 血液生化檢查:用來評估腎臟損傷程度,如BUN、Cr、CBC(評估貧血程度)。 5. 治療: - (1) 初步處理:為了防止泌尿系統的惡化,先用鼻胃管(No.5 or 8 French)導尿而不是用導尿管(Foley catheter 上的 balloon 會造成膀胱痙攣)。矯正電解質、BUN、Cr,治療呼吸窘迫…等,當病人情況穩定則以手術治療。 - (2) 手術:用小兒膀胱尿道切除鏡將尿道後瓣膜切除。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 6. Hemolytic-uremic syndrome Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- III. 血小板疾病 355 - A. 血小板低下症 355 - B. 免疫性血小板缺乏紫斑症(ITP) 355 - C. 溶血性尿毒症候群和血栓性血小板減少紫斑症 355 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (D) 2. 下列何種病原最少引起溶血性尿毒症候群 (hemolytic-uremic syndrome)? Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (B) 溶血性尿毒症候群 (hemolytic uremic syndrome) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (C) 1. 下列何種疾病或原因所導致的黃疸,以直接型高膽紅素血症 109(一)專 (Conjugated hyperbilirubinemia) 為主? - (A) ABO 血型不合溶血(ABO incompatibility hemolysis ) - (B) 溶血性尿毒症(Hemolytic-uremic syndrome) - (C) Alagille 症候群 (Alagille syndrome) - (D) Gilbert 症候群 (Gilbert syndrome) Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- 3. 初步診斷: - (1) 外觀正常,考慮三大類疾病:胺基酸異常、尿素循環異常、有機酸血症。 - a. 同時合併 NH、↑,pH ↓,HCO、↓,以及中性球低下→考慮有機酸血症。 - b. 同時合併 NH、↑,正常 pH 值,BUN ↓→考慮尿素循環缺陷。 - (2) 肝臟腫大,考慮兩大類疾病:醣類代謝疾病、脂肪酸氧化異常疾病。 - a. 同時合併血糖 ↓ ,pH ↓ (或正常),乳酸 ↑ ,酮體生成→考慮醣類代謝異常。 - b. 同時合併血糖 ↓ ,尿酮 ↓ → 考慮脂肪酸氧化異常疾病。 - (3) 外觀異常,考慮兩大類疾病:過氧化體疾病、溶小體疾病。 - (4) pH ↓ ↓ , 其他 lab 正常→考慮楓糖尿症。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 4. 請務必把上述初步判斷法記熟,下次遇到疑似先天性代謝異常的病嬰時,至少就知 道要抽 ABG, ammonia, BUN/Cr, ketone 等等。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- ...生素。 - a. Enterotoxigenic E. coli: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxo Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) 2. 30 歲的婦女,產前 7 天的血壓正常,血液肌酸酐 0.6 mg/dL。產後當天有出血、高血壓、少尿、水腫。理學檢查皮膚沒有紅斑或紫斑,血液 Hb 8.0 g/dL,血小板 70,000/mm³,血液抹片有 fragmented RBCs,haptoglobin 下降,BUN 100 mg/dL,肌酸酐 3.6 mg/dL,尿液 osmolality 400 mOsmol/kg H2O,尿液 Na+ 10 mmol/L,尿液紅血球 20~30/HPF,尿液蛋白質 trace。最可能的診斷是: Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (B) 溶血性尿毒症候群 (hemolytic uremic syndrome) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
@@ -63,16 +85,6 @@ tags:
 - ...| | | | rindolotics | | Bleomycin →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecit Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...答 (B)、(C) 給分。 | | | (B) | 8. Mitomycin C 和下列何種症候群有關? | 104(一)專 | | | (A) hand-foot syndrome | 醫三-53 | | | (B) hemolytic uremic syndrome | | | | (C) hyperviscosity syndrome | | | | (D) capillary leak syndrome | | | (D) | 9. 下列何者不是 doxorubicin 的副作用? | 103(二)專 | | | (A) 骨髓抑制 | 醫三-44 | | | (B) 心臟毒性 | | | | (C) 噁心 | | | | (D) 腎毒性 | | | (C) | 10. 下列腫 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...(Testicular pain or tenderness) - d. 肌肉無力、疼痛 - e. 神經病變 (Mononeuropathy or polyneuropathy) - f. 高血壓:舒張壓> 90 - g. 腎功能變差: BUN > 40 mg/dL or creatinine > 1.5 mg/dL - h. B 型肝炎 - i. 血管攝影可見動脈瘤 (aneurysms) 或動脈被阻塞 - j. 切片可見中小型動脈有 PMN 浸論、Fibrinoid necrosis、但沒有肉芽腫形成 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- ...幾個禮拜水腫、血壓高、咳血、氣喘發作,小便驗起來有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9,無糖尿病、高血壓,我們可懷疑為 ESRD due to CGN。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...:蛋白質 300 mg/dL,每高倍鏡 下 RBC 35~45、WBC 10~15、 RBC casts 2~4。全血球數檢查: Hb 10.6 g/dL、WBC 4,600/μL、platelets 120,000/μL;血液生化檢查: BUN 35 mg/dL、肌酸酐 1.8 mg/dL。下列那個處置是最適當的? (A) 檢查血清 ANA, C3 濃度,並安排腎臟切片檢查 (B) 安排胃鏡檢查 (C) 給予輸血 (D) 尿液細菌培養,並給予抗生素兩週 (B) 8. 腎病症候群 (Nephrotic Syndrome) 和下列何種癌症最有關聯? 101(一)專 (B) 何杰金氏淋巴癌 醫三-36 (A) 腎臟細胞癌 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...300 mg/dL, 每高倍鏡下RBC 35~45, WBC 15~20, RBC casts 2~4。全血球數檢查: Hb 10.0 g/dL, WBC 4,500/mm³, platelet 120,000/mm³; 血液生化檢查: BUN 35 mg/dL, 肌酸酐 1.6 mg/dL。先作下列那個處置是最適當的? (A) 給予降血壓藥物 Amlodipine 每天 5 mg, 一個月後再作尿液分 - 析和生化檢查 - (B) 檢查血清補體濃度,並限制鹽分攝取 - (C) 心臟超音波檢查,並給予利尿劑 - (D) 胸部 X 光檢查,並給予抗生素兩週 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- D. 尿毒症毒素 (Uremic toxin) 95 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ## D. 尿毒症毒素 (Uremic toxin) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- 1. 尿毒症的毒素指慢性腎病病人因腎功能衰竭,造成體內代謝廢物堆積,而這些毒素干擾 細胞代謝及功能,而造成各器官系統的症狀。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...竭導致陰離子堆積,如 Phosphate、Sulfate。 - (3) 問病史是否有喝或食入下列有機酸: - a. Osmolal gap = Measured osmoles-Calculated osmoles (2Na+Glu/18+BUN/2.8) ° - b. Osmolal gap > 10 表示可能有喝甲醇、乙醇、乙二醇、異丙醇等。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- 5. 第四題:pH = 7.42;HCO $_3$ = 25;Pa $_{CO2}$ = 40;Na $^+$ = 140;K $^+$ = 3.0;Cl $^-$ = 95 - (1) 第一步:中性 - (2) 第二步:AG = 20,表示隱藏有高陰離子間隙代謝酸; $\Delta AG(20) >> \Delta[HCO_3^-](1) \to$ 表示 $HCO_3^-$ 沒有因為滴定陰離子間隙而減少,所以有 $HCO_3^-$ gain;因此合併高陰離子間隙代謝酸+代謝鹼 - (3) 臨床狀況:常見於 Uremic 病人合併最常見的 Uremic symptoms(嘔吐) Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...--------| | (B) | 18. 一位酗酒病人因意識不清、劇烈嘔吐被送至急診室。其血液生化檢查及動脈血分析如下: pH: 7.40、PaCO₂: 40 mmHg、HCO₃: 24 mEq/L、Glucose: 120 mg/dL、BUN: 10 mg/dL、Creatinine: 0.7 mg/dL、Na: 134 mEq/L、K: 2.6 mEq/L、Cl: 80 mEq/L、Acetone: 3+,則下列何者為正確的診斷? (A) 血液酸鹼值正常無代謝性酸鹼疾病(B) 代謝性酸中毒合併代謝性鹼中毒(C) 代謝性酸中毒合併呼吸性鹼中毒(C) 代謝性酸中毒合併呼吸性酸中毒(D) 代謝性鹼中毒合併呼吸性酸中毒 【 詳解】(1) pH = 7.4 → 中性; (2) AG Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- | (A) | 1. 一位 50 歲病人罹患慢性腎絲球腎炎 20 年,現出現尿毒症狀,且血中肌酸酐為 11.0 mg/dL,BUN 120 mg/dL,病人選擇血液透析,下列敘述何者錯誤? | 107(一)專醫三-8 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch06|己、透析治療]].
 
 ## Clinical Caveats
 

@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Sjogren syndrome (修格蘭氏症候群)'
   - 'Sjogren syndrome'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch04]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- (3) Neonatal lupus erythematosus (NLE)新生兒紅斑狼瘡:母親的自體免疫抗體(通常是 anti-Ro/SSA 或 anti-La/SSB)經由胎盤傳給胎兒,造成新生兒紅斑狼瘡。通常母親為 SLE 或 Sjögren syndrome 患者。新生兒可能出現皮膚疹子,先天性心臟傳導阻滯 (congenital heart block),而少數會出現血小板低,中性球低下, Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...aynaud phenomenon, insterstitial lung | | | RNP) antibody | disease, and pulmonary hypertension | | | Anti-Ro antibody (anti-SSA | Associated with sicca syndrome | | | antibody) | May suggest diagnosis of Sjögren syndrome | | | Anti-La antibody (anti-SSB | Increased risk of neonatal lupus in offspring (congenital heart | | | antibody) | block) | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) anti-SSA/anti-SSB antibody Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - ...制,便較無法攻擊細胞內的病原體。 | 94(二)專內1-22 | | (B) 18 | . 依流行病學的調查顯示,下列那一種疾病的盛行率(prevalence)最高? (A) 紅斑性狼瘡(SLE) (B) 原發性修格連氏症(primary Sjögren's syndrome) (C) 肌炎:多發性肌炎加上皮肌炎(myositis:polymyositis + dermatomy-ositis) (D) 硬皮症(scleroderma) 【詳解】primary Sjögren's syndrome 的盛行率約 0.5~1%(Harrison, 1990),SLE 的盛行率約 0.015~0.05%(Harrison, 1960),常見的風濕疾病排名:OA > RA(0.8%) > SS Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - B. 修格蘭氏症候群 (Sjögren's syndrome, SS) 32 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].

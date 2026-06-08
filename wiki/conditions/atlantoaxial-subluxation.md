@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch08]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Atlantoaxial subluxation (寰樞椎半脫位)'
   - 'Atlantoaxial subluxation'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch08]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- 1. Atlantoaxial instability Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (2) 中軸骨的侵犯則主要侷限於上頸椎,關節滑液膜發炎,導致 C1 (寰椎)滑脫,而與 C2 (樞椎)的齒突 (Dens)分離(如圖中黑線),稱為寰椎樞椎不完全脫臼 (Atlantoaxial Subluxation),病患會有枕部頭痛、四肢無力癱瘓。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - C1 往前 (頭往下看)、C2 往後脫位 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - ...| 起使者 | Antigen-Antibody | 細菌表面的醣蛋白或碳水 | Spontaneous hydrolysis | | | complex (IC) | 化合物 (Mannose) | of C3 | | 第一個補體 | C1 與 Ab 的 Fc 結合 | MLB 與細菌表面結合 | C3b 與細菌表面結合 | | 接下來引發 | $\rightarrow$ C4 $\rightarrow$ C2 | $\rightarrow$ C4 $\rightarrow$ C2 | → Factor B, D | | 共同路徑 | | $\rightarrow$ C5 $\rightarrow$ C6789 | | | 補體功能 | C3a, C5a 為過敏休克 | Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].

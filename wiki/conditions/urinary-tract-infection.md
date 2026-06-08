@@ -13,6 +13,11 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Urinary tract infection, UTI (泌尿道感染)'
   - 'Urinary tract infection, UTI'
@@ -27,7 +32,7 @@ tags:
 
 ## Summary
 
-泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +45,24 @@ tags:
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- L. 兒童泌尿道疾病 100 - A. 泌尿道感染 (Urinary tract infections, UTI) 100 - B. 膀胱輸尿管逆流 (Vesicoureteral reflux, VUR) 101 - C. 尿道後瓣膜 (Posterior urethral valve) 103 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- # A. 泌尿道感染 (Urinary tract infections, UTI) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (1) 3~5% 女性與 1% 男孩會有 UTI,好發的高峰在嬰幼兒與學習排尿時期的小朋友。 當第一次得到 UTI 後,60~80% 女童在 18 個月內會再有一次 UTI 發生。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 腹痛在兒科病人中是很常見的主訴,背後原因範圍非常廣。它可以是單純因飲食不均衡引起的便秘或吃壞肚子引起,也可以是因為腸套疊引起,也可能是腹膜炎,甚至肺炎、泌尿道感染、敗血症…等。因此,在小兒科,當我們在接觸病人時,不能只是單純想到腹部消化系統疾病,其它系統疾病也要考慮。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- | 3 歲以下: | | |----------------|---------------| | 1. 腸套疊 | 7. 疝氣 | | 2. 巨腸症 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 泌尿道感染或腎盂腎炎 | | 4. 腸扭轉或是腸阻塞 | 10. 胰臟炎 | | 5. 腸胃炎 | 11. 外傷 | | 6. 肺炎 | | | 3~11 歲: | | | 1. 急性闌尾炎 | 7. 腎盂腎炎 | | 2. 外傷 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 胰臟炎 | | 4. 急性腸胃炎 | 10. 腸扭轉或腸阻塞 | | 5. 肺炎 | 11. 腸系膜淋巴瘤 | | 6. 類過敏性紫斑症 | | | Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 急性腎盂腎炎 (acute pyelonephritis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...)專 bilirubin) 沈積在下列何處? 醫四 -3 (B) 基底核 (A) 腦膜 (D) 腦室旁 (C) 小腦 (B) 7. 下列何者不是造成延遲性黃疸之原因? 104(二)專 (A) 膽道阻塞 醫四-7 (B) 配方奶哺育 (C) 泌尿道感染 (D) 甲狀腺低下症 (B) 8. 一位足月男嬰出生時很順利,但是第三天大時開始出現黃疸,下 104( - )專 列那一項最不可能是此嬰兒的黃疸原因? 醫四 -8 (A) 生理性黃疸 (B) Rh 血型不合 (C) 哺育母乳黃疸 (D) 泌尿道感染 【詳解】第三天開始出現黃疸為生理性黃疸,因此(A)(C)直接 不選。(B)(D) 雖然是病理性黃疸,但是 RH 血型不合產生溶血 引起的病理性黃疸在出生後第一二天就會出現,不會在出生第 三 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- ...syndrome | | | Rotor syndrome | | | | Galactosemia | | | | 2. 感染 | | | | Rubella, CMV, herpes | | | | virus, | : | | | UTI due to E. coli, | | | | toxoplasmosis , syphilis | | | | 3. 全靜脈營養 (TPN) | | | | 4. 其它:shock、 | | | | hemotochromatosis | | | Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- 【詳解】有血尿及蛋白尿懷疑有 nephritis,加上關節炎及慢性 systemic 徵兆 (發燒),又是年輕女性,因此首先考慮 SLE,驗 dsDNA 有助診斷。而 systemic inflammation 就有可能造成 pyuria,但為排除泌尿道感染,仍應做小便培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...itrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | | Ifosfamide → 肉癌 (Sarcoma) | 出血性膀胱炎 | | | CCNS | | mustards | Melphalan→多發性骨髓瘤 (MM) | | | | CCNS | | Other | Carmustine (BCNU) · Lomustine (CCNU) | 延遲的骨髓抑制 | | | | | 4 4 12 | Doxorubicin→淋巴瘤 (CHOP)、乳癌、肉癌 | | | | | Antitumor | Anthracycline | Idarubicin → Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - | (C) | ()() | 下列何項不是 cyclophosphamide 常見的副作用? (A) 抑制骨髓 (B) 出血性膀胱炎 (C) 周邊神經病變 (D) 噁心嘔吐 | 101(一)專醫三-37 | |-----|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (1) 烷化劑 (Alkylating agent): Cyclophosphamide (Endoxan® 愛德星) - a. 作用機制:烷化(Alkylating)DNA、與 DNA 結合,進而抑制 DNA 複製;針對 分化快速細胞皆有作用,效果最強、副作用也最大。 - b. 可能造成骨髓抑制、出血性膀胱炎(Hemorrhagic cystitis)、提前停經(premature ovarian failure)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
@@ -51,12 +71,6 @@ tags:
 - 1. 下泌尿道感染包含 Urethritis、Cystitis、Prostatitis Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 2. 上泌尿道感染包含 Pyelonephritis、Renal abscess Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - ...------------------------------|------------------------------------------------------------------------|--| | 移植後1個月內 | UTI (Escherichia coli) | | | related to surgery | IV lines, wound inf. (Staphylococcus aureus, Streptococcus viridans) | | | | Pneumonia (Streptococcus pneumoniae) | | | 移植後 1~6 個月 Viremia (cytomegalovirus, Epstein-Barr vir Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- ...【詳解】erythromycin 是 cytochrome P 450 CYP3A4 抑制劑,會增 加藥物濃度。 (A) 4. 腎臟移植手術一個月之內比較少見的感染為何? 97(一)專 (A) BK virus (polyoma) (B) 泌尿道感染 醫三-29 (C) oral candidiasis (D) herpesvirus 【詳解】 The Most Common Opportunistic Infections in the Renal Transplant Recipient (Reference: Harrison's internal medicine 17th) Peritransplant ( 6 months)Aspergillus · Nocardia Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- ...oxime) (D) 注射 atropine 之最大劑量不可超過 3 mg 【詳解】症狀為 Cholinergic symptoms,atropine 當解毒劑使用可用到症狀緩解。 | 98(一)專醫三-77 | | (B) | 6. 急性泌尿道感染(urinary tract infection),若沒有放導尿管,無泌尿道結構異常,也沒有結石(calculi),則最常見的病原菌為那一種? (A) Proteus (B) E. coli (C) Klebsiella (D) Enterobacter | 97(一)專醫三-10 | | (C) | 7. 一位 35 歲男性被診斷為腎臟細胞癌,手術時發現肝及胰臟有囊腫存在,患者父親也有腎臟癌病史,腦部磁振照影發現小腦部位有一腫瘤,則患 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
-- | 名稱 | Species | 凝固酶 | 溶血 | 存在處 | |---------|------------------|-----|---------|---------------------| | 金黃色葡萄球菌 | S. aureus | 陽性 | β(完全溶血) | 鼻腔、皮膚 | | 表皮葡萄球菌 | S. epidermidis | 陰性 | γ(無溶血) | 體內修補裝置物,如人工瓣膜、人工關節 | | 腐生葡萄球菌 | S. saprophyticus | 陰性 | γ (無溶血) | 泌尿道感染 (僅次於 E. coli) | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 3. **腐生葡萄球菌(S. saprophyticus)**: 性生活頻繁的女性之泌尿道感染,泌尿道感染中, 僅次於 E. coli,為第二常見致病菌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...BS): 導致疾病: 主要存在人類陰道。新生兒敗血症、腦膜炎: 乃因經過產道時感染所致。 - 3. 糞腸球菌 (Enterococcus faecalis) => D 群鏈球菌 (Group D streptococcus): 引起膽道、 泌尿道感染,常引起院內感染。當腸道、尿道接受侵入性檢查時,此菌可能因此進入血中,瓣膜有壞損的人,就可能因此感染心內膜炎。治療: Ampicillin+ Gentamicin。 - 4. 牛鏈球菌 (S. bovis) => D 群鏈球菌 (Group D streptococcus): 與大腸惡性腫瘤有關。 - 5. 突變鏈球菌 (S. mutans) => 草綠色鏈球菌 (Viridans streptococci): 牙齦的正常菌群,突變鏈球 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- | 頭孢子黴素 (Cephalosporin) 分類 | | 格蘭氏陽性 | 格蘭氏陰性 | 臨床使用泌尿道感染 | | |--------------------------|------------------------------------------------------|--------------|---------------------------|---------------|--| | 第一代 Cefazolin、Cephalexin | | 格蘭氏陽性球菌(GPC) | 一部份格蘭氏陰性菌 (PECK*) | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 
@@ -65,7 +79,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/vesicoureteral-reflux|Vesicoureteral reflux, VUR (膀胱輸尿管逆流)]]
 
 ## Follow-up
 

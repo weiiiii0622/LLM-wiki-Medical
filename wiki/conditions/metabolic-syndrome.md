@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Metabolic syndrome (新陳代謝症候群)'
   - 'Metabolic syndrome'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-腹部肥胖、高血壓、高血糖與血脂異常聚集，增加糖尿病與心血管風險。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹部肥胖、高血壓、高血糖與血脂異常聚集，增加糖尿病與心血管風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book2-ch13]]
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...的影像工具為超音波。目前確切診斷的方式為肝臟切片。臨床上危險因子有肥胖、男性、高加索人種(特別是西班牙人)、高三酸甘油酯血症病人以及對胰島素具有抗性的病人。因此,三歲以上肥胖或是體重過重病人應當檢查評估是否有 NAFLD,同時評估病人是否有新陳代謝症候群。目前兒童非酒精性肝疾病治療方式仍未有定論,減肥目前是大家公認最好的治療方式。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 2. 代謝症候群 (Metabolic syndrome): - (1) 定義標準:[ Health Promotion Administration, Taiwan, 2007; NCEP-ATP III, 2001; World Health Organization, 1999] Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - A. 新陳代謝症候群 (Metabolic syndrome) 222 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - #### A. 新陳代謝症候群 (Metabolic syndrome) Source: [[sources/med3-book2-ch09|丁、糖尿病]].

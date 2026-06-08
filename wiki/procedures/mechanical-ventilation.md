@@ -17,6 +17,10 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Mechanical ventilation (機械通氣)'
   - 'Mechanical ventilation'
@@ -31,7 +35,7 @@ tags:
 
 ## Summary
 
-呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +52,22 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- (1) 氧氣:利用呼吸器維持病人 $PaO_2$ 在 $50\sim90$ mmHg 以維持適當的組織氧合狀態,同時避免高氧的傷害與高二氧化碳造成肺部血管阻力。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- 3. 處理:若有呼吸窘迫應立即插管,禁止使用面罩甦醒氣按壓(因為會使腸胃道空氣更多,更加壓迫肺部),接上呼吸器後最大吸氣壓力(peak inspiratory pressure)也不宜太高,使用 permissive hypercapnia 原則( $PaCO_2$ 在 45~60 mmHg 即可)。手術時機目前沒有定論,但一般會在生命徵象穩定後 4~48 小時且肺壓降下來才手術。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (B) 5. 2,000 公克早產兒在加護病房住院近兩個月,她因為雙側腎臟發育 不全而合併慢性腎衰竭,又因為肺發育不全合併肺炎一直倚賴 呼吸器治療,於3週前需開始長期腹膜透析以維持電解質及體 液等平衡。很不幸地,這兩天醫師發現嬰兒發燒、透析液轉為 混濁,並且流量大為減少,初步檢查診斷為黴菌性腹膜炎,除 了用藥外,醫師建議手術更換腹膜透析管。這時候,不滿 20 歲 的年輕父母親要求醫師:「她實在好可憐,不要救了,讓她走吧, 請幫我們移除呼吸器,讓我們回家吧!」。下列何種做法最合適? - (A) 父母生她,也是法定代理人,必須由父母移除其呼吸器 - (B) 取得父母同意書後,施予 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (D) 對於有昏睡或意識障礙的肝病病童,若血氨(Ammonia)已 經上升且合併第二期肝腦病變(Hepatic encephalopathy Stage II)之意識混淆及嗜睡,應立即插管使用呼吸器 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...能不佳可注射維生素 K、給予新鮮冷凍血漿 FFP 或是血小板控制。此外,急性肝衰竭病人要注意血管內容積不足,因此需維持點滴輸液、補充電解質以及防止水份從腎臟流失。至於是否要輸白蛋白並無共識。當肝性腦病變出現 stage 4 時,應要插管使用呼吸器。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (2) 胃管引流和肛管灌洗,以空針抽取胃內容物,以減少嘔吐和吸入性肺炎的發生,並防止腸胃道因充氣膨脹而增加囊膜破裂的可能性。另外還包括有呼吸器的使用、抗生素的給予、水份及電解質的補充和血糖的監測等等。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...是唯一可以讓病人繼續存活方式。但在手術前仍有內科治療方式幫助病人撐到手術治療。 - (1) Presurgical management: - a. 使用 PGE1 保持 PDA 的開啟。 - b. 矯正無氧呼吸造成的酸血症。必要時插管使用呼吸器,要注意的是血液氧氣 濃度( $SpO_2$ )不可太高以免造成肺血管阻力與壓力快速下降,導致肺部過度 充血、而體循環血流嚴重不足(休克)。 - c. 有時可用 ballon artrial septostomy 讓 LA 擴大幫助血液氧氣供應。 - (2) Surgical management:手術以分階段放式治療病人。(畢業考生參考即可) Stage I:為 pallative surgery,手術方式有 Norwood proc Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】此題目胸部 X 光顯示病人插管使用呼吸器。兩邊的肺部呈現些許過度充氣、心臟位置仍在中間;故(B)、(C)可以不考慮。使用呼吸器常見肺部的併發症為肺部發育不良,因此(D)較合適。(A)肺隔離症為先天性肺部發育不良,肺組織呈現 solid tissue (胸部 X 光上呈現白色)且沒有肺部血管與支氣管相連接。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...前將他遷入重殘機構照顧。兩天前於鼻胃管餵食後數小時出現呼吸急促現象,機構特約醫師給予口服藥物治療後情況仍未改善,機構護理人員緊急將他送到醫院,你在急診室為他做相關的檢查,發現他兩側嚴重肺炎,血液氣體分析顯示嚴重呼吸衰竭,需緊急做氣管插管使用呼吸器。但無法聯繫上他的父母,而小鐘的情況於使用氧氣及鼻式正壓裝置後未見改善,且出現低血壓現象,此時下列那一種作法最為恰當? - (A) 持續聯繫他的父母及繼續目前的治療,但不插管 - (B) 請送小鐘來的機構護理人員做決定 - (C) 打電話給機構負責人請他做決定 - (D) 依照你的專業判斷給他做氣管插管及使用呼吸器 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - ...105( ) 專 書,希望病危的時候可以放棄急救。3天前,陳老先生出現發燒、 頻尿的情況,而被送往醫院救治,經過醫師的診察確認陳老先生為 尿路感染合併敗血症,陳老先生於住院中因為血壓不穩,經過輸液 治療而導致肺水腫,醫師建議進行氣管插管併用呼吸器治療,以緩 解其肺水腫。此時是否應同意陳老先生接受插管? - (A) 反對,因為陳老先生已經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反對,因為陳老先生為胰臟癌末期,不要再進行過於侵入性的 治療,免得增加其痛苦 - (C) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但本次住院的原因為泌尿道感染合併敗血症,並非不可 治癒的疾病,醫師應該為其插管治療 - (D) 贊成,雖然陳老先生為胰臟癌末期, Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (D) 23. 某家位於偏遠地區的小型醫院,全院只有一台呼吸器,目前正由一 99(-)專 位八十多歲的病人在使用中。此時一位住在附近燒炭自殺的高中生 醫三-79 被家人送來醫院急診,情況危急而亦需使用呼吸器。 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (A) 呼吸器改給高中生用,因老病人時日無多,救年輕人較符合效益 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
@@ -60,14 +77,6 @@ tags:
 - ...小時內 | | 漢他病毒症候群 | 漢他病毒肺症候群: 符合下列三項通報條件之一者: 一、有相關流行地區旅遊史、動物排泄物或分泌物等致病原暴露史,且符合下列部分或全部臨床描述者: (一)原本健康的人於住院 72 小時內演變成呼吸困難,需藉助呼吸器供給氧氣,發燒高於 38.3℃,兩側肺部瀰漫性水腫,X光片顯示類似急性呼吸窘迫症候群。或 (二)不明原因呼吸性疾病致死,經屍體解剖發現非已知潛在性疾病所引起的非心源性肺水腫者。 二、前項旅遊史或暴露史未知或不明,或無典型之臨床症狀,而相關檢體經實驗室檢驗符合下列任一條件者: (一)血清學抗體檢驗陽性(IgM 抗體陽性或採血間隔恰當之成對血清檢體的 IgG 抗體效價上升≥ 4 倍者)。 (二)臨床檢體 PCR 檢測陽性。 (三)組織切片免 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - # B. 非侵入性呼吸器 (Non-invasive Positive Pressure Ventilator = NIPPV): CPAP, BiPAP Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - 1.目的:呼吸器不是用來治病(curative)的,是用來支持衰竭的呼吸系統,直到病人的呼吸功能因治療或自然回復功能。且不該用呼吸器來延長死亡過程,如癌症末期病人、 末期之慢性呼吸衰竭。 Source: [[sources/med3-book1-ch20|庚、呼吸器]].
-- ...人肺部病變惡化時,因為給予 | | Control | 的壓力不變,所以通氣量可能不足。優點是可避免肺部壓力過大。 | | (PC) | 適應症:急性期過後,停用鎮靜劑時,不限制通氣量,給予固定的壓力輔助,病患較 | | , , | 能配合呼吸器。氣胸病患因為漏氣,故用 PC mode 較能維持適當通氣量。 | Source: [[sources/med3-book1-ch20|庚、呼吸器]].
-- ...cyanotic, Bloater | Pink puffer (Pink 是因為 Non-cyanotic, | | | 是因 Cor pulmonale 而有 peripheral edema) | Puffer 是因為製造 Auto-PEEP 吐氣狀) | | 治療 | FEV₁1 antitrypsin deficiency。 一般抽菸造成的疾病多在上肺葉,如上肺葉肺氣腫、上肺葉肺癌。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- (A) 7.52 歲男性,因嚴重慢性阻塞性肺病急性發作,血中二氧化碳過高與 103(-)專 呼吸衰竭而接受插管治療。即使給予恰當鎮定治療,呼吸器仍反覆 醫三-3 出現壓力過高警訊。臨床上發現心搏過速,檢查血壓 112/68 mmHg,心跳每分鐘 180次,右胸部呼吸音降低,心電圖呈現規則 窄波 QRS。考慮病人面臨的呼吸系統和心臟循環系統出現的情況,下一步那一個檢查或治療是你的優先選擇? - (A) 肺部 X 光 - (B) amiodarone 200 mg, 靜脈注射 - (C) 鎮定病人之後給予電擊 (cardioversion) - (D) adenosine 12 mg, 靜脈快速注射 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- ...性正壓呼吸 (noninvasive positive-pressure ventilation, NIPPV) - (D) 給予吸入性擴張劑(bronchodilators)、抗生素、口服類固醇、 氧氣和鎮靜劑,立即插氣管內管和使用侵襲性呼吸器(invasive mechanical ventilator)輔助呼吸 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- ...| Neutrophil > 80% | Neutrophil 0.7 | Protein (Lavage/serum) 林 丛 | Antibiotic | Diuretics (Lasix, Morphine) | | | 治療 | 呼吸器的 Lung protective strategy | Coronary revascularization | | Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- 1. 從 ARDS 被定義的過去 40 年以來,只有低潮氣容積且低氣道高原壓(Low TV & Low Pplat)能降低死亡率,而加呼氣末正壓(PEEP)僅可見死亡率較低的趨勢,無統計學上顯著差異。 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- 2. 低潮氣容積和低氣道高原壓 (Low TV = 6~8 mL/kg, Low Pplat 2O) - (1) 傳統上認為高潮氣容積通氣 (High tidal volume ventilation) 可減少肺扁塌 (Atelectasis),所以將呼吸器的潮氣容積 (Tidal volume) 設到 10~15 ml/kg,相對於一般人靜止呼吸時的潮氣容積僅有 6~7 ml/kg。[換算時,體重須用 Predicted BW 帶入,指引建議可用衛生署公告之理想體重替代:男性:(身高-80 cm)×0.7;女性:(身高-70 cm)×0.6] - (2) 對 ARDS 病患來說,雖然 CXR 顯現兩側均匀浸 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
-- (3) 呼吸器相關肺炎(Ventilator-associated pneumonia, VAP):使用侵襲性呼吸器 48 小 時以後產生的院內肺炎。 Source: [[sources/med3-book1-ch21|戊、感 染]].
 
 ## Clinical Caveats
 

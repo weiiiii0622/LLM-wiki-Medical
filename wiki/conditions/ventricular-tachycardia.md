@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch20]]"
   - "[[sources/med3-book1-ch08]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Ventricular tachycardia (心室頻脈)'
   - 'Ventricular tachycardia'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-寬 QRS 頻脈，可能導致血流動力學不穩。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+寬 QRS 頻脈，可能導致血流動力學不穩。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch20]]
 - [[sources/med3-book1-ch08]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- (C) 8. 下列何種疾病最不常合併有 accessory pathway,也較少引致心室 106( ) 專 上心搏過速(supraventricular tachycardia)? 醫四 -31 (A) 愛伯斯坦氏異常(Ebstein anomaly) (B) 兩側右心房症(right atrial isomerism) (C) 法洛氏四重症(tetrology of Fallot) - (D) Wolff-Parkinson-White 症候群(WPW syndrome) 【詳解】Ebstein anomaly 常合併 WPW syndrome,衝動 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】Ebstein anomaly 常合併 WPW syndrome,衝動經 accessary pathway 下傳,造成不正常心室提早收縮,也常有 PSVT 發生。兩側右心症因兩個心房都是右心房,因此有兩個節律點發出訊號、兩個傳導路徑,因此造成心室不正常收縮產生心室上心搏過速。法洛氏四重症主要問題在心臟解剖構造出問題,但傳導路徑無太大問題(無 accessary pathway),因此不太會引發心室上心搏過速。但是需注意的是法洛氏四重症在手術矯正後因為心臟有被打開修補,組織癒合產生的瘢痕會出現傳導問題,病人須注意 AV block 或是 VT。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】Epinephrine 在兒童急救的使用時機為病人出現心臟停止的心律(VF、pulseless VT、asystole、PEA)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) Tachyarrhythmias:以QRS的寬窄、規則性鑑別 - a. QRS 是 Narrow regular (節律由心室上,即心房或房室交接處發出) - (a) Paroxysmal supraventricular tachycardia (PSVT) 可再分為以下兩者,常常看不到 P 波,但若速度較慢時,可能可以看到負的 P 波。 - i. AV nodal reentry tachycardia (AVNRT) (50%): 由 AV node 處 因 為 有 fast、slow 路徑,而造成回路,由此發出的節律,P為負、緊接在 QRS 後,或在 QRS 內,以 Adenosine 可驟然終止。 - ii. AV reentry tachycardia (AVRT) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - 陣發性心室上頻脈 (paroxysmal supra-ventricular tachycardia, PSVT) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (a) Ventricular tachycardia (VT): - i. Monomorphic VT:連續三個心室早期收縮(VPC)以上則稱為 VT,常由以前心肌梗塞造成的疤痕附近放出電流。 - ii. Polymorphic VT = Torsades de Pointes (TdP): 這與心肌正在缺血、服用造成 QT prolong 的藥物或存在其他造成 QT prolong 的因子等,如低血鉀、低血鎂…等,較有關係。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

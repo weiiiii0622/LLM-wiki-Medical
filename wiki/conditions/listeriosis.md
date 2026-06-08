@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book4-ch08]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Listeriosis (李斯特菌感染)'
   - 'Listeriosis'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-老人、孕婦、免疫不全者可有菌血症或腦膜炎，常以 ampicillin 為核心治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+老人、孕婦、免疫不全者可有菌血症或腦膜炎，常以 ampicillin 為核心治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book4-ch08]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- | 新生兒 | B群鏈球菌、E. coli / 革蘭氏陰性桿菌、Listeria monocytogenes | | | |--------|---------------------------------------------------------------------------------------------------------------|--|--| | 1~3 個月 | B 群鏈球菌、E. coli 、Listeria monocytogenes、肺炎鏈球菌、H. influenzaet Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (1) 在抗生素使用上,依照 CSF gram stain 檢查後使用經驗性抗生素:3rd generation Cephalosporin(ceftriaxone、cefotaxime) + Vancomycin。若病人小於三個月, 須加上 Ampicillin 以涵蓋 Listeria monocytogenes。依照培養結果再做出調整。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (3) 治療時間: - a. 腦膜炎雙球菌: 7~10 天 - b. 肺炎鏈球菌、H. influenzae type b: 10~14 天 - c. B 群鏈球菌、Listeria monocytogenes: 14~21 天 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (B) 1. 未規則產檢的媽媽急產,其新生兒因呼吸窘迫住院,細菌室通知 108(二)專 血液培養長革蘭氏陽性球菌,下列何者為最可能造成此新生兒敗 醫四-4 血症的細菌? - (A) Staphylococcus aureus - (B) Streptococcus agalactiae - (C) Escherichia coli - (D) Listeria monocytogenes Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...eron-γ/interleukin-12 pathway 缺陷,較易罹患一些特殊感染,下列何者除外? (A) non-tuberculous mycobacteria (B) Mycobacterium tuberculosis (C) Listeria monocytogenes (D) Pseudomonas aeruginosa | 103(一)專醫三-64 | | | 【詳解】Th1 cytokine 跟細胞內免疫反應相關,可以清除細胞內微生物。 | | | (B) | 3. 下列何者為第二型幫助 T 細胞 (Th2)產生之細胞激素 (cytokine)? (A) 干擾素 (Interferon-γ) (B) 白血球間質素 10 (IL-10) (C) 白血球間質素 12 (I Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 - ...童及年輕人,有群聚病史(軍隊、宿舍),由鼻咽進入,有出血點、斑 (petechiae and purpuric rash) | PCN-S | PCN G | | g | | , , | | PCN-R | Ceftriaxone | | Listeriamonocytogenes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | | | | , | 過後發 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (A) 5. 下列有關李斯特菌(Listeria monocytogenes)的敘述,何者錯誤? 96(一)專 (A) 為革蘭氏陽性球菌,可以在20℃至25°C的環境成長 醫三-40 - (B) 好發於孕婦、老年人以及一些免疫功能低下的病人 - (C) 臨床上表現以菌血症或中樞神經系統的感染居多 - (D) 藥物治療的首選是 ampicillin 或 penicillin, 常合併 aminoglycoside 類藥物協同治療 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].

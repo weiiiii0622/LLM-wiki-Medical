@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Type 1 diabetes mellitus (第 1 型糖尿病)'
   - 'Type 1 diabetes mellitus'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-自體免疫 β cell 破壞造成絕對胰島素缺乏，常需胰島素治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫 β cell 破壞造成絕對胰島素缺乏，常需胰島素治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book4-ch07]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- #### 1. Type 1 diabetes mellitus: Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (2) 臨床表現: type 2 diabetes mellitus 血糖上升值不若 type 1 diabetes mellitus 嚴重,故從病發到診斷所需時間較長。病人亦會發生糖尿病酮酸中毒,但大部分為酮尿(ketonuria)。另外,病人頸部或腋下會有黑色棘皮症(acanthosis nigricans),此為對胰島素產生抗性在皮膚的表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (A) 第1型糖尿病 (type I diabetes mellitus) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...胖 (D) 多囊腎 (polycystic kidney syndrome) | 99(二)專醫三-52 | | | 【詳解】(D) 應改為多囊性卵巢症(Polycystic ovary syndrome)。 | | | (C) | 8. 第 1 型糖尿病的所謂「蜜月期」是什麼意思? (A) 是指疾病好發於適婚年齡 (B) 病人於此時必須多補充糖分 (C) 病人於發病後可能會有一段時間胰島素之需求量降低 (D) 病人於尿液會有大量的葡萄糖排出 | 99(一)專醫三-41 | | | 【詳解】第1型糖尿病患者在發病初期可能仍有殘存β cell function,當血糖控制穩定後,β cell function稍微恢復使得血糖變得好控制,此時胰島素可減量甚至停用,但只有短期改善,所以稱「蜜月 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (A) 第1型糖尿病好發於30歲以上,與自體免疫有關 Source: [[sources/med3-book2-ch09|丁、糖尿病]].

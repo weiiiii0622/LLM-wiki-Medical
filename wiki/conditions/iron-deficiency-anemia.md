@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med3-book4-ch14]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Iron deficiency anemia, IDA (缺鐵性貧血)'
   - 'Iron deficiency anemia, IDA'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-鐵缺乏造成小球性貧血，成人需尋找慢性失血來源。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鐵缺乏造成小球性貧血，成人需尋找慢性失血來源。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ tags:
 - [[sources/med3-book4-ch11]]
 - [[sources/med3-book4-ch14]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- 1. 為兒童最常見的貧血,其中又以營養性缺鐵性貧血最為常見。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 2. Mentzer Index (MI): MCV/RBC > 13 為缺鐵性貧血; \ | ↑或正常 | \ | | TIBC | ↑ | \ | \ | | ferritin | ↓ | 1 | 1 | | Mentzer | > 13 | 鐵的吸收(2) 1~4 週後 data 會改善 | 電泳確定診斷 | (1)也可以是正球性貧血(2)CKD病人常見 | Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (D) 2. 關於缺鐵性貧血(Iron-deficiency anemia)病人,如果沒有發生心 108(二)專 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 【詳解】(A)即使純母乳哺育,建議在6個月大時開始添加副食品。(B)母乳裡維生素 K 含量不高,故新生兒出生後會注射一劑維生素 K 補充,不會在6個月大時再補充。(C)嬰兒在6至8個月大開始長牙齒。只要開始長牙齒每半年可接受公費塗氟。(D)純母乳哺育,即使是足月兒,在6個月大也應當開始接受鐵劑補充(單純母乳哺育的嬰兒,若無添加副食品,在6個月大以後會出現缺鐵性貧血)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 1. 缺鐵性貧血 (Iron deficiency anemia, IDA): 占貧血 30% - (1) 食物中三價鐵 Fe (OH) 3 經胃酸分解成 Fe+3,再經 Vitamin C **還原成二價鐵** (Fe+2),再經十二指腸細胞吸收。(按:鐵代謝中還原的步驟是在十二指腸細胞膜上完成,進出細胞都是二價,下圖是簡化過的版本,忽略了腸細胞氧化還原鐵的步驟以及其上 transporin 的工作) - (2) 進入體內的二價鐵(Fe+2)再轉為三 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...正常值 | |-----|-------------------|--------------------------------|---------------| | 初期 | 儲於骨髓、網狀內皮系統的儲鐵量降低 | Ferritin TIBC $>$ 360; SI $ 50 | | | 缺鐵的狀況下造血 | MCV 3.5% 須懷疑 β thalassemia;正常人的 HbA2 即是 10 , No transfusion - ii. Thalassemia intermedia: Hgb = 7~10, Occasional transfusion - iii. Thalassemia major (Cooley's anemia): Transfusion depe Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (1) 好發於慢性炎症、慢性感染或惡性腫瘤的病人身上;血紅素介於 $7\sim10$ 之間,MCV 微減( $75\sim82$ fl),**TIBC** 降低,Ferritin 上升(視為如 CRP 等急性反應蛋白,發炎 時會上升)。 Source: [[sources/med3-book4-ch10|甲、貧血]].

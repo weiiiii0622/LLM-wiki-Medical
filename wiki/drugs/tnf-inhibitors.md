@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book4-ch05]]"
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch09]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'TNF inhibitors (TNF 抑制劑)'
   - 'TNF inhibitors'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-抑制 TNF-alpha 發炎訊號，用於 RA、AS、IBD 等；需注意 TB/HBV reactivation。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 TNF-alpha 發炎訊號，用於 RA、AS、IBD 等；需注意 TB/HBV reactivation。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book4-ch05]]
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch09]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- Minocycline, procainamide, hydralazine, isoniazid, penicillamine, diltiazem, interferon- $\alpha$ , methyldopa, chlorpromazine, etanercept, infliximab, adalimumab Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...| | Methotrexate | 抑制 dihydrofolate reductase → | 多種風濕疾病都可使用,如 | | | 抑制 purine 生成→抑制發炎 | JRA, SLE, dermatomyositis… | | Etanercept | Anti-TNF-α | JRA | | Hydroxychloroquine | 原為抗瘧疾藥,在風濕性疾病 | SLE, dermatomyositis 的皮膚 | | | 治療的機轉不明 | 病灶 | | Sulfasalazine | 不明,可能和抑制 prostaglandin, | JRA, inflammatory bowel | | | leukotriene 的生成有關 | disease | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...ts = elbows, shoulders, hips,knees, ankles. | | Serology | RF & ACPA | 0 | Low- ⊕ serology ceptor,與 Cytokine 結合,抑制其作用,如 Etanercept - b. -mab:此藥物為單株抗體(Monoclonal Ab),與 Cytokine 結合,抑制其作用; - (a) -ximab:為 Chimeric 單株抗體,含 25% Mouse protein,如 Rituximab - (b) -zumab: 為 Humanized 單株抗體,含 5~10% Mouse protein,如 Tocilizumab - (c) -umab:為 Fully Human 單株抗體,含 0% Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (2) TNF: Etanercept (Enbrel® 恩博)、Adalimumab (Humira® 復邁)、Golimumab (Symponi® 欣普尼)、Certolizumab (Cimzia® 欣膝亞): - a. 與 $TNF-\alpha$ 結合,抑制其引發的發炎反應,但此藥最大的擔憂即是結核菌的復發或感染;因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則無法被活化,便較無法攻擊細胞內的病原體。另外也可能造成 HBV reactivation。 - b. 可能增加 Lymphoma 的發生、造成 ANA、anti-DNA 自體抗體的產生,還可能造成乾癬及中樞神經去髓鞘疾病。(Harrison 2090) Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (3) 其他生物製劑:Anti-TNF 治療無效或有結核之虞,可考慮下列藥物 - a. Rituximab (Mabthera® 莫須瘤):與B淋巴球表面 CD20 結合的 Chimeric 單株抗體。 - b. Abatacept (Orencia®):模仿 T 細胞表面的 CTLA4,與抗原呈現細胞 (APC)的表面的 B8 (CD 80/86)結合,防止 APC 用 B8 活化 T 細胞。 - c. IL1: Anakinra 會與 IL-1 Receptor 結合,給予抑制訊息。 - d. IL6: Tocilizumab 是會與 IL-6 Receptor 結合的 Humanized 單株抗體。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].

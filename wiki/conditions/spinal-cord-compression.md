@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch23]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Malignant spinal cord compression (惡性脊髓壓迫)'
   - 'Malignant spinal cord compression'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch21]]
 - [[sources/med3-book4-ch23]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- 兒童心臟惡性腫瘤臨床上更少見,大部分惡性腫瘤為 sarcomas,例如 angiosarcomas、rhabdosarcomas、fibrosarcomas。其他更少見的有 lymphoma 或是 pheochromocytomas。臨床上,兒童心臟惡性腫瘤多為 secondary; 比較常見的病因有 Wilms tumor 或是 lymphoma/leukemia 造成的 metastasis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - #### C. 脊髓壓迫 (Spinal cord compression) Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - 1. 定義:腫瘤轉移至 vertebral body, 使脊髓壓迫。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - (3) 蝕骨轉移 (osteolytic metastasis) - a. 常見於乳癌、多發性骨髓癌。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].

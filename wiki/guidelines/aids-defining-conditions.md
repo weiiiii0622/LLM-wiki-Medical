@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch20]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'AIDS-defining conditions (AIDS 定義疾病)'
   - 'AIDS-defining conditions'
@@ -21,16 +23,21 @@ tags:
 
 ## Summary
 
-AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區對 TB 定義不同。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區對 TB 定義不同。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book3-ch20]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...emia; 第 22 對染色體異常) - b. 臨床表現:最常見以新生兒低血鈣及抽筋表現。T 細胞免疫不全的程度則因胸腺發育不良的程度而異,complete DiGeorge syndrome (完全沒有胸腺者) 常在新生兒時期就發生嚴重的伺機性感染 (病毒,黴菌,PCP…) - c. 治療:胸腺移植或 HLA-matched 骨髓移植。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...種為 X-linked, 其餘 11 種為自體隱性遺傳(例如 ADA deficiency…)。皆會造成淋巴球無法 正常發育,而同時產生體液性及細胞性免疫缺陷。 - b. 臨床症狀:出生後數個月內就產生反覆的感染(肺炎,中耳炎,菌血症…)或伺機性感染(病毒,Candida,PCP…),生長發育不良,慢性腹瀉。抽血會淋巴球(尤其 T 細胞)低,免疫球蛋白低。若沒有骨髓移植則大多一歲前死亡,為急症! - c. 治療:骨髓移植。ADA(adenosine deaminase)-deficient SCID 可以注射 polyethylene glycol conjugated adenosine deaminase(PEG-ADA)治療。另外, ADA-deficient SCID 目前 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (4) 免疫方面:胸腺發育部分或全部缺陷。 - a. 部分 DiGeorge 症候群佔大多數。 - b. 完全 DiGeorge 症候群因胸腺完全無發育,故 T 細胞嚴重缺乏,易引起伺機性感染。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...eficiency virus)感染發病者,目前正在接受抗反轉錄病毒藥物治療(antiretroviral therapy)。下列相關敘述,何者錯誤? (A) 肺囊蟲肺炎(Pneumocystis pneumonia)是愛滋病患最常見的肺部伺機性感染 (B) 隨著抗反轉錄病毒藥物的使用,愛滋病患的伺機性感染已大幅減少 (C) 服用抗反轉錄病毒藥物可能造成血脂肪上升、血糖上升等新陳代謝副作用 (D) 接受治療者應定期追蹤 CD3 淋巴球數與病毒量 | 102(二)專醫三-57 | | (B) | 9. 下列何種臨床狀況可符合愛滋病(AIDS)的診斷標準? (A) 發生肺囊蟲肺炎(Pneumocystis pneumonia),但愛滋病毒抗體陰性(B) 愛滋病毒抗體陽性,且 CD4 淋 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - ...man immunodeficiency virus) (B) 感染 HIV 就是 AIDS (C) AIDS 病人常有 tuberculosis 感染 (D) Kaposi's sarcoma 可出現在 AIDS 病人身上 【詳解】要合併伺機性感染才算後天免疫缺乏症候群。 | 97(一)專醫三-37 | | (A) | 17. 台灣的 HIV 感染病人在近 2~3 年的個案急速劇增,下列相關的敘述,何者錯誤? (A) 世界衛生組織對愛滋病 (AIDS) 的定義是 HIV 陽性病人周邊血液 CD4 + T cell count &lt; 400/mm³ 或有合併伺機性感染 (B) 愛滋病病毒是反轉錄 RNA 病毒 (Retrovirus) (C) 愛滋病病人的巨細胞病毒 (CMV) Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - 5. 系統性 (Systemic):接下來的兩個球黴菌、兩個絲黴菌則是本章及臨床重點;原則上,一般人感染系統性黴菌可能只有局部症狀,但免疫不全者則可能引起全身感染,表格以「→」後的疾病表示之,又稱為伺機性感染(Opportunistic infection)。 Source: [[sources/med3-book3-ch20|子、黴菌學]].

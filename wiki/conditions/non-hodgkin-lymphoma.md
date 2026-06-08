@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Non-Hodgkin lymphoma, NHL (非何杰金氏淋巴瘤)'
   - 'Non-Hodgkin lymphoma, NHL'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-多樣化 B/T/NK cell 淋巴瘤疾病群，依侵襲性與細胞來源治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多樣化 B/T/NK cell 淋巴瘤疾病群，依侵襲性與細胞來源治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch03]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- (4) 相較於 non-Hodgkin lymphoma,Hodgkin disease 發生病程較為緩慢。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- # C. 非何杰金氏淋巴瘤(Non-Hodgkin lymphoma, NHL) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 2. 臨床表現與何杰金氏病相似,但不同的組織病理學分類而有不同的表現: - (1) Burkitt lymphoma: - a. 兒童 NHL 中最常見,為 B cell 淋巴瘤。 - b. 腫瘤增殖迅速、多發或侵襲各處內臟,有淋巴結外的表現如腸套疊(>6歲 兒童發生腸套疊,統計上約有50%以淋巴瘤為 lead point)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 1. 以周邊淋巴結侵犯為主的是 Non-Hodgkin's lymphoma、Hodgkin's lymphoma。 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - 3. 其中以 Non-Hodgkin's lymphoma 最多 - (1) 成人 ( > 20 歲): DLBCL、Follicular lymphoma 為多數。 - (2) 小孩 ( 38°C \ Night sweat \ Weight loss 10% in 6 months | | | | 治療 | ABVD | R-CHOP | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - #### 2. International Prognostic Index (IPI) for NHL: Source: [[sources/med3-book4-ch15|己、淋巴瘤]].

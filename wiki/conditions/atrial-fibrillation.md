@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch05]]"
   - "[[sources/med3-book2-ch08]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Atrial fibrillation (心房顫動)'
   - 'Atrial fibrillation'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med3-book1-ch22]]
 - [[sources/med3-book1-ch05]]
 - [[sources/med3-book2-ch08]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...ithromycin、azithromycin)均會引起 prolonged Q-T interval,也會引起其他心律不整。Amiodaron 本身為心臟用藥,除了 prolonged Q-T interval外,也會引起其它心律不整如 atrial fibrillation、atrioventricular block、atrioventricular dissociation、bradycardia、ventricular fibrillation、ventricular tachycardia。Haloperidol 除了會造成 prolonged Q-T interval外 ECG上會有不正常的T波(prolonged ventricular repolarization)。torsades de Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (A) 心房顫動 (atrial fibrillation) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (2) 檢查病人時可能有竇性心搏過速甚至 atrial fibrillation、手抖、反射增強、皮膚 摸起來潮濕溫暖、手掌出現紅斑、指甲剝落(onycholysis)、肌肉無力。如果是 亞洲男性病人,可能會表現 hypokalemic periodic paralysis(早上最嚴重、下午 則改善)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (3) 臨床表現: - a. 情緒變得不穩常為 Graves' disease 一開始的臨床表現。此外,病人也會出現 手指抖動、食量大增但體重沒有變化甚至出現下降、眼球突出但不若成人般 嚴重、眼睛往下看時上眼瞼運動遲滯、易流汗。 - b. 病人也會出現心搏過速、心悸、呼吸急促,但不會真正威脅到生命。Atrial fibrillation、肌肉無力與 pretibial myxedema 在 Graves' disease 病人反而不若成人常見,但病人若有肌肉無力,則會較常出現跌倒情形。此外,甲狀腺風暴在兒童不若成人常見。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (C) 1. 一位 70 歲女性高血壓患者,心電圖顯示有心房顫動(atrial fibrillation), 因突然嚴重腹痛 3 小時被送至急診,發作前她是在看電視。病人有 噁心及嘔吐,但發作前數小時有正常排便。平常用藥有 hydrochlorothiazide、enalapril 及 digoxin。就診時血壓為 88/64 mmHg, 心跳不規則,每分鐘約120次,體溫38.5℃,腹部有壓痛,腸蠕動 音降低(hypoactive bowel sound)。電腦斷層顯示脾臟附近腸壁水 腫且有空氣,其他無特殊發現。在急診患者有少量排便,有含血反 應。血清 amylase 及 lipase 只稍微增高,下列那一診斷方向最可能? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - 心房撲動 (atrial flutter, AF) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (a) Atrial fibrillation (Af): 臨床上相當常見,因心臟衰竭或二尖瓣狹窄導致心房擴大,造成心房肌肉容易放電,臨床上常以阻斷 AV node 的藥物,防止心室速率過快。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

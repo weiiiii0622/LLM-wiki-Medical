@@ -19,6 +19,11 @@ sources:
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Insulin (胰島素)'
   - 'Insulin'
@@ -33,7 +38,7 @@ tags:
 
 ## Summary
 
-治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +57,24 @@ tags:
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- (C) 18. 一位三週大足月順產男嬰,出生體重 3800 公克,因持續發生低血糖而就診,身體檢查未發現任何異常,先前作過的實驗室檢查顯示當其血糖值為 25 mg/dL 時,血漿酮體(ketone bodies)濃度測不到亦無酸血症(acidosis)。下列那一項檢查對此病人診斷的確立,最沒有幫助? - (A) 血清胰島素 (Insulin) 濃度 - (B) 血漿氨 (Ammonia) 濃度 - (C) 左旋-多巴試驗(L-Dopa test) - (D) 升糖素試驗(Glucagon test) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 【詳解】L-Dopa test是用來偵測 growth hormone deficiency用(L-Dopa 可促進 growth hormone 分泌)。(A) 則是可以用來排除 congenital hyperinsulinism。(B) 當病人有中鏈脂肪酸去氫酶缺乏症時,則出現低酮體低血糖。在急性期,血中的氨、尿酸、肝臟轉胺(liver transaminase)以及肌酸磷酸激酶(creatine phosphokinase)常常會上升。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (A) 3. 關於幼兒持續性高胰島素低血糖症(persistent hyperinsulinemic hypoglycemia of infancy)的敘述,下列何者錯誤? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (1) 又稱為胰島素依賴型糖尿病 (insulin-dependent diabetes mellitus, IDDM)、幼年型糖尿病 (juvenile diabetes mellitus)。由於自體免疫造成胰臟 β 細胞被破壞。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (1) 又稱非胰島素依賴型糖尿病(non-insulin-dependent diabetes mellitus, NIDDM)。 由於週邊組織對胰島素產生抗性,造成相對的胰島素不足。好發在肥胖的青少年,約 90% 有家族史。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (2) 臨床表現: type 2 diabetes mellitus 血糖上升值不若 type 1 diabetes mellitus 嚴重,故從病發到診斷所需時間較長。病人亦會發生糖尿病酮酸中毒,但大部分為酮尿(ketonuria)。另外,病人頸部或腋下會有黑色棘皮症(acanthosis nigricans),此為對胰島素產生抗性在皮膚的表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (A) 1. 下列何種情形與鉀離子流失所造成的低血鉀 (Hypokalemia ) 最 108( 二 ) 專 無關? - (A) 注射胰島素 (Insulin) - (B) 長期使用利尿劑 (Long-term usage of diuretics) - (C) 腸胃炎引起腹瀉(Gastroenteritis induced diarrhea) - (D) 腎小管酸血症 (Renal tubular acidosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】注射胰島素引發血液中的鉀離子移到細胞內,並非真 正造成鉀離子流失掉。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...述錯誤? 106(二)專 (A) 停止所有鉀離子的補充 醫四 -20 (B) 若血鉀濃度高於 6.5 mEq/L, 心電圖可能先出現 peak T waves, 進一步可能出現 prolonged PR interval (C) 靜脈內注射胰島素改善高血鉀時,不可同時加葡萄糖點滴 (D) 若高血鉀對於藥物的反應不佳,應考慮透析治療 【詳解】靜脈注射胰島素、使用 β,-agonist 藥物可以把血漿中的 鉀離子趕到細胞內,但是要注意其副作用如低血糖、心搏過速 等。因此注射胰島素時須同時給予醣類補充。 (C) 5.15 歲男生為田徑隊員,在訓練 3 小時後,發生雙側大腿疼痛,尿 106(二)專 液變成紅色而至急診求診。尿液檢查發現,潛血反應(occult 醫四 -21 blood) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (A) 胰島素抗性 (insulin resistance) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (4) Insulin-dependent diabetes mellitus: Tc 細胞攻擊蘭氏小島內的 β 細胞,導致胰島素分泌減少,造成高血糖。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...| 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...美國 ATP III (2001) | WHO (1999) | |------------|------------------|-------------------|------------------------------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL 異常,只 | | | | | 當一項計算之) | | 腹部肥胖或肥胖 | 腰圍 (cm): | 腰圍 (cm): | BMI ≥ 30 kg/m² 或腰臀比: | | | 男≥ 90 | 男> 102 | 男> 0.9 | | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
@@ -63,10 +83,6 @@ tags:
 - (3) 低血鉀的病人給予靜脈輸液應避免葡萄糖液,因為可能會造成血糖上升,促進胰島素分泌,使鉀離子 shift 進細胞內,進而造成低血鉀加重。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - (A) 19 歲女學生為第一型糖尿病,因期末考熬夜兩天,忘記注射胰島素 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...ome),無 意間發現腎鈣化 (nephrocalcinosis), 尿液酸鹼值為 6.5; 給予 NH4Cl (0.1 g/kg 體重)後,尿液酸鹼值為 6.0 (C) 20 歲病人第一型糖尿病病史 5 年,血糖控制不佳,最近因為期 末考胰島素注射次數減少 (D) 60 歲病人因膽道阳塞放置引流管引流膽汁 【詳解】Anion gap = 138 - 97 - 18=23, 故此例為 high anion gap metabolic acidosis, (C)的 DKA 符合此結果。 (D) 15. 下列那一個病例不符合所列之動脈血氣體分析和血清電解質的檢查 102(二)專 結果? 醫三-31 pH 7.49 , PaO2 90 mmHg , PaCO2 48 mmHg , H Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...Ca 1.95, P 8.9 mg/dL;有關此病人的處置下列何者較為適當? (A) 這次可能是急性的腎功能惡化,觀察2個月後再測定腎功能 (B) 病人維生素 D 製造不良,可先用 1-alpha-vitamin D,控制磷離子 (C) 予胰島素降低血鉀濃度 (D) 開始透析治療 (B) 8. 一位 55 歲男性, 尿素氮 (BUN) 130 mg/dL, 肌酐 (creatinine) 為 99(二)專 12 mg/dL, 兩邊腎臟在超音波呈現萎縮至 6.5 公分, 他有慢性肺氣腫, 醫三-22 曾經作過胃切除,有一長疤自上腹至下腹。他最好選擇那一種長期 透析療法? (A) 間歇性腹膜透析 (intermittent peritoneal dialysis) (B) 血液透析 Source: [[sources/med3-book3-ch06|己、透析治療]].
-- ...per microliter | | | | (D) 腹膜透析脫水量增加 | | | (A) | 13. 一位 57 歲男性病患因為全身倦怠、失眠、食慾不振以及呼吸困難而 | 97(二)專 | | | 住院,他患有高血壓、糖尿病多年,正接受胰島素治療。過去半年 | 醫三-6 | | | 每個月檢查的 creatinine 數值依序為 5.2 mg/dL, 6.7 mg/dL, 6.4 mg/ | | | | dL, 7.0 mg/dL, 7.2 mg/dL。住院檢查的結果為 Hb 9.2 g/dL, BUN 106 | | | | mg/dL, creatinine 9.6 mg/dL, albumin3.2 g/dL, spot urine protein 923 | | | Source: [[sources/med3-book3-ch06|己、透析治療]].
-- ...性 | 竣 中毒 | 尿毒症時腎臟無法增加 ammoniagenesis,故會造成酸中毒, | | | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | | 導致噁心、嘔吐、胃口差、加速骨中礦物質流失、增加胰島素抗性等 | | | 中分子及蛋白質 | | 副甲狀腺素、β 2 -microglobulin、過度糖化終產物 (advanced glycosylation e | | | (MW 在 300~12000D) | | products, AGE)等;中分子不易被一般的洗腎機洗出 | | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch11]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Aortic regurgitation (主動脈瓣逆流)'
   - 'Aortic regurgitation'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-舒張期逆流造成容量負荷與脈壓變化。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+舒張期逆流造成容量負荷與脈壓變化。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch11]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- ...氯的代謝性鹼中毒(hypokalemic hypochloremic metabolic alkalosis)合併高尿鈣(hypercalciuria)。Bartter syndrome 造成的原因為基因突變造成,大部分以體染色體隱性遺傳(AR)遺傳給下一代(type I-IV),只有 Bartter syndrome type V 以性聯遺傳隱性(XR)方式遺傳給下一代。Brtter syndrome type I、II、IV(antenatal Bartter syndrome, ABS)與 type V(transient ABS)在胎兒時期就有表徵(羊水過多 polyhydramnios)。Bartter syndrome type III(typical Bartt Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - I. 主動瓣逆流 (Aortic regurgitation, AR) 140 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - (1) Pressure gradient 愈大(AS, AR, MR), 聲音愈高音(Higher pitch)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - 5. Diastolic sound: S, 之後的雜音 - (1) 心臟舒張時的雜音,可能是主動脈瓣逆流(AR)或僧帽瓣狹窄(MS)。 - (2) 僧帽瓣狹窄(MS)會有 Opening snap,短暫高頻的舒張早期的雜音。MS 愈厲害→ 左心房壓力愈大 $\rightarrow$ A,到 OS 的愈短。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].

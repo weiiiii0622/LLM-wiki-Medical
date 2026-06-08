@@ -9,6 +9,11 @@ sources:
   - "[[sources/med3-book2-ch05]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Hypoglycemia (低血糖)'
   - 'Hypoglycemia'
@@ -23,7 +28,7 @@ tags:
 
 ## Summary
 
-血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +37,24 @@ tags:
 - [[sources/med3-book2-ch05]]
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book4-ch21]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- ...ncy 可分為兩種: Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 【詳解】題目敘述中,病人出現低血糖、低血鈉,脫水症狀,低血壓,及意識不清,可聯想至 adrenal insufficiency。其尿鈉高(>25)表示鈉由 renal loss,故不像急性腸胃炎或心臟衰竭,無局部神經學症狀,故也不像腦炎。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (B) 低血糖 (hypoglycemia) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...抽搐等現象,身上散發楓樹糖漿的體味或尿味。 | | 中鏈脂肪酸去氫酶缺乏症(中鏈醯輔酶A去氫酶缺乏症) | 體染色體隱性遺傳的脂肪酸代謝異常疾病。此疾病會導致代謝中毒產生腦病變、心肌病變、及肌肉病變等症狀。患者會引發嘔吐、肝脾腫大、低血酮性低血糖、意識模糊及抽搐。在急性期,血中的氨、尿酸、肝臟轉胺(liver transaminase)以及肌酸磷酸激酶(creatine phosphokinase)常常會上升。 | | 戊二酸血症第一型(戊二酸尿症第一型) | 因為戊二醯基輔酶 A 去氫酶缺陷,導致無法代謝,此有毒物質會堆積於身體中。患者在兩歲之前發展正常,可能有無症狀的巨腦,在嬰兒期的晚期則會有運動困難、漸進式的手足舞蹈症、肌肉僵硬、麻痺、四肢向外翻轉及身體呈弓狀等症狀。 | Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 2. 此時應先排除缺氧事件、敗血症、顱內出血、低血糖、先天性心臟病。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 5. 初步處理: - (1) 停止所有蛋白質、乳酸、果糖的攝取。 - (2) 矯正酸血症及低血糖。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 2. 危險因子:出生時窒息(birth asphyxia)、胎便吸入性肺炎、早期發生的敗血症 (early-onset sepsis,如B群鏈球菌肺炎)、低血糖、紅血球增多症(polycythemia)、 母親在懷孕過程中使用 NSAID 造成動脈導管收縮、羊水過少(如 Potter 症候群)、 母親有糖尿病、先天性橫膈疝氣造成肺部發育不良等。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- 【詳解】患有奸娠型糖尿病的母親,胰島素分泌較正常母親多目 胰島素會經過胎盤進入胎兒體內。新生兒在出生後處在相對性高 胰島素血症,因此出生後24小時內需密切注意新生兒低血糖。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- ...interval (C) 靜脈內注射胰島素改善高血鉀時,不可同時加葡萄糖點滴 (D) 若高血鉀對於藥物的反應不佳,應考慮透析治療 【詳解】靜脈注射胰島素、使用 β,-agonist 藥物可以把血漿中的 鉀離子趕到細胞內,但是要注意其副作用如低血糖、心搏過速 等。因此注射胰島素時須同時給予醣類補充。 (C) 5.15 歲男生為田徑隊員,在訓練 3 小時後,發生雙側大腿疼痛,尿 106(二)專 液變成紅色而至急診求診。尿液檢查發現,潛血反應(occult 醫四 -21 blood): 3+, urobilinogen: 3+, RBC: 1~2/HPF, WBC: 0~2/HPF • 抽血檢查發現, AST/ALT = 120/130 U/L, K = 5.0 mM, LDH = Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (D) 若意識持續未恢復,須檢驗血糖以鑑別低血糖之昏迷 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...peptide 產生的一些生理反應;(C) 不止中樞神經病變;雖然 (B) 不確定,但 (D) 一定對。 | 95(二)專內1-50 | | (D) | 5. 下列何種癌症較不會發生「腫瘤相關性血糖過低症」(tumorassociated hypoglycemia)? (A) 肝癌(hepatoma) (B) 纖維肉瘤(fibrosarcoma) (C) 血管外皮細胞瘤(hemangiopericytoma) (D) 胰臟癌(adenocarcinoma of pancreas) 【詳解】血糖過低和(1) Mesenchymal tumor (包括 HCC、hemangiopericytoma)、(2) Sarcoma 有關,至於(D) 胰臟癌屬於表皮來源的 carcinoma,所以不會。 | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - a. 瘧原蟲中,惡性瘧最易引起貧血、中樞神經症狀。 - (a) 惡性瘧破壞紅血球,除了會引起貧血,若大量溶血,還會造成血紅素尿,稱為黑水熱 (Blackwater fever)。 - (b) 紅血球被破壞時,釋出的 TNFα 除了使病患發燒,也會使紅血球容易凝結,在腦血管造成血塊、堵塞,導致中樞神經症狀,稱為**腦性瘧(cerebral** malaria)。 - (c) 嚴重的惡性瘧感染(Hyperparasitemia > 5%RBC) 會造成腦性瘧、低血糖、乳酸中毒、腎衰竭、凝血病變等。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
@@ -43,7 +63,6 @@ tags:
 - (4) GLP-1: Exenatide (Byetta®) > Liraglutide (Victoza®) > Dulaglutide (Trulicity®) - a. 藥物機制:直接皮下注射 GLP-1 使體內 GLP-1 濃度上升約 10 倍,進而促進胰島素分泌。 - b. 優點:不易造成低血糖,有減重效果(抑制腦部食慾中樞、抑制胃排空),新藥 Dulaglutide 一週打一次病人接受度高。另外,最新研究顯示 Liraglutide 與 Dulaglutide 都能降低 DM 患者心血管疾病發生,甚至 Liraglutide 能直接減少心血管死亡率。 - c. 缺點: 因抑制胃排空,容易有噁心嘔吐症狀。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (A) 3. 一位 35 歲男性因為右手麻木感來就醫,診斷為腕道症候群(carpal tunnel syndrome)同時體檢發現其下巴突出及高血壓。隨機抽血測得生長激素(growth hormone)值為 10 ng/mL(normal range 0~10 ng/mL)。應該先做何處置? - (A) 葡萄糖抑制試驗 (glucose suppression test) - (B) 腦下垂體核磁共振影像檢查 (pituitary MRI examination) - (C) 腦下垂體功能檢查 (pituitary function tests including TSH, FSH, ACTH) - (D) 胰島素低血糖試驗 (insulin hypoglycemic test) Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - 【詳解】病人症狀包含甲狀腺功能不足(意識不清、低心跳、低血糖、低血鈉、掉眉毛)與腎上腺功能不足(低血壓、低血糖、低鈉、Eosinophilia、乳頭顏色淡表示 ACTH 低)。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- (2) 症狀: - a. 服餐後<30分鐘:因為水都跑到腸胃道而產生一些腸胃道症狀,如噁心、上腹痛、腹瀉;水都跑到腸胃道,血管內血變少,也會有低血壓的症狀。 - b. 餐後 1~4 小時:因為 insulin 導致低血糖,而有一些交感神經興奮的症狀,像一些 Vasomotor 症狀,頭暈、心悸、潮紅。 Source: [[sources/med3-book2-ch05|庚、胃疾病 – 其他]].
 
 ## Clinical Caveats
 

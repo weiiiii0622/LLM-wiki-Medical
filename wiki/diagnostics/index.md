@@ -19,11 +19,13 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/anion-gap|Anion gap (陰離子間隙)]] - 用 Na、Cl、HCO3 估計未測量陰離子，輔助代謝性酸中毒鑑別。
 - [[diagnostics/anti-ccp-antibody|Anti-CCP antibody (抗環瓜氨酸抗體)]] - RA 診斷與預後評估的重要自體抗體，特異性較 RF 高。
 - [[diagnostics/antinuclear-antibody|Antinuclear antibody, ANA (抗核抗體)]] - SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。
+- [[diagnostics/apgar-score|Apgar score (Apgar 評分)]] - 出生後快速評估 heart rate、respiration、tone、reflex irritability 與 color。
 - [[diagnostics/arterial-blood-gas|Arterial blood gas, ABG (動脈血氣)]] - 評估氧合、通氣與酸鹼狀態。
 - [[diagnostics/ascitic-fluid-analysis|Ascitic fluid analysis (腹水分析)]] - 腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。
 - [[diagnostics/bi-rads|BI-RADS (乳房影像報告與資料系統)]] - 乳房影像標準化分類，指引追加影像、切片或追蹤。
 - [[diagnostics/blood-pressure-measurement|Blood pressure measurement (血壓測量)]] - 正確量測與分類是高血壓診斷基礎。
 - [[diagnostics/bnp|BNP / NT-proBNP (腦利鈉胜肽)]] - 心室壓力與容量負荷標記，可輔助心衰竭診斷與嚴重度評估。
+- [[diagnostics/bone-age|Bone age (骨齡)]] - 以手腕 X 光估計骨成熟度，協助評估性早熟與身材矮小。
 - [[diagnostics/bone-marrow-examination|Bone marrow examination (骨髓檢查)]] - 骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。
 - [[diagnostics/bone-mineral-density|Bone mineral density, BMD (骨密度檢查)]] - 骨質疏鬆診斷與骨折風險評估常用檢查。
 - [[diagnostics/bronchodilator-reversibility-test|Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)]] - 評估可逆性氣流阻塞，是氣喘診斷依據之一。
@@ -36,6 +38,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/coombs-test|Coombs test (庫姆氏試驗)]] - 偵測 RBC 表面或血漿抗紅血球抗體，用於 immune hemolysis 與輸血前評估。
 - [[diagnostics/ct-pulmonary-angiography|CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)]] - 肺栓塞常用影像診斷。
 - [[diagnostics/d-dimer|D-dimer (D-二聚體)]] - 低風險肺栓塞排除策略常用檢驗。
+- [[diagnostics/developmental-milestones|Developmental milestones (兒童發展里程碑)]] - 依年齡追蹤粗動作、細動作、語言、認知與社會互動發展。
 - [[diagnostics/dexamethasone-suppression-test|Dexamethasone suppression test (地塞米松抑制試驗)]] - 篩檢或評估 Cushing syndrome 的 HPA axis 回饋。
 - [[diagnostics/duke-criteria|Duke criteria (Duke 診斷標準)]] - 感染性心內膜炎的診斷架構。
 - [[diagnostics/echocardiography|Echocardiography (心臟超音波)]] - 評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。
@@ -43,6 +46,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/esophageal-ph-monitoring|Esophageal pH monitoring (食道酸鹼監測)]] - GERD 疑似但內視鏡正常時可量化酸暴露。
 - [[diagnostics/flow-cytometry|Flow cytometry (流式細胞術)]] - 以表面標記與細胞特徵分類白血病、淋巴瘤、PNH 等血液疾病。
 - [[diagnostics/fractional-excretion-of-sodium|Fractional excretion of sodium, FENa (鈉分率排泄)]] - 用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。
+- [[diagnostics/growth-chart|Growth chart (生長曲線)]] - 兒童生長評估工具，需連續追蹤身高、體重、頭圍與 growth velocity。
 - [[diagnostics/hba1c|Hemoglobin A1c, HbA1c (糖化血色素)]] - 反映近期平均血糖並作為糖尿病診斷與控制目標。
 - [[diagnostics/helicobacter-pylori-testing|Helicobacter pylori testing (幽門螺旋桿菌檢測)]] - H. pylori 可用侵入性或非侵入性檢測確認。
 - [[diagnostics/hiv-testing|HIV testing (HIV 檢測)]] - HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 count。
@@ -65,6 +69,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/serum-ascites-albumin-gradient|Serum-ascites albumin gradient, SAAG (血清腹水白蛋白梯度)]] - SAAG 協助判斷腹水是否與門脈高壓相關。
 - [[diagnostics/stool-osmotic-gap|Stool osmotic gap (糞便滲透壓差)]] - 協助區分滲透性與分泌性腹瀉。
 - [[diagnostics/stress-test|Stress testing (壓力測試)]] - 用於評估冠狀動脈缺血，依運動能力與基礎 ECG 選擇方式。
+- [[diagnostics/tanner-staging|Tanner staging (Tanner 青春期分期)]] - 以乳房/生殖器與陰毛發育分期評估青春期進展。
 - [[diagnostics/thyroid-fine-needle-aspiration|Thyroid fine-needle aspiration, FNA (甲狀腺細針抽吸)]] - 甲狀腺結節依超音波風險與大小決定 FNA。
 - [[diagnostics/thyroid-function-tests|Thyroid function tests (甲狀腺功能檢查)]] - TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。
 - [[diagnostics/tumor-markers|Tumor markers (腫瘤標記)]] - 腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。

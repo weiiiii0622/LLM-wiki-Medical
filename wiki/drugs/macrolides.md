@@ -9,6 +9,9 @@ sources:
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Macrolides (巨環內酯類)'
   - 'Macrolides'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,19 @@ tags:
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book4-ch12]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...: - a. General: Benzathine penicillin: 1.2 million units IM 或 procaine penicillin G 600,000 units IV daily for 10 days. Erythromycin is altered if allergic to penicillin。 - b. Carditis: - (a) Without cardiomegaly: aspirin 80 mg/kg/day, 一天分成四次給藥直到症狀 改善或是 ESR 下降至正常。 - (b) With cardiomegaly: prednisone 1~2 mg/kg/day, 一天分成三次給藥並且持續給藥 2~4 週後,開始給予 aspirin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (D) 19. QT 間距延長症候群(long QT syndrome)是一種先天性心臟離子 通道病變(channelopathy)。下列何種藥物有可能加重其 QT 延 長之變化,應避免?① clarithromycin② amiodarone③ acetaminophen④ haloperidol Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】Macrolide 藥物(erythromycin、clarithromycin、azithromycin)均會引起 prolonged Q-T interval,也會引起其他心律不整。Amiodaron 本身為心臟用藥,除了 prolonged Q-T interval外,也會引起其它心律不整如 atrial fibrillation、atrioventricular block、atrioventricular dissociation、bradyc Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (A) 口服 azithromycin 10 mg/kg/day QD Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (C) 1. 治療黴漿菌 (*Mycoplasma pneumoniae*) 肺炎,下列何種藥物最 109(二)專 適當? 醫四-4 - (A) Penicillin - (B) Vancomycin - (C) Azithromycin - (D) Gentamicin Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 【詳解】黴漿菌感染肺炎,使用抗生素首選為 Macrolide 類抗生素, 故選 (C)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫過低、生命跡象不穩的病童,發展為毒性巨結腸症的病童,以及免疫功能有缺損的病童。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...--| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...----------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...----------|--------------------|-----------------|-------------------------------|--| | 大分類 | 細分類 | 例子 | 臨床上常用於 | | | | Macrolide (肝) | Erythromycin | 非典型肺炎 (Mycoplasma, Chlamydia) | | | | | Azithromycin | HIV 病患的 MAC | | | 抑制 50S 核醣體 | Lincosamide (肝) | Clindamycin | 厭氧菌→橫膈以上的膿瘍 | | | | | | 抑制細菌毒素製造→壞死性筋膜炎 | | | | Oxazolidinones (肝) | Linezolid | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

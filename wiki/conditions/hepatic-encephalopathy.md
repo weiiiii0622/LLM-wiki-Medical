@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch18]]"
   - "[[sources/med3-book3-ch05]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Hepatic encephalopathy (肝腦病變)'
   - 'Hepatic encephalopathy'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-肝衰竭與門體分流相關神經精神症候群，常由出血、感染、便秘等誘發。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝衰竭與門體分流相關神經精神症候群，常由出血、感染、便秘等誘發。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch18]]
 - [[sources/med3-book3-ch05]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (D) 對於有昏睡或意識障礙的肝病病童,若血氨(Ammonia)已 經上升且合併第二期肝腦病變(Hepatic encephalopathy Stage II)之意識混淆及嗜睡,應立即插管使用呼吸器 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - | (B) 23 | B. 尿毒症病人理學檢查時,較不可能發現的為: (A) 心包摩擦音(pericardial friction rub) (B) 肝腫大 (C) 手掌撲動(asterixis) (D) 末梢神經病變 | 94(二)檢內-26 | |--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - (2) Grade 2 = Impending (嗜睡)、Asterixis (Flapping tremor)。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - #### 1. 肝腦病變 (hepatic encephalopathy): Source: [[sources/med3-book2-ch23|戊、肝硬化]].

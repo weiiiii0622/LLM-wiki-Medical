@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Hypopituitarism (腦垂體功能低下)'
   - 'Hypopituitarism'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-腦垂體荷爾蒙缺乏造成多軸內分泌不足。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體荷爾蒙缺乏造成多軸內分泌不足。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch15]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...(Klinefelter syndrome) - (B) 卡門氏症 (Kallmann syndrome) - (C) 普瑞德威利氏症 (Prader-Willi syndrome) - (D) 先天性腦垂體低能症(Congenital hypopituitarism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) Secondary:腦垂體無法製造 ACTH 導致腎上腺機能低下; - a. 腦垂體功能低下 (Panhypopituitarism)。 - b. 長期服用外來的類固醇,使得腦垂體被抑制而無法製造 ACTH,若突然停藥,會導致急性腎上腺機能低下(最常見的原因)。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - D. 全腦垂體低能症(Panhypopituitarism) 171 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - #### D. 全腦垂體低能症 (Panhypopituitarism) Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

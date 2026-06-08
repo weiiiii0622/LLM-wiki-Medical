@@ -17,6 +17,14 @@ sources:
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Escherichia coli infection (大腸桿菌感染)'
   - 'Escherichia coli infection'
@@ -31,7 +39,7 @@ tags:
 
 ## Summary
 
-E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +56,27 @@ E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已�
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- (A) 大腸桿菌 O157: H7 (E. coli O157: H7) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (B) 大腸桿菌(Escherichia coli) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 105(一)專 (D) 6. 下列何者不是造成新生兒先天性感染之重要病原體? 醫四 -5 (A) 巨細胞病毒 (B) 梅毒螺旋體 (C) 弓蟲症 (D) 麻疹病毒 (B) 7. 造成早發性(early-onset)新生兒感染的細菌中,最常見的格蘭 105(一)專 醫四 -7 氏陽性菌為: (A) 金黃色葡萄球菌 (B) B 群鏈球菌 (C) 肺炎雙球菌 (D) 大腸桿菌 (D) 8. 下列那一種病原最不常發生母子之間的垂直感染? 101(一)專 醫四-1 (A) Cytomegalovirus (B) Syphilis (C) Rubella (D) Epstein-Barr virus 【詳解】(A)(B)(C) 均為先天性感染中常見的病原體,(D) 反而 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (B) 1. 未規則產檢的媽媽急產,其新生兒因呼吸窘迫住院,細菌室通知 108(二)專 血液培養長革蘭氏陽性球菌,下列何者為最可能造成此新生兒敗 醫四-4 血症的細菌? - (A) Staphylococcus aureus - (B) Streptococcus agalactiae - (C) Escherichia coli - (D) Listeria monocytogenes Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (D) 6. 足月兒出生時,母親有發燒症狀且羊膜已在出生前兩天破裂,嬰兒於出生後 8 小時開始明顯的呼吸窘迫,血壓下降,胸部 X 光呈現雙側全面的浸潤,並有少許肋膜腔積水,最可能的診斷為下列何者? - (A) 大腸桿菌(Escherichia coli) 感染 - (B) 綠膿桿菌 (Pseudomonas spp.) 感染 - (C) 肺炎鏈球菌 (Streptococcus pneumoniae) 感染 - (D) B 群鏈球菌(group B Streptococcus)感染 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (B) 4. 一位 2 歲兒童因首次罹患左側中耳炎接受 amoxicillin 90 mg/kg/ day q8h 治療, 3 天後仍然持續發燒,並因耳膜破裂出現膿液, 膿液的檢查發現有革蘭氏陰性細菌。所發現的細菌最可能是下 列那一種? - (A) Streptococcus pneumoniae - (B) Haemophilus influenzae - (C) Pseudomonas aeruginosa - (D) Escherichia coli Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (A) 3. 兒童的感染性關節炎(infective arthritis),最常見的菌種為: 106(-)專 (A) 金黃色葡萄球菌(Staphylococcus aureus) - (B) 大腸桿菌 (Escherichia coli) - (C) 沙門氏菌 (Salmonella species) - (D) 黴漿菌 ( Mycoplasma pneumoniae ) Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...,下列那一種病 103(一)專 原菌最常見? 醫四 -32 (A) 金黃色葡萄球菌(Staphylococcus aureus) (B) A 群鏈球菌 (group A streptococcus) (C) 黴菌類 (fungi) (D) 大腸桿菌(Escherichia coli) (B) 8.3 歲的小芳這 2 天突然不太願意走路,而且伴有發燒現象。身體 102(一)專 診查顯示右膝關節腫脹,疑似化膿性關節炎,下列那一種細菌最 醫四-16 常見於此種關節炎中? (A) Haemophilus influenzae type b (B) Staphylococcus aureus (C) Salmonella (D) Streptococcus pneumoniae (B) 9 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (1) 以細菌為最大宗。最常見為 *E. coli*,其次為 Klebsiella、Proteus(與結石形成有關)。偶爾會出現革蘭氏陽性菌,包括 Enterococcus、*Staphylococcus aureus* 或 *S. saprophyticus*(由其是青少年女性)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...前 AAP guideline 已不建議兒童第一次發生 UTI 後就 routine 做 VCUG。Guideline 建議如果超音波異常(如hydronephrosis, scarring), 臨床表現不典型(特別嚴重、治療效果不佳、非 E. coli 感染),或發生第二次泌尿道感染時,須要排 VCUG 檢查。 - (3) 核醫學檢查 (DMSA renal scan):診斷是否有 renal scar 的最佳工具。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...(septic arthritis)。就此案例,何種細菌 內 2-1 感染最有可能? (A) 金黃色葡萄球菌 (Staphylococcus aureus) (B) 肺炎鏈球菌 (Streptococcus pneumoniae) (C) 大腸桿菌 (E. coli) (D) Beta 溶血性鏈球菌 (β-hemolytic Streptococcus) 【詳解】(A) 金黃色葡萄球菌即是表皮菌,另外敗血性關節炎亦最 常見金黃色葡萄球菌。 (B) 29. 下列有關退化性關節炎的治療,何者是最主要的方法? 95(一)專 (A) 服用 glucosamine (B) 減輕退化關節的負擔 内 1-23 (C) 持續服用消炎止痛劑 (D) 浸泡溫泉或溫水 (C) 30. 一位 68 歲男 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...肉、蔬菜、乾豆、麥片 | | 於腸道產毒素) | | (Cramp, Dia.) | | | | Vibrio cholerae | 水瀉 | 干貝類 (Shellfish) | | > 16 Just | Enterotoxigenic E. Coli (ETEC) | (Watery dia.) | 沙拉、起士、肉類 | | > 16 小時 | Salmonella spp. | 發炎性腹瀉 | 雞肉 (Poultry)、蛋、乳製品 | | (細菌侵入腸道) | Campylobacter jejuni | (Inflam dia.) | 雞肉 (Poultry)、生牛奶 | | | Shigella spp. | 赤痢 | 番茄沙拉、生菜 | | | Vibrio parahae Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
@@ -59,10 +85,6 @@ E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已�
 - ...定義且經實驗室診斷: 一、臨床病例(任一即可) (1)出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服等。 (2) 黃疸或 ALT 上升。 二、實驗室: Anti-HAV IgM 檢驗陽性。 | 24 小時內 | | 腸道出血性大腸桿菌感染症 | 有下列情形任一者: 一、出現疑似症狀,如腹瀉(多為血便)、腹絞痛,可能合併溶血性尿毒症候群或栓塞性血小板減少性紫斑症等。無症狀感染也可能發生。 二、實驗室培養出 E. coli O157: NM。 | 24 小時內 | | 漢他病毒症候群 | 漢他病毒肺症候群: 符合下列三項通報條件之一者: 一、有相關流行地區旅遊史、動物排泄物或分泌物等致病原暴露史,且符合下列部分或全部臨床描述者: (一)原本健康的人於住院 72 小時內演 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - 1. Uncomplicated UTI: E. Coli (80%) · Proteus · Klebsiella · S. saprophyticus Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 2. Complicated UTI: E. Coli (30%) . Enterococci (20%) . Pseudomonas (20%) Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
-- 3. 導尿管引起(Catheter-associated)之泌尿道感染: Yeast (30%)、E. coli (20%);但導尿管引起之泌尿道感染在女性病人大部分的菌株為: 腸道菌株。 Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
-- | 名稱 | Species | 凝固酶 | 溶血 | 存在處 | |---------|------------------|-----|---------|---------------------| | 金黃色葡萄球菌 | S. aureus | 陽性 | β(完全溶血) | 鼻腔、皮膚 | | 表皮葡萄球菌 | S. epidermidis | 陰性 | γ(無溶血) | 體內修補裝置物,如人工瓣膜、人工關節 | | 腐生葡萄球菌 | S. saprophyticus | 陰性 | γ (無溶血) | 泌尿道感染 (僅次於 E. coli) | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 3. **腐生葡萄球菌(S. saprophyticus)**: 性生活頻繁的女性之泌尿道感染,泌尿道感染中, 僅次於 E. coli,為第二常見致病菌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- | 傳染途徑分類 | 症狀 | 死亡率 | |----------------------------------|------------------------------------|------| | 表皮炭疽病 (Cutaneous anthrax) | 占 95%,不痛丘疹→黑色焦痂→疤(通常會自己好) | 6小時(平均9小時) | | | 症狀 嘔吐、噁心、腹痛 | | 腹瀉、噁心、腹痛 | | | Duration | 8~10 小時 | 20~36 小時 | | | 類似 葡萄球菌的食物中毒 霍亂、 | | 霍亂、大腸桿菌的腹瀉 (cAMP ↑→水瀉) | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

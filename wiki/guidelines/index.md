@@ -33,4 +33,5 @@ Guideline pages and recommendation frameworks.
 - [[guidelines/shared-decision-making|Shared decision making (醫病共同決策)]] - 臨床決策需整合醫療證據、病人價值與可行方案。
 - [[guidelines/sle-classification-criteria|SLE classification criteria (SLE 分類準則)]] - SLE 分類準則整合皮膚、關節、漿膜、腎臟、神經、血液與免疫指標。
 - [[guidelines/tb-treatment-framework|Tuberculosis treatment framework (結核治療架構)]] - 結核病需多藥合併與完整療程。
+- [[guidelines/vaccine-contraindications|Vaccine contraindications (疫苗禁忌與注意事項)]] - 疫苗接種前需評估嚴重過敏、免疫低下、懷孕與急性中重度疾病等禁忌/延後情境。
 - [[guidelines/variceal-bleeding-management|Variceal bleeding management (靜脈曲張出血處置)]] - 急性靜脈曲張出血需結合復甦、血管收縮藥、抗生素與內視鏡治療。

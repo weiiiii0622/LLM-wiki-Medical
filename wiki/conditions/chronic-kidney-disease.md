@@ -8,6 +8,9 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch08]]"
 aliases:
   - 'Chronic kidney disease, CKD (慢性腎臟病)'
   - 'Chronic kidney disease, CKD'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-腎功能或腎臟結構慢性異常，需分期、控制進展因子與併發症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎功能或腎臟結構慢性異常，需分期、控制進展因子與併發症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,17 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book4-ch21]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch08]]
 
 ## Key Details From Sources
 
+- (B) 1. 兒童佝僂症(Rickets)常因體內鈣磷代謝異常所導致,下列那一 109(-)專項致病機轉所造成的佝僂症與其他最不相同? 醫四-20 - (A) 慢性腎臟病 (Chronic kidney disease) - (B) 低血磷佝僂症(Hypophosphatemic rickets) - (C) 腸胃吸收障礙 (Malabsorption) - (D) 營養不良致維生素 D 缺乏 (Nutritional vitamin D deficiency) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (B) 8. 關於兒童急性鏈球菌感染後腎臟發炎(acute poststreptococcal 107(-)專 glomerulonephritis)的治療,下列敘述何者正確? 醫四-22 - (A) 由於為鏈球菌感染所引起的,因此給與適當的抗生素治療可以縮短病程 - (B) 高血壓的治療包括給與鈣離子抑制劑(calcium channel antagonists)或利尿劑(diuretics) - (C) 限制鈉離子的攝取,主要是針對慢性腎臟病的預防 - (D) 類固醇為首選的治療藥物 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】(A) 選項錯誤點在於給予抗生素治療無法縮短病程。(C) 選項錯誤點在於疾病急性期限制水分與鹽分的攝取並控制高血壓,而非針對慢性腎臟病的預防。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- TABLE 535-5 Criteria for Definition of Chronic Kidney Disease (NKF KDOQI Guidelines) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 2. Mentzer Index (MI): MCV/RBC > 13 為缺鐵性貧血; \ | ↑或正常 | \ | | TIBC | ↑ | \ | \ | | ferritin | ↓ | 1 | 1 | | Mentzer | > 13 | 鐵的吸收(2) 1~4 週後 data 會改善 | 電泳確定診斷 | (1)也可以是正球性貧血(2)CKD病人常見 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...thy 與肺癌(lung cancer)有關 (B) pigmented villonodular synovitis (PVNS)與糖尿病(diabetes mellitus)有關 (C) hemophilic arthropathy 與慢性腎臟病(chronic kidney disease)有關 (D) neuropathic joint disease 與 carpal tunnel syndrome 有關 | 108(二)專醫三-29 | |-----|--------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ## 戊、慢性腎臟病 (Chronic Kidney Disease, CKD) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ## B. CKD 分級 (依據 NKF-KDOQI guideline) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].

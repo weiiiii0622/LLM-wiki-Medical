@@ -12,6 +12,9 @@ sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch05]]"
   - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Pleural effusion (肋膜積液)'
   - 'Pleural effusion'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,17 @@ tags:
 - [[sources/med3-book1-ch04]]
 - [[sources/med3-book1-ch05]]
 - [[sources/med3-book4-ch01]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- | | Image pattern | Distribution | Pleural effusion | |------------|---------------------------------|----------------------------------------|------------------| | Bacteria | Alveolar | Usually unilateral: lobar or segmental | Maybe | | Virus | Hyperinflation and Inters Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (2) 痰液或肋膜積液的培養與格蘭氏染色。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 1. 侵犯胸腔 (thoracic cavity): pleural effusion `empyema and pericarditis ·其中 S. aureus `S. pneumoniae 以及 S. pyogenes 是造成 pleural effusion 或是 empyema 最常見的細菌 。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...。(參考)PS:若手術方式為 Fontan procedure,術後發生可能的問題有 systemic venous pressure、fluid retention、pleural or pericardial effusions,其中 pleural effusion 佔 30~40%。晚期併發症可能有 baffle obstruction 進而造成 superior or inferior vena cava syndrome、vena cava or pulmonary artery thromboembolism、protein-losing enteropathy、supraventricular arrhythmias(atrial flutter, paroxysmal atrial t Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (C) 10. 下列有關新生兒暫時性呼吸急促(transient tachypnea of newborn) 105( ) 專 胸部 X 光變化,何者錯誤? \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ - (A) 肺門的浸潤增加 - (B) 常常可見到 minor fissure - (C) 胸部 X 光的不正常影像,常可持續 4 天以上 - (D) 偶爾可見到少量的肋膜積液 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - #### 3. 各種肋膜積液問題的特徵: Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - (1) Pseudoexudate: (Ref Washington p329) - a. 符合 1~2 項 Light's criteria,但實際上是 Transudate,常見於經利尿劑治療後的心臟衰竭、肝衰竭、腎病症候群病患。 - b. 上述病患的 Serum-pleural fluid albumin gradient > 1.2。 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].

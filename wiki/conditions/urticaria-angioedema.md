@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Urticaria and angioedema (蕁麻疹與血管性水腫)'
   - 'Urticaria and angioedema'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-皮膚肥大細胞介導反應，表現為 wheal、pruritus 或深層腫脹。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮膚肥大細胞介導反應，表現為 wheal、pruritus 或深層腫脹。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch04]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...or varicella;嬰兒 | 麻痺疫苗後發生 | | scleroderma, | | | 時期低血鈣造成抽 | paralysis | | glomerulonephritis, | | | 筋(此為 DiGeorge | | | angioedema | | | syndrome 的特色) | | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...常見 | DiGeorge syndrome | Selective IgA | Leukocyte | Hereditary | | 疾病 | | deficiency; X-linked | adhesion deficiency | angioedema | | | | agammaglobulinemia | (LAD); Chronic | | | | | (Bruton | granulomatous disease | | | | | agammaglobulinemia); | | | | | | CVID | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - C. Urticaria and angioedema 88 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - (1) 局部:皮膚癢、紅疹、蕁麻疹(Urticaria)、眼周或嘴唇血管性水腫(Angioedema)等。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - #### C. Urticaria and angioedema Source: [[sources/med3-book4-ch07|庚、過敏疾病]].

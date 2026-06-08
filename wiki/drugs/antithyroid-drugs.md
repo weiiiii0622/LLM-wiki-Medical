@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book4-ch29]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Antithyroid drugs (抗甲狀腺藥物)'
   - 'Antithyroid drugs'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med3-book2-ch13]]
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book4-ch29]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- a. 藥物治療:最常用的藥物為 propylthiouracil (PTU) and methimazole (Tapazol)。 PTU 因半衰期較短故常一天給藥三次; Tapazol 一天一次給藥即可。此外, PTU 較不易穿透胎盤與乳腺,因此較不用擔心影響胎兒或是授乳。 - PTU: 5~10 mg/kg/24hr 一天分三次給予。 - Tapazol: 0.25~1.0 mg/kg/24hr —天一次給予。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) propylthiouracil Source: [[sources/med3-book4-ch29|己、特定議題]].
 - | | PTU (Propylthiouracil) | Methimazole | |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - 6. 甲狀腺風暴 (Thyroid storm):定義是甲狀腺毒症 (Thyrotoxicosis)嚴重到使生理 decompensation,如意識昏迷、黃疸、心臟衰竭、高體溫等。可用下列藥物治療: - (1) 大劑量的 PTU:除了抑制甲狀腺製造,此時更利用其可抑制釋放到周邊的 T4 轉為 較強的 T3。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].

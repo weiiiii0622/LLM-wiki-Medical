@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Paroxysmal nocturnal hemoglobinuria, PNH (陣發性夜間血紅素尿症)'
   - 'Paroxysmal nocturnal hemoglobinuria, PNH'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-PIGA/GPI-anchor 異常造成補體介導溶血、血栓與骨髓衰竭關聯。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PIGA/GPI-anchor 異常造成補體介導溶血、血栓與骨髓衰竭關聯。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- **Neurofibromatosis** · Ataxia-telangiectasia · Severe combined immune deficiency · **Paroxysmal nocturnal hemoglobinuria** · Li-Fraumeni syndrome. Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 3. 某些物質或疾病與 AML 有關連性,如放射線暴露(ionizing radiation)、化學物質(alkylating agents、epipodophyllontoxin)、有機溶劑、陣發性夜間血紅素尿症(paroxysmal nocturnal hemoglobinuria, PNH)、Down syndrome、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman-Diamond syndrome、Neurofibromatosis type I、Li-Fraumeni syndrome、Kostmann syndrome. Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - #### 2. 陣發性夜尿症 (Paroxymal noctural hemoglobinuria, PNH) Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (1) 不知病因導致幹細胞異常,可能與 PIG-A 基因突變導致無法形成 CD55、CD59 的 GPI-anchor,使得 CD55、CD59 失去抑制補體的功能,最後造成補體攻擊紅血球, 導致慢性溶血。 - a. CD55 = Decay accelerating factor (DAF) - b. CD59 = Membrane inhibitor of reactive lysis (MIRL) Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (2) PNH 病患常合併 Aplastic anemia,暗示骨髓內有異常幹細胞主導,因此除了溶血,還會有 Pancytopenia 等表現。 Source: [[sources/med3-book4-ch10|甲、貧血]].

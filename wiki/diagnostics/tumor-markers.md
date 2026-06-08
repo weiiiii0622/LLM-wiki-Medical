@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med3-book4-ch05]]"
   - "[[sources/med3-book4-ch02]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Tumor markers (腫瘤標記)'
   - 'Tumor markers'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,16 @@ tags:
 - [[sources/med3-book4-ch22]]
 - [[sources/med3-book4-ch05]]
 - [[sources/med3-book4-ch02]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...ppled | | | | nodules (infants) | calcification in mass | | Hepatoblastoma | Birth-3 yr | Large, firm liver | Increased AFP | | Hepatoma | School age, | Large, firm liver; hepatitis | Increased AFP | | | teens | B, cirrhosis | | | Rhabdomyosarcoma | All | GI/GU obstruction, | | | | | sarcoma botryoides, | | | | | vaginal bleeding, para- | | Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 1. α-fetoprotein (AFP): 常用來診斷與監測腫瘤用。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 2. Germ cell tumor(GCT)又可以分成精母細胞癌(seminomatous GCT)以及非精母細胞癌(Non-seminomatous GCT)、其中 NSGCT 又包含 embryonal cell cancer, teratoma, yolk sac tumor, choriocarcinoma。特色是 β-hCG 以及 AFP 同時會升高。因此,可以使用 AFP, CEA, 或是 β-hCG 做為追蹤指標。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 3. 診斷:一般而言出生前可以用超音波診斷,超過第 13 週時即可診斷。此外,母親血液 AFP 會升高。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 3. 診斷:同臍膨出,出生前可以用超音波診斷,超過第 13 週時即可診斷。此外,母 親血液 AFP 會升高。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 抽血檢驗 CEA、CA-125、AFP 及 PSA Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - ...3 價陽性反應,下列何種術後輔助性治療最不恰當?(A) 放射治療(B) 化學治療(C) 荷爾蒙拮抗治療(D) 抗 Her-2 抗體治療 | 98(一)專醫三-38 | | 4. 承上題,該患者在術後一年半之例行追蹤檢查,第一次發現腫瘤指數 CA15-3 增高至 45k U/L (正常值 Folinic acid)+5FU+Oxaliplatin [FOLFOX]。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (C) 13. 一位 73 歲男性病人因腹瀉 2 個月並體重減少 10 公斤而由門診住院。門診超音波檢查顯示有多個肝腫瘤。大腸鏡檢查發現上行結腸有突起之腫瘤,病理檢查證實為腺癌。病人之 B 型肝炎、C 型肝炎標記陰性,胎兒蛋白正常,但癌胚胎抗原(CEA)為 1,160 ng/mL。病人腹部電腦斷層如附圖。下列何者為此病人之最適合之 Dukes 分期? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
@@ -53,7 +62,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/neuroblastoma|Neuroblastoma (神經母細胞瘤)]]
 
 ## Follow-up
 

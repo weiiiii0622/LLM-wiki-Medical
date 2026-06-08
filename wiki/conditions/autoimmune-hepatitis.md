@@ -20,6 +20,8 @@ sources:
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Autoimmune hepatitis (自體免疫性肝炎)'
   - 'Autoimmune hepatitis'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,16 @@ tags:
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- c. 發病時通常白血球及血小板高,血紅素低,且 CRP 及 ESR 高。Oligoarthritis 及 polyarthritis 有 40~85% ANA 會陽性。Rheumatoid factor(RF)可能陰性或 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- g. ANA: Antinuclear Antibody (ANA) 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ..., 及腎臟疾病。 - b. 其他常見實驗室檢查異常:C3, C4 低(和 disease activity 有關,嚴重時特別低); ESR, CRP 高;Hypergammaglobulinemia。 - c. 自體免疫抗體: - (a) ANA: 是很好的 screening tool, 但並非 SLE 特有。 - (b) Anti-dsDNA: 70~80%SLE 會出現,對 SLE 較有特異性,且和疾病活性 (disease activity)有關,反映紅斑狼瘡的嚴重程度。 - (c) Anti-Sm: 只有 10~30%SLE 會出現,但對全身性紅斑狼瘡具有專一性。 和 disease activity 無關。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 1. 針對初次發病的病人,應該檢查 CBC/DC、albumin、TG、cholesterol、BUN、Cr、Na、K、C3、C4、ANA、IgA、ASLO、renal ultrasound、spot urine total protein 等以找出造成腎病症候群的可能疾病。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (4) 血液生化檢查如白蛋白、膽固醇、血清補體、ANA、鏈球菌血清學檢查等。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (B) 6. 一位 36 歲男性的皮膚,每隔 2~3 天會有突發性的融合性紅疹發生如 96(一)專 下圖所示,而且相當癢,已有2年之久。但是皮疹從未發生在嘴唇。 醫三-62 經服用抗組織胺有效,但是無法痊癒。抽血檢查發現 total IgE 104 IU/ml, WBC 5,850/mm3 with eosinophil 3.2%, ANA 1: 40X (-)最可能的診斷為下列何者? Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - (C) autoimmune hepatitis-collagen type II Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - | 自體免疫抗體 | 特徵 | |--------------------|----------------------------------------------------| | ANA | 95~99%(+),很 Sensitive,但不 Specific | | | 最佳篩檢工具,重複的陰性反應可排除 SLE | | Anti-ds DNA | 最 Specific,和疾病活動度有關 ( 值愈高疾病愈活躍 ), | | Anti-ds DNA | 可預測腎炎、血管炎 | | Anti-sm | 最 Specific,和疾病活動度無關 | | Anti-Ro (SSA) | 可穿過胎盤,造成胎兒先天性心臟傳導障礙* Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
@@ -70,11 +79,6 @@ tags:
 - ...療 | | | | →若已達腎病症候群 ( > 3 克 ): 類固醇 +ACEI 控制蛋白尿 | | | Systemic | Lupus nephritis( 狼瘡腎炎 ) 請參考 AIR 部分 | 下降 | | disease | → ANA (+)、Anti-dsDNA (+)、C3 下降 | | | | Cryoglobulinemia (冷凝球蛋白血症) | 下降 | | | → Cryoprecipitate (+)、C3 下降、Anti-HCV Ab (+) | | | | Henoch-schönlein purpura (HSP) | 正常 | | | → IgA nephropathy+systemic vasculitis (腹痛)、C3 正常 | | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...sts 2~4。全血球數檢查: Hb 10.6 g/dL、WBC 4,600/μL、platelets 120,000/μL;血液生化檢查: BUN 35 mg/dL、肌酸酐 1.8 mg/dL。下列那個處置是最適當的? (A) 檢查血清 ANA, C3 濃度,並安排腎臟切片檢查 (B) 安排胃鏡檢查 (C) 給予輸血 (D) 尿液細菌培養,並給予抗生素兩週 (B) 8. 腎病症候群 (Nephrotic Syndrome) 和下列何種癌症最有關聯? 101(一)專 (B) 何杰金氏淋巴癌 醫三-36 (A) 腎臟細胞癌 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...pylobacter | C. jejuni | 微須氧 | | | | | 菌 | 幽門螺旋桿菌 | Helicobacter | H. pylori | 1成須羊 | | | | | tiel - | | Estarabastaria ana | Escherichia, Klebsiella, | 兼性厭氧 | | | 桿 | | 腸內菌 * | | Enterobacteriaceae | Salmonella, Shigella | 末 土 八 羊 | | | 菌 | | 類相 | 早菌 | Bacteroid | B. fragilis | 絕對厭氧 | | | | | 嗜血桿菌呼吸道桿菌 博得氏菌 | | Haemophilus | H. influenza, H Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...| (E 型肝炎檢驗,送疾病管制局確認) | | | 急性病毒性 | 具有急性肝炎之症狀 (如黃疸、茶色尿、疲倦、腹痛、胃口差、噁心、嘔吐) | 1 週內 | | 肝炎未定型 | 及血清轉胺酶值上升 2.5 倍以上,排除藥物、中毒性肝炎、自體免疫性肝炎、 | | | | 酒精性肝炎、膽道疾病、心血管疾病(如鬱血性心衰竭、休克等),血清學 | | | | 標記 (IgM Anti -HAV、HBsAg、IgM Anti -HBc、Anti -HCV、Anti -HEV) 檢 | | | | 驗項目為陰性。(E 型肝炎檢驗,送疾病管制局確認 )。 | | | 思腺炎 | 符合臨床表徵或實驗室診斷者,即可進行通報: | 1 週內 | | | 一、臨床表徵:出現急性單或雙側腮腺或其他唾液腺疼 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- (D) antinuclear antibody (ANA) high titer 時,IgM anti-HBc 有假陽性的可能 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- 1. 自體免疫性肝炎 (Autoimmune hepatitis, AIH): - (1) 肝炎+球蛋白上升+自體免疫抗體。 - (2) 分類: - a. Type 1:Anti-smooth muscle Ab(ASMA)、ANA,有 2/3 是女性,可能合併自體 免疫甲狀腺炎、類風濕性關節炎。 - b. Type 2: Anti-liver/kidney microsome type 1 (Anti-LKM1) • - (3) 診斷:排除病毒、藥物、酒精等原因,加上 Revised Original Scoring System of the International Autoimmune Hepatitis Group 評分表(如下,Ref:AASLD 2010)。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...rum globulin or IgG | >2.0 | +3 | | | | above normal | 1.5~2.0 | +2 | | | | | 1.0~1.5 | +1 | | | | | 1:80 | +3 | | | | (ANA,ASMAm,LKM-1) | 1:80 | +2 | | | | | 1:40 | +1 | | | | | 60 g/day) | -2 | | | | Liver Histology | Interface hepatitis | +3 | Biliary change/other | | | | Lymphoplasmacytic | +1 | feature 暗示可能是 PBC | | | | infiltrate/Hepat Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- 1. 肝指數以AST、ALT升高為主,則懷疑是肝臟的問題,如病毒性肝炎、自體免疫性肝炎、 毒藥物性肝炎、脂肪肝等。 - (1) 病毒性肝炎: - a. A 型肝炎:急性期 IgM-anti-HAV(+)、曾經得過 IgG-anti-HAV(+) 可終身免疫(很常考急性期應檢驗 IgM 非 IgG)。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 
 ## Clinical Caveats
 

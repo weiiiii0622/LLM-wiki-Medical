@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch08]]"
 aliases:
   - 'Hemophilia B (B 型血友病)'
   - 'Hemophilia B'
@@ -19,14 +20,18 @@ tags:
 
 ## Summary
 
-factor IX 缺乏造成 intrinsic pathway 異常。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+factor IX 缺乏造成 intrinsic pathway 異常。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch08]]
 
 ## Key Details From Sources
 
+- (C) 2.15 歲女病患,有家族性易出血現象,她易流鼻血、月經量多、 貧血。血液檢驗結果顯示: bleeding time 超過 30 分鐘, PT 10 秒 (control 11 秒), aPTT 48 秒 (control 30 秒), Hb 5.0g/dL, platelet count 480×10³/mm³。最可能的診斷為: - (A) hemophilia A - (B) hemophilia B - (C) von Willebrand disease - (D) Bernard-Soulier syndrome Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (B) 血友病 B (hemophilia B) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (C) 第九因子缺乏(factor IX deficiency) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (A) 5. 凝血因子 X (coagulation factor X) 活化為 Xa 的反應中,下列何因子 105(-) 專 沒有參與? - (A) factor Va - (B) factor VIIa - (C) factor VIIIa - (D) factor IXa Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...酵素時間 (PT) INR 1.0,活 化 之 部 分 凝 血 激 素 時 間 (aPTT) 56 秒 (control: 28"~35"),下列何種檢查對此病人的診斷不是必要的? (A) factor VIII activity (B) factor IX activity (C) factor XIII activity (D) von Willebrand factor activity 【詳解】factero XIII 與 PT aPTT 都無關。 | 104(二)專醫三-43 | |-----|---------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 

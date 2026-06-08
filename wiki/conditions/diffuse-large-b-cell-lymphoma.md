@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Diffuse large B-cell lymphoma, DLBCL (瀰漫性大 B 細胞淋巴瘤)'
   - 'Diffuse large B-cell lymphoma, DLBCL'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-侵襲性 B cell lymphoma，常以快速長大淋巴結表現。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+侵襲性 B cell lymphoma，常以快速長大淋巴結表現。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch18]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- (2) Diffuse large B-cell lymphoma: - a. 兒童 NHL 中佔約 20%。 - b. 可侵犯縱膈腔、腹腔、消化器官、周邊淋巴結、腦部等,依照侵犯得位置而 有不同表現。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 3. 其中以 Non-Hodgkin's lymphoma 最多 - (1) 成人 ( > 20 歲): DLBCL、Follicular lymphoma 為多數。 - (2) 小孩 ( 38°C \ Night sweat \ Weight loss 10% in 6 months | | | | 治療 | ABVD | R-CHOP | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - ...-----------------------------------| | HTLV-1 | Adult T cell lymphoma/leukemia ( 簡寫 ATLL) | | HIV | Burkitt's lymphoma, Diffuse large B cell lymphoma | | EBV | Burkitt's lymphoma, Primary CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - #### (2) 依據五項指標的預後(針對 DLBCL): Source: [[sources/med3-book4-ch15|己、淋巴瘤]].

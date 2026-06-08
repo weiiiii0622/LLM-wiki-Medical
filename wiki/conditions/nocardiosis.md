@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Nocardiosis (奴卡氏菌感染)'
   - 'Nocardiosis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-可造成肺部、皮膚或中樞感染，免疫不全者風險較高。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成肺部、皮膚或中樞感染，免疫不全者風險較高。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- 1. 特殊,慢性,或反覆的感染。例如: - (1) ≥ 1 次全身性的感染(sepsis, meningitis)。 - (2) 一年內≥ 2 次嚴重的呼吸道或軟組織細菌感染 (cellulitis, draining otitis media, pneumonia, lymphadenitis)。 - (3) 特殊部位的嚴重感染(liver, brain abscess…)。 - (4) 特殊病原菌的感染(Aspergillus, Nocardia…)。 - (5) 常見病原菌感染但異常的嚴重。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...cocci, | Serratia,Klebsiella; | | | | enterovirus); | Haemophilus…); | 黴菌如 Candida; | | | | Candida; PCP ; | XLA 病人常見 | Nocardia, Aspergillus | | | | mycobacteria | enterovirus 感染; | | | | | | 寄生蟲 (giardia, | | | | | | cryptosporidia) | | | | 臨床 | 生長發育不良 | 反覆的鼻竇炎或肺 | 皮膚感染 (abscess, | 腦膜炎,關節炎, | | 表現 | (Failure to thrive) | 炎 | dermatitis, celluli Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (1) 通常用來治療革蘭氏陰性菌及少數革蘭氏陽性菌所引起之嚴重感染症。與抑制細胞 壁製造的抗生素有協同作用,而且所以常合併 Penicillin 等抗生素使用。Amikacin 還對於 mycobacteria 及 Nocardia 感染有效。厭氧菌對 aminoglycoside 有抗藥性的, 且 aminoglycoside 不易進入膿瘍內。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (c) Minocycline:用途類似 Doxycycline,靜脈劑型,治療嚴重的立克次體感染,還可用於 Nocardiosis、Actinomycosis;也用於氣胸病患的肋膜沾粘術。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...| 例子 | 臨床上常用於 | | 抑制四氫葉酸產生 | Trimetho | prim (TMP)+ | 肺孢子蟲肺炎 (Pneumocystis jiroveci)、 | | | Sulfamethoxazole (SMX) | | 奴卡氏菌腦膿瘍 (Nocardiosis) | | | | | 泌尿道感染、前列腺炎 | | 抑制 DNA 超螺旋酶 | 2° | Ciprofloxacin | 院內感染、沙門桿菌、前列腺炎 | | | 3° | Levofloxacin | 社區型肺炎 | | | 4° | Moxifloxacin | 吸入性肺炎(可對抗厭氧菌) | | 製造有毒物質破壞 DNA | Metronic | lazole | 厭氧菌、原蟲、偽膜性大腸炎 | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

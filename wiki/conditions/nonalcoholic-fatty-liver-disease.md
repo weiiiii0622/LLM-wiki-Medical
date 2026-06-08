@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch21]]"
   - "[[sources/med3-book2-ch26]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Nonalcoholic fatty liver disease, NAFLD (非酒精性脂肪肝)'
   - 'Nonalcoholic fatty liver disease, NAFLD'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-代謝症候群相關脂肪肝可進展至 steatohepatitis、纖維化或肝硬化。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+代謝症候群相關脂肪肝可進展至 steatohepatitis、纖維化或肝硬化。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book2-ch21]]
 - [[sources/med3-book2-ch26]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (C) 5. 為正確診斷非酒精性脂肪肝疾病(nonalcoholic fatty liver disease), 下列何項敘述,不是需做肝臟超音波檢查此病的危險因子? Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 【詳解】非酒精性脂肪肝疾病(nonalcoholic fatty liver disease,NAFLD)是肝臟疾病中的一種。在兒童,此疾病與**肥胖**有強烈的相關性;同時也是兒童慢性肝疾病(chronic liver disease)中最常見的疾病。NAFLD表現範圍很廣,從僅單純的 fatty liver Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- nonalcoholic steatohepatitis(NASH)(Triad: fatty infiltration, inflammation, and fibrosis)都有可能發生。屍體解剖統計 10%的兒童或是 38% 在 2~19歲的肥胖病人有 NAFLD。到目前為止,沒有一項生化檢查可以做診斷工具;即使 GOT 或是 GPT 正常,仍有 21~23% 兒童罹患 NAFLD。臨床上較可靠的影像工具為超音波。目前確切診斷的方式為肝臟切片。臨床上危險因子有肥胖、男性、高加索人種(特別是西班牙 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - a. ALT = GPT ( 1,000,較常見於病毒性肝炎、藥物性肝炎、缺血等引起的肝傷害;有時只會高到幾百,較常見於膽道阻塞、脂肪肝等 infiltrative disease。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - \*NASH: non-alcoholic steatohepatitis. Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - 1. 肝指數以AST、ALT升高為主,則懷疑是肝臟的問題,如病毒性肝炎、自體免疫性肝炎、 毒藥物性肝炎、脂肪肝等。 - (1) 病毒性肝炎: - a. A 型肝炎:急性期 IgM-anti-HAV(+)、曾經得過 IgG-anti-HAV(+) 可終身免疫(很常考急性期應檢驗 IgM 非 IgG)。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].

@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Fluoroquinolones (氟喹諾酮類)'
   - 'Fluoroquinolones'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book4-ch27]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- | Nelson Textbook of Pediatrics 21 th Edition Table 428.6 | |-------------------------------------------------------------------------------------------------------------| | Age | | | Tetracyclines* | 2° 或 3° cephalosporins | | | | Fluoroquinolone | Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) 11. 一位 52 歲患有高血壓並服用藥物的男性,計畫到印度鄉下去旅游 106(-)專 七天,若您要給他建議,下列何者不適當? 醫三-69 (A) 高血壓藥可以不帶,因旅遊時間只有七天 (B) 自備 ciprofloxacin 以治療旅程中可能發生的旅遊者腹瀉或泌尿 道感染 (C) 攜帶一些消炎止痛藥及抗組織胺以備不時之需 (D) 飲食必需煮熟,煮開,剝皮,否則就不要吃 (C) 12. 依據 2005 年 Starfield 等人的研究報告,美國地區每 10,000 人口多增 105(二)專 加一位家庭醫師,對死亡人數的影響為何? 醫三-66 (A) 每 100,000 人口增加 700 人死亡 (B) 每 100,000 人口增加 70 人死亡 (C) 每 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...無下列情形 | Clarithromycin, Azithromycin | | | CAP | 無卜列情形3個月內曾使用過抗生素 | | | | CAP | 當地 Macrolide resistance to S.P. > 25% | Moxifloxacin 或 | | | Comorbidity CAP | | Augmentin+ Clarithromycin, Azithromycin | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...umocystis jiroveci)、 | | | Sulfamethoxazole (SMX) | | 奴卡氏菌腦膿瘍 (Nocardiosis) | | | | | 泌尿道感染、前列腺炎 | | 抑制 DNA 超螺旋酶 | 2° | Ciprofloxacin | 院內感染、沙門桿菌、前列腺炎 | | | 3° | Levofloxacin | 社區型肺炎 | | | 4° | Moxifloxacin | 吸入性肺炎(可對抗厭氧菌) | | 製造有毒物質破壞 DNA | Metronic | lazole | 厭氧菌、原蟲、偽膜性大腸炎 | | 抑制 RNA polymerase | Rifampir | n 肺結核 | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

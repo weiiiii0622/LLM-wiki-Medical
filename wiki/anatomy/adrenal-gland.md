@@ -19,6 +19,13 @@ sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Adrenal gland (腎上腺)'
   - 'Adrenal gland'
@@ -33,7 +40,7 @@ tags:
 
 ## Summary
 
-腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +59,26 @@ tags:
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- IV. 腎上腺一先天性腎上腺增生 287 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- # IV. 腎上腺 - 先天性腎上腺增生 (Congenital Adrenal Hyperplasia, CAH) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...-----------------------------------------------------------------------------------------------------------------| | 先天性腎上腺增生(21-hydroxylasedeficiency) | 先天腎上腺增生為體染色體隱性遺傳疾病。大部分是因為腎上腺21- 酵素缺乏。嬰兒會在出生後 10 天左右,因鹽分大量流失,造成低血鈉、高血鉀、嘔吐、體重不增等現象。此外,此疾病會刺激雄性素的分泌,而引起雄性化,使得嬰兒在胎兒期就會發生外陰雄性化現象。 | | 楓糖尿症 | 體染色體隱性遺傳疾病。人體中缺少支鏈甲型酮酸脫氫酵素,使得此胺基酸的代謝無法進行。症狀:在開始餵食後數天至 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (A) 先天腎上腺增生症(congenital adrenal hyperplasia) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (C) 14. 臺灣地區先天性腎上腺增生(congenital adrenal hyperplasia)的 新生兒篩檢是測定嬰兒血片的: - (A) ACTH - (B) cortisol - (C) 17-hydroxyprogesterone - (D) 21-hydroxylase enzyme activity Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- ...le | | | | pseudohermaphrodism \ increased risk of Wilms tumor. | | | Beckwith-Wiedemann | Organomegaly (liver, kidney, adrenal, pancreas) · macroglossia | | | | omphalocele \ hemihypertrophy. | | Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 2. 只要有交感神經細胞的地方都有可能發生 NB,但以腹部最常見,如腎上腺髓質(最常見)或是腹膜後交感神經節。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- **PS**: 腎上腺之神經母細胞瘤在 plain radiography 或 CT 可以看到 calcification and hemorrhage; 然而 Wilms tumor 通常則不會顯示鈣化。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 3. 當病人有嚴重的 stridor 或是呼吸窘迫時,給予消旋腎上腺素(racemic epinephrine) 混合生理食鹽水以霧氣吸入方式治療。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 4. 新生兒篩檢指定項目: - (1) 先天性甲狀腺低能症(CHT) - (2) 半乳糖血症 (GAL) - (3) 葡萄糖 -6- 磷酸鹽去氫酶缺乏症 (G6PD) - (4) 高胱胺酸尿症 (HCU) - (5) 苯酮尿症 (PKU) - (6) 先天性腎上腺增生症(CAH) - (7) 楓糖尿症 (MSUD) - (8) 中鏈醯輔酶 A 去氫酶缺乏症 (MCAD) - (9) 戊二酸血症第一型 (GA-1) - (10)異戊酸血症(IVA) - (11)甲基丙二酸血症(MMA) Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (D) 25. 王醫師發現有些醫師會使用腎上腺皮質素治療上呼吸道感染的症狀 ,他十分懷疑這種治療方式是否真的有效,他決定以實證醫學方式 去解答他的問題。下列那一個問題最適合作實證醫學探索? 102(二)專 醫三-71 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (A) 腎上腺皮質素對緩解上呼吸道感染症狀的實證醫學評估 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
@@ -63,13 +87,6 @@ tags:
 - .... 老化過程中會發生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|-------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (A) 診斷必須排除腎上腺或甲狀腺功能不足 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...mEq/L,確立診斷方法為:(A) 24 小時小便 Catecholamine (B) plasma ACTH,Cortisol(C) plasma aldosterone / plasma renin activity ratio(D) 腎上腺電腦斷層檢查【詳解】高血壓合併低血鉀要想到醛固酮分泌過多,或是皮質性類固醇分泌過多。 | 94(一)檢內-9 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...Estrogen therapy | | | | excess | Low | 1. Primary aldosteronism (Adenoma, Hyperplasia, Carcinoma) | | | | | renin | 2. Adrenal enzyme defects (11b or 17a-Hydroxylase deficiency) | | | | | | 3. Cushing's syndrome or disease | | | | | | 4. Other(Licorice, Carbenoxolone, Chewer's tobacco) | | | | Gain-of-function mu | itation o | of renal sodium c Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- 1. 臨床疾病: - (1) 由飛沫傳染,在口咽寄生後,經由血液循環,造成腦膜炎、敗血症。 - (2) 猛爆性腦膜炎雙球菌血症(Waterhouse-Friderichsen syndrome),即雙側腎上腺出血,伴隨低血壓、出疹。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 【詳解】(C) Waterhouse-Friderichsen syndrome 是猛爆性腦膜雙球菌 菌血症,雙側的腎上腺出血,伴隨低血壓和出疹。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (A) 可能是腎上腺腫瘤,理學檢查應該特別注意腹部的觸摸 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (A) 1. 接受高劑量腎上腺皮質素治療的兒童,在預防接種時需避免下列何 102(二)專 種疫苗? 醫三-70 - (A) 麻疹、腮腺炎及德國麻疹(MMR)疫苗 - (B) B型肝炎疫苗 - (C) 白喉、百日咳及破傷風(DPT)疫苗 - (D) 小兒麻痺不活化病毒疫苗(沙克疫苗) Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 
 ## Clinical Caveats
 
@@ -78,7 +95,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/neuroblastoma|Neuroblastoma (神經母細胞瘤)]]
 
 ## Follow-up
 

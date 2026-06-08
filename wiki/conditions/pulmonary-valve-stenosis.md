@@ -1,0 +1,48 @@
+---
+type: condition
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch10]]"
+aliases:
+  - 'Pulmonary valve stenosis (肺動脈瓣狹窄)'
+  - 'Pulmonary valve stenosis'
+  - '肺動脈瓣狹窄'
+tags:
+  - medicine
+  - condition
+  - auto-topic-node
+---
+
+# Pulmonary valve stenosis (肺動脈瓣狹窄)
+
+## Summary
+
+右心室出口瓣膜層級狹窄，可造成收縮期雜音、右心室肥大與發紺。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch10]]
+
+## Key Details From Sources
+
+- Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...**VSD、主動脈跨位**到右心室造成**肺動脈血流受阻** (Right ventricular outflow tract obstruction, including infundibular stenosis, valvular pulmonary stenosis, and sometimes supravalvular pulmonary stenosis),最後造成右心室肥大。當肺動脈血流阻塞甚至造成 pulmonary atresia 時,除了靠 patent ductus arteriosus (PDA) 外甚至還需要靠 major aortopulmonary collateral arteries (MAPCAs) 才可能有較足夠的血液打入肺部血管。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (B) Tetralogy of Fallot with Severe Pulmonary Valve Stenosis • Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (D) pulmonary stenosis Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- [[conditions/acyanotic-congenital-heart-disease|Acyanotic congenital heart disease (非發紺型先天性心臟病)]]
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

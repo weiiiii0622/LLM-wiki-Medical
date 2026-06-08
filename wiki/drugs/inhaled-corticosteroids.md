@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch15]]"
   - "[[sources/med3-book1-ch14]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Inhaled corticosteroids, ICS (吸入型類固醇)'
   - 'Inhaled corticosteroids, ICS'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-氣喘控制核心藥物，依 step 調整劑量。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+氣喘控制核心藥物，依 step 調整劑量。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch15]]
 - [[sources/med3-book1-ch14]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- 根據不同病生理機轉,治療方式也略有差異。ICS 對於 eosinophilic type 效果最佳, 為第一線控制用藥;但不是所有 asthma 第一線用藥。如 exercise-induced asthma, 第一線用藥反而是 SABA。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 5. Exhaled nitric oxide (FeNO) - (1) A value of >20 ppb supports the clinical diagnosis of asthma in children - (2) FeNO can be used to predict response to ICS therapy: - a. 35 ppb: Likely to respond to ICS because eosinophilic inflammation is likely Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- FEV1, forced expiratory volume in 1 sec; FVC, forced vital capacity; ICS, inhaled corticosteroid; ppb, parts per billion. Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...gressive exertional dyspnea)● 慢性咳嗽咳痰伴隨呼吸困難發作 | | 降階或較輕 | Step2→每天使用低劑量吸入型類固 | Group B→先用一種長效擴張劑 (LABA | | 微病患的維持用藥 | 醇 (ICS)(ICS;氣喘病患不可單用 LABA | or LAMA) | | 起始的維持用藥 | Step 3 →再加長效擴張劑 (LABA)(ICS + LABA) | Group C 持續 AE 者→選用較有證據的長效擴張劑 (LAMA) | | 升階或較嚴 | Step 4→中劑量 ICS+LABA | Group D (注意: GOLD 2019 改版這部分) | | 重病患的 | Step 5→高劑量 ICS+LABA | 有症狀者 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - ICS (inhaled corticosteroid) · LAMA (long-acting muscarinic antagonist) · LABA (long acting beta2-agonist) Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 1. Step 1:無夜間症狀、白天症狀每月1、技巧不佳、抽菸者、FeNO 上升、肥胖、懷孕、血中嗜酸性球增高等。 - (2) 「每天使用 ICS」相較於「需要時使用 SABA」可減少一半氣喘急性惡化。 - (3) 「需要時使用 ICS/Formoterol」不亞於「每天使用 ICS」,皆可減少 AE。 - (4) 三烯素受體拮抗劑(LTRA):效力較 ICS 差。 Source: [[sources/med3-book1-ch15|乙、氣喘]].

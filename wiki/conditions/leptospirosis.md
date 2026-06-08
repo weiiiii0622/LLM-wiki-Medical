@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Leptospirosis (鉤端螺旋體病)'
   - 'Leptospirosis'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-動物尿液或水土暴露相關 spirochete infection，可侵犯肝腎。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+動物尿液或水土暴露相關 spirochete infection，可侵犯肝腎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (C) 鉤端螺旋體症(Leptospirosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (B) 9. 一位 6 歲男童發燒 5 天就診,身體檢查發現上眼皮浮腫、扁桃腺 98(-)專有滲出液(exudate)、肝臟下緣於右肋下方 5 公分、脾臟下緣於 醫四-2 左肋下方 3 公分,下列那一種檢查對於診斷最有幫助? - (A) Weil-Felix reaction - (B) Heterophile antibody test - (C) Throat bacteria culture - (D) Throat virus culture Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...Tre | | Treponema | T. pallidum | | | Spir | ochete | 疏螺旋體 | Borrelia | B. burgdorferi, B. recurrentis | 厭氧 | | (E) | | 鉤端螺旋體 | Leptospira | Leptospira interrogans | | | | | 披衣菌 | Chlamydia | C. trachomatis, C. pneumoniae | | | 絕業 | 加內 | 巴東氏菌 | Bartonella | B. henselae | 阿奈尔 | | 寄生 | € (F) | 立克次體 | Rickettsia | R. rickettsii, R. typhi, O. tsut Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (4) 補充:外斐氏試驗(Weil-Felix test)是利用立克次體與特定的變形桿菌的抗原相似, 以對抗特定變形桿菌抗原的抗體來診斷立克次體感染。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 3. 鉤端螺旋體 (Leptospira) 類,如問句型鉤端螺旋體 (Leptospira interrogans) - (1) 為人畜(狗、貓、家畜)共通傳染病。 - (2) 慢性感染老鼠腎臟,尿液汙染水及土壤,農民、礦工、資源回收工人工作時,皮膚、 黏膜傷口接觸到被汙染水及土壤而感染。台灣於 2006~2009 年的颱風大淹水,曾造 成鉤端螺旋體病群聚。 - (3) 輕則類似感冒症狀,重則導致衛氏病(Weil syndrome),有黃疸、腎炎、多器 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

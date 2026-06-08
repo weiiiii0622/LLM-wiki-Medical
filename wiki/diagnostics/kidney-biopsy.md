@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Kidney biopsy (腎臟切片)'
   - 'Kidney biopsy'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-診斷腎絲球、間質與部分腎實質疾病的重要檢查。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+診斷腎絲球、間質與部分腎實質疾病的重要檢查。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- ...病理成因:HSP 發病機制目前仍未清楚了解。病理學上 HSP 有兩個特點:leukocytoclastic vasculitis 以及 immunoglobulin A deposition,發生部位在皮膚、關節、腸胃道以及腎臟的小血管上。腎臟切片顯示 endocapillary proliferative glomerulonephritis。IgA 沉降在腎絲球上,在光學顯微鏡下無法與 IgA nephropathy 做出區別。免疫螢光染色下可以看到 mild proliferation 或是 necrotic and crescentic changes。偶爾會看到 C3、fibrin 與 IgM 沉澱。另外,由於 HSP 好發於秋冬之際,某些病原體如 group A β- Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (5) 腎臟切片:不常做,僅有在 acute renal failure、進展到 nephrotic syndrome、缺乏明顯的感染證據或正常的 C3 level 時才做。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 3. 腎臟切片:用於鑑別診斷反覆發作型或是對類固醇治療成抗性的病童。對於一歲以 下或是十二歲以上兒童也建議做切片檢查。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...cANCA (cytoplasmic ANCA) | pANCA (perinuclear ANCA) | | 攻擊對象 | Anti-PR3 (Proteinase 3) | Anti-MPO (myeloperoxidase) | | 免疫螢光 | Diffuse, granular cytoplasmic staining pattern | Localized perinuclear staining pattern | | 中小型 | Wegener's granulomatosis | Churg-Strauss syn., Microscopic polyangiitis, | | 血管炎 | | Wegener's granulomatosis* | Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - 1. 衛格式肉芽腫 (Wegener's granulomatosis) [ 最常考!!] - (1) 流病:平均於40歲發病,好犯上下呼吸道及腎臟的血管。 - (2) 病生理:肺或腎臟切片可見有壞死性肉芽腫性血管炎(Necrotizing granulomatous vasculitis); 90%的 Wegener's granulomatosis 病患 cANCA(+)。 - (3) 症狀: - a. 上呼吸道:副鼻竇疼痛、血膿樣鼻分泌物、鼻中隔穿孔,甚至造成馬鞍鼻(Saddle nose deformity)。 - b. 下呼吸道:由無症狀到咳嗽、咳血;CT可見兩側多發性開洞浸潤(Cavitary infiltration)。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (5) 因此,腎臟切片有助於計畫 SLE 病患的治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

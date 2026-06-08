@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch11]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Clindamycin (克林黴素)'
   - 'Clindamycin'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch11]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (A) clindamycin 投予 7 天 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 4. 若對 penicillin 類抗生素過敏可用口服 clindamycin 或是 cephalosporin。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...| Macrolide (肝) | Erythromycin | 非典型肺炎 (Mycoplasma, Chlamydia) | | | | | Azithromycin | HIV 病患的 MAC | | | 抑制 50S 核醣體 | Lincosamide (肝) | Clindamycin | 厭氧菌→橫膈以上的膿瘍 | | | | | | 抑制細菌毒素製造→壞死性筋膜炎 | | | | Oxazolidinones (肝) | Linezolid | 可用於多重抗藥性的細菌 | | | | Chloramphenicol | Chloramphenicol | 毒性大,現少用(再生不良貧血、灰嬰) | | | 抑制 30S 核醣體 | Aminoglycoside | Gentami Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - #### 2. Lincosamide 類:如 Clindamycin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (1) Clindamycin: - a. 抗菌範圍類似 Erythromycin,可抗 GPC - b. 還能抗厭氧菌,對膿瘍有不錯的穿透力,可治療咽喉附近的膿瘍(橫膈上);對 *Bacteroid fragilis* 效果不可信,因此腹腔內的膿瘍仍建議使用 Metronidazole(橫膈下)。 - c. 合併其他藥物治療嚴重的Streptococcal, clostridial 感染,可抑制其釋放出來的毒素。 - d. 會破壞大腸內正常菌群,使 Clostridium difficile 增生,引起偽膜性大腸炎 (Pseudomembranous colitis),須以口服 Metronidazole 或 Vancomycin 治療。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

@@ -21,6 +21,12 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch22]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Esophagus (食道)'
   - 'Esophagus'
@@ -35,7 +41,7 @@ tags:
 
 ## Summary
 
-食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +62,25 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch22]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- IV. 食道(Esophagus) 64 - A. 先天性食道閉鎖與食道氣管瘻管 64 - B. 裂孔疝氣 67 - C. 胃食道逆流疾病 67 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- # IV. 食道 (Esophagus) Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- # A. 先天性食道閉鎖與食道氣管瘻管 (Esophageal atresia and tracheoesophageal fistula) Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (B) 食道閉鎖 (Esophageal atresia) Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (C) 食道閉鎖氣管食道瘻管 (esophageal atresia with tracheoesophageal fistula ) Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (D) 13. 下列何種先天構造異常之新生兒會在安靜時呈現呼吸窘迫及發紺 103( 二 ) 專 (cyanosis) 的症狀,而張口大哭之後發紺情況則得以緩解? 醫四-5 - (A) 先天性橫膈疝氣(congenital diaphragmatic hernia) - (B) 氣管食道瘻管(tracheo-esophageal fistula) - (C) 皮耳羅賓症候群 (Pierre-Robin syndrome) - (D) 雙側後鼻孔閉鎖 (bilateral choanal atresia) Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (C) 15.2 個月大的女嬰,出生後不久即被發現呼吸急促合併喘鳴聲 106(-) 專 (stridor),氣管鏡檢查發現氣管狹窄,食道攝影如圖所示。下列 醫四-13 - (A) 雙主動脈弓 (double aortic arch) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】食道攝影顯示在食道前有個壓跡(anterior indentation),支氣管鏡顯示氣管狹窄。由這兩點顯示在氣管與食道之間有東西穿越。依照題目線索以(C)最有可能。(A)在食道攝影的 lateral view 則是在食道「後方」有壓跡,在食道攝影 AP view 則是在食道兩側有壓痕。(B) 在食道攝影 AP view 顯示兩側食道有壓跡,在 lateral view 則看不到壓跡。(D) 在解剖位置上與 aortic arch 同側,故在食道攝影上看不出有壓痕。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...deletion。病人也常合併有先天性心血管異常(cono-truncal anomalies, tetralogy of Fallot, interrupted aortic arch,右側主動脈弓;心房或心室中膈缺損…)及其他先天異常如食道閉鎖,bifid uvula,眼距寬,下巴小,low-set ears…。(CATCH 22:Cardiac, Abnormal facies, Thymic hypoplasia, Cleft palate, Hypocalcemia; 第 22 對染色體異常) - b. 臨床表現:最常見以新生兒低血鈣及抽筋表現。T 細胞免疫不全的程度則因胸腺發育不良的程度而異,complete DiGeorge syndrome (完全沒有胸腺者) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (b) 食道與呼吸肌也會受到影響,病人可能出現吞嚥困難而有異物誤入氣管或是呼吸衰竭。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...: - a. 口乾(Xerostomia):原發性休格蘭氏症 2/3 唾腺腫大,次發性(有合併其他自體 免疫疾病)則少見。 - b. 眼乾 (Dry eye): 眼瞼下沙質感、灼熱、紅癢、光敏感。 - c. 呼吸道:鼻、喉、氣管乾;消化道:食道黏膜萎縮、萎縮性胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...drome,常合併 **Anti-centromere(+)**,包含五種表現:Calcinosis cutis(皮下鈣化)、Raynaud's phenomenon(皮膚遇冷時會白→紫→紅)、Esophageal dysmotility(食道下 1/3 無法活動)、Sclerodactyly(指硬化)、Telangiectasis(微血管擴張,壓病灶處會變白)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (4) 腸胃道:好犯食道下 2/3,肌肉纖維化導致胃酸逆流等。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
@@ -67,16 +89,6 @@ tags:
 - a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - a. 為 Triazole 類,最大特點為可過 BBB,用於治療全身感染的「球黴菌型」 (Coccidioidal)黴菌:念珠菌、隱球菌;可治療念珠菌血症(Candidemia)、念 珠菌食道炎等;而隱球菌(Cryptococcal)腦膜炎須先用 Amphotericin B 引導治療數週,再用 Fluconazole 維持治療。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
 - ...篩檢檢測陽性者。 | | | | (二)新生兒以快速檢測法及抗體篩檢檢測呈陽性者。 | | | | 二、流行病學條件:符合下列任一情形之新生兒。 | | | 後天免疫缺 | | 24 小時內 | | 泛元光授献乏症候群 | 感染、隱球菌症、食道念珠菌症等(詳如後天免疫缺乏症候群個案報告 | 21.1.011 | | | 單背面表列,AIDS 之診斷依據)。 | | | (AIDS) | | | | | 二、檢驗條件: | | | | 經醫師診斷為伺機性感染或 AIDS 有關的腫瘤,如:肺囊蟲肺炎、弓形 | | | | 蟲確認為 HIV 感染,且依不同年齡,其 CD4 值或比例為: | | | | (一)年齡滿6歲(含)以上: 一、有相關流行地區旅遊史、病例接觸史、猿猴或致病原 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- 下食道括約肌(LES)過多暫時性的放鬆造成胃酸逆流,影響 LES 壓力的因素:Tips: LES: 3~4 cm. Resting pressure: 10~30 mmHg / Cholinergic excitatory neuron(副交感)→維持張力!! Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- ...--|---------------------------|-------------------| | 增加 | Gastrin | Cholinergic agonist | Metoclopramide | Protein | | LES | Motilin | α agonist | Domperidone | | | 壓力 | Substance P | β blocker | Cisapride, Baclofen | | | | | | Bethanecol, Histamine | | | 減少 | Secretin, CCK, | Anti-cholinergic agent | CCB | Fat, Chocolate | | LES | Serotoni Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- 3. 若胃鏡正常,仍懷疑 GERD,可使用 Ambulatory 24-hour ph monitoring,將 probe 放於 LES 上 5 公分監測,是目前用來定量酸暴露的最佳方法。另有一 Bernstein test -以 0.1% HCL 刺激看是否能引發相同症狀,可作為輔助。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- 1. 只有固體食物困難吞嚥→機械性阻塞 (mechanical obstruction),僅是會卡到固體的食物, 日多半能指出卡住的地方,表示管腔狹窄但蠕動正常。 - (1) 病人年紀 > 50 歲,伴隨體重減輕或有口腔癌病史,傾向懷疑是食道癌。 - (2) 長期有 heartburn、慢性咳嗽的症狀,傾向是長期 GERD 造成的 Peptic stricture。 - (3) 過去有腐蝕性食道炎病史(強酸強鹼),可能造成管腔狹窄(stricture),或在數十 年後併發食道癌。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- 2. 固體、液體食物皆會困難吞嚥→神經肌肉疾病(neuromuscular disorder),導致食道蠕動功能受損,而有吞嚥固體、液體食物皆有困難。注意:無論是食道括約肌無法放鬆或無法正常收縮都會吞嚥困難,因為沒有正常的推進波。 - (1) 若僅是間歇性發生,可懷疑是 diffuse esophageal spasm, 然而這些病人有可能會進展到 achalasia。 - (2) 併有呼吸道的症狀,可懷疑是 achalasia,因為 achalasia 的病人下食道括約肌(lower esophageal sphincter, LES) Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- (3) Diffuse esophageal spasm;(Corkscrew appearance of the lower part of the esophagus) 典型的螺旋鑽現象。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- 3. 胃鏡(UGI endoscope): 可診斷兼治療上消化道出血 - (1) 食道靜脈瘤 (Esophageal varices) / 胃靜脈瘤 (Gastric varices): 常有肝硬化的病史 - a. 急性出血時可給予 Octreotide 降低肝門靜脈壓力,控制出血。 - b. 可由胃鏡將食道靜脈瘤結紮 ligation,或直接於食道/胃靜脈瘤施打硬化劑(急性出血或預防出血可用)。 - c. 急性食道靜脈瘤出血時,文獻證實給予抗生素有助於降低再出血風險。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- ...---|-------------------------------------------------------------------------| | 位置 | 距離 GE junction 幾公分,或描述 Li ( 下 1/3 食道 )Lm( 中 1/3 食道 ) | | 大小 F0 (no varices)、F1 (small, non-tortuous) | | | 大小 | F2 (tortuous, 1 mL/min 才可定出位置,可兼治療。 - (3) 核醫 RBC scan: 0.1 ml/min 即可定出位置,但較耗時,適用於出血較少、無立即生命危險、又難以找出出血點(因無法治療,找出出血點後仍須用其他方式止血)。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- #### 2. 食道靜脈曲張 (esophageal varices): Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 
 ## Clinical Caveats
 

@@ -17,6 +17,8 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,16 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- \* 針對使用低劑量 budesonide/formoterol 或低劑量 beclomethasone/formoterol 作為維持 / 緩解治療的病人,可選擇低劑量 ICS/formoterol 作為緩解型藥物。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (4) 長效吸入性乙二型交感神經興奮劑(Long-acting inhaled β2-agonist, LABA): 為長效型的支氣管擴張劑,作用至少 12 小時,因此適用於夜間症狀明顯及白 天常需使用 SABA 者。須配合吸入性類固醇一同使用,不可單獨使用,因為 LABA 本身無 anti-inflammation 作用,因此單獨使用反而會使氣喘急性發作及治 療失敗的風險增加。此外,文獻指出單獨使用 LABA 會增加 asthma mortality, 因此不建議單獨使用。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (B) 吸入型長效支氣管擴張劑 (inhaled long-acting β2 agonist ) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...102(一)專 type 1)之敘述,下列何者錯誤? 醫四-11 (A) 腎臟 1α- 羥化酶 (1α-hydroxylase) 突變所致 (B) 常於兩歲前發病 (C) 低血清 25-hydroxyvitamin D 濃度 (D) 可給予長效 calcitriol 治療 【詳解】Vitamin D-dependent rickets type 1 其 25-hydroxyvitamin D 反而是正常濃度。 (C) 5. 維生素 D 缺乏佝僂症(vitamin D deficiency rickets)的病童,下 100(二)專 列那一種檢查結果最為罕見? 醫四-15 (A) 正常血鈣值 (B) 低血磷值 (Hypophosphatemia) (C) 正常血清副甲狀腺素濃度 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 2. 生長激素治療(recombinant human growth hormone, rhGH)早從 1980 年代開始。即使到今天仍未有長效型藥物問世。目前長效型藥物仍處於臨床試驗階段。美國食品藥物管理局(FDA)列出 8 項臨床疾病核准使用 rhGH 治療: - (1) GH deficiency - (2) Turner syndrome - (3) Chronic renal failure before transplantation - (4) Idiopathic short stature - (5) Small-for-gestational-age sho Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (C) 當病人發生疼痛時給予適量短效嗎啡,待穩定後改為長效嗎啡 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (D) 直接給予長效嗎啡,避免影響患者睡眠 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (D) 給予長效型 morphine sulfate,有 breakthrough pain 時再給予即效型 morphine sulfate Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
@@ -64,11 +73,6 @@ tags:
 - ...L,ALT 85 U/L,肝生檢(biopsy)顯示為第二期(Metavir F2)之肝纖維化。下列敘述何者錯誤?(A) 朱女士應定期接受肝癌篩檢,包括腹部超音波和甲型胎兒蛋白(B) 朱女士可接受抗病毒治療(C)目前 C 型肝炎之標準治療為長效型干擾素(pegylated interferon)合併雷巴威林(ribavirin)和蛋白酵素抑制劑(protease inhibitor)(D) 若能清除 C 型肝炎病毒,可減少肝硬化和肝癌之風險【詳解】(C) 不包含蛋白酵素抑制劑。 | 99(一)專醫三-15 | | (D) 30 | ). 下列何者與脂肪肝(fatty liver)無關? (A) 肥胖症 (B) 糖尿病 (C) C 型肝炎 (D) B 型肝炎 | 98(二)專醫 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 - ...日病情時好時壞,但症狀總是存在,且有漸進性活動時喘 (Progressive exertional dyspnea)● 慢性咳嗽咳痰伴隨呼吸困難發作 | | 降階或較輕 | Step2→每天使用低劑量吸入型類固 | Group B→先用一種長效擴張劑 (LABA | | 微病患的維持用藥 | 醇 (ICS)(ICS;氣喘病患不可單用 LABA | or LAMA) | | 起始的維持用藥 | Step 3 →再加長效擴張劑 (LABA)(ICS + LABA) | Group C 持續 AE 者→選用較有證據的長效擴張劑 (LAMA) | | 升階或較嚴 | Step 4→中劑量 ICS+LABA | Group D (注意: GOLD 2019 改版這部分) | | 重病患 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - ICS (inhaled corticosteroid) · LAMA (long-acting muscarinic antagonist) · LABA (long acting beta2-agonist) Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- 2. 陽性支氣管擴張劑可逆性試驗 (禁 SABA ≥ 4, LABA ≥ 15 小時 )。 - (1) FEV, 增加> 12% 且> 200 mL。 - (2) 如果增加> 15% 且> 400 mL, 愈能確認。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- 2. 依 Group 的治療原則: - (1) Group A:可考慮短效(只有偶爾喘)或長效的支氣管擴張劑。 - (2) Group B: 考慮單用長效支氣管擴張劑(LABA 或 LAMA)。 - (3) Group C: 先考慮單用 LAMA。 - (4) Group D:可用 LAMA、LAMA+LABA 或 ICS+LABA。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- 3. 治療再依臨床的兩大類表徵(一類是平時喘的症狀較嚴重、一類是反覆急性惡化)進行 調整: - (1) 喘為主的病人以擴張劑治療為主,COPD 病患 long-acting Anticholiergic agent (LAMA)為首選,抑制M3接受器,減少氣管收縮;劑量使用過多會抑制M2接受器,而使效果減弱;另外也可使用LABA,若症狀持續,則可合併LAMA+LABA。若效果仍不佳,需檢視吸藥技巧或換吸藥劑型或進一步評估喘的原因。 - (2) 反覆急性惡化為主的病人除了使用擴張劑,針對血中 eosinophil $\geq$ 100 病患,考慮加上 ICS;若血中 eosinophil 1)」是單一最好評估嚴重度的 指標 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- (D) 做為附加 (add-on) 治療,效果比吸入型長效性乙二型增效劑 (long acting $\beta_2$ -agonist) 弱 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- (C) 使用長效的 nitrates 比硝化甘油舌下含片更能立即有效的改善胸 縮的症狀 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

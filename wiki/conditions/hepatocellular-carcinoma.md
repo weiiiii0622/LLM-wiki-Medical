@@ -14,6 +14,8 @@ sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Hepatocellular carcinoma, HCC (肝細胞癌)'
   - 'Hepatocellular carcinoma, HCC'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,15 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch25]]
 - [[sources/med3-book4-ch27]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- 2. 原發性惡性肝臟腫瘤中,超過65%為 hepatoblastoma,其次為 hepatocellular carcinoma。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- (B) 1. 關於兒童惡性肝腫瘤 (malignant hepatic tumor) 的敘述,下列何 107( ) 專 者最不恰當? 醫四 -28 - (A) 肝母細胞癌(hepatoblastoma)主要發生在 3 歲以下的小孩, 而肝細胞癌(hepatocellular carcinoma)的發病年齡較大 - (B) Beckwith-Wiedemann syndrome 的患者,較易發生肝母細胞癌(hepatoblastoma) - (C) 由於 B 型肝炎疫苗的施打,已讓國內肝母細胞癌(hepatoblastoma)發生率顯著下降,但肝細胞癌(hepatocellular carcinoma)則比率維持不變 - (D) 肝細胞癌(hepatocellular carc Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 【詳解】由於 B 肝疫苗施打的普及化,肝細胞癌發生機率與過往相比有明顯的下降。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- (C) C型肝炎急性感染 20~30 年後,部分患者會進展至肝硬化 (cirrhosis)、肝衰竭 (liver failure) 甚至肝癌 (hepatocellular carcinoma) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - | 症 狀 | 媒介物 | 腫 瘤 | |-----------------------|-----|-----------------------------------------| | DIC | | 前列腺癌、APL(M3) | | AIHA | Ab | CLL | | Erythrocytosis | EPO | RCC · HCC · Cerebellar hemangioblastoma | | Eosinophilia | IL5 | Lymphoma > Leukemia | | Pure red cell aplasia | Ab | Thymoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...e cell carcinoma) | 107(一)專醫三-48 | | (B) | 3. 下列腫瘤何者較不會合併紅血球增生症? (A) 腎細胞癌 (Renal cell carcinoma) (B) 淋巴瘤 (Lymphoma) (C) 肝癌 (Hepatocellular carcinoma) (D) 小腦血管母細胞瘤 (Cerebellar hemangioblastoma) | 100(二)專醫三-49 | | (D) | 4. 下列有關癌症的遠處效應(remote effects of neoplasm),何者正確? (A) 是癌症轉移(metastasis)產生 (B) 有些是因為 IgE 自體免疫抗體造成 (C) 只會產生中樞神經病變 (D) 肺癌是常見引起該效 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - (D) 7. 一位 35 歲肝癌末期病患 T,於腫瘤病房住院期間得知自己之病情, 102(二)專 一開始非常震驚、哭泣,其後經過醫護人員與妻子之支持,情緒逐 漸好轉;住院3個星期之後,T主動要求簽署「不施行心肺復甦術」 之意願書,經腫瘤科主治醫師詳細評估並說明後,由 T 親自簽署意 願書。下列敘述何者較為合理? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
@@ -59,10 +67,6 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - 2. 危險因子: HBV、HCV、黃麴毒素、CCl4; 肝硬化、血色素病(hemochomatosis)、威爾森氏病(Wilson's disease)、血型B(比較: 血型A 較易得胃癌, 血型B 較易得肝癌)。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - 3. 診斷: - (1) 篩檢:超音波掃描為第一線影像學檢查工具、AFP > 200 則暗示有 HCC。 - (2) 確診: CT 可見 arterial phase enhancement。 - (3) 結論:超音波用來篩檢,電腦斷層用來確診,磁振造影、血管攝影通常用在電腦斷層沒有辦法完全確診時,可用在較小、較早期的病灶偵測。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - (c) HBeAg(+) 表示病毒正在活躍地複製,若轉為 anti-HBe(+),表示病毒沒有活躍地複製→未來產生肝硬化肝癌機率會下降。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- (A) 7. 一位病人之血清生化學檢查結果如下:bilirubin(T/D) = 4.5/2.5 94( ) 專mg/dL;A/G = 2.8/3.5 gm/dL;alkaline phosphatase = 278 U/L(正常 < 238 U/L);GOT = 105 U/L(正常 < 31 U/L);GPT = 85 U/L(正常 常 < 31 U/L);另外 prothrombin time = 17.5/11.5 sec.,其最可能之 診斷: - (A) 肝硬化併有肝功能失償 (decompensated liver cirrhosis) - (B) 肝細胞癌 (hepatocellular carcinoma) - (C) 膽管細胞癌 (cholangiocarcinoma) - (D) 總膽管結石 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- ...急性肝炎 | 急性肝炎 | 需感染了 HBV 才 | 輕微的急性肝炎 | | | 感染後會痊癒、 | →慢性肝炎 (10%) | →慢性肝炎 (80%) | 可能感染 HDV | 感染後會痊癒、 | | 疾 病 | 無帶原 | →肝硬化、肝癌 | →肝硬化、肝癌 | →急性肝炎 | 無帶原 | | | | 嚴重者可能會有 | | 和 HBV 共同感染可 | 孕婦感染 HEV | | | | 猛爆性肝炎 | | 能會有猛爆性肝炎 | 有 20% 死亡率 | Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...表現 | 象 | 導致臨床上的急性發作 | 癌 | 床上的急性發作(acute | | | | (acute exacerbation) 可 | | exacerbation),肝纖維化 | | | + | 能產生肝纖維化甚至肝 | | 肝癌的風險上升。 | | | | 癌,因此這段時間應該 | | | | | | 越短越好。 | | | Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...經照會消化系專科醫師同意後,可長期使用。 - (c) 接受肝臟移植者,可預防性使用。 - (d)接受癌症化學療法,經照會消化系專科醫師同意後,可於化學療法前1週開始給付使用,直至化學療法結束後6個月,以預防B型肝炎發作。 - (e) 確診為肝癌並接受根除性治療且 HBV DNA $\geq$ 2,000 IU/mL,可長期使用直至 肝癌復發且未能再次接受根除性治療為止。 - c. **HBeAg**(+) 的慢性B型肝炎(\*定義: **HBsAg**(+) 超過 6 個月及 **HBeAg**(+) 超過 3 個月) - (a) ALT 值大於( 或等於) 正常值上限 5 倍以上(ALT ≥ 5X)。 - (b) ALT 值介於正常值上限 2 至 5 倍之間( $2X \l Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 
 ## Clinical Caveats
 

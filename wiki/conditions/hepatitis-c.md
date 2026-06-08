@@ -23,6 +23,8 @@ sources:
   - "[[sources/med3-book4-ch17]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch29]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Hepatitis C (C 型肝炎)'
   - 'Hepatitis C'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,15 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - [[sources/med3-book4-ch17]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch29]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- (D) 12. 關於 C型肝炎 (hepatitis C),下列何者錯誤? Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (A) 和 B 型肝炎相比,C 型肝炎垂直感染(perinatal transmission) 的比率較低 醫四-17 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (B) 若母親為 C 型肝炎帶原者且合併有高病毒血症或合併有愛滋 病毒感染時,則垂直感染的風險會增加 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (C) C型肝炎病毒 (Hepatitis C virus) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (1) 類似 SLE, **HBV** 相關的結節狀多發性動脈炎(PAN)、**HCV** 相關的冷凝球蛋白血症(Cryoglobulinemia)、過敏性紫斑(Henoch-Schönlein Purpura)等,都是 IC 沉積於血管上,最後導致血管炎。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (C) 1.32 歲男病人罹患活動性 C 型病毒肝炎已數年。最近數星期,兩下肢 107(-) 專 皮膚出現許多有壓痛之小紅疹。且四肢麻木疼痛。檢查發現有輕度 醫三-13 蛋白尿。下列那一項檢查陽性最具診斷價值? - (A) 類風濕因子 (RF) - (B) 抗細胞核抗體 (ANA) - (C)冷凝球蛋白 (cryoglobulin) - (D) C 型肝炎病毒量(viral load) Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (C) 10. 一位 30 歲女性病人,最近一週發燒及下肢水腫就醫。身體診察:意 - (B) C型肝炎抗體 (anti-hepatitis C virus antibody) - (C) 雙股去氧核糖核酸抗體 (anti-double stranded DNA antibody) - (D) 冷凝球蛋白 (cryoglobulin) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
@@ -77,10 +85,6 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - ...disease | → ANA (+)、Anti-dsDNA (+)、C3 下降 | | | | Cryoglobulinemia (冷凝球蛋白血症) | 下降 | | | → Cryoprecipitate (+)、C3 下降、Anti-HCV Ab (+) | | | | Henoch-schönlein purpura (HSP) | 正常 | | | → IgA nephropathy+systemic vasculitis (腹痛)、C3 正常 | | | 治療: 鈴 | 十對本身疾病治療,類固醇 +/- Alkylating agent (腎臟疾病) | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (A) 47 歲男性,患有 C 型肝炎十年,近半年開始出現下肢水腫,尿 液分析有 300 mg/dL 蛋白, 高倍鏡檢有 20~30 RBC Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (a) Type I MPGN,病人常呈緩慢惡化,常伴有高血壓和腎功能失常,其病理下可見 mesangial interposition 於 Basement membrane 及 endothelial cell 間,而可看到 tram-tracking。病人血清中 Clq, C3, C4 皆下降。可能與慢性感染(HCV、IE)、免疫複合體沉積(SLE、Cryoglobulinemia)有關。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...al medicine 17th) Peritransplant ( 6 months)Aspergillus · Nocardia · BK virus (polyoma) · Herpes zoster · Hepatitis B · Hepatitis C (D) 5. 下列何種腎病變在腎移植後,最少復發? 94(三)檢 (A) IgA nephropathy 內 -35 (B) Diabetic nephropathy (C) Focal Segmental glomerulosclerosis (D) Lupus nephritis Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- ...es/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者), CCR5 (考慮用 maraviroc 者)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- | | Hepatitis A | Hepatitis B | Hepatitis C | Hepatitis D | Hepatitis E | |-------------|--------------|--------------|-------------|-------------|----------------| | 所屬科別 | 小 RNA 病毒 | 肝炎病毒科 | 黃質病毒科 | 不完全病毒 | 杯狀病毒科 | | 广川海州 | Picornavirus | Hepadnavirus | Flavivi Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (2) 血清檢查: - a. anti-HCV(+):表示曾經感染到C型肝炎病毒,血液中可能有病毒也可能沒有。 C型肝炎病毒根除後,anti-HCV還有可能存在一段時間。目前臨床上驗的 anti-HCV antibody 不是保護性抗體。 - b. 因輸血、針扎等感染 C 型肝炎 6 個月後,若測不到 anti-HCV antibody,表示身體成功消滅病毒,並沒有 C 型肝炎感染;若仍測得到 anti-HCV antibody,表示成為慢性感染。但仍有例外的情形,現多量測 HCV RNA 來監測感染活躍程度。 - c. HCV genotype:目前已知有 6 種基因型,在台灣,絕大多數是基因型第一型 1b 或第二型,其次是基因型第一型 1a,基因型與使用的藥物、用藥療程、治療效果 相關,是治療前必須檢驗的。 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
 
 ## Clinical Caveats
 

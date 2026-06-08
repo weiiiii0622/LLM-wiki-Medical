@@ -10,6 +10,11 @@ sources:
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book4-ch14]]"
   - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch08]]"
 aliases:
   - 'Lactic acidosis (乳酸中毒)'
   - 'Lactic acidosis'
@@ -24,7 +29,7 @@ tags:
 
 ## Summary
 
-組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +39,21 @@ tags:
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book4-ch14]]
 - [[sources/med3-book4-ch18]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...PAH)或輔酶 BH4 因此代謝途徑出問題。苯丙胺酸(PHE)無法藉由 PAH 與 BH4 作用轉換成酪胺酸,而在體內大量堆積,進而產生有毒的代謝產物(如尿中出現大量的 phenylpyruvate、phenylacetate、phenyllactate,使尿液和身體會出現腐臭味)。患此類病症之病兒,臨床上一開始無任何症狀。但若無及時發現,有毒代謝產物的累積到三、四月大時會產生不可逆的傷害。臨床上出現症狀有嘔吐、皮膚毛髮顏色變淡、濕疹、生長發育遲緩、尿液和體汗有霉臭味、抽搐、顫抖等異常的動作。通常會導致嚴重智能不足或死亡。治療:嚴格限制苯丙胺酸的攝取(飲食控制)並監測 PHE 血液濃度 2~6 mg/dL (PHE 亦是人體必需胺基酸故不能沒有)至少到 6 歲以前。往後可以稍微放寬,但 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 5. 症狀: - (1) 無力、腦病變與低血糖。 - (2) 顯著的肝脾腫大。 - (3) Pompe disease (GSD type 2) 因缺乏酵素 acid alpha-glucosidase,特別嚴重。特 徵為心臟肥大,低肌張力,肝臟腫大,病童多於一歲內死亡。 - (4) von Gierke's disease(GSD type 1)因缺乏酵素 glucose-6-phosphatase,造成 lactic acidosis, hyperuricemia, 生長遲緩,但不會有肌肉的症狀。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 4. 診斷: - (1) CK,Lactate,EMG,神經檢查,腦部核磁共振及肌肉切片等的評估可幫助診斷。 - (2) 基因檢查確診。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (B) 因休克引起的乳酸中毒(Sepsis induced lactic acidosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (1) 血液生化檢查:心肌酵素(creatine phosphokinase, lactate dehydrogenase)在急性或慢性心肌炎可能會提高。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...metric | | | Proximal | | Muscle enzyme elevation ( $\geq 1$ ) | Creatine kinase | | | Aspartate aminotransferase | | | Lactate dehydrogenase | | | Aldolase | | Electromyographic changes | Short, small polyphasic motor unit potentials | | | Fibrillations | | | Positive sharp waves | | | Insertional irritability | | | Bizarre, high-frequency repe Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 1. 定義: 造血幹細胞受傷或損失導致下列至少兩項: - (1) ANC : $ and thrombocytopenia (platelet count - b. A raised lactate dehydrogenase (LDH) and/or direct bilirubin level Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...cyte 3.8%,band 6.7%,segmented neutrophil 37.1%,lymphocyte 31.4%。血紅素 9.7 g/dL,血小板 55,000/μL,尿酸 12.1 mg/dL(參考 區間 2.6~7.5),lactate dehydrogenase(LDH)2,342 U/L(參考區間 140~271)。其骨髓細胞顯示如下圖。染色體有 t (2;8) (p12;q24) 之 變化。以下關於這位病人最可能的疾病之診斷與治療,何者錯誤? 108(二)專 醫三-37 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - ...一位 20 歲男性發現有睪丸腫瘤,下列血液檢查何者是不需要的? (A) prostate specific antigen (B) α-fetoprotein (C) β-human chorionic gonadotropin (D) lactate dehydrogenase | 101(二)專醫三-40 | | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - 1. 高陰離子間隙代謝酸:要想到有多餘的陰離子堆積,可分三個方向記憶: - (1) 測 Ketone body、Lactate acid 檢視是否有 Ketoacidosis、Lactic acidosis。 - a. 酮酸中毒(Ketoacidosis):因身體無法消耗醣類、或醣類以消耗殆盡,轉而消耗脂肪產生酮體(Ketone body);可能發生在 DM 病人、酗酒、過度肌餓等, - b. 乳酸中毒(Lactic acidosis):要想到末梢循環不良導致細胞無氧呼吸,可能發生在敗血症(Sepsis)或心、肺衰竭的病患身上。 - (2) 測 Cr 檢視是否 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

@@ -14,6 +14,9 @@ sources:
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'SLE classification criteria (SLE 分類準則)'
   - 'SLE classification criteria'
@@ -28,7 +31,7 @@ tags:
 
 ## Summary
 
-SLE 分類準則整合皮膚、關節、漿膜、腎臟、神經、血液與免疫指標。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SLE 分類準則整合皮膚、關節、漿膜、腎臟、神經、血液與免疫指標。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +45,19 @@ SLE 分類準則整合皮膚、關節、漿膜、腎臟、神經、血液與免�
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- c. 發病時通常白血球及血小板高,血紅素低,且 CRP 及 ESR 高。Oligoarthritis 及 polyarthritis 有 40~85% ANA 會陽性。Rheumatoid factor(RF)可能陰性或 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- g. ANA: Antinuclear Antibody (ANA) 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- j. Malar rash 臉部兩頰紅斑,又稱蝴蝶斑。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 1. 針對初次發病的病人,應該檢查 CBC/DC、albumin、TG、cholesterol、BUN、Cr、Na、K、C3、C4、ANA、IgA、ASLO、renal ultrasound、spot urine total protein 等以找出造成腎病症候群的可能疾病。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (4) 血液生化檢查如白蛋白、膽固醇、血清補體、ANA、鏈球菌血清學檢查等。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 2. 衛生署國健局自 95 年 7 月 1 日起,篩檢之項目由原先的 5 項增加為 11 項。又於 108 年 10 月 1 日起全面擴大新生兒篩檢服務項目為 21 項。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 3. 傳統 11 項健保新生兒篩檢及自費法布瑞氏症及龐貝氏症介紹如下(參考國健署): Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...|--------------------------|--------------------------------------------------------| | Acute | Acute cutaneous lupus | Malar rash (Nasolabial sparing), Generalized skin rash | | (Severe) | erythematosus (ACLE) | 手指紅疹 (在關節間、與 Gottron's sign 相反,又稱 | | | | reverse Gottron's sign) | | Subacute | Subacute cutaneous lupus | 似乾癬的脫屑紅斑或環形紅疹 (circular red-r Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - | 自體免疫抗體 | 特徵 | |--------------------|----------------------------------------------------| | ANA | 95~99%(+),很 Sensitive,但不 Specific | | | 最佳篩檢工具,重複的陰性反應可排除 SLE | | Anti-ds DNA | 最 Specific,和疾病活動度有關 ( 值愈高疾病愈活躍 ), | | Anti-ds DNA | 可預測腎炎、血管炎 | | Anti-sm | 最 Specific,和疾病活動度無關 | | Anti-Ro (SSA) | 可穿過胎盤,造成胎兒先天性心臟傳導障礙* Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - #### E. 診斷準則: 11 項符合 4 項以上[易記錯的以粗體表示] (Harrison 2077 Table 313-3) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

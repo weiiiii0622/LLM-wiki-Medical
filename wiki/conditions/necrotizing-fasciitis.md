@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Necrotizing fasciitis (壞死性筋膜炎)'
   - 'Necrotizing fasciitis'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-快速進展的深部軟組織感染，需早期手術評估與廣效抗生素。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+快速進展的深部軟組織感染，需早期手術評估與廣效抗生素。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (4) 細菌性腸胃炎:視病菌及臨床狀況可考慮給予抗生素。 - a. Enterotoxigenic E. coli: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriax Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 以內視鏡注射肉毒桿菌毒素(botulinum toxin)可完全治癒 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 當 Group A Streptococci(GAS)感染上呼吸道造成 GAS pharyngitis 外,GAS 產生pyrogenic exotoxin(erythrogenic toxin)造成一連串的發炎反應導致猩紅熱。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...ocidin) | 在人類的白血球細胞膜上打洞 (Pore), 使溶解 | | | 毒素 | Enterotoxin A~E ( 腸毒素 ) 對熱穩定 | 食物中毒 (Food poisoning) | | | | Exfoliative toxin (脱皮毒素) | 脱皮症候群 (Scaled skin syndrome, SSS) | | | | TSST-1 (毒性休克症候群毒素) | 超級抗原,毒性休克症候群 (Toxic shock syndrome) | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 1. 化膿性鏈球菌 (Streptococcus pyogenes) => A 群鏈球菌 (Group A streptococcus, GAS): - (1) 致病原因: 鏈球菌以 A 群最可怕,又稱為 Flesh eating bacteria,主要存在人類咽喉、皮膚。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

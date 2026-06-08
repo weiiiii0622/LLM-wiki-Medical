@@ -9,6 +9,9 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book4-ch16]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Nephrotic syndrome (腎病症候群)'
   - 'Nephrotic syndrome'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-大量蛋白尿造成低白蛋白、水腫、高血脂與高凝固狀態。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大量蛋白尿造成低白蛋白、水腫、高血脂與高凝固狀態。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,17 @@ tags:
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book4-ch16]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- IV. 腎病症候群 (Nephrotic Syndrome) 117 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (3) 除了明顯的血尿外,有些病人會表現 acute nephritic syndrome、nephrotic syndrome 或是兩者的結合。Nephritic or nephrotic syndrome 雖然有表現高血壓,但幾乎不會引起高血壓危相(hypertensive emergencies)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 1. 小型血管發炎疾病中,以 Henoch-Schönlein purpura(HSP)最為常見,同時,在所有兒童血管炎疾病中,HSP 亦是最常見的血管炎疾病。根據 the 2012 International Chapel Hill Consensus Conference nomenclature,HSP 又稱作 IgA vasculitis。約 30%的病人在腎臟方面會有所影響。影響範圍從 asymptomatic microscopic hematuria、proteinuria、glomerulonephritis、nephrotic syndrome、acute kidney injury 甚至 chronic renal failure。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 2. 確診 dengue hemorrhagic fever 條件包括 fever、hemorrhagic manifestations、thrombocytopenia ( $20%、pleural effusion or ascites or hypoalbuminemia)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...bowel syndrome、cystic fibrosis、inflammatory bowel disease and gastric bypass surgery。 - c. 肝膽相關疾病:如先天性膽道閉鎖。 - d. 腎臟疾病:如 nephrotic syndrome、renal 1-alpha hydroxylase deficiency (造成 1,25(OH)2 D 缺乏,即 vitamin D dependent rickets type I)。 - e. 藥物: anticonvulsants、glucocorticoids、cholestyramine。 - f. 缺乏照射陽光或肥胖。 - (2) End-organ 對維生素 D(1,25(OH)2 D)反應的受體(vitamin D Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...),或導致近端腎小管功能受損,即所謂的 Adult Fanconi syndrome(包含 Type 2 RTA),使得無法吸收Glucose 及 Amino acid 等。 - b. Amyloid 或 light chain 沉積造成 nephrotic syndrome。 - (3) 貧血(80%):除了骨髓被侵犯,腫瘤也會分泌造血的抑制因子。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - ...y | | | Primary Na + gain | 1. Heart failure | | | (exceeded by | 2. Hepatic cirrhosis | | | secondary water gain) | 3. Nephrotic syndrome | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】腎病症候群會導致水分 shift 到 third space,故有效血液容 量會減少。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].

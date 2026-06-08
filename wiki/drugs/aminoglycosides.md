@@ -9,6 +9,10 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch10]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Aminoglycosides (胺基糖苷類)'
   - 'Aminoglycosides'
@@ -23,7 +27,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +36,18 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch10]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (C) 1. 治療黴漿菌 (*Mycoplasma pneumoniae*) 肺炎,下列何種藥物最 109(二)專 適當? 醫四-4 - (A) Penicillin - (B) Vancomycin - (C) Azithromycin - (D) Gentamicin Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (D) ampicillin 與 gentamicin 投予 7 天 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (1) 經驗性抗生素使用: - a. 若懷疑 Viridians streptococci 或 Enterococcus: penicillin 或 ampicillin 加上 gentamicin。 - b. 若懷疑 *Staphylococcus aureus*: penicillinase-resistant penicillin 或 vancomycin 加上 gentamicin。 - c. 若針對術後病童或是病童有 prosthetic valves,使用 vancomycin 與 gentamicin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (D) 可給 ceftriaxone、metronidazole、 amikacin 等抗生素 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 6. 治療:在尿液培養結果出來之前可以先使用經驗性抗生素。一般建議使用第一代 cephalosporin 加上 aminoglycoside。當培養結果出來後再換適合的抗生素。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...R | Ceftriaxone | | Listeriamonocytogenes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | | | | , | 過後發生腦膜炎需懷疑 S. aureus | MRSA | Vancomycin | | Haemophilusinfluenzae | (又圓又桿) | 自從孩童普遍接種 H. influenzae type Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (A) 5. 下列有關李斯特菌(Listeria monocytogenes)的敘述,何者錯誤? 96(一)專 (A) 為革蘭氏陽性球菌,可以在20℃至25°C的環境成長 醫三-40 - (B) 好發於孕婦、老年人以及一些免疫功能低下的病人 - (C) 臨床上表現以菌血症或中樞神經系統的感染居多 - (D) 藥物治療的首選是 ampicillin 或 penicillin, 常合併 aminoglycoside 類藥物協同治療 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (1) 迅速投予高劑量的第一代 cephalosporin 合併 aminoglycoside Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].

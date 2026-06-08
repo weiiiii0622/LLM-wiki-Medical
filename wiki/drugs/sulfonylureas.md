@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Sulfonylureas (磺醯脲類)'
   - 'Sulfonylureas'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-促進胰島素分泌，降糖效果明顯但有低血糖與體重增加風險。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+促進胰島素分泌，降糖效果明顯但有低血糖與體重增加風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch09]]
 - [[sources/med3-book4-ch01]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- (C) sulfonylurea receptor 的基因突變會造成此病 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- ...$\beta$ cell 與胰島素分泌有關的鉀離子通道〔the ATP-sensitive potassium channel,此鉀離子通道由兩個次單位蛋白構成,其中一個就是 $K_{IR}$ 6.2 channel,另一個就是 the sulfonylurea receptor(SUR1)〕發生異常。遺傳性的 PPHI 為 $SUR1/K_{IR}$ 6.2 基因突變造成。病人出生後會因低血糖而發生癲癇發作、智力受損,因此積極維持血糖為首要處理方式。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (B) 22. 一位糖尿病病患,曾因鬱血性心臟病接受心臟移植手術,之後一直在門診追蹤,並規則服用糖尿病藥物 glibenclamide、metformin 及抗排斥藥 tacrolimus,情況良好。三週前因為腹瀉,疑是 tacrolimus 的副作用,因此改用 azathioprine。這兩天病人出現發燒、畏寒症狀被送到急診處。身體檢查,除發燒、輕度貧血外,無其他異常。血液相顯示血紅素 11.1 g/dL,白血球 760/μL,其中 neutrophil 5%,lymphocyte 80%,monocyte 14%,eosinophil 1%,血 小板 62,000 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - TG Glibenclamide (Diabitin®) | 降血糖效果好、便宜 | 低血糖與增重 | 肝腎 | | 抑制鉀離子通道 | Glinide 類 | 0.5~1.5% | Repaglinide (Novonorm®)Nateglinide (Starlix®) | 降低飯後血糖 | 低血糖與增重 | | | 促進分泌 (胰臟)/減少 Incretin 分解 | DPP-4 inhibitor | 0.5~1.0% | Sitagliptin (Januv Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 【詳解】丙胜(c-peptide)為最佳之胰島素分泌功能指標,其為人 體製造出insulin時的副產物。所以低血糖時,測c-peptide若是增加, 則懷疑是有 insulinoma 或服用增加胰島素分泌的 sulfonylureas ; 若 c-peptide 減少,則懷疑有施打外來的 insulin。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].

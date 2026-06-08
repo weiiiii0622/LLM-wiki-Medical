@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch25]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Breast cancer (乳癌)'
   - 'Breast cancer'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med3-book4-ch28]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch25]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (2) 心電圖:通常會表現 **RBBB**,可能出現高且寬的 P 波、prolonged PR interval。 此外,約 **20%** 的病人有 **Wolff-Parkinson-White syndrome**。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...yperkalemia)的處理,下列何者敘述錯誤? 106(二)專 (A) 停止所有鉀離子的補充 醫四 -20 (B) 若血鉀濃度高於 6.5 mEq/L, 心電圖可能先出現 peak T waves, 進一步可能出現 prolonged PR interval (C) 靜脈內注射胰島素改善高血鉀時,不可同時加葡萄糖點滴 (D) 若高血鉀對於藥物的反應不佳,應考慮透析治療 【詳解】靜脈注射胰島素、使用 β,-agonist 藥物可以把血漿中的 鉀離子趕到細胞內,但是要注意其副作用如低血糖、心搏過速 等。因此注射胰島素時須同時給予醣類補充。 (C) 5.15 歲男生為田徑隊員,在訓練 3 小時後,發生雙側大腿疼痛,尿 106(二)專 液變成紅色而至急診求診。尿液檢查發現,潛血反 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - A. 乳癌 (Breast cancer) 210 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - #### A. 乳癌 (Breast cancer) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (1) 國民健康署補助 45~69 歲女性及 40~44 二等血親內曾罹患乳癌之婦女每 2 年 1 次乳房 X 光攝影檢查。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch03]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Urine anion gap (尿液陰離子間隙)'
   - 'Urine anion gap'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-用尿 Na、K、Cl 推估尿 NH4 排泄，協助正常陰離子間隙代謝性酸中毒鑑別。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用尿 Na、K、Cl 推估尿 NH4 排泄，協助正常陰離子間隙代謝性酸中毒鑑別。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch03]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (3) 利用尿液分析可區別 pre-renal 與 intrinsic renal ARF: - a. Pre-renal ARF : gravity > 1.020 · elevated urine osmolality (Uosm > 500 mOsm/kg) · low urine sodium (UNa Uosm ) $\cdot$ high urine sodium ( UNa > 40 mEq/L ) , and FENa > 2% ° Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...-------|--|--| | OG > 10 | 甲醇 (Methanol)、乙醇 (Ethanol)、 | | | | | 乙二醇 (Ethylene glycol)、異丙醇 (Isopropanol) | | | | OG Na+ UK- UCl = 未測到的陰離子 未測到的陽離子 (NH4+) - a. 若 UAG +)增加→身體酸中毒時,腎臟排酸正常→考慮腹瀉導致 HCO₃ loss 或 Type 2 RTA 無法再吸收 HCO₃ 造成酸中毒; - b. 若 UAG > 0,表示尿中未測到的陽離子 (NH4+)減少→考慮 Type 1、4 RTA; - (2) 腎小管酸中毒 (Renal tubular acidosis, RTA): 哪些問題會造成腎小管受傷? Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 2. 給生理食鹽水會改善的、Ucl +:嘔吐(Vomiting)、使用鼻胃管引流(gastric aspiration)、Villous adenoma。 - (2) 腎臟流失:先前使用利尿劑造成體液缺乏(Volume depletion),可想成體液缺乏時,Renin angiotensin aldosteron system 啟動,aldosteron 造成留鈉排鉀排氫,導致 H+ loss。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 3. 給生理食鹽水不會改善的、Ucl > 20: Cl unresponsive, Saline resistant - (1) 合併高血壓:依 Suspect hyperaldosteronism 表格鑑別診斷(見下一頁)。 - (2) 血壓正常、偏低: Bartter's syn.、Gitelman's syndrome。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch09]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Gestational diabetes mellitus (妊娠糖尿病)'
   - 'Gestational diabetes mellitus'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-懷孕期間診斷的糖代謝異常，影響母胎風險與後續糖尿病風險。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+懷孕期間診斷的糖代謝異常，影響母胎風險與後續糖尿病風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch09]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- (B) 1. 新生女嬰為妊娠 38 周出生、體重 4,400 gm, 母親有妊娠糖尿病 109( 二 ) 專 病史。此女嬰在出生24小時內,最有可能發生的臨床症狀? Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 【詳解】目前妊娠糖尿病診斷已經改成使用75公克口服葡萄糖耐 性試驗了,診斷為:空腹 92 mg/dL,1 小時 180 mg/dL,兩小時 153 mg/dL,三項中有一項超過標準就算有。一般是在懷孕 24~28 週時做。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 
 ## Clinical Caveats

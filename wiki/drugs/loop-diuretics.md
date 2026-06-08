@@ -30,6 +30,8 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Loop diuretics (亨利氏環利尿劑)'
   - 'Loop diuretics'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,15 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- (B) 8. 關於兒童急性鏈球菌感染後腎臟發炎(acute poststreptococcal 107(-)專 glomerulonephritis)的治療,下列敘述何者正確? 醫四-22 - (A) 由於為鏈球菌感染所引起的,因此給與適當的抗生素治療可以縮短病程 - (B) 高血壓的治療包括給與鈣離子抑制劑(calcium channel antagonists)或利尿劑(diuretics) - (C) 限制鈉離子的攝取,主要是針對慢性腎臟病的預防 - (D) 類固醇為首選的治療藥物 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (B) 利尿劑有可能會增加血栓併發症(thromboembolic complication)的可能性 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】除未作答者不給分外,其餘均給分。依題目敘述,病人沒有血尿但出現嚴重的蛋白尿,同時白蛋白過低,故懷疑nephrotic syndrome。利尿劑使用時機為嚴重水腫病人,因為使用利尿劑會使血管內容積減少進而增加血栓風險。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (1) 內科治療:臨床上有症狀的早產兒,先限制水分攝取,必要時考慮利尿劑使用。 若無效則注射 indomethacin 或 ibuprofen 促使 PDA 關閉。對於小的 PDA 或是沒 有症狀的早產兒,一般先觀察,因為有可能自然關閉。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 利尿劑、頭抬高、氧氣可讓症狀暫時舒緩。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - (1) 生理食鹽水靜脈輸注:可稀釋血鈣、促進尿鈣排除(Calciuresis)。當病患體液足夠 時,適當給予 Loop diuretics 可幫助尿鈣排除。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - ...(A) PR 波間距縮短(B) QT 波間距縮短(C) 心房震顫(D) 高聳的 T 波 | 醫三 -44 | | (B) | 7. 承上題,該病患之處置,下列何者較適當? (A) 立即給予靜脈注射 50% 葡萄糖 (B) 補充水分,並給予利尿劑 (C) 注射鈣離子 (D) 給予佳力美粉(Kalimate) | 97(二)專醫三-45 | | (C) | 8. 一位 70 歲胃癌男性因為突然下半身癱瘓(paraplegia)來急診就醫。發病前一個月開始出現下背痛。X 光檢查發現第一腰椎產生病理性骨折(pathological fracture),並產生脊髓壓迫(spinal cord compression)。血液檢查 alkaline phosphatase 780 U/L, Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
@@ -91,9 +99,6 @@ tags:
 - 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...164/98 mmHg,不規則心跳部有 III/VI 之全收縮期雜音及 Sq/L,K + : 4.5 mEq/L,CI - : 92 mEq/由再驗其尿中 Na + 濃度以釐清病因立即給予靜脈滴注 3% saline 以知立即給予靜脈注射 furosemide | 3 奔馬音,抽血檢查 Na * : 120L。下列何種處置最不適當? | 99(二)專醫三-11 | | (C) | 口朋發巧(A)(B) | 歲女性,住院時血鈉為 140 mEq/I服瀉劑及灌腸,於清晨突發意識不見血鈉 117 mEq/L,則下列敘述何應給予鹽片治療並限水應嚴密監控血清鈉離子濃度,mEq/L,以避免滲透壓去髓鞘syndrome)應快速給予高滲透度食鹽水(hy狀改善 | 清及癲癇發作,其血清學檢查者正確?者正確?每 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...顯的濕囉音,頸靜脈怒張。這次入院檢查 BUN 60 mg/dL,creatinine 2.5 mg/dL,一個月前 BUN 34 mg/dL,creatinine 1.2 mg/dL。下列敘述何者最不正確? (A) 病人的體液過多,必須使用利尿劑增加排尿量 (B) 病人的腎功能惡化可能是腎後(post-renal)因素導致,應置放導尿管解除可能的尿路阻塞 (C) 病人的腎功能惡化可能是心臟衰竭導致,應仔細評估心臟功能(D) 病人的腎功能惡化可能是藥物使用不當所致,應詳問用藥紀錄 | 99(一)專醫三-8 | | (A) 23 | . 一位 69 歲糖尿病病人,其血清肌酸酐(creatinine)為 2.3 mg/dL,門診醫師最近加了一項降血壓藥,2 週後抽血,肌酸酐上升至 4 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...ntravenous urography) (D) 核磁共振血管攝影(magnetic resonance angiography) | 94(二)專內 1-26 | | (D) 37. 關於急性腎小管壞死,下列那個推論是正確的? (A) 利尿劑可以避免急性腎小管壞死 (B) 注射腎 - 劑量的 dopamine 可以避免腎小管壞死 (C) 注射腎 - 劑量的 dopamine 沒有危險性 (D) 支持療法的處理原則是限制水、鈉、鉀及蛋白質的攝取 | 94(二)檢內-27 | Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...肌酸酐 1.6 mg/dL。先作下列那個處置是最適當的? (A) 給予降血壓藥物 Amlodipine 每天 5 mg, 一個月後再作尿液分 - 析和生化檢查 - (B) 檢查血清補體濃度,並限制鹽分攝取 - (C) 心臟超音波檢查,並給予利尿劑 - (D) 胸部 X 光檢查,並給予抗生素兩週 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...Angiotensin receptor blockers)來治療高血壓 (B) 糖尿病患者嚴格控制血糖,維持 HbA1C 14. 減緩糖尿病腎病變(diabetic nephropathy)腎衰竭之進行,最好的降血壓藥是那一種? (A) 利尿劑(diuretics) (B) α- 交感神經阻斷劑(α-sympathetic blockers) (C) 血管張力素接受體阻斷劑(angiotensin receptor blockers) | 101(一)專醫三-24 | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

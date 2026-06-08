@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch12]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Beta-lactamase inhibitors (β-lactamase 抑制劑)'
   - 'Beta-lactamase inhibitors'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-與 beta-lactam 合併以抑制 beta-lactamase，擴大對產酶菌效果。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 beta-lactam 合併以抑制 beta-lactamase，擴大對產酶菌效果。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch12]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...on 中提到 *H. influenza* 雖然抗藥性不比 *S. pneumoniae*,但是使用高劑量 amoxicillin 無法治療 *H. influenza* 引起的中耳炎,必須加入β-lactamase inhibitor (clavulanate) 才可治療。而 *S. pneumonia* 雖然抗藥性有 50%(抗藥性的原因與 penicillin-binding protein 改變有關),但仍可用高劑量 amoxicillin 去治療中耳炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 2. 若使用 Amoxicillin 後病情沒有改善、有併發症、病患最近 30 日內有使用 Amoxicillin,則考慮使用 Amoxicillin/Clavulanate 或是第二代 Cephalosporin。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...斷 | 超音波、C | Γ | 超音波、CT、IHA > 1:32 | | 治療 | 抗生素+引 | 流 | Metronodazole 即可, | | | Metronidazole+Ceftriaxone orPiperacillin-tazobactam or | | 不需引流→ | | | | | 否則阿米巴會由引流管蔓延開 | | | Ampicillin-sulbactam | | | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - ...inase-resistant-PCN | Methicillin, Nafcillin, Oxacillin,Cloxacillin*, Dicloxacillin* | 金黃色葡萄球菌 | х | 肝 | | 3. Amino-PCN+β lactamase inhibitor | Ampicillin, Amoxicillin* → Augmentin, Unasyn | 肺炎鏈球菌 | 流感嗜血桿菌 | 腎 | | 4. Carboxy-PCN,+β lactamase inhibitor | Carbenicillin, Ticarcillin, → Timentin | 肺炎鏈球菌 | 綠膿桿菌 | 腎 | | 5. Ureido-PCN+β lactamase inhibitor | Piperac Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (4) Staphylococcus 會產生 Penicillinase 破壞 Penicillin 的 β lactam, 因此 Penicillin、 Ampicillin、Ticarcillin 都無法對抗 Staphylococcus,可選用 Penicillinase-resistant 藥物 (Oxacillin)或加上 β lactamase inhibitor (Augmentin、Tazocin),抑制細菌的抗藥性。以下分述這些藥物。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

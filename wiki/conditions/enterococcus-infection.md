@@ -7,6 +7,8 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch09]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Enterococcus infection (腸球菌感染)'
   - 'Enterococcus infection'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-常見膽道、泌尿道、院內與心內膜感染病原，抗藥性治療需特別注意。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見膽道、泌尿道、院內與心內膜感染病原，抗藥性治療需特別注意。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch09]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (3) Enterococcus、S. pneumonia、group A streptococci、Haemophilus species、anaerobes、gram-negative bacilli 或真菌感染較少見。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (1) 經驗性抗生素使用: - a. 若懷疑 Viridians streptococci 或 Enterococcus: penicillin 或 ampicillin 加上 gentamicin。 - b. 若懷疑 *Staphylococcus aureus*: penicillinase-resistant penicillin 或 vancomycin 加上 gentamicin。 - c. 若針對術後病童或是病童有 prosthetic valves,使用 vancomycin 與 gentamicin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (D) 1. 下列何種細菌較少造成兒童感染性心內膜炎(Infective endocarditis)? 109( 二 ) 專 - (A) Group D streptococcus (enterococcus) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (1) 以細菌為最大宗。最常見為 *E. coli*,其次為 Klebsiella、Proteus(與結石形成有關)。偶爾會出現革蘭氏陽性菌,包括 Enterococcus、*Staphylococcus aureus* 或 *S. saprophyticus*(由其是青少年女性)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...----------------------------------------------------|------| | | 觸媒陰性 | Streptococcus 鏈球菌 | S. pyogenes, S. agalactiae, Enterococcus, S. viridan, S. pneumoniae | . 嗜氧 | | | 產孢子 | Bacillus 桿菌屬 | B. anthracis, B. cereus | 嗜氧 | | 革蘭氏陽性 | 座10丁 | Clostridium 梭狀桿菌屬 | C. botulinum, C. tetani, C. perfringens, C. difficile | 厭氧 | | 桿菌 GPB(B) | 小金畑子 | Coryneba Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...菌 | S. pyogenes | β | 咽喉,皮膚 | M蛋白 | 咽炎,猩紅熱,風濕熱,腎炎 | | B群鏈球菌 | 無乳鏈球菌 | S. agalactiae | β | 陰道 | | 新生兒敗血症,腦膜炎 | | D群鏈球菌 | 腸球菌 | E. faecalis | αβγ | 腸道,泌尿道 | | 膽道,泌尿道→心內膜炎 | | | 牛鏈球菌 | S. bovis | γ | 7 | 莢膜 | 大腸惡性腫瘤 | | 草綠色鏈球菌 | 突變鏈球菌 | S. mutans | α | 牙齦 | Dextran | 牙菌斑→亞急性心內膜炎 | | 肺炎雙球菌 | 肺炎鏈球菌 | S. pneumoniae | α | 呼吸道 | 多醣莢膜 | 肺炎 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...,即為陽性。 - 2. 無乳鏈球菌 (S. agalactiae) => B 群鏈球菌 (Group B streptococcus, GBS): 導致疾病: 主要存在人類陰道。新生兒敗血症、腦膜炎: 乃因經過產道時感染所致。 - 3. 糞腸球菌 (Enterococcus faecalis) => D 群鏈球菌 (Group D streptococcus): 引起膽道、 泌尿道感染,常引起院內感染。當腸道、尿道接受侵入性檢查時,此菌可能因此進入血中,瓣膜有壞損的人,就可能因此感染心內膜炎。治療: Ampicillin+ Gentamicin。 - 4. 牛鏈球菌 (S. bovis) => D 群鏈球菌 (Group D streptococcus): 與大腸惡性腫瘤有關。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

@@ -10,6 +10,12 @@ sources:
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Tumor staging (腫瘤分期)'
   - 'Tumor staging'
@@ -24,7 +30,7 @@ tags:
 
 ## Summary
 
-腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +40,25 @@ tags:
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- Stage 1: 腫瘤限制在腎包膜內,可完全切除。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- Stage 2: 腫瘤超過腎包膜,仍可完全切除。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- Stage 3:切除後仍有殘餘的腫瘤。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- ...、而體循環血流嚴重不足(休克)。 - c. 有時可用 ballon artrial septostomy 讓 LA 擴大幫助血液氧氣供應。 - (2) Surgical management:手術以分階段放式治療病人。(畢業考生參考即可) Stage I:為 pallative surgery,手術方式有 Norwood procedure、Sano procedure or a hybrid operation。第一階段手術目的是為了讓病人活下去。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- Stage II: 第二階段開始為矯正手術,術式為 Glenn anastomosis (Glenn shunt, 又稱為 bidirectional Glenn procedure or the hemi-Fontan procedure)。通常在第二階段手術約在病人年紀 3~6 個月大時進行。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- Stage Ⅲ:Fontan procedure。第三階段矯正手術最快約在病人年紀 2~3 歲時進行。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...------------------| | Risk | eCCl decrease by 25% | 2 | anuric for 12 hr | | Loss | Persistent failure > 4 wk | | | End-stage | End-stage renal disease | | | | (persistent failure > 3 mo) | | | CCL creatinine clearance: eCCL estimated creatinine clearance: pRIFLE. | | | Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- CCl, creatinine clearance; eCCl, estimated creatinine clearance; pRIFLE, pediatric risk, injury,failure, loss, and end-stage renal disease. Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (4) pRIFLE 強調的重點在 the glomerular filtration rate (GFR), 因此 Acute Kidney Injury Work 則以 serum creatinine 上升率做為急性腎損傷評估指標:stage I > 150%, stage II > 200%, stage III > 300%。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 1. 卡他期(catarrhal stage):持續 1~2 週,症狀輕微。鼻炎、打噴嚏、輕微發燒、輕 微咳嗽等類似感冒的症狀。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...---------| | 懵懂期(precontemplationstage) | 未曾認真考慮於將來六個月內改變。 | 1. 增強戒菸動機。2. 評估其意願並提供菸害相關資訊,闡述戒菸的好處。 | | 沉思期(contemplation stage) | 認真考慮於將來六個月內改變。 | 1. 加強認知戒菸的好處。2. 找出強力的戒菸動機。3. 找出戒菸的理由。4. 增加病人的自我認知。 | | 準備期(preparation) | 準備就緒,並認真計劃於一個月內改變。 | 鼓勵病人設定開始戒菸的日期。 讓病人告訴親友已經開始戒菸。 對於預期困難戒菸做好準備。 使病人暸解戒菸的目標要達到完全不吸菸。 準備尼古丁戒斷症候群的處理方式。 | | 行動期(action stage) | Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - (A) 沈思前期 (precontemplation stage) Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - (B) 沈思期 (contemplation stage) Source: [[sources/med3-book4-ch25|乙、行為科學]].
@@ -45,8 +67,6 @@ tags:
 - ...disease)之敘述,何者錯誤? (A) 病變部位主要為 axial involvement (B) 在青春期(adolescence)有一出現高峰 (C) 發生頻率較 non-Hodgkin's lymphoma 高 (D) 大部分 stage I~II,放射治療(R/T)是可痊癒的 【詳解】(C) HD:non-HD 西方 1:3,東方 1:9,所以較 non-HD dz. 低。 | 94(一)專內 2-3 | | (B) | 17. 下列有關 Burkitt 淋巴瘤的敘述,何者錯誤? (A) 部分病人的腫瘤與 Epstein-Barr 病毒感染有關 (B) 常有染色體的異常 t (14,18) (C) 常侵犯中樞神經,分期檢查應包括腦脊髓液檢查 (D) 細胞生長快速,須即 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - | Stage | International Staging System (ISS) | Durie-Salmon Criteria | | 中位存活 | |-------|-----------------------------------------------|----------------------------------------|-------------|-------| | | | Hgb>10, Ca 3.5g/dL | Low M protein (IgG 12,> 5 Lytic bone lesion | IIIA (Cr 5.5 mg/L | High M protein (IgG>7g/dL, IgA>5 g/dL) | IIIB (Cr>2) | 15 個月 | Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - ...oma)診療上的敘述,何者正確? (A)「血清 CA19-9 值的升高」是診斷胰臟癌的必要條件 (B)「血清 CA19-9 值的升高」建議使用於胰臟癌的篩檢(screening) (C)「手術前血清中 CA19-9 值」與病患胰臟癌的期別(stage)具相關性 (D)「手術後血清中 CA19-9 值」與病患的預後無關 | 108(一)專醫三-35 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...cin 的副作用? | 103(二)專 | | | (A) 骨髓抑制 | 醫三-44 | | | (B) 心臟毒性 | | | | (C) 噁心 | | | | (D) 腎毒性 | | | (C) | 10. 下列腫瘤在 advanced stage 時仍有治癒之可能,何者除外? | 102(二)專 | | | (A) 淋巴癌 | 醫三-41 | | | (B) 生殖細胞瘤 | | | | (C) 肝癌 | | | | (D) 神經母細胞瘤 (neuroblastoma) | | Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (3) Stage IV: 化療為主 - a. FOLFOX 或 FOLFIRI (Folinic acid+5FU+Irinotecan)。 - b. 傳統化療加上 Bevacizumab (Anti-VEGF Ab) 可改善存活率。 - c. 傳統化療加上Cetuximab(Anti-EGFR Ab),對於k-ras沒有突變的大腸癌有幫助。 - d. 單一的肝轉移可考慮做肝切除。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 
@@ -55,7 +75,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/wilms-tumor|Wilms tumor (威爾姆氏腫瘤)]]
 
 ## Follow-up
 

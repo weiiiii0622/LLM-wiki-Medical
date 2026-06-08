@@ -8,6 +8,9 @@ sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Diabetic ketoacidosis, DKA (糖尿病酮酸中毒)'
   - 'Diabetic ketoacidosis, DKA'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-胰島素不足造成高血糖、酮酸中毒與脫水的急性併發症。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素不足造成高血糖、酮酸中毒與脫水的急性併發症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,15 @@ tags:
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- (A) 糖尿病引起酮酸血症 (Diabetic ketoacidosis, DKA) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 3. 其它系統性疾病:如血管炎、結締組織疾病、糖尿病酮酸中毒…等。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (2) 臨床表現: type 2 diabetes mellitus 血糖上升值不若 type 1 diabetes mellitus 嚴重,故從病發到診斷所需時間較長。病人亦會發生糖尿病酮酸中毒,但大部分為酮尿(ketonuria)。另外,病人頸部或腋下會有黑色棘皮症(acanthosis nigricans),此為對胰島素產生抗性在皮膚的表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (D) 糖尿病酮酸血症 (diabetic ketoacidosis) Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...因為期 末考胰島素注射次數減少 (D) 60 歲病人因膽道阳塞放置引流管引流膽汁 【詳解】Anion gap = 138 - 97 - 18=23, 故此例為 high anion gap metabolic acidosis, (C)的 DKA 符合此結果。 (D) 15. 下列那一個病例不符合所列之動脈血氣體分析和血清電解質的檢查 102(二)專 結果? 醫三-31 pH 7.49 , PaO2 90 mmHg , PaCO2 48 mmHg , HCO3 32 mEq/L ; Na+ 140, K+ 2.7, Cl 92 (電解質的單位是 mmol/L) Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...yper RAS(留鈉排鉀排氫)。 | | | (C) | 21. 下列何者為正常陰離子隊代謝性酸中毒(normal anion gap metabolic acidosis)? (A) 乳酸中毒(lactic acidosis) (B) 糖尿病酮酸中毒(diabetic ketoacidosis) (C) 第一型腎小管性酸中毒(type 1,即 distal RTA) (D) 水楊酸中毒(salicylate poisoning) | 99(二)專醫三-27 | | (D) | 22. 下列何者會造成代謝性鹼中毒?(A) 甲醇中毒 (B) 低血氧症 | 98(二)專醫三-28 | | | (5) 1 Ht. 1.12 | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

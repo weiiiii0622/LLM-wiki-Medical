@@ -13,6 +13,9 @@ sources:
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med3-book4-ch24]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch08]]"
 aliases:
   - 'Acute kidney injury, AKI (急性腎損傷)'
   - 'Acute kidney injury, AKI'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,17 @@ tags:
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch11]]
 - [[sources/med3-book4-ch24]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch08]]
 
 ## Key Details From Sources
 
+- V. 腎衰竭 133 - A. 急性腎衰竭 133 - B. 慢性腎衰竭 135 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 1. 小型血管發炎疾病中,以 Henoch-Schönlein purpura(HSP)最為常見,同時,在所有兒童血管炎疾病中,HSP 亦是最常見的血管炎疾病。根據 the 2012 International Chapel Hill Consensus Conference nomenclature,HSP 又稱作 IgA vasculitis。約 30%的病人在腎臟方面會有所影響。影響範圍從 asymptomatic microscopic hematuria、proteinuria、glomerulonephritis、nephrotic syndrome、acute kidney injury 甚至 chronic renal failure。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (2) 臨床表現可以是從無症狀顯微性血尿到急性腎衰竭,端看腎臟影響程度而定。 此外,病人會出現高血壓、寡尿、水腫、蛋白尿、疲倦或倦怠、腹痛或側腰腹 近疼痛。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...切片發現小血管壁有 granulocytes。 - (3) 臨床症狀:四大典型症狀包括皮膚紫斑(通常維持 3~10 天,病人沒有合併血小板低下及凝血病變),關節痛(特別是下肢關節),腹痛(與黏膜下出血及水腫有關),及腎臟病變(血尿,蛋白尿,急性腎衰竭…,大部分在發病後四週內出現)。此外,身體其它部位如陰囊、眼睛或是呼吸道有可能被侵犯。 - (4) 治療:大多會自行痊癒,以症狀治療為主。有腸胃或中樞神經症狀可用類固醇 治療,腎臟病變可用類固醇或免疫抑制藥物治療。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...d | | | | HUS. | | | 臨床 | 1. Triad:溶血性貧血(macroangiopathic hemol-ytic | 1. Pentad: HUS triad + fever + | | 表現 | anemia )、急性腎衰竭、血小板減少。 | CNS change • | | | 2. 腹痛腹瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schi Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (C) 6.63 歲的王女士有糖尿病腎病變,其家系圖(pedigree)及病人自填的家庭圈(family circle)如下圖。王女士最近因急性腎衰竭併急性呼吸窘迫症候群,住進加護病房並接受氣管插管,經近一週的治療,病情並無明顯改善,必須執行氣管造口術(tracheostomy),醫護人員告知王女士及家屬氣管造口術的需要性。雖然王女士無法說話,但意識清楚,一直搖頭拒絕氣管造口術,除了醫護人員的努力之外,您會認為請那一位家屬去說服最合適? Source: [[sources/med3-book4-ch24|甲、家庭醫業]].
 - ## 丙、急性腎損傷 (Acute kidney injury, AKI) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

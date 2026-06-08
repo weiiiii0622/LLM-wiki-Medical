@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book3-ch09]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Ventilation-perfusion matching, V/Q (通氣灌流匹配)'
   - 'Ventilation-perfusion matching, V/Q'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book3-ch09]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- 7. 治療:以外科方式治療為最終目標。 - (1) 先維持肺部血液的灌流,如注射 PGE1 維持開放性動脈導管、人工血管放置 (Blalock-Taussig shunt 或 central shunt) 或 PDA stent。 - (2) 手術治療 VSD 與矯正右心室出口阻塞。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- b. 手術治療(參考即可):視右心室發育大小,最後的循環可從雙心室、一又二分之一、到單一心室循環皆有可能。術式包括 pulmonary valvotomy 合併 aortopulmonary shunt、移除閉鎖部位以 patch grafting 代替、心導管介入治療、modified Fontan procedure 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (1) 一開始使用 PGE1 確保 PDA 暢通直到 surgical aortopulmonary shunt。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...| 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | | | | , | 過後發生腦膜炎需懷疑 S. aureus | MRSA | Vancomycin | | Haemophilusinfluenzae | (又圓又桿) | 自從孩童普遍接種 H. influenzae type b疫苗,發生率已減少 | | Ceftriaxone | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (1) 肝功能衰竭後,一些有毒物如 NH3 無法被代謝,循環到腦部造成傷害。然而也認為 與門脈 - 體循環產生交通支(portal-systemic shunt)、腸內細菌過度生長且易穿透 腸壁 bacteria translocation 等有關。臨床上檢驗 NH3 作為代表,但 surum NH3 與嚴重 度並無絕對相關,且影響腦部的物質目前認為不止 NH3 一種。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - ...(B) 肺梗塞(pulmonary embolism) (C) 肝肺症候群(hepato-pulmonary syndrome) (D) 糖尿病合併酮酸中毒(diabetic ketoacidosis) 【詳解】(C) 肝肺症候群會產生 shunt 導致低血氧,這些 shunt 在肺底部較多,站著的時候較多血流經 shunt,低血氧較嚴重。 | 99(一)專醫三-16 | | (D) | 17. 一位 50 歲男性因為 B 型肝炎相關肝硬化合併大量腹水住院治療,經利尿劑及幾次大量腹水放液術治療後,小便量及 glomerular filtration rate 明顯減少,最適當的治療為何? (A) propranolol (B) fluid supply (C) 增加利尿劑劑量 ( Source: [[sources/med3-book2-ch23|戊、肝硬化]].

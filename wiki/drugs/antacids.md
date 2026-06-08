@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Antacids (制酸劑)'
   - 'Antacids'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-中和胃酸，用於短期緩解胃酸相關症狀。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中和胃酸，用於短期緩解胃酸相關症狀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch01]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (2) 內科治療: - a. 傳統制酸劑使用可以迅速改善症狀,但因副作用不建議長期使用。PS:副作用如 diarrhea (magnesium) and constipation (aluminum)。 - b. Histamine-2 receptor antagonists、proton pump inhibitors (PPIs) 使用,治療效果佳。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 2. 口服吸收佳,但若與含鋁、鎂制酸劑、口服鐵劑、綜合維他命、鈣片、牛奶等同時服用, 會明顯降低吸收。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...goxin 併 用 可 能 會 發 生 | | | | | digoxin 毒性反應 | | | | | | | Ħ會增強 fluoroquinolone 藥效 | | | | | 【詳解】(D) Fluoroquinolone 身 | 與制酸劑併用會減弱 fluoroquinolone | | | | | 茲於方。 | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 1. HCO3 gain:如乳-鹼綜合徵(Milk-Alkali Syndrome),因長期服用太多鈣(如牛奶或鈣片)及可吸收的鹼性藥物(如治療消化性潰瘍的制酸劑 Antacid),導致高血鈣、鹼中毒及腎功能損害。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].

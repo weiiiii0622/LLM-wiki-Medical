@@ -12,6 +12,10 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch16]]"
   - "[[sources/med3-book4-ch11]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Renal tubule (腎小管)'
   - 'Renal tubule'
@@ -26,7 +30,7 @@ tags:
 
 ## Summary
 
-腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +42,19 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch16]]
 - [[sources/med3-book4-ch11]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- VI. 腎小管酸中毒 (Renal Tubular Acidosis, RTA) 139 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- VII. 遺傳性腎小管疾病(Inherited Tubular Transport Abnormalities) *144* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (B) 9. 嬰兒尿道後瓣膜(posterior urethral valves),最不常見之表現為: 99(一)專 - 醫四-2 - (A)慢性腎衰竭 - (B) 腎鈉堆積(sodium retention) 及水腫 - (C) 第四型腎小管酸血症(type IV renal tubular acidosis) - (D) 水腎及輸尿管擴張(hydronephrosis and hydroureter) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...嚴重,預後較差。 | | 先天性乳糖不 | 和先天性乳糖酶缺乏不同的疾病,屬於常染色 | | 耐受症 | 體顯性遺傳,開始餵食後出現暴發性腹瀉,水 | | (即所謂乳糖 | 樣多泡的酸性大便,伴腹瀉,可致嘔吐,脫水, | | 不耐症) | 腎小管性酸中毒,雙糖尿,氨基酸尿,白內障, | | | 肝和腦損傷,如診斷過遲可引起死亡,停止餵 | | | 乳後腹瀉消失,無乳糖尿和氨基酸尿症。 | | 成人後天性乳 | 食用牛奶後可引起水樣酸性便伴腹脹,腹部 | | 糖不耐受症 | 不適。 | | 先天性蔗糖酶 | I gene 突變造成蔗糖 α -糊精酶缺乏。通常會 | | - 異麥芽糖酶 | 在嬰兒斷奶後明顯出現,此時嬰兒開始食用水 | | 缺乏症 | 果,果汁和穀物等食物,食用後的 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 1. 針對病因做治療,並非只有單純給予生長激素治療。如矯正腎小管酸中毒、甲狀腺機能低落等。另外,對透納氏症病人,不能只單純給與生長激素,必須加上女性荷爾蒙配合治療才有顯著效果。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (A) 腎小管性酸中毒 (renal tubular acidosis) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Extranodal, low grade, marginal zone B cell lymphoma),特別是唾液腺持續腫大、Low C4、合併冷凝蛋白血症等病患;有時會在腫大唾液腺意外發現。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - 4. 治療: (Ref. Harrison p2109 fig 317-1) - (1) 眼乾、口乾給予症狀治療,或服用 Pilocarpine (Salagen)、Cevimeline (Evoxac)。 - (2) 腎小管酸中毒 (RTA) 需給予 Bicarbonate 補充。 - (3) 關節炎給予低劑量類固醇加上 Hydroxychloroquine 或 MTX 治療。 - (4) 血管炎則需給予類固醇加上免疫抑制劑 Cyclophosphamide 治療。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...化破骨細胞(Osteoclast)等, 導致骨頭遭到破壞、溶出,並造成高血鈣。 - (2) 腎病變 (25%): 有多個因素造成: - a. 濾出的 light chain 傷害腎臟導致腎衰竭(cast nephropathy),或導致近端腎小管功能受損,即所謂的 Adult Fanconi syndrome(包含 Type 2 RTA),使得無法吸收Glucose 及 Amino acid 等。 - b. Amyloid 或 light chain 沉積造成 nephrotic syndrome。 - (3) 貧血(80%):除了骨髓被侵犯,腫瘤也會分泌造血的抑制因子。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
@@ -53,9 +67,6 @@ tags:
 - (A) 第二型腎小管酸血症 (type 2 renal tubular acidosis) Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (B) 39 歲女性經理服用作用於遠端腎小管之利尿劑減重 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...| $(P_K/P_{osm})$ | 再各以 OSM 校正 | TTKG 1%(尿鈉高),表示尿鈉無法由腎臟回收,可知腎臟功能已受損。一位敗血症的病患一開始可能有腎前性腎衰竭,此時 FENa 20;若敗血症未控制,將導致腎因性腎衰竭(急性腎小管壞死、ATN),此時的 FENa > 1%、血中 BUN/Cr 1 | | Spot | Urine sodium conc.(mmol/L) | 20 | | urine | Urine to plasma urea nitrogen ratio | > 8 尿素能排除 | 40 | 2 O) | > 500 尿能濃縮 | ~300 | | Serum | Plasma BUN/creatinine ratio | > 20 | 1. Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...Sarcoid) - (c) 特徵: - i. 因 Sulfa drug 過敏造成的 AIN,其血中白血球的 Eosinophil 可能會增加。 - ii. 驗 U/R 的鏡檢可見 WBC cast, 乃因間質發炎而有白血球浸潤,由間質至 腎小管經擠壓變形成為 WBC case。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...-------------| | | mmHg,血液肌酸酐 1.0 mg/目前體重 65 kg,血壓 140/酐 2.0 mg/dL,尿液紅血球 20蛋白質 trace,胸部 X 光有不可能的診斷是:(A) 快速進行性腎絲球腎炎(C) 急性腎小管壞死 | 都沒有吃藥,平常體重 60 kg,血壓 120/80 dL。3 週前開始出現水腫、少尿與咳血。 100 mmHg,血色素 8.0 g/dL,血液肌酸 0~30/HPF,紅血球圓柱體(RBC cast)+,兩側肺泡浸潤(alveolar infiltrates)。最 (B) Goodpasture 氏症候群 (D) 紅斑性狼瘡腎炎 monary renal syndrome 之描述。 | 103(一)專醫三-7 | | ( | Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- B. 腎小管疾病 (Tubular disease) 86 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

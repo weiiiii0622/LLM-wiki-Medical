@@ -9,6 +9,11 @@ sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch25]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Inflammatory bowel disease, IBD (發炎性腸道疾病)'
   - 'Inflammatory bowel disease, IBD'
@@ -23,7 +28,7 @@ tags:
 
 ## Summary
 
-IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與病理。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與病理。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +37,21 @@ IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book2-ch25]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- (3) IBD (inflammatory bowel disease) • Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...omphalitis)、腹腔感染。 - (2) Intrahepatic: - a. 肝門靜脈發生栓塞(portal vein thrombosis)是常見原因:在新生兒常因脫水或是全身性感染,年紀大一點的病童發生靜脈栓塞則與發炎性腸疾病(inflammatory bowel disease)、膽道感染或是原發性硬化性膽管炎有關。此外,血液高凝集狀態(hypercoagulable state)也與門脈栓塞有關。少見發生原因則與解剖構造發展異常有關:agenesis, atresia or stenosis of the portal vein。 - b. 肝門靜脈流動受阻: 急性或慢性肝炎、先天性肝纖維化 (congenital hepatic fibrosis)、血吸蟲病 (schistosomiasis)、肝硬化。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- b. 其他原因亦會造成 Budd-Chiari syndrome,如 Behcet syndrome、aspergilosis、inflammatory bowel disease。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (5) 一般而言,透納氏症病人智商與普通人無異,僅有 6% 病人智力會受到影響。 另外,若病人呈現染色體核型表現為 45,X/46,XY mosaicism 時,約 15~30% 的 機率會發生性腺胚細胞瘤(gonadoblastoma)。其他透納氏症病人可能出現的 合 併 症 有 autoimmune thyroid disease、inflammatory bowel disease 及 recurrent bilateral otitis media。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- Inflammatory bowel disease Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- ...長期缺乏維生素 D 補充,使得母乳中維生素 D 不足,造成嬰兒獲得來源缺乏。 - b. 吸收不良 (malabsorption): 如 celiac disease、short bowel syndrome、cystic fibrosis、inflammatory bowel disease and gastric bypass surgery。 - c. 肝膽相關疾病:如先天性膽道閉鎖。 - d. 腎臟疾病:如 nephrotic syndrome、renal 1-alpha hydroxylase deficiency (造成 1,25(OH)2 D 缺乏,即 vitamin D dependent rickets type I)。 - e. 藥物: anticonvulsants、glucocorticoids、ch Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...27 陽性。 - (c) > 6 歲的男性初發關節炎。 - (d) 急性 anterior uveitis。 - (e) 直系血親有僵直性脊椎炎,enthesitis-related arthritis,sacroiliitis with inflammatory bowel disease,Reiter syndrome,或 acute anterior uveitis。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (A) 一旦診斷發炎性腸道疾病(inflammatory bowel disease), 就要每1至3年施行一次大腸鏡 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - ...必接受化學治療 (B) 9. 下列有關大腸直腸癌(colorectal cancer, CRC)的敘述,何者錯誤? 104(二)專 (A) CRC 的危險因子包括年紀 50 歲以上,一等親有 CRC 之家族史, 醫三-29 曾患炎性腸病 (inflammatory bowel disease) 十年以上,有進行 性腺瘤(advanced adenoma)、肥胖、糖尿病、飲食習慣多脂肪、 多紅肉、少蔬果及少纖維質等 (B) 90%的 CRC 出現在脾曲(splenic flexure)以下,可用乙狀結腸 鏡(sigmoidoscopy)檢查發現 (C) 右側大腸之 CRC, 常出現貧血 (D) 左側大腸之 CRC, 會出現排便習慣改變或血便 (A) 10. 一位 35 歲男病患經診斷為結腸癌, 他的母親在 20 歲時被診斷有 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (B) 發炎性腸道疾病 (Inflammatory bowel disease) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].

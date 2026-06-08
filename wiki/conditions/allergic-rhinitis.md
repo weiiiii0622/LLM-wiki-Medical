@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Allergic rhinitis (過敏性鼻炎)'
   - 'Allergic rhinitis'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-IgE mediated 鼻黏膜發炎，造成鼻塞、流鼻水、打噴嚏與眼鼻癢。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgE mediated 鼻黏膜發炎，造成鼻塞、流鼻水、打噴嚏與眼鼻癢。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch04]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...-------------------------------------------------------------------------------------|--------------| | (B) 16. 下列何者不可作為過敏性鼻炎長期維持性治療藥物? (A) 鼻內類固醇噴劑(corticosteroids) (B) 鼻內去充血噴劑(decongestants) (C) 鼻內色甘酸鈉噴劑(cromolyn sodium) (D) 鼻內抗組織胺噴劑(antihistamines) 【詳解】鼻內去充血噴劑可減輕鼻塞,但使用的療程限制在 10 天之內以免發生藥物性鼻炎(使用過久而產生反彈現象,使鼻塞反而更嚴重)。鼻內類固醇噴劑為目前最有效的藥物治療選擇,鼻內 cromo Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - D. 過敏性鼻炎 (Allergic rhinitis) 91 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...IV | Th1 | 皮膚結核菌素試驗 (Skin tuberculin test)、接觸性皮膚炎 (Contact dermatitis) | | | Th2 | 慢性氣喘 (Chronic asthma)、慢性鼻炎 (Chronic allergic rhinitis) | | | CTL | 移植排斥 (Graft rejection) | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - #### D. 過敏性鼻炎 (Allergic rhinitis) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].

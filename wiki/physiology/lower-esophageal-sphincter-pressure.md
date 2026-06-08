@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch06]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Lower esophageal sphincter pressure (下食道括約肌壓力)'
   - 'Lower esophageal sphincter pressure'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-LES 壓力與短暫放鬆決定 GERD 風險，受荷爾蒙、神經、藥物與食物影響。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+LES 壓力與短暫放鬆決定 GERD 風險，受荷爾蒙、神經、藥物與食物影響。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch07]]
 - [[sources/med3-book2-ch06]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (A) 特徵為缺乏食道蠕動,下食道括約肌無法完全放鬆,進而增加下食道括約肌的壓力 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...波。 - (1) 若僅是間歇性發生,可懷疑是 diffuse esophageal spasm, 然而這些病人有可能會進展到 achalasia。 - (2) 併有呼吸道的症狀,可懷疑是 achalasia,因為 achalasia 的病人下食道括約肌(lower esophageal sphincter, LES)無法放鬆,食物會積在食道,可能多到會跑到氣管內,而有呼吸道症狀或咳嗽、嘔吐等。 - (3) 長期有 heartburn 的症狀,可懷疑是 scleroderma,因為 scleroderma 的病人其食道 肌肉纖維化,導致下方括約肌 LES 無法收縮,容易有胃酸逆流、heartburn 症狀。且食道蠕動推進功能受損,亦可導致吞嚥困難。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 - (4) **Achalasia**, showing a dilated esophageal body with an air-fluid level and a closed lower esophageal sphincter; 典型的食道末端鳥嘴狀,且造成上段擴張。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 - 1. 食道下端的環形肌肉(circular muscle)與橫膈肌(crural diaphragm)構成下食道括約肌(lower esophageal sphincter, LES)的內、外括約肌(internal and external sphincter)。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].

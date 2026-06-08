@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book4-ch14]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch13]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Tumor lysis syndrome (腫瘤溶解症候群)'
   - 'Tumor lysis syndrome'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-腫瘤快速破壞造成高尿酸、高血鉀、高血磷、低血鈣與 AKI 風險。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤快速破壞造成高尿酸、高血鉀、高血磷、低血鈣與 AKI 風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,16 @@ tags:
 - [[sources/med3-book4-ch14]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch13]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (A) 尿酸 (uric acid): 10 mg/dL Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 【詳解】病人血液相裡白血球過高且合併 high blast cell,因 此懷疑白血病的可能。白血病其併發症中需特別留意 tumor lysis syndrome: elevated uric acid and inorganic phosphorus and hyperkalemia • Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- (D) 勃氏淋巴瘤(Burkitt lymphoma) 患童,會出現腫瘤溶解症後群(tumor lysis syndrome),需特別加以留意 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 9. Tumor lysis syndrome Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...nase)值為 3,365 U/L。尿液分析顯示 Occult blood:強陽性 (4+);Protein:陰性 (-);WBC 3~5/HPF;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - #### B. 腫瘤瓦解症候群 (Tumor lysis syndrome) Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - 3. 臨床表現: - (1) 細胞內的離子釋出→血中 K ↑、Uric acid ↑;血中 PO4 ↑所以血中 Ca ↓ - (2) 腎衰竭 (Urate nephropathy) Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - 4. 治療: - (1) Allopurinol 加積極的 IV hydration 治療、以 NaHCO3 鹼化尿液以利尿酸排出。 - (2) Rasburicase 可在腎衰竭情況下降低 uric acid。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].

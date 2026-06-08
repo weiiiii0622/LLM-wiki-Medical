@@ -1,0 +1,51 @@
+---
+type: condition
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch06]]"
+aliases:
+  - 'Neonatal jaundice (新生兒黃疸)'
+  - 'Neonatal jaundice'
+  - '新生兒黃疸'
+tags:
+  - medicine
+  - condition
+  - auto-topic-node
+---
+
+# Neonatal jaundice (新生兒黃疸)
+
+## Summary
+
+新生兒膽紅素上升可為生理性或病理性，需依日齡、風險因子與直接/間接 bilirubin 判讀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch06]]
+
+## Key Details From Sources
+
+- IV. 新生兒黃疸 (Neonatal Jaundice) 460 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- 膽紅素沉積在新生兒皮膚表面上造成膚色外觀呈現黃色狀態。一般而言生理性黃 疸在出生後 2~3 天出現,出生後 4~5 天可以達到高峰,之後黃疸逐漸消退。但是若出 生 48 小時內出現黃疸,或是膽紅素值達到照光標準,則為病理性黃疸,必須積極處理。 若不積極處理,膽紅素經血液流至中樞神經沉積在基底核造成核黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- Nelson's Pediatrics 20th Edition Figure 102-7: Schematic approach to the diagnosis of neonatal jaundice. Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (A) 3. 足月出生六個月大之男嬰,經身體診查發現四肢短小,頭圍正常, 107(-)專 前囟門大,眼瞼水腫,皮膚乾燥且黃疸,頭髮粗糙,下列何者為 醫四-24 最正確之診斷? - (A) 先天性甲狀腺低能症 (congenital hypothyroidism) - (B) 先天性甲狀腺亢進症(congenital hyperthyroidism) - (C) 純母奶餵食且餵食量不足 - (D)新生兒高黃疸(hyperbilirubinemia)之併發症 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (D) 4. 先天性甲狀腺低能症(congenital hypothyroidism)的新生兒,最 106(二)專 常見下列何項症狀? 醫四 -7 - (A) 出生時身高體重明顯過小 - (B) 出生時頭圍較小 - (C) 睡眠不好常會哭鬧 - (D) 新生兒黃疸持續時間較長 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- [[physiology/bilirubin-metabolism|Bilirubin metabolism (膽紅素代謝)]]
+- [[procedures/exchange-transfusion|Exchange transfusion (換血治療)]]
+- [[procedures/phototherapy|Phototherapy (新生兒黃疸照光治療)]]
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

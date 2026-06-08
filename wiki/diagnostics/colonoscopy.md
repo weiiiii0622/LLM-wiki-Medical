@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Colonoscopy (大腸鏡)'
   - 'Colonoscopy'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-評估下消化道出血、IBD、腫瘤與慢性腹瀉的重要檢查。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估下消化道出血、IBD、腫瘤與慢性腹瀉的重要檢查。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch25]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (D) 潰瘍性大腸炎(ulcerative colitis) 機率最大,立即做大腸鏡檢查 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 【詳解】本題對醫師而言可說是常識題,但也是需要臨床經驗才可判斷。3個月大孩子解血便,是否有感染的可能性在臨床上要優先考量。如果排除感染,接下來考慮是否有對食物的耐受性不佳或是其它自身腸胃道的疾病。臨床上要檢驗過敏原,理想的年紀應在3歲左右(太早驗的話臨床上會有很高機會誤判)。至於潰瘍性大腸炎,以這個年紀而言應該不是優先考量,大腸鏡檢查不會是第一優先選擇。選項中較好選項為(A)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 針對 50~75 歲成人每十年接受大腸鏡檢查 (colonoscopy) Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (B) 20. 李先生因為家人有癌症病史,所以到 A 醫院的健康檢查中心作全身 健康檢查,檢查項目除了抽血之外還有胃鏡和大腸鏡的檢查,依照 醫療法規定,李先生需不需要寫同意書? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (A) 一旦診斷發炎性腸道疾病(inflammatory bowel disease), 就要每1至3年施行一次大腸鏡 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
@@ -61,8 +65,6 @@ tags:
 - ...產生乳糖酵素,病人可以接受【詳解】Lactose intolerance 是 osmotic diarrhea。 | L | | (B) | 6. 一位 75 歲男性肺炎患者,住院治療當中出現發燒、腹瀉不止,且糞便檢查有白血球及紅血球,接受大腸鏡檢查結果如下圖,造成腹瀉的原因最可能為下列何者? | | | | (A) Vibrio cholerae (B) Clostridium difficile (C) hemorrhagic E. coli | | | | (D) Salmonella | /圖請見 283 頁) | | (A) | 7. 國小學童於學校食用營養午餐後一至六小時,陸續發生多位學童出現噁心、嘔吐及腹瀉之食物中毒群聚事件。鑑別診斷中,除考慮 Staphyloc Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 - ...當的初步處 內 2-40 置方式是: (A) 給予水分補充、退燒及抑制胃腸蠕動的藥物 (antispasmodics) (B) 給予抗生素及抑制胃腸蠕動藥物 (C) 給予水分補充、退燒、休息、糞便的白血球檢查及糞便的細菌 培養 (D) 安排大腸鏡(colonoscopy) 檢查 【詳解】(A, B) 感染性腹瀉若給予抑制胃腸蠕動的藥物可能會延緩 毒素排出的時間。 (D) 31. 造成旅行者腹瀉(traveler's diarrhea)的致病原中較不常見的是下列 94(二)專 何者? 內 1-1 (B) Salmonella 和 Shigella (A) 大腸桿菌 (C) Rotavirus ₹ Norwalk-like virus (D) Cyclospora 和 Giardi Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 - (B) 11. 一位 49 歲女性病患因上腹以及左上腹區域疼痛約 2 至 3 天而求診, 急診室的檢查結果顯示 Hb 10.4 g/dL, WBC 分類 N/L 79.9%/14.5%, glucose 115 mg/dL, BUN 13 mg/dL, creatinine 0.9 mg/dL, CRP 10.8 mg/L, lipase 173 U/L, amylase 67 U/L, triglyceride 1634 mg/dL。下列 何項檢查最可能確定診斷? - (A) 上消化道內視鏡(UGI endoscopy) - (B) 腹部電腦斷層檢查 (abdominal CT scan) - (C) 大腸鏡檢查 (colonoscopy) - (D) 腫瘤標記檢查(tumor markers) Source: [[sources/med3-book2-ch03|乙、腹痛]].
-- ...ASCA (Anti-saccharomyces Cerevisiae Ab) | ANCA (Antineutrophil Cytoplasm Antibody) | | Plain film with oral contrast | 大腸鏡 | | 線狀 (fissure),爬行性潰瘍 (serpiginous) | 瀰漫性充血、融合性潰瘍 | | 鵝卵石樣 (cobble stone) | | | 非對稱關節炎、虹膜炎、大腸癌 (7%) | 非對稱關節炎、虹膜炎、大腸癌 (10~30%)、 | | | 原發性硬化性膽管炎 (PSC)* | | | UC 較常見 pyoderma gangrenosum | | 無法治癒的病,可先用 Sulfasalazine 及 | 先 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- (B) 5.52 歲女性,於健康檢查時發現血中 CEA (carcinoembryonic antigen) 107(-)專 升高,但大腸鏡和胸部電腦斷層攝影檢查皆正常。身體檢查發現甲 狀腺有一結節腫,細針抽吸細胞學檢查看到紡綞型的細胞和大而橢 圓的細胞,有藍色細胞質(劉氏染色)。則抽血驗下列何者可幫助 確認診斷? Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 
 ## Clinical Caveats
 

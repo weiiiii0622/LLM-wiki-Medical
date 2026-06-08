@@ -9,6 +9,9 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Renal sodium and water handling (腎臟鈉水處理)'
   - 'Renal sodium and water handling'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,19 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book4-ch21]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- (3) 利用尿液分析可區別 pre-renal 與 intrinsic renal ARF: - a. Pre-renal ARF : gravity > 1.020 · elevated urine osmolality (Uosm > 500 mOsm/kg) · low urine sodium (UNa Uosm ) $\cdot$ high urine sodium ( UNa > 40 mEq/L ) , and FENa > 2% ° Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (2) 遠端腎小管與尿液酸化有關途徑:H+/ATPase、the HCO3-/Cl- anion exchanger 或是 the aldosterone pathway。以上若其中一項出問題,則可能發生第一型腎小管酸中毒。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (1) 近端腎小管對於 bicarbonate(HCO3-)再吸收出現問題,導致血漿 bicarbonate 濃度下降造成代謝性酸中毒。由於遠端腎小管氫離子幫浦沒有問題,腎臟還是可以進行正常尿液酸化,故尿液 pH 可 +ATPase 有直接作用,故 aldosterone 製造有問題或是腎臟 對 aldosterone 反應不佳則造成酸中毒。 - b. Aldosterone 在集尿管有鉀離子分泌作用。若有問題則無法將鉀離子分泌出去 進而造成**高血鉀**。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (3) Salt losing form 臨床上常表現典型 cortisol 與 aldosterone 缺乏症狀,但通常要出生後 1~2 週才會有表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...drenal crisis,因此篩檢重點在於 classic type。而 classic type 又可分為 saltwasting CAH 與 simple virilizing CAH。其中 salt-wasting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...-----------------------------|--------| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syn Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
@@ -46,7 +59,6 @@ tags:
 - ...-------------------------|----------|----------------------------------------------------------------------------|--| | Aldosterone 低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...有腎前性氮血症(prerenal azotemia)? 107( - ) 專 (A) blood urea nitrogen /plasma creatinine (BUN/Pcr) ratio 40 \text{ meq/L}$ (C) urine osmolality 2O (D) urine creatinine/plasma creatinine ( $U_{cr}/P_{cr}$ ) > 40 (D) 8. 一位 40 歲病人原來腎功能正常,現其血肌酸酐(creatinine)上升至 105(二)專 2.1 mg/dL,下列何種狀況最可判斷此病人傾向腎因性急性腎衰竭, 醫三-6 而不是腎前性 (prerenal) 急性腎衰竭? (A) 尿中出現透明圓柱體 (hyaline casts) (B) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...7 | | | (A) urine sodium concentra | ation | | | | (B) urine creatinine to plas | sma creatinine ratio tion | | | | (C) urine osmolality | (D) fractional excretion of sodium | | | | 【詳解】FENa 對鑑別 Al | RF 最為敏感。 | | | (D) 30 | | 膜炎被收住院。住院時血液生化檢查:albumin | 97(一)專 | | | U/L, glucose 125 mg/dL。80 mg q12h 注射,禁食症脈搏、血壓正常,此時物。第十天測得 BUN 系解質(mmol/L):Na 134 mL,尿液分析正常 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...A) 45 (B) 35 (C) 25 (D) 15 | 95(一)專內 1-28 | | (B) 33. 一位高血氮症(Azotemia)患者,腎臟超音波檢查未發現水腎(Hydronephrosis),且 FENa > 1%,尿液渗透壓(Urine osmolality) 為 3 mg/dL,BUN 35 mg/dL,Na 為 130 mEq/L,尿中之 Cr 為 40 mg/dL,Na 為 50 mEq/L,則 FENa 是多少 % ?(A) 2.9 (B) 35(C) 19.5 (D) 0.2【詳解】FENa 可想成尿鈉占血鈉的量,再用 Cr 矯正;依此定義默背出公式:(Una/Ucr)/(Pna/Pcr) = (50/40)/(130/3) = 1.24/43.3= 2.86%。 | 94(三) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book4-ch18]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Viral hepatitis (病毒性肝炎)'
   - 'Viral hepatitis'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-病毒性肝炎包含 HAV、HBV、HCV、HDV、HEV，臨床可急性或慢性。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+病毒性肝炎包含 HAV、HBV、HCV、HDV、HEV，臨床可急性或慢性。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,14 @@ tags:
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book4-ch18]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- 1. Aspartate aminotransferase (AST) 與 alanine aminotransferase (ALT) - (1) 當肝臟細胞急性受損時兩者皆會上升; ALT 特異性比 AST 高。 - (2) 急性病毒性肝炎、中毒、缺氧或是低組織灌流均可造成 ALT 或 AST 在血液升高至破千。 - (3) 在急性病毒性肝炎中, ALT 上升數值比 AST 高。 - (4) 在酒精性肝炎、fulminant echovirus infection 以及代謝障礙引發的肝炎中,AST 升高幅度比 ALT 高。 - (5) 兩者僅可代表肝臟細胞受損,但數值的高低無法代表疾病嚴重度以及預後。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 2. Acute and chronic viral hepatitis Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (2) 新生兒:嚴重的心衰竭、二尖瓣功能不良、脈搏微弱、發燒、呼吸窘迫、發紺、 酸血症、休克。無菌性腦膜炎、病毒性肝炎甚至猝死。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...rotein, AFP)最不可能升高的疾病是: (A) 肝細胞癌(Hepatocellular carcinoma) (B) 肝臟腺瘤(Hepatic adenoma) (C) 睪丸畸胎上皮癌(Teratocarcinoma) (D) 重度病毒性肝炎(Severe viral hepatitis) | 100(二)專醫三-45 | | (C) | 15. 一位 55 歲身體狀況一向良好的女性因左腳腫脹 1 週就醫。理學檢查發現左下肢腫脹,溫度比右邊稍高且靜脈明顯,但無紅疹或壓痛。此外,左鎖骨上窩處淋巴腺腫大,稍硬且固著。驗血時那一項為陽性的可能性最高?(A) Alpha-fetoprotein (B) Beta-hCG(C) CEA (D) CA-125【詳解】胃在左邊→所以左鎖骨 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...| | (B) 中南美洲地區 | | | | (C) 非洲地區 | | | | (D) 東南亞地區 | | | | 【詳解】二十世紀後期伊波拉熱(Ebola fever)曾發生在非洲地區。 | | | (D) | 5. 下列何者不會造成 viral hepatitis-like syndrome ? | 93(一)專 | | | (A) Infectious mononucleosis (B) Herpes simplex | À 1−3 | | | (C) Cytomegalovirus (D) Rabies virus | | | | 【詳解】(D) Rabies virus 主要出現中樞神經症狀,較少產生 | | | | hepatitis • | | | | | | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - a. ALT = GPT ( 1,000,較常見於病毒性肝炎、藥物性肝炎、缺血等引起的肝傷害;有時只會高到幾百,較常見於膽道阻塞、脂肪肝等 infiltrative disease。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].

@@ -19,6 +19,7 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Peptic ulcer disease (消化性潰瘍)'
   - 'Peptic ulcer disease'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med3-book4-ch28]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch10]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- 1. 外科急症:接觸病人時,首先要排除外科急症的可能性。如腸套疊、闌尾炎、消化 道扭轉(volvulus)、消化道潰瘍破裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如 睪丸扭轉)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 【詳解】任何腹痛應優先排除外科急症,腸套疊、闌尾炎、 消化 道扭轉(volvulus)、消化 道潰 瘍破 裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如睪丸扭轉)。(C) 一開始表現為右 下腹痛,臨床表現與急性闌尾炎相似,但急性腸繫膜淋巴腺炎 為自限性(self-limiting)疾病。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 10. 一位 10 歲男童主訴皮膚癢,黃疸,且 2 小時前發生吐血。他在嬰 104(二)專 兒時因膽道閉鎖而做了 Kasai operation,身體診察顯示其肝脾腫 大,且腹部上有顯著之側枝循環。糞便呈黑色,潛血反應呈強陽 性。下列何者最可能造成吐血的原因? - (A) 胃潰瘍 - (B) 流鼻血 - (C) 十二指腸潰瘍 - (D) 食道靜脈瘤破裂 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 8. 周醫師在幫病患王老先生進行胃鏡檢查時,發現王老先生胃部有一處胃潰瘍,周醫師初步判斷應該屬於良性潰瘍而沒有幫王老先生進行切片檢查。胃鏡檢查結束,王老先生很擔心該胃潰瘍會不會是胃癌,而多次詢問周醫師是否應該馬上再次做胃鏡配合切片檢查,周醫師告知只要吃藥 4 個月胃潰瘍就可以痊癒。4 個月後,王先生再度接受胃鏡檢查,切片檢查顯示為胃癌。周醫師為了避免醫療糾紛,在第一次胃鏡報告上增加「病患想先吃藥」的敘述。下列敘述何者正確? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (#) 19. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - 5. 末期病人的症狀處置-消瘦(Cachexia)與厭食(Anorexia) - A: Aches (疼痛) - N: Nausea ( 噁心 ) - O: Oral candidiasis (口腔念珠菌) - R: Reactive depression (憂鬱症) - E: Evacuation problems (排便問題) - X: Xerostomia (口乾) - I: Iatrogenic (化療、放療、藥物相關) - A: Acid-related problem (胃炎、腸胃潰瘍) - 重 1. 厭食是疾病的一部分,病人不會因為飢餓而死亡 - 要 2. 末期病人的水和食物需求通常不多,並不會因為飲食的下降而造成不舒服 - 觀 3. 勉強病人進食,無法改善其生活品質或延長生命 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
@@ -70,8 +75,6 @@ tags:
 - 2. 幽門螺旋桿菌 (H. pylori) 感染→胃、十二指腸潰瘍比較: Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...胃體炎 (corpus gastritis) | → 破壞十二指腸黏膜 | | TENNESS (DAG) | 酸分泌減少 (BAS 20) → | | 基礎酸分泌 (BAS) | 與 GERD 較無關 | 與 GERD 較有關 | | 消化性潰瘍(症狀) | 胃潰瘍(吃食物惡化) | 十二指腸潰瘍(吃食物緩解、凌晨被痛醒) | Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...continuous lesion。 | 96(二)專醫三-14 | | (#) | 9. 下列何者之疾病發生危險性(disease risk)增加與吸菸無關? (A) 膀胱癌 (B) Burger 氏疾病 (C) 潰瘍性大腸炎 (D) 消化性潰瘍 【詳解】原來的答案是(C),因為抽菸可預防潰瘍性大腸炎,使危險性降低。另外,(ABD) 和吸菸多少有關係,但後來修正的答案是送分。 | 96(二)專醫三-66 | Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- (D) 十二指腸潰瘍穿孔 (perforated duodenal ulcer) Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- | 項目 | | 臨床意義 | | | | |-------|--------|-------------------------------|--|--|--| | 腹痛部位 | 上腹部 | 逆流性食道炎、胃、十二指腸潰瘍、胰臟炎、肝膽系統感染、須 | | | | | | | 排除可能是下壁心肌梗塞 | | | | | | 肚臍旁 | 小腸病變(腫瘤、阻塞、出血等)、闌尾炎(早期)、上段輸尿管 | | | | | | 右下腹部 | 闌尾炎 (腹痛通常先發生於上腹部或肚臍周圍,之後慢慢移到右 | | | | | | | 下腹部 McBurney point*)、憩室炎 | | | | | | 左下腹部 | 結腸病變(憩室炎、便秘) | | | | | | Source: [[sources/med3-book2-ch03|乙、腹痛]].
 
 ## Clinical Caveats
 

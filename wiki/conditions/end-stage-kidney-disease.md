@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch06]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'End-stage kidney disease, ESKD (末期腎臟病)'
   - 'End-stage kidney disease, ESKD'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-腎功能進入需 renal replacement therapy 或保守照護評估的階段。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎功能進入需 renal replacement therapy 或保守照護評估的階段。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch06]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- 4. 治療:嚴格控制血壓是治療疾病中最重要的一項,若出現慢性腎衰竭則治療包括飲食調整、控制水分攝取等;當進展為末期腎臟病時,則需要進行腎臟透析或腎臟移植手術。若出現白內障,可接受眼科手術矯治。聽力喪失的情況可能為永久性的,像唇語辨讀或手語的學習,或是配戴助聽器都可對患者有益。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (C) 因為會復發,進入末期腎病後不建議腎移植 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【 詳解】IgA nephropathy 病人約有20~30%出現 progressive disease (ex: renal failure),通常在發病後經過15~20年出現症狀。當出現末期腎病時,考慮腎臟移植。IgA nephropathy的病人,血漿C3補體濃度正常,血漿IgA僅有15%會上升。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9,無糖尿病、高血壓,我們可懷疑為 ESRD due to CGN。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (B) 約有 20~50% 的病人,經過 20 年可能發展至末期腎衰竭。有明顯蛋白尿者(每天大於 3.5 克),預後較差 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (D) 這些病人發展至末期腎衰竭後,若接受腎臟移植,有可能再發生 IgA 腎病變 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

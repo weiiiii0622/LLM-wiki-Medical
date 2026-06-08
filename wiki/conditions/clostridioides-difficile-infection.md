@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch10]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Clostridioides difficile infection (困難梭菌感染)'
   - 'Clostridioides difficile infection'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-抗生素後腸道菌相改變造成 toxin-mediated colitis。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗生素後腸道菌相改變造成 toxin-mediated colitis。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch10]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (C) 困難梭狀桿菌(Clostridium difficile) 毒素檢測為陽性 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) Clindamycin: - a. 抗菌範圍類似 Erythromycin,可抗 GPC - b. 還能抗厭氧菌,對膿瘍有不錯的穿透力,可治療咽喉附近的膿瘍(橫膈上);對 *Bacteroid fragilis* 效果不可信,因此腹腔內的膿瘍仍建議使用 Metronidazole(橫膈下)。 - c. 合併其他藥物治療嚴重的Streptococcal, clostridial 感染,可抑制其釋放出來的毒素。 - d. 會破壞大腸內正常菌群,使 Clostridium difficile 增生,引起偽膜性大腸炎 (Pseudomembranous colitis),須以口服 Metronidazole 或 Vancomycin 治療。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 2. 對抗的厭氧菌,包括 Bacteroid fragilis、Clostridium perfringens, C. difficile 都有效,可用來合併其他抗生素治療腦部膿瘍或腹腔內感染,口服治療 C. difficile 引起的大腸炎(即Pseudomembranous colitis)。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...osteomyelitis, S. aureus endocarditis, foreign-body infections | | | (prosthetic-valve and joint infections), relapsing pseudomembranous colitis | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

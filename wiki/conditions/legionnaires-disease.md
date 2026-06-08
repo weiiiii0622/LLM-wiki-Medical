@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Legionnaires disease (退伍軍人病)'
   - 'Legionnaires disease'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-Legionella pneumophila 造成 atypical pneumonia，常與水源暴露相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Legionella pneumophila 造成 atypical pneumonia，常與水源暴露相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- (4) 若有裝置人工瓣膜,感染病原體要考慮以下菌種:Staphylococcus epidermidis、 Staphylococcus aureus、Viridans group streptococcus、Pseudomonas aeruginosa、 Serratia marcescens、 Diphtheroids、Legionella spp.、HACEK group 以及 Fungi。 PS: HACEK group:Haemophilus species, Aggregatibacter species, Cardiobacterium hominis, Eikenella corrodens, and Kingella species. Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...| 厭氧 | | | 呼吸道桿菌 | 嗜血桿菌 | Haemophilus | H. influenzae, H. ducreyi | | | | | 博得氏菌 | Bordetella | B. pertusis | 1 | | | | 退伍軍人菌 | Legionella | L. pneumophila | | | | 人畜 | 耶氏菌 | Yersinia | Y. pestis | 嗜氧 | | | 共通 | 弗倫西絲菌 | Francisella | F. tularensis | | | | 村 | 布氏桿菌 | Brucella | | | | | | 巴斯德桿菌 | Pasteurella | P. multocida | | | 螺旋 | 旋菌 密螺旋體 Tre Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...| 嗜血桿菌呼吸道桿菌 博得氏菌 | | Haemophilus | H. influenza, H. ducreyi | | | | | 呼吸道桿菌 | | | Bordetella | B. pertussis | | | | | | 退伍軍人菌 | | Legionella | L. pneumophila | | | | | | 耶氏菌・・・・・・・・・・・・・・・・・・・ | | Yersinia | Y. pestis | 兼性厭氧 | | | | 人畜共通 | | | Francisella | F. tularensis | | | | | 桿菌 | 布」 | 氏桿菌 | Brucella | | | | | | | 巴热 | 斯德桿菌 | Pasteurella Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...Gengou agar | 百日咳 (Pertusis) | | | Bordetella pertussis | (BG 培養基 ) | | | | 嗜肺退伍軍人桿菌 | Buffered charcoal yeast | 退伍軍人熱 (Legionnaires' disease) | | | Legionella pneumophila | Extract agar (BCYE 培養基) | 龐帝亞克熱 (Pontiac fever) | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

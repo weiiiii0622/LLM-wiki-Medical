@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch08]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Atrial flutter (心房撲動)'
   - 'Atrial flutter'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-心房大迴路造成鋸齒狀 flutter wave。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+心房大迴路造成鋸齒狀 flutter wave。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch01]]
 - [[sources/med3-book1-ch08]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...ena cava syndrome、vena cava or pulmonary artery thromboembolism、protein-losing enteropathy、supraventricular arrhythmias(atrial flutter, paroxysmal atrial tachycardia),甚至猝死。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (B) 心房撲動 (atrial flutter) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...nosine 可驟然終止。 - ii. AV reentry tachycardia (AVRT) (30%): 房室間有 accessory pathway, P 為負、在 QRS 後面,以 Adenosine 可驟然終止。 - (b) Atrial flutter (AFL): SA node 外的心房肌肉自發性放電,但速度較快,P 波藏在 QRS 內而看不到,Adenosine 可使心跳變慢。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - 心房撲動 (atrial flutter, AF) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (A) 心房撲動 (atrial flutter) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].

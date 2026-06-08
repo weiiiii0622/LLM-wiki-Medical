@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch08]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Hypertrophic cardiomyopathy (肥厚型心肌病變)'
   - 'Hypertrophic cardiomyopathy'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-心肌肥厚與動態出口阻塞相關，使用 vasodilator 需小心。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+心肌肥厚與動態出口阻塞相關，使用 vasodilator 需小心。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch08]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...in lesions);腦部超音波檢查發現腦室周圍有許多鈣化之小結節。 則其最常合併之心臟異常為: - (A) 心肌瘤 (rhabdomyoma) - (B) 心室中隔缺損(ventricular septal defect) - (C) 肥厚型心肌病變(hypertrophic cardiomyopathy) - (D) 心臟纖維瘤 (fibroma) - 【詳解】懷疑病人為 Tuberous sclerosis 患者,常見的心臟異常為 rhabdomyoma(佔 50%),其數量可不只一個且位在左心室心 尖處。併發症如 congestive heart failure、arrhythmias 有可能發生。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (4) 先天性心臟病(右側心臟):肺動脈狹窄(pulmonary valvular stenosis)、心肌肥大病變(hypertrophic cardiomyopathy)。有些病人合併心房中膈缺損(ASD)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - B. 肥厚性心肌病 (Hypertrophic cardiomyopathy, HCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - (2) 心臟衰竭藥物: - a. β blocker 可減少心臟收縮力而減緩症狀。 - b. Non-DHP CCB 可增加心室舒張時的填充,而減緩症狀。DHP-CCB 則需避免。 - c. Diuretics 在有體液過多時可適當使用,需小心過度脫水會惡化左心室出口阻塞。 - d. Nitrate 及 Vasodilator 需避免,以免增加左心室出口壓力差,惡化症狀。 - e. Digoxin 是相對禁忌的藥物,因為其強心功能,導致左心室出口阻塞更嚴重。 (HCM 病患心臟收縮功能正常~過強) Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - (4) 手術治療:外科開刀 (Septal myotomy) 或於 Septal brace 注射酒精 (Alcohol septal ablation),減少渦厚的心肌;可改善症狀,但無法改變 HCM 的自然病程。 Source: [[sources/med3-book1-ch07|庚、心肌症]].

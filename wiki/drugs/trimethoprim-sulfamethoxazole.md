@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch19]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Trimethoprim-sulfamethoxazole, TMP-SMX (複方新諾明)'
   - 'Trimethoprim-sulfamethoxazole, TMP-SMX'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-葉酸代謝抑制組合，用於 PJP、UTI、Nocardia、部分 MRSA 等。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+葉酸代謝抑制組合，用於 PJP、UTI、Nocardia、部分 MRSA 等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,14 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch19]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (A) Trimethoprim-sulfamethoxazole Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 2. macrolide 抗生素為第一線用藥,若有使用禁忌症的病人改用 TMP-SMX (出生未滿兩個月禁止使用)為替代藥物。若是新生兒(出生一個月以下),使用 macrolide 需注意以下情形: Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (4) 細菌性腸胃炎:視病菌及臨床狀況可考慮給予抗生素。 - a. Enterotoxigenic E. coli: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. S Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 103(二)專 (A) 1. 下列關於 Nocardia species 的敘述,何者錯誤? 醫三-65 (A) 格蘭氏染色呈格蘭氏陽性球菌 (B) 在細胞免疫缺損的病人可能引起全身感染,包括腦膿瘍 (C) 在健康宿主可能因接觸土壤或植物而感染皮膚淋巴型的疾病 (D) 首選藥物是磺胺類,譬如 trimethoprim-sulfamethoxazole 98(一)專 (C) 2. 下列關於 Actinomycosis 的敘述,何者正確? 醫三-61 (A) Actinomyces israelii 是屬於嗜氧的革蘭氏陽性菌 - (B) 腹腔是最常見的感染部位 (C) Sulfur granules 是典型的組織病理變化 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 93(一)專 (D) 4. 承上題, 首選藥物是下列何者? (B) rifampin + ethambutol + isoniazid 內 2-17 (A) penicillin (C) dapsone + rifampin (D) co-trimoxazole 【詳解】(D) co-trimoxazole 就是 TMP-SMX (Baktar®) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (3) 急性期以 Ceftazidime 治療 2~4 週,需接著以四合一抗生素維持治療 20 週。 (Chloramphenicol, doxycycline, cotrimoxazole, sulfamethoxazole) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

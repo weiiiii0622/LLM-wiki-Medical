@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch25]]"
   - "[[sources/med3-book2-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Endoscopic retrograde cholangiopancreatography, ERCP (內視鏡逆行性膽胰管攝影)'
   - 'Endoscopic retrograde cholangiopancreatography, ERCP'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-診斷與治療膽胰管阻塞、結石或膽管炎的重要內視鏡程序。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+診斷與治療膽胰管阻塞、結石或膽管炎的重要內視鏡程序。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch25]]
 - [[sources/med3-book2-ch03]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (4) ERCP: 臨床上算是好的檢查方式。若閉鎖確定即可準備手術治療。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (C) 所有黃疸病患都是施行逆行性膽胰鏡(endoscopic retrograde cholangiopancreatography, ERCP)的適應症 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (B) 10. 下列有關急性胰臟炎 (acute pancreatitis) 的病因學 (etiology) 之敘 100(二)專 述,何者錯誤? - (A) 大量飲酒 - (B) 膽囊結石必須大於 1 公分 - (C) 高三酸甘油酯血症, triglyceride > 1000 mg/dL - (D) 內視鏡逆行性膽胰管攝影檢查(ERCP)時,用力注射大量顯影 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].

@@ -12,6 +12,12 @@ sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch04]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Urinalysis (尿液檢查)'
   - 'Urinalysis'
@@ -26,7 +32,7 @@ tags:
 
 ## Summary
 
-蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +44,24 @@ tags:
 - [[sources/med3-book4-ch27]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch04]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- (B) 8. 一位2歲的林小妹妹,1年來常常發燒,尿液檢查顯示感染性尿 99(二)專 液。醫師為她做膀胱及排尿攝影檢查,影像如圖示。林小妹妹最 醫四 -79 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】影像學可以看到輸尿管與腎盂的擴張,加上近一年來 常有發燒與尿液檢查顯示感染性尿,可以懷疑是因膀胱輸尿管 逆流(vesicoureteral reflex, VUR)而引起的 UTI。因膀胱輸尿管 逆流而引起的 UTI 又可以稱作 reflux nephropathy。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (2) 實驗室檢查包括尿液分析、CBC, 腎功能評估等。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (#) 7. 自然產之 7 天大嬰兒,出現嘔吐及進食困難症狀,身體診察發現有角弓反張(opisthotonos),實驗室檢查有低血糖現象,尿液檢查正常,汗水有一奇特的味道,病人有代謝性酸中毒。最可能的診斷為: Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 【詳解】題目敘述身體評估出現角弓反張、低血糖、汗水有異味,因此考慮楓糖尿症。但是題目敘述尿液檢查正常,跟預期 楓糖尿症出現尿液有酮體不符合,因此送分。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (AC) 1. 一位 15 歲女童主訴過去幾個月有間歇性的發燒、手腕及踝關節 101(二)專痛。尿液檢查發現有血尿(hematuria)、蛋白尿(proteinuria)及 醫四-10 膿尿(pyuria)。下列何種檢驗對診斷最有幫助? - (A) 雙股 DNA (dsDNA) 抗體 - (B) 喉頭 A 群 beta 溶血性鏈球菌 (group A beta-hemolytic streptococcus) 培養 - (C) 小便培養 - (D) 紅血球沈澱速率 (erythrocyte sedimentation rate) Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 3. 實驗室檢查:CBC、BUN、creatinine、電解質(Na, K, Ca, P)、血液 pH 值、alkaline phosphatase、25-OH vitamin D、尿液分析、IGF-1、thyroid hormone、TSH、arginine、 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (D) 5.8 歲的小明,主述2天以來有肚子痛及左踝關節疼痛腫脹,身體 檢查時發現下肢有許多紫斑(purpura),下列敘述何者錯誤? - (A) 25~50% 的此類病人會影響腎臟 - (B) 血液中之血小板數目正常 - (C) 若有嚴重腸胃症狀如出血或阻塞,可使用類固醇治療 - (D) 急性期有尿液檢查異常者,建議尿液檢查追蹤 2 個月即可 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 2. 尿液檢查: 收集 24 小時尿液偵測 homovanillic acid (HVA) 或 vanillylmandelic acid (VMA) 常有升高情形 (95% 的病人)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 5. 成人預防保健: [Ref. 國民健康局] - (1) 受檢資格: - a. 40 歲以上民眾每三年可以檢查一次。 - b. 65 歲以上民眾每一年可以檢查一次。 - (2) 檢查項目: - a. 理學檢查:包括肛門指診與乳房觸診。 - b. 血液檢查:全血球計數、肝功能、腎功能、膽固醇。 - c. 尿液檢查。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (#) 28. 黃太太今年 41 歲,育有一位 15 歲男孩,並無重要病史及家族史,亦未定期作健康檢查。她來到你的門診接受預防醫學服務,除了量血壓、一般生化檢查、尿液檢查及子宮頸抹片外,根據美國預防服務工作小組(U.S. Preventive Service Task Force)的建議,應該再安排那些預防保健服務? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (C) 11. 下列何者為 1997 年美國風濕病學院所訂定全身性紅斑性狼瘡 (SLE) 103( 二 ) 專 的診斷基準之一? 醫三 -40 - (A) 多發性關節痛 (polyarthralgia) - (B) 不明原因的 mononeuritis multiplex - (C) 尿液分析發現有 cellular casts 的存在 - (D) 慢性皮膚潰瘍 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
@@ -50,11 +71,6 @@ tags:
 - (C) 25 歲女性,兩年前開始,上呼吸道感染兩天後就會出現肉眼可 見血尿。尿液檢查有 100 mg/dL 蛋白,高倍鏡檢有 15~20 RBC Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (B) 17. 一位 70 歲婦人因膽囊炎併發腹膜炎住院。住院時腎功能為 BUN 28 mg/dL,Creatinine 1.2 mg/dL。給予抗生素 cefazolin 1 g q8h 和 gentamicin 80 mg q12h 注射,並予全靜脈營養法。三天後體溫下降至 37℃,脈搏、血壓正常,此時體重為 45 公斤。一週後開始給予軟性食物。第十天測得 BUN 和 Creatinine 各為 40 和 3.5 mg/dL,血清電解質(mmol/L):Na 134, K 3.3, Cl 95;病人一日尿量測得為 2,000 mL,尿液分析正常。有關此病人腎臟問題的敘述,下列何者最為正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - (A) 尿液檢查通常會出現嚴重的蛋白尿,並且出現微觀血尿 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...住院。住院時血液生化檢查:albumin | 97(一)專 | | | U/L, glucose 125 mg/dL。80 mg q12h 注射,禁食症脈搏、血壓正常,此時物。第十天測得 BUN 系解質(mmol/L):Na 134 mL,尿液分析正常。下5(A) 給予白蛋白靜脈注射(B) 給予 0.9% NaCl 1,000(C) 給予 Dopamine,5 m(D) 重新評估抗生素使用【詳解】Aminoglycoside | | 醫 = -9 | Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (#) 4. 一位 55 歲男性這兩天意識變化被送至急診處。病人一個月前診斷為 肺癌,但他拒絕任何進一步治療。家人敘述病人這個月情緒低落, 但進食情況尚可,無嘔吐或發燒。身體檢查:體溫 36.8℃,血壓 130/78 mmHg, 脈搏每分 80 次, 呼吸每分 19 次。病人對時空有錯 亂情形,以及嗜睡;其他神經學檢查無異常;右上鎖骨窩有一拇 指大的淋巴結,下肢無水腫。初步檢查血比容 42%,白血球 8,300/ mm3, 血小板 240,000/mm3; 尿液檢查正常; 尿素氮 15 mg/dL, ALT 30 U/L,血糖 156 mg/dL。血清電解質,Na+ 122,K+ 5.5,Cl- 86 (電解質單位 mmol/L)。有關此病人的可能診斷,下列那一個最 適當? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (B) 10.63 歲男性,患有肺癌接受化學治療三天後,因意識不清被送至急診處。家人告知:病人食慾不好,有噁心但無嘔吐;身體診查:體溫36.8℃,血壓124/75 mmHg,脈搏78/min,呼吸18/min。病人除對時空有錯亂及嗜睡外,其他神經學檢查無異常;下肢無水腫;尿液檢查正常;尿素氦18 mg/dL,尿酸2.5 mg/dL,ALT20 U/L,血糖108 mg/dL。血清電解質:Na+118,K+3.5,Cl-79,free calcium 2.4(電解質單位 mmol/L);病人尿液的渗透壓是290 mOsmol/kg H₂O。對此病人下列敘述何者錯誤? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (C) 8. 一位 21 歲男性因多尿及夜尿多年至門診就診,血液檢查發現:鈉 158 mmol/L,鉀 3.7 mmol/L,氯 124 mmol/L,尿液檢查發現鈉 12 mmol/L,鉀 6 mmol/L,肌酸酐 32 mg/dL,滲透度 60 mOsm/kg H2O,desmopressin(DDAVP)測試發現尿液滲透度上升至 500 mOsm/kg H2O,下列敘述何者正確? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...液檢查發現高離子間隙(high anion gap)代謝性酸中毒, | 內 -28 | | | | 下列敘述何者有誤? | | | | | (A) 血液檢查可發現高滲透度間隙(high osmolar gap) | | | | | (B) 尿液檢查可發現尿酸結晶(urate crystal) | | | | | (C) 可以 ethanol 治療 | | | | | (D) 可以 fomepizole (4-methylpyrazole) 治療 | | | | | 【詳解】乙二醇中毒可在尿液檢查發現 Ca oxalate crystal。 | | | (B) | 28 | 下列關於第一型腎小管酸中毒(type 1 renal tubular acidosis)之敘述, | 94( Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 
@@ -63,7 +79,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/vesicoureteral-reflux|Vesicoureteral reflux, VUR (膀胱輸尿管逆流)]]
 
 ## Follow-up
 

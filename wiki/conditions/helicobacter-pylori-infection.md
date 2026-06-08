@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch15]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Helicobacter pylori infection (幽門螺旋桿菌感染)'
   - 'Helicobacter pylori infection'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch15]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (B) 13. 下列何種檢查,最無法確定目前胃中有幽門桿菌(Helicobacter pylori)感染? Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 【詳解】診斷胃幽門螺旋桿菌感染最直接的做法是切片檢查。 此外,非侵入性診斷方式有採取糞便檢驗胃幽門螺旋桿菌抗原 以及碳-13尿素吹氣試驗。至於血液抗幽門螺旋桿菌抗體(IgG), 最多僅能做追蹤用,無法評估現階段是否有感染以及治療後的 成效。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...上皮癌的危險因子? (A) 吸菸 (B) 喝酒 (C) Epstein-Barr 病毒感染 (D) 人類乳突病毒感染 (HPV) | 107(二)專醫三-36 | | (B) | 4. 有關微生物及癌症的關係,下列何者關聯性最低? (A) Helicobacter pylori vs. 胃癌(gastric cancer) (B) Human papilloma virus vs. 子宮癌(uterine cancer) (C) Human herpesvirus type 8 vs. 卡波氏肉瘤(Kaposi's sarcoma) (D) Epstein-Barr virus vs. 霍金氏淋巴癌(Hodgkin's lymphoma) | 106(二)專醫三-60 | | (C) | 5. 一位 33 歲 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - (D) Helicobacter pylori: gastric mucosa-associated lymphoid tissue (MALT) lymphoma Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].

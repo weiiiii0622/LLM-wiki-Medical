@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch13]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Topoisomerase inhibitors (拓樸異構酶抑制劑)'
   - 'Topoisomerase inhibitors'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-抑制 DNA 拓樸異構酶造成 DNA 損傷，常見於 GI、肺癌與血液腫瘤治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 DNA 拓樸異構酶造成 DNA 損傷，常見於 GI、肺癌與血液腫瘤治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch13]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- (4) 治療:控制好引發 HLH 的原因是最基本的治療,然後再用以下方式。 - a. 化療藥物: etoposide + dexamethasone +/- cyclosporine。 - b. IVIG + steroid 使用在低危險族群。 - c. 無法控制的脾功能亢進者考慮脾切除。 - d. 幹細胞移植:有機會治癒,特別是 primary HLH 的病人。目前治癒率可達到 6 成以上。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 1. 標準化療藥物組合:BEP (Bleomycin, etoposide, cisplatin)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - C. G2 phase (Topoisomerase inhibitors、 拓樸異構酶抑制劑) 203 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...MP) → ALL(Maintance) | 與 xanthine oxidase* 併用須減量 | | | | | 1 dime | Fludarabine → CLL, Follicular lymphoma | | | | G2 | Topoisomerase | Topo I* | Irinotecan (CPT11)→大腸癌 | 腹瀉(加 Atropine 預防) | | | U2 | inhibitors | Topo II* | Etoposide (VP-16) →小細胞肺癌 | | | | | | | Vincristine (Oncovin)→淋巴瘤 (CHQP) | Show that We have a thirty a | | | . . | A | ⊖ 聚合 | Vin Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - Topo I、Topo II 為 Topoisomerase inhibitors,Topoisomerase 的功能是在於 DNA 複製前將其 unwind,而 Topoisomerase inhibitors 則會阻礙 DNA unwinding,進而阻止其複製。 Source: [[sources/med3-book4-ch19|乙、化學治療]].

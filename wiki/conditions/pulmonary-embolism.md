@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch08]]"
 aliases:
   - 'Pulmonary embolism (肺栓塞)'
   - 'Pulmonary embolism'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,14 @@ tags:
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book4-ch12]]
 - [[sources/med3-book4-ch27]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch08]]
 
 ## Key Details From Sources
 
+- III. 新生兒評估(Newborn PE) 454 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- # III. 新生兒評估 (Newborn PE) Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- 3. 併發症: - (1) 感染: - a. 小於五歲的兒童,常見 Streptococcus pneumoniae。 - b. Salmonella 或是 S. aureus 造成的骨髓炎。 - c. 感染 parvovirus B19 與 aplastic crisis 有關。 - (2) 栓塞: - a. 急性胸腔症候群 (acute chest syndrome): 合併 PE 及感染。 - b. 肺高壓 - c. 周邊血管阻塞造成疼痛 - (3) 神經方面疾病: - a. 中風的機率會增加。 - b. 無症狀性腦梗塞 - c. 視網膜病變 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...---------------------|--------| | (D) | 2. 一位 30 歲臺灣人左手發生深層靜脈血栓(deep vein thrombosis, DVT), | | | | 回顧其家族史,他的哥哥在 35 歲時死於肺栓塞。下列何者最不可能是這位病人 DVT 發生的原因? | 醫三 -43 | | | (A) protein C deficiency | | | | (B) protein S deficiency | | | | (C) antithrombin III deficiency | | | | (D) factor V Leiden mutation | | | (B) | 3. 在台灣,家族性血栓好發症(thrombophilia)最常 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - 【詳解】肺栓塞會使肺動脈血管阻力上升導致肺高壓,常見症狀包括 dyspnea、pleural pain、tachycardia、syncope(cardiac output 突然 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - 2. 疾病: Deep vein thrombosis, Pulmonary embolism。 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
@@ -62,7 +69,6 @@ tags:
 - | (D) | 7. 下列何者最可能引起 transudative pleural effusion ? (A) 肺結核 (tuberculosis) (B) 類肉瘤 (sarcoidosis) (C) 尿毒症 (uremia) (D) 肺栓塞 (pulmonary embolism) | 104(一)專醫三-12 | |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - ...A) 大多數病患狹窄愈嚴重,第一心音(S1)愈弱 (B) opening snap 如果聽得見,是在心收縮期 (C) 感染性心內膜炎在單獨二尖瓣狹窄病患的機率與合併二尖瓣閉鎖不全病患相同 (D) 臨床症狀除運動時呼吸困難外,有時會出現咳血、肺栓塞或肺炎等 | 106(一)專醫三-23 | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - (C) 肺栓塞症 (pulmonary embolism) Source: [[sources/med3-book1-ch21|戊、感 染]].
-- (2) 病史:是否有心臟疾病及心臟疾病相關危險因子,是否有造成肺栓塞的危險因子。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 

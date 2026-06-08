@@ -12,6 +12,9 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch13]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Alkylating agents (烷化劑)'
   - 'Alkylating agents'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,16 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch13]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- (B) 13. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時,下列那一項不是其常見的併發症? Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 3. 某些物質或疾病與 AML 有關連性,如放射線暴露(ionizing radiation)、化學物質(alkylating agents、epipodophyllontoxin)、有機溶劑、陣發性夜間血紅素尿症(paroxysmal nocturnal hemoglobinuria, PNH)、Down syndrome、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman-Diamond syndrome、Neurofibromatosis type I、Li-Fraumeni syndrome、Kostmann syndrome. Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...頸胃腸癌 | | | | | | | Carboplatin →肺癌 (腎不好者)、卵巢癌 | 骨髓抑制 | | | | Alkylating | | Oxaliplatin→大腸癌 | 神經毒性 | | | | | Nitrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | | Ifosfamide → 肉癌 (Sarcoma) | 出血性膀胱炎 | | | CCNS | | mustards | Melphalan→多發性骨髓瘤 (MM) | | | | CCNS | | Other | Carmustine (BCNU) · Lomustine (CCNU) | 延遲的骨髓抑制 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - #### 1. 烷化劑 (Alkylating agent) 類: Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (1) 烷化劑會黏附 (cross-linkage) 至 DNA 上,影響 DNA 功能;這類藥物有相似的副作用:骨髓抑制、禿頭 (Alopecia)、性腺受損 (Gonad dysfunction)、肺纖維化。 Source: [[sources/med3-book4-ch19|乙、化學治療]].

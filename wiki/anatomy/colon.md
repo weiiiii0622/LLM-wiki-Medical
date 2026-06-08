@@ -37,6 +37,10 @@ sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch10]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Colon (大腸)'
   - 'Colon'
@@ -51,7 +55,7 @@ tags:
 
 ## Summary
 
-大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +92,22 @@ tags:
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch10]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- (B) 因為沒發燒所以不可能是罹患細菌性大腸炎(bacterial colitis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 潰瘍性大腸炎(ulcerative colitis) 機率最大,立即做大腸鏡檢查 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 【詳解】本題對醫師而言可說是常識題,但也是需要臨床經驗才可判斷。3個月大孩子解血便,是否有感染的可能性在臨床上要優先考量。如果排除感染,接下來考慮是否有對食物的耐受性不佳或是其它自身腸胃道的疾病。臨床上要檢驗過敏原,理想的年紀應在3歲左右(太早驗的話臨床上會有很高機會誤判)。至於潰瘍性大腸炎,以這個年紀而言應該不是優先考量,大腸鏡檢查不會是第一優先選擇。選項中較好選項為(A)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (A) 3. 兒童的感染性關節炎(infective arthritis),最常見的菌種為: 106(-)專 (A) 金黃色葡萄球菌(Staphylococcus aureus) - (B) 大腸桿菌 (Escherichia coli) - (C) 沙門氏菌 (Salmonella species) - (D) 黴漿菌 ( Mycoplasma pneumoniae ) Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...,下列那一種病 103(一)專 原菌最常見? 醫四 -32 (A) 金黃色葡萄球菌(Staphylococcus aureus) (B) A 群鏈球菌 (group A streptococcus) (C) 黴菌類 (fungi) (D) 大腸桿菌(Escherichia coli) (B) 8.3 歲的小芳這 2 天突然不太願意走路,而且伴有發燒現象。身體 102(一)專 診查顯示右膝關節腫脹,疑似化膿性關節炎,下列那一種細菌最 醫四-16 常見於此種關節炎中? (A) Haemophilus influenzae type b (B) Staphylococcus aureus (C) Salmonella (D) Streptococcus pneumoniae (B) Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (A) 大腸桿菌 O157: H7 (E. coli O157: H7) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (B) 大腸桿菌(Escherichia coli) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 105(一)專 (D) 6. 下列何者不是造成新生兒先天性感染之重要病原體? 醫四 -5 (A) 巨細胞病毒 (B) 梅毒螺旋體 (C) 弓蟲症 (D) 麻疹病毒 (B) 7. 造成早發性(early-onset)新生兒感染的細菌中,最常見的格蘭 105(一)專 醫四 -7 氏陽性菌為: (A) 金黃色葡萄球菌 (B) B 群鏈球菌 (C) 肺炎雙球菌 (D) 大腸桿菌 (D) 8. 下列那一種病原最不常發生母子之間的垂直感染? 101(一)專 醫四-1 (A) Cytomegalovirus (B) Syphilis (C) Rubella (D) Epstein-Barr virus 【詳解】(A)(B)(C) 均為先天性感染中常見的病原體,(D) 反而 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (D) 6. 足月兒出生時,母親有發燒症狀且羊膜已在出生前兩天破裂,嬰兒於出生後 8 小時開始明顯的呼吸窘迫,血壓下降,胸部 X 光呈現雙側全面的浸潤,並有少許肋膜腔積水,最可能的診斷為下列何者? - (A) 大腸桿菌(Escherichia coli) 感染 - (B) 綠膿桿菌 (Pseudomonas spp.) 感染 - (C) 肺炎鏈球菌 (Streptococcus pneumoniae) 感染 - (D) B 群鏈球菌(group B Streptococcus)感染 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (D) 針對 50~75 歲成人每十年接受大腸鏡檢查 (colonoscopy) Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - 【詳解】(D) 這題用單純的癌症篩檢建議來思考會比較好入手。目前台灣建議的癌症篩檢項目有四種:大腸癌、子宮頸癌、乳癌與口腔癌。因此針對題目所述的 53 歲,無重大疾病史男性所要建議的檢查就只有大腸癌篩檢 (50 到 69 歲的族群,兩年篩檢一次)。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (B) 20. 李先生因為家人有癌症病史,所以到 A 醫院的健康檢查中心作全身 健康檢查,檢查項目除了抽血之外還有胃鏡和大腸鏡的檢查,依照 醫療法規定,李先生需不需要寫同意書? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
@@ -100,15 +117,6 @@ tags:
 - C. 大腸直腸癌 (Colorectal cancer) 217 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (3) Stage IV: 化療為主 - a. FOLFOX 或 FOLFIRI (Folinic acid+5FU+Irinotecan)。 - b. 傳統化療加上 Bevacizumab (Anti-VEGF Ab) 可改善存活率。 - c. 傳統化療加上Cetuximab(Anti-EGFR Ab),對於k-ras沒有突變的大腸癌有幫助。 - d. 單一的肝轉移可考慮做肝切除。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (A) 1. 關於大腸直腸癌之描述何者正確? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (A) 3.78歲的連先生在接受大腸鏡檢查時,被診斷罹患大腸癌,初步評估應該屬於早期。當主治醫師吳醫師想將病理檢查結果告知連老先生時,連老先生的家屬要求吳醫師隱瞞病情,並幫連老先生決定了拒絕進一步的檢查及治療。吳醫師應如何處理較為合適? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (1) Clindamycin: - a. 抗菌範圍類似 Erythromycin,可抗 GPC - b. 還能抗厭氧菌,對膿瘍有不錯的穿透力,可治療咽喉附近的膿瘍(橫膈上);對 *Bacteroid fragilis* 效果不可信,因此腹腔內的膿瘍仍建議使用 Metronidazole(橫膈下)。 - c. 合併其他藥物治療嚴重的Streptococcal, clostridial 感染,可抑制其釋放出來的毒素。 - d. 會破壞大腸內正常菌群,使 Clostridium difficile 增生,引起偽膜性大腸炎 (Pseudomembranous colitis),須以口服 Metronidazole 或 Vancomycin 治療。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...| | 3° | Levofloxacin | 社區型肺炎 | | | 4° | Moxifloxacin | 吸入性肺炎(可對抗厭氧菌) | | 製造有毒物質破壞 DNA | Metronic | lazole | 厭氧菌、原蟲、偽膜性大腸炎 | | 抑制 RNA polymerase | Rifampir | n 肺結核 | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- 2. 對抗的厭氧菌,包括 Bacteroid fragilis、Clostridium perfringens, C. difficile 都有效,可用來合併其他抗生素治療腦部膿瘍或腹腔內感染,口服治療 C. difficile 引起的大腸炎(即Pseudomembranous colitis)。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...莢膜梭菌 (C. p | erfringens) | 糞便 WBC(-) | | fmt (⇒ | 腸毒素* | 霍亂弧菌 (Vibrio cholerae)、 | 糞便 OB(-) | | 無侵 | (Enterotoxin) | 產毒素大腸菌 (Enterotoxigenic E. coli, ETEC) | | | 襲性細菌 | 細胞毒素* | 出血性大腸桿菌 (E. coli O157: H7)、 | Dysentary | | 和困 | (Cytotoxin) | 艱難梭菌 (Clostridium difficile) | (赤痢) | | | 嚴重發炎 | 志賀菌 (Shigella)、 | 糞便 WBC(+) | | 侵襲性細 | (Invasion) | 侵 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- (1) 一般而言,以病原性大腸菌(Enterotoxigenic E. coli、ETEC)最多;其他還包含 Salmonella、Shigella、Rotavirus、Norwalk-like virus等。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- # D. 偽膜性大腸炎 (Pseudomembranous colitis): (Ref. Harrison ch 123 and IDSA guideline 2017) Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- ...β | 陰道 | | 新生兒敗血症,腦膜炎 | | D群鏈球菌 | 腸球菌 | E. faecalis | αβγ | 腸道,泌尿道 | | 膽道,泌尿道→心內膜炎 | | | 牛鏈球菌 | S. bovis | γ | 7 | 莢膜 | 大腸惡性腫瘤 | | 草綠色鏈球菌 | 突變鏈球菌 | S. mutans | α | 牙齦 | Dextran | 牙菌斑→亞急性心內膜炎 | | 肺炎雙球菌 | 肺炎鏈球菌 | S. pneumoniae | α | 呼吸道 | 多醣莢膜 | 肺炎 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...檢查時,此菌可能因此進入血中,瓣膜有壞損的人,就可能因此感染心內膜炎。治療: Ampicillin+ Gentamicin。 - 4. 牛鏈球菌 (S. bovis) => D 群鏈球菌 (Group D streptococcus): 與大腸惡性腫瘤有關。 - 5. 突變鏈球菌 (S. mutans) => 草綠色鏈球菌 (Viridans streptococci): 牙齦的正常菌群,突變鏈球菌可藉 Dextran 而黏附在牙齒上,造成牙菌斑,導致齲齒。若在心臟瓣膜有問題,且口腔衛生差的病人身上施行牙科侵入性行為時,草綠色鏈球菌就可能侵入血中,再藉著 Dextran 黏附到心臟瓣膜,引起亞急性心內膜炎。 - 6. 肺炎雙球菌 (S. pneumoniae) = Pneum Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

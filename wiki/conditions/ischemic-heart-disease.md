@@ -17,6 +17,7 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book4-ch25]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Ischemic heart disease (缺血性心臟病)'
   - 'Ischemic heart disease'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book4-ch25]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- PS: LAP, Lymphadenopathy in head and neck area; BCG, reactivation of bacille Calmette-Guérin inoculation site; CAD, coronary artery dilation, defined by an internal diameter > 3 mm. Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (D) 15. 心堵鎮是一個冠狀動脈疾病盛行的社區, 林醫師努力推動社區居民 的戒菸運動。林醫師調查社區中有那些團體如婦女、兒童健康組織 等,能對戒菸者提供心理與社會支持。林醫師目前的工作,屬於 Lawrence W. Green 的 PRECEDE 模式中那一個步驟? Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - (C) 19. 一位 65 歲病人有十年的糖尿病史和七年的高血壓,半年前因為冠狀動脈疾病住院,做了血管攝影和氣球擴張術。出院時的血壓控制在130~150/75~85 mmHg,血清肌酸酐是 1.8 mg/dL。近四個月他的血壓控制不理想,約在 165~180/95~110 mmHg;飯前血糖值為 140 mg/dL,血清肌酸酐上升到 3.5 mg/dL。有關此病人的進一步診斷處理,下列何者比較正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - (A) 閉塞性冠狀動脈疾病 (occlusive coronary heart disease) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].

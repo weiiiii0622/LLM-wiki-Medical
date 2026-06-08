@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Acute myeloid leukemia, AML (急性骨髓性白血病)'
   - 'Acute myeloid leukemia, AML'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-骨髓系 blast 增生的急性白血病，治療依 cytogenetics/molecular risk 分層。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓系 blast 增生的急性白血病，治療依 cytogenetics/molecular risk 分層。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,16 @@ tags:
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch21]]
+- [[sources/med4-book1-ch09]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- II. 急性骨髓性白血病 (Acute Myelogenous Leukemia, AML) 374 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 1. 良好的預後(standard risk): - (1) 發病年紀在 1~9 歲間。 - (2) 發病時 WBC 50 個染色體) 合併 trisomy 4、10 和 17; t (12; 21) /TEL-AML 1 fusion gene。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 【詳解】本題是考兒童 acute lymphoblastic leukemia 預後評估。 良好的預後因子有(1)發病年紀在1~9歲之間;(2)發病時白血 球計數低於 50,000/μL; (3) hyperdiploidy ( > 50 個染色體), (4) t(12;21)/TEL-AML 1 fusion gene。故選(A)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 3. Acute myelogenous leukemia Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- PS: 3 歲以前 AML 發生機率略高於 ALL Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - A.診斷 146 - B. 依染色、表面抗原鑑別診斷 147 - C. 基因轉位整理 147 - D. 血液抹片 148 - E. 急性骨髓細胞白血病 149 - F. 急性淋巴細胞白血病 150 - G. 前骨髓細胞白血病 150 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - | 急性白血病 | AML | ALL | | |-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------| | 年紀 | AML 成人多(平均 65 歲) | ALL 兒童、老人多(雙峰 Bim Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...-------|--------------------------|---------|----------------------|------------------------| | | 2,0,20 | CD13,33(+) | MPO(-) | - | M0 | | | | | MPO(+) | | M1,M2 | | | Myeloid | | | HLA DR (-) | M3 | | | | | | CD4,14(+) | M4 | | Blasts | , | | | CD4,14(+) | M5 | | (Leukemia) | | | MPO(-) | Glycophorin A(+) | M6 | | (2000) | | | | CD41,61(+) Source: [[sources/med3-book4-ch13|丁、急性白血病]].

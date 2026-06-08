@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Pertussis (百日咳)'
   - 'Pertussis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。 �
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch27]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- VIII. 百日咳 (Pertussis) 177 - IX. 微小病毒 B19 感染 179 - X. 水痘病毒 (VZV) 感染 180 - XI. 麻疹 183 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- # VIII. 百日咳 (Pertussis) Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- A. 病因:主要由 Bordetella pertussis 感染造成(另一種造成百日咳的病原體為 Bordetella parapertusis),主要是飛沫傳染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - | 疫苗需求等級 | 疾病種類 | |---------|--------------------------------------| | 必需性疫苗 | 黄熱病 | | 例行性疫苗 | A/B型肝炎、日本腦炎、白喉 / 百日咳 / 破傷風、小兒麻痺、卡介苗及 | | (常規性疫苗) | 麻疹 / 腮腺炎 / 德國麻疹等疫苗 | | 建議性疫苗 | A/B 型肝炎、日本腦炎、腦膜炎、霍亂及傷寒等疫苗 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...| | | 24hr 內 | 儘速 | 第一劑 | | | | | | | | | | | | | | | | | | 接種年齡 24hr 內 | 疫苗 | B型肝炎疫苗 (HepB) | 卡介苗 (BCG)¹ | 白喉破傷風非細胞性 | 百日咳、b 型嗜血桿菌及 | 不活化小兒麻痺五合一疫 | 苗 (DTaP-Hib-IPV) | 結合型肺炎鏈球菌疫苗(PVC 13) | 水痘疫苗 (Varicella) | 麻疹腮腺炎德國麻疹混合 | 疫苗 (MMR) | 日本腦炎疫苗(圧)2 | 流歐疫苗 (Influenza)³ | A型肝炎疫苗 (HepA) 4 | 白喉破傷風非細胞性百日 | 咳及不活化小兒麻痺混合 | 疫苗 (DTaP-IPV/Tdap-IPV)6 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (#) 10. 高媽媽帶著剛滿 11 個月的小孩前來看咳嗽及流鼻水,詢問高媽媽有 106( 二 ) 專 關高小弟的疫苗接種情況,依據衛生福利部國民健康署的建議,高 小弟應已接受下列那些疫苗注射?①卡介苗 ② B 型肝炎 ③白喉 破傷風百日咳混合疫苗 ④小兒麻痺口服疫苗 ⑤水痘疫苗 ⑥麻 疹腮腺炎德國麻疹混合疫苗 ①日本腦炎疫苗 ⑧破傷風減量白喉 混合疫苗? Source: [[sources/med3-book4-ch27|丁、預防醫學]].

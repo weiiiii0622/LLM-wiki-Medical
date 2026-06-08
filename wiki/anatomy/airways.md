@@ -26,6 +26,12 @@ sources:
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Airways (氣道)'
   - 'Airways'
@@ -40,7 +46,7 @@ tags:
 
 ## Summary
 
-氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +72,25 @@ tags:
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- VII. 細支氣管炎 (Bronchiolitis) 175 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 1. 突然且嚴重的氣道阻塞為其特徵。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- B. **病生理學**: 由於會厭與聲門上組織水腫造成氣道狹窄,進而造成發音困難與呼吸窘迫。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...這些化學物質中,組織胺與白三烯素會引發氣管早期收縮;其他 化學物質則可以使表皮細胞的破壞脫落至呼吸道,呼吸道水腫,基底層(basement membrane) 增厚,平滑肌肥大,和黏液分泌增加。以上這些都會造成呼吸道阻 塞。此外,當過敏原與支氣管的表皮細胞接觸時,除了改變物理性障壁結構外,表 皮細胞也會變成抗原呈現細胞,進而分泌 IL-33、IL-25 以及 TSLP (thymic stromal lympopoeitin)。這些 cytokines引發 innate immune response,刺激 type 2 innate lymphoid cells。Type 2 innate lymphoid cells 也會分泌 IL-4、IL-5 以及 IL-13,除了 刺 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (1) 誘導 eosinophil 到 airway(但 IL-13 功用為增加 airway 本身的敏感性)。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 依照 airway inflammation phenotype,可將 asthma 分類以下型式: Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 2. 種類:可分為 obstructive、central 與 mixed 三種。 - (1) Obstructive apnea: 有胸壁的起伏但氣道沒有氣體的流動,當胸壁呈現吸氣時咽部氣道發生塌陷。 - (2) Central apnea:中樞神經對呼吸相關肌肉刺激減少,造成沒有氣體流動與胸部起伏,但呼吸道沒有阻塞的證據。 - (3) Mixed apnea: 最常見, 佔 50~75%。阻塞型與中樞型混合,通常阻塞型在中樞型前發生。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (2) 除了給予氧氣或 CPAP (continuous positive airway pressure) 外,對於發生呼吸暫停但病人本身沒有 precipitating identifiable cause 可以給予 theophylline 或 caffeine 治療。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (B) 12. 一位 36 週早產兒經剖腹產生下後,發生呼吸窘迫症狀,呼吸聲 104(2) 專 有囉音(rales),經給予氧氣(FiO $_2$ 25%)及連續性氣道正壓 80-6 (CPAP)呼吸後,症狀逐漸改善,隔天即無症狀。下列那一項 是最可能的診斷? - (A) 呼吸窘迫症候群(respiratory distress syndrome) - (B) 短暫呼吸急促 (transient tachypnea of newborn) - (C) 細菌性肺炎 (bacterial pneumonia) - (D) 自發性氣胸 (spontaneous pneumothorax) Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (2) 先天性肺動脈瓣缺失(congenital absence of the pulmonary valve):病人常有呼吸道阻塞,發紺嚴重程度不一。心臟明顯肥大且有 to-and-fro murmur。肺動脈有明顯的 aneurysmal dilation,進而壓迫支氣管造成呼吸音出現 wheezing 或stridor。病人常有反覆性肺炎。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...列標記何者引?cell tumor,所以 hCG 會高。 | 95(一)専内2-6 | | (A) 21. 癌胚胎抗原(carcinoembryon關此抗原的敘述何者錯誤?(A) 大腸癌早期數值即升高,(B) 胰臟癌病人數值可能升高(C) 支氣管炎病人數值可能升(D) 吸菸者數值可能升高 | | 94(三)檢內-23 | | (C) 22. CA15-3 是那一種癌症之腫瘤(A) 大腸癌(C) 乳癌 | 指標(tumor marker)?(B) 卵巢癌(D) 肺癌 | 94(二)檢內-48 | | (B) 23. CA-125 為那一種癌症之腫瘤(A) 肺癌(C) 乳癌 | 標記?(B) 卵巢癌(D) 胃癌 | 94( 一 ) 檢內 -19 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - (C) 支氣管囊腫 (bronchogenic cyst)、心包膜囊腫 (pericardial cyst) 常出現在中縱膈腔 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - ...------------------------------------------------------------|------------------| | (B) 26 | . 下列何者在老年病患最不常見? (A) 骨折 (B) 支氣管哮喘 (bronchial asthma) (C) 憂鬱 (D) 尿失禁 【詳解】(B) 骨折是間接因跌倒而產生的疾病。老年人常見的呼吸道疾病應該是以肺部感染為大宗。 | 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 2 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
@@ -77,14 +99,6 @@ tags:
 - ...、實驗室診斷: | | | | (一)分離出德國麻疹病毒,或 | | | | (二)急性期與恢復期血清 IgG ≧ 4 倍上升,或 | | | | (三)IgM 抗體陽性。 | | | | 實驗室診斷條件:肺部檢體(如痰、肋膜液、胃洗出液、支氣管沖洗液等檢體) | 24 小時內 | | 結核病 | 結核分枝桿菌培養陽性之藥物感受性試驗顯示至少同時對 isoniazid 及 | | | | rifampicin 抗藥。 | | | 屈公病 | 有「屈公病」相關流行地區旅遊史,且有下列症狀:發燒、頭痛、噁心、嘔吐、 | 24 小時內 | | | 肌痛、出疹、關節痛者等。 | | | 西尼羅熱 | 一、有「西尼羅熱」相關流行地區旅遊史,且有下列症狀:發燒且符合下列 | 24 小時內 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - ...; 四、胃腸型:係由攝食被污染的食物或水而感染,細菌經小腸黏膜侵入。除會發冷、發熱外,還會有腹痛、噁心、嘔吐、腹瀉、腸道膜淋巴結腫大等現象,偶有腹膜炎; 五、肋膜肺部型:經血液感染,細菌侵入肺部及肋膜腔。病徵為咳嗽、少痰、胸骨壓痛。可能併發支氣管發炎、肺炎、肺囊腫、初級肺肋膜病變或胸膜炎等,肺門淋巴結異常腫大; 六、類傷寒型:臨床表現似傷寒,肝脾腫大,血液培養陽性,病情較重,死亡率高; 至少符合上述六型臨床症狀之一型,且有:節肢動物叮咬、與感染病原哺乳類宿主之接觸史、或接觸可能受污染的水等暴露史者。 | 1 週内 | | 恙蟲病 | 一、猝發且持續性高燒、頭痛、背痛、惡寒、盜汗、淋巴結腫大、1 週後皮膚出現紅色斑狀丘疹,有時會併發肺炎;或二、恙蟎叮咬處出現無痛性的焦痂。 | 1 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 - (A) 1. 一位 59 歲接受腹膜透析腎病患者,血壓為 125/80 mmHg,心跳為 107( 二 ) 專 76 次 / min,12 導程心電圖發現有 peaked T waves,血鉀值為 7.0 醫三 -76 mmol/L,無溶血。下列何種處置最不優先? - (A) 會診腎臟科後,等待做腹膜透析 - (B) 可使用葡萄糖 (glucose) 加胰島素 (insulin) 治療 - (C) 可使用碳酸氫鈉(sodium bicarbonate)治療 - (D) 可使用噴霧式支氣管擴張藥物 (neubulized albuterol) 治療 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- 【詳解】神志不清病人須先穩定 vital sign,Airway → Breathing → Circulation。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- A. 定 義:肺功能檢查有不可逆的氣道阻塞證據,post bronchodilator FEV1/FVC 3月/1年*2年 | 病理上:小氣道擴張,肺泡壁破壞 | | حلالتك | Severe hypoxemia, Hypercapnia, V/Q mismatch | Mild hypoxemia | | 症狀 | Pul. HTN, Cor pulmonale (EKG: RVH) | DLCO ↓ | | 呼吸音 | Wheezing | Diminished Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- ...------|-----------|---------------------------|----------------------|----------------------| | | | -7 | 急性惡化病史 | | | | 支氣管擴張試驗後 | FE | V1 (預測值%) | ≧ 1 次急性惡化需住院 | | 111212 | | FEV 1 /FVC全 2 次急性惡化但未導致住院 | CD | D | | | GOLD 2 | 50-79 | | | | | | GOLD 3 | 30-49 | | | | | | GOLD 4 | CAT CAT ≥ 10 | Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- 2. 依 Group 的治療原則: - (1) Group A:可考慮短效(只有偶爾喘)或長效的支氣管擴張劑。 - (2) Group B: 考慮單用長效支氣管擴張劑(LABA 或 LAMA)。 - (3) Group C: 先考慮單用 LAMA。 - (4) Group D:可用 LAMA、LAMA+LABA 或 ICS+LABA。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- ...---------------------------------------| | 發病年齡 | 在 20 歲前發病 | 在 40 歲後發病 | | 病因→病程→治療觀念 | 有氣喘或其他過敏性疾病(過敏性鼻炎、濕疹)家族病史 過敏原導致氣道慢性發炎,每次的暴露會造成急性惡化 症狀未隨時間惡化,但有季節性變化 通常可恢復(Reversible),緩解期肺功能正常 治療依症狀升、降階 | ● 有害氣體 (抽菸、生物燃料產生的煙)破壞氣道、肺泡● 長期暴露造成不可逆的傷害● 治療無法完全恢復 (Not fullyreversible),緩解期肺功能仍異常● 依肺功能、症狀、惡化頻率長期治療,不可降階 | | 免疫反應→參予細胞 | CD4+ T cell 中的 Th2 引發 * Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- 2. 下列症狀較不像氣喘: - (1) 只有咳嗽而沒有其他呼吸道症狀→需考慮鼻涕倒流 (post-nasal drip) 或胃食道逆流。 - (2) 慢性痰多→需考慮 COPD 或支氣管擴張。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- 2. 陽性支氣管擴張劑可逆性試驗 (禁 SABA ≥ 4, LABA ≥ 15 小時 )。 - (1) FEV, 增加> 12% 且> 200 mL。 - (2) 如果增加> 15% 且> 400 mL, 愈能確認。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 
 ## Clinical Caveats
 

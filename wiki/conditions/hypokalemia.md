@@ -9,6 +9,9 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch20]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Hypokalemia (低血鉀)'
   - 'Hypokalemia'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,19 @@ tags:
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch20]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】增加毛地黃毒性的危險因子如下:low body weight、advanced age、renal impairment、hypokalemia、hypercalcemia、or hypomagnesemia。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (A) 4. 下列何者不是 17- 羥酶缺乏(17-hydroxylase deficiency)所導致先 104(-)專 天性腎上腺增生(congenital adrenal hyperplasia)的臨床表徵? 醫四-21 - (A) 罹患此症之女童會有性別難辨 (ambiguous genitalia) - (B) 高血壓 - (C) 血漿腎素活性(plasma renin activity) 低 - (D) 低血鉀 (hypokalemia) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (4) 倘若 the HCO3/Cl anion exchanger 也跟著出問題,則會有高血氯與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 臨床表現:與第二型腎小管酸中毒相同有生長遲滯、正常陰離子間隙代謝性酸中毒。 此外,病人也會表現嘔吐、脫水、骨頭疾病、腎臟鈣化合併高尿鈣與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】病人血液 pH 值為 7.56,故 (A)(D) 先可以刪除。病人 血液低血鉀但血氯正常,因此 Bartter syndrome 不選(Bartter syndrome 病人血液出現低血鉀、低血氯、高血鈣、正常鎂離子 濃度、以及代謝性鹼中毒,尿液檢查出現高尿鈣與尿肌酸酐比 值)。故選(B)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (a) 低血鉀週期性麻痺(Hypokalemia periodic paralysis, HPP): 先天的鈣離子通 道異常,藉由未明的機制導致陣發性的鉀 shift 入細胞,造成四肢無力,但較 少造成呼吸肌無力。和前者不同的是,這類病患常有家族史、常於 20 歲前 就發病。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | | 公式 | 記法 | 意義 | |------|--------------------------------------------------------|------------------------|----------------------------------------------------------------| | TTKG | $(U_{\rm K}/U_{\rm osm})$$(P_{\rm K}/P_{\rm osm})$ | 尿鉀占血鉀的比例再各以 OSM 校正 | 低血鉀中TTKG > 7 表鉀由腎臟漏出TTKG $(P_{Na}/P_{Cr})$ | 尿鈉占血鈉的比例再各以 Cr 校正 | 腎衰竭中FENa FENa > 1 表示鈉由腎臟漏出→內因性腎臟衰竭 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].

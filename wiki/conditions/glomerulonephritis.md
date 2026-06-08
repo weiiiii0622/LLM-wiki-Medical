@@ -13,6 +13,10 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch15]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Glomerulonephritis, GN (腎絲球腎炎)'
   - 'Glomerulonephritis, GN'
@@ -27,7 +31,7 @@ tags:
 
 ## Summary
 
-腎絲球發炎疾病群，臨床可表現為 nephritic syndrome、RPGN 或慢性腎炎。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎絲球發炎疾病群，臨床可表現為 nephritic syndrome、RPGN 或慢性腎炎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +44,20 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch15]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 4. Postinfectious GN (poststreptococcal GN)\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 6. Membranoproliferative GN\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (A) 急性鏈球菌感染後腎絲球腎炎 (acute poststreptococcal glomerulonephritis) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (D) 6. 一位 4 歲男童最近隨母親回大陸省親,回國後他與母親均發生腹瀉及發燒現象,經醫師診斷為急性腸胃炎。過去兩天母親注意到男童變得蒼白、疲倦,而且雙眼浮腫、尿液明顯變少。抽血檢驗發現男童之血色素及血小板數皆降低,尿液常規檢查可見到血尿、蛋白尿。下列何者為最可能之診斷? - (A) Henoch-Schönlein 紫斑症 (Henoch-Schönlein purpura) - (B) IgA 腎炎 (IgA nephropathy) - (C) 鏈球菌感染後之急性腎炎(poststreptococcal glomerulonephritis) - (D) 溶血性尿毒症候群 (hemolytic-uremic syndrome) Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (A) Shigella- glomerulonephritis Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...BCG | 高;接受活性小兒 | 以癒合 | dermatomyositis, | | | or varicella;嬰兒 | 麻痺疫苗後發生 | | scleroderma, | | | 時期低血鈣造成抽 | paralysis | | glomerulonephritis, | | | 筋(此為 DiGeorge | | | angioedema | | | syndrome 的特色) | | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 94(三)檢 (C) 2. 下列有關混合結締組織病 (mixed connective tissue disease)的描述, 內 -42 何者正確? - (A) 為全身性紅斑性狼瘡+橋本氏甲狀腺炎+慢性活動性肝炎+心 肌炎的綜合病症 - (B) 最具診斷價值的抗體為 anti-ribosomal phosphoprotein 抗體 - (C) 最常見的致死原因為肺高血壓症 (pulmonary arterial hypertension) - (D) 90% 以上的患者會發生瀰漫性增殖性腎絲球腎炎 (diffuse proliferative glomerulonephritis) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (1) Class III、Class IV 為 Proliferative GN,病情輕微者可使用 Azathioprine (AZA)治療, 病情中度嚴重者,可使用 Mycophenolate mofetil (MMF)治療,最嚴重的則考慮每 月一次的 Methylprednisolone (MP) 加 Cyclophosphamide (CY) 脈衝治療。皆無效 者,可考慮 Rituximab (Anti-CD20 Ab)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (2) Class V 是為 Membranous GN,治療較無定論,目前國際治療準則建議是 Mycophenolate mofetil 或 Cyclosporin A (CSA)治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
@@ -54,9 +69,6 @@ tags:
 - ## A. 腎絲球疾病 (Glomerular disease) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (1) 腎絲球的疾病分為兩大類: - a. 腎絲球發炎 (Glomerulonephritis, GN): - (a) 幾天內突然發生的稱作 Acute GN, 幾週內發生的稱作 Rapid progressive GN (RPGN), RPGN 病理特徵為 Crescent formation, 好幾個月才慢慢形成的稱為 Chronic GN (CGN); Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (A) 慢性腎小球腎炎 (chronic glomerulonephritis) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- | (A) | 1. 一位 50 歲病人罹患慢性腎絲球腎炎 20 年,現出現尿毒症狀,且血中肌酸酐為 11.0 mg/dL,BUN 120 mg/dL,病人選擇血液透析,下列敘述何者錯誤? | 107(一)專醫三-8 | |-----|----------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch06|己、透析治療]].
-- ...從小就被醫師告知是「腎臟及 膀胱神經敏感症」。因為此一問題服用過很多藥物。理學檢查發現 病人體溫 40℃,腹部柔軟但有些壓痛,兩側肋脊角有明顯的敲痛, 集尿袋可發現血尿。下列何者是此病人最可能的診斷? (A) 急性出血性膀胱炎 (B) 急性腎絲球腎炎 (C) 急性腎盂腎炎 (D) Berger 氏病 (IgA 腎病變) (A) 9. 一位 56 歲女性患有糖尿病,因頻尿、左腹痛、發燒、畏寒 5 天而到 98(一)專 門診求診,身體檢查左腰肋有觸碰疼痛,血壓 90/60 mmHg、心跳 醫三-57 100/min、呼吸 22/min, CBC 呈現 WBC 13,000/mm3, Neutrophil 86%, 而尿液沈澱物鏡檢呈現 WBC 80~100/HPF, RBC 2~4/H Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
-- ...ve | 風濕熱 | Rheumatic fever | 心肌炎,關節炎,舞蹈症,皮下結節 | | sequelae | 急性腎絲 | Acute post-streptococcal | 茶褐色的尿 | | (抗體媒介) | 球腎炎 | glomerulonephritis | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 
@@ -65,7 +77,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/post-streptococcal-glomerulonephritis|Post-streptococcal glomerulonephritis, PSGN (鏈球菌感染後腎絲球腎炎)]]
 
 ## Follow-up
 

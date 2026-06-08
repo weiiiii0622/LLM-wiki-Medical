@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch02]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Septic arthritis (感染性關節炎)'
   - 'Septic arthritis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-關節腔感染造成急性單關節痛與發炎，需快速抽液與治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+關節腔感染造成急性單關節痛與發炎，需快速抽液與治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch02]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (A) 3. 兒童的感染性關節炎(infective arthritis),最常見的菌種為: 106(-)專 (A) 金黃色葡萄球菌(Staphylococcus aureus) - (B) 大腸桿菌 (Escherichia coli) - (C) 沙門氏菌 (Salmonella species) - (D) 黴漿菌 ( Mycoplasma pneumoniae ) Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (C) 6.1 歲 5 個月的男童因為高燒不退 5 天,躁動不安及不愛動左腳,被帶至急診室評估,身體診察發現左膝紅腫合併壓痛及關節活動受限,下列何者是最重要的檢查來確診敗血性關節炎(septic arthritis)? Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 【詳解】要診斷 septic arthritis,最直接同時也最重要的證據就是抽膝關節液做細菌培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - E. 感染性關節炎 (Septic arthritis) 75 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - ### E. 感染性關節炎 (Septic arthritis) Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (D) Septic arthritis Source: [[sources/med3-book4-ch06|己、關節炎變]].

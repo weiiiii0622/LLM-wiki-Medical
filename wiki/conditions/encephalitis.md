@@ -13,6 +13,13 @@ sources:
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -27,7 +34,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +47,26 @@ tags:
 - [[sources/med3-book3-ch08]]
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book4-ch27]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- 2. 經由血液循環侵犯遠處的器官:較少見,但會造成 meningitis、encephalitis、acute disseminated encephalomyelitis(ADEM)、transverse myelitis、cerebellar ataxia、endocarditis、suppurative arthritis and osteomyelitis 這些併發症。Pneumococcal or *H. influenzae* type b infection 是造成遠端器官侵犯常見的病原體。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (D) 2. 對於肺炎黴漿菌 (*Mycoplasma pneumoniae* ) 感染的描述,下列 109( ) 專 何者錯誤? - (A) 是學齡兒童社區性肺炎的常見病原 - (B) 肺外病徵包括腦炎、關節炎和皮疹 - (C) 潛伏期 2~3 週,家庭內傳染性高 - (D) 正確診斷主要靠痰液和血液培養 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (A) Japanese encephalitis virus Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...tended | | | | | | period of time | | | | Viral meningitis or | Normal | Rarely >1,000 | Usually | Generally | | meningoencephalitis | or slightly | cells. Eastern | 50~200 | normal; may | | | elevated | equine encephalitis | | be decreased | | | (80~150) | and lymphocytic | | to | | 1 | I | L | Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (C) 腦炎 (Encephalitis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (C) 病毒性腦膜腦炎 (viral meningoencephalitis) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- ...l/L、氯離子濃度 80 mmol/L,尿液鈉離子濃度 50 mmol/L。此病童最可能的診斷為何? - (A) 急性腸胃炎 (acute gastroenteritis) - (B) 心臟衰竭 (heart failure) - (C) 腦炎 (encephalitis) - (D) 腎上腺機能不全 (adrenal insufficiency) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 【詳解】題目敘述中,病人出現低血糖、低血鈉,脫水症狀,低血壓,及意識不清,可聯想至 adrenal insufficiency。其尿鈉高(>25)表示鈉由 renal loss,故不像急性腸胃炎或心臟衰竭,無局部神經學症狀,故也不像腦炎。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...sa cell \, theca cell \, surgery \, trauma \, prior inflammation luteoma · follicular cysts); Testicular (meningitis \, encephalitis) \, (Leydig cell) hydrocephalus **Exogenous sex steroids:** oral contraceptives \estrogen- or androgencontaining creams , consumption of estrogen-fed poultry or cattle Severe hypothyroidism (associated with ovarian cyst Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...| | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Enterovirus | Sepsis, DIC, hepatitis, myocarditis and meningoencephalitis. | | | Varicella zostervirus ( Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - | 疫苗需求等級 | 疾病種類 | |---------|--------------------------------------| | 必需性疫苗 | 黄熱病 | | 例行性疫苗 | A/B型肝炎、日本腦炎、白喉 / 百日咳 / 破傷風、小兒麻痺、卡介苗及 | | (常規性疫苗) | 麻疹 / 腮腺炎 / 德國麻疹等疫苗 | | 建議性疫苗 | A/B 型肝炎、日本腦炎、腦膜炎、霍亂及傷寒等疫苗 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...胞性 | 百日咳、b 型嗜血桿菌及 | 不活化小兒麻痺五合一疫 | 苗 (DTaP-Hib-IPV) | 結合型肺炎鏈球菌疫苗(PVC 13) | 水痘疫苗 (Varicella) | 麻疹腮腺炎德國麻疹混合 | 疫苗 (MMR) | 日本腦炎疫苗(圧)2 | 流歐疫苗 (Influenza)³ | A型肝炎疫苗 (HepA) 4 | 白喉破傷風非細胞性百日 | 咳及不活化小兒麻痺混合 | 疫苗 (DTaP-IPV/Tdap-IPV)6 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - 2.106年5月22日起,改採用細胞培養之日本腦炎活性滅毒疫苗,接種時程為出生滿15個月接種第1劑,間隔12個月接種第2劑 1.105年起,卡介苗接種時程由出生滿 24 小時後,調整為出生滿 5個月 (建議接種時間為出生滿 5~8 個月 )。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
@@ -51,11 +75,6 @@ tags:
 - ...--------------------|--|--| | HHV1 | HSV1 | 單純疱疹病毒第一型 | 齦□炎→顏面感覺神經結潛伏 | | | | 10 | | (Herpes simplex virus 1) | →復發齦口炎, 腦炎 (Encephalitis) | | | | HHV2 | HSV2 | 單純疱疹病毒第二型 | 生殖器疱疹→腰,尾椎感覺神經結潛伏 | | | | | | (Herpes simplex virus 2) | s 2) →復發生殖器疱疹 | | | | HHV3 | HV3 VZV 水痘帶狀疱疹 | | 水痘 (Varicella = chicken pox)→顱, 咽感覺神 | | | | | (Varicella zoster Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - (1) α 病毒 (Alphavirus): 藉由蚊子傳播病毒,造成馬腦炎 (Equine encephalitis)。馬、野鳥皆是其儲備宿主。感染人體會造成頭痛、發燒、意識改變等腦炎症狀。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - a. 吸入隱球菌後,可能在肺部造成感染、浸潤;免疫更差的,會藉著血流侵犯中樞神經,造成發燒、頭痛,甚至意識改變。可由腦脊液分析推測黴菌感染而懷疑,或測血中、腦脊液中的 Cryptococcal antigen 或染 India ink 診斷。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...rn blot)檢驗以確定是否感染愛滋病毒 (D)立即投與抗愛滋病毒藥物 | 98(二)專醫三-62 | | (#) | 15. 下列有關疾病及傳染途徑的配對,何者最正確? (A) 愛滋病: 飛沫傳染 (B) 水痘: 空氣傳染 (C) 日本腦炎: 空氣傳染 (D) A 型肝炎: 接觸傳染 | 98(一)專醫三-59 | | (B) | 16. 對於 acquired immunodeficiency syndrome(AIDS)的敘述,何者有誤? (A) 致病源是 HIV(human immunodeficiency virus) (B) 感染 HIV 就是 AIDS (C) AIDS 病人常有 tuberculosis 感染 (D) Kaposi's sarcoma 可出現 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...| Talaromyces (Penicillium) | 東南亞,AIDS 伺機感染 | | | | | | | 鴿糞/土壤→吸入肺中,通常無症狀 | 不需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluconazole | | | ポルエ(球黴菌) | | | 常在菌→鵝口瘡 (thrush) / 尿布疹 | 局部 Nystatin/Azole. | | | (本版图) | 念珠菌 | Candida | →擴散性念珠菌血症 | → Fluconazole,echinocandin | | | 系統性(絲黴菌) | | | 腐敗植物→麴菌球 (Fungus ball) | 開刀 | | | | 麴菌 | Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- (C) 單純疱疹腦炎 (herpes simplex encephalitis) Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- (3) 在愛滋病患者可能引起弓蟲性壞死性腦炎 (necrotizing encephalitis)、心肌炎 (Myocarditis)。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
-- | 免疫正常之成人(後天性感染) | 先天性感染 | 愛滋病患者 | |----------------------------|--------------|----------| | 大多數沒有臨床症狀,或類似傳染性單核球增生症 | 中樞神經不正常,如水腦症 | 弓蟲性壞死性腦炎 | | 眼睛的症狀,如葡萄膜炎、視網膜脈絡膜炎等 | | 心肌炎 | Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 
 ## Clinical Caveats
 

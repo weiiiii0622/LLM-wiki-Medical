@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Hodgkin lymphoma (何杰金氏淋巴瘤)'
   - 'Hodgkin lymphoma'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-具 Reed-Sternberg cells 的淋巴瘤，治療常與 ABVD 化療及放療相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+具 Reed-Sternberg cells 的淋巴瘤，治療常與 ABVD 化療及放療相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch21]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- (4) 相較於 non-Hodgkin lymphoma,Hodgkin disease 發生病程較為緩慢。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- # C. 非何杰金氏淋巴瘤(Non-Hodgkin lymphoma, NHL) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- (1) B 淋巴球或 T 淋巴球的惡性腫瘤,沒有 Reed-Sternberg cell 表現。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 1. 以周邊淋巴結侵犯為主的是 Non-Hodgkin's lymphoma、Hodgkin's lymphoma。 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - 3. 其中以 Non-Hodgkin's lymphoma 最多 - (1) 成人 ( > 20 歲): DLBCL、Follicular lymphoma 為多數。 - (2) 小孩 ( 38°C \ Night sweat \ Weight loss 10% in 6 months | | | | 治療 | ABVD | R-CHOP | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - ABVD = Adriamycin, Bleomycin, Vinblastin, Dacarbazine Source: [[sources/med3-book4-ch15|己、淋巴瘤]].

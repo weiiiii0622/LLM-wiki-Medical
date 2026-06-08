@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book1-ch17]]"
   - "[[sources/med3-book1-ch20]]"
   - "[[sources/med3-book2-ch15]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Obstructive sleep apnea (阻塞性睡眠呼吸中止症)'
   - 'Obstructive sleep apnea'
@@ -21,16 +24,24 @@ tags:
 
 ## Summary
 
-睡眠中上呼吸道反覆阻塞造成缺氧與日間嗜睡。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+睡眠中上呼吸道反覆阻塞造成缺氧與日間嗜睡。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch17]]
 - [[sources/med3-book1-ch20]]
 - [[sources/med3-book2-ch15]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- (C) 13. 有關阻塞性睡眠呼吸中止症候群 (obstructive sleep apnea syndrome; OSAS) 之敘述,下列何者錯誤? Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- 【詳解】阻塞性睡眠呼吸中止症候群為在睡眠中有重覆性呼吸暫停現象,進而產生血氧下降、容易產生驚醒、睡眠因此被打斷。扁桃腺及腺樣體的肥大是最主要的原因;其他原因包括過度肥胖、顱顏部的異常、先天呼吸道的異常及神經肌肉障礙等。若情況嚴重者,則會產生肺高壓、心肺功能受損。清晨起床頭痛現象常因血中二氧化碳濃度升高所致。目前治療方式如下:(1)扁桃腺及腺樣體的切除手術、(2)鼻部治療藥物的給予、(3)連續正壓呼吸輔助器(CPAP)的使用以及(4)牙科口內矯正器的配戴。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- 3. Obstructive sleep apnea Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 4. Obstructed sleep apnea Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (B) 16. 特定疾病或狀況,容易造成兒童阻塞性呼吸暫停(obstructive sleep apnea)或換氣不足(hypoventilation),導致睡眠障礙、 生長不良,甚至腦缺氧,下列何者最不可能? Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 症狀: - a. 從 GH、IGF-1 升高到有症狀約需 10 年,肢體末端(Acral)骨頭過度增生,導致下巴、手、腳變大。 - b. 肢端肥大症臨床上更重要的影響包含冠心病、心肌病變(Cardiomyopathy)導致心律不整,上呼吸道阻塞導置睡眠中止(Sleep apnea)、高血壓、糖尿病等,這些與死亡率更有關係。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - 3. Apnea-hypopnea index (AHI) =每小時 apnea + hypopnea 次數: - (1) AHI > 5+OSA 相關症狀 或 AHI > 15 可診斷 - (2) AHI = 5~15 為 Mild; 16~30 為 Moderate; > 30 為 Severe OSA。 Source: [[sources/med3-book1-ch17|子、阻塞性睡眠呼吸停止症候群]].
 - 4. 睡眠呼吸障礙指數 (RDI Respiratory Disturbance Index) = apneas + hypopnea + respiratory effort related arousals per hour of sleep,有時也用來評估 sleep apnea。 Source: [[sources/med3-book1-ch17|子、阻塞性睡眠呼吸停止症候群]].

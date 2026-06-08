@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch16]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Thyroid nodule (甲狀腺結節)'
   - 'Thyroid nodule'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-甲狀腺結節需以超音波、TSH 與細針抽吸風險分層。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺結節需以超音波、TSH 與細針抽吸風險分層。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch11]]
 - [[sources/med3-book2-ch16]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- d. 甲狀腺超音波:當觸診時有發現合併局部甲狀腺結節時安排超音波檢查。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (1) 年輕女性,瀰漫不痛的甲狀腺結節。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - ...0 ng/dL(normal range $80 \sim 180$ ng/dL),TSH 0.15 $\mu$ IU/mL(normal range $0.1 \sim 2.0$ $\mu$ IU/mL)。甲狀腺 I-131 掃描顯示右側甲狀腺結節為熱結節(hot nodule)左側甲狀腺 顯影減低。最近她來追蹤,體重 53 公斤,心悸會喘,下肢水腫,心電圖顯示心房震顫,驗血發現 free T4 2.3 ng/dL,T3 220 ng/dL,TSH (細菌感染) | 嗜中性白血球 | NSAID 及適當的抗生素 | | 亞急性甲狀腺炎(病毒感染) | 變形退化的濾泡細胞、多核巨細胞, ESR 上升 | NSAID + /- Steroid | | 橋本氏甲狀腺炎(Hashimot Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - (B) 10. 一位 50 歲女性病人,主訴 2 個月來體重下降 3 公斤,理學檢查發現 100(一)專 甲狀腺結節性腫大,無壓痛。實驗室檢查結果為 free T4 3.2 ng/dL 醫三-55 (參考值 0.6~1.75), TSH < 0.001 μU/mL (參考值 0.1~4.5)。甲 狀腺超音波發現左葉有一個1公分大小低回音度的結節,懷疑可能 有惡性變化。最適當的立即處理方式為下列那一項? - (A) 手術切除甲狀腺 - (B) 給予抗甲狀腺藥物 - (C) 放射性碘治療 - (D) 給予化學治療 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].

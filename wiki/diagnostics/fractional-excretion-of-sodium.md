@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch02]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Fractional excretion of sodium, FENa (鈉分率排泄)'
   - 'Fractional excretion of sodium, FENa'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch02]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (3) 利用尿液分析可區別 pre-renal 與 intrinsic renal ARF: - a. Pre-renal ARF : gravity > 1.020 · elevated urine osmolality (Uosm > 500 mOsm/kg) · low urine sodium (UNa Uosm ) $\cdot$ high urine sodium ( UNa > 40 mEq/L ) , and FENa > 2% ° Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...血檢查發現血清尿素氮值(blood urea nitrogen)為 42 mg/dL,血 清肌酐酸值為 1.8 mg/dL, 尿液中之蛋白為 300 mg/dL, 尿液的 比重(specific gravity)升高,尿液的鈉離子排出率(fractional excretion of sodium; FENa) 小於 1%。下列何者為最可能之診斷? - (A) 急性腎絲球腎炎 (acute glomerulonephritis) 合併急性腎衰竭 - (B) 急性腎小管壞死 (acute tubular necrosis) 合併急性腎衰竭 - (C) 急性腎間質腎炎 (acute interstitial nephritis) 合併急性腎衰竭 - (D) 低血容(hypovolemia) 合併急性腎衰竭 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】BUN/Cr比值大於20、FENa小於1%,故可知為腎絲 球為其病灶。Hypovolemia 不會造成尿液中有 protein。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - b. 驗 Spot urine 算 FeNa 的值 Na /F Cr ) | 一 再合以 い 校正 | FENa > 1表示鈉由腎臟漏出→內因性腎臟衰竭 | | | атат у | 尿鉀占血鉀的比例 | 低血鉀中 | | TTKG | $\frac{(U_K/U_{osm})}{(D_K/D_{osm})}$ | | TTKG > 7表鉀由腎臟漏出 | | | $(P_K/P_{osm})$ | 再各以 OSM 校正 | TTKG 1%(尿鈉高),表示尿鈉無法由腎臟回收,可知腎 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...醫三-6 而不是腎前性 (prerenal) 急性腎衰竭? (A) 尿中出現透明圓柱體 (hyaline casts) (B) 血中尿素氮(BUN) 48 mg/dL (C) 尿鈉(Na)濃度為 8 mmol/L (D) 尿鈉排泄分率 (fractional excretion of sodium, FeNa) 為 2% (C) 9. 下列藥物可能引起急性腎臟損傷,而主要的作用是腎血管的影響, 105(一)專 何者例外? 醫三-35 (A) 非類固醇消炎劑 (nonsteroidal anti-inflammatory drugs) (B) 血管張力素阻斷劑 (angiotensin-converting enzyme inhibitors) (C) 含鉑的抗癌製劑(如 cisplatin) (D) 腎素抑制 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...( | 下列何者不是顯影劑(contr(A) 脫水(B) 糖尿病腎病變(C) 高劑量顯影劑(D) 肥胖症 | ast media)引致急性腎衰竭的危險因子? | 101(一)專醫三-48 | | ( | 下列何項在腎前腎衰竭(Pr(A) 排鈉分率(FENa)小於(B) 尿鈉大於 10 mmol/L(C) 尿比重大於 1.018(D) 出現玻璃圓柱(Hyaline | | 100(二)專醫三-6 | | 1 ( | 多年,近半年的降血壓藥物份 | | 100(二)專醫三-23 | Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

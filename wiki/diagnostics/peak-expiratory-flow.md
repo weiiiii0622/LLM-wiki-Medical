@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book1-ch15]]"
   - "[[sources/med3-book1-ch14]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Peak expiratory flow, PEF (尖峰呼氣流速)'
   - 'Peak expiratory flow, PEF'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-居家或連續追蹤氣喘變異性的簡易工具。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+居家或連續追蹤氣喘變異性的簡易工具。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch15]]
 - [[sources/med3-book1-ch14]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- 4. Daily peak expiratory flow (PEF) or FEV1 monitoring: day-to-day and/or am-to-pm variation $\geq 20\%^*$ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- | (C) 15. 下列何項肺功能值可用來作為評估與監測氣喘嚴重度的指標? (A) 肺總容量(total lung capacity) (B) 肺活量(vital capacity) (C) 尖峰呼氣流速(peak expiratory flow) (D) 肺殘餘容積(residual volume) | 104(一)專醫四-24 | |------------------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 3.2 週內 PEF 過度變化:每日晝夜 PEF 變異性=(日最高-日最低)/(平均值)>10%。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - 4. 4 週抗發炎治療後肺功能顯著增加:治療後基準 $FEV_1$ 增加 > 12% 且 > 200 mL 或 PEF > 20% ) 。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 - (D) 自行使用尖峰呼氣流速 (PEFR) 之檢查 Source: [[sources/med3-book1-ch15|乙、氣喘]].

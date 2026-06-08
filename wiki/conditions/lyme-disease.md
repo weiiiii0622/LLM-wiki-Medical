@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Lyme disease (萊姆病)'
   - 'Lyme disease'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-蜱媒 Borrelia 感染，可有游走性紅斑、神經、心臟與關節表現。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+蜱媒 Borrelia 感染，可有游走性紅斑、神經、心臟與關節表現。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch06]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - #### 3. Lyme disease: Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (1) Borrelia burgdorferi 的感染發生於埤 (Ticks) 咬後 36~48 小時。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - ...drate arthritis — acute polyarticular arthritis (C) Staphylococcus aureus arthritis — acute monoarticular arthritis (D) Borrelia burgdorferi arthritis - acute episodes of polyarthritis on both hands 【詳解】(A)、(D) 這些感染性關節炎通常是單一關節。(B) CPPD 大多是「多關節」,只是不一定是 acute 根據 Harrison 16EP.2048 右欄第四行: CPPD deposition is polyarticular in at least two-thirds of patients; 左欄的 Source: [[sources/med3-book4-ch06|己、關節炎變]].

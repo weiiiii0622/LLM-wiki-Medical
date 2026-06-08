@@ -9,6 +9,9 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch22]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch08]]"
 aliases:
   - 'Streptococcus pyogenes infection (A 群鏈球菌感染)'
   - 'Streptococcus pyogenes infection'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,19 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch01]]
 - [[sources/med3-book3-ch22]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch08]]
 
 ## Key Details From Sources
 
+- 當 Group A Streptococci(GAS)感染上呼吸道造成 GAS pharyngitis 外,GAS 產生pyrogenic exotoxin(erythrogenic toxin)造成一連串的發炎反應導致猩紅熱。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 從咽喉處採集檢體做 GAS antigen detection test 與病原體的培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (D) 猩紅熱的致病機轉和 A 群鏈球菌 (Group A streptococcus) 所產生的內毒素 (Endotoxin) 有關 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- ...abdomen | Surgery | | Atresia + distalTEF | Newborns | Regurgitation of feedings Aspiration | Esophagogram Plain film: gas-filled abdomen | Surgery | | H-type TEF | Infants to adults | Recurrent pneumoniaBronchiectasis | EsophagogramBronchoscopy † | Surgery | | Esophageal stenosis | Infants to adults | DysphagiaFood impaction | Esophagogram Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...喝奶後 15 分鐘响 | 显 103( − ) 專 | |-----|------------------------------------------------|--------------| | | 吐,嘔吐物不含膽汁,blood gas 呈現 metabolic alkalosis。最有可 | 可 醫四-10 | | | 能的診斷是: | | | | (A) gastroesophageal reflux | | | | (B) infantile hypertrophic pyloric stenosis | | | | (C) choledochal cyst | | | | (D) duodenal atresia | | | | 【詳解】(A)(C)(D) 嘔 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (A) 11.6 週大男嬰,從1週前吐奶的情況,突然越吐越厲害,最近幾乎每一餐喝完奶半小時內很快就吐光,吐出的內容物為沒有黃綠色,體重也沒有增加反而減少,住院後若抽血檢驗動脈血氣體分析(arterial blood gas analysis),最有可能會呈現下列那種結果? Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (A) A 群鏈球菌 (group A Streptococcus) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - \* 臨床上常稱 Coagulase negative staphylococci (CoNS), 指的就是表皮葡萄球菌等; Group A streptococci (GAS), 指的就是 Streptococcus pyogen; GBS, 指的就是 Streptococcus agalactiae。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...溶血 | 存在處 | 毒力 | 臨床疾病 | |----------------|--------|---------------|-----|--------|---------|---------------| | A 群鏈球菌 | 化膿性鏈球菌 | S. pyogenes | β | 咽喉,皮膚 | M蛋白 | 咽炎,猩紅熱,風濕熱,腎炎 | | B群鏈球菌 | 無乳鏈球菌 | S. agalactiae | β | 陰道 | | 新生兒敗血症,腦膜炎 | | D群鏈球菌 | 腸球菌 | E. faecalis | αβγ | 腸道,泌尿道 | | 膽道,泌尿道→心內膜炎 | | | 牛鏈球菌 | S. bovis | γ | 7 | 莢膜 | 大腸惡性腫瘤 | | 草綠色鏈 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 1. 化膿性鏈球菌 (Streptococcus pyogenes) => A 群鏈球菌 (Group A streptococcus, GAS): - (1) 致病原因: 鏈球菌以 A 群最可怕,又稱為 Flesh eating bacteria,主要存在人類咽喉、皮膚。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

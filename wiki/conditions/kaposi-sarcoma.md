@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch15]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Kaposi sarcoma (卡波西肉瘤)'
   - 'Kaposi sarcoma'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-HHV-8 相關腫瘤，HIV/AIDS 免疫低下者較常見。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HHV-8 相關腫瘤，HIV/AIDS 免疫低下者較常見。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ HHV-8 相關腫瘤，HIV/AIDS 免疫低下者較常見。 本頁已整合至 `�
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch15]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- (C) 3. 一位 8 個多月大的男嬰,因左前胸藍色腫瘤來診,病理顯示為類 卡波西血管內皮細胞瘤(Kaposiform hemangioendothelioma), 白血球數目(WBC count)為 8,700/mm³,血紅素濃度(Hb)為 10.5 g/dL,血小板(platelets)數目為 32,000/mm³,其他理學檢查無異常;數天後男嬰身上發現出血點,且血小板(platelets)數目降為 12,000/mm³,前凝血酵素時間(prothrombin time)及 活化凝血酵素時間(partial th Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...| 其他病毒 | EBV | 鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma)、Burkitt's lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...pylori vs. 胃癌(gastric cancer) (B) Human papilloma virus vs. 子宮癌(uterine cancer) (C) Human herpesvirus type 8 vs. 卡波氏肉瘤(Kaposi's sarcoma) (D) Epstein-Barr virus vs. 霍金氏淋巴癌(Hodgkin's lymphoma) | 106(二)專醫三-60 | | (C) | 5. 一位 33 歲男性病人,有一約 6 cm 前縱膈腔腫瘤,經抽血檢查發現血清的 CEA 濃度正常,AFP 增加(80 ng/ml,normal range: 8. 根據目前證據,下列那一個癌症與病毒或細菌感染最不相關? (A) 鼻咽癌 (nasophar Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].

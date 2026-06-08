@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch12]]"
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Nephrolithiasis (腎結石)'
   - 'Nephrolithiasis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book3-ch12]]
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book4-ch06]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- (2) 高血鈣時間一久,則鈣離子沉降在腎臟 parenchyma 形成鈣化與結石,造成腎功能受損。此外,腎結石亦會造成嚴重腎絞痛或血尿。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - | 分類 | Xanthine oxidase inhibitor | Uricosuric agent | |-----|----------------------------|-----------------------| | 藥物 | Allopurinol | Benz bromarone | | | Febuxostat (腎差不需調量) | | | 適應症 | 腎功能不佳、腎結石病患 | 每天尿酸排泄 \*有 HLA B5801 的病患使用 Allopurinol 較易造成 Steven Johnson syn. Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - ...4(一)檢 | | (D) | 20. | 何者錯誤? | 內 -30 | | | | (A) 遠曲小管氫離子排泄障礙 | | | | | (B) 尿銨 (urine ammonium) 排泄過多 | | | | | (C) 常合併有磷酸鈣腎結石 | | | | | (D) 尿液酸鹼值大於 5.5 | | | | | 【詳解】第一型 RTA 可見尿的 ph > 5.3, 乃因遠段腎小管因自體 | | | | | 免疫等原因破壞,造成 H + 無法排除。NH 3 與 H + 結合成尿銨(NH 4 + | | | | | = Ammonium ) 排泄,因此 NH 4 排泄減少。 | | | | | | 0.17 | | (B) | 29. | 陰離子隙(anion gap)常被用 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (A) 1. 一位 50 歲病人,腎超音波檢查可見兩個腎臟皆長約 15 公分,以及 非常多個大小不一的囊泡(cysts),家族中亦有人患有此病,下列 敘述何者錯誤? - (A) 大多數的病人為自體隱性 (autosomal recessive) 遺傳 - (B) 病人產生腎結石的機會較一般人高 - (C) 有些病人會出現顱內血管瘤(aneurysm),但不需所有此類病人皆作顱內血管瘤的篩檢 - (D) 若囊泡出現細菌感染, ciprofloxacin 是用藥選擇之一 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].

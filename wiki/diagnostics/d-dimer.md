@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'D-dimer (D-二聚體)'
   - 'D-dimer'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-低風險肺栓塞排除策略常用檢驗。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低風險肺栓塞排除策略常用檢驗。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book1-ch11]]
 - [[sources/med3-book4-ch11]]
 - [[sources/med3-book4-ch12]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (D) 4. 兒童患者如果發生 disseminated intravascular coagulation (DIC), 104(二)專 血液檢查時,下列何者不會出現? - (A) 血中 D-dimer 出現 - (B) 血中 Factor V 或 Factor VIII 降低 - (C) 血小板 (platelets) 數目降低 - (D) 血中 fibrinogen 升高 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 【詳解】病人嚴重感染走向 DIC 時,凝血系統啟動造成血小板、 凝血因子大量消耗而降低,纖維蛋白溶解系統也跟著啟動造成 D-dimer 上升與 fibrinogen 下降。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...rombasthenia)(C) 第十凝血因子缺乏(Factor X deficiency)(D) 第十一凝血因子缺乏(Factor XI deficiency) | 100(二)專醫三-42 | | (A) | 11. 下列何種情況血中 D-dimer 濃度不會異常升高?(A) Hemarthrosis(B) Five days after major operation(C) Brain sinus thrombosis | 100(一)專醫三-35 | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (B) DVT 的病人 D-dimer 檢查多為陽性 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - 3. D Dimer: 高敏感度、低特異性;用於低度臨床懷疑時,排除肺栓塞;高度臨床懷疑時、癌症病患、老年人等, D-dimer 常會呈現偽陽性,提供的臨床幫助有限。建議使用流程如下: (Harrison figure 273-3) - (1) 低度臨床懷疑 +D-dimer 陰性→排除診斷。 - (2) 低度臨床懷疑 +D-dimer 陽性→需進一步影像學檢查。 - (3) 高度臨床懷疑→直接進一步影像學檢查。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].

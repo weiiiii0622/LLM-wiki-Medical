@@ -9,6 +9,9 @@ sources:
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch16]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Renal tubular acidosis, RTA (腎小管酸中毒)'
   - 'Renal tubular acidosis, RTA'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-腎小管排酸或 HCO3 處理異常造成正常陰離子間隙代謝性酸中毒。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎小管排酸或 HCO3 處理異常造成正常陰離子間隙代謝性酸中毒。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,19 @@ tags:
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch16]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- VI. 腎小管酸中毒 (Renal Tubular Acidosis, RTA) 139 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (B) 9. 嬰兒尿道後瓣膜(posterior urethral valves),最不常見之表現為: 99(一)專 - 醫四-2 - (A)慢性腎衰竭 - (B) 腎鈉堆積(sodium retention) 及水腫 - (C) 第四型腎小管酸血症(type IV renal tubular acidosis) - (D) 水腎及輸尿管擴張(hydronephrosis and hydroureter) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- # VI. 腎小管酸中毒 (Renal Tubular Acidosis, RTA) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (h) Renal tubular acidosis • Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- ...- (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發現。男嬰反而以 cortisol 或 aldosterone 缺乏造成 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- 【詳解】21- 羥酶缺乏所致之先天性腎上腺增生(congenital adrenal hyperplasia)中 salt losing form 會有低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (A) 腎小管性酸中毒 (renal tubular acidosis) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Extranodal, low grade, marginal zone B cell lymphoma),特別是唾液腺持續腫大、Low C4、合併冷凝蛋白血症等病患;有時會在腫大唾液腺意外發現。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - 4. 治療: (Ref. Harrison p2109 fig 317-1) - (1) 眼乾、口乾給予症狀治療,或服用 Pilocarpine (Salagen)、Cevimeline (Evoxac)。 - (2) 腎小管酸中毒 (RTA) 需給予 Bicarbonate 補充。 - (3) 關節炎給予低劑量類固醇加上 Hydroxychloroquine 或 MTX 治療。 - (4) 血管炎則需給予類固醇加上免疫抑制劑 Cyclophosphamide 治療。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...腎病變 (25%): 有多個因素造成: - a. 濾出的 light chain 傷害腎臟導致腎衰竭(cast nephropathy),或導致近端腎小管功能受損,即所謂的 Adult Fanconi syndrome(包含 Type 2 RTA),使得無法吸收Glucose 及 Amino acid 等。 - b. Amyloid 或 light chain 沉積造成 nephrotic syndrome。 - (3) 貧血(80%):除了骨髓被侵犯,腫瘤也會分泌造血的抑制因子。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].

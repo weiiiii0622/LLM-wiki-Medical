@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Digoxin (毛地黃)'
   - 'Digoxin'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ tags:
 - [[sources/med3-book2-ch08]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- (3) 毛地黃類藥物使用上必須注意病人心律不整。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (B) 22. 使用毛地黃(digoxin)藥物時,下列何者較少會加重毛地黃的 104(-)專毒性?醫四-31 - (A) 高血鈣 (hypercalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- 【詳解】增加毛地黃毒性的危險因子如下:low body weight、advanced age、renal impairment、hypokalemia、hypercalcemia、or hypomagnesemia。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 細胞膜內外轉移 (Transcellular shift): - a. H+K+離子通道:酸中毒。 - b. Na $^{\scriptscriptstyle +}$ -K $^{\scriptscriptstyle +}$ ATPase 離子通道:使用 β blocker、毛地黃中毒等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...氯化鈣(CaCl 2 )靜脈注射,不適合用於下列何種病況的治療? (A) 高血鉀(hyperkalemia) (B) 高血鎂 (hypermagnesemia) (C) 氫氟酸 (HF, hydrofluoric acid) 中毒 (D) 毛地黃 (digoxin) 中毒 【詳解】低血鉀、高血鈣會加重毛地黃中毒。 | 102(一)專醫三-65 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...omycin 與 theophyllin | e 併用會增加 theophylline 毒性 | | | | | , , , , , , , , , , , , , , , , , , , , | A | | | | | | zole 與 digoxin 併 用 可 能 會 發 生 | | | | | digoxin 毒性反應 | | | | | | | Ħ會增強 fluoroquinolone 藥效 | | | | | 【詳解】(D) Fluoroquinolone 身 | 與制酸劑併用會減弱 fluoroquinolone | | | | | 茲於方。 | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

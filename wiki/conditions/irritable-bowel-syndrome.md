@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book2-ch05]]"
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Irritable bowel syndrome, IBS (腸躁症)'
   - 'Irritable bowel syndrome, IBS'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-功能性腸道症候群，以腹痛與排便習慣改變為核心。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+功能性腸道症候群，以腹痛與排便習慣改變為核心。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book2-ch05]]
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (C) 腸躁症 (Irritable bowel syndrome) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 4. 一位 56 歲女性病人有隱隱的腹部不適,間歇性拉肚子,和潮熱(flush) 104(一)專 約5年,被診斷為腸躁症 (irritable bowel syndrome) 和停經過渡期 症候群 (perimenopausal syndrome),她的症狀逐漸變嚴重,水瀉一 天有三次,腹部電腦斷層發現多處肝轉移及腸繫膜 (mesenteric) 淋巴結腫大,和一個 3 cm 的腫瘤在迴盲腸 (ileocecal region),血 清 CEA 正常,24 小時尿的 5-hydroindoleacetic acid (5-HIAA)增加。 下列何種治療可 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - 2. 鑑別診斷:假性腹瀉 (Pseudodiarrhea):頻繁地解小量糞便,可能與腸躁症 (IBS) 或直腸炎 (Proctitis) 有關。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - #### B. 大腸急躁症 (Irritable bowel syndrome, IBS) Source: [[sources/med3-book2-ch08|辛、腸道疾病]].

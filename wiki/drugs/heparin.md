@@ -20,6 +20,8 @@ sources:
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Heparin (肝素)'
   - 'Heparin'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,15 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch12]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- # D. Warfarin 和 heparin Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (1) Initial: heparin 75 U/kg, IVD for 10 mins • Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (2) Maintanance: 20 U/kg/hr, q4h check PTT, keep aPTT: 60~80 secs 五天。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 5. Prothrombin time (PT) - (1) 與白蛋白相同,用來評估肝臟合成功能的指標。 - (2) 除了 factor VIII 以外,其餘凝血因子均由肝臟製造。因此發生嚴重的肝功能受損時,除了 PT 延長以外, aPTT 亦會延長。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...------------------------| | 病理缺陷 | Platelet/ vascular defect | Coagulation defect | | 實驗室檢查 | Bleeding time (BT) | PT \ aPTT | | 出血處 | 皮膚、黏膜 | 肌肉、關節 (Deep in soft tissue) | | 病灶名稱 | Petechiae, Ecchymosis | Hemarthroses, Hematomas | | 出血時機 | 小切傷,較立即、輕微 | 大手術,較延遲、嚴重 | | | 如:流鼻血、刷牙流血 | 如:血膝、爬山後肌肉內血腫 | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 2. 血管缺陷:如 Senile purpura,老年人皮下脂肪減少,尤其是四肢伸側,皮一拉,血管易破。CBC、PT、aPTT 皆正常,Senile purpura 不需治療,僅需觀察。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (2) 破壞增加: - a. Immune thrombocytopenic purpura (ITP): - (a) 病因:因未知的原因,身體產生 Anti-PLT Ab,使血小板被破壞。 - (b) 診斷:好發於 15~30 歲女性,藉由排除其他血小板低下的病因後診斷。 - (c) 實驗室檢查: CBC 只見 Plt ↓ 需檢查 ANA、HIV、EBV、Hepatitis virus 以排 除其他次發性原因; Anti-plt Ab 僅具低敏感度及低專一性。 - (d) 治療: - i. Plt > 30,000: 不需治療。(目前治療 guideline 建議維持 30,000 以上) - ii. Plt 10 萬,通常沒有臨床症狀,可繼續使用 heparin,觀察即可。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
@@ -71,10 +79,6 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - ...otal T4 ↑ | Free T4 ↑ | 抑制 T4→ T3 | Amiodarone · Propranolol | | (Euthyroidism) | Total T4 正常 | Free T4 ↑ | T4 離開 TBG | Heparin · LMWH | | | Total T4 ↑ | Free T4 正常 | 增加 TBG | 雌激素 (Estrogen)、懷孕、肝炎、肝 | | | | | | 硬化 | | | Total T4 ↓ | Free T4 正常 | 減少 TBG | 雄激素 (Androgen) | | 甲狀腺功能低下 | Total T4 ↓ | free T4 ↓ | 抑制 TSH | Glucocorticoid, Dopamine, | | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - a. 凝血因子(PT、aPTT): 若肝臟製造能力下降,可在短時間內表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 - (3) 抗血栓藥物方面:ACS 病患會使用 Heparin 將 aPTT 控制在 60 秒左右。因為 Heparin induced thrombocytopenia 的副作用,這方面還可用 LMWH、Fondaparinus、 Bivalirudin 等。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (2) 急性期藥物治療: NTG pump + Aspirin 3# st + Clopidogrel 4# st + LMWH - a. 抗缺血治療 (Anti-ischemic treatment): - (a) Nitrate:僅證明可減緩症狀,無降低死亡率;劑量可往上調到症狀緩解,但 SBP 1 mm Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (a) Heparin: 在接受 fibrinolysis 的 STEMI 病人身上,可降低 MI 相關死亡率。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- 2. 藥物選擇: - (1) 非口服抗凝劑 (parental anticoagulant) 可選擇 Heparin, LMWH, fondaparinus。 - (2) 傳統口服抗凝血藥物: Warfarin, 容易與食物或藥品產生經互作用,需監測凝血功能; 出血風險較高。 - (3) 新型口服抗凝血藥物(Noval oral anti-coagulants, NOAC 如 rivaroxaban,dabigatran,apixaban)效果不亞於 warfarin,且出血事件較為減少。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
-- 4. 整理靜脈栓塞(DVT)及肺栓塞治療時間: - (1) 3個月:有手術、外傷等誘發事件,且僅影響上肢或小腿的 DVT,治療 3個月即可。 - (2) 3~6 個月:無誘發事件或影響到大腿 DVT 或肺栓塞,需治療 3~6 個月。有研究發現治療 6 個月效果更好。 - (3) 終生:腫瘤病患併發 DVT 或肺栓塞需終身使用 LMWH,不需轉為 warfarin。若 cancer 治癒,才可慮停藥。 Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 
 ## Clinical Caveats
 

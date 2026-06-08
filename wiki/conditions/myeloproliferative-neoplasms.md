@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch14]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Myeloproliferative neoplasms, MPN (骨髓增生性腫瘤)'
   - 'Myeloproliferative neoplasms, MPN'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-造血幹細胞 clonal 增生疾病群，包含 PV、ET、PMF、CML 等。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+造血幹細胞 clonal 增生疾病群，包含 PV、ET、PMF、CML 等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch14]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- 1. Transient myeloproliferative syndrome Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...AML (I3A7) | 小腦運動失調、角膜炎 | | | | | | Gemcitabine (Gemzar)→胰臟癌,肺癌 | 似感冒症狀 (Flu-like symptoms) | | | | | | Hydroxyurea →慢性骨髓增生病變 (CMPD) | | | | | | Purine | 6-Mercaptopurine(6MP) → ALL(Maintance) | 與 xanthine oxidase* 併用須減量 | | | | | 1 dime | Fludarabine → CLL, Follicular lymphoma | | | | G2 | Topoisomerase | Topo I* | Irinotecan (CPT11)→大腸癌 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (1) 抑制 Ribonuclease reductase: - a. Hydroxyurea:慢性骨髓增生病變(Chronic myeloproliferative disorder) Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - #### 戊、慢性骨髓性增生性疾病 (Chronic Myeloproliferative Neoplasm) Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].

@@ -15,6 +15,10 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Glucose homeostasis (血糖恆定)'
   - 'Glucose homeostasis'
@@ -29,7 +33,7 @@ tags:
 
 ## Summary
 
-胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +48,22 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book4-ch07]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- (C) 18. 一位三週大足月順產男嬰,出生體重 3800 公克,因持續發生低血糖而就診,身體檢查未發現任何異常,先前作過的實驗室檢查顯示當其血糖值為 25 mg/dL 時,血漿酮體(ketone bodies)濃度測不到亦無酸血症(acidosis)。下列那一項檢查對此病人診斷的確立,最沒有幫助? - (A) 血清胰島素 (Insulin) 濃度 - (B) 血漿氨 (Ammonia) 濃度 - (C) 左旋-多巴試驗(L-Dopa test) - (D) 升糖素試驗(Glucagon test) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 【詳解】L-Dopa test是用來偵測 growth hormone deficiency用(L-Dopa 可促進 growth hormone 分泌)。(A) 則是可以用來排除 congenital hyperinsulinism。(B) 當病人有中鏈脂肪酸去氫酶缺乏症時,則出現低酮體低血糖。在急性期,血中的氨、尿酸、肝臟轉胺(liver transaminase)以及肌酸磷酸激酶(creatine phosphokinase)常常會上升。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (A) 3. 關於幼兒持續性高胰島素低血糖症(persistent hyperinsulinemic hypoglycemia of infancy)的敘述,下列何者錯誤? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- (1) 又稱為胰島素依賴型糖尿病 (insulin-dependent diabetes mellitus, IDDM)、幼年型糖尿病 (juvenile diabetes mellitus)。由於自體免疫造成胰臟 β 細胞被破壞。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (1) 又稱非胰島素依賴型糖尿病(non-insulin-dependent diabetes mellitus, NIDDM)。 由於週邊組織對胰島素產生抗性,造成相對的胰島素不足。好發在肥胖的青少年,約 90% 有家族史。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- glucagon 以及 clonidine test 等。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (A) 1. 下列何種情形與鉀離子流失所造成的低血鉀 (Hypokalemia ) 最 108( 二 ) 專 無關? - (A) 注射胰島素 (Insulin) - (B) 長期使用利尿劑 (Long-term usage of diuretics) - (C) 腸胃炎引起腹瀉(Gastroenteritis induced diarrhea) - (D) 腎小管酸血症 (Renal tubular acidosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...(acute hemolysis) (B) 6. 以下何者不是緊急治療高血鉀之藥物? 99(一)專 (A) 鈣 (calcium) 醫四 -3 (B) β 阻斷劑 (propranolol) (C) 葡萄糖及胰島素(glucose and insulin) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (A) 胰島素抗性 (insulin resistance) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (4) Insulin-dependent diabetes mellitus: Tc 細胞攻擊蘭氏小島內的 β 細胞,導致胰島素分泌減少,造成高血糖。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...| 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD 4 | 3 | | Pemphigus vulgaris (PV) | DR 4 | 1 | | Hashimoto's thyroiditis | DR 5 | 4~5 | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
@@ -56,13 +73,6 @@ tags:
 - 1. 又稱為 Insulin resistance syndrome, 顧名思義和 Insulin resistance 有很大的關係。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - 4. 診斷糖尿病後,特別是年輕人,有時難以分辨第 1、第 2 型糖尿病,除可由臨床特徵分辨,也可參考升糖素(Glucagon)刺激試驗,若 (1) 空腹 C peptide \beta-adrenergic agonists , thiazides | | | | | phenytoin, α-inte | erferon, protease inhibitors, clozapine | | | | | F. Infections — congenital rubella, cytomegalovirus, coxsackie | | | | | | G. Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - \*「腎」: Metformin eGFR Saxagliptin (Onglyza®) > Vildagliptin (Galvus®) > Linagliptin (Trajenta®) - a. 藥物機制:食物會刺激腸道分泌腸泌素(Incretin),腸泌素中最重要的就是GLP-1 會刺激胰臟分泌胰島素。而GLP-1 會被的體內 enzyme DPP-4 分解,使用DPP-4 inhibitor可延長 GLP-1 作用。[縮寫:Glucagon like peptide-1 (GLP-1)、Dipeptidyl peptidase-4 (DPP-4)] - b. 優點:副作用少,不易造成低血糖。 - c. 缺點:呼吸道感染、急性胰臟炎可能。另外,Saxagliptin 可能增加 DM 患者心衰竭住院。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- b. 另外, GH 可再刺激肝臟分泌胰島樣生長因子 (Insulin-like growth factor-1, IGF-1), 其為強效的生長、分化因子,於青春期時血中濃度最高。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...--------------------------------|-----------------------------|--------------------------------------------| | Growth | Insulin tolerance test: | ~30, 0, 30, 60, 120 min for | Glucose 3 | | hormone | Regular insulin | glucose and GH | g/L | | | (0.05~0.15 U/kg IV) | | | | ACTH | Insulin tolerance test: | ~30, 0, 30, 60, 90 min for | Glucose 7 g/ Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- (A) 3. 一位 35 歲男性因為右手麻木感來就醫,診斷為腕道症候群(carpal tunnel syndrome)同時體檢發現其下巴突出及高血壓。隨機抽血測得生長激素(growth hormone)值為 10 ng/mL(normal range 0~10 ng/mL)。應該先做何處置? - (A) 葡萄糖抑制試驗 (glucose suppression test) - (B) 腦下垂體核磁共振影像檢查 (pituitary MRI examination) - (C) 腦下垂體功能檢查 (pituitary function tests including TSH, FSH, ACTH) - (D) 胰島素低血糖試驗 (insulin hypoglycemic test) Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- | Insulin resistance,hyperinsulinemia | Medications | Nutritional | Liver disease | |-----------------------------------------|-----------------|--------------------|--------------------| | Centripetal obesity | Glucocorticoids | Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (C) 非酒精性脂肪肝病、第一型糖尿病、中厚(臟器)型肥胖、 高脂血症與高血壓都是胰島素抗性症候群(Insulin resistance syndrome)的表現 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...| | (B) 20. 一位 45 歲男性病人,斷斷續續嚴重胃部疼痛及每日多次腹瀉約 8 個月求診,病人無特殊藥物史及過去病史。泛內視鏡檢查發現嚴重食道炎、多處胃潰瘍及十二指腸第二部分多處潰瘍,下列疾病中鑑別診斷首要考慮之疾病為: (A) insulinoma (C) Whipple's disease (D) Crohn's disease (革解】Z-E syndrome 為 gastrinoma 所致,症狀多為腹痛、腹瀉、多發性胃潰瘍、多發性十二指腸潰瘍及嚴重食道炎(胃酸分泌過多)。 | 98(二)專醫三-19 | | (C) 21. 一位 30 歲男性,長期因十二指腸潰瘍而困擾,醫師安排吹氣檢查(urea breath test),請問這是測那一種感染?(A) Clostrid Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- (2) 症狀: - a. 服餐後<30分鐘:因為水都跑到腸胃道而產生一些腸胃道症狀,如噁心、上腹痛、腹瀉;水都跑到腸胃道,血管內血變少,也會有低血壓的症狀。 - b. 餐後 1~4 小時:因為 insulin 導致低血糖,而有一些交感神經興奮的症狀,像一些 Vasomotor 症狀,頭暈、心悸、潮紅。 Source: [[sources/med3-book2-ch05|庚、胃疾病 – 其他]].
 
 ## Clinical Caveats
 

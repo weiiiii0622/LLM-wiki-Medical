@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book1-ch17]]"
   - "[[sources/med3-book1-ch24]]"
   - "[[sources/med3-book2-ch04]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Noninvasive ventilation, NIV (非侵襲性通氣)'
   - 'Noninvasive ventilation, NIV'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,14 @@ tags:
 - [[sources/med3-book1-ch17]]
 - [[sources/med3-book1-ch24]]
 - [[sources/med3-book2-ch04]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- (2) 除了給予氧氣或 CPAP (continuous positive airway pressure) 外,對於發生呼吸暫停但病人本身沒有 precipitating identifiable cause 可以給予 theophylline 或 caffeine 治療。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (B) 12. 一位 36 週早產兒經剖腹產生下後,發生呼吸窘迫症狀,呼吸聲 104(2) 專 有囉音(rales),經給予氧氣(FiO $_2$ 25%)及連續性氣道正壓 80-6 (CPAP)呼吸後,症狀逐漸改善,隔天即無症狀。下列那一項 是最可能的診斷? - (A) 呼吸窘迫症候群(respiratory distress syndrome) - (B) 短暫呼吸急促 (transient tachypnea of newborn) - (C) 細菌性肺炎 (bacterial pneumonia) - (D) 自發性氣胸 (spontaneous pneumothorax) Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- 【詳解】阻塞性睡眠呼吸中止症候群為在睡眠中有重覆性呼吸暫停現象,進而產生血氧下降、容易產生驚醒、睡眠因此被打斷。扁桃腺及腺樣體的肥大是最主要的原因;其他原因包括過度肥胖、顱顏部的異常、先天呼吸道的異常及神經肌肉障礙等。若情況嚴重者,則會產生肺高壓、心肺功能受損。清晨起床頭痛現象常因血中二氧化碳濃度升高所致。目前治療方式如下:(1)扁桃腺及腺樣體的切除手術、(2)鼻部治療藥物的給予、(3)連續正壓呼吸輔助器(CPAP)的使用以及(4)牙科口內矯正器的配戴。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - ...(停用 PPI 至少7 天較不易產生偽陰性) - (1) 侵襲性的方法:由胃鏡取出的檢體進行快速尿素檢查法 (rapid urease test)、組織病理檢查法 (histology)、組織細菌培養 (culture)等。 - (2) 非侵襲性的方法:尿素呼吸檢查(urea breath test),使用碳 -13 標記之尿素,服用 後作呼氣檢查,為最佳的非侵襲性方法,可用於確定殺菌成功與否。抽血檢驗 IgG (serology)只能知道有沒有感染過,但無法區分是否現在正在感染。Stool antigen test 亦為一種方法之一。 - 4. 根除幽門螺旋桿菌 (H. pylori) 感染的 triple therapy: - (1) 三合療法: PCM 或 PCA, HP Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 - ...nchodilators)、抗生素和口服類固醇 - (B) 給予吸入性擴張劑(bronchodilators)、抗生素、口服類固醇和 氧氣 - (C) 給予吸入性擴張劑 (bronchodilators)、抗生素、口服類固醇、 氧氣,並給予非侵襲性正壓呼吸 (noninvasive positive-pressure ventilation, NIPPV) - (D) 給予吸入性擴張劑(bronchodilators)、抗生素、口服類固醇、 氧氣和鎮靜劑,立即插氣管內管和使用侵襲性呼吸器(invasive mechanical ventilator)輔助呼吸 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - 【詳解】意識清楚、些微二氧化碳蓄積,可先考慮非侵襲性正壓呼吸。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].

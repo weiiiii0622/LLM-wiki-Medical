@@ -7,6 +7,10 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch26]]"
+  - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch09]]"
 aliases:
   - 'Iron studies (鐵質檢查)'
   - 'Iron studies'
@@ -21,16 +25,27 @@ tags:
 
 ## Summary
 
-Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch26]]
+- [[sources/med4-book1-ch08]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch09]]
 
 ## Key Details From Sources
 
+- 2. Mentzer Index (MI): MCV/RBC > 13 為缺鐵性貧血; \ | ↑或正常 | \ | | TIBC | ↑ | \ | \ | | ferritin | ↓ | 1 | 1 | | Mentzer | > 13 | 鐵的吸收(2) 1~4 週後 data 會改善 | 電泳確定診斷 | (1)也可以是正球性貧血(2)CKD病人常見 | Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (B) 1. 有關重度乙型海洋性貧血(β-thalassemia major)的敘述,下列 109(二)專 何者最不正確?醫四 -26 - (A) 通常在 6 個月到 1 歲大間, 貧血會越來越嚴重而需輸血 - (B) 輸血會造成鐵質沉積,最好控制在血色素 7 g/dL 即可 - (C) 又稱為庫利氏貧血(Cooley anemia) - (D) 為自體隱性(Autosomal recessive)遺傳 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (C) 患者血清中 (serum) ferritin 是下降的 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (g) Ferritin > 500 ng/mL • Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (C) Hyperferritinemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (D) 早產兒純母乳哺餵時鐵質可能不足,須額外補充;足月兒則 會足夠,無需額外補充 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...tion, | Increased VMA, | | | | raccoon eyes, myoclonus- | increased HVA, increased | | | | opsoclonus, diarrhea, skin | ferritin, stippled | | | | nodules (infants) | calcification in mass | | Hepatoblastoma | Birth-3 yr | Large, firm liver | Increased AFP | | Hepatoma | School age, | Large, firm liver; hepatitis | Increased AFP | | | teens | B, Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...上完成,進出細胞都是二價,下圖是簡化過的版本,忽略了腸細胞氧化還原鐵的步驟以及其上 transporin 的工作) - (2) 進入體內的二價鐵(Fe+2)再轉為三價鐵(Fe+3),由血液中 Transferin 運送,而在 細胞中儲存在 Ferritin 上;其中 Transferin 的總運鐵量以 TIBC(Totoal iron binding capacity)表示,而 SI(Serum iron)除以 TIBC 即是 Transferrin 飽和度。[記憶:二 價鐵好吸收,口服鐵劑是二價;三價鐵好運送,靜脈注射三價鐵] Source: [[sources/med3-book4-ch10|甲、貧血]].
 - | 分期 | 鐵質狀況 | 實驗室檢查 | 正常值 | |-----|-------------------|--------------------------------|---------------| | 初期 | 儲於骨髓、網狀內皮系統的儲鐵量降低 | Ferritin TIBC $>$ 360; SI $ 50 | | | 缺鐵的狀況下造血 | MCV 3.5% 須懷疑 β thalassemia;正常人的 HbA2 即是 10 , No t Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (1) 好發於慢性炎症、慢性感染或惡性腫瘤的病人身上;血紅素介於 $7\sim10$ 之間,MCV 微減( $75\sim82$ fl),**TIBC** 降低,Ferritin 上升(視為如 CRP 等急性反應蛋白,發炎 時會上升)。 Source: [[sources/med3-book4-ch10|甲、貧血]].

@@ -9,6 +9,10 @@ sources:
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch11]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch05]]"
 aliases:
   - 'Vancomycin (萬古黴素)'
   - 'Vancomycin'
@@ -23,7 +27,7 @@ tags:
 
 ## Summary
 
-glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +36,18 @@ glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch11]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch01]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch05]]
 
 ## Key Details From Sources
 
+- (C) 1. 治療黴漿菌 (*Mycoplasma pneumoniae*) 肺炎,下列何種藥物最 109(二)專 適當? 醫四-4 - (A) Penicillin - (B) Vancomycin - (C) Azithromycin - (D) Gentamicin Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (C) 改用 vancomycin 40 mg/kg/day q8h Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (1) 經驗性抗生素使用: - a. 若懷疑 Viridians streptococci 或 Enterococcus: penicillin 或 ampicillin 加上 gentamicin。 - b. 若懷疑 *Staphylococcus aureus*: penicillinase-resistant penicillin 或 vancomycin 加上 gentamicin。 - c. 若針對術後病童或是病童有 prosthetic valves,使用 vancomycin 與 gentamicin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- ...$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫過低、生命跡象不穩的病童, Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (1) 在抗生素使用上,依照 CSF gram stain 檢查後使用經驗性抗生素:3rd generation Cephalosporin(ceftriaxone、cefotaxime) + Vancomycin。若病人小於三個月, 須加上 Ampicillin 以涵蓋 Listeria monocytogenes。依照培養結果再做出調整。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (2) Methicillin 是這類藥物中結構較不穩定的藥物,現在已不再生產。但對於這類藥物 又產生抗藥性的 *S. aureus* 當初稱為 Methicillin resistant *S. aureus*(MRSA),雖現無 此藥,但此名詞沿用到現在。針對 MRSA 需用到更後線藥物:Vancomycin。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ## F. Glycopeptides 類: Vancomycin, Teicoplanin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - #### 1. Glycopeptide 類: Vancomycin, Teicoplanin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

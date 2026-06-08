@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch05]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch06]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Rheumatoid factor, RF (類風濕因子)'
   - 'Rheumatoid factor, RF'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人�
 - [[sources/med3-book4-ch05]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch06]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...rositis (pericarditis, pleuritis, or peritonitis) • - b. Oligoarticular JIA:發病後 6 個月內有 1~4 個關節受到影響。 - c. Polyarthritis (RF negative):發病後6個月內有≥5個關節受到影響,且 rheumatoid factor (RF) 陰性。 - d. Polyarthritis(RF positive):發病後 6 個月內有 $\geq$ 5 個關節受到影響,且RF $\geq$ 2 次測到陽性(兩次需間隔 3 個月以上,且皆需在發病後 6 個月內)。 - e. Psoriatic arthritis: 關節炎加上乾癬, 或關節炎加上以下至少兩項: - (a) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- c. 發病時通常白血球及血小板高,血紅素低,且 CRP 及 ESR 高。Oligoarthritis 及 polyarthritis 有 40~85% ANA 會陽性。Rheumatoid factor(RF)可能陰性或 陽性。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (B) 多關節型 (Polyarthritis) JIA 患者,風濕因子 (Rheumatoid factor, RF) 陽性者的預後較陰性者佳 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (A) 13. 24 歲女性病人主訴雙側手腕及手指關節疼痛已一個多月,最近也常 103( ) 專 口腔潰瘍及無故發燒。體檢發現血中白血球數目偏低。請問下列那 醫 = -8 一項檢驗,獲得陽性的機率最高? - (A) 抗細胞核抗體 (ANA) - (B) 類風濕因子 (RF) - (C) 抗 DNA 抗體 (anti-dsDNA) - (D) 抗環狀瓜氨酸化胜肽抗體 (anti-CCP antibodies) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (C) 23. 一位 28 歲女性最近半年來臉頰部有紅斑(如附圖)及手指、手腕和肩膀有偶發性疼痛。曾經被醫師懷疑為紅斑性狼瘡。請問下列那些檢查對疾病的診斷最有幫助? (1) skin biopsy (2) anti-nuclear antibodies (3) serum complements C3 and C4 level (4) rheumatoid factors (5) complete blood routine (6) anti-dsDNA antibodies (7) anti-SS-A/anti-SS-B (8) serum electrophoresis (9) LE test Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...ANA 都會呈現陽性。 | 重,食指與中指近核抗體(ANA)報?rythematosus)即可確定是全身性 | | (D) 33. 下列血清學診斷項目中,何者對於全身性紅斑性狼特異性最高? (A) 紅斑性狼瘡細胞(LE cell) (B) 類風濕因子(rheumatoid factor) (C) 抗單鏈去氧核糖核酸抗體(anti-ss DNA) (D) 抗雙鏈去氧核糖核酸抗體(anti-ds DNA) | 瘡(SLE)診斷的 94( - ) 専内 2-4 | | (C) 34. 就紅斑性狼瘡的患者而言,下列何種自體免疫抗體(A) Anti-double stranded DNA(B) antibody Anti-phospholipid antibody(C) Anti-La (S Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

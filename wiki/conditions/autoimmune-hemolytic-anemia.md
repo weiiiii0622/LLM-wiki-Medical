@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch21]]"
+  - "[[sources/med4-book1-ch08]]"
 aliases:
   - 'Autoimmune hemolytic anemia, AIHA (自體免疫溶血性貧血)'
   - 'Autoimmune hemolytic anemia, AIHA'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch10]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch21]]
+- [[sources/med4-book1-ch08]]
 
 ## Key Details From Sources
 
+- 3. Cold hemagglutinin 和 warm hemagglutinin - (1) AIHA 中參與溶血的自體抗體有兩大類。 - a. 一類是 IgG,在與人體體溫的溫度時與紅血球表面上的蛋白質抗原發生反應,稱為 warm hemagglutinin。大部分案例是 idiopathic。 - b. 另一類是 IgM,在低於體溫時,發生反應,稱為 cold hemagglutinin。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 4. Direct Coomb test 和 Indirect Coomb test - (1) Direct Coomb test:是指在紅血球細胞的表面上附著有免疫球蛋白或補體,當血液中的洗滌紅血球添加抗球蛋白的血清,而產生凝集反應即表示為陽性。 - a. 例如:新生兒溶血症、自體免疫溶血性貧血(AIHA)、系統性紅斑狼瘡症、 ABO 輸錯血、冷凝集素綜合症。 - (2) Indirect Coomb test: 血清中有無游離的不完全抗體。陽性反應表示血清中有游離的不完全抗體。 - a. 例如:藥物誘發的免疫性溶血性貧血、新生兒同種免疫性溶血病、輸血後症狀。 Source: [[sources/med4-book1-ch08|辛、血液學]].
+- (C) 8. 關於自體免疫性溶血性貧血(autoimmune hemolytic anemia)中 的冷型抗體(cold antibodies),下列何者錯誤? Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (2) 分類: - a. 臨床上懷疑病患發生溶血,須緊急拉血液抹片、測 Coombs' test, 區分病因。 - b. 非免疫 (Microangiopathic hemolytic anemia, MAHA): - (a) 血液抹片上看到 Fragment RBC, 須懷疑 TTP、DIC等原因造成血管壁不平順, 導致溶血; 若是 TTP 須進行血漿置換, 而 DIC 則是控制背後引發 DIC 的病因, 如敗血症等。 - (b) TTP 不會有 PT、aPTT 延長問題,而 DIC 必合併凝血問題 (PT、aPTT Source: [[sources/med3-book4-ch10|甲、貧血]].
 - | 方法 | Direct Coombs' test | Indirect Coombs' test | | | |----|-------------------------------------------------------------------------------------|------------------------------------------------------------------------|--|--| | 目的 | 偵測 R Source: [[sources/med3-book4-ch10|甲、貧血]].
 - | 分類 | Warm | Cold | |----|---------------------|-------------------------| | 意義 | 於人體溫度時就會攻擊 | 在低溫時才會攻擊 | | 抗體 | IgG 攻擊 RBC 的 Rh 抗原 | IgM 攻擊 RBC 的 C3d, Ii 抗原 | | 病因 | 藥物、感染 (EBV/CMV)、 | 感染 (Mycoplasma) | | | 結締組織病 SLE/RA、HD/CLL | Non-Hodgkin lymphoma | Source: [[sources/med3-book4-ch10|甲、貧血]].

@@ -26,6 +26,9 @@ sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med3-book4-ch12]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch10]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -40,7 +43,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +69,15 @@ tags:
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch26]]
 - [[sources/med3-book4-ch12]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch10]]
 
 ## Key Details From Sources
 
+- (D) 三酸苷油酯(triglyceride)過高 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (B) Hypertriglyceridemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 【詳解】家族型高膽固醇血症(familial hypercholesterolemia) 其嚴重度是根據基因上的變異數量決定,即有加成效應(gene dosing effect)。故同型合子會比異型合子的表現來的嚴重。同 合子患者其低密度脂蛋白(low density lipoprotein, LDL)膽固醇 數值是正常人的 4~6 倍,通常 LDL-C 為 500~1200 mg/dL。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (c) Cyclosporine 最常見的副作用包括減低腎臟功能、血壓升高、升高血脂肪濃 度、毛髮過度生長、上臂及腳部刺痛及灼熱感、牙齦增生等。Tacrolimus 常 見的副作用包括腎毒性、腹瀉、誘發糖尿病等。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...ietic stem cell transplantation)用來預防移植物反宿主疾病(graft-versus-host disease)的重要免疫抑制劑,下列何者不是 CsA 常見的副作用? (A) hypertension (B) hyperlipidemia (C) hyperglycemia (D) nephrotoxicity | 105(一)專醫三-45 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (B) 12. 當懷疑有抗磷脂質抗體症候群(antiphospholipid antibody syndrome) 103(ニ)専時,下列的何種檢查最為重要? - (A) C3 及 C4 - (B) prothrombin time 及 activated partial thromboplastin time - (C) ESR 及 CRP - (D) cholesterol 及 triglyceride Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
@@ -84,9 +93,6 @@ tags:
 - 對低血鈉有概念了嗎?低血鈉在臨床上相當常見,天天在抽 BUN/CR、Na/K,抽出來的低血鈉你是否會處理?謹記幾個原則,先排除假性低血鈉,看一下 chart,病人是否有高血糖、高血脂等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...清低離子間隙 (low anion gap)? (A) 鋰鹽中毒 (Lithium intoxication) (B) 腎病症候群 (Nephrotic syndrome) (C) 高血磷症 (Hyperphosphatemia) (D) 高血脂 (Hyperlipidemia) 【詳解】(C) 高血磷症 (Hyperphosphatemia) 為高離子間隙 (high anion gap)。 | 95(二)專內1-21 | |---------|--------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - b. 腹膜透析也比血液透析常合併血脂異常,建議以 HMG CoA reductase 將 LDL 控制到 100 以下。 Source: [[sources/med3-book3-ch06|己、透析治療]].
-- ...抑制病毒處理轉錄出的蛋白 | Fosampre navir (FPV), Lopi navir (LPV) | T2DM | | | 中等政(山口)虫 口 | Rito navir (RTV), Nelfi navir (NFV), | Hyperlipidemia | | | | Saqui navir (SQV), Tipra navir (TPV), | | | HIV entry inh. | 防止病毒進入 | Enfuvirtide (T-20, Fusion inhibitor) | Inj. site Rxn. | | m v endy min. | 宿主細胞 | Maraviroc (CCR5 receptor blocker) | | | | 防止病毒卡入 | Raltegrav Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- b. 藥物副作用: - (a) Lactic acidosis 可能與傷害粒腺體有關,NRTI (Stavudine、Didanosin)常見。 - (b) Lipodystrophy: NRTIs 及 PIs 較易使周邊皮下脂肪減少,頸背(Buffalo hump)、腹部脂肪增加。 - (c) Hyperlipidemia:特別是高TG,其中PIs(Ritonavir)常見,併用Statin或Fibrates可改善。 - (d) Glucose intolerance: PIs (Indinavir, Ritonavir) 常見。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...台灣最近是以藥癮者共用針具相互傳染最多 【詳解】 &lt; 200/mm³。 | 96(一)專醫三-41 | | (B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

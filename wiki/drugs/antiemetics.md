@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch13]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Antiemetics (止吐藥)'
   - 'Antiemetics'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,14 @@ tags:
 - [[sources/med3-book4-ch28]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch13]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- 2. 若病人有明顯症狀時,使用 dexamethasone 0.6 mg/kg/dose (maximum 10 mg)以口服或肌肉注射方式給藥。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (4) 治療:控制好引發 HLH 的原因是最基本的治療,然後再用以下方式。 - a. 化療藥物: etoposide + dexamethasone +/- cyclosporine。 - b. IVIG + steroid 使用在低危險族群。 - c. 無法控制的脾功能亢進者考慮脾切除。 - d. 幹細胞移植:有機會治癒,特別是 primary HLH 的病人。目前治癒率可達到 6 成以上。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 6. 治療:出生後可經由氣管內插管後給予肺泡表面張力素治療(出生 8 小時內使用第一劑,且出生時仍有胎兒肺液體時效果最好)。由於早產是呼吸窘迫症候群最大的危險因子,當孕婦發生早產是不可避免時,在產前 24 小時到七天前給予betamethasone 或者是 dexamethasone 可以降低呼吸窘迫症候群的危險(約可降低60%)以及新生兒的死亡(約 40%)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...各種預防措施,仍 常見病患腎功能慢慢變差。 - (b) 可能導致低血鎂、並伴隨低血鈣等電解質異常。還可能導致四肢未端麻木等神經毒性(glove-and-stocking neuropathy)、聽力受損等。 - (c) 強致吐劑,臨床上以 5-HT3 antagonists: Tropisetron (Navoban®)、Ondansetron (Onzod®),palonosetron (Aloxi) 預防。 - b. Carboplatin: 卵巢癌或肺癌病患腎功能不佳的病患會用 Carboplatin。 - (a) 腎毒性、神經毒性、耳毒性都較 cisplatin 少,但骨髓抑制較多。 - c. Oxaliplatin: 對於大腸癌較有效,加上前面提及的 5Fu + Leuc Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...(Taxol®、太平洋紫杉醇) - a. Taxanes (紫杉醇)類能對抗多種癌症,包括肺癌、乳癌、卵巢癌、血管肉瘤 (Angiosarcoma)等。 - b. 此藥需以包含 cremophor 的載體輸注,所以容易導致過敏,注射前需以 Dexamethasone, Diphenhydramine (H1 blocker), Cimetidine (H2 blocker)預防過敏。 - c. 還可能導致四肢末端麻木等神經毒性(glove-and-stocking neuropathy)。 - d. 有些病患會有心率不整,以 asymptomatic bradycardia 最常見,也可能造成 heart block。 - (2) Docetaxel (Taxotere®、歐洲紫杉醇) - a. Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - 原 治療相關:嗎啡、止吐藥、止痛藥、抗膽鹼類藥物的副作用 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].

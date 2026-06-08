@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch11]]"
+  - "[[sources/med4-book1-ch01]]"
 aliases:
   - 'Dilated cardiomyopathy (擴張型心肌病變)'
   - 'Dilated cardiomyopathy'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-心室擴張與收縮功能下降，可導致心衰竭。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+心室擴張與收縮功能下降，可導致心衰竭。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch11]]
+- [[sources/med4-book1-ch01]]
 
 ## Key Details From Sources
 
+- (D) 擴張型心肌病變 (Dilated cardiomyopathy) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (3) 年紀較大的幼兒:急性感染可能會出現急性鬱血性心衰竭、擴張型心肌病變、 心室性心律不整。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (4) 兒童期晚期或青少年:通常為 asymptomatic 或是出現擴張型心肌病變前兆 (ex. CHF、心律不整、運動耐受不良)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - A. 擴張性心肌病 (Dilated cardiomyopathy, DCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - #### A. 擴張性心肌病 (Dilated cardiomyopathy, DCM) Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - 4. 治療:同一般心臟衰竭治療。 - (1) 口服抗凝血劑:在心臟功能不佳的病患身上,使用抗凝血劑無法減少血栓形成,因此不建議常規使用,僅在有 Af、LV thrombus、有 thromboembolic event 的病患使用。 - (2) 抗心律不整藥物:DCM 的病患,Sudden cardiac death(SCD)、Ventricular arrhythmia 機會較高,但不建議常規使用抗心律不整藥物於無症狀的 VPC、Non sustained VT,可能反而導致更嚴重的心律不整發生(Proarrhythmic effects of the drugs)。 - (3) DCM 病患,若 LVEF 1.3)、腔室縮小、舒張功能↓。 Source: [[sources/med3-book1-ch07|庚、心肌症]].

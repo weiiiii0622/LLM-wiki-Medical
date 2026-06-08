@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch23]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Liver transplantation (肝臟移植)'
   - 'Liver transplantation'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-末期肝病、部分 HCC 或肝衰竭的根本治療選項。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+末期肝病、部分 HCC 或肝衰竭的根本治療選項。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch22]]
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book2-ch23]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- 6. 治療:以葛西式肝門空腸吻合術(Kasai hepatic portojejunostomy)治療(又稱 Hepatoportoenterostomy procedure)治療。 - (1) 葛西式手術成功率與手術時年紀有關,若小於 60 天成功率可達 80%,但是大於 90 天成功率僅有 20%。 - (2) 顯微鏡下小膽管管徑大於 150 µm。 - (3) 葛西式手術只是治標,治本方式為肝臟移植。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) Curative (治癒性): - a. 手術切除:太大、太多顆、Child C、侵犯 hepatic trunk 或 IVC 的 HCC 無法手術 - b. 肝臟移植:同時有肝硬化及肝腫瘤者,可考慮移植同時解決兩個問題,亦為一根治方法,但須符合移植適應症,且捐贈器官來源少,較不易進行。需符合肝臟移植米蘭準則(Milan Criteria)才會有較好的移植預後:①不能有血管侵犯;②單顆HCC ®): 抑制 RAS、RAF 等生長因子接受器的 Secondary messenger,稱做 Multitargeted tyrosine kinase inhibitor; 早期用於治療 RCC,已核准用於 HCC;若有併發症(最常見:Hand-foot Skin Reaction)可減藥或須停藥。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - (D) Orthotopic liver transplantation Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - ...) ≥ 2.0 mg/dL)。 - b. 慢性 B 型肝炎帶原者: - (a) 接受非肝臟之器官移植後, B型肝炎發作者,可長期使用。 - (b) 接受癌症化學療法中B型肝炎發作者,經照會消化系專科醫師同意後,可長期使用。 - (c) 接受肝臟移植者,可預防性使用。 - (d)接受癌症化學療法,經照會消化系專科醫師同意後,可於化學療法前1週開始給付使用,直至化學療法結束後6個月,以預防B型肝炎發作。 - (e) 確診為肝癌並接受根除性治療且 HBV DNA $\geq$ 2,000 IU/mL,可長期使用直至 肝癌復發且未能再次接受根除性治療為止。 - c. **HBeAg**(+) 的慢性B型肝炎(\*定義: **HBsAg**(+) 超過 6 個月及 **HBeAg**(+) Source: [[sources/med3-book2-ch17|丁、肝 炎]].

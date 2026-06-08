@@ -15,6 +15,9 @@ sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch08]]"
+  - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Systemic lupus erythematosus, SLE (全身性紅斑狼瘡)'
   - 'Systemic lupus erythematosus, SLE'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,19 @@ tags:
 - [[sources/med3-book4-ch06]]
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch08]]
+- [[sources/med4-book1-ch03]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 1. Systemic lupus erythematosus nephritis\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- E. 紅斑性狼瘡引發的腎絲球腎炎 (Glomerulonephritis associated with systemic lupus erythematosus) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...臍帶較晚脱落 | 較常合併風濕 | | | GVHD; | 及 lymphoma, | (Leukocyte adhesion | 免疫疾病: | | | 打完疫苗後造成 | thymoma 機會較 | deficiency),傷口難 | SLE, vasculitis, | | | disseminated BCG | 高;接受活性小兒 | 以癒合 | dermatomyositis, | | | or varicella;嬰兒 | 麻痺疫苗後發生 | | scleroderma, | | | 時期低血鈣造成抽 | paralysis | | glomerulonephritis, | | | 筋(此為 DiGeorge | | | angioedema | | | synd Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- h. Immunologic disorder 免疫學異常: - (a) Anti-dsDNA 陽性或 - (b) Anti-Smith (Anti-Sm) 陽性或 - (c) Anti-phospholipid Antibodies 陽性: - i. Anticardiolipin antibodies 陽性或 - ii. Lupus anticoagulant 陽性或 - iii. False positive serology test for syphilis • Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- j. Malar rash 臉部兩頰紅斑,又稱蝴蝶斑。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 【詳解】有血尿及蛋白尿懷疑有 nephritis,加上關節炎及慢性 systemic 徵兆 (發燒),又是年輕女性,因此首先考慮 SLE,驗 dsDNA 有助診斷。而 systemic inflammation 就有可能造成 pyuria,但為排除泌尿道感染,仍應做小便培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - #### 甲、紅斑性狼瘡 (Systemic lupus erythematosus, SLE) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...|--------------------------|--------------------------------------------------------| | Acute | Acute cutaneous lupus | Malar rash (Nasolabial sparing), Generalized skin rash | | (Severe) | erythematosus (ACLE) | 手指紅疹 (在關節間、與 Gottron's sign 相反,又稱 | | | | reverse Gottron's sign) | | Subacute | Subacute cutaneous lupus | 似乾癬的脫屑紅斑或環形紅疹 (circular red-r Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...----------------------------------------------------| | ANA | 95~99%(+),很 Sensitive,但不 Specific | | | 最佳篩檢工具,重複的陰性反應可排除 SLE | | Anti-ds DNA | 最 Specific,和疾病活動度有關 ( 值愈高疾病愈活躍 ), | | Anti-ds DNA | 可預測腎炎、血管炎 | | Anti-sm | 最 Specific,和疾病活動度無關 | | Anti-Ro (SSA) | 可穿過胎盤,造成胎兒先天性心臟傳導障礙* | | Aliti-Ro (SSA) | 與 Subacute cutaneous lupus erythematosus (S Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

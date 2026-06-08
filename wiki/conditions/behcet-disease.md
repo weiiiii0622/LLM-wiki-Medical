@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch03]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Behcet disease (貝賽特氏症)'
   - 'Behcet disease'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-復發性口腔/生殖器潰瘍、眼炎與血管炎相關疾病。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+復發性口腔/生殖器潰瘍、眼炎與血管炎相關疾病。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med3-book4-ch09]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch03]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- b. 其他原因亦會造成 Budd-Chiari syndrome,如 Behcet syndrome、aspergilosis、inflammatory bowel disease。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- a. Oligoarthritis 預後最好,但較常出現 chronic uveitis(尤其 - a. Serositis: 漿膜炎-肋膜炎或心包膜炎。 - b. Oral ulcers:口腔或鼻咽潰瘍,通常不痛。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - | (A) | 有關貝賽特氏症(Behcet's syndrome)的敘述,下列何者正確? (A)病人常常會反覆口腔與生殖器潰瘍 (B)很少攻擊眼睛 (C)女性病人比男性多,而且病情較嚴重 (D)很少會併發關節痛 | 108(二)專醫三-31 | |-----|------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - 2. 診斷準則: 反覆性疼痛口腔潰瘍加上以下 2 項以上(Arthritis Rheum 1990; 33: 1078.) - (1) 反覆疼痛生殖器潰瘍(Recurrent genital ulcer);梅毒的潰瘍不會痛。 - (2) 眼睛:最常見的是兩側全葡萄膜炎(Panuveitis),其他包括 Iritis、Posterior uveitis、Retinal vasculitis/vessel occlusion、Optic neuritis 等,眼盲是此病最嚴重的併發症。 - (3) 皮膚:結節性紅斑 (Erythema nodosum)、毛囊炎 (psuedofolliculitis)、膿疱 (Pustule)、 丘疹 ( Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (A) 1.32 歲男性病人,因反覆發作葡萄膜炎(uveitis)從眼科轉診過來; 106(-)專 詳細病史,發現其已有一年多常有口腔潰瘍疼痛的病史,且兩下肢 醫三-38 也時常出現有壓痛的皮膚紅疹。但無慢性下背痛的病史,下列那一項檢查,可能具診斷的價值? - (A) pathergy test - (B) Schober test - (C) Schirmer's test - (D) PPD skin test Source: [[sources/med3-book4-ch04|丁、血管炎]].

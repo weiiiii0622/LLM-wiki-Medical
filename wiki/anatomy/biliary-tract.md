@@ -26,6 +26,9 @@ sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch05]]"
+  - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med4-book1-ch06]]"
 aliases:
   - 'Biliary tract (膽道系統)'
   - 'Biliary tract'
@@ -40,7 +43,7 @@ tags:
 
 ## Summary
 
-膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +69,19 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch05]]
+- [[sources/med4-book1-ch02]]
+- [[sources/med4-book1-ch11]]
+- [[sources/med4-book1-ch06]]
 
 ## Key Details From Sources
 
+- VI. 肝膽疾病 79 - A. 肝功能異常 79 - B. 先天性膽道閉鎖 80 - C. 門脈高壓 81 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃炎 | 7. 外傷 | | 3. 骨盆發炎疾病 | 8. 懷孕 | | 4. 消化道潰瘍 | 9. 風濕性疾病 | | 5. 膽囊炎 | 10. 身心症 | | マ・ルラ 孝を少へ | 10. 2 . n./ir | Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 2. Alkaline phosphatase (AP) - (1) Alkaline phosphatase 在許多器官可以被發現,最常見為骨骼、肝臟、小腸以及 胎盤。其常被用來評估肝膽系統疾病或是骨骼相關疾病。 - (2) 當發生 biliary obstruction 或 cholestasis,則 alkaline phosphate 會升高。若是伴隨 direct bilirubin 上升,大大暗示著 biliary obstruction 或 cholestasis。 - (3) 在 Wilson disease 或 hypothyroidism, alkaline phosphatase level 則是會降低的。 - (4) 若是伴隨 γ-GT 的上升,暗示著 al Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (4) 若黃疸持續兩週以上,考慮檢查直接型膽紅素以及評估是否有膽道閉鎖的可能。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- 【詳解】一個月大的嬰兒仍出現黃疸,應該優先考慮代謝問題 或是先天性解剖構造問題(ex:先天性膽道閉鎖),進而安排檢 查,而非單純停止母乳哺餵。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- ...接型膽紅素(unconjugated 105(一)專 bilirubin) 沈積在下列何處? 醫四 -3 (B) 基底核 (A) 腦膜 (D) 腦室旁 (C) 小腦 (B) 7. 下列何者不是造成延遲性黃疸之原因? 104(二)專 (A) 膽道阻塞 醫四-7 (B) 配方奶哺育 (C) 泌尿道感染 (D) 甲狀腺低下症 (B) 8. 一位足月男嬰出生時很順利,但是第三天大時開始出現黃疸,下 104( - )專 列那一項最不可能是此嬰兒的黃疸原因? 醫四 -8 (A) 生理性黃疸 (B) Rh 血型不合 (C) 哺育母乳黃疸 (D) 泌尿道感染 【詳解】第三天開始出現黃疸為生理性黃疸,因此(A)(C)直接 不選。(B)(D) 雖然是病理性黃疸,但是 RH 血型不合產生溶血 引起 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- ...iac disease、short bowel syndrome、cystic fibrosis、inflammatory bowel disease and gastric bypass surgery。 - c. 肝膽相關疾病:如先天性膽道閉鎖。 - d. 腎臟疾病:如 nephrotic syndrome、renal 1-alpha hydroxylase deficiency (造成 1,25(OH)2 D 缺乏,即 vitamin D dependent rickets type I)。 - e. 藥物: anticonvulsants、glucocorticoids、cholestyramine。 - f. 缺乏照射陽光或肥胖。 - (2) End-organ 對 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...Jo-1 | PM (ILD ↑ *) | | | | | | Anti-smooth muscle | Autoimmune hepatitis | | (細胞質 | ) | | Anti-mitochondrion | Primary biliary cirrhosis | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...nt cell arteritis),常與下列何種疾病共同發生? (A) rheumatoid arthritis (B) Sjögren's syndrome (C) polymyalgia rheumatica (D) primary biliary cirrhosis | 104(二)專醫三-35 | Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - ...8 | | (#) | 8. 有關風濕免疫疾病合併眼病變,下列何種組合最正確? (A) 類風濕性關節炎合併葡萄膜炎(uveitis)及全身性紅斑性狼瘡(SLE)合併眼視網膜病變 (B) 類風濕性關節炎合併鞏膜炎(scleritis)及原發性膽道硬化症合併乾燥症(Sjögren's syndrome) (C) 僵直性脊椎炎合併後房葡萄膜炎(posterior uveitis)及 SLE 合併視網膜病變 (D) 乾癬性關節炎合併鞏膜炎及僵直性脊椎炎合併前房葡萄膜炎(anterior uveitis) 【詳解】本題答(B) 或(D) 或(BD) 者均給分。 | 104(一)專醫三-42 | | (D) | 9. 超音波最適合用來診斷下列何種肌肉骨骼疾病? (A) metastati Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
@@ -80,8 +93,6 @@ tags:
 - ...| Drugs | gold, mercury, penicillamine, nonsteroidal anti-inflammatory agents, probenecid | | | | A | SLE, RA, primary biliary cirrhosis, dermatitis herpetiformis, | | | | Autoimmune dz. | bullous pemphigoid, myasthenia gravis, Sjögren's syndrome, Hashimoto's thyroiditis | | | | Other systemic | Fanconi's syndrome, sickle cell anemia, diabetes, Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...-------------------------|---------------|---------------------------------| | 年齡 | 50~70 歲 | | 20~40 歲 | | 來源 | 血流而來 | 膽道往上 | 由結腸經肝門靜脈血行性傳染 | | 危險因子 | 糖尿病 | 膽道阻塞 | 曾旅遊到疫區、喝生水 | | | | | 男性間性行為傳播 | | 致病菌 | K.P. | E. Coli 等混合感染 | E. histolytica (E. dispar 無致病性) | | 病灶數 | 多發性病灶 | (50%) | 典型為單一膿瘍 (80%) | | 診斷 | 超音波、C | Γ | 超音波、CT、IHA > 1:32 | | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - ...-----------------------------------| | PCN | Penicillin G | Renal | Yes (when given in high IV doses) | | | Oxacillin | Biliary | No | | | Ticarcillin | Renal | Yes | | Cefa. | Cefazolin | Renal | Yes | | | Ceftazidime | Renal | Yes | | | Ceftriaxone | Renal/biliary | Modest reduction in severe renal impairment | | | Cefepime | Renal | Yes | | G Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- 1. 梨形鞭毛蟲 (Giardia lamblia) (超超超愛考,務必記熟此蟲!!) - (1) 生活史: - a. 營養體:有兩個核,四對鞭毛,成梨型,行落葉般運動。 - b. 囊體:有四個核,為感染型。環境變差時,營養體會變成囊體。 - (2) 寄生在十二指腸,使得吸收不佳,引起脂肪便、低蛋白血症、膽囊炎。 - (3) 因喝被污染的水、親密接觸而傳染。 - (4) 治療: Metronidazole 針對營養體; paromomycin, iodoquinol 針對 cyst。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
-- ...| | 急性病毒性 | 具有急性肝炎之症狀 (如黃疸、茶色尿、疲倦、腹痛、胃口差、噁心、嘔吐) | 1 週內 | | 肝炎未定型 | 及血清轉胺酶值上升 2.5 倍以上,排除藥物、中毒性肝炎、自體免疫性肝炎、 | | | | 酒精性肝炎、膽道疾病、心血管疾病(如鬱血性心衰竭、休克等),血清學 | | | | 標記 (IgM Anti -HAV、HBsAg、IgM Anti -HBc、Anti -HCV、Anti -HEV) 檢 | | | | 驗項目為陰性。(E 型肝炎檢驗,送疾病管制局確認 )。 | | | 思腺炎 | 符合臨床表徵或實驗室診斷者,即可進行通報: | 1 週內 | | | 一、臨床表徵:出現急性單或雙側腮腺或其他唾液腺疼痛、自限性腫脹持續 | - ~31 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

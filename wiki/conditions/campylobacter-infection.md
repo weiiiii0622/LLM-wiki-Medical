@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book4-ch05]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Campylobacter infection (空腸彎曲桿菌感染)'
   - 'Campylobacter infection'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-常見細菌性腸炎原因，可與 Guillain-Barre syndrome 相關。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見細菌性腸炎原因，可與 Guillain-Barre syndrome 相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book4-ch05]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...emolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫過低、生命跡象不穩的病童,發展為毒性巨結腸症的病童,以及免疫功能有 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (B) Campylobacter- immunoglobulin A (IgA) nephropathy Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- ...e arthritis · | | | | | | arthritis (usually 2-5 weeks after enteritis) · | | | | | | cystitis and vaginitis. | | | | | Campylobacter | Meningitis · pneumonia · thrombophlebitis · | | | | | | pancreatitis · cholecystitis · urinary | | | | | | tract infection , arthritis , peritonitis , | | | | | | myocarditis · pericarditis · and endocarditis. | | | | Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) 通常發生在感染 1~4 週後,如腸胃道的 Yersinia, Shigella, Salmonella, Yersinia Campylobacter species 感染,或生殖道的 *Chlamydia trachomatis、Ureaplasma urealyticum* 感染等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - ...lla, Salmonella, Shigella | | | | | 彎 弧菌 | Vibrio | V. cholera, V. parahaemolyticus, V. vulnificus | ndv 🛧 | | | 腸道 | 桿 空腸彎曲桿菌 | Campylobacter | C. jejuni | 嗜 章* | | | 桿菌 | 菌幽門螺旋桿菌 | Helicobacter | H. pylori | 1" | | | | 假單胞菌 | Pseudomonas | P. aeruginosa | | | 桿菌(D) | | 類桿菌 | Bacteroid | B. fragilis | 厭氧 | | | 呼吸道桿菌 | 嗜血桿菌 | Haemophilus | H. i Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...pseudomallei | 兼性厭氧 | | | | | 彎 | 弧菌 | Vibrio | V. cholera, V. parahaemolyticus,V. vulnificus | 兼性厭氧 | | | | 腸道桿菌 | 桿 | 空腸彎曲桿菌 | Campylobacter | C. jejuni | 微須氧 | | | | | 菌 | 幽門螺旋桿菌 | Helicobacter | H. pylori | 1成須羊 | | | | | tiel - | | Estarabastaria ana | Escherichia, Klebsiella, | 兼性厭氧 | | | 桿 | | 腸內菌 * | | Enterobacteriaceae | Salmonella, S Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

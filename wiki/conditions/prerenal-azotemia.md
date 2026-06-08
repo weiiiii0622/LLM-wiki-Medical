@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'Prerenal azotemia (腎前性氮血症)'
   - 'Prerenal azotemia'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-腎灌流不足造成腎功能下降，早期可逆但可進展為 ATN。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎灌流不足造成腎功能下降，早期可逆但可進展為 ATN。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch03]]
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch04]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- 2. 病因:由致病原因可分為腎前性、腎因性、腎後性。腎前性與腎後性都是腎外病因,若無法及早辨識並治療的話最終將會進展為腎因性。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- (3) 利用尿液分析可區別 pre-renal 與 intrinsic renal ARF: - a. Pre-renal ARF : gravity > 1.020 · elevated urine osmolality (Uosm > 500 mOsm/kg) · low urine sodium (UNa Uosm ) $\cdot$ high urine sodium ( UNa > 40 mEq/L ) , and FENa > 2% ° Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...)為 42 mg/dL,血 清肌酐酸值為 1.8 mg/dL, 尿液中之蛋白為 300 mg/dL, 尿液的 比重(specific gravity)升高,尿液的鈉離子排出率(fractional excretion of sodium; FENa) 小於 1%。下列何者為最可能之診斷? - (A) 急性腎絲球腎炎 (acute glomerulonephritis) 合併急性腎衰竭 - (B) 急性腎小管壞死 (acute tubular necrosis) 合併急性腎衰竭 - (C) 急性腎間質腎炎 (acute interstitial nephritis) 合併急性腎衰竭 - (D) 低血容(hypovolemia) 合併急性腎衰竭 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - b. 驗 Spot urine 算 FeNa 的值 Na /F Cr ) | 一 再合以 い 校正 | FENa > 1表示鈉由腎臟漏出→內因性腎臟衰竭 | | | атат у | 尿鉀占血鉀的比例 | 低血鉀中 | | TTKG | $\frac{(U_K/U_{osm})}{(D_K/D_{osm})}$ | | TTKG > 7表鉀由腎臟漏出 | | | $(P_K/P_{osm})$ | 再各以 OSM 校正 | TTKG 1%(尿鈉高),表示尿鈉無法由腎臟回收,可知腎 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - #### Prerenal azotemia Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 1. 腎前性腎衰竭: 保持適當體液容積和血壓 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].

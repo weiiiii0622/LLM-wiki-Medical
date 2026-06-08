@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch10]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Metronidazole (甲硝唑)'
   - 'Metronidazole'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch21]]
 - [[sources/med3-book3-ch10]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...ducing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- (D) 可給 ceftriaxone、metronidazole、 amikacin 等抗生素 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...Fortum®)可對抗綠膿桿菌,針對院內感染可使用;Ceftriaxone(Rocephin®)可穿透血腦障壁(Blood brain barrier),可用於治療腦膜炎,還可用於治療 Urosepsis、Pneumonia、腹內感染(與 Metronidazole 併用)、淋病(Gonorrhea)。但對會產生 AmpC β-lactamase 格蘭氏陰性菌無效。 - (4) 第四代最廣效,可對抗會產生 AmpC β-lactamase 格蘭氏陰性菌,用於嗜中性球低下病患發燒(Neutropenic fever)或院內感染的經驗性抗生素。其中 Ceftaroline 及 Ceftobiprole 因具有抗 MRSA 能力,又被稱為第五代 cephalosporin。Ceftobiprole 同時 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (1) Clindamycin: - a. 抗菌範圍類似 Erythromycin,可抗 GPC - b. 還能抗厭氧菌,對膿瘍有不錯的穿透力,可治療咽喉附近的膿瘍(橫膈上);對 *Bacteroid fragilis* 效果不可信,因此腹腔內的膿瘍仍建議使用 Metronidazole(橫膈下)。 - c. 合併其他藥物治療嚴重的Streptococcal, clostridial 感染,可抑制其釋放出來的毒素。 - d. 會破壞大腸內正常菌群,使 Clostridium difficile 增生,引起偽膜性大腸炎 (Pseudomembranous colitis),須以口服 Metronidazole 或 Vancomycin 治療。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (1) 第二代的 Ciprofloxacin 對於 G(-) 甚至是綠膿桿菌的殺菌效果好,可用於院內感染; 也涵蓋 G(-) 胞內兼性細菌,如沙門桿菌(Salmonella),可用於感染性腹瀉;對於腎臟、前列腺穿透力佳,可用於泌尿道感染。對厭氧菌效果差,但可與 Metronidazole 合併,治療腹內感染。對 GPC 效果差,不宜單獨用來治療社區型肺炎、軟組織感染。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

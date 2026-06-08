@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch05]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Psoriatic arthritis (乾癬性關節炎)'
   - 'Psoriatic arthritis'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-乾癬相關發炎性關節炎，可有指趾炎、附著點炎與脊椎侵犯。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乾癬相關發炎性關節炎，可有指趾炎、附著點炎與脊椎侵犯。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch05]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...F) 陰性。 - d. Polyarthritis(RF positive):發病後 6 個月內有 $\geq$ 5 個關節受到影響,且RF $\geq$ 2 次測到陽性(兩次需間隔 3 個月以上,且皆需在發病後 6 個月內)。 - e. Psoriatic arthritis: 關節炎加上乾癬, 或關節炎加上以下至少兩項: - (a) Dactylitis (指/趾炎)。 - (b) Nail pitting and onycholysis • - (c) 直系血親有乾癬病史。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 2. 週邊關節侵犯: - (1) **著骨點炎(Enthesitis)**: 肌腱接觸骨頭附近區域稱為著骨點,最容易造成接骨點病變的位置,包括跟腱肌腱炎(Achilles tendinitis)、足底筋膜炎(Plantar fasciitis)。 - (2) 指炎(Dactylitis):關節脹之外,附近前後的腱鞘膜也發炎腫脹,整個形狀像香腸的樣子,像似香腸指(sausage appearance)。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - C. **其包含四種疾病**: 僵直性脊椎炎(AS)、反應性關節炎(ReA)、乾癬性關節炎(PsA)、發炎性腸炎相關之關節炎等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - (2) 關節周邊表現:著骨點炎 (Enthesitis),如跟腱 肌腱炎 (Achilles tendinitis)、足底筋膜炎 (Plantar fasciitis);指炎 (Dactylitis) 像似香腸指 (sausage appearance)等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].

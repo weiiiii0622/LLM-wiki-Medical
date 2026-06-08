@@ -21,6 +21,9 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med3-book4-ch27]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Asthma (氣喘)'
   - 'Asthma'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,17 @@ tags:
 - [[sources/med3-book4-ch28]]
 - [[sources/med3-book4-ch25]]
 - [[sources/med3-book4-ch27]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- 1. 致病機轉:氣喘致病機轉很複雜,致病機轉可有好幾種,但仍以過敏機轉為常見大宗,因此以下機轉介紹就以過敏機轉為主:呼吸道過度敏感、慢性發炎、造成呼吸道的收縮與阻塞。當過敏原(空氣汙染物、塵螨或是病毒)與呼吸道表皮細胞接觸時,表皮細胞構成的物理障蔽發生改變,造成原先障壁結構鬆散,因此過敏原容易通過表皮障壁結構與在表皮障蔽下的樹突細胞(dendric cells)結合。與過敏原相結合的樹突細胞變成抗原呈現細胞刺激 Th0 naïve T cells 使其分化為 Th2 cells。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...ate lymphoid cells。Type 2 innate lymphoid cells 也會分泌 IL-4、IL-5 以及 IL-13,除了 刺激 eosinophil 製造 IgE 外,也會促進 Th2 cells 的分化。因此,氣喘發生機轉跟過 去觀念不一樣的地方在於支氣管表皮細胞不僅只限於物理障蔽而已,表皮細胞也參 與了一系列 cytokines 的表現。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 依照 airway inflammation phenotype,可將 asthma 分類以下型式: Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- 情況: 一位有氣喘病史的4歲男童,有3天的發燒、咳嗽、流鼻水症狀,因為突然發生呼吸急促與左側胸痛前來就診,胸部X光如圖所示。住院隔日血液培養出革蘭氏陰性細菌。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (2) 母親若有氣喘、糖尿病,則新生兒發生機率提高。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - | 疾病 | 物質 | |-------|-------------------| | 氣喘 | 二異氰酸類、甲醛、環氧樹酯 | | 腎臟疾病 | 四氯化碳、乙二醇、甲醇、鉛、汞、鉻 | | 肝臟疾病 | 二甲基甲醯胺、四氯化碳、砷 | | 血液疾病 | 苯、硝基苯、硝化甘油 | | 心血管疾病 | 二硫化碳、硝化甘油、砷 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...-----------------------------------------------------|------------------| | (B) 26 | . 下列何者在老年病患最不常見? (A) 骨折 (B) 支氣管哮喘 (bronchial asthma) (C) 憂鬱 (D) 尿失禁 【詳解】(B) 骨折是間接因跌倒而產生的疾病。老年人常見的呼吸道疾病應該是以肺部感染為大宗。 | 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 22 mg/dL (B) 85 mg/dL Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - (4) 診斷準則:符合 4 項以上(Arthritis Rheum 33: 1094, 1990)[不用死記,供加強疾病概念] - a. 氣喘 (Asthma): 有 wheezing 或 diffuse high-pitched expiratory rhonchi 的病史 - b. 嗜酸性球增加:嗜酸性球>10% 血中白血球 - c. 單一或多發神經病變 - d. 肺部浸潤:血管炎導致的 Migratory or transitory pulmonary infiltrates (not including fixed infiltrates) - e. 副鼻竇異常:疼痛或影像學有鼻竇異常 - f. 切片顯示血管外有嗜酸性球浸潤 (Extravascular eosinophils) Source: [[sources/med3-book4-ch04|丁、血管炎]].
@@ -72,11 +83,6 @@ tags:
 - ...c syndrome r/o Minimal change disease (MCD),最後當然需要腎臟切片來證實病患是由 MCD 造成的 Nephrotic syndrome。 - b. 例如病人來急診,主訴這幾個禮拜水腫、血壓高、咳血、氣喘發作,小便驗起來有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9,無糖尿病、高血壓,我們可懷疑為 ESRD due to CGN。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - | 疾病 | 腎臟 | 肺部 | 肉芽腫 | 氣喘 | ANCA 類型 | ANCA(+) | |--------------------------|--------|-----------|-----------|---------|-------------------|---------| | Wegener's granulomatosis | 80% | 90% | + | - | c-ANCA (anti-PR3) | 90% | | Microscopic polyan Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (B) 1. 下列那些藥物可能會加重逆流性食道炎(reflux esophagitis)? 105(ー)専 ①降血脂藥(HMG-CoA reductase inhibitor) ②高血壓用藥(calcium channel blocker) ③氣喘用藥(theophylline) ④抗過敏薬物(antihistamine) - (A) (1)(2)(3) - (B) 僅②③ - (C) (3)(4) - (D) (1)(2)(4) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- | (C) | 一位 66 歲男性高血壓病人,有 30 年抽菸史,年輕時有氣喘病史,最近發現有糖尿病,醫師建議加入「全民健康保險糖尿病共同照護網」。下列糖尿病照護的管理流程,那一項錯誤? (A)每三個月檢查糖化血色素 (B)每年檢查眼底視網膜病變 (C)每年周邊動脈硬化檢查 (D)需要時安排足底神經學檢查 | 107(一)專醫三 -66 | |-----|-------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- A. 氣喘和慢性阻塞性肺疾比較 242 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- #### A. 氣喘 (Asthma) 和慢性阻塞性肺疾 (COPD) 比較 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- | 疾病 | 氣喘 (Asthma) | 慢性阻塞性肺疾 (COPD) | |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------ Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- (C) 10. 一位 68 歲男性,罹患慢性阻塞性肺疾多年,近日咳嗽及呼吸困難加 劇前往急診處就醫。身體診查發現患者意識清楚,呼吸急促,及胸 部聽診有呼氣喘鳴聲。胸部 X 光片沒有肺炎之現象,其呼吸空氣時 動脈血液氣體分析顯示 pH 7.274, PaCO2 78 mmHg, PaO2 40 mmHg, HCO3- 36 mEq/L, BE +9 mEq/L。給予氧氣後,下列何者為最優先 且適當之處置? Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 
 ## Clinical Caveats
 

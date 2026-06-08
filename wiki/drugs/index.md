@@ -77,9 +77,11 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/nsaids|NSAIDs (非類固醇消炎藥)]] - 抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。
 - [[drugs/omalizumab|Omalizumab (抗 IgE 單株抗體)]] - 嚴重 allergic eosinophilic asthma 可考慮。
 - [[drugs/p2y12-inhibitors|P2Y12 inhibitors (P2Y12 抑制劑)]] - ACS 或 PCI 後常與 aspirin 合併。
+- [[drugs/palivizumab|Palivizumab (RSV 單株抗體預防)]] - 高風險早產兒或特定心肺疾病嬰兒可用於 RSV 預防；適應症需依當地政策更新。
 - [[drugs/penicillins|Penicillins (青黴素類)]] - beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。
 - [[drugs/platinum-agents|Platinum agents (鉑類化療藥)]] - 鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。
 - [[drugs/prokinetic-agents|Prokinetic agents (促腸胃蠕動藥)]] - 促進胃腸蠕動或提高 LES 壓力，部分用於 GERD 或胃排空問題。
+- [[drugs/prostaglandin-e1|Prostaglandin E1, PGE1 (前列腺素 E1)]] - 用於維持 PDA 開放以穩定 ductal-dependent congenital heart disease。
 - [[drugs/proton-pump-inhibitors|Proton pump inhibitors, PPI (質子幫浦抑制劑)]] - 抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。
 - [[drugs/rifaximin|Rifaximin (利福昔明)]] - 降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。
 - [[drugs/saba|SABA (短效乙二型交感神經刺激劑)]] - 快速緩解支氣管收縮，但氣喘不宜只依賴 SABA。

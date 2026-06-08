@@ -21,6 +21,7 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med4-book1-ch03]]"
 aliases:
   - 'ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)'
   - 'ACE inhibitors, ACEI'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book4-ch03]]
 - [[sources/med3-book4-ch07]]
+- [[sources/med4-book1-ch03]]
 
 ## Key Details From Sources
 
+- (3) ACEI或 ARB 類藥物對於蛋白尿的治療與預防腎臟惡化現今仍持保留的態度。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...| | | b. Physical: dermographism, cold, solar | | | c. Autoimmune | | 2. Bradykinin-mediated | Hereditary angioedema · ACEI | | 3. Complement-mediated | Necrotizing vasculitis · Serum sickness · Reactions to blood products | | Nonimmunologic (pseudoallergy, anaphylactoid | a. Direct mast cell - releasing agents (opiates, antibiotics, curare, Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...ludrocortisone 後 TTKG > 10。 - ① Renin 低:考慮因使用 NSAID、β-blockers 抑制 Renin 分泌造成的,糖尿病腎病變也會有 Renin 低的現象。 - ② Renin 偏高: 考慮因使用 ACEI 抑制 Angiotensin 往下轉換成 Aldosterone 造成的,或是腎上腺本身無法分泌 Aldosterone 造成的。 - (ii) Aldosterone 正常或給予 Fludrocortisone 後 TTKG 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease Source: [[sources/med3-book3-ch02|乙、離子平衡]].

@@ -9,6 +9,9 @@ sources:
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch04]]"
+  - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med4-book1-ch02]]"
 aliases:
   - 'Type 2 diabetes mellitus (第 2 型糖尿病)'
   - 'Type 2 diabetes mellitus'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-胰島素阻抗與 β cell 功能下降造成慢性高血糖。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素阻抗與 β cell 功能下降造成慢性高血糖。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,16 @@ tags:
 - [[sources/med3-book2-ch13]]
 - [[sources/med3-book3-ch19]]
 - [[sources/med3-book3-ch04]]
+- [[sources/med4-book1-ch10]]
+- [[sources/med4-book1-ch06]]
+- [[sources/med4-book1-ch02]]
 
 ## Key Details From Sources
 
+- Type 2 diabetes mellitus (insulin resistance) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- #### 2. Type 2 diabetes mellitus: Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (2) 臨床表現: type 2 diabetes mellitus 血糖上升值不若 type 1 diabetes mellitus 嚴重,故從病發到診斷所需時間較長。病人亦會發生糖尿病酮酸中毒,但大部分為酮尿(ketonuria)。另外,病人頸部或腋下會有黑色棘皮症(acanthosis nigricans),此為對胰島素產生抗性在皮膚的表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (A) 胰島素抗性 (insulin resistance) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...(APV), Daru navir (DRV), | CYP450 inh. | | Protease inh.(PI) | 抑制病毒處理轉錄出的蛋白 | Fosampre navir (FPV), Lopi navir (LPV) | T2DM | | | 中等政(山口)虫 口 | Rito navir (RTV), Nelfi navir (NFV), | Hyperlipidemia | | | | Saqui navir (SQV), Tipra navir (TPV), | | | HIV entry inh. | 防止病毒進入 | Enfuvirtide (T-20, Fusion inhibitor) | Inj. site Rxn. | | m v endy m Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - ...yme inhibitors 的腎臟保護作用,下列何者錯誤? (A) 可以降低血壓 (B) 可以降低蛋白尿 (C) 可以增加腎絲球過濾速率 (D) 可以降低出球小動脈的壓力 | 105(一)專醫三-37 | | (C) | 6. 下列何項是第 2 型糖尿病腎病變最早期的臨床表現? (A) 尿液白蛋白排泄量&gt; 30 mg/day (B) 血清肌酸酐(creatinine)&gt; 1.2 mg/dL (C) 腎絲球過濾率&gt; 120 mL/min (D) 血壓&gt; 130/80 mmHg | 103(一)專醫三-37 | | (C) | 7. 一位 65 歲病人最近一個月疲倦、走路呼吸急促。十年前診斷腎病症候群,給予類固醇治療效果不彰。他的血清肌酸酐五年前為 2.8 mg/d Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].

@@ -10,6 +10,8 @@ sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book4-ch25]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch11]]"
 aliases:
   - 'Theophylline (茶鹼)'
   - 'Theophylline'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-氣喘輔助治療但治療窗窄，可造成心律不整或癲癇。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘輔助治療但治療窗窄，可造成心律不整或癲癇。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book4-ch25]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch11]]
 
 ## Key Details From Sources
 
+- (6) 茶鹼(Theophylline): 具支氣管擴張及抗發炎作用。安全的治療性藥物濃度範圍小,需要定期檢驗藥 物濃度。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (B) 緩釋型茶鹼(theophylline)也可作為氣喘控制藥物 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (D) 口服緩釋型茶鹼(sustained release theophylline) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- (2) 除了給予氧氣或 CPAP (continuous positive airway pressure) 外,對於發生呼吸暫停但病人本身沒有 precipitating identifiable cause 可以給予 theophylline 或 caffeine 治療。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 吸煙會減緩 theophylline、propranolol、oxazepam 等藥之代謝速率,吸煙者使用此等藥物官減量 Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - ...。 | | | (D) | 15. | 有關抗菌藥物與其他藥物併用錯誤? | 可能發生交互影響之敘述,下列何者 | 95(二)專內 1-42 | | | | (A) Erythromycin 與 theophyllin | e 併用會增加 theophylline 毒性 | | | | | , , , , , , , , , , , , , , , , , , , , | A | | | | | | zole 與 digoxin 併 用 可 能 會 發 生 | | | | | digoxin 毒性反應 | | | | | | | Ħ會增強 fluoroquinolone 藥效 | | | | | 【詳解】(D) Fluoroquinolone 身 | 與制酸劑併用會減弱 fluoroquinol Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...| | LES | Serotonin, | α-blocker | Diazepam, Demerol, Viagra | Ethanol, | | 壓力 | Glucagon, VIP, | β-agonist | Morphine, Theophylline | Peppermint, | | | Somatostatin, | | Dopamine, Barbiturate | Caffeine, tobacco | Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].

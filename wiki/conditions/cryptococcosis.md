@@ -9,6 +9,8 @@ sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch04]]"
 aliases:
   - 'Cryptococcosis (隱球菌感染)'
   - 'Cryptococcosis'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成肺部感染與 cryptococcal meningitis。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成肺部感染與 cryptococcal meningitis。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,14 @@ tags:
 - [[sources/med3-book3-ch09]]
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch21]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch04]]
 
 ## Key Details From Sources
 
+- (B) 2. 9個月大的男嬰高燒 5 天,今天早上開始呈現嗜睡狀態,晚上因全身僵直陣攣性發作(Generalized tonic clonic seizure) 5 分鐘被送來急診。在加護病房做了脊髓穿刺檢查,腦脊髓液報告顯示WBC 10,000/μL (90% PMNs 和 10% Lymphocyte), Protein 380 mg/dL, Glucose 5 mg/dL。下列何者為最可能的致病原? - (A) 單純疱疹病毒第一型 (HSV type 1) - (B) 肺炎鏈球菌(Streptococcus pneumoniae) - (C) 腸病毒 (Enterovirus) - (D) 新型隱球菌 (Cryptococcus neoformans) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- PS: 黴菌引起的中樞神經感染,其 CSF 中白血球分類上以monocyte 為主(若在感染初期做腰椎穿刺檢查,仍有可能以PMN 為主要表現。此外,隱球菌感染中樞神經,其 CSF 檢查白血球計數也有可能是在正常範圍)。再者,臨床上新型隱球菌感染影響到中樞神經時,發生在 subacute or chronic infection。若以臨床病程時間來看,(B)的機會最大。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- (D) 1. 一位 5 歲大的男孩被發現有持續 2 週的右側腋窩淋巴腺腫脹,腫 104( ) 專 脹的淋巴腺只有輕微壓痛,且無明顯發燒病史。病患的右手臂上 醫四-5 有被抓傷的痕跡,病患無結核病家族史或接觸史,皮膚結核菌素 測驗為陰性反應。此童的淋巴腺病理切片以那一種染色方法,最 有可能看到病原體? - (A) 抗酸性染色法(acid-fast stain) - (B) 格蘭氏染色法(Gram stain) - (C) 印度墨汁染色法(India ink) - (D) Warthin-Starry stain Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) 次級預防 (Primary prevention): 感染過,給藥預防再次感染,需要給藥的時間較一般人久,例如 cryptococcus、CMV。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - \*Cry m., Can e. = Cryptococcal meningitis, Candida esophagitis Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - #### (3) 隱球菌感染 (Cryptococcus neoformans): Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].

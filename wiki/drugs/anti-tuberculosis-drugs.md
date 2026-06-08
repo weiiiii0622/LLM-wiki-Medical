@@ -23,6 +23,9 @@ sources:
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med3-book4-ch08]]"
   - "[[sources/med3-book4-ch20]]"
+  - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med4-book1-ch07]]"
 aliases:
   - 'Anti-tuberculosis drugs (抗結核藥物)'
   - 'Anti-tuberculosis drugs'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-結核病治療核心藥物組合，需注意副作用與療程。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+結核病治療核心藥物組合，需注意副作用與療程。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,15 @@ tags:
 - [[sources/med3-book4-ch12]]
 - [[sources/med3-book4-ch08]]
 - [[sources/med3-book4-ch20]]
+- [[sources/med4-book1-ch04]]
+- [[sources/med4-book1-ch05]]
+- [[sources/med4-book1-ch07]]
 
 ## Key Details From Sources
 
+- 2. 病人狀況嚴重時,可用 Azithromycin 治療。但若肝脾受到侵犯時,可用 rifampin 治療(a dose of 20 mg/kg for 14 days)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- (2) Hib 及腦膜炎鏈球菌感染病人,醫護人員或家屬須服用 Rifampin 預防。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - | 可誘導 CYP3A4 | Barbiturate, Phenobarbital (抗癲癇藥) | Rifampin ( 抗生素 ) | |------------|-----------------------------------------------------|-----------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - | 可誘導 CYP3A4 | Barbiturate, Phenobarbital (抗癲癇藥) | Rifampin (抗生素) | |------------|-----------------------------------------|--------------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - (A) 4. 一位罹患深部靜脈血栓已接受口服 warfarin 治療二個月的患者,INR 102( ) 專 (international normalized ratio) 正控制在理想的範圍時,若再合併 醫三-45 使用下列何種藥物,可能會減弱 warfarin 的藥效? - (A) Rifampin Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].

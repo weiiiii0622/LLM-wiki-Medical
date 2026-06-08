@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med4-book1-ch08]]"
 aliases:
   - 'Methotrexate, MTX (甲氨蝶呤)'
   - 'Methotrexate, MTX'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch01]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med4-book1-ch07]]
+- [[sources/med4-book1-ch08]]
 
 ## Key Details From Sources
 
+- (4) 治療:以類固醇為主要治療方式。若效果不佳,可以考慮脈衝治療。有時可以 考慮免疫抑制劑 azathioprine、hydroxycloroquine、cyclosporine 或是 methotrexate 合併治療。若效果不好的話考慮 IVIG。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- | DMARD | 作用機轉 | 常用於何種疾病 | |--------------------|------------------------------|----------------------------| | Methotrexate | 抑制 dihydrofolate reductase → | 多種風濕疾病都可使用,如 | | | 抑制 purine 生成→抑制發炎 | JRA, SLE, dermatomyositis… | | Etanercept | Anti-TNF-α | JRA | | Hydroxychloroquine | 原為抗瘧疾藥,在風濕性疾病 | SLE, dermatomyositis 的皮膚 | | | 治療的機轉不明 | 病灶 | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- | | Vit B deficiency | Folic acid deficiency | |----------------------|---------------------|-----------------------| | 原因 | (1) 惡性貧血 | (1) 懷孕期間葉酸補充 | | | (2) Crohn's disease | (2) 使用 MTX | | | | (3)慢性溶血 | | | | (4) 酒精 | | Megaloblastic anemia | 是 | 是 | | 神經學症狀 | 舌炎、震動覺跟姿勢覺下降 | 無 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...n →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecitabine (Xeloda)→乳癌,大腸癌 | 手足症候群 (Hand an Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (2) 抑制二氫葉酸還原成四氫葉酸作用: - a. Methotrexate (MTX) →血癌 (ALL) - (a) 高劑量 MTX 會產生嚴重的骨髓抑制、黏膜破損,因此注射後 12 小時會給予 Leucovorin(Folinic acid = 擬葉酸劑)來拯救正常骨髓及黏膜細胞,減少毒性。Folinic acid 不需要 Dihydrofolate reductase,就可以一直當作 Thymidylate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - | 比較化藥配方 | Folinic acid (Leucovorin) 目的 | |----------------------------------|-------------------------------| | MTX + Folinic acid (Leucovorin) | 拯救 (Rescue) 毒性 | | 5-FU + Folinic acid (Leucovorin) | 加強 (Synergistic effect) 殺腫瘤效果 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
