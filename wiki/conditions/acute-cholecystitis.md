@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book2-ch19]]"
   - "[[sources/med3-book2-ch03]]"
   - "[[sources/med3-book2-ch25]]"
+  - "[[sources/med5-book1-ch01]]"
 aliases:
   - 'Acute cholecystitis (急性膽囊炎)'
   - 'Acute cholecystitis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-膽囊管阻塞後發炎，典型有右上腹痛與 Murphy sign。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊管阻塞後發炎，典型有右上腹痛與 Murphy sign。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book2-ch19]]
 - [[sources/med3-book2-ch03]]
 - [[sources/med3-book2-ch25]]
+- [[sources/med5-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...yndrome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition) Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - #### B. 急性膽囊炎 (Acute cholecystitis) Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
 - 2. 症狀:右上腹痛,通常大於 4 小時;有 Murphy's sign,即吸氣到一半會因發炎的膽囊刺激到橫膈膜而停止呼吸。 Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
 - ...觀察,不必治療 (B) 口服 Ursodeoxycholic acid (C) shock wave lithotripsy (D) laparoscopic cholecystectomy 【詳解】有症狀的膽結石可考慮開刀治療,不然兩年內急性膽囊炎機率可達 30%。 | 97(一)專醫三-15 | Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].

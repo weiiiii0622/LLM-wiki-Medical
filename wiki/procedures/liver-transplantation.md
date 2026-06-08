@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Liver transplantation (肝臟移植)'
   - 'Liver transplantation'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-末期肝病、部分 HCC 或肝衰竭的根本治療選項。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+末期肝病、部分 HCC 或肝衰竭的根本治療選項。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ tags:
 - [[sources/med3-book2-ch17]]
 - [[sources/med3-book2-ch23]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (4) 成年人捐贈部分肝臟移植於其五親等以內之姻親,或滿十八歲之未成年人捐贈部分肝臟移植於其五親等以內之親屬,則不受「需為成年人」及「移植對象」之限制。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 4. 併發症:除了前述之併發症外,肝臟移植要特別注意的是肝動脈栓塞、門靜脈栓塞、膽管狹窄或 leakage、膽管炎等。另外排斥的比例較高,高峰期是術後 4~21 天,確診須靠切片,治療以類固醇為主。而有 B 型肝炎帶原者之肝臟移植病患,需術後連續施打七天 HBIG,降低 B 型肝炎的復發率,之後一週一次 / 打四個 Course,一月一次 / 打六個 Course。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...amycin) 和 Cyclosporine 都屬於 Calcineurin inhibitors (D) Tacrolimus 和 Cyclosporine 都是常用於腎臟移植術後的藥物, 但是同時也具有腎毒性的副作用 (D) 7. 有關肝臟移植的適應症,下列何者錯誤? 102(一)專 (A) Primary sclerosing cholangitis 醫五-9 (B) Failure of a previous liver graft (C) Alagille's syndrome (D) Colon cancer with liver metastases (AC) 8. 目前器官移植後,常用的藥物為 Tacrolimus (又稱 FK-506 或 101(二)專 Pro Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (B) 21. 關於個人行為與醫療資源分配之關係,下列何者並非臺灣現行之 102(ニ)専規定?器エ-78 - (A) 因為酒癮者必須為其過度飲酒負責,臺灣全民健康保險不給 付酒癮勒戒之治療 - (B) 因為酒癮患者必須為其過度飲酒行為導致末期肝衰竭負責, 若需接受肝臟移植時,其參與分配順位應為末位 - (C) 因為全民健康保險之目的在於恢復或保持健康,不在於協助 人尋求完美,所以全民健康保險不給付美容外科手術 - (D) 即使自殺者吞服農藥企圖自殺乃是自己的行為,全民健康保 險仍給付因自殺行為所產生傷害之醫療費用 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 6. 治療:以葛西式肝門空腸吻合術(Kasai hepatic portojejunostomy)治療(又稱 Hepatoportoenterostomy procedure)治療。 - (1) 葛西式手術成功率與手術時年紀有關,若小於 60 天成功率可達 80%,但是大於 90 天成功率僅有 20%。 - (2) 顯微鏡下小膽管管徑大於 150 µm。 - (3) 葛西式手術只是治標,治本方式為肝臟移植。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) Curative (治癒性): - a. 手術切除:太大、太多顆、Child C、侵犯 hepatic trunk 或 IVC 的 HCC 無法手術 - b. 肝臟移植:同時有肝硬化及肝腫瘤者,可考慮移植同時解決兩個問題,亦為一根治方法,但須符合移植適應症,且捐贈器官來源少,較不易進行。需符合肝臟移植米蘭準則(Milan Criteria)才會有較好的移植預後:①不能有血管侵犯;②單顆HCC ®): 抑制 RAS、RAF 等生長因子接受器的 Secondary messenger,稱做 Multitargeted tyrosine kinase inhibitor; 早期用於治療 RCC,已核准用於 HCC;若有併發症(最常見:Hand-foot Skin Reaction)可減藥或須停藥。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 - (D) Orthotopic liver transplantation Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
@@ -48,7 +56,9 @@ tags:
 
 ## Related Pages
 
+- [[conditions/hepatocellular-carcinoma|Hepatocellular carcinoma, HCC (肝細胞癌)]]
 - [[conditions/liver-cirrhosis|Liver cirrhosis (肝硬化)]]
+- [[concepts/organ-transplantation|Organ transplantation (器官移植)]]
 
 ## Follow-up
 

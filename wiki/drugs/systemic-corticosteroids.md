@@ -29,6 +29,8 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Systemic corticosteroids (全身性類固醇)'
   - 'Systemic corticosteroids'
@@ -43,7 +45,7 @@ tags:
 
 ## Summary
 
-氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +74,17 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (1) 於 spinal cord injury 後 8 小時內給予高劑量的類固醇 (methylprednisolone) 可以改善預後,但現今認為此說具爭議,臨床上已不建議使用。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (C) 使用的藥物是 methylprednisolone Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- 【詳解】根據 National Acute Spinal Cord Injury Study (NASCIS)、 NASCIS II、NASCIS III的研究結果, Spinal injury後8小時內 使用高劑量 methylprednisolone 有助於改善 neurologic outcome, 劑量為先給予30 mg/kg的 bolus,之後5.4 mg/kg/hour 靜脈滴 注 23 小時。而給予如此高劑量類固醇,需注意其副作用,例如 infection 或 avascular necrosis。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- 1. Prednisolone: 具有抗發炎和免疫抑制的作用,抑制 macrophage,降低 IL-1,2,6 和 TNF 的分泌。副作用有水牛肩、月亮臉、骨質疏鬆、肌肉無力、高血壓、高血糖、感染、消化道潰瘍,少數人會白內障或青光眼。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (A) Prednisolone 屬於 adrenal corticosteroid 類,長期使用會有高血壓(hypertension)與低血糖(hypoglycemia)之副作用 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (D) Cyclosporine 無 myelosuppression 的副作用,常與 prednisolone 併用,以減少 cyclosporine 所引起之腎毒性 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (B) 9. 有關視神經脊髓炎 (neuromyelitis optica, NMO) 和多發性硬化症 104(一)專 (multiple sclerosis, MS)的比較,下列敘述何者錯誤? - (A) NMO 對於脊髓的侵犯通常都大於 3 節 - (B) NMO 之患者較容易出現 NMO-IgG 或 aquaporin-4 抗體 - (C) NMO 之患者急性復發時須使用靜脈注射大劑量的 methylprednisolone - (D) β 干擾素 (interferon-β) 和 glatiramer acetate 可以有效的預防 NMO 復發,其效果比預防 MS 復發更好 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 【詳解】本題解答應為(D),目前可用 Azathioprine、prednisolone 和 Ritaximab 來預防。Interferon-β 不應使用在 NMO 患者上, 會有惡化疾病的可能。Glatiramer acetate 目前無足夠資料顯示對 治療 NMO 有效。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...(A) 所有的病人都會在開始治療後惡化 | 醫四 -46 | | | (B) 在整個療程中,飲食可以不必忌諱含銅食物 | | | | (C) 在以 D-penicillamine 治療初期患者對藥過敏時,可重新減量 | | | | 或合併 prednisolone 之使用 | | | | (D) 所有的病人都可使用 D-penicillamine 治療而得改善 | | | (A) 30. | 當帕金森氏病人在晚期開始出現運動阻滯(motor block)時,進 | 99(二)專 | | | 行下列何種動作比較不受影響? | 醫四 -48 | | | (A) 上樓梯 (B) 走平地 (C) 過旋轉門 (D) 進出電梯門 | | | | 【詳解】PD 會有 freezing phenomenon, Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -87,12 +97,6 @@ tags:
 - (C) 7. 一位 6 歲的女生,罹患彌漫增生型狼瘡性腎炎(diffuse proliferative lupus nephritis),已接受每天 30 mg 口服 prednisolone 2 個月, - (A) Haemophilus influenza type b conjugate vaccine - (B) Influenza vaccine - (C) Measles, mumps 及 rubella vaccine - (D) Tetanus 及 diphtheria toxoid vaccine Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 5. 急性氣喘發作時,須以吸入性 SABA 加上口服或靜脈注射類固醇(prednisolone 1~2 mg/kg/day)治療。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (1) Class III、Class IV 為 Proliferative GN,病情輕微者可使用 Azathioprine (AZA)治療, 病情中度嚴重者,可使用 Mycophenolate mofetil (MMF)治療,最嚴重的則考慮每 月一次的 Methylprednisolone (MP) 加 Cyclophosphamide (CY) 脈衝治療。皆無效 者,可考慮 Rituximab (Anti-CD20 Ab)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- 1. 因為胎盤具有把 Prednisolone 分解的酵素,所以建議以最低有效劑量的 Prednisolone 維 持治療: Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- (B) 1.31 歲王小姐被診斷為全身性紅斑狼瘡併腎炎約7年,初發病時經過 prednisolone 與 mycophenolate 治療後,近5年24小時尿蛋白都小於0.5克,血中 creatinine 為0.6 mg/dL,目前用藥為 prednisolone 每日5毫克加 hydroxychloroquine 200毫克。王小姐因近日即將結婚,有懷孕的計畫,所以到門診來諮詢是否需調整藥物。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...in,心臟毒性較大,因此年紀較大、心臟功能不佳,常使用R-COP。 - \* CHOP (Cyclophosphomide, Doxorubicin = Hydroxydaunorubicin, Vincristin = Oncovin, Prednisolone) Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (C) 6. 一位淋巴瘤病人接受化學治療 CHOP (cyclophosphamide, adriamycin, vincristine 及 prednisolone) 後出現指端麻木感,這個 症狀最可能是 - (A) cyclophosphamide - (B) adriamycin - (C) vincristine - (D) prednisolone Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (B) 給予化學治療 COP (cyclophosphamide, vincristine 及 prednisolone) Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...plex karyotype | 差: t(9,22)=Philadelphia chromosome | | | 引導治療 | A (Ara-C) 7 天 -I (Idarubicin) 3 天 | Q (Vincristine) P (Prednisolone) D (Daunorubic | | | (Induction) | APL (M3): ATRA+ Idarubicin (或 arsenic trioxide) | L (L-asparaginase) | | | | | CNS pro | phylaxis: IT MTX, AraC, Decadron | | 評估 (CR) | BM (Blast →若再復發才考慮骨髓移植 (CR2) | | | | * 預後差的完全緩解後 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 
 ## Clinical Caveats
 

@@ -34,6 +34,7 @@ sources:
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Electrocardiography, ECG (心電圖)'
   - 'Electrocardiography, ECG'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,13 @@ tags:
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- 2. 鉀:正常血鉀濃度為 3.5~5.0 mEq/L。 - (1) 低血鉀 (hypokalemia): 症狀有噁心嘔吐、肌肉無力、ileus、橫紋肌溶解和多尿; 心電圖變化有 T 波變平坦、出現 U 波、ST segment 下降、APC/VPC。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 2. 心因性血栓 (cardio-embolic): - (1) 位置: MCA 的上支。 - (2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (B) 立即抽血進行血液生化和相關檢查,並做心電圖 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (A) 17. 一位 70 歲女性患者,有高血壓、糖尿病病史多年,晚上 11 點入 睡時皆正常,清晨 6 點起床時,卻發現說話不太清楚,左側肢體 無力,早晨 6點 30分,被家人送至急診室,早晨 7點 20分,血壓: 160/88 mmHg,所有血液生化檢查、心電圖皆正常,腦斷層檢查 無腦出血或其它異常,此時最不適合的治療為何? Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -100,9 +105,6 @@ tags:
 - ...,進而造成血液 中的鈉離子被稀釋造成相對性的低血鈉。 (C) 4. 關於高血鉀(hyperkalemia)的處理,下列何者敘述錯誤? 106(二)專 (A) 停止所有鉀離子的補充 醫四 -20 (B) 若血鉀濃度高於 6.5 mEq/L, 心電圖可能先出現 peak T waves, 進一步可能出現 prolonged PR interval (C) 靜脈內注射胰島素改善高血鉀時,不可同時加葡萄糖點滴 (D) 若高血鉀對於藥物的反應不佳,應考慮透析治療 【詳解】靜脈注射胰島素、使用 β,-agonist 藥物可以把血漿中的 鉀離子趕到細胞內,但是要注意其副作用如低血糖、心搏過速 等。因此注射胰島素時須同時給予醣類補充。 (C) 5.15 歲男生為田徑隊員,在訓練 3 小時後,發 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (A) 3. 一位唐氏症(Down syndrome, trisomy 21)寶寶,經身體診查發 100( ) 專 現有收縮期心雜音(grade II/VI),胸部 X 光片顯示心臟擴大, 醫四 -5 心電圖呈現兩心室肥大及向上之 QRS 軸向(superior QRS axis)。 最可能的先天性心臟病為何? - (A) 心內膜墊缺損 (endocardial cushion defect) - (B) 第二型心房中膈缺損(secundum atrial septal defect) - (C) 主動脈幹 (truncus arteriosus) - (D) 主動脈弓窄縮(coarctation of aorta) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (A) 6. 一位 32 歲女性病人主訴最近 3 個月手指遇冷水或生氣時膚色便會轉 101(一)專 為蒼白色,同時覺得有些吞嚥困難,且半夜時常胃酸逆流到嘴裡。2 星期前,開始時常乾咳,且稍微運動便覺得喘。下列的檢查,那項 最不必要? - (A) 運動心電圖 - (B) 心臟超音波 - (C) 胸部 X 光 - (D) 肺功能檢查 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (A) 1. 一位 45 歲女教師,主訴半年內逐漸發生運動時氣促,倦怠,胸悶以及昏厥的症狀。身體診察發現頸靜脈壓力上升,可摸到右心室搏動, 且在右側聽到 S4 的心音,胸部 X 光發現肺動脈膨大,下列敘述何者 最適當? - 107(一)專 醫三 -25 - (A) 應檢測 protein C, protein S, antithrombin III 等是否異常 - (B) 心電圖通常可以發現心軸向左偏轉及左心室肥大 - (C) 可以用心臟超音波測量二尖瓣逆流的流速來估計肺動脈的壓力 - (D) 病患肺血管主要的表徵為血管內皮增生,發炎反應增加,以及 血管擴張 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- (D) 9. 一位 58 歲男性,過去無全身性疾病之病史,最近在例行之健康檢查 中發現其血液相如下:血紅素 14.7 g/dL,血比容 46%,白血球數 12,350/µL, 血小板數 725,000/µL。其他生化、心電圖及胸部 X 光 檢查均無異常,病人亦無自述症狀。下列何者是目前對此病人最適 當的治療? Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- (C) 1. 一位 70 歲男性淋巴癌病人,分期為 Ann Arbor 第四期,血清 LDH 值 102( 二 ) 專 6,500 U/L (正常 (A) PR 波間距縮短(B) QT 波間距縮短(C) 心房震顫(D) 高聳的 T 波 | 醫三 -44 | | (B) | 7. 承上題,該病患之處置,下列何者較適當? (A) 立即給予靜脈注射 50% 葡萄糖 (B) 補充水分,並給予利尿劑 (C) 注射鈣離子 (D) 給予佳力美粉(Kalimate) | 97(二)專醫三-45 | | (C) | 8. 一位 70 歲胃癌男性因為突然下半身癱瘓(paraplegia)來急診就醫。發病前一個月開始出現下背痛。X 光檢查發現 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 

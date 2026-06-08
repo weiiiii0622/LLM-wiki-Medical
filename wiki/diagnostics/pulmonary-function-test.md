@@ -17,6 +17,9 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Pulmonary function test, PFT (肺功能檢查)'
   - 'Pulmonary function test, PFT'
@@ -31,7 +34,7 @@ tags:
 
 ## Summary
 
-區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +51,16 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch09]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 3. 相對禁忌症(Relative contraindications): - (1) 之前有作過腹腔手術者:腹腔內會沾黏,影響手術,須作 adhesiolysis 減少沾黏。 隨著經驗的累積、技術的進步及器械的改良,已經少被列為禁忌症了。 - (2) 腹膜炎。 - (3) 懷孕第一期和第三期婦女。 - (4) 嚴重心肺疾病:心肺疾病會因使用 CO2 充氣產生高碳酸血症而惡化病情,腹內 壓上升也會影響到心肺功能。 - (5) 腸胃脹氣: 術中容易傷害到腸胃。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- ...-|---------------------------------------------| | C1-4 | 頸部肌肉 (neck muscle) | | | | C3, 4, 5 | 横膈肌 (diaphragm) | 吸氣、TV、FEV、VC | | | C5 , 6 | 三角肌 (deltoid) | 局部外展 > 90° | | | C5 , 6 | 二頭肌 (biceps) | 手肘彎曲 | biceps jerk | | C6 , 7 | 伸腕橈肌 (extensor carpi radialis) | 手腕伸張 | supinator jerk | | C7, 8 | 三頭肌 (triceps)、伸指總肌 (extensor digitorum) | 手肘和 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - $FEV_1/FVC$ ratio 12\%$ or predicted $\text{FEV}_1 > 10\%$ after inhalation of a short-acting $\beta$ -agonist (SABA)\* Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - Worsening in $FEV_1 \ge 15\%$ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - FEV1, forced expiratory volume in 1 sec; FVC, forced vital capacity; ICS, inhaled corticosteroid; ppb, parts per billion. Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -65,10 +75,6 @@ tags:
 - A. 定 義:肺功能檢查有不可逆的氣道阻塞證據,post bronchodilator FEV1/FVC 3月/1年*2年 | 病理上:小氣道擴張,肺泡壁破壞 | | حلالتك | Severe hypoxemia, Hypercapnia, V/Q mismatch | Mild hypoxemia | | 症狀 | Pul. HTN, Cor pulmonale (EKG: RVH) | DLCO ↓ | | 呼吸音 | Wheezing | Di Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - ...-------------|----------------------| | | | -7 | 急性惡化病史 | | | | 支氣管擴張試驗後 | FE | V1 (預測值%) | ≧ 1 次急性惡化需住院 | | 111212 | | FEV 1 /FVC全 2 次急性惡化但未導致住院 | CD | D | | | GOLD 2 | 50-79 | | | | | | GOLD 3 | 30-49 | | | | | | GOLD 4 | CAT CAT ≥ 10 | Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - 1. FEV1/FVC 1% predicted 用於嚴重度分級。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- ...IRV)。 - c. 用力吐氣所多吐出的氣體量稱做吐氣儲備容積(Expiratory reserve volume, ERV)。 - d. 深深吸氣後,所能吐出的最大氣體量稱做肺活量(Functional vital capacity, FVC), 其為 TV、IRV、ERV 的總和。 - e. 深深吸氣後,第一秒所吐出的氣體量稱做 FEV1 (Forced expiratory volume during the 1st second) - (3) 鑑別診斷: - a. 當呼吸系統出問題時,用力吐氣量(FVC)、第一秒吐氣量( $FEV_1$ )可能都會比預測值低。 - b. 但若是阻塞性(Obstructive)肺疾病,因為氣管變窄,使得第一秒吐氣量(FEV1)變小程度更 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- c. 但若限制性(Restrictive)肺疾病,如肺泡纖維化,因為肺泡回彈力量增加,使得第一秒吐氣量比例增加,可見 FEV1/FVC 比值增加。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- 2. 一氧化碳彌散量 (Lung diffusing capacity for carbon monoxide、DLCO): - (1) 吸入一氧化碳一段時間後吐出,測其擴散(Diffusion)入體內的比率,可用來測量 肺泡膜的擴散能力。 - (2) 需考慮血流、換氣面積的多少以鑑別診斷: Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...a | 煤礦工人 | 矽肺症 | 石棉塵肺症 | 農夫肺 | 棉屑沉著病 | | | 疾病 | Coal worker | Silicosis | Asbestosis | Farmer's lung | Byssinosis | | | 肺功能 | 阻+侷 (PMF) | 阻+侷(PMF) | 侷為主(肋膜鈣化) | 阻為主 | 阻為主 | | | CXR | 上肺網狀 | 上肺圓狀+ | 下肺不規則線 | | | | | CAR | | 肺門蛋殼 | 狀+肋膜鈣化 | | | | | | Caplan syn | 易得 TB | 易得 | 對放射線菌 | 紡織工業星期 | | | 特點 | 可能進展到進行性大量纖維 | | esothelioma | 孢子過敏 | 一上班就 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 
 ## Clinical Caveats
 

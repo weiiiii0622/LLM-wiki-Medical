@@ -17,6 +17,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Candidiasis (念珠菌感染)'
   - 'Candidiasis'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,14 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book4-ch04]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 2. 黴菌感染: Candida albicans 最常見,為伺機性感染。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...(A) 腦部磁振造影 醫四 -48 (B) 腦脊髓液檢查 (C) 腦波檢查 (D)電腦斷層攝影 (A) 19. 腦內最常見的黴菌(fungus)感染是: 99(二)專 (A) 隱球菌 (cryptococcosis) 醫四 -45 (B) 念珠菌 (candidiasis) (C) 麴菌 (aspergillosis) (D) 白黴菌 (mucormycosis) (B) 20. 一位 36 歲的女性病人,因為癲癇發作及意識障礙而住院治療。 99(二)專 1週前她開始有輕微的發燒及頭痛;2天前有一次聽到外面有人 醫四-54 在講她的壞話,跑出去跟不相關的路人大吵一架,然後就不再出 門,在家裡喃喃自語,行為非常奇怪;今天早上發生癲癇而來住 院。病人在急診室做了腦脊髓液的檢查,結果 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (B) candidal intertrigo Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) 3. 承上題,這位患者皮膚病的致病菌為: - (A) Trichophyton rubrum - (B) Malassezia furfur - (C) Candida albicans - (D) Corynebacterium minutissimum Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -66,9 +73,6 @@ tags:
 - ...動力並無明 顯異常,下列何種疾病最有可能? - (A) acute graft-versus-host disease (GVHD) - (B) chronic graft-versus-host disease (GVHD) - (C) Candida infection - (D) Epstein-Barr virus (EBV) infection Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 5. 末期病人的症狀處置-消瘦(Cachexia)與厭食(Anorexia) - A: Aches (疼痛) - N: Nausea ( 噁心 ) - O: Oral candidiasis (口腔念珠菌) - R: Reactive depression (憂鬱症) - E: Evacuation problems (排便問題) - X: Xerostomia (口乾) - I: Iatrogenic (化療、放療、藥物相關) - A: Acid-related problem (胃炎、腸胃潰瘍) - 重 1. 厭食是疾病的一部分,病人不會因為飢餓而死亡 - 要 2. 末期病人的水和食物需求通常不多,並不會因為飲食的下降而造成不舒服 - 觀 3. 勉強病人進食,無法改善其生活品質或延長生命 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...鴿糞/土壤→吸入肺中,通常無症狀 | 不需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluconazole | | | ポルエ(球黴菌) | | | 常在菌→鵝口瘡 (thrush) / 尿布疹 | 局部 Nystatin/Azole. | | | (本版图) | 念珠菌 | Candida | →擴散性念珠菌血症 | → Fluconazole,echinocandin | | | 系統性(絲黴菌) | | | 腐敗植物→麴菌球 (Fungus ball) | 開刀 | | | | 麴菌 | Aspergillus | →侵入性麴菌病 (Invasive asper.) | → Voriconazole,Amp Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- 2. 球黴菌型 (Coccidioidal) 指的是酵母菌型 (Yeast) 的隱球菌 (Cryptococcus) 或類酵母菌型 (Yeast-like) 的念珠菌 (Candida); 絲黴菌型 (Filamentous) 指的是黴菌型 (Mold) 的麴菌 (Aspergillus)。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- | 酵母菌( | Yeast) | 黴菌 (Molds) | |---------------------------------------------------|---------------------------------------------------|------------------------------------------------| | 酵母菌型 (Yeast)沒有菌絲,屬單細胞,如隱球菌 (Cryptococcus) | 類酵母菌型 (Yeast-like)有假菌絲,屬單細胞如念珠菌 (Candida) | 黴菌型 (Mold)許多菌絲構成,屬多細胞如麴菌 (Aspergillus) | | | Afr | | Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- \*Cry m., Can e. = Cryptococcal meningitis, Candida esophagitis Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

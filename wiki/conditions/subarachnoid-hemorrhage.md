@@ -8,6 +8,13 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book1-ch19]]"
+  - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book1-ch16]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Subarachnoid hemorrhage, SAH (蜘蛛膜下腔出血)'
   - 'Subarachnoid hemorrhage, SAH'
@@ -22,7 +29,7 @@ tags:
 
 ## Summary
 
-常由 ruptured aneurysm 引起，典型 thunderclap headache，需注意再出血與 vasospasm。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常由 ruptured aneurysm 引起，典型 thunderclap headache，需注意再出血與 vasospasm。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +37,26 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch13]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch14]]
+- [[sources/med5-book1-ch19]]
+- [[sources/med5-book1-ch09]]
+- [[sources/med5-book1-ch16]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- B. Aneurysmal SAH 146 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- F. SAH 分級: Hunt and Hess Grade 148 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- H. Aneurysmal SAH 的外科處置 149 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- (D) Traumatic subarachnoid hemorrhage (SAH) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- (C) Acute subarachnoid hemorrhage Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- 5. 顱內動脈瘤最危險的地方在於動脈瘤破裂,造成 SAH (最常見)、ICH (intracerebral hemorrhage, 20~40%)、IVH (intraventricular hemorrhage, 13~28%)或 SDH (2~5%)。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
+- 7. 顱內動脈瘤破裂的症狀以及前驅症狀、診斷和處置,參照前面 SAH 部分。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
+- 【詳解】圖中由上方可見一片訊號較強的地方,沿著腦溝分布 呈現五芒星狀為 SAH,該部位為 basal cistern,為動脈瘤破裂所 致。住院做血管攝影確認病灶來源。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
+- 2. 交通性: - (1) 腦膜變厚或蜘蛛膜顆粒受影響:感染、SAH。 - (2) CSF 黏度太高。 - (3) CSF 分泌太多(脈絡叢乳突瘤),但少見。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
+- 2. 一般發生在老年人,50% 為 idiopathic, 其他可能原因為 SAH 或 meningitis 後導致 CSF 吸收不正常。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - II. 出血性腦中風 (Hemorrhagic Stroke) 103 - A.介紹 103 - B. 腦出血 (Intracerebral hemorrhage, ICH) 104 - C. 蜘蛛膜下腔出血 (Subarachnoid hemorrhage, AH) 108 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...Atherothrombotic | 75%×50% | | | 欧皿住(/5) | | Cardioembolic | 75%×25% | | 腦血管疾病 (CVA)=中風 (Stroke) 的分類 | ICH (15)出血性 (20)SAH (5) | HTN | 15%×50% | | | | | ICH (15) | Amyloid angiopathy | 15%×30% | | | | CATI(E) | Aneurysm | 5%×75% | | | | SAII (5) | AVM | 5%×5% | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 腦血管疾病俗稱中風(stroke),血管病變中,梗塞(infarction)占 84%,即血管被粥狀硬化阻塞或被心臟來的血栓塞住等,導致血液供應不到遠端腦組織,造成缺血性腦中風(ischemic stroke);出血(hemorrhage)占 16%,即血管壁因高血壓或先天性異常而破裂,血液流到腦組織中(ICH)、蜘蛛膜下腔(SAH),造成出血性腦中風(hemorrhagic stroke)。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -52,7 +76,9 @@ tags:
 - [[procedures/aneurysm-clipping-coiling|Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)]]
 - [[diagnostics/brain-computed-tomography|Brain computed tomography, brain CT (腦部電腦斷層)]]
 - [[conditions/cerebral-aneurysm|Cerebral aneurysm (腦動脈瘤)]]
+- [[conditions/cerebral-vasospasm|Cerebral vasospasm (腦血管痙攣)]]
 - [[conditions/headache|Headache (頭痛)]]
+- [[conditions/hydrocephalus|Hydrocephalus (水腦症)]]
 - [[procedures/lumbar-puncture|Lumbar puncture, LP (腰椎穿刺)]]
 - [[conditions/stroke|Stroke / cerebrovascular accident, CVA (腦中風)]]
 

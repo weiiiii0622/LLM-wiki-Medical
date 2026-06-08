@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Proton pump inhibitors, PPI (質子幫浦抑制劑)'
   - 'Proton pump inhibitors, PPI'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med3-book3-ch07]]
 - [[sources/med3-book3-ch11]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- 8. H2 blocker 或是 PPI 去減輕 stress ulcer。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - (2) 內科治療: - a. 傳統制酸劑使用可以迅速改善症狀,但因副作用不建議長期使用。PS:副作用如 diarrhea (magnesium) and constipation (aluminum)。 - b. Histamine-2 receptor antagonists、proton pump inhibitors (PPIs) 使用,治療效果佳。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 5. 治療:兩個目標:緊急處理出血以及防範再出血。 - (1) Emergency treatment:輸液補充、矯正凝血功能、藥物治療出血(vasopressin、H2-receptor blocker、proton pump inhibitor)。 - (2) 防範再出血: Propranolol。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 氫離子幫浦抑制劑(Proton pump inhibitors),可用於治療嚴 重潰瘍出血的病患 Source: [[sources/med4-book1-ch02|乙、消化系統]].

@@ -16,6 +16,9 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Epidermis (表皮)'
   - 'Epidermis'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,17 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book3-ch02]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- P. 表皮樣囊腫 (Epidermoid tumor) 215 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 1. 神經表皮細胞腫瘤(tumor of neuroepithelial tissue): - (1) 星狀細胞瘤 (astrocytoma):星狀細胞 (astrocyte)。 - (2) 寡樹突神經膠瘤(oligodendroglioma):寡樹突細胞(oligodendrocyte)。 - (3) 室管細胞瘤 (ependymoma):室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ## P. 表皮樣囊腫 (Epidermoid tumor) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- 【詳解】(A) 電流熱效應為 I2Rt(電流安培數平方 × 電阻 × 受電時間),電阻越高產生的熱能越高,對組織的傷害越高;(C) 肌球蛋白會對腎小管的表皮細胞造成直接性的傷害,且肌球蛋白在體液不足或酸性環境之下,易在腎小管中形成結晶阻塞腎小管,因此橫紋肌溶解症容易造成急性腎衰竭,大量輸液目標為 3mL/kg/hr;(D) 在 electrically-induced ocular injury 中 cataract 的機率只有 1~6%,總體不可能到 30%。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic episode)在 DSM-IV-TR 的診斷準則(criteria)之敘述,下列何者錯誤? (A) 膨脹的自尊心或自大 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 1. 皮膚覆蓋全身,是身體最大的器官,約為 1.8 m² BSA (body surface area),分為表皮 (epidermis)、真皮 (dermis) 和皮下組織 (subcutaneous tissue)。另外皮膚上有毛囊、指甲、皮脂線及汗腺等附屬器官 (appendages)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - 2. 表皮:位於皮膚最上層,厚度從最薄的眼皮 0.04 mm 至最後的足底 1.5 mm 不等,由表面而下可分為五層:角質層、透明層、顆粒層、棘狀細胞層和基底層。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].

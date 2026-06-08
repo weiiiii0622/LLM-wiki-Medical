@@ -36,6 +36,9 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -50,7 +53,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +89,15 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- 5. 脂肪代謝:一克脂肪產生九大卡。 - (1) 交感神經的興奮和壓力荷爾蒙的分泌刺激 lipolysis,另外敗血症越嚴重,能量來源從脂肪氧化而得的比例會增高,相對地葡萄糖氧化的比例會降低。 - (2) 人體的必需脂肪酸為亞麻油酸(Linoleic acid)和次亞麻油酸( $\alpha$ -Linolenic acid),缺乏會有掉髮、皮膚炎、貧血等情形。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- 6. Sirolimus:機轉不同於 Cyclosporine 和 Tacrolimus,作用在 mTOR (或稱 FRAP1),抑制 IL-2 和其他細胞內的訊息傳遞,阻斷 T 和 B 細胞的活化。不具腎毒性,且因作用機轉不同於目前其他免疫抑制劑,所以常用來和其他免疫抑制劑合併使用來增強效果,並減低其他藥物的副作用。副作用有高血壓、腹瀉、水腫、蛋白尿、血小板下降、白血球下降、貧血及高血脂。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 3. 會引起腦壓升高的可能因素有過度服用藥物(維生素 A、tetracycline、hormonal contraceptive、steroid)、內分泌異常、貧血、及慢性呼吸衰竭。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 4. 抽血可見 ESR 上升、貧血、ALK-p、血中 IgG 上升,而通常 CK 不會上升;以類固醇治療效果良好。[Ref. Harrison ch 319] Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...-----| | (A) 過度肥胖併月經不規則 | 醫四 -50 | | (B) 大腦側靜脈竇阻塞 (lateral venous sinus thrombosis ) | B4 | | (C) 服用大量維生素 A | | | (D) 惡性貧血 | | | 【詳解】第50題一律給分。大腦假性腫瘤的發生原因至今不明, | | | 一般相信因為腦膜吸收腦脊髓液能力下降,導致腦壓逐漸增高。 | | | 可能與過度服用維生素 A、四環黴素、荷爾蒙類避孕藥等有關。 | | | 偽性大腦腫瘤症為 Idiopathic,與 (ACD)可能都相關,但 (B)為 | | | 已知病因造成腦壓上升,不屬於偽性大腦腫瘤症範疇。 | | | (C) 25. 下列有關頭痛的現象之中,何者最需要讓病人接 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...l THF → THF +甲基 (Cobalamine +甲基→ Methylcobalamin)此甲基若能被 Vit B 12 順利接收,則 Uridine 可藉由 THF 的幫忙,合成 Thymidine | Megaloblasticanemia | | 給 | Homocysteine + 甲基→ Methionine (Methylcobalamin → Cobalamine + 甲基) | Peripheral | | 甲基 | 若 Vit B 12 能順利提供甲基,則 Methionine 可幫助髓鞘(myelin)合成 | neuropathy | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -104,9 +113,6 @@ tags:
 - (2) 廣泛型白斑較正常人容易伴有一些自體免疫疾病,例如 Hashimoto's thyroiditis、 Graves' disease、Addison disease、pernicious anemia、Type 1 DM, 其中甲狀腺疾病最常見。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 1. 自體顯性遺傳疾病,臨床表現有: - (1) 腸胃道內會長許多過誤性息肉(hamartomatous polyps),約於孩童至三十歲前 出現,患者會有腹痛、腸胃道出血、反覆腸套疊或貧血等症狀。息肉好發於小 腸,特別是空腸,息肉有機會惡性化為 adenocarcinoma,不過機率不高。 - (2) 表皮黏膜出現黑色素沉澱,常可見病患嘴唇周圍、口腔黏膜、手指或手掌有黑色沉澱斑點,黑色斑點出生時即出現,或是在孩童時期出現,並會隨著時間褪掉,但口腔黏膜的色素沉澱會持續存在。(下圖) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - (3) 血液生化檢查:用來評估腎臟損傷程度,如BUN、Cr、CBC(評估貧血程度)。 5. 治療: - (1) 初步處理:為了防止泌尿系統的惡化,先用鼻胃管(No.5 or 8 French)導尿而不是用導尿管(Foley catheter 上的 balloon 會造成膀胱痙攣)。矯正電解質、BUN、Cr,治療呼吸窘迫…等,當病人情況穩定則以手術治療。 - (2) 手術:用小兒膀胱尿道切除鏡將尿道後瓣膜切除。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...ematuria)、輕微的蛋白尿。極少數病人會有 nephritic or nephrotic manifestation。血液學檢查並無特殊發現,僅有一些無特異性的表現如 leukocytosis,thrombocytosis,mild anemia,and elevations of erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)。HSP病人不會出現血小板低下。會出現血小板低下則是血栓性血小板減少紫斑症(thrombotic thrombocytopenic purpura, TTP)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (D) 24. 一位 8 歲男童主訴自 1 週前開始有紅棕色尿。兩週前他有輕微的上呼吸道感染,但是過去兩週當中他沒有發燒、咳嗽、腹痛或腰痛的症狀。實驗室檢查發現他有輕微貧血(血色素值 10.5 g/dL)。尿液常規檢查顯示 Occult blood 強陽性 (4+); Protein > 300 mg/dL; WBC 50~100/HPF; RBC 100~150/HPF。血中 C3 補體下降、C4 正常。下列何者為最可能之診斷? - (A) B 型肝炎相關之膜性腎病變(hepatitis B associated membranous nephropathy) - (B) IgA 腎炎 (IgA nep Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- Ⅱ. 血紅素疾病 349 - A. 鐮刀型貧血 349 - B. 地中海型貧血 349 Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

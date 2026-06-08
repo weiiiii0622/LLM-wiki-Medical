@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch07]]"
 aliases:
   - 'Peritoneal dialysis (腹膜透析)'
   - 'Peritoneal dialysis'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...- i. 大量傷患同時到達時可作為檢傷分類之依據。 - ii. 神智改變。 - iii. 酒醉或服用毒藥物。 - iv. 需上麻醉處理其他合併損傷。 - v. 多處受傷之病患。 - vi. 懷疑腹部受傷,但腹部症狀不明顯。 - (b) 將腹膜透析導管插入腹膜腔,並進行抽吸,假使抽到腸胃道內含物、蔬菜纖維或膽汁表示必須做剖腹探查;假使沒抽到,則從導管灌入1,000 cc 林格氏溶液,用壓迫腹部及滾動病人,使腹膜內含物和沖洗液充分混合 之後再抽吸出來送化驗。 - (c) 如果化驗出來流出液紅血球 $\geq 100,000/\text{mm}^3$ ,白血球 $\geq 500/\text{mm}^3$ 或是 Gram stain 發現細菌存在表示陽性反應,須要手術。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - ...r atrophy | | degenerative | | neuronal inclusions) | Shy-Drager syndrome | | disorders | | | Motor neuron disease with PD features | | | | Dementia with Lewy l | podies (cortical · brainstem neuronal inclusions) | | (Parkinson- | tau pathology | Progressive supran | uclear palsy | | Plus syn.) | ("tauopathies") | Corticobasal degene | erat Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...在晚期開始出現運動阻滯(motor block)時,進 | 99(二)專 | | | 行下列何種動作比較不受影響? | 醫四 -48 | | | (A) 上樓梯 (B) 走平地 (C) 過旋轉門 (D) 進出電梯門 | | | | 【詳解】PD 會有 freezing phenomenon, 會伴隨 first step hesitation, | | | | 往往第一步跨不出去。 | | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...er's disease) (C) 額顳葉失智症(frontotemporal dementia) (D) 尿毒症(uremia) 【詳解】REM sleep behavior disorder 和 Parkinson's disease(PD) 高度相關,也好發在有 PD 家族史的患者身上。 | 106(一)專醫四-67 | | (A) 18. 依據社會再適應評估表(social readjustment rating scale),下列何種生活事件所造成的壓力強度最大? (A) 配偶死亡 (B) 離婚 (C) 入獄 (D) 子女死亡 【詳解】社會再適應評估表是一種把生命中各種可能遇到的壓力量化為 0~100 分的量表;配偶死亡分數最高 100 分;離婚:73 分;入獄:6 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].

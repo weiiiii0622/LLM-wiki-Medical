@@ -21,6 +21,9 @@ sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Peptic ulcer disease (消化性潰瘍)'
   - 'Peptic ulcer disease'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,15 @@ tags:
 - [[sources/med3-book4-ch10]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (A) 因急性十二指腸潰瘍穿孔接受腹腔鏡十二指腸修補縫合術, 術後第三天,鼻胃管仍留置,每日引流量約為六百毫升 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- | (D) 21. 下列那一位腦死病患,最不適合成為腎臟移植的捐贈者? (A) 43 歲,糖尿病病患 (B) 35 歲,腎結石病史者 (C) 37 歲,十二指腸潰瘍病史 (D) 20 歲,HIV 陽性 | 98(二)專醫五-5 | |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (BC)26. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證 實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲 知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外 籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀 而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。 下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (D) 22. 一位 45 歲病患,在中風症狀發生後 1 小時之內被送到某醫學中心。經過頭部電腦斷層檢查、急診科與神經內科醫師的評估後,病患符合施打血栓溶解劑 r-tPA 的條件,家屬很焦急的詢問有關r-tPA 的禁忌症。下列何者非急性梗塞性腦中風(acute stroke)病患使用 r-tPA 的絕對禁忌症? - (A) 先前曾經有過腦出血 - (B) 有胃潰瘍病史 - (C) 1 個月前有缺血性腦中風 - (D) 3 週前動過顱內手術 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 1. 外科急症:接觸病人時,首先要排除外科急症的可能性。如腸套疊、闌尾炎、消化 道扭轉(volvulus)、消化道潰瘍破裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如 睪丸扭轉)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】任何腹痛應優先排除外科急症,腸套疊、闌尾炎、 消化 道扭轉(volvulus)、消化 道潰 瘍破 裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如睪丸扭轉)。(C) 一開始表現為右 下腹痛,臨床表現與急性闌尾炎相似,但急性腸繫膜淋巴腺炎 為自限性(self-limiting)疾病。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -74,9 +83,6 @@ tags:
 - (2) 疾病:胃炎、胃潰瘍、十二指腸潰瘍、胃癌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 1. HCO3 gain:如乳-鹼綜合徵(Milk-Alkali Syndrome),因長期服用太多鈣(如牛奶或鈣片)及可吸收的鹼性藥物(如治療消化性潰瘍的制酸劑 Antacid),導致高血鈣、鹼中毒及腎功能損害。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...C) 連續可活動性腹膜透析 (continuous ambulatory peritoneal dialysis) (D) 自動化腹膜透析 (automated peritoneal dialysis) (A) 9. 一位 84 歲男性,因胃潰瘍大量出血,收縮壓降至 60 mmHg,有心 98(二)專 衰竭病史,其血壓用升壓劑勉強維持在 90/65 mmHg 左右,血中尿素 醫三-24 氦(BUN)升至145 mg/dL,肌酸酐(creatinine)11.5 mg/dL,每 天尿總量只有 75 cc,血紅素為 7 g/dL,需輸血及大量輸液治療約 2,500~3,500 ml /天,下列何種透析療法對他最為合適? (A) 連續性靜脈靜脈血液透析 (continuous ven Source: [[sources/med3-book3-ch06|己、透析治療]].
-- #### B. 消化性潰瘍 (Peptic Ulcer Disease) Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- 2. 幽門螺旋桿菌 (H. pylori) 感染→胃、十二指腸潰瘍比較: Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- ...胃體炎 (corpus gastritis) | → 破壞十二指腸黏膜 | | TENNESS (DAG) | 酸分泌減少 (BAS 20) → | | 基礎酸分泌 (BAS) | 與 GERD 較無關 | 與 GERD 較有關 | | 消化性潰瘍(症狀) | 胃潰瘍(吃食物惡化) | 十二指腸潰瘍(吃食物緩解、凌晨被痛醒) | Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 
 ## Clinical Caveats
 

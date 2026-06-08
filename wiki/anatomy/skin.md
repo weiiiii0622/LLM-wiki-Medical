@@ -21,6 +21,15 @@ sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Skin (皮膚)'
   - 'Skin'
@@ -35,7 +44,7 @@ tags:
 
 ## Summary
 
-身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +65,28 @@ tags:
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- ...us hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- d. Hypothyroidism:對冷敏感、黏液性水腫、皮膚乾燥、毛髮粗糙、反應遲鈍。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...) | | | (B) | 4. 下列何者較少出現在 Neurofibromatosis type I 的病人? | 108(一)專 | | | (A) 家族顯性遺傳 | 醫五-9 | | | (B) 雙側聽神經瘤 | | | | (C) 皮膚咖啡牛奶斑(Cafe-au-lait macules) | | | | (D) 脊椎發育異常 | | | | 【詳解】雙側聽神經瘤屬第二型。 | | | (B) | 5. 有關腦下垂體泌乳素瘤(prolactinoma)的描述,下列何者正確? | 108(一)專 | | | (A) 腫瘤通常直徑大於 3 公分 | 醫五-11 | | | (B) 血中泌乳素(prolactin)濃度通常 > 150 ng/mL | | | | (C) 手 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 3. 人體水分之需求 = 尿量 + 未察覺流失量 內生性水分。尿量佔全部流失水分約50%,另外50%為未察覺流失量(30%皮膚散失、15%呼吸道散失、5%糞便流失)。 而內生性水分為身體組織代謝過程中所產生的水分。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- | | Skin | SVR | CVP | Heart rate | Cardiac output | |---------|------|----------|----------|------------|----------------| | 低血溶性 | 白/冷 | 1 | 1 | 1 | ↓ | | 心因性 | 白/冷 | 1 | 1 | 1 | ↓ | | 敗血性(早期) | 紅/溫 | ↓ | 1 | 1 | ↑ | | 神經性 | 紅/溫 | 1 | 1 | ↓ ↓ | 1 | | 過敏性 | 紅/溫 | ↓ | ↓ | 1 | \ | | 阻塞性 | 白/冷 | 1 | 1 | 1 | 1 | Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (C) 鼻部主要組成可分為皮膚覆蓋(skin cover)、結構支撐 (structural support) 及黏膜內襯(mucosallining),治療時 可以根據缺損的範圍,做不同的重建考量 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- 1. 淺層切口手術部位感染(Superficial incisional SSI): - (1) 感染範圍僅包含皮膚和皮下組織,為最常見的手術部位感染。 - (2) 發生於術後 30 天內。 - (3) 有以下任何一種情形發生: - a. 切口有化膿性液體。 - b. 從切口淺層組織或液體中培養出病原體。 - c. 具有感染發炎的症狀,例如局部發紅、腫脹、發熱、疼痛和觸痛。 - (4) 以下情形不算是淺層切口手術部位感染: - a. 縫線處化膿。 - b. 外陰切開處或包皮環切術部位的感染。 - c. 燒傷傷口。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (C) 正確使用預防性抗生素就不必注意皮膚的消毒 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (B) 皮膚是一個電阻相對高的器官,通常較少受到影響 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...Stevens-Johnson syndrome)」? 醫四 -74 (A) topiramate (B) gabapentin (C) lamotrigine (D) valproate 【詳解】lamotrigine 在臨床上很容易有 skin rash 的副作用,也 易引發過敏。AED中除了老藥 phenytoin 和 carbamazepine 外, 新藥就 lamotrigine 有案例報告會引發 SJS。 (#) 39. 下列何種癲癇藥物之作用機轉,不會增加神經突觸(synapse) 101(二)專 中 GABA ( $\gamma$ -aminobutyric acid) 之濃度或作用? 醫四-17 (A) valproic acid (B) vigabatrin Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...? | 醫四 -54 | | (A) 小於 30% | | | (B) 30~40% | | | (C) 60~70% | | | (D) 大於 90% | | | (D) 47. 因服用抗癲癇藥物(anticonvulsants)而造成的皮膚疹(skin | 98(一)專 | | rash) 是: | 醫四 -56 | | (A) 與抗癲癇藥物的劑量有關(dose-related) | | | (B) 與服用者的肝功能有關 | | | (C) 與服用者的腎功能有關 | | | (D) 是一種特異體質反應(idiosyncratic reaction) | | Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (C) 1. 下列何者不是神經纖維瘤第一型 (neurofibromatosis type 1) 的典 108(一)專 型症狀? 醫四-58 - (A) 虹膜色素瘤(Lisch nodule) - (B) 咖啡牛奶斑 (café au lait spots) - (C) 雙側聽神經瘤 (bilateral acoustic neuromas) - (D) 皮膚多發性神經纖維瘤 (multiple skin neurofibromas) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -67,16 +95,6 @@ tags:
 - (D) 使用古柯鹼(cocaine)可能造成有蟲或螞蟻在皮膚下爬行的 幻覺(formication) Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - ...、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramate | | Fatigue、cognitive dulling、不易 body weight | | | | | increase | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 10. 過敏性皮膚炎與光敏感:長期使用 chlorpromazine 的病人皮膚可能會呈現藍灰色。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 1. 皮膚覆蓋全身,是身體最大的器官,約為 1.8 m² BSA (body surface area),分為表皮 (epidermis)、真皮 (dermis) 和皮下組織 (subcutaneous tissue)。另外皮膚上有毛囊、指甲、皮脂線及汗腺等附屬器官 (appendages)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- 2. 表皮:位於皮膚最上層,厚度從最薄的眼皮 0.04 mm 至最後的足底 1.5 mm 不等,由表面而下可分為五層:角質層、透明層、顆粒層、棘狀細胞層和基底層。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- (1) 角質層(stratum corneum):由 25~30 排扁平死細胞(分化完成之角質細胞)組成,細胞間質為膽固醇、神經醯胺(ceramide)和游離脂肪酸。為人體對付來自外界各式各樣物理、化學性刺激,如乾燥、冷熱、紫外線等的天然屏障。此層含有 15~20% 由皮膚自行產生的天然保濕因子(Natural Moisturizing Factor)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- 1. 葡萄球菌性燙傷樣皮膚綜合症(Staphylococcal scalded skin syndrome, SSSS) - (1) 致病因子:眼耳口鼻感染 S. aureus,其分泌的外毒素 Exfoliatin A 和 B,是一種 蛋白酶(protease),會去攻擊負責連結表皮顆粒層和棘狀層之間的 desmoglein 1,導致表皮裂解。顯微鏡下可見表皮裂解於顆粒層中或是與棘狀層之間。 - (2) 最好發於新生兒前三個月大,以及五歲前孩童。Immunocompromised 的成人也 會,但罕見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- a. 可發生在任何部位,常常先從臉部口腔周圍或頸 部開始出現局部潮紅,兩三天內向外擴散全身皮 **膚發紅**,在臉部或皮膚彎曲皺褶處出現小水泡並 能互相融合成大水泡,最後在24~48 小時內大範 圍脫皮(右上圖)。脫落三到五天後會開始癒合, 不會留疤。需注意的是 SSSS 不會侵犯黏膜。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- b. 由於裂在表皮, 水泡鬆弛易破, 表皮易脫落。在 水泡邊緣輕微施壓,原本好好的皮膚也會上下層 分離,水泡往旁擴散變大,摩擦表皮會像衛生紙 一樣脫落,稱作 Nikolsky sign(+)(右下圖)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- B. 接觸性皮膚炎 (Contact dermatitis) 88 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- C. 異位性皮膚炎 (Atopic dermatitis) 89 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- D. 脂漏性皮膚炎 (Seborrheic dermatitis) 90 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- # 辛、皮膚色素病 (Pigmentary disorder) Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 
 ## Clinical Caveats
 

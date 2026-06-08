@@ -29,6 +29,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Rheumatic heart disease (風濕性心臟病)'
   - 'Rheumatic heart disease'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鏈球菌感染後免疫反應可造成瓣膜病變。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,11 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (D) 8. 病人因嚴重類風濕關節炎導致劇痛就醫,就診時告知其為一牧師,因為要主持巡迴佈道,故要求你開立最有效的止痛藥。類固醇是一種消炎效力極強的藥物,常用於風濕性疾病的短期給藥,但因其與胰島素存有藥品交互作用,可能會促進糖質新生而誘發或加重糖尿病的病情,嚴重者更可能導致死亡,故在開立類固醇時,應特別注意患者是否有糖尿病史。病人顯然具有豐富的醫學知識,雖然告知你有糖尿病病史,仍要求你開給他類固醇藥物,他表示站在維護其神職人員堅強健全形象且期望專心投身工作的立場,即使類固醇治療最壞結果是導致死亡亦不後悔,下列可能的作法,那一個最符合倫理? - (A) 既然這個病人如此要求,基於尊重病人自主權,就照他 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 【詳解】本題就是在考 rheumatic fever,其中一個 major criteria 就是 Sydenham chorea。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 2. 有 40~50% 的顳動脈血管炎病人會合併 polymyalgia rheumatica,這兩個病是同一病理的兩個不同臨床表徵,皆是中大型的血管發炎,一個導致頭痛,一個導致肩頸、背、大腿多處肌肉痠痛。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -92,7 +95,6 @@ tags:
 - (C) 風濕熱 (rheumatic fever) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...腸系膜淋巴瘤 | | 6. 類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃炎 | 7. 外傷 | | 3. 骨盆發炎疾病 | 8. 懷孕 | | 4. 消化道潰瘍 | 9. 風濕性疾病 | | 5. 膽囊炎 | 10. 身心症 | | マ・ルラ 孝を少へ | 10. 2 . n./ir | Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 2. 好發 $35\sim50$ 歲,男:女 =1:3;帶有 HLA-DR4 有更高的發生率。也有不少超過 60 歲的類風濕性關節炎 (Elderly onset RA),若合併 RF(+)或 anti-CCP(+),通常疾病進展較快、較嚴重。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (1) 類風濕性結節 (Rheumatoid nodule):由巨噬細胞、肉芽組織包圍壞死纖維而形成的結節,導因於局部的血管炎,好發骨頭突起處(bony prominences)、肢體伸側(extensor surfaces)、近關節區(juxtaarticular regions)。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 

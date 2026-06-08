@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Somatostatin analogs (Somatostatin 類藥物)'
   - 'Somatostatin analogs'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-降低門脈血流，可用於急性靜脈曲張出血處置。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低門脈血流，可用於急性靜脈曲張出血處置。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book3-ch02]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...用含 5-fluorouracil, leucovorin, oxaliplatin (FOLFOX) 的化學治療 - (B) 用 loperamide - (C) 切除迴盲腸的腫瘤 (ileocecal mass) - (D) 用長效型 octreotide Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].

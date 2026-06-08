@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book3-ch20]]"
   - "[[sources/med3-book4-ch07]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Kidney transplant rejection (腎臟移植排斥)'
   - 'Kidney transplant rejection'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-移植腎可能發生超急性、急性或慢性排斥，需依時間與病理判斷。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+移植腎可能發生超急性、急性或慢性排斥，需依時間與病理判斷。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch20]]
 - [[sources/med3-book4-ch07]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...T、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的肝功能正常且與國 醫五-79 明有相同基因,但醫師並沒有提出要摘取大維肝臟來救國明的 建議。在倫理上,下列各項中何者是醫師不提這項建議最為重 要的理由? (A) 國明並未同意接受大維的捐贈 (B) 為免大維的父母陷入兩難選擇 (C) 成功機率過低而不應貿然提出 (D) 大維無法同意捐贈肝臟給國明 (C) Source: [[sources/med5-book1-ch06|己、移植外科]].
+- .... 下列有關器官移植時各種排斥現象 (rejection) 的敘述,何者有誤? (A) 一般而言, Donor 與 Recipient 的 HLA matching 愈佳,則 graft survival rate 愈好 (B) Hyperacute rejection 的發生需要 IgM antibodies 的媒介,可藉由使用抗排斥藥物加以預防 (C) Acute rejection 的發生需要 T lymphocytes 的媒介,發生頻率愈高, graft 的長期預後較差 (D) Chronic rejection 的發生與 T cell 與 B cell 有關,移植器官的主要病理變化為 fibrosis and scarring 【詳解】超急性排斥反應是因血型不符合,或是受贈者體內有 | 98 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...rculin test)、接觸性皮膚炎 (Contact dermatitis) | | | Th2 | 慢性氣喘 (Chronic asthma)、慢性鼻炎 (Chronic allergic rhinitis) | | | CTL | 移植排斥 (Graft rejection) | Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - b. 目前僅有口服劑型,口服吸收受食物影響甚大(須與高油脂食物併服),為骨髓 移植後 neutropenia 及 acute rejection 之預防性黴菌用藥。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
 
@@ -39,7 +43,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/kidney-transplantation|Kidney transplantation (腎臟移植)]]
+- [[conditions/transplant-rejection|Transplant rejection (移植排斥反應)]]
 
 ## Follow-up
 

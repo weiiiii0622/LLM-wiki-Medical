@@ -21,6 +21,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Waldenstrom macroglobulinemia (華氏巨球蛋白血症)'
   - 'Waldenstrom macroglobulinemia'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-淋巴漿細胞性淋巴瘤造成 IgM monoclonal protein 與高黏滯症候群。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴漿細胞性淋巴瘤造成 IgM monoclonal protein 與高黏滯症候群。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...ection) 的敘述,何者有誤? (A) 一般而言, Donor 與 Recipient 的 HLA matching 愈佳,則 graft survival rate 愈好 (B) Hyperacute rejection 的發生需要 IgM antibodies 的媒介,可藉由使用抗排斥藥物加以預防 (C) Acute rejection 的發生需要 T lymphocytes 的媒介,發生頻率愈高, graft 的長期預後較差 (D) Chronic rejection 的發生與 T cell 與 B cell 有關,移植器官的主要病理變化為 fibrosis and scarring 【詳解】超急性排斥反應是因血型不符合,或是受贈者體內有 | 98(一)專醫五-1 | Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 所致,為革蘭性陰性菌。叮咬處會出現焦痂(eschar),大多無痛性,伴隨有發燒、頭痛、出汗、結膜充血和淋巴結腫大。發燒一週後身體會出現暗紅性丘疹並擴散至四肢,數天後會消失。恙蟲體立克次體會攻擊血管內皮細胞,組織切片可見lymphohistiocytic vasculitis。病患多數有旅遊史,台灣病例主要分佈在金門縣、澎湖縣、台東縣、花蓮縣和南投縣。診斷可作PCR 病原體檢測及細胞培養法做病原體分離或以間接螢光抗體法(Indirect Immunofluorescene Assay, IFA)測其 IgM 及 IgG 抗體, IgM $\geq$ 1:80 或 IgG 有 4 倍以上上升者判定為陽性。治療則給予 Doxycycline bid 七天。以上選項皆對。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - ...tis。病患多數有旅遊史,台灣病例主要分佈在金門縣、澎湖縣、台東縣、花蓮縣和南投縣。診斷可作 PCR 病原體檢測及細胞培養法 做病原體分離或以間接螢光抗體法(Indirect Immunofluorescene Assay, IFA)測其 IgM 及 IgG 抗體,IgM $\geq$ 1:80 或 IgG 有 4 倍以上上升者判定為陽性。治療則給予 Doxycycline bid 七天。題意敘 述和圖片所示之焦痂皆符合恙蟲病,故錯誤為 (A)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 3. 皮膚切片下為 leukocytoclastic vasculitis 的表現,會有 neutrophil 浸潤於血管本身或 周圍、nuclear dust、RBC 滲出到血管外、以及血管壞死。另可染 Direct immunofluorescence (DIF),去鑑別是哪種疾病引起的 small vessel vasculitis,例如: - (1) Henoch-Schönlein purpura:血管周圍有 IgA 沉澱。 - (2) Cryoglobulinaemia:血管周圍有 IgM 沉澱。 - (3) Cutaneous polyarteritis nodosa 和 ANCA-positive vasculitis: DIF 則多為 negative。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -76,7 +79,6 @@ tags:
 - 3. Albumin/Globulin ratio - (1) 一般人的 Albumin 占血中 Total protein 50~60%,所以 Albumin > Globulin。 - (2) 若 Albumin 5 g/L,可藉由電泳 (Electrophoresis)於 γ 區看到 M spike; - (2) 再進一步由免疫固定電泳(Immunofixation electrophoresis)分析 M spike,可分出一種重鏈(IgG、IgA、IgM)及一種輕鏈(κ、λ)。 - (3) 有 20% 的 Multiple myeloma 只產生輕鏈,稱為 Light chain disease。 - (4) M protein 排到尿中又稱作 Bence Jones protein。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - ...檢Screen | Mab or, ve β γ ab or, ve β γ (正常) (M spike) | | 免疫固定電泳(Immunofixation EP) | 定性 ( Qualitative )分出一種重鏈 (IgG、IgA、IgM)及一種輕鏈 (κ、λ) | 確認Confirm | string pla | Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - \*Lymphoplasmacytoid lymphoma = Waldenstrom's macroglobulinemia Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...HAHE HE | Eosinophil→寄生蟲 | | IL2, IL4 | | IL4, IL5, IL6IL10,IL13 | Mast cell, Basophil → 過敏 | | | | ILIU,ILI3 | B cell IgM,G,A,E switch →引發發炎反應 | | TGFβ, IL6 | Th17 (RORYT) | IL17,IL21,22 | 發炎(吸引嗜中性球)、自體免疫(乾癬、RA、SLE等) | | TGFβ, IL2 | Treg (FoxP3) | TGFB, IL10 | 免疫調節、適應 (Immune tolerance) | Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 
 ## Clinical Caveats
 

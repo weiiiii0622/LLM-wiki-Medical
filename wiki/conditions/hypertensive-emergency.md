@@ -19,6 +19,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Hypertensive emergency (高血壓急症)'
   - 'Hypertensive emergency'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- (B) 1. 急性肌腔室症候群(acute compartment syndrome)是骨科急症之 108( ) 專一,若未即時進行減壓手術,將導致組織缺血及壞死。關於急性 醫五-56 肌腔室症候群之敘述,下列何者錯誤? - (A) 骨折是最常見的原因 - (B) 受到創傷後,大腿遠比小腿容易發生 - (C) 即使患側肢體的周邊脈搏搏動(peripheral pulse)及微血管 回流(capillary return)正常,仍不可排除 - (D) 疼痛常是最早出現的症狀 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- c. 馬尾症候群(Cauda equine syndrome)(急症):壓迫到 S2-4, 薦神經支配的 部位會麻痛無力,甚至使腸道、膀胱失去正常功能,大小便失禁、尿液感減退、尿意滯留、排尿困難。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 【詳解】惡性高血壓引起的神經症狀,要考慮 Hypertensive encephalopathy。頭痛為首先發生的症狀,然後可能造成意識障礙,視力模糊,癲癇等。影像可見 occipital lobe edema。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 1. 此症狀屬於精神科的急症,可發生在使用抗精神病藥物治療的任一個時期。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 1. 外科急症:接觸病人時,首先要排除外科急症的可能性。如腸套疊、闌尾炎、消化 道扭轉(volvulus)、消化道潰瘍破裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如 睪丸扭轉)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -71,8 +77,6 @@ tags:
 - | (B) | 1. 高血鈣急症的治療原則下列那一項最不適當? (A) 立即補充生理食鹽水 (B) 使用 thiazide 類利尿劑 (C) 惡性腫瘤引發高血鈣可以考慮給予雙磷酸鹽(bisphosphonates) (D) 維生素 D 造成的高血鈣症可以考慮使用類固醇治療 【詳解】Thiazide 可能會加重高血鈣。 | 107(二)專醫三-10 | |-----|---------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...析多年。血液檢查顯示血鈣值為 2.75 mmol/L,i-PTH 值為 650 pg/mL,下列那一項敘述正確?(A) 已有腎衰竭,考慮血鈣之高低時,不需以血液中之白蛋白值加以調整 | 99(二)專醫三-56 | | | (B) 治療高血鈣急症,使用 bisphosphonate 比使用 calcitonin 之效果較慢出現(C) 副甲狀腺之增生腫大屬代償性,不應考慮手術切除(D) 腎衰竭是做 Sestamibi parathyroid scan 檢查的禁忌症 | | | (C) | 8. 用手指敲耳前方時引起顏面肌肉抽動(twitching),最可能是那一種異常? (A) 血鉀過高 (C) 血鈣過低 (D) 血磷過低 【詳解】Chvostek's sign:輕敲耳前的顏面神 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (1) 此屬外科急症,好犯於胃次全切除術及 B-II 吻合術最初幾週內,afferent loop 阻塞,小腸液、膽汁、胰液很快就充滿 afferent loop,並導致膽汁、胰液滯留,而發生膽囊炎、胰臟炎。 Source: [[sources/med3-book2-ch05|庚、胃疾病 – 其他]].
-- ...NPH insulin 20 單位皮下注射(B) 0.9% NaCl 3,000 mL 靜脈輸注(C) 抗生素治療(D) 7% sodium bicarbonate 40 mL 靜脈注射【詳解】病人狀況接近 HHS,先灌水打胰島素治療,而急症應該使用速效或短效胰島素,使用 NPH 並不適合。 | 101(二)專醫三-53 | |-----|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- (2) 重症病患 (Critical ill) 與腎上腺機能低下: - a. 發生急症(開刀、外傷、敗血症)時,Cortisol會上升6~10倍、且失去日夜變化(白天高、晚上低);若Cortisol無法提升到身體需要的量以控制發炎反應、維持血壓,則稱為 Relative adrenal insufficiency。 - b. 診斷:若病人的 cortisol 無法提升至 15 μg/dL 以上,或注射 250 μg Cosyntropin 血中 Cortisol 與基準值相比,無法上升大於 9 μg/dL,可診斷 Rel Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 
 ## Clinical Caveats
 

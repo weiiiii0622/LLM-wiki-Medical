@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch10]]"
 aliases:
   - 'Electroencephalography, EEG (腦電圖)'
   - 'Electroencephalography, EEG'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-記錄大腦皮質電活動，用於 epilepsy 分型、encephalopathy、CNS infection 與 CJD 等評估。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+記錄大腦皮質電活動，用於 epilepsy 分型、encephalopathy、CNS infection 與 CJD 等評估。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...| (C) | 8. | 下列何者對於潛在性器捐者的腦死判定不是必須的條件? | 100(二)專 | | | | (A) 能否自行呼吸測試 | 醫五-40 | | | | (B) 瞳孔放大,無光反射 | | | | | (C) 腦波圖 (EEG) | | | | | (D) 無新陳代謝障礙 | | | | | 【詳解】 $E_1V_1M_2$ ,4分。 | | | | | | | Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - ...ic)幾秒鐘。 - b. 發作後會有一段時間意識混淆 (postictal confusion), 甚至可能因為 neuron exhaustion, 導致持續有局部的神經症狀,稱做 Todd's paralysis。 - c. 癲癇發作後腦電圖(EEG)仍可見棘波(spikes),可用來與暈厥(syncope) 鑑別診斷。 - (2) 失神性發作 (absence) =小發作 (petit mal): - a. 常發生於小孩,意識會短暫幾秒鐘到幾分鐘的突然消失,但發作後不會嗜睡、 意識混淆。常見的例子是小男孩在學校上課時常發呆,以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperven Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...癲癇(frontal lobe epilepsy)的描述何者錯誤? 107(二)專 (A) 癲癇發作(seizure) 短暫,可能不會有癲癇發作後混亂 醫四 -51 (postictal confusion) (B) 腦波圖 (scalp EEG) 可能看不出明顯異常 (C) 癲癇發作傾向在晚上睡眠中 (D) phenytoin 為治療首選藥物 【詳解】frontal lobe epilepsy 治療首選藥物為 carbamazepine。 (B) 10. 一位 55 歲男性,妻子抱怨經常被他半夜睡覺時每隔 20 到 90 秒不 107(一)專 等的一陣陣腿抖動吵醒,這種腿抖動以腳掌及大拇趾 dorsiflexion 醫四 -49 為主,每次抖動約0.5到5秒,他辯稱自己完全不 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...(B) 局部癲癇 (focal seizures) 發作的型態可以出現局部陣攣發 作 (focal clonic seizures) (C) 癲癇發作型態的分類以臨床肢體表現的對稱與否為依據 (D) 癲癇發作型態的分類必須同時依據癲癇發作的腦電圖為依據 【詳解】第50題答(C)、(D)給分。分類依據主要根據臨床發作症狀。 (D) 13. 下列關於全面性強直陣攣癲癇發作(generalized tonic-clonic 106(二)專 seizures)的敘述,何者錯誤? 醫四 -51 (A) 一定會造成意識上的喪失 (B) 通常不會有前兆(aura) (C) ictal cry(或 piercing cry)是導因於呼吸肌與咽喉肌的強直 攣縮 (D) 發作時因副交感作用的加強會 Source: [[sources/med4-book4-ch02|乙、癲癇]].

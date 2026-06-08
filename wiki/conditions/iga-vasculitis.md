@@ -28,6 +28,10 @@ sources:
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book3-ch03]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'IgA vasculitis / Henoch-Schonlein purpura (IgA 血管炎)'
   - 'IgA vasculitis / Henoch-Schonlein purpura'
@@ -42,7 +46,7 @@ tags:
 
 ## Summary
 
-IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +74,17 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - [[sources/med4-book2-ch10]]
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book3-ch03]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (D) 11. 一位 4 歲女童被時速 60 公里機車撞擊,摔離 5 公尺之遠,送到 106( 二 )專 急診時主訴腹痛,血壓 68/40 mmHg,心跳每分鐘 200 下,女童 體重 20 公斤,何種輸液最恰當? - 醫五 -77 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- ...B) 20. 一位 60 歲男性病患於一週前因退化性關節炎接受左髋部人工髓關節全置換手術治療(total hip replacement),術後連續五天注射止痛劑和 cephalosporin 治療,病人於術後第 7 天開始發生持續性腹瀉、腹痛、且帶有少許血便,發燒及白血球增多,但並無腹膜炎現象,此時除了 stool culture 之外,該先如何處理? (A) 給予 Buscopan,並重新使用 cephalosporin 治療 (B) 作 stool cytotoxin assay,保守性治療,並安排大腸鏡檢查 (C) 安排 barium enema 檢查 (D) 安排緊急全大腸切除術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (D) 13.50 歲男性肝臟移植術後第七天,出現右上腹痛及輕微發燒, 100(二)專 g-GT、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (C) 18. 今年 32 歲的李小姐因下腹痛接受腹腔鏡探查 (diagnostic laparo- 100( 二 ) 專 scopy ),術中發現有多發性子宮肌瘤 (multiple uterine myomata), 醫 五 -80 應淮行子宮切除術。但主治醫師沒有在同一次麻醉中立即為李 小姐切除子宫,醫師考量最主要的依據為下列何者? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (D) 17. 一位 36 歲男性患者被送至急診室就醫,當時血壓 182/126 mmHg、 107(-)專心跳每分鐘 112 次、發燒、流鼻涕、腹痛、瞳孔放大、全身肌肉 醫四-72 抽痛。此患者最可能之臨床診斷為何? - (A) 海洛因中毒 (heroin intoxication) - (B) K 他命中毒 (ketamine intoxication) - (C) 安非他命戒斷 (amphetamine withdrawal) - (D) 海洛因戒斷 (heroin withdrawal) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - (D) 41. 一位 42 歲男性患者被送至急診室就醫,當時血壓 180/130 mmHg, 101( 二 ) 專 心跳每分鐘 110 下,發燒、頻頻打哈欠,並抱怨有腹瀉、腹痛、 流鼻涕、流眼淚、全身肌肉抽痛、骨骼疼痛、瞳孔放大。此患者 最可能之臨床診斷為何? Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - (C) 5. 某送貨員個性緊張容易合併腹痛現象,一年前於高架道路塞車時, 106( ) 專 因腹痛及有腹瀉感近乎大便失禁的經驗此後個案不敢再開車上高 醫四 -68 架道路與高速公路而失去工作,隨後甚至不敢搭火車、公車、到 人多或郊外無廁所的地方,而影響生活甚鉅。此個案最可能符合 下列那個診斷? - (A) 適應障礙症 (adjustment disorder) - (B) 創傷後壓力症(posttraumatic stress disorder) - (C) 懼曠症 (agoraphobia) - (D) 泛焦慮症 (generalized anxiety disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
@@ -87,10 +99,6 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - 1. 自體顯性遺傳疾病,臨床表現有: - (1) 腸胃道內會長許多過誤性息肉(hamartomatous polyps),約於孩童至三十歲前 出現,患者會有腹痛、腸胃道出血、反覆腸套疊或貧血等症狀。息肉好發於小 腸,特別是空腸,息肉有機會惡性化為 adenocarcinoma,不過機率不高。 - (2) 表皮黏膜出現黑色素沉澱,常可見病患嘴唇周圍、口腔黏膜、手指或手掌有黑色沉澱斑點,黑色斑點出生時即出現,或是在孩童時期出現,並會隨著時間褪掉,但口腔黏膜的色素沉澱會持續存在。(下圖) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...恥骨上疼痛(suprapubic pain)、incontinence 與尿液有異味(malodorous urine)。 另外,cystitis 不會引起發燒或是腎實質損傷。 - (3) 腎盂腎炎 (pyelonephritis):常見有腹痛或腰痛、發燒、疲倦、噁心或嘔吐、腹瀉。有些新生兒或是幼兒會表現黃疸、躁動不安、餵食困難甚至體重下降。當出現上述癥候時, upper urinary tract infection 要列入考慮。急性腎盂腎炎有可能會造成 pyelonephritic scarring,嚴重者造成日後腎臟功能變差甚至高血壓。 - (4) 無症狀菌尿症(asymptomatic bacteriuria):尿液培養陽性但沒有臨床症狀表現,這種情況幾乎只出現在男性 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 2. Henoch-Schonlein purpura nephritis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 3. Henoch-Schonlein purpura 過敏性紫斑(又稱 anaphylactoid purpura): - (1) 是兒童血管炎中最常見的一種,通常 2~8 歲發病,而一半以上的病人在 5 歲前 出現,男性:女性= 2:1,是一種全身性的血管炎,有 IgA 在血管或組織內沉 積(尤其皮膚及腎絲球中)。 - (2) Clinical criteria (ACR criteria for classification of Henoch-S Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (D) 5.8 歲的小明,主述2天以來有肚子痛及左踝關節疼痛腫脹,身體 檢查時發現下肢有許多紫斑(purpura),下列敘述何者錯誤? - (A) 25~50% 的此類病人會影響腎臟 - (B) 血液中之血小板數目正常 - (C) 若有嚴重腸胃症狀如出血或阻塞,可使用類固醇治療 - (D) 急性期有尿液檢查異常者,建議尿液檢查追蹤 2 個月即可 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 【詳解】病人症狀較有可能是 Henoch-Schonlein purpura, 若有 腎臟病變可用類固醇或免疫抑制藥物治療。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

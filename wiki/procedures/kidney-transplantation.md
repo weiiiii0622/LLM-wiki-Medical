@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Kidney transplantation (腎臟移植)'
   - 'Kidney transplantation'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險
 - [[sources/med3-book3-ch04]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (2)除非原本的腎臟產生病變、難以控制之高血壓或嚴重感染,否則通常不會把原來腎臟切除,而是將新的腎臟移植到左下腹或右下腹的髂窩(iliac fossa)處。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (A) 歷史上最早完成的器官移植為腎臟移植 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (C) 大多數的胰臟移植時常會合併腎臟移植一起進行 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (B) 23. 一位腎臟病患經異體腎臟移植後服用免疫抑制劑控制排斥反應。 100( 二 ) 專 最近發現在左側足背皮膚有一些不痛、不規則之斑塊(如圖 ) , 醫四 -41 病理切片下呈現許多梭狀細胞(spindle cell)和血管樣間隙(slit Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 4. 治療:嚴格控制血壓是治療疾病中最重要的一項,若出現慢性腎衰竭則治療包括飲食調整、控制水分攝取等;當進展為末期腎臟病時,則需要進行腎臟透析或腎臟移植手術。若出現白內障,可接受眼科手術矯治。聽力喪失的情況可能為永久性的,像唇語辨讀或手語的學習,或是配戴助聽器都可對患者有益。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【 詳解】IgA nephropathy 病人約有20~30%出現 progressive disease (ex: renal failure),通常在發病後經過15~20年出現症狀。當出現末期腎病時,考慮腎臟移植。IgA nephropathy的病人,血漿C3補體濃度正常,血漿IgA僅有15%會上升。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -48,7 +53,8 @@ ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險
 
 ## Related Pages
 
-- 待補。
+- [[conditions/kidney-transplant-rejection|Kidney transplant rejection (腎臟移植排斥)]]
+- [[concepts/organ-transplantation|Organ transplantation (器官移植)]]
 
 ## Follow-up
 

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Tourette syndrome (妥瑞氏症)'
   - 'Tourette syndrome'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-多發動作 tic 加至少一種聲語 tic 且持續超過一年。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多發動作 tic 加至少一種聲語 tic 且持續超過一年。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- 3. 又稱作 tic douloureux。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
+- ...| | (D) 伽傌刀放射手術(Gamma knife surgery) | | | (A) | 7. 下列之敘述何者與三叉神經痛無關? | 92(二)專 | | | (A) 會發生眼皮閉合不全 | 外一-39 | | | (B) 又稱 tic douloureux | | | | (C) 最常侵犯第 2 及第 3 分枝 | | | | (D) 微血管減壓(microvascular decompression, MVD)之成功率 | | | | 相當高 | | | | | | | | | | Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - III. Tic Disorder 162 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - IV. Tourette's Disorder 162 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - 3. 常見的共病症包括:品行疾患(conduct disorder)、對立性反抗疾患、情感性疾患、 焦慮性疾患、學習疾患、Tourette 氏疾患、長大甚至可能會有反社會人格違常等。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].

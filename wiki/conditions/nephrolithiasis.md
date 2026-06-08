@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Nephrolithiasis (腎結石)'
   - 'Nephrolithiasis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch06]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- | (D) 21. 下列那一位腦死病患,最不適合成為腎臟移植的捐贈者? (A) 43 歲,糖尿病病患 (B) 35 歲,腎結石病史者 (C) 37 歲,十二指腸潰瘍病史 (D) 20 歲,HIV 陽性 | 98(二)專醫五-5 | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (a) 發病初期會頭痛、倦怠或發燒,身體某側會感到深部疼痛,容易被誤認 為是心絞痛或腎結石等其他問題,皮膚感覺異常(癢、刺痛、燒灼感) 且極度敏感,連碰到衣服也會痛。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (2) 高血鈣時間一久,則鈣離子沉降在腎臟 parenchyma 形成鈣化與結石,造成腎功能受損。此外,腎結石亦會造成嚴重腎絞痛或血尿。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - | 分類 | Xanthine oxidase inhibitor | Uricosuric agent | |-----|----------------------------|-----------------------| | 藥物 | Allopurinol | Benz bromarone | | | Febuxostat (腎差不需調量) | | | 適應症 | 腎功能不佳、腎結石病患 | 每天尿酸排泄 \*有 HLA B5801 的病患使用 Allopurinol 較易造成 Steven Johnson syn. Source: [[sources/med3-book4-ch06|己、關節炎變]].

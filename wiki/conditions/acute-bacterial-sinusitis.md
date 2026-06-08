@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Acute bacterial sinusitis (急性細菌性鼻竇炎)'
   - 'Acute bacterial sinusitis'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- 【詳解】Waters view 可清楚觀察上頷骨(maxillary bone)、顴骨(zygomatic bone)、顴骨弓(zygomatic arch)和下頷骨的冠狀突(coronoid process)結構是否有異常,平時另可用於觀察上頷竇和額竇,檢查是否有鼻竇炎。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- 【詳解】因為有 blood-brain barier,病菌不易經由血液進入腦部,大多由頭顱缺損的入口,進入腦部引起腦膿瘍,或是鄰近組織直接傳播(中耳炎、鼻竇炎、齒源性)。雖然免疫力低下者容易得到,但老人並非最好發的族群。好發位置依序為額葉、頂葉、顳葉、枕葉、小腦和基底核。典型的影像為 CT 上可見 ring enhancement,中間較暗,外圍一層亮部為 abscess capsule。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (C) 35. 一位 85 歲的老先生最近一星期有新發作的右側偏頭痛,而且一 102( ) 專 天比一天嚴重,媳婦說老先生這兩天有嗜睡的傾向,檢查時發現 醫四-48 左臂力道稍弱,則最可能的診斷是: - (A) 偏頭痛 - (B) 右側鼻竇炎 - (C) 硬腦膜下出血 - (D) 老年憂鬱症 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (B) 31.26 歲女性病人,間歇性頭痛已有3年,尤其在月經來之前更容 100(一)專 易發生;頭痛之前常有眼前黑影的現象大約持續5至10分鐘, 頭痛的位置以右眼窩後面最嚴重,有脈搏跳動感,同時有畏光的 現象,通常痛一整天,到隔天睡醒才會好;門診理學檢查無異常 之發現。此病人最可能患有: - (A) 右眼球後腫瘤 - (B) 偏頭痛 - (C) 鼻竇炎 - (D) 右側內頸動脈狹窄 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - d. 併發症:中耳炎、鼻竇炎、頸部淋巴腺炎、風濕熱、腎絲球腎炎。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

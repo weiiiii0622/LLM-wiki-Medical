@@ -25,6 +25,8 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Cardiogenic pulmonary edema (心因性肺水腫)'
   - 'Cardiogenic pulmonary edema'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,13 @@ tags:
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-related acute lung injury, TRALI): 輸血後 6 小時內發生, 臨床症狀有急性呼吸困難、非心因性肺水腫、血壓降低及體溫升高。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- ...每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 5. 臨床表現:一般而言與連接的位置、管腔有無阻塞有關。臨床症狀有不同程度的發 紺、呼吸急促(severe tachypnea)、生長遲緩、呼吸窘迫、肺水腫。血管阻塞越嚴 重則症狀越早出現,預後也越差。如果沒有治療,大多數病人一歲前死亡。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 胸部 X-ray:在出生後最初幾小時或是一天內,心臟大小在影像上不一定會有 cardiomegaly 表現。隨著時間的進展 cardiomegaly 會迅速進展,且會有肺血管 紋的增加,更甚者會有 pulmonary edema。側身的影像可能看到明顯的 PDA。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】從胸部 X 光影像並未顯示明顯的肺水腫或是肺積水。兩側有出現 air bronchogram sign,且橫膈還不至於不明顯。腹部 X 光影像未有因腸胃道破裂而引起腹腔積氣。由以上線索可以推測為 (B) 的機會最大。 Source: [[sources/med4-book1-ch04|丁、感染科學]].

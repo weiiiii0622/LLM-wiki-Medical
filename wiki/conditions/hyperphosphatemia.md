@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Hyperphosphatemia (高血磷)'
   - 'Hyperphosphatemia'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-高血磷常見於腎功能下降，會影響鈣磷與副甲狀腺軸。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血磷常見於腎功能下降，會影響鈣磷與副甲狀腺軸。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- 【詳解】腫瘤溶解症候群(tumor lysis syndrome)癌細胞快速分解會造成高尿酸、高血磷、低血鈣和高血鉀。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...ne kinase)值為 3,365 U/L。尿液分析顯示 Occult blood:強陽性 (4+);Protein:陰性 (-);WBC 3~5/HPF;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...表現很相似 (B) CPPD 引起的急性關節炎常發生在年輕男性,因此要利用關節 - 液結晶分析來和其他關節炎做鑑別診斷 (C) calcium apatite deposition 引起的關節與關節附近發炎,更容易發生在慢性腎臟衰竭合併有 hyperphosphatemia 的病人 - (D) CPPD 與 calcium apatite deposition 結晶引起的關節炎皆可用 colchicine 和 glucocorticoid 治療 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - 2. 實驗室檢查:有無貧血、腎性骨病變、高血磷、低血鈣、副甲狀腺機能亢進等。 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].

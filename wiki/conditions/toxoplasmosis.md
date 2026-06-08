@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Toxoplasmosis (弓漿蟲感染)'
   - 'Toxoplasmosis'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book3-ch15]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...-----------------------------------------------------------------------------------------------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmon Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (1) 血液 IgM 檢查: Toxoplasmosis。 Source: [[sources/med4-book1-ch11|子、新生兒科]].

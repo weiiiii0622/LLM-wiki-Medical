@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'TORCH infections (TORCH 先天性感染)'
   - 'TORCH infections'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,13 @@ Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、�
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch04]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (3) 移植六個月之後,移植受贈者的情況較穩定,感染就跟一般社會大眾一樣 (community-acquired),如流感、泌尿道感染及肺炎雙球菌肺炎。唯一伺機性 病毒感染為 herpes zoster;而 CMV 視網膜炎則較罕見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 帶狀皰疹神經炎(herpes zoster neuritis) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (2) 好發於 45~64 歲間,發病前 2~3 周往往有上呼吸道感染或腸胃道症狀,特別是 EBV、CMV 感染,再經由未明的原因引發免疫系統攻擊周邊神經的髓鞘。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -66,9 +71,6 @@ Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、�
 - (B) human herpes simplex virus type 2 (HSV-2) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - XVI. 單純疱疹病毒 (Herpes Simple Virus) 199 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹子 108( ) 專型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- # I. 先天性感染 (Congenital Infection) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- #### A. TORCH infection Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

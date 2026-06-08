@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Cushing syndrome (庫欣氏症候群)'
   - 'Cushing syndrome'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- ...大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (4) 腦下垂體中風 (pituitary apoplexy): - a. 當腦下垂體腫瘤逐漸擴大時,一旦壓迫到腦下垂體莖的血管,可導致急性的腦下垂體及腫瘤的缺血壞死,造成腦下垂體中風。 - b. 腦下垂體中風也可以被頭部外傷、Sheehan syndrome、內分泌藥物檢驗或治療(肢端巨大症及庫欣氏症候群)、腦下垂體放射線治療、或化學治療所引發。 - c. 症狀: 腦內壓力陡昇所造成的急性臨床症狀有頭痛、噁心嘔吐、視力模糊及 視野缺損、眼球肌肉麻痺及內分泌失調等。 - d. 處置:迅速給予類固醇治療,並在七天內進行經蝶骨(transsphenoidal)手術切除。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. 顱內壓太高 (increased intracranial pressure = IICP): - (1) 特徵: - a. 這類頭痛通常慢慢發生;早上起來最痛,因為平躺一晚,水往頭部分佈,腦 壓增加使然。其他咳嗽、身體彎曲等使腦壓增加的狀況也會惡化頭痛。 - b. 腦壓太高,會造成頭痛、嘔吐;還會造成視乳突水腫(papilledema),而有視力模糊等症狀。 - c. 若腦壓高到造成 tentorial herniation, 會壓到第三對腦神經、中腦,造成瞳孔 放大、失去光反射。 - d. 若使延腦受到壓迫,會有 Cushing triad:血壓高、心跳慢、呼吸不規則。 - (2) 病因: - a. 常需影像學進一步找出 IICP 原因,嚴重的中風導致腦水腫?腦出血?腫瘤? Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (A) Cushing's syndrome Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 1. Endocardial Cushing defects Source: [[sources/med4-book1-ch10|癸、遺傳學]].
@@ -63,8 +67,6 @@ tags:
 - (A) hyperthyroidism - (B) Cushing's syndrome - (C) hypogonadism - (D) hyperaldosteronism Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - ...| 篩檢:IGF-1 ↑ | 先手術→放射、 | | (Somatotrope = GH) | 巨人症 (Gigantism) | 10% | 確診:OGTT (GH ↑ ) | Somatostatin 輔助 | | 皮促素細胞瘤 | 庫欣式病 (Cushing's dz.) | 10-15% | 24 小時尿液 | 先手術→放射、 | | (Corticotrope = ACTH) | 単次式病 (Cusning s dz.) | 10-15% | free cortisol | Ketoconazole 輔助 | | 甲促素細胞瘤 | 中樞甲狀腺亢進 | 最少見 | | 先手術→ PTU、 | | (Thyrotrope = TSH) | (Central hyper Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - 4. ACTH 過高 / 庫欣氏病 (Cushing's disease): 占 70% Cushing's syndrome, 因為症狀明顯, 常能早期診斷。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...rtoli-Leydig cell tumors · Granulosa-theca | | | | cell tumors · Hilus-cell tumors | | | 腎上腺方面 | Adrenal tumors | | | | Cushing's syndrome | | | | Congenital adrenal hyperplasia (most often 21-hydroxylase | | | | deficiency) | | | 内分泌方面 | Severe insulin resistance syndromes | | | | Hyperprolactinemia | Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
-- ...上腺超音波、serum cortisol、ACTH 【詳解】單有多毛症,一般建議驗 total testosterone、DHEA-S;但若合併其他特徵,如此病患的體重過重、腰圍過寬,若懷疑多囊泡卵巢症、卵巢腫瘤,可檢查婦科超音波;若懷疑 Cushing syndrome、腎上腺腫瘤建議檢查 serum cortisol、ACTH、腎上腺超音波。 | 98(一)專醫三-54 | Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
 
 ## Clinical Caveats
 

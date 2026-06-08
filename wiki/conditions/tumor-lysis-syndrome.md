@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Tumor lysis syndrome (腫瘤溶解症候群)'
   - 'Tumor lysis syndrome'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-腫瘤快速破壞造成高尿酸、高血鉀、高血磷、低血鈣與 AKI 風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤快速破壞造成高尿酸、高血鉀、高血磷、低血鈣與 AKI 風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (B) 腫瘤溶解症候群(tumor lysis syndrome) 會造成高鈣血症 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 【詳解】腫瘤溶解症候群(tumor lysis syndrome)癌細胞快速分解會造成高尿酸、高血磷、低血鈣和高血鉀。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (A) 尿酸 (uric acid): 10 mg/dL Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 【詳解】病人血液相裡白血球過高且合併 high blast cell,因 此懷疑白血病的可能。白血病其併發症中需特別留意 tumor lysis syndrome: elevated uric acid and inorganic phosphorus and hyperkalemia • Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - (D) 勃氏淋巴瘤(Burkitt lymphoma) 患童,會出現腫瘤溶解症後群(tumor lysis syndrome),需特別加以留意 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

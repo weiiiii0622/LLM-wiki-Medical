@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch03]]"
 aliases:
   - 'Hypokalemia (低血鉀)'
   - 'Hypokalemia'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,15 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch03]]
 
 ## Key Details From Sources
 
+- 2. 鉀:正常血鉀濃度為 3.5~5.0 mEq/L。 - (1) 低血鉀 (hypokalemia): 症狀有噁心嘔吐、肌肉無力、ileus、橫紋肌溶解和多尿; 心電圖變化有 T 波變平坦、出現 U 波、ST segment 下降、APC/VPC。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- a. Transcellular shift: 鹼中毒、insulin、beta agonist、週期性的低血鉀,使得鉀離子從細胞外往細胞內移動,造成血液中血鉀降低。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- e. 低血鉀病人要注意是否有低血鎂,補鉀前要先補鎂。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - a. 大量輸血有機會造成高血鉀,另外病人大都存在休克狀態,其體內的醛固酮、 抗利尿及皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-related acute lung injury, TRALI): 輸血後 6 小時內發生, 臨床症狀 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 【詳解】(A) 女性較多。(C) 低血鉀現象。(D) 暴食症盛行率(年 輕女性 1~4%) 比厭食症(年輕女性 0.5~1%) 高。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -59,10 +67,6 @@ tags:
 - | | 公式 | 記法 | 意義 | |------|--------------------------------------------------------|------------------------|----------------------------------------------------------------| | TTKG | $(U_{\rm K}/U_{\rm osm})$$(P_{\rm K}/P_{\rm osm})$ | 尿鉀占血鉀的比例再各以 OSM 校正 | 低血鉀中TTKG > 7 表鉀由腎臟漏出TTKG $(P_{Na}/P_{Cr})$ | 尿鈉占血鈉的比例再各以 Cr 校正 | 腎衰竭中FENa FENa > 1 表示鈉由腎臟漏出→內因性腎臟衰竭 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...---------|--------------------------------| | 鈉離子 | 135 to 155 | 132 | HD 選擇較高鈉→不易低血壓 | | 鉀離子 | 0 to 4 | 0 | PD 較 HD 易造成低血鉀 | | 鈣離子 | 2.5-3.5 mEq/L | | 一般用 2.5, 血鈣低者可選 3.5 | | 葡萄糖 | 0 to 0.20 | 1.5, 2.5, 4.25 | PD 的葡萄糖濃度高愈能脱水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35-40 | 維持 pH 65~70% 為佳。 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - ...---------|--------------------------------| | 鈉離子 | 135 to 155 | 132 | HD 選擇較高鈉→不易低血壓 | | 鉀離子 | 0 to 4 | 0 | PD 較 HD 易造成低血鉀 | | 鈣離子 | 2.5~3.5 mEq/ | L | 一般用 2.5, 血鈣低者可選 3.5 | | 葡萄糖 | 0 to 0.20 | 1.5, 2.5, 4.0, 25 | PD 的葡萄糖濃度高愈能脫水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35~40 | 維持 pH = 5.2~5.6 → 不易感染 | Source: [[sources/med3-book3-ch06|己、透析治療]].
-- a. 相較於血液透析,腹膜透析液不含鉀離子,較易出現低血鉀,須由食物或藥物補充。 Source: [[sources/med3-book3-ch06|己、透析治療]].
-- 2. 診斷出代謝性鹼中毒要想想看是不是病人體液不足?是不是過度利尿劑使用?是不是有低血鉀或 hyperaldosteronism ?診斷出代謝性酸中毒後,是否有進一步算陰離子間隙,再分別找出其原因進行治療。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...酸中毒 (Renal tubular acidosis, RTA): 哪些問題會造成腎小管受傷? - a. Type 1 RTA (distal RTA): 自體免疫 (Sjögren syn) 造成遠段腎小管破壞→無法排 H+造成酸中毒、低血鉀; 尿中 H+ ↓→尿 NH4+ ↓ (UAG > 0)、尿 pH > 5.3 - b. Type 2 RTA (proximal RTA):蛋白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...0. 下列關於 Liddle's syndrome 的敘述,何者錯誤? (A) 為自體顯性遺傳,amiloride-sensitive sodium channel 發生 activating mutations (B) 臨床表現有高血壓,低血鉀及代謝性鹼中毒 (C) 血清 renin 濃度高,aldosterone 濃度高 (D) 低鈉飲食及 amiloride 可矯正其高血壓及電解質異常 【 詳 解 】(C) Liddle's syndrome 重 點: 血 清 renin 濃 度 低,aldosterone 濃度低,但卻表現 Hyper RAS(留鈉排鉀排氫)。 | | | (C) | 21. 下列何者為正常陰離子隊代謝性酸中毒(normal anion gap meta Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 
@@ -72,6 +76,7 @@ tags:
 ## Related Pages
 
 - [[conditions/hypokalemic-periodic-paralysis|Hypokalemic periodic paralysis (低血鉀週期性麻痺)]]
+- [[conditions/postoperative-ileus|Postoperative ileus (術後腸麻痺)]]
 
 ## Follow-up
 

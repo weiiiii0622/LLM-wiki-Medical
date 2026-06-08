@@ -28,6 +28,7 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Immunosuppressants (免疫抑制劑)'
   - 'Immunosuppressants'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,13 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 【詳解】本題解答應為(D),目前可用 Azathioprine、prednisolone 和 Ritaximab 來預防。Interferon-β 不應使用在 NMO 患者上, 會有惡化疾病的可能。Glatiramer acetate 目前無足夠資料顯示對 治療 NMO 有效。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (1) 疾病初期可使用局部或是全身性的類固醇及免疫抑制劑(如 MTX, tacrolimus等)來控制發炎。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -88,9 +93,6 @@ tags:
 - (B) 13. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時,下列那一項不是其常見的併發症? Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (4) 治療:控制好引發 HLH 的原因是最基本的治療,然後再用以下方式。 - a. 化療藥物: etoposide + dexamethasone +/- cyclosporine。 - b. IVIG + steroid 使用在低危險族群。 - c. 無法控制的脾功能亢進者考慮脾切除。 - d. 幹細胞移植:有機會治癒,特別是 primary HLH 的病人。目前治癒率可達到 6 成以上。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (2) 藥物:類固醇、生長激素、β agonist、cyclosporine。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (2) Class III、Class IV 可見 Subendothelial immune deposits、腎絲球活躍地發炎,須積極以高劑量類固醇+免疫抑制劑(Cyclophosphamide)治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 
 ## Clinical Caveats
 
@@ -99,7 +101,9 @@ tags:
 
 ## Related Pages
 
+- [[concepts/organ-transplantation|Organ transplantation (器官移植)]]
 - [[conditions/pemphigus-vulgaris|Pemphigus vulgaris (尋常性天疱瘡)]]
+- [[conditions/transplant-rejection|Transplant rejection (移植排斥反應)]]
 
 ## Follow-up
 

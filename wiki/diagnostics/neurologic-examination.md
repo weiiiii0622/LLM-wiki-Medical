@@ -9,6 +9,9 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch19]]"
 aliases:
   - 'Neurologic examination (神經學檢查)'
   - 'Neurologic examination'
@@ -23,7 +26,7 @@ tags:
 
 ## Summary
 
-系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +35,17 @@ tags:
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch19]]
 
 ## Key Details From Sources
 
+- ...頸部開始酸痛,沿著肩膀、手臂到手指產生麻痛沒力。 - b. 無法做精細的動作,走路腳步越來越僵硬無力、麻痺,有時拖鞋掉了都不 自覺。 - c. 手和腳會有像被電到的感覺,尤其當脖子彎曲時,更容易引發被電到的感覺 和手臂疼痛麻木。 - d. 神經學檢查為 upper motor neuron disease 的表現: - (a) 下肢肌肉張力增強; 膝反射及足根反射增強。 - (b) 用力壓下腳背會引發腳步向上下快速擺動(陣攣 clonus )。 - (c) Babinski sign: positive • - (d) Hoffman's sign:輕彈中指,會引起大拇指及食指彎曲。 - (e) Tandem gait : unstable • - e. 最常造成頸椎神經根壓迫的位 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (2) 症狀:頸部疼痛以及頸部的 ROM 受限,但是通常神經學檢查會是正常的。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (C) 44. 患者神經學檢查, 肱三頭肌反射 (triceps reflex) 有減弱或消失 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- 6. Neurologic exam: (詳見醫學(四)第4冊-神經內科:甲、神經學檢查) - (1) 十二對腦神經檢查。 - (2) 意識評估(GCS)。 - (3) 運動功能檢查。 - (4) 感覺功能檢查。 - (5) 反射檢查。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- (C) 5. 男性 60 歲病患至門診主訴最近半年行動逐漸緩慢,而且記憶力也衰退。神經學檢查發現病患神智清醒,近期的記憶較差,言語速度正常,顱神經正常,四肢肌力正常,但步態小且步行速度較遲緩,小便有時會失禁。則最可能的診斷為: Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - II. 神經學檢查 21 - A. 意識狀態 21 - B. 定位方法 21 - C. 上肢運動、感覺神經 24 - D. 下肢運動、感覺神經 25 - E. 反射弧 26 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (C) 4.66 歲男性,無過去病史,某天早上起床盥洗時發現自己無法漱口,右側眼睛無法完全閉合。神經學檢查發現病人有周邊型顏面神經麻痺(peripheral type facial palsy),下列何者較不可能發生? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (C) 5. 一位 60 歲女性,於一週前發生複視(diplopia),並無劇烈頭痛,神經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
@@ -56,6 +67,7 @@ tags:
 - [[anatomy/cerebellum|Cerebellum (小腦)]]
 - [[anatomy/cranial-nerves|Cranial nerves (腦神經)]]
 - [[diagnostics/glasgow-coma-scale|Glasgow Coma Scale, GCS (格拉斯哥昏迷指數)]]
+- [[conditions/herniated-intervertebral-disc|Herniated intervertebral disc, HIVD (椎間盤突出)]]
 - [[concepts/lower-motor-neuron-lesion|Lower motor neuron lesion, LMN lesion (下運動神經元病灶)]]
 - [[concepts/upper-motor-neuron-lesion|Upper motor neuron lesion, UMN lesion (上運動神經元病灶)]]
 

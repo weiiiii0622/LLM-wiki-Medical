@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Wilson disease (威爾森氏病)'
   - 'Wilson disease'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-銅代謝異常造成肝病、神經精神症狀與 Kayser-Fleischer rings。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+銅代謝異常造成肝病、神經精神症狀與 Kayser-Fleischer rings。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (5) 先天性肝臟代謝疾病,如 Wilson disease, Neonatal iron storage disease (新生兒 鐵貯積症)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...- 舞蹈症+認知障礙 | | 再往內給底丘腦核、蒼白球再給丘腦的腹前核、腹外核最後再傳回大腦皮質 | | 豆核 *- 手足徐動症 (Athetosis) | | | | - 不自主手足慢速扭曲 ( 小關節 ) | | | | 豆核 *- 威爾森氏症 (Wilson's dz.) | | | | - 不自主運動+肝功能異常 | | | 京に野女 (C-bth alamas may) | 芭蕾舞症 (Ballism) | | | 底丘腦核 (Subthalamus nu.) | -不自主四肢近端大規模投擲、跳躍(大關節) | | DZ 657-1-104 456 五百4-4-11-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1- | 阿桥 (C-1-44 | 巴金 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - #### (5) 威爾森氏症 (Wilson disease): Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - a. 25 μg/dL)、24 小時尿液 銅離子排泄增加 (urinary copper level > 100 μg)、且血中藍胞漿素 (Ceruloplasmin)減少 ( 要考慮的其他診斷 | |-------------------------------------------------|---------------------------| | Falls as the first symptom 以跌倒為第一個症狀 | PSP | | Exposure to neuroleptics 有服用抗精神病藥物 | Drug-induced parkinsonism | | Associa Source: [[sources/med4-book4-ch06|己、大腦疾病]].

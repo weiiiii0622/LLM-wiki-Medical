@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Dopamine agonists (多巴胺致效劑)'
   - 'Dopamine agonists'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-直接刺激 dopamine receptors，用於 Parkinson disease，但可有嗜睡、幻覺、衝動控制障礙。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+直接刺激 dopamine receptors，用於 Parkinson disease，但可有嗜睡、幻覺、衝動控制障礙。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (D) 口服 dopamine agonist 如 bromocriptine,可使 80% 泌乳激素瘤 (prolactinoma) 縮小 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (1) 不動(= dopamine 太少→減少抑制 GABAergic 神經元→導致 GABAergic 神經元抑制動作的效果增加→不動),如巴金森氏症的動作緩慢,要給 dopamine agonist 治療; Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...ic 神經元退化 | GABAergic 神經元退化 | | 正性症狀 | 顫抖 (Tremor)、肌肉僵硬 (Rigidity) | 舞蹈症 (chorea) | | 負性症狀 | 動作緩慢 (Bradykinesia) | | | | Dopamine agonist | Dopamine antagonist | | 付加 | Anticholinergics 等 | (Haloperidol) | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (3) 刺激 dopamine 接受器 (dopamine agonist): - a. 麥角類(Ergot alkaloid): Bromocriptine (Parlodel®)、Pergolide (Celance®), 單獨或合併其他藥物來治療巴金森氏症。 - b. 非麥角類: Pramipexole (Mirapex®)、Ropinirole (Requip®),為巴金森氏 症在病程早期、較輕微時的首選用藥。 - \* 這類 dopamine agonist 作用在「紋狀體」的 D2 接受器,**副作用會噁心、嘔吐**(記: primperan 是 dopamine antagonist,用來治噁心),還會造成低血壓(和打到周邊血管的 dopamine 剛好相反!!)。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].

@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Infantile hemangioma (嬰兒血管瘤)'
   - 'Infantile hemangioma'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-嬰兒期血管增生性腫瘤，多數先增生後退化；危及功能或潰瘍時需治療。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嬰兒期血管增生性腫瘤，多數先增生後退化；危及功能或潰瘍時需治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- (B) 4. 下列何者是治療麻醉氣體引起的惡性高溫 (malignant hyperthermia) 最主要的藥物? 107(-) 専 - (A) propranolol - (B) dantrolene - (C) doxazosin - (D) nifedipine Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 5. 慢性預防:(A、B、C) - (1) Antidepressant (如 amitriptyline); Anticonvulsant。 - (2) β blocker: 如 Propranolol。 - (3) CCB:如 Flunarizine。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...8. 一位罹患躁鬱症(bipolar disorder)和氣喘的病人,偏頭痛變得 105(一)專 越來越頻繁,目前一週會有兩三天的偏頭痛發作。醫師打算使用 醫四-49 預防性藥物治療來減少她的偏頭痛,下列何種藥物是最合適的 治療? (A) propranolol (B) divalproex (C) amitriptyline (D) lithium 【詳解】預防用藥的選擇:amitriptyline、propgranolol、flunarizine、 valproic acid、topiramate,本題個案患有 bipolar disoder 和氣喘,應 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...| | | (C) 緊縮型頭痛(tension-type headache) | | | (D) 叢發性頭痛 (cluster headache) | | | (AD)27. 偏頭痛之預防治療藥物為: | 101(一)專 | | (A) propranolol | 醫四 -57 | | (B) metoclopramide | | | (C) sumatriptan (D) ergotamine | | | 【詳解】本題答A或D或AD者均給分。一般常用藥物:pro- | | | pranolol、amitriptyline、flunarizine、valproic acid或topiramate等。 | | Source: [[sources/med4-book4-ch03|丙、頭 痛]].

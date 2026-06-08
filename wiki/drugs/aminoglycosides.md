@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Aminoglycosides (胺基糖苷類)'
   - 'Aminoglycosides'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- ...道、消化道、泌尿道或生殖道的手術。 - b. 手術類型:Gastrectomy、Hysterectomy。 - c. 感染機率:5%。 - d. 需使用抗生素,以第一線用藥為原則,使用第一代 cephalosporine 針對革蘭氏陽性菌,aminoglycoside 針對革蘭氏陰性菌。若有厭氧菌感染之可能,可使用 Unasyn、Augmentin、Cefmetazole 等為第一線預防性抗生素。 - (3) 汙染傷口 (contaminated): - a. 定義:6~8 小時內新產生的開放性傷口;沒有經過清腸準備的腸胃道手術。 - b. 手術類型: Ruptured appendix、Resection of unprepared bowel。 - c. 感染機率: 20%。 - d. 以治療性 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (D) 病人感染時使用 aminoglycoside 藥物 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (C) 1. 治療黴漿菌 (*Mycoplasma pneumoniae*) 肺炎,下列何種藥物最 109(二)專 適當? 醫四-4 - (A) Penicillin - (B) Vancomycin - (C) Azithromycin - (D) Gentamicin Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) ampicillin 與 gentamicin 投予 7 天 Source: [[sources/med4-book1-ch04|丁、感染科學]].

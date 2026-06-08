@@ -31,6 +31,9 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -45,7 +48,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +79,17 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...巨噬細胞之能量來源。是維持腸道黏膜完整和免疫功能的重要物質,在 stress 和敗血症時含量會很明顯地下降。 - (5) Arginine:為一氧化氮(NO)的原料來源,促使血管舒張減少心臟輸出的負荷, 緩和心紋痛的狀況,降低低密度脂蛋白(LDL)氧化,另外能促進傷口癒合, 以及促進免疫系統分泌自然殺手細胞、吞噬細胞和 interleukin-1。 - (6) 支鏈胺基酸 (Branched-chain amino acids, BCAA):包括 Leucine, Isoleucine, Valine 均屬必須胺基酸,可直接由骨骼肌代謝產生能量而非肝臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - ( Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- ...| (D) | 4. | 使用全靜脈營養(TPN)之後產生膽汁鬱積(cholestasis),下列何者是最理想的治療方法? (A) 增加脂肪乳劑施打 (B) 增加脂溶性維生素的補充量 (C) 使用中鏈三酸甘油酯(medium-chain triglyceride)的配方 (D) 儘可能恢復腸道營養 | 108(一)專醫五-48 | | (B) | | 相較於靜脈營養,腸道營養對手術病人營養支持之好處,下列何者錯誤? (A) 吃進去的多醣(polysaccharides)在大腸會被細菌發酵(bacterial fermentation),以維持腸道正常菌落 (B) 嚴重血流動力學不穩定(marked hemodynamic instability)的病人適合給與腸道營養 (C) 有較好的腸胃道免 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- 【詳解】水溶性纖維可與脂肪酸結合,降低膽固醇總量和 LDL 膽固醇,延長食物在胃中停留的時間,從而減慢糖分釋放及被吸收的速度,有助糖尿病患者控制血糖。非水溶性纖維能幫助食物渣滓通過腸道,防止便秘,控制及平衡腸道的酸鹼值,防止微生物產生致癌物質,有助預止結腸癌。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- ...鈉:正常血鈉濃度為 135~145 mEq/L。 - (1) 低血鈉(hyponatremia)症狀為輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。 - a. Pseudohyponatremia:發現病患低血鈉,首先要排除高血糖、高血脂等高滲透 壓造成的相對低血鈉,真的低血鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% Na Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 6. Sirolimus:機轉不同於 Cyclosporine 和 Tacrolimus,作用在 mTOR (或稱 FRAP1),抑制 IL-2 和其他細胞內的訊息傳遞,阻斷 T 和 B 細胞的活化。不具腎毒性,且因作用機轉不同於目前其他免疫抑制劑,所以常用來和其他免疫抑制劑合併使用來增強效果,並減低其他藥物的副作用。副作用有高血壓、腹瀉、水腫、蛋白尿、血小板下降、白血球下降、貧血及高血脂。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...---------------------------------|----------------------| | 大血管 * 粥狀硬化Athero- thromboticor a. to a. emboli | 中大型動脈 | DM、高血脂等因素形成粥狀硬化瘤(Atheroma) 若破裂引起血小板聚集,則造成阻塞;或在 ICA 較軟的 thrombi脫落,在遠方動脈梗塞 | 大腦皮質、腦幹、小腦症狀 | | 心源性血栓 | MCA 的上支 | CA的上支 心臟來的血栓塞住,病灶多在灰質 | | | Cardio-embolic | (併發癲癇↑) | 蘭↑) 較易轉化為出血性梗塞 | | | 小血管栓塞Lacunar infarction | 小動脈穿透支 | 因「高血壓 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 1. 大血管粥狀硬化 (athero-thrombotic or artery to artery emboli): - (1) 位置:中大型動脈(ACA, MCA, PCA, BA, ICA×2, VA×2)。 - (2) 成因:因 DM、高血脂等形成粥狀硬化瘤(Atheroma)。 - (3) 診斷:頸部超音波、穿顱超音波、MRA。 - (4) 治療:若 ICA > 60% 有症狀的狹窄,或> 70% 無症狀的狹窄,建議放 Stent。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...A)右側後下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -92,11 +103,6 @@ tags:
 - (B) 12. 當懷疑有抗磷脂質抗體症候群(antiphospholipid antibody syndrome) 103(ニ)専時,下列的何種檢查最為重要? - (A) C3 及 C4 - (B) prothrombin time 及 activated partial thromboplastin time - (C) ESR 及 CRP - (D) cholesterol 及 triglyceride Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...----------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL 異常,只 | | | | | 當一項計算之) | | 腹部肥胖或肥胖 | 腰圍 (cm): | 腰圍 (cm): | BMI ≥ 30 kg/m² 或腰臀比: | | | 男≥ 90 | 男> 102 | 男> 0.9 | | | 女≧ 80 | 女> 88 | 女> 0.85 | | 三酸甘油酯 (TG) | ≥ 150 mg/dL | $\geq$ 150 mg/dL | $\geq$ 150 mg/dL | | 高密度酯蛋白 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - (C) 肥胖與血脂異常、第二型糖尿病、癌症有關 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ...接因跌倒而產生的疾病。老年人常見的呼吸道疾病應該是以肺部感染為大宗。 | 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 22 mg/dL (B) 85 mg/dL (C) 130 mg/dL (D) 162 mg/dL 【詳解】(D) 當總膽固醇小於 400 mg/dl 時,可以用公式 LDL-C=(TC)-(HDL-C)-(TG/5)=162 mg/dl。 | 104(一)專醫三-61 | | (A) 28. | . 一位 85 歲王先生,患有高血壓、糖尿病多 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ...i」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- ...人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- (B) 1. 一位 18 歲男性大學新生,一星期前入學體檢報告正常。三天前參加新生盃籃球比賽後關節酸痛,自行購買止痛藥(diclofenac)服用後開始出現小便泡沫與腳腫,故至門診求診。無嘔吐、腹瀉、發燒與頻尿症狀。理學檢查發現:血壓 160/90 mmHg,呼吸速率每分鐘 20下,四肢出現紅疹,雙下肢 4+ 水腫。血液檢查:尿素氮(BUN)52mg/dL、肌酸酐:2.0 mg/dL,白蛋白 1.8 g/dL,白血球 7,000/μL,血色素 10.2 g/dL,膽固醇 320 mg/dL,三酸甘油脂(triglyceride)260mg/dL。尿液檢查:紅血球 2~3 顆/HPF,白血球 3~5 顆/HPF,尿液總蛋白質與肌酸酐比值為 12 g/g Cr。下列何項為最可能的診斷? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...ria) (B) 血尿(hematuria) (C) 腎臟肥大(enlarged kidney) (D) 肌酐上升 | 99(二)專醫三-25 | | (D) | 12. | 下列何者非腎病症候群之臨床特徵? (A) 低白蛋白血症 (B) 高血脂症 (C) 24 小時尿蛋白總量超過 3.5 克 / 1.73 m² (D) 氮血症超過 3 個月 | 99(一)專醫三-25 | | (C) | 13. | 下列何種腎絲球病變與 B 型肝炎病毒感染無關? (A) Membranous glomerulopathy (B) IgA nephropathy (C) Anti-glomerular basement membrane disease (D) Polyarteritis no Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

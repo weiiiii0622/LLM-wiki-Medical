@@ -34,6 +34,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Pleura (肋膜)'
   - 'Pleura'
@@ -48,7 +50,7 @@ tags:
 
 ## Summary
 
-肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +84,15 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book1-ch09]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (1) Video-assisted thoracoscopic surgery (VATS): - a. 電視輔助胸腔手術,當作了胸腔穿刺或是經皮肋膜切片仍無法診斷疾病時, 會選擇用 VATS 進去作切片。 - b. VATS 經常用來作肺邊緣小結節切片、縱膈腔腫瘤及淋巴切片來診斷惡性或 良性。 - c. 在診斷肋膜疾病有 95% 的準確率。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- (1) VATS 也可用來治療疾病: - a. 肺邊緣小結節切除、肺氣泡切除(bleb resection),肋膜切除(pleurectomy) - b. 膿胸 (empyema) 處理。 - c. 肺膜沾合術 (pleurodesis)。 - d. 交感神經切除術(sympathectomy):切除 T2 交感神經節,治療手汗(hyperhidrosis palmaris)。 - e. 心包膜開窗術 (pericardial window)。 - f. 較複雜的胸腔手術: 食道肌切開術 (myotomy)、縱膈腔或肋膜腫瘤的切除、肺葉或肺全切除術 (lobectomy or pneumonectomy) 以及食道切除術 (esophagectomy)等。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- 3. 絕對禁忌症:肋膜腔嚴重的沾黏、無法承受單肺通氣(one lung ventilation)的病人。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- ...) | | | (C) 第六或七肋間,腋中線(6th or 7th intercostal space, mid-axillary | | | line) | | | (D) 視病患之情況而定【詳解】胸管放置的適應症包含氣胸、血胸、乳糜胸、肋膜腔 | | | 積水積膿、術後引流等,放置位置約在腋中線或腋前線,第四 | | | 和第五肋間。 | | | (B) 15. 嚴重多重外傷病患經積極治療及手術後,如能夠存活超過一星 | 105(二)專 | | 期,最常見之晚期死亡原因為何? | 醫五-4 | | (A) 嚴重頭部外傷 (B) 多重器官衰竭 | | | (C) 出血性休克 (D) 急性腎衰竭 | | | (A) 16. 下列關於癌症和它的腫瘤標記(tumor marker Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...nts, | | | | | | | characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coomb Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - | | Image pattern | Distribution | Pleural effusion | |------------|---------------------------------|----------------------------------------|------------------| | Bacteria | Alveolar | Usually unilateral: lobar or segmental | Maybe | | Virus | Hyperinflation Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) 痰液或肋膜積液的培養與格蘭氏染色。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -99,10 +107,6 @@ tags:
 - (B) 14. 根據 1982 年美國風濕病學院所制定的全身性紅斑狼瘡(SLE)的 11 102( 二 ) 專項分類準則中符合 4 項即可診斷。下列何種組合最符合 SLE 的診斷? - (A) 臉頰部紅斑,發燒,關節疼痛及口腔黏膜潰瘍 - (B) 抗核抗體陽性,抗 dsDNA 抗體升高,尿蛋白 1.25 公克/天,以及血小板數為 $68,000/\mu$ L - (C) 多發性關節炎,抗核抗體陽性,白血球增加及肋膜炎 - (D) 多發性關節痛,口腔黏膜潰瘍,抽搐及血清補體 C3 降低 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 【詳解】肺栓塞會使肺動脈血管阻力上升導致肺高壓,常見症狀包括 dyspnea、pleural pain、tachycardia、syncope(cardiac output 突然 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - e. Pleural or pericardial effusion Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- 病程相關:癌細胞侵犯肺部、肋膜積水、大量腹水、心包膜積液 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (B) 16. 陳太太,48 歲,二年前被發現卵巢癌並經手術切除後即未規則於門 診追蹤,三個月前因腹痛就診,發現卵巢癌復發且合併腹腔多處轉 移,經化化學治療仍無效,最近二週因喘得厲害而住院治療。胸部 X光顯示雙側肺部有多處大小不一的腫瘤且合併雙側肋膜積水,雖 經胸水放液術 (pigtail drainage) 多次, 肋膜積水仍然未見消退, 且陳太太已表明拒絕心肺復甦術或進一步的胸管放置或胸水放液術 的施行。下列何種治療或建議較為適當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (A) 因肋膜積水導致呼吸困難會危及生命,故仍應堅持給予胸管放 置或胸水放液術 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (3) **肋膜、肺侵犯**:最常見間質性肺病(以 NSIP、UIP 居多)、還可能以肋膜肺結節(Pleuropulmonary nodules)表現;若發生在肺塵症(Pneumoconiosis)的病患身上,可見廣泛性的結節纖維化,稱為 Caplan's syndrome。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 
@@ -112,6 +116,7 @@ tags:
 ## Related Pages
 
 - [[conditions/pleural-effusion|Pleural effusion (肋膜積液)]]
+- [[procedures/thoracoscopy|Thoracoscopy / VATS (胸腔鏡)]]
 
 ## Follow-up
 

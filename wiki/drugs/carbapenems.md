@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch14]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Carbapenems (碳青黴烯類)'
   - 'Carbapenems'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-廣效 beta-lactam，常用於 ESBL/AmpC 等抗藥性 GNB。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+廣效 beta-lactam，常用於 ESBL/AmpC 等抗藥性 GNB。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch15]]
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch14]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 1. 藥物分類:有 Penicillin、Cephalosporin、Carbapenem、Monobactam等幾大類,結構如下: Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - \* 由此圖可知, Penicillin、Cephalosporin、Carbapenem 都有兩個環,結構類似。臨床上,病人若對 Penicillin 過敏,要小心結構最類似的 Carbapenem,而對 Cephalosporin 也很有可能過敏。然而, Monobactam 結構僅有一個環,因此,對 Penicillin 過敏可用 Monobactam 替代。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...orin 都有抗藥性;即 AmpC β-lactamases 可水解第一~ 二代 Cephalosporin 的 β lactam。 - b. 治療首選藥物是第四代 Cephalosporin 的 Cefepime、Cefpirome 或 Carbapenem 類 的 Imipenem、Meropenem。 - (2) Extended-spectrum β-lactamases (ESBL) - a. 某些 *E. coli、Klebsiella species* 帶有 extended-spectrum beta-lactamases (ESBL),可水解 Penicillin、第一到第四代全部的 Cephalosporins (除了 Cephamycin)、Monobactams 的 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

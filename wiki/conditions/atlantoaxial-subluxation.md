@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch08]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Atlantoaxial subluxation (寰樞椎半脫位)'
   - 'Atlantoaxial subluxation'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch08]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- ...--------------------------------------------------|-------------------|---------------------------------------------| | C1-4 | 頸部肌肉 (neck muscle) | | | | C3, 4, 5 | 横膈肌 (diaphragm) | 吸氣、TV、FEV、VC | | | C5 , 6 | 三角肌 (deltoid) | 局部外展 > 90° | | | C5 , 6 | 二頭肌 (biceps) | 手肘彎曲 | biceps jerk | | C6 , 7 | 伸腕橈肌 (extensor carpi radialis) | 手腕伸張 | su Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- 2. C2 fracture: 又可分成兩種。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- ...pe 1 | Odontoid process 的頂端斷裂 | 少見,相對穩定 | 如果發生 atlanto-occipital dislocation,則需手術 | | Type 2 | Odontoid process 的基底部斷裂和 C2 的 body 分開 | 最常見,不穩定也最不容易癒合 | 小於 7 歲或是 displacement小於 4 mm,使用頸圈固定 10~12 週;大於 7 歲或是 displacement 大於 6 mm或是頸圈無效,則考慮手術 | | Type 3 | Odontoid process 連同 C2body 一起斷裂開 | 通常穩定 | 頸圈固定 | Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 1. Atlantoaxial instability Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (2) 中軸骨的侵犯則主要侷限於上頸椎,關節滑液膜發炎,導致 C1 (寰椎)滑脫,而與 C2 (樞椎)的齒突 (Dens)分離(如圖中黑線),稱為寰椎樞椎不完全脫臼 (Atlantoaxial Subluxation),病患會有枕部頭痛、四肢無力癱瘓。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - C1 往前 (頭往下看)、C2 往後脫位 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].

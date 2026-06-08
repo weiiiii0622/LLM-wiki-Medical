@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Carbamazepine (卡馬西平)'
   - 'Carbamazepine'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-抗癲癇與 mood stabilizer，可用於 mania；需注意皮疹、SJS/TEN、hyponatremia、血球低下與 CYP 交互作用。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗癲癇與 mood stabilizer，可用於 mania；需注意皮疹、SJS/TEN、hyponatremia、血球低下與 CYP 交互作用。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- 1. Carbamazepine:可解除約七成病人的症狀,若沒效可改用 baclofen、lamotrigine 或是 pimozide。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
+- ...perior cerebellar artery 壓到三叉神經之腦 | | | | 幹端 | | | | (D) 開腦手術將血管與神經墊開是第一線治療方式 | | | | 【詳解】第一線治療為藥物。 | | | (A) | 2. 藥物(如 carbamazepine、gabapentin)治療無效的三叉神經痛患 | 103(二)專 | | | 者,下列何種方法效果最快? | 醫五 -14 | | | (A) 顯微血管減壓術(microvascular decompression) | | | | (B) 三叉神經節注射甘油(glycerol injection) | | | | (C) 伽馬刀立體定位手術(gamma knife surgery) | | | | (D) 氣球壓迫術 (balloo Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
+- ...較 | | | | 大,故較少使用。 | | | (C) | 6. 下列有關三叉神經痛(Trigeminal Neuralgia)之治療,何者成功 | 96(一)專 | | (0) | 率比較低? | 醫五-17 | | | (A) 藥物:Tegretol 及 Neurontin | 西北 11 | | | | | | | (B) 顯微血管減壓術(microvascular decompression) | | | | (C) 經皮下神經剝除術(percutaneous nerve ablation) | | | | (D) 伽傌刀放射手術(Gamma knife surgery) | | | (A) | 7. 下列之敘述何者與三叉神經痛無關? | 92(二)專 | | | (A) 會發 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - ...| |--------|-------------------------------------|---------------------------------------------------------| | 部分發作 | | Carbamazepine · Phenytoin · Valproic acid · Lamotrigine | | 入云似路床 | 全身性癲癇 (GTCS)=大發作 (Grand mal) | Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...|-----------------------------------------------------|--------------------------|---------------------| | Na 離子通道阻斷劑 | Carbamazepine (Tegretol®),Phenytoin (Dilantin®) | | 部分發作癲癇首選 | | Ca 離子通道阻斷劑 | Ethosuximide | | 失神性(小發作) | | Na, Ca 離子通道阻斷劑 | Valproic acid (Depakine®) | | 以上兩個皆可 | | 加強 GABA | Barbiturate 類 | Phenobarbital (Luminal®) | 部分、全身性癲癇二線藥 | Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (1) Carbamazepine(Tegretol® 癲通):部分發作的首選,也可用於三叉神經痛(Trigeminal neuralgia);可能有頭暈、低血鈉等副作用,在 HLA-B1502 身上易引起 Steven-Johnson syndrome。孕婦的 AED 中,Tegretol 相對較安全。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -63,6 +68,7 @@ tags:
 - [[drugs/anti-seizure-medications|Anti-seizure medications / anti-epileptic drugs, ASMs/AEDs (抗癲癇藥物)]]
 - [[conditions/bipolar-disorder|Bipolar disorder (躁鬱症／雙相情緒障礙)]]
 - [[conditions/stevens-johnson-syndrome-toxic-epidermal-necrolysis|Stevens-Johnson syndrome / toxic epidermal necrolysis, SJS/TEN (史蒂芬強森症候群／毒性表皮壞死溶解症)]]
+- [[conditions/trigeminal-neuralgia|Trigeminal neuralgia (三叉神經痛)]]
 
 ## Follow-up
 

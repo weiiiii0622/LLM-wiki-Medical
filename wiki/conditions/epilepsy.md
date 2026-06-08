@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med5-book1-ch10]]"
 aliases:
   - 'Epilepsy (癲癇)'
   - 'Epilepsy'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-反覆非誘發性 seizure 或具再發風險的疾病，需依發作型態、EEG 與病因分類。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+反覆非誘發性 seizure 或具再發風險的疾病，需依發作型態、EEG 與病因分類。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch01]]
+- [[sources/med5-book1-ch10]]
 
 ## Key Details From Sources
 
+- 【詳解】(D) 頭部創傷後會連續七天給予預防性抗癲癇藥物 (phenytoin or levetiracetam),可有效預防創傷後七天內的癲癇 (early post-traumatic seizures) 發生率,但使用超過七天則對於 late post-traumatic seizures (創傷後超過七天才發生)無顯著效果。因此建議連續給予七天後即可停藥,但不會只使用 24 小時就停藥了。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - III. 抗癲癇藥物(Anti-Epileptic Drug = AED) 42 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 1. 癲癇發作(seizure)是因為中樞神經無法控制的放電造成的,表現可以從小動作、 大動作痙攣(motor convulsion)到短暫的失去意識。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 2. 癲癇 (epilepsy) 與昏厥 (syncope) 鑑別診斷: Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -43,7 +46,7 @@ tags:
 
 - [[conditions/absence-seizure|Absence seizure (失神發作)]]
 - [[drugs/anti-seizure-medications|Anti-seizure medications / anti-epileptic drugs, ASMs/AEDs (抗癲癇藥物)]]
-- [[conditions/cerebral-arteriovenous-malformation|Cerebral arteriovenous malformation, AVM (腦動靜脈畸形)]]
+- [[conditions/cavernous-malformation|Cavernous malformation (海綿狀血管畸形)]]
 - [[diagnostics/electroencephalography|Electroencephalography, EEG (腦電圖)]]
 - [[conditions/focal-seizure|Focal seizure (局部性癲癇發作)]]
 - [[conditions/generalized-tonic-clonic-seizure|Generalized tonic-clonic seizure, GTCS (全身強直陣攣發作)]]

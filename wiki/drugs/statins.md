@@ -27,6 +27,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Statins (史他汀類)'
   - 'Statins'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,14 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- ...巨噬細胞之能量來源。是維持腸道黏膜完整和免疫功能的重要物質,在 stress 和敗血症時含量會很明顯地下降。 - (5) Arginine:為一氧化氮(NO)的原料來源,促使血管舒張減少心臟輸出的負荷, 緩和心紋痛的狀況,降低低密度脂蛋白(LDL)氧化,另外能促進傷口癒合, 以及促進免疫系統分泌自然殺手細胞、吞噬細胞和 interleukin-1。 - (6) 支鏈胺基酸 (Branched-chain amino acids, BCAA):包括 Leucine, Isoleucine, Valine 均屬必須胺基酸,可直接由骨骼肌代謝產生能量而非肝臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - ( Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- 【詳解】水溶性纖維可與脂肪酸結合,降低膽固醇總量和 LDL 膽固醇,延長食物在胃中停留的時間,從而減慢糖分釋放及被吸收的速度,有助糖尿病患者控制血糖。非水溶性纖維能幫助食物渣滓通過腸道,防止便秘,控制及平衡腸道的酸鹼值,防止微生物產生致癌物質,有助預止結腸癌。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - b. 局部塗抹:Nystatin 專治念珠菌,對皮癬菌則無療效。或可用 Imidazole。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -86,9 +93,6 @@ tags:
 - ...見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何種抗生素為最適當之治療選擇? - (A) ciprofloxacin - (B) fluconazole - (C) imipenem/cilastatin - (D) vancomycin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluconazole | | | ポルエ(球黴菌) | | | 常在菌→鵝口瘡 (thrush) / 尿布疹 | 局部 Nystatin/Azole. | | | (本版图) | 念珠菌 | Candida | →擴散性念珠菌血症 | → Fluconazole,echinocandin | | | 系統性(絲黴菌) | | | 腐敗植物→麴菌球 (Fungus ball) | 開刀 | | | | 麴菌 | Aspergillus | →侵入性麴菌病 (Invasive asper.) | → Voriconazole,AmphoB | | | | 酒麴菌 | Rhi Source: [[sources/med3-book3-ch20|子、黴菌學]].
 - ...epam, Demerol, Viagra | Ethanol, | | 壓力 | Glucagon, VIP, | β-agonist | Morphine, Theophylline | Peppermint, | | | Somatostatin, | | Dopamine, Barbiturate | Caffeine, tobacco | Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (B) 1. 下列那些藥物可能會加重逆流性食道炎(reflux esophagitis)? 105(ー)専 ①降血脂藥(HMG-CoA reductase inhibitor) ②高血壓用藥(calcium channel blocker) ③氣喘用藥(theophylline) ④抗過敏薬物(antihistamine) - (A) (1)(2)(3) - (B) 僅②③ - (C) (3)(4) - (D) (1)(2)(4) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- ...| ACTH | | 刺激分泌 | GnRH,estrogen | TRH | TRH,Estrogen | GHRH | CRH, AVP | | 抑制分泌 | Sex steroids | T3, T4, dopamine,somatostatin,glucocorticoids | Dopamine | Somatostatin,IGF-1 | Glucocorticoids | | 目標器官 | 性腺 | 甲狀腺 | 乳腺 | 肝、骨骼肌肉 | 腎上腺 | | 發生作用 | Sex hormone合成、性腺發育 | T4 合成與分泌 | 泌乳 | IGF-1 製造、促進生長 | Steroid 製造 | | 正常範圍 | 參照後面 table | 0.34-4.25 uIU/ Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...端肥大症 (Acromegaly) | 10% | 篩檢:IGF-1 ↑ | 先手術→放射、 | | (Somatotrope = GH) | 巨人症 (Gigantism) | 10% | 確診:OGTT (GH ↑ ) | Somatostatin 輔助 | | 皮促素細胞瘤 | 庫欣式病 (Cushing's dz.) | 10-15% | 24 小時尿液 | 先手術→放射、 | | (Corticotrope = ACTH) | 単次式病 (Cusning s dz.) | 10-15% | free cortisol | Ketoconazole 輔助 | | 甲促素細胞瘤 | 中樞甲狀腺亢進 | 最少見 | | 先手術→ PTU、 | | (Thyrotrope = TS Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 

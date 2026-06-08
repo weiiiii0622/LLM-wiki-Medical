@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Hypothyroidism (甲狀腺低下)'
   - 'Hypothyroidism'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- d. Hypothyroidism:對冷敏感、黏液性水腫、皮膚乾燥、毛髮粗糙、反應遲鈍。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (C) 甲狀腺亢進與甲狀腺低下均可能引起認知障礙 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - ...) 憂鬱 (depression) (B) 焦慮 (anxiety) (C) 熱潮紅 (hot flashes) (D) 腹脹 (abdominal bloating) 【詳解】(C) 是停經症候群才會。 (A) 6. 有關甲狀腺功能低下(hypothyroidism)與精神疾病的關聯性, 108(二)專 醫四-62 下列何者錯誤? - (A) 針對甲狀腺功能低下所引發的精神症狀,應該一開始就使用 高劑量的抗精神病藥物 - (B) 甲狀腺功能低下可能引發認知障礙 - (C) 甲狀腺功能低下可能是難治型憂鬱症(treatment refractory depression)的原因之一 - (D) 甲狀腺功能低下可能引發憂鬱情緒 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - ...s Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticides, solven Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
@@ -70,7 +73,6 @@ tags:
 - ...藥物、疾病、器官退化與外在環境。 | 104(一)專醫三-66 | | (B) 29. | 一位 33 歲男性,因肥胖來門診諮詢。為強化病人減重的動機,你會告訴他有關肥胖的併發症。肥胖會增加下列那一種疾病的風險? (A) 甲狀腺功能低下症(hypothyroidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - (B) 甲狀腺機能低下 (hypothyroidism) Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - ...pain, nausea, drugs | | | | 4. Syndrome of inappropriate AVP secretion | | | | 5. Glucocorticoid deficiency | | | | 6. Hypothyroidism | | | | 7. Chronic renal insufficiency | | | Primary Na + gain | 1. Heart failure | | | (exceeded by | 2. Hepatic cirrhosis | | | secondary water gain) | 3. Nephrotic syndrome | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (B) 甲狀腺機能低下 (hypothyroidism) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

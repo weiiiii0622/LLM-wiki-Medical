@@ -27,6 +27,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Aortic stenosis (主動脈瓣狹窄)'
   - 'Aortic stenosis'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,11 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- (3) Spondylitis: -itis 也是發炎。但是通常講 Spondylitis 意思是病理性的脊椎發炎,像是 AS、Pott's disease。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...(Ceruloplasmin)減少 ( 要考慮的其他診斷 | |-------------------------------------------------|---------------------------| | Falls as the first symptom 以跌倒為第一個症狀 | PSP | | Exposure to neuroleptics 有服用抗精神病藥物 | Drug-induced parkinsonism | | Associated liver disease 有肝功能上升 | Wilson's disease | | Dementia as first symptom 以失智症為第一個表現 | Dementia with Lewy b Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...分裂症之敘述,何者正確? (A) Bleuler 與 Kraepelin 意見一致,認為精神分裂症患者之功能一定會持續惡化 (B) Kraepelin 為第一個取名精神分裂症(schizophrenia)之學者 (C) Bleuler 4 As 內 含 聯 想 障 礙(associational disturbances of thought) (D) Kraepelin 所謂的三種嚴重精神疾病不包括妄想症(paranoia)【詳解】(A) 只有 Kraepelin 認為思覺失調症患者功能會持續惡化,Bleuler 認為不會 (B) Kraepelin 將思覺失調症命名為 dementia precox;Bleuler 為取名 schizophrenia 的學者 (C) 4A Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -88,7 +91,6 @@ tags:
 - ...gren's syndrome 的盛行率約 0.5~1%(Harrison, 1990),SLE 的盛行率約 0.015~0.05%(Harrison, 1960),常見的風濕疾病排名:OA > RA(0.8%) > SS(0.5%) > AS > SLE > PsA > Scleroderma > Myositis(Harrison, 2031 Fig 311-2)。 | 94(二)檢內-43 | Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - ...HLA | Relative risk | |--------------------------------------------|--------|---------------| | Ankylosing spondylitis (AS) | B 27 | 0.3 | | Goodpasture's syndrome | DD 4 | 1 | | Multiple sclerosis (MS) | DR 2 | 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-depe Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - Source: Fauci AS, Kasper DL, Braunwald E, Hauser SL, Longo DL, Jameson JL, Loscalzo J: Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- ...4 and days 11 through 14 | | Consolidation MTX (200 mg/m 2 over 2 hours followed by 800 mg/m 2 over 22 hours on day 1) as | | | (courses 2,4,6,8) | high-dose cytarabine (3 g/m² over 2 hours every 12 hours for 4 doses on days 2 and 3) | | Intrathecal | Four intrathecal treatments of MTX 12 mg | | treatments alternating with cytarabine 100 m Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 
 ## Clinical Caveats
 

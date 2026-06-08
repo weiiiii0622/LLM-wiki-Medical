@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Digoxin (毛地黃)'
   - 'Digoxin'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- (D) 以靜脈鈣輸液治療低鈣血症,而病人有服用毛地黃時,輸液 速率不可太快以免引起心律失常 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (3) 毛地黃類藥物使用上必須注意病人心律不整。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) 22. 使用毛地黃(digoxin)藥物時,下列何者較少會加重毛地黃的 104(-)專毒性?醫四-31 - (A) 高血鈣 (hypercalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】增加毛地黃毒性的危險因子如下:low body weight、advanced age、renal impairment、hypokalemia、hypercalcemia、or hypomagnesemia。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

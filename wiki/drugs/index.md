@@ -75,12 +75,14 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/lama|LAMA (長效抗膽鹼劑)]] - COPD 與部分嚴重氣喘 phenotype 可用。
 - [[drugs/lamotrigine|Lamotrigine (拉莫三嗪)]] - Na channel blocker 類 antiseizure/mood stabilizer，需注意皮疹與 SJS/TEN 風險。
 - [[drugs/leukotriene-receptor-antagonists|Leukotriene receptor antagonists, LTRA (白三烯受體拮抗劑)]] - 氣喘替代或輔助藥物，對 aspirin-sensitive asthma 有用。
+- [[drugs/levetiracetam|Levetiracetam (左乙拉西坦)]] - 常用 broad-spectrum antiseizure medication，交互作用較少但可有情緒行為副作用。
 - [[drugs/levodopa|Levodopa (左旋多巴)]] - dopamine precursor，是 Parkinson disease 對症治療核心藥物，長期可有 wearing-off 與 dyskinesia。
 - [[drugs/levothyroxine|Levothyroxine (左旋甲狀腺素)]] - 甲狀腺低下替代治療核心藥物。
 - [[drugs/linezolid|Linezolid (利奈唑胺)]] - 抗多重抗藥 GPC，可用於 MRSA 或 VRE，但需注意骨髓抑制與 serotonin syndrome。
 - [[drugs/lithium|Lithium (鋰鹽)]] - mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血中濃度、腎功能、甲狀腺與交互作用。
 - [[drugs/loop-diuretics|Loop diuretics (亨利氏環利尿劑)]] - 改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。
 - [[drugs/macrolides|Macrolides (巨環內酯類)]] - 50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。
+- [[drugs/mannitol|Mannitol (甘露醇)]] - 滲透性利尿劑，可暫時降低顱內壓；需監測滲透壓、腎功能與容量狀態。
 - [[drugs/metformin|Metformin (二甲雙胍)]] - 第 2 型糖尿病常用一線藥物，可降低肝糖輸出並改善胰島素阻抗。
 - [[drugs/methotrexate|Methotrexate, MTX (甲氨蝶呤)]] - 抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。
 - [[drugs/methylphenidate|Methylphenidate (哌甲酯)]] - 中樞神經刺激劑，用於 ADHD；需注意食慾、睡眠、血壓心跳與物質濫用風險。

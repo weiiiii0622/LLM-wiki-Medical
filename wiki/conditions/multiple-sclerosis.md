@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Multiple sclerosis, MS (多發性硬化症)'
   - 'Multiple sclerosis, MS'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- ...神經痛的敘述,下列何者錯誤? | 108(一)專 | |-----|-------------------------------------------------------------|---------| | | (A) 可能源自於多發性硬化症(multiple sclerosis) | 醫五 -13 | | | (B) 可能因良性或惡性腫瘤造成 | | | | (C) 最常發生原因是 superior cerebellar artery 壓到三叉神經之腦 | | | | 幹端 | | | | (D) 開腦手術將血管與神經墊開是第一線治療方式 | | | | 【詳解】第一線治療為藥物。 | | | (A) | 2. 藥物(如 carbamazepine、gabapentin Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - 5. 第五對腦神經:三叉(trigeminal)神經 - (1) 功能:感覺方面:臉部所有感覺;運動方面:咀嚼肌。 - (2) 三叉神經痛(trigeminal neuralgia): 陣發臉部尖銳疼痛,像是突然被電到; - a. 年輕人要考慮是多發性硬化症 (multiple sclerosis)。 - b. 年紀大的可能是上**小腦動脈(SCA)扭曲膨脹**,壓迫到一起走在腦幹底部的 三叉神經,造成三叉神經痛。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 【詳解】Pseudobulbar palsy 的特性就是會引起情緒失禁。它是 損傷於大腦皮質投射至腦幹之間的運動路徑,致口咽部器官的 運動失調,如咀嚼、吞嚥及舌頭等功能失調。除了腦中風外, 其他的中樞神經病變亦可導致此症候群,如:多發性硬化症、 ALS、腦瘤等。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (A) Multiple sclerosis (MS) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
@@ -57,6 +60,7 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - [[conditions/neuromyelitis-optica|Neuromyelitis optica, NMO (視神經脊髓炎)]]
 - [[anatomy/spinal-cord|Spinal cord (脊髓)]]
 - [[drugs/systemic-corticosteroids|Systemic corticosteroids (全身性類固醇)]]
+- [[conditions/trigeminal-neuralgia|Trigeminal neuralgia (三叉神經痛)]]
 
 ## Follow-up
 

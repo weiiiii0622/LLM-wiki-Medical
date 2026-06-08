@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Polyarteritis nodosa, PAN (結節性多動脈炎)'
   - 'Polyarteritis nodosa, PAN'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,12 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch06]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. 皮膚切片下為 leukocytoclastic vasculitis 的表現,會有 neutrophil 浸潤於血管本身或 周圍、nuclear dust、RBC 滲出到血管外、以及血管壞死。另可染 Direct immunofluorescence (DIF),去鑑別是哪種疾病引起的 small vessel vasculitis,例如: - (1) Henoch-Schönlein purpura:血管周圍有 IgA 沉澱。 - (2) Cryoglobulinaemia:血管周圍有 IgM 沉澱。 - (3) Cutaneous polyarteritis nodosa 和 ANCA-positive vasculitis: DIF 則多為 negative。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 1. 又稱做 mucocutaneous lymph node syndrome 或是 infantile polyarteritis nodosa; 臨床表現像感染性疾病,病理上是血管炎變化。臨床上 KD 影響血管範圍是在中型血管(medium-sized arteries),其中以冠狀動脈為最常見(其他血管如 axillary、subclavian、femoral、popliteal or brachial arteries 也會受到影響)。若未積極處理,約 20~25% 病人會有冠狀動脈異常 coronary artery abnormalities(CAA)。積極處理(使用 IVIG)的病人發生 CAA 的機率則可降至低於 5%。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

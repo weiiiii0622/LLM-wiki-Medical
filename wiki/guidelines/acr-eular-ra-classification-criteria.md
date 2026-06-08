@@ -21,6 +21,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch10]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'ACR/EULAR RA classification criteria (RA 分類準則)'
   - 'ACR/EULAR RA classification criteria'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,14 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch10]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- A. Glasgow Coma Score 120 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- A. Glasgow Coma Score: 利用睜眼、語言和運動反應來評估意識,總分 15 分。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- (D) 營養不良的病人若在營養風險篩檢時營養不良分數(nutritional risk screening maluntrition score)得到5分,在手術前不需要矯正 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 3. 外科常用來評估意識狀態的方法:Glasgow Coma Score Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -74,9 +81,6 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (1) 好犯手部關節,滑液膜發炎(Synovitis)導致關節處腫痛,進而侵蝕骨頭,晚期會 導致周圍肌腱等軟組織遭到破壞,使手指變形,典型特徵包括:(下圖) - a. 手腕向橈骨側彎曲變形 (Radial deviation), 手指向尺骨側彎曲變形 (Ulnar deviation), 而呈現 Z 字型。 - b. PIP volar (ventral) plate 受到破壞,導致伸指肌無 volar plate 抗衡,造成 PIP 過度伸展、DIP 屈曲以抗衡,狀似 Swan nec Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - ...ell carcinoma (D) non-Hodgkin's lymphoma | 104(二)專醫三-37 | | (C) | 5. 當懷疑病人有乾眼症時,下列那種檢查最常使用以檢測淚腺分泌功能的低下? (A) Rose Bengal score (B) slit lamp examination (C) Schirmer's test (D) lacrimal gland biopsy | 103(一)專醫三-43 | | (B) | 6. 與 Sjögren's syndrome 的診斷最無關的檢查為: (A) sialoscintigraphy (B) HLA-DR2 檢測 (C) 嘴唇的小唾液腺組織切片檢查 (biopsy of lip minor salivary g Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (3) ACR/EULAR new 2013 classification criteria 可以更早期診斷 (≥9分)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- | Items (每大格取最高分加總) | Score | |-------------------------------------------------------------|-------| | 手部皮膚硬化超過 MCP | 9 | | Puffy finger( 未超過 MCP) | 2 | | Sclerodactyly( 未超過 MCP) | 4 | | 指端潰瘍 | 2 | | 指端凹陷結疤 (pitting scar) | 3 | | 微血管擴張 | 2 | | 甲褶鏡異常 | 2 | | 肺動脈高壓或是肺部纖維化 | 2 | | 雷諾式症候群 | 3 | | 自體抗體 (anti-centromere, anti-Scl70, anti-RNA polymerase III) | 3 | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (1) **慢性期(Chronic phase)**: **Leukocytosis with left shift**,須與感染發炎時的 Leukemoid reaction 作鑑別診斷,CML 的 LAP score 通常很低,周邊血液還可見 basophilia、血小板增多,且常有 Splenomegaly。 - a. LAP = Leukocyte alkaline phosphatase,正常白血球才會有的酵素,感染發炎時的 Leukemoid reaction,LAP score 高。 - b. CML 的白血球則無此酵素,所以 LAP score 通常很低。 - c. 周邊血液抹片會出現 blast、promyelocyte、myelocyte 等各期顆粒球。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 
 ## Clinical Caveats
 

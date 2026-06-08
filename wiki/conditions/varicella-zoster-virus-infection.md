@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Varicella-zoster virus infection, VZV (水痘帶狀皰疹病毒感染)'
   - 'Varicella-zoster virus infection, VZV'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-初感染造成水痘，潛伏再活化造成帶狀皰疹；新生兒與免疫低下族群風險較高。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+初感染造成水痘，潛伏再活化造成帶狀皰疹；新生兒與免疫低下族群風險較高。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 帶狀皰疹神經炎(herpes zoster neuritis) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - # 4. 水痘帶狀疱疹病毒(Varicella-Zoster Virus, VZV): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 水痘 (Chicken pox): - a. Varicella-Zoster virus 感染所致,又稱為 Human Herpevirus-3(HHV-3),人類是唯一感染宿主,傳染途徑為接觸到病灶處或經由飛沫傳染,感染後身體產生抗體可終身免疫不會再被傳染。 - b. 好發於 5~10 歲之孩童、冬春季節。 - c. 傳染期主要為出疹前兩天到出疹後五天,直到所有水泡都結痂才沒有傳染力。潛伏期平均為 14 天(10~23 天)。 - d. Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

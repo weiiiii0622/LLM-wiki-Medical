@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book3-ch06]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Hyperparathyroidism (副甲狀腺亢進)'
   - 'Hyperparathyroidism'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁
 - [[sources/med3-book4-ch06]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book3-ch06]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...k sign:手指輕敲耳前的顏面神經分支會引起同側肌肉抽動;Trousseau sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (A) 副甲狀腺機能亢進(hyperparathyroidism)是高鈣血症 (hypercalcemia)的一個常見原因 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...| | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticides, solvents | | | | | | Heavy Metals | Lead, manganese, mercu Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

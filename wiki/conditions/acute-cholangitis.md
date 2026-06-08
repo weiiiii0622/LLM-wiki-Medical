@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch20]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch15]]"
 aliases:
   - 'Acute cholangitis (急性膽管炎)'
   - 'Acute cholangitis'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-膽道阻塞合併感染，可出現 Charcot triad 或 Reynolds pentad。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽道阻塞合併感染，可出現 Charcot triad 或 Reynolds pentad。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch20]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch15]]
 
 ## Key Details From Sources
 
+- 1. 高血壓:占五成,高血壓使血管壁形成 Charcot-Bouchard's aneurysm,然後導致破裂出血。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - ...ing Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acut Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - #### C. Charcot-Marie-Tooth disease (CMT) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (B) 1. 有關恰克 – 馬利 – 杜斯氏症(Charcot-Marie-Tooth disease, CMT) 的敘述,下列何者正確? Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].

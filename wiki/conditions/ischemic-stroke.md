@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med5-book1-ch14]]"
 aliases:
   - 'Ischemic stroke (缺血性腦中風)'
   - 'Ischemic stroke'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-腦血流中斷造成 infarction，常依 TOAST 病因、血管位置與時間窗決定治療。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦血流中斷造成 infarction，常依 TOAST 病因、血管位置與時間窗決定治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch04]]
+- [[sources/med5-book1-ch14]]
 
 ## Key Details From Sources
 
+- (D) 缺血性腦中風 (ischemic stroke) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - I. 缺血性腦中風 (Ischemic Stroke) 85 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 腦血管疾病俗稱中風(stroke),血管病變中,梗塞(infarction)占 84%,即血管被粥狀硬化阻塞或被心臟來的血栓塞住等,導致血液供應不到遠端腦組織,造成缺血性腦中風(ischemic stroke);出血(hemorrhage)占 16%,即血管壁因高血壓或先天性異常而破裂,血液流到腦組織中(ICH)、蜘蛛膜下腔(SAH),造成出血性腦中風(hemorrhagic stroke)。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - #### I. 缺血性腦中風 (Ischemic Stroke) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].

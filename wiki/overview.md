@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(四)第4冊神內`
-- Latest chapter source summaries: 8
-- Total chapter source summaries: 140
-- Total topic-first nodes: 934
+- Latest ingested textbook: `醫(五)第1冊外概腦外`
+- Latest chapter source summaries: 20
+- Total chapter source summaries: 160
+- Total topic-first nodes: 1003
 
 ## Graph Shape
 

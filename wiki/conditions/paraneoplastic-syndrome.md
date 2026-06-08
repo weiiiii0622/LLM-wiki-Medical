@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Paraneoplastic syndrome (腫瘤旁症候群)'
   - 'Paraneoplastic syndrome'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,15 @@ tags:
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- ...依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancre Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...專 天病人的血清鈉離子濃度為 126 mEq/L, 鉀離子濃度為 4.7 mEq/L, 醫五 -32 氯離子濃度為 85 mEq/L,病人的數據反映出病況為: (A) 鬱血性心臟衰竭 (B) 鼻胃管大量引流 (C) 抗利尿荷爾蒙分泌不適當(SIADH) (D) 尿中鈉離子流失 【詳解】病患血鈉和氯離子偏低,病患年紀大月剛接受完手術, SIADH 的可能性最高。(A) 可能會看到病患有水腫情形。(B)NG 引流會造成氯離子流失,代謝性鹼血症,但不會低鈉。(D) 血中 氯離子不會降低。 (C) 4. 承上題,對於本病人的情況,應如何處置? 99(一)專 (A) 給予含鈉離子的大量輸液 醫五-33 (B) 給予強心劑 (C) 降低或限制輸液的給予 (D) 限制鈉離子給予 【詳解】SIAD Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 2. 低血鈉 (hyponatremia): - (1) SAH 後 ANP(心房排鈉素)和 BNP的分泌造成 hyponatremia 和 hypovolemia (cerebral salt wasting, CSW),需和 SIADH (euvolemia or hypervolemia)作鑑別診斷,因兩者處理方式不同,CSW 是補水而 SIADH 是限水。 - (2) Hypovolemia 會增加血易黏稠度 (blood viscosity),加重 vasospasm 的嚴重度。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - II. 神經肌肉接合處疾病 (Neuromuscular Junction Disease) 174 - A. 重症肌無力 (Myasthenia gravis) 174 - B. Lambert-Eaton syndrome 175 - C. 肉毒桿菌中毒 (Botulism) 175 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - #### B. Lambert-Eaton syndrome Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
@@ -53,8 +61,6 @@ tags:
 - #### 丁、腫瘤旁症候群 (Paraneoplastic Syndrome) Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - 2. Squamous cell carcinoma 會分泌 PTHrP 造成高血鈣(HyperCalcemia),因為常長在肺尖(Pancoast tumor)而造成肩痛、手臂痠痛、Horner syndrome。 - \*口訣:死龜(Squa)愛搞怪(高鈣),愛爬到肺尖造成肩痛 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- | 病因 | 腫 瘤 | |--------------------------|-----------------------------| | PTHrP | 麟狀細胞癌(肺癌、頭頸部、食道、皮膚); | | | 乳癌、泌尿系統癌症 | | 1,25 (OH) 2 D | 淋巴瘤 | | osteolytic cytokir | nes, inflammatory mediators | Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (1) PTHrP: oncogen, virus, local growth factor - a. 常見於 Squamous cell carcinomas、Renal carcinomas、Bladder carcinoma 等。 - b. 某些腫瘤的 ras(oncogen)過度活化,會造成 PTHrP 表現增加;導致 Adult T cell lymphoma 的 HTLV-1 也會加強 PTHrP 表現;骨轉移的腫瘤可能因為骨頭提供的環境,PTHrP 表現也較多。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 

@@ -23,6 +23,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Rheumatoid arthritis, RA (類風濕性關節炎)'
   - 'Rheumatoid arthritis, RA'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,12 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (D) 8. 病人因嚴重類風濕關節炎導致劇痛就醫,就診時告知其為一牧師,因為要主持巡迴佈道,故要求你開立最有效的止痛藥。類固醇是一種消炎效力極強的藥物,常用於風濕性疾病的短期給藥,但因其與胰島素存有藥品交互作用,可能會促進糖質新生而誘發或加重糖尿病的病情,嚴重者更可能導致死亡,故在開立類固醇時,應特別注意患者是否有糖尿病史。病人顯然具有豐富的醫學知識,雖然告知你有糖尿病病史,仍要求你開給他類固醇藥物,他表示站在維護其神職人員堅強健全形象且期望專心投身工作的立場,即使 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- (B) 13. 羅醫師參與一項疼痛控制新藥的人體試驗,以骨折病患為對象進行雙盲研究,發現新藥效果相當優良。實驗還在進行當中,數名由羅醫師主治的患類風濕關節炎患者雖不符合參與實驗的條件,然因其長期受慢性疼痛之苦又加上舊藥止痛效果不佳,羅醫師遂決定將此類仍在試驗階段,我國衛生福利部尚未正式核可的新藥,但在獲得病人知情同意後,將此新藥應用在病患身上。羅醫師如此行為可能是基於什麼倫理原則? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (B) 30. 一位 70 歲男性,最近數月天天頭痛且視力模糊。頭痛位置在左 100(二)專 側顳部,非搏動性疼痛(non-throbbing pain),每天頭痛時間達 醫四-52 數小時之久,頭痛時並沒有噁心、嘔吐或流淚等症狀。病患同時 抱怨全身倦怠、發燒及肌肉疼痛。身體檢查發現左側淺部顳動脈 (superficial temporal artery)變硬且附近皮膚有紅腫。以下那個 檢查,對診斷最有幫助? - (A) 類風濕因子 (Rheumatoid factor, RF) - (B) 紅血球沈降速率 (Erythrocyte sedimentation rate, ESR) - (C) HLA-typing - (D) 腫瘤標記 (Tumor markers) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -79,8 +83,6 @@ tags:
 - (2) 非感染性疾病:如 Steven-Johnson syndrome、juvenile rheumatoid arthritis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...cksyndrome) | 猩紅熱(Streptococcalscarlet fever) | 史蒂芬強生症候群 (Stevens-Johnsonsyndrome) | 系統性幼年型風濕性關節炎 (Systemictype-JuvenileRheumatoid Arthritis) | |------------|----------------------------------|---------------------------------------|-----------------------------------------|------------------------------------------------|------------------------------------ Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) Juvenile rheumatoid arthritis (排除性診斷)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- RA 近年來進展不少,Anti-CCP 的意義、DMARD、生物製劑、免疫抑制劑的 角色都要有概念,將是未來考試的重點。內專愛考 criteria, 要能默背出來才能答題。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- 2. 好發 $35\sim50$ 歲,男:女 =1:3;帶有 HLA-DR4 有更高的發生率。也有不少超過 60 歲的類風濕性關節炎 (Elderly onset RA),若合併 RF(+)或 anti-CCP(+),通常疾病進展較快、較嚴重。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 

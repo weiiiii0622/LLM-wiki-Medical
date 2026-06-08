@@ -19,6 +19,9 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Renal potassium handling (腎臟鉀離子處理)'
   - 'Renal potassium handling'
@@ -33,7 +36,7 @@ tags:
 
 ## Summary
 
-遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +55,18 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...enia),所以會有凝血功能障礙的情形。可以 pRBC: FFP: platelet 以 1:1:1 的方式輸注來預防。 - (4) 急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - a. 大量輸血有機會造成高血鉀,另外病人大都存在休克狀態,其體內的醛固酮、 抗利尿及皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (C) 高血鉀症 (hyperkalemia) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- 2. 鉀:正常血鉀濃度為 3.5~5.0 mEq/L。 - (1) 低血鉀 (hypokalemia): 症狀有噁心嘔吐、肌肉無力、ileus、橫紋肌溶解和多尿; 心電圖變化有 T 波變平坦、出現 U 波、ST segment 下降、APC/VPC。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- a. Transcellular shift: 鹼中毒、insulin、beta agonist、週期性的低血鉀,使得鉀離子從細胞外往細胞內移動,造成血液中血鉀降低。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 【詳解】(A) 女性較多。(C) 低血鉀現象。(D) 暴食症盛行率(年 輕女性 1~4%) 比厭食症(年輕女性 0.5~1%) 高。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - RTA 主要可分為三大類,分別是遠端型(type I)RTA、近端型(type II)RTA 與 高血鉀型(type IV)RTA。另外,還有一種是 type I、II 的混合型(mixed type),特別 發生在 carbonic anhydrase deficiency 病人上,又稱為 type III RTA。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -67,12 +79,6 @@ tags:
 - ...drenal crisis,因此篩檢重點在於 classic type。而 classic type 又可分為 saltwasting CAH 與 simple virilizing CAH。其中 salt-wasting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (3) Cyclosporin (Sandimmune®): 直接抑制 IL2 合成,而減少對 T 細胞的活化,不會有骨髓抑制;常見副作用包括高血壓、高血鉀、高尿酸血症、牙齦肥大 (Gingival hypertrophy) 等。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- 2. 診斷出代謝性鹼中毒要想想看是不是病人體液不足?是不是過度利尿劑使用?是不是有低血鉀或 hyperaldosteronism ?診斷出代謝性酸中毒後,是否有進一步算陰離子間隙,再分別找出其原因進行治療。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...酸中毒 (Renal tubular acidosis, RTA): 哪些問題會造成腎小管受傷? - a. Type 1 RTA (distal RTA): 自體免疫 (Sjögren syn) 造成遠段腎小管破壞→無法排 H+造成酸中毒、低血鉀; 尿中 H+ ↓→尿 NH4+ ↓ (UAG > 0)、尿 pH > 5.3 - b. Type 2 RTA (proximal RTA):蛋白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ## Hypo RAS →留鉀留氫→高血鉀(Renal gain)、酸中毒(Type IV RTA)鑑別診斷時需用 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (C) 皮質醛酮素缺乏 (aldosterone deficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

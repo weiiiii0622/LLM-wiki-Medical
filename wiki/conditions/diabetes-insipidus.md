@@ -12,6 +12,9 @@ sources:
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Diabetes insipidus (尿崩症)'
   - 'Diabetes insipidus'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,17 @@ ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合
 - [[sources/med3-book4-ch18]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...----------------| | | (A) 平均動脈血壓 (mean arterial blood pressure) 須大於 60 mmHg | | | | (B) 每小時尿量最好大於 1.0 mL/kg | | | | (C) 尿崩症(diabetes insipidus)並不常見,故尿量變多時,只須 | | | | 減少給予的水分即可 | | | | (D) 高血鈉症是常見的電解質不平衡 | • | | | 【詳解】尿崩症並不少見,捐贈者常常是頭部外傷或腦出血等 | | | | 腦死病人,尿崩應該要積極處理。 | | | (D) 18 | . 下列何種情況對於受腎者而言是腎臟移植手術的禁忌? | 99(二)專 | | | (A) 糖尿病 | 醫五-2 | | | Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 4. 臨床症狀: - (1) 視神經 / 視交叉被壓迫: 視神經萎縮、兩側顳側半盲。 - (2) 下視丘/腦下腺受損:腦下腺功能低下、侏儒症、尿崩症。 - (3) 阻塞到孟羅 (Monro) 氏孔=> IICP。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- f. 影響到 ADH 的分泌造成尿崩症。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (2) 位於蝶鞍上最常表現尿崩症、生長遲緩或視神經症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...鈉),神經外科病人則是 SIADH 為低血鈉常見原因。 - (2) 高血鈉(hypernatremia):常見症狀為口渴、尿量減少、抽筋、反應遲緩及呼吸抑制。 - a. 腎因性水分流失:滲透性利尿(高血糖所致)、loop diuretic、尿崩症。 - b. 非腎因性水分流失: - (a) 腸胃道流失:嘔吐、鼻胃管引流、腹瀉。 - (b) Insensible loss:發燒、運動。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (C) 2. 一位 9 歲大的男童因最近一個月來發現夜尿症(nocturnal enuresis) 100( 二 ) 專 至門診求診。男童自 3 歲之後晚上即不需要包尿布。下列何種處 醫四 -10 置最適當? - (A) 給父母衛教,告訴他們這是暫時現象,將來自然會好 - (B) 開立抗利尿激素(DDAVP)給男童,改善其症狀 - (C) 需要進一步檢查以排除病態問題 - (D) 限制睡前之水分攝取是最好的治療方法 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) Desmopressin (DDAVP): type 1 和部分 type 2 首選。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].

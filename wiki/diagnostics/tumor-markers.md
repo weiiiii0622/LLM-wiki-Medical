@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Tumor markers (腫瘤標記)'
   - 'Tumor markers'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...夠存活超過一星 | 105(二)專 | | 期,最常見之晚期死亡原因為何? | 醫五-4 | | (A) 嚴重頭部外傷 (B) 多重器官衰竭 | | | (C) 出血性休克 (D) 急性腎衰竭 | | | (A) 16. 下列關於癌症和它的腫瘤標記(tumor markers)之配對,何者 | 105(二)專 | | 錯誤? | 醫五-9 | | (A) carbohydrate antigen 19-9 (CA19-9) and ovarian cancer | | | (D) 1.1 C. (AED) 11 4 11.1 | | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- (B) alpha fetoprotein (AFP) and hepatocellular carcinoma Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- (C) carcinoembryonic antigen (CEA) and colon cancer Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (B) 30. 一位 70 歲男性,最近數月天天頭痛且視力模糊。頭痛位置在左 100(二)專 側顳部,非搏動性疼痛(non-throbbing pain),每天頭痛時間達 醫四-52 數小時之久,頭痛時並沒有噁心、嘔吐或流淚等症狀。病患同時 抱怨全身倦怠、發燒及肌肉疼痛。身體檢查發現左側淺部顳動脈 (superficial temporal artery)變硬且附近皮膚有紅腫。以下那個 檢查,對診斷最有幫助? - (A) 類風濕因子 (Rheumatoid factor, RF) - (B) 紅血球沈降速率 (Erythrocyte sedimentation rate, ESR) - (C) HLA-typing - (D) 腫瘤標記 (Tumor markers) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...ppled | | | | nodules (infants) | calcification in mass | | Hepatoblastoma | Birth-3 yr | Large, firm liver | Increased AFP | | Hepatoma | School age, | Large, firm liver; hepatitis | Increased AFP | | | teens | B, cirrhosis | | | Rhabdomyosarcoma | All | GI/GU obstruction, | | | | | sarcoma botryoides, | | | | | vaginal bleeding, para- | | Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 1. α-fetoprotein (AFP): 常用來診斷與監測腫瘤用。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -56,7 +61,6 @@ tags:
 - ...使用大劑量類固醇及放射線治療(B) 愈早開始進行治療,則日後病患之神經學症狀能改善的機會也愈大 (C) 高血鈣症(hypercalcemia)之治療,包括限制水分攝取、使用利尿劑及 bisphosphonate 類藥物 (D) 腫瘤指標如 CEA(carcinoembryonic antigen)、PSA(prostate specific antigen)可以幫助鑑別診斷 【詳解】高血鈣的治療是水分補充,而非限水。 | 96(二)專醫三-60 | | (A) | 9. 最常造成上腔靜脈症候群(superior vena cava syndrome)的惡性病為: (A) 肺癌(Lung cancer) (B) 淋巴瘤(Lymphoma) (C) 原發性縱隔腔胚細胞瘤(Prima Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - C. **其包含四種疾病**: 僵直性脊椎炎(AS)、反應性關節炎(ReA)、乾癬性關節炎(PsA)、發炎性腸炎相關之關節炎等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - (1) 關節炎:不對稱,好發下肢關節,如 Knee、Ankle、MTP等。(DDx.: AS 好發下肢關節、PsA 好發上肢關節) Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- #### F. 乾癬性關節炎 (Psoriatic arthritis, PsA) Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

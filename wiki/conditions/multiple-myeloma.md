@@ -34,6 +34,14 @@ sources:
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch07]]"
+  - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Multiple myeloma, MM (多發性骨髓瘤)'
   - 'Multiple myeloma, MM'
@@ -48,7 +56,7 @@ tags:
 
 ## Summary
 
-漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +90,27 @@ tags:
 - [[sources/med4-book2-ch10]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch04]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch13]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch07]]
+- [[sources/med5-book1-ch15]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- ...(systemic inflammatory response syndrome):以下符合 2 個以上: - (1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmH Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (D) 白血球大於 12,000 cells/mm³ 或小於 4,000 cells/mm³ 或在周邊血液抹片有大於 10% immature (Band) cells Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- ...29. 系統發炎反應症候群(syst | emic inflammatory response syndrome) | 100(一)專 | | | 的定義包括下列那幾項? | | 醫五 -60 | | | ①體溫 12,000/\text{mm}^3$ | | | | $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $ | ④心跳> 100 bpm | | | | (A) ①② | (B) ①④ | | | | (C) 23 | (D) 24 | | | (D) | 30. 以下何者不是典型的發炎生 | 三理反應? | 99(二)專 | | | (A) 體溫上升 | (B) 心跳變快 | 醫五 -19 | | | (C) 呼吸速率變快 | (D) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- ...----------|---------------|----------------------------------------| | RBC count | 會隨著抽出 CSF 的管數 | RBC > 1,000,000 RBCs/mm 3 , | | | 而 RBC 降低且逐漸清澈 | 且 CSF 顏色不會越抽越淡 | | WBC: RBC ratio | 與周邊血液相近 | WBC 上升 | | CSF 離心後浮在表層的物體 | 清澈 | 黄色 (xanthochromic,是 RBC | | | | 裂解後的產物) | | Clotting of fluid | 會有血塊凝結 | 不會有血塊凝結 | | 蛋白質濃度 | 輕微上升 | 上升較多,RBC 裂解產生 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- (2) CTA(CT angiography): 3D影像,可找到小至 2.2 mm 的動脈瘤,由於是 3D,可以清楚了解動脈瘤與周圍血管和頭骨的相對位置,有利於之後手術的計畫。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- (3) MRA (magnetic resonance angiography):難以偵測 3 mm 以下的動脈瘤。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- (1) 中央椎管狹窄 (central canal stenosis): 脊椎管的前後徑變短,因而壓迫脊髓或神經根,脊髓正常的直徑應超過 13 mm。如果小於 10 mm 為絕對狹窄 (absolute stenosis),介於 10~13 mm 為相對狹窄 (relative stenosis)。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (2) 椎間孔狹窄 (foraminal stenosis): 側邊的椎間孔呈長橢圓形,當椎間孔因椎間盤突出、脊椎滑脫、脊椎關節面 (facet)增生等原因導致椎間孔狹窄,壓迫到神經根。正常的橢圓高度是 20~23 mm,小於 15 mm 就是狹窄。70% 椎間孔狹窄發生在第五節腰椎,容易壓迫坐骨神經根。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- ...ipital dislocation,則需手術 | | Type 2 | Odontoid process 的基底部斷裂和 C2 的 body 分開 | 最常見,不穩定也最不容易癒合 | 小於 7 歲或是 displacement小於 4 mm,使用頸圈固定 10~12 週;大於 7 歲或是 displacement 大於 6 mm或是頸圈無效,則考慮手術 | | Type 3 | Odontoid process 連同 C2body 一起斷裂開 | 通常穩定 | 頸圈固定 | Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- 5. 開刀 indication: - (1) 血塊厚度 > 10 mm 或是 midline shift > 5 mm。 - (2) 血塊厚度 2 分。 - b. 且/或瞳孔大小不對稱或放大。 - c. 且/或ICP > 20 mmHg。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - ...公分 (C) 後續會有血流降低的現象 (D) 傳導的區域和血管分布的位置相關 【詳解】Cortical spreading depression 通常於 migraine aurea 發生, 由枕葉向額葉方向傳遞,傳導速度為每分鐘 2~5 mm,後續會有 血流降低的現象,但傳導的區域與血流分布無關。 (C) 17. 顳動脈炎(temporal arteritis)是一種較常發生於女性的血管炎, 105(二)專 下列敘述何者最不恰當? 醫四 -78 (A) 好發年紀大於 50 歲 (B) 通常為單側 (C) 觸診可發現顳動脈炎(temporal arteritis)的脈動增強 (D) 常合併肌肉疼痛 【詳解】Temporal arteritis 可以觸診顳動脈有 tendern Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...開始有輕微的發燒及頭痛;2天前有一次聽到外面有人 醫四-54 在講她的壞話,跑出去跟不相關的路人大吵一架,然後就不再出 門,在家裡喃喃自語,行為非常奇怪;今天早上發生癲癇而來住 院。病人在急診室做了腦脊髓液的檢查,結果顯示 RBC 102/mm³, WBC 347/mm3, 其中 83% 是淋巴球,蛋白質為正常的 1.5 倍, 糖分濃度則正好為當時血糖值的一半。腦波檢查發現兩側顳葉的 功能異常,並有規則陣發性的癲癇樣放電 (periodic epileptiform discharges)。下列診斷中那一項最有可能? (A) 細菌性腦膜炎 (bacterial meningitis) (B) 單純疱疹性腦炎 (herpes simplex encephalitis) (C) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (3) Verruca Vulgaris(common wart)(右上圖): 尋常疣,最常長在手指、指甲周圍或四肢其 他部位。為 1~10 mm 之小乳突狀丘疹,表面 角質化,略帶灰色,仔細觀察可見表面有許 多微血管栓塞而成的黑色針狀小點,將表層 刮去可看見紅色小出血點。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -93,16 +119,6 @@ tags:
 - 2. ABCDE rule:病患臨床上有以下特徵時,需懷疑為黑色素細胞瘤。 - (1) Asymmetry:形狀不對稱。 - (2) Border irregular:邊緣不規則、有突起或是表面潰瘍。 - (3) Color variation: 顏色斑駁不一致。 - (4) Diameter > 6 mm: 直徑大於 6 mm - (5) Enlargement:短時間內持續增大; Elevation:表面不規則隆起。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 3. 危險因子: - (1) CDKN2a (tumor suppressor gene) 突變。 - (2) SPT type I or II • - (3) Sun exposure or radiation exposure • - (4) Family or personal history • - (5) 身上超過 50 顆且大於 5 mm 的黑色素母斑 (melanocytic nevi)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - | T stage | Thickness, mm | Ulceration status | |---------|---------------|-----------------------------------------| | T1 | ≦ 1.0 | a: Without ulceration and level ll/lll* | | | | b: With ulceration or level IV/V/T2 | | T2 | 1.01~2.0 | a: Witho Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 2. 表皮:位於皮膚最上層,厚度從最薄的眼皮 0.04 mm 至最後的足底 1.5 mm 不等,由表面而下可分為五層:角質層、透明層、顆粒層、棘狀細胞層和基底層。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- c. 毛囊生長階段分為生長期(anagen)、退化期(catagen)、休止期(telogen)。 - (a) 生長期 (anagen): 約有 85~90% 的毛囊屬於生長期,頭皮毛囊生長期時間約 2~6 年,每天約以 0.35 mm 生長,平均一個月約可長出 1cm。 - (b) 退化期(catagen):約有 1%的毛囊屬於退化期,毛囊細胞將進行細胞凋亡的動作,時間約 2~3 週。 - (c) 休止期(telogen):約有 $10\sim15\%$ 的毛囊屬於休止期,時間約為 3 個月。 正常人一天約有 $50\sim100$ 根頭髮會自動脫落,之後再進入生長期,進行下 一個循環。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- (3) 汗腺:除嘴唇、指甲甲床、小陰唇、陰核、龜頭和外耳以外,汗腺分布全身, 尤其以手掌、腳底、前額和腋下最多。 - a. 為有導管腺體,分為小汗腺 (eccrine gland) 和大汗腺 (apocrine gland) 兩種。 - b. 小汗腺 (eccrine gland)的功能為分泌汗液,其導管開口於皮膚表面形成汗孔。 - c. 大汗腺(apocrine gland)又稱頂漿腺,分布在腋窩、乳暈、肛門、外陰及外 耳道等處。導管開口於毛囊,分液物含有脂質及蛋白質等,經氧化易產生體 臭。 - (4) 指甲:為角質層硬化而成,覆蓋於手指及腳趾末端,一天約長 0.1 mm。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- (A) 19. 一位 25 歲年輕女性,因臉上蝴蝶斑、頸部淋巴腺腫大及時有高 100(二)專 燒而求診。以往常會頭痛,冬季時兩手有 Raynaud's 現象及手指 醫四-42 關節疼痛。血液檢查所見:血色素 9.8 g/dL,白血球 3,100/mm³,血小板 80,000/mm³,尿蛋白陽性(+++)。除以上所見外,下列何種檢驗結果最為可能? - (A) anti-double-stranded DNA antibodies 陽性 - (B) elevated complement level - (C) eosinophilia - (D) depressed y-globulin level Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- | 病原體 | 白血球數 (/mm³) | 白血球分類 | |----------|---------------------|-------------------------------------------| | Bacteria | 通常範圍在 15,000~40,000 | polymorphonuclear leukocytes predominance | | Virus | 通常不超過 20,000 | Lymphocyte predominance | Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (D) 10. 一位 6 歲女童持續發燒、咳嗽 8 天,因為突然意識不清並有持續 16 分鐘的全身性抽搐住院。住院時雙側呼吸音有細囉音(fine crackles),頸部與大腿有境界不清的紅色丘疹如圖 1 所示,胸部 X 光如圖 2 所示。周邊血液白血球計數 12,100/mm³(segment 76%;lymphocyte 15%;monocyte 9%)。腦脊髓液 protein 145.2 mg/dL,glucose 82 mg/dL(blood sugar 102 mg/dL),白血球 14/ mm³(mononuclear cell:polymorphonuclear cell = 12:2),腦部電 腦斷層影像無明顯異常,下列那一種病原的可能性最高? Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (B) 1.2個月大女嬰,咳嗽已有3個星期之久,近幾天甚至偶爾咳至唇色發紫,這陣子並無發燒現象。血液檢查WBC為26,500/mm³,neutrophil為25%,lymphocyte為70%,鼻咽檢體的RSV (respiratory syncytial virus) antigen 檢查結果為陰性反應,其最有可能之致病菌為何? - (A) adenovirus - (B) Bordetella pertussis - (C) enterovirus - (D) Streptococcus pneumoniae Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (2) 診斷標準:以下症狀至少出現兩項,可隨時間演進慢慢出現。 - a. 6個以上咖啡牛奶斑(café-au-lait macules),青春期前斑塊直徑 5 mm 以上,青春期後斑塊直徑 15 mm 以上。咖啡牛奶斑為該疾病最常見表徵,幾乎所有的 NF-1 病人都有。出生時可以發現,隨著時間斑塊數量、大小與色素沉澱都會增加。 - b. 四肢與身體交接處(axillary or inguinal)有雀斑(freckling),NF-1第二常見表徵。 - c. **Lisch nodules**:通常為 2 個以上,為虹膜上的 hamartoma,裂隙燈下可見,NF-1 病人可觀察到但 NF-2 病 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (B) 符合 NF-1 診斷的 café-au-lait spots 病灶大小,在成年人要大 於 30 mm Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- 【詳解】(B) 青春期前斑塊直徑 5 mm 以上,青春期後斑塊直徑 15 mm。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats
 

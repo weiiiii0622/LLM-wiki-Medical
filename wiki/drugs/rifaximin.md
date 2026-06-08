@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Rifaximin (利福昔明)'
   - 'Rifaximin'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (3) Clostridium tetani (破傷風桿菌): - a. 引起破傷風(Tetanus),臨床症狀有牙關緊閉、肌肉僵直、抽搐。 - b. 治療:肌肉注射破傷風免疫球蛋白;口服或靜脈注射 metronidazole 是首選抗 生素治療,其次可選用靜脈注射 penicillin。抗生素需持續治療 10~14 天。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (a) 水痘疫苗預防接種: - i. 為活性減毒疫苗,出生滿 1 歲至 12 歲接種一劑即可,12 歲以上者則 須接種兩劑,效價為十年,不過預防效果約 80%,故仍有可能於接種 疫苗後得到水痘。 - ii. 禁忌:先天性免疫功能缺陷、淋巴瘤或腫瘤、有症狀的愛滋病患、接受高劑量類固醇治療者、孕婦、21 天內有接觸水痘或帶狀疱疹病患、對 Neomycin 過敏者禁止接種疫苗。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 【詳解】酒渣性痤瘡(acne rosacea),又稱酒槽鼻,好發 30~50歲中年男性,是由於微血管異常擴張和皮脂腺毛囊發炎而造成。嗜酒、吸菸、刺激性飲食、壓力、日曝寒冷風吹等均可加重病情。初期表現以臉部容易變紅(微血管輕微擴張,皮膚上有血絲),接著如青春痘般會有丘疹/膿疱(papules/pustules),並且有較嚴重的微血管擴張;後期則會出現結節狀硬塊(induration)、鼻瘤(rhinophyma,尤其男性患者)。酒槽鼻難以根治,只能控制病情,少數病患可自行痊癒。注重臉部保濕防曬、避免暴露酒槽鼻危險因子等;稍微嚴重的病患,可以給予口服或外用抗生素(tetracyclines、metronidazole)或 A 酸,以及雷射和手術。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...ducing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -70,7 +75,6 @@ tags:
 - | 分類 | 治療 | 其他選擇 | |------------------------------|-------------------------------------------|--------------------------------------| | Mixed aerobic-anaerobic bac. | Cefotaxime + metronidazole or clindamycin | Piperacillin-tazobactam + vancomycin | | Clostridium perfringens | Pencillin + Clindamycin | Cefoxitin + Clindamycin | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - 3. 治療:病程為 chronic and benign nature,對存活沒有影響,所以僅需教育病人要高纖飲食、避免咖啡等。如果症狀嚴重到影響作息,可依症狀選擇藥物: - (1) 便秘為主:高纖洋車前子(psyllium)、滲透型瀉劑(polyethylene glycol),gut serotonin modulators。 - (2) 腹痛為主: antispasmodics, antidepressants。 - (3) 腹瀉為主: antidiarrheals, bile acid sequestrants, 抗生素 rifaximin。 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - (C) 1. 下列關於大腸激躁症(irritable bowel syndrome)的敘述,何者正確? 108( 二)專 - (A) 嚴重大腸激躁症,與腸道生理的相關性較強,與精神方面的異常 醫三-19 關聯性較小 - (B) 大腸激躁症的盛行率男性為女性的 2~3 倍 - (C) 某些抗生素如 rifaximin 對於部分大腸激躁症病患會有效 - (D) 抗憂鬱藥物(antidepressant drugs)對於大腸激躁症是無幫助的 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- (4) 治療:限制蛋白質飲食、lactulose edema 酸化腸道( $NH_3 \rightarrow NH_4^+$ )、 $\square$ 服 neomycin 或 metronidazole 殺死腸道中製造 $NH_3$ 的微生物。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 
 ## Clinical Caveats
 

@@ -40,6 +40,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch03]]"
 aliases:
   - 'Pulmonary hypertension (肺高壓)'
   - 'Pulmonary hypertension'
@@ -54,7 +56,7 @@ tags:
 
 ## Summary
 
-肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +96,14 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch03]]
 
 ## Key Details From Sources
 
+- 1. 血液正常的 pH 值是 7.35~7.45,pCO2 是 40 mmHg,HCO3- 是 24 mEq/L。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 2. 判讀 ABG: - (1) 第一步:是否有酸血症或鹼血症,pH 7.45 為鹼血症。 - (2) 第二步: $pH \ \ CO_2$ 改變方向相同(同升同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-related acute lung injury, TRALI): 輸血後 6 小時內發生, 臨床症狀有急性呼吸困難、非心因性肺水腫、血壓降低及體溫升高。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (3) Menstrual-associated TSS:好發於女性,因月經期間使用衛生棉條吸收力太強, 棉條吸入大量經血後成為細菌的培養皿,再加上經血中和了陰道內抑菌的弱酸 pH 值環境而導致感染。之後這類衛生棉條下架後發生率即明顯下降。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Ⅲ. 新生兒呼吸相關疾病 443 - A. 呼吸窘迫症候群 (RDS) 443 - B. 新生兒暫時性呼吸急促(TTNB) 444 - C. 早產兒呼吸暫停 445 - D. 新生兒持續性肺高壓 (PPHN) 445 - E. 吸入性症候群 446 - F. 先天性橫膈膜疝氣 446 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - # D. 新生兒持續性肺高壓 (Persistent pulmonary hypertension of neonate, PPHN) Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -112,9 +119,6 @@ tags:
 - ...期(acute myeloid leukemia in 2remission)(C)急性淋巴性白血病第一次緩解期(acute lymphoid leukemia in remission)(D)新診斷之費城染色體陽性慢性骨髓性白血病慢性期(Ph-positichronic myeloid leukemia in chronic phase) | 治 醫三−51nd | | (B) | 8. 下列有關急性前骨髓細胞白血病的敘述,何者錯誤? (A) 大多數病人的白血病細胞內有染色體異常 t(15;17) (B) 大多數病人的白血病細胞內有異常的融合基因 AML 1/ETO (C) 病人常出現瀰漫性血管內凝血(DIC) (D) 最 適 當 的 誘 導 性 治 療 為 tretino Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - (1) lcSSc 大部份預後都不錯,除了那 < 10%的人,在 10~20 年後發展出 Pulmonary hypertension,這些人預後就很差了。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - 【詳解】肺栓塞會使肺動脈血管阻力上升導致肺高壓,常見症狀包括 dyspnea、pleural pain、tachycardia、syncope(cardiac output 突然 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- (1) 藥物各論: - a. Hydroxyurea: 使 70~80% 病人得到血液學上的緩解,無法使 Ph 染色體消失。 - b. **IFN-**α:使 70~80% 病人得到血液學上的緩解,且使 30% 病人 Ph 染色體降至 35% 以下。 - c. **Imatinib** (**Gleevec**®): 使 60% 病人 Ph 染色體降至 35% 以下,但在急性期才開始使用則果較差。 - d. 第二代 TKI: nilotinib、dasatinib 藥效都比 imatinib 更強。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- 1. 第一步先看 pH 值,找出異常的酸、鹼中毒: - (1) pH 7.45 為鹼:若 HCO; 高→代謝鹼; PaCO2 低→呼吸鹼。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- | 第一步先看 pH 值,找出異常 | 的酸、 | ・鹼中毒 | | |---------------------------|----------|---------------------------|------------------------| | Primary Disorder | pН | Primary change | Compensatory change | | 代謝酸 Metabolic acidosis | 1 | ↓ [HC Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 
@@ -123,6 +127,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/lung-transplantation|Lung transplantation (肺臟移植)]]
 - [[conditions/pulmonary-embolism|Pulmonary embolism (肺栓塞)]]
 
 ## Follow-up

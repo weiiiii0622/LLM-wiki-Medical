@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Verruca / warts (疣)'
   - 'Verruca / warts'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch07]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - # 6. 疣(Verruca、warts): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 疣是因感染人類乳突病毒(Human Papillomavirus, HPV)而形成的一種非癌皮膚增生。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (3) Verruca Vulgaris(common wart)(右上圖): 尋常疣,最常長在手指、指甲周圍或四肢其 他部位。為 1~10 mm 之小乳突狀丘疹,表面 角質化,略帶灰色,仔細觀察可見表面有許 多微血管栓塞而成的黑色針狀小點,將表層 刮去可看見紅色小出血點。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

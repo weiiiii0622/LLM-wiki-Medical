@@ -7,6 +7,9 @@ sources:
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch12]]"
 aliases:
   - 'Venous thromboembolism, VTE (靜脈血栓栓塞)'
   - 'Venous thromboembolism, VTE'
@@ -21,16 +24,23 @@ tags:
 
 ## Summary
 
-深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch12]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch12]]
 
 ## Key Details From Sources
 
+- 1. 周邊靜脈血栓經血液循環流到肺動脈並塞住,而血栓來源大多是下肢深層靜脈拴。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- 2. 危險因子同 DVT: Virchow's triad。 - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、Antithrombin III deficiency、Antiphospholipid syndrome 等。 - (3) Endothelium injury: 靜脈內皮細胞受損, 例如手術( 髖關節或膝關節手術) 外傷、 之前有過 DVT。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- ...)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 (B)合併症較少 (C)腸道黏膜(intestinal mucosa)較不易萎縮 (D)易引發吸入性肺炎(aspirat Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- (B) 施打靜脈血栓溶解劑 (intravenous tissue plasminogen activator) Source: [[sources/med5-book1-ch12|丙、顱內壓]].
 - (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (A) 給予靜脈血栓溶解劑(rt-PA)治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].

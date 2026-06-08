@@ -28,6 +28,8 @@ sources:
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Hepatitis C (C 型肝炎)'
   - 'Hepatitis C'
@@ -42,7 +44,7 @@ tags:
 
 ## Summary
 
-HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +72,15 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch06]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (3) 末期肝硬化:包括不明原因、B型或C型肝炎及酒精性肝硬化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (D) 25. 李太太因糖尿病合併腎衰竭接受血液透析多年,三年前接受丈夫 101(二)專 捐贈的腎臟進行移植。現因C型肝炎合併肝硬化及肝衰竭等待肝 臟移植,李先生又成為活體捐贈的候選人。在評估李先生是否 合適作為捐贈者,除了身體狀況外,下列心理及社會因素中何 者非為主要的考量因素? - 醫五-78 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...見的,只會出現皮膚症狀。 - (2) 病人主要症狀是對光敏感,容易曝曬到陽光的區域,如臉、手臂、手背、手腕等, 照到陽光後皮膚易龜裂、潰爛、皮膚脆弱起水泡及多毛症。 - (3) 誘發因子:過度飲酒(最重要)、過度鐵質攝取、病毒感染(特別是 HCV, HIV)、殺真菌劑和除草劑中所含的碳氫鹵化物、長時間 hemodialysis 或 estrogen 治療。 - (4) 伍氏燈照射下尿液呈粉紅色。 - (5) 處置: - a. 避免酒精和鐵質攝取、減少陽光曝曬、避免服用 estrogen 或接觸到含碳氫鹵 化物的物質。 - b. 除了避免危險因子外,最有效的治療方法為放血療法(phlebotomy),降低體 內鐵沉積對肝、心等器官的損害。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - 3. 病因不明,目前認為和異常免疫反應有關,可能為藥物、金屬(黃金、水銀)或感染(HCV)引起之異常免疫。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
@@ -87,10 +95,6 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - .../lymphoma | | 反轉錄 | HTLV-2 | Hairy cell leukemia | | 病毒 | HIV | Burkitt's lymphoma, Diffuse large B cell lymphoma | | | HCV | Lymphoplasmacytic lymphoma | | 其他病毒 | EBV | 鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma)、Burkitt's lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - \* 須排除:曾接受過頭頸部放射線治療、病患有 HCV、HIV 感染,病患有 lymphoma、Sarcoidosis、GVHD 或服用 Anticholinergic drugs。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (A) 4. 一位病人在體檢時發現血小板數為 65,000/μL,紅血球及白血球正常 106(-) 專 ,下列何項檢查對於釐清血小板低下的原因幫忙最小? - (A) platelet antibody - (B) antibody to hepatitis C virus - (C) antibody to human immunodeficiency virus - (D) antinuclear antibody Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (D) hepatitis C virus infection Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- ...| | EBV | Burkitt's lymphoma, Primary CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary effusion lymphoma, Multicentric Castleman's dz. | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (A) 3. 減白的血小板 (leucocyte-depleted platelet),可降低藉輸血發生下列 99(二)專 那一種傳染疾病的機率? - (A) Cytomegalovirus - (B) Hepatitis A virus - (C) Human immunodeficiency virus type 1 (HIV-1) - (D) Hepatitis C virus Source: [[sources/med3-book4-ch17|辛、輸血]].
-- ...定義且經實驗室診斷: | 1 週內 | |--------------------|----------------------------------------------------------------|---------| | C型肝炎 | 一、臨床病例:(符合其一即可) | | | | (1) 出現急性發作症狀: 包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服、 | | | | 黄疸等,且 Anti-HCV 陽性,ALT ≥ 100,亦排除急性 A、B 型肝炎發作。 | | | | | | | | (2) 曾檢驗血清 C 型肝炎病毒抗體 (Anti-HCV) 陰性,後轉變成 C 型肝炎 | | | | 病毒抗體陽性,且 ALT ≥ 100 (建議以一年內之 Anti-H Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

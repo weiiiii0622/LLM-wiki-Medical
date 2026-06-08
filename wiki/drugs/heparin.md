@@ -23,6 +23,8 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch03]]"
 aliases:
   - 'Heparin (肝素)'
   - 'Heparin'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,14 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch03]]
 
 ## Key Details From Sources
 
+- 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- 5. 治療:抗凝血劑 heparin。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- ...(1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - | 分類 | 病程 | 意義 | |---------------------------------|------------------|---------------| | 暫時性腦缺血 | 定義為24小時內恢復,且無 | 中風的警訊, | | (Transient ischemic attack=TIA) | 任何後遺症 | 需積極 Survey、預防 | | 完成性腦中風 | 頸動脈於24小時後,基底動 | 給抗凝劑反而易出血 | | (Complete stroke) | 脈於 72 小時後病況穩定 | 宜保守治療 | | 進行性腦中風 | 頸動脈於 24 小時後,基底動脈 | 考慮使用 Heparin | | (Stroke in evolution) | 於 72 小時後病況仍持續進展 | | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - # D. Warfarin 和 heparin Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (1) Initial: heparin 75 U/kg, IVD for 10 mins • Source: [[sources/med4-book1-ch08|辛、血液學]].
@@ -78,9 +85,6 @@ ACS 與血栓疾病抗凝治療常用，需注意 HIT。 本頁已整合至 `醫
 - Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...G 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease ACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistant to aldosterone) | | 服用利尿劑 Spironolactone服用抗生素 Trimethoprim | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...--------------------------------------------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(c Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...otal T4 ↑ | Free T4 ↑ | 抑制 T4→ T3 | Amiodarone · Propranolol | | (Euthyroidism) | Total T4 正常 | Free T4 ↑ | T4 離開 TBG | Heparin · LMWH | | | Total T4 ↑ | Free T4 正常 | 增加 TBG | 雌激素 (Estrogen)、懷孕、肝炎、肝 | | | | | | 硬化 | | | Total T4 ↓ | Free T4 正常 | 減少 TBG | 雄激素 (Androgen) | | 甲狀腺功能低下 | Total T4 ↓ | free T4 ↓ | 抑制 TSH | Glucocorticoid, Dopamine, | | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- a. 凝血因子(PT、aPTT): 若肝臟製造能力下降,可在短時間內表現出來。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
 
 ## Clinical Caveats
 

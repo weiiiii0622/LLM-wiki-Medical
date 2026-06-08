@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Hypothalamic-pituitary-thyroid axis, HPT axis (下視丘-腦垂體-甲狀腺軸)'
   - 'Hypothalamic-pituitary-thyroid axis, HPT axis'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,13 @@ HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch07]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...ne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - a. 新生兒篩檢:在台灣檢查 TSH, 其敏感性與特異性均超過 95%。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - b. 新生兒篩檢異常者抽血驗 TSH 和 $T_4$ 或 free $T_4$ 確認( $T_4$ 與 free $T_4$ 會低下)。 血液中 $T_4$ 有可能在正常值範圍故對診斷沒有幫助。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ....6 mIU/L | | | 2~20 wk | 0.6~5.6 mIU/L | ×1 | 0.6~5.6 mIU/L | | | 5 mo~20 yr | 0.5~5.5 mIU/L | ×1 | 0.5~5.5 mIU/L | | | THYROXINE-BI | NDING GLOBULIN, SERUN | vI | | | | Cord blood | 1.4~9.4 mg/dL | ×10 | 14~94 mg/L | | | 1~4 wk | 1.0~9.0 mg/dL | ×10 | 10~90 mg/L | | | 1~12 mo | 2.0~7.6 mg/dL | ×10 | 20~76 mg/L | | | 1~5 yr | 2.9~5.4 mg/dL | ×10 | Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -58,8 +63,6 @@ HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 
 - 1. 甲狀腺促進素 (Thyroid Stimulating Hormone, TSH): - (1) 與其他腦下垂體分泌的荷爾蒙一樣,都是脈動性分泌(Pulsatile secretion),但半衰期較長,因此單點量測足以提供臨床資訊。(Harrison 2225) - (2) TSH 為偵測 Primary hypo/hyperthyroidism 最敏感的方法。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - (2) Sick euthyroid syndrome: 表甲狀腺以外的其他內科疾病導致血中甲狀腺素異常,但 甲狀腺本身沒有問題(「Eu」thyroid)。 - a. Mild illness (Low T3 syndrome): 當人生病時, T4 轉換成 T3 比例減少,甚至會 轉換成沒有活性的 rT3 (reverse T3); T3 下降愈多、疾病愈嚴重。 - b. Very sick patient (Low T4 syndrome): 若病患的 T4、T3、TSH 皆下降,此時暗 示病患預後差。(Harrison 2239) Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - .../dL$ | $T4 = 5 \sim 15 (10x)$ | 0.3 | | free T4 = $0.7 \sim 1.8 \text{ ng/dL}$ , | $fT4 = 0.5 \sim 1.5 (10)$ | 記憶: | | $TSH = 0.34 \sim 4.25 \mu U/mL$ | $TSH = 0.5 \sim 5$ | T3 強度強 3 倍 | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- ...(D) | 5. 一位 20 歲女性病人,主訴近三個月來有陣發性心悸、冒汗、頭痛等症狀。目前尚無體重減輕,平時也沒有手抖的現象。幾次測量血壓時發現有忽高忽低、變化極大的現象。對於此病人應該先建議什麼檢查? (A) free T 4 and TSH (B) ACTH and cortisol (C) aldosterone and renin (D) 24-hour urine VMA and catecholamine | 99(一)專醫三-44 | | | | | | (C) | 6. 病人因突發頭痛、心悸、冒冷汗而住院,檢查發現病人血壓變化很大,而這些症狀均合併血壓急速升高時發生,則他最可能的診斷是: | 97(一)專醫三-21 | | | (A) renovascular Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- \*T3 (Triiodothyronine) \ T4 (Tetraiodothyronine \ Thyroxine) \ PTH (Parathyroid hormone) Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 
 ## Clinical Caveats
 

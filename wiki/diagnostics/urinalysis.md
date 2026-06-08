@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch07]]"
 aliases:
   - 'Urinalysis (尿液檢查)'
   - 'Urinalysis'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch07]]
 
 ## Key Details From Sources
 
+- (BD) 8. 病患經過處理之後狀況逐漸改善,不幸的是,在術後五天之後又 106(二)專再度高燒不退,下列處置何者錯誤? 醫五-45 - (A) 血球檢查、胸部 X 光、尿液分析和血液培養 - (B) 若懷疑是導管相關感染,拔掉導管同時並給予 vancomycin 或是 linezolid - (C) 假如懷疑是心內膜炎(endocarditis),至少要給予抗生素四 到六週 - (D) 若是嚴重的敗血症或是免疫抑制 (immunosuppression) 的病人, 抗生素藥效須涵蓋 *gram-positive cocci* 和 fungus Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- 【詳解】(B) 尿液檢查正常(排除泌尿系統受穿刺傷),腹部檢查無異常,接著作乙狀結腸鏡檢查。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - (B) 8. 一位2歲的林小妹妹,1年來常常發燒,尿液檢查顯示感染性尿 99(二)專 液。醫師為她做膀胱及排尿攝影檢查,影像如圖示。林小妹妹最 醫四 -79 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】影像學可以看到輸尿管與腎盂的擴張,加上近一年來 常有發燒與尿液檢查顯示感染性尿,可以懷疑是因膀胱輸尿管 逆流(vesicoureteral reflex, VUR)而引起的 UTI。因膀胱輸尿管 逆流而引起的 UTI 又可以稱作 reflux nephropathy。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 實驗室檢查包括尿液分析、CBC, 腎功能評估等。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -69,8 +75,6 @@ tags:
 - (C) 2. 一位 30 歲女性病人尿液分析發現血尿,下列何項檢查結果支持是腎小球性(glomerular)血尿? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...數 16/min, 呼吸音正常, 心律規則無雜音,腹部平坦無壓痛,下肢有顯著壓陷性水腫。血液 檢查:血紅素 10 gm/dL,白血球 10,500/µL,白蛋白 2.5 g/dL,尿 素氮 35 mg/dL, 肌酸酐 3.0 mg/dL; 尿液檢查:蛋白質(3+),紅 血球 20~25 顆/高倍視野,並可見到紅血球圓柱體。本病人接受腎 臟切片檢查後,最適當治療方式為? (A) 廣效性抗生素 (broad-spectrum antibiotics) (B) 免疫抑制劑 (immunosuppressive therapy) (C) 緊急血液透析 (emergent hemodialysis) (D) 補充白蛋白 (albumin infusion) 【詳解】HTN + hematu Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (C) 25 歲女性,兩年前開始,上呼吸道感染兩天後就會出現肉眼可 見血尿。尿液檢查有 100 mg/dL 蛋白,高倍鏡檢有 15~20 RBC Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (B) 17. 一位 70 歲婦人因膽囊炎併發腹膜炎住院。住院時腎功能為 BUN 28 mg/dL,Creatinine 1.2 mg/dL。給予抗生素 cefazolin 1 g q8h 和 gentamicin 80 mg q12h 注射,並予全靜脈營養法。三天後體溫下降至 37℃,脈搏、血壓正常,此時體重為 45 公斤。一週後開始給予軟性食物。第十天測得 BUN 和 Creatinine 各為 40 和 3.5 mg/dL,血清電解質(mmol/L):Na 134, K 3.3, Cl 95;病人一日尿量測得為 2,000 mL,尿液分析正常。有關此病人腎臟問題的敘述,下列何者最為正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- (A) 尿液檢查通常會出現嚴重的蛋白尿,並且出現微觀血尿 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

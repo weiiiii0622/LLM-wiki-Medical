@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Secondary hypertension (次發性高血壓)'
   - 'Secondary hypertension'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-需從腎臟、內分泌、血管與藥物原因找可逆病因。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+需從腎臟、內分泌、血管與藥物原因找可逆病因。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (1) 高血壓機率較洗腎患者高,其可能的原因為 cyclosporine 的副作用、排斥、腎動脈狹窄等。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. 除上述症狀,神經纖維瘤患者易因腎動脈狹窄引起高血壓、得到嗜鉻細胞瘤機會較高、學習力和智力出現障礙或是得到惡性腫瘤的機會增高。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - 兒童心臟惡性腫瘤臨床上更少見,大部分惡性腫瘤為 sarcomas,例如 angiosarcomas、rhabdosarcomas、fibrosarcomas。其他更少見的有 lymphoma 或是 pheochromocytomas。臨床上,兒童心臟惡性腫瘤多為 secondary; 比較常見的病因有 Wilms tumor 或是 lymphoma/leukemia 造成的 metastasis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...少數病人其脊髓也有血管母細胞瘤,造成病人有尿失禁或步態不穩。 - c. 視網膜血管瘤通常在視網膜的周圍,通常視力不受影響。然而,血管瘤若不 斷有滲出液,則會造成視網膜剝離與視力喪失。 - (2) 其他器官:與腫瘤發生有關。 - a. 腎:pheochromocytoma、renal carcinoma(造成死亡最常見原因)。 - b. 胰臟:神經內分泌腫瘤和漿液性囊腺瘤(serous cystadenoma)。 - c. 副睪:乳頭狀囊腺瘤(papillary cystadenoma)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

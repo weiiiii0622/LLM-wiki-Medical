@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch01]]"
 aliases:
   - 'Cystitis (膀胱炎)'
   - 'Cystitis'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 ( Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...| | Dementia as first symptom 以失智症為第一個表現 | Dementia with Lewy bodies | | Prominent orthostasis 有姿態性低血壓 | MSA-p | | High frequency (8~10 Hz) symmetric tremor 高頻率顫抖 | Essential tremor | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous lesions on the extremitie Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (2) 病毒感染,特別是 adenovirus type 11 and 21, 會造成 cystitis。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

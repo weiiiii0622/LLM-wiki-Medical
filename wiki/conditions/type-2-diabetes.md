@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med5-book1-ch01]]"
 aliases:
   - 'Type 2 diabetes mellitus (第 2 型糖尿病)'
   - 'Type 2 diabetes mellitus'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-胰島素阻抗與 β cell 功能下降造成慢性高血糖。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素阻抗與 β cell 功能下降造成慢性高血糖。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med5-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...lucagon), 使得肝臟的肝醣分解(glycogenolysis)增加。 - b. 缺氧組織產生的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的糖類,也有肝臟保護的作用,有利於病人對手術的耐受。術 後糖類的補充是最易消化吸收,對術後消化功能欠佳者更為適宜。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (A) 可能與胰島素抗性(insulin resistance)的內分泌疾病有關 Source: [[sources/med4-book2-ch11|子、其 他]].
 - Type 2 diabetes mellitus (insulin resistance) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - #### 2. Type 2 diabetes mellitus: Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

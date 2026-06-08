@@ -7,6 +7,16 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med5-book1-ch16]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)'
   - 'Aneurysm clipping/coiling'
@@ -21,16 +31,36 @@ tags:
 
 ## Summary
 
-ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch09]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch13]]
+- [[sources/med5-book1-ch15]]
+- [[sources/med5-book1-ch16]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- 4. 併發症:除了前述之併發症外,肝臟移植要特別注意的是肝動脈栓塞、門靜脈栓塞、膽管狹窄或 leakage、膽管炎等。另外排斥的比例較高,高峰期是術後 4~21 天,確診須靠切片,治療以類固醇為主。而有 B 型肝炎帶原者之肝臟移植病患,需術後連續施打七天 HBIG,降低 B 型肝炎的復發率,之後一週一次 / 打四個 Course,一月一次 / 打六個 Course。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (2) 血管栓塞、狹窄;輸尿管狹窄、滲漏。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...54 mg/dL, 主治 醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決 然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 cc。以下什麼情況最可能解釋移植腎沒有發揮功能? (A) 移植腎腎小管壞死 (B) 移植腎腎動脈栓塞 (C) 移植腎腎靜脈栓塞 (D) 移植腎輸尿管壞死 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 4. 腹腔充氣 (Pneumoperitoneum): - (1) 腹腔鏡手術時需將腹腔充氣以便手術進行,以下為常使用之氣體: - a. CO2: 易溶於水,對腹膜刺激大,但不會引起氣爆、不易氣體栓塞、易從肺部排出。最常使用。 - b. N2O: 易溶於水,對腹膜刺激小,但會引起氣爆。 - c. Helium、Neon、Argon:不會有高碳酸血症,但因難溶於血漿,故易造成氣體栓塞。 - (2) 腹內壓維持在 10~15 mmHg。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- 5. 併發症: - (1) 氣體栓塞 (gas embolism): - a. 大的氣體栓塞會造成肺動脈阻塞。 - b. 症狀: End-tidal CO, 下降、血壓下降、心跳減慢、低血氫。 - c. 處置: - (a) 停止充氣。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- (b) Trendelenburg position (頭低腳高)且身體右側抬高:使氣體流向右心室 心尖,遠離右心室和肺動脈相接處 (right ventricular outflow),減緩栓塞。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- 2. 原因: 敗血症、惡性腫瘤、嚴重外傷或燒傷、休克、羊水栓塞、胎盤剝離、過期流產。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- 3. 症狀:出血、栓塞、低血壓甚至休克、器官灌流不足、酸中毒。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- (D) 15. 術後發生肺部栓塞的危險因素,不包括下列何項? Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- ...性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 (B)合併症較少 (C)腸道黏膜(intestinal mucosa)較不易萎縮 (D)易引發吸入性肺炎(aspiratio Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - 腦血管疾病俗稱中風(stroke),血管病變中,梗塞(infarction)占 84%,即血管被粥狀硬化阻塞或被心臟來的血栓塞住等,導致血液供應不到遠端腦組織,造成缺血性腦中風(ischemic stroke);出血(hemorrhage)占 16%,即血管壁因高血壓或先天性異常而破裂,血液流到腦組織中(ICH)、蜘蛛膜下腔(SAH),造成出血性腦中風(hemorrhagic stroke)。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...M、高血脂等因素形成粥狀硬化瘤(Atheroma) 若破裂引起血小板聚集,則造成阻塞;或在 ICA 較軟的 thrombi脫落,在遠方動脈梗塞 | 大腦皮質、腦幹、小腦症狀 | | 心源性血栓 | MCA 的上支 | CA的上支 心臟來的血栓塞住,病灶多在灰質 | | | Cardio-embolic | (併發癲癇↑) | 蘭↑) 較易轉化為出血性梗塞 | | | 小血管栓塞Lacunar infarction | 小動脈穿透支 | 因「高血壓」導致動脈硬化,病灶多在白質 | 小洞中風症候群 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 2. 心因性血栓 (cardio-embolic): - (1) 位置: MCA 的上支。 - (2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].

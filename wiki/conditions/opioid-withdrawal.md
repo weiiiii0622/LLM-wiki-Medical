@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med5-book1-ch11]]"
 aliases:
   - 'Opioid withdrawal (鴉片類戒斷)'
   - 'Opioid withdrawal'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-opioid 停用後出現流淚流鼻水、雞皮疙瘩、腹瀉、肌痛、焦躁與失眠。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+opioid 停用後出現流淚流鼻水、雞皮疙瘩、腹瀉、肌痛、焦躁與失眠。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book3-ch05]]
+- [[sources/med5-book1-ch11]]
 
 ## Key Details From Sources
 
+- F. 任何情況懷疑 skull base fracture、hemotympanum、raccoon eye · CSF otorrhea or rhinorrhea · Battle sign Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - #### 鴉片戒斷 (Opioid withdrawal) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - #### DSM-5 的診斷準則:鴉片戒斷(Opioid withdrawal) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 2. Clonidine:可以緩解鴉片戒斷的不舒服症狀。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].

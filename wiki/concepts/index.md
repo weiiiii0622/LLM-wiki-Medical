@@ -23,12 +23,17 @@ Mechanisms, definitions, and frameworks.
 - [[concepts/beta-lactam-mechanism|Beta-lactam mechanism (β-lactam 作用機轉)]] - beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。
 - [[concepts/community-medicine|Community medicine (社區醫學)]] - 以社區與族群為單位評估健康問題、資源與介入。
 - [[concepts/gram-stain-classification|Gram stain classification (革蘭氏染色分類)]] - 以 Gram stain、形態、觸媒、凝固酶、溶血等特徵建立細菌鑑別框架。
+- [[concepts/informed-consent|Informed consent (知情同意)]] - 醫療處置前向病人說明診斷、處置、風險、替代方案與拒絕後果並取得同意。
+- [[concepts/lethal-triad-trauma|Lethal triad of trauma (創傷致命三角)]] - 外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。
 - [[concepts/lower-motor-neuron-lesion|Lower motor neuron lesion, LMN lesion (下運動神經元病灶)]] - LMN lesion 常見 weakness、atrophy、fasciculation、hyporeflexia。
 - [[concepts/lung-protective-ventilation|Lung-protective ventilation (肺保護性通氣)]] - ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。
+- [[concepts/medical-ethics|Medical ethics (醫學倫理)]] - 醫療決策中的自主、行善、不傷害、公平與知情同意等原則。
 - [[concepts/medical-ethics-four-principles|Four principles of medical ethics (醫學倫理四原則)]] - 尊重自主、行善、不傷害與正義是臨床倫理分析常用框架。
 - [[concepts/monoamine-hypothesis|Monoamine hypothesis (單胺假說)]] - 以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。
+- [[concepts/monro-kellie-doctrine|Monro-Kellie doctrine (Monro-Kellie 學說)]] - 顱腔內腦組織、血液、CSF 總量相對固定，任一成分增加會使 ICP 上升。
 - [[concepts/newborn-screening|Newborn screening (新生兒篩檢)]] - 以早期檢測可治療或需早期介入的先天代謝、內分泌與其他疾病。
 - [[concepts/opportunistic-infection|Opportunistic infection (伺機性感染)]] - 免疫功能下降時由平時低致病性或潛伏病原造成的感染。
+- [[concepts/organ-transplantation|Organ transplantation (器官移植)]] - 以活體或屍體捐贈器官取代末期器官衰竭，需評估配對、排斥、感染與倫理。
 - [[concepts/oxygen-therapy|Oxygen therapy (氧氣治療)]] - 低氧血症與急性呼吸困難的支持治療。
 - [[concepts/palliative-care|Palliative care (緩和醫療)]] - 以症狀控制、生活品質、溝通與目標照護為核心的全人照護。
 - [[concepts/primary-skin-lesions|Primary skin lesions (基本皮膚病灶)]] - 以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。

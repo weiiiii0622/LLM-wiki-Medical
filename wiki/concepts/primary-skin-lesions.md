@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Primary skin lesions (基本皮膚病灶)'
   - 'Primary skin lesions'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- ...較少出現在 Neurofibromatosis type I 的病人? | 108(一)專 | | | (A) 家族顯性遺傳 | 醫五-9 | | | (B) 雙側聽神經瘤 | | | | (C) 皮膚咖啡牛奶斑(Cafe-au-lait macules) | | | | (D) 脊椎發育異常 | | | | 【詳解】雙側聽神經瘤屬第二型。 | | | (B) | 5. 有關腦下垂體泌乳素瘤(prolactinoma)的描述,下列何者正確? | 108(一)專 | | | (A) 腫瘤通常直徑大於 3 公分 | 醫五-11 | | | (B) 血中泌乳素(prolactin)濃度通常 > 150 ng/mL | | | | (C) 手術是第一線主要治療方法 | | | | (D) 直 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...| 治療 | |-------------------------|--------------------|--------------|--------------------| | Alzheimer's dz. | Senile plaques | 記憶力↓+認知功能↓ | Anticholinesterase | | Vascular dementia | 累積小中風 | 失智+局部神經學症狀 | 控制 HTN, DM | | Dementia c/ Lewy bodies | Lewy bodies ↓ | 失智+巴金森氏症,視幻覺 | Anticholinesterase | | Frontotemporal Dementia | Pick (Tau) protein Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...這些變異形成不正常的蛋白質所引起。 - b. 晚發型: 絕大多數病患屬於這一類,好發 60 歲以上。還未發現明確致病基因,但 19 號染色體上的 APOE ε4 gene 確定會增加病情惡化的風險。 - (3) 病理:老年斑(senile plaques)、神經纖維糾結(neurofibrillary tangles)。 - (4) 症狀:初期為記憶減退,尤其是短期記憶 (recent memory) 最先喪失。 - (5) 診斷: - a. 靠認知功能評估及排除其他疾病。 - b. 影像學: - (a) 主要用來排除其他造成失智症的器質性疾病(organic disorder)。 - (b) 阿茲海默症可見腦萎縮,如側腦室擴大、腦溝(sulcus)變寬,由以顳葉 內側(medial Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (C) 病理特徵為老年斑 (senile plaques) 和神經纖維糾結 (neurofibrillary tangles) Source: [[sources/med4-book4-ch06|己、大腦疾病]].

@@ -26,6 +26,13 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book1-ch15]]"
 aliases:
   - 'Oxygenation and ventilation (氧合與通氣)'
   - 'Oxygenation and ventilation'
@@ -40,7 +47,7 @@ tags:
 
 ## Summary
 
-區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +73,26 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch01]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch12]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch09]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch14]]
+- [[sources/med5-book1-ch15]]
 
 ## Key Details From Sources
 
+- 7. SIRS (systemic inflammatory response syndrome):以下符合 2 個以上: - (1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfu Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (B) 3. 人類因為感染或外傷可引發全身性發炎反應症候群(systemic inflammatory response syndrome, SIRS),其臨床表現含:①體溫 > 38℃,或≤36℃ ②心率≥90 / 分 ③呼吸速率≥20 / 分, 或 PaCO2 ≤ 32 毫 米 汞 柱 , 或 需 要 機 械 式 通 氣 (mechanical ventilation) ④白血球 $\geq 12,000$ / 微升 ( $\mu$ L),或 $\leq 4,000$ / 微 升 $(\mu L)$ ,或 band forms ≥ 10%。若病患要被診斷為全身性發炎 反應症候群,至少須合乎上列幾種條件? - (A) 一種 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- 中心靜脈壓(central venous pressure),動脈壓(arterial blood pressure),心輸出量(cardiac output),混合靜脈血氧飽和度 (mixed venous oxygenation saturation) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- 【詳解】(B) 降低血中 PaCO2 至 30~35 mmHg。 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
+- (C) hypoventilation Source: [[sources/med5-book1-ch12|丙、顱內壓]].
+- (C) 氣管內管插管併給予過度換氣(hyperventilation) Source: [[sources/med5-book1-ch12|丙、顱內壓]].
+- (C) 5. 下圖 45 歲男性,急性冠狀動脈阻塞導至心因性休克,緊急做完 107( - ) 專 冠狀動脈繞道手術後,心臟收縮能力不好,因此放上了主動脈 氣球幫浦及葉克膜氧合器,送往加護病房觀察,左腳六個小時後發現有鼓脹的情形,下列敘述何者錯誤? ①肢端的脈搏先確 認 ②有可能血液中肌酸激酶(CK)會提高 ③可以量測腔室的 壓力,若大於 20 mmHg 可能要作筋膜切開手術 ④小腿有五個腔室:anterior、deep posterior、superficial posterior、lateral 和 medial Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- (D) 16. 一位 60 歲男性,接受冠狀動脈繞道手術。術後第二天,血行動力正常,胸部 X 光正常,肺臟呼吸音清楚無濕囉聲,動脈血氣體分析正常,病人意識清楚,呼吸器當時的設定是 SIMV mode,呼吸器通氣次數每分鐘 4 次,病人自呼 8 次,PEEP: 4 cmH2O,够感度 2 cmH2O,呼吸器壓力支持 10 cmH2O。準備讓病人脫離呼吸器,接上 T 型管讓病人自己呼吸,呼吸次數很快上升到每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- 3. 絕對禁忌症:肋膜腔嚴重的沾黏、無法承受單肺通氣(one lung ventilation)的病人。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- 5. 手術方法: 病人側躺,並使用雙管氣管插管(Double-lumen endotracheal tube),使單側肺部塌陷(one lung ventilation),在胸腔內製造出空間來以便進行胸腔鏡手術(故不需像腹腔鏡一樣進行胸腔充氣)。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - ...暫幾秒鐘到幾分鐘的突然消失,但發作後不會嗜睡、 意識混淆。常見的例子是小男孩在學校上課時常發呆,以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperventilation)或一些光刺激(photic stimulation)引發。 藥物首選為 valproate(Depakine®),或使用 ethosuximide。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (C) 可被過度換氣(hyperventilation)檢查誘發 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (D) 42. 下列關於癲癇失神型小發作(absence, petit mal)的敘述,何者 100(一)專 最正確? - (A) 首次發作通常發生於 15 歲到 20 歲之間 - (B) 發作中不會有自動症(automatism) - (C) 發作時腦電圖(EEG)呈現局部性棘波(focal spikes) - (D) 過度換氣(hyperventilation) 會引起發作 Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -77,16 +101,6 @@ tags:
 - (1) 氧氣:利用呼吸器維持病人 $PaO_2$ 在 $50\sim90$ mmHg 以維持適當的組織氧合狀態,同時避免高氧的傷害與高二氧化碳造成肺部血管阻力。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (2) NO 吸入治療:藉由 NO 放鬆血管平滑肌特性調整血管張力。吸入 NO 不但可以 提高組織氧合,更可降低使用 ECMO 的機率, Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...為小發作(petit mal),發作時病人會突然出現動作靜止、面無表情;發作期間病人無法藉由呼叫或碰觸喚醒。 - (2) 5 歲以前不常發生,女性較男性好發。發作時不會有 aura,且發作時間很少會 持續超過 30 秒。過度換氣(hyperventilation)持續 3~4 分鐘或是閃光可以誘發 失神發作。 - (3) 失神發作一天內可以發生很多次,甚至可達數十次。然而,complex partial seizure 一天內發生次數不若失神發作般。 - (4) 90% 病人有 automatic behavior。 - (5) EEG 可以發現 3/sec spike 與 generalized wave discharge (整個腦袋亂放電)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (A) 2. 一歲小孩自 6 個月大起,發生數次大哭後面色發黑,並喪失意識, 108( 二) 專 數秒後清醒正常,身體診察無明顯異常,最常見之疾病為何? 醫四-18 - (A) 屏氣發作 (Breath-holding spell) - (B) 先天性心臟病(Congenital heart disease) - (C) 過度換氣症候群 (Hyperventilation syndrome) - (D) 失神發作 (Absence attack) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (C) extracorporeal membrane oxygenation Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (B) 16. 特定疾病或狀況,容易造成兒童阻塞性呼吸暫停(obstructive sleep apnea)或換氣不足(hypoventilation),導致睡眠障礙、 生長不良,甚至腦缺氧,下列何者最不可能? Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 2. 流行病學:最常見的新生兒下消化道阻塞疾病,好發足月產新生兒。每 5,000 位新生兒中就有一位,男性發生比例較高(男:女= 4:1)。與某些先天性疾病有關,如 **Down**, Smith-Lemli-Opitz, Waardenburg, cartilage-hair hypoplasia, and congenital hypoventilation(「Ondine curse」)syndromes and urogenital or cardiovascular abnormalities。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (B) 換氣過度 (hyperventilation) Source: [[sources/med3-book4-ch29|己、特定議題]].
-- 1. 診斷出呼吸性鹼中毒,要去想為什麼病人會喘(呼吸變快)?診斷出呼吸性酸中毒,要想看看為什麼病人呼吸變慢(hypoventilation),是不是快呼吸衰竭了? Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (1) 若發現 $PaCO_2$ 太低,表示病患呼吸太快(Hyperventilation),有可能是低血氧、酸中毒、疼痛或焦慮等原因刺激呼吸中樞造成的。一方面可以看看胸部 X 光,是否有肺炎、肺水腫等造成低血氧;一方面考慮病人是否因感染導致敗血症或其他原因造成酸中毒,病患用喘來 wash out $CO_2$ 以維持酸鹼平衡。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (2) 若發現 $PaCO_2$ 太高,表示病患呼吸太慢(Hypoventilation),可因上述低血氧、酸中毒刺激呼吸中樞,病人喘到後來呼吸肌 fatigue。COPD病人呼吸道長期吐氣不完全,也可能導致 $CO_2$ 累積(Retention);其他中樞神經、周邊神經、肌肉病變等也可能使呼吸肌無力,或是鎮靜劑抑制呼吸中樞。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (D) 1. 一名 35 歲女性因夜尿(nocturia)就診,身體檢查:血壓 150/94 mmHg,脈搏 78/min,其它檢查無異常。實驗室檢驗:blood urea nitrogen 15 mg/dL,creatinine 1.0 mg/dL,空腹血糖 97 mg/dL,血鈉 142 mmol/L,血鉀 2.8 mmol/L,血氯 90 mmol/L,尿沉渣正常,尿 鉀排泄量 50 mmol/day,動脈氣體 pH 7.45,[HCO3¯] 30 mmol/L,PaCO2 44 mmHg,則本病人最可能罹患? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- #### 1. 黴菌 (Fungal infection): CD4 200 達 3 個月。 - c. 血氧濃度低 (PaO2 35 mmHg) 者,可給予類固醇。 Prednisolone 40 mg PO bid day1~5 → 20 mg bid day 6~10 → 10 mg bid day11~20。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

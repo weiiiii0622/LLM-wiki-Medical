@@ -17,6 +17,7 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch01]]"
 aliases:
   - 'Lipid profile (血脂檢查)'
   - 'Lipid profile'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,13 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch01]]
 
 ## Key Details From Sources
 
+- (4) Omega-3 為不飽和脂肪酸,含有多種脂肪酸,其中 EPA(二十碳五烯酸)、 DHA(二十二碳六烯酸)及 α-Linolenic acid(次亞麻油酸)對人體很重要,可 從魚油獲得。EPA 可以降低血液黏稠度、降血壓、降三酸甘油脂等心血管疾病 保護作用; DHA 直接影響心臟、腦部、眼睛、神經系統、腎臟的正常運作。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- ...巨噬細胞之能量來源。是維持腸道黏膜完整和免疫功能的重要物質,在 stress 和敗血症時含量會很明顯地下降。 - (5) Arginine:為一氧化氮(NO)的原料來源,促使血管舒張減少心臟輸出的負荷, 緩和心紋痛的狀況,降低低密度脂蛋白(LDL)氧化,另外能促進傷口癒合, 以及促進免疫系統分泌自然殺手細胞、吞噬細胞和 interleukin-1。 - (6) 支鏈胺基酸 (Branched-chain amino acids, BCAA):包括 Leucine, Isoleucine, Valine 均屬必須胺基酸,可直接由骨骼肌代謝產生能量而非肝臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - ( Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- 【詳解】水溶性纖維可與脂肪酸結合,降低膽固醇總量和 LDL 膽固醇,延長食物在胃中停留的時間,從而減慢糖分釋放及被吸收的速度,有助糖尿病患者控制血糖。非水溶性纖維能幫助食物渣滓通過腸道,防止便秘,控制及平衡腸道的酸鹼值,防止微生物產生致癌物質,有助預止結腸癌。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (A) 27. 一位三星期大女嬰因全身水腫,尿量減少而就診。實驗檢查發現蛋白尿 4+,24 小時蛋白尿為 10.5 g 血中白蛋白為 0.88 mg/dL, 膽固醇:498 mg/dL,三酸甘油脂:248 mg/dL,下列之描述何者錯誤? Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】家族型高膽固醇血症(familial hypercholesterolemia) 其嚴重度是根據基因上的變異數量決定,即有加成效應(gene dosing effect)。故同型合子會比異型合子的表現來的嚴重。同 合子患者其低密度脂蛋白(low density lipoprotein, LDL)膽固醇 數值是正常人的 4~6 倍,通常 LDL-C 為 500~1200 mg/dL。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...----------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL 異常,只 | | | | | 當一項計算之) | | 腹部肥胖或肥胖 | 腰圍 (cm): | 腰圍 (cm): | BMI ≥ 30 kg/m² 或腰臀比: | | | 男≥ 90 | 男> 102 | 男> 0.9 | | | 女≧ 80 | 女> 88 | 女> 0.85 | | 三酸甘油酯 (TG) | ≥ 150 mg/dL | $\geq$ 150 mg/dL | $\geq$ 150 mg/dL | | 高密度酯蛋白 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
@@ -66,9 +71,6 @@ tags:
 - ...的敏感度→抑制肝臟糖質新生(Gluconeogenesis) →糖質新生為空腹血糖來源,故 Metformin 可降空腹血糖。另外也增加組織(肌肉) 對胰島素敏感度,以增加其對血糖的利用。 - b. 優點:首選用藥,較不會造成低血糖且改善 lipid profile,降低心血管風險。 - c. 缺點: - (a) 最常見的是在剛開始服用時,常引起腹瀉、噁心感。 - (b) 最嚴重副作用則是乳酸中毒(Lactic acidosis)。雖此藥被列為第一線,但心 肝腎較差、酗酒、老年人為乳酸中毒高風險。 - (c) eGFR 2 禁用, eGFR 30~45 mL/min/1.73 m2 減量(每日最大 1,000 mg); 80 歲以上老人過去從未用過,不建議使用。 - (2) TZD (Glitaz Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - ...| Alkaline phosphatase ↑ , LDH ↑ , AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝↑,血糖↑,脂肪酸↑ | 基礎代謝↓ | | | 膽固醇↓,三酸甘油脂↓ | 膽固醇↑,三酸甘油脂↑ | | 血球 | 造血增加+代謝增加→貧血 | 造血減少→貧血 | Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 - (D) 6. 下列有關急性胰臟炎(acute pancreatitis)的生化檢查可能出現的變 102(-) 專 化,何者錯誤? - (A) 血清澱粉酶 (amylase) 及脂肪酶 (lipase) 上升,大於正常值 三倍 - (B) 血清三酸甘油脂 (triglyceride) 大於 1,000 mg/dL - (C) C- 反應蛋白 (C-reactive protein) 上升 - (D) 脂肪酶上升 2-3 天後下降, 澱粉酶上升 7~14 天後下降 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
-- 3. 抽血檢驗:(Ref. Harrison Table 247-6) - (1) 腎臟: BUN、Cr、尿液分析、尿液白蛋白排泄量(檢測高血壓腎病變) - (2) 內分泌:Na、K、Ca、TSH(高鈉低鉀暗示 hyperaldosteronism) - (3) 代謝:空腹血糖、total cholesterol、HDL、LDL(可經總膽固醇—HDL-C TG/5 計算得知此項,TG 很高(> 400 mg/dL)或很低的時候就會失準,最好直接檢測 LDL-C 濃度)、TG - (4) 其他: Hematocrit, EKG Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- Total cholesterol, LDL-cholesterol, HDL-cholesterol and triglycerides Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- | Basic testing | Fasting blood glucose* | |---------------|-----------------------------------| | | Complete blood count | | | Lipid profile | | | Serum creatinine with eGFR* | | | Serum sodium, potassium, calcium* | | | Thyroid-stimulating hormone | Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 
 ## Clinical Caveats
 

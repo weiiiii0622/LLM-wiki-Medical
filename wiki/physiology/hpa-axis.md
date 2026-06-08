@@ -20,6 +20,8 @@ sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch01]]"
 aliases:
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis (下視丘-腦垂體-腎上腺軸)'
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,15 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch01]]
 
 ## Key Details From Sources
 
+- 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...ng/mL。 - b. 生長激素 (GH): 刺激生長,成人出現末端肥大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 1. 身體受到外傷或接受手術產生傷口會導致神經內分泌增加、stress hormone 的釋放(cortisol、epinephrine)、immune reaction 啟動等等使得身體代謝率增加,引起肌肉蛋白分解、肝醣分解、葡萄糖新生和脂肪的氧化,以應付組織的破壞和傷口的修補。而受傷越嚴重,其高代謝狀態會明顯增加。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (C) 25. 一位 5 個月大的男孩,父母發現他在剛睡醒時常會有一陣陣全身 抽動現象,每隔幾秒就抽動一次,一連串的發作甚至可達 3 至 5 分鐘。下列敘述何者錯誤? - (A) ACTH、corticosteroid 或 benzodiazepine drugs 是常用的治療藥物 - (B) 最可能的診斷是 West syndrome - (C) 90% 以上的病患在 1 歲後會逐漸康復痊癒 - (D) Hypsarrhythmia 為其特徵性之腦電圖(EEG)表現 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (C) 1. 有關急性壓力疾患(acute stress disorder)及創傷後壓力症候群 109(一)專 (posttraumatic stress disorder) 之敘述,下列何者錯誤? - 醫四-65 - (A) 急性壓力疾患之症狀若超過一個月以上則需考慮診斷可能為 創傷後壓力症候群 - (B) 創傷後壓力症候群治療合併藥物治療及心理治療是有助益的 - (C) 急性壓力疾患之症狀中不會出現解離症狀 - (D) 創傷後壓力症候群的病因包含 hypothalamic-pituitary-adrenal (HPA) axis 之功能失調 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
@@ -71,10 +79,6 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - (D) 5. 一位 8 歲小男孩,因為牙齦發黑,檢查發現 cortisol 下降,ACTH 上升,診斷為 Addison 病。患童定時補充 cortisone acetate,但是 在治療一年半後,發現學習上有退步的現象,而且走路也不太穩。 下列的後續診斷發現,何者最不合理? Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (4) 治療:維生素 $B_6$ , 抗癲癇藥物,ACTH, 或類固醇, 生酮飲食也有幫助。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...------------|--------| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syndrome | (D) Pancoa Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol/L。下列敘述何者錯誤? - (A) 病人的細胞外 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...為 369 mOsmol/kg H2O, 因此屬於 low osmolality 的 hyponatremia - (B) 病人無 edema, 為 euvolemic status, 因此病因不會是心臟衰竭 或肝腎病變 - (C) 病人 cortisol 23.3 mg/dL, ACTH 13.9 pg/mL, 因此病因不是 cortisol deficiency - (D) 病人 hsTSH 66.7 mIU/mL, 因此病因為 hyperthyroidism Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

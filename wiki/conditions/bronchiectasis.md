@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Bronchiectasis (支氣管擴張症)'
   - 'Bronchiectasis'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,13 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (6) 支氣管擴張症及其他發炎之後遺症。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (1) 短效吸入性乙二型交感神經興奮劑(short-acting $\beta_2$ -agonist, SABA): 緩解急性氣喘發作及預防運動引起的支氣管擴張的首選。藉由使呼吸道平滑肌 舒張,減少血管通透性及呼吸道水腫,及增進纖毛清除能力,使支氣管擴張。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (3) 白三烯受體拮抗劑(Leukotriene receptor antagonist, LTRA): 使支氣管擴張,具抗發炎作用,也可以減少運動及過敏原引起的支氣管收縮。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
@@ -68,9 +73,6 @@ tags:
 - ...17th, ch35 Clubbing of the digits: - Lung cancer Interstitial lung disease - Chronic infections in the thorax, such as bronchiectasis, lung abscess, and empyema. Congenital heart disease associated with right-to-left shunting - Chronic inflammatory or infectious diseases, such as inflammatory bowel disease and endocarditis 但 IE 和 IBD 臨床上少見有 cyanosis 情 Source: [[sources/med3-book1-ch18|寅、其 他]].
 - (B) 支氣管擴張症 (bronchiectasis) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - (D) 16. 高解析度胸部電腦斷層掃描檢查 (High resolution computed tomography, HRCT) 對下列疾病的診斷具有高度的價值,何者除外? - (A) 彌漫性肺疾病(diffuse parenchymal disease) - (B) 支氣管擴張症 - (C) 肺氣腫 - (D) 縱膈腔病灶 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...------|-----------|---------------------------|----------------------|----------------------| | | | -7 | 急性惡化病史 | | | | 支氣管擴張試驗後 | FE | V1 (預測值%) | ≧ 1 次急性惡化需住院 | | 111212 | | FEV 1 /FVC全 2 次急性惡化但未導致住院 | CD | D | | | GOLD 2 | 50-79 | | | | | | GOLD 3 | 30-49 | | | | | | GOLD 4 | CAT CAT ≥ 10 | Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- 2. 依 Group 的治療原則: - (1) Group A:可考慮短效(只有偶爾喘)或長效的支氣管擴張劑。 - (2) Group B: 考慮單用長效支氣管擴張劑(LABA 或 LAMA)。 - (3) Group C: 先考慮單用 LAMA。 - (4) Group D:可用 LAMA、LAMA+LABA 或 ICS+LABA。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- (D) 經支氣管擴張試驗 (bronchodilator test ) 後之「一秒量 (FEV1)」 小於 0.7 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 
 ## Clinical Caveats
 

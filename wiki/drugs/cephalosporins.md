@@ -21,6 +21,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Cephalosporins (頭孢子菌素類)'
   - 'Cephalosporins'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,13 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch03]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- ...: - a. 定義:在控制情形下,有切開經過呼吸道、消化道、泌尿道或生殖道的手術。 - b. 手術類型:Gastrectomy、Hysterectomy。 - c. 感染機率:5%。 - d. 需使用抗生素,以第一線用藥為原則,使用第一代 cephalosporine 針對革蘭氏陽性菌,aminoglycoside 針對革蘭氏陰性菌。若有厭氧菌感染之可能,可使用 Unasyn、Augmentin、Cefmetazole 等為第一線預防性抗生素。 - (3) 汙染傷口 (contaminated): - a. 定義:6~8 小時內新產生的開放性傷口;沒有經過清腸準備的腸胃道手術。 - b. 手術類型: Ruptured appendix、Resection of unprepared bowel。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...壞死 (gas gangrene)。 - b. Clostridium difficile:偽膜性大腸炎(Pseudomembranous colitis)的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...ean(B) clean-contaminated(C) contaminated(D) dirty and infected | 107(二)專醫五-5 | | (A) | 9. | 有關各種抗生素作用機轉的敘述,下列何者正確? (A) cephalosporins 是抑制細菌細胞壁的合成與發展 (B) vancomycin 是抑制細菌蛋白質的合成 (C) rifampin 是抑制細菌去氧核醣核酸(DNA)的合成 (D) quinolones 是抑制細菌核糖核酸(RNA)的合成 【詳解】(B) 抑制細菌細胞壁的合成;(C) 抑制 DNA-dependent RNA polymerase 的活性;(D) 抑制 DNA 合成。 | 106(二)專醫五-63 | | (C) | 10. | 與腹腔內感 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - b. 給予抗生素: Clindamycin [Clindmaycin 可抑制細菌產生毒素]、Oxacillin、1st Cephalosporin。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (C) 2nd generation Cephalosporin Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
@@ -74,9 +79,6 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - 2. Urethritis: 需治療 Neisseria (Ceftriaxone 250 mg IM\*1 dose)、Chlamydia Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - 4. Pyelonephritis: Quinolone 或 1st cephalosporin (cefazolin®) 或 Amoxicillin/clavulanate (Augmentin®) \* 14 天 Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 - ...s | 100 | | 主要在兒童及年輕人,有群聚病史(軍隊、宿舍),由鼻咽進入,有出血點、斑 (petechiae and purpuric rash) | PCN-S | PCN G | | g | | , , | | PCN-R | Ceftriaxone | | Listeriamonocytogenes | 5~10 | GPB | 較常見於老人、酗酒者、免疫不全者,食入被感染的食物,如 Milk, cheese(乳製品)等。 | Ampicillin + Gentamicin | | | Staphylococci5GPC若有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- 2. 肺炎雙球菌導致的腦膜炎需根據抗藥性狀況,選擇抗生素(重要,常考!!)。 - (1) 完全沒有抗藥性可考慮 IV high dose penicillin。 - (2) 一般經驗性用藥需使用第三代cephalosporin最好的選擇是Ceftriaxone(Rocephin®)。 - (3) 高度抗藥性,需加上 Vancomycin。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- 3. 可能因接觸病患喉嚨或鼻腔分泌物、飛沫而傳染,可能於潛伏期 3~4 天後發病。因此 罹病者須隔離、接觸者須預防性投藥,原則如下: - (1) 罹病者須迅速投予高劑量的第三代 cephalosporin,須在 24 小時內向衛生單位通報, 以進行相關防疫措施。至少住院的第一天必需採取呼吸道隔離(投藥後 24 小時即 不具傳染力)。 - (2)接觸者:同住之家人、室友、直接接觸口鼻分泌物之醫療人員應儘速投予預防性抗 菌藥物 rifampin(600 mg PO bid for 2 days)。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- (2) 治療: - a. 完全沒有抗藥性可考慮 IV high dose penicillin - b. 一般經驗性用藥需使用第三代 cephalosporin 最好的選擇是 Ceftriaxone。 - c. 高度抗藥性,需加上 Vancomycin、Rifampin。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

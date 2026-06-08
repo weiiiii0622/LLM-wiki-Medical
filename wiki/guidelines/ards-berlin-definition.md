@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book4-ch24]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Berlin definition of ARDS (ARDS Berlin 定義)'
   - 'Berlin definition of ARDS'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合�
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch18]]
 - [[sources/med3-book4-ch24]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- 【詳解】移植術後早期常見之死亡原因為 graft failure,會造成 ARDS/diffuse alveolar damage,而晚期常見之死亡原因則為bronchiolitis obliterans syndrome (BOS)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 以病人為中心的臨床應用:LEARN model [Ref. Berlin E et al. West J Med, 1983] - L: listen (傾聽) 專心且用心的傾聽病人所述的症狀,完整的收集診斷與治療所需的相關資料。 - E: explain(說明) 收集完診斷與治療的資料後,醫師以平易的用語,嘗試說明可能的診斷及病因。 - A:acknowledge(容許)-藉著醫師與病人相互溝通,發覺雙方對於疾病認知的相異之處,必要時進行處理及說明,以消弭彼此認知上的差距。在說服病人接受醫師看法之時,要盡 Source: [[sources/med3-book4-ch24|甲、家庭醫業]].
 - ...-------------------------------------------------------------------------------------------|------------------| | (D) | Berlin 與 Fowkes 所發展的文化差異處理模式(LEARN),包括那五個步驟? (A) 傾聽、評估、認知、建議、包容 (B) 傾聽、評估、警覺、建議、包容 (C) 傾聽、解釋、警覺、建議、妥協 (D) 傾聽、解釋、認知、建議、妥協 | 107(一)專醫三-71 | | (C) | 3. 下列何者不屬於 Berlin 與 Fowkes 所發展出來的 LEARN 模式? (A) 傾聽 (listen) (B) 解釋 (explain) (C) Source: [[sources/med3-book4-ch24|甲、家庭醫業]].
 - (C) 9. 面對一位外籍勞工因病來診,在醫病間之認知及溝通有所困難時, Berlin 及 Fowker 提出有用之溝通方式 "EARN" Model,有關 LEARN Model 之敘述,下列何者錯誤? Source: [[sources/med3-book4-ch24|甲、家庭醫業]].

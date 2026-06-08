@@ -17,6 +17,10 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Breast cancer (乳癌)'
   - 'Breast cancer'
@@ -31,7 +35,7 @@ tags:
 
 ## Summary
 
-乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +52,17 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- ...)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人體重 70 公斤,工作時不慎發生火災,身體 | 102(一)專 | | 表面積有 30% 的燒傷,根據 Parkland formula 計算,他前 8 小時 | 醫五 -77 | | 應給予多少毫升的輸液? | | | (A) 8,400 | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...24. 下列關於脊椎病理性骨折(pathologic fracture)的敘述,何者錯誤? | 104(二)專 | | (A) 多為轉移性腫瘤(metastatic tumor)造成 | 醫五 -12 | | (B) 常見的腫瘤來源為肺癌、乳癌等 | | | (C) 判斷腫瘤對於脊髓壓迫的嚴重程度時,CT 比 MRI 更適合 | | | (D) 當病患下肢日漸無力或有大小便失禁等症狀時應考慮手術 | | | 減壓 | | | (C) 25. 有關脊椎損傷,下列何者錯誤? | 104(二)專 | | (A) 只要下肢仍有感覺就屬於不完全性的損傷 | 醫五 -75 | | (B) Central cord syndrome 指病人理學檢查時上肢比下肢無力 | | | (C) Br Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- 7. 轉移癌:轉移自肺癌、乳癌、腎臟、腸胃道或淋巴癌。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。選(B)。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (D) 對於肥胖相關的黑色棘皮症,減重對於皮膚病灶沒有改善作用 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細 胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發 於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗 性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、 雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一 種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症 最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或 治療相關之癌症。 Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -65,8 +77,6 @@ tags:
 - ...敘述何者錯誤?(A) 大腸癌早期數值即升高,(B) 胰臟癌病人數值可能升高(C) 支氣管炎病人數值可能升(D) 吸菸者數值可能升高 | | 94(三)檢內-23 | | (C) 22. CA15-3 是那一種癌症之腫瘤(A) 大腸癌(C) 乳癌 | 指標(tumor marker)?(B) 卵巢癌(D) 肺癌 | 94(二)檢內-48 | | (B) 23. CA-125 為那一種癌症之腫瘤(A) 肺癌(C) 乳癌 | 標記?(B) 卵巢癌(D) 胃癌 | 94( 一 ) 檢內 -19 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...in →肺癌 (腎不好者)、卵巢癌 | 骨髓抑制 | | | | Alkylating | | Oxaliplatin→大腸癌 | 神經毒性 | | | | | Nitrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | | Ifosfamide → 肉癌 (Sarcoma) | 出血性膀胱炎 | | | CCNS | | mustards | Melphalan→多發性骨髓瘤 (MM) | | | | CCNS | | Other | Carmustine (BCNU) · Lomustine (CCNU) | 延遲的骨髓抑制 | | | | | 4 4 12 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - ...s (紫杉醇):穩定微小管 (Stabilized)→導致微小管無法解聚 (Depolymerization) - (1) Pacitaxel (Taxol®、太平洋紫杉醇) - a. Taxanes (紫杉醇)類能對抗多種癌症,包括肺癌、乳癌、卵巢癌、血管肉瘤 (Angiosarcoma)等。 - b. 此藥需以包含 cremophor 的載體輸注,所以容易導致過敏,注射前需以 Dexamethasone, Diphenhydramine (H1 blocker), Cimetidine (H2 blocker)預防過敏。 - c. 還可能導致四肢末端麻木等神經毒性(glove-and-stocking neuropathy)。 - d. 有些病患會有心率不整,以 asym Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- | 化療藥物 | 血液腫瘤 | Leukemia · Lymphoma · HD | |-----------|--------|----------------------------------------------| | | 固體腫瘤 | 小細胞肺癌、生殖細胞瘤 *、GTN*、卵巢癌 | | | 小兒腫瘤 | Wilms' tumor, Ewing's sarcoma, Neuroblastoma | | 化療藥物+放射治療 | 鱗狀細胞癌( | 頭頸部、肛門)、乳癌、子宮頸癌 | | 化療藥物+手術 | | - 骨肉癌、乳癌 | | 對化療藥物少有反應 | 肝膽胰癌、腎 | Y細胞癌、甲狀腺癌、黑色素細胞癌、前列腺癌 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 
 ## Clinical Caveats
 

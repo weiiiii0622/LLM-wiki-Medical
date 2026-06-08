@@ -25,6 +25,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Escherichia coli infection (大腸桿菌感染)'
   - 'Escherichia coli infection'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,13 @@ E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已�
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...上題,若 stool culture 長出何種細菌,則會被認為是 antibiotic associated colitis? (A) Clostridium difficile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - 100(一)專醫五-11 | | (D) 22. 承上題,此時會選擇何種藥物治療? (A) 注射 clindamycin | 100(一)專醫五-12 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (A) 大腸桿菌 O157: H7 (E. coli O157: H7) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (B) 大腸桿菌(Escherichia coli) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 105(一)專 (D) 6. 下列何者不是造成新生兒先天性感染之重要病原體? 醫四 -5 (A) 巨細胞病毒 (B) 梅毒螺旋體 (C) 弓蟲症 (D) 麻疹病毒 (B) 7. 造成早發性(early-onset)新生兒感染的細菌中,最常見的格蘭 105(一)專 醫四 -7 氏陽性菌為: (A) 金黃色葡萄球菌 (B) B 群鏈球菌 (C) 肺炎雙球菌 (D) 大腸桿菌 (D) 8. 下列那一種病原最不常發生母子之間的垂直感染? 101(一)專 醫四-1 (A) Cytomegalovirus (B) Syphilis (C) Rubella (D) Epstein-Barr virus 【詳解】(A)(B)(C) 均為先天性感染中常見的病原體,(D) 反而 Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -82,9 +87,6 @@ E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已�
 - ...肉、蔬菜、乾豆、麥片 | | 於腸道產毒素) | | (Cramp, Dia.) | | | | Vibrio cholerae | 水瀉 | 干貝類 (Shellfish) | | > 16 Just | Enterotoxigenic E. Coli (ETEC) | (Watery dia.) | 沙拉、起士、肉類 | | > 16 小時 | Salmonella spp. | 發炎性腹瀉 | 雞肉 (Poultry)、蛋、乳製品 | | (細菌侵入腸道) | Campylobacter jejuni | (Inflam dia.) | 雞肉 (Poultry)、生牛奶 | | | Shigella spp. | 赤痢 | 番茄沙拉、生菜 | | | Vibrio parahae Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - ...ns) | 糞便 WBC(-) | | fmt (⇒ | 腸毒素* | 霍亂弧菌 (Vibrio cholerae)、 | 糞便 OB(-) | | 無侵 | (Enterotoxin) | 產毒素大腸菌 (Enterotoxigenic E. coli, ETEC) | | | 襲性細菌 | 細胞毒素* | 出血性大腸桿菌 (E. coli O157: H7)、 | Dysentary | | 和困 | (Cytotoxin) | 艱難梭菌 (Clostridium difficile) | (赤痢) | | | 嚴重發炎 | 志賀菌 (Shigella)、 | 糞便 WBC(+) | | 侵襲性細 | (Invasion) | 侵入性大腸菌 (Enteroinvasive E. c Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - (1) 一般而言,以病原性大腸菌(Enterotoxigenic E. coli、ETEC)最多;其他還包含 Salmonella、Shigella、Rotavirus、Norwalk-like virus等。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- ...定義且經實驗室診斷: 一、臨床病例(任一即可) (1)出現急性發作症狀:包括發燒、全身倦怠、噁心、嘔吐、腹部不舒服等。 (2) 黃疸或 ALT 上升。 二、實驗室: Anti-HAV IgM 檢驗陽性。 | 24 小時內 | | 腸道出血性大腸桿菌感染症 | 有下列情形任一者: 一、出現疑似症狀,如腹瀉(多為血便)、腹絞痛,可能合併溶血性尿毒症候群或栓塞性血小板減少性紫斑症等。無症狀感染也可能發生。 二、實驗室培養出 E. coli O157: NM。 | 24 小時內 | | 漢他病毒症候群 | 漢他病毒肺症候群: 符合下列三項通報條件之一者: 一、有相關流行地區旅遊史、動物排泄物或分泌物等致病原暴露史,且符合下列部分或全部臨床描述者: (一)原本健康的人於住院 72 小時內演 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- 1. Uncomplicated UTI: E. Coli (80%) · Proteus · Klebsiella · S. saprophyticus Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
-- 2. Complicated UTI: E. Coli (30%) . Enterococci (20%) . Pseudomonas (20%) Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 
 ## Clinical Caveats
 

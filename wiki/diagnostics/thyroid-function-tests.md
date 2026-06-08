@@ -26,6 +26,8 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,17 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...ne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancreatitis)、poor in Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...au sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 其他情感疾患: - 一般醫學狀況造成的情感性疾患:如甲狀腺功能亢進之病人往往會有類似躁症(mania)發作。 - 物質誘發之情感性疾患:如酒精、安非他命在戒斷時期會出現憂鬱症狀。 - ■其他未註明之情感性疾患。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...型雙極性疾患(bipolar I disorder),下列何者正確? (A) 必須也有重鬱發作(major depressive episode) (B) 上述症狀不一定要造成病人的功能損失 (C) 不需考慮藥物之可能影響 (D) 必須排除甲狀腺功能亢進或低下造成的影響 【詳解】(A) 第二型雙極性疾患(bipolar II disorder) 才需要至少 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 【詳解】甲狀腺功能異常(亢進或是低下)均有可能會造成認知功能缺損。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -81,12 +91,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - (2) 新生兒與嬰兒:先天性甲狀腺發育不良。先天性甲狀腺功能低下多為偶發性, 僅少數有家族史。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - a. 新生兒篩檢:在台灣檢查 TSH, 其敏感性與特異性均超過 95%。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - b. 新生兒篩檢異常者抽血驗 TSH 和 $T_4$ 或 free $T_4$ 確認( $T_4$ 與 free $T_4$ 會低下)。 血液中 $T_4$ 有可能在正常值範圍故對診斷沒有幫助。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (D) 先天性甲狀腺功能低下症(congenital hypothyroidism) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (7) 甲狀腺:約10%~20%的機會有甲狀腺功能低下現象 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- 【詳解】此題描述病人無新生兒低張力病史,因此 (C) 不選。另外,Noonan syndrome 並未有軸後多指(趾)症狀表現,因此也不選。William syndrome 病人臨床表現為臉部異常、智力不足、甲狀腺功能低下以及體重生長緩慢,也不符合題目過度肥胖的敘述。故最適合的答案為 (A)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (7) 重症肌無力有時會因甲狀腺功能低下而造成,特別是 Hashimoto thyroiditis。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (5) 其它免疫疾病與甲狀腺功能評估。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- ...階梯狀退化 | | | 混和型失智症 | 最常見為阿茲海默症及血管型失智症併存 | | | 營養失調 | 缺乏維他命 B 12 、葉酸等營養成分 | | | 顱內病灶 | 常壓性水腦症、腦部腫瘤或創傷 | | 其 | 新陳代謝系統異常 | 甲狀腺功能異常、體內電解質不平衡 | | 他 | 中樞神經系統感染 | 梅毒感染第三期、愛滋病病程侵犯中樞神經 | | | 中毒 | 藥物影響、酗酒 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 

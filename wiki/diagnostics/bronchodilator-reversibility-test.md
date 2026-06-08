@@ -22,6 +22,10 @@ sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -36,7 +40,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +62,21 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- (D) 5. 一輛校車和卡車對撞後,引起爆炸和火燒車,車內一位 6 歲男孩被送到急診室,他的眉毛、鼻毛被燒焦,且臉和頸部有大約 12% body surface area (BSA) 的燒傷,他的聲音沙啞、呼吸快淺,血紅素氧飽合度為 70%。此時下列處置何者第一優先? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- mL,前8小時給一半為4,200 mL。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- (C) 11,200 mL; 乳酸林格氏液 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- (B) 生理食鹽水 800 mL 加上 200 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (C) 生理食鹽水 200 mL 重複 3 次,加上 100 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (D) 生理食鹽水 400 mL 重複 3 次,加上 200 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...-|---------------------------------------------| | C1-4 | 頸部肌肉 (neck muscle) | | | | C3, 4, 5 | 横膈肌 (diaphragm) | 吸氣、TV、FEV、VC | | | C5 , 6 | 三角肌 (deltoid) | 局部外展 > 90° | | | C5 , 6 | 二頭肌 (biceps) | 手肘彎曲 | biceps jerk | | C6 , 7 | 伸腕橈肌 (extensor carpi radialis) | 手腕伸張 | supinator jerk | | C7, 8 | 三頭肌 (triceps)、伸指總肌 (extensor digitorum) | 手肘和 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - a. Acom (26%) > Pcom (22%) > ICA (20%) > MCA (19%) > ACA (12%) Basilar a. (3.2%) > PCA (2.9%) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - ...--|-----------------------------| | Depressive disorders(憂鬱性疾患) | · | | 重鬱症(major depressive disorder) | 女:10%~25%;男:5%~12% | | 輕鬱症(dysthymic disorder) | 約 6% | | 雙鬱症 (double depression) | 約有 20~25% 的重鬱症病人 | | Bipolar disorders(雙極性疾患) | | | 第一型雙極性疾患(bipolar I disorder) | 0.4%~1.6% | | 第二型雙極性疾患(bipolar II disorder) | 約 0.5% | | 循環性疾患(cyclothy Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -71,14 +87,6 @@ tags:
 - (A) 前 2 個小時先給 200 mL 生理食鹽水,後 24 小時再給 1,600 mL 輸液 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) 前 2 個小時先給 200 mL 生理食鹽水,後 24 小時再給 1,000 mL 輸液 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 6.2 歲的小朋友,昨晚飯後跑動玩耍時突然持續咳嗽,今天到急診, 108(-)專 發現呼吸聲音變得明顯,聽診有單側喘息音(Wheezing),給與 短效型支氣管擴張劑 (Bronchodilator)後,喘息音沒有改變, 下列何者為最可能之診斷? Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (B) 2.1 歲半的幼兒,昨晚發燒、咳嗽,今天到急診。醫師發現呼吸聲音變得明顯,聽診雙側有喘息音(Wheezing),給與短效型支氣管擴張劑(Bronchodilator)後,喘息音沒有改變,下列何種診斷最有可能? Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 1. 兒童畸胎瘤(teratoma)最常見的好發位置是 Sacrococcygeal (40%), 其次是 Ovary (25%), Testicle (12%), 頸部與縱膈腔佔 18%。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (C) 17. 一位 26 歲男性因發燒、疲倦入院,血液檢查發現血紅素為 9.5 g/dL; 白血球 36,300/μL,其中 blast 30.5%, banded neutrophil 4.5%, segmented neutrophil 51%, monocyte 2%, lymphocyte 12%; 血小板 103,000/μL。胸部 X 光如圖所示。下列何者為此位病人最可能的診斷? Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...性藥物 - (2) 限制:限水,低鉀、低磷及低蛋白質(0.6~0.7 g/kg/day),熱量 35~50 kcal/kg/day。 - (3) 補充:sodium bicarbonate(if $HCO_3 6 mg/dL or Ccr 200 mL, IV 會給到 500 mL/hr或更多的量。 (D) 7. 下列何種檢查結果代表病人可能有腎前性氮血症(prerenal azotemia)? 107( - ) 專 (A) blood urea nitrogen /plasma creatinine (BUN/Pcr) ratio 40 \text{ meq/L}$ (C) urine osmolality 2O (D) urine creatinine/plasma creati Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...| | (D) | 10. 一位 45 歲男性,有糖尿病及糖尿病腎病變之病史,診斷為社區型肺炎(Community-acquired pneumonia)而住院。血液檢查如下:白血球 15,200/mm³(中性白血球占 85%,淋巴球占 12%)、肌酐酸 3.5 mg/dL。對於此病患的治療,最好不要選擇使用下列那一種抗生素? (A) Moxifloxacin (B) Ceftriaxone (C) Ampicillin-Sulbactam + clarithromycin (D) Cefuroxime + Gentamicin | 100(二)專醫三-62 | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...塞 | 假性息肉 (Pseudopolyp) | | 15% Erythema nodosum (EN) | 10% Erythema nodosum (EN) | | Less Pyoderma gangrenosum (PG) | 1~12% Pyoderma gangrenosum (PG) | | ASCA (Anti-saccharomyces Cerevisiae Ab) | ANCA (Antineutrophil Cytoplasm Antibody) | | Plain film with oral contrast | 大腸鏡 | | 線狀 (fissure),爬行性潰瘍 (serpiginous) | 瀰漫性充血、融合性潰瘍 | | 鵝卵石樣 (cobbl Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- 1. 記錄肺功能的過度變異並記錄氣流受阻。 - (1) 變化越大,變化越多,愈能確認診斷為氣喘。 - (2) FEV, 低時,診斷過程至少一次,確認 FEV,/FVC減少(成年人通常>0.75~0.80)。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- 2. 陽性支氣管擴張劑可逆性試驗 (禁 SABA ≥ 4, LABA ≥ 15 小時 )。 - (1) FEV, 增加> 12% 且> 200 mL。 - (2) 如果增加> 15% 且> 400 mL, 愈能確認。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 
 ## Clinical Caveats
 

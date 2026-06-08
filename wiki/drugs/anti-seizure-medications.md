@@ -5,6 +5,8 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch10]]"
 aliases:
   - 'Anti-seizure medications / anti-epileptic drugs, ASMs/AEDs (抗癲癇藥物)'
   - 'Anti-seizure medications / anti-epileptic drugs, ASMs/AEDs'
@@ -19,14 +21,18 @@ tags:
 
 ## Summary
 
-治療 epilepsy 與急性 seizure 的藥物群，選擇依發作型態、副作用、懷孕與共病。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療 epilepsy 與急性 seizure 的藥物群，選擇依發作型態、副作用、懷孕與共病。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...markers)之配對,何者 | 105(二)專 | | 錯誤? | 醫五-9 | | (A) carbohydrate antigen 19-9 (CA19-9) and ovarian cancer | | | (D) 1.1 C. (AED) 11 4 11.1 | | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- 【詳解】(D) 頭部創傷後會連續七天給予預防性抗癲癇藥物 (phenytoin or levetiracetam),可有效預防創傷後七天內的癲癇 (early post-traumatic seizures) 發生率,但使用超過七天則對於 late post-traumatic seizures (創傷後超過七天才發生)無顯著效果。因此建議連續給予七天後即可停藥,但不會只使用 24 小時就停藥了。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - III. 抗癲癇藥物(Anti-Epileptic Drug = AED) 42 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - #### III. 抗癲癇藥物 (Anti-Epileptic Drug = AED) Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (1) Carbamazepine(Tegretol® 癲通):部分發作的首選,也可用於三叉神經痛(Trigeminal neuralgia);可能有頭暈、低血鈉等副作用,在 HLA-B1502 身上易引起 Steven-Johnson syndrome。孕婦的 AED 中,Tegretol 相對較安全。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -42,6 +48,7 @@ tags:
 - [[conditions/epilepsy|Epilepsy (癲癇)]]
 - [[drugs/ethosuximide|Ethosuximide (乙琥胺)]]
 - [[drugs/lamotrigine|Lamotrigine (拉莫三嗪)]]
+- [[drugs/levetiracetam|Levetiracetam (左乙拉西坦)]]
 - [[drugs/phenobarbital|Phenobarbital (苯巴比妥)]]
 - [[drugs/phenytoin|Phenytoin (苯妥英)]]
 - [[drugs/topiramate|Topiramate (托吡酯)]]

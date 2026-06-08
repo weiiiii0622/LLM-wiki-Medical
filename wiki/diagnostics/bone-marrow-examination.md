@@ -29,6 +29,13 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch07]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Bone marrow examination (骨髓檢查)'
   - 'Bone marrow examination'
@@ -43,7 +50,7 @@ tags:
 
 ## Summary
 
-骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +79,26 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch07]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的糖類,也有肝臟保護的作用,有利於病人對手術的耐受。術 後糖類的補充是最易消化吸收,對術後消化功能欠佳者更為適宜。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- ...(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 (B)合併症較少 (C)腸道黏膜(intestinal mucosa)較不易萎縮 (D)易引發吸入性肺炎(aspiration pneumonia) | 103(一)專醫五-2 | Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- (B) 6. aspiration pneumonia 對於年長病人而言,是常見的術後合併症; 下列對於 aspiration pneumonia 的敘述,何者錯誤? Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (A) 術後 aspiration pneumonia 發生機率,隨著年齡增加而增加, 80 歲以上病患的發生率是 18 至 29 歲病患的 9 至 10 倍 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (B) 放 nasogastric tube (NG tube) 是胃腸道手術前常做的步驟, 不會增加 aspiration pneumonia 的發生機率 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 【詳解】(A)Prednisolone 會造成高血糖 (B)Azathioprine 副作用應為骨髓抑制造成的白血球低下(leukopenia)。(C)MMF 是 inosine monophosphate dehydrogenase inhibitor,非 calcineurin inhibitor。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- .... 下列何種情況對於受腎者而言是腎臟移植手術的禁忌? | 99(二)專 | | | (A) 糖尿病 | 醫五-2 | | | (B) 受腎者年齡大於 50 歲 | | | | (C) 10 年前曾接受肺癌手術 | | | | (D) 慢性骨髓炎 | | | | 【詳解】慢性骨髓炎歸類為無法控制的感染,故為禁忌症。 | | | (B) 19 | . 下列有關主要組織相容性複合體(major histocompatibility)之敘 | 99(二)專 | | | 述,何者錯誤? | 醫五-3 | | | (A) CD4+T細胞可辨認結合第二類 MHC 分子的胜肽 | | | | (B) CD8+T細胞為第二類 MHC 限制性 | | | | (C) MHC 分子的生理功能是將 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...。 - d. 治療: - (a) 先把骨囊腫的主要供血管用藥物栓塞,減少手術當中的出血。 - (b) 將骨囊腫分離完整切除,如果不完整切除會有 20~50% 的復發率。 - (c) 約70~90% 可獲控制,需合併放射線治療。 - (3) 骨髓瘤 (myeloma)。 - (4) 神經纖維瘤 (neurofibroma)。 - (5) 淋巴瘤(lymphoma)。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (D) 29. 下圖為一位 41 歲女性腰椎之磁振造影矢狀面 T1 及 T2 影像。第 103 四及第五腰椎體內中央部分有橫向之高訊號變化。請問此高訊號 8 的骨髓變化為何? Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...在整個療程中,飲食可以不必忌諱高含銅食物 | | | (C) 所有的病人都會在開始治療後惡化 | | | (D) 若因 D-penicillamine 副作用而無法服用的患者可改用 trientine | | | 【詳解】(A) 副作用為 bone marrow suppression,還有要注意肝 | | | 毒性。 | | | | | | (D) 18. 一位 18 歲男性,近年來漸次出現肢體顫抖,步態不穩,構音障 | 103(二)專 | | 礙,在學成績退步,情緒不穩定。身體檢查發現眼角膜有棕綠色 | 醫四 -60 | | 的沉澱,上肢有翼跳動震顫(wing beating tremor)合併有肌張力 | | | 異常的姿勢(dystonic posture)。下列何者是最可能的診斷? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 3. 羅倫佐的油 Lorenzo's Oil 是目前最普遍被採用的治療方式;羅倫佐的油 Lorenzo's Oil 的處方為:患者嚴格控制脂肪攝取,每公斤體重給予 1.7 公克 glycerol trioleate oil 和 0.3 公克 glycerol trierucate oil。然而羅倫佐的油 Lorenzo's Oil 並不能治療已經產生的神經病變,對成年病患也不具療效;骨髓移植仍然是大腦白質硬化症目前較佳的治療方式。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...身性紅斑狼瘡(systemic | 102(一)專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -83,16 +107,6 @@ tags:
 - 4. 治療:早期病灶侷限於皮膚時較有治癒機會,而當病灶侵犯至淋巴結或內臟時,多 半只能緩解無法治癒。 - (1) 皮膚病灶:外用強效類固醇、局部化學治療、光化學治療(PUVA)、外用芥子 氦或 BCNU、局部或全身電子束放射療法。 - (2) 全身性治療:化療、骨髓移植、干擾素或單株抗體。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - II. 急性骨髓性白血病 (Acute Myelogenous Leukemia, AML) 374 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 3. 骨髓檢查:當周邊血液檢查懷疑是白血病時,建議做骨髓檢查以做確診。一般以做骨髓抽吸(aspiration)即可,但為了排除其它造成骨髓衰竭疾病有時加做骨髓切片(biopsy)。當超過 25% 的骨髓細胞表現為 homogeneous population of lymphoblasts 時即可確診。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 1. Induction (誘導期):給予數種高劑量化療藥物,一般而言絕大部分病人可以在這階段緩解。假使無法緩解或是在治療過程中出現復發,則考慮骨髓移植。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (2) 從頭到腳,查六項: CNS 感染、管路感染、感染性心內膜炎、褥瘡、軟組織感染(cellulitis, carbuncle, furuncle)、骨髓炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (A) Respiratory syncytial virus antigen test - (B) Mycoplasma pneumoniae IgG and IgM - (C) Urine test for vanillylmandelic acid - (D) Bone marrow biopsy Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...沒有什麼偏好在哪個年齡層。然而,HLH 臨床表現與嚴重的感染很相似。因此當病人有嚴重的表現時需仔細評估。 - (2) 臨床表現: - a. 因為免疫功能失常,臨床上可以見到病人有發燒、肝脾腫大現象(兩者發生機率超過90%)。 - b. 當骨髓受到侵犯或是脾臟受損損,則造成 cytopenia (特別是血小板低下與貧血)。因此病人會出現相關症狀如皮膚上出現出血點或紫斑、血液膽紅素升高以及黃疸。 - c. 倘若侵犯中樞神經侵犯,則造成癲癇發作、意識狀態改變。 - (3) 診斷準則:分兩個階段: - a. 找出可能的基因突變(如 PRF mutations、SAP mutations),因為這與 primary HLH 有關(臨床上 primary HLH 會因某些事件如感染而被 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】(B)除非病人免疫低下、臨床有毒性病容、年紀太小低於三個月,治療方式優先以支持性療法為主。(D) Nelson's Textbookd of Pediatrics 20th Edition p1387 裡提到沙門氏桿菌腸炎引起胃腸道外的併發症有 reactive arthritis(通常是發生在青少年,特別是帶有 HLA-B27)或是骨髓炎(osteomyelitis,特別是罹患 sickle cell disease 的病童)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...--------------------------------------|---------------------| | Isolated atresia | Newborns | Regurgitation of feedings Aspiration | Esophagogram Plain film: gasless abdomen | Surgery | | Atresia + distalTEF | Newborns | Regurgitation of feedings Aspiration | Esophagogram Plain film: gas-filled abdomen | Surgery | | H-type TEF | Infants to adults | Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 3. 併發症: - (1) 感染: - a. 小於五歲的兒童,常見 Streptococcus pneumoniae。 - b. Salmonella 或是 S. aureus 造成的骨髓炎。 - c. 感染 parvovirus B19 與 aplastic crisis 有關。 - (2) 栓塞: - a. 急性胸腔症候群 (acute chest syndrome): 合併 PE 及感染。 - b. 肺高壓 - c. 周邊血管阻塞造成疼痛 - (3) 神經方面疾病: - a. 中風的機率會增加。 - b. 無症狀性腦梗塞 - c. 視網膜病變 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 【詳解】嚴重再生不良性貧血病人,骨髓移植是治癒的唯一選擇。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- #### 戊、慢性骨髓性增生性疾病 (Chronic Myeloproliferative Neoplasm) Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- (1) **慢性期(Chronic phase)**: **Leukocytosis with left shift**,須與感染發炎時的 Leukemoid reaction 作鑑別診斷,CML 的 LAP score 通常很低,周邊血液還可見 basophilia、血小板增多,且常有 Splenomegaly。 - a. LAP = Leukocyte alkaline phosphatase,正常白血球才會有的酵素,感染發炎時的 Leukemoid reaction,LAP score 高。 - b. CML 的白血球則無此酵素,所以 LAP score 通常很低。 - c. 周邊血液抹片會出現 blast、promyelocyte、myelocyte 等各期顆粒球。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 
 ## Clinical Caveats
 

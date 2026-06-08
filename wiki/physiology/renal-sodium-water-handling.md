@@ -12,6 +12,9 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Renal sodium and water handling (腎臟鈉水處理)'
   - 'Renal sodium and water handling'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,18 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- f. 影響到 ADH 的分泌造成尿崩症。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 【詳解】(B) 腦下垂體腫瘤造成的尿崩症需腫瘤大到壓迫腦下垂體後葉影響 ADH 分泌才會造成,故不常見。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...dosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (5) 低體溫使得 ADH 量減少,造成利尿。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (3) 利用尿液分析可區別 pre-renal 與 intrinsic renal ARF: - a. Pre-renal ARF : gravity > 1.020 · elevated urine osmolality (Uosm > 500 mOsm/kg) · low urine sodium (UNa Uosm ) $\cdot$ high urine sodium ( UNa > 40 mEq/L ) , and FENa > 2% ° Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 遠端腎小管與尿液酸化有關途徑:H+/ATPase、the HCO3-/Cl- anion exchanger 或是 the aldosterone pathway。以上若其中一項出問題,則可能發生第一型腎小管酸中毒。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 近端腎小管對於 bicarbonate(HCO3-)再吸收出現問題,導致血漿 bicarbonate 濃度下降造成代謝性酸中毒。由於遠端腎小管氫離子幫浦沒有問題,腎臟還是可以進行正常尿液酸化,故尿液 pH 可 +ATPase 有直接作用,故 aldosterone 製造有問題或是腎臟 對 aldosterone 反應不佳則造成酸中毒。 - b. Aldosterone 在集尿管有鉀離子分泌作用。若有問題則無法將鉀離子分泌出去 進而造成**高血鉀**。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -53,12 +65,6 @@ tags:
 - ...生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 - ...| 1. Primary polydipsia | | | gain | 2. Decreased solute intake (e.g., beer potomania) | | | (secondaryNa + loss) | 3. AVP release due to pain, nausea, drugs | | | | 4. Syndrome of inappropriate AVP secretion | | | | 5. Glucocorticoid deficiency | | | | 6. Hypothyroidism | | | | 7. Chronic renal insufficiency | | | Primary Na + gain | 1. He Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (C) 皮質醛酮素缺乏 (aldosterone deficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (D) SIADH (syndrome of inappropriate ADH secretion) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...e myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎臟留鉀留氫 - →高血鉀(一般 RTA 的酸中毒會低血鉀,只有 Type 4 RTA 的酸中毒會高血鉀) - →高血鉀造成近端腎小管製造 NH, ↓但腎臟排 H+ 正常 - → $\mathbb{R}$ NH3 ↓→ $\mathbb{R}$ NH4+ ↓→ UAG > 0 但 $\mathbb{R}$ 中 H+ ↑→ $\mathbb{R}$ pH + | 尿中 HCO3 | 病因 | |-----|---------- Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...-------------------------|----------|----------------------------------------------------------------------------|--| | Aldosterone 低 | Renin 低 | 糖尿病腎病變、HIVNSAID、β-blockers; cyclosporine | | | Adosterone 1g. | Renin 正常 | Addison's diseaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...有腎前性氮血症(prerenal azotemia)? 107( - ) 專 (A) blood urea nitrogen /plasma creatinine (BUN/Pcr) ratio 40 \text{ meq/L}$ (C) urine osmolality 2O (D) urine creatinine/plasma creatinine ( $U_{cr}/P_{cr}$ ) > 40 (D) 8. 一位 40 歲病人原來腎功能正常,現其血肌酸酐(creatinine)上升至 105(二)專 2.1 mg/dL,下列何種狀況最可判斷此病人傾向腎因性急性腎衰竭, 醫三-6 而不是腎前性 (prerenal) 急性腎衰竭? (A) 尿中出現透明圓柱體 (hyaline casts) (B) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...7 | | | (A) urine sodium concentra | ation | | | | (B) urine creatinine to plas | sma creatinine ratio tion | | | | (C) urine osmolality | (D) fractional excretion of sodium | | | | 【詳解】FENa 對鑑別 Al | RF 最為敏感。 | | | (D) 30 | | 膜炎被收住院。住院時血液生化檢查:albumin | 97(一)專 | | | U/L, glucose 125 mg/dL。80 mg q12h 注射,禁食症脈搏、血壓正常,此時物。第十天測得 BUN 系解質(mmol/L):Na 134 mL,尿液分析正常 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

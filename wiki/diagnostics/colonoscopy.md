@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book4-ch25]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Colonoscopy (大腸鏡)'
   - 'Colonoscopy'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-評估下消化道出血、IBD、腫瘤與慢性腹瀉的重要檢查。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估下消化道出血、IBD、腫瘤與慢性腹瀉的重要檢查。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,13 @@ tags:
 - [[sources/med3-book4-ch25]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...血球增多,但並無腹膜炎現象,此時除了 stool culture 之外,該先如何處理? (A) 給予 Buscopan,並重新使用 cephalosporin 治療 (B) 作 stool cytotoxin assay,保守性治療,並安排大腸鏡檢查 (C) 安排 barium enema 檢查 (D) 安排緊急全大腸切除術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture 長出何種細菌,則會被認為是 antibiotic associated colitis? (A) Clostridium difficile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (D) 10. 一人獨居臺灣的趙女士因大便習慣改變接受大腸鏡檢查,被發現 在乙狀結腸有環形生長的腫瘤,且即將完全阻塞腸道。在醫師告 知她必須接受手術時她斷然拒絕,並告知醫師她的先生和獨生 子先後因傷病接受手術引發併發症而死亡。接下來,醫師最合 官的處理方式為何? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (D) 潰瘍性大腸炎(ulcerative colitis) 機率最大,立即做大腸鏡檢查 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】本題對醫師而言可說是常識題,但也是需要臨床經驗才可判斷。3個月大孩子解血便,是否有感染的可能性在臨床上要優先考量。如果排除感染,接下來考慮是否有對食物的耐受性不佳或是其它自身腸胃道的疾病。臨床上要檢驗過敏原,理想的年紀應在3歲左右(太早驗的話臨床上會有很高機會誤判)。至於潰瘍性大腸炎,以這個年紀而言應該不是優先考量,大腸鏡檢查不會是第一優先選擇。選項中較好選項為(A)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 針對 50~75 歲成人每十年接受大腸鏡檢查 (colonoscopy) Source: [[sources/med3-book4-ch27|丁、預防醫學]].
@@ -63,8 +69,6 @@ tags:
 - (A) 如果病人解大量鮮血便(hematochezia),必為下消化道的大量 出血,要緊急安排大腸鏡 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - ...腸吸收不良,胰臟功能低下,細菌增生,乳糖不耐、laxative use。 - (2) NPO 不會好、Fecal WBC/RBC (-): 分泌性腹瀉 (Secretory diarrhea) - a. villous adenoma → Colonoscopy 確診 - b. neuroendocrine related (VIPoma, Gastrinoma, carcinoid with serotonin secretion) - c. laxative abuse (瀉劑濫用造成腸黏膜破壞) - (3) NPO 不會好、Fecal WBC/RBC (+): 發炎 (Inflammatiory) - a. IBD → Colonoscopy Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 - ...產生乳糖酵素,病人可以接受【詳解】Lactose intolerance 是 osmotic diarrhea。 | L | | (B) | 6. 一位 75 歲男性肺炎患者,住院治療當中出現發燒、腹瀉不止,且糞便檢查有白血球及紅血球,接受大腸鏡檢查結果如下圖,造成腹瀉的原因最可能為下列何者? | | | | (A) Vibrio cholerae (B) Clostridium difficile (C) hemorrhagic E. coli | | | | (D) Salmonella | /圖請見 283 頁) | | (A) | 7. 國小學童於學校食用營養午餐後一至六小時,陸續發生多位學童出現噁心、嘔吐及腹瀉之食物中毒群聚事件。鑑別診斷中,除考慮 Staphyloc Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- ...當的初步處 內 2-40 置方式是: (A) 給予水分補充、退燒及抑制胃腸蠕動的藥物 (antispasmodics) (B) 給予抗生素及抑制胃腸蠕動藥物 (C) 給予水分補充、退燒、休息、糞便的白血球檢查及糞便的細菌 培養 (D) 安排大腸鏡(colonoscopy) 檢查 【詳解】(A, B) 感染性腹瀉若給予抑制胃腸蠕動的藥物可能會延緩 毒素排出的時間。 (D) 31. 造成旅行者腹瀉(traveler's diarrhea)的致病原中較不常見的是下列 94(二)專 何者? 內 1-1 (B) Salmonella 和 Shigella (A) 大腸桿菌 (C) Rotavirus ₹ Norwalk-like virus (D) Cyclospora 和 Giardi Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
-- (B) 11. 一位 49 歲女性病患因上腹以及左上腹區域疼痛約 2 至 3 天而求診, 急診室的檢查結果顯示 Hb 10.4 g/dL, WBC 分類 N/L 79.9%/14.5%, glucose 115 mg/dL, BUN 13 mg/dL, creatinine 0.9 mg/dL, CRP 10.8 mg/L, lipase 173 U/L, amylase 67 U/L, triglyceride 1634 mg/dL。下列 何項檢查最可能確定診斷? - (A) 上消化道內視鏡(UGI endoscopy) - (B) 腹部電腦斷層檢查 (abdominal CT scan) - (C) 大腸鏡檢查 (colonoscopy) - (D) 腫瘤標記檢查(tumor markers) Source: [[sources/med3-book2-ch03|乙、腹痛]].
 
 ## Clinical Caveats
 

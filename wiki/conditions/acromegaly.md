@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Acromegaly (肢端肥大症)'
   - 'Acromegaly'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch06]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...孕症、無月經(amenorrhea)或乳漏症(galactorrhea),男性則會陽痿。Functional prolactinoma 患者其血中 prolactin level 多大於 150~200 ng/mL。 - b. 生長激素 (GH): 刺激生長,成人出現末端肥大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 3. 實驗室檢查:CBC、BUN、creatinine、電解質(Na, K, Ca, P)、血液 pH 值、alkaline phosphatase、25-OH vitamin D、尿液分析、IGF-1、thyroid hormone、TSH、arginine、 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...nt human growth hormone, rhGH)早從 1980 年代開始。即使到今天仍未有長效型藥物問世。目前長效型藥物仍處於臨床試驗階段。美國食品藥物管理局(FDA)列出 8 項臨床疾病核准使用 rhGH 治療: - (1) GH deficiency - (2) Turner syndrome - (3) Chronic renal failure before transplantation - (4) Idiopathic short stature - (5) Small-for-gestational-age short stature - (6) Prader-Willi syndrome - (7) SHOX gene abnormality - Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...μg/kg/day),採取皮下注射(一天一次)。一般而言在開始治療的第一年效果最明顯(可達到生長曲線第 95 個百分位以上)。隨著每年增長,劑量也跟著往下調整。若要使用高劑量方式治療,使用時機在病人處於青春期狀態或是病人本身疾病為 non-GH deficiency。 IGF-1 是用來追蹤血液生長激素濃度一個較好的標的。當有以下狀況則考慮停止使用 rhGH 治療:(a) 病人覺得身高已經達到要求,(b) 每年生長高度低於 1 英吋( - (A) 柯林菲特氏症 (Klinefelter syndrome) - (B) 卡門氏症 (Kallmann syndrome) - (C) 普瑞德威利氏症 (Prader-Willi syndrome) - (D) 先天性腦垂體低能症(C Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

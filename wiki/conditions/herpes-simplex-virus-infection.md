@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Herpes simplex virus infection, HSV (單純皰疹病毒感染)'
   - 'Herpes simplex virus infection, HSV'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book4-ch04]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (D) 11. 下列何項檢查結果對診斷單純疱疹性腦炎(herpes simplex ence-phalitis)最不具有特異性? 105( ) 專 - (A) 腦脊髓液的單純疱疹病毒的 PCR (polymerase chain reaction) 檢查呈陽性反應 - (B) 腦部磁振照影檢查發現大腦之額葉和顳葉受侵犯 - (C) 腦波出現單側週期性癲癇波 (periodic lateralized epileptic discharges, PLEDs) - (D) 血清中抗疱疹病毒抗體上升 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ...半。腦波檢查發現兩側顳葉的 功能異常,並有規則陣發性的癲癇樣放電 (periodic epileptiform discharges)。下列診斷中那一項最有可能? (A) 細菌性腦膜炎 (bacterial meningitis) (B) 單純疱疹性腦炎 (herpes simplex encephalitis) (C) 黴菌性腦炎 (fungal meningoencephalitis) (D) 結核菌性腦膜炎 (T.B. meningitis) (B) 21. 單純疱疹腦炎(herpes simplex encephalitis)的好發部位在大腦 98(二)專 的: 醫四-46 (A) 額葉及頂葉 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -60,7 +63,6 @@ tags:
 - ...ventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (2) Tzanck smear:針對有 skin lesions,如 HSV、VZV。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (3) 無菌性腦膜炎:腸病毒、CMV、HSV、EBV、水痘、A/B 型流感病毒、黴漿菌。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (B) 2. 9個月大的男嬰高燒 5 天,今天早上開始呈現嗜睡狀態,晚上因全身僵直陣攣性發作(Generalized tonic clonic seizure) 5 分鐘被送來急診。在加護病房做了脊髓穿刺檢查,腦脊髓液報告顯示WBC 10,000/μL (90% PMNs 和 10% Lymphocyte), Protein 380 mg/dL, Glucose 5 mg/dL。下列何者為最可能的致病原? - (A) 單純疱疹病毒第一型 (HSV type 1) - (B) 肺炎鏈球菌(Streptococcus pneumoniae) - (C) 腸病毒 (Enterovirus) - (D) 新型隱球菌 (Cryptococcus neoformans) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats
 

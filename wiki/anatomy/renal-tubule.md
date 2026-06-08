@@ -16,6 +16,9 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Renal tubule (腎小管)'
   - 'Renal tubule'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,17 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...ropylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...mg/dL, 血清內尿毒素氮為 54 mg/dL, 主治 醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決 然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 cc。以下什麼情況最可能解釋移植腎沒有發揮功能? (A) 移植腎腎小管壞死 (B) 移植腎腎動脈栓塞 (C) 移植腎腎靜脈栓塞 (D) 移植腎輸尿管壞死 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 【詳解】捐贈者的 creatine 和 BUN 就很高,本身腎臟就已不好, 移植後腎臟功能很高機率會不好,最可能的原因為腎小管已壞 死,所以沒有功能。腎臟移植術後血管拴塞的情形較少見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 【詳解】(A) 電流熱效應為 I2Rt(電流安培數平方 × 電阻 × 受電時間),電阻越高產生的熱能越高,對組織的傷害越高;(C) 肌球蛋白會對腎小管的表皮細胞造成直接性的傷害,且肌球蛋白在體液不足或酸性環境之下,易在腎小管中形成結晶阻塞腎小管,因此橫紋肌溶解症容易造成急性腎衰竭,大量輸液目標為 3mL/kg/hr;(D) 在 electrically-induced ocular injury 中 cataract 的機率只有 1~6%,總體不可能到 30%。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - VI. 腎小管酸中毒 (Renal Tubular Acidosis, RTA) 139 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - VII. 遺傳性腎小管疾病(Inherited Tubular Transport Abnormalities) *144* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (B) 9. 嬰兒尿道後瓣膜(posterior urethral valves),最不常見之表現為: 99(一)專 - 醫四-2 - (A)慢性腎衰竭 - (B) 腎鈉堆積(sodium retention) 及水腫 - (C) 第四型腎小管酸血症(type IV renal tubular acidosis) - (D) 水腎及輸尿管擴張(hydronephrosis and hydroureter) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -62,11 +73,6 @@ tags:
 - (A) 急性腎小管壞死 (acute tubular necrosis) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...後 | 尿液渗透壓在兩小時內增加 50% 以上 | 尿液渗透壓在兩小時內增加小於 10% | | 治療 | 給予 DDAVP | 給予 Thiazide,造成 mild volume depletion,導致濾出去的尿液較不易分布到異常的腎小管內,而減少尿液在集尿管無法被回收;治療引起腎性尿崩症的原因,如高血鈣、鋰鹽中毒 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ps. TTKG 使用前需注意是否符合以下兩個前提,如不符合,則不可使用 TTKG 來做鑑別診斷。 - i. urine Na > 25 mEq/L(代表有足夠的 distal tubule Na delivery)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (b) 血壓正常:若為腎小管本身病變,可由動脈血的酸、鹼進一步鑑別診斷。 - i. 若合併酸中毒,考慮酮酸中毒、腎小管酸中毒第二型(多發性骨髓瘤) 或部分的第一型(紅斑性狼瘡腎病變等)、使用 Amphotericin B 等。 - ii. 若合併鹼中毒,可能是使用利尿劑造成低血鉀,或其他腎小管病變,如 以下兩個狀況: Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...體酸中毒時,腎臟排酸正常→考慮腹瀉導致 HCO₃ loss 或 Type 2 RTA 無法再吸收 HCO₃ 造成酸中毒; - b. 若 UAG > 0,表示尿中未測到的陽離子 (NH4+)減少→考慮 Type 1、4 RTA; - (2) 腎小管酸中毒 (Renal tubular acidosis, RTA): 哪些問題會造成腎小管受傷? - a. Type 1 RTA (distal RTA): 自體免疫 (Sjögren syn) 造成遠段腎小管破壞→無法排 H+造成酸中毒、低血鉀; 尿中 H+ ↓→尿 NH4+ ↓ (UAG > 0)、尿 pH > 5.3 - b. Type 2 RTA (proximal RTA):蛋白 (Multiple myeloma)破壞近端腎 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (A) 第二型腎小管酸血症 (type 2 renal tubular acidosis) Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (B) 39 歲女性經理服用作用於遠端腎小管之利尿劑減重 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...| $(P_K/P_{osm})$ | 再各以 OSM 校正 | TTKG 1%(尿鈉高),表示尿鈉無法由腎臟回收,可知腎臟功能已受損。一位敗血症的病患一開始可能有腎前性腎衰竭,此時 FENa 20;若敗血症未控制,將導致腎因性腎衰竭(急性腎小管壞死、ATN),此時的 FENa > 1%、血中 BUN/Cr 1 | | Spot | Urine sodium conc.(mmol/L) | 20 | | urine | Urine to plasma urea nitrogen ratio | > 8 尿素能排除 | 40 | 2 O) | > 500 尿能濃縮 | ~300 | | Serum | Plasma BUN/creatinine ratio | > 20 | 1. Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

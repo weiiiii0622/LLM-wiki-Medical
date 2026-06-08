@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Benzodiazepines, BZD (苯二氮平類)'
   - 'Benzodiazepines, BZD'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-增強 GABA-A 作用，用於 anxiety、insomnia、alcohol withdrawal、seizure 與急性激動；需注意依賴、跌倒與呼吸抑制。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+增強 GABA-A 作用，用於 anxiety、insomnia、alcohol withdrawal、seizure 與急性激動；需注意依賴、跌倒與呼吸抑制。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,12 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- (A) 14. 有一 50 歲病患在手術中使用 15 mg 之 diazepam (valium),經四 小時手術後轉送至恢復室,但病患於恢復室休息兩小時後仍未甦醒,因此靜脈注射 1.0 mg 之 flumazenil,病患立刻甦醒並要求拔除氣管內管,而拔除氣管內管後病患之心跳、血壓、呼吸正常, 請問下列何項不是恢復室醫師接下來的處理項目? - (A) 觀察半小時後可送回病房 - (B) 持續靜脈給予 flumazenil - (C) 必須準備放置氣管內管工具,並持續監視病患之呼吸及血氧 濃度 - (D) 向病患解釋清楚後,可考慮留置於恢復室,觀察一晚 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- 【詳解】flumazenil(Anexate)為 BZD 拮抗劑,可作為 BZD intoxication 解毒劑使用,逆轉 BZD 造成之中樞鎮靜作用,通常用做診斷用,假使病患在使用 flumazenil 後甦醒,則可判斷為 BZD 造成之昏迷,而 BZD intoxication 的處置以 supportive care 為主,直到藥物本身被完全代謝掉,是故只觀察三十分鐘即送回病房不妥當。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 【詳解】服用 metoclopramide、Haloperidol、抗精神病藥物都可能產生錐體外症狀(extrapyramidal syndrome, EPS),可以抗組織胺(Vena)、BZD、抗膽鹼藥物(Benztropine)治療。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...-----------------------------------------|-------------| | (A) 阿多平 (atropine) | 醫四 -49 | | (B) 麻醉劑(narcotics) | | | (C) 苯二氮平類(benzodiazepines) | | | (D) 阿斯匹靈(aspirin) | | | (D) 32. 王先生 38 歲,他在近 2 年來逐漸變得多疑,事事挑人毛病,偶 | 99(二)專 | | 會爆發脾氣,同時無法集中注意力,手指會出現不規則扭動,無 | 醫四-56 | | 法長時間緊握一件物體。追問其家族史發現他的爸爸在 45 歲左 | | | 右有類似的症狀,發病幾年後已去世。最可能之診斷是: | | | (A) 魏斯 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...| Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan) | Source: [[sources/med4-book4-ch02|乙、癲癇]].

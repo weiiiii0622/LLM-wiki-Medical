@@ -9,6 +9,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Neurofibromatosis type 1, NF1 (第一型神經纖維瘤症)'
   - 'Neurofibromatosis type 1, NF1'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibroma、視神經膠質瘤與學習問題。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibroma、視神經膠質瘤與學習問題。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,16 @@ RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibro
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book2-ch10]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- 2. 腦神經、脊神經及周邊神經腫瘤(tumor of cranial, spinal and peripheral nerves) - (1) 許旺氏細胞瘤 (schwannoma): 許旺氏細胞 (Schwann cell)。 - (2) 神經纖維瘤 (neurofibroma): 許旺氏細胞、纖維母細胞。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...(cochlear nerve) | | | | (C) 前庭神經(vestibular nerve) | | | | (D) 舌咽神經 (glossopharyngeal nerve) | | | (B) | 4. 下列何者較少出現在 Neurofibromatosis type I 的病人? | 108(一)專 | | | (A) 家族顯性遺傳 | 醫五-9 | | | (B) 雙側聽神經瘤 | | | | (C) 皮膚咖啡牛奶斑(Cafe-au-lait macules) | | | | (D) 脊椎發育異常 | | | | 【詳解】雙側聽神經瘤屬第二型。 | | | (B) | 5. 有關腦下垂體泌乳素瘤(prolactinoma)的描述,下列何者正確? | 108(一)專 | | | (A) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...3 3 4 5 5 5 5 5 5 5 5 5 | 104(一)專 | | (A) 可分兩型,type 1 又稱 von Recklinghausen's disease | 醫五 -12 | | (B) type 1 在皮膚上可見色素斑和神經纖維瘤(neurofibroma) | | | (C) type 2 的患者,顱內常併多發的腦膜瘤(multicentric menin- | | | gioma) | | | (D) type 1 常有雙側聽神經瘤(acoustic schwannoma) | | | 【詳解】雙側聽神經瘤屬第二型。 | | | (C) 22. 腦膜瘤是從何種組織長出? | 104(一)專 | | (A) 硬腦膜 (dura) | 醫五-15 | | (B) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...腫的主要供血管用藥物栓塞,減少手術當中的出血。 - (b) 將骨囊腫分離完整切除,如果不完整切除會有 20~50% 的復發率。 - (c) 約70~90% 可獲控制,需合併放射線治療。 - (3) 骨髓瘤 (myeloma)。 - (4) 神經纖維瘤 (neurofibroma)。 - (5) 淋巴瘤(lymphoma)。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (3) 神經纖維瘤 (neurofibroma): 發生機率低於腦膜瘤和神經鞘瘤,好發於頸椎。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...| | 角膜上,此現象稱為: | 醫四 -55 | | (A) Kayser-Fleischer ring | | | (B) Café au lait spots | | | (C) Cherry red spots | | | (D) Lisch nodules | | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (C) 1. 下列何者不是神經纖維瘤第一型 (neurofibromatosis type 1) 的典 108(一)專 型症狀? 醫四-58 - (A) 虹膜色素瘤(Lisch nodule) - (B) 咖啡牛奶斑 (café au lait spots) - (C) 雙側聽神經瘤 (bilateral acoustic neuromas) - (D) 皮膚多發性神經纖維瘤 (multiple skin neurofibromas) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (A) neurofibromatosis Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -55,7 +64,7 @@ RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibro
 
 ## Related Pages
 
-- 待補。
+- [[conditions/vestibular-schwannoma|Vestibular schwannoma / acoustic neuroma (前庭神經鞘瘤／聽神經瘤)]]
 
 ## Follow-up
 

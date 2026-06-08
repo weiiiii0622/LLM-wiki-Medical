@@ -26,6 +26,8 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Chemotherapy (化學治療)'
   - 'Chemotherapy'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,16 @@ tags:
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (3) Grade III 和 IV: - a. 顱骨切開術或是立體定位法做組織切片,然後進入腫瘤內腔將腫瘤清除乾淨。但困難之處在於腫瘤和周圍腦組織無明顯界線。 - b. 放射治療:對於惡性腫瘤較有效,能延長生命但無法根除疾病。劑量越集中效果越好。 - c. 化學治療:temozolomide,單獨治療反應效果不高,需合併手術或放射治療效果較好。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (4) 腦下垂體中風 (pituitary apoplexy): - a. 當腦下垂體腫瘤逐漸擴大時,一旦壓迫到腦下垂體莖的血管,可導致急性的腦下垂體及腫瘤的缺血壞死,造成腦下垂體中風。 - b. 腦下垂體中風也可以被頭部外傷、Sheehan syndrome、內分泌藥物檢驗或治療(肢端巨大症及庫欣氏症候群)、腦下垂體放射線治療、或化學治療所引發。 - c. 症狀: 腦內壓力陡昇所造成的急性臨床症狀有頭痛、噁心嘔吐、視力模糊及 視野缺損、眼球肌肉麻痺及內分泌失調等。 - d. 處置:迅速給予類固醇治療,並在七天內進行經蝶骨(transsphenoidal)手術切除。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (D) 化學治療(chemotherapy) 對 high-grade 及 low-grade 星狀細胞瘤(astrocytoma)皆有良好療效 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 2. MHC 基因位於人類第六對染色體上。 - (1) 第一類 (Class I):包含 HLA-A, B, C, 脊椎動物體內的有核細胞以及血小板都有,被病毒感染的細胞能將抗原呈現給 CD8+毒殺型 T 細胞 (cytotoxic T lymphocyte),引發 cell-mediated immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...some 6) (B) MHC 的表現依 human leukocyte antigen(HLA)的不同,可分為 class I 與 class II 兩類,而 HLA-DQ 屬於 class I (C) MHC class I 的表現需 cytotoxic CD8 T cell 的幫忙 (D) 在器官移植時,MHC 與 T cell-mediated 的 rejection 有關 | 98(二)專醫五-25 | | (B) 25. 下列有關器官移植時各種排斥現象 (rejection) 的敘述,何者有誤? (A) 一般而言, Donor 與 Recipient 的 HLA matching 愈佳,則 graft survival rate 愈好 (B) Hyperacute reject Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) Acute MCA infarction with cytotoxic edema Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (B) Acute ACA infarction with cytotoxic edema Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - | 腦水腫 | 血管性 (Vasogenic) | 細胞毒性 (Cytotoxic) | |-----|-----------------|---------------------| | 病因 | 腦腫瘤 | 腦中風 | | 機制 | 血管通透性增加 | 細胞受傷害後,水滲入細胞,造成細胞腫脹 | | 位置 | 主要在白質 | 病灶附近 | | 治療 | 類固醇 | Glycerol · Mannitol | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -82,11 +91,6 @@ tags:
 - (C) 23. 化學治療時造成的落髮原因中,最常見的是下列何者? Source: [[sources/med4-book2-ch11|子、其 他]].
 - 5. 治療: 化學治療與放射線治療。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - E. 治療: 手術切除, 有時考慮加上放射線治療或是化學治療。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- F. 治療: 以根除性切除為主,術後有時輔以放射線治療或化學治療。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- A. Cell cycle non-specific (CCNS) 201 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ### 乙、化學治療藥物 (Chemotherapy) Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- #### A. Cell cycle non-specific (CCNS) Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (D) 3. 一位 27 歲男性因為牙齦出血不止來到醫院,血液檢查發現血紅素為 8.2 gm/dL,白血球 1,250/μL,其中 promyelocyte 18%,segmented neutrophil 2%,monocytes 8%,lymphocytes 72%,血 小 板 21,000/μL。骨髓穿刺檢查證明為 acute promyelocytic leukemia。下列各選項,何者是治療此病人所必須的? - 1) platelet transfusion 2) chemotherapy 3 all-trans retinoic acid - (A) (1)(2) - (B) 23 - (C) ①3 - (D) (1)(2)(3) Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 
 ## Clinical Caveats
 
@@ -95,7 +99,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/glioblastoma|Glioblastoma, GBM (膠質母細胞瘤)]]
 
 ## Follow-up
 

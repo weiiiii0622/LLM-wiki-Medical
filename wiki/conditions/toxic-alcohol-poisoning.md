@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Toxic alcohol poisoning (毒性醇中毒)'
   - 'Toxic alcohol poisoning'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-甲醇、乙二醇等可造成 osmolal gap 與高陰離子間隙代謝性酸中毒。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲醇、乙二醇等可造成 osmolal gap 與高陰離子間隙代謝性酸中毒。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabetic ketoacidosis, Propylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...| | Toxins | Methyl-1,2,4,6 tetrahydropyridine (MPTP) \cdot Manganese \cdot Cyanide | | P) · Manganese · Cyanide | | | Methanol · Carbon monoxide · Carbon disulfide · Hexane | | | | Ref. Harrison | Table 366-2 Differen | tial Diagnosis of Parl | kinsonism | | | | | | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (D) 乙二醇中毒(Ethylene glycol intoxication) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...,生長發育不良,慢性腹瀉。抽血會淋巴球(尤其 T 細胞)低,免疫球蛋白低。若沒有骨髓移植則大多一歲前死亡,為急症! - c. 治療:骨髓移植。ADA(adenosine deaminase)-deficient SCID 可以注射 polyethylene glycol conjugated adenosine deaminase(PEG-ADA)治療。另外, ADA-deficient SCID 目前已有基因治療的成功案例。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

@@ -46,6 +46,7 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Airway inflammation (氣道發炎)'
   - 'Airway inflammation'
@@ -60,7 +61,7 @@ tags:
 
 ## Summary
 
-氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -106,9 +107,12 @@ tags:
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...e,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...) 器捐者:血型 O型,受贈者:血型 B型 (D) 器捐者:B型肝炎,受贈者:C型肝炎 | 98(二)專醫五-6 | | (全)23.下列何種細胞沒有參與器官移植手術後排斥的機轉? (A) B 細胞 (B) T 細胞 (C) 嗜伊紅性球 (eosinophil) (D) 巨噬細胞 (macrophage) | 98(二)專醫五-9 | | 【詳解】皆有參與,送分。 (B) 24. 下列有關 MHC(major histocompatibility complex)的敘述,何者錯誤? (A) MHC 位於人類的第六對染色體(chromosome 6) (B) MHC 的表現依 human leukocyte antigen(HLA)的不同,可分為 class I 與 class II 兩類,而 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 9. 顆粒球缺乏症候群(agranulocytosis): 定義為 ANC(absolute neutrophil count) (dopamine 2 receptor antagonist) | 血清素多巴胺拮抗劑 (serotonin-dopamine antagonist) | | 錐體外症狀(extrapyramidal symptoms, EPS) | 常見 | 少見 | | 抗精神病藥物惡性症候群(neuroleptic malignant syndrome) | 常見 | 少見 | | 遲發性肌張力不全(tardive dyskinesia) | 常見 | 少見 | | 體重增加 | 不常見 | Clozapine、Olanzapine 常見 | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 4. 異位性皮膚炎的病因是許多因素綜合的結果,家族性和異位性體質等基因因素加上環境中過敏因子,造成 Type I(IgE-mediated)hypersensitivity reaction,急性發炎反應和 Th2、IL-4、IL-13 有關,慢性發炎反應則和 Th1、IL-5、IL-12、GM-CSF、IFN-γ有關。 - (1) 常見的過敏原包括塵蟎、貓狗等動物的毛、蟑螂、黴菌、花粉等,幼兒期腸胃 道比起大人較可能受食物過敏原影響,常見的可能食物過敏原有牛奶、蛋白、 麥、花生、海鮮等。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (D)慢性期的病理機轉主要以 Th2 細胞的活化為主要之角色, Th1 細胞角色較少 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -125,8 +129,6 @@ tags:
 - (A) 4. 一個 3 歲男童,發燒、咳嗽三天,並有喉嚨痛與聲音沙啞。血液 檢查白血球 11,000/uL,其中 segment 佔 45%,lymphocyte 占 50%, monocyte 占 3%,eosinophil 占 2%。身體診察肺部呼吸音較粗 (coarse breathingsound),沒有囉音(rales)或喘鳴聲(wheezing)。 請依此回答下列 3 題。X 檢查如下,臨床診斷最有可能為下列 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...istent cough、tachypnea and abscence of fever。聽診常有 rales,wheezing 反而不常見;臨床上常與 RSV 感染造成的肺炎(發燒、聽診出現 wheezing)做鑑別診斷。實驗室檢查表現 eosinophilia(> 400/μL)。影像學檢查:胸部 X-ray 表現 hyperinflation accompanied by minimal interstitial or aveolar infiltrates。另外,孕婦本身有 Chlamydia trachomatis 感染且未有治療,生產後其孩子有 10~20% 在 1~3 個月大時會有 Chlamydia trachomatis pneumonia。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 3. 關於嬰幼兒感染砂眼披衣菌(*Chlamydia trachomatis*) 肺炎之敘 述,下列何者較正確? - (A) 罹患砂眼披衣菌母親且未接受治療,約九成其新生兒會得到 砂眼披衣菌肺炎 - (B) 通常新生兒出生後 1 週內會有明顯肺炎症狀 - (C) 相對呼吸道融合病毒感染,砂眼披衣菌肺炎較容易發燒及喘鳴聲(Wheezing) - (D) 砂眼披衣菌感染後,血液中嗜伊紅白血球會增加 (eosinophils > 400 cells/μL) Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 3. 病因: - (1) 真正發生原因仍未明。目前證據顯示可能為後天性疾病。 - (2) (參考)文獻記載 eosinophilic gastroenteritis、Apert syndrome、Zellweger syndrome、**trisomy 18**、Smith-Lemli-Opitz syndrome以及Cornelia de Lange syndrome與HPS有關。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (A) 17. 一個 7 天大男童,因為腹脹及黃疸求診。出生體重為 2,550 公克,出生週數為 38 週。身體診察顯示倦怠、活力不佳,肝臟可摸到兩指幅。血液檢查白血球 8,280/μL,其中 segment 占 15%,band form 占 22%,lymphocyte 占 30%,monocyte 占 1%,eosinophil 占 1.2%。血紅素為 15 g/dL,血小板 220,000/μL。ALT 77 U/L、AST 72 U/L。腹部 X 光、腹部皮膚及糞便如下,臨床診斷最可能為下列何者? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

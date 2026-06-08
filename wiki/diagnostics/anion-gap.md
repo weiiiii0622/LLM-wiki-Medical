@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Anion gap (陰離子間隙)'
   - 'Anion gap'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-用 Na、Cl、HCO3 估計未測量陰離子，輔助代謝性酸中毒鑑別。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用 Na、Cl、HCO3 估計未測量陰離子，輔助代謝性酸中毒鑑別。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch01]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabetic ketoacidosis, Propylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysi Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 正常陰離子間隙型代謝性酸中毒,發生原因不是 bicarbonate 再吸收發生問題就是 氫離子排泄出現問題。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 臨床表現:與第二型腎小管酸中毒相同有生長遲滯、正常陰離子間隙代謝性酸中毒。 此外,病人也會表現嘔吐、脫水、骨頭疾病、腎臟鈣化合併高尿鈣與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 2. 引起高陰離子間隙代謝性酸中毒(High anion gap metabolic acidosis) 的疾病,下列何者最為罕見? Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

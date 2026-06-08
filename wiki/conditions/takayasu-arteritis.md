@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch10]]"
 aliases:
   - 'Takayasu arteritis (高安氏動脈炎)'
   - 'Takayasu arteritis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...(A) 內頸靜脈(internal jugular vein) | | | | | (B) 股靜脈(femoral vein) | | | | | (C) 頭靜脈 (cephalic vein) | | | | | (D) 鎖骨下靜脈 (subclavian vein) | | | | | 【詳解】頭靜脈管徑小,不宜大量輸液。 | | | (D) | 6. | 外傷病人的眼睛受痛刺激時會睜開,對刺激無言語反應(no | 106(二)專 | | | | response),對痛的刺激只有退縮反應(withdrawal)。昏迷指數 | 醫五 -2 | | | | (Glasgow coma scale, GCS) 為何? | | | | | (A) 8 | | | | | (B) 9 | | Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - (C) 高安氏動脈炎 (Takayasu's arteritis) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 【詳解】(A) 源自於 subclavian artery。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (A) 鎖骨下動脈和同側肺靜脈 (Subclavian artery and pulmonary vein of the same side) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

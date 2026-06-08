@@ -18,6 +18,11 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch16]]"
+  - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -32,7 +37,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +55,21 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch16]]
+- [[sources/med5-book1-ch20]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch09]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- ...血的可能性,尤其年紀輕且 AVM 有數年之久的病人、AVM 位於大腦功能較不重要的區域、AVM 直徑 - | 立體定位放射手術(stereotactic radiosurgery) | 醫五 -48 | | | (B) ‡ | 文射線治療(radiotherapy) | | | | (C) { | 堇以血管栓塞治療(endovascular embolization)即可 | | | | (D) = | 手術完全切除 | | | | 【詳 | 解】立體定位放射治療適用於3公分以下,血管栓塞治療 | | | | 用於 | 縮小病灶,無法作為單一治療。 | | | (A) | 5. 對血 | 管瘤(hemangioma)與血管畸形(vascular malformation)的 | 102(一)專 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
+- ...nd gabapentin (Neurontin) 對多數 | | | | 病患有效 | | | | (C) 顯微血管減壓手術 (microvascular decompression) 及伽瑪刀 | | | | (gamma knife)放射治療效果皆不錯 | | | | (D) 伽瑪刀放射治療五年內復發的比例比顯微血管減壓手術低 | | | (A) | 4. 三叉神經痛之顯微血管減壓術(microvascular decompression, | 99(一)專 | | | MVD) 主要是要減壓下列何種血管? | 醫五 -19 | | | (A) 上小腦動脈(superior cerebellar artery) | | | | (B) 後下小腦動脈(posterior in Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
+- (2) Grade II: 病人多以癲癇表現而無其他症狀,加上大部分 low grade astrocytoma 沒有 clear margin,因此並無證據顯示手術或是放射治療能改善預後,多採保守治療。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (3) Grade III 和 IV: - a. 顱骨切開術或是立體定位法做組織切片,然後進入腫瘤內腔將腫瘤清除乾淨。但困難之處在於腫瘤和周圍腦組織無明顯界線。 - b. 放射治療:對於惡性腫瘤較有效,能延長生命但無法根除疾病。劑量越集中效果越好。 - c. 化學治療:temozolomide,單獨治療反應效果不高,需合併手術或放射治療效果較好。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 5. 分低惡性和惡性,低惡性可以手術切除,輔以化療/放療,惡性則以放射治療為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 4. 相對禁忌症: 之前作過開胸手術、腫瘤侵犯至肺門血管、因肺或食道腫瘤而作過化療或放射治療者。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- ...。 - (b) 運動或自主神經功能異常:第二常見,會有 urinary urgency 和 retention。 - (c) 感覺異常。 - (d) 脊椎骨被侵蝕導致病理性骨折、高血鈣。 - e. 檢查: X 光、MRI。 - f. 治療:放射治療,假使放射治療無效或神經症狀急速惡化,才考慮手術減壓。 - (2) 動脈瘤性骨囊腫 (aneurismal bone cyst): - a. 良性的骨性囊腫,發病的骨頭內,會產生空洞化,充滿了不正常的血管組織。 - b. 佔 15% 的脊椎腫瘤,多在 20 歲左右發作。 - c. 如果骨囊腫不斷膨脹會使骨頭變薄,有骨折、出血的危險。 - d. 治療: - (a) 先把骨囊腫的主要供血管用藥物栓塞,減少手術當中的出血。 - (b) 將骨囊 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (D) 若上述檢查皆正常,儘早給予血栓溶解劑 rt-PA Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (A) 給予靜脈血栓溶解劑(rt-PA)治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 【詳解】本題無法確認發作時間,是 rt-PA 的禁忌症。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -64,13 +81,6 @@ tags:
 - (2) 典型 KS 對於放射治療效果較好;地域性 KS 對化療反應最好;因免疫抑制所引發 KS 者,停藥後常會自癒,也可嘗試換藥,如以 sirolimus 取代 cyclosporin 及 tacrolimus。AIDS 患者接受正統抗病毒治療即有療效,或使用干擾素及介白質治療,也可暫時改善。其他局部療法例如液態氮冷凍療法、雷射、電燒、光動力療法也都可。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - a. 雖然水痘發過一次就不會再感染,但是水痘病毒於初次感染時便會沿著感覺 神經纖維侵入到感覺神經節並終年潛伏於此。當病人年紀大免疫力下降或處 於免疫力不全(腫瘤、HIV、器官移植、接受放射治療或化療)狀況下時, 病毒就會再度活化並沿著神經纖維從神經節返回皮膚表面產生皮疹,故分佈 多延著 dermatome 的範圍。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (A) 5. 承上題,對此皮膚病灶的敘述,下列何者錯誤? - (A) 手術切除是治療最佳選擇 - (B) 膚色越深的人種越好發 - (C) 好發於皮膚張力較大處 - (D) 放射治療是治療方法之一 Source: [[sources/med4-book2-ch11|子、其 他]].
-- (1) 兒童:橋本氏甲狀腺炎(最常見)、碘缺乏、放射治療、血管瘤( $T_4$ 轉換成 reverse $T_3$ )。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...sis · teratoma teratoma · hepatoblastoma (boys) Brain damage: Androgen- or estrogen-secreting tumors: CNS anomalies · irradiation therapy · Ovarian(granulosa cell \, theca cell \, surgery \, trauma \, prior inflammation luteoma · follicular cysts); Testicular (meningitis \, encephalitis) \, (Leydig cell) hydrocephalus **Exogenous sex steroids:** oral cont Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (4) Medulloblastoma: 為 embryonal tumor,最常發現在小腦蚓部(cerebellar vermis)。 經過手術切除、放射治療與化療後,五年存活率約70%。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (C) 1. 青少年骨肉瘤(osteosarcoma)與下列何者的關聯性最小? - 101(二)專 醫四-25 - (A) 遺傳性視網膜神經母細胞瘤 (hereditary retinoblastoma) - (B) Li-Fraumeni 症候群 - (C) Epstein-Barr virus (EBV) 感染 - (D) 放射線治療(radiotherapy)後 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- ...結廓清手術,手術後病理檢查發現為乳管癌,有 12 顆淋巴結確定有乳癌轉移,estrogen receptor 陰性,progesterone receptor 陰性,Her-2染色呈 3 價陽性反應,下列何種術後輔助性治療最不恰當?(A) 放射治療(B) 化學治療(C) 荷爾蒙拮抗治療(D) 抗 Her-2 抗體治療 | 98(一)專醫三-38 | | 4. 承上題,該患者在術後一年半之例行追蹤檢查,第一次發現腫瘤指數 CA15-3 增高至 45k U/L (正常值 Folinic acid)+5FU+Oxaliplatin [FOLFOX]。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (4) 直腸癌:術前的 CCRT(Combination chemoradiotherapy)可減少局部復發及肛門保留的機會(Sphincter preserving surgery)。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (D) 2. 一位 56 歲男性發現右側腎細胞癌合併多處肝轉移,經腎臟切除後, 99(二)專 下列治療何者最不適當? 醫三-36 - (A) 使用 Interleukin-2 治療 - (B) 使用 Sunitinib 治療 - (C) 使用 Temsirolimus (mTOR inhibitor) 治療 - (D) 使用放射治療 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 
@@ -79,7 +89,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/glioblastoma|Glioblastoma, GBM (膠質母細胞瘤)]]
 
 ## Follow-up
 

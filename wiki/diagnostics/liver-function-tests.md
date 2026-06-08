@@ -33,6 +33,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Liver function tests, LFTs (肝功能檢查)'
   - 'Liver function tests, LFTs'
@@ -47,7 +49,7 @@ tags:
 
 ## Summary
 
-用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +82,14 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- d. Bilirubin (mg/dL) - (a) 1.2~1.9:1分 - (b) 2.0~5.9:2分 - (c) 6.0~11.9:3分 - (d) > 12.0:4分 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (D) 13.50 歲男性肝臟移植術後第七天,出現右上腹痛及輕微發燒, 100(二)專 g-GT、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的肝功能正常且與國 醫五-79 明有相同基因,但醫師並沒有提出要摘取大維肝臟 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 1. Aspartate aminotransferase (AST) 與 alanine aminotransferase (ALT) - (1) 當肝臟細胞急性受損時兩者皆會上升; ALT 特異性比 AST 高。 - (2) 急性病毒性肝炎、中毒、缺氧或是低組織灌流均可造成 ALT 或 AST 在血液升高至破千。 - (3) 在急性病毒性肝炎中, ALT 上升數值比 AST 高。 - (4) 在酒精性肝炎、fulminant echovirus infection 以及代謝障礙引發的肝炎中,AST 升高幅度比 ALT 高。 - (5) 兩者僅可代表肝臟細胞受損,但數值的高低無法代表疾病嚴重度以及預後。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...見為骨骼、肝臟、小腸以及 胎盤。其常被用來評估肝膽系統疾病或是骨骼相關疾病。 - (2) 當發生 biliary obstruction 或 cholestasis,則 alkaline phosphate 會升高。若是伴隨 direct bilirubin 上升,大大暗示著 biliary obstruction 或 cholestasis。 - (3) 在 Wilson disease 或 hypothyroidism, alkaline phosphatase level 則是會降低的。 - (4) 若是伴隨 γ-GT 的上升,暗示著 alkaline phosphatase 來自於肝膽系統。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - | | AST | ALT | Bilirubin | AP | |----------------|--------|--------|-----------|-----| | Hepatocellular | ++ | ++ | +/- | +/- | | Cholestatic | +/- | +/- | ++ | + | | Infiltrative | normal | normal | normal | ++ | Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -98,9 +105,6 @@ tags:
 - ...101(一)專醫三-33 | | | (A) | | 下列有關惡性貧血(pernicious anemia)病人的敘述,何者錯誤? (A) 由於 Vit B 12 攝取不足造成 (B) 網狀紅血球降低 (C) 間接膽紅素(indirect bilirubin)升高 (D) 可出現神經學症狀 【詳解】(A) 病人有自體抗體攻擊 Intrinsic factor 或 parietal cell,導致 Vit B 12 不足,稱作惡性貧血(Pernicious anemia)。 | 101(一)專醫三-34 | | | (B) | 24. | 下列何者不是陣發性夜間血色素尿(paroxysmal nocturnal hemoglo-binuria)的特徵? (A) Indirect hyperb Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (1) 多肌炎 (Polymyositis, PM): 4 個都符合。 - a. 近端肌肉無力 (Proximal muscle weakness)。 - b. 肌肉酵素如 AST, ALT, aldolase, LDH and **CK** 值上升(Elevated serum creatine kinase level)。 - c. **肌電圖**表現肌肉病變(short-duration, polyphasic motor unit potentials with spontaneous fibrillation potentials)。 - d. 病理切片符合發炎性肌炎 (inflammatory infiltration or active regeneration may be seen)。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (A) 5. 一位 42 歲女性最近二週覺得起床相當困難,必須以兩手支撐才能爬起。另外,前額、手背及指間關節的皮膚有紅斑出現(如附圖)。右肩膀的肌肉也無力,無法上舉。有時會發燒達 38.5℃左右。抽血發現 ANA 1: 160X speckled pattern, AST 37 U/L, ALT 86 U/L, CK 2,784 U/L。下列何者為最可能的診斷? Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (A) 7. 一位 54 歲的女性,早晨起床困難有三週之久,身體檢查發現除兩腿無力之外,右臂上舉也有困難。但是兩手的握力正常。吞嚥時偶會 嗆到。實驗室檢查發現 AST 75 U/L, ALT 14 U/L, ANA 1:80(+) speckled, CK 805 U/L (MB form 635 μg/L), IgG 1,720 mg/ml, IgA 354 mg/ml, IgM 213 mg/ml, ESR 34 mm/lh, 78 mm/2h, CRP 0.76 mg/ml。這位患者最可能的診斷是: Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...節痛及鮭魚色的皮疹發生,發燒通常只歷數小時而後自動退燒,這種發作有時會持續二個月之久,不發作時則與常人無異,本次住院的理學檢查發現有肝、脾腫大,抽血檢查發現 WBC 12,800/μL,ESR 42 mm/lh,CRP 2.48 mg/L,AST 42 U/L,ALT 48 U/L,ferritin 11,280 ng/mL,ANA 及類風濕因子(rheumatoid factors)均為陰性,血液及尿液的三套培養包括細菌及黴菌均無,又常見的病毒抗體均在正常範圍內,則最可能的診斷為何? - (A) Dengue fever - (B) Adult-onset Still's disease - (C) Plasmodium falciparum infestation - (D Source: [[sources/med3-book4-ch09|辛、其 他]].
-- ...50.75%,eosinophil 2.75%,basophil 4.5%,monocyte 1.5%,lymphocyte 12.25%,血小板 319,000/mm³,白血球鹼性磷酸酶(LAP)活性 28,LDH 1,148 U/L,AST 50 U/L,ALT 23 U/L。下列何項檢查對診斷此男士白血球過多症的原因最有幫助? - (A) Uric acid - (B) Hepatitis B and C serology - (C) X-ray of the right big toe - (D) Bone marrow chromosome analysis Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 
 ## Clinical Caveats
 
@@ -110,6 +114,7 @@ tags:
 ## Related Pages
 
 - [[conditions/biliary-atresia|Biliary atresia (膽道閉鎖)]]
+- [[drugs/valproate|Valproate / valproic acid (丙戊酸)]]
 
 ## Follow-up
 

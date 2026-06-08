@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Hepatoblastoma (肝母細胞瘤)'
   - 'Hepatoblastoma'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-幼兒最常見肝臟惡性腫瘤，常見 AFP 升高與腹部腫塊。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+幼兒最常見肝臟惡性腫瘤，常見 AFP 升高與腹部腫塊。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (B) alpha fetoprotein (AFP) and hepatocellular carcinoma Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - VII. 肝母細胞瘤 (Hepatoblastoma) 389 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - PS: Wilms tumor 屬於 embryonal tumors 中的一種。在台灣,最常見的 embryonal tumor 為 Wilms tumor,其次為 hepatoblastoma。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...increased | | | | opsoclonus, diarrhea, skin | ferritin, stippled | | | | nodules (infants) | calcification in mass | | Hepatoblastoma | Birth-3 yr | Large, firm liver | Increased AFP | | Hepatoma | School age, | Large, firm liver; hepatitis | Increased AFP | | | teens | B, cirrhosis | | | Rhabdomyosarcoma | All | GI/GU obstruction, | | | | | sarcoma b Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

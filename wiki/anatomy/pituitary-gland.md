@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Pituitary gland (腦垂體)'
   - 'Pituitary gland'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,15 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- N. 腦下垂體腫瘤 (Pituitary tumor) 212 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 6. 蝶鞍區腫瘤 (tumors of the sellar region): - (1) 顱咽瘤 (craniopharyngioma)。 - (2) 腦下腺瘤(pituitary tumor):前腦下腺細胞(adenohypophyseal cells)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ## N. 腦下垂體腫瘤 (Pituitary tumor) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 5.50%的病患在動脈瘤破裂造成 SAH 前會有所謂的「warning symptoms」: - (1) 動脈瘤的 mass effect: - a. 壓迫到動眼神經造成 EOM palsy、ptosis、dilated unreactive pupil。 - b. 壓迫到視神經。 - c. 壓迫到腦垂體,造成內分泌異常。 - d. 半身癱瘓。 - (2) 小出血(sentinel hemorrhage),平均發生在 SAH 的十天前。 - (3) 小血管梗塞造成暫時性失明(amaurosis fugax)或是視覺半盲(homonymous hemianopsia),平均發生在 SAH 的 21 天前。 - (4) Seizures • - (5) 頭痛。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - 2. 下視丘(hypothalamus):體內恆定 - (1) 位於視丘(thalamus)之下、腦垂體(pituitary)之上。 - (2) 與體內恆定、調節體溫有關。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...-------------------------------------------------------------| | (Optic nerve) 受損 | 左眼視野受損 | ( a | | 視交叉(Chiasma) 内側壓迫*(腦垂體腫瘤) 左外側壓迫 | | D b | | | | O C | | ) ` | 大 個領 野 | d d | | . Geniculate nu.) | 石侧帆到"又"俱 | u u | | 往下經顳葉處的視放射 | 右上視野受損 | (1) e | | 往上經額葉處的視放射 | 右下視野受損 | f | | 左視放射 (Radiation) | | g | | | 內側壓迫*(腦垂體腫瘤)左外側壓迫、Geniculate nu.)往下 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - \* 視交叉正下方若有腦垂體腫瘤(pituitary adenoma)、鼻咽癌(NPC)往上壓迫視交叉的正中央,會造成由上往下的雙顳側視野受損,如下圖;若 craniopharyngioma 由外側壓迫,會造成鼻側視野受損。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
@@ -61,10 +69,6 @@ tags:
 - D. 全腦垂體低能症(Panhypopituitarism) 171 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - E. 腦垂體亢進(Hyperpituitarism) 173 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - 1. 定義: Cushing's syndrome 指過多的皮質類固醇(cortisol)造成的症候群,而 Cushing's disease 則專指因腦垂體分泌過多 ACTH,進而刺激腎上腺分泌過多皮質類固醇(cortisol)造成之疾病。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- 2. 病因:(排除掉醫源性 Cushing's syndrome) - (1) Cushing's disease (70%):因為腦垂體腫瘤 (Adenoma) 或增生 (Hyperplasia)。 - (2) Adrenal tumor (20%): 腎上腺腫瘤 (6 cm: Carcinoma)。 - (3) Ectopic ACTH (10%): 肺小細胞癌; 胸腺、胰臟、卵巢的類癌 (Carcinoid tumor)、甲狀腺髓質癌 (Medullary carcinoma of thyroid)、Pheochromocytoma 等。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- a. 由腦垂體以外的腫瘤分泌 ACTH 造成腎上腺增生,如 - (a) 肺小細胞癌(Small cell carcinoma of lung),常發生得較突然(Sudden),所以常沒有典型庫欣氏表徵(Cushingoid features),反而常以低血鉀(Hypokalemia)、代謝鹼(Alkalosis)表現; - (b) 而類癌(Carcinoid tumor of the thymus)的病程較慢,較易出現庫欣氏表徵。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- 1. 病因、鑑別診斷:[記憶:TSH 低→核醫檢查; TSH 正常~高→腦垂體甲促素腺瘤] - (1) 甲狀腺毒症(Thyrotoxicosis) 指的是血中甲狀腺素過多,可因甲狀腺機能亢進(Hyperthyroidism)或甲狀腺被破壞而使得甲狀腺素釋放到血中;兩者可用 131I 攝取及掃描檢查分辨,前者有瀰漫的 131I 攝取(Hot),後者則無(Cold)。 - (2) 甲狀腺毒症 (Thyrotoxicosis) 的鑑別診斷需先量測 TSH, - a. 若 TSH 低,則可安排 131 攝取及掃描 (RAIU scan): Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- b. 甲狀腺機能亢進時,TSH 應該被抑制,若 TSH 仍正常或甚至偏高,須懷疑腦垂體有甲促素腫瘤。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 
 ## Clinical Caveats
 
@@ -73,7 +77,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/craniopharyngioma|Craniopharyngioma (顱咽瘤)]]
 
 ## Follow-up
 

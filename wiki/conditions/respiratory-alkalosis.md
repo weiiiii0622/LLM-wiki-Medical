@@ -16,6 +16,11 @@ sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book1-ch15]]"
 aliases:
   - 'Respiratory alkalosis (呼吸性鹼中毒)'
   - 'Respiratory alkalosis'
@@ -30,7 +35,7 @@ tags:
 
 ## Summary
 
-過度換氣造成 PaCO2 下降，常見於低氧、疼痛、焦慮、敗血症或藥物。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+過度換氣造成 PaCO2 下降，常見於低氧、疼痛、焦慮、敗血症或藥物。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +51,19 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch01]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch12]]
+- [[sources/med5-book1-ch14]]
+- [[sources/med5-book1-ch15]]
 
 ## Key Details From Sources
 
+- ...(3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabet Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 10. 重度頭部損傷 (GCS = 3~8): - (1) 插管。 - (2) Hyperventilation $PCO_2 = 30\sim35$ mmHg,避免 IICP (increased intracranial pressure)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- (C) 氣管內管插管併給予過度換氣(hyperventilation) Source: [[sources/med5-book1-ch12|丙、顱內壓]].
+- (D) 1. 傳統預防腦動脈瘤破裂出血後的腦血管痙攣(cerebral vasospasm) 108( ) 専有所謂的 "Triple-H" therapy,下列何者不包含於 Triple-H ? - (A) hypervolemia - (B) hypertension - (C) hemodilution - (D) hyperventilation Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
+- (C) 3.55 歲男性,平時除高血壓外無其他疾病,於半小時前,突發暈眩之後意識漸漸昏迷,血壓 180/105 mmHg,心跳 105/分,呼吸 22/分,兩側瞳孔皆為 2.0 mm,光反射不明顯;Glasgow昏迷指數為 $E_2V_2M_3$ ,在實行快速程序插管 (rapid sequence intubation)後,瞳孔狀況不變,此時電腦斷層顯示小腦出血合併腦幹壓迫跡象,下列那一項處置較適當? - (A) 會診放射科作血管攝影及栓塞 - (B) 安排加護病房,採保守支持性治療 - (C) 會診神經外科安排緊急手術 - (D) 給予過度換氣治療(hyperventilation ),控制 $PaO_2$ 在 25~30 mmHg Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - ...,意識會短暫幾秒鐘到幾分鐘的突然消失,但發作後不會嗜睡、 意識混淆。常見的例子是小男孩在學校上課時常發呆,以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperventilation)或一些光刺激(photic stimulation)引發。 藥物首選為 valproate(Depakine®),或使用 ethosuximide。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (C) 可被過度換氣(hyperventilation)檢查誘發 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (D) 42. 下列關於癲癇失神型小發作(absence, petit mal)的敘述,何者 100(一)專 最正確? - (A) 首次發作通常發生於 15 歲到 20 歲之間 - (B) 發作中不會有自動症(automatism) - (C) 發作時腦電圖(EEG)呈現局部性棘波(focal spikes) - (D) 過度換氣(hyperventilation) 會引起發作 Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -62,11 +77,6 @@ tags:
 - 6. 高度換氣 高氧測試(hyperventilation-hyperoxia test):當在 $FiO_2$ 100% 的氧氣與過度換氣狀況下(100~150/min)下達到 $PaCO_2 \le 25$ mmHg 才能使 $PaO_2$ 上升者需懷疑 PPHN。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 換氣過度 (hyperventilation) Source: [[sources/med3-book4-ch29|己、特定議題]].
 - 1. 診斷出呼吸性鹼中毒,要去想為什麼病人會喘(呼吸變快)?診斷出呼吸性酸中毒,要想看看為什麼病人呼吸變慢(hypoventilation),是不是快呼吸衰竭了? Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (1) 若發現 $PaCO_2$ 太低,表示病患呼吸太快(Hyperventilation),有可能是低血氧、酸中毒、疼痛或焦慮等原因刺激呼吸中樞造成的。一方面可以看看胸部 X 光,是否有肺炎、肺水腫等造成低血氧;一方面考慮病人是否因感染導致敗血症或其他原因造成酸中毒,病患用喘來 wash out $CO_2$ 以維持酸鹼平衡。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- 4. $HCO_3$ : 呼吸性鹼中毒( $PaCO_2$ 太低)可直接與呼吸太快聯想在一起,呼吸性酸中毒( $PaCO_2$ 太高)可直接與呼吸太慢聯想在一起,呼吸鹼、呼吸酸不可能並存;但是代謝的問題就複雜多了,「高陰離子間隙代謝酸(high anion gap metabolic acidosis)」、「正常陰離子間隙代謝酸(normal anion gap metabolic acidosis)」、「代謝鹼」這3種狀況便可能並存,一個動脈血最多可以有4種異常。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...中毒 (C) 低血鎂 (D) 高尿鈣 | 醫三-26 | | | | 【詳解】G i telman's syndrome 為類似使用 Th i azide,造成高血鈣、 | | | | | 低尿鈣。 | | | (B) | 11. | 急性呼吸性鹼中毒常合併下列何種電解質向細胞內移動? | 97(二)專 | | | | ①鎂 ②鉀 ③鈣 ④磷 | 醫三-29 | | | | (A) ①② (B) ②④ (C) ②③④ (D) ①②③④ | | | | | 【詳解】Harrison's internal medicine 17th: Acute respiratory alkalosis | | | | | causes intracellular shifts of Na + , K Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (4) 有呼吸性鹼中毒(respiratory alkalosis) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...us pneumoniae 較常見。 | | | (B) | 5. 敗血症早期所呈現之血液氣體分析(blood gas analysis)為: | 92(二)專 | | . / | (A) Respiratory acidosis (B) Respiratory alkalosis | 內 1-45 | | | (C) Metabolic acidosis (D) Metabolic alkalosis | | | | 【詳解】早期會先 Respiratory alkalosis,晚期才會 Metabolic acidosis。 | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

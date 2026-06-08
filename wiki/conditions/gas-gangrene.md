@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch15]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Gas gangrene (氣性壞疽)'
   - 'Gas gangrene'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-Clostridium perfringens 傷口感染可造成肌肉壞死、產氣與毒血症。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Clostridium perfringens 傷口感染可造成肌肉壞死、產氣與毒血症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ Clostridium perfringens 傷口感染可造成肌肉壞死、產氣與毒血症�
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch11]]
 - [[sources/med3-book3-ch15]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- (2) Clostridium:為厭氧革蘭氏陽性菌,廣泛存在於土壤、人和動物腸道中,大部份可水解糖、蛋白質及產生外毒素。 - a. Clostridium perfringens (產氣莢膜梭菌): 能分解肌肉和結締組織中的糖類, 產生大量氣體造成氣腫,影響血液循環造成壞死 (gas gangrene)。 - b. Clostridium difficile:偽膜性大腸炎(Pseudomembranous colitis)的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...毒桿菌 | C. botulinum | 食物,蜂蜜 | 肌肉無力,抑制副交感神經 | | 子』 | 厭 | 梭狀芽孢桿菌 | 破傷風桿菌 | C. tetani | 傷口 | 肌肉痙攣 | | 1 | 氧 | Clostridium | 產氣芽孢桿菌 | C. perfringens | 傷口 | 氣性壞疽 | | | | | 困難芽孢桿菌 | C. difficile | 使用抗生素 | 偽膜性結腸炎 | | 不產 | 嗜 | Corynebacterium | 白喉桿菌 | C. diphtheriae | 飛沫傳染 | 偽膜(咽),心肌炎,神經麻痺 | | 个座 | 氧 | Listeria | 李斯特菌 | L. monocytogenes | 受污牛奶,分娩 | 菌血 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...otulinum | 肉毒桿菌病 | Botulism(抑制 Ach 釋放) | 肌肉衰弱 | | 破傷風桿菌 | Clostridium tetani | 破傷風 | Tetanus(抑制 Gly,GABA 釋放) | 肌肉痙攣 | | 產氣芽孢桿菌 | Clostridium perfringens | 氣性壞疽 | Gas gangrene | 蜂窩性組織炎 | | 困難芽孢桿菌 | Clostridium difficile | 偽膜性腸炎 | Pseudomembranous colitis | 腹瀉 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ## D. 產氣性壞疽病 (Clostridial myonecrosis, Gas gangrene) Source: [[sources/med3-book3-ch10|乙、軟組織感染]].

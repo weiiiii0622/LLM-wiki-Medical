@@ -16,6 +16,10 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch10]]"
+  - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Secondary skin lesions (次發性皮膚病灶)'
   - 'Secondary skin lesions'
@@ -30,7 +34,7 @@ tags:
 
 ## Summary
 
-膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +50,19 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch10]]
+- [[sources/med5-book1-ch12]]
+- [[sources/med5-book1-ch13]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- (C) 2. 25 歲男性因頭部外傷送至急診,檢查時瞳孔對光反應遲鈍,給予 疼痛刺激時會張開眼睛,發出他人無法了解的聲音,右手臂變形 對疼痛刺激無反應,左手對疼痛刺激會用手撥開,則此病人的 格拉斯哥昏迷指數(Glasgow Coma Scale)分數為何? Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- (B) 4. 一位路倒病人被救護車送到急診室時發現眼睛僅對痛有反應,會 108(二)專 發出嗯嗯啊啊的呻吟,四肢呈現不正常的彎曲(abnormal flexion), 醫五-47 病人的昏迷指數(Glasgow coma scale)是幾分? Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- ...6. | 外傷病人的眼睛受痛刺激時會睜開,對刺激無言語反應(no | 106(二)專 | | | | response),對痛的刺激只有退縮反應(withdrawal)。昏迷指數 | 醫五 -2 | | | | (Glasgow coma scale, GCS) 為何? | | | | | (A) 8 | | | | | (B) 9 | | | | | (C) 10 | | | | | (D) 7 | | | | | 【詳解】 $E_1V_1M_5$ | | | (C) | 7. | 一位頭部外傷病人之理學檢查如下:受疼痛刺激,眼睛會睜開。 | 104(一)專 | | | | 病人不會言語和出聲。受疼痛刺激,左上肢不會動,右上肢則會 | 醫五-5 | | | | 不正常伸張 (ab Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- (A) 5. 一位 28 歲男性,從四樓陽台掉落,到急診室時 Glasgow coma scale (GCS) 是 8 分。心跳 110 次 / 分鐘、血壓 150/90 mmHg (平均動脈壓 110 mmHg) 和呼吸 18 次 / 分鐘。血中酒精濃度 是 150 mg/dL。假設顱內壓為 25 mmHg,則腦灌注壓 (cerebral perfusion pressure) 為多少 mmHg ? Source: [[sources/med5-book1-ch12|丙、顱內壓]].
+- 8. H2 blocker 或是 PPI 去減輕 stress ulcer。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- (C) 35. 依照 British Medical Research Council 的 muscle-grading scale, 正常的肌力是: Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...床表現的神經退化疾病(Parkinson-plus syndrome): 非典型巴金森氏症,特色是兩側同時出現症狀且進展快速,早期即出現平衡感差、頻繁跌倒、認知功能下降,且對藥物的反應效果不佳。 - (1) Multiple System Atrophy (MSA): - a. 病因:這類疾病的共通是有 $\alpha$ -synuclein-positive inclusions 沉積在中樞神經的 各處,包括基底核、小腦等。 - b. 症狀: MSA 共同特徵是自主神經症狀,如姿勢性暈眩(因站立時血壓突然下降所致),亦可量測躺坐站血壓;其中再分為兩大亞型,一類會合併巴金森氏症(MSA-p)、一類會合併小腦性運動失調(MSA-c)。 - c. 巴金森氏症的病患若合併有姿態性低血壓等其他 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...r | α-synuclein | Multiple system | Striatonigral degeneration | | Neuro- | | atrophies (glial \ | Olivopontocerebellar atrophy | | degenerative | | neuronal inclusions) | Shy-Drager syndrome | | disorders | | | Motor neuron disease with PD features | | | | Dementia with Lewy l | podies (cortical · brainstem neuronal inclusions) | | (Parkinson- Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (C) 8.50 歲男性,自1年前開始,左手做動作時會出現不自主的抽動、 106(-)專 半年後左側肢體動作開始變的不靈活,且合併智力衰退等症狀, 醫四-51 神經檢查出現肌躍症及肌張力不全,左手對針刺激特別敏感,但 若讓他用左手摸硬幣或鑰匙、病人無法辨識,且常抱怨自己的左 手像外星人的手。最可能的診斷為何? - (A) 多發系統退化症(multiple system atrophy) - (B) 巴金森病 (Parkinson disease) - (C) 皮質基底核退化症(corticobasal ganglionic degeneration) - (D) 漸進性上核麻痺症(progressive supranuclear palsy) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -61,12 +75,6 @@ tags:
 - (3) 鱗屑(Scales):角質層(Stratum corneum)細胞不正常堆積。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (4) 糜爛 (Erosion): 受傷的深度只到表皮層 (Epidermis), 癒合後不會留疤。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (1) 表皮層的感染為 Impetigo, 又稱膿痂疹或膿疱病, 外觀為一粒粒小紅色瘡 (red sore), 假使沒加以治療, 感染侵犯至真皮層則為 Ecthyma。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- a. 傳染性膿痂疹 (Impetigo contagiosa): - (a) 又稱作 non-bullous impetigo,多由 Group A Streptococcus 感染所引起。 起初為發於顏面、口鼻周圍的紅色小瘡,接著潰爛後膿液乾燥形成蜜黃色厚痂(honey-colored crust)。病灶處會癢,常因搔抓而播散到身體其他部位自體接種(autoinoculation)。癒合後不留疤。註:目前在已開發國家 S. aureus 引起之 non-bullous impetigo 已多於 GAS,但在開發中國家 GAS 仍是主要感染原(Fitzpatrick's 8th ed. p-2129)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- # b. 膿疱性膿痂疹(Bullous Impetigo): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 典型皮膚症狀包括搔癢、紅斑、丘疹及脫屑的皮膚疹,甚至有分泌物或膿疱的 變化,長期搔抓也會造成皮膚慢性增厚而苔癬化。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (C) 39. 一位 7 歲小女孩在學校運動會完數週後,即在兩側臉頰出現脫色素斑,其上附有細小的鱗屑。經 KOH 鏡檢並無異常發現,診治後給予弱效的類固醇軟膏,使用一週後即停用,並囑咐加強防曬措施,病灶於兩個月後回復正常膚色,最可能的診斷為何? - (A) 脫色素母斑 (nevus depigmentosus) - (B) 白斑(vitiligo vulgaris) - (C) 白色糠疹 (pityriasis alba) - (D) 變色糠疹 (pityriasis versicolor) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (C) 51. 一位五歲小女孩來診間,顯得焦躁不安,皮膚乾燥且在臉部與 全身出現許多苔癬化斑塊伴隨鱗屑和抓痕,尤其是四肢彎曲處 更為明顯,據母親所述,小女孩皮膚從小就不好,請根據以上 所述,下列何者錯誤? 99(一)專 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 3. 外觀為單一圓頂突起結節,伴隨有明顯且充滿角質鱗屑的中央凹陷(像火山口)(下 圖 A)。之後結節會過度角化(hyperkeratosis),火山口被填平成為一個小圓盤, 然後角質細胞會取代整顆腫瘤(下圖B和C),最後腫瘤脫落留疤。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

@@ -51,12 +51,14 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/esophageal-ph-monitoring|Esophageal pH monitoring (食道酸鹼監測)]] - GERD 疑似但內視鏡正常時可量化酸暴露。
 - [[diagnostics/evoked-potential-test|Evoked potential test (誘發電位檢查)]] - 以視覺、聽覺或體感刺激測量傳導路徑反應，常用於 demyelinating disease 評估。
 - [[diagnostics/flow-cytometry|Flow cytometry (流式細胞術)]] - 以表面標記與細胞特徵分類白血病、淋巴瘤、PNH 等血液疾病。
+- [[diagnostics/focused-assessment-with-sonography-for-trauma|FAST exam (創傷超音波快速評估)]] - 外傷病人床邊超音波快速評估腹腔、心包膜或胸腔液體。
 - [[diagnostics/fractional-excretion-of-sodium|Fractional excretion of sodium, FENa (鈉分率排泄)]] - 用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。
 - [[diagnostics/glasgow-coma-scale|Glasgow Coma Scale, GCS (格拉斯哥昏迷指數)]] - 以 eye、verbal、motor response 評估意識程度，常用於腦傷、中風與急症神經評估。
 - [[diagnostics/growth-chart|Growth chart (生長曲線)]] - 兒童生長評估工具，需連續追蹤身高、體重、頭圍與 growth velocity。
 - [[diagnostics/hba1c|Hemoglobin A1c, HbA1c (糖化血色素)]] - 反映近期平均血糖並作為糖尿病診斷與控制目標。
 - [[diagnostics/helicobacter-pylori-testing|Helicobacter pylori testing (幽門螺旋桿菌檢測)]] - H. pylori 可用侵入性或非侵入性檢測確認。
 - [[diagnostics/hiv-testing|HIV testing (HIV 檢測)]] - HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 count。
+- [[diagnostics/hla-crossmatch|HLA typing and crossmatch (HLA 配對與交叉試驗)]] - 器官移植前評估 donor-recipient compatibility 與 preformed antibodies。
 - [[diagnostics/iron-studies|Iron studies (鐵質檢查)]] - Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。
 - [[diagnostics/kidney-biopsy|Kidney biopsy (腎臟切片)]] - 診斷腎絲球、間質與部分腎實質疾病的重要檢查。
 - [[diagnostics/koh-preparation|KOH preparation (KOH 鏡檢)]] - 以 KOH 溶解角質後鏡檢菌絲或酵母型態，常用於皮癬菌與念珠菌感染。

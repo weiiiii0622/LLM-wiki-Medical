@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med5-book1-ch07]]"
+  - "[[sources/med5-book1-ch11]]"
 aliases:
   - 'Pulmonary embolism (肺栓塞)'
   - 'Pulmonary embolism'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book2-ch03]]
+- [[sources/med5-book1-ch07]]
+- [[sources/med5-book1-ch11]]
 
 ## Key Details From Sources
 
+- (3) 鈍傷:腹部鈍傷假使只靠 PE 很難診斷腹內是否有受傷,特別是當病人合併有腦部或脊髓受傷,或是吸毒喝酒等,容易誤診。因此需要其他工具補助檢查: - a. 腹腔灌洗術: - (a) 腹腔灌洗術的優點在於能快速得到結果,其一般之適應症為: - i. 大量傷患同時到達時可作為檢傷分類之依據。 - ii. 神智改變。 - iii. 酒醉或服用毒藥物。 - iv. 需上麻醉處理其他合併損傷。 - v. 多處受傷之病患。 - vi. 懷疑腹部受傷,但腹部症狀不明顯。 - (b) Source: [[sources/med5-book1-ch07|庚、急救外傷]].
+- 1. 處理原則: - (1) 檢查呼吸道有無暢誦,GCS ≤ 8的話緊急插管。 - (2) 檢查血氧濃度,不夠的話給予呼吸器。 - (3) 檢查脈搏和血壓,維持 SBP > 90 mmHg。 - (4) 評估胸部和腹部是否也有受傷(PE、影像檢查)。 - (5) 評估意識狀態及局部神經學症狀,考慮脊髓是否受傷(頭顱脊髓 X 光、CT)。 - (6) 最後才檢查肢體有無撕裂或骨折(X光)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (4) 紅斑型天疱瘡 (Pemphigus erythematosus, PE): - a. 也是少見的一種亞型,只發生在臉上,形成粗紅、有點脫屑的紅斑,位置就如同紅斑性狼瘡的蝴蝶斑一樣。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - III. 新生兒評估(Newborn PE) 454 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - # III. 新生兒評估 (Newborn PE) Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -69,8 +75,6 @@ tags:
 - (A) 肺動脈栓塞 (Pulmonary embolism) Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - (B) 肺栓塞 (pulmonary embolism) Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - 左心衰竭(36%):最常見。肺炎(22%)、惡性腫瘤(肺癌、乳癌、淋巴癌)(14%)、肺栓塞(11%)、病毒疾病(7%) Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
-- | (D) | 7. 下列何者最可能引起 transudative pleural effusion ? (A) 肺結核 (tuberculosis) (B) 類肉瘤 (sarcoidosis) (C) 尿毒症 (uremia) (D) 肺栓塞 (pulmonary embolism) | 104(一)專醫三-12 | |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
-- ...A) 大多數病患狹窄愈嚴重,第一心音(S1)愈弱 (B) opening snap 如果聽得見,是在心收縮期 (C) 感染性心內膜炎在單獨二尖瓣狹窄病患的機率與合併二尖瓣閉鎖不全病患相同 (D) 臨床症狀除運動時呼吸困難外,有時會出現咳血、肺栓塞或肺炎等 | 106(一)專醫三-23 | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 
 ## Clinical Caveats
 

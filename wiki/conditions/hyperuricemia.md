@@ -15,6 +15,8 @@ sources:
   - "[[sources/med3-book4-ch16]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Hyperuricemia (高尿酸血症)'
   - 'Hyperuricemia'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,13 @@ tags:
 - [[sources/med3-book4-ch16]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- 【詳解】腫瘤溶解症候群(tumor lysis syndrome)癌細胞快速分解會造成高尿酸、高血磷、低血鈣和高血鉀。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 尿酸 (uric acid): 10 mg/dL Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 【詳解】病人血液相裡白血球過高且合併 high blast cell,因 此懷疑白血病的可能。白血病其併發症中需特別留意 tumor lysis syndrome: elevated uric acid and inorganic phosphorus and hyperkalemia • Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 5. 症狀: - (1) 無力、腦病變與低血糖。 - (2) 顯著的肝脾腫大。 - (3) Pompe disease (GSD type 2) 因缺乏酵素 acid alpha-glucosidase,特別嚴重。特 徵為心臟肥大,低肌張力,肝臟腫大,病童多於一歲內死亡。 - (4) von Gierke's disease(GSD type 1)因缺乏酵素 glucose-6-phosphatase,造成 lactic acidosis, hyperuricemia, 生長遲緩,但不會有肌肉的症狀。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
@@ -63,8 +69,6 @@ tags:
 - \*\*Thiazide 會造成高血鈣、高尿酸值 (Hyperuricemia);Furosemide (Lasix®) 會造成低血鈣、高尿酸值 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (B) 病人經常合併有高尿酸血症、高血鉀、代謝性酸中毒及腎衰竭 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 1. 高尿酸血症與代謝症候群相關,與 insulin resistance 有關係 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 2. 治療: - (1) 無症狀高尿酸血症: - a. 以往認為高尿酸血症與心血管疾病、腎臟衰竭有關,但目前證據不足、且藥物副 作用大,故不再建議用藥物治療無症狀高尿酸血症。 - b. 僅有一種情形,癌症病患接受化療前,給予降尿酸藥物,預防 uric acid nephropathy。 - (2) 有症狀高尿酸血症:痛風關節炎、痛風石、腎臟尿酸結石 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- (C) 4. 一位 45 歲男性病人,曾有高尿酸血症及血脂異常之病史,求診時主 訴最近兩週體重急遽下降8公斤,有口渴頻尿之現象,理學檢查發 現病人身高 165 公分,體重 80 公斤,血壓 160/90 mmHg,呼吸每 分鐘 15次,脈搏每分鐘 100次,頸部有黑色素沈積之現象,病人 最可能的診斷為何? Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 
 ## Clinical Caveats
 

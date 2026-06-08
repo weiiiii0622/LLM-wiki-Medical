@@ -23,6 +23,8 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Dysphagia (吞嚥困難)'
   - 'Dysphagia'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,13 @@ tags:
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- (D) 16. 一位 65 歲男性,因吞嚥困難及體重減輕住院檢查,病患體重 40 公斤,血清蛋白(serum albumin)值為 2.5 g/dL,內視鏡檢查發現食道下段有腫瘤造成阻塞,切片病理報告為食道之鱗狀上皮細胞癌,胸部電腦斷層檢查結果並無明顯之縱膈腔或肝臟轉移,骨頭掃描結果並無明顯遠處轉移。胸腔外科醫師評估可以手術切除,你認為以下那種處置比較適當? - (A) 馬上安排手術切除食道並重建以免癌症擴散 - (B) 一般葡萄糖輸液補充 7 天後手術 - (C) 全靜脈營養 (total parenteral nutrition) 補充 1 天,立即手術 - (D) 全靜脈營養補充 7 天後手術 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- 【詳解】Arnold-Chiari malformation,又稱小腦扁條體下疝,指的是小腦扁桃體疝氣,通過枕骨大孔下疝到椎管內,使得腦幹、脊髓受到壓迫,甚至影響腦脊液的流通。第一型較輕微,無其他神經系統畸形,多在學齡、或成人時才會出現一些神經學症狀(頭痛、頭暈、噁心、肌肉無力、協調障礙)。第二型合併出現脊柱裂(脊膨出 myelomeningocele),容易有呼吸、吞嚥困難,四肢無力的情形。第三型則是小腦下半部或是腦幹下疝到椎管內。第二和第三型通常在產前超音波檢查即可發現。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (1) 一開始可能以不對稱的肢體無力表現(corticospinal tract),但不久後會進展成 對稱的肢體無力,且同時有上運動神經元及下運動神經元症狀;也可能有說話 不清、吞嚥困難(corticobulbar tract)等症狀。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (A) 3. 肌萎縮性側索硬化(Amyotrophic lateral sclerosis, ALS)不會產102( ) 專生下列那個症狀?醫四 -53 - (A) Sensory loss - (B) Dysphagia - (C) Fasciculation - (D) Babinski sign Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...ltiple sclerosis | | | (D) 18. | (D) metastases 頸椎退化性關節炎而導致脊髓病變,下列何者錯誤? (A) 會產生雙下肢緊而無力 (B) 造成解尿困難 (C) 會產生胸部以下麻木現象 (D) 造成吞嚥困難 | 98(二)專醫四-47 | | (D) 19. | 多發性硬化症患者的腦脊髓液常可見到下列何種情形? (A) 葡萄糖量為血糖中的 20% 以下 (B) 蛋白質降低 (C) 每微升 (mL) 有 100 顆以上的白血球 (D) 免疫球蛋白 G (IgG) 升高 | 98(一)專醫四-50 | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
@@ -79,8 +85,6 @@ tags:
 - 現指節腫大,吞嚥困難,以及續發性雷諾氏症候群 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 2. Fever (sudden onset 且 24 小時內> 39°C )、喉嚨痛、吞嚥困難、流口水、頸部疼痛、頸部淋巴結腫大、吸氣時喘鳴 (stridor)、呼吸窘迫。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (B) 吞嚥困難 (dysphagia) Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (B) 2. 7歲男童因突發性高燒、吞嚥困難就醫,在對比劑注射後,接受 107(二)專 電腦斷層掃描檢查如圖示,箭號所指病灶最可能診斷為何? 醫四-76 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...Recurrent pneumoniaBronchiectasis | EsophagogramBronchoscopy † | Surgery | | Esophageal stenosis | Infants to adults | DysphagiaFood impaction | EsophagogramEndoscopy † | DilationSurgery | Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

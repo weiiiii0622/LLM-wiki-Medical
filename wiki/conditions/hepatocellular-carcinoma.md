@@ -17,6 +17,9 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Hepatocellular carcinoma, HCC (肝細胞癌)'
   - 'Hepatocellular carcinoma, HCC'
@@ -31,7 +34,7 @@ tags:
 
 ## Summary
 
-HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +51,18 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- (A) 20. 一般外科的何主任最近進行某項肝癌患者的基因研究,為了要蒐 集健康人之對照組,特邀請未來兩個月到一般外科學習的住院醫 師及實習醫師自願參與這項研究提供 10 cc 之血液檢體。在研究 倫理的觀點上,下列何項是這種納入受試者的方式最大的爭議? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- (B) alpha fetoprotein (AFP) and hepatocellular carcinoma Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- ...中 $\alpha$ -fetoprotein 濃度便降到和正 | | | 常成人相同。 | | | (D) 23. 下列對照的致癌原(Carcinogen)何者錯誤? | 102(一)專 | | (A) 黃麴毒素(Aflatoxins)-肝癌(Hepatocellular carcinoma) | 醫五 -10 | | (B) 幽門 螺 旋 桿 菌(Helicobacter pylori)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (2) 原發性肝臟惡性腫瘤,如肝癌:肝臟已有中度以上的功能喪失,癌細胞沒有轉移到肝臟以外的器官;肝內大血管沒有癌細胞造成的癌栓;肝腫瘤是單顆且大小不大於 5 公分;或者腫瘤數目最多 3 顆,並且每顆大小不大於 3 公分。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (B) 10.50 歲的男性,有肝癌病史。約在兩天前,突然發生嚴重的背痛且 106(二)專 無法行走,磁振造影(MRI)檢查顯示在第十二胸椎出現腫瘤轉 醫五-59 移,且有嚴重神經壓迫情形。病患亦被醫師告知有馬尾症候群 (cauda equina syndrome)。下列何者不是馬尾症候群的典型症狀? (A) 大小便失禁或滯留 (B) 下肢深層肌腱反射 (deep tendon reflex) 增強 (C) 肛門周圍麻木 (D) 下肢無力 【詳解】patellar ref Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 2. 原發性惡性肝臟腫瘤中,超過65%為 hepatoblastoma,其次為 hepatocellular carcinoma。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - (B) 1. 關於兒童惡性肝腫瘤 (malignant hepatic tumor) 的敘述,下列何 107( ) 專 者最不恰當? 醫四 -28 - (A) 肝母細胞癌(hepatoblastoma)主要發生在 3 歲以下的小孩, 而肝細胞癌(hepatocellular carcinoma)的發病年齡較大 - (B) Beckwith-Wiedemann syndrome 的患者,較易發生肝母細胞癌(hepatoblastoma) - (C) 由於 B 型肝炎疫苗的施打,已讓國內肝母細胞癌(hepatoblastoma)發生率顯著下降,但肝細胞癌(hepatocellular carcinoma)則比率維持不變 - (D) 肝細胞癌(hepatocellular carc Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -63,12 +75,6 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - (D) T 出院之後, 散步時因為肝癌末期之器官衰竭路倒, 生命危急, 被好心人送到醫院急診,急診醫師不知T有簽署「不施行心肺 復甦術」之意願書,為T施行插管急救,保住T之生命跡象。 其後,在T之妻的告知下,拔管讓T離開急診回家 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - ...tinin, mesothelium | 間皮癌 (Mesothelioma) | | | Hara C | CDX2 | 大腸直腸癌、十二指腸 | | | 横膈下 | Hepatocyte paraffin 1 (HepPar-1) | 肝癌 | | | | Prostate specific antigen (PSA) | 35万(II白)(古 | | | 骨盆腔 | Prostate acid phosphatase (PAP) | 前列腺癌 | | | | URO-III, thrombomodulin | 膀胱癌 (Bladder cancer) | | | | S100, HMB-45 | 黑色素癌 | | | ++ /11+ | Vimentin, Desmin Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...A) | 9. 一位 25 歲的男子因感覺胸部有壓迫感求診。胸部 X 光檢查顯示縱膈腫塊,血清腫瘤標誌包括 AFP (alpha fetoprotein)、β- HCG 及 LDH均顯著升高。最可能的診斷是: (A) 生殖細胞腫瘤 (B) 肝癌 (C) 何杰金氏淋巴瘤(Hodgkin's lymphoma) (D) 淋巴母細胞淋巴瘤(lymphoplasmacytic lymphoma) | 103(一)專醫三-45 | | | (B) | 10. 一位 65 歲身體狀況良好的女性病人,因鎖骨上窩處淋巴結腫大求醫,理學檢查淋巴結硬且固著;其他全部正常。下列何者是最不可能的診斷?(A) 惡性淋巴瘤(B) 鱗狀上皮細胞癌(C) 腺癌(D) 未分化細胞癌 | 102(一)專醫三-4 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...(D) 腎毒性 | | | (C) | 10. 下列腫瘤在 advanced stage 時仍有治癒之可能,何者除外? | 102(二)專 | | | (A) 淋巴癌 | 醫三-41 | | | (B) 生殖細胞瘤 | | | | (C) 肝癌 | | | | (D) 神經母細胞瘤 (neuroblastoma) | | Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ...尼古丁是長期抽菸中造成成瘾之重要因素 (D) 體重減輕是使用尼古丁製劑戒菸時的常見現象 【詳解】(D) 體重增加是戒菸時一個常見現象,也常見於戒菸失敗者的理由之一。 | 97(一)專醫三-72 | | (A) 27 | 一位 55 歲罹患肝癌合併腹腔內轉移的患者,目前正在接受一種試驗性的化學治療,而你是他的住院醫師。有一天,患者請你坐在他的床邊,想問你一些問題。他說他覺得那種藥沒有甚麼效果,但又不敢向主治醫師要求停止用藥。下列何者為最適當的第一個回應?(A) 先聆聽他的感受和想法,了解他的關切再談後續的處置(B) 建議病患儘量配合用藥,以爭取最大的存活機會(C) 答應替他尋找最新資料再確認是否值得繼續用藥(D) 告知患者你並不了解他使用中的藥物,請他與主治醫師討論【詳解】( Source: [[sources/med3-book4-ch25|乙、行為科學]].
-- #### C. 肝細胞癌 (Hepatocellular carcinoma, HCC) Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- 2. 危險因子: HBV、HCV、黃麴毒素、CCl4; 肝硬化、血色素病(hemochomatosis)、威爾森氏病(Wilson's disease)、血型B(比較: 血型A 較易得胃癌, 血型B 較易得肝癌)。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- 3. 診斷: - (1) 篩檢:超音波掃描為第一線影像學檢查工具、AFP > 200 則暗示有 HCC。 - (2) 確診: CT 可見 arterial phase enhancement。 - (3) 結論:超音波用來篩檢,電腦斷層用來確診,磁振造影、血管攝影通常用在電腦斷層沒有辦法完全確診時,可用在較小、較早期的病灶偵測。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 
 ## Clinical Caveats
 
@@ -79,6 +85,7 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 
 - [[conditions/hepatitis-b|Hepatitis B (B 型肝炎)]]
 - [[conditions/hepatitis-c|Hepatitis C (C 型肝炎)]]
+- [[procedures/liver-transplantation|Liver transplantation (肝臟移植)]]
 
 ## Follow-up
 

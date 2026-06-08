@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch08]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Substance use disorder (物質使用疾患)'
   - 'Substance use disorder'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-以失控使用、耐受、戒斷、渴求與角色功能受損等模式定義的成癮疾病群。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以失控使用、耐受、戒斷、渴求與角色功能受損等模式定義的成癮疾病群。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch08]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- 3. 物質濫用:抽菸、喝酒、古柯鹼。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - (C) 可能併發憂鬱、酒精與物質濫用、強迫症 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - 這類病人由於常沒有得到適當的治療,往往導致更嚴重的精神疾患(comorbidity),如焦慮性疾患、重鬱症、物質濫用等(尤其是酒精濫用)。特定對象畏懼症與社交恐懼症皆是女性比較常見,發病年齡主要在青少年時期。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (7) 此狀況無法以其他精神疾患做更佳的解釋,亦非因物質濫用或一般醫學狀況所引起。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].

@@ -52,6 +52,15 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch07]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Kidney (腎臟)'
   - 'Kidney'
@@ -66,7 +75,7 @@ tags:
 
 ## Summary
 
-腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -118,9 +127,28 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch07]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch13]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- 3. 每個器官的低溫保存期限 (cold ischemia time) 不同:腎臟 24~72 小時、胰臟 12~18 小時、小腸 6~12 小時、肝臟 6~10 小時、肺 4~6 小時、心 4 小時。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (2)除非原本的腎臟產生病變、難以控制之高血壓或嚴重感染,否則通常不會把原來腎臟切除,而是將新的腎臟移植到左下腹或右下腹的髂窩(iliac fossa)處。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (3) 將腎靜脈 (renal vein) 和受贈者外髂靜脈 (external iliac vein) 做吻合;接著將腎動脈 (renal artery) 和受贈者外髂動脈 (external iliac artery) 或內髂動脈 (internal iliac artery) 做吻合,最後將輸尿管縫接於病人的膀胱。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (C) 8. 下列那一個腹部器官在腹部鈍傷中最常受到傷害? 105(一)專 (A) 肝臟 (B) 腎臟 (C) 脾臟 (D) 胰臟 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
+- (B) 17. 鈍性腹部外傷時,最常發生損傷的器官為: 101(一)專 (A) 肝臟 醫五-3 (B) 脾臟 (C) 胰臟 (D) 腎臟 (B) 18. 一位 48 歲的小鎮男性在一次大客車車禍中腹部受傷,經 10 小時 101( - ) 專 後被轉送至某大醫院急診,雖意識清醒,但因腹膜炎而接受緊急 醫五 -37 剖腹探查術,術中發現有橫結腸裂開、胰臟和胃挫傷,肝臟左 葉裂傷,經修補肝臟裂傷後,血壓及心跳等仍不穩定,此時應 如何處理裂開的結腸最妥當? (A) 直接修補裂口 (B) 利用此裂口拉出大腸作成一個結腸造口 (C) 直接修補裂口,再將近側之大腸拉出腹外作造口 ( Source: [[sources/med5-book1-ch07|庚、急救外傷]].
+- 7. 轉移癌:轉移自肺癌、乳癌、腎臟、腸胃道或淋巴癌。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 2. 成年人最常見原發性小腦腫瘤,也可能長在脊髓、視網膜,或在腎臟、胰臟中出現 囊腫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (4) Omega-3 為不飽和脂肪酸,含有多種脂肪酸,其中 EPA(二十碳五烯酸)、 DHA(二十二碳六烯酸)及 α-Linolenic acid(次亞麻油酸)對人體很重要,可 從魚油獲得。EPA 可以降低血液黏稠度、降血壓、降三酸甘油脂等心血管疾病 保護作用; DHA 直接影響心臟、腦部、眼睛、神經系統、腎臟的正常運作。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (D) 10. 腹部腔室症候群(abdominal compartment syndrome)是指腹腔內臟器出血或腹內組織水腫,造成腹內壓(intra-abdominal pressure)急遽上升,導致呼吸困難、血壓下降、腎臟衰竭時,應立即採用下列何種方法處理為佳? Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 約 10~15% 失智症是可逆性的,尤其是因為系統性疾病如腎臟病、鬱血性心臟衰竭、甲狀腺功能低下、維生素缺乏、藥物或憂鬱症導致的失智症。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - ...iturate, sedative-hypnotic | | | | | | Acute metabolic | Acidosis, alkalosis, electrolyte disturbance, hepatic failure, renal failure | | | | | | Trauma | Closed-head injury, heat stroke, postoperative, severe burns | | | | | | CNS pathology | Abscess, hemorrhage, hydrocephalus, subdural hematoma, Infection, seizures, | | | | | | CNS pathology Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - 【詳解】Restless legs syndrome 主要症狀是感覺大腿有螞蟻在爬行的感覺,通常晚上症狀會更惡化,通常和懷孕缺鐵 B12 或腎臟病有關係。治療使用 benzodiazepine 類是無效的,多半是用L-dopa、Carbidopa、bromocriptine、pergolide、Ropinirole(FDA通過)治療。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
@@ -129,16 +157,6 @@ tags:
 - ...| 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Throm Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (3) 口服皮質類固醇(Prednisolone):Indication 為 CNS involvement、renal involvement、severely ill patients without CNS involvement、hemolytic crisis 或 thrombocytopenia。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 5. 砷會引起肺癌、腎臟癌、膀胱癌或前列腺癌。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (B) 23. 一位腎臟病患經異體腎臟移植後服用免疫抑制劑控制排斥反應。 100( 二 ) 專 最近發現在左側足背皮膚有一些不痛、不規則之斑塊(如圖 ) , 醫四 -41 病理切片下呈現許多梭狀細胞(spindle cell)和血管樣間隙(slit Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- ...網膜粒狀缺陷瘤 | 牙齦纖維瘤 | | (Multiple retinal nodular hamartomas) | (Gingival fibromas) | | 腦皮質結節 (Cortical tuber) | 非腎異位瘤 (Non-renal hamartoma) | | 腦室管膜下結節 (Subependymal nodule) | 視網膜無色斑 (Retinal achromic patch) | | 腦室管膜下巨細胞星狀瘤 | 斑駁樣的皮膚斑 | | (Subependymal giant cell astrocytoma) | ('Confetti' skin lesions) | | 心横紋肌瘤(單獨或多發) | 多個腎囊腫 | | (Cardiac rhabdo Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- (B) renal angiomyolipoma Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- b. 免疫抑制: HPV 感染和慢性免疫功能抑制的晚期併發症有關。腎臟異體移植者危險性也會增加。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- VI. 腎小管酸中毒 (Renal Tubular Acidosis, RTA) 139 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...些新生兒或是幼兒會表現黃疸、躁動不安、餵食困難甚至體重下降。當出現上述癥候時, upper urinary tract infection 要列入考慮。急性腎盂腎炎有可能會造成 pyelonephritic scarring,嚴重者造成日後腎臟功能變差甚至高血壓。 - (4) 無症狀菌尿症(asymptomatic bacteriuria):尿液培養陽性但沒有臨床症狀表現,這種情況幾乎只出現在男性。原則上無症狀菌尿症不會對腎實質造成損傷,但對懷孕的女性卻是有可能造成腎臟傷害。無症狀菌尿症若不處理,最終還是會演變成有症狀的泌尿道感染。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 5. 影像學檢查:找出解剖學構造上的異常為其主要目的。 - (1) 腎臟超音波:感染部位的定位、程度的判斷、腎臟泌尿系統阻塞或畸形有無。 一般而言,病人第一次得到 UTI 後建議做超音波檢查。 - (2) 解尿膀胱尿道攝影(voiding cystourethrogram, VCUG): 可檢查有無 vesicoureteral reflux(VUR), 此外, 也可發現 trabeculation、post-urethral valve。目前 AAP guideline 已不建議兒童第一次發生 UTI 後 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (3) 有 50% 同時有其它器官上的異常,最常見為 VATER/VACTERL (Vertebral、Anorectal、Trachea、Esophagus、Cardiac、Renal、Radial and Limb) syndrome。 這些病人心臟或脊椎異常比率分別為 32%與 24%。這些病人智力表現是正常的。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (1) 十二指腸閉鎖約 50~70% 有其它構造上的異常,如心臟、其它消化道或腎臟, 因此需再做心電圖、胸部 X 光影像學做仔細的評估。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 3. Gamma-glutamyltransferase ( $\gamma$ -GT) and 5' nucleotidase (5NT) - (1) Gamma-glutamyltransferase (γ-GT) 位在細胞膜上,分布器官主要在**肝、膽道、**腎及胰臟,但不存在於骨骼。臨床上 Gamma-glutamyltransferase 上升代表以下可能原因:急性或慢性肝炎、肝硬化、膽汁滯留、原發性硬化性膽管炎、肝轉移腫瘤或是 liver carcinoma。 - (2) 5' nucleotidase (5NT) 主要分布在肝、肌肉、心臟及腎臟,但不存在於骨骼。 臨床上 5NT 上升代表以下可能原因: 肝炎、膽汁滯留性疾病、肝臟腫瘤(原發性或是次發性)、肝毒性藥物。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

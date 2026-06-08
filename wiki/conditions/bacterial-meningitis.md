@@ -10,6 +10,9 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch14]]"
 aliases:
   - 'Bacterial meningitis (細菌性腦膜炎)'
   - 'Bacterial meningitis'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,15 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch01]]
+- [[sources/med5-book1-ch13]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch14]]
 
 ## Key Details From Sources
 
+- 4. Meningismus: 會有類似腦膜炎的症狀, Nuchal rigidity、Kernig sign(大腿彎曲後, 將小腿伸直時大腿後面會痛)、Brudzinski sign(將頸部向前彎曲,大腿會不自主屈曲)。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- ...(hyperostosis)的現象 | | | (D) 矢狀竇旁(parasagittal)的位置最常見 | | | (D) 18. 表皮樣囊腫(epidermoid tumor)腦瘤會有下列何種特質? | 105(一)專 | | (A) 細菌性腦膜炎(bacterial meningitis) | 醫五-16 | | (B) 伴有先天異常 (associated congenital malformations) | | | (C) 對放射性治療有效(responsive to radiation therapy) | | | (D) 無菌性腦膜炎 (aseptic meningitis) | | | (D) 19. Glioblastoma multiforme (GBM) 屬於 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (A) 急性細菌性腦膜炎 (acute pyogenic meningitis) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 2. 腦膜刺激的 sign: - (1) 頸部僵硬 (neck stiffness): 當我們把病患的頭往下巴彎,會因病患疼痛遭受阻力; 而細菌性腦膜炎更明顯,甚至頭稍左右轉動就會引起疼痛;而病毒性腦膜炎要 將頭往下巴頂才比較會痛;另外,當我們將病人頭部彎曲時,其腳會自己縮回, 以減少腦膜拉扯的壓力,稱作 Brudzinski sign; - (2) 病患躺平,髋、膝關節皆成 90 度,當我們將病患的膝蓋往上打直時,會因引起 病患疼痛而遭受阻力,稱作 Kernig's sign。(記憶: Knee 打直 = Kernig's) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (D) 脊髓硬膜外膿腫(spinal epidural abscess)不是腫瘤轉移,因此不會有敲擊痛,也不會出現 Kernig 徵狀(Kernig sign) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (B) 13. 38 歲男性,三星期前開始出現倦怠,頭痛,間歇性微燒,最近 兩天頭痛加劇合併噁心,嘔吐與嗜睡。身體檢查發現頸部僵硬。 醫四-5 腦脊髓液檢查呈現:壓力為 240 mmH2O,白血球為 480 顆(其中 淋巴球占 80%),蛋白質為 80 mg/dL,糖值為 20 mg/dL(血糖 值為 120 mg/dL),隱球菌抗原(cryptococcal antigen)為陰性。 血清之性病研究實驗室凝集法(VDRL)為陰性。下列何者為最 有可能之診斷? - (A) 病毒性腦膜炎 - (B) 結核性腦膜炎 - (C) 未經抗生素治療過之細菌性腦膜炎 - (D) 寄生蟲性腦膜炎 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].

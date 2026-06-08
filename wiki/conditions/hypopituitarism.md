@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Hypopituitarism (腦垂體功能低下)'
   - 'Hypopituitarism'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-腦垂體荷爾蒙缺乏造成多軸內分泌不足。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體荷爾蒙缺乏造成多軸內分泌不足。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch10]]
 - [[sources/med3-book2-ch15]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (4) 腦下垂體中風 (pituitary apoplexy): - a. 當腦下垂體腫瘤逐漸擴大時,一旦壓迫到腦下垂體莖的血管,可導致急性的腦下垂體及腫瘤的缺血壞死,造成腦下垂體中風。 - b. 腦下垂體中風也可以被頭部外傷、Sheehan syndrome、內分泌藥物檢驗或治療(肢端巨大症及庫欣氏症候群)、腦下垂體放射線治療、或化學治療所引發。 - c. 症狀: 腦內壓力陡昇所造成的急性臨床症狀有頭痛、噁心嘔吐、視力模糊及 視野缺損、眼球肌肉麻痺及內分泌失調等。 - d. 處置:迅速給予類固醇治療,並在七天內進行經蝶骨(transsphenoidal)手術切除。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...(Klinefelter syndrome) - (B) 卡門氏症 (Kallmann syndrome) - (C) 普瑞德威利氏症 (Prader-Willi syndrome) - (D) 先天性腦垂體低能症(Congenital hypopituitarism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) Secondary:腦垂體無法製造 ACTH 導致腎上腺機能低下; - a. 腦垂體功能低下 (Panhypopituitarism)。 - b. 長期服用外來的類固醇,使得腦垂體被抑制而無法製造 ACTH,若突然停藥,會導致急性腎上腺機能低下(最常見的原因)。 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - D. 全腦垂體低能症(Panhypopituitarism) 171 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

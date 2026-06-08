@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Sarcoidosis (類肉瘤病)'
   - 'Sarcoidosis'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (C) 類肉瘤 (sarcoidosis) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (A) 類肉芽腫(sarcoidosis) Source: [[sources/med4-book2-ch11|子、其 他]].
 - (4) 其他,如 granulomatosis/sarcoidosis, thyrotoxicosis, thrombophlebitis... Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -70,7 +73,6 @@ tags:
 - (A) 自體免疫性或類肉瘤(sarcoidosis)所引起的病變機率較小 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - 【詳解】(A) 自體免疫性會以毛玻璃病變(GGO)表現,呈現 NSIP pattern,類肉瘤以縱膈淋巴結及肺部小點表現;此病患較可能是 Idiopathic pulmonary fibrosis;(C) 運動肺功能會進行六分鐘行走,走路距離可作為預後的預測;(D) 兩者皆會降低。 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - | (D) | 7. 下列何者最可能引起 transudative pleural effusion ? (A) 肺結核 (tuberculosis) (B) 類肉瘤 (sarcoidosis) (C) 尿毒症 (uremia) (D) 肺栓塞 (pulmonary embolism) | 104(一)專醫三-12 | |-----|--------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
-- 2. 病因: Infiltrative (Amyloidosis, Sarcoidosis, Hemochromatosis) or noninfiltrative (Diabetes, idiopathic),診斷未明的病患應考慮 RV 心肌切片。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 
 ## Clinical Caveats
 

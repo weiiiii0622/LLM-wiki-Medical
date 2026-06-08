@@ -27,10 +27,12 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/cognitive-behavioral-therapy|Cognitive behavioral therapy, CBT (認知行為治療)]] - 針對自動化思考、行為逃避與暴露反應預防等機制的結構化心理治療。
 - [[procedures/coronary-artery-bypass-graft|Coronary artery bypass graft, CABG (冠狀動脈繞道術)]] - 外科冠狀動脈血管再暢通術。
 - [[procedures/cpap|Continuous positive airway pressure, CPAP (連續正壓呼吸)]] - OSA 標準治療，也可作為非侵襲性正壓通氣模式。
+- [[procedures/damage-control-surgery|Damage control surgery (損傷控制手術)]] - 嚴重外傷或生理崩潰時先控制出血污染，延後 definitive repair。
 - [[procedures/dialysis-indications|Dialysis indications (透析適應症)]] - 急性透析常依 acidosis、electrolyte、intoxication、overload、uremia 等評估。
 - [[procedures/electroconvulsive-therapy|Electroconvulsive therapy, ECT (電痙攣治療)]] - 以麻醉下誘發治療性癲癇發作用於重度憂鬱、mania、catatonia、部分 psychosis 或緊急自殺風險。
 - [[procedures/endoscopic-band-ligation|Endoscopic band ligation (內視鏡靜脈曲張結紮)]] - 食道靜脈曲張出血與預防再出血的重要內視鏡治療。
 - [[procedures/endoscopic-sclerotherapy|Endoscopic sclerotherapy (內視鏡硬化劑注射)]] - 靜脈曲張或特定出血病灶的內視鏡注射治療。
+- [[procedures/enteral-nutrition|Enteral nutrition (腸道營養)]] - 經腸胃道給予營養，腸道可用時通常優先於 parenteral nutrition。
 - [[procedures/ercp|Endoscopic retrograde cholangiopancreatography, ERCP (內視鏡逆行性膽胰管攝影)]] - 診斷與治療膽胰管阻塞、結石或膽管炎的重要內視鏡程序。
 - [[procedures/exchange-transfusion|Exchange transfusion (換血治療)]] - 嚴重高膽紅素血症或溶血風險時移除 bilirubin 與抗體的高風險處置。
 - [[procedures/fontan-procedure|Fontan procedure (Fontan 手術)]] - 單心室循環的階段性手術終點，使體靜脈血被動進入肺循環。
@@ -38,14 +40,20 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/hemodialysis|Hemodialysis (血液透析)]] - 以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。
 - [[procedures/implantable-cardioverter-defibrillator|Implantable cardioverter-defibrillator, ICD (植入式心臟去顫器)]] - 預防猝死的植入式裝置。
 - [[procedures/kidney-transplantation|Kidney transplantation (腎臟移植)]] - ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。
+- [[procedures/laparoscopy|Laparoscopy (腹腔鏡)]] - 以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。
 - [[procedures/liver-transplantation|Liver transplantation (肝臟移植)]] - 末期肝病、部分 HCC 或肝衰竭的根本治療選項。
 - [[procedures/lumbar-puncture|Lumbar puncture, LP (腰椎穿刺)]] - 取得 cerebrospinal fluid 以診斷 CNS infection、subarachnoid hemorrhage、demyelinating disease 等；IICP 或 mass effect 時需先評估風險。
 - [[procedures/lumpectomy|Lumpectomy (乳房保留手術)]] - 乳癌局部治療之一，常需搭配放射治療。
+- [[procedures/lung-transplantation|Lung transplantation (肺臟移植)]] - 末期肺病的移植治療，需評估感染、惡性腫瘤、肺高壓與術後慢性排斥。
+- [[procedures/massive-transfusion-protocol|Massive transfusion protocol, MTP (大量輸血流程)]] - 大量出血時以固定比例血品快速補充紅血球、血漿、血小板並監測凝血與鈣。
 - [[procedures/mastectomy|Mastectomy (乳房切除術)]] - 乳癌手術方式之一，依病灶、風險與病人選擇決定範圍。
 - [[procedures/mechanical-ventilation|Mechanical ventilation (機械通氣)]] - 呼吸衰竭支持治療，設定與肺保護策略需依病況調整。
+- [[procedures/microvascular-decompression|Microvascular decompression, MVD (微血管減壓術)]] - 解除神經受血管壓迫的手術，常用於 trigeminal neuralgia。
 - [[procedures/noninvasive-ventilation|Noninvasive ventilation, NIV (非侵襲性通氣)]] - 以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。
+- [[procedures/organ-preservation|Organ preservation (器官保存)]] - 器官摘取後以低溫保存液與時間管理降低 ischemia-reperfusion injury。
 - [[procedures/pacemaker|Pacemaker (心律調節器)]] - 治療部分 bradyarrhythmia 或傳導阻滯。
 - [[procedures/paracentesis|Paracentesis (腹水穿刺)]] - 用於腹水診斷、SBP 評估與大量腹水治療。
+- [[procedures/parenteral-nutrition|Parenteral nutrition, PN/TPN (靜脈營養)]] - 經靜脈給予營養，適用於腸道不可用或需求無法由腸道滿足時，需監測感染、代謝與肝膽併發症。
 - [[procedures/percutaneous-coronary-intervention|Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)]] - 冠狀動脈再灌流與血管再暢通方法。
 - [[procedures/peritoneal-dialysis|Peritoneal dialysis (腹膜透析)]] - 利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。
 - [[procedures/phototherapy|Phototherapy (新生兒黃疸照光治療)]] - 以藍光將 unconjugated bilirubin 轉為可排泄異構物，降低 kernicterus 風險。
@@ -56,4 +64,6 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/stroke-thrombolysis|Stroke thrombolysis (中風血栓溶解治療)]] - 急性 ischemic stroke 在合適時間窗與條件下以 alteplase 等進行再灌流治療。
 - [[procedures/surfactant-therapy|Surfactant therapy (肺表面張力素治療)]] - 新生兒 RDS 可補充 exogenous surfactant 改善肺泡穩定與氧合。
 - [[procedures/thoracentesis|Thoracentesis (胸腔穿刺)]] - 肋膜積液診斷與治療程序。
+- [[procedures/thoracoscopy|Thoracoscopy / VATS (胸腔鏡)]] - 以胸腔鏡進行診斷、切片、肺部或縱膈手術。
 - [[procedures/transjugular-intrahepatic-portosystemic-shunt|Transjugular intrahepatic portosystemic shunt, TIPS (經頸靜脈肝內門體分流)]] - 以介入方式降低門脈壓，可用於選定的靜脈曲張出血或難治性腹水。
+- [[procedures/ventriculoperitoneal-shunt|Ventriculoperitoneal shunt, VP shunt (腦室腹腔分流術)]] - 將腦室 CSF 分流至腹腔以治療 hydrocephalus。

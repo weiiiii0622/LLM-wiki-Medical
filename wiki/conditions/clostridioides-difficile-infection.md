@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Clostridioides difficile infection (困難梭菌感染)'
   - 'Clostridioides difficile infection'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-抗生素後腸道菌相改變造成 toxin-mediated colitis。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗生素後腸道菌相改變造成 toxin-mediated colitis。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch10]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- ...道中,大部份可水解糖、蛋白質及產生外毒素。 - a. Clostridium perfringens (產氣莢膜梭菌): 能分解肌肉和結締組織中的糖類, 產生大量氣體造成氣腫,影響血液循環造成壞死 (gas gangrene)。 - b. Clostridium difficile:偽膜性大腸炎(Pseudomembranous colitis)的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metr Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...---------------------------------------------------------|-------------| | | (C) 不抽菸的年輕病人 (D) 營養不良 | | | (C) 13. | . 對於 Clostridium difficile colitis 敘述,下列何者錯誤? (A) 百分之 45 到 55 的 Clostridium difficile colitis 發生在外科的病患,尤其是接受一般外科和血管外科手術的機會最高 (B) Clostridium difficile 過度增生會造成不同程度的疾病,從沒有症狀的帶原者到 self-limited colitis,偽膜性大腸炎(pseudomembranous colitis),猛爆性大腸炎(fulminan Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...ium enema 檢查 (D) 安排緊急全大腸切除術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture 長出何種細菌,則會被認為是 antibiotic associated colitis? (A) Clostridium difficile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - 100(一)專醫五-11 | | (D) 22. 承上題,此時會選擇何種藥物治療? (A) 注射 clindamycin | 100(一)專醫五-12 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (C) 困難梭狀桿菌(Clostridium difficile) 毒素檢測為陽性 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) Clindamycin: - a. 抗菌範圍類似 Erythromycin,可抗 GPC - b. 還能抗厭氧菌,對膿瘍有不錯的穿透力,可治療咽喉附近的膿瘍(橫膈上);對 *Bacteroid fragilis* 效果不可信,因此腹腔內的膿瘍仍建議使用 Metronidazole(橫膈下)。 - c. 合併其他藥物治療嚴重的Streptococcal, clostridial 感染,可抑制其釋放出來的毒素。 - d. 會破壞大腸內正常菌群,使 Clostridium difficile 增生,引起偽膜性大腸炎 (Pseudomembranous colitis),須以口服 Metronidazole 或 Vancomycin 治療。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

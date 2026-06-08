@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Streptococcus pneumoniae infection (肺炎鏈球菌感染)'
   - 'Streptococcus pneumoniae infection'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (3) 移植六個月之後,移植受贈者的情況較穩定,感染就跟一般社會大眾一樣 (community-acquired),如流感、泌尿道感染及肺炎雙球菌肺炎。唯一伺機性 病毒感染為 herpes zoster;而 CMV 視網膜炎則較罕見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - | 病源菌 | 盛行率 | 對 Amoxicillin 抗藥性 | 自行緩解 | |--------------------------|-------|-------------------|------| | Streptococcus pneumoniae | 50% | 50% | 20% | | Hemophilia influenza | 25% | 40% | 40% | | M. catarrhalis | 12.5% | 100% | 80% | Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...治療 3 天之後,仍然持續發燒,於是改 用 amoxicillin 90 mg/kg/day,體溫隨即回復正常。下列四種細菌 之中,那一種最符合該男童中耳炎的治療反應? - (A) Staphylococcus aureus - (B) Streptococcus pneumoniae - (C) Haemophilus influenzae - (D) Moraxella catarrhalis - 【詳解】(A) 不是急性中耳炎常見的病原體故不選。(D) 因為對 amoxicillin 有 100% 的抗藥性也因此不選。Nelson's Textbook of Pediatrics 20th Edition 中提到 *H. influenza* 雖然抗藥性不比 *S. pneumoniae*,但是使用高劑量 am Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (B) 4. 一位 2 歲兒童因首次罹患左側中耳炎接受 amoxicillin 90 mg/kg/ day q8h 治療, 3 天後仍然持續發燒,並因耳膜破裂出現膿液, 膿液的檢查發現有革蘭氏陰性細菌。所發現的細菌最可能是下 列那一種? - (A) Streptococcus pneumoniae - (B) Haemophilus influenzae - (C) Pseudomonas aeruginosa - (D) Escherichia coli Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -74,7 +77,6 @@ tags:
 - ...--------------------------|------| | | 觸媒陰性 | Streptococcus 鏈球菌 | S. pyogenes, S. agalactiae, Enterococcus, S. viridan, S. pneumoniae | . 嗜氧 | | | 產孢子 | Bacillus 桿菌屬 | B. anthracis, B. cereus | 嗜氧 | | 革蘭氏陽性 | 座10丁 | Clostridium 梭狀桿菌屬 | C. botulinum, C. tetani, C. perfringens, C. difficile | 厭氧 | | 桿菌 GPB(B) | 小金畑子 | Corynebacterium diphtheria | ne ( 白 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 革蘭氏陽性球菌 (GPC = Gram positive cocci),由觸媒 (Catalase)的有無分為兩大類,葡萄球菌為觸媒 (Catalase)陽性、鏈球菌為觸媒 (Catalase)陰性;另外,球菌的群聚情形也可幫助鑑別,A 群、B 群、D 群鏈球菌皆是鏈狀排列 (in chain),肺炎雙球菌是兩個成對排在一起 (in pair),葡萄球菌則為群聚 (in cluster),整理如下表: Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...alactiae) | 鏈狀排列 (in chain) | | | | | 胸殊 (Catalase) 层 注 | γ溶血(無溶血) | D 群鏈球菌 (Enterococci) | | | | | | | α溶血(部分溶血=草綠色) | 肺炎雙球菌 | 兩個成對排在一起 (in pair) | | | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- \*S.P. = Streptococcus pneumoniae Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

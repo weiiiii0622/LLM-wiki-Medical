@@ -17,6 +17,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Non-small-cell lung cancer (非小細胞肺癌)'
   - 'Non-small-cell lung cancer'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...(A) 黃麴毒素(Aflatoxins)-肝癌(Hepatocellular carcinoma) | 醫五 -10 | | (B) 幽門 螺 旋 桿 菌(Helicobacter pylori)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人體重 70 公斤,工作時不慎發生火災,身體 | 102(一)專 | | 表 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) 152 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - # K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (A) 鱗狀細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
@@ -68,7 +71,6 @@ tags:
 - Barrett's esophagus (intestinal metaplasia) · Esophageal adenocarcinoma · Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - (A) 胃腺癌 (gastric adenocarcinoma) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - (C) 食道鱗狀細胞癌 (esophageal squamous cell carcinoma) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- ...解】(A)加上 aspirin, 腸胃出血風險增加;(B)會;(D)某些 NSAID (diclofenac、ibuprofen)會增加心血管風險,某些(naproxen) 不會。 (B) 15. 下列何者不會增加胃腺癌 (gastric adenocarcinoma) 的風險? 102(二)專 (A) 幽門螺旋桿菌感染 醫三-20 (B) O 型血型 (C) 胃部分切除術後 20 年 (D) 惡性貧血 【詳解】部分研究認為 A 型血型較 O 型血型容易得胃癌; O 型血 型較 A 型血型容易得胃潰瘍,但仍有爭議。 [記憶] cAncer, U(O)lcer (B) 16. 一位 55 歲男性主訴解黑便 3 天,內視鏡檢查發現為十二指腸潰瘍, 102(一)專 除了制酸藥劑 Omeprazole 外, Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 
 ## Clinical Caveats
 

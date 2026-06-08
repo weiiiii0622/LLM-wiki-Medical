@@ -17,6 +17,8 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Calcium homeostasis (鈣離子恆定)'
   - 'Calcium homeostasis'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,13 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- ...k sign:手指輕敲耳前的顏面神經分支會引起同側肌肉抽動;Trousseau sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (B) 缺乏鋅(zinc)會造成禿頭(alopecia) (C) 接受過胃切除的病患容易缺乏鐵(iron) (D) 缺乏 vitamin D 會造成骨質疏鬆(osteoporosis) Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 3. Pseudohypoparathyroidism: PTH 分泌正常但 PTH receptor (bone、kidney) 發生缺陷造成 PTH 抗性。病人有矮胖、圓臉、皮下鈣化、第四指骨短、智能不足,特稱為 Albright's hereditary osteodystrophy (AHO)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -67,8 +73,6 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - (B) 使用維他命 D3 (vitamin D3) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...139, K 5.5, Cl 103, Ca 1.95, P 8.9 mg/dL;有關此病人的處置下列何者較為適當? (A) 這次可能是急性的腎功能惡化,觀察2個月後再測定腎功能 (B) 病人維生素 D 製造不良,可先用 1-alpha-vitamin D,控制磷離子 (C) 予胰島素降低血鉀濃度 (D) 開始透析治療 (B) 8. 一位 55 歲男性, 尿素氮 (BUN) 130 mg/dL, 肌酐 (creatinine) 為 99(二)專 12 mg/dL, 兩邊腎臟在超音波呈現萎縮至 6.5 公分, 他有慢性肺氣腫, 醫三-22 曾經作過胃切除,有一長疤自上腹至下腹。他最好選擇那一種長期 透析療法? (A) 間歇性腹膜透析 (intermittent peritoneal dia Source: [[sources/med3-book3-ch06|己、透析治療]].
 - A. 鈣離子平衡 I 一副甲狀腺素 (Parathyroid hormone)、維他命 D (Vit. D)、抑鈣素 (Calcitonin) Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- 鈣、磷的平衡有了生理的基礎搭配圖像會很好記憶,鈣磷由腸胃道吸收至血中→血中的鈣磷儲存於骨頭、血中多餘的鈣磷由腎臟排泄。Vit. D、PTH皆可以升血鈣,Vit. D增加腸胃吸收而來,PTH增加骨頭溶解而來。[Ref. LANGE pharmacology, Fig Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- 1. 副甲狀腺素 (PTH): [重點:低鈣時→副甲狀腺被刺激→溶解骨頭以升鈣] - (1) 要先知道骨頭是由磷酸鈣構成,要升鈣,先從骨頭搬出磷、鈣,再將磷由腎臟排出、 且抑制鈣由腎排泄,因而藉此升鈣;否則溶解出磷、鈣後,不將磷由腎臟排出,又 會等比例沉澱回骨頭。 - (2) 因此生理上的 PTH 除了會促進骨溶蝕出鈣、磷,還會抑制腎排鈣、促進腎排磷,造成高血鈣、低血磷; - (3) 副甲狀腺亢進時分泌的 PTH 劑量較大、且持續分泌,因而促進骨溶蝕造成高血鈣、 骨質疏鬆;但若較小劑量、脈衝方式分泌的 PTH,反而會促進成骨作用,例如用來 治療嚴重骨鬆症的每天皮下一針 PTH。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 
 ## Clinical Caveats
 

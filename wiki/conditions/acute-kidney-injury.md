@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch03]]"
 aliases:
   - 'Acute kidney injury, AKI (急性腎損傷)'
   - 'Acute kidney injury, AKI'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,14 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch03]]
 
 ## Key Details From Sources
 
+- 【詳解】(A) 電流熱效應為 I2Rt(電流安培數平方 × 電阻 × 受電時間),電阻越高產生的熱能越高,對組織的傷害越高;(C) 肌球蛋白會對腎小管的表皮細胞造成直接性的傷害,且肌球蛋白在體液不足或酸性環境之下,易在腎小管中形成結晶阻塞腎小管,因此橫紋肌溶解症容易造成急性腎衰竭,大量輸液目標為 3mL/kg/hr;(D) 在 electrically-induced ocular injury 中 cataract 的機率只有 1~6%,總體不可能到 30%。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- ...(B) 15. 嚴重多重外傷病患經積極治療及手術後,如能夠存活超過一星 | 105(二)專 | | 期,最常見之晚期死亡原因為何? | 醫五-4 | | (A) 嚴重頭部外傷 (B) 多重器官衰竭 | | | (C) 出血性休克 (D) 急性腎衰竭 | | | (A) 16. 下列關於癌症和它的腫瘤標記(tumor markers)之配對,何者 | 105(二)專 | | 錯誤? | 醫五-9 | | (A) carbohydrate antigen 19-9 (CA19-9) and ovarian cancer | | | (D) 1.1 C. (AED) 11 4 11.1 | | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- 2. 膠體溶液(Colloid): Hetastarch、Dextran、Albumin、FFP等,一般認為膠體溶液 相較於晶體溶液更能擴張血管內容積,留存在血管內的時間較久,也較能抵抗血管 通透性增加所導致的異常。但價格較高,且後來一些研究發現輸膠體溶液似乎較易 急性腎衰竭及死亡率上升。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 5. 實驗室檢查也會發現白血球升高、肌酸酵素 (creatinine kinase) 升高、肝指數升高、 肌蛋白尿、嚴重甚至急性腎衰竭。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - V. 腎衰竭 133 - A. 急性腎衰竭 133 - B. 慢性腎衰竭 135 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -68,9 +75,6 @@ tags:
 - (1) 臨床特徵:急性腎損傷;全身表現:高血壓、水腫;尿液表現:寡尿(400 ml/day of urine)、血尿(Macroscopic hematuria)。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ## 2. Myoglobin 或 Hemoglobulin 引起的 AKI: Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - (2) 横紋肌溶解症乃藉由 Myoglobin 引起 AKI, 血管內溶血乃藉由 Hemoglobulin 引起 AKI。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (A) 急性腎衰竭 (acute renal failure) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- A. 急性腎衰竭和慢性腎衰竭的鑑別診斷 94 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ## A. 急性腎衰竭和慢性腎衰竭的鑑別診斷 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

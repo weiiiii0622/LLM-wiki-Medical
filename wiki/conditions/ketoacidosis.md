@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Ketoacidosis (酮酸中毒)'
   - 'Ketoacidosis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-脂肪分解產生 ketone body，可見於糖尿病、酒精或飢餓狀態。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+脂肪分解產生 ketone body，可見於糖尿病、酒精或飢餓狀態。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...O3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabetic ketoacidosis, Propylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 3. 其它系統性疾病:如血管炎、結締組織疾病、糖尿病酮酸中毒…等。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 糖尿病引起酮酸血症 (Diabetic ketoacidosis, DKA) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 臨床表現: type 2 diabetes mellitus 血糖上升值不若 type 1 diabetes mellitus 嚴重,故從病發到診斷所需時間較長。病人亦會發生糖尿病酮酸中毒,但大部分為酮尿(ketonuria)。另外,病人頸部或腋下會有黑色棘皮症(acanthosis nigricans),此為對胰島素產生抗性在皮膚的表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

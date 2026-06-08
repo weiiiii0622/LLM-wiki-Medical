@@ -17,6 +17,10 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Monoamine hypothesis (單胺假說)'
   - 'Monoamine hypothesis'
@@ -31,7 +35,7 @@ tags:
 
 ## Summary
 
-以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +52,18 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - (7) 芳香族的氨基酸也十分重要,如 Tyrosine 由 Phenylalanine 合成而來,可進一步合成 Dopamine、norepinephrine,epinephrine;Tryptophan 可合成 serotonin,Melatonin。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (D) 口服 dopamine agonist 如 bromocriptine,可使 80% 泌乳激素瘤 (prolactinoma) 縮小 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...晶體溶液),每半小時 $500\sim1,000~\text{mL}$ ,以達到目標,假使患者是使用呼吸器,則目標為 $12\sim15~\text{mmHg}$ 。 - b. 平均動脈壓(MAP) > 65 mmHg: 升壓第一線藥物為 Norepinephrine(35~90 mcg/min),第二線為 Vasopressin(劑量上限為 0.03 U/min),此時可考慮加上可同時考慮加上類固醇 Hydrocortisone(200 mg/day)。第三線藥物才是 Epinephrine(25~50 mcg/min)。 - c. 中心靜脈的血氧飽和度( $ScvO_2$ ) > 70%:假使 $ScvO_2$ 5 $\mu$ g/kg/min 或是 Epinephrine/Norepineph Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (2) 低體溫初期周邊交感神經會反應,增加 norepinephrine 分泌,血管收縮和血壓上 升,如果病患本身有休克,會使得 ischemia 更嚴重。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 是提升何種神經傳導物質在腦中的濃度? - (A) acetylcholine - (B) norepinephrine - (C) serotonin - (D) dopamine Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...(B) 尿失禁(C) 單側無力(D) 步態不穩 | 101( 二 ) 專醫四 -77 | | (C) 22. 一般認為 Alzheimer's disease 主要是因何種神經傳導物質(neurotransmitter)減少所致? (A) dopamine (B) serotonin (C) acetylcholine | 100(一)專醫四-48 | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (1) 不動(= dopamine 太少→減少抑制 GABAergic 神經元→導致 GABAergic 神經元抑制動作的效果增加→不動),如巴金森氏症的動作緩慢,要給 dopamine agonist 治療; Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -64,11 +77,6 @@ tags:
 - ...---------|------------------| | TCA (tri-cyclic antidepressant) | (-)NE, 5-HT 回收 | 心律不整、口乾、嗜睡、 | | | | 姿態性低血壓 | | MAOI (monoamine oxidase inhibitor) | (-)NE, 5-HT, DA 代謝 | 不可吃含有 tyramine 類 | | | | 的食物如乳酪、起士, | | | | 可能會引起高血壓危機 | | RIMA (reversible inhibitor of | 三、关:温·温·朴()1/4/0 | 飲食方面較沒有限制, | | monoamine oxidase A) | 可逆選擇性 (-)MAO A | 副作用比 MAOI 少 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 註: NE: Norepinephrine、5-HT: Serotonin、DA: Dopamine Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 2. 主要相關的神經傳導物質包括 serotonin、norepinephrine、GABA 等。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 就目前而言,已經證實強迫症的產生與 serotonin dysregulation 有關。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 【詳解】強迫症目前認為是和血清素失調(serotonin dysregulation)有關,因此藥物治療以 SSRI 類的抗憂鬱劑為主,也可以輔以 clonazepam 治療。心理治療方面是以認知行為治療為主。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 1. 傳統性抗精神病藥物 (typical antipsychotics): 屬於 dopamine receptor antagonist,常見的如 chlorpromazine、thioridazine、fluphenazine 與 haloperidol 等。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 2. 非傳統性抗精神病藥物(atypical antipsychotics):屬於 serotonin-dopamine antagonist,除了神經學副作用比傳統性抗精神病藥物少以外,對於思覺失調症病人的負性症狀如社交退縮、情感平淡、沒有動力(anhedonia)、言語貧乏與認知功能障礙也有改善之效果,常見的如 risperidone、olanzapine、quetiapine、clozapine、ziprasidone等。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 傳統性抗精神病藥物約對於 75% 的病人有效,通常病人的激躁情形首先改善,接下來是幻聽、妄想等正性症狀。主要的作用機轉是透過對腦中的多巴胺受器拮抗劑(dopamine receptor antagonist),而依照對多巴胺受器的親和力強度不同,又可以再分為: Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 
 ## Clinical Caveats
 

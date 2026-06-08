@@ -17,6 +17,8 @@ sources:
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Syncope (暈厥)'
   - 'Syncope'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,13 @@ tags:
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch14]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- (C) 14.50 歲的李先生罹患高血壓 10 年,並未規則服藥。因在刷牙時突然頭痛欲裂、嘔吐並短暫暈厥(syncope),而被送到急診室;醫師檢查結果如下: GCS 昏迷指數 E4M6V5;無肢體乏力;頸部僵硬;血壓: 140/95 mmHg,心跳: 80 / 分;電腦斷層檢查結果如圖;請問下列何項診斷最為可能? Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
+- 2. 伴隨著嘔吐、昏厥(syncope)、脖子痛和畏光。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - | (A) | 5.33 歲健康女性,突發劇烈頭痛及暈厥(syncope),病人清醒後有頭痛、嘔吐及頸部酸痛現象,此時最優先的檢查為何? (A) 不打顯影劑的腦部電腦斷層 (B) 打顯影劑的腦部電腦斷層 (C) 打顯影劑的腦部磁振造影 (D) 血管攝影 【詳解】當然是先做不打顯影劑的頭部電腦斷層,先搶時間診斷是否為顱內出血,如 SAH。然後再適時選擇下一步的檢查。 | 108( 二 ) 專醫四 -77 | |-----|------------------------------------ Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - 2. 癲癇 (epilepsy) 與昏厥 (syncope) 鑑別診斷: Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - | 特徵 | 癲癇 (Epilepsy) | 昏厥 (Syncope) | | |--------------------------------------------|------------------|-----------------|--| | · 發作導因 | 無 | 情緒壓力、Valsalva、 | | | 按TF等凶 | ///// | 姿態性低血壓、心臟疾病 | | | 發作前的症狀 | 無、前兆 (Aura 如 | 疲累、噁心、 | | | (1) 10 10 10 10 10 1 Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -67,8 +73,6 @@ tags:
 - (C) 6. 一位 56 歲女性,具長期高血壓病史但未接受規則性治療,因突發撕裂性劇烈胸痛、呼吸不順、冒冷汗及暈厥(syncope),被家人送至急診,血壓 150/100 mmHg,心跳 110/min,有三度(grade III/VI)收縮期及短暫舒張期心雜音。胸部 X 光顯示左側肋膜積液,縱膈腔稍大。心電圖在導程 II、III、aVF 顯示 ST 波段上升 2 mm 及左心室肥大。下列那一項處置較適當? Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 - (C) 3. 一位 56 歲女性,由美國紐約返回臺北的飛機途中發生暈厥(syncope), 下了飛機後因呼吸不順至急診就診,她以前不曾發生類似狀況,平常 亦無特殊疾病,身體檢查發現血壓 120/70 mmHg,心跳 126 次 / 分, 呼吸 28 次 / 分,體溫 37.2℃,呼吸音及心音皆正常,四肢活動自如, 無腫脹現象,在給予 40% 氧氣五分鐘後,動脈氣體分析為 pH=7.48, PaO2=70 mmHg, PaCO2=28 mmHg, O2 saturation=92%, 此時應安排 下列那一項檢查最適當? Source: [[sources/med3-book1-ch16|壬、肺血管栓塞]].
 - 2. 如果神經反射不當、過度抑制心臟會造成 neurally-mediated syncope(或稱為 reflex syncope);如果是心臟本身的問題造成突發腦部灌流不足,則稱 cardiac syncope;若是體液不足或自主神經失能,則會導致站立後發生 orthostatic syncope。 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
-- 3. 久站後的 syncope 可能是 vasovagal 或 orthostatic;突然站起來或變換姿勢後發生則較像 是 orthostatic syncope。 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
-- ...eflex) | 抑制心臟,造成心跳減慢 | 激→常伴隨噁心、冷汗、腹 | 站等情形下發生 | | (最常見) | 或暫時停止; Reflex | 痛等副交感症狀) | | | [用 tilt table 確定診斷] | mediated syncope 分三 | carotid sinus hypersensitivity | 轉頭或壓到 carotid | | | 種,如右列 | | sinus 後發作 | | | | Situational | 某動作(排尿/飯後/ | | | | | 咳嗽/抽血)後引發 | | Cardiac | 心臟本身疾病造成暫時 | 心律不整 ( 發作突然、快速恢 | 進行活動時發生 | | [針對心臟完整評估] | 腦灌流減少 | 復);肥厚性心肌病變 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
 
 ## Clinical Caveats
 

@@ -28,6 +28,9 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Lymphoma (淋巴瘤)'
   - 'Lymphoma'
@@ -42,7 +45,7 @@ tags:
 
 ## Summary
 
-淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +73,17 @@ tags:
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...) 將骨囊腫分離完整切除,如果不完整切除會有 20~50% 的復發率。 - (c) 約70~90% 可獲控制,需合併放射線治療。 - (3) 骨髓瘤 (myeloma)。 - (4) 神經纖維瘤 (neurofibroma)。 - (5) 淋巴瘤(lymphoma)。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- ...專 | | | (A) intramedullary spinal cord tumor 約占所有 spinal | tumor的 5% 醫五-46 | | | (B) primary intramedullary spinal cord lymphoma 相當 | 2 罕見 | | | (C) 最常見的 intramedullary spinal cord tumor 為轉移 | 9性腫瘤 | | | (D) 黏液乳突狀室管膜瘤 (myxopapillary ependym | oma) 較常長 | | | 在腰椎處 | | | | 【詳解】最常見為星狀細胞瘤(astrocytoma)。 | | | (C) | ) 5. 有關頸椎退化性疾病之手術敘述,下列何者錯誤? | 107(二)專 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- 4. Lymphomas and hematopoietic neoplasms • Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...檢查在 pituitary fossa 發現一直徑約 2 公 | 103(二)專 | | 分之腫瘤,向上壓迫 optic chiasma,注射顯影劑後呈現均匀且明 | 醫五-16 | | 顯之顯影,請問最可能之診斷為? | | | (A) lymphoma | | | (B) pituitary macroadenoma | | | (C) meningioma | | | (D) germ cell tumor | | Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 1. 愛滋病毒感染和器官移植後,長期接受免疫抑制劑治療的病人會 105(二)專 增加下列何種腦腫瘤的罹患率? 醫四-56 - (A) 原發性中樞神經淋巴瘤(primary CNS lymphoma) - (B) 腦膜瘤 (meningioma) - (C) 室管膜瘤 (ependymoma) - (D) 顱咽管瘤 (craniopharyngioma) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (D) 2. 下列何種腦腫瘤使用皮質類固醇(corticosteroid)治療後,雖然 105(-)專會減輕腦水腫(brain edema),但也會使腦腫瘤消退(tumor regression)而影響正確的組織細胞學的診斷(histological diagnosis)? - (A) 多形性膠質母細胞瘤 (glioblastoma multiforme) - (B) 室管膜瘤 (ependymoma) - (C) 顱咽管瘤 (craniopharyngioma) - (D) 原發性中樞神經淋巴瘤 (primary CNS lymphoma) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 【詳解】CNS lymphoma 對類固醇的反應很好。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -86,11 +97,6 @@ tags:
 - (B) 是皮膚的 T-cell 淋巴瘤 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 【詳解】除了乾癬,異位性皮膚炎、藥物、白血病、淋巴瘤、 魚鱗癬都有可能會以紅皮症表現,除了會廣泛性脫屑外,表面 體溫上升引起血流增加,造成最後水分蒸發喪失、體溫下降; 且新陳代謝上升,心跳速率上升,嚴重會造成心臟衰竭(high cardiac output heart failure);落屑也會造成蛋白質流失和血液中 白蛋白下降。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - (C) 皮膚 T 細胞淋巴癌 (cutaneous T cell lymphoma) Source: [[sources/med4-book2-ch11|子、其 他]].
-- (1) 小兒最常見腫瘤:leukemia, lymphoma, CNS tumor, (neuroblastoma)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 1. 感染性單核球增多症 (infectious mononucleosis): - (1) 症狀: - a. 典型表現有三大特徵:疲倦(fatigue)、咽喉發炎(pharyngitis)以及全身 性淋巴病變 (generalized lymphadenopathy)。—開始時像感冒症狀,發燒、 淋巴結腫大(由其是頸部、鼠蹊部)、化膿性扁桃腺發炎(紅腫的扁桃腺上 覆蓋一層像奶油的膿為其典型的表現)。臨床上感染性單核球增多症表現與 年紀有關:幼小的病人初次感染 EBV,其臨床表現可以是無症狀甚至症狀 輕微,有時候不容易與其他病毒感染作區別。然而,初次感染 EBV 的病人 (adolescents or adult), 30~50%的病人會有三大典型症狀。但這非表示感染 性單核球增生症不會發生在幼小病 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 3. 其他疾病像是 Burkitt's lymphoma, NPC, hairy leukoplakia 也都與 EBV 感染有關。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- III. 淋巴瘤(Lymphoma) 378 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (4) 相較於 non-Hodgkin lymphoma,Hodgkin disease 發生病程較為緩慢。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 
 ## Clinical Caveats
 

@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book4-ch08]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Listeriosis (李斯特菌感染)'
   - 'Listeriosis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-老人、孕婦、免疫不全者可有菌血症或腦膜炎，常以 ampicillin 為核心治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+老人、孕婦、免疫不全者可有菌血症或腦膜炎，常以 ampicillin 為核心治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med3-book4-ch08]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - | 新生兒 | B群鏈球菌、E. coli / 革蘭氏陰性桿菌、Listeria monocytogenes | | | |--------|---------------------------------------------------------------------------------------------------------------|--|--| | 1~3 個月 | B 群鏈球菌、E. coli 、Listeria monocytogenes、肺炎鏈球菌、H. influenzaet Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (1) 在抗生素使用上,依照 CSF gram stain 檢查後使用經驗性抗生素:3rd generation Cephalosporin(ceftriaxone、cefotaxime) + Vancomycin。若病人小於三個月, 須加上 Ampicillin 以涵蓋 Listeria monocytogenes。依照培養結果再做出調整。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (3) 治療時間: - a. 腦膜炎雙球菌: 7~10 天 - b. 肺炎鏈球菌、H. influenzae type b: 10~14 天 - c. B 群鏈球菌、Listeria monocytogenes: 14~21 天 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

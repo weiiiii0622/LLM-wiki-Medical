@@ -13,6 +13,9 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch19]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Ventilation-perfusion matching, V/Q (通氣灌流匹配)'
   - 'Ventilation-perfusion matching, V/Q'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,17 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch19]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- 2. 腦室腹腔分流(ventriculoperitoneal shunt)。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
+- 3. 腦室心房分流(ventriculo-atrial shunt)。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
+- 【詳解】NPH 的三個典型症狀中,尿失禁和步態不穩在做 VP shunt 以後可以明顯獲得症狀改善,失智方面由於牽涉到組織病理變化 (neurodegenerative),其症狀改善相較於另外兩者較不顯著。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
+- 4. 診斷:血中 d-dimer 可幫助排除(high sensitivity, low specificity),確診須靠 contrast-CT、血管攝影、V/Q scan。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- (3) Hunt and Hess Grade 4~5 的水腦症病患需接受 ventriculostomy 作造口引流 CSF 或是 shunt。80% 的病患有機會可獲得改善。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - ...| Frontotemporal Dementia | Pick (Tau) protein | 失智+步態不穩+人格異常 | | | NPH (Communicating h.) | CSF 回收↓ | 失智+步態不穩+尿失禁 | VP shunt | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (3) 治療:唯一可治癒的退化性疾病,可施行腦室腹膜分流術(Ventricular-Peritoneum shunt, VP shunt)而使症狀改善。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 2. 治療(Ref. Taiwan guidelines for the management of stroke 2008,胡漢華,台灣腦中風學會): - (1) 一般採保守療法 - a. 血壓的控制目前尚無定論,但一般建議 SBP > 200 或有 IICP 且 SBP > 180 者, 需積極以靜脈持續點滴控制血壓;若 SBP > 180 仍須適度降壓。(IIb、Level C) 一般而言,目標是 SBP 50 cc 且 GCS 30 cc 且 GCS 3 cm 或> 30 cc | | 位 直 | (除非產生水腦,要做 VP shunt) | 且壓迫腦幹或造成水腦者要開 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -56,8 +67,6 @@ tags:
 - ...尖、指甲床、四肢) | | 症狀 | 會喘、四肢溫暖、clubbing fingers、動脈血氧 (ABG) 低 | 不會喘、四肢冷、動脈血氧 (ABG) 正常 | | 病因 | 動脈氧不足:高緯度,肺部疾病 VQ mismatch,解剖 shunt ( 發紺型先天性 心臟病,如 Fallot 四重症等 ) 血紅素異常:變性血紅素 | | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - ...\times Pa_{CO2} = 150$ | − 1.25×Pa CO2 | | $PA_{O2} - Pa_{O2}$ | PA 02 — Pa 02 正常人 (Hypovia) | A-a gradient 異常 | 不可校正→ Shunt | 局部肺塌陷、肺炎 | | (Hypoxia) | A-a gradient 美吊 | 可校正→ V/Q mismatch | 最廣泛 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - ...併呼吸衰竭 106(一)專 (B) 3. COPD 患者休息狀態時,動脈血已出現缺氧現象,該病患較不可能 因 COPD 而出現下列那一項呼吸生理的障礙? 醫三-46 (A) 第一秒吐氣量 (FEV,) 低於預期值的 50% (B) 分流 (shunt) 增加 (C) 換氣 / 灌流失衡 (ventilation/perfusion mismatching) (D) 第一秒吐氣量(FEV1)低於預期值的25%時,可能同時伴有動 脈血中二氧化碳升高(PaCO,) 【詳解】(B)分流(shunt)增加發生於肺炎等無法進行氧氣交換的 區域。 105(二)專 (D) 4. 下列有關呼吸衰竭 (respiratory failure) 之敘述,何者錯誤? (A) 一般以動脈血中的氣體(如氧氣、 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...義:肺功能檢查有不可逆的氣道阻塞證據,post bronchodilator FEV1/FVC 3月/1年*2年 | 病理上:小氣道擴張,肺泡壁破壞 | | حلالتك | Severe hypoxemia, Hypercapnia, V/Q mismatch | Mild hypoxemia | | 症狀 | Pul. HTN, Cor pulmonale (EKG: RVH) | DLCO ↓ | | 呼吸音 | Wheezing | Diminished breath sounds | | 口訣 | Blue bloater(Blue 是因為較 cyanotic, Bloater | Pink puffer (Pink 是因為 Non-cyanotic, | | | Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- ...者錯誤? (A) triglyceride >110 mg/dL (B) lymphangioleiomyomatosis 可造成乳糜胸 (C) 大量乳糜胸造成症狀時病患應長期引流 (D) 無法控制時可用 pleuroperitoneal shunt 治療 | 101(二)專醫三-47 | | (A) | 11. 一位 50 歲男性患者,因持續性左胸痛 2 天而前來就診,其左胸痛隨患者深吸氣而更痛,患者最有可能罹患下列何種疾病?(A) 結核性肋膜炎(C) 撕裂性主動脈瘤(D) 間質性肺病 | 101(一)專醫三-41 | | (A) | 12. 一位 60 歲男性病人,因發燒,右側胸痛而住院。胸部 X 光顯示有少量右側肋膜腔積水,抽水檢查顯示其為 exudate,WBC:8,800 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 
 ## Clinical Caveats
 

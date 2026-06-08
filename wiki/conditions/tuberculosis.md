@@ -44,6 +44,10 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Tuberculosis (結核病)'
   - 'Tuberculosis'
@@ -58,7 +62,7 @@ tags:
 
 ## Summary
 
-分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +106,17 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch15]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- ...lcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (D) 結核瘤 (tuberculoma) Source: [[sources/med5-book1-ch15|己、腦內出血]].
+- 3. 脊髓內腫瘤 (intramedullary tumor):5% - (1) 罕見,最常見為星狀細胞瘤(astrocytoma)、其次為室管膜瘤(ependymoma)。 其它包括血管細胞瘤、脂肪瘤、類上皮瘤、結核瘤及海綿狀血管瘤都有被報 告過。 - (2) 臨床症狀:類似於 central cord syndrome。 - (3) 影像檢查:脊髓攝影可以確定脊髓內有無病灶。但 MRI 可提供較多資訊,區分 腫瘤和空洞症,了解病灶範圍。 - (4) 處置:脊椎縱切片或針刺法得到組織切片,手術切除、放射線治療。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (A) 結核菌腦膜炎的脊髓液外觀經常是混濁的,細胞數通常為每 毫升 25~500 顆,以嗜中性白血球為主,脊髓液中葡萄糖量 減少,但是蛋白質量增加 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (B) 結核菌腦膜炎從感染到發作症狀,通常只有幾個小時 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (D) 10. 下列那些腦膜炎,如果沒有及早治療,容易發生顱底腦膜嚴重滲 105(ニ)専出性發炎變化(basilar meningeal exduate),導致次發性腦血管梗塞(cerebral infarction)?①腮腺炎病毒腦膜炎(mumps)②巨細胞病毒性腦膜炎(CMV)③結核菌腦膜炎④隱球菌腦膜炎(A)①②(B)②③(C)①④(D)③④ Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -119,10 +131,6 @@ tags:
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - B. 病因:在從前以 *Haemophilus influenza* type b (Hib) 最常見,隨著疫苗的普及 Hib 感染比率下降許多。現在較常見的病原體為 group A streptococci、pneumococci、EBV。另外,文獻紀載有少數的病人由 *Corynebacterium diphtheria* 或 *Mycobacterium tuberculosis* 感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) TB:痰液收集做 Acid-fast stain、培養或是 PPD test (tuberculosis skin test)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (A) 結核病(tuberculosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- (C) 27. 下列有關病因與「關節炎分類」的配對中,何者最正確? 95(二)專 (A) Mycobacterium tuberculosis arthritis — chronic polyarticular arthritis 內 1-24 (B) Calcium pyrophosphate dihydrate arthritis — acute polyarticular arthritis (C) Staphylococcus aureus arthritis — acute monoarticular arthritis (D) Borrelia burgdorfe Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- (2) TNF: Etanercept (Enbrel® 恩博)、Adalimumab (Humira® 復邁)、Golimumab (Symponi® 欣普尼)、Certolizumab (Cimzia® 欣膝亞): - a. 與 $TNF-\alpha$ 結合,抑制其引發的發炎反應,但此藥最大的擔憂即是結核菌的復發或感染;因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則無法被活化,便較無法攻擊細胞內的病原體。另外也可能造成 HBV reactivation。 - b. 可能增加 Lymphoma 的發生、造成 ANA、anti-DNA 自體抗體的產生,還可能造成乾癬及中樞神經去髓鞘疾病。(Harrison 2090) Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 

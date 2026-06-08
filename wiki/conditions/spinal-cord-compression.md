@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Malignant spinal cord compression (惡性脊髓壓迫)'
   - 'Malignant spinal cord compression'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,15 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- 1. 硬膜外腫瘤 (extradural spinal cord tumor):55% - (1) 轉移癌 (metastasis): - a. 佔硬膜外腫瘤最大宗,多為蝕骨性(osteolytic)。 - b. 原發位置:乳房、肺、前列腺或腎臟。 - c. 轉移位置: 最常轉移至胸椎,但病灶往往不只侷限於一部位。 - d. 臨床表現: - (a) 疼痛:骨頭痛及觸痛,為最常見症狀。 - (b) 運動或自主神經功能異常:第二常見,會有 urinary urgency 和 retention。 - (c) 感覺異常。 - (d) 脊椎骨被侵蝕導致病理性骨折、高血鈣。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- | (B) 18. | 下列何者是最常見之脊椎硬脊膜上轉移(spinal epidural metastasis) | 105(二)專 | |---------|-----------------------------------------------------|---------| | | 初期症狀? | 醫五 -13 | | | (A) 神經根病變(radiculopathy) | | | | (B) 局部疼痛 (local pain) | | | | (C) 尿液滯留 (urinary retension) | | | | (D)下肢 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- ...ologic fracture)的敘述,何者錯誤? | 104(二)專 | | (A) 多為轉移性腫瘤(metastatic tumor)造成 | 醫五 -12 | | (B) 常見的腫瘤來源為肺癌、乳癌等 | | | (C) 判斷腫瘤對於脊髓壓迫的嚴重程度時,CT 比 MRI 更適合 | | | (D) 當病患下肢日漸無力或有大小便失禁等症狀時應考慮手術 | | | 減壓 | | | (C) 25. 有關脊椎損傷,下列何者錯誤? | 104(二)專 | | (A) 只要下肢仍有感覺就屬於不完全性的損傷 | 醫五 -75 | | (B) Central cord syndrome 指病人理學檢查時上肢比下肢無力 | | | (C) Brown-Séquard syndrome 指 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (B) 6. 大多數的癌症會經由淋巴管轉移(lymphatic metastasis),因此淋巴結廓清手術是惡性腫瘤手術的重要步驟。下列何種惡性腫瘤因很少有淋巴結轉移(25 \times 60 + 40 \times 18 = 2,220 \text{ kcal}$ 。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (C) Metastasis with peripheral brain tissue edema Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (C) 轉移 (metastasis) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - 【詳解】(C) metastasis 會有 ring enhancement and perifocal edema。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -61,7 +69,6 @@ tags:
 - (B) history of low back pain in old patients Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - 【詳解】(B) Sarcoma 的 single lung metastasis 可考慮開刀治療。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - ...管母細胞瘤 (Cerebellar hemangioblastoma) | 100(二)專醫三-49 | | (D) | 4. 下列有關癌症的遠處效應(remote effects of neoplasm),何者正確? (A) 是癌症轉移(metastasis)產生 (B) 有些是因為 IgE 自體免疫抗體造成 (C) 只會產生中樞神經病變 (D) 肺癌是常見引起該效應的癌症之一 【詳解】(A) 癌症分泌的 peptide 產生的一些生理反應;(C) 不止中樞神經病變;雖然 (B) 不確定,但 (D) 一定對。 | 95(二)專內1-50 | | (D) | 5. 下列何種癌症較不會發生「腫瘤相關性血糖過低症」(tumorassociated hypoglycemia)? (A) 肝癌(he Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- (B) 癌細胞骨轉移 (bone metastasis) Source: [[sources/med3-book4-ch23|己、其 他]].
 
 ## Clinical Caveats
 
@@ -70,7 +77,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/spinal-tumor|Spinal tumor / spinal cord tumor (脊椎與脊髓腫瘤)]]
 
 ## Follow-up
 

@@ -35,6 +35,7 @@ sources:
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'HIV infection (人類免疫不全病毒感染)'
   - 'HIV infection'
@@ -49,7 +50,7 @@ tags:
 
 ## Summary
 
-HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +85,13 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch04]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...髓炎歸類為無法控制的感染,故為禁忌症。 | | | (B) 19 | . 下列有關主要組織相容性複合體(major histocompatibility)之敘 | 99(二)專 | | | 述,何者錯誤? | 醫五-3 | | | (A) CD4+T細胞可辨認結合第二類 MHC 分子的胜肽 | | | | (B) CD8+T細胞為第二類 MHC 限制性 | | | | (C) MHC 分子的生理功能是將胜肽呈獻給 T 細胞 | | | | (D) 人類的 MHC 分子稱為人類白血球抗原(HLA) | | | (C) 20 | 下列有關各種較易發生於器官移植病患之惡性腫瘤的敘述,何者 | 99(二)專 | | | 錯誤? | 醫五-18 | | | (A) 較易發生 malign Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...emalantibody abs orption | | 用 | 途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、治療後仍呈陽性 | | 偽 | 陽性 | IV drug use, SLE, Malaris, HIV inf, viral ill 等 | 正常人約 1~2% 偽陽性→試驗不用於篩檢,用於確認 | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ...-------------|------------------------------------------------------------------------------|--|--|--|--| | Infection | HIV, sepsis, Pneumonia | | | | | | W ithdrawal | Alcohol, barbiturate, sedative-hypnotic | | | | | | Acute metabolic | Acidosis, alkalosis, electrolyte disturbance, hepatic failure, renal failure | | | | | | Trauma | Closed Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (C) Human immunodeficiency virus(HIV)感染可能 與此病之發生有關 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
@@ -102,9 +107,6 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - 8. HIV nephropathy Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 先天的感染如 syphilis 或 HIV 可以造成此種情況 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】出生後三個月內若發生 nephrotic syndrome,則診斷為 先天性腎病症候群(congenital nephrotic syndrome)。其中最 常見的是 Finnish type congenital nephrotic syndrome(位在第 19 對染色體上的 NPHS1 gene 發生突變,影響 nephrin 製造), 類固醇或是免疫抑制劑治療無效,病人約在 5 歲左右死亡。此 外,syphilis、toxoplasmosis、rubella、cytomegalovirus、HIV、 hepatitis B 感染都有可能造成先天性腎病症候群。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...bsets (C) PMN function tests, including chemotaxis, nitroblue tetrazolium test, CD11/CD18 expression 及 phagocytosis (D) HIV 1 + 2 Ab(A) 10. 化膿性關節炎是兒科病人的急症之一,需要快速診斷及治療。下 100(一)專 列那一種關節炎若未迅速診斷引流與抗生素治療,易引起缺血性 醫四-13 骨頭壞死(Avascular necrosis)? (A) Hip (B) Elbow (C) Knee (D) Ankle Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...分,母親說,孩童打完卡介苗後其注射位置直到目前尚無法癒合。男童自從 2 個月大開始,便有反覆性腹瀉、肺炎,一般 CBC/DC 檢查,一直都是lymphopenia 980/mm³,lymphocyte subsets 顯示 CD3+ 2%、CD4+ 1%、CD8+ 1%、CD19+ 85%、CD16+ CD56+(NK cell) 5%;immunoglobulin(Ig)level 顯 示 IgG 86 mg/dL、IgA 5 mg/dL、IgM undetectable、IgE 2週(通常≥39℃)。常合併鮭魚色 (salmon-colored)的暫時性紅疹。 - (2) 新的 ILAR classification for juvenile idiopathic arth Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

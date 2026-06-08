@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Sarcoma (肉瘤)'
   - 'Sarcoma'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,14 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...| | | | (B) 在這類病患中,以 virus-mediated 所引起之 tumor or malig- | | | | nancy 最為常見 | | | | (C) Human papillomavirus 與 Kaposi's sarcoma 有關 | | | | (D) Epstein-Barr virus 與 post-transplant lymphoproliferative | | | | disorders (PTLD) 有關 | | | | 【詳解】Kaposi's sarcoma (KS)和Human herpesvirus 8 (HHV8) | | | | 有關。 | | | | | | Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 3. 腦膜瘤(tumor of the meninges): - (1) 腦膜瘤 (meningioma)。 - (2) Meningeal sarcoma · primary meningeal melanoma · Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - M. 卡波西氏肉瘤(Kaposi's sarcoma) 153 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (C) 卡波西氏肉瘤(Kaposi's sarcoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (D) 血管肉瘤 (angiosarcoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
@@ -62,9 +69,6 @@ tags:
 - 2. 拓樸異構酶 II 抑制劑(Topoisomerase II inhibitors)會妨礙 DNA 的雙股拆接 - (1) Etoposide (VP-16): 用於小細胞肺癌 (Cisplatin + VP16)、骨肉瘤 (Ifosfamide + VP16) Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - D. 肉瘤 (Sarcoma) 223 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - 【 詳解】Li-Fraumeni 的 典型 症狀是 breast cancer, sarcoma and adrenal gland, BRAC 則是 breast cancer 與 ovarian, HNPCC 的稱為 Lynch syndrome 與 endometrial、ovarian、gastric、pancreatic、urothelial cancer 有關,FAP 就是在腸胃道腫瘤。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- #### D. 肉瘤 (Sarcoma) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- ...癌 | | | | URO-III, thrombomodulin | 膀胱癌 (Bladder cancer) | | | | S100, HMB-45 | 黑色素癌 | | | ++ /11+ | Vimentin, Desmin | 肉瘤 (Sarcoma) | | | 其他 | Leukocyte common antigen (LCA) = CD45 | 白血病、淋巴瘤 | | | | Placenta-like alkaline phosphatase (PLAP) | 生殖細胞癌 | | | Sele Lent A. P. Str | Chromogranin, Synaptophysin | 神經內分泌瘤 | | | 神經內分泌 | Neuron specif Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 

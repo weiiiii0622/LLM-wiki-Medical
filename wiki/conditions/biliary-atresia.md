@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book3-ch02]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Biliary atresia (膽道閉鎖)'
   - 'Biliary atresia'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-嬰兒膽汁鬱積重要病因，需早期辨識灰白便與直接膽紅素上升。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嬰兒膽汁鬱積重要病因，需早期辨識灰白便與直接膽紅素上升。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book3-ch02]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (1) 先天性膽道閉鎖(biliary atresia),是小兒換肝最常見的原因。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...rder)治療藥物之敘述,下列何者錯誤? (A) lithium 在懷孕婦女身上所造成畸胎性,最常見 Ebstein 氏三尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - VI. 肝膽疾病 79 - A. 肝功能異常 79 - B. 先天性膽道閉鎖 80 - C. 門脈高壓 81 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 先天性膽道閉鎖臨床上會有 cholestasis。但是引起 cholestasis 原因如下圖所示。 Cholestasis 定義為 prolong elevation of the serial conjugated bilirubin beyond the 1st 14 days of life。 Source: [[sources/med4-book1-ch02|乙、消化系統]].

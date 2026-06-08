@@ -23,6 +23,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Parathyroid glands (副甲狀腺)'
   - 'Parathyroid glands'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,12 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...eau sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (A) 副甲狀腺機能亢進(hyperparathyroidism)是高鈣血症 (hypercalcemia)的一個常見原因 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...tica" with parkinsonian features) | | Infectious | Postencephalitic PD | | | | | Neurosyphilis | | | | Metabolic | Hypoparathyroidism or pseudohypoparathyroidism with basal ganglia calcifications Non-Wilsonian hepatolenticular degeneration | | | | Drugs | Neuroleptics (typical antipsychotics) \ Some atypical antipsychotics | | | | (常併有 | Antiemetic Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...| | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticides, solvents | | | | | | Heavy Metals | Lead, manganese, me Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - ...cutaneous candidiasis): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -79,8 +83,6 @@ tags:
 - 2. 危險因子: (Harrison table 327-2) - (1) 年紀大、 - (2) 副甲狀腺亢進、低鎂、低磷、鐵沉積, - (3) 慢性痛風、半月板切除過(Post-meniscectomy)等。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - (C) parathyroid hormone Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - | Low PTH Levels | Parathyroid agenesis | Isolated | |-------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- | 疾病 | PTH | 血磷 | | |---------------|------------|-----|--------------------------------------------| | 副甲狀腺機能亢進(最常見) | ↑ ↑ | ↓ | 80% 腺瘤 (Adenoma);增生 (Hyperplasia) 要考慮有 MEN | | 惡性腫瘤(第二常見) | 1 | 不一定 | 腫瘤轉移直接侵犯骨或分泌 PTH-rP (鱗狀細胞癌) | | 維他命 D 過多 | ↓ | 1 | 肉芽腫病變 (結核或類肉瘤病) | | 藥物 | 不一定 | 不一定 | 以 Thiazide 類利尿劑 ** 最常見、鋰鹽 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- | Excessive PTH | Primary hyperparathyroidism (adenoma, hyperplasia, rarely carcinoma) | | | |---------------------|---------------------------------------------------------------------------------------------------------------------------------|--|--| | product Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

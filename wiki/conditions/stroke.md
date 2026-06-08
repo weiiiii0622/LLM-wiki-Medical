@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch14]]"
 aliases:
   - 'Stroke / cerebrovascular accident, CVA (腦中風)'
   - 'Stroke / cerebrovascular accident, CVA'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch14]]
 
 ## Key Details From Sources
 
+- (D) 缺血性腦中風 (ischemic stroke) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - I. 缺血性腦中風 (Ischemic Stroke) 85 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - II. 出血性腦中風 (Hemorrhagic Stroke) 103 - A.介紹 103 - B. 腦出血 (Intracerebral hemorrhage, ICH) 104 - C. 蜘蛛膜下腔出血 (Subarachnoid hemorrhage, AH) 108 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - #### 腦血管疾病 (Cerebrovascular Disease) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].

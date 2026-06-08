@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Notifiable infectious diseases (法定傳染病通報)'
   - 'Notifiable infectious diseases'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-特定傳染病依法需在規定時限內通報，實際分類與時限需查最新官方規定。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+特定傳染病依法需在規定時限內通報，實際分類與時限需查最新官方規定。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch05]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (D) 11. 某癌症病人手術後本來還算穩定,但卻疑似因為護理人員打錯了 103(-)專 藥物,導致病人死亡,如果你是主治醫師,最不官採取下列那一 醫五-79 項措施? - (A) 向病人安全委員會通報 - (B) 通知護理部進行根本原因分析 - (C) 妥善跟病人家屬解釋及溝通 - (D) 為保護護理同仁協助掩蓋真相 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (D) 2. 一名 5 歲男童就診主訴發高燒 3 天,喉嚨痛、口水直流,媽媽發 107( 二) 專 現男童手上腳上出現許多紅疹。身體診察發現喉嚨軟顎上出現如 醫四 -1 滿天星般的水泡,手掌、腳掌、臀部也出現如水泡般的疹子,下 列敘述何者錯誤? - (A) 這是腸病毒引起的手足口症的典型表現 - (B) 腸病毒的治療主要是支持性療法 - (C) 若腸病毒感染併發重症則屬於第三類法定傳染病,須在1週 內通報 - (D) 腸病毒的病情嚴重時用抗病毒藥物 Acyclovir 來治療,可改善養存活率 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (C) 病童為登革熱,屬於第二類法定傳染病,需於 24 小時內通報並抽血送至疾病管制局檢查 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 2. 下列何種情形不符合立即通報兒少保護小組之條件? Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].

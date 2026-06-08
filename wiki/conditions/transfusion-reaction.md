@@ -5,6 +5,8 @@ created: 2026-06-08
 updated: 2026-06-08
 sources:
   - "[[sources/med3-book4-ch17]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Transfusion reaction (輸血反應)'
   - 'Transfusion reaction'
@@ -19,14 +21,18 @@ tags:
 
 ## Summary
 
-輸血相關不良反應包含溶血、發熱、過敏、TRALI、TACO 與感染風險。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+輸血相關不良反應包含溶血、發熱、過敏、TRALI、TACO 與感染風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch17]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-related acute lung injury, TRALI): 輸血後 6 小時內發生, 臨床症狀有急性呼吸困難、非心因性肺水腫、血壓降低及體溫升高。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (1) 術中常見高體溫的原因為輸血反應或是病人本身有感染的情況。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 1. 紅血球 (packed RBC): - (1) Hgb \*NHFTR (Non-hemolytic febrile transfusion reaction); TRALI (Transfusion related acute lung injury) Source: [[sources/med3-book4-ch17|辛、輸血]].
 - (B) 4. 病人輸血時發燒到 38℃以上,若臨床上已經完全排除溶血反應或感 99( 二 ) 專 染,關於此類病人的輸血反應,下列敘述何者錯誤? 醫三-35 - (A) 常發生於過去多產的女性受血者 - (B) 因受血者對捐贈者血漿中的蛋白過敏 - (C) 選擇使用減白的血液製品(leucocyte-depleted RBC or platelet),可以減少發生的機率 - (D) 對經常發生的受血者,輸血前先口服 acetaminophen 可改善發 燒反應 Source: [[sources/med3-book4-ch17|辛、輸血]].
 - | (B) | 5. 輸血反應中,非溶血 | 性發熱反應之發生頻率為: | 99(一)專 | |-------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------- Source: [[sources/med3-book4-ch17|辛、輸血]].

@@ -8,6 +8,8 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Herpes zoster (帶狀皰疹)'
   - 'Herpes zoster'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 pos
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- (3) 移植六個月之後,移植受贈者的情況較穩定,感染就跟一般社會大眾一樣 (community-acquired),如流感、泌尿道感染及肺炎雙球菌肺炎。唯一伺機性 病毒感染為 herpes zoster;而 CMV 視網膜炎則較罕見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 【詳解】小腿外側是 L5 dermatome 的位置, L 4/5 HIVD 會壓迫 L5 root。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - #### 4. 感覺系統檢查 (dermatome): Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (A) 帶狀皰疹神經炎(herpes zoster neuritis) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - # 4. 水痘帶狀疱疹病毒(Varicella-Zoster Virus, VZV): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

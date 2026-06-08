@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch18]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'BNP / NT-proBNP (腦利鈉胜肽)'
   - 'BNP / NT-proBNP'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-心室壓力與容量負荷標記，可輔助心衰竭診斷與嚴重度評估。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+心室壓力與容量負荷標記，可輔助心衰竭診斷與嚴重度評估。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med3-book1-ch02]]
 - [[sources/med3-book1-ch18]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- 2. 低血鈉 (hyponatremia): - (1) SAH 後 ANP(心房排鈉素)和 BNP的分泌造成 hyponatremia 和 hypovolemia (cerebral salt wasting, CSW),需和 SIADH (euvolemia or hypervolemia)作鑑別診斷,因兩者處理方式不同,CSW 是補水而 SIADH 是限水。 - (2) Hypovolemia 會增加血易黏稠度 (blood viscosity),加重 vasospasm 的嚴重度。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - 呼吸衰竭可測血氧、肝腎衰竭可抽血檢驗,但心臟衰竭則需靠臨床診斷,指的是心臟 因結構或功能異常導致無法提供身體所需。病患可能有喘、疲累、運動耐受不佳、端坐呼 吸、周邊水腫等症狀,胸部 X 光可能發現心臟擴大、肺積水等,傳統上須靠臨床線索下診 斷,目前有 BNP 等生化檢驗可輔助。 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 - 2. BNP(B-type natriuretic peptide): 心肌因體液過多或填充壓力過大時會釋放 BNP,一般 CHF 病患血中 BNP > 400,而喘的病患若 BNP + -K + ATPase 的效果 | 99(一)專醫三-7 | |-----|-----|---------------------------------------------------------------------------------------- Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 - ...echocardiography) to exclude hydrostatic edema if no risk factor present | | Oxygenation b | | | Mild | 200 mmHg $审 脸 | BNP* 500 pg/mL, | | | 實驗室檢查 | WBC ↑, CRP ↑, Amylase ↑ | CKMB ↑ , Trop-I ↑ | | | 脱点な7 V 刈4 | 兩側均匀浸潤 | 肺門多、一塊塊浸潤,肋膜積水 | | | 胸部 X 光 | (Homogenous infiltrate) | (Hilum, patchy infiltrates) | | | [病程早期時的症狀] | [ 缺氧比 CXR 浸潤嚴重 ] | Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].

@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Atrial fibrillation (心房顫動)'
   - 'Atrial fibrillation'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見心律不整，需評估 rate control、rhythm control 與抗凝。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch01]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- (4) 心臟方面輕微低體溫會 bradycardia,接著 Af和 Vf。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ...2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel oral anticoagulants, NOAC),適用於非心瓣膜疾病之心房顫動且合併腦梗塞的高 危險族群。如 dabigatran(Pradaxa®),r Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (D) 心房顫動造成心因性血栓 (cardiac emboli) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -62,7 +65,6 @@ tags:
 - ...us (慢慢上升), | Pulsus bisferiens (波鋒 *2), | | 脈壓 | | | Pulsus parvus (振幅減小) | Bounding pulse (快上快下) | | 藥物 | Warfarin for Af | Warfarin for Af | 不可用 Vasodilator | Vasodilator (ACEI, CCB) | | BB | 15 1 16 0 6 7 1 5 1 | G MD /D C > 500/\ | Severe AS | Severe AR (Reg.fx.>50%)+ | | 開刀 | Mod. MS (MVA50%)+ | (AVA40) | Severe AR (Reg.1x.>3070)+ | | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 - 4. 治療:同一般心臟衰竭治療。 - (1) 口服抗凝血劑:在心臟功能不佳的病患身上,使用抗凝血劑無法減少血栓形成,因此不建議常規使用,僅在有 Af、LV thrombus、有 thromboembolic event 的病患使用。 - (2) 抗心律不整藥物:DCM 的病患,Sudden cardiac death(SCD)、Ventricular arrhythmia 機會較高,但不建議常規使用抗心律不整藥物於無症狀的 VPC、Non sustained VT,可能反而導致更嚴重的心律不整發生(Proarrhythmic effects of the drugs)。 - (3) DCM 病患,若 LVEF 1.3)、腔室縮小、舒張功能↓。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - (C) 心房顫動 (atrial fibrillation) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...g(D) 動脈血氧飽和度由 100% 降為 70% | | | | | | | (C) | 3. 一位 75 歲老人,因突發性下肢冰冷及疼痛來診,理學檢查可見右下 | 102(一)專 | | | 肢冰冷發紺,摸不出右足背動脈脈搏,心電圖顯示心房顫動,病人過去有抽菸、糖尿病及高血壓病史。下列何者為最可能之診斷? | 醫三-6 | | | (A) 急性深部靜脈栓塞 | | | | (B) Buerger's 症 | | | | (C) 急性下肢動脈阻塞 | | | | (D) Raynaud's 症 | | | (D) | 4. 法洛氏四合症(tetralogy of Fallot)不包括下列何者? | 101(二)專 | | | (A) 心室中隔缺損(ventricular sep Source: [[sources/med3-book1-ch05|子、其 他]].
 
 ## Clinical Caveats
 

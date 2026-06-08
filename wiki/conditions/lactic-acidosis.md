@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Lactic acidosis (乳酸中毒)'
   - 'Lactic acidosis'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,15 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- ...血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在前 6 小時內達到以下目標。 - a. CVP 維持在 $8\sim12~\text{mmHg}$ : 給予晶體或膠體溶液(目前多建議晶體溶液),每 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- d. Septic shock 的定義:需要靠升壓劑維持 MAP > 65 mmHg,而且血液 lactate > 2 mmol/L(18 mg/dL)。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- 1. 晶體溶液 (crystalloid):Normal Saline (NS) 和 Lactated Ringer's (LR)(術中、燒傷、腹瀉或膽汁喪失時使用)兩種,在許多的研究發現,NS 在大量的輸液下造成的酸血症會比 LR 嚴重,而且尿液的輸出也比較少,所以 LR 在復甦的過程中其結果比NS 好;但 LR 中含有 Ca²+,如果與含有 citrate 的血液溶劑一起混合,會造成沈澱,且LR 所含的鉀離子對腎是種負擔。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- ...水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabetic ketoacidosis, Propylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...PAH)或輔酶 BH4 因此代謝途徑出問題。苯丙胺酸(PHE)無法藉由 PAH 與 BH4 作用轉換成酪胺酸,而在體內大量堆積,進而產生有毒的代謝產物(如尿中出現大量的 phenylpyruvate、phenylacetate、phenyllactate,使尿液和身體會出現腐臭味)。患此類病症之病兒,臨床上一開始無任何症狀。但若無及時發現,有毒代謝產物的累積到三、四月大時會產生不可逆的傷害。臨床上出現症狀有嘔吐、皮膚毛髮顏色變淡、濕疹、生長發育遲緩、尿液和體汗有霉臭味、抽搐、顫抖等異常的動作。通常會導致嚴重智能不足或死亡。治療:嚴格限制苯丙胺酸的攝取(飲食控制)並監測 PHE 血液濃度 2~6 mg/dL (PHE 亦是人體必需胺基酸故不能沒有)至少到 6 歲以前。往後可以稍微放寬,但 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 5. 症狀: - (1) 無力、腦病變與低血糖。 - (2) 顯著的肝脾腫大。 - (3) Pompe disease (GSD type 2) 因缺乏酵素 acid alpha-glucosidase,特別嚴重。特 徵為心臟肥大,低肌張力,肝臟腫大,病童多於一歲內死亡。 - (4) von Gierke's disease(GSD type 1)因缺乏酵素 glucose-6-phosphatase,造成 lactic acidosis, hyperuricemia, 生長遲緩,但不會有肌肉的症狀。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 4. 診斷: - (1) CK,Lactate,EMG,神經檢查,腦部核磁共振及肌肉切片等的評估可幫助診斷。 - (2) 基因檢查確診。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
@@ -61,9 +69,6 @@ tags:
 - ...(3) 第三步:AG = 20 →陰離子間隙代謝酸; $\Delta$ AG(10) = 1~2× $\Delta$ [HCO₃](6) →單純的 高陰離子間隙代謝酸。 - (4) 臨床狀況:常見於嚴重肺炎、肺水腫的病人,因為末梢循環差導致乳酸中毒的高陰 離子間隙代謝酸,加上肺部問題,因而代償不完全,合併呼吸酸。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...| | 葡萄糖 | 0 to 0.20 | 1.5, 2.5, 4.25 | PD 的葡萄糖濃度高愈能脱水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35-40 | 維持 pH 65~70% 為佳。 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - ...| 葡萄糖 | 0 to 0.20 | 1.5, 2.5, 4.0, 25 | PD 的葡萄糖濃度高愈能脫水 | | 碳酸鹽 | 25 to 40 | - | Bicarbonate 取代 acetate →較不易低血壓 | | 乳酸鹽 (Lactate) | - | 35~40 | 維持 pH = 5.2~5.6 → 不易感染 | Source: [[sources/med3-book3-ch06|己、透析治療]].
-- ...| | | | Sta vudine (d4T) → Neuropathy, Pancreatitis | Lipoatrophy | | | | Didanosin (ddI) → Neuropathy, Pancreatitis | Lactic acidosis | | | | Abacavir (ABC) → Hypersensitivity | TDF: renal | | NRTI* | 卡住延長中 | (HLA-B5701) | function | | INKII | 的病毒 DNA | Lami vudine (3TC) | impairement, | | | | Emtricitabine (FTC, 為 3TC 之 prodrug) | osteoporosis | | | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- b. 藥物副作用: - (a) Lactic acidosis 可能與傷害粒腺體有關,NRTI (Stavudine、Didanosin)常見。 - (b) Lipodystrophy: NRTIs 及 PIs 較易使周邊皮下脂肪減少,頸背(Buffalo hump)、腹部脂肪增加。 - (c) Hyperlipidemia:特別是高TG,其中PIs(Ritonavir)常見,併用Statin或Fibrates可改善。 - (d) Glucose intolerance: PIs (Indinavir, Ritonavir) 常見。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- a. 瘧原蟲中,惡性瘧最易引起貧血、中樞神經症狀。 - (a) 惡性瘧破壞紅血球,除了會引起貧血,若大量溶血,還會造成血紅素尿,稱為黑水熱 (Blackwater fever)。 - (b) 紅血球被破壞時,釋出的 TNFα 除了使病患發燒,也會使紅血球容易凝結,在腦血管造成血塊、堵塞,導致中樞神經症狀,稱為**腦性瘧(cerebral** malaria)。 - (c) 嚴重的惡性瘧感染(Hyperparasitemia > 5%RBC) 會造成腦性瘧、低血糖、乳酸中毒、腎衰竭、凝血病變等。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 
 ## Clinical Caveats
 

@@ -1,0 +1,77 @@
+---
+type: condition
+status: draft
+created: 2026-06-08
+updated: 2026-06-08
+sources:
+  - "[[sources/med5-book1-ch10]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book1-ch15]]"
+aliases:
+  - 'Coma (昏迷)'
+  - 'Coma'
+  - '昏迷'
+tags:
+  - medicine
+  - condition
+  - auto-topic-node
+---
+
+# Coma (昏迷)
+
+## Summary
+
+嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+
+## Source Coverage
+
+- [[sources/med5-book1-ch10]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch13]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch12]]
+- [[sources/med5-book1-ch14]]
+- [[sources/med5-book1-ch15]]
+
+## Key Details From Sources
+
+- A. Glasgow Coma Score 120 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- A. Glasgow Coma Score: 利用睜眼、語言和運動反應來評估意識,總分 15 分。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- 5. EC:眼睛因臉部腫脹無法睜開、 $E_{cata}$ :白內障、 $V_E$ :插管、 $V_T$ :氣切、 $V_A$ :失語症,前述因無法評估病人實際情形,故不列入 GCS 的記分。例如重度昏迷氣管插管者,GCS 表示為 $E_1V_TM_1$ ,總分為 2T,兩分。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- (C) 5. 頭部外傷造成的 diffuse axonal injury (DAI),下列敘述何者錯誤? 106(-) 専 (A) 病人通常沒有清明期(lucid interval) - (B) 電腦斷層掃描(brain CT)上可能沒有明顯的病灶,但病人 卻呈昏迷狀態 - (C) 如果病人不幸死亡,解剖上腦部有明顯不正常的外觀 - (D) 在胼胝體(corpus callosum)可見出血性壞死的病灶 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- (D) 約有 1/3 的病人到急診處呈昏迷狀態 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- (A) 17. 一位 22 歲年輕人未戴安全帽騎摩托車發生車禍,在現場意識喪失約 3 分鐘,送到急診室時意識清楚,昏迷指數 15 分,右側顳部有疼痛腫脹情形,先給予照 X 光,但在檢查完病人後,意識昏迷,且右側瞳孔逐漸放大,X 光可見右側顳骨線性骨折,請問最有可能的情況為: Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- 1. 鈉:正常血鈉濃度為 135~145 mEq/L。 - (1) 低血鈉(hyponatremia)症狀為輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。 - a. Pseudohyponatremia:發現病患低血鈉,首先要排除高血糖、高血脂等高滲透 壓造成的相對低血鈉,真的低血鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SI Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 【詳解】(A) 低血鈉的症狀從輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。(B) 130~135 mEq/L 為 mild hyponatremia,121-129 mEq/L 為 moderate hyponatremia,< 120 mEq/L 為 severe hyponatremia。(C) 無症狀低血鈉的治療,其血清鈉離子濃度上升速率不超過 0.5 mEq/L/hr,一天不超過 8~12 mEq/L;如果是有症狀之低血鈉則血清鈉離子濃度上升速率為 0.5~1.0 mEq/L/hr,但一天不超過 6 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (D) 7. 依據「安寧緩和醫療條例」之規定,末期病人無簽署意願書且意 識昏迷或無法清楚表達意願時,由其最近親屬出具同意書代替之。 有①配偶 ②成年孫女 ③父 ④弟弟,四位最近親屬,意見不一 時,優先次序為: Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+
+## Clinical Caveats
+
+- 本頁是 textbook-derived study note，不可直接作為診療、處方或急症處置依據。
+- 若問題涉及 current guideline、drug dosing、禁忌、pregnancy/lactation、兒科、renal/hepatic adjustment 或高風險處置，需查最新版官方來源。
+
+## Related Pages
+
+- [[conditions/brain-death|Brain death (腦死)]]
+- [[diagnostics/glasgow-coma-scale|Glasgow Coma Scale, GCS (格拉斯哥昏迷指數)]]
+- [[conditions/head-trauma|Head trauma (頭部創傷)]]
+- [[conditions/raised-intracranial-pressure|Raised intracranial pressure, IICP (顱內壓升高)]]
+
+## Follow-up
+
+- 後續可補上 guideline 年份、治療流程圖、diagnostic criteria 表格與藥物安全監測整理。

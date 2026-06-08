@@ -33,6 +33,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch07]]"
 aliases:
   - 'Airways (氣道)'
   - 'Airways'
@@ -47,7 +49,7 @@ tags:
 
 ## Summary
 
-氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +82,16 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch07]]
 
 ## Key Details From Sources
 
+- (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (6) 支氣管擴張症及其他發炎之後遺症。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 4. 腹部創傷之急救和和所有急救一樣,必需先穩定 ABC (airway、breathing、circulation)後再作腹部的檢查,尤其在有穿刺傷時亦應先將 ABC 穩定後再處理傷口。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
+- ...------------------------|-----------------| | | (A) 連枷胸 (flail chest) | a 11 | | | (B) 嚴重的休克 (shock) | | | | (C) 呼吸道阻塞 (airway obstruction) | | | | (D) 肢體有一開放的傷口不斷在流血(active bleeding) | | | | (D) 政盟有 网放印易山小乡在加皿(active dicetting) | | | (A) 22. | 一個病人因車禍,血流滿面送至急診室,如果你是值班醫師, | 99(一)專 | | | 你要優先處理: | 醫五 -28 | | | (A) ABC (airway, breathing, circula Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - VII. 細支氣管炎 (Bronchiolitis) 175 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 突然且嚴重的氣道阻塞為其特徵。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -96,11 +105,6 @@ tags:
 - (2) 先天性肺動脈瓣缺失(congenital absence of the pulmonary valve):病人常有呼吸道阻塞,發紺嚴重程度不一。心臟明顯肥大且有 to-and-fro murmur。肺動脈有明顯的 aneurysmal dilation,進而壓迫支氣管造成呼吸音出現 wheezing 或stridor。病人常有反覆性肺炎。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...列標記何者引?cell tumor,所以 hCG 會高。 | 95(一)専内2-6 | | (A) 21. 癌胚胎抗原(carcinoembryon關此抗原的敘述何者錯誤?(A) 大腸癌早期數值即升高,(B) 胰臟癌病人數值可能升高(C) 支氣管炎病人數值可能升(D) 吸菸者數值可能升高 | | 94(三)檢內-23 | | (C) 22. CA15-3 是那一種癌症之腫瘤(A) 大腸癌(C) 乳癌 | 指標(tumor marker)?(B) 卵巢癌(D) 肺癌 | 94(二)檢內-48 | | (B) 23. CA-125 為那一種癌症之腫瘤(A) 肺癌(C) 乳癌 | 標記?(B) 卵巢癌(D) 胃癌 | 94( 一 ) 檢內 -19 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - (C) 支氣管囊腫 (bronchogenic cyst)、心包膜囊腫 (pericardial cyst) 常出現在中縱膈腔 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- ...------------------------------------------------------------|------------------| | (B) 26 | . 下列何者在老年病患最不常見? (A) 骨折 (B) 支氣管哮喘 (bronchial asthma) (C) 憂鬱 (D) 尿失禁 【詳解】(B) 骨折是間接因跌倒而產生的疾病。老年人常見的呼吸道疾病應該是以肺部感染為大宗。 | 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 2 Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ...類:如 Erythromycin、較新的 Azithromycin, - (1) Erythromycin: - a. 可抗 GPC (Gram positive coccus、革蘭氏陽性球菌),用來治療對 Penicillin 過敏病患的支氣管炎、咽喉炎、鼻竇炎、中耳炎、軟組織感染等。但無法治療 Haemophilus influenzae,因此經驗性治療上下呼吸道感染不是那麼理想。 - b. 對常見的非典型肺炎有效,如 Legionella pneumophila, Chlamydophila pneumoniae, Mycoplasma pneumoniae。 - (2) Clarithromycin · Azithromycin : - a. 抗菌範圍類似 Erythr Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (A) 2.60 歲男性,有長期菸瘾習慣,過去病史已知有40年慢性B型肝炎及8年慢性支氣管炎。本次因食慾不佳及黃疸就醫住院,診斷為慢性B型肝炎急性惡化。入院15天後突發性高燒39℃,輕微腹瀉,及呼吸困難,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast s Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...、實驗室診斷: | | | | (一)分離出德國麻疹病毒,或 | | | | (二)急性期與恢復期血清 IgG ≧ 4 倍上升,或 | | | | (三)IgM 抗體陽性。 | | | | 實驗室診斷條件:肺部檢體(如痰、肋膜液、胃洗出液、支氣管沖洗液等檢體) | 24 小時內 | | 結核病 | 結核分枝桿菌培養陽性之藥物感受性試驗顯示至少同時對 isoniazid 及 | | | | rifampicin 抗藥。 | | | 屈公病 | 有「屈公病」相關流行地區旅遊史,且有下列症狀:發燒、頭痛、噁心、嘔吐、 | 24 小時內 | | | 肌痛、出疹、關節痛者等。 | | | 西尼羅熱 | 一、有「西尼羅熱」相關流行地區旅遊史,且有下列症狀:發燒且符合下列 | 24 小時內 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...; 四、胃腸型:係由攝食被污染的食物或水而感染,細菌經小腸黏膜侵入。除會發冷、發熱外,還會有腹痛、噁心、嘔吐、腹瀉、腸道膜淋巴結腫大等現象,偶有腹膜炎; 五、肋膜肺部型:經血液感染,細菌侵入肺部及肋膜腔。病徵為咳嗽、少痰、胸骨壓痛。可能併發支氣管發炎、肺炎、肺囊腫、初級肺肋膜病變或胸膜炎等,肺門淋巴結異常腫大; 六、類傷寒型:臨床表現似傷寒,肝脾腫大,血液培養陽性,病情較重,死亡率高; 至少符合上述六型臨床症狀之一型,且有:節肢動物叮咬、與感染病原哺乳類宿主之接觸史、或接觸可能受污染的水等暴露史者。 | 1 週内 | | 恙蟲病 | 一、猝發且持續性高燒、頭痛、背痛、惡寒、盜汗、淋巴結腫大、1 週後皮膚出現紅色斑狀丘疹,有時會併發肺炎;或二、恙蟎叮咬處出現無痛性的焦痂。 | 1 Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

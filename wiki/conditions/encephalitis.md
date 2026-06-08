@@ -29,6 +29,9 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch19]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -43,7 +46,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +75,16 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch19]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- 2. 成人: - (1) IICP sign:頭痛、嘔吐、視乳突水腫。 - (2) 意識改變。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
+- 【詳解】(D) 尿失禁、步態不穩和失智症為正常壓力水腦症的症狀,因頭部外傷造成的急性水腦症的症狀以 IICP sign 或意識改變為主。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
+- 1. 腦震盪 (concussion):頭骨和腦沒有受傷,僅有意識改變,例如:意識不清、失去 意識、記憶缺失 (amnesia)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- (2) 50% 急性水腦症及意識改變的病患會自行恢復。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - | 感染位置 | 名稱 | |-------|-------------------| | 腦膜 | 腦膜炎 (Meningitis) | | 腦實質 | 腦炎 (Encephalitis) | | 運動神經元 | Poliomyelitis | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - | 致病原 | 疾病 | 腦電波 (EEG) 特徵 | | |-----------------------|----------------------------|---------------------|-------| | 感染性蛋白 (Prion protein) | 庫賈氏病 (CJD) | Periodic complex of | 1S | | 疱疹病毒 (Herpes virus) | 疱疹腦炎 (Herpes encephalitis) | spike or slow wave | 2S | | 麻疹病毒 (Measles virus) | 亞急性硬化性廣泛性腦炎 (SSPE) | at intervals of | 3~20S | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -89,10 +99,6 @@ tags:
 - 4. 抽動並不是因為物質使用(如精神刺激劑)或一般性醫學狀況(如病毒性腦炎)所 造成的。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - ...)。 - (c) 皮疹會連續分批出現,故同一時間可於身上看見各階段的皮疹變化,同時看見 papules、vesicles、pustules 和 crusts。 - (d) 成人症狀比較明顯且嚴重,甚至造成肺部發炎(pneumonitis)或腦炎(encephalitis)等併發症。(\*當肺部發生感染或是受到刺激而導致發炎稱為 Pneumonitis,而當肺部組織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. Fi Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (2) 臨床症狀:潛伏期為 2~10 天,初次感染大多無症狀,典型單純性疱疹會出現一小群水泡,接著破裂形成潰瘍然後結痂,會刺痛及癢感,病程約 20 天,病毒會潛入感覺神經節伺機再發。 - a. HSV-1: 疱疹性齦口炎(herpetic gingivostomatitis)、唇疱疹(Herpes labialis) →顔面部三叉感覺神經節潛伏→復發齦口炎、腦炎。 - b. HSV-2:生殖器疱疹→腰、尾椎感覺神經節潛伏→復發生殖器疱疹。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹 108( ) 專子型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 2. 經由血液循環侵犯遠處的器官:較少見,但會造成 meningitis、encephalitis、acute disseminated encephalomyelitis(ADEM)、transverse myelitis、cerebellar ataxia、endocarditis、suppurative arthritis and osteomyelitis 這些併發症。Pneumococcal or *H. influenzae* type b infection 是造成遠端器官侵犯常見的病原體。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (D) 2. 對於肺炎黴漿菌 (*Mycoplasma pneumoniae* ) 感染的描述,下列 109( ) 專 何者錯誤? - (A) 是學齡兒童社區性肺炎的常見病原 - (B) 肺外病徵包括腦炎、關節炎和皮疹 - (C) 潛伏期 2~3 週,家庭內傳染性高 - (D) 正確診斷主要靠痰液和血液培養 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (A) Japanese encephalitis virus Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

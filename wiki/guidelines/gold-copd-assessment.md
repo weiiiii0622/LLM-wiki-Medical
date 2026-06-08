@@ -25,6 +25,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)'
   - 'GOLD COPD assessment'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,13 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- ...同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPI Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (1) Angiogram: DSA (digital subtraction angiography),為評估大腦動脈瘤的 gold standard,可偵測出 80~85%的 aneurysm。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - | Age | Bacteria | Virus | |-----------|---------------------------------|-----------------------------| | 新生兒 | Group B streptococcus | Enterovirus | | ( 感染的肺炎。感染流感的病童,在感染後需注意 $\bf S$ . $\bf aureus$ 感染的肺炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 2. 診斷的 gold standard 仍是病毒培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (1) **Viridans-type streptococci**(α-hemolytic streptococci)與 *Staphylococcus aureus* 為 最常見。此外 Group D streptococcus (*S. bovis* or *S. faecalis*) 亦是常見病原體。 - a. Viridians group streptococcal infection (*Streptococcus mutans*, *S. sanguinis*, *S. mitis*) 常見於牙科侵入性治療後。 - b. Staphylococcus aureus 是第二常見的細菌。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -83,8 +89,6 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - 4. 第三題:pH = 7.42; $HCO_3^- = 42$ ; $Pa_{CO2} = 67$ ; $Na^+ = 140$ ; $K^+ = 3.5$ ; $Cl^- = 88$ - (1) 第一步:中性→呼吸酸+代謝鹼 - (2) 第二步: $\Delta[HCO_3^-]=0.1\sim0.3\times\Delta PaCO_2=2.7\sim8.1$ ; $[HCO_3^-]=15.9\sim21.3$ ,但病患 $HCO_3^-=42$ ,所以由此也可證實病患合併代謝鹼。 - (3) 第三步: AG = 10, 未合併高陰離子間隙代謝酸。 - (4) 臨床狀況: 常見於 COPD 長期的呼吸酸加上過度使用利尿劑,體液缺乏導致代謝鹼。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...along the GBM。 - iii 電顯: subepithelial deposition。 - (c) 大部分為 idiopathic,和 B型肝炎、梅毒、自體免疫疾病(SLE, RA)、實質性腫瘤(乳癌、肺癌、大腸癌)、藥物(gold、penicillamine、captopril、NSAIDs)有關。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...is, leprosy, filariasis | | | | Cancer | Breast, colon, lung, stomach, kidney, esophagus, neuroblastoma | | | | Drugs | gold, mercury, penicillamine, nonsteroidal anti-inflammatory agents, probenecid | | | | A | SLE, RA, primary biliary cirrhosis, dermatitis herpetiformis, | | | | Autoimmune dz. | bullous pemphigoid, myasthenia gravis, Sjögre Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入), 造成暫時的低血鉀, 導致肌肉無力,病人可能一早起來發現四肢無力,未經鉀離子的補充,下午鉀離子就會 shift 出細胞,無力就會改善。治療甲狀腺 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (1) 輪狀病毒 (Rotavirus): - a. 雙股之 RNA 分段病毒。 - b. 分型: - (a) Group A: 造成幼兒腸胃炎 (infantile gastroenteritis) 主要的病毒 - (b) Group B:在中國大陸可造成成年人流行感染而致病 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

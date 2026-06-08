@@ -22,6 +22,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Opportunistic infection (伺機性感染)'
   - 'Opportunistic infection'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,15 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- ...immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (8) 免疫不全或其他全身性疾病,雖經治療但仍預後不良者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 2. 黴菌感染: Candida albicans 最常見,為伺機性感染。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...rmation、rudimentary digits。 - ii. 生產前四天內感染水痘,則有15%的新生兒會發生嚴重性水痘感染。 通常新生兒在出生後兩星期內發病,其症狀包括全身性水痘和中樞神 經系統病變,有兩到三成的死亡率。 - (g) 免疫不全患者:易併發肝炎、肺炎、腦癌和血小板減少症,死亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated acantholytic epidermal cells,為受病毒感染之 keratinocytes,於HSV (herpes simplex virus) 感染造成之水疱也可看見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - iii. 眼部併發症:約三分之一的患者其帶狀疱疹沿著 V1 的鼻睫支 (nasociliary branch)侵犯眼鼻,可能會造成葡萄膜炎、角膜炎、結膜炎、視神經炎及青光眼,於免疫不全患者甚至會引發急性視網膜壞死。 疱疹長在鼻頭又叫作 Hutchinson's sign。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (e) 帶狀疱疹大多只發生於身體單側(胸>三叉、腰>薦>頸),只有少數 會超過範圍到對側甚至全身散佈,該情況的患者大多是原本就有惡性疾 病或免疫不全,其死亡機率就較高,故有「當皮蛇纏繞身體一周時就會 沒命」一說。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -75,10 +83,6 @@ tags:
 - (A) 免疫不全的病童比一般兒童更容易發生菌血症 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (4) 免疫方面:胸腺發育部分或全部缺陷。 - a. 部分 DiGeorge 症候群佔大多數。 - b. 完全 DiGeorge 症候群因胸腺完全無發育,故 T 細胞嚴重缺乏,易引起伺機性感染。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...(NSE)/M4,M5 (Mono) | (110) | | | | Periodic acid Schiff (PAS)/M6,M7 | A Late | | | 表面標誌(分類) | CD13,33 (Myeloid series); CD4,14 (M4 單核球 ) | T | TdT(+),CD2,3,5,7(+) | | Immunophenotype | Glycophorin A (M6 紅血球); CD41,61 (M7 血小板) | Pre B | TdT(+),CD10,19,20,21,22(+) | | | | Burkitt | TdT(-), Surface Ig(+) | | 染色體,基因(預後) | 好: t(8,21)/M2; t(15,17) Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...-| | | 2,0,20 | CD13,33(+) | MPO(-) | - | M0 | | | | | MPO(+) | | M1,M2 | | | Myeloid | | | HLA DR (-) | M3 | | | | | | CD4,14(+) | M4 | | Blasts | , | | | CD4,14(+) | M5 | | (Leukemia) | | | MPO(-) | Glycophorin A(+) | M6 | | (2000) | | | | CD41,61(+) | M7 | | | T cell | CD1,7(+); sCD3(-) TdT(+) | | TdT(+) | T-ALL | | | | | | TdT(+),CD10(+) Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...界衛20% 即可。 | 可診斷為急性60 歲以下者差小於 5% | | | 下(A | f謂周邊血液幹細胞(peripheral blood stem cell)是列何種抗原之表現者?A) CD34 (B) CD30C) CD20 (D) CD4 | 指細胞表面具備 94(ニ)専內 1-19 | | | (A(C | 万列何種分子 (molecule) 是 B 淋巴球的標誌?A) CD2 (B) CD7C) CD20 (D) CD56(詳解】 B cell: CD10, 19, 20。 | 94(二)檢內-70 | | Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...al transduction),此為活化 T 細胞的第一活化訊息。 | | | 1 | 複合物 | (注:TCR=T cell receptor,Th=Helper T cell,Tc=Cytotoxic T cell) | | | | CD4 · CD8 | CD4 為 Th cell 特有的標誌,只能和 MHC class II 分子結合;CD8 為 Tc | | | | | 特有的標誌,只能和 MHC class I 分子結合。( 記憶:4*2=8,8*1=8) | | | | CD28 | 當 T 細胞和抗原呈現細胞結合時,T 細胞的 CD28 會和活化過後的抗原 | | Т | | | 呈現細胞所表現的 B7-1 (CD80)、B7-2 (CD86) 結合,而傳入活 Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- ...列何者正確? (A) 活化的 CD8+T 淋巴球(CD8+T lymphocytes)可分化成可分泌細胞激素的 TH1 或 TH2 細胞(cytokine-producing TH1 or TH2 cells) (B) 宿主對抗結核菌感染,CD4+T 淋巴球(CD4+T lymphocytes)的活化和增生是最重要的 (C) TH1 細胞(TH1 cells)主要製造的細胞激素為干擾素(IFN-γ)以及介白質 4 和 5(interleukin-4 and interleukin-5) (D) TH2 細胞(TH2 cells)主要製造介白質 2、10 和 13(interleukin-2, interleukin-10 and interleukin-13) | 103(一) Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 
 ## Clinical Caveats
 
@@ -87,7 +91,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/progressive-multifocal-leukoencephalopathy|Progressive multifocal leukoencephalopathy, PML (進行性多灶性白質腦病)]]
 
 ## Follow-up
 

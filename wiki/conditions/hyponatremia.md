@@ -16,6 +16,8 @@ sources:
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Hyponatremia (低血鈉)'
   - 'Hyponatremia'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,15 @@ tags:
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- 1. 鈉:正常血鈉濃度為 135~145 mEq/L。 - (1) 低血鈉(hyponatremia)症狀為輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。 - a. Pseudohyponatremia:發現病患低血鈉,首先要排除高血糖、高血脂等高滲透 壓造成的相對低血鈉,真的低血鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (B) 此病人的低鈉血症(hyponatremia) 歸類為中度低鈉血症 (moderate hyponatremia) Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 【詳解】(A) 低血鈉的症狀從輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。(B) 130~135 mEq/L 為 mild hyponatremia,121-129 mEq/L 為 moderate hyponatremia,< 120 mEq/L 為 severe hyponatremia。(C) 無症狀低血鈉的治療,其血清鈉離子濃度上升速率不超過 0.5 mEq/L/hr,一天不超過 8~12 mEq/L;如果是有症狀之低血鈉則血清鈉離子濃度上 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 2. 低血鈉 (hyponatremia): - (1) SAH 後 ANP(心房排鈉素)和 BNP的分泌造成 hyponatremia 和 hypovolemia (cerebral salt wasting, CSW),需和 SIADH (euvolemia or hypervolemia)作鑑別診斷,因兩者處理方式不同,CSW 是補水而 SIADH 是限水。 - (2) Hypovolemia 會增加血易黏稠度 (blood viscosity),加重 vasospasm 的嚴重度。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - (1) Carbamazepine(Tegretol® 癲通):部分發作的首選,也可用於三叉神經痛(Trigeminal neuralgia);可能有頭暈、低血鈉等副作用,在 HLA-B1502 身上易引起 Steven-Johnson syndrome。孕婦的 AED 中,Tegretol 相對較安全。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (B) 1.45 歲女性,為減重並避免高血壓,過去2個月只食用極度少鹽少糖的餐點,因為全身無力倦怠被送到醫院。血液生化檢查發現血中的鈉離子濃度為117 mEq/L,醫師緊急使用高濃度(3%)的食鹽水靜脈點滴補充,在6小時內血中鈉離子濃度升高到137 mEq/L,結果病人出現神經學症狀。有關低血鈉的處理及這位病人的神經學病變,下列何者正確? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...ry depression) (D) 體溫升高 【詳解】會出現發燒。 | 108(二)專醫四-68 | | (A) | 8. 對酒精相關疾患的描述,何者錯誤? (A) 酒精戒斷時會心跳變慢 (B) 酒精戒斷時會冒汗 (C) 長期使用酒精時會低血鈉 (D) 酒精戒斷時會誘發譫妄,是高風險病症 【詳解】(A) 心跳變慢。 | 108(二)專醫四-69 | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
@@ -63,10 +71,6 @@ tags:
 - ...-wasting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...ne (Vidaza)、Decitab | | | | | | 可與 DNA 甲基轉移酶 1 (DNA methyltransferase 1, DNMT-1) 結合,進而 | | | | | | 抑制 DNA 複製時之甲基化作用,導致 DNA 低甲基化作用,此結果可 | | | | | 50.43 | 重建造血幹細胞的正常生長與分化。或進行異體幹細胞移植 | | | | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - A. 低血鈉: (血鈉濃度 40 mmol/L;尿液的渗透度> 100 mOsm/kgH 2 O | | | 血液 | 血液被稀釋 | 血中渗透壓 ( 20 mmol/L): 利尿劑、Salt wasting nephropathy、Hypoaldosteronism。 - (b) 腎外流失鈉離子 (UNa 8~12 mEq/day)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...--------------------------------------------------------------------------------------------------------------------| | hyponatremia | osmolality | 2. Hyperproteinemia | | | | 3. Posttransurethral resection of prostate/bladder tumor | | | Increased plasma | 1. Hyperglycemia | | | osmolality | 2. Mannitol | | Hypoosmolal | Primary Na + loss | 1. Integ Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 對低血鈉有概念了嗎?低血鈉在臨床上相當常見,天天在抽 BUN/CR、Na/K,抽出來的低血鈉你是否會處理?謹記幾個原則,先排除假性低血鈉,看一下 chart,病人是否有高血糖、高血脂等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 【詳解】病患因嘔吐→脫水→啟動 RAA system →留鈉排鉀排酸 代謝性鹼中毒;由於處於脫水狀態,尿液滲透壓會上升。(A) 血清 滲透壓可能會下降(hypovolemic hyponatremia),(B) 高尿鉀 due to metabolic alkalosis。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (A) 2.60 歲男性,有長期菸瘾習慣,過去病史已知有40年慢性B型肝炎及8年慢性支氣管炎。本次因食慾不佳及黃疸就醫住院,診斷為慢性B型肝炎急性惡化。入院15天後突發性高燒39℃,輕微腹瀉,及呼吸困難,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何種抗生素為最適當之治療選擇? - (A) ciprofloxacin - (B) fluconazole - (C) imipen Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

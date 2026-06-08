@@ -24,6 +24,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch02]]"
 aliases:
   - 'Renin-angiotensin-aldosterone system, RAAS (腎素-血管張力素-醛固酮系統)'
   - 'Renin-angiotensin-aldosterone system, RAAS'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-心衰竭與高血壓治療的重要神經荷爾蒙路徑。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭與高血壓治療的重要神經荷爾蒙路徑。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,12 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch02]]
 
 ## Key Details From Sources
 
+- c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- ...dosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (2) 遠端腎小管與尿液酸化有關途徑:H+/ATPase、the HCO3-/Cl- anion exchanger 或是 the aldosterone pathway。以上若其中一項出問題,則可能發生第一型腎小管酸中毒。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 近端腎小管對於 bicarbonate(HCO3-)再吸收出現問題,導致血漿 bicarbonate 濃度下降造成代謝性酸中毒。由於遠端腎小管氫離子幫浦沒有問題,腎臟還是可以進行正常尿液酸化,故尿液 pH 可 +ATPase 有直接作用,故 aldosterone 製造有問題或是腎臟 對 aldosterone 反應不佳則造成酸中毒。 - b. Aldosterone 在集尿管有鉀離子分泌作用。若有問題則無法將鉀離子分泌出去 進而造成**高血鉀**。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 典型 aldosterone 缺乏疾病有 Addison disease 及 congenital adrenal hyperplasia (CAH)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -81,8 +85,6 @@ tags:
 - (D) 血管升壓素 (angiotensin) 增加 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (a) 血壓高:若與礦物性皮質素 (Aldosterone) 分泌過量有關,乃因其藉由留 鈉排鉀,所以會合併高血壓,要考慮腎動脈狹窄 (Renal artery stenosis)、 Conn's syndrome 等。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...| 4. 下列有關糖尿病腎病變之敘述,何者錯誤? (A) 蛋白尿或微蛋白尿不會出現於新診斷第二型糖尿病病人 (B) 病理上的變化如腎絲球基底膜變厚及腎小球內基質 (mesangium)擴張是常見的 (C) 使用腎素 - 血管張力素系統 (renin-angiotensin system)阻斷劑 (D) 國內目前每年進入透析的新病人其原發病因以糖尿病腎病變占第一位 | 105(二)專醫三-7 | |-----|------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- Efferent a.: 透過增加 renin, angiotensin II 讓出球小動脈收縮 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...B) 腎小管腎絲球回饋(tubuloglomerular feedback),會影響出球小動脈(efferent arteriole)之收縮與舒張 - (C) 腎小球旁器 (juxtaglomerular apparatus) 釋出腎素 (renin),引 發入球小動脈 (afferent arteriole) 之收縮 - (D) 抑制腎小管產生腺苷 (adenosine),可造成入球小動脈 (afferent arteriole) 之擴張 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

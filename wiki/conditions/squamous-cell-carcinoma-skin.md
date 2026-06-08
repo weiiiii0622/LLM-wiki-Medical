@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med5-book1-ch01]]"
 aliases:
   - 'Cutaneous squamous cell carcinoma, cSCC (皮膚鱗狀細胞癌)'
   - 'Cutaneous squamous cell carcinoma, cSCC'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med5-book1-ch01]]
 
 ## Key Details From Sources
 
+- (D) 16. 一位 65 歲男性,因吞嚥困難及體重減輕住院檢查,病患體重 40 公斤,血清蛋白(serum albumin)值為 2.5 g/dL,內視鏡檢查發現食道下段有腫瘤造成阻塞,切片病理報告為食道之鱗狀上皮細胞癌,胸部電腦斷層檢查結果並無明顯之縱膈腔或肝臟轉移,骨頭掃描結果並無明顯遠處轉移。胸腔外科醫師評估可以手術切除,你認為以下那種處置比較適當? - (A) 馬上安排手術切除食道並重建以免癌症擴散 - (B) 一般葡萄糖輸液補充 7 天後手術 - (C) 全靜脈營養 (total parenteral nutrition) 補充 1 天,立即手術 - (D) 全靜脈營養補充 7 天後手術 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) 152 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 【詳解】脂漏性角化症為良性上皮增生,而 (A)(B)(C) 都有轉化為 SCC 的機會,Bowen's disease 即為 SCC in situ,erythroplasia of Queyrat 是指長在 Glans penis 上的 Bowen's disease。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 2. 砷最出名的即鳥腳病:周邊動脈硬化(PAOD),造成足部潰瘍和壞死。除此外, 慢性砷中毒於皮膚上會有黑白斑駁的色素不均以及手掌、腳掌點狀角化。於非陽光 曝曬部位容易轉變為 Bowen's disease (SCC in situ), 進而惡化為 SCC。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

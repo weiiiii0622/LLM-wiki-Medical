@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Necrotizing fasciitis (壞死性筋膜炎)'
   - 'Necrotizing fasciitis'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-快速進展的深部軟組織感染，需早期手術評估與廣效抗生素。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+快速進展的深部軟組織感染，需早期手術評估與廣效抗生素。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- ...indamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (B) botulinum toxin Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (1) 致病因子: S. aureus 分泌之 Toxic shock syndrome toxin 1 (TSST-1) 及 Staphylococcal enterotoxin 和 Group A Streptococcus 分泌之 Streptococcal pyrogenic exotoxins (SPE) ,也就是超級抗原 (superantigen) 所導致之系統性症候群。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - | Bacteria | Toxin | Toxin Type | Clinical Disease | |----------------|--------------------------|---------------|-------------------------------------| | Staphylococcus | Exfoliatin type A | Epidermolytic | Bullous impetigo | | aureus | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -68,7 +71,6 @@ tags:
 - D. 尿毒症毒素 (Uremic toxin) 95 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ## D. 尿毒症毒素 (Uremic toxin) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...toacidosis | | | | (C) diarrhea | (D) salicylate intoxication | | | | | lic acidosis 的四大類原因:lactate、keton、 | | | | drug/toxin · renal failure · | | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- 1. Contrast-induced nephropathy; CIN (主因是 renal blood flow 下降和 toxin) - (1) 在原本已有腎功能不全的病人較容易發生(糖尿病、脫水的病人)。 - (2) 病發因素: - a. 腎小管 (outer medulla) 的小血管阻塞導致缺氧。 - b. 高濃度的顯影劑流經腎小管產生自由基,造成細胞毒性。 - c. 顯影劑造成暫時性的腎小管阻塞。 - (3) 通常在注射顯影劑後 24 小時內發生腎功能惡化,在 3~5 天內達到最高,7~10 天後回復正常。 - (4) 治療主要是支持性療法,重點在於預防: Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 
@@ -77,7 +79,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/surgical-site-infection|Surgical site infection, SSI (手術部位感染)]]
 
 ## Follow-up
 

@@ -36,6 +36,9 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Oxygen therapy (氧氣治療)'
   - 'Oxygen therapy'
@@ -50,7 +53,7 @@ tags:
 
 ## Summary
 
-低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +89,17 @@ tags:
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- (6) 低體溫也會使紅血球對氧氣親和力增加,不易釋放氧氣給組織用。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- (2) Malignant hyperthermia (惡性高體溫): - a. 少見,約十萬分之一,不容易事前預知,事發時相當緊急。 - b. 原因為麻藥造成,如吸入性麻醉藥(主要是 halothane,但亦可見於 isoflurane、desflurane、sevoflurane)、去極化肌肉鬆弛劑(succinylcholine),此類病人多為基因異常造成接觸麻醉藥時引發包內鈣離子增加,肌肉代謝加速,會有體內二氧化碳升高、心跳加快、體溫過高、全身肌肉僵直,甚至橫紋肌溶解。 - c. 治療方式是趕緊停止引起惡性高體溫的麻醉藥物,給予足夠的水分和氧氣 (此時全身組織耗氧量非常大),並給予施打 Dantrolene,能抑制鈣離子由肌 漿網中釋出,重新調整肌漿網內鈣離子的平衡,使體溫恢復正常。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- (C) 11. 病人於腹部手術後,如果經評估後有發生腹部腔室症候群(ab- 103(二)專 dominal compartment syndrome)的風險時,應採取下列何種措施? 醫五-4 - (A) 供給氧氣 - (B) 供給大量輸液 - (C) 避免將傷口做初期縫合 (primary closure) - (D) 放置中央靜脈導管 (central venous catheter) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (4) 給予氧氣或進行插管:因外傷引起呼吸道阻塞或高位頸椎損傷引起呼吸肌肉癱 瘓的傷患,需予以插管換氣,其餘傷患則可以給予氧氣罩。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (D) 20. 成人腦部重約佔體重之 2~3%,需要永不停止供應養分 (每天約 104(二)專 150 公克葡萄糖和 72 公升氧氣 )。腦部氧氣消耗量占身體之多少 醫四-49 百分比 (%) ? (A) 5 (B) 10 (C) 15 (D) 20 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (a) 太輕微者( 5. 承上題,所述病症,急診室醫師最先要做的處置為何? (A) 腦脊髓液檢查 (CSF examination) (B) 給予高壓氧氣治療 (hyperbaric oxygen therapy) (C) 頭部電腦斷層檢查 (head CT scan) (D) 使用藥物、優先降血壓 (antihypertensive therapy) | 103( 一 ) 專醫四 -48 | |-----|------------------------------------------------------------------------------------------- Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...被光線刺激,晚上休息改善 | 一天數次,好發夜晚入睡後 | | | 30 分鐘至 7 日 | 持續4到72小時 | 15 到 180 分鐘 | | 急性 | 改變生活方式; | Sumatriptan, Ergotamine | 100% 氧氣 | | 治療 | Antidepressant | Novamin | Sumatriptan, Ergotamine | | 慢性 | β blocker \ | $\underline{\mathbf{A}}$ nticonvulsant, $\underline{\mathbf{\beta}}$ blocker, | CCB | | 預防 | 肌肉鬆弛劑 | CCB, Antidepressant | 鋰鹽 (Lithium) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
@@ -102,11 +113,6 @@ tags:
 - (2) 出生時評估: - a. Hypoxemia、動脈血氧分壓低於 50 mmHg、給予 FiO2 > 50% 的氧氣仍然無 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (3) 發紺,但在給予氧氣後可以改善。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (1) 氧氣給予,確保血氧飽和度 95% 以上。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (C) 急性期可先給與氧氣及 Epinephrine 混合生理 食鹽水以吸入方式治療 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (D) 3.9個月大的女嬰,發燒咳嗽2天,出現聲音沙啞、咳嗽聲音異常、 107(二)專 呼吸費力,來急診就醫,醫師發現有明顯的喘鳴音(Stridor), 醫四-6 下列何種處置最不合適? - (A) 給與氧氣吸入治療 - (B) 給與吸入性腎上腺素治療 - (C) 給與類固醇治療 - (D) 給與抗生素注射治療 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】聲音沙啞(hoarseness)、咳嗽聲音異常(barking cough)、喘鳴音(stridor)為 croup 的典型表現。Croup 臨床上多為病毒 感染(parainfluenza 最常見),治療方式有給予氧氣、吸入性腎上腺素以及注射類固醇治療。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (A) 立即以點滴給予抗癲癇藥物及給予氧氣 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (D) 使用袋 瓣 面罩 (bag-valve-mask) 協助高中生呼吸,並立即 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

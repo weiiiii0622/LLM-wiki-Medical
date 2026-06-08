@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Polymyositis and dermatomyositis (多發性肌炎與皮肌炎)'
   - 'Polymyositis and dermatomyositis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- (C) 5. 下圖 45 歲男性,急性冠狀動脈阻塞導至心因性休克,緊急做完 107( - ) 專 冠狀動脈繞道手術後,心臟收縮能力不好,因此放上了主動脈 氣球幫浦及葉克膜氧合器,送往加護病房觀察,左腳六個小時後發現有鼓脹的情形,下列敘述何者錯誤? ①肢端的脈搏先確 認 ②有可能血液中肌酸激酶(CK)會提高 ③可以量測腔室的 壓力,若大於 20 mmHg 可能要作筋膜切開手術 ④小腿有五個腔室:anterior、deep posterior、superficial posterior、lateral 和 medial Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - III. 肌肉病變(Muscular Disease) 178 - A. 肌肉失養症 (Muscular dystrophy) 178 - B. 多發性肌炎 (Polymyositis)、皮肌炎 (Dermatomyositis) *182* Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - ...會計的工作,3 個月來一到黃昏 右眼皮就會往下垂,晚上看電視時,影像顯得模糊不清,稍作休息會有所改善;這2 天喝水常會嗆到,因情況持續,而至門診 求助。最可能的診斷為何? (A) 重症肌無力症(myasthenia gravis) (B) 多發性肌炎(polymyositis) (C) 多發性顯神經病變 (D) 代謝性肌病變 | 105(二)專醫四-55 | |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - ...之敘述,何者錯誤? (A) 血中肌酸激酶(creatine kinase)值有助於肌肉疾病的診斷 (B) 裘馨氏肌肉失養症(Duchenne muscular dystrophy)是由肢體 末端開始無力之肌肉疾病 (C) 肌肉切片檢查有助於多發性肌炎之診斷 (D) 肌強直性失養症(myotonic dystrophy)是成人常見之遺傳性 肌肉疾病 | 103(二)專醫四-56 | |-----|----|--------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
@@ -72,7 +75,6 @@ tags:
 - (b) Heliotrope rash: 雙側眼瞼部位出現 blue-violet discoloration (due to photosensitivity), 有時會伴隨著眼眶周圍水腫。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...blood): 3+, urobilinogen: 3+, RBC: 1~2/HPF, WBC: 0~2/HPF • 抽血檢查發現, AST/ALT = 120/130 U/L, K = 5.0 mM, LDH = 400 mg/dL, CK = 143,840 U/L。下列何者為最可能的診斷? (A) 急性肝炎 (acute hepatitis) (B) 急性腎絲球腎炎 (acute glomerulonephritis) (C) 橫紋肌溶解症(rhabdomyolysis) (D) 急性溶血 (acute hemolysis) (B) 6. 以下何者不是緊急治療高血鉀之藥物? 99(一)專 (A) 鈣 (calcium) 醫四 -3 (B) β 阻斷劑 (propran Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...(hemoglobin)值 為 11.6 g/dL;血小板數為 360,000/mm³;血中鉀離子濃度為 4.0 mmol/L,鈉離子濃度為 135 mmol/L,血中 ALT 48 U/L,AST 226 U/L,LDH 677 U/L,CK 1502 U/L,尿液檢查顯示 OB ³+,RBC 1~3/HPF,尿蛋白:negative。男童最有可能的診斷為: - (A) 急性肝炎 (acute hepatitis) - (B) 急性溶血症 (acute hemolytic syndrome) - (C) 急性橫紋肌溶解症(acute rhabdomyolysis) - (D) 急性膀胱炎 (acute cystitis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【詳解】急性肝炎臨床上血液 ALT 應該會大幅上升。病人血紅素尚在可接受範圍內故 (B) 的機會不大。題目敘述中,LDH 與 CK 上升,且尿液檢查顯示 OB3+,故可推測 (C)。急性橫紋肌溶解症需特別注意肌球蛋白造成急性腎衰竭;處理方式為給予大量的液體,鹼化尿液。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch03]]"
 aliases:
   - 'Cytokine signaling (細胞激素訊號)'
   - 'Cytokine signaling'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,15 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch03]]
 
 ## Key Details From Sources
 
+- ...染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 1. Prednisolone: 具有抗發炎和免疫抑制的作用,抑制 macrophage,降低 IL-1,2,6 和 TNF 的分泌。副作用有水牛肩、月亮臉、骨質疏鬆、肌肉無力、高血壓、高血糖、感染、消化道潰瘍,少數人會白內障或青光眼。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...影響到有效心輸出量而造成休克。 - (3) 分配性 (distributive):分為敗血性 (septic)、過敏性 (anaphylactic) 和神經性 (neurogenic)。 - a. 敗血性休克:遭細菌感染釋放出之毒素,使得 TNF-α、IL-1、IL-6、IL-8 會增加,造成周邊血管擴張,vessel tone 下降,血管內有效容積下降,引起休克。 - b. 過敏性休克: 因嚴重的過敏反應而引發體內細胞釋放出物質使全身血管擴張 導致血壓下降。 - c. 神經性休克:由於脊髓損傷導致神經性反射及血管阻力喪失,使周邊血管擴張使得血液湧向周邊部位、造成主要器官組織灌流不足,心輸出量減少,引起休克。 - (4) 阻塞性(obstructive):心包填塞、肺動脈栓塞、 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...性硬化症(multiple sclerosis)的敘述,何者錯誤? | 100(二)專 | | | (A) 是週邊神經系統的疾病 | 醫四 -47 | | | (B) 腦脊髓液內之腫瘤壞死因子(Tumor Necrosis Factor, TNF) | | | | 與疾病活動性有關 | | | | (C) 干擾素治療有療效 | | | | (D) 相關之病毒為 EBV 及 HHV6 | | | | | | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - a. 超級抗原會直接和 MHC II 結合並刺激活化 T 細胞,造成 IL-1、IL-6、TNF 和 Interferon $\gamma$ 等激素的釋放,引起發燒、低血壓、紅疹和多重器官衰竭。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (4) 生物製劑:生物製劑主要是指由生物體製造,具有藥理作用的蛋白質製劑。 目前國際上普遍使用的共有五種,包括針對 TNF 的單株抗體 Infliximab 及 Adalimumab、TNF 受體融合蛋白 Etanercept、針對 IL-12 和 IL-23 的單株抗體 Ustekinumab、作用於 CD2 的 Alefacep。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
@@ -67,10 +75,6 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - (2) TNF: Etanercept (Enbrel® 恩博)、Adalimumab (Humira® 復邁)、Golimumab (Symponi® 欣普尼)、Certolizumab (Cimzia® 欣膝亞): - a. 與 $TNF-\alpha$ 結合,抑制其引發的發炎反應,但此藥最大的擔憂即是結核菌的復發或感染;因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則無法被活化,便較無法攻擊細胞內的病原體。另外也可能造成 HBV reactivation。 - b. 可能增加 Lymphoma 的發生、造成 ANA、anti-DNA 自體抗體的產生,還可能造成乾癬及中樞神經去髓鞘疾病。(Harrison 2090) Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (2) 病因:因數種 Cytokine (TNF, IL1, IFN $\gamma$ ) 抑制鐵的應用,因此僅靠輸血不能根治,需治療其慢性疾病。 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...------------------------------------| | | 1 | MHC | 用於呈現抗原給T細胞 | | APC | 2 | B7 | 可與 T 細胞的 CD28 結合,將 T 細胞完全活化 | | | 3 | Cytokines | IL12 可促進 Th0 往 Th1 分化,IL4 往 Th2 分化 | | | | TCD/CD2 | TCR 負責抗原與 MHC 認知,若辨識吻合,則 CD3 負責將訊息傳遞到 | | | | TCR/CD3 | 細胞內部 (Signal transduction),此為活化 T 細胞的第一活化訊息。 | | | 1 | 複合物 | (注:TCR=T cell receptor,Th=Helper T cell,Tc=Cyt Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- | 影響的 Cytokine | 分化至… | 分泌 | 功能 | |--------------|--------------|----------------------------|-------------------------------------------| | | | | CTL→使被感染的細胞凋亡 | | IL12, IFNγ | Th1 (T-bet) | IL2, IFN 7 | Macrophage→吞噬被調理的病原菌 (Opsoniz Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- | (B) | 有關 T 淋巴球(T lymphocytes)的敘述,下列何者正確? (A) 活化的 CD8+T 淋巴球(CD8+T lymphocytes)可分化成可分泌細胞激素的 TH1 或 TH2 細胞(cytokine-producing TH1 or TH2 cells) (B) 宿主對抗結核菌感染,CD4+T 淋巴球(CD4+T lymphocytes)的活化和增生是最重要的 (C) TH1 細胞(TH1 cells)主要製造的細胞激素為干擾素(IFN-γ)以及介白質 4 和 5(interleukin-4 and interleukin-5) (D) TH2 細胞(TH2 cells)主要製造介白質 Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
-- (2) Anti-TNF $\alpha$ : 自 2000 年,不斷有報告顯示其可迅速、持續地減緩臨床上、實驗室數據上的疾病活性,有> 50% 病患的 BASDAI(評估 AS 的活性量表)可減少一半以上。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- (3) Sulfasalazine:對周邊關節較有效,以周邊關節表現的患者建議先使用此藥,無效 再使用 Anti-TNF α 生物製劑。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

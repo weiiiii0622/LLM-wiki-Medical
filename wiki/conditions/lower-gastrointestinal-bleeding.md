@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Lower gastrointestinal bleeding (下消化道出血)'
   - 'Lower gastrointestinal bleeding'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- ...位 60 歲男性病患於一週前因退化性關節炎接受左髋部人工髓關節全置換手術治療(total hip replacement),術後連續五天注射止痛劑和 cephalosporin 治療,病人於術後第 7 天開始發生持續性腹瀉、腹痛、且帶有少許血便,發燒及白血球增多,但並無腹膜炎現象,此時除了 stool culture 之外,該先如何處理? (A) 給予 Buscopan,並重新使用 cephalosporin 治療 (B) 作 stool cytotoxin assay,保守性治療,並安排大腸鏡檢查 (C) 安排 barium enema 檢查 (D) 安排緊急全大腸切除術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture 長出何種細菌,則 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (A) 1.3個月大的女嬰,體重 5.8公斤,純母乳哺育。最近常出現血便, 但沒有發燒,體力、精神、食慾都很好。大便除帶血絲外無特殊 變化。下列敘述何者最為正確? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】本題對醫師而言可說是常識題,但也是需要臨床經驗才可判斷。3個月大孩子解血便,是否有感染的可能性在臨床上要優先考量。如果排除感染,接下來考慮是否有對食物的耐受性不佳或是其它自身腸胃道的疾病。臨床上要檢驗過敏原,理想的年紀應在3歲左右(太早驗的話臨床上會有很高機會誤判)。至於潰瘍性大腸炎,以這個年紀而言應該不是優先考量,大腸鏡檢查不會是第一優先選擇。選項中較好選項為(A)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -64,7 +67,6 @@ tags:
 - (A) 如果病人解大量鮮血便(hematochezia),必為下消化道的大量 出血,要緊急安排大腸鏡 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - (C) 5. 下列有關下消化道出血的敘述,何者錯誤? Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- (B) 嬰幼兒發燒超過 24 小時,有血便,或腹瀉持續數天,應就醫進 行診治 Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 
 ## Clinical Caveats
 

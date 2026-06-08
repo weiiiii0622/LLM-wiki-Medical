@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Colorectal cancer (大腸直腸癌)'
   - 'Colorectal cancer'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-大腸與直腸惡性腫瘤，篩檢、分期與手術/化療策略影響預後。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸與直腸惡性腫瘤，篩檢、分期與手術/化療策略影響預後。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,14 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (C) carcinoembryonic antigen (CEA) and colon cancer Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- ...--------| | (A) Carbohydrate antigen 19-9(CA19-9)通常用來當胰臟癌的 | 醫五 -8 | | tumor marker | | | (B) Carcinoembryonic antigen (CEA) 臨床上常用來監測大腸直 | | | 腸癌 | | | (C) α-fetoprotein 在胎兒時會下降,出生後會逐漸上升,懷孕時 | | | 會下降 | | | (D) CA-125 在子宮內膜異位和肝硬化的病患會上升 | | | 【詳解】(C) $\alpha$ -fetoprotein 懷孕第四週時,便能在胎兒血清中偵 | | | 測到,到第 12 至 16 週時濃度達到最高點,接著開始逐漸下降, | | | 直到出生。出生後 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- ...何者錯誤? 102(一)專 (A) Primary sclerosing cholangitis 醫五-9 (B) Failure of a previous liver graft (C) Alagille's syndrome (D) Colon cancer with liver metastases (AC) 8. 目前器官移植後,常用的藥物為 Tacrolimus (又稱 FK-506 或 101(二)專 Prograf),其作用機轉為: 醫五-3 (A) 抑制 IL-2 的生成 (B) 抑制 purine 的代謝 (C) 抑制 cytokine 的產生 (D) 抑制淋巴球進入移植體 (A) 9. 病患蔡先生, 現年 40 歲, 因尿毒症而接受血液透析共 10 年, 登 101(一)專 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (B) 6. 下列何種腸胃道息肉(Polyps)發生大腸癌(Colon cancer)的風險最高? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 2. Germ cell tumor(GCT)又可以分成精母細胞癌(seminomatous GCT)以及非精母細胞癌(Non-seminomatous GCT)、其中 NSGCT 又包含 embryonal cell cancer, teratoma, yolk sac tumor, choriocarcinoma。特色是 β-hCG 以及 AFP 同時會升高。因此,可以使用 AFP, CEA, 或是 β-hCG 做為追蹤指標。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

@@ -26,6 +26,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Cardiac biomarkers (心肌酵素)'
   - 'Cardiac biomarkers'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (C) Mycophenolate mofetil (MMF) 為 calcineurin inhibitor, 在體內由肝臟之 cytochrome p450 enzymes 負責代謝 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (1) 血液生化檢查:心肌酵素(creatine phosphokinase, lactate dehydrogenase)在急性或慢性心肌炎可能會提高。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) 3. 關於 21- 羥酶缺乏(21-hydroxylase deficiency)所致之先天性腎上 104( 二 ) 專 腺增生(congenital adrenal hyperplasia)的敘述,下列何者正確? 醫四 -17 - (A) 男嬰的外陰部會出現性器混淆(ambiguous genitalia) - (B) 大多數患兒會出現電解質失調(electrolyte disturbance) - (C) 男童比女童易罹患此症 - (D) 臨床上常以 21- 羥酶酵素活性 (enzyme activity) 的測定作為 診斷的依據 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...--------------------------------------| | Plus 3 of the following: | | | Weakness | Symmetric | | | Proximal | | Muscle enzyme elevation ( $\geq 1$ ) | Creatine kinase | | | Aspartate aminotransferase | | | Lactate dehydrogenase | | | Aldolase | | Electromyographic changes | Short, small polyphasic motor unit potentials | | | Fibrillations | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

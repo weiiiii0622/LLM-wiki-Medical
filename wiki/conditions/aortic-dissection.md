@@ -16,6 +16,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book1-ch11]]"
 aliases:
   - 'Aortic dissection (主動脈剝離)'
   - 'Aortic dissection'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,13 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch09]]
+- [[sources/med5-book1-ch11]]
 
 ## Key Details From Sources
 
+- (B) 對後腹膜腔的器官或需要從腹膜外(extraperitoneal space) 進入腹腔時,有時需要用氣球撐開術(balloon dissection) 來打開第一個洞 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
+- 3. 聽診: - (1) 頸動脈聽得見雜音(bruits)時,需懷疑 carotid dissection。 - (2) 眼球周圍可聽見雜音,懷疑 traumatic carotid-cavernous fistula。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (A) 13. 60 歲男性於腹主動脈剝離後 3 日,發現雙下肢無力與麻木、失禁,神經學檢查顯示下肢的感覺功能異常,但下列何感覺功能仍可能是正常? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...下則頭痛立即改善,一般檢查為正常。最可能的診斷為何? | 醫四 -46 | | (A) 大腦靜脈竇栓塞(cerebral sinus thrombosis) | | | (B) 內頸動脈剝離(internal carotid artery dissection)引起的頭痛 | | | (C) 低顱內壓頭痛(low intracranial pressure headache) | | | (D) 椎基底偏頭痛(vertebrobasilar migraine) | | | (B) 23. 關於慢性緊縮型頭痛(chronic tension-type headache)的敘述, | 102(二)專 | | 下列何者錯誤? | 醫四 -52 | | (A) 每個月頭痛天數超過 15 天以上 | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (3) 心血管異常:約有 1/3 的病人併有心血管異常,常見的有二尖瓣脫垂、反流、 主動脈根部瘤狀樣擴大、甚至造成主動脈剝離。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].

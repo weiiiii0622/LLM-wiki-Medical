@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Pediatric dehydration (兒童脫水)'
   - 'Pediatric dehydration'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid defic Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- 【詳解】氫氟酸會釋放氫離子,產生與強酸類似的局部腐蝕效果及脫水症狀(coagulation necrosis);另外氟離子的組織穿透力高,會和體內的鈣或鎂結合成不溶性的鹽類,造成低血鈣和低血鎂,進而引發心律不整、抽搐、死亡。氫氟酸灼傷形成的水泡都應予以弄破並除去其中可能殘留氟離子的任何壞死組織,水泡底面,應塗以含鈣或鎂的乳膠,以對抗氟離子所造成的毒性。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (A) 6. 一位 50 歲女性,因為發燒、腹瀉、脫水,在一家醫院注射點滴 治療,病患突然意識障礙、煩躁,而且陷入半昏迷狀態,轉到醫 學中心緊急做了 MRI 檢查,根據此二張 MRI T2WI 及 DWI 影像, 最適當的診斷是: 100(二)專醫四-74 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 1. 住院治療:處理病人可能會因為長期厭食而導致的內科問題如脫水(dehydration)、 飢餓(starvation)、電解質不平衡(electrolyte imbalance)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - ...病則較易引起譫妄 (B) 酒精戒斷會引起攻擊,因此需盡快將患者約束在床上 (C) 常須給 benzodiazepine 類藥物治療 (D) 避免給抗精神病藥物 (antipsychotics) 【詳解】(B)除非不得已應該減少約束,避免患者脫水。 (D) 15. 酒精戒斷症狀可能因人而異,可分為四大類包含:① 知覺障礙 107(一)專 (如:幻覺) ②震顫 (tremulousness) ③抽搐 (seizure) 醫四-69 ④ 譫妄 (delirium tremens); 雖未必人人有一樣的發作順序,但 若以最典型的發生時序,中斷飲用酒精後,依先後排序為何? (A) (3) (1) (4) (2) (B) 1 3 2 4 (C) 4 2 3 1 (D) 2 1 3 4 ( Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].

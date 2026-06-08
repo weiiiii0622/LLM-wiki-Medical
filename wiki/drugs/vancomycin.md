@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch03]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Vancomycin (萬古黴素)'
   - 'Vancomycin'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,16 @@ glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch03]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...ridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...minated(D) dirty and infected | 107(二)專醫五-5 | | (A) | 9. | 有關各種抗生素作用機轉的敘述,下列何者正確? (A) cephalosporins 是抑制細菌細胞壁的合成與發展 (B) vancomycin 是抑制細菌蛋白質的合成 (C) rifampin 是抑制細菌去氧核醣核酸(DNA)的合成 (D) quinolones 是抑制細菌核糖核酸(RNA)的合成 【詳解】(B) 抑制細菌細胞壁的合成;(C) 抑制 DNA-dependent RNA polymerase 的活性;(D) 抑制 DNA 合成。 | 106(二)專醫五-63 | | (C) | 10. | 與腹腔內感染(intra-abdominal infections)相關 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...到 self-limited colitis,偽膜性大腸炎(pseudomembranous colitis),猛爆性大腸炎(fulminant colitis)到毒性巨結腸症(toxic megacolon)都有 (C) 主要治療方法是 vancomycin 靜脈注射 (D) 電腦斷層上的表現主要是結腸壁變厚和水腫以及有腹水產生【詳解】口服 vancomycin 不易被腸胃道消化吸收,正因如此才能在腸胃道內維持其效果。如果被吸收離開腸胃道,就無法達到治療 Clostridium difficile 的目的,所以 IVform 反而沒有效, | 104(一)專醫五-1 | | | 因為 Clostridium difficile 是在腸胃道管腔內。 | | | (D) 14. | . 一位 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (BD) 8. 病患經過處理之後狀況逐漸改善,不幸的是,在術後五天之後又 106(二)專再度高燒不退,下列處置何者錯誤? 醫五-45 - (A) 血球檢查、胸部 X 光、尿液分析和血液培養 - (B) 若懷疑是導管相關感染,拔掉導管同時並給予 vancomycin 或是 linezolid - (C) 假如懷疑是心內膜炎(endocarditis),至少要給予抗生素四 到六週 - (D) 若是嚴重的敗血症或是免疫抑制 (immunosuppression) 的病人, 抗生素藥效須涵蓋 *gram-positive cocci* 和 fungus Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- 【詳解】(B) 當菌種為對 vancomycin 有抗藥性時,才會選擇使用 linezolid;(D) 需考量到 Pseudomonas aeruginosa 或其他 Gram-negative bacilli 等菌。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 【詳解】病人已給予四天 cephalexin 但傷口仍擴大化膿,懷疑有抗藥性,可能是 MRSA 感染,故選擇 vancomycin 較有效。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (C) 1. 治療黴漿菌 (*Mycoplasma pneumoniae*) 肺炎,下列何種藥物最 109(二)專 適當? 醫四-4 - (A) Penicillin - (B) Vancomycin - (C) Azithromycin - (D) Gentamicin Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -60,10 +69,6 @@ glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴
 - ...有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | | | | , | 過後發生腦膜炎需懷疑 S. aureus | MRSA | Vancomycin | | Haemophilusinfluenzae | (又圓又桿) | 自從孩童普遍接種 H. influenzae type b疫苗,發生率已減少 | | Ceftriaxone | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - 2. 肺炎雙球菌導致的腦膜炎需根據抗藥性狀況,選擇抗生素(重要,常考!!)。 - (1) 完全沒有抗藥性可考慮 IV high dose penicillin。 - (2) 一般經驗性用藥需使用第三代cephalosporin最好的選擇是Ceftriaxone(Rocephin®)。 - (3) 高度抗藥性,需加上 Vancomycin。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - | 分類 | 治療 | 其他選擇 | |------------------------------|-------------------------------------------|--------------------------------------| | Mixed aerobic-anaerobic bac. | Cefotaxime + metronidazole or clindamycin | Piperacillin-tazobactam + vancomycin | | Clostridium perfringens | Pencillin + Clindamycin | Cefoxitin + Clindamycin | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- ...resistant Staphylococcus aureus)。下列 | 8三-63 | | | 那一種抗生素不適合? | 10010 and Diaphytococcus cureus / / / j | 四 00 | | | (A) Vancomycin | (B) Meropenem | | | | (C) Linezolid | (D) Daptomycin | | | (B) | 6. 下列有關骨髓炎(osteomyelit | tis)的敘述,何者錯誤? | 98(一)專 | | | (A) ESR 可作為治療反應的進 | | 醫三-15 | | | (B) Streptococcus 是骨髓炎最 | | | | | (C) 小孩子的骨髓炎好發於長 | | | | | (D) Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- (2) 治療: - a. 完全沒有抗藥性可考慮 IV high dose penicillin - b. 一般經驗性用藥需使用第三代 cephalosporin 最好的選擇是 Ceftriaxone。 - c. 高度抗藥性,需加上 Vancomycin、Rifampin。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (C) 4. 八八水災造成屏東低窪地區嚴重淹水,十天後,該地區有位 50 歲男性發生急性高燒 38.5℃、頭痛、肌肉酸痛,週邊血白血球為17,000/μL, 血小板120,000/μL, GOT:150 U/L 及 GPT:162 U/L,總膽紅素(total bilirubin):4.1 mg/dL;血清肌酸酐(serum creatinine):3.2 mg/dL。下列何種抗生素為最適當之治療選擇? - (A) amikacin - (B) ciprofloxacin - (C) crystal penicillin G - (D) vancomycin Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...|---------------------|------------------------------------|--------------------------------------| | Tuitial animada | Vancomycin 125mg po qid x 10 days | Alternative: | | Initial episode | Fidaxomycin 200mg po bid x 10 days | Metronidazole 500mg po tid x 10 days | | Fulminant infection | Vancomycin 500mg po/enema qid + | Chook ilous massaslan | | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 
 ## Clinical Caveats
 

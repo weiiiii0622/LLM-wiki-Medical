@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book1-ch03]]"
 aliases:
   - 'Aldosterone antagonists (醛固酮拮抗劑)'
   - 'Aldosterone antagonists'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book1-ch03]]
 
 ## Key Details From Sources
 
+- ...以 pRBC: FFP: platelet 以 1:1:1 的方式輸注來預防。 - (4) 急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - a. 大量輸血有機會造成高血鉀,另外病人大都存在休克狀態,其體內的醛固酮、 抗利尿及皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-relate Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - akalosis)。由於刺激 renin-angiotensin II-aldosteron axis,病人血液內腎素、醛固酮、前列腺素 E 濃度明顯升高。雖然腎功能正常,但尿液檢查表現高尿鈣,超音波檢查可以發現到腎鈣沉積症(nephrocalcinosis),特別是 Bartter syndrome type I 與 type II 的病人。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (3) 血液檢驗: Gitelman syndrome 臨床上除了低血鉀低血氯代謝性鹼中毒外,也會 出現低血鎂。腎素、醛固酮以及前列腺素 E 濃度都在正常範圍內。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...程中會發生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|------------------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].

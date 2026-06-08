@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Hyperthyroidism (甲狀腺亢進)'
   - 'Hyperthyroidism'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- ...e (B) 為避免 refeeding syndrome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- ...mp)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (A) 12. 陳小姐今年 25 歲,二年前開始左手會不自主甩動,接著是右手、 105(一)專 臉部、及雙腳都會發生不自主動作(如擠眉弄眼、聳肩、扮鬼臉、 醫四-59 彈指或舉腿等等),最後在身體各部位都出現,且愈來愈頻繁。 一年前她也感覺到記憶力減低,常常打錯字。她的母親在 48 歲 時也出現類似症狀,在55歲時自殺身亡。陳小姐的身體理學檢 查正常,但其智力減低且易怒。她最可能的診斷是: - (A) 亨丁頓舞蹈症(Huntington chorea) - (B) 席登罕氏舞蹈症 (Sydenham chorea) - (C) 高甲狀腺亢進舞蹈症 - (D) 中風性半邊舞蹈症 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (B) 19. 有關甲狀腺亢進與精神疾病的關聯性,下列何者錯誤? Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
@@ -69,8 +75,6 @@ tags:
 - ...是心臟衰竭 或肝腎病變 - (C) 病人 cortisol 23.3 mg/dL, ACTH 13.9 pg/mL, 因此病因不是 cortisol deficiency - (D) 病人 hsTSH 66.7 mIU/mL, 因此病因為 hyperthyroidism Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入), 造成暫時的低血鉀, 導致肌肉無力,病人可能一早起來發現四肢無力,未經鉀離子的補充,下午鉀離子就會 shift 出細胞,無力就會改善。治療甲狀腺機能亢進,症狀就會改善。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - D. Other - 1. Pseudohypokalemia - 2. Hypothermia - 3. Hypokalemic periodic paralysis(HPP,好發男性,和甲狀腺亢進有關,以四肢麻痺全身無力表現) - 4. Barium toxicity Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- C. 甲狀腺毒症(Thyrotoxicosis) 192 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- 1. 甲狀腺促進素 (Thyroid Stimulating Hormone, TSH): - (1) 與其他腦下垂體分泌的荷爾蒙一樣,都是脈動性分泌(Pulsatile secretion),但半衰期較長,因此單點量測足以提供臨床資訊。(Harrison 2225) - (2) TSH 為偵測 Primary hypo/hyperthyroidism 最敏感的方法。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 
 ## Clinical Caveats
 

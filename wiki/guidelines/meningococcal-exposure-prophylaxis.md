@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Meningococcal exposure prophylaxis (腦膜炎雙球菌暴露後預防)'
   - 'Meningococcal exposure prophylaxis'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...ed | 107(二)專醫五-5 | | (A) | 9. | 有關各種抗生素作用機轉的敘述,下列何者正確? (A) cephalosporins 是抑制細菌細胞壁的合成與發展 (B) vancomycin 是抑制細菌蛋白質的合成 (C) rifampin 是抑制細菌去氧核醣核酸(DNA)的合成 (D) quinolones 是抑制細菌核糖核酸(RNA)的合成 【詳解】(B) 抑制細菌細胞壁的合成;(C) 抑制 DNA-dependent RNA polymerase 的活性;(D) 抑制 DNA 合成。 | 106(二)專醫五-63 | | (C) | 10. | 與腹腔內感染(intra-abdominal infections)相關的敘述,下列何者錯誤? (A) 電腦斷層攝影(ab Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (B) 23. 依人類免疫缺乏病毒傳染防治及感染者權益保障條例第 12 條 99(二)專 (民國 96 年 7 月 11 日修正)之規定,感染者有提供其感染源或 醫五-79 接觸者之義務;就醫時,應向醫事人員告知其已感染人類免疫 缺乏病毒。感染者提供其感染事實後,下列敘述何者正確? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (c) 患者及接觸者(尤其親密接觸者)都必須接受治療以免互相傳染。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) 32. 一個 6 歲大的男孩,雙股及兩側下肢出現紫斑及出血疹,男孩無 98( ) 專 發燒,精神良好,但右膝腫脹,全血球計量正常,最可能診斷為: 醫四 -11 (A) 原發性血小板過低紫斑症 (idiopathic thrombocytopenic - (B) 青年型類風濕性關節炎(juvenile rheumatoid arthritis) - (C) 腦膜炎雙球菌敗血症(meningococcemia) - (D) 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura 【詳解】(A) 全血球不會正常。(B) 會發燒。(C) 會發燒,且意識 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...------------------------------------|--|--| | 1~3 個月 | B 群鏈球菌、E. coli 、Listeria monocytogenes、肺炎鏈球菌、H. influenzaetype b、腦膜炎雙球菌(N. meningitides)、沙門氏菌(Salmonella) | | | | 3個月~3歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 3~12 歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 12 歲以後 | 肺炎鏈球菌、腦膜炎雙球菌 (N. meningitides) | Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
@@ -61,8 +67,6 @@ Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者
 - ...coccus aureus 感染之單獨或合併治 | 95(一)專 | | , | 療,下列那項藥物最不適 | | 內 1-41 | | | (A) Fluoroquinolones | (B) Vancomycin | | | | (C) Rifampin | (D) Linezolid | | | (C) | 18. 血循感染急性骨髓炎的抗 | 菌藥物一般建議之治療時間為幾週? | 94(二)檢 | | | (A) 1~2 | (B) 2~3 | 內 -65 | | | (C) 4~6 | (D) 12~16 | | | | | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - D. 腦膜炎雙球菌 (Neisseria meningitidis) 129 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ## D. 腦膜炎雙球菌 (Neisseria meningitidis) Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- 2. 人類是腦膜炎雙球菌唯一的天然宿主,流行地區鼻咽部帶菌約 5~10%,一般人可能沒症狀(Asymptomatic carrier),但也可能進入人體,經血液侵犯腦部。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- (2) 治療: - a. 完全沒有抗藥性可考慮 IV high dose penicillin - b. 一般經驗性用藥需使用第三代 cephalosporin 最好的選擇是 Ceftriaxone。 - c. 高度抗藥性,需加上 Vancomycin、Rifampin。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

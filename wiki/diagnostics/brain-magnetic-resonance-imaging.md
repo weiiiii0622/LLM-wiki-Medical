@@ -8,6 +8,8 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book1-ch17]]"
 aliases:
   - 'Brain magnetic resonance imaging, brain MRI (腦部磁振造影)'
   - 'Brain magnetic resonance imaging, brain MRI'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch13]]
+- [[sources/med5-book1-ch17]]
 
 ## Key Details From Sources
 
+- (3) MRA (magnetic resonance angiography):難以偵測 3 mm 以下的動脈瘤。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- ...phic disco- | | | | graphy) | | | | (C) 電腦斷層加脊髓造影檢查 (computed tomographic myelo- | | | | graphy) | | | | (D)磁振造影加顯影劑檢查 (magnetic resonance imaging with | | | | gadolinium) | | | | | | Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (A) 3. 某日,一位 69 歲女性 A 在健身俱樂部被游泳池員工帶往服務台, 建議 A 的先生帶 A 到醫院檢查。原來,A 不斷地問同樣的問題 「我現在在那裡?我在做什麼?」很快地,他們來到醫學中心 急診部,病人血壓偏高,意識清楚,手腳活動與感覺正常,步 態平穩。54 小時後安排了 Brain MRI 結果如下, A 有可能的狀 況為: - (A) 暫時性失憶症 (transient global amnesia) - (B) 阿茲海默症 (Alzheimer disease) - (C) 失憶性中風 (amnestic stroke) - (D) 癲癇發作 (epileptic seizures) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - The brain MRI taken 54 hours after the event, DWI. Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - b. FLAIR (fluid-attenuated inversion-recovery) -weighted 因將 T2-weighted 下的 腦脊液訊號抑制,較傳統 T2-weighted MRI 更能輕易看出病變之範圍;但新發生及舊的中風病灶皆會亮起來。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
@@ -49,7 +55,9 @@ tags:
 
 ## Related Pages
 
+- [[conditions/brain-tumor|Brain tumor (腦瘤)]]
 - [[anatomy/cerebellum|Cerebellum (小腦)]]
+- [[conditions/diffuse-axonal-injury|Diffuse axonal injury, DAI (瀰漫性軸索損傷)]]
 - [[conditions/ischemic-stroke|Ischemic stroke (缺血性腦中風)]]
 - [[conditions/multiple-sclerosis|Multiple sclerosis, MS (多發性硬化症)]]
 - [[conditions/stroke|Stroke / cerebrovascular accident, CVA (腦中風)]]

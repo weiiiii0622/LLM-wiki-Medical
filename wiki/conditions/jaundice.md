@@ -37,6 +37,8 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Jaundice (黃疸)'
   - 'Jaundice'
@@ -51,7 +53,7 @@ tags:
 
 ## Summary
 
-黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +90,14 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- ...cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- d. Bilirubin (mg/dL) - (a) 1.2~1.9:1分 - (b) 2.0~5.9:2分 - (c) 6.0~11.9:3分 - (d) > 12.0:4分 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (D) 13.50 歲男性肝臟移植術後第七天,出現右上腹痛及輕微發燒, 100(二)專 g-GT、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的肝功能正常且與國 醫五-79 明有相同基因,但醫師並沒有提出要摘取大維肝臟 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 12. 黃疸(jaundice): 通常發生在使用藥物的第一個月內,如 chlorpromazine(發生率約為 1/1,000)、promazine、thioridazine、fluphenazine、trifluoperazine。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - IV. 新生兒黃疸 (Neonatal Jaundice) 460 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 2. 新生兒臨床表現:常見的表現有胎兒時期發育不良、早產、肝臟腫大伴隨 direct bilirubin升高、發展遲緩等。有些則在胎兒時期死亡。以下為病原體感染其特殊表現: Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -106,9 +113,6 @@ tags:
 - ...-----------------------------------------------|------------------| | (C) | 10. 一位 30 歲平常健康良好的男性,主訴 2~3 週來易倦。理學檢查發現結膜蒼白無黃疸、頸部兩側多個不足一公分大小淋巴結、無肝脾腫大,下肢出現無癢紅色細小斑點;末梢血檢查結果顯示: WBC 1,280/μL, N/L/Mo = 5/94/1, Hb 7.5 gm/dL, MCV 86 fL, Platelet 8,000/μL, ALT 42 U/L, T. Bil 0.6 mg/dL, Cr 1.1 mg/dL, Alb 3.7 g/dL。下列何種檢驗最有利於正確診斷? (A) 淋巴結切片(biopsy) (B) 正子 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - | (B) | | 一位 24 歲女性出現輕微黃疸,驗血發現 Hb 6.8 g/dL,MCV 110 fL,Platelet 54,000/μL,reticulocyte 12.8%。下列何種疾病較不可能? (A) 伊凡氏症候群(Evan's syndrome) (B) 維生素 B 12 缺乏(vitamin B 12 deficiency) (C) 血 栓 性 血 小 板 缺 乏 紫 斑 症(thrombotic thrombocytopenic purpura) (D) 全身性紅斑 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (B) 12.72 歲的王教授罹患胰臟癌末期,他瘦弱、嚴重黃疸,無法進食,更無法成眠,每天受劇烈腹痛與全身酸痛所折磨,他簽了 DNR,等著解脫,這一週來,王教授更多次哀求您,讓他早點離開人間,下列何種處置適當? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (1) 可能造成 Cholestatic jaundice, bone marrow suppression, hyperkalemia。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (A) 2.60 歲男性,有長期菸瘾習慣,過去病史已知有40年慢性B型肝炎及8年慢性支氣管炎。本次因食慾不佳及黃疸就醫住院,診斷為慢性B型肝炎急性惡化。入院15天後突發性高燒39℃,輕微腹瀉,及呼吸困難,血液白血球為26,700/mm³,低血鈉(130 mg/dL),室內空氣下(room air)血氧飽和度下降,並立即插置氣管內管接用人工呼吸器,胸部X光呈右側下肺葉葉性肺炎。氣管內管抽出黃白色痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- | 黃質病毒科 (Flaviv | irus) | 傳 播 | 症 狀 | |---------------|------------------------------|-----------|---------------| | 黃熱病毒 | Yellow fever virus | (埃及/白線)斑紋 | 發燒,肝炎(黃疸) | | 登革熱病毒 | Dengue virus | Aedes | 發燒,頭痛,肌肉痛,關節痛 | | 聖路易斯腦炎病毒 | St. Louis encephalitis virus | (三斑)家蚊 | 發燒,腦炎 | | 日本腦炎病毒 | Japanese encephalitis | Culex | 發燒,腦炎 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

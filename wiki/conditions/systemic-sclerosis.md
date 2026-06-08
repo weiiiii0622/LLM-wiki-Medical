@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch10]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Systemic sclerosis (全身性硬化症)'
   - 'Systemic sclerosis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch10]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- 1. 一種交感神經惡性腫瘤,起源於神經脊(neural crest)細胞。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - # D. 硬皮症 (Scleroderma) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 1. 硬皮症為一免疫系統疾病,發病原因不明,主要特徵是結締組織過度增生而沈積在 皮膚、血管,造成皮膚緊繃、硬化及血管內壁細胞異常增生,也可能發生於身體其 他器官,如:肌肉、關節、肺、心或腸胃道等。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].

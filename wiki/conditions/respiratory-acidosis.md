@@ -9,6 +9,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book1-ch12]]"
 aliases:
   - 'Respiratory acidosis (呼吸性酸中毒)'
   - 'Respiratory acidosis'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-換氣不足造成 PaCO2 上升，需分辨急性與慢性腎代償。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+換氣不足造成 PaCO2 上升，需分辨急性與慢性腎代償。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med5-book1-ch02]]
+- [[sources/med5-book1-ch12]]
 
 ## Key Details From Sources
 
+- ...45 為鹼血症。 - (2) 第二步: $pH \ \ CO_2$ 改變方向相同(同升同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸, Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
+- (C) hypoventilation Source: [[sources/med5-book1-ch12|丙、顱內壓]].
 - 2. 流行病學:最常見的新生兒下消化道阻塞疾病,好發足月產新生兒。每 5,000 位新生兒中就有一位,男性發生比例較高(男:女= 4:1)。與某些先天性疾病有關,如 **Down**, Smith-Lemli-Opitz, Waardenburg, cartilage-hair hypoplasia, and congenital hypoventilation(「Ondine curse」)syndromes and urogenital or cardiovascular abnormalities。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 呼吸性酸中毒 (respiratory acidosis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) normal anion gap metabolic acidosis with respiratory acidosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

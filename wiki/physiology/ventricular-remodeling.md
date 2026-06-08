@@ -34,6 +34,7 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Ventricular remodeling (心室重塑)'
   - 'Ventricular remodeling'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,13 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (3) 慢性:發生於移植後數月至數年,為反覆急性排斥積累所致,造成血管內膜纖維化和動脈硬化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (2) 不明原因肺纖維化症:肺活量或全肺量小於 65% 之預測值或引起繼發性之肺動脈高壓,雖接受治療,情況仍逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 6. 當發生腦血管阻塞後,腦細胞會發生缺血連鎖反應(ischemic 107(二)專 cascade);下列反應順序何者為最正確?①細胞去極化(depolarization) 醫四-46 - ②鈉鉀離子能量系統瓦解 (sodium/potassium ATP pump failure) - ③細胞內的鈣離子增加,活化細胞內酵素,溶解胞器(apoptosis) - ④釋放興奮性神經傳遞物質,如麩胺酸(glutamate) - $(A) \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \$ Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (5) 食道及腸道的纖維化會造成吞嚥困難及吸收不良。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...| (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous lesions on the extremities | 醫四 -54 | | (B) a purplish discoloration around the eyes | | | (C) shagreen patches Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -100,9 +105,6 @@ tags:
 - 4. Scleroderma 硬皮症:最早的表現通常為雷諾氏現象(Raynaud's phenomenon),即指(趾)尖因小動脈痙攣而出現白→黑→紅的顏色變化,也常伴隨著痛和麻。之後可能逐漸出現手指皮膚緊繃(sclerodactyly),逐漸往身體近端皮膚蔓延。可能影響肺部而造成肺纖維化及肺高壓。自體免疫抗體方面,ANA 常為陽性,而且如果anti-Scl70 或 anti-centromere 陽性則 scleroderma 的可能性很大。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 4. 診斷: 診斷方法仍是以詳細的病史詢問與臨床表現為主。一歲以前確立診斷的病人,血液鉀濃度通常低於 2.5 mmol/L 並且合併代謝性鹼中毒。低血鎂只會出現在極少數的 Bartter syndrome 病人,但在 Gitelman syndrome 低血鎂很常見。另外,由於 Bartter syndrome 病人氯離子流失,因此尿液檢查也可以發現氯離子濃度上升,這可與慢性嘔吐(chronicvomiting)以及囊腫性纖維化(cystic fibrosis)病人做鑑別診斷(這兩種病人尿液檢查氯離子濃度是低下表現)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 最常見的原因為囊性纖維化疾病、過多類固醇使用、胰臟切除(治療高胰島素 血症造成低血糖)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (C) 11. 早產兒呼吸窘迫症候群其第一天時胸部 X 光的變化不包括下列那 104( 二 ) 專 一項? 醫四 -5 - (A) 氣管空氣影像 (air bronchogram) - (B) 網狀顆粒影像(reticulogranular pattern) - (C) 纖維化變化 - (D) air leakage Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 2. 病生理:免疫失調造成血管病變(Vasculopathy)、纖維化(Fibrosis) - (1) 血管病變(Vasculopathy):早期以血管對冷的反應改變表現,稱為雷諾氏症候群(Raynaud's Phenomenon),慢慢的管壁發炎、纖維化,導致血管阻塞(Obliterative vasculopathy),最後造成手部尖端開始缺血壞死、腎臟也因慢性缺血而萎縮等。 - (2) 纖維化(Fibrosis):由 Th2 細胞製造 TGF- $\beta$ ,進而刺激纖維母細胞(Fibroblast)持續不斷進行纖維化。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...Edematous phase),幾個月後就可能開始皮膚硬化(Fibrotic phase);皮膚硬化會超過手肘或膝蓋,包含軀幹; - b. Anti-topoisomerase (scl-70) 陽性病患較快發生間質性肺病 (ILD)、肺纖維化; 還可能併發腎臟急症 (Scleroderma renal crisis)。 - (2) Limited cutaneous SSc (lcSSc): - a. 病程進展較慢,雷諾氏症候群幾年後才會慢慢有其他表現,皮膚硬化僅限於手指硬化(Sclerodactyly)及遠端肢體(Distal to elbow and knee), 軀幹通常不受影響,預後較好,但病程晚期可能併發肺動脈高壓(PAH)。 - b. 其中有一亞型,稱作 CRE Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

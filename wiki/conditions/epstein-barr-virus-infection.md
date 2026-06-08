@@ -15,6 +15,9 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Epstein-Barr virus infection, EBV (EB 病毒感染)'
   - 'Epstein-Barr virus infection, EBV'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-可造成傳染性單核球增多症，並與部分淋巴瘤、鼻咽癌等疾病相關。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成傳染性單核球增多症，並與部分淋巴瘤、鼻咽癌等疾病相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,17 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...rus-mediated 所引起之 tumor or malig- | | | | nancy 最為常見 | | | | (C) Human papillomavirus 與 Kaposi's sarcoma 有關 | | | | (D) Epstein-Barr virus 與 post-transplant lymphoproliferative | | | | disorders (PTLD) 有關 | | | | 【詳解】Kaposi's sarcoma (KS)和Human herpesvirus 8 (HHV8) | | | | 有關。 | | | | | | Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (1) Estimated Blood Volume (EBV) = weight (kg)×average blood volume • Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- ...patocellular carcinoma) | 醫五 -10 | | (B) 幽門 螺 旋 桿 菌(Helicobacter pylori)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人體重 70 公斤,工作時不慎發生火災,身體 | 102(一)專 | | 表面積有 30% 的燒傷,根據 Parkland Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...疾病 | 醫四 -47 | | | (B) 腦脊髓液內之腫瘤壞死因子(Tumor Necrosis Factor, TNF) | | | | 與疾病活動性有關 | | | | (C) 干擾素治療有療效 | | | | (D) 相關之病毒為 EBV 及 HHV6 | | | | | | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (2) 好發於 45~64 歲間,發病前 2~3 周往往有上呼吸道感染或腸胃道症狀,特別是 EBV、CMV 感染,再經由未明的原因引發免疫系統攻擊周邊神經的髓鞘。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...蛋白質含量 (D) 脊髓液中免疫球蛋白 G 的指數(IgG index) | 107(二)專醫四 -58 | | (B) | 8. 有關慢性疲勞症候群之敘述,下列何者正確? (A) 最好發於 40~60 歲之男性 (B) 常與 EB 病毒(EBV) 感染相關 (C) 絕大多數是心理因素引起 (D) 與免疫功能異常無關 【詳解】本顯一律給分。 | 105( 二 ) 専醫四 -58 | Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
@@ -60,8 +71,6 @@ tags:
 - B. 病因:在從前以 *Haemophilus influenza* type b (Hib) 最常見,隨著疫苗的普及 Hib 感染比率下降許多。現在較常見的病原體為 group A streptococci、pneumococci、EBV。另外,文獻紀載有少數的病人由 *Corynebacterium diphtheria* 或 *Mycobacterium tuberculosis* 感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (6) 對於某些病毒使用病毒用藥: enterovirus (pleconaril)、Epstein-Barr virus (acyclovir)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 無菌性腦膜炎:腸病毒、CMV、HSV、EBV、水痘、A/B 型流感病毒、黴漿菌。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- ...| | | | , | 也可能兒童後期或 | | | | | | 成人 | | | | 常見病 | 伺機型感染;病毒 | 有莢膜的細菌 | 細菌如 staphylococci, | Neisseria, | | 原菌 | 感染 (CMV, EBV, | (streptococci, | Pseudomonas, | Escherichia coli | | | adenovirus, | staphylococci, | Serratia,Klebsiella; | | | | enterovirus); | Haemophilus…); | 黴菌如 Candida; | | | | Candida; PCP ; | XLA 病人常見 | Nocardia, Aspergill Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...何者為最有可能之診斷? - (A) 急性淋巴性白血病(acute lymphoblastic leukemia) - (B) 葡萄糖 -6- 磷酸脫氫酶缺乏症(G6PD deficiency)合併急性溶血 - (C) 傳染性單核球增生症 (infectious mononucleosis) - (D) 溶血性尿毒症候群 (hemolytic-uremic syndrome) Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

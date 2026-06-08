@@ -19,6 +19,9 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book1-ch01]]"
 aliases:
   - 'Urinary tract infection, UTI (泌尿道感染)'
   - 'Urinary tract infection, UTI'
@@ -33,7 +36,7 @@ tags:
 
 ## Summary
 
-泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +55,18 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch06]]
+- [[sources/med5-book1-ch01]]
 
 ## Key Details From Sources
 
+- 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (A) 抗生素可以預防尿路感染(urinary tract infection) Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...良者之腹腔內感染比較有發生併發症的風險 | 106(一)專醫五-7 | | (C) | 11. | 下列敘述,何者正確? (A) 植入物(prosthesis)相關的感染通常發生在肺部 (B) 手術後發燒需立即給予抗生素 (C) 尿路感染(urinary tract infection)是手術後最常見的非手術感染(nonsurgical infection) (D) 選擇抗生素做經驗性治療(empirical treatment)時,最好是同時使用抗厭氧菌的抗生素 | 105(二)專醫五-2 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- (3) 移植六個月之後,移植受贈者的情況較穩定,感染就跟一般社會大眾一樣 (community-acquired),如流感、泌尿道感染及肺炎雙球菌肺炎。唯一伺機性 病毒感染為 herpes zoster;而 CMV 視網膜炎則較罕見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- ...on, TPN)時,下列與中央靜脈導管相關之併發症的敘述,何者錯誤? (A) 導管內血栓(thrombus) (B) 氣胸(pneumothorax) (C) 臂叢神經損傷(brachial plexus injury) (D) 尿路感染(urinary tract infection) | 106(一)專醫五-8 | |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous lesions on the extremitie Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - L. 兒童泌尿道疾病 100 - A. 泌尿道感染 (Urinary tract infections, UTI) 100 - B. 膀胱輸尿管逆流 (Vesicoureteral reflux, VUR) 101 - C. 尿道後瓣膜 (Posterior urethral valve) 103 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - # A. 泌尿道感染 (Urinary tract infections, UTI) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -67,12 +79,6 @@ tags:
 - 【詳解】有血尿及蛋白尿懷疑有 nephritis,加上關節炎及慢性 systemic 徵兆 (發燒),又是年輕女性,因此首先考慮 SLE,驗 dsDNA 有助診斷。而 systemic inflammation 就有可能造成 pyuria,但為排除泌尿道感染,仍應做小便培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...itrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | | Ifosfamide → 肉癌 (Sarcoma) | 出血性膀胱炎 | | | CCNS | | mustards | Melphalan→多發性骨髓瘤 (MM) | | | | CCNS | | Other | Carmustine (BCNU) · Lomustine (CCNU) | 延遲的骨髓抑制 | | | | | 4 4 12 | Doxorubicin→淋巴瘤 (CHOP)、乳癌、肉癌 | | | | | Antitumor | Anthracycline | Idarubicin → Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- | (C) | ()() | 下列何項不是 cyclophosphamide 常見的副作用? (A) 抑制骨髓 (B) 出血性膀胱炎 (C) 周邊神經病變 (D) 噁心嘔吐 | 101(一)專醫三-37 | |-----|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (1) 烷化劑 (Alkylating agent): Cyclophosphamide (Endoxan® 愛德星) - a. 作用機制:烷化(Alkylating)DNA、與 DNA 結合,進而抑制 DNA 複製;針對 分化快速細胞皆有作用,效果最強、副作用也最大。 - b. 可能造成骨髓抑制、出血性膀胱炎(Hemorrhagic cystitis)、提前停經(premature ovarian failure)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反對,因為陳老先生為胰臟癌末期,不要再進行過於侵入性的 治療,免得增加其痛苦 - (C) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但本次住院的原因為泌尿道感染合併敗血症,並非不可 治癒的疾病,醫師應該為其插管治療 - (D) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但只要屬於病危的患者,均應該依醫師法定急救義務而 加以急救 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ## 丁、泌尿道感染 (Urinary Tract Infection, UTI) Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
-- 1. 下泌尿道感染包含 Urethritis、Cystitis、Prostatitis Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
-- 2. 上泌尿道感染包含 Pyelonephritis、Renal abscess Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 
 ## Clinical Caveats
 

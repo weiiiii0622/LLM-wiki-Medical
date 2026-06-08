@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'Neonatal herpes simplex infection (新生兒單純皰疹感染)'
   - 'Neonatal herpes simplex infection'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-新生兒 HSV 可表現為 skin-eye-mouth disease、CNS disease 或 disseminated disease。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+新生兒 HSV 可表現為 skin-eye-mouth disease、CNS disease 或 disseminated disease。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch04]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - #### G. 急性瀰散型腦脊髓炎 (Acute disseminated encephalomyelitis, ADEM) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (B) 4. 下列有關急性散發性腦脊髓炎(acute disseminated encephalomyelitis, 108(二)專 ADEM)的敘述,何者錯誤? 醫四 -58 - (A) 肇因於病毒感染後或疫苗接種後誘發的自體免疫疾病 - (B) 很容易復發 - (C) 若有嚴重大腦傷害,死亡率高 - (D) 病理變化以髓鞘 (myelin) 的破壞為主 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
@@ -58,7 +61,6 @@ tags:
 - 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...ions, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Ente Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (2) Tzanck smear:針對有 skin lesions,如 HSV、VZV。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...VHD; | 及 lymphoma, | (Leukocyte adhesion | 免疫疾病: | | | 打完疫苗後造成 | thymoma 機會較 | deficiency),傷口難 | SLE, vasculitis, | | | disseminated BCG | 高;接受活性小兒 | 以癒合 | dermatomyositis, | | | or varicella;嬰兒 | 麻痺疫苗後發生 | | scleroderma, | | | 時期低血鈣造成抽 | paralysis | | glomerulonephritis, | | | 筋(此為 DiGeorge | | | angioedema | | | syndrome 的特色) | | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

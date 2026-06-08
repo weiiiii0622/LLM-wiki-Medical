@@ -18,6 +18,9 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch04]]"
 aliases:
   - 'Anaphylaxis (全身性過敏反應)'
   - 'Anaphylaxis'
@@ -32,7 +35,7 @@ tags:
 
 ## Summary
 
-IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +53,18 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...tic) 和神經性 (neurogenic)。 - a. 敗血性休克:遭細菌感染釋放出之毒素,使得 TNF-α、IL-1、IL-6、IL-8 會增加,造成周邊血管擴張,vessel tone 下降,血管內有效容積下降,引起休克。 - b. 過敏性休克: 因嚴重的過敏反應而引發體內細胞釋放出物質使全身血管擴張 導致血壓下降。 - c. 神經性休克:由於脊髓損傷導致神經性反射及血管阻力喪失,使周邊血管擴張使得血液湧向周邊部位、造成主要器官組織灌流不足,心輸出量減少,引起休克。 - (4) 阻塞性(obstructive):心包填塞、肺動脈栓塞、張力性氣胸等造成心輸出量不足。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- ...液),每半小時 $500\sim1,000~\text{mL}$ ,以達到目標,假使患者是使用呼吸器,則目標為 $12\sim15~\text{mmHg}$ 。 - b. 平均動脈壓(MAP) > 65 mmHg: 升壓第一線藥物為 Norepinephrine(35~90 mcg/min),第二線為 Vasopressin(劑量上限為 0.03 U/min),此時可考慮加上可同時考慮加上類固醇 Hydrocortisone(200 mg/day)。第三線藥物才是 Epinephrine(25~50 mcg/min)。 - c. 中心靜脈的血氧飽和度( $ScvO_2$ ) > 70%:假使 $ScvO_2$ 5 $\mu$ g/kg/min 或是 Epinephrine/Norepineph Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- (C) 2. 一位 25 歲女性,從高處跌落,造成頸部疼痛及四肢癱瘓,但意 識清楚,四肢無冰冷現象。電腦斷層影像檢查發現第五頸椎骨折 神經壓迫。此時病患心搏速率:60次/分、血壓:75/55毫米汞 柱。關於病患現在血壓狀況,下列何者是最適當的診斷? - (A) 過敏性休克 (anaphylactic shock) - (B) 失血性休克 (hypovolemic shock) - (C) 神經性休克 (neurogenic shock) - (D) 心因性休克 (cardiogenic shock) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- 1. 身體受到外傷或接受手術產生傷口會導致神經內分泌增加、stress hormone 的釋放(cortisol、epinephrine)、immune reaction 啟動等等使得身體代謝率增加,引起肌肉蛋白分解、肝醣分解、葡萄糖新生和脂肪的氧化,以應付組織的破壞和傷口的修補。而受傷越嚴重,其高代謝狀態會明顯增加。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- ...人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - (7) 芳香族的氨基酸也十分重要,如 Tyrosine 由 Phenylalanine 合成而來,可進一步合成 Dopamine、norepinephrine,epinephrine;Tryptophan 可合成 serotonin,Melatonin。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- (2) 低體溫初期周邊交感神經會反應,增加 norepinephrine 分泌,血管收縮和血壓上 升,如果病患本身有休克,會使得 ischemia 更嚴重。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ...骼肌的 nicotinic 接受器。 - b. 交感神經由胸椎、腰椎脊髓的側角神經元發出,經兩個神經元,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎旁神經節(paravertebral ggl.)的神經元,其再分泌正腎上腺素(norepinephrine)刺激目標器官(心肌、平滑肌、腺體)的 Adrenergic 接受器。 - c. 副交感神經由**顱神經、薦椎的側角神經元**發出,也經**兩個神經元**,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎前神經節(prevertebral ggl.)的神經元,其再分泌 ACh 刺激目標器官(心肌、平滑肌、腺體)的 muscarinic 接受器。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 是提升何種神經傳導物質在腦中的濃度? - (A) acetylcholine - (B) norepinephrine - (C) serotonin - (D) dopamine Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
@@ -65,12 +77,6 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - (A) 40. 有關安非他命(amphetamines)藥理機轉,乃在於刺激神經間隙 102(一)專 前之末端(presynaptic terminals)分泌下列何種神經傳導介質? 醫四 -75 - (A) 多巴胺(dopamine)及正腎上腺素(norepinephrine) - (B) 血清素 (serotonin) - (C) 神經胜肽 -γ (neuropeptide-γ) - (D) 麩胺酸 (glutamate) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 4. 姿態性低血壓:主要是阻斷 $\alpha_1$ -adrenergic receptor,主要發生在 low potency 抗精神病藥物,特別是 chlorpromazine、thioridazine。當低血壓發生時,可以 IV 補充 fluid 或直接給予升壓劑 norepinephrine,使用 epinephrine 可能會使病人的低血壓更惡化 (因為 epinephrine 還會作用到 $\beta_2$ -receptor)。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (C) serotonin norepinephrine reuptake inhibitors Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 隨著研究進展,目前思覺失調症產生的理論認為疾病的產生並非單一神經傳導物質 dopamine 的失衡,腦中其他神經傳導物質如 norepinephrine、serotonin、GABA、 glutamate、neuropeptide 的失去平衡也可能有關。研究也顯示,血液中香草酸 (homovanillic acid, catecholamine 的代謝物) 濃度越高,精神症狀越嚴重,對於抗精神病藥物的反應也越好。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- (2) 對於低心輸出或是低血壓病人,考慮 dopamine or epinephrine。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (C) 給與 Epinephrine 急救治療 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】Epinephrine 在兒童急救的使用時機為病人出現心臟停止的心律(VF、pulseless VT、asystole、PEA)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...) 注射類固醇 | | | (C) 使用升壓劑,如 Dopar | mine (D)使用抗組織胺 | | | 【詳解】病人突然出現呼呼 | 吸困難、眼睛四周及嘴唇血管水腫、全 | | | 身發癢與吞嚥困難,故可知 | 印發生全身型過敏反應(anaphylaxis)。 | | | 此時最重要是先給予腎上 | 腺素,輔助治療則包括類固醇與抗組 | | | 織胺等。 | | | (D) | 4. 有關預防嬰幼兒過敏的觀測 | 念,下列敘述何者最不恰當? 109(- | | | (A) 孕婦飲食不需避免高過 | B敏食物(例如海鮮、花生等) | | | (B) 建議在 4~6 個月大可開 | 開始添加副食品 | | | (C) 母乳哺育對於預防氣喘 | 始的效果不確定 | | | (D) 按照國際指引 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (D) 20. 一位 6 歲小男童因吃花生產生過敏性反應(anaphylaxis),最不 101( 二 ) 專 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

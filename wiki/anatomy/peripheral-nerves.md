@@ -10,6 +10,9 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Peripheral nerves (周邊神經)'
   - 'Peripheral nerves'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,15 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch01]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- 2. 腦神經、脊神經及周邊神經腫瘤(tumor of cranial, spinal and peripheral nerves) - (1) 許旺氏細胞瘤 (schwannoma): 許旺氏細胞 (Schwann cell)。 - (2) 神經纖維瘤 (neurofibroma): 許旺氏細胞、纖維母細胞。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的糖類,也有肝臟保護的作用,有利於病人對手術的耐受。術 後糖類的補充是最易消化吸收,對術後消化功能欠佳者更為適宜。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- 2. 周邊神經阻斷:用酒精或石炭酸注射可暫時止痛。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - IV. 糖尿病神經疾病 (DM Neuropathy) 169 - A. 對稱性糖尿病神經病變:多發性神經病變 (Polyneuropathy) 169 - B. 非對稱性糖尿病神經病變:顱神經麻痺(Cranial nerve palsy) 169 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 再介紹去 髓鞘疾病,侵犯中樞神經為主的是多發性硬化症 (multiple sclerosis),侵犯周邊神經為主的是急性發炎性脫髓鞘型多發神經病變 (AIDP),AIDP 也是侵犯運動神經為主。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - | | 包含 | 特徵 | |------------|--------------------------|------------------------| | 上運動神經元 | 大腦運動皮質(神經元)→ | 肌肉痙攣、 | | (Upper MN) | Corticospinal tract (路徑) | 肌腱反射增加、有 Babinski sign | | 下運動神經元 | 脊髓前角細胞(神經元)→ | 肌肉無力、萎縮 | | (Lower MN) | 周邊神經(路徑) | 肌束顫動 (Fasciculation) | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].

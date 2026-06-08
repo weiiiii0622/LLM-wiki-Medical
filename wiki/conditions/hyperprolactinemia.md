@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch13]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Hyperprolactinemia (高泌乳素血症)'
   - 'Hyperprolactinemia'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-泌乳素升高可造成月經異常、溢乳、性腺功能低下。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+泌乳素升高可造成月經異常、溢乳、性腺功能低下。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch15]]
 - [[sources/med3-book2-ch13]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- 2. 腦下垂體腫瘤主要是由前葉長出的腺瘤,腺瘤又可分為兩種: - (1) 功能性(functional)腺瘤:會過度分泌荷爾蒙,主要症狀與其分泌的荷爾蒙有關, 最常見為泌乳素瘤(prolactinoma)。 - (2) 非功能性 (non-functional) 腺瘤:後期因為壓迫也可能引起荷爾蒙 (gona Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (1) 荷爾蒙過度分泌:65%的腦下垂體腺瘤。 - a. 泌乳激素(prolactin): 女性會有不孕症、無月經(amenorrhea)或乳漏症(galactorrhea),男性則會陽痿。Functional prolactinoma 患者其血中 prolactin level 多大於 150~200 ng/mL。 - b. 生長激素 (GH): 刺激生長,成人出現末端肥大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...| (B) 雙側聽神經瘤 | | | | (C) 皮膚咖啡牛奶斑(Cafe-au-lait macules) | | | | (D) 脊椎發育異常 | | | | 【詳解】雙側聽神經瘤屬第二型。 | | | (B) | 5. 有關腦下垂體泌乳素瘤(prolactinoma)的描述,下列何者正確? | 108(一)專 | | | (A) 腫瘤通常直徑大於 3 公分 | 醫五-11 | | | (B) 血中泌乳素(prolactin)濃度通常 > 150 ng/mL | | | | (C) 手術是第一線主要治療方法 | | | | (D) 直徑 J是 glioblastoma multiforme(GBM) | 106(二)專醫五-6 | | | (B) ependymoma 好發 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - #### 2. 乳促素過高 (Hyperprolactinemia): Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - (1) 病因:(Ref. Harrison Table 333-8) - a. Prolactin > 100 ng/L 最常見的原因以促乳素瘤(Prolactinoma)最常見, - b. **Prolactin = 30~100 ng/L** 則可能是微促乳素瘤(Microprolactinoma)、腦垂體柄被週邊腫瘤壓迫(Pituitary stalk interruption)、藥物抑制 dopamine、甲狀腺機能「低下」等。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - ...------------------------------------------------------------------------------------|--| | > 100 ng/L | 腦垂體過度分泌 | 促乳素瘤 (Prolactinoma)、肢端肥大症 (Acromegaly) | | | | 下視丘、腦垂體柄受損 | 腫瘤壓迫: Craniopharyngioma、Meningioma | | | | (Hypothalamic \ | Empty sella syndrome · Irradiation · Trauma | | | | Pituitary stalk injury)→使得抑制訊息減少 | Lymphocytic hypophysitis (Post Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].

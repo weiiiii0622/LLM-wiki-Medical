@@ -31,6 +31,10 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book3-ch05]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book1-ch15]]"
 aliases:
   - 'Smoking cessation (戒菸)'
   - 'Smoking cessation'
@@ -45,7 +49,7 @@ tags:
 
 ## Summary
 
-心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +80,17 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book3-ch05]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch08]]
+- [[sources/med5-book1-ch13]]
+- [[sources/med5-book1-ch15]]
 
 ## Key Details From Sources
 
+- ...-----------------------------------------------------------------------------------------------|-------------| | | (C) 不抽菸的年輕病人 (D) 營養不良 | | | (C) 13. | . 對於 Clostridium difficile colitis 敘述,下列何者錯誤? (A) 百分之 45 到 55 的 Clostridium difficile colitis 發生在外科的病患,尤其是接受一般外科和血管外科手術的機會最高 (B) Clostridium difficile 過度增生會造成不同程度的疾病,從沒有症狀的帶原者到 self-limited Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...------------------------------------------------------------------------------------|-----------------| | (A) 有心肌缺血心臟病並有抽菸,在手術前後期可使用乙型阻斷劑(β-blocker) | | | (B) 老年人發生無症狀菌尿症(bacteriuria)的機率比較高,手術前應檢查尿液 | | | (C) 雖然老年人有糖尿病的比率較高,但是高血糖 (hyperglycemia) 並不會增加手術的發病率和死亡率 (morbidity and mortality) | | | (D) 老年人在手術前應評估其肺部功能 | | | (A) 14. 當小客車司機因追撞大貨車,於 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
+- 3. 物質濫用:抽菸、喝酒、古柯鹼。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
+- 2. 藥廳,注意抽菸並不會增加 ICH 的機率。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - (D) 9. 在尼古丁的戒瘾治療中,下列那種治療方式成效最好? 108(一)專 (A) 病人自己靠意志力戒除 醫四 -67 (B) 醫生建議病人戒除 (C) 使用尼古丁貼片或口香糖 (D) 使用戒菸藥物併用團體治療 (C) 10. 一位 61 歲男性長期使用 diazepam 每天 50~60 毫克達 15 年,若立 108(一)專 即停止服用後,下列何者為最正確的描述? 醫四 -69 (A) 心搏變慢 (B) 戒斷症狀不會在停用 5 天後才出現 (C) 抽搐發作為較嚴重之戒斷症狀 (D) 戒斷症狀不致於產生譫妄 【詳解】diazepam 屬於 BZD 鎮定劑,因此戒斷症狀會類似酒精 戒斷症狀,所以會:(A)心搏變快,(B)停用2 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - (B) 12. 當戒菸治療的取代療法 (replacement therapy) 失敗,可以考慮 下列那一種藥物? Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 【詳解】Bupropion可以被拿來做戒菸的二線治療藥物。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
@@ -93,10 +105,6 @@ tags:
 - (A) 24. 一位 67 歲的男性退休行政人員,家族史有肝癌,過去並無特殊疾病史,平常無運動習慣,不抽菸且不喝酒。下列何項預防保健服務的建議,並無實證醫學的依據? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (D) 26. 一位 51 歲的公司女職員,停經已 2 年,過去並無特殊疾病史,身高 156 公分、體重 66.2 公斤,平常無運動習慣,不抽菸且不喝酒。從 實證醫學的角度,下列何項檢查不適合作為此受檢者的癌症篩檢? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 - (B) 7.51 歲男性,抽菸二十年,每天一包,並經常咳嗽。最近兩個月出現 101(二)專 下背酸痛。其腰椎磁振造影(MRI)如圖。最有可能的診斷為: 醫三-73 Source: [[sources/med3-book4-ch23|己、其 他]].
-- (#) 16. 下列何者不是造成慢性腎臟疾病功能變差的因素? (A) 高血壓 (B) 高血脂 (C) 抽菸 (D) 喝酒 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- c. 肺炎、中耳炎:常見於 COPD、抽菸者。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 1. 衛教:減重、睡覺時頭部墊高,戒菸、避免油膩食物、巧克力、酒精、柳橙汁,且 須避免某些誘發藥物(Anticholinergic drug、calcium channel blocker、smooth-muscle relaxant)。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- 【詳解】食道鱗狀細胞癌發生在食道上段,與抽菸、喝酒較相關; 食道腺癌發生在食道下段,與胃酸逆流、巴洛氏食道相關。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

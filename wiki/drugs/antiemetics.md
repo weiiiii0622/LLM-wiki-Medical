@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Antiemetics (止吐藥)'
   - 'Antiemetics'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- 8. 輕度頭部創傷 (GCS = 13~15): - (1) 床頭向上傾斜 30~45 度。 - (2) 每兩小時作 NE。 - (3) NPO 直到意識正常。 - (4) 靜脈輸液。 - (5) 止痛、止吐。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- 6. Dexamethasone:可改善頭痛和脖子痛,改善腦水腫的效果仍具爭議性。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - ...icular degeneration | | | | Drugs | Neuroleptics (typical antipsychotics) \ Some atypical antipsychotics | | | | (常併有 | Antiemetics (e.g., Compazine, metoclopramide) | | | | akathisia) | Dopamine-depleting agents (reserpine, tetrabenazine) | | | | | α-Methyldopa · Lithium carbonate · Valproic acid · Fluoxetine | | | | Toxins | Methyl-1,2,4,6 tetrah Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (AD)10.王小姐因感冒、噁心、吃不下飯,到衛生所求診,李醫師處方 了咳嗽藥水及止吐藥腹寧朗(Primperan),王小姐服用後約1 小時,舌頭不自主地吐出來,因此,很慌張地回到衛生所求助, 李醫師馬上處理,下列方法何者最不適當? - (A) 予以安慰(reassurance),告知不會有大礙,勸慰王小姐放輕鬆,慢慢呼吸,給予催眠(hypnosis) - (B) 肌肉注射抗過敏藥物: diphenhydramine - (C) 靜脈注射鎮靜劑: diazepam - (D) 口服乙型腎上腺素受體阻斷劑 (β-adrenergic receptor blocker): propranolol Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 1. 腦中有空間佔據的病灶(space-occupying lesion):若病人 ECT 可能會有 edema 或 herniation 的危險,但是若病灶很小,先可用 dexamethasone 降低腦壓,並適當控制 血壓,可以減少後遺症的產生。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].

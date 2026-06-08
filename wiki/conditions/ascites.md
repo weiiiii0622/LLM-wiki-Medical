@@ -21,6 +21,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Ascites (腹水)'
   - 'Ascites'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- ...nous colitis),猛爆性大腸炎(fulminant colitis)到毒性巨結腸症(toxic megacolon)都有 (C) 主要治療方法是 vancomycin 靜脈注射 (D) 電腦斷層上的表現主要是結腸壁變厚和水腫以及有腹水產生【詳解】口服 vancomycin 不易被腸胃道消化吸收,正因如此才能在腸胃道內維持其效果。如果被吸收離開腸胃道,就無法達到治療 Clostridium difficile 的目的,所以 IVform 反而沒有效, | 104(一)專醫五-1 | | | 因為 Clostridium difficile 是在腸胃道管腔內。 | | | (D) 14. | . 一位 58 歲女性糖尿病病人,因跌落水溝造成右小腿撕裂傷,傷口曾浸於水溝水 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (3) 其他臨床表徵或是身體評估可以發現黃疸、手掌紅斑、血管擴張(vascular telangiectasis)、肝臟腫大、肝功能受損、腹水等。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) 若血清白蛋白(Serum albumin)數值低下,加上超音波發現有 腹水,治療首先應給與白蛋白輸注,並給與維持性點滴輸液 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 9. 一位 5 歲大女生,出現腹水有 1~2 個月的時間,最後診斷為 Budd-104(二)專 Chiari syndrome,其最可能是由下列那條血管阻塞造成? 醫四 -10 - (A) 肝靜脈 - (B) 肝動脈 - (C) 肝門靜脈 - (D) 上腔靜脈 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -76,7 +79,6 @@ tags:
 - #### A. 鑑別診斷:用 Serum ascites albumin gradient (SAAG) Source: [[sources/med3-book2-ch18|丙、腹 水]].
 - 1. SAAG > 1.1 g/dL,則為 portal hypertension related,考慮有東西阻塞 - (1) Pre-sinusoidal: Portal vein thrombosis • - (2) Sinusoidal: Cirrhosis (最常見原因,占 80%)、acute hepatitis。 - (3) Post-sinusoidal: Heart failure · Budd-Chiari syndrome · Source: [[sources/med3-book2-ch18|丙、腹 水]].
 - 2. SAAG 250 polys | > 250 polys | | | One organism | Polymicrobial | | 腹水培養、檢查 | 70% GNR (E. Coli · Klebsiella) | 腹水 Glucose 225 U/L | | 治療 | 不需抗厭氧 | 需抗厭氧 | | Ref. Harrison | 3 rd cephalosporin (Ex. Cefotaxime, | Piperacillin-tazobactam, Cefoxitin, | | Chapter 121 | Ceftriaxone), Piperacillin-tazobactam | Ampicillin+metronidazole+ciprofloxacin | Source: [[sources/med3-book2-ch18|丙、腹 水]].
-- (A) 理學檢查時,應注意是否有 jaundice、ascites、spider angioma、 palmar erythema 等可能指出有 chronic liver disease 或 liver cirrhosis 的 signs Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 
 ## Clinical Caveats
 

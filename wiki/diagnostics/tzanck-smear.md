@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med5-book1-ch03]]"
 aliases:
   - 'Tzanck smear (Tzanck 抹片)'
   - 'Tzanck smear'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med5-book1-ch03]]
 
 ## Key Details From Sources
 
+- (D) 白血球大於 12,000 cells/mm³ 或小於 4,000 cells/mm³ 或在周邊血液抹片有大於 10% immature (Band) cells Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (D) Tzanck 抹片檢查 (Tzanck test) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...四天內感染水痘,則有15%的新生兒會發生嚴重性水痘感染。 通常新生兒在出生後兩星期內發病,其症狀包括全身性水痘和中樞神 經系統病變,有兩到三成的死亡率。 - (g) 免疫不全患者:易併發肝炎、肺炎、腦癌和血小板減少症,死亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated acantholytic epidermal cells,為受病毒感染之 keratinocytes,於HSV (herpes simplex virus) 感染造成之水疱也可看見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (4) Tzanck smear 也可看見 giant and multinucleated cells。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

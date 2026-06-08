@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Viral meningitis (病毒性腦膜炎)'
   - 'Viral meningitis'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,12 @@ CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等�
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- 4. 臨床症狀依腫瘤壓迫的位置而異,常表現三叉神經痛(橋腦小腦角),後顱窩的話有小腦方面的症狀,鞍區和中顱窩則可表現視力障礙或視野缺損,長在脊柱內則可有腰痛、運動障礙、膀胱、直腸功能障礙。假使腫瘤破裂,囊腫內含物流至蜘蛛膜下腔引起發炎,造成無菌性腦膜炎(aseptic meningitis)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...(B) 伴有先天異常 (associated congenital malformations) | | | (C) 對放射性治療有效(responsive to radiation therapy) | | | (D) 無菌性腦膜炎 (aseptic meningitis) | | | (D) 19. Glioblastoma multiforme (GBM) 屬於 WHO classification system | 104(二)專 | | of glioma 中的: | 醫五-8 | | (A) Grade I | | | (B) Grade II | | | (C) Grade III | | | (D) Grade IV | | | | | Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...**再看 WBC**,如果加上 WBC 高 (> 5)、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低( 40 | 0~5 | 50~100 | Clear | 9~18 | | 病毒性腦膜炎 | 50~100 | 20 年): 侵犯腦實質、脊柱、背根神經節(tabes dorsalis; 步態不穩、感覺異常)、Argyll-Robertson 瞳孔。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (D) 10. 下列那些腦膜炎,如果沒有及早治療,容易發生顱底腦膜嚴重滲 105(ニ)専出性發炎變化(basilar meningeal exduate),導致次發性腦血管梗塞(cerebral infarction)?①腮腺炎病毒腦膜炎(mumps)②巨細胞病毒性腦膜炎(CMV)③結核菌腦膜炎④隱球菌腦膜炎(A)①②(B)②③(C)①④(D)③④ Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -69,8 +73,6 @@ CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等�
 - ...itis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Enterovirus | Sepsis, DIC, hepatitis, myocarditis and meningoencephalitis. | | | Varicella zostervirus (VZV) | Cicatricial skin lesions. | | Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...| 醫三 -38 | | | (A) human immunodeficiency virus (HIV) | | | | (B) Parvovirus B19 | | | | (C) Coxsackievirus | | | | (D) Enterovirus | | | (A) 2 | D. 陣發性夜間血色素尿(paroxysmal nocturnal hemoglobinuria)的病人發生溶血的原因,是因為紅血球上缺乏何種抗原? | 102(一)專醫三-41 | | | (A) CD55, CD59 | | | | (B) CD16, CD66 | | | | (C) CD15, CD25 | | | | (D) CD11, CD14 | | | | | | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- (1) 與正常相比,WBC、Protein 稍高,但葡萄糖正常,考慮病毒性腦膜炎。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- ...------------------------|--------------------------------------------------------------------|--|--| | Genital herpes | HSV2 | Acyclovir PO 400 mg tid 1 週或 IV 5 mg/kg q8h | | | | Genital warts | HPV 6, 11 | HPV 6, 11 若有皮膚病灶→局部電燒 | | | | Primary Syphilis | Benzathine PCN 2.4 | Benzathine PCN 2.4MU IM stat 或 Doxycycline 100 mg PO bid 14 天 | | | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

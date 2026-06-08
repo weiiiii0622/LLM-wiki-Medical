@@ -16,6 +16,9 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book1-ch08]]"
 aliases:
   - 'Disseminated intravascular coagulation, DIC (瀰漫性血管內凝血)'
   - 'Disseminated intravascular coagulation, DIC'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-全身凝血活化造成血栓與出血並存，常由敗血症、癌症、產科或創傷引發。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+全身凝血活化造成血栓與出血並存，常由敗血症、癌症、產科或創傷引發。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,18 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch04]]
+- [[sources/med5-book1-ch08]]
 
 ## Key Details From Sources
 
+- (3) 第三級:不可逆性休克,長時間灌流不足導致細胞受損,病患經輸液及升壓劑 治療後仍血壓不穩、少尿或無尿、意識昏迷、DIC等,死亡率極高。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- ...(1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- D. 瀰漫性血管內凝固(DIC) 40 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- ## D. 瀰漫性血管內凝固 (DIC) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
+- (C) 35. PT (prothrombin time) 延長是因凝血因子低於正常的百分之五十以下,但下列何種因子除外? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (D) 1. 感染相關的噬血症候群 (Infection-associated hemophagocytic 109(二)專 syndrome),下列那一項最不支持此診斷? 醫四-27 - (A) Hypofibrinogenemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 4. 兒童患者如果發生 disseminated intravascular coagulation (DIC), 104(二)專 血液檢查時,下列何者不會出現? - (A) 血中 D-dimer 出現 - (B) 血中 Factor V 或 Factor VIII 降低 - (C) 血小板 (platelets) 數目降低 - (D) 血中 fibrinogen 升高 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】病人嚴重感染走向 DIC 時,凝血系統啟動造成血小板、 凝血因子大量消耗而降低,纖維蛋白溶解系統也跟著啟動造成 D-dimer 上升與 fibrinogen 下降。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -61,12 +73,6 @@ tags:
 - 5. Prothrombin time (PT) - (1) 與白蛋白相同,用來評估肝臟合成功能的指標。 - (2) 除了 factor VIII 以外,其餘凝血因子均由肝臟製造。因此發生嚴重的肝功能受損時,除了 PT 延長以外, aPTT 亦會延長。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...-----------------------------| | 病理缺陷 | Platelet/ vascular defect | Coagulation defect | | 實驗室檢查 | Bleeding time (BT) | PT \ aPTT | | 出血處 | 皮膚、黏膜 | 肌肉、關節 (Deep in soft tissue) | | 病灶名稱 | Petechiae, Ecchymosis | Hemarthroses, Hematomas | | 出血時機 | 小切傷,較立即、輕微 | 大手術,較延遲、嚴重 | | | 如:流鼻血、刷牙流血 | 如:血膝、爬山後肌肉內血腫 | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (3) Platelet aggregation:活化後會表現 GP IIb/IIIa,再藉由 Fibrinogen 等互相聚集。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- 2. 血管缺陷:如 Senile purpura,老年人皮下脂肪減少,尤其是四肢伸側,皮一拉,血管易破。CBC、PT、aPTT 皆正常,Senile purpura 不需治療,僅需觀察。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...,須緊急拉血液抹片、測 Coombs' test, 區分病因。 - b. 非免疫 (Microangiopathic hemolytic anemia, MAHA): - (a) 血液抹片上看到 Fragment RBC, 須懷疑 TTP、DIC等原因造成血管壁不平順, 導致溶血; 若是 TTP 須進行血漿置換, 而 DIC 則是控制背後引發 DIC 的病因, 如敗血症等。 - (b) TTP 不會有 PT、aPTT 延長問題,而 DIC 必合併凝血問題 (PT、aPTT 延長)。 - (c) 非免疫還有包括 enzymopathy 如蠶豆症、hemoglobinopathy 如 hemoglobin H、感染如 malaria 等。 - c. 免疫 (Autoimmune h Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...Ps (肝脾淋E | | | | Retinopathy, TIA; Chloroma (軟組織腫瘤) | 大)、 | | | | | CNS involvement · Tumor lysis syndrome | | | 次型症狀 | DIC/M3 | Ant. Mediastinal mass (T cell) | | | | Gingival infiltration /M4,M5 (牙齦肥厚) | | | | 形態學 (Old) | 細胞質有顆粒 (Granule)、Auer rod | 細胞質軸 | 交少、無顆粒 | | Morphology | | | | | 化學染色 (Old) | Myeloperoxidase (MPO)/M2~M4 | Periodic Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- g. Renal failure (usually from hypotension, although disseminated intravascular coagulation may also be present Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- (B) 1. 下列有關急性前骨髓細胞白血病 (acute promyelocytic leukemia) 的 107( ) 専 - (A) 容易發生瀰漫性血管內凝血(DIC) - (B) 帶有染色體異常 t (5;7) - (C) 有異常之 PML/RAR α 融合基因 - (D) 以反轉式維甲酸 tretinoin 治療,可以達到完全緩解 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...upus anticoagulant (B) factor VIII (C) protein S | 105(一)專醫三-12 | | | (D) protein C | | | | 【 詳解 】APS 的檢驗異常包括 prolonged aPTT 及 false positive RPR。 | | | (D) | 8. 下列對於全身性紅斑性狼瘡(SLE)病人血清中的各種自體抗體的描述,何者最為正確? (A) anti-RNP 對於診斷 SLE 的特異性最高 (B) anti-histone 抗體與 SLE 的腎炎最有相關 (C) anti-Sm 與 SLE 的 psychosis 最有相關 (D) anti-phospholipid 與 habitual fetal loss Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 
 ## Clinical Caveats
 

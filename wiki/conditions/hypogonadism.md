@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch20]]"
 aliases:
   - 'Hypogonadism (性腺功能低下)'
   - 'Hypogonadism'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-性腺荷爾蒙不足可源自原發性性腺或中樞病變。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+性腺荷爾蒙不足可源自原發性性腺或中樞病變。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med3-book2-ch13]]
 - [[sources/med3-book2-ch15]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch20]]
 
 ## Key Details From Sources
 
+- c. Hypogonadism:無月經、不孕、無性慾。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 【詳解】Kallmann syndrome 為 X 染色體末端的基因缺陷,造成 先天性 GnRH 分泌不足,導致腦下垂體無法分泌性腺激素 (FSH, LH),形成所謂性腺激素功能低下症(hypogonadotropic)與性 腺功能低下症(hypogonadism)。80% 的患者因嗅覺神經無發育 使得嗅覺神經元萎縮而有嗅覺缺失症(Anosmia)或嗅覺減退 (Hyposmia),同時也會伴隨色盲、耳聾、隱睪症、陰莖短小、 扁平臉等異常。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - Kallman synsrome 是 hypogonadotropic hypogonadism 中最常見的疾病,合併聽力缺損或是喪失。臨床上此疾病可以是體染色體顯 / 隱性(85%; KAL2 gene mutation, autosomal dominanat)或是性聯遺傳(15%, KAL1 gene mutation)。主要發生 Kallman syndrome 是 KAL gene 突變造成在胚胎發育中,腦部、臉部、腎臟發育異常。因此病人臨床表現出現動作不協調、聽覺喪失、臉部外觀異常(唇裂或顎裂、眼距過寬)與腎臟發育異常(單側腎臟缺失)。另外,造成唇裂/顎裂是 KAL2 基因突變造成,並非 KAL1 基因(參考,國考應該不會考這麼細)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (D) 性腺機能不足(hypogonadism) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 【詳解】Prader-Willi syndrome 為父源性(paternal)染色體 15q11-q13 缺失造成(母源性染色體 15q11-q13 缺失則為 Angelman syndrome)。Prader-Willi syndrome 臨床特點為出生時會有嚴重的肌張力低下與餵食困難、嬰兒時期出現食量特大(voracious appetite)與肥胖、四肢較小、性腺功能低下以及智 Source: [[sources/med4-book1-ch10|癸、遺傳學]].

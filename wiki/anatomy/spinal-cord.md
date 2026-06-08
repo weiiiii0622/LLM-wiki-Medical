@@ -12,6 +12,16 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book1-ch19]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch07]]"
+  - "[[sources/med5-book1-ch10]]"
+  - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Spinal cord (脊髓)'
   - 'Spinal cord'
@@ -26,7 +36,7 @@ tags:
 
 ## Summary
 
-傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +48,29 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch20]]
+- [[sources/med5-book1-ch18]]
+- [[sources/med5-book1-ch19]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch07]]
+- [[sources/med5-book1-ch10]]
+- [[sources/med5-book1-ch11]]
+- [[sources/med5-book1-ch12]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- H. 脊椎與脊髓腫瘤 (Spine and spinal cord tumor) 188 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (4) 由於脊髓只有到 L1,往下 發出神經叢稱作馬尾(cauda equina),馬尾發出的神經自 對應椎體的椎間孔出來,如 右圖例,L4 神經根已經從 L4 腰椎間孔出來,所以當 L4-L5 椎間盤突出時,反而 較少壓迫到 L4 神經根,卻 是壓迫到 L5。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (6) 影像檢查: - a. 腰薦椎 X 光: 只能顯現骨骼結構,可以看出是否有脊椎骨的病變,如骨折、 關節變形、側彎、滑脫或椎間空間變窄等,但無法確認是否有椎間盤突出。 - b. CT:可偵測神經有無受到椎間盤壓迫,另外可加作脊髓腔造影,在蜘蛛膜下 腔注射顯影劑,以加強脊索及神經根之影像,增加診斷之正確性。 - c. MRI: 首選檢查工具,可清楚看到脊椎、脊髓、神經根、軟骨等結構,找出 椎間盤突出的部位,不需要打顯影劑。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (A) 1. 小腦扁桃體下垂 5 mm 至頸椎脊椎腔且合併有脊髓空洞症(syringomyelia),但沒有合併脊柱裂(spinal bifida)或水腦(hydrocephalus),應該歸屬下列何種異常? - 109(二)專 醫五-12 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
+- 【詳解】Arnold-Chiari malformation,又稱小腦扁條體下疝,指的是小腦扁桃體疝氣,通過枕骨大孔下疝到椎管內,使得腦幹、脊髓受到壓迫,甚至影響腦脊液的流通。第一型較輕微,無其他神經系統畸形,多在學齡、或成人時才會出現一些神經學症狀(頭痛、頭暈、噁心、肌肉無力、協調障礙)。第二型合併出現脊柱裂(脊膨出 myelomeningocele),容易有呼吸、吞嚥困難,四肢無力的情形。第三型則是小腦下半部或是腦幹下疝到椎管內。第二和第三型通常在產前超音波檢查即可發現。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
+- (D) 當發現 epidural abscess 有壓迫 spinal cord 應立即採取抗生素 單一治療 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
+- 2. 顱內室管膜瘤好發於孩童,但長於脊髓的室管膜瘤則以成年人為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 2. 成年人最常見原發性小腦腫瘤,也可能長在脊髓、視網膜,或在腎臟、胰臟中出現 囊腫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 3. 好發的位置常見在松果體(80~90%)、蝶鞍上(15~40%)及基底腦核(5~10%), 有時診斷時已經散播到腦室及脊髓腔內。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 1. 阻塞性: - (1) 先天:大腦導水管狹窄、Dandy-Walker malformation (第四腦室的 Luschka 和 Magendie 孔狹窄,導致第四腦室脹大)、Arnold-Chiari malformation (後顱窩容 量過小的畸形,導致後顱窩的內容物擠壓到脊髓)。 - (2) 後天:腫瘤、出血、膿瘍。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - L. 基本神經學 151 - A. 血管支配 151 - B. 大腦與脊髓病灶的比較 151 - C. 上運動神經元、下運動神經元病灶的比較 151 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 本章節以介紹基本神經學開始,先比較大腦與脊髓病灶,而脊髓病灶又分上、 下神經元,再比較彼此差異。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
@@ -49,8 +79,6 @@ tags:
 - i. 第一棒:背根神經節 (dorsal root ganglion)接受來自體表 Pacinian corpuscle、Meissner's corpuscle、Merke's disc 接收的刺激,將刺激藉由 Aβ 神經纖維傳入脊髓。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (A) 結核菌腦膜炎的脊髓液外觀經常是混濁的,細胞數通常為每 毫升 25~500 顆,以嗜中性白血球為主,脊髓液中葡萄糖量 減少,但是蛋白質量增加 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (C) 脊髓硬膜外膿腫(spinal epidural abscess)通常會有嚴重的背 痛、疲倦、發燒,接著會有嚴重的神經根痛及肢體麻痺無力 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- (D) 脊髓硬膜外膿腫(spinal epidural abscess)不是腫瘤轉移,因此不會有敲擊痛,也不會出現 Kernig 徵狀(Kernig sign) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- III. 大腦代謝疾病 141 - A. 橋腦中央脊髓去髓鞘化 (Central pontine myelinolysis) 141 - B. Vitamin B1 (Thiamine) deficiency 141 - C. Vitamin B12 (Cobalamine) deficiency 142 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 
@@ -60,9 +88,13 @@ tags:
 ## Related Pages
 
 - [[anatomy/central-nervous-system|Central nervous system, CNS (中樞神經系統)]]
+- [[conditions/cervical-myelopathy|Cervical myelopathy (頸椎脊髓病變)]]
 - [[physiology/corticospinal-tract|Corticospinal tract (皮質脊髓徑)]]
+- [[conditions/herniated-intervertebral-disc|Herniated intervertebral disc, HIVD (椎間盤突出)]]
 - [[conditions/multiple-sclerosis|Multiple sclerosis, MS (多發性硬化症)]]
 - [[conditions/neuromyelitis-optica|Neuromyelitis optica, NMO (視神經脊髓炎)]]
+- [[conditions/scoliosis|Scoliosis (脊椎側彎)]]
+- [[conditions/spinal-cord-injury|Spinal cord injury, SCI (脊髓損傷)]]
 - [[conditions/subacute-combined-degeneration|Subacute combined degeneration (亞急性合併退化症)]]
 
 ## Follow-up

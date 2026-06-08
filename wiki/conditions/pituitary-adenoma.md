@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Pituitary adenoma (腦垂體腺瘤)'
   - 'Pituitary adenoma'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- 3. Microadenoma:直徑小於 1 公分;Macroadenoma:直徑大於 1 公分,大部分的 pituitary tumor 屬於 microadenoma,而 macroadenoma 多屬於 non-functional。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- ...公 | 103(二)專 | | 分之腫瘤,向上壓迫 optic chiasma,注射顯影劑後呈現均匀且明 | 醫五-16 | | 顯之顯影,請問最可能之診斷為? | | | (A) lymphoma | | | (B) pituitary macroadenoma | | | (C) meningioma | | | (D) germ cell tumor | | Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (B) 31. 有關腦下垂體瘤 (pituitary adenoma) 的敘述,下列何者錯誤? Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - \* 視交叉正下方若有腦垂體腫瘤(pituitary adenoma)、鼻咽癌(NPC)往上壓迫視交叉的正中央,會造成由上往下的雙顳側視野受損,如下圖;若 craniopharyngioma 由外側壓迫,會造成鼻側視野受損。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 2. 原發性腦腫瘤 - (1) 神經膠瘤 (glioma) 最為常見 (43.9%), 包含 glioblastoma、astrocytoma、oligodendorcyte、ependymoma; 惡性機會高。 - (2) Meningioma (17.2%): 好發女性,為良性腫瘤可手術摘除; - (3) Pituitary adenoma (8.6%) Schwannoma (7.0%) Lymphoma... Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (2) 橋本氏甲狀腺炎(早期)、亞急性甲狀腺炎(de Quervain's thyroiditis)、pituitary adenoma、腦下垂體對 T4 有抗性等。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -51,7 +56,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/brain-tumor|Brain tumor (腦瘤)]]
+- [[conditions/craniopharyngioma|Craniopharyngioma (顱咽瘤)]]
 
 ## Follow-up
 

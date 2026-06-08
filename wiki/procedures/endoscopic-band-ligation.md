@@ -6,6 +6,7 @@ updated: 2026-06-08
 sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch01]]"
+  - "[[sources/med5-book1-ch14]]"
 aliases:
   - 'Endoscopic band ligation (內視鏡靜脈曲張結紮)'
   - 'Endoscopic band ligation'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book2-ch01]]
+- [[sources/med5-book1-ch14]]
 
 ## Key Details From Sources
 
+- (D) 11. 下列何者不是內頸動脈結紮(Internal carotid artery ligation)的禁忌症(contraindication)? - (A) 嚴重低血容症 (Severe hypovolemia) - (B) 最近有蜘蛛膜下腔出血(Evidence of recent SAH) - (C) 腦血管攝影有腦血管痙攣跡象 (Evidence of cerebral vasospasm on the arteriogram) - (D) 頸動脈顳骨岩部之創傷性動脈瘤剝離(Traumatic dissecting aneurysm of the petrous carotid artery) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
+- 【詳解】(A)(B)(C) 為內頸動脈結紮的禁忌症,ligation 會加重腦部 circulation 不足的問題。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (2) 預防再出血: - a. 使用非選擇性 β 交感神經阻斷劑,降低心輸出量,藉此降低門脈壓。 - b. 以內視鏡對較大的血管進行 regular band ligation 做預防。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (D) 21. 一位 65 歲男性病人發生急性食道靜脈曲張出血(variceal bleeding),下列何種治療不考慮?98(ニ)専署ニ-56 - (A) 藥物 somatostatin or octreotide 治療 - (B) 內視鏡結紮術 - (C) 內視鏡硬化劑注射 - (D) 食道橫截切除術 Source: [[sources/med3-book2-ch23|戊、肝硬化]].

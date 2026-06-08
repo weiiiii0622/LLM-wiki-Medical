@@ -6,6 +6,8 @@ updated: 2026-06-08
 sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med5-book1-ch13]]"
 aliases:
   - 'Cranial nerve palsy (腦神經麻痺)'
   - 'Cranial nerve palsy'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-腦神經功能受損造成眼動、臉部、吞嚥、聽平衡等症狀，需定位核、束、神經或肌肉。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦神經功能受損造成眼動、臉部、吞嚥、聽平衡等症狀，需定位核、束、神經或肌肉。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book1-ch14]]
+- [[sources/med5-book1-ch13]]
 
 ## Key Details From Sources
 
+- (B) 第三對顱神經麻痺(3rd cranial nerve palsy) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
+- ...ld headache and slight nuchal rigidity | | la | No acute meningeal/brain reaction, but with fixed neuro deficit | | 2 | Cranial nerve palsy (III, VI), moderate to severe headache, nuchal rigidity | | 3 | Mild focal deficit, lethargy, or confusion | | 4 | Stupor, moderate to severe hemiparesis, early decerebrate rigidity | | 5 | Deep coma, decerebrate rigidi Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - ...aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ischemic type) - (D) 海綿靜脈竇徵候群 (cavernous sinus syndrome) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (B) 8. Weber 症候群除了第三腦神經麻痺外,對側身體尚會出現何症狀? 99(二)專 - (A) 失調症 (ataxia) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 【詳解】Weber syndrome 的病灶影響中腦的動眼神經核和大腦腳,故除了同側第三腦神經麻痺外,也會導致對側偏癱。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].

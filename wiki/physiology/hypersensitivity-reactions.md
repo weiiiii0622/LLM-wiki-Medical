@@ -29,6 +29,9 @@ sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Hypersensitivity reactions (過敏反應分類)'
   - 'Hypersensitivity reactions'
@@ -43,7 +46,7 @@ tags:
 
 ## Summary
 
-Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +75,17 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - [[sources/med4-book3-ch01]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch03]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- (B) 34. 下列有關第二頸椎樞突骨折(odontoid process fracture) 之敘述, 102(-)専何者錯誤?8五-15 - (A) 第一型骨折(Type I fracture) 大都發生在翼狀韌帶(alar ligament) 的接著處 - (B) 第二型骨折(Type II fracture) 最常發生,但是較穩定 - (C) 第二型骨折發生在樞突(odontoid process)的基底部(base) 不侵犯到第二頸椎椎體部(body) - (D) 第三型骨折(Type III fracture)發生在樞突的基底部並侵犯 到第二頸椎椎體部 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- 【詳解】Type II 極度不穩定,且易癒合不良。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (B) 49. 依 Anderson and D'alonzo 分類,下列那一種齒狀突骨折(odontoid 98(二)專 fracture) 最容易發生接合不全(non-union)? 醫五-59 (A) type I (B) type II (C) type III (D) type IV (A) 50. 頸椎間管狹窄造成脊髓壓迫,導致頸脊髓病變(myelopathy), 98(一)專 下述症狀何者較少出現? 醫五-42 (A) 枕部神經痛 (occipital neuralgia) (B) 痙攣 (spasticity) (C) 深腱反射增加 (increased deep tendon reflexes) (D) 病理反射 Babinski's Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- ...neurogenic)。 - a. 敗血性休克:遭細菌感染釋放出之毒素,使得 TNF-α、IL-1、IL-6、IL-8 會增加,造成周邊血管擴張,vessel tone 下降,血管內有效容積下降,引起休克。 - b. 過敏性休克: 因嚴重的過敏反應而引發體內細胞釋放出物質使全身血管擴張 導致血壓下降。 - c. 神經性休克:由於脊髓損傷導致神經性反射及血管阻力喪失,使周邊血管擴張使得血液湧向周邊部位、造成主要器官組織灌流不足,心輸出量減少,引起休克。 - (4) 阻塞性(obstructive):心包填塞、肺動脈栓塞、張力性氣胸等造成心輸出量不足。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- ...| | | | (C) 前庭神經(vestibular nerve) | | | | (D) 舌咽神經 (glossopharyngeal nerve) | | | (B) | 4. 下列何者較少出現在 Neurofibromatosis type I 的病人? | 108(一)專 | | | (A) 家族顯性遺傳 | 醫五-9 | | | (B) 雙側聽神經瘤 | | | | (C) 皮膚咖啡牛奶斑(Cafe-au-lait macules) | | | | (D) 脊椎發育異常 | | | | 【詳解】雙側聽神經瘤屬第二型。 | | | (B) | 5. 有關腦下垂體泌乳素瘤(prolactinoma)的描述,下列何者正確? | 108(一)專 | | | (A) 腫瘤通常直徑大 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (C) spinocerebellar ataxia type III Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (B) 第一型神經纖維瘤(neurofibromatosis type I) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (D) 第二型神經纖維瘤 (neurofibromatosis type II) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -88,11 +99,6 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - (A) 可能是過敏反應, 首要評估有無呼吸道的問題 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】雖然 $H_2$ receptor blocker 主要是用來抑制胃酸分泌,但它也有 anti-allergic 效果,近期有研究指出在抑制過敏反應方面, $H_1$ 和 $H_2$ receptor blocker 一起使用,比單一使用 $H_1$ receptor blocker 還來的有效。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】此圖患者的掉髮為前額髮線退縮,呈特殊的 M 字型禿 髮,為典型雄性禿(androgenetic alopecia)表現,原因為身體 週邊的 type II 5α-reductase 將睪固酮 (testosterone) 轉變為效能 更強的雄性激素 Dihydrotestosterone (DHT) 與頭皮上的雄性 激素接受體 (androgen receptor) 結合後,引起頭髮毛囊 (hair follicles)變小、縮短生長期,變成短而細的杵狀髮(vellus hair),最後毛囊上舊的頭髮脫離毛囊而掉落。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- b. 人體對疥蟎及其排泄物產生過敏反應,因此皮膚上會出現紅斑、丘疹(疹上可見痂皮)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- | | Type 0 (Type IIIB:3歲後發病 | 超過 21 歲 | | 臨床表現 | 近端肢體無力、呈現低肌張力 姿勢性手抖 低反射動作 (hyporeflexia) 脊椎側彎 | 1. 可能出現手抖2. 類似肌肉失養症情況 | 無 | | 生命極限(未治療狀態下) | 7 成可活過 2 歲,極限約可活至 25 歲 | 幾乎與正常人相同 | 與正常人相同 | | 別名 | Intermediate SMA (sitters) | Kugelberg-Welanderdisease, mild SMA(walkers) | Adult SMA | | 動作發展里程碑 | 能坐,但無法站立或行走 | 能夠站立與行走 | 與一般正常人相同 | Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (1) 肺動脈瓣下型 (subpulmonary type, type I): 又稱 supracristal type、outlet (infundibular) defect、subarterial doubly committed defec,位於右心室出口 (RVOT),佔 VSD 約 6%,在東方人較常見 (東方人 VSD 中佔約 30%)。此型容易造成主動脈瓣 脫垂或逆流,開刀為第一優先治療選擇。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (2) 膜週邊型 (perimembranous type, type II): 又稱 subaortic type, 位於主動脈瓣膜下方、三尖瓣附近,最常見的心室中膈缺損(佔70%),自行癒合機會約35%。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (3) 入口型(inlet type, type III):又稱 AV canal type,佔 VSD 約 6%。通常伴隨 ASD 而造成 a complete AV-canal or endocardial cushion defect。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

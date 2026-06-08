@@ -23,6 +23,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Staphylococcus aureus infection (金黃色葡萄球菌感染)'
   - 'Staphylococcus aureus infection'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,12 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture 長出何種細菌,則會被認為是 antibiotic associated colitis? (A) Clostridium difficile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - 100(一)專醫五-11 | | (D) 22. 承上題,此時會選擇何種藥物治療? (A) 注射 clindamycin | 100(一)專醫五-12 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (4) 併發症:因反覆抓癢導致金黃色葡萄球菌或疱疹病毒(eczema herpeticum) 感染。少數會有錐形角膜(keratoconus)、白內障(cataracts)或角膜結膜炎(keratoconjunctivitis)。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (C) 有時需要做細菌培養來排除金黃色葡萄球菌(S. aureus) 感染的可能 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (B) 47. 關於異位性皮膚炎(atopic dermatitis)的敘述,何者錯誤? 100(一)專 (A) 皮膚的屏障功能(skin barrier function) 會降低 醫四 -36 - (B) 在成人的病灶好發於四肢伸側(extensor)部位 - (C) 患者易伴隨金黃色葡萄球菌皮膚感染 - (D) 大部分患者血清 IgE 值升高 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -79,8 +83,6 @@ tags:
 - (1) **Viridans-type streptococci**(α-hemolytic streptococci)與 *Staphylococcus aureus* 為 最常見。此外 Group D streptococcus (*S. bovis* or *S. faecalis*) 亦是常見病原體。 - a. Viridians group streptococcal infection (*Streptococcus mutans*, *S. sanguinis*, *S. mitis*) 常見於牙科侵入性治療後。 - b. Staphylococcus aureus 是第二常見的細菌。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (4) 若有裝置人工瓣膜,感染病原體要考慮以下菌種:Staphylococcus epidermidis、 Staphylococcus aureus、Viridans group streptococcus、Pseudomonas aeruginosa、 Serratia marcescens、 Diphtheroids、Legionella spp.、HACEK group 以及 Fungi。 PS: HACEK group:Haemophilus species, Aggregatibacter species, Cardiobacterium hominis, Eikenella corrodens, and Kingella species. Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 經驗性抗生素使用: - a. 若懷疑 Viridians streptococci 或 Enterococcus: penicillin 或 ampicillin 加上 gentamicin。 - b. 若懷疑 *Staphylococcus aureus*: penicillinase-resistant penicillin 或 vancomycin 加上 gentamicin。 - c. 若針對術後病童或是病童有 prosthetic valves,使用 vancomycin 與 gentamicin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (2) 通常是單一關節發炎,關節液 WBC > 10 萬、> 90%PMN,S. aureus 最常見。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- ...hronic polyarticular arthritis 內 1-24 (B) Calcium pyrophosphate dihydrate arthritis — acute polyarticular arthritis (C) Staphylococcus aureus arthritis — acute monoarticular arthritis (D) Borrelia burgdorferi arthritis - acute episodes of polyarthritis on both hands 【詳解】(A)、(D) 這些感染性關節炎通常是單一關節。(B) CPPD 大多是「多關節」,只是不一定是 acute 根據 Harrison 16EP.2048 右欄第四行: CPPD d Source: [[sources/med3-book4-ch06|己、關節炎變]].
 
 ## Clinical Caveats
 

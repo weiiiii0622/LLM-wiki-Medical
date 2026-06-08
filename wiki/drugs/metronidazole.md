@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med5-book1-ch05]]"
 aliases:
   - 'Metronidazole (甲硝唑)'
   - 'Metronidazole'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book3-ch10]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med5-book1-ch05]]
 
 ## Key Details From Sources
 
+- (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- ...腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- (3) Clostridium tetani (破傷風桿菌): - a. 引起破傷風(Tetanus),臨床症狀有牙關緊閉、肌肉僵直、抽搐。 - b. 治療:肌肉注射破傷風免疫球蛋白;口服或靜脈注射 metronidazole 是首選抗 生素治療,其次可選用靜脈注射 penicillin。抗生素需持續治療 10~14 天。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 【詳解】酒渣性痤瘡(acne rosacea),又稱酒槽鼻,好發 30~50歲中年男性,是由於微血管異常擴張和皮脂腺毛囊發炎而造成。嗜酒、吸菸、刺激性飲食、壓力、日曝寒冷風吹等均可加重病情。初期表現以臉部容易變紅(微血管輕微擴張,皮膚上有血絲),接著如青春痘般會有丘疹/膿疱(papules/pustules),並且有較嚴重的微血管擴張;後期則會出現結節狀硬塊(induration)、鼻瘤(rhinophyma,尤其男性患者)。酒槽鼻難以根治,只能控制病情,少數病患可自行痊癒。注重臉部保濕防曬、避免暴露酒槽鼻危險因子等;稍微嚴重的病患,可以給予口服或外用抗生素(tetracyclines、metronidazole)或 A 酸,以及雷射和手術。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...ducing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 可給 ceftriaxone、metronidazole、 amikacin 等抗生素 Source: [[sources/med4-book1-ch02|乙、消化系統]].

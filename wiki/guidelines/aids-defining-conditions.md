@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book1-ch06]]"
 aliases:
   - 'AIDS-defining conditions (AIDS 定義疾病)'
   - 'AIDS-defining conditions'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區對 TB 定義不同。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區對 TB 定義不同。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med5-book1-ch05]]
+- [[sources/med5-book1-ch06]]
 
 ## Key Details From Sources
 
+- 2. 黴菌感染: Candida albicans 最常見,為伺機性感染。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
+- 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (1) 主要由伺機性感染原「白色念珠菌」(Candida albicans)所致,為酵母菌 (Yeast),多半發生在潮濕的表皮或黏膜處,極少部分則由其他種念珠菌感染(C. tropicalis、C. krusei、C. parapsilosis、C. guilliermondii等)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (2) 常見的誘發因素包括肥胖、濕熱、衛生條件不良之環境、糖尿病、懷孕或廣效 性抗生素使用不當等等,引起局部或全身性免疫力改變,而造成伺機性感染。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 舊名 Tinea versicolor,因以前誤以為是皮癬菌感染所致,後來發現是由皮屑芽孢菌(*Pityrosporum ovale*) 感染,為酵母菌,屬伺機性感染。而 *Pityrosporum ovale* 現改名為 *Malassezia furfur*,在台灣則有汗斑(濕熱多汗環境下易孳生)、花斑癬等不同俗稱。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

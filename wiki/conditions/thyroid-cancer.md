@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med4-book1-ch09]]"
+  - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book1-ch18]]"
 aliases:
   - 'Thyroid cancer (甲狀腺癌)'
   - 'Thyroid cancer'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-甲狀腺惡性腫瘤依病理型態預後與治療不同。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺惡性腫瘤依病理型態預後與治療不同。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med3-book4-ch13]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med4-book1-ch09]]
+- [[sources/med5-book1-ch17]]
+- [[sources/med5-book1-ch18]]
 
 ## Key Details From Sources
 
+- ...---------|----------------------| | | (A) meningioma | 醫五 -10 | | | (B) schwannoma | | | | (C) neurofibroma | | | | (D) anaplastic astrocytoma | | | (C) | ) 4. 下列關於 intramedullary spinal cord tumor 的敘述,f | 可者錯誤? 109( - ) 專 | | | (A) intramedullary spinal cord tumor 約占所有 spinal | tumor的 5% 醫五-46 | | | (B) primary intramedullary spinal cord lymphoma Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- ...又叫作 low grade astrocytoma,單獨非典型細胞增生 (cytological atypia alone),細胞為良性但臨床表現為惡性,少有鈣化,好發於兒童或年輕人。 - (3) Grade III: 分化不良星狀細胞瘤(anaplastic astrocytoma),分化不良且呈絲狀分裂(anaplasia and mitotic activity),為惡性,平均年齡 46 歲。 - (4) Grade IV: 神經膠母細胞瘤 (glioblastoma multiforme, GBM),有微小血管增生或是壞死 (also show microvascular proliferation and/or necrosis),為惡性,平均年齡 56歲,最常見原發性腦瘤。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (4) Anaplastic large cell lymphoma: - a. 為周邊 T cell lymphoma。 - b. 典型表現為無痛性周邊淋巴病變,有時會合併皮膚或皮下侵犯。也常出現發 燒、體重減輕等。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...在目前最先進的治療下,下列何種小兒癌症有最好的預後? 103(二)專 (A) medulloblastoma in posterior fossa 醫四-26 (B) neuroblastoma stage 4S (C) advanced anaplastic large cell lymphoma (D) anaplastic stage IV Wilms tumor 【詳解】Neuroblastoma stage 4S 且無 n-MYC amplification 預後 極佳,可能不需治療會 spontaneous regress。 (D) 3. 考慮年齡及 international neuroblastoma staging system,下列那一 103(一)專 種神經母細胞瘤 ( Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...----------|------------------|-----------|-----------------------|------------------| | Hormone | Calcitonin | 12 min | 甲狀腺癌 (Medullary ca.) | | | | β -нсс | 18~24 hr | 生殖細胞癌 (GCT), GTD | 懷孕 | | Tumor | PSA | 2~3 d | 前列腺癌 | BPH, Prostatitis | | associated | CA125 | 4~5 d | 卵巢癌 | 月經、腹膜炎 | | protein | CA153 | \*GTD = Gestational trophoblastic d Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
