@@ -1,0 +1,8 @@
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.venv
+*.zip
+FC/
+md/
