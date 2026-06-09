@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch01]]"
@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Alkylating agents (烷化劑)'
   - 'Alkylating agents'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch06]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (A) 22. 陳女士 50 歲為一乳癌患者經手術行 modified radical mastectomy 後,其 staging 為 T2N1M0,術後建議給予 6 次 5-FU, Adriamycin 及 cyclophosphamide。此種化學藥物治療屬於下列那一種? Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (2) 免疫抑制劑: chlorambucil、cyclosporine A 和 cyclophosphamide,對於眼鏡病變、 黏膜潰瘍和神經病變都有不錯療效。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -74,7 +77,6 @@ tags:
 - (2) Class III、Class IV 可見 Subendothelial immune deposits、腎絲球活躍地發炎,須積極以高劑量類固醇+免疫抑制劑(Cyclophosphamide)治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - | 分 類 | 作用 | 藥 物 | | | |------------------|-----------------|---------------------------------|--|--| | 烷化劑 | 抑制分化快速細胞 | Cyclophosphamide (Endoxan® 愛德星) | | | | 抑制 Purine 製造 | 抑制白血球 | Azathioprine (Imuran® 移護寧 ) | | | | 14th Latine 35/5 | 256169 1 mr. 9. | MMF (Cellcept® 山喜多) | | | | 減少 IL2 分泌 | 抑制T細胞 | Cyclosporin (Sandimmun®新體睦) | | | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (1) 烷化劑 (Alkylating agent): Cyclophosphamide (Endoxan® 愛德星) - a. 作用機制:烷化(Alkylating)DNA、與 DNA 結合,進而抑制 DNA 複製;針對 分化快速細胞皆有作用,效果最強、副作用也最大。 - b. 可能造成骨髓抑制、出血性膀胱炎(Hemorrhagic cystitis)、提前停經(premature ovarian failure)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- 4. 治療: (Ref. Harrison p2109 fig 317-1) - (1) 眼乾、口乾給予症狀治療,或服用 Pilocarpine (Salagen)、Cevimeline (Evoxac)。 - (2) 腎小管酸中毒 (RTA) 需給予 Bicarbonate 補充。 - (3) 關節炎給予低劑量類固醇加上 Hydroxychloroquine 或 MTX 治療。 - (4) 血管炎則需給予類固醇加上免疫抑制劑 Cyclophosphamide 治療。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

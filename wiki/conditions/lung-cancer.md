@@ -39,6 +39,8 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Lung cancer (肺癌)'
   - 'Lung cancer'
@@ -53,7 +55,7 @@ tags:
 
 ## Summary
 
-肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +94,13 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- (c) 癌症:因為服用免疫抑制劑使T細胞免疫反應被抑制,會增加各種癌症 發生率。(增加 20 倍淋巴癌風險,增加 15 倍腎臟癌風險,增加 5 倍肝癌 風險,增加3倍睪丸、膀胱癌風險,以及增加2倍常見腫瘤風險,例大 腸癌、攝護腺癌、肺癌、胃癌等。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 1. 病理:庫欣式症是因為皮質醇(cortisol)過量造成的臨床症狀。 - (1) 80% 人是因庫欣式病(Cushing's disease,因為腦垂腺分泌過量 ACTH,導致雙 側腎上腺皮質增生,進而分泌過量皮質醇)。 - (2) 10% 人是因為非腦垂腺異位(Ectopic)分泌 ACTH。最常見是小細胞肺癌。 - (3) 5% 人是因腎上腺腺瘤(Adrenal adenoma)。 - (4) 5% 人是因腎上腺癌 (Adrenal carcinoma)。(當有腎上腺癌 (Adreno-cortical carcinoma) 最常分泌的物質也是皮質醇 (cortisol))。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - D. 肺癌 (Lung cancer) 33 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (A) 1. 一位 60 歲男性因肺癌作左側肺切除術(left pneumonectomy),那麼肺泡總順應性(total alveolar compliance),肺血管阻力(pulmonary vascular resistance),氣道傳導度(airway conductance)等生理指標與過去未做肺切除術前相比,最可能的變化為何? Source: [[sources/med5-book4-ch03|丙、肺]].
 - ### D. 肺癌 (Lung cancer) Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -111,8 +117,6 @@ tags:
 - ...----------------| | 病因 | 自體抗體破壞「肌肉」上的乙醯膽鹼 (Ach) 接受器 | 自體抗體破壞「神經末梢」的鈣離子通道 | 毒素干擾「神經末梢」的乙醯膽鹼 (Ach) 釋出 | | 合併症 | 胸腺增生 | 小細胞肺癌 | | | 症狀 | 眼瞼下垂、複視→肢體無力、呼吸衰竭 | 四肢近端、軀幹無力 | 吐、視力模糊(副交感↓)→肢體無力、呼吸衰竭 | | 愈用愈 | 症狀在下午更嚴重 | 症狀在下午改善 | 症狀在下午改善 | | 肌電圖 | 遞減反應(Decremental) | 遞增反應(Incremental) | 遞增反應(Incremental) | | 治療 | 盡早切除胸腺、口服 Mestinon | 治療癌症 | | Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (3) 合併惡性腫瘤之肌炎(20%) - a. 罹患成人型的皮肌炎者/多發性肌炎者,合併惡性腫瘤的機會較高,包括肺癌、子宮頸癌、卵巢癌、胰臟癌、胃癌與膀胱癌等,而台灣等東南亞地區尤其以合併鼻咽癌為最多。但其真正原因則有待進一步研究,病人應定期做各部位之癌症篩檢,包括:乳房、卵巢、子宮、肺、胃、大腸及鼻咽等,以便能早期發現與治療,提高治癒機會。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
 
 ## Clinical Caveats
 

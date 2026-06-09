@@ -2,9 +2,10 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Radiofrequency ablation, RFA (射頻燒灼治療)'
   - 'Radiofrequency ablation, RFA'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-以熱能局部消融肝腫瘤等病灶，常用於特定 HCC 或轉移病灶。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以熱能局部消融肝腫瘤等病灶，常用於特定 HCC 或轉移病灶。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- | 分級 | 悪性度 | 囊腫特色 | CT 顯影 | 後續影像追蹤 / 治療 | |-----|------|-----------------------------|-------|------------------| | I | 0% | 單純無間隔 | 無增強 | 不需 | | II | 0% | 少量薄 ( 3 cm | 無增強 | 每 6 個月 CT 追蹤一次 | | III | 50% | 多量間隔 | 增強 | 部分腎切除/輻頻熱融 (RFA) | | IV | 100% | 内部明顯惡性、壞死、質地不均 | 增強 | 部分腎切除 / 腎全切除 | Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (5) 射頻燒灼術 (radiofrequency ablation, RFA): Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 

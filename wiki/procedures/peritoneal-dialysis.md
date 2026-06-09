@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch11]]"
@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Peritoneal dialysis (腹膜透析)'
   - 'Peritoneal dialysis'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book3-ch16]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- (e) 免疫治療: - i. 對於不適用 cisplatin 化學治療的病人,腫瘤若表現 PD-L1 基因可第一 線考慮使用 Atezolizumab 或 Pembrolizumab 免疫治療 - ii. 在 Cisplatin-based 化學治療失敗後,第二線可考慮 Pembrolizumab - iii. 對於第一線使用 Pembrolizumab 治療,腫瘤仍無法控制的病患,後續 Carboplatin/Gemcitabine 化學治療依然可使用 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...rocedure (resection of pancreatic head) The Frey procedure (resection of pancreatic head) - c. Pancreaticoduodenectomy (PD): Whipple procedure, PPPD Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - (3) Pancreatectomy · Whipple procedure (pancreaticoduodenectomy, PD): - a. 前言: - (a) 若慢性胰臟炎主要影響於胰臟頭部,並且病灶處也無法排除癌化的可能性,可進行 pancreaticoduodenectomy。 - (b) pancreaticoduodenectomy 是針對病灶位於胰臟頭部(含鉤突)或壺腹周圍的手術方式。手術需要切除膽囊、總膽管、十二指腸、胰臟的頭部、遠端的胃、以及淋巴結擴清術。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - (3) 遠端肝外膽管癌:以胰頭十二指腸切除手術(pancreaticoduodenectomy, PD)作 為手術介入治療的方式。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
@@ -68,7 +71,6 @@ tags:
 - ## C. 腹膜透析 (Peritoneal dialysis, PD) Source: [[sources/med3-book3-ch06|己、透析治療]].
 - ## E. 腹膜透析腹膜炎 (CAPD peritonitis) Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - 2. CAPD peritonitis 以 Coagulase negative staphylococcus 最常見(30%); 若是 exit-site infection,則以 Staphylococcus aureus 最常見。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- (A) 血液透析(hemodialysis) 醫三-31 - (B) 腹膜透析 (peritoneal dialysis) - (C) 腎臟移植 (kidney transplantation) - (D) 血液過濾透析 (hemodiafiltration) Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 
 ## Clinical Caveats
 

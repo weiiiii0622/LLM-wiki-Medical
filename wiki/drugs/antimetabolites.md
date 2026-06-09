@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch13]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Antimetabolites (抗代謝藥物)'
   - 'Antimetabolites'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (e) 免疫治療: - i. 對於不適用 cisplatin 化學治療的病人,腫瘤若表現 PD-L1 基因可第一 線考慮使用 Atezolizumab 或 Pembrolizumab 免疫治療 - ii. 在 Cisplatin-based 化學治療失敗後,第二線可考慮 Pembrolizumab - iii. 對於第一線使用 Pembrolizumab 治療,腫瘤仍無法控制的病患,後續 Carboplatin/Gemcitabine 化學治療依然可使用 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- ...治療以保留陰莖功能為主,因為要顧及病人心理。 - a. 原發型病灶 (primary lesion): 先切片後決定治療方向。 - (a) 局部塗抹化療藥劑:用於 Tis,一線使用 imiquimod 或 5- fluorouracil (5-FU),毒性低,完全反應率 60%,但若失敗不可繼續。 - (b) 手術移除病灶:用於 T1a 以下,看陰莖位置決定切除部位,復發率 5%。 - i. 包皮:使用包皮環切術。 - ii. 龜頭、遠端莖幹:單純移除病灶、龜頭切除術(20%性生活滿意度受影響)、部分陰莖切除術(55%性生活滿意度受影響)。 - iii. 近端莖幹:陰莖全切除術。 - (c) 雷射燒灼:用於 T1 以下,用釹雅鉻雷射(Nd:YAG)或二氧化碳( $CO_2$ ) Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (A) 22. 陳女士 50 歲為一乳癌患者經手術行 modified radical mastectomy 後,其 staging 為 T2N1M0,術後建議給予 6 次 5-FU, Adriamycin 及 cyclophosphamide。此種化學藥物治療屬於下列那一種? Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (3) Adjuvant chemotherapy: 5-FU 和 leucovorin (Levamisole) 可增加 Dukes B 和 C 的 survival rate 及降低復發率。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 【詳解】(C) FOLFOX 分別為 FOL—Folinic acid(leucovorin)、F—Fluorouracil(5-FU)、OX—Oxaliplatin(Eloxatin),作為 adjuvant chemotherapy 可改善 Duke C(stage III)患者存活率。(D) EGFR 會促進細胞增生或轉移,當使用 anti-EGFR 時可阻斷癌細胞增生和轉移,但是 RAS mutation(KRAS mutation)可以直接促進癌細胞增生轉移,因此對於 anti-EGFR 的治療效果就比較差。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

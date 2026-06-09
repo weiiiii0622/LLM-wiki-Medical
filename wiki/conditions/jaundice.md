@@ -53,6 +53,7 @@ sources:
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Jaundice (黃疸)'
   - 'Jaundice'
@@ -67,7 +68,7 @@ tags:
 
 ## Summary
 
-黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -120,9 +121,11 @@ tags:
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 (PPT)延長,通常也伴隨發燒、疲倦、體重減輕。這些是因腫瘤分泌刺激因子(粒細胞—巨噬細胞群刺激因子 GMCSF = granulocyte-macrophage colony stimulating factor)造成,切除病灶後可回復。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - A. 新生兒黃疸(Neonatal jaundice) 174 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 常用縮寫:總膽紅素(total bilirubin, T.B.)、間接(非結合型)膽紅素(indirect/unconjugated bilirubin, I.B.)、直接(結合型)膽紅素(direct/conjugated bilirubin, D.B.) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ### A. 新生兒黃疸 (Neonatal jaundice) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
@@ -140,7 +143,6 @@ tags:
 - ...raves' disease)合併下列何種情況時,甲狀腺次全切 | 104(二)專 | | | 除術為最合理的選擇? | 醫五 -37 | | | (A) 併有嚴重凸眼症狀 | | | | (B) 併有抗甲狀腺藥物嚴重併發症,如白血球降低及黃疸等 | | | | (C) 併有中度智障 | | | | (D) 併有大於 2 公分的甲狀腺惡性結節 | | | | 【詳解】手術為後線選擇,當病人無法無用藥物或接受RAI時, | | | | 才會考慮。 | | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - d. Bilirubin (mg/dL) - (a) 1.2~1.9:1分 - (b) 2.0~5.9:2分 - (c) 6.0~11.9:3分 - (d) > 12.0:4分 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (D) 13.50 歲男性肝臟移植術後第七天,出現右上腹痛及輕微發燒, 100(二)專 g-GT、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的肝功能正常且與國 醫五-79 明有相同基因,但醫師並沒有提出要摘取大維肝臟 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

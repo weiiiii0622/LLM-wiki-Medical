@@ -2,11 +2,12 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Dopamine agonists (多巴胺致效劑)'
   - 'Dopamine agonists'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-直接刺激 dopamine receptors，用於 Parkinson disease，但可有嗜睡、幻覺、衝動控制障礙。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+直接刺激 dopamine receptors，用於 Parkinson disease，但可有嗜睡、幻覺、衝動控制障礙。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- ii. 賀爾蒙治療:使用於血清 testerone 濃度低下的 ED 病人,有注射、貼片及口服劑型。但需注意對於 hyperprolactinemia 造成的 ED 沒有療效,此時需考慮 bromocriptine 治療或者手術切除腺瘤。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (D) 口服 dopamine agonist 如 bromocriptine,可使 80% 泌乳激素瘤 (prolactinoma) 縮小 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (1) 不動(= dopamine 太少→減少抑制 GABAergic 神經元→導致 GABAergic 神經元抑制動作的效果增加→不動),如巴金森氏症的動作緩慢,要給 dopamine agonist 治療; Source: [[sources/med4-book4-ch06|己、大腦疾病]].

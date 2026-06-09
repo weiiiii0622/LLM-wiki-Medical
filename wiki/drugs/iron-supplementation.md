@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Iron supplementation (鐵劑治療)'
   - 'Iron supplementation'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-補充鐵以治療 iron deficiency，需依吸收、耐受性與病因選擇路徑。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+補充鐵以治療 iron deficiency，需依吸收、耐受性與病因選擇路徑。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (b) 實驗室檢查:除了腫瘤伴隨症狀造成異常外,尚有: - i. 紅血球沈降速率 (erythrocyte sedimentation rate): 75% 上昇。 - ii. 血尿:60%有巨觀或微觀血尿。 - iii. 貧血:30%,貧血並非因為出血造成,是血中鐵的結合能力下降,故 補充鐵劑無效。早期發現腫瘤且切除可以改善貧血。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 4. 治療:以擴張術、補充鐵劑和維他命為主。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 【詳解】(A)即使純母乳哺育,建議在6個月大時開始添加副食品。(B)母乳裡維生素 K 含量不高,故新生兒出生後會注射一劑維生素 K 補充,不會在6個月大時再補充。(C)嬰兒在6至8個月大開始長牙齒。只要開始長牙齒每半年可接受公費塗氟。(D)純母乳哺育,即使是足月兒,在6個月大也應當開始接受鐵劑補充(單純母乳哺育的嬰兒,若無添加副食品,在6個月大以後會出現缺鐵性貧血)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 衰竭或嚴重胃腸道出血,下列何者錯誤? 醫四-25 - (A) 服用鐵劑後注意腸胃及便秘情形 - (B) 網狀紅血球追蹤檢查 - (C) 在血液常規檢查正常後,一般建議繼續給與鐵劑治療 2-3 個月 - (D) 立即給與紅血球輸血 Source: [[sources/med4-book1-ch08|辛、血液學]].

@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med5-book2-ch10]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Antipsychotics (抗精神病藥物)'
   - 'Antipsychotics'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-主要用於 psychosis、mania 與部分行為激動；需監測 EPS、metabolic syndrome、QT prolongation、NMS 等。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主要用於 psychosis、mania 與部分行為激動；需監測 EPS、metabolic syndrome、QT prolongation、NMS 等。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med5-book2-ch10]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- (e) 藥物方面 (drug-induced): 抗精神病藥物 (antipsychotics)、抗憂鬱劑 (antidepressants)、降血壓劑 (β-blocker、利尿劑;α-blocker 最不易導致 ED)、抽菸、酒精 (一天酒精攝取>15 g)、胃酸抑制劑 (H2 blocker)、 女性荷爾蒙 / 抗男性賀爾蒙。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (3) 常見原因: - a. 老年人(多70~80歲之間),特別是住在安養機構的。 - b. 慢性便秘。(長期臥床) - c. 高纖維蔬菜飲食。 - d. 抗精神病藥物的使用。 Source: [[sources/med5-book2-ch10|乙、腸扭結]].
 - (2) 過動(= GABAergic 神經元抑制動作的效果減少→過動),如亨汀頓舞蹈症,要給 dopamine antagonist (Haloperidol) 治療。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...症 (chorea) | | 負性症狀 | 動作緩慢 (Bradykinesia) | | | | Dopamine agonist | Dopamine antagonist | | 付加 | Anticholinergics 等 | (Haloperidol) | Source: [[sources/med4-book4-ch06|己、大腦疾病]].

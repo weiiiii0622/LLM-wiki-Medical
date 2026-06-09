@@ -2,13 +2,14 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Plasma exchange, PLEX (血漿置換)'
   - 'Plasma exchange, PLEX'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-以血漿移除致病抗體或補充缺乏因子，可用於 TTP、GBS、NMO、MG crisis 等疾病。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以血漿移除致病抗體或補充缺乏因子，可用於 TTP、GBS、NMO、MG crisis 等疾病。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (b) 治療急性排斥反應 (treatment of rejection): 需腎臟切片。 - i. 細胞性排斥(cellular rejection):以高劑量類固醇為主。若效果不顯著,輔以抗體。 - ii. 抗體媒介排斥(antibody-mediated rejection): 以血漿置換術(用 DFPP,洗掉體內抗移植腎 HLA 的抗體)或靜脈注射免疫球蛋白 (IVIG)為主。另外也可以使用抗體。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (2) Beta 干擾素 (interferon)治療、血漿置換 (plasmapheresis),可以降低發作頻率。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 4. 治療:類固醇、血漿置換術、免疫抑制劑、Rituximab。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 6. 治療: - (1) 預防併發症以及支持療法。 - (2) 急性期可使用大量的類固醇進行脈衝治療、血漿置換或是免疫球蛋白治療。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].

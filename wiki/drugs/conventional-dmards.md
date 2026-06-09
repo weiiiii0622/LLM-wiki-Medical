@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch05]]"
@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Conventional DMARDs (傳統疾病修飾抗風濕藥)'
   - 'Conventional DMARDs'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,14 @@ RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch07]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- c. 系統性疾病:使用化療藥物。主要的化療藥物:bleomycin、methotrexate、cisplatin 或 5-fluorouracil。放射線治療效果不彰。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (4) 皮膚病變可用局部使用類固醇藥膏或使用抗瘧疾藥物(Hydroxychloroquine)治療。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (4) 奎寧(Hydroxychloroquine):對於皮膚紅疹、無法被 NSAID 控制的關節疼痛 有效。長期使用可減少 SLE 復發及對腎臟、中樞神經的侵犯。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -68,9 +75,6 @@ RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結
 - (B) 1.31 歲王小姐被診斷為全身性紅斑狼瘡併腎炎約7年,初發病時經過 prednisolone 與 mycophenolate 治療後,近5年24小時尿蛋白都小於0.5克,血中 creatinine 為0.6 mg/dL,目前用藥為 prednisolone 每日5毫克加 hydroxychloroquine 200毫克。王小姐因近日即將結婚,有懷孕的計畫,所以到門診來諮詢是否需調整藥物。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (3) Sulfasalazine:對周邊關節較有效,以周邊關節表現的患者建議先使用此藥,無效 再使用 Anti-TNF α 生物製劑。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - (2) Sulfasalazine 對於 Persistent ReA 的症狀緩解可能有幫助。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- (2) MTX、Sulfasalazine 對周邊關節炎都有臨床上的效果,其他可能也有效的包含 Leflunomide、Cyclosporin。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- RA 近年來進展不少,Anti-CCP 的意義、DMARD、生物製劑、免疫抑制劑的 角色都要有概念,將是未來考試的重點。內專愛考 criteria, 要能默背出來才能答題。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (1) 這類藥物毒性較強,所以建議於 MTX 等 DMARD、生物製劑無效者,再考慮使用; 或病患發生血管炎時,常需使用免疫抑制劑治療。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 

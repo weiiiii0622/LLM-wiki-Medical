@@ -31,6 +31,7 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'ACR/EULAR RA classification criteria (RA 分類準則)'
   - 'ACR/EULAR RA classification criteria'
@@ -45,7 +46,7 @@ tags:
 
 ## Summary
 
-RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +77,13 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- ...又稱刺激型(irritative)症狀,有頻尿、急尿、夜尿;排尿異常又稱阻塞性(obstructive)症狀,有尿無力、尿斷續、費力尿、尿不清。 - b. 國際攝護腺徵狀評分表 International Prostate Symptom Score (IPSS) - (a) 評分項目(記法:FUN-WISE,前三是儲尿不穩症狀、後四是排尿阻塞症狀) - i. Frequency (頻尿:排尿後兩個小時內又要小便)。 (註:正常人兩次解尿的間隔 2.5 小時,且一天 1-blockers:Terazosin (Hytrin®)、doxazosin (Doxaben®)。(記法:(山) 海經、豆沙餅) - iii. α1A-blockers: Tamsulosin (Harnalid Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (2) 分級及分期 (grading and staging): - a. 分級 (grading): Gleason score。 - (a) 是一種病理分級,病理科醫師會就顯微鏡下看到的細胞形態,以最大片 (寫前面)+最高分(寫後面)的分數相加,就是 Gleason score。分數從 2(1+1)到 10(5+5)分。 - (b) 2~4 分為 well-differentiated、5~7 分為 moderately-differentiated、8~10 分為 poorly differentiated。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (e) 術後預後的預測因子:看切下來的檢體與抽 PSA 判斷。 - i. 腫瘤範圍 (T): T3a 以內 10 年存活率 80%; T3b 以上 10 年存活率 40%。 - ii. 淋巴結(N):若切下來為N(+),則85%已有遠端轉移。若有淋巴轉移, 需加作輔助賀爾蒙治療 (adjuvant androgen deprivation therapy)。 - iii. Gleason score: 7: 15%。 - iv. PSA: 切除後應在 6 週內降至 0,若之後≥ 0.2 ng/ml 則懷疑復發。目前淋巴轉移與否最佳指標就是追蹤 PSA 變化,甚至比 CT 還要早發現。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...is)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但症狀通常不會隨著胸腺瘤治療成功而改善。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (4) 酸鹼值監測(pH monitoring): 此為 GERD 黃金診斷標準。利用一感測電極伸入食道監測 pH 值、逆流程度、逆流時間等各項參數。並將各參數依公式計算出 DeMeester score,如正常應小於 14.7。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 2. 組織學分類 (Histology Grade, G): - (1) 可經由組織學的分化型態與程度去預測存活率,分化程度高的存活率較高。 - (2) 採用 **Nottingham Histologic Score**,根據細胞核型態(nuclear pleomorphism)、 腺體分化程度(tubule formation)、有絲分裂數目(mitotic count),分成 grade 1 至 grade3。grade1 預後最佳,grade3 最差。 - a. Grade X: grade cannot be assessed • - b. Grade 1: low combined histologic grade (favorable) Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -94,9 +99,6 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - (D) 營養不良的病人若在營養風險篩檢時營養不良分數(nutritional risk screening maluntrition score)得到5分,在手術前不需要矯正 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 3. 外科常用來評估意識狀態的方法:Glasgow Coma Score Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (B) 8. 66 歲男性出現如圖所示病灶,最可能診斷,與最重要的臨床特徵 106(二)專 為何? 醫四-43 - (A) 紅斑性狼瘡(lupus erythematosus);狼瘡性脂肪炎(lupus panniculitis) - (B) 全身性硬皮症 (systemic sclerosis); 手 指硬化 (sclerodactyly)、手指潰瘍 (digital ulcerations) - (C) 類風濕性關節炎(rheumatoid arthritis); 類風濕性結節(rheumatoid nodules) - (D) 皮肌炎 (dermatomyositis); Gottron 氏徴 候 (Gottron sign) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (D) 32. 一個 6 歲大的男孩,雙股及兩側下肢出現紫斑及出血疹,男孩無 98( ) 專 發燒,精神良好,但右膝腫脹,全血球計量正常,最可能診斷為: 醫四 -11 (A) 原發性血小板過低紫斑症 (idiopathic thrombocytopenic - (B) 青年型類風濕性關節炎(juvenile rheumatoid arthritis) - (C) 腦膜炎雙球菌敗血症(meningococcemia) - (D) 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura 【詳解】(A) 全血球不會正常。(B) 會發燒。(C) 會發燒,且意識 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

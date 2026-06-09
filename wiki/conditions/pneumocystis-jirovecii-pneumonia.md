@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Pneumocystis jirovecii pneumonia, PJP (肺囊蟲肺炎)'
   - 'Pneumocystis jirovecii pneumonia, PJP'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...| 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) | | | (A) ①35 | (B) 1245 | | | (C) 2345 | (D) ①②③④ | | | (A) 19. 當腎臟血管肌肉脂肪瘤(期追蹤,不需手術? | angiomyolipo Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibrosis (IPF) | Postsurgical | | - Pulmonary embolism | Other | | Catamenial | Esophageal perforation | | Neonatal | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...b. 細菌(Bacteria):結核菌(tuberculosis)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - (2) 職業因素: - a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , ke Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].

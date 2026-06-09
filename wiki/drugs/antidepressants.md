@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch04]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Antidepressants (抗憂鬱藥物)'
   - 'Antidepressants'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-治療 depression、anxiety、OCD、PTSD 等；選擇需考慮副作用、交互作用、自殺風險與 bipolar screening。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療 depression、anxiety、OCD、PTSD 等；選擇需考慮副作用、交互作用、自殺風險與 bipolar screening。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book5-ch08]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- (e) 藥物方面 (drug-induced): 抗精神病藥物 (antipsychotics)、抗憂鬱劑 (antidepressants)、降血壓劑 (β-blocker、利尿劑;α-blocker 最不易導致 ED)、抽菸、酒精 (一天酒精攝取>15 g)、胃酸抑制劑 (H2 blocker)、 女性荷爾蒙 / 抗男性賀爾蒙。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
+- i. 三環抗鬱劑 (TCA): Imipramine (Tofranil®),可治療夜尿。原來的功用是治療失眠或憂鬱症。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 3. 治療: 改變生活方式; 抗憂鬱劑、β blocker、肌肉鬆弛劑、止痛藥。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - IV. 輕鬱症 (Dysthymic Disorder) 26 - A. 診 斷 26 - B. 抗憂鬱藥物 (Antidepressants) 42 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...類型 | 作用機轉 | 副作用 | |-------------------------------------|----------------------------------------|------------------| | TCA (tri-cyclic antidepressant) | (-)NE, 5-HT 回收 | 心律不整、口乾、嗜睡、 | | | | 姿態性低血壓 | | MAOI (monoamine oxidase inhibitor) | (-)NE, 5-HT, DA 代謝 | 不可吃含有 tyramine 類 | | | | 的食物如乳酪、起士, | | | | 可能會引起高血壓危機 | | RIMA (reversible inhibit Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch19]]"
@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Megaloblastic anemia (巨芽細胞性貧血)'
   - 'Megaloblastic anemia'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - 2. 營養不良 (Malnutrition): - (1) 約有30%的病患在術後會有營養不良的情況。 - (2) 會導致鐵、葉酸、Vit. B12、鈣以及 Vit. D 的吸收不良,進而導致貧血、神經病變、 失智症等症狀出現,必須要適時的補充這些營養元素。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - III. 大腦代謝疾病 141 - A. 橋腦中央脊髓去髓鞘化 (Central pontine myelinolysis) 141 - B. Vitamin B1 (Thiamine) deficiency 141 - C. Vitamin B12 (Cobalamine) deficiency 142 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -68,7 +71,6 @@ DNA 合成障礙造成大球性貧血與 hypersegmented neutrophils。 本頁已
 - 1. 巨芽細胞貧血(Megaloblastic anemia):缺 B12 或葉酸 - (1) 典型的血液學表現是 Pancytopenia,且 MCV 高達 120 fl 以上,周邊血球抹片可觀察 到高分葉核的中性球增多 (hypersegmented neutrophils)。 - (2) 整理營養素的吸收: Source: [[sources/med3-book4-ch10|甲、貧血]].
 - | | 胃 | 十二指腸 | 近端空腸 | 終端迴腸 | |-------------------------|--------------------|------|------|------| | Iron | 胃酸分解→ Vit. C 還原成二價 | 吸收 | | | | Folate | | | 吸收 | | | Vitamin B 12 | 在胃和 IF 結合 | | | 吸收 | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...Bleomycin →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Hemolytic-uremic syn. | | | | | ⊖Folate | Methotrexate (MTX) → CNS 淋巴瘤、ALL | 黏膜炎,腎毒,肝毒,間質性肺炎 | | | | | | Pemetrexed (Alimta) →肺癌 | 須併用 B 12 、葉酸 | | | | | metabolite Pyramidine | 5-Fluorouracil (5-FU)→頭頸胃腸癌 | 腹瀉、手足症候群 | | | | | | Capecitabine (Xeloda)→乳癌,大腸癌 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ...) - (a) 高劑量 MTX 會產生嚴重的骨髓抑制、黏膜破損,因此注射後 12 小時會給予 Leucovorin(Folinic acid = 擬葉酸劑)來拯救正常骨髓及黏膜細胞,減少毒性。Folinic acid 不需要 Dihydrofolate reductase,就可以一直當作 Thymidylate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受影響。另外,還 有可能造成肝毒性、間質性肺炎。 - b. Pemetrexed (Alimta®) →與 Cisplatin 併用,治療非小細胞肺癌 - (a) 新一代抑制葉酸作用的藥物,還會抑制其他製造 Pyrimidine、Purine 的上游 酵素,需事先服用 Folate、 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 
 ## Clinical Caveats
 

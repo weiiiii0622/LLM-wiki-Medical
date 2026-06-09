@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book3-ch08]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Bilirubin metabolism (膽紅素代謝)'
   - 'Bilirubin metabolism'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book3-ch08]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...or), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 (PPT)延長,通常也伴隨發燒、疲倦、體重減輕。這些是因腫瘤分泌刺激因子(粒細胞—巨噬細胞群刺激因子 GMCSF = granulocyte-macrophage colony stimulating factor)造成,切除病灶後可回復。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 常用縮寫:總膽紅素(total bilirubin, T.B.)、間接(非結合型)膽紅素(indirect/unconjugated bilirubin, I.B.)、直接(結合型)膽紅素(direct/conjugated bilirubin, D.B.) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ...約佔15%出生2週內足產兒新生兒黃疸原因。 - b. 臨床表現:出生2週內發生黃疸。 - c. 機轉 & 成因:為 I.B. 升高,因為不成熟的代謝酶影響膽汁代謝運送或排出減少,造成膽汁鬱積(cholestasis)。 - (2) 病理性高膽紅素血症(pathologic hyperbilirubinemia) - a. 臨床表現:出生2週內發生黃疸。 - b. 檢查 & 診斷: D.B. > 1 mg/dL 或 T.B. > 5 mg/dL 且 D.B. > 20%T.B. ,需進一步檢查。 - (a) 此診斷下包含了許多疾病,常見的 15 個疾病佔了 95% 病童發生的原因,而以不明原因新生兒肝炎(idiopathic neonatal hepatitis) 佔約 30~4 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (1) 衰老紅血球進入脾臟,分解後得到 bilirubin,與 albumin 結合後藉由血流會被送到肝臟,此時為非水溶性,稱為未結合型膽色素(unconjugated bilirubin)。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
@@ -86,7 +89,6 @@ tags:
 - 膽紅素沉積在新生兒皮膚表面上造成膚色外觀呈現黃色狀態。一般而言生理性黃 疸在出生後 2~3 天出現,出生後 4~5 天可以達到高峰,之後黃疸逐漸消退。但是若出 生 48 小時內出現黃疸,或是膽紅素值達到照光標準,則為病理性黃疸,必須積極處理。 若不積極處理,膽紅素經血液流至中樞神經沉積在基底核造成核黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - | 原因 | 臨床疾病 | | | |------------|-----------------------------------------------------------------|--|--| | 膽紅素製造增加 | Hemolytic anemia polycythemia bruising or internal | | | | | hemorrhage vincreased enterohepatic circulation vinfection v | | | | | short red blood cell life. | | | | 代謝酵素的破壞、缺乏 | G-6-P-D deficiency \ hypoxia \ in Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (4) 若黃疸持續兩週以上,考慮檢查直接型膽紅素以及評估是否有膽道閉鎖的可能。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...a. 因為免疫功能失常,臨床上可以見到病人有發燒、肝脾腫大現象(兩者發生機率超過90%)。 - b. 當骨髓受到侵犯或是脾臟受損損,則造成 cytopenia (特別是血小板低下與貧血)。因此病人會出現相關症狀如皮膚上出現出血點或紫斑、血液膽紅素升高以及黃疸。 - c. 倘若侵犯中樞神經侵犯,則造成癲癇發作、意識狀態改變。 - (3) 診斷準則:分兩個階段: - a. 找出可能的基因突變(如 PRF mutations、SAP mutations),因為這與 primary HLH 有關(臨床上 primary HLH 會因某些事件如感染而被引發。因此即使病人有感染而表現 HLH 也無法完全證明病人就是 secondary HLH)。 - b. 以下八項符合五項: - (a) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

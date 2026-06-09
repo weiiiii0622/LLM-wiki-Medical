@@ -80,6 +80,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Liver (肝臟)'
   - 'Liver'
@@ -94,7 +95,7 @@ tags:
 
 ## Summary
 
-肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -174,9 +175,11 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...tu) (C) 6. 肺癌病人不適合手術的情況,下列何者錯誤? 103(二)專 (A) 喉返神經麻痺 醫五-28 (B) 發生上腔靜脈症候群 (superior vena cava syndrome) (C) 肺癌局部侵犯橫隔膜 (D) 有肝臟轉移 【詳解】從分期上 T3N2 以上建議。 (A) 7. 下列何種 TNM 分期的 lung cancer 不適合以手術作為第一線治療? 102(一)專 ① T1N0M0 ② T1N1M0 ③ T1N3M0 ④ T3N1M0 醫五-31 (A) 僅③ (B) 僅③④ (C) 僅②③④ (D) 僅①② 【詳解】T1N3M0 Stage IIIB 先化療再手術。 (D) 8. 一位 58 歲男性,每日抽一包菸長達二十年,入院前兩週開始有 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...nn-Pick disease, Gaucher disease, neurofibromatosis, and tuberous fibrosis。 - (5) 代謝性或未知因素 (Metabolic and unknown): 肝病 (Liver disease)、尿毒症 (uremia)、發炎性腸疾病 (inflammatory bowel disease)。 - (6) 物理性因子 (Physical agents): 放射線 (Radiation)、氧毒性 (O2 toxicity)、燒 燙傷 (thermal injury)、爆炸傷 (blast injury)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
@@ -194,7 +197,6 @@ tags:
 - (1) 衰老紅血球進入脾臟,分解後得到 bilirubin,與 albumin 結合後藉由血流會被送到肝臟,此時為非水溶性,稱為未結合型膽色素(unconjugated bilirubin)。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - (2) 進入肝臟的膽色素經由肝細胞的作用後,與 Glucuronic acid 結合,轉變結合型 膽色素(conjugated bilirubin),為水溶性,接著被排入膽管進入膽囊,再經由 總膽管流入十二指腸中。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - ...) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭轉移,其餘為肺部、淋巴結、 | | | | 腦部與肝臟。 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- (B) 3. 一個 4 個月大的女嬰,母親是高齡產婦,女嬰出生時並無發紺現象,出生體重 2,500 gm,一個月後嬰兒呈現呼吸急促,食慾不佳,有盜汗現象,經醫師檢查,呼吸及心跳速率皆增加,胸骨左側可聽到心縮期雜音,肝臟也有腫大現象。心臟超音波檢查發現有左至右的分流,肺動脈壓增高,經投予藥物治療數星期之後,臨床症狀改善有限,且體重只有 3,500 gm,醫師建議手術治療。請依此回答下列 3 題:下列那些手術方式對此病患有幫助?① Blalock-Taussig 分流手術 ②完全矯正 (total correction) ③肺動脈環縮術 (PA banding) ④肺動脈瓣切開術 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 
 ## Clinical Caveats
 

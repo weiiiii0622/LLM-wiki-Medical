@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch07]]"
   - "[[sources/med3-book3-ch04]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Kidney transplantation (腎臟移植)'
   - 'Kidney transplantation'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (C) 4. 下列何者是腎臟移植受腎者的絕對禁忌症?①完全治癒之子宮頸 癌病人 ②慢性藥物成癮、習慣性藥物濫用的患者 ③無法遵守藥 囑(noncompliance)④活動性或是尚未治癒之慢性感染,如慢 性活動性肝炎(chronic active hepatitis)或肝衰竭病人 - (A) (1)(2)(3) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (B) 6. 有關腎臟移植後發生急性排斥的機轉,下列敘述何者錯誤? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...詳解】GFRs 低於 30 n | nL/min 的患者,钆(gadolinium)施用 | | | | 纖維化 (nephrogenic systemic fibrosis) | | | 的風險增加。 | | | | (D) 18. 對於腎臟移植後的處置, | | 103(二)專 | | ① 通常會使用 β-blockers來控制高血壓 | ,hydralazine 和 calcium channel blockers | 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | P Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 3. 再次發性 (Tertiary HPT): PTH ↑=> Ca ↑ - (1) 長期慢性腎衰竭造成的次發性副甲狀腺亢進症一段時間後,會導致副甲狀腺發生自主性變化,使得副甲狀腺細胞組織增生,導致 PTH 升高,引發高血鈣。長期腎衰竭的病人在腎臟移植一段時間後,其次發性副甲狀腺亢進卻沒改善,血鈣和 PTH 偏高,則可診斷為再次發性副甲狀腺亢進。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維他命 D (C) 抑鈣激素 (D) 雌性激素 (C) 13. 一位 57 歲的尿毒症病患,5 年來持續接受血液透析治療,直到 99(二)專 2個月前接受了腎臟移植手術。最近他開始出現皮膚搔癢、腹痛、 醫五-58 骨頭酸痛等現象,抽血檢查鈣值為 12 mg/dL。下列何者是此患 者最可能的診斷? (A) Primary hyperparathyroidism (B) Secondary hyperparathyroidism (C) Tertiary hyperparathyroidism (D) Parathyroid carcinoma (D) 14. 承上題,患者接受副甲狀腺切除手術。下列術 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (2)除非原本的腎臟產生病變、難以控制之高血壓或嚴重感染,否則通常不會把原來腎臟切除,而是將新的腎臟移植到左下腹或右下腹的髂窩(iliac fossa)處。 Source: [[sources/med5-book1-ch06|己、移植外科]].

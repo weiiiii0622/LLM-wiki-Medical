@@ -29,6 +29,10 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch06]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Non-small-cell lung cancer (非小細胞肺癌)'
   - 'Non-small-cell lung cancer'
@@ -43,7 +47,7 @@ tags:
 
 ## Summary
 
-肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +76,17 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch06]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- (2) 腎盂/輸尿管癌 (renal pelvic/ureteral tumor): - a. 泌尿細胞癌(UCC):90%。 - b. 鱗狀細胞癌 (squamous cell carcinoma): 8%。 - c. 腺癌 (adenocarcinoma):1%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...正確? 約占 90% | 醫五-66 | | | (A) p21 (C) p16 【詳解】膀胱癌惡性程度與基FGFR-3、HRAS、PI3K、9 號/侵犯性相關者:TP53、RE色體丟失。 . 下列有關泌尿上皮癌(uroth (A) 腺癌(adenocarcinoma) | (B) p53 (D) p26 基因關係:低分化相關者(low-grade): 克染色體缺失。高分化(high-grade) B(retinoblastoma)、PTEN、17 號染\nelial cancer)的敘述,何者正確? 約占 90% 是主要成因 | 醫五-66 | Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- ...$ -105(一)專 fetoprotein)升高時,此腫瘤可能含有那種惡性成分? 醫五-49 (A) 卵黃囊瘤 (yolk sac tumor) (B) 肝細胞癌 (hepatocellular carcinoma) (C) 消化道腺癌(adenocarcinoma) (D) 神經母細胞瘤 (neuroblastoma) 【詳解】最常見的兒童睾丸腫瘤是畸胎瘤和卵黃囊腫瘤 (Teratoma and yolk sac tumors), 其中卵黃囊腫瘤(yolk sac tumors) 會分泌 α- 胎蛋白 (α-Fetoprotein, AFP)。 (B) 10. 有關急性細菌性副睪丸炎之敘述,下列何者錯誤? 105(一)專 (A) 如果細菌培養結果顯示與性傳染病有關,最好其性伴侶也要 醫五-69 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (1) 95% 是腺癌(adenocarcinomas),其他 5% 包含許多不同癌症種類。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (2) 腺癌 (adenocarcinoma, ACA): - a. 佔 45% 肺腫瘤,約 75% 在周邊發生,由支氣管上皮的 mucus-producing cell 分化而來,而且較 SqCC 易轉移,且最常轉移到中樞神經系統,而原發性腺癌,如果無肺外轉移,則建議手術切除合併縱隔腔淋巴結摘除。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 鱗狀細胞癌 (squamous cell carcinoma, SqCC): - a. 佔 30% 肺腫瘤,約 2/3 在中央發生,且易從外壓迫氣管,SqCC 易產生腫瘤中央壞死(central necrosis)和開洞(cavitation),組織學上呈現角質化(keratinization)、複層化(stratification)、細胞間橋(intercellular bridge Source: [[sources/med5-book4-ch03|丙、肺]].
 - (A) 肺鱗狀細胞癌 (squamous cell carcinoma) 在臺灣最常見 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -89,10 +101,6 @@ tags:
 - 【詳解】WHO 對胃腺癌依排列型態分成四個種類:管狀型(Tubular adenocarcinoma)、乳突形、(papillary adenocarcinoma)、黏液型(Mucinous adenocarcinoma)與指環細胞型(Signet-ring cell carcinoma)。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 1. 腺癌 (Adenocarcinoma): - (1) 前言:**腺癌(Adenocarcinoma)**是最常見的小腸惡性腫瘤,較常出現在年紀大的患者。 - a. 腺癌 (Adenocarcinoma): 40% - b. 類癌 (Carcinoid): 25% - c. 淋巴癌 (Lymphoma): 10%~20% - d. 平滑肌肉瘤 (Leiomyosarcoma): 20% Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (A) Adenocarcinoma Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 【詳解】腺癌(adenocarcinoma)是最常見的小腸惡性腫瘤。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- 1. 細針抽吸 (fine needle aspiration cytology, FNAC): - (1) 最常用以鑑別水囊狀腫塊與實質腫塊。 - (2) 為細胞學檢查(cytology),不可作為病理診斷。但 cytology的結果若為 adenocarcinoma,有大於 90%的機會最後可確診為惡性腫瘤。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- (1) 肛門位處於內外胚層的交界之處,所以腫瘤種類複雜,最多的是鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma),其它的還有腺癌(adenocarcinoma)、泄殖腔細胞癌(cloacogenic cell carcinoma)、黑色素細胞癌(melanoma)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 
 ## Clinical Caveats
 

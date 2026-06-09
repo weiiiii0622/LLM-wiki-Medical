@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch01]]"
@@ -40,6 +40,10 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Loop diuretics (亨利氏環利尿劑)'
   - 'Loop diuretics'
@@ -54,7 +58,7 @@ tags:
 
 ## Summary
 
-改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +98,17 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch08]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- ...al disturbance 等症狀 | | | | (B) 主要是因手術時間太久,病人吸收太多之 hypotonic irrigation | | | | solution 所致 | | | | (C) 治療方法是應立即停止手術,給予病人利尿劑、normal saline | | | | 或 hypertonic saline | | | | (D) TUR syndrome 發生時,病人正處於 hypervolemic 及 hypernatremic | | | | 狀態 | | | | | | Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...(a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占鈣結石成因 15%。較常見的 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (e) 藥物方面 (drug-induced): 抗精神病藥物 (antipsychotics)、抗憂鬱劑 (antidepressants)、降血壓劑 (β-blocker、利尿劑;α-blocker 最不易導致 ED)、抽菸、酒精 (一天酒精攝取>15 g)、胃酸抑制劑 (H2 blocker)、 女性荷爾蒙 / 抗男性賀爾蒙。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (2) 腎上腺皮質的球狀帶過度增生: - a. 單側增生:可手術切除。 - b. 雙側增生(比較常見):不手術,以保鉀利尿劑(spironolactone)+ Amiloride 治療。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - a. 可用 Digoxin、利尿劑、血管擴張劑等來控制心衰竭,一般追蹤到一至兩歲 左右假使 VSD 自然閉合的機率不大則來決定是否開刀。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - a. 內科:新生兒時期若有立即性症狀,給予 PGE1 維持動脈導管開放,若同時合併有心臟衰竭則給予強心劑、利尿劑、氧氣等。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - b. 如果有症狀可給予利尿劑降低左心房壓,β-blocker 或 CCB 維持 sinus rhythm。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -111,10 +123,6 @@ tags:
 - (1) 禁食型(restricting type):厭食症發作期間,病人不曾規律地從事暴食或清除 行為(如自我誘導的催吐或不當的使用瀉劑、利尿劑或灌腸)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (2) 暴食 / 清除型 (binge-eating / purging type ) : 發作期間, 病人規律地從事暴食或清除行為(如自我催吐或使用瀉劑、利尿劑或灌腸)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - 4. 註明類型: - (1) 禁食型(restricting type):最近三個月內,病人不曾規律地從事暴食或清除行 為(如自我誘導的催吐或不當地使用瀉劑、利尿劑或灌腸)。 - (2) 暴食/清除型(binge-eating / purging type): 最近三個月內, 病人規律地從事暴食或清除行為(如自我催吐或使用瀉劑、利尿劑或灌腸)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- ...高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dyes, benzoates, salicylates)、核桃、巧克力、菇、筍。 - (b) 藥物: 抗生素(Penicillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (B) 8. 關於兒童急性鏈球菌感染後腎臟發炎(acute poststreptococcal 107(-)專 glomerulonephritis)的治療,下列敘述何者正確? 醫四-22 - (A) 由於為鏈球菌感染所引起的,因此給與適當的抗生素治療可以縮短病程 - (B) 高血壓的治療包括給與鈣離子抑制劑(calcium channel antagonists)或利尿劑(diuretics) - (C) 限制鈉離子的攝取,主要是針對慢性腎臟病的預防 - (D) 類固醇為首選的治療藥物 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (B) 利尿劑有可能會增加血栓併發症(thromboembolic complication)的可能性 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【詳解】除未作答者不給分外,其餘均給分。依題目敘述,病人沒有血尿但出現嚴重的蛋白尿,同時白蛋白過低,故懷疑nephrotic syndrome。利尿劑使用時機為嚴重水腫病人,因為使用利尿劑會使血管內容積減少進而增加血栓風險。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
@@ -17,6 +17,8 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Adrenal insufficiency (腎上腺功能不全)'
   - 'Adrenal insufficiency'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇不足可造成疲倦、低血壓、低鈉與危急 adrenal crisis。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,13 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- ...oid PrecursorsThrough Inhibition ofCytochrome P450 Enzymes | Administration Requires Steroid Supplementation to Prevent Adrenal Insufficiency | Precursors Oytochrome P450 Andro | | Androgen ReceptorAntagonists | FlutamideBicalutamideNilutamide | Prostate Gland | Inhibits Androgen ReceptorLigand-Binding DomainThrough Competitive Binding | Gynecomastia,Increase Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ©Addison Wesley Longman, Inc. Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...(C) 血中 TSH (D) 血中可體松 (cortisol) 及 ACTH 【詳解】病人長期服用類固醇長達半年,甲狀腺手術後停止服 用類固醇,產生發燒、全身無力及血壓低的情形,比較像是長 期服用 steroid 造成 secondary adrenal insufficiency,而在停用 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - steroid 後產生 Addison crisis 的情況。如果是術後甲狀腺風暴, Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (B) Addison disease Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -67,8 +73,6 @@ tags:
 - (2) 典型 aldosterone 缺乏疾病有 Addison disease 及 congenital adrenal hyperplasia (CAH)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...s (D) Antiphospholipid syndrome 【詳解】(Harrison 1959 Table 299-5) Organ specific: Graves' disease、Hashimoto's thyroiditis、Addison's disease 等。 Organ nonspecific: SLE、RA、APS、Sjögren's syn.、Wegner's granulomatosis。 | 93(二)檢內-64 | | (A) | 4. 器官移植後受贈者(recipient)之 T 淋巴球會被活化:一種是接受到捐贈者之組織抗原(Donor Major Histocompatability Antigen, Donor MHC)及捐贈者之抗原多胜腱 (Do Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...one 正常或給予 Fludrocortisone 後 TTKG 10 | ECF 不足(心脈 | 藏衰竭、肝硬 | 化) | | TTKG NSAID、β blockers;cyclosporine | | | | Renin 偏高 | Addison's disease ACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistant to aldosterone) | | 服用利尿劑 Spironolactone服用抗生素 Trimethoprim | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (5) 腎上腺功能不全 (adrenal insufficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...calcium | Milk-alkali syndrome | | | | intake | Total parenteral nutrition | | | | Other causes | Endocrine disorders (adrenal insufficiency, pheochromocytoma, VIPoma) | | | | | Medications (thiazides, vitamin A, antiestrogens) | | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

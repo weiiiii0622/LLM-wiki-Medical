@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch03]]"
   - "[[sources/med3-book1-ch09]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Atherosclerosis (動脈粥狀硬化)'
   - 'Atherosclerosis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-斑塊形成、破裂與血栓連結穩定型心絞痛和急性冠心症。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+斑塊形成、破裂與血栓連結穩定型心絞痛和急性冠心症。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch04]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- 2. 受腎者 (recepient) 的術前評估: - (1) 受腎者腎移植禁忌症: - a. 絕對禁忌症: - (a) 仍有活動性感染或腫瘤:例如尿路感染(UTI)、惡性腫瘤。 - (b) 嚴重血管硬化:例如動脈粥狀硬化 (atherosclerosis)。 - (c) 可回復的腎功能:例如胱胺酸血症(cystinosis)。 - b. 其他考量:若預期生命少於5年,則不建議換腎。 - (2) 原先泌尿系統評估:為了確認泌尿系統在移植後能正常運作。 - a. 上泌尿道:需考量原先自體腎臟情況。 - (a) 保留腎:占 90% 受腎者,因為仍可以製造紅血球生成素及維生素D。 - (b) 需移除腎:占 10% 受腎者,適應症包括: - i. 嚴重蛋白尿: Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (1) Degenerative aneurysm:由於粥狀動脈硬化(atherosclerosis),造成血管壁脆弱而引起,為最常見的原因。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (B) 4.68 歲男性,送來急診時主訴腹部劇痛直達後背,病人身高 170 公 100(二)專分,體重 90 公斤,理學檢查血壓 86/48 mmHg,腹部有一搏動性 醫五-14 腫塊,請問此病形成原因最可能為何? - (A)糖尿病(DM) - (B) 動脈粥狀硬化 (atherosclerosis) - (C) 血管彈性組織退化 (elastic tissue degeneration) - (D) 血管炎 (vasculitis) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 【詳解】腹部摸到 pulsative mass 以及腹部劇痛直達後背,懷疑為腹主動脈瘤,最常見的原因為粥狀動脈硬化 (atherosclerosis)。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].

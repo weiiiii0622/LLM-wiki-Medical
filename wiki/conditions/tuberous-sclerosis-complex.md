@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Tuberous sclerosis complex, TSC (結節性硬化症)'
   - 'Tuberous sclerosis complex, TSC'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 �
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...歲女性被診斷出腎 | 腎臟有 angiomyolipoma(AML),下列 | 103(一)專 | | 敘述何者錯誤? | | 醫五-66 | | (A)使用超音波或電腦斷層 | 層診斷此症比用血管攝影方法準確 | | | (B) 若為 tuberous sclerosis多發性 | s 患者罹患 AML,則 AML 常為雙側且 | | | | 自發性破裂引發後腹腔出血 | | | • • • • • • • • • • • • • • • • • • • • | 若罹患 AML,其 AML 病理組織形態, | | | | 患者所罹患的 AML 病理組織形態不同 | | | | | | Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 2. 淋巴血管平滑肌肉增生症(Lymphangioleiomyomatosis, LAM): - (1) 罕見多系統疾患,發生於女性為主,已侵犯肺部為主要影響,一般來說 LAM 指無合併結節性硬化症 tuberous sclerosis complex (TSC),如合併 TSC,則以 TSC-LAM 表示。 - (2) 機轉&成因:非典型類平滑肌細胞 (proliferation of atypical smooth muscle-like cells, "LAM cells") 增生所致。和 TSC 基因突變有關,尤其是 TSC2。 - (3) 臨床症狀: - a. 肺部症狀:大多數患者有肺部症狀,如:疲勞 70%、漸進性呼 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (A) 影像表現與 tuberous sclerosis 在肺部的病灶相似度高 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D)除了肺部之外,也可能會在腎臟、神經系統等部位出現異常 【詳解】(A) tuberous sclerosis 又稱為 tuberous sclerosis complex (TSC),亦為肺部侵犯所致之病灶。(C) LAM 好發於女性,故 選項描述為錯誤。(疾病特色:雙側肺侵犯、年輕女性、長期呼 吸困難、突發性胸痛。) Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -67,7 +70,7 @@ mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 �
 
 ## Related Pages
 
-- 待補。
+- [[conditions/renal-angiomyolipoma|Renal angiomyolipoma, AML (腎血管肌肉脂肪瘤)]]
 
 ## Follow-up
 

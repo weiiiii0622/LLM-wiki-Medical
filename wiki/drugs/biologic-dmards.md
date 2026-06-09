@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch15]]"
@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Biologic DMARDs (生物製劑抗風濕藥)'
   - 'Biologic DMARDs'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-針對 TNF、B cell、T cell costimulation、IL-6 等的免疫標靶治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+針對 TNF、B cell、T cell costimulation、IL-6 等的免疫標靶治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...cells、NK cells、platelets 都有影響。副作用有發燒,發冷、關節痛。 - ii. 單株抗體 (monoclonal antibodies): - (i) 將淋巴細胞消耗掉 (deplete lymphocytes): Rituximab (作用在B-cell的 CD-20 受體上),主要用於術前引導 (induction)時 ABO 血型不合之病人,與術後產生排斥 (rejection)的病人。 - (ii) 不會消耗掉淋巴細胞 (nondepleting): 有 basiliximab (simulect® 20 mg,作用在 T-cell 的 CD-25 (IL-2) 受體上)及 Belatacept (台灣無),僅用於術前引導 (induction),但無法用於 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 7. 單 株 抗 體 (Monoclonal antibodies): OKT3 針 對 T 細 胞 的 CD3; Daclizumab 和 Basiliximab 針對 IL-2 的 CD25; Rituximab 針對 CD20, 皆進而阻斷後續免疫反應。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 4. 治療:類固醇、血漿置換術、免疫抑制劑、Rituximab。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (4) 生物製劑:生物製劑主要是指由生物體製造,具有藥理作用的蛋白質製劑。 目前國際上普遍使用的共有五種,包括針對 TNF 的單株抗體 Infliximab 及 Adalimumab、TNF 受體融合蛋白 Etanercept、針對 IL-12 和 IL-23 的單株抗體 Ustekinumab、作用於 CD2 的 Alefacep。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].

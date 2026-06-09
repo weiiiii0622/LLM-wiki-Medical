@@ -2,13 +2,15 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Tricyclic antidepressants, TCAs (三環抗憂鬱劑)'
   - 'Tricyclic antidepressants, TCAs'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-傳統抗憂鬱藥，具 anticholinergic、cardiotoxicity 與 overdose 風險。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳統抗憂鬱藥，具 anticholinergic、cardiotoxicity 與 overdose 風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- i. 三環抗鬱劑 (TCA): Imipramine (Tofranil®),可治療夜尿。原來的功用是治療失眠或憂鬱症。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 5. 慢性預防:(A、B、C) - (1) Antidepressant (如 amitriptyline); Anticonvulsant。 - (2) β blocker: 如 Propranolol。 - (3) CCB:如 Flunarizine。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...的病人,偏頭痛變得 105(一)專 越來越頻繁,目前一週會有兩三天的偏頭痛發作。醫師打算使用 醫四-49 預防性藥物治療來減少她的偏頭痛,下列何種藥物是最合適的 治療? (A) propranolol (B) divalproex (C) amitriptyline (D) lithium 【詳解】預防用藥的選擇:amitriptyline、propgranolol、flunarizine、 valproic acid、topiramate,本題個案患有 bipolar disoder 和氣喘,應 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...| 醫四 -57 | | (B) metoclopramide | | | (C) sumatriptan (D) ergotamine | | | 【詳解】本題答A或D或AD者均給分。一般常用藥物:pro- | | | pranolol、amitriptyline、flunarizine、valproic acid或topiramate等。 | | Source: [[sources/med4-book4-ch03|丙、頭 痛]].

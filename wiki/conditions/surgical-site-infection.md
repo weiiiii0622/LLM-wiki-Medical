@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch09]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Surgical site infection, SSI (手術部位感染)'
   - 'Surgical site infection, SSI'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- ...傷後,1% 之病患日後可能產生高血壓 | | | (C) 32. 關於腎臟移植後之感染,下列敘述何者正確? | 99(一)專 | | (A) 是最常見造成移植病患死亡之原因 | 醫五-61 | | (B)預防性抗生素不可使用,因為即使用了,傷口感染率也不會減少(約5%) | | | (C) 移植後半年左右較常見之感染,其致病原多為濾過性病毒或細胞內微生物 | | | (D) 因常發生慢性感染,因此長期刺激會造成各器官之癌症發生率增加 | | | 【詳解】(A) 排斥;(D) 因使用免疫抑制劑。 | | | (A) 33. 腎臟腫瘤,在電腦斷層檢查中發現其中有 Hounsfield unit 負 20 至 | 99(一)專 | | 負 80 (-20 to -80) 密度的成分,其 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ii. 手術後數天:深部靜脈栓塞、肺栓塞、淋巴囊腫、傷口感染,這些是屬於任何手術都可能發生的問題。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (D) 傷口感染 (wound infection) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...) 18 | . Whipple 手術後,最嚴重的併 | :發症是: | 99(二)專 | | | (A) 延遲性胃排空 | | 醫五 -34 | | | (B) 膽汁滲漏 | | | | | (C) 胰液滲漏 | | | | | (D) 傷口感染 | | | | | 【詳解】Whipple procedure 名 | 後的 complication rate 約為 25%,最 | | | | 常見併發症是吻合端的胰液液 | 寥液(anastomotic leak)以及胰臟膽 | | | | 道管 (pancreatic-biliary fistula | a) ° | | | (C) 19 | . 依據 The American Joint Com | mittee on Ca Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...接受手術治療 (C) 切口疝氣(incisional hernia)都可以直接縫合(primary closure),即使疝氣洞口大於 5 公分也不需要使用人工網膜(prosthetic material)來縫合 (D) 肥胖及腹部手術術後傷口感染都能造成切口疝氣(incisional hernia)的發生率增加 【詳解】Incisional hernia 的病患,切口若大於 5 公分須考慮人 | 106 (一) 專醫五-34 | Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].

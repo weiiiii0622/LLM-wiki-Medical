@@ -31,6 +31,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Hemolytic anemia (溶血性貧血)'
   - 'Hemolytic anemia'
@@ -45,7 +46,7 @@ tags:
 
 ## Summary
 
-紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +77,12 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- (d) S = serum tumor markers (血清腫瘤標記): - i. S0:標記都在正常範圍內。 - ii. S1:LDH 10 倍正常值;或 hCG > 50,000 mIU/mL;或 AFP > 10,000 ng/mL。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (C) 7. 關於高期別之非精細胞胚胎細胞癌 (nonseminoma germ cell 105( 二 )專 carcinoma),下列何者不是預測其化學治療之反應指標? 醫五-66 (A) 血清 LDH (B) 血清 β-hCG (C) 血清 CEA (D) 轉移部位總數 (A) 8. 下列敘述那些正確?①陰莖骨折(penile fracture)多發生在陰莖 105(二)專 懸韌帶(suspensory ligament)遠側 ②陰莖骨折如果採取保守治 醫五-71 療會有 10% 以上發生勃起時陰莖彎曲 (penile curvature) ③陰 莖穿透傷 (penetrating injury) 要考慮做逆行性尿道攝影 (retr Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...準(Light's criteria),符合其中以一項即可: - a. Pleural fluid protein/serum protein greater than $0.5\,$ $\circ$ - b. Pleural fluid LDH/serum LDH greater than 0.6 • - c. Pleural fluid LDH 1.67 times normal serum - (a) 現在修正為:LDH > 2/3 upper limits of serum normal。 - d. 正常參考值:因各實驗室不同而有差異,以下僅供參考。 - (a) serum LDH: 105~350 U/L - i. ULN (upper limit of normal Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (C) 滲出液(exudate)是肋膜液的 LDH 比上血清的 LDH 比值小 於 0.6 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 4. 檢查 & 診斷: 將抽取胸腔內液檢查, 盡量在使用抗生素之前抽取胸水, 並送驗檢查。 檢查項目有 Gram stain、cell count、 protein、LDH、 amylase、 glucose 和 pH。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -95,8 +99,6 @@ tags:
 - e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - ...,俗稱蠶豆症) | 此種疾病乃人類最常見的一種遺傳性疾病(性聯遺傳),即紅血球內葡萄糖新陳代謝異常的疾病,每百人中約二~三人帶有此病。在特殊環境下,「如吃蠶豆、接觸萘丸(臭丸)、擦紫藥水、服用磺胺劑及解熱鎮痛劑等」,會造成紅血球破裂產生急性溶血性貧血。 | | | Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 【詳解】病人血氨上升代表病人肝臟 urea cycle 代謝出問題,(B)(C) 接有可能。但是 (C) 為性聯遺傳疾病,只有男性才會得到,因此 (C) 最不可能。Aspirin 在兒童常見的併發症為 Reye syndrome,此疾病的特點為 rapid and progressive encephalopathy 以及肝功能異常。Aspirin 其他副作用包括 metabolic acidosis、hyperglycemia、hyperkalemia、hypernatremia、hypoglycemia、edema、hypotension、arrhythmia、coma、confusion、dizziness、rhabdomyolysis、hemolytic anemia、thrombocytopenia。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (1) 肝臟:臨床上 Wilson disease 表現在肝臟的疾病很多元:無症狀的肝臟腫大(有時會合併脾腫大)、亞急性或慢性肝炎、肝臟衰竭(有時合併溶血性貧血)、門脈高壓、腹水、全身性水腫、肝硬化、食道靜脈瘤破裂等。有時因肝功能問題造成其他問題如青春期延遲或無月經(amenorrhea)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- e. Blood 血液學異常: - (a) 溶血性貧血或 - (b) 白血球減少( 3+,或尿中有細胞團塊 (Cellular Cast)。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Small-cell lung cancer (小細胞肺癌)'
   - 'Small-cell lung cancer'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-侵襲性高、常早期轉移的肺癌類型。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+侵襲性高、常早期轉移的肺癌類型。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book4-ch21]]
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- 1. 病理:庫欣式症是因為皮質醇(cortisol)過量造成的臨床症狀。 - (1) 80% 人是因庫欣式病(Cushing's disease,因為腦垂腺分泌過量 ACTH,導致雙 側腎上腺皮質增生,進而分泌過量皮質醇)。 - (2) 10% 人是因為非腦垂腺異位(Ectopic)分泌 ACTH。最常見是小細胞肺癌。 - (3) 5% 人是因腎上腺腺瘤(Adrenal adenoma)。 - (4) 5% 人是因腎上腺癌 (Adrenal carcinoma)。(當有腎上腺癌 (Adreno-cortical carcinoma) 最常分泌的物質也是皮質醇 (cortisol))。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - (5) 小細胞肺癌 (small cell lung cancer, SCLC): - a. 佔 20% 肺腫瘤,約 80% 在中央發生,有高度轉移特性,早期轉移到縱隔腔淋巴和遠處(尤其骨髓和腦),由外胚層的神經嵴分化而來,細胞學上片狀或叢狀有深染核和少細胞質,狀似燕麥,故又稱 oat cell carcinoma,具有神經分泌小泡。通常分為限制期(restirctive)或廣布期(extensive)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D) 小細胞肺癌 (small cell carcinoma) 治療以手術為主 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 列何者錯誤? 醫五-2 - (A) 肝癌 (hepatocellular carcinoma) —胎兒蛋白 (alpha-fetoprotein, AFP) - (B) 大腸癌— CEA (carcinoembryonic antigen) - (C) 小細胞肺癌— CA19-9 - (D) 前列腺癌— PSA (prostate specific antigen) Source: [[sources/med5-book4-ch03|丙、肺]].

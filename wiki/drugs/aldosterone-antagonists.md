@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book2-ch10]]"
@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Aldosterone antagonists (醛固酮拮抗劑)'
   - 'Aldosterone antagonists'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,15 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book5-ch09]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- ...內第一個字母「GFR」。這原本是指 Glomerular filtration rate 腎絲球過濾率) - (1) 絲狀帶 (zona Glomerulosa): 分泌礦物性皮質素 (mineralocorticoid), 其中主要成分是醛固酮 (aldosteronoma)。(記法: 施壓。絲(施) 狀帶分泌太多會造成高血壓) - (2) 東狀帶 (zona Fasciculata): 分泌葡萄糖皮質素 (Glucocorticoid), 其中主要成分是皮質醇 (cortisol, 一種類固醇)。(記法: 束褲帶。東狀帶分泌太多會造成庫欣氏症) - (3) 網狀帶(zona Reticularis)分泌雄性素(Androgen)。主要有睪固酮(testosterone)、 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- #### A. 原發性高醛固酮症 (Primary aldosteronism), 又稱高血壓低血鉀症 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - C. Hyperaldosteronism (醛固酮亢進) 236 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - #### C. Hyperaldosteronism (醛固酮亢進) Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -57,10 +65,6 @@ tags:
 - (D) 3. 一位 52 歲男性因反覆發生下肢癱瘓入院,血壓 168/98 mmHg,血液 檢查發現:鈉 146 mmol/L,鉀 2.0 mmol/L,氯 100 mmol/L,酸鹼值 7.56,重碳酸根 38 mmol/L,腎素(renin)0.1 ng/mL/hr(正常值 0.3~3 ng/mL/hr),血清醛固酮(aldosterone)8 ng/dL(正常值 2~9 ng/dL);則下列敘述何者錯誤? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (C) 因血清腎素偏低,可以排除腎素分泌腫瘤 (renin-secreting tumor) 及續發性高醛固酮症 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - D. 皮質醛固酮症(Hyperaldosteronism) 216 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- #### D. 皮質醛固酮症 (Hyperaldosteronism) Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...Hg 的情況,下列何種內分泌疾病最需要列入診斷考量? (A) 嗜鉻細胞瘤(pheochromocytoma) (B) 甲狀腺功能亢進(hyperthyroidism) (C) 庫欣氏症(Cushing's syndrome) (D) 原發性醛固酮過高症(primary aldosteronism) | 108(一)專醫三-55 | |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- (A) spironolactone Source: [[sources/med3-book2-ch23|戊、肝硬化]].
-- 【 詳解】Spironolactone 為 Aldosterone 的 拮 抗 劑 , 適 合 用 在 hyperaldosteronism 病人。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 
 ## Clinical Caveats
 

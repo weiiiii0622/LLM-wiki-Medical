@@ -63,6 +63,9 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch13]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Skin (皮膚)'
   - 'Skin'
@@ -77,7 +80,7 @@ tags:
 
 ## Summary
 
-身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -140,9 +143,15 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch13]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- ...dias): - i. 成因:有家族遺傳的傾向,胚胎發育時母體暴露於過量荷爾蒙(包括 estrogen 及 progestin)會增加發生的機率。 - ii. 症狀:臨床表徵常有無法控制排尿方向及漏尿,在較嚴重的尿道下裂患者也可見陰莖腹側的皮膚包覆消失。在 penoscrotal 和 perineal 的幼童需做尿道鏡和膀胱鏡確定其雄性生殖器官是否發育正常。 - iii. 分類:依照尿道開口位置分為五處: - (i) 開口位在龜頭近端(glandular)或冠狀溝(coronal): 佔大多數約70%。 - (ii) 開口位在陰莖體 (penile shaft)。 - (iii)開口位在陰莖基部與陰囊交界處(penoscrotal)或會陰部 (perineal):需要考慮是否 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (6) 天氣熱陽光大:溫度高身體易缺水就易結石;陽光照射會讓 Vit D 增加也增加 鈣的產生(故白皮膚人比黑皮膚人更易結石)。 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- ...inhibitors 才能對付 UTI, 這讓價格不再便宜。另外 penicillin 第一代對多數 UTI 無效。 - c. 機轉:抑制細菌細胞壁合成。 - d. 禁忌:過敏史(孕婦可用)。 - e. 特殊副作用:特別注意過敏反應(要做 skin test);肝腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - 6. 臨床表現: - (1) 病灶一般以草莓樣或海綿樣皮膚紅色腫塊為表現,可以單顆或多發性病灶為 表現。 - a. 在會陰部 (perineum) 或嘴唇的病灶有時會成潰瘍狀。 - b. 在下巴成山羊鬍狀(beard)分佈,可能合併上呼吸道及舌下病灶。 - c. 在氣管支氣管病灶會伴隨有喘鳴(stridor)。 - (2) 進展:快速增生期(rapis expansion phase)、穩定期(stationary phase)、自發性 退化期(involution phase)。 Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - 7. 分類:表淺型(superfical)、深層型(deep)和混合型(mixed)。 - (1) 表淺型:呈現亮紅色突起可壓縮邊界清楚的腫瘤,大部分在出生後兩個月內發生,初期以蒼白色皮膚上呈現紅或藍色瘀斑,之後會變成為毛細血管擴張樣接著進入生長期。 - (2) 深層型:病灶呈現囊狀可擠壓的硬塊,並呈現正常膚色或是藍色條狀(bluish hue),且範圍更加擴散而邊界難以界定。 Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - 9. 併發症: - (1) 重要功能受損:眼皮病灶影響視力,尿道病灶影響排尿,呼吸道干擾呼吸。 - (2) 皮膚潰瘍,續發性感染,永久性毀容。 Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
@@ -158,9 +167,6 @@ tags:
 - (D) 皮膚凹陷 (skin dimpling) 的發生與 Cooper's ligament 有關 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 1. 乳房: - (1) 出現硬塊。 - (2) 形狀、大小等外觀上的改變。 - (3) 皮膚凹陷、變厚、濕疹、潰爛或橘皮樣的變化。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - (3) 其結果報告可分成以下七大類: - a. BI-RADS 0:表示評估並不完整,需安排進一步的影像檢查,同時也需要跟 之前的影像做比較。 - b. BI-RADS 1:正常, negative finding。無腫瘤,結構變化,皮膚增厚及微小鈣化等證據,定期追蹤即可。 - c. BI-RADS 2: 良性發現, typically benign findings。在乳房中發現單純性水囊 (simple cyst)、纖維腺瘤 (calcified fibroadenoma)、脂肪瘤 (lipoma) 或乳房內淋巴結 (intra-mammary lymph node)、乳房填充物 (breast implant) 等等,只需每年定期檢查及追蹤。 - d. BI-RA Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- 4. 手術切片檢查 (surgical biopsy): - (1) 可採用切開性切片檢查 (incisional biopsy),即取一小片組織,或切除性切片檢查 (excisional biopsy),將整個腫塊切除後進行切片檢查。 - (2) 適應症: - a. 當 FNAC 或 CNB 沒有明確的結論,但臨床醫師仍懷疑腫塊為惡性時,則可利用 surgical biopsy 來排除惡性腫瘤。 - b. 實心的腫塊、囊腫抽吸出來有血。 - c. 乳房攝影中可疑的病灶。 - d. 乳頭分泌物有血、乳頭潰瘍或皮膚炎。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- 2. 發生於胰頭的腫瘤,可能會侵犯壓迫至膽管導致膽汁無法暢流到十二指腸,病患會有皮膚發黃、鞏膜泛黃、深茶色尿液或是皮膚發癢等 obstructive jaundice 的情形,甚至導致發燒或畏寒等症狀。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (C) 8. 一位 63 歲男性到門診主訴發現皮膚泛黃已三週,尿液呈深褐色, 106 (二) 專 最近有灰白色大便,無腹部疼痛及不適,食慾稍差。下列何種 醫五-22 檢查能快速做鑑別診斷? - (A) 抽血驗 B 型、C 型肝炎 - (B) 測血中總膽紅素 / 直接型膽紅素指數 - (C) 腹部超音波檢查 - (D) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 
 ## Clinical Caveats
 

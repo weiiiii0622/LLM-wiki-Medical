@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch01]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Peripheral nerves (周邊神經)'
   - 'Peripheral nerves'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- iii. 周邊神經。 - (i) 外傷或手術造成神經傳導功能失常: cavernous nerve 和 pudendal nerve 為兩條與勃起相關神經。 - (ii) 慢性疾病造成周邊神經病變或神經傳導物質不足: NO 為與勃起 最有相關的神經傳導物質。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (C) 可修補周圍神經(peripheral nerves) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (D) 26. 人體組織對缺氧的耐受性不同,下列何者耐受性最差? - (A) 皮膚 - (B) 皮下組織 - (C) 肌肉 - (D) 周邊神經 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (D) 14. 周邊神經(peripheral nerve)完全切斷是屬於 Sunderland 分類的那一類損傷? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
@@ -76,6 +79,7 @@ tags:
 - [[conditions/guillain-barre-syndrome|Guillain-Barre syndrome, GBS (格林-巴利症候群)]]
 - [[concepts/lower-motor-neuron-lesion|Lower motor neuron lesion, LMN lesion (下運動神經元病灶)]]
 - [[conditions/polyneuropathy|Polyneuropathy (多發性神經病變)]]
+- [[conditions/thoracic-outlet-syndrome|Thoracic outlet syndrome (胸廓出口症候群)]]
 
 ## Follow-up
 

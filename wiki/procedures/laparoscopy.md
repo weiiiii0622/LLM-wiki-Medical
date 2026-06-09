@@ -21,6 +21,8 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Laparoscopy (腹腔鏡)'
   - 'Laparoscopy'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,13 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- i. 切除攝護腺可選擇傳統開腹或腹腔鏡。腹腔鏡失血較少、回復較快、 住院天數減少。若使用達文西機器人進行手術,可減少併發症,尿失 禁較快回復、勃起功能的保留較好。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - h. 微創手術 (minimally invasive surgical modalities): 支氣管鏡 (bronchoscopy)、 縱隔腔鏡 (mediastinoscopy)、胸腔鏡 (thoracoscopy) 和腹腔鏡 (laparoscopy) 等,可用來排除氣管食道瘻管、評估淋巴結和氣管及縱隔腔等癌症轉移。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (2) 如觸診無法觸摸到睪丸,可使用腹部超音波或 MRI 先定位,再以腹腔鏡檢查並 手術。 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
 - ...列有關隱睪症(cryptorchidism)的敘述,何者錯誤? 99(一)專 (A) 罹患隱睪症小孩,日後產生睪丸癌的機率較正常人高 醫五-59 (B) 常伴隨有腹股溝疝氣 (C) 睪丸固定術最好在五歲前執行 (D) 身體檢查摸不到睪丸時,腹腔鏡是一個很準確的診斷工具 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
@@ -75,8 +81,6 @@ tags:
 - ...----------------------|---------| | 一 4 cm 之腫瘤,你會採取何種處置? | 醫五 -29 | | ①給予抗血壓藥物 ②給予 phenoxybenzamine 10 mg/12hr | | | ③建議腹腔鏡手術切除右側腎上腺 ④ percutaneous needle biopsy | | | (A) ①②③ | | | (B) ①③④ | | | (C) ①②④ | | | (D) ②③④ | | | (AB) 7. 性激素(sex hormone)在腎上腺組織的那一層合成? | 99(二)專 | | (A) Zona fasciculata | 醫五 -41 | | (B) Zona reticularis | | | (C) Zon Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...---------------------------------------|---------| | (A) 血管攝影 (angiography) | 醫五 -55 | | (B) 大腸鏡(colonoscopy) | | | (C) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 【詳解】乳房皮瓣重建的方式包括 TRAM(transverse rectus abdominis myocutaneous flap)、Latissimus dorsi musculocutaneous flap、Gluteal flap(有 Superiorly based 和 Inferiorly based)、Rubens flap、Thoracoepigastric flap、Lateral thigh flap,前三者為目前主流。腹網膜瓣因需進入腹內採取,併發症較高所以較少被使用,不過現今腹腔鏡手術的進步,也有醫師將其用來作 partial breast reconstruction。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- (A) 腹腔鏡輔助大腸切除手術相較於開腹手術,能減少術後疼痛 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- (B) 腹腔鏡輔助大腸切除手術產生腸繫膜內疝氣 (mesenteric internal hernia) 的比率約只有 1% Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 
 ## Clinical Caveats
 

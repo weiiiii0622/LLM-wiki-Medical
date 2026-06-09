@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch11]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Guillain-Barre syndrome, GBS (格林-巴利症候群)'
   - 'Guillain-Barre syndrome, GBS'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-急性免疫性多發神經根神經病變，常有上升性無力與反射下降。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性免疫性多發神經根神經病變，常有上升性無力與反射下降。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- ...cord injury)常發生的尿動力檢查異常是: | 106 (二) 專 | | (") | (A) 逼尿肌過度反射(detrusor hyperreflexia) | 醫五 -68 | | | (B) 逼尿肌無反射(detrusor areflexia) | Eq. 22 00 | | | (C) 逼尿肌尿道外括約肌共濟失調(detrusor- external sphincter | | | | dyssynergia) | | | | (D) 低順應性(low compliance) | | | | 【詳解】一律給分。 | | | | | | | (D) | 8. 下列何者不是造成老年人夜尿症(nocturia)的原因? | 105(二)專 | | | (A) 睡眠呼吸中止症候群 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - (B) Guillain-Barré 症候群 (Guillain-Barré syndrome) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (D) 6.18 歲男學生,因為上課時發生頭痛、意識混亂、雙腿無力及尿失 107(-)專禁被送到急診。在兩星期前,他曾有幾天的上呼吸道感染、發燒, 醫四-59 經過治療後,當時症狀已完全緩解。根據病史,最可能的診斷是: - (A) 多發性硬化症 (multiple sclerosis) - (B) 急性發炎性脫髓鞘多發性神經病變症候群(Guillain-Barré syndrome) - (C) 病毒性腦膜腦炎 (viral meningoencephalitis) - (D) 急性瀰散型腦脊髓炎 (acute disseminated encephalomyelitis) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...| | | (B) 急性散播性腦脊髓炎(acute disseminated encephalomyelitis) | | | | (C) 腎上腺腦白質病(adrenoleukodystrophy) | | | | (D) 急性神經根炎(Guillain-Barré syndrome) | | | (D) 13. | 下列有關急性散漫性腦脊髓炎(acute disseminated encephalomyelitis, | 101(二)專 | | | ADEM) 之敘述,何者錯誤? | 醫四 -52 | | | (A) 是一種去髓脫病變(demyelinating illness) | | | | (B) 是一種急性發炎反應(acute inflammatory illness) | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
@@ -58,6 +61,7 @@ tags:
 
 - [[conditions/campylobacter-infection|Campylobacter infection (空腸彎曲桿菌感染)]]
 - [[conditions/chronic-inflammatory-demyelinating-polyneuropathy|Chronic inflammatory demyelinating polyneuropathy, CIDP (慢性發炎性脫髓鞘型多發神經病變)]]
+- [[procedures/intravenous-immunoglobulin|Intravenous immunoglobulin, IVIG (靜脈免疫球蛋白)]]
 - [[diagnostics/nerve-conduction-study|Nerve conduction study, NCS/NCV (神經傳導檢查)]]
 - [[anatomy/peripheral-nerves|Peripheral nerves (周邊神經)]]
 - [[procedures/plasma-exchange|Plasma exchange, PLEX (血漿置換)]]

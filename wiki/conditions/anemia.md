@@ -49,6 +49,9 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -63,7 +66,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +115,17 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- i. 熱潮紅(hot flashess, 佔 60% 人)、性欲及性功能缺失、骨密度下降 (loss of bone mineral density)、貧血、體重及體脂肪增加、認知改變 (cognitive decline)。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ii. 使用賀爾蒙治療需要定期監測這些副作用,處理的方式如下: - (i) 骨密度下降:以 FRAX 評估。使用鈣、維他命 D 補充劑、或是雙磷酸鹽。 - (ii) 貧血:通常很輕微,若嚴重可以補充紅血球生成素。 - (iii) 熱潮紅(hot flashes),可補充醋酸甲羥孕酮(medroxyprogesterone acetate 300~400 mg IM monthly)治療之。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (D) 長期荷爾蒙治療可能有骨質疏鬆、貧血、疲倦等副作用 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (b) 實驗室檢查:除了腫瘤伴隨症狀造成異常外,尚有: - i. 紅血球沈降速率 (erythrocyte sedimentation rate): 75% 上昇。 - ii. 血尿:60%有巨觀或微觀血尿。 - iii. 貧血:30%,貧血並非因為出血造成,是血中鐵的結合能力下降,故 補充鐵劑無效。早期發現腫瘤且切除可以改善貧血。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...勃起異常持久 (priapism): - (a) 定義:持續勃起超過 4~6 小時。 - (b) 成因: 60% 原因不明, 僅 40% 找得到原因。 - i. 低血流量(ischemic type。陰莖硬,但龜頭軟):95%。鐮刀細胞性貧血(最常見占3成,小朋友6成)、白血病、藥物(如 prazosin)、陽痿治療失當。 - ii. 高血流量 (non-ischemic type。陰莖偏軟,無痛無症狀): 陰部動脈瘻管 (pudendal artery fistula,常因外傷所致)。 - (c) 診斷:理學檢查即可診斷,另可搭配彩色都卜勒超音波確認。不用實驗 室檢查。 - (d) 治療: - i. 初步保守治療:冷水澡、射精、運動,但這些尚無研究依據。 - ii. 一線 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...無力患者沒有胸腺瘤,但合併胸腺瘤患者仍佔約 10~42%。 - (2) 其他常見合併症:紅血球再生不良(red blood cell aplasia)、白血球再生不良(pure white blood cell aplasia)、再生不良性貧血(aplastic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopat Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...族性瘜肉綜合症(familial polyposis syndrome)有關,主要由胚胎性的肝母細胞和間葉組織構成。 - (3) 流行病學:大多發生於3歲以前,中位數年紀約18個月大。 - (4) 臨床表現:通常沒有症狀的腫塊來表現,或伴隨貧血表現。 - (5) 檢查 & 診斷: - a. 血液檢查 hemogram: (i) 血紅素 (Hgb):下降, (ii) 血小板 (PLT):增多。 - b. 腫瘤指標(tumor marker): 85~90% 可發現胎兒蛋白(AFP)升高。 - (6) 治療:以手術切除合併化療為主要治療,化療可使腫瘤分期降級有助於手術清除,而手術切除乾淨與否決定存活率。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (3) 藥物: - a. 當病史和檢查高度懷疑GERD,即可開始治療,不必等待完整的檢查診斷結果。 - b. 使用六週以上的制酸治療應追蹤評估是否有慢性貧血。 - c. 以雙倍劑量質子幫浦抑制劑(proton pump inhibitor, PPI)當作初始治療,如症狀改善,同時可以此為診斷。如症狀持續,則須安排前述檢查進一步評估。 - d. 常用藥物:制酸劑 (antacids)、促蠕動劑 (motility agents)、乙型抗組織胺 Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -128,11 +139,6 @@ tags:
 - ...) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的術前放射線治療之敘述,何者錯誤? | 100(二)專 | | (A) 可以增加 Resectability rate | 醫五-16 | | (B) 可以減少術中之 Tumor seeding | | | (C) 可增加保留肛門的機會 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 【詳解】(C)從圖可懷疑是右結腸癌,常見症狀為貧血(頭暈)疲勞,右腹部不適。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (B) 1. 下列何者為結腸憩室炎(diverticulitis)必須手術的適應症?①破 製造成腹膜炎(free perforation with peritonitis) ②形成局部 2 公 分膿瘍(localized abscess)無腹膜炎 ③形成結腸膀胱瘻管 (colovesical fistula) ④造成貧血、血紅素 9.9 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- 【詳解】憩室炎的基本治療以內科(抗生素)為主,除非反覆性憩室炎、腸穿孔引起腹膜炎、形成瘻管、急性大量出血才需要手術介入。貧血/出血方面先藉由輸液/輸血穩定hemodynamic status,做大腸鏡鏡檢(順便可進行止血),大腸鏡檢沒辦法找到出血點,可用血管攝影(順便做血管栓塞治療),最後出血都還沒法停止,才考慮手術。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- ...LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimoto thyroiditis亞急性甲狀腺炎 (de Quervain)Iodine deficiency | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- (3) 約有 25% 的機會出現其他的自體免疫疾病,如:惡性貧血、紅斑性狼瘡、類風 濕性關節炎、糖尿病等。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 3. 症狀:Type II DM、低胺基酸血症、貧血、體重減輕、壞死性移走紅斑(necrolytic migratory erythema)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 5. 脂肪代謝:一克脂肪產生九大卡。 - (1) 交感神經的興奮和壓力荷爾蒙的分泌刺激 lipolysis,另外敗血症越嚴重,能量來源從脂肪氧化而得的比例會增高,相對地葡萄糖氧化的比例會降低。 - (2) 人體的必需脂肪酸為亞麻油酸(Linoleic acid)和次亞麻油酸( $\alpha$ -Linolenic acid),缺乏會有掉髮、皮膚炎、貧血等情形。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 
 ## Clinical Caveats
 

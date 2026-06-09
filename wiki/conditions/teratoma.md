@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Teratoma (畸胎瘤)'
   - 'Teratoma'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-含多胚層組織的 germ cell tumor，新生兒常見部位包含 sacrococcygeal region。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+含多胚層組織的 germ cell tumor，新生兒常見部位包含 sacrococcygeal region。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ...道攝影 (retrograde urethrography) ④急診發現車禍受傷男性的尿道口有出 血時,必須馬上放置導尿管治療 (A) 123(B) (1)(2)(4) (C) (1)(3)(4)(D) (2)(3)(4)(A) 9. 睪丸畸胎瘤(teratoma)病童,如果血中腫瘤標誌胎兒蛋白( $\alpha$ -105(一)專 fetoprotein)升高時,此腫瘤可能含有那種惡性成分? 醫五-49 (A) 卵黃囊瘤 (yolk sac tumor) (B) 肝細胞癌 (hepatocellular carcinoma) (C) 消化道腺癌(adenocarcinoma) (D) 神經母細胞瘤 (neuroblastoma) 【詳解】最常見的兒童睾丸腫瘤是畸胎瘤和卵黃囊腫 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (C) 於電腦斷層攝影 (CT scan) 發現前縱隔腔腫瘤為 cystic and fatty density,有鈣化,則最可能是畸胎瘤 (teratoma) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 1. 畸胎瘤 (Teratoma): - (1) 最常見的縱隔腔生殖細胞瘤,會由三個胚層的組織組成。 - (2) 好發於 20~30 歲,和前上縱隔腔,少數在後縱隔腔。 - (3) 臨床症狀:胸痛、咳嗽、呼吸困難或反覆性肺發炎。 - (4) 檢查 & 診斷:以胸部 X 光看到完整的牙齒。以電腦斷層看到以高密度脂肪組織合併多處鈣化、骨頭、牙齒和囊狀結構。 - (5) 治療:以手術切除為主,如為惡性合併化放療治療,但預後通常較一般惡性腫瘤差。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].

@@ -28,6 +28,7 @@ sources:
   - "[[sources/med5-book4-ch09]]"
   - "[[sources/med5-book4-ch10]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Sarcoma (肉瘤)'
   - 'Sarcoma'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,12 @@ tags:
 - [[sources/med5-book4-ch09]]
 - [[sources/med5-book4-ch10]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...) 偶發性:危險因子包括抽菸(2倍風險);暴露於石綿、有機溶劑、鎘; 洗腎;腎囊性病變。 - c. 病理學: - (a) 微觀:大多是混合型癌(mixed carcinoma,包含 clear cells、granular cell 或像 sarcomatoid 的細胞),源自近端腎小管的上皮細胞。細胞形態分類 如圖。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...80 (-20 to -80) 密度的成分,其最可能的診斷為: | 醫五-64 | | (A) angiomyolipoma (B) oncocytoma | | | (C) renal cell carcinoma (D) leiomyosarcoma | | | (C) 34. 一位 55 歲女性兩天前開始左側腰痛,今天全身寒戰(chills)並 | 99(一)專 | | 發燒到 39℃來急診就診,左側腰部有明顯敲擊痛。醫生為其安 | 醫五-65 | | 排靜脈尿路造影(intravenous pyelography, IVP),結果發現在其 | | | 左側腎盂有積水,顯影劑的排泄時間慢於對側腎臟。其血液白 | | | 血球為 $21,500/\text{mm}^3$ , $N/ Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 4. 惡性胸壁腫瘤: - (1) 漿細胞瘤 (plasmacytoma):蛋白質電泳會出現單一株峰值為惡性漿細胞製造之 免疫球蛋白。 - (2) 骨肉瘤(osteosarcoma):鹼性磷酯酶(Alkaline phosphatase)可能會上升。 - (3) Ewing 氏肉瘤 (Ewing's sarcoma): 紅血球沉降率 (Erythrocyte sedimentation rate)可能會上升。通常會有全身倦怠或發燒症狀。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
 - (C) 骨肉瘤 (osteosarcoma) Source: [[sources/med5-book4-ch01|甲、胸壁]].
 - (D) Ewing 氏肉瘤(Ewing's sarcoma) Source: [[sources/med5-book4-ch01|甲、胸壁]].
@@ -89,8 +93,6 @@ tags:
 - (D) 1. 胃淋巴肉瘤 (Gastric lymphoma) 最常見的症狀是: Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (A) 2. 成人原發性胃腸淋巴肉瘤 (Primary gastrointestinal lymphoma) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (1) CD117 免疫染色: 85% 的 GIST 在 CD117 的染色為陽性。Leiomyosarcoma 與 GIST 的病理特徵相近,但是 CD117 染色呈現陰性。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 2. 最常見的肝臟原發癌 (primary cancer) 為肝細胞癌 (hepatocellular carcinoma, HCC), 占了90%以上,其次較為少見的 primary cancer 包括膽管癌 (cholangio-carcinoma),惡性血管瘤 (angiosarcoma)等。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 【詳解】(A) 原發性心臟內腫瘤約 25% 為惡性,其中 75% 為 sarcoma,另外別處轉移過來的轉移癌發生機率比原發性心臟內 Source: [[sources/med5-book2-ch08|辛、其 他]].
 
 ## Clinical Caveats
 

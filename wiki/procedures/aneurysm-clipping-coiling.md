@@ -37,6 +37,9 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)'
   - 'Aneurysm clipping/coiling'
@@ -51,7 +54,7 @@ tags:
 
 ## Summary
 
-ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +91,19 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- (2) 第三、四、五級:佔15%,可能引起腎臟碎裂、血管栓塞、血管斷裂,腎動脈或靜脈也可能因此有外傷產生,發生率低於1%,若造成生命徵象不穩時需要手術治療。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...RBC,血中 WBC 與 CRP 升高。 - (c) 影像:超音波可用來探查是否併發腎水腫。若症狀不明顯或治療無效,可排顯影劑 CT 檢查,可準確看到發炎處灌流缺損(perfusion defects)。這是因為細菌感染引起周圍小動脈收縮或栓塞,降低腎臟受影響部分的血液灌流。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ii. 中重度疼痛/出血:局部腎臟切除或動脈栓塞。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...不用實驗 室檢查。 - (d) 治療: - i. 初步保守治療:冷水澡、射精、運動,但這些尚無研究依據。 - ii. 一線 ( 1hr 無效、或> 72hr): 依其成因可做動靜脈瘻管(shunt,可成功緩解,但之後無法勃起),或動靜脈瘻管栓塞(transarterial embolization)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- ii. 靜脈攝影(venography)雖是診斷準則,但一般只用於考慮栓塞治療的病人。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (b) 非手術:靜脈栓塞。經 femoval vein 或 subclavical vein 將 spermatic veins 血流塞住。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- ii. 手術後數天:深部靜脈栓塞、肺栓塞、淋巴囊腫、傷口感染,這些是屬於任何手術都可能發生的問題。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - P. 脂肪栓塞症 (Fat emboli syndrome, FES) 59 Source: [[sources/med5-book4-ch03|丙、肺]].
 - Q. 肺動脈栓塞 (Pulmonary embolism) 60 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (c) 針對咳血:支氣管動脈栓塞,肺切除。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -102,13 +115,6 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - 7. 脾靜脈栓塞 (Splenic vein thrombosis)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 3. 腹部電腦斷層:良好的診斷工具。對於胰臟的萎縮、腺體的壞死,胰管擴張及胰鈣化,都能提供準確的診斷,除此之外電腦斷層檢查也可提供其他合併症的出現與否如pseudocyst、脾靜脈栓塞,與癌化的可能性。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...oxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以低血鈣來做表現。 | | | (D) | 2. 急性胰臟炎局部合併症中,下列何者最不常見? | 105(二)專 | | | (A) pancreatic phlegmon | 醫五 -34 | | | (B) pancreatic abscess | | | | (C) Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- ...變深、灰白便、身體發癢、皮 107(一)專 膚逐漸變黃,因此到院檢查。身體診察發現鞏膜變黃,下肢無水 醫五-32 腫,其CT影像上可見胰臟頭部有4公分左右腫瘤合併總膽管及 胰管擴大,針對此病患安排下列處置何者最不適當? (A) 安排血管攝影栓塞 (B) 測定 CEA, CA19-9 (C) 進行 ERCP (endoscopic retrograde cholangiopancreatography) 或 EUS (endoscopic ultrasonography) 合併切片 (D) 進行核磁共振膽胰攝影 (MRCP) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (C) 儘可能以手術切除 metastatic islet cell carcinoma (cytoreduction surgery)後,肝臟轉移的部分可以肝動脈栓塞來治療 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- ...moxifen 無效,可改用芳香 環酶抑制劑 (Aromatase Inhibitor)。 - (b) 副作用: - i. 熱潮紅。 - ii. 噁心、嘔吐。 - iii. 陰道出血。 - iv. 增加子宮內膜癌的機率。 - v. 增加靜脈栓塞的機率。 - b. 芳香環酶抑制劑(Aromatase Inhibitor): - (a) 簡介: - i. 新一代的荷爾蒙治療藥物。停經後婦女若使用 Tamoxifen 無效,則考慮使用芳香環酶抑制劑。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- iii. 不會增加子宮內膜癌及靜脈栓塞的機率。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- ...病變緩慢,風溼熱痊癒初期也都不太有症狀,通常至少十年過後才開始有症狀出現,會有疲倦、運動後呼吸困難、胸痛、心律不整,而後加重出現肺水腫及右心衰竭的症狀,如全身性靜脈鬱血、水腫、肝硬化、端坐呼吸、咳血等。另外血液滯留於心房形成血塊向外打出造成栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- (d) 瓣膜置換手術 (mitral valve replacement): 若患者瓣膜嚴重狹窄、閉鎖,瓣膜和周圍組織嚴重鈣化,以及同時伴有嚴重 MR,則採用瓣膜置換手術,可選用機械性或生物性瓣膜。 - i. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎,且難以控制。 - ii. 生物性瓣膜: 血栓栓塞機率較低,抗凝血劑只需短期服用約3~6個月,但較無耐抗力,大約能使用10~20年,適用年紀較長者,因瓣膜失效時大約也已不久於世。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch11]]"
@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Hypocalcemia (低血鈣)'
   - 'Hypocalcemia'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (B) 低血鈣症 (hypocalcemia) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...emia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以低血鈣來做表現。 | | | (D) | 2. 急性胰臟炎局部合併症中,下列何者最不常見? | 105(二)專 | | | (A) pancreatic phlegmon | 醫五 -34 | | | (B) pancreatic abscess | | | | (C) pancreatic pseudocyst | | | | (D) renal artery thrombosis | | | (C) | 3. 王先生因為急性胰臟炎入院,下 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - #### 2. Transient hypocalcemia: Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (1) 術中傷及副甲狀腺而引起暫時性低血鈣,通常發生在術後 24~48 小時。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -78,7 +81,6 @@ tags:
 - (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (1) 檢驗 Ca、P、Mg、腎功能(要排除腎功能低下造成低血鈣)、Albumin(白蛋白 過低會造成假性低血鈣,故判斷鈣離子是否正常須同時檢驗白蛋白做矯正)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

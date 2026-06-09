@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
@@ -19,6 +19,8 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Renal tubule (腎小管)'
   - 'Renal tubule'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,17 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- ...暴露於石綿、有機溶劑、鎘; 洗腎;腎囊性病變。 - c. 病理學: - (a) 微觀:大多是混合型癌(mixed carcinoma,包含 clear cells、granular cell 或像 sarcomatoid 的細胞),源自近端腎小管的上皮細胞。細胞形態分類 如圖。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...流不足。 - b. 移植腎功能延遲回復(delayed recovery of graft function, DGF): - (a) 定義:在移植後第一週肌酸酐(creatinine)不降反升,需要洗腎。 - (b) 成因:最常見的是急性腎小管壞死(acute tubular necrosis, ATN),大多經數週的治療可回復,但有2%腎永久無功能。若是合併寡尿(尿 1 cc/kg/hr,但在移植後幾天中,突然間少尿。 - (b) 考量:阻塞問題(尿管是否通暢+掃超音波看有無水腎);腎血流灌流不足(掃都卜勒超音波,若懷疑需馬上開刀探察,因數小時內移植腎會壞死);瘻管產生(抽出引流液 creatinine 超過血中 creatinine 5 倍);若排除上述問題,要考慮腎臟切 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 【詳解】多囊性腎病是一種遺傳性疾病,其中腎小管結構異常, 導致腎內多發性囊腫的發展和生長。這些囊腫可能在子宮內, 嬰兒期,兒童期或成年期開始發展。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...yperuricosuric calcium) 結石等。(沒有碳酸鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (A) 11. 下列何者腎小管酸中毒症(renal tubular acidosis)會併發腎結石? 105(-)專 (A) Type I (B) Type II (C) Type III (D) Type IV Source: [[sources/med5-book5-ch05|戊、結 石]].
+- 【詳解】腎小管酸中毒(Renal tubular acidosis)1型(Type1, 遠端小管 RTA)的特徵有 4 個:磷酸鈣結石(calcium phosphate stone)形成,高鈣尿症,低檸檬酸尿症和尿 pH 值升高。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...ropylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...mg/dL, 血清內尿毒素氮為 54 mg/dL, 主治 醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決 然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 cc。以下什麼情況最可能解釋移植腎沒有發揮功能? (A) 移植腎腎小管壞死 (B) 移植腎腎動脈栓塞 (C) 移植腎腎靜脈栓塞 (D) 移植腎輸尿管壞死 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -67,12 +77,6 @@ tags:
 - 1. 針對病因做治療,並非只有單純給予生長激素治療。如矯正腎小管酸中毒、甲狀腺機能低落等。另外,對透納氏症病人,不能只單純給與生長激素,必須加上女性荷爾蒙配合治療才有顯著效果。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (A) 腎小管性酸中毒 (renal tubular acidosis) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Extranodal, low grade, marginal zone B cell lymphoma),特別是唾液腺持續腫大、Low C4、合併冷凝蛋白血症等病患;有時會在腫大唾液腺意外發現。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- 4. 治療: (Ref. Harrison p2109 fig 317-1) - (1) 眼乾、口乾給予症狀治療,或服用 Pilocarpine (Salagen)、Cevimeline (Evoxac)。 - (2) 腎小管酸中毒 (RTA) 需給予 Bicarbonate 補充。 - (3) 關節炎給予低劑量類固醇加上 Hydroxychloroquine 或 MTX 治療。 - (4) 血管炎則需給予類固醇加上免疫抑制劑 Cyclophosphamide 治療。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...化破骨細胞(Osteoclast)等, 導致骨頭遭到破壞、溶出,並造成高血鈣。 - (2) 腎病變 (25%): 有多個因素造成: - a. 濾出的 light chain 傷害腎臟導致腎衰竭(cast nephropathy),或導致近端腎小管功能受損,即所謂的 Adult Fanconi syndrome(包含 Type 2 RTA),使得無法吸收Glucose 及 Amino acid 等。 - b. Amyloid 或 light chain 沉積造成 nephrotic syndrome。 - (3) 貧血(80%):除了骨髓被侵犯,腫瘤也會分泌造血的抑制因子。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
-- (A) 腎衰竭的原因包括高鈣血症、高尿酸血症、輕鏈(lightchain) 對 腎小管的傷害及脫水等 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
-- (A) 急性腎小管壞死 (acute tubular necrosis) Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...後 | 尿液渗透壓在兩小時內增加 50% 以上 | 尿液渗透壓在兩小時內增加小於 10% | | 治療 | 給予 DDAVP | 給予 Thiazide,造成 mild volume depletion,導致濾出去的尿液較不易分布到異常的腎小管內,而減少尿液在集尿管無法被回收;治療引起腎性尿崩症的原因,如高血鈣、鋰鹽中毒 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ps. TTKG 使用前需注意是否符合以下兩個前提,如不符合,則不可使用 TTKG 來做鑑別診斷。 - i. urine Na > 25 mEq/L(代表有足夠的 distal tubule Na delivery)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

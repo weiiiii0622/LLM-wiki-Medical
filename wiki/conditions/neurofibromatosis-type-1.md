@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch09]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Neurofibromatosis type 1, NF1 (第一型神經纖維瘤症)'
   - 'Neurofibromatosis type 1, NF1'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibroma、視神經膠質瘤與學習問題。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibroma、視神經膠質瘤與學習問題。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibro
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch09]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- ...| 【詳解】新生兒陰蒂肥大 (Clitoral hypertrophy in the newborn), | | | 暗示先天性腎上腺增生(congenital adrenal hyperplasia);其他病 | | | 因包括母親中的神經纖維瘤(neurofibromatosis)和產生雄激素 | | | 的腫瘤(androgen-producing tumor)。 | | | (D) 11. 有關勃起功能障礙的敘述,下列何者正確? | 106 (一) 專 | | (A) 每位病人應接受夜間陰莖勃起試驗(nocturnal penile | 醫五 -70 | | tumescence test) | | | (B) 要補充男性荷爾蒙 | | | (C) 第一線檢查應使用彩色都 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 3. 成人:以神經鞘瘤 (neurilemomas)、和神經纖維瘤 (neurofibromas) 為主。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...26% | 成人 | 神經性腫瘤神經鞘瘤(最常見)神經母細胞瘤 | @佔成人腫瘤 16%神經性腫瘤神經性腫瘤神經性腫瘤神經母細胞瘤 | 神經母 細胞瘤 (最常見) | 神經性腫瘤神經母細胞瘤 | 神經鞘瘤 (最常見) | 神經性腫瘤神經鞘瘤神經纖維瘤 | Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...巴癌(lymphoma)、支氣管肺泡肺腺癌(bronchiolo-alveolar cell cancer)。 - (4) 家族遺傳 (Congenital): Niemann-Pick disease, Gaucher disease, neurofibromatosis, and tuberous fibrosis。 - (5) 代謝性或未知因素 (Metabolic and unknown): 肝病 (Liver disease)、尿毒症 (uremia)、發炎性腸疾病 (inflammatory bowel disease)。 - (6) 物理性因子 (Physical agents): 放射線 (Radiation)、氧毒性 (O2 toxicity)、燒 燙傷 (thermal injury) Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -64,7 +67,6 @@ RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibro
 - # B. 神經纖維瘤 (Neurofibromatosis) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - 1. 第一型神經纖維瘤: - (1) 又稱周邊神經纖維瘤或是 von Recklinghausen's disease,為自體顯性遺傳,第十七對染色體長臂基因突變造成,50%病患是遺傳自父母,50%是自發性基因突變造成。預後佳。滿足以下七點中任兩點即可符合診斷: - a. 咖啡牛奶斑 (café-au-lait macules): ≥ 6 個橢 圓形、界線清楚的淡棕色斑塊,青春期前大於 5 mm,青春期後需大於 15 mm,大多在十歲 前即出現,常是最先出現的表徵。(如右圖) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 - L. 神經皮膚症候群 218 - A. 神經纖維瘤 (Neurofibromatosis, NF) 218 - B. 結節性硬化症 (Tuberous sclerosis, TS) 220 - C. 史德格-韋伯症候群 (Sturge-Weber disease) 223 - D. 逢希伯一林道症候群 (von Hippel-Lindau disease) 224 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- # A. 神經纖維瘤 (Neurofibromatosis, NF) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats
 

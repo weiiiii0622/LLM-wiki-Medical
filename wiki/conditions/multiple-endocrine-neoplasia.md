@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Multiple endocrine neoplasia, MEN (多發性內分泌腫瘤症候群)'
   - 'Multiple endocrine neoplasia, MEN'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-遺傳性內分泌腫瘤症候群，MEN1 與 MEN2 影響的腺體、基因與篩檢不同。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遺傳性內分泌腫瘤症候群，MEN1 與 MEN2 影響的腺體、基因與篩檢不同。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- (B) 10% 發生於 multiple endocrine neoplasia (MEN) type II 之病人 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - #### 戊、多發性內分泌腫瘤症候群 (Multiple endocrine neoplasm, MEN, syndrome) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - B. MEN I (染色體 11q13 上的 MENIN 基因異常) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - C. MEN II (染色體 10q 上的 RET proto-oncogene 突變) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
@@ -55,6 +58,7 @@ tags:
 - [[conditions/medullary-thyroid-carcinoma|Medullary thyroid carcinoma (髓質甲狀腺癌)]]
 - [[conditions/men1-syndrome|MEN1 syndrome (第一型多發性內分泌腫瘤)]]
 - [[conditions/men2-syndrome|MEN2 syndrome (第二型多發性內分泌腫瘤)]]
+- [[conditions/pancreatic-neuroendocrine-tumor|Pancreatic neuroendocrine tumor, pNET (胰臟神經內分泌腫瘤)]]
 
 ## Follow-up
 

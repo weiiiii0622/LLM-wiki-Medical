@@ -46,6 +46,9 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch10]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Bone marrow examination (骨髓檢查)'
   - 'Bone marrow examination'
@@ -60,7 +63,7 @@ tags:
 
 ## Summary
 
-骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -106,9 +109,17 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch10]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ii. 細針抽吸(fine-needle aspiration):主要用在已經確定有多重轉移癌的病人(無法切除而根治),用以判斷在腎臟腫瘤的細胞形態。其他適應症包括:用以診斷不適合手術的病人、腎臟以外轉移至腎臟的腫瘤、影像上難以辨別的腫瘤。判斷準確率 95%、敏感度 85%,因檢查造成 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...ion with small molecules): - i. 干擾核內信息傳遞(Intracellular signaling): - (i) 皮質類固醇(Corticosteroid):免疫製劑的基礎,從多方面影響免疫系統,減緩淋巴結和骨髓的淋巴細胞反應。副作用包括高血壓、高血脂、高血糖、體重增加、骨質疏鬆、傷口癒合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- b. 尿酸(uric acid)結石:占結石 5%,好發於男性,特別是有痛風病史、骨髓增生症(myeloproliferative diseases)、快速減重、用 cytotoxic 藥物治療惡性腫瘤的人。常因脫水或攝取高 purine 食物,導致尿中尿酸增加(故尿 pH 0.5 cm 僅 15% 排出率。(因為輸尿管 徑 $0.3\sim0.5$ cm) - (2) 結石位置: 結石在輸尿管下段 50%、中段 25%、上段 10% 排出率。(因為輸尿管長 25 cm) - (3) 併用藥物:NSAID (標準一線)、alpha-blocker (增加 45% 排出率,小心血壓,可用 Urief 或 Harnalidge)。另外使用副交感拮抗劑 (antimuscarinics) 也可緩解症狀加速結石排出。 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- e. 特殊副作用:注意骨髓抑制(白血球減少、血小板減少); 肝腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (5) 小細胞肺癌 (small cell lung cancer, SCLC): - a. 佔 20% 肺腫瘤,約 80% 在中央發生,有高度轉移特性,早期轉移到縱隔腔淋巴和遠處(尤其骨髓和腦),由外胚層的神經嵴分化而來,細胞學上片狀或叢狀有深染核和少細胞質,狀似燕麥,故又稱 oat cell carcinoma,具有神經分泌小泡。通常分為限制期(restirctive)或廣布期(extensive)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (4) 細針抽吸切片 (Fine needle aspiration of mass) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -122,11 +133,6 @@ tags:
 - (A) 7. 下列有關乳房腫瘤細針穿刺 (fine needle aspiration) 檢查之敘述, 106(一)專 何者錯誤? 醫五-47 - (A) 用 16 或 18 號針頭(16 or 18 gauge needle) - (B) 不需局部麻醉 - (C) 可區分實質腫瘤或囊腫(solid tumor or cyst) - (D) 若發現有癌細胞(carcinoma cell) 仍需作切片檢查(tumor biopsy) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 【詳解】可用 22 號針頭執行 fine needle aspiration。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - (4) Bone marrow biopsy • Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- ...能形成肝膿瘍。 - (2) 肝門靜脈: 肝門靜脈收集來自腸胃道的血液後, 匯集於肝臟, 因此與腸胃道感染相關的病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成肝膿瘍。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- (A) 糖尿病足併骨髓炎的 X-ray 特徵, 會比臨床症狀晚 1 週出現 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- (B) 核磁共振檢查(magnetic resonance imaging, MRI)可以早期 診斷骨髓炎 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- (C) 骨骼掃描(bone scan) 對於骨髓炎的診斷有幫忙 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
 
 ## Clinical Caveats
 

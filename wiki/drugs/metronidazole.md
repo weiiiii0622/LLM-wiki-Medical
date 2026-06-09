@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch11]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Metronidazole (甲硝唑)'
   - 'Metronidazole'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- ...| Enterobacter spp. | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin plus piperacillin | | Gardnerella vaginalis | Metronidazole, ampicillin | Metronidazole | | Klebsiella spp. | TMP-SMX, ciprofloxacin | Gentamicin plus cephalosporin | | Proteus spp. | Ampicillin, TMP-SMX, ciprofloxacin | Ampicillin, gentamicin | | Pseudomonas aeruginosa | Carben Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (4) 治療:要看病人到底是什麼樣子的原因導致膽管炎,針對此 underlying 進行 治療。 - a. 80% 病人可經由保守性治療治癒,使用廣效性抗生素(ampicillin + gentamycin/levofloxacin+/- metronidazole)治療即可。 - b. 20%的病人需要進行膽道減壓手術,包含經由ERCP取石術,或是經由PTCD引流,或是手術緩解阻塞原因。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].

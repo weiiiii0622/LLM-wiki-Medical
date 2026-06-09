@@ -38,6 +38,10 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch09]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -52,7 +56,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +94,18 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch09]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- iv. T3:腫瘤侵犯超過攝護腺包囊 (prostate capsule)。 - (i) T3a: 腫瘤超出攝護腺但尚未侵犯儲精囊。 - (ii) T3b: 腫瘤侵犯儲精囊。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (CD)29. 下列何種攝護腺癌的情況不需安排骨盆腔電腦斷層或磁振影像 98(二)專 (MRI)檢查? 醫五-69 - (A) 骨骼掃描陰性且為 T3 腫瘤者 - (B) 骨骼掃描陰性且 PSA > 20 ng/mL 者 - (C) 骨骼掃描陰性且 Gleason score 4 或 5 分者 - (D) 骨骼掃描陽性者 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- iii. T3:腫瘤侵犯未超過 Gerota's fasscia,未達同側腎上腺。腫瘤出現在 大靜脈或週邊組織。 - (i) T3a: 侵犯腎靜脈,或附近脂肪組織。 - (ii) T3b: 侵犯下腔靜脈,在橫膈膜之下。 - (iii)T3c:侵犯下腔靜脈,在橫膈膜之上;或侵犯下腔靜脈管壁。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (c) 放射治療:僅僅使用在無法接受膀胱全切除的病患(年紀太大、有手術禁忌、共病太多不宜手術),因為治療後復發率高達 50%,對於 T2、T3 腫瘤治療後五年存活率僅 30%,有 15%的人治療後有顯著的腸胃與膀胱 副作用。使用方式為 6~8 週內給予腫瘤共 7,000 cGy 輻射傷害。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- ...結締組織。 - Tla 腫瘤侵犯到結締組織,但沒有淋巴血管侵犯;以及無分化不良或未分化(TlG1-2) - T1b腫瘤侵犯至結締組織,合併淋巴血管侵犯或分化不良(T1G3-4) - iv. T2:侵犯尿道海綿體。有或無尿道侵犯。 - v. T3:侵犯陰莖海綿體。有或無尿道侵犯。 - vi. T4:侵犯其他鄰近結構。(ex:陰囊,前列腺,恥骨) - (b) cN(臨床分期): - i. cN0:無摸到淋巴結腫大。 - ii. cN1:摸到腹股溝淋巴結腫大(可推動、單一個)。 - iii. cN2: 摸到腹股溝淋巴結腫大(可推動、多個)。 - iv. cN3: 摸到腹股溝淋巴結腫大(不可推動),或骨盆淋巴結腫大。 - (c) pN (病理分期): - i. pN0:無淋巴結驗出腫 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...2a:大小>3公分,但≤5公分。 | 或肺塌陷到肺門,包含部分或全肺阻塞性肺炎。 | | T2b:大小> 5公分,但≦7公分。 | T2a:大小> 3 公分 ,但≦ 4 公分。 | | | T2b:大小&gt;4公分,但≦5公分。 | | T3:大小>7公分。 | T3:大小>5公分,但≦7公分。 | | 或侵犯到主支氣管分支處2公分以內,但未 | 或侵犯到主支氣管分支處 2 公分以內,但未侵 | | 侵犯到分支處。 | 犯到分支處。 | | 或侵犯到胸壁、横隔、縱隔腔肋膜、壁層心 | 或侵犯到胸壁、膈神經橫隔、縱隔腔肋膜、壁 | | 包膜。或肺塌陷合併全肺阻塞性肺炎。 | 層心包膜。 | | 或同肺葉有其他腫瘤。 | 或肺塌陷合併全肺阻塞性肺炎。 | | | 或同肺葉有其他 Source: [[sources/med5-book4-ch03|丙、肺]].
 - N1 or T3 至少 IIB; N2 or T4 至少 IIIA; Source: [[sources/med5-book4-ch03|丙、肺]].
 - N3 至少 IIIB;N3+T3/4 至少 IIIC Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -106,11 +119,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - | | N0 | N1 | N2 | N3 | |--------------|------|----------|------|------| | T1 | IA | IB | IIA | IIB | | T2 | IB | IIA | IIB | IIIA | | T3 | IIA | IIB | IIIA | IIIB | | T4a | IIB | IIIA | IIIB | IIIC | | T4b | IIIB | IIIB | IIIC | IIIC | | Any T, any N | • M1 | Stage IV | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 5. 細胞: - (1) 濾泡細胞 (follicular cell): 合成分泌 T3、T4。 - (2) 濾泡旁細胞(parafollicular cell):又叫 C cell,分泌降鈣素(calcitonin)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...dase 將 I 氧化成碘 (I)。 - (3) Organification:碘和甲狀腺球蛋白(thyroglobulin)上的 Tyrosine 結合形成 MIT 和 DIT。 - (4) Coupling: MIT 和 DIT 合成 T3、DIT 和 DIT 合成 T4。 - (5) Secretion: 下視丘分泌 TRH (thyrotropin-releasing hormone)→腦下垂體前葉分泌 TSH (thyroid-stimulating hormone) 刺激甲狀腺→ T₃和 T₄經由 proteolysis 脱離甲狀腺球蛋白,並離開甲狀腺分泌至血液中。 - (6) 血液中以 T4 為主, T3 和 T4 在血中和 TBG (thyroxine-bin Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 1. 生化檢驗數據: TSH 和 Free T4 最準。 - (1) TSH: 0.3~5 mIU/L, 在腦下垂體功能正常的情況下: - a. TSH ↑代表 hypothyroidism。 - b. TSH ↓ 代表 hyperthyroidism。 - (2) Total $T_4$ : $3\sim12 \mu g/dL \circ$ - (3) $T_3$ : 80~200 ng/dL • - (4) RT3U (Resin T3 uptake):正常值 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...----|-----------------| | 0 | Tis | N0 | M0 | - | | | I | T1 | N0 | M0 | A | 85~95% | | | T2 | N0 | M0 | B1 | | | IIA | T3 | N0 | M0 | B2 | 60~80% | | IIB | T4a | N0 | M0 | B2 | | | IIC | T4b | N0 | M0 | В3 | | | IIIA | T1-T2 | N1/N1c | M0 | C1 | 30~60% | | | T1 | N2a | M0 | C1 | | | IIIB | T3-T4a | N1/N1c | M0 | C2 | | | | T2-T3 | N2a | M0 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- ...|------------------|--|--| | Stage 0 | Tis, N0, M0 | | | | Stage I | T1, N0, M0 | | | | Stage II | T2, N0, M0 | | | | | T3, N0, M0 | | | | Stage IIIA | T1, N1, M0 | | | | | T2, N1, M0 | | | | | T3, N1, M0 | | | | | T4, N0, M0 | | | | Stage IIIB | T4, N1, M0 | | | | | Any T, N2, M0 | | | | | Any T, N3, M0 | | | | Stage IV | Any T, any N, M1 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (D) 4. 一位女性體檢時,意外發現有高血鈣,進一步檢查證實為原發性 107(二)專 副甲狀腺功能亢進(primary hyperparathyroidism),根據目前的 醫五-37 治療指引,有些原發性副甲狀腺功能亢進患者即使無臨床症狀 亦建議應接受手術,但下列何者除外? - (A) 骨密度檢查 T-score 小於 -2.5 - (B) 肌酸酐廓清率 (creatinine clearance) 小於 60 mL/min - (C) 血鈣超過正常值上限 1.0 mg/dL 以上 - (D) 年齡大於 60 歲 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 
 ## Clinical Caveats
 

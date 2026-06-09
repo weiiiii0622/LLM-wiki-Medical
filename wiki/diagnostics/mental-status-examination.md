@@ -47,6 +47,11 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Mental status examination, MSE (精神狀態檢查)'
   - 'Mental status examination, MSE'
@@ -61,7 +66,7 @@ tags:
 
 ## Summary
 
-精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -108,9 +113,21 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med5-book5-ch08]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- 4. 無高潮症(anorgasmia):在有意識的性行為下,無法達到高潮,但夜間仍會有流精 (emission,精液累積滿溢流出)現象。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- a. 心理性 (psychogenic): - (a) 情緒焦躁 (performance anxiety): 性行為前就會過度緊張,造成心理壓力。 - (b) 關係緊張 (strained relationship):性伴侶間的關係緊張。 - (c) 性冷感 (lack of sexual arousal): 性伴侶在性行為中沒有反應、年齡相關的性冷感、慢性疾病相關的性冷感。 - (d) 精神疾病。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- ...) | 15. | 男性血中睪固酮(testosterone)濃度不足,較不會引起何種症狀 | 103(二)專 | | | | 或疾病? | 醫五 -69 | | | | (A) 性慾下降 (B) 勃起功能減退 | | | | | (C) 情緒低落 (D) 前列腺癌 | | | (B) | 16. | Y染色體那部分的基因缺損會造成男性精蟲活動力不良? | 103(二)專 | | | | (A) p arm (B) q arm | 醫五 -71 | | | | (C) p arm 和 q arm (D) centromere | | | (D) | 17. | 下列何項危險因子不會影響陰莖海綿體血流量(penile blood flow, | 103(一)專 | | | | Source: [[sources/med5-book5-ch08|辛、男性學]].
+- ...(C) 15. 下列何者不是理想的腎臟捐贈者? (A) 腎功能正常者 醫五-71 (B) 同時罹患原發性腦瘤的病人 (C) 出現全身性病毒或細菌感染 (D) 梅毒、肝炎檢查正常者 (C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 104(二)專 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 醫五-77 - C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 描(CT scan)顯示左側腎臟撕裂傷合併巨大血腫,病人的血壓 一直維持在 70/40 mmHg 無法再上升,下一步要作的處置為何? (A) 腎臟血管造影 - (A) 育 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...--------------------------------------------------------------|------------------| | (C) 27. | 一位 37 歲男性工人從工地掉下來,理學檢查時病人意識清楚,但發現尿道口有血跡,而且陰囊有血腫,會陰有淤傷,接下來你最先要安排何種檢查?(A) Intravenous pyelogram(B) Cystography(C) Retrograde urethrogram(D) Contrast-enhanced computed tomography | 100(一)專醫五-61 | | (B) 28. | 下列有關睪丸癌的敘述,何者錯誤? (A) 大部分是生殖細胞腫瘤(germ cell Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (D) 12. 前列腺肥大病患接受經尿道前列腺切除手術時,出現意識迷糊、 噁心、高血壓、心跳變慢等症狀,其最可能之原因是: Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (1) 症狀:8項中有3項以上。(記法:胖高高(糖/壓)、皮(紋)-肌(弱)-骨(折)-血(雄)-神(情緒)) - a. 外觀:月亮臉、水牛肩、軀幹肥胖。 - b. 皮紋 (Striae, 在腹部或大腿的紅色紋)。 - c. 雄性素過量症狀(髮線退後、多毛症、小乳房發育、聲音變沉)。 - d. 情緒不穩或失眠或精神失常。 - e. 肌肉無力(特別是股四頭肌,所以從椅子上由坐站起困難)。 - f. 骨質疏鬆症(常見,甚至造成腰椎壓迫性骨折)。 - g. 高血糖(80%人有餐後高血糖;20%人空腹也高血糖)。 - h. 高血壓 (持續存在)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 2. 臨床症狀:隨時間症狀越來越明顯。 - (1) 呼吸窘迫 (respiratory distress)。 - (2) 意識改變 (altered mental status)。 - (3) 皮膚瘀青 (skin petechiae)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (B) 1. 股骨骨折可併發脂肪栓塞,下列那些是診斷脂肪栓塞的三大要件? 101(ニ)専 ①意識混亂 ②呼吸困難 ③胸痛 ④皮下點狀出血 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) 高碳酸血症(Hypercapnia):不適當的通氣(inadequate ventilation),如肺塌陷、或腦傷造成意識改變或外來毒物(drugs、alcohol)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
@@ -122,13 +139,6 @@ tags:
 - (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - 3. 症狀:腎結石、骨質疏鬆、高血壓、四肢無力、多尿、情緒不穩定。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - Symptomatic hyperparathyroidism - Fatigue - Pruritis - Bone pain or pathologic bone fracture - · Peptic ulcer disease - · Mental status changes - History of renal calculi Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (A) 10. 有關高鈣風暴(hypercalcemic crisis),下列敘述何者錯誤? 102(二)專 (A) 病人多焦躁不安, 意識興奮 醫五-42 (B) 血鈣超過 16 mg/dL (C) 副甲狀腺增生或癌較易發生 (D) 治療應給予 normal saline infusion 及 furosemide 【詳解】(A) 高血鈣的神經症狀應為疲倦、嗜睡、虚弱肌腱反射 下降,意識不清等。 (D) 11.50 歲男性,過去有高血壓及十二指腸潰瘍病史,上個月曾經因 102(一)專 為左側輸尿管結石去過急診,最近常感到倦怠、四肢肌肉無力, 醫五-47 則下列何種檢查,較 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- 5. 主動脈瘤破裂時,大量出血,病患會有突發性劇痛、休克、失去意識、下肢冰冷或 麻木感等表現。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (A) 3.60 歳趙先生(意識清楚)健康檢查時發現胸部 X 光片之縱膈腔 103(ニ)専8公分寬。下列敘述何者正確? 警五-23 - ①安排胸部電腦斷層檢查 - ②胸部降主動脈瘤為可能診斷之一 - ③手術前,醫師可應趙先生之書面要求而不將其手術危險性告 知其分居之配偶 - ④主動脈內血管支架 (endovascular aortic graft) 不可用於胸部 降主動脈瘤之治療 - (A) ①②③ (B) 僅①③ (C) ②④ (D) 僅④ Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (C) 6. 一個 75 歲的男性病患因腹部主動脈瘤接受手術治療,植入 Gortex graft。病人在過去並無腸胃方面的症狀,術後 40 小時,病人在 加護病房中,突然出現多次大量的褐色腹瀉,病人仍依靠氣管 內管(endotracheal tube)及人工呼吸器呼吸,意識不甚清醒 且無法說話,身體檢查並無腹部壓痛,或反彈性壓痛,體溫 37℃,白血球數為 10,000/mL。此時最可能的診斷是什麼? Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (D) 4. 一位 60 歲男性病人因急性心肌梗塞住院。一星期後,病人突然呼吸較喘,流冷汗;身體檢查顯示胸骨左側有新的心縮期雜音、血壓 65/50 毫米汞柱(mmHg)、肺動脈壓 60/40 毫米汞柱、中心靜脈壓 (CVP) 30 毫米汞柱,但意識清楚。下列敘述何者錯誤?①診斷為心室中隔破裂 ②不須裝置主動脈內氣球幫浦 ③ 須緊急手術,但若病人書面拒絕手術,則不可強行手術 ④若病人意識不清楚,也聯絡不到家屬,經初步治療略有改善,則不可立即手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- 【詳解】心室中膈破裂,左心高壓血灌往右心導致中心靜脈與肺動脈高壓,併分走原本往主動脈前進的動脈血導致心因性休克,手術前先做主動脈內氣球幫浦可穩定血循,降低 afterload並增加 Coronary artery perfusion。所以①正確,②錯誤。③緊急手術在病人意識清楚下仍須尊重其意願。④「經初步治療略有改善」這是陷阱,表示患者可能已脫離醫療法定義緊急手術的範圍,須尊重患者或其代理人意願並徵得同意執行手術。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (B) 9. 趙先生 59 歲,晚餐後突感前胸劇痛,並延伸到後背,經救護車送到醫院急診。趙先生除高血壓外並無其他病史。理學檢查發現意識清楚,血壓 180/50 mmHg,心跳 96 / 分,呼吸 18 / 分,頸靜脈平坦,胸骨左側有心縮期及心舒期雜音。胸部 X 光發現縱膈腔寬度約 8.5 公分。趙先生在胸部電腦斷層掃描檢查後又感胸痛,此時血壓下降至 110/50 mmHg,心跳 130 / 分,呼吸 25 / 分,頸靜脈怒張,下列何者是適當的處置? ①立即心臟超音波檢查 ②給予 propranolol 及 sodium nitroprusside 治療 ③緊急手術 ④送入加護病房觀察並接受藥物治療 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 
 ## Clinical Caveats
 

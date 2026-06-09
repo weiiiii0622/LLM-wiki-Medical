@@ -20,6 +20,8 @@ sources:
   - "[[sources/med5-book3-ch12]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'MEN1 syndrome (第一型多發性內分泌腫瘤)'
   - 'MEN1 syndrome'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,13 @@ MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 �
 - [[sources/med5-book3-ch12]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- ...---|-----------------------------------| | Gondatropin-ReleasingHormone (GnRH)Agonists | LeuprolideGoserelin | Anterior PituitaryGland | Decreases Release of LHThrough Down-regulationof GnRH Receptors | Testosterone Surge | 39 | | GnRH Antagonists | Abarelix* | Anterior PitultaryGland | Directly InhibitsGnRH Receptors | Anaphylaxis | Steroid | | A Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...關生殖內分泌的描述,下列何者為非? (A) 男性荷爾蒙是由 Leydig cells 所分泌 (B) 男性荷爾蒙的分泌是受濾泡刺激激素 FSH (follicle stimulating hormone) 調控 (C) 腦下垂體性腺激素 (pituitary gonadotropins) 的分泌是受 GnRH (gonadotropin releasing hormone) 的調控 (D) 混合因素 (mixed factors) 【詳解】(B) 是 LH。 | 106 (二)專醫五-69 | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...| ● Fungal | perforation | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreatic | | | | | pseudocyst | | | | | ■Meigs' syndrome | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 機轉 & 成因:表現為膽管囊狀擴大,成因不明,一說為膽胰道接合異常 (anomalous pancreaticobiliary ductal junction) 導致胰臟消化酵素逆流導致膽道受損,一說為持續或反覆遠端膽道阻塞所致。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 2. 急性胰臟炎是因為胰臟腺泡細胞(pancreatic acinar cells)的胰蛋白酵素(trypsin)被活化,導致一連串的胰臟發炎反應與自我分解,並且導致胰臟周圍脂肪細胞壞死。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
@@ -73,8 +79,6 @@ MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 �
 - 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - 3. Pituitary adenoma (30%): functional or non-functional • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - B. 副甲狀腺機能亢進(Hyperparathyroidism, HPT) 220 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- D. 副甲狀腺癌(Parathyroid carcinoma) 222 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- #### B. 副甲狀腺機能亢進 (Hyperparathyroidism, HPT) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 
 ## Clinical Caveats
 

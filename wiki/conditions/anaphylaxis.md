@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med4-book1-ch01]]"
@@ -22,6 +22,9 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book2-ch13]]"
+  - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Anaphylaxis (全身性過敏反應)'
   - 'Anaphylaxis'
@@ -36,7 +39,7 @@ tags:
 
 ## Summary
 
-IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +61,18 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book2-ch13]]
+- [[sources/med5-book5-ch09]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- (b) 血中兒茶酚胺 catecholamine (主要是 Epinephrine + Norepinephrine)上昇,80% 人會 > 2,000 ng/L。若有高血壓但 catecholamine 正常,可以排除嗜鉻細胞瘤的可能性。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- ...甲基化發生在腎上腺髓質或嗜鉻細胞瘤內。 - ii. 由於這種兒茶酚胺向後腎上腺素的轉化在嗜鉻細胞瘤內是一個不間斷的過程,因此比陣發性的兒茶酚胺更適合偵測腫瘤。不是血漿兒茶酚胺(catecholamines)、早晨空腹尿中去甲腎上腺素(norepinephrine)、腎上腺靜脈取樣兒茶酚胺(Adrenal vein sampling for catecholamines)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- (C) 正腎上腺素 (norepinephrine) Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (D) 腎上腺素 (epinephrine) Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- ...Testosterone Surge | 39 | | GnRH Antagonists | Abarelix* | Anterior PitultaryGland | Directly InhibitsGnRH Receptors | Anaphylaxis | Steroid | | Adrenal Ablating Drugs | Ketoconazole | Adrenal Gland | Decreases Androgen SynthesisFrom Steroid PrecursorsThrough Inhibition ofCytochrome P450 Enzymes | Administration Requires Steroid Supplementation to Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...出血點,並可同時施打 vasopressin 或作 embolization,達到治療的效果,成功率約 85%。 - (c) Colonscopy:用來治療勝過診斷,適合較慢速的出血。可用 vasoconstrictive agents (epinephrine)、vasodestructive agents (alcohol、morrhuate、sodium tetradecyl sulfate)或是 thermal therapy (laser、electro、heater coagulation)達到止血效果。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - ...tic) 和神經性 (neurogenic)。 - a. 敗血性休克:遭細菌感染釋放出之毒素,使得 TNF-α、IL-1、IL-6、IL-8 會增加,造成周邊血管擴張,vessel tone 下降,血管內有效容積下降,引起休克。 - b. 過敏性休克: 因嚴重的過敏反應而引發體內細胞釋放出物質使全身血管擴張 導致血壓下降。 - c. 神經性休克:由於脊髓損傷導致神經性反射及血管阻力喪失,使周邊血管擴張使得血液湧向周邊部位、造成主要器官組織灌流不足,心輸出量減少,引起休克。 - (4) 阻塞性(obstructive):心包填塞、肺動脈栓塞、張力性氣胸等造成心輸出量不足。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...液),每半小時 $500\sim1,000~\text{mL}$ ,以達到目標,假使患者是使用呼吸器,則目標為 $12\sim15~\text{mmHg}$ 。 - b. 平均動脈壓(MAP) > 65 mmHg: 升壓第一線藥物為 Norepinephrine(35~90 mcg/min),第二線為 Vasopressin(劑量上限為 0.03 U/min),此時可考慮加上可同時考慮加上類固醇 Hydrocortisone(200 mg/day)。第三線藥物才是 Epinephrine(25~50 mcg/min)。 - c. 中心靜脈的血氧飽和度( $ScvO_2$ ) > 70%:假使 $ScvO_2$ 5 $\mu$ g/kg/min 或是 Epinephrine/Norepineph Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -73,12 +85,6 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - Norepinephrine 與 serotonin 是目前被研究最多和情感性精神疾患相關的生物因子, 其 他 如 dopamine、GABA、vasopressin、endogenous opiates、glutamate、glycine 等也可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...uptake | 温·罗··································· | 腸胃道不適、性功能障 | | inhibitor) | * 選擇性 (-)5-HT 回收 | | | SNRI (serotonin-norepinephrine | (-)NE, 5-HT 回收 | 頭痛、血壓升高 | | reuptake inhibitor) | | | | NDRI (norepinephrine- dopamine | (-)NE, DA 回收 | 如 bupropion | | reuptake inhibitor) | | | | | | | | NaSSA (NE and specific serotonergic | (+)NE, 5-HT 分泌 | 如 mir Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 註: NE: Norepinephrine、5-HT: Serotonin、DA: Dopamine Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 2. 主要相關的神經傳導物質包括 serotonin、norepinephrine、GABA 等。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 目前的研究顯示廣泛性焦慮症的產生與大腦中血清素失調有關係,其他神經傳導物質如 norepinephrine、glutamate、cholecystokinin 也有被提出可能有關。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 安非他命主要是促進神經分泌 catecholamine 類神經傳導物質,特別是 norepinephrine 與 dopamine $\circ$ Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- (A) 40. 有關安非他命(amphetamines)藥理機轉,乃在於刺激神經間隙 102(一)專 前之末端(presynaptic terminals)分泌下列何種神經傳導介質? 醫四 -75 - (A) 多巴胺(dopamine)及正腎上腺素(norepinephrine) - (B) 血清素 (serotonin) - (C) 神經胜肽 -γ (neuropeptide-γ) - (D) 麩胺酸 (glutamate) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 4. 姿態性低血壓:主要是阻斷 $\alpha_1$ -adrenergic receptor,主要發生在 low potency 抗精神病藥物,特別是 chlorpromazine、thioridazine。當低血壓發生時,可以 IV 補充 fluid 或直接給予升壓劑 norepinephrine,使用 epinephrine 可能會使病人的低血壓更惡化 (因為 epinephrine 還會作用到 $\beta_2$ -receptor)。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 
 ## Clinical Caveats
 

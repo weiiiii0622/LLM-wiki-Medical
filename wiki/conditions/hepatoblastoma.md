@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Hepatoblastoma (肝母細胞瘤)'
   - 'Hepatoblastoma'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-幼兒最常見肝臟惡性腫瘤，常見 AFP 升高與腹部腫塊。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+幼兒最常見肝臟惡性腫瘤，常見 AFP 升高與腹部腫塊。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,13 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- (d) S = serum tumor markers (血清腫瘤標記): - i. S0:標記都在正常範圍內。 - ii. S1:LDH 10 倍正常值;或 hCG > 50,000 mIU/mL;或 AFP > 10,000 ng/mL。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (a) 初始治療:一律先睪丸切除(orchiectomy),之後依 stage 與術後腫瘤標記 決定治療方向。 - i. 精原細胞瘤 (seminoma): - (i) 低分期(stage I + 術後 AFP 測不到):可選擇觀察、化療、放射治療。 - (ii) 中分期(stage II+術後 AFP 測不到):可選擇化療、放射治療。 - (iii)高分期(stage III 或術後 AFP 升高): 進行化療。 - ii. 非精原細胞瘤 (non-seminoma): - (i) 低分期(stage I + 術後 AFP、HCG 測不到):可選擇觀察、化療、切除淋巴(RPLND)。 - (ii) 中分期(stage II + 術後 AFP Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (C) $\alpha$ 胎兒蛋白 (AFP) 於 pure seminoma 不會升高 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 4. 孩童常見惡性腫瘤:腎母細胞瘤(最常見)、肝母細胞瘤(次常見)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - 1. 肝母細胞瘤 (Hepatoblastoma): - (1) 孩童最常見的原發性肝腫瘤。 - (2) 機轉 & 成因:和家族性瘜肉綜合症(familial polyposis syndrome)有關,主要由胚胎性的肝母細胞和間葉組織構成。 - (3) 流行病學:大多發生於3歲以前,中位數年紀約18個月大。 - (4) 臨床表現:通常沒有症狀的腫塊來表現,或伴隨貧血表現。 - (5) 檢查 & 診斷: - a. 血液檢查 hemogram: (i) Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...ascular steal syndrome),導致高輸出性(high-output)心衰竭,造成胎兒消亡。 - (3) 檢查 & 診斷: - a. 根據臨床發現即可診斷,尤其是外生性骶尾骨畸胎瘤(exophtic SCTs)。 - b. AFP、β-hCG level:若升高,表示可能隱藏著卵黃囊腫瘤(yolk sac tumor) 或絨毛膜癌(choriocarcinoma)之腫瘤組成。 - c. 超音波、電腦斷層、核磁共振:可用來檢測腹腔內病灶,或是確認是否腫瘤 延伸至骨盆腔及腹腔內。 - d. 可以分成 4 個 type,第一型和第二型的惡性機率較低,預後較好,第三型和 第四型惡性的機率就比較高了。惡性的機率也和年齡有關,小於兩個月的惡 性機率較低,大於兩個月以上的惡性 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
@@ -58,8 +63,6 @@ tags:
 - PS: Wilms tumor 屬於 embryonal tumors 中的一種。在台灣,最常見的 embryonal tumor 為 Wilms tumor,其次為 hepatoblastoma。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...increased | | | | opsoclonus, diarrhea, skin | ferritin, stippled | | | | nodules (infants) | calcification in mass | | Hepatoblastoma | Birth-3 yr | Large, firm liver | Increased AFP | | Hepatoma | School age, | Large, firm liver; hepatitis | Increased AFP | | | teens | B, cirrhosis | | | Rhabdomyosarcoma | All | GI/GU obstruction, | | | | | sarcoma b Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 3. 診斷:一般而言出生前可以用超音波診斷,超過第 13 週時即可診斷。此外,母親血液 AFP 會升高。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 3. 診斷:同臍膨出,出生前可以用超音波診斷,超過第 13 週時即可診斷。此外,母 親血液 AFP 會升高。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...or hCG-secreting tumor: tumors associated with tuberous germinoma · chorioepithelioma · sclerosis · teratoma teratoma · hepatoblastoma (boys) Brain damage: Androgen- or estrogen-secreting tumors: CNS anomalies · irradiation therapy · Ovarian(granulosa cell \, theca cell \, surgery \, trauma \, prior inflammation luteoma · follicular cysts); Testicular Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch16]]"
@@ -29,6 +29,8 @@ sources:
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch19]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Parathyroid glands (副甲狀腺)'
   - 'Parathyroid glands'
@@ -43,7 +45,7 @@ tags:
 
 ## Summary
 
-副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +74,13 @@ tags:
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book2-ch19]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- ...又稱「副腫瘤綜合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占鈣結石成因 15%。較常見的原因是攝取高 purine 食物、內生性尿酸分泌過量,引起高尿酸尿鈣(hyperuricosuric calcium)結石。(注意:這跟尿酸 (uric acid) 結石不一樣,一個含鈣一個不含鈣,尿 pH 值一個 > 5.5 (因為是產生 monosod Source: [[sources/med5-book5-ch05|戊、結 石]].
 - B. 副甲狀腺機能亢進(Hyperparathyroidism, HPT) 220 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - C. 原發性副甲狀腺機能亢進 220 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - D. 副甲狀腺癌(Parathyroid carcinoma) 222 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -91,8 +97,6 @@ tags:
 - ...| | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticides, solvents | | | | | | Heavy Metals | Lead, manganese, me Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - ...cutaneous candidiasis): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- # A. 副甲狀腺低下 (Hypoparathyroidism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

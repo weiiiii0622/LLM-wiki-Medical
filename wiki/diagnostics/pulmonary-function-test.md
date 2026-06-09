@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Pulmonary function test, PFT (肺功能檢查)'
   - 'Pulmonary function test, PFT'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- i. 手術危險性高之病患:心肺功能不佳或血液凝固疾病。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 【詳解】右肺將會代償左肺功能,剩下單肺的負壓,吸氣時肺 泡壓上升變快肺間壓變大,故肺順應性下降,肺內壓升高加上 肺過度膨漲的組織張力,故血管阻力也會升高,氣道阻力也增 加,故氣道傳導度降低。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 1. 肺功能量計(spirometry)是最常見主要評估肺功能的工具,評估包含肺容積及彈性(elasticity)、回彈性(recoil)和順應性(compliance)等肺機械性質。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 手術前肺功能評估: $P_{CO2} > 43~45~mmHg$ 顯示有肺功能嚴重喪失約將近 50%,若合併肺高壓(為肺切除手術相對禁忌症)。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -84,7 +87,6 @@ tags:
 - $FEV_1/FVC$ ratio 12\%$ or predicted $\text{FEV}_1 > 10\%$ after inhalation of a short-acting $\beta$ -agonist (SABA)\* Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - Worsening in $FEV_1 \ge 15\%$ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - FEV1, forced expiratory volume in 1 sec; FVC, forced vital capacity; ICS, inhaled corticosteroid; ppb, parts per billion. Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (C) 肺功能檢查常見到阻塞性的異常 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

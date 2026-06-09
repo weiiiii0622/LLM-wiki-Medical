@@ -13,6 +13,8 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch06]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Cutaneous squamous cell carcinoma, cSCC (皮膚鱗狀細胞癌)'
   - 'Cutaneous squamous cell carcinoma, cSCC'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch06]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- (2) 腎盂/輸尿管癌 (renal pelvic/ureteral tumor): - a. 泌尿細胞癌(UCC):90%。 - b. 鱗狀細胞癌 (squamous cell carcinoma): 8%。 - c. 腺癌 (adenocarcinoma):1%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (c) 臨床表徵:通常無症狀。另外可能產生併發症: - i. 反覆包皮龜頭炎(balanoposthitis): 最常見的併發症。 - ii. 嵌頓性包莖(paraphimosis):將包皮退至龜頭露出,卻無法回推,會 造成龜頭部分血液循環不良,長時間有組織壞死的危險。 - iii. 陰莖癌:反覆發炎造成包皮部分容易產生鱗狀上皮癌(SCC)。 - iv. 性傳染病:包皮過長易藏汙納垢使 HIV、gonorrhea、syphilis 的感染率升高。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 1. 惡性腫瘤中,以鱗狀上皮細胞癌(squamous cell carcinoma)最常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(ac Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### Squamous cell carcinoma L category\*\*\* Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ...ted" cancers reveals a squamous cell component, of if after further testing they remain undifferentiated, categorize as squamous cell carcinoma G3; \*\*\*, location is defined by epicenter of esophageal tumor. Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -59,8 +65,6 @@ tags:
 - (D) 16. 一位 65 歲男性,因吞嚥困難及體重減輕住院檢查,病患體重 40 公斤,血清蛋白(serum albumin)值為 2.5 g/dL,內視鏡檢查發現食道下段有腫瘤造成阻塞,切片病理報告為食道之鱗狀上皮細胞癌,胸部電腦斷層檢查結果並無明顯之縱膈腔或肝臟轉移,骨頭掃描結果並無明顯遠處轉移。胸腔外科醫師評估可以手術切除,你認為以下那種處置比較適當? - (A) 馬上安排手術切除食道並重建以免癌症擴散 - (B) 一般葡萄糖輸液補充 7 天後手術 - (C) 全靜脈營養 (total parenteral nutrition) 補充 1 天,立即手術 - (D) 全靜脈營養補充 7 天後手術 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) 152 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 【詳解】脂漏性角化症為良性上皮增生,而 (A)(B)(C) 都有轉化為 SCC 的機會,Bowen's disease 即為 SCC in situ,erythroplasia of Queyrat 是指長在 Glans penis 上的 Bowen's disease。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 2. 砷最出名的即鳥腳病:周邊動脈硬化(PAOD),造成足部潰瘍和壞死。除此外, 慢性砷中毒於皮膚上會有黑白斑駁的色素不均以及手掌、腳掌點狀角化。於非陽光 曝曬部位容易轉變為 Bowen's disease (SCC in situ), 進而惡化為 SCC。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (C) 患部皮膚可併發皮膚鱗狀上皮細胞癌 Source: [[sources/med4-book2-ch11|子、其 他]].
 
 ## Clinical Caveats
 

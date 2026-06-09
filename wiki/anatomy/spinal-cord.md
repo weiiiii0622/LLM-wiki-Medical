@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Spinal cord (脊髓)'
   - 'Spinal cord'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,13 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- b. 異常的尿流曲線圖,形態改變且最大尿流速 下列何者不會造成 flaccid neuropathic bladder ? (A) S2-S4 spinal cord 受傷 (B) 頸椎受傷 (cervical spine injury) 且有 quadriplegia (C) Myelodysplasia 造成 anterior horn cell 無法正常發育 (D) Poliovirus 感染並破壞 anterior horn cell of spinal cord | 109(一)專醫五-68 | |-----|---------------------------------------- Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
+- | (C) | 6. 對一位 C5~C6 完全性脊髓損傷導致逼尿肌尿道外括約肌共濟失調 | 107 (二)專 | |-----|-------------------------------------------------------|-----------| | | (detrusor sphincter dyssynergia, DSD)的病人,下列何種處置不 | 醫五-68 | | | 合適? | | | | (A) 間歇性導尿以定時排空膀胱 | | | | (B) 口服抗膽鹼 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
+- ...是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - 1. 成人最常見的縱隔腔腫瘤 23%,通常在後縱隔腔,源自交感神經節和肋間神經的腫瘤,前上縱隔腔極為罕見,多為良性。佔孩童 34%縱隔腔腫瘤,多為惡性。約 10% 會侵犯到脊髓,又稱為 dumbbell tumors。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 【詳解】CT上可見由頸部下來的 thyroid gland,壓到氣管,造成 CxR上有氣管偏移而有吸氣期高頻音。(A)(B) 明顯可排除,(C) 多為神經性腫瘤,但沒看到腫瘤從脊髓延伸。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (2) 止痛:肋間神經阻斷或脊髓硬腦膜外止痛。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
@@ -84,9 +89,6 @@ tags:
 - 2. 成年人最常見原發性小腦腫瘤,也可能長在脊髓、視網膜,或在腎臟、胰臟中出現 囊腫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 3. 好發的位置常見在松果體(80~90%)、蝶鞍上(15~40%)及基底腦核(5~10%), 有時診斷時已經散播到腦室及脊髓腔內。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. 阻塞性: - (1) 先天:大腦導水管狹窄、Dandy-Walker malformation (第四腦室的 Luschka 和 Magendie 孔狹窄,導致第四腦室脹大)、Arnold-Chiari malformation (後顱窩容 量過小的畸形,導致後顱窩的內容物擠壓到脊髓)。 - (2) 後天:腫瘤、出血、膿瘍。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
-- L. 基本神經學 151 - A. 血管支配 151 - B. 大腦與脊髓病灶的比較 151 - C. 上運動神經元、下運動神經元病灶的比較 151 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 本章節以介紹基本神經學開始,先比較大腦與脊髓病灶,而脊髓病灶又分上、 下神經元,再比較彼此差異。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 
 ## Clinical Caveats
 

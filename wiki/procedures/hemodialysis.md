@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med3-book3-ch02]]"
@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Hemodialysis (血液透析)'
   - 'Hemodialysis'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,13 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- b. 好發於糖尿病、洗腎、靜脈藥物濫用者、尿 路異常(如結石或阻塞)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...血管母細胞瘤、視網膜血管瘤、雙側腎透明細胞癌。 - ii. Hereditary papillary renal carcinoma:腫瘤的產生大多侷限在腎臟。 - (b) 偶發性:危險因子包括抽菸(2倍風險);暴露於石綿、有機溶劑、鎘; 洗腎;腎囊性病變。 - c. 病理學: - (a) 微觀:大多是混合型癌(mixed carcinoma,包含 clear cells、granular cell 或像 sarcomatoid 的細胞),源自近端腎小管的上皮細胞。細胞形態分類 如圖。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 附近腫瘤接種(seeding)的機率洗腎:存活久、花費少、生活品質好。 - (2) 腎移植存活率:依腎臟來源不同有差異,平均1年90%、五年75%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (C) 5. 下列關於心臟瓣膜置換手術中,置換瓣膜(prosthetic valve)的 選擇,何者正確? ①計畫生育之年輕女性患者可選擇機械型瓣 膜(mechanical prosthesis) ②年齡大於 70 歲患者可選擇生物組 織型瓣膜(bioprosthesis) ③血友病患者可選擇機械型瓣膜 ④ 尿毒症患者目須長期血液透析,可選擇組織型瓣膜 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 【詳解】機械型瓣膜病人須終身服用抗凝血劑,出血風 險相對組織型來得高,故不適合計劃生育之女性(Post partum hemorrhage),也不適合老年人(ICH)與血友病患者 (Coagulopathy),另有研究顯示裝有組織型瓣膜的洗腎患者較 不易流血且洗腎通路較不易阻塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (B) 40 歲病人合併長期規則洗腎以及高血鈣症 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -82,9 +87,6 @@ tags:
 - (B) 25. 一位 13 歲男孩學校尿液篩檢發現有血尿。他主訴以前在上呼吸 道感染後一兩天就會有肉眼可見的血尿,但是會自然消失。醫師 檢查發現他戴有助聽器,而且哥哥患有末期腎病,目前規則接受 1 週 3 次之血液透析。尿液常規檢查顯示 occult blood:強陽性 (3+); Protein: > 300 mg/dL; WBC 3~5/HPF; RBC 100~150/HPF。 下列何者為其最可能之診斷? - (A) 局部巢狀腎絲球硬化(focal segmental glomerulosclerosis) - (B) Alport 症候群 (Alport syndrome) - (C) 家族性薄基底膜疾病(familial thin base Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】十三歲男孩戴有助聽器、尿液常規檢查發現明顯的蛋白尿與潛血反應、哥哥患有末期性腎病且規則接受血液透析治療,種種跡象暗示兄弟患有 Alport syndrome。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 血液透析: 與成人急洗條件差不多, 也可用 AEIOU 記憶: - Acidosis:當病人出現嚴重酸血症(pH th 版對慢性腎衰竭有明確的 敘述: Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (A) 2. 比較先天性巨結腸症(Hirschsprung disease, HD)和功能性便秘 108( ) 專 (Functional constipation, FC)各種症狀出現之機率,下列敘述何 醫四 -10 者錯誤? - (A) 大便失禁 (Encopresis): HD > FC - (B) 生長遲緩 (Failure to thrive): HD > FC - (C) 小腸結腸炎 (Enterocolitis): HD > FC - (D) 腹漲 (Abdominal distention): HD > FC Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- | | HD: non-HD | non-HD 低惡性度比率 | | |-------|------------|---------------|--| | 西方發生率 | 1:3 | 40~50% | | | 台灣發生率 | 1:9 | 10~15% | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...mphoma | | EBV | Burkitt's lymphoma, Primary CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary effusion lymphoma, Multicentric Castleman's dz. | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 
 ## Clinical Caveats
 

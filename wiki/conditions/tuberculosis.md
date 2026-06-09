@@ -51,6 +51,8 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch09]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Tuberculosis (結核病)'
   - 'Tuberculosis'
@@ -65,7 +67,7 @@ tags:
 
 ## Summary
 
-分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +118,13 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch09]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- a. 感染症: - (a) 細菌:有急性感染不可腎移植。另外若之前有感染 TB、或是暴露在 TB 感染風險下,先接受一年的 isoniazid 預防性治療後才可移植。 - (b) 病毒:若病毒沒對身體存在進展性的破壞,可接受移植但預後較差。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (a) 膀胱內灌注藥物: - i. 常用灌注藥物: - (i) Mitomycin C: - ①機轉:一種化療藥物,用來抑制癌細胞 DNA 合成。 - ②效果:降低術後癌症復發率15%。(但不會降低癌症進展機率) - ③注意:25%產生刺激膀胱副作用。 - (ii) BCG (Bacillus Calmette-Guerin) - ①機轉:一種結核桿菌弱毒株,可引發自體免疫反應攻擊癌細胞。 - ②效果:降低術後癌症復發率50%、降低癌症進展機率50%。(效果最佳) - ③注意:80%產生刺激膀胱副作用。另外5%出血性膀胱炎、1% 遠端感染。 - ii. 副作用:常見局部刺激膀胱導致的排尿症狀(頻尿、急尿、解尿疼痛), 系統性症狀很少,因為經膀胱吸收的藥物很有限但也有少數會造成嚴 重全身性感染病症。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...igs' syndrome | parapneumonic | Gastrointestinal | embolism with | | | ● Empyema | Disease Related | infarction | | | ● Tuberculosis | Esophageal | Asbestosis related | | | ● Fungal | perforation | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreatic | | | | | pseudocyst | | | | | ■Meigs' syndrome | Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 2. 致病菌:過去常為鏈球菌(Streptococcus)或肺炎球菌(Pneumococcus)肺炎引起,現在葛蘭氏陰性菌(Gram-negative)和厭氧菌(anaerobic)也很常見,近期結核菌膿胸也突然增加。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (D) 假性乳糜胸通常由於類風濕肋膜炎或結核所致 Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -135,8 +141,6 @@ tags:
 - (D) 10. 下列那些腦膜炎,如果沒有及早治療,容易發生顱底腦膜嚴重滲 105(ニ)専出性發炎變化(basilar meningeal exduate),導致次發性腦血管梗塞(cerebral infarction)?①腮腺炎病毒腦膜炎(mumps)②巨細胞病毒性腦膜炎(CMV)③結核菌腦膜炎④隱球菌腦膜炎(A)①②(B)②③(C)①④(D)③④ Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - 1. 結果判讀順序: Protein → WBC → Sugar - (1) 先看 protein ,protein 高代表發炎,只有 protein 高,WBC 不高、glucose 不低, 考慮自體免疫疾病,如 Guillain-Barre 症候群(= acute inflammatory demyelinating polyneuropathy = AIDP)、多發性硬化症(multiple sclerosis)。 - (2) 再看 WBC,如果加上 WBC 高、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低,代表是黴菌、結核、細菌性腦膜炎;其中可依白血球的量、lymphocyte 或 PMN 為主來進一步鑑別。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (D) 抗結核病藥物 INH(isoniazid) 之相關神經病變,是缺乏維生素 B2 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...(EEG)(D) 核磁共振 (MRI) | | | (C) 17. | 一位 28 歲女性,近三年來經常發生手腳麻而無力、臉歪、視力模糊,時好時壞,根據這二張 MRI 的 FLAIR 影像,最可能的診斷是: | | | | (A) CNS tuberculosis(B) CNS cryptococcal infection(C) multiple sclerosis | | | (D) 18. | (D) metastases 頸椎退化性關節炎而導致脊髓病變,下列何者錯誤? (A) 會產生雙下肢緊而無力 (B) 造成解尿困難 (C) 會產生胸部以下麻木現象 (D) 造成吞嚥困難 | 98(二)專醫四-47 | | (D) 19. | 多發性硬化症患者的腦脊髓液常可見到下列何種情形? (A) 葡萄 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...llidum hemagglutination assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

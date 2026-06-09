@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Enterococcus infection (腸球菌感染)'
   - 'Enterococcus infection'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-常見膽道、泌尿道、院內與心內膜感染病原，抗藥性治療需特別注意。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見膽道、泌尿道、院內與心內膜感染病原，抗藥性治療需特別注意。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,12 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- (4) 正常尿道旁菌叢:不易引起 UTI,但可能會污染尿液檢體以致於被培養出來。包括厭氧菌(Anaerobic bacteria)、乳酸桿菌(Lactobacilli)、棒狀桿菌(Corynebacteria)、鏈球菌(Streptococci,但不包括腸球菌 Enterococci)、和表皮葡萄球菌(Staphylococcus epidermidis)。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (a) Grade III (severe) acute cholecystitis: - i. 先考慮保守治療,先讓病人 NPO,合併靜脈液體注射。若病人持續噁 心嘔吐,考慮鼻胃管置入。 - ii. 止痛藥使用與抗生素使用。 - iii. 常見菌種:*Escherichia coli、Bacteroides fragilis*、Klebsiella、Enterococcus、Pseudomonas species。 - iv. 考慮作 percutaneous cholecystostomy,將膽汁 drainage 出來。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - ...五天 | | | (D) 術前三十分鐘 | | | (B) 24. 大腸內容物中最常見的細菌為: | 99(一)專 | | (A) Escherichia coli | 醫五-5 | | (B) Bacteroides | | | (C) Enterococcus | | | (D) Pseudomonas species | | | (C) 25. 大腸內容物中最常見的 aerobic bacteria 是下列何者? | 97(一)專 | | (A) Enterococcus | 醫五-1 | | (B) Proteus | | | (C) Escherichia coli | | | (D) Pseudomonas | | | | | Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (3) Enterococcus、S. pneumonia、group A streptococci、Haemophilus species、anaerobes、gram-negative bacilli 或真菌感染較少見。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

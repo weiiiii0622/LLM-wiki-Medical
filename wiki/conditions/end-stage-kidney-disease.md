@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch07]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'End-stage kidney disease, ESKD (末期腎臟病)'
   - 'End-stage kidney disease, ESKD'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-腎功能進入需 renal replacement therapy 或保守照護評估的階段。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎功能進入需 renal replacement therapy 或保守照護評估的階段。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book3-ch05]]
 - [[sources/med3-book3-ch06]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...B 屍腎。 - iii. 無私的捐腎者 (altruistic living donors): 捐出活腎給移植中心來安排。 - b. 活體捐腎者本身的安全(living-donor safety):活體捐腎者捐腎後其預後與一般人相近,未來末期腎病變(ESRD)的機率是 0.04%(一般人 0.03%)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 4. 治療:嚴格控制血壓是治療疾病中最重要的一項,若出現慢性腎衰竭則治療包括飲食調整、控制水分攝取等;當進展為末期腎臟病時,則需要進行腎臟透析或腎臟移植手術。若出現白內障,可接受眼科手術矯治。聽力喪失的情況可能為永久性的,像唇語辨讀或手語的學習,或是配戴助聽器都可對患者有益。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 因為會復發,進入末期腎病後不建議腎移植 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【 詳解】IgA nephropathy 病人約有20~30%出現 progressive disease (ex: renal failure),通常在發病後經過15~20年出現症狀。當出現末期腎病時,考慮腎臟移植。IgA nephropathy的病人,血漿C3補體濃度正常,血漿IgA僅有15%會上升。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

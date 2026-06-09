@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book3-ch04]]"
@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Attention-deficit/hyperactivity disorder, ADHD (注意力不足過動症)'
   - 'Attention-deficit/hyperactivity disorder, ADHD'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-神經發展疾病，核心為不專注、過動與衝動，需跨情境造成明顯功能受損。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經發展疾病，核心為不專注、過動與衝動，需跨情境造成明顯功能受損。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- ii. 副交感神經抑制劑: Propiverine (Urotrol®)、Solifenacin (Vesicare®),可緩解膀胱不正常運動如膀胱過動症,進而減少排尿。機轉是放鬆膀胱逼尿肌。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (C) 15. 下列那種問題最不會造成膀胱過動症(overactive bladder)? 100(一)專 醫五-70 (A) 腦中風 (B) 良性前列腺肥大症 (C) 子宮頸癌接受根除性切除手術 (D) 胸椎損傷造成膀胱功能損傷 【詳解】接受婦產科手術或大腸直腸手術可能使支配膀胱肌肉 收縮的神經(pelvic plexus)損傷,導致 urinary retention,所以 不是 OAB。 (C) 16. 糖尿病膀胱病變(diabetic cystopathy)是一種常見的糖尿病 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...70 歲的女性接受簡短智能測驗時,可以輕易地複誦三個不 106(二)專 相關的名詞,經過五分鐘的計算能力檢測,大致正常;但是,此 醫四 -53 時卻無法自由回憶剛剛三個名詞,即使給予提示,還是沒有辦法 回想出來。這位女性可能是: (A) 注意力不足 (B) 失語症 (C) 記憶的提取問題 (D) 海馬迴功能障礙 【詳解】海馬迴主管短期記憶。 (A) 9. 大多數阿茲海默症的病人,在疾病早期受影響最多的認知功能為: 106(二)專 (A) 情節性記憶 (episodic memory) 醫四 -54 (B) 人臉的辨認(face recognition) (C) 穿衣服的能力(dressing) (D) 人格改變 (personality change) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (B) 下視丘過誤瘤 (hypothalamic harmatoma) 及腦幹中風為常見 - 的病因之一 (C) 無法控制的入睡衝動及情緒激動時發生肌肉張力的瞬間消 - (D) 治療以 modafinil、methylphenidate 或 amphetamines 等 stimulant drugs 為主 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (C) 注意力不足過動症(attention-deficit/hyperactivity disorder) Source: [[sources/med4-book3-ch04|丁、身體型疾患]].

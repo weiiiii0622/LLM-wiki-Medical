@@ -34,6 +34,8 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Stomach (胃)'
   - 'Stomach'
@@ -48,7 +50,7 @@ tags:
 
 ## Summary
 
-胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +84,13 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch10]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- (B) 2. 一位 50 歲男性前列腺癌病人接受前列腺根除手術,術後無法勃 109(-) 専起,最可能受損的神經是:醫五-71 - (A) 骨盆腔神經叢 (pelvic plexus) - (B) 海綿體神經 (cavernous nerve) - (C) 陰部神經 (pudendal nerve) - (D) 腹下神經 (hypogastric nerve) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...骨盆神經(pelvic nerve)傳至中樞經系統 (B) 由橋腦儲尿中樞(pontine storage center)發出的訊號是經骨盆神經(pelvic nerve)傳至尿道外括約肌 (C) 交感神經訊號增強,且經由下腹神經(hypogastric nerve)至膀胱 (D) 膀胱滿漲的訊號可刺激脊髓反射作用稱為防護反射(guaing reflex),可增加禁尿的功能 | 傳 | | (B) | 3. 有關自主神經反射異常(autonomic dysreflexia, AD)的敘述,列何者錯誤? (A) 經常發生於脊髓損傷部位高於 T6~T8 以上的病人 (B) 病人會有低血壓 (C) 病人會有頭痛及患部以上潮紅 (D) 男性病人常併有尿道平滑肌共濟失調(dyssynergia) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - (1) 胸腹部 X 光:single bubble sign (air-filled stomach bulb)。(小朋友因體積小故一般 CXR 連同腹部是一起照) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (D) Gastric volvulus Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (6) 檢查 & 診斷: - a. KUB 呈 double bubble sign (air-filled stomach and duodenal bulb),且遠端腸無空氣,即可確診。 - b. 如果遠端有腸氣,需進一步安排上消化道鋇劑攝影,以鑑別十二指腸狹窄或中腸扭轉(midgut volvulus)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -101,8 +107,6 @@ tags:
 - H. 胃出口阻塞 (Gastric outlet obstruction) 15 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - • Type I (60%): Only gastric ulcer (almost lesser curvature) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - Type II (15%): Gastric body and duodenal ulcer Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (C) 胃癌 (gastric cancer) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- 4. 症狀:消化性潰瘍(PUD)、上腹疼痛(epigastric pain)、腹瀉(因胃酸過度分泌破壞消化酵素)、體重減輕。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 
 ## Clinical Caveats
 

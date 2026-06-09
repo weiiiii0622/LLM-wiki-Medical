@@ -2,11 +2,12 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Endocrine therapy for breast cancer (乳癌荷爾蒙治療)'
   - 'Endocrine therapy for breast cancer'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-ER/PR positive 乳癌的重要全身治療，依停經狀態與疾病情境選藥。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ER/PR positive 乳癌的重要全身治療，依停經狀態與疾病情境選藥。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch20]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ⑤ Tamoxifen:調節 TGF-b1 的發炎表現,減少纖維的形成。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (d) 賀爾蒙治療: ER 陽性的病人,可以加上 Tamoxifen 作為治療。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (a) 持續觀察而不治療,或使用 Tamoxifen。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (D) DCIS 患者術後接受 tamoxifen 的治療,目前臨床試驗(如 NSABPB-24 trial)的結果,對側乳房發生乳癌的風險可顯著 降低 Source: [[sources/med5-book3-ch24|丁、乳癌]].

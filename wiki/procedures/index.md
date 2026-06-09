@@ -17,6 +17,7 @@ Clinical procedures, operations, interventions, and workflows.
 
 - [[procedures/abdominoperineal-resection|Abdominoperineal resection, APR (腹會陰聯合切除術)]] - 直腸癌侵犯或接近括約肌時可能需移除直腸與肛門並建立永久 colostomy。
 - [[procedures/adrenalectomy|Adrenalectomy (腎上腺切除術)]] - 用於部分功能性腎上腺腫瘤或疑似惡性病灶；pheochromocytoma 術前需充分 alpha blockade。
+- [[procedures/androgen-deprivation-therapy|Androgen deprivation therapy, ADT (雄性素剝奪治療)]] - 透過 GnRH/LHRH 藥物、antiandrogen 或 orchiectomy 降低 androgen signaling，是轉移或高風險攝護腺癌重要治療。
 - [[procedures/aneurysm-clipping-coiling|Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)]] - ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。
 - [[procedures/aortic-dissection-surgery|Aortic dissection surgery (主動脈剝離手術)]] - Type A aortic dissection 通常需急診手術；Type B 多先內科 anti-impulse therapy，併發症時考慮 TEVAR 或手術。
 - [[procedures/appendectomy|Appendectomy (闌尾切除術)]] - 急性闌尾炎常見手術治療，可採開腹或腹腔鏡方式，需依穿孔、膿瘍與病人狀況調整。
@@ -38,6 +39,7 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/core-needle-biopsy-breast|Core needle biopsy of breast (乳房粗針切片)]] - 取得乳房病灶組織以判斷良惡性、受體狀態與治療方向。
 - [[procedures/coronary-artery-bypass-graft|Coronary artery bypass graft, CABG (冠狀動脈繞道術)]] - 外科冠狀動脈血管再暢通術。
 - [[procedures/cpap|Continuous positive airway pressure, CPAP (連續正壓呼吸)]] - OSA 標準治療，也可作為非侵襲性正壓通氣模式。
+- [[procedures/cystoscopy|Cystoscopy (膀胱鏡)]] - 直接檢查膀胱與尿道，可用於血尿、膀胱癌診斷追蹤、結石與下泌尿道病灶評估。
 - [[procedures/damage-control-surgery|Damage control surgery (損傷控制手術)]] - 嚴重外傷或生理崩潰時先控制出血污染，延後 definitive repair。
 - [[procedures/decortication|Decortication (剝皮術／纖維膜剝除術)]] - 移除限制肺擴張的肋膜纖維皮，常用於 organized empyema 或 fibrothorax。
 - [[procedures/dialysis-indications|Dialysis indications (透析適應症)]] - 急性透析常依 acidosis、electrolyte、intoxication、overload、uremia 等評估。
@@ -50,6 +52,7 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/ercp|Endoscopic retrograde cholangiopancreatography, ERCP (內視鏡逆行性膽胰管攝影)]] - 診斷與治療膽胰管阻塞、結石或膽管炎的重要內視鏡程序。
 - [[procedures/esophagectomy|Esophagectomy (食道切除術)]] - 食道癌或部分嚴重良性病變的外科切除，需搭配胃或腸道重建並注意吻合漏與肺部併發症。
 - [[procedures/exchange-transfusion|Exchange transfusion (換血治療)]] - 嚴重高膽紅素血症或溶血風險時移除 bilirubin 與抗體的高風險處置。
+- [[procedures/extracorporeal-shock-wave-lithotripsy|Extracorporeal shock wave lithotripsy, ESWL (體外震波碎石術)]] - 以體外震波碎石，常用於較小腎結石或輸尿管結石；懷孕、出血傾向、完全阻塞等為重要禁忌。
 - [[procedures/fluid-resuscitation|Fluid resuscitation (輸液復甦)]] - 以 crystalloid、blood products 或其他液體恢復有效循環容量與灌流，需依休克類型與出血量調整。
 - [[procedures/fontan-procedure|Fontan procedure (Fontan 手術)]] - 單心室循環的階段性手術終點，使體靜脈血被動進入肺循環。
 - [[procedures/gastrectomy|Gastrectomy (胃切除術)]] - 胃癌或複雜潰瘍可需部分或全胃切除，並依病灶位置與淋巴清除需求選擇重建方式。
@@ -58,6 +61,7 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/hemodialysis|Hemodialysis (血液透析)]] - 以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。
 - [[procedures/hepatectomy|Hepatectomy / liver resection (肝切除術)]] - 肝臟腫瘤或部分膿瘍/創傷可需肝切除，需評估肝功能、剩餘肝容量與腫瘤分布。
 - [[procedures/implantable-cardioverter-defibrillator|Implantable cardioverter-defibrillator, ICD (植入式心臟去顫器)]] - 預防猝死的植入式裝置。
+- [[procedures/intravenous-immunoglobulin|Intravenous immunoglobulin, IVIG (靜脈免疫球蛋白)]] - 免疫調節治療，可用於 GBS、CIDP、MG crisis 等免疫性神經疾病。
 - [[procedures/kasai-portoenterostomy|Kasai portoenterostomy (Kasai 肝門腸吻合術)]] - 膽道閉鎖早期重建膽汁引流的手術，年齡越小成功率越高，失敗或進展肝硬化需肝移植。
 - [[procedures/kidney-transplantation|Kidney transplantation (腎臟移植)]] - ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。
 - [[procedures/ladd-procedure|Ladd procedure (Ladd 手術)]] - 治療 intestinal malrotation/midgut volvulus 的手術，包含鬆解 Ladd bands、擴大腸繫膜基底、復位與 appendectomy。
@@ -81,8 +85,12 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/paracentesis|Paracentesis (腹水穿刺)]] - 用於腹水診斷、SBP 評估與大量腹水治療。
 - [[procedures/parathyroidectomy|Parathyroidectomy (副甲狀腺切除術)]] - 用於符合手術條件的 primary hyperparathyroidism 或副甲狀腺腫瘤，需監測術後低血鈣與 hungry bone syndrome。
 - [[procedures/parenteral-nutrition|Parenteral nutrition, PN/TPN (靜脈營養)]] - 經靜脈給予營養，適用於腸道不可用或需求無法由腸道滿足時，需監測感染、代謝與肝膽併發症。
+- [[procedures/partial-nephrectomy|Partial nephrectomy (部分腎切除術)]] - 保留腎功能的腎腫瘤手術，常用於小型 T1 renal mass，需依位置、大小與 R.E.N.A.L score 評估。
+- [[procedures/penile-prosthesis|Penile prosthesis (人工陰莖植入)]] - 嚴重或藥物無效 erectile dysfunction 的手術選項，可為半硬式或充氣式植入物。
 - [[procedures/percutaneous-cholecystostomy|Percutaneous cholecystostomy (經皮膽囊引流)]] - 高風險急性膽囊炎病人可用經皮膽囊引流作為橋接或替代治療。
 - [[procedures/percutaneous-coronary-intervention|Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)]] - 冠狀動脈再灌流與血管再暢通方法。
+- [[procedures/percutaneous-nephrolithotomy|Percutaneous nephrolithotomy, PCNL (經皮腎造口取石術)]] - 大型腎結石或鹿角結石常用取石術，經皮腎通道進入腎盂腎盞碎石並取出。
+- [[procedures/percutaneous-nephrostomy|Percutaneous nephrostomy, PCN (經皮腎造口引流)]] - 經皮置管引流腎盂，可用於感染性阻塞、腎積水、尿液外漏或特定介入通道。
 - [[procedures/pericardiocentesis|Pericardiocentesis (心包膜穿刺)]] - 心包膜填塞或大量積液的診斷/治療程序。
 - [[procedures/peritoneal-dialysis|Peritoneal dialysis (腹膜透析)]] - 利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。
 - [[procedures/phototherapy|Phototherapy (新生兒黃疸照光治療)]] - 以藍光將 unconjugated bilirubin 轉為可排泄異構物，降低 kernicterus 風險。
@@ -91,6 +99,9 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/psychotherapy|Psychotherapy (心理治療)]] - 透過治療關係、認知行為、支持與人際介入改善症狀、功能與復健。
 - [[procedures/pyloromyotomy|Pyloromyotomy (幽門肌切開術)]] - 肥厚性幽門狹窄的手術治療，術前需先矯正脫水、低氯與代謝性鹼中毒。
 - [[procedures/radiation-therapy|Radiation therapy (放射治療)]] - 以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。
+- [[procedures/radical-cystectomy|Radical cystectomy (根除性膀胱切除術)]] - 肌肉侵犯型膀胱癌或 BCG 失敗高風險病灶的標準手術，需合併尿路改道與骨盆腔器官切除考量。
+- [[procedures/radical-nephrectomy|Radical nephrectomy (根除性腎切除術)]] - 切除腎臟與 Gerota fascia 內容物的腎癌手術，適用於較大或不適合保腎的局部腎腫瘤。
+- [[procedures/radical-prostatectomy|Radical prostatectomy (根除性攝護腺切除術)]] - 局部攝護腺癌根治手術，切除攝護腺與儲精囊，可合併神經保留與骨盆淋巴結廓清。
 - [[procedures/radioactive-iodine-therapy|Radioactive iodine therapy (放射性碘治療)]] - 用於部分甲狀腺亢進與甲狀腺癌治療。
 - [[procedures/radiofrequency-ablation|Radiofrequency ablation, RFA (射頻燒灼治療)]] - 以熱能局部消融肝腫瘤等病灶，常用於特定 HCC 或轉移病灶。
 - [[procedures/roux-en-y-reconstruction|Roux-en-Y reconstruction (Roux-en-Y 重建)]] - 以 Roux limb 重建消化道連續性，可降低膽汁逆流但可能有 Roux stasis syndrome。
@@ -104,6 +115,10 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/thyroidectomy|Thyroidectomy (甲狀腺切除術)]] - 用於部分 Graves disease、甲狀腺結節或甲狀腺癌；需注意出血、hypocalcemia、recurrent laryngeal nerve injury。
 - [[procedures/tracheostomy|Tracheostomy (氣管造口術)]] - 建立頸部氣管通道以維持長期呼吸道、協助呼吸器照護或繞過上呼吸道阻塞。
 - [[procedures/transjugular-intrahepatic-portosystemic-shunt|Transjugular intrahepatic portosystemic shunt, TIPS (經頸靜脈肝內門體分流)]] - 以介入方式降低門脈壓，可用於選定的靜脈曲張出血或難治性腹水。
+- [[procedures/transurethral-resection-bladder-tumor|Transurethral resection of bladder tumor, TURBT (經尿道膀胱腫瘤切除術)]] - 膀胱癌初始診斷、分期與治療程序，需取得肌層以判斷是否 muscle-invasive。
+- [[procedures/transurethral-resection-prostate|Transurethral resection of prostate, TURP (經尿道攝護腺切除術)]] - BPH 常用手術治療，適合中等大小攝護腺；需注意出血、逆行性射精、尿失禁與 TUR syndrome。
+- [[procedures/ureteral-stent|Ureteral stent / double-J stent (輸尿管支架／雙 J 導管)]] - 跨越輸尿管阻塞或修補處維持尿流，常用於結石、輸尿管損傷或手術後引流。
+- [[procedures/ureteroscopic-lithotripsy|Ureteroscopic lithotripsy (輸尿管鏡碎石術)]] - 以輸尿管鏡進入輸尿管或腎盂進行雷射/氣動碎石，常用於較大或 ESWL 不適合的輸尿管結石。
 - [[procedures/vagotomy|Vagotomy (迷走神經切斷術)]] - 透過切斷 vagal input 降低胃酸分泌，傳統上用於潰瘍手術策略，常需搭配 drainage procedure。
 - [[procedures/valve-replacement-repair|Valve replacement/repair (瓣膜置換與修補)]] - 瓣膜病變可依病因、嚴重度、症狀與手術風險選擇 repair 或 replacement，並需考慮抗凝需求。
 - [[procedures/ventriculoperitoneal-shunt|Ventriculoperitoneal shunt, VP shunt (腦室腹腔分流術)]] - 將腦室 CSF 分流至腹腔以治療 hydrocephalus。

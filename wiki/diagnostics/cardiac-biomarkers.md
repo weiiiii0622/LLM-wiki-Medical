@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch11]]"
@@ -27,6 +27,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Cardiac biomarkers (心肌酵素)'
   - 'Cardiac biomarkers'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,13 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- ...Ketoconazole | Adrenal Gland | Decreases Androgen SynthesisFrom Steroid PrecursorsThrough Inhibition ofCytochrome P450 Enzymes | Administration Requires Steroid Supplementation to Prevent Adrenal Insufficiency | Precursors Oytochrome P450 Andro | | Androgen ReceptorAntagonists | FlutamideBicalutamideNilutamide | Prostate Gland | Inhibits Andro Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (3) Nitrofurantoin: (Nitrofurantoin®) - a. 優點:對 G(-) 菌叢、Staphylococci、Enterococci species 有良好效果,治療 UTI 效果佳且價格便宜。近年來使用率增加。 - b. 缺點:對 Pseudomonas 和 Proteus 無效。 - c. 機轉:抑制 bacterial enzyme pathways 和 DNA 活性。 - d. 禁忌:不可用於孕婦(造成胎兒溶血或 G6PD deficiency)。 - e. 特殊副作用:注意週邊神經病變。長期使用會使肺部過敏性反應及間質病變; 肝毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (C) Mycophenolate mofetil (MMF) 為 calcineurin inhibitor, 在體內由肝臟之 cytochrome p450 enzymes 負責代謝 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (1) 血液生化檢查:心肌酵素(creatine phosphokinase, lactate dehydrogenase)在急性或慢性心肌炎可能會提高。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) 3. 關於 21- 羥酶缺乏(21-hydroxylase deficiency)所致之先天性腎上 104( 二 ) 專 腺增生(congenital adrenal hyperplasia)的敘述,下列何者正確? 醫四 -17 - (A) 男嬰的外陰部會出現性器混淆(ambiguous genitalia) - (B) 大多數患兒會出現電解質失調(electrolyte disturbance) - (C) 男童比女童易罹患此症 - (D) 臨床上常以 21- 羥酶酵素活性 (enzyme activity) 的測定作為 診斷的依據 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

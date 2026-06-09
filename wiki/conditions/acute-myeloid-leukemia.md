@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Acute myeloid leukemia, AML (急性骨髓性白血病)'
   - 'Acute myeloid leukemia, AML'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-骨髓系 blast 增生的急性白血病，治療依 cytogenetics/molecular risk 分層。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓系 blast 增生的急性白血病，治療依 cytogenetics/molecular risk 分層。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,13 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (1) 腎臟實質腫瘤 (renal parenchymal neoplasm): - a. 良性腫瘤 (benign): - (a) 嗜酸細胞瘤 (oncocytoma) (占所有腎腫瘤 4%)。 - (b) 血管肌肉脂肪瘤(angiomyolipoma, AML)=畸形瘤(hamartoma)。 - b. 惡性腫瘤 (malignant): - (a) 腎細胞癌 (RCC): 85%。 - (b) 轉移癌 (secondary tumor): 15%。 - (c) 兒童 Wilms' tumor。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 【詳解】AML 在電腦斷層呈黑色 (-50 HU =皮下組織脂肪的 顏色)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...可採定 | 103(二)專醫五-66 | | (A) 4 公分 | (B) 6 公分 | | | (C) 8 公分 | (D) 10 公分 | | | (D) 20. 一位 35 歲女性被診斷出腎 | 腎臟有 angiomyolipoma(AML),下列 | 103(一)專 | | 敘述何者錯誤? | | 醫五-66 | | (A)使用超音波或電腦斷層 | 層診斷此症比用血管攝影方法準確 | | | (B) 若為 tuberous sclerosis多發性 | s 患者罹患 AML,則 AML 常為雙側且 | | | | 自發性破裂引發後腹腔出血 | | | • • • • • • • • • • • • • • • • • • • • | 若罹患 AML,其 AML 病理組織 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - II. 急性骨髓性白血病 (Acute Myelogenous Leukemia, AML) 374 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 1. 良好的預後(standard risk): - (1) 發病年紀在 1~9 歲間。 - (2) 發病時 WBC 50 個染色體) 合併 trisomy 4、10 和 17; t (12; 21) /TEL-AML 1 fusion gene。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -60,7 +65,6 @@ tags:
 - (A) 2. 高尿酸血症(hyperuricemia)是造成痛風(gout)的最主要原因, 108(-)專 下列關於造成高尿酸血症的敘述何者正確? 醫三-29 - (A) hypoxanthine phosphoribosyl transferase (HPRT) 基因位在 X 染色體上,當此基因突變時會造成高尿酸血症 - (B) uric acid 由肝臟代謝,因此肝臟功能不全時會造成高尿酸血症 - (C) 利尿劑(diuretics)會增加尿酸從尿液排出而降低血中尿酸 - (D) acute myeloid leukemia(AML)在化學治療時會產生高尿酸血症,因此可用 benzbromarone 來預防高尿酸血症 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - ...ine (CCNU) | 延遲的骨髓抑制 | | | | | 4 4 12 | Doxorubicin→淋巴瘤 (CHOP)、乳癌、肉癌 | | | | | Antitumor | Anthracycline | Idarubicin → AML (BA7), Epirubicin →乳癌 | 心毒性、發泡劑 ( | | | | Antibiotics | | Mitoxantrone(Novantrone 小藍莓)→前列腺癌 | 心毒性(較少)、發泡劑(冰敷) | | | | rindolotics | | Bleomycin →何杰金式瘤 (HD)(ABVD) | 肺纖維化、發泡劑(冰敷) | | | | | | Mitomycin C (MMC)→膀胱癌 (注入膀胱) | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (2) 藥物: - a. Doxorubicin (= Hydroxydaunorubicin、Adriamycin®):用於淋巴瘤(CHOP)。 - b. Idarubicin: Anthracycline 類中, Idarubicin 對白血病(AML、I3A7)較有效。 - c. Epirubicin:心臟毒性較小。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- 2. 模仿嘧啶 (Pyrimidine antagonist): 胞嘧啶 (Cytidine) 類似物 - (1) Cytosine arabinoside = Ara-C®→血癌(AML,「A7」) - a. 結構似胞嘧啶(cytosine),在體內轉變成活化型三磷酸酯(ara-CTP),抑制 DNA 聚合酶(DNA polymerase),或卡在新合成的 DNA 中,防止其延長。 - b. 除了造成噁心嘔吐外,還可能造成結膜炎(Chemical conjuctivitis)、小腦性共濟 失調(Cerebellar ataxia),所以注射 High dose Ara-C 的病患會每兩個小時點類固 醇眼藥水、經常詢問走 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 
 ## Clinical Caveats
 

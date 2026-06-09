@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch09]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Lithium (鋰鹽)'
   - 'Lithium'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血中濃度、腎功能、甲狀腺與交互作用。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血中濃度、腎功能、甲狀腺與交互作用。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血�
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...nderline{\mathbf{A}}$ nticonvulsant, $\underline{\mathbf{\beta}}$ blocker, | CCB | | 預防 | 肌肉鬆弛劑 | CCB, Antidepressant | 鋰鹽 (Lithium) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (2) 慢性預防: CCB、鋰鹽(lithium)。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].

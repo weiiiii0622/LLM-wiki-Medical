@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch04]]"
@@ -23,6 +23,8 @@ sources:
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Pseudohyponatremia (假性低血鈉)'
   - 'Pseudohyponatremia'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,15 @@ tags:
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- c. 慢性(chronic):定義是腎功能隨時間逐漸衰退的現象,最快發生在移植六個月後。影響因子是多方面的,包括 HLA 配對程度低、有抗 HLA 的抗體存在、年紀大、發生過排斥反應、之前移植腎失敗的病史、種族(衰退度:亞洲人>白人>黑人)、共病(糖尿病、肥胖、高血脂)、免疫製劑使用。這些因子會使移植腎結疤、纖維化,最後造成慢性移植腎腎病變(chronic allograft nephropathy, CAN)。治療方法為症狀控制(血壓與蛋白尿)但效果有限,因此術後 5~10 年以上移植腎存活率一直無法有效增加。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...cules): - i. 干擾核內信息傳遞(Intracellular signaling): - (i) 皮質類固醇(Corticosteroid):免疫製劑的基礎,從多方面影響免疫系統,減緩淋巴結和骨髓的淋巴細胞反應。副作用包括高血壓、高血脂、高血糖、體重增加、骨質疏鬆、傷口癒合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 生:生毛、生(昇)血壓及生牙齦)。副作 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (c) 動脈血管方面(Arterial):外傷;先天性血管疾病;系統性血管疾病(如 高血壓或高血脂症,易使血管硬化,血液不足)。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- ...每位病人應接受夜間陰莖勃起試驗(nocturnal penile | 醫五 -70 | | tumescence test) | | | (B) 要補充男性荷爾蒙 | | | (C) 第一線檢查應使用彩色都卜勒超音波 | | | (D) 高血脂、糖尿病及高血壓會引起海綿體血管內皮細胞功能失調 | | | (C) 12.60 歲丁先生,由於勃起時硬度夠,但無法持久而來就診,陰莖 | 105(一)專 | | 海綿體血流量檢查發現其海綿體動脈血流正常,但有靜脈溢漏 | 醫五 -70 | | (venous leakage )現象,最可能的病因是: | | | (A) 陰莖海綿體神經病變 | | | (B) 良性前列腺肥大 | | | (C) 陰莖海綿體平滑肌病變 | | | (D) Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...| 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (4) 另外年紀大、男性、高血壓、抽菸、高血脂、genetic (Marfan syndrome) 皆為 危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (#) 1. 動脈瘤形成的危險因素不包括下列何者? 108( ) 專 (A) 高年齡 (B) 男性 (C) 高血脂 (D) 糖尿病 醫五 -22 【詳解】皆是危險因子,故送分。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
@@ -77,10 +85,6 @@ tags:
 - ...gE 與過敏原結合,便會引發皮膚中或血液中肥大細胞(mast cells)的活化反應,使組織胺(histamine)從細胞中釋放出來,進而使得皮膚中的血管擴張、組織腫脹,也會興奮神經引起厲害的癢感。常見過敏原如下: - (a) 食物:海鮮、高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dyes, benzoates, salicylates)、核桃、巧克力、菇、筍。 - (b) 藥物: 抗生素(Penicillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Comp Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 【詳解】病人血氨上升代表病人肝臟 urea cycle 代謝出問題,(B)(C) 接有可能。但是 (C) 為性聯遺傳疾病,只有男性才會得到,因此 (C) 最不可能。Aspirin 在兒童常見的併發症為 Reye syndrome,此疾病的特點為 rapid and progressive encephalopathy 以及肝功能異常。Aspirin 其他副作用包括 metabolic acidosis、hyperglycemia、hyperkalemia、hypernatremia、hypoglycemia、edema、hypotension、arrhythmia、coma、confusion、dizziness、rhabdomyolysis、hemolytic anemia、thrombocytopenia。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (c) Cyclosporine 最常見的副作用包括減低腎臟功能、血壓升高、升高血脂肪濃 度、毛髮過度生長、上臂及腳部刺痛及灼熱感、牙齦增生等。Tacrolimus 常 見的副作用包括腎毒性、腹瀉、誘發糖尿病等。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...nsplantation)用來預防移植物反宿主疾病(graft-versus-host disease)的重要免疫抑制劑,下列何者不是 CsA 常見的副作用? (A) hypertension (B) hyperlipidemia (C) hyperglycemia (D) nephrotoxicity | 105(一)專醫三-45 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...i」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- ...人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- ...oidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 

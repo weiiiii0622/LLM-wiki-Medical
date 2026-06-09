@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch09]]"
@@ -18,6 +18,8 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Vancomycin (萬古黴素)'
   - 'Vancomycin'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴重 GPC 感染。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book2-ch11]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- (a) 先用廣效的經驗性抗生素 ampicillin/vancomycin + aminoglycoside/ 3rd cephalosporin。(因為不易從尿液或血液培養得到正確致病菌) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...----------| | Gram-positive cocci | | | | Staphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Streptoco Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (D) 11. 承上題,此時最好的暫時處理方式為何? 100(一)專 (A) 給予口服抗生素治療即可痊癒 醫五-9 (B) 經肛門及陰道指診確認後,直接經陰道修補 (C) 停止使用其他抗生素,改用 vancomycin 治療 (D) 經肛門及陰道指診確認後,先進行大腸造口 【詳解】以往處理方式為直接修補,但治癒率不好且常因癒合 不良需重新開刀。所以現在處理方式為給予抗生素預防 sepsis, 並且作腸造口預防 fistula 受到汗染。大部分的 fistula 可以自行 癒合,而無法癒合的則視情況再進行手術修補。 (D) 12. 最常造成大腸-膀胱瘻管的病因是下列那一個? 100(一)專 (A) 大腸癌 醫五-55 (B) Crohn's 症 (C) Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - ...ridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...minated(D) dirty and infected | 107(二)專醫五-5 | | (A) | 9. | 有關各種抗生素作用機轉的敘述,下列何者正確? (A) cephalosporins 是抑制細菌細胞壁的合成與發展 (B) vancomycin 是抑制細菌蛋白質的合成 (C) rifampin 是抑制細菌去氧核醣核酸(DNA)的合成 (D) quinolones 是抑制細菌核糖核酸(RNA)的合成 【詳解】(B) 抑制細菌細胞壁的合成;(C) 抑制 DNA-dependent RNA polymerase 的活性;(D) 抑制 DNA 合成。 | 106(二)專醫五-63 | | (C) | 10. | 與腹腔內感染(intra-abdominal infections)相關 Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -69,8 +75,6 @@ glycopeptide 抗 GPC 藥物，用於 MRSA、抗藥性腸球菌相關情境與嚴
 - (2) Methicillin 是這類藥物中結構較不穩定的藥物,現在已不再生產。但對於這類藥物 又產生抗藥性的 *S. aureus* 當初稱為 Methicillin resistant *S. aureus*(MRSA),雖現無 此藥,但此名詞沿用到現在。針對 MRSA 需用到更後線藥物:Vancomycin。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ## F. Glycopeptides 類: Vancomycin, Teicoplanin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - #### 1. Glycopeptide 類: Vancomycin, Teicoplanin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...有裝 CSF shunt 需懷疑 S.(clusters)epidermidis; 若剛開完刀或頭部外傷 | | MSSA | Oxacillin | | | | | | , | 過後發生腦膜炎需懷疑 S. aureus | MRSA | Vancomycin | | Haemophilusinfluenzae | (又圓又桿) | 自從孩童普遍接種 H. influenzae type b疫苗,發生率已減少 | | Ceftriaxone | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- 2. 肺炎雙球菌導致的腦膜炎需根據抗藥性狀況,選擇抗生素(重要,常考!!)。 - (1) 完全沒有抗藥性可考慮 IV high dose penicillin。 - (2) 一般經驗性用藥需使用第三代cephalosporin最好的選擇是Ceftriaxone(Rocephin®)。 - (3) 高度抗藥性,需加上 Vancomycin。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch02]]"
@@ -21,6 +21,8 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Methotrexate, MTX (甲氨蝶呤)'
   - 'Methotrexate, MTX'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,14 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- c. 系統性疾病:使用化療藥物。主要的化療藥物:bleomycin、methotrexate、cisplatin 或 5-fluorouracil。放射線治療效果不彰。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (1) 疾病初期可使用局部或是全身性的類固醇及免疫抑制劑(如 MTX, tacrolimus等)來控制發炎。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - b. Methotrexate (MTX):它的療效快速,服用劑量低,所以很適合無法吞太多藥物的老人家。但它有肝毒性,故無法長期服用,有些人會有嚴重的噁心嘔吐,故腎功能不好者需小心使用。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
@@ -74,9 +81,6 @@ tags:
 - | 比較化藥配方 | Folinic acid (Leucovorin) 目的 | |----------------------------------|-------------------------------| | MTX + Folinic acid (Leucovorin) | 拯救 (Rescue) 毒性 | | 5-FU + Folinic acid (Leucovorin) | 加強 (Synergistic effect) 殺腫瘤效果 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (1) 這類藥物毒性較強,所以建議於 MTX 等 DMARD、生物製劑無效者,再考慮使用; 或病患發生血管炎時,常需使用免疫抑制劑治療。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - ...主訴兩側手腕關節及手指關節腫痛已 3 個多月。抽血檢查,ESR 及 CRP 皆明顯上升,且類風濕因子也呈陽性。雙手 X 光也發現關節邊緣性腐蝕現象。此時,除給予消炎止痛劑 (NSAID) 外,最適宜再給予的免疫調節劑為下列那一種? (A) methotrexate (B) cyclosporine (C) cyclophosphamide (D) azathioprine | 103(二)專醫三-8 | | (B) | 8. 下列何者對 Cyclooxygenase (COX)-2 之選擇性抑制性最高? (A) 阿斯匹靈(Aspirin) (B) Celecoxib (C) Ibuprofen (D) Indomethacin | 102(一)專醫三-2 | | (C) | 9. 下列有關 Rh Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...會延緩疾病(Erosion)進展。 | 94(三)檢內-45 | | (A) 17 | . 下列何種治療類風濕性關節炎的藥物,較容易導致結核菌的復發或感染? (A) tumor necrosis factor inhibitors (B) methotrexate (C) sulfasalazine (D) leflunomide 【詳解】結核菌的復發或感染就是這個新藥 tumor necrosis factor inhibitors (Enbrel®) 最大的擔憂。因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則被抑制,便較無法攻擊細胞內的病原體。 | 94(二)專內1-22 | | (B) 18 | . 依流行病學的調查顯示,下列那一種疾病的盛行率(prevalence Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...> 2 cm $\cdot$ Tumor > 1 cm with ER/PR(-) $\cdot$ Tumor > 0.5 cm with Her2(+) $\circ$ - (b) 傳統上為 CMF (Cyclophosphamide, MTX, 5-FU); - (c) 後來發現加上 Anthracycline 類雖增加心臟毒性,但可更有效控制疾病,所以 改成 CEF(Cyclophosphamide Epirubicin, 5-FU); - (d) 近來在 LN(+) 病人身上,加上 Taxane 類可改善存活,目前美國最常用的組合是 AC+T(Adriamycin, Cyclophosphamide, Taxane) 或 TC(Taxane+ Cyclophospham Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (C) 4. 一位 40 歲女性乳癌病人,手術後經過 6 次化學治療包括 5-fluorouracil, 105( 二 ) 專 methotrexate 和 cyclophosphamide,此位病人長期最可 能發生的副作 醫三 -41 用為何? - (A) 心臟毒性 - (B) 白血病 - (C) 提早停經 - (D) 神經毒性 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

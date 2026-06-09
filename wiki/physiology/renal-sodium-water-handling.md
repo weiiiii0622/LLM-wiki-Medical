@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Renal sodium and water handling (腎臟鈉水處理)'
   - 'Renal sodium and water handling'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,13 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- 1. 有功能的腫瘤-切除。(僅20%意外瘤有功能。—開始最初步基本的實驗室檢查有:抽血驗 K/aldosterone/renine、testosterone;驗 24 小時尿的 cortisol、VMA(以上如果有任何一項超標,進一步做相關檢查,常見且較為重要的有功能腫瘤皆收錄於 II 及 III 大項,包含各項進一步檢驗) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 1. 病理:因醛固酮瘤(aldosteronoma)或因腎上腺皮質的絲狀帶過度增生,導致醛固酮(aldosterone)過量。最常見的原因是自發性增生(Idiopathic hyperplasia),佔60%。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 2. 臨床表徵: - (1) 症狀:常見的有高血壓、低血鉀(但僅25%人有)、頭痛、夜尿。 - (2) 實驗室數據: - a. 初步判斷:血鉀≤3 mEq/L。 - b. 精確診斷: 敏感度 90%, 特異性 90%。 - (a) 血中 aldosterone: renin (即 PRA) > 30:1。(醛固酮上昇 +renin 下降)。 - (b) 血中 aldosterone > 15 ng/dL。 - i. 意義:血清(與尿液)呈現醛固酮 (aldosterone) 升高,血漿 renin (PRA = Plasma Renin Activity ) 活性下降,可以認定為原發性 aldosteronism。 - c. 更進一步確認:24 小時尿中醛固酮(aldosterone lev Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 1. 血液 aldosterone 濃度過高。Aldosterone 的生理作用是留鈉、排氫、排鉀。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -64,9 +69,6 @@ tags:
 - 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (3) Salt losing form 臨床上常表現典型 cortisol 與 aldosterone 缺乏症狀,但通常要出生後 1~2 週才會有表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...drenal crisis,因此篩檢重點在於 classic type。而 classic type 又可分為 saltwasting CAH 與 simple virilizing CAH。其中 salt-wasting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...-----------------------------|--------| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syn Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 
 ## Clinical Caveats
 

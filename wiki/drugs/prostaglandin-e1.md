@@ -2,11 +2,12 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Prostaglandin E1, PGE1 (前列腺素 E1)'
   - 'Prostaglandin E1, PGE1'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-用於維持 PDA 開放以穩定 ductal-dependent congenital heart disease。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於維持 PDA 開放以穩定 ductal-dependent congenital heart disease。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- (e) 海綿體內注射 / 刺激(combined intracavernous injection and stimulation, CIS):同時可當診斷和治療方式,將血管擴張劑(papaverine、regitine 或 PGE1)注入陰莖的海綿體內。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (c) 陰莖局部治療: - i. 真空吸引器 (vacuum constriction device)。 - ii. Prostaglandin E1 (PGE1):塞入尿道,由尿道黏膜吸收,經尿道海綿體渗透到陰莖海綿體,達到血管擴張的效果。 - iii. 海綿體內注射 (intracavernous injection): 長期注射會導致持久勃起 (priapism)或陰莖纖維化,有papaverine (最易造成持久勃起 (priapism))、phentolamine methylate (Regitine)、alprostadil (prostaglandin E1)。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (7) 處置:藥物可給予前列腺素(PGE1)維持動脈導管的通暢,以減緩陣發性呼吸 困難(缺氧性)。但如須完全矯正仍需要手術。 - a. 完全矯正手術 (total correction): - (a) 將 VSD 修補以及右心室出口或肺動脈狹窄處擴大術,以心包膜片(pericardial patch)來擴大狹窄的肺動脈瓣環(pulmonary valve annulus)。但假 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - a. 緊急處置可給予 PGE1 維持動脈導管的通暢,或經由心導管進行氣球心房中膈造口術(balloon atrial septostomy),使左右心房的血液混合改善血中氧氣濃度。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (3) 處置:作氣球心房中膈造口術使右心房的血流能流往左心,同時使用 PGE1 維持動脈導管暢通。開刀方面,嬰兒時期先做血管分流手術,三到四歲間則可作 (a) 改良的 Fontan 式手術,連接右心室及右心房,並關閉心房及心室中膈缺損。(b) Fontan 術式:將病人的右心房或右心房的心耳連接到肺動脈上,如此右心房的血就能夠直接流到肺部去行氣體交換。(c)全靜脈一肺動脈吻合術:將上腔靜脈及下腔靜脈與肺動脈直接相連接。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

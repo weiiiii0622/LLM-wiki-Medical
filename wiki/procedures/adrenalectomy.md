@@ -2,9 +2,10 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Adrenalectomy (腎上腺切除術)'
   - 'Adrenalectomy'
@@ -19,14 +20,18 @@ tags:
 
 ## Summary
 
-用於部分功能性腎上腺腫瘤或疑似惡性病灶；pheochromocytoma 術前需充分 alpha blockade。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於部分功能性腎上腺腫瘤或疑似惡性病灶；pheochromocytoma 術前需充分 alpha blockade。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- (1) 手術切除:效果良好,60% 人血壓回復正常。但若時間久了才治療降壓效果可 能有限,因為全身血管彈性已改變。另外原發性高醛固酮症腎上腺切除術後持 續性高血壓的預測因素包括: - a. (i) 50 歲以上; (ii) 術前有兩種以上高血壓藥物; (iii) 一等親有高血壓; (iv) 腎 上腺切除術前高血壓持續時間較長;(v)腎功能不全。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- (1) Cushing's Disease:經蝶竇切除異常的腦下腺,80%成功率(考古:不是95%!!)。若不成功可考慮雙側腎上腺切除手術。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- (3) 腎上腺腺瘤或癌症:腎上腺切除。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - (D) 如果原發性高醛固酮症的患者手術前有合併低血鉀症,腎上腺切除手術後血鉀會很快恢復正常 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 
 ## Clinical Caveats

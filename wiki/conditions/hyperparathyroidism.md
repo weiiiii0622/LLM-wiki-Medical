@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book3-ch02]]"
@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch24]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Hyperparathyroidism (副甲狀腺亢進)'
   - 'Hyperparathyroidism'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch24]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - B. 副甲狀腺機能亢進(Hyperparathyroidism, HPT) 220 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - 3. 主細胞(chief cell):較多且小,製造副甲狀腺素(PTH)。嗜酸細胞(oxyphil cell):較少、較大,功能未知。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - 4. PTH 功能:增加血鈣濃度(活化破骨細胞、抑制成骨細胞、抑制腎排鈣、促進腎排磷)。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -62,7 +65,6 @@ PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁
 - | Low PTH Levels | Parathyroid agenesis | Isolated | |-------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | 疾病 | PTH | 血磷 | | |---------------|------------|-----|--------------------------------------------| | 副甲狀腺機能亢進(最常見) | ↑ ↑ | ↓ | 80% 腺瘤 (Adenoma);增生 (Hyperplasia) 要考慮有 MEN | | 惡性腫瘤(第二常見) | 1 | 不一定 | 腫瘤轉移直接侵犯骨或分泌 PTH-rP (鱗狀細胞癌) | | 維他命 D 過多 | ↓ | 1 | 肉芽腫病變 (結核或類肉瘤病) | | 藥物 | 不一定 | 不一定 | 以 Thiazide 類利尿劑 ** 最常見、鋰鹽 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | Excessive PTH | Primary hyperparathyroidism (adenoma, hyperplasia, rarely carcinoma) | | | |---------------------|----------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...ica) | 無動力性骨病變(Adynamic bone disease) | 骨軟化症(osteomalacia) | | 病因 | 腎衰竭→磷高鈣低→ 2 nd 副甲狀腺機能亢進 | 服用過多 VitD 或鈣、使用高鈣透析液→過度抑制 PTH(好發於老人、DM;近年來漸增) | 磷高→含鋁的磷結合劑*故現已不用含鋁的磷結合劑。 | | 骨頭 | → High bone turnover | → Low bone turnover | → Low bone turnover | | 變化 | → Osteitis fibrosa cystica | → Adynamic bone dz. | → Osteomalacia | | 症狀 | Bone pain & fractu Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

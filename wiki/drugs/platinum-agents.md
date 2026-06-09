@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Platinum agents (鉑類化療藥)'
   - 'Platinum agents'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (e) 免疫治療: - i. 對於不適用 cisplatin 化學治療的病人,腫瘤若表現 PD-L1 基因可第一 線考慮使用 Atezolizumab 或 Pembrolizumab 免疫治療 - ii. 在 Cisplatin-based 化學治療失敗後,第二線可考慮 Pembrolizumab - iii. 對於第一線使用 Pembrolizumab 治療,腫瘤仍無法控制的病患,後續 Carboplatin/Gemcitabine 化學治療依然可使用 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- c. 系統性疾病:使用化療藥物。主要的化療藥物:bleomycin、methotrexate、cisplatin 或 5-fluorouracil。放射線治療效果不彰。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 6. 治療:以廣泛性胸腺切除手術為主要治療方式,因即便腫瘤有完整包膜,也經常有局部侵犯,故須廣泛性切除。以正中胸骨切開術為最佳進入方式,並放置手術夾標記腫瘤範圍,以便術後放療治療定位。較大或侵犯性腫瘤,化療反應極佳70~100%。 - (1) Stage I:以手術完全切除。 - (2) Stage II & III: 手術加上放療。 - (3) 腫瘤大於 5 公分、局部侵犯、無法切除的腫瘤、轉移性腫瘤:先化療、再手術切除、再追加放療。 - (4) 化療:對 Cisplatin-based 化療藥治療有非常良好的反應。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...-------------------------------|-----------| | | (A) 前上縱隔腔最常見的縱隔腔腫瘤 | 醫五-21 | | | (B) 第二期的胸腺瘤開刀切除後,常須加上放射治療 | | | | (C) cisplatin 的化療效果對其治療效果不佳 | | | | (D) 大部分重肌無力症(myasthenia gravis)無合併胸腺瘤 | | | | 【詳解】(C) 反應極佳,(D) 胸腺瘤常合併 M.G.,反過來則否。 | | | (C) | 3. 有關胸腺瘤之敘述,下列何者錯誤? | 103(二)專 | | (-) | (A) 手術切除是主要的治療方法 | 醫五 -31 | | | (B) 重症肌無力是最常伴隨的 paraneoplastic Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 【詳解】(C) FOLFOX 分別為 FOL—Folinic acid(leucovorin)、F—Fluorouracil(5-FU)、OX—Oxaliplatin(Eloxatin),作為 adjuvant chemotherapy 可改善 Duke C(stage III)患者存活率。(D) EGFR 會促進細胞增生或轉移,當使用 anti-EGFR 時可阻斷癌細胞增生和轉移,但是 RAS mutation(KRAS mutation)可以直接促進癌細胞增生轉移,因此對於 anti-EGFR 的治療效果就比較差。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

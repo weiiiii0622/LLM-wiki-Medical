@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch08]]"
@@ -15,6 +15,8 @@ sources:
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Nephrolithiasis (腎結石)'
   - 'Nephrolithiasis'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,15 @@ tags:
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (c) 術後: - i. 併發症:常有血尿、術後一周內會緩解觀察即可;若有嚴重疼痛或發 燒需查原因:0.5%人產生血腫、另外也有可能是結石打碎卻一起堵 在輸尿管導致。 - ii. 三個月內結石清除(stone free)率:整體來說 75%。會受到結石大小 與位置影響。 - (i) 結石≥ 1.5 cm 的清除率:腎盂 75%、下腎盞 35%。 - (ii) 結石 2 cm 腎結石首選。若較複雜結石可能需數次 PCNL 來清除結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (A) 2. 形成含鈣腎結石 (calcium nephrolithiasis) 最常見的原因有那些? 109( ) 專 ①尿中鈣離子濃度增加 ②尿中尿酸濃度上升 ③尿中草酸鹽 醫五 -64 (oxalate) 濃度上升 ④尿中檸檬酸鹽 (citrate) 濃度上升 - (A) (1)(2)(3) Source: [[sources/med5-book5-ch05|戊、結 石]].
+- ...尿液 | 醫五-64 | | | (low urine pH) | | | | (B) 感染性結石 (infection stone) 在酸性尿液 (low urine pH) 中 | | | | 較易形成 | | | | (C) 成年男性腎結石發生率較成年女性高 | | | | (D) 尿路結石的發生率與體重和身體質量比(BMI)有關 | | | (CD) 9 | 9. 下列關於胱氨酸結石(cystine stone)的敘述,何者錯誤? | 105(二)專 | | | (A) 自體隱性遺傳(autosomal recessive) | 醫五 -64 | | | (B) 發生率為 1~2% | | | | (C) 預防結石生長及復發要酸化尿液 | | | | (D) 沒有已知的 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- | | 生病患接受透析(dialysis)治療登記腎尿系統方面的問題(腎結石以及血尿), | | |-----------------------------------------|----------------------------------------------|------------------| | 下列何種檢查宜避免? | | | | (A) 接受使用 gadolinium ( | 作核磁共振造影檢查 | | | (B)接受靜脈注射顯影劑( | 故電腦斷層檢查 | | | (C) 安排腎臟 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...腸癌機率 High risk: 10~30% | | Low risk: 7% (stricture site) | | | | 腸外症狀 | 關節炎、虹膜炎、壞疽性膿皮、硬化性膽管炎 | 關節炎、虹膜炎、肛裂、肛門瘻管、肛圍膿瘍、膽結石、腎結石 | | | | 診斷 contrast X-ray、endoscopy、biopsy | | endoscopy \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Less effective | | | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 3. 症狀:腎結石、骨質疏鬆、高血壓、四肢無力、多尿、情緒不穩定。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
@@ -66,7 +74,16 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/cystine-stone|Cystine stone (胱氨酸結石)]]
+- [[procedures/extracorporeal-shock-wave-lithotripsy|Extracorporeal shock wave lithotripsy, ESWL (體外震波碎石術)]]
+- [[procedures/percutaneous-nephrolithotomy|Percutaneous nephrolithotomy, PCNL (經皮腎造口取石術)]]
+- [[procedures/percutaneous-nephrostomy|Percutaneous nephrostomy, PCN (經皮腎造口引流)]]
+- [[conditions/staghorn-calculus|Staghorn calculus (鹿角結石)]]
+- [[conditions/struvite-stone|Struvite stone (磷酸胺鎂感染性結石)]]
+- [[procedures/ureteral-stent|Ureteral stent / double-J stent (輸尿管支架／雙 J 導管)]]
+- [[conditions/ureteropelvic-junction-obstruction|Ureteropelvic junction obstruction, UPJO (輸尿管腎盂接合處阻塞)]]
+- [[procedures/ureteroscopic-lithotripsy|Ureteroscopic lithotripsy (輸尿管鏡碎石術)]]
+- [[conditions/uric-acid-stone|Uric acid stone (尿酸結石)]]
 
 ## Follow-up
 

@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Congenital adrenal hyperplasia, CAH (先天性腎上腺增生)'
   - 'Congenital adrenal hyperplasia, CAH'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-腎上腺類固醇合成酵素缺陷，常見 21-hydroxylase deficiency，可有鹽分流失與性分化異常。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎上腺類固醇合成酵素缺陷，常見 21-hydroxylase deficiency，可有鹽分流失與性分化異常。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- ...】(C)、(D) 給分。 | | | (A) 10. 下列何者是女性假性陰陽人 (female pseudohermaphroditism) | 106 (一) 專 | | 最常見的原因? | 醫五 -71 | | (A) 先天腎上腺增生(congenital adrenal hyperplasia) | | | (B) 母親懷孕時服用男性荷爾蒙 | | | (C) Klinefelter's syndrome | | | (D) Turner's syndrome | | | 【詳解】新生兒陰蒂肥大 (Clitoral hypertrophy in the newborn), | | | 暗示先天性腎上腺增生(congenital adrenal hyperplasia);其他病 | | | 因包括母親中的神經纖維瘤(neuro Source: [[sources/med5-book5-ch08|辛、男性學]].
 - IV. 腎上腺一先天性腎上腺增生 287 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - # IV. 腎上腺 - 先天性腎上腺增生 (Congenital Adrenal Hyperplasia, CAH) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
@@ -46,6 +49,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/adrenal-androgen-excess|Adrenal androgen excess (腎上腺雄性素過多)]]
 - [[concepts/newborn-screening|Newborn screening (新生兒篩檢)]]
 
 ## Follow-up

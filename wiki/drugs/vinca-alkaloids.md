@@ -2,11 +2,12 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch13]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Vinca alkaloids (長春花生物鹼)'
   - 'Vinca alkaloids'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-抑制微小管聚合，常見神經毒性與外滲風險。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制微小管聚合，常見神經毒性與外滲風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch13]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...| Irinotecan (CPT11)→大腸癌 | 腹瀉(加 Atropine 預防) | | | U2 | inhibitors | Topo II* | Etoposide (VP-16) →小細胞肺癌 | | | | | | | Vincristine (Oncovin)→淋巴瘤 (CHQP) | Show that We have a thirty a | | | . . | A | ⊖ 聚合 | Vinblastine →何杰金式瘤 (ABMD) | 神經毒性、發泡劑(熱敷) | | | M | Antimitotic | | Vinorelbine(Navelbine) →肺癌 | 便秘 | | | | | ⊖解聚 | | 神經毒性、過敏;Doce.(水腫) | | | G1 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - 長春花生物鹼(Vinca alkaloid):使微小管分解(Disaggregated)→導致微小管無法 聚合 - (1) Vincristine (Oncovin® 敏克瘤) → NHL (CHOP) - a. 強力的糜爛性毒劑(Powerful vesicant)靜脈注射不慎外滲時會造成皮膚壞死,須予熱敷。 - b. 常見四肢末端麻木、胃腸道蠕動下降等神經毒性(glove-and-stocking neuropathy)。 - (2) V Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - | 分 類 | 發泡劑 | 藥 物 | |-----|-------------------------------|-----------------------------------------------------------------------------------------------| | 冰敷 | Anthracycline 類[-rubicin] | Daunorubicin、Doxorubicin (Adriamycin ® )、Epirubicin、Idarubicin* 口訣:小紅莓要冰敷。 | | 熱敷 | Vinca alkaloids 類[Vin-] | Vinblastine · Vincristine Vinorelbine (Navelbine®) | Source: [[sources/med3-book4-ch19|乙、化學治療]].

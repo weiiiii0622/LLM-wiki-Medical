@@ -63,6 +63,9 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch10]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Multiple myeloma, MM (多發性骨髓瘤)'
   - 'Multiple myeloma, MM'
@@ -77,7 +80,7 @@ tags:
 
 ## Summary
 
-漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -140,9 +143,16 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch10]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- (D) 29. 病患 32 歲女性,第一型糖尿病合併尿毒症,於 6 個月前接受胰腎同時移植。2 星期前因急性排斥,接受 3 天的高劑量類固醇(prednisolone 500 mg)靜脈注射,最近因發燒至 39.5℃,呼吸急喘,乾咳,肺部 X 光呈現兩側對稱性下肺部浸潤(bilateral symmetric lower pulmonary infiltration),血液白血球為 3,400/mm³。此病人之診斷最可能為何? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...生為其安 | 醫五-65 | | 排靜脈尿路造影(intravenous pyelography, IVP),結果發現在其 | | | 左側腎盂有積水,顯影劑的排泄時間慢於對側腎臟。其血液白 | | | 血球為 $21,500/\text{mm}^3$ , $N/L = 92\%/6\%$ 。請問以下何者為較佳之 | | | 處置? | | | (A) 應安排超音波檢查以確定積水嚴重的程度 | | | (B) 應安排電腦斷層掃描,以鑑別其為結石或是腫瘤 | | | (C) 應安排經皮腎盂穿刺造瘻(percutaneous nephrostomy)以引 | | | 流腎盂積液 | | | (D) 應安排緊急輸尿管鏡手術 | | Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- d. 治療: 泌尿科急症。用睪丸固定術 (orchiopexy), 矯正扭轉並將雙側睪丸固定至陰囊。在 6 小時內, 有超過 90% 可搶救回來; 超過 24 小時後救回來的機率 3.5 mm 即可診斷。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (A) 大於 7 mm 的輸尿管結石自行排出的機率較低,建議接受體外 震波碎石術或輸尿管內視鏡取石術治療 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - ...膜腔恆定改變所造成。 - (2) 滲出液(exudates)因肋膜或淋巴完整性被破壞或阻斷所造成。以下為滲出液判別標準(Light's criteria),符合其中以一項即可: - a. Pleural fluid protein/serum protein greater than $0.5\,$ $\circ$ - b. Pleural fluid LDH/serum LDH greater than 0.6 • - c. Pleural fluid LDH 1.67 times normal serum - (a) 現在修正為:LDH > 2/3 upper limits of serum normal。 - d. 正常參考值:因各實驗室不同而有差異,以下僅供參考。 - (a) se Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - | Respiratory rate | 2 | > 70 mm Hg (FiO 2 of 40%) | | PaCO 2 | 2 O | | Rapid shallow breathing index, RSBI | ≤ 105 (70% will pass extubation)= respiratory rate/tidal volume [L] | Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 解剖狹窄:從上而下。 - (1) 環咽肌狹窄處 (cricopharyngeus muscle constriction): 直徑 14 mm, 為最狹窄處。 - (2) 左主支氣管主動脈狹窄處(bronchoaortic constriction): 位於氣管分支處下方, 左主支氣管和主動脈緊鄰處,即 T4 高度,直徑 15~17 mm。 - (3) 橫隔狹窄處 (diaphragmatic constriction): 直徑 16~19 mm。 - (4) 狹窄處將食道分成上下擴張處:直徑約 25 mm。 Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -157,10 +167,6 @@ tags:
 - (B) 14. 45 歲女性過去無開刀病史,最近一個月出現反覆性上腹痛,半夜突然發生上腹部劇痛,而至急診室就診,理學檢查有腹膜炎徵象(peritoneal sign),WBC count 為 12,000/mm³,胸部 X 光如附圖,下列敘述何者錯誤? Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (C) 19. 一位 50 歲男性病患,於某天晚上突然因上消化道出血被送至急診室。內科醫師緊急為此病患安排胃鏡檢查,發現在距離胃食道交界 GE junction 約 10 cm 胃底(gastric fundus)處有一約 2 mm 的扭曲血管(tortuous artery)在出血。其最可能成因是: Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (1) Only for pancreatic duct drainage: Puestow procedure 與 Partington-Rochelle's modification of Puestow procedure。 請見右圖。 - a. 其實這兩個 procedure 是差不多的,只差在原本的 Puestow procedure 有將遠端的胰臟切除,Modification 的 procedure 沒有把遠端的胰臟切除。 - b. 這兩個 procedure 較常使用於胰管擴張達 7 mm 時,成功率較高。 - c. 下圖詳細講述的是 Partington-Rochelle's modification of Puestow procedure。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- (B) WBC $> 16,000/\text{mm}^3$ Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 【詳解】眼瞼下垂程度輕微(約1~2 mm)可考慮使用結膜苗勒 氏肌(Müller's Muscle)切除(Putterman procedure)來矯正, 若是較嚴重的眼瞼下垂(≥2 mm)且提瞼肌功能大於5 mm 以 上,可以用提瞼肌切除術 (levator resection),來提高眼瞼高度。 眼瞼下垂嚴重且提瞼肌功能幾乎完全喪失(5 mm 以下),則考 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- (A) 3. 眼瞼下垂(ptosis)依照其嚴重度來分,兩側眼瞼水平高度相差 4 mm 以上時屬於: Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- 【詳解】下垂 2 mm 為輕度,下垂 3 mm 為中等度,下垂 4 mm 則為重度。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 
 ## Clinical Caveats
 

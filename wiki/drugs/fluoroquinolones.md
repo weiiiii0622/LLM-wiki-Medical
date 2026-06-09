@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch14]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Fluoroquinolones (氟喹諾酮類)'
   - 'Fluoroquinolones'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ tags:
 - [[sources/med3-book4-ch27]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book5-ch06]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ...-----|-------------------------------| | Gram-positive cocci | | | | Staphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, pe Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...---------------------|-------------------------| | Cystitis | E. coli | 1ST: TMP-SMX | 1~3 days | | | Klebsiella | 2nd: Fluoroquinolone | | | Pyelonephritis | E. coli | 1st: Fluoroquinolone | 7~10 days | | | Proteus | 2nd: 2nd generation cephalosporin | | | | Klebsiella | 3rd: Aminopenicillin/BLI | | | | Enterobacteria | | | | Complicated UTI | E. coli Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- (2) Fluoroquinolone (Ciprofloxacin® Levofloxacin®) - a. 優點:對 G(-) 菌叢有廣效效果,治療 UTI 效果良好,不論是 uncomplicated 或 complicated。 - b. 缺點:價格貴。對大部份厭氧菌無效。注意雖然對於 Staphylococci species 也有效但是效果不佳,而且容易篩選出抗藥性菌株。 - c. 機轉:抑制細菌 DNA 合成。 - d. 禁忌:不可用於孕婦及小孩(影響軟骨生長)。 - e. 特殊副作用:較少發生副作用。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- a. 淋病: ceftriaxone、fluoroquinolones (ciprofloxacin)、norfloxacin。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (4) 治療:要看病人到底是什麼樣子的原因導致膽管炎,針對此 underlying 進行 治療。 - a. 80% 病人可經由保守性治療治癒,使用廣效性抗生素(ampicillin + gentamycin/levofloxacin+/- metronidazole)治療即可。 - b. 20%的病人需要進行膽道減壓手術,包含經由ERCP取石術,或是經由PTCD引流,或是手術緩解阻塞原因。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - | Nelson Textbook of Pediatrics 21 th Edition Table 428.6 | |-------------------------------------------------------------------------------------------------------------| | Age | | | Tetracyclines* | 2° 或 3° cephalosporins | | | | Fluoroquinolone | Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) 11. 一位 52 歲患有高血壓並服用藥物的男性,計畫到印度鄉下去旅游 106(-)專 七天,若您要給他建議,下列何者不適當? 醫三-69 (A) 高血壓藥可以不帶,因旅遊時間只有七天 (B) 自備 ciprofloxacin 以治療旅程中可能發生的旅遊者腹瀉或泌尿 道感染 (C) 攜帶一些消炎止痛藥及抗組織胺以備不時之需 (D) 飲食必需煮熟,煮開,剝皮,否則就不要吃 (C) 12. 依據 2005 年 Starfield 等人的研究報告,美國地區每 10,000 人口多增 105(二)專 加一位家庭醫師,對死亡人數的影響為何? 醫三-66 (A) 每 100,000 人口增加 700 人死亡 (B) 每 100,000 人口增加 70 人死亡 (C) 每 Source: [[sources/med3-book4-ch27|丁、預防醫學]].

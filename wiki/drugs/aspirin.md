@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch15]]"
@@ -38,6 +38,8 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Aspirin (阿斯匹靈)'
   - 'Aspirin'
@@ -52,7 +54,7 @@ tags:
 
 ## Summary
 
-抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +92,13 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book3-ch02]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- ...ulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) | | | (A) ①35 | (B) 1245 | | | (C) 2345 | (D) ①②③④ | | | (A) 19. 當腎臟血管肌肉脂肪瘤(期追蹤,不需手術? | angiomyolipoma ) 小於幾公分時可採定 | 103(二)專醫五-66 | | (A) 4 公分 | (B) 6 公分 | | | (C) 8 公分 | (D) 1 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...性膀胱切除術(radical cystectomy)的敘述,何者錯誤? (A) 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術(B) 術前不必停止服用 aspirin (C) 腿部深層靜脈血栓可能於術後發生(D) 手術的死亡率約為 1~3% | 108(二)專醫五-66 | | (D) | 5. 有關膀胱尿道逆流(vesicoureteral reflux)發生原因的敘述,下列何者錯誤? (A) 小孩有尿道感染時容易發生 (B) 膀胱三角肌無力(trigonal weakness) (C) 完全尿道複製(complete ureteral duplication) (D) 前膀胱頸局部切除(wedg Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - 2. 藥物引發:長期 NSAID、Aspirin、Plavix 或合併 steroid 使用容易造成消化性潰瘍。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 1. 根據 Modified Johnson classification,針對位置與其潰瘍產生的機轉作分類。 - (1) 第一型:潰瘍位於胃小彎處,與胃酸分泌量無關。 - (2) 第二型:出現兩個潰瘍,一個位於 胃部,另一個位於十二指腸。與較 高的胃酸分泌量相關。 - (3) 第三型:位於幽門前方的潰瘍,可 能會出現多個潰瘍。與較高胃酸分 泌量相關。 - (4) 第四型:潰瘍靠近胃與食道交界處。 通常與胃酸的分泌量無關,可能與 黏膜防衛機制缺陷相關。 - (5) 第五型:潰瘍可能位於任何位置, 與服用藥物如 NSAID 或 aspirin 相關。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (4) 好發於年紀較大、合併多種系統性疾病的病人,並且使用一些容易造成 ulcer 的 藥物如 NSAID 或 aspirin 所導致。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -109,8 +115,6 @@ tags:
 - (2) 在三個月內確定冠狀動脈正常,則考慮停藥,在發病十天內使用免疫球蛋白,可將冠狀動脈瘤之發生率降至 2~5%,並將巨大冠狀動脈瘤之發生率降至 1%, 且越早使用效果越好。若冠狀動脈瘤一直存在,則需持續服用低劑量阿斯匹靈。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (e) 感染水痘之病童勿給予水楊酸類藥物(Aspirin)退燒,會增加發生雷氏症候群(Reye's syndrome)的危險性。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹 108( ) 專子型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 4. 常見引起固定性藥物疹之藥物為 Tetracyclines、NSAID、磺胺類藥物 (sulfadrugs)、Aspirin、Barbiturates。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- 6. 治療:一般給予支持性療法,給予 Aspirin、NSAID、口服或局部注射類固醇、臥床抬腿、穿彈性襪皆有不錯效果。如果是潛在病因或感染源所造成,則優先處裡,給予抗生素治療。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 
 ## Clinical Caveats
 

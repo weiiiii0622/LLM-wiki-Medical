@@ -2,11 +2,12 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Bone mineral density, BMD (骨密度檢查)'
   - 'Bone mineral density, BMD'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-骨質疏鬆診斷與骨折風險評估常用檢查。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨質疏鬆診斷與骨折風險評估常用檢查。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch14]]
 - [[sources/med3-book2-ch13]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- (3) 侵犯超過局部/轉移: T3b 以上或 N+或 M+。 - a. 治療初期: 賀爾蒙治療 (endocrine therapy)。 - (a) 治療方式:服用藥物或睪丸切除術。 - (b) 原理:攝護腺癌初期有雄性素依賴性,生長需要有雄性素。所以把雄性素阻斷可讓攝護腺癌成長停滯或萎縮。雄性素(androgen)是一群男性賀爾蒙的總稱,主要有睪固酮、雙氫睪固酮。 - i. 睪固酮 (testosterone): - (i) 用途:幼年可使性器發展與 產生第二性徵,成人可增強 性欲性功能、提升骨密度與 肌肉力量。 - (ii) 合成路徑:下視丘分泌 LHRH(又稱GnRH)到腦 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- i. 熱潮紅(hot flashess, 佔 60% 人)、性欲及性功能缺失、骨密度下降 (loss of bone mineral density)、貧血、體重及體脂肪增加、認知改變 (cognitive decline)。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ii. 使用賀爾蒙治療需要定期監測這些副作用,處理的方式如下: - (i) 骨密度下降:以 FRAX 評估。使用鈣、維他命 D 補充劑、或是雙磷酸鹽。 - (ii) 貧血:通常很輕微,若嚴重可以補充紅血球生成素。 - (iii) 熱潮紅(hot flashes),可補充醋酸甲羥孕酮(medroxyprogesterone acetate 300~400 mg IM monthly)治療之。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (D) 4. 一位女性體檢時,意外發現有高血鈣,進一步檢查證實為原發性 107(二)專 副甲狀腺功能亢進(primary hyperparathyroidism),根據目前的 醫五-37 治療指引,有些原發性副甲狀腺功能亢進患者即使無臨床症狀 亦建議應接受手術,但下列何者除外? - (A) 骨密度檢查 T-score 小於 -2.5 - (B) 肌酸酐廓清率 (creatinine clearance) 小於 60 mL/min - (C) 血鈣超過正常值上限 1.0 mg/dL 以上 - (D) 年齡大於 60 歲 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (A) 5. 三發性副甲狀腺機能亢進 (tertiary hyperparathyroidism),何者 106(-)專正確? 醫五-46 - (A) 為腎移植後一年,鈣、副甲狀腺素持續升高,應手術治療 - (B) 骨疼痛、皮膚癢不嚴重,應手術治療 - (C) 骨密度未下降(T>-2.5),應手術治療 - (D) 不作全切除也不易再發 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - Severe Osteopenia (low bone mineral density) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].

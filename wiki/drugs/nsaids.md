@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch28]]"
@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'NSAIDs (非類固醇消炎藥)'
   - 'NSAIDs'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,13 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- b. 尿酸(uric acid)結石:占結石 5%,好發於男性,特別是有痛風病史、骨髓增生症(myeloproliferative diseases)、快速減重、用 cytotoxic 藥物治療惡性腫瘤的人。常因脫水或攝取高 purine 食物,導致尿中尿酸增加(故尿 pH 0.5 cm 僅 15% 排出率。(因為輸尿管 徑 $0.3\sim0.5$ cm) - (2) 結石位置: 結石在輸尿管下段 50%、中段 25%、上段 10% 排出率。(因為輸尿管長 25 cm) - (3) 併用藥物:NSAID (標準一線)、alpha-blocker (增加 45% 排出率,小心血壓,可用 Urief 或 Harnalidge)。另外使用副交感拮抗劑 (antimuscarinics) 也可緩解症狀加速結石排出。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 2. 藥物引發:長期 NSAID、Aspirin、Plavix 或合併 steroid 使用容易造成消化性潰瘍。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 1. 根據 Modified Johnson classification,針對位置與其潰瘍產生的機轉作分類。 - (1) 第一型:潰瘍位於胃小彎處,與胃酸分泌量無關。 - (2) 第二型:出現兩個潰瘍,一個位於 胃部,另一個位於十二指腸。與較 高的胃酸分泌量相關。 - (3) 第三型:位於幽門前方的潰瘍,可 能會出現多個潰瘍。與較高胃酸分 泌量相關。 - (4) 第四型:潰瘍靠近胃與食道交界處。 通常與胃酸的分泌量無關,可能與 黏膜防衛機制缺陷相關。 - (5) 第五型:潰瘍可能位於任何位置, 與服用藥物如 NSAID 或 aspirin 相關。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (4) 好發於年紀較大、合併多種系統性疾病的病人,並且使用一些容易造成 ulcer 的 藥物如 NSAID 或 aspirin 所導致。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -83,8 +89,6 @@ tags:
 - 適合接受何種治療? 醫四 -23 - (A) 注射腎上腺素 (epinephrine) - (B) 給予氧氣 - (C) 給予抗組織胺 - (D) 給予非類固醇抗發炎劑(NSAID) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 5. 治療:治療 Bartter syndrome 病人,最重要在於預防脫水狀態以及矯正低血鉀 (用高劑量 KCl 同時治療低血氯問題)。藥物治療方面,使用 indomethacin (a prostaglandin inhibitor)。只要照顧得當,大部分的 Bartter syndrome 病人預後算是良好的;極少數病人會走向慢性腎衰竭。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 4. 治療:治療方向為矯正電解質異常如低血鉀與低血鎂。Gitelman syndrome 不需 indomethacin 治療。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 2. 退燒的藥物,以 acetaminophen 及 NSAID 為主,18 歲以下兒童不可使用 aspirin(可能導致雷氏症候群)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (C) 2.5 天大男嬰,被發現有呼吸窘迫、發紺、及心雜音。呼吸次數每 98(-)專分鐘 74 次合併厲害胸凹現象,肝臟於右肋骨下 5 公分摸得到, 醫四-7 其右手血壓為 66/40 mmHg,左手及下肢血壓約為 44/20 mmHg。 同時合併低血鈣。下列何者為不適當的處理? - (A) 給予氣管插管(intubation)維持呼吸,並給予氧氣 - (B) 給予靜脈注射 dopamine、dobutamine - (C) 給予靜脈注射 indomethacin - (D) 抽血檢查是否合併染色體 22q11 缺失症 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

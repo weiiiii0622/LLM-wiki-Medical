@@ -51,6 +51,11 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Hypersensitivity reactions (過敏反應分類)'
   - 'Hypersensitivity reactions'
@@ -65,7 +70,7 @@ tags:
 
 ## Summary
 
-Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +121,20 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch09]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch06]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- ...鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (A) 11. 下列何者腎小管酸中毒症(renal tubular acidosis)會併發腎結石? 105(-)專 (A) Type I (B) Type II (C) Type III (D) Type IV Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (B) 10% 發生於 multiple endocrine neoplasia (MEN) type II 之病人 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- ②Pentoxifylline: 抑制 TGF-bl 相關發炎反應或減少 collagen type I 製造,可改善彎曲度。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- ...ctamase inhibitors 才能對付 UTI, 這讓價格不再便宜。另外 penicillin 第一代對多數 UTI 無效。 - c. 機轉:抑制細菌細胞壁合成。 - d. 禁忌:過敏史(孕婦可用)。 - e. 特殊副作用:特別注意過敏反應(要做 skin test);肝腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - Type III:又稱為膽管囊性擴張(choledochoceles),發生於經過胰部的膽 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - Type I 最常見(佔 80~90%)、Type IV 第二常見。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 4. 關聯疾病: - (1) Li-Fraumeni cancer susceptibility syndrome (with germline p53 mutations) • - (2) Neurofibromatosis type I • - (3) Beckwith-Wiedemann syndrome • Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
@@ -131,12 +147,6 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - (D) 4. 下列何項是分辨高位無肛病 (high type imperforate anus ) 或低位 101( ) 專 無肛病 (low type imperforate anus ) 最重要的方法 ? 醫五 -16 - (A) 倒位攝影 (invertogram) - (B) 電腦斷層 - (C) 核磁造影 - (D) 肉眼觀察 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 2. Klatskin tumor 可利用 Bismuth classification, 分成 types I 到 type IV。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - | Type I | 腫瘤位於右肝管與左肝管交界以下 | PRO (July 1900) | |----------|-----------------|-----------------| | Type II | 腫瘤侵犯至右肝管與左肝管交界處 | | | Type III | 腫瘤侵犯至左肝管或右肝管 | | | Type IV | 左右肝管皆受到腫瘤的侵犯 | | Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- b. Type III:除了作肝外膽道與膽囊的 en bloc resection,再加上 Roux-en-Y hepaticojejunostomy 以外,還必須看是侵犯哪一邊的肝內膽道,進行肝臟的 切除。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- (A) type II, 潰瘍外觀其邊緣隆起與周邊之黏膜界限清晰 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (B) type III,潰瘍外觀其邊緣隆起與周邊黏膜界限不清 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (C) type IV, 胃壁瀰漫性浸潤無明顯之隆起或潰瘍 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- • Type I (60%): Only gastric ulcer (almost lesser curvature) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- Type II (15%): Gastric body and duodenal ulcer Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 
 ## Clinical Caveats
 

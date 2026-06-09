@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Varicella-zoster virus infection, VZV (水痘帶狀皰疹病毒感染)'
   - 'Varicella-zoster virus infection, VZV'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-初感染造成水痘，潛伏再活化造成帶狀皰疹；新生兒與免疫低下族群風險較高。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+初感染造成水痘，潛伏再活化造成帶狀皰疹；新生兒與免疫低下族群風險較高。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...omotile cilia)。 - (2) Acquired causes: 感染和發炎。 - a. 支氣管堵塞: 氣管外壓迫(腫瘤、淋巴結腫大)、吸入異物或刺激物質、膿痰。 - b. 感染:壞死性細菌肺炎、百日咳肺炎、麻疹肺炎、流感肺炎、水痘肺炎。吸入性有毒氣體。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 帶狀皰疹神經炎(herpes zoster neuritis) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].

@@ -29,6 +29,8 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Pulmonary embolism (肺栓塞)'
   - 'Pulmonary embolism'
@@ -43,7 +45,7 @@ tags:
 
 ## Summary
 
-靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +74,13 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- d. 膀胱鏡:包括膀胱鏡檢與切除(transurethral resection, TUR)後送病理檢驗, 是確診膀胱癌的必要方式,因為膀胱癌臨床分期(用 PE 及影像評估)有 50% 會低估實際的病理分期(down stage)。 - (a) 膀胱鏡觀察:膀胱癌外觀分乳突狀(papillary)與扁平狀(flat)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- ii. 手術後數天:深部靜脈栓塞、肺栓塞、淋巴囊腫、傷口感染,這些是屬於任何手術都可能發生的問題。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - Q. 肺動脈栓塞 (Pulmonary embolism) 60 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (7) 心衰竭及肺栓塞 (Heart failure and multiple pulmonary emboli)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ### Q. 肺動脈栓塞 (Pulmonary embolism) Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -91,8 +97,6 @@ tags:
 - (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...由此方式癒合 | | | | | 【詳解】纖維母細胞在受傷後第2天即出現。 | | | (0) | 1 = | | 100/ \ # | | (C) | 15. | 下列敘述,何者錯誤? | 102(一)專 | | | | (A) 大多數的肺栓塞(pulmonary embolism)是起源於深層靜脈 | 醫五-5 | | | | 栓塞 (deep venous thrombosis) | | | | | (B) 老年人常因營養不良而有比較高的手術後併發症發生率 | | | | | (C) 肥胖與營養不良並不會增加傷口裂開的機率 | | | | | (D) 手術後的疼痛、輸液量過多會導致高血壓 | | | (B) | 16. | 下列生長因子(growth factors),何 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - 3. 如果依照 Hx, PE 診斷不確定,可以使用腹部 CT 輔助診斷。CT 上可以看到 appendix 直徑大於 6 mm, appendix 附近有水聚積(fluid accumulation),或是看到 糞石。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
-- (3) 鈍傷:腹部鈍傷假使只靠 PE 很難診斷腹內是否有受傷,特別是當病人合併有腦部或脊髓受傷,或是吸毒喝酒等,容易誤診。因此需要其他工具補助檢查: - a. 腹腔灌洗術: - (a) 腹腔灌洗術的優點在於能快速得到結果,其一般之適應症為: - i. 大量傷患同時到達時可作為檢傷分類之依據。 - ii. 神智改變。 - iii. 酒醉或服用毒藥物。 - iv. 需上麻醉處理其他合併損傷。 - v. 多處受傷之病患。 - vi. 懷疑腹部受傷,但腹部症狀不明顯。 - (b) Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- 1. 處理原則: - (1) 檢查呼吸道有無暢誦,GCS ≤ 8的話緊急插管。 - (2) 檢查血氧濃度,不夠的話給予呼吸器。 - (3) 檢查脈搏和血壓,維持 SBP > 90 mmHg。 - (4) 評估胸部和腹部是否也有受傷(PE、影像檢查)。 - (5) 評估意識狀態及局部神經學症狀,考慮脊髓是否受傷(頭顱脊髓 X 光、CT)。 - (6) 最後才檢查肢體有無撕裂或骨折(X光)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 
 ## Clinical Caveats
 

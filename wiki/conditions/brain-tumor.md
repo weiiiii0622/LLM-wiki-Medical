@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Brain tumor (腦瘤)'
   - 'Brain tumor'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-顱內腫瘤依組織來源、位置與 grade 造成 seizure、IICP、focal deficit 或 endocrine symptoms。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內腫瘤依組織來源、位置與 grade 造成 seizure、IICP、focal deficit 或 endocrine symptoms。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...) interferon-alpha (B) steroids (C) sunitinib (D) sorafenib 104(二)專 (C) 15. 下列何者不是理想的腎臟捐贈者? (A) 腎功能正常者 醫五-71 (B) 同時罹患原發性腦瘤的病人 (C) 出現全身性病毒或細菌感染 (D) 梅毒、肝炎檢查正常者 (C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 104(二)專 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 醫五-77 - C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 描(CT scan)顯示左側腎臟撕 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ## 壬、腦瘤 (Brain Tumors) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. 最常見原發性腦瘤,在舊分類中屬於神經膠質瘤(glioma),好發於 40~60 歲,男: $\phi=2:1$ 。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

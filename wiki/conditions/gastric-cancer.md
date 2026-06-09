@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med3-book2-ch08]]"
@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Gastric cancer (胃癌)'
   - 'Gastric cancer'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃部惡性腫瘤，與 H. pylori、萎縮性胃炎與腸化生等風險相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (c) 癌症:因為服用免疫抑制劑使T細胞免疫反應被抑制,會增加各種癌症 發生率。(增加 20 倍淋巴癌風險,增加 15 倍腎臟癌風險,增加 5 倍肝癌 風險,增加3倍睪丸、膀胱癌風險,以及增加2倍常見腫瘤風險,例大 腸癌、攝護腺癌、肺癌、胃癌等。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 1. 根據為衛服部的統計,胃癌的發生率位居台灣十大癌症發生率的第四位,而**男性**胃 癌病人的罹患率為女性的 1.8 倍。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 2. 胃癌包括胃腺癌、惡性淋巴瘤等,其中胃腺癌約佔90%。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 1. 胃癌的確切致癌過程到目前為止還不是很清楚,經研究顯示胃癌是由多重因子造成。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -84,7 +87,6 @@ tags:
 - 3. Leser-Trélat Sign:假使身上短時間大量出現脂漏性角化症時,須懷疑體內是否有癌症,特別是胃癌、肺癌、與大腸癌,為 paraneoplastic syndrome 的一種表現。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - ...large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman's dz. | | 細菌 | H. pylori | Gastric MALToma, Gastric cancer | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...(C) Epstein-Barr 病毒感染 (D) 人類乳突病毒感染 (HPV) | 107(二)專醫三-36 | | (B) | 4. 有關微生物及癌症的關係,下列何者關聯性最低? (A) Helicobacter pylori vs. 胃癌(gastric cancer) (B) Human papilloma virus vs. 子宮癌(uterine cancer) (C) Human herpesvirus type 8 vs. 卡波氏肉瘤(Kaposi's sarcoma) (D) Epstein-Barr virus vs. 霍金氏淋巴癌(Hodgkin's lymphoma) | 106(二)專醫三-60 | | (C) | 5. 一位 33 歲男性病人,有一 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- ...之腫瘤(A) 大腸癌(C) 乳癌 | 指標(tumor marker)?(B) 卵巢癌(D) 肺癌 | 94(二)檢內-48 | | (B) 23. CA-125 為那一種癌症之腫瘤(A) 肺癌(C) 乳癌 | 標記?(B) 卵巢癌(D) 胃癌 | 94( 一 ) 檢內 -19 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 

@@ -2,11 +2,12 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Electromyography, EMG (肌電圖)'
   - 'Electromyography, EMG'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- 3. 括約肌功能: 測尿道壓力分佈圖 (urethral pressure profile )、括約肌肌電圖 (sphincter electromyography)。 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
+- (C) 19. 有一位 42 歲的脊髓損傷男性因排尿障礙,照會泌尿科醫師。病 史為一年前因車禍傷及第 4 胸椎,導致下半身癱瘓。理學檢查 發現其下肢肌腱反射增強(+++),肌力為 0~1 分,醫師為其安 排尿路動力學(urodynamics)檢查,包含膀胱壓力圖(CMG) 及外括約肌肌電圖(EMG),請問以下何項為最可能的結果? 98(一)專 醫五-67 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - (D) 9. 一位 56 歲的男性糖尿病患,有糖尿病足來到門診,與醫師討論 有沒有可能憑藉換藥使傷口癒合,則下列何項最具決定性? - (A) 抽血檢查 HbA1c - (B) 安排神經傳導及肌電圖檢查(NCV/EMG) - (C) 做細菌培養 - (D) 檢查足背動脈與後脛動脈有無脈動 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (2) 肌電圖(EMG)可發現有去神經(denervation)的現象,尤其是早期症狀不明顯時,可用來鑑別診斷。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (1) 以肌電圖做重複電刺激神經試驗 (repetitive nerve stimulation test), 有**遞減反應** (**decremental response**),與前述的臨床症狀吻合,肌肉愈刺激、愈用就愈無力。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].

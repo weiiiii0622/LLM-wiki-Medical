@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch03]]"
@@ -35,6 +35,7 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch04]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Statins (史他汀類)'
   - 'Statins'
@@ -49,7 +50,7 @@ tags:
 
 ## Summary
 
-降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +85,11 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch04]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...(D) 18. 對於腎臟移植後的處置, | | 103(二)專 | | ① 通常會使用 β-blockers來控制高血壓 | ,hydralazine 和 calcium channel blockers | 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - #### (2) 體抑素 (somatostatin): Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - d. 這是一個滿棒的反向性激素。因此就出現了 **Octreotide** 這樣子人工合成的 somatostatin,當病人腸胃道出血(常用於 EV bleeding),可使用 Octreotide 抑制腸胃道激素的分泌,減緩出血。此外也可利用其抑制生長激素分泌的特性來治療 Acromegaly。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - ...)及腸期(intestinal phase) | | | | | | (C) 胃期(gastric phase)所分泌的胃酸佔所有胃酸分泌的 60~7 | 70% | | | | | (D) D 細胞(D cell) 所分泌的 somatostatin 會增加組織胺(h | ista- | | | | | mine)及胃泌素(gastrin)的分泌,進而增加胃酸的分泌 | | | | | | 【詳解】D cell 被氫離子刺激後分泌 somatostatin,會抑制 | | | | | | 部排空、膽囊收縮,也會抑制激素的分泌如生長激素(gro | owth | | | | | hormone)、胃泌素 (gastrin) 等等的激素分泌。 | | | | (D) | 6. | . Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
@@ -104,7 +107,6 @@ tags:
 - 【詳解】水溶性纖維可與脂肪酸結合,降低膽固醇總量和 LDL 膽固醇,延長食物在胃中停留的時間,從而減慢糖分釋放及被吸收的速度,有助糖尿病患者控制血糖。非水溶性纖維能幫助食物渣滓通過腸道,防止便秘,控制及平衡腸道的酸鹼值,防止微生物產生致癌物質,有助預止結腸癌。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- Cortisol、thyroid hormone、growth hormone、somatostatin、prolactin 都可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 
 ## Clinical Caveats
 

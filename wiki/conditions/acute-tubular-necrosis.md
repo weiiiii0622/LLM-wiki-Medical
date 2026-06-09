@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Acute tubular necrosis, ATN (急性腎小管壞死)'
   - 'Acute tubular necrosis, ATN'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-缺血或腎毒性造成 intrinsic AKI，尿沉渣與 FENa 可輔助判讀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+缺血或腎毒性造成 intrinsic AKI，尿沉渣與 FENa 可輔助判讀。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med3-book3-ch02]]
 - [[sources/med3-book4-ch11]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...臟灌流不足。 - b. 移植腎功能延遲回復(delayed recovery of graft function, DGF): - (a) 定義:在移植後第一週肌酸酐(creatinine)不降反升,需要洗腎。 - (b) 成因:最常見的是急性腎小管壞死(acute tubular necrosis, ATN),大多經數週的治療可回復,但有2%腎永久無功能。若是合併寡尿(尿 1 cc/kg/hr,但在移植後幾天中,突然間少尿。 - (b) 考量:阻塞問題(尿管是否通暢+掃超音波看有無水腎);腎血流灌流不足(掃都卜勒超音波,若懷疑需馬上開刀探察,因數小時內移植腎會壞死);瘻管產生(抽出引流液 creatinine 超過血中 creatinine 5 倍);若排除上述問題,要考慮腎臟切片以 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 【詳解】急性腎小管壞死(ATN)是移植後寡尿或無尿最常見的原因。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 4. Acute tubular necrosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 3. Acute tubular necrosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...的鈉離子排出率(fractional excretion of sodium; FENa) 小於 1%。下列何者為最可能之診斷? - (A) 急性腎絲球腎炎 (acute glomerulonephritis) 合併急性腎衰竭 - (B) 急性腎小管壞死 (acute tubular necrosis) 合併急性腎衰竭 - (C) 急性腎間質腎炎 (acute interstitial nephritis) 合併急性腎衰竭 - (D) 低血容(hypovolemia) 合併急性腎衰竭 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch12]]"
   - "[[sources/med3-book3-ch15]]"
@@ -19,6 +19,10 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Cystitis (膀胱炎)'
   - 'Cystitis'
@@ -33,7 +37,7 @@ tags:
 
 ## Summary
 
-下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +56,23 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch06]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- 2. 膀胱:間質性膀胱炎 (interstitial cystitis): - (1) 流行病學:好發於超過40歲的女性。 - (2) 病因學:慢性膀胱發炎 (end-stage inflammatory),機轉未明。 - (3) 臨床表徵: Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (a) 膀胱內灌注藥物: - i. 常用灌注藥物: - (i) Mitomycin C: - ①機轉:一種化療藥物,用來抑制癌細胞 DNA 合成。 - ②效果:降低術後癌症復發率15%。(但不會降低癌症進展機率) - ③注意:25%產生刺激膀胱副作用。 - (ii) BCG (Bacillus Calmette-Guerin) - ①機轉:一種結核桿菌弱毒株,可引發自體免疫反應攻擊癌細胞。 - ②效果:降低術後癌症復發率50%、降低癌症進展機率50%。(效果最佳) - ③注意:80%產生刺激膀胱副作用。另外5%出血性膀胱炎、1% 遠端感染。 - ii. 副作用:常見局部刺激膀胱導致的排尿症狀(頻尿、急尿、解尿疼痛), 系統性症狀很少,因為經膀胱吸收的藥物很有限但也有少數會造成嚴 重全身性感染病症。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- | (B) | 3. 有關間質性膀胱炎(interstitial cystitis)之敘述,下列何者錯誤? (A) 通常發生於 40 歲以上的女性 (B) 通常病人的尿液常規檢查會出現血尿及膿尿 (C) 常見的症狀是頻尿、夜尿、急尿、及恥骨上疼痛 (D) 症狀通常是在膀胱脹尿時引起,因此膀胱容積逐漸縮小,病人變得相當頻尿 | 109(一)專醫五-69 | |-----|----------------------------------------------------- Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- ...續、費力尿、尿不清。 - b. 國際攝護腺徵狀評分表 International Prostate Symptom Score (IPSS) - (a) 評分項目(記法:FUN-WISE,前三是儲尿不穩症狀、後四是排尿阻塞症狀) - i. Frequency (頻尿:排尿後兩個小時內又要小便)。 (註:正常人兩次解尿的間隔 2.5 小時,且一天 1-blockers:Terazosin (Hytrin®)、doxazosin (Doxaben®)。(記法:(山) 海經、豆沙餅) - iii. α1A-blockers: Tamsulosin (Harnalidge®)、alfuzosin (Xatral®)、silodosin (Urief®)。(記法:哈那裡、殺豬、油欸) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (B) 病人得了急性膀胱炎,需要導尿,取得尿液做細菌培養 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- 【詳解】以病患的年紀與性別來判斷,急性膀胱炎的機會較低。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- 3. 病菌:大多數 UTI 是單一致病菌造成。並非有進入泌尿道的細菌就會感染,還是有菌種或亞型的差異。 - (1) 非複雜 (uncomplicated:指女性無懷孕且感染後無嚴重併發症)膀胱炎、腎盂腎炎:80% 是 *E. coli* (亞型 O 為主)。其他 20% 為 Klebsiella、Proteus 或 *Enterobacter* spp. 或 Enterococci。 - (2) 住院中得到 UTI:可能的菌種很多,甚至包括 Pseudomonas 或 *Staphylococcus* spp.。若是 *Staphylococcus aureus*,常是從其他處經血液傳播而來。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- 2. 膀胱(急性膀胱炎):下泌尿道症狀(頻尿、急尿、尿痛)、腰背和恥骨上疼痛、血尿和混濁/惡臭尿。發燒等系統性反應並不常見。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- 5. (男性)附睪/睪丸(附睪炎/睪丸炎):充血及腫大的陰囊伴隨劇痛,可能引起 腹股溝痛或腰痛。在症狀開始之前,有可能會先有尿道炎或膀胱炎的症狀先產生。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- (c) 臨床表徵: - i. 症狀:排尿不完全(排尿後還會滴滴答答)、尿流斷續或微弱、反覆的膀胱炎或攝護腺發炎。 - ii. 尿路動力學:餘尿多、尿流速下降。 - iii. 影像學:尿道攝影(urethrography)及排尿膀胱攝影(VCUG)。 - iv. 內視鏡:尿道膀胱鏡可兼做治療。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 前言:原本只是造成腹部疼痛的膽結石,若沒有治療,持續刺激之下將會導致急性 發炎等併發症如下: - (1) 急性膽囊炎 (acute calculous cholecystitis)。 - (2) 總膽管結石 (choledocholithiasis)。 - (3) 膽囊性胰臟炎 (biliary pancreatitis)。 - (4) 膽石性腸阻塞 (gallstone ileus)。 - (5) 膽管炎 (cholangitis)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - #### 2. 急性膽囊炎 (Acute calculous cholecystitis): Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (d) 膽囊中可見氣體 (emphysematous cholecystitis)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
@@ -63,16 +81,6 @@ tags:
 - (C) 2. 有關急性無結石性膽囊炎(acute acalculous cholecystitis)敘述,何者錯誤? Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
 - (5) 射頻燒灼術 (radiofrequency ablation, RFA): Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 2. 大五或大六的學弟妹們,進入肝膽外科見實習前,也可以先藉由這個章節了解膽道方面的 background knowledge。不管在內外科,liver function impairment 的判讀相當重要,能讓你 初步區分是 unconjugated 或 conjugated。另外也一定會有很多機會照顧 Acute cholecystitis 的病人、站在電視前面看 CR 們進行 LC,可搭配書本內容以及臨床見實習所觀察到的結果,再進行討論。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (C) 急性膽囊炎 (acute cholecystitis) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- ...添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 ( Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- ...| | Dementia as first symptom 以失智症為第一個表現 | Dementia with Lewy bodies | | Prominent orthostasis 有姿態性低血壓 | MSA-p | | High frequency (8~10 Hz) symmetric tremor 高頻率顫抖 | Essential tremor | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...專 | | lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時, | 醫四 -15 | | 下列那一項不是其常見的併發症? | | | (A) 發生骨髓造血功能抑制 | | | (B) 發生細菌性膀胱炎 | | | (C) 發生不孕症 | | | (D) 掉頭髮 | | | 【詳解】cyclophosphamide的副作用有嘔吐、骨髓抑制、掉髮、 | | | 不孕、肺纖維化和出血性膀胱炎(非細菌性)。 | | | (B) 18. 下列何者為皮肌炎(dermatomyositis)特有之皮膚症狀? | 101(二)專 | | (A) target-shaped erythematous lesions on the extremitie Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (2) 病毒感染,特別是 adenovirus type 11 and 21, 會造成 cystitis。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 3. 臨床表現:依照感染部位而有不同症狀。 - (1) 尿道炎(urethritis):出現解尿疼痛、燒灼感、頻尿。 - (2) 膀胱炎(cystitis):解尿疼痛(dysuria)、尿急(urgency)、頻尿(frequency)、 恥骨上疼痛(suprapubic pain)、incontinence 與尿液有異味(malodorous urine)。 另外,cystitis 不會引起發燒或是腎實質損傷。 - (3) 腎盂腎炎 (pyelonephritis):常見有腹痛或腰痛、發燒、疲倦、噁心或嘔吐、腹瀉。有些新生兒或是幼兒會表現黃疸、躁動不安、餵食困難甚至體 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...部症狀(anterior lenticonus, dot-and-fleck retinopathy),或 leiomyomatosis。(B)(D) 也可能出現血尿,但無遺 傳性, hypercalciuria 常伴隨腹痛, 頻尿, 或 dysuria, Goodpasture syndrome 則常常同時有肺部及腎的症狀。(C)屬 nephrotic syndrome 的一種,表現主要是 proteinuria 及 edema。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...motor unit potentials | | | Fibrillations | | | Positive sharp waves | | | Insertional irritability | | | Bizarre, high-frequency repetitive discharges | | Muscle biopsy | Necrosis | | | Inflammation | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

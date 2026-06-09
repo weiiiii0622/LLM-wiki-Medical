@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book3-ch19]]"
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Colorectal cancer (大腸直腸癌)'
   - 'Colorectal cancer'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-大腸與直腸惡性腫瘤，篩檢、分期與手術/化療策略影響預後。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸與直腸惡性腫瘤，篩檢、分期與手術/化療策略影響預後。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med5-book3-ch19]]
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ...7. 關於高期別之非精細胞胚胎細胞癌 (nonseminoma germ cell 105( 二 )專 carcinoma),下列何者不是預測其化學治療之反應指標? 醫五-66 (A) 血清 LDH (B) 血清 β-hCG (C) 血清 CEA (D) 轉移部位總數 (A) 8. 下列敘述那些正確?①陰莖骨折(penile fracture)多發生在陰莖 105(二)專 懸韌帶(suspensory ligament)遠側 ②陰莖骨折如果採取保守治 醫五-71 療會有 10% 以上發生勃起時陰莖彎曲 (penile curvature) ③陰 莖穿透傷 (penetrating injury) 要考慮做逆行性尿道攝影 (retrograde urethrography) ④急 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 列何者錯誤? 醫五-2 - (A) 肝癌 (hepatocellular carcinoma) —胎兒蛋白 (alpha-fetoprotein, AFP) - (B) 大腸癌— CEA (carcinoembryonic antigen) - (C) 小細胞肺癌— CA19-9 - (D) 前列腺癌— PSA (prostate specific antigen) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) Hereditary nonpolyposis colon cancer (HNPCC) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 2. Tumor markers: - (1) CA19-9 可以用來作為胰臟癌病人治療過後的追蹤。 - (2) Carcinoembryonic antigen (CEA): 是在腸胃道癌症常見的 tumor maker, 在胰臟癌的病人約有 40% 到 50% 的病人可見升高的狀況。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -86,7 +89,6 @@ tags:
 - ...h end-ileostomy or IPAA • - (b) Total abdominal colectomy with ileal-rectal anastomosis • - (2) Hereditary nonpolyposis colon cancer (HNPCC): - a. 體聯顯性遺傳(AD),defective mismatch repair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total ab Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...rcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | ( Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...| | | ı | (D) 黏液水腫(myxedema) | | | (C) 31. | 甲狀腺乳突癌或濾泡癌在接受全甲狀腺切除術後,可利用下列 | 100(一)專 | | | 何項來偵測復發或轉移? | 醫五 -21 | | | (A) CEA | | | 1 | (B) 抑鈣素 (calcitonin) | | | | (C) 甲狀腺球蛋白(thyroglobulin) | | | | (D) TSH-receptor Ab | | | | 【詳解】甲狀腺乳突癌和濾泡癌皆來自濾泡上皮細胞,故可用 | | | | 甲狀腺球蛋白來當作腫瘤標記,作為全甲狀腺切除後偵測復發 | | | | 或轉移。 | | | (D) 32. | 上喉神經損傷(superior laryngeal Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 
 ## Clinical Caveats
 

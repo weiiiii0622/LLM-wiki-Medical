@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book2-ch19]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Pheochromocytoma (嗜鉻細胞瘤)'
   - 'Pheochromocytoma'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,15 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book2-ch19]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch09]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- Ⅲ. 髓質疾病 167 - A. 嗜鉻細胞瘤 (Pheochromocytoma) 167 - B. 神經母細胞瘤 (Neuroblastoma) 168 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- (C) von Hippel-Lindau disease 主要臨床表現有腎細胞癌,嗜鉻細胞瘤(pheochromocytoma),視網膜血管胚細胞瘤(retinal hemangioblastoma)等 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...(B) 大約有 65% 的神經母細胞瘤是發生在腹部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母細胞瘤的存在及其是否已有轉移,也可用來監測 神經母細胞瘤在接受治療後的反應及其是否有復發跡象 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - D. 嗜鉻細胞瘤 (Pheochromocytoma) 237 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...erplasia 的話可以: - (a) 影像學上需用高解析度 adrenal CT, 因許多 aldosteronoma 都 131I-MIBG scan: 131I-MIBG 是正腎上腺素類似物,會聚集在交感神經的液泡中, 也就會出現在嗜鉻細胞瘤中,對於腎上腺或腎上腺外嗜鉻細胞瘤特異性高。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -81,10 +89,6 @@ tags:
 - (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 隨著研究進展,目前思覺失調症產生的理論認為疾病的產生並非單一神經傳導物質 dopamine 的失衡,腦中其他神經傳導物質如 norepinephrine、serotonin、GABA、 glutamate、neuropeptide 的失去平衡也可能有關。研究也顯示,血液中香草酸 (homovanillic acid, catecholamine 的代謝物) 濃度越高,精神症狀越嚴重,對於抗精神病藥物的反應也越好。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - ...疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized anxiety disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 安非他命主要是促進神經分泌 catecholamine 類神經傳導物質,特別是 norepinephrine 與 dopamine $\circ$ Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 3. 除上述症狀,神經纖維瘤患者易因腎動脈狹窄引起高血壓、得到嗜鉻細胞瘤機會較高、學習力和智力出現障礙或是得到惡性腫瘤的機會增高。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- 兒童心臟惡性腫瘤臨床上更少見,大部分惡性腫瘤為 sarcomas,例如 angiosarcomas、rhabdosarcomas、fibrosarcomas。其他更少見的有 lymphoma 或是 pheochromocytomas。臨床上,兒童心臟惡性腫瘤多為 secondary; 比較常見的病因有 Wilms tumor 或是 lymphoma/leukemia 造成的 metastasis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...少數病人其脊髓也有血管母細胞瘤,造成病人有尿失禁或步態不穩。 - c. 視網膜血管瘤通常在視網膜的周圍,通常視力不受影響。然而,血管瘤若不 斷有滲出液,則會造成視網膜剝離與視力喪失。 - (2) 其他器官:與腫瘤發生有關。 - a. 腎:pheochromocytoma、renal carcinoma(造成死亡最常見原因)。 - b. 胰臟:神經內分泌腫瘤和漿液性囊腺瘤(serous cystadenoma)。 - c. 副睪:乳頭狀囊腺瘤(papillary cystadenoma)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats
 

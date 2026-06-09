@@ -28,6 +28,9 @@ sources:
   - "[[sources/med5-book3-ch08]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Hepatocellular carcinoma, HCC (肝細胞癌)'
   - 'Hepatocellular carcinoma, HCC'
@@ -42,7 +45,7 @@ tags:
 
 ## Summary
 
-HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +73,15 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - [[sources/med5-book3-ch08]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- ...9. 睪丸畸胎瘤(teratoma)病童,如果血中腫瘤標誌胎兒蛋白( $\alpha$ -105(一)專 fetoprotein)升高時,此腫瘤可能含有那種惡性成分? 醫五-49 (A) 卵黃囊瘤 (yolk sac tumor) (B) 肝細胞癌 (hepatocellular carcinoma) (C) 消化道腺癌(adenocarcinoma) (D) 神經母細胞瘤 (neuroblastoma) 【詳解】最常見的兒童睾丸腫瘤是畸胎瘤和卵黃囊腫瘤 (Teratoma and yolk sac tumors), 其中卵黃囊腫瘤(yolk sac tumors) 會分泌 α- 胎蛋白 (α-Fetoprotein, AFP)。 (B) 10. 有關急性細菌性副睪丸炎之敘述,下 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (c) 癌症:因為服用免疫抑制劑使T細胞免疫反應被抑制,會增加各種癌症 發生率。(增加 20 倍淋巴癌風險,增加 15 倍腎臟癌風險,增加 5 倍肝癌 風險,增加3倍睪丸、膀胱癌風險,以及增加2倍常見腫瘤風險,例大 腸癌、攝護腺癌、肺癌、胃癌等。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...能障礙,所以手術中泌尿外科勺保留,來維護病人的性功能? | 101(二)專醫五-70 | | (B) 24. 最常引起骨增生性之轉程 | 多性癌症是: | 100(二)專 | | (A) 大腸癌(C) 腎細胞癌 | (B) 前列腺癌(D) 肝癌 | 醫五 -57 | | (B) 25. 年輕男性的攝護腺,其中(A) 移行區(transition zo(B) 周邊區(peripheral zo(C) 中央區(central zone(D) 精阜及輸精管(veru | one) | 100(二)專醫五-66 | | 錯誤? (A) 早期大多數沒有症狀 (B) 良性攝護腺肥大 (B) (C) 核磁共振造影 (MRI (D) 50 歲以上男性應每年定抗原 (PSA) 偵測 | PH) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ### 2. 肝細胞瘤 (Hepatocellular carcinoma): Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
@@ -88,9 +97,6 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - (B) 4. 下圖是一位肝癌病人的電腦斷層攝影,根據 Couinaud 等所提出, 106 (二) 專 依照門脈分枝的肝臟解剖學分葉,則腫瘤位於肝臟的那一個小葉? 醫五 -23 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - (A) 20. 一般外科的何主任最近進行某項肝癌患者的基因研究,為了要蒐 集健康人之對照組,特邀請未來兩個月到一般外科學習的住院醫 師及實習醫師自願參與這項研究提供 10 cc 之血液檢體。在研究 倫理的觀點上,下列何項是這種納入受試者的方式最大的爭議? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (B) alpha fetoprotein (AFP) and hepatocellular carcinoma Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- ...中 $\alpha$ -fetoprotein 濃度便降到和正 | | | 常成人相同。 | | | (D) 23. 下列對照的致癌原(Carcinogen)何者錯誤? | 102(一)專 | | (A) 黃麴毒素(Aflatoxins)-肝癌(Hepatocellular carcinoma) | 醫五 -10 | | (B) 幽門 螺 旋 桿 菌(Helicobacter pylori)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (2) 原發性肝臟惡性腫瘤,如肝癌:肝臟已有中度以上的功能喪失,癌細胞沒有轉移到肝臟以外的器官;肝內大血管沒有癌細胞造成的癌栓;肝腫瘤是單顆且大小不大於 5 公分;或者腫瘤數目最多 3 顆,並且每顆大小不大於 3 公分。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

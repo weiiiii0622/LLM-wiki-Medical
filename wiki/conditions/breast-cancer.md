@@ -29,6 +29,7 @@ sources:
   - "[[sources/med5-book3-ch22]]"
   - "[[sources/med5-book3-ch23]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Breast cancer (乳癌)'
   - 'Breast cancer'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,11 @@ tags:
 - [[sources/med5-book3-ch22]]
 - [[sources/med5-book3-ch23]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- b. 惡性腫瘤:有活動性或復發性腫瘤不可移植。但若已經切除腫瘤,注意移植 前的觀察時間: - (a) 不用觀察直接可以移植:原位癌、未發現的小體積腎癌。 - (b) 2年:大部分的腫瘤。 - (c) 5年:淋巴癌、乳癌、有症狀或> 5 cm 的腎癌。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - b. 定義:胸水抽吸(thoracocentesis)細胞學檢查發現惡性細胞。無法直接診斷淋巴瘤,或區別為惡性細胞和反應性間皮細胞。產生的原因以轉移性乳癌和肺癌最常見、淋巴瘤次之(約10~14%)、轉移性卵巢癌則很少見、支氣管或淋巴阻塞、低蛋白血症等亦可能。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (B) 轉移性乳癌及肺癌最常造成惡性肋膜積液 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (B) 肺癌及乳癌是引起惡性肋膜積水常見的原因 Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -92,7 +95,6 @@ tags:
 - (D) 25. 林小姐罹患乳癌須接受一側乳房切除,她想同時接受乳房重建 手術,則下列那一個皮瓣最不適合用來作為乳房重建之用? - (A) 闊背肌肌皮瓣 (latissimus dorsi muscle flap) - (B) 橫腹直肌皮瓣(transverse rectus abdominis myocutaneous flap) - (C) 上臀動脈穿通枝皮瓣(superior gluteal artery perforator flap) - (D) 腹網膜瓣 (omental flap) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - ...甲狀球蛋白(Thyroglobulin) | 醫五-8 | | (B) 血清抑鈣激素(Calcitonin) | | | (C) RET 基因分析 | | | (D) 頸部超音波 | | | (B) 41.60 歲女性病人,20 年前有右側乳癌做過 irrad | liation,發現右側甲 98(-)專 | | 狀腺硬塊約二個月,則應建議做何檢查? | 醫五-38 | | (A) $T_3$ , $T_4$ , TSH | | | (B) 超音波定位細胞學檢查 | | | (C) 核磁共振 | | | (D) 血管攝影 | | | (A) 42. 承上題,上述病人接受手術,最可能的診斷是 | 是: 98(一)專 | | (A) 乳突癌(papillary thyroid c Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人體重 70 公斤,工作時不慎發生火災,身體 | 102(一)專 | | 表面積有 30% 的燒傷,根據 Parkland formula 計算,他前 8 小時 | 醫五 -77 | | 應給予多少毫升的輸液? | | | (A) 8,400 | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 
 ## Clinical Caveats
 

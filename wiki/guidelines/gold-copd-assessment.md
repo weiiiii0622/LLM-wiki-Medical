@@ -33,6 +33,9 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)'
   - 'GOLD COPD assessment'
@@ -47,7 +50,7 @@ tags:
 
 ## Summary
 
-COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +83,15 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med5-book5-ch06]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- ...Staphylococcus saprophyticus | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Streptococcus, group D | | | | S. faecalis (enterococci) | Ampicillin, nitrofurantoin | Ampicillin plus gentamicin | | S. bovis | Penicillin G, ampicillin | Ampicillin, vancomycin | | Streptococcus, group B | Ampicillin, cephalosporin | Ampic Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ii. 根除性膀胱切除(radical cystectomy): 切除所有前骨盆腔器官。對 侵犯肌肉層(T2)的膀胱癌是黃金標準(gold standard)治療,另外 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術。注意此手術為大手術,故術前需停止服用抗凝血劑一週。且由於手術時間長,故腿部深層靜脈血栓可能於術後發生,手術的死亡率約為 2%。 - (i) 移除所有前骨盆腔器官。 - ①男性:移除膀胱及周圍脂肪、前列腺、儲精囊。 - ②女性:移除膀胱及周圍脂肪、卵巢、子宮、子宮頸、陰道上三分之一、尿道。(注意:骨盆淋巴結摘除與否,對預後無助益。) - (ii) 術後復發:復發率 10%,通常在三年內發生。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- ...) 是常用的治療選擇,然而,下列何種情形是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...--|------------------------| | Primary | Penetrating | | Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibr Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (C) 慢性阻塞肺病(COPD)引起的氣胸為續發性(secondary) 氣胸 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (D) COPD 引起之 emphysema 與長期抽菸有密切相關 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -98,9 +107,6 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - (1) **Viridans-type streptococci**(α-hemolytic streptococci)與 *Staphylococcus aureus* 為 最常見。此外 Group D streptococcus (*S. bovis* or *S. faecalis*) 亦是常見病原體。 - a. Viridians group streptococcal infection (*Streptococcus mutans*, *S. sanguinis*, *S. mitis*) 常見於牙科侵入性治療後。 - b. Staphylococcus aureus 是第二常見的細菌。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (D) 1. 下列何種細菌較少造成兒童感染性心內膜炎(Infective endocarditis)? 109( 二 ) 專 - (A) Group D streptococcus (enterococcus) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】新生兒因感染造成呼吸窘迫,最常見的細菌感染為Group B Streptococcus (GBS,學名: Streptococcus agalactiae)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (D) 6. 足月兒出生時,母親有發燒症狀且羊膜已在出生前兩天破裂,嬰兒於出生後 8 小時開始明顯的呼吸窘迫,血壓下降,胸部 X 光呈現雙側全面的浸潤,並有少許肋膜腔積水,最可能的診斷為下列何者? - (A) 大腸桿菌(Escherichia coli) 感染 - (B) 綠膿桿菌 (Pseudomonas spp.) 感染 - (C) 肺炎鏈球菌 (Streptococcus pneumoniae) 感染 - (D) B 群鏈球菌(group B Streptococcus)感染 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 3. 診斷: UGI contrast series 是診斷的 gold standard。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

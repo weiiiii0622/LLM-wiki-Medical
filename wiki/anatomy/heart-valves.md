@@ -39,6 +39,7 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Heart valves (心臟瓣膜)'
   - 'Heart valves'
@@ -53,7 +54,7 @@ tags:
 
 ## Summary
 
-瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +93,11 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- ...x) | | | (B) 輸尿管腎盂接合處阻塞(ureteropelvic junction obstruction) | | | (C) 雙套輸尿管合併輸尿管開口異位 | | | (D) 後尿道瓣膜(posterior urethral valve) | | | 【詳解】(B)為正解,而(D)也有可能;所以考選部解答為(BD)。 | | | (C) 36. 膀胱癌實驗室檢查項目中最常見之異常為: | 98(一)專 | Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - 4. 好發位置:在迴腸上,距離迴盲瓣 (ileocecal valve) 45 至 60 公分,在腸繋膜相對的一側。(相對位置說明:腸繋膜—迴腸—梅克爾憩室,即所謂的腸繫膜對側 (antimesenteric side))。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (2) 2 feet from the ileocecal valve: 距離迴盲瓣 2 英尺。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 4. 臨床表現:呼吸受限、運動性肋軟骨疼痛、心悸或心雜音,二尖瓣脫垂,較嚴重者 會有明顯的心肺功能下降,因嚴重壓迫造成肺最大呼吸容積下降、心搏出量和心輸 出量下降。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
@@ -112,7 +115,6 @@ tags:
 - (b) 術後併發症: 傳導異常、殘餘的心室中膈缺損、殘餘的肺動脈狹窄、肺動脈瓣關閉不全、右心室衰竭、心肌梗塞、早發性心室傳導。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (1) 左心發育不全,左心房和心室比正常人小很多(見下圖左),常合併主動脈弓窄縮、主動脈瓣狹窄/閉鎖以及二尖瓣狹窄/閉鎖。由於左心和主動脈幾乎無作用,全身血液循環需藉由肺動脈經 PDA 供應。而冠狀動脈的血流來源也倚靠肺動脈、動脈導管,經主動脈、倒流回冠狀動脈,導致心肌灌流不足。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - A. 僧帽瓣 (Mitral valve) 68 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- B. 主動脈瓣 (Aortic valve) 70 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 
 ## Clinical Caveats
 

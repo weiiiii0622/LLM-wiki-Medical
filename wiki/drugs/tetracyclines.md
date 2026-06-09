@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Tetracyclines (四環黴素類)'
   - 'Tetracyclines'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,14 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- b. 非淋病:tetracycline、erythromycin、doxycycline,治療 1~2 週(7~14 天)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- ...n, cephalosporin | Ampicillin, cephalosporin | | Gram-negative cocci | | | | Neisseria gonorrhoeae | Ciprofloxacin plus doxycycline | Ceftriaxone | | Gram-negative rods | | | | Escherichia coli | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin | | Enterobacter spp. | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin plus piperacillin | | Gardn Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...nolone | 2weeks | | | Enterobacteria | 2nd: 2nd generation cephalosporin | | | | Enterococci | | | | | Chlmaydia | 1st: Doxycycline | | | | Ureaplasma | 2nd: Macrolide | | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - 3. 會引起腦壓升高的可能因素有過度服用藥物(維生素 A、tetracycline、hormonal contraceptive、steroid)、內分泌異常、貧血、及慢性呼吸衰竭。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...(C) 服用大量維生素 A | | | (D) 惡性貧血 | | | 【詳解】第50題一律給分。大腦假性腫瘤的發生原因至今不明, | | | 一般相信因為腦膜吸收腦脊髓液能力下降,導致腦壓逐漸增高。 | | | 可能與過度服用維生素 A、四環黴素、荷爾蒙類避孕藥等有關。 | | | 偽性大腦腫瘤症為 Idiopathic,與 (ACD)可能都相關,但 (B)為 | | | 已知病因造成腦壓上升,不屬於偽性大腦腫瘤症範疇。 | | | (C) 25. 下列有關頭痛的現象之中,何者最需要讓病人接受腦部磁振造 | 101(二)專 | | 影或電腦斷層攝影? | 醫四 -56 | | (A) 頭痛通常發生在單側 | | | (B) 頭痛已經十年,型態及嚴重度都沒有變化 | | | (C Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - a. 一期、二期、早期隱性梅毒:單次 Penicillin G benzathine 2.4 million units IM。對 penicillin 過敏者可改用 Tetracycline hydrochloride(500 mg PO qid) 或 doxycycline(100 mg PO bid)\*14 天。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -68,9 +75,6 @@ tags:
 - Minocycline, procainamide, hydralazine, isoniazid, penicillamine, diltiazem, interferon- $\alpha$ , methyldopa, chlorpromazine, etanercept, infliximab, adalimumab Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (3) 可用 Doxycycline 治療。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- 2. 治療: - (1) 患病者:給予第三代頭孢黴素(如 Ceftriaxone 250 mg im for one dose)加上四環黴素(Tetracycline),如此亦可 cover 性病常見的砂眼披衣菌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (A) 3. 一個 3 天大新生兒,雙眼有化膿性分泌物,格蘭氏染色(Gram stain) 104( ) 專 為格蘭氏陰性雙球菌,應選用何種抗生素治療? 醫三-63 - (A) ceftriaxone - (B) erythromycin - (C) oxacillin - (D) tetracycline Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (3) 急性期以 Ceftazidime 治療 2~4 週,需接著以四合一抗生素維持治療 20 週。 (Chloramphenicol, doxycycline, cotrimoxazole, sulfamethoxazole) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

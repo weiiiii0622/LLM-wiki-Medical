@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Systemic sclerosis (全身性硬化症)'
   - 'Systemic sclerosis'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,12 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- 病理:由 neural crest 而來,90% 單側、90% 腎上腺內、90% 無併發其他腫瘤、90% 良性。(註:其實它有個流行病學法則叫 10% 法則:10% 家族遺傳、10% 雙(兩) 側腎上腺都有、10% 惡性、10% 小孩、10% 腎上腺外、10% 鈣化、10% 與高血壓 無關) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 1. 病理:由 neural crest 而來。大部分長在後腹膜,45% 長在腎上腺髓質,常局部侵犯。可經血液或淋巴轉移,常到顱骨、長骨、局部淋巴結、肝、肺。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - (11) 膠原纖維疾病 (Collagen diseases): 硬皮症 (Scleroderma)、風濕免疫 (rheumatoid disease)、紅斑性狼瘡 (systemic lupus erythematosus)、皮肌炎 (dermatomyositis)、 韋格納肉芽腫 (Wegener granulomatosis)、古帕斯捷氏綜合徵 (Goodpasture syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...e)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但症狀通常不會隨著胸腺瘤治療成功而改善。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 確診斷? 醫五-37 - (A) scleroderma Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -65,8 +69,6 @@ tags:
 - C. 全身性硬化症 (Systemic scleroderma, SSc) 36 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - 硬皮症 (Systemic scleroderma, SSc): SSc、DM 可能混合出現 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...ögren's syn. | | (核質) | | 粗斑點型 | Anti-Sm | SLE | | | | (Coarse S.) | Anti-RNP | MCTD,雷諾氏現象 | | | | 不連續斑點(Discrete S.) | Anti-centromere | lcSSc ( C R E ST syn.) | | Nucleolar (dc 硬皮病)(核仁) | | | Anti-Scl 70 | dcSSc (ILD ↑ ) | | | | | Anti-PM/Scl | SSc+ PM (Overlap syn.) | | Cytoplasmic | | Anti-Jo-1 | PM (ILD ↑ *) | | | | | | Anti-smooth muscle | Autoimm Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...(A) 紅斑性狼瘡(SLE) (B) 原發性修格連氏症(primary Sjögren's syndrome) (C) 肌炎:多發性肌炎加上皮肌炎(myositis:polymyositis + dermatomy-ositis) (D) 硬皮症(scleroderma) 【詳解】primary Sjögren's syndrome 的盛行率約 0.5~1%(Harrison, 1990),SLE 的盛行率約 0.015~0.05%(Harrison, 1960),常見的風濕疾病排名:OA > RA(0.8%) > SS(0.5%) > AS > SLE > PsA > Scleroderma > Myositis(Harrison, 2031 Fig 311-2)。 | 94 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (1) Schober test: 測量 L-spine mobility 最準確的方法,由 Post. Superior iliac crest 定出 Lumbosacral junction,其下 5 公分~其上 10 公分處,兩點距離於極度前彎後應增加 5 公分以上;若小於 5 公分,表示 L spine 活動受限。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

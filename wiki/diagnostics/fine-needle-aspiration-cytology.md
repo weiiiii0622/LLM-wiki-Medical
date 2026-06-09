@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Fine needle aspiration cytology, FNA (細針抽吸細胞學)'
   - 'Fine needle aspiration cytology, FNA'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-甲狀腺結節與其他表淺腫塊常用細胞學檢查，用於良惡性分流與手術決策。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺結節與其他表淺腫塊常用細胞學檢查，用於良惡性分流與手術決策。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,12 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (1) 嗜酸細胞瘤 (oncocytoma): - a. 病理:棕色病灶,由大量嗜酸性顆粒上皮細胞構成。細胞表現變化大,從良性到惡性侵犯淋巴系統都有。診斷靠病理診斷,取得檢體的方式是腎切除,細針抽吸較難診斷。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ii. 細針抽吸(fine-needle aspiration):主要用在已經確定有多重轉移癌的病人(無法切除而根治),用以判斷在腎臟腫瘤的細胞形態。其他適應症包括:用以診斷不適合手術的病人、腎臟以外轉移至腎臟的腫瘤、影像上難以辨別的腫瘤。判斷準確率 95%、敏感度 85%,因檢查造成 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (2) 痰液分析(Sputum cytology) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (4) 細針抽吸切片 (Fine needle aspiration of mass) Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...24~48 小時 追蹤胸部 X 光。非複雜性氣胸每天約可吸收縮小 1%。 - (3) 侵入性治療:適用於發展性氣胸、延遲肺擴張、伴隨症狀惡化、中等範圍氣胸 (20~40%)和大範圍氣胸(40%)幾乎伴隨持續症狀造成生理功能受限。 - a. 細針抽吸:可快速解除症狀和恢復肺擴張,並可評估是否持續漏氣需進行胸 廓造口術,可重複施行。 - b. 胸管、針導管或胸閥引流系統置放:對於醫源性氣胸(中央靜脈管路或肺切片)效果極佳,可同時治療癒合的氣胸並觀察是否有持續漏氣。 - c. 緊急針頭引流(18-gauge): 為張力性氣胸緊急處置,之後仍須放置胸管。置放位置為第2肋間和鎖骨中線交叉點。 - d. 胸廓造口術(胸管置放)合併水下密封引流:為自發性氣胸之主要治療。傳統置放位置為第2肋間和 Source: [[sources/med5-book4-ch02|乙、肋膜]].

@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med4-book4-ch01]]"
@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Nerve conduction study, NCS/NCV (神經傳導檢查)'
   - 'Nerve conduction study, NCS/NCV'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,14 @@ tags:
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book5-ch08]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- iii. 周邊神經。 - (i) 外傷或手術造成神經傳導功能失常: cavernous nerve 和 pudendal nerve 為兩條與勃起相關神經。 - (ii) 慢性疾病造成周邊神經病變或神經傳導物質不足: NO 為與勃起 最有相關的神經傳導物質。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (d) 靜脈血管方面 (cavernosal/venous): - i. Type 1: 陰莖海綿體的靜脈瓣膜閉鎖不全, 使血液流往海綿體外, 無法維持充血, 多為先天性也最常見。 - ii. Type 2:靜脈扭曲或退化,常見於 Peyronie disease 或老年男性。 - iii. Type 3:陰莖海綿體平滑肌無法放鬆,常因纖維化或退化。 - iv. Type 4:神經傳導物質失調。 - v. Type 5:海綿體間血管交通異常。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (C) 18. 交感節後神經(sympathetic postganglionic nerve)釋放下列何種神經傳導物質,以控制下泌尿道? Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (D) 9. 一位 56 歲的男性糖尿病患,有糖尿病足來到門診,與醫師討論 有沒有可能憑藉換藥使傷口癒合,則下列何項最具決定性? - (A) 抽血檢查 HbA1c - (B) 安排神經傳導及肌電圖檢查(NCV/EMG) - (C) 做細菌培養 - (D) 檢查足背動脈與後脛動脈有無脈動 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (A) 神經傳導速率檢查 (nerve conduction velocity testing) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch14]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Diabetes insipidus (尿崩症)'
   - 'Diabetes insipidus'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- ii. 人工合成之抗利尿激素(DDAVP):可治療夜尿。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...----------------| | | (A) 平均動脈血壓 (mean arterial blood pressure) 須大於 60 mmHg | | | | (B) 每小時尿量最好大於 1.0 mL/kg | | | | (C) 尿崩症(diabetes insipidus)並不常見,故尿量變多時,只須 | | | | 減少給予的水分即可 | | | | (D) 高血鈉症是常見的電解質不平衡 | • | | | 【詳解】尿崩症並不少見,捐贈者常常是頭部外傷或腦出血等 | | | | 腦死病人,尿崩應該要積極處理。 | | | (D) 18 | . 下列何種情況對於受腎者而言是腎臟移植手術的禁忌? | 99(二)專 | | | (A) 糖尿病 | 醫五-2 | | | Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 4. 臨床症狀: - (1) 視神經 / 視交叉被壓迫: 視神經萎縮、兩側顳側半盲。 - (2) 下視丘/腦下腺受損:腦下腺功能低下、侏儒症、尿崩症。 - (3) 阻塞到孟羅 (Monro) 氏孔=> IICP。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - f. 影響到 ADH 的分泌造成尿崩症。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -64,7 +67,6 @@ ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合
 - 3. 腦垂體後葉則由下視丘的神經元經腦垂體柄(Pituitary stalk)延伸到腦垂體後葉,由神經末梢分泌荷爾蒙(ADH、Oxytocin)。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - ...交叉 | 先損失紅色視覺 (Loss of red perception) | | (Optic chiasm) | 接著雙側顳側上方視野 (Bitemporal hemianopia) | | 往上壓下視丘 | 體溫失調、食慾改變、肥胖、尿崩症 | | (Hypothalamus) | 睡眠、行為、自主神經失調 | | 上壓到額葉 人格異常 (Personality disorder) | | | (Frontal lobe) | 嗅覺喪失症 (Anosmia) | | 往旁側壓到海綿竇 CN3,4,5-2,6 眼肌麻痺 (Opthalmoplegia)、眼瞼下垂 (ptos | | | (Cavernous sinus) | 臉麻 (Facial numbness) | | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 - | 缺乏的荷爾蒙 | 補充的的荷爾蒙 | | |-------------------------------------------------------------------------|--------------|--| | GH | Somatotropin | | | 女性 Premarin (Conjugated estrogen)、Provera (Progester男性 Testosterone | | | | TSH | Thyroxine | | | ACTH | Cortisone | | | Vasopressin(中樞性尿崩症) Vasopressin (DADVP) 鼻噴劑 | | | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- (1) 症狀:高血鈣可使細胞膜穩定,使得腸胃道蠕動變慢,但也阻斷 ADH 在腎小管的作用而造成腎原性尿崩症,導致多尿;[比較]低血鈣使細胞膜不穩定,運動神經、肌肉的不穩定造成痙攣、感覺神經的不穩定造成麻痹的感覺。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 
 ## Clinical Caveats
 

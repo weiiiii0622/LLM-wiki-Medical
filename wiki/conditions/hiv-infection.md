@@ -38,6 +38,8 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'HIV infection (人類免疫不全病毒感染)'
   - 'HIV infection'
@@ -52,7 +54,7 @@ tags:
 
 ## Summary
 
-HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +92,13 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- (c) 臨床表徵:通常無症狀。另外可能產生併發症: - i. 反覆包皮龜頭炎(balanoposthitis): 最常見的併發症。 - ii. 嵌頓性包莖(paraphimosis):將包皮退至龜頭露出,卻無法回推,會 造成龜頭部分血液循環不良,長時間有組織壞死的危險。 - iii. 陰莖癌:反覆發炎造成包皮部分容易產生鱗狀上皮癌(SCC)。 - iv. 性傳染病:包皮過長易藏汙納垢使 HIV、gonorrhea、syphilis 的感染率升高。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (4) 藥物:會增加結石機率的藥物有降血壓藥 -Dyazide;降眼壓藥 -碳酸酐酶抑制劑(carbonic anhydrase inhibitors);抗 HIV 病毒藥 -蛋白酵素抑制劑(protease inhibitor, indinavir)。越胖越易結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - Reference: Grulich AE, van Leeuwen MT, Falster MO, Vajdic CM. Incidence of cancers in people with HIV/AIDS compared with immunosuppressed transplant recipients: A meta-analysis. *Lancet* 2007; 370(9581): 59-67. Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
@@ -109,8 +115,6 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - (D) 若是病程頑固且臨床表現不尋常,需留意 HIV 感染 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (C) 22. 有關脂漏性皮膚炎(Seborrheic dermatitis)的敘述,下列何者錯誤? - (A) 嬰兒期脂漏性皮膚炎需與異位性皮膚炎鑑別診斷 - (B) 致病機轉可能與 Malassezia 相關 - (C) 好發部位為四肢伸側及背部 - (D) HIV 感染可能伴隨脂漏性皮膚炎 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (2) 感染:感染被認為能誘發乾癬的發生,急性滴狀乾癬通常出現在急性鏈球菌感 染後一至兩週。HIV 也與乾癬的發生相關。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- (D) HIV 族群中乾癬的盛行率高於一般民眾,且嚴重性較高 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- 【詳解】(A) 乾癬沒有分第幾型的說法;(C) 所敘述疾病為異位性皮膚炎,乾癬反而 β-defensin 和 LL37 的濃度升高與疾病相關。(D) HIV 患者的乾癬盛行率是大於一般民眾的乾癬盛行率,且HIV 患者的乾癬多較嚴重且預後不好,治療也比較棘手,因為嚴重乾癬需使用免疫抑制劑,但 HIV 患者的免疫本來就不全了,因此更增添治療的挑戰性。不過選 (D) 沒有給分。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 
 ## Clinical Caveats
 

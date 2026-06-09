@@ -2,11 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'MEN2 syndrome (第二型多發性內分泌腫瘤)'
   - 'MEN2 syndrome'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-MEN2 與 RET mutation、medullary thyroid carcinoma、pheochromocytoma 及 hyperparathyroidism 相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+MEN2 與 RET mutation、medullary thyroid carcinoma、pheochromocytoma 及 hyperparathyroidism 相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- (C) von Hippel-Lindau disease 主要臨床表現有腎細胞癌,嗜鉻細胞瘤(pheochromocytoma),視網膜血管胚細胞瘤(retinal hemangioblastoma)等 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- Ⅲ. 髓質疾病 167 - A. 嗜鉻細胞瘤 (Pheochromocytoma) 167 - B. 神經母細胞瘤 (Neuroblastoma) 168 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- #### A. 嗜鉻細胞瘤 (Pheochromocytoma) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - C. MEN II (染色體 10q 上的 RET proto-oncogene 突變) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - 2. IIB: - (1) Medullary thyroid carcinoma (100%) • - (2) Pheochromocytoma (50%) • - (3) Mucosal and gastrointestinal neuroma • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].

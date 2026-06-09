@@ -39,6 +39,8 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -53,7 +55,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +94,15 @@ tags:
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- c. 慢性(chronic):定義是腎功能隨時間逐漸衰退的現象,最快發生在移植六個月後。影響因子是多方面的,包括 HLA 配對程度低、有抗 HLA 的抗體存在、年紀大、發生過排斥反應、之前移植腎失敗的病史、種族(衰退度:亞洲人>白人>黑人)、共病(糖尿病、肥胖、高血脂)、免疫製劑使用。這些因子會使移植腎結疤、纖維化,最後造成慢性移植腎腎病變(chronic allograft nephropathy, CAN)。治療方法為症狀控制(血壓與蛋白尿)但效果有限,因此術後 5~10 年以上移植腎存活率一直無法有效增加。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...cules): - i. 干擾核內信息傳遞(Intracellular signaling): - (i) 皮質類固醇(Corticosteroid):免疫製劑的基礎,從多方面影響免疫系統,減緩淋巴結和骨髓的淋巴細胞反應。副作用包括高血壓、高血脂、高血糖、體重增加、骨質疏鬆、傷口癒合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 生:生毛、生(昇)血壓及生牙齦)。副作 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (c) 動脈血管方面(Arterial):外傷;先天性血管疾病;系統性血管疾病(如 高血壓或高血脂症,易使血管硬化,血液不足)。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- ...每位病人應接受夜間陰莖勃起試驗(nocturnal penile | 醫五 -70 | | tumescence test) | | | (B) 要補充男性荷爾蒙 | | | (C) 第一線檢查應使用彩色都卜勒超音波 | | | (D) 高血脂、糖尿病及高血壓會引起海綿體血管內皮細胞功能失調 | | | (C) 12.60 歲丁先生,由於勃起時硬度夠,但無法持久而來就診,陰莖 | 105(一)專 | | 海綿體血流量檢查發現其海綿體動脈血流正常,但有靜脈溢漏 | 醫五 -70 | | (venous leakage )現象,最可能的病因是: | | | (A) 陰莖海綿體神經病變 | | | (B) 良性前列腺肥大 | | | (C) 陰莖海綿體平滑肌病變 | | | (D) Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 5. 檢查 & 診斷: - (1) 胸腔穿刺術(thoracentesis) / 胸管引流術(chesat tube drainage)。 - (2) 三酸甘油酯(triglyceride)的含量通常會大於 110 mg/dL,即可高度懷疑,但少數患者會小於 110 mg/dL,但可配合其他臨床證據診斷。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...| 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (4) 另外年紀大、男性、高血壓、抽菸、高血脂、genetic (Marfan syndrome) 皆為 危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
@@ -109,10 +117,6 @@ tags:
 - ...---------------------------------|----------------------| | 大血管 * 粥狀硬化Athero- thromboticor a. to a. emboli | 中大型動脈 | DM、高血脂等因素形成粥狀硬化瘤(Atheroma) 若破裂引起血小板聚集,則造成阻塞;或在 ICA 較軟的 thrombi脫落,在遠方動脈梗塞 | 大腦皮質、腦幹、小腦症狀 | | 心源性血栓 | MCA 的上支 | CA的上支 心臟來的血栓塞住,病灶多在灰質 | | | Cardio-embolic | (併發癲癇↑) | 蘭↑) 較易轉化為出血性梗塞 | | | 小血管栓塞Lacunar infarction | 小動脈穿透支 | 因「高血壓 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 1. 大血管粥狀硬化 (athero-thrombotic or artery to artery emboli): - (1) 位置:中大型動脈(ACA, MCA, PCA, BA, ICA×2, VA×2)。 - (2) 成因:因 DM、高血脂等形成粥狀硬化瘤(Atheroma)。 - (3) 診斷:頸部超音波、穿顱超音波、MRA。 - (4) 治療:若 ICA > 60% 有症狀的狹窄,或> 70% 無症狀的狹窄,建議放 Stent。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...A)右側後下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 6. 血脂異常:Quetiapine 與 olanzapine 可能會升高血液中 cholesterol 與 triglyceride 數值 11~17%。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- (D) 3. 下列何種抗精神病藥,比較不會造成體重過重及高血糖或高血脂症? Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- (D) 三酸苷油酯(triglyceride)過高 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (B) Hypertriglyceridemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

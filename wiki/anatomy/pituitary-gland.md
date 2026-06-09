@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch10]]"
@@ -18,6 +18,8 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book2-ch24]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Pituitary gland (腦垂體)'
   - 'Pituitary gland'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book2-ch24]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- ...---|-----------------------------------| | Gondatropin-ReleasingHormone (GnRH)Agonists | LeuprolideGoserelin | Anterior PituitaryGland | Decreases Release of LHThrough Down-regulationof GnRH Receptors | Testosterone Surge | 39 | | GnRH Antagonists | Abarelix* | Anterior PitultaryGland | Directly InhibitsGnRH Receptors | Anaphylaxis | Steroid | | A Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...關生殖內分泌的描述,下列何者為非? (A) 男性荷爾蒙是由 Leydig cells 所分泌 (B) 男性荷爾蒙的分泌是受濾泡刺激激素 FSH (follicle stimulating hormone) 調控 (C) 腦下垂體性腺激素 (pituitary gonadotropins) 的分泌是受 GnRH (gonadotropin releasing hormone) 的調控 (D) 混合因素 (mixed factors) 【詳解】(B) 是 LH。 | 106 (二)專醫五-69 | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 3. Pituitary adenoma (30%): functional or non-functional • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - N. 腦下垂體腫瘤 (Pituitary tumor) 212 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 6. 蝶鞍區腫瘤 (tumors of the sellar region): - (1) 顱咽瘤 (craniopharyngioma)。 - (2) 腦下腺瘤(pituitary tumor):前腦下腺細胞(adenohypophyseal cells)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -69,8 +75,6 @@ tags:
 - PS: Pseudoprecocious puberty 其 sex hormone 製造與 pituitary gonadotropin secreting 無關。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...1 英吋( - (A) 柯林菲特氏症 (Klinefelter syndrome) - (B) 卡門氏症 (Kallmann syndrome) - (C) 普瑞德威利氏症 (Prader-Willi syndrome) - (D) 先天性腦垂體低能症(Congenital hypopituitarism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - C. 腦垂體前葉荷爾蒙的交互作用 171 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- D. 全腦垂體低能症(Panhypopituitarism) 171 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- E. 腦垂體亢進(Hyperpituitarism) 173 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 

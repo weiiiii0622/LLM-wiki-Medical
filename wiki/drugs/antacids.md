@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Antacids (制酸劑)'
   - 'Antacids'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-中和胃酸，用於短期緩解胃酸相關症狀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中和胃酸，用於短期緩解胃酸相關症狀。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) | | | (A) ①35 | (B) 1245 | | | (C) 2345 | (D) ①②③④ | | | (A) 19. 當腎臟血管肌肉脂肪瘤(期追蹤,不需手術? | angiomyolipoma ) 小於幾公分時可採定 | 103(二)專醫五-66 | | (A) 4 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (3) 藥物: - a. 當病史和檢查高度懷疑GERD,即可開始治療,不必等待完整的檢查診斷結果。 - b. 使用六週以上的制酸治療應追蹤評估是否有慢性貧血。 - c. 以雙倍劑量質子幫浦抑制劑(proton pump inhibitor, PPI)當作初始治療,如症狀改善,同時可以此為診斷。如症狀持續,則須安排前述檢查進一步評估。 - d. 常用藥物:制酸劑 (antacids)、促蠕動劑 (motility agents)、乙型抗組織胺 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ...活率,息肉型(polypoid)70%,較晚期只有15%。 - (2) 腺癌(ADA): - a. 機轉 & 成因:由黏膜下腺體、異生柱狀上皮區或 Barrett's 食道發展出。 - b. 危險因子:與 GERD 增加、西方飲食習慣及使用制酸劑等有關。 - c. 40~50 歲患者男女比 15:1,很少發生於 40 歲前,隨著年紀發生率增高,以 白人最好發。 - (3) 臨床症狀:吞嚥困難和體重減輕最常見。嗆、咳嗽、吸入性肺炎表示有氣管食 道瘻管。 - (4) 檢查 & 診斷: - a. 鋇劑食道攝影(barium esophagogram):凡有吞嚥困難患者應檢查。 - b. 內視鏡檢:檢查病灶位置、型態、對環咽肌、胃食道連合(GEJ)和胃賁門的關係、胃擴張之情況。 - c Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ...| 6. 有關食道癌之敘述,下列何者錯誤? | 101(一)專 | | | (A) 目前全世界之食道癌以鱗狀細胞癌(squamous cell carcinoma) | 醫五 -32 | | | 最常見 | | | | (B) 在西方國家,制酸劑使用增加是食道癌的危險因子之一 | | | | (C) 與食道遲緩不能(achalasia)有關的食道癌,最常見的細胞 | | | | 型態為腺癌(adenocarcinoma) | | | | (D)評估術前淋巴轉移(N status for TNM stage, AJCC)的非侵 | | | | 犯性工具當中,正子攝影的正確性比電腦斷層佳 | | | | 【詳解】(C) 為鱗狀上皮細胞癌。 | | Source: [[sources/med5-book4-ch05|戊、食 道]].

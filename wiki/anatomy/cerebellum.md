@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch07]]"
@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Cerebellum (小腦)'
   - 'Cerebellum'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-負責協調、平衡與動作修正，小腦病灶常表現 ataxia、dysmetria、nystagmus。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+負責協調、平衡與動作修正，小腦病灶常表現 ataxia、dysmetria、nystagmus。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...好發於55歲男性黑人(男女比2:1,黑人>白人>亞洲人)。 - b. 病因:分為遺傳性或偶發性兩類。 - (a) 遺傳性:體染色體顯性基因 - i. Von Hippel-Lindau (VHL) disease: 在多個器官產生腫瘤,包括小腦血管母細胞瘤、視網膜血管瘤、雙側腎透明細胞癌。 - ii. Hereditary papillary renal carcinoma:腫瘤的產生大多侷限在腎臟。 - (b) 偶發性:危險因子包括抽菸(2倍風險);暴露於石綿、有機溶劑、鎘; 洗腎;腎囊性病變。 - c. 病理學: - (a) 微觀:大多是混合型癌(mixed carcinoma,包含 clear cells、granular cell 或像 sarcomatoid 的細胞 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 3. 家族遺傳: - (1) Ataxia-telangiectasia • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (D) ataxia-telangiectasia Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 1. 腫瘤依據在小腦天幕(tentorium cerebelli)上或下分為 supratentorial tumor 和 infratentorial tumor,兩者的臨床症狀有些微不同。總體來說最常見症狀為神經學缺損(neurologic deficit)和無力(motor weakness),以及頭痛和癲癇。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -70,7 +73,6 @@ tags:
 - | 分葉 | 位置 | 演化 | 功能 | |-------|------------------------|-----|--------------| | 小葉結節葉 | 蚓突的前下方 | 古小腦 | 維持平衡 | | 前葉 | 左右半球前內側 (Intermediate) | 舊小腦 | 協調運動執行、調節肌張力 | | 後葉 | 左右半球後外側 (Lateral) | 新小腦 | 計畫運動、協調精細運動 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (C) spinocerebellar ataxia type III Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (5) 侵犯到小腦,可能導致走路不穩、眩暈等。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (C) 24.66 歲男性,已知高血壓多年但未控制,突發頭痛、意識不清與 癲癇,至急診時血壓為 240/130 mmHg,神經學檢查意識混沌, 但無局部肢體無力現象,腦部磁振照影檢查最可能的發現為何? - (A) 小腦 (cerebellum) 出血 - (B) 視丘 (thalamus) 出血 - (C) 大腦枕葉部 (occipital lobe) 水腫 - (D) 中腦 (midbrain) 梗塞 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 

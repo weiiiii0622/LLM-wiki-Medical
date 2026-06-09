@@ -2,7 +2,7 @@
 type: guideline
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch04]]"
@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Vaccine contraindications (疫苗禁忌與注意事項)'
   - 'Vaccine contraindications'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-疫苗接種前需評估嚴重過敏、免疫低下、懷孕與急性中重度疾病等禁忌/延後情境。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+疫苗接種前需評估嚴重過敏、免疫低下、懷孕與急性中重度疾病等禁忌/延後情境。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- ...Testosterone Surge | 39 | | GnRH Antagonists | Abarelix* | Anterior PitultaryGland | Directly InhibitsGnRH Receptors | Anaphylaxis | Steroid | | Adrenal Ablating Drugs | Ketoconazole | Adrenal Gland | Decreases Androgen SynthesisFrom Steroid PrecursorsThrough Inhibition ofCytochrome P450 Enzymes | Administration Requires Steroid Supplementation to Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 【詳解】這一題就隱藏在 Sabiston 的其中一個章節的其中一行 裡面, 利用 laparoscopic choledochotomy 來摘除 common bile duct stone 的 contraindication 為總膽管的直徑不可小於 6 mm, 以免縫合時導致 stricture。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - ...手術清除結石,但治療後約4 | 0%的 | | 病人容易復發,需反覆治療。 | | | (B) 20. 下列何者是腹腔鏡膽囊切除術(laparoscopic cholecystectom | ny) 100(一)專 | | 约 major contraindication ? | 醫五 -7 | | (A) 懷孕婦女 | | | (B) Calot triangle 無法清楚辨識 | | | (C) 腹部曾開過刀 | | | (D) 肝硬化病人 | | | 【詳解】Anatomy無法清楚辨識為腹腔鏡膽囊切除術的 | J con- | | traindication • | | | | | Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - #### 5. Contraindication: Source: [[sources/med5-book2-ch08|辛、其 他]].

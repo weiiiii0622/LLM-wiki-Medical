@@ -20,6 +20,8 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'TORCH infections (TORCH 先天性感染)'
   - 'TORCH infections'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,13 @@ Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、�
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (2) 菌種:分為兩大類 (a) 淋病 (Neisseria gonorrhoeae); (b) 非淋病 (Chlamydia trachomatis、Ureaplasma urealyticum、Trichomonas vaginalis、和 herpes simplex virus)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...s)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - (2) 職業因素: - a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , kerosene, acetylene $\circ$ - (3) 腫 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -73,8 +79,6 @@ Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、�
 - 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - (D) 單純性疱疹 (herpes simplex) Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 1. 為一多發性血管腫瘤,由 HHV (human herpesvirus) -8 所引起,好發於愛滋患者。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (A) human herpesvirus type 8 (HHV-8) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (B) human herpes simplex virus type 2 (HSV-2) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

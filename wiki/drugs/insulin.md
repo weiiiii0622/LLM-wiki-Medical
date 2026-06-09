@@ -39,6 +39,7 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book4-ch13]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Insulin (胰島素)'
   - 'Insulin'
@@ -53,7 +54,7 @@ tags:
 
 ## Summary
 
-治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +93,12 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book4-ch13]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ② 腫瘤也可分泌其他生物因子:分泌腎上腺皮質激素造成 Cushing's syndrome,分泌催乳素造成溢乳,分泌胰島素造成低 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (b) 糖尿病:因為藥物會使胰島素製造不足及週邊組織胰島素抗性增加,例 如 CNI 藥物(而其中 tacrolimus 比 cyclosporine 容易導致術後糖尿病。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 2. 合併異常:約30% 病童有染色體異常包含 Trisomies 13、18、21,超過50% 病童有合併其他異常,以心臟異常最常見、其次為肌肉骨骼異常、腸胃道異常和生殖泌尿道異常。也很常出現 Beckwith-Wiedemann syndrome,以臍膨出(omphalocele)、高胰島素血症(hyperinsulinemia)和巨舌(macroglossia)為主要表現。預後較差,因易有其他合併異常。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
 - 【詳解】Beckwith-Wiedemann syndrome 包含臍膨出(omphalocele)、高胰島素低血糖症(hyperinsulinemia with hypoglycemia)、巨舌(macroglossia)、巨內臟(visceromegaly)。常併發或關聯之疾病:臍膨出、威爾氏腫瘤(Wilms' tumor)、橫紋肌肉瘤(rhabdomyosarcoma)、肝母細胞瘤(hepato-blastoma)、神經母細胞瘤(neuroblastoma)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (C) 3. 下列關於胰臟神經內分泌腫瘤之敘述,何者錯誤? 108(二)專 (A) 胰臟功能性神經內分泌腫瘤以胰島素瘤(insulinoma) 最多 醫五-32 (B) insulinoma 的 Whipple's triad 診斷包括:低血糖,因低血糖 出現的症狀及給與葡萄糖後症狀立刻緩解三項 (C) insulinoma 大部分是 hypovascularity。在 contrast enhanced CT 下,易形成完全低顯影的腫塊影像 (D) 發生率男、女性差不多 【詳解】insulinoma 通常為 hypervascular 的 tumo Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -111,8 +115,6 @@ tags:
 - #### A. Insulinoma (胰島素瘤) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 1. 定義:正常的 β 細胞會因應血糖的上升而分泌胰島素達到降血糖的效果,但是 insulinoma 的 β 細胞不論是在飢餓狀態或是運動後仍會持續分泌胰島素,造成低血糖。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (D) 6. 承上題,對於急性高鉀血症的處置,下列何者效果最慢? 109(一)專 (A) 靜脈注射 50 mL 的 D50W 和 10 units 的短效胰島素 (regular 醫五-50 insulin), 並嚴密監測血糖 (B) 靜脈注射 10 mL 的 10% 氯化鈣 (calcium chloride) 或是 10 mL 的 10% 葡萄糖酸鈣 (calcium gluconate) (C) 靜脈注射 50~100 mEq 的碳酸氫鈉 (sodium bicarbonate) (D) 給與腸胃道的 potassium-binding resins (C) 7. 下列何者為主動脈氣球幫 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- a. Transcellular shift: 鹼中毒、insulin、beta agonist、週期性的低血鉀,使得鉀離子從細胞外往細胞內移動,造成血液中血鉀降低。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 
 ## Clinical Caveats
 

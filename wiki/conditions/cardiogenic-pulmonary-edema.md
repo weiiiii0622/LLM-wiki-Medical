@@ -34,6 +34,7 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Cardiogenic pulmonary edema (心因性肺水腫)'
   - 'Cardiogenic pulmonary edema'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,11 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...處理(hemodynamic management):維持中心靜脈壓(central venous pressures)在 10~15 cm water;掃都卜勒超音波看腎動脈灌流阻力(RI)是否正常。避免低血壓或脫水、同時也要避體液過多或肺水腫,這些都會造成腎臟灌流不足。 - b. 移植腎功能延遲回復(delayed recovery of graft function, DGF): - (a) 定義:在移植後第一週肌酸酐(creatinine)不降反升,需要洗腎。 - (b) 成因:最常見的是急性腎小管壞死(acute tubular necrosis, ATN),大多經數週的治療可回復,但有2%腎永久無功能。若是合併寡尿(尿 1 cc/kg/hr,但在移植後幾天中,突然間 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - f. 胸管治療併發症(complication):很少發生,包括肋間血管撕裂傷、肺撕裂傷、肺内置放、胸腔外置放或感染。極少發生,肺再擴張水腫(re-expansion pulmonary edema),續發於突然增加的肺微血管通透性,機轉未明,好發於快速肺再擴張。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (B) 再膨脹肺水腫 (re-expansion pulmonary edema) Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (6) 手術後併發症:以肺切除後肺水腫最具傷害,發生率約 1~5%。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -102,7 +105,6 @@ tags:
 - ...血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-related acute lung injury, TRALI): 輸血後 6 小時內發生, 臨床症狀有急性呼吸困難、非心因性肺水腫、血壓降低及體溫升高。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 5. 臨床表現:一般而言與連接的位置、管腔有無阻塞有關。臨床症狀有不同程度的發 紺、呼吸急促(severe tachypnea)、生長遲緩、呼吸窘迫、肺水腫。血管阻塞越嚴 重則症狀越早出現,預後也越差。如果沒有治療,大多數病人一歲前死亡。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 胸部 X-ray:在出生後最初幾小時或是一天內,心臟大小在影像上不一定會有 cardiomegaly 表現。隨著時間的進展 cardiomegaly 會迅速進展,且會有肺血管 紋的增加,更甚者會有 pulmonary edema。側身的影像可能看到明顯的 PDA。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

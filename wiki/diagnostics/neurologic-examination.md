@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch02]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch19]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Neurologic examination (神經學檢查)'
   - 'Neurologic examination'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch19]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- (D) 14. 一位 65 歲男性主訴最近兩星期開始有排尿困難及便秘,三天前因下腹腫脹、疼痛至急診室。經置放導尿管導出 800 mL 清澈的尿液;今天早上至診所拔除導尿管,到中午仍解不出尿液,來到醫院門診,再置放導尿管後,導出 400 mL 尿液。身體檢查發現肛門括約肌鬆弛,前列腺中等程度肥大(約 60 公克左右)。經詢問得知三個月來下背部疼痛並會傳到右腳,下列何者是最適當的檢查或治療? - (A) 經尿道前列腺切除手術(TURP) - (B) 經直腸超音波及前列腺切片 - (C) 給予 5 alpha 還原酶抑制劑 - (D) 神經學檢查 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (C) 2. 一位 20 歲女性割腕自殺被送至急診室時,左手腕掌面橈側有約 3 公分橫向刀口,神經學檢查發現手掌五指可伸直及併指,但無法 彎曲握拳,且手指腹面有麻木感,則此病人最可能為下列那一 條神經受損? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - ...頸部開始酸痛,沿著肩膀、手臂到手指產生麻痛沒力。 - b. 無法做精細的動作,走路腳步越來越僵硬無力、麻痺,有時拖鞋掉了都不 自覺。 - c. 手和腳會有像被電到的感覺,尤其當脖子彎曲時,更容易引發被電到的感覺 和手臂疼痛麻木。 - d. 神經學檢查為 upper motor neuron disease 的表現: - (a) 下肢肌肉張力增強; 膝反射及足根反射增強。 - (b) 用力壓下腳背會引發腳步向上下快速擺動(陣攣 clonus )。 - (c) Babinski sign: positive • - (d) Hoffman's sign:輕彈中指,會引起大拇指及食指彎曲。 - (e) Tandem gait : unstable • - e. 最常造成頸椎神經根壓迫的位 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (2) 症狀:頸部疼痛以及頸部的 ROM 受限,但是通常神經學檢查會是正常的。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].

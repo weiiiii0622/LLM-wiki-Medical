@@ -29,6 +29,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/bone-age|Bone age (骨齡)]] - 以手腕 X 光估計骨成熟度，協助評估性早熟與身材矮小。
 - [[diagnostics/bone-marrow-examination|Bone marrow examination (骨髓檢查)]] - 骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。
 - [[diagnostics/bone-mineral-density|Bone mineral density, BMD (骨密度檢查)]] - 骨質疏鬆診斷與骨折風險評估常用檢查。
+- [[diagnostics/bosniak-renal-cyst-classification|Bosniak renal cyst classification (Bosniak 腎囊腫分級)]] - 依 CT/MRI 囊腫隔膜、鈣化、厚壁與顯影程度估計腎囊腫惡性風險並決定追蹤或切除。
 - [[diagnostics/brain-computed-tomography|Brain computed tomography, brain CT (腦部電腦斷層)]] - 急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。
 - [[diagnostics/brain-magnetic-resonance-imaging|Brain magnetic resonance imaging, brain MRI (腦部磁振造影)]] - 對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。
 - [[diagnostics/breast-ultrasonography|Breast ultrasonography (乳房超音波)]] - 評估乳房腫塊囊性或實質性，常用於年輕或緻密乳房，也可導引切片。
@@ -41,6 +42,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/colonoscopy|Colonoscopy (大腸鏡)]] - 評估下消化道出血、IBD、腫瘤與慢性腹瀉的重要檢查。
 - [[diagnostics/coombs-test|Coombs test (庫姆氏試驗)]] - 偵測 RBC 表面或血漿抗紅血球抗體，用於 immune hemolysis 與輸血前評估。
 - [[diagnostics/ct-pulmonary-angiography|CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)]] - 肺栓塞常用影像診斷。
+- [[diagnostics/cystometry|Cystometry / cystometrogram, CMG (膀胱壓力圖)]] - 灌注膀胱並量測 Pves/Pabd/Pdet、容量、感覺與順應性，是尿路動力學核心項目。
 - [[diagnostics/d-dimer|D-dimer (D-二聚體)]] - 低風險肺栓塞排除策略常用檢驗。
 - [[diagnostics/developmental-milestones|Developmental milestones (兒童發展里程碑)]] - 依年齡追蹤粗動作、細動作、語言、認知與社會互動發展。
 - [[diagnostics/dexamethasone-suppression-test|Dexamethasone suppression test (地塞米松抑制試驗)]] - 篩檢或評估 Cushing syndrome 的 HPA axis 回饋。
@@ -57,6 +59,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/focused-assessment-with-sonography-for-trauma|FAST exam (創傷超音波快速評估)]] - 外傷病人床邊超音波快速評估腹腔、心包膜或胸腔液體。
 - [[diagnostics/fractional-excretion-of-sodium|Fractional excretion of sodium, FENa (鈉分率排泄)]] - 用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。
 - [[diagnostics/glasgow-coma-scale|Glasgow Coma Scale, GCS (格拉斯哥昏迷指數)]] - 以 eye、verbal、motor response 評估意識程度，常用於腦傷、中風與急症神經評估。
+- [[diagnostics/gleason-score|Gleason score (Gleason 攝護腺癌分級)]] - 攝護腺癌病理分級系統，以主要與最高等級 pattern 加總，反映腫瘤侵襲性與治療風險分層。
 - [[diagnostics/growth-chart|Growth chart (生長曲線)]] - 兒童生長評估工具，需連續追蹤身高、體重、頭圍與 growth velocity。
 - [[diagnostics/hba1c|Hemoglobin A1c, HbA1c (糖化血色素)]] - 反映近期平均血糖並作為糖尿病診斷與控制目標。
 - [[diagnostics/helicobacter-pylori-testing|Helicobacter pylori testing (幽門螺旋桿菌檢測)]] - H. pylori 可用侵入性或非侵入性檢測確認。
@@ -77,15 +80,19 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/nerve-conduction-study|Nerve conduction study, NCS/NCV (神經傳導檢查)]] - 評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。
 - [[diagnostics/neurologic-examination|Neurologic examination (神經學檢查)]] - 系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。
 - [[diagnostics/nikolsky-sign|Nikolsky sign (Nikolsky 徵象)]] - 輕壓或摩擦使表皮剝離，見於 SSSS、pemphigus vulgaris、TEN 等表皮內或表皮壞死疾病。
+- [[diagnostics/nocturnal-penile-tumescence-test|Nocturnal penile tumescence test, NPT (夜間陰莖勃起監測)]] - 評估睡眠中自然勃起以區分 psychogenic 與 organic erectile dysfunction。
 - [[diagnostics/oral-glucose-tolerance-test|Oral glucose tolerance test, OGTT (口服葡萄糖耐受試驗)]] - 用於診斷糖尿病、糖尿病前期與妊娠糖尿病。
 - [[diagnostics/osmolal-gap|Osmolal gap (滲透壓間隙)]] - 實測與計算血漿滲透壓差，可輔助 toxic alcohol 等鑑別。
 - [[diagnostics/patch-test|Patch test (貼布試驗)]] - 延遲型過敏測試，用於 allergic contact dermatitis 過敏原評估。
 - [[diagnostics/peak-expiratory-flow|Peak expiratory flow, PEF (尖峰呼氣流速)]] - 居家或連續追蹤氣喘變異性的簡易工具。
 - [[diagnostics/polysomnography|Polysomnography (多項睡眠檢查)]] - 阻塞性睡眠呼吸中止症的診斷檢查。
+- [[diagnostics/prostate-biopsy|Prostate biopsy (攝護腺切片)]] - 以系統性或標靶切片取得攝護腺組織確認癌症，常依 PSA、DRE 或影像異常決定。
+- [[diagnostics/prostate-specific-antigen|Prostate-specific antigen, PSA (攝護腺特異抗原)]] - 攝護腺上皮分泌蛋白，受 BPH、prostatitis、導尿、DRE 與 5-alpha-reductase inhibitor 影響，用於風險評估與治療後追蹤。
 - [[diagnostics/protein-electrophoresis|Protein electrophoresis (蛋白電泳)]] - 偵測 monoclonal protein，支援 myeloma、MGUS、Waldenstrom 等診斷。
 - [[diagnostics/pulmonary-function-test|Pulmonary function test, PFT (肺功能檢查)]] - 區分阻塞型、限制型與擴散障礙。
 - [[diagnostics/reticulocyte-production-index|Reticulocyte production index, RPI (網狀紅血球生成指數)]] - 校正貧血程度與 reticulocyte 成熟時間後評估骨髓造血反應。
 - [[diagnostics/rheumatoid-factor|Rheumatoid factor, RF (類風濕因子)]] - RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。
+- [[diagnostics/semen-analysis|Semen analysis (精液分析)]] - 男性不孕第一線檢查，評估精液量、精蟲濃度、活動力、前進度與型態。
 - [[diagnostics/serum-ascites-albumin-gradient|Serum-ascites albumin gradient, SAAG (血清腹水白蛋白梯度)]] - SAAG 協助判斷腹水是否與門脈高壓相關。
 - [[diagnostics/stool-osmotic-gap|Stool osmotic gap (糞便滲透壓差)]] - 協助區分滲透性與分泌性腹瀉。
 - [[diagnostics/stress-test|Stress testing (壓力測試)]] - 用於評估冠狀動脈缺血，依運動能力與基礎 ECG 選擇方式。
@@ -99,7 +106,10 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/tumor-staging|Tumor staging (腫瘤分期)]] - 腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。
 - [[diagnostics/tzanck-smear|Tzanck smear (Tzanck 抹片)]] - 水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。
 - [[diagnostics/upper-endoscopy|Upper endoscopy, EGD (上消化道內視鏡)]] - 評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。
+- [[diagnostics/urethral-pressure-profile|Urethral pressure profile (尿道壓力分佈圖)]] - 以導管量測尿道不同位置壓力，評估括約肌閉鎖壓力與功能性尿道長度。
 - [[diagnostics/urinalysis|Urinalysis (尿液檢查)]] - 蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。
 - [[diagnostics/urine-anion-gap|Urine anion gap (尿液陰離子間隙)]] - 用尿 Na、K、Cl 推估尿 NH4 排泄，協助正常陰離子間隙代謝性酸中毒鑑別。
+- [[diagnostics/urodynamic-study|Urodynamic study (尿路動力學檢查)]] - 評估下泌尿道儲尿與排尿功能的檢查群，包含 uroflowmetry、cystometry、pressure-flow study 與 sphincter EMG。
+- [[diagnostics/uroflowmetry|Uroflowmetry (尿流速測定)]] - 量測尿流曲線與 maximum flow rate，用於初步評估 obstruction 或 detrusor underactivity。
 - [[diagnostics/viral-hepatitis-serology|Viral hepatitis serology (病毒性肝炎血清學)]] - 用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。
 - [[diagnostics/wood-lamp-examination|Wood lamp examination (伍氏燈檢查)]] - 紫外光輔助辨識 erythrasma、pityriasis versicolor、部分 tinea 與色素異常。

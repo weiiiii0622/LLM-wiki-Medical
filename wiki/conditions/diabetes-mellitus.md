@@ -80,6 +80,11 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Diabetes mellitus (糖尿病)'
   - 'Diabetes mellitus'
@@ -94,7 +99,7 @@ tags:
 
 ## Summary
 
-慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -174,9 +179,23 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch08]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch06]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- (1) 急性腎盂腎炎 (acute pyelonephritis, APN): - a. 病理:定義為腎盂或腎盂發炎,常以臨床表徵診斷。 - b. 好發於:有尿路感染(UTI)家族史、糖尿病、尿路阻塞、泌尿道異常、尿失禁、 性生活活躍之女性。 - c. 菌種: 80% 是大腸桿菌(E.coli)。 - d. 臨床表徵: - (a) 症狀:包括發燒、畏寒、肋脊角敲痛。常伴隨下泌尿道症狀(尿痛、頻尿、 急尿)。25% 人會有全身性敗血症。 - (b) 實驗室檢查:尿中有 WBC 與 RBC,血中 WBC 與 CRP 升高。 - (c) 影像:超音波可用來探查是否併發腎水腫。若症狀不明顯或治療無效,可排顯影劑 CT 檢查,可準確 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- b. 好發於糖尿病、洗腎、靜脈藥物濫用者、尿 路異常(如結石或阻塞)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 5. 勃起功能異常 (erectile dysfunction (ED) = impotence 陽痿): - (1) 流行病學:臨床上最常見的男性性功能障礙,40 歲以上有25%人有ED。另外常因其它因素引起:抽菸者40%有ED、糖尿病者60%有ED、高血壓者70%有ED、冠狀動脈疾病80%有ED、周邊血管病變90%有ED。 - (2) 危險因子:年齡、抽煙、喝酒、心血管病史、代謝症候群。 - (3) 臨床表徵: - a. 症狀:ED 定義是沒有辦法達到 / 維持陰莖的勃起硬度以進行一次滿意的性 行為。 - b. 實驗室檢查:空腹血醣值(排除糖尿病及糖尿病性神經病變的可能)、血中 睪固酮濃度、血中泌乳激素(prolactin)濃度。 - c. 特殊檢查: - (a) Source: [[sources/med5-book5-ch08|辛、男性學]].
+- ...人應接受夜間陰莖勃起試驗(nocturnal penile | 醫五 -70 | | tumescence test) | | | (B) 要補充男性荷爾蒙 | | | (C) 第一線檢查應使用彩色都卜勒超音波 | | | (D) 高血脂、糖尿病及高血壓會引起海綿體血管內皮細胞功能失調 | | | (C) 12.60 歲丁先生,由於勃起時硬度夠,但無法持久而來就診,陰莖 | 105(一)專 | | 海綿體血流量檢查發現其海綿體動脈血流正常,但有靜脈溢漏 | 醫五 -70 | | (venous leakage )現象,最可能的病因是: | | | (A) 陰莖海綿體神經病變 | | | (B) 良性前列腺肥大 | | | (C) 陰莖海綿體平滑肌病變 | | | (D) 尿道炎 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- ...entromere | | | (D) | 17. | 下列何項危險因子不會影響陰莖海綿體血流量(penile blood flow, | 103(一)專 | | | | PBF)? | 醫五 -70 | | | | (A) 抽菸 (B) 糖尿病 | | | | | (C) 高血壓 (D) 心因性 (psychogenic ) 勃起功能障礙 | | | | | 【詳解】(D) 心因性不影響血管。 | | | (C) | 10 | 下列有關遲發型性腺功能低下症(late onset hypogonadism)的敘 | 102(二)專 | | (C) | 10. | | B五-68 | | | | 述,何者正確? | 西五 -00 | | | | (A) 睪固酮於晚上 8 至 10 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (B) 年輕男性之急性細菌性副睪丸炎通常與糖尿病有關 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- 2. 宿主防禦 (host defenses): - (1) 尿液性質:滲透壓,尿素濃度,有機酸濃度和 pH 值都會影響。 - (2) 尿流動性:正常尿的沖刷可防止細菌逆行性感染。故尿滯留者易 UTI。可能由神經性膀胱、糖尿病、懷孕、BPH、年齡,小孩的膀胱輸尿管逆流(vesicoureteral reflux)引起尿滯留。 - (3) 尿路上皮完整性。 - (4) 特殊處:女性在尿道周圍有乳酸菌(Lactobacillus)可對抗 UTI 細菌;男性前列腺液中的鋅(Zinc)有防止 UTI 的功用。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...頸癌接受根除性切除手術 (D) 胸椎損傷造成膀胱功能損傷 【詳解】接受婦產科手術或大腸直腸手術可能使支配膀胱肌肉 收縮的神經(pelvic plexus)損傷,導致 urinary retention,所以 不是 OAB。 (C) 16. 糖尿病膀胱病變(diabetic cystopathy)是一種常見的糖尿病併發 99(二)專 症,下列關於此症狀的敘述,何者錯誤? 醫五-70 (A) 患者通常有較差的膀胱感覺 (B) 在病程晚期,膀胱逼尿肌擴張及膀胱收縮力下降的情形可能 發生 (C) 逼尿肌不穩定的情形很常見,患者多有急尿型尿失禁(urge incontience) (D) 在典型的糖尿病膀胱病變中,括約肌的共濟失調並不常見 【詳解】糖尿病引起的神經病變是傷害神經末梢為主, Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 2. 胎便塊大腸阻塞症(Meconium plug syndrome) - (1) 常見的新生兒腸阻塞,和多種疾病有關,如巨結腸症、妊娠期糖尿病、甲狀腺功能低下、囊性纖維化等。大多數有此症狀之孩童為正常,但建議進一步檢查排除巨結腸症,尤其早產或明顯有遠端小腸阻塞症狀之孩童。 - (2) 臨床表現:腹脹。 - (3) 檢查 & 診斷: KUB 顯示多段小腸氣、水溶性顯影劑灌腸(同時診斷治療)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 3.60%的病人出現不正常的葡萄糖耐受試驗結果,甚至進展成為糖尿病,須觀察糖尿病症狀如口渴、多尿、噁心、嘔吐、皮膚脫水乾燥,與胰臟的內分泌功能喪失相關。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
@@ -186,15 +205,6 @@ tags:
 - 【詳解】現行較常見的減重手術術式包含 Roux-en-Y 胃繞道手術,胃袖狀手術,可調式胃束帶手術。Roux-en-Y 胃繞道手術的優點為減重效果較快且治療糖尿病效果佳。胃袖狀手術的優點為併發症較少。本題提到患者具糖尿病,因此 Roux-en-Y 胃繞道手術可能是較適合的術式選擇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...ma)癌化的 | | | | 風險極低 | | | | 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - | 臨床表徵 | 阿米巴性感染 | 化膿性感染 | |-------|-------------|----------| | 年龄 | 20~40 歲的年輕人 | > 50 歲 | | 男:女 | > 10:1 | 1.5 : 1 | | 膿瘍數量 | 80% 為單顆 | 50% 為單顆 | | 位置 | 右肝 | 右肝 | | 糖尿病 | 較少 | 常見 (27%) | | 飲酒 | 常見 | 常見 | | 黄疸 | 較少 | 常見 | | Alk-P | 上升 | 上升 | Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- (#) 1. 動脈瘤形成的危險因素不包括下列何者? 108( ) 專 (A) 高年齡 (B) 男性 (C) 高血脂 (D) 糖尿病 醫五 -22 【詳解】皆是危險因子,故送分。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (B) 4.68 歲男性,送來急診時主訴腹部劇痛直達後背,病人身高 170 公 100(二)專分,體重 90 公斤,理學檢查血壓 86/48 mmHg,腹部有一搏動性 醫五-14 腫塊,請問此病形成原因最可能為何? - (A)糖尿病(DM) - (B) 動脈粥狀硬化 (atherosclerosis) - (C) 血管彈性組織退化 (elastic tissue degeneration) - (D) 血管炎 (vasculitis) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- 2. 外在 / 全身因素: 年紀、營養不足 (營養不良 / 肥胖、缺乏維他命 A 或 C、鋅、 鐵或銅 )、抽菸、類固醇的使用、抗癌藥物、糖尿病、尿毒症或 Collagen vascular disease。 - (1) 維他命 A 和 epithelialization 相關,可逆轉類固醇所造成的延緩傷口癒合的作用。 - (2) 維他命 C 與鋅和 collagen 合成相關。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- (D) 9. 一位 56 歲的男性糖尿病患,有糖尿病足來到門診,與醫師討論 有沒有可能憑藉換藥使傷口癒合,則下列何項最具決定性? - (A) 抽血檢查 HbA1c - (B) 安排神經傳導及肌電圖檢查(NCV/EMG) - (C) 做細菌培養 - (D) 檢查足背動脈與後脛動脈有無脈動 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- (D) 8. 一位 56 歲男性病人因胸悶住院。他有糖尿病、高血壓、與抽菸 史。冠狀動脈血管攝影檢查顯示左冠狀動脈主幹 85% 狹窄、左 前降支 80% 狹窄、左回旋支 77% 狹窄、右冠狀動脈 90% 狹窄。 下列敘述何者正確? ①依冠狀動脈血管攝影檢查前家屬之決 定,立即裝置塗藥支架(drug-eluting stent) ②冠狀動脈血管攝 影檢查時,經與家屬商量後,立即裝置裸金支架(bared-metal stent) ③裝置支架前,不須請心臟外科醫師向病人及其家屬解 釋冠狀動脈繞道手術之優缺點 ④裝置支架時,手術室須準備 好,以便可立即進行緊急手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (A) 三條冠狀動脈疾病之糖尿病病人接受冠狀動脈繞道手術,比 接受支架置放術具有較好的長期存活 醫五-16 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (D) 具有高風險的特徵(例如:糖尿病、左心室功能異常、腎功能異常、年老、慢性肺病、周邊動脈疾病)的多條血管冠狀動脈疾病病人接受冠狀動脈繞道手術比接受經皮冠狀動脈處置具有較差的長期存活率 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- Neurogenic:動眼神經、交感神經或 CNS 受損所致,例如動脈流 血、腦膜炎、Horner's syndrome、糖尿病、多發性硬化症等。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- (A) 1. 關於糖尿病足(diabetic foot)的敘述,下列何者錯誤? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 
 ## Clinical Caveats
 
@@ -205,6 +215,7 @@ tags:
 
 - [[conditions/diabetic-ketoacidosis|Diabetic ketoacidosis, DKA (糖尿病酮酸中毒)]]
 - [[conditions/diabetic-neuropathy|Diabetic neuropathy (糖尿病神經病變)]]
+- [[conditions/emphysematous-pyelonephritis|Emphysematous pyelonephritis (產氣性腎盂腎炎)]]
 - [[conditions/glucagonoma|Glucagonoma (升糖素瘤)]]
 - [[diagnostics/hba1c|Hemoglobin A1c, HbA1c (糖化血色素)]]
 - [[conditions/hyperosmolar-hyperglycemic-state|Hyperosmolar hyperglycemic state, HHS (高滲透壓高血糖狀態)]]

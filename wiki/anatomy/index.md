@@ -39,6 +39,7 @@ Organs, structures, and regions.
 - [[anatomy/peripheral-nerves|Peripheral nerves (周邊神經)]] - 周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。
 - [[anatomy/pituitary-gland|Pituitary gland (腦垂體)]] - 腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。
 - [[anatomy/pleura|Pleura (肋膜)]] - 肋膜腔疾病包含積液、氣胸與膿胸。
+- [[anatomy/prostate-zones|Prostate zones (攝護腺分區)]] - 攝護腺周邊區常發生 prostate cancer，transition zone 常發生 BPH，分區影響 DRE、TRUS 與切片策略。
 - [[anatomy/renal-tubule|Renal tubule (腎小管)]] - 腎小管調控水、電解質、酸鹼與藥物/毒物處理。
 - [[anatomy/skin|Skin (皮膚)]] - 身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。
 - [[anatomy/skin-appendages|Skin appendages (皮膚附屬器官)]] - 毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。

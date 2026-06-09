@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med3-book4-ch06]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Tumor lysis syndrome (腫瘤溶解症候群)'
   - 'Tumor lysis syndrome'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-腫瘤快速破壞造成高尿酸、高血鉀、高血磷、低血鈣與 AKI 風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤快速破壞造成高尿酸、高血鉀、高血磷、低血鈣與 AKI 風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- (1) KUB: 依成分不同有不同顯影。 - a. 可看到(radiopaque):80%結石,含金屬離子(Ca)愈多者愈明顯。 - b. 模糊 (faintly opaque): 磷酸胺鎂 (struvite)、胱胺酸 (cystine) 結石。 - c. 看不到 (radiolucent): 尿酸 (uric acid)、黃嘌呤 (xanthine)、indinavir 結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- d. 尿酸(Uric Acid):合成尿酸結石。濃度受食物(海鮮)影響大。 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- ...高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占鈣結石成因 15%。較常見的原因是攝取高 purine 食物、內生性尿酸分泌過量,引起高尿酸尿鈣(hyperuricosuric calcium)結石。(注意:這跟尿酸 (uric acid) 結石不一樣,一個含鈣一個不含鈣,尿 pH 值一個 > 5.5 (因為是產生 monosodium urates) 一個 7.2(正常尿 pH 值 5.8),因為細菌分解尿素產生胺(ammonium)。常見感染菌叢:包括 Proteus、Klebsiella、Pseudomonas、Staphylococcus(最常見的就是 Proteus,都是會代謝產生尿素),而 UTI 最常見的菌種 $E.\ coli\$ 反而少引發結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (B) 腫瘤溶解症候群(tumor lysis syndrome) 會造成高鈣血症 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 【詳解】腫瘤溶解症候群(tumor lysis syndrome)癌細胞快速分解會造成高尿酸、高血磷、低血鈣和高血鉀。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -56,8 +61,6 @@ tags:
 - ...表現很相似 (B) CPPD 引起的急性關節炎常發生在年輕男性,因此要利用關節 - 液結晶分析來和其他關節炎做鑑別診斷 (C) calcium apatite deposition 引起的關節與關節附近發炎,更容易發生在慢性腎臟衰竭合併有 hyperphosphatemia 的病人 - (D) CPPD 與 calcium apatite deposition 結晶引起的關節炎皆可用 colchicine 和 glucocorticoid 治療 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - ...mphocyte 12.25%,血小板 319,000/mm³,白血球鹼性磷酸酶(LAP)活性 28,LDH 1,148 U/L,AST 50 U/L,ALT 23 U/L。下列何項檢查對診斷此男士白血球過多症的原因最有幫助? - (A) Uric acid - (B) Hepatitis B and C serology - (C) X-ray of the right big toe - (D) Bone marrow chromosome analysis Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - 【詳解】leukemoid reaction 和 leukemia 區別除了 LAP score 之外,就是 BM aspiration。此外本 case 其周邊血液的 basophil 高達 4.5%,要想到 CML。所以做骨髓穿刺是合理的。題目是問白血球過多症的原因鑑別,如果是問大拇趾關節處紅腫疼痛的原因診斷,則抽uric acid 是合理的。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- (B) 尿酸 (uric acid) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...red vision, | Bone pain (骨髓內增殖)、LAPs (肝脾淋E | | | | Retinopathy, TIA; Chloroma (軟組織腫瘤) | 大)、 | | | | | CNS involvement · Tumor lysis syndrome | | | 次型症狀 | DIC/M3 | Ant. Mediastinal mass (T cell) | | | | Gingival infiltration /M4,M5 (牙齦肥厚) | | | | 形態學 (Old) | 細胞質有顆粒 (Granule)、Auer rod | 細胞質軸 | 交少、無顆粒 | | Morphology | | | | | 化學染色 (Old) | Myeloperoxida Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 
 ## Clinical Caveats
 

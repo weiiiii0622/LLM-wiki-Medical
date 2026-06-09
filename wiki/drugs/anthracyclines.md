@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch13]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Anthracyclines (蒽環類化療藥)'
   - 'Anthracyclines'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- ...stectomy,則下列何種膀胱內藥 | 醫五 -67 | | 物灌注治療最能有效控制此症? | | | (A) Bacillus Calmette-Guerin (BCG) | | | (B) mitomycin C | | | (C) doxorubicin | | | (D) gemcitabine | , | | (B) 14. 下列何項檢查工具,在沒有尿道受損跡象時,是診斷膀胱破裂的 | 106 (一) 專 | | 黃金標準 (golden standard)? | 醫五 -76 | | (A) 泌尿道系統超音波 | | | (B) 逆行性膀胱造影 | | | (C) 順行性膀胱造影(靜脈腎盂造影) | | | (D) 加顯影劑之腹部電腦斷層 | | | (D) 15. 表淺性膀胱癌 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (3) 化學治療: - a. 適應症: - (a) 有淋巴結的轉移(N1)。 - (b) 乳癌細胞侵犯大於 $1 \text{cm} \cdot \text{Ki} 67 > 30\% \cdot \text{PR/ER}(-)$ 可考慮做化學治療,但 $\text{PR} \cdot \text{ER}$ 為陽性時不建議做化學治療。 - (c) High grade 的 breast cancer - (d) 必須考慮年紀,年紀大的患者不建議做化療,但年紀輕的病患可能會導致不孕,必須向患者解釋與溝通治療方向。 - b. 常用藥物:包括紫杉醇與 Anthracycline 類藥物。 - (a) 紫杉醇包括太平洋紫杉醇(taxol)及歐洲紫杉醇(Taxotere)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (b) Anthracycline 類藥物包括小紅莓 (epirubicin) 及微脂體小紅莓 (Lipodox)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - ...tage B 的病人,肝腫瘤尺寸較大或為多發性,但尚無血管 侵犯,動脈栓塞術為第一線的治療。 - c. 作法: - (a) 穿刺股動脈並將導管置入股動脈,再往上抵達腹主動脈幹後,繼續往前進入**肝動脈**。 - (b) 使用化學治療藥物如 Doxorubicin 或 Adriamycin 等藥物混合 Lipiodol 顯影 劑針對 HCC 灌注。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].

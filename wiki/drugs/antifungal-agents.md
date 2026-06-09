@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Antifungal agents (抗黴菌藥物)'
   - 'Antifungal agents'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- iii. 黴菌:有機會造成念珠菌(candida)泌尿道感染,所以在移植後數月 需要服用預防性抗黴菌藥 fluconazole/Mycelex troche。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...108(一)專 畏寒及腰痛,因此到急診就診,腎臟超音波顯示腎臟並無結石或 水腫,尿液中白血球為> 100/HPF,但無紅血球( 100/HPF,尿路培養為念珠球菌(Candida albicans),下列何項處置最不適當? (A)給予口服 fluconazole | 105( 二 ) 東醫五 -69 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (b) 針對麴菌:不建議抗黴菌藥物,因麴菌瘤血液供應差。可考慮 amphotericin B 和 voriconazol。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (C) 1.45 歲男性,5年前右上肺葉有一空洞性病變,經診斷為肺結核 95(一)專 後,經治療一年後完成治療,痰培養轉為陰性,但空洞仍在。病 人最近數月有咳血現象,胸部 X 光檢查空洞內出現塊狀物,支 氣管痰液培養有放射黴菌(Aspergillus),應作下列何種治療最 為有效? - (A) 給予抗黴菌藥物 - (B) 作支氣管血管栓塞 - (C) 如肺功能許可,作手術切除 - (D) 給予靜脈注射抗出血藥物 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 治療:Amphotericin B + flucytosine for 6~10 weeks。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -59,8 +65,6 @@ tags:
 - 2. 表皮 (Cutaneous): 皮膚絲狀菌 (Dermatophyte) 會造成癬 (Tinea), 大部分局部 塗抹 Azole 類藥物即可痊癒;若侵犯腳掌角質較厚處、指甲,需口服 Itraconazole、Terbinafine 數週。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
 - a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - b. 若致病菌是 Fluconazole 無效的念珠菌(*C. glabrata, C. krusei*)或對 fluconazole 治療無效,可考慮用 IV Caspofungin 或 Voriconazole。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- b. 雖然隱球菌對 fluconazole 也有效,但腦膜炎—開始需用 Amphotericin B 0.7 mg/kg/d IV 及 5-flucytosine 25 mg/kg PO q6h 達 2~3 週,再改口服 fluconazole 400 mg PO qd 達 8~10 週,再繼續用 200 mg PO qd 治療至少一年。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...) Klebsiella pneumonia【詳解】若是細菌性的,Protein>100 mg/dL,白血球 >1,000 mL。 | | | (D) | 2. 承上題,腦脊髓液培養初步結果顯示有 yeast,下列處置何者錯誤?(A) 給 amphotericin B + flucytosine | 108(一)專醫三-65 | | | (B) 檢查 HIV screening test | | | | (C) 照胸部 X 光,抽血做黴菌培養及抗原檢測 | | | | (D) 給 echinocandin 類藥物 | | | | 【詳解】依照 candida meningitis 治療。 | | | (D) | 3. 下列何者不是瘧疾預防性藥物? | 103(二)專 | | | (A) chlo Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 
 ## Clinical Caveats
 

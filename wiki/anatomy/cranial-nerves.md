@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch01]]"
@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book1-ch19]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Cranial nerves (腦神經)'
   - 'Cranial nerves'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-十二對腦神經連結眼球運動、臉部感覺運動、聽平衡、吞嚥與自律神經功能。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+十二對腦神經連結眼球運動、臉部感覺運動、聽平衡、吞嚥與自律神經功能。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book1-ch19]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- b. 器質性 (organic): - (a) 神經方面 (neurogenic): - i. 腦神經:有腦部腫瘤壓迫等。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (B) 第三對顱神經麻痺(3rd cranial nerve palsy) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 【詳解】該位置鄰近第三對腦神經,易因壓迫導致 ptosis、眼球 運動障礙、同側瞳孔較大以及對光無反應。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (C) 這是一個 aneurysm,極易壓迫 6th cranial nerve,造成複視 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
@@ -66,7 +69,6 @@ tags:
 - #### E. 十二對腦神經 (Cranial nerve) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - | 腦神經 | 行走路徑 | |----------------------|-----------------| | 第1對腦神經 | 直接抵達大腦顳葉 | | 第2對腦神經 | 經丘腦將訊息傳達到視覺皮質 | | 第 3, 4, 5 對腦神經 | 由中腦進入,再經視丘與大腦溝通 | | 第 6, 7, 8 對腦神經 | 由橋腦進入,再經視丘與大腦溝通 | | 第 9, 10, 11, 12 對腦神經 | 由延腦進入,再經視丘與大腦溝通 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - | 內側構造 | 血管供應 | 同側顱神經 | 其他支配 | 外側構造 | 血管供應 | 同側顱神經 | 其他支配 | |--------------------------|-------|---------------------|---------------------------|--------------------------|---------------|-----------------------------------------|---------- Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 
@@ -75,10 +77,12 @@ tags:
 
 ## Related Pages
 
+- [[procedures/blepharoplasty|Blepharoplasty (眼瞼整形術)]]
 - [[anatomy/brainstem|Brainstem (腦幹)]]
 - [[conditions/carotid-cavernous-fistula|Carotid-cavernous fistula, CCF (頸動脈海綿竇瘻管)]]
 - [[anatomy/central-nervous-system|Central nervous system, CNS (中樞神經系統)]]
 - [[conditions/cranial-nerve-palsy|Cranial nerve palsy (腦神經麻痺)]]
+- [[conditions/craniosynostosis|Craniosynostosis (顱縫早閉)]]
 - [[diagnostics/neurologic-examination|Neurologic examination (神經學檢查)]]
 - [[conditions/trigeminal-neuralgia|Trigeminal neuralgia (三叉神經痛)]]
 - [[conditions/vestibular-schwannoma|Vestibular schwannoma / acoustic neuroma (前庭神經鞘瘤／聽神經瘤)]]

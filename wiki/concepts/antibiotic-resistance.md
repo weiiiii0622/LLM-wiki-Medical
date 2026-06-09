@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Antibiotic resistance (抗生素抗藥性)'
   - 'Antibiotic resistance'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- (2) Fluoroquinolone (Ciprofloxacin® Levofloxacin®) - a. 優點:對 G(-) 菌叢有廣效效果,治療 UTI 效果良好,不論是 uncomplicated 或 complicated。 - b. 缺點:價格貴。對大部份厭氧菌無效。注意雖然對於 Staphylococci species 也有效但是效果不佳,而且容易篩選出抗藥性菌株。 - c. 機轉:抑制細菌 DNA 合成。 - d. 禁忌:不可用於孕婦及小孩(影響軟骨生長)。 - e. 特殊副作用:較少發生副作用。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...penicillins (ex. Ampicillin®、Amoxicillin®) 可治療 Enterococci、 Staphylococci、E. coli 和 Proteus mirabilis, 價格便宜。 - b. 缺點:近年來抗藥性增加,故現在 aminopenicillins 多需要加上 beta-lactamase inhibitors 才能對付 UTI, 這讓價格不再便宜。另外 penicillin 第一代對多數 UTI 無效。 - c. 機轉:抑制細菌細胞壁合成。 - d. 禁忌:過敏史(孕婦可用)。 - e. 特殊副作用:特別注意過敏反應(要做 skin test);肝腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - 5. 手術治療適應症: - (1) 藥物治療失敗且持續開放性傳染。 - (2) 接受 3~6 個月化療後出現開放性開洞肺結核,尤其出現抗藥性結核菌血症。 - (3) 持續陽性痰合併需手術切除之病灶(肺毀損、肺塌陷、支氣管擴張、支氣管 堵塞)。 - (4) 陰性痰合併肺毀損、阻塞性開洞、結核瘤。 - (5) 非典型分枝桿菌局部感染。NTM - (6) 中下葉結核性支氣管擴張。(因引流效果差) - (7) 開放性未開洞肺結核合併壁增厚或對藥物反應差。 - (8) 懷疑腫瘤。 - (9) 反覆或持續性咳血。(if bleeding > 600 mL/day) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D) 1. 下列關於肺結核病(pulmonary TB)的手術適應症與敘述,何者 103(ニ)専 錯誤? - (A) 最常見的適應症為多重抗藥性肺結核 - (B) 併發黴菌感染或大咳血時應考慮手術 - (C) 病人術前的白蛋白值最好高於 3 g/dL - (D) 因為病人術前通常身體虛弱,手術應該全都以胸腔鏡手術進行 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 4. 開心手術更換人工瓣膜的 indication: - (1) 感染導致 valve stenosis or regurgitation 引發心衰竭。 - (2) 嚴重瓣膜閉鎖不全。 - (3) 黴菌或強抗藥性的菌種造成的心內膜炎。 - (4) 感染導致心臟傳導阻礙、annular or aortic abscess、穿孔產生 fistula。 - (5) 抗生素治療下仍舊反覆性栓塞和細菌贅生物(vegetation)。 - (6) 細菌贅生物大於1公分。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -70,9 +75,6 @@ tags:
 - 2. 作用機制 (PCN 為例): 具有 β-lactam ring, 青黴素會穿過細胞壁的 Porin, 之後與細胞膜上的 Penicillin binding protein (PBP) 結合, 而抑制細胞壁合成的最後一個步驟所需的酵素:轉胜肽酶 (Transpeptidase)。細菌可產生各種 β-lactamase 破壞 Penicillin 的 β-lactam ring 或改變 PBP 結構, 使藥物失效, 因而產生抗藥性。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...| | | 俗阑氏陽性困 | Listeria monocytogenes | PCN 無法入細胞內,Listeria 腦膜炎用 Ampicillin 治療 | | | | 格蘭氏陰性菌 Neisseria meningitis | | 抗藥性增,現少用 PCN 治療 Neisseria 造成的腦膜炎 | | | | | | Syphilis 的首選用藥 | | | | 厭氧菌 Pasteurella multocida, Actinomyces | | | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (4) Staphylococcus 會產生 Penicillinase 破壞 Penicillin 的 β lactam, 因此 Penicillin、 Ampicillin、Ticarcillin 都無法對抗 Staphylococcus,可選用 Penicillinase-resistant 藥物 (Oxacillin)或加上 β lactamase inhibitor (Augmentin、Tazocin),抑制細菌的抗藥性。以下分述這些藥物。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (2) 治療: - a. 完全沒有抗藥性可考慮 IV high dose penicillin - b. 一般經驗性用藥需使用第三代 cephalosporin 最好的選擇是 Ceftriaxone。 - c. 高度抗藥性,需加上 Vancomycin、Rifampin。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (註:因應 N. gonorrhoeae 抗藥性攀升, 2015 STD guideline 將 Ceftriaxone 的劑量由 125 mg 增加至 250 mg) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (1) 觸媒(Catalase)陽性、氧化酶(Oxidase)陰性、會發酵葡萄糖,為兼性厭氧菌。 許多菌種均能攜得抗生素的抗藥性。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

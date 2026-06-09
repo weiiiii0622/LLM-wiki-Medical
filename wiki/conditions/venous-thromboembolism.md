@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med3-book4-ch20]]"
@@ -14,6 +14,8 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Venous thromboembolism, VTE (靜脈血栓栓塞)'
   - 'Venous thromboembolism, VTE'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,14 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- (C) 深部靜脈血栓 (deep vein thrombosis) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ii. 根除性膀胱切除(radical cystectomy): 切除所有前骨盆腔器官。對 侵犯肌肉層(T2)的膀胱癌是黃金標準(gold standard)治療,另外 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術。注意此手術為大手術,故術前需停止服用抗凝血劑一週。且由於手術時間長,故腿部深層靜脈血栓可能於術後發生,手術的死亡率約為 2%。 - (i) 移除所有前骨盆腔器官。 - ①男性:移除膀胱及周圍脂肪、前列腺、儲精囊。 - ②女性:移除膀胱及周圍脂肪、卵巢、子宮、子宮頸、陰道上三分之一、尿道。(注意:骨盆淋巴結摘除與否,對預後無助益。) - (ii) 術後復發:復發率 10%,通常在三年內發生。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- ...ystectomy)的敘述,何者錯誤? (A) 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術(B) 術前不必停止服用 aspirin (C) 腿部深層靜脈血栓可能於術後發生(D) 手術的死亡率約為 1~3% | 108(二)專醫五-66 | | (D) | 5. 有關膀胱尿道逆流(vesicoureteral reflux)發生原因的敘述,下列何者錯誤? (A) 小孩有尿道感染時容易發生 (B) 膀胱三角肌無力(trigonal weakness) (C) 完全尿道複製(complete ureteral duplication) (D) 前膀胱頸局部切除(wedge resection o Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (B) 8. 其診斷為何? - (A) 腸繋膜囊腫 - (B) 腹部主動脈瘤 - (C) 胰臟尾部腫瘤 - (D) 下腔靜脈血栓 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - B. 深層靜脈栓塞 (Deep vein thrombosis, DVT) 84 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - #### B. 深層靜脈栓塞 (Deep vein thrombosis, DVT) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
@@ -60,8 +67,6 @@ tags:
 - (A) 給予靜脈血栓溶解劑(rt-PA)治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 2. 西方常見但台灣罕見的 Factor V Leiden 是因為病患對 Activated Protein C resistance,雖然不是缺乏,但體內也是呈現高凝固狀態。西方國家的 Deep vein thrombosis (DVT)中有 50% 是因為 Factor V Leiden。 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...心室過勞肥大、肺動脈膨大。 | | |-----|---------------------------------------------------------|--------| | (D) | 2. 一位 30 歲臺灣人左手發生深層靜脈血栓(deep vein thrombosis, DVT), | | | | 回顧其家族史,他的哥哥在 35 歲時死於肺栓塞。下列何者最不可能是這位病人 DVT 發生的原因? | 醫三 -43 | | | (A) protein C deficiency | | | | (B) protein S deficiency | | | | (C) antithrombin III deficiency | | | | (D) factor V Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- #### C. 靜脈血栓疾病 (Venous thromboembolism) Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- ii. 缺點:子宮出血、增加子宮癌風險(使用>5年)、潮熱、中風、靜脈血栓。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

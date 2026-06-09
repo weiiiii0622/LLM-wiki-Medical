@@ -26,6 +26,8 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Monoamine hypothesis (單胺假說)'
   - 'Monoamine hypothesis'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,15 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch09]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- (b) 血中兒茶酚胺 catecholamine (主要是 Epinephrine + Norepinephrine)上昇,80% 人會 > 2,000 ng/L。若有高血壓但 catecholamine 正常,可以排除嗜鉻細胞瘤的可能性。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- ...大多數甲基化發生在腎上腺髓質或嗜鉻細胞瘤內。 - ii. 由於這種兒茶酚胺向後腎上腺素的轉化在嗜鉻細胞瘤內是一個不間斷的過程,因此比陣發性的兒茶酚胺更適合偵測腫瘤。不是血漿兒茶酚胺(catecholamines)、早晨空腹尿中去甲腎上腺素(norepinephrine)、腎上腺靜脈取樣兒茶酚胺(Adrenal vein sampling for catecholamines)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- (C) 正腎上腺素 (norepinephrine) Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母細胞瘤的存在及其是否已有轉移,也可用來監測 神經母細胞瘤在接受治療後的反應及其是否有復發跡象 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...mping。 - a. 早期傾食症候群 (early dumping syndrome): 可視為腸胃道症狀加上心血管症狀。 - (a) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (a) Serotonin antagonist:對於 early dumping 較有效,但效果有限。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -83,10 +91,6 @@ tags:
 - (2) 低體溫初期周邊交感神經會反應,增加 norepinephrine 分泌,血管收縮和血壓上 升,如果病患本身有休克,會使得 ischemia 更嚴重。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 是提升何種神經傳導物質在腦中的濃度? - (A) acetylcholine - (B) norepinephrine - (C) serotonin - (D) dopamine Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...(B) 尿失禁(C) 單側無力(D) 步態不穩 | 101( 二 ) 專醫四 -77 | | (C) 22. 一般認為 Alzheimer's disease 主要是因何種神經傳導物質(neurotransmitter)減少所致? (A) dopamine (B) serotonin (C) acetylcholine | 100(一)專醫四-48 | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (1) 不動(= dopamine 太少→減少抑制 GABAergic 神經元→導致 GABAergic 神經元抑制動作的效果增加→不動),如巴金森氏症的動作緩慢,要給 dopamine agonist 治療; Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- b. 廣義基底核還包括黑質、底丘腦核, 會給予上述途徑調節: - (a) 中腦的黑質 (Substantia nigra) 會分泌 Dopamine 調控紋狀體 (刺激 D1 receptor 或抑制 D2 receptor)。 - (b) 外蒼白球 (GPe) 以 GABA 抑制底丘腦核 (subthalamus nucleus)。 - (c) 間腦的底丘腦核 (Subthalamus nucleus) 會分泌 Glutamate 刺激內蒼白球 (Internal Globus pallidus, GPi)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- ...刺激骨骼肌的 nicotinic 接受器。 - b. 交感神經由胸椎、腰椎脊髓的側角神經元發出,經兩個神經元,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎旁神經節(paravertebral ggl.)的神經元,其再分泌正腎上腺素(norepinephrine)刺激目標器官(心肌、平滑肌、腺體)的 Adrenergic 接受器。 - c. 副交感神經由**顱神經、薦椎的側角神經元**發出,也經**兩個神經元**,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎前神經節(prevertebral ggl.)的神經元,其再分泌 ACh 刺激目標器官(心肌、平滑肌、腺體)的 muscarinic 接受器。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- ...----------------------------------------|-----------------------------| | 好發於 | 緊張的性格 | 年輕女 | 年輕男 | | 機制 | 肌肉緊縮 | 血管、神經 Serotonin 活性改變 | 血中 Histamine 增加、下視丘 | | →痛法 | →環狀(雙側)持續的痛 | →單側搏動性的痛 | →單側眼眶周圍疼痛, | | | | | 併發流淚、流鼻涕 (Histamine) | | 時間 | 白天接觸到壓力時發生 | 被光線刺激,晚上休息改善 | 一天數次,好發夜晚入睡後 | | | 30 分鐘至 7 日 | 持續4到72小時 | 15 到 180 分鐘 | | 急性 | 改變生活方式; | Suma Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch08]]"
@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Complement system (補體系統)'
   - 'Complement system'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ...| N1 | N2 | N3 | |-----|--------------|-----------|------------|------------| | Tis | Stage 0 | | | | | T1 | Stage IA | C4 TIA | C. IID | C. HO | | T2 | | Stage IIA | Stage IIB | Stage IIC | | Т3 | Stage IB | (S0/1) | (S0/1) | (S0/1) | | T4 | | | | | | | S0 | S1 | S2 | S3 | | M1 | Cto co III A | | C4 IIID | | | Mla | -Stage IIIA | | Stage I Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (7) Stage C3: Stage C3 +淋巴轉移。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...| | | T1-T2 | N2b | M0 | C1 | | | IIIC | T4a | N2a | M0 | C2 | | | | T3-T4a | N2b | M0 | C2 | | | | T4b | N1-N2 | M0 | C3 | | | IVA | Any T | Any N | M1a | D | mucinous or signet-ring pathology > venous or perineural invasion > bowel perforation > aneuploidy nuclei > elevated CEA • Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -82,7 +85,6 @@ tags:
 - ...icillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...| Kawasaki disease)孩童最少發生? | 103(一)專 | | | , , , , , , , , , , , , , , , , , , , , | (B) 膿尿(pyuria) | 醫四 -28 | | | (C) 補體 C3、C4 下降 | | | | 1 | C3、C4 下降情形。 | 非自體免疫性疾病,故不會有發生 | | | : | 有米粒至豌豆大小斑丘疹,並 | 量咳嗽,眼睛發紅,臉部與軀幹部短無水泡,頸部淋巴腺腫大。上述描近且較少見於川崎氏病(Kawasaki | 102(一)專醫四-1 | | ( | (A) 咳嗽 | (B) 皮疹大小形狀 | | | | (C) 眼睛發紅 | (D) 頸部淋巴腺腫大 | | | | 童曾經發燒5天,身上 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (2) 血尿若合併出現水腫、高血壓或是明顯的蛋白尿,則意味著**腎絲球腎炎**。初步 評估包括 CBC (排除溶血性尿毒症候群)、尿液沉澱分析 (sediment)、喉嚨細 菌培養、鏈球菌酶試驗 (Streptozyme)、補體濃度 (考慮 PIGN)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 2. 病因:絕大部份為免疫複合體沉積在腎絲球上後,引發後續的免疫反應造成(eg. complement activation、leukocyte recruitment、release of growth factor or cytokines)。 後續引發不同的免疫反應造就不同的疾病的病生理機轉。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

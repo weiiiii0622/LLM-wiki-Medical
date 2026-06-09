@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Herpes simplex virus infection, HSV (單純皰疹病毒感染)'
   - 'Herpes simplex virus infection, HSV'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (2) 菌種:分為兩大類 (a) 淋病 (Neisseria gonorrhoeae); (b) 非淋病 (Chlamydia trachomatis、Ureaplasma urealyticum、Trichomonas vaginalis、和 herpes simplex virus)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (D) 11. 下列何項檢查結果對診斷單純疱疹性腦炎(herpes simplex ence-phalitis)最不具有特異性? 105( ) 專 - (A) 腦脊髓液的單純疱疹病毒的 PCR (polymerase chain reaction) 檢查呈陽性反應 - (B) 腦部磁振照影檢查發現大腦之額葉和顳葉受侵犯 - (C) 腦波出現單側週期性癲癇波 (periodic lateralized epileptic discharges, PLEDs) - (D) 血清中抗疱疹病毒抗體上升 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -61,8 +67,6 @@ tags:
 - # XVI. 單純疱疹病毒 (Herpes Simple Virus) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...ventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (2) Tzanck smear:針對有 skin lesions,如 HSV、VZV。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (3) 無菌性腦膜炎:腸病毒、CMV、HSV、EBV、水痘、A/B 型流感病毒、黴漿菌。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats
 

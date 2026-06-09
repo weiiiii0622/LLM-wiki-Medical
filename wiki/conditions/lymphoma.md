@@ -43,6 +43,9 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Lymphoma (淋巴瘤)'
   - 'Lymphoma'
@@ -57,7 +60,7 @@ tags:
 
 ## Summary
 
-淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +103,15 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- 109(二)專 (C) 2.50 歲男性病人主訴最近肉眼可見血尿。下圖為靜脈注射尿路 X 光 攝影 (intravenous urography)。最可能的診斷為何? 醫五-73 - (A) renal cell carcinoma - (B) renal lymphoma Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (B) 續發性睪丸惡性腫瘤最常見為 lymphoma Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - F. 淋巴結腫 (Lymphadenopathy) 132 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - 5. 最常見的孩童惡性腫瘤:肉瘤(sarcomas)、淋巴瘤(lymphomas)、轉移性甲狀腺癌(metastatic thyroid carcinoma)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - ### F. 淋巴結腫 (Lymphadenopathy) Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
@@ -118,9 +127,6 @@ tags:
 - 1. 病理類型: - (1) 胃腺癌 (adenocarcinoma): 90%。 - (2) 類癌 (carcinoid):5%。 - (3) 惡性淋巴瘤 (lymphoma): 3%。 - (4) 惡性胃腸基質瘤 (gastrointestinal stromal tumors, GISTs): 1%。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 1. 腺癌 (Adenocarcinoma): - (1) 前言:**腺癌(Adenocarcinoma)**是最常見的小腸惡性腫瘤,較常出現在年紀大的患者。 - a. 腺癌 (Adenocarcinoma): 40% - b. 類癌 (Carcinoid): 25% - c. 淋巴癌 (Lymphoma): 10%~20% - d. 平滑肌肉瘤 (Leiomyosarcoma): 20% Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- (D) 淋巴瘤 (lymphoma) Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
-- 1. 哺乳乳腺炎 (Lactational mastitis): - (1) 前言:是一種乳房組織的感染發炎現象, Staphylococcus aureus 為主要的致病菌。 好發於哺乳的婦女,但並非絕對。 - (2) 症狀: - a. 發燒、畏寒。 - b. 乳房的紅、腫、熱、痛。 - c. 乳頭分泌物較不常見。 - d. 腋下水腫與疼痛,與 lymphadenopathy 相關。 - (3) 治療: - a. 抗生素治療 - b. 可增加哺乳或母乳收集的頻率,可達到症狀緩解的效果。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- 4. 甲狀腺淋巴瘤(thyroid lymphoma): - (1) 相當罕見且多和 Hashimoto thyroiditis 有關。大部分為 non-Hodgkin lymphoma。 - (2) 只能藉由 biopsy 去診斷, FNA 幫助不大。 - (3) 主要治療為 radiotherapy。 - (4) 預後和有沒有侵犯出 thyroid capsule 有關,如果僅侷限在包膜內其五年存活率 為 85%,反之,只剩下 40%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 
 ## Clinical Caveats
 

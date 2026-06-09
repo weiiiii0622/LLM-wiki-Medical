@@ -2,12 +2,13 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Tzanck smear (Tzanck 抹片)'
   - 'Tzanck smear'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- b. 實驗室檢查:細菌培養檢體需從尿道取樣,而非單從分泌物取樣。但若要快速診斷,可取尿道分泌物抹片,染色後在 100 倍油鏡下觀察白血球內有無淋病雙球菌。感染淋病者 30% 會合併感染 *Chlamydia trachomatis*。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (A) 13. 一位 28 歲年輕男性,主訴前一天開始尿道有多量的黃綠色分泌 物,同時解小便時會痛、有灼熱感。他承認在一週前曾有不潔的 性接觸。初步臆斷懷疑是淋病性尿道炎;下列檢查何者能夠提 供最快速的診斷,以便對症治療? - (A) 尿道分泌物的抹片,染色後在 100 倍油鏡下觀察白血球內有 無淋病雙球菌 - (B) 尿道分泌物的細菌培養 - (C) 尿液細菌培養 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (D) 白血球大於 12,000 cells/mm³ 或小於 4,000 cells/mm³ 或在周邊血液抹片有大於 10% immature (Band) cells Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (D) Tzanck 抹片檢查 (Tzanck test) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...四天內感染水痘,則有15%的新生兒會發生嚴重性水痘感染。 通常新生兒在出生後兩星期內發病,其症狀包括全身性水痘和中樞神 經系統病變,有兩到三成的死亡率。 - (g) 免疫不全患者:易併發肝炎、肺炎、腦癌和血小板減少症,死亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated acantholytic epidermal cells,為受病毒感染之 keratinocytes,於HSV (herpes simplex virus) 感染造成之水疱也可看見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

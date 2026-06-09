@@ -34,6 +34,7 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book2-ch12]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Coronary circulation (冠狀動脈循環)'
   - 'Coronary circulation'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-冠狀動脈解剖決定心肌缺血位置與 ECG 導程變化。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈解剖決定心肌缺血位置與 ECG 導程變化。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,11 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book2-ch12]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- ...e dysfunction (ED) = impotence 陽痿): - (1) 流行病學:臨床上最常見的男性性功能障礙,40 歲以上有25%人有ED。另外常因其它因素引起:抽菸者40%有ED、糖尿病者60%有ED、高血壓者70%有ED、冠狀動脈疾病80%有ED、周邊血管病變90%有ED。 - (2) 危險因子:年齡、抽煙、喝酒、心血管病史、代謝症候群。 - (3) 臨床表徵: - a. 症狀:ED 定義是沒有辦法達到 / 維持陰莖的勃起硬度以進行一次滿意的性 行為。 - b. 實驗室檢查:空腹血醣值(排除糖尿病及糖尿病性神經病變的可能)、血中 睪固酮濃度、血中泌乳激素(prolactin)濃度。 - c. 特殊檢查: - (a) 夜間陰莖勃起功能監測(nocturnal pe Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### 丙、冠狀動脈疾病及冠狀動脈繞道手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - D. 冠狀動脈繞道手術 (CABG) 及適應症 28 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
@@ -102,7 +105,6 @@ tags:
 - (D) 20. 對於冠狀動脈心臟病之精神科非藥物治療模式中,下列何者較欠 缺實證醫學之佐證? 105(一)專 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (C) 24. 有關敵意(hostility)以及冠狀動脈心臟病的敘述,下列何者 錯誤? Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (A) 依行為模式理論,A 型行為(type A behavior)代表了易怒、不耐煩、急性子,與心肌梗塞和冠狀動脈心臟病的發生率相關 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- 5. 心血管併發症:發病平均約十天時,15~20%的患者可能產生冠狀動脈瘤,危險因子包括男性、小於兩歲、貧血、白血球大於3萬、發炎指數較高、發燒超過二週、低白蛋白、心包膜積水等。冠狀動脈瘤約有八成會在一至二年內消失,特別是常見的直徑小於8mm的中小型冠狀動脈瘤。但直徑超過8mm以上的巨大冠狀動脈瘤較難完全消失,容易形成血栓,造成急性心肌梗塞或冠狀動脈瘤破裂。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

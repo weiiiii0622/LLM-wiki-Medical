@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch14]]"
@@ -15,6 +15,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Aminoglycosides (胺基糖苷類)'
   - 'Aminoglycosides'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,17 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book1-ch05]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- b. 感染:大部份抗生素(包括 baktar 或 gentamicin)不易穿透囊腫。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (b) 25% 病人需要住院注射抗生素。 - i. 可先用經驗性抗生素注射,包括 ampicillin 或 aminoglycosides。可以廣範圍殺菌,包括 Enterococci 和 Pseudomonas species。或是 amoxicillin+ clavulanic acid 或第三代 cephalosporin。 - ii. 有 20% 病人最初的靜脈注射抗生素,後來證明是無效的。就算用上 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (a) 先用廣效的經驗性抗生素 ampicillin/vancomycin + aminoglycoside/ 3rd cephalosporin。(因為不易從尿液或血液培養得到正確致病菌) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...enicillin G | | Streptococcus, group D | | | | S. faecalis (enterococci) | Ampicillin, nitrofurantoin | Ampicillin plus gentamicin | | S. bovis | Penicillin G, ampicillin | Ampicillin, vancomycin | | Streptococcus, group B | Ampicillin, cephalosporin | Ampicillin, cephalosporin | | Gram-negative cocci | | | | Neisseria gonorrhoeae | Ciprofloxacin p Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...Enterococci | 2nd: Aminopenicillin/BLI | | | | Pseudomonas | 3rd: 3rd generation cephalosporin | | | | Staphylococci | Aminoglycosides | | | Prostatitis | E. coli | 1st: Fluoroquinolone | Acute: 2 weeks | | | Enterobacteria | 2nd: 2nd generation cephalosporin | chronic: 4~6 weeks | | | Pseudomonas | 3rd: 3rd generation cephalosporin | | | | Enterococc Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- (4) Aminoglycosides : (Gentamicin®) - a. 優點:對 G(-) 菌叢有高度效果,常用且主要用於治療 complicated UTI。當與 ampicillin 併用還可以治療 Enterococci。 - b. 缺點:無口服劑型,因為口服吸收率差。 - c. 機轉:抑制細菌細胞內蛋白質(30S)合成。 - d. 禁忌:不可用於孕婦(傷害胎兒神經)。 - e. 特殊副作用:注意有耳毒性;腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...道、消化道、泌尿道或生殖道的手術。 - b. 手術類型:Gastrectomy、Hysterectomy。 - c. 感染機率:5%。 - d. 需使用抗生素,以第一線用藥為原則,使用第一代 cephalosporine 針對革蘭氏陽性菌,aminoglycoside 針對革蘭氏陰性菌。若有厭氧菌感染之可能,可使用 Unasyn、Augmentin、Cefmetazole 等為第一線預防性抗生素。 - (3) 汙染傷口 (contaminated): - a. 定義:6~8 小時內新產生的開放性傷口;沒有經過清腸準備的腸胃道手術。 - b. 手術類型: Ruptured appendix、Resection of unprepared bowel。 - c. 感染機率: 20%。 - d. 以治療性 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (D) 病人感染時使用 aminoglycoside 藥物 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (C) 1. 治療黴漿菌 (*Mycoplasma pneumoniae*) 肺炎,下列何種藥物最 109(二)專 適當? 醫四-4 - (A) Penicillin - (B) Vancomycin - (C) Azithromycin - (D) Gentamicin Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -59,11 +69,6 @@ tags:
 - (1) 迅速投予高劑量的第一代 cephalosporin 合併 aminoglycoside Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ...s) => D 群鏈球菌 (Group D streptococcus): 引起膽道、 泌尿道感染,常引起院內感染。當腸道、尿道接受侵入性檢查時,此菌可能因此進入血中,瓣膜有壞損的人,就可能因此感染心內膜炎。治療: Ampicillin+ Gentamicin。 - 4. 牛鏈球菌 (S. bovis) => D 群鏈球菌 (Group D streptococcus): 與大腸惡性腫瘤有關。 - 5. 突變鏈球菌 (S. mutans) => 草綠色鏈球菌 (Viridans streptococci): 牙齦的正常菌群,突變鏈球菌可藉 Dextran 而黏附在牙齒上,造成牙菌斑,導致齲齒。若在心臟瓣膜有問題,且口腔衛生差的病人身上施行牙科侵入性行為時,草綠色鏈球菌就可能侵入血中,再藉著 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (C) 4. 八八水災造成屏東低窪地區嚴重淹水,十天後,該地區有位 50 歲男性發生急性高燒 38.5℃、頭痛、肌肉酸痛,週邊血白血球為17,000/μL, 血小板120,000/μL, GOT:150 U/L 及 GPT:162 U/L,總膽紅素(total bilirubin):4.1 mg/dL;血清肌酸酐(serum creatinine):3.2 mg/dL。下列何種抗生素為最適當之治療選擇? - (A) amikacin - (B) ciprofloxacin - (C) crystal penicillin G - (D) vancomycin Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (1) 結構更易進入格蘭氏陰性菌,對抗 Pseudomonas 效果更好。若是 Pseudomonas 引起的嚴重感染症,可考慮加 aminoglycosides。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- 1. 抗菌範圍:只對格蘭氏陰性桿菌(GNB)有效,包含綠膿桿菌(P. aeruginosa),其抗菌範圍與 Aminoglycoside 類似。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...dinones (肝) | Linezolid | 可用於多重抗藥性的細菌 | | | | Chloramphenicol | Chloramphenicol | 毒性大,現少用(再生不良貧血、灰嬰) | | | 抑制 30S 核醣體 | Aminoglycoside | Gentamicin | 合併 β lactam 使用 | | | 型 | Tetracycline | Doxycycline | 立克次體、螺旋菌、披衣菌、青春痘 | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (B) 17. 一位 70 歲婦人因膽囊炎併發腹膜炎住院。住院時腎功能為 BUN 28 mg/dL,Creatinine 1.2 mg/dL。給予抗生素 cefazolin 1 g q8h 和 gentamicin 80 mg q12h 注射,並予全靜脈營養法。三天後體溫下降至 37℃,脈搏、血壓正常,此時體重為 45 公斤。一週後開始給予軟性食物。第十天測得 BUN 和 Creatinine 各為 40 和 3.5 mg/dL,血清電解質(mmol/L):Na 134, K 3.3, Cl 95;病人一日尿量測得為 2,000 mL,尿液分析正常。有關此病人腎臟問題的敘述,下列何者最為正確? Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- 【詳解】(B) 使用 gentamicin 造成近端腎小管壞死 (Acute tubular necrosis, ATN), 導致電解質流失;與腎絲球無關,且不會有嚴重的蛋白尿。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

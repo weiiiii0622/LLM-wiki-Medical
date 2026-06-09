@@ -64,6 +64,10 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Diarrhea (腹瀉)'
   - 'Diarrhea'
@@ -78,7 +82,7 @@ tags:
 
 ## Summary
 
-腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -142,9 +146,18 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- ...)使用電腦刀(cyberknife)可克服 照射不足的問題,治療效果較佳(5年存活率低風險 95%、中風 險 85%、高風險 80%)。但價格比手術或近距離放射線昂貴得多。 - ii. 副作用:排尿問題(阻塞、頻尿、急尿、血尿)、腸道問題(腹瀉、 直腸出血、裡急後重)、勃起功能障礙、傷口癒合不佳。 - (i) 輻射副作用常延遲發生,剛照完無感但是6個月後出現副作用。 - (ii) 對勃起功能影響不同:手術後 6 個月後逐漸變好、輻射後 18 個月 後才有機會回復(另外輻射治療常合併用賀爾蒙,也會影響)。 - iii. 術後預後的預測因子: PSA 在 6 週後≥ 2 ng/ml 需懷疑復發。 - (b) 體內放射線(brachytherapy):由 TRUS 定位放入放射性核 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...osin、tamsulosin及 alfuzosin等 (C) 有時 anticholinergics 會造成排尿更困難,因為它會造成膀胱逼尿肌收縮力變較差 (D) α-adrenergic blockers 常見到的副作用為姿態性低血壓及腹瀉【詳解】一律給分。 | 104(一)專醫五-69 | |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (CD)30. 一位 38 歲男性接受腎臟移植術後第十二天順利出院,術後三個月門診追蹤時發現,WBC、CRP均在正常範圍,BUN/Cre值為20/2.6,並無發燒、腹瀉、咳嗽症狀,移植腎處無觸痛,胸部 X光、腎臟超音波無異常發現,接下來應怎麼做? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占鈣結石成因 15%。較常見的原因是攝取高 purine 食物、 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- 3. 臨床症狀:大多可摸到腹部固定腫塊。且因為 70% 人在發現時已轉移,故會有轉 移症狀如發燒、疲倦、骨痛、成長遲滯、便秘或腹瀉。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - e. 質子幫浦抑制劑(proton pump inhibitors):藉由不可逆地結合在壁細胞上質子幫浦抑制胃酸產生,最大效果在治療後第4天,而藥效持續直到壁細胞凋亡,所以藥效在停藥後仍可持續4~5天,所以使用PPI患者需停藥一週後再做pH monitoring檢查。且比起 H2 blocker 更有效幫助食道潰瘍癒合。副作用為頭痛、腹痛、腹瀉。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...可視為腸胃道症狀加上心血管症狀。 - (a) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -158,11 +171,6 @@ tags:
 - 3. 症狀:腹瀉 (fasting stool output > 1 L/day )、低血鉀、胃酸低、高血糖、高血鈣、潮紅。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - .... 腎衰竭:第二常見。 - c. 肺炎。 - d. Ischemia colitis: 術中 improper ligation of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性器官的灌注 血流。 - f. 下肢半癱(spinal cord ischemia,Adamkiewicz 動脈灌流不 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (C) 6. 一個 75 歲的男性病患因腹部主動脈瘤接受手術治療,植入 Gortex graft。病人在過去並無腸胃方面的症狀,術後 40 小時,病人在 加護病房中,突然出現多次大量的褐色腹瀉,病人仍依靠氣管 內管(endotracheal tube)及人工呼吸器呼吸,意識不甚清醒 且無法說話,身體檢查並無腹部壓痛,或反彈性壓痛,體溫 37℃,白血球數為 10,000/mL。此時最可能的診斷是什麼? Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (2) 常見症狀為嚴重腹痛、嘔吐、腹瀉、瀝青便、血便。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
-- 3. 早期 (early phase):照射後數天到數週內發生。 - (1) 組織學:黏膜受損、水腫、潰瘍。 - (2) 症狀:噁心、嘔吐、腹瀉、裡急後重。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
-- ...| 少見 | 較常見 | | | (lymphoid aggregates) | | | | | 黏膜鏡檢 | 瀰漫性充血、表淺不規則潰瘍 | 鵝卵石樣 (cobble stone)、線性潰瘍 | | | | 臨床症狀 | • | | | Diarrhea | 常見 | 常見 | | | Rectal bleeding | 常見 | 少見 | | | Abdominal pain 輕微 | | 嚴重 | | | Abdominal mass | 無 | 偶爾 | | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- ...Acute severe fulminant colitis: WBC > 16,000、發燒、腹痛和腹脹。起初內科療法採 bowel rest、antibiotics、steroids; 避免使用 contrast enema、antidiarrhea及 morphine。如果病人產生敗血症或是腹膜炎就需手術處理。 - (2) 手術方法:手術目標為將結腸直腸切除,並保留肛門括約肌的功能,維持正常的排泄功能,由於 UC 僅侷限於大腸直腸,所以切除後痊癒的可能性很高。 - a. Total proctocolectomy with ileal pouch-anal anastomosis (IPAA): 常用 - (a) 將結腸和直腸切除後(保留肛門括約肌),於迴腸端製造一個憩袋,再將 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- ...Eq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancreatitis)、poor intake。 - e. 外科病患常見低血鈉原因為體液過剩,前列腺肥大病患在做完經尿道前列腺切除術(Transurethral resection of the prostate)會有機會 TURP syndrome(因為術中會用大量沖洗液,病人體液增加造成的低血鈉),神經外科病人則是 SIADH 為低血鈉常見原因。 - (2) 高血鈉(hypernatremia Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 
 ## Clinical Caveats
 

@@ -21,6 +21,7 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Nitrates (硝酸鹽類)'
   - 'Nitrates'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- ...核准治療勃 | | | | | 起功能障礙的 PDE5 inhibitors | | | | | (B) 頭痛,臉潮紅為服用 PDE5 inhibitors 常見的副作用 | | | | | (C) PDE5 inhibitors 可與 nitrates 同時服用 | | | | | (D) 服用 PDE5 inhibitors 後須有性刺激才可達到勃起 | | | (T) | | | 100/ . ) # | | (D) | 15. | 男性血中睪固酮(testosterone)濃度不足,較不會引起何種症狀 | 103(二)專 | | | | 或疾病? | 醫五 -69 | | | | (A) 性慾下降 (B) 勃起功能減退 | | | | | (C) 情緒低落 (D) 前列腺癌 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(achalasia)、 暴食(bulimia)、胼胝症(tylosis)、Plummer-Vinson syndrome、放射線和食 道憩室也有相關。 - c. 流行病學:男女比 3:1,很少發生於 30 歲前,以 60~70 歲男行死亡率最高,以非裔美國人最好發。 - d. 位置:以中上段食道佔 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 6. 處置: - (1) 藥物治療:90% 可以癒合 - a. 首要維持排便通暢,降低肛門內括約肌痙攣,故急性期多先給予軟便劑並教 導正確排便習慣。 - b. 溫水坐浴:使肛門內括約肌放鬆,增加局部血流加速肛裂癒合。 - c. 局部塗抹 glyceryl trinitrate (GTN) ointment (0.2~0.4%), 也是使肛門內括約 肌放鬆,增加局部血流加速肛裂癒合。不過會有頭痛的副作用。 - d. GTN 失敗時可考慮使用 diltiazem ointment、CCB 或注射肉毒桿菌至肛門內括約肌。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
 - (A) isosorbide mononitrate Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
@@ -84,7 +87,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[drugs/pde5-inhibitors|PDE5 inhibitors (第五型磷酸二酯酶抑制劑)]]
 
 ## Follow-up
 

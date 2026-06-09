@@ -23,6 +23,8 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book4-ch06]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Ostomy (腸造口)'
   - 'Ostomy'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-將腸道開口接至腹壁以排便或 diversion，需術前定位與術後照護。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+將腸道開口接至腹壁以排便或 diversion，需術前定位與術後照護。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,16 @@ tags:
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book4-ch06]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...而不同。 - (1) 含鈣結石、尿酸結石、胱氨酸結石:鹼化尿液(pH > 8)可溶解結石。 - a. 口服:碳酸氫鈉、碳酸氫鉀、檸檬酸鉀。要監測心腎功能。 - b. 直接打入腎盂:可從 PCN tube(percutaneous nephrostomy tube)或逆行輸尿管的管路打入碳酸氫鈉。 - (2) 磷酸銨鎂結石:酸化尿液(pH 2 cm: 首選經皮腎造口取石術 (PCNL)。但可看結石成分不同而考慮 ESWL。較硬的鹿角結石 (staghorn calculi)選 PCNL。較軟的結石 (尿酸、磷酸銨鎂與雙水草酸鈣),可選擇 ESWL。注意:有出血傾向或凝血功能 不佳者,不宜使用 ESWL 或 PCNL 時,可選擇軟式輸尿管腎臟鏡加上雷 射碎石術。另外若腎臟離體表太遠者不宜 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (A) 12. 懷孕婦女因輸尿管結石產生腰痛求醫處理時,下列何者較不合適? - (A) 必須立即以 IVU(intravenous urography)找出石頭位置,加以碎石處理免得繼續妊娠時症狀加劇 - (B) 利用雙 J 輸尿管導管(double-J ureter stent)以解除輸尿管之 阳塞 - (C) 局部麻醉下超音波定位置放經皮腎造瘻管 (percutaneous nephrostomy tube insertion) - (D) 在懷孕的第一個 trimester 時應該盡量避免 X 光照射 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (C) 輸尿管結石合併腎水腫及腎盂蓄膿(pyonephrosis),引發敗血症時,應在手術碎石前,先採取經皮腎造瘻術(percutaneous nephrostomy),引流腎盂內受感染的尿液 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- ...描(CT scan)顯示左側腎臟撕裂傷合併巨大血腫,病人的血壓 一直維持在 70/40 mmHg 無法再上升,下一步要作的處置為何? (A) 腎臟血管造影 - (A) 育 - (B) 施行經皮腎造瘻術(percutaneous nephrostomy) - (C) 緊急手術 - (D) 照 KUB Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...以下何者為較佳之 | | | 處置? | | | (A) 應安排超音波檢查以確定積水嚴重的程度 | | | (B) 應安排電腦斷層掃描,以鑑別其為結石或是腫瘤 | | | (C) 應安排經皮腎盂穿刺造瘻(percutaneous nephrostomy)以引 | | | 流腎盂積液 | | | (D) 應安排緊急輸尿管鏡手術 | | Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...氯性代謝鹼中毒(hyperchloremic metabolic | 10 | | alkalosis) | | | (B) 腹部 X-ray 呈現 double bubble sign | | | (C) 手術方式:gastrojejunostomy | | | (D) 身體診查時,上腹部可摸到橄欖狀腫塊(olive mass) | | | (C) 7. 有關嬰兒幽門肥厚性狹窄 (infantile hypertrophic pyloric stenosis) 101( 二 | . ) 專 | | 之敘述,下列何者正確? 醫五- | -33 | | (A) 大多出生即出現噴射性嘔吐(projectile vomiting) | | | (B) 嘔吐物以膽汁(bile)為主 | | Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (7) 治療:手術繞道,或合併擴張性十二指腸縮小成型術 (a tapering duodenoplasty)。 - a. 旁側切開十二指腸對十二指腸造瘻術(a side-to-side duodenoduodenostomy)。 - b. 近端橫切遠端縱切十二指腸對十二指腸造瘻術(a proximal transverse-to-distal longitudinal, diamond-shaped, duodenoduodenostomy)。 - c. 十二指腸黏膜網患者:可採用經十二指腸切除術,但必須小心保留壺腹。 \*\*\* 補充:或採用十二指腸空腸造瘻(duodenojejunostomy)方式治療。(感謝許耀仁醫師補充) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - side-to-side duodenoduodenostomy Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -76,11 +85,6 @@ tags:
 - ...ility 時,就可以考慮以手術方式介入。手術介入可以分成十二指腸潰瘍出血與胃潰瘍出血兩部分作處理。 - (1) 十二指腸潰瘍出血(Bleeding duodenal ulcers): - a. 主要的手術治療為十二指腸切開術(duodenostomy)加上 three-point ligation。將十二指腸切開後,將會看到三條血管,把三條血管 ligation 起來 就可以達到止血的作用。 - (a) 近端胃十二指腸動脈(Proximal gastroduodenal artery)。 - (b) 遠端胃十二指腸動脈(Distal gastroduodenal artery)。 - (c) 水平胰動脈 (Transverse pancreatic artery)。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (1) 經保守治療後一周,仍持續阻塞時,或重複發生阻塞。 - (2) 術式: Highly selective vagotomy (制酸)加上 gastrojejunostomy (除去阻塞的部分)。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 1. 迷走神經阻斷術(Truncal vagotomy, TV): - (1) 阻斷位置為 GE junction 之上,會將整個迷走神經的 main trunk 包含 celiac branch 與 hepatic branch 也一併截斷。 - (2) 由於幽門 (pylorus) 會受到影響, 必須搭配 pylorus drainage 的術式如 pyloroplasty 或 gastroduodenostomy。 - (3) 此術式會影響到肝臟、膽道系統、胰 臟與腸道的功能。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- ②作一個 pancreaticojejunostomy, 作為胰液 drainage 的通道 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- ③ A 處作一個 Jejunojejunostomy, 保留腸胃道的功能 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- b. The Frey procedure: - (a) Frey procedure 是 Berger procedure 的改良版, 也可以說是 Berger procedure 和 Partington-Rochelle procedure 的綜合版。 - (b) 跟 Berger procedure 相比,Frey procedure 的 pancreas head 切的比較少,jejunum 拉上來 是作 lateral pancreaticojejunostomy,因此可以完整引流整條胰管。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- a. 當殘胃端與十二指腸端距離 太遠,無法進行 Billroth I 重 建時,可考慮作 Billroth II, 使胃殘餘端與空腸做吻合 (gastrojejunostomy)。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- b. Billroth II gastrojejunostomy可以分成輸入支 (afferent loop)與輸出支 (efferent loop), afferent loop 指的就是 duodenum 和 jejunum 的近端, efferent loop 就是 jejunum 的遠端和 ileum。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 
 ## Clinical Caveats
 
@@ -92,6 +96,7 @@ tags:
 - [[procedures/abdominoperineal-resection|Abdominoperineal resection, APR (腹會陰聯合切除術)]]
 - [[procedures/colectomy|Colectomy (大腸切除術)]]
 - [[procedures/low-anterior-resection|Low anterior resection, LAR (低位前切除術)]]
+- [[procedures/radical-cystectomy|Radical cystectomy (根除性膀胱切除術)]]
 
 ## Follow-up
 

@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Hemorrhagic shock (出血性休克)'
   - 'Hemorrhagic shock'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-急性失血造成循環衰竭，需止血、輸血、凝血矯正與 damage control resuscitation。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性失血造成循環衰竭，需止血、輸血、凝血矯正與 damage control resuscitation。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch01]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- (B) 出血性休克(hemorrhagic shock) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 主動脈血管壁有內膜(tunica intima)、中膜(tunica media)和外膜(tunica adventitia)三層,當內膜因主動脈高壓血流衝擊而破裂時,會導致血液流入血管壁,進一步將內膜和中膜撕裂開來,形成假腔(false lumen)。自內膜破口灌注入假腔的血流使其逐漸膨脹甚至會壓迫到真腔(true lumen),降低通過的血流量(flow volume)進而影響到全身各器官血液供應,造成器官灌流不足(organ malperfusion),又由於假腔的血管外壁脆弱,容易破裂引起大出血、出血性休克甚至死亡。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (C) 1. 對一體重 60 公斤的成人而言,關於出血性休克的分期,何者正確? 109(二)專 - 醫五-29 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...車騎士與卡車追撞後,因兩側下肢骨折被送 至醫院急診室。在急診第一次量測之生命徵象為血壓 80/50 毫米 汞柱(mmHg),心跳 120次/分,呼吸 26次/分、神智不清。 此時,傷患屬於第幾級出血休克,應採何種輸液治療? (A)屬於第一級出血性休克,可採乳酸林格氏液(lactated - Ringer's solution) 2 公升靜脈灌注 - (B)屬於第三級出血性休克,可採乳酸林格氏液(lactated Ringer's solution) 1 公升靜脈灌注 - (C) 屬於第一級出血性休克,可採1,000毫升濃縮式紅血球 (packed red blood cells) 灌注 - (D)屬於第二級出血性休克,可採1,000毫升濃縮式紅血球 (packed red bloo Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -49,8 +52,10 @@ tags:
 - [[conditions/abdominal-trauma|Abdominal trauma (腹部創傷)]]
 - [[procedures/damage-control-surgery|Damage control surgery (損傷控制手術)]]
 - [[diagnostics/focused-assessment-with-sonography-for-trauma|FAST exam (創傷超音波快速評估)]]
+- [[conditions/hemothorax|Hemothorax (血胸)]]
 - [[concepts/lethal-triad-trauma|Lethal triad of trauma (創傷致命三角)]]
 - [[procedures/massive-transfusion-protocol|Massive transfusion protocol, MTP (大量輸血流程)]]
+- [[conditions/renal-trauma|Renal trauma (腎臟外傷)]]
 - [[conditions/shock|Shock (休克)]]
 
 ## Follow-up

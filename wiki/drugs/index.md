@@ -19,9 +19,11 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/acyclovir|Acyclovir (阿昔洛韋)]] - 抗 herpesvirus 核苷類藥物，用於 HSV/VZV 感染。
 - [[drugs/aldosterone-antagonists|Aldosterone antagonists (醛固酮拮抗劑)]] - 改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。
 - [[drugs/alkylating-agents|Alkylating agents (烷化劑)]] - 與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。
+- [[drugs/alpha-1-blockers-urology|Alpha-1 blockers for LUTS (泌尿用 alpha-1 阻斷劑)]] - 放鬆膀胱頸、攝護腺與尿道平滑肌以改善 BPH/LUTS，但可能造成姿勢性低血壓或逆行性射精。
 - [[drugs/alpha-glucosidase-inhibitors|Alpha-glucosidase inhibitors (α-葡萄糖苷酶抑制劑)]] - 延緩碳水化合物吸收，主要降低餐後血糖。
 - [[drugs/alteplase|Alteplase / rtPA (組織型纖溶酶原活化劑)]] - 急性 ischemic stroke 血栓溶解藥物，需符合時間窗與禁忌篩選。
 - [[drugs/aminoglycosides|Aminoglycosides (胺基糖苷類)]] - 30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。
+- [[drugs/androgen-receptor-antagonists|Androgen receptor antagonists (雄性素受器拮抗劑)]] - 阻斷 androgen receptor 訊號，可與 LHRH agonist 合併作 complete androgen blockade。
 - [[drugs/angiotensin-receptor-blockers|Angiotensin receptor blockers, ARB (血管張力素受體阻斷劑)]] - ACEI 類似效果但較少 bradykinin 相關咳嗽。
 - [[drugs/antacids|Antacids (制酸劑)]] - 中和胃酸，用於短期緩解胃酸相關症狀。
 - [[drugs/anthracyclines|Anthracyclines (蒽環類化療藥)]] - 抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。
@@ -32,6 +34,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/antiemetics|Antiemetics (止吐藥)]] - 用於預防或治療化療、術後與其他原因的噁心嘔吐。
 - [[drugs/antifungal-agents|Antifungal agents (抗黴菌藥物)]] - 抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。
 - [[drugs/antimetabolites|Antimetabolites (抗代謝藥物)]] - 干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。
+- [[drugs/antimuscarinic-bladder-drugs|Antimuscarinic bladder drugs (膀胱抗膽鹼藥)]] - 抑制逼尿肌不自主收縮，用於 overactive bladder、urge incontinence 或 neurogenic overactive bladder。
 - [[drugs/antiplatelet-drugs|Antiplatelet drugs (抗血小板藥物)]] - 抑制 platelet activation 或 aggregation，用於動脈血栓預防與治療。
 - [[drugs/antipsychotics|Antipsychotics (抗精神病藥物)]] - 主要用於 psychosis、mania 與部分行為激動；需監測 EPS、metabolic syndrome、QT prolongation、NMS 等。
 - [[drugs/antiretroviral-therapy|Antiretroviral therapy, ART (抗反轉錄病毒治療)]] - HIV 治療以多藥組合壓制病毒量、恢復 CD4 並降低 AIDS 風險。
@@ -56,6 +59,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/endocrine-therapy-for-breast-cancer|Endocrine therapy for breast cancer (乳癌荷爾蒙治療)]] - ER/PR positive 乳癌的重要全身治療，依停經狀態與疾病情境選藥。
 - [[drugs/ergot-alkaloids|Ergot alkaloids (麥角生物鹼)]] - 用於 migraine 急性治療的血管收縮藥物，副作用與禁忌較多。
 - [[drugs/ethosuximide|Ethosuximide (乙琥胺)]] - T-type calcium channel blocker，是典型 absence seizure 常用藥。
+- [[drugs/five-alpha-reductase-inhibitors|5-alpha-reductase inhibitors (5-alpha 還原酶抑制劑)]] - 阻斷 testosterone 轉為 DHT，使攝護腺縮小並降低 BPH 進展；會使 PSA 約下降一半。
 - [[drugs/fluoroquinolones|Fluoroquinolones (氟喹諾酮類)]] - 抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。
 - [[drugs/ganciclovir|Ganciclovir / Valganciclovir (更昔洛韋類)]] - 抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。
 - [[drugs/glp1-receptor-agonists|GLP-1 receptor agonists (GLP-1 受體促效劑)]] - 腸泌素類藥物，促進葡萄糖依賴性胰島素分泌並有減重效果。
@@ -65,9 +69,11 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/hiv-prep-pep|HIV PrEP and PEP (HIV 暴露前與暴露後預防)]] - 高風險暴露前或暴露後抗病毒預防策略，時間與藥物組合需依現行 guideline 複核。
 - [[drugs/hydralazine|Hydralazine (肼屈嗪)]] - 動脈擴張降低 afterload，可與 nitrate 合用於心衰竭。
 - [[drugs/hydroxychloroquine|Hydroxychloroquine (羥氯奎)]] - SLE 與 RA 常用免疫調節藥，需注意視網膜毒性監測。
+- [[drugs/hypertonic-saline|Hypertonic saline (高張食鹽水)]] - 高張液可用於 IICP 或低血鈉矯正，需監測鈉上升速度與滲透壓。
 - [[drugs/immunosuppressants|Immunosuppressants (免疫抑制劑)]] - 用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。
 - [[drugs/inhaled-corticosteroids|Inhaled corticosteroids, ICS (吸入型類固醇)]] - 氣喘控制核心藥物，依 step 調整劑量。
 - [[drugs/insulin|Insulin (胰島素)]] - 治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。
+- [[drugs/intravesical-bcg|Intravesical BCG (膀胱內 BCG 灌注)]] - 以弱毒結核菌誘發局部免疫反應降低非肌肉侵犯型膀胱癌復發與進展風險。
 - [[drugs/iron-supplementation|Iron supplementation (鐵劑治療)]] - 補充鐵以治療 iron deficiency，需依吸收、耐受性與病因選擇路徑。
 - [[drugs/jak-inhibitors|JAK inhibitors (JAK 抑制劑)]] - 小分子免疫調節藥，阻斷 cytokine receptor 下游 JAK/STAT 訊號。
 - [[drugs/laba|LABA (長效乙二型交感神經刺激劑)]] - 氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。
@@ -78,6 +84,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/levetiracetam|Levetiracetam (左乙拉西坦)]] - 常用 broad-spectrum antiseizure medication，交互作用較少但可有情緒行為副作用。
 - [[drugs/levodopa|Levodopa (左旋多巴)]] - dopamine precursor，是 Parkinson disease 對症治療核心藥物，長期可有 wearing-off 與 dyskinesia。
 - [[drugs/levothyroxine|Levothyroxine (左旋甲狀腺素)]] - 甲狀腺低下替代治療核心藥物。
+- [[drugs/lhrh-gnrh-agonists|LHRH/GnRH agonists (LHRH/GnRH 促進劑)]] - 長期下調 pituitary GnRH receptor 以降低 LH/testosterone，是 ADT 常用藥物，初期有 testosterone flare。
 - [[drugs/linezolid|Linezolid (利奈唑胺)]] - 抗多重抗藥 GPC，可用於 MRSA 或 VRE，但需注意骨髓抑制與 serotonin syndrome。
 - [[drugs/lithium|Lithium (鋰鹽)]] - mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血中濃度、腎功能、甲狀腺與交互作用。
 - [[drugs/loop-diuretics|Loop diuretics (亨利氏環利尿劑)]] - 改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。
@@ -94,6 +101,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/omalizumab|Omalizumab (抗 IgE 單株抗體)]] - 嚴重 allergic eosinophilic asthma 可考慮。
 - [[drugs/p2y12-inhibitors|P2Y12 inhibitors (P2Y12 抑制劑)]] - ACS 或 PCI 後常與 aspirin 合併。
 - [[drugs/palivizumab|Palivizumab (RSV 單株抗體預防)]] - 高風險早產兒或特定心肺疾病嬰兒可用於 RSV 預防；適應症需依當地政策更新。
+- [[drugs/pde5-inhibitors|PDE5 inhibitors (第五型磷酸二酯酶抑制劑)]] - 增強 NO-cGMP 路徑改善勃起功能，與 nitrates 合用可造成危險低血壓。
 - [[drugs/penicillins|Penicillins (青黴素類)]] - beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。
 - [[drugs/phenobarbital|Phenobarbital (苯巴比妥)]] - barbiturate 類 antiseizure medication，加強 GABA 作用，具鎮靜與呼吸抑制風險。
 - [[drugs/phenytoin|Phenytoin (苯妥英)]] - Na channel blocker 類 antiseizure medication，可用於 focal seizure、GTCS 與 status epilepticus 後續控制。

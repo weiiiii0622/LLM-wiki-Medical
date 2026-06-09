@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book4-ch14]]"
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Surgical flap (皮瓣手術)'
   - 'Surgical flap'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-帶有血供的組織轉移用於重建缺損，可依血流、組織組成與移動方式分類。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+帶有血供的組織轉移用於重建缺損，可依血流、組織組成與移動方式分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,12 @@ tags:
 - [[sources/med5-book4-ch14]]
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ...e shaft)。 - (iii)開口位在陰莖基部與陰囊交界處(penoscrotal)或會陰部 (perineal):需要考慮是否還有其他性徵上的異常。 - iv. 治療:尿道下裂的新生兒最好不要做包皮環切手術,以備日後需做尿 道重建時的皮瓣。建議在學齡前做矯正手術,大多數的患者手術在 2 歲以前完成。目前主流的手術是以陰莖皮瓣重建尿道,術後多能站著 排尿,也能進行正常的性生活。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- iii. 尿道重建術: - (i) 尿道切開後仍反覆狹窄,可考慮重建。 - (ii) 小於二公分的狹窄可將狹窄部分切除後再將兩端吻合。 - (iii)大於二公分則需以皮瓣重建。 - (iv) 術後需長期口服抗生素治療直到確定狹窄已被矯正。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (3) 手術方式:利用附近組織設計皮瓣重建,大多數為一階段,近端常需要二階段手術。 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
 - (A) 是依據尿道開口位置來分型 醫五-45 (B) 手術矯正年齡最好是學齡前約6歲,以免兒童心理受到影響 (C) 嚴重的尿道下裂,多需要取周圍的皮瓣來做尿道重建 (D) 常合併有陰莖彎曲(chordee),尤其是尿道開口在近端的類型 (D) 3. 下列那些疾病好發在左側?①精索靜脈曲張(varicocele) ②腹 107(一)專 裂(gastroschisis) ③隱睪症(undescended testis) ④ Bochdalek 醫五-44 型先天性橫膈膜疝氣(Congential diaphragmatic hernia, Bochdalek type) (A) ①② ( Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
 - 4. 手術治療: - (1) 適應症:肋骨缺失者。 - (2) 術式:常用擴背肌皮瓣 (latissimus dorsi muscle flap) 合併自體肋骨移植重建胸壁。 Source: [[sources/med5-book4-ch01|甲、胸壁]].

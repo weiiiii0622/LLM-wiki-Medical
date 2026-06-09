@@ -32,6 +32,7 @@ sources:
   - "[[sources/med5-book4-ch08]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Blood transfusion (輸血)'
   - 'Blood transfusion'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,12 @@ tags:
 - [[sources/med5-book4-ch08]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (a) 腎移植術後的基礎用法: - i. 引導(induction agent):術前,使用化學免疫藥物或抗體。何種受腎者需要建議用抗體引導?曾經有過①懷孕,②輸血,③移植。 - ii. 維持(maintenance therapy):術後,使用小分子化學免疫藥物。最常用的初始用藥組合是 tacrolimus—MMF-steroids。 - iii. 類固醇減量(steroid elimination):手術完後,一週內逐漸減量。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...同時罹患原發性腦瘤的病人 (C) 出現全身性病毒或細菌感染 (D) 梅毒、肝炎檢查正常者 (C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 104(二)專 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 醫五-77 - C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 描(CT scan)顯示左側腎臟撕裂傷合併巨大血腫,病人的血壓 一直維持在 70/40 mmHg 無法再上升,下一步要作的處置為何? (A) 腎臟血管造影 - (A) 育 - (B) 施行經皮腎造瘻術(percutaneous nephrostomy) - ( Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...寬,或以公式 4 + age (yr) / 4 French 來計算最佳管徑。 - c. 環狀甲狀軟骨切開術(Cricothyroidotomy): 因小於 12 歲以下孩童氣管較軟,不建議使用。 - (2) Circulation:輸液和輸血。 - a. 晶體溶液(crystalloid)快速灌注(bolus)以 20 mL/kg 來補充流失的體液。對於小於 6 歲孩童靜脈注射(IV)並非安全穩固的輸液管路,可考慮骨內注射(intraosseous, IO)。當失血超過預估總血量的 50% 或以雙倍灌注 40 mL/kg 輸液後仍明顯有低血容生命徵象表現時,為啟動輸血的適當時機。 Source: [[sources/med5-book4-ch08|甲、概 論]].
 - (D) 1. 一名 3 歲 15 公斤的男童從 6 層樓跌落送來急診,生命徵象為心 107 (二) 專 跳 160 下 / 分、血壓 70/30 mmHg、呼吸 30 下 / 分,適當的急救 醫五 -47 輸液給法為何? - (A) 血漿替代液(Gelofusine) 一次 300 毫升快速滴注, 給與一次後若沒有反應即輸血 - (B) 新鮮冷凍血漿 (fresh frozen plasma) 一次 300 毫升快速滴注, 給與一次後若沒有反應即輸紅血球濃厚液 (packed RBC) - (C) 林格氏液(Ringer's solution)一次 150 毫升快速滴注,給與兩次後若沒有反應即輸血 - (D) 生理食鹽水(normal saline) 一次 300 毫升快速滴注,給與兩次後若沒有反應即輸血 Source: [[sources/med5-book4-ch08|甲、概 論]].
 - 【 詳解 】 需快速輸注量為 $15~kg \times 20~mL/kg = 300~mL$ ,常見 crystalloid fluid 為 normal saline 或 lactate ringers。(A) Gelofusion 不建議使用。(B) 輸血為最後選項。(C) 輸液量不足。(D) 為正確 答案。 Source: [[sources/med5-book4-ch08|甲、概 論]].
@@ -97,8 +101,6 @@ tags:
 - (C) 24. 開心手術時,當體外循環的支持停止後,血液中的肝素(heparin),必須使用下列何種方式處理,使其活化凝血時間(activated clotting time)回復正常? - (A) 血小板靜脈注射 - (B) 新鮮血漿靜脈注射 - (C) 魚精蛋白 (protamine sulfate) 靜脈注射 - (D) 冷沈澱物 (cryoprecipitate) 靜脈注射 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 2. 處置:(依照下消化道出血處理原則) - (1) Resuscitation:等張性晶體溶液 ±pRBC。 - (2) 診斷出血位置: - a. NG tube:排除上消化道出血。 - b. Anoscopy/ Proctoscopy:排除 anorectal bleeding。 - c. Nuclear scan: Tc-99m \ tagged RBC \circ - d. Mesenteric angiography (血管攝影)。 - e. Colonoscopy • - f. Laparotomy (剖腹探查)。 - (3) 手術: - a. Urgent segmental resection:持續出血且輸血量已超過 6 U pRBC/24hrs 時緊急 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - 【詳解】憩室炎的基本治療以內科(抗生素)為主,除非反覆性憩室炎、腸穿孔引起腹膜炎、形成瘻管、急性大量出血才需要手術介入。貧血/出血方面先藉由輸液/輸血穩定hemodynamic status,做大腸鏡鏡檢(順便可進行止血),大腸鏡檢沒辦法找到出血點,可用血管攝影(順便做血管栓塞治療),最後出血都還沒法停止,才考慮手術。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- (B) 若病患於急診留觀期間,傷口持續出血不止,最好的方法為 加壓止血合併輸血治療 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- 2. 膠體溶液(Colloid): Hetastarch、Dextran、Albumin、FFP等,一般認為膠體溶液 相較於晶體溶液更能擴張血管內容積,留存在血管內的時間較久,也較能抵抗血管 通透性增加所導致的異常。但價格較高,且後來一些研究發現輸膠體溶液似乎較易 急性腎衰竭及死亡率上升。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

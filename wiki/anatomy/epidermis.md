@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book2-ch26]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Epidermis (表皮)'
   - 'Epidermis'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,13 @@ tags:
 - [[sources/med5-book2-ch26]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- (a) 在皮質以外(含 perinephric、paranephric abscesses)的膿瘍:大部分是葡萄球菌 (Staphylococci)。從感染的表皮→血液 循環→腎。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (4) 正常尿道旁菌叢:不易引起 UTI,但可能會污染尿液檢體以致於被培養出來。包括厭氧菌(Anaerobic bacteria)、乳酸桿菌(Lactobacilli)、棒狀桿菌(Corynebacteria)、鏈球菌(Streptococci,但不包括腸球菌 Enterococci)、和表皮葡萄球菌(Staphylococcus epidermidis)。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (1) 理學檢查:視診會陰部初步評估肛門是否有閉鎖及程度。 - a. 外觀上發現表皮瘻管 (perineal fistula),即診斷為低位閉鎖。 - b. 若外觀無發現表皮瘻管,則為中高位閉鎖。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...---------|----------------------------------------------------------|----------------------------------------| | 一度燒傷 | 表皮層 | 皮膚發紅、腫脹、有明顯觸痛感 | 約 3~5 天即可癒合,僅破壞表皮層,故癒合後不會有疤痕 | | 淺二度燒傷 | 表皮層、真皮乳突層(約三分之一以上) | 皮膚紅腫、起水泡,有劇烈疼痛及灼熱感、Blanches withpressure (壓迫後變色) | 約 14 天内即可癒合,通常無疤痕或輕微疤痕 | | 深二度燒傷 | 表皮層、真皮深層 | 皮膚呈白、黃色、起白色大水泡,較不感覺疼痛(受刺激依舊會痛)、Less blan Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
@@ -83,8 +89,6 @@ tags:
 - 1. 皮膚覆蓋全身,是身體最大的器官,約為 1.8 m² BSA (body surface area),分為表皮 (epidermis)、真皮 (dermis) 和皮下組織 (subcutaneous tissue)。另外皮膚上有毛囊、指甲、皮脂線及汗腺等附屬器官 (appendages)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - 2. 表皮:位於皮膚最上層,厚度從最薄的眼皮 0.04 mm 至最後的足底 1.5 mm 不等,由表面而下可分為五層:角質層、透明層、顆粒層、棘狀細胞層和基底層。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (1) 角質層(stratum corneum):由 25~30 排扁平死細胞(分化完成之角質細胞)組成,細胞間質為膽固醇、神經醯胺(ceramide)和游離脂肪酸。為人體對付來自外界各式各樣物理、化學性刺激,如乾燥、冷熱、紫外線等的天然屏障。此層含有 15~20% 由皮膚自行產生的天然保濕因子(Natural Moisturizing Factor)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- 4. 光化性角化症可分為數種亞型(委縮型、增厚型、色素擴散型、增生型、苔癬型及類波文氏型),其病理特徵為局部角質化不全(parakeratosis)或角質化不良(dyskeratosis),併有顆粒層喪失、非典型角質細胞(atypical keratinocytes)增生,但不像 Bowen's disease 是整層 epidermis 都有 atypia 的情形。Atypical 的情形是指細胞大小形狀不一(pleomorphism),nuclear hyperchromatism,increased mitosis。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (3) 局部塗抹藥劑: - a. 5-FU (fluorouracil):抑制 DNA 合成和複製,導致分生不良細胞死亡。但較 具刺激性,可能會有灼熱刺痛感及造成皮膚潰瘍。 - b. Imiquimod:屬於一種免疫調節劑,可刺激皮膚的免疫反應,由自身的免疫系統來攻擊不正常增生的表皮細胞。 - c. 三氯醋酸 (Trichloroacetic acid, TCA): 很強的蛋白質變性劑,用於化學換膚,使病灶被破壞脫落,幾週後長出新皮膚,穿透性良好適合移除較深層的病灶,皮膚刺激感也較強烈。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

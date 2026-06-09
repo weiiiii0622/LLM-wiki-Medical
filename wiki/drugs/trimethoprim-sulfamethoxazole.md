@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
@@ -13,6 +13,8 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Trimethoprim-sulfamethoxazole, TMP-SMX (複方新諾明)'
   - 'Trimethoprim-sulfamethoxazole, TMP-SMX'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-葉酸代謝抑制組合，用於 PJP、UTI、Nocardia、部分 MRSA 等。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+葉酸代謝抑制組合，用於 PJP、UTI、Nocardia、部分 MRSA 等。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,17 @@ tags:
 - [[sources/med3-book3-ch19]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book5-ch06]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...Neisseria gonorrhoeae | Ciprofloxacin plus doxycycline | Ceftriaxone | | Gram-negative rods | | | | Escherichia coli | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin | | Enterobacter spp. | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin plus piperacillin | | Gardnerella vaginalis | Metronidazole, ampicillin | Metronidazole | | Klebsie Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- TMP-SMX, trimethoprim plus sulfamethoxazole. Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...-----------|----------------|-----------------------------------|-------------------------| | Cystitis | E. coli | 1ST: TMP-SMX | 1~3 days | | | Klebsiella | 2nd: Fluoroquinolone | | | Pyelonephritis | E. coli | 1st: Fluoroquinolone | 7~10 days | | | Proteus | 2nd: 2nd generation cephalosporin | | | | Klebsiella | 3rd: Aminopenicillin/BLI | | | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- b. 感染:大部份抗生素(包括 baktar 或 gentamicin)不易穿透囊腫。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- i. 細菌:有機會造成細菌性泌尿道感染,所以在移植後第一年需要服用 預防性抗生素 trimethoprim/sulfa。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...β-blockers來控制高血壓 | ,hydralazine 和 calcium channel blockers | 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) | | | (A) ①35 | (B) 1245 | | | (C) 2345 | (D) ①②③④ Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (A) Trimethoprim-sulfamethoxazole Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 2. macrolide 抗生素為第一線用藥,若有使用禁忌症的病人改用 TMP-SMX (出生未滿兩個月禁止使用)為替代藥物。若是新生兒(出生一個月以下),使用 macrolide 需注意以下情形: Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (4) 細菌性腸胃炎:視病菌及臨床狀況可考慮給予抗生素。 - a. Enterotoxigenic E. coli: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. S Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -55,7 +65,6 @@ tags:
 - Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...seaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 1. Cystitis: TMP-SMX (Baktar\*) Quinolone \* 3 天 (uncomplicated) /10~14 天 (Complicated) Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
-- 3. Prostatitis: TMP-SMX (Baktar®) 或 Quinolone \* 14~28 天 Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 
 ## Clinical Caveats
 

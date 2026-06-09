@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis (下視丘-腦垂體-腎上腺軸)'
   - 'Hypothalamic-pituitary-adrenal axis, HPA axis'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency 檢測相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,13 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- ...要成分是醛固酮 (aldosteronoma)。(記法: 施壓。絲(施) 狀帶分泌太多會造成高血壓) - (2) 東狀帶 (zona Fasciculata): 分泌葡萄糖皮質素 (Glucocorticoid), 其中主要成分是皮質醇 (cortisol, 一種類固醇)。(記法: 束褲帶。東狀帶分泌太多會造成庫欣氏症) - (3) 網狀帶(zona Reticularis)分泌雄性素(Androgen)。主要有睪固酮(testosterone)、 雙氫睪固酮(DHT, Dihydrotestosterone)。(注意:雄性素是腎上腺皮質分泌最大量的物質)(記法:網路宅男。網狀帶分泌太多會造成男性化) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 1. 有功能的腫瘤-切除。(僅20%意外瘤有功能。—開始最初步基本的實驗室檢查有:抽血驗 K/aldosterone/renine、testosterone;驗 24 小時尿的 cortisol、VMA(以上如果有任何一項超標,進一步做相關檢查,常見且較為重要的有功能腫瘤皆收錄於 II 及 III 大項,包含各項進一步檢驗) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 1. 病理:庫欣式症是因為皮質醇(cortisol)過量造成的臨床症狀。 - (1) 80% 人是因庫欣式病(Cushing's disease,因為腦垂腺分泌過量 ACTH,導致雙 側腎上腺皮質增生,進而分泌過量皮質醇)。 - (2) 10% 人是因為非腦垂腺異位(Ectopic)分泌 ACTH。最常見是小細胞肺癌。 - (3) 5% 人是因腎上腺腺瘤(Adrenal adenoma)。 - (4) 5% 人是因腎上腺癌 (Adrenal carcinoma)。(當有腎上腺癌 (Adreno-cortical carcinoma) 最常分泌的物質也是皮質醇 (cortisol))。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 4. 下視丘前葉分泌促皮質素釋放激素(Corticotropin-releasing hormone, CRH),刺激腦下垂體前葉分泌促腎上腺皮質素(Adrenocorticotropic hormone, ACTH),而刺激腎上腺分泌皮質醇(cortisol)。Cortisol 可再回饋抑制 ACTH 分泌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 1. 定義:血液內 cortisol 過高。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -80,9 +85,6 @@ HPA axis 調控皮質醇分泌，與 Cushing syndrome、adrenal insufficiency �
 - 【詳解】依題目所提之臨床症狀,推測是腫瘤轉移到兩側腎 上腺破壞腎上腺功能,造成 Addison's disease (primary adrenal insufficiency),病患會有厭食、噁心嘔吐、姿態性低血壓、高 血鉀、皮膚皺褶和黏膜處出現色素沉澱等症狀。因為是 primary adrenal insufficiency,腎上腺組織已經被腫瘤轉移破壞殆盡,所以 ACTH 會增加以刺激皮質醇分泌但徒勞無功,且做 corticotropin stimulation test 不會有反應。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】於 Primary Addison's disease 中由於 glucocorticoid 分泌 不足,使得 pituitary gland 回饋作用分泌 ACTH 增加,為了分泌 ACTH 會先產生前驅物 POMC(pro-opiomelanocortin),POMC 再分解成 ACTH 和 $\gamma$ -MSH(melanocyte-stimulating horone),且 ACTH 又會再分解出 $\alpha$ -MSH,MSH 則會促進黑色素的生產和釋放,故皮膚會廣泛性黑色素沉澱。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...droxylase deficiency 可分為兩種: Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (3) Salt losing form 臨床上常表現典型 cortisol 與 aldosterone 缺乏症狀,但通常要出生後 1~2 週才會有表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (C) 14. 臺灣地區先天性腎上腺增生(congenital adrenal hyperplasia)的 新生兒篩檢是測定嬰兒血片的: - (A) ACTH - (B) cortisol - (C) 17-hydroxyprogesterone - (D) 21-hydroxylase enzyme activity Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

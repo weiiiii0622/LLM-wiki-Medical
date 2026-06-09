@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch06]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Esophageal cancer (食道癌)'
   - 'Esophageal cancer'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch06]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (2) 腎盂/輸尿管癌 (renal pelvic/ureteral tumor): - a. 泌尿細胞癌(UCC):90%。 - b. 鱗狀細胞癌 (squamous cell carcinoma): 8%。 - c. 腺癌 (adenocarcinoma):1%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (B) 長時間最易引起 esophageal adenocarcinoma Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 1. 惡性腫瘤中,以鱗狀上皮細胞癌(squamous cell carcinoma)最常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(achalasia)、 暴食(bulimia)、胼胝 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### Squamous cell carcinoma L category\*\*\* Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -66,7 +69,6 @@ tags:
 - 2. Squamous cell carcinoma 會分泌 PTHrP 造成高血鈣(HyperCalcemia),因為常長在肺尖(Pancoast tumor)而造成肩痛、手臂痠痛、Horner syndrome。 - \*口訣:死龜(Squa)愛搞怪(高鈣),愛爬到肺尖造成肩痛 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...rathyroid hormone-related peptide)的產生最常見於何種肺癌的組織學型態? (A) 小細胞肺癌(small cell lung cancer) (B) 腺癌(adenocarcinoma) (C) 鱗狀細胞癌(squamous cell carcinoma) (D) 大細胞肺癌(large cell carcinoma) | 107(一)專醫三-48 | | (B) | 3. 下列腫瘤何者較不會合併紅血球增生症? (A) 腎細胞癌 (Renal cell carcinoma) (B) 淋巴瘤 (Lymphoma) (C) 肝癌 (Hepatocellular carcinoma) (D) 小腦血管母細胞瘤 (Cerebellar hemangioblastoma) | 100(二)專醫三 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - (1) PTHrP: oncogen, virus, local growth factor - a. 常見於 Squamous cell carcinomas、Renal carcinomas、Bladder carcinoma 等。 - b. 某些腫瘤的 ras(oncogen)過度活化,會造成 PTHrP 表現增加;導致 Adult T cell lymphoma 的 HTLV-1 也會加強 PTHrP 表現;骨轉移的腫瘤可能因為骨頭提供的環境,PTHrP 表現也較多。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- Barrett's esophagus (intestinal metaplasia) · Esophageal adenocarcinoma · Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

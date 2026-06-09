@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch15]]"
@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Hyperthyroidism (甲狀腺亢進)'
   - 'Hyperthyroidism'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- (B) 29. 一位 35 歲女性病患,其腹部 X 光片如下圖,則下列敘述何者 99(-)專 正確? 醫五-74 - (A) 是非常複雜之尿路結石,若 不處理腎臟功能迅速變壞 - (B) 大多數沒有症狀,也不需積 極處理 - (C) 此症常與腎臟小管酸血症 (renal tubular acidosis)及甲 狀腺功能亢奮 (hyperthyroidism)有關 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 1. 生化檢驗數據: TSH 和 Free T4 最準。 - (1) TSH: 0.3~5 mIU/L, 在腦下垂體功能正常的情況下: - a. TSH ↑代表 hypothyroidism。 - b. TSH ↓ 代表 hyperthyroidism。 - (2) Total $T_4$ : $3\sim12 \mu g/dL \circ$ - (3) $T_3$ : 80~200 ng/dL • - (4) RT3U (Resin T3 uptake):正常值 20~40%,檢測 resin 跟 T3 結合的量得知 TBG 上沒有與甲狀腺素結合的空位 (thyroid hormone-binding sites)。因為 T3 對 TBG 親和力較 T4 低許多,所以當甲狀腺功能亢 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimoto thyroiditis亞急性甲狀腺炎 (de Quervain)Iodine deficiency | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (B) 格雷氏甲狀腺腫 (Graves' thyrotoxicosis) Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -78,7 +81,6 @@ tags:
 - (A) 3. 足月出生六個月大之男嬰,經身體診查發現四肢短小,頭圍正常, 107(-)專 前囟門大,眼瞼水腫,皮膚乾燥且黃疸,頭髮粗糙,下列何者為 醫四-24 最正確之診斷? - (A) 先天性甲狀腺低能症 (congenital hypothyroidism) - (B) 先天性甲狀腺亢進症(congenital hyperthyroidism) - (C) 純母奶餵食且餵食量不足 - (D)新生兒高黃疸(hyperbilirubinemia)之併發症 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (4) 其他,如 granulomatosis/sarcoidosis, thyrotoxicosis, thrombophlebitis... Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 5. Hyperthyroidism Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (2) 囟門:應在嬰兒安靜平躺時檢查。前囟門通常在10~14個月關閉,後 囟門則在兩個月大以前關閉,也可能在出生時已經關閉。囟門太早關閉 (craniosynostosis)會導致腦部發育不良,須手術治療。前囟門正常約2±1公 分大,但大小變異很大。囟門太大可能為甲狀腺低下,骨骼問題(如成骨不全 症),hypophosphata-sia,水腦等。囟門太小則可能為甲狀腺亢進,小頭症,或 craniosynostosis。囟門突出可能表示腦壓上升,腦膜炎,或水腦,囟門凹陷則 常因脫水造成。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

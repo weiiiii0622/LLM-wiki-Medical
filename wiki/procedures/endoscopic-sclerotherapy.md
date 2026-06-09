@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med5-book4-ch09]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Endoscopic sclerotherapy (內視鏡硬化劑注射)'
   - 'Endoscopic sclerotherapy'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-靜脈曲張或特定出血病灶的內視鏡注射治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈曲張或特定出血病灶的內視鏡注射治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch14]]
 - [[sources/med5-book4-ch09]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 治療:因影響美觀或氣道壓迫而採取治療。常用手術切除或注射硬化劑治療,亦需 評估是否有神經侵犯。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (1) 急性期可打 cyanoacrylate or Histoacryl glue (硬化劑)止血,對於使用硬化劑預防 出血,目前共識是大型胃靜脈瘤可考慮,小型不一定,因為打硬化劑本身也有出血 風險。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].

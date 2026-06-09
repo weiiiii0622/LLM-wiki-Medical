@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Renal tubular acidosis, RTA (腎小管酸中毒)'
   - 'Renal tubular acidosis, RTA'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-腎小管排酸或 HCO3 處理異常造成正常陰離子間隙代謝性酸中毒。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎小管排酸或 HCO3 處理異常造成正常陰離子間隙代謝性酸中毒。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- ...uric calcium) 結石等。(沒有碳酸鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricos Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (A) 11. 下列何者腎小管酸中毒症(renal tubular acidosis)會併發腎結石? 105(-)專 (A) Type I (B) Type II (C) Type III (D) Type IV Source: [[sources/med5-book5-ch05|戊、結 石]].
+- 【詳解】腎小管酸中毒(Renal tubular acidosis)1型(Type1, 遠端小管 RTA)的特徵有 4 個:磷酸鈣結石(calcium phosphate stone)形成,高鈣尿症,低檸檬酸尿症和尿 pH 值升高。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - VI. 腎小管酸中毒 (Renal Tubular Acidosis, RTA) 139 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (B) 9. 嬰兒尿道後瓣膜(posterior urethral valves),最不常見之表現為: 99(一)專 - 醫四-2 - (A)慢性腎衰竭 - (B) 腎鈉堆積(sodium retention) 及水腫 - (C) 第四型腎小管酸血症(type IV renal tubular acidosis) - (D) 水腎及輸尿管擴張(hydronephrosis and hydroureter) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - # VI. 腎小管酸中毒 (Renal Tubular Acidosis, RTA) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -56,8 +61,6 @@ tags:
 - (A) 第二型腎小管酸血症 (type 2 renal tubular acidosis) Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - (b) 血壓正常:若為腎小管本身病變,可由動脈血的酸、鹼進一步鑑別診斷。 - i. 若合併酸中毒,考慮酮酸中毒、腎小管酸中毒第二型(多發性骨髓瘤) 或部分的第一型(紅斑性狼瘡腎病變等)、使用 Amphotericin B 等。 - ii. 若合併鹼中毒,可能是使用利尿劑造成低血鉀,或其他腎小管病變,如 以下兩個狀況: Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - (A) 腎小管酸血症 (renal tubular acidosis) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (D) 第一型及第二型腎小管酸血症 (renal tubular acidosis) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...tis=CGN) | 蛋白流失 | 腫 | > 1 g | High AG acidosis | MGN, DM,SLE | | 慢性腎間質病變 (Chr.interstitial nephritis) | 貧血 (EPO) | 乾 | (RTA) | 吃中藥 | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

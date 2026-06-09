@@ -27,6 +27,7 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'COPD (慢性阻塞性肺疾病)'
   - 'COPD'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,11 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- ...一)專 agent) 是常用的治療選擇,然而,下列何種情形是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...-----------------------------------------|------------------------| | Primary | Penetrating | | Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (C) 慢性阻塞肺病(COPD)引起的氣胸為續發性(secondary) 氣胸 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 3. 大泡肺氣腫 (bullous emphysema): - (1) 機轉 & 成因:成因為單純先天性氣腫或慢性阻塞性肺病之併發肺氣腫。在治療 上的挑戰為區別出肺功能喪失是來自於氣腫或慢性肺氣腫或慢性支氣管炎。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -88,7 +91,6 @@ tags:
 - 3. COPD 較少有 Clubbing finger,若有,須考慮其他問題,如肺癌等。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - #### E. COPD 嚴重度分級與分組 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - | 分數 | 症狀 | 中文翻譯幫助記憶 | COPD grade | |----|------------------------------------------------------------------------------------------------------|-------------|--------------| | 0 | I only get breathless with strenuous exercise. | 強烈運動才喘 | Less sym Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- A. 氣喘和慢性阻塞性肺疾比較 242 Source: [[sources/med3-book1-ch15|乙、氣喘]].
 
 ## Clinical Caveats
 

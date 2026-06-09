@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Tumor markers (腫瘤標記)'
   - 'Tumor markers'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,17 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- (d) S = serum tumor markers (血清腫瘤標記): - i. S0:標記都在正常範圍內。 - ii. S1:LDH 10 倍正常值;或 hCG > 50,000 mIU/mL;或 AFP > 10,000 ng/mL。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (a) 初始治療:一律先睪丸切除(orchiectomy),之後依 stage 與術後腫瘤標記 決定治療方向。 - i. 精原細胞瘤 (seminoma): - (i) 低分期(stage I + 術後 AFP 測不到):可選擇觀察、化療、放射治療。 - (ii) 中分期(stage II+術後 AFP 測不到):可選擇化療、放射治療。 - (iii)高分期(stage III 或術後 AFP 升高): 進行化療。 - ii. 非精原細胞瘤 (non-seminoma): - (i) 低分期(stage I + 術後 AFP、H Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (c) 復發治療後仍有腹腔殘餘腫塊:不管精原細胞瘤與非精原細胞瘤,看腫瘤標記狀況。 - i. 腫瘤標記正常:手術切除。 - ii. 腫瘤標記升高:可選擇觀察或手術切除。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- ...: - (a) 效果:治療症狀的效果在攝護腺 40 ml 以上才顯著。服用半年後: - i. 可減少攝護腺體積+降低癌症發生率:25%; - ii. 降低下泌尿道症狀(急性尿滯留、尿失禁、反覆尿道感染)發生率:35%; - iii. 降低 PSA 值:50%(故偵測攝護腺癌的 PSA 標準此時要減半來看)。 - iv. 降低血中 DHT: 80%。 - (b) 原理:可阻斷睪固酮(testosterone)轉變成二氫睪固酮(dihydrotestosterone, DHT),可使攝護腺變小並改善排尿症狀。 - (c) 藥名:Finasteride (Proscar®)、dutasteride (Avodart®)。 - (d) 副作用:少見。2% 會性功能障礙(性慾降低、勃起功 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (3) 實驗室檢查:攝護腺特異抗原(prostate-specific antigen, PSA)。 - a. 一種醣蛋白酶,主要用來液化精液,若無 PSA 精蟲無法移動。 - b. 可於男性血中偵測到,分為自由形態與結合形態,兩者加總就是我們臨床測的 PSA,正常值 $ 20 ng/ml: 80%。注意 PSA 高低是與 cancer 發生率有關,與 cancer 嚴重度沒有關係。 - e. 若懷疑骨頭轉移,加抽 ALK-P、Ca。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (1) 確診方式:經直腸超音波切片(TRUS biopsy)。 - a. 切片時機: - (a) PSA > 4、或經直腸超音波檢查異常、或摸到硬塊。(這三種任一種都可以進一步建議切片) - (b) 若有疑慮,可用 PSA 衍生出來的方法判斷是否切片: - i. free/total PSA:用於 PSA 4~10,加抽自由形態 PSA。比值越小(自由形態 PSA 越少)癌症率越高: 0.1癌症率 50%、> 0.25癌症率 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (C) 6. 癌症常有特殊的腫瘤指標(tumor marker),有關配對敘述,下 101(二)專 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 列何者錯誤? 醫五-2 - (A) 肝癌 (hepatocellular carcinoma) —胎兒蛋白 (alpha-fetoprotein, AFP) - (B) 大腸癌— CEA (carcinoembryonic antigen) - (C) 小細胞肺癌— CA19-9 - (D) 前列腺癌— PSA (prostate specific antigen) Source: [[sources/med5-book4-ch03|丙、肺]].
 - Table 20-2 Testicular Tumors and Theit Associated Serum Tumor Markers Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
@@ -79,12 +89,6 @@ tags:
 - 2. Tumor markers: - (1) CA19-9 可以用來作為胰臟癌病人治療過後的追蹤。 - (2) Carcinoembryonic antigen (CEA): 是在腸胃道癌症常見的 tumor maker, 在胰臟癌的病人約有 40% 到 50% 的病人可見升高的狀況。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...癢、皮 107(一)專 膚逐漸變黃,因此到院檢查。身體診察發現鞏膜變黃,下肢無水 醫五-32 腫,其CT影像上可見胰臟頭部有4公分左右腫瘤合併總膽管及 胰管擴大,針對此病患安排下列處置何者最不適當? (A) 安排血管攝影栓塞 (B) 測定 CEA, CA19-9 (C) 進行 ERCP (endoscopic retrograde cholangiopancreatography) 或 EUS (endoscopic ultrasonography) 合併切片 (D) 進行核磁共振膽胰攝影 (MRCP) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - CEA 和 CA19-9 為 tumor marker 檢驗。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (#) 6.35 歲未哺乳的女性病人,最近發現左側乳頭有血樣分泌物 106 (一) 專 (bloody discharge),觸診發現乳暈下兩點鐘方向有硬塊,下列 敘述何者錯誤? - (A) 應安排乳房攝影、乳房超音波檢查 - (B) 可安排乳管攝影(ductography) 檢查 - (C) 測量血液中 CEA、CA 15-3 濃度以排除乳癌可能性 - (D) 應儘快安排手術切除 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- 【詳解】本題答(C)、(D)給分。(C)可搭配CEA、CA15-3、 CA125 來評估 breast cancer,但無法依血液中的濃度來排除 breast cancer。應再安排乳房攝影或超音波後再決定後續治療方式。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- ...b. 若如果只有一種影像能認定,則考慮加做切片。 - (3) 大於 2 cm 的腫瘤: - a. 若病患本身為高危險群或肝硬化患者,要有二種影像檢查皆具典型血管特徵 才能診斷為 HCC。 - b. 只有一種影像檢查能認定,合併甲型胎兒蛋白(AFP)大於 **200**,也可診斷 為 HCC,不須加做切片。 - c. 只有一種影像檢查能認定, AFP 肝硬化程度:Child-Pugh A。肝腫瘤:單顆、原位癌、2公分以下。治療:手術切除腫瘤。 | | Stage A-C | 日常生活功能:0~2級。肝硬化程度:Child-Pugh為 A-B,再依照病人的體能狀況、肝腫瘤顆數、有無黃疸、有無肝門高壓、肝門靜脈侵犯、淋巴轉移等去區分出 stageA-C。 | | Stage D | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (B) 3. 一位 45 歲自小罹患慢性 B 型肝炎的男性病患,主訴一個多月前覺得右上腹疼痛,有時疼痛會延伸到右邊的肩膀。最近一週至門診追蹤腹部超音波顯示有多顆肝臟腫瘤,分別是一顆 2.2 公分大小在 S2 的位置,和另一顆 6.6 公分大小在 S5 的位置,有觀察到低迴音(hypoechoic)的腫塊。進一步安排腹部電腦斷層之後,發現在相同位置有同樣大小的腫塊,並且已經侵犯到右側肝門靜脈。其他部位的腹部超音波和電腦斷層結果皆屬正常。抽血結果發現胎兒蛋白值(AFP)為 230 ng/mL,AST 53 U/L,ALT 68 U/L。則這位病人最可能的診斷為何? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 【詳解】HCC 在超音波之下通常呈現低迴音型,AFP 呈現較高的數值。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (B) 肝功能和 tumor markers 通常是正常的 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch06]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med3-book4-ch28]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Bisphosphonates (雙磷酸鹽類)'
   - 'Bisphosphonates'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med3-book4-ch22]]
 - [[sources/med3-book4-ch28]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- ii. 使用賀爾蒙治療需要定期監測這些副作用,處理的方式如下: - (i) 骨密度下降:以 FRAX 評估。使用鈣、維他命 D 補充劑、或是雙磷酸鹽。 - (ii) 貧血:通常很輕微,若嚴重可以補充紅血球生成素。 - (iii) 熱潮紅(hot flashes),可補充醋酸甲羥孕酮(medroxyprogesterone acetate 300~400 mg IM monthly)治療之。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (A) 芳香環轉化酶抑制劑 + 雙磷酸鹽 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (B) 多種藥劑化學治療 + 雙磷酸鹽 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (C) capecitabine + 雙磷酸鹽 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].

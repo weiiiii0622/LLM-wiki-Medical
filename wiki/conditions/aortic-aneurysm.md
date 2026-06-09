@@ -38,6 +38,8 @@ sources:
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Aortic aneurysm (主動脈瘤)'
   - 'Aortic aneurysm'
@@ -52,7 +54,7 @@ tags:
 
 ## Summary
 
-主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +92,14 @@ tags:
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch17]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- (B) pseudoaneurysm and arteriovenous fistula Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (A) 腎挫傷併發假性動脈瘤 (pseudoaneurysms) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...。 - (3) 碎石處置細節: - a. 體外震波碎石 (extracorporeal shock wave lithotripsy, ESWL): - (a) 術前評估:下列情況為 ESWL 禁忌。 - i. 懷孕。 - ii. 有大的腹主動脈瘤。 - iii. 無法矯正的出血傾向。 - iv. 泌尿系統完全阻塞引發重度腎水腫。(注意輕度、中度水腫仍可以打 且常見) Source: [[sources/med5-book5-ch05|戊、結 石]].
 - Thoracic aneurysm repair Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (B) 8. 其診斷為何? - (A) 腸繋膜囊腫 - (B) 腹部主動脈瘤 - (C) 胰臟尾部腫瘤 - (D) 下腔靜脈血栓 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 【詳解】此電腦斷層可以看到腹主動脈的表現為腹主動脈瘤。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
@@ -108,9 +115,6 @@ tags:
 - 動脈血管壁因局部病變而導致向外膨出,當膨大的血管直徑為正常血管的 1.5 倍大以上的話,即稱為動脈瘤(aneurysm)。如果直徑僅 $1\sim1.5$ 倍大以內,則稱為 ectasia。動脈瘤可發生於身體任何動脈部位,最常見於主動脈,其次依序為 iliac、popliteal 和 femoral artery。(本章節不包括腦動脈瘤的介紹) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (1) 真性動脈瘤(true aneurysm):內膜、中膜和外膜三層血管壁皆向外膨出。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - ...| Angina, reinfarction, infarct extension | | Mechanical | Heart failure, cardiogenic shock, mitral valve dysfunction, aneurysms, cardiac rupture | | Arrhythmic | Atrial or ventricular arrhythmias, sinus or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral embolization | | Inflammatory | Pericarditis | Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- ...osion of infarcted myocardium at the border between the infarcted and viable myocardium $\circ$ - c. Type III: an early aneurysm formation correlated with older and severely expanded infarcts • Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- B. Aneurysmal SAH 146 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- H. Aneurysmal SAH 的外科處置 149 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 
 ## Clinical Caveats
 

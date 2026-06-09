@@ -22,6 +22,10 @@ sources:
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book2-ch18]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Urinalysis (尿液檢查)'
   - 'Urinalysis'
@@ -36,7 +40,7 @@ tags:
 
 ## Summary
 
-蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +62,19 @@ tags:
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book2-ch18]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med5-book5-ch06]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- 根據尿液分析(高倍視野下 WBC > 3)、尿液培養(細菌 $> 10^5$ CFU/ml)。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...ntermittent clean catheterization)(C) 給予 amphotericin-B 膀胱連續沖洗(D) 給予 amphotericin-B 靜脈注射 | | | (B) | 5. 一位 40 歲女性門診主訴血尿,尿液檢查(U/A)結果如下:比重 1.000,尿潛血(OB)2+,紅血球(RBC)0~1/HPF,白血球(WBC)1~2/HPF,尿蛋白(-)。理學檢查無異狀,下列何者為最佳處置? (A)告訴病人沒有問題 (B)告訴病人檢驗結果可能偽陰性(false negative),請病人反覆 再驗尿液 (C)告訴病人有血尿,需安排膀胱鏡檢查 (D)告訴病人有血尿,需進一步安排尿路攝影(IVP) | 103(二)專 | | (D) | 6. 下列有關尿路感 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- (C) 1. 一名 4 個月大的女嬰發燒到 39°C,身體檢查並無上呼吸道感染, 109(二)專 尿液檢查則發現有白血球增加的現象,符合泌尿道感染的診斷。 醫五-43 在住院施打抗生素與補充水分之後,她的燒很快就退了,超音 波檢查發現有輕微右側水腎的現象。該女嬰於1個月前也曾發 生泌尿道感染,下列那一個檢查應最優先進行? - (A) 腹部電腦斷層檢查 (abdominal CT) - (B) 腹部核磁共振檢查 (abdominal MRI) - (C) 膀胱輸尿管逆流攝影(VCUG) - (D) 靜脈腎盂造影(IVP) Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (B) 20. 一位 50 歲婦女,過去曾因子宮頸癌接受過骨盆腔放射線治療, 最近三年有頻尿、急尿及膀胱脹尿時疼痛的症狀,但排尿後疼痛 可以減輕。尿液檢查並沒有白血球或紅血球增加,病人也沒有 尿液滲漏的現象,排尿量約100毫升,沒有殘尿。請問她最可 能的診斷為: Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (D) 15. 一位 60 歲的男性在健康體檢時發現血清前列腺特定抗原(PSA) 濃度為 28.51 ng/mL,尿液檢查正常,肛門指檢結果發現前列腺 肥大,表面不規則,但無硬結,亦無壓痛。則下列何者為較佳 之處置? Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (A) 26. 52 歲的男性病患,長期酗酒及患有慢性肝炎,長期在肝膽內科 追蹤。最近作腹部超音波發現腎盂積水,故轉至泌尿科門診檢 查, 尿液分析 RBC: 5~10/HPF, WBC: 25~50/HPF, AC sugar: 147 mg/dL, BUN: 78 mg/dL, Cr. 2.3 mg/dL, SGOT: 56 U/L, SGPT: 37 U/L, 經 KUB 及 spiral CT without enhanced (電腦斷層 攝影)(如圖),可能的診斷是: Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (2) 尿液分析:以排除半乳糖血症(galactosemia)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 3. Urinanalysis:因為盲腸附近的發炎,有可能造成尿道跟著發炎,所以尿液檢查中有機會看到血尿以及膿尿。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
 - (BD) 8. 病患經過處理之後狀況逐漸改善,不幸的是,在術後五天之後又 106(二)專再度高燒不退,下列處置何者錯誤? 醫五-45 - (A) 血球檢查、胸部 X 光、尿液分析和血液培養 - (B) 若懷疑是導管相關感染,拔掉導管同時並給予 vancomycin 或是 linezolid - (C) 假如懷疑是心內膜炎(endocarditis),至少要給予抗生素四 到六週 - (D) 若是嚴重的敗血症或是免疫抑制 (immunosuppression) 的病人, 抗生素藥效須涵蓋 *gram-positive cocci* 和 fungus Source: [[sources/med5-book1-ch04|丁、外科併發症]].
@@ -73,12 +87,6 @@ tags:
 - (AC) 1. 一位 15 歲女童主訴過去幾個月有間歇性的發燒、手腕及踝關節 101(二)專痛。尿液檢查發現有血尿(hematuria)、蛋白尿(proteinuria)及 醫四-10 膿尿(pyuria)。下列何種檢驗對診斷最有幫助? - (A) 雙股 DNA (dsDNA) 抗體 - (B) 喉頭 A 群 beta 溶血性鏈球菌 (group A beta-hemolytic streptococcus) 培養 - (C) 小便培養 - (D) 紅血球沈澱速率 (erythrocyte sedimentation rate) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 3. 實驗室檢查:CBC、BUN、creatinine、電解質(Na, K, Ca, P)、血液 pH 值、alkaline phosphatase、25-OH vitamin D、尿液分析、IGF-1、thyroid hormone、TSH、arginine、 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (D) 5.8 歲的小明,主述2天以來有肚子痛及左踝關節疼痛腫脹,身體 檢查時發現下肢有許多紫斑(purpura),下列敘述何者錯誤? - (A) 25~50% 的此類病人會影響腎臟 - (B) 血液中之血小板數目正常 - (C) 若有嚴重腸胃症狀如出血或阻塞,可使用類固醇治療 - (D) 急性期有尿液檢查異常者,建議尿液檢查追蹤 2 個月即可 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 2. 尿液檢查: 收集 24 小時尿液偵測 homovanillic acid (HVA) 或 vanillylmandelic acid (VMA) 常有升高情形 (95% 的病人)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 5. 成人預防保健: [Ref. 國民健康局] - (1) 受檢資格: - a. 40 歲以上民眾每三年可以檢查一次。 - b. 65 歲以上民眾每一年可以檢查一次。 - (2) 檢查項目: - a. 理學檢查:包括肛門指診與乳房觸診。 - b. 血液檢查:全血球計數、肝功能、腎功能、膽固醇。 - c. 尿液檢查。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- (#) 28. 黃太太今年 41 歲,育有一位 15 歲男孩,並無重要病史及家族史,亦未定期作健康檢查。她來到你的門診接受預防醫學服務,除了量血壓、一般生化檢查、尿液檢查及子宮頸抹片外,根據美國預防服務工作小組(U.S. Preventive Service Task Force)的建議,應該再安排那些預防保健服務? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- (C) 11. 下列何者為 1997 年美國風濕病學院所訂定全身性紅斑性狼瘡 (SLE) 103( 二 ) 專 的診斷基準之一? 醫三 -40 - (A) 多發性關節痛 (polyarthralgia) - (B) 不明原因的 mononeuritis multiplex - (C) 尿液分析發現有 cellular casts 的存在 - (D) 慢性皮膚潰瘍 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- (B) 8. 一位 16 歲的男性患者主訴為三天前在兩側大腿以下出現有紅豆狀的紅色丘疹,並有輕度壓痛感(如附圖)。此外,有關節痛及肚子痛的症狀。抽血檢查發現 ESR 31 mm/h、CRP 2.74 mg/L、IgG 1720 mg/dL、IgA 534 mg/dL、IgM 129 mg/dL,尿液檢查呈現蛋白質(++)。最可能的診斷為何? Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (C) 2. 一位 30 歲女性病人尿液分析發現血尿,下列何項檢查結果支持是腎小球性(glomerular)血尿? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

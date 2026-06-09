@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch01]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book2-ch10]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Psychosis (精神病性症狀)'
   - 'Psychosis'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-現實感受損的症狀群，包含妄想、幻覺、思考形式障礙與混亂行為。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+現實感受損的症狀群，包含妄想、幻覺、思考形式障礙與混亂行為。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book2-ch10]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- (e) 藥物方面 (drug-induced): 抗精神病藥物 (antipsychotics)、抗憂鬱劑 (antidepressants)、降血壓劑 (β-blocker、利尿劑;α-blocker 最不易導致 ED)、抽菸、酒精 (一天酒精攝取>15 g)、胃酸抑制劑 (H2 blocker)、 女性荷爾蒙 / 抗男性賀爾蒙。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (3) 常見原因: - a. 老年人(多70~80歲之間),特別是住在安養機構的。 - b. 慢性便秘。(長期臥床) - c. 高纖維蔬菜飲食。 - d. 抗精神病藥物的使用。 Source: [[sources/med5-book2-ch10|乙、腸扭結]].
 - ...sterase | | Vascular dementia | 累積小中風 | 失智+局部神經學症狀 | 控制 HTN, DM | | Dementia c/ Lewy bodies | Lewy bodies ↓ | 失智+巴金森氏症,視幻覺 | Anticholinesterase | | Frontotemporal Dementia | Pick (Tau) protein | 失智+步態不穩+人格異常 | | | NPH (Communicating h.) | CSF 回收↓ | 失智+步態不穩+尿失禁 | VP shunt | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 3. Dementia with Lewy bodies - (1) 病因:這類疾病是 Lewy bodies 在大腦、基底核沉積。 - (2) 症狀:失智症+巴金森氏症(兩者發病間隔小於一年),易有視幻覺,且症狀是 波動性的(fluctuation)。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].

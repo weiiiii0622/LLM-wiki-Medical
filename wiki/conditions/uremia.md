@@ -37,6 +37,9 @@ sources:
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Uremia (尿毒症)'
   - 'Uremia'
@@ -51,7 +54,7 @@ tags:
 
 ## Summary
 
-腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +91,17 @@ tags:
 - [[sources/med5-book3-ch17]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- (D) 22. 42 歲李先生,罹患尿毒症,接受血液透析治療中。最近發現有表 102(二)專 淺型膀胱癌,剛接受經尿道膀胱腫瘤切除術,他希望儘快能做腎 醫五-70 臟移植,請問最理想的時間是? - (A) 術後 3 個月 - (B) 術後 6 個月 - (C) 術後1年 - (D) 術後 2 年 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (A) 28. 病患蔡先生,現年 40 歲,因尿毒症而接受血液透析共 10 年,換腎也等待 6 年,此次住院前一天晚上被通知住院並接受腎臟移植。捐贈者是一位 55 歲女性腦死病患,實驗室檢查發現血清內肌酸酐值高至 6.0 mg/dL,血清內尿毒素氮為 54 mg/dL,主治醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 c.c.。以下什麼情況最可能解釋移植腎沒有發揮功能? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (D) 29. 病患 32 歲女性,第一型糖尿病合併尿毒症,於 6 個月前接受胰腎同時移植。2 星期前因急性排斥,接受 3 天的高劑量類固醇(prednisolone 500 mg)靜脈注射,最近因發燒至 39.5℃,呼吸急喘,乾咳,肺部 X 光呈現兩側對稱性下肺部浸潤(bilateral symmetric lower pulmonary infiltration),血液白血球為 3,400/mm³。此病人之診斷最可能為何? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- c. 臨床表徵:容易發生腎盂腎炎,嚴重時會造成腎臟損傷、腎衰竭、尿毒症或 高血壓。以 VCUG、膀胱鏡診斷。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (A) 26. 52 歲的男性病患,長期酗酒及患有慢性肝炎,長期在肝膽內科 追蹤。最近作腹部超音波發現腎盂積水,故轉至泌尿科門診檢 查, 尿液分析 RBC: 5~10/HPF, WBC: 25~50/HPF, AC sugar: 147 mg/dL, BUN: 78 mg/dL, Cr. 2.3 mg/dL, SGOT: 56 U/L, SGPT: 37 U/L, 經 KUB 及 spiral CT without enhanced (電腦斷層 攝影)(如圖),可能的診斷是: Source: [[sources/med5-book5-ch05|戊、結 石]].
 - ..., Gaucher disease, neurofibromatosis, and tuberous fibrosis。 - (5) 代謝性或未知因素 (Metabolic and unknown): 肝病 (Liver disease)、尿毒症 (uremia)、發炎性腸疾病 (inflammatory bowel disease)。 - (6) 物理性因子 (Physical agents): 放射線 (Radiation)、氧毒性 (O2 toxicity)、燒 燙傷 (thermal injury)、爆炸傷 (blast injury)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...| Others | | failure | ● Bronchogenic | Disease Related | ◆ Chylothorax | | ● Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesoth Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...$> 55 \text{ y} \circ$ - c. LDH > 350 IU/L $\circ$ - d. AST > 250 IU/L - e. WBC > 16,000/U1 - (3) Initial 48 hrs: - a. BUN elevation $> 5 \text{ mg/dL} \circ$ - b. Base deficit $> 4 \text{ mEq/L} \circ$ - c. Ca 10\%$ ° - f. fluid Sequestration > 6 L $\circ$ Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
@@ -104,11 +115,6 @@ tags:
 - ...ion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabetic ketoacidosis, Propylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 【詳解】OPCD 係影響到 cerebellum, pons 和 inferior olives 的神經退化性疾病。包含遺傳性脊髓小腦失調症(spinocerebellar ataxia)和 multiple system atrophy。其症狀主要為漸近性軀幹及肢體失調,並包含其他神經學症狀,如 parkinsonism, dystonia等。頭部 MRI 影像可見小腦萎縮,或是橋腦(pons)出現十字線(hot cross bun sign)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...---------------------------------------------| | Neonates ( 35 years) | CVA, Brain tumor, Alcohol withdrawal Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- ...及下肢麻、刺痛(tingling) (D) 足部潰爛相當罕見 | 106(一)專醫四-56 | | (C) | 3. 於一般臨床診療,下列何者是造成多發性神經病變之最常見原因? (A) 慢性酒精中毒 (B) 鉛中毒 (C) 糖尿病 (D) 尿毒症 | 105(一)專醫四-55 | | (D) | 4.72 歲陳老太太,罹患糖尿病已 10 年,長期規則服用降血糖藥物,飯前血糖大約控制在 180 mg/dL 左右。近 3 個月來,逐漸出現手掌無力及不靈活,晚上也常因肢體末端灼熱感而無法入睡。下列臨床症狀,那一項最不可能在陳老太太身上出現? (A) 肌腱反射低下 (B) 姿勢性低血壓(orthostatic hypotension) (C) 手掌肌肉萎縮 (D) Babinski s Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...rder)最常發生在下列那種病人? (A) 帕金森氏症(Parkinson's disease) (B) 阿茲海默症(Alzheimer's disease) (C) 額顳葉失智症(frontotemporal dementia) (D) 尿毒症(uremia) 【詳解】REM sleep behavior disorder 和 Parkinson's disease(PD) 高度相關,也好發在有 PD 家族史的患者身上。 | 106(一)專醫四-67 | | (A) 18. 依據社會再適應評估表(social readjustment rating scale),下列何種生活事件所造成的壓力強度最大? (A) 配偶死亡 (B) 離婚 (C) 入獄 (D) 子女死亡 【詳解】社 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- (2) 出生後,若在男性新生兒發現膀胱擴大或是微小的尿流,此時就要懷疑尿道後 瓣膜的可能性。假若在新生兒期間沒有發現,病人則會有很高的機會得到泌尿 道感染引發敗血症或是尿毒症,造成病人死亡。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (3) 血液生化檢查:用來評估腎臟損傷程度,如BUN、Cr、CBC(評估貧血程度)。 5. 治療: - (1) 初步處理:為了防止泌尿系統的惡化,先用鼻胃管(No.5 or 8 French)導尿而不是用導尿管(Foley catheter 上的 balloon 會造成膀胱痙攣)。矯正電解質、BUN、Cr,治療呼吸窘迫…等,當病人情況穩定則以手術治療。 - (2) 手術:用小兒膀胱尿道切除鏡將尿道後瓣膜切除。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 6. Hemolytic-uremic syndrome Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

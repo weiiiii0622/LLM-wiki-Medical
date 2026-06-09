@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch12]]"
@@ -17,6 +17,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Hyperuricemia (高尿酸血症)'
   - 'Hyperuricemia'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,15 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- (1) KUB: 依成分不同有不同顯影。 - a. 可看到(radiopaque):80%結石,含金屬離子(Ca)愈多者愈明顯。 - b. 模糊 (faintly opaque): 磷酸胺鎂 (struvite)、胱胺酸 (cystine) 結石。 - c. 看不到 (radiolucent): 尿酸 (uric acid)、黃嘌呤 (xanthine)、indinavir 結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- d. 尿酸(Uric Acid):合成尿酸結石。濃度受食物(海鮮)影響大。 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (1) 含鈣結石 (calcium calculi): 占結石 80%。 - a. 含鈣結石種類:包括磷酸鈣、草酸鈣、高尿酸尿鈣(hyperuricosuric calcium) 結石等。(沒有碳酸鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric Source: [[sources/med5-book5-ch05|戊、結 石]].
+- | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 【詳解】腫瘤溶解症候群(tumor lysis syndrome)癌細胞快速分解會造成高尿酸、高血磷、低血鈣和高血鉀。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 尿酸 (uric acid): 10 mg/dL Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
@@ -65,10 +73,6 @@ tags:
 - 4. 治療: - (1) Allopurinol 加積極的 IV hydration 治療、以 NaHCO3 鹼化尿液以利尿酸排出。 - (2) Rasburicase 可在腎衰竭情況下降低 uric acid。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - (3) Cyclosporin (Sandimmune®): 直接抑制 IL2 合成,而減少對 T 細胞的活化,不會有骨髓抑制;常見副作用包括高血壓、高血鉀、高尿酸血症、牙齦肥大 (Gingival hypertrophy) 等。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (B) 尿酸 (uric acid) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (A) 腎衰竭的原因包括高鈣血症、高尿酸血症、輕鏈(lightchain) 對 腎小管的傷害及脫水等 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
-- \*\*Thiazide 會造成高血鈣、高尿酸值 (Hyperuricemia);Furosemide (Lasix®) 會造成低血鈣、高尿酸值 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (B) 病人經常合併有高尿酸血症、高血鉀、代謝性酸中毒及腎衰竭 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 1. 高尿酸血症與代謝症候群相關,與 insulin resistance 有關係 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 
 ## Clinical Caveats
 

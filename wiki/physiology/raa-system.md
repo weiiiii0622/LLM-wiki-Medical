@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch02]]"
@@ -26,6 +26,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Renin-angiotensin-aldosterone system, RAAS (腎素-血管張力素-醛固酮系統)'
   - 'Renin-angiotensin-aldosterone system, RAAS'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-心衰竭與高血壓治療的重要神經荷爾蒙路徑。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭與高血壓治療的重要神經荷爾蒙路徑。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,16 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book5-ch09]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- 1. 有功能的腫瘤-切除。(僅20%意外瘤有功能。—開始最初步基本的實驗室檢查有:抽血驗 K/aldosterone/renine、testosterone;驗 24 小時尿的 cortisol、VMA(以上如果有任何一項超標,進一步做相關檢查,常見且較為重要的有功能腫瘤皆收錄於 II 及 III 大項,包含各項進一步檢驗) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 1. 病理:因醛固酮瘤(aldosteronoma)或因腎上腺皮質的絲狀帶過度增生,導致醛固酮(aldosterone)過量。最常見的原因是自發性增生(Idiopathic hyperplasia),佔60%。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 2. 臨床表徵: - (1) 症狀:常見的有高血壓、低血鉀(但僅25%人有)、頭痛、夜尿。 - (2) 實驗室數據: - a. 初步判斷:血鉀≤3 mEq/L。 - b. 精確診斷: 敏感度 90%, 特異性 90%。 - (a) 血中 aldosterone: renin (即 PRA) > 30:1。(醛固酮上昇 +renin 下降)。 - (b) 血中 aldosterone > 15 ng/dL。 - i. 意義:血清(與尿液)呈現醛固酮 (aldosterone) 升高,血漿 renin (PRA = Plasma Renin Activity ) 活性下降,可以認定為原發性 aldosteronism。 - c. 更進一步確認:24 小時尿中醛固酮(aldosterone lev Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- c. 高血壓:會因為囊腫過大引發高血壓(像 angiotensin-dependent hypertension)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...作影像檢查偶然發現。 - ii. 腫瘤伴隨症狀 (paraneoplastic syndromes): 10~40%。又稱「副腫瘤綜合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndr Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 1. 血液 aldosterone 濃度過高。Aldosterone 的生理作用是留鈉、排氫、排鉀。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -82,11 +91,6 @@ tags:
 - (3) Salt losing form 臨床上常表現典型 cortisol 與 aldosterone 缺乏症狀,但通常要出生後 1~2 週才會有表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...drenal crisis,因此篩檢重點在於 classic type。而 classic type 又可分為 saltwasting CAH 與 simple virilizing CAH。其中 salt-wasting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...25 | 5. 老化過程中會發生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|--------------------------------------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...e myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎臟留鉀留氫 - →高血鉀(一般 RTA 的酸中毒會低血鉀,只有 Type 4 RTA 的酸中毒會高血鉀) - →高血鉀造成近端腎小管製造 NH, ↓但腎臟排 H+ 正常 - → $\mathbb{R}$ NH3 ↓→ $\mathbb{R}$ NH4+ ↓→ UAG > 0 但 $\mathbb{R}$ 中 H+ ↑→ $\mathbb{R}$ pH + | 尿中 HCO3 | 病因 | |-----|---------- Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- 2. 給生理食鹽水會改善的、Ucl +:嘔吐(Vomiting)、使用鼻胃管引流(gastric aspiration)、Villous adenoma。 - (2) 腎臟流失:先前使用利尿劑造成體液缺乏(Volume depletion),可想成體液缺乏時,Renin angiotensin aldosteron system 啟動,aldosteron 造成留鈉排鉀排氫,導致 H+ loss。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...tion in Na+-Cl- cotransporter in DCT) | | | | ECFV expansion, | High | 1. Renal artery stenosis | | | | hypertension, | renin | 2. Accelerated hypertension | | | | K+ deficiency, and | | 3. Renin-secreting tumor | | | | mineralocorticoid | | 4. Estrogen therapy | | | | excess | Low | 1. Primary aldosteronism (Adenoma, Hyperplasia, Carcinoma) | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (C) 皮質醛酮素缺乏 (aldosterone deficiency) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

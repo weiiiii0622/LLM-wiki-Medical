@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch04]]"
@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Epstein-Barr virus infection, EBV (EB 病毒感染)'
   - 'Epstein-Barr virus infection, EBV'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-可造成傳染性單核球增多症，並與部分淋巴瘤、鼻咽癌等疾病相關。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成傳染性單核球增多症，並與部分淋巴瘤、鼻咽癌等疾病相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...rus-mediated 所引起之 tumor or malig- | | | | nancy 最為常見 | | | | (C) Human papillomavirus 與 Kaposi's sarcoma 有關 | | | | (D) Epstein-Barr virus 與 post-transplant lymphoproliferative | | | | disorders (PTLD) 有關 | | | | 【詳解】Kaposi's sarcoma (KS)和Human herpesvirus 8 (HHV8) | | | | 有關。 | | | | | | Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -70,7 +73,6 @@ tags:
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - B. 病因:在從前以 *Haemophilus influenza* type b (Hib) 最常見,隨著疫苗的普及 Hib 感染比率下降許多。現在較常見的病原體為 group A streptococci、pneumococci、EBV。另外,文獻紀載有少數的病人由 *Corynebacterium diphtheria* 或 *Mycobacterium tuberculosis* 感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (6) 對於某些病毒使用病毒用藥: enterovirus (pleconaril)、Epstein-Barr virus (acyclovir)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (3) 無菌性腦膜炎:腸病毒、CMV、HSV、EBV、水痘、A/B 型流感病毒、黴漿菌。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats
 

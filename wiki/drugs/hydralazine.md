@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Hydralazine (肼屈嗪)'
   - 'Hydralazine'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-動脈擴張降低 afterload，可與 nitrate 合用於心衰竭。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+動脈擴張降低 afterload，可與 nitrate 合用於心衰竭。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book4-ch01]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...維化 (nephrogenic systemic fibrosis) | | | 的風險增加。 | | | | (D) 18. 對於腎臟移植後的處置, | | 103(二)專 | | ① 通常會使用 β-blockers來控制高血壓 | ,hydralazine 和 calcium channel blockers | 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (10) 藥物反應 (Drug reactions): Hydralazine, busulfan, nitrofurantoin (Macrodantin), hexamethonium, methysergide, bleomycin。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - Minocycline, procainamide, hydralazine, isoniazid, penicillamine, diltiazem, interferon- $\alpha$ , methyldopa, chlorpromazine, etanercept, infliximab, adalimumab Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...------|------------------| | (B) | 16. | 服用下列何種藥物最可能導致病(A) captopril(C) propranolol | 人產生抗核抗體(antinuclear antibody)?(B) hydralazine(D) prazosin | 101(二)專醫三-3 | | (C) | 17. | | 被懷疑是全身性紅斑性狼瘡,病患現檢驗顯示血尿與嚴重之蛋白尿,下列之症狀最有相關性?(B) anti-RNP(D) anti-histone | 101(二)專醫三-24 | | (B) | 18 | 下列何種自體抗體與 lupus nepl(A) Anti-RNP(C) Anti-SS-A/Ro | hritis 最有相關?(B) Anti-dsD Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].

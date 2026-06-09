@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch03]]"
@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'DSM diagnostic criteria (DSM 診斷準則)'
   - 'DSM diagnostic criteria'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-精神科疾病分類與診斷準則框架；教材同時使用 DSM-IV-TR 與 DSM-5，需注意版本差異。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+精神科疾病分類與診斷準則框架；教材同時使用 DSM-IV-TR 與 DSM-5，需注意版本差異。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- (3) 影像學: 臨床上以電腦斷層或超音波為診斷準則,如果在影像上看見 septal 或 nodular變化則惡性機會越高(即Bosniak分級,分I~IV級,越高惡性機會也越高)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ii. 靜脈攝影(venography)雖是診斷準則,但一般只用於考慮栓塞治療的病人。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 【詳解】(D) 脈搏用來診斷急性腔室症候群的敏感性和特異性很差,無法作為 rule out 或 rule in 的診斷準則。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (1) 診斷準則 (criteria): - a. 至少一處有 UMN 症狀+至少兩肢體有 LMN sign 存在,且疾病一直在進展。 b. 沒有感覺異常、沒有括約肌異常。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - Ⅱ.診斷 3 - 一、依據 DSM 的診斷準則 3 - 二、其他表現症狀類似思覺失調症的精神疾病之比較 3 - 三、Eugen Bleuler 的 4As 4 - 四、Kurt Schneider 的 first rank symptoms 4 - 五、T.J. Crow 的 schizophrenia 分類 4 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].

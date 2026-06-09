@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch02]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Valproate / valproic acid (丙戊酸)'
   - 'Valproate / valproic acid'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-mood stabilizer 與抗癲癇藥，用於 mania；需注意肝毒性、血小板、胰臟炎、體重與致畸胎性。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mood stabilizer 與抗癲癇藥，用於 mania；需注意肝毒性、血小板、胰臟炎、體重與致畸胎性。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ mood stabilizer 與抗癲癇藥，用於 mania；需注意肝毒性、血小板�
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...---------------------|---------------------------------------------------------| | 部分發作 | | Carbamazepine · Phenytoin · Valproic acid · Lamotrigine | | 入云似路床 | 全身性癲癇 (GTCS)=大發作 (Grand mal) | Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan) | Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperventilation)或一些光刺激(photic stimulation)引發。 藥物首選為 valproate(Depakine®),或使用 ethosuximide。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...mazepine (Tegretol®),Phenytoin (Dilantin®) | | 部分發作癲癇首選 | | Ca 離子通道阻斷劑 | Ethosuximide | | 失神性(小發作) | | Na, Ca 離子通道阻斷劑 | Valproic acid (Depakine®) | | 以上兩個皆可 | | 加強 GABA | Barbiturate 類 | Phenobarbital (Luminal®) | 部分、全身性癲癇二線藥 | | //ling GABA (增強 GABA 作用) | BZD 類 | Clonazepam (Rivotril®) | 肌陣攣(Myoclonus) 發作可用 | | (增無 UADA 作用) | DZD 积 | Lorazepam ( Source: [[sources/med4-book4-ch02|乙、癲癇]].

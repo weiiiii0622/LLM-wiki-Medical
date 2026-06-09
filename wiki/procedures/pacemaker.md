@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch10]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Pacemaker (心律調節器)'
   - 'Pacemaker'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-治療部分 bradyarrhythmia 或傳導阻滯。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療部分 bradyarrhythmia 或傳導阻滯。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- v. 有裝心臟節律器尚未會診心臟科醫師同意者。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (A) pacemaker implantation Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 貧血,或肝炎。多數的症狀都是暫時性的,只須給予支持性的治療,但心臟傳 導異常是永久性的,常需要安裝心律調節器。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - | (B) 25 | 5. 老化過程中會發生許多生理變化,在 80 歲以上之正常老人,下列何種變化不正確或較罕見? (A) 心臟竇房結(sino-atrial node)之節律細胞(pacemaker cells)數量減少可達 90% (B) 腎素(renin)與腎上腺皮質醛固酮(aldosterone)分泌增加(C) 約有 50% 可在腸道發現憩室(diverticula) (D) 動脈血氧分壓約 70-75 毫米汞柱 【詳解】(B) 老年人的腎素與醛固酮分泌皆會下降,但因代償機轉的運作,正常狀況下不會發生電解質的異常。 | 104(一)專醫三-20 | |---------|--------------------------- Source: [[sources/med3-book4-ch26|丙、社區醫學]].

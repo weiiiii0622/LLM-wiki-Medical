@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch11]]"
@@ -27,6 +27,7 @@ sources:
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Hypercalcemia (高血鈣)'
   - 'Hypercalcemia'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,12 @@ tags:
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...yndromes): 10~40%。又稱「副腫瘤綜合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 ( Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (D) 高血鈣症發生率可高達 13%, 其原因係 paraneoplastic phenomena 或骨轉移造成之骨質溶解 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】考%數是一個很討厭的考法。HCC 的四大 paraneo-plastic syndrome 包含 erythrocytosis ,hypoglycemia,hyperchole-sterolemia,hypercalcemia,比較常見的發生率是寫 40% 左右,但也有 paper 寫在 10~20%。比例就僅供參考,重點還是要知道有 paraneoplastic syndrome 這回事。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 2. 慢性胰臟炎常見原因: - (1) 酒精(>70%)。 - (2) 胰管阻塞: 先天或後天性胰管狹窄、腫瘤阻塞。 - (3) 遺傳性。 - (4) 高血鈣症。 - (5) 蛋白質缺乏性的營養不良。 - (6) 囊性纖維化 (cystic fibrosis)。 - (7) 外傷導致胰臟受損。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
@@ -87,8 +91,6 @@ tags:
 - 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...析顯示 Occult blood:強陽性 (4+);Protein:陰性 (-);WBC 3~5/HPF;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (5) 病人也會表現高血鈣,進而造成腎臟鈣化或結石發生。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【詳解】病人血液 pH 值為 7.56,故 (A)(D) 先可以刪除。病人 血液低血鉀但血氯正常,因此 Bartter syndrome 不選(Bartter syndrome 病人血液出現低血鉀、低血氯、高血鈣、正常鎂離子 濃度、以及代謝性鹼中毒,尿液檢查出現高尿鈣與尿肌酸酐比 值)。故選(B)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (D) 2.7 天大男嬰,發現有呼吸窘迫、發紺及心雜音。呼吸次數每分鐘 60 次合併厲害胸凹(Subcostal retraction)現象,肝臟下緣位於右 肋骨下 4 公分,右手血壓為 90/50 mmHg,左手及下肢血壓約為 60/45 mmHg。下列敘述何者錯誤? - (A) 需要給與前列腺素 (Prostaglandin E1) - (B) 常合併胸腺發育不良(Thymic hypoplasia) - (C) 常合併臉部異常及顎裂(Cleft palate) - (D) 常合併血中鈣離子偏高(Hypercalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

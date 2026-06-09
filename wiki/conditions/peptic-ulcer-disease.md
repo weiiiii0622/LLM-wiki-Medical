@@ -33,6 +33,7 @@ sources:
   - "[[sources/med5-book3-ch01]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Peptic ulcer disease (消化性潰瘍)'
   - 'Peptic ulcer disease'
@@ -47,7 +48,7 @@ tags:
 
 ## Summary
 
-胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +81,11 @@ tags:
 - [[sources/med5-book3-ch01]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...imethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) | | | (A) ①35 | (B) 1245 | | | (C) 2345 | (D) ①②③④ | | | (A) 19. 當腎臟血管肌肉脂肪瘤(期追蹤,不需手術? | angiomyolipoma ) 小於幾公分時可採定 | 103(二)專醫五-66 | | (A) 4 公分 | (B) 6 公分 | | | (C) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (C) 3. 一位 25 歲女性,到急診處主訴突發嚴重胸口心窩處疼痛(retrosternal pain),其症狀因深呼吸或吞嚥動作而加重。病人體溫 醫五-55 36.8℃、心跳 110/min、血壓 140/80 mmHg、臉色稍顯蒼白、腹 部平坦、柔軟無壓痛。病人身材瘦削,但她始終擔心過於肥胖 而常將吞進去的食物用挖喉嚨的方式嘔出。請問病人此次發作 的最可能原因是: - (A) 胃食道逆流(gastroesophageal reflux) - (B) 張力性氣胸 (tension pneumothorax) - (C) 食道自發性破裂 (Boerhaave's syndrome) - (D) 消化性潰瘍 (peptic ulcer) Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (C) peptic ulcer (D) gastritis Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -100,7 +103,6 @@ tags:
 - 4. 症狀:消化性潰瘍(PUD)、上腹疼痛(epigastric pain)、腹瀉(因胃酸過度分泌破壞消化酵素)、體重減輕。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (A) 因急性十二指腸潰瘍穿孔接受腹腔鏡十二指腸修補縫合術, 術後第三天,鼻胃管仍留置,每日引流量約為六百毫升 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - | (D) 21. 下列那一位腦死病患,最不適合成為腎臟移植的捐贈者? (A) 43 歲,糖尿病病患 (B) 35 歲,腎結石病史者 (C) 37 歲,十二指腸潰瘍病史 (D) 20 歲,HIV 陽性 | 98(二)專醫五-5 | |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (BC)26. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證 實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲 知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外 籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀 而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。 下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 

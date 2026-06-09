@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Ventilation-perfusion matching, V/Q (通氣灌流匹配)'
   - 'Ventilation-perfusion matching, V/Q'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch10]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ...診斷:理學檢查即可診斷,另可搭配彩色都卜勒超音波確認。不用實驗 室檢查。 - (d) 治療: - i. 初步保守治療:冷水澡、射精、運動,但這些尚無研究依據。 - ii. 一線 ( 1hr 無效、或> 72hr): 依其成因可做動靜脈瘻管(shunt,可成功緩解,但之後無法勃起),或動靜脈瘻管栓塞(transarterial embolization)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 3. 機轉:一條或數條肺動脈不經肺微血管直接和肺靜脈相接,形成 right-to-left shunt,且 1/3 病人同時合併有遺傳性出血性血管擴張症 (hereditary hemorrhagic telangiectasia, Osler-Weber-Rendu syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 缺氧(Hypoxia):氣道阻塞、胸內壓力改變、通氣灌流失調(ventilation-perfusion mismatches) 和低血容。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 【詳解】大部份先天性橫隔膜疝氣的嬰兒在剛出生幾個小時內, 肺高壓尚未過高足以造成動脈導管或卵圓孔產生 R to L shunt, 不會有呼吸窘迫或低血氧的狀況,這段時間稱為 honeymoon period (蜜月期)。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
@@ -82,7 +85,6 @@ tags:
 - 【詳解】NPH 的三個典型症狀中,尿失禁和步態不穩在做 VP shunt 以後可以明顯獲得症狀改善,失智方面由於牽涉到組織病理變化 (neurodegenerative),其症狀改善相較於另外兩者較不顯著。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 4. 診斷:血中 d-dimer 可幫助排除(high sensitivity, low specificity),確診須靠 contrast-CT、血管攝影、V/Q scan。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (3) Hunt and Hess Grade 4~5 的水腦症病患需接受 ventriculostomy 作造口引流 CSF 或是 shunt。80% 的病患有機會可獲得改善。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- ...| Frontotemporal Dementia | Pick (Tau) protein | 失智+步態不穩+人格異常 | | | NPH (Communicating h.) | CSF 回收↓ | 失智+步態不穩+尿失禁 | VP shunt | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

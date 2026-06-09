@@ -7,6 +7,8 @@ sources:
   - "[[sources/med5-book4-ch13]]"
   - "[[sources/med5-book4-ch14]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Inguinal hernia (腹股溝疝氣)'
   - 'Inguinal hernia'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-小兒腹股溝疝氣多因 processus vaginalis 未閉合，早產兒風險較高，需注意嵌頓。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+小兒腹股溝疝氣多因 processus vaginalis 未閉合，早產兒風險較高，需注意嵌頓。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book4-ch13]]
 - [[sources/med5-book4-ch14]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- (A) 19. 下列有關尿道下裂之敘述,何者錯誤? 103(一)專 (A) 尿道開口近膀胱端者比近尿道口者容易矯正 醫五-71 (B) 手術矯正前給予雄性荷爾蒙製劑,可能有助於手術的進行 (C) 在青春期前短暫給予睪固酮不會影響未來陰莖的發育 (D) 7~9% 會合併隱睪症, 9~16% 會合併腹股溝疝氣或陰囊積水 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (A) 4.34歲的葉小姐是位老師,身體健康無特殊病史,近日因為右側鼠 蹊部腫脹來門診,經診斷為腹股溝疝氣,醫師向葉小姐建議進行 疝氣修補術治療,在解釋病情及手術細節後,葉小姐卻要求術 後要 補充白蛋白,因為她聽說白蛋白對腹部手術術後恢復有幫 助,但醫師的專業判斷認為並不需要,此情境下,如何處理較 適當? Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - D. 腹股溝疝氣 (Inguinal hernia, IH) 及陰囊水腫 (Hydrocele) 181 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
 - ### D. 腹股溝疝氣 (Inguinal Hernia, IH) 及陰囊水腫 (Hydrocele) Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
 - 1. 幾乎所有孩童腹股溝疝氣都是先天性間接型疝氣(indirect inguinal hernia, indirect I.H.),因腹膜鞘狀突(processus vaginalis)胚胎發育變異的不同形成一系列的異常,包含陰囊疝氣(scrotal hernia)、交通性陰囊水腫(communicating hydrocele)、精索水腫(hydrocele of the cord)/ 閉鎖性陰囊水腫(noncommunicating hydrocele)、陰囊水腫(hydrocele)。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].

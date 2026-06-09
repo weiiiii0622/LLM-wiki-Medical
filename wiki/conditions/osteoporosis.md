@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch10]]"
@@ -23,6 +23,9 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Osteoporosis (骨質疏鬆症)'
   - 'Osteoporosis'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,15 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- ...干擾核內信息傳遞(Intracellular signaling): - (i) 皮質類固醇(Corticosteroid):免疫製劑的基礎,從多方面影響免疫系統,減緩淋巴結和骨髓的淋巴細胞反應。副作用包括高血壓、高血脂、高血糖、體重增加、骨質疏鬆、傷口癒合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 生:生毛、生(昇)血壓及生牙齦)。副作用有腎毒性(故術後 4 個月 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (D) 長期荷爾蒙治療可能有骨質疏鬆、貧血、疲倦等副作用 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (1) 症狀:8項中有3項以上。(記法:胖高高(糖/壓)、皮(紋)-肌(弱)-骨(折)-血(雄)-神(情緒)) - a. 外觀:月亮臉、水牛肩、軀幹肥胖。 - b. 皮紋 (Striae, 在腹部或大腿的紅色紋)。 - c. 雄性素過量症狀(髮線退後、多毛症、小乳房發育、聲音變沉)。 - d. 情緒不穩或失眠或精神失常。 - e. 肌肉無力(特別是股四頭肌,所以從椅子上由坐站起困難)。 - f. 骨質疏鬆症(常見,甚至造成腰椎壓迫性骨折)。 - g. 高血糖(80%人有餐後高血糖;20%人空腹也高血糖)。 - h. 高血壓 (持續存在)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 3. 症狀:腎結石、骨質疏鬆、高血壓、四肢無力、多尿、情緒不穩定。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (A) osteoporosis, osteopenia Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (D) 骨質疏鬆密度檢查 T < -2.5 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -78,9 +87,6 @@ tags:
 - (D) Juxta-articular osteoporosis Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - (b) 停經後用 Aromatase inhibitor: - i. 包含: Anastrozole, Letrozole, Exemestane。 - ii. 缺點:關節痛 (Joint pain)、骨質疏鬆及骨折。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - ...------------------------------------------------------| | Corticosteroid | Hyperglycemia, hypertension, hyperlipidemia, osteoporosis, osteonecrosis, myopathy, cosmetic defect (e.g. buffalo hump), growth suppression in child | | Cyclosporin (CsA) | Glucose intolerance, hypertension, nephrotoxicity | | Tacrolimus (FK506) | Glucose intolerance (diabetes Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
-- ...B5701) | function | | INKII | 的病毒 DNA | Lami vudine (3TC) | impairement, | | | | Emtricitabine (FTC, 為 3TC 之 prodrug) | osteoporosis | | | | Tenofovir (TDF, TAF) | TAF 為 tenofovir | | | | 3TC, FTC, TDF, TAF 同時可治療 HIV 及 | 之 prodrug,較 | | | | HBV | TDF 副作用少 | | | | Efavirenz (EFV) → CNS (Dizziness) | | | NNRTI* | 結合 RT 而抑制 | Nevirapine (NVP) → Stevens- Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- E. 骨質疏鬆症 (Osteoporosis) 260 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- 1. 副甲狀腺素 (PTH): [重點:低鈣時→副甲狀腺被刺激→溶解骨頭以升鈣] - (1) 要先知道骨頭是由磷酸鈣構成,要升鈣,先從骨頭搬出磷、鈣,再將磷由腎臟排出、 且抑制鈣由腎排泄,因而藉此升鈣;否則溶解出磷、鈣後,不將磷由腎臟排出,又 會等比例沉澱回骨頭。 - (2) 因此生理上的 PTH 除了會促進骨溶蝕出鈣、磷,還會抑制腎排鈣、促進腎排磷,造成高血鈣、低血磷; - (3) 副甲狀腺亢進時分泌的 PTH 劑量較大、且持續分泌,因而促進骨溶蝕造成高血鈣、 骨質疏鬆;但若較小劑量、脈衝方式分泌的 PTH,反而會促進成骨作用,例如用來 治療嚴重骨鬆症的每天皮下一針 PTH。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 
 ## Clinical Caveats
 
@@ -89,6 +95,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/androgen-deprivation-therapy|Androgen deprivation therapy, ADT (雄性素剝奪治療)]]
 - [[drugs/bisphosphonates|Bisphosphonates (雙磷酸鹽類)]]
 - [[diagnostics/bone-mineral-density|Bone mineral density, BMD (骨密度檢查)]]
 - [[physiology/calcium-homeostasis|Calcium homeostasis (鈣離子恆定)]]

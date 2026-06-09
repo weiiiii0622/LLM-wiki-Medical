@@ -83,6 +83,13 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch10]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Kidney (腎臟)'
   - 'Kidney'
@@ -97,7 +104,7 @@ tags:
 
 ## Summary
 
-腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -180,9 +187,26 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch10]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch02]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch06]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- #### A. 腎臟囊腫 (Renal cyst) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 1. 流行病學:腎臟常見的構造異常,50歲以上盛行率30%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (1) 症狀: 一般無明顯症狀,若>10 cm或位在腎盞-輸尿管附近,會造成阻塞性水腎。 (記法:因為腎臟大小 10×5×2.5 cm) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (1) 雙套 (Duplication of ureter): - a. 流行病學:女性多於男性;左或右側發生率相當、單側發生為雙側發生的6倍; 有家族遺傳傾向。 - b. 臨床表徵:分兩類。 - (a) 不完全型(有一條未接到膀胱,呈Y字型):常為無症狀,有時會有尿液滯留、輸尿管擴張、逆流等情形。常有腎臟異常。 - (b) 完全型(兩條都接到膀胱):常伴隨有膀胱輸尿管逆流或感染。注意:常逆流的輸尿管是膀胱內較上方的輸尿管開口,因為這條輸尿管不僅較短且進入腎臟位置較低(Weigert-Meyer law)(記法:上到下內,下到上外)。 - c. 治療:保守治療或手術治療。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (2) 輸尿管腎盂接合處阻塞 (ureteropelvic junction obstruction, UPJO): - a. 流行病學:男性好發、左側;雙側機率為 25%。 - b. 臨床表徵: - (a) 症狀:常為無症狀;少數在水腎嚴重時會有腰腹疼痛、血尿、泌尿道感染、結石或高血壓等表現。嬰兒常以腹部腫塊表現;孩童常以疼痛及嘔吐表現。 - (b) 影像學:超音波(大部分是產前超音波)、diuretic renal scan、IVU、voiding cystourethrogram (VCUG)。 - c. 治療:腎盂整型術,預後不錯。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (3) 輸尿管開口異位(即輸尿管開口不在膀胱): - a. 流行病學:女性多於男性;15% 為雙側性。 - b. 臨床表徵: 最主要有尿失禁的症狀,亦常有泌尿道感染、腎臟發育異常。 - c. 治療:手術,將輸尿管切開重接在膀胱上。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (2) 疼痛: - a. 結石痛的形態:常是突然發生的劇痛,可將病患從睡眠中痛醒。需要改變姿勢讓疼痛稍微緩解些,這可用以區別腹膜痛(病患不敢動,因為一動到腹膜就痛)。 - b. 結石痛的機轉:主要是排尿系統被結石堵住,甚至造成尿回堵引發疼痛。故可分為腎絞痛(renal colic,輸尿管因為結石堵住蠕動不順,拉扯產生的痛)或非絞痛性腎臟痛(noncolicky renal pain,腎包膜被積尿撐大的痛)。 - c. 結石痛嚴重度的影響因素: - (a) 大小:與疼痛嚴重度無直接相關,例如小的結石可引發劇痛,大如鹿角 狀結石有時只會腰部不適(才會養那麼大顆)。 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- ...ropelvic junction, UPJ)。 - (ii) 輸尿管-髂動/靜脈交叉處。 - (iii)輸尿管-膀胱交會處(ureterovesicular junction, UVJ)。 - ii. 所產生的差異: - (i) 腎盞 (renal calyx) 或腎盂 (renal pelvis) 結石:疼痛差異大,從 尖銳劇痛到悶悶的不適都可能(例如未堵住的磷酸胺鎂結石,表 現是反覆的 UTI),常會引起噁心嘔吐。疼痛會輻射到上腹部。 - (ii) 上段及中段輸尿管(upper and mid-ureter)結石:顯著劇烈且尖銳的背痛(肋脊角位置)或腰痛,也會引起噁心嘔吐。疼痛會輻射到中下腹部。 - (iii)下段輸尿管(distal ureter)結石:會造成下泌尿道症狀( Source: [[sources/med5-book5-ch05|戊、結 石]].
+- ...uric calcium) 結石等。(沒有碳酸鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (3) 腎膿瘍 (renal abscesses): 常見包括發燒、畏寒、腹痛、解尿疼痛,且症狀可持續 2 週以上。有些人可觸診摸到。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (C) 腎臟衰竭 (renal failure) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (C) 腎衰竭 (renal failure) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -191,16 +215,6 @@ tags:
 - 【詳解】患嬰中約 1/3 有低體重, 2/3 常合併 VATER (vertebral, anorectal, tracheal, esophageal, renal or radial limb) 等異常。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (2) 腹部超音波:評估泌尿系統和脊髓,尤其腎臟部位。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 8. 常見合併異常: VACTERL (vertebral, anorectal, cardiac, tracheal, esophageal, renal, and limb)。 - (1) 一般來說越高位的異常越長合併泌尿異常。 - a. 泄殖腔殘存或直腸膀胱瘻管,約 90% 合併泌尿生殖異常。 - b. 低位異常者,如會陰部瘻管者,僅 10% 合併泌尿生殖異常。 - (2) 約 1/3 病患合併薦椎和脊椎異常,如缺少 2 節以上脊椎,預後較差,會合併腸 道和膀胱失禁。 - (3) 約 26~59% 病童合併直腸尿道瘻管以外的泌尿生殖異常,最常見的是膀胱輸尿管逆流(vesicouret Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 【詳解】常見合併異常: VACTERL (vertebral, anorectal, cardiac, tracheal, esophageal, renal, and limb) • Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 3. 合併症:患嬰中約 1/3 有低體重, 2/3 常合併 VATER (vertebral, anorectal, tracheal, esophageal, renal or radial limb) 等異常。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- (C) 內含的異位組織最常見的是胃及腎臟組織 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
-- 4. 轉移癌 - (1) 轉移癌的發生率較原發性小腸癌高出許多。 - (2) 常見轉移至小腸的癌症包括:子宮頸癌、卵巢癌、腎臟癌、胃癌、大腸癌、胰臟癌等腹內器官。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- (C) kidney laceration Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- ...指腸經糞便排泄,患者的大便呈現灰白色(Acholic 或 clay stool)。 - (c) 茶色尿(tea-colored urine):當 conjugated bilirubin 被大量製造或無法經由 腸道排除,即會經由血液循環進入腎臟代謝,造成茶色尿,因此無法單純 由此判斷是否為阻塞性或非阻塞性黃疸。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
-- ...----------------------------------------|---------| | | 下列敘述何者錯誤? | 醫五 -29 | | | (A) 低血容合併急性腎衰竭 (hypovolemia with acute renal failure) | | | | (B) 低血氧合併成人呼吸窘迫症 (hypoxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel dis Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 【詳解】遠端脾腎靜脈分流術屬於 selective shunt,斷 coronary vein,重建 gastroepiploic vein 至 left renal vein,減少 EV/GV bleeding 但 portal hypertension 加深,增加臟器回流壓力,ascite 加劇。門脈下腔靜脈分流術 (portacaval shunt) 屬於 non-selective shunt,可做 Total (end to side) or partial (side to side) shunt,減少血流進肝臟去解毒,故加深腦性肝病變,同時肝臟因缺血提早肝衰竭。此兩者都是治療因嚴重肝硬 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (C) 若是臨床上考慮進行 mechanical bowel cleansing,針對腎臟功能不佳的患者,選擇 sodium phosphate 類的灌腸劑,相對polyethylene glycol solution,較少發生嚴重電解質不平衡的情形 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 【詳解】Sodium phosphate 為 osmotic solution,使身體水分往 大腸內滲透,容易影響 fluid/electrolytes imbalance,甚至 impair renal function; polyethylene glycol 則是 nonabsorbable osmotic agent,較不會有 fluid/electrolytes imbalance (fluid shifting)的問題,適合用在 renal failure、congestive heart failure、ascites from liver disease 的病人。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 
 ## Clinical Caveats
 
@@ -210,6 +224,12 @@ tags:
 ## Related Pages
 
 - [[drugs/lithium|Lithium (鋰鹽)]]
+- [[procedures/partial-nephrectomy|Partial nephrectomy (部分腎切除術)]]
+- [[conditions/renal-angiomyolipoma|Renal angiomyolipoma, AML (腎血管肌肉脂肪瘤)]]
+- [[conditions/renal-cell-carcinoma|Renal cell carcinoma, RCC (腎細胞癌)]]
+- [[conditions/renal-cyst|Renal cyst (腎臟囊腫)]]
+- [[conditions/renal-oncocytoma|Renal oncocytoma (腎嗜酸細胞瘤)]]
+- [[conditions/renal-trauma|Renal trauma (腎臟外傷)]]
 - [[conditions/wilms-tumor|Wilms tumor (威爾姆氏腫瘤)]]
 
 ## Follow-up

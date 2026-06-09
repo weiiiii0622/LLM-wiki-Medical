@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Wilms tumor (威爾姆氏腫瘤)'
   - 'Wilms tumor'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-兒童腎臟惡性腫瘤，常以無痛腹部腫塊或血尿/高血壓表現。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童腎臟惡性腫瘤，常以無痛腹部腫塊或血尿/高血壓表現。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch01]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (1) 腎臟實質腫瘤 (renal parenchymal neoplasm): - a. 良性腫瘤 (benign): - (a) 嗜酸細胞瘤 (oncocytoma) (占所有腎腫瘤 4%)。 - (b) 血管肌肉脂肪瘤(angiomyolipoma, AML)=畸形瘤(hamartoma)。 - b. 惡性腫瘤 (malignant): - (a) 腎細胞癌 (RCC): 85%。 - (b) 轉移癌 (secondary tumor): 15%。 - (c) 兒童 Wilms' tumor。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - 1. 腎母細胞瘤(Nephroblastoma)又稱威爾姆氏腫瘤(Wilms' Tumor, WT)。 - (1) 孩童最常見之原發惡性腎臟腫瘤。 - (2) 機轉 & 成因:為胚胎性腎原發之腫瘤。雖具遺傳性基因,在染色體 11 短臂 (p)上的 Wilms' tumor gene-1 (WT1),但具此基因之腫瘤病患卻不常見。因 Beckwith-Wiedemann syndrome 基因座落於附近,故 BWS 患者有 1/5 合併雙側 WT。 - (3) 流行病學:好發於 1~ Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - 【詳解】Beckwith-Wiedemann syndrome 包含臍膨出(omphalocele)、高胰島素低血糖症(hyperinsulinemia with hypoglycemia)、巨舌(macroglossia)、巨內臟(visceromegaly)。常併發或關聯之疾病:臍膨出、威爾氏腫瘤(Wilms' tumor)、橫紋肌肉瘤(rhabdomyosarcoma)、肝母細胞瘤(hepato-blastoma)、神經母細胞瘤(neuroblastoma)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
@@ -51,6 +54,7 @@ tags:
 ## Related Pages
 
 - [[anatomy/kidney|Kidney (腎臟)]]
+- [[procedures/radical-nephrectomy|Radical nephrectomy (根除性腎切除術)]]
 - [[diagnostics/tumor-staging|Tumor staging (腫瘤分期)]]
 
 ## Follow-up

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book4-ch14]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Spinal cord injury, SCI (脊髓損傷)'
   - 'Spinal cord injury, SCI'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-外傷造成脊髓功能受損，需初步固定、神經分級、影像與併發症管理。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外傷造成脊髓功能受損，需初步固定、神經分級、影像與併發症管理。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book4-ch14]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- ...胱滿漲的訊號可刺激脊髓反射作用稱為防護反射(guaing reflex),可增加禁尿的功能 | 傳 | | (B) | 3. 有關自主神經反射異常(autonomic dysreflexia, AD)的敘述,列何者錯誤? (A) 經常發生於脊髓損傷部位高於 T6~T8 以上的病人 (B) 病人會有低血壓 (C) 病人會有頭痛及患部以上潮紅 (D) 男性病人常併有尿道平滑肌共濟失調(dyssynergia) | 下 108(一)專醫五-69 | | (D) | 4. 有關兒童尿床(nocturnal enuresis)的敘述,下列何者錯誤? (A) 續發性尿床(secondary enuresis)的小孩應考慮有無尿路原的可能 (B) 夜間多尿症(nocturnal polyuri Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
+- | (C) | 6. 對一位 C5~C6 完全性脊髓損傷導致逼尿肌尿道外括約肌共濟失調 | 107 (二)專 | |-----|-------------------------------------------------------|-----------| | | (detrusor sphincter dyssynergia, DSD)的病人,下列何種處置不 | 醫五-68 | | | 合適? | | | | (A) 間歇性導尿以定時排空膀胱 | | | | (B) 口服抗膽鹼藥物 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
+- (C) 19. 有一位 42 歲的脊髓損傷男性因排尿障礙,照會泌尿科醫師。病 史為一年前因車禍傷及第 4 胸椎,導致下半身癱瘓。理學檢查 發現其下肢肌腱反射增強(+++),肌力為 0~1 分,醫師為其安 排尿路動力學(urodynamics)檢查,包含膀胱壓力圖(CMG) 及外括約肌肌電圖(EMG),請問以下何項為最可能的結果? 98(一)專 醫五-67 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - 2. Niedzielski JK, Oszukowska E, Słowikowska-Hilczer J. Undescended testis current trends and guidelines: A review of the literature. *Arch Med Sci* 2016;12(3):667-77. Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
 - C. 脊椎創傷 (Spinal injuries) 176 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ## C. 脊髓創傷 (Spinal injuries) Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -44,7 +49,9 @@ tags:
 
 ## Related Pages
 
+- [[conditions/autonomic-dysreflexia|Autonomic dysreflexia (自主神經反射異常)]]
 - [[conditions/cervical-spine-fracture|Cervical spine fracture (頸椎骨折)]]
+- [[conditions/neurogenic-bladder|Neurogenic bladder (神經異常膀胱)]]
 - [[conditions/neurogenic-shock|Neurogenic shock (神經性休克)]]
 - [[anatomy/spinal-cord|Spinal cord (脊髓)]]
 

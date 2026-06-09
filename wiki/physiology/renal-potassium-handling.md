@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Renal potassium handling (腎臟鉀離子處理)'
   - 'Renal potassium handling'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,13 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 1. 有功能的腫瘤-切除。(僅20%意外瘤有功能。—開始最初步基本的實驗室檢查有:抽血驗 K/aldosterone/renine、testosterone;驗 24 小時尿的 cortisol、VMA(以上如果有任何一項超標,進一步做相關檢查,常見且較為重要的有功能腫瘤皆收錄於 II 及 III 大項,包含各項進一步檢驗) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- #### A. 原發性高醛固酮症 (Primary aldosteronism), 又稱高血壓低血鉀症 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...|------------------------------------------------------------------------------|-------| | 病人,其電解值的變化為何? | -45 | | (A) 低血鉀症鹼中毒 (B) 高血鈉症鹼中毒 | | | (C) 低血鉀症酸中毒 (D) 低血氯症酸中毒 | | | 【詳解】胃液 HCl、K 流失。 | | | (A) 5. 有關嬰兒型幽門肥厚狹窄 (infantile hypertrophic pyloric stenosis), 103(二下列敘述何項錯誤? | | | (A) 均於出生後兩週內發病 (B) 吐出物很少膽汁或無膽汁 | | | (C) 手術治療為切開幽門括約肌(pylorom Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...確? 103(二)專 ① 幽門切開術 (pyloromyotomy) 是手術的方式 醫五-50 ② 此病最可能造成的併發症為中腸扭結(midgut volvulus) ③ 如果有可能診斷此疾病時,則病人需接受較緊急的手術 ④ 容易造成代謝性低血鉀症鹼中毒 (A)(1)(4)(B) 僅②③ (C) 234 (D)(1)(3)(D) 4. 一位 10 天大的男嬰送至醫院,媽媽主訴男嬰自 2 天前不斷叶膽 103(一)專 汁及哭鬧不安,鋇劑上消化攝影(upper GI study)如下圖,最有 醫五-9 可能的診斷是: (A) 十二指腸蹼 (duodenal web) (B) 環狀胰臟 (annual pancreas) (C) 上腸繋膜動脈症候群(superior mesenter Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -82,9 +87,6 @@ tags:
 - IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 【詳解】(A) 女性較多。(C) 低血鉀現象。(D) 暴食症盛行率(年 輕女性 1~4%) 比厭食症(年輕女性 0.5~1%) 高。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - RTA 主要可分為三大類,分別是遠端型(type I)RTA、近端型(type II)RTA 與 高血鉀型(type IV)RTA。另外,還有一種是 type I、II 的混合型(mixed type),特別 發生在 carbonic anhydrase deficiency 病人上,又稱為 type III RTA。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (2) 遠端腎小管與尿液酸化有關途徑:H+/ATPase、the HCO3-/Cl- anion exchanger 或是 the aldosterone pathway。以上若其中一項出問題,則可能發生第一型腎小管酸中毒。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (4) 倘若 the HCO3/Cl anion exchanger 也跟著出問題,則會有高血氯與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

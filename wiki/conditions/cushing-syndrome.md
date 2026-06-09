@@ -19,6 +19,8 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch19]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Cushing syndrome (庫欣氏症候群)'
   - 'Cushing syndrome'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,15 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch19]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med5-book5-ch09]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- ...狀帶分泌太多會造成高血壓) - (2) 東狀帶 (zona Fasciculata): 分泌葡萄糖皮質素 (Glucocorticoid), 其中主要成分是皮質醇 (cortisol, 一種類固醇)。(記法: 束褲帶。東狀帶分泌太多會造成庫欣氏症) - (3) 網狀帶(zona Reticularis)分泌雄性素(Androgen)。主要有睪固酮(testosterone)、 雙氫睪固酮(DHT, Dihydrotestosterone)。(注意:雄性素是腎上腺皮質分泌最大量的物質)(記法:網路宅男。網狀帶分泌太多會造成男性化) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- #### B. 庫欣式症 (Cushing's syndrome) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- ② 腫瘤也可分泌其他生物因子:分泌腎上腺皮質激素造成 Cushing's syndrome,分泌催乳素造成溢乳,分泌胰島素造成低 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...約 10~42%。 - (2) 其他常見合併症:紅血球再生不良(red blood cell aplasia)、白血球再生不良(pure white blood cell aplasia)、再生不良性貧血(aplastic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - B. Cushing syndrome 234 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - #### B. Cushing syndrome Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -69,10 +77,6 @@ tags:
 - | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...----| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syndrome | (D) Pancoast syndrome | | | | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - ...(obesity)之敘述,「 | | 105(一)專 | | | | 增質量指數 (BMI) 大於等於 30 kg/m² | 醫三-57 | | | | 是女性腰圍大於 80 cm,男性大於 90 | | | | cm(C) 肥胖很常見於 Cushing's sy | ndrome | | | | (D) craniopharyngioma 會引發多 | | | | | | 體質量指數(BMI)≥ 27 kg/m²。 | | | (4) 22 | | | 104(二)專 | | (A) 22. | 下列有關老人尿失禁的描述,(A) 80 歲以上女性最常見的尿 | | 醫三-1 | | | (B) 使用利尿劑類的降血壓藥不 | | | | | (C) 使用安眠鎮靜藥不會增加原 | | | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ...者不是因鉀離子移入細胞內? | 96(二)專 | | | | (A) 代謝性鹼中毒(metabolic alkalosis) | 醫三-12 | | | | (B) 合成代謝階段(anabolic state) | | | | | (C) 庫欣氏症 (Cushing's syndrome) | | | | | (D) 低血鉀週期性無力症(hypokalemic periodic paralysis) | | | | | 【詳解】Cortisol 有部分的 mineralocorticoid activity,庫欣氏症造成 | | | | | cortisol 上升,藉由增加 mineralocorticoid activity 造成低血鉀。 | | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...Hyperplasia, Carcinoma) | | | | | renin | 2. Adrenal enzyme defects (11b or 17a-Hydroxylase deficiency) | | | | | | 3. Cushing's syndrome or disease | | | | | | 4. Other(Licorice, Carbenoxolone, Chewer's tobacco) | | | | Gain-of-function mu | itation o | of renal sodium channel with ECFV expansion, hypertension, | | | | | | nemic-hypoaldosteron Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- B. 庫欣氏症候群 (Cushing's syndrome) 208 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- ...----|----------------|--------------------|---------------------------------| | H-1915 | 中胚層 | G: 11 | Glucocorticoid | Cushing's syn. | Addison's dz.Adrenal crisis | | 及質 (meso | (mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural cr Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 
 ## Clinical Caveats
 
@@ -81,6 +85,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/adrenal-androgen-excess|Adrenal androgen excess (腎上腺雄性素過多)]]
 - [[procedures/adrenalectomy|Adrenalectomy (腎上腺切除術)]]
 - [[diagnostics/dexamethasone-suppression-test|Dexamethasone suppression test (地塞米松抑制試驗)]]
 - [[physiology/hpa-axis|Hypothalamic-pituitary-adrenal axis, HPA axis (下視丘-腦垂體-腎上腺軸)]]

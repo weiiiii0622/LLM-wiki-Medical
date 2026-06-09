@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch09]]"
@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Acyclovir (阿昔洛韋)'
   - 'Acyclovir'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-抗 herpesvirus 核苷類藥物，用於 HSV/VZV 感染。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗 herpesvirus 核苷類藥物，用於 HSV/VZV 感染。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -66,7 +69,6 @@ tags:
 - (B) 2. 9個月大的男嬰高燒 5 天,今天早上開始呈現嗜睡狀態,晚上因全身僵直陣攣性發作(Generalized tonic clonic seizure) 5 分鐘被送來急診。在加護病房做了脊髓穿刺檢查,腦脊髓液報告顯示WBC 10,000/μL (90% PMNs 和 10% Lymphocyte), Protein 380 mg/dL, Glucose 5 mg/dL。下列何者為最可能的致病原? - (A) 單純疱疹病毒第一型 (HSV type 1) - (B) 肺炎鏈球菌(Streptococcus pneumoniae) - (C) 腸病毒 (Enterovirus) - (D) 新型隱球菌 (Cryptococcus neoformans) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (D) 給予藥物 acyclovir Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...ions, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Ente Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

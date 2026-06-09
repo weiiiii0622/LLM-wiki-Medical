@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Hypokalemia (低血鉀)'
   - 'Hypokalemia'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- #### A. 原發性高醛固酮症 (Primary aldosteronism), 又稱高血壓低血鉀症 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 2. 臨床表徵: - (1) 症狀:常見的有高血壓、低血鉀(但僅25%人有)、頭痛、夜尿。 - (2) 實驗室數據: - a. 初步判斷:血鉀≤3 mEq/L。 - b. 精確診斷: 敏感度 90%, 特異性 90%。 - (a) 血中 aldosterone: renin (即 PRA) > 30:1。(醛固酮上昇 +renin 下降)。 - (b) 血中 aldosterone > 15 ng/dL。 - i. 意義:血清(與尿液)呈現醛固酮 (aldosterone) 升高,血漿 ren Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...|------------------------------------------------------------------------------|-------| | 病人,其電解值的變化為何? | -45 | | (A) 低血鉀症鹼中毒 (B) 高血鈉症鹼中毒 | | | (C) 低血鉀症酸中毒 (D) 低血氯症酸中毒 | | | 【詳解】胃液 HCl、K 流失。 | | | (A) 5. 有關嬰兒型幽門肥厚狹窄 (infantile hypertrophic pyloric stenosis), 103(二下列敘述何項錯誤? | | | (A) 均於出生後兩週內發病 (B) 吐出物很少膽汁或無膽汁 | | | (C) 手術治療為切開幽門括約肌(pylorom Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...確? 103(二)專 ① 幽門切開術 (pyloromyotomy) 是手術的方式 醫五-50 ② 此病最可能造成的併發症為中腸扭結(midgut volvulus) ③ 如果有可能診斷此疾病時,則病人需接受較緊急的手術 ④ 容易造成代謝性低血鉀症鹼中毒 (A)(1)(4)(B) 僅②③ (C) 234 (D)(1)(3)(D) 4. 一位 10 天大的男嬰送至醫院,媽媽主訴男嬰自 2 天前不斷叶膽 103(一)專 汁及哭鬧不安,鋇劑上消化攝影(upper GI study)如下圖,最有 醫五-9 可能的診斷是: (A) 十二指腸蹼 (duodenal web) (B) 環狀胰臟 (annual pancreas) (C) 上腸繋膜動脈症候群(superior mesenter Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -70,9 +75,6 @@ tags:
 - (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】增加毛地黃毒性的危險因子如下:low body weight、advanced age、renal impairment、hypokalemia、hypercalcemia、or hypomagnesemia。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (A) 4. 下列何者不是 17- 羥酶缺乏(17-hydroxylase deficiency)所導致先 104(-)專 天性腎上腺增生(congenital adrenal hyperplasia)的臨床表徵? 醫四-21 - (A) 罹患此症之女童會有性別難辨 (ambiguous genitalia) - (B) 高血壓 - (C) 血漿腎素活性(plasma renin activity) 低 - (D) 低血鉀 (hypokalemia) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (4) 倘若 the HCO3/Cl anion exchanger 也跟著出問題,則會有高血氯與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 臨床表現:與第二型腎小管酸中毒相同有生長遲滯、正常陰離子間隙代謝性酸中毒。 此外,病人也會表現嘔吐、脫水、骨頭疾病、腎臟鈣化合併高尿鈣與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

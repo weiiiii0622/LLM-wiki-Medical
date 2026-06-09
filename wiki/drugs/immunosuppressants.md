@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch08]]"
@@ -30,6 +30,8 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Immunosuppressants (免疫抑制劑)'
   - 'Immunosuppressants'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,15 @@ tags:
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- ...):免疫製劑的基礎,從多方面影響免疫系統,減緩淋巴結和骨髓的淋巴細胞反應。副作用包括高血壓、高血脂、高血糖、體重增加、骨質疏鬆、傷口癒合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 生:生毛、生(昇)血壓及生牙齦)。副作用有腎毒性(故術後 4 個月換 mTORi 治療)。Tacrolimus 目前比 Cyclosporine 常用因為效果較好(可減少 steroid劑量)、且臨床 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (a) 腎移植術後的基礎用法: - i. 引導(induction agent):術前,使用化學免疫藥物或抗體。何種受腎者需要建議用抗體引導?曾經有過①懷孕,②輸血,③移植。 - ii. 維持(maintenance therapy):術後,使用小分子化學免疫藥物。最常用的初始用藥組合是 tacrolimus—MMF-steroids。 - iii. 類固醇減量(steroid elimination):手術完後,一週內逐漸減量。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (b) 糖尿病:因為藥物會使胰島素製造不足及週邊組織胰島素抗性增加,例 如 CNI 藥物(而其中 tacrolimus 比 cyclosporine 容易導致術後糖尿病。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (A) 22. 陳女士 50 歲為一乳癌患者經手術行 modified radical mastectomy 後,其 staging 為 T2N1M0,術後建議給予 6 次 5-FU, Adriamycin 及 cyclophosphamide。此種化學藥物治療屬於下列那一種? Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -91,10 +99,6 @@ tags:
 - a. Azathioprine:除了少數人出現噁心、嘔吐、肝功能異常、血球低下之外,副作用不嚴重,但是療效緩慢,可能要等二至三週,故用來做為類固醇的輔助治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - c. Cyclophosphamide:這也是一種免疫抑制劑,原本是用來做為癌症的化學治療之用,後來也常用來做為自體免疫疾病的輔助治療或脈衝治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - d. Mycophenolate mofetil (CellCept):這是近幾年來較受矚目的藥物之一,甚至在美國有些專治免疫水泡疾病的醫學中心,已經把此藥的地位設定在類固醇之後的首選第二線治療藥物。一般服用劑量是每天 2~3 g。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (2) 典型 KS 對於放射治療效果較好;地域性 KS 對化療反應最好;因免疫抑制所引發 KS 者,停藥後常會自癒,也可嘗試換藥,如以 sirolimus 取代 cyclosporin 及 tacrolimus。AIDS 患者接受正統抗病毒治療即有療效,或使用干擾素及介白質治療,也可暫時改善。其他局部療法例如液態氮冷凍療法、雷射、電燒、光動力療法也都可。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (4) 治療:以類固醇為主要治療方式。若效果不佳,可以考慮脈衝治療。有時可以 考慮免疫抑制劑 azathioprine、hydroxycloroquine、cyclosporine 或是 methotrexate 合併治療。若效果不好的話考慮 IVIG。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (B) 13. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時,下列那一項不是其常見的併發症? Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch09]]"
@@ -27,6 +27,8 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch22]]"
+  - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Staphylococcus aureus infection (金黃色葡萄球菌感染)'
   - 'Staphylococcus aureus infection'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,14 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch22]]
+- [[sources/med5-book5-ch06]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- 3. 病菌:大多數 UTI 是單一致病菌造成。並非有進入泌尿道的細菌就會感染,還是有菌種或亞型的差異。 - (1) 非複雜 (uncomplicated:指女性無懷孕且感染後無嚴重併發症)膀胱炎、腎盂腎炎:80% 是 *E. coli* (亞型 O 為主)。其他 20% 為 Klebsiella、Proteus 或 *Enterobacter* spp. 或 Enterococci。 - (2) 住院中得到 UTI:可能的菌種很多,甚至包括 Pseudomonas 或 *Staphylococcus* spp.。若是 *Staphylococcus aureus*,常是從其他處經血液傳播而來。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...-----------|--------------------------------------------|-------------------------------| | Gram-positive cocci | | | | Staphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nit Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- (D) 金黃色葡萄球菌造成的包皮龜頭炎 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 1. 細菌性肝膿瘍:細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumonia),除此之外,大腸桿菌、金黃色葡萄球菌也是常見的致病菌種。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - (C) 最常見的致病菌為 Staphylococcus aureus Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - 1. 哺乳乳腺炎 (Lactational mastitis): - (1) 前言:是一種乳房組織的感染發炎現象, Staphylococcus aureus 為主要的致病菌。 好發於哺乳的婦女,但並非絕對。 - (2) 症狀: - a. 發燒、畏寒。 - b. 乳房的紅、腫、熱、痛。 - c. 乳頭分泌物較不常見。 - d. 腋下水腫與疼痛,與 lymphadenopathy 相關。 - (3) 治療: - a. 抗生素治療 - b. 可增加哺乳或母乳收集的頻率,可達到症狀緩解的效果。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
@@ -86,9 +93,6 @@ tags:
 - 3. 併發症: - (1) 感染: - a. 小於五歲的兒童,常見 Streptococcus pneumoniae。 - b. Salmonella 或是 S. aureus 造成的骨髓炎。 - c. 感染 parvovirus B19 與 aplastic crisis 有關。 - (2) 栓塞: - a. 急性胸腔症候群 (acute chest syndrome): 合併 PE 及感染。 - b. 肺高壓 - c. 周邊血管阻塞造成疼痛 - (3) 神經方面疾病: - a. 中風的機率會增加。 - b. 無症狀性腦梗塞 - c. 視網膜病變 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (C) 金黃色葡萄球菌(Staphylococcus aureus) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 105(一)專 (D) 6. 下列何者不是造成新生兒先天性感染之重要病原體? 醫四 -5 (A) 巨細胞病毒 (B) 梅毒螺旋體 (C) 弓蟲症 (D) 麻疹病毒 (B) 7. 造成早發性(early-onset)新生兒感染的細菌中,最常見的格蘭 105(一)專 醫四 -7 氏陽性菌為: (A) 金黃色葡萄球菌 (B) B 群鏈球菌 (C) 肺炎雙球菌 (D) 大腸桿菌 (D) 8. 下列那一種病原最不常發生母子之間的垂直感染? 101(一)專 醫四-1 (A) Cytomegalovirus (B) Syphilis (C) Rubella (D) Epstein-Barr virus 【詳解】(A)(B)(C) 均為先天性感染中常見的病原體,(D) 反而 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 1. 未規則產檢的媽媽急產,其新生兒因呼吸窘迫住院,細菌室通知 108(二)專 血液培養長革蘭氏陽性球菌,下列何者為最可能造成此新生兒敗 醫四-4 血症的細菌? - (A) Staphylococcus aureus - (B) Streptococcus agalactiae - (C) Escherichia coli - (D) Listeria monocytogenes Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...,給予 amoxicillin 40 mg/kg/day 治療 3 天之後,仍然持續發燒,於是改 用 amoxicillin 90 mg/kg/day,體溫隨即回復正常。下列四種細菌 之中,那一種最符合該男童中耳炎的治療反應? - (A) Staphylococcus aureus - (B) Streptococcus pneumoniae - (C) Haemophilus influenzae - (D) Moraxella catarrhalis - 【詳解】(A) 不是急性中耳炎常見的病原體故不選。(D) 因為對 amoxicillin 有 100% 的抗藥性也因此不選。Nelson's Textbook of Pediatrics 20th Edition 中提到 *H. influenza* 雖然抗 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 2. 慢性鼻竇炎可能有 Staphylococcus aureus 感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

@@ -6,6 +6,8 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book4-ch14]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book5-ch02]]"
 aliases:
   - 'Cryptorchidism / undescended testis (隱睪症)'
   - 'Cryptorchidism / undescended testis'
@@ -20,15 +22,21 @@ tags:
 
 ## Summary
 
-睪丸未下降至陰囊，與不孕、睪丸癌與扭轉風險相關，需適時轉介與 orchiopexy。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+睪丸未下降至陰囊，與不孕、睪丸癌與扭轉風險相關，需適時轉介與 orchiopexy。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book4-ch14]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch03]]
+- [[sources/med5-book5-ch02]]
 
 ## Key Details From Sources
 
+- (1) 隱睪症 (cryptorchidism) - a. 流行病學:隱睪症的發生率在出生時約為 4%,其中大部分的患者會自行回 到陰囊,在一歲時仍有隱睪症的機率約為 1.5%。 - b. 危險因子:早產兒(尤其在 30 週前出生可能有高達 40% 的發生率)、出生時體重過低、雙胞胎、有家族史。 - c. 位置:隱睪症的睪丸位置有 abdominal、inguinal、prepubic(佔最多)。 - d. 治療:手術。 - (a) 依照位置:分為兩種。 - i. 若睪丸在 inguinal, 在 6~18 個月大時做睪丸固定術 (orchipexy)。 - ii. 若睪丸在腹腔內,可能須兩階段手術,先將睪丸自腹腔內向陰囊處分離,數月後再將睪丸固定於陰囊內。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- ii. 10 歲以上的隱睪症不做睪丸固定術,而做睪丸切除術。因為易形成睪丸癌(400 倍,以精細胞癌 seminoma 最多)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- e. 補充:異位睪丸(ectopy)與隱睪症的差異在於,隱睪症的睪丸位於睪丸下降路徑上,而異位睪丸的睪丸位於睪丸下降路徑之外。異位睪丸的位置有 superficial inguinal(佔最多)、perineal、penile、femoral、pelvic等。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- (A) 19. 下列有關尿道下裂之敘述,何者錯誤? 103(一)專 (A) 尿道開口近膀胱端者比近尿道口者容易矯正 醫五-71 (B) 手術矯正前給予雄性荷爾蒙製劑,可能有助於手術的進行 (C) 在青春期前短暫給予睪固酮不會影響未來陰莖的發育 (D) 7~9% 會合併隱睪症, 9~16% 會合併腹股溝疝氣或陰囊積水 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - A. 隱睪症 (Cryptorchidism, undescended testis, UDT) 186 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
 - ### A. 隱睪症 (Cryptorchidism, undescended testis, UDT) Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
 - 2. Niedzielski JK, Oszukowska E, Słowikowska-Hilczer J. Undescended testis current trends and guidelines: A review of the literature. *Arch Med Sci* 2016;12(3):667-77. Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
@@ -43,6 +51,7 @@ tags:
 
 - [[conditions/hydrocele|Hydrocele (陰囊水腫)]]
 - [[conditions/hypospadias|Hypospadias (尿道下裂)]]
+- [[conditions/male-infertility|Male infertility (男性不孕症)]]
 - [[procedures/orchiopexy|Orchiopexy (睪丸固定術)]]
 - [[conditions/prune-belly-syndrome|Prune-belly syndrome (皺梅腹症候群)]]
 - [[conditions/retractile-testis|Retractile testis (可縮回睪丸)]]

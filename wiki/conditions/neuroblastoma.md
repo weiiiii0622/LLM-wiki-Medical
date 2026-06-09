@@ -16,6 +16,8 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Neuroblastoma (神經母細胞瘤)'
   - 'Neuroblastoma'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,15 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book5-ch09]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- Ⅲ. 髓質疾病 167 - A. 嗜鉻細胞瘤 (Pheochromocytoma) 167 - B. 神經母細胞瘤 (Neuroblastoma) 168 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- ...in)升高時,此腫瘤可能含有那種惡性成分? 醫五-49 (A) 卵黃囊瘤 (yolk sac tumor) (B) 肝細胞癌 (hepatocellular carcinoma) (C) 消化道腺癌(adenocarcinoma) (D) 神經母細胞瘤 (neuroblastoma) 【詳解】最常見的兒童睾丸腫瘤是畸胎瘤和卵黃囊腫瘤 (Teratoma and yolk sac tumors), 其中卵黃囊腫瘤(yolk sac tumors) 會分泌 α- 胎蛋白 (α-Fetoprotein, AFP)。 (B) 10. 有關急性細菌性副睪丸炎之敘述,下列何者錯誤? 105(一)專 (A) 如果細菌培養結果顯示與性傳染病有關,最好其性伴侶也要 醫五-69 - 治療,以免重複感染( Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 2. 孩童:以交感神經節細胞腫瘤為主,如:節神經瘤(gangliomas)、節神經母細胞瘤(ganglioneuroblastomas)、神經母細胞瘤(neuroblastomas)。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 5. 神經母細胞瘤 (neuroblastoma): - (1) 最常見的惡性腫瘤,源自交感神經節,最好發位置為後腹腔(retroperitoneum), 高度侵犯性腫瘤,通常發現時已轉移。 - (2) 75% 發生於 4 歲以下孩童。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (B) 2. 下列有關後縱隔腔腫瘤(posterior mediastinal tumor)之敘述 , 102(ニ)専 何者錯誤? - (A) 最常見的為 schwannoma - (B) 成年人惡性比例比小孩高 - (C) 最常見的惡性腫瘤為 neuroblastoma - (D) 良性腫瘤治療以手術為主 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
@@ -63,10 +71,6 @@ tags:
 - G. 神經胚母細胞瘤 (Neuroblastoma) 209 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...:室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor)。 - (5) 神經節神經膠瘤 (ganglioglioma)/神經節細胞瘤 (gangliocytoma)/神經胚母細胞瘤 (neuroblastoma):神經元。 - (6) 松果體細胞瘤 (pinealocytoma): 松果體細胞 (pineal cell)。 - (7) 胚胎細胞瘤 (embryonal tumor): 髓母細胞瘤 (medulloblastoma)、神經外胚層母細胞瘤 (primitive neuroectodermal tumor, PNET)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ## G. 神經胚母細胞瘤 (Neuroblastoma) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- 隨著研究進展,目前思覺失調症產生的理論認為疾病的產生並非單一神經傳導物質 dopamine 的失衡,腦中其他神經傳導物質如 norepinephrine、serotonin、GABA、 glutamate、neuropeptide 的失去平衡也可能有關。研究也顯示,血液中香草酸 (homovanillic acid, catecholamine 的代謝物) 濃度越高,精神症狀越嚴重,對於抗精神病藥物的反應也越好。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- 安非他命主要是促進神經分泌 catecholamine 類神經傳導物質,特別是 norepinephrine 與 dopamine $\circ$ Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- VI. 神經母細胞瘤 (Neuroblastoma, NB) 385 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 
 ## Clinical Caveats
 

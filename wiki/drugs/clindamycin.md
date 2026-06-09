@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch10]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med5-book1-ch05]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Clindamycin (克林黴素)'
   - 'Clindamycin'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med5-book1-ch05]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- ...oplasmas, ureaplasmas | Tetracycline, erythromycin | Tetracycline, erythromycin | | Obligate anaerobes | Metronidazole, clindamycin | Metronidazole, clindamycin | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...糖類, 產生大量氣體造成氣腫,影響血液循環造成壞死 (gas gangrene)。 - b. Clostridium difficile:偽膜性大腸炎(Pseudomembranous colitis)的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...cile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - 100(一)專醫五-11 | | (D) 22. 承上題,此時會選擇何種藥物治療? (A) 注射 clindamycin | 100(一)專醫五-12 | Source: [[sources/med5-book1-ch05|戊、外科感染]].

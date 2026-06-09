@@ -27,6 +27,11 @@ sources:
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch07]]"
 aliases:
   - 'Shock (休克)'
   - 'Shock'
@@ -41,7 +46,7 @@ tags:
 
 ## Summary
 
-循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +73,23 @@ tags:
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med5-book5-ch04]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch09]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch07]]
 
 ## Key Details From Sources
 
+- i. $\alpha_1$ -blockers 對三個亞型的平滑肌都放鬆的作用,故會造成: - (i) 逆行性射精 (retrograde ejaculation,膀胱底及攝護腺有 α1A):5%。 - (ii) 疲勞感及姿勢性低血壓 (orthostatic hypotension,全身血管有 αIB):5%。 - (iii)造成頭暈、鼻炎或頭痛(鼻道有 αID):10%。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (B) 出血性休克(hemorrhagic shock) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...oxazosin、tamsulosin及 alfuzosin等 (C) 有時 anticholinergics 會造成排尿更困難,因為它會造成膀胱逼尿肌收縮力變較差 (D) α-adrenergic blockers 常見到的副作用為姿態性低血壓及腹瀉【詳解】一律給分。 | 104(一)專醫五-69 | |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...石:用膀胱鏡,加上氣動、雷射、電等方式打碎石頭。若術中石頭太硬或太大,考慮改傳統開腹取石。另外由於膀胱結石並非固定在同一位置上,故不會使用 ESWL 打。 - (3) 碎石處置細節: - a. 體外震波碎石 (extracorporeal shock wave lithotripsy, ESWL): - (a) 術前評估:下列情況為 ESWL 禁忌。 - i. 懷孕。 - ii. 有大的腹主動脈瘤。 - iii. 無法矯正的出血傾向。 - iv. 泌尿系統完全阻塞引發重度腎水腫。(注意輕度、中度水腫仍可以打 且常見) Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (D) 利用體外震波碎石術(extracorporeal shock wave lithotripsy) 處理可得很好之結果 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- 2. 臨床表現:就是交感神經過度興奮(兒茶酚胺 (catecholamine) 過量)的症狀。 - (1) 症狀:常見的有平常高血壓但小便後低血壓、頭痛且易出汗、心跳快且心悸、 腸胃蠕動慢且體重下降、易焦慮且神經質。 - (2) 實驗室數據: - a. 初步判斷: 24 小時尿中 VMA 上昇 (VMA > 10 mg, VMA = Vanillylmandelic acid, 為 catecholamines 代謝產物)。 - b. 精確診斷: - (a) 24 小時尿中 catecholamine 上昇(Dopamin > 550 mg、norepineprine > 100 mg) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- ...β-blocker,因 為 β-blocker 會削弱 α-blockers 作用。 - b. Metyrosine: 一種 catecholamine 的抑制劑。 - c. 足夠輸液與鹽水:避免術前使用 α-blockers 血管擴張反而低血壓,同時可以 預防術後因為腫瘤移除一下子發生低血壓。 - (2) 手術切除: 術中血壓以 nitroprusside 控制。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- ...功能、排尿量。 - a. 腎血流的處理(hemodynamic management):維持中心靜脈壓(central venous pressures)在 10~15 cm water;掃都卜勒超音波看腎動脈灌流阻力(RI)是否正常。避免低血壓或脫水、同時也要避體液過多或肺水腫,這些都會造成腎臟灌流不足。 - b. 移植腎功能延遲回復(delayed recovery of graft function, DGF): - (a) 定義:在移植後第一週肌酸酐(creatinine)不降反升,需要洗腎。 - (b) 成因:最常見的是急性腎小管壞死(acute tubular necrosis, ATN),大多經數週的治療可回復,但有2%腎永久無功能。若是合併寡尿(尿 1 cc/k Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...reflex),可增加禁尿的功能 | 傳 | | (B) | 3. 有關自主神經反射異常(autonomic dysreflexia, AD)的敘述,列何者錯誤? (A) 經常發生於脊髓損傷部位高於 T6~T8 以上的病人 (B) 病人會有低血壓 (C) 病人會有頭痛及患部以上潮紅 (D) 男性病人常併有尿道平滑肌共濟失調(dyssynergia) | 下 108(一)專醫五-69 | | (D) | 4. 有關兒童尿床(nocturnal enuresis)的敘述,下列何者錯誤? (A) 續發性尿床(secondary enuresis)的小孩應考慮有無尿路原的可能 (B) 夜間多尿症(nocturnal polyuria)也是可能的原因之一 (C) 可以使用血管增壓素(va Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - (D) 6. 47 歲男性,右胸部遭槍擊造成血胸合併休克,胸管引流出 600 mL 血液後,血壓恢復為 122/84 mmHg,脈搏 96 次 / 分,5 分鐘後血 壓下為 84/62 mmHg,脈搏 126 次 / 分,下列何者為最優先的處 理步驟? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 3. 分類:: - (1) 小範圍氣胸:單肺容量減少 1/3。 - (2) 大範圍氣胸:單肺全塌,未合併縱隔偏移或低血壓。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 4. 張力性氣胸 (Tension pneumothorax): - (1) 機轉 & 成因:單肺全塌、氣管偏移和縱隔偏移導致回心血減少、低血壓和呼吸 困難。常發生在使用正壓呼吸支持的肺實質損傷患者。 - (2) 臨床表現:呼吸變快、呼吸困難、低血壓、冒冷汗(diaphoresis)、頸靜脈擴張。 - (3) 診斷:以臨床表現判斷。不必以胸部 X 光確認診斷以免延誤治療造成心肺循環 失能。 - (4) 治療:初期以大號針頭插入第2肋間和鎖骨中線交界處,後續進行胸廓造口術 (tube thoracostomy),而擴張的肺和肋膜會密封肺缺口。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
@@ -80,15 +99,6 @@ tags:
 - 【詳解】Peritonitis 為急症,可能會有 malignant hypercapnia 和 toxic shock syndrome,要以 open 的方式介入。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - 2. 在臨床上,急性非結石性膽囊炎發生原因主要與膽囊缺血、膽汁淤積相關。 - (1) 膽囊缺血:大面積燒傷、多重外傷、重度感染、重大手術術後、急性心肌梗塞 患者等疾病,這些患者都容易低血壓、休克或心衰竭,導致膽囊壁的供血不足。 - (2) 膽汁淤積:患者因感染體溫上升或脫水,使得膽汁黏稠度增高,淤積於膽囊,造成膽囊發炎。一旦膽囊持續因缺血而缺氧,很容易造成 gangrene 的變化,甚至造成膽囊的 perforation 而致死。因此急性非結石性膽囊炎可做為判定多重器官衰竭預後不佳的早期徵兆。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
 - ...15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 【詳解】傾食症候群(Dumping syndrome)會出現腸胃道症狀 與心血管症狀如頭痛、心悸、潮紅、低血壓等等。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 4. Reccurent bleeding 導致休克。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (B) 若病人合併休克及多重器官衰 竭,要趕快開刀做源頭控制 (source control) Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- 【詳解】急性胰臟炎的病人需要早期開刀的適應症為:胰臟壞死合併感染,但如果因胰臟嚴重壞死導致細菌性休克,死亡率達65%,原則上通常會等到生命徵象較穩定之後再進行手術治療。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- (2) Cardiogenic shock Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (1) 廣義來說,只要任何需要「暫時性」心臟及肺臟支持的病人皆為可能的適用對象,例如心衰竭(心臟手術後的心因性休克、急性心肌炎、急性心肌梗塞),可 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 1. Absolute indications: - (1) 因 heart failure 所導致的 hemodynamic compromise。 - a. Refractory cardiogenic shock • - b. 需要持續倚賴給予 IV inotropic agent 才能達到足夠的 organ perfusion。 - c. Peak $VO_2 2 11~14 mL/kg/min 且對日常活動造成限制。 - (2) 反覆性 unstable angina 且無法靠其他方法有效控制。 - (3) 病患在常規治療下仍舊體液不平衡或腎功能不穩定。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
-- ...---------------------| | Ischemic | Angina, reinfarction, infarct extension | | Mechanical | Heart failure, cardiogenic shock, mitral valve dysfunction, aneurysms, cardiac rupture | | Arrhythmic | Atrial or ventricular arrhythmias, sinus or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral embolization | | In Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 
 ## Clinical Caveats
 

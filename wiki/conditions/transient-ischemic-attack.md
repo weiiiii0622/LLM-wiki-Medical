@@ -2,9 +2,10 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch05]]"
+  - "[[sources/med5-book5-ch03]]"
 aliases:
   - 'Transient ischemic attack, TIA (暫時性腦缺血發作)'
   - 'Transient ischemic attack, TIA'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-短暫局部神經缺損且無急性 infarction，提示後續 stroke 風險。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短暫局部神經缺損且無急性 infarction，提示後續 stroke 風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch05]]
+- [[sources/med5-book5-ch03]]
 
 ## Key Details From Sources
 
+- ...1 | N2 | N3 | |-----|--------------|-----------|------------|------------| | Tis | Stage 0 | | | | | T1 | Stage IA | C4 TIA | C. IID | C. HO | | T2 | | Stage IIA | Stage IIB | Stage IIC | | Т3 | Stage IB | (S0/1) | (S0/1) | (S0/1) | | T4 | | | | | | | S0 | S1 | S2 | S3 | | M1 | Cto co III A | | C4 IIID | | | Mla | -Stage IIIA | | Stage IIIB Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - | 分類 | 病程 | 意義 | |---------------------------------|------------------|---------------| | 暫時性腦缺血 | 定義為24小時內恢復,且無 | 中風的警訊, | | (Transient ischemic attack=TIA) | 任何後遺症 | 需積極 Survey、預防 | | 完成性腦中風 | 頸動脈於24小時後,基底動 | 給抗凝劑反而易出血 | | (Complete stroke) | 脈於 72 小時後病況穩定 | 宜保守治療 | | 進行性腦中風 | 頸動脈於 24 小時後,基底動脈 | 考慮使用 Heparin | | (Stroke in evolution) | 於 72 小時後病況仍持續進展 | | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - \*Today's stroke is yesterday's TIA: TIA 背後可能其實已經中風,有 40% 去做 DWI 都已經有亮點,所以建議 TIA 病患接受較積極的檢查,應留觀 24 小時、並 hydration;相較於大片的 complete stroke 只能復健,神經內科能為 TIA 做的東西更多,找出其確切病因(大血管?心源性?小血管?),予以個別性的治療。所以,以前的分法較不實際,建議依照臨床狀況、brain MRI等,找出 Stroke 病因,予以個別治療。以下將介紹如何分類、治療。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 

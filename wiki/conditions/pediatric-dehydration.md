@@ -20,6 +20,8 @@ sources:
   - "[[sources/med5-book3-ch14]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Pediatric dehydration (兒童脫水)'
   - 'Pediatric dehydration'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,13 @@ tags:
 - [[sources/med5-book3-ch14]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- ...尿量。 - a. 腎血流的處理(hemodynamic management):維持中心靜脈壓(central venous pressures)在 10~15 cm water;掃都卜勒超音波看腎動脈灌流阻力(RI)是否正常。避免低血壓或脫水、同時也要避體液過多或肺水腫,這些都會造成腎臟灌流不足。 - b. 移植腎功能延遲回復(delayed recovery of graft function, DGF): - (a) 定義:在移植後第一週肌酸酐(creatinine)不降反升,需要洗腎。 - (b) 成因:最常見的是急性腎小管壞死(acute tubular necrosis, ATN),大多經數週的治療可回復,但有2%腎永久無功能。若是合併寡尿(尿 1 cc/kg/h Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- b. 尿酸(uric acid)結石:占結石 5%,好發於男性,特別是有痛風病史、骨髓增生症(myeloproliferative diseases)、快速減重、用 cytotoxic 藥物治療惡性腫瘤的人。常因脫水或攝取高 purine 食物,導致尿中尿酸增加(故尿 pH 0.5 cm 僅 15% 排出率。(因為輸尿管 徑 $0.3\sim0.5$ cm) - (2) 結石位置: 結石在輸尿管下段 50%、中段 25%、上段 10% 排出率。(因為輸尿管長 25 cm) - (3) 併用藥物:NSAID (標準一線)、alpha-blocker (增加 45% 排出率,小心血壓,可用 Urief 或 Harnalidge)。另外使用副交感拮抗劑 (antimuscarinics) 也可緩解症狀加速結石排出。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 4. 臨床表現:好發於 2~8 週之間,吐後仍想吃(hungry vomiter),非膽汁性噴射式劇烈嘔吐(non-bilious projectile vigorous emesis),嘔吐物帶咖啡色絲或血絲,可能看到左上腹到上腹有胃蠕動,嘔吐導致胃酸流失而造成低氯性代謝性鹼中毒(hypochloremic metabolic alkalosis)會合併血鉀降低和代償性呼吸酸中毒(respiratory acidosis),甚至脫水。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 【詳解】肥厚性幽門狹窄通常都已經吐一段時間了,所以在手術前需要先 correct dehydration 和 metabolic alkalosis,等矯正完再進行手術。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (A)病人可能有缺水(dehydration)狀況,需 給予輸液補充(fluid resuscitation)及監測 尿量 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
@@ -73,8 +79,6 @@ tags:
 - 1. Mild dehydration (1.5 sec); cool and pale Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 3. Severe dehydration (>10% in an infant; >6% in an older child or adult): Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) 輕度或中度脫水病人若沒有嘔吐情形,可以先給予口服液體補充,一開始給予 $50\sim100 \text{ mL/kg over } 3\sim4\text{hr}$ 。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 臨床表現:與第二型腎小管酸中毒相同有生長遲滯、正常陰離子間隙代謝性酸中毒。 此外,病人也會表現嘔吐、脫水、骨頭疾病、腎臟鈣化合併高尿鈣與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (1) 與 type I、II RTA 類似有生長遲滯的情形。多尿與脫水(鈉離子排出增加,水分 子跟著鈉離子走)也是常見的臨床表現。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 
@@ -85,6 +89,7 @@ tags:
 
 - [[conditions/diarrhea|Diarrhea (腹瀉)]]
 - [[conditions/infectious-gastroenteritis|Infectious gastroenteritis (感染性腸胃炎)]]
+- [[conditions/nocturnal-enuresis|Nocturnal enuresis (夜尿／尿床)]]
 
 ## Follow-up
 

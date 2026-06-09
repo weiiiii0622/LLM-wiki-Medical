@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch08]]"
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Polycystic kidney disease (多囊性腎病)'
   - 'Polycystic kidney disease'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-遺傳性腎囊腫疾病，可造成高血壓、血尿、腎功能下降與腎外表現。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遺傳性腎囊腫疾病，可造成高血壓、血尿、腎功能下降與腎外表現。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book3-ch04]]
 - [[sources/med3-book3-ch06]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- ...ii. 頑固性高血壓:吃了多種血壓藥仍不易控制。(最常見的原因) - iii. 持續血尿。 - iv. 有導致持續感染的因子:慢性腎水腫、高程度尿逆流、結石、囊腫。 - v. 存在潛在腫瘤病變風險:變大的腫塊。 - vi. 會引起壓迫症狀:多囊性腎病變。 - b. 下泌尿道:需考量原有膀胱情況。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (D) 10. 有關成人型多囊腎(adult polycystic kidney)的敘述,下列何者 106 (二)專 錯誤? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 【詳解】多囊性腎病是一種遺傳性疾病,其中腎小管結構異常, 導致腎內多發性囊腫的發展和生長。這些囊腫可能在子宮內, 嬰兒期,兒童期或成年期開始發展。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 3. Polycystic kidney disease Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (A) Adult polycystic kidney disease Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (B) Infantile polycystic kidney disease Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

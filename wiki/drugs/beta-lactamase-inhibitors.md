@@ -2,13 +2,14 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch11]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch10]]"
   - "[[sources/med3-book3-ch12]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Beta-lactamase inhibitors (β-lactamase 抑制劑)'
   - 'Beta-lactamase inhibitors'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-與 beta-lactam 合併以抑制 beta-lactamase，擴大對產酶菌效果。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 beta-lactam 合併以抑制 beta-lactamase，擴大對產酶菌效果。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med3-book3-ch10]]
 - [[sources/med3-book3-ch12]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- BLI, beta-lactamase inhibitor; TMP-SMX, trimethoprim plus sulfamethoxazole. Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- ...icillin®) 可治療 Enterococci、 Staphylococci、E. coli 和 Proteus mirabilis, 價格便宜。 - b. 缺點:近年來抗藥性增加,故現在 aminopenicillins 多需要加上 beta-lactamase inhibitors 才能對付 UTI, 這讓價格不再便宜。另外 penicillin 第一代對多數 UTI 無效。 - c. 機轉:抑制細菌細胞壁合成。 - d. 禁忌:過敏史(孕婦可用)。 - e. 特殊副作用:特別注意過敏反應(要做 skin test);肝腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...on 中提到 *H. influenza* 雖然抗藥性不比 *S. pneumoniae*,但是使用高劑量 amoxicillin 無法治療 *H. influenza* 引起的中耳炎,必須加入β-lactamase inhibitor (clavulanate) 才可治療。而 *S. pneumonia* 雖然抗藥性有 50%(抗藥性的原因與 penicillin-binding protein 改變有關),但仍可用高劑量 amoxicillin 去治療中耳炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 2. 若使用 Amoxicillin 後病情沒有改善、有併發症、病患最近 30 日內有使用 Amoxicillin,則考慮使用 Amoxicillin/Clavulanate 或是第二代 Cephalosporin。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...斷 | 超音波、C | Γ | 超音波、CT、IHA > 1:32 | | 治療 | 抗生素+引 | 流 | Metronodazole 即可, | | | Metronidazole+Ceftriaxone orPiperacillin-tazobactam or | | 不需引流→ | | | | | 否則阿米巴會由引流管蔓延開 | | | Ampicillin-sulbactam | | | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].

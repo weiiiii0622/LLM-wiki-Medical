@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Folate deficiency (葉酸缺乏)'
   - 'Folate deficiency'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (2) 高碳酸血症(Hypercapnia):不適當的通氣(inadequate ventilation),如肺塌陷、或腦傷造成意識改變或外來毒物(drugs、alcohol)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - ...n,達到治療的效果,成功率約 85%。 - (c) Colonscopy:用來治療勝過診斷,適合較慢速的出血。可用 vasoconstrictive agents (epinephrine)、vasodestructive agents (alcohol、morrhuate、sodium tetradecyl sulfate)或是 thermal therapy (laser、electro、heater coagulation)達到止血效果。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - ...---------------------------------------------------------------------------| | Neonates ( 35 years) | CVA, Brain tumor, Alcohol withdrawal Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -68,7 +71,6 @@ tags:
 - 4. Vit B deficiency 和 Folic acid deficiency 的比較: Source: [[sources/med4-book1-ch08|辛、血液學]].
 - | | Vit B deficiency | Folic acid deficiency | |----------------------|---------------------|-----------------------| | 原因 | (1) 惡性貧血 | (1) 懷孕期間葉酸補充 | | | (2) Crohn's disease | (2) 使用 MTX | | | | (3)慢性溶血 | | | | (4) 酒精 | | Megaloblastic anemia | 是 | 是 | | 神經學症狀 | 舌炎、震動覺跟姿勢覺下降 | 無 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (A) 胎兒酒精症候群 (fetal alcohol syndrome) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (4) Vitamin B12 缺乏:較葉酸缺乏常見, - a. 最常見的是因病人有自體抗體攻擊 Intrinsic factor 或 parietal cell,這稱作惡性貧血(Pernicious anemia);或因為病人的胃、迴腸(Ileum)開過刀;B 12 僅存在肉中,所以素食者也可能缺乏。 - b. Vit. B12 參予的反應包含接收甲基、給甲基, 後者與髓鞘合成有關,若 B12 缺乏,可能造 成周邊神經病變。 Source: [[sources/med3-book4-ch10|甲、貧血]].
 
 ## Clinical Caveats
 

@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book5-ch09]]"
 aliases:
   - 'Malignant spinal cord compression (惡性脊髓壓迫)'
   - 'Malignant spinal cord compression'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med5-book5-ch09]]
 
 ## Key Details From Sources
 
+- 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...ty tissue - (4) Stage III: Invades adjacent organs (great vessels, pericardium, or lung) - (5) Stage IVa: Intrathoracic metastasis (pleural or pericardial dissemination) - (6) Stage IVb: Extrathoracic metastasis (uncommon) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...a | | N category | | | NX | Regional lymph nodes cannot be assessed | | N0 | No regional lymph node metastases | | N1 | Metastasis in 1~2 regional lymph nodes | | N2 | Metastasis in 3~6 regional lymph nodes | | N3 | Metastasis in 7 regional lymph nodes | Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (C) Occult breast cancer 的定義為有 lymph node 的 metastasisc 或 distant 的 metastasis,但沒有臨床上或影像上乳房腫瘤的證據。 對於此種 occult breast cancer,MRI 算是相當有效的檢查。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -82,7 +85,6 @@ tags:
 - (B) 6. 大多數的癌症會經由淋巴管轉移(lymphatic metastasis),因此淋巴結廓清手術是惡性腫瘤手術的重要步驟。下列何種惡性腫瘤因很少有淋巴結轉移(25 \times 60 + 40 \times 18 = 2,220 \text{ kcal}$ 。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (C) Metastasis with peripheral brain tissue edema Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (C) 轉移 (metastasis) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- 【詳解】(C) metastasis 會有 ring enhancement and perifocal edema。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

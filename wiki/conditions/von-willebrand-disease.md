@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book5-ch04]]"
 aliases:
   - 'Von Willebrand disease, vWD (類血友病)'
   - 'Von Willebrand disease, vWD'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-vWF 缺乏或功能異常造成 platelet adhesion 缺陷與 factor VIII 穩定性下降。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+vWF 缺乏或功能異常造成 platelet adhesion 缺陷與 factor VIII 穩定性下降。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ vWF 缺乏或功能異常造成 platelet adhesion 缺陷與 factor VIII 穩定�
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book5-ch04]]
 
 ## Key Details From Sources
 
+- ii. 人工合成之抗利尿激素(DDAVP):可治療夜尿。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 1. 初級凝血:血管受損後,血小板、VWF,會在局部密密麻麻的形成血小板栓子。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 3. 新生兒的止血: - (1) 剛初生時, Vit K dependent factor (factor 2, 7, 9, 10) 和 protein C, protein S 只有成人的 50%。 - (2) 剛初生時, VWF 的濃度會升高。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - #### B. von Willebrand disease Source: [[sources/med4-book1-ch08|辛、血液學]].

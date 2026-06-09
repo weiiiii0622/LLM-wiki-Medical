@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book5-ch05]]"
 aliases:
   - 'Lethal triad of trauma (創傷致命三角)'
   - 'Lethal triad of trauma'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,13 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med5-book5-ch05]]
 
 ## Key Details From Sources
 
+- ...結石等。(沒有碳酸鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricos Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (A) 11. 下列何者腎小管酸中毒症(renal tubular acidosis)會併發腎結石? 105(-)專 (A) Type I (B) Type II (C) Type III (D) Type IV Source: [[sources/med5-book5-ch05|戊、結 石]].
+- 【詳解】腎小管酸中毒(Renal tubular acidosis)1型(Type1, 遠端小管 RTA)的特徵有 4 個:磷酸鈣結石(calcium phosphate stone)形成,高鈣尿症,低檸檬酸尿症和尿 pH 值升高。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 4. 臨床表現:好發於 2~8 週之間,吐後仍想吃(hungry vomiter),非膽汁性噴射式劇烈嘔吐(non-bilious projectile vigorous emesis),嘔吐物帶咖啡色絲或血絲,可能看到左上腹到上腹有胃蠕動,嘔吐導致胃酸流失而造成低氯性代謝性鹼中毒(hypochloremic metabolic alkalosis)會合併血鉀降低和代償性呼吸酸中毒(respiratory acidosis),甚至脫水。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (2) 相對適應症:明顯臨床生理機能失常、腹壁蜂窩性組織炎(abdominal wall cellulitis)、酸血症惡化(worsening acidosis)、白血球或血小板掉、腹部腫塊、持續固定的小腸扭結環。須衡量手術好處和早產兒免疫力較差接受手術所需負擔之風險。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...手術適應症? | | 102(一)專 | | | | (A) intraperitoneal free air | | 醫五 -49 | | | | (B) pneumatosis intestinalis | | | | | | (C) acidosis (pH $a 200 | | | 呈現鼓音(tympanic)。下列何者你覺得對診斷最沒有幫忙? | | | | (A) 指診檢查肛門的鬆緊 (B) 問胎便排出時間 | | | | (C) 安排下消化道攝影 (D) 大便細菌培養 | | | | 【詳解】滿月男嬰、經常腹脹便秘(三天排便一次),進食尚 | | | | 正常。 | | | | TT- 114 | | Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -64,8 +69,6 @@ tags:
 - ...> 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在前 6 小時內達到以下目標。 - a. CVP 維持在 $8\sim12~\text{mmHg}$ : 給予晶體或膠體溶液(目前多建議晶體溶液),每 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (B) 酸中毒 (metabolic acidosis) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...+ Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabetic ketoacidosis, Propylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (D) 手術前矯正凝血功能障礙(coagulopathy)並不會降低手術 後血腫的發生機率 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (C) 低溫 (hypothermia) 治療 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
 
 ## Clinical Caveats
 

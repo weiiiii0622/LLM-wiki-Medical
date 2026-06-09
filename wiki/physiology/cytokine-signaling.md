@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
 aliases:
   - 'Cytokine signaling (細胞激素訊號)'
   - 'Cytokine signaling'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book5-ch01]]
 
 ## Key Details From Sources
 
+- (D) 1. 腎臟癌發生 Stauffer syndrome 之原因可能來自產生過多之何種 109(二)專 因子? 醫五-67 - (A) tumor necrosis factor (TNF) - (B) interferon (INF) - (C) epidermal growth factor (EGF) - (D) granulocyte-macrophage colony stimulating factor (GMCSF) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 3. 危險因子:早產(最重要)、缺血、菌血、細胞激素(cytokines)和經口餵食、使用外源表面張力素、使用呼吸機。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - Inflammation phase (發炎期):一受傷即同時開始發炎期,微血管通透性增加,白血球被 complement、TGF-β、IL-1、IgG、PDGF等吸引過來(趨化 chemotaxis)進行吞噬作用 (phagocytosis)。先以 neutrophil 為主,接著以 monocytes (受傷後第24至第48小時)和 macrophage (第48至第72小時)主導,lymphocyte 較晚點(第72小時以後)參與作用,此時期以 neutrophil、monocyte和 macrophage 為主要細胞。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
@@ -80,7 +83,6 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - (2)晚期反應:在接觸過敏原後幾小時內發生,嗜伊紅性白血球及中性球浸潤,接著是嗜鹼性白血球,肥大細胞,單核球,及 Th2 細胞浸潤。活化的肥大細胞分泌 TNF-α,使血管內皮表現出 cell adhesion molecules,使發炎細胞可以穿過血管內皮移動出去。另外發炎局部也產生許多 chemokines,吸引更多發炎細胞到達。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 2. 病因:絕大部份為免疫複合體沉積在腎絲球上後,引發後續的免疫反應造成(eg. complement activation、leukocyte recruitment、release of growth factor or cytokines)。 後續引發不同的免疫反應造就不同的疾病的病生理機轉。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...| 5 | Med-large joints = elbows, shoulders, hips,knees, ankles. | | Serology | RF & ACPA | 0 | Low- ⊕ serology ceptor,與 Cytokine 結合,抑制其作用,如 Etanercept - b. -mab:此藥物為單株抗體(Monoclonal Ab),與 Cytokine 結合,抑制其作用; - (a) -ximab:為 Chimeric 單株抗體,含 25% Mouse protein,如 Rituximab - (b) -zumab: 為 Humanized 單株抗體,含 5~10% Mouse protein,如 Tocilizumab - (c) -umab:為 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 

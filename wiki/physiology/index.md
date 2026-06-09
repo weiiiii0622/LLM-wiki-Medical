@@ -33,6 +33,8 @@ Normal function and pathways.
 - [[physiology/insulin-resistance|Insulin resistance (胰島素阻抗)]] - 胰島素作用下降連結第 2 型糖尿病、代謝症候群、脂肪肝與心血管風險。
 - [[physiology/iron-metabolism|Iron metabolism (鐵代謝)]] - 鐵吸收、運輸、儲存與發炎調控決定紅血球生成與 anemia pattern。
 - [[physiology/lower-esophageal-sphincter-pressure|Lower esophageal sphincter pressure (下食道括約肌壓力)]] - LES 壓力與短暫放鬆決定 GERD 風險，受荷爾蒙、神經、藥物與食物影響。
+- [[physiology/lower-urinary-tract-function|Lower urinary tract function (下泌尿道儲尿與排尿功能)]] - 膀胱、尿道括約肌、交感/副交感/體神經與橋腦排尿中樞協調儲尿與排尿。
+- [[physiology/male-reproductive-endocrine-axis|Male reproductive endocrine axis (男性生殖內分泌軸)]] - GnRH-LH/FSH-testosterone 軸調控 Leydig cell testosterone 與 Sertoli cell spermatogenesis。
 - [[physiology/oxygenation-and-ventilation|Oxygenation and ventilation (氧合與通氣)]] - 區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。
 - [[physiology/preload-afterload|Preload and afterload (前負荷與後負荷)]] - 理解心衰竭、瓣膜病與血管擴張藥物效果的基本概念。
 - [[physiology/raa-system|Renin-angiotensin-aldosterone system, RAAS (腎素-血管張力素-醛固酮系統)]] - 心衰竭與高血壓治療的重要神經荷爾蒙路徑。

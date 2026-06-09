@@ -26,6 +26,9 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -40,7 +43,7 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +69,15 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med5-book5-ch07]]
+- [[sources/med5-book5-ch05]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- ...藥物以降低膀胱內壓 | | | | (C) 當測得漏尿壓力為 $20 \text{ cmH}_2\text{O}$ 時,可以進行尿道外括約肌切 | | | | 開術(sphincterotomy)以保護腎臟 | | | | (D) 置放尿道支架(urethral stent)以方便排空膀胱 | | | | 【詳解】(C) 會漏更嚴重。 | | | (#) | 7. 薦髓傷害(sacral spinal cord injury)常發生的尿動力檢查異常是: | 106 (二) 專 | | (") | (A) 逼尿肌過度反射(detrusor hyperreflexia) | 醫五 -68 | | | (B) 逼尿肌無反射(detrusor areflexia) | Eq. 22 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
+- (A) 12. 懷孕婦女因輸尿管結石產生腰痛求醫處理時,下列何者較不合適? - (A) 必須立即以 IVU(intravenous urography)找出石頭位置,加以碎石處理免得繼續妊娠時症狀加劇 - (B) 利用雙 J 輸尿管導管(double-J ureter stent)以解除輸尿管之 阳塞 - (C) 局部麻醉下超音波定位置放經皮腎造瘻管 (percutaneous nephrostomy tube insertion) - (D) 在懷孕的第一個 trimester 時應該盡量避免 X 光照射 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- b. 手術 (surgical): - (a) 血管手術、血管支架植入: - i. 陰莖外動脈問題:以手術方式處理,如血管繞道。 - ii. 陰莖血管支架植入。 - (b) 人工陰莖 (Penile prosthesis)。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (B) 病情處置以放置氣管內支架為官 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (1) 狹窄:早期置放食道支架(至少3週),或擴張術(bougienage)。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (2) 手術修補、血管內支架置放:應先完成其他伴隨危急損傷評估,如:脾臟破裂、 骨盆骨折出血,並優先處理肺失能或頭部創傷至穩定,再進行血管修補。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
@@ -84,9 +93,6 @@ tags:
 - b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - ①開放性動脈導管置放支架(stent) ②鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty) ③布塊擴大術(patch augmentation) ④廣泛切除窄縮部分再兩端吻合(extended resection with primary anastomosis) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - ...| | 紺,經心臟超音波檢查,發現有肺動脈瓣閉鎖,這時候要給予 | | | 何種治療最迫切且適當? | | | (A) 抗生素靜脈注射 | | | (B) 血栓溶解劑靜脈注射 | | | (C) 前列腺素靜脈注射 | | | (D) 使用氣球擴張術 | | | 【詳解】凡是發紺性先天性心臟病,前列腺素(PGE1)是重要 | | | 的藥物,能維持動脈導管開放,讓血液能從主動脈流向肺動脈。 | | | (B) 27. 承上題,上述治療主要的目的是: | 99(二)專 | | (A) 溶解肺動脈栓塞 | 醫 5-10 | | (B) 使動脈性導管(ductus arteriosus)打開 | | | (C) 將肺動脈瓣打開 | | | (D) 治療急性肺炎 | | | (C) 28 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- (3) Endovascular Aortic Aneurysm Repair (EVAR):為低侵襲性的血管內支架手術,從兩側腹股溝股動脈處,將含金屬支架的人工血管(stent-graft)置放到主動脈瘤的位置撐開,使人工血管緊緊地貼緊主動脈壁,阻斷動脈瘤之血流供應,動脈瘤就會隨著時間慢慢的縮小。優點是傷口小、死亡率低、住院時間短及手術併發症降低。當病患年紀大、屬於開刀的高風險族群,EVAR會是個不錯的選擇。(下圖為 EVAR 示意圖) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- b. Endoleak: 支架沒放好,使得血流流出人工血管外或流進 aneurysm sac, 進而無法達到控制動脈瘤擴張的效果。依原因分成四種 type, 見下表。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (A) 3.60 歳趙先生(意識清楚)健康檢查時發現胸部 X 光片之縱膈腔 103(ニ)専8公分寬。下列敘述何者正確? 警五-23 - ①安排胸部電腦斷層檢查 - ②胸部降主動脈瘤為可能診斷之一 - ③手術前,醫師可應趙先生之書面要求而不將其手術危險性告 知其分居之配偶 - ④主動脈內血管支架 (endovascular aortic graft) 不可用於胸部 降主動脈瘤之治療 - (A) ①②③ (B) 僅①③ (C) ②④ (D) 僅④ Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 
 ## Clinical Caveats
 

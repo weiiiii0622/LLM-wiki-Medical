@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch20]]"
   - "[[sources/med3-book3-ch19]]"
@@ -20,6 +20,8 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book5-ch06]]"
 aliases:
   - 'Candidiasis (念珠菌感染)'
   - 'Candidiasis'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,13 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book5-ch01]]
+- [[sources/med5-book5-ch06]]
 
 ## Key Details From Sources
 
+- iii. 黴菌:有機會造成念珠菌(candida)泌尿道感染,所以在移植後數月 需要服用預防性抗黴菌藥 fluconazole/Mycelex troche。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...3. 一位 50 歲女性病人,無重大病史,因為過去 12 小時有發高燒、 108(一)專 畏寒及腰痛,因此到急診就診,腎臟超音波顯示腎臟並無結石或 水腫,尿液中白血球為> 100/HPF,但無紅血球( 100/HPF,尿路培養為念珠球菌(Candida albicans),下列何項處置最不適當? (A)給予口服 fluconazole | 105( 二 ) 東醫五 -69 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...下列有關肝癌之敘述,何者正確? | 100(一)專 | |---------------------------------------------------|-----------| | (A) 50% 的病人是手術切除的 good candidate | 醫五 -25 | | (B) 肝移植的成績可達 5 年 80% 的存活率 | | | (C) 術前肝功能是很重要的 | | | (D) CT arterioportography(CTAP)是重要的檢查,檢查時需要 | | | 做 portal vein cannulation | | | 【詳解】(A) 不到 20% 為手術切除的 candidate。(B) 五年的肝移 | | | 植成績可高達 92%。(D)CTAP:將顯 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -73,8 +79,6 @@ tags:
 - (A) 1. 一位 4 個月大,體重 4 公斤的男嬰,因為反覆抽搐(seizure)及 104( ) 專 低血鈣症,住進醫院的加護病房。自從出生後,他就常拉肚子, 醫四 -26 並有反覆且難以治癒的念珠菌(Candida)感染。身體診察發現左 胸骨下緣有第三度心雜音,您認為最可能的診斷為何? - (A) DiGeorge syndrome - (B) Wiskott-Aldrich syndrome - (C) X-linked agammaglobulinemia - (D) common variable immunodeficiency Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 【詳解】反覆念珠菌感染代表病人免疫能力低下,加上低血鈣 且有心雜音,臨床上最有可能就是 DiGeorge syndrome。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (2) 臨床表現: 典型表現為多尿與劇渴、夜尿、體重減輕。另外病人會有倦怠、無力、 視力模糊及會陰部念珠菌感染(在女童及嬰兒常見)。有 20~40% 病人一開始就 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...動力並無明 顯異常,下列何種疾病最有可能? - (A) acute graft-versus-host disease (GVHD) - (B) chronic graft-versus-host disease (GVHD) - (C) Candida infection - (D) Epstein-Barr virus (EBV) infection Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 5. 末期病人的症狀處置-消瘦(Cachexia)與厭食(Anorexia) - A: Aches (疼痛) - N: Nausea ( 噁心 ) - O: Oral candidiasis (口腔念珠菌) - R: Reactive depression (憂鬱症) - E: Evacuation problems (排便問題) - X: Xerostomia (口乾) - I: Iatrogenic (化療、放療、藥物相關) - A: Acid-related problem (胃炎、腸胃潰瘍) - 重 1. 厭食是疾病的一部分,病人不會因為飢餓而死亡 - 要 2. 末期病人的水和食物需求通常不多,並不會因為飲食的下降而造成不舒服 - 觀 3. 勉強病人進食,無法改善其生活品質或延長生命 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch14]]"
   - "[[sources/med3-book2-ch13]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book5-ch08]]"
 aliases:
   - 'Hypogonadism (性腺功能低下)'
   - 'Hypogonadism'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-性腺荷爾蒙不足可源自原發性性腺或中樞病變。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+性腺荷爾蒙不足可源自原發性性腺或中樞病變。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med5-book5-ch08]]
 
 ## Key Details From Sources
 
+- ...| | (A) 抽菸 (B) 糖尿病 | | | | | (C) 高血壓 (D) 心因性 (psychogenic ) 勃起功能障礙 | | | | | 【詳解】(D) 心因性不影響血管。 | | | (C) | 10 | 下列有關遲發型性腺功能低下症(late onset hypogonadism)的敘 | 102(二)專 | | (C) | 10. | | B五-68 | | | | 述,何者正確? | 西五 -00 | | | | (A) 睪固酮於晚上 8 至 10 點分泌達最高峰 | | | | | (B) 睪固酮由睪丸內曲細精管內皮細胞分泌 | | | | | (C) 有臨床症狀時才須治療 | | | | | (D) 前列腺增生(BPH) 病人可以補充睪固酮 | | | Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (C) 25. 廖先生是一位 30 歲的國中老師,因結婚兩年來仍未有小孩而到 泌尿科門診,這兩年來他們每週有一至兩次性行為,且未採取 避孕措施,但廖太太從未懷孕過。理學檢查時發現廖先生兩側 輸精管及睪丸大小正常,精液檢查發現精液量為三毫升,但未 發現任何精蟲,血中濾泡刺激激素(FSH)正常,其可能的診斷為: - (A) 性腺激素不足導致性腺功能不足(hypogonadotropic hypogonadism) - (B) Klinefelter's 症候群 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - c. Hypogonadism:無月經、不孕、無性慾。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 【詳解】Kallmann syndrome 為 X 染色體末端的基因缺陷,造成 先天性 GnRH 分泌不足,導致腦下垂體無法分泌性腺激素 (FSH, LH),形成所謂性腺激素功能低下症(hypogonadotropic)與性 腺功能低下症(hypogonadism)。80% 的患者因嗅覺神經無發育 使得嗅覺神經元萎縮而有嗅覺缺失症(Anosmia)或嗅覺減退 (Hyposmia),同時也會伴隨色盲、耳聾、隱睪症、陰莖短小、 扁平臉等異常。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - Kallman synsrome 是 hypogonadotropic hypogonadism 中最常見的疾病,合併聽力缺損或是喪失。臨床上此疾病可以是體染色體顯 / 隱性(85%; KAL2 gene mutation, autosomal dominanat)或是性聯遺傳(15%, KAL1 gene mutation)。主要發生 Kallman syndrome 是 KAL gene 突變造成在胚胎發育中,腦部、臉部、腎臟發育異常。因此病人臨床表現出現動作不協調、聽覺喪失、臉部外觀異常(唇裂或顎裂、眼距過寬)與腎臟發育異常(單側腎臟缺失)。另外,造成唇裂/顎裂是 KAL2 基因突變造成,並非 KAL1 基因(參考,國考應該不會考這麼細)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
