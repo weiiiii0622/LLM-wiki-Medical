@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch10]]"
@@ -11,6 +11,9 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book3-ch23]]"
   - "[[sources/med5-book3-ch22]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Thyroid fine-needle aspiration, FNA (甲狀腺細針抽吸)'
   - 'Thyroid fine-needle aspiration, FNA'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-甲狀腺結節依超音波風險與大小決定 FNA。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺結節依超音波風險與大小決定 FNA。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,15 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book3-ch23]]
 - [[sources/med5-book3-ch22]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- (4) 細針抽吸切片 (Fine needle aspiration of mass) Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...24~48 小時 追蹤胸部 X 光。非複雜性氣胸每天約可吸收縮小 1%。 - (3) 侵入性治療:適用於發展性氣胸、延遲肺擴張、伴隨症狀惡化、中等範圍氣胸 (20~40%)和大範圍氣胸(40%)幾乎伴隨持續症狀造成生理功能受限。 - a. 細針抽吸:可快速解除症狀和恢復肺擴張,並可評估是否持續漏氣需進行胸 廓造口術,可重複施行。 - b. 胸管、針導管或胸閥引流系統置放:對於醫源性氣胸(中央靜脈管路或肺切片)效果極佳,可同時治療癒合的氣胸並觀察是否有持續漏氣。 - c. 緊急針頭引流(18-gauge): 為張力性氣胸緊急處置,之後仍須放置胸管。置放位置為第2肋間和鎖骨中線交叉點。 - d. 胸廓造口術(胸管置放)合併水下密封引流:為自發性氣胸之主要治療。傳統置放位置為第2肋間和 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...常發生在 65 歲以 上病人 - (B) 有三分之一的病人是精母細胞瘤 (seminoma) - (C) 精母細胞瘤(seminoma)在抽血檢驗中,常會有較高的胎兒 蛋白(AFP)及人類絨毛膜激素(hCG) - (D) 經皮穿刺抽吸檢驗(FNA)是不須血液檢驗結果,最安全、 最快速及最正確得到診斷的方式 - 【詳解】(B) 生殖細胞瘤 20% 為惡性,精母細胞瘤佔惡性中50%,僅 5%為縱隔腔生殖細胞瘤,僅佔 3-10%縱隔腔腫瘤。故相較其他答案較貼近正確敘述。 - \*Townsend CM, Beauchamp RD, Evers BM, et al: *Sabiston textbook of surgery: The biological basis of moder Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 1. 細針抽吸 (fine needle aspiration cytology, FNAC): - (1) 最常用以鑑別水囊狀腫塊與實質腫塊。 - (2) 為細胞學檢查(cytology),不可作為病理診斷。但 cytology的結果若為 adenocarcinoma,有大於 90%的機會最後可確診為惡性腫瘤。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - (A) 7. 下列有關乳房腫瘤細針穿刺 (fine needle aspiration) 檢查之敘述, 106(一)專 何者錯誤? 醫五-47 - (A) 用 16 或 18 號針頭(16 or 18 gauge needle) - (B) 不需局部麻醉 - (C) 可區分實質腫瘤或囊腫(solid tumor or cyst) - (D) 若發現有癌細胞(carcinoma cell) 仍需作切片檢查(tumor biopsy) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 【詳解】可用 22 號針頭執行 fine needle aspiration。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].

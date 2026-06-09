@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch01]]"
   - "[[sources/med4-book2-ch11]]"
@@ -10,6 +10,8 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med5-book4-ch14]]"
+  - "[[sources/med5-book4-ch16]]"
 aliases:
   - 'Hair growth cycle (毛髮生長週期)'
   - 'Hair growth cycle'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-毛囊依 anagen、catagen、telogen 循環，影響掉髮與毛髮疾病判讀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+毛囊依 anagen、catagen、telogen 循環，影響掉髮與毛髮疾病判讀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,13 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med5-book4-ch14]]
+- [[sources/med5-book4-ch16]]
 
 ## Key Details From Sources
 
+- (2) 手術年齡:6至12個月大。因麻醉風險和幼童相近,陰莖生長進入緩慢生長期, 長大後沒有接受手術記憶。 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
+- 7. 分類:表淺型(superfical)、深層型(deep)和混合型(mixed)。 - (1) 表淺型:呈現亮紅色突起可壓縮邊界清楚的腫瘤,大部分在出生後兩個月內發生,初期以蒼白色皮膚上呈現紅或藍色瘀斑,之後會變成為毛細血管擴張樣接著進入生長期。 - (2) 深層型:病灶呈現囊狀可擠壓的硬塊,並呈現正常膚色或是藍色條狀(bluish hue),且範圍更加擴散而邊界難以界定。 Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - 3. Proliferative phase (增生期):約第2~3天開始,可持續到3~4週。 - (1) Granulation phase (肉芽組織生長期): 纖維母細胞 (fibroblast) 移行至傷口處,不斷產生纖維細胞 (fibrocyte),並分泌第三型膠原蛋白 (type III collagen)。 膠原蛋白的作用為提供上皮細胞移行的管道、刺激真皮細胞移行並作為真皮細胞層生長的骨架,以促進傷口癒合。同時也會有微血管新生 (angiogenesis)的 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (3) Epithelization phase (上皮組織生長期):這段期間上皮細胞會覆蓋在傷口上,形成保護層將正在癒合的傷口與外界環境隔開。此時期受到完整上皮基底層和適當傷口潮濕度的影響,可以加速上皮層的形成。到此傷口癒合算是告一段落,接下來剩下「形成疤痕」。假使傷口深度僅為 Partial thickness wound (僅傷到上皮層或淺層真皮層),由於傷口淺,其癒合主要靠上皮細胞移行 (Epithelization)作用,而 Full thickness wound 則是傷到深層真皮層,癒合作用需仰賴上述的肉芽組織生長,靠纖維母細胞製造膠原蛋白促進傷口癒合。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (1) 不願意維持就其年齡和身高而言,所應有的最低正常標準或標準以上的體重(例如:體重下降導致低於預期體重 85%以下;或在生長期不能增加預期應該增加的體重,體重反而低於預期體重 85%以下)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].

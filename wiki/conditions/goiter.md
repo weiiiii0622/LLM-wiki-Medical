@@ -2,9 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch09]]"
 aliases:
   - 'Goiter (甲狀腺腫)'
   - 'Goiter'
@@ -19,14 +21,20 @@ tags:
 
 ## Summary
 
-甲狀腺腫大可為 diffuse 或 nodular，功能可亢進、低下或正常，需依症狀、功能與惡性風險評估。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺腫大可為 diffuse 或 nodular，功能可亢進、低下或正常，需依症狀、功能與惡性風險評估。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch09]]
 
 ## Key Details From Sources
 
+- G. 甲狀腺腫瘤(Thyroid tumor) 70 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- ### G. 甲狀腺腫瘤 (Thyroid tumor) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 2. 診斷:詳細的病史詢問及理學檢查。 - (1) 區別淋巴結腫或非淋巴腫塊: - a. 非淋巴腫塊(Nonlymphoid masses)較常出現在頸部相較於其他位置。例如: 頸部肋骨、甲狀舌骨囊腫、腮裂囊腫、感染性膿瘍、囊狀水瘤、甲狀腺腫大、 胸鎖乳突肌腫瘤、甲狀腺發炎、甲狀腺膿瘍、神經纖維瘤等。 - b. 淋巴結腫:新生兒的淋巴結通常觸摸不到,但隨著抗原接觸暴露增加,淋巴組織逐漸變大,通常頸部和腋下的淋巴結直徑不會超過1公分,鼠蹊部的淋巴結直徑不會超過1.5公分,其他位置的淋巴結通常觸摸不到,也無法在X光下顯影。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - C. 甲狀腺腫大 (Goiter) 198 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 2. 結節性 (nodular) 甲狀腺腫大: - (1) 多發性: - a. Iodine deficiency: $T_3 \cdot T_4$ 下降(碘供應不足,使得甲狀腺代償而增生腫大)。 - b. Plummer's disease: T3、T4上升(甲狀腺因碘不足而代償增生後,導致甲狀腺細胞 TSH receptor 突變,大量分泌 T3、T4,又叫作 toxic multinodular goiter)。 - (2) 單一性: - a. 良性膠體性結節 (60%, colloid nodule): T3、T4正常。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 2. 為甲狀腺機能亢進最常見原因,會有甲狀腺腫大及甲狀腺機能亢進的臨床症狀(見前述表格)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].

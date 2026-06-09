@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch03]]"
@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book4-ch07]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Acute coronary syndrome (急性冠心症)'
   - 'Acute coronary syndrome'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-斑塊破裂與冠狀動脈血栓造成不穩定心絞痛或心肌梗塞。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+斑塊破裂與冠狀動脈血栓造成不穩定心絞痛或心肌梗塞。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med3-book4-ch07]]
 - [[sources/med3-book4-ch20]]
 - [[sources/med5-book2-ch03]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- Rice TW, Patil DT, Blackstone EH. 8th edition AJCC/UICC staging of cancers of the esophagus and esophagogastric junction: Application to clinical practice. Ann Cardiothorac Surg. 2017;6(2):119-130. doi:10.21037/acs.2017.03.14 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - CLASS I recommendation for emergency CABG in STEMI: Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (C) 20. 陳先生 62 歲,除患有糖尿病多年外,身體一向健康。某日午餐後返辦公室,突然感到胸痛不適。同事將陳先生送入醫院急診室,初步判斷為急性冠狀症候群(acute coronary syndrome)。住院一星期後病情穩定,各器官功能正常。經心導管檢查,發現冠狀動脈阻塞情況如下:左冠狀動脈主幹(leftmain coronary artery) 80% 狹窄、左冠狀動脈左前降支近心端 76% 狹窄與中段70% 狹窄、左迴旋支中段65% 狹窄、右冠狀動脈中段83% 狹窄與遠心端90% 狹窄。經心臟內外科團隊討論後,建議陳先生接受下列何種後續治療的一年存活率最好? - (A) 經皮穿徑冠狀動脈血管整形術 (percutaneous t Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - ...才吃第一次藥。依此病人的臨床表現, 下列何種疾病最有可能? - (A) 急性氣管炎 (acute bronchitis) - (B) 氣喘發作 (asthma attack) - (C) 過敏性反應 (anaphylaxis) - (D) 急性冠心症候群 (acute coronary syndrome) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].

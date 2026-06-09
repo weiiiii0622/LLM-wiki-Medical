@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book3-ch06]]"
   - "[[sources/med5-book3-ch10]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Meckel diverticulum (梅克爾氏憩室)'
   - 'Meckel diverticulum'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-卵黃管殘跡，可因異位胃黏膜造成無痛性下消化道出血。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+卵黃管殘跡，可因異位胃黏膜造成無痛性下消化道出血。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book3-ch06]]
 - [[sources/med5-book3-ch10]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- J. 梅克爾憩室(Meckel's diverticulum) 164 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ### J. 梅克爾憩室 (Meckel's diverticulum) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 4. 好發位置:在迴腸上,距離迴盲瓣 (ileocecal valve) 45 至 60 公分,在腸繋膜相對的一側。(相對位置說明:腸繋膜—迴腸—梅克爾憩室,即所謂的腸繫膜對側 (antimesenteric side))。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - #### 丙、梅克爾憩室症 (Meckel diverticulum) Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - 1. 梅克爾憩室症是最常見的先天性消化道結構異常。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - 3. 梅克爾憩室是一種真性憩室 (true diverticulum),包含全部的組織層。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].

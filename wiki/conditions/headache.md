@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch05]]"
@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Headache (頭痛)'
   - 'Headache'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- e. 質子幫浦抑制劑(proton pump inhibitors):藉由不可逆地結合在壁細胞上質子幫浦抑制胃酸產生,最大效果在治療後第4天,而藥效持續直到壁細胞凋亡,所以藥效在停藥後仍可持續4~5天,所以使用PPI患者需停藥一週後再做pH monitoring檢查。且比起 H2 blocker 更有效幫助食道潰瘍癒合。副作用為頭痛、腹痛、腹瀉。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ...) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 【詳解】傾食症候群(Dumping syndrome)會出現腸胃道症狀 與心血管症狀如頭痛、心悸、潮紅、低血壓等等。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - b. 導管後型/成人型(Postductal/adult):窄縮處位於主動脈過動脈導管後,症狀和窄縮程度相關,股動脈脈搏微弱甚至完全消失,手腕脈搏強,上肢血壓高於下肢,且因為上半身血壓高,所以有頭痛、頭暈、流鼻血等症狀,甚至有中風的風險。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
@@ -82,7 +85,6 @@ tags:
 - 1. 突發性劇烈頭痛,病人最常描述:頭從來沒有這麼痛過。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - Ⅱ. 原發性頭痛 58 - A. 緊縮型頭痛 (Tension headache) 59 - B. 偏頭痛 (Migraine) 59 - C. 叢發型頭痛 (Cluster headache) 60 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - Ⅲ. 次發性頭痛 61 - A. 造成腦膜刺激(Meningeal irritation)的頭痛 61 - B. 顱內壓太高、太低的頭痛:太高(IICP)、太低(腰椎穿刺後) 61 - C. 腦腫瘤 62 - D. 顳動脈血管炎(Temporal arteritis) 62 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- ...--------------------|-------------------------------------------------|------------------------------------------| | 原發性頭痛(Primary headache) | 緊縮型頭痛(最常見、但少考)偏頭痛(常見、也愛考)叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 
 ## Clinical Caveats
 

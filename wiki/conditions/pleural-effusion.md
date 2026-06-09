@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch23]]"
   - "[[sources/med3-book1-ch13]]"
@@ -19,6 +19,9 @@ sources:
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Pleural effusion (肋膜積液)'
   - 'Pleural effusion'
@@ -33,7 +36,7 @@ tags:
 
 ## Summary
 
-肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔液體增加，需區分 transudate 與 exudate。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +55,17 @@ tags:
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch17]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- (D) 肋膜積液 (pleural effusion) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- A. 肋膜液 (Pleural fluid) 12 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ### A. 肋膜液 (Pleural fluid) Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...- (1)漏出液(transudate)因液體進出肋膜腔恆定改變所造成。 - (2) 滲出液(exudates)因肋膜或淋巴完整性被破壞或阻斷所造成。以下為滲出液判別標準(Light's criteria),符合其中以一項即可: - a. Pleural fluid protein/serum protein greater than $0.5\,$ $\circ$ - b. Pleural fluid LDH/serum LDH greater than 0.6 • - c. Pleural fluid LDH 1.67 times normal serum - (a) 現在修正為:LDH > 2/3 upper limits of serum normal。 - d. 正常參考值:因各實驗室不 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (D) 1. 肺癌病人出現惡性肋膜腔積液 (malignant pleural effusion),在 TNM 分期中,至少是屬於那一期? Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 右邊的肺部可能會出現 basilar atelectasis 或 pleural effusion Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - $2 \, \, \mathcal{H}$ : one or more of pleural effusion, ascites, vascular complications, parenchymal complications and or gastrointestinal involvement Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - 1. 胸部 X 光:可觀察主動脈、氣管是否有移位,或是縱隔腔會有 widening 的情形, 也有機會看見 pleural effusion 或 cardiomegaly。但 X 光敏感性和特異性皆不好,並 不能用來作為排除主動脈剝離的診斷,需做 CT 或是 MRI 才能確診。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
@@ -68,11 +79,6 @@ tags:
 - #### 3. 各種肋膜積液問題的特徵: Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - (1) Pseudoexudate: (Ref Washington p329) - a. 符合 1~2 項 Light's criteria,但實際上是 Transudate,常見於經利尿劑治療後的心臟衰竭、肝衰竭、腎病症候群病患。 - b. 上述病患的 Serum-pleural fluid albumin gradient > 1.2。 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - (2) Simple parapneumonic effusion: - a. 肺炎合併少量、無菌肋膜積液, pH > 7.2, Glu 1,000 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
-- .... 下列何種肺癌之合併症,不適用胸腔放射線治療來緩解症狀? 103(一)專 (A) 上腔靜脈阻塞症候群 (superior vena cava syndrome) 醫三-9 (B) 大的氣道受到壓迫 (C) 胸壁受侵犯引起疼痛 (D) 大量肋膜積液 (C) 20. ras 基因突變在下列何種肺癌出現之比率最高? 102(二)專 翳三-46 (A) 小細胞肺癌 (B) 鱗狀上皮細胞癌 (C) 腺癌 (D) 大細胞肺癌 【詳解】特別是抽菸者的肺腺癌會有 ras 基因突變;不抽菸者的肺 腺癌基因突變比例最高的是 EGFR 基因突變。 (B) 21. 一位 40 歲男性,抽菸長達二十年,最近體檢發現肺部右側上葉有 2 102(-)專 醫三-42 - (B) 21. 一位 40 歲男性,抽 Source: [[sources/med3-book1-ch13|丑、肺癌]].
-- 【詳解】Malignant pleural effusion為T4, advanced stage先考慮化療。 Source: [[sources/med3-book1-ch13|丑、肺癌]].
-- (D) 1. 關於過敏性支氣管肺麴黴菌病 (allergic bronchopulmonary aspergillosis), 105(ニ)専 下列何種影像學徵象最少見? 醫三-74 - (A) 肺擴張不全 (atelectasis) - (B) 支氣管囊腫 (bronchocele) - (C) 肺實質化 (consolidation) - (D) 明顯的肋膜積液 (pleural effusion) Source: [[sources/med3-book1-ch21|戊、感 染]].
-- ...ecreased | Decreased | Absent | | 肋 | Pneumothorax | Hyperresonant | Decreased | Decreased | Decreased | Absent | | 膜 | Pleural effusion | Dull | Decreaseda | Decreased | Decreaseda | Pleural friction rib | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- b. 鑑別診斷: (口訣:外到內) - (a) 胸壁病灶 (Chest wall lesion)、肋膜積水 (Pleural effusion) - (b) 腫瘤 (Tumor mass)、肺塌陷 (Lung collapse) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 
@@ -81,8 +87,10 @@ tags:
 
 ## Related Pages
 
+- [[conditions/chylothorax|Chylothorax (乳糜胸)]]
 - [[conditions/empyema|Empyema (膿胸)]]
 - [[diagnostics/light-criteria|Light criteria (Light 標準)]]
+- [[conditions/malignant-pleural-effusion|Malignant pleural effusion (惡性肋膜積液)]]
 - [[anatomy/pleura|Pleura (肋膜)]]
 - [[procedures/thoracentesis|Thoracentesis (胸腔穿刺)]]
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch14]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Neisseria meningitidis infection (腦膜炎雙球菌感染)'
   - 'Neisseria meningitidis infection'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-可造成流行性腦膜炎與敗血症，密切接觸者需預防性投藥與通報。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成流行性腦膜炎與敗血症，密切接觸者需預防性投藥與通報。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 2. 臨床症狀:隨時間症狀越來越明顯。 - (1) 呼吸窘迫 (respiratory distress)。 - (2) 意識改變 (altered mental status)。 - (3) 皮膚瘀青 (skin petechiae)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D) 32. 一個 6 歲大的男孩,雙股及兩側下肢出現紫斑及出血疹,男孩無 98( ) 專 發燒,精神良好,但右膝腫脹,全血球計量正常,最可能診斷為: 醫四 -11 (A) 原發性血小板過低紫斑症 (idiopathic thrombocytopenic - (B) 青年型類風濕性關節炎(juvenile rheumatoid arthritis) - (C) 腦膜炎雙球菌敗血症(meningococcemia) - (D) 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura 【詳解】(A) 全血球不會正常。(B) 會發燒。(C) 會發燒,且意識 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...------------------------------------|--|--| | 1~3 個月 | B 群鏈球菌、E. coli 、Listeria monocytogenes、肺炎鏈球菌、H. influenzaetype b、腦膜炎雙球菌(N. meningitides)、沙門氏菌(Salmonella) | | | | 3個月~3歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 3~12 歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 12 歲以後 | 肺炎鏈球菌、腦膜炎雙球菌 (N. meningitides) | Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (3) 治療時間: - a. 腦膜炎雙球菌: 7~10 天 - b. 肺炎鏈球菌、H. influenzae type b: 10~14 天 - c. B 群鏈球菌、Listeria monocytogenes: 14~21 天 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
@@ -64,7 +67,6 @@ tags:
 - 2. 用於治療肺結核,因容易產生抗藥性,所以常和其他藥物併用。預防親密接觸 Neisseria meningitidis 患者被傳染。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...---------------------|-------------------------------------| | Penicillin G | Syphilis, leptospirosis, actinomycosis, | Neisseria meningitidis (0) | | | Gp A, B streptococcal infections, pneumococcal infections, viridans streptococcal endocarditis, | Viridans streptococci (5-10) | | | Oral and periodontal infections, Pasteurella multocida infections | Streptoc Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 建議多做幾年考古題,把每年必考的幾個重點疾病把握住 (IE, meningitis, meningococcus, pneumococcus...) Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
-- ...男性罹患尿道炎,由尿道流出之膿液在顯微鏡檢 內 1-42 查觀察,有細胞內格蘭氏陰性雙球菌,其尿道炎之致病菌是: (A) Streptococcus pneumoniae - (B) Neisseria gonorrhoeae - (C) Neisseria meningitidis - (D) Mycoplasma genitalium Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 
 ## Clinical Caveats
 

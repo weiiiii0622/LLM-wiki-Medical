@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
@@ -18,6 +18,8 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'TORCH infections (TORCH 先天性感染)'
   - 'TORCH infections'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、�
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...s)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - (2) 職業因素: - a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , kerosene, acetylene $\circ$ - (3) 腫 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (3) 移植六個月之後,移植受贈者的情況較穩定,感染就跟一般社會大眾一樣 (community-acquired),如流感、泌尿道感染及肺炎雙球菌肺炎。唯一伺機性 病毒感染為 herpes zoster;而 CMV 視網膜炎則較罕見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -69,8 +75,6 @@ Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、�
 - 1. 為一多發性血管腫瘤,由 HHV (human herpesvirus) -8 所引起,好發於愛滋患者。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (A) human herpesvirus type 8 (HHV-8) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (B) human herpes simplex virus type 2 (HSV-2) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- XVI. 單純疱疹病毒 (Herpes Simple Virus) 199 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch18]]"
@@ -37,6 +37,9 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Liver cirrhosis (肝硬化)'
   - 'Liver cirrhosis'
@@ -51,7 +54,7 @@ tags:
 
 ## Summary
 
-慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +91,17 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch15]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...ive heart | Malignant | Collagen-Vascular | Others | | failure | ● Bronchogenic | Disease Related | ◆ Chylothorax | | ● Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | arter Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (B) 4.49 歲男性肝硬化併發右側大量肋膜積液,已存在一個星期,插 101( - ) 專 入 32 Fr 胸管後,釋放出 2,200 毫升稻草色積液。幾分鐘後,病 醫五 -25 人變成呼吸困難和焦慮。則最可能的原因為何? Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
+- 2. 成因 & 機轉:原因仍不明,組織上的表現為持續惡化的肝內外膽道閉鎖或消失, 無法以內科藥物扭轉膽道閉鎖消失的進展,如未接受手術治療,疾病會進展成膽汁 性肝硬化、門脈高壓、大約於 2 歲前死亡。病理上,可發現膽道系統呈現纖維化和 發炎細胞浸潤,隨著膽汁鬱積和膽道發炎纖維化,最後變成末期肝硬化。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (3) Kasai procedure 為肝門小腸造瘻術(hepatoportoenterostomy),切除閉鎖膽道和重建膽道引流至小腸,可改善早期存活率,避免進展性肝內膽道破壞造成慢性發炎,纖維化,肝硬化。如失敗,則會造成生長遲緩,反覆膽道炎,最後進展為末期肝病,則必須做肝移植。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (2) 主要的原因是 B 型肝炎及 C 型肝炎在台灣的高盛行率,使慢性肝臟疾病病得以 進一步發展成為肝硬化及肝癌。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (8) 自體免疫肝臟疾病如 primary biliary cirrhosis 與 autoimmune hepatitis。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - ...查。 - (1) 小於 1 cm 的腫瘤:每 3 個月後作一次腹部超音波,若大小不變的話則回到正常 篩檢,若腫瘤變大的話則依據腫瘤大小作進一步的檢查。 - (2) 介於 1 cm 與 2 cm 之間的腫瘤: - a. 若病患本身為高危險群或肝硬化的患者,若兩種影像檢查都具有典型的血管表現,則不須做切片,直接診斷為 HCC。 - b. 若如果只有一種影像能認定,則考慮加做切片。 - (3) 大於 2 cm 的腫瘤: - a. 若病患本身為高危險群或肝硬化患者,要有二種影像檢查皆具典型血管特徵 才能診斷為 HCC。 - b. 只有一種影像檢查能認定,合併甲型胎兒蛋白(AFP)大於 **200**,也可診斷 為 HCC,不須加做切片。 - c. 只有一種影像檢查能認定, AFP 肝硬 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -104,11 +115,6 @@ tags:
 - (6) 肝硬化或中度以上之腎功能不全者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...onic antigen (CEA) 臨床上常用來監測大腸直 | | | 腸癌 | | | (C) α-fetoprotein 在胎兒時會下降,出生後會逐漸上升,懷孕時 | | | 會下降 | | | (D) CA-125 在子宮內膜異位和肝硬化的病患會上升 | | | 【詳解】(C) $\alpha$ -fetoprotein 懷孕第四週時,便能在胎兒血清中偵 | | | 測到,到第 12 至 16 週時濃度達到最高點,接著開始逐漸下降, | | | 直到出生。出生後 $1$ 歲以前,血中 $\alpha$ -fetoprotein 濃度便降到和正 | | | 常成人相同。 | | | (D) 23. 下列對照的致癌原(Carcinogen)何者錯誤? | 102(一)專 | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (D) 25. 李太太因糖尿病合併腎衰竭接受血液透析多年,三年前接受丈夫 101(二)專 捐贈的腎臟進行移植。現因C型肝炎合併肝硬化及肝衰竭等待肝 臟移植,李先生又成為活體捐贈的候選人。在評估李先生是否 合適作為捐贈者,除了身體狀況外,下列心理及社會因素中何 者非為主要的考量因素? - 醫五-78 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (1) Methotrexate(MTX):治療慢性塊狀乾癬或乾癬性關節炎的第一線用藥。最常見的副作用為噁心、疲倦、食慾減退、骨髓抑制造成白血球下降以及肝毒性,故有肝病史和酗酒者不適此療法,可能引發肝纖維化或肝硬化的危險。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- (#) 3. 下列何種疾病引起的低血鈉(hyponatremia)與血液稀釋無關? 107(-)專 (A) 肝硬化(liver cirrhosis) 醫四 -21 (B) 鬱血性心臟衰竭 (congestive heart failure) (C) 抗利尿激素不適當分泌症候群 (syndrome of inappropriate antidiuretic hormone secretion) (D) 腎病症候群 (nephrotic syndrome) 【詳解】這些都有機會造成血管內容積量增加,進而造成血液 中的鈉離子被稀釋造成相對性的低血鈉。 ( Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...HUS/ TTP | ↓ | Normal | Normal | | DIC | ↓ | 1 | ↑ | | Vit K deficiency/ Coumadin used/ | Normal | ↑ | 剛開始時正常,後來都會↑ | | Liver cirrhosis | | | | | vWD | Normal | Normal | ↑ (因為 factor 8 下降 ) | | Hemophilia | Normal | Normal | ↑ | Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 3. Gamma-glutamyltransferase ( $\gamma$ -GT) and 5' nucleotidase (5NT) - (1) Gamma-glutamyltransferase (γ-GT) 位在細胞膜上,分布器官主要在**肝、膽道、**腎及胰臟,但不存在於骨骼。臨床上 Gamma-glutamyltransferase 上升代表以下可能原因:急性或慢性肝炎、肝硬化、膽汁滯留、原發性硬化性膽管炎、肝轉移腫瘤或是 liver carcinoma。 - (2) 5' nucleotidase (5NT) 主要分布在肝、肌肉、心臟及腎臟,但不存在於骨骼。 臨床上 5NT 上升代表以下可能原因: 肝炎、膽汁滯留性疾病、肝臟腫瘤(原發性或是次發性)、肝毒性藥物。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 3. 確切的原因仍不明,但有懷疑某些病毒感染造成,如 reovirus、CMV、HPV、 rotavirus C。此疾病的病程為一漸進性的發炎反應,造成膽道的纖維化及膽汁鬱積, 最終造成肝硬化。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

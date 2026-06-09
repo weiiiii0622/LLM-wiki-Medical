@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch13]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book3-ch09]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Aplastic anemia (再生不良性貧血)'
   - 'Aplastic anemia'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book3-ch09]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...多數重症肌無力患者沒有胸腺瘤,但合併胸腺瘤患者仍佔約 10~42%。 - (2) 其他常見合併症:紅血球再生不良(red blood cell aplasia)、白血球再生不良(pure white blood cell aplasia)、再生不良性貧血(aplastic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopat Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 3. 暫時性性再生不良性貧血(transient aplastic anemia) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 3. 兒童嚴重型再生不良性貧血的治療選項中,下列何種治療方式之 107( 二) 專 治癒率較高? 醫四-24 Source: [[sources/med4-book1-ch08|辛、血液學]].

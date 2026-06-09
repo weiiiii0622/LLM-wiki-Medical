@@ -2,7 +2,7 @@
 type: index
 status: draft
 created: 2026-06-07
-updated: 2026-06-08
+updated: 2026-06-09
 sources: []
 tags:
   - medicine
@@ -39,6 +39,7 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/coronary-artery-bypass-graft|Coronary artery bypass graft, CABG (冠狀動脈繞道術)]] - 外科冠狀動脈血管再暢通術。
 - [[procedures/cpap|Continuous positive airway pressure, CPAP (連續正壓呼吸)]] - OSA 標準治療，也可作為非侵襲性正壓通氣模式。
 - [[procedures/damage-control-surgery|Damage control surgery (損傷控制手術)]] - 嚴重外傷或生理崩潰時先控制出血污染，延後 definitive repair。
+- [[procedures/decortication|Decortication (剝皮術／纖維膜剝除術)]] - 移除限制肺擴張的肋膜纖維皮，常用於 organized empyema 或 fibrothorax。
 - [[procedures/dialysis-indications|Dialysis indications (透析適應症)]] - 急性透析常依 acidosis、electrolyte、intoxication、overload、uremia 等評估。
 - [[procedures/distal-pancreatectomy|Distal pancreatectomy (遠端胰臟切除術)]] - 胰體尾病灶可行遠端胰臟切除，常合併脾臟切除，需注意胰液滲漏與感染風險。
 - [[procedures/electroconvulsive-therapy|Electroconvulsive therapy, ECT (電痙攣治療)]] - 以麻醉下誘發治療性癲癇發作用於重度憂鬱、mania、catatonia、部分 psychosis 或緊急自殺風險。
@@ -47,6 +48,7 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/endovascular-aneurysm-repair|Endovascular aneurysm repair, EVAR (血管內主動脈瘤修補)]] - 以支架 graft 經血管內修補腹主動脈瘤，需注意 endoleak、解剖適應症與長期追蹤。
 - [[procedures/enteral-nutrition|Enteral nutrition (腸道營養)]] - 經腸胃道給予營養，腸道可用時通常優先於 parenteral nutrition。
 - [[procedures/ercp|Endoscopic retrograde cholangiopancreatography, ERCP (內視鏡逆行性膽胰管攝影)]] - 診斷與治療膽胰管阻塞、結石或膽管炎的重要內視鏡程序。
+- [[procedures/esophagectomy|Esophagectomy (食道切除術)]] - 食道癌或部分嚴重良性病變的外科切除，需搭配胃或腸道重建並注意吻合漏與肺部併發症。
 - [[procedures/exchange-transfusion|Exchange transfusion (換血治療)]] - 嚴重高膽紅素血症或溶血風險時移除 bilirubin 與抗體的高風險處置。
 - [[procedures/fluid-resuscitation|Fluid resuscitation (輸液復甦)]] - 以 crystalloid、blood products 或其他液體恢復有效循環容量與灌流，需依休克類型與出血量調整。
 - [[procedures/fontan-procedure|Fontan procedure (Fontan 手術)]] - 單心室循環的階段性手術終點，使體靜脈血被動進入肺循環。
@@ -56,7 +58,9 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/hemodialysis|Hemodialysis (血液透析)]] - 以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。
 - [[procedures/hepatectomy|Hepatectomy / liver resection (肝切除術)]] - 肝臟腫瘤或部分膿瘍/創傷可需肝切除，需評估肝功能、剩餘肝容量與腫瘤分布。
 - [[procedures/implantable-cardioverter-defibrillator|Implantable cardioverter-defibrillator, ICD (植入式心臟去顫器)]] - 預防猝死的植入式裝置。
+- [[procedures/kasai-portoenterostomy|Kasai portoenterostomy (Kasai 肝門腸吻合術)]] - 膽道閉鎖早期重建膽汁引流的手術，年齡越小成功率越高，失敗或進展肝硬化需肝移植。
 - [[procedures/kidney-transplantation|Kidney transplantation (腎臟移植)]] - ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。
+- [[procedures/ladd-procedure|Ladd procedure (Ladd 手術)]] - 治療 intestinal malrotation/midgut volvulus 的手術，包含鬆解 Ladd bands、擴大腸繫膜基底、復位與 appendectomy。
 - [[procedures/laparoscopy|Laparoscopy (腹腔鏡)]] - 以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。
 - [[procedures/liver-transplantation|Liver transplantation (肝臟移植)]] - 末期肝病、部分 HCC 或肝衰竭的根本治療選項。
 - [[procedures/low-anterior-resection|Low anterior resection, LAR (低位前切除術)]] - 保留括約肌的直腸癌手術，需注意 distal margin、anastomotic leak 與暫時性 diversion。
@@ -68,6 +72,8 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/mechanical-ventilation|Mechanical ventilation (機械通氣)]] - 呼吸衰竭支持治療，設定與肺保護策略需依病況調整。
 - [[procedures/microvascular-decompression|Microvascular decompression, MVD (微血管減壓術)]] - 解除神經受血管壓迫的手術，常用於 trigeminal neuralgia。
 - [[procedures/noninvasive-ventilation|Noninvasive ventilation, NIV (非侵襲性通氣)]] - 以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。
+- [[procedures/nuss-procedure|Nuss procedure (Nuss 漏斗胸矯正術)]] - 以胸骨後矯正鋼板頂起凹陷胸壁的微創漏斗胸手術，需注意心肺壓迫、鋼板移位與疼痛控制。
+- [[procedures/orchiopexy|Orchiopexy (睪丸固定術)]] - 將睪丸固定於陰囊，常用於 cryptorchidism 或 testicular torsion 後雙側固定。
 - [[procedures/organ-preservation|Organ preservation (器官保存)]] - 器官摘取後以低溫保存液與時間管理降低 ischemia-reperfusion injury。
 - [[procedures/ostomy|Ostomy (腸造口)]] - 將腸道開口接至腹壁以排便或 diversion，需術前定位與術後照護。
 - [[procedures/pacemaker|Pacemaker (心律調節器)]] - 治療部分 bradyarrhythmia 或傳導阻滯。
@@ -77,10 +83,13 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/parenteral-nutrition|Parenteral nutrition, PN/TPN (靜脈營養)]] - 經靜脈給予營養，適用於腸道不可用或需求無法由腸道滿足時，需監測感染、代謝與肝膽併發症。
 - [[procedures/percutaneous-cholecystostomy|Percutaneous cholecystostomy (經皮膽囊引流)]] - 高風險急性膽囊炎病人可用經皮膽囊引流作為橋接或替代治療。
 - [[procedures/percutaneous-coronary-intervention|Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)]] - 冠狀動脈再灌流與血管再暢通方法。
+- [[procedures/pericardiocentesis|Pericardiocentesis (心包膜穿刺)]] - 心包膜填塞或大量積液的診斷/治療程序。
 - [[procedures/peritoneal-dialysis|Peritoneal dialysis (腹膜透析)]] - 利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。
 - [[procedures/phototherapy|Phototherapy (新生兒黃疸照光治療)]] - 以藍光將 unconjugated bilirubin 轉為可排泄異構物，降低 kernicterus 風險。
 - [[procedures/plasma-exchange|Plasma exchange, PLEX (血漿置換)]] - 以血漿移除致病抗體或補充缺乏因子，可用於 TTP、GBS、NMO、MG crisis 等疾病。
+- [[procedures/pleurodesis|Pleurodesis (肋膜沾黏術)]] - 利用化學或機械刺激使臟層與壁層肋膜沾黏，常用於反覆氣胸或惡性肋膜積液症狀控制。
 - [[procedures/psychotherapy|Psychotherapy (心理治療)]] - 透過治療關係、認知行為、支持與人際介入改善症狀、功能與復健。
+- [[procedures/pyloromyotomy|Pyloromyotomy (幽門肌切開術)]] - 肥厚性幽門狹窄的手術治療，術前需先矯正脫水、低氯與代謝性鹼中毒。
 - [[procedures/radiation-therapy|Radiation therapy (放射治療)]] - 以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。
 - [[procedures/radioactive-iodine-therapy|Radioactive iodine therapy (放射性碘治療)]] - 用於部分甲狀腺亢進與甲狀腺癌治療。
 - [[procedures/radiofrequency-ablation|Radiofrequency ablation, RFA (射頻燒灼治療)]] - 以熱能局部消融肝腫瘤等病灶，常用於特定 HCC 或轉移病灶。
@@ -93,6 +102,7 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/thoracentesis|Thoracentesis (胸腔穿刺)]] - 肋膜積液診斷與治療程序。
 - [[procedures/thoracoscopy|Thoracoscopy / VATS (胸腔鏡)]] - 以胸腔鏡進行診斷、切片、肺部或縱膈手術。
 - [[procedures/thyroidectomy|Thyroidectomy (甲狀腺切除術)]] - 用於部分 Graves disease、甲狀腺結節或甲狀腺癌；需注意出血、hypocalcemia、recurrent laryngeal nerve injury。
+- [[procedures/tracheostomy|Tracheostomy (氣管造口術)]] - 建立頸部氣管通道以維持長期呼吸道、協助呼吸器照護或繞過上呼吸道阻塞。
 - [[procedures/transjugular-intrahepatic-portosystemic-shunt|Transjugular intrahepatic portosystemic shunt, TIPS (經頸靜脈肝內門體分流)]] - 以介入方式降低門脈壓，可用於選定的靜脈曲張出血或難治性腹水。
 - [[procedures/vagotomy|Vagotomy (迷走神經切斷術)]] - 透過切斷 vagal input 降低胃酸分泌，傳統上用於潰瘍手術策略，常需搭配 drainage procedure。
 - [[procedures/valve-replacement-repair|Valve replacement/repair (瓣膜置換與修補)]] - 瓣膜病變可依病因、嚴重度、症狀與手術風險選擇 repair 或 replacement，並需考慮抗凝需求。

@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch20]]"
   - "[[sources/med3-book1-ch14]]"
@@ -31,6 +31,11 @@ sources:
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch06]]"
 aliases:
   - 'Mechanical ventilation (機械通氣)'
   - 'Mechanical ventilation'
@@ -45,7 +50,7 @@ tags:
 
 ## Summary
 
-呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +81,22 @@ tags:
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book3-ch08]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch06]]
 
 ## Key Details From Sources
 
+- (D) 9. 當你接收到一位嚴重創傷已插有氣管內管插管 (endotracheal tube) 103(二)專 的轉診病人時,下列處置何者最適當? 醫五-73 - (A) 儘快接上呼吸器 - (B) 趕快評估其他未被發現的傷害 - (C) 迅速地拔除氣管內插管並給予足夠的氧氣 - (D) 檢查氣管內插管的位置是否在正確位置上 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (3) 插管和呼吸機支持:給予呼氣終端壓力(PEEP)、適當止痛。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- TLC = total lung capacity 總肺容積 Vt = tidal volume 潮氣容積, 一般吸吐氣量 IC = inspiratory capacity 最大吸氣容積 FRC = functional residual capacity 功能性肺餘容積 ERV = respiratory revserve volume 吐氣保留容積, 一般吐氣保留之可吐氣容積 RV = residual volume 條肺容積, 無法利用來吸吐氣之容積 VC = vital capacity Source: [[sources/med5-book4-ch03|丙、肺]].
+- | Respiratory rate | 2 | > 70 mm Hg (FiO 2 of 40%) | | PaCO 2 | 2 O | | Rapid shallow breathing index, RSBI | ≤ 105 (70% will pass extubation)= respiratory rate/tidal volume [L] | Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 1. 下列何者不是脫離呼吸器 (weaning from ventilator) 的條件? 107 (-) 專 - (A) 呼吸速率 70 mmHg ( $FiO_2$ 40%) Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...netrating | | Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibrosis (IPF) | Postsurgical | | - Pulmonary embolism | Other | Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (B) 2. 一位 67 歲女性因為自殺而住進加護病房,在插管呼吸器治療 10 98(二)專 天後,發現鼻胃管的食物會由氣管內管抽出,臨床懷疑是氣管食 醫五-22 道瘻管合併吸入性肺炎,接下來的處置,下列何者錯誤? - (A) 檢查氣管鏡、胃鏡看是否有氣管食道瘻管 - (B) 應拔除鼻胃管使氣管食道瘻管自行癒合 - (C) 先予以感染控制及營養支持,再行手術 - (D) 手術主要施予瘻管切除及食道修補手術 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...mous cell carcinoma (D) small cell carcinoma (B) 5. 關於氣管造口術,下列敘述何者錯誤? 100(一)專 (A) 其適應症包括分泌物多無法自咳、氣管阻塞、肺部功能不良 醫五-34 需長期使用呼吸器 Source: [[sources/med5-book4-ch06|己、氣管]].
 - 1. 剖腹切肝 (Open liver resection): - (1) 最常見的開腹法是賓士切法。左右兩邊做胸骨下緣切開(subcostal incision), 中線向上畫到劍突(xiphoid process)。 - (2) 可將病人擺成頭低腳高的姿勢(Trendelenburg position),減少術中的失血量。 - (3) 呼吸器可給予 5 cm $H_2O$ 的吐氣末端正壓 (positive end-expiratory pressure),避免空氣栓子。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - (C) 6. 一個 75 歲的男性病患因腹部主動脈瘤接受手術治療,植入 Gortex graft。病人在過去並無腸胃方面的症狀,術後 40 小時,病人在 加護病房中,突然出現多次大量的褐色腹瀉,病人仍依靠氣管 內管(endotracheal tube)及人工呼吸器呼吸,意識不甚清醒 且無法說話,身體檢查並無腹部壓痛,或反彈性壓痛,體溫 37℃,白血球數為 10,000/mL。此時最可能的診斷是什麼? Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -89,14 +107,6 @@ tags:
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 【詳解】(A)(B)(D)屬 clean wound,不需預防性抗生素,(C)手術過程牽涉到呼吸器官/腔隙,需給予預防性抗生素。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (B) 嚴重酸性化學灼傷若引起血中酸鹼值異常及呼吸困難,可能 需要氣管內插管及使用呼吸機(ventilator)協助呼吸 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- 1. 依照中華民國九十三年八月九日行政院衛生署公布之腦死判定準則摘要: - (1) 腦死判定應符合下列各款之先決條件(第三條): - a. 病人陷入深度昏迷,昏迷指數應為五或小於五,且必須依賴人工呼吸器維持呼吸。 - b. 病人昏迷原因已經確定。 - c. 病人係遭受無法復原之腦部結構損壞。 - (2) 應排除可逆性之昏迷(第四條): - a. 因新陳代謝障礙、藥物中毒或低體溫所導致之昏迷。 - b. 罹病原因不明之昏迷。 - (3) 下列腦幹反射皆完全消失(第六條):其中一個正常就不算腦死。 - a. 頭眼反射 (Doll's eye sign):正常情況下,將病人頭部轉動,眼球會轉向相反 方向,例如頭往右轉,眼球會向左轉。 - b Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
-- 1. 處理原則: - (1) 檢查呼吸道有無暢誦,GCS ≤ 8的話緊急插管。 - (2) 檢查血氧濃度,不夠的話給予呼吸器。 - (3) 檢查脈搏和血壓,維持 SBP > 90 mmHg。 - (4) 評估胸部和腹部是否也有受傷(PE、影像檢查)。 - (5) 評估意識狀態及局部神經學症狀,考慮脊髓是否受傷(頭顱脊髓 X 光、CT)。 - (6) 最後才檢查肢體有無撕裂或骨折(X光)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- (A) 2.54 歲的陳先生,因數月來漸進性手腳末端無力、肌肉萎縮及肢體 106(-)專 僵硬感,被診斷為運動神經元病變,而至門診諮詢其後之照護問 醫四-54 題。下列敘述何者錯誤? - (A) 具高度遺傳傾向(> 50%的可能性) - (B) 生命期約 2~5 年 - (C) 末期需藉呼吸器維持生命 - (D) 有藥物可減緩病程惡化 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (1) 氧氣:利用呼吸器維持病人 $PaO_2$ 在 $50\sim90$ mmHg 以維持適當的組織氧合狀態,同時避免高氧的傷害與高二氧化碳造成肺部血管阻力。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 3. 處理:若有呼吸窘迫應立即插管,禁止使用面罩甦醒氣按壓(因為會使腸胃道空氣更多,更加壓迫肺部),接上呼吸器後最大吸氣壓力(peak inspiratory pressure)也不宜太高,使用 permissive hypercapnia 原則( $PaCO_2$ 在 45~60 mmHg 即可)。手術時機目前沒有定論,但一般會在生命徵象穩定後 4~48 小時且肺壓降下來才手術。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 5. 2,000 公克早產兒在加護病房住院近兩個月,她因為雙側腎臟發育 不全而合併慢性腎衰竭,又因為肺發育不全合併肺炎一直倚賴 呼吸器治療,於3週前需開始長期腹膜透析以維持電解質及體 液等平衡。很不幸地,這兩天醫師發現嬰兒發燒、透析液轉為 混濁,並且流量大為減少,初步檢查診斷為黴菌性腹膜炎,除 了用藥外,醫師建議手術更換腹膜透析管。這時候,不滿 20 歲 的年輕父母親要求醫師:「她實在好可憐,不要救了,讓她走吧, 請幫我們移除呼吸器,讓我們回家吧!」。下列何種做法最合適? - (A) 父母生她,也是法定代理人,必須由父母移除其呼吸器 - (B) 取得父母同意書後,施予 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (D) 對於有昏睡或意識障礙的肝病病童,若血氨(Ammonia)已 經上升且合併第二期肝腦病變(Hepatic encephalopathy Stage II)之意識混淆及嗜睡,應立即插管使用呼吸器 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...能不佳可注射維生素 K、給予新鮮冷凍血漿 FFP 或是血小板控制。此外,急性肝衰竭病人要注意血管內容積不足,因此需維持點滴輸液、補充電解質以及防止水份從腎臟流失。至於是否要輸白蛋白並無共識。當肝性腦病變出現 stage 4 時,應要插管使用呼吸器。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 
@@ -105,7 +115,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/flail-chest|Flail chest (連枷胸)]]
+- [[procedures/tracheostomy|Tracheostomy (氣管造口術)]]
 
 ## Follow-up
 

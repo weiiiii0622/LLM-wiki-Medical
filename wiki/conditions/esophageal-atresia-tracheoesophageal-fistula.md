@@ -2,12 +2,15 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Esophageal atresia and tracheoesophageal fistula, EA/TEF (食道閉鎖與氣管食道瘻管)'
   - 'Esophageal atresia and tracheoesophageal fistula, EA/TEF'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-新生兒唾液多、嗆咳與無法置入胃管時需懷疑，可合併 VACTERL。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+新生兒唾液多、嗆咳與無法置入胃管時需懷疑，可合併 VACTERL。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,19 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch10]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- C. 食道閉鎖和氣管食道瘻管 (Esophageal atresia and tracheoesophageal fistula) 83 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- # C. 食道閉鎖和氣管食道瘻管 (Esophageal atresia and tracheoesophageal fistula) Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (1) 食道閉鎖:是先天性食道不連續導致食道阻塞。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- C. 食道閉鎖和氣管食道瘻管 (Esophageal atresia & Tracheoesophageal fistula) *140* Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- C. 食道閉鎖和氣管食道瘻管 (Esophageal atresia & Tracheoesophageal fistula) Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- (1) 食道閉鎖:是先天性食道不連續導致食道阻塞。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- (C) 食道閉鎖 (esophageal atresia) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - IV. 食道(Esophagus) 64 - A. 先天性食道閉鎖與食道氣管瘻管 64 - B. 裂孔疝氣 67 - C. 胃食道逆流疾病 67 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - # A. 先天性食道閉鎖與食道氣管瘻管 (Esophageal atresia and tracheoesophageal fistula) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) 食道閉鎖是先天性食道畸形中最常見的疾病,平均活產10,000新生兒中就有一位。 Source: [[sources/med4-book1-ch02|乙、消化系統]].

@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
@@ -44,6 +44,7 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch19]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Adrenal gland (腎上腺)'
   - 'Adrenal gland'
@@ -58,7 +59,7 @@ tags:
 
 ## Summary
 
-腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +103,11 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch19]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- 下列對於神經母細胞瘤的敘述,何者錯誤? 醫五-47 - (A) 神經母細胞瘤源自於神經 細胞 (neural crest cells),是交感神經系統的惡性腫瘤 - (B) 大約有 65% 的神經母細胞瘤是發生在腹部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - E. 腎上腺性器症候群 (Adrenogenital syndrome) 238 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 1. 腎上腺位於腎臟上方,屬於後腹膜器官,外層為皮質,內層為髓質。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 3. 髓質: - (1) 嗜鉻細胞(chromaffin cell)分泌腎上腺素、正腎上腺素。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -122,7 +125,6 @@ tags:
 - (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - | 接受體 | 相關副作用 | |--------------------------------------------------------------|-----------------------| | 組織胺受體(anti-histamine) | 頭昏、鎮靜、食欲增加,常用在幫助老人的安眠 | | 膽鹼性受體(muscarinic cholinergic receptor antagonist) | 便秘、口乾、視力模糊,老人用容易產生譫妄 | | $\alpha_1$ 腎上腺受體( $\alpha_1$ adrenergic receptor antagonist) | 頭昏、姿態性低血壓,老人使用容易半夜跌倒 | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (B) 6. 關於抗精神病藥 (antipsychotics) 的副作用及其主要藥物機轉之 103(ニ) 専 配對,下列何者正確? - (A) 口乾:血清素 (serotonin) 再回收阻斷作用 - (B) 姿勢性低血壓 (orthostatic hypotension) : 甲型腎上腺素受體 (α adrenergic receptors) 阻斷作用 - (C) 錐體外症候群 (extrapyramidal syndrome): 多巴胺 (dopamine) 再回收阻斷作用 - (D) 尿液滯留:甲型腎上腺素受體(α adrenergic receptors) 阻斷作用 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- (AD)10.王小姐因感冒、噁心、吃不下飯,到衛生所求診,李醫師處方 了咳嗽藥水及止吐藥腹寧朗(Primperan),王小姐服用後約1 小時,舌頭不自主地吐出來,因此,很慌張地回到衛生所求助, 李醫師馬上處理,下列方法何者最不適當? - (A) 予以安慰(reassurance),告知不會有大礙,勸慰王小姐放輕鬆,慢慢呼吸,給予催眠(hypnosis) - (B) 肌肉注射抗過敏藥物: diphenhydramine - (C) 靜脈注射鎮靜劑: diazepam - (D) 口服乙型腎上腺素受體阻斷劑 (β-adrenergic receptor blocker): propranolol Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 
 ## Clinical Caveats
 

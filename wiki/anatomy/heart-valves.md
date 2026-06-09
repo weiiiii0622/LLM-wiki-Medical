@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch01]]"
@@ -36,6 +36,9 @@ sources:
   - "[[sources/med5-book3-ch04]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch01]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Heart valves (心臟瓣膜)'
   - 'Heart valves'
@@ -50,7 +53,7 @@ tags:
 
 ## Summary
 
-瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +89,16 @@ tags:
 - [[sources/med5-book3-ch04]]
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch01]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- 4. 好發位置:在迴腸上,距離迴盲瓣 (ileocecal valve) 45 至 60 公分,在腸繋膜相對的一側。(相對位置說明:腸繋膜—迴腸—梅克爾憩室,即所謂的腸繫膜對側 (antimesenteric side))。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (2) 2 feet from the ileocecal valve: 距離迴盲瓣 2 英尺。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 4. 臨床表現:呼吸受限、運動性肋軟骨疼痛、心悸或心雜音,二尖瓣脫垂,較嚴重者 會有明顯的心肺功能下降,因嚴重壓迫造成肺最大呼吸容積下降、心搏出量和心輸 出量下降。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
+- (B) 擠甦醒球(bag-valve-mask) 時聽不到呼吸聲 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 4. 常見病灶位置:近 ileocecal valve 的腸繋膜對側。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - 5. 病灶處通常在距 ileocecal valve 2 英呎 (60 cm) 的地方。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - (A) 位置距離迴盲瓣 (ileocecal valve) 2 英吋 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
@@ -103,10 +113,6 @@ tags:
 - (1) 左心發育不全,左心房和心室比正常人小很多(見下圖左),常合併主動脈弓窄縮、主動脈瓣狹窄/閉鎖以及二尖瓣狹窄/閉鎖。由於左心和主動脈幾乎無作用,全身血液循環需藉由肺動脈經 PDA 供應。而冠狀動脈的血流來源也倚靠肺動脈、動脈導管,經主動脈、倒流回冠狀動脈,導致心肌灌流不足。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - A. 僧帽瓣 (Mitral valve) 68 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - B. 主動脈瓣 (Aortic valve) 70 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- D. 人造瓣膜的選擇 (Prosthetic valve) 72 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- (1) Absolute: - a. 嚴重的 AR, 在舒張期 aortic valve 關不緊,此時還將 balloon 充氣會使血液回流至左心室,造成左心室的 loading 太大。 - b. 病人有 aortic dissection 或 aneurysm 的時候,造成額外的壓力波動有可能讓 dissection 裂得更大,或使 aneurysm 破掉。 - c. 嚴重的 aorta-iliac artery 的鈣化,此種脆弱的血管容易有風險。 - d. 不適合心臟移植的慢性末期心衰竭患者(用了幫助不大)。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- ...------| | 若不治療會持續數週到數年之久。 | | | (A) 26. 關於雙極性疾患(bipolar disorder)治療藥物之敘述,下列何者錯誤? (A) lithium 在懷孕婦女身上所造成畸胎性,最常見 Ebstein 氏三尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- ...其症狀都 在半小時內緩解。本案例最可能的診斷是: (A) 癲癇發作 (B) 恐慌症 (C) 失憶症 (D) 心律不整 (D) 17. 承上題,下列那一項疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalize Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 
 ## Clinical Caveats
 
@@ -115,6 +121,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/carcinoid-syndrome|Carcinoid syndrome (類癌症候群)]]
 - [[conditions/infective-endocarditis|Infective endocarditis (感染性心內膜炎)]]
 - [[procedures/valve-replacement-repair|Valve replacement/repair (瓣膜置換與修補)]]
 

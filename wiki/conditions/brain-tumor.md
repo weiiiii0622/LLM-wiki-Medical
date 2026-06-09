@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch15]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch09]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Brain tumor (腦瘤)'
   - 'Brain tumor'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-顱內腫瘤依組織來源、位置與 grade 造成 seizure、IICP、focal deficit 或 endocrine symptoms。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內腫瘤依組織來源、位置與 grade 造成 seizure、IICP、focal deficit 或 endocrine symptoms。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book1-ch15]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch09]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ## 壬、腦瘤 (Brain Tumors) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. 最常見原發性腦瘤,在舊分類中屬於神經膠質瘤(glioma),好發於 40~60 歲,男: $\phi=2:1$ 。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...瘤 (glioblastoma multiforme, GBM),有微小血管增生或是壞死 (also show microvascular proliferation and/or necrosis),為惡性,平均年齡 56歲,最常見原發性腦瘤。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

@@ -2,13 +2,15 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch10]]"
   - "[[sources/med5-book3-ch05]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch06]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Colonic volvulus (大腸扭轉)'
   - 'Colonic volvulus'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-大腸腸段沿腸繫膜扭轉造成閉塞與缺血風險，常見於 sigmoid 與 cecum。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸腸段沿腸繫膜扭轉造成閉塞與缺血風險，常見於 sigmoid 與 cecum。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch06]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- E. 轉位異常中腸扭結(Malrotation & Midgut volvulus) 152 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (D) Gastric volvulus Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (6) 檢查 & 診斷: - a. KUB 呈 double bubble sign (air-filled stomach and duodenal bulb),且遠端腸無空氣,即可確診。 - b. 如果遠端有腸氣,需進一步安排上消化道鋇劑攝影,以鑑別十二指腸狹窄或中腸扭轉(midgut volvulus)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (C) 中腸扭結 (midgut volvulus) Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - 4. 其他:10% - (1) 腸套疊 (intussusception)。 - (2) 腸扭結(volvulus)。 - (3) 膽石阻塞 (gallstone ileus)。 - (4) 先天性閉鎖。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
 - (D) 6. 下列何種症 狀或檢查和中腸扭結 (midgut volvulus) 無關? 102(-) 専(A) 血便 - (B) 貧血 - (C) 腹脹 - (D) 腹部 X 光攝影 (plain abdomen) 可用來確定診斷 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - Redundant limb (volvulus) Source: [[sources/med5-book3-ch03|丙、胃癌]].

@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Gastrinoma / Zollinger-Ellison syndrome (胃泌素瘤／Zollinger-Ellison 症候群)'
   - 'Gastrinoma / Zollinger-Ellison syndrome'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-gastrin 分泌腫瘤造成 refractory peptic ulcer disease、胃酸過多與腹瀉，可與 MEN1 相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+gastrin 分泌腫瘤造成 refractory peptic ulcer disease、胃酸過多與腹瀉，可與 MEN1 相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ gastrin 分泌腫瘤造成 refractory peptic ulcer disease、胃酸過多與腹�
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...| $(\Lambda)$ | (A) Down syndrome (B) Peutz-Jeghers syndrome | 醫五-25 | | | | 酉 北 ~ 20 | | | (C) Mikulicz's syndrome (D) Zollinger-Ellison syndrome | | | (B) | 5.「Double-bubble sign」與下列何種疾病有關? | 98(二)專 | | | (A) 肥厚性幽門阻塞(hypertrophic pyloric stenosis) | 醫五-54 | | | (B) 十二指腸閉鎖(duodenal atresia) | | | | (C) 腸轉位異常(malrotation of midgut) | | | | (D) 腸套疊 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 6. 胃泌素瘤 (Gastrinoma)。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (B) 對於 gastrinoma 引起的腸胃道急性出血,使用 proton pump inhibitors 是無效的 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - B. Gastrinoma(胃泌素瘤) 229 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].

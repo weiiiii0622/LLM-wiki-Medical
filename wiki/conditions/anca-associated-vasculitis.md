@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch05]]"
@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'ANCA-associated vasculitis (ANCA 相關血管炎)'
   - 'ANCA-associated vasculitis'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `�
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...eumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Postirradiation | | ● Pulmonar Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (11) 膠原纖維疾病 (Collagen diseases): 硬皮症 (Scleroderma)、風濕免疫 (rheumatoid disease)、紅斑性狼瘡 (systemic lupus erythematosus)、皮肌炎 (dermatomyositis)、 韋格納肉芽腫 (Wegener granulomatosis)、古帕斯捷氏綜合徵 (Goodpasture syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 皮膚切片下為 leukocytoclastic vasculitis 的表現,會有 neutrophil 浸潤於血管本身或 周圍、nuclear dust、RBC 滲出到血管外、以及血管壞死。另可染 Direct immunofluorescence (DIF),去鑑別是哪種疾病引起的 small vessel vasculitis,例如: - (1) Henoch-Schönlein purpura:血管周圍有 IgA 沉澱。 - (2) Cryoglobulinaemia:血管周圍有 IgM 沉澱。 - (3) Cutaneous polyarteritis nodosa 和 ANCA-positive vasculitis: DIF 則多為 negative。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (B) 9. 下列那一種血管炎,c-ANCA(c-antineutrophil cytoplasmic autoantibodies)呈陽性的比例最高? - 一点,一点,一点, - (A) microscopic polyangiitis - (B) Wegener granulomatosis - (C) Henoch-Schönlein purpura - (D) Churg-Strauss syndrome Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 【詳解】c-ANCA 對 Wegener granulomatosis 較具專一性,microscopic polyangiitis 和 Churg-Strauss syndrome 則以 p-ANCA 為主,Henoch-Schönlein purpura 與 ANCA 無關。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].

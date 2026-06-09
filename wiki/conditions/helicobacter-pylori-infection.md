@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med3-book2-ch21]]"
@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Helicobacter pylori infection (幽門螺旋桿菌感染)'
   - 'Helicobacter pylori infection'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch02]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- 1. 機轉 & 成因:因食道長期受胃酸刺激,引起異生(metaplasia),由柱狀上皮取代複層上皮,雖然異生成柱狀上皮細胞可抗酸,但也容易癌化。常見原因為慢性胃食道逆流、幽門螺旋菌感染(Helicobacter pylori)、下食道括約肌無力或合併橫隔食道裂孔疝氣等會造成長期胃食道逆流現象者。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...。 - c. 好發於胃部近端,易由淋巴循環轉移。 - (2) 腸道型 (intestinal-type cancers, 30%): - a. 胃癌細胞結合性較佳,腫瘤細胞會排列成腺體構造。 - b. 好發於男性與年老病人。 - c. 與 H. pylori 的感染息息相關。 - d. 病灶好發於胃部遠端, 易由血液循環轉移。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (A) 2. 幽門螺旋桿菌(Helicobacter pylori)感染是產生胃癌最重要的危 109( ) 專 Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -68,7 +71,6 @@ H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。 
 - c. 用來治療 HIV 病患的 MAC (*Mycobacterium avium* complex) 感染; 可抗 G(-) 弧菌, 如 *Helicobacter pylori*、Vibrio、Campylobacter, 用於三合療法根除幽門螺旋菌的配方中。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (1) Tetracycline · Doxycycline · Minocycline - a. 對細菌的抗藥性高,主因細菌產生排出幫浦,將進入細菌的四環黴素迅速排出, 因此主要用在 - (a) 立克次體 (Rickettsia, 如恙蟲病= Scrub typhus, Q fever); - (b) 螺旋菌(Spirochetes,如 Lyme disease 造成的關節炎,對 PCN 過敏的梅毒患者替代用藥); - (c) 弧菌(H. pylori),用於合併治療根治幽門桿菌造成的消化性潰瘍。 - (d) 披衣菌 (Chlamydia trachomatis) 眼睛、泌尿系統感染;青春痘 (Acne)等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 4.2週:幽門螺旋桿菌造成胃潰瘍、神經性梅毒、急性腎盂腎炎。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...cholera, V. parahaemolyticus, V. vulnificus | ndv 🛧 | | | 腸道 | 桿 空腸彎曲桿菌 | Campylobacter | C. jejuni | 嗜 章* | | | 桿菌 | 菌幽門螺旋桿菌 | Helicobacter | H. pylori | 1" | | | | 假單胞菌 | Pseudomonas | P. aeruginosa | | | 桿菌(D) | | 類桿菌 | Bacteroid | B. fragilis | 厭氧 | | | 呼吸道桿菌 | 嗜血桿菌 | Haemophilus | H. influenzae, H. ducreyi | | | | | 博得氏菌 | Bordetella | B. Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

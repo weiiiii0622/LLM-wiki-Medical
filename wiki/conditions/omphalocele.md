@@ -2,12 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch13]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Omphalocele (臍膨出)'
   - 'Omphalocele'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-腹壁缺損且腸管由膜囊包覆，常合併染色體或其他先天異常。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹壁缺損且腸管由膜囊包覆，常合併染色體或其他先天異常。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch13]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- A. 臍膨出 (Omphalocele) 180 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
+- ### A. 臍膨出 (Omphalocele) Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
+- 2. 合併異常:約30% 病童有染色體異常包含 Trisomies 13、18、21,超過50% 病童有合併其他異常,以心臟異常最常見、其次為肌肉骨骼異常、腸胃道異常和生殖泌尿道異常。也很常出現 Beckwith-Wiedemann syndrome,以臍膨出(omphalocele)、高胰島素血症(hyperinsulinemia)和巨舌(macroglossia)為主要表現。預後較差,因易有其他合併異常。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
+- 【詳解】Beckwith-Wiedemann syndrome 包含臍膨出(omphalocele)、高胰島素低血糖症(hyperinsulinemia with hypoglycemia)、巨舌(macroglossia)、巨內臟(visceromegaly)。常併發或關聯之疾病:臍膨出、威爾氏腫瘤(Wilms' tumor)、橫紋肌肉瘤(rhabdomyosarcoma)、肝母細胞瘤(hepato-blastoma)、神經母細胞瘤(neuroblastoma)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - 10. 胃癌伴隨轉移會出現的症狀: - (1) 鎖骨上淋巴結腫大(Virchow's node)。 - (2) 臍膨出(Sister Mary Joseph's node)。 - (3) 直肛檢驗可摸到腫塊,表胃癌轉移至 Douglas puch (Blumer's shelf)。 - (4) 女性骨盆腔檢查可摸到腫大的卵巢(Krukenberg's tumor)。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - VII. 腹壁缺損 (Abdominal Wall Defect) 88 - A. 臍膨出 88 - B. 腹裂畸形 88 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - # A. 臍膨出 (Omphalocele) Source: [[sources/med4-book1-ch02|乙、消化系統]].

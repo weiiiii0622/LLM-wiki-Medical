@@ -2,11 +2,12 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Lower esophageal sphincter pressure (下食道括約肌壓力)'
   - 'Lower esophageal sphincter pressure'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-LES 壓力與短暫放鬆決定 GERD 風險，受荷爾蒙、神經、藥物與食物影響。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+LES 壓力與短暫放鬆決定 GERD 風險，受荷爾蒙、神經、藥物與食物影響。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch07]]
 - [[sources/med3-book2-ch06]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- 2. 上下食道括約肌(UES & LES): 食道兩個主要高壓區在上食道括約肌和下食道括約肌,難以直接從結構上辨認出。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 1. 機轉 & 成因:Achalasia 意即無法放鬆,為食道括約肌在放鬆期仍維持緊張收縮。 原因尚未明,可能為感染性神經退化所致,嚴重情緒壓力、創傷、過度減重、查格 氏症(Chaga's disease)等都是懷疑的可能因子。食道肌和下食道括約肌都可能受 到影響,目前接受的假說是下食道括約肌受損和食道體肌肉神經退化所致,造成吞 嚥時,下食道括約肌高壓無法放鬆,而高壓擠壓食道造成擴張而中止蠕動前進。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (A) 現在的理論是支配 lower esophageal sphincter 之神經受損所致 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (A) 特徵為缺乏食道蠕動,下食道括約肌無法完全放鬆,進而增加下食道括約肌的壓力 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...波。 - (1) 若僅是間歇性發生,可懷疑是 diffuse esophageal spasm, 然而這些病人有可能會進展到 achalasia。 - (2) 併有呼吸道的症狀,可懷疑是 achalasia,因為 achalasia 的病人下食道括約肌(lower esophageal sphincter, LES)無法放鬆,食物會積在食道,可能多到會跑到氣管內,而有呼吸道症狀或咳嗽、嘔吐等。 - (3) 長期有 heartburn 的症狀,可懷疑是 scleroderma,因為 scleroderma 的病人其食道 肌肉纖維化,導致下方括約肌 LES 無法收縮,容易有胃酸逆流、heartburn 症狀。且食道蠕動推進功能受損,亦可導致吞嚥困難。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
 - (4) **Achalasia**, showing a dilated esophageal body with an air-fluid level and a closed lower esophageal sphincter; 典型的食道末端鳥嘴狀,且造成上段擴張。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].

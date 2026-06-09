@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch04]]"
@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Lipid profile (血脂檢查)'
   - 'Lipid profile'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book3-ch17]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- (2) 保守治療:中鏈三酸甘油脂飲食或全靜脈營養。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 2. 代謝性:高三酸甘油脂。 High TG Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - ...尿管結石去過急診,最近常感到倦怠、四肢肌肉無力, 醫五-47 則下列何種檢查,較無診斷價值? (A) 血鈣濃度 (B) 血中鹼性磷酸酶 (alkaline phosphatase) 濃度 (C) 血中副甲狀腺素(iPTH)濃度 (D) 血中三酸甘油脂(triglyceride)濃度 (D) 12. 下列何者與血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維他命 D (C) 抑鈣激素 (D) 雌性激素 (C) 13. 一位 57 歲的尿毒症病患,5 年來持續接受血液透析治療,直到 99(二)專 2個月前接受了腎臟移植手術。最近他開始出現皮膚搔癢、腹痛、 醫五-58 骨頭酸痛等現象,抽血檢查鈣值為 12 mg/dL。下列何者是此患 者最可能的診斷? Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -76,7 +79,6 @@ tags:
 - ...----------------------|--------------|-----------------|------------| | Risk | IIa Familial hypercholesterolemia (FH) | LDL | Chol ↑ ↑ | LDL R. 有問題 | | of CAD | IIb Familial combined hyperlipidemia | LDL & VLDL | Chol & TG ↑ | 和 DM、肥胖有關 | | | III Familial dysbetalipoproteinemia | IDL & Chylo. | Chol & TG ↑ | Apo E 有問題 | | No risk | I Familia Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
 - | (B) | 1. | 構成 VLDL、IDL 及 LDL 的(A) 內臟脂肪(C) 腸 | 表面蛋白 Apo B-100,由下列何者分泌?(B)肝(D)骨骼肌 | 97(一)專醫三-41 | |------|-----|------------------------------------------|-------------------------------------------|-------------| | (B) | 2. | 下列何者不是家族性膽固醇 | | 95(一)專 Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
 - ...腹部肥胖:腰圍>90(男)/80(女)cm或腰/臀>0.9。 - b. 高血壓 (BP > 130/85 mmHg 或已服用降壓藥),高血糖 (空腹血糖 > 100 mg/dL 或已服用降血糖藥),高血脂 (TG > 150 mg/dL、HDL dL | 100~125 mg/dL | ≧ 126 mg/dL | | 兩小時葡萄糖耐受時驗 (OGTT) | 正常人 | Impaired glucose tolerance (IGT)葡萄糖耐受失調 | 糖尿病 | | (喝下75g葡萄糖水之後兩小時) | dL | 140~199 mg/dL | ≧ 200 mg/dL | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- (2) 有高血壓( $\ge$ 140/90 mmHg 或已在吃血壓藥)、血脂異常(TG > 250 mg/dL、HDL 4kg)、有多囊性卵巢症。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 
 ## Clinical Caveats
 

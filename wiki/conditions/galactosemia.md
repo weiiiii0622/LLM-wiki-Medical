@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Galactosemia (半乳糖血症)'
   - 'Galactosemia'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-半乳糖代謝缺陷可造成新生兒肝病、敗血症、白內障與餵食問題。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+半乳糖代謝缺陷可造成新生兒肝病、敗血症、白內障與餵食問題。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- (2) 尿液分析:以排除半乳糖血症(galactosemia)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (A) 糞便檢查中無還原物質(reducing substances) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 半乳糖血症 (galactosemia) 是因攝食過量乳糖所致 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】(A) 胰臟分泌胰澱粉酶。(B) 在斷奶後,乳糖酶的分泌會減少。(C) 乳糖不耐症是因為消化道無法分解乳糖,造成渗透壓上升進而產生腹瀉。(D) 半乳糖血症病人仍具有乳糖酶分解乳糖,但對半乳糖無法消化吸收。 Source: [[sources/med4-book1-ch02|乙、消化系統]].

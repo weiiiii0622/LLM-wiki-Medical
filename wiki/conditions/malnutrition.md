@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch05]]"
@@ -14,6 +14,9 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch12]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Malnutrition (營養不良)'
   - 'Malnutrition'
@@ -28,7 +31,7 @@ tags:
 
 ## Summary
 
-能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +45,15 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch12]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Po Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...duodenojejunostomy (D) Ladd's procedure (D) 6. 一嬰兒出生幾天後發生嘔吐的現象,經診斷為腸道扭轉不全 102(一)專 (Malrotation),引起此症狀最主要的原因為何? 醫五-1 (A) 營養不良 (B) 胎便排出困難 (C) 肺形成不全 (D) 十二指腸阻塞或中腸扭結(Midgut volvulus) (D) 7. Ladd's procedure 是下列何種疾病的手術方式? 101(二)專 (A) 小腸閉鎖 (intestinal atresia) 醫五-47 (B) 無肛症 (imperforate anus) (C) 小腸複製畸型 (intestinal duplication) (D) 小腸扭轉不全 (malrotat Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...最常見、膽道閉鎖(biliary atresia) 為第二常見、α1 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency)第三常見。 - (b) 進一步評估:尿液、血液(血球計數、凝血功能、α1-antitrypsin、albumin)、肝膽超音波、經皮肝臟穿刺、肝膽道閃爍攝影(現在幾乎不使用)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 2. 營養不良 (Malnutrition): - (1) 約有30%的病患在術後會有營養不良的情況。 - (2) 會導致鐵、葉酸、Vit. B12、鈣以及 Vit. D 的吸收不良,進而導致貧血、神經病變、 失智症等症狀出現,必須要適時的補充這些營養元素。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 【詳解】內科外科都會考,未來在內外科用到的機會也非常多。 由 Encephalopathy(1), Ascites(1), Bilirubin(2), Albumin(1), PTINR(1)所組成。此病人算起來 6 分。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - (A) serum albumin level Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].

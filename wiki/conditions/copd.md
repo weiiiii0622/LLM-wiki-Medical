@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book1-ch15]]"
@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'COPD (慢性阻塞性肺疾病)'
   - 'COPD'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,15 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...-----------------------------------------|------------------------| | Primary | Penetrating | | Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (C) 慢性阻塞肺病(COPD)引起的氣胸為續發性(secondary) 氣胸 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 3. 大泡肺氣腫 (bullous emphysema): - (1) 機轉 & 成因:成因為單純先天性氣腫或慢性阻塞性肺病之併發肺氣腫。在治療 上的挑戰為區別出肺功能喪失是來自於氣腫或慢性肺氣腫或慢性支氣管炎。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) COPD 引起之 emphysema 與長期抽菸有密切相關 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 見下表,以 AAA 為例,年齡、活動度、心臟(CAD、AMI等)、肺功能(FEV1、COPD)、腎功能、AAA 的 type 及肝功能等都會影響到手術的 mortality,其中以心臟(CAD) 為最主要的手術危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (4) 嚴重的慢性阻塞性肺病, $FEV_1 5 Wood units) | | | | (D) 22 歲女性罹患良性心臟內腫瘤合併反覆性心室性頻脈,無 | | | | 法以外科手術切除者 | | | | 【詳解】(C) 心臟移植後有馬上右心室衰竭的風險。 | | | (B) | 3. 在下列何種情況下,作異位心臟移植(heterotopic transplantation) | 99(二)專 | | | 比正位心臟移植(orthotopic transplan Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - ...同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPI Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -81,10 +89,6 @@ tags:
 - #### E. COPD 嚴重度分級與分組 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - | 分數 | 症狀 | 中文翻譯幫助記憶 | COPD grade | |----|------------------------------------------------------------------------------------------------------|-------------|--------------| | 0 | I only get breathless with strenuous exercise. | 強烈運動才喘 | Less sym Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - A. 氣喘和慢性阻塞性肺疾比較 242 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- #### A. 氣喘 (Asthma) 和慢性阻塞性肺疾 (COPD) 比較 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- | 疾病 | 氣喘 (Asthma) | 慢性阻塞性肺疾 (COPD) | |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------ Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- ...一秒吐氣量( $FEV_1$ )可能都會比預測值低。 - b. 但若是阻塞性(Obstructive)肺疾病,因為氣管變窄,使得第一秒吐氣量(FEV1)變小程度更大,因此 FEV1/FVC 比值下降則可用來偵測阻塞性肺病,包含氣喘、肺阳塞(COPD)。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- | 分 類 | 疾病 | 肺功能 | | 順應性 | |------------------------------|--------------------------------------|---------------------------------------|--------------|----------------| | 阻塞性肺疾Obstructive disease | 氣喘 (Asthma)慢性阻塞性肺疾 (COPD) | (FEV 1 /FVC) ↓( (肺氣腫) | | 限制性肺疾Restrictive disease | 間質性肺疾(Interstitial lung disease) | (FEV₁/FVC) ↑ | TLC ↓ | 順應性降低 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 

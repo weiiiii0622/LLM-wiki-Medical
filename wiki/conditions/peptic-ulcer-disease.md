@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med3-book2-ch08]]"
@@ -32,6 +32,7 @@ sources:
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch01]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Peptic ulcer disease (消化性潰瘍)'
   - 'Peptic ulcer disease'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,13 @@ tags:
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch01]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (C) 3. 一位 25 歲女性,到急診處主訴突發嚴重胸口心窩處疼痛(retrosternal pain),其症狀因深呼吸或吞嚥動作而加重。病人體溫 醫五-55 36.8℃、心跳 110/min、血壓 140/80 mmHg、臉色稍顯蒼白、腹 部平坦、柔軟無壓痛。病人身材瘦削,但她始終擔心過於肥胖 而常將吞進去的食物用挖喉嚨的方式嘔出。請問病人此次發作 的最可能原因是: - (A) 胃食道逆流(gastroesophageal reflux) - (B) 張力性氣胸 (tension pneumothorax) - (C) 食道自發性破裂 (Boerhaave's syndrome) - (D) 消化性潰瘍 (peptic ulcer) Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (C) peptic ulcer (D) gastritis Source: [[sources/med5-book4-ch05|戊、食 道]].
 - I. 潰瘍穿孔(Perforated peptic ulcer disease, PPU) 15 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - #### 乙、消化性潰瘍 (Peptic ulcer disease) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 1. 消化性潰瘍主要發生在胃部與十二指腸。因胃部或十二指腸的黏膜遭胃酸或胃蛋白酶的破壞,導致一系列的損傷與併發症。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -96,9 +101,6 @@ tags:
 - (A) 因急性十二指腸潰瘍穿孔接受腹腔鏡十二指腸修補縫合術, 術後第三天,鼻胃管仍留置,每日引流量約為六百毫升 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - | (D) 21. 下列那一位腦死病患,最不適合成為腎臟移植的捐贈者? (A) 43 歲,糖尿病病患 (B) 35 歲,腎結石病史者 (C) 37 歲,十二指腸潰瘍病史 (D) 20 歲,HIV 陽性 | 98(二)專醫五-5 | |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (BC)26. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證 實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲 知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外 籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀 而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。 下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (D) 22. 一位 45 歲病患,在中風症狀發生後 1 小時之內被送到某醫學中心。經過頭部電腦斷層檢查、急診科與神經內科醫師的評估後,病患符合施打血栓溶解劑 r-tPA 的條件,家屬很焦急的詢問有關r-tPA 的禁忌症。下列何者非急性梗塞性腦中風(acute stroke)病患使用 r-tPA 的絕對禁忌症? - (A) 先前曾經有過腦出血 - (B) 有胃潰瘍病史 - (C) 1 個月前有缺血性腦中風 - (D) 3 週前動過顱內手術 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 1. 外科急症:接觸病人時,首先要排除外科急症的可能性。如腸套疊、闌尾炎、消化 道扭轉(volvulus)、消化道潰瘍破裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如 睪丸扭轉)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 【詳解】任何腹痛應優先排除外科急症,腸套疊、闌尾炎、 消化 道扭轉(volvulus)、消化 道潰 瘍破 裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如睪丸扭轉)。(C) 一開始表現為右 下腹痛,臨床表現與急性闌尾炎相似,但急性腸繫膜淋巴腺炎 為自限性(self-limiting)疾病。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

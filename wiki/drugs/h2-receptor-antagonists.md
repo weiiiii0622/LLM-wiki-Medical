@@ -2,12 +2,13 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'H2 receptor antagonists (H2 受體拮抗劑)'
   - 'H2 receptor antagonists'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-抑制胃酸分泌，可用於 GERD 或潰瘍相關症狀控制。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制胃酸分泌，可用於 GERD 或潰瘍相關症狀控制。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book2-ch11]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book3-ch01]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- e. 質子幫浦抑制劑(proton pump inhibitors):藉由不可逆地結合在壁細胞上質子幫浦抑制胃酸產生,最大效果在治療後第4天,而藥效持續直到壁細胞凋亡,所以藥效在停藥後仍可持續4~5天,所以使用PPI患者需停藥一週後再做pH monitoring檢查。且比起 H2 blocker 更有效幫助食道潰瘍癒合。副作用為頭痛、腹痛、腹瀉。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 4. 補充:這邊不得不提到一顆好藥:**Proton pump inhibitor**。由圖片可知 Parietal cell 可受到**神經細胞**與**腸道賀爾蒙(histamine、Gastrin**)這三個 pathway 來控制胃酸的分泌。傳統的 H2 blocker 只能 block histamine 的 pathway,並不能有效控制胃酸的分泌,但 PPI 卻能有效直接抑制幫浦,直接 block 住三線 pathway,抑制胃酸的分泌,也大大減低近年來因 peptic ulcer 所帶來的 complication 如出血或穿孔。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - 8. H2 blocker 或是 PPI 去減輕 stress ulcer。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - (D) $H_2$ 接受器抑制劑( $H_2$ receptor blocker),如 ranitidine 是沒有治療效果 Source: [[sources/med4-book2-ch11|子、其 他]].

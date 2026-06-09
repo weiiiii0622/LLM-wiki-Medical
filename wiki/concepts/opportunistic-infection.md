@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch20]]"
   - "[[sources/med3-book3-ch22]]"
@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Opportunistic infection (伺機性感染)'
   - 'Opportunistic infection'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (5) 動脈幹的嬰兒常合併有 Di-George 症候群(胸腺發育不全,致使 T 淋巴球免疫不全),預後不佳。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - ...immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -84,7 +87,6 @@ tags:
 - (5) 治療: - a. 在成人或免疫不全的病人身上,建議使用 acyclovir 治療,一般健康兒童感染 水痘則不須常規給 acyclovir。 - b. 不建議使用 aspirin 治療,容易產生 Reye syndrome。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】免疫不全患者應避免活菌疫苗的接種。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (A) 免疫不全的病童比一般兒童更容易發生菌血症 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (4) 免疫方面:胸腺發育部分或全部缺陷。 - a. 部分 DiGeorge 症候群佔大多數。 - b. 完全 DiGeorge 症候群因胸腺完全無發育,故 T 細胞嚴重缺乏,易引起伺機性感染。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

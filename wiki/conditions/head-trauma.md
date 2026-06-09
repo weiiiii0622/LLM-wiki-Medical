@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch10]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Head trauma (頭部創傷)'
   - 'Head trauma'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-頭部外傷可能造成顱骨骨折、EDH、SDH、腦挫傷、DAI、IICP 或腦疝。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+頭部外傷可能造成顱骨骨折、EDH、SDH、腦挫傷、DAI、IICP 或腦疝。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch10]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- (2) 手術修補、血管內支架置放:應先完成其他伴隨危急損傷評估,如:脾臟破裂、 骨盆骨折出血,並優先處理肺失能或頭部創傷至穩定,再進行血管修補。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - ## 乙、頭部創傷 (Head Trauma) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - 8. 輕度頭部創傷 (GCS = 13~15): - (1) 床頭向上傾斜 30~45 度。 - (2) 每兩小時作 NE。 - (3) NPO 直到意識正常。 - (4) 靜脈輸液。 - (5) 止痛、止吐。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - 9. 中度頭部創傷 (GCS = 9~12): - (1) 轉 ICU。 - (2) 要是 12 小時內 GCS 無法回復到 13 以上、臨床症狀惡化或是 ICP (intracranial pressure) 上升,則必須再作一次 CT 追蹤。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].

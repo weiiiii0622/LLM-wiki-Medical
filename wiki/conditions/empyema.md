@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch21]]"
@@ -11,6 +11,9 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Empyema (膿胸)'
   - 'Empyema'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-肋膜腔感染積膿，常需引流與抗生素。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔感染積膿，常需引流與抗生素。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,19 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book2-ch05]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- B. 膿胸(Empyema thoracis) 15 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...● Bacterial/ | Abdominal/ | Pulmonary | | • Meigs' syndrome | parapneumonic | Gastrointestinal | embolism with | | | ● Empyema | Disease Related | infarction | | | ● Tuberculosis | Esophageal | Asbestosis related | | | ● Fungal | perforation | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreati Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ### B. 膿胸 (Empyema thoracis) Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 持續漏氣(persistent leak)、縱隔腔炎(mediastinitis)、膿胸(empyema)、瘻管(fistula formation)、食十道狹窄(esophageal stricture)、肺炎(pneumonia)、膿瘍及敗血症。 Ref: Lampridis S, Mitsos S, Hayward M, Lawrence D, Panagiotopoulos N: The insidious presentation and challenging management of esophageal Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (D) 患者常合併膿胸和急性縱膈腔炎 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 7. 併發症 & 處理: - (1) 肺膿瘍破裂-引流。 - (2) 膿胸或支氣管肋膜漏管-肺葉切除。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 2. 臨床症狀:體重減輕、疲倦、咳嗽、咳血。以急性肺部感染最常見,常以壞死性肺 炎合併開洞及肺淋巴結腫表現,經常進展成膿胸,並侵犯胸壁,產生皮下帶硫磺顆 粒的膿瘍。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D) 1.68 歲農婦因右手輕微無力伴隨下肢輕微水腫來診,經診斷為二尖瓣狹窄 (mitral stenosis),超音波顯示為心房顫動 (atrial fibrillation) 且瓣膜開口為 1.35 cm²,過去有右側膿胸且經開胸治療之病史,下列敘述或處置何者正確?①中風之故,不應給與抗凝血劑,如 warfarin ②應建議進行心導管檢查 ③進行瓣膜手術,且可同時進行迷宮手術(Cox-Maze procedure) ④可選擇胸腔鏡或小傷口內視鏡進行手術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - ④ 「過去有右側膿胸且經開胸治療之病史」的病人,是胸腔鏡或小傷口內視鏡的 Contraindication。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (1) VATS 也可用來治療疾病: - a. 肺邊緣小結節切除、肺氣泡切除(bleb resection),肋膜切除(pleurectomy) - b. 膿胸 (empyema) 處理。 - c. 肺膜沾合術 (pleurodesis)。 - d. 交感神經切除術(sympathectomy):切除 T2 交感神經節,治療手汗(hyperhidrosis palmaris)。 - e. 心包膜開窗術 (pericardial window)。 - f. 較複雜的胸腔手術: 食道肌切開術 (myotomy)、縱膈腔或肋膜腫瘤的切除、肺葉或肺全切除術 (lobectomy or pneumonectomy) 以及食道切除術 (esophagectomy)等。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
@@ -58,6 +71,8 @@ tags:
 
 ## Related Pages
 
+- [[procedures/decortication|Decortication (剝皮術／纖維膜剝除術)]]
+- [[conditions/esophageal-perforation|Esophageal perforation (食道穿孔)]]
 - [[conditions/pleural-effusion|Pleural effusion (肋膜積液)]]
 
 ## Follow-up

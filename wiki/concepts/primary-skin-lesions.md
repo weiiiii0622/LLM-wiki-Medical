@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch02]]"
@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Primary skin lesions (基本皮膚病灶)'
   - 'Primary skin lesions'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,13 @@ tags:
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch23]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- E. 單一肺部結節 (Solitary pulmonary nodule) 43 Source: [[sources/med5-book4-ch03|丙、肺]].
+- **Reference:** Gould MK, Donington J, Lynch WR, et al: **Evaluation Of Individuals** With Pulmonary Nodules: When Is It Lung Cancer? *Chest* 2013; 143(5\_suppl): e93S-e120S. doi:10.1378/chest.12-2351. Source: [[sources/med5-book4-ch03|丙、肺]].
+- (A) 1. 下列對於單一肺結節(solitary pulmonary nodule, SPN)的敘述, 107 (二) 專 何者錯誤? 醫五 -27 - (A) 肺部內小於 2 公分的無症狀腫塊 (an asymptomatic mass within the lung parenchyma that is less than 2 cm) - (B) 小於 50% 是惡性 (less than 50% are malignant) - (C) 單一肺結節若具有良性鈣化特徵,通常不需手術治療(patient with Source: [[sources/med5-book4-ch03|丙、肺]].
 - 4. 治療:也可分成十二指腸潰瘍穿孔與胃潰瘍穿孔兩部分作治療。 - (1) 十二指腸潰瘍穿孔(Perforated duodenal ulcers): - a. 採用簡單縫合再加上 omental patch 與腹腔灌洗 (abdominal cavity lavage)。 - b. 若合併有幽門狹窄或出血,可 考慮神經幹切斷術(Truncal vagotomy)加上幽門整形術 (pyloroplasty)。 - c. 手術完成之後,必須針對幽門 桿菌感染持續治療。 - (2) 胃潰瘍穿孔(Perforated gastric ulcers): - a. 若病人生命徵像不穩定:於潰瘍處做切片及縫合即可。 - b. 視病人情況可考慮作迷走神經 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - ...除術 (truncal vagotomy + antrectomy) | | | (D) 高選擇性迷走神經切除術(highly selective vagotomy) | | | 【詳解】十二指腸潰瘍通常採用簡單縫合再加上 omental patch | | | 與腹腔灌洗(abdominal cavity lavage)。 | | | (D) 17. 承上題,術中不須作何處置? | 100(一)專 | | (A) 以生理食鹽水清洗腹腔 (B) 送幽門螺旋桿菌培養 | 醫五 -33 | | (C) 腹腔滲出物送細菌培養 (D) 術中超音波檢查 | | | 【詳解】偏肝膽系統的疾病才會使用到術中的超音波。 | | | (C) 18. 臨床懷疑 PPU (perforated pept Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 4. 診斷: 先以腹部超音波作為初步追蹤篩檢的工具。除了觀察肝內是否有不正常的 nodule,也可以看整個 liver 的 background 狀況。若真的有發現腫塊,進行下一步的檢查。 - (1) 小於 1 cm 的腫瘤:每 3 個月後作一次腹部超音波,若大小不變的話則回到正常 篩檢,若腫瘤變大的話則依據腫瘤大小作進一步的檢查。 - (2) 介於 1 cm 與 2 cm 之間的腫瘤: - a. 若病患本身為高危險群或肝硬化的患者,若兩種影像檢查都具有典型的血管表現,則不須做切片,直接診斷為 HCC。 - b. 若如果只有一 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -82,9 +87,6 @@ tags:
 - ...| 治療 | |-------------------------|--------------------|--------------|--------------------| | Alzheimer's dz. | Senile plaques | 記憶力↓+認知功能↓ | Anticholinesterase | | Vascular dementia | 累積小中風 | 失智+局部神經學症狀 | 控制 HTN, DM | | Dementia c/ Lewy bodies | Lewy bodies ↓ | 失智+巴金森氏症,視幻覺 | Anticholinesterase | | Frontotemporal Dementia | Pick (Tau) protein Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...這些變異形成不正常的蛋白質所引起。 - b. 晚發型: 絕大多數病患屬於這一類,好發 60 歲以上。還未發現明確致病基因,但 19 號染色體上的 APOE ε4 gene 確定會增加病情惡化的風險。 - (3) 病理:老年斑(senile plaques)、神經纖維糾結(neurofibrillary tangles)。 - (4) 症狀:初期為記憶減退,尤其是短期記憶 (recent memory) 最先喪失。 - (5) 診斷: - a. 靠認知功能評估及排除其他疾病。 - b. 影像學: - (a) 主要用來排除其他造成失智症的器質性疾病(organic disorder)。 - (b) 阿茲海默症可見腦萎縮,如側腦室擴大、腦溝(sulcus)變寬,由以顳葉 內側(medial Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (C) 病理特徵為老年斑 (senile plaques) 和神經纖維糾結 (neurofibrillary tangles) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- Firm tangled mass of blood vessels with small hemorrhages, areas of thrombosis & calcified nodules within the bulk of the lesion - Dilated arterialized veins Dilated aneurysmal segment Diminished blood flow to Enlarged feeding vessel Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 6. Amyloid precursor protein:製造此蛋白質的基因位在染色體 21q,被代謝為 β/A4 protein,是 senile plaque的主要成分,在AD病人腦部發現有過多的 β/A4 protein沉澱。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- 9. 神經病理學發現:senile plaque(其他類型失智症也可見到)、neurofibrillary tangle(其他類型失智症也可見到)、neuronal loss(特別是在 cortex 與 hippocampus)、synaptic loss、granulovacuolar degeneration of neurons。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 
 ## Clinical Caveats
 

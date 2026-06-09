@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Glioma (神經膠質瘤)'
   - 'Glioma'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-源自 glial cells 的 CNS 腫瘤群，包含 astrocytoma、oligodendroglioma、glioblastoma 等。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+源自 glial cells 的 CNS 腫瘤群，包含 astrocytoma、oligodendroglioma、glioblastoma 等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- 2. 孩童:以交感神經節細胞腫瘤為主,如:節神經瘤(gangliomas)、節神經母細胞瘤(ganglioneuroblastomas)、神經母細胞瘤(neuroblastomas)。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...amilial polyposis • - (b) Gardner's syndrome: polyposis + osteoma + fibroma + sebaceous cyst • - (c) Turcot's syndrome: glioblastoma (CNS tumor) • - (d) CHRPE: congenital hypertrophy of retinal pigmented epithelium • - d. 篩檢: - (a) APC 基因檢驗。 - (b) 眼科檢查: CHRPE (congenital hypertrophy of retinal pigmented epithelium)。 - (c) 大腸鏡檢。 - e. 處置: - (a) Total p Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - C. 星狀細胞瘤 (Astrocytoma) 207 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - D. 寡樹突神經膠瘤 (Oligodendroglioma) 208 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

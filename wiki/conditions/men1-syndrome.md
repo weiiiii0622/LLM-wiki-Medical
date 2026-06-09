@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch21]]"
@@ -18,6 +18,8 @@ sources:
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'MEN1 syndrome (第一型多發性內分泌腫瘤)'
   - 'MEN1 syndrome'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 �
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch12]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...| ● Fungal | perforation | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreatic | | | | | pseudocyst | | | | | ■Meigs' syndrome | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 1. 機轉 & 成因:表現為膽管囊狀擴大,成因不明,一說為膽胰道接合異常 (anomalous pancreaticobiliary ductal junction) 導致胰臟消化酵素逆流導致膽道受損,一說為持續或反覆遠端膽道阻塞所致。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 2. 急性胰臟炎是因為胰臟腺泡細胞(pancreatic acinar cells)的胰蛋白酵素(trypsin)被活化,導致一連串的胰臟發炎反應與自我分解,並且導致胰臟周圍脂肪細胞壞死。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - $2\ \mathcal{H}$ : intrinsic pancreatic abnormalities with or without inflammatory changes in peripancreatic fat Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - 4分: pancreatic or peripancreatic fluid collection or peripancreatic fat necrosis Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
@@ -69,8 +75,6 @@ MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 �
 - B. 副甲狀腺機能亢進(Hyperparathyroidism, HPT) 220 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - D. 副甲狀腺癌(Parathyroid carcinoma) 222 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - #### B. 副甲狀腺機能亢進 (Hyperparathyroidism, HPT) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- #### 丙、胰島細胞瘤(Pancreatic Islet Cell Tumors) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- (1) 手術:首選 - a. 腫瘤位於 Pancreatic head: 腫瘤摘除 (enucleated)。 - b. 腫瘤位於 Pancreatic body 或 tail:遠端胰臟切除(resection)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 
 ## Clinical Caveats
 

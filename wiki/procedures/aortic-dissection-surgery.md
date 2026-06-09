@@ -2,11 +2,12 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Aortic dissection surgery (主動脈剝離手術)'
   - 'Aortic dissection surgery'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-Type A aortic dissection 通常需急診手術；Type B 多先內科 anti-impulse therapy，併發症時考慮 TEVAR 或手術。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Type A aortic dissection 通常需急診手術；Type B 多先內科 anti-impulse therapy，併發症時考慮 TEVAR 或手術。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- (A) Type C 佔 86%,(B) Type B 佔 2%,(C) Type A 佔 7%,(D) Type D 佔 1%。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ...範圍,而非以內膜撕裂處所在之地點決定,目前常用的分類法有 Stanford 及 DeBakey 兩種。(見下圖) - (1) Stanford:以 dissection 的範圍有無牽涉到 ascending aorta 為分型。 - a. Type A:有牽涉到 ascending aorta,約佔 2/3的 case。 - b. Type B: 無牽涉到 ascending aorta,約佔 1/3 的 case。 - (2) Debakey: - a. Type I: 牽涉到 ascending aorta 和 descending arota。 - b. Type II: 僅牽涉 ascending aorta。 - c. Type III:僅牽涉 descending aro Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 2. CT: 搭配顯影劑,能看出主動脈剝離的位置和範圍,分辨真腔和假腔。以及是否 有心包填塞、血胸的情況。 - (1) 如下圖為一個 Type A 的主動脈剝離,內膜與中膜分離後被血液充滿形成的假腔,和真腔之間以剝離內膜瓣(intimal flap)分隔。假腔的結構通常比真腔還大,由於假腔充滿相對比較不流動的血液,顯影劑比較難進入,因此 contrast-CT 下假腔會比真腔還暗。 - (2) 假使假腔有另一個出口,使得假腔也有血流,則真腔和假腔就會比較難分辨。 - (3) 當病人對顯影劑過敏,或是有 renal insufficiency 的情形,可改用 MRA 或是經 食道心臟超音波 (transesophageal echocardiography, TEE) 檢查。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 處置方式依照急性(≤14天)、慢性(>14天), Type A 或 Type B 而有所不同。主動脈剝離的急性期 mortality 和 morbidity 最高,嚴重的 complication 多發生在前14天,急性期開刀風險也相當大,不過病人要是相當 unstable 且合併 complication,考量下還是得開刀。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].

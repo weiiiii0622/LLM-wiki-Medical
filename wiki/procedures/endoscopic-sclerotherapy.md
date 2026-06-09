@@ -2,11 +2,12 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch14]]"
+  - "[[sources/med5-book4-ch09]]"
 aliases:
   - 'Endoscopic sclerotherapy (內視鏡硬化劑注射)'
   - 'Endoscopic sclerotherapy'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-靜脈曲張或特定出血病灶的內視鏡注射治療。 本頁已整合至 `醫(三)第2冊肝內新陳代謝`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈曲張或特定出血病灶的內視鏡注射治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch23]]
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch14]]
+- [[sources/med5-book4-ch09]]
 
 ## Key Details From Sources
 
+- 治療:因影響美觀或氣道壓迫而採取治療。常用手術切除或注射硬化劑治療,亦需 評估是否有神經侵犯。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (1) 急性期可打 cyanoacrylate or Histoacryl glue (硬化劑)止血,對於使用硬化劑預防 出血,目前共識是大型胃靜脈瘤可考慮,小型不一定,因為打硬化劑本身也有出血 風險。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (D) 21. 一位 65 歲男性病人發生急性食道靜脈曲張出血(variceal bleeding),下列何種治療不考慮?98(ニ)専署ニ-56 - (A) 藥物 somatostatin or octreotide 治療 - (B) 內視鏡結紮術 - (C) 內視鏡硬化劑注射 - (D) 食道橫截切除術 Source: [[sources/med3-book2-ch23|戊、肝硬化]].

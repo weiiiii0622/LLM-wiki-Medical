@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch05]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Brain magnetic resonance imaging, brain MRI (腦部磁振造影)'
   - 'Brain magnetic resonance imaging, brain MRI'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...|---------| | | (A) 電腦斷層檢查(computed tomography) | 醫五 -25 | | | (B) 內視鏡超音波檢查(endoscopic ultrasound) | | | | (C) 核磁共振影像檢查(magnetic resonance imaging) | | | | (D) 正子攝影檢查(positron emission tomography) | | | (C) | 3. 食道癌最常見的臨床狀況為何? | 105(一)專 | | | (A) 發燒 | 醫五 -27 | | | (B) 胸痛 | | | | (C) 漸行性吞嚥困難 | | | | (D) 食道逆流 | | | (A) | 4. 上段食道癌多為? | 104(二)專 | | * | (A) 鱗狀細 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (DTAA, descending thoracic aortic aneurysm; MRA, magnetic resonance angiography; TAAA, thoracoabdominal aortic aneurysm) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (A) 急性主動脈剝離最佳診斷工具是心臟超音波(cardiac echocar-diography) 或是核磁共振攝影(magnetic resonance imaging) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (B) 核磁共振檢查(magnetic resonance imaging, MRI)可以早期 診斷骨髓炎 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].

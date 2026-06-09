@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Neonatal jaundice (新生兒黃疸)'
   - 'Neonatal jaundice'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-新生兒膽紅素上升可為生理性或病理性，需依日齡、風險因子與直接/間接 bilirubin 判讀。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+新生兒膽紅素上升可為生理性或病理性，需依日齡、風險因子與直接/間接 bilirubin 判讀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- A. 新生兒黃疸(Neonatal jaundice) 174 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- ### A. 新生兒黃疸 (Neonatal jaundice) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- 2. 常見診斷: - (1) 生理性黃疸 (physiologic jaundice) - a. 最常見原因,約佔15%出生2週內足產兒新生兒黃疸原因。 - b. 臨床表現:出生2週內發生黃疸。 - c. 機轉 & 成因:為 I.B. 升高,因為不成熟的代謝酶影響膽汁代謝運送或排出減少,造成膽汁鬱積(cholestasis)。 - (2) 病理性高膽紅素血症(pathologic hyperbilirubinemia) - a. 臨床表現:出生2週內發生黃疸。 - b. 檢查 & 診斷: D.B. > 1 mg/dL 或 T.B. > 5 mg/dL 且 D.B. > 20%T. Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - IV. 新生兒黃疸 (Neonatal Jaundice) 460 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 膽紅素沉積在新生兒皮膚表面上造成膚色外觀呈現黃色狀態。一般而言生理性黃 疸在出生後 2~3 天出現,出生後 4~5 天可以達到高峰,之後黃疸逐漸消退。但是若出 生 48 小時內出現黃疸,或是膽紅素值達到照光標準,則為病理性黃疸,必須積極處理。 若不積極處理,膽紅素經血液流至中樞神經沉積在基底核造成核黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - Nelson's Pediatrics 20th Edition Figure 102-7: Schematic approach to the diagnosis of neonatal jaundice. Source: [[sources/med4-book1-ch11|子、新生兒科]].

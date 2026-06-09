@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch03]]"
   - "[[sources/med3-book1-ch09]]"
@@ -38,6 +38,7 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -52,7 +53,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +91,11 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- 5. 檢查 & 診斷: - (1) 胸腔穿刺術(thoracentesis) / 胸管引流術(chesat tube drainage)。 - (2) 三酸甘油酯(triglyceride)的含量通常會大於 110 mg/dL,即可高度懷疑,但少數患者會小於 110 mg/dL,但可配合其他臨床證據診斷。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...| 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (4) 另外年紀大、男性、高血壓、抽菸、高血脂、genetic (Marfan syndrome) 皆為 危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (#) 1. 動脈瘤形成的危險因素不包括下列何者? 108( ) 專 (A) 高年齡 (B) 男性 (C) 高血脂 (D) 糖尿病 醫五 -22 【詳解】皆是危險因子,故送分。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
@@ -110,7 +113,6 @@ tags:
 - (D) 3. 下列何種抗精神病藥,比較不會造成體重過重及高血糖或高血脂症? Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - (D) 三酸苷油酯(triglyceride)過高 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) Hypertriglyceridemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】家族型高膽固醇血症(familial hypercholesterolemia) 其嚴重度是根據基因上的變異數量決定,即有加成效應(gene dosing effect)。故同型合子會比異型合子的表現來的嚴重。同 合子患者其低密度脂蛋白(low density lipoprotein, LDL)膽固醇 數值是正常人的 4~6 倍,通常 LDL-C 為 500~1200 mg/dL。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

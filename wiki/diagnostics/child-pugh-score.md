@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch22]]"
@@ -14,6 +14,8 @@ sources:
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book4-ch08]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Child-Pugh score (Child-Pugh 分級)'
   - 'Child-Pugh score'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch08]]
+- [[sources/med5-book4-ch08]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- 常用名詞: 新生兒 (Newborn, Neonate) $\leq 1$ m/o,嬰兒 (Infant) 1 m/o~1 y/o,兒童 (Child) 1~12 y/o Source: [[sources/med5-book4-ch08|甲、概 論]].
+- (2) https://www.who.int/maternal\_child\_adolescent/topics/maternal/maternal\_perinatal/en/ Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - ...化患者,要有二種影像檢查皆具典型血管特徵 才能診斷為 HCC。 - b. 只有一種影像檢查能認定,合併甲型胎兒蛋白(AFP)大於 **200**,也可診斷 為 HCC,不須加做切片。 - c. 只有一種影像檢查能認定, AFP 肝硬化程度:Child-Pugh A。肝腫瘤:單顆、原位癌、2公分以下。治療:手術切除腫瘤。 | | Stage A-C | 日常生活功能:0~2級。肝硬化程度:Child-Pugh為 A-B,再依照病人的體能狀況、肝腫瘤顆數、有無黃疸、有無肝門高壓、肝門靜脈侵犯、淋巴轉移等去區分出 stageA-C。 | | Stage D | 日常生活功能:3~4級。肝硬化:Child-Pugh C。肝癌:只要有肝癌腫瘤,不管尺寸大小、腫瘤數目。治療:症狀治療(支持性療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (D) 病人的肝功能為 Child-Pugh class B Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].

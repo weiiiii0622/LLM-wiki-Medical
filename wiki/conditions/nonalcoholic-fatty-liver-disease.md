@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch24]]"
   - "[[sources/med3-book2-ch22]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book2-ch26]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Nonalcoholic fatty liver disease, NAFLD (非酒精性脂肪肝)'
   - 'Nonalcoholic fatty liver disease, NAFLD'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-代謝症候群相關脂肪肝可進展至 steatohepatitis、纖維化或肝硬化。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+代謝症候群相關脂肪肝可進展至 steatohepatitis、纖維化或肝硬化。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book2-ch26]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...常用的診斷工具。 | | | (送)17.下列何者不是引起肝癌(hepatocellular carcinoma)之危險因子? | 100(一)專 | | (A) 肝硬化 (liver cirrhosis) | 醫五-30 | | (B) 脂肪肝(fatty liver) | | | (C) B 型肝炎帶原者 | | | (D) 酒精 | | | | 00/ - \ = | | (D) 18. 下列何者不是肝癌(hepatocellular carcinoma)手術切除的不良 | 98(二)專 | | 預後因子(poor prognostic factor)? | 醫五 -31 | | (A) 肝硬化 | | | (B) 5 公分以上之肝癌 | | | (C) 腫瘤與肝臟切面之 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 5. 為正確診斷非酒精性脂肪肝疾病(nonalcoholic fatty liver disease), 下列何項敘述,不是需做肝臟超音波檢查此病的危險因子? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 【詳解】非酒精性脂肪肝疾病(nonalcoholic fatty liver disease,NAFLD)是肝臟疾病中的一種。在兒童,此疾病與**肥胖**有強烈的相關性;同時也是兒童慢性肝疾病(chronic liver disease)中最常見的疾病。NAFLD表現範圍很廣,從僅單純的 fatty liver Source: [[sources/med4-book1-ch02|乙、消化系統]].

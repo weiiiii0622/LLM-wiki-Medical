@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch06]]"
@@ -27,6 +27,8 @@ sources:
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Dysphagia (吞嚥困難)'
   - 'Dysphagia'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,15 @@ tags:
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- H. 普文二氏綜合症、缺鐵性咽下吞嚥困難 (Plummer-Vinson syndrome、Paterson-Brown-Kelly syndrome、Sideropenic dysphagia) 98 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 3. 臨床症狀:吞嚥困難(dysphagia)、食物逆流(regurgitation)及體重減輕。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (C) 典型症狀為吞嚥困難、食物逆流及體重減輕 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 3. 臨床症狀:如在前縱隔腔有呼吸困難、咳嗽、高頻喘鳴(wheezing)和低頻喘鳴(stridor)等氣管壓迫相關症狀,如在後縱隔腔則有吞嚥困難等食道壓迫症狀。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 7. 吞嚥困難(dysphagia)與近端胃癌有關。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 3. 因壓迫鄰近器官而有的臨床表現:congestive heart failure (aortic root aneurysm with dilatation 造成 aortic regurgitation)、Hoarseness (aortic arch aneurysm 壓到 left recurrent laryngeal or vagus nerves)、呼吸困難、pulmonary compression、吞嚥困難、易飽足感(壓迫到胃)、嘔吐。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (D) 16. 一位 65 歲男性,因吞嚥困難及體重減輕住院檢查,病患體重 40 公斤,血清蛋白(serum albumin)值為 2.5 g/dL,內視鏡檢查發現食道下段有腫瘤造成阻塞,切片病理報告為食道之鱗狀上皮細胞癌,胸部電腦斷層檢查結果並無明顯之縱膈腔或肝臟轉移,骨頭掃描結果並無明顯遠處轉移。胸腔外科醫師評估可以手術切除,你認為以下那種處置比較適當? - (A) 馬上安排手術切除食道並重建以免癌症擴散 - (B) 一般葡萄糖輸液補充 7 天後手術 - (C) 全靜脈營養 (total parenteral nutrition) 補充 1 天,立即手術 - (D) 全靜脈營養補充 7 天後手術 Source: [[sources/med5-book1-ch01|甲、外科營養]].
@@ -85,10 +93,6 @@ tags:
 - (B) 35. 一位 65 歲男性,突發性頭暈、嘔吐、口齒不清且吞嚥困難。身 99( 二 ) 專 體檢查發現左側瞳孔較小且眼瞼下垂。請問最可能的病因是: 醫四 -58 - (A) 左側後交通動脈之動脈瘤破裂(posterior communicating artery aneurysm rupture) - (B) 左側後下小腦動脈阻塞 (posterior inferior cerebellar artery occlusion) - (C) 左側豆紋狀動脈阻塞(lenticulostriate artery occlusion) - (D) 左側中大腦動脈阻塞 (middle cerebral artery occlusion) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 【詳解】Lateral medullary syndrome 為必考題。Lateral medulla 內含的結構:vestibular nuclei, inferior cerebellar peduncle, central tegmental tract, lateral spinothalamic tract, spinal trigeminal nucleus & tract, nucleus ambiguous and descending sympathetic fibers。依其影響結構便導致相應的神經症狀。如暈眩、同側肢體失調、上顎抽躍症、對側驅幹反肢體感覺異常、同側顏面感覺異常、吞嚥困難及同側 Horner's syndrome(垂瞼、縮瞳、無汗)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 2. 症狀包含橋腦相關的神經學症狀:全身無力(甚至導致lock in syndrome),聲音沙啞, 吞嚥困難等,甚至還會造成昏迷。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- 神經系統症狀:肢體無力、步態不穩、吞嚥困難、無法發聲、複視、失去觸覺與痛 覺等。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- (1) 多發性肌炎(28%): - a. 主要表現是急性或慢性兩側對稱性近端肌肉無力及疼痛,尤其是上臂、肩胛 肌或大腿肌肉無力。病人常出現上、下樓梯困難、無法舉起手臂梳頭、更衣 困難、無法從座椅上站立起來等症狀;假使侵犯到口咽部或食道的肌肉則會 吞嚥困難,有的則合併有明顯體重減輕之現象。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (5) 食道及腸道的纖維化會造成吞嚥困難及吸收不良。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 現指節腫大,吞嚥困難,以及續發性雷諾氏症候群 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 
@@ -97,7 +101,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/zenker-diverticulum|Zenker diverticulum (Zenker 憩室)]]
 
 ## Follow-up
 

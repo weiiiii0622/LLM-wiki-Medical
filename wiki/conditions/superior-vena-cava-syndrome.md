@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med3-book4-ch21]]"
@@ -10,6 +10,9 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch08]]"
 aliases:
   - 'Superior vena cava syndrome, SVCS (上腔靜脈症候群)'
   - 'Superior vena cava syndrome, SVCS'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-腫瘤或血栓壓迫/阻塞 SVC 造成臉頸上肢腫脹與靜脈怒張。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤或血栓壓迫/阻塞 SVC 造成臉頸上肢腫脹與靜脈怒張。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,17 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch08]]
 
 ## Key Details From Sources
 
+- ...ronchioloalveolarcarcinoma-including-adenocarcinoma-in-situ) (C) 6. 肺癌病人不適合手術的情況,下列何者錯誤? 103(二)專 (A) 喉返神經麻痺 醫五-28 (B) 發生上腔靜脈症候群 (superior vena cava syndrome) (C) 肺癌局部侵犯橫隔膜 (D) 有肝臟轉移 【詳解】從分期上 T3N2 以上建議。 (A) 7. 下列何種 TNM 分期的 lung cancer 不適合以手術作為第一線治療? 102(一)專 ① T1N0M0 ② T1N1M0 ③ T1N3M0 ④ T3N1M0 醫五-31 (A) 僅③ (B) 僅③④ (C) 僅②③④ (D) 僅①② 【詳解】T1N3M0 St Source: [[sources/med5-book4-ch03|丙、肺]].
+- 2. 中縱隔腔:心臟和心包膜、升主動脈、橫主動脈、頭臂血管、上腔靜脈(vena cava)、肺動靜脈、膈神經、迷走神經、氣管、支氣管、淋巴結。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 3. 精細胞瘤 (Seminomas): - (1) 最常見的惡性精細胞瘤,佔惡性生殖細胞瘤 50%,佔縱隔腔腫瘤 2~4%。常侵 犯鄰近縱隔腔和肺部,並經血液淋巴轉移,最常見轉移至骨頭或肺。約 10~20% 合併上腔靜脈症候群。 - (2) 治療:如腫瘤可完全切除,以手術切除為主,如因侵犯重要器官無法完全切除時,則以化療合併放療為主,因其對化放療反應好,且此時不必也不適合做腫瘤減積切除手術,不建議單做放療。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- ...mponents)、內胚層細胞瘤 (卵黃囊瘤) (endodermal cell tumor, yolk sac tumors) 和混合瘤 40%,通常對放療沒反應。 - (2) 臨床症狀:胸痛、呼吸困難、體重減輕、咳嗽、咳血、發燒畏寒、或上腔靜脈 症候群,孩童會呈現性早熟。 - (3) 好發族群:30~40 歲男性。 - (4) 檢查 & 診斷: 胸部 X 光呈現前縱隔腔腫瘤常合併肺實質或鄰近縱隔腔侵犯。 - (5) 轉移:經常轉移至胸腔外,腦、肺、肝、骨、淋巴(尤其鎖骨下)、胸壁。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 3. 胸腔創傷 (Thoracic injuries) - (1) 創傷性窒息 (Traumatic Asphyxia) - a. 機轉 & 成因:為鈍傷受少見的情況,起因於突發性的胸腔壓砸傷,導致氣道 阳塞以及上腔靜脈高壓逆流。 - b. 臨床表現:出現頭頸部發紺、結膜下出血和淤斑。若小於 3 歲孩童合併肋骨骨折,需高度懷疑受虐。 - c. 治療:通常需要給予呼吸治療、胸管引流,以及注意合併中樞神經和腹腔損傷。若失血量> 20%總血量或持續引流量> 2 mL/kg/hr,建議進行手術。此血胸通常是肋間動脈損傷所致。 Source: [[sources/med5-book4-ch08|甲、概 論]].
 - ...而肺動脈則和右心房分離;做 B-T shunt 使右心室打出的部份血液能引至肺動脈並流到肺部進行氧合作用。(見上圖右) - b. 第二階 (bidirectional Glenn procedure): 出生三到六個月進行。 - (a) 將上腔靜脈血液直接分流至肺動脈,降低右心室的負擔。 - c. 第三階段 (Fontan procedure): 兩到三歲進行。 - (a) 同樣將下腔靜脈分流至肺動脈,至此上、下腔靜脈血液不經心臟直接流 回肺動脈,而右心室專心負責體循環,將血液輸送至全身。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - a. 心上型(supracardiac):下圖 A,肺靜脈經由垂直靜脈(vertical vein)到無名靜脈(left innominate vein, LI),再回到上腔靜脈,流進右心房。而垂直靜脈容易塞住,引發肺水腫和肺高壓。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (4) 輕微無症狀者只需定期追蹤,有心衰竭或心律不整則先藥物控制,嚴重者則考慮手術。手術為三尖瓣修復術為主,部份病患會合併作 Glenn procedure (上腔靜脈接到肺動脈)及心房間隔造口術以減輕右心負荷。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

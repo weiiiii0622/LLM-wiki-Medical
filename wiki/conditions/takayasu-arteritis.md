@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med4-book1-ch01]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book3-ch21]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Takayasu arteritis (高安氏動脈炎)'
   - 'Takayasu arteritis'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book3-ch21]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- Catheterization, particularly subclavian vein Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 1. 解剖結構: - (1) Zone I: - a. 範圍:介於鎖骨(clavicles)及環狀軟骨(cricoid cartilage)之間。 - b. 重要結構: - (a) 無名動靜脈 (innominate vessels) 又稱頭臂動靜脈幹 (Brachiocephalic trunk)。 - (b) 總頸動脈 (common carotid artery) 起點。 - (c) 鎖骨下動靜脈(subclavian vessels)。 - (d) 椎動脈 (vertebral artery)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 1. 血管:主要的動脈供應為 - (1) 鎖骨下動脈 (subclavian artery): 分 支出內胸動脈與肋間動脈。 - a. 內胸動脈(internal thoracic artery), 分支出 medial mammary branch,供 應內側乳房。 - b. 肋間動脈 (intercostal artery)。 - (2) 腋動脈 (axillary artery): 分支出外胸 動脈與胸肩峰動脈。 - a. 外胸動脈(lateral thoracic artery), 分支出 lateral mammary branch,供 應外側乳房。 Source: [[sources/med5-book3-ch21|甲、解剖構造]].
 - b. Blalock Taussig shunt (B-T shunt): 分流手術。 - (a) 為 palliative surgery, 將 subclavian artery 和 pulmonary artery 接在一起, 引流部分 subclavian artery 血液至肺部增加 pulmonary blood flow,增加回心的含氧血。(下圖 A) - (b) 但接久了 subclavian artery 會變大,使得肺血流太多導致肺高壓。故可改用人工血管(modified B-T shunt),減少肺高壓的情形。(下圖 B) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - d. 常見的成年患者開刀原則是以肺血流量 / 全身血流量(Qp/Qs)的值來決定(正常時:Qp/Qs = 1): - (a) Qp/Qs > 2,表示由 left to right shunt 嚴重,則建議開刀治療。 - (b) Qp/Qs = 1.5~2 之間,則建議藥物治療再加上密切的追蹤。 - (c) Qp/Qs type A(43%) > type C(4%)。 - a. Type A: 斷在左鎖骨下動脈遠端。 - b. Type B: 斷在左總頸動脈與左鎖骨下動脈(left subclavian artery)之間。 - c. Type C:斷在左總頸動脈(left common carotid artery)和主動脈之間。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
@@ -57,7 +63,6 @@ tags:
 - 5. Aberrant subclavian artery Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 1. T 細胞及肉芽腫形成: (Ref. Harrison p2119 Table 319-2) - (1) 與 Delayed hypersensitivity 及 Cell mediated immune injury 有關,進而導致肉芽腫(Granuloma)形成。 - (2) 與侵犯大血管的高安氏動脈炎 (Takayasu arteritis)、巨細胞血管炎 (Giant cell arteritis) 有關。而 Wegener's granulomatosis、Churg-Strauss syn. 也會形成肉芽腫。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (A) Takayasu's arteritis Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- 1. 高安氏動脈炎 (Takayasu arteritis): - (1) 常見於亞洲年輕女性。 - (2) 肉芽腫血管發炎(Granulomatous vasculitis),好發於主動脈及其分支,又稱 Aortic arch syndrome;最常侵犯 Subclavian artery。 - (3) 診斷準則: > 3項(Arthritis Rheum 33: 1129, 1990)[不用死記,建議多看幾次能對此病有概念] - a. 年紀 1 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 

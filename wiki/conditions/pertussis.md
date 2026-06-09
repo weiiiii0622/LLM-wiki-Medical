@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Pertussis (百日咳)'
   - 'Pertussis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。 �
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book4-ch27]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...nversus, and hypomotile cilia)。 - (2) Acquired causes: 感染和發炎。 - a. 支氣管堵塞: 氣管外壓迫(腫瘤、淋巴結腫大)、吸入異物或刺激物質、膿痰。 - b. 感染:壞死性細菌肺炎、百日咳肺炎、麻疹肺炎、流感肺炎、水痘肺炎。吸入性有毒氣體。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - VIII. 百日咳 (Pertussis) 177 - IX. 微小病毒 B19 感染 179 - X. 水痘病毒 (VZV) 感染 180 - XI. 麻疹 183 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - # VIII. 百日咳 (Pertussis) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - A. 病因:主要由 Bordetella pertussis 感染造成(另一種造成百日咳的病原體為 Bordetella parapertusis),主要是飛沫傳染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].

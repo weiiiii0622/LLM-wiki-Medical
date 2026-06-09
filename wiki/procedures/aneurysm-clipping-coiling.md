@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch03]]"
@@ -34,6 +34,9 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch22]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch01]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)'
   - 'Aneurysm clipping/coiling'
@@ -48,7 +51,7 @@ tags:
 
 ## Summary
 
-ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +85,17 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch22]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch01]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- P. 脂肪栓塞症 (Fat emboli syndrome, FES) 59 Source: [[sources/med5-book4-ch03|丙、肺]].
+- Q. 肺動脈栓塞 (Pulmonary embolism) 60 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (c) 針對咳血:支氣管動脈栓塞,肺切除。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 臨床表現:通常在神經壓迫後出現相關症狀,而血管性及神經血管性症狀也曾有文獻記載過。依據壓迫不同結構而有不同的症狀。 - (1) 神經症狀:超過90%病患會發生。 - (2) 動脈症狀:疲勞、虛弱、遠段變冷、上肢間歇性失能(upper extremity claudication)、血栓(thrombosis)或感覺異常(paresthesia)。 - a. 血栓 (Thrombosis): 造成遠端栓塞很少發生,但會出現手部雷諾氏現象 (Raynaud phenomenon)或缺血現象。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
+- (A) 肺動脈栓塞 (pulmonary embolism) Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (b) 門脈主幹栓塞、下腔靜脈栓塞。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (6) 經導管動脈化學藥物栓塞治療(transcatheter arterial chemoembolization, TACE): - a. 前言: - (a) 在前面解剖的部分提及,肝臟有兩套血流系統,一套為門靜脈(portal vein),另外一套為肝臟動脈(hepatic artery),門靜脈提供了 75% 的血液及養分,而肝動脈提供了 25% 的血液及養分,但 HCC 大部份是藉由肝動脈血液快速成長,鮮少從肝門靜脈長出來。 - (b) 根據統計,動脈栓塞 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -98,11 +109,6 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - ...病變緩慢,風溼熱痊癒初期也都不太有症狀,通常至少十年過後才開始有症狀出現,會有疲倦、運動後呼吸困難、胸痛、心律不整,而後加重出現肺水腫及右心衰竭的症狀,如全身性靜脈鬱血、水腫、肝硬化、端坐呼吸、咳血等。另外血液滯留於心房形成血塊向外打出造成栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (d) 瓣膜置換手術 (mitral valve replacement): 若患者瓣膜嚴重狹窄、閉鎖,瓣膜和周圍組織嚴重鈣化,以及同時伴有嚴重 MR,則採用瓣膜置換手術,可選用機械性或生物性瓣膜。 - i. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎,且難以控制。 - ii. 生物性瓣膜: 血栓栓塞機率較低,抗凝血劑只需短期服用約3~6個月,但較無耐抗力,大約能使用10~20年,適用年紀較長者,因瓣膜失效時大約也已不久於世。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- B. 深層靜脈栓塞 (Deep vein thrombosis, DVT) 84 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- ...):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm 的血管。 - d. 栓塞切除術(embolectomy): 開刀將血栓拿掉,恢復灌流,為急性動脈阻塞 首選。 - (a) 針對急性動脈阻塞塞,四肢對於缺血的耐受性較高,其黃金時期(即組織缺血後再灌注時仍可恢復功能)為6至8小時(大腦為4~8分鐘,心肌為17~20分鐘)。 - (b) 但長時間缺血後,再灌流時會造成 reperfusion injury/syndrome,使得阻塞 時缺氧組織所釋放的自由基和代謝廢物(K+、myoglobin)對細胞及組織 造成傷 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- #### B. 深層靜脈栓塞 (Deep vein thrombosis, DVT) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 2. 雖然 myxoma 是良性的腫瘤,但黏液瘤的組織疏鬆脆弱,其碎片或面的血栓易脫落 造成系統性或局部血管栓塞。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 
 ## Clinical Caveats
 

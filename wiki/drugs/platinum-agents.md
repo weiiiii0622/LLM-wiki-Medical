@@ -2,13 +2,14 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Platinum agents (鉑類化療藥)'
   - 'Platinum agents'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book4-ch05]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- 6. 治療:以廣泛性胸腺切除手術為主要治療方式,因即便腫瘤有完整包膜,也經常有局部侵犯,故須廣泛性切除。以正中胸骨切開術為最佳進入方式,並放置手術夾標記腫瘤範圍,以便術後放療治療定位。較大或侵犯性腫瘤,化療反應極佳70~100%。 - (1) Stage I:以手術完全切除。 - (2) Stage II & III: 手術加上放療。 - (3) 腫瘤大於 5 公分、局部侵犯、無法切除的腫瘤、轉移性腫瘤:先化療、再手術切除、再追加放療。 - (4) 化療:對 Cisplatin-based 化療藥治療有非常良好的反應。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- ...-------------------------------|-----------| | | (A) 前上縱隔腔最常見的縱隔腔腫瘤 | 醫五-21 | | | (B) 第二期的胸腺瘤開刀切除後,常須加上放射治療 | | | | (C) cisplatin 的化療效果對其治療效果不佳 | | | | (D) 大部分重肌無力症(myasthenia gravis)無合併胸腺瘤 | | | | 【詳解】(C) 反應極佳,(D) 胸腺瘤常合併 M.G.,反過來則否。 | | | (C) | 3. 有關胸腺瘤之敘述,下列何者錯誤? | 103(二)專 | | (-) | (A) 手術切除是主要的治療方法 | 醫五 -31 | | | (B) 重症肌無力是最常伴隨的 paraneoplastic Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 【詳解】(C) FOLFOX 分別為 FOL—Folinic acid(leucovorin)、F—Fluorouracil(5-FU)、OX—Oxaliplatin(Eloxatin),作為 adjuvant chemotherapy 可改善 Duke C(stage III)患者存活率。(D) EGFR 會促進細胞增生或轉移,當使用 anti-EGFR 時可阻斷癌細胞增生和轉移,但是 RAS mutation(KRAS mutation)可以直接促進癌細胞增生轉移,因此對於 anti-EGFR 的治療效果就比較差。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...n | | | | expect a 5-year cure. In contrast, only 27% of patients treated with | | | | salvage radiation and concurrent cisplatin-based chemotherapy can | | | | expect to be cured. | | | | | | Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (b) 另外也可以考慮以血管攝影放置 multiple helical platinum coils 到血管瘤底 部,進行 coil embolization。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].

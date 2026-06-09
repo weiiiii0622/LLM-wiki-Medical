@@ -2,10 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Anastomotic leak (吻合口滲漏)'
   - 'Anastomotic leak'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-腸胃道或血管吻合處破裂漏出，可能導致膿瘍、腹膜炎、敗血症。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腸胃道或血管吻合處破裂漏出，可能導致膿瘍、腹膜炎、敗血症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- 8. 術後併發症:食道運動疾患(esophageal motility disorders)、胃食道逆流(gastroesophageal reflux)約 25~50%、吻合處狹窄(anastomotic stricture)約 15~30%、吻合處滲漏(anastomotic leak)約 10~20%、和氣管軟化(tracheomalacia)約 8~15%。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 8. 術後併發症:食道運動疾患(esophageal motility disorders)、胃食道逆流(gastroesophageal reflux)約 25~50%、吻合處狹窄(anastomotic stricture)約 15~30%、吻合處滲漏(anastomotic leak)約 10~20%、和氣管軟化(tracheomalacia)約 8~15%。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - (A) gastric cancer recurrence (B) anastomotic leakage Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...C) 胰液滲漏 | | | | | (D) 傷口感染 | | | | | 【詳解】Whipple procedure 名 | 後的 complication rate 約為 25%,最 | | | | 常見併發症是吻合端的胰液液 | 寥液(anastomotic leak)以及胰臟膽 | | | | 道管 (pancreatic-biliary fistula | a) ° | | | (C) 19 | . 依據 The American Joint Com | mittee on Cancer(AJCC)第六版的 | 99(二)專 | | | 分類,胰臟惡性腫瘤若達 T4 | (已侵犯胰臟附近的動脈),anyN | 醫五-48 | | | 及 M0,則其 stage 應為: | | | | | (A) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 
@@ -39,6 +45,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/esophagectomy|Esophagectomy (食道切除術)]]
 - [[procedures/low-anterior-resection|Low anterior resection, LAR (低位前切除術)]]
 - [[conditions/septic-shock|Septic shock (敗血性休克)]]
 

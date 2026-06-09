@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch07]]"
@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Shock (休克)'
   - 'Shock'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,13 @@ tags:
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- (D) 6. 47 歲男性,右胸部遭槍擊造成血胸合併休克,胸管引流出 600 mL 血液後,血壓恢復為 122/84 mmHg,脈搏 96 次 / 分,5 分鐘後血 壓下為 84/62 mmHg,脈搏 126 次 / 分,下列何者為最優先的處 理步驟? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 3. 分類:: - (1) 小範圍氣胸:單肺容量減少 1/3。 - (2) 大範圍氣胸:單肺全塌,未合併縱隔偏移或低血壓。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 4. 張力性氣胸 (Tension pneumothorax): - (1) 機轉 & 成因:單肺全塌、氣管偏移和縱隔偏移導致回心血減少、低血壓和呼吸 困難。常發生在使用正壓呼吸支持的肺實質損傷患者。 - (2) 臨床表現:呼吸變快、呼吸困難、低血壓、冒冷汗(diaphoresis)、頸靜脈擴張。 - (3) 診斷:以臨床表現判斷。不必以胸部 X 光確認診斷以免延誤治療造成心肺循環 失能。 - (4) 治療:初期以大號針頭插入第2肋間和鎖骨中線交界處,後續進行胸廓造口術 (tube thoracostomy),而擴張的肺和肋膜會密封肺缺口。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (A) 4.15 歲車禍傷患主訴左上腹部劇痛,而且逐漸呈現休克狀態。電 腦斷層檢查如附圖。箭頭所指之異常最符合下列那一項診斷? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】此電腦斷層可見 liver laceration。在小朋友的 liver laceration 當中,絕大部分的病人是不需要輸血的,除非病人的 Hb 非常低,或是 vital sign 出現問題的時候才會考慮輸血。若 vital sign stable 時,可嘗試保守性療法治療病人,若出現 shock、大量輸血時,才考慮進行 laparotomy 剖腹探查術。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - b. Reynolds's pentad: Charcot's triad 再加上休克與意識改變,發生比率小於 10%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
@@ -84,9 +89,6 @@ tags:
 - (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 1. Absolute indications: - (1) 因 heart failure 所導致的 hemodynamic compromise。 - a. Refractory cardiogenic shock • - b. 需要持續倚賴給予 IV inotropic agent 才能達到足夠的 organ perfusion。 - c. Peak $VO_2 2 11~14 mL/kg/min 且對日常活動造成限制。 - (2) 反覆性 unstable angina 且無法靠其他方法有效控制。 - (3) 病患在常規治療下仍舊體液不平衡或腎功能不穩定。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - ...---------------------| | Ischemic | Angina, reinfarction, infarct extension | | Mechanical | Heart failure, cardiogenic shock, mitral valve dysfunction, aneurysms, cardiac rupture | | Arrhythmic | Atrial or ventricular arrhythmias, sinus or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral embolization | | In Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (1) 大多是 mild-to-moderate MR,少有症狀。但假使是因 papillary muscle 壞死後 rupture 引起的 severe MR 卻相當危急,甚至 cardiogenic shock。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (C) 3.68 歲男性因心肌梗塞來急診,呈現休克狀態並經插管緊急處置, 聽診時發現有一第四度收縮期雜音(Grade 4/6 systolic murmur), 目伴隨有肺水腫(pulmonary edema),經心導管攝影為左前降枝 (LAD) 90% 狹窄, 迴旋枝 (LCX) 有 85% 狹窄, 下列處置何 者錯誤? Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- 主動脈血管壁有內膜(tunica intima)、中膜(tunica media)和外膜(tunica adventitia)三層,當內膜因主動脈高壓血流衝擊而破裂時,會導致血液流入血管壁,進一步將內膜和中膜撕裂開來,形成假腔(false lumen)。自內膜破口灌注入假腔的血流使其逐漸膨脹甚至會壓迫到真腔(true lumen),降低通過的血流量(flow volume)進而影響到全身各器官血液供應,造成器官灌流不足(organ malperfusion),又由於假腔的血管外壁脆弱,容易破裂引起大出血、出血性休克甚至死亡。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 
 ## Clinical Caveats
 

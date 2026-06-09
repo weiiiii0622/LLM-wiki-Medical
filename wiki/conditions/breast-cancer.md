@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch18]]"
@@ -28,6 +28,7 @@ sources:
   - "[[sources/med5-book3-ch21]]"
   - "[[sources/med5-book3-ch22]]"
   - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Breast cancer (乳癌)'
   - 'Breast cancer'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,13 @@ tags:
 - [[sources/med5-book3-ch21]]
 - [[sources/med5-book3-ch22]]
 - [[sources/med5-book3-ch23]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- b. 定義:胸水抽吸(thoracocentesis)細胞學檢查發現惡性細胞。無法直接診斷淋巴瘤,或區別為惡性細胞和反應性間皮細胞。產生的原因以轉移性乳癌和肺癌最常見、淋巴瘤次之(約10~14%)、轉移性卵巢癌則很少見、支氣管或淋巴阻塞、低蛋白血症等亦可能。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (B) 轉移性乳癌及肺癌最常造成惡性肋膜積液 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (B) 肺癌及乳癌是引起惡性肋膜積水常見的原因 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 乳癌為台灣婦女發生率第一位的癌症(每十萬名婦女約有 180 人發生),好發於 45~69 歲之間的女性。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 2. 依據衛生福利部統計資料顯示,每年有約9,600位婦女罹患乳癌,1,900人死於乳癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (1) BRCA1 與 BRCA2 為 tumor suppressor gene,當此基因突變時,會導致家族遺傳性乳癌及卵巢癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -88,9 +93,6 @@ tags:
 - ...甲狀球蛋白(Thyroglobulin) | 醫五-8 | | (B) 血清抑鈣激素(Calcitonin) | | | (C) RET 基因分析 | | | (D) 頸部超音波 | | | (B) 41.60 歲女性病人,20 年前有右側乳癌做過 irrad | liation,發現右側甲 98(-)專 | | 狀腺硬塊約二個月,則應建議做何檢查? | 醫五-38 | | (A) $T_3$ , $T_4$ , TSH | | | (B) 超音波定位細胞學檢查 | | | (C) 核磁共振 | | | (D) 血管攝影 | | | (A) 42. 承上題,上述病人接受手術,最可能的診斷是 | 是: 98(一)專 | | (A) 乳突癌(papillary thyroid c Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人體重 70 公斤,工作時不慎發生火災,身體 | 102(一)專 | | 表面積有 30% 的燒傷,根據 Parkland formula 計算,他前 8 小時 | 醫五 -77 | | 應給予多少毫升的輸液? | | | (A) 8,400 | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- ...24. 下列關於脊椎病理性骨折(pathologic fracture)的敘述,何者錯誤? | 104(二)專 | | (A) 多為轉移性腫瘤(metastatic tumor)造成 | 醫五 -12 | | (B) 常見的腫瘤來源為肺癌、乳癌等 | | | (C) 判斷腫瘤對於脊髓壓迫的嚴重程度時,CT 比 MRI 更適合 | | | (D) 當病患下肢日漸無力或有大小便失禁等症狀時應考慮手術 | | | 減壓 | | | (C) 25. 有關脊椎損傷,下列何者錯誤? | 104(二)專 | | (A) 只要下肢仍有感覺就屬於不完全性的損傷 | 醫五 -75 | | (B) Central cord syndrome 指病人理學檢查時上肢比下肢無力 | | | (C) Br Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- 7. 轉移癌:轉移自肺癌、乳癌、腎臟、腸胃道或淋巴癌。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。選(B)。 Source: [[sources/med4-book2-ch11|子、其 他]].
 
 ## Clinical Caveats
 

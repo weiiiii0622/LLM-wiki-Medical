@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Melanocytic nevus (黑色素細胞痣)'
   - 'Melanocytic nevus'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-黑色素細胞良性增生，需與 melanoma 依 ABCDE 等特徵鑑別。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黑色素細胞良性增生，需與 melanoma 依 ABCDE 等特徵鑑別。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch09]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- 【詳解】依 primary ABCDE 從重新評估,除非經檢查發現氣管 內管在食道,才進行(C),故(D)>(A)>(B)或(D)>(C)為 較佳之順序。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 1. 又稱作 nevus flammeus 或 capillary malformation (CM), 為微血管不正常擴張(非增生)於皮膚所形成之紅色不 規則斑塊,出生時即出現,隨著年齡逐漸增厚,顏色轉 暗紅或紫色,持續一輩子不會自動消失(右圖)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (A) 後天性色素細胞性母斑(acquired melanocytic nevus) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 2. ABCDE rule:病患臨床上有以下特徵時,需懷疑為黑色素細胞瘤。 - (1) Asymmetry:形狀不對稱。 - (2) Border irregular:邊緣不規則、有突起或是表面潰瘍。 - (3) Color variation: 顏色斑駁不一致。 - (4) Diameter > 6 mm: 直徑大於 6 mm - (5) Enlargement:短時間內持續增大; Elevation:表面不規則隆起。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

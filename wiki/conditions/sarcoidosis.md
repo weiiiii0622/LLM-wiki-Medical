@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch12]]"
   - "[[sources/med3-book1-ch23]]"
@@ -19,6 +19,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Sarcoidosis (類肉瘤病)'
   - 'Sarcoidosis'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,14 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...| ◆ Chylothorax | | ● Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- .... 胸腔肋膜液抽吸、開胸或 VATS 肋膜切片:可用來確診 MPM 和分型,通常需要免疫組織染色和電子顯微鏡來觀察分析切片。 - (5) 分型:預後差異很大。 - a. 上皮細胞型 (epithelial): 三者中,預後最好。 - b. 類肉瘤型(sarcomatous)。 - c. 混合型 (mixed)。 - (6) 治療:支持療法平均約存活4到12個月,尚無單一療法(如:放射治療、化學治療、手術)可以改善存活率。而試驗性複合式療法,EPP合併化放療,在早 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (12) 其他:類肉瘤(Sarcoidosis)、組織球增生症(Histiocytosis)、特發性肺含鐵血黃素沉著症(Idiopathic hemosiderosis)、肺泡蛋白質沉積症(Pulmonary alveolar proteinosis)、彌漫性間質纖維化(Diffuse interstitial fibrosis)、特發性肺纖維化(idiopathic pulmonary fibrosis)、脫屑性間質性肺炎(Desquamative int Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (C) 類肉瘤 (sarcoidosis) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (A) 類肉芽腫(sarcoidosis) Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -70,9 +77,6 @@ tags:
 - ...PTH下降 | 急性 | 惡性腫瘤 | 鱗狀細胞癌分泌 PTHrP、乳癌骨轉移、白血病、多發骨髓瘤 | | | | | Vit. D 過多 | 攝取 Vit. D 過多→ 25(OH)D ↑ ↑ | | | | 小里小件- | 1-2 | Sarcoidosis、TB的肉芽腫巨噬細胞分泌 1,25(OH)₂D ↑ ↑ | | | | 一一世 | 骨頭 Turnover 快 | 甲狀腺亢進、臥床 (Immobilization) 導致骨質流失→血鈣 ↑ | | | | | 其他 | Thiazide 減少尿鈣排出→血鈣 ↑ | | Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - (2) 1,25-(OH)2D: 懷疑 Sarcoidosis、TB 的肉芽腫巨噬細胞分泌過多 1,25-(OH)2D 造成高血鈣可測。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - ...s | 已知病因 | 過敏性肺炎 (Hypersensitivity pneumonitis) | | | | ILD | | 塵肺症 (Pneumoconiosis) 中的矽肺症 (Silicosis) | | | | | 未知病因 | Sarcoidosis, Langerhans' cell granulomatosis (eosinophilic) | | | | | | Granulomatous vasculitides (Wegener's, Churg-Strauss dz.) | | | | 其他 | Pulmonary alv | eolar proteinosis (PAP), Lymphangioleiomyomatosis (LAM) | | | | | Eosino Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
-- (A) 自體免疫性或類肉瘤(sarcoidosis)所引起的病變機率較小 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
-- 【詳解】(A) 自體免疫性會以毛玻璃病變(GGO)表現,呈現 NSIP pattern,類肉瘤以縱膈淋巴結及肺部小點表現;此病患較可能是 Idiopathic pulmonary fibrosis;(C) 運動肺功能會進行六分鐘行走,走路距離可作為預後的預測;(D) 兩者皆會降低。 Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
-- | (D) | 7. 下列何者最可能引起 transudative pleural effusion ? (A) 肺結核 (tuberculosis) (B) 類肉瘤 (sarcoidosis) (C) 尿毒症 (uremia) (D) 肺栓塞 (pulmonary embolism) | 104(一)專醫三-12 | |-----|--------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 
 ## Clinical Caveats
 

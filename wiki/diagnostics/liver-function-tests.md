@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch20]]"
   - "[[sources/med3-book2-ch22]]"
@@ -46,6 +46,7 @@ sources:
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Liver function tests, LFTs (肝功能檢查)'
   - 'Liver function tests, LFTs'
@@ -60,7 +61,7 @@ tags:
 
 ## Summary
 
-用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -106,9 +107,12 @@ tags:
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch17]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- 常用縮寫:總膽紅素(total bilirubin, T.B.)、間接(非結合型)膽紅素(indirect/unconjugated bilirubin, I.B.)、直接(結合型)膽紅素(direct/conjugated bilirubin, D.B.) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- ...- b. 臨床表現:出生2週內發生黃疸。 - c. 機轉 & 成因:為 I.B. 升高,因為不成熟的代謝酶影響膽汁代謝運送或排出減少,造成膽汁鬱積(cholestasis)。 - (2) 病理性高膽紅素血症(pathologic hyperbilirubinemia) - a. 臨床表現:出生2週內發生黃疸。 - b. 檢查 & 診斷: D.B. > 1 mg/dL 或 T.B. > 5 mg/dL 且 D.B. > 20%T.B. ,需進一步檢查。 - (a) 此診斷下包含了許多疾病,常見的 15 個疾病佔了 95% 病童發生的原因,而以不明原因新生兒肝炎(idiopathic neonatal hepatitis) 佔約 30~40% 最常見、膽道閉鎖(biliary atresia) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (B) 3. 一位 45 歲自小罹患慢性 B 型肝炎的男性病患,主訴一個多月前覺得右上腹疼痛,有時疼痛會延伸到右邊的肩膀。最近一週至門診追蹤腹部超音波顯示有多顆肝臟腫瘤,分別是一顆 2.2 公分大小在 S2 的位置,和另一顆 6.6 公分大小在 S5 的位置,有觀察到低迴音(hypoechoic)的腫塊。進一步安排腹部電腦斷層之後,發現在相同位置有同樣大小的腫塊,並且已經侵犯到右側肝門靜脈。其他部位的腹部超音波和電腦斷層結果皆屬正常。抽血結果發現胎兒蛋白值(AFP)為 230 ng/mL,AST 53 U/L,ALT 68 U/L。則這位病人最可能的診斷為何? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) serum bilirubin level Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】在肝臟移植方面,歐美國家以MELD score 為評估方式,項目包含總膽紅素(total bilirubin)、凝血時間(INR)、腎功能(creatinine level)。以下列公式計算: MELD = 3.78 [Ln serum bilirubin (mg/dL)] + 11.2 [Ln INR] + 9.57 [Ln serum creatinine (mg/dL)] + 6.43 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -125,8 +129,6 @@ tags:
 - ...cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - d. Bilirubin (mg/dL) - (a) 1.2~1.9:1分 - (b) 2.0~5.9:2分 - (c) 6.0~11.9:3分 - (d) > 12.0:4分 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (D) 13.50 歲男性肝臟移植術後第七天,出現右上腹痛及輕微發燒, 100(二)專 g-GT、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的肝功能正常且與國 醫五-79 明有相同基因,但醫師並沒有提出要摘取大維肝臟 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 1. Aspartate aminotransferase (AST) 與 alanine aminotransferase (ALT) - (1) 當肝臟細胞急性受損時兩者皆會上升; ALT 特異性比 AST 高。 - (2) 急性病毒性肝炎、中毒、缺氧或是低組織灌流均可造成 ALT 或 AST 在血液升高至破千。 - (3) 在急性病毒性肝炎中, ALT 上升數值比 AST 高。 - (4) 在酒精性肝炎、fulminant echovirus infection 以及代謝障礙引發的肝炎中,AST 升高幅度比 ALT 高。 - (5) 兩者僅可代表肝臟細胞受損,但數值的高低無法代表疾病嚴重度以及預後。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...見為骨骼、肝臟、小腸以及 胎盤。其常被用來評估肝膽系統疾病或是骨骼相關疾病。 - (2) 當發生 biliary obstruction 或 cholestasis,則 alkaline phosphate 會升高。若是伴隨 direct bilirubin 上升,大大暗示著 biliary obstruction 或 cholestasis。 - (3) 在 Wilson disease 或 hypothyroidism, alkaline phosphatase level 則是會降低的。 - (4) 若是伴隨 γ-GT 的上升,暗示著 alkaline phosphatase 來自於肝膽系統。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch07]]"
@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Brainstem (腦幹)'
   - 'Brainstem'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...的敘述,何者錯誤? 醫五-47 - (A) 神經母細胞瘤源自於神經 細胞 (neural crest cells),是交感神經系統的惡性腫瘤 - (B) 大約有 65% 的神經母細胞瘤是發生在腹部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母細胞瘤的存在及其是否已有轉移,也可用 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (1) 分類:臨床上以組織學分類可分為五類 - a. 浸潤性乳腺管癌(infiltrating ductal cancer):是最常見的乳癌,佔75~80%。 - b. 浸潤性小葉癌 (infiltrating lobular cancer): 6~8%。 - c. 其他類型: - (a) 髓樣癌 (medullary cancer): 5~8%。 - (b) 黏液性癌 (mucinous cancer): 2~4%。 - (c) 管狀癌 (tubular cancer): 1~2%。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - ...aget disease 是原發的 | 目乳房的腫瘤,經由乳腺管路系統 | | | | 進入乳頭的上皮層。 | | | | (B) | 6. 比較同一期別的乳癌,下列何 | 運乳癌組織型態預後最好? | 108(一)專 | | | (A) medullary carcinoma | | 醫五 -42 | | | (B) mucinous carcinoma | | | | | (C) metaplastic carcinoma | | | | | (D) infiltrating ductal carcinoma | | | | | 【詳解】Mucinous carcinoma 予 | 頁後最好,五年存活率約九成。 | | | (C) | 7. BRCA 1 的基因變異與下列何種 | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - ...--------|---------| | 化(micro-calcification)的表徵,臨床理學檢查無法觸摸到腫塊 | 醫五 -9 | | 位置,請問病人最可能的診斷是: | | | (A) phyllodes tumor (B) medullary carcinoma | | | (C) ductal carcinoma (D) lobular carcinoma | | | 【詳解】乳癌最常見的類型就是 ductal carcinoma,於乳房攝影 | | | 上的表現為群聚性的微小鈣化。 | | | (B) 17. 下列對於乳房之發炎性癌(inflammatory carcinoma)的敘述,何 | | | 者正確? | 醫五 -40 | | (A) 預後佳 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -76,7 +79,6 @@ tags:
 - 【詳解】高血壓性腦出血位置:putamen ≒ 50% > thalamic > pons ≒ cerebellum。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - (C) 3.55 歲男性,平時除高血壓外無其他疾病,於半小時前,突發暈眩之後意識漸漸昏迷,血壓 180/105 mmHg,心跳 105/分,呼吸 22/分,兩側瞳孔皆為 2.0 mm,光反射不明顯;Glasgow昏迷指數為 $E_2V_2M_3$ ,在實行快速程序插管 (rapid sequence intubation)後,瞳孔狀況不變,此時電腦斷層顯示小腦出血合併腦幹壓迫跡象,下列那一項處置較適當? - (A) 會診放射科作血管攝影及栓塞 - (B) 安排加護病房,採保守支持性治療 - (C) 會診神經外科安排緊急手術 - (D) 給予過度換氣治療(hyperventilation ),控制 $PaO_2$ 在 25~30 mmHg Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - 2. 硬膜內脊髓外腫瘤(intradural extramedullary spinal cord tumor):40% - (1) 腦膜瘤 (meningioma): - a. 好發於年老人,女性多於男性。 - b. 常長於胸椎。 - c. 由於生長緩慢,故在臨床症狀出現之前,脊髓已經被壓迫扁平到某種程度了。 - d. 影像檢查: MRI 或 CT 脊髓攝影。 - e. 手術切除,預後好。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- 3. 脊髓內腫瘤 (intramedullary tumor):5% - (1) 罕見,最常見為星狀細胞瘤(astrocytoma)、其次為室管膜瘤(ependymoma)。 其它包括血管細胞瘤、脂肪瘤、類上皮瘤、結核瘤及海綿狀血管瘤都有被報 告過。 - (2) 臨床症狀:類似於 central cord syndrome。 - (3) 影像檢查:脊髓攝影可以確定脊髓內有無病灶。但 MRI 可提供較多資訊,區分 腫瘤和空洞症,了解病灶範圍。 - (4) 處置:脊椎縱切片或針刺法得到組織切片,手術切除、放射線治療。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 
 ## Clinical Caveats
 

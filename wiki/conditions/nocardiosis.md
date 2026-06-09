@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch14]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Nocardiosis (奴卡氏菌感染)'
   - 'Nocardiosis'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-可造成肺部、皮膚或中樞感染，免疫不全者風險較高。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成肺部、皮膚或中樞感染，免疫不全者風險較高。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med3-book3-ch19]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- I. 土壤絲菌症 (Nocardiosis) 48 Source: [[sources/med5-book4-ch03|丙、肺]].
+- ### I. 土壤絲菌症 (Nocardiosis) Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 為一種嗜氧菌,廣泛存在土壤和家禽畜身上,罕見而緩慢進展的感染。最常見菌種 為 Nocardia asteroides 佔 90%,而 Nocardia farcinica 有較強之毒性。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 1. 特殊,慢性,或反覆的感染。例如: - (1) ≥ 1 次全身性的感染(sepsis, meningitis)。 - (2) 一年內≥ 2 次嚴重的呼吸道或軟組織細菌感染 (cellulitis, draining otitis media, pneumonia, lymphadenitis)。 - (3) 特殊部位的嚴重感染(liver, brain abscess…)。 - (4) 特殊病原菌的感染(Aspergillus, Nocardia…)。 - (5) 常見病原菌感染但異常的嚴重。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...cocci, | Serratia,Klebsiella; | | | | enterovirus); | Haemophilus…); | 黴菌如 Candida; | | | | Candida; PCP ; | XLA 病人常見 | Nocardia, Aspergillus | | | | mycobacteria | enterovirus 感染; | | | | | | 寄生蟲 (giardia, | | | | | | cryptosporidia) | | | | 臨床 | 生長發育不良 | 反覆的鼻竇炎或肺 | 皮膚感染 (abscess, | 腦膜炎,關節炎, | | 表現 | (Failure to thrive) | 炎 | dermatitis, celluli Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

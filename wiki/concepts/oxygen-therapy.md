@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch20]]"
@@ -45,6 +45,10 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch09]]"
   - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Oxygen therapy (氧氣治療)'
   - 'Oxygen therapy'
@@ -59,7 +63,7 @@ tags:
 
 ## Summary
 
-低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -104,9 +108,19 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch09]]
 - [[sources/med5-book3-ch08]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch10]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- (D) 4. 一位 30 歲的男性工人從 6 公尺高的鷹架墜落,身體檢查顯示收縮壓 120 mmHg,右胸有明顯的連迦胸(flail chest),嚴重的呼吸窘迫(severe respiratory distress),右胸呼吸聲音稍微降低,叩診時則左右兩側類似。給予非再呼吸型面罩氧氣 15 L/min 後,其動脈氣體分析為 pH: 7.47,PaO2: 65 mmHg,PaCO2: 28 mmHg;下列何者最可能解釋他的異常動脈氣體分析之原因? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (D) 9. 當你接收到一位嚴重創傷已插有氣管內管插管 (endotracheal tube) 103(二)專 的轉診病人時,下列處置何者最適當? 醫五-73 - (A) 儘快接上呼吸器 - (B) 趕快評估其他未被發現的傷害 - (C) 迅速地拔除氣管內插管並給予足夠的氧氣 - (D) 檢查氣管內插管的位置是否在正確位置上 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 6. 治療:初期基本處置上,腸胃疝入胸腔是因液體或空氣積聚,導致腸胃道持續膨脹 擠入胸腔,故首要是解除壓力,除了放置鼻胃管外,須避免做面罩扣壓給氣之動作 以免將空氣繼續灌入腸胃道而加重病情。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- (BD) 2. 先天橫隔膜疝氣 (congenital diaphragmatic hernia) 的嬰兒,其 101(ニ)専 出生須急救的步驟不包括下列何者? - (A) 氣管內插管 (endotracheal tube) - (B) 面罩 (mask) 呼吸 - (C) 放置胃管 - (D) 動脈及靜脈導管 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- (A) 5. 26 歲男性,身高 178 公分,體重 63 公斤,過往健康情況良好。 100(二)專某天深夜打電腦時突然右側胸痛及呼吸困難。聽診發現左側呼 醫五-10 吸聲音比右側明顯許多。請問以下那一項處置較不恰當? - (A) 安排支氣管鏡檢查是否有右側支氣管異物 - (B) 安排胸部 X 光攝影 - (C) 給予氧氣治療 - (D) 準備放置胸管的器械及用品 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...病 (Liver disease)、尿毒症 (uremia)、發炎性腸疾病 (inflammatory bowel disease)。 - (6) 物理性因子 (Physical agents): 放射線 (Radiation)、氧毒性 (O2 toxicity)、燒 燙傷 (thermal injury)、爆炸傷 (blast injury)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 肝臟有兩套系統提供血流,一套為門靜脈 (portal vein),另外一套為肝臟動脈 (hepatic artery)。 - (1) 門靜脈提供 75% 的血液供應,但只提供 50% 的氧氣。 - (2) 肝臟動脈提供 25% 的血液供應,卻也可提供 50% 的氧氣。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - 2. 當構造異常,心臟有由右心至左心的分流,使得缺氧血直接參雜進含氧血內,降低氧氣濃度,則為發紺型先天性心臟病,會有嘴唇發紫、clubbing finger 的情形。(心臟瓣膜疾病也會有發紺的情形,統一於下一章節「心臟瓣膜疾病」介紹) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - a. 緊急處置可給予 PGE1 維持動脈導管的通暢,或經由心導管進行氣球心房中膈造口術(balloon atrial septostomy),使左右心房的血液混合改善血中氧氣濃度。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
@@ -119,12 +133,6 @@ tags:
 - (2) Malignant hyperthermia (惡性高體溫): - a. 少見,約十萬分之一,不容易事前預知,事發時相當緊急。 - b. 原因為麻藥造成,如吸入性麻醉藥(主要是 halothane,但亦可見於 isoflurane、desflurane、sevoflurane)、去極化肌肉鬆弛劑(succinylcholine),此類病人多為基因異常造成接觸麻醉藥時引發包內鈣離子增加,肌肉代謝加速,會有體內二氧化碳升高、心跳加快、體溫過高、全身肌肉僵直,甚至橫紋肌溶解。 - c. 治療方式是趕緊停止引起惡性高體溫的麻醉藥物,給予足夠的水分和氧氣 (此時全身組織耗氧量非常大),並給予施打 Dantrolene,能抑制鈣離子由肌 漿網中釋出,重新調整肌漿網內鈣離子的平衡,使體溫恢復正常。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (C) 11. 病人於腹部手術後,如果經評估後有發生腹部腔室症候群(ab- 103(二)專 dominal compartment syndrome)的風險時,應採取下列何種措施? 醫五-4 - (A) 供給氧氣 - (B) 供給大量輸液 - (C) 避免將傷口做初期縫合 (primary closure) - (D) 放置中央靜脈導管 (central venous catheter) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (4) 給予氧氣或進行插管:因外傷引起呼吸道阻塞或高位頸椎損傷引起呼吸肌肉癱 瘓的傷患,需予以插管換氣,其餘傷患則可以給予氧氣罩。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- (D) 20. 成人腦部重約佔體重之 2~3%,需要永不停止供應養分 (每天約 104(二)專 150 公克葡萄糖和 72 公升氧氣 )。腦部氧氣消耗量占身體之多少 醫四-49 百分比 (%) ? (A) 5 (B) 10 (C) 15 (D) 20 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (a) 太輕微者( 5. 承上題,所述病症,急診室醫師最先要做的處置為何? (A) 腦脊髓液檢查 (CSF examination) (B) 給予高壓氧氣治療 (hyperbaric oxygen therapy) (C) 頭部電腦斷層檢查 (head CT scan) (D) 使用藥物、優先降血壓 (antihypertensive therapy) | 103( 一 ) 專醫四 -48 | |-----|------------------------------------------------------------------------------------------- Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...被光線刺激,晚上休息改善 | 一天數次,好發夜晚入睡後 | | | 30 分鐘至 7 日 | 持續4到72小時 | 15 到 180 分鐘 | | 急性 | 改變生活方式; | Sumatriptan, Ergotamine | 100% 氧氣 | | 治療 | Antidepressant | Novamin | Sumatriptan, Ergotamine | | 慢性 | β blocker \ | $\underline{\mathbf{A}}$ nticonvulsant, $\underline{\mathbf{\beta}}$ blocker, | CCB | | 預防 | 肌肉鬆弛劑 | CCB, Antidepressant | 鋰鹽 (Lithium) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (1) 急性發作: - a. 100% 氧氣可使大部分病人緩解。 - b. Sumatriptan (selective 5HT1 agonist) 或 ergotamine (5HT agonist) 也對急性發作有效。 - c. 較難治療的可給予類固醇。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (C) 15. 承上題, 關於該病患的治療之敘述,下列何者錯誤? 106(一)專 (A) 急性發作時可以呼吸 100% 氧氣 15 分鐘 醫四 -60 (B) 使用 10~14 天的類固醇治療 (C) 使用 1 個月的 ergotamine 來預防發作 (D) 急性發作時使用 sumatriptan 來止痛 【詳解】一般只在急性期緩解症狀用。 (C) 16. 關於皮質傳播性抑制(cortical spreading depression)的敘述,下 105(二)專 列何者正確? 醫四-49 (A) 由腦部額葉向枕葉方向傳遞 (B) 傳導速度是每分鐘 2~3 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 
 ## Clinical Caveats
 

@@ -2,13 +2,14 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Phototherapy (新生兒黃疸照光治療)'
   - 'Phototherapy'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-以藍光將 unconjugated bilirubin 轉為可排泄異構物，降低 kernicterus 風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以藍光將 unconjugated bilirubin 轉為可排泄異構物，降低 kernicterus 風險。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med5-book2-ch06]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- A. 新生兒黃疸(Neonatal jaundice) 174 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- ### A. 新生兒黃疸 (Neonatal jaundice) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- 2. 常見診斷: - (1) 生理性黃疸 (physiologic jaundice) - a. 最常見原因,約佔15%出生2週內足產兒新生兒黃疸原因。 - b. 臨床表現:出生2週內發生黃疸。 - c. 機轉 & 成因:為 I.B. 升高,因為不成熟的代謝酶影響膽汁代謝運送或排出減少,造成膽汁鬱積(cholestasis)。 - (2) 病理性高膽紅素血症(pathologic hyperbilirubinemia) - a. 臨床表現:出生2週內發生黃疸。 - b. 檢查 & 診斷: D.B. > 1 mg/dL 或 T.B. > 5 mg/dL 且 D.B. > 20%T. Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (A) 照光 (phototherapy) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (7) 在照光治療後,毛囊 outer root sheath 的黑色素母細胞活化後,移行到表皮,色素會以各個毛孔為中心開始恢復,再向外擴散,稱作 follicular pattern repigmentation。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (C) 2. 24 歲女性在臉部、頸部出現脫色病灶,如圖所示,關於此病的敘 109( ) 專 述,下列何者錯誤? 醫四 -43 - (A) 此病症可能出現 Koebner phenomenon - (B) 此病症可能造成病人社會適應困難 - (C) 病灶內的黑色素細胞雖存在,但無 法有效製造黑色素顆粒 - (D) 波長 308 nm 之準分子光治療 (excimer phototherapy) 有效 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].

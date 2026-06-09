@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book3-ch05]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book4-ch13]]"
 aliases:
   - 'Strangulated bowel obstruction (絞扼性腸阻塞)'
   - 'Strangulated bowel obstruction'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-腸阻塞合併血流受阻會導致缺血、壞死與穿孔，是需緊急處置的外科急症。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腸阻塞合併血流受阻會導致缺血、壞死與穿孔，是需緊急處置的外科急症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book3-ch05]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch02]]
+- [[sources/med5-book4-ch13]]
 
 ## Key Details From Sources
 
+- (1) 腹股溝疝氣 - a. 腹股溝突出:腹股溝外環有突出物並下降至陰囊或大陰唇,通常由小兒科醫 生體檢或父母觀察發現。 - b. 腹股溝疼痛:須考慮箝頓(incarceration)和纏絞(strangulation)發生造成很嚴重的後果,早產兒較常有疝氣,但卡住機率反而較低。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
 - (2) 若出現 rebounding pain 或 muscle guarding,則可能已進展至絞扼性腸阻塞 (strangulation)。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
 - (C) 若出現腹部疼痛或 peritoneal sign,則表示有腸壞死的可能性 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
 - (2) Afferent loop syndrome: - a. 由於膽管與胰管是接在 A-loop,也就是 duodenum,術後,若 afferent loop留得太長時,容易發生纏繞而造成阻塞 (kinking、strangulation),或是發生與胃接口處的狹窄 (stenosis)、小腸的沾黏 (adhesion),胰液和膽汁將無法進入小腸,蓄積在 A-loop,就會形成 afferent loop syndrome。 Source: [[sources/med5-book3-ch03|丙、胃癌]].

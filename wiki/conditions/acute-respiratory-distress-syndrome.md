@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch24]]"
   - "[[sources/med3-book1-ch20]]"
@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'ARDS (急性呼吸窘迫症候群)'
   - 'ARDS'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-瀰漫性肺泡傷害造成低氧性呼吸衰竭，通氣策略需肺保護。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瀰漫性肺泡傷害造成低氧性呼吸衰竭，通氣策略需肺保護。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,12 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- S. 急性呼吸窘迫症候群(Acute respiratory distress syndrome, ARDS) *62* Source: [[sources/med5-book4-ch03|丙、肺]].
+- ### S. 急性呼吸窘迫症候群 (Acute respiratory distress syndrome, ARDS) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (B) 19. 在急性心肌梗塞後,會發生各種併發症,下列何種併發症發生後 102( ) 專 必須考慮儘速手術治療,以免病人病情惡化而死亡? 醫五-25 - (A) 呼吸窘迫症候群(acute respiratory distress syndrome) - (B) 壞死性心室中隔缺損 - (C) 低心輸出量合併寡尿(oliguria) - (D) 細菌性心內膜炎 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - 暫時使用 ECMO 直至心臟功能恢復,或者是過渡、穩定病人到下一個治療方式 (心臟移植);肺衰竭(新生兒肺部疾病、急性呼吸窘迫症候群);或肺臟移植、 神經外科手術及大血管動脈瘤的手術等等。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
@@ -67,7 +71,6 @@ tags:
 - b. Pplat 代表著肺泡的彈力,當 Pplat 愈高,代表給予一樣容積,肺泡壓力上升,即 肺泡順應性下降,表示肺水腫、肺炎、ARDS 更嚴重了。 Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - (A) 7. 李先生 78 歲,因吸入性肺炎併發急性呼吸窘迫症候群,在加護病房 接受呼吸器治療,使用 pressure control mode, 住院第三天晚上, 李 先生突然呼吸急迫,且呼吸器響起低潮氣量警告,呼吸治療師立即 確認人工氣道和呼吸器功能正常,則下列何者為正確處理? Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - ...| | | 環境相關 | 塵肺症 (Pneumoconiosis) 中的石棉 (Asbestosis) | | | | | 放射線傷害 (I | Radiation) · Aspiration pneumonia, Residual of ARDS | | | | Idiopathic | 發炎末期 | Idiopathic pulmonary fibrosis (IPF) | | | | interstitial | | [形態學上稱 Usual interstitial pneumonia (UIP)] | | | | pneumonia | 活躍發炎 | Non-specific interstitial pneumonia (NSIP) | | | | | | Crypt Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
-- (B) 4. 一位 42 歲男性病患,10 年前在化學工廠工作時,因為工安意外,吸入大量 ammonia。當時因為 acute inhalation lung injury 引起 ARDS,住院置入氣管內管及使用呼吸器治療,2 星期後脫離呼吸器,出院回家。但是病患從此患有慢性咳嗽、大量黃痰及漸進性呼吸困難,同時併發反覆肺部感染。下列敘述何者錯誤? Source: [[sources/med3-book1-ch21|戊、感 染]].
 
 ## Clinical Caveats
 
@@ -76,7 +79,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/flail-chest|Flail chest (連枷胸)]]
 
 ## Follow-up
 

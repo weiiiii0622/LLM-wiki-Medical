@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch03]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Sjogren syndrome (修格蘭氏症候群)'
   - 'Sjogren syndrome'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...α1- 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency )。 - c. 免疫缺失(selective IgA deficiency, allergic bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquired causes: 感染和發炎。 - a. 支氣管堵塞: 氣管外壓迫(腫瘤、淋巴結腫大)、吸入異物或刺激物質、膿痰。 - Source: [[sources/med5-book4-ch03|丙、肺]].
 - d. Neonatal lupus erythematosus(新生兒狼瘡):原因為患有 Sjögren syndrome 或 SLE 的狼瘡表現可分為兩種:一是出生時有暫時或臉部、手腳紅斑,通常這 些情况在半年左右會逐漸消失。另一是永久性的心臟變化:如先天性缺損及 心臟傳導阻斷等問題。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (A) 1. 下列何種自體抗體為 Sjögren's syndrome 特異性標示抗體? Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 【詳解】anti-Ro(SS-A)and anti-La(SS-B)為 Sjögren's syndrome 特異性標示抗體。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].

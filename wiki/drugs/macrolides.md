@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch14]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Macrolides (巨環內酯類)'
   - 'Macrolides'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med5-book3-ch02]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 5. 治療:僅單節破壞和擴張。 - (1) 支氣管擴張劑。 - (2) 拍痰。 - (3) 廣效型靜脈抗生素(急性發作期)。 - (4) 抗生素 Macrolide 類可免疫調節減少痰量。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 【詳解】幽門螺旋桿菌(Helicobacter pylori) 感染以藥物保守性治療為主, ex: Clarithromycin + Amoxicillin。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 3. 猝死(sudden death):Low potency 與 high potency 的藥物都曾經有 case report 過,當 pimozide 與 clarithromycin、erythromycin、azithromycin 與 dirithromycin 合 併 使用時容易發生。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -64,7 +67,6 @@ tags:
 - ...--|---------------------------------------|-----------------------------------------|--| | N = C = === 1.1114 | 無下列情形 | Clarithromycin, Azithromycin | | | CAP | 無卜列情形3個月內曾使用過抗生素 | | | | CAP | 當地 Macrolide resistance to S.P. > 25% | Moxifloxacin 或 | | | Comorbidity CAP | | Augmentin+ Clarithromycin, Azithromycin | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - (D) oral erythromycin Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (A) 3. 一個 3 天大新生兒,雙眼有化膿性分泌物,格蘭氏染色(Gram stain) 104( ) 專 為格蘭氏陰性雙球菌,應選用何種抗生素治療? 醫三-63 - (A) ceftriaxone - (B) erythromycin - (C) oxacillin - (D) tetracycline Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...狀動脈硬化、免疫缺乏、有心瓣膜、 | | | 治療用藥 | Multidrug resis. | Ciprofloxacin | 嚴重關節病變需要給予 Ceftriaxone ] | | | | withtitiding resis. | Azithromycin | 成里爾即內妥而安和」 Centraxone 实Ciprofloxacin | | | | Quinolone resis. | Ceftriaxone, | Cipionoxaciii | | | | Azithromycin | | | | | 通報 | 第二類法定傳染 | 病→24小時內通報 | 不須通報 | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

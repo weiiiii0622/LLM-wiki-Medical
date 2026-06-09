@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book1-ch13]]"
@@ -44,6 +44,9 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book3-ch22]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Smoking cessation (戒菸)'
   - 'Smoking cessation'
@@ -58,7 +61,7 @@ tags:
 
 ## Summary
 
-心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +105,19 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book3-ch22]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 5. 治療:根據氣胸範圍、伴隨症狀和病史而異。 - (1) 戒菸:所有吸菸者。 - (2) 監測:小範圍氣胸(< 20%)伴隨輕微症狀而生命徵象穩定者,每 24~48 小時 追蹤胸部 X 光。非複雜性氣胸每天約可吸收縮小 1%。 - (3) 侵入性治療:適用於發展性氣胸、延遲肺擴張、伴隨症狀惡化、中等範圍氣胸 (20~40%)和大範圍氣胸(40%)幾乎伴隨持續症狀造成生理功能受限。 - a. 細針抽吸:可快速解除症狀和恢復肺擴張,並可評估是否持續漏氣需進行胸 廓造口術,可重複施行。 - b. 胸管、 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...間皮細胞瘤 (diffuse malignant pleural mesothelioma, MPM): - (1) 局部侵犯性腫瘤。 - (2) 危險因子:由石棉(asbestos)長期接觸暴露引起佔約75%。其他因子,如:各種職業暴露、抽菸或放射線治療等,尚未證明為危險因子。 - (3) 臨床表現:因肋膜積水和被腫瘤包覆而肺擴張不全,導致呼吸困難;因腫瘤浸 潤到胸壁和附近器官,導致胸痛,此兩者為最常見症狀。其他相對常見非特異 性症狀,如:體重減輕、厭食、夜汗、虛弱。 - (4) 檢查診斷: - a. 理學檢查:隨腫瘤期別不同而異。 - (a) 早期: 肋膜積水導致呼吸音減弱。 - (b) 晚期:可觸診胸壁或腹壁上腫瘤,或是淋巴腫大。 - b. 影像檢查: - (a) 胸部 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (2) 生活習慣矯正:戒菸、減少咖啡因攝取、避免暴飲暴食或睡前飲食、抬高床頭、 過緊的衣物造成腹壓增加。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...rcinoma | | | | 【詳解】上段和頸段以 SqCC 最常見。 | | | (B) | 5. 李先生,47 歲,最近一個月來逐漸感覺有吞嚥困難現象,無法 | 101(二)專 | | | 進食固體食物,且體重消瘦2公斤。李先生平常有抽菸、喝酒習 | 醫五 -6 | | | 慣。李先生經一系列檢查,證實罹患食道鱗狀上皮癌,有關食 | | | | 道癌,下列何者是最正確答案? | | | | (A) 以放射治療為主 | | | | (B) 以位於胸部食道中段最多 | | | | (C) 食道切除後,以小腸重建最常見 | | | | (D) 東方人食道癌,組織病理以腺癌最常見 | | | (C) | 6. 有關食道癌之敘述,下列何者錯誤? | 101(一)專 | | | ( Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (1) 危險因子:男性抽菸增加 22 倍、女性抽菸增加 12%。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 3. 一位 50 歲女性病人,因持續咳嗽兩個多月來診,病人無抽菸病 102(二)專史,體重無明顯減輕,胸部電腦斷層如圖一所示,下列何者為最 醫五-1 合適的描述? Source: [[sources/med5-book4-ch03|丙、肺]].
+- (B) 3. 有關肺癌的描述,下列何者正確?① adenocarcinoma 是最常見的 細胞型 ② squamous cell carcinoma 的發生與抽菸最有關聯 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (A) 5.55 歲男性,酗酒抽菸超過10年,斷斷續續嚴重腹痛,也會痛到 104(二)專 背後,電腦斷層如下,則此病人目前最可能的診斷及症狀發生的 醫五-52 原因為何? Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...詳解】粗針切片病理為非典型腺管增生的病人,約有 1/3 為惡 | | | 性,須以 surgical biopsy 的方式將病灶切除進行 biopsy 作確診。 | | | (B) 6.35 歲女性,來診主訴無痛性乳頭出血性分泌,病人過去無抽菸 101(ニ) | 專 | | 喝酒習慣,沒有懷孕過往史,理學檢查無可觸摸腫瘤,腋下無淋 醫五-7 | | | 巴結腫大,以下何者是最可能的診斷? | | | (A) Paget's disease | | | (B) intraductal papilloma | | | (C) ductal carcinoma | | | (D) fibrocystic disease | | | 【詳解】關鍵字為無痛性乳頭出血性分泌,考慮 int Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
@@ -116,13 +129,6 @@ tags:
 - (C) 19. 42 歲肥胖並有抽菸的女性,腹部已有橫式剖腹產疤痕,乳房是 E罩杯。現罹患右側乳癌,要求改良式乳房全切除手術(modified radical mastectomy)後立即進行乳房重建手術。下列有幾項選擇: Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (送)21.使用根蒂性横腹直肌肌皮瓣(pedicled transverse rectus abdominis 103( ) 専 myocutaneous (TRAM) flap ),下列敘述何者錯誤? - (A) 血流供應來自深下腹動脈 (deep inferior epigastric artery) - (B) 任何大小與下垂的乳房都適合此重建方式 - (C) 抽菸和肥胖為相對禁忌症 - (D) 皮瓣血流僅來自單一血管根蒂時, zone IV 的血液循環最差 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (4) 另外年紀大、男性、高血壓、抽菸、高血脂、genetic (Marfan syndrome) 皆為 危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- 4. 抽菸與 Crohn's disease 正相關,和 UC 負相關。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- 2. 外在 / 全身因素: 年紀、營養不足 (營養不良 / 肥胖、缺乏維他命 A 或 C、鋅、 鐵或銅 )、抽菸、類固醇的使用、抗癌藥物、糖尿病、尿毒症或 Collagen vascular disease。 - (1) 維他命 A 和 epithelialization 相關,可逆轉類固醇所造成的延緩傷口癒合的作用。 - (2) 維他命 C 與鋅和 collagen 合成相關。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- ...-----------------------------------------------------------------------------------------------|-------------| | | (C) 不抽菸的年輕病人 (D) 營養不良 | | | (C) 13. | . 對於 Clostridium difficile colitis 敘述,下列何者錯誤? (A) 百分之 45 到 55 的 Clostridium difficile colitis 發生在外科的病患,尤其是接受一般外科和血管外科手術的機會最高 (B) Clostridium difficile 過度增生會造成不同程度的疾病,從沒有症狀的帶原者到 self-limited Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- ...------------------------------------------------------------------------------------|-----------------| | (A) 有心肌缺血心臟病並有抽菸,在手術前後期可使用乙型阻斷劑(β-blocker) | | | (B) 老年人發生無症狀菌尿症(bacteriuria)的機率比較高,手術前應檢查尿液 | | | (C) 雖然老年人有糖尿病的比率較高,但是高血糖 (hyperglycemia) 並不會增加手術的發病率和死亡率 (morbidity and mortality) | | | (D) 老年人在手術前應評估其肺部功能 | | | (A) 14. 當小客車司機因追撞大貨車,於 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- 3. 物質濫用:抽菸、喝酒、古柯鹼。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- 2. 藥廳,注意抽菸並不會增加 ICH 的機率。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- (D) 9. 在尼古丁的戒瘾治療中,下列那種治療方式成效最好? 108(一)專 (A) 病人自己靠意志力戒除 醫四 -67 (B) 醫生建議病人戒除 (C) 使用尼古丁貼片或口香糖 (D) 使用戒菸藥物併用團體治療 (C) 10. 一位 61 歲男性長期使用 diazepam 每天 50~60 毫克達 15 年,若立 108(一)專 即停止服用後,下列何者為最正確的描述? 醫四 -69 (A) 心搏變慢 (B) 戒斷症狀不會在停用 5 天後才出現 (C) 抽搐發作為較嚴重之戒斷症狀 (D) 戒斷症狀不致於產生譫妄 【詳解】diazepam 屬於 BZD 鎮定劑,因此戒斷症狀會類似酒精 戒斷症狀,所以會:(A)心搏變快,(B)停用2 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch19]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Non-Hodgkin lymphoma, NHL (非何杰金氏淋巴瘤)'
   - 'Non-Hodgkin lymphoma, NHL'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-多樣化 B/T/NK cell 淋巴瘤疾病群，依侵襲性與細胞來源治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多樣化 B/T/NK cell 淋巴瘤疾病群，依侵襲性與細胞來源治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...胎瘤惡性精細胞瘤2~4%甲狀腺腫瘤 1%胸腺瘤 | 內分泌腫瘤 6%*良性腫瘤 73%神經性腫瘤 34%(40%*)原發性囊腫 16%(18%*)生殖細胞瘤 14%(11%*)淋巴瘤 13%(18%*)@佔成人腫瘤 59% | | 淋巴瘤(非何杰金氏金淋巴瘤 最常見 )生殖細胞瘤淋巴瘤 | | 神經性腫瘤 | | 与中20% | 成人 | 先天性前腸囊腫20%淋巴瘤 | @佔成人腫瘤 29% | | | | | | 後26% | 成人 | 神經性腫瘤神經鞘瘤(最常見)神經母細胞瘤 | @佔成人腫瘤 16%神經性腫瘤神經性腫瘤神經性腫瘤神經母細胞瘤 | 神經母 細胞瘤 (最常見) | 神經性腫瘤神經母細胞瘤 | 神經鞘瘤 (最常見) | 神經性腫瘤神經鞘瘤神經纖維瘤 | Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 1. 淋巴癌:結腸直腸為淋巴癌最常轉移之處,腸胃道淋巴癌中也有 10% 為 primary non-Hodgkin lymphoma。常見症狀為腹痛、排便習慣改變、體重減輕和血便。治療方法為手術切除和術後化療。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 4. 甲狀腺淋巴瘤(thyroid lymphoma): - (1) 相當罕見且多和 Hashimoto thyroiditis 有關。大部分為 non-Hodgkin lymphoma。 - (2) 只能藉由 biopsy 去診斷, FNA 幫助不大。 - (3) 主要治療為 radiotherapy。 - (4) 預後和有沒有侵犯出 thyroid capsule 有關,如果僅侷限在包膜內其五年存活率 為 85%,反之,只剩下 40%。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].

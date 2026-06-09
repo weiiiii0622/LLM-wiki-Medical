@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch02]]"
@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Lower gastrointestinal bleeding (下消化道出血)'
   - 'Lower gastrointestinal bleeding'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,13 @@ tags:
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- 4. 臨床表現:腹脹、嘔吐、餵食耐受性差(feeding intolerance)、解血便、易怒不安、 體溫不穩定、餵食變差、呼吸停止、心跳變慢。病情進展成全身性敗血症時,進一 步惡化會出現心血循環失常和呼吸失序、凝血狀態、最後死亡。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (A) 1. 梅克耳憩室(Meckel's diverticulum)所造成的下消化道出血,可 106 (-) 專利用下列何者做診斷?① 99mTc-pertechnetate 放射線同位素檢查 醫五-51 ②腹部超音波檢查 ③腹腔鏡探查 ④下消化道鋇劑攝影 ⑤大腸 鏡檢查 - (A) 1 (B) 2 (C) 4 (D) 2 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (B) 是造成小孩下消化道出血的原因之一 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (D) 1.65 歲男性看門診,主訴三天前大便有血絲,醫師做肛診檢查未發 109(-)專現有血跡,下列有關醫師的說法何者最適當? 醫五-75 - (A) 下消化道出血比上消化道出血具有生命危險性 - (B) 年紀大不是上消化道出血的危險因子 - (C) 大多數急性消化道出血不會自動停止流血 - (D)下消化道出血可能來自空腸 (jejunum) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (D) 6. 下列何種症 狀或檢查和中腸扭結 (midgut volvulus) 無關? 102(-) 専(A) 血便 - (B) 貧血 - (C) 腹脹 - (D) 腹部 X 光攝影 (plain abdomen) 可用來確定診斷 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - #### 戊、後天性血管異常及下消化道出血 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
@@ -78,9 +83,6 @@ tags:
 - ...位 60 歲男性病患於一週前因退化性關節炎接受左髋部人工髓關節全置換手術治療(total hip replacement),術後連續五天注射止痛劑和 cephalosporin 治療,病人於術後第 7 天開始發生持續性腹瀉、腹痛、且帶有少許血便,發燒及白血球增多,但並無腹膜炎現象,此時除了 stool culture 之外,該先如何處理? (A) 給予 Buscopan,並重新使用 cephalosporin 治療 (B) 作 stool cytotoxin assay,保守性治療,並安排大腸鏡檢查 (C) 安排 barium enema 檢查 (D) 安排緊急全大腸切除術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture 長出何種細菌,則 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (A) 1.3個月大的女嬰,體重 5.8公斤,純母乳哺育。最近常出現血便, 但沒有發燒,體力、精神、食慾都很好。大便除帶血絲外無特殊 變化。下列敘述何者最為正確? Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 【詳解】本題對醫師而言可說是常識題,但也是需要臨床經驗才可判斷。3個月大孩子解血便,是否有感染的可能性在臨床上要優先考量。如果排除感染,接下來考慮是否有對食物的耐受性不佳或是其它自身腸胃道的疾病。臨床上要檢驗過敏原,理想的年紀應在3歲左右(太早驗的話臨床上會有很高機會誤判)。至於潰瘍性大腸炎,以這個年紀而言應該不是優先考量,大腸鏡檢查不會是第一優先選擇。選項中較好選項為(A)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (D) 典型的症狀,為腹痛、腹部腫塊與血便 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...chonlein purpura): 4 項當中須符合≥ 2項。 - a. Palpable purpura:皮膚上有微凸的紫斑。 - b. 發病年齡≤ 20 歲。 - c. Bowel angina:瀰漫性的腹痛,通常吃東西後加重,可能有血便或腸缺血。 - d. 病理切片發現小血管壁有 granulocytes。 - (3) 臨床症狀:四大典型症狀包括皮膚紫斑(通常維持 3~10 天,病人沒有合併血小板低下及凝血病變),關節痛(特別是下肢關節),腹痛(與黏膜下出血及水腫有關),及腎臟病變(血尿,蛋白尿,急性腎衰竭…,大部分在發病後四週內出現)。此外,身體其它部位如陰囊、眼睛或是呼吸道有可能被侵犯。 - (4) 治療:大多會自行痊癒,以症狀治療為主。有腸胃或中樞神經症狀可用類 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

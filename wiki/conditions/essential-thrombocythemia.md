@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch14]]"
   - "[[sources/med3-book4-ch04]]"
@@ -16,6 +16,10 @@ sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch06]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Essential thrombocythemia, ET (原發性血小板增多症)'
   - 'Essential thrombocythemia, ET'
@@ -30,7 +34,7 @@ tags:
 
 ## Summary
 
-血小板為主的 MPN，可有血栓或出血風險。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血小板為主的 MPN，可有血栓或出血風險。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +50,20 @@ tags:
 - [[sources/med3-book4-ch27]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch06]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- The Eighth Edition Lung Cancer Stage Classification. Detterbeck, Frank C. et al. CHEST, Volume 151, Issue 1, 193-203. Source: [[sources/med5-book4-ch03|丙、肺]].
+- 【詳解】参考資料: Alloubi I, Jougon J, Delcambre F, et al: Early complications after pneumo-nectomy: Retrospective study of 168 patients. *Interact Cardiovasc Thorac Surg* 2010; 11(Issue 2): 162-5. Source: [[sources/med5-book4-ch03|丙、肺]].
+- **Reference:** Gould MK, Donington J, Lynch WR, et al: **Evaluation Of Individuals** With Pulmonary Nodules: When Is It Lung Cancer? *Chest* 2013; 143(5\_suppl): e93S-e120S. doi:10.1378/chest.12-2351. Source: [[sources/med5-book4-ch03|丙、肺]].
+- The lymphatic drainage of the thyroid (Moore et al. 2010. pp. 1021). Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- ...【詳解】(B) 生殖細胞瘤 20% 為惡性,精母細胞瘤佔惡性中50%,僅 5%為縱隔腔生殖細胞瘤,僅佔 3-10%縱隔腔腫瘤。故相較其他答案較貼近正確敘述。 - \*Townsend CM, Beauchamp RD, Evers BM, et al: *Sabiston textbook of surgery: The biological basis of modern surgical practice*, 21st ed. Amsterdam:,Elsevier. 2021. - \*Bishop MA, Kyriakopoulos C: Mediastinal Seminoma. [Updated Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- Lama A, Ferreiro L, Toubes ME, et al: Characteristics of patients with pseudochylothorax-a systematic review. *J Thorac Dis* 2016;8(8):2093-101. Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 【詳解】(D) 尚未有明確的手術時間,依據不同的型態,手術時間落在 4 個月大至 1 歲大時接受矯正手術。Ref: Townsend CM, Beauchamp RD, Evers BM, et al.: *Sabiston textbook of surgery: The biological basis of modern surgical practice*, 21st ed. Amsterdam: Elsevier. 2021. Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - E. Behçet's disease 74 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - # E. Behçet's disease Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 1. Behçet's disease 是一種病因尚不完全清楚的全身性血管炎疾病,於 1937 年由土耳 其醫師 Hulusi Behçet 正式描述該病例。男女發病比約為 1:1,發病年齡約在 30 歲 上下。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -60,9 +75,6 @@ tags:
 - #### G. 貝塞特氏症候群 (Behçet's syndrome) Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (A) 2. Behçet's syndrome 的眼睛病變呈多樣性,下列何者不包括在內? 93( ) 專 (A) Keratitis 內 1-22 - (B) Posterior uveitis - (C) Retinal vessel occlusion - (D) Optic neuritis Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - #### C. 跨越理論模式 [Ref. Prochaska JO et al. Changing for Good, 1994 & 國健署] Source: [[sources/med3-book4-ch25|乙、行為科學]].
-- 2. 戒菸藥物治療: [Ref. Fiore MC et al. Public Health Service, 2008; Nides M, Am J Med, 2008] - (1) 尼古丁替代療法 (nicotine replacement therapy, NRT) - a. 經皮貼片 (transdermal patch):非醫師處方用藥 - b. 咀嚼錠 (gum): 非醫師處方用藥 - c. 口腔吸入劑 (inhaler):非醫師處方用藥 - d. 鼻噴霧劑 (nasal spray) Source: [[sources/med3-book4-ch25|乙、行為科學]].
-- #### E. PRECEDE-PROCEED 模式 [Ref.Green LW et al. Health Program Planning, 2005] Source: [[sources/med3-book4-ch25|乙、行為科學]].
-- (1) 篩檢工具: [Ref. Folstein MF et al. J Psychiatr Res, 1975] - a. 簡短智能測驗(Mini-Mental Status Examination, MMSE),總分為30分。但正常值會受到病患教育程度的影響,當受檢者的教育程度在國中以上,分數(Alzheimer's Disease) | 臨床症狀:為最常見的退化型失智症。會出現記憶力衰退,對人、時、地的辨認出現異常 | | | (-2227 | 病程:進行性退化,不可逆 | | 退 | | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 

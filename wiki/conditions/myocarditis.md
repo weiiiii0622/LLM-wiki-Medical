@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch11]]"
@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Myocarditis (心肌炎)'
   - 'Myocarditis'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-心肌發炎可造成胸痛、心律不整或心衰竭。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌發炎可造成胸痛、心律不整或心衰竭。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...e systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但症狀通常不會隨著胸腺瘤治療成功而改善。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (1) 廣義來說,只要任何需要「暫時性」心臟及肺臟支持的病人皆為可能的適用對象,例如心衰竭(心臟手術後的心因性休克、急性心肌炎、急性心肌梗塞),可 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...clozapine 為例,當超過 600 mg/ day 則有 4% risk。 99(二)專 (D) 13. 抗精神病藥物 clozapine 之副作用中,下列何者具有致命性,因 而曾在1970年代被歐美等國禁用? 醫四 -62 (A) 心肌炎 (B) 便秘 (C) 姿勢性低血壓 (D) 顆粒性白血球缺乏症 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - III. 後天性心臟疾病 (Acquired Heart Disease) 30 - A. 感染性心內膜炎 (Infective endocarditis) 30 - B. 風溼性心臟病(Rheumatic heart disease) 32 - C. 川崎病 (Kawasaki disease) 33 - D. 心肌炎 (Myocarditis) 39 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
@@ -68,7 +71,6 @@ tags:
 - 2. 疏螺旋體 (Borrelia) 類,如伯氏疏螺旋體 (Borrelia burgdorferi), - (1) 由硬蜱 (tick) 傳染給人。 - (2) 萊姆病 (Lyme disease) 分期: - a. 第一期:慢性遊走性紅斑 (erythema chronicum migrans) - b. 第二期:無菌性腦膜炎、Bell's palsy、心臟節律阻斷、心肌炎 - c. 第三期:慢性關節炎、腦病變 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (1) 腸病毒(Enteroviruses):這類病毒皆是糞口傳染,但不造成腹瀉等症狀,反而造成中樞神經、上呼吸道、心肌炎。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 - ...rn) 運動神經元受損,造成癱瘓 | | | | 克沙奇病毒 A 型 (Coxsackievirus A) | 疱疹性咽喉炎 (Herpangina)、手足口病 | | | | 克沙奇病毒 B 型 (Coxsackievirus B) | 心肌炎(人類病毒性心臟病最常見的病原) | | | | 伊柯病毒 (Echovirus) 等其他腸病毒 | 無菌性腦膜炎 | | | Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- ...,包含原發性流行性感冒病毒肺炎、細菌性肺炎及二者的混合型 (B) 大人感冒且服用 acetaminophen 可能併發雷氏症候群(Reye's syndrome) (C) 幼兒罹患流行性感冒且服用 aspirin 可能併發雷氏症候群(C) 心肌炎、横紋肌溶解、腦炎及 Guillain-Barre syndrome,都是流行性感冒可能出現的併發症 | 94(一)專內1-44 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

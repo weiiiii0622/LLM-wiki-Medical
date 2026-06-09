@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med3-book4-ch20]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch08]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Bisphosphonates in oncology (腫瘤骨病變雙磷酸鹽治療)'
   - 'Bisphosphonates in oncology'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-腫瘤骨轉移或 myeloma 骨病變可用以降低 skeletal-related events。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤骨轉移或 myeloma 骨病變可用以降低 skeletal-related events。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book4-ch28]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch08]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- (5) 骨掃描(bone scan):評估骨轉移。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (C) 12.80 歲的陳老先生身體一向硬朗,行動自如、心智正常,最近經確 103(-)專 診得到攝護腺癌,而且已經有骨轉移,泌尿科醫師建議進行手術 及睪丸摘除,經向陳老先生解釋,陳老先生願意接受手術但拒 絕摘除睪丸。陳老先生的兒子跟主治醫師要求手術麻醉後就一 併摘除睪丸,反正陳老先生年紀也大了,留著睪丸用處不大, 手術後他自然就會接受。主治醫師應該照著做嗎? - (A) 應該,因為子女可以代為決定 - (B) 應該,因為對病情控制有幫助 - (C) 不應該,因為陳老先生的自主權應受到尊重 - (D) 不應該,因為陳老先生的兒子沒有簽手術同意書 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (1) PTHrP: oncogen, virus, local growth factor - a. 常見於 Squamous cell carcinomas、Renal carcinomas、Bladder carcinoma 等。 - b. 某些腫瘤的 ras(oncogen)過度活化,會造成 PTHrP 表現增加;導致 Adult T cell lymphoma 的 HTLV-1 也會加強 PTHrP 表現;骨轉移的腫瘤可能因為骨頭提供的環境,PTHrP 表現也較多。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].

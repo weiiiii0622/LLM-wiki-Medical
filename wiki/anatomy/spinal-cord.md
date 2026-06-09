@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch01]]"
@@ -23,6 +23,9 @@ sources:
   - "[[sources/med5-book1-ch12]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book2-ch02]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Spinal cord (脊髓)'
   - 'Spinal cord'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,16 @@ tags:
 - [[sources/med5-book1-ch12]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book2-ch02]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- 1. 成人最常見的縱隔腔腫瘤 23%,通常在後縱隔腔,源自交感神經節和肋間神經的腫瘤,前上縱隔腔極為罕見,多為良性。佔孩童 34%縱隔腔腫瘤,多為惡性。約 10% 會侵犯到脊髓,又稱為 dumbbell tumors。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 【詳解】CT上可見由頸部下來的 thyroid gland,壓到氣管,造成 CxR上有氣管偏移而有吸氣期高頻音。(A)(B) 明顯可排除,(C) 多為神經性腫瘤,但沒看到腫瘤從脊髓延伸。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (2) 止痛:肋間神經阻斷或脊髓硬腦膜外止痛。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (2) 腹部超音波:評估泌尿系統和脊髓,尤其腎臟部位。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...ortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性器官的灌注 血流。 - f. 下肢半癱(spinal cord ischemia,Adamkiewicz 動脈灌流不足) - g. Graft infection · Aorto-enteral fistula · Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - H. 脊椎與脊髓腫瘤 (Spine and spinal cord tumor) 188 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (4) 由於脊髓只有到 L1,往下 發出神經叢稱作馬尾(cauda equina),馬尾發出的神經自 對應椎體的椎間孔出來,如 右圖例,L4 神經根已經從 L4 腰椎間孔出來,所以當 L4-L5 椎間盤突出時,反而 較少壓迫到 L4 神經根,卻 是壓迫到 L5。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -77,10 +87,6 @@ tags:
 - L. 基本神經學 151 - A. 血管支配 151 - B. 大腦與脊髓病灶的比較 151 - C. 上運動神經元、下運動神經元病灶的比較 151 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 本章節以介紹基本神經學開始,先比較大腦與脊髓病灶,而脊髓病灶又分上、 下神經元,再比較彼此差異。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (C) 5. 一位 60 歲女性,於一週前發生複視(diplopia),並無劇烈頭痛,神經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ischemic type) - (D) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- ...振動覺: - i. 第一棒:背根神經節 (dorsal root ganglion)接受來自肌纖維內的肌 梭 (muscle spindle)、肌腱上的高爾肌鍵器官 (Golgi tendon organ), 將刺激藉由 Aα 神經纖維傳入脊髓,下肢藉由薄束 (fasciculus gracilis)、上肢藉由楔形束 (fasciculus cuneatus),其上行於同側的背 側 (dorsal column)脊髓,將訊息傳到延腦的薄核、楔形核。 - ii. 第二棒:薄核、楔形核發出的神經纖維在延腦交叉到對側後,將訊息 由內側蹄系 (medial lemniscus) 傳到視丘 (thalamus)。 - iii. 第三棒:視丘將訊息傳到大腦皮質 (area 1~3)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- i. 第一棒:背根神經節 (dorsal root ganglion)接受來自體表 Pacinian corpuscle、Meissner's corpuscle、Merke's disc 接收的刺激,將刺激藉由 Aβ 神經纖維傳入脊髓。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (A) 結核菌腦膜炎的脊髓液外觀經常是混濁的,細胞數通常為每 毫升 25~500 顆,以嗜中性白血球為主,脊髓液中葡萄糖量 減少,但是蛋白質量增加 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 
 ## Clinical Caveats
 

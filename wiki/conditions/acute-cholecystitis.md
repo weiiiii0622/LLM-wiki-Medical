@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch20]]"
   - "[[sources/med3-book2-ch19]]"
@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Acute cholecystitis (急性膽囊炎)'
   - 'Acute cholecystitis'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-膽囊管阻塞後發炎，典型有右上腹痛與 Murphy sign。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊管阻塞後發炎，典型有右上腹痛與 Murphy sign。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- MALFORMATIONS. In: Holcomb GW, Murphy JP, Ostlie DJ, eds. Ashcraft's Pediatric Surgery (Fifth Edition). Philadelphia: W.B. Saunders; 2010: 468-490. Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- Reference: Levitt MA, Peña A. chapter 36 - IMPERFORATE ANUS AND CLOACAL ALFORMATIONS. In: Holcomb GW, Murphy JP, Ostlie DJ, eds. Ashcraft's Pediatric Surgery (Fifth Edition). Philadelphia: W.B. Saunders; 2010:468-490. Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 1. 根據統計,將近 90% 的急性膽囊炎患者伴隨結石的存在,急性非結石性膽囊炎只 佔所有患者的 2~15%。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
 - 1. 可利用腹部超音波與電腦斷層掃描診斷急性非結石性膽囊炎。 - (1) Sonographic Murphy sign - (2) 膽囊壁厚度≥ 3.5 cm - (3) 膽囊腫大 - (4) 膽囊周圍組織有積液 - (5) 膽囊黏膜有剝離現象 - (6) 膽囊壁內有氣體影像 (如 emphysematous cholecystitis) Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
 - (A) 1. 關於無結石性急性膽囊炎的敘述,下列何者錯誤? Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
@@ -61,8 +65,6 @@ tags:
 - ...觀察,不必治療 (B) 口服 Ursodeoxycholic acid (C) shock wave lithotripsy (D) laparoscopic cholecystectomy 【詳解】有症狀的膽結石可考慮開刀治療,不然兩年內急性膽囊炎機率可達 30%。 | 97(一)專醫三-15 | Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
 - a. 急性膽囊炎: Murphy's sign 即吸氣到一半會因發炎的膽囊刺激到橫膈膜而停止呼吸。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
 - | 比較 | 症 狀 | | 理學檢查 | | |-------|----------|--------------|----------|--------------------| | Stone | Pain | Intermittent | Fever | Murphy's sign | | Tumor | Painless | Progressive | Afebrile | Courvoisier's sign | Source: [[sources/med3-book2-ch19|乙、黃 疸]].
-- ...| | 左下腹部 | 結腸病變(憩室炎、便秘) | | | | | | 下腹部 | 膀胱感染或病變、女性的骨盆腔發炎 | | | | | 轉移性 | 後中背部 | 急性胰臟炎、腹主動脈剝離 | | | | | 疼痛 | 右背肩胛骨處 | 急性膽囊炎 | | | | | 25714 | 左肩 | 脾臟發炎、膿瘍或脾臟缺血 (infarction) | | | | | | 同側睪丸 | 輸尿管結石 | | | | | 腹痛性質 | 持續 | 腹内炎症或出血 | | | | | | 陣發性 | 中空臟器阻塞、痙攣 | | | | Source: [[sources/med3-book2-ch03|乙、腹痛]].
-- (C) 2. 下列那幾項敘述是正確的?①上腹痛原因不包括急性膽囊炎 ②急性 大腸憩室炎的壓痛點為 McBurney point ③急性胰臟炎容易輻射痛至 右側肩膀 ④脾臟膿瘍容易輻射痛至左側肩膀 ⑤腹主動脈瘤剝離之疼 痛可能傳導至肩膀區域 Source: [[sources/med3-book2-ch03|乙、腹痛]].
 
 ## Clinical Caveats
 

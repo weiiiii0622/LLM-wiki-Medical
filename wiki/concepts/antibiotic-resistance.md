@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch14]]"
@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Antibiotic resistance (抗生素抗藥性)'
   - 'Antibiotic resistance'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,12 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book2-ch05]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 5. 手術治療適應症: - (1) 藥物治療失敗且持續開放性傳染。 - (2) 接受 3~6 個月化療後出現開放性開洞肺結核,尤其出現抗藥性結核菌血症。 - (3) 持續陽性痰合併需手術切除之病灶(肺毀損、肺塌陷、支氣管擴張、支氣管 堵塞)。 - (4) 陰性痰合併肺毀損、阻塞性開洞、結核瘤。 - (5) 非典型分枝桿菌局部感染。NTM - (6) 中下葉結核性支氣管擴張。(因引流效果差) - (7) 開放性未開洞肺結核合併壁增厚或對藥物反應差。 - (8) 懷疑腫瘤。 - (9) 反覆或持續性咳血。(if bleeding > 600 mL/day) Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 1. 下列關於肺結核病(pulmonary TB)的手術適應症與敘述,何者 103(ニ)専 錯誤? - (A) 最常見的適應症為多重抗藥性肺結核 - (B) 併發黴菌感染或大咳血時應考慮手術 - (C) 病人術前的白蛋白值最好高於 3 g/dL - (D) 因為病人術前通常身體虛弱,手術應該全都以胸腔鏡手術進行 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 4. 開心手術更換人工瓣膜的 indication: - (1) 感染導致 valve stenosis or regurgitation 引發心衰竭。 - (2) 嚴重瓣膜閉鎖不全。 - (3) 黴菌或強抗藥性的菌種造成的心內膜炎。 - (4) 感染導致心臟傳導阻礙、annular or aortic abscess、穿孔產生 fistula。 - (5) 抗生素治療下仍舊反覆性栓塞和細菌贅生物(vegetation)。 - (6) 細菌贅生物大於1公分。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 【詳解】(B) 當菌種為對 vancomycin 有抗藥性時,才會選擇使用 linezolid;(D) 需考量到 Pseudomonas aeruginosa 或其他 Gram-negative bacilli 等菌。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -69,8 +73,6 @@ tags:
 - (2) 治療: - a. 完全沒有抗藥性可考慮 IV high dose penicillin - b. 一般經驗性用藥需使用第三代 cephalosporin 最好的選擇是 Ceftriaxone。 - c. 高度抗藥性,需加上 Vancomycin、Rifampin。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (註:因應 N. gonorrhoeae 抗藥性攀升, 2015 STD guideline 將 Ceftriaxone 的劑量由 125 mg 增加至 250 mg) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (1) 觸媒(Catalase)陽性、氧化酶(Oxidase)陰性、會發酵葡萄糖,為兼性厭氧菌。 許多菌種均能攜得抗生素的抗藥性。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- | 藥 物 | 機制 | 附註 | |---------------------------|--------------------------------------|----------------| | Oseltamivir · Zanamivir · | 可抑制神經胺酸 (Neuraminidase) | 對 A, B 型皆有效 | | Peramivir | | | | Amantadine · Rimantadine | 抑制 M2 蛋白阻止病毒 Uncoating | 僅對 A 型有效,但抗藥性高 | | Baloxavir | Cap-dependent endonuclease inhibitor | 對 A, B 型皆有效 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- d. Amantadine、Rimantadine(100 mg PO q12h for 7~10 days): 可抑制 Influenza A 進入宿主細胞,若在有症狀後的 48 小時內服用效果最佳。可能腸胃道不適、中樞神經異常(頭暈、緊張等),但抗藥性高,較少使用。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

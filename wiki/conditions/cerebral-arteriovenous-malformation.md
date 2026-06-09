@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch05]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch16]]"
 aliases:
   - 'Cerebral arteriovenous malformation, AVM (腦動靜脈畸形)'
   - 'Cerebral arteriovenous malformation, AVM'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-動脈與靜脈異常短路，可造成出血、seizure 或局部神經缺損。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+動脈與靜脈異常短路，可造成出血、seizure 或局部神經缺損。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ tags:
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch16]]
 
 ## Key Details From Sources
 
+- R. 動靜脈畸形(Pulmonary arteriovenous malformation) *61* Source: [[sources/med5-book4-ch03|丙、肺]].
+- ### R. 動靜脈畸形 (Pulmonary arteriovenous malformation) Source: [[sources/med5-book4-ch03|丙、肺]].
+- (A or D) 1. 下列何者不是肺動脈畸形(pulmonary AVM)之較常見併發症? Source: [[sources/med5-book4-ch03|丙、肺]].
+- 2. 血管畸形包含:微血管畸形(capillary malformation)、靜脈畸形(venous malformation)、淋巴畸形(lymphatic malformation)、動脈畸形(arterial malformation)、動靜脈畸形(arteriovenous malformation)、動靜脈瘻管(arteriovenous fistula)、混和血管畸形(combined vascular malformations)等。 Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - A. 動靜脈畸形 (Arteriovenous malformation, AVM) 166 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
 - ## A. 動靜脈畸形 (Arteriovenous malformation, AVM) Source: [[sources/med5-book1-ch16|庚、血管畸形]].
 - 2. 臨床症狀: - (1) 出血:最常見 - a. 約 50%的 AVM 會出血,好發於 15~20 歲的年輕人。 - b. 小型 AVM 因管內壓力較大,所以比大型 AVM 容易出血。 - c. 出血死亡率只有10%,比動脈瘤破裂低很多。 - (2) Seizure: - a. 診斷出 AVM 的年紀越輕,產生癲癇的機會越高。 - b. 大型 AVM 因為易影響到皮質表面,較易有癲癇發生。 - (3) 盜血效應(stealing effect): AVM 流速快,路徑短,會使得其周邊血液都流向 AVM,造 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
@@ -55,8 +63,6 @@ tags:
 - (C) 3.40 歲男性,自2個月前開始有漸進性的右側耳鳴,此耳鳴與脈搏 108(二)專 頻率相近,夜間會較大聲且影響其睡眠,並有右側耳後枕部頭 醫四-44 痛。最可能的診斷為何? - (A) 腦內動靜脈畸形 (arteriovenous malformation) - (B) 硬腦膜靜脈竇栓塞 (dural sinus thrombosis) - (C) 硬腦膜動靜脈瘻管 (dural arteriovenous fistula) - (D) 腦動脈瘤 (cerebral aneurysm) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...HTN | 15%×50% | | | | | ICH (15) | Amyloid angiopathy | 15%×30% | | | | CATI(E) | Aneurysm | 5%×75% | | | | SAII (5) | AVM | 5%×5% | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 4. 動靜脈畸形(AVM)依據不正的血管所在的位置,大腦實質深部的 AVM 比蜘蛛膜下腔的 AVM 多,所以 AVM 以 ICH 來表現的比 SAH 多。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...dus, thalamus, | | | | | | cerebellar hemisphere, pons | | 出血性 (20) | | Amyloid angiopathy | 5% | Lobar | | 山川住(20) | | AVM | 1.5% | Lobar, intraventricular, subarachnoid | | | CATT(E) | Aneurysm | 4% | Subarachnoid, intraparenchymal | | | SAH(5) | AVM | 1% | Lobar, intraventricular, subarachnoid | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...(EDH) | |--------|------------------------|------------------|--------------------------|----------------| | 常見原因 | 高血壓、動靜脈畸形(AVM) | 動脈瘤(交通支) | 老年人跌倒 | 嚴重外傷 | | 出血處 | 腦實質內 | 腦室、脊髓液內 | 硬膜下、腦組織周圍 | 硬膜內 | | CT 上形狀 | 腦實質內出血 | 五角大廈 | 半月狀 | 梭狀 | | CT 影像 | | | | | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 
 ## Clinical Caveats
 

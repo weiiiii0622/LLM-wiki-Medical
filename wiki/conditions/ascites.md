@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch18]]"
   - "[[sources/med3-book2-ch22]]"
@@ -27,6 +27,9 @@ sources:
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Ascites (腹水)'
   - 'Ascites'
@@ -41,7 +44,7 @@ tags:
 
 ## Summary
 
-腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹腔積液常見於肝硬化門脈高壓，需以 SAAG 與感染風險評估。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +71,15 @@ tags:
 - [[sources/med5-book3-ch17]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch10]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- c. 處置: - (a) 直接抽出積液並檢查分析。 - (b) 矯正原發疾病,如:心衰竭或腹水等。 - (c) 胸管引流:前者無效或反覆性肋膜積水。 - (d) 肋膜沾粘術:當胸管引流小於 150~200 mL/day 可以考慮。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...方式,不過目前認為病灶的大小及後續的病生理變化才是決定預後最重要的因素。過大的肺部腫塊壓迫到食道會因為影響吞嚥而造成羊水過多的症狀,相反的經過一些有效的胎兒治療,羊水過多的狀況也會有所改善。而如果腫塊壓迫到上下腔靜脈的話會造成胎兒水腫,包括腹水、胸水、心包膜積液以及皮膚水腫,嚴重的話更可能造成胎兒死亡。若是比較小的腫塊可能要出生之後才會造成呼吸窘迫的症狀,而更小的腫塊可能要等到兒童時期才會因為反覆肺部感染、氣胸或是生長遲滯才被發現。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- 6. 檢查 & 診斷:腹部 X 光呈氣腸壁(pneumatosis intestinalis),為細菌發酵腸壁產生氫氣,或呈現肝門靜脈氣(portal venous gas)、腹水、固定的小腸扭結環(fixed loops of small bowel)、腸道外氣體(站立或平躺,ex:football sign)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - 【詳解】內科外科都會考,未來在內外科用到的機會也非常多。 由 Encephalopathy(1), Ascites(1), Bilirubin(2), Albumin(1), PTINR(1)所組成。此病人算起來 6 分。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - $2 \, \, \mathcal{H}$ : one or more of pleural effusion, ascites, vascular complications, parenchymal complications and or gastrointestinal involvement Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
@@ -86,9 +95,6 @@ tags:
 - (B) 若血清白蛋白(Serum albumin)數值低下,加上超音波發現有 腹水,治療首先應給與白蛋白輸注,並給與維持性點滴輸液 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 9. 一位 5 歲大女生,出現腹水有 1~2 個月的時間,最後診斷為 Budd-104(二)專 Chiari syndrome,其最可能是由下列那條血管阻塞造成? 醫四 -10 - (A) 肝靜脈 - (B) 肝動脈 - (C) 肝門靜脈 - (D) 上腔靜脈 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (4)除了泌尿系統表現外,有些新生兒會因出現呼吸窘迫(羊水量過少會造成肺發育不全)、腹脹,甚至出現尿液腹水。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 2. 確診 dengue hemorrhagic fever 條件包括 fever、hemorrhagic manifestations、thrombocytopenia ( $20%、pleural effusion or ascites or hypoalbuminemia)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (1) 肝臟:臨床上 Wilson disease 表現在肝臟的疾病很多元:無症狀的肝臟腫大(有時會合併脾腫大)、亞急性或慢性肝炎、肝臟衰竭(有時合併溶血性貧血)、門脈高壓、腹水、全身性水腫、肝硬化、食道靜脈瘤破裂等。有時因肝功能問題造成其他問題如青春期延遲或無月經(amenorrhea)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- | 症狀 | % | 症狀 | % | |----------|------|----------|------| | 1. 全身倦怠感 | 89.7 | 11. 出血 | 34.1 | | 2. 疼痛 | 85.5 | 12. 腹水 | 32.2 | | 3. 食慾不佳 | 79.9 | 13. 發燒 | 31.8 | | 4. 便秘 | 67.8 | 14. 不安 | 31.3 | | 5. 呼吸困難 | 56.6 | 15. 吞嚥困難 | 30.4 | | 6. 水腫 | 50.0 | 16. 口腔炎 | 22.9 | | 7. 失眠 | 48.1 | 17. 潰爛傷口 | 22.5 | | 8. 噁心、嘔吐 | 44.0 | 18. 暈眩 | 19.1 | Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

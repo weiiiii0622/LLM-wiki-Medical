@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch07]]"
@@ -41,6 +41,14 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch06]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Esophagus (食道)'
   - 'Esophagus'
@@ -55,7 +63,7 @@ tags:
 
 ## Summary
 
-食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +104,27 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch10]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch06]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 1. 機轉 & 成因:為化膿性肋膜腔感染,是肋膜渗出液(exudate)最常見的形式。可 經胸壁創傷或手術傷口直接污染肋膜腔,或經血液(菌血症或敗血症)、肺部感染、 肺膿瘍破裂、感染性肺開洞破裂或縱隔感染(食道穿孔)等造成肋膜腔感染。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- Figure 19-52. Normal thoracic duct anatomy. The esophagus comes into close proximity with the thoracic duct as it enters the chest from its origin in the abdomen at the cisterna chyli. Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 3. 後縱隔腔:食道、降主動脈、奇靜脈、半奇靜脈、胸管、交感神經鏈、淋巴結。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 1. 急性縱隔腔炎(mediastinitis),通常感染源來自口咽菌叢,常見原因為食道穿孔、胸骨手術術後感染、口咽或頸部感染、頭頸部手術術後感染、氣管支氣管穿孔、肺部感染或胸腔創傷,為手術急症,治療需矯正感染原因,並進行引流甚至清創,合併抗生素治療。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (C) 1.42 歲女性病人,前頸部吞嚥異物感 2 年,沒有心悸或怕熱等症 96(二)專狀,無咳嗽,頸部中央靠近喉結下有一腫塊,近一星期左右增大 約 2 公分,微痛,身體檢查觸診微軟有彈性,無壓痛,無淋巴 腺腫大。該腫塊位於甲狀軟骨前下方,並有吞嚥時位移及抬舌 位移現象,下列何者是最正確的診斷? - (A) 淋巴瘤 (lymphoma) - (B) 甲狀腺囊腫 (thyroid cyst) - (C) 甲狀舌骨囊腫(thyroglossal cyst) - (D) 食道腫瘤 (esophageal tumor) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- B. 咽食道憩室、贊克氏憩室 (Pharyngoesophageal diverticulum、Zenker diverticulum) 82 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- C. 食道閉鎖和氣管食道瘻管 (Esophageal atresia and tracheoesophageal fistula) 83 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- D. 食道失弛緩症(Achalasia) 85 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- g. 食道穿孔 (Evidence of esophageal perforation) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 1. 根據 Modified Johnson classification,針對位置與其潰瘍產生的機轉作分類。 - (1) 第一型:潰瘍位於胃小彎處,與胃酸分泌量無關。 - (2) 第二型:出現兩個潰瘍,一個位於 胃部,另一個位於十二指腸。與較 高的胃酸分泌量相關。 - (3) 第三型:位於幽門前方的潰瘍,可 能會出現多個潰瘍。與較高胃酸分 泌量相關。 - (4) 第四型:潰瘍靠近胃與食道交界處。 通常與胃酸的分泌量無關,可能與 黏膜防衛機制缺陷相關。 - (5) 第五型:潰瘍可能位於任何位置, 與服用藥物如 NSAID 或 aspirin 相關。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (B) 2. 對於胃食道逆流疾病(gastroesophageal reflux disease)的外科手 術適應症,何者錯誤? 106 (二)專 醫五-20 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (D) 典型的位置位於胃小彎(lesser curvature) 靠近食道與胃交 界處 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -107,16 +133,6 @@ tags:
 - 【 詳解 】(A)(B)(C) 位於 cardia 的 gastric cancer 可 視 為 lower esophageal cancer, 目 前 可 以 做 proximal gastrectomy 和 total gastrectomy。proximal gastrectomy 容易造成食道逆流、dumping syndrome 或 anastomosis stricture等 complication,也會有較高的 mortality rate,一般以 total gastrectomy 為首選。(D) Distal gastric cancer 的預後較好。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (B) 預防肝硬化所引起的食道靜脈瘤的首選藥物為非選擇性 α-blockers Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (D) 食道靜脈瘤出血處置需要外科介入的情況,包含內視鏡處理 失敗,胃靜脈瘤出血和 TIPS 治療失敗 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (B) 遠端脾腎靜脈分流術可能會加重腹水之嚴重度,故不適合用 於治療食道靜脈曲張合併腹水之病患 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (D) 肝硬化合併食道靜脈曲張出血之病患在接受遠端脾腎靜脈分 流術後,不適合再接受肝移植手術 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- ...scles。 | | III | | T4a, any N, M0 | T4a:任何大小腫瘤侵犯至 subcutaneous | | IVA | | T4b, any N, M0 | soft tissues、larynx、trachea、esophagus 或 | | IVB | | any T, any N, M1 | recurrent laryngeal nerve。 T4b: 腫瘤侵犯椎前筋膜,或包圍住頸動脈/胸縱膈腔血管。 N1a: 區域淋巴結轉移至頸部第六區或七區 (pretracheal、paratracheal、prelaryngeal / Delphian or upper mediastinal) N1b: 區域淋巴結轉移至單側、雙側、對側外頸部(第一區至第五區)或咽 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 3. 未分化型甲狀腺癌(undifferentiated or anaplastic carcinoma): - (1) 由濾泡上皮細胞衍生而來,多源自 PTC 或 FTC,約佔甲狀腺癌的 1~2%。 - (2) 相當惡性且預後極差,平均存活率 3 個月,好犯 50 歲以上老年人。 - (3) 易侵犯至鄰近組織造成食道、氣管阻塞,破壞喉返神經。 - (4) 易局部淋巴及遠端血液轉移。 - (5) 手術切除預後不好,放射治療以及化療幫助有限。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 2. CT: 搭配顯影劑,能看出主動脈剝離的位置和範圍,分辨真腔和假腔。以及是否 有心包填塞、血胸的情況。 - (1) 如下圖為一個 Type A 的主動脈剝離,內膜與中膜分離後被血液充滿形成的假腔,和真腔之間以剝離內膜瓣(intimal flap)分隔。假腔的結構通常比真腔還大,由於假腔充滿相對比較不流動的血液,顯影劑比較難進入,因此 contrast-CT 下假腔會比真腔還暗。 - (2) 假使假腔有另一個出口,使得假腔也有血流,則真腔和假腔就會比較難分辨。 - (3) 當病人對顯影劑過敏,或是有 renal insufficiency 的情形,可改用 MRA 或是經 食道心臟超音波 (transesophageal echocardiography, TEE) 檢查。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- 4. 經食道心臟超音波(transesophageal echocardiography, TEE):使用相當方便迅速,藉由 Doppler 探測,除了能發現結構異常外,也能觀察血液在各腔室內的流動情形、流速,以及瓣膜部分是否有血液逆流的現象。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- (B) 診斷的方式包含主動脈攝影、食道超音波、電腦斷層或核磁 共振,診斷的 sensitivity 及 specificity 皆有 80% 以上 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- (D) 16. 一位 65 歲男性,因吞嚥困難及體重減輕住院檢查,病患體重 40 公斤,血清蛋白(serum albumin)值為 2.5 g/dL,內視鏡檢查發現食道下段有腫瘤造成阻塞,切片病理報告為食道之鱗狀上皮細胞癌,胸部電腦斷層檢查結果並無明顯之縱膈腔或肝臟轉移,骨頭掃描結果並無明顯遠處轉移。胸腔外科醫師評估可以手術切除,你認為以下那種處置比較適當? - (A) 馬上安排手術切除食道並重建以免癌症擴散 - (B) 一般葡萄糖輸液補充 7 天後手術 - (C) 全靜脈營養 (total parenteral nutrition) 補充 1 天,立即手術 - (D) 全靜脈營養補充 7 天後手術 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- 【詳解】病人已經嚴重營養不良,食道下段有腫瘤,不適合鼻胃管,用 TPN 將營養補充回來再進行手術風險較低。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (1) VATS 也可用來治療疾病: - a. 肺邊緣小結節切除、肺氣泡切除(bleb resection),肋膜切除(pleurectomy) - b. 膿胸 (empyema) 處理。 - c. 肺膜沾合術 (pleurodesis)。 - d. 交感神經切除術(sympathectomy):切除 T2 交感神經節,治療手汗(hyperhidrosis palmaris)。 - e. 心包膜開窗術 (pericardial window)。 - f. 較複雜的胸腔手術: 食道肌切開術 (myotomy)、縱膈腔或肋膜腫瘤的切除、肺葉或肺全切除術 (lobectomy or pneumonectomy) 以及食道切除術 (esophagectomy)等。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 
 ## Clinical Caveats
 
@@ -125,7 +141,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/esophageal-perforation|Esophageal perforation (食道穿孔)]]
+- [[conditions/zenker-diverticulum|Zenker diverticulum (Zenker 憩室)]]
 
 ## Follow-up
 

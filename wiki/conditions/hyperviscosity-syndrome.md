@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch14]]"
   - "[[sources/med3-book4-ch19]]"
@@ -25,6 +25,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Hyperviscosity syndrome (高黏滯症候群)'
   - 'Hyperviscosity syndrome'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-血漿蛋白或細胞成分過高造成黏滯度上升，可有視覺、神經與出血症狀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血漿蛋白或細胞成分過高造成黏滯度上升，可有視覺、神經與出血症狀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ...ection) 的敘述,何者有誤? (A) 一般而言, Donor 與 Recipient 的 HLA matching 愈佳,則 graft survival rate 愈好 (B) Hyperacute rejection 的發生需要 IgM antibodies 的媒介,可藉由使用抗排斥藥物加以預防 (C) Acute rejection 的發生需要 T lymphocytes 的媒介,發生頻率愈高, graft 的長期預後較差 (D) Chronic rejection 的發生與 T cell 與 B cell 有關,移植器官的主要病理變化為 fibrosis and scarring 【詳解】超急性排斥反應是因血型不符合,或是受贈者體內有 | 98(一)專醫五-1 | Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 低血鈉 (hyponatremia): - (1) SAH 後 ANP(心房排鈉素)和 BNP的分泌造成 hyponatremia 和 hypovolemia (cerebral salt wasting, CSW),需和 SIADH (euvolemia or hypervolemia)作鑑別診斷,因兩者處理方式不同,CSW 是補水而 SIADH 是限水。 - (2) Hypovolemia 會增加血易黏稠度 (blood viscosity),加重 vasospasm 的嚴重度。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - 所致,為革蘭性陰性菌。叮咬處會出現焦痂(eschar),大多無痛性,伴隨有發燒、頭痛、出汗、結膜充血和淋巴結腫大。發燒一週後身體會出現暗紅性丘疹並擴散至四肢,數天後會消失。恙蟲體立克次體會攻擊血管內皮細胞,組織切片可見lymphohistiocytic vasculitis。病患多數有旅遊史,台灣病例主要分佈在金門縣、澎湖縣、台東縣、花蓮縣和南投縣。診斷可作PCR 病原體檢測及細胞培養法做病原體分離或以間接螢光抗體法(Indirect Immunofluorescene Assay, IFA)測其 IgM 及 IgG 抗體, IgM $\geq$ 1:80 或 IgG 有 4 倍以上上升者判定為陽性。治療則給予 Doxycycline bid 七天。以上選項皆對。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -84,7 +87,6 @@ tags:
 - 3. Cold hemagglutinin 和 warm hemagglutinin - (1) AIHA 中參與溶血的自體抗體有兩大類。 - a. 一類是 IgG,在與人體體溫的溫度時與紅血球表面上的蛋白質抗原發生反應,稱為 warm hemagglutinin。大部分案例是 idiopathic。 - b. 另一類是 IgM,在低於體溫時,發生反應,稱為 cold hemagglutinin。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (B) 對於紅血球過多所引起之 hyperviscosity,第一線的解決方法是 phlebotomy Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - ...Mitomycin C 和下列何種症候群有關? | 104(一)專 | | | (A) hand-foot syndrome | 醫三-53 | | | (B) hemolytic uremic syndrome | | | | (C) hyperviscosity syndrome | | | | (D) capillary leak syndrome | | | (D) | 9. 下列何者不是 doxorubicin 的副作用? | 103(二)專 | | | (A) 骨髓抑制 | 醫三-44 | | | (B) 心臟毒性 | | | | (C) 噁心 | | | | (D) 腎毒性 | | | (C) | 10. 下列腫瘤在 advanced stage 時仍有治癒之可能,何者除外? | 1 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ...HAHE HE | Eosinophil→寄生蟲 | | IL2, IL4 | | IL4, IL5, IL6IL10,IL13 | Mast cell, Basophil → 過敏 | | | | ILIU,ILI3 | B cell IgM,G,A,E switch →引發發炎反應 | | TGFβ, IL6 | Th17 (RORYT) | IL17,IL21,22 | 發炎(吸引嗜中性球)、自體免疫(乾癬、RA、SLE等) | | TGFβ, IL2 | Treg (FoxP3) | TGFB, IL10 | 免疫調節、適應 (Immune tolerance) | Source: [[sources/med3-book4-ch08|辛、免疫學觀念]].
 
 ## Clinical Caveats
 

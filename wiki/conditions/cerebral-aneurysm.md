@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch05]]"
@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Cerebral aneurysm (腦動脈瘤)'
   - 'Cerebral aneurysm'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-顱內動脈壁局部擴張，破裂可造成 SAH。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內動脈壁局部擴張，破裂可造成 SAH。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch17]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- Thoracic aneurysm repair Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...| 外亦須切除部分肝臟並進行淋巴結廓清 | | | (D) | 5. 下列何者是最常引起膽道出血(hemobilia)的原因? | 99(二)專 | | | (A) 膽結石 | 醫五 -47 | | | (B) 動脈瘤 (arterial aneurysm) | | | | (C) 惡性肝膽腫瘤 | | | | (D) 醫源性創傷 (iatrogenic trauma) | | Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - 4. 假性動脈瘤(Pseudoaneurysm)。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - #### 乙、血管瘤 (Aneurysm) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
@@ -76,7 +79,6 @@ tags:
 - 3. 常見造成動脈瘤的因子如下: - (1) 先天血管壁異常 (medial gap)。 - (2) 動脈硬化。 - (3) 高血壓。 - (4) 感染 (mycotic aneurysm)、外傷等。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 【詳解】毛毛樣腦血管症(Moyamoya Disease),一種慢性腦血管阻塞疾病,由於顱內大血管狹窄或阻塞(最常見於內頸動脈),導致側循環小血管代償性生長,成一團毛細管狀血管叢,看起來像煙霧(霧的日文為 Moya Moya),故稱為 Moyamoya disease。患者也可能發生 AVM 或 aneurysm。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (A) 左側前腦動脈瘤破裂,併發血管收縮 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- B. Aneurysmal SAH 146 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 
 ## Clinical Caveats
 

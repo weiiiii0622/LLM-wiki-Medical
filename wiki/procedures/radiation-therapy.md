@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch15]]"
@@ -30,6 +30,11 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch06]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -44,7 +49,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +79,22 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch06]]
 
 ## Key Details From Sources
 
+- (D) 若前縱隔的腫瘤經切片確定為原發性非生殖細胞瘤(primary nonseminoma),則第一線為手術治療,術後再行化學治療及放射治療 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (D) seminoma 對放射治療比 nonseminomatous tumor 有效應 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- ...------------------------------------------------|-----------| | | (A) 前上縱隔腔最常見的縱隔腔腫瘤 | 醫五-21 | | | (B) 第二期的胸腺瘤開刀切除後,常須加上放射治療 | | | | (C) cisplatin 的化療效果對其治療效果不佳 | | | | (D) 大部分重肌無力症(myasthenia gravis)無合併胸腺瘤 | | | | 【詳解】(C) 反應極佳,(D) 胸腺瘤常合併 M.G.,反過來則否。 | | | (C) | 3. 有關胸腺瘤之敘述,下列何者錯誤? | 103(二)專 | | (-) | (A) 手術切除是主要的治療方法 | 醫五 -31 | | | (B) 重症肌無力 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (D) 5. 關於非小細胞肺癌之治療敘述,下列何者錯誤? 104(一)專 (A) Stage I 之肺癌以外科手術為主 醫五-27 (B) Stage II 之肺癌以外科手術為主,可考慮化學及放射治療為輔 (C) Stage IIIb 之肺癌以化學及放射治療為主 (D) bronchoalveolar cell carcinoma 不適合手術 【詳解】(D) 為 adenocarcinoma 的一種,治療方式依照 NSCLC, 故早期可以手術切除。 Reference: Bronchioloalveolar carcinoma, including adenocarcinoma in situ (http://www.uptodat Source: [[sources/med5-book4-ch03|丙、肺]].
+- 4. 治療:手術全切除為主,以葉切除(lobectomy)為最常見,懷疑轉移者,建議追加 化學放射治療。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...:預後差異很大。 - a. 上皮細胞型 (epithelial): 三者中,預後最好。 - b. 類肉瘤型(sarcomatous)。 - c. 混合型 (mixed)。 - (6) 治療:支持療法平均約存活4到12個月,尚無單一療法(如:放射治療、化學治療、手術)可以改善存活率。而試驗性複合式療法,EPP合併化放療,在早 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...01(二)專 | | | 進食固體食物,且體重消瘦2公斤。李先生平常有抽菸、喝酒習 | 醫五 -6 | | | 慣。李先生經一系列檢查,證實罹患食道鱗狀上皮癌,有關食 | | | | 道癌,下列何者是最正確答案? | | | | (A) 以放射治療為主 | | | | (B) 以位於胸部食道中段最多 | | | | (C) 食道切除後,以小腸重建最常見 | | | | (D) 東方人食道癌,組織病理以腺癌最常見 | | | (C) | 6. 有關食道癌之敘述,下列何者錯誤? | 101(一)專 | | | (A) 目前全世界之食道癌以鱗狀細胞癌(squamous cell carcinoma) | 醫五 -32 | | | 最常見 | | | | (B) 在西方國家,制酸劑使用增 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...| | | cinoma,接下來的處置,下列何者較理想? | | | | (A) 先化學治療再手術 | | | | (B) 進行氣切造口,不須考慮手術切除 | | | | (C) 經評估後直接手術切除作氣管重建 | | | | (D) 作放射治療即可 | | Source: [[sources/med5-book4-ch06|己、氣管]].
 - (5) 乳房保留手術與改良式根除性乳房全切除術: - a. 乳房保留手術 (Breast conserving surgery, BCS): 部分 乳房切除術 (partial mastectomy) 加上腋下淋巴結廓清 術 (Axillary LN dissection: Level I+II,至少10~15個LN)加上術後放射線治療(Radiotherapy)。 - (a) 乳房保留手術加上術後放射治療,減少局部復發機率,臨床預後與改良型乳癌根除手術(MRM)相同。可以保留乳房外觀,對於罹癌婦女的心理與精神衝擊相對較小。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 3. 乳房重建手術 (Reconstruction): - (1) 重建時間點: - a. 術後立即重建:乳房切除術後立即重建。 - b. 延遲重建:接受化學治療及放射治療三個月過後,再考慮接受乳房重建。 - (2) 重建方式: - a. 自體組織移植: - (a) TRAM: 使用腹直肌皮瓣(transverse rectus abdominis myocutaneous flap) 進行重建。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (C) 20. 50 歲婦人,兩年前曾因乳癌而接受右側乳房切除,近日右側胸 100(二)專 廓手術疤痕邊緣呈現多顆小腫瘤,下列何種處理最恰當? 醫五-6 - (A) Radiotherapy - (B) Chemotherapy - (C) 腫瘤切片檢查 - (D) 腫瘤超音波檢查 Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -87,14 +105,6 @@ tags:
 - ...癌(anaplastic carcinoma),何者錯誤? | 105(一)專 | | | (A) 不可能由分化良好型甲狀腺癌轉變而來 | 醫五 -40 | | | (B) 需作切片檢查或氣管切開 | | | | (C) 目前放射線治療 (radiation therapy) 及化學治療 (chemo- | | | | therapy)效果不彰 | | | | (D) 很少需要根除手術,預後甚差 | | | (C) 19. | 甲狀腺髓質癌(medullary carcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CE Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (1) Preoperative radiotherapy:能提升各期之 5-year survival rate 和降低復發率,為 直腸癌的標準治療程序,治療劑量有兩種: - a. 總劑量 2,000 cGy 分五天照完後立即開刀。(1 Gy = 100 rad) - b. 總劑量 4,500 cGy 分五週照完後,待7週腫瘤縮小後再開刀。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (2) Postoperative radiotherapy: 用於術前無照射者或是術後無法確保有完全切除者, 但術後照射併發症高,容易損傷小腸和腸吻合處。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 1. 第 0 期:接受手術後,固定追蹤即可,不須輔助性化學治療或放射治療。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 1. 內在/局部因素:氧合作用及灌流不良、感染、異物、血腫、放射治療等都會使傷口的癒合變差,另外手術中適當的止血,減少不必要的電燒和 ligation,以及密閉性引流皆有助於傷口癒合。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- (B) 放射治療容易導致重建乳房的纖維化或脂肪壞死 (fat necrosis) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- ...血的可能性,尤其年紀輕且 AVM 有數年之久的病人、AVM 位於大腦功能較不重要的區域、AVM 直徑 - | 立體定位放射手術(stereotactic radiosurgery) | 醫五 -48 | | | (B) ‡ | 文射線治療(radiotherapy) | | | | (C) { | 堇以血管栓塞治療(endovascular embolization)即可 | | | | (D) = | 手術完全切除 | | | | 【詳 | 解】立體定位放射治療適用於3公分以下,血管栓塞治療 | | | | 用於 | 縮小病灶,無法作為單一治療。 | | | (A) | 5. 對血 | 管瘤(hemangioma)與血管畸形(vascular malformation)的 | 102(一)專 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
-- ...nd gabapentin (Neurontin) 對多數 | | | | 病患有效 | | | | (C) 顯微血管減壓手術 (microvascular decompression) 及伽瑪刀 | | | | (gamma knife)放射治療效果皆不錯 | | | | (D) 伽瑪刀放射治療五年內復發的比例比顯微血管減壓手術低 | | | (A) | 4. 三叉神經痛之顯微血管減壓術(microvascular decompression, | 99(一)專 | | | MVD) 主要是要減壓下列何種血管? | 醫五 -19 | | | (A) 上小腦動脈(superior cerebellar artery) | | | | (B) 後下小腦動脈(posterior in Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- (2) Grade II: 病人多以癲癇表現而無其他症狀,加上大部分 low grade astrocytoma 沒有 clear margin,因此並無證據顯示手術或是放射治療能改善預後,多採保守治療。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- (3) Grade III 和 IV: - a. 顱骨切開術或是立體定位法做組織切片,然後進入腫瘤內腔將腫瘤清除乾淨。但困難之處在於腫瘤和周圍腦組織無明顯界線。 - b. 放射治療:對於惡性腫瘤較有效,能延長生命但無法根除疾病。劑量越集中效果越好。 - c. 化學治療:temozolomide,單獨治療反應效果不高,需合併手術或放射治療效果較好。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 5. 分低惡性和惡性,低惡性可以手術切除,輔以化療/放療,惡性則以放射治療為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 
 ## Clinical Caveats
 
@@ -105,6 +115,7 @@ tags:
 
 - [[procedures/breast-conserving-surgery|Breast-conserving surgery / lumpectomy (乳房保留手術)]]
 - [[conditions/glioblastoma|Glioblastoma, GBM (膠質母細胞瘤)]]
+- [[conditions/rhabdomyosarcoma|Rhabdomyosarcoma (橫紋肌肉瘤)]]
 
 ## Follow-up
 

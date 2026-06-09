@@ -2,11 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Teratoma (畸胎瘤)'
   - 'Teratoma'
@@ -21,16 +23,24 @@ tags:
 
 ## Summary
 
-含多胚層組織的 germ cell tumor，新生兒常見部位包含 sacrococcygeal region。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+含多胚層組織的 germ cell tumor，新生兒常見部位包含 sacrococcygeal region。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (C) 於電腦斷層攝影 (CT scan) 發現前縱隔腔腫瘤為 cystic and fatty density,有鈣化,則最可能是畸胎瘤 (teratoma) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 1. 畸胎瘤 (Teratoma): - (1) 最常見的縱隔腔生殖細胞瘤,會由三個胚層的組織組成。 - (2) 好發於 20~30 歲,和前上縱隔腔,少數在後縱隔腔。 - (3) 臨床症狀:胸痛、咳嗽、呼吸困難或反覆性肺發炎。 - (4) 檢查 & 診斷:以胸部 X 光看到完整的牙齒。以電腦斷層看到以高密度脂肪組織合併多處鈣化、骨頭、牙齒和囊狀結構。 - (5) 治療:以手術切除為主,如為惡性合併化放療治療,但預後通常較一般惡性腫瘤差。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- F. 畸胎瘤(Teratoma) 198 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
+- ### F. 畸胎瘤 (Teratoma) Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
+- 1. 典型的良性腫瘤,包含至少兩種胚層以上的分化組織,通常位於非正常結構位置。 - (1) 發生位置:身體中軸線上的任何位置,如薦尾椎骨區(sacrococcygeal)、縱隔腔(mediastinal)、後腹腔(retroperitoneal)、生殖腺區(gonadal)。 - (2) 分類:分未成熟分化(immature)畸胎瘤或已成熟分化(mature)畸胎瘤,組成可能為實質病灶、囊狀病灶或混合病灶。 - a. 未成熟分化畸胎瘤仍有可能有癌化風險。 - (3) 流行病學:以女嬰佔 80%。新生兒及幼童好發生殖腺外畸胎瘤(以薦尾椎骨區最好發),青少年好發生殖腺畸胎瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - 5. 胚細胞腫瘤 (germ cell tumors): - (1) 胚細胞瘤 (germinoma)。 - (2) 畸胎瘤 (teratoma)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (1) 畸胎瘤(teratoma):為最常見之生殖細胞腫瘤,又可依病理分為成熟畸胎瘤(mature teratoma)、不成熟畸胎瘤(immature teratoma)、混合型畸胎瘤(mixed teratoma)。成熟畸胎瘤為良性腫瘤,不成熟畸胎瘤在病理型態上含有分化不成熟的組織,而可以進一步訂出不同的分級(grade),混合型畸胎瘤則含有惡性生殖細胞腫瘤或其他惡性腫瘤的成分。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (B) 畸胎瘤 (teratoma) Source: [[sources/med5-book1-ch18|壬、腦瘤]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch25]]"
   - "[[sources/med3-book2-ch08]]"
@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Pancreatic cancer (胰臟癌)'
   - 'Pancreatic cancer'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰臟惡性腫瘤常以阻塞性黃疸、體重下降或腹背痛表現。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 【詳解】(C) CA19-9 是胰臟癌的腫瘤標誌。SCLC 目前沒有好的腫瘤標誌,有人嘗試 neuron-specific enolase (NSE),chromogranin A (CgA),pro-gastrin releasing peptide (ProGRP),但是特異性跟敏感性都有限。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 2. 流行病學: - (1) 在台灣,每十萬人口中約有五人罹患胰臟癌。十大癌症死因中排名第十。 - (2) 多發生於 60 歲之後的病人。 - (3) 男性發生率高於女性,約為2:1。 - (4) 胰臟癌發生於不同部位會有不同症狀,手術介入也會有不同的選擇。 - a. 胰頭:60~70%。 - b. 胰體:25%。 - c. 胰尾:10%。 - d. 多發性: 5~10%。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -78,7 +81,6 @@ tags:
 - 記憶: CK7, 20 看腺癌; CK7(-)CK20(-)→頭頸部鱗狀細胞癌、肺小細胞、鱗狀細胞癌、肝、腎細胞癌前腸 CK7→想上半身器官+女性癌症→甲狀腺、肺腺癌;女性癌症(乳、子宮內膜、子宮頸癌) CK7(+)CK20(+)→想位於身體中間器官→胰臟癌、膽管癌;泌尿上皮癌、卵巢黏液性腺癌後腸 CK20(+)→想下半身器官→大腸癌 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - | (C) | 1. 有關「血清 CA19-9 值」於胰臟癌(pancreatic ductal adenocarcinoma)診療上的敘述,何者正確? (A)「血清 CA19-9 值的升高」是診斷胰臟癌的必要條件 (B)「血清 CA19-9 值的升高」建議使用於胰臟癌的篩檢(screening) (C)「手術前血清中 CA19-9 值」與病患胰臟癌的期別(stage)具相關性 (D)「手術後血清中 CA19-9 值」與病患的預後無關 | 108(一)專醫三-35 | |-----|------ Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...d foot syn.) | | | S | Antimetabolite | | Cytarabine (Ara-C) → AML (I3A7) | 小腦運動失調、角膜炎 | | | | | | Gemcitabine (Gemzar)→胰臟癌,肺癌 | 似感冒症狀 (Flu-like symptoms) | | | | | | Hydroxyurea →慢性骨髓增生病變 (CMPD) | | | | | | Purine | 6-Mercaptopurine(6MP) → ALL(Maintance) | 與 xanthine oxidase* 併用須減量 | | | | | 1 dime | Fludarabine → CLL, Follicular lymphoma | Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- ...juctivitis)、小腦性共濟 失調(Cerebellar ataxia),所以注射 High dose Ara-C 的病患會每兩個小時點類固 醇眼藥水、經常詢問走路是否正常。 - (2) Gemcitabine (Gemzar®) →胰臟癌,肺癌 - a. 為胞嘧啶延伸物(cytosine derivatives),也會轉成 CTP 類似物,抑制 DNA 複製。 與 Cytarabine 不同的是,Gemcitabine 還能治療固體腫瘤,且較少骨髓抑制外的 副作用。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 
 ## Clinical Caveats
 

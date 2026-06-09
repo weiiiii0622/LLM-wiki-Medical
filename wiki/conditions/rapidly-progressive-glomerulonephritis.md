@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch11]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Rapidly progressive glomerulonephritis, RPGN (急速進行性腎絲球腎炎)'
   - 'Rapidly progressive glomerulonephritis, RPGN'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-數週內腎功能快速惡化，病理常見 crescent formation。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+數週內腎功能快速惡化，病理常見 crescent formation。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book4-ch04]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch11]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 3. 類型 & 機轉 & 臨床症狀: - (1) 麴菌瘤 (aspergilloma): 最常見。 - a. 通常是在已存肺開洞中形成。 - b. 症狀: 咳血、慢性痰咳、呼吸困難、鼓狀指、疲倦、體重減輕。 - c. 檢查:CXR: A crescentic radiolucency next to a rounded radiopaque lesion (Monod sign) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) CT 上 SDH 往往呈新月形 (crescentic),其擴散會被腦簾 (falx) 侷限住但可越 過顱骨接合處 (skull suture),與 EDH 相反。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - ...iferative glomerulonephritis。IgA 沉降在腎絲球上,在光學顯微鏡下無法與 IgA nephropathy 做出區別。免疫螢光染色下可以看到 mild proliferation 或是 necrotic and crescentic changes。偶爾會看到 C3、fibrin 與 IgM 沉澱。另外,由於 HSP 好發於秋冬之際,某些病原體如 group A β-hemolytic streptococcus、*Staphylococcus aureus*、mycoplasma 以及 adenovirus 懷疑與 HSP 有關。共同的發現是先前感染過這些病原體的 HSP 病人有 IgA 沉澱(特別是 IgA1)。除此之外,家族若帶有 HLA-B34 以及 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

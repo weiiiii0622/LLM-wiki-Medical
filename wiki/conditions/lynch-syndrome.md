@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Lynch syndrome / HNPCC (林奇症候群／遺傳性非息肉性大腸癌)'
   - 'Lynch syndrome / HNPCC'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-mismatch repair gene 缺陷造成右側大腸癌與子宮內膜癌等風險上升，息肉數通常不多。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mismatch repair gene 缺陷造成右側大腸癌與子宮內膜癌等風險上升，息肉數通常不多。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- **Reference:** Gould MK, Donington J, Lynch WR, et al: **Evaluation Of Individuals** With Pulmonary Nodules: When Is It Lung Cancer? *Chest* 2013; 143(5\_suppl): e93S-e120S. doi:10.1378/chest.12-2351. Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 危險因子 - a. 絨毛狀腺瘤 (villous adenoma) - b. 息肉症候群 (polyposis syndromes) - c. Crohn's disease - d. hereditary nonpolyposis colorectal cancer (HNPCC) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (2) Hereditary nonpolyposis colon cancer (HNPCC) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...y or IPAA • - (b) Total abdominal colectomy with ileal-rectal anastomosis • - (2) Hereditary nonpolyposis colon cancer (HNPCC): - a. 體聯顯性遺傳(AD),defective mismatch repair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total abdominal Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch05]]"
   - "[[sources/med3-book2-ch04]]"
@@ -31,6 +31,9 @@ sources:
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Stomach (胃)'
   - 'Stomach'
@@ -45,7 +48,7 @@ tags:
 
 ## Summary
 
-胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +79,19 @@ tags:
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- (1) 胸腹部 X 光:single bubble sign (air-filled stomach bulb)。(小朋友因體積小故一般 CXR 連同腹部是一起照) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (D) Gastric volvulus Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (6) 檢查 & 診斷: - a. KUB 呈 double bubble sign (air-filled stomach and duodenal bulb),且遠端腸無空氣,即可確診。 - b. 如果遠端有腸氣,需進一步安排上消化道鋇劑攝影,以鑑別十二指腸狹窄或中腸扭轉(midgut volvulus)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...(intercostal arteries)和成對的下橫隔動脈上升支 (ascending branches of the paired inferior phrenic arteries)。 - (3) 腹血管網部:由左胃動脈(left gastric artery)和成對地下橫隔動脈供應。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...隔食道韌帶未將 GE junction 固定在腹腔內加上橫隔裂孔缺陷,使得 GE junction 和胃底部在腹腔和 後縱隔間滑動。(圖三 C) - (4) Type IV (herniation of organs other than stomach into the chest):除了胃之外還有其他腹腔內的器官如大網膜(omentum)、大腸、小腸或脾臟也一起進入胸腔。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 5. 檢查 & 診斷: - (1) 產前:通常在產前超音波即診斷。 - (2) 產後: CXR 呈現胃氣泡 (gastric air bubble) 或腸氣繞進在胸腔。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - J. 胃淋巴瘤(Gastric lymphoma) 47 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 3. 胃鏡分類: - (1) 早期胃癌:所謂早期胃癌是指腫瘤細胞只侵犯至胃壁黏膜層或黏膜下層,不管有無淋巴結的轉移,都定義為早期胃癌(early gastric cancer)。而侵犯至哪一層可由內視鏡超音波檢查決定。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 8. 胃阻塞 (gastric outlet obstruction) 與遠端胃癌較相關。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -90,13 +103,6 @@ tags:
 - Type II (15%): Gastric body and duodenal ulcer Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (C) 胃癌 (gastric cancer) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 4. 症狀:消化性潰瘍(PUD)、上腹疼痛(epigastric pain)、腹瀉(因胃酸過度分泌破壞消化酵素)、體重減輕。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- (1) 空腹胃泌素濃度檢查: - a. Fasting serum gastrin > 100 pg/mL • - b. Basal gastric acid output (BAO,基礎胃酸分泌量) > 15 mEq/hr。 - c. 如果 hypergastrinemia 但 BAO 沒上升,則考慮是:atrophic gastritis、renal failure、病人正在服用 H2 antagonist 或 PPI。 - d. 但有些情況也會同時有 fasting hypergastrinemia 及 BAO 上升: retained gastric antrum synd Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- (1) 減壓:nasogastric decompression、rectal tube displacement、aggressive enema,並且停用會降低腸胃蠕動的藥物。 Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
-- TRAM flaps)較容易有脂肪壞死及腹部無力 (B)淺下腹動脈皮瓣(superficial inferior epigastric artery flaps) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- (C) 深下腹動脈穿通支皮瓣(deep inferior epigastric artery perforator flaps)不需要肌肉內剝離(intramuscular dissection) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- (4) 游離深下腹動脈穿通支皮瓣 (free deep inferior epigastric artery perforator (DIEP) flaps ) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- ...ffsBalloon dilation | | Type II | Flow from backbleeding arteries Patent lumbar, middle sacral, inferiormesenteric, hypogastric, accessory renal arteries | Observation Coil embolization or glue Laparoscopic ligation Open conversion | | Type III | Fabric disruption or tearModule disconnection | Placement of additional stents or cuffs Secondary en Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (B) 放 nasogastric tube (NG tube) 是胃腸道手術前常做的步驟, 不會增加 aspiration pneumonia 的發生機率 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 
 ## Clinical Caveats
 

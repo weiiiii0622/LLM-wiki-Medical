@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med3-book3-ch19]]"
@@ -21,6 +21,8 @@ sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Cytomegalovirus infection, CMV (巨細胞病毒感染)'
   - 'Cytomegalovirus infection, CMV'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,14 @@ tags:
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book4-ch12]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- ...f Surgery, 20th ed, Chapter 57, BOX 57-2) - (1) 感染:通常是造成局部疾病及肉芽腫(granuloma formation)。 - a. 病毒(Viruses):流感病毒(influenza)、巨細胞病毒(cytomegalovirus)。 - b. 細菌(Bacteria):結核菌(tuberculosis)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - ( Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (3) 移植六個月之後,移植受贈者的情況較穩定,感染就跟一般社會大眾一樣 (community-acquired),如流感、泌尿道感染及肺炎雙球菌肺炎。唯一伺機性 病毒感染為 herpes zoster;而 CMV 視網膜炎則較罕見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -74,9 +81,6 @@ tags:
 - 【詳解】出生後三個月內若發生 nephrotic syndrome,則診斷為 先天性腎病症候群(congenital nephrotic syndrome)。其中最 常見的是 Finnish type congenital nephrotic syndrome(位在第 19 對染色體上的 NPHS1 gene 發生突變,影響 nephrin 製造), 類固醇或是免疫抑制劑治療無效,病人約在 5 歲左右死亡。此 外,syphilis、toxoplasmosis、rubella、cytomegalovirus、HIV、 hepatitis B 感染都有可能造成先天性腎病症候群。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (B) cytomegalovirus (CMV) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - (3) 另外,coxsackievirus A、echovirus、poliovirus、cytomegalovirus、influenza type A and B、rubeola、rubella、 VZV 等亦常見。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- | 分類 | Warm | Cold | |----|---------------------|-------------------------| | 意義 | 於人體溫度時就會攻擊 | 在低溫時才會攻擊 | | 抗體 | IgG 攻擊 RBC 的 Rh 抗原 | IgM 攻擊 RBC 的 C3d, Ii 抗原 | | 病因 | 藥物、感染 (EBV/CMV)、 | 感染 (Mycoplasma) | | | 結締組織病 SLE/RA、HD/CLL | Non-Hodgkin lymphoma | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (A) 3. 減白的血小板 (leucocyte-depleted platelet),可降低藉輸血發生下列 99(二)專 那一種傳染疾病的機率? - (A) Cytomegalovirus - (B) Hepatitis A virus - (C) Human immunodeficiency virus type 1 (HIV-1) - (D) Hepatitis C virus Source: [[sources/med3-book4-ch17|辛、輸血]].
 
 ## Clinical Caveats
 

@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med5-book4-ch17]]"
 aliases:
   - 'Spina bifida (脊柱裂)'
   - 'Spina bifida'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-神經管閉合不全疾病，可伴隨脊髓膜膨出、神經缺損與 Chiari II/hydrocephalus。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經管閉合不全疾病，可伴隨脊髓膜膨出、神經缺損與 Chiari II/hydrocephalus。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med5-book4-ch17]]
 
 ## Key Details From Sources
 
+- 2. 常見的先天發育異常疾病包含脊柱裂 (spinal dysraphism)、顱裂 (cranial dysraphism),後顱窩過小 (Chiari malformation) 及顱縫早閉 (Craniosynostosis)。 Source: [[sources/med5-book4-ch17|癸、腦及神經疾病]].
 - I. 脊柱裂 (Spina bifida) 189 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ## I. 脊柱裂 (Spina bifida) Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 2. 依脊髓膨出程度可分為三種型: - (1) 隱性脊柱裂(Spina bifida occulta):最常見,脊椎骨某段有開口無閉合,但脊髓正常無膨出。大多無神經學症狀,可能會有漏尿的情形;脊椎缺損部位的皮膚表面可能會有毛髮、色素沉澱或向內凹陷。(下圖左) - (2) 脊髓膜膨出(Meningocele):脊髓膜向外膨出呈囊狀,囊內充滿腦脊液,但神 經沒有跟著膨出,故不會有神經根受損之症狀。但隨著孩童長高牽扯到脊髓, 才會出現症狀。(下圖中) - (3) 脊髓脊膜膨出 (Myelomenin Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch18]]"
   - "[[sources/med5-book2-ch19]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Appendicitis (闌尾炎)'
   - 'Appendicitis'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-闌尾管腔阻塞後感染發炎，表現可由臍周痛轉右下腹痛，需注意穿孔與膿瘍。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+闌尾管腔阻塞後感染發炎，表現可由臍周痛轉右下腹痛，需注意穿孔與膿瘍。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- H. 盲腸炎 (Appendicitis) 160 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (2) 小腸阻塞:三種形成原因。 - a. 小腸扭轉:因憩室形成之纖維化繫帶(fibrotic band)沾黏於腹壁上所致。 - b. 腸套疊。 - c. 腹股溝箝頓性疝氣(又稱 Littre hernia): 憩室於腹股溝疝出並箝頓所致。 - d. 還有一個常見症狀是發炎,尤其是大小孩或成人常見,懷疑是急性闌尾炎的病人有 0.76% 術中會發現其實是 Meckel diverticulitis,不過很難在術前就診斷出來。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (A) 急性闌尾炎 (acute appendicitis) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - ...stasis,致病菌會經由膽管逆流而上形成膽管炎, 再往上進入肝臟就有可能形成肝膿瘍。 - (2) 肝門靜脈: 肝門靜脈收集來自腸胃道的血液後, 匯集於肝臟, 因此與腸胃道感染相關的病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - ...| | dorsal duct 與 ventral duct。 | | | (D) 10. 有關診斷腹痛之理學檢查的敘述,下列何者正確? | 101(二)專 | | (A) psoas sign 及 obturator sign 為診斷急性闌尾炎之充分必要條件 | 醫五 -30 | | (B) 泛腹膜炎常合併有全腹反彈痛及腸蠕音增加 | | | (C) Courvoisier's sign 陽性指在黃疸病患觸摸到疼痛性膽囊 | | | (D) Grey Turner sign 表示病患可能有急性出血性胰臟炎 | | | 【詳解】(A) 非必要條件。(B) 腸蠕音↓。(C) 無痛性膽囊,暗示 | | | 膽囊腫瘤。(D) 正確。 | | | (D) 11. 一位 45 歲女性因嚴 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch22]]"
@@ -32,6 +32,7 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Hepatitis C (C 型肝炎)'
   - 'Hepatitis C'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (2) 主要的原因是 B 型肝炎及 C 型肝炎在台灣的高盛行率,使慢性肝臟疾病病得以 進一步發展成為肝硬化及肝癌。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (4) C型肝炎 (Hepatitis C)。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 8. 一位 63 歲男性到門診主訴發現皮膚泛黃已三週,尿液呈深褐色, 106 (二) 專 最近有灰白色大便,無腹部疼痛及不適,食慾稍差。下列何種 醫五-22 檢查能快速做鑑別診斷? - (A) 抽血驗 B 型、C 型肝炎 - (B) 測血中總膽紅素 / 直接型膽紅素指數 - (C) 腹部超音波檢查 - (D) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -98,7 +101,6 @@ HCV 易慢性化並與肝硬化、肝細胞癌相關。 本頁已整合至 `醫(
 - (1) 類似 SLE, **HBV** 相關的結節狀多發性動脈炎(PAN)、**HCV** 相關的冷凝球蛋白血症(Cryoglobulinemia)、過敏性紫斑(Henoch-Schönlein Purpura)等,都是 IC 沉積於血管上,最後導致血管炎。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (C) 1.32 歲男病人罹患活動性 C 型病毒肝炎已數年。最近數星期,兩下肢 107(-) 專 皮膚出現許多有壓痛之小紅疹。且四肢麻木疼痛。檢查發現有輕度 醫三-13 蛋白尿。下列那一項檢查陽性最具診斷價值? - (A) 類風濕因子 (RF) - (B) 抗細胞核抗體 (ANA) - (C)冷凝球蛋白 (cryoglobulin) - (D) C 型肝炎病毒量(viral load) Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (C) 10. 一位 30 歲女性病人,最近一週發燒及下肢水腫就醫。身體診察:意 - (B) C型肝炎抗體 (anti-hepatitis C virus antibody) - (C) 雙股去氧核糖核酸抗體 (anti-double stranded DNA antibody) - (D) 冷凝球蛋白 (cryoglobulin) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 

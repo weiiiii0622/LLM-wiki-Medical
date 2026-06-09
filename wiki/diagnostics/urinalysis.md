@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch03]]"
@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book2-ch18]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Urinalysis (尿液檢查)'
   - 'Urinalysis'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book2-ch18]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- (2) 尿液分析:以排除半乳糖血症(galactosemia)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 3. Urinanalysis:因為盲腸附近的發炎,有可能造成尿道跟著發炎,所以尿液檢查中有機會看到血尿以及膿尿。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
 - (BD) 8. 病患經過處理之後狀況逐漸改善,不幸的是,在術後五天之後又 106(二)專再度高燒不退,下列處置何者錯誤? 醫五-45 - (A) 血球檢查、胸部 X 光、尿液分析和血液培養 - (B) 若懷疑是導管相關感染,拔掉導管同時並給予 vancomycin 或是 linezolid - (C) 假如懷疑是心內膜炎(endocarditis),至少要給予抗生素四 到六週 - (D) 若是嚴重的敗血症或是免疫抑制 (immunosuppression) 的病人, 抗生素藥效須涵蓋 *gram-positive cocci* 和 fungus Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 【詳解】(B) 尿液檢查正常(排除泌尿系統受穿刺傷),腹部檢查無異常,接著作乙狀結腸鏡檢查。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
@@ -76,7 +79,6 @@ tags:
 - (C) 11. 下列何者為 1997 年美國風濕病學院所訂定全身性紅斑性狼瘡 (SLE) 103( 二 ) 專 的診斷基準之一? 醫三 -40 - (A) 多發性關節痛 (polyarthralgia) - (B) 不明原因的 mononeuritis multiplex - (C) 尿液分析發現有 cellular casts 的存在 - (D) 慢性皮膚潰瘍 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (B) 8. 一位 16 歲的男性患者主訴為三天前在兩側大腿以下出現有紅豆狀的紅色丘疹,並有輕度壓痛感(如附圖)。此外,有關節痛及肚子痛的症狀。抽血檢查發現 ESR 31 mm/h、CRP 2.74 mg/L、IgG 1720 mg/dL、IgA 534 mg/dL、IgM 129 mg/dL,尿液檢查呈現蛋白質(++)。最可能的診斷為何? Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (C) 2. 一位 30 歲女性病人尿液分析發現血尿,下列何項檢查結果支持是腎小球性(glomerular)血尿? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...數 16/min, 呼吸音正常, 心律規則無雜音,腹部平坦無壓痛,下肢有顯著壓陷性水腫。血液 檢查:血紅素 10 gm/dL,白血球 10,500/µL,白蛋白 2.5 g/dL,尿 素氮 35 mg/dL, 肌酸酐 3.0 mg/dL; 尿液檢查:蛋白質(3+),紅 血球 20~25 顆/高倍視野,並可見到紅血球圓柱體。本病人接受腎 臟切片檢查後,最適當治療方式為? (A) 廣效性抗生素 (broad-spectrum antibiotics) (B) 免疫抑制劑 (immunosuppressive therapy) (C) 緊急血液透析 (emergent hemodialysis) (D) 補充白蛋白 (albumin infusion) 【詳解】HTN + hematu Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

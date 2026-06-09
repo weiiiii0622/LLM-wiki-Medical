@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book2-ch12]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Monoamine hypothesis (單胺假說)'
   - 'Monoamine hypothesis'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med5-book2-ch12]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母細胞瘤的存在及其是否已有轉移,也可用來監測 神經母細胞瘤在接受治療後的反應及其是否有復發跡象 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...mping。 - a. 早期傾食症候群 (early dumping syndrome): 可視為腸胃道症狀加上心血管症狀。 - (a) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (a) Serotonin antagonist:對於 early dumping 較有效,但效果有限。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (A) 王先生的症狀與身體分泌 Serotonin 有關,但服用 Serotonin 拮抗劑 (Serotonin antagonists) 僅能部分改善症狀 Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -84,7 +87,6 @@ tags:
 - b. 廣義基底核還包括黑質、底丘腦核, 會給予上述途徑調節: - (a) 中腦的黑質 (Substantia nigra) 會分泌 Dopamine 調控紋狀體 (刺激 D1 receptor 或抑制 D2 receptor)。 - (b) 外蒼白球 (GPe) 以 GABA 抑制底丘腦核 (subthalamus nucleus)。 - (c) 間腦的底丘腦核 (Subthalamus nucleus) 會分泌 Glutamate 刺激內蒼白球 (Internal Globus pallidus, GPi)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...刺激骨骼肌的 nicotinic 接受器。 - b. 交感神經由胸椎、腰椎脊髓的側角神經元發出,經兩個神經元,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎旁神經節(paravertebral ggl.)的神經元,其再分泌正腎上腺素(norepinephrine)刺激目標器官(心肌、平滑肌、腺體)的 Adrenergic 接受器。 - c. 副交感神經由**顱神經、薦椎的側角神經元**發出,也經**兩個神經元**,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎前神經節(prevertebral ggl.)的神經元,其再分泌 ACh 刺激目標器官(心肌、平滑肌、腺體)的 muscarinic 接受器。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...----------------------------------------|-----------------------------| | 好發於 | 緊張的性格 | 年輕女 | 年輕男 | | 機制 | 肌肉緊縮 | 血管、神經 Serotonin 活性改變 | 血中 Histamine 增加、下視丘 | | →痛法 | →環狀(雙側)持續的痛 | →單側搏動性的痛 | →單側眼眶周圍疼痛, | | | | | 併發流淚、流鼻涕 (Histamine) | | 時間 | 白天接觸到壓力時發生 | 被光線刺激,晚上休息改善 | 一天數次,好發夜晚入睡後 | | | 30 分鐘至 7 日 | 持續4到72小時 | 15 到 180 分鐘 | | 急性 | 改變生活方式; | Suma Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- 1. 病因: 女比男(2:1),70% 有家族史(爸爸、媽媽也有偏頭痛),多於青少年發病(剛好面臨升高中、大學的聯考壓力),常持續4至72小時。乃因血管與神經組織的 serotonin 活性改變有關,因與血管有關係,所以會有**搏動性**疼痛。(cf. 緊張型與肌肉緊繃有關,所以是較持續的痛) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 
 ## Clinical Caveats
 

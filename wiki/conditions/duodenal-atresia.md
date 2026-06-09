@@ -2,11 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Duodenal atresia (十二指腸閉鎖)'
   - 'Duodenal atresia'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-先天十二指腸阻塞造成膽汁性嘔吐與 double-bubble sign，與 Down syndrome 相關。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+先天十二指腸阻塞造成膽汁性嘔吐與 double-bubble sign，與 Down syndrome 相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book4-ch10]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- (A) 十二指腸閉鎖 (duodenal atresia) Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- (A) 1. 滿月嬰兒若於餵食後呈現噴射狀嘔吐,須懷疑幽門肥厚性狹窄 108(-)專 (hypertrophic pyloric stenosis),下列有關檢查及治療之敘述,何 醫五-49 者最正確? - (A) 確定診斷可借助腹部觸診發現右上腹橄欖狀硬塊、腹部超音 波或上消化道攝影 - (B) 平躺腹部 X 光檢查可發現雙氣泡徵象 (double bubble sign) - (C) 嬰兒幽門肥厚性狹窄因屬腸胃道阻塞之一,通常屬於外科急症(surgical emergency) - (D) 手術治療目前以幽門成形手術(pyloroplasty)為主 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...二 | )車 | | 之敘述,下列何者正確? 醫五- | | | (A) 生化檢驗呈現高氯性代謝鹼中毒(hyperchloremic metabolic | 10 | | alkalosis) | | | (B) 腹部 X-ray 呈現 double bubble sign | | | (C) 手術方式:gastrojejunostomy | | | (D) 身體診查時,上腹部可摸到橄欖狀腫塊(olive mass) | | | (C) 7. 有關嬰兒幽門肥厚性狹窄 (infantile hypertrophic pyloric stenosis) 101( 二 | . ) 專 | | 之敘述,下列何者正確? 醫五- | -33 | | (A) 大多出生即出現噴射性嘔吐(projectile v Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (B) Duodenal atresia Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (6) 十二指腸閉鎖:產前超音波影像上可發現雙氣泡現象(double bubble sign) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 1. Duodenal atresia Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (C) 十二指腸閉鎖(Duodenal atresia) Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -46,6 +54,7 @@ tags:
 ## Related Pages
 
 - [[conditions/down-syndrome|Down syndrome / Trisomy 21 (唐氏症)]]
+- [[conditions/intestinal-atresia|Intestinal atresia (腸道閉鎖)]]
 
 ## Follow-up
 

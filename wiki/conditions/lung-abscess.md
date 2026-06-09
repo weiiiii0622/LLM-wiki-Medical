@@ -2,13 +2,15 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch18]]"
   - "[[sources/med3-book3-ch21]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Lung abscess (肺膿瘍)'
   - 'Lung abscess'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-肺實質壞死形成膿腔，常與吸入性病原相關。 本頁已整合至 `醫(三)第3冊腎內感染`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺實質壞死形成膿腔，常與吸入性病原相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ tags:
 - [[sources/med3-book1-ch13]]
 - [[sources/med3-book1-ch18]]
 - [[sources/med3-book3-ch21]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- H. 肺膿瘍 (Lung abscess) 47 Source: [[sources/med5-book4-ch03|丙、肺]].
+- ### H. 肺膿瘍 (Lung abscess) Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 機轉 & 定義: 感染發生於被堵塞的支氣管,通常是厭氧菌感染。吸入性肺膿瘍通常發生在右肺,因右側支氣管較垂直於氣管。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 機轉 & 成因:為化膿性肋膜腔感染,是肋膜渗出液(exudate)最常見的形式。可 經胸壁創傷或手術傷口直接污染肋膜腔,或經血液(菌血症或敗血症)、肺部感染、 肺膿瘍破裂、感染性肺開洞破裂或縱隔感染(食道穿孔)等造成肋膜腔感染。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (2) 腸道外感染:阿米巴肝膿瘍、肺膿瘍、腦膿瘍、次發性阿米巴腦膜炎 - a. 腸道外、全身性的感染最常發生在肝臟。 - b. 阿米巴侵犯至黏膜下層後,可經由門脈循環,到達肝臟(肝右葉較多),形成阿米巴肝膿瘍。甚至進一步侵犯肺臟、心包膜。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - I. 肺膿瘍 (Lung abscess) 285 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - (10) 肺膿瘍:CA-MRSA,口腔厭氧菌,Aspergillus,肺結核,非典型結核。 Source: [[sources/med3-book1-ch21|戊、感 染]].

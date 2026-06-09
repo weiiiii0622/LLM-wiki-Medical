@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch01]]"
   - "[[sources/med4-book2-ch02]]"
@@ -37,6 +37,7 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Secondary skin lesions (次發性皮膚病灶)'
   - 'Secondary skin lesions'
@@ -51,7 +52,7 @@ tags:
 
 ## Summary
 
-膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +89,13 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- M. 食道潰瘍 (Esophageal erosion) 103 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (C) 3. 一位 25 歲女性,到急診處主訴突發嚴重胸口心窩處疼痛(retrosternal pain),其症狀因深呼吸或吞嚥動作而加重。病人體溫 醫五-55 36.8℃、心跳 110/min、血壓 140/80 mmHg、臉色稍顯蒼白、腹 部平坦、柔軟無壓痛。病人身材瘦削,但她始終擔心過於肥胖 而常將吞進去的食物用挖喉嚨的方式嘔出。請問病人此次發作 的最可能原因是: - (A) 胃食道逆流(gastroesophageal reflux) - (B) 張力性氣胸 (tension pneumothorax) - (C) 食道自發性破裂 (Boerhaave's syndrome) - (D) 消化性潰瘍 (peptic ulcer) Source: [[sources/med5-book4-ch05|戊、食 道]].
 - I. 潰瘍穿孔(Perforated peptic ulcer disease, PPU) 15 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - #### 乙、消化性潰瘍 (Peptic ulcer disease) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - • Type I (60%): Only gastric ulcer (almost lesser curvature) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -106,9 +111,6 @@ tags:
 - 【詳解】Solitary rectal ulcer syndrome(SRUS)常發生於長期便秘之年輕女性,位置主要在 anterior 和 anterolateral wall,但也有部分在 lateral wall(17%)或 posterior wall(15%)。常見症狀有 rectal bleeding、rectal pain、黏液分泌或便秘。診斷需依賴排便攝影檢查(defecography),會有 full-thickness rectal prolapse、internal prolapse、paradoxical puborectalis syndrome(恥骨直腸肌在排便時無法放鬆或是有不正常收縮,使得肛門直腸角無法變大,造成排便障礙)及 thickened rectal folds。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - ...發燒(38℃),腹部有壓 痛及反彈性壓痛,白血球數也增加至 15,000,腹部 X 光檢查出 現明顯的腹膜腔內之 free air。則最有可能的診斷是: - (A) diverticulitis of colon - (B) peptic ulcer perforation - (C) colon perforation at polypectomy site - (D) perforated appendicitis Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 - (A) Peptic ulcer perforation Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- ...情況下局部皮瓣 | (local flaps)可能受傷,不一定可能 | 靠 | | (D) 老人的 | 内局部皮瓣(local fla | ps)與年輕病患的局部皮瓣一樣可認 | 靠 | | (D) 13. 當褥瘡( | pressure ulcer)侵蝕 | 到肌肉及骨頭的時候屬於: | 105(一)專 | | (A) Stage | I | (B) Stage II | 醫五-18 | | (C) Stage | III | (D) Stage IV | | | 【詳解】 | Pressure sore 分期: | | | | stage I - r | on-blanchable erythe | ma of intact skin | | | stage II - | pa Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- stage II partial-thickness loss of dermis, appearing as open ulcer with red-pink wound bed without slough or bruising Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- 6. 動脈瘤有 erosion 時有機會和鄰近的呼吸道、腸胃道形成 fistula,造成 hemoptysis、GI bleeding。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 
 ## Clinical Caveats
 

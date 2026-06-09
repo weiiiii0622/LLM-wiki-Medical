@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Renal potassium handling (腎臟鉀離子處理)'
   - 'Renal potassium handling'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,12 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...|------------------------------------------------------------------------------|-------| | 病人,其電解值的變化為何? | -45 | | (A) 低血鉀症鹼中毒 (B) 高血鈉症鹼中毒 | | | (C) 低血鉀症酸中毒 (D) 低血氯症酸中毒 | | | 【詳解】胃液 HCl、K 流失。 | | | (A) 5. 有關嬰兒型幽門肥厚狹窄 (infantile hypertrophic pyloric stenosis), 103(二下列敘述何項錯誤? | | | (A) 均於出生後兩週內發病 (B) 吐出物很少膽汁或無膽汁 | | | (C) 手術治療為切開幽門括約肌(pylorom Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...確? 103(二)專 ① 幽門切開術 (pyloromyotomy) 是手術的方式 醫五-50 ② 此病最可能造成的併發症為中腸扭結(midgut volvulus) ③ 如果有可能診斷此疾病時,則病人需接受較緊急的手術 ④ 容易造成代謝性低血鉀症鹼中毒 (A)(1)(4)(B) 僅②③ (C) 234 (D)(1)(3)(D) 4. 一位 10 天大的男嬰送至醫院,媽媽主訴男嬰自 2 天前不斷叶膽 103(一)專 汁及哭鬧不安,鋇劑上消化攝影(upper GI study)如下圖,最有 醫五-9 可能的診斷是: (A) 十二指腸蹼 (duodenal web) (B) 環狀胰臟 (annual pancreas) (C) 上腸繋膜動脈症候群(superior mesenter Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 2. 皮質:源自中胚層,又分為外、中、內三層。 - (1) 外層:絲球帶 (Zona Glomerulosa),分泌類礦物皮質素 (Mineralocorticoid), 主要為醛固酮 (Aldosterone)。 - (2) 中層:東狀帶 (Zona Fasciculata), 分泌類醣皮質素 (Glucocorticoid), 主要為皮質醇 (Cortisol)。 - (3) 內層:網狀帶(Zona Reticularis),分泌雄性激素(Androgen)。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 1. 血液 aldosterone 濃度過高。Aldosterone 的生理作用是留鈉、排氫、排鉀。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -81,8 +85,6 @@ tags:
 - (2) 遠端腎小管與尿液酸化有關途徑:H+/ATPase、the HCO3-/Cl- anion exchanger 或是 the aldosterone pathway。以上若其中一項出問題,則可能發生第一型腎小管酸中毒。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (4) 倘若 the HCO3/Cl anion exchanger 也跟著出問題,則會有高血氯與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (3) Salt losing form 臨床上常表現典型 cortisol 與 aldosterone 缺乏症狀,但通常要出生後 1~2 週才會有表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch18]]"
@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Bronchiectasis (支氣管擴張症)'
   - 'Bronchiectasis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- J. 支氣管擴張症 (Bronchiectasis) 49 Source: [[sources/med5-book4-ch03|丙、肺]].
+- ### J. 支氣管擴張症 (Bronchiectasis) Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...monary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquired causes: 感染和發炎。 - a. 支氣管堵塞: 氣管外壓迫(腫瘤、淋巴結腫大)、吸入異物或刺激物質、膿痰。 - b. 感染:壞死性細菌肺炎、百日咳肺炎、麻疹肺炎、流感肺炎、水痘肺炎。吸入性有毒氣體。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (6) 支氣管擴張症及其他發炎之後遺症。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -70,9 +75,6 @@ tags:
 - (7) 結構性肺疾病(支氣管擴張症): Pseudomonas aeruginosa。 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - (B) 18. 一位 70 歲男性病患,抽菸 45 年,被診斷為 COPD 已經超過 10 年,平常用吸入型長效性支氣管擴張劑 (long-acting bronchodilator)治療。這次因為發燒、咳嗽加劇有黃痰、呼吸困難加劇住院治療。胸部 X 光片無新增變化,病人痰液抹片呈現 Gram(+) small diplococci,下列敘述何者錯誤? Source: [[sources/med3-book1-ch21|戊、感 染]].
 - ...----------------------| | (D) | 2. 60 歲男性,主述長期咳痰,呼吸不暢,最近有關節痠痛症狀。身體檢查時看到杵狀指(clubbing fingers)。下列那些疾病應優先列入鑑別診斷?①肺癌 ②急性肺炎 ③支氣管擴張症 ④先天性心臟病 ⑤肝硬化 ⑥克隆氏症(Crohn's disease)(A) ①②③④⑤⑥(B) 僅③④⑤⑥(C) 僅②④⑤⑥ | 105(一)專醫三-49 | | (C) | 3. 下列關於胸腺惡性腫瘤(malignant thymoma)的敘述,何者錯誤? (A) 最常見於前縱膈腔,好發於中年者,男女約各半 (B) 約有 1/3 合併重症肌無力 (C) 有心包膜(pericardium)或肋膜(pleura)侵犯時,治療以手術切 Source: [[sources/med3-book1-ch18|寅、其 他]].
-- ...17th, ch35 Clubbing of the digits: - Lung cancer Interstitial lung disease - Chronic infections in the thorax, such as bronchiectasis, lung abscess, and empyema. Congenital heart disease associated with right-to-left shunting - Chronic inflammatory or infectious diseases, such as inflammatory bowel disease and endocarditis 但 IE 和 IBD 臨床上少見有 cyanosis 情 Source: [[sources/med3-book1-ch18|寅、其 他]].
-- (B) 支氣管擴張症 (bronchiectasis) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- (D) 16. 高解析度胸部電腦斷層掃描檢查 (High resolution computed tomography, HRCT) 對下列疾病的診斷具有高度的價值,何者除外? - (A) 彌漫性肺疾病(diffuse parenchymal disease) - (B) 支氣管擴張症 - (C) 肺氣腫 - (D) 縱膈腔病灶 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 
@@ -81,7 +83,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/cystic-fibrosis|Cystic fibrosis (囊性纖維化)]]
 
 ## Follow-up
 

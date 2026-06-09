@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book3-ch09]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Intellectual disability (智能不足／智能障礙)'
   - 'Intellectual disability'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-智力與適應功能在發展期即低於預期，嚴重度以日常支持需求與適應功能評估。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+智力與適應功能在發展期即低於預期，嚴重度以日常支持需求與適應功能評估。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...drome (WT, intersex disorder, and progressive nephropathy) • - b. WAGR syndrome (WT, aniridia, genitourinary anomalies, mental retardation) • - c. Beckwith-Wiedemann syndrome • - (6) 檢查 & 診斷: - a. 腹部超音波:任何腹部腫瘤最優先的初步檢查。但無法區別 WT 和 NBL。 - b. CT 或 MRI:可用來確認腫瘤原發位置,以區別 WT 和 NBL,以及術前評估 是否為雙側腫瘤、肝轉移、IVC 之腫瘤栓子。 - c. 尿液 VMA: 如影像上仍難以區別時, NBL 會升高, WT 不會升高。 - d. CXR: 為術 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (C) 2.33 歲男性,輕微智能不足,抽搐(seizure),根據此二張 CT 影 102(二)專 像,最適當的診斷是: 醫四-76 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 【詳解】Tuberous sclerosis complex 是自體顯性遺傳性疾病,可分為 type 1 & type 2。因基因突變,造成患者神經細胞及髓鞘形成不良,產生結節硬化。臨床表現會有智能障礙和癲癇,其他明顯的徵象有面部血管纖維瘤、指甲纖維瘤、脫色斑、鯊魚皮斑、多發神網膜結節缺陷瘤、腦皮質結節、腦室管膜下結節、腦室管膜下巨細胞星狀瘤、腎血管肌脂肪瘤等。頭部電腦斷層可見多發性鈣化病灶。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...--------------------------------------------------------------|----------------------| | (A)於一歲以前發作者,易再發 | | | (B) 與將來是否智能不足無關 | | | (C) 與將來是否有行為異常無關 | | | (D) 即使神經理學檢查正常,其死亡率仍較正常人顯著增加 | | | 【詳解】Simple febrile seizure 的預後良好,其發展、學業表現 | | | 和死亡率與其他兒童無差異。 | | | (D) 17. 關於癲癇(epilepsy)的敘述,下列何者正確? | 105(一)專 | | (A) 當發作純粹為 deja vu 或 jamais vu 時,歸類於 Source: [[sources/med4-book4-ch02|乙、癲癇]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch22]]"
@@ -37,6 +37,8 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Lung cancer (肺癌)'
   - 'Lung cancer'
@@ -51,7 +53,7 @@ tags:
 
 ## Summary
 
-肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +90,17 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- D. 肺癌 (Lung cancer) 33 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (A) 1. 一位 60 歲男性因肺癌作左側肺切除術(left pneumonectomy),那麼肺泡總順應性(total alveolar compliance),肺血管阻力(pulmonary vascular resistance),氣道傳導度(airway conductance)等生理指標與過去未做肺切除術前相比,最可能的變化為何? Source: [[sources/med5-book4-ch03|丙、肺]].
+- ### D. 肺癌 (Lung cancer) Source: [[sources/med5-book4-ch03|丙、肺]].
+- b. 定義:胸水抽吸(thoracocentesis)細胞學檢查發現惡性細胞。無法直接診斷淋巴瘤,或區別為惡性細胞和反應性間皮細胞。產生的原因以轉移性乳癌和肺癌最常見、淋巴瘤次之(約10~14%)、轉移性卵巢癌則很少見、支氣管或淋巴阻塞、低蛋白血症等亦可能。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (B) 轉移性乳癌及肺癌最常造成惡性肋膜積液 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (B) 肺癌及乳癌是引起惡性肋膜積水常見的原因 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 在次發性惡性心包膜積液 (secondary malignant pericardial effusion)的病人中,男性及女性皆以肺癌最為常見 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 2. 病因: - (1) 醫源性(iatrogenic): 最常見的原因,長期服用含類固醇的止痛藥所致,造成體內 glucocorticoid 過量。 - (2) Cushing disease: 佔非醫源性病患 65~70%。腦下垂體前葉腺瘤或是增生,過度分泌 ACTH,造成雙側腎上腺增生,分泌過量 cortisol。 - (3) 腎上腺腫瘤:佔非醫源性病患 10~20%。Adrenal adenoma 或 carcinoma,不受 ACTH 控制,分泌大量 cortisol。ACTH 反而因受到回饋抑制而濃度降低,腫瘤 周圍的正常腎上腺皮質也會萎縮。 - (4) 異位性(ectopic) ACTH:身體其他部位有會分泌 ACTH 的來源,例如小細胞 肺癌、類癌、胰臟癌、胸腺癌、甲狀腺髓質癌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -103,12 +113,6 @@ tags:
 - (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- (A) 18.75 歲男性因肺癌住院治療,電腦斷層發現腫瘤轉移到兩側腎上 腺,全身倦怠,血鉀上升,全身皮膚及口腔黏膜、掌紋處多處 變黑,下列敘述何者正確? Source: [[sources/med4-book2-ch11|子、其 他]].
-- 3. Leser-Trélat Sign:假使身上短時間大量出現脂漏性角化症時,須懷疑體內是否有癌症,特別是胃癌、肺癌、與大腸癌,為 paraneoplastic syndrome 的一種表現。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 5. 砷會引起肺癌、腎臟癌、膀胱癌或前列腺癌。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (C) 15. 一位 70 歲病患有肺癌,目前在接受化學治療,期間發現身體軀幹右側有如圖之皮膚表徵。下列敘述何者錯誤? Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) **惡性腫瘤(肺癌、**淋巴癌、轉移來的癌症)佔了 90% 原因,其中肺癌佔了 85% 的 絕大多數。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (2) 惡性腫瘤中 Small cell lung cancer 及 squamous cell lung cancer 佔了 85%。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 
@@ -119,6 +123,7 @@ tags:
 
 - [[procedures/bronchoscopy|Bronchoscopy (支氣管鏡)]]
 - [[diagnostics/lung-cancer-staging|Lung cancer staging (肺癌分期)]]
+- [[conditions/malignant-pleural-effusion|Malignant pleural effusion (惡性肋膜積液)]]
 - [[conditions/non-small-cell-lung-cancer|Non-small-cell lung cancer (非小細胞肺癌)]]
 - [[conditions/small-cell-lung-cancer|Small-cell lung cancer (小細胞肺癌)]]
 - [[procedures/thoracoscopy|Thoracoscopy / VATS (胸腔鏡)]]

@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch18]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Esophageal varices (食道靜脈曲張)'
   - 'Esophageal varices'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-門脈高壓造成食道靜脈曲張，可發生大量上消化道出血。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+門脈高壓造成食道靜脈曲張，可發生大量上消化道出血。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book2-ch01]]
 - [[sources/med3-book2-ch18]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- (A) Mallory-Weiss syndrome (B) esophageal varices Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (B) 遠端脾腎靜脈分流術可能會加重腹水之嚴重度,故不適合用 於治療食道靜脈曲張合併腹水之病患 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (D) 肝硬化合併食道靜脈曲張出血之病患在接受遠端脾腎靜脈分 流術後,不適合再接受肝移植手術 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - #### 2. 食道靜脈曲張 (esophageal varices): Source: [[sources/med3-book2-ch23|戊、肝硬化]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch04]]"
@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Ischemic heart disease (缺血性心臟病)'
   - 'Ischemic heart disease'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ tags:
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### 丙、冠狀動脈疾病及冠狀動脈繞道手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - #### 丙、冠狀動脈疾病(Coronary artery disease, CAD)及冠狀動脈 繞道手術(Coronary artery bypass graft surgery, CABG) Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (D) 10. 下列有關冠狀動脈疾病病人之處置,何者錯誤? Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
@@ -80,7 +83,6 @@ tags:
 - 1. 缺血性心臟病(Ischemic heart disease)指的是心肌供氧不足,最常見的原因是冠狀動脈粥狀硬化。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - 2. 缺血性心臟病分為兩大類,一類是慢性穩定型心絞痛(Chronic stable angina),一類是 急性冠心症(Acute coronary syndrome)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - ...度,第二個數字代表斜率。可見 V2~V5 運動後都有大於 1 mm 的下降,且斜率皆小於 -1,代表皆是下斜式下降。因此,此病患的 Treadmill exercise test 為陽性。 - c. 若是 ST 段上升,須高度懷疑有更嚴重的冠狀動脈疾病導致 Transmural ischemia;而 ST 段上斜式下降(Upsloping depression)則較無意義。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- 冠狀動脈疾病占心臟衰竭的50%病因,其他包括糖尿病、高血壓等。 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 
 ## Clinical Caveats
 

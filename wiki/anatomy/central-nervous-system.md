@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch07]]"
@@ -33,6 +33,12 @@ sources:
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book3-ch01]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch08]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch17]]"
 aliases:
   - 'Central nervous system, CNS (中樞神經系統)'
   - 'Central nervous system, CNS'
@@ -47,7 +53,7 @@ tags:
 
 ## Summary
 
-包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +86,22 @@ tags:
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book3-ch01]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch08]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch17]]
 
 ## Key Details From Sources
 
+- 1. 成人最常見的縱隔腔腫瘤 23%,通常在後縱隔腔,源自交感神經節和肋間神經的腫瘤,前上縱隔腔極為罕見,多為良性。佔孩童 34%縱隔腔腫瘤,多為惡性。約 10% 會侵犯到脊髓,又稱為 dumbbell tumors。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 【詳解】CT上可見由頸部下來的 thyroid gland,壓到氣管,造成 CxR上有氣管偏移而有吸氣期高頻音。(A)(B) 明顯可排除,(C) 多為神經性腫瘤,但沒看到腫瘤從脊髓延伸。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (2) 腺癌 (adenocarcinoma, ACA): - a. 佔 45% 肺腫瘤,約 75% 在周邊發生,由支氣管上皮的 mucus-producing cell 分化而來,而且較 SqCC 易轉移,且最常轉移到中樞神經系統,而原發性腺癌,如果無肺外轉移,則建議手術切除合併縱隔腔淋巴結摘除。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (2) 止痛:肋間神經阻斷或脊髓硬腦膜外止痛。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 3. 胸腔創傷 (Thoracic injuries) - (1) 創傷性窒息 (Traumatic Asphyxia) - a. 機轉 & 成因:為鈍傷受少見的情況,起因於突發性的胸腔壓砸傷,導致氣道 阳塞以及上腔靜脈高壓逆流。 - b. 臨床表現:出現頭頸部發紺、結膜下出血和淤斑。若小於 3 歲孩童合併肋骨骨折,需高度懷疑受虐。 - c. 治療:通常需要給予呼吸治療、胸管引流,以及注意合併中樞神經和腹腔損傷。若失血量> 20%總血量或持續引流量> 2 mL/kg/hr,建議進行手術。此血胸通常是肋間動脈損傷所致。 Source: [[sources/med5-book4-ch08|甲、概 論]].
+- (2) 腹部超音波:評估泌尿系統和脊髓,尤其腎臟部位。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 1. 機轉:早熟性顱縫融合,導致已融合的顱縫發育受限而開放顱縫的代償性變形,會 導致腦部生長發育受損。 Source: [[sources/med5-book4-ch17|癸、腦及神經疾病]].
 - ...6-T9 發出之神經,經過 celiac plexus 後分佈於胃壁。 - (b) 其作用使胃蠕動減慢,胃液分泌減少,括約肌緊張等。 - b. 副交感神經: - (a) 90% 為輸出神經 (afferent nerve),傳送胃部的訊息至中樞神經。 - (b) 可分成 left vagus nerve 與 right vagus nerve(左分支 在前,右分支在後。記 憶成 Left anterior、right posterior, LARP)。 - (c) 由圖可知,於胃小彎處, 左側迷走神經可再分支出 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - ...(一) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭轉移,其餘為肺部、淋巴結、 | | | | 腦部與肝臟。 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (D) 細菌血栓打出一旦造成腦部缺氧或出血,應儘快手術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -94,13 +113,6 @@ tags:
 - Neurogenic:動眼神經、交感神經或 CNS 受損所致,例如動脈流 血、腦膜炎、Horner's syndrome、糖尿病、多發性硬化症等。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - 2. 顱內室管膜瘤好發於孩童,但長於脊髓的室管膜瘤則以成年人為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. Medulloblastoma 為一種惡性高度侵犯,位於小腦的惡性腫瘤,好發於 5~7 歲,為 小孩最常見之腦部惡性腫瘤,屬於神經外胚層母細胞瘤,又稱 embryonal tumor。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- (1) X光:有機會發現腫瘤本身鈣化、顱骨的增生肥厚(hyperostosis)或顱骨遭到破壞,但是比較準確的檢查則以腦部電腦斷層或核磁共振掃描為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- (3) 鈍傷:腹部鈍傷假使只靠 PE 很難診斷腹內是否有受傷,特別是當病人合併有腦部或脊髓受傷,或是吸毒喝酒等,容易誤診。因此需要其他工具補助檢查: - a. 腹腔灌洗術: - (a) 腹腔灌洗術的優點在於能快速得到結果,其一般之適應症為: - i. 大量傷患同時到達時可作為檢傷分類之依據。 - ii. 神智改變。 - iii. 酒醉或服用毒藥物。 - iv. 需上麻醉處理其他合併損傷。 - v. 多處受傷之病患。 - vi. 懷疑腹部受傷,但腹部症狀不明顯。 - (b) 將腹膜透析導管插入腹膜腔,並進行抽吸,假使抽到 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- ...(A) 7. 一位 50 歲男性的卡車司機,因打瞌睡於高速公路追撞前方聯結 車,卡在前座達 20 分鐘,到達急診時,血壓 80/40 mmHg、意識 醫五-76 清楚但躁動不安、腹部脹大、左腿變形,下列何項敘述最不適當? (A) 應立即進行腦部電腦斷層檢查 (B) 床邊腹部超音波可用於加速手術的決定 (C) 中心靜脈導管的放置不應拖延進手術室的時間 (D) 血氧飽和度 92% 可因為血壓低,故僅供參考 【詳解】先以穩定 ABC、vital sign, FAST 尋找潛在出血處, Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- ...,呼 100( 二 ) 專 吸每分鐘 30 下,心跳每分鐘 120 下,下列緊急處置何者錯誤? 醫五-77 (A) 緊急進行氣管插管 (B) 立即給予 2,000 mL 乳酸林格式液 (C) 床邊腹部超音波檢查 (D) 只能使用升壓劑來維持腦部灌流 【詳解】首要維持 ABC,穩定 vital sign,並盡速找出可能的出 血點,(D)較不適合。 (A) 20. 依我國現行緊急醫療救護系統,請將下列緊急傷病患發生後的啟 99(二)專 動流程,依照正確的順序排列出來: 醫五-76 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- 1. 處理原則: - (1) 檢查呼吸道有無暢誦,GCS ≤ 8的話緊急插管。 - (2) 檢查血氧濃度,不夠的話給予呼吸器。 - (3) 檢查脈搏和血壓,維持 SBP > 90 mmHg。 - (4) 評估胸部和腹部是否也有受傷(PE、影像檢查)。 - (5) 評估意識狀態及局部神經學症狀,考慮脊髓是否受傷(頭顱脊髓 X 光、CT)。 - (6) 最後才檢查肢體有無撕裂或骨折(X光)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- (C) 5. 頭部外傷造成的 diffuse axonal injury (DAI),下列敘述何者錯誤? 106(-) 専 (A) 病人通常沒有清明期(lucid interval) - (B) 電腦斷層掃描(brain CT)上可能沒有明顯的病灶,但病人 卻呈昏迷狀態 - (C) 如果病人不幸死亡,解剖上腦部有明顯不正常的外觀 - (D) 在胼胝體(corpus callosum)可見出血性壞死的病灶 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- 1. 時機: Hunt and Hess Grade 1~4 病患在沒有腦部動脈痙攣收縮及嚴重腦浮腫的情況下,手術可盡早施行。Grade 5 病患除了腦脊髓液引流等簡易之處置外,原則上不建議早期開刀。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 
 ## Clinical Caveats
 

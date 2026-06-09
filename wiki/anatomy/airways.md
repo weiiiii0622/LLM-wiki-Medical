@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book1-ch15]]"
@@ -38,6 +38,17 @@ sources:
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch08]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch06]]"
+  - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch09]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch16]]"
 aliases:
   - 'Airways (氣道)'
   - 'Airways'
@@ -52,7 +63,7 @@ tags:
 
 ## Summary
 
-氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +101,30 @@ tags:
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch08]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch06]]
+- [[sources/med5-book4-ch10]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch09]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch16]]
 
 ## Key Details From Sources
 
+- F. 氣管支氣管損傷 (Tracheobronchial injury) 118 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 2. 在車禍發生時,造成立即性死亡,最常見原因為心因性鈍傷合併腔室破損和胸主動脈損傷,造成早期死亡,最常見因為氣道阻塞、張力性氣胸、大量血胸和心包膜填塞。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (1) 缺氧(Hypoxia):氣道阻塞、胸內壓力改變、通氣灌流失調(ventilation-perfusion mismatches) 和低血容。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 2. 創傷處置:如同大人處置依 Airway、Breathing、Circulation 先後順序。 - (1) Airway & Breathing: 創傷當下孩童多會有哭泣,若有則表示 AB 大多為完好,如無則須插管建立氣道。 - a. 氣管內管之型式選擇:小於 8~10 歲孩童因氣管管徑較小,優先建議使用無袖口氣囊(un-cuffed)氣管內管。 - b. 氣管內管之管徑選擇: 概估約等於孩童的小指寬,或以公式 4 + age (yr) / 4 French 來計算最佳管徑 Source: [[sources/med5-book4-ch08|甲、概 論]].
+- 3. 胸腔創傷 (Thoracic injuries) - (1) 創傷性窒息 (Traumatic Asphyxia) - a. 機轉 & 成因:為鈍傷受少見的情況,起因於突發性的胸腔壓砸傷,導致氣道 阳塞以及上腔靜脈高壓逆流。 - b. 臨床表現:出現頭頸部發紺、結膜下出血和淤斑。若小於 3 歲孩童合併肋骨骨折,需高度懷疑受虐。 - c. 治療:通常需要給予呼吸治療、胸管引流,以及注意合併中樞神經和腹腔損傷。若失血量> 20%總血量或持續引流量> 2 mL/kg/hr,建議進行手術。此血胸通常是肋間動脈損傷所致。 Source: [[sources/med5-book4-ch08|甲、概 論]].
+- (A) 3. 對嬰幼兒進行氣管插管時,容易造成進入左側或右側的支氣管 101(-)專內,其最主要原因為何? 醫五-73 - (A) 氣管相對較短 - (B) 上唇至喉頭部的距離相對較短 - (C) 氣管內管不具氣囊,固定效果不佳,故易滑入 - (D) 主支氣管與氣管間的角度不夠大所導致 Source: [[sources/med5-book4-ch08|甲、概 論]].
+- J. 支氣管擴張症 (Bronchiectasis) 49 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 3. 支氣管和血管:依肺節節狀結構分佈,故能以次節狀或節狀方式手術切除肺。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- | N1 | 肺內或肺節淋巴結\nintrapulmonary or segmental nodes | 分佈於肺節支氣管分岔和肺動脈分流處 | |----|---------------------------------------------|--------------------| | | 肺葉淋巴結lobar nodes | 沿上中下三葉支氣管分佈 | | | 肺葉間淋巴結interlobar nodes | 分佈於左右主支氣管進入葉支氣管分叉處 | | | 肺門淋巴結hilar nodes | 沿左右主支氣管分佈 | Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 始於咽部(C6 高度),終於腹部,以賁門和胃相連(T11 高度),長約 25~30 cm,在頸部位於中間,進入胸腔後,略偏氣管左側,在氣管分支處,為避開主動脈弓略右偏,在左主支氣管又回到略左偏,然後經橫隔食道裂孔進入橫隔。食道在頸部,後側由頸椎固定,前側由支氣管固定,在氣管分支處,前側心包膜直接和食道相貼,並和降胸主動脈併行穿過橫隔,然後以正中弓狀韌帶(median arcuate ligament)分隔。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (D) 12. 在高速道路上突然減速的撞擊,很可能造成胸部傷害,尤其是外 98(-)專 傷性主動脈斷裂,此種傷害,在胸部 X 光上最常見的表現是什麼? 醫五-77 - (A) 主動脈節不見 (obliteration of aortic knob) - (B) 氣管向右邊 (deviation of the trachea to the right) - (C) 左支氣管下移 (depression of the left main stem bronchus) - (D) 中膈腔寬大 (widened mediastinum) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...度破裂風險,可考慮提早開刀。 - f. 其他像是 saccular aneurysm、mycotic aneurysm、pseudoaneurysm、dissecting aneurysm、fistula with GI tract or airway 等情形,不論大小皆建議馬上開刀。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - d. 其他: - (a) 氣道外傷 - (b) 極低體溫 (核心體溫≤ 30°C) Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -101,16 +133,6 @@ tags:
 - (6) 支氣管擴張症及其他發炎之後遺症。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 4. 腹部創傷之急救和和所有急救一樣,必需先穩定 ABC (airway、breathing、circulation)後再作腹部的檢查,尤其在有穿刺傷時亦應先將 ABC 穩定後再處理傷口。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - ...------------------------|-----------------| | | (A) 連枷胸 (flail chest) | a 11 | | | (B) 嚴重的休克 (shock) | | | | (C) 呼吸道阻塞 (airway obstruction) | | | | (D) 肢體有一開放的傷口不斷在流血(active bleeding) | | | | (D) 政盟有 网放印易山小乡在加皿(active dicetting) | | | (A) 22. | 一個病人因車禍,血流滿面送至急診室,如果你是值班醫師, | 99(一)專 | | | 你要優先處理: | 醫五 -28 | | | (A) ABC (airway, breathing, circula Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- VII. 細支氣管炎 (Bronchiolitis) 175 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 1. 突然且嚴重的氣道阻塞為其特徵。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- B. **病生理學**: 由於會厭與聲門上組織水腫造成氣道狹窄,進而造成發音困難與呼吸窘迫。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...這些化學物質中,組織胺與白三烯素會引發氣管早期收縮;其他 化學物質則可以使表皮細胞的破壞脫落至呼吸道,呼吸道水腫,基底層(basement membrane) 增厚,平滑肌肥大,和黏液分泌增加。以上這些都會造成呼吸道阻 塞。此外,當過敏原與支氣管的表皮細胞接觸時,除了改變物理性障壁結構外,表 皮細胞也會變成抗原呈現細胞,進而分泌 IL-33、IL-25 以及 TSLP (thymic stromal lympopoeitin)。這些 cytokines引發 innate immune response,刺激 type 2 innate lymphoid cells。Type 2 innate lymphoid cells 也會分泌 IL-4、IL-5 以及 IL-13,除了 刺 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (1) 誘導 eosinophil 到 airway(但 IL-13 功用為增加 airway 本身的敏感性)。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 依照 airway inflammation phenotype,可將 asthma 分類以下型式: Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 2. 種類:可分為 obstructive、central 與 mixed 三種。 - (1) Obstructive apnea: 有胸壁的起伏但氣道沒有氣體的流動,當胸壁呈現吸氣時咽部氣道發生塌陷。 - (2) Central apnea:中樞神經對呼吸相關肌肉刺激減少,造成沒有氣體流動與胸部起伏,但呼吸道沒有阻塞的證據。 - (3) Mixed apnea: 最常見, 佔 50~75%。阻塞型與中樞型混合,通常阻塞型在中樞型前發生。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (2) 除了給予氧氣或 CPAP (continuous positive airway pressure) 外,對於發生呼吸暫停但病人本身沒有 precipitating identifiable cause 可以給予 theophylline 或 caffeine 治療。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 12. 一位 36 週早產兒經剖腹產生下後,發生呼吸窘迫症狀,呼吸聲 104(2) 專 有囉音(rales),經給予氧氣(FiO $_2$ 25%)及連續性氣道正壓 80-6 (CPAP)呼吸後,症狀逐漸改善,隔天即無症狀。下列那一項 是最可能的診斷? - (A) 呼吸窘迫症候群(respiratory distress syndrome) - (B) 短暫呼吸急促 (transient tachypnea of newborn) - (C) 細菌性肺炎 (bacterial pneumonia) - (D) 自發性氣胸 (spontaneous pneumothorax) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 
@@ -119,7 +141,11 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/lymphangioma-cystic-hygroma|Lymphangioma / cystic hygroma (淋巴管瘤／囊狀水瘤)]]
+- [[conditions/neck-trauma|Neck trauma (頸部創傷)]]
+- [[conditions/tracheal-tumor|Tracheal tumor (氣管腫瘤)]]
+- [[conditions/tracheobronchial-injury|Tracheobronchial injury (氣管支氣管損傷)]]
+- [[procedures/tracheostomy|Tracheostomy (氣管造口術)]]
 
 ## Follow-up
 

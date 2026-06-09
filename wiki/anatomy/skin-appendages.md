@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch01]]"
   - "[[sources/med4-book2-ch05]]"
@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Skin appendages (皮膚附屬器官)'
   - 'Skin appendages'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book2-ch06]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- (5) 汗腺:因汗液濃縮,皮膚有鹹味。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (B) 毛囊 (hair follicle) Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
 - (C) 皮脂腺 (sebaceous gland) Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
 - 【詳解】汗腺、毛囊和皮脂腺都具有可再分化之上皮細胞,可 在供皮區取皮作 STSG 後複製並移行至傷口缺損處填補。 Source: [[sources/med5-book2-ch26|乙、皮膚移植手術]].
@@ -74,7 +77,6 @@ tags:
 - 1. 在皮膚皮脂腺分泌旺盛的部位反覆發炎,以男生居 多,好發於嬰兒和 20~50 歲這兩個年齡層。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 3. 好發部位包括頭皮、鼻翼兩側、眉毛及眉間、耳後或耳內及前胸等皮脂區(seborrheic area),都是人體皮脂腺最多的地方(見右圖)。皮膚會有發癢及發紅性脫屑現象;偶有發黃及油膩的皮屑。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 【詳解】化療會造成毛囊中基質細胞的分裂受到抑制,導致生長期(anagen)毛髮之生長突然停止或破壞,直接進入退化期及休止期,最後產生大量掉髮,屬於生長期落髮(anagen effluvium) Source: [[sources/med4-book2-ch11|子、其 他]].
-- (D) 指甲可出現 pitting、trachyonychia (rough nail) 等現象 Source: [[sources/med4-book2-ch11|子、其 他]].
 
 ## Clinical Caveats
 

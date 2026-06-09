@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch15]]"
   - "[[sources/med3-book1-ch14]]"
@@ -29,6 +29,11 @@ sources:
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -43,7 +48,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +77,21 @@ tags:
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- 3. FEV1: 最常用來術前評估預測術後保留肺功能。 - (1) 一般建議術後保留 FEV, 需大於 0.8 L。 - (2) FEV1 預測百分比:將正常人 FEV1 測試的結果,依據身高體重統計做出對照預 測值,將病人除以預測值而得。 - (3) 術前評估:一般來說採用預測值百分比較過去用 FEV1 絕對值,能更準確評估 病人術後肺功能是否足夠。 - a. > 60% 可做肺葉切除。 - b. 1 /FVC ratio 值會上升 | | | | (C) diffusion capacity for CO (DLCO) l Source: [[sources/med5-book4-ch03|丙、肺]].
+- (1) 危險因子:男性抽菸增加 22 倍、女性抽菸增加 12%。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 發生率:神經性腫瘤(23%)、胸腺瘤或囊腫(21%)、淋巴瘤(13%)、生殖細胞瘤(12%)。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- ...----------------------------------|------------|----------------| | 全區 | 成人 | 神經性腫瘤 23%胸腺瘤或囊腫21%先天性前腸囊腫 20%淋巴瘤 13%生殖細胞瘤 12% | 良性腫瘤 58%神經性腫瘤 23% (21%*)原發性囊腫 20%*胸腺瘤 19%*淋巴瘤 13%*生殖細胞瘤 11%*間葉組織腫瘤 7%* | | @佔成人腫瘤42% | XII | @佔成人腫瘤 58% | | 前上 | 小孩成人小孩 | 畸胎瘤惡性精細胞瘤2~4%甲狀腺腫瘤 1%胸腺瘤 | 內分泌腫瘤 6%*良性腫瘤 73%神經性腫瘤 34%(40%*)原發性囊腫 16%(18%*)生殖細胞瘤 14%(11%*)淋巴瘤 13 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- c. 處置: - (a) 直接抽出積液並檢查分析。 - (b) 矯正原發疾病,如:心衰竭或腹水等。 - (c) 胸管引流:前者無效或反覆性肋膜積水。 - (d) 肋膜沾粘術:當胸管引流小於 150~200 mL/day 可以考慮。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 3. 檢查 & 診斷: 患側呼吸音減弱、平躺胸部 X 光呈朦朧狀(haziness)通常至少 200 mL 積血。肋膜腔最多可以容納 3 L 血液。大量血胸,通常是肺血管或主要動脈損傷;輕度血胸,通常是輕微肺損傷。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...F > 35% | Significant coronarydisease; recent MI; frequentangina; CHF; EF 1 > 1 L/sec | O 2 dependent; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 3. 心臟瓣膜置換後的 valve-related death: - (1) Thromboembolism:較常發生於機械性瓣膜,佔 12%。 - (2) Reoperation:再度心臟瓣膜手術,佔10%。 - (3) Bleeding:和抗凝血劑的服用有關,佔4%。 - (4) Prosthetic valve endocarditis:通常在術後六個月內發生人工瓣膜感染,佔3%。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (4) 嚴重的慢性阻塞性肺病, $FEV_1 5 Wood units) | | | | (D) 22 歲女性罹患良性心臟內腫瘤合併反覆性心室性頻脈,無 | | | | 法以外科手術切除者 | | | | 【詳解】(C) 心臟移植後有馬上右心室衰竭的風險。 | | | (B) | 3. 在下列何種情況下,作異位心臟移植(heterotopic transplantation) | 99(二)專 | | | 比正位心臟移植(orthotopic transplantation) Source: [[sources/med5-book2-ch07|庚、心臟移植]].
@@ -86,13 +103,6 @@ tags:
 - (D) 生理食鹽水 400 mL 重複 3 次,加上 200 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...-|---------------------------------------------| | C1-4 | 頸部肌肉 (neck muscle) | | | | C3, 4, 5 | 横膈肌 (diaphragm) | 吸氣、TV、FEV、VC | | | C5 , 6 | 三角肌 (deltoid) | 局部外展 > 90° | | | C5 , 6 | 二頭肌 (biceps) | 手肘彎曲 | biceps jerk | | C6 , 7 | 伸腕橈肌 (extensor carpi radialis) | 手腕伸張 | supinator jerk | | C7, 8 | 三頭肌 (triceps)、伸指總肌 (extensor digitorum) | 手肘和 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- a. Acom (26%) > Pcom (22%) > ICA (20%) > MCA (19%) > ACA (12%) Basilar a. (3.2%) > PCA (2.9%) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- ...--|-----------------------------| | Depressive disorders(憂鬱性疾患) | · | | 重鬱症(major depressive disorder) | 女:10%~25%;男:5%~12% | | 輕鬱症(dysthymic disorder) | 約 6% | | 雙鬱症 (double depression) | 約有 20~25% 的重鬱症病人 | | Bipolar disorders(雙極性疾患) | | | 第一型雙極性疾患(bipolar I disorder) | 0.4%~1.6% | | 第二型雙極性疾患(bipolar II disorder) | 約 0.5% | | 循環性疾患(cyclothy Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 2. 男性終生盛行率為 5~6%; 女性為 10~12%。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- $FEV_1/FVC$ ratio 12\%$ or predicted $\text{FEV}_1 > 10\%$ after inhalation of a short-acting $\beta$ -agonist (SABA)\* Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- Worsening in $FEV_1 \ge 15\%$ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (D) 5. 下列何者不是典型嚴重氣喘患童之肺功能測量儀(spirometry)測量結果?(FVC:forced vital capacity 全力吐氣量;FEV」:forced expiratory volume at one second 一秒全力吐氣量。) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

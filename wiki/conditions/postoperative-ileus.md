@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book1-ch02]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Postoperative ileus (術後腸麻痺)'
   - 'Postoperative ileus'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-手術後腸蠕動暫時下降，需與 mechanical obstruction、感染、電解質異常鑑別。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+手術後腸蠕動暫時下降，需與 mechanical obstruction、感染、電解質異常鑑別。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- 3. 單純性胎便性腸阻塞(Simple meconium ileus) - (1) 未造成腸穿孔為單純性腸阻塞,通常約有 15% 孩童有遺傳囊性纖維化。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 4. 複雜性胎便性腸阻塞 (Simple meconium ileus) - (1) 當有腸穿孔發生須考慮為複雜性腸阻塞,通常此腸穿孔發生在胎兒或新生兒早期,導致胎便進入腹腔,造成嚴重腹膜炎伴隨劇烈發炎反應和鈣化。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 1. 腸阻塞的定義是消化道內的食物無法順利前進排出,稱之為腸阻塞。依照其機轉可再分為: - (1) 機械性腸阻塞 (mechanical ileus): 因結構上的問題導致消化道阻塞。 - (2) 麻痺性腸腸塞(paralytic ileus):消化道因神經或血管供應的問題,導致失去推動食物的能力。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
 - 2. 在這個章節主要探討機械性腸阻塞 (mechanical ileus) 的外科相關議題。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
 - 3. 疝氣(hernia): 10%。疝氣導致的 ileus 佔了將近 10%,因此進行 PE 時務必將病人的衣服和褲子掀起,仔細觸診。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].

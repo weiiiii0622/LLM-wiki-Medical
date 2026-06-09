@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book1-ch03]]"
@@ -13,6 +13,9 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Lethal triad of trauma (創傷致命三角)'
   - 'Lethal triad of trauma'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,17 @@ tags:
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- 4. 臨床表現:好發於 2~8 週之間,吐後仍想吃(hungry vomiter),非膽汁性噴射式劇烈嘔吐(non-bilious projectile vigorous emesis),嘔吐物帶咖啡色絲或血絲,可能看到左上腹到上腹有胃蠕動,嘔吐導致胃酸流失而造成低氯性代謝性鹼中毒(hypochloremic metabolic alkalosis)會合併血鉀降低和代償性呼吸酸中毒(respiratory acidosis),甚至脫水。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (2) 相對適應症:明顯臨床生理機能失常、腹壁蜂窩性組織炎(abdominal wall cellulitis)、酸血症惡化(worsening acidosis)、白血球或血小板掉、腹部腫塊、持續固定的小腸扭結環。須衡量手術好處和早產兒免疫力較差接受手術所需負擔之風險。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...手術適應症? | | 102(一)專 | | | | (A) intraperitoneal free air | | 醫五 -49 | | | | (B) pneumatosis intestinalis | | | | | | (C) acidosis (pH $a 200 | | | 呈現鼓音(tympanic)。下列何者你覺得對診斷最沒有幫忙? | | | | (A) 指診檢查肛門的鬆緊 (B) 問胎便排出時間 | | | | (C) 安排下消化道攝影 (D) 大便細菌培養 | | | | 【詳解】滿月男嬰、經常腹脹便秘(三天排便一次),進食尚 | | | | 正常。 | | | | TT- 114 | | Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...lobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但症狀通常不會隨著胸腺瘤治療成功而改善。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (3) 酸中毒(Acidosis):因失血造成灌流不足。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (D) PT 異常,必須先矯正 coagulopathy Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】機械型瓣膜病人須終身服用抗凝血劑,出血風 險相對組織型來得高,故不適合計劃生育之女性(Post partum hemorrhage),也不適合老年人(ICH)與血友病患者 (Coagulopathy),另有研究顯示裝有組織型瓣膜的洗腎患者較 不易流血且洗腎通路較不易阻塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].

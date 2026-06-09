@@ -2,9 +2,10 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Organ transplantation (器官移植)'
   - 'Organ transplantation'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-以活體或屍體捐贈器官取代末期器官衰竭，需評估配對、排斥、感染與倫理。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以活體或屍體捐贈器官取代末期器官衰竭，需評估配對、排斥、感染與倫理。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - B. **異體移植**:整理自人體器官移植條例(民國 100 年 12 月 21 日修正) Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (B) 2. 器官移植是人類外科醫學一個重要突破,下列敘述何者錯誤? 108( )專 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (A) 歷史上最早完成的器官移植為腎臟移植 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -39,6 +42,7 @@ tags:
 ## Related Pages
 
 - [[conditions/brain-death|Brain death (腦死)]]
+- [[procedures/heart-transplantation|Heart transplantation (心臟移植)]]
 - [[diagnostics/hla-crossmatch|HLA typing and crossmatch (HLA 配對與交叉試驗)]]
 - [[drugs/immunosuppressants|Immunosuppressants (免疫抑制劑)]]
 - [[procedures/kidney-transplantation|Kidney transplantation (腎臟移植)]]

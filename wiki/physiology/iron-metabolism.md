@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch09]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Iron metabolism (鐵代謝)'
   - 'Iron metabolism'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-鐵吸收、運輸、儲存與發炎調控決定紅血球生成與 anemia pattern。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鐵吸收、運輸、儲存與發炎調控決定紅血球生成與 anemia pattern。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book1-ch01]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- b. HBL:存活率 75%、好發於 1,500 IU/mL, ferritin > 142 ng/mL、NSE > 100 ng/mL。(LDH = lactic dehydrogenase, NSE = neuron-specific enolase —種醣解酶)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...,術後需要足量營養補充,以維持各項生理功能與組織復原。營養補充是否足夠,可藉由下列各種生化檢定來評估,何者除外?(A) 白蛋白(albumin) (B) 球蛋白(globulin)(C) 前白蛋白(prealbumin) (D) 轉鐵蛋白(transferrin) | 105(二)專醫五-3 | | (A) | 9. 下列對於再餵食症候群(refeeding syndrome)的敘述,何者錯誤? (A) Refeeding syndrome 又稱為 magnesium steal syndrome (B) 為避免 refeeding syndrome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...疾病有關? (A) 鎂 (magnesium) (B) 鉀 (potassium) (C) 磷 (phosphorus) (D) 鐵 (iron) 【詳解】此懷疑 restless leg syndrome。約 20% 的病人有缺鐵的病症(ferritin 5. 下列有關健康成人正常睡眠的結構,何者正確?(A) 每個睡眠週期約 60 分鐘(B) 非動眼睡眠第三期約占睡眠 50% 的時間(C) 入睡通常小於 5 分鐘(D) 每晚經歷 3~5 個睡眠週期 | 107(二)專醫四-49 | |-----|------------------------------------------------------------------------------------------------ Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].

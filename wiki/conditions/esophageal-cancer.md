@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch07]]"
@@ -13,6 +13,9 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch06]]"
 aliases:
   - 'Esophageal cancer (食道癌)'
   - 'Esophageal cancer'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,20 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch06]]
 
 ## Key Details From Sources
 
+- (B) 長時間最易引起 esophageal adenocarcinoma Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 1. 惡性腫瘤中,以鱗狀上皮細胞癌(squamous cell carcinoma)最常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(achalasia)、 暴食(bulimia)、胼胝 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ### Squamous cell carcinoma L category\*\*\* Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (3) 鱗狀細胞癌 (squamous cell carcinoma, SqCC): - a. 佔 30% 肺腫瘤,約 2/3 在中央發生,且易從外壓迫氣管,SqCC 易產生腫瘤中央壞死(central necrosis)和開洞(cavitation),組織學上呈現角質化(keratinization)、複層化(stratification)、細胞間橋(intercellular bridge Source: [[sources/med5-book4-ch03|丙、肺]].
+- (A) 肺鱗狀細胞癌 (squamous cell carcinoma) 在臺灣最常見 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (B) 3. 有關肺癌的描述,下列何者正確?① adenocarcinoma 是最常見的 細胞型 ② squamous cell carcinoma 的發生與抽菸最有關聯 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (B) 1. 最常見的原發氣管內惡性腫瘤為: 107 (一) 專 醫五-27 (A) adenocarcinoma (B) squamous cell carcinoma (C) small cell carcinoma (D) carcinoid tumor (C) 2. 氣管分岔處(carina)在胸部 X 光所在的高度約相應於脊椎那一 106 (二) 專 醫五-18 個部位? (A) C6 (B) T1-2(C) T4-5(D) L2-3(D) 3. 有關 adenoid cystic carcinoma of lung 之敘述,下列何者正確? 105(二)專 ①大部分發生於肺周邊組織 ②大部分腫 Source: [[sources/med5-book4-ch06|己、氣管]].
+- | (A) | 6. 氣管最常見的惡性腫瘤為: | 100(一)專 | |-----|--------------------------------------------|---------| | | (A) squamous cell carcinoma | 醫五 -35 | | | (B) adenoid cystic carcinoma | | | | (C) carcinoid | | | | (D) adenoma | | | (C) | 7. 氣管為一管狀器官,下列關於其敘述何者為錯? | 99(一)專 | | | (A) 氣管為可移動的器官,在進行手術時常須將頸部伸展 | 醫五 -14 | | | (hyperextension) | | | | (B) 喉返神經位於氣管和 Source: [[sources/med5-book4-ch06|己、氣管]].
 - 【 詳解 】(A)(B)(C) 位於 cardia 的 gastric cancer 可 視 為 lower esophageal cancer, 目 前 可 以 做 proximal gastrectomy 和 total gastrectomy。proximal gastrectomy 容易造成食道逆流、dumping syndrome 或 anastomosis stricture等 complication,也會有較高的 mortality rate,一般以 total gastrectomy 為首選。(D) Distal gastric cancer 的預後較好。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | | situ),不是腺癌。 | _ | | (C) 17. 有關直腸癌的經肛門局部切除治療,下列敘述何者錯誤? | 102(二)專 | | (A) 須小於 4 公分的 T1 和 T2 癌瘤才可使用 | 醫五-54 | | (B) 癌瘤須在離肛門口 6 公分以內的範圍才能採用此療法 | | | (C) T1 和 T2 的癌瘤皆不需再接受進一步的治療 | | | (D) 癌瘤必須是分化良好或中度分化者 | | | 【詳解 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (B) 鱗狀細胞癌(squamous cell carcinoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
@@ -53,12 +67,6 @@ tags:
 - ...rathyroid hormone-related peptide)的產生最常見於何種肺癌的組織學型態? (A) 小細胞肺癌(small cell lung cancer) (B) 腺癌(adenocarcinoma) (C) 鱗狀細胞癌(squamous cell carcinoma) (D) 大細胞肺癌(large cell carcinoma) | 107(一)專醫三-48 | | (B) | 3. 下列腫瘤何者較不會合併紅血球增生症? (A) 腎細胞癌 (Renal cell carcinoma) (B) 淋巴瘤 (Lymphoma) (C) 肝癌 (Hepatocellular carcinoma) (D) 小腦血管母細胞瘤 (Cerebellar hemangioblastoma) | 100(二)專醫三 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 - (1) PTHrP: oncogen, virus, local growth factor - a. 常見於 Squamous cell carcinomas、Renal carcinomas、Bladder carcinoma 等。 - b. 某些腫瘤的 ras(oncogen)過度活化,會造成 PTHrP 表現增加;導致 Adult T cell lymphoma 的 HTLV-1 也會加強 PTHrP 表現;骨轉移的腫瘤可能因為骨頭提供的環境,PTHrP 表現也較多。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 - Barrett's esophagus (intestinal metaplasia) · Esophageal adenocarcinoma · Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (C) 食道鱗狀細胞癌 (esophageal squamous cell carcinoma) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (D) 食道腺癌 (esophageal adenocarcinoma) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- 1. 只有固體食物困難吞嚥→機械性阻塞 (mechanical obstruction),僅是會卡到固體的食物, 日多半能指出卡住的地方,表示管腔狹窄但蠕動正常。 - (1) 病人年紀 > 50 歲,伴隨體重減輕或有口腔癌病史,傾向懷疑是食道癌。 - (2) 長期有 heartburn、慢性咳嗽的症狀,傾向是長期 GERD 造成的 Peptic stricture。 - (3) 過去有腐蝕性食道炎病史(強酸強鹼),可能造成管腔狹窄(stricture),或在數十 年後併發食道癌。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- (D) 此等病人雖非食道癌,其治療仍以手術為主 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- 【詳解】固體食物阻塞應優先懷疑為機械性阻塞造成狹窄,僅管沒 有體重減輕等,仍不能排除為食道癌,銀劑攝影可幫助診斷是否為 狹窄或是蠕動異常的問題。另外如題目提到上消化道內視鏡或胸部 斷層掃描,也是可以進行的檢查。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- ...zide) - (a) 服用過多 Vit. D 或 Sarcoidosis、TB 造成的肉芽腫內,其巨噬細胞會分泌 $1,25(OH)_2D$ ,刺激腸胃道吸收鈣,進而造成高血鈣;根據病因,限鈣飲食會有幫助。 - (b) 若是肺、頭頸部的 squamous cell carcinoma, 會分泌 PTHrP,溶解骨頭造成高血鈣;或乳癌骨轉移、白血病在骨髓腔內侵蝕骨頭都會造成高血鈣,反而會抑制正常的 PTH;根據病因,給予 Bisphosphonate 抑制破骨細胞會有幫助。 - (c) 甲狀腺亢進、臥床(Immobilization)導致骨頭 turnover 快,造成骨質流失、 高血鈣。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 
 ## Clinical Caveats
 
@@ -67,7 +75,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/caustic-esophageal-injury|Caustic esophageal injury (腐蝕性食道傷害)]]
+- [[procedures/esophagectomy|Esophagectomy (食道切除術)]]
 
 ## Follow-up
 

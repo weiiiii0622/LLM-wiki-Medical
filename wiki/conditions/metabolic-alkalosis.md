@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Metabolic alkalosis (代謝性鹼中毒)'
   - 'Metabolic alkalosis'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralocorticoid excess 相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralocorticoid excess 相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralo
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- 4. 臨床表現:好發於 2~8 週之間,吐後仍想吃(hungry vomiter),非膽汁性噴射式劇烈嘔吐(non-bilious projectile vigorous emesis),嘔吐物帶咖啡色絲或血絲,可能看到左上腹到上腹有胃蠕動,嘔吐導致胃酸流失而造成低氯性代謝性鹼中毒(hypochloremic metabolic alkalosis)會合併血鉀降低和代償性呼吸酸中毒(respiratory acidosis),甚至脫水。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- c. HCO3: 盡量在術前矯正,因為代謝性鹼中毒 會代償呼吸酸中毒,而抑制呼吸。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 【詳解】肥厚性幽門狹窄通常都已經吐一段時間了,所以在手術前需要先 correct dehydration 和 metabolic alkalosis,等矯正完再進行手術。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (2) 低血鉀、低氫離子=>代謝性鹼中毒。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...col, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (3) 嘔吐後病人會表現出飢餓感,但餵食後又嘔吐。反覆嘔吐下病童逐漸失去水分、 氫離子、氯離子進而造成代謝性鹼中毒。病人血漿鉀離子通常正常但實際上可 能出現鉀離子總量不足。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
@@ -62,7 +67,8 @@ HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralo
 
 ## Related Pages
 
-- 待補。
+- [[conditions/gastric-outlet-obstruction|Gastric outlet obstruction (胃出口阻塞)]]
+- [[procedures/pyloromyotomy|Pyloromyotomy (幽門肌切開術)]]
 
 ## Follow-up
 

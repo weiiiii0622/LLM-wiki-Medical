@@ -2,7 +2,7 @@
 type: guideline
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch03]]"
@@ -29,6 +29,8 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book3-ch08]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'ACR/EULAR RA classification criteria (RA 分類準則)'
   - 'ACR/EULAR RA classification criteria'
@@ -43,7 +45,7 @@ tags:
 
 ## Summary
 
-RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +74,13 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book3-ch08]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...is)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但症狀通常不會隨著胸腺瘤治療成功而改善。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (4) 酸鹼值監測(pH monitoring): 此為 GERD 黃金診斷標準。利用一感測電極伸入食道監測 pH 值、逆流程度、逆流時間等各項參數。並將各參數依公式計算出 DeMeester score,如正常應小於 14.7。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 2. 組織學分類 (Histology Grade, G): - (1) 可經由組織學的分化型態與程度去預測存活率,分化程度高的存活率較高。 - (2) 採用 **Nottingham Histologic Score**,根據細胞核型態(nuclear pleomorphism)、 腺體分化程度(tubule formation)、有絲分裂數目(mitotic count),分成 grade 1 至 grade3。grade1 預後最佳,grade3 最差。 - a. Grade X: grade cannot be assessed • - b. Grade 1: low combined histologic grade (favorable) Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - ...th receptor)。它負責接受 訊息而加速細胞的生長與分裂。當 Her2 receptor 大量表現時,會使癌細胞的 數量快速增加,也會加速 recurrence 的時間,因此視為一個較差的預後因子。 - (a) Her2/neu (score: 0、1+): 無過度表現, negative。 - (b) Her2/neu(score: 2+):結果並不明確,borderline,進一步作螢光原位雜合技術(fluorescence in situ hybridization, FISH)。 - (c) Her2/neu (score: 3+):表過度表現, positive。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
@@ -91,8 +97,6 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (B) 8. 66 歲男性出現如圖所示病灶,最可能診斷,與最重要的臨床特徵 106(二)專 為何? 醫四-43 - (A) 紅斑性狼瘡(lupus erythematosus);狼瘡性脂肪炎(lupus panniculitis) - (B) 全身性硬皮症 (systemic sclerosis); 手 指硬化 (sclerodactyly)、手指潰瘍 (digital ulcerations) - (C) 類風濕性關節炎(rheumatoid arthritis); 類風濕性結節(rheumatoid nodules) - (D) 皮肌炎 (dermatomyositis); Gottron 氏徴 候 (Gottron sign) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (D) 32. 一個 6 歲大的男孩,雙股及兩側下肢出現紫斑及出血疹,男孩無 98( ) 專 發燒,精神良好,但右膝腫脹,全血球計量正常,最可能診斷為: 醫四 -11 (A) 原發性血小板過低紫斑症 (idiopathic thrombocytopenic - (B) 青年型類風濕性關節炎(juvenile rheumatoid arthritis) - (C) 腦膜炎雙球菌敗血症(meningococcemia) - (D) 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura 【詳解】(A) 全血球不會正常。(B) 會發燒。(C) 會發燒,且意識 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 【詳解】(A) 治療首選為 Penicillin G。(B) 類風濕性關節炎、SLE 或其他病毒感染皆會造成 VDRL 偽陽性,故須配合 TPHA(+) 和臨床症狀才可診斷為梅毒。(C) 梅毒螺旋桿菌為螺旋體,一般 Gram stain 無法染上,需以暗視野顯微鏡檢(dark-field microscopy)或直接螢光抗體染色(Direct fluorescent antibody staining)觀察。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) 3. 一個新生兒出生後第 5 分鐘時呈現心跳每分鐘 75 次、呼吸緩慢不規則、全身發紺(Cyanosis)、上肢體有些微彎曲但下肢體軟趴、對抽痰刺激僅有皺眉反應。根據你的評估 Apgar score 是幾分? Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

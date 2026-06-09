@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch09]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book2-ch18]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Pediatric hematuria (兒童血尿)'
   - 'Pediatric hematuria'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-兒童血尿需區分腎絲球性、非腎絲球性、感染、結石與遺傳性腎病。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童血尿需區分腎絲球性、非腎絲球性、感染、結石與遺傳性腎病。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book2-ch11]]
 - [[sources/med5-book2-ch18]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...4 歲。雙側腫瘤佔 13%,同時發生 (synchronous) 佔 60%,異時發生 (metachronous) 佔 40%。 - (4) 臨床表現:於洗澡或例行檢查發現可觸摸之腹部腫塊(60%),通常無合併其他症狀。高血壓(25%)、血尿(15%)。 - (5) 關聯疾病:以下患者需持續追蹤,可能發生成人型 WT。 - a. Denys-Drash syndrome (WT, intersex disorder, and progressive nephropathy) • - b. WAGR syndrome (WT, aniridia, genitourinary anomalies, mental retardation) • - c. Beckwith-Wied Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (D) 3. 腹內實質臟器發生鈍性挫傷時,非手術療法(nonoperative management)已成為常態性之治療方式。當摩托車騎士受傷後,經確醫五-7認診斷為單獨性肝臟裂傷(isolated liver laceration),經採用非手術療法後,下列何種合併症比較不會出現? - (A) 延遲性腹內出血 (delayed hemorrhage) - (B) 肝膿瘍 (liver abscess) - (C) 黃疸 (jaundice) - (D) 血尿 (hematuria) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 7. 一位 40 歲男性病人至門診就醫,主訴一週以來有持續性下腹痛及尿液混濁並夾雜氣泡,且有輕微之排尿困難,但無血便之症狀。理學檢查只見下腹及左下腹壓痛,但並無反彈性壓痛。有輕微發燒(38℃),白血球14,000/mm³,尿液中有雜質及多量WBC但只有少量RBC。經詢問病人,在過去5年內即經常有左下腹痛及便秘之現象,但並無解血便或血尿的情況,則病人最可能的診斷是: Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - 【詳解】本題線索很多:病人無 gross hematuria,尿液鏡檢也無血尿,可初步排除(A)膀胱腫瘤;(B)膀胱結石應該比較高機會有血尿,且較少造成大便習慣改變。(C)左下腹痛、大便習慣改變(便秘)和發燒,比較像是憩室炎的表現,加上尿液混濁夾雜氣泡,更可懷疑是憩室炎造成的 enterovesical fistula。(D)大腸直腸癌大多有血便,且尿液不會混濁夾雜氣泡。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].

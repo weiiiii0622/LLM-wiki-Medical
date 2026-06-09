@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Neonatal respiratory distress syndrome, RDS (新生兒呼吸窘迫症候群)'
   - 'Neonatal respiratory distress syndrome, RDS'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-早產兒 surfactant deficiency 造成肺泡塌陷、低氧與 hyaline membrane disease。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+早產兒 surfactant deficiency 造成肺泡塌陷、低氧與 hyaline membrane disease。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med4-book3-ch07]]
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- S. 急性呼吸窘迫症候群(Acute respiratory distress syndrome, ARDS) *62* Source: [[sources/med5-book4-ch03|丙、肺]].
+- ### S. 急性呼吸窘迫症候群 (Acute respiratory distress syndrome, ARDS) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (B) 19. 在急性心肌梗塞後,會發生各種併發症,下列何種併發症發生後 102( ) 專 必須考慮儘速手術治療,以免病人病情惡化而死亡? 醫五-25 - (A) 呼吸窘迫症候群(acute respiratory distress syndrome) - (B) 壞死性心室中隔缺損 - (C) 低心輸出量合併寡尿(oliguria) - (D) 細菌性心內膜炎 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 3. 生產因子:生產時的後遺症可能和自閉症的引起有關,如:Maternal bleeding、respiratory distress syndrome 與 neonatal anemia。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
@@ -48,6 +52,7 @@ tags:
 ## Related Pages
 
 - [[diagnostics/apgar-score|Apgar score (Apgar 評分)]]
+- [[conditions/congenital-pulmonary-airway-malformation|Congenital pulmonary airway malformation, CPAM (先天性肺呼吸道畸形)]]
 - [[physiology/oxygenation-and-ventilation|Oxygenation and ventilation (氧合與通氣)]]
 - [[procedures/surfactant-therapy|Surfactant therapy (肺表面張力素治療)]]
 

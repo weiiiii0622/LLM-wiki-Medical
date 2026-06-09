@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch19]]"
   - "[[sources/med3-book1-ch22]]"
@@ -48,6 +48,9 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch15]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch09]]"
 aliases:
   - 'Tuberculosis (結核病)'
   - 'Tuberculosis'
@@ -62,7 +65,7 @@ tags:
 
 ## Summary
 
-分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -110,9 +113,19 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch15]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch09]]
 
 ## Key Details From Sources
 
+- ...igs' syndrome | parapneumonic | Gastrointestinal | embolism with | | | ● Empyema | Disease Related | infarction | | | ● Tuberculosis | Esophageal | Asbestosis related | | | ● Fungal | perforation | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreatic | | | | | pseudocyst | | | | | ■Meigs' syndrome | Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 2. 致病菌:過去常為鏈球菌(Streptococcus)或肺炎球菌(Pneumococcus)肺炎引起,現在葛蘭氏陰性菌(Gram-negative)和厭氧菌(anaerobic)也很常見,近期結核菌膿胸也突然增加。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (D) 假性乳糜胸通常由於類風濕肋膜炎或結核所致 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- K. 肺結核 (Mycobacterial infection) 50 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (1) 良性結節特徵:結節小於 3 公分、結節內鈣化、長時間下呈現穩定不變。 - a. 常見良性鈣化特徵: 散在型 (diffuse)、實心硬塊型 (solid)、中央型 (central)、層板狀 (laminated) 或爆米花狀 (popcorn)。 - b. 肉芽腫性感染(Granulomatous infections):以散在型、實心硬塊型及中央型 為最常見表現,如:結核感染。約佔良性單一結節原因 70~80%。 - c. 過誤瘤、缺陷瘤(hamartomas): 以爆米花特徵最常見。約佔良性單一結節 10%。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 2. 單一肺結節 (solitary pulmonary nodule) 病人,可以不考慮進行 104(-) 專 切除手術的情況,下列何者錯誤? - (A) 此結節經門診追蹤胸部 X 光檢查 2 年,其結節沒有變大 - (B) 肺結節有良性腫瘤典型的鈣化特徵 - (C) 肺結核引起的結節 - (D)病人有愛滋病 Source: [[sources/med5-book4-ch03|丙、肺]].
+- b. 慢性感染所致淋巴結腫:臨床症狀較不明顯。如:結核菌感染。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - ...lcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (D) 結核瘤 (tuberculoma) Source: [[sources/med5-book1-ch15|己、腦內出血]].
@@ -124,13 +137,6 @@ tags:
 - (D) 抗結核病藥物 INH(isoniazid) 之相關神經病變,是缺乏維生素 B2 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...(EEG)(D) 核磁共振 (MRI) | | | (C) 17. | 一位 28 歲女性,近三年來經常發生手腳麻而無力、臉歪、視力模糊,時好時壞,根據這二張 MRI 的 FLAIR 影像,最可能的診斷是: | | | | (A) CNS tuberculosis(B) CNS cryptococcal infection(C) multiple sclerosis | | | (D) 18. | (D) metastases 頸椎退化性關節炎而導致脊髓病變,下列何者錯誤? (A) 會產生雙下肢緊而無力 (B) 造成解尿困難 (C) 會產生胸部以下麻木現象 (D) 造成吞嚥困難 | 98(二)專醫四-47 | | (D) 19. | 多發性硬化症患者的腦脊髓液常可見到下列何種情形? (A) 葡萄 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...llidum hemagglutination assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) tuberculosis verrucosa cutis Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- ...經腫大。3.皮膚抹片及組織病理發現癩桿菌或組織病理有符合漢生病的肉芽腫反應。肉芽腫的型式主要有兩種,一種是結節性肉芽腫(tuberculoid granuloma),主要出現在結節性漢生病(tuberculoid leprosy),與皮膚的結核(tuberculosis)感染相似。另一種以空泡狀組織球(foamyhistiocyte)為主,主要出現於癩病型漢生病(lepromatous leprosy)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) 結核病 (tuberculosis) Source: [[sources/med4-book2-ch11|子、其 他]].
-- 3. 多為感染所引起,例如細菌感染(結核菌、鏈球菌)、病毒(CMV、EBV、HBV/HCV)、黴菌或寄生蟲感染,自體免疫疾病(SLE、Behcet disease)或藥物(磺胺類)也有可能引起。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- B. 病因:在從前以 *Haemophilus influenza* type b (Hib) 最常見,隨著疫苗的普及 Hib 感染比率下降許多。現在較常見的病原體為 group A streptococci、pneumococci、EBV。另外,文獻紀載有少數的病人由 *Corynebacterium diphtheria* 或 *Mycobacterium tuberculosis* 感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (2) TB:痰液收集做 Acid-fast stain、培養或是 PPD test (tuberculosis skin test)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

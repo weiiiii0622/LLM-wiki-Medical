@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch18]]"
@@ -33,6 +33,8 @@ sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -47,7 +49,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +82,13 @@ tags:
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- 2. 臨床症狀:隨時間症狀越來越明顯。 - (1) 呼吸窘迫 (respiratory distress)。 - (2) 意識改變 (altered mental status)。 - (3) 皮膚瘀青 (skin petechiae)。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (2) 高碳酸血症(Hypercapnia):不適當的通氣(inadequate ventilation),如肺塌陷、或腦傷造成意識改變或外來毒物(drugs、alcohol)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - b. Reynolds's pentad: Charcot's triad 再加上休克與意識改變,發生比率小於 10%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - 2. 成人: - (1) IICP sign:頭痛、嘔吐、視乳突水腫。 - (2) 意識改變。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 【詳解】(D) 尿失禁、步態不穩和失智症為正常壓力水腦症的症狀,因頭部外傷造成的急性水腦症的症狀以 IICP sign 或意識改變為主。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
@@ -99,8 +105,6 @@ tags:
 - 【詳解】(A) Rasmussen encephalitis 好發於小孩,它是一種發炎性腦炎,多半發生於單側大腦半球(左或右皆可),常見症狀為 hemiparesis,視野缺損,嚴重 seizure(focal motor seizure or epilepsia partialis continus),dementia 等。它是一種慢性腦炎,最後導致受侵犯的大腦半球萎縮。受侵犯的腦組織可見 T lymphocyte 浸潤。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...dache) | 緊縮型頭痛(最常見、但少考)偏頭痛(常見、也愛考)叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血管炎 (Temporal arteritis) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...rocephalus, subdural hematoma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossi Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- 4. 抽動並不是因為物質使用(如精神刺激劑)或一般性醫學狀況(如病毒性腦炎)所 造成的。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- ...)。 - (c) 皮疹會連續分批出現,故同一時間可於身上看見各階段的皮疹變化,同時看見 papules、vesicles、pustules 和 crusts。 - (d) 成人症狀比較明顯且嚴重,甚至造成肺部發炎(pneumonitis)或腦炎(encephalitis)等併發症。(\*當肺部發生感染或是受到刺激而導致發炎稱為 Pneumonitis,而當肺部組織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. Fi Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

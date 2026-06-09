@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch06]]"
@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch22]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Hypokalemia (低血鉀)'
   - 'Hypokalemia'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,12 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch22]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...|------------------------------------------------------------------------------|-------| | 病人,其電解值的變化為何? | -45 | | (A) 低血鉀症鹼中毒 (B) 高血鈉症鹼中毒 | | | (C) 低血鉀症酸中毒 (D) 低血氯症酸中毒 | | | 【詳解】胃液 HCl、K 流失。 | | | (A) 5. 有關嬰兒型幽門肥厚狹窄 (infantile hypertrophic pyloric stenosis), 103(二下列敘述何項錯誤? | | | (A) 均於出生後兩週內發病 (B) 吐出物很少膽汁或無膽汁 | | | (C) 手術治療為切開幽門括約肌(pylorom Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...確? 103(二)專 ① 幽門切開術 (pyloromyotomy) 是手術的方式 醫五-50 ② 此病最可能造成的併發症為中腸扭結(midgut volvulus) ③ 如果有可能診斷此疾病時,則病人需接受較緊急的手術 ④ 容易造成代謝性低血鉀症鹼中毒 (A)(1)(4)(B) 僅②③ (C) 234 (D)(1)(3)(D) 4. 一位 10 天大的男嬰送至醫院,媽媽主訴男嬰自 2 天前不斷叶膽 103(一)專 汁及哭鬧不安,鋇劑上消化攝影(upper GI study)如下圖,最有 醫五-9 可能的診斷是: (A) 十二指腸蹼 (duodenal web) (B) 環狀胰臟 (annual pancreas) (C) 上腸繋膜動脈症候群(superior mesenter Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 2. 病因: - (1) Primary: 腎上腺本身分泌很多 Aldosterone → Volume 充足→低 Renin。 - a. 腎上腺之腺瘤 (adenoma): Conn's syndrome,多為單側,30%。 - b. 腎上腺增生(hyperplasia):多為雙側,少有低血鉀。60%。 - c. 腎上腺癌 (carcinoma): 高血壓。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - (2) 低血鉀、低氫離子=>代謝性鹼中毒。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - (D) 如果原發性高醛固酮症的患者手術前有合併低血鉀症,腎上腺切除手術後血鉀會很快恢復正常 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -69,8 +73,6 @@ tags:
 - (A) 4. 下列何者不是 17- 羥酶缺乏(17-hydroxylase deficiency)所導致先 104(-)專 天性腎上腺增生(congenital adrenal hyperplasia)的臨床表徵? 醫四-21 - (A) 罹患此症之女童會有性別難辨 (ambiguous genitalia) - (B) 高血壓 - (C) 血漿腎素活性(plasma renin activity) 低 - (D) 低血鉀 (hypokalemia) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (4) 倘若 the HCO3/Cl anion exchanger 也跟著出問題,則會有高血氯與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 臨床表現:與第二型腎小管酸中毒相同有生長遲滯、正常陰離子間隙代謝性酸中毒。 此外,病人也會表現嘔吐、脫水、骨頭疾病、腎臟鈣化合併高尿鈣與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【詳解】病人血液 pH 值為 7.56,故 (A)(D) 先可以刪除。病人 血液低血鉀但血氯正常,因此 Bartter syndrome 不選(Bartter syndrome 病人血液出現低血鉀、低血氯、高血鈣、正常鎂離子 濃度、以及代謝性鹼中毒,尿液檢查出現高尿鈣與尿肌酸酐比 值)。故選(B)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【 詳解 】(A) primary polydipsia 血鈉通常偏低;(D) Urine Osm + 出細胞、K+ 入細胞,造成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

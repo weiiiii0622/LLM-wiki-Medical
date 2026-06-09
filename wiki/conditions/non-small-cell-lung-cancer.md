@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book1-ch16]]"
@@ -25,6 +25,10 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch06]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Non-small-cell lung cancer (非小細胞肺癌)'
   - 'Non-small-cell lung cancer'
@@ -39,7 +43,7 @@ tags:
 
 ## Summary
 
-肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +68,22 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book3-ch23]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch06]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- (2) 腺癌 (adenocarcinoma, ACA): - a. 佔 45% 肺腫瘤,約 75% 在周邊發生,由支氣管上皮的 mucus-producing cell 分化而來,而且較 SqCC 易轉移,且最常轉移到中樞神經系統,而原發性腺癌,如果無肺外轉移,則建議手術切除合併縱隔腔淋巴結摘除。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (3) 鱗狀細胞癌 (squamous cell carcinoma, SqCC): - a. 佔 30% 肺腫瘤,約 2/3 在中央發生,且易從外壓迫氣管,SqCC 易產生腫瘤中央壞死(central necrosis)和開洞(cavitation),組織學上呈現角質化(keratinization)、複層化(stratification)、細胞間橋(intercellular bridge Source: [[sources/med5-book4-ch03|丙、肺]].
+- (A) 肺鱗狀細胞癌 (squamous cell carcinoma) 在臺灣最常見 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (B) 長時間最易引起 esophageal adenocarcinoma Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 1. 惡性腫瘤中,以鱗狀上皮細胞癌(squamous cell carcinoma)最常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(achalasia)、 暴食(b Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ### Adenocarcinoma G category Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (B) 1. 最常見的原發氣管內惡性腫瘤為: 107 (一) 專 醫五-27 (A) adenocarcinoma (B) squamous cell carcinoma (C) small cell carcinoma (D) carcinoid tumor (C) 2. 氣管分岔處(carina)在胸部 X 光所在的高度約相應於脊椎那一 106 (二) 專 醫五-18 個部位? (A) C6 (B) T1-2(C) T4-5(D) L2-3(D) 3. 有關 adenoid cystic carcinoma of lung 之敘述,下列何者正確 Source: [[sources/med5-book4-ch06|己、氣管]].
+- | (A) | 6. 氣管最常見的惡性腫瘤為: | 100(一)專 | |-----|--------------------------------------------|---------| | | (A) squamous cell carcinoma | 醫五 -35 | | | (B) adenoid cystic carcinoma | | | | (C) carcinoid | | | | (D) adenoma | | | (C) | 7. 氣管為一管狀器官,下列關於其敘述何者為錯? | 99(一)專 | | | (A) 氣管為可移動的器官,在進行手術時常須將頸部伸展 | 醫五 -14 | | | (hyperextension) | | | | (B) Source: [[sources/med5-book4-ch06|己、氣管]].
+- ...| Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Postirradiation | | ● Pulmonary | adenocarcinoma | ● Churg-Strauss | ● Trauma | | embolism | Infectious | syndrome | Dressler's syndrome | | ● Lobar collapse | ● Bacterial/ | Abdominal/ | Pulmonary | | • Meigs' syndrome | parapneumonic | Gastrointestinal | embolism wi Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 病理類型: - (1) 胃腺癌 (adenocarcinoma): 90%。 - (2) 類癌 (carcinoid):5%。 - (3) 惡性淋巴瘤 (lymphoma): 3%。 - (4) 惡性胃腸基質瘤 (gastrointestinal stromal tumors, GISTs): 1%。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (C) 18. 下列何者不是世界衛生組織(WHO)對胃腺癌(adenocarcinoma) 的分類型態? Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 【詳解】WHO 對胃腺癌依排列型態分成四個種類:管狀型(Tubular adenocarcinoma)、乳突形、(papillary adenocarcinoma)、黏液型(Mucinous adenocarcinoma)與指環細胞型(Signet-ring cell carcinoma)。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -76,15 +93,6 @@ tags:
 - 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 1. 細針抽吸 (fine needle aspiration cytology, FNAC): - (1) 最常用以鑑別水囊狀腫塊與實質腫塊。 - (2) 為細胞學檢查(cytology),不可作為病理診斷。但 cytology的結果若為 adenocarcinoma,有大於 90%的機會最後可確診為惡性腫瘤。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - (1) 肛門位處於內外胚層的交界之處,所以腫瘤種類複雜,最多的是鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma),其它的還有腺癌(adenocarcinoma)、泄殖腔細胞癌(cloacogenic cell carcinoma)、黑色素細胞癌(melanoma)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (5) 鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma):為 SCC,非 adenocarcinoma。早期治療是以腹部會陰切除術(abdomino-perineal resection, APR)為首選,將直腸肛門做根治性的切除及製作永久人工造口術,對於 early stage 的效果好。現在以結合放射線治療和化學治療為主流,可提供相當程度的治療率,並且保持肛門的功能。但假使病患有需要做人工造口或有大便失禁的情形、對於電療化療 contraindicated、或是電化療失敗者,仍應考慮 APR。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- ...一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | | situ),不是腺癌。 | _ | | (C) 17. 有關直腸癌的經肛門局部切除治療,下列敘述何者錯誤? | 102(二)專 | | (A) 須小於 4 公分的 T1 和 T2 癌瘤才可使用 | 醫五-54 | | (B) 癌瘤須在離肛門口 6 公分以內的範圍才能採用此療法 | | | (C) T1 和 T2 的癌瘤皆不需再接受進一步的治療 | | | (D) 癌瘤必須是分化良好或中度分化者 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (C) 腺癌(adenocarcinoma ) (D) 組織間質癌(stromal tumor ) Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- (B) 鱗狀細胞癌(squamous cell carcinoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- ...(A) 黃麴毒素(Aflatoxins)-肝癌(Hepatocellular carcinoma) | 醫五 -10 | | (B) 幽門 螺 旋 桿 菌(Helicobacter pylori)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人體重 70 公斤,工作時不慎發生火災,身體 | 102(一)專 | | 表 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) 152 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- # K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (A) 鱗狀細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 1. 自體顯性遺傳疾病,臨床表現有: - (1) 腸胃道內會長許多過誤性息肉(hamartomatous polyps),約於孩童至三十歲前 出現,患者會有腹痛、腸胃道出血、反覆腸套疊或貧血等症狀。息肉好發於小 腸,特別是空腸,息肉有機會惡性化為 adenocarcinoma,不過機率不高。 - (2) 表皮黏膜出現黑色素沉澱,常可見病患嘴唇周圍、口腔黏膜、手指或手掌有黑色沉澱斑點,黑色斑點出生時即出現,或是在孩童時期出現,並會隨著時間褪掉,但口腔黏膜的色素沉澱會持續存在。(下圖) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
 
 ## Clinical Caveats
 

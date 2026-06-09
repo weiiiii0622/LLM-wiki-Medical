@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book3-ch02]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch14]]"
   - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Parenteral nutrition, PN/TPN (靜脈營養)'
   - 'Parenteral nutrition, PN/TPN'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-經靜脈給予營養，適用於腸道不可用或需求無法由腸道滿足時，需監測感染、代謝與肝膽併發症。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+經靜脈給予營養，適用於腸道不可用或需求無法由腸道滿足時，需監測感染、代謝與肝膽併發症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch14]]
 - [[sources/med5-book3-ch17]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- (1) 治療計劃須依照發生原因、引流量、病患臨床狀況而定。一般來說,大多數病 人都會經歷過短暫胸管引流、禁口進食、全靜脈營養 (total parenteral nutrition, TPN) 及觀察。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (2) 保守治療:中鏈三酸甘油脂飲食或全靜脈營養。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 3. 保守治療: - (1) 體液、電解質之矯正。 - (2) 置放鼻胃管引流。 - (3) 禁食,使用周邊靜脈營養補充。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (B) 給予靜脈營養,並補充口服維生素 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (A) 長期禁食或使用全靜脈營養治療之病患與膽囊結石之形成有 相關性 醫五-30 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].

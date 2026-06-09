@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch02]]"
@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch13]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Inflammatory bowel disease, IBD (發炎性腸道疾病)'
   - 'Inflammatory bowel disease, IBD'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與病理。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與病理。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與
 - [[sources/med4-book1-ch07]]
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch13]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...urofibromatosis, and tuberous fibrosis。 - (5) 代謝性或未知因素 (Metabolic and unknown): 肝病 (Liver disease)、尿毒症 (uremia)、發炎性腸疾病 (inflammatory bowel disease)。 - (6) 物理性因子 (Physical agents): 放射線 (Radiation)、氧毒性 (O2 toxicity)、燒 燙傷 (thermal injury)、爆炸傷 (blast injury)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - #### 己、發炎性腸炎 (Inflammatory bowel disease, IBD) Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 發炎性腸炎泛指 Ulcerative Colitis(UC,潰瘍性結腸炎)和 Crohn's Disease(克隆氏症),他們在生理病理學或臨床症狀方面有些許異同之處,但約有 10~15% 的 IBD 病人無法明確定義為 Ulcerative Colitis 或 Crohn's Disease,而稱為 Indeterminate colitis。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - (A) 2. 下列關於發炎性腸疾(inflammatory bowel disease)的敘述,何者 錯誤? Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
@@ -66,7 +69,6 @@ IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與
 - ## A. 發炎性腸疾病 (Inflammatory bowel disease) Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - (B) 1. 關於發炎性腸道疾病(inflammatory bowel disease, IBD)的敘述,下列何者正確? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - ③出生第一年有使用抗生素的嬰兒,未來發生發炎性腸道疾病的風 險比較高 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- ...id with serotonin secretion) - c. laxative abuse (瀉劑濫用造成腸黏膜破壞) - (3) NPO 不會好、Fecal WBC/RBC (+): 發炎 (Inflammatiory) - a. IBD → Colonoscopy Source: [[sources/med3-book2-ch02|丙、腹 瀉]].
 
 ## Clinical Caveats
 

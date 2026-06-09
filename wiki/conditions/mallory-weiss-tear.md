@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch23]]"
@@ -13,6 +13,9 @@ sources:
   - "[[sources/med5-book1-ch07]]"
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Mallory-Weiss tear (Mallory-Weiss 裂傷)'
   - 'Mallory-Weiss tear'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-劇烈嘔吐後食道胃交界黏膜裂傷可造成上消化道出血。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+劇烈嘔吐後食道胃交界黏膜裂傷可造成上消化道出血。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,17 @@ tags:
 - [[sources/med5-book1-ch07]]
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book3-ch02]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- K. 馬魏氏症候群 (Mallory-Weiss syndrome) 102 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ### K. 馬魏氏症候群 (Mallory-Weiss syndrome) Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 1. 機轉 & 成因:持續性乾嘔造成黏膜及黏膜下層撕裂傷,發生於近胃食道連合處。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- f. 胸管治療併發症(complication):很少發生,包括肋間血管撕裂傷、肺撕裂傷、肺内置放、胸腔外置放或感染。極少發生,肺再擴張水腫(re-expansion pulmonary edema),續發於突然增加的肺微血管通透性,機轉未明,好發於快速肺再擴張。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 2. 機轉 & 成因: - (1) 在聲門關閉的情況下,氣道受到直接壓迫。 - (2) 快速減速運動,導致氣管撕裂或右主支氣管從氣管的分叉處剝離。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (A) 6. 下列有關 Mallory-Weiss tears 之敘述,何者錯誤? Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 【詳解】罹患馬魏氏症候群(Mallory-Weiss syndrome)的病患 在出血前,會出現持續性的嘔吐,導致腹內壓上升,導致胃和 食道交接處的粘膜產生撕裂傷,造成上消化道出血。80%的病 人會自動的止血,可經由上消化道內視鏡進行診斷或採取止血 治療。少部分較嚴重的患者須接受血管栓塞或手術處置。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 主動脈血管壁有內膜(tunica intima)、中膜(tunica media)和外膜(tunica adventitia)三層,當內膜因主動脈高壓血流衝擊而破裂時,會導致血液流入血管壁,進一步將內膜和中膜撕裂開來,形成假腔(false lumen)。自內膜破口灌注入假腔的血流使其逐漸膨脹甚至會壓迫到真腔(true lumen),降低通過的血流量(flow volume)進而影響到全身各器官血液供應,造成器官灌流不足(organ malperfusion),又由於假腔的血管外壁脆弱,容易破裂引起大出血、出血性休克甚至死亡。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
@@ -56,10 +67,6 @@ tags:
 - ...的目的,所以 IVform 反而沒有效, | 104(一)專醫五-1 | | | 因為 Clostridium difficile 是在腸胃道管腔內。 | | | (D) 14. | . 一位 58 歲女性糖尿病病人,因跌落水溝造成右小腿撕裂傷,傷口曾浸於水溝水中,下列敘述何者是此傷口最適當的治療方法? (A) 以生理食鹽水沖洗後縫合傷口 (B) 清創(débridement)後縫合傷口 (C) 清創後縫合傷口,再給予局部抗生素治療 (D) 對傷口重複清創,給予局部或全身性抗生素治療,待控制住感染後再行縫合傷口或植皮 | 104(一)專醫五-6 | | (#) 15. | · 淺層手術部位感染 (superficial surgical site infections) 是 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (4) 陰莖、會陰及直腸檢查: - a. 尿道口有血存在強烈暗示有尿道撕裂傷的可能;檢查陰囊及會陰是否有瘀血或是血腫,代表也有尿道撕裂傷的可能。 - b. 鈍傷的病人直腸檢查的目地是分析擴約肌的張力、攝護腺的位置(高升的攝 護腺表示尿道斷裂)及決定骨盆骨折是否存在。 - c. 穿刺傷的病人直腸檢查是分析擴約肌的張力及證實是否因穿孔而造成明顯的 出血或大便潛血反應。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - | 忽視 | 1. 營養不良 | |------|-------------------------------| | | 2. 發育遲緩 | | | 3. 生病不予醫治 | | 性虐待 | 1. 陰部、大腿或肛門有瘀青 | | | 2. 反覆尿道感染 | | | 3. 感染性病 | | 身體虐待 | 1. 燒燙傷的受傷機轉 | | | 2. 不同時期的多處骨折;螺旋狀骨折;家屬無法描述受傷過程 | | | 3. 不同部位的瘀青和撕裂傷 | | | 4. 家長逃避或拒絕回答問題 | | 行為異常 | 1. 焦慮或憂鬱症 | | | 2. 失眠 | | | 3. 過度玩弄性器官 | | | 4. 人際互動差 | | | 5. 有攻擊性行為 | Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- (C) Mallory-Weiss tear Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- (C) 4. 承上題,病患理學檢查無蜘蛛斑 (spider angioma)、肝掌斑 (palmar erythema)、肝脾腫大 (hepato-splenomegaly) 及腹水現象,腹部超 醫三-73 音波於肝膽胰脾無異常發現,此病人最可能之診斷為: - (A) 食道靜脈曲張出血 - (B) 胃癌出血 - (C) Mallory-Weiss 症候群 - (D) 十二指腸潰瘍出血 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- 【詳解】Mallory-Weiss 症候群為劇烈嘔吐後造成裂傷,患者吐血前應先有嘔吐症狀,此為自癒性,嚴重出血不止才需要進一步止血。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- (D) Mallory-Weiss tears Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 
 ## Clinical Caveats
 

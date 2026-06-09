@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book1-ch12]]"
@@ -11,6 +11,11 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Bronchoscopy (支氣管鏡)'
   - 'Bronchoscopy'
@@ -25,7 +30,7 @@ tags:
 
 ## Summary
 
-用於呼吸道檢查、採檢或部分治療。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於呼吸道檢查、採檢或部分治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +41,23 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- (3) 支氣管鏡 (Fiberoptic bronchoscopy) Source: [[sources/med5-book4-ch03|丙、肺]].
+- 4. 檢查 & 診斷: - (1) 早期:胸部 X 光和胸部電腦斷層,可發現有完整邊界的肺實質化。 - (2) 晚期:胸部 X 光可發現氣水分界 (air-fluid level)。 - (3) 支氣管鏡:當懷疑有異物或腫瘤阻塞導致局部肺炎而肺膿瘍時,可加做支氣管 鏡來確診。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 5. 內科治療 - (1) 以抗生素和肺部照護以使肺部再擴張(拍痰或引流)為主。 - (2) 支氣管鏡:可幫助膿瘍引流。 - (3) 約 85~90% 對治療有反應: 積液快速減少、塌陷的肺葉約需 3~4 個月才能完全 恢復擴張。 - (4) 內科治療反應較差的情況:症狀持續超過3個月、膿瘍大於4~6公分。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (2) 術前評估:部分建議做硬式支氣管鏡(確認有無第二條瘻管及置放導管定位瘻管)。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- h. 微創手術 (minimally invasive surgical modalities): 支氣管鏡 (bronchoscopy)、 縱隔腔鏡 (mediastinoscopy)、胸腔鏡 (thoracoscopy) 和腹腔鏡 (laparoscopy) 等,可用來排除氣管食道瘻管、評估淋巴結和氣管及縱隔腔等癌症轉移。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (1) 當有以上任一症狀且懷疑時,須在氣管內管插入前先做支氣管鏡檢查。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (A) 5. 26 歲男性,身高 178 公分,體重 63 公斤,過往健康情況良好。 100(二)專某天深夜打電腦時突然右側胸痛及呼吸困難。聽診發現左側呼 醫五-10 吸聲音比右側明顯許多。請問以下那一項處置較不恰當? - (A) 安排支氣管鏡檢查是否有右側支氣管異物 - (B) 安排胸部 X 光攝影 - (C) 給予氧氣治療 - (D) 準備放置胸管的器械及用品 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (2) 術前評估:部分建議做硬式支氣管鏡(確認有無第二條瘻管及置放導管定位瘻管)。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - 【詳解】食道攝影顯示在食道前有個壓跡(anterior indentation),支氣管鏡顯示氣管狹窄。由這兩點顯示在氣管與食道之間有東西穿越。依照題目線索以(C)最有可能。(A)在食道攝影的 lateral view 則是在食道「後方」有壓跡,在食道攝影 AP view 則是在食道兩側有壓痕。(B) 在食道攝影 AP view 顯示兩側食道有壓跡,在 lateral view 則看不到壓跡。(D) 在解剖位置上與 aortic arch 同側,故在食道攝影上看不出有壓痕。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...film: gas-filled abdomen | Surgery | | H-type TEF | Infants to adults | Recurrent pneumoniaBronchiectasis | EsophagogramBronchoscopy † | Surgery | | Esophageal stenosis | Infants to adults | DysphagiaFood impaction | EsophagogramEndoscopy † | DilationSurgery | Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) 6. 承上題,當病人狀況穩定後,下列那一項檢查最有助於找出造成 103(一)專 這種疾病急速惡化的關鍵病灶? 醫四-4 - (A) 支氣管鏡檢查 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
@@ -55,6 +74,9 @@ tags:
 ## Related Pages
 
 - [[conditions/lung-cancer|Lung cancer (肺癌)]]
+- [[conditions/mediastinal-mass|Mediastinal mass (縱隔腔腫塊)]]
+- [[conditions/tracheal-tumor|Tracheal tumor (氣管腫瘤)]]
+- [[conditions/tracheobronchial-injury|Tracheobronchial injury (氣管支氣管損傷)]]
 
 ## Follow-up
 

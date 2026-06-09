@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
@@ -22,6 +22,7 @@ sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Syphilis (梅毒)'
   - 'Syphilis'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ...--------------------| | 方 | 法 | 間接測病患有無 Anti-cardiolipin-lecithin-cholesterol antigen complex Ab | 直接測是否有此菌 | | 試 | 驗 | VDRL (Venereal disease researchlaboratory)RPR (Rapid plasma regain) | TPHA ( T . p allidummicro h em a gglutination assay)FTA-ABS ( F luorescent t reponemalantibody abs orption | | 用 | 途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (C) 3. 下列何者與神經性梅毒 (neurosyphilis) 較無關? Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - | (D) | 6. 對於神經性梅毒(neurosyphilis)的敘述,下列何者正確? (A) 若測得病患血中的 VDRL(Veneral Disease Research Laboratory) | 108(一)專醫四-60 | |-----|---------------------------------------------------------------------------------------------|--------------| | | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -78,7 +81,6 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - (2) chronic hepatitis B, and (3) congenital syphilis。因題目敘述, Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 先天的感染如 syphilis 或 HIV 可以造成此種情況 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】出生後三個月內若發生 nephrotic syndrome,則診斷為 先天性腎病症候群(congenital nephrotic syndrome)。其中最 常見的是 Finnish type congenital nephrotic syndrome(位在第 19 對染色體上的 NPHS1 gene 發生突變,影響 nephrin 製造), 類固醇或是免疫抑制劑治療無效,病人約在 5 歲左右死亡。此 外,syphilis、toxoplasmosis、rubella、cytomegalovirus、HIV、 hepatitis B 感染都有可能造成先天性腎病症候群。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- h. Immunologic disorder 免疫學異常: - (a) Anti-dsDNA 陽性或 - (b) Anti-Smith (Anti-Sm) 陽性或 - (c) Anti-phospholipid Antibodies 陽性: - i. Anticardiolipin antibodies 陽性或 - ii. Lupus anticoagulant 陽性或 - iii. False positive serology test for syphilis • Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

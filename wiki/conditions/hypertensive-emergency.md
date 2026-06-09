@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch22]]"
@@ -25,6 +25,9 @@ sources:
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Hypertensive emergency (高血壓急症)'
   - 'Hypertensive emergency'
@@ -39,7 +42,7 @@ tags:
 
 ## Summary
 
-高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +67,16 @@ tags:
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- (A) 1. 滿月嬰兒若於餵食後呈現噴射狀嘔吐,須懷疑幽門肥厚性狹窄 108(-)專 (hypertrophic pyloric stenosis),下列有關檢查及治療之敘述,何 醫五-49 者最正確? - (A) 確定診斷可借助腹部觸診發現右上腹橄欖狀硬塊、腹部超音 波或上消化道攝影 - (B) 平躺腹部 X 光檢查可發現雙氣泡徵象 (double bubble sign) - (C) 嬰兒幽門肥厚性狹窄因屬腸胃道阻塞之一,通常屬於外科急症(surgical emergency) - (D) 手術治療目前以幽門成形手術(pyloroplasty)為主 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 1. 最常見的腸胃道急症。很少發生於出生後前幾天,約80%發生在出生後一個月內。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 1. 定義: 24 小時內預期出血超過 500~600 mL。為臨床急症伴隨著 30~50% 的死亡率。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 急性縱隔腔炎(mediastinitis),通常感染源來自口咽菌叢,常見原因為食道穿孔、胸骨手術術後感染、口咽或頸部感染、頭頸部手術術後感染、氣管支氣管穿孔、肺部感染或胸腔創傷,為手術急症,治療需矯正感染原因,並進行引流甚至清創,合併抗生素治療。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 【詳解】Diaphragm 下可見 free air,須考慮為 peptic ulcer perforation。此為急症,須緊急開刀處理。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 【詳解】Peritonitis 為急症,可能會有 malignant hypercapnia 和 toxic shock syndrome,要以 open 的方式介入。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
@@ -81,10 +91,6 @@ tags:
 - ...cluding chemotaxis, nitroblue tetrazolium test, CD11/CD18 expression 及 phagocytosis (D) HIV 1 + 2 Ab(A) 10. 化膿性關節炎是兒科病人的急症之一,需要快速診斷及治療。下 100(一)專 列那一種關節炎若未迅速診斷引流與抗生素治療,易引起缺血性 醫四-13 骨頭壞死(Avascular necrosis)? (A) Hip (B) Elbow (C) Knee (D) Ankle Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...疫缺陷。 - b. 臨床症狀:出生後數個月內就產生反覆的感染(肺炎,中耳炎,菌血症…)或伺機性感染(病毒,Candida,PCP…),生長發育不良,慢性腹瀉。抽血會淋巴球(尤其 T 細胞)低,免疫球蛋白低。若沒有骨髓移植則大多一歲前死亡,為急症! - c. 治療:骨髓移植。ADA(adenosine deaminase)-deficient SCID 可以注射 polyethylene glycol conjugated adenosine deaminase(PEG-ADA)治療。另外, ADA-deficient SCID 目前已有基因治療的成功案例。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - #### 戊、腫瘤急症 (Oncological Emergency) Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- ...ase),幾個月後就可能開始皮膚硬化(Fibrotic phase);皮膚硬化會超過手肘或膝蓋,包含軀幹; - b. Anti-topoisomerase (scl-70) 陽性病患較快發生間質性肺病 (ILD)、肺纖維化; 還可能併發腎臟急症 (Scleroderma renal crisis)。 - (2) Limited cutaneous SSc (lcSSc): - a. 病程進展較慢,雷諾氏症候群幾年後才會慢慢有其他表現,皮膚硬化僅限於手指硬化(Sclerodactyly)及遠端肢體(Distal to elbow and knee), 軀幹通常不受影響,預後較好,但病程晚期可能併發肺動脈高壓(PAH)。 - b. 其中有一亞型,稱作 CREST syndrome Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (1) 觀念: - a. 屬於內科急症, 什麼時候要懷疑? - $\rightarrow$ Rapid onset anemia (Hb $\downarrow$ > 1 g/wk); Dark urine (Hemoglobinuria) - b. 如何初步佐證:LDH ↑ - c. 進一步要檢查:Reticulocyte ↑、Indirect Bil ↑、Haptoglobin ↓ Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (C) 先評估是否有內出血等急症,然後再依據世界衛生組織 (WHO) 的三階段止痛法予以止痛 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

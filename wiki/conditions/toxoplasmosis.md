@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch21]]"
   - "[[sources/med3-book3-ch19]]"
@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Toxoplasmosis (弓漿蟲感染)'
   - 'Toxoplasmosis'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...s)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - (2) 職業因素: - a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , kerosene, acetylene $\circ$ - (3) 腫 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - ...-----------------------------------------------------------------------------------------------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmon Source: [[sources/med4-book1-ch11|子、新生兒科]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med3-book4-ch28]]"
@@ -22,6 +22,8 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Malignant spinal cord compression (惡性脊髓壓迫)'
   - 'Malignant spinal cord compression'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,13 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...ty tissue - (4) Stage III: Invades adjacent organs (great vessels, pericardium, or lung) - (5) Stage IVa: Intrathoracic metastasis (pleural or pericardial dissemination) - (6) Stage IVb: Extrathoracic metastasis (uncommon) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- ...a | | N category | | | NX | Regional lymph nodes cannot be assessed | | N0 | No regional lymph node metastases | | N1 | Metastasis in 1~2 regional lymph nodes | | N2 | Metastasis in 3~6 regional lymph nodes | | N3 | Metastasis in 7 regional lymph nodes | Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (C) Occult breast cancer 的定義為有 lymph node 的 metastasisc 或 distant 的 metastasis,但沒有臨床上或影像上乳房腫瘤的證據。 對於此種 occult breast cancer,MRI 算是相當有效的檢查。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (a) pN1mi: micrometastasis (大小介於 0.2 mm 到 2.0 mm 之間)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - M: Metastasis, p: pathological) Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -77,8 +83,6 @@ tags:
 - (C) Metastasis with peripheral brain tissue edema Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (C) 轉移 (metastasis) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - 【詳解】(C) metastasis 會有 ring enhancement and perifocal edema。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...----------------------------|-------------------------------------------------------------|--|--|--| | N1 | 1 | a: Micrometastasis | | | | | | | b: Macrometastasis | | | | | N2 | 2~3 | a: Micrometastasis | | | | | | | b: Macrometastasis | | | | | | | c: In-transit meta(s)/satellite(s) without metastatic nodes | | | | | N3 | Four or more nodes, or m Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- ...手術切除的主流。 - b. Indication: - (a) High risk of local recurrence • - (b) Need for tissue preservation • - (c) High risk of metastasis • Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

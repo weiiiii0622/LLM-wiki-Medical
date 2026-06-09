@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch01]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Pediatric abdominal pain (兒童腹痛)'
   - 'Pediatric abdominal pain'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-兒童腹痛鑑別包含感染、外科急症、功能性疾病與腸胃外原因。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童腹痛鑑別包含感染、外科急症、功能性疾病與腸胃外原因。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- (C) 2. 兒童總膽管囊腫(choledochal cyst)的症狀,下列何者最少見? 101(一)專 - (A) 腹痛 (abdominal pain ) (B) 黃疸 (jaundice) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (B) 21. 手術後 6 星期,蔡先生再到門診,並主訴於每次飯後二、三十分 98(ニ)専 鐘會有心悸 (palpitation)、頭昏 (dizziness)、流汗 (sweating) 醫五-29 、腹絞痛 (cramping abdominal pain) 及腹瀉 (diarrhea) 等現象。 下列那一項處置優先考慮? Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (D) 腹痛 (Abdominal pain) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (C) 腹痛(abdominal pain) (D) 意識譫妄(delirium) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].

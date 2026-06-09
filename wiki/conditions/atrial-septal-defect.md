@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Atrial septal defect, ASD (心房中膈缺損)'
   - 'Atrial septal defect, ASD'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-心房層級左到右分流，常見固定分裂 S2 與右心容量負荷。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心房層級左到右分流，常見固定分裂 S2 與右心容量負荷。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...the pleura, pericardium, azygos vein, diaphragm, or peritoneum | | T4b* | Tumor invades other adjacent structures, such asd aorta, vertebral body. or trachea | | N category | | | NX | Regional lymph nodes cannot be assessed | | N0 | No regional lymph node metastases | | N1 | Metastasis in 1~2 regional lymph nodes | | N2 | Metastasis in 3~6 r Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 4. 全肺靜脈回流異常(total anomalous pulmonary venous return, TAPVR): - (1) 四條肺靜脈正常應回到左心,但要是肺靜脈全接到上、下腔靜脈或右心房,則稱為全肺靜脈回流異常。通常合併 ASD,充氧血才有機會回到左側心臟。 - (2) X 光下可見 Snowman heart,是由於右心接受太多血流,所以變大,像雪人頭疊在心室上。(見下圖) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (3) 最常伴隨 ASD,另外約有 1/3 的病患有 WPW syndrome,是發生 supraventricular tachycardia 的高風險族群。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (1) 三尖瓣完全沒發育,右心房和右心室無法相通,右心房的血液只能藉由開放性 卵圓孔或 ASD 進入左心房。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

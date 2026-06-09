@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch02]]"
   - "[[sources/med3-book2-ch08]]"
@@ -62,6 +62,8 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Diarrhea (腹瀉)'
   - 'Diarrhea'
@@ -76,7 +78,7 @@ tags:
 
 ## Summary
 
-腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -138,9 +140,13 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- e. 質子幫浦抑制劑(proton pump inhibitors):藉由不可逆地結合在壁細胞上質子幫浦抑制胃酸產生,最大效果在治療後第4天,而藥效持續直到壁細胞凋亡,所以藥效在停藥後仍可持續4~5天,所以使用PPI患者需停藥一週後再做pH monitoring檢查。且比起 H2 blocker 更有效幫助食道潰瘍癒合。副作用為頭痛、腹痛、腹瀉。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...可視為腸胃道症狀加上心血管症狀。 - (a) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (C) 3. 病房有一因胃癌接受次全胃切除及 Billroth-II reconstruction 的病 109( ) 專人,開始進食後,抱怨進食 20~30 分鐘後會有噁心 (nausea)、 醫五-24 心悸 (palpitation)、冒汗及腹瀉等症狀,檢查生命跡象後發覺 有心搏過速 (tachycardia) 的情形,最有可能的診斷為何? - (A) 輸入環症候群 (afferent loop syndrome) - (B) 輸出環症候群 (efferent loop syndrome) - (C) 傾倒症候群 (dumping syndrome) - (D) 急躁性腸道症候群 (irritable bowel syndrome) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (B) 21. 手術後 6 星期,蔡先生再到門診,並主訴於每次飯後二、三十分 98(ニ)専 鐘會有心悸 (palpitation)、頭昏 (dizziness)、流汗 (sweating) 醫五-29 、腹絞痛 (cramping abdominal pain) 及腹瀉 (diarrhea) 等現象。 下列那一項處置優先考慮? Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -157,8 +163,6 @@ tags:
 - ...| 少見 | 較常見 | | | (lymphoid aggregates) | | | | | 黏膜鏡檢 | 瀰漫性充血、表淺不規則潰瘍 | 鵝卵石樣 (cobble stone)、線性潰瘍 | | | | 臨床症狀 | • | | | Diarrhea | 常見 | 常見 | | | Rectal bleeding | 常見 | 少見 | | | Abdominal pain 輕微 | | 嚴重 | | | Abdominal mass | 無 | 偶爾 | | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - ...Acute severe fulminant colitis: WBC > 16,000、發燒、腹痛和腹脹。起初內科療法採 bowel rest、antibiotics、steroids; 避免使用 contrast enema、antidiarrhea及 morphine。如果病人產生敗血症或是腹膜炎就需手術處理。 - (2) 手術方法:手術目標為將結腸直腸切除,並保留肛門括約肌的功能,維持正常的排泄功能,由於 UC 僅侷限於大腸直腸,所以切除後痊癒的可能性很高。 - a. Total proctocolectomy with ileal pouch-anal anastomosis (IPAA): 常用 - (a) 將結腸和直腸切除後(保留肛門括約肌),於迴腸端製造一個憩袋,再將 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - ...Eq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancreatitis)、poor intake。 - e. 外科病患常見低血鈉原因為體液過剩,前列腺肥大病患在做完經尿道前列腺切除術(Transurethral resection of the prostate)會有機會 TURP syndrome(因為術中會用大量沖洗液,病人體液增加造成的低血鈉),神經外科病人則是 SIADH 為低血鈉常見原因。 - (2) 高血鈉(hypernatremia Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- b. 腸胃道流失:腹瀉、嘔吐、鼻胃管引流。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 
 ## Clinical Caveats
 
@@ -167,6 +171,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/carcinoid-syndrome|Carcinoid syndrome (類癌症候群)]]
 - [[physiology/colorectal-physiology|Colorectal physiology (大腸直腸生理)]]
 - [[conditions/pediatric-dehydration|Pediatric dehydration (兒童脫水)]]
 - [[conditions/vipoma|VIPoma (血管活性腸胜肽瘤)]]

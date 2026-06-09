@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch04]]"
@@ -44,6 +44,9 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Mental status examination, MSE (精神狀態檢查)'
   - 'Mental status examination, MSE'
@@ -58,7 +61,7 @@ tags:
 
 ## Summary
 
-精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +105,17 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch08]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- 2. 臨床症狀:隨時間症狀越來越明顯。 - (1) 呼吸窘迫 (respiratory distress)。 - (2) 意識改變 (altered mental status)。 - (3) 皮膚瘀青 (skin petechiae)。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (B) 1. 股骨骨折可併發脂肪栓塞,下列那些是診斷脂肪栓塞的三大要件? 101(ニ)専 ①意識混亂 ②呼吸困難 ③胸痛 ④皮下點狀出血 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (2) 高碳酸血症(Hypercapnia):不適當的通氣(inadequate ventilation),如肺塌陷、或腦傷造成意識改變或外來毒物(drugs、alcohol)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (C) 10.54 歲女性失足從3公尺高度跌下,嚴重呼吸困難及右胸壁血腫。 被送到急診身體檢查,意識昏昏欲睡,血壓測不到,發紺、心 動過速與右側呼吸聲減少。你是值班醫生,你的及時處理為何? - (A) 胸部 X 光及電腦斷層掃描 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 1. 機轉 & 成因:Achalasia 意即無法放鬆,為食道括約肌在放鬆期仍維持緊張收縮。 原因尚未明,可能為感染性神經退化所致,嚴重情緒壓力、創傷、過度減重、查格 氏症(Chaga's disease)等都是懷疑的可能因子。食道肌和下食道括約肌都可能受 到影響,目前接受的假說是下食道括約肌受損和食道體肌肉神經退化所致,造成吞 嚥時,下食道括約肌高壓無法放鬆,而高壓擠壓食道造成擴張而中止蠕動前進。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - b. Reynolds's pentad: Charcot's triad 再加上休克與意識改變,發生比率小於 10%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (C) 腹痛(abdominal pain) (D) 意識譫妄(delirium) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - ...- b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -118,11 +129,6 @@ tags:
 - (D) 4. 一位 60 歲男性病人因急性心肌梗塞住院。一星期後,病人突然呼吸較喘,流冷汗;身體檢查顯示胸骨左側有新的心縮期雜音、血壓 65/50 毫米汞柱(mmHg)、肺動脈壓 60/40 毫米汞柱、中心靜脈壓 (CVP) 30 毫米汞柱,但意識清楚。下列敘述何者錯誤?①診斷為心室中隔破裂 ②不須裝置主動脈內氣球幫浦 ③ 須緊急手術,但若病人書面拒絕手術,則不可強行手術 ④若病人意識不清楚,也聯絡不到家屬,經初步治療略有改善,則不可立即手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - 【詳解】心室中膈破裂,左心高壓血灌往右心導致中心靜脈與肺動脈高壓,併分走原本往主動脈前進的動脈血導致心因性休克,手術前先做主動脈內氣球幫浦可穩定血循,降低 afterload並增加 Coronary artery perfusion。所以①正確,②錯誤。③緊急手術在病人意識清楚下仍須尊重其意願。④「經初步治療略有改善」這是陷阱,表示患者可能已脫離醫療法定義緊急手術的範圍,須尊重患者或其代理人意願並徵得同意執行手術。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (B) 9. 趙先生 59 歲,晚餐後突感前胸劇痛,並延伸到後背,經救護車送到醫院急診。趙先生除高血壓外並無其他病史。理學檢查發現意識清楚,血壓 180/50 mmHg,心跳 96 / 分,呼吸 18 / 分,頸靜脈平坦,胸骨左側有心縮期及心舒期雜音。胸部 X 光發現縱膈腔寬度約 8.5 公分。趙先生在胸部電腦斷層掃描檢查後又感胸痛,此時血壓下降至 110/50 mmHg,心跳 130 / 分,呼吸 25 / 分,頸靜脈怒張,下列何者是適當的處置? ①立即心臟超音波檢查 ②給予 propranolol 及 sodium nitroprusside 治療 ③緊急手術 ④送入加護病房觀察並接受藥物治療 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- (C) 注射鎮靜劑以鎮定病人的躁動情緒 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 2. 疼痛可持續數天到數週,好發年老女性,且勞累、情緒壓力或天冷等情況易發病。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- 【詳解】由於嬰兒頭頸部肌肉尚未完全發育,導致前後劇烈搖晃嬰兒時,腦組織會受到多方向的力道和加減速隨之搖晃,導致硬腦膜與蜘蛛膜間的橋靜脈受到拉扯、斷裂,因而引發 SDH或 SAH,或者腦部直接撞擊到顱骨造成腦組織創傷。眼球玻璃體也會因急促晃動導致視網膜出血。外觀上通常沒有什麼異常,症狀多為顱內出血導致的神經學方面異常,例如嗜睡、急躁不安、癲癇、意識模糊、嘔吐、食慾不振及呼吸異常等。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- (2) 第二級:失償性休克,身體代償失調,開始呈現血壓降低、四肢冰冷、尿量減少及意識不安躁動等情況。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (3) 第三級:不可逆性休克,長時間灌流不足導致細胞受損,病患經輸液及升壓劑 治療後仍血壓不穩、少尿或無尿、意識昏迷、DIC等,死亡率極高。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

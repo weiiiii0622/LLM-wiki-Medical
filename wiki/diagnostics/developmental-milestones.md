@@ -2,9 +2,10 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch05]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Developmental milestones (兒童發展里程碑)'
   - 'Developmental milestones'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-依年齡追蹤粗動作、細動作、語言、認知與社會互動發展。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依年齡追蹤粗動作、細動作、語言、認知與社會互動發展。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch05]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...上的 Wilms' tumor gene-1 (WT1),但具此基因之腫瘤病患卻不常見。因 Beckwith-Wiedemann syndrome 基因座落於附近,故 BWS 患者有 1/5 合併雙側 WT。 - (3) 流行病學:好發於 1~5 歲佔約 80%,最好發於 3~4 歲。雙側腫瘤佔 13%,同時發生 (synchronous) 佔 60%,異時發生 (metachronous) 佔 40%。 - (4) 臨床表現:於洗澡或例行檢查發現可觸摸之腹部腫塊(60%),通常無合併其他症狀。高血壓(25%)、血尿(15%)。 - (5) 關聯疾病:以下患者需持續追蹤,可能發生成人型 WT。 - a. Denys-Drash syndrome (WT, intersex diso Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - VIII. 神經發展 259 - IX. 其 他 265 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (4) 只有少部份以後可能會發展為癲癇,特別是複雜性熱痙攣或有神經發展異常者。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - # VIII. 神經發展 (Neural Development) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
@@ -38,7 +41,7 @@ tags:
 
 ## Related Pages
 
-- [[conditions/attention-deficit-hyperactivity-disorder|Attention-deficit/hyperactivity disorder, ADHD (注意力不足過動症)]]
+- [[conditions/congenital-muscular-torticollis|Congenital muscular torticollis (先天性肌性斜頸)]]
 
 ## Follow-up
 

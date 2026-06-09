@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book2-ch25]]"
@@ -10,6 +10,9 @@ sources:
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book4-ch14]]"
+  - "[[sources/med5-book4-ch01]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Surgical flap (皮瓣手術)'
   - 'Surgical flap'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-帶有血供的組織轉移用於重建缺損，可依血流、組織組成與移動方式分類。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+帶有血供的組織轉移用於重建缺損，可依血流、組織組成與移動方式分類。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,16 @@ tags:
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book4-ch14]]
+- [[sources/med5-book4-ch01]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- (3) 手術方式:利用附近組織設計皮瓣重建,大多數為一階段,近端常需要二階段手術。 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
+- (A) 是依據尿道開口位置來分型 醫五-45 (B) 手術矯正年齡最好是學齡前約6歲,以免兒童心理受到影響 (C) 嚴重的尿道下裂,多需要取周圍的皮瓣來做尿道重建 (D) 常合併有陰莖彎曲(chordee),尤其是尿道開口在近端的類型 (D) 3. 下列那些疾病好發在左側?①精索靜脈曲張(varicocele) ②腹 107(一)專 裂(gastroschisis) ③隱睪症(undescended testis) ④ Bochdalek 醫五-44 型先天性橫膈膜疝氣(Congential diaphragmatic hernia, Bochdalek type) (A) ①② ( Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
+- 4. 手術治療: - (1) 適應症:肋骨缺失者。 - (2) 術式:常用擴背肌皮瓣 (latissimus dorsi muscle flap) 合併自體肋骨移植重建胸壁。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
+- a. 重建管道選擇:以胃為主要的重建替代管道。如重建距離較短,可採用自由空腸皮瓣(free jejunal flap)或自由前臂移植(free forearm graft),通常血管吻合在內胸動靜脈或頸部血管。如重建距離較長,可採用空腸皮瓣或大腸,但常會在遠端彎曲造成阻塞症狀。除胃管上拉(gastric pull-up)不需腸對腸吻合,其餘皆需要,故增加手術風險。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - b. 改良式根除性乳房全切除術 (Modified radical mastectomy, MRM): 全乳房切除術 (total mastectomy) 加上 腋下淋巴結廓清術 (Axillary lymph node dissection, ALND)。 - (a) 適應症: 適用於任何沒有侵犯胸大肌或非第四期轉 移性乳癌之患者。 - (b) 術中保留胸大肌、長胸神經、胸背血管神經幹,並 儒可能保留肋間上臂神經。 - (c) 常見合併症: - i. 皮瓣壞死。 - ii. 上肢淋巴水腫。 - iii. 傷及肋間上臂神經,導致上臂感覺麻木。 - iv. 傷及長胸神經,導致前踞肌萎縮造成翼狀肩(Winged Scapula)。 - v. 傷口感染。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 3. 乳房重建手術 (Reconstruction): - (1) 重建時間點: - a. 術後立即重建:乳房切除術後立即重建。 - b. 延遲重建:接受化學治療及放射治療三個月過後,再考慮接受乳房重建。 - (2) 重建方式: - a. 自體組織移植: - (a) TRAM: 使用腹直肌皮瓣(transverse rectus abdominis myocutaneous flap) 進行重建。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (b) 闊背肌皮瓣 (Latissimus dorsi myocutaneous flap): Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -56,6 +66,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/chest-wall-tumor|Chest wall tumor (胸壁腫瘤)]]
 - [[conditions/pressure-injury|Pressure injury / pressure sore (壓傷／壓瘡)]]
 - [[procedures/skin-graft|Skin graft (皮膚移植)]]
 - [[conditions/syndactyly|Syndactyly (併指畸形)]]

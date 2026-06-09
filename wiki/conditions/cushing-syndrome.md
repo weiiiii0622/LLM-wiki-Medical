@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch14]]"
@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch19]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Cushing syndrome (庫欣氏症候群)'
   - 'Cushing syndrome'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch19]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...約 10~42%。 - (2) 其他常見合併症:紅血球再生不良(red blood cell aplasia)、白血球再生不良(pure white blood cell aplasia)、再生不良性貧血(aplastic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - B. Cushing syndrome 234 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - #### B. Cushing syndrome Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 2. 病因: - (1) 醫源性(iatrogenic): 最常見的原因,長期服用含類固醇的止痛藥所致,造成體內 glucocorticoid 過量。 - (2) Cushing disease: 佔非醫源性病患 65~70%。腦下垂體前葉腺瘤或是增生,過度分泌 ACTH,造成雙側腎上腺增生,分泌過量 cortisol。 - (3) 腎上腺腫瘤:佔非醫源性病患 10~20%。Adrenal adenoma 或 carcinoma,不受 ACTH 控制,分泌大量 cortisol。ACTH 反而因受到回饋抑制而濃度降低,腫瘤 周圍的正常腎上腺皮質也會萎縮。 - (4) 異位性(ectopic) ACTH:身體其他部位有會分泌 ACTH 的來源,例如小細胞 肺癌、類癌、胰臟癌、胸腺癌、甲狀腺髓質癌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -70,7 +73,6 @@ tags:
 - ...Hyperplasia, Carcinoma) | | | | | renin | 2. Adrenal enzyme defects (11b or 17a-Hydroxylase deficiency) | | | | | | 3. Cushing's syndrome or disease | | | | | | 4. Other(Licorice, Carbenoxolone, Chewer's tobacco) | | | | Gain-of-function mu | itation o | of renal sodium channel with ECFV expansion, hypertension, | | | | | | nemic-hypoaldosteron Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - B. 庫欣氏症候群 (Cushing's syndrome) 208 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 - ...----|----------------|--------------------|---------------------------------| | H-1915 | 中胚層 | G: 11 | Glucocorticoid | Cushing's syn. | Addison's dz.Adrenal crisis | | 及質 (meso | (mesoderm) | Steroid | Aldosterone | Conn's syn. | | | | | | Androgen | | | | 风左厅厅 | 神經外胚層 | Tyrosine | Epinephrine, | Pheochromocytoma | | | 髓質 | (ectoderm, neural cr Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
-- #### B. 庫欣氏症候群 (Cushing's syndrome) Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 
 ## Clinical Caveats
 

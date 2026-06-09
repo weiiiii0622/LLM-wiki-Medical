@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch13]]"
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Small-cell lung cancer (小細胞肺癌)'
   - 'Small-cell lung cancer'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-侵襲性高、常早期轉移的肺癌類型。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+侵襲性高、常早期轉移的肺癌類型。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med3-book4-ch19]]
 - [[sources/med3-book4-ch21]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- (5) 小細胞肺癌 (small cell lung cancer, SCLC): - a. 佔 20% 肺腫瘤,約 80% 在中央發生,有高度轉移特性,早期轉移到縱隔腔淋巴和遠處(尤其骨髓和腦),由外胚層的神經嵴分化而來,細胞學上片狀或叢狀有深染核和少細胞質,狀似燕麥,故又稱 oat cell carcinoma,具有神經分泌小泡。通常分為限制期(restirctive)或廣布期(extensive)。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 小細胞肺癌 (small cell carcinoma) 治療以手術為主 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 列何者錯誤? 醫五-2 - (A) 肝癌 (hepatocellular carcinoma) —胎兒蛋白 (alpha-fetoprotein, AFP) - (B) 大腸癌— CEA (carcinoembryonic antigen) - (C) 小細胞肺癌— CA19-9 - (D) 前列腺癌— PSA (prostate specific antigen) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) 屬於一種 paraneoplastic syndrome,常見於小細胞肺癌;乃因鈣離子通道與癌細胞有相似處,使得抗體本來要對抗癌細胞,卻同時使神經末梢的鈣離子通道被破壞。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - ...-------------------| | 病因 | 自體抗體破壞「肌肉」上的乙醯膽鹼 (Ach) 接受器 | 自體抗體破壞「神經末梢」的鈣離子通道 | 毒素干擾「神經末梢」的乙醯膽鹼 (Ach) 釋出 | | 合併症 | 胸腺增生 | 小細胞肺癌 | | | 症狀 | 眼瞼下垂、複視→肢體無力、呼吸衰竭 | 四肢近端、軀幹無力 | 吐、視力模糊(副交感↓)→肢體無力、呼吸衰竭 | | 愈用愈 | 症狀在下午更嚴重 | 症狀在下午改善 | 症狀在下午改善 | | 肌電圖 | 遞減反應(Decremental) | 遞增反應(Incremental) | 遞增反應(Incremental) | | 治療 | 盡早切除胸腺、口服 Mestinon | 治療癌症 | | Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - ...oisomerase | Topo I* | Irinotecan (CPT11)→大腸癌 | 腹瀉(加 Atropine 預防) | | | U2 | inhibitors | Topo II* | Etoposide (VP-16) →小細胞肺癌 | | | | | | | Vincristine (Oncovin)→淋巴瘤 (CHQP) | Show that We have a thirty a | | | . . | A | ⊖ 聚合 | Vinblastine →何杰金式瘤 (ABMD) | 神經毒性、發泡劑(熱敷) | | | M | Antimitotic | | Vinorelbine(Navelbine) →肺癌 | 便秘 | | | | | ⊖解聚 | | 神 Source: [[sources/med3-book4-ch19|乙、化學治療]].

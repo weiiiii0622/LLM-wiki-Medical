@@ -2,10 +2,11 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch24]]"
   - "[[sources/med3-book1-ch22]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Lung-protective ventilation (肺保護性通氣)'
   - 'Lung-protective ventilation'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。 本頁以 `醫(三)第1冊心胸內` 的章節內容自動整合，供後續查詢與人工精修。
+ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch24]]
 - [[sources/med3-book1-ch22]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- TLC = total lung capacity 總肺容積 Vt = tidal volume 潮氣容積, 一般吸吐氣量 IC = inspiratory capacity 最大吸氣容積 FRC = functional residual capacity 功能性肺餘容積 ERV = respiratory revserve volume 吐氣保留容積, 一般吐氣保留之可吐氣容積 RV = residual volume 條肺容積, 無法利用來吸吐氣之容積 VC = vital capacity Source: [[sources/med5-book4-ch03|丙、肺]].
+- | Respiratory rate | 2 | > 70 mm Hg (FiO 2 of 40%) | | PaCO 2 | 2 O | | Rapid shallow breathing index, RSBI | ≤ 105 (70% will pass extubation)= respiratory rate/tidal volume [L] | Source: [[sources/med5-book4-ch03|丙、肺]].
+- (C) 潮氣量(tidal volume) 5~6 mL/kg Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 低潮氣容積和低氣道高原壓 (Low TV = 6~8 mL/kg, Low Pplat 2O) - (1) 傳統上認為高潮氣容積通氣 (High tidal volume ventilation) 可減少肺扁塌 (Atelectasis),所以將呼吸器的潮氣容積 (Tidal volume) 設到 10~15 ml/kg,相對於一般人靜止呼吸時的潮氣容積僅有 6~7 ml/kg。[換算時,體重須用 Predicted BW 帶入,指引建議可用衛生署公告之理想體重替代:男性:(身高-80 cm)×0.7;女性:(身高-70 cm)×0.6] - (2) 對 ARDS 病患來說,雖然 CXR 顯現兩側均匀浸 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
 - 1. 死亡率 (Mortality): 死亡大部分和 nonpulmonary causes 有關!! - (1) 年紀: > 75 歲死亡率約 60%, 2) - (B) 增加吐氣末正壓值(PEEP) - (C) 減少潮氣容積(tidal volume) - (D) 增加吸氣最大流量 (peak inspiratory flow) Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].
 - 【詳解】tidal volume = 600 = 10 mL/kg →目標應是 6~8 mL/kg = 360~480 mL。 Source: [[sources/med3-book1-ch24|辛、急性呼吸窘迫症候群]].

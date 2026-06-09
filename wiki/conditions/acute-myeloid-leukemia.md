@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch14]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Acute myeloid leukemia, AML (急性骨髓性白血病)'
   - 'Acute myeloid leukemia, AML'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-骨髓系 blast 增生的急性白血病，治療依 cytogenetics/molecular risk 分層。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓系 blast 增生的急性白血病，治療依 cytogenetics/molecular risk 分層。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med3-book4-ch21]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - II. 急性骨髓性白血病 (Acute Myelogenous Leukemia, AML) 374 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 1. 良好的預後(standard risk): - (1) 發病年紀在 1~9 歲間。 - (2) 發病時 WBC 50 個染色體) 合併 trisomy 4、10 和 17; t (12; 21) /TEL-AML 1 fusion gene。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - 【詳解】本題是考兒童 acute lymphoblastic leukemia 預後評估。 良好的預後因子有(1)發病年紀在1~9歲之間;(2)發病時白血 球計數低於 50,000/μL; (3) hyperdiploidy ( > 50 個染色體), (4) t(12;21)/TEL-AML 1 fusion gene。故選(A)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

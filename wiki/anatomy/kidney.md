@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch05]]"
@@ -78,6 +78,11 @@ sources:
   - "[[sources/med5-book3-ch12]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Kidney (腎臟)'
   - 'Kidney'
@@ -92,7 +97,7 @@ tags:
 
 ## Summary
 
-腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -170,9 +175,24 @@ tags:
 - [[sources/med5-book3-ch12]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch10]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- (C) 腎臟衰竭 (renal failure) Source: [[sources/med5-book4-ch03|丙、肺]].
+- (C) 腎衰竭 (renal failure) Source: [[sources/med5-book4-ch03|丙、肺]].
+- (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 3. 合併症:患嬰中約 1/3 有低體重, 2/3 常合併 VATER (vertebral, anorectal, tracheal, esophageal, renal or radial limb) 等異常。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (B) 腎臟及橈骨異常 (renal or radius malformation) Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 【詳解】患嬰中約 1/3 有低體重, 2/3 常合併 VATER (vertebral, anorectal, tracheal, esophageal, renal or radial limb) 等異常。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (2) 腹部超音波:評估泌尿系統和脊髓,尤其腎臟部位。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 8. 常見合併異常: VACTERL (vertebral, anorectal, cardiac, tracheal, esophageal, renal, and limb)。 - (1) 一般來說越高位的異常越長合併泌尿異常。 - a. 泄殖腔殘存或直腸膀胱瘻管,約 90% 合併泌尿生殖異常。 - b. 低位異常者,如會陰部瘻管者,僅 10% 合併泌尿生殖異常。 - (2) 約 1/3 病患合併薦椎和脊椎異常,如缺少 2 節以上脊椎,預後較差,會合併腸 道和膀胱失禁。 - (3) 約 26~59% 病童合併直腸尿道瘻管以外的泌尿生殖異常,最常見的是膀胱輸尿管逆流(vesicouret Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 【詳解】常見合併異常: VACTERL (vertebral, anorectal, cardiac, tracheal, esophageal, renal, and limb) • Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 3. 合併症:患嬰中約 1/3 有低體重, 2/3 常合併 VATER (vertebral, anorectal, tracheal, esophageal, renal or radial limb) 等異常。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - (C) 內含的異位組織最常見的是胃及腎臟組織 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - 4. 轉移癌 - (1) 轉移癌的發生率較原發性小腸癌高出許多。 - (2) 常見轉移至小腸的癌症包括:子宮頸癌、卵巢癌、腎臟癌、胃癌、大腸癌、胰臟癌等腹內器官。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (C) kidney laceration Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -181,16 +201,6 @@ tags:
 - 【詳解】遠端脾腎靜脈分流術屬於 selective shunt,斷 coronary vein,重建 gastroepiploic vein 至 left renal vein,減少 EV/GV bleeding 但 portal hypertension 加深,增加臟器回流壓力,ascite 加劇。門脈下腔靜脈分流術 (portacaval shunt) 屬於 non-selective shunt,可做 Total (end to side) or partial (side to side) shunt,減少血流進肝臟去解毒,故加深腦性肝病變,同時肝臟因缺血提早肝衰竭。此兩者都是治療因嚴重肝硬 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 若是臨床上考慮進行 mechanical bowel cleansing,針對腎臟功能不佳的患者,選擇 sodium phosphate 類的灌腸劑,相對polyethylene glycol solution,較少發生嚴重電解質不平衡的情形 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 【詳解】Sodium phosphate 為 osmotic solution,使身體水分往 大腸內滲透,容易影響 fluid/electrolytes imbalance,甚至 impair renal function; polyethylene glycol 則是 nonabsorbable osmotic agent,較不會有 fluid/electrolytes imbalance (fluid shifting)的問題,適合用在 renal failure、congestive heart failure、ascites from liver disease 的病人。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 2. 次發性 (Secondary HPT): Ca ↓ => PTH ↑ - (1) 慢性腎衰竭,腎排磷受阻造成高血磷,使得鈣磷沉積,造成低血鈣;vitamin D 缺乏影響到腸子以及腎臟對鈣的再吸收,低血鈣接著引起 PTH 的分泌。次發性 HPT 也見於骨軟化症(Osteomalacia)及小腸吸收不良(Intestinal malabsorption)。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- 3. 再次發性 (Tertiary HPT): PTH ↑=> Ca ↑ - (1) 長期慢性腎衰竭造成的次發性副甲狀腺亢進症一段時間後,會導致副甲狀腺發生自主性變化,使得副甲狀腺細胞組織增生,導致 PTH 升高,引發高血鈣。長期腎衰竭的病人在腎臟移植一段時間後,其次發性副甲狀腺亢進卻沒改善,血鈣和 PTH 偏高,則可診斷為再次發性副甲狀腺亢進。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- Symptomatic hyperparathyroidism - Fatigue - Pruritis - Bone pain or pathologic bone fracture - · Peptic ulcer disease - · Mental status changes - History of renal calculi Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- 1. 超音波為常用的篩檢工具,非侵略性、便宜、無輻射性,可初步判定動脈瘤的位置、大小、硬化的部分,偵測 AAA 的效果好,但對於 thoracic aorta(被肺部干擾)、 renal arteries、iliac arteries 效果比較差,且易受病人的體型(肥胖)和操作者的經驗影響檢查結果,故如果要開刀,CT 會是一個最佳的 pre-operative planning tool。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- 3. MRI: 病人有 renal insufficiency 或是對 contrast 過敏的替代方案。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- ...| | Type II | Flow from backbleeding arteries Patent lumbar, middle sacral, inferiormesenteric, hypogastric, accessory renal arteries | Observation Coil embolization or glue Laparoscopic ligation Open conversion | | Type III | Fabric disruption or tearModule disconnection | Placement of additional stents or cuffs Secondary endograft Open conv Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- 2. CT: 搭配顯影劑,能看出主動脈剝離的位置和範圍,分辨真腔和假腔。以及是否 有心包填塞、血胸的情況。 - (1) 如下圖為一個 Type A 的主動脈剝離,內膜與中膜分離後被血液充滿形成的假腔,和真腔之間以剝離內膜瓣(intimal flap)分隔。假腔的結構通常比真腔還大,由於假腔充滿相對比較不流動的血液,顯影劑比較難進入,因此 contrast-CT 下假腔會比真腔還暗。 - (2) 假使假腔有另一個出口,使得假腔也有血流,則真腔和假腔就會比較難分辨。 - (3) 當病人對顯影劑過敏,或是有 renal insufficiency 的情形,可改用 MRA 或是經 食道心臟超音波 (transesophageal echocardiography, TEE) 檢查。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- (1) Mortality 高,致命的 complication 相當多,例如 malperfusion syndromes (cerebrovascular、visceral、renal 或 peripheral ischemia)、cardiac complications (acute aortic insufficiency、coronary ischemia 或 cardiac tamponade) 或 rupture,所以選擇緊急開刀。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- 3. 每個器官的低溫保存期限 (cold ischemia time) 不同:腎臟 24~72 小時、胰臟 12~18 小時、小腸 6~12 小時、肝臟 6~10 小時、肺 4~6 小時、心 4 小時。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (2)除非原本的腎臟產生病變、難以控制之高血壓或嚴重感染,否則通常不會把原來腎臟切除,而是將新的腎臟移植到左下腹或右下腹的髂窩(iliac fossa)處。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

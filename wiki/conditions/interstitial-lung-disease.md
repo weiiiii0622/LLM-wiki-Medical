@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch12]]"
   - "[[sources/med3-book1-ch22]]"
@@ -14,6 +14,7 @@ sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch09]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Interstitial lung disease (間質性肺疾病)'
   - 'Interstitial lung disease'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-限制型通氣障礙與擴散能力下降相關的肺間質疾病群。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+限制型通氣障礙與擴散能力下降相關的肺間質疾病群。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,13 @@ tags:
 - [[sources/med3-book4-ch02]]
 - [[sources/med3-book4-ch09]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- O. 間質性肺病 (Diffuse lung disease) 56 Source: [[sources/med5-book4-ch03|丙、肺]].
+- ### O. 間質性肺病 (Interstitial lung disease) Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 引起間質性肺病的原因: (摘錄重整於 Sabiston Textbook of Surgery, 20th ed, Chapter 57, BOX 57-2) - (1) 感染:通常是造成局部疾病及肉芽腫(granuloma formation)。 - a. 病毒(Viruses):流感病毒(influenza)、巨細胞病毒(cytomegalovirus)。 - b. 細菌(Bacteria):結核菌(tuberculosis)、所有種類細菌,斑 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) Wheezing:較常見於細支氣管炎或病毒間質性肺炎或非典型肺炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...| | 不連續斑點(Discrete S.) | Anti-centromere | lcSSc ( C R E ST syn.) | | Nucleolar (dc 硬皮病)(核仁) | | | Anti-Scl 70 | dcSSc (ILD ↑ ) | | | | | Anti-PM/Scl | SSc+ PM (Overlap syn.) | | Cytoplasmic | | Anti-Jo-1 | PM (ILD ↑ *) | | | | | | Anti-smooth muscle | Autoimmune hepatitis | | (細胞質 | ) | | Anti-mitochondrion | Primary biliary cirrhosis | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - \*SSc (Systemic scleroderma) 分 兩 型, 分 別 是 Limited cutaneous SSc (lcSSc)、Diffuse cutaneous SSc (dcSSc)。ILD ↑ (有此抗體的病患,Interstitial lung disease 發生機率增加) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
@@ -60,9 +65,6 @@ tags:
 - | 分 類 | 疾病 | 肺功能 | | 順應性 | |------------------------------|--------------------------------------|---------------------------------------|--------------|----------------| | 阻塞性肺疾Obstructive disease | 氣喘 (Asthma)慢性阻塞性肺疾 (COPD) | (FEV 1 /FVC) ↓( (肺氣腫) | | 限制性肺疾Restrictive disease | 間質性肺疾(Interstitial lung disease) | (FEV₁/FVC) ↑ | TLC ↓ | 順應性降低 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - c. 網(Fine reticular pattern):間質性肺病(Interstitial lung dz.)等。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - ...mococcus | | (Lobar pneumonia) | 經 Kohn 由孔快速傳遍 | 支氣管像 (Air bronchogram) | Legionella, | | | 整個肺葉 | | Nosocomial GNB | | 間質性肺炎 | 病原菌使支氣管黏膜發 | 線狀及網狀陰影 (Reticular | Mycoplasma, | | (Interstitial pneumonia) | 炎,再延伸至 . | opacities) | Chlamydia | | Oleman Proger | Interlobular septa | HOLY THE | Virus | Source: [[sources/med3-book1-ch21|戊、感 染]].
-- 3. 肺功能: - (1) Obstructive type:可能合併COPD,需使用Bronchodilator治療,減少企管阻塞而感染。 - (2) Restrictive type:可能因 ILD 導致 Traction bronchiectasis。 Source: [[sources/med3-book1-ch21|戊、感 染]].
-- ...) 正常人 (D) 肺動靜脈瘻管 (pulmonary arteriovenous fistula) 【詳解】Ref. Harrison's 17th, ch35 Clubbing of the digits: - Lung cancer Interstitial lung disease - Chronic infections in the thorax, such as bronchiectasis, lung abscess, and empyema. Congenital heart disease associated with right-to-left shunting - Chronic inflammatory or infectious diseases, such as inflammatory Source: [[sources/med3-book1-ch18|寅、其 他]].
-- ...hunt 治療 | 101(二)專醫三-47 | | (A) | 11. 一位 50 歲男性患者,因持續性左胸痛 2 天而前來就診,其左胸痛隨患者深吸氣而更痛,患者最有可能罹患下列何種疾病?(A) 結核性肋膜炎(C) 撕裂性主動脈瘤(D) 間質性肺病 | 101(一)專醫三-41 | | (A) | 12. 一位 60 歲男性病人,因發燒,右側胸痛而住院。胸部 X 光顯示有少量右側肋膜腔積水,抽水檢查顯示其為 exudate,WBC:8,800/mm³ 且細胞主要為多核中性白血球(85%),pH 值為 7.28,Sugar 為 76 mg/dL。下列何種處理為最適當? (A) 開始給予抗生素治療,並追蹤胸部 X 光片檢查 (B) 給予抗生素,並即時插胸管引流肋膜腔積水 (C) 使 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 
 ## Clinical Caveats
 

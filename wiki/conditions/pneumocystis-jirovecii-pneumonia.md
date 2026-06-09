@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch15]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Pneumocystis jirovecii pneumonia, PJP (肺囊蟲肺炎)'
   - 'Pneumocystis jirovecii pneumonia, PJP'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book3-ch05]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibrosis (IPF) | Postsurgical | | - Pulmonary embolism | Other | | Catamenial | Esophageal perforation | | Neonatal | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...b. 細菌(Bacteria):結核菌(tuberculosis)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - (2) 職業因素: - a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , ke Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...mine) | | | | (B) 古柯鹼(cocaine) | | | | (C) 搖頭丸(3, 4-methylenedioxymethamphetamine; MDMA) | | | | (D) 天使麈(phencyclidine; PCP) | | | (C) 55 | 5. 下列何者不是暴力行為之有效預測因子? | 98(二)專 | | | (A) 大量喝酒 | 醫四 -71 | | | (B) 曾有暴力行為因而導致被逮捕或產生犯罪行為 | | | | (C) 長期抽菸 | | | | (D) 過去兒童時期有被虐待之經驗 | | | | | | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - ...novirus, | staphylococci, | Serratia,Klebsiella; | | | | enterovirus); | Haemophilus…); | 黴菌如 Candida; | | | | Candida; PCP ; | XLA 病人常見 | Nocardia, Aspergillus | | | | mycobacteria | enterovirus 感染; | | | | | | 寄生蟲 (giardia, | | | | | | cryptosporidia) | | | | 臨床 | 生長發育不良 | 反覆的鼻竇炎或肺 | 皮膚感染 (abscess, | 腦膜炎,關節炎, | | 表現 | (Failure to thrive) | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

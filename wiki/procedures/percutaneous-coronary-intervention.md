@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch13]]"
@@ -23,6 +23,9 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -37,7 +40,7 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +63,15 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch16]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- (B) 病情處置以放置氣管內支架為官 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (1) 狹窄:早期置放食道支架(至少3週),或擴張術(bougienage)。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (2) 手術修補、血管內支架置放:應先完成其他伴隨危急損傷評估,如:脾臟破裂、 骨盆骨折出血,並優先處理肺失能或頭部創傷至穩定,再進行血管修補。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (3) 逆行性膽道胰管內視鏡攝影(endoscopic retrograde cholangio-pancreatography, ERCP):如果在 CT 上沒有辦法確切看到 mass lesion 的話,可以利用 ERCP 做 進一步的檢查。在前面提到 ERCP 可提供良好的胰管與膽管結構。若胰頭腫瘤 壓迫膽道,ERCP 可在檢查過程當中置放膽道支架,紓緩黃疸及其相關搔癢等 之症狀。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...--------------------------|---------| | | 其他轉移病灶(no evidence | of metastasis),那一種處理應優先 | 醫五 -19 | | | 考慮? | | | | | (A) stent and chemotherapy | | | | | (B) local excision and radiother | rapy | | | | (C) Whipple procedure | | | | | (D) radiotherapy | | | | | 【詳解】Periampullary tumor | 的術式首選為 Whipple procedure。 | | | (C) 17 | . 下列何種基因和胰臟癌的發生 | Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 11. 一位 70 歲男性,晚餐後覺得一陣心悸,三十分鐘後突然腹部劇痛,因疼痛持續一小時仍未緩解,而至急診室就診,當時你發現此病人臉色蒼白、冷汗直流,血壓 140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG顯示有心房顫動,血液檢查:Hb 14 /dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
@@ -78,9 +87,6 @@ tags:
 - (3) Endovascular Aortic Aneurysm Repair (EVAR):為低侵襲性的血管內支架手術,從兩側腹股溝股動脈處,將含金屬支架的人工血管(stent-graft)置放到主動脈瘤的位置撐開,使人工血管緊緊地貼緊主動脈壁,阻斷動脈瘤之血流供應,動脈瘤就會隨著時間慢慢的縮小。優點是傷口小、死亡率低、住院時間短及手術併發症降低。當病患年紀大、屬於開刀的高風險族群,EVAR會是個不錯的選擇。(下圖為 EVAR 示意圖) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - b. Endoleak: 支架沒放好,使得血流流出人工血管外或流進 aneurysm sac, 進而無法達到控制動脈瘤擴張的效果。依原因分成四種 type, 見下表。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (A) 3.60 歳趙先生(意識清楚)健康檢查時發現胸部 X 光片之縱膈腔 103(ニ)専8公分寬。下列敘述何者正確? 警五-23 - ①安排胸部電腦斷層檢查 - ②胸部降主動脈瘤為可能診斷之一 - ③手術前,醫師可應趙先生之書面要求而不將其手術危險性告 知其分居之配偶 - ④主動脈內血管支架 (endovascular aortic graft) 不可用於胸部 降主動脈瘤之治療 - (A) ①②③ (B) 僅①③ (C) ②④ (D) 僅④ Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- ...moral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm 的血管。 - d. 栓塞切除術(embolectomy): 開刀將血栓拿掉,恢復灌流,為急性動脈阻塞 首選。 - (a) 針對急性動脈阻塞塞,四肢對於缺血的耐受性較高,其黃金時期(即組織缺血後再灌注時仍可恢復功能)為6至8小時(大腦為4~8分鐘,心肌為17~20分鐘)。 - (b) 但長時間缺血後,再灌流時會造成 reperfusion injury/syndrome,使得阻塞 時缺氧組 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- 1. 大血管粥狀硬化 (athero-thrombotic or artery to artery emboli): - (1) 位置:中大型動脈(ACA, MCA, PCA, BA, ICA×2, VA×2)。 - (2) 成因:因 DM、高血脂等形成粥狀硬化瘤(Atheroma)。 - (3) 診斷:頸部超音波、穿顱超音波、MRA。 - (4) 治療:若 ICA > 60% 有症狀的狹窄,或> 70% 無症狀的狹窄,建議放 Stent。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

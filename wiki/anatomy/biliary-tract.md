@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch20]]"
   - "[[sources/med3-book2-ch19]]"
@@ -50,6 +50,9 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch10]]"
   - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Biliary tract (膽道系統)'
   - 'Biliary tract'
@@ -64,7 +67,7 @@ tags:
 
 ## Summary
 
-膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -114,9 +117,18 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch10]]
 - [[sources/med5-book3-ch17]]
+- [[sources/med5-book4-ch12]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- C. 膽道閉鎖 (Biliary atresia) 175 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- ...> 20%T.B. ,需進一步檢查。 - (a) 此診斷下包含了許多疾病,常見的 15 個疾病佔了 95% 病童發生的原因,而以不明原因新生兒肝炎(idiopathic neonatal hepatitis) 佔約 30~40% 最常見、膽道閉鎖(biliary atresia) 為第二常見、α1 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency)第三常見。 - (b) 進一步評估:尿液、血液(血球計數、凝血功能、α1-antitrypsin、albumin)、肝膽超音波、經皮肝臟穿刺、肝膽道閃爍攝影(現在幾乎不使用)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- ### C. 膽道閉鎖 (Biliary atresia) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (A) 膽道囊腫 (choledochal cyst) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (3) 關聯疾病:早產、唐氏症(Down syndrome)、羊水過多(polyhydramnios)、 腸胃道轉位異常(malrotation)、環狀胰(annular pancreas)及膽道閉鎖(biliary atresia)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - #### 丙、急性非結石性膽囊炎(Acute Acalculous Cholecystitis) Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
 - 1. 根據統計,將近 90% 的急性膽囊炎患者伴隨結石的存在,急性非結石性膽囊炎只 佔所有患者的 2~15%。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
 - 2. 在臨床上,急性非結石性膽囊炎發生原因主要與膽囊缺血、膽汁淤積相關。 - (1) 膽囊缺血:大面積燒傷、多重外傷、重度感染、重大手術術後、急性心肌梗塞 患者等疾病,這些患者都容易低血壓、休克或心衰竭,導致膽囊壁的供血不足。 - (2) 膽汁淤積:患者因感染體溫上升或脫水,使得膽汁黏稠度增高,淤積於膽囊,造成膽囊發炎。一旦膽囊持續因缺血而缺氧,很容易造成 gangrene 的變化,甚至造成膽囊的 perforation 而致死。因此急性非結石性膽囊炎可做為判定多重器官衰竭預後不佳的早期徵兆。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
@@ -129,12 +141,6 @@ tags:
 - 1. 解剖學上,可利用動、靜脈與肝管在肝臟內形成的自然界限,分為三個 divisions。 - (1) First divisions:左右兩半 (hemilivers)。 - a. 左右兩葉由膽囊窩(gallbladder fossa) 與下腔靜脈 (inferior vena cava)所分割而成。這條界線又可稱 之為 Cantlie's line, 走向約與 middle hepatic vein 一致。 - b. 左右兩葉各由一條肝臟動脈 (hepatic arterial branch)、膽管 (bile duct), 與門靜脈 (portal vein) 所支配。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - ...泌尿道的手術 例如:割雙眼皮、甲狀腺切除、乳房切除 | | Class II | Clean-contaminatedwounds | 1. 進入呼吸道、消化道或生殖泌尿道但無特殊感染的手術傷口2. 手術過程中無明顯汙染3. 例如:無感染性膽道或闌尾手術、Hysterectomy、Gastrectomy | | Class III | Contaminated | 開放性、新的、外傷傷口 胃腸道內含物溢出或手術過程中有些微感染者 有急性發炎但未化膿 | | Class IV | Dirty or infected wounds | 舊的、有壞死組織的外傷口 內臟穿孔 已有感染化膿的傷口 | Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - (1) 先天性膽道閉鎖(biliary atresia),是小兒換肝最常見的原因。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (6) 原發性膽汁性肝硬化 (primary biliary cirrhosis)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 3. 手術: 吻合順序為下腔靜脈、門靜脈、肝動脈, 最後才是膽道重建。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (C) 1. 正確分辨 Calot's triangle 是降低腹腔鏡膽囊切除手術併發症的重要關鍵,其構成邊界不含下列何項? Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- (B) 膽囊管 (cystic duct) Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- (C) 膽囊動脈 (cystic artery) Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- ...drome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition Source: [[sources/med5-book1-ch01|甲、外科營養]].
 
 ## Clinical Caveats
 

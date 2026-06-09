@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch02]]"
@@ -40,6 +40,9 @@ sources:
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book4-ch01]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Electrocardiography, ECG (心電圖)'
   - 'Electrocardiography, ECG'
@@ -54,7 +57,7 @@ tags:
 
 ## Summary
 
-心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +97,15 @@ tags:
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med5-book4-ch01]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- (2) 其他術前評估:肺功能測定(10 歲以上患者)、心電圖、心臟超音波,因常合 併先天性心臟病。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
+- (D) 2.42 歲男性因雙側肺氣腫(emphysema)導致呼吸窘迫而入院,胸 101(二)專 部電腦斷層顯示其右上肺葉有一巨大之氣泡(bullae),且壓迫到 醫五-22 縱隔腔而出現 mediastinal deviation 的現象。若欲為此病患實行 lung volume reduction surgery,為避免病患術後發生呼吸衰竭, 下列檢查何者無助益? - (A) 動脈血氧 (ABG) - (B) 肺功能檢查 - (C) 肺部之 ventilation and perfusion scan - (D) 心電圖檢查 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (C) 1. 一位 40 歲男性病患,每天喝兩至三瓶高粱酒約 20 年。最近 5 年 他常有噁心及嘔吐的現象,這次入院主要是於強烈嘔吐後有吐血 的現象發生。他被送到急診時體溫 36.8℃、血壓 80/40 mmHg、 脈搏 110/min、呼吸 22/min。身體檢查沒有聽到心雜音,兩側呼吸 音亦正常,他的腹部沒有脹大亦沒有壓痛。他的心電圖及胸部 X 光均正常,大便檢查也沒有潛血。接下來要做下列那種檢查? Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (C) 11. 一位 70 歲男性,晚餐後覺得一陣心悸,三十分鐘後突然腹部劇痛,因疼痛持續一小時仍未緩解,而至急診室就診,當時你發現此病人臉色蒼白、冷汗直流,血壓 140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG顯示有心房顫動,血液檢查:Hb 14 /dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (A) 11. 李先生 71 歲,身體一向健康。近半年因經常發生暈厥而前來求 診。聽診時,於胸骨旁兩側的肋間可聽見心臟有射出性的收縮雜 音,伴隨第二心音有剝裂聲,此外,病患亦承認多次於勞動中 出現胸悶、心絞痛的情形,心電圖呈現左心室肥大和倒置 T 波, 血壓: 95/70 mmHg,各器官功能正常。綜合上列敘述,下列何 種處置不適宜? Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -112,9 +121,6 @@ tags:
 - ...沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 2. 心因性血栓 (cardio-embolic): - (1) 位置: MCA 的上支。 - (2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (B) 立即抽血進行血液生化和相關檢查,並做心電圖 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (A) 17. 一位 70 歲女性患者,有高血壓、糖尿病病史多年,晚上 11 點入 睡時皆正常,清晨 6 點起床時,卻發現說話不太清楚,左側肢體 無力,早晨 6點 30分,被家人送至急診室,早晨 7點 20分,血壓: 160/88 mmHg,所有血液生化檢查、心電圖皆正常,腦斷層檢查 無腦出血或其它異常,此時最不適合的治療為何? Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (A) 須考慮是否有任何身體疾病,在醫療的處置上,需先評估個 案的標準生化檢查、心電圖與甲狀腺功能檢查 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 
 ## Clinical Caveats
 

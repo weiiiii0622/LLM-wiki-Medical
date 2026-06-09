@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch05]]"
@@ -35,6 +35,8 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Uremia (尿毒症)'
   - 'Uremia'
@@ -49,7 +51,7 @@ tags:
 
 ## Summary
 
-腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +86,13 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book3-ch17]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- ..., Gaucher disease, neurofibromatosis, and tuberous fibrosis。 - (5) 代謝性或未知因素 (Metabolic and unknown): 肝病 (Liver disease)、尿毒症 (uremia)、發炎性腸疾病 (inflammatory bowel disease)。 - (6) 物理性因子 (Physical agents): 放射線 (Radiation)、氧毒性 (O2 toxicity)、燒 燙傷 (thermal injury)、爆炸傷 (blast injury)。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...| Others | | failure | ● Bronchogenic | Disease Related | ◆ Chylothorax | | ● Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesoth Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...$> 55 \text{ y} \circ$ - c. LDH > 350 IU/L $\circ$ - d. AST > 250 IU/L - e. WBC > 16,000/U1 - (3) Initial 48 hrs: - a. BUN elevation $> 5 \text{ mg/dL} \circ$ - b. Base deficit $> 4 \text{ mEq/L} \circ$ - c. Ca 10\%$ ° - f. fluid Sequestration > 6 L $\circ$ Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - (C) 7.38 歲女性因尿毒症接受透析治療已有8年,於一年多前接受腎移 植手術後情況良好,在例行檢查時發現血中 intact parathyroid hormone (iPTH) 濃度為205 pg/mL,血鈣為12 mg/dL,此時可診斷為: - (A) 原發性副甲狀腺機能亢進 (primary hyperparathyroidism) - (B) 繼發性副甲狀腺機能亢進(secondary hyperparathyroidism) - (C) 三發性副甲狀腺機能亢進(tertiary hyperparathyroidism) - (D) 復發性副甲狀腺機能亢進(recurrent hyperparathyroidism) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...血中三酸甘油脂(triglyceride)濃度 (D) 12. 下列何者與血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維他命 D (C) 抑鈣激素 (D) 雌性激素 (C) 13. 一位 57 歲的尿毒症病患,5 年來持續接受血液透析治療,直到 99(二)專 2個月前接受了腎臟移植手術。最近他開始出現皮膚搔癢、腹痛、 醫五-58 骨頭酸痛等現象,抽血檢查鈣值為 12 mg/dL。下列何者是此患 者最可能的診斷? (A) Primary hyperparathyroidism (B) Secondary hyperparathyroidism (C) Tertiary hyperparathyroidism (D) Parathyroid Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -103,8 +109,6 @@ tags:
 - (2) 出生後,若在男性新生兒發現膀胱擴大或是微小的尿流,此時就要懷疑尿道後 瓣膜的可能性。假若在新生兒期間沒有發現,病人則會有很高的機會得到泌尿 道感染引發敗血症或是尿毒症,造成病人死亡。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (3) 血液生化檢查:用來評估腎臟損傷程度,如BUN、Cr、CBC(評估貧血程度)。 5. 治療: - (1) 初步處理:為了防止泌尿系統的惡化,先用鼻胃管(No.5 or 8 French)導尿而不是用導尿管(Foley catheter 上的 balloon 會造成膀胱痙攣)。矯正電解質、BUN、Cr,治療呼吸窘迫…等,當病人情況穩定則以手術治療。 - (2) 手術:用小兒膀胱尿道切除鏡將尿道後瓣膜切除。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 6. Hemolytic-uremic syndrome Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- III. 血小板疾病 355 - A. 血小板低下症 355 - B. 免疫性血小板缺乏紫斑症(ITP) 355 - C. 溶血性尿毒症候群和血栓性血小板減少紫斑症 355 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (D) 2. 下列何種病原最少引起溶血性尿毒症候群 (hemolytic-uremic syndrome)? Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

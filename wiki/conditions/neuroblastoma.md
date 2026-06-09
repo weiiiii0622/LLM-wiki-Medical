@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book1-ch02]]"
@@ -14,6 +14,8 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Neuroblastoma (神經母細胞瘤)'
   - 'Neuroblastoma'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,17 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- 2. 孩童:以交感神經節細胞腫瘤為主,如:節神經瘤(gangliomas)、節神經母細胞瘤(ganglioneuroblastomas)、神經母細胞瘤(neuroblastomas)。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 5. 神經母細胞瘤 (neuroblastoma): - (1) 最常見的惡性腫瘤,源自交感神經節,最好發位置為後腹腔(retroperitoneum), 高度侵犯性腫瘤,通常發現時已轉移。 - (2) 75% 發生於 4 歲以下孩童。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- (B) 2. 下列有關後縱隔腔腫瘤(posterior mediastinal tumor)之敘述 , 102(ニ)専 何者錯誤? - (A) 最常見的為 schwannoma - (B) 成年人惡性比例比小孩高 - (C) 最常見的惡性腫瘤為 neuroblastoma - (D) 良性腫瘤治療以手術為主 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- D. 神經母細胞瘤 (Neuroblastoma, NBL) 195 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
+- 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
+- 3. 孩童常見腹部腫瘤:神經母細胞瘤(最常見)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...itonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | (B) 20. | 格雷氏病(Graves' disease)合併下列何種情況時,甲狀腺次全切 | 104(二)專 | | | 除術為最合理的選擇? | 醫五 -37 | | | (A) 併有嚴重凸眼症狀 | | | | (B) 併有抗甲狀腺藥物嚴重併發症,如白血球降低及黃疸等 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (A) 收集 24 小時尿液檢驗兒茶酚胺(catecholamines) 和香草扁桃酸(vanillylmandelic acid) 來診斷,有很好的特異度(specificity),但敏感度(sensitivity)並不高 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -57,10 +67,6 @@ tags:
 - 隨著研究進展,目前思覺失調症產生的理論認為疾病的產生並非單一神經傳導物質 dopamine 的失衡,腦中其他神經傳導物質如 norepinephrine、serotonin、GABA、 glutamate、neuropeptide 的失去平衡也可能有關。研究也顯示,血液中香草酸 (homovanillic acid, catecholamine 的代謝物) 濃度越高,精神症狀越嚴重,對於抗精神病藥物的反應也越好。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 - 安非他命主要是促進神經分泌 catecholamine 類神經傳導物質,特別是 norepinephrine 與 dopamine $\circ$ Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - VI. 神經母細胞瘤 (Neuroblastoma, NB) 385 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (A) 神經母細胞瘤 (neuroblastoma) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 【詳解】Neuroblastoma 其基因致病機轉現今仍不是十分清楚。 Wilms tumor 與第 11 對染色體基因異常有關 (WT1, located at 11p13; WT2, located at 11p15.5)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 某些因子為好發危險因子,如高齡產婦、母親吸菸、母親肥胖、歐洲人種以及低 社經地位者。某些基因突變造成某些症候群也會合併食道氣管瘻管,例如 Feingold syndrome (N-MYC)、CHARGE syndrome (CHD7) 以及 anophthalmia-esophageal-genital syndrome (SOX2)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (1) 小兒最常見腫瘤:leukemia, lymphoma, CNS tumor, (neuroblastoma)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

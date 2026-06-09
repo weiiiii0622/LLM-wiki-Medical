@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch17]]"
   - "[[sources/med3-book4-ch10]]"
@@ -29,6 +29,9 @@ sources:
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book4-ch08]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Blood transfusion (輸血)'
   - 'Blood transfusion'
@@ -43,7 +46,7 @@ tags:
 
 ## Summary
 
-依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +75,18 @@ tags:
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch02]]
+- [[sources/med5-book4-ch08]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...寬,或以公式 4 + age (yr) / 4 French 來計算最佳管徑。 - c. 環狀甲狀軟骨切開術(Cricothyroidotomy): 因小於 12 歲以下孩童氣管較軟,不建議使用。 - (2) Circulation:輸液和輸血。 - a. 晶體溶液(crystalloid)快速灌注(bolus)以 20 mL/kg 來補充流失的體液。對於小於 6 歲孩童靜脈注射(IV)並非安全穩固的輸液管路,可考慮骨內注射(intraosseous, IO)。當失血超過預估總血量的 50% 或以雙倍灌注 40 mL/kg 輸液後仍明顯有低血容生命徵象表現時,為啟動輸血的適當時機。 Source: [[sources/med5-book4-ch08|甲、概 論]].
+- (D) 1. 一名 3 歲 15 公斤的男童從 6 層樓跌落送來急診,生命徵象為心 107 (二) 專 跳 160 下 / 分、血壓 70/30 mmHg、呼吸 30 下 / 分,適當的急救 醫五 -47 輸液給法為何? - (A) 血漿替代液(Gelofusine) 一次 300 毫升快速滴注, 給與一次後若沒有反應即輸血 - (B) 新鮮冷凍血漿 (fresh frozen plasma) 一次 300 毫升快速滴注, 給與一次後若沒有反應即輸紅血球濃厚液 (packed RBC) - (C) 林格氏液(Ringer's solution)一次 150 毫升快速滴注,給與兩次後若沒有反應即輸血 - (D) 生理食鹽水(normal saline) 一次 300 毫升快速滴注,給與兩次後若沒有反應即輸血 Source: [[sources/med5-book4-ch08|甲、概 論]].
+- 【 詳解 】 需快速輸注量為 $15~kg \times 20~mL/kg = 300~mL$ ,常見 crystalloid fluid 為 normal saline 或 lactate ringers。(A) Gelofusion 不建議使用。(B) 輸血為最後選項。(C) 輸液量不足。(D) 為正確 答案。 Source: [[sources/med5-book4-ch08|甲、概 論]].
+- 【詳解】不論是氣胸或血胸均應先放置胸管,以免立即的心肺 循環失能,而若懷疑血胸則另需同時考慮輸液和輸血。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (2) 開胸術:少數持續出血患者需接受手術,通常是肋間動靜脈(intercostal vessels)、內乳動靜脈(internal mammary vessels)、主要肺動靜脈(major pulmonary vessels)或心臟等損傷出血,常需要自體輸血。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 7. 保守治療:置放鼻胃使腸道減壓、靜脈輸液補充 使腸道休息、輸血補充血液和血小板、使用廣效 型抗生素,持續 7~10 天,約 50% 可以改善。內 科治療後病情仍惡化或未如預期改善才手術治療。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (C) 肝臟手術易出血,要預先準備 packed RBC Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】此電腦斷層可見 liver laceration。在小朋友的 liver laceration 當中,絕大部分的病人是不需要輸血的,除非病人的 Hb 非常低,或是 vital sign 出現問題的時候才會考慮輸血。若 vital sign stable 時,可嘗試保守性療法治療病人,若出現 shock、大量輸血時,才考慮進行 laparotomy 剖腹探查術。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 為了避免出血,應大量給予 FFP (fresh frozen plasma) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -87,12 +99,6 @@ tags:
 - 【詳解】憩室炎的基本治療以內科(抗生素)為主,除非反覆性憩室炎、腸穿孔引起腹膜炎、形成瘻管、急性大量出血才需要手術介入。貧血/出血方面先藉由輸液/輸血穩定hemodynamic status,做大腸鏡鏡檢(順便可進行止血),大腸鏡檢沒辦法找到出血點,可用血管攝影(順便做血管栓塞治療),最後出血都還沒法停止,才考慮手術。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 - (B) 若病患於急診留觀期間,傷口持續出血不止,最好的方法為 加壓止血合併輸血治療 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - 2. 膠體溶液(Colloid): Hetastarch、Dextran、Albumin、FFP等,一般認為膠體溶液 相較於晶體溶液更能擴張血管內容積,留存在血管內的時間較久,也較能抵抗血管 通透性增加所導致的異常。但價格較高,且後來一些研究發現輸膠體溶液似乎較易 急性腎衰竭及死亡率上升。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- 3. 大量輸血:定義一次輸超過 2,500 mL,或 24 小時內輸超過 5,000 mL。 - (1) 大量輸血可能引起許多併發症,包括: - (2) 低體溫:因為血品儲存溫度為 1~6℃,在輸血前盡量要對冷藏血進行預熱,輸血後也要注意進行體溫回復。 - (3) 凝血功能障礙:一部分因為外傷損失大量血小板和凝血因子,且止血過程中又會消耗血小板和凝血因子;另外像是 packed RBC 內不含足夠凝血因子,而輸血帶來的大量體積又會稀釋掉血小板濃度(d Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (A) 10. 下列與大量輸血相關的敘述,何者錯誤? Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (D) 22. 為落實病人自主權利,醫師應該尊重病人的醫療決定,然而,有 99(二)專 些病人的醫療決定卻有必要再三斟酌,下列那一種病人的醫療決 醫五-78 定您必須尊重? - (A) 32 歲家庭主婦,感情不睦想要自殺 - (B) 55 歲男性大學教授,酒後車禍肇事,酒精濃度過高,被警 察送到急診室,表明拒絕輸血 - (C) 17 歲未婚女性工廠作業員,要求安排整形手術 - (D) 74 歲無教育背景的獨居老榮民,拒絕喉癌手術 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (C) 對拒絕輸血的耶和華見證人會信徒,不予輸血 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- ...spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (1) 術中常見高體溫的原因為輸血反應或是病人本身有感染的情況。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 
 ## Clinical Caveats
 

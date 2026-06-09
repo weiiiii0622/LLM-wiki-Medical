@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch05]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Cardiac tamponade (心包膜填塞)'
   - 'Cardiac tamponade'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-心包壓升高限制心臟充填，可能造成休克。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心包壓升高限制心臟充填，可能造成休克。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,13 @@ tags:
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- 2. 在車禍發生時,造成立即性死亡,最常見原因為心因性鈍傷合併腔室破損和胸主動脈損傷,造成早期死亡,最常見因為氣道阻塞、張力性氣胸、大量血胸和心包膜填塞。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- c. 前胸壁穿刺傷合併心包膜填塞(Penetrating injuries of the anterior aspect of the chest with cardiac tamponade) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - ..., oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心臟舒張,造成回心血量減少, 連帶使得心輸出量減少。 - b. 典型的臨床表現有 Beck's triad: JVP 上升、hypotension,distant heart sounds (隔了一層積液,心音聽起來低沉,好像很遠的感覺)。 - c. 其他表現有 pulsus paradoxus (吸氣時 SBP 下降超過 10 mmHg 或者 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (1) Mortality 高,致命的 complication 相當多,例如 malperfusion syndromes (cerebrovascular、visceral、renal 或 peripheral ischemia)、cardiac complications (acute aortic insufficiency、coronary ischemia 或 cardiac tamponade) 或 rupture,所以選擇緊急開刀。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (B) 8. 心包填塞 (cardiac tamponade ) 是下列那一個情形 ? 105( - ) 專中心靜脈壓 動脈壓 心輸出量 混合靜脈血氧飽和度 醫五 -9 A ↓ ↓ ↓ ↓ Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].

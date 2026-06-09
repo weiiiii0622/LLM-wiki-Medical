@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch25]]"
   - "[[sources/med3-book2-ch16]]"
@@ -63,6 +63,10 @@ sources:
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Pancreas (胰臟)'
   - 'Pancreas'
@@ -77,7 +81,7 @@ tags:
 
 ## Summary
 
-胰臟兼具外分泌消化酵素與內分泌血糖調控功能。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰臟兼具外分泌消化酵素與內分泌血糖調控功能。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -140,9 +144,21 @@ tags:
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch12]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch12]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (3) 關聯疾病:早產、唐氏症(Down syndrome)、羊水過多(polyhydramnios)、 腸胃道轉位異常(malrotation)、環狀胰(annular pancreas)及膽道閉鎖(biliary atresia)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...10 天大的男嬰送至醫院,媽媽主訴男嬰自 2 天前不斷叶膽 103(一)專 汁及哭鬧不安,鋇劑上消化攝影(upper GI study)如下圖,最有 醫五-9 可能的診斷是: (A) 十二指腸蹼 (duodenal web) (B) 環狀胰臟 (annual pancreas) (C) 上腸繋膜動脈症候群(superior mesenteric artery syndrome) (D) 腸旋轉合併中腸扭轉 (malrotation with midgut volvulus) (D) 5. 承上題,最適當的手術方式為: 103(一)專 (A) duodenoplasty (B) partial pancreatectomy 醫五-10 (C) duodenojejunosto Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 1. 機轉 & 成因:表現為膽管囊狀擴大,成因不明,一說為膽胰道接合異常 (anomalous pancreaticobiliary ductal junction) 導致胰臟消化酵素逆流導致膽道受損,一說為持續或反覆遠端膽道阻塞所致。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- 4. 臨床表現:右上腹腫塊、腹痛、黃疸為典型三合症(classic triad),但同時發生者 約佔不到 20%,大多合併其中兩者佔約 85%。小於一歲,一般以阻塞性黃疸和腹部 腫塊表現;大於一歲者,以腹痛、噁心、嘔吐、發燒及黃疸表現。常見併發症包含 膽管炎胰臟炎和續發性囊腫破裂造成膽汁性腹膜炎。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (4) 核磁共振膽道胰臟攝影:可提供更精確的肝膽管引流結構,近年來越來越常使用。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- ...| ● Fungal | perforation | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreatic | | | | | pseudocyst | | | | | ■Meigs' syndrome | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 【詳解】(C) CA19-9 是胰臟癌的腫瘤標誌。SCLC 目前沒有好的腫瘤標誌,有人嘗試 neuron-specific enolase (NSE),chromogranin A (CgA),pro-gastrin releasing peptide (ProGRP),但是特異性跟敏感性都有限。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 1. 急性胰臟炎是一個常見的急性腸胃道疾病,80%的病人病程都是較為和緩,但卻有20%的病人狀況較為嚴重,除了內科性的支持療法外,甚至情況危急需轉入加護病房持續治療監控,而其有將近5%的死亡率。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - 2. 急性胰臟炎是因為胰臟腺泡細胞(pancreatic acinar cells)的胰蛋白酵素(trypsin)被活化,導致一連串的胰臟發炎反應與自我分解,並且導致胰臟周圍脂肪細胞壞死。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - (2) Amylase、Lipase ↑:如果上升至三倍的正常值,需強烈懷疑急性胰臟炎。 Amylase 在發病三到四天後恢復正常,**Lipase** 半衰期較長可達一星期以上,較 具特異性。Amylase 與 Lipase 的數值與疾病嚴重程度無關。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
@@ -153,14 +169,6 @@ tags:
 - 2. 流行病學: - (1) 在台灣,每十萬人口中約有五人罹患胰臟癌。十大癌症死因中排名第十。 - (2) 多發生於 60 歲之後的病人。 - (3) 男性發生率高於女性,約為2:1。 - (4) 胰臟癌發生於不同部位會有不同症狀,手術介入也會有不同的選擇。 - a. 胰頭:60~70%。 - b. 胰體:25%。 - c. 胰尾:10%。 - d. 多發性: 5~10%。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...- (a) 近端胃十二指腸動脈(Proximal gastroduodenal artery)。 - (b) 遠端胃十二指腸動脈(Distal gastroduodenal artery)。 - (c) 水平胰動脈 (Transverse pancreatic artery)。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- #### 丙、胰島細胞瘤(Pancreatic Islet Cell Tumors) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- (1) 手術:首選 - a. 腫瘤位於 Pancreatic head: 腫瘤摘除 (enucleated)。 - b. 腫瘤位於 Pancreatic body 或 tail:遠端胰臟切除(resection)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 1. 定義:胰臟(或其他位置)的非 β 細胞腫瘤,分泌胃泌素,刺激胃製造過多 HCl, 而導致潰瘍。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- ...epair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total abdominal hysterectomy 和 bilateral salpingo-oophorectomy。 - (c) Subtotal colectomy • Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 2. 病因: - (1) 醫源性(iatrogenic): 最常見的原因,長期服用含類固醇的止痛藥所致,造成體內 glucocorticoid 過量。 - (2) Cushing disease: 佔非醫源性病患 65~70%。腦下垂體前葉腺瘤或是增生,過度分泌 ACTH,造成雙側腎上腺增生,分泌過量 cortisol。 - (3) 腎上腺腫瘤:佔非醫源性病患 10~20%。Adrenal adenoma 或 carcinoma,不受 ACTH 控制,分泌大量 cortisol。ACTH 反而因受到回饋抑制而濃度降低,腫瘤 周圍的正常腎上腺皮質也會萎縮。 - (4) 異位性(ectopic) ACTH:身體其他部位有會分泌 ACTH 的來源,例如小細胞 肺癌、類癌、胰臟癌、胸腺癌、甲狀腺髓質癌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- (2) 其他尖銳物品刺傷: - a. 前腹部刺入:打開傷口探查有無穿透腹膜,如穿過腹膜,則作腹腔灌洗判斷有無出血,再決定是否需剖腹探查。假使病患有休克、腹膜炎症狀、NG 有引流出血或有便血、組織外露或 X 光上有 free air 時,不需作其他確認檢查,應儘快手術。 - b. 後驅幹刺入: 自腰部或背部刺入傷可能會傷及後腹腔之器官, 例如胰臟、 十二指腸、升降結腸或泌尿系統, 如病人情況不穩定或有腹膜炎症狀則應立 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- ...| | (abdominal computed tomog | graphy)? | 醫五-5 | | | | | | (A) 腹部鈍挫傷(abdominal | blunt trauma) | | | | | | | (B) 評估是否有胰臟受傷 | | | | | | | | (C) 身體評估無法判斷腹部是 | 是否受傷 | | | | | | | (D) 病人血壓為 65~72 mmHg, 脈搏為 108~112 / 分鐘, 呼吸 | | | | | | | | 20~25 / 分鐘 | | | | | | | | 【詳解】病人已經 vital sigr | n unstable,應以穩定 ABC 和剖腹探 | | | | | | | 查為優先,診斷為其次。 | | | Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 
 ## Clinical Caveats
 
@@ -169,7 +177,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/cystic-fibrosis|Cystic fibrosis (囊性纖維化)]]
 
 ## Follow-up
 

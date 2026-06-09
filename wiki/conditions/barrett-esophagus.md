@@ -2,11 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch04]]"
   - "[[sources/med5-book3-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch13]]"
 aliases:
   - 'Barrett esophagus (巴洛氏食道)'
   - 'Barrett esophagus'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-慢性 GERD 相關腸化生，是食道腺癌風險因子。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性 GERD 相關腸化生，是食道腺癌風險因子。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch06]]
 - [[sources/med3-book2-ch04]]
 - [[sources/med5-book3-ch02]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch13]]
 
 ## Key Details From Sources
 
+- F. 巴瑞特氏食道 (Barrett's esophagus) 90 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (2) 內視鏡(endoscopy):可排除其他食道胃疾病並記錄胃食道損傷情況,並切片 評估是否有異生癌化轉變。 - a. 食道損傷分級(Savary-Miller interpretation) - (a) Grade 1 發紅 (erythema) - (b) Grade 2 線狀潰瘍 (linear ulceration) - (c) Grade 3 融合潰瘍 (confluent ulceration) - (d) Grade 4 攣縮狹窄 (stricture) - (e) Grade 5 巴瑞特氏食道 (Barrett's esophagus) Source: [[sources/med5-book4-ch05|戊、食 道]].
+- a. 適應症:嚴重的食道損傷(潰瘍、攣縮狹窄、Barrett's esophagus)、經藥物治療後症狀反覆或無法完全消除。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 1. 機轉 & 成因:為一罕見的先天性腹壁肌肉發育不良畸形,又稱先天性腹肌缺失症。 常見其他名稱 Eagle-Barrett syndrome、Obrinsky syndrome、Fröhlich syndrome。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
 - (D) 病人有 Barrett's mucosa Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 4. 病人有 Barrett's mucosa Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - Barrett's esophagus (intestinal metaplasia) · Esophageal adenocarcinoma · Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].

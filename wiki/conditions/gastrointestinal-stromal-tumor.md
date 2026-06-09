@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch05]]"
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Gastrointestinal stromal tumor, GIST (胃腸基質瘤)'
   - 'Gastrointestinal stromal tumor, GIST'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-胃腸道間質腫瘤常與 KIT/PDGFRA 訊號相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃腸道間質腫瘤常與 KIT/PDGFRA 訊號相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med3-book4-ch20]]
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- (A) 7. 最常見的食道良性腫瘤為: 99(-) 専 (A) leiomyoma (B) gastrointestinal stromal tumor 醫五-13 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - K. 胃腸道基質瘤(Gastrointestinal stromal tumor, GIST) 48 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 1. 病理類型: - (1) 胃腺癌 (adenocarcinoma): 90%。 - (2) 類癌 (carcinoid):5%。 - (3) 惡性淋巴瘤 (lymphoma): 3%。 - (4) 惡性胃腸基質瘤 (gastrointestinal stromal tumors, GISTs): 1%。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - #### K. 胃腸道基質瘤 (Gastrointestinal stromal tumor, GIST) Source: [[sources/med5-book3-ch03|丙、胃癌]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch10]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Tuberous sclerosis complex, TSC (結節性硬化症)'
   - 'Tuberous sclerosis complex, TSC'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。 �
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch01]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 2. 淋巴血管平滑肌肉增生症(Lymphangioleiomyomatosis, LAM): - (1) 罕見多系統疾患,發生於女性為主,已侵犯肺部為主要影響,一般來說 LAM 指無合併結節性硬化症 tuberous sclerosis complex (TSC),如合併 TSC,則以 TSC-LAM 表示。 - (2) 機轉&成因:非典型類平滑肌細胞 (proliferation of atypical smooth muscle-like cells, "LAM cells") 增生所致。和 TSC 基因突變有關,尤其是 TSC2。 - (3) 臨床症狀: - a. 肺部症狀:大多數患者有肺部症狀,如:疲勞 70%、漸進性呼 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (A) 影像表現與 tuberous sclerosis 在肺部的病灶相似度高 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D)除了肺部之外,也可能會在腎臟、神經系統等部位出現異常 【詳解】(A) tuberous sclerosis 又稱為 tuberous sclerosis complex (TSC),亦為肺部侵犯所致之病灶。(C) LAM 好發於女性,故 選項描述為錯誤。(疾病特色:雙側肺侵犯、年輕女性、長期呼 吸困難、突發性胸痛。) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D) 3. 一位 42 歲女性,近 3 年來右耳聽力逐漸喪失,經常性頭暈,偶 103(一)專 而會有眩暈的現象,一星期前出現右側周邊性顏面神經麻痺(peripheral type facial palsy)。腦幹聽覺誘發電位 (brainstem auditory evoked potential)檢查發現有耳蝸後病變(retro-cochlear pathology)。 在家族史方面,患者之弟弟罹患兩側性聽神經瘤。下列何者是 - (A) 結節性硬化症(tuberous sclerosis) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (C) tuberous sclerosis (TS) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 【詳解】Tuberous sclerosis complex 是自體顯性遺傳性疾病,可分為 type 1 & type 2。因基因突變,造成患者神經細胞及髓鞘形成不良,產生結節硬化。臨床表現會有智能障礙和癲癇,其他明顯的徵象有面部血管纖維瘤、指甲纖維瘤、脫色斑、鯊魚皮斑、多發神網膜結節缺陷瘤、腦皮質結節、腦室管膜下結節、腦室管膜下巨細胞星狀瘤、腎血管肌脂肪瘤等。頭部電腦斷層可見多發性鈣化病灶。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch06]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Nephrotic syndrome (腎病症候群)'
   - 'Nephrotic syndrome'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-大量蛋白尿造成低白蛋白、水腫、高血脂與高凝固狀態。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大量蛋白尿造成低白蛋白、水腫、高血脂與高凝固狀態。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch06]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- ...| failure | ● Bronchogenic | Disease Related | ◆ Chylothorax | | ● Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - IV. 腎病症候群 (Nephrotic Syndrome) 117 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (3) 除了明顯的血尿外,有些病人會表現 acute nephritic syndrome、nephrotic syndrome 或是兩者的結合。Nephritic or nephrotic syndrome 雖然有表現高血壓,但幾乎不會引起高血壓危相(hypertensive emergencies)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 1. 小型血管發炎疾病中,以 Henoch-Schönlein purpura(HSP)最為常見,同時,在所有兒童血管炎疾病中,HSP 亦是最常見的血管炎疾病。根據 the 2012 International Chapel Hill Consensus Conference nomenclature,HSP 又稱作 IgA vasculitis。約 30%的病人在腎臟方面會有所影響。影響範圍從 asymptomatic microscopic hematuria、proteinuria、glomerulonephritis、nephrotic syndrome、acute kidney injury 甚至 chronic renal failure。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

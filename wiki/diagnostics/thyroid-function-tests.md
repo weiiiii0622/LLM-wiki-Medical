@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch15]]"
@@ -34,6 +34,10 @@ sources:
   - "[[sources/med5-book2-ch19]]"
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch09]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -48,7 +52,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +86,21 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med5-book2-ch19]]
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch09]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...2a:大小>3公分,但≤5公分。 | 或肺塌陷到肺門,包含部分或全肺阻塞性肺炎。 | | T2b:大小> 5公分,但≦7公分。 | T2a:大小> 3 公分 ,但≦ 4 公分。 | | | T2b:大小&gt;4公分,但≦5公分。 | | T3:大小>7公分。 | T3:大小>5公分,但≦7公分。 | | 或侵犯到主支氣管分支處2公分以內,但未 | 或侵犯到主支氣管分支處 2 公分以內,但未侵 | | 侵犯到分支處。 | 犯到分支處。 | | 或侵犯到胸壁、横隔、縱隔腔肋膜、壁層心 | 或侵犯到胸壁、膈神經橫隔、縱隔腔肋膜、壁 | | 包膜。或肺塌陷合併全肺阻塞性肺炎。 | 層心包膜。 | | 或同肺葉有其他腫瘤。 | 或肺塌陷合併全肺阻塞性肺炎。 | | | 或同肺葉有其他 Source: [[sources/med5-book4-ch03|丙、肺]].
+- N1 or T3 至少 IIB; N2 or T4 至少 IIIA; Source: [[sources/med5-book4-ch03|丙、肺]].
+- N3 至少 IIIB;N3+T3/4 至少 IIIC Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...propria or muscularis mucosae | | T1b* | Tumor invades the submucosa | | T2 | Tumor invades the muscularis propria | | T3 | Tumor invades adventitia | | T4 | Tumor invades adjacent structures | | T4a* | Tumor invades the pleura, pericardium, azygos vein, diaphragm, or peritoneum | | T4b* | Tumor invades other adjacent structures, such asd Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...| Any | | | T1 | N0~1 | M0 | IB | T1b | N0 | M0 | G1, X | Any | | | T2 | N0~1 | M0 | | T1 | N0 | M0 | G2~3 | Any | | | T3 | N0 | M0 | | T2 | N0 | M0 | G1 | Any | | | Т3 | N1 | M0 | IIA | | | | | Any | | | | | | | | | | - | Lower | | | | | | | | | | | Upper/middle | | | T4 | N0~2 | M0 | IIB | | | | | Upper/middle | | | T1~4 | N3 | M0 | | | Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...-| | IC | T1 | N0 | M0 | G3 | | | T2 | N0 | M0 | G1~2 | | IIA | T2 | N0 | M0 | G3, X | | IIB | T1 | N1 | M0 | Any | | | T3 | N0 | M0 | Any | | IIIA | T1 | N2 | M0 | Any | | | T2 | N1 | M0 | Any | | IIIB | T4a | N0~1 | M0 | Any | | | T3 | N1 | M0 | Any | | | T2~3 | N2 | M0 | Any | | IVA | T4a | N2 | M0 | Any | | | T4b | N0~2 | M0 | Any | | | Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 補充說明:放射性核種攝影是為了確認該病灶是否為異位甲狀腺(ectopic thyroid),若該病灶為全身僅存之甲狀腺,在無完整評估下,未保留該組織而切除會導致甲狀腺功能低下(hypothyroidism)。(感謝許耀仁醫師補充說明) Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
+- 2. 胎便塊大腸阻塞症(Meconium plug syndrome) - (1) 常見的新生兒腸阻塞,和多種疾病有關,如巨結腸症、妊娠期糖尿病、甲狀腺功能低下、囊性纖維化等。大多數有此症狀之孩童為正常,但建議進一步檢查排除巨結腸症,尤其早產或明顯有遠端小腸阻塞症狀之孩童。 - (2) 臨床表現:腹脹。 - (3) 檢查 & 診斷: KUB 顯示多段小腸氣、水溶性顯影劑灌腸(同時診斷治療)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...atory carcinoma)的敘述,何 | | | 者正確? | 醫五 -40 | | (A) 預後佳 | | | (B) 治療方式常須多管齊下,包括化學治療、放射線治療及手術治療 | | | (C) 在乳癌分期上,屬 TNM 系統的 T3 | | | (D) 這些患者常沒有腋下淋巴結轉移或全身其他器官轉移 | | | 【詳解】發炎性癌(inflammatory carcinoma)為 stage T4c,屬 | | | 於預後很差的乳癌類型,合併多處轉移,必須以多種方式治療。 | | | (C) 18. 下列那一項是乳癌最常見之早期症狀? | 100(二)專 | | (A) 乳房痛 | 醫五 -45 | | (B) 乳頭分泌物 | | | (C) 乳房硬塊 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - | Anatomic Sta | ge/Prognosti | c Groups | | |--------------|--------------|----------|----| | Stage 0 | Tis | N0 | M0 | | Stage IA | T1* | N0 | M0 | | Stage IB | T0 | N1mi | M0 | | | T1* | N1mi | M0 | | Stage IIA | T0 | N1** | M0 | | | T1* | N1** | M0 | | | T2 | N0 | M0 | | Stage IIB | T2 | N1 | M0 | | | T3 | N0 | M0 | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - | | N0 | N1 | N2 | N3 | |--------------|------|----------|------|------| | T1 | IA | IB | IIA | IIB | | T2 | IB | IIA | IIB | IIIA | | T3 | IIA | IIB | IIIA | IIIB | | T4a | IIB | IIIA | IIIB | IIIC | | T4b | IIIB | IIIB | IIIC | IIIC | | Any T, any N | • M1 | Stage IV | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -95,14 +111,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - ...|------------------|--|--| | Stage 0 | Tis, N0, M0 | | | | Stage I | T1, N0, M0 | | | | Stage II | T2, N0, M0 | | | | | T3, N0, M0 | | | | Stage IIIA | T1, N1, M0 | | | | | T2, N1, M0 | | | | | T3, N1, M0 | | | | | T4, N0, M0 | | | | Stage IIIB | T4, N1, M0 | | | | | Any T, N2, M0 | | | | | Any T, N3, M0 | | | | Stage IV | Any T, any N, M1 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (D) 4. 一位女性體檢時,意外發現有高血鈣,進一步檢查證實為原發性 107(二)專 副甲狀腺功能亢進(primary hyperparathyroidism),根據目前的 醫五-37 治療指引,有些原發性副甲狀腺功能亢進患者即使無臨床症狀 亦建議應接受手術,但下列何者除外? - (A) 骨密度檢查 T-score 小於 -2.5 - (B) 肌酸酐廓清率 (creatinine clearance) 小於 60 mL/min - (C) 血鈣超過正常值上限 1.0 mg/dL 以上 - (D) 年齡大於 60 歲 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- 內分泌外科共分甲狀腺、副甲狀腺、胰島和腎上腺四大部分。甲狀腺重點在甲狀腺功能評估和疾病診斷、甲狀腺癌種類的分辨和甲狀腺術後併發症。副甲狀腺重點為機能評估。胰島重點在於分辨各種胰島細胞瘤之症狀、診斷和處置。腎上腺重點為Cushing syndrome 和嗜鉻細胞瘤。 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...ne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancreatitis)、poor in Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- ...au sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 其他情感疾患: - 一般醫學狀況造成的情感性疾患:如甲狀腺功能亢進之病人往往會有類似躁症(mania)發作。 - 物質誘發之情感性疾患:如酒精、安非他命在戒斷時期會出現憂鬱症狀。 - ■其他未註明之情感性疾患。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 
 ## Clinical Caveats
 

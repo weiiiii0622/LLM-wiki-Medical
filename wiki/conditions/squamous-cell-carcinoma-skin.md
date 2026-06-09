@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch11]]"
@@ -10,6 +10,9 @@ sources:
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch06]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Cutaneous squamous cell carcinoma, cSCC (皮膚鱗狀細胞癌)'
   - 'Cutaneous squamous cell carcinoma, cSCC'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,21 @@ tags:
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch06]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 1. 惡性腫瘤中,以鱗狀上皮細胞癌(squamous cell carcinoma)最常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(ac Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ### Squamous cell carcinoma L category\*\*\* Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...ted" cancers reveals a squamous cell component, of if after further testing they remain undifferentiated, categorize as squamous cell carcinoma G3; \*\*\*, location is defined by epicenter of esophageal tumor. Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 1. 原發性腫瘤:鱗狀上皮細胞癌佔 2/3,其餘為類腺囊狀癌(adenoid cytsic carcinoma)。 - (1) 鱗狀上皮細胞癌(SqCC):可以局部、散在性或多發性,呈往外生長或潰瘍,約 1/3 病患一發現就有局部侵犯和轉移。 - (2) 類腺囊狀癌(Adenoid cystic carcinoma):舊稱柱狀瘤(cylindroma),腫瘤向黏膜內生長或沿著神經散佈。慢性生長腫瘤,主要侵犯氣管和主支氣管,1/3 在主支氣管發生,1/3 發現時已轉移,治療以腫瘤全部切除合併縱隔腔淋巴廓清,並盡量保留肺,放療可治療約 1/3 無法進行手術切除的患者。 Source: [[sources/med5-book4-ch06|己、氣管]].
+- (B) 1. 最常見的原發氣管內惡性腫瘤為: 107 (一) 專 醫五-27 (A) adenocarcinoma (B) squamous cell carcinoma (C) small cell carcinoma (D) carcinoid tumor (C) 2. 氣管分岔處(carina)在胸部 X 光所在的高度約相應於脊椎那一 106 (二) 專 醫五-18 個部位? (A) C6 (B) T1-2(C) T4-5(D) L2-3(D) 3. 有關 adenoid cystic carcinoma of lung 之敘述,下列何者正確? 105(二)專 ①大部分發生於肺周邊組織 ②大部分腫 Source: [[sources/med5-book4-ch06|己、氣管]].
+- | (A) | 6. 氣管最常見的惡性腫瘤為: | 100(一)專 | |-----|--------------------------------------------|---------| | | (A) squamous cell carcinoma | 醫五 -35 | | | (B) adenoid cystic carcinoma | | | | (C) carcinoid | | | | (D) adenoma | | | (C) | 7. 氣管為一管狀器官,下列關於其敘述何者為錯? | 99(一)專 | | | (A) 氣管為可移動的器官,在進行手術時常須將頸部伸展 | 醫五 -14 | | | (hyperextension) | | | | (B) 喉返神經位於氣管和 Source: [[sources/med5-book4-ch06|己、氣管]].
+- (3) 鱗狀細胞癌 (squamous cell carcinoma, SqCC): - a. 佔 30% 肺腫瘤,約 2/3 在中央發生,且易從外壓迫氣管,SqCC 易產生腫瘤中央壞死(central necrosis)和開洞(cavitation),組織學上呈現角質化(keratinization)、複層化(stratification)、細胞間橋(intercellular bridge Source: [[sources/med5-book4-ch03|丙、肺]].
+- (A) 肺鱗狀細胞癌 (squamous cell carcinoma) 在臺灣最常見 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (B) 3. 有關肺癌的描述,下列何者正確?① adenocarcinoma 是最常見的 細胞型 ② squamous cell carcinoma 的發生與抽菸最有關聯 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (5) 鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma):為 SCC,非 adenocarcinoma。早期治療是以腹部會陰切除術(abdomino-perineal resection, APR)為首選,將直腸肛門做根治性的切除及製作永久人工造口術,對於 early stage 的效果好。現在以結合放射線治療和化學治療為主流,可提供相當程度的治療率,並且保持肛門的功能。但假使病患有需要做人工造口或有大便失禁的情形、對於電療化療 contraindicated、或是電化療失敗者,仍應考慮 APR。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - a. 組織型態:從好到不好排列(根據 Mayo Clinic, low grade SCC, high Grade SCC, non-keratinizing basaloid tumor, small cell anal cancer)從好到不好排列。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | | situ),不是腺癌。 | _ | | (C) 17. 有關直腸癌的經肛門局部切除治療,下列敘述何者錯誤? | 102(二)專 | | (A) 須小於 4 公分的 T1 和 T2 癌瘤才可使用 | 醫五-54 | | (B) 癌瘤須在離肛門口 6 公分以內的範圍才能採用此療法 | | | (C) T1 和 T2 的癌瘤皆不需再接受進一步的治療 | | | (D) 癌瘤必須是分化良好或中度分化者 | | | 【詳解 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
@@ -46,10 +61,6 @@ tags:
 - 【詳解】脂漏性角化症為良性上皮增生,而 (A)(B)(C) 都有轉化為 SCC 的機會,Bowen's disease 即為 SCC in situ,erythroplasia of Queyrat 是指長在 Glans penis 上的 Bowen's disease。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 2. 砷最出名的即鳥腳病:周邊動脈硬化(PAOD),造成足部潰瘍和壞死。除此外, 慢性砷中毒於皮膚上會有黑白斑駁的色素不均以及手掌、腳掌點狀角化。於非陽光 曝曬部位容易轉變為 Bowen's disease (SCC in situ), 進而惡化為 SCC。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (C) 患部皮膚可併發皮膚鱗狀上皮細胞癌 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 【詳解】Erythema ab igne(火激紅斑),為皮膚長時間近距離 暴露於熱源(暖暖包、電暖器)所致,造成皮膚血管擴張、色 素沉著,形成網狀紅斑。長期下來會有轉化為鱗狀上皮細胞癌 的風險。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 【詳解】圖A可見落髮的地方有一塊全白,連毛囊孔都形成疤痕萎縮關閉,圖B下方可見毛囊內部有許多發炎細胞浸潤破壞,已無法再生長新髮,為永久性掉髮,統稱瘢痕性禿髮(scarring alopecia)。許多疾病皆能造成 scarring alopecia,例如物理性傷害(放射線治療、灼傷)、感染(細菌、病毒、黴菌)、化學性傷害(強酸強鹼)、皮膚病(紅斑性狼瘡、硬皮病)、腫瘤(BCC、SCC)等。治療方法為將疤痕處切除掉縫合、植髮手術。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- (2) HPV 會在皮膚或黏膜上形成增生性病變,多為良性,但有可能在子宮頸、會陰、 陰莖和肛門惡化為 SCC(主要和 HPV type 16、18、31、33 有關)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (3) 臨床表現上分為皮下及全身性,皮下症狀為會癢的丘疹為主,但鮮少會感到疼痛;全身性的感染通常經由呼吸道,病原菌亦可能經由血行而散播至腦、淋巴結、肝、肺及其他臟器。有被報告過會轉為 SCC。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

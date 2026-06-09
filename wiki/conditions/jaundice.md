@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch19]]"
@@ -51,6 +51,8 @@ sources:
   - "[[sources/med5-book3-ch14]]"
   - "[[sources/med5-book3-ch15]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Jaundice (黃疸)'
   - 'Jaundice'
@@ -65,7 +67,7 @@ tags:
 
 ## Summary
 
-黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +118,15 @@ tags:
 - [[sources/med5-book3-ch14]]
 - [[sources/med5-book3-ch15]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch12]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- A. 新生兒黃疸(Neonatal jaundice) 174 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- 常用縮寫:總膽紅素(total bilirubin, T.B.)、間接(非結合型)膽紅素(indirect/unconjugated bilirubin, I.B.)、直接(結合型)膽紅素(direct/conjugated bilirubin, D.B.) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- ### A. 新生兒黃疸 (Neonatal jaundice) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 1. 膽色素的代謝:首先要知道膽色素如何代謝,才會了解為什麼會有 jaundice 的產生。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - (1) 衰老紅血球進入脾臟,分解後得到 bilirubin,與 albumin 結合後藉由血流會被送到肝臟,此時為非水溶性,稱為未結合型膽色素(unconjugated bilirubin)。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - (2) 進入肝臟的膽色素經由肝細胞的作用後,與 Glucuronic acid 結合,轉變結合型 膽色素(conjugated bilirubin),為水溶性,接著被排入膽管進入膽囊,再經由 總膽管流入十二指腸中。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
@@ -133,10 +141,6 @@ tags:
 - ...cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - d. Bilirubin (mg/dL) - (a) 1.2~1.9:1分 - (b) 2.0~5.9:2分 - (c) 6.0~11.9:3分 - (d) > 12.0:4分 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (D) 13.50 歲男性肝臟移植術後第七天,出現右上腹痛及輕微發燒, 100(二)專 g-GT、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的肝功能正常且與國 醫五-79 明有相同基因,但醫師並沒有提出要摘取大維肝臟 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 12. 黃疸(jaundice): 通常發生在使用藥物的第一個月內,如 chlorpromazine(發生率約為 1/1,000)、promazine、thioridazine、fluphenazine、trifluoperazine。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- IV. 新生兒黃疸 (Neonatal Jaundice) 460 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 2. 新生兒臨床表現:常見的表現有胎兒時期發育不良、早產、肝臟腫大伴隨 direct bilirubin升高、發展遲緩等。有些則在胎兒時期死亡。以下為病原體感染其特殊表現: Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (4) B 型肝炎:HBs-Ag、HBs-Ab、HBc-Ag、HBc-Ab、liver enzymes and bilirubin。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

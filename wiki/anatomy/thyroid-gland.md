@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch14]]"
@@ -61,6 +61,12 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book3-ch22]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch09]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch08]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Thyroid gland (甲狀腺)'
   - 'Thyroid gland'
@@ -75,7 +81,7 @@ tags:
 
 ## Summary
 
-甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -136,9 +142,25 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book3-ch22]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch09]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch08]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- G. 甲狀腺腫瘤(Thyroid tumor) 70 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- The lymphatic drainage of the thyroid (Moore et al. 2010. pp. 1021). Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 3. 頸部中線腫瘤:有甲狀舌骨囊腫(thyroglossal duct cysts)、淋巴結腫大(enlarged lymph nodes)、皮樣囊腫(dermoid cysts)、血管瘤(hemangiomas)、甲狀腺椎體葉(pyramidal lobes of the thyroid)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
+- 5. 最常見的孩童惡性腫瘤:肉瘤(sarcomas)、淋巴瘤(lymphomas)、轉移性甲狀腺癌(metastatic thyroid carcinoma)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
+- 2. 機轉 & 成因:甲狀舌骨殘跡包含胚胎發育過程的甲狀腺、舌頭和舌骨。腫塊範圍 從舌頭基部到甲狀腺椎葉,如果甲狀腺移行完全失敗就會形成舌部甲狀腺。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
+- 4. 血管架構: 豐富的血管淋巴組織營養和引流食道,也提供了手術血液供應安全網絡, 但也成了腫瘤轉移的方便路徑。 - (1) 頸部血管網:主要由左右下甲狀腺動脈(inferior thyroid arteries)供應,左側來 自胸甲狀腺動脈幹分枝,右側來自鎖骨下動脈分枝。【註:環咽肌非食道本身 結構,由上甲狀腺動脈供應。】 - (2) 胸部血管網:由6條源自於主動脈和支氣管動脈的分枝供應,分別是下甲狀腺動脈下降支 (descending branches off the inferior thyroid arteries)、肋間動脈 (intercostal arteries)和成對的下 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...al nerve)神經和 喉返(recurrent laryngeal)神經。 - a. 上喉神經:分出外喉神經和內喉神經,支配下咽縮肌 (inferior pharyngeal constrictor muscle)、環甲肌 (cricothyroid muscle) 運動和喉部感覺。 - b. 喉返神經: 左喉返神經繞過主動脈弓,右喉返神經繞過右鎖骨下動脈,兩者向上沿著食道氣管凹陷,返回喉部,分出下喉神經。支配頸段食道和環咽縮肌運動。負責聲帶以下食道感覺,及下咽縮肌和後環杓肌。 - c. 單邊上喉或喉返神經受損:造成聲音沙啞(hoarseness)和食入氣道(aspiration)。 - d. 胸段食道:迷走神經支配橫紋肌,副交感神經支配平滑肌,神經呈網狀神經分佈,在肌肉層形成奧氏 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...ssion of soft palate) | | | | (D) 舌骨上升 (elevation of the hyoid) | | | (A) | 3. 對於食道的主要血液供應,下列何者錯誤? | 103(一)專 | | | (A) 上甲狀腺動脈 | 醫五 -29 | | | (B) 下甲狀腺動脈 | | | | (C) 胸主動脈 | | | | (D) 左胃動脈 | | | (C) | 4. 就解剖位置而言,食道有三個狹窄部位,下列何者錯誤? | 103(一)專 | | (0) | (A) cricopharyngeus muscle 處 | 醫五-31 | | | (B) 食道與左主支氣管交會處 | | | | (C) 食道與肺靜脈交會處 | | | | (D) 食道與 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...管管徑較小,優先建議使用無袖口氣囊(un-cuffed)氣管內管。 - b. 氣管內管之管徑選擇: 概估約等於孩童的小指寬,或以公式 4 + age (yr) / 4 French 來計算最佳管徑。 - c. 環狀甲狀軟骨切開術(Cricothyroidotomy): 因小於 12 歲以下孩童氣管較軟,不建議使用。 - (2) Circulation:輸液和輸血。 - a. 晶體溶液(crystalloid)快速灌注(bolus)以 20 mL/kg 來補充流失的體液。對於小於 6 歲孩童靜脈注射(IV)並非安全穩固的輸液管路,可考慮骨內注射(intraosseous, IO)。當失血超過預估總血量的 50% 或以雙倍灌注 40 mL/kg 輸液後仍明顯有低血容生命徵象表現時,為啟動輸 Source: [[sources/med5-book4-ch08|甲、概 論]].
 - (B) familial thyroid cancer Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 【詳解】青春期前的孩童出現的乳房腫塊通常為乳房早熟的乳 芽發育,為一良性的表徵。若單側乳房早熟通常追蹤即可,若 是雙側乳房早熟必須考慮甲狀腺低下或性早熟的情形。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - ...以決定是否為 | 107(二)專 | | ( ) | 高危險病患時,下列何項不必 | | 醫五 -40 | | | (A) 停經在 55 歲之後 | | | | | (B) 未產婦(nulliparity) | | | | | (C) 曾有甲狀腺病史 | | | | | (D) 初經小於 12 歲 | | | | | 【詳解】乳癌的 risk factor 與F | | | | (D) | | | 107 ( ) = | | (B) | 9. 乳癌最常見轉移部位為下列何 | | 107 (一) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭 Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -147,16 +169,6 @@ tags:
 - F. 單一甲狀腺結節 (Solitary thyroid nodule) 201 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - B. 副甲狀腺機能亢進(Hyperparathyroidism, HPT) 220 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - C. 原發性副甲狀腺機能亢進 220 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- D. 副甲狀腺癌(Parathyroid carcinoma) 222 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- 1. Parathyroid hyperplasia/adenoma (95%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- 2. IIB: - (1) Medullary thyroid carcinoma (100%) • - (2) Pheochromocytoma (50%) • - (3) Mucosal and gastrointestinal neuroma • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- (B) 臨床上常見的大腸 pseudo-obstruction 原因以 secondary 為主, 主要和合併使用嗎啡類止痛藥、甲狀腺機能異常、糖尿病、 腎毒症等因素有關 Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
-- 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- d. Hypothyroidism:對冷敏感、黏液性水腫、皮膚乾燥、毛髮粗糙、反應遲鈍。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...syndrome (B) 為避免 refeeding syndrome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutritio Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- ...接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancreatitis)、poor Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 
 ## Clinical Caveats
 
@@ -166,6 +178,7 @@ tags:
 ## Related Pages
 
 - [[conditions/goiter|Goiter (甲狀腺腫)]]
+- [[conditions/thyroglossal-duct-cyst|Thyroglossal duct cyst (甲狀舌骨囊腫)]]
 
 ## Follow-up
 

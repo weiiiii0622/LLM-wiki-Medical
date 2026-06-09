@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch08]]"
@@ -98,6 +98,8 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Hypertension (高血壓)'
   - 'Hypertension'
@@ -112,7 +114,7 @@ tags:
 
 ## Summary
 
-血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -210,9 +212,13 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- 3. 好發族群:BMI 過高、惡性腫瘤、抽菸、高血壓、手術、服用避孕藥。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...%,最好發於 3~4 歲。雙側腫瘤佔 13%,同時發生 (synchronous) 佔 60%,異時發生 (metachronous) 佔 40%。 - (4) 臨床表現:於洗澡或例行檢查發現可觸摸之腹部腫塊(60%),通常無合併其他症狀。高血壓(25%)、血尿(15%)。 - (5) 關聯疾病:以下患者需持續追蹤,可能發生成人型 WT。 - a. Denys-Drash syndrome (WT, intersex disorder, and progressive nephropathy) • - b. WAGR syndrome (WT, aniridia, genitourinary anomalies, mental retardation) • - c. Beckw Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - 【詳解】(D) 在 portal hypertension 的情形之下,會導致 portal system 與 venous system 產生 collateral vein,也就是我們所說的 varices,增加出血的風險。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - (C) 8. 門脈高血壓患者,血液經肝臟回流受阻,下列何者不會造成靜99(ニ)專脈曲張 (varices)?醫五-50 - (A) Esophageal veins - (B) Paraumbilical veins Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - ...| | | 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -229,8 +235,6 @@ tags:
 - (B) 4.54 歲男性因嚴重高血壓合併低血鉀症多次來急診室處理,初步 106(-)專 診斷疑有 hyperaldosteronism,手術前的病灶定位以何者之敏感 醫五-42 性(sensitivity)最高? - (A) 超音波掃描 - (B) 電腦斷層掃描 - (C) 鉈掃描 (thallium-201 scan) - (D) 血管造影術 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - (2) VFWR的危險因子有年老、女性、高血壓、第一次MI和冠狀動脈側枝循環不良。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - 3. 常見造成動脈瘤的因子如下: - (1) 先天血管壁異常 (medial gap)。 - (2) 動脈硬化。 - (3) 高血壓。 - (4) 感染 (mycotic aneurysm)、外傷等。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- (D) 1. 傳統預防腦動脈瘤破裂出血後的腦血管痙攣(cerebral vasospasm) 108( ) 専有所謂的 "Triple-H" therapy,下列何者不包含於 Triple-H ? - (A) hypervolemia - (B) hypertension - (C) hemodilution - (D) hyperventilation Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- 情況: 57 歲王先生平時有高血壓但無規則服藥控制,在家中看電視時突發劇烈頭痛合併頸部僵硬,因頭痛難耐被送至急診室,腦部電腦斷層檢查如下圖。請依此回答下列第8題至第9題: Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 
 ## Clinical Caveats
 

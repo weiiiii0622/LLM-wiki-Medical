@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch08]]"
@@ -30,6 +30,8 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book3-ch23]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book4-ch01]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Echocardiography (心臟超音波)'
   - 'Echocardiography'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,13 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book3-ch23]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book4-ch01]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- (2) 其他術前評估:肺功能測定(10 歲以上患者)、心電圖、心臟超音波,因常合 併先天性心臟病。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
+- (1) CXR:檢查脊椎和心臟。如心臟有合併異常須排心臟超音波。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (A) 乳房簡單性水瘤 (simple cyst) 在超音波檢查呈現,邊緣平滑,內在無音波 (echo-free) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 【詳解】此題一樣是在考乳癌可能轉移部位,可使用 PET、bone scan、liver echo 去評估轉移的可能性。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 2. CT: 搭配顯影劑,能看出主動脈剝離的位置和範圍,分辨真腔和假腔。以及是否 有心包填塞、血胸的情況。 - (1) 如下圖為一個 Type A 的主動脈剝離,內膜與中膜分離後被血液充滿形成的假腔,和真腔之間以剝離內膜瓣(intimal flap)分隔。假腔的結構通常比真腔還大,由於假腔充滿相對比較不流動的血液,顯影劑比較難進入,因此 contrast-CT 下假腔會比真腔還暗。 - (2) 假使假腔有另一個出口,使得假腔也有血流,則真腔和假腔就會比較難分辨。 - (3) 當病人對顯影劑過敏,或是有 renal insufficiency 的情形,可改用 MRA 或是經 食道心臟超音波 (transesophageal echocardiography, TEE) 檢查。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
@@ -93,8 +99,6 @@ tags:
 - (1) 傳統檢查:包含胸部 X 光、abdominal echo、CT 或 MRI 等,以檢查是否有器官轉移。但須在腫瘤大於 1 公分以上才能顯像,且無法確定是否是真的轉移惡性腫瘤或其他良性的病變。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 6. 診斷:以外科方式治療為最終目標。 - (1) 胸部 X 光: 典型表現為靴子形狀(boot-shaped)心臟(但心臟大小正常)、肺血管紋減少,有時可以看到右位主動脈弓。 - (2) 心電圖:電軸右偏(顯示右心室肥大)。 - (3) 心臟超音波:可以用來確立診斷。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 屬於嚴重型的法洛氏四合症。但是沒有如典型 TOF 表現的心雜音。臨床發紺的嚴重度與側枝循環是否充足有關;側枝循環血液足夠的話病人發紺程度會較輕。此外,病人的心電圖呈現右心室肥大。在心臟超音波下病人右心室壁的增厚以及肺動脈閉鎖。胸部 X-ray 影像學下心臟不一定肥大,視肺血流量多寡而定。預後則視本身肺動脈大小而定,最終仍是要以外科方式治療。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (3) 心臟超音波:可以發現三尖瓣被 fibromuscular membrane 取代、較小的右心室、 左心室變大與不同程度的 VSD 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 心臟超音波:可發現心房中膈凸向左心房、通過卵圓孔或動脈導管的右向左分流。另外,亦可以見到三尖瓣逆流,可用來評估肺高壓的程度。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

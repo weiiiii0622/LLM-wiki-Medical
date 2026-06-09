@@ -2,7 +2,7 @@
 type: index
 status: draft
 created: 2026-06-07
-updated: 2026-06-08
+updated: 2026-06-09
 sources: []
 tags:
   - medicine

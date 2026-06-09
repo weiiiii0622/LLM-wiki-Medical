@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch20]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book4-ch04]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Antifungal agents (抗黴菌藥物)'
   - 'Antifungal agents'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book4-ch04]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- (b) 針對麴菌:不建議抗黴菌藥物,因麴菌瘤血液供應差。可考慮 amphotericin B 和 voriconazol。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (C) 1.45 歲男性,5年前右上肺葉有一空洞性病變,經診斷為肺結核 95(一)專 後,經治療一年後完成治療,痰培養轉為陰性,但空洞仍在。病 人最近數月有咳血現象,胸部 X 光檢查空洞內出現塊狀物,支 氣管痰液培養有放射黴菌(Aspergillus),應作下列何種治療最 為有效? - (A) 給予抗黴菌藥物 - (B) 作支氣管血管栓塞 - (C) 如肺功能許可,作手術切除 - (D) 給予靜脈注射抗出血藥物 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 治療:Amphotericin B + flucytosine for 6~10 weeks。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (B) 口服 fluconazole Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - b. 內服療法: 適用於頭癬及甲癬,或局部療法效果不佳、病灶廣泛之慢性皮癬患者。 - (a) Terbinafine (療黴舒):屬殺黴菌藥物,治療皮黴菌約需 2~4 週,手指甲 癬需 6 週,而腳趾甲癬約需 12 週。治癒率為 80~90%,但對汗斑及念珠 菌感染無效。 - (b) Itraconazole (適譜諾):由於對肝臟損害少,有取代老藥 Ketoconazole 之趨勢,屬於抑黴菌藥物而非殺黴藥物。但因屬 imidazole 類之廣效製劑,故對汗斑及念珠菌感染亦具療效。 - (c) Griseofulvin(灰黃黴素):只對皮癬菌有效,為傳統口服抗黴菌藥物,只具有抑菌效果,主用於頭癬和灰指甲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -57,7 +61,6 @@ tags:
 - b. 若致病菌是 Fluconazole 無效的念珠菌(*C. glabrata, C. krusei*)或對 fluconazole 治療無效,可考慮用 IV Caspofungin 或 Voriconazole。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - b. 雖然隱球菌對 fluconazole 也有效,但腦膜炎—開始需用 Amphotericin B 0.7 mg/kg/d IV 及 5-flucytosine 25 mg/kg PO q6h 達 2~3 週,再改口服 fluconazole 400 mg PO qd 達 8~10 週,再繼續用 200 mg PO qd 治療至少一年。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - ...) Klebsiella pneumonia【詳解】若是細菌性的,Protein>100 mg/dL,白血球 >1,000 mL。 | | | (D) | 2. 承上題,腦脊髓液培養初步結果顯示有 yeast,下列處置何者錯誤?(A) 給 amphotericin B + flucytosine | 108(一)專醫三-65 | | | (B) 檢查 HIV screening test | | | | (C) 照胸部 X 光,抽血做黴菌培養及抗原檢測 | | | | (D) 給 echinocandin 類藥物 | | | | 【詳解】依照 candida meningitis 治療。 | | | (D) | 3. 下列何者不是瘧疾預防性藥物? | 103(二)專 | | | (A) chlo Source: [[sources/med3-book3-ch21|丑、原 蟲]].
-- (b) 血壓正常:若為腎小管本身病變,可由動脈血的酸、鹼進一步鑑別診斷。 - i. 若合併酸中毒,考慮酮酸中毒、腎小管酸中毒第二型(多發性骨髓瘤) 或部分的第一型(紅斑性狼瘡腎病變等)、使用 Amphotericin B 等。 - ii. 若合併鹼中毒,可能是使用利尿劑造成低血鉀,或其他腎小管病變,如 以下兩個狀況: Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch22]]"
   - "[[sources/med3-book2-ch17]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Liver transplantation (肝臟移植)'
   - 'Liver transplantation'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-末期肝病、部分 HCC 或肝衰竭的根本治療選項。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+末期肝病、部分 HCC 或肝衰竭的根本治療選項。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch16]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- (1) 30% 病童在出生後 60 日內執行手術治療後,長期預後極佳,無需肝臟移植。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (2) 較晚執行手術或已經呈現橋狀纖維化(bridging fibrosis)則預後較差,部分醫師會採取先行手術並將患者排入肝臟移植名單,但患者仍會持續的肝纖維化而進展成門脈高壓和膽汁鬱積。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (C) 多數病患接受葛西氏手術(Kasai's operation)後預後良好,不需肝臟移植 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - a. 根據 Milan criteria,決定病人是否適合接受肝臟移植。 - (a) 單顆腫瘤:尺寸必須小於或等於5公分。 - (b) 多發性腫瘤:數目必須小於等於三顆,尺寸最大者必須不大於3公分。 - (c) 沒有大血管的侵犯。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】在肝臟移植方面,歐美國家以MELD score 為評估方式,項目包含總膽紅素(total bilirubin)、凝血時間(INR)、腎功能(creatinine level)。以下列公式計算: MELD = 3.78 [Ln serum bilirubin (mg/dL)] + 11.2 [Ln INR] + 9.57 [Ln serum creatinine (mg/dL)] + 6.43 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 14. 肝癌病人若因肝功能過差而無法手術切除者,可考慮肝臟移植手 104(-)專 術,但應符合米蘭規約(Milan criteria),其中不包括: 醫五-33 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -66,6 +71,7 @@ tags:
 
 - [[procedures/hepatectomy|Hepatectomy / liver resection (肝切除術)]]
 - [[conditions/hepatocellular-carcinoma|Hepatocellular carcinoma, HCC (肝細胞癌)]]
+- [[procedures/kasai-portoenterostomy|Kasai portoenterostomy (Kasai 肝門腸吻合術)]]
 - [[conditions/liver-cirrhosis|Liver cirrhosis (肝硬化)]]
 - [[concepts/organ-transplantation|Organ transplantation (器官移植)]]
 

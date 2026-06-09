@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch06]]"
@@ -37,6 +37,7 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch17]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Aortic aneurysm (主動脈瘤)'
   - 'Aortic aneurysm'
@@ -51,7 +52,7 @@ tags:
 
 ## Summary
 
-主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +89,11 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch17]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- Thoracic aneurysm repair Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (B) 8. 其診斷為何? - (A) 腸繋膜囊腫 - (B) 腹部主動脈瘤 - (C) 胰臟尾部腫瘤 - (D) 下腔靜脈血栓 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 【詳解】此電腦斷層可以看到腹主動脈的表現為腹主動脈瘤。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 【詳解】腹主動脈瘤的治療方法主要為外科手術治療,治療時機如下:(1)直徑大於5公分可考慮手術。(2)動脈瘤有逐漸擴大的情形。(3)主動脈瘤已破裂。(4)出現持續性的症狀如腹痛、腹腔出血,下肢麻痺等症狀。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
@@ -108,7 +111,6 @@ tags:
 - ...osion of infarcted myocardium at the border between the infarcted and viable myocardium $\circ$ - c. Type III: an early aneurysm formation correlated with older and severely expanded infarcts • Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - B. Aneurysmal SAH 146 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - H. Aneurysmal SAH 的外科處置 149 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- ## B. Aneurysmal SAH: 顱內動脈瘤破裂引發的 SAH Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 
 ## Clinical Caveats
 
@@ -117,6 +119,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/blunt-aortic-injury|Blunt aortic injury (鈍傷性主動脈損傷)]]
 - [[procedures/endovascular-aneurysm-repair|Endovascular aneurysm repair, EVAR (血管內主動脈瘤修補)]]
 
 ## Follow-up

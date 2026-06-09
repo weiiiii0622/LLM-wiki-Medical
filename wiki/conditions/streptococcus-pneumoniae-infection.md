@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch14]]"
@@ -22,6 +22,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Streptococcus pneumoniae infection (肺炎鏈球菌感染)'
   - 'Streptococcus pneumoniae infection'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch05]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- 2. 致病菌:過去常為鏈球菌(Streptococcus)或肺炎球菌(Pneumococcus)肺炎引起,現在葛蘭氏陰性菌(Gram-negative)和厭氧菌(anaerobic)也很常見,近期結核菌膿胸也突然增加。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 急性心內膜炎:病情較惡,病人大多無潛在性心臟病灶,常見致病菌為 S. aureus、Streptococcus pyogenes、Streptococcus pneumoniae、Pseudomonas aeruginosa。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (3) 移植六個月之後,移植受贈者的情況較穩定,感染就跟一般社會大眾一樣 (community-acquired),如流感、泌尿道感染及肺炎雙球菌肺炎。唯一伺機性 病毒感染為 herpes zoster;而 CMV 視網膜炎則較罕見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - | 病源菌 | 盛行率 | 對 Amoxicillin 抗藥性 | 自行緩解 | |--------------------------|-------|-------------------|------| | Streptococcus pneumoniae | 50% | 50% | 20% | | Hemophilia influenza | 25% | 40% | 40% | | M. catarrhalis | 12.5% | 100% | 80% | Source: [[sources/med4-book1-ch04|丁、感染科學]].
@@ -78,7 +81,6 @@ tags:
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ## C. 肺炎雙球菌 (Streptococcus pneumoniae) Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ...--------------------------|------| | | 觸媒陰性 | Streptococcus 鏈球菌 | S. pyogenes, S. agalactiae, Enterococcus, S. viridan, S. pneumoniae | . 嗜氧 | | | 產孢子 | Bacillus 桿菌屬 | B. anthracis, B. cereus | 嗜氧 | | 革蘭氏陽性 | 座10丁 | Clostridium 梭狀桿菌屬 | C. botulinum, C. tetani, C. perfringens, C. difficile | 厭氧 | | 桿菌 GPB(B) | 小金畑子 | Corynebacterium diphtheria | ne ( 白 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 革蘭氏陽性球菌 (GPC = Gram positive cocci),由觸媒 (Catalase)的有無分為兩大類,葡萄球菌為觸媒 (Catalase)陽性、鏈球菌為觸媒 (Catalase)陰性;另外,球菌的群聚情形也可幫助鑑別,A 群、B 群、D 群鏈球菌皆是鏈狀排列 (in chain),肺炎雙球菌是兩個成對排在一起 (in pair),葡萄球菌則為群聚 (in cluster),整理如下表: Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

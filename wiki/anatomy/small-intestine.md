@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch03]]"
@@ -43,6 +43,11 @@ sources:
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch15]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book4-ch13]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Small intestine (小腸)'
   - 'Small intestine'
@@ -57,7 +62,7 @@ tags:
 
 ## Summary
 
-小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +105,24 @@ tags:
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch15]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch12]]
+- [[sources/med5-book4-ch13]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- 2. 胎便塊大腸阻塞症(Meconium plug syndrome) - (1) 常見的新生兒腸阻塞,和多種疾病有關,如巨結腸症、妊娠期糖尿病、甲狀腺功能低下、囊性纖維化等。大多數有此症狀之孩童為正常,但建議進一步檢查排除巨結腸症,尤其早產或明顯有遠端小腸阻塞症狀之孩童。 - (2) 臨床表現:腹脹。 - (3) 檢查 & 診斷: KUB 顯示多段小腸氣、水溶性顯影劑灌腸(同時診斷治療)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...--|----------| | | 最可能的診斷為何? | 醫五 -38 | | | (A) 幽門狹窄(pyloric stenosis) | | | | (B) 十二指腸閉鎖(duodenal atresia) | | | | (C) 小腸閉鎖 (intestinal atresia) | | | | (D) 肛門閉鎖 (imperforate anus) | | | | | | | (B) | 2. 有關小腸閉鎖(intestinal atresia)的病人,對於其可能發生的症 | 104(二)專 | | | 狀,下列何者錯誤? | 醫五 -43 | | | (A) 腹部腫脹 (B) 羊水過少 | | | | (C) 有膽汁的嘔吐物 (D) 稀疏的胎便 | | | | Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 1. 胚胎學:正常的腸轉位過程,在妊娠 4 週時,中腸從臍帶環脫疝,在妊娠 10 週時,復位回腹腔並以小腸腸繋膜動脈為軸,逆時針轉 270 度,最後十二指腸韌帶 (ligament of Treitz) 位於左上腹,盲腸(cecum) 在右下腹。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (C) 小腸閉鎖 (intestinal atresia) Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...腔和 後縱隔間滑動。(圖三 C) - (4) Type IV (herniation of organs other than stomach into the chest):除了胃之外還有其他腹腔內的器官如大網膜(omentum)、大腸、小腸或脾臟也一起進入胸腔。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (B) paraesophageal hiatal hernia 指的是腹部的大腸、小腸等 herniation to the chest Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (9) 肝膽道閃爍攝影(hepatobiliary scintigraphy/scan): - a. 名稱很多樣化: DISIDA 核子閃爍攝影、Tc-99m-DISIDA 肝膽道攝影 (hepatobiliary scintigraphy/scan)。 - b. 少部分仍無法確診的病童須進行此項檢查,利用亞氨基甲二乙酸類似物讓肝臟代謝,可發現正常的肝吸收,但卻沒有排出到小腸,有時可利用苯巴比妥(phenobarbital)增加此檢查敏感性。亞氨基甲二乙酸(Iminodiacetic acid) = HN(CH2CO2H)2。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (3) Kasai procedure 為肝門小腸造瘻術(hepatoportoenterostomy),切除閉鎖膽道和重建膽道引流至小腸,可改善早期存活率,避免進展性肝內膽道破壞造成慢性發炎,纖維化,肝硬化。如失敗,則會造成生長遲緩,反覆膽道炎,最後進展為末期肝病,則必須做肝移植。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- 1. 機轉 & 成因:為一有膜包覆腹部臟器膨出,膜的外層為羊膜(amnion)而內層為 腹膜(peritoneum),其大小依腹壁缺陷程度而異,小至部分小腸脫疝,大至小腸肝 臟脫疝。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
+- 2. 合併異常:很少合併其他異常,唯一例外是合併小腸閉鎖佔 10~15% 病童。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
 - #### 丁、小腸腫瘤(Tumors of small intestine) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 1. 小腸腫瘤大約佔所有消化道癌症的 1~3%,相對胃癌與大腸癌而言少見。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 2. 一般而言小腸腫瘤以惡性腫瘤居多,約佔70%。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
@@ -111,16 +131,6 @@ tags:
 - ...ut pancreatectomy: Partington-Rochelle's modification of Puestow procedure - b. Drainage procedure with pancreatectomy (duodenum preserved): Puestow procedure (resection of pancreatic tail) The Berger procedure (resection of pancreatic head) The Frey procedure (resection of pancreatic head) - c. Pancreaticoduodenectomy (PD): Whipple procedure, PP Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ①這張圖可見擴張的胰管。將 pancreas 切開後, 也將 B 處的 jejunum 切開往上拉到 pancreas 處 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - (2) Combined pancreatic duct drainage and pancreatric head lesion resection: 分為 The Berger procedure、The Frey procedure。 - a. The Berger procedure( Duodenum-preserving pancreatic head resection, DPPHR ) : - (a) C-loop 將被保留下來。 - (b) 胰臟從 portal vein 處截 斷,胰頭大部分是被切 掉的,但是會留一小部 分殘餘在 C-loop 上。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 3. 傾食症候群 (Dumping syndrome): - (1) 前言: - a. 當胃部切除手術後,胃部的儲存容積下降,食物將會快速進入小腸,大量刺激後導致一系列的症狀出現。 - b. 在胃部手術後約有 25~50% 的患者會出現傾食症候群。好發於 Billroth II reconstruction。 - c. 傾食症候群常在胃切除手術後前三個月發生,一般在手術後一年內就不再發生。 - (2) 可分成 Early dumping 與 Late dumping。 - a. 早期傾食症候群 (early dumping syndrome): 可視為腸胃道症狀加上心血管症狀。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- a. 飲食調整: - (a) 少量多餐:避免食物快速進入小腸造成 dumping syndrome。 - (b) 增加咀嚼次數。 - (c) 進餐時要限制液體食物的攝取,湯汁或飲料最好在進食後30分再喝。 - (d) 避免精緻糖類的飲食。 - (e) 攝取蛋白質食物。 - (f) 增加纖維質攝取:可有效降低食物進入小腸的速度,延緩葡萄糖的吸收。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- (1) Gastrinoma triangle:膽管、十二指腸第二和第三部分交接處和胰頸部圍成的三角,90%的 gastrinoma 皆位於此處,其中 45~60% 位在 duodenum,25% 位在 pancreas。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- ...ch repair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total abdominal hysterectomy 和 bilateral salpingo-oophorectomy。 - (c) Subtotal colectomy • Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (2) Postoperative radiotherapy: 用於術前無照射者或是術後無法確保有完全切除者, 但術後照射併發症高,容易損傷小腸和腸吻合處。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 【詳解】圖中可見小腸大腸銜接處附近有 filling defect,故(C) 較適合。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (1) 上腸繋膜動脈(SMA)支配:小腸、盲腸、升結腸和前三分之二的橫結腸。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
-- (1) 臨床症狀:噁心、嘔吐、腹痛和腹脹,跟小腸阻塞類似。 Source: [[sources/med5-book2-ch10|乙、腸扭結]].
-- ...大腸炎之炎症反應只侷限於腸壁之黏膜層及黏膜下層 (B) 克隆氏疾症之炎症反應,影響腸壁全層 (C) 潰瘍性大腸炎可有偽息肉(pseudopolyp)之表現 (D) 克隆氏疾症沒有偽息肉之表現 (C) 8. 長期 Crohn's 疾病可能導致小腸及大腸惡性病變,以何種惡性腫 98(二)專 醫五-30 瘤居多? Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 
 ## Clinical Caveats
 
@@ -129,6 +139,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/jejunoileal-atresia|Jejunoileal atresia (空迴腸閉鎖)]]
 - [[conditions/small-bowel-obstruction|Small bowel obstruction (小腸阻塞)]]
 - [[conditions/small-bowel-tumor|Small bowel tumor (小腸腫瘤)]]
 

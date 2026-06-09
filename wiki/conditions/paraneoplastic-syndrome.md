@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med3-book4-ch22]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med5-book4-ch04]]"
 aliases:
   - 'Paraneoplastic syndrome (腫瘤旁症候群)'
   - 'Paraneoplastic syndrome'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med5-book4-ch04]]
 
 ## Key Details From Sources
 
+- ...胸腺瘤常合併 M.G.,反過來則否。 | | | (C) | 3. 有關胸腺瘤之敘述,下列何者錯誤? | 103(二)專 | | (-) | (A) 手術切除是主要的治療方法 | 醫五 -31 | | | (B) 重症肌無力是最常伴隨的 paraneoplastic syndrome | | | | (C) 病理特徵屬於良性的病灶,因此臨床上不會有遠端轉移的現象 | | | | (D) 完整的手術切除是影響術後預後的重要因素 | | | (D) | 4. 有關 thymoma 治療之敘述,下列何者錯誤? | 99(二)專 | | (D) | | 器五-17 | | | (A) Surgical resection 為治療之首要原則 | 西北 11 | | | (B) 經病理證實之 invasive Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】考%數是一個很討厭的考法。HCC 的四大 paraneo-plastic syndrome 包含 erythrocytosis ,hypoglycemia,hyperchole-sterolemia,hypercalcemia,比較常見的發生率是寫 40% 左右,但也有 paper 寫在 10~20%。比例就僅供參考,重點還是要知道有 paraneoplastic syndrome 這回事。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (b) 手術方法: 術中於腫瘤旁注射甲基藍或同位素,用來定位出前哨淋巴結, 將其摘除後由病理科醫師初步分析是否受到癌細胞侵犯,再決定是否進 行腋窩淋巴結廓清術。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -64,7 +67,6 @@ tags:
 - # C. Paraneoplastic pemphigus Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - 3. Leser-Trélat Sign:假使身上短時間大量出現脂漏性角化症時,須懷疑體內是否有癌症,特別是胃癌、肺癌、與大腸癌,為 paraneoplastic syndrome 的一種表現。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 1. 依照腫瘤位置、疾病程度或是否有副腫瘤症候群(paraneoplastic syndrome)表現有關。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 5. 副腫瘤症候群 (paraneoplastic syndrome): - (1) Horner syndrome: 腫瘤在 superior cervical ganglion,造成病人出現單側眼瞼下垂、瞳孔縮小、無汗。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 
 ## Clinical Caveats
 

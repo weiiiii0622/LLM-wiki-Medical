@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch03]]"
   - "[[sources/med3-book2-ch01]]"
@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Upper endoscopy, EGD (上消化道內視鏡)'
   - 'Upper endoscopy, EGD'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- (C) 1. 對於食道憩室 (esophageal diverticula) 最好的診斷工具為下列 104(-)専 何者? 醫五-31 - (A)胸部電腦斷層掃描 - (B) 胸部核磁共振造影 (MRI) - (C) 食道鋇劑攝影 (barium esophagram) - (D) 胃鏡檢查 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (C) 1. 下列何種檢查為診斷食道弛緩不能 (achalasia) 的 golden standard ? 108(ニ)専 (A) double-contrast esophagography 醫五-20 - (B) 上消化道內視鏡檢查(upper gastrointestinal endoscopy) - (C) 食道壓測試 (manometry) - (D) ambulatory 24-hour pH monitoring Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (2) 內視鏡(endoscopy):可排除其他食道胃疾病並記錄胃食道損傷情況,並切片 評估是否有異生癌化轉變。 - a. 食道損傷分級(Savary-Miller interpretation) - (a) Grade 1 發紅 (erythema) - (b) Grade 2 線狀潰瘍 (linear ulceration) - (c) Grade 3 融合潰瘍 (confluent ulceration) - (d) Grade 4 攣縮狹窄 (stricture) - (e) Grade 5 巴瑞特氏食道 (Barrett's esophagus) Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 1. 上消化道 X 光檢查。 - (1) 上消化道內視鏡檢查為 golden standard。可直接觀察潰瘍的嚴重程度,也可作 切片檢查,判斷病灶為良性或惡性、是否為幽門螺旋桿菌感染等。 - (2) 幽門桿菌試驗。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (A) 胃鏡檢查結果為改良強生分類第五型 (modified Johnson classification V) 胃潰瘍 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 【詳解】現今 Endoscopy 的進步,大部分的腸胃道出血都能以 內視鏡來止血。約 10% 的病人仍須靠外科的方式來治療。外科 醫師的觀點以是否需要持續輸血作為手術的 indication。除此之 外,Sabiston 提出的 surgery indication 如下: Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -70,9 +75,6 @@ tags:
 - (C) 5. 一位 57 歲男性在 40 歲時曾經做過一次健康檢查,當時血液相是正 常的。15年前因胃潰瘍穿孔接受了三分之二的胃切除手術,其他無 特殊病史。最近因為容易疲倦,接受血液檢查,發現血紅素為8.7 gm/dL, MCV 71 fL, 白血球 3,650/μL, 分類正常, 血小板 395,000/μL。 大便潛血反應為陰性,胃鏡檢查無潰瘍或腫瘤。此病人最可能的診斷 為何? Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...三-10 | | (A) | 14. 一位 50 歲男士有缺鐵性貧血病史,因左鎖骨上腫塊求診,經病理切片診斷為轉移性腺癌與戒環細胞分化(signet ring cell differentiation)。在這個階段最適當的檢查為: (A) 上消化道內視鏡 (B) 胸部 CT 掃描 (C) 骨掃描 (D) PET 掃描 【詳解】男性 IDA 多為腸胃道慢性出血,腸胃道癌症一定要列入考慮,左鎖骨上 LAP 是 Virchow's node,是個胃癌特殊轉移位置,所以懷疑胃癌做胃鏡。 | 104(一)專醫三-46 | Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (B) 20. 李先生因為家人有癌症病史,所以到 A 醫院的健康檢查中心作全身 健康檢查,檢查項目除了抽血之外還有胃鏡和大腸鏡的檢查,依照 醫療法規定,李先生需不需要寫同意書? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- (D) 8. 周醫師在幫病患王老先生進行胃鏡檢查時,發現王老先生胃部有一處胃潰瘍,周醫師初步判斷應該屬於良性潰瘍而沒有幫王老先生進行切片檢查。胃鏡檢查結束,王老先生很擔心該胃潰瘍會不會是胃癌,而多次詢問周醫師是否應該馬上再次做胃鏡配合切片檢查,周醫師告知只要吃藥 4 個月胃潰瘍就可以痊癒。4 個月後,王先生再度接受胃鏡檢查,切片檢查顯示為胃癌。周醫師為了避免醫療糾紛,在第一次胃鏡報告上增加「病患想先吃藥」的敘述。下列敘述何者正確? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...L、WBC 4,600/μL、platelets 120,000/μL;血液生化檢查: BUN 35 mg/dL、肌酸酐 1.8 mg/dL。下列那個處置是最適當的? (A) 檢查血清 ANA, C3 濃度,並安排腎臟切片檢查 (B) 安排胃鏡檢查 (C) 給予輸血 (D) 尿液細菌培養,並給予抗生素兩週 (B) 8. 腎病症候群 (Nephrotic Syndrome) 和下列何種癌症最有關聯? 101(一)專 (B) 何杰金氏淋巴癌 醫三-36 (A) 腎臟細胞癌 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (B) 11. 一位 49 歲女性病患因上腹以及左上腹區域疼痛約 2 至 3 天而求診, 急診室的檢查結果顯示 Hb 10.4 g/dL, WBC 分類 N/L 79.9%/14.5%, glucose 115 mg/dL, BUN 13 mg/dL, creatinine 0.9 mg/dL, CRP 10.8 mg/L, lipase 173 U/L, amylase 67 U/L, triglyceride 1634 mg/dL。下列 何項檢查最可能確定診斷? - (A) 上消化道內視鏡(UGI endoscopy) - (B) 腹部電腦斷層檢查 (abdominal CT scan) - (C) 大腸鏡檢查 (colonoscopy) - (D) 腫瘤標記檢查(tumor markers) Source: [[sources/med3-book2-ch03|乙、腹痛]].
 
 ## Clinical Caveats
 
@@ -81,6 +83,8 @@ tags:
 
 ## Related Pages
 
+- [[conditions/caustic-esophageal-injury|Caustic esophageal injury (腐蝕性食道傷害)]]
+- [[conditions/esophageal-foreign-body|Esophageal foreign body (食道異物)]]
 - [[conditions/upper-gastrointestinal-bleeding|Upper gastrointestinal bleeding (上消化道出血)]]
 
 ## Follow-up

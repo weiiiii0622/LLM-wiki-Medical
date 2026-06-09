@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med3-book1-ch14]]"
@@ -21,6 +21,9 @@ sources:
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Ventilation-perfusion matching, V/Q (通氣灌流匹配)'
   - 'Ventilation-perfusion matching, V/Q'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,15 @@ tags:
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- 3. 機轉:一條或數條肺動脈不經肺微血管直接和肺靜脈相接,形成 right-to-left shunt,且 1/3 病人同時合併有遺傳性出血性血管擴張症 (hereditary hemorrhagic telangiectasia, Osler-Weber-Rendu syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (1) 缺氧(Hypoxia):氣道阻塞、胸內壓力改變、通氣灌流失調(ventilation-perfusion mismatches) 和低血容。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 【詳解】大部份先天性橫隔膜疝氣的嬰兒在剛出生幾個小時內, 肺高壓尚未過高足以造成動脈導管或卵圓孔產生 R to L shunt, 不會有呼吸窘迫或低血氧的狀況,這段時間稱為 honeymoon period (蜜月期)。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - (D) 2. 有關遠端脾腎靜脈分流術(distal splenorenal shunt)之敘述,下列何者錯誤? Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 門脈下腔靜脈分流術(portacaval shunt) 與遠端脾腎靜脈分 流術有相似之再出血率(rebleeding rate) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 【詳解】遠端脾腎靜脈分流術屬於 selective shunt,斷 coronary vein,重建 gastroepiploic vein 至 left renal vein,減少 EV/GV bleeding 但 portal hypertension 加深,增加臟器回流壓力,ascite 加劇。門脈下腔靜脈分流術 (portacaval shunt) 屬於 non-selective shunt,可做 Total (end to side) or partial (side to side) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -74,9 +83,6 @@ tags:
 - 4. 診斷:血中 d-dimer 可幫助排除(high sensitivity, low specificity),確診須靠 contrast-CT、血管攝影、V/Q scan。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (3) Hunt and Hess Grade 4~5 的水腦症病患需接受 ventriculostomy 作造口引流 CSF 或是 shunt。80% 的病患有機會可獲得改善。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - ...| Frontotemporal Dementia | Pick (Tau) protein | 失智+步態不穩+人格異常 | | | NPH (Communicating h.) | CSF 回收↓ | 失智+步態不穩+尿失禁 | VP shunt | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (3) 治療:唯一可治癒的退化性疾病,可施行腦室腹膜分流術(Ventricular-Peritoneum shunt, VP shunt)而使症狀改善。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- 2. 治療(Ref. Taiwan guidelines for the management of stroke 2008,胡漢華,台灣腦中風學會): - (1) 一般採保守療法 - a. 血壓的控制目前尚無定論,但一般建議 SBP > 200 或有 IICP 且 SBP > 180 者, 需積極以靜脈持續點滴控制血壓;若 SBP > 180 仍須適度降壓。(IIb、Level C) 一般而言,目標是 SBP 50 cc 且 GCS 30 cc 且 GCS 3 cm 或> 30 cc | | 位 直 | (除非產生水腦,要做 VP shunt) | 且壓迫腦幹或造成水腦者要開 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 7. 治療:以外科方式治療為最終目標。 - (1) 先維持肺部血液的灌流,如注射 PGE1 維持開放性動脈導管、人工血管放置 (Blalock-Taussig shunt 或 central shunt) 或 PDA stent。 - (2) 手術治療 VSD 與矯正右心室出口阻塞。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

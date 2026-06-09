@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book3-ch19]]"
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Pancreatic pseudocyst (胰臟假性囊腫)'
   - 'Pancreatic pseudocyst'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-急性或慢性胰臟炎後的液體囊腫，壁無上皮襯裡，需依症狀、感染、出血或阻塞決定引流。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性或慢性胰臟炎後的液體囊腫，壁無上皮襯裡，需依症狀、感染、出血或阻塞決定引流。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book3-ch19]]
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- ...ion | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreatic | | | | | pseudocyst | | | | | ■Meigs' syndrome | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. Severe pancreatitis:嚴重的胰臟炎約佔 20%,判別主要以是否有其他器官衰竭與是否出現 local complication (necrosis 與 pseudocyst)。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - 2. 胰臟假性囊腫(Pancreatic pseudocyst)。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - (B) 1. 下列何種胰臟囊狀病灶(pancreatic cystic lesion)好發於女性? ①漿液性囊狀腺瘤(serous cystadenoma) ②胰管內乳突黏液性 腫瘤(intraductal papillary mucinous tumor) ③實體偽乳突腫瘤 (solid-pseudopapillary tumor) ④黏液性囊狀腺瘤(mucinous cystic neoplasm) ⑤假性囊腫(pseudocyst) - (A) (1)(2)(4) Source: [[sources/med5-book3-ch19|丙、良性胰腫瘤]].

@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch02]]"
@@ -33,6 +33,7 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book2-ch12]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Coronary circulation (冠狀動脈循環)'
   - 'Coronary circulation'
@@ -47,7 +48,7 @@ tags:
 
 ## Summary
 
-冠狀動脈解剖決定心肌缺血位置與 ECG 導程變化。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈解剖決定心肌缺血位置與 ECG 導程變化。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +81,11 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book2-ch12]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### 丙、冠狀動脈疾病及冠狀動脈繞道手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - D. 冠狀動脈繞道手術 (CABG) 及適應症 28 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - #### 丙、冠狀動脈疾病(Coronary artery disease, CAD)及冠狀動脈 繞道手術(Coronary artery bypass graft surgery, CABG) Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
@@ -100,7 +103,6 @@ tags:
 - (C) 24. 有關敵意(hostility)以及冠狀動脈心臟病的敘述,下列何者 錯誤? Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (A) 依行為模式理論,A 型行為(type A behavior)代表了易怒、不耐煩、急性子,與心肌梗塞和冠狀動脈心臟病的發生率相關 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - 5. 心血管併發症:發病平均約十天時,15~20%的患者可能產生冠狀動脈瘤,危險因子包括男性、小於兩歲、貧血、白血球大於3萬、發炎指數較高、發燒超過二週、低白蛋白、心包膜積水等。冠狀動脈瘤約有八成會在一至二年內消失,特別是常見的直徑小於8mm的中小型冠狀動脈瘤。但直徑超過8mm以上的巨大冠狀動脈瘤較難完全消失,容易形成血栓,造成急性心肌梗塞或冠狀動脈瘤破裂。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (2) 在三個月內確定冠狀動脈正常,則考慮停藥,在發病十天內使用免疫球蛋白,可將冠狀動脈瘤之發生率降至 2~5%,並將巨大冠狀動脈瘤之發生率降至 1%, 且越早使用效果越好。若冠狀動脈瘤一直存在,則需持續服用低劑量阿斯匹靈。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

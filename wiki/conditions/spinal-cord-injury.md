@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med5-book4-ch14]]"
 aliases:
   - 'Spinal cord injury, SCI (脊髓損傷)'
   - 'Spinal cord injury, SCI'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-外傷造成脊髓功能受損，需初步固定、神經分級、影像與併發症管理。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外傷造成脊髓功能受損，需初步固定、神經分級、影像與併發症管理。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med5-book4-ch14]]
 
 ## Key Details From Sources
 
+- 2. Niedzielski JK, Oszukowska E, Słowikowska-Hilczer J. Undescended testis current trends and guidelines: A review of the literature. *Arch Med Sci* 2016;12(3):667-77. Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
 - C. 脊椎創傷 (Spinal injuries) 176 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ## C. 脊髓創傷 (Spinal injuries) Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 1. 病人遭受意外事件,需假設其頸椎已經受傷,所有運送病人的動作須格外小心並作 進一步檢查評估,有以下情形時需懷疑病人有脊髓損傷(spinal cord injury, SCI): - (1) 嚴重外傷。 - (2) 失去意識。 - (3) 抱怨脊椎部位疼痛腫脹。 - (4) 兩側肢體無力、麻木、反射消失或對痛覺刺激無反應。 - (5) 腹式呼吸、無感尿液滯留、陰莖異常勃起。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].

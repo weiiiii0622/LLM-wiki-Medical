@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch09]]"
@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Iron studies (鐵質檢查)'
   - 'Iron studies'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- 1. 機轉 & 成因:鐵質缺乏合併下咽蹼(hypopharyngeal web),原因不明。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- b. HBL:存活率 75%、好發於 1,500 IU/mL, ferritin > 142 ng/mL、NSE > 100 ng/mL。(LDH = lactic dehydrogenase, NSE = neuron-specific enolase —種醣解酶)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...疾病有關? (A) 鎂 (magnesium) (B) 鉀 (potassium) (C) 磷 (phosphorus) (D) 鐵 (iron) 【詳解】此懷疑 restless leg syndrome。約 20% 的病人有缺鐵的病症(ferritin 5. 下列有關健康成人正常睡眠的結構,何者正確?(A) 每個睡眠週期約 60 分鐘(B) 非動眼睡眠第三期約占睡眠 50% 的時間(C) 入睡通常小於 5 分鐘(D) 每晚經歷 3~5 個睡眠週期 | 107(二)專醫四-49 | |-----|------------------------------------------------------------------------------------------------ Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].

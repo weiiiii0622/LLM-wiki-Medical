@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book2-ch19]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch18]]"
   - "[[sources/med5-book3-ch06]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Diverticular disease (大腸憩室疾病)'
   - 'Diverticular disease'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-大腸憩室可無症狀，也可造成 diverticulitis、出血、膿瘍、穿孔或狹窄。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸憩室可無症狀，也可造成 diverticulitis、出血、膿瘍、穿孔或狹窄。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch18]]
 - [[sources/med5-book3-ch06]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- (2) 小腸阻塞:三種形成原因。 - a. 小腸扭轉:因憩室形成之纖維化繫帶(fibrotic band)沾黏於腹壁上所致。 - b. 腸套疊。 - c. 腹股溝箝頓性疝氣(又稱 Littre hernia): 憩室於腹股溝疝出並箝頓所致。 - d. 還有一個常見症狀是發炎,尤其是大小孩或成人常見,懷疑是急性闌尾炎的病人有 0.76% 術中會發現其實是 Meckel diverticulitis,不過很難在術前就診斷出來。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (D) 2. 有關小腸的憩室疾病(diverticular disease)之敘述,下列何者錯誤? Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - (A) 關於腸道 diverticular disease 的好發位置,小腸是僅次於大腸 排名第二的 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - (C) 診斷有腸道 diverticular disease 的患者,病患年紀很少小於 40 歳 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].

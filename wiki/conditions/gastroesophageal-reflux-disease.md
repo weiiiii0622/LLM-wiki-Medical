@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med3-book2-ch04]]"
@@ -15,6 +15,9 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Gastroesophageal reflux disease, GERD (胃食道逆流)'
   - 'Gastroesophageal reflux disease, GERD'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-胃酸逆流造成 heartburn、食道炎或併發症，治療包含生活型態與抑酸藥物。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃酸逆流造成 heartburn、食道炎或併發症，治療包含生活型態與抑酸藥物。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,19 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- E. 胃食道逆流疾病(Gastroesophageal reflux disease, GERD) *86* Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 8. 術後併發症:食道運動疾患(esophageal motility disorders)、胃食道逆流(gastroesophageal reflux)約 25~50%、吻合處狹窄(anastomotic stricture)約 15~30%、吻合處滲漏(anastomotic leak)約 10~20%、和氣管軟化(tracheomalacia)約 8~15%。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 5. 治療:以長段食道括約肌切開(esophagomyotomy)放鬆下括約肌壓力,合併胃底 折疊手術(fundoplication)預防胃食道逆流。少部分嚴重病患才需要接受食道切除 重建手術。 - (1) 傳統左側開胸食道括約肌切開術合併部分開腹胃底折疊手術。 - (2) 內視鏡食道括約肌切開術(laparoscopic Heller myotomy)合併胃底折疊手術。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...到橄欖狀硬塊,你認為他可能是什麼疾病? 醫五- | | | (A) 肥厚性幽門阻塞(hypertrophic pyloric stenosis) | | | (B) 十二指腸閉鎖 (duodenal atresia ) | | | (C) 胃食道逆流(gastroesophageal reflux) | | | (D) 腸套疊(intussusception) | | Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...plication) (D) 小腸扭轉不全 (malrotation) (A) 8. Ladd's procedure 與下列何者有關? 98(二)專 (A) 腸轉位異常 (malrotation of midgut) 醫五-53 (B) 胃食道逆流 (gastroesophageal reflux ) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 8. 術後併發症:食道運動疾患(esophageal motility disorders)、胃食道逆流(gastroesophageal reflux)約 25~50%、吻合處狹窄(anastomotic stricture)約 15~30%、吻合處滲漏(anastomotic leak)約 10~20%、和氣管軟化(tracheomalacia)約 8~15%。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - (B) 2. 對於胃食道逆流疾病(gastroesophageal reflux disease)的外科手 術適應症,何者錯誤? 106 (二)專 醫五-20 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 【詳解】現行 GERD 的手術 indication 包含 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (B) 2. 李先生 35 歲,BMI(body mass index): 43 kg/m²,過去一年努 1090 力藉由保守方法減重但效果不彰,本身亦有第二型糖尿病,且糖 化血紅素(HbA1C)指數為 8.5%,胃鏡檢查發現胃食道逆流程 度為 Los Angeles Grade C。李先生決定接受代謝減重手術治療, 下列何種手術最為適合? Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -58,13 +71,6 @@ tags:
 - 能不足。PS:Angelman syndrome,即俗稱的「天使症候群」。 這類的病人臨床上有肌張力低下、餵食困難、胃食道逆流、 膚色或髮色較淺(fair skin and hair)、臉部發育異常(midface hypoplasia、prognathism)、癲癇發作、神經肌肉發展異常(limb tremor and ataxia)、語言發展遲緩(poor or absent speech)、不 自主大笑(inappropriate laughter)以及嚴重智能不足。天使症 候群的病人隨著年紀增長,臨床表現越加明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 3. 若胃鏡正常,仍懷疑 GERD,可使用 Ambulatory 24-hour ph monitoring,將 probe 放於 LES 上 5 公分監測,是目前用來定量酸暴露的最佳方法。另有一 Bernstein test -以 0.1% HCL 刺激看是否能引發相同症狀,可作為輔助。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 - (B) 1. 下列那些藥物可能會加重逆流性食道炎(reflux esophagitis)? 105(ー)専 ①降血脂藥(HMG-CoA reductase inhibitor) ②高血壓用藥(calcium channel blocker) ③氣喘用藥(theophylline) ④抗過敏薬物(antihistamine) - (A) (1)(2)(3) - (B) 僅②③ - (C) (3)(4) - (D) (1)(2)(4) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (D) 應建議他減重,並少喝酒、咖啡及茶,少吃油脂類及酸性食物 【詳解】目前本國健保雖給付 GERD LA Gr. A 使用 4 個月 PPI 治療, 但因本題為無症狀健檢民眾,可考慮先進行生活習慣改善。目前對 GERD LA Gr. A 是否需要追蹤,共識傾向無症狀且無任何疾病史不 需追蹤。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- ...| → 酸分泌 ↑ 再流到十二指腸 | | | → 胃體炎 (corpus gastritis) | → 破壞十二指腸黏膜 | | TENNESS (DAG) | 酸分泌減少 (BAS 20) → | | 基礎酸分泌 (BAS) | 與 GERD 較無關 | 與 GERD 較有關 | | 消化性潰瘍(症狀) | 胃潰瘍(吃食物惡化) | 十二指腸潰瘍(吃食物緩解、凌晨被痛醒) | Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- \* BAS = Basal acid secretion,因此 HP 感染並未一定會造成酸分泌增加,導致 GERD。 - 3. 檢查是否有幽門螺旋桿菌 (H. pylori) 感染: (停用 PPI 至少7 天較不易產生偽陰性) - (1) 侵襲性的方法:由胃鏡取出的檢體進行快速尿素檢查法 (rapid urease test)、組織病理檢查法 (histology)、組織細菌培養 (culture)等。 - (2) 非侵襲性的方法:尿素呼吸檢查(urea breath test),使用碳 -13 標記之尿素,服用 後作呼氣檢查,為最佳的非侵襲性方 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- | (#) | 5. 幽門螺旋桿菌(Helicobacter pylori)已知是部分消化道疾病的致病因子,下列何者除外? (A) 胃食道逆流(reflux esophagitis) | 106(二)專醫三-28 | |-----|-------------------------------------------------------------------------------------|------------------| | | (B) 萎縮性胃炎 (atrophic gastritis) | | | | (C) B 細胞胃淋巴癌 (B cell gastr Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
-- 1. 只有固體食物困難吞嚥→機械性阻塞 (mechanical obstruction),僅是會卡到固體的食物, 日多半能指出卡住的地方,表示管腔狹窄但蠕動正常。 - (1) 病人年紀 > 50 歲,伴隨體重減輕或有口腔癌病史,傾向懷疑是食道癌。 - (2) 長期有 heartburn、慢性咳嗽的症狀,傾向是長期 GERD 造成的 Peptic stricture。 - (3) 過去有腐蝕性食道炎病史(強酸強鹼),可能造成管腔狹窄(stricture),或在數十 年後併發食道癌。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- 6. 治療:保守治療可以內視鏡注射肉毒桿菌素治療、或服用鈣離子阻斷劑(CCB)、硝 酸鹽類藥物(Nitrate)等達到肌肉放鬆;或以內視鏡進行氣球擴張術;若仍無效可考 慮用內視鏡或外科手術方法進行 myotomy ( 經內視鏡食道肌肉切開術: POEM-perioral endoscopic myotomy)(外科進行食道肌肉切開:Laparoscopic myotmy, 術式名 Heller myotomy)。緩解率可達 8 成以上,但亦可能造成 GERD 等併發症。 Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- | 項目 | | 臨床意義 | | | | |-------|--------|-------------------------------|--|--|--| | 腹痛部位 | 上腹部 | 逆流性食道炎、胃、十二指腸潰瘍、胰臟炎、肝膽系統感染、須 | | | | | | | 排除可能是下壁心肌梗塞 | | | | | | 肚臍旁 | 小腸病變(腫瘤、阻塞、出血等)、闌尾炎(早期)、上段輸尿管 | | | | | | 右下腹部 | 闌尾炎 (腹痛通常先發生於上腹部或肚臍周圍,之後慢慢移到右 | | | | | | | 下腹部 McBurney point*)、憩室炎 | | | | | | 左下腹部 | 結腸病變(憩室炎、便秘) | | Source: [[sources/med3-book2-ch03|乙、腹痛]].
 
 ## Clinical Caveats
 

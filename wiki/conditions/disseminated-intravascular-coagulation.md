@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med3-book4-ch10]]"
@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch08]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book4-ch05]]"
 aliases:
   - 'Disseminated intravascular coagulation, DIC (瀰漫性血管內凝血)'
   - 'Disseminated intravascular coagulation, DIC'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-全身凝血活化造成血栓與出血並存，常由敗血症、癌症、產科或創傷引發。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+全身凝血活化造成血栓與出血並存，常由敗血症、癌症、產科或創傷引發。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch08]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...-------------------------------|-------------------------|-------------------------|--| | cТ | cN | cM | pStage group | pT | pN | pM | pGrade | pLocation | | | Alexander of the control of the control | | | Squamous cell c | arcinoma | | | | | | | | | 3.60 | 0 | Tis | N0 | M0 | N/A | Any | | | | | M0 | IA | Tla | N0 | M0 | G1, X | Any | | | Source: [[sources/med5-book4-ch05|戊、食 道]].
 - | | Hb | Platelet | PT | aPTT | |-----|---------|----------|----------|-------| | 張奶奶 | 10.2 | 40 | 16.2 | 36.4 | | 正常值 | 13.5~17 | 138~353 | 9.4~12.5 | 26~38 | | 單位 | g/dL | 10^3/mL | sec | sec | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (D) PT 異常,必須先矯正 coagulopathy Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (B) 6. 36 歲男性病人,因長期應酬,每日平均喝半瓶烈酒已十年,近日 101( 二) 專 因身體倦怠,食慾不佳,臉色發黃而住院,住院後發現總膽紅素 醫五 -4 高至 22 mg/dL,ALT 高至 226 U/L,AST 高至 282 U/L,GGT 高至 388 U/L,凝血機能 PT 延長大於 4 秒,INR 為 1.59,aPTT 比正常值稍高,以下何者為最適當之處置? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -80,7 +83,6 @@ tags:
 - (D) 4. 兒童患者如果發生 disseminated intravascular coagulation (DIC), 104(二)專 血液檢查時,下列何者不會出現? - (A) 血中 D-dimer 出現 - (B) 血中 Factor V 或 Factor VIII 降低 - (C) 血小板 (platelets) 數目降低 - (D) 血中 fibrinogen 升高 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】病人嚴重感染走向 DIC 時,凝血系統啟動造成血小板、 凝血因子大量消耗而降低,纖維蛋白溶解系統也跟著啟動造成 D-dimer 上升與 fibrinogen 下降。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...vate kinase deficiency | | | | 紅血球膜病變:sph | nerocytosis, elliptocytosis | | | 微血管病變造成的 | 容血(microangiopathic):HUS, TTP, DIC | | | 人工心臟瓣膜造成經 | 紅血球破壞 | | | 遺傳性紅血球增多經 | 定 | Source: [[sources/med4-book1-ch08|辛、血液學]].
-- ...cell 的 臨 床 意 義:renal insufficiency(uremia),sever dehydration,burns, and pyruvate kinase deficiency;Fragmented RBC 臨床意義:DIC、TTP、hemolysis.)。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

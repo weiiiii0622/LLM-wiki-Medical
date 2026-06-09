@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch22]]"
@@ -32,6 +32,8 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Hepatitis B (B 型肝炎)'
   - 'Hepatitis B'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,14 @@ HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch08]]
+- [[sources/med5-book4-ch12]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (2) 主要的原因是 B 型肝炎及 C 型肝炎在台灣的高盛行率,使慢性肝臟疾病病得以 進一步發展成為肝硬化及肝癌。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (3) B型肝炎 (Hepatitis B)。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (B) 3. 一位 45 歲自小罹患慢性 B 型肝炎的男性病患,主訴一個多月前覺得右上腹疼痛,有時疼痛會延伸到右邊的肩膀。最近一週至門診追蹤腹部超音波顯示有多顆肝臟腫瘤,分別是一顆 2.2 公分大小在 S2 的位置,和另一顆 6.6 公分大小在 S5 的位置,有觀察到低迴音(hypoechoic)的腫塊。進一步安排腹部電腦斷層之後,發現在相同位置有同樣大小的腫塊,並且已經侵犯到右側肝門靜脈。其他部位的腹部超音波和電腦斷層結果皆屬正常。抽血結果發現胎兒蛋白值(AFP)為 230 ng/mL,AST 53 U/L,ALT 68 U/L。則這位病人最可能的診斷為何? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -96,9 +103,6 @@ HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已
 - (2) chronic hepatitis B, and (3) congenital syphilis。因題目敘述, Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (A) 與 (D) 為可能答案。但是慢性 B 型肝炎皮膚表現為紅斑、丘疹或淤斑,最後發展成為血管神經性水腫。慢性 B 型肝炎往往會出現結節性紅斑,但不會有脫皮現象,因此選 (D)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - | 施打時間 | 疫苗種類 | | |------------------------------|--------------------------|--| | 山井 24 小哇西伊浦拉廷 | 1. B 型肝炎免疫球蛋白一劑 | | | 出生 24 小時內儘速接種 | 2. B 型肝炎遺傳工程疫苗第一劑 | | | 出生滿1個月 | B型肝炎遺傳工程疫苗第二劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿2個月 | 嗜血桿菌及不活化小兒麻痺混合疫苗)第一劑 | | | | 2.13 價結合型肺炎鏈球菌疫苗第一劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿4個月 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (5) 媽媽若為高傳染性 B 型肝炎帶原者(e 抗原陽性),其寶寶應於出生後儘速注射 一劑 B 型肝炎免疫球蛋白,最遲不要超過 24 小時。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 1. 接受一般肌肉注射免疫球蛋白治療或B型肝炎免疫球蛋白 (HBIG)者,宜間隔3個月後再接種MMR、水痘或日本腦 炎疫苗。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (C) B 型肝炎帶原者 (hepatitis B carrier) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

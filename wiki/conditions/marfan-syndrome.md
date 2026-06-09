@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book4-ch01]]"
 aliases:
   - 'Marfan syndrome (馬凡氏症候群)'
   - 'Marfan syndrome'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-FBN1 異常造成結締組織疾病，侵犯骨骼、眼與主動脈根部。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+FBN1 異常造成結締組織疾病，侵犯骨骼、眼與主動脈根部。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ FBN1 異常造成結締組織疾病，侵犯骨骼、眼與主動脈根部。 �
 - [[sources/med4-book1-ch01]]
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch01]]
+- [[sources/med5-book4-ch01]]
 
 ## Key Details From Sources
 
+- 1. 最常見的胸部畸形。通常於 1 歲內診斷,並逐年惡化,嚴重時會壓迫縱隔腔的器官,大多數病患初期沒有症狀。家族遺傳因素未明,但超過 30% 有胸壁畸形家族史;有近 20% 病患合併其他肌肉骨骼異常,有 15% 病患合併脊椎不正常側彎(scoliosis)、Marfan syndrome 次之;有 1.5% 病患合併先天性心臟病。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
 - (4) 另外年紀大、男性、高血壓、抽菸、高血脂、genetic (Marfan syndrome) 皆為 危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 3. 因壓迫鄰近器官而有的臨床表現:congestive heart failure (aortic root aneurysm with dilatation 造成 aortic regurgitation)、Hoarseness (aortic arch aneurysm 壓到 left recurrent laryngeal or vagus nerves)、呼吸困難、pulmonary compression、吞嚥困難、易飽足感(壓迫到胃)、嘔吐。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 2. 結締組織疾病:例如 Marfan's syndrome。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].

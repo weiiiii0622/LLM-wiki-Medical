@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch15]]"
@@ -79,6 +79,7 @@ sources:
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch09]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Diabetes mellitus (糖尿病)'
   - 'Diabetes mellitus'
@@ -93,7 +94,7 @@ tags:
 
 ## Summary
 
-慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -172,9 +173,12 @@ tags:
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch09]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 2. 胎便塊大腸阻塞症(Meconium plug syndrome) - (1) 常見的新生兒腸阻塞,和多種疾病有關,如巨結腸症、妊娠期糖尿病、甲狀腺功能低下、囊性纖維化等。大多數有此症狀之孩童為正常,但建議進一步檢查排除巨結腸症,尤其早產或明顯有遠端小腸阻塞症狀之孩童。 - (2) 臨床表現:腹脹。 - (3) 檢查 & 診斷: KUB 顯示多段小腸氣、水溶性顯影劑灌腸(同時診斷治療)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 3.60%的病人出現不正常的葡萄糖耐受試驗結果,甚至進展成為糖尿病,須觀察糖尿病症狀如口渴、多尿、噁心、嘔吐、皮膚脫水乾燥,與胰臟的內分泌功能喪失相關。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 2. 口服葡萄糖耐受試驗(OGTT):用來檢查是否為第一型糖尿病。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...時可能需要止痛貼片。不可使用 Morphine,會造成 Oddi of sphincter 強力收縮,胰管內壓力上升加重胰臟炎的狀況。 - (5) 預防性抗生素:若病人具壞死性胰臟炎,合性器官衰竭的話,須使用廣效性抗生素治療。 - (6) 糖尿病:若病人已出現糖尿病,必須控制病人的血糖,並且持續監控糖尿病所帶來的 Retinopathy、Nephropathy、Neuropathy。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
@@ -191,8 +195,6 @@ tags:
 - (D) 具有高風險的特徵(例如:糖尿病、左心室功能異常、腎功能異常、年老、慢性肺病、周邊動脈疾病)的多條血管冠狀動脈疾病病人接受冠狀動脈繞道手術比接受經皮冠狀動脈處置具有較差的長期存活率 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - Neurogenic:動眼神經、交感神經或 CNS 受損所致,例如動脈流 血、腦膜炎、Horner's syndrome、糖尿病、多發性硬化症等。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (A) 1. 關於糖尿病足(diabetic foot)的敘述,下列何者錯誤? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- (A) 糖尿病足併骨髓炎的 X-ray 特徵, 會比臨床症狀晚 1 週出現 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- (C) 6. 有關免疫抑制劑的敘述,下列何者錯誤? 102(一)專 (A) Tacrolimus 造成的 PTDM (Post-transplant diabetes mellitus) 醫五-3 機會比 Cyclosporine 高 (B) Cyclosporine 會有牙齦增生(Gingival hyperplasia)和多毛症 (Hirsutism)的副作用 (C) Sirolimus (Rapamycin) 和 Cyclosporine 都屬於 Calcineurin inhibitors (D) Tacrolimus 和 Cyclosporine 都是常用於腎臟移植術後的藥物, 但是同時也具有腎毒性的副作用 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

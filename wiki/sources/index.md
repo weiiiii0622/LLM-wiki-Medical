@@ -2,7 +2,7 @@
 type: index
 status: draft
 created: 2026-06-07
-updated: 2026-06-08
+updated: 2026-06-09
 sources: []
 tags:
   - medicine
@@ -229,3 +229,20 @@ Source summaries catalog.
 - [[sources/med5-book3-ch22|乙、良性乳房疾病]]
 - [[sources/med5-book3-ch23|丙、乳房檢查篩檢]]
 - [[sources/med5-book3-ch24|丁、乳癌]]
+- [[sources/med5-book4-ch01|甲、胸壁]]
+- [[sources/med5-book4-ch02|乙、肋膜]]
+- [[sources/med5-book4-ch03|丙、肺]]
+- [[sources/med5-book4-ch04|丁、縱隔腔]]
+- [[sources/med5-book4-ch05|戊、食 道]]
+- [[sources/med5-book4-ch06|己、氣管]]
+- [[sources/med5-book4-ch07|庚、胸部創傷]]
+- [[sources/med5-book4-ch08|甲、概 論]]
+- [[sources/med5-book4-ch09|乙、頸部腫塊]]
+- [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]]
+- [[sources/med5-book4-ch11|丁、腸胃道]]
+- [[sources/med5-book4-ch12|戊、肝膽道疾病]]
+- [[sources/med5-book4-ch13|己、先天腹壁異常]]
+- [[sources/med5-book4-ch14|庚、生殖泌尿道]]
+- [[sources/med5-book4-ch15|辛、惡性腫瘤]]
+- [[sources/med5-book4-ch16|壬、血管性疾病]]
+- [[sources/med5-book4-ch17|癸、腦及神經疾病]]

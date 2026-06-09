@@ -2,7 +2,7 @@
 type: overview
 status: draft
 created: 2026-06-07
-updated: 2026-06-08
+updated: 2026-06-09
 sources: []
 tags:
   - medicine
@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(五)第3冊腎外小腸外肝膽胰外乳外`
-- Latest chapter source summaries: 24
-- Total chapter source summaries: 214
-- Total topic-first nodes: 1111
+- Latest ingested textbook: `醫(五)第4冊胸外小兒外`
+- Latest chapter source summaries: 17
+- Total chapter source summaries: 231
+- Total topic-first nodes: 1164
 
 ## Graph Shape
 

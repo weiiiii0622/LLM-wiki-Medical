@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch24]]"
@@ -32,6 +32,8 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Cardiogenic pulmonary edema (心因性肺水腫)'
   - 'Cardiogenic pulmonary edema'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,15 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- f. 胸管治療併發症(complication):很少發生,包括肋間血管撕裂傷、肺撕裂傷、肺内置放、胸腔外置放或感染。極少發生,肺再擴張水腫(re-expansion pulmonary edema),續發於突然增加的肺微血管通透性,機轉未明,好發於快速肺再擴張。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (B) 再膨脹肺水腫 (re-expansion pulmonary edema) Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (6) 手術後併發症:以肺切除後肺水腫最具傷害,發生率約 1~5%。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 機轉 & 成因: 大多因下肢靜脈血液鬱積和高凝血狀態而產生血栓, 血栓回流至腿或骨盆腔的深層靜脈, 而血栓隨時間逐漸變大並移動, 最後回流到肺部形成栓塞。 肺動脈供應肺部血液受阻塞引發下列後續反應: - (1) 血管發炎物質造成肺血管阻力增加→促使肺血液分流重新分布→肺水腫。 - (2) 肺泡死腔增加→氣體交換受阻。 - (3) 右心室做功增加→右心室功能變差或衰竭。正常動脈壓合併右心室活動變差的 預後較差。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (4) 處置: 先維持 hemodynamic 穩定,使用 IABP 維持心臟血液穩定輸出,也避免 因 MR 而引發 pulmonary edema 甚至 heart failure,然後緊急手術修補。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (C) 3.68 歲男性因心肌梗塞來急診,呈現休克狀態並經插管緊急處置, 聽診時發現有一第四度收縮期雜音(Grade 4/6 systolic murmur), 目伴隨有肺水腫(pulmonary edema),經心導管攝影為左前降枝 (LAD) 90% 狹窄, 迴旋枝 (LCX) 有 85% 狹窄, 下列處置何 者錯誤? Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (D) 此情況為 ACC/AHA 準則之 Class I 之冠狀動脈繞道術適應症 【詳解】正確診斷應為急性心肌梗塞後導致大片心臟肌肉壞死、 心室中膈破裂,然後左心高壓血往右心流去產生第四度收縮期 雜音,併發肺高壓與肺水腫。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
@@ -95,10 +103,6 @@ tags:
 - ...每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 5. 臨床表現:一般而言與連接的位置、管腔有無阻塞有關。臨床症狀有不同程度的發 紺、呼吸急促(severe tachypnea)、生長遲緩、呼吸窘迫、肺水腫。血管阻塞越嚴 重則症狀越早出現,預後也越差。如果沒有治療,大多數病人一歲前死亡。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 胸部 X-ray:在出生後最初幾小時或是一天內,心臟大小在影像上不一定會有 cardiomegaly 表現。隨著時間的進展 cardiomegaly 會迅速進展,且會有肺血管 紋的增加,更甚者會有 pulmonary edema。側身的影像可能看到明顯的 PDA。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】從胸部 X 光影像並未顯示明顯的肺水腫或是肺積水。兩側有出現 air bronchogram sign,且橫膈還不至於不明顯。腹部 X 光影像未有因腸胃道破裂而引起腹腔積氣。由以上線索可以推測為 (B) 的機會最大。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 5. 腸病毒重症: - (1) 好發於小於五歲的幼兒,好發時機是發病三到七日內。常以腦幹腦炎、心臟衰竭、肺水腫與肺出血表現,最後造成病童死亡。 - (2) 三大重症前兆: - a. 持續昏睡。 - b. 持續嘔吐。 - c. 肌躍型抽搐 (myoclonic jerk)。 - (3) 症狀: - a. 交感神經症狀:休克之前常見交感神經症狀,包括血壓上升,心跳過快,冒冷汗,顫抖。 - b. 神經系統症狀: 意識改變、肢體麻痺、眼球震顫、運動失調。 - c. 心肺系統症狀:呼吸急促、皮膚冰冷、發紺。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】死亡病例多因肺水腫、肺出血造成心衰竭而死亡,病毒性心肌炎反而少見。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...瘍末期而簽署了安寧緩和醫療意願 105( ) 專 書,希望病危的時候可以放棄急救。3天前,陳老先生出現發燒、 頻尿的情況,而被送往醫院救治,經過醫師的診察確認陳老先生為 尿路感染合併敗血症,陳老先生於住院中因為血壓不穩,經過輸液 治療而導致肺水腫,醫師建議進行氣管插管併用呼吸器治療,以緩 解其肺水腫。此時是否應同意陳老先生接受插管? - (A) 反對,因為陳老先生已經簽署了安寧緩和醫療意願書,不應該 違反其意願而為其插管 - (B) 反對,因為陳老先生為胰臟癌末期,不要再進行過於侵入性的 治療,免得增加其痛苦 - (C) 贊成,雖然陳老先生為胰臟癌末期,也簽署了安寧緩和醫療意 願書,但本次住院的原因為泌尿道感染合併敗血症,並非不可 治癒的疾病,醫師應該為其插管治療 - (D) Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

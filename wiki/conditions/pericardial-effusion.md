@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book4-ch01]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Pericardial effusion (心包膜積液)'
   - 'Pericardial effusion'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-心包膜腔液體增加，需注意 tamponade 生理。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心包膜腔液體增加，需注意 tamponade 生理。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch01]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- ...前認為病灶的大小及後續的病生理變化才是決定預後最重要的因素。過大的肺部腫塊壓迫到食道會因為影響吞嚥而造成羊水過多的症狀,相反的經過一些有效的胎兒治療,羊水過多的狀況也會有所改善。而如果腫塊壓迫到上下腔靜脈的話會造成胎兒水腫,包括腹水、胸水、心包膜積液以及皮膚水腫,嚴重的話更可能造成胎兒死亡。若是比較小的腫塊可能要出生之後才會造成呼吸窘迫的症狀,而更小的腫塊可能要等到兒童時期才會因為反覆肺部感染、氣胸或是生長遲滯才被發現。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - (C) 在次發性惡性心包膜積液 (secondary malignant pericardial effusion)的病人中,男性及女性皆以肺癌最為常見 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...liac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心臟舒張,造成回心血量減少, 連帶使得心輸出量減少。 - b. 典型的臨床表現有 Beck's triad: JVP 上升、hypotension,distant heart sounds (隔了一層積液,心音聽起來低沉,好像很遠的感覺)。 - c. 其他表現有 pulsus paradoxus (吸氣時 SBP 下降超過 10 mmHg 或者 9%),以及 Kussmaul's sign (吸氣時 jugul Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...ion (開刀時機為病人在 1.5 至 3 歲時)。(參考)PS:若手術方式為 Fontan procedure,術後發生可能的問題有 systemic venous pressure、fluid retention、pleural or pericardial effusions,其中 pleural effusion 佔 30~40%。晚期併發症可能有 baffle obstruction 進而造成 superior or inferior vena cava syndrome、vena cava or pulmonary artery thromboembolism、protein-losing enteropathy、supraventricular arrhythmias(atrial flutter Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

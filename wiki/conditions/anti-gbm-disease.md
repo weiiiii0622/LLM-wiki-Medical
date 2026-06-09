@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch04]]"
   - "[[sources/med3-book3-ch07]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med4-book1-ch03]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Anti-GBM disease / Goodpasture syndrome (抗腎絲球基底膜疾病)'
   - 'Anti-GBM disease / Goodpasture syndrome'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-anti-GBM antibody 造成腎絲球腎炎，Goodpasture syndrome 合併肺出血。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+anti-GBM antibody 造成腎絲球腎炎，Goodpasture syndrome 合併肺出血。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ anti-GBM antibody 造成腎絲球腎炎，Goodpasture syndrome 合併肺出血�
 - [[sources/med3-book4-ch04]]
 - [[sources/med3-book4-ch11]]
 - [[sources/med4-book1-ch03]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- (11) 膠原纖維疾病 (Collagen diseases): 硬皮症 (Scleroderma)、風濕免疫 (rheumatoid disease)、紅斑性狼瘡 (systemic lupus erythematosus)、皮肌炎 (dermatomyositis)、 韋格納肉芽腫 (Wegener granulomatosis)、古帕斯捷氏綜合徵 (Goodpasture syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 5. Goodpasture syndrome Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (D) Goodpasture 症候群 (Goodpasture syndrome) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...ior lenticonus, dot-and-fleck retinopathy),或 leiomyomatosis。(B)(D) 也可能出現血尿,但無遺 傳性, hypercalciuria 常伴隨腹痛, 頻尿, 或 dysuria, Goodpasture syndrome 則常常同時有肺部及腎的症狀。(C)屬 nephrotic syndrome 的一種,表現主要是 proteinuria 及 edema。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

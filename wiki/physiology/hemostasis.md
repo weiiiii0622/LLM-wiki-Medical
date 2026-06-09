@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med4-book1-ch08]]"
@@ -19,6 +19,8 @@ sources:
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Hemostasis (止血生理)'
   - 'Hemostasis'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-止血包含血小板黏附/活化/聚集與凝血因子形成 fibrin clot。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+止血包含血小板黏附/活化/聚集與凝血因子形成 fibrin clot。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ tags:
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch16]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- 3. 診斷 & 治療: - (1) 治療時機:在生命徵象穩定時就必須開始介入。 - (2) 治療方式 - 單側肺插管治療:用以阻隔患側出血流往健側肺部造成窒息,可用單腔或雙腔氣管內管治療。 - 再來支氣管鏡鏡檢:須在建立穩定的肺部通氣狀態下進行,確認出血位置。 軟式支氣管鏡較不適合用來做治療,較適合用來檢查和確認位置。硬式支氣管鏡較適合用來做為治療。 - 止血:雷射燒灼、支氣管栓塞、血管內支氣管或肺部動脈栓塞、或手術切除。一般來說以血管栓塞為主要的治療方式,如有需要可以反覆施行。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (1) 胸管(36 French)置放:大約85%患者在肺擴張後,出血處會自然止血,因為 出血點常來自體循環血管,血壓較低。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 4. 治療:通常 70% 的病人會自動止血,若仍在活動性出血的病人必須以內視鏡去作止血。手術介入時機在於病人在 24 小時內輸血超過 6U 後仍呈現 hemodynamic instability 時,就可以考慮以手術方式介入。手術介入可以分成十二指腸潰瘍出血與胃潰瘍出血兩部分作處理。 - (1) 十二指腸潰瘍出血(Bleeding duodenal ulcers): - a. 主要的手術治療為十二指腸切開術(duodenostomy)加上 three-point ligati Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 【詳解】現今 Endoscopy 的進步,大部分的腸胃道出血都能以 內視鏡來止血。約 10% 的病人仍須靠外科的方式來治療。外科 醫師的觀點以是否需要持續輸血作為手術的 indication。除此之 外,Sabiston 提出的 surgery indication 如下: Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 3. Recurrent bleeding。recurrent 後嘗試兩次胃鏡,若還是無法 止血,則建議外科治療。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -71,8 +77,6 @@ tags:
 - 1. 致命三角(Lethal Triad)包含 hypothermia、coagulopathy、metabolic acidosis,常見於嚴重外傷患者,這三者之間關係密切,任一個症狀都能誘發另一個症狀產生,造成死亡率上升。因此出現致命三角其中一個症狀出現時,需積極介入,手術探查找出血點給予止血,輸液/電解質矯正,體溫加熱等。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - ...lic acidosis) (C) 低體溫 (hypothermia) (D) 敗血症 (sepsis) 【詳解】對於嚴重創傷患者,出血過多為最常見死因,當其 vital sign 不穩定時,但其創傷部位過於嚴重,手術耗時,此時需 以維持 hemostasis 為優先,避免因失血過多引發後續 lethal triad 的發生,包含 hypothermia、coagulopathy、metabolic acidosis。 105(二)專 (A) 7. 一位 50 歲男性的卡車司機,因打瞌睡於高速公路追撞前方聯結 車,卡在前座達 20 分鐘,到達急診時,血壓 80/40 mmHg、意識 醫五-76 清楚但躁動不安、腹部脹大、左腿變形,下列何項敘述最不適當? (A) 應立即進行腦部電腦斷層檢查 ( Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - ...一個病人因車禍,血流滿面送至急診室,如果你是值班醫師, | 99(一)專 | | | 你要優先處理: | 醫五 -28 | | | (A) ABC (airway, breathing, circulation) | | | | (B) 止血 | | | | (C) 傷口縫合 | | | | (D) 檢查有否其他傷害 | | | (D) 23. | 承上題,其次應處理: | 99(一)專 | | | (A) ABC (airway, breathing, circulation) | 醫五 -29 | | | (B) 清創 | | | | (C) 傷口縫合 | | | | (D) 檢查有否其他傷害 | | | | 【詳解】檢查看看有沒有身體上的其他傷害。 | | | (D) Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- ...0 mL。 - (1) 大量輸血可能引起許多併發症,包括: - (2) 低體溫:因為血品儲存溫度為 1~6℃,在輸血前盡量要對冷藏血進行預熱,輸血後也要注意進行體溫回復。 - (3) 凝血功能障礙:一部分因為外傷損失大量血小板和凝血因子,且止血過程中又會消耗血小板和凝血因子;另外像是 packed RBC 內不含足夠凝血因子,而輸血帶來的大量體積又會稀釋掉血小板濃度(dilution thrombocytopenia),所以會有凝血功能障礙的情形。可以 pRBC: FFP: platelet 以 1:1:1 的方式輸注來預防。 - (4) 急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - a. 大量輸血有機會造成高血鉀,另外病人大都存在休克狀態 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (D) 17. 一位 70 公斤且多重外傷之病人於急診之總輸血量超過 2,500 毫升,雖經過緊急手術止血,受傷後第一天之總輸血量仍超過 5,000 毫升。於加護病房照護初期,下列何種變化較少出現? Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch12]]"
   - "[[sources/med3-book4-ch01]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Thrombophilia (血栓傾向)'
   - 'Thrombophilia'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 5. 檢查: antithrombin III、protein C、protein S、Factor V Leiden mutation、Hyperhomocystinemia、Lupus anticoagulant。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (A) 高脂肪與蛋白質攝取 (high fat or protein consumption) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 1. 原因:Virchow's triad - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、antithrombin III deficiency、antiphospholipid syndrome 等。 - (3) Endothemium injury: 靜脈內皮細胞受損,例如手術( 髖關節或膝關節手術)、 外傷、之前有過 DVT。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 2. 危險因子同 DVT: Virchow's triad。 - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、Antithrombin III deficiency、Antiphospholipid syndrome 等。 - (3) Endothelium injury: 靜脈內皮細胞受損, 例如手術( 髖關節或膝關節手術) 外傷、 之前有過 DVT。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].

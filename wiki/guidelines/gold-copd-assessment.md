@@ -2,7 +2,7 @@
 type: guideline
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch14]]"
   - "[[sources/med3-book1-ch15]]"
@@ -30,6 +30,9 @@ sources:
   - "[[sources/med5-book2-ch02]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)'
   - 'GOLD COPD assessment'
@@ -44,7 +47,7 @@ tags:
 
 ## Summary
 
-COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +77,16 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - [[sources/med5-book2-ch02]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book3-ch23]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...--|------------------------| | Primary | Penetrating | | Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibr Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (C) 慢性阻塞肺病(COPD)引起的氣胸為續發性(secondary) 氣胸 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (D) COPD 引起之 emphysema 與長期抽菸有密切相關 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (2) 在歐美為 gold standard 的篩檢工具,但由於亞洲女性乳房較為緻密,有時易受干擾,必須輔以乳房超音波協助診斷,或先以乳房超音波作為篩檢工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 【詳解】在歐美國家,乳房 X 光攝影為 gold standard 的篩檢工具,但由於亞洲女性乳房較為緻密,有時易受干擾,必須輔以乳房超音波協助診斷,或先以乳房超音波作為篩檢工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 2. 見下表,以 AAA 為例,年齡、活動度、心臟(CAD、AMI等)、肺功能(FEV1、COPD)、腎功能、AAA 的 type 及肝功能等都會影響到手術的 mortality,其中以心臟(CAD) 為最主要的手術危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
@@ -91,10 +101,6 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - (D) 6. 足月兒出生時,母親有發燒症狀且羊膜已在出生前兩天破裂,嬰兒於出生後 8 小時開始明顯的呼吸窘迫,血壓下降,胸部 X 光呈現雙側全面的浸潤,並有少許肋膜腔積水,最可能的診斷為下列何者? - (A) 大腸桿菌(Escherichia coli) 感染 - (B) 綠膿桿菌 (Pseudomonas spp.) 感染 - (C) 肺炎鏈球菌 (Streptococcus pneumoniae) 感染 - (D) B 群鏈球菌(group B Streptococcus)感染 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 3. 診斷: UGI contrast series 是診斷的 gold standard。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...關節病變可減緩其關節腐蝕,(2)對於 RA 有效 的藥如 MTX、Salfasalazine 對周邊關節炎也有效,(3) 對於 Psoriasis 有效的藥如 Cyclosporine,對 PsA 也有臨床效果。但在 RA 被廣為 使用的 Gold、Antimalarial 如 hydroxychloroquine,在治療 PsA 上, 其效用仍受爭議。(Harrison, 1999) (B) 22. 僵直性脊椎炎 (ankylosing spondylitis) 是常見的青少年下背僵硬疼 94(一)專 痛的疾病,病患初次就診時若從家族史問出有同一診斷的近親時, 內 1-34 則病患本身很有可能帶有何種與僵直性脊椎炎相關性強的人類白血 球抗原 (HLA)? (A) HLA-B5 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- \*Dick test:在皮下注射猩紅熱毒素,若血中有中和性抗體,會發生皮膚紅腫,即為陽性。 - 2. 無乳鏈球菌 (S. agalactiae) => B 群鏈球菌 (Group B streptococcus, GBS): 導致疾病: 主要存在人類陰道。新生兒敗血症、腦膜炎: 乃因經過產道時感染所致。 - 3. 糞腸球菌 (Enterococcus faecalis) => D 群鏈球菌 (Group D streptococcus): 引起膽道、 泌尿道感染,常引起院內感染。當腸道、尿道接受侵入性檢查時,此菌可能因此進入血中,瓣膜有壞損的人,就可能因此感染心內膜炎。治療: Ampicillin+ Gentami Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (1) 根據表面的多醣體抗原(polysaccharide antigen)分類:有 O(somatic)antigen、Vi(capsular)antigen、H(flagellar)antigen。會使人類、動物致病的多是 O antigen,再分為 A、B、C1、C2、D、E。所以細菌室的鑑定報告會附 Serogroup D 等。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- c. 肺炎、中耳炎:常見於 COPD、抽菸者。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch16]]"
@@ -32,6 +32,9 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)'
   - 'CT pulmonary angiography, CTPA'
@@ -46,7 +49,7 @@ tags:
 
 ## Summary
 
-肺栓塞常用影像診斷。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺栓塞常用影像診斷。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +81,17 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...questrations)。 - a. 好發於左下肺葉之中節和後節,約佔全部游離肺 2/3。 - b. 通常位於下肺韌帶, 佔肺內游離肺約 85%, 由來自橫隔下主動脈分流出的異常血管供應, 而由下肺靜脈或體循環靜脈回收。 - c. 檢查:血管攝影 (angiography)、CT 或 MRI。(診斷兼術前評估) - d. 症狀:咳嗽、咳血、呼吸困難、反覆性肺炎。 - e. 治療:手術切除(segmentectomy or lobectomy)。因為有出血和感染風險,而由於異常結構,故手術風險也相當高。 - (2) 肺外游離肺 (extralobar sequestrations)。 - a. 有獨立肋膜包覆,無支氣管聯通。 - b. 好發於男性(男女比為 3:1)、左肺(左右比 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 4. 檢查評估: - (1) DLco 是最佳評估整體肺臟疾病嚴重度的工具。 - (2) 肺血管攝影 (pulmonary angiography) 檢查:氣腫呈現低訊號且無血管。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 3. 診斷 & 檢查: - (1) 胸部 X 光:90% 主動脈破裂患者可以看到縱隔變寬。 - (2) 細切螺旋 CT 血管攝影:胸部 X 光呈縱隔變寬之穩定患者,或正常胸部 X 光但有顯著受傷機轉懷疑胸主動脈破裂。 - (3) 血管攝影:當 CT 無法確定或懷疑其他大血管受傷時,應做血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- ...c. 在成人患者中,敏感度下降到 63%,因憩室中的胃粘膜組織較少。可利用組織胺 H2 接受體拮抗劑(Ex:cimetidine)增加檢查敏感度:減少胃酸分泌和延緩放射性同位素從粘膜分泌細胞釋出。如果此檢查為正常,需做鋇劑攝影檢查、腸繫膜血管攝影、或雙氣球內視鏡檢查。 - (3) 手術:如病患出血合併生命徵象不穩定,應避免因影像檢查而延誤手術治療。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (A) 10.75 歲的張三,昨天午睡起來突然腹痛難耐而被送醫。急診處醫師 98(二)專 發現他心律不整,有心雜音,腹部壓痛。先進行電腦斷層(CT) 醫五-74 掃描。並為病情處置需要,馬上安排腹部血管攝影。影像如附圖。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (C) 15. 55 歲林先生,近數月來感覺疲倦、食慾減退,右上腹部也感到 有些脹痛。血液檢查胎兒蛋白(alpha-fetoprotein)值正常、HBsAg 陽性(HBsAg+),肝臟 Dynamic CT 影像如圖(一),手術前再 度做血管攝影檢查如圖(二)。林先生最可能患了什麼病? 102(一)專 醫五-73 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 安排血管攝影檢查以及血管栓塞處置 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
@@ -94,11 +105,6 @@ tags:
 - ...angiodysplasia): 0.1 cc/min、tagged RBC 可偵測出血速率> 0.5 cc/min 的出血點) - (b) Mesenteric angiography:當 nuclear scan 為陽性反應時,才會採用血管攝影去尋找出血點的實際解剖位置,可偵測出血速率> 1.0 cc/min 的出血點,並可同時施打 vasopressin 或作 embolization,達到治療的效果,成功率約 85%。 - (c) Colonscopy:用來治療勝過診斷,適合較慢速的出血。可用 vasoconstrictive agents (epinephrine)、vasodestructive agents (alcohol、morrhuate、sodium tet Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - (D) 血管攝影(angiography)可以用於尋找出血位置及治療 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - (D) 8. 一位 56 歲男性病人因胸悶住院。他有糖尿病、高血壓、與抽菸 史。冠狀動脈血管攝影檢查顯示左冠狀動脈主幹 85% 狹窄、左 前降支 80% 狹窄、左回旋支 77% 狹窄、右冠狀動脈 90% 狹窄。 下列敘述何者正確? ①依冠狀動脈血管攝影檢查前家屬之決 定,立即裝置塗藥支架(drug-eluting stent) ②冠狀動脈血管攝 影檢查時,經與家屬商量後,立即裝置裸金支架(bared-metal stent) ③裝置支架前,不須請心臟外科醫師向病人及其家屬解 釋冠狀動脈繞道手術之優缺點 ④裝置支架時,手術室須準備 好,以便可立即進行緊急手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (D) 安排心臟超音波檢查、心導管檢查術與冠狀動脈血管攝影術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- | (B) 28. 承上題,接下來何者為適當的檢查? | 101(一)專 | |----------------------------------------|---------| | (A) 血管攝影 (angiography) | 醫五 -55 | | (B) 大腸鏡(colonoscopy) | | | (C) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstru Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 【詳解】圖中由上方可見一片訊號較強的地方,沿著腦溝分布 呈現五芒星狀為 SAH,該部位為 basal cistern,為動脈瘤破裂所 致。住院做血管攝影確認病灶來源。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- (B) 10. 一位 56 歲女性病患,大腦血管攝影發現有一顆後交通動脈瘤 (posterior communicating artery aneurysm),該動脈瘤接觸到大 腦顳葉(temporal lobe),這位病患最有可能的症狀是那一種? Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- (C) 在大腦血管攝影前後像可看到動脈瘤在頸內動脈內側突出 (projection of the aneurysm medial to the internal carotid artery on the AP angiogram) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 
 ## Clinical Caveats
 

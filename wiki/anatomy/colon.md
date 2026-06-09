@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch01]]"
   - "[[sources/med3-book2-ch08]]"
@@ -76,6 +76,9 @@ sources:
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch12]]"
   - "[[sources/med5-book3-ch16]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Colon (大腸)'
   - 'Colon'
@@ -90,7 +93,7 @@ tags:
 
 ## Summary
 
-大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -166,9 +169,19 @@ tags:
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch12]]
 - [[sources/med5-book3-ch16]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- F. 壞死性腸炎 (Necrotizing enterocolitis, NEC) 155 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 2. 胎便塊大腸阻塞症(Meconium plug syndrome) - (1) 常見的新生兒腸阻塞,和多種疾病有關,如巨結腸症、妊娠期糖尿病、甲狀腺功能低下、囊性纖維化等。大多數有此症狀之孩童為正常,但建議進一步檢查排除巨結腸症,尤其早產或明顯有遠端小腸阻塞症狀之孩童。 - (2) 臨床表現:腹脹。 - (3) 檢查 & 診斷: KUB 顯示多段小腸氣、水溶性顯影劑灌腸(同時診斷治療)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- 1. 腸道閉鎖常見形式:空迴腸閉鎖(Jejunoileal atresia)為最常見、十二指腸閉鎖(Duodenal atresia)、大腸閉鎖(Colonic atresia)最少見(5~10%)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- ...部在腹腔和 後縱隔間滑動。(圖三 C) - (4) Type IV (herniation of organs other than stomach into the chest):除了胃之外還有其他腹腔內的器官如大網膜(omentum)、大腸、小腸或脾臟也一起進入胸腔。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (B) paraesophageal hiatal hernia 指的是腹部的大腸、小腸等 herniation to the chest Source: [[sources/med5-book4-ch05|戊、食 道]].
+- a. 重建管道選擇:以胃為主要的重建替代管道。如重建距離較短,可採用自由空腸皮瓣(free jejunal flap)或自由前臂移植(free forearm graft),通常血管吻合在內胸動靜脈或頸部血管。如重建距離較長,可採用空腸皮瓣或大腸,但常會在遠端彎曲造成阻塞症狀。除胃管上拉(gastric pull-up)不需腸對腸吻合,其餘皆需要,故增加手術風險。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 列何者錯誤? 醫五-2 - (A) 肝癌 (hepatocellular carcinoma) —胎兒蛋白 (alpha-fetoprotein, AFP) - (B) 大腸癌— CEA (carcinoembryonic antigen) - (C) 小細胞肺癌— CA19-9 - (D) 前列腺癌— PSA (prostate specific antigen) Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 十二指腸或大腸阻塞(Duodenal/colon obstruction)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 此張可見擴張脹大的小腸,大腸的腸 氣不明顯。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
 - (A) 5. 一位 53 歲男性,主訴腹部疼痛及嘔吐。患者於 3 年前曾因大腸腫瘤接受右側結腸切除術,半年前病患亦有一次相似的腹部疼痛,於急診室處理後症狀改善而出院。此次病患仰臥腹部 X 光片顯示於左上腹部及左下腹部出現充滿氣體之脹大空腸腸管,6小時後追蹤之腹部 X 光片仍顯示脹大的腸管,但是腸管內之氣體消失明顯,被腸腔內液體所取代。身體診查發現病患腸音靜止,患者無排氣無排便。下列何者與患者的病情變化最不相符? Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
@@ -180,13 +193,6 @@ tags:
 - 3. 人體內每天約有8到10升的水分進入小腸,只有少數不到500 mL的水分會進入大腸。 Source: [[sources/med5-book3-ch04|甲、解剖構造]].
 - 5.50%的病人在憩室中會發現其他異位黏膜組織,胃黏膜最常見(占60%),其他如 胰臟組織或大腸組織。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
 - #### 丙、大腸憩室疾病 (Colonic Diverticular Disease) Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- 1. 大腸憩室為穿透大腸壁的囊狀突起物,一般真憩室(true diverticulum)是整層的腸壁向外突出,但大腸憩室為大腸黏膜層穿透過肌肉層向外膨出,肌肉層並沒有一起膨出,所以叫作偽憩室(false diverticulum)。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- 2. 大部分大腸憩室的膨出點是在腸壁較為脆弱之處,通常是血管穿透肌肉層的地方, 也就是 lateral mesenteric (antimesenteric) taeniae 的 mesenteric side 靠近 mesenteric taenia 處,不會發生在 lateral mesenteric taeniae 的 antimesenteric side。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- (C) 1. 一位 56 歲的女性大腸癌病患,在經過手術治療後,順利恢復。 術後定期的門診追蹤也顯示一切正常。在術後半年接受門診大 腸鏡檢查時,只發現乙狀結腸有一個 1 公分半大小的短莖性息 肉,其他皆正常。經順利切除息肉後,病人並未感覺任何不適, 於是讓病人回家,並安排 1 星期後返診。病人在作完檢查及息 肉切除後的頭 2 天都還不錯,但在第 3 天卻突然發生腹部劇痛, 經家人送回醫院急診,理學檢查有輕度發燒(38℃),腹部有壓 痛及反彈性壓痛,白血球數也增加至 15,0 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- (D) 作大腸造口或加上切除部分大腸 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- (B) 3. 一位 60 歲的女性到某健診中心接受例行健康檢查,在作完 60 公分長的乙狀結腸鏡檢查後,立刻出現腹痛及腹脹的症狀,理學檢查有下腹部壓痛的病徵,但並無反彈性壓痛。經照過腹部 X 光,發現在後腹腔(Retroperitoneum)有少量 free air,胸部 X 光檢查也出現少許縱隔腔的 free air,腹部電腦斷層掃描也看得出有少量的 retroperitoneal free air,但並無腹膜腔內之 free air。在乙狀結腸鏡檢查過程中有發現 sigmoid colon diverticulum,但並未進行任何切片檢查或息肉切除。依上述,病人最有可能發生什麼狀況? Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- 1. 大腸至直腸總長約 150 cm:盲腸(10 cm)→升結腸(15 cm)→ hepatic flexure → 横結腸(45 cm)→ spleen flexure →降結腸(25 cm)→乙狀結腸(15~50 cm,平均 38 cm)→直腸(12~15 cm)→肛門。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
-- (3) 以 IMA 為例,其中一個動脈分支由大到小為 IMA → left colic artery → marginal artery → vasa recta → colon。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
 
 ## Clinical Caveats
 

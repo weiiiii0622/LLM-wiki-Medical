@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch24]]"
   - "[[sources/med3-book1-ch22]]"
@@ -43,6 +43,8 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch08]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Arterial blood gas, ABG (動脈血氣)'
   - 'Arterial blood gas, ABG'
@@ -57,7 +59,7 @@ tags:
 
 ## Summary
 
-評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +102,14 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch08]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- Reference: Grulich AE, van Leeuwen MT, Falster MO, Vajdic CM. Incidence of cancers in people with HIV/AIDS compared with immunosuppressed transplant recipients: A meta-analysis. *Lancet* 2007; 370(9581): 59-67. Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 2.42 歲男性因雙側肺氣腫(emphysema)導致呼吸窘迫而入院,胸 101(二)專 部電腦斷層顯示其右上肺葉有一巨大之氣泡(bullae),且壓迫到 醫五-22 縱隔腔而出現 mediastinal deviation 的現象。若欲為此病患實行 lung volume reduction surgery,為避免病患術後發生呼吸衰竭, 下列檢查何者無助益? - (A) 動脈血氧 (ABG) - (B) 肺功能檢查 - (C) 肺部之 ventilation and perfusion scan - (D) 心電圖檢查 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 4. 一位 30 歲的男性工人從 6 公尺高的鷹架墜落,身體檢查顯示收縮壓 120 mmHg,右胸有明顯的連迦胸(flail chest),嚴重的呼吸窘迫(severe respiratory distress),右胸呼吸聲音稍微降低,叩診時則左右兩側類似。給予非再呼吸型面罩氧氣 15 L/min 後,其動脈氣體分析為 pH: 7.47,PaO2: 65 mmHg,PaCO2: 28 mmHg;下列何者最可能解釋他的異常動脈氣體分析之原因? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - 3. 術後併發症: - (1) 腹內膿瘍 (intra-abdominal abscess)。 - (2) 膽汁滲漏 (Bile leakage)。 - (3) 肝功能衰竭(Liver failure): 若剩下的肝臟比例不足,很有可能會造成 liver failure。術前需仔細評估肝臟功能,後面的內容會再解釋。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - A. 主動脈內氣球幫浦(Intra-aortic ballon pump, IABP) 98 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -118,9 +125,6 @@ tags:
 - ...(hyperglycemia) 並不會增加手術的發病率和死亡率 (morbidity and mortality) | | | (D) 老年人在手術前應評估其肺部功能 | | | (A) 14. 當小客車司機因追撞大貨車,於急救時出現大量血氣胸,必須緊急給予胸管引流治療。有關胸管置放之位置,下列敘述何者 | 106(一)專醫五-6 | | 正確? | | | (A) 第四或五肋間,腋中線(4th or 5th intercostal space, mid-axillary | | | line) | | | (B) 第二肋間,鎖骨中線(2nd intercostal space, mid-clavicular line) | | | (C) 第六或七肋間,腋中線(6th o Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 7. SIRS (systemic inflammatory response syndrome):以下符合 2 個以上: - (1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfu Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (B) 3. 人類因為感染或外傷可引發全身性發炎反應症候群(systemic inflammatory response syndrome, SIRS),其臨床表現含:①體溫 > 38℃,或≤36℃ ②心率≥90 / 分 ③呼吸速率≥20 / 分, 或 PaCO2 ≤ 32 毫 米 汞 柱 , 或 需 要 機 械 式 通 氣 (mechanical ventilation) ④白血球 $\geq 12,000$ / 微升 ( $\mu$ L),或 $\leq 4,000$ / 微 升 $(\mu L)$ ,或 band forms ≥ 10%。若病患要被診斷為全身性發炎 反應症候群,至少須合乎上列幾種條件? - (A) 一種 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (C) 在正常呼吸下呼吸速率每分鐘大於 20 下或是血液中二氧化 碳分壓 (PaCO2) 小於 32 mmHg Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- 2. MHC 基因位於人類第六對染色體上。 - (1) 第一類 (Class I):包含 HLA-A, B, C, 脊椎動物體內的有核細胞以及血小板都有,被病毒感染的細胞能將抗原呈現給 CD8+毒殺型 T 細胞 (cytotoxic T lymphocyte),引發 cell-mediated immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 【詳解】腎臟移植組織配對以 HLA-A, B, DR 最重要。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

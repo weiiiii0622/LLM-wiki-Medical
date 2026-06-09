@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch01]]"
@@ -14,6 +14,8 @@ sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Measles (麻疹)'
   - 'Measles'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-高度傳染性病毒感染，表現發燒、咳嗽、結膜炎、Koplik spots 與全身斑丘疹。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高度傳染性病毒感染，表現發燒、咳嗽、結膜炎、Koplik spots 與全身斑丘疹。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med4-book2-ch06]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...s, and hypomotile cilia)。 - (2) Acquired causes: 感染和發炎。 - a. 支氣管堵塞: 氣管外壓迫(腫瘤、淋巴結腫大)、吸入異物或刺激物質、膿痰。 - b. 感染:壞死性細菌肺炎、百日咳肺炎、麻疹肺炎、流感肺炎、水痘肺炎。吸入性有毒氣體。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - | 致病原 | 疾病 | 腦電波 (EEG) 特徵 | | |-----------------------|----------------------------|---------------------|-------| | 感染性蛋白 (Prion protein) | 庫賈氏病 (CJD) | Periodic complex of | 1S | | 疱疹病毒 (Herpes virus) | 疱疹腦炎 (Herpes encephalitis) | spike or slow wave | 2S | | 麻疹病毒 (Measles virus) | 亞急性硬化性廣泛性腦炎 (SSPE) | at intervals of | 3~20S | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - 【詳解】(B) SSPE 最常由 measles 引發。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -61,8 +67,6 @@ tags:
 - VIII. 百日咳 (Pertussis) 177 - IX. 微小病毒 B19 感染 179 - X. 水痘病毒 (VZV) 感染 180 - XI. 麻疹 183 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 1. 下列何種傳染病,在病好隔了數年後,病毒可能會再度活化而出 109(二)專 現帶狀疱疹? 醫四-1 - (A) 麻疹 (Measles) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (C) 3.10個月大的男嬰發燒和皮疹已2天。過去健康狀況良好,家人沒 107(二)專有生病。此男嬰精神好,身體診察發現口腔黏膜有潰瘍,頭皮、 醫四-4 臉部、耳朵和軀幹有水泡,部分水泡中央凹陷呈肚臍狀。最可能的診斷是: - (A) 手足口症 (Hand-foot-and-mouth disease) - (B) 猩紅熱 (Scarlet fever) - (C) 水痘(Varicella) - (D) 麻疹 (Measles) Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 3. 危險因子:早產兒、女性、高海拔出生的嬰兒、周產期缺氧、母親懷孕期間感染德國麻疹。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) 感染性疾病: - a. 病毒性:麻疹、EB virus、adenovirus 等。 - b. 細菌性:猩紅熱、toxic shock syndrome 等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

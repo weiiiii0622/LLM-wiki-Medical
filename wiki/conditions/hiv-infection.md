@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch22]]"
@@ -37,6 +37,7 @@ sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'HIV infection (人類免疫不全病毒感染)'
   - 'HIV infection'
@@ -51,7 +52,7 @@ tags:
 
 ## Summary
 
-HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +89,12 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- Reference: Grulich AE, van Leeuwen MT, Falster MO, Vajdic CM. Incidence of cancers in people with HIV/AIDS compared with immunosuppressed transplant recipients: A meta-analysis. *Lancet* 2007; 370(9581): 59-67. Source: [[sources/med5-book4-ch03|丙、肺]].
+- (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - ...immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -107,8 +111,6 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - (2) 感染:感染被認為能誘發乾癬的發生,急性滴狀乾癬通常出現在急性鏈球菌感 染後一至兩週。HIV 也與乾癬的發生相關。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - (D) HIV 族群中乾癬的盛行率高於一般民眾,且嚴重性較高 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - 【詳解】(A) 乾癬沒有分第幾型的說法;(C) 所敘述疾病為異位性皮膚炎,乾癬反而 β-defensin 和 LL37 的濃度升高與疾病相關。(D) HIV 患者的乾癬盛行率是大於一般民眾的乾癬盛行率,且HIV 患者的乾癬多較嚴重且預後不好,治療也比較棘手,因為嚴重乾癬需使用免疫抑制劑,但 HIV 患者的免疫本來就不全了,因此更增添治療的挑戰性。不過選 (D) 沒有給分。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- 8. HIV nephropathy Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (C) 先天的感染如 syphilis 或 HIV 可以造成此種情況 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

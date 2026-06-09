@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch04]]"
   - "[[sources/med3-book4-ch16]]"
@@ -58,6 +58,11 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med5-book4-ch11]]"
 aliases:
   - 'Multiple myeloma, MM (多發性骨髓瘤)'
   - 'Multiple myeloma, MM'
@@ -72,7 +77,7 @@ tags:
 
 ## Summary
 
-漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -130,9 +135,19 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch10]]
+- [[sources/med5-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...膜腔恆定改變所造成。 - (2) 滲出液(exudates)因肋膜或淋巴完整性被破壞或阻斷所造成。以下為滲出液判別標準(Light's criteria),符合其中以一項即可: - a. Pleural fluid protein/serum protein greater than $0.5\,$ $\circ$ - b. Pleural fluid LDH/serum LDH greater than 0.6 • - c. Pleural fluid LDH 1.67 times normal serum - (a) 現在修正為:LDH > 2/3 upper limits of serum normal。 - d. 正常參考值:因各實驗室不同而有差異,以下僅供參考。 - (a) se Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- | Respiratory rate | 2 | > 70 mm Hg (FiO 2 of 40%) | | PaCO 2 | 2 O | | Rapid shallow breathing index, RSBI | ≤ 105 (70% will pass extubation)= respiratory rate/tidal volume [L] | Source: [[sources/med5-book4-ch03|丙、肺]].
+- 3. 解剖狹窄:從上而下。 - (1) 環咽肌狹窄處 (cricopharyngeus muscle constriction): 直徑 14 mm, 為最狹窄處。 - (2) 左主支氣管主動脈狹窄處(bronchoaortic constriction): 位於氣管分支處下方, 左主支氣管和主動脈緊鄰處,即 T4 高度,直徑 15~17 mm。 - (3) 橫隔狹窄處 (diaphragmatic constriction): 直徑 16~19 mm。 - (4) 狹窄處將食道分成上下擴張處:直徑約 25 mm。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- | Type | Proportion | Feature | |------|------------|----------------------------| | I | 75% | 少數幾個直徑2至10公分的大型囊泡組成,壓迫正常肺部 | | | | 實質組織。 | | II | | 很多個 < 1 cm 的小囊泡組成。 | | III | rare | 直徑約數個 mm 的小囊泡。 | Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- (3) 腹部超音波:觸診未發現時,可用腹部超音波,幽門括約肌厚度超過 3~4 mm 或幽門括約肌長度超過 15~18 mm,即可診斷。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...下肋間,請病人深吸氣, 測試是否會因疼痛而停止呼吸)。 - b. 腹部電腦斷層:目前腹部電腦斷層在診斷急性膽囊炎的角色越趨重要,對於 pus formation 或 perforation 等診斷幫助最大。 - (a) 膽囊壁增厚 > 5 mm (gallbladder wall thickening)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (D) 7.60 歲肥胖男性病患, 曾接受闌尾切除, 體檢時曾得知膽結石, 但無明顯症狀,有喝酒習慣。5天前因聚餐後,突發整個上腹部 有壓痛,發燒(39℃)、血中白血球 18,000/mm³, N/L = 83% / 16%;黃疸值(total bilirubin 5.6 mg/dL),則應做那項進一步的 處置? Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (A) 膽囊息肉 (polyp) > 10 mm Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
@@ -146,11 +161,6 @@ tags:
 - 【詳解】眼瞼下垂程度輕微(約1~2 mm)可考慮使用結膜苗勒 氏肌(Müller's Muscle)切除(Putterman procedure)來矯正, 若是較嚴重的眼瞼下垂(≥2 mm)且提瞼肌功能大於5 mm 以 上,可以用提瞼肌切除術 (levator resection),來提高眼瞼高度。 眼瞼下垂嚴重且提瞼肌功能幾乎完全喪失(5 mm 以下),則考 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (A) 3. 眼瞼下垂(ptosis)依照其嚴重度來分,兩側眼瞼水平高度相差 4 mm 以上時屬於: Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - 【詳解】下垂 2 mm 為輕度,下垂 3 mm 為中等度,下垂 4 mm 則為重度。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- 2. 超音波:可以看到 appendix 直徑大於 6 mm (Sensitivity: 86%, Specificity: 81%)、 糞石,超音波可幫助鑑別診斷婦科或是兒科的急性腹痛。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
-- 3. 如果依照 Hx, PE 診斷不確定,可以使用腹部 CT 輔助診斷。CT 上可以看到 appendix 直徑大於 6 mm, appendix 附近有水聚積(fluid accumulation),或是看到 糞石。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
-- (A) 6. 一位 52 歲女性病患,因下腹痛 5 天被帶至急診處。患者體溫攝 氏 38 度,理學檢查顯示右下腹壓痛及反彈痛,並可摸到一大小 約 5 公分、界線不明之硬塊。抽血血液檢查白血球值 13,800/ mm³。請問下列何者為最適當之進一步檢查? Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
-- (B) 無症狀但合併嚴重主動脈瓣膜逆流及左心室射出比率 50% 及 end-diastolic dimention " 70 mm,才需要手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- (B) 14. 一位 75 歲的男性,主訴最近 6 個月來快走會有心悸和胸悶的現 象,身體檢查時,血壓 140/50 mmHg,心跳規律,胸骨右側上方 可聽到心舒期雜音,心臟超音波檢查有嚴重的主動脈瓣逆流, 但左心室收縮內徑(left ventricular end systolic dimension)為 58 mm,舒張內徑為80 mm,此時最好的治療方式為何? - (A) 用金屬性瓣膜置換主動脈瓣 - (B) 用豬心瓣膜置換主動脈瓣 - (C) 使用抗心律不整藥劑 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 
 ## Clinical Caveats
 

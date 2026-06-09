@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch12]]"
@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book4-ch26]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Iron deficiency anemia, IDA (缺鐵性貧血)'
   - 'Iron deficiency anemia, IDA'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-鐵缺乏造成小球性貧血，成人需尋找慢性失血來源。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鐵缺乏造成小球性貧血，成人需尋找慢性失血來源。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,14 @@ tags:
 - [[sources/med3-book4-ch26]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch02]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- 2. 好發族群:營養缺乏之中年女性,常合併有缺齒、萎縮性口腔黏膜和舌炎、匙狀指 甲和缺鐵性貧血,且有較高機率得到鱗狀上皮細胞癌。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 3. 臨床表現:吞嚥困難、下咽食道蹼、體重減輕以及缺鐵性貧血,若未治療很容易從下咽蹼發展成後環甲癌症。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (D) 核醫 Tc99m IDA 掃描 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 1. 為兒童最常見的貧血,其中又以營養性缺鐵性貧血最為常見。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 2. Mentzer Index (MI): MCV/RBC > 13 為缺鐵性貧血; \ | ↑或正常 | \ | | TIBC | ↑ | \ | \ | | ferritin | ↓ | 1 | 1 | | Mentzer | > 13 | 鐵的吸收(2) 1~4 週後 data 會改善 | 電泳確定診斷 | (1)也可以是正球性貧血(2)CKD病人常見 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (D) 2. 關於缺鐵性貧血(Iron-deficiency anemia)病人,如果沒有發生心 108(二)專 Source: [[sources/med4-book1-ch08|辛、血液學]].

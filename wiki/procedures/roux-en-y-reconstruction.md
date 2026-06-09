@@ -2,12 +2,13 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book3-ch15]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Roux-en-Y reconstruction (Roux-en-Y 重建)'
   - 'Roux-en-Y reconstruction'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-以 Roux limb 重建消化道連續性，可降低膽汁逆流但可能有 Roux stasis syndrome。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 Roux limb 重建消化道連續性，可降低膽汁逆流但可能有 Roux stasis syndrome。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,13 @@ tags:
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book3-ch15]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- (1) 手術切除為主,將膽道囊腫完整切除,再以(Roux-en-Y hepaticojejunostomy) 膽管空腸吻合術式接回,以腹腔鏡術式做切除合併(end-to-side jejunojejunostomy)空腸吻合術作治療。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- Fig. 13. Hepaticojejunostomy Roux-en-Y. The anterior wall of the common hepatic duct is secured by retaining polydioxanone sutures. Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (B) 手術的方法以囊腫全切除併 Roux-en-Y 膽管空腸吻合 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - b. Postgastrectomy syndromes: - (a) Roux-en-Y 是目前較被推薦使用的術式,可避免膽汁逆流,減少殘胃癌的發生。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (c) 此外,當腸胃道蠕動變差,病人會出現Roux stasis syndrome 如腹痛和嘔吐。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - #### 6. Roux stasis syndrome: Source: [[sources/med5-book3-ch03|丙、胃癌]].

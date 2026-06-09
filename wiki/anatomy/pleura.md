@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch23]]"
   - "[[sources/med3-book1-ch21]]"
@@ -42,6 +42,12 @@ sources:
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Pleura (肋膜)'
   - 'Pleura'
@@ -56,7 +62,7 @@ tags:
 
 ## Summary
 
-肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -98,9 +104,25 @@ tags:
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch17]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- A. 肋膜液 (Pleural fluid) 12 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ### A. 肋膜液 (Pleural fluid) Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 1. 肋膜液的產生,由肋膜微血管和肋膜腔的膠體渗透壓和靜水壓差決定。一天約產生 5~10 L 肋膜液,正常狀況下,滯留在肋膜腔的肋膜液非常微量。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 7. 手術: - (1) 術式:胸廓切開術合併肋膜外分離術 (open thoracotomy with extrapleural dissect Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...laris propria | | T3 | Tumor invades adventitia | | T4 | Tumor invades adjacent structures | | T4a* | Tumor invades the pleura, pericardium, azygos vein, diaphragm, or peritoneum | | T4b* | Tumor invades other adjacent structures, such asd aorta, vertebral body. or trachea | | N category | | | NX | Regional lymph nodes cannot be assessed | | N0 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- b. 位置選擇:可採經皮下、胸骨下(substernal)、右肋膜腔或後縱隔腔(posterior mediastinal)路徑。 - (a) 以後縱隔腔為最短路徑,通常於食道切除後立即重建。 - (b) 胸骨下,適合後縱隔腔被腫瘤侵犯或纖維化之病患,路徑稍長,且功能稍差。 - (c) 皮下是最後選擇,不美觀且功能較差,路徑也較長,目前已不使用。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- ...(4) Stage III: Invades adjacent organs (great vessels, pericardium, or lung) - (5) Stage IVa: Intrathoracic metastasis (pleural or pericardial dissemination) - (6) Stage IVb: Extrathoracic metastasis (uncommon) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- $\Delta P$ (肺間壓;肺泡內外壓力差) = Palv (肺泡壓) Pip (肋膜腔壓) Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...| | T1c:大小> 2 公分,但≦ 3 公分。 | | T2:大小>3公分,但≤7公分。 | T2:大小>3公分,但≦5公分。 | | 或侵犯到主支氣管分支處 2 公分以外。 | 或侵犯到主支氣管,除分支處以外。(不分距 | | 或臟層肋膜。 或肺塌陷到肺門但非全肺阻塞 | 離分支處多近)。 | | 性肺炎。 | 或臟層肋膜。 | | T2a:大小>3公分,但≤5公分。 | 或肺塌陷到肺門,包含部分或全肺阻塞性肺炎。 | | T2b:大小> 5公分,但≦7公分。 | T2a:大小> 3 公分 ,但≦ 4 公分。 | | | T2b:大小&gt;4公分,但≦5公分。 | | T3:大小>7公分。 | T3:大小>5公分,但≦7公分。 | | 或侵犯到主支氣管分支處2公分以內 Source: [[sources/med5-book4-ch03|丙、肺]].
+- M1a: 肋膜或心包膜積水、肋膜腫瘤、對側腫瘤。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 右邊的肺部可能會出現 basilar atelectasis 或 pleural effusion Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - $2 \, \, \mathcal{H}$ : one or more of pleural effusion, ascites, vascular complications, parenchymal complications and or gastrointestinal involvement Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - ...。疼痛持續而嚴 | 101(一)專 | | 重,伴隨嘔吐的症狀。病人吐後無法減輕症狀,但將身體前傾 | 醫五-2 | | 症狀可稍有改善。理學檢查發現病人體溫 38℃,上腹壓痛,腸 | | | 音降低。X 光檢查可見十二指腸內氣體增多及左側肋膜腔少量 | | | 積液。下一步安排何種檢查最適當? | | | (A) 上消化道攝影(upper GI barium study) | | | (B) 消化道內視鏡檢(upper GI endoscopy) | | | (C) HIDA 核醫檢查 (HIDA radionuclide scan) | | | (D) 血清澱粉酶及脂解酶檢查(serum amylase & lipase) | | Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
@@ -109,16 +131,6 @@ tags:
 - ...---------------------------------------| | 皮膚 | 溫暖、濕 | 冷、乾 | | 心血管 | 減少血管阻力、心跳加速 | 增加血管阻力、心跳減慢 | | 呼吸 | 喘 | 呼吸抑制,二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (1) Video-assisted thoracoscopic surgery (VATS): - a. 電視輔助胸腔手術,當作了胸腔穿刺或是經皮肋膜切片仍無法診斷疾病時, 會選擇用 VATS 進去作切片。 - b. VATS 經常用來作肺邊緣小結節切片、縱膈腔腫瘤及淋巴切片來診斷惡性或 良性。 - c. 在診斷肋膜疾病有 95% 的準確率。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 - (1) VATS 也可用來治療疾病: - a. 肺邊緣小結節切除、肺氣泡切除(bleb resection),肋膜切除(pleurectomy) - b. 膿胸 (empyema) 處理。 - c. 肺膜沾合術 (pleurodesis)。 - d. 交感神經切除術(sympathectomy):切除 T2 交感神經節,治療手汗(hyperhidrosis palmaris)。 - e. 心包膜開窗術 (pericardial window)。 - f. 較複雜的胸腔手術: 食道肌切開術 (myotomy)、縱膈腔或肋膜腫瘤的切除、肺葉或肺全切除術 (lobectomy or pneumonectomy) 以及食道切除術 (esophagectomy)等。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- 3. 絕對禁忌症:肋膜腔嚴重的沾黏、無法承受單肺通氣(one lung ventilation)的病人。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- ...) | | | (C) 第六或七肋間,腋中線(6th or 7th intercostal space, mid-axillary | | | line) | | | (D) 視病患之情況而定【詳解】胸管放置的適應症包含氣胸、血胸、乳糜胸、肋膜腔 | | | 積水積膿、術後引流等,放置位置約在腋中線或腋前線,第四 | | | 和第五肋間。 | | | (B) 15. 嚴重多重外傷病患經積極治療及手術後,如能夠存活超過一星 | 105(二)專 | | 期,最常見之晚期死亡原因為何? | 醫五-4 | | (A) 嚴重頭部外傷 (B) 多重器官衰竭 | | | (C) 出血性休克 (D) 急性腎衰竭 | | | (A) 16. 下列關於癌症和它的腫瘤標記(tumor marker Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- ...nts, | | | | | | | characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleural effusion, pericarditis or pericardial | | | | | | | effusion) | | | | | | 腎臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coomb Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- | | Image pattern | Distribution | Pleural effusion | |------------|---------------------------------|----------------------------------------|------------------| | Bacteria | Alveolar | Usually unilateral: lobar or segmental | Maybe | | Virus | Hyperinflation Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (2) 痰液或肋膜積液的培養與格蘭氏染色。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 1. 侵犯胸腔 (thoracic cavity): pleural effusion `empyema and pericarditis ·其中 S. aureus `S. pneumoniae 以及 S. pyogenes 是造成 pleural effusion 或是 empyema 最常見的細菌 。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...ntan operation (開刀時機為病人在 1.5 至 3 歲時)。(參考)PS:若手術方式為 Fontan procedure,術後發生可能的問題有 systemic venous pressure、fluid retention、pleural or pericardial effusions,其中 pleural effusion 佔 30~40%。晚期併發症可能有 baffle obstruction 進而造成 superior or inferior vena cava syndrome、vena cava or pulmonary artery thromboembolism、protein-losing enteropathy、supraventricular a Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (D) 6. 足月兒出生時,母親有發燒症狀且羊膜已在出生前兩天破裂,嬰兒於出生後 8 小時開始明顯的呼吸窘迫,血壓下降,胸部 X 光呈現雙側全面的浸潤,並有少許肋膜腔積水,最可能的診斷為下列何者? - (A) 大腸桿菌(Escherichia coli) 感染 - (B) 綠膿桿菌 (Pseudomonas spp.) 感染 - (C) 肺炎鏈球菌 (Streptococcus pneumoniae) 感染 - (D) B 群鏈球菌(group B Streptococcus)感染 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (C) 10. 下列有關新生兒暫時性呼吸急促(transient tachypnea of newborn) 105( ) 專 胸部 X 光變化,何者錯誤? \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ - (A) 肺門的浸潤增加 - (B) 常常可見到 minor fissure - (C) 胸部 X 光的不正常影像,常可持續 4 天以上 - (D) 偶爾可見到少量的肋膜積液 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- a. Oligoarthritis 預後最好,但較常出現 chronic uveitis(尤其 - a. Serositis: 漿膜炎-肋膜炎或心包膜炎。 - b. Oral ulcers:口腔或鼻咽潰瘍,通常不痛。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 
@@ -127,6 +139,8 @@ tags:
 
 ## Related Pages
 
+- [[procedures/decortication|Decortication (剝皮術／纖維膜剝除術)]]
+- [[conditions/mesothelioma|Mesothelioma (惡性間皮瘤)]]
 - [[conditions/pleural-effusion|Pleural effusion (肋膜積液)]]
 - [[procedures/thoracoscopy|Thoracoscopy / VATS (胸腔鏡)]]
 

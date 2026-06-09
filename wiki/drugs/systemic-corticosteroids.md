@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch24]]"
   - "[[sources/med3-book1-ch15]]"
@@ -32,6 +32,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med5-book4-ch16]]"
 aliases:
   - 'Systemic corticosteroids (全身性類固醇)'
   - 'Systemic corticosteroids'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med5-book4-ch16]]
 
 ## Key Details From Sources
 
+- (A) 1. 男嬰出生就有下圖皮膚的病變,下列敘述何者正確?① 80% 是單一病灶,20% 是多發性病灶 ②通常出生 2 個月後進入增生期(proliferating phase) ③約 50% 的病人在 5 歲後進入恢復期(involuted phase) ④ systemic corticosteroid therapy 可能可以阻止病灶變大 ⑤疾病的診斷是 vascular malformation Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - ...藥物反應佳且甲狀腺無腫瘤 醫五-42 (B) 年輕 (C) 可能要懷孕 (D) 甲狀腺機能亢進併凸眼病變 (D) 23. 一位 45 歲女性,甲狀腺機能亢進接受 propylthiouracil 治療半年 103(-)專 ,因有過敏同時給 prednisolone (5 mg) 每天兩顆,病人接受甲 醫五-42 狀腺右葉全切除及左葉次全切除。第二天病人體溫為38.3℃,全 身無力,血壓較低,下列檢查何者對診斷最有幫助? (A) 血中 T3 (B) 血中 T₄ (C) 血中 TSH (D) 血中可體松 (cortisol) 及 ACTH 【詳解】病人長期服用類固醇長達半年,甲狀腺手術後停止服 用類固醇,產生發燒、全身無力及血壓低的情形,比較像是長 期服用 steroid 造成 secondary Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (1) 於 spinal cord injury 後 8 小時內給予高劑量的類固醇 (methylprednisolone) 可以改善預後,但現今認為此說具爭議,臨床上已不建議使用。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (C) 使用的藥物是 methylprednisolone Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -98,7 +101,6 @@ tags:
 - (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (1) 類固醇仍是腎病症候群主要治療藥物,一般使用 prednisone or prednisolone 60 mg/m²/day or 2 mg/kg/day (maximum daily dose: 60 mg),分成兩次或三次給予,連續用藥約 4~6 週。臨床證據顯示給予六週會降低復發機率。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 7. 一位 6 歲的女生,罹患彌漫增生型狼瘡性腎炎(diffuse proliferative lupus nephritis),已接受每天 30 mg 口服 prednisolone 2 個月, - (A) Haemophilus influenza type b conjugate vaccine - (B) Influenza vaccine - (C) Measles, mumps 及 rubella vaccine - (D) Tetanus 及 diphtheria toxoid vaccine Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 5. 急性氣喘發作時,須以吸入性 SABA 加上口服或靜脈注射類固醇(prednisolone 1~2 mg/kg/day)治療。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

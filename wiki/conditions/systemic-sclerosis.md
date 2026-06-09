@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med3-book4-ch02]]"
@@ -12,6 +12,10 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Systemic sclerosis (全身性硬化症)'
   - 'Systemic sclerosis'
@@ -26,7 +30,7 @@ tags:
 
 ## Summary
 
-纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +42,17 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch10]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- (11) 膠原纖維疾病 (Collagen diseases): 硬皮症 (Scleroderma)、風濕免疫 (rheumatoid disease)、紅斑性狼瘡 (systemic lupus erythematosus)、皮肌炎 (dermatomyositis)、 韋格納肉芽腫 (Wegener granulomatosis)、古帕斯捷氏綜合徵 (Goodpasture syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...e)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但症狀通常不會隨著胸腺瘤治療成功而改善。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- 確診斷? 醫五-37 - (A) scleroderma Source: [[sources/med5-book4-ch05|戊、食 道]].
+- 下列對於神經母細胞瘤的敘述,何者錯誤? 醫五-47 - (A) 神經母細胞瘤源自於神經 細胞 (neural crest cells),是交感神經系統的惡性腫瘤 - (B) 大約有 65% 的神經母細胞瘤是發生在腹部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - 1. 一種交感神經惡性腫瘤,起源於神經脊(neural crest)細胞。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - a. 有時皮肌炎或多發性肌炎會合併有紅斑性狼瘡、類風濕性關節炎或硬皮症, 這些病人通常較一般肌炎病人年輕些,治療上則根據其特有症狀做處置。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - # D. 硬皮症 (Scleroderma) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].

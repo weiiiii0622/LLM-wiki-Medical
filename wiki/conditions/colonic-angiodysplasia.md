@@ -2,10 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book3-ch10]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch16]]"
 aliases:
   - 'Colonic angiodysplasia (大腸血管發育不良)'
   - 'Colonic angiodysplasia'
@@ -20,15 +22,21 @@ tags:
 
 ## Summary
 
-退化性黏膜下血管擴張是下消化道出血原因之一，常見於右側大腸與高齡病人。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+退化性黏膜下血管擴張是下消化道出血原因之一，常見於右側大腸與高齡病人。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book3-ch10]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch16]]
 
 ## Key Details From Sources
 
+- R. 動靜脈畸形(Pulmonary arteriovenous malformation) *61* Source: [[sources/med5-book4-ch03|丙、肺]].
+- ### R. 動靜脈畸形 (Pulmonary arteriovenous malformation) Source: [[sources/med5-book4-ch03|丙、肺]].
+- (2) Gossage JR and Kanj G: Pulmonary arteriovenous malformations. *Am J Respirat & Criti Care Med* 1998; 158(2): 643-61. doi: 10.1164/ajrccm.158.2.9711041 http://www.atsjournals.org/···/··/10.1164/ajrccm.158.2.9711041··· Source: [[sources/med5-book4-ch03|丙、肺]].
+- 2. 血管畸形包含:微血管畸形(capillary malformation)、靜脈畸形(venous malformation)、淋巴畸形(lymphatic malformation)、動脈畸形(arterial malformation)、動靜脈畸形(arteriovenous malformation)、動靜脈瘻管(arteriovenous fistula)、混和血管畸形(combined vascular malformations)等。 Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - (2) 目前認為 FNH 是一種先天性血管異常增生所導致的腫瘤。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
 - #### 戊、後天性血管異常及下消化道出血 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - 後天性血管異常和下消化道出血在老年人很常見,大部分的下消化道出血會自己停止,但仍約有 10~25% 的案例須進行手術。下消化道出血的常見原因如下: Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].

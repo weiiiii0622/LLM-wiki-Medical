@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch11]]"
@@ -28,6 +28,9 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Hemolytic anemia (溶血性貧血)'
   - 'Hemolytic anemia'
@@ -42,7 +45,7 @@ tags:
 
 ## Summary
 
-紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +73,17 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book3-ch17]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch02]]
+- [[sources/med5-book4-ch04]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...準(Light's criteria),符合其中以一項即可: - a. Pleural fluid protein/serum protein greater than $0.5\,$ $\circ$ - b. Pleural fluid LDH/serum LDH greater than 0.6 • - c. Pleural fluid LDH 1.67 times normal serum - (a) 現在修正為:LDH > 2/3 upper limits of serum normal。 - d. 正常參考值:因各實驗室不同而有差異,以下僅供參考。 - (a) serum LDH: 105~350 U/L - i. ULN (upper limit of normal Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (C) 滲出液(exudate)是肋膜液的 LDH 比上血清的 LDH 比值小 於 0.6 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- 4. 檢查 & 診斷: 將抽取胸腔內液檢查, 盡量在使用抗生素之前抽取胸水, 並送驗檢查。 檢查項目有 Gram stain、cell count、 protein、LDH、 amylase、 glucose 和 pH。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- | | AFP | β-hCG | LDH | |---------------------|-----|-------|-----| | Seminoma | 0 | + | ++ | | Yolk sac tumor | +++ | + | + | | Choriocarcinoma | 0 | +++ | + | | Embryonal carcinoma | + | + | ++ | | Teratoma | 0 | 0 | 0 | Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- b. HBL:存活率 75%、好發於 1,500 IU/mL, ferritin > 142 ng/mL、NSE > 100 ng/mL。(LDH = lactic dehydrogenase, NSE = neuron-specific enolase —種醣解酶)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...一個算一分,累積加總後,依總分預測 mortality。 - (2) On admission: - a. Glucose > 200 mg/dL $\circ$ - b. Age $> 55 \text{ y} \circ$ - c. LDH > 350 IU/L $\circ$ - d. AST > 250 IU/L - e. WBC > 16,000/U1 - (3) Initial 48 hrs: - a. BUN elevation $> 5 \text{ mg/dL} \circ$ - b. Base deficit $> 4 \text{ mEq/L} \circ$ - c. Ca 10\%$ ° - f. fluid Sequestration > 6 L $ Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - 【詳解】Ranson criteria on admission:(a) Glucose > 200,(b) Age > 55,(c) LDH > 350,(d) AST > 250,(e) WBC > 16,000。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...呼吸抑制,二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyro Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -86,11 +97,6 @@ tags:
 - 【詳解】病人血氨上升代表病人肝臟 urea cycle 代謝出問題,(B)(C) 接有可能。但是 (C) 為性聯遺傳疾病,只有男性才會得到,因此 (C) 最不可能。Aspirin 在兒童常見的併發症為 Reye syndrome,此疾病的特點為 rapid and progressive encephalopathy 以及肝功能異常。Aspirin 其他副作用包括 metabolic acidosis、hyperglycemia、hyperkalemia、hypernatremia、hypoglycemia、edema、hypotension、arrhythmia、coma、confusion、dizziness、rhabdomyolysis、hemolytic anemia、thrombocytopenia。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (1) 肝臟:臨床上 Wilson disease 表現在肝臟的疾病很多元:無症狀的肝臟腫大(有時會合併脾腫大)、亞急性或慢性肝炎、肝臟衰竭(有時合併溶血性貧血)、門脈高壓、腹水、全身性水腫、肝硬化、食道靜脈瘤破裂等。有時因肝功能問題造成其他問題如青春期延遲或無月經(amenorrhea)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - e. Blood 血液學異常: - (a) 溶血性貧血或 - (b) 白血球減少( 3+,或尿中有細胞團塊 (Cellular Cast)。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (A) Hemolytic anemia with reticulocytosis Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- | 原因 | 臨床疾病 | | | |------------|-----------------------------------------------------------------|--|--| | 膽紅素製造增加 | Hemolytic anemia polycythemia bruising or internal | | | | | hemorrhage vincreased enterohepatic circulation vinfection v | | | | | short red blood cell life. | | | | 代謝酵素的破壞、缺乏 | G-6-P-D deficiency \ hypoxia \ infection \ thyroid defic Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...on (C) hypothyroidism (D) Wilson disease 【詳解】新生兒感染、代謝性疾病(ex:galactosemia、hypothyroidism、tyrosinosis、hypermethioninemia)、溶血性貧血、血 液外渗 (extravasation, 如 cephalohematoma、internal bleeding)、 Crigler-Najjar syndrome type I/II · Gilbert syndrome · biliary atresia、choledochal cyst、biliary narrowing、cholelithiasis 等,均 會造成延遲性黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 4. Direct Coomb test 和 Indirect Coomb test - (1) Direct Coomb test:是指在紅血球細胞的表面上附著有免疫球蛋白或補體,當血液中的洗滌紅血球添加抗球蛋白的血清,而產生凝集反應即表示為陽性。 - a. 例如:新生兒溶血症、自體免疫溶血性貧血(AIHA)、系統性紅斑狼瘡症、 ABO 輸錯血、冷凝集素綜合症。 - (2) Indirect Coomb test: 血清中有無游離的不完全抗體。陽性反應表示血清中有游離的不完全抗體。 - a. 例如:藥物誘發的免疫性溶血性貧血、新生兒同種免疫性溶血病、輸血後症狀。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 1. 病生理學:慢性溶血性貧血。因在第 11 對染色體上 β-globin gene 的 GTG 取代 GAG。 HbS 在去氧時會聚合成新月型。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

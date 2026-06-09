@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch01]]"
@@ -16,6 +16,11 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med5-book4-ch14]]"
+  - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Laparoscopy (腹腔鏡)'
   - 'Laparoscopy'
@@ -30,7 +35,7 @@ tags:
 
 ## Summary
 
-以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +51,20 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch05]]
+- [[sources/med5-book4-ch14]]
+- [[sources/med5-book4-ch11]]
+- [[sources/med5-book4-ch12]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- h. 微創手術 (minimally invasive surgical modalities): 支氣管鏡 (bronchoscopy)、 縱隔腔鏡 (mediastinoscopy)、胸腔鏡 (thoracoscopy) 和腹腔鏡 (laparoscopy) 等,可用來排除氣管食道瘻管、評估淋巴結和氣管及縱隔腔等癌症轉移。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- (2) 如觸診無法觸摸到睪丸,可使用腹部超音波或 MRI 先定位,再以腹腔鏡檢查並 手術。 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
+- ...列有關隱睪症(cryptorchidism)的敘述,何者錯誤? 99(一)專 (A) 罹患隱睪症小孩,日後產生睪丸癌的機率較正常人高 醫五-59 (B) 常伴隨有腹股溝疝氣 (C) 睪丸固定術最好在五歲前執行 (D) 身體檢查摸不到睪丸時,腹腔鏡是一個很準確的診斷工具 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
+- (A) 1. 梅克耳憩室(Meckel's diverticulum)所造成的下消化道出血,可 106 (-) 專利用下列何者做診斷?① 99mTc-pertechnetate 放射線同位素檢查 醫五-51 ②腹部超音波檢查 ③腹腔鏡探查 ④下消化道鋇劑攝影 ⑤大腸 鏡檢查 - (A) 1 (B) 2 (C) 4 (D) 2 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (1) 手術切除為主,將膽道囊腫完整切除,再以(Roux-en-Y hepaticojejunostomy) 膽管空腸吻合術式接回,以腹腔鏡術式做切除合併(end-to-side jejunojejunostomy)空腸吻合術作治療。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- d. 單純腹腔內腫瘤:腹腔鏡或剖腹切除。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - a. 膽囊切除術在目前的標準術式為腹腔鏡切除術(Laparoscopic cholecystectomy)。 研究指出早期的膽囊切除術(72 小時內)可有效地使住院天數縮減,術後的生活品質也較佳。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - b. 腹腔鏡膽囊切除術的禁忌症: - (a) 麻醉具較大的風險。 - (b) 病人為 gallbladder perforation,或已經出現 peritonitis。 - (c) 懷疑是膽囊癌。 - (d) 末期肝病變合併門脈高壓。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (D) 應優先考慮腹腔鏡膽囊切除及總膽管探杳手術 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
@@ -61,12 +77,6 @@ tags:
 - 【詳解】乳房皮瓣重建的方式包括 TRAM(transverse rectus abdominis myocutaneous flap)、Latissimus dorsi musculocutaneous flap、Gluteal flap(有 Superiorly based 和 Inferiorly based)、Rubens flap、Thoracoepigastric flap、Lateral thigh flap,前三者為目前主流。腹網膜瓣因需進入腹內採取,併發症較高所以較少被使用,不過現今腹腔鏡手術的進步,也有醫師將其用來作 partial breast reconstruction。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (A) 腹腔鏡輔助大腸切除手術相較於開腹手術,能減少術後疼痛 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 - (B) 腹腔鏡輔助大腸切除手術產生腸繫膜內疝氣 (mesenteric internal hernia) 的比率約只有 1% Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- (C) 腹腔鏡輔助大腸切除手術施行大腸切除後,一定要手術關閉 腸繋膜缺損(mesenteric defect) Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- 2. 絕對禁忌症 (Absolute contraindications): - (1) 因腹腔鏡手術需全身麻醉,故無法接受全身麻醉的病患不能接受腹腔鏡手術。 - (2) 凝血功能異常無法矯正者。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- 4. 腹腔充氣 (Pneumoperitoneum): - (1) 腹腔鏡手術時需將腹腔充氣以便手術進行,以下為常使用之氣體: - a. CO2: 易溶於水,對腹膜刺激大,但不會引起氣爆、不易氣體栓塞、易從肺部排出。最常使用。 - b. N2O: 易溶於水,對腹膜刺激小,但會引起氣爆。 - c. Helium、Neon、Argon:不會有高碳酸血症,但因難溶於血漿,故易造成氣體栓塞。 - (2) 腹內壓維持在 10~15 mmHg。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- 5. 手術方法: 病人側躺,並使用雙管氣管插管(Double-lumen endotracheal tube),使單側肺部塌陷(one lung ventilation),在胸腔內製造出空間來以便進行胸腔鏡手術(故不需像腹腔鏡一樣進行胸腔充氣)。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- (A) 因急性十二指腸潰瘍穿孔接受腹腔鏡十二指腸修補縫合術, 術後第三天,鼻胃管仍留置,每日引流量約為六百毫升 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (B) 小明因急性闌尾炎 (simple appendicitis) 進行腹腔鏡闌尾切 除手術,術後傷口縫合完整。此傷口應歸類為 contaminated wound, 感染機會約 8~15% Source: [[sources/med5-book1-ch05|戊、外科感染]].
 
 ## Clinical Caveats
 

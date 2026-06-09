@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch16]]"
   - "[[sources/med3-book1-ch24]]"
@@ -38,6 +38,9 @@ sources:
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book3-ch18]]"
+  - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book4-ch02]]"
 aliases:
   - 'Oxygenation and ventilation (氧合與通氣)'
   - 'Oxygenation and ventilation'
@@ -52,7 +55,7 @@ tags:
 
 ## Summary
 
-區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +93,20 @@ tags:
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book3-ch18]]
+- [[sources/med5-book4-ch03]]
+- [[sources/med5-book4-ch07]]
+- [[sources/med5-book4-ch02]]
 
 ## Key Details From Sources
 
+- (D) 每分鐘涌氣量 (minute ventilation) > 9 L/minute Source: [[sources/med5-book4-ch03|丙、肺]].
+- (2) 適合手術切除之病患: - a. 原發性腫瘤已控制未復發。 - b. 能承受全身麻醉及單肺通氣,以及手術切除部分肺組織後有足夠的肺功能。 - c. 電腦斷層上可完全切除之病灶。 - d. 無其他肺外轉移腫瘤或可治療之肺外轉移腫瘤。 - e. 無其他替代治療。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 機轉 & 成因:終端通氣空間(呼吸細支氣管和肺泡)擴張和破壞。 - (1) blebs:由開洞肺泡產生介於肺和肋膜間的肋膜下氣泡。 - (2) bullae:較 blebs 大的肋膜下氣泡,且合併肺實質破壞。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- (1) 缺氧(Hypoxia):氣道阻塞、胸內壓力改變、通氣灌流失調(ventilation-perfusion mismatches) 和低血容。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (2) 高碳酸血症(Hypercapnia):不適當的通氣(inadequate ventilation),如肺塌陷、或腦傷造成意識改變或外來毒物(drugs、alcohol)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (D) 4. 一位 30 歲的男性工人從 6 公尺高的鷹架墜落,身體檢查顯示收縮壓 120 mmHg,右胸有明顯的連迦胸(flail chest),嚴重的呼吸窘迫(severe respiratory distress),右胸呼吸聲音稍微降低,叩診時則左右兩側類似。給予非再呼吸型面罩氧氣 15 L/min 後,其動脈氣體分析為 pH: 7.47,PaO2: 65 mmHg,PaCO2: 28 mmHg;下列何者最可能解釋他的異常動脈氣體分析之原因? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- 1. 機轉 & 成因:氣體積累在肋膜腔內,可能為自發性,或續發於創傷、手術、治療 和疾病併發等情形。氣胸壓迫肺組織,導致肺順應性降低、通氣容積減少和擴散體 積減少,依據肺本身狀況和氣胸程度而有輕重不同程度的影響,如果氣體持續進 入,導致肺塌陷而壓迫縱隔和心臟偏移,合併呼吸急促和血液動力不穩失能,就成 了張力性氣胸(詳見胸部創傷-創傷性氣胸)。以下介紹非創傷性氣胸。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- ...| Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibrosis (IPF) | Postsurgical | | - Pulmonary embolism | Other | Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...-----------|---------| | | 下列敘述何者錯誤? | 醫五 -29 | | | (A) 低血容合併急性腎衰竭 (hypovolemia with acute renal failure) | | | | (B) 低血氧合併成人呼吸窘迫症 (hypoxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - C. 葉克膜(Extracorporeal membrane oxygenation, ECMO) *100* Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 1. 1953 年由美國外科醫生 Gibbon 所發明,體外循環是指應用人工管道將人體大血管 與人工心肺機連接,從靜脈系統引出靜脈血,並在體外氧合,再經血泵將氧合血輸 回動脈系統。 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -103,14 +117,6 @@ tags:
 - 中心靜脈壓 (central venous pressure),動脈壓 (arterial blood pressure),心輸出量 (cardiac output),混合靜脈血氧飽和度 (mixed venous oxygenation saturation) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 1. 內在/局部因素:氧合作用及灌流不良、感染、異物、血腫、放射治療等都會使傷口的癒合變差,另外手術中適當的止血,減少不必要的電燒和 ligation,以及密閉性引流皆有助於傷口癒合。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - 7. SIRS (systemic inflammatory response syndrome):以下符合 2 個以上: - (1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfu Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (B) 3. 人類因為感染或外傷可引發全身性發炎反應症候群(systemic inflammatory response syndrome, SIRS),其臨床表現含:①體溫 > 38℃,或≤36℃ ②心率≥90 / 分 ③呼吸速率≥20 / 分, 或 PaCO2 ≤ 32 毫 米 汞 柱 , 或 需 要 機 械 式 通 氣 (mechanical ventilation) ④白血球 $\geq 12,000$ / 微升 ( $\mu$ L),或 $\leq 4,000$ / 微 升 $(\mu L)$ ,或 band forms ≥ 10%。若病患要被診斷為全身性發炎 反應症候群,至少須合乎上列幾種條件? - (A) 一種 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- 中心靜脈壓(central venous pressure),動脈壓(arterial blood pressure),心輸出量(cardiac output),混合靜脈血氧飽和度 (mixed venous oxygenation saturation) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- 【詳解】(B) 降低血中 PaCO2 至 30~35 mmHg。 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
-- (C) hypoventilation Source: [[sources/med5-book1-ch12|丙、顱內壓]].
-- (C) 氣管內管插管併給予過度換氣(hyperventilation) Source: [[sources/med5-book1-ch12|丙、顱內壓]].
-- (C) 5. 下圖 45 歲男性,急性冠狀動脈阻塞導至心因性休克,緊急做完 107( - ) 專 冠狀動脈繞道手術後,心臟收縮能力不好,因此放上了主動脈 氣球幫浦及葉克膜氧合器,送往加護病房觀察,左腳六個小時後發現有鼓脹的情形,下列敘述何者錯誤? ①肢端的脈搏先確 認 ②有可能血液中肌酸激酶(CK)會提高 ③可以量測腔室的 壓力,若大於 20 mmHg 可能要作筋膜切開手術 ④小腿有五個腔室:anterior、deep posterior、superficial posterior、lateral 和 medial Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (D) 16. 一位 60 歲男性,接受冠狀動脈繞道手術。術後第二天,血行動力正常,胸部 X 光正常,肺臟呼吸音清楚無濕囉聲,動脈血氣體分析正常,病人意識清楚,呼吸器當時的設定是 SIMV mode,呼吸器通氣次數每分鐘 4 次,病人自呼 8 次,PEEP: 4 cmH2O,够感度 2 cmH2O,呼吸器壓力支持 10 cmH2O。準備讓病人脫離呼吸器,接上 T 型管讓病人自己呼吸,呼吸次數很快上升到每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 3. 絕對禁忌症:肋膜腔嚴重的沾黏、無法承受單肺通氣(one lung ventilation)的病人。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book1-ch17]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book4-ch07]]"
 aliases:
   - 'Melanoma (黑色素瘤)'
   - 'Melanoma'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book4-ch07]]
 
 ## Key Details From Sources
 
+- 【詳解】依 primary ABCDE 從重新評估,除非經檢查發現氣管 內管在食道,才進行(C),故(D)>(A)>(B)或(D)>(C)為 較佳之順序。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (6) Familial atypical multiple mole melanoma (FAMMM) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 惡性黑色素細胞瘤 (malignant melanoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (1) 肛門位處於內外胚層的交界之處,所以腫瘤種類複雜,最多的是鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma),其它的還有腺癌(adenocarcinoma)、泄殖腔細胞癌(cloacogenic cell carcinoma)、黑色素細胞癌(melanoma)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

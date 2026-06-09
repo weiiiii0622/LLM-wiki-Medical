@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch08]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'Alcohol use disorder (酒精使用疾患)'
   - 'Alcohol use disorder'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-酒精相關失控使用與功能損害，常與 mood、anxiety、肝病與事故風險相關。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+酒精相關失控使用與功能損害，常與 mood、anxiety、肝病與事故風險相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book3-ch03]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch08]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- 2. 危險因子 - (1) 酒精濫用者。 - (2) 吸入外來物。 - (3) 虚弱或年長者(血循傳染:因心衰竭或疾病造成虚弱、年長或年幼、使用靜脈 藥物、使用類固醇)。 - (4) 食道疾病。 - (5) 扁桃腺切開術後或是拔牙術後。(少見) Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 酒精依賴 (dependence)。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - @ DSM-5 把 alcohol abuse 與 alcohol dependence 合併為 alcohol use disorder,診斷準則如下(參考),但是酒精戒斷與中毒準則不變: Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - #### DSM-5 的診斷準則:酒精使用疾患(Alcohol use disorder) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].

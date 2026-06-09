@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book2-ch27]]"
+  - "[[sources/med5-book4-ch10]]"
 aliases:
   - 'Cerebral vasospasm (腦血管痙攣)'
   - 'Cerebral vasospasm'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-SAH 後 delayed vasospasm 可造成 delayed cerebral ischemia。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SAH 後 delayed vasospasm 可造成 delayed cerebral ischemia。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book2-ch27]]
+- [[sources/med5-book4-ch10]]
 
 ## Key Details From Sources
 
+- 1. 機轉 & 成因:未明,目前假說為肋膜腔和後腹腔未正常關閉,導致腹腔器官經由後外側橫隔缺口,脫疝至胸腔並導致同側肺壓迫而影響發育,而肺動脈內肌肉層變厚導致容易血管痙攣。最主要的致殘致死原因為肺發育不全和肺動脈高壓,為決定預後的重要因素。 - (1) 後外側橫隔疝氣又稱 Bochdalek's hernia,好發於左側。 - (2) 前外側胸骨後橫隔疝氣又稱 Morgagni's hernia。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - 4. 因此皮瓣術後照顧相當重要,重點大至如下: - (1) 給病人補充足夠水分。 - (2) 避免發生血管痙攣:房間保持溫暖、避免吃時用咖啡、巧克力和茶。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (D) 1. 傳統預防腦動脈瘤破裂出血後的腦血管痙攣(cerebral vasospasm) 108( ) 専有所謂的 "Triple-H" therapy,下列何者不包含於 Triple-H ? - (A) hypervolemia - (B) hypertension - (C) hemodilution - (D) hyperventilation Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - (C) 7. 除了再出血外,動脈瘤破裂的病人最常出現嚴重後遺症及死亡的 103(ニ)専原因為: - (A) 水腦 (hydrocephalus) - (B) 癲癇 (seizure) - (C) 血管攣縮 (vasospasm) - (D)頭痛 (headache) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].

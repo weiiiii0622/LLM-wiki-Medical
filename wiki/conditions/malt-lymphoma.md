@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch18]]"
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med5-book4-ch03]]"
 aliases:
   - 'MALT lymphoma (黏膜相關淋巴組織淋巴瘤)'
   - 'MALT lymphoma'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-extranodal marginal zone lymphoma，胃部 MALT 常與 H. pylori 相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+extranodal marginal zone lymphoma，胃部 MALT 常與 H. pylori 相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch18]]
 - [[sources/med3-book4-ch13]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med5-book4-ch03]]
 
 ## Key Details From Sources
 
+- (9) 過敏性肺炎 (Hypersensitivity pneumonia): 吸入性過敏原 (Inhaled antigens)、農夫肺 (Farmer's lung, actinomycosis)、蔗渣沉積症 (Bagassosis, sugar cane)、麥田工人 (Malt workers, *Aspergillus* spp.)、棉屑沈著病(或稱棉屑肺,Byssinosis, cotton-dust asthma, cotton-mill fever)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) Gastric lymphoma 依病理型態,又可以分成高惡性度、瀰漫性、大細胞的淋巴瘤及低惡性度的黏膜相關淋巴組織淋巴瘤(MALT lymphoma),不同的分類會有其不同的治療。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...-------------|--------------------| | 胃痛接受內視鏡檢查,結果發切片病理檢查顯示為黏膜相關 | 唐尿病外無其他全身性疾病。最近因為現胃前庭有一潰瘍,周邊黏膜增厚,別淋巴組織淋巴瘤(lymphomaof MALT陽性;其他器官組織未被侵犯。對此 | 97(一)專醫三-58 | | (seminoma),電腦斷層檢查者直徑為 6 公分,病人接受化最有可能做為此病人追蹤之用(A) α FP(B) hCG(C) CA125(D) β 2 -microglobulin | 鬼,經開刀做病理檢查證實為精細胞瘤養現後腹腔有多個淋巴結腫大,最大上學治療後腫瘤消失。則下列標記何者引?cell tumor,所以 hCG 會高。 | 95(一)専内2-6 | | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - (D) Helicobacter pylori: gastric mucosa-associated lymphoid tissue (MALT) lymphoma Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].

@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med5-book4-ch12]]"
 aliases:
   - 'Rubella (德國麻疹)'
   - 'Rubella'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-通常較輕微，但孕期感染可造成 congenital rubella syndrome。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+通常較輕微，但孕期感染可造成 congenital rubella syndrome。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med5-book4-ch12]]
 
 ## Key Details From Sources
 
+- (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 補充:於二十世紀初,為方便辨別而將好發於孩童的皮膚疹予以編號,總共編了六號: - First disease 為麻疹 (Measles)。 - Second disease 為猩紅熱 (Scarlet fever)。 - Third disease 為德國麻疹(Rubella)。 - Fourth disease 為 Filatow-Dukes' disease,該病目前已除名,此病為某些會長疹子的疾病之共同表現。 - Fifth disease 為傳染性紅斑(Erythema infectiosum)。 - Sixth disease 為嬰兒玫瑰疹(Roseola infantum)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 3. 當皮疹出現後,先前的前驅症狀就開始逐漸消退。出疹後約一週皮疹也開始消退, 也是從頭部開始消退,再來是驅幹及四肢。與德國麻疹不同的地方在於麻疹有時會 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 留下細微的脫皮,德國麻疹不會有脫皮現象。 Source: [[sources/med4-book1-ch04|丁、感染科學]].

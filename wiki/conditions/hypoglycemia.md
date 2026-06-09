@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch15]]"
@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch13]]"
+  - "[[sources/med5-book4-ch15]]"
 aliases:
   - 'Hypoglycemia (低血糖)'
   - 'Hypoglycemia'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch13]]
+- [[sources/med5-book4-ch15]]
 
 ## Key Details From Sources
 
+- 【詳解】Beckwith-Wiedemann syndrome 包含臍膨出(omphalocele)、高胰島素低血糖症(hyperinsulinemia with hypoglycemia)、巨舌(macroglossia)、巨內臟(visceromegaly)。常併發或關聯之疾病:臍膨出、威爾氏腫瘤(Wilms' tumor)、橫紋肌肉瘤(rhabdomyosarcoma)、肝母細胞瘤(hepato-blastoma)、神經母細胞瘤(neuroblastoma)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】考%數是一個很討厭的考法。HCC 的四大 paraneo-plastic syndrome 包含 erythrocytosis ,hypoglycemia,hyperchole-sterolemia,hypercalcemia,比較常見的發生率是寫 40% 左右,但也有 paper 寫在 10~20%。比例就僅供參考,重點還是要知道有 paraneoplastic syndrome 這回事。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (C) 3. 下列關於胰臟神經內分泌腫瘤之敘述,何者錯誤? 108(二)專 (A) 胰臟功能性神經內分泌腫瘤以胰島素瘤(insulinoma) 最多 醫五-32 (B) insulinoma 的 Whipple's triad 診斷包括:低血糖,因低血糖 出現的症狀及給與葡萄糖後症狀立刻緩解三項 (C) insulinoma 大部分是 hypovascularity。在 contrast enhanced CT 下,易形成完全低顯影的腫塊影像 (D) 發生率男、女性差不多 【詳解】insulinoma 通常為 hypervascular 的 tumor。 (A) 4. 下列對於胰臟癌之敘述,何者並不適合? 107 (二) 專 (A) 胰臟癌好發於胰臟體部,其次為頭和迴溝處(u Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -84,7 +87,6 @@ tags:
 - (C) 心理壓力、挫折、孤獨等高壓力情境時常會造成飲食控制的 改變,進而影響到血糖的控制 - (D) 低血糖可能造成焦慮、意識混亂、行為混亂等症狀 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...緩解。本案例最可能的診斷是: (A) 癲癇發作 (B) 恐慌症 (C) 失憶症 (D) 心律不整 (D) 17. 承上題,下列那一項疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized anxiety Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - ...| Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticid Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- ...ncy 可分為兩種: Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 
