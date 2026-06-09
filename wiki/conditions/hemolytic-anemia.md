@@ -34,6 +34,10 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch10]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch09]]"
 aliases:
   - 'Hemolytic anemia (溶血性貧血)'
   - 'Hemolytic anemia'
@@ -48,7 +52,7 @@ tags:
 
 ## Summary
 
-紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +86,23 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch10]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch09]]
 
 ## Key Details From Sources
 
+- ...1.2 \text{ mg/dL}$ | |-----------------------|-----------------------------------------------------------| | | • serum haptoglobin $\leq$ 25 mg/dL 或 serum LDH $\geq$ 正常 | | | 上限值的兩倍 | | | · 週邊血液抹片出現血球裂片 (schistocytes) 和皺縮紅 | | | 血球 (burr cells) | | Elevated liver enzyme | • 肝指數上升正常上限值的兩倍以上 | | Low platelet | ・血小板≦ 10 萬 cells/microL | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (A) 溶血性貧血 (hemolytic anemia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B)雙胞胎之捐贈者往往會發生溶血性貧血症 (hemolytic anemia) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...--------|----------------------------------------|--|--|--|--| | | 5~30% HbH (β4),又稱 HbH disease | | | | | | | ・ 此型病人會發生溶血性貧血 (hemolytic anemia)、 | | | | | | | 肝脾腫大、偶而會造成胎兒水腫;新生兒的臨床 | | | | | | | 表現和 β thalassemia intermedia 相似,皆不須依賴 | | | | | | | 輸血仍可存活 | | | | | | α thalassemia major | ・4 個基因座全缺失 (/),又稱 Hydrops fetalis with | | | | | | | Hb Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...dia | major | | 電泳 | 正常 | 正常 | HbH(5~30%) | Hb Barts | Hb A2 (>3.5%) | HbF | HbF(90~96%) | | 表現 | 正常 | 小球性貧血,(/αα)較嚴重 | 溶血性貧血,肝脾腫大等,不須依賴輸血 | 引起胎兒水腫而胎死腹中,出生後無法存活 | 小球性貧血 | 臨床症狀較輕,不須依賴輸血仍可存活 | 如上症狀 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | 懷疑上皮細胞腫瘤 | ・CA125、CA 199 和 CEA | |----------|----------------------------------------------| | 懷疑生殖細胞腫瘤 | ・AFP、β-HCG 和 LDH | | 懷疑性索間質腫瘤 | • Inhibin、E2 (Estradiol)、testosterone 和 DHEA | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...,或 | 要的預後因子 | | | embryonal teratoma) | (Grade 1 → 3 , 未分化神經組織 ↑ , 預後 ↓ ) | | | Dysgerminoma | • 最常見的惡性生殖細胞腫瘤 | | | | · LDH ↑ | | | Yolk sac tumor | • 第二常見的惡性生殖細胞腫瘤 | | | (又稱 Endodermal sinus tumor) | Schiller-Duval body | | | | · AFP ↑ | | | Embryonal carcinoma | · 分泌 estrogen, AFP 和 HCG 可能↑ | | | Polyembryoma | ・ Embryoid bodies 組成, AFP 和 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (B) 9.16 歲年輕女性,因下腹疼痛及腹圍增加至門診求診,月經週期約 28 天,最近兩個月有異常出血,超音波顯示左側卵巢複雜性腫瘤,抽血檢查發現 beta-hCG, CA-125 及 LDH 都在正常值,但 AFP 值為 1,236 ng/mL。下列敘述何者正確? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (D) LDH 是卵巢 stromal tumor 之標記 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- 【詳解】(A) sarcoma 的組織鑑別標記常用 desmin 和 vimentin,而分化差的 melanoma 可用 melanin 和 S-100(可在神經膠、黑色素、軟骨、脂肪和樹突細胞等發現);(B) vimentin 是表現在 mesenchymal cells;(D) LDH 在卵巢生殖細胞腫瘤 dysgerminoma 會上升,而卵巢間質腫瘤(stromal tumor),如 granulosa cell tumor 則可分泌 estrogen 和 inhibin。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - (2) 症狀: 出現發燒、腫痛, ESR、LDH、ALK增加,非常類似 osteomyelitis (骨髓炎)的症狀, 有時會被誤認為感染來治療。骨頭受破壞通常較嚴重, 相對容易有病理性骨折。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...(+ 術後 | 沒症狀不處理;有症狀就整個 | | 化療 )、target therapy | 拿掉 (Marginal en-bloc excision | | | ,含 base 一起拿掉) | | | | | ↑ Alk-p, ↑ LDH | 腫瘤基底部和骨髓腔相通 | | | | | | | | 運動受傷 | Multiple hereditary exostosis | | | (MHE) | | Periosteal reaction (Codman's | Exostosis, 像女王頭狀 | | · · | , | | | | | | | | | 10~20男膝蓋上下、長骨的 metaphysis(小孩最常見的 sarcoma)Fibrous tissue ( Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - (d) S = serum tumor markers (血清腫瘤標記): - i. S0:標記都在正常範圍內。 - ii. S1:LDH 10 倍正常值;或 hCG > 50,000 mIU/mL;或 AFP > 10,000 ng/mL。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
@@ -93,16 +111,6 @@ tags:
 - (C) 滲出液(exudate)是肋膜液的 LDH 比上血清的 LDH 比值小 於 0.6 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 4. 檢查 & 診斷: 將抽取胸腔內液檢查, 盡量在使用抗生素之前抽取胸水, 並送驗檢查。 檢查項目有 Gram stain、cell count、 protein、LDH、 amylase、 glucose 和 pH。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - | | AFP | β-hCG | LDH | |---------------------|-----|-------|-----| | Seminoma | 0 | + | ++ | | Yolk sac tumor | +++ | + | + | | Choriocarcinoma | 0 | +++ | + | | Embryonal carcinoma | + | + | ++ | | Teratoma | 0 | 0 | 0 | Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- b. HBL:存活率 75%、好發於 1,500 IU/mL, ferritin > 142 ng/mL、NSE > 100 ng/mL。(LDH = lactic dehydrogenase, NSE = neuron-specific enolase —種醣解酶)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- ...一個算一分,累積加總後,依總分預測 mortality。 - (2) On admission: - a. Glucose > 200 mg/dL $\circ$ - b. Age $> 55 \text{ y} \circ$ - c. LDH > 350 IU/L $\circ$ - d. AST > 250 IU/L - e. WBC > 16,000/U1 - (3) Initial 48 hrs: - a. BUN elevation $> 5 \text{ mg/dL} \circ$ - b. Base deficit $> 4 \text{ mEq/L} \circ$ - c. Ca 10\%$ ° - f. fluid Sequestration > 6 L $ Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
-- 【詳解】Ranson criteria on admission:(a) Glucose > 200,(b) Age > 55,(c) LDH > 350,(d) AST > 250,(e) WBC > 16,000。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- ...呼吸抑制,二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyro Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...部度作遲鈍,目前無有效治療方式。 | 107(二)專醫四-56 | | (A) | 7. 下列何者的異常值高低和粒線體疾病的病況嚴重程度最相關? (A) 血中乳酸量的高低 (B) 血中乳酸去氫酶(lactic dehydrogenase, LDH)的活性 (C) 脊髓液中的蛋白質含量 (D) 脊髓液中免疫球蛋白 G 的指數(IgG index) | 107(二)專醫四 -58 | | (B) | 8. 有關慢性疲勞症候群之敘述,下列何者正確? (A) 最好發於 40~60 歲之男性 (B) 常與 EB 病毒(EBV) 感染相關 (C) 絕大多數是心理因素引起 (D) 與免疫功能異常無關 【詳解】本顯一律給分。 | 105( 二 ) 専醫四 -58 | Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- 4. 皮肌炎的診斷標準包括:若符合以下四項中的三項以上,加上典型的皮膚症狀,即可診斷為皮肌炎;而多發性肌炎需符合四項中的三項以上,且無皮膚症狀。需注意的是,有一部分皮肌炎患者僅有皮肌炎的皮膚病變,但臨床上並無肌肉病變症狀且無肌肉酵素或肌電圖異常,稱作 amyopathic dermatomyositis。 - (1) 四肢近端肌肉群對稱性無力。 - (2) 血清中肌肉酵素,如:CPK、LDH、SGOT上昇。 - (3) 肌電圖異常。 - (4) 肌肉切片有發炎性病變。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- ...臟 | (7) 蛋白尿 ( > 500 mg/day 或 3+ 以上 )、或 Cellular cast(+)。 | | | | | | 神經 | (8) Seizure 或 Psychosis。 | | | | | | 血液 | (9) Hemolytic anemia (Coombs' test 陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Thrombocytopenia ( < 10 萬 )。 | | | | | | 實驗室檢查 | (10) ANA(+)、(11) Anti-dsDNA(+) 或 Anti-Sm(+) 或 Anti-phospholipid(+) | | | | | Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (4) Metastatic melanoma 的病患其 LDH 會升高,後續研究發現,黑色素細胞瘤轉移的病患,假使 LDH 升高其預後較不好,但 LDH 並不適合用來作為偵測是否有轉移的指標(敏感度和特異性低)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- ...e nodes, or matted nodes, or in-transit met(s)/ satellite(s) with metastatic node(s) | | | | | | M stage | Site | Serum LDH | | | | | M1a | Distant skin, subcutaneous, | Normal | | | | | | or nodal metastases | | | | | | M1b | Lung metastases | Normal | | | | | M1c | All other visceral metastases | Normal | | | | | | Any distant metastasis | Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

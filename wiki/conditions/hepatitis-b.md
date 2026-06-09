@@ -34,6 +34,7 @@ sources:
   - "[[sources/med5-book3-ch08]]"
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Hepatitis B (B 型肝炎)'
   - 'Hepatitis B'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,12 @@ HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已
 - [[sources/med5-book3-ch08]]
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...目: ・問診:家庭疾病史、過去疾病史、過去孕產史、本胎不適症狀。 ・身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 ・實驗室檢查:血液常規(WBC, RBC, Plt, Hct, Hb, MCV)、血型、Rh 因子、B型肝炎(HBsAg, HBeAg)、梅毒(VDRL)、德國麻疹(Rubella IgG)、HIV、尿液常規。 二、例行產檢。 註:若德國麻疹抗體檢查呈陰性之孕婦,宜在產後注射德國麻疹疫苗 ※預產期評估(Naegele's rule):LMP 日期,月+9,日+7+(週期-28) | | | | | 第2次 | | 16 週 | 例行產檢。 | | | | | 第3次 | | 20 週 | • 例行產檢。 | | | | | | 期,妊娠 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (3) B型肝炎表面抗原檢查(HBsAg與HBeAg)(若有特殊情況,無法於第一次產檢檢查,可改於32週前後檢查) - a. 若孕婦為 B 型肝炎帶原者,可能會垂直感染給胎兒,感染主要發生在生產中或生產後,嬰兒接觸到母親的血液及其他體液。HBeAg 陽性的孕婦在生產前後有70到90%的機會感染她們的新生兒; - b. 出生後 24 小時內給予 B 型肝炎免疫球蛋白,加上第一劑的 B 型肝炎疫苗可以增加對帶原者母親嬰兒的保護率達 85 到 90%。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
@@ -101,8 +105,6 @@ HBV 可造成急性、慢性肝炎、肝硬化與肝細胞癌風險。 本頁已
 - (B) B 型肝炎病毒 (Hepatitis B virus) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (A) B 型肝炎 (hepatitis B) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) chronic hepatitis B, and (3) congenital syphilis。因題目敘述, Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (A) 與 (D) 為可能答案。但是慢性 B 型肝炎皮膚表現為紅斑、丘疹或淤斑,最後發展成為血管神經性水腫。慢性 B 型肝炎往往會出現結節性紅斑,但不會有脫皮現象,因此選 (D)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- | 施打時間 | 疫苗種類 | | |------------------------------|--------------------------|--| | 山井 24 小哇西伊浦拉廷 | 1. B 型肝炎免疫球蛋白一劑 | | | 出生 24 小時內儘速接種 | 2. B 型肝炎遺傳工程疫苗第一劑 | | | 出生滿1個月 | B型肝炎遺傳工程疫苗第二劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿2個月 | 嗜血桿菌及不活化小兒麻痺混合疫苗)第一劑 | | | | 2.13 價結合型肺炎鏈球菌疫苗第一劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿4個月 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

@@ -33,6 +33,10 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch15]]"
 aliases:
   - 'Penicillins (青黴素類)'
   - 'Penicillins'
@@ -47,7 +51,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +84,18 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med6-book1-ch05]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch15]]
 
 ## Key Details From Sources
 
+- (C) 4. 有關剖腹產孕婦之預防性抗生素之給予,若孕婦對 penicillin 或 107(-)專 cephalosporin 嚴重過敏,下列何者為最適合之預防性抗生素? Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
+- 【詳解】美國婦產科醫學會建議若對 penicillin 過敏,可給予 Clindamycin 900 mg + Gentamicin 5 mg/kg 單一劑量,故選(C)。 參考資料: ACOG Practice Bulletin No. 199: Use of Prophylactic Antibiotics in Labor and Delivery. Obstet Gynecol. 2018;132:e103. Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
+- ...| 篩 檢 | • 於孕婦懷孕 35~37 週時,或有早產之虞時,進行陰道和肛門乙型 | | | 鏈球篩檢 | | 處 置 | • 若為陽性,於生產前給予預防性抗生素,可減少約7成的早發性 | | | 感染 | | | • 抗生素首選為 penicillin,若對 penicillin 過敏,可使用 clindamycin | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- c. 治療: 肌肉注射 Benzathine penicillin G 2.4 百萬單位、口服 tetracycline 500 mg QID, 14 天或 doxycycline 100 mg BID, 14 天。治療前 24 小時可能出現急性發燒、併頭痛、肌肉疼痛等的 Jarisch-Herxheimer reaction。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- | Uncomplicated UTI | 非複雜性指患者為非懷孕時期的健康成人 | |-------------------|-------------------------------------| | Complicated UTI | 複雜性指患者存在可能導致治療失敗的潛在問題,這些問題 | | | 包括 (1) 糖尿病、(2) 懷孕、(3) 院內感染、(4) 腎衰竭、 | | | (5) 放置導尿管或 PCN、(6) 泌尿道有結構或功能異常、 | | | (7) 泌尿道阻塞、(8) 腎臟移植、(9) 免疫功能不全等 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - ...aphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Streptococcus, group D | | | | S. faecalis (enterococ Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...oli | 1st: Fluoroquinolone | 7~10 days | | | Proteus | 2nd: 2nd generation cephalosporin | | | | Klebsiella | 3rd: Aminopenicillin/BLI | | | | Enterobacteria | | | | Complicated UTI | E. coli | 1st: Fluoroquinolone | 3~5 days after afebrile | | | Enterococci | 2nd: Aminopenicillin/BLI | | | | Pseudomonas | 3rd: 3rd generation cephalosporin | | | | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (4) Aminoglycosides : (Gentamicin®) - a. 優點:對 G(-) 菌叢有高度效果,常用且主要用於治療 complicated UTI。當與 ampicillin 併用還可以治療 Enterococci。 - b. 缺點:無口服劑型,因為口服吸收率差。 - c. 機轉:抑制細菌細胞內蛋白質(30S)合成。 - d. 禁忌:不可用於孕婦(傷害胎兒神經)。 - e. 特殊副作用:注意有耳毒性;腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -96,11 +109,6 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - ...醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性反應有助於診斷 | | | | (D)治療方法為經肌肉注射盤尼西林(penicillin)每週一次共三次 | | | | 【詳解】本題答 (A)、(D) 給分。 | | | (D) | 9. 變異型庫賈氏病(variant Creutzfeldt-Jakob disease, vCJD)和散發 | 106(一)專 | | | 型庫賈氏病(sporadic Creutzfeldt-Jakob disease, sCJD)的差異, | 醫四 -57 | | | 下列敘述何者錯誤? | | | | (A) vCJD 的病程比 s Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ...的癲癇較常出現攻擊性行為? (A) 顳葉 (B) 頂葉 (C) 枕葉 (D) 基底核 | 103( 一 ) 專醫四 -70 | | (B) 31. | 下列關於神經性梅毒(neurosyphilis)之敘述,何者錯誤? (A) 在盤尼希林(penicillin)發明後,神經性梅毒較少發生,但自愛滋病出現以來,神經性梅毒再度受到醫學界之重視 (B) 神經性梅毒對腦部之影響主要是顳葉,所以會產生類似精神分裂症患者之幻聽與妄想 (C) 其腦脊髓液有淋巴球增多(lymphocytosis)及較多之蛋白質 (D) 神經性梅毒通常在感染梅毒螺旋菌 10 至 15 年後發生 【詳解】神經性梅毒對腦部之影響主要是額葉(frontal lobe)。 | 102(二)專醫四-70 | | (B) 32. | 將 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) high dose penicillin G Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (D) 靜脈注射 penicillin G Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- ...神經引起厲害的癢感。常見過敏原如下: - (a) 食物:海鮮、高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dyes, benzoates, salicylates)、核桃、巧克力、菇、筍。 - (b) 藥物: 抗生素(Penicillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (1) 經驗性抗生素使用: - a. 若懷疑 Viridians streptococci 或 Enterococcus: penicillin 或 ampicillin 加上 gentamicin。 - b. 若懷疑 *Staphylococcus aureus*: penicillinase-resistant penicillin 或 vancomycin 加上 gentamicin。 - c. 若針對術後病童或是病童有 prosthetic valves,使用 vancomycin 與 gentamicin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 
@@ -109,6 +117,7 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 
 ## Related Pages
 
+- [[diagnostics/group-b-streptococcus-screening-pregnancy|Group B Streptococcus screening in pregnancy (妊娠乙型鏈球菌篩檢)]]
 - [[conditions/staphylococcal-scalded-skin-syndrome|Staphylococcal scalded skin syndrome, SSSS (葡萄球菌性燙傷樣皮膚症候群)]]
 
 ## Follow-up

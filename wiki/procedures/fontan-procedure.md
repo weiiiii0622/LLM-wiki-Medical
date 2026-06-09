@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Fontan procedure (Fontan 手術)'
   - 'Fontan procedure'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-單心室循環的階段性手術終點，使體靜脈血被動進入肺循環。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+單心室循環的階段性手術終點，使體靜脈血被動進入肺循環。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...) holoprosencephaly \( \) neural tube defect-meningomyelocele | | | CV | • TGA · VSD · coarctation of the aorta · PDA · single ventricle · hypoplastic left ventricle · pulmonary stenosis · left ventricle atresia and double outlet RV truncus arteriosus | | | GI | • Duodenal atresia · imperforated anus · anorectal atresia · small left colon syndrome · situ Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...引至肺動脈並流到肺部進行氧合作用。(見上圖右) - b. 第二階 (bidirectional Glenn procedure): 出生三到六個月進行。 - (a) 將上腔靜脈血液直接分流至肺動脈,降低右心室的負擔。 - c. 第三階段 (Fontan procedure): 兩到三歲進行。 - (a) 同樣將下腔靜脈分流至肺動脈,至此上、下腔靜脈血液不經心臟直接流 回肺動脈,而右心室專心負責體循環,將血液輸送至全身。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (3) 處置:作氣球心房中膈造口術使右心房的血流能流往左心,同時使用 PGE1 維持動脈導管暢通。開刀方面,嬰兒時期先做血管分流手術,三到四歲間則可作 (a) 改良的 Fontan 式手術,連接右心室及右心房,並關閉心房及心室中膈缺損。(b) Fontan 術式:將病人的右心房或右心房的心耳連接到肺動脈上,如此右心房的血就能夠直接流到肺部去行氣體交換。(c)全靜脈一肺動脈吻合術:將上腔靜脈及下腔靜脈與肺動脈直接相連接。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - #### Stage 3: Fontan Procedure Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

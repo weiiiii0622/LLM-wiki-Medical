@@ -32,6 +32,8 @@ sources:
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch10]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch09]]"
 aliases:
   - 'Sarcoma (肉瘤)'
   - 'Sarcoma'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,16 @@ tags:
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch10]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch09]]
 
 ## Key Details From Sources
 
+- | 過渡細胞 (Transitional cell) | • 分子及免疫的證據顯示,其和高分化漿液性 | | |------------------------------------------|---------------------------------------------|--| | | 現相同,故目前被認為應歸為高分化漿液性 | | | 癌肉瘤 (Carcinosarcoma) | • 即 malignant mixed müllerian tumor (MMMT), | | | | 組織特徵包括上皮及間質組成 | | | 未分化 (Undifferential) · 目前的證據顯示,其可能源於高分化學 | | | | | 未分化病灶 | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 有些肌瘤會產生變性 (degeneration);且有千分之 2~3 的機率可能轉變為惡性 (sarcomatous change) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 內 診 | • 對於大肌瘤,內診可發現子宮變大且外形不規則;至於小肌瘤, | | | | |------|---------------------------------------------|--|--|--| | | 內診一般不易發現 | | | | | | • 對於黏膜下脫垂的肌瘤,可藉由鴨嘴撐開陰道而清楚看見 | | | | | 超音波 | • 診斷肌瘤最常用的工具,低侵入性且敏感度高 | | | | | 子宮鏡 | • 當懷疑可能是黏膜下肌瘤,可以診斷性子宮鏡進行確認 | | | | | 核磁共振 | · 診斷肌瘤最準確的工具,不僅可分辨肌瘤 (myoma)、腺瘤 | | | | | | (adenomyosis) 和腺肌瘤 (adenomyoma);也有助於區分肌瘤和肉瘤 | | | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (A) sarcoma 之組織鑑別標記可用 S-100 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- 【詳解】(A) sarcoma 的組織鑑別標記常用 desmin 和 vimentin,而分化差的 melanoma 可用 melanin 和 S-100(可在神經膠、黑色素、軟骨、脂肪和樹突細胞等發現);(B) vimentin 是表現在 mesenchymal cells;(D) LDH 在卵巢生殖細胞腫瘤 dysgerminoma 會上升,而卵巢間質腫瘤(stromal tumor),如 granulosa cell tumor 則可分泌 estrogen 和 inhibin。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - 4. 小孩 / 青少年最常見的惡性骨腫瘤:osteosarcoma,第二常見:Ewing sarcoma。大 人最常見的惡性骨腫瘤:chondrosarcoma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...ood Choice → Giant cell tumor, Chondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dysplasia, Aneurysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...----------------------------------------------| | Osseous | Osteoma, Osteoid osteoma, Osteoblastoma, Fibrous dysplasia, Osteosarcoma | | Cartilage | Exostosis (osteochondroma), enchondromaChondroma, Chondroblastoma, Chondromyxoid fibroma,Chondrosarcoma. | | Fibrous | Histiocytic fibroma, Benign fibrous histiocytoma, Desmoid fibroma, fibrosarcoma, Mal Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
@@ -94,11 +103,6 @@ tags:
 - 4. 惡性胸壁腫瘤: - (1) 漿細胞瘤 (plasmacytoma):蛋白質電泳會出現單一株峰值為惡性漿細胞製造之 免疫球蛋白。 - (2) 骨肉瘤(osteosarcoma):鹼性磷酯酶(Alkaline phosphatase)可能會上升。 - (3) Ewing 氏肉瘤 (Ewing's sarcoma): 紅血球沉降率 (Erythrocyte sedimentation rate)可能會上升。通常會有全身倦怠或發燒症狀。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
 - (C) 骨肉瘤 (osteosarcoma) Source: [[sources/med5-book4-ch01|甲、胸壁]].
 - (D) Ewing 氏肉瘤(Ewing's sarcoma) Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- E. 橫紋肌肉瘤(Rhabdomyosarcoma, RMS) 197 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- ### E. 橫紋肌肉瘤 (Rhabdomyosarcoma, RMS) Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- 2. 良性腫瘤,約佔食道腫瘤 1%,以平滑肌瘤(leiomyoma)佔 60%、囊狀瘤佔 20%、 息肉瘤 5%、混合瘤(potpourri of neoplasms)佔 5%。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ...| 4. 上段食道癌多為? | 104(二)專 | | * | (A) 鱗狀細胞癌 ( squamous cell carcinoma ) | 醫五 -25 | | | (B) 腺癌(adenocarcinoma) | | | | (C) sarcoma | | | | (D) adenosquamous cell carcinoma | | | | 【詳解】上段和頸段以 SqCC 最常見。 | | | (B) | 5. 李先生,47 歲,最近一個月來逐漸感覺有吞嚥困難現象,無法 | 101(二)專 | | | 進食固體食物,且體重消瘦2公斤。李先生平常有抽菸、喝酒習 | 醫五 -6 | | | 慣。李先生經一系列檢查,證實罹患食道鱗狀上皮癌,有關食 | | | | 道癌,下列何者是最 Source: [[sources/med5-book4-ch05|戊、食 道]].
 
 ## Clinical Caveats
 

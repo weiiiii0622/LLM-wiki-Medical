@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch06]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Gastrointestinal carcinoid tumor (胃腸道類癌)'
   - 'Gastrointestinal carcinoid tumor'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-胃腸道 neuroendocrine tumor 可分泌 serotonin 等物質，轉移後可能造成 carcinoid syndrome。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃腸道 neuroendocrine tumor 可分泌 serotonin 等物質，轉移後可能造成 carcinoid syndrome。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch06]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...ma (dermoid cyst) | | | tumors):佔 20% | (90%) | Mo | nodermal highly specialized teratoma: | | | | | stru | ma ovarii & carcinoid neoplasms | | | | ・悪性 | 常見 | 見 (90%): Dysgerminoma · endodermal sinus | | | | miz | | or (yolk sac tumor) · immature teratoma & | | | | | | ted type | | | | | | 퀸 (10%): embryonal carcinoma 、 | | | | | polyembryoma & ch Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - F. 類癌 (Atypical carcinoid tumor) 45 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ### F. 類癌 (Atypical carcinoid tumor) Source: [[sources/med5-book4-ch03|丙、肺]].
 - 1. 病理上可見細胞多形化(pleomorphic)與分裂(mitosis)增多,很少見類癌症候群(carcinoid syndrome),可淋巴血管轉移。 Source: [[sources/med5-book4-ch03|丙、肺]].

@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Nitrates (硝酸鹽類)'
   - 'Nitrates'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...拮抗 Ca 離子 | ・重症肌無力 ・肺水腫 | ・ 心悸、頭痛、噁心嘔吐、燥熱・ 肺水腫・ 低血鈣、低血壓 | 監測血液 Mg濃度、呼吸、DTR 和尿量 中毒徵象: (1) DTR ↓ (2) 麻痺、呼吸急促 (3) 心臟傳導 | | Nitroglycerinor Glyceryltrinitratepatch | Nitric oxidedonors(↑ cGMP,平滑肌放鬆) | ・低血壓・心臟病(如主動脈瓣閉鎖不全) | 頭暈、噁心嘔吐、潮紅、心悸、頭痛低血壓 | | | 註 1:Ritodrine · 為唯一通過美國 FDA 的安胎藥物,不過,由於副作用大,美國早已停售 | | | | | | 註 2: MgSO 4 · 美國 FDA 通過的 MgSO 4 使用適應症是預防子癇前症發 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...核准治療勃 | | | | | 起功能障礙的 PDE5 inhibitors | | | | | (B) 頭痛,臉潮紅為服用 PDE5 inhibitors 常見的副作用 | | | | | (C) PDE5 inhibitors 可與 nitrates 同時服用 | | | | | (D) 服用 PDE5 inhibitors 後須有性刺激才可達到勃起 | | | (T) | | | 100/ . ) # | | (D) | 15. | 男性血中睪固酮(testosterone)濃度不足,較不會引起何種症狀 | 103(二)專 | | | | 或疾病? | 醫五 -69 | | | | (A) 性慾下降 (B) 勃起功能減退 | | | | | (C) 情緒低落 (D) 前列腺癌 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(achalasia)、 暴食(bulimia)、胼胝症(tylosis)、Plummer-Vinson syndrome、放射線和食 道憩室也有相關。 - c. 流行病學:男女比 3:1,很少發生於 30 歲前,以 60~70 歲男行死亡率最高,以非裔美國人最好發。 - d. 位置:以中上段食道佔 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 6. 處置: - (1) 藥物治療:90% 可以癒合 - a. 首要維持排便通暢,降低肛門內括約肌痙攣,故急性期多先給予軟便劑並教 導正確排便習慣。 - b. 溫水坐浴:使肛門內括約肌放鬆,增加局部血流加速肛裂癒合。 - c. 局部塗抹 glyceryl trinitrate (GTN) ointment (0.2~0.4%), 也是使肛門內括約 肌放鬆,增加局部血流加速肛裂癒合。不過會有頭痛的副作用。 - d. GTN 失敗時可考慮使用 diltiazem ointment、CCB 或注射肉毒桿菌至肛門內括約肌。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
@@ -78,7 +81,6 @@ tags:
 - (B) 給予硝化甘油 (nitroglycerin) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (D) 使用硝酸甘油 (nitroglycerin) 可能改善食道痙攣 (esophageal spasm) 所引起的胸痛 Source: [[sources/med3-book1-ch11|辛、心包疾病]].
 - (a) 缺血性或出血性中風: - i. nitroprusside 或 nitroglycerin 這類藥物會增加腦部血流,造成腦壓增高, 不建議使用於中風患者。較建議使用 labetalol。 - ii. CCB 較不會造成腦壓增高。其中,Nimodipine 可用預防、治療因動脈瘤 引起之蜘蛛膜下出血(SAH)後,腦血管痙攣所引起的缺血性神經缺損。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- (b) Nitroprusside、Nitroglycerin:這兩類藥物會增加腦壓,不可用於腦中風相關的高血壓;雖可用於心臟衰竭病患提升心輸出,但若發生低血壓,則需搭配強心劑或 IABP。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 
 ## Clinical Caveats
 

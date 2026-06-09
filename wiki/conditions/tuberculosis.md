@@ -53,6 +53,11 @@ sources:
   - "[[sources/med5-book4-ch09]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch17]]"
 aliases:
   - 'Tuberculosis (結核病)'
   - 'Tuberculosis'
@@ -67,7 +72,7 @@ tags:
 
 ## Summary
 
-分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -120,9 +125,21 @@ tags:
 - [[sources/med5-book4-ch09]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch17]]
 
 ## Key Details From Sources
 
+- | 分 類 | 禁忌 | | |------|-------------------------------------|--| | 母親方面 | ・薬物或酒精濫用 | | | | ・HIV 或 T-cell lymphotropic virus 感染 | | | | · 未經治療的結核病 | | | | ・正接受化療或放療 | | | · | ・乳房有皰疹感染 | | | 嬰兒方面 | ・半乳糖血症 (galactosemia) | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- 【詳解】哺餵母乳的禁忌症(母親方面)包括 (1) 藥物或酒精濫用; (2) HIV 或 T-cell lymphotropic virus 感染; (3) 未經治療的結核病; (4) 正接受化學治療或放射線治療; (5) 乳房有皰疹感染。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- ...---------------------| | 卵巢因素 | ・ 無排卵或不規則排卵 (造成無月經或月經不規則) | | | ・卵子老化 | | 輸卵管因素 | ・ 輸卵管阻塞 ( 感染或手術等造成 ) | | | ・ 輸卵管病變 ( 如結核或結節性輸卵管峽炎等 ) | | | ・輸卵管先天異常 | | 子宮因素 | ・子宮腔治粘 | | | ・黏膜下肌瘤 | | | ・子宮内膜瘜肉 | | | ・ 先天性子宮畸形 (如子宮中隔) | | 子宮內膜異位症 | • 全面性的影響,造成卵子品質不佳、影響輸卵管運送能力 | | | 、干擾著床、毒殺精子或胚胎、影響免疫及內分泌功能 | | 子宮頸因素 | • 排卵期子宮頸分泌物不足或太黏稠 | | | ・子宮頸狹窄 | | | · Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- | 懷孕的子宮內膜受傷 | • 最重要的成因,佔 90% | |------------|----------------------------------| | | • 包括人工流產手術及產後胎盤滯留行子宮內膜擴刮術 | | 非懷孕的子宮內膜受傷 | · High risk:子宮鏡手術 (如肌瘤切除、中隔切除)和子 | | | 宮內膜燒灼術 | | | · Low risk:診斷性子宮內膜擴刮術和開腹式肌瘤切除等 | | 感 染 | • 子宮腔內感染和子宮腔沾黏的關係並未完全確立,唯 | | | 一經證實和子宮腔沾黏有關的感染為結核菌感染 | | 放射治療 | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...cy | | Urogenital sinus 發育異常 | Imperforate hymen | | | Transverse vaginal septum | | 子宮內膜異常 | Asherman's syndrome | | | Tuberculosis | | 下視丘-腦垂體-卵巢 (HPO | axis) 異常 | | 下視丘異常 | 生理性延遲 | | (Hypothalamic | Congenital GnRH deficiency (Kallmann's syndrome) | | hypogonadism) | Functional hypothalamic amenorrhea (厭食症、過度運 | | | 動、體重過輕或壓力引發等) | | | 中樞神經腫瘤 (如 c Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | 骨盆腔疾病診斷 | 婦科良性病灶之治療 | 婦癌治療 | |-------------|-------------|-------------| | ・骨盆腔感染 | ・切除子宮 | • 子宮內膜癌分期手術 | | • 骨盆腔沾黏 | • 切除漿膜層下肌瘤 | (stage Ia) | | • 子宮內膜異位症 | ・切除卵巢輸卵管 | • 子宮頸癌根除性子宮 | | • 異位妊娠 | ・切除卵巢囊腫 | 切除手術 | | • 卵巢囊腫扭轉或破裂 | · 治療異位妊娠 | • 早期卵巢癌減積分期 | | • 卵巢腫瘤切片 | · 子宮內膜異位症燒灼 | 手術(有爭議) | | • 骨盆結核 | • 分離沾黏 | | | | • 輸卵管結紮 | | | | ・卵巢輸卵管膿瘍引流 | | Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
 - a. 感染症: - (a) 細菌:有急性感染不可腎移植。另外若之前有感染 TB、或是暴露在 TB 感染風險下,先接受一年的 isoniazid 預防性治療後才可移植。 - (b) 病毒:若病毒沒對身體存在進展性的破壞,可接受移植但預後較差。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (a) 膀胱內灌注藥物: - i. 常用灌注藥物: - (i) Mitomycin C: - ①機轉:一種化療藥物,用來抑制癌細胞 DNA 合成。 - ②效果:降低術後癌症復發率15%。(但不會降低癌症進展機率) - ③注意:25%產生刺激膀胱副作用。 - (ii) BCG (Bacillus Calmette-Guerin) - ①機轉:一種結核桿菌弱毒株,可引發自體免疫反應攻擊癌細胞。 - ②效果:降低術後癌症復發率50%、降低癌症進展機率50%。(效果最佳) - ③注意:80%產生刺激膀胱副作用。另外5%出血性膀胱炎、1% 遠端感染。 - ii. 副作用:常見局部刺激膀胱導致的排尿症狀(頻尿、急尿、解尿疼痛), 系統性症狀很少,因為經膀胱吸收的藥物很有限但也有少數會造成嚴 重全身性感染病症。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...igs' syndrome | parapneumonic | Gastrointestinal | embolism with | | | ● Empyema | Disease Related | infarction | | | ● Tuberculosis | Esophageal | Asbestosis related | | | ● Fungal | perforation | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreatic | | | | | pseudocyst | | | | | ■Meigs' syndrome | Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -134,13 +151,6 @@ tags:
 - b. 慢性感染所致淋巴結腫:臨床症狀較不明顯。如:結核菌感染。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - ...lcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (D) 結核瘤 (tuberculoma) Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- 3. 脊髓內腫瘤 (intramedullary tumor):5% - (1) 罕見,最常見為星狀細胞瘤(astrocytoma)、其次為室管膜瘤(ependymoma)。 其它包括血管細胞瘤、脂肪瘤、類上皮瘤、結核瘤及海綿狀血管瘤都有被報 告過。 - (2) 臨床症狀:類似於 central cord syndrome。 - (3) 影像檢查:脊髓攝影可以確定脊髓內有無病灶。但 MRI 可提供較多資訊,區分 腫瘤和空洞症,了解病灶範圍。 - (4) 處置:脊椎縱切片或針刺法得到組織切片,手術切除、放射線治療。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- (A) 結核菌腦膜炎的脊髓液外觀經常是混濁的,細胞數通常為每 毫升 25~500 顆,以嗜中性白血球為主,脊髓液中葡萄糖量 減少,但是蛋白質量增加 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- (B) 結核菌腦膜炎從感染到發作症狀,通常只有幾個小時 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- (D) 10. 下列那些腦膜炎,如果沒有及早治療,容易發生顱底腦膜嚴重滲 105(ニ)専出性發炎變化(basilar meningeal exduate),導致次發性腦血管梗塞(cerebral infarction)?①腮腺炎病毒腦膜炎(mumps)②巨細胞病毒性腦膜炎(CMV)③結核菌腦膜炎④隱球菌腦膜炎(A)①②(B)②③(C)①④(D)③④ Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- 1. 結果判讀順序: Protein → WBC → Sugar - (1) 先看 protein ,protein 高代表發炎,只有 protein 高,WBC 不高、glucose 不低, 考慮自體免疫疾病,如 Guillain-Barre 症候群(= acute inflammatory demyelinating polyneuropathy = AIDP)、多發性硬化症(multiple sclerosis)。 - (2) 再看 WBC,如果加上 WBC 高、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低,代表是黴菌、結核、細菌性腦膜炎;其中可依白血球的量、lymphocyte 或 PMN 為主來進一步鑑別。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (D) 抗結核病藥物 INH(isoniazid) 之相關神經病變,是缺乏維生素 B2 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

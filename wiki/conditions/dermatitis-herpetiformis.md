@@ -12,6 +12,8 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Dermatitis herpetiformis (疱疹樣皮膚炎)'
   - 'Dermatitis herpetiformis'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-與 celiac disease 相關，伸側劇癢群聚丘疹水泡，真皮乳突 IgA 沉積。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 celiac disease 相關，伸側劇癢群聚丘疹水泡，真皮乳突 IgA 沉積。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- b. 母乳含有蛋白質(包括 IgA 和 cytokine)可幫助嬰兒的腸道免疫,但缺乏維生素 K, 因此喝母乳的寶寶發生維生素 K 缺乏性出血比喝配方奶的寶寶機率大。故建議新生兒一出生便施打一劑 0.5~1 mg 的肌肉注射維生素 K 以預防出血。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- | 陰道酸性 | 陰道上皮受雌激素影響分泌肝醣,透過乳酸桿菌轉換呈乳酸,維持 | |---------------|------------------------------------------| | | 陰道 pH 3.5~4.5,藉此抑制其他微生物 ( 陰道正常菌落主要為嗜氧菌 ) | | 鱗狀上皮細胞的厚層 | 形成物理障壁,當上皮缺乏雌激素變薄時,將使陰道容易創傷或感染 | | 腺體分泌 | 子宮頸和巴氏腺體維持向外的液體分泌,有助於陰道清理,並且含 | | | 有免疫球蛋白 (IgA) 和各種免疫細胞對抗感染源 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...genital causes:呈散在性分佈。 - a. 囊狀纖維化 (cystic fibrosis)。 - b. α1- 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency )。 - c. 免疫缺失(selective IgA deficiency, allergic bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquire Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 神經學控制:胃部神經分佈可分為 extrinsic innervation 與 intrinsic innervation。 - (1) Extrinsic innervation:分為交感神經(celiac plexus)與副交感神經(vagus nerve) - a. 交感神經: - (a) 由 T6-T9 發出之神經,經過 celiac plexus 後分佈於胃壁。 - (b) 其作用使胃蠕動減慢,胃液分泌減少,括約肌緊張等。 - b. 副交感神經: - (a) 90% 為輸出神經 (afferent nerve),傳送胃部的訊息至中樞神經。 - (b) 可分成 left vagus nerve 與 right vagus nerve Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - hepatic branch,右側迷走神經可分支出 celiac branch。(神經的分支對於 vagotomy 術式的選擇相當重要,後續內容會再介紹。) Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].

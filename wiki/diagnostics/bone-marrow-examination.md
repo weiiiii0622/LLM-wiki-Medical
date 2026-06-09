@@ -57,6 +57,10 @@ sources:
   - "[[sources/med5-book6-ch08]]"
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med5-book6-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Bone marrow examination (骨髓檢查)'
   - 'Bone marrow examination'
@@ -71,7 +75,7 @@ tags:
 
 ## Summary
 
-骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -128,9 +132,19 @@ tags:
 - [[sources/med5-book6-ch08]]
 - [[sources/med5-book6-ch09]]
 - [[sources/med5-book6-ch10]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- 【詳解】(A) 帶因者夫妻每一胎有 1/4 的機率生下乙型地中海型 貧血重症(β thalassemia major)的胎兒,出生後會生長遲緩、 骨頭畸型、肝脾腫大、黃膽和性腺功能低下等,(C)需靠骨髓幹 細胞移植治療,否則常需仰賴終生輸血、打排鐵劑,通常活不 過 20 歲,而(B)胎兒水腫為甲型地中海型貧血重症(4個基因 座皆缺失),會造成死產。(D)可在妊娠10~13 週行胎兒絨毛膜 穿刺術取樣做基因檢測。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...| 素由 α 和 γ 組成的 HbF 居多 | | 症狀 | • 生長遲緩、骨頭畸型、肝脾腫大、黃膽、性腺功能低下 | | | • 心臟衰竭、心律不整、慢性疼痛 | | 治療 | • 若未治療,五年內死亡率高達八成 | | | • 治癒須要骨髓移植,否則須終生輸血、打排鐵劑 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】(A) 帶因者夫妻每一胎有 1/4 的機率生下乙型地中海型 貧血重症 (β thalassemia major) 的胎兒,出生後會生長遲緩、 骨頭畸型、肝脾腫大、黃膽和性腺功能低下等,(C) 需靠骨髓幹細胞移植治療,否則常需仰賴終生輸血、打排鐵劑,通常活不過 20 歲,而 (B) 胎兒水腫為甲型地中海型貧血重症 (4 個基因座皆缺失),會造成死產。(D) 可在妊娠 10~13 週行胎兒絨毛膜穿刺術取樣做基因檢測。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | 胎兒 | 巨嬰:可能造成產程延長和肩難產,而引起生產傷害 | |-------------------------|----------------------------------------| | | 胎便吸入症候群 (meconium aspiration syndrome) | | Lanciber and the second | 胎兒窘迫:因胎盤功能退化與羊水減少、臍帶受壓迫 | | | 子宮內感染 | | 產婦 | 催生失敗、四度會陰裂傷和產後出血 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- (C) 門診子宮內膜吸取取樣 (office endometrial aspiration biopsy) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 註 1: MESA (microsurgical epididymal sperm aspiration) 從副睪取精; TESE (testicular sperm extraction) 從睪丸取精。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (D) 右小腿開放性骨折如果發生骨髓炎,最常見的菌種為綠膿桿菌(Pseudomonas aeruginosa) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 此病例可採用更換較大的骨髓內釘(intramedullary nail)及骨移植(bone grafting)進行治療 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (C) 鎖定式骨髓內釘固定 (intramedullary interlocking nail) Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -143,12 +157,6 @@ tags:
 - (A) 診斷容易,治療成果良好 (B) 經常併發骨折癒合不正(malunion)或不癒合(nonunion) (C) 血液供應良好,很少發生缺血性壞死 (D) 常合併發生慢性骨髓炎 【詳解】(A) 易發生 non-union。 Source: [[sources/med5-book6-ch06|己、手部]].
 - a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ii. 細針抽吸(fine-needle aspiration):主要用在已經確定有多重轉移癌的病人(無法切除而根治),用以判斷在腎臟腫瘤的細胞形態。其他適應症包括:用以診斷不適合手術的病人、腎臟以外轉移至腎臟的腫瘤、影像上難以辨別的腫瘤。判斷準確率 95%、敏感度 85%,因檢查造成 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...ion with small molecules): - i. 干擾核內信息傳遞(Intracellular signaling): - (i) 皮質類固醇(Corticosteroid):免疫製劑的基礎,從多方面影響免疫系統,減緩淋巴結和骨髓的淋巴細胞反應。副作用包括高血壓、高血脂、高血糖、體重增加、骨質疏鬆、傷口癒合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- b. 尿酸(uric acid)結石:占結石 5%,好發於男性,特別是有痛風病史、骨髓增生症(myeloproliferative diseases)、快速減重、用 cytotoxic 藥物治療惡性腫瘤的人。常因脫水或攝取高 purine 食物,導致尿中尿酸增加(故尿 pH 0.5 cm 僅 15% 排出率。(因為輸尿管 徑 $0.3\sim0.5$ cm) - (2) 結石位置: 結石在輸尿管下段 50%、中段 25%、上段 10% 排出率。(因為輸尿管長 25 cm) - (3) 併用藥物:NSAID (標準一線)、alpha-blocker (增加 45% 排出率,小心血壓,可用 Urief 或 Harnalidge)。另外使用副交感拮抗劑 (antimuscarinics) 也可緩解症狀加速結石排出。 Source: [[sources/med5-book5-ch05|戊、結 石]].
-- e. 特殊副作用:注意骨髓抑制(白血球減少、血小板減少); 肝腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- (5) 小細胞肺癌 (small cell lung cancer, SCLC): - a. 佔 20% 肺腫瘤,約 80% 在中央發生,有高度轉移特性,早期轉移到縱隔腔淋巴和遠處(尤其骨髓和腦),由外胚層的神經嵴分化而來,細胞學上片狀或叢狀有深染核和少細胞質,狀似燕麥,故又稱 oat cell carcinoma,具有神經分泌小泡。通常分為限制期(restirctive)或廣布期(extensive)。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (4) 細針抽吸切片 (Fine needle aspiration of mass) Source: [[sources/med5-book4-ch03|丙、肺]].
-- (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
 
 ## Clinical Caveats
 

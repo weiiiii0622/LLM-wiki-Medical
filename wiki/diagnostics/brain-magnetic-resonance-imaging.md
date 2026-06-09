@@ -13,6 +13,8 @@ sources:
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Brain magnetic resonance imaging, brain MRI (腦部磁振造影)'
   - 'Brain magnetic resonance imaging, brain MRI'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- (D) 核磁共振影像(magnetic resonance imaging) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...nflammatory drugs (NSAIDs) | | 放射方式治療 | Uterine artery embolization | | | • High intensity focused ultrasound (HIFU) or Magnetic Resonance- | | | guided Focused Ultrasound (MRgFUS) | | 手術治療 | · 主要手術方式為子宮切除或肌瘤切除術 | | | ・保守性或輔助性手術包括 Endometrial ablation、Myolysis 和 | | | Uterine artery occlusion | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...|---------| | | (A) 電腦斷層檢查(computed tomography) | 醫五 -25 | | | (B) 內視鏡超音波檢查(endoscopic ultrasound) | | | | (C) 核磁共振影像檢查(magnetic resonance imaging) | | | | (D) 正子攝影檢查(positron emission tomography) | | | (C) | 3. 食道癌最常見的臨床狀況為何? | 105(一)專 | | | (A) 發燒 | 醫五 -27 | | | (B) 胸痛 | | | | (C) 漸行性吞嚥困難 | | | | (D) 食道逆流 | | | (A) | 4. 上段食道癌多為? | 104(二)專 | | * | (A) 鱗狀細 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (DTAA, descending thoracic aortic aneurysm; MRA, magnetic resonance angiography; TAAA, thoracoabdominal aortic aneurysm) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (A) 急性主動脈剝離最佳診斷工具是心臟超音波(cardiac echocar-diography) 或是核磁共振攝影(magnetic resonance imaging) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].

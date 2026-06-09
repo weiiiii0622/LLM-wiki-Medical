@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Iron deficiency anemia, IDA (缺鐵性貧血)'
   - 'Iron deficiency anemia, IDA'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-鐵缺乏造成小球性貧血，成人需尋找慢性失血來源。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鐵缺乏造成小球性貧血，成人需尋找慢性失血來源。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,15 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- 若先生亦為 MCV ≤ 80, 夫妻雙方須接受 血紅素電泳及缺鐵性貧血檢查 檢查結果 - i. 為缺鐵性貧血:鐵劑治療及追蹤 - ii. 夫妻為不同型地中海型貧血帶因者: 不會造成胎兒罹患重型地中海型貧血 - iii. 夫妻為同型地中海型貧血帶因者:胎兒 有 1/4 的機會罹患重型地中海型貧血, 須取胎兒檢體(如絨毛採樣、羊膜穿 刺等)作確認,一旦確認胎兒為重型 地中海型貧血,可考慮中止妊娠 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】此婦女在產前檢查中發現小球性貧血,ferritin 102 ng/mL(正常範圍 18~160)在正常範圍內,排除缺鐵性貧血;血紅素電泳結果 HbA(正常血紅素)98%,HbA2(由兩個 $\alpha$ 和兩個 $\beta$ 球蛋白組成)2%(>3.5% 為 $\beta$ thalassemia minor),所以 (C)建議該婦女的配偶也接受 CBC 及血紅素電泳檢查,確認是否也是海洋性貧血帶因者,以得知胎兒罹患重型海洋性貧血的風險。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (A) 佩佩有可能是地中海型貧血帶因(carrier)或者是缺鐵性貧血 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...--------------------| | 丁呂貃脵下 | · FIGO type 0· 帝建入于 吾腔內加福(元主任 ) 吾腔內 / | | (submucosal) | ・ FIGO type 1:大部分在子宮腔內, | | | ・缺鐵性貧血 | Intramural | | 骨盆腔壓迫和疼痛 | ・腫瘤壓迫症狀 | Subserous | | | (頻尿、尿液滯留或排便困難等) | | | | ・經痛或性交疼痛 | | | | ・扭轉或變性 | | | 影響生育 | ・懷孕困難 | Submucosal > | | | ・増加流産機會 | Intramural | | | • 懷孕不良結果 | | | | (早產、胎兒子宮生產遲滯等) | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - 2. 好發族群:營養缺乏之中年女性,常合併有缺齒、萎縮性口腔黏膜和舌炎、匙狀指 甲和缺鐵性貧血,且有較高機率得到鱗狀上皮細胞癌。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 3. 臨床表現:吞嚥困難、下咽食道蹼、體重減輕以及缺鐵性貧血,若未治療很容易從下咽蹼發展成後環甲癌症。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (D) 核醫 Tc99m IDA 掃描 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].

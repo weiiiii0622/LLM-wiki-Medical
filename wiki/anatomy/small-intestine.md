@@ -50,6 +50,9 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch14]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Small intestine (小腸)'
   - 'Small intestine'
@@ -64,7 +67,7 @@ tags:
 
 ## Summary
 
-小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -114,9 +117,18 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch14]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- (C) 14. 陳小姐, 45 歲,過去未曾懷孕或特殊疾病史,因下腹疼痛至門診就診,超音波發現一7公分骨盆腔複雜性腫瘤,手術中病理冷凍切片證實為亮細胞卵巢癌(clear cell adenocarcinoma of ovary),並發現腫瘤與一段小腸粘黏並有大腸侵犯,肝臟表面及橫膈膜下並沒有腫瘤轉移,有關患者的治療,下列何者正確? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (C) 患者應接受減積手術,可能需包括部分小腸及大腸切除,術 後應接受化學治療 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】此卵巢癌病患術中發現腫瘤與一段小腸粘黏並有大腸侵犯,肝臟表面及橫膈膜下並沒有腫瘤轉移,分期中至少是 IIB(骨盆腔組織侵犯)。病患除須接受卵巢癌分期手術(staging surgery)外,亦須進行減積手術(cytoreductive/ debulking surgery),清除所有可見的病灶(包括切除部分受侵犯的小腸及大腸),及術後化學治療。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (C) 小腸膨出 (enterocele) Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- 【詳解】疝氣可被定義為一個器官或一部分的器官往正常包覆該器官的體壁外膨出,最常見於腹部,且最常膨出的器官為小腸,故選(C)。 Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- | 常見部位 | 骨盆腔腹膜、卵巢、直腸子宮隔層 (cul-de-sac 或稱 the Pouch of | | | | | |------|--------------------------------------------------|--|--|--|--| | | Douglas)、闊韌帶和子宮薦骨韌帶 (uterosacral ligament)、子宮、輸卵 | | | | | | | 管、直腸、乙狀結腸、闌尾 | | | | | | 其他部位 | 膀胱、輸尿管、子宮頸、陰道、小腸、肚臍、横膈膜、肋膜和心包膜 | | | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (B) 鈣質的來源主要為飲食攝取,大多於十二指腸(duodenum) 及空腸(jejunum)吸收 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占鈣結石成因 15%。較常見的原因是攝取高 purine 食物、內生性尿酸分泌過量,引起高尿酸尿鈣(hyperuricosuric calcium)結石。(注意:這跟尿酸 (uric acid) 結石 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 2. 胎便塊大腸阻塞症(Meconium plug syndrome) - (1) 常見的新生兒腸阻塞,和多種疾病有關,如巨結腸症、妊娠期糖尿病、甲狀腺功能低下、囊性纖維化等。大多數有此症狀之孩童為正常,但建議進一步檢查排除巨結腸症,尤其早產或明顯有遠端小腸阻塞症狀之孩童。 - (2) 臨床表現:腹脹。 - (3) 檢查 & 診斷: KUB 顯示多段小腸氣、水溶性顯影劑灌腸(同時診斷治療)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -129,12 +141,6 @@ tags:
 - (3) Kasai procedure 為肝門小腸造瘻術(hepatoportoenterostomy),切除閉鎖膽道和重建膽道引流至小腸,可改善早期存活率,避免進展性肝內膽道破壞造成慢性發炎,纖維化,肝硬化。如失敗,則會造成生長遲緩,反覆膽道炎,最後進展為末期肝病,則必須做肝移植。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 1. 機轉 & 成因:為一有膜包覆腹部臟器膨出,膜的外層為羊膜(amnion)而內層為 腹膜(peritoneum),其大小依腹壁缺陷程度而異,小至部分小腸脫疝,大至小腸肝 臟脫疝。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
 - 2. 合併異常:很少合併其他異常,唯一例外是合併小腸閉鎖佔 10~15% 病童。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
-- #### 丁、小腸腫瘤(Tumors of small intestine) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 1. 小腸腫瘤大約佔所有消化道癌症的 1~3%,相對胃癌與大腸癌而言少見。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 2. 一般而言小腸腫瘤以惡性腫瘤居多,約佔70%。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- (A) 十二指腸 (duodenum) (B) 空腸 (jejunum) Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
-- Bile salt 絕大部分在小腸被再吸收,只有不到 10% 的膽鹽會進到 大腸形成糞便。在小腸是 passive reabsorption, 在 terminal ileum 則是 active reabsorption。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
-- ...ut pancreatectomy: Partington-Rochelle's modification of Puestow procedure - b. Drainage procedure with pancreatectomy (duodenum preserved): Puestow procedure (resection of pancreatic tail) The Berger procedure (resection of pancreatic head) The Frey procedure (resection of pancreatic head) - c. Pancreaticoduodenectomy (PD): Whipple procedure, PP Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 
 ## Clinical Caveats
 

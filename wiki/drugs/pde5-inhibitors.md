@@ -6,6 +6,8 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med6-book1-ch06]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'PDE5 inhibitors (第五型磷酸二酯酶抑制劑)'
   - 'PDE5 inhibitors'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-增強 NO-cGMP 路徑改善勃起功能，與 nitrates 合用可造成危險低血壓。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+增強 NO-cGMP 路徑改善勃起功能，與 nitrates 合用可造成危險低血壓。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book6-ch06]]
+- [[sources/med6-book1-ch06]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- (3) 會陰部肌肉(右圖為由下往上看會陰部) - a. 坐骨腳肌 (ischiocavernosus) - b. 球海綿肌 (bulbospongiosus) - c. 淺會陰橫肌(transverse perinei superficialis) - d. 深會陰橫肌(transverse perinei profundi): c 之下 - e 肛門外括約肌 (external anal sphincter) - f. 提肛肌(levator ani): 肛門三角的底部 - g. 尾骨肌 (coccygeus) Source: [[sources/med6-book1-ch06|甲、胚胎解剖學 (Embryology and Anatomy)]].
+- ...為其讓內膜變薄,手術中反而 | | | | | 容易傷到 basal layer 造成術後沾黏,目前不建議使用。 | | | | 術後 ・ 高劑量荷爾蒙: 使受損的內膜儘快恢復。 | | | | | | · 增加內膜血流藥物,幫助內膜生長:Sildenafil、 | | | | | Vit E 和 Low-dose aspirin 等。 | | | Physical barriers | ・IUD:放置 1~3 個月。 | | | | | ・ 術後放置兒童導尿管或子宮腔氣球支架 7~10 天。 | | | | | Auto-cross-link hyaluronic acid gel | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ...ligament(又稱 flexor retinaculum)與旁邊的 腕骨所形成的通道。內容物包含: - a. 正中神經 (median nerve)。 - b. 屈肌韌帶: - (a) Flexor digitorum superficialis tendons • - (b) Flexor digitorum profundus tendons • - (c) Flexor pollicis longus tendon • - c. Flexor carpi radialis tendon 則包裹在 transverse carpal ligament 與 trapezium 當中。 - d. 注意:掌長肌(palmaris longus)的韌帶並未通過其內,而是從 tran Source: [[sources/med5-book6-ch06|己、手部]].
 - a. 非手術 (non-surgical): - (a) 生活型態改變、藥物調整、心理治療。 - (b) 口服藥物治療: - i. Phosphodiesterase (PDE) inhibitors: 與 ED 最 相 關 是 type V (PDE V),經由 NO pathway 使 cGMP 增加,達到血管擴張的效果。現有 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - Viagra、Cialis、Levitra,此類藥物對於曾做過骨盆腔手術合併雙側神經受損的 ED 病患無法達到療效。 Source: [[sources/med5-book5-ch08|辛、男性學]].

@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch21]]"
@@ -34,6 +34,7 @@ sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Cerebrospinal fluid analysis, CSF (腦脊髓液檢查)'
   - 'Cerebrospinal fluid analysis, CSF'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,12 @@ tags:
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- (d) 併發症:手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下 垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】泌乳激素瘤 1 公分以上為 macroadenoma,已造成視野缺損,須接受治療。(A) 藥物治療(dopamine agonist,如 cabergoline, bromocriptine)為首選之治療方式,藥物效果良好(約 90%),但仍有 10% 對藥物無反應;(B)(C) 若藥物治療無效,可考慮經蝶竇腦下垂體手術(transsphenoidal pituitary surgery)切除腫瘤,不過,手術切除後可能復發,需接受定期追蹤;(D) 手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 1. 從腦室壁細胞(ependymal cell)生長出,大多發生在第四腦室,且會隨著 CSF 散 佈到其他地方。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 4. 治療方式: - (1) 藥物治療可給 acetazolamide (Diamox)降低 CSF 的產生,或是利尿劑,另 steroid 的療效較具爭議性,目前比較推薦使用在有 severe papilledema 的病患。 - (2) 若仍無法適當控制腦壓時,需考慮作 shunting 分流手術或是 Lumbar puncture。 - (3) 若患者體重過重,可設法降低體重常能有效的降低腦壓。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...blastoma multiforme(GBM) | 106(二)專醫五-6 | | | (B) ependymoma 好發於老年 | | | | | | rimary brain tumor 最常見的種類 | | | | , , | š CSF 轉移至中樞神經系統的其他 | | | | 位置 | | | | | 【詳解】(B)好發孩童;(C | )孩童最常見原發性腦瘤為 astro- | | | | cytoma,最常見惡性腦瘤為 r | nedulloblastoma 。 | | | (B) 12 | . 最常見轉移性腦瘤之原發處 | ,依發生比例由多到少之排序為何? | 106(一)專 | | | (A) 乳房>肺>腎>腸胃道 | | 醫五-9 | | | (B) 肺>乳 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -101,8 +105,6 @@ tags:
 - 【詳解】(A) 正確,也因此中樞神經破壞範圍較大,預後較差。(B) 並無周邊神經病變的表現。(C) NMO 的預後比 MS 差。(D) 兩者的 CSF 的蛋白質均會升高;但 NMO 確實比較少 oligoclonal band。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - | (C) 11. | 腦脊髓液檢查的結果,下列那一個組合對診斷多發性硬化症 | 102(二)專 | |---------|-----------------------------------------------------|---------| | | (multiple sclerosis)最有幫助? | 醫四 -58 | | ( | ① 蛋白電泳分析出現寡株帶(oligoclonal bands) | | | ( | ②蛋白質降低 | | | | ③糖值降 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...--------------------------------------------------------------------------------------------|-----------------| | | (B) 腦脊髓液(C) 腦波電流圖 (EEG)(D) 核磁共振 (MRI) | | | (C) 17. | 一位 28 歲女性,近三年來經常發生手腳麻而無力、臉歪、視力模糊,時好時壞,根據這二張 MRI 的 FLAIR 影像,最可能的診斷是: | | | | (A) CNS tuberculosis(B) CNS cryptococcal infection(C) multiple sclerosis | | | (D) 18. | (D) metas Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (A) 41. 一位 10 歲女童,因全身抽搐(Seizure)至急診,體溫 38.5℃, 100(こ)專 已停止抽搐,意識清楚,過去並無抽搐病史,下列處置何者最不 醫四-77 適當? - (A) 馬上給予 Phenytoin - (B) 建立靜脈注射輸液路徑 - (C) 若懷疑是腦膜炎 (meningitis),應安排做脊髓穿刺 (lumbar puncture) - (D) 保持呼吸道通暢,給予氧氣 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- (CD)43.有關熱痙攣,檢查腦脊髓液的時機,下列何者錯誤? Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 

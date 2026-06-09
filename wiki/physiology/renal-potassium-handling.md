@@ -26,6 +26,9 @@ sources:
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch05]]"
 aliases:
   - 'Renal potassium handling (腎臟鉀離子處理)'
   - 'Renal potassium handling'
@@ -40,7 +43,7 @@ tags:
 
 ## Summary
 
-遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +69,17 @@ tags:
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch05]]
 
 ## Key Details From Sources
 
+- (B) 容易產生高血鉀與代謝性酸中毒 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】(B) 神經性厭食症(anorexia nervosa)患者若不當催吐或過量使用利尿劑(如:thiazide 和 loop diuretics 等)會造成代謝性鹼中毒,而過量使用軟便劑(laxatives)則會造成代謝性酸中毒;這些情形都會使鉀離子流失,造成低血鉀。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...-------------| | Ritodrine(Yutopar)(註1) | β₂ agonist( ↑ intracellularcAMP) | ・心臓病・控制不良的糖尿病或甲狀腺亢進・大出血 | 心悸、心跳加速、胸悶、氣促、低血壓低血鉀、高血糖肺水腫 | ・紀錄 I/O・監測心跳・監控血糖和血鉀 | | Indomethacin | COX inhibitor ( ↓ Prostaglandins 、 ↓ intracellular Ca) | ・肝腎功能異常・血小板功能異常・腸胃潰瘍・氣喘 | ・ 噁心嘔吐・ 胃痛・ 血小板功能異常 | ・胎兒 PDA 提早關閉 (32 週後使用)・羊水減少 (使用超過 72 小時) | | Nifedipine(Adalat) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】安胎藥物 $\beta_2$ agonist 的副作用包括心悸、心跳加速、胸悶、氣促、低血鉀、高血糖和肺水腫,故選 (A)。血壓的部分, $\beta_2$ agonist 會造成收縮壓上升,故考選部 (D) 也給對,然而,其會造成舒張壓下降,而平均的血壓變化是下降的,故內文仍維持 $\beta_2$ agonist 的副作用為低血壓。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】妊娠劇吐症的典型表現包括嚴重噁心和嘔吐,造成酮血症、體重減輕(>5%)、體液流失、酸鹼與電解質不平衡(低血鈉和低血鉀等)。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 1. 有功能的腫瘤-切除。(僅20%意外瘤有功能。—開始最初步基本的實驗室檢查有:抽血驗 K/aldosterone/renine、testosterone;驗 24 小時尿的 cortisol、VMA(以上如果有任何一項超標,進一步做相關檢查,常見且較為重要的有功能腫瘤皆收錄於 II 及 III 大項,包含各項進一步檢驗) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - #### A. 原發性高醛固酮症 (Primary aldosteronism), 又稱高血壓低血鉀症 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -82,11 +93,6 @@ tags:
 - (C) 高血鉀症 (hyperkalemia) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 2. 鉀:正常血鉀濃度為 3.5~5.0 mEq/L。 - (1) 低血鉀 (hypokalemia): 症狀有噁心嘔吐、肌肉無力、ileus、橫紋肌溶解和多尿; 心電圖變化有 T 波變平坦、出現 U 波、ST segment 下降、APC/VPC。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - a. Transcellular shift: 鹼中毒、insulin、beta agonist、週期性的低血鉀,使得鉀離子從細胞外往細胞內移動,造成血液中血鉀降低。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- c. 腎臟流失: 利尿劑的使用、腎小管病變 (Bartter's syndrome、Gitelman's syndrome)、高 aldosterone。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- 【詳解】(A) 女性較多。(C) 低血鉀現象。(D) 暴食症盛行率(年 輕女性 1~4%) 比厭食症(年輕女性 0.5~1%) 高。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- RTA 主要可分為三大類,分別是遠端型(type I)RTA、近端型(type II)RTA 與 高血鉀型(type IV)RTA。另外,還有一種是 type I、II 的混合型(mixed type),特別 發生在 carbonic anhydrase deficiency 病人上,又稱為 type III RTA。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

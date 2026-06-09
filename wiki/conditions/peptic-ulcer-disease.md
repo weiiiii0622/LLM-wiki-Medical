@@ -34,6 +34,7 @@ sources:
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Peptic ulcer disease (消化性潰瘍)'
   - 'Peptic ulcer disease'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,11 @@ tags:
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...肺水腫 | ・紀錄 I/O・監測心跳・監控血糖和血鉀 | | Indomethacin | COX inhibitor ( ↓ Prostaglandins 、 ↓ intracellular Ca) | ・肝腎功能異常・血小板功能異常・腸胃潰瘍・氣喘 | ・ 噁心嘔吐・ 胃痛・ 血小板功能異常 | ・胎兒 PDA 提早關閉 (32 週後使用)・羊水減少 (使用超過 72 小時) | | Nifedipine(Adalat) | Calcuim channelblocker(↓ intracellular Ca) | ・心臓衰竭・低血壓・過敏 | ・心悸、頭痛、頭暈、噁心嘔吐・嚴重低血壓 | ・與 MgSO 4 併用會增加 MgSO 4的毒性;並增加嚴重低血壓的風險 | | A Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...imethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) | | | (A) ①35 | (B) 1245 | | | (C) 2345 | (D) ①②③④ | | | (A) 19. 當腎臟血管肌肉脂肪瘤(期追蹤,不需手術? | angiomyolipoma ) 小於幾公分時可採定 | 103(二)專醫五-66 | | (A) 4 公分 | (B) 6 公分 | | | (C) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (C) 3. 一位 25 歲女性,到急診處主訴突發嚴重胸口心窩處疼痛(retrosternal pain),其症狀因深呼吸或吞嚥動作而加重。病人體溫 醫五-55 36.8℃、心跳 110/min、血壓 140/80 mmHg、臉色稍顯蒼白、腹 部平坦、柔軟無壓痛。病人身材瘦削,但她始終擔心過於肥胖 而常將吞進去的食物用挖喉嚨的方式嘔出。請問病人此次發作 的最可能原因是: - (A) 胃食道逆流(gastroesophageal reflux) - (B) 張力性氣胸 (tension pneumothorax) - (C) 食道自發性破裂 (Boerhaave's syndrome) - (D) 消化性潰瘍 (peptic ulcer) Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -102,7 +105,6 @@ tags:
 - (A) Peptic ulcer perforation Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 - 4. 症狀:消化性潰瘍(PUD)、上腹疼痛(epigastric pain)、腹瀉(因胃酸過度分泌破壞消化酵素)、體重減輕。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (A) 因急性十二指腸潰瘍穿孔接受腹腔鏡十二指腸修補縫合術, 術後第三天,鼻胃管仍留置,每日引流量約為六百毫升 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- | (D) 21. 下列那一位腦死病患,最不適合成為腎臟移植的捐贈者? (A) 43 歲,糖尿病病患 (B) 35 歲,腎結石病史者 (C) 37 歲,十二指腸潰瘍病史 (D) 20 歲,HIV 陽性 | 98(二)專醫五-5 | |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

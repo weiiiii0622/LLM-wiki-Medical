@@ -68,6 +68,9 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Diarrhea (腹瀉)'
   - 'Diarrhea'
@@ -82,7 +85,7 @@ tags:
 
 ## Summary
 
-腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -150,9 +153,18 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | 藥 物 | 作用 | 給藥方式 | 副作用 | |---------------|-------------|----------|-------------| | Oxytocin | 子宮收縮、減少產後出血 | 靜脈注射 | 水中毒 (同 ADH) | | Ergonovine | 子宮收縮、減少產後出血 | 靜脈、肌肉注射 | 高血壓 | | Prostaglandin | 子宮收縮 | 陰道塞劑、陰道釋 | 噁心、嘔吐、腹瀉 | | | | 放系統 | 頭痛、頭暈 | | | | | 輕度血壓上升或下降 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- .../ 併發症 | | | Prostaglandins(PGE1 \cdot PGE2 \cdot misoprostol) | 前列腺素常使用於子宮頸催熟,作為子宮頸不成熟產婦的催生第一步。 | 1. 子宮收縮過快2. 發燒、顫抖、嘔吐和腹瀉 | | 機械性 | 人工剝膜(strip/sweepmembrane) | 1. 非正式的催生方式,當足月產婦子宮頸已部分擴張,想加速陣痛的產生,可在門診執行。2. 執行時檢查者的手指伸入子宮頸的內口外,沿著子宮下段畫圈圈,來剝離胎膜。3. 研究顯示,人工剝膜確實可以縮短自發性陣痛產生的時間並減少需要正式催生的比率。4. 沒有證據顯示人工剝膜能改善產婦/新生兒的預後,不建議常規性施行。 | 並不增加感染機率 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- (B) 13. 一個正在接受手術後放射線治療的病人,發生嘔吐、食慾不佳、 10 腹瀉及輕微腹痛之症狀。下列何者為最有可能之診斷? - (A) 放射線後膀胱炎 (radiation cystitis) - (B) 放射線後腸炎 (radiation enteritis) - (C) 放射線後直腸炎 (radiation proctitis) - (D) 腸道陰道瘻管 (enterovaginal fistula) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】術後放射線治療造成的放射線後腸炎,急性期會造成嘔吐、食慾不佳、腹痛和腹瀉等表現;慢性併發症包括長期腹瀉、腸道吸收不良、腸狹窄和腸阻塞等。而放射線後直腸炎,急性期會造成肛門周圍的皮膚發紅、脫皮;慢性併發症包括直腸肛門潰瘍。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 疼痛 | •80%的患者會疼痛,包括經痛、性交疼痛和慢性骨盆疼痛 | |-----|------------------------------------| | 不孕 | • 25% 的患者會不孕,機轉如上述 | | 其 他 | • 若侵犯卵巢,可能形成卵巢囊腫 | | | • 若侵犯子宮,可能造成經前出血、經血量多和經期不規則等 | | | • 若侵犯腸道,可能造成腸道症狀 ( 如腹瀉、便祕、血便、解便疼痛和 | | | 腸絞痛等) | | | • 若侵犯泌尿道,可能造成泌尿道症狀(如頻尿、急尿、血尿、解尿疼 | | | 痛和腰痛等) | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (B) 5. 一位 25 歲女性因急性右下腹痛至急診。根據她的主訴,她於昨 天下午練習體操時開始陣發性腹痛,主要侷限於右下腹部,且伴 隨噁心嘔吐;疼痛的感覺越來越強烈,讓她坐立難安,甚至無 法進食,此外她否認腹瀉。來急診時,她的意識清楚,血壓 120/78 mmHg,體溫 36.9℃,脈搏 85 次 / 分鐘,呼吸 19 次 / 分 鐘。理學檢查顯示右下腹壓痛伴隨輕微反彈痛,骨盆腔內診顯 示子宮與左側附屬物正常,右側附屬物有一腫塊,約5公分, 且有壓痛。血液檢驗顯示白血球 11,000/mm3, 妊娠尿液檢驗呈陰 性,陰道超音波顯示如下圖,但腹腔並無顯示液體積存。則下列 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...)使用電腦刀(cyberknife)可克服 照射不足的問題,治療效果較佳(5年存活率低風險 95%、中風 險 85%、高風險 80%)。但價格比手術或近距離放射線昂貴得多。 - ii. 副作用:排尿問題(阻塞、頻尿、急尿、血尿)、腸道問題(腹瀉、 直腸出血、裡急後重)、勃起功能障礙、傷口癒合不佳。 - (i) 輻射副作用常延遲發生,剛照完無感但是6個月後出現副作用。 - (ii) 對勃起功能影響不同:手術後 6 個月後逐漸變好、輻射後 18 個月 後才有機會回復(另外輻射治療常合併用賀爾蒙,也會影響)。 - iii. 術後預後的預測因子: PSA 在 6 週後≥ 2 ng/ml 需懷疑復發。 - (b) 體內放射線(brachytherapy):由 TRUS 定位放入放射性核 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...osin、tamsulosin及 alfuzosin等 (C) 有時 anticholinergics 會造成排尿更困難,因為它會造成膀胱逼尿肌收縮力變較差 (D) α-adrenergic blockers 常見到的副作用為姿態性低血壓及腹瀉【詳解】一律給分。 | 104(一)專醫五-69 | |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (CD)30. 一位 38 歲男性接受腎臟移植術後第十二天順利出院,術後三個月門診追蹤時發現,WBC、CRP均在正常範圍,BUN/Cre值為20/2.6,並無發燒、腹瀉、咳嗽症狀,移植腎處無觸痛,胸部 X光、腎臟超音波無異常發現,接下來應怎麼做? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -165,12 +177,6 @@ tags:
 - (B) 21. 手術後 6 星期,蔡先生再到門診,並主訴於每次飯後二、三十分 98(ニ)専 鐘會有心悸 (palpitation)、頭昏 (dizziness)、流汗 (sweating) 醫五-29 、腹絞痛 (cramping abdominal pain) 及腹瀉 (diarrhea) 等現象。 下列那一項處置優先考慮? Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...必要 (C) biliary tract 之 definitive treatment 儘可能同一次住院中施行(D) nutritional support 是必要的 | 醫五 -26 | | (D) 15. 對於慢性胰臟炎導致的吸收不良及腹瀉之治療方法,下列何乎不妥? (A) Acid-inhibiting agents (B) 低脂肪飲食 (C) 脂肪酶口服製劑 (D) 低糖飲食 | 頁 100(一)專醫五-54 | | (B) 16. 急性胰臟炎後最常見的併發症為: (A) 糖尿病 (B) 胰臟假性囊腫(pseudocyst) (C) 胰臟出血 (D) 胰臟鈣化 【詳解】急性胰臟炎最常見的併發為 fluid retention (40%):治療以 supportive Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- ...B) 大腸鏡(colonoscopy) | | | (C) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的術前放射線治療之敘述,何者錯誤? | 100(二)專 | | (A) 可以增加 Resectability rate | 醫五-16 | | (B) 可以減少術中之 Tumor Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 4. 症狀:消化性潰瘍(PUD)、上腹疼痛(epigastric pain)、腹瀉(因胃酸過度分泌破壞消化酵素)、體重減輕。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 3. 症狀:腹瀉 (fasting stool output > 1 L/day )、低血鉀、胃酸低、高血糖、高血鈣、潮紅。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- .... 腎衰竭:第二常見。 - c. 肺炎。 - d. Ischemia colitis: 術中 improper ligation of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性器官的灌注 血流。 - f. 下肢半癱(spinal cord ischemia,Adamkiewicz 動脈灌流不 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (C) 6. 一個 75 歲的男性病患因腹部主動脈瘤接受手術治療,植入 Gortex graft。病人在過去並無腸胃方面的症狀,術後 40 小時,病人在 加護病房中,突然出現多次大量的褐色腹瀉,病人仍依靠氣管 內管(endotracheal tube)及人工呼吸器呼吸,意識不甚清醒 且無法說話,身體檢查並無腹部壓痛,或反彈性壓痛,體溫 37℃,白血球數為 10,000/mL。此時最可能的診斷是什麼? Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 
 ## Clinical Caveats
 

@@ -30,6 +30,8 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Staphylococcus aureus infection (金黃色葡萄球菌感染)'
   - 'Staphylococcus aureus infection'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,14 @@ tags:
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | 原因 | • 哺乳期間,細菌從乳頭傷口感染乳房 | | |-----|---------------------------------------------------------|--| | 致病菌 | • 最常見為 Staphylococcus aureus (金黃色葡萄球菌) | | | | • 其他如 Streptococci viridans 和 E. coli 等 | | | 症 狀 | • 乳房紅腫、脹痛、發燒和冷顫 | | | 處置 | • 消炎止痛藥使用伴隨冰敷以減輕乳房脹痛 | | | | • 持續哺乳或擠出乳汁,可避免膿瘍形成 | | | | • 經驗性抗生素須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacilli Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- (D) 乳腺炎最常見的細菌是 Staphylococcus aureus Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- (B) Staphylococcus aureus Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 4. 最常見開放性骨折的致病菌:Staphylococcus aureus (常見的表皮菌),大約 75%。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 【詳解】(A) 此時應該觀察三個月,看神經是否會自動恢復;也暫時不需要做 EMG,再手術反而會增加 nerve injury 的機會,是 contraindication。(C) atrophic nonunion 主要可能是因術中periosteum 清除太多或本身身體一些骨合成元素缺乏所導致。內固定物固定不牢會造成 hypertrophic non-union,影像上會看到兩端接頭像「象腳」一樣。(D) 開放性骨折最常見致病菌是金黃色葡萄球菌,但此病人掉到水溝,也應考慮厭氧菌感染。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 對於靜脈注射毒癮者感染骨髓炎,優先考慮的致病菌種分 別為金黃色葡萄球菌 (Staphylococcus aureus), 綠膿桿菌 (Pseudomonas aeruginosa) 和格蘭氏陰性菌 (gram-negative organisms) Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -92,9 +99,6 @@ tags:
 - (4) 併發症:因反覆抓癢導致金黃色葡萄球菌或疱疹病毒(eczema herpeticum) 感染。少數會有錐形角膜(keratoconus)、白內障(cataracts)或角膜結膜炎(keratoconjunctivitis)。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (C) 有時需要做細菌培養來排除金黃色葡萄球菌(S. aureus) 感染的可能 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (B) 47. 關於異位性皮膚炎(atopic dermatitis)的敘述,何者錯誤? 100(一)專 (A) 皮膚的屏障功能(skin barrier function) 會降低 醫四 -36 - (B) 在成人的病灶好發於四肢伸側(extensor)部位 - (C) 患者易伴隨金黃色葡萄球菌皮膚感染 - (D) 大部分患者血清 IgE 值升高 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 1. 葡萄球菌性燙傷樣皮膚綜合症(Staphylococcal scalded skin syndrome, SSSS) - (1) 致病因子:眼耳口鼻感染 S. aureus,其分泌的外毒素 Exfoliatin A 和 B,是一種 蛋白酶(protease),會去攻擊負責連結表皮顆粒層和棘狀層之間的 desmoglein 1,導致表皮裂解。顯微鏡下可見表皮裂解於顆粒層中或是與棘狀層之間。 - (2) 最好發於新生兒前三個月大,以及五歲前孩童。Immunocompromised 的成人也 會,但罕見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 致病因子: S. aureus 分泌之 Toxic shock syndrome toxin 1 (TSST-1) 及 Staphylococcal enterotoxin 和 Group A Streptococcus 分泌之 Streptococcal pyrogenic exotoxins (SPE) ,也就是超級抗原 (superantigen) 所導致之系統性症候群。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 致病因子:Group A *Streptococcus* 分泌之 Streptococcal pyrogenic exotoxins A、B 或 C。有時感染 *S. aureus* 所分泌之外毒素也會引起猩紅熱的症狀。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 
@@ -105,6 +109,7 @@ tags:
 
 - [[conditions/impetigo|Impetigo (膿痂疹)]]
 - [[conditions/mastitis|Mastitis (乳腺炎)]]
+- [[conditions/mastitis-lactational|Lactational mastitis (哺乳性乳腺炎)]]
 - [[conditions/staphylococcal-scalded-skin-syndrome|Staphylococcal scalded skin syndrome, SSSS (葡萄球菌性燙傷樣皮膚症候群)]]
 - [[conditions/toxic-shock-syndrome|Toxic shock syndrome, TSS (中毒性休克症候群)]]
 

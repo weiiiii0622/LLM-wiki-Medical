@@ -27,6 +27,8 @@ sources:
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Spinal cord (脊髓)'
   - 'Spinal cord'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,14 @@ tags:
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (d) 併發症:手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下 垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】泌乳激素瘤 1 公分以上為 macroadenoma,已造成視野缺損,須接受治療。(A) 藥物治療(dopamine agonist,如 cabergoline, bromocriptine)為首選之治療方式,藥物效果良好(約 90%),但仍有 10% 對藥物無反應;(B)(C) 若藥物治療無效,可考慮經蝶竇腦下垂體手術(transsphenoidal pituitary surgery)切除腫瘤,不過,手術切除後可能復發,需接受定期追蹤;(D) 手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - b. 異常的尿流曲線圖,形態改變且最大尿流速 下列何者不會造成 flaccid neuropathic bladder ? (A) S2-S4 spinal cord 受傷 (B) 頸椎受傷 (cervical spine injury) 且有 quadriplegia (C) Myelodysplasia 造成 anterior horn cell 無法正常發育 (D) Poliovirus 感染並破壞 anterior horn cell of spinal cord | 109(一)專醫五-68 | |-----|---------------------------------------- Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - | (C) | 6. 對一位 C5~C6 完全性脊髓損傷導致逼尿肌尿道外括約肌共濟失調 | 107 (二)專 | |-----|-------------------------------------------------------|-----------| | | (detrusor sphincter dyssynergia, DSD)的病人,下列何種處置不 | 醫五-68 | | | 合適? | | | | (A) 間歇性導尿以定時排空膀胱 | | | | (B) 口服抗膽鹼 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
@@ -86,9 +93,6 @@ tags:
 - 【詳解】Arnold-Chiari malformation,又稱小腦扁條體下疝,指的是小腦扁桃體疝氣,通過枕骨大孔下疝到椎管內,使得腦幹、脊髓受到壓迫,甚至影響腦脊液的流通。第一型較輕微,無其他神經系統畸形,多在學齡、或成人時才會出現一些神經學症狀(頭痛、頭暈、噁心、肌肉無力、協調障礙)。第二型合併出現脊柱裂(脊膨出 myelomeningocele),容易有呼吸、吞嚥困難,四肢無力的情形。第三型則是小腦下半部或是腦幹下疝到椎管內。第二和第三型通常在產前超音波檢查即可發現。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (D) 當發現 epidural abscess 有壓迫 spinal cord 應立即採取抗生素 單一治療 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - 2. 顱內室管膜瘤好發於孩童,但長於脊髓的室管膜瘤則以成年人為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 2. 成年人最常見原發性小腦腫瘤,也可能長在脊髓、視網膜,或在腎臟、胰臟中出現 囊腫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 3. 好發的位置常見在松果體(80~90%)、蝶鞍上(15~40%)及基底腦核(5~10%), 有時診斷時已經散播到腦室及脊髓腔內。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 1. 阻塞性: - (1) 先天:大腦導水管狹窄、Dandy-Walker malformation (第四腦室的 Luschka 和 Magendie 孔狹窄,導致第四腦室脹大)、Arnold-Chiari malformation (後顱窩容 量過小的畸形,導致後顱窩的內容物擠壓到脊髓)。 - (2) 後天:腫瘤、出血、膿瘍。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 
 ## Clinical Caveats
 

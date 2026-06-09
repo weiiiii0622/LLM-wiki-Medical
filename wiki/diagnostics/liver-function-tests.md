@@ -50,6 +50,8 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch05]]"
 aliases:
   - 'Liver function tests, LFTs (肝功能檢查)'
   - 'Liver function tests, LFTs'
@@ -64,7 +66,7 @@ tags:
 
 ## Summary
 
-用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -114,9 +116,16 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch05]]
 
 ## Key Details From Sources
 
+- | Hemolysis | • serum bilirubin $\geq 1.2 \text{ mg/dL}$ | |-----------------------|-----------------------------------------------------------| | | • serum haptoglobin $\leq$ 25 mg/dL 或 serum LDH $\geq$ 正常 | | | 上限值的兩倍 | | | · 週邊血液抹片出現血球裂片 (schistocy Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (A) 2. 27 歲 G1P0 懷孕 38 週孕婦,因下腹部疼痛合併子宮收縮前來求診,到院時血壓 160/110 mmHg,尿蛋白 4+,血清穀草轉氨酶 AST 308 U/L,血小板數 60,000/uL,經診斷為重度子癇前症。醫師建議此位孕婦住院並給予硫酸鎂(magnesium sulfate, MgSO4)治療。對此一疾病,給予硫酸鎂處方的主要目的是: Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...生產 | · 生產傷害、剖腹產及器械性生產 (如 vacuum、forceps)機率高 | | | | 新生兒 | · 三高二低:呼吸窘迫症候群、紅血球增多症 (polycythemia) 和高膽紅 | | | | | 素血症 (hyperbilirubinemia)、低血糖、低血鈣 | | | | | ・心肌病變、新生兒死亡 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B) 孕婦血清直接膽紅素 (direct bilirubin) Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
+- (D) 孕婦血清穀草轉氨酶(AST) Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - (C) 世界衛生組織定義 T-score ↓ | ↑ | | | Phosphate | _ | _ | ↓ | ↑ | _ | | ALP | | _ | | ↑ | | | PTH | _ | _ | ↑ | ↑ | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 (PPT)延長,通常也伴隨發燒、疲倦、體重減輕。這些是因腫瘤分泌刺激因子(粒細胞—巨噬細胞群刺激因子 GMCSF = granulocyte-macrophage colony stimulating factor)造成,切除病灶後可回復。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - iv. 放射性核素顯像(radionuclide imaging): 就是骨骼掃描(bone scan),判斷癌症是否有骨轉移以決定分期。若無骨頭痛且ALP (alkaline phosphatase,鹼性燐酸酶)值正常,則骨轉移機率極低。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -130,11 +139,6 @@ tags:
 - a. 血液生化檢查: - (a) WBC 上升。 - (b) 肝功能異常:ALP、γ-GT、bilirubin 皆會上升。Amylase 同時上升時需注意是否伴隨胰臟炎。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (D) 7.60 歲肥胖男性病患, 曾接受闌尾切除, 體檢時曾得知膽結石, 但無明顯症狀,有喝酒習慣。5天前因聚餐後,突發整個上腹部 有壓痛,發燒(39℃)、血中白血球 18,000/mm³, N/L = 83% / 16%;黃疸值(total bilirubin 5.6 mg/dL),則應做那項進一步的 處置? Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (3) 術後有時可能會造成高膽紅素症(Hyperbilirubinemia)。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- 【詳解】內科外科都會考,未來在內外科用到的機會也非常多。 由 Encephalopathy(1), Ascites(1), Bilirubin(2), Albumin(1), PTINR(1)所組成。此病人算起來 6 分。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- (a) 血液生化檢查可見 Amylase、Bilirubin 上升。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (1) 血液中 Ca ↑、PTH ↑、ALP ↑、P ↓、Cl ↑ (PTH 促 HCO₃ 排出導致 hyperchloremic metabolic acidosis)、Cl: P > 33:1。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- ...醫五-59 (A) 鈣離子 (calcium ion) 濃度 (B) 磷酸根離子 (phosphate ion) 濃度 (C) 鎂離子 (magnesium ion) 濃度 (D) 鹼性磷酸酶 (alkaline phosphatase, ALP) 濃度 【詳解】副甲狀腺術後低血鈣多為暫時性,但也有少數病患因 骨骼飢餓症候群(Hungry bone syndrome)造成永久性低血鈣, 其風險因子為術前嚴重骨病變、術前血中尿素氮濃度較高、術 前血中鹼性磷酸酶濃度較高或病患年紀較大。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 
 ## Clinical Caveats
 

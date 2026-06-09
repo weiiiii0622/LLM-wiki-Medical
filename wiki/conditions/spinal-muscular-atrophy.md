@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book4-ch06]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book2-ch09]]"
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Spinal muscular atrophy, SMA (脊髓性肌肉萎縮症)'
   - 'Spinal muscular atrophy, SMA'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-SMN1 缺陷造成 anterior horn cell degeneration 與對稱性近端肌無力。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SMN1 缺陷造成 anterior horn cell degeneration 與對稱性近端肌無力。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ SMN1 缺陷造成 anterior horn cell degeneration 與對稱性近端肌無力。
 - [[sources/med5-book2-ch09]]
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...erior mesenteric artery embolism (C) superior mesenteric vein thrombosis (D) non-occlusive mesentery ischemia 【詳解】題幹所述為 SMA 所支持的區域。 | 106 (一) 專醫五-32 | | (C) | 5. 下列關於疝氣之敘述,何者錯誤? (A) 股疝氣(femoral hernia)及間接型腹股溝疝氣(indirect type inguinal hernia)都以右側為主 (B) 股疝氣最易造成腸子壞死(20%),故應在初次診斷時就接受手術治療 (C) 切口疝氣(incisional hernia)都可以直接縫合(primary closure),即使疝氣洞口 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (1) 上腸繋膜動脈(SMA)支配:小腸、盲腸、升結腸和前三分之二的橫結腸。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
 - (4) SMA 和 IMA 之間藉由 arc of Riolan 以及 marginal a. 相吻合連通。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].

@@ -48,6 +48,9 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Pleura (肋膜)'
   - 'Pleura'
@@ -62,7 +65,7 @@ tags:
 
 ## Summary
 
-肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -110,9 +113,18 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch10]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- ...0 | IIIB | | | IIIC | 大徑> 2 cm | 肉眼下 (macroscopic) 骨盆腔外的腹膜轉移,最大徑> 2 cm(包括肝臟和脾臟的外囊轉移,但無實質轉移) | | | IIIC | | IV | IVA | 惡性肋膜積水 | | | Any TNM1a | IVA | | (腹膜以外的 遠端轉移) | IVB | | | 「腹股溝和腹腔以外的、肚臍轉移和肝脾臟 | Any TNM1b | IVB | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...瘤 ・ 分泌雌激素,20~25% 會伴隨子宮內膜增生或子宮內膜癌 繊維瘤 (Fibroma) ・ 最常見之良性卵巢性素間質腫瘤 ・ 不會分泌雌激素 ・ Meigs' syndrome 係指 ovarian fibroma 伴隨腹水產生 ± 肋膜積水 | 過多雌激素會造成以下組織增生 (1) 子宮內膜→不正常子宮出血 (2) 子宮肌層→子宮變大 (3) 乳房→脹痛 ・不同年齡都可發現,造成: (1) 小孩:性早熟 (2) 育齡:不規則月經 (3) 停經:不正常子宮出血 | | Androgen | Sertoli-leydig cell tumor Hilar cell | ・女性特徴消失 defeminization:月經變少、甚至停止、乳房和性器官萎縮等。・男性化mascu Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】Meigs' syndrome 係指 ovarian fibroma 伴隨腹水產生生 肋膜積水。故肋膜積水非診斷 Meigs' syndrome 必要條件;此外, 若卵巢腫瘤非 fibroma,而是其他腫瘤,如 myoma、teratoma 等, 則稱為 Pseudo-Meigs' syndrome。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 常見部位 | 骨盆腔腹膜、卵巢、直腸子宮隔層 (cul-de-sac 或稱 the Pouch of | | | | | |------|--------------------------------------------------|--|--|--|--| | | Douglas)、闊韌帶和子宮薦骨韌帶 (uterosacral ligament)、子宮、輸卵 | | | | | | | 管、直腸、乙狀結腸、闌尾 | | | | | | 其他部位 | 膀胱、輸尿管、子宮頸、陰道、小腸、肚臍、横膈膜、肋膜和心包膜 | | | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...位症 | | | | 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - | · 為多基因遺傳。若一等親有病史,罹病的機率會提高 | | | | 血液和淋巴散播 | ·子宮內膜組織出現在骨盆以外的組織(如橫膈膜、肋膜和心 | | | | | 包膜等),可能是由血液和淋巴散播出去的 | | | | 胚胎細胞化生 | · 子宮以外的器官可能有些未分化的細胞,後來異常分化成子 | | | | | 宮內膜組織,增生後便形成子宮內膜異位病灶。 | | | | in Agent of the | ・這可解釋為何先天性無子宮者或男性出現子宮內膜異位病灶 | | | | 醫源性 | ・手術或生產會陰切開造成子宮內膜組織的散播 | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...--|--------------------------------------------------------------------|-----------------------------|--| | | ・呼吸困難 | · 肋膜腔 / 心包膜積水、呼 | | | | | 吸窘迫症候群 | | | | · 血管內液體容積不足、血壓下降 | ・肝腎功能異常 | | | | ・寡尿 | ・血液濃縮、血栓 | | | 實驗室檢查 | • Hemoconcentration (hematocrit > 45%) | | | | (以 severe | • Leukocytosis (WBC count > 15,000) | | | | case 為例) | • Ele Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - A. 肋膜液 (Pleural fluid) 12 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ### A. 肋膜液 (Pleural fluid) Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 肋膜液的產生,由肋膜微血管和肋膜腔的膠體渗透壓和靜水壓差決定。一天約產生 5~10 L 肋膜液,正常狀況下,滯留在肋膜腔的肋膜液非常微量。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -125,12 +137,6 @@ tags:
 - M1a: 肋膜或心包膜積水、肋膜腫瘤、對側腫瘤。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 右邊的肺部可能會出現 basilar atelectasis 或 pleural effusion Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - $2 \, \, \mathcal{H}$ : one or more of pleural effusion, ascites, vascular complications, parenchymal complications and or gastrointestinal involvement Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
-- ...。疼痛持續而嚴 | 101(一)專 | | 重,伴隨嘔吐的症狀。病人吐後無法減輕症狀,但將身體前傾 | 醫五-2 | | 症狀可稍有改善。理學檢查發現病人體溫 38℃,上腹壓痛,腸 | | | 音降低。X 光檢查可見十二指腸內氣體增多及左側肋膜腔少量 | | | 積液。下一步安排何種檢查最適當? | | | (A) 上消化道攝影(upper GI barium study) | | | (B) 消化道內視鏡檢(upper GI endoscopy) | | | (C) HIDA 核醫檢查 (HIDA radionuclide scan) | | | (D) 血清澱粉酶及脂解酶檢查(serum amylase & lipase) | | Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 1. 胸部 X 光:可觀察主動脈、氣管是否有移位,或是縱隔腔會有 widening 的情形, 也有機會看見 pleural effusion 或 cardiomegaly。但 X 光敏感性和特異性皆不好,並 不能用來作為排除主動脈剝離的診斷,需做 CT 或是 MRI 才能確診。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- 【詳解】可能是血管吻合處有 leakage,給予強心劑會加重出血,甚至壓力過大將出血點用破更大傷口。開心手術患者胸管通常放置於心包膜腔或肋膜腔,兩者因心包膜與肋膜切開而相通,故胸管引流量異常增加須考慮 postoperative surgical site active bleeding。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- ...---------------------------------------| | 皮膚 | 溫暖、濕 | 冷、乾 | | 心血管 | 減少血管阻力、心跳加速 | 增加血管阻力、心跳減慢 | | 呼吸 | 喘 | 呼吸抑制,二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- (1) Video-assisted thoracoscopic surgery (VATS): - a. 電視輔助胸腔手術,當作了胸腔穿刺或是經皮肋膜切片仍無法診斷疾病時, 會選擇用 VATS 進去作切片。 - b. VATS 經常用來作肺邊緣小結節切片、縱膈腔腫瘤及淋巴切片來診斷惡性或 良性。 - c. 在診斷肋膜疾病有 95% 的準確率。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- (1) VATS 也可用來治療疾病: - a. 肺邊緣小結節切除、肺氣泡切除(bleb resection),肋膜切除(pleurectomy) - b. 膿胸 (empyema) 處理。 - c. 肺膜沾合術 (pleurodesis)。 - d. 交感神經切除術(sympathectomy):切除 T2 交感神經節,治療手汗(hyperhidrosis palmaris)。 - e. 心包膜開窗術 (pericardial window)。 - f. 較複雜的胸腔手術: 食道肌切開術 (myotomy)、縱膈腔或肋膜腫瘤的切除、肺葉或肺全切除術 (lobectomy or pneumonectomy) 以及食道切除術 (esophagectomy)等。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 
 ## Clinical Caveats
 

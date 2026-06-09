@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book6-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch09]]"
 aliases:
   - 'Intellectual disability (智能不足／智能障礙)'
   - 'Intellectual disability'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-智力與適應功能在發展期即低於預期，嚴重度以日常支持需求與適應功能評估。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+智力與適應功能在發展期即低於預期，嚴重度以日常支持需求與適應功能評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book6-ch08]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch09]]
 
 ## Key Details From Sources
 
+- ...0 個 CGG 重複 | | | | | | | | | 節 檢 | • 美國醫學遺傳學暨基因體學學會及美國婦產科醫學會建議以 | | | | | | | | | | 下情況需作篩檢 | | | | | | | | | | a. 有不明原因智能障礙、發育遲緩、自閉症者 | | | | | | | | | | b. 有 X 染色體脆折症或不明原因智能障礙之家族病史而尋求 | | | | | | | | | | 生育諮詢者 | | | | | | | | | | c. 卵巢早衰者 ( 尤其有家族病史者 ) | | | | | | | | | | d. 有晚發型 intention tremor 或 ataxia 者 | | | | | | | | | | e. 母親為帶因者 (pre Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- **※FMR1**: fragile X mental retardation-1 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (D) 7. 一位 16 歲智能不足且無性經驗之女孩,長期有慢性便秘之情形, 近日因下腹脹痛及小腹微凸而到院接受診察。經腹部超音波發現 腹中有一水囊狀物(如下圖\*處),位於子宮上面。子宮體之矢 狀切面大小為 5×4 公分,子宮內膜厚度為 1.4 公分,對此水囊 狀物作進一步鑑別診斷之最適合處置為何? Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - 1. 簡介:腦性麻痺是指嬰兒在出生前或出生後(腦部尚未發育成熟之前),中樞神經系統(upper motor neurom)受到損傷或發生病變所造成的運動機能障礙。它是非進行性的疾病(static encephalopathy),部分的腦性麻痺兒童會伴隨其他方面的障礙(有75%的病人會合併有智能障礙)。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - ...drome (WT, intersex disorder, and progressive nephropathy) • - b. WAGR syndrome (WT, aniridia, genitourinary anomalies, mental retardation) • - c. Beckwith-Wiedemann syndrome • - (6) 檢查 & 診斷: - a. 腹部超音波:任何腹部腫瘤最優先的初步檢查。但無法區別 WT 和 NBL。 - b. CT 或 MRI:可用來確認腫瘤原發位置,以區別 WT 和 NBL,以及術前評估 是否為雙側腫瘤、肝轉移、IVC 之腫瘤栓子。 - c. 尿液 VMA: 如影像上仍難以區別時, NBL 會升高, WT 不會升高。 - d. CXR: 為術 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (C) 2.33 歲男性,輕微智能不足,抽搐(seizure),根據此二張 CT 影 102(二)專 像,最適當的診斷是: 醫四-76 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].

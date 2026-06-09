@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Neonatal herpes simplex infection (新生兒單純皰疹感染)'
   - 'Neonatal herpes simplex infection'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-新生兒 HSV 可表現為 skin-eye-mouth disease、CNS disease 或 disseminated disease。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+新生兒 HSV 可表現為 skin-eye-mouth disease、CNS disease 或 disseminated disease。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- 6. 生殖器潰瘍 (genital ulcers) 傳染性疾病: - (1) 單純疱疹病毒 HSV: - a. 最常見造成生殖器潰瘍的感染源,分 type 1 和 type 2 可能感染下生殖道或口,有高度傳染性(80%的女性接觸後感染); - b. 臨床表現:影響陰唇陰道和肛門周圍區域,起初皮膚發炎,有灼熱、搔癢和神經過敏(hyperaesthesia)感覺,若影響尿道會造成排尿困難,接著疼痛的小硬結(indurated papule)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒感染可能造成 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
@@ -62,7 +65,6 @@ tags:
 - (1) 較緊急情況:當病人出現意識狀態迅速變化、休克、身體出現紫斑(purpura) 或是 disseminated intravascular coagulation (DIC) 時必須特別提高警覺,因為這 類病人病程進展十分快速,常在 24 小時內死亡。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (B) 2. 9個月大的男嬰高燒 5 天,今天早上開始呈現嗜睡狀態,晚上因全身僵直陣攣性發作(Generalized tonic clonic seizure) 5 分鐘被送來急診。在加護病房做了脊髓穿刺檢查,腦脊髓液報告顯示WBC 10,000/μL (90% PMNs 和 10% Lymphocyte), Protein 380 mg/dL, Glucose 5 mg/dL。下列何者為最可能的致病原? - (A) 單純疱疹病毒第一型 (HSV type 1) - (B) 肺炎鏈球菌(Streptococcus pneumoniae) - (C) 腸病毒 (Enterovirus) - (D) 新型隱球菌 (Cryptococcus neoformans) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...ions, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Ente Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

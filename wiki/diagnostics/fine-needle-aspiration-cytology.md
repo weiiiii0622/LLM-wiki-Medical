@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch10]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Fine needle aspiration cytology, FNA (細針抽吸細胞學)'
   - 'Fine needle aspiration cytology, FNA'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-甲狀腺結節與其他表淺腫塊常用細胞學檢查，用於良惡性分流與手術決策。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺結節與其他表淺腫塊常用細胞學檢查，用於良惡性分流與手術決策。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,13 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch10]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- 註 1:惡性腹水包含腹膜 washing cytology 陽性反應 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (3) 分類系統:可分為 Bethesda system 和 Dysplasia system,對照如下表: - a. Bethesda system:包括 cytology 和 histology - (a) Cytology 為抹片細胞學檢查,結果包括 WNL (within normal limit)、ASC-US (atypical squamous cell of undetermined significance)、 - LSIL (low grade squamous intraepithelium lesion) > - HSIL (high grade squamous intraepit Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | Bethesda | Bethesda cytology system | | | | | | |----------|--------------------------|------------------------|----------|---------|-----|-----------| | WNL | ASC-US | LSIL | HSIL | | | Carcinoma | | Bethesda | histology system ( | CIN) and Dyspla Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - d. 確診:clinical + X-ray + cytology。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...chemotherapy | | | (5 yr survival rate: 70~90% in low grade; 30% in high grade) | | 久站會有疼痛感 | 診斷上要配合 clinical + x-ray + cytology | | | undifferentiated chondrosarcoma, | | | mesenchymal chondrosarcoma 惡性度極高。 | | 細胞形態有較大變化時,需 DDx: | Lymphoma, metastatic disease, myeloma | | chondrosarcoma | | | Eccentric, lytic lesion, scallaoped and sclerotic | 多 Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - (1) 嗜酸細胞瘤 (oncocytoma): - a. 病理:棕色病灶,由大量嗜酸性顆粒上皮細胞構成。細胞表現變化大,從良性到惡性侵犯淋巴系統都有。診斷靠病理診斷,取得檢體的方式是腎切除,細針抽吸較難診斷。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -60,8 +65,6 @@ tags:
 - 3. 檢查: 乳管造影術 (galactography)、乳房超音波、分泌物的細胞學檢查 (cytology)。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - 4. 內視鏡逆行性膽胰管攝影(Endoscopic Retrograde Cholangiopancreatography, ERCP): 除了做膽道癌的影像學診斷之外,也可進行治療如膽管支架的置放,或是進行細胞 學診斷(brush cytology)。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - (1) Thyroid ultrasonography: - a. 分辨是 solid 或是 cystic lesion。 - b. 惡性的可能性: hypoechoic、lesion 周圍有不完整的光圈 (incomplete peripheral halo)、邊緣不規則、有許多小鈣化點、大於 3 公分的 cyst。 - c. 可協助 FNA。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- a. Cold: cancer risk 15~20%,需進一步作 FNA 細胞學檢查。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 4. 檢查: - (1) FNA:甲狀腺結節首選檢查方法,具診斷性且安全又便宜。 - (2) 超音波:難以分別結節為良性還是惡性,通常是用來補助 FNA 的操作。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 
 ## Clinical Caveats
 

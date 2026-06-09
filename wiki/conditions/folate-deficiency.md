@@ -18,6 +18,8 @@ sources:
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch13]]"
 aliases:
   - 'Folate deficiency (葉酸缺乏)'
   - 'Folate deficiency'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ tags:
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch13]]
 
 ## Key Details From Sources
 
+- (C) 葉酸 (folic acid) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | 個人特徵 | 高齡、多產、肥胖 | |---------|----------------------------| | 長期腹壓的增加 | 長期便秘、慢性咳嗽、長期從事勞動 | | 雌激素缺乏 | 停經、手術摘除卵巢 | | 潛在疾病 | 糖尿病、中風、憂鬱症、睡眠呼吸中止等 | | 藥物與手術 | Alcohol、α-blocker 等藥物;骨盆手術 | Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (2) 高碳酸血症(Hypercapnia):不適當的通氣(inadequate ventilation),如肺塌陷、或腦傷造成意識改變或外來毒物(drugs、alcohol)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - ...n,達到治療的效果,成功率約 85%。 - (c) Colonscopy:用來治療勝過診斷,適合較慢速的出血。可用 vasoconstrictive agents (epinephrine)、vasodestructive agents (alcohol、morrhuate、sodium tetradecyl sulfate)或是 thermal therapy (laser、electro、heater coagulation)達到止血效果。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
@@ -69,8 +75,6 @@ tags:
 - 【詳解】非酒精性脂肪肝疾病(nonalcoholic fatty liver disease,NAFLD)是肝臟疾病中的一種。在兒童,此疾病與**肥胖**有強烈的相關性;同時也是兒童慢性肝疾病(chronic liver disease)中最常見的疾病。NAFLD表現範圍很廣,從僅單純的 fatty liver Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - nonalcoholic steatohepatitis(NASH)(Triad: fatty infiltration, inflammation, and fibrosis)都有可能發生。屍體解剖統計 10%的兒童或是 38% 在 2~19歲的肥胖病人有 NAFLD。到目前為止,沒有一項生化檢查可以做診斷工具;即使 GOT 或是 GPT 正常,仍有 21~23% 兒童罹患 NAFLD。臨床上較可靠的影像工具為超音波。目前確切診斷的方式為肝臟切片。臨床上 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 4. Vit B deficiency 和 Folic acid deficiency 的比較: Source: [[sources/med4-book1-ch08|辛、血液學]].
-- | | Vit B deficiency | Folic acid deficiency | |----------------------|---------------------|-----------------------| | 原因 | (1) 惡性貧血 | (1) 懷孕期間葉酸補充 | | | (2) Crohn's disease | (2) 使用 MTX | | | | (3)慢性溶血 | | | | (4) 酒精 | | Megaloblastic anemia | 是 | 是 | | 神經學症狀 | 舌炎、震動覺跟姿勢覺下降 | 無 | Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (A) 胎兒酒精症候群 (fetal alcohol syndrome) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

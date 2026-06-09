@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Malignant pleural effusion (惡性肋膜積液)'
   - 'Malignant pleural effusion'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-惡性腫瘤侵犯或阻塞肋膜淋巴回流造成肋膜積液，處置需兼顧症狀緩解、肺復張能力與預後。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+惡性腫瘤侵犯或阻塞肋膜淋巴回流造成肋膜積液，處置需兼顧症狀緩解、肺復張能力與預後。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...1M0 | IIIB | | | IIIC | 大徑> 2 cm | 肉眼下 (macroscopic) 骨盆腔外的腹膜轉移,最大徑> 2 cm(包括肝臟和脾臟的外囊轉移,但無實質轉移) | | | IIIC | | IV | IVA | 惡性肋膜積水 | | | Any TNM1a | IVA | | (腹膜以外的 遠端轉移) | IVB | | | 「腹股溝和腹腔以外的、肚臍轉移和肝脾臟 | Any TNM1b | IVB | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (A) 多數惡性肋膜積液為 exudate Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (B) 轉移性乳癌及肺癌最常造成惡性肋膜積液 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (D) 3. 以下關於惡性肋膜積水的描述,何者錯誤? Source: [[sources/med5-book4-ch02|乙、肋膜]].

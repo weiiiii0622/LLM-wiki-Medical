@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch08]]"
@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Cardiomyopathy (心肌病變)'
   - 'Cardiomyopathy'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-心肌結構或功能異常的疾病群。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌結構或功能異常的疾病群。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...rceps)機率高 | | | | 新生兒 | · 三高二低:呼吸窘迫症候群、紅血球增多症 (polycythemia) 和高膽紅 | | | | | 素血症 (hyperbilirubinemia)、低血糖、低血鈣 | | | | | ・心肌病變、新生兒死亡 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (B) 窄縮性心包膜炎 (constrictive pericarditis) 與限制性心肌病 變(restrictive cardiomyopathy)的鑑別診斷往往需要藉由右 側心導管的壓力追蹤圖來區分 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (A) 7. 下列關於心臟瓣膜疾病,何者正確? ①暈厥(syncope)為重度 主動脈瓣狹窄之手術適應症之一 ②僧帽瓣修補術可用於擴張性 心肌症(dilated cardiomyopathy) 患者的手術治療 ③心臟移植 手術可用於心臟瓣膜疾病患的手術治療(④僧帽瓣修補的手術死 亡率比僧帽瓣置換術的手術死亡率高 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -76,7 +79,6 @@ tags:
 - (4) 先天性心臟病(右側心臟):肺動脈狹窄(pulmonary valvular stenosis)、心肌肥大病變(hypertrophic cardiomyopathy)。有些病人合併心房中膈缺損(ASD)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...性病人因再生不良性貧血而長期接受輸血治療,病人全 | 102(二)專 | | (-) | 身皮膚呈現鐵灰色,血中 ferritin 高於正常值 500 倍,下列何種併發 | 醫三-5 | | | 症與長期輸血無關? | | | | (A) 心肌病變(cardiomyopathy) | | | | (B) 肝硬化 (liver cirrhosis) | | | | (C) 糖尿病 (diabetes mellitus) | | | | (D) 白內障 (cataract) | | | (B) 1 | 9. 在有慢性溶血疾病的病人,下列何種病毒感染會導致暫時性的再生 | 102(二)專 | | (-, | 不良性貧血(transient aplastic crisis)? | 醫三 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (B) Cardiomyopathy Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (B) 阻塞性心肌病變(obstructive cardiomyopathy) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

@@ -13,6 +13,8 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Toxoplasmosis (弓漿蟲感染)'
   - 'Toxoplasmosis'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...--------|--------------------------------------------------| | 胎兒 | • 基因突變和染色體異常 | | 4444 | • 先天結構異常 | | | ・ 胎兒感染:如 CMV、toxoplasmosis 等 | | 胎盤 | · 胎盤結構或臍帶異常:如 circumvallate placenta、velamentous | | | umbilical cord insertion 等 | | | · 胎盤染色體異常,一般稱 confined placental mosaicism | | 母親 | • 罹患影響胎盤血流的疾病:如子癲前症、高血壓、糖尿病、 | | \$ 25 c. 41 | 自體免疫疾病 (SLE, APS) 等 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...s)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - (2) 職業因素: - a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , kerosene, acetylene $\circ$ - (3) 腫 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].

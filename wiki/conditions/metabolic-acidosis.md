@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
@@ -18,6 +18,8 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch17]]"
 aliases:
   - 'Metabolic acidosis (代謝性酸中毒)'
   - 'Metabolic acidosis'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,14 @@ HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因�
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch17]]
 
 ## Key Details From Sources
 
+- (B) 容易產生高血鉀與代謝性酸中毒 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】(B) 神經性厭食症(anorexia nervosa)患者若不當催吐或過量使用利尿劑(如:thiazide 和 loop diuretics 等)會造成代謝性鹼中毒,而過量使用軟便劑(laxatives)則會造成代謝性酸中毒;這些情形都會使鉀離子流失,造成低血鉀。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | • 心輸出量減少 | • 尿量減少 | | |------------------------------------------------|--------|--| | ・肺 compliance 下降和 end tidal CO 2 上升 | | | | ・血液 pH 降低 (代謝性酸中毒) | ・腹壓上升 | | Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
 - 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (1) 血液中 Ca ↑、PTH ↑、ALP ↑、P ↓、Cl ↑ (PTH 促 HCO₃ 排出導致 hyperchloremic metabolic acidosis)、Cl: P > 33:1。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - 1. 致命三角(Lethal Triad)包含 hypothermia、coagulopathy、metabolic acidosis,常見於嚴重外傷患者,這三者之間關係密切,任一個症狀都能誘發另一個症狀產生,造成死亡率上升。因此出現致命三角其中一個症狀出現時,需積極介入,手術探查找出血點給予止血,輸液/電解質矯正,體溫加熱等。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
@@ -68,9 +75,6 @@ HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因�
 - (3) 因為氫離子分泌作用出問題,即使本身有嚴重的代謝性酸中毒也無法將尿液酸化,故尿液 pH 值常 > 5.5。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 臨床表現:與第二型腎小管酸中毒相同有生長遲滯、正常陰離子間隙代謝性酸中毒。 此外,病人也會表現嘔吐、脫水、骨頭疾病、腎臟鈣化合併高尿鈣與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...irilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發現。男嬰反而以 cortisol 或 aldo Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 【詳解】21- 羥酶缺乏所致之先天性腎上腺增生(congenital adrenal hyperplasia)中 salt losing form 會有低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 2. 診斷出代謝性鹼中毒要想想看是不是病人體液不足?是不是過度利尿劑使用?是不是有低血鉀或 hyperaldosteronism ?診斷出代謝性酸中毒後,是否有進一步算陰離子間隙,再分別找出其原因進行治療。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- 4. $HCO_3$ : 呼吸性鹼中毒( $PaCO_2$ 太低)可直接與呼吸太快聯想在一起,呼吸性酸中毒( $PaCO_2$ 太高)可直接與呼吸太慢聯想在一起,呼吸鹼、呼吸酸不可能並存;但是代謝的問題就複雜多了,「高陰離子間隙代謝酸(high anion gap metabolic acidosis)」、「正常陰離子間隙代謝酸(normal anion gap metabolic acidosis)」、「代謝鹼」這3種狀況便可能並存,一個動脈血最多可以有4種異常。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

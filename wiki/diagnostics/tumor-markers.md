@@ -27,6 +27,10 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Tumor markers (腫瘤標記)'
   - 'Tumor markers'
@@ -41,7 +45,7 @@ tags:
 
 ## Summary
 
-腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +72,23 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch09]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | 懷疑上皮細胞腫瘤 | ・CA125、CA 199 和 CEA | |----------|----------------------------------------------| | 懷疑生殖細胞腫瘤 | ・AFP、β-HCG 和 LDH | | 懷疑性索間質腫瘤 | • Inhibin、E2 (Estradiol)、testosterone 和 DHEA | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | ・年紀輕 | • 體能狀態良好 | · 達到 optimal debulking | |------------------|----------------------|------------------------| | ・ 術後 CA-125 快速下降 | ・ 病灶 PR (+)、HER2 (-) | ・BRCA 基因突變 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (A) 6. 朱女士 60 歲,食慾不振有1個月之久,曾到腸胃科求治,因超 107(二)專 音波檢查發現大量腹水,血中 CA-125 高達 1,020 U/mL,於是轉 至婦科。陰道超音波檢查發現除腹水外,子宮及卵巢屬正常 範圍,經一系列檢查,初步診斷為腹膜癌 (peritoneal serous papillary carcinoma)。下列敘述何者錯誤? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (C) 9. 婦科腫瘤會與有些血清、生化或免疫染色的腫瘤標記(tumor markers)有所關聯,下列敘述何者正確? Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- (C) adenocarcinoma 可以 CA-125 為血清標記 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- c. 第二孕期(15~18 週):四指標母血唐氏症篩檢包括 AFP(alpha-feto protein)、 β-HCG,uE3 和 inhibin A;準確率 83%。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | | AFP | β -нсс | uE3 | inhibin A | |---------------|-----|---------------|-----------|-----------| | Down syndrome | ↓ I | 1 | 1 | 1 | | NTD | 1 | No change | No change | No change | | Trisomy 18 | 1 | Ţ | 1 | \ | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | 項目 | 內 容 | | | | |--------------------|--------------------|--|--|--| | 胎兒細胞染色體核型分析 | • 診斷先天胎兒染色體異常,如唐氏症 | | | | | 胎兒細胞基因分析 | • 診斷先天單基因遺傳疾病,如地中海 | | | | | N. 1947 | 貧血、血友病 | | | | | 胎兒細胞酵素分析 | • 診斷先天代謝異常疾病 | | | | | 羊水中胎兒蛋白 (AFP) 濃度測定 | • 診斷先天開放性神經管缺損和胎兒腹 | | | | | \ | 壁缺損等先天異常 | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...ory and the state | · 若有子宮內膜異位瘤,可發現子宮附屬器 (adnexa) 質塊或壓痛 | | | | | 實驗室 | • 目前沒有明確和子宮內膜異位症相關的指標 | | | | | | · 有些子宮內膜異位症患者 CA-125 會升高,不過,CA-125 並不能作為 | | | | | | 診斷子宮內膜異位症之依據 | | | | | 影像 | • 第一線檢查為骨盆超音波,主要用於子宮肌腺症和子宮內膜異位瘤, | | | | | | 其他內膜異位病灶較難單由超音波確認 | | | | | | • 若懷疑為深部浸潤型子宮內膜異位症或其他少見部位的內膜異位症, | | | | | | 為確定其侵犯範圍,可安排核磁共振檢查 | | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (B) 比較經期中與非經期的血中 CA-125 濃度 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (d) S = serum tumor markers (血清腫瘤標記): - i. S0:標記都在正常範圍內。 - ii. S1:LDH 10 倍正常值;或 hCG > 50,000 mIU/mL;或 AFP > 10,000 ng/mL。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (a) 初始治療:一律先睪丸切除(orchiectomy),之後依 stage 與術後腫瘤標記 決定治療方向。 - i. 精原細胞瘤 (seminoma): - (i) 低分期(stage I + 術後 AFP 測不到):可選擇觀察、化療、放射治療。 - (ii) 中分期(stage II+術後 AFP 測不到):可選擇化療、放射治療。 - (iii)高分期(stage III 或術後 AFP 升高): 進行化療。 - ii. 非精原細胞瘤 (non-seminoma): - (i) 低分期(stage I + 術後 AFP、H Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (c) 復發治療後仍有腹腔殘餘腫塊:不管精原細胞瘤與非精原細胞瘤,看腫瘤標記狀況。 - i. 腫瘤標記正常:手術切除。 - ii. 腫瘤標記升高:可選擇觀察或手術切除。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
@@ -79,16 +97,6 @@ tags:
 - (1) 確診方式:經直腸超音波切片(TRUS biopsy)。 - a. 切片時機: - (a) PSA > 4、或經直腸超音波檢查異常、或摸到硬塊。(這三種任一種都可以進一步建議切片) - (b) 若有疑慮,可用 PSA 衍生出來的方法判斷是否切片: - i. free/total PSA:用於 PSA 4~10,加抽自由形態 PSA。比值越小(自由形態 PSA 越少)癌症率越高: 0.1癌症率 50%、> 0.25癌症率 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (C) 6. 癌症常有特殊的腫瘤指標(tumor marker),有關配對敘述,下 101(二)專 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 列何者錯誤? 醫五-2 - (A) 肝癌 (hepatocellular carcinoma) —胎兒蛋白 (alpha-fetoprotein, AFP) - (B) 大腸癌— CEA (carcinoembryonic antigen) - (C) 小細胞肺癌— CA19-9 - (D) 前列腺癌— PSA (prostate specific antigen) Source: [[sources/med5-book4-ch03|丙、肺]].
-- Table 20-2 Testicular Tumors and Theit Associated Serum Tumor Markers Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- | | AFP | β-hCG | LDH | |---------------------|-----|-------|-----| | Seminoma | 0 | + | ++ | | Yolk sac tumor | +++ | + | + | | Choriocarcinoma | 0 | +++ | + | | Embryonal carcinoma | + | + | ++ | | Teratoma | 0 | 0 | 0 | Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- ...- (A) 縱膈腔生殖細胞性瘤(germ cell tumor)最常發生在 65 歲以 上病人 - (B) 有三分之一的病人是精母細胞瘤 (seminoma) - (C) 精母細胞瘤(seminoma)在抽血檢驗中,常會有較高的胎兒 蛋白(AFP)及人類絨毛膜激素(hCG) - (D) 經皮穿刺抽吸檢驗(FNA)是不須血液檢驗結果,最安全、 最快速及最正確得到診斷的方式 - 【詳解】(B) 生殖細胞瘤 20% 為惡性,精母細胞瘤佔惡性中50%,僅 5%為縱隔腔生殖細胞瘤,僅佔 3-10%縱隔腔腫瘤。故相較其他答案較貼近正確敘述。 - \*Townsend CM, Beauchamp RD, Evers BM, et al: *Sabiston textbook of surge Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- ...個月大。 - (4) 臨床表現:通常沒有症狀的腫塊來表現,或伴隨貧血表現。 - (5) 檢查 & 診斷: - a. 血液檢查 hemogram: (i) 血紅素 (Hgb):下降, (ii) 血小板 (PLT):增多。 - b. 腫瘤指標(tumor marker): 85~90% 可發現胎兒蛋白(AFP)升高。 - (6) 治療:以手術切除合併化療為主要治療,化療可使腫瘤分期降級有助於手術清除,而手術切除乾淨與否決定存活率。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- ...ascular steal syndrome),導致高輸出性(high-output)心衰竭,造成胎兒消亡。 - (3) 檢查 & 診斷: - a. 根據臨床發現即可診斷,尤其是外生性骶尾骨畸胎瘤(exophtic SCTs)。 - b. AFP、β-hCG level:若升高,表示可能隱藏著卵黃囊腫瘤(yolk sac tumor) 或絨毛膜癌(choriocarcinoma)之腫瘤組成。 - c. 超音波、電腦斷層、核磁共振:可用來檢測腹腔內病灶,或是確認是否腫瘤 延伸至骨盆腔及腹腔內。 - d. 可以分成 4 個 type,第一型和第二型的惡性機率較低,預後較好,第三型和 第四型惡性的機率就比較高了。惡性的機率也和年齡有關,小於兩個月的惡 性機率較低,大於兩個月以上的惡性 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- (5) 預後:診斷時的年紀是最重要的因素。 - a. 胎兒 2 個月:預後最差。 - b. 惡性轉變:根據胚胎組織特性決定,約有15~20%的癌變機率。 - c. 局部復發: 4~11%, 若未完整切除尾骨, 則高達 37%。 - d. 追蹤:每3個月監測 AFP level,因為新生兒本來 AFP 就會比較高,通常 AFP 會在出生9個月後回到正常值,另外建議每3個月做 rectal examination,持續3歲,(因為目前文獻上最久的復發是33個月),持續3~4年。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- 1. 前言:當影像學偵測到乳房腫塊後,可做進一步的影像檢查與病理切片以利癌症分期。 - (1) 血液一般檢查、血液生化檢查。 - (2) 胸部 X 光、肝臟超音波。 - (3) 腹部、胸部骨盆腔電腦斷層與骨骼掃描:若高度懷疑遠處轉移,可以作進一步檢查。 - (4) 腫瘤標記,如:CA 15-3,CEA 等,通常作為**乳癌術後的追蹤指標**。意即當術後追蹤,CA15-3或 CEA 上升,必須積極檢查是否有局部復發或遠處轉移。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 2. Tumor markers: - (1) CA19-9 可以用來作為胰臟癌病人治療過後的追蹤。 - (2) Carcinoembryonic antigen (CEA): 是在腸胃道癌症常見的 tumor maker, 在胰臟癌的病人約有 40% 到 50% 的病人可見升高的狀況。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- ...癢、皮 107(一)專 膚逐漸變黃,因此到院檢查。身體診察發現鞏膜變黃,下肢無水 醫五-32 腫,其CT影像上可見胰臟頭部有4公分左右腫瘤合併總膽管及 胰管擴大,針對此病患安排下列處置何者最不適當? (A) 安排血管攝影栓塞 (B) 測定 CEA, CA19-9 (C) 進行 ERCP (endoscopic retrograde cholangiopancreatography) 或 EUS (endoscopic ultrasonography) 合併切片 (D) 進行核磁共振膽胰攝影 (MRCP) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- CEA 和 CA19-9 為 tumor marker 檢驗。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 
 ## Clinical Caveats
 
@@ -97,6 +105,7 @@ tags:
 
 ## Related Pages
 
+- [[diagnostics/ca-125|CA-125 (癌抗原 125)]]
 - [[conditions/gastrointestinal-carcinoid-tumor|Gastrointestinal carcinoid tumor (胃腸道類癌)]]
 - [[conditions/mediastinal-germ-cell-tumor|Mediastinal germ cell tumor (縱隔腔生殖細胞瘤)]]
 - [[conditions/neuroblastoma|Neuroblastoma (神經母細胞瘤)]]

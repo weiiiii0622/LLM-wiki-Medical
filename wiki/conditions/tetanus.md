@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch05]]"
 aliases:
   - 'Tetanus (破傷風)'
   - 'Tetanus'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-破傷風毒素阻斷抑制性神經傳導，造成肌肉痙攣。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+破傷風毒素阻斷抑制性神經傳導，造成肌肉痙攣。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch05]]
 
 ## Key Details From Sources
 
+- (A) 子宮持續收縮(tetanus contraction) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】前置胎盤導致陰道大量出血一般是由於子宮規則收縮造成子宮頸變化所致;另一方面,前置胎盤造成大量出血,血塊堆積於子宮內,亦會刺激子宮造成子宮規則收縮,故選(B)。子宮持續收縮(tetanus contraction)一般是在子宮過度刺激(如oxytocin 過量時)才會出現。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】孕婦接種非活化病毒疫苗(如流行性感冒、狂犬病)、 類毒素(如白喉-百日咳-破傷風)和免疫球蛋白(如狂犬病) 是安全的。但不可接種活性疫苗(如麻疹-腮腺炎-德國麻疹、 水痘),可能會造成胎兒先天性感染;此外,接種活性疫苗後一 個月內應該避免懷孕,其中接種水痘疫苗,則建議三個月內要 避孕。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - (C) 8. 一年輕人遭手槍擊傷大腿,造成右股骨骨折,沒有神經血管損 97(二)專 傷,經破傷風預防注射,傷口經大量沖洗及充分擴創術後,下 醫五-60 一步該怎樣做? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (3) Clostridium tetani (破傷風桿菌): - a. 引起破傷風(Tetanus),臨床症狀有牙關緊閉、肌肉僵直、抽搐。 - b. 治療:肌肉注射破傷風免疫球蛋白;口服或靜脈注射 metronidazole 是首選抗 生素治療,其次可選用靜脈注射 penicillin。抗生素需持續治療 10~14 天。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...山井 24 小哇西伊浦拉廷 | 1. B 型肝炎免疫球蛋白一劑 | | | 出生 24 小時內儘速接種 | 2. B 型肝炎遺傳工程疫苗第一劑 | | | 出生滿1個月 | B型肝炎遺傳工程疫苗第二劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿2個月 | 嗜血桿菌及不活化小兒麻痺混合疫苗)第一劑 | | | | 2.13 價結合型肺炎鏈球菌疫苗第一劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿4個月 | 嗜血桿菌及不活化小兒麻痺混合疫苗)第二劑 | | | | 2.13 價結合型肺炎鏈球菌疫苗第二劑 | | | 出生滿 5 個月 | 卡介苗一劑 | | | | 1. B 型肝炎遺傳工程疫苗第三劑 Source: [[sources/med4-book1-ch04|丁、感染科學]].

@@ -34,6 +34,11 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Blood transfusion (輸血)'
   - 'Blood transfusion'
@@ -48,7 +53,7 @@ tags:
 
 ## Summary
 
-依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +87,24 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- (A) 雙胞胎輸血症候群 (twin-twin transfusion syndrome) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】雙胞胎間輸血症候群(Twin-twin transfusion syndrome, TTTS)一般發生於單絨毛膜雙胞胎,診斷標準為超音波發現一個胎兒(捐贈者)為羊水稀少(最大垂直徑8 cm)。在生產時,捐贈者可能會出現急性貧血和低血容;而受贈者可能發生急性紅血球增多症,但不常見。超音波除可觀察兩者表徵的差異外,亦可用來作臨床分期。故選(D)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (D) 9. 美莉產檢時超音波發現,此雙胞胎有兩個羊膜腔,但共用一個胎盤,會有發生雙胞胎間輸血症候群(twin-to-twin transfusion syndrome)的風險,關於雙胞胎間輸血症候群(TTTS),下列敘述何者錯誤? Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】病人症狀持續惡化且生命徵象已不穩定,很可能是子宮外孕破裂出血,造成 hypovolemic shock。此時除了靜脈輸液輸血外,應盡快透過腹部超音波確認是否有內出血,一旦確認,必須安排緊急手術處理。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (1) 生命徵象不穩定:若到院已休克,須先穩定病人生命徵象,育齡婦女皆須驗孕, 同時利用床邊超音波檢查是否有內出血,並且抽血檢驗血紅素及備血,若發現 有內出血情形,須緊急輸血並會診外科或婦產科手術處置。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (D) 2. 一位 25 歲女性,今早開始下腹疼痛逐漸加劇,並有陰道出血的情形,來急診就診時,生命徵象如下:血壓 80/40 mmHg,脈搏130次/分鐘,呼吸22次/分鐘,體溫36.5℃。過去並無特殊病史,最後一次正常月經約7週以前,下列處置何者較不適當? - (A) 安排懷孕檢測 - (B) 病人可以清楚表達不適,依照急救處理原則,給予 $O_2$ 、 IV、Monitor - (C) 可能是低血容性休克,給予大量輸液,並考慮予以輸血 - (D) 心電圖監視器顯示竇性頻脈(sinus tachycardia),病人血壓低有休克現象,可考慮給予100焦耳的同步電擊 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (1) 按摩子宮、建立大口徑的靜脈管路,輸液、輸血、給氧氣以穩定生命徵象。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- 【詳解】根據研究統計,緊急剖腹產併子宮全切除產生併發症機率高達 26.5~31.5%,常見的併發症包括輸血(46%)、發燒(11%)、傷口問題(10%)、膀胱損傷(9%)、再次手術(4%)、靜脈血管栓塞(1%)和腸損傷(, Wright et al. Obstet Gynecol. 2010. Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- ...in-releasing intrauterine devices (IUDs) | | | (3) GnRH analogs: antagonists and agonists | | | Antifibrinolytic agent/ Blood transfusion | | | Nonsteroidal antiinflammatory drugs (NSAIDs) | | 放射方式治療 | Uterine artery embolization | | | • High intensity focused ultrasound (HIFU) or Magnetic Resonance- | | | guided Focused Ultrasound (MRgFUS) | | 手術治療 | · 主 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (D) 12. 35 歲女性,因為月經 1 年沒來前來求診,1 年半前自然產下第三 胎,產後未哺餵母乳,至今也仍無月經來潮。淮一步問診後,得 知生產時因大量出血合併休克曾接受緊急輸血。下列何項檢驗 項目最無法幫助確診? Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (A) 繼續輸血 (transfusion) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (a) 腎移植術後的基礎用法: - i. 引導(induction agent):術前,使用化學免疫藥物或抗體。何種受腎者需要建議用抗體引導?曾經有過①懷孕,②輸血,③移植。 - ii. 維持(maintenance therapy):術後,使用小分子化學免疫藥物。最常用的初始用藥組合是 tacrolimus—MMF-steroids。 - iii. 類固醇減量(steroid elimination):手術完後,一週內逐漸減量。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -93,16 +113,6 @@ tags:
 - (D) 1. 一名 3 歲 15 公斤的男童從 6 層樓跌落送來急診,生命徵象為心 107 (二) 專 跳 160 下 / 分、血壓 70/30 mmHg、呼吸 30 下 / 分,適當的急救 醫五 -47 輸液給法為何? - (A) 血漿替代液(Gelofusine) 一次 300 毫升快速滴注, 給與一次後若沒有反應即輸血 - (B) 新鮮冷凍血漿 (fresh frozen plasma) 一次 300 毫升快速滴注, 給與一次後若沒有反應即輸紅血球濃厚液 (packed RBC) - (C) 林格氏液(Ringer's solution)一次 150 毫升快速滴注,給與兩次後若沒有反應即輸血 - (D) 生理食鹽水(normal saline) 一次 300 毫升快速滴注,給與兩次後若沒有反應即輸血 Source: [[sources/med5-book4-ch08|甲、概 論]].
 - 【 詳解 】 需快速輸注量為 $15~kg \times 20~mL/kg = 300~mL$ ,常見 crystalloid fluid 為 normal saline 或 lactate ringers。(A) Gelofusion 不建議使用。(B) 輸血為最後選項。(C) 輸液量不足。(D) 為正確 答案。 Source: [[sources/med5-book4-ch08|甲、概 論]].
 - 【詳解】不論是氣胸或血胸均應先放置胸管,以免立即的心肺 循環失能,而若懷疑血胸則另需同時考慮輸液和輸血。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- (2) 開胸術:少數持續出血患者需接受手術,通常是肋間動靜脈(intercostal vessels)、內乳動靜脈(internal mammary vessels)、主要肺動靜脈(major pulmonary vessels)或心臟等損傷出血,常需要自體輸血。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 7. 保守治療:置放鼻胃使腸道減壓、靜脈輸液補充 使腸道休息、輸血補充血液和血小板、使用廣效 型抗生素,持續 7~10 天,約 50% 可以改善。內 科治療後病情仍惡化或未如預期改善才手術治療。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (C) 肝臟手術易出血,要預先準備 packed RBC Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 【詳解】此電腦斷層可見 liver laceration。在小朋友的 liver laceration 當中,絕大部分的病人是不需要輸血的,除非病人的 Hb 非常低,或是 vital sign 出現問題的時候才會考慮輸血。若 vital sign stable 時,可嘗試保守性療法治療病人,若出現 shock、大量輸血時,才考慮進行 laparotomy 剖腹探查術。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (C) 為了避免出血,應大量給予 FFP (fresh frozen plasma) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 4. 治療:通常 70% 的病人會自動止血,若仍在活動性出血的病人必須以內視鏡去作止血。手術介入時機在於病人在 24 小時內輸血超過 6U 後仍呈現 hemodynamic instability 時,就可以考慮以手術方式介入。手術介入可以分成十二指腸潰瘍出血與胃潰瘍出血兩部分作處理。 - (1) 十二指腸潰瘍出血(Bleeding duodenal ulcers): - a. 主要的手術治療為十二指腸切開術(duodenostomy)加上 three-point ligation。將十二指腸切開後,將會看到三條血管,把三條血管 ligation 起來 就可以達 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- 【詳解】現今 Endoscopy 的進步,大部分的腸胃道出血都能以 內視鏡來止血。約 10% 的病人仍須靠外科的方式來治療。外科 醫師的觀點以是否需要持續輸血作為手術的 indication。除此之 外,Sabiston 提出的 surgery indication 如下: Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (B) 18. 開心手術後的病人,在加護病房照顧時,發現心包腔引流管出血 100(-)專量相當多,第 1 個小時約 300 毫升(病人體重 60 公斤),第 2 個小時約 400 毫升,醫護人員會依流出之量給予靜脈輸血及血小板或新鮮血漿。會造成這麼厲害出血的原因,下列何者最不可能? (A) 體外循環會破壞血小板 (B) 體外循環會造成溶血 (C) 體外循環時,殘餘之肝素 - (D) 可能有出血點沒有查到 【詳解】體外循環的確會造成溶血,但鮮少有如此嚴重的持續 出血狀況,溶血反而會直接造成腎臟功能傷害。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (A) 立刻輸入 O 型 Rh 陰性之紅血球濃縮原液(packed RBC) Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (C) 24. 開心手術時,當體外循環的支持停止後,血液中的肝素(heparin),必須使用下列何種方式處理,使其活化凝血時間(activated clotting time)回復正常? - (A) 血小板靜脈注射 - (B) 新鮮血漿靜脈注射 - (C) 魚精蛋白 (protamine sulfate) 靜脈注射 - (D) 冷沈澱物 (cryoprecipitate) 靜脈注射 Source: [[sources/med5-book2-ch08|辛、其 他]].
 
 ## Clinical Caveats
 

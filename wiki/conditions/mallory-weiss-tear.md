@@ -21,6 +21,8 @@ sources:
   - "[[sources/med5-book6-ch05]]"
   - "[[sources/med5-book6-ch01]]"
   - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch03]]"
 aliases:
   - 'Mallory-Weiss tear (Mallory-Weiss 裂傷)'
   - 'Mallory-Weiss tear'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-劇烈嘔吐後食道胃交界黏膜裂傷可造成上消化道出血。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+劇烈嘔吐後食道胃交界黏膜裂傷可造成上消化道出血。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,17 @@ tags:
 - [[sources/med5-book6-ch05]]
 - [[sources/med5-book6-ch01]]
 - [[sources/med5-book6-ch06]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch03]]
 
 ## Key Details From Sources
 
+- 5. 陰道生產撕裂傷的評估與處置: - (1) 分級: Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- | 級別 | 撕裂位置 | |------------|------------| | 1st degree | 會陰 / 陰道黏膜 | | 2nd degree | 會陰 / 陰道肌肉層 | | 3rd degree | 肛門外括約肌 | | 4th degree | 直腸黏膜 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- (2) 3rd 和 4th degree 撕裂傷,需將肛門括約肌對齊縫合,之後可給預防性抗生素、 軟便劑和施以冰敷,並且必須避免灌腸。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- ...|-----| | Tone | • 子宮收縮不良 | 多胞胎妊娠、巨嬰、羊水過多、高產 | 70% | | | | 次、分娩時間過長、絨毛羊膜炎和安 | | | | | 胎藥物 | | | Trauma | ・ 會陰 / 陰道 / 子宮頸撕裂傷 | 巨嬰 | 20% | | Tissue | · 胎盤滯留或植入性胎盤 | 剖腹產史、D&C、子宮鏡手術、年 | 10% | | | | 紀大、產次高 | | | Thrombin | ・母親凝血功能異常 | 先天性:von Willebrand disease | 1% | | | | 後天性:severe preeclampsia、 | | | | | HELLP syndrome \placenta abruptio \ | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- (3) 檢視生殖道,若有明顯撕裂傷,予以修補。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- (D) 生殖道撕裂傷 (injury to birth canal) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - 2. 不開心三合一(unhappy triad or terrible triad):表示下列三個構造的撕裂傷。 - (1) 內半月板撕裂 (medial meniscus tear)。 - (2) 前十字韌帶撕裂 (anterior cruciate ligament tear)。 - (3) 內側副韌帶撕裂 (medial collateral ligament tear)。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
 - 3. 通常會合併有內側副韌帶撕裂,但約 50% 會合併外側半月板的破損,其中女性比 男性高(4.5:1)。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
 - ...ioclavicular (AC) ligamentsprain 但 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament 卻完整 | | | Type II | AC ligament 撕裂,AC 關節半脫位,且 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament sprain | | | Type III | AC and CC ligaments 撕裂,整個關節完全脫位 | 可保守治療或手術, | | | | 原則上還是休息、冰 | | | | 敷、止痛、吊 slint 二 | | | | 到三週 | | Type IV | 整個關節完全脫位外加遠端鎖骨錯位到 tr Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
@@ -71,12 +81,6 @@ tags:
 - K. 馬魏氏症候群 (Mallory-Weiss syndrome) 102 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### K. 馬魏氏症候群 (Mallory-Weiss syndrome) Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 1. 機轉 & 成因:持續性乾嘔造成黏膜及黏膜下層撕裂傷,發生於近胃食道連合處。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- f. 胸管治療併發症(complication):很少發生,包括肋間血管撕裂傷、肺撕裂傷、肺内置放、胸腔外置放或感染。極少發生,肺再擴張水腫(re-expansion pulmonary edema),續發於突然增加的肺微血管通透性,機轉未明,好發於快速肺再擴張。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- 2. 機轉 & 成因: - (1) 在聲門關閉的情況下,氣道受到直接壓迫。 - (2) 快速減速運動,導致氣管撕裂或右主支氣管從氣管的分叉處剝離。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- (A) 6. 下列有關 Mallory-Weiss tears 之敘述,何者錯誤? Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- 【詳解】罹患馬魏氏症候群(Mallory-Weiss syndrome)的病患 在出血前,會出現持續性的嘔吐,導致腹內壓上升,導致胃和 食道交接處的粘膜產生撕裂傷,造成上消化道出血。80%的病 人會自動的止血,可經由上消化道內視鏡進行診斷或採取止血 治療。少部分較嚴重的患者須接受血管栓塞或手術處置。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- 主動脈血管壁有內膜(tunica intima)、中膜(tunica media)和外膜(tunica adventitia)三層,當內膜因主動脈高壓血流衝擊而破裂時,會導致血液流入血管壁,進一步將內膜和中膜撕裂開來,形成假腔(false lumen)。自內膜破口灌注入假腔的血流使其逐漸膨脹甚至會壓迫到真腔(true lumen),降低通過的血流量(flow volume)進而影響到全身各器官血液供應,造成器官灌流不足(organ malperfusion),又由於假腔的血管外壁脆弱,容易破裂引起大出血、出血性休克甚至死亡。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- 2. 結構上的分類是根據主動脈被侵犯之範圍,而非以內膜撕裂處所在之地點決定,目前常用的分類法有 Stanford 及 DeBakey 兩種。(見下圖) - (1) Stanford:以 dissection 的範圍有無牽涉到 ascending aorta 為分型。 - a. Type A:有牽涉到 ascending aorta,約佔 2/3的 case。 - b. Type B: 無牽涉到 ascending aorta,約佔 1/3 的 case。 - (2) Debakey: - a. Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 
 ## Clinical Caveats
 

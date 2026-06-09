@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'AIDS (後天免疫缺乏症候群)'
   - 'AIDS'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,12 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- 8. 人類後天免疫不全病毒(HIV): - (1) 傳染方式:透過性交、使用感染針具、注射或移植受感染的血品或器官,以及母子垂直傳染; Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - Reference: Grulich AE, van Leeuwen MT, Falster MO, Vajdic CM. Incidence of cancers in people with HIV/AIDS compared with immunosuppressed transplant recipients: A meta-analysis. *Lancet* 2007; 370(9581): 59-67. Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成肝膿瘍。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
@@ -75,8 +79,6 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 - \*註:由於台灣為肺結核流行區域,因此在台灣單純肺結核並非 AIDS-defined illness,須合併 CD4 99% sensitivity, 感染 1~12 週後才會陽性);只有 ELISA 陽性時,不建議在 Western blot 結果出來前先行告知病患。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - 2. HAART (Highly Active Anti-Retroviral Therapy)治療可減少血中病毒量、增加 CD4 數量、避免疾病進展至 AIDS,增加 survival rate。只要診斷出 HIV infection 即應盡早用藥。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - | (C) | 6. 發生人類後天免疫缺乏病毒(HIV)母子傳染最主要時期為: (A) 第一及第二妊娠期 (B) 第三妊娠期 (C) 分娩 (D) 哺乳 | 104(二)專醫三-52 | |-----|------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...毒 | 15. 庫賈氏病 | | | | 13. 漢他病毒症候群 | 17. 淋病 | | | | | 14. 霍亂 | 19. 人類免疫缺乏病 | | | | | 18. 腸病毒感染併發 | 毒感染 | | | | | 重症 | 20. 後天免疫缺乏症 | | | | | 15. 德國麻疹 | 候群 | | | | | 16. 多重抗藥性結核 | | | | | | 17. 屈公病 | | | | | | 18. 西尼羅熱 | | | | | | 19. 流行性斑疹傷寒 | | | | | 白底需一天內通報 | TX | 淺灰色底一週內通幸 | 报 深灰色底一月內通幸 | 8 白底需一天內通報 | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...母為人類免疫缺乏病毒感染者。 | | | | (二)其生母臨產時為快速檢測法及抗體篩檢檢測陽性者。 | | | | (二)新生兒以快速檢測法及抗體篩檢檢測呈陽性者。 | | | | 二、流行病學條件:符合下列任一情形之新生兒。 | | | 後天免疫缺 | | 24 小時內 | | 泛元光授献乏症候群 | 感染、隱球菌症、食道念珠菌症等(詳如後天免疫缺乏症候群個案報告 | 21.1.011 | | | 單背面表列,AIDS 之診斷依據)。 | | | (AIDS) | | | | | 二、檢驗條件: | | | | 經醫師診斷為伺機性感染或 AIDS 有關的腫瘤,如:肺囊蟲肺炎、弓形 | | | | 蟲確認為 HIV 感染,且依不同年齡,其 CD4 值或比例為: | | | | ( Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

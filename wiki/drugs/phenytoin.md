@@ -2,11 +2,12 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Phenytoin (苯妥英)'
   - 'Phenytoin'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-Na channel blocker 類 antiseizure medication，可用於 focal seizure、GTCS 與 status epilepticus 後續控制。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Na channel blocker 類 antiseizure medication，可用於 focal seizure、GTCS 與 status epilepticus 後續控制。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch02]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch10]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】isotretinoin 在懷孕的風險等級為 X,懷孕時禁用,除增加流產率外,其代謝物會通過胎盤,造成胎兒異常(包括五官、腦部發育異常、低智商、心臟發育異常、胸腺及副甲狀腺異常等)。phenytoin 在懷孕的風險等級為 D,雖然也會造成胎兒異常,但必要時仍可使用。另外,fluconazole 為 C級;metformin 為 B級。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】(D) 頭部創傷後會連續七天給予預防性抗癲癇藥物 (phenytoin or levetiracetam),可有效預防創傷後七天內的癲癇 (early post-traumatic seizures) 發生率,但使用超過七天則對於 late post-traumatic seizures (創傷後超過七天才發生)無顯著效果。因此建議連續給予七天後即可停藥,但不會只使用 24 小時就停藥了。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - ...---------------------------------|---------------------------------------------------------| | 部分發作 | | Carbamazepine · Phenytoin · Valproic acid · Lamotrigine | | 入云似路床 | 全身性癲癇 (GTCS)=大發作 (Grand mal) | Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan) | Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...----------------------------|--------------------------|---------------------| | Na 離子通道阻斷劑 | Carbamazepine (Tegretol®),Phenytoin (Dilantin®) | | 部分發作癲癇首選 | | Ca 離子通道阻斷劑 | Ethosuximide | | 失神性(小發作) | | Na, Ca 離子通道阻斷劑 | Valproic acid (Depakine®) | | 以上兩個皆可 | | 加強 GABA | Barbiturate 類 | Phenobarbital (Luminal®) | 部分、全身性癲癇二線藥 | | //ling GABA (增強 GABA Source: [[sources/med4-book4-ch02|乙、癲癇]].

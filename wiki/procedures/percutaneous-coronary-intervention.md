@@ -30,6 +30,8 @@ sources:
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,13 @@ tags:
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- (C) 對於有症狀的孕婦,建議以氣球擴張術(balloon valvotomy)治療 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...:Sildenafil、 | | | | | Vit E 和 Low-dose aspirin 等。 | | | Physical barriers | ・IUD:放置 1~3 個月。 | | | | | ・ 術後放置兒童導尿管或子宮腔氣球支架 7~10 天。 | | | | | Auto-cross-link hyaluronic acid gel | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (C) 骨骼牽引四星期,爾後行關節活動支架,早期作關節活動 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - a. Non-displaced, no neurovascular injury 的骨折:long leg cast 至少 1 個月,然後 改用功能性支架(functional brace)或樹脂石膏(註:通常傳統石膏比較重, 固定效果也相對比較不好,所以在使用 2~4 週後,等局部消腫及傷口拆線後, 就會改用 functional brace 或樹脂石膏。) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...藥物以降低膀胱內壓 | | | | (C) 當測得漏尿壓力為 $20 \text{ cmH}_2\text{O}$ 時,可以進行尿道外括約肌切 | | | | 開術(sphincterotomy)以保護腎臟 | | | | (D) 置放尿道支架(urethral stent)以方便排空膀胱 | | | | 【詳解】(C) 會漏更嚴重。 | | | (#) | 7. 薦髓傷害(sacral spinal cord injury)常發生的尿動力檢查異常是: | 106 (二) 專 | | (") | (A) 逼尿肌過度反射(detrusor hyperreflexia) | 醫五 -68 | | | (B) 逼尿肌無反射(detrusor areflexia) | Eq. 22 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
@@ -93,8 +99,6 @@ tags:
 - 4. 內視鏡逆行性膽胰管攝影(Endoscopic Retrograde Cholangiopancreatography, ERCP): 除了做膽道癌的影像學診斷之外,也可進行治療如膽管支架的置放,或是進行細胞 學診斷(brush cytology)。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - E. CABG 和 PTCA (percutaneous transluminal coronary angioplasty,氣球擴張術)的比較 30 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (A) 5. 一位 65 歲男性病人因左前胸痛至急診室求診,下列敘述何者正確?①急性主動脈剝離為鑑別診斷之一 ②若診斷急性 B 型主動脈剝離,可考慮以主動脈內血管支架(endovascular aortic graft)治療 ③若診斷急性心肌梗塞,須考慮經皮冠狀動脈處置(percutaneous coronary intervention) ④若診斷急性心肌梗塞,須立即執行冠狀動脈繞道術 - (A) 123 - (B) (1)(3)(4) - (C) 僅2(4) - (D) 僅④ Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- 急性心肌梗塞(AMI)有 medication、PCI 或 CABG 等治療對策, 各有其適應症,不是每一個 AMI 患者都要做 emergent CABG。 Emergent CABG indication: (ACC/AHA guidelines) Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 
 ## Clinical Caveats
 

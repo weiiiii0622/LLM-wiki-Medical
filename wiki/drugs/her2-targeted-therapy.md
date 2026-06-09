@@ -2,13 +2,14 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch20]]"
   - "[[sources/med3-book4-ch16]]"
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book3-ch23]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'HER2-targeted therapy (HER2 標靶治療)'
   - 'HER2-targeted therapy'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-HER2 positive 乳癌等疾病的標靶治療，需注意 trastuzumab 心毒性。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HER2 positive 乳癌等疾病的標靶治療，需注意 trastuzumab 心毒性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ HER2 positive 乳癌等疾病的標靶治療，需注意 trastuzumab 心毒性�
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book3-ch23]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- | ・年紀輕 | • 體能狀態良好 | · 達到 optimal debulking | |------------------|----------------------|------------------------| | ・ 術後 CA-125 快速下降 | ・ 病灶 PR (+)、HER2 (-) | ・BRCA 基因突變 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 主要因子 | ・ 病理型態、組織學 grading、子宮肌層侵犯深度 | |------|------------------------------------------------------| | 次要因子 | ・ 年紀大、LVSI、腫瘤大於 2 cm 和子宮下段侵犯 | | 其他因子 | ・ 荷爾蒙受體 (ER/ PR)、DNA poidity (aneuploid)、oncogene 表現 | | | (HER2, K-ras 和 PTEN) 和 p53 mutation | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (2) 第二型人類上皮生長因子載體 (Her2/neu, ERB2): - a. Her2 是細胞上的一個生長因子載體 (epidermal growth receptor)。它負責接受 訊息而加速細胞的生長與分裂。當 Her2 receptor 大量表現時,會使癌細胞的 數量快速增加,也會加速 recurrence 的時間,因此視為一個較差的預後因子。 - (a) Her2/neu (score: 0、1+): 無過度表現, negative。 - (b) Her2/neu(sc Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (2) 標靶治療: 適用於 Her-2/Neu(+) 的患者。 - a. Herceptin:為一種單源抗體,其標靶蛋白為 HER-2/Neu 抗原。若乳癌患者 Her-2/Neu 為陽性,可被 Herceptin 抑制。 - b. 若 Herceptin 無效可使用另外一種新的口服標靶藥物為 Tykerb (lapatinib)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (B) 17. 38 歲停經前女性,其乳癌病理為浸潤性乳腺管道腺癌,腫瘤大小為 3.5 公分,女性賀爾蒙接受器(estrogen receptor)陰性,黃體酮接受器(progesterone receptor)陰性,第二型上皮成長因子接受器(HER2/NEU)為陰性,則其手術後該如何處理? Source: [[sources/med5-book3-ch24|丁、乳癌]].

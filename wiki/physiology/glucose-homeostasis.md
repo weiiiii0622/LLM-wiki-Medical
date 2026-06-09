@@ -31,6 +31,9 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book4-ch13]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Glucose homeostasis (血糖恆定)'
   - 'Glucose homeostasis'
@@ -45,7 +48,7 @@ tags:
 
 ## Summary
 
-胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素、升糖素、肝糖輸出、肌肉與脂肪組織共同維持血糖。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +79,16 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book4-ch13]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- 2. 成因:與懷孕中期之後,胎盤分泌的 human placental lactogen (HPL),造成 insulin resistance 有關。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (2) 適度運動:一週三次,每次 30 分鐘。適度運動有助於改善心血管循環,可增加 insulin 的敏感性,有助於降血糖; Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ※ IGFBP-1 (Insulin-like growth factor binding protein 1)和 PAMG-1 (Placenta alpha microglobulin 1 protein)皆為羊膜腔內特定的物質,鮮少可見於陰道內,藉由免疫方法偵測陰道液體,若呈現陽性,高度懷疑破水。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...內膜, | | | | 將增加子宮內膜增生及癌化的風險。 | | | 註 2: 黑色素棘皮症 | 指身體皺摺處(頸、腋下、乳房下和大腿等)的黑色素沉澱和 | | | (Acanthosis nigrican) | 皮膚增厚,是胰島素阻抗 (insulin resistance) 的特徵,與 PCOS | | | | 和高雄性素有關。 | | | 註 3: Rotterdam | 卵巢週邊可見 12 個以上 2~9 mm 的小濾泡 士 卵巢體積增加 | | | ultrasound criteria | ( > 10 mL) • | | | 註 4: 代謝性症候群 | 下列 5 項符合 3 項者,即可診斷代謝性症候群 | | | 診斷標準 | ・腰圍> 88 cm | | | | ・ 三 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 2. 合併異常:約30% 病童有染色體異常包含 Trisomies 13、18、21,超過50% 病童有合併其他異常,以心臟異常最常見、其次為肌肉骨骼異常、腸胃道異常和生殖泌尿道異常。也很常出現 Beckwith-Wiedemann syndrome,以臍膨出(omphalocele)、高胰島素血症(hyperinsulinemia)和巨舌(macroglossia)為主要表現。預後較差,因易有其他合併異常。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
 - 【詳解】Beckwith-Wiedemann syndrome 包含臍膨出(omphalocele)、高胰島素低血糖症(hyperinsulinemia with hypoglycemia)、巨舌(macroglossia)、巨內臟(visceromegaly)。常併發或關聯之疾病:臍膨出、威爾氏腫瘤(Wilms' tumor)、橫紋肌肉瘤(rhabdomyosarcoma)、肝母細胞瘤(hepato-blastoma)、神經母細胞瘤(neuroblastoma)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - b. 功能:抑制胃部排空、膽囊收縮,也會抑制激素的分泌如生長激素(growth hormone)、升糖素(glucagon)、胰島素(Insulin)、胃泌素(gastrin)、腸泌血管擴張激素(VIP)、胰高血糖素(GLP)、腸促胰泌素(secretin)等等。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
@@ -93,10 +103,6 @@ tags:
 - #### A. Insulinoma (胰島素瘤) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - (D) 6. 承上題,對於急性高鉀血症的處置,下列何者效果最慢? 109(一)專 (A) 靜脈注射 50 mL 的 D50W 和 10 units 的短效胰島素 (regular 醫五-50 insulin), 並嚴密監測血糖 (B) 靜脈注射 10 mL 的 10% 氯化鈣 (calcium chloride) 或是 10 mL 的 10% 葡萄糖酸鈣 (calcium gluconate) (C) 靜脈注射 50~100 mEq 的碳酸氫鈉 (sodium bicarbonate) (D) 給與腸胃道的 potassium-binding resins (C) 7. 下列何者為主動脈氣球幫浦(intra-aortic balloon Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 4. 葡萄糖代謝作用: - (1) 一克葡萄糖產生四大卡,受傷時血糖會持續升高,原因為: - a. 交感神經興奮腎上腺分泌,刺激肝醣分解以及胰臟分泌昇糖素(glucagon), 使得肝臟的肝醣分解(glycogenolysis)增加。 - b. 缺氧組織產生的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- a. Transcellular shift: 鹼中毒、insulin、beta agonist、週期性的低血鉀,使得鉀離子從細胞外往細胞內移動,造成血液中血鉀降低。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (A) insulin-resistant diabetes mellitus Source: [[sources/med4-book2-ch11|子、其 他]].
 
 ## Clinical Caveats
 

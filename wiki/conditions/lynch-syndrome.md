@@ -8,6 +8,8 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch03]]"
 aliases:
   - 'Lynch syndrome / HNPCC (林奇症候群／遺傳性非息肉性大腸癌)'
   - 'Lynch syndrome / HNPCC'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-mismatch repair gene 缺陷造成右側大腸癌與子宮內膜癌等風險上升，息肉數通常不多。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mismatch repair gene 缺陷造成右側大腸癌與子宮內膜癌等風險上升，息肉數通常不多。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ mismatch repair gene 缺陷造成右側大腸癌與子宮內膜癌等風險上�
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch03]]
 
 ## Key Details From Sources
 
+- | 分類 | Risk factors | |----------|-----------------------------------------------------------| | 個人因子 | ・年齢大 | | 生殖與內分泌因子 | ・ 初經早 (early menarche) 或停經晚 (late menopause) | | | ・不曾生育 (nulliparity) | | | ・子宮內膜異位症 (endometriosis) | | 遺傳因子 | ・BRCA1、BRCA2 基因突變 | | | • Lynch syndrome (HNPCC) | | 環境因子 | ・asbestos (石棉) | | | ・吸菸 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ※ 註:已發展國家女人一生中得到卵巢癌的風險是 1.4%,其中 5~10% 和基因相關,如 Lynch syndrome- MSH2, MLH1, PMS1 & PMS2 (乳癌、大腸直腸癌、子宮內膜癌和卵巢癌)和 BRCA;若知道有基因突變,建議於完成生育後預防性切除卵巢輸卵管,並接受定期檢查(乳房攝影、大腸鏡和子宮內膜切片)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 組織型態 | 比例 | 附註 | |---------------------|--------|------------------------------| | 高分化漿液性 | 70~80% | • 多數診斷時為晚期病灶,預後差 | | (High-grade serous) | | | | 低分化漿液性 | ・ 亞洲人所佔比例高 | | | | ・ 和子宮內膜異位症相關 | | | | • 和 Lynch syndrome 相關 | | 黏液性 (Mucinous) | 3% | ・ 絕大多數診斷時為第 I 期,預後佳 | | | | · 可能是轉移病灶,主要來自腸胃道 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (6) 若以上皆失敗,則須開腹止血,方法包括結紮流血處、結紮子宮動脈、B-Lynch 縫子宮,最後手段為子宮切除。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - **Reference:** Gould MK, Donington J, Lynch WR, et al: **Evaluation Of Individuals** With Pulmonary Nodules: When Is It Lung Cancer? *Chest* 2013; 143(5\_suppl): e93S-e120S. doi:10.1378/chest.12-2351. Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 危險因子 - a. 絨毛狀腺瘤 (villous adenoma) - b. 息肉症候群 (polyposis syndromes) - c. Crohn's disease - d. hereditary nonpolyposis colorectal cancer (HNPCC) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (2) Hereditary nonpolyposis colon cancer (HNPCC) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].

@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Macrolides (巨環內酯類)'
   - 'Macrolides'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,12 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | 披衣菌 | • azithromycin 1 g 單一劑量或口服 doxycycline 100 mg BID, | | | |-------|----------------------------------------------------|--|--| | | 7 天。( 懷孕時使用 erythromycin) | | | | 淋病雙球菌 | • 單一劑量的肌肉注射 ceftriazone 250 mg | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...----------| | 病原體 | Haemophilus ducreyi | Chlamydia 的一種 | Klebsiella granulomatis | | 潰瘍 | painful | 無痛性 | 無痛性 | | 治療 | azithromycin, | Tetracycline, | Tetracycline, | | | ceftriaxone 或 | erythromycin 或 | erythromycin 或 | | | erythromycin | streptomycin | doxycycline | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...n | | Serratia spp. | TMP-SMX, carbenicillin | TMP-SMX, amikacin | | Other pathogens | | | | Chlamydiae | Tetracycline, erythromycin | Tetracycline, erythromycin | | Mycoplasmas, ureaplasmas | Tetracycline, erythromycin | Tetracycline, erythromycin | | Obligate anaerobes | Metronidazole, clindamycin | Metronidazole, clindamycin | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...2nd: 2nd generation cephalosporin | | | | Enterococci | | | | | Chlmaydia | 1st: Doxycycline | | | | Ureaplasma | 2nd: Macrolide | | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - b. 非淋病:tetracycline、erythromycin、doxycycline,治療 1~2 週(7~14 天)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
@@ -69,8 +73,6 @@ tags:
 - ...syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫過低、生命跡象不穩的病童,發展為毒性巨結腸症的病童,以及免疫功能有缺損的病童。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...--| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...----------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- ...----------|--------------------|-----------------|-------------------------------|--| | 大分類 | 細分類 | 例子 | 臨床上常用於 | | | | Macrolide (肝) | Erythromycin | 非典型肺炎 (Mycoplasma, Chlamydia) | | | | | Azithromycin | HIV 病患的 MAC | | | 抑制 50S 核醣體 | Lincosamide (肝) | Clindamycin | 厭氧菌→橫膈以上的膿瘍 | | | | | | 抑制細菌毒素製造→壞死性筋膜炎 | | | | Oxazolidinones (肝) | Linezolid | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- 1. Macrolide 類:如 Erythromycin、較新的 Azithromycin, - (1) Erythromycin: - a. 可抗 GPC (Gram positive coccus、革蘭氏陽性球菌),用來治療對 Penicillin 過敏病患的支氣管炎、咽喉炎、鼻竇炎、中耳炎、軟組織感染等。但無法治療 Haemophilus influenzae,因此經驗性治療上下呼吸道感染不是那麼理想。 - b. 對常見的非典型肺炎有效,如 Legio Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

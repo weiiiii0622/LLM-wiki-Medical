@@ -20,6 +20,12 @@ sources:
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Pituitary gland (腦垂體)'
   - 'Pituitary gland'
@@ -34,7 +40,7 @@ tags:
 
 ## Summary
 
-腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +60,24 @@ tags:
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch05]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | 分 類 | 成 因 | 發生率 | |----------------------------------|-----------------------------------|--------| | Hypothalamic-pituitary disorders | 先天性:Kallmann syndrome | 1~2% | | (Hypogonadotropic hypogonadism) | 後天性:腫瘤、受傷、手術、電療、 | | | (Secondary hypogonadism) | 藥物、高泌乳素等 | | | Primary testicular disorders | 先天性:Klinefelter's syndrome | 30~40% | | (Hyp Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...inefelter's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 / 腦垂體問題 | ・使用 gonadotropin (下視丘或腦垂體問題) | | | | ・GnRH 脈衝治療 (下視丘問題) | | | 生殖道感染 | ・抗生素治療(至少10天) | | | 精子自體免疫疾病 | ・高劑量類固醇 (40~80 mg/day) ・ 使用 ICSI | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (2) 平均月經週期為 28±7 天,黃體期固定 14 天,變動的是濾泡期。在初經來的 5~7 年及停經前的 10 年因下視斤-腦垂體-卵巢軸線功能不穩,月經週期變動較大。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (2) 青春期前下視丘 腦垂體 卵巢軸線未成熟,無法產生 FSH,濾泡通常未發育即閉鎖;青春期後,FSH、LH穩定產生,可促使濾泡發育成熟並排卵,成熟濾泡排卵後便形成黃體。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (1) 下視丘(hypothalamus)分泌 GnRH,調節 gonadotropin (FSH和LH)的分泌: 其連續性的分泌使腦垂體的 GnRH 受器 down-regulation (數目減少), FSH和 LH減少;直到青春期開始有脈動性(pulsatile)的分泌使受器 up-regulation (數 目增加), FSH和LH增加。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...----------------------------------|------------------------------------------------------| | 藥物性 | Oxytocin | 1. 由下視丘製造、腦垂體後葉波動性分泌的多肽激素,是刺激子宮收縮最有效的藥物。 2. 血中的半生期約 3~6 分鐘。 3. 隨妊娠年齡增加,子宮對 oxytocin 的敏感度會上升(子宮肌肉的 oxytocin 的inding site 增加)。 4. 稀釋在等張溶液中(60 U 加在 normal saline 1,000 mL,濃度為 60 mU/mL),以幫浦靜脈注射(速率設 1 mL/hr,等於 1 mU/min),給藥須同時監控子宮活動與胎兒心律,以 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- | 簡介 | · 又稱為產後腦垂體功能低下 (post-partum hypopituitarism)。十分罕見, | |-----|-----------------------------------------------------| | | 但可能致命;可能在產後立即或幾年後發生 | | 成因 | • 因為低血容性休克,造成腦垂體缺血性梗塞,進而影響其荷爾蒙的分泌 | | 症 狀 | ・無法泌乳(↓ prolactin, ↓ oxytocin)、無月經或少月經(↓ LH, ↓ FSH) | | 治療 | • 長期補充缺乏的荷爾蒙 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- (AB 7. 關於腦下垂體泌乳激素腺瘤 (pituitary prolactin adenoma) 在懷孕 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
+- ...體素) | 可週期性或持續性使用 | | | 黃體素 | · 高劑量黃體素可促進異位內膜組 | ・體重增加和不規則陰道出血 | | | 織的蛻膜化及萎縮 | • 長期使用需注意骨質疏鬆及血脂 | | | | 異常 | | GnRH | ・使腦垂體受器 down-regulation, | • 停經症候群 ( 如熱潮紅、陰道乾 | | agonists | 而無法產生 LH 和 FSH,抑制卵 | 澀、性慾降低等) | | - | 巢功能,達到假性停經的狀態 | ・骨質疏鬆 | | | • 肌肉或皮下注射,合成製劑半衰 | | | | 期長,目前有一個月一劑或三個 | | | | 月一劑兩種劑型。目前亦有鼻噴 | | | | 劑劑型,但須每天使用。 | | | GnRH | • Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...---|-----------------------------------| | Gondatropin-ReleasingHormone (GnRH)Agonists | LeuprolideGoserelin | Anterior PituitaryGland | Decreases Release of LHThrough Down-regulationof GnRH Receptors | Testosterone Surge | 39 | | GnRH Antagonists | Abarelix* | Anterior PitultaryGland | Directly InhibitsGnRH Receptors | Anaphylaxis | Steroid | | A Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...關生殖內分泌的描述,下列何者為非? (A) 男性荷爾蒙是由 Leydig cells 所分泌 (B) 男性荷爾蒙的分泌是受濾泡刺激激素 FSH (follicle stimulating hormone) 調控 (C) 腦下垂體性腺激素 (pituitary gonadotropins) 的分泌是受 GnRH (gonadotropin releasing hormone) 的調控 (D) 混合因素 (mixed factors) 【詳解】(B) 是 LH。 | 106 (二)專醫五-69 | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 3. Pituitary adenoma (30%): functional or non-functional • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
@@ -66,15 +87,6 @@ tags:
 - 5.50%的病患在動脈瘤破裂造成 SAH 前會有所謂的「warning symptoms」: - (1) 動脈瘤的 mass effect: - a. 壓迫到動眼神經造成 EOM palsy、ptosis、dilated unreactive pupil。 - b. 壓迫到視神經。 - c. 壓迫到腦垂體,造成內分泌異常。 - d. 半身癱瘓。 - (2) 小出血(sentinel hemorrhage),平均發生在 SAH 的十天前。 - (3) 小血管梗塞造成暫時性失明(amaurosis fugax)或是視覺半盲(homonymous hemianopsia),平均發生在 SAH 的 21 天前。 - (4) Seizures • - (5) 頭痛。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - 2. 下視丘(hypothalamus):體內恆定 - (1) 位於視丘(thalamus)之下、腦垂體(pituitary)之上。 - (2) 與體內恆定、調節體溫有關。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...-------------------------------------------------------------| | (Optic nerve) 受損 | 左眼視野受損 | ( a | | 視交叉(Chiasma) 内側壓迫*(腦垂體腫瘤) 左外側壓迫 | | D b | | | | O C | | ) ` | 大 個領 野 | d d | | . Geniculate nu.) | 石侧帆到"又"俱 | u u | | 往下經顳葉處的視放射 | 右上視野受損 | (1) e | | 往上經額葉處的視放射 | 右下視野受損 | f | | 左視放射 (Radiation) | | g | | | 內側壓迫*(腦垂體腫瘤)左外側壓迫、Geniculate nu.)往下 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- \* 視交叉正下方若有腦垂體腫瘤(pituitary adenoma)、鼻咽癌(NPC)往上壓迫視交叉的正中央,會造成由上往下的雙顳側視野受損,如下圖;若 craniopharyngioma 由外側壓迫,會造成鼻側視野受損。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- 2. 原發性腦腫瘤 - (1) 神經膠瘤 (glioma) 最為常見 (43.9%), 包含 glioblastoma、astrocytoma、oligodendorcyte、ependymoma; 惡性機會高。 - (2) Meningioma (17.2%): 好發女性,為良性腫瘤可手術摘除; - (3) Pituitary adenoma (8.6%) Schwannoma (7.0%) Lymphoma... Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (A) 腦下垂體中風(pituitary apoplexy) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (C) 1. 有關急性壓力疾患(acute stress disorder)及創傷後壓力症候群 109(一)專 (posttraumatic stress disorder) 之敘述,下列何者錯誤? - 醫四-65 - (A) 急性壓力疾患之症狀若超過一個月以上則需考慮診斷可能為 創傷後壓力症候群 - (B) 創傷後壓力症候群治療合併藥物治療及心理治療是有助益的 - (C) 急性壓力疾患之症狀中不會出現解離症狀 - (D) 創傷後壓力症候群的病因包含 hypothalamic-pituitary-adrenal (HPA) axis 之功能失調 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 【詳解】於 Primary Addison's disease 中由於 glucocorticoid 分泌 不足,使得 pituitary gland 回饋作用分泌 ACTH 增加,為了分泌 ACTH 會先產生前驅物 POMC(pro-opiomelanocortin),POMC 再分解成 ACTH 和 $\gamma$ -MSH(melanocyte-stimulating horone),且 ACTH 又會再分解出 $\alpha$ -MSH,MSH 則會促進黑色素的生產和釋放,故皮膚會廣泛性黑色素沉澱。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- (2) 橋本氏甲狀腺炎(早期)、亞急性甲狀腺炎(de Quervain's thyroiditis)、pituitary adenoma、腦下垂體對 T4 有抗性等。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- PS: Pseudoprecocious puberty 其 sex hormone 製造與 pituitary gonadotropin secreting 無關。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...1 英吋( - (A) 柯林菲特氏症 (Klinefelter syndrome) - (B) 卡門氏症 (Kallmann syndrome) - (C) 普瑞德威利氏症 (Prader-Willi syndrome) - (D) 先天性腦垂體低能症(Congenital hypopituitarism) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- C. 腦垂體前葉荷爾蒙的交互作用 171 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 

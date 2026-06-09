@@ -20,6 +20,9 @@ sources:
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Hypokalemia (低血鉀)'
   - 'Hypokalemia'
@@ -34,7 +37,7 @@ tags:
 
 ## Summary
 
-低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鉀需依攝取、腸胃流失、腎臟流失與 transcellular shift 鑑別。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +57,16 @@ tags:
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch05]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...-------------| | Ritodrine(Yutopar)(註1) | β₂ agonist( ↑ intracellularcAMP) | ・心臓病・控制不良的糖尿病或甲狀腺亢進・大出血 | 心悸、心跳加速、胸悶、氣促、低血壓低血鉀、高血糖肺水腫 | ・紀錄 I/O・監測心跳・監控血糖和血鉀 | | Indomethacin | COX inhibitor ( ↓ Prostaglandins 、 ↓ intracellular Ca) | ・肝腎功能異常・血小板功能異常・腸胃潰瘍・氣喘 | ・ 噁心嘔吐・ 胃痛・ 血小板功能異常 | ・胎兒 PDA 提早關閉 (32 週後使用)・羊水減少 (使用超過 72 小時) | | Nifedipine(Adalat) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】安胎藥物 $\beta_2$ agonist 的副作用包括心悸、心跳加速、胸悶、氣促、低血鉀、高血糖和肺水腫,故選 (A)。血壓的部分, $\beta_2$ agonist 會造成收縮壓上升,故考選部 (D) 也給對,然而,其會造成舒張壓下降,而平均的血壓變化是下降的,故內文仍維持 $\beta_2$ agonist 的副作用為低血壓。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】妊娠劇吐症的典型表現包括嚴重噁心和嘔吐,造成酮血症、體重減輕(>5%)、體液流失、酸鹼與電解質不平衡(低血鈉和低血鉀等)。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
+- 【詳解】(B) 神經性厭食症(anorexia nervosa)患者若不當催吐或過量使用利尿劑(如:thiazide 和 loop diuretics 等)會造成代謝性鹼中毒,而過量使用軟便劑(laxatives)則會造成代謝性酸中毒;這些情形都會使鉀離子流失,造成低血鉀。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - #### A. 原發性高醛固酮症 (Primary aldosteronism), 又稱高血壓低血鉀症 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 2. 臨床表徵: - (1) 症狀:常見的有高血壓、低血鉀(但僅25%人有)、頭痛、夜尿。 - (2) 實驗室數據: - a. 初步判斷:血鉀≤3 mEq/L。 - b. 精確診斷: 敏感度 90%, 特異性 90%。 - (a) 血中 aldosterone: renin (即 PRA) > 30:1。(醛固酮上昇 +renin 下降)。 - (b) 血中 aldosterone > 15 ng/dL。 - i. 意義:血清(與尿液)呈現醛固酮 (aldosterone) 升高,血漿 ren Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -71,10 +81,6 @@ tags:
 - e. 低血鉀病人要注意是否有低血鎂,補鉀前要先補鎂。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - a. 大量輸血有機會造成高血鉀,另外病人大都存在休克狀態,其體內的醛固酮、 抗利尿及皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-related acute lung injury, TRALI): 輸血後 6 小時內發生, 臨床症狀 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- 【詳解】(A) 女性較多。(C) 低血鉀現象。(D) 暴食症盛行率(年 輕女性 1~4%) 比厭食症(年輕女性 0.5~1%) 高。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】增加毛地黃毒性的危險因子如下:low body weight、advanced age、renal impairment、hypokalemia、hypercalcemia、or hypomagnesemia。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med6-book1-ch12]]"
 aliases:
   - 'Electromyography, EMG (肌電圖)'
   - 'Electromyography, EMG'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med5-book5-ch07]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch06]]
+- [[sources/med6-book1-ch12]]
 
 ## Key Details From Sources
 
+- ...尿道功能,較 UPP 可靠 | | Residual urine volume | ・以膀胱超音波或直接導尿測量餘尿量 | | (餘尿量) | ・反覆高餘尿量 ( > 50 mL) 代表可能有尿路出口阻塞 | | | 或逼尿肌無力 | | EMG (體表肌電圖檢查) | 可間接測量骨盆底肌肉和尿道括約肌的收縮 | Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - 【詳解】(A) 此時應該觀察三個月,看神經是否會自動恢復;也暫時不需要做 EMG,再手術反而會增加 nerve injury 的機會,是 contraindication。(C) atrophic nonunion 主要可能是因術中periosteum 清除太多或本身身體一些骨合成元素缺乏所導致。內固定物固定不牢會造成 hypertrophic non-union,影像上會看到兩端接頭像「象腳」一樣。(D) 開放性骨折最常見致病菌是金黃色葡萄球菌,但此病人掉到水溝,也應考慮厭氧菌感染。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 5. 診斷:以肌電圖及神經傳導速度測定,配合臨床症狀。 Source: [[sources/med5-book6-ch06|己、手部]].
 - 3. 括約肌功能: 測尿道壓力分佈圖 (urethral pressure profile )、括約肌肌電圖 (sphincter electromyography)。 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].

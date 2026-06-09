@@ -23,6 +23,8 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Hyperthyroidism (甲狀腺亢進)'
   - 'Hyperthyroidism'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,14 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B) 2. 小英懷孕 18 週,懷孕前就有甲狀腺機能亢進並服用藥物控制。 99( ) 專 懷孕後自行停藥,也沒再回內科追蹤。在婦產科門診,醫師幫她 醫六 -32 安排抽血檢查,發現 T3、T4 值都很高,有 Overt thyrotoxicosis, 醫師告誡她必須要好好服藥控制,不然會有很多併發症。下列 何者不是小英之疾病常見的併發症? - (A) 早產或死胎 (preterm delivery or stillbirth) - (B) 深層靜脈阻塞 (deep vein thrombosis) - (C) 心臟衰竭 (heart failure) - (D) 子癇前症 (preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...------------------------------------------| | Ritodrine(Yutopar)(註1) | β₂ agonist( ↑ intracellularcAMP) | ・心臓病・控制不良的糖尿病或甲狀腺亢進・大出血 | 心悸、心跳加速、胸悶、氣促、低血壓低血鉀、高血糖肺水腫 | ・紀錄 I/O・監測心跳・監控血糖和血鉀 | | Indomethacin | COX inhibitor ( ↓ Prostaglandins 、 ↓ intracellular Ca) | ・肝腎功能異常・血小板功能異常・腸胃潰瘍・氣喘 | ・ 噁心嘔吐・ 胃痛・ 血小板功能異常 | ・胎兒 PDA 提早關閉 (32 週後使用)・羊水減少 (使用超過 72 小 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (B) 29. 一位 35 歲女性病患,其腹部 X 光片如下圖,則下列敘述何者 99(-)專 正確? 醫五-74 - (A) 是非常複雜之尿路結石,若 不處理腎臟功能迅速變壞 - (B) 大多數沒有症狀,也不需積 極處理 - (C) 此症常與腎臟小管酸血症 (renal tubular acidosis)及甲 狀腺功能亢奮 (hyperthyroidism)有關 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 1. 生化檢驗數據: TSH 和 Free T4 最準。 - (1) TSH: 0.3~5 mIU/L, 在腦下垂體功能正常的情況下: - a. TSH ↑代表 hypothyroidism。 - b. TSH ↓ 代表 hyperthyroidism。 - (2) Total $T_4$ : $3\sim12 \mu g/dL \circ$ - (3) $T_3$ : 80~200 ng/dL • - (4) RT3U (Resin T3 uptake):正常值 20~40%,檢測 resin 跟 T3 結合的量得知 TBG 上沒有與甲狀腺素結合的空位 (thyroid hormone-binding sites)。因為 T3 對 TBG 親和力較 T4 低許多,所以當甲狀腺功能亢 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimoto thyroiditis亞急性甲狀腺炎 (de Quervain)Iodine deficiency | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -78,9 +85,6 @@ tags:
 - (C) 2. 有關甲狀腺亢進與精神疾病的關聯性,下列何者正確? Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (A) 甲狀腺亢進可能引發情緒激躁、意念飛躍等躁症症狀,但不 致於引起憂鬱情緒 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - (B) 甲狀腺亢進不致於出現幻覺或被害意念之精神病症狀 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (A) 3. 足月出生六個月大之男嬰,經身體診查發現四肢短小,頭圍正常, 107(-)專 前囟門大,眼瞼水腫,皮膚乾燥且黃疸,頭髮粗糙,下列何者為 醫四-24 最正確之診斷? - (A) 先天性甲狀腺低能症 (congenital hypothyroidism) - (B) 先天性甲狀腺亢進症(congenital hyperthyroidism) - (C) 純母奶餵食且餵食量不足 - (D)新生兒高黃疸(hyperbilirubinemia)之併發症 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (4) 其他,如 granulomatosis/sarcoidosis, thyrotoxicosis, thrombophlebitis... Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 5. Hyperthyroidism Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 
@@ -95,6 +99,7 @@ tags:
 - [[conditions/hypokalemic-periodic-paralysis|Hypokalemic periodic paralysis (低血鉀週期性麻痺)]]
 - [[procedures/radioactive-iodine-therapy|Radioactive iodine therapy (放射性碘治療)]]
 - [[conditions/subacute-thyroiditis|Subacute thyroiditis / de Quervain thyroiditis (亞急性甲狀腺炎)]]
+- [[conditions/thyroid-disease-in-pregnancy|Thyroid disease in pregnancy (妊娠合併甲狀腺疾病)]]
 - [[diagnostics/thyroid-function-tests|Thyroid function tests (甲狀腺功能檢查)]]
 - [[conditions/thyroid-storm|Thyroid storm (甲狀腺風暴)]]
 

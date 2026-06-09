@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'NSTEMI (非 ST 段上升心肌梗塞)'
   - 'NSTEMI'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-通常為心內膜下梗塞，心肌酵素上升但無 ST elevation。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+通常為心內膜下梗塞，心肌酵素上升但無 ST elevation。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- 4. 非壓力試驗 (non-stress test, NST): 最常用的篩檢方式。 - (1) 操作方法:孕婦平躺裝上胎兒監視器,觀察 20 分鐘之宮縮、胎心率和胎動。 - (2) 結果判讀與處置: Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...-------|----------------------------|-------| | ・羊水量 (Amniotic fluid | 至少一個垂直面向的羊水量≥ 2 cm | 不滿足條件 | | volume) | | | | · Non-stress test (NST) | 20 分鐘 2 次心跳加速,HR 增加 15bpm, | 不滿足條件 | | | 持續 15 秒 | | | · 胎兒張力 (Fetal tone) | 30 分鐘內 1 次以上肢體或脊椎由伸張回到 | 不滿足條件 | | | 屈曲 | | | · 胎動 (Fetal movement) | 30 分鐘內 3 次以上身體或肢體活動 | 不滿足條件 | | ・胎兒呼吸 | 30 分鐘內有 1 次以上呼吸 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (A) 6. 胎心無壓力試驗 (non-stress test) 20 分鐘檢查結果,有二次胎心加速大於基線胎心搏 (baseline) 15 bpm (beat per minute)以上,且持續 15 秒以上,可以判讀為: - (A) 正常反應 (reactive) - (B) 不正常反應 (nonreactive) - (C) 爭議性 (equivocal) - (D) 無法判讀 (unsatisfactory) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (A) 僅以非類固醇抗發炎藥物(non-steroidal anti-inflammatory drugs, NSAIDs)治療 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (A) 16. 治療急性輸尿管結石疼痛的藥物,下列那一種治療藥物沒有足夠 104(-)專的臨床實證支持有效? 醫五-77 - (A) 解痙劑,例如 butylscopolamine (Buscopan) - (B) 非類 固 醇 類 消 炎 藥 (non-steroid anti-inflammatory drugs, NSAIDs) - (C) α- 腎上腺素作用劑,例如 tamsulosin (Harnalidge) - (D) 鈣離子阻斷劑,例如長效型的 nifedipine (Adalat OROS) Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (C) 28. 巨細胞動脈炎 (Giant cell arteritis) 的主要治療是: 101(一)專 (A) Non-steroidal anti-inflammatory drugs 醫四 -61 (B) Sumatriptan (C) Prednisone (D) Morphine Source: [[sources/med4-book4-ch03|丙、頭 痛]].

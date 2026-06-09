@@ -86,6 +86,15 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book1-ch15]]"
 aliases:
   - 'Diabetes mellitus (糖尿病)'
   - 'Diabetes mellitus'
@@ -100,7 +109,7 @@ tags:
 
 ## Summary
 
-慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -186,9 +195,28 @@ tags:
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch07]]
 - [[sources/med5-book6-ch06]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch13]]
+- [[sources/med6-book1-ch15]]
 
 ## Key Details From Sources
 
+- B. 妊娠糖尿病 (Gestational diabetes mellitus) 138 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...the control of the control of the control of the control of the control of the control of the control of the contro | • 糖尿病或妊娠糖尿病、慢性高血壓、慢性腎病、自體免疫性疾 | | | | 病(如紅斑性狼瘡和抗磷脂質症候群)和血管性疾病 | | | 胎兒因子 | ・多胞胎 | | | | ・本胎胎兒水腫 (hydrops fetalis) | | | 胎盤因子 | • 前胎胎死腹中或胎兒生長遲滯 | | | | • 前胎胎盤剝離 | | | 其他因子 | · 人工生殖技術(冷凍胚胎解凍植入療程) | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | 高度風險 | • 有子癲前症病史 | ・多胞胎 | • 慢性高血壓 | |------|--------------|--------------------------|-------------------| | | • 糖尿病 | • 慢性腎病 | • 自體免疫性疾病 | | 中度風險 | ・初産 | ・ 肥胖 (BMI > 30kg/m²) | • 有子癲前症家族史 | | | ・ 高齢 (≥35 歳) | • 低社經地位 | • 前胎胎死腹中或生長遲滯 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (2) 影響青春期開始時間的因素: - a. 遺傳:多重基因調控,這些基因可能和肥胖、hypothalamus-pituitary-ovary (HPO) axis 等調控相關; - b. 體脂肪:研究顯示血中 leptin 濃度愈高,體脂肪愈高,青春期愈早開始; - c. 健康狀態; - d. 光線:卻乏光線的周期性刺激,使松果腺無法分泌褪黑激素 (melantonin), 卵巢發育不受抑制,造成盲女容易性早熟; - e. 居住地點:城市較鄉下早開始,平地較高山早開始; - f. 運動選手、糖尿病均使青春期較晚開始。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (D) 手術後遺症為 diabetes mellitus Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | (1)慢性不排卵 | 少月經或無月經 | |-------------------------------------|--------------------| | | 不孕 | | | 增加子宮內膜癌風險(註1) | | (2) 高雄性素症 | 多毛症、青春痘、禿頭 | | | 黑色素棘皮症(註2) | | (3) 卵巢異常 | 超音波下顯示多囊性卵巢(註3) | | | 卵巢體積增加且皮質增厚 | | (4) Gonadotropin 異常 LH/FSH ratio 上升 | | | (5)新陳代謝問題 | 胰島素阻抗、增加 Type 2 DM | | | 肥胖、血脂異常、代謝性症候群(註4) | | | 非酒精性脂肪性肝病、睡眠呼吸中止 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...----------------------|--|--|--| | | ・ 胎兒肩與產婦骨盆不對稱 (shoulder-pelvic disproportion) | | | | | | • 男嬰 | | | | | 產婦 • 產前或妊娠糖尿病:增加肩難產的可能性 2~6 倍 | | | | | | | ・有肩難產的病史: 肩難產的復發率約為 10% (1~17%)・產婦年齡高、產婦肥胖和妊娠增加體重多 | | | | | | | | | | | 孕程或 | ・過期妊娠 | | | | | 產程異常 | ・器械輔助陰道生産 | | | | | A period principal and the second second second second second secon Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- ※ 註 2: 巨嬰妊娠(macrosomia)為肩難產最重要的風險因子,許多風險因子其實都和胎兒體重有關,包括男嬰、產前或妊娠糖尿病、產婦肥胖和妊娠增加體重多、過期妊娠等 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- 6. 預防性剖腹產(prophylactic cesarean section):不建議在懷疑巨嬰妊娠時,常規提早引產或預防性剖腹產。但對於肩難產的高風險族群,可選擇性地使用預防性剖腹產。如下情形: - · 2002 年美國婦產科醫學會 (ACOG) 建議非糖尿病產婦之胎兒預估體重大於 5,000 克或糖尿病產婦之胎兒預估體重大於 4,500 克時,可考慮施行預防性剖腹產 - 前胎次併發肩難產,尤其是胎兒臂神經叢有損傷的個案,可考慮施行預防性剖腹產 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 1. 簡介: Flexor tendon 因為在 **A1 pulley 狹窄造成的 stenosing tenosynovitis**,常發生 在大拇指、中指及第四指,有糖尿病的病人容易發生。 Source: [[sources/med5-book6-ch06|己、手部]].
 - (1) 急性腎盂腎炎 (acute pyelonephritis, APN): - a. 病理:定義為腎盂或腎盂發炎,常以臨床表徵診斷。 - b. 好發於:有尿路感染(UTI)家族史、糖尿病、尿路阻塞、泌尿道異常、尿失禁、 性生活活躍之女性。 - c. 菌種: 80% 是大腸桿菌(E.coli)。 - d. 臨床表徵: - (a) 症狀:包括發燒、畏寒、肋脊角敲痛。常伴隨下泌尿道症狀(尿痛、頻尿、 急尿)。25% 人會有全身性敗血症。 - (b) 實驗室檢查:尿中有 WBC 與 RBC,血中 WBC 與 CRP 升高。 - (c) 影像:超音波可用來探查是否併發腎水腫。若症狀不明顯或治療無效,可排顯影劑 CT 檢查,可準確 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -197,16 +225,6 @@ tags:
 - ...人應接受夜間陰莖勃起試驗(nocturnal penile | 醫五 -70 | | tumescence test) | | | (B) 要補充男性荷爾蒙 | | | (C) 第一線檢查應使用彩色都卜勒超音波 | | | (D) 高血脂、糖尿病及高血壓會引起海綿體血管內皮細胞功能失調 | | | (C) 12.60 歲丁先生,由於勃起時硬度夠,但無法持久而來就診,陰莖 | 105(一)專 | | 海綿體血流量檢查發現其海綿體動脈血流正常,但有靜脈溢漏 | 醫五 -70 | | (venous leakage )現象,最可能的病因是: | | | (A) 陰莖海綿體神經病變 | | | (B) 良性前列腺肥大 | | | (C) 陰莖海綿體平滑肌病變 | | | (D) 尿道炎 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...entromere | | | (D) | 17. | 下列何項危險因子不會影響陰莖海綿體血流量(penile blood flow, | 103(一)專 | | | | PBF)? | 醫五 -70 | | | | (A) 抽菸 (B) 糖尿病 | | | | | (C) 高血壓 (D) 心因性 (psychogenic ) 勃起功能障礙 | | | | | 【詳解】(D) 心因性不影響血管。 | | | (C) | 10 | 下列有關遲發型性腺功能低下症(late onset hypogonadism)的敘 | 102(二)專 | | (C) | 10. | | B五-68 | | | | 述,何者正確? | 西五 -00 | | | | (A) 睪固酮於晚上 8 至 10 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (B) 年輕男性之急性細菌性副睪丸炎通常與糖尿病有關 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- 2. 宿主防禦 (host defenses): - (1) 尿液性質:滲透壓,尿素濃度,有機酸濃度和 pH 值都會影響。 - (2) 尿流動性:正常尿的沖刷可防止細菌逆行性感染。故尿滯留者易 UTI。可能由神經性膀胱、糖尿病、懷孕、BPH、年齡,小孩的膀胱輸尿管逆流(vesicoureteral reflux)引起尿滯留。 - (3) 尿路上皮完整性。 - (4) 特殊處:女性在尿道周圍有乳酸菌(Lactobacillus)可對抗 UTI 細菌;男性前列腺液中的鋅(Zinc)有防止 UTI 的功用。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- ...頸癌接受根除性切除手術 (D) 胸椎損傷造成膀胱功能損傷 【詳解】接受婦產科手術或大腸直腸手術可能使支配膀胱肌肉 收縮的神經(pelvic plexus)損傷,導致 urinary retention,所以 不是 OAB。 (C) 16. 糖尿病膀胱病變(diabetic cystopathy)是一種常見的糖尿病併發 99(二)專 症,下列關於此症狀的敘述,何者錯誤? 醫五-70 (A) 患者通常有較差的膀胱感覺 (B) 在病程晚期,膀胱逼尿肌擴張及膀胱收縮力下降的情形可能 發生 (C) 逼尿肌不穩定的情形很常見,患者多有急尿型尿失禁(urge incontience) (D) 在典型的糖尿病膀胱病變中,括約肌的共濟失調並不常見 【詳解】糖尿病引起的神經病變是傷害神經末梢為主, Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 2. 胎便塊大腸阻塞症(Meconium plug syndrome) - (1) 常見的新生兒腸阻塞,和多種疾病有關,如巨結腸症、妊娠期糖尿病、甲狀腺功能低下、囊性纖維化等。大多數有此症狀之孩童為正常,但建議進一步檢查排除巨結腸症,尤其早產或明顯有遠端小腸阻塞症狀之孩童。 - (2) 臨床表現:腹脹。 - (3) 檢查 & 診斷: KUB 顯示多段小腸氣、水溶性顯影劑灌腸(同時診斷治療)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 3.60%的病人出現不正常的葡萄糖耐受試驗結果,甚至進展成為糖尿病,須觀察糖尿病症狀如口渴、多尿、噁心、嘔吐、皮膚脫水乾燥,與胰臟的內分泌功能喪失相關。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 2. 口服葡萄糖耐受試驗(OGTT):用來檢查是否為第一型糖尿病。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- ...時可能需要止痛貼片。不可使用 Morphine,會造成 Oddi of sphincter 強力收縮,胰管內壓力上升加重胰臟炎的狀況。 - (5) 預防性抗生素:若病人具壞死性胰臟炎,合性器官衰竭的話,須使用廣效性抗生素治療。 - (6) 糖尿病:若病人已出現糖尿病,必須控制病人的血糖,並且持續監控糖尿病所帶來的 Retinopathy、Nephropathy、Neuropathy。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- (B) 2. 李先生 35 歲,BMI(body mass index): 43 kg/m²,過去一年努 1090 力藉由保守方法減重但效果不彰,本身亦有第二型糖尿病,且糖 化血紅素(HbA1C)指數為 8.5%,胃鏡檢查發現胃食道逆流程 度為 Los Angeles Grade C。李先生決定接受代謝減重手術治療, 下列何種手術最為適合? Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 【詳解】現行較常見的減重手術術式包含 Roux-en-Y 胃繞道手術,胃袖狀手術,可調式胃束帶手術。Roux-en-Y 胃繞道手術的優點為減重效果較快且治療糖尿病效果佳。胃袖狀手術的優點為併發症較少。本題提到患者具糖尿病,因此 Roux-en-Y 胃繞道手術可能是較適合的術式選擇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- ...ma)癌化的 | | | | 風險極低 | | | | 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 
 ## Clinical Caveats
 

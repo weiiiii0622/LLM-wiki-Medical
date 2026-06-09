@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med3-book4-ch20]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book3-ch22]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Mammography (乳房 X 光攝影)'
   - 'Mammography'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-乳癌篩檢與診斷影像，特別適合脂肪比例較高的乳房偵測鈣化。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳癌篩檢與診斷影像，特別適合脂肪比例較高的乳房偵測鈣化。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book3-ch22]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- ※ 註:已發展國家女人一生中得到卵巢癌的風險是 1.4%,其中 5~10% 和基因相關,如 Lynch syndrome- MSH2, MLH1, PMS1 & PMS2 (乳癌、大腸直腸癌、子宮內膜癌和卵巢癌)和 BRCA;若知道有基因突變,建議於完成生育後預防性切除卵巢輸卵管,並接受定期檢查(乳房攝影、大腸鏡和子宮內膜切片)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - D. 乳房攝影(Mammography) 215 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 1. 乳癌的檢查篩檢可分為: - (1) 身體理學檢查:建議每月月經結束後一星期,自我檢查乳房,若有異常應立即 就醫。 - (2) 影像學檢查:乳房超音波、乳房攝影、乳房核磁共振。 - (3) 病理確診:FNAC、CNB、Mammotome、Surgical biopsy。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - (6) 微小鈣化點 (microcalcification)。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].

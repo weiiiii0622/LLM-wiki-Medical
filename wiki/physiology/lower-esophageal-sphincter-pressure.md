@@ -8,6 +8,7 @@ sources:
   - "[[sources/med3-book2-ch06]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Lower esophageal sphincter pressure (下食道括約肌壓力)'
   - 'Lower esophageal sphincter pressure'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-LES 壓力與短暫放鬆決定 GERD 風險，受荷爾蒙、神經、藥物與食物影響。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+LES 壓力與短暫放鬆決定 GERD 風險，受荷爾蒙、神經、藥物與食物影響。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ LES 壓力與短暫放鬆決定 GERD 風險，受荷爾蒙、神經、藥物與�
 - [[sources/med3-book2-ch06]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- 黃體素使得下食道括約肌張力降低,會導致胃食道逆流;加上懷孕時腹內 壓上升,吸入性肺炎的風險增加,尤其在生產腹部用力時或全身麻醉時 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 2. 上下食道括約肌(UES & LES): 食道兩個主要高壓區在上食道括約肌和下食道括約肌,難以直接從結構上辨認出。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 1. 機轉 & 成因:Achalasia 意即無法放鬆,為食道括約肌在放鬆期仍維持緊張收縮。 原因尚未明,可能為感染性神經退化所致,嚴重情緒壓力、創傷、過度減重、查格 氏症(Chaga's disease)等都是懷疑的可能因子。食道肌和下食道括約肌都可能受 到影響,目前接受的假說是下食道括約肌受損和食道體肌肉神經退化所致,造成吞 嚥時,下食道括約肌高壓無法放鬆,而高壓擠壓食道造成擴張而中止蠕動前進。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (A) 現在的理論是支配 lower esophageal sphincter 之神經受損所致 Source: [[sources/med5-book4-ch05|戊、食 道]].

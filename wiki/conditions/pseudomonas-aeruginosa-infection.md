@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch15]]"
 aliases:
   - 'Pseudomonas aeruginosa infection (綠膿桿菌感染)'
   - 'Pseudomonas aeruginosa infection'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch15]]
 
 ## Key Details From Sources
 
+- | Uncomplicated UTI | (1)Escherichia coli 為主,佔 75~95% | |-------------------|---------------------------------------------------| | | (2)腸道菌,如 Proteus mirabilis 和 Klebsiella pneumonia | | | (3)Staphylococcus saprophyticus | | Complicated UTI | (1)包括上述致病菌 | | | (2)Pseudomonas, Serratia, and Providencia species | | | (3)黴菌 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - ...| | (C) 5. 骨科手術後最常見的傷口感染細菌,下列何者正確? 103( 二 ) 專 | (C) | | (A) Candida (B) Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 103(ニ)専 | (C) | | 膏固定後回家休息,晚上睡覺時覺得右腳越來越痛,他吃了止痛 醫五-74 | (-) | | 藥後,症狀稍有緩解,但仍然持續疼痛,下列醫療處置何者最 | | | 正確? | | Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 右小腿開放性骨折如果發生骨髓炎,最常見的菌種為綠膿桿菌(Pseudomonas aeruginosa) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 對於靜脈注射毒癮者感染骨髓炎,優先考慮的致病菌種分 別為金黃色葡萄球菌 (Staphylococcus aureus), 綠膿桿菌 (Pseudomonas aeruginosa) 和格蘭氏陰性菌 (gram-negative organisms) Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -82,7 +85,6 @@ tags:
 - ...nis / audouinii) | 綠色 | | | 變色糠疹 (Pityriasis versicolor) | 淡黃色或銅橘色 (coppery-orange) | | | 紫質症 (Porphyria) | 粉紅色尿液 | | | 綠膿桿菌 (Pseudomonas) | 黄綠色 | | | 痤瘡桿菌 (Propionibacterium acnes) | 橙色 | | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) 6. 足月兒出生時,母親有發燒症狀且羊膜已在出生前兩天破裂,嬰兒於出生後 8 小時開始明顯的呼吸窘迫,血壓下降,胸部 X 光呈現雙側全面的浸潤,並有少許肋膜腔積水,最可能的診斷為下列何者? - (A) 大腸桿菌(Escherichia coli) 感染 - (B) 綠膿桿菌 (Pseudomonas spp.) 感染 - (C) 肺炎鏈球菌 (Streptococcus pneumoniae) 感染 - (D) B 群鏈球菌(group B Streptococcus)感染 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (2) Pseudomonas aeruginosa 或 Serratia marcescens 在靜脈藥物注射病人較常見。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (4) 若有裝置人工瓣膜,感染病原體要考慮以下菌種:Staphylococcus epidermidis、 Staphylococcus aureus、Viridans group streptococcus、Pseudomonas aeruginosa、 Serratia marcescens、 Diphtheroids、Legionella spp.、HACEK group 以及 Fungi。 PS: HACEK group:Haemophilus species, Aggregatibacter species, Cardiobacterium hominis, Eikenella corrodens, and Kingella species. Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

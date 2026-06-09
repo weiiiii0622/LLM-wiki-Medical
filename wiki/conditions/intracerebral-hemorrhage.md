@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch03]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch16]]"
   - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Intracerebral hemorrhage, ICH (腦出血)'
   - 'Intracerebral hemorrhage, ICH'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-腦實質出血，常與高血壓、amyloid angiopathy、AVM、抗凝或腫瘤相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質出血，常與高血壓、amyloid angiopathy、AVM、抗凝或腫瘤相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch16]]
 - [[sources/med5-book2-ch05]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- | 母 親 | • 腦出血、中風、肺水腫、肝腎衰竭、DIC、母親死亡 | |-----|----------------------------| | 胎兒 | • 胎兒生長遲緩、早產、胎兒死亡 | | 胎盤 | • 胎盤剝離 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B) preeclampsia 會增加腦出血(cerebral hemorrhage)、肺水腫(pulmonary edema)及凝血功能異常(coagulopathy)的危險。當收縮壓高於 160 mmHg 時就應積極控制血壓預防腦出血 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 【詳解】機械型瓣膜病人須終身服用抗凝血劑,出血風 險相對組織型來得高,故不適合計劃生育之女性(Post partum hemorrhage),也不適合老年人(ICH)與血友病患者 (Coagulopathy),另有研究顯示裝有組織型瓣膜的洗腎患者較 不易流血且洗腎通路較不易阻塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 5. 顱內動脈瘤最危險的地方在於動脈瘤破裂,造成 SAH (最常見)、ICH (intracerebral hemorrhage, 20~40%)、IVH (intraventricular hemorrhage, 13~28%)或 SDH (2~5%)。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
@@ -63,8 +67,6 @@ tags:
 - ...| | 缺血性 (75) | | Atherothrombotic | 75%×50% | | | 欧皿住(/5) | | Cardioembolic | 75%×25% | | 腦血管疾病 (CVA)=中風 (Stroke) 的分類 | ICH (15)出血性 (20)SAH (5) | HTN | 15%×50% | | | | | ICH (15) | Amyloid angiopathy | 15%×30% | | | | CATI(E) | Aneurysm | 5%×75% | | | | SAII (5) | AVM | 5%×5% | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 腦血管疾病俗稱中風(stroke),血管病變中,梗塞(infarction)占 84%,即血管被粥狀硬化阻塞或被心臟來的血栓塞住等,導致血液供應不到遠端腦組織,造成缺血性腦中風(ischemic stroke);出血(hemorrhage)占 16%,即血管壁因高血壓或先天性異常而破裂,血液流到腦組織中(ICH)、蜘蛛膜下腔(SAH),造成出血性腦中風(hemorrhagic stroke)。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...---------------------------------| | 原發性頭痛(Primary headache) | 緊縮型頭痛(最常見、但少考)偏頭痛(常見、也愛考)叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血管炎 (Temporal arteritis) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- 1. 顱內壓太高 (increased intracranial pressure = IICP): - (1) 特徵: - a. 這類頭痛通常慢慢發生;早上起來最痛,因為平躺一晚,水往頭部分佈,腦 壓增加使然。其他咳嗽、身體彎曲等使腦壓增加的狀況也會惡化頭痛。 - b. 腦壓太高,會造成頭痛、嘔吐;還會造成視乳突水腫(papilledema),而有視力模糊等症狀。 - c. 若腦壓高到造成 tentorial herniation, 會壓到第三對腦神經、中腦,造成瞳孔 放大、失去光反射。 - d. 若使延腦受到壓迫,會有 Cushing triad:血壓高、心跳慢、呼吸不規則。 - (2) 病因: - a. 常需影像學進一步找出 IICP 原因,嚴重的中風導致腦水腫?腦出血?腫瘤? Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (A) 額葉部腦出血(frontal lobe hemorrhage) Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 

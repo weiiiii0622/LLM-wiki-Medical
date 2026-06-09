@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Thalassemia (地中海型貧血)'
   - 'Thalassemia'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-globin chain 生成異常造成小球性貧血與溶血，依 alpha/beta 與嚴重度分類。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+globin chain 生成異常造成小球性貧血與溶血，依 alpha/beta 與嚴重度分類。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ globin chain 生成異常造成小球性貧血與溶血，依 alpha/beta 與嚴�
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- a. 簡介: 地中海型貧血為台灣最常見的單基因遺傳性疾病,台灣約有 6% 為帶 因者,身體狀況通常與一般人相似。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 若先生亦為 MCV ≤ 80, 夫妻雙方須接受 血紅素電泳及缺鐵性貧血檢查 檢查結果 - i. 為缺鐵性貧血:鐵劑治療及追蹤 - ii. 夫妻為不同型地中海型貧血帶因者: 不會造成胎兒罹患重型地中海型貧血 - iii. 夫妻為同型地中海型貧血帶因者:胎兒 有 1/4 的機會罹患重型地中海型貧血, 須取胎兒檢體(如絨毛採樣、羊膜穿 刺等)作確認,一旦確認胎兒為重型 地中海型貧血,可考慮中止妊娠 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ※ 夫妻雙方只要任一方 MCV > 80, 便可排除胎兒罹患重型地中海型貧血的可能 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Ⅱ. 血紅素疾病 349 - A. 鐮刀型貧血 349 - B. 地中海型貧血 349 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 3. α-thalassemia 是因為染色體 16 的基因有缺損(deletion)。β-thalassemia 為體隱性遺傳,是因為染色體 11 的基因被取代(replaced)。(記:看 A 片很低級,B 咖容易被取代。) Source: [[sources/med4-book1-ch08|辛、血液學]].

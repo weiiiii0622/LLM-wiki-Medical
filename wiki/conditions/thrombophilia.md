@@ -17,6 +17,8 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book6-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Thrombophilia (血栓傾向)'
   - 'Thrombophilia'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,14 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book6-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- 註:有高血脂症、活動性膽囊疾病或血栓形成體質(thrombophilia)的婦女應避免使用口服雌激素。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...·染色體異常的父母可於自然懷孕後抽羊水檢查胎兒染色體是否正常或考慮試管嬰兒併 PGT-A/PGT-M來避免植入染色體異常的胚胎。 ·若無法正常懷孕,亦可考慮配子捐贈、代理孕母和領養等 | | 血栓因素(rare) | · inheritedthrombophilia | Factor V、prothrombin (西方人)Protein S/C、Anti-thrombin III (東方人) | · 於懷孕時給予抗凝血藥物治療 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (C) 血栓形成 (thrombophilia) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (1) 約 10~12% 會發生在雙側,但不會同時發生。發生原因至今仍未定論,推測是 abnormal clotting factors (Protein S and Protein C deficiency) 造成或是 vascular abnormality 造成供應 femoral head 的血流變少造成。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - 5. 檢查: antithrombin III、protein C、protein S、Factor V Leiden mutation、Hyperhomocystinemia、Lupus anticoagulant。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (A) 高脂肪與蛋白質攝取 (high fat or protein consumption) Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -66,9 +73,6 @@ tags:
 - 1. 在台灣抗凝因子缺乏的發生率: Protein S 缺乏 > Protein C 缺乏 > Antithrombin III 缺乏 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - ...time 55" (control: 28"),thrombin time 14.7" (control: 5.1"),以下何者是最優先要做的檢查? (A) lupus anticoagulant (B) factor VIII (C) protein S | 105(一)專醫三-12 | | | (D) protein C | | | | 【 詳解 】APS 的檢驗異常包括 prolonged aPTT 及 false positive RPR。 | | | (D) | 8. 下列對於全身性紅斑性狼瘡(SLE)病人血清中的各種自體抗體的描述,何者最為正確? (A) anti-RNP 對於診斷 SLE 的特異性最高 (B) anti-histone 抗體與 SLE 的腎炎最有相關 (C) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...-------------------| | 機轉 | 抑制凝血因子製造 | 抑制凝血因子活化 | | | 抑制 vitamin K epoxide reductase | 主要抑制 10a; | | | →減少 Vit K 再生 | 與 Antithrombin 結合,加強其作用, | | | →減少 Vit K 促進的 2,7,9,10 製造 | →抑制 Thrombin | | | →其中 7a 半衰期最短 | →而使其減少促進 5a、8a、11a 的活化 | | | → PT 延長 | → aPTT 延長 | | 發生藥效時間 | 慢(須等正常凝血因子消耗完) | 快速(幾秒) | | 作用位置 | 肝臓中 | 血液中 | | 中毒的解藥 | Vitamin K | Protamine Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (C) antithrombin III deficiency Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- 【詳解】(A)、(B) 前文以說明產生血栓的原因,(C) Protein C 是 Natural anticoagulant,若是缺乏了,也是較易產生血栓。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...DNA* | SLE (Dis. Activity) | | | | (Diffuse chromatin) | Anti-histone | Drug induced LE | | Nucleo-plasmic | Ribonucleo-Protein Centromere (Ic 硬皮病) | 細斑點型(Fine Speckled) | SSA · SSB | Sjögren's syn. | | (核質) | | 粗斑點型 | Anti-Sm | SLE | | | | (Coarse S.) | Anti-RNP | MCTD,雷諾氏現象 | | | | 不連續斑點(Discrete S.) | Anti-centromere | lcSSc ( C R E ST syn.) | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

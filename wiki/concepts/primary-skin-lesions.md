@@ -28,6 +28,10 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book6-ch06]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch06]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch12]]"
 aliases:
   - 'Primary skin lesions (基本皮膚病灶)'
   - 'Primary skin lesions'
@@ -42,7 +46,7 @@ tags:
 
 ## Summary
 
-以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +74,17 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book6-ch06]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch06]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch12]]
 
 ## Key Details From Sources
 
+- | Anterior trunk | Posterior trunk (大部分肌肉) | |----------------------|-------------------------| | 閉孔 Obturator | 髂腰 Iliolumbar | | 上膀胱 Superior vesical | 薦側 Lateral sacral | | 子宮 Uterine | 上臀 Superior gluteal | | 陰道 Vaginal | | | 下膀胱 Inferior vesicle | | | 中直腸 Middle rectal | | | 內陰 Internal pudendal | | Source: [[sources/med6-book1-ch06|甲、胚胎解剖學 (Embryology and Anatomy)]].
+- ...生殖道或口,有高度傳染性(80%的女性接觸後感染); - b. 臨床表現:影響陰唇陰道和肛門周圍區域,起初皮膚發炎,有灼熱、搔癢和神經過敏(hyperaesthesia)感覺,若影響尿道會造成排尿困難,接著疼痛的小硬結(indurated papule)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒感染可能造成疱疹性腦炎;急性期約 4~5 天,病灶癒合需要 8~10 天,病毒會潛伏於薦椎神經節,日後可能復發; - c. 診斷:病毒培養、ELISA 或免疫螢光法偵測病毒抗原。 - d. 治療:冰敷、局部麻醉(2% lidocaine)、NSAID 和 acyclovir 3% 軟膏,以及 發病五天內使用口服 acyclovir 200 mg 一天 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (A) 11. 卵子生成過程中,胚泡崩解(germinal vesicle breakdown, GVBD) 現象出現,代表減數分裂的那一個階段? - (A) 重新啟動減數分裂 I (meiosis I) - (B) 完成減數分裂 I (meiosis I) - (C) 完成減數分裂 II (meiosis II) - (D) 完成受精 (fertilization) Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...----------------------------------------------------------------------------|--| | 壓力參數 (cmH2O) | 説 明 | | | 膀胱內壓力 (Intravesicle pressure, Pves) | 壓力感測器置於膀胱測得 | | | 尿道內壓力 (Intraurethral pressure, Pure) | 壓力感測器置於尿道測得低尿道壓力表示可能有內因性括約肌無力,與老化、低雌激素、多產次和婦女泌尿道大手術史有關 | | | 尿道關閉壓力 (Pclose) | ・尿道內壓力 (Pure) -膀胱內壓力 (Pves)・平均最大值 (女):90 ( &lt; 25 y/o);65 ( &gt; Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - 3. 症狀: 肌腱動的時候會有如扣板機般喀喀聲響, 有時肌腱會卡在 flexion 姿勢,需要外力才能伸 直。大部分的病人按壓 A1 pulley 會有疼痛的 感覺,可摸到 nodule (結節)。 Source: [[sources/med5-book6-ch06|己、手部]].
 - (B) 1. 王媽媽的左手中指在彎曲及伸直的交替動作中,肌腱在掌指關節 108(二)專 處基部摸到結節 (nodule),且有時會產生聲響,影響手指活動, 醫五-13 王媽媽得了什麼疾病? - (A) 鎚狀指 (mallet finger) - (B) 扳機指 (trigger finger) - (C) 狹窄性肌腱滑膜炎(de Quervain tenosynovitis) - (D) 手部鈕扣畸形 (bontonniere deformity) Source: [[sources/med5-book6-ch06|己、手部]].
 - 下列何者錯誤? 醫五-62 - (A) 通常在 A2 滑車 (pulley) 處可觸摸到結節 (nodule) - (B) 年紀小於九個月大的病患,常有自癒的可能 - (C) 大部分病例沒有家族史 - (D) 通常沒有發炎反應 Source: [[sources/med5-book6-ch06|己、手部]].
@@ -87,10 +99,6 @@ tags:
 - (7) 處置:藥物可給予前列腺素(PGE1)維持動脈導管的通暢,以減緩陣發性呼吸 困難(缺氧性)。但如須完全矯正仍需要手術。 - a. 完全矯正手術 (total correction): - (a) 將 VSD 修補以及右心室出口或肺動脈狹窄處擴大術,以心包膜片(pericardial patch)來擴大狹窄的肺動脈瓣環(pulmonary valve annulus)。但假 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 4. 主動脈窄縮症 Coarctation of Aorta(CoA): 為 PDA 附近胸 主動脈狹窄,屬於左心出口遠端的問題,不需要使用肺動脈 作材料去修補,用牛或馬心包膜 patch enlargement repair 即可。故答案選擇①與③。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- F. 單一甲狀腺結節 (Solitary thyroid nodule) 201 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 受檢者服用核種( $Tc_{99m}$ 或 $^{131}I$ )後,再去偵測甲狀腺結節對於核種的攝取情形並和周圍正常組織作比較,依攝取的情況可分為 Hot nodule(攝取過量)及 Cold nodule(攝取較少或無攝取)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 2. 結節性 (nodular) 甲狀腺腫大: - (1) 多發性: - a. Iodine deficiency: $T_3 \cdot T_4$ 下降(碘供應不足,使得甲狀腺代償而增生腫大)。 - b. Plummer's disease: T3、T4上升(甲狀腺因碘不足而代償增生後,導致甲狀腺細胞 TSH receptor 突變,大量分泌 T3、T4,又叫作 toxic multinodular goiter)。 - (2) 單一性: - a. 良性膠體性結節 (60%, colloid nodule): T3、T4正常。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 冠狀動脈負責輸送血液和氧氣供給心臟,而低密度膽固醇堆積(lipid deposition) 於血管內壁,會形成粥狀斑塊(atherosclerotic plaque),血管內徑變窄血流供應變少, 便造成心肌缺血而對心臟造成傷害。當血管內皮細胞受損(endothelial injury)造成粥 狀斑塊的破裂,從而活化血液凝結使得血栓形成塞住血管,造成心肌梗塞。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 
 ## Clinical Caveats
 

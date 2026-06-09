@@ -20,6 +20,10 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Conventional DMARDs (傳統疾病修飾抗風濕藥)'
   - 'Conventional DMARDs'
@@ -34,7 +38,7 @@ tags:
 
 ## Summary
 
-RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +58,19 @@ RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結
 - [[sources/med4-book2-ch07]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- (1) 藥物治療:以 methotrexate (MTX) 為主。 - a. 理想藥物治療條件: Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (B) 輸卵管子宮外孕接受 methotrexate (MTX)治療的病患,比接受輸卵管造口術 (salpingostomy)治療的病患再次外孕的風險尤高 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 【詳解】研究顯示,以 methotrexate 治療子宮外孕,其治療效果、 生殖預後和外孕復發皆和輸卵管造口術(salpingostomy)相當, 故選(B)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】妊娠 7~9 週前的懷孕中止最常用的藥物為 Misoprostol,可單獨使用或合併 Mifepristone 或 Methotrexate 使用。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- | Re | gimen | • methotrexate (MTX) 或 actinomycin-D (Act-D) | |----|-------|------------------------------------------------| | Co | urse | ・ 使用至 remission (連續 3 次 β-hCG 達正常值)後追加 1~2 個療程 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - c. 系統性疾病:使用化療藥物。主要的化療藥物:bleomycin、methotrexate、cisplatin 或 5-fluorouracil。放射線治療效果不彰。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
@@ -69,12 +83,6 @@ RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結
 - (1) Methotrexate(MTX):治療慢性塊狀乾癬或乾癬性關節炎的第一線用藥。最常見的副作用為噁心、疲倦、食慾減退、骨髓抑制造成白血球下降以及肝毒性,故有肝病史和酗酒者不適此療法,可能引發肝纖維化或肝硬化的危險。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 治療:以類固醇為主要治療方式。若效果不佳,可以考慮脈衝治療。有時可以 考慮免疫抑制劑 azathioprine、hydroxycloroquine、cyclosporine 或是 methotrexate 合併治療。若效果不好的話考慮 IVIG。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- | DMARD | 作用機轉 | 常用於何種疾病 | |--------------------|------------------------------|----------------------------| | Methotrexate | 抑制 dihydrofolate reductase → | 多種風濕疾病都可使用,如 | | | 抑制 purine 生成→抑制發炎 | JRA, SLE, dermatomyositis… | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...ions),與 Anti-Ro (SSA) 有關。 | | Chronic | Discoid lupus | 週邊紅腫脫屑,中央因全層皮膚都被破壞而萎縮凹陷; | | (Mild) | erythematosus (DLE) | 以口服 Hydroxychloroquine、局部擦類固醇治療。 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- 2. 若懷孕前, 須以 Hydroxychloroquine 控制病情, 建議繼續服用。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- (B) 1.31 歲王小姐被診斷為全身性紅斑狼瘡併腎炎約7年,初發病時經過 prednisolone 與 mycophenolate 治療後,近5年24小時尿蛋白都小於0.5克,血中 creatinine 為0.6 mg/dL,目前用藥為 prednisolone 每日5毫克加 hydroxychloroquine 200毫克。王小姐因近日即將結婚,有懷孕的計畫,所以到門診來諮詢是否需調整藥物。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- (3) Sulfasalazine:對周邊關節較有效,以周邊關節表現的患者建議先使用此藥,無效 再使用 Anti-TNF α 生物製劑。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- (2) Sulfasalazine 對於 Persistent ReA 的症狀緩解可能有幫助。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

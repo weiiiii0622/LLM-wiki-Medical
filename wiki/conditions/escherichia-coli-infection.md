@@ -31,6 +31,9 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch15]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Escherichia coli infection (大腸桿菌感染)'
   - 'Escherichia coli infection'
@@ -45,7 +48,7 @@ tags:
 
 ## Summary
 
-E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +79,17 @@ E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已�
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch15]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | Uncomplicated UTI | (1)Escherichia coli 為主,佔 75~95% | |-------------------|---------------------------------------------------| | | (2)腸道菌,如 Proteus mirabilis 和 Klebsiella pneumonia | | | (3)Staphylococcus saprophyticus | | Complicated UTI | (1)包括上述致病菌 | | | (2)Pseudomonas, Serratia, and Providencia species | | | (3)黴菌 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
+- ※ 複雜性泌尿道感染易出現抗藥性菌株,如 extended-spectrum beta-lactamase (ESBL) *E. coli* 或 fluoroquinolone-resistant *E. coli* Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
+- (C) 1.25 歲 G2P1 孕婦,妊娠 13 週,因外陰搔癢求診。尿液細菌培養檢驗出現 100,000 cfu/mL 大腸桿菌(E. Coli),並無其他性傳染疾病徵候。此孕婦並無解尿困難、解尿疼痛、頻尿及漏尿症狀;亦無下腹部及腰部壓痛、疼痛症狀,體溫正常,此時的最適當處置為: - (A) 不需治療 - (B) 出現泌尿道感染症狀時開始治療 - (C) 立即給予抗生素治療 - (D) 目前不需治療, 待產時給與抗生素治療 Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
+- ...------------------------------|--| | 致病菌 | • 最常見為 Staphylococcus aureus (金黃色葡萄球菌) | | | | • 其他如 Streptococci viridans 和 E. coli 等 | | | 症 狀 | • 乳房紅腫、脹痛、發燒和冷顫 | | | 處置 | • 消炎止痛藥使用伴隨冰敷以減輕乳房脹痛 | | | | • 持續哺乳或擠出乳汁,可避免膿瘍形成 | | | | • 經驗性抗生素須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- | 常見 | ・ 披衣菌 (Chlamydia trachomatis) 最常見 | | |-----|-------------------------------------------------------------------------|--| | | ・ 其次為淋病雙球菌 (Neisseria gonorrhoeae) | | | 其 他 | • Streptococci、Gram negative enteric bacilli (如 E. coli, Klebsiella spp | | | | and Proteus spp) 和一些厭氧菌 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 3. 病菌:大多數 UTI 是單一致病菌造成。並非有進入泌尿道的細菌就會感染,還是有菌種或亞型的差異。 - (1) 非複雜 (uncomplicated:指女性無懷孕且感染後無嚴重併發症)膀胱炎、腎盂腎炎:80% 是 *E. coli* (亞型 O 為主)。其他 20% 為 Klebsiella、Proteus 或 *Enterobacter* spp. 或 Enterococci。 - (2) 住院中得到 UTI:可能的菌種很多,甚至包括 Pseudomonas 或 *Staphylococcus* spp.。若是 *Staphylococcus aureus*,常是從其他處經血液傳播而來。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...ative cocci | | | | Neisseria gonorrhoeae | Ciprofloxacin plus doxycycline | Ceftriaxone | | Gram-negative rods | | | | Escherichia coli | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin | | Enterobacter spp. | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin plus piperacillin | | Gardnerella vaginalis | Metronidazole, ampicillin | Metronidazole | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...erapy | |-----------------|----------------|-----------------------------------|-------------------------| | Cystitis | E. coli | 1ST: TMP-SMX | 1~3 days | | | Klebsiella | 2nd: Fluoroquinolone | | | Pyelonephritis | E. coli | 1st: Fluoroquinolone | 7~10 days | | | Proteus | 2nd: 2nd generation cephalosporin | | | | Klebsiella | 3rd: Aminopenici Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -92,11 +103,6 @@ E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已�
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...上題,若 stool culture 長出何種細菌,則會被認為是 antibiotic associated colitis? (A) Clostridium difficile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - 100(一)專醫五-11 | | (D) 22. 承上題,此時會選擇何種藥物治療? (A) 注射 clindamycin | 100(一)專醫五-12 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (A) 大腸桿菌 O157: H7 (E. coli O157: H7) Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (B) 大腸桿菌(Escherichia coli) Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 105(一)專 (D) 6. 下列何者不是造成新生兒先天性感染之重要病原體? 醫四 -5 (A) 巨細胞病毒 (B) 梅毒螺旋體 (C) 弓蟲症 (D) 麻疹病毒 (B) 7. 造成早發性(early-onset)新生兒感染的細菌中,最常見的格蘭 105(一)專 醫四 -7 氏陽性菌為: (A) 金黃色葡萄球菌 (B) B 群鏈球菌 (C) 肺炎雙球菌 (D) 大腸桿菌 (D) 8. 下列那一種病原最不常發生母子之間的垂直感染? 101(一)專 醫四-1 (A) Cytomegalovirus (B) Syphilis (C) Rubella (D) Epstein-Barr virus 【詳解】(A)(B)(C) 均為先天性感染中常見的病原體,(D) 反而 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 1. 未規則產檢的媽媽急產,其新生兒因呼吸窘迫住院,細菌室通知 108(二)專 血液培養長革蘭氏陽性球菌,下列何者為最可能造成此新生兒敗 醫四-4 血症的細菌? - (A) Staphylococcus aureus - (B) Streptococcus agalactiae - (C) Escherichia coli - (D) Listeria monocytogenes Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (D) 6. 足月兒出生時,母親有發燒症狀且羊膜已在出生前兩天破裂,嬰兒於出生後 8 小時開始明顯的呼吸窘迫,血壓下降,胸部 X 光呈現雙側全面的浸潤,並有少許肋膜腔積水,最可能的診斷為下列何者? - (A) 大腸桿菌(Escherichia coli) 感染 - (B) 綠膿桿菌 (Pseudomonas spp.) 感染 - (C) 肺炎鏈球菌 (Streptococcus pneumoniae) 感染 - (D) B 群鏈球菌(group B Streptococcus)感染 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 4. 一位 2 歲兒童因首次罹患左側中耳炎接受 amoxicillin 90 mg/kg/ day q8h 治療, 3 天後仍然持續發燒,並因耳膜破裂出現膿液, 膿液的檢查發現有革蘭氏陰性細菌。所發現的細菌最可能是下 列那一種? - (A) Streptococcus pneumoniae - (B) Haemophilus influenzae - (C) Pseudomonas aeruginosa - (D) Escherichia coli Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

@@ -2,11 +2,12 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book3-ch23]]"
   - "[[sources/med5-book3-ch22]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med6-book1-ch03]]"
 aliases:
   - 'Breast ultrasonography (乳房超音波)'
   - 'Breast ultrasonography'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-評估乳房腫塊囊性或實質性，常用於年輕或緻密乳房，也可導引切片。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估乳房腫塊囊性或實質性，常用於年輕或緻密乳房，也可導引切片。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book3-ch23]]
 - [[sources/med5-book3-ch22]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med6-book1-ch03]]
 
 ## Key Details From Sources
 
+- ...須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時無效果,應安排乳房超音波,檢查是否有 | | | | breast abscess | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - 1. 乳癌的檢查篩檢可分為: - (1) 身體理學檢查:建議每月月經結束後一星期,自我檢查乳房,若有異常應立即 就醫。 - (2) 影像學檢查:乳房超音波、乳房攝影、乳房核磁共振。 - (3) 病理確診:FNAC、CNB、Mammotome、Surgical biopsy。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 3. 乳房超音波為 operator-dependent,診斷率與操作者經驗與技術相關。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - (2) 在歐美為 gold standard 的篩檢工具,但由於亞洲女性乳房較為緻密,有時易受干擾,必須輔以乳房超音波協助診斷,或先以乳房超音波作為篩檢工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].

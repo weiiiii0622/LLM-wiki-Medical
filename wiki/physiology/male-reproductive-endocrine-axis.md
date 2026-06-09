@@ -8,6 +8,11 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch03]]"
 aliases:
   - 'Male reproductive endocrine axis (男性生殖內分泌軸)'
   - 'Male reproductive endocrine axis'
@@ -22,7 +27,7 @@ tags:
 
 ## Summary
 
-GnRH-LH/FSH-testosterone 軸調控 Leydig cell testosterone 與 Sertoli cell spermatogenesis。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+GnRH-LH/FSH-testosterone 軸調控 Leydig cell testosterone 與 Sertoli cell spermatogenesis。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +35,24 @@ GnRH-LH/FSH-testosterone 軸調控 Leydig cell testosterone 與 Sertoli cell spe
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch03]]
 
 ## Key Details From Sources
 
+- ...stromal tumors): 佔 10% | • Estroger | 1 | Granulosa cell tumor | | | | producir | ng | Thecoma | | | | • Androge | en | Sertoli-Leydig cell tumor | | | | producing | | Hilar cell tumor | | | | | | Lipoid cell tumor | | | 生殖細胞腫瘤 (germ cell | ・良性 | Ma | ture cystic teratoma (dermoid cyst) | | | tumors):佔 20% | (90%) | Mo | nodermal highly speciali Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 生殖細胞 | 可能產生 dysgerminoma 或 choriocarcinoma 等腫瘤 | |------|-------------------------------------------------------| | 間質細胞 | 可能產生 granulosa cell tumor 或 Sertoli-leydig cell tumor | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (B) 2. 有關非上皮性卵巢癌的病理敘述如下:The large round, ovoid, or polygonal cell have abundant, clear, vary-pale-staining cytoplasm, large - (A) 卵巢支持間質細胞瘤(Sertoli-Leydig cell tumor) - (B) 無性胚胎瘤 (dysgerminoma) - (C) 成人型卵巢顆粒性細胞瘤(adult-type granulosa cell tumor) - (D) 卵巢內胚層竇瘤 (endodermal sinus tumor) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 濾泡期 | 月經週期第一天至 LH surge | |-----|-------------------| | 黄體期 | LH surge 至下次月經 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (1) 濾泡的發育是受到 FSH 和 LH 調控。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (2) 青春期前下視丘 腦垂體 卵巢軸線未成熟,無法產生 FSH,濾泡通常未發育即閉鎖;青春期後,FSH、LH穩定產生,可促使濾泡發育成熟並排卵,成熟濾泡排卵後便形成黃體。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | 受孕率 | ・ 每一次月經週期能受孕的機率,平均每個月約 15% | |-----------------|---------------------------------------------| | (fecundability) | ・ 婚後前 3 個月> 20%,4~6 個月約 10~20%,超過 6 個月 15 mIU/mL,表示卵巢功能衰退 | | | · FSH 在整個月經週期波動大,準確性較差。 | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- Estradiol \ LH \ \ Progesterone | TSH \ \ free T4 | Prolactin | Testosterone \ \ DHEA-S Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (D) AMH 值無法用來預測卵巢對於 FSH 刺激的反應 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...| 織的蛻膜化及萎縮 | • 長期使用需注意骨質疏鬆及血脂 | | | | 異常 | | GnRH | ・使腦垂體受器 down-regulation, | • 停經症候群 ( 如熱潮紅、陰道乾 | | agonists | 而無法產生 LH 和 FSH,抑制卵 | 澀、性慾降低等) | | - | 巢功能,達到假性停經的狀態 | ・骨質疏鬆 | | | • 肌肉或皮下注射,合成製劑半衰 | | | | 期長,目前有一個月一劑或三個 | | | | 月一劑兩種劑型。目前亦有鼻噴 | | | | 劑劑型,但須每天使用。 | | | GnRH | • 直接抑制腦垂體,進而抑制卵巢 | ・ 停經症候群 ( 如熱潮紅、陰道乾 | | antagonist | 功能,達到假性停經的狀 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (b) 內分泌方面(Hormonal): - i. 性腺功能不足(=睪固酮分泌减少,最常見內分泌造成 ED 的原因)。 - (i) 腫瘤:下視丘或腦下垂體腫瘤使 LH 過低→睪固酮分泌減少。 - (ii) 藥物:前列腺癌病人接受睪丸切除術或使用女性荷爾蒙 / 抗男性 賀爾蒙,造成睪固酮分泌減少。 - ii. 高泌乳激素症:抑制 LH,造成睪固酮分泌减少。 - iii. 甲狀腺機能亢進/低下。 - iv. 腎上腺皮質機能亢進/低下。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...xed factors) | 107(一)專醫五-70 | | (B) | 7.30 歲林先生,結婚已一年不孕。在不孕症門診發現精液量很少(醫五-71 | | (B) | 8. 有關生殖內分泌的描述,下列何者為非? (A) 男性荷爾蒙是由 Leydig cells 所分泌 (B) 男性荷爾蒙的分泌是受濾泡刺激激素 FSH (follicle stimulating hormone) 調控 (C) 腦下垂體性腺激素 (pituitary gonadotropins) 的分泌是受 GnRH (gonadotropin releasing hormone) 的調控 (D) 混合因素 (mixed factors) 【詳解】(B) 是 LH。 | 106 (二)專醫五-69 | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - | (#) 9. 一位 30 歲無精蟲的病人,兩側睪丸長徑約 1 cm,血清中 FSH、 | 106(二)專 | |-----------------------------------------------------|-----------| | LH 及 testosterone 都低於正常值,則最適當的檢查或治療為何? | 醫五 -71 | | (A) 卵細胞質內精蟲注射(ICSI) | | | (B) 先做睪丸切片看有無精蟲 | | | (C) HCG + recombinant FSH 注射治療 | | | Source: [[sources/med5-book5-ch08|辛、男性學]].

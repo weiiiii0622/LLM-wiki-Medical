@@ -2,11 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Fragile X syndrome (脆折 X 症候群)'
   - 'Fragile X syndrome'
@@ -21,16 +23,22 @@ tags:
 
 ## Summary
 
-FMR1 CGG repeat expansion 造成智能障礙、自閉特徵與長臉大耳等表現。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+FMR1 CGG repeat expansion 造成智能障礙、自閉特徵與長臉大耳等表現。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ### (3) X 染色體脆折症 (Fragile X syndrome): Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...| | | | | |-----------------|----------------------------------------|--|--|--|--|--|--|--| | | 障礙的原因 | | | | | | | | | FMR1 基因 | ・ FMR1 基因位於 X 染色體上之 Xq27.3,此基因上有 CGG 重 | | | | | | | | | | 複,正常範圍為 5~44 個 CGG 重複 ( 最常見者為 30 個 CGG | | | | | | | | | | 重複 ),FMR1 基因經轉錄轉譯可產生 FMR 蛋白質 | | | | | | | | | | ・ 正常範圍的 CGG 重複,FMR1 基因可正常產生 FMR 蛋白質 | | | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- **※FMR1**: fragile X mental retardation-1 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | 染色體和基因問題 | 染色體問題,如 Turner syndrome、Fragile X syndrome | | |----------|----------------------------------------------|--| | | 基因問題,如 FSH receptor mutations、Aromatase gene | | | | mutations | | | 自體免疫性疾病 | Isolated autoimmune ovarian failure | | | 代謝性疾病 | Galactosem Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...k-Higashi sy | ndrome | | | | SCA-3 spinocerebel | llar ataxia | | | | X-linked dystonia-p | arkinsonism (DYT3) | | | | Fragile X permutation a | associated ataxia-tremor-parkinsonism syndrome | | | | Huntington's diseas | e (Westphal variant) | | | | Prion disease | | | | Miscellaneous | Vascular parkinsoni | sm | | | acquired | Normal pressure h Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 2. 遺傳因子: 許多研究顯示約 2~4% 自閉症患者的兄弟姐妹也是自閉症,是正常人的 50 倍。某些遺傳性疾病如 fragile X syndrome、tuberous sclerosis 也通常會合併有自閉症。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - (D) fragile X syndrome 是智能障礙常見的成因之一 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].

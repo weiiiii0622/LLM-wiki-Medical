@@ -41,6 +41,9 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Aspirin (阿斯匹靈)'
   - 'Aspirin'
@@ -55,7 +58,7 @@ tags:
 
 ## Summary
 
-抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +99,19 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...| | | | ・使用 GnRH agonist 作為破卵針 | | | | | | ・ 在打破卵針當天開始使用 dopamine agonist ( 如:cabergoline) | | | | | B級(證據尚可) | ・冷凍胚胎・使用阿斯匹靈・給予鈣離子 | | • 給予鈣離子 | | | C級(證據不足) | ・使用 coasting (暫停施打排卵針幾天) | | | | | | ・使用低劑量之 hCG 當破卵針 ・使用白蛋白 (albumin) | | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...r 造成術後沾黏,目前不建議使用。 | | | | 術後 ・ 高劑量荷爾蒙: 使受損的內膜儘快恢復。 | | | | | | · 增加內膜血流藥物,幫助內膜生長:Sildenafil、 | | | | | Vit E 和 Low-dose aspirin 等。 | | | Physical barriers | ・IUD:放置 1~3 個月。 | | | | | ・ 術後放置兒童導尿管或子宮腔氣球支架 7~10 天。 | | | | | Auto-cross-link hyaluronic acid gel | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...60%的反覆性流產; 40~50% 仍為不明原因。 - a. 反覆性流產的五大類成因中,免疫因素為最重要的成因;而造成第二孕程流 產最重要的原因為子宮因素。 - b. 對於不明原因之反覆性流產,可考慮給予 progesterone、hCG、aspirin & heparin、IVIG等,不過,臨床實證皆不足(僅 progesterone 有較多的實證),需要更多的研究來證實其效用。 - (2) 有些造成流產的原因,如個人因素(如肥胖、壓力大)、個人習慣(如抽菸、飲酒過量、咖啡過量)、環境因素(如化學物質、空氣汙染)和感染…等,可能和單次流產有關,和反覆性流產不一定相關。不過,生活方式和習慣的調整仍是必須的。 - (3) 此外,男性精蟲的品質和女性卵子的品質也可以列入評估,品質不佳的精蟲 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...考慮代理孕母或領養 | | 免疫因素(25%) | · Antiphospholipid syndrome | · Anticardiolipinantibodies(IgG 和 IgM)· Lupus anticoagulant | · Aspirin + heparin | | 內分泌因素(20%) | ·糖尿病控制不佳·多囊性卵巢症候群·甲狀腺疾病(亢進、低下、自體抗體)·高泌乳素血症·黃體機能缺陷 | ・糖尿病和多囊性卵巢症候群篩檢・甲狀腺功能和抗體・血中泌乳素 | · 控制甲狀腺功能和糖尿病 · 多囊性卵巢症候群使用 Metformin 治療 · 高泌乳素血症使用 Bromocriptine 治療 | | 遺傳因素 (3~5%) | · 染色體數量異常(最常見的為 aneup Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (A) 告知太太有抗磷脂質症候群(antiphospholipid syndrome), 應立即開始服用 aspirin Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (1) 低劑量阿斯匹林 (aspirin): Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | UMA (aspirin). | | | |----------------------------------------------|--|--| | • 為目前最有效的預防方法 | | | | • 研究顯示,可降低子癲前症發生,減少早產,減少母親及併發症 | | | | | | | | 血管內皮受破壞 | | | | • 子癲前症高風險的孕婦,風險高低可由下列因子評估 | | | | a. 臨床因子:前述風險因子,有一項高度風險或兩項中度風險 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - a. 良性骨瘤。好發於五歲到十五歲的年輕人或小孩,男稍多於女(約2:1)。 常在晚上感到劇烈疼痛(night pain),如果服用**阿斯匹靈、NSAID**等消炎劑 可明顯減緩疼痛。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...| | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考慮 | 71 00 | | | osteoid osteoma | | | | (C) 腰椎解離(spondylolysis)通常休息時背痛加劇,而運動可 | | | | 以緩解 | | | | (D) 腰椎椎間盤突出症不會發生在小孩子 | | | | 【詳解】(A) 小孩子較常見的是生長痛;生長痛較常見於四肢 | | | | 骨。(B) OO 好發於 10~20 歲孩子,常見在脊椎跟四肢骨,會造 | | | | 成 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (C) Aspirin 不能提供良好的止痛效果 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
@@ -110,13 +123,6 @@ tags:
 - ...py \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Less effective | | | | Steroids | 用於 Severe exacerbations | 用於 Severe exacerbations | | | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - ...結腸,血液檢查正常,無發燒現象,下列何者並非現階段 醫五-55 之治療選項? (A) 禁食牛奶製品 (B) 給予抗生素 (D) 給予磺胺類藥物 (C) 給予類固醇 【詳解】依題意描述,此病人推測是潰瘍性大腸炎,給予類固 醇和磺胺類藥物(5-ASA)可改善發炎情形,奶製品應避免。血 液檢查正常又無發燒現象,現階段沒有給予抗生素的需要。 (A) 6. 對 chronic ulcerative colitis 的病人而言,下列何者非促成其形成 101(二)專 醫五-51 癌症的因素之一? (A) 潰瘍之深度 (B) 發病年齡 (C) 罹病之期限 (D)病變範圍 【詳解】ulcerative colitis 的罹癌因素有:(1) 發病年齡越早越易 轉為大腸直腸癌。(2)病發期間越久,轉 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 5. 處置: - (1) 先採用內科療法: 軟便劑、類固醇栓劑 (steroid enema)、局部 5-ASA (5-aminosalicylic acid)。 - (2) 內科療法失敗、復發性狹窄、瘻管則手術處理:結腸造口(diverting colostomy)。 - (3) 狹窄也可用 endoscopic dilation。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
-- ...kers)以降低血中 $T_4$ 轉化為 $T_3$ | | | | 的量 | | | | (C) 給予 2% 碘劑溶液 (Lugol's solution) 可減少甲狀腺荷爾蒙 | | | | 分泌量 | | | | (D) 使用類固醇及阿斯匹靈退燒,同時需輸液治療 | | | (A) 18. | 未分化型甲狀腺癌(anaplastic carcinoma),何者錯誤? | 105(一)專 | | | (A) 不可能由分化良好型甲狀腺癌轉變而來 | 醫五 -40 | | | (B) 需作切片檢查或氣管切開 | | | | (C) 目前放射線治療 (radiation therapy) 及化學治療 (chemo- | | | | therapy)效果不彰 | | | | (D) Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- (D) 10. 下列有關 microvascular surgery 時使用 anticoagulant 運用的敘述, 106( ) 專 何者錯誤? 醫五-21 - (A) low dose aspirin 的 anti-platelet 效果不錯 - (B) heparin 可全身性或局部使用 - (C) fibrinolytic agent 於 microanastomosis thrombosis 時有幫忙 - (D) 使用 anticoagulant 可使 free flap transfer 之成功率大量提高 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- ...論李 | | | | 先生的疾病和用藥,下列何者最為正確? | | | | (A) 帕金森氏症(Parkinson's disease)及 L-dopa | | | | (B) 本耐狄克氏徵候群(Benedikt's syndrome)及 Aspirin | | | | (C) 傑克遜氏發作(Jacksonian seizure) 及 phenytoin | | | | (D) 紀蘭巴雷徵候群(Guillain-Barré syndrome )及 Vitamin B 1 | | | | 【詳解】(A) 長期服用大量 Levodopa 會造成 On off phenomenon。 | | | (C) 28. | 下列有關 Huntington disease 的敘述,何者錯誤? | 10 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...--------|-------------| | (A) 阿多平 (atropine) | 醫四 -49 | | (B) 麻醉劑(narcotics) | | | (C) 苯二氮平類(benzodiazepines) | | | (D) 阿斯匹靈(aspirin) | | | (D) 32. 王先生 38 歲,他在近 2 年來逐漸變得多疑,事事挑人毛病,偶 | 99(二)專 | | 會爆發脾氣,同時無法集中注意力,手指會出現不規則扭動,無 | 醫四-56 | | 法長時間緊握一件物體。追問其家族史發現他的爸爸在 45 歲左 | | | 右有類似的症狀,發病幾年後已去世。最可能之診斷是: | | | (A) 魏斯特氏症候群(West's syndrome) | | | (B) 亞 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (B) 給予口服抗血小板劑 (aspirin) 治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (A) 25. 腦梗塞的二次預防(secondary prevention)須使用抗血小板藥物, 102( ) 專 若考慮藥物經濟學(同時考慮藥價與療效的最大效益),首選藥 醫四 -60 物為何? - (A) Aspirin - (B) Ticlopidine - (C) Clopidogrel - (D) Dipyridamole Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (1) 靜脈免疫球蛋白(IVIG)效果相當突出,高劑量單次注射 IVIG(2 gm/kg), 合併 Aspirin 於急性期發燒時使用,用以退燒及減輕發炎反應,通常於急性期給 予高劑量阿斯匹靈(80~100 mg/kg/day),用以抗發炎與抑制血小板凝集作用, 而退燒後改以低劑量阿斯匹靈(3~5 mg/kg/day)長期使用,持續到血小板及 ESR 回復正常。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

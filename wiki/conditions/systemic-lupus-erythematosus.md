@@ -32,6 +32,8 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Systemic lupus erythematosus, SLE (全身性紅斑狼瘡)'
   - 'Systemic lupus erythematosus, SLE'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,14 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...tion 等 | | | · 胎盤染色體異常,一般稱 confined placental mosaicism | | 母親 | • 罹患影響胎盤血流的疾病:如子癲前症、高血壓、糖尿病、 | | \$ 25 c. 41 | 自體免疫疾病 (SLE, APS) 等 | | | • 營養不良 | | | • 慢性缺氧 | | | · 抽菸、酗酒、藥物濫用、咖啡因過量、放射線曝露 | | | • 先天性子宮結構異常: 如雙角子宮 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...-----| | 母親因素 | 懷孕併發症 | | 抗磷脂質症候群 (Antiphospholipid syndrome) | 子癲前症 | | 甲狀腺功能亢進 | 胎動減少 | | 血紅素異常疾病(如:地中海貧血) | 羊水過少 | | 紅斑性狼瘡 | 羊水過多 | | 發紺性心臟病 (cyanotic heart disease) | 胎兒生長遲緩 (fetal growth | | | restriction) | | 慢性腎病 | 過期懷孕 (post-term pregnancy) | | 第一型糖尿病 | 前胎不明原因流產 | | 高血壓 | 多胞胎 | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...ol of the control of the control of the control of the control of the contro | • 糖尿病或妊娠糖尿病、慢性高血壓、慢性腎病、自體免疫性疾 | | | | 病(如紅斑性狼瘡和抗磷脂質症候群)和血管性疾病 | | | 胎兒因子 | ・多胞胎 | | | | ・本胎胎兒水腫 (hydrops fetalis) | | | 胎盤因子 | • 前胎胎死腹中或胎兒生長遲滯 | | | | • 前胎胎盤剝離 | | | 其他因子 | · 人工生殖技術(冷凍胚胎解凍植入療程) | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - c. 自體免疫性疾病(如:RA、SLE)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (11) 膠原纖維疾病 (Collagen diseases): 硬皮症 (Scleroderma)、風濕免疫 (rheumatoid disease)、紅斑性狼瘡 (systemic lupus erythematosus)、皮肌炎 (dermatomyositis)、 韋格納肉芽腫 (Wegener granulomatosis)、古帕斯捷氏綜合徵 (Goodpasture syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...astic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但症狀通常不會隨著胸腺瘤治療成功而改善。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
@@ -96,9 +103,6 @@ tags:
 - (1) 皮膚常具有高度光敏感性,陽光曝曬後症狀會加劇,除了嚴重的系統性紅斑 (SLE)外,尚有下列其他亞型: - a. Acute cutaneous lupus erythematous: Malar rash (Butterfly rash)、廣泛性皮膚 丘疹、手指紅疹(在關節間,與 Gottron's sign 相反)。 - b. Subacute cutaneous lupus erythematous: 似 乾 癬 的 脫 屑 紅 斑 (Psoriasiform papulosquamous) 或環型紅疹 (annular),病患體內多含有 Anti-Ro (SSA) (>80%) 和 Anti-La (SSB) (30~50%),容易產下新生兒狼瘡或先天性心臟傳導阻斷的胎兒。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 【詳解】(A) 治療首選為 Penicillin G。(B) 類風濕性關節炎、SLE 或其他病毒感染皆會造成 VDRL 偽陽性,故須配合 TPHA(+) 和臨床症狀才可診斷為梅毒。(C) 梅毒螺旋桿菌為螺旋體,一般 Gram stain 無法染上,需以暗視野顯微鏡檢(dark-field microscopy)或直接螢光抗體染色(Direct fluorescent antibody staining)觀察。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) 盤狀紅斑性狼瘡(discoid lupus erythematosus) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 【詳解】此題於 101 年也考過,從左圖外觀來判斷,脂漏性角化症病灶像黑色蠟塊,盤狀紅斑性狼瘡為邊界明顯的紅色斑塊伴有厚屑,剩日光性角化症和基底細胞癌為可能診斷。右圖可見 atypical keratinocytes,局限於表皮層下 1/3,非全層 atypia(如 Bowen's disease),故推判為 (A) 光化性角化病(actinic keratosis)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med4-book3-ch08]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch03]]"
 aliases:
   - 'Alcohol use disorder (酒精使用疾患)'
   - 'Alcohol use disorder'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-酒精相關失控使用與功能損害，常與 mood、anxiety、肝病與事故風險相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+酒精相關失控使用與功能損害，常與 mood、anxiety、肝病與事故風險相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med4-book3-ch04]]
 - [[sources/med4-book3-ch08]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch03]]
 
 ## Key Details From Sources
 
+- | 分 類 | 禁忌 | | |------|-------------------------------------|--| | 母親方面 | ・薬物或酒精濫用 | | | | ・HIV 或 T-cell lymphotropic virus 感染 | | | | · 未經治療的結核病 | | | | ・正接受化療或放療 | | | · | ・乳房有皰疹感染 | | | 嬰兒方面 | ・半乳糖血症 (galactosemia) | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- 【詳解】哺餵母乳的禁忌症(母親方面)包括 (1) 藥物或酒精濫用; (2) HIV 或 T-cell lymphotropic virus 感染; (3) 未經治療的結核病; (4) 正接受化學治療或放射線治療; (5) 乳房有皰疹感染。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - 2. 危險因子 - (1) 酒精濫用者。 - (2) 吸入外來物。 - (3) 虚弱或年長者(血循傳染:因心衰竭或疾病造成虚弱、年長或年幼、使用靜脈 藥物、使用類固醇)。 - (4) 食道疾病。 - (5) 扁桃腺切開術後或是拔牙術後。(少見) Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 酒精依賴 (dependence)。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - @ DSM-5 把 alcohol abuse 與 alcohol dependence 合併為 alcohol use disorder,診斷準則如下(參考),但是酒精戒斷與中毒準則不變: Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].

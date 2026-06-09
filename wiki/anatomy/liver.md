@@ -81,6 +81,12 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Liver (肝臟)'
   - 'Liver'
@@ -95,7 +101,7 @@ tags:
 
 ## Summary
 
-肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -176,9 +182,25 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch05]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- ...pic) 骨盆腔外的腹膜轉移,最大徑≦ 2 cm | | | T3bN0M0 orT3bN1M0 | IIIB | | | IIIC | 大徑> 2 cm | 肉眼下 (macroscopic) 骨盆腔外的腹膜轉移,最大徑> 2 cm(包括肝臟和脾臟的外囊轉移,但無實質轉移) | | | IIIC | | IV | IVA | 惡性肋膜積水 | | | Any TNM1a | IVA | | (腹膜以外的 遠端轉移) | IVB | | | 「腹股溝和腹腔以外的、肚臍轉移和肝脾臟 | Any TNM1b | IVB | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (A) 3. 醫師值班接到一緊急轉診的病患:一位 60 歲婦女,因卵巢水瘤於診所接受手術,術中發現為一高度懷疑之右側卵巢惡性腫瘤,並已擴散至腹腔中,形成網膜硬塊(omentum cake),但是並無橫膈下或肝臟轉移。該診所未做任何切除手術,將傷口簡單關閉而立刻轉送本院。送至本院時,神智清醒,感覺傷口疼痛,生命徵象穩定,血壓 138/86 mmHg,心搏 86 bpm,傷口只有五針縫合,微滲血。接下來的處置,何者最適當? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (C) 14. 陳小姐, 45 歲,過去未曾懷孕或特殊疾病史,因下腹疼痛至門診就診,超音波發現一7公分骨盆腔複雜性腫瘤,手術中病理冷凍切片證實為亮細胞卵巢癌(clear cell adenocarcinoma of ovary),並發現腫瘤與一段小腸粘黏並有大腸侵犯,肝臟表面及橫膈膜下並沒有腫瘤轉移,有關患者的治療,下列何者正確? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...lampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalized seizure)稱之。 | | HELLP syndrome | ・溶血 (hemolysis)、肝指數上升 (elevated liver enzyme) | | | 和低血小板 (low platelets) 三種表現合併出現。 | | 慢性高血壓 | · 懷孕前即診斷高血壓或懷孕 20 週前即出現高血壓稱之。 | | (Chronic HTN) | ・ 懷孕初次診斷高血壓,於產後 12 週血壓仍未恢復者亦 | | | 為慢性高血壓。 | | 慢性高血壓併子癲前症 | · 孕婦有慢性高血壓,懷孕 20 週後高血壓持續或惡化, | | (Chronic HTN with Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...25 mg/dL 或 serum LDH $\geq$ 正常 | | | 上限值的兩倍 | | | · 週邊血液抹片出現血球裂片 (schistocytes) 和皺縮紅 | | | 血球 (burr cells) | | Elevated liver enzyme | • 肝指數上升正常上限值的兩倍以上 | | Low platelet | ・血小板≦ 10 萬 cells/microL | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- 【詳解】HELLP syndrome 指出現 hemolysis、elevated liver emzyme 和 low platelets 三種表現。 醫六 -74 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | • 有乳癌病史 | • 高風險子宮內膜癌 | • 冠心病 | |--------------|------------|------------| | • 有靜脈栓塞或中風病史 | • 活動性肝臟疾病 | • 未診斷的陰道出血 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】停經後接受荷爾蒙治療的禁忌症包括乳癌、子宮內膜 癌、未診斷的陰道出血、有肝臟疾病、靜脈栓塞和中風的病史。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 胎兒藉一條臍靜脈(umbilical vein)自胎盤獲得充氧血,其小分支供應肝臟,大部分經由靜脈導管(ductus venosus),與攜帶下肢缺氧血的下腔靜脈會合注入右心房,並經由卵圓孔(foramen ovale)進入左心房,然後進入左心室,再由主動脈供應頭部與上肢。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】ICP 是一種孕婦常見的肝臟疾病,常見的兩大表現為手 腳掌搔癢與血清膽酸(bile acid)上升(≥10 umol/L),通常發 生於妊娠中後期,產後便快速緩解。膽酸會堆積在胎兒或羊水 中,可能會導致早產、子宮內胎兒死亡、羊水胎便、新生兒呼 吸窘迫等風險增加。孕婦血清膽酸可作為預測胎兒預後的指標, 血清膽酸濃度愈高,胎兒預後愈差,研究顯示血清膽酸 > 100 umol/L,子宫内胎兒死亡發生率可達 10~15%。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...tu) (C) 6. 肺癌病人不適合手術的情況,下列何者錯誤? 103(二)專 (A) 喉返神經麻痺 醫五-28 (B) 發生上腔靜脈症候群 (superior vena cava syndrome) (C) 肺癌局部侵犯橫隔膜 (D) 有肝臟轉移 【詳解】從分期上 T3N2 以上建議。 (A) 7. 下列何種 TNM 分期的 lung cancer 不適合以手術作為第一線治療? 102(一)專 ① T1N0M0 ② T1N1M0 ③ T1N3M0 ④ T3N1M0 醫五-31 (A) 僅③ (B) 僅③④ (C) 僅②③④ (D) 僅①② 【詳解】T1N3M0 Stage IIIB 先化療再手術。 (D) 8. 一位 58 歲男性,每日抽一包菸長達二十年,入院前兩週開始有 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...nn-Pick disease, Gaucher disease, neurofibromatosis, and tuberous fibrosis。 - (5) 代謝性或未知因素 (Metabolic and unknown): 肝病 (Liver disease)、尿毒症 (uremia)、發炎性腸疾病 (inflammatory bowel disease)。 - (6) 物理性因子 (Physical agents): 放射線 (Radiation)、氧毒性 (O2 toxicity)、燒 燙傷 (thermal injury)、爆炸傷 (blast injury)。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -187,16 +209,6 @@ tags:
 - ...atresia) 為第二常見、α1 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency)第三常見。 - (b) 進一步評估:尿液、血液(血球計數、凝血功能、α1-antitrypsin、albumin)、肝膽超音波、經皮肝臟穿刺、肝膽道閃爍攝影(現在幾乎不使用)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (8) 經皮肝臟切片:如排除肝臟合成功能問題後,則須執行肝臟切片確診,巨噬細胞浸潤和肝細胞壞死為主要組織上的特色,可以和其它病因區。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (9) 肝膽道閃爍攝影(hepatobiliary scintigraphy/scan): - a. 名稱很多樣化: DISIDA 核子閃爍攝影、Tc-99m-DISIDA 肝膽道攝影 (hepatobiliary scintigraphy/scan)。 - b. 少部分仍無法確診的病童須進行此項檢查,利用亞氨基甲二乙酸類似物讓肝臟代謝,可發現正常的肝吸收,但卻沒有排出到小腸,有時可利用苯巴比妥(phenobarbital)增加此檢查敏感性。亞氨基甲二乙酸(Iminodiacetic acid) = HN(CH2CO2H)2。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- 1. 解剖學上,可利用動、靜脈與肝管在肝臟內形成的自然界限,分為三個 divisions。 - (1) First divisions:左右兩半 (hemilivers)。 - a. 左右兩葉由膽囊窩(gallbladder fossa) 與下腔靜脈 (inferior vena cava)所分割而成。這條界線又可稱 之為 Cantlie's line, 走向約與 middle hepatic vein 一致。 - b. 左右兩葉各由一條肝臟動脈 (hepatic arterial branch)、膽管 (bile duct), 與門靜脈 (portal vein) 所支配。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- a. 第二個 division 是由肝臟內部的肝動脈(hepatic artery)與膽管(bile duct)作 為五葉的界線。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- 八段 (segments), 又可以稱 為 Couinaud classification, 將肝臟細分成八段。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- 1. 惡性肝腫瘤可分為原發性 (primary) 與繼發性 (secondary), 其中又以 secondary (即 metastatic liver cancer) 占大多數。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 2. 最常見的肝臟原發癌 (primary cancer) 為肝細胞癌 (hepatocellular carcinoma, HCC), 占了90%以上,其次較為少見的 primary cancer 包括膽管癌 (cholangio-carcinoma),惡性血管瘤 (angiosarcoma)等。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (2) 主要的原因是 B 型肝炎及 C 型肝炎在台灣的高盛行率,使慢性肝臟疾病病得以 進一步發展成為肝硬化及肝癌。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 2. 肝膽系統中有兩個解剖三角形,其一是卡洛氏三角,其二是肝膽三角。 - (1) 卡洛氏三角 (Calot's triangle): - a. 右圖可見是由 liver bed、CD、CHD 三者所組成。 - (a) CD: Cystic duct • - (b) CHD: Common hepatic duct • - b. 卡洛氏三角是一個臨床上重要的解剖 位置。在進行膽囊切除術時,要在該 三角內辨認出膽囊動脈並加以截斷。 並且要保護較粗的右肝動脈避免受 傷,導致右半肝臟的缺血。 - c. 膽囊動脈常出現變異,必須特別注意。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
-- (1) 衰老紅血球進入脾臟,分解後得到 bilirubin,與 albumin 結合後藉由血流會被送到肝臟,此時為非水溶性,稱為未結合型膽色素(unconjugated bilirubin)。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
-- (2) 進入肝臟的膽色素經由肝細胞的作用後,與 Glucuronic acid 結合,轉變結合型 膽色素(conjugated bilirubin),為水溶性,接著被排入膽管進入膽囊,再經由 總膽管流入十二指腸中。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
-- ...) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭轉移,其餘為肺部、淋巴結、 | | | | 腦部與肝臟。 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 
 ## Clinical Caveats
 

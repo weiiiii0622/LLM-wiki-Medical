@@ -2,12 +2,13 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch22]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book4-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'HIV testing (HIV 檢測)'
   - 'HIV testing'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 count。 本頁已整合至 `醫(三)第4冊免疫血液腫瘤家醫`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 count。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 co
 - [[sources/med3-book3-ch22]]
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book4-ch01]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...papule)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒感染可能造成疱疹性腦炎;急性期約 4~5 天,病灶癒合需要 8~10 天,病毒會潛伏於薦椎神經節,日後可能復發; - c. 診斷:病毒培養、ELISA 或免疫螢光法偵測病毒抗原。 - d. 治療:冰敷、局部麻醉(2% lidocaine)、NSAID 和 acyclovir 3% 軟膏,以及 發病五天內使用口服 acyclovir 200 mg 一天 5 次,約 5 天可減緩局部症狀、縮 短病程,但無法消滅病毒。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - \*Anti-phospholipid Ab 的測法有三種,用 ELISA 測是否有對抗 Cardiolipin、β2GP1 的抗體, 或量 Sensitive prothrombin time (DRVVT) 去測是否有 Lupus anticoagulant。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - \*註:由於台灣為肺結核流行區域,因此在台灣單純肺結核並非 AIDS-defined illness,須合併 CD4 99% sensitivity, 感染 1~12 週後才會陽性);只有 ELISA 陽性時,不建議在 Western blot 結果出來前先行告知病患。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 - (3) 確認:重複 ELISA 後,再用 Western blot (> 99% specificity,至少看到> 2 個 bands from different HIV genome, Ex. p24, gp41, gp120/160)。急性感染時,也可使用核酸檢測作為診斷依據。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].

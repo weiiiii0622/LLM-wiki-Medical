@@ -30,6 +30,7 @@ Organs, structures, and regions.
 - [[anatomy/dermis|Dermis (真皮)]] - 真皮含膠原、彈性纖維、血管、神經與附屬器官，決定皮膚強度與彈性。
 - [[anatomy/epidermis|Epidermis (表皮)]] - 表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。
 - [[anatomy/esophagus|Esophagus (食道)]] - 食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。
+- [[anatomy/female-reproductive-anatomy|Female reproductive anatomy (女性生殖道解剖)]] - 女性生殖道包含外陰、陰道、子宮頸、子宮、輸卵管、卵巢與骨盆血管神經淋巴，影響手術與癌症轉移路徑。
 - [[anatomy/glomerulus|Glomerulus (腎絲球)]] - 腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。
 - [[anatomy/heart-valves|Heart valves (心臟瓣膜)]] - 瓣膜狹窄或逆流造成壓力/容量負荷與雜音。
 - [[anatomy/kidney|Kidney (腎臟)]] - 腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。

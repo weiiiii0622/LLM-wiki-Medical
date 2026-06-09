@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Noninvasive ventilation, NIV (非侵襲性通氣)'
   - 'Noninvasive ventilation, NIV'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book3-ch04]]
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- a. 非侵入性胎兒染色體檢測(noninvasive prenatal testing, NIPT): Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (5) 內視鏡逆行膽道胰臟攝影(具侵襲性):如非侵襲性檢查後對其結構仍有疑慮時, 可考慮使用。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 1. 惡性乳房腫瘤可以分成非侵襲性(Non-invasive)與侵襲性(invasive)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 2. 非侵襲性癌(Non-invasive cancer):表示腫瘤尚未侵犯到乳房組織的乳管或乳小葉的基底膜,可再分成乳管原位癌(Ductal carcinoma in situ, DCIS)與葉狀原位癌(Lobular carcinoma in situ, LCIS)。 - (1) 乳管原位癌 (Ductal carcinoma in situ, DCIS): - a. 前言: - (a) 惡性乳管上皮細胞,未侵犯基底膜,仍侷限在乳管內,發生率約為 5~10%。 - (b) 可視為癌症前期病灶,50~60% 會 進展成同側乳癌,5~10% 會進展 成對側乳癌,最多45% 同時已伴 隨有乳癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -66,7 +69,6 @@ tags:
 - 1. CPAP (Continuous Positive Airway Pressure):整個呼吸過程(包括吸氣與呼氣)給予預設之正壓(5~10 cmH2O),臨床上用於周邊型睡眠中止症候群(obstructive sleep apnea)。 Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - 2. BiPAP (Bi-level positive airway pressure): 相較於 CPAP, BiPAP 在吸氣、呼氣給予的正壓不同, Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - (4) 若以上 Noninvasive stress test 陽性、心絞痛無法以藥物控制、疑似缺血性心臟病 導致 Cardiac arrest 或 Ventricular dysfunction 皆可進一步做心導管檢查 (Coronary arteriography)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (C) 10. 張先生 62 歲,高血壓服藥多年,今早上班時,因前胸撕裂性疼痛並延伸到背部,上肢血壓右側 128/76 mmHg,左側 102/68 mmHg,心臟聽診有第二度收縮期雜音,下列非侵襲性檢查何者對診斷最有幫助? - (A) 胸部 X 光 Source: [[sources/med3-book1-ch05|子、其 他]].
 
 ## Clinical Caveats
 

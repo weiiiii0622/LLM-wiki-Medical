@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Hyperprolactinemia (高泌乳素血症)'
   - 'Hyperprolactinemia'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-泌乳素升高可造成月經異常、溢乳、性腺功能低下。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+泌乳素升高可造成月經異常、溢乳、性腺功能低下。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,17 @@ tags:
 - [[sources/med3-book2-ch13]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- ...al hypothalamic amenorrhea (厭食症、過度運 | | | 動、體重過輕或壓力引發等) | | | 中樞神經腫瘤 (如 craniopharyngioma) | | | 腦部受傷或接受放射線 | | 腦垂體異常 | 高泌乳素血症 (hyperprolactinemia) | | (Hypogonadotropic | 中樞神經腫瘤 (如 Pituitary prolactinoma) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原發性卵巢功能不全 | | | 多囊性卵巢症候群 | | 其他內分泌異常 | 甲狀腺低下或亢進 | | | 雄性激素分 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- a. 高泌乳素血症(hyperprolactinemia):泌乳素由腦垂體前葉分泌,正常血液濃度在 $3\sim25$ ng/mL,懷孕時會上升 10 倍。 - (a) 調控:下視丘分泌 TRH 和吸吮乳頭促進,而 dopamine 和 GABA 抑制分泌。 - (b) 症狀:非懷孕女性會造成無月經和乳溢症(galactorrhea)。 - (c) 機制:影響下視丘 GnRH 釋放,抑制 LH 脈動,造成不排卵和無月經。 - (d) 成因:腦垂體腫瘤 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (D) 高泌乳血症(hyperprolactinemia) 有可能造成無月經 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | Hyperprolactinemic | 高泌乳素血症抑制 FSH 和 LH 的分泌,而造 | | |--------------------|--------------------------|--| | anovulation | 成雌激素的分泌量降低。 | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...adotropin | | | WHO class 2 | • 體重控制 | | | | · 誘導排卵(註1) | | | | ・ 人工生殖技術 (詳見人工協助生殖技術章節) | | | WHO class 3 | ・卵子捐贈 | | | 高泌乳素血症 | • Dopamine agonist ( 如 bromocriptine) | | 輸卵管因素 | 雙側阻塞 | · 試管嬰兒或輸卵管整形手術 (註 2) | | | 單側阻塞 | • 仍有一側通暢,可考慮自然受孕或人工授精,若多次 | | | | 失敗,應考慮試管嬰兒 | | 子宮因素 | 可以手術 | • 如黏膜下子宮肌瘤、子宮內膜息肉、子宮中隔或子宮 | | | 矯正者 | 腔沾黏等,可行手術切除,以提高懷孕率 | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...先天性:Kallmann syndrome | 1~2% | | (Hypogonadotropic hypogonadism) | 後天性:腫瘤、受傷、手術、電療、 | | | (Secondary hypogonadism) | 藥物、高泌乳素等 | | | Primary testicular disorders | 先天性:Klinefelter's syndrome | 30~40% | | (Hypergonadotropic hypogonadism) | (XXY) · Y chromosome deletions | | | (Primary hypogonadism) | 後天性:感染(淋病、披衣菌、腮腺 | | | | 炎病毒)、受傷、藥物、抽菸、放射 | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ii. 賀爾蒙治療:使用於血清 testerone 濃度低下的 ED 病人,有注射、貼片及口服劑型。但需注意對於 hyperprolactinemia 造成的 ED 沒有療效,此時需考慮 bromocriptine 治療或者手術切除腺瘤。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 2. 腦下垂體腫瘤主要是由前葉長出的腺瘤,腺瘤又可分為兩種: - (1) 功能性(functional)腺瘤:會過度分泌荷爾蒙,主要症狀與其分泌的荷爾蒙有關, 最常見為泌乳素瘤(prolactinoma)。 - (2) 非功能性 (non-functional) 腺瘤:後期因為壓迫也可能引起荷爾蒙 (gona Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (1) 荷爾蒙過度分泌:65%的腦下垂體腺瘤。 - a. 泌乳激素(prolactin): 女性會有不孕症、無月經(amenorrhea)或乳漏症(galactorrhea),男性則會陽痿。Functional prolactinoma 患者其血中 prolactin level 多大於 150~200 ng/mL。 - b. 生長激素 (GH): 刺激生長,成人出現末端肥大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -51,7 +61,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/amenorrhea|Amenorrhea (無月經)]]
 
 ## Follow-up
 

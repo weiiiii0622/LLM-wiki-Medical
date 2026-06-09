@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book6-ch08]]"
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med5-book6-ch05]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Bone tumor location framework (骨腫瘤好發部位架構)'
   - 'Bone tumor location framework'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-以 epiphysis、metaphysis、diaphysis 分布協助骨腫瘤鑑別診斷，需結合年齡、影像與病理。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 epiphysis、metaphysis、diaphysis 分布協助骨腫瘤鑑別診斷，需結合年齡、影像與病理。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book6-ch08]]
 - [[sources/med5-book6-ch04]]
 - [[sources/med5-book6-ch05]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- a. 生長速度:生長激素和 estrogen 刺激骨頭生長,青春期最早出現的就是加速 長高,一般在初經前半年達最大長高速度,之後 epiphysis 逐漸關閉,因此骨 齡較實際年齡與青春期發育階段相關。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 7. 原發性骨癌的好發地方(大部分好發在 metaphysis,下方列出 epiphysis 和 diaphysis 的腫瘤,其餘都猜 metaphysis): - (1) Epiphysis (骨端處): Good Choice → Giant cell tumor, Chondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dyspl Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - | | 組織構造 | 好發腫瘤 | |------------|---------------------------------|------------------| | epiphysis | 長骨兩端與軟骨交接處, | Clear cell tumor | | _ | 是長骨變長的地方。 | Giant cell tumor | | | 組織型態:大部分為網狀骨 | Chondroblastoma | | | (spongy bone \ woven bone) | (軟骨為主) | | Metaphysis | Diaphysis 和 epiphysis 的過度區 | 其他 | | Diaphysis | 組織型態: Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - b. 可發生於骨頭的許多部位,但最常發生在四肢長骨骨幹處(尤其下肢,most common: proximal femur diaphysis)與脊椎,造成四肢及背部疼痛,嚴重時可能形成脊柱側彎(scoliosis)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].

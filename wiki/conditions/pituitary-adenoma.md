@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch10]]"
   - "[[sources/med3-book2-ch15]]"
@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch24]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Pituitary adenoma (腦垂體腺瘤)'
   - 'Pituitary adenoma'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體腺瘤可造成荷爾蒙過量、低下或壓迫症狀。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,15 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch24]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- b. 腦垂體腺瘤(pituitary adenoma): - (a) 通常是良性,依大小可分 microadenoma ( 10 mm), mass effect 可能壓迫 optic chiasm 造成雙顳葉偏盲 (bitemporal hemianopsia); - (b) 功能性腫瘤會分泌荷爾蒙造成症狀: 前葉 5 種 -prolactin (佔 50%)、TSH、ACTH (Cushing's disease)、gonadotropin和GH、與後葉2種-oxytocin和ADH; - (c) 治療: - i. 藥物治療(dopamine agonist,如 cabergoline、bromocriptine)為首選之治療方式,藥物效果良好(約90%),但仍有10%對藥物無反應。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (3) 抽血驗 FSH、prolactin 和 TSH; - a. prolactin ↑:高泌乳血症→ MRI 排除腦垂體腺瘤; - b. FSH ↑:hypergonadotropic(卵巢異常)→染色體異常造成性腺發育不良或 其它因素造成卵巢衰竭; - c. FSH ↓或 normal: hypogonadotropic (中樞神經異常)→ MRI 排除器質性病灶; - d. TSH ↑:甲狀腺低下→補充 thyroxine 治療。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】泌乳激素瘤 1 公分以上為 macroadenoma,已造成視野缺損,須接受治療。(A) 藥物治療(dopamine agonist,如 cabergoline, bromocriptine)為首選之治療方式,藥物效果良好(約 90%),但仍有 10% 對藥物無反應;(B)(C) 若藥物治療無效,可考慮經蝶竇腦下垂體手術(transsphenoidal pituitary surgery)切除腫瘤,不過,手術切除後可能復發,需接受定期追蹤;(D) 手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...inefelter's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 / 腦垂體問題 | ・使用 gonadotropin (下視丘或腦垂體問題) | | | | ・GnRH 脈衝治療 (下視丘問題) | | | 生殖道感染 | ・抗生素治療(至少10天) | | | 精子自體免疫疾病 | ・高劑量類固醇 (40~80 mg/day) ・ 使用 ICSI | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - 3. Pituitary adenoma (30%): functional or non-functional • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - 3. Microadenoma:直徑小於 1 公分;Macroadenoma:直徑大於 1 公分,大部分的 pituitary tumor 屬於 microadenoma,而 macroadenoma 多屬於 non-functional。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...公 | 103(二)專 | | 分之腫瘤,向上壓迫 optic chiasma,注射顯影劑後呈現均匀且明 | 醫五-16 | | 顯之顯影,請問最可能之診斷為? | | | (A) lymphoma | | | (B) pituitary macroadenoma | | | (C) meningioma | | | (D) germ cell tumor | | Source: [[sources/med5-book1-ch18|壬、腦瘤]].

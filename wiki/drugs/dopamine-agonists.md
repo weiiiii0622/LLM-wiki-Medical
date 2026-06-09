@@ -8,6 +8,8 @@ sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Dopamine agonists (多巴胺致效劑)'
   - 'Dopamine agonists'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-直接刺激 dopamine receptors，用於 Parkinson disease，但可有嗜睡、幻覺、衝動控制障礙。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+直接刺激 dopamine receptors，用於 Parkinson disease，但可有嗜睡、幻覺、衝動控制障礙。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,17 @@ tags:
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- ...GnRH 釋放,抑制 LH 脈動,造成不排卵和無月經。 - (d) 成因:腦垂體腫瘤、甲狀腺低下和藥物(如:抗精神藥物)。 - (e) 診斷:血清濃度> 100 ng/mL,需安排 CT 和 MRI 排除腦垂體腫瘤。 - (f) 治療: dopamine agonist (如 cabergoline, bromocriptine ) 為第一線治療藥物,藥物效果良好。 - (g) 追蹤:需定期追蹤泌乳激素,若血中泌乳激素濃度降至正常範圍內達 2 年以上,可考慮停藥追蹤。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- b. 腦垂體腺瘤(pituitary adenoma): - (a) 通常是良性,依大小可分 microadenoma ( 10 mm), mass effect 可能壓迫 optic chiasm 造成雙顳葉偏盲 (bitemporal hemianopsia); - (b) 功能性腫瘤會分泌荷爾蒙造成症狀: 前葉 5 種 -prolactin (佔 50%)、TSH、ACTH (Cushing's disease)、gonadotropin和GH、與後葉2種-oxytocin和ADH; - (c) 治療: - i. 藥物治療(dopamine agonist,如 cabergoline、bromocriptine)為首選之治療方式,藥物效果良好(約90%),但仍有10%對藥物無反應。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (A) bromocriptine 是短效的 dopamine-like 藥物,須每日服用 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...| | WHO class 2 | • 體重控制 | | | | · 誘導排卵(註1) | | | | ・ 人工生殖技術 (詳見人工協助生殖技術章節) | | | WHO class 3 | ・卵子捐贈 | | | 高泌乳素血症 | • Dopamine agonist ( 如 bromocriptine) | | 輸卵管因素 | 雙側阻塞 | · 試管嬰兒或輸卵管整形手術 (註 2) | | | 單側阻塞 | • 仍有一側通暢,可考慮自然受孕或人工授精,若多次 | | | | 失敗,應考慮試管嬰兒 | | 子宮因素 | 可以手術 | • 如黏膜下子宮肌瘤、子宮內膜息肉、子宮中隔或子宮 | | | 矯正者 | 腔沾黏等,可行手術切除,以提高懷孕率 | | | 無法以手術 | · 只能考慮代理孕母或領養 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...r's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 / 腦垂體問題 | ・使用 gonadotropin (下視丘或腦垂體問題) | | | | ・GnRH 脈衝治療 (下視丘問題) | | | 生殖道感染 | ・抗生素治療(至少10天) | | | 精子自體免疫疾病 | ・高劑量類固醇 (40~80 mg/day) ・ 使用 ICSI | | | 逆行性射精 | ・ 從尿液收集精子,再 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...(證據充足) | ・ 多囊性卵巢患者,進療程前先給予 Metformin | | | | | | • 使用拮抗劑療程 | | | | | | ・使用 GnRH agonist 作為破卵針 | | | | | | ・ 在打破卵針當天開始使用 dopamine agonist ( 如:cabergoline) | | | | | B級(證據尚可) | ・冷凍胚胎・使用阿斯匹靈・給予鈣離子 | | • 給予鈣離子 | | | C級(證據不足) | ・使用 coasting (暫停施打排卵針幾天) | | | | | | ・使用低劑量之 hCG 當破卵針 ・使用白蛋白 (albumin) | | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ii. 賀爾蒙治療:使用於血清 testerone 濃度低下的 ED 病人,有注射、貼片及口服劑型。但需注意對於 hyperprolactinemia 造成的 ED 沒有療效,此時需考慮 bromocriptine 治療或者手術切除腺瘤。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (D) 口服 dopamine agonist 如 bromocriptine,可使 80% 泌乳激素瘤 (prolactinoma) 縮小 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

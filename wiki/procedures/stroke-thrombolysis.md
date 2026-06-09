@@ -2,13 +2,14 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med5-book1-ch12]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Stroke thrombolysis (中風血栓溶解治療)'
   - 'Stroke thrombolysis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-急性 ischemic stroke 在合適時間窗與條件下以 alteplase 等進行再灌流治療。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性 ischemic stroke 在合適時間窗與條件下以 alteplase 等進行再灌流治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch06]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- (3) 治療:LMWHs,接著使用 warfarin;瀰漫性肺栓塞可考慮血栓溶解治療,但伴隨有出血的風險;無法使用抗凝血治療,可以使用下降靜脈 filter。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...--------| | 時有呼吸急促。出生後2星期左右,突然有呼吸困難及全身發 | | | 紺,經心臟超音波檢查,發現有肺動脈瓣閉鎖,這時候要給予 | | | 何種治療最迫切且適當? | | | (A) 抗生素靜脈注射 | | | (B) 血栓溶解劑靜脈注射 | | | (C) 前列腺素靜脈注射 | | | (D) 使用氣球擴張術 | | | 【詳解】凡是發紺性先天性心臟病,前列腺素(PGE1)是重要 | | | 的藥物,能維持動脈導管開放,讓血液能從主動脈流向肺動脈。 | | | (B) 27. 承上題,上述治療主要的目的是: | 99(二)專 | | (A) 溶解肺動脈栓塞 | 醫 5-10 | | (B) 使動脈性導管(ductus arteriosus)打開 | | | Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (C) 19. 此病人不管是否有接受手術,為了要預防再度中風,應接受何種 100(ニ)専 藥物治療?醫五-35 - (A) 抗血小板劑 - (B) 降血脂藥物 - (C) 抗凝血劑 - (D) 血栓溶解劑 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 但腹部柔軟、無明顯壓痛及反彈痛,推測尚未達到腸子壞死破掉的程度。此時可趕緊做血管攝影,局部注射血栓溶解劑。CT、MRI 對於找出血管阻塞處較不敏感,即使找到了,也是要在藉由血管攝影局部注射血栓溶解劑。雖然 acute thromboembolism 首選是 embolectomy,但是腸子的血管很難這樣做。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].

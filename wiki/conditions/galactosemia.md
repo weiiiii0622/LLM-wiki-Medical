@@ -8,6 +8,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Galactosemia (半乳糖血症)'
   - 'Galactosemia'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-半乳糖代謝缺陷可造成新生兒肝病、敗血症、白內障與餵食問題。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+半乳糖代謝缺陷可造成新生兒肝病、敗血症、白內障與餵食問題。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- | 分 類 | 禁忌 | | |------|-------------------------------------|--| | 母親方面 | ・薬物或酒精濫用 | | | | ・HIV 或 T-cell lymphotropic virus 感染 | | | | · 未經治療的結核病 | | | | ・正接受化療或放療 | | | · | ・乳房有皰疹感染 | | | 嬰兒方面 | ・半乳糖血症 (galactosemia) | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- ...H receptor mutations、Aromatase gene | | | | mutations | | | 自體免疫性疾病 | Isolated autoimmune ovarian failure | | | 代謝性疾病 | Galactosemia | | | 醫源性 | 卵巢手術、化療 (特別是 alkylating agents)、放射線治療 | | | 病毒感染 | Mumps or cytomegalovirus infection | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (2) 尿液分析:以排除半乳糖血症(galactosemia)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (A) 糞便檢查中無還原物質(reducing substances) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (D) 半乳糖血症 (galactosemia) 是因攝食過量乳糖所致 Source: [[sources/med4-book1-ch02|乙、消化系統]].

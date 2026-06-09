@@ -39,6 +39,10 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch14]]"
+  - "[[sources/med6-book1-ch18]]"
 aliases:
   - 'Blood pressure measurement (血壓測量)'
   - 'Blood pressure measurement'
@@ -53,7 +57,7 @@ tags:
 
 ## Summary
 
-正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +96,21 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch14]]
+- [[sources/med6-book1-ch18]]
 
 ## Key Details From Sources
 
+- (A) 過去血壓正常的婦女,懷孕 20 週後收縮壓高於 140 mmHg 或舒張壓高於 90 mmHg 且合併有蛋白尿,即可診斷為 preeclampsia Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B) preeclampsia 會增加腦出血(cerebral hemorrhage)、肺水腫(pulmonary edema)及凝血功能異常(coagulopathy)的危險。當收縮壓高於 160 mmHg 時就應積極控制血壓預防腦出血 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- 【詳解】(C)首先,懷孕時應使用孕期能使用的降壓藥,先前 的藥物不一定都能使用;其次,孕婦理想的血壓控制為收縮壓 130~150 mmHg, 舒張壓 80~100 mmHg, 不可控制過低,以免 影響胎盤血流;另外,嚴重子癇前症持續惡化,才會建議生產, 其血壓標準為 160/110 mmHg。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ### 低。此外,懷孕時左側躺的收縮壓、舒張壓均較仰臥時低 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】安胎藥物 $\beta_2$ agonist 的副作用包括心悸、心跳加速、胸悶、氣促、低血鉀、高血糖和肺水腫,故選 (A)。血壓的部分, $\beta_2$ agonist 會造成收縮壓上升,故考選部 (D) 也給對,然而,其會造成舒張壓下降,而平均的血壓變化是下降的,故內文仍維持 $\beta_2$ agonist 的副作用為低血壓。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | Stage | 最遠端與處女膜 (hymen) 距離 | | | | |-------|------------------------------------------------------------------------------------|--|--|--| | | 沒有脫垂 | | | | | 0 | Aa, Ba, Ap, Bp: - 3 cm | | | | | | $C \text{ or } D : \leqq - (tvl - 2)$ | | | | | 1 | C or D \cdot Ba \cdot Bp ') Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- 【詳解】POP-Q 以直線數字串方式表示,依序為 Aa, Ba, C, D, Ap, Bp, TVL, GH, PB。B 點為 A 點(hymen 往近端 3 公分之點)和陰道穹隆,兩者較遠端(脫出)者。Point Ba 為陰道前壁之 B 點,數值範圍為 -3 cm 到 total vaginal length,且一定 $\geq$ A 點,故 Point Ba 為 -4 不合理。 Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- 【詳解】一般 fluid deficit 達 500 mL,便建議先評估病人狀況後再進行手術,最好不要超過 1,000 mL fluid deficit。在健康年輕的族群,建議停止手術之 fluid deficit 可達 2,500 mL,不過,需視每個人的情況而定,若灌流液過度吸收造成病患舒張壓上升 15 mmHg,可能會有肺水腫風險,仍應停止手術,並給予利尿劑,故選(C)。 Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
 - (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 4. 一位 30 歲的男性工人從 6 公尺高的鷹架墜落,身體檢查顯示收縮壓 120 mmHg,右胸有明顯的連迦胸(flail chest),嚴重的呼吸窘迫(severe respiratory distress),右胸呼吸聲音稍微降低,叩診時則左右兩側類似。給予非再呼吸型面罩氧氣 15 L/min 後,其動脈氣體分析為 pH: 7.47,PaO2: 65 mmHg,PaCO2: 28 mmHg;下列何者最可能解釋他的異常動脈氣體分析之原因? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (C) 1. 一名墜樓的傷患,抵達急診時,檢查發現以下徵候:①氣管往右 104(二)專 側偏移 ②左側胸部呼吸聲微弱 ③左側胸壁出現皮下氣腫(sub-cutaneous emphysema) ④收縮壓低於 90 mmHg ⑤呼吸速率每 分鐘 26 次。則下列何種診斷最為可能? - (A) 右側大量血胸(right massive hemothorax) - (B) 右側張力性氣胸 (right tension pneumothorax) - (C) 左側張力性氣胸 (left tension pneumothorax) - (D) 心包膜填塞 (cardiac tamponade) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
@@ -105,14 +121,6 @@ tags:
 - ...---------------------------------------------------------------------| | (A) 心跳速率較正常低 | 外一-94 | | (B) 心搏量較正常高 | | | (C) 收縮壓較正常高 | | | (D) 血中乳酸(lactate)較正常低 | | | 【詳解】(A) 移植之心臟不受交感神經控制,故運動時心跳加速 | | | 較慢;另外也沒有迷走神經控制,所以休息時心跳也較不受抑 | | | 制。(B) 心搏量主要受 preload 影響,故和正常差不多。 | | | 7. 移植後的心臟在休息狀態下,何種心臟功能參數較正堂為低? | 93(二)專 | | | 外二-91 | | | 71 - 01 | | | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (A) 3. 一位 50 歲男性因急性心臟衰竭住院,入院時收縮壓為 200 mmHg, 檢查發現右腎上腺有一 5 公分腫瘤,臨床醫師懷疑為嗜鉻細胞瘤 (pheochromocytoma),下列敘述何者正確? Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...B) 6. 成人急性大量失血 2,000 毫升 (mL) 以上時,下列何者不是臨床 107(二)專 常見之表徵? 醫五-6 (A) 意識焦慮(anxious) 及錯亂(confused) (B) Pulse pressure 上升 (C) Blood pressure 下降 (D) 尿量減少 (B) 7. 一位 32 歲女性,體重 60 kg,騎機車不慎被貨車撞到造成腹內 - 107(二)專 出血,送至急診時初步檢查為心縮壓(systolic blood pressure) 醫五-75 正常,但脈搏壓(pulse pressure)明顯下降,且心跳 112下/分, 尿量 20~30 mL/hour。此病人約流失多少血液? (A) 500 mL (C) 1,300~1,700 mL Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- 中心靜脈壓(central venous pressure),動脈壓(arterial blood pressure),心輸出量(cardiac output),混合靜脈血氧飽和度 (mixed venous oxygenation saturation) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (B) 23. 一位 38 歲男性,體重 70 kg,騎腳踏車不慎在路口被貨車撞到造成體內出血,送到急診時初步檢查發現收縮壓輕微下降,但脈搏壓 (pulse pressure)明顯下降,且脈搏 110 次 / 分,尿量 25 mL/hr,病人約流失多少血液? Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- ...- a. 症狀:疲倦、肌肉無力、強直性痙攣(tetany)、prolonged QT 和 ST;Chvostek sign:手指輕敲耳前的顏面神經分支會引起同側肌肉抽動;Trousseau sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 2. 肌肉腔室症候群: - (1) 肌肉室間壓力 $> 30 \text{ cmH}_2\text{O}$ ,使得組織灌流不足造成肌肉、神經受損,原因有骨折、血腫、挫傷、血管受傷、燒傷、包紮或石膏打的太緊。 - (2) 最常發生在小腿及前臂,且與骨折的關聯性最高。正常密閉腔室壓力為 0 至 8 mmHg,當腔室壓力逐漸上升,與舒張壓之間相差小於 30 mmHg 時,影響靜脈 血液回流,組織就會開始腫脹。 - (3) 症狀:疼痛(Pain)、壓迫緊繃(Pressure)、感覺異常(Paresthesia)、癱瘓(Paralysis)、蒼白(Pale)、無脈搏(Pulseless),其中疼痛是最早開始出現但也是最不專一性的症狀(並非會痛就是有腔室症候群)。 - (4) 處置:緊急 fasciotomy。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- ...------|--------------------------------------------------------------|------------------| | | (A) 平均動脈血壓 (mean arterial blood pressure) 須大於 60 mmHg | | | | (B) 每小時尿量最好大於 1.0 mL/kg | | | | (C) 尿崩症(diabetes insipidus)並不常見,故尿量變多時,只須 | | | | 減少給予的水分即可 | | | | (D) 高血鈉症是常見的電解質不平衡 | • | | | 【詳解】尿崩症並不少見,捐贈者常常是頭部外傷或腦出血等 | | | | 腦死病人,尿崩應該要積極處理。 | | | (D) 18 | . Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (C) 給予大量輸液及輸血,必須將病患收縮壓維持在 120 mmHg 以上才能轉送 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- 7. CCB for BP control and vasospasm • Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- 1. 保守療法和外科手術的治療結果差不多,目前多先採保守療法: - (1) 控制 blood pressure (約 140/90) 和 cerebral pressure。 - (2) 體液和電解質平衡。 - (3) 防止癲癇發生。 - (4) 校正凝血功能。 - (5) 插管和過度換氣。 - \*類固醇不建議使用在 ICH,會增加 complication 的機率(主要是感染)。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 
 ## Clinical Caveats
 

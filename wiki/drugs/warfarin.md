@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch11]]"
   - "[[sources/med3-book4-ch12]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Warfarin (華法林)'
   - 'Warfarin'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-抑制 vitamin K recycling，降低 factor II、VII、IX、X，需以 INR 監測。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 vitamin K recycling，降低 factor II、VII、IX、X，需以 INR 監測。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch06]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (3) 治療:LMWHs,接著使用 warfarin;瀰漫性肺栓塞可考慮血栓溶解治療,但伴隨有出血的風險;無法使用抗凝血治療,可以使用下降靜脈 filter。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (D) 1.68 歲農婦因右手輕微無力伴隨下肢輕微水腫來診,經診斷為二尖瓣狹窄 (mitral stenosis),超音波顯示為心房顫動 (atrial fibrillation) 且瓣膜開口為 1.35 cm²,過去有右側膿胸且經開胸治療之病史,下列敘述或處置何者正確?①中風之故,不應給與抗凝血劑,如 warfarin ②應建議進行心導管檢查 ③進行瓣膜手術,且可同時進行迷宮手術(Cox-Maze procedure) ④可選擇胸腔鏡或小傷口內視鏡進行手術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (D) 2. 有關心臟瓣膜手術後,服用抗凝血劑(warfarin)下列何者錯誤? Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (B) 15. 王女士 38 歲,接受機械性僧帽瓣置換手術後,術後使用 warfarin sodium,則下列何者正確?①若王女士須服用 thyroxine,應定期 監測 prothrombin time,適當減少 warfarin 的劑量 ②若王女士須 服用當歸、銀杏等中藥,應定期監測 aPTT,適當減少 warfarin 的劑量 ③若王女士須服用口服避孕藥,應定期監測 prothrombin time,適當增加 warfarin 的劑量 ④若王女士嗜食菠菜,應定期 監測 aPTT,適當增加 warfarin 的劑量 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -57,8 +63,6 @@ tags:
 - (4) 發生冠狀動脈病變的病人,長期處理: (參考) - a. Aspirin 3~5 mg/kg,一天一次給藥。視情況加上 dipyridamole 4~6 mg/kg/24 hr,一天分成兩至三次給藥。 - b. 具有產生血栓高風險的病人(冠狀動脈有明顯擴大者), 甚至會給予 warfarin。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - | | Warfarin (口服) | Heparin (靜脈、皮下注射) | |--------|--------------------------------|--------------------------| | 機轉 | 抑制凝血因子製造 | 抑制凝血因子活化 | | | 抑制 vitamin K epoxide reductase | 主要抑制 10a; | | | →減少 Vit K 再生 | 與 Antithrombin 結合,加強其作用, Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (A) coumadin treatment Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- 3. 治療: Warfarin 治療 3 個月,將 INR 控制在 2.5 至 3 左右。 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- 4. 影響 warfarin 代謝的藥物: Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 
 ## Clinical Caveats
 

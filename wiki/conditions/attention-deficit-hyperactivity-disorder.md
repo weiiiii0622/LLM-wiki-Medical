@@ -12,6 +12,9 @@ sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book1-ch12]]"
+  - "[[sources/med6-book1-ch14]]"
 aliases:
   - 'Attention-deficit/hyperactivity disorder, ADHD (注意力不足過動症)'
   - 'Attention-deficit/hyperactivity disorder, ADHD'
@@ -26,7 +29,7 @@ tags:
 
 ## Summary
 
-神經發展疾病，核心為不專注、過動與衝動，需跨情境造成明顯功能受損。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經發展疾病，核心為不專注、過動與衝動，需跨情境造成明顯功能受損。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +41,16 @@ tags:
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med6-book1-ch13]]
+- [[sources/med6-book1-ch12]]
+- [[sources/med6-book1-ch14]]
 
 ## Key Details From Sources
 
+- (AB) 11. 病患若有膀胱過動症(overactive bladder),下列何種治療方式 應最先被採用? Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
+- 【詳解】膀胱過動症應先採用行為治療,定時排尿、並慢慢增加間隔時間,其次考慮藥物,最後才是電刺激。 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
+- ...----------------------------------------|---------------------------------------------------------------|--| | 逼尿肌過動 (膀胱過動症) | 逼尿肌收縮,病人感到急尿或無法壓抑而漏尿 | | | 真性應力性尿失禁 | 腹內壓上升時 ( 咳嗽或 Valsava) 漏尿,而無逼尿肌壓力上升 | | | 非特異性感覺急尿(Idiopathic sensory urgency) | 病人頻尿,檢查的感覺參數低於正常範圍 - 膀胱容積少時便有急尿感與低膀胱的最大容積 (需先排除上述兩項異常) | | | 神經性異常 | 初次感到尿意時的膀胱容積大於正常、超過正常膀胱的最大容積、 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
+- | 脱垂壓迫症狀 | 陰道或骨盆壓迫感、下墜感 | |--------|--------------------------------------------| | 排尿症狀 | (1)輕度脫垂可能會影響膀胱及尿道功能,而造成應力性尿失禁; | | | 但當脫垂惡化成重度脫垂,脫出的組織可能會壓迫尿道,反而 | | | 導致排尿困難,甚至完全性尿滯留 | | | (2)脫垂會增加膀胱過動症 (overactive bladder) 的發生 | | 排便症狀 | 最常見的影響為便秘及排便困難 | | 影響性行為 | 脫垂會影響性高潮及性交滿足度 (sexual satisfaction);有些患者於 | | | 性交時會有漏尿情形,而不願意性行為 | Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
 - ii. 副交感神經抑制劑: Propiverine (Urotrol®)、Solifenacin (Vesicare®),可緩解膀胱不正常運動如膀胱過動症,進而減少排尿。機轉是放鬆膀胱逼尿肌。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (C) 15. 下列那種問題最不會造成膀胱過動症(overactive bladder)? 100(一)專 醫五-70 (A) 腦中風 (B) 良性前列腺肥大症 (C) 子宮頸癌接受根除性切除手術 (D) 胸椎損傷造成膀胱功能損傷 【詳解】接受婦產科手術或大腸直腸手術可能使支配膀胱肌肉 收縮的神經(pelvic plexus)損傷,導致 urinary retention,所以 不是 OAB。 (C) 16. 糖尿病膀胱病變(diabetic cystopathy)是一種常見的糖尿病 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...70 歲的女性接受簡短智能測驗時,可以輕易地複誦三個不 106(二)專 相關的名詞,經過五分鐘的計算能力檢測,大致正常;但是,此 醫四 -53 時卻無法自由回憶剛剛三個名詞,即使給予提示,還是沒有辦法 回想出來。這位女性可能是: (A) 注意力不足 (B) 失語症 (C) 記憶的提取問題 (D) 海馬迴功能障礙 【詳解】海馬迴主管短期記憶。 (A) 9. 大多數阿茲海默症的病人,在疾病早期受影響最多的認知功能為: 106(二)專 (A) 情節性記憶 (episodic memory) 醫四 -54 (B) 人臉的辨認(face recognition) (C) 穿衣服的能力(dressing) (D) 人格改變 (personality change) Source: [[sources/med4-book4-ch06|己、大腦疾病]].

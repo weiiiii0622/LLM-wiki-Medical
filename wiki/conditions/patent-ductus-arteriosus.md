@@ -2,13 +2,15 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Patent ductus arteriosus, PDA (開放性動脈導管)'
   - 'Patent ductus arteriosus, PDA'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-動脈導管出生後未關閉造成主肺動脈間分流；早產兒與特定先心病情境意義不同。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+動脈導管出生後未關閉造成主肺動脈間分流；早產兒與特定先心病情境意義不同。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,13 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...methacin | COX inhibitor ( ↓ Prostaglandins 、 ↓ intracellular Ca) | ・肝腎功能異常・血小板功能異常・腸胃潰瘍・氣喘 | ・ 噁心嘔吐・ 胃痛・ 血小板功能異常 | ・胎兒 PDA 提早關閉 (32 週後使用)・羊水減少 (使用超過 72 小時) | | Nifedipine(Adalat) | Calcuim channelblocker(↓ intracellular Ca) | ・心臓衰竭・低血壓・過敏 | ・心悸、頭痛、頭暈、噁心嘔吐・嚴重低血壓 | ・與 MgSO 4 併用會增加 MgSO 4的毒性;並增加嚴重低血壓的風險 | | Atosiban | Oxytocin receptor antagon Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...y \( \) holoprosencephaly \( \) neural tube defect-meningomyelocele | | | CV | • TGA · VSD · coarctation of the aorta · PDA · single ventricle · hypoplastic left ventricle · pulmonary stenosis · left ventricle atresia and double outlet RV truncus arteriosus | | | GI | • Duodenal atresia · imperforated anus · anorectal atresia · small left co Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - Fetus 的左右心系統除了肺部與系統的微血管相通之外,還有連通左心房與右心房的卵圓孔(Foramen Ovale)與連通主動脈與肺動脈的動脈導管(Ductus Arteriosus)兩處,兩者於產前呈開放(Patent)狀態,名之開放性卵圓孔(Patent Foramen Ovale, PFO)與開放性動脈導管(Patent Ductus Arteriosus, PDA)。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 其中另有肺動脈→開放性動脈導管→主動脈,以及右心房→開放性卵圓孔→左心 房兩條分支路線使右心系統承接自母體回來的充氧血混和至左心系統的缺氧血,提高 氧分壓。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 出生後因 PFO 與 PDA 關閉,故兩條分支路線階段性任務結束。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

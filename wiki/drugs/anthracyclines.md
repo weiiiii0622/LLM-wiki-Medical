@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book1-ch09]]"
 aliases:
   - 'Anthracyclines (蒽環類化療藥)'
   - 'Anthracyclines'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book1-ch09]]
 
 ## Key Details From Sources
 
+- (C) Liposomal doxorubicin Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- 【詳解】最常造成手足症候群之化療藥物包括 cytarabine, liposomal doxorubicin, capecitabine 和 5-fluorouracil (5-FU) 等。 Ref: UpToDate: . Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- (A) doxorubicin 與心臟毒性 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - a. 術前化療(preoperative chemotherapy): 使腫瘤變小,使手術時切除的範圍較小,如果有 tumor necrosis 的跡象,則有較好的 prognosis。 - (a) 化療 (multiple-agent CT) 常用的藥物包括: MICD (high-dose MTX、ifosfamide、cisplatin、doxorubicin)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - a. multiple-agent chemotherapy and limb salvage resection: 標 準 治 療(VCD, vincristine + cyclophosphamide + doxorubicin),術前使用 chemotherapy,減 少腫瘤體積,在進行切除手術,如果已有轉移或太大的腫瘤或位置不能切除 (脊椎或骨盆),可以配合使用 radiation therapy。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
@@ -56,7 +61,6 @@ tags:
 - \*台灣沒有 daunorubicin。 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - (1) 先給予 A (Ara-C) 7 天 -I (Idarubicin) 3 天的引導治療 - a. 達 CR 後預後好→ 3-4 次 High dose Ara-C 鞏固治療即可。 - b. 達 CR 後預後差或未達 CR→異體骨髓移植。 Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...巴瘤(**Diffuse large B cell lymphoma**)等,標準療法即是合併 **Rituximab**(**anti-CD20**)及化學治療 **CHOP**(**R-CHOP**)。 - (4) H是 Hydroxydaunorubicin,心臟毒性較大,因此年紀較大、心臟功能不佳,常使用R-COP。 - \* CHOP (Cyclophosphomide, Doxorubicin = Hydroxydaunorubicin, Vincristin = Oncovin, Prednisolone) Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...cm with ER/PR(-) $\cdot$ Tumor > 0.5 cm with Her2(+) $\circ$ - (b) 傳統上為 CMF (Cyclophosphamide, MTX, 5-FU); - (c) 後來發現加上 Anthracycline 類雖增加心臟毒性,但可更有效控制疾病,所以 改成 CEF(Cyclophosphamide Epirubicin, 5-FU); - (d) 近來在 LN(+) 病人身上,加上 Taxane 類可改善存活,目前美國最常用的組合是 AC+T(Adriamycin, Cyclophosphamide, Taxane) 或 TC(Taxane+ Cyclophosphamide)。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

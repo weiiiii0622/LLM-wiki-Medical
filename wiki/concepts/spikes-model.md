@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book1-ch05]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch19]]"
+  - "[[sources/med6-book1-ch12]]"
 aliases:
   - 'SPIKES model (壞消息告知模型)'
   - 'SPIKES model'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch19]]
+- [[sources/med6-book1-ch12]]
 
 ## Key Details From Sources
 
+- d. 尿流速:女性平均尿流速 12 mL/sec,最大尿流速 20 mL/sec;尿流速圖正常應為一連續性的曲線,既無中斷,也無 spikes。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - (BC)26. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證 實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲 知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外 籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀 而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。 下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 1. 嬰幼兒: - (1) 頭圍增大、頭皮變薄、頭皮靜脈擴大。 - (2) 前囟門變緊、膨出。 - (3) 躁動、意識變差且嘔吐。 - (4) 壓迫到四疊體造成眼皮後翻及無法向上看,別名落日眼(setting sun appearence)。 - (5) 長期會影響智育及發育障礙。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - ...作後會有一段時間意識混淆 (postictal confusion), 甚至可能因為 neuron exhaustion, 導致持續有局部的神經症狀,稱做 Todd's paralysis。 - c. 癲癇發作後腦電圖(EEG)仍可見棘波(spikes),可用來與暈厥(syncope) 鑑別診斷。 - (2) 失神性發作 (absence) =小發作 (petit mal): - a. 常發生於小孩,意識會短暫幾秒鐘到幾分鐘的突然消失,但發作後不會嗜睡、 意識混淆。常見的例子是小男孩在學校上課時常發呆,以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperventilation)或一些光刺激(p Source: [[sources/med4-book4-ch02|乙、癲癇]].

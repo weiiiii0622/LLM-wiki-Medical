@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book3-ch02]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Graves disease (葛瑞夫茲病)'
   - 'Graves disease'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - D. Graves disease 199 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimoto thyroiditis亞急性甲狀腺炎 (de Quervain)Iodine deficiency | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - #### D. Graves disease Source: [[sources/med5-book2-ch20|甲、甲狀腺]].

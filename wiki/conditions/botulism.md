@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch22]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book2-ch17]]"
+  - "[[sources/med6-book1-ch16]]"
 aliases:
   - 'Botulism (肉毒桿菌中毒)'
   - 'Botulism'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book2-ch17]]
+- [[sources/med6-book1-ch16]]
 
 ## Key Details From Sources
 
+- | 治療方法 | 説 明 | |--------------------------|---------------------------------------| | 逼尿肌注射肉毒桿菌素 | • 在膀胱擴張下,將肉毒桿菌素注入逼尿肌 | | 薦椎神經調節 (註1) | · 需手術將薦椎神經調節器 (如: InterStim) 植入體內。 | | (sacral neuromodulation) | | | | | | 口服 cyclosporine A | · 對某些病人,尤其是有 Hunner lesions 者會有效果,不過, | | | 副作用大,包括腎毒性、高血壓、免疫抑制、腹痛、潮 | | | 紅與肌肉 Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - 6. 處置: - (1) 藥物治療:90% 可以癒合 - a. 首要維持排便通暢,降低肛門內括約肌痙攣,故急性期多先給予軟便劑並教 導正確排便習慣。 - b. 溫水坐浴:使肛門內括約肌放鬆,增加局部血流加速肛裂癒合。 - c. 局部塗抹 glyceryl trinitrate (GTN) ointment (0.2~0.4%), 也是使肛門內括約 肌放鬆,增加局部血流加速肛裂癒合。不過會有頭痛的副作用。 - d. GTN 失敗時可考慮使用 diltiazem ointment、CCB 或注射肉毒桿菌至肛門內括約肌。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
 - II. 神經肌肉接合處疾病 (Neuromuscular Junction Disease) 174 - A. 重症肌無力 (Myasthenia gravis) 174 - B. Lambert-Eaton syndrome 175 - C. 肉毒桿菌中毒 (Botulism) 175 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].

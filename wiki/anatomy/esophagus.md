@@ -49,6 +49,8 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch06]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Esophagus (食道)'
   - 'Esophagus'
@@ -63,7 +65,7 @@ tags:
 
 ## Summary
 
-食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +114,13 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch06]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- 黃體素使得下食道括約肌張力降低,會導致胃食道逆流;加上懷孕時腹內 壓上升,吸入性肺炎的風險增加,尤其在生產腹部用力時或全身麻醉時 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ※年輕女性可用 Z-score 來評估,若 Z-score 分鐘的直立坐姿,以減少腸胃副作用(胃食道逆流與食道潰瘍)。●相對禁忌症為食道的硬皮症、遲緩不能 (achalasia) 或窄縮。●不應使用在 Barrett's esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 1. 機轉 & 成因:為化膿性肋膜腔感染,是肋膜渗出液(exudate)最常見的形式。可 經胸壁創傷或手術傷口直接污染肋膜腔,或經血液(菌血症或敗血症)、肺部感染、 肺膿瘍破裂、感染性肺開洞破裂或縱隔感染(食道穿孔)等造成肋膜腔感染。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - Figure 19-52. Normal thoracic duct anatomy. The esophagus comes into close proximity with the thoracic duct as it enters the chest from its origin in the abdomen at the cisterna chyli. Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 3. 後縱隔腔:食道、降主動脈、奇靜脈、半奇靜脈、胸管、交感神經鏈、淋巴結。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
@@ -131,8 +137,6 @@ tags:
 - (3) Partial gastrectomy: 可以分成切遠端(distal) 與切近端(proximal),但近端切除併胃腸吻 合較易發生切除範圍不乾淨或食道逆流等後 遺症,一般較少採用。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - a. 在 Treitz's ligament 後約二十公分處,選擇一處兩端血液供應皆充足的地方, 將空腸截成兩段,遠端空腸與食道或胃相接,並將近端空腸與十二指腸相接。 主要可讓消化液分流,減少膽汁逆流的發生。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 【 詳解 】(A)(B)(C) 位於 cardia 的 gastric cancer 可 視 為 lower esophageal cancer, 目 前 可 以 做 proximal gastrectomy 和 total gastrectomy。proximal gastrectomy 容易造成食道逆流、dumping syndrome 或 anastomosis stricture等 complication,也會有較高的 mortality rate,一般以 total gastrectomy 為首選。(D) Distal gastric cancer 的預後較好。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (B) 預防肝硬化所引起的食道靜脈瘤的首選藥物為非選擇性 α-blockers Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (D) 食道靜脈瘤出血處置需要外科介入的情況,包含內視鏡處理 失敗,胃靜脈瘤出血和 TIPS 治療失敗 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 
 ## Clinical Caveats
 

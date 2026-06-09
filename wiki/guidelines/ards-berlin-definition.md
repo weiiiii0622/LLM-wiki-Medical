@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Berlin definition of ARDS (ARDS Berlin 定義)'
   - 'Berlin definition of ARDS'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合�
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- 【詳解】敗血症是導致 acute respiratory distress syndrome (ARDS) 的主要原因,而其他三者則和敗血症無明顯相關,故選 (D)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - S. 急性呼吸窘迫症候群(Acute respiratory distress syndrome, ARDS) *62* Source: [[sources/med5-book4-ch03|丙、肺]].
 - ### S. 急性呼吸窘迫症候群 (Acute respiratory distress syndrome, ARDS) Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].

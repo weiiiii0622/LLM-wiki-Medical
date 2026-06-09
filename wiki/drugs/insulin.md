@@ -40,6 +40,10 @@ sources:
   - "[[sources/med5-book4-ch13]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Insulin (胰島素)'
   - 'Insulin'
@@ -54,7 +58,7 @@ tags:
 
 ## Summary
 
-治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +98,22 @@ tags:
 - [[sources/med5-book4-ch13]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- 2. 成因:與懷孕中期之後,胎盤分泌的 human placental lactogen (HPL),造成 insulin resistance 有關。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- 註:胎兒在子宮內暴露高血糖,造成胎兒高胰島素血症,出生後容易低血糖。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (2) 適度運動:一週三次,每次 30 分鐘。適度運動有助於改善心血管循環,可增加 insulin 的敏感性,有助於降血糖; Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- b. 為維持胎兒的血糖,人類胎盤泌乳素(human placental lactogen, HPL)作用, 使孕婦對胰島素敏感度下降,降低組織利用,而產生餐前低血糖、飯後高血 糖和高胰島素濃度。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ※ IGFBP-1 (Insulin-like growth factor binding protein 1)和 PAMG-1 (Placenta alpha microglobulin 1 protein)皆為羊膜腔內特定的物質,鮮少可見於陰道內,藉由免疫方法偵測陰道液體,若呈現陽性,高度懷疑破水。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 2. 病生理機轉: PCOS 的生理影響主要來自高雄性素, 高雄性素可能和胰島素抗性和 雄性素合成相關基因的變異有關。下圖請配合臨床表現閱讀。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 註: 性激素結合球蛋白 (sex hormone binding globulin, SHBG) ↓: 受到高胰島素血症, SHBG 下降約 50%,因此即使 total serum testosterone 濃度只有稍微上升,但是未 結合、具活性的 androgens 比例增加,普遍還是會造成高雄性素的表現。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | (1)慢性不排卵 | 少月經或無月經 | |-------------------------------------|--------------------| | | 不孕 | | | 增加子宮內膜癌風險(註1) | | (2) 高雄性素症 | 多毛症、青春痘、禿頭 | | | 黑色素棘皮症(註2) | | (3) 卵巢異常 | 超音波下顯示多囊性卵巢(註3) | | | 卵巢體積增加且皮質增厚 | | (4) Gonadotropin 異常 LH/FSH ratio 上升 | | | (5)新陳代謝問題 | 胰島素阻抗、增加 Type 2 DM | | | 肥胖、血脂異常、代謝性症候群(註4) | | | 非酒精性脂肪性肝病、睡眠呼吸中止 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (ii) 若每天 50 mg 沒有排卵,可提高劑量至每天 100 mg;若仍沒有排卵,可合併胰島素增敏劑 metformin 使用,增加排卵率。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ② 腫瘤也可分泌其他生物因子:分泌腎上腺皮質激素造成 Cushing's syndrome,分泌催乳素造成溢乳,分泌胰島素造成低 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (b) 糖尿病:因為藥物會使胰島素製造不足及週邊組織胰島素抗性增加,例 如 CNI 藥物(而其中 tacrolimus 比 cyclosporine 容易導致術後糖尿病。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 2. 合併異常:約30% 病童有染色體異常包含 Trisomies 13、18、21,超過50% 病童有合併其他異常,以心臟異常最常見、其次為肌肉骨骼異常、腸胃道異常和生殖泌尿道異常。也很常出現 Beckwith-Wiedemann syndrome,以臍膨出(omphalocele)、高胰島素血症(hyperinsulinemia)和巨舌(macroglossia)為主要表現。預後較差,因易有其他合併異常。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
@@ -106,15 +123,6 @@ tags:
 - 【詳解】題幹描述,符合 Whipple triad:血糖濃度小於45 mg/ dL,且有低血糖症狀,補充葡萄糖後迅速恢復。此外 Insulin/ Glucose (I/G) 比值 > 0.3,考慮是 insulinoma。在胰尾的 tumor 考慮 distal pancreatectomy。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (B) 2. 關於胰島素瘤(insulinoma)之敘述,下列何者錯誤? Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (C) 診斷 insulinoma 重要的臨床症狀是 Whipple's triad,包括低血糖的症狀、當時測得的血糖濃度偏低,及給予靜脈注射葡萄糖液可以減輕低血糖的症狀 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (D) 定位 insulinoma 的影像學工具包括有腹部電腦斷層及磁振造影 【詳解】絕大部分的 insulinoma 為良性,而且是 slow growth。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- b. 功能:抑制胃部排空、膽囊收縮,也會抑制激素的分泌如生長激素(growth hormone)、升糖素(glucagon)、胰島素(Insulin)、胃泌素(gastrin)、腸泌血管擴張激素(VIP)、胰高血糖素(GLP)、腸促胰泌素(secretin)等等。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
-- (4) 胃抑制胜肽 (Gastric inhibitory peptide, GIP): - a. 由 K 細胞(K cell)所分泌,主要是受到脂肪與葡萄糖所刺激分泌。 - b. 功能: - (a) 抑制胃部的運動。 - (b) 增加胰島素的分泌。 - c. 分泌位置:小腸。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
-- ...嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (b) Acarbose:可減緩醣類的分解,減少胰島素分泌,避免 late dumping 的產生。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- A. Insulinoma (胰島素瘤) 228 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- #### A. Insulinoma (胰島素瘤) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 1. 定義:正常的 β 細胞會因應血糖的上升而分泌胰島素達到降血糖的效果,但是 insulinoma 的 β 細胞不論是在飢餓狀態或是運動後仍會持續分泌胰島素,造成低血糖。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- (D) 6. 承上題,對於急性高鉀血症的處置,下列何者效果最慢? 109(一)專 (A) 靜脈注射 50 mL 的 D50W 和 10 units 的短效胰島素 (regular 醫五-50 insulin), 並嚴密監測血糖 (B) 靜脈注射 10 mL 的 10% 氯化鈣 (calcium chloride) 或是 10 mL 的 10% 葡萄糖酸鈣 (calcium gluconate) (C) 靜脈注射 50~100 mEq 的碳酸氫鈉 (sodium bicarbonate) (D) 給與腸胃道的 potassium-binding resins (C) 7. 下列何者為主動脈氣球幫 Source: [[sources/med5-book2-ch08|辛、其 他]].
 
 ## Clinical Caveats
 

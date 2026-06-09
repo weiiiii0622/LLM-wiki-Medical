@@ -40,6 +40,8 @@ sources:
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Heart valves (心臟瓣膜)'
   - 'Heart valves'
@@ -54,7 +56,7 @@ tags:
 
 ## Summary
 
-瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +96,14 @@ tags:
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- 【詳解】(C) 對於有症狀的孕婦,少數藥物治療無效者,可考慮瓣膜修復(valvuloplasty)或主動脈瓣膜置換(aortic valve replacement)。[Ref: UpToDate ] Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (D) 透納氏症女性的特徵為蹼頸、盾狀胸、主動脈瓣膜缺損以及 嚴重智力障礙 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...) DTR ↓ (2) 麻痺、呼吸急促 (3) 心臟傳導 | | Nitroglycerinor Glyceryltrinitratepatch | Nitric oxidedonors(↑ cGMP,平滑肌放鬆) | ・低血壓・心臟病(如主動脈瓣閉鎖不全) | 頭暈、噁心嘔吐、潮紅、心悸、頭痛低血壓 | | | 註 1:Ritodrine · 為唯一通過美國 FDA 的安胎藥物,不過,由於副作用大,美國早已停售 | | | | | | 註 2: MgSO 4 · 美國 FDA 通過的 MgSO 4 使用適應症是預防子癇前症發生癲癇發作, MgSO 4 用來安胎是 off-label use · 美國 FDA 在 2013 年 5 月 30 日發布一則警訊,建議使用 MgSO 4 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...x) | | | (B) 輸尿管腎盂接合處阻塞(ureteropelvic junction obstruction) | | | (C) 雙套輸尿管合併輸尿管開口異位 | | | (D) 後尿道瓣膜(posterior urethral valve) | | | 【詳解】(B)為正解,而(D)也有可能;所以考選部解答為(BD)。 | | | (C) 36. 膀胱癌實驗室檢查項目中最常見之異常為: | 98(一)專 | Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - 4. 好發位置:在迴腸上,距離迴盲瓣 (ileocecal valve) 45 至 60 公分,在腸繋膜相對的一側。(相對位置說明:腸繋膜—迴腸—梅克爾憩室,即所謂的腸繫膜對側 (antimesenteric side))。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (2) 2 feet from the ileocecal valve: 距離迴盲瓣 2 英尺。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -112,9 +119,6 @@ tags:
 - 【詳解】依題幹推測為二尖瓣閉鎖不全,先使用 IABP 維持心臟血液穩定輸出,然後緊急手術修補。原本左心室的血流應於心收縮期時往打開的主動脈瓣方向噴入升主動脈,但在二尖瓣閉鎖不全的患者,分出一部分噴入左心房,產生新的心尖部心縮期雜音,降低有效心輸出並形成低血壓,製造左心房內部高壓並將此高壓逆著血流一路傳遞經肺靜脈、肺血管系統、肺動脈乃至於右心室、右心房與中心靜脈,因而形成中心靜脈高壓與肺水腫。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - | 可以改善心臟功能及臨床症狀,但下列何者除外? (A) 冠狀動脈繞道手術(coronary artery bypass surgery) (B) 二尖瓣逆流重建手術(mitral reconstruction) (C) 經心肌 雷射血管再生術(transmyocardial laser revascularization) (D) 部分左心室心肌切除手術(partial left ventriculectomy) 【詳解】TMLR 適用在治療無法以傳統冠狀動脈繞道手術治療的末期冠狀動脈疾病之病人,不適用於末期心臟衰竭患者。 (A) 14. 下列關於急性心肌梗塞的敘述,何者錯誤? (A) Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (7) 處置:藥物可給予前列腺素(PGE1)維持動脈導管的通暢,以減緩陣發性呼吸 困難(缺氧性)。但如須完全矯正仍需要手術。 - a. 完全矯正手術 (total correction): - (a) 將 VSD 修補以及右心室出口或肺動脈狹窄處擴大術,以心包膜片(pericardial patch)來擴大狹窄的肺動脈瓣環(pulmonary valve annulus)。但假 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- (b) 術後併發症: 傳導異常、殘餘的心室中膈缺損、殘餘的肺動脈狹窄、肺動脈瓣關閉不全、右心室衰竭、心肌梗塞、早發性心室傳導。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- (1) 左心發育不全,左心房和心室比正常人小很多(見下圖左),常合併主動脈弓窄縮、主動脈瓣狹窄/閉鎖以及二尖瓣狹窄/閉鎖。由於左心和主動脈幾乎無作用,全身血液循環需藉由肺動脈經 PDA 供應。而冠狀動脈的血流來源也倚靠肺動脈、動脈導管,經主動脈、倒流回冠狀動脈,導致心肌灌流不足。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- A. 僧帽瓣 (Mitral valve) 68 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 
 ## Clinical Caveats
 

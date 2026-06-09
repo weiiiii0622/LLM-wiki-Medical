@@ -51,6 +51,10 @@ sources:
   - "[[sources/med5-book6-ch05]]"
   - "[[sources/med5-book6-ch01]]"
   - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch12]]"
 aliases:
   - 'Arterial blood gas, ABG (動脈血氣)'
   - 'Arterial blood gas, ABG'
@@ -65,7 +69,7 @@ tags:
 
 ## Summary
 
-評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +120,21 @@ tags:
 - [[sources/med5-book6-ch05]]
 - [[sources/med5-book6-ch01]]
 - [[sources/med5-book6-ch06]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch12]]
 
 ## Key Details From Sources
 
+- | VDRL \ RPR | 酵素免疫分析 EIA (enzyme immunoassay) 的方式值 | |------------------|--------------------------------------| | | 測梅毒抗體 IgM 和 IgG,作為篩檢(可能有偽陽性) | | FTA-ABS > TP-MHA | 確認梅毒病原體 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- FTA-ABS: fluroscent treponemal antibody absorption; Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 1. Mol F, Mol BW, Ankum WM, et al: Current evidence on surgery, systemic methotrexate and expectant management in the treatment of tubal ectopic pregnancy: A systematic review and meta-analysis. *Hum Reprod Update* 2008; 14(4): 309-19. Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (AorD 2. 下列何者為使用 beta-adrenergic agonist 安胎之可能併發症? Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (A) 給予 beta-adrenergic agonist Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (B) 給予 beta-adrenergic agonist 及抗生素 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...腹脹、腹痛、呼吸困難 | | | | | | 或寡尿才考慮抽腹水 | | | | | | 目前觀念 積極抽腹水,只要有中度以上腹水,病人 | | | | | | 臨床上有不適即可抽腹水 | | | | | ・預防血栓 | (1) 診斷方法:arterial blood gas、ventilation/perfusion | | | | | | scan 和 CT scan。 | | | | | | (2) 預防方法: 穿彈性襪、給予 heparin (Hct > 55% 考 | | | | | | 慮給予 | ) • | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...手術史有關 | | | 尿道關閉壓力 (Pclose) | ・尿道內壓力 (Pure) -膀胱內壓力 (Pves)・平均最大值 (女):90 ( &lt; 25 y/o);65 ( &gt; 64 y/o) | | | 腹內壓力 (Intra-abdominal pressure, Pabd) | 壓力感測器置於陰道或直腸測得 | | | 逼尿肌壓力 (Detrusor pressure, Pdet) | 膀胱內壓力 (Pves) -腹內壓力 (Pabd) | | Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - (2) Displaced 或 intra-articular 的骨折: Open reduction and internal fixation (ORIF)。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - (B) 患側的關節內降差 (intra-articular step-off) 小於 2 mm Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - 【詳解】(B) Smith fracture: distal radial extra-articular fracture + volar tilt; (D) Essex-Lopresti fracture: radial head fracture + dislocation of the distal radioulnar joint + rupture of the antebrachial interosseous membrene. Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
@@ -129,14 +145,6 @@ tags:
 - (A) 10% 為兩側、10% 為惡性、10% 不長於腎上腺內 (extra-adrenal) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - Reference: Grulich AE, van Leeuwen MT, Falster MO, Vajdic CM. Incidence of cancers in people with HIV/AIDS compared with immunosuppressed transplant recipients: A meta-analysis. *Lancet* 2007; 370(9581): 59-67. Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D) 2.42 歲男性因雙側肺氣腫(emphysema)導致呼吸窘迫而入院,胸 101(二)專 部電腦斷層顯示其右上肺葉有一巨大之氣泡(bullae),且壓迫到 醫五-22 縱隔腔而出現 mediastinal deviation 的現象。若欲為此病患實行 lung volume reduction surgery,為避免病患術後發生呼吸衰竭, 下列檢查何者無助益? - (A) 動脈血氧 (ABG) - (B) 肺功能檢查 - (C) 肺部之 ventilation and perfusion scan - (D) 心電圖檢查 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (D) 4. 一位 30 歲的男性工人從 6 公尺高的鷹架墜落,身體檢查顯示收縮壓 120 mmHg,右胸有明顯的連迦胸(flail chest),嚴重的呼吸窘迫(severe respiratory distress),右胸呼吸聲音稍微降低,叩診時則左右兩側類似。給予非再呼吸型面罩氧氣 15 L/min 後,其動脈氣體分析為 pH: 7.47,PaO2: 65 mmHg,PaCO2: 28 mmHg;下列何者最可能解釋他的異常動脈氣體分析之原因? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 3. 術後併發症: - (1) 腹內膿瘍 (intra-abdominal abscess)。 - (2) 膽汁滲漏 (Bile leakage)。 - (3) 肝功能衰竭(Liver failure): 若剩下的肝臟比例不足,很有可能會造成 liver failure。術前需仔細評估肝臟功能,後面的內容會再解釋。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- A. 主動脈內氣球幫浦(Intra-aortic ballon pump, IABP) 98 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- #### A. 主動脈內氣球幫浦 (Intra-aortic ballon pump, IABP) Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (a) FiO2: 1.0, PaO2 2 retention,造成血行動力學不穩,已排除可逆轉之原因。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- ...c murmur (Left to Right shunt), Doppler 超音波是最佳的診斷工具。 - (4) 處置:緊急手術切除 rupture 的 necrotic tissue,並進行修補。手術前先做主動脈 內氣球幫浦(intra-aortic balloon pump, IABP)可穩定血循,降低 afterload(也 就是降低 systemic vascular resistance)並增加血液灌流至 coronary perfusion。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- ...) 若發生心室中隔破裂(ventricular septal rupture)需要緊急手術 (C) 若發生左心室游離壁破裂(left ventricular freewall rupture)需要緊急手術 (D) 主動脈內氣球幫浦(intra-aortic balloon pumping)常用於急性心肌梗塞併發休克 | | |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 
 ## Clinical Caveats
 

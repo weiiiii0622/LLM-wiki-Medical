@@ -41,6 +41,9 @@ sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med5-book6-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Secondary skin lesions (次發性皮膚病灶)'
   - 'Secondary skin lesions'
@@ -55,7 +58,7 @@ tags:
 
 ## Summary
 
-膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +99,15 @@ tags:
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book6-ch09]]
 - [[sources/med5-book6-ch10]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...- a. 50 g 葡萄糖水篩檢:不須禁食,飲用 50 g 葡萄糖水後 1hr 測血糖,標準為 測量時間 (Hrs) | National diabetesdata group (mg/dL) | Carpenter & Coustan scale (mg/dL) | |------------------------------------|-----------------------------------------|-----------------------------------| | Fasting | 105 | 95 | | 1 | 190 | 180 | | 2 | 165 | 155 | | 3 | 145 | 140 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...al pregnancy):著床於子宮與輸卵管交 | | | 界處 | | and the second | ・子宮頸外孕 (Cervical pregnancy):著床於子宮頸內管 | | | · 子宮疤痕外孕 (Hysterotomy scar pregnancy):著床於剖腹產或其他手 | | nen en en en en en en en en en en en en | 術疤痕上 | | 罕 見 | ・ 卵巢外孕 (Ovarian pregnancy):著床於卵巢上 | | | • 腹腔外孕 (Abdominal pregnancy):可能著床於大網膜、骨盆壁、闊韌 | | | 帶、子宮直腸窩等部位 | | 16.22 (3) | • 合併妊娠 (Heterotopi Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - b. 特徵為多發性關節發炎,會有關節處 pannus(翳)的產生,診斷的標準是七個特徵有符合四個就合乎診斷(> 3 個關節腫脹、腕 / 手關節腫脹 [ 通常 為 MP 或 PIP joint、對稱性腫脹、晨僵超過一個小時、rheumatoid nodule、 RF(+)、腕 / 手關節影像上有 erosion 或 periarticular osteopenial) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...removal or coagulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the s Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - | 射精量 | > 1.5 ml | |------|-------------------------------------| | 精蟲濃度 | $> 15 \times 10^6 \text{ sperm/ml}$ | | 活動度 | > 40% (Grade 3 + Grade 4) | | 前進度 | 2 (scale 1~4) | | 型態 | > 30% WHO normal forms | | | > 4% Kruger normal forms | Source: [[sources/med5-book5-ch08|辛、男性學]].
@@ -114,9 +123,6 @@ tags:
 - b. Venous phase 較為 isodense,但中央仍可見 hypodense 的 central scar。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
 - 6. 消化道出血 (Peptic ulcer)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - (c) 除了標準的 Whipple procedure 之外,很多醫師也會採用幽門保留術 (Pylorus-preserving pancreaticoduodenectomy, PPPD)。據臨床研究, 與 Whipple procedure 相比,進行 PPPD 對於病人預後並無明顯提升,但 會縮短手術時間,術後較不會出現 Dumping syndrome,營養狀況也較好。但胃排空時遲緩 (delayed gastric emptying) 與邊緣性潰瘍 (marginal ulcer) 出現的機會較大。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 4. 補充:這邊不得不提到一顆好藥:**Proton pump inhibitor**。由圖片可知 Parietal cell 可受到**神經細胞**與**腸道賀爾蒙(histamine、Gastrin**)這三個 pathway 來控制胃酸的分泌。傳統的 H2 blocker 只能 block histamine 的 pathway,並不能有效控制胃酸的分泌,但 PPI 卻能有效直接抑制幫浦,直接 block 住三線 pathway,抑制胃酸的分泌,也大大減低近年來因 peptic ulcer 所帶來的 complication 如出血或穿孔。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
-- (A) 9. 有關 solitary rectal ulcer syndrome 之敘述,下列何者錯誤? Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- (A) 一定要有肛門口近端 4 到 12 公分處的 anterior rectal wall ulcer 才算 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 
 ## Clinical Caveats
 

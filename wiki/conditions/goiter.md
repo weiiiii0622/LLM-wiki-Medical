@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch09]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Goiter (甲狀腺腫)'
   - 'Goiter'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-甲狀腺腫大可為 diffuse 或 nodular，功能可亢進、低下或正常，需依症狀、功能與惡性風險評估。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺腫大可為 diffuse 或 nodular，功能可亢進、低下或正常，需依症狀、功能與惡性風險評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch09]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- | 症 狀 | · 心搏過速、焦慮、手抖、減緩母親增重、妊娠劇吐 | |-----|--------------------------| | 表 徵 | ・甲狀腺腫大、突眼 | | 實驗室 | ・TSH ↓和 free T4 ↑ | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 1. 骨頭惡性腫瘤有一定的比率(超過一半以上)是轉移癌。來源以下面幾個最為常見: - (1) 肺癌。 - (2) 乳癌。 - (3) 前列腺癌。 - (4) 甲狀腺腫瘤。 - (5) 肝癌。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - G. 甲狀腺腫瘤(Thyroid tumor) 70 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].

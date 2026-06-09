@@ -36,6 +36,8 @@ sources:
   - "[[sources/med5-book3-ch04]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Statins (史他汀類)'
   - 'Statins'
@@ -50,7 +52,7 @@ tags:
 
 ## Summary
 
-降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +88,16 @@ tags:
 - [[sources/med5-book3-ch04]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...flutamide ( 肝毒性 )。 | | | | ・物理性除毛 ± 抑制毛髮生成外用藥 (如:vaniqa) | | | 新陳代謝問題 | · metformin 或其他胰島素增敏劑來改善胰島素抗性 | | | | ・ 血脂異常可用 Statins 類藥物 ( 如:simvastatin) 治療 | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (1) estrogen 會影響脂肪代謝(增加 HDL、減少 LDL)、減少胰島素抗性和增加動脈血流,因此更年期後冠心病風險會增加。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (B) 女性荷爾蒙有降低 LDL 的效果,所以可用於預防心血管疾病 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...budding yeast 或 hyphae · 加入 10% KOH 將細胞破壞可更清楚觀察到 budding yeast 或 hyphae • 100 mg Clotrimazole 陰道塞劑 7 天或 100,000 unit Nystatin 陰道塞劑 14 天 治療 ・單一劑量口服 fluconazole 150 mg ·若為反覆復發個案,可給予口服 fluconazole 150 mg 3 劑 (每隔 3 天), Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...療 | Metronidazole 或 | 口服 (fluconazole) | 口服 metronidazole | | | Clindamycin 之口服 | 或局部 (clotrimazole, | | | | 藥或陰道乳膏 | nystatin) 抗黴菌藥 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...(D) 18. 對於腎臟移植後的處置, | | 103(二)專 | | ① 通常會使用 β-blockers來控制高血壓 | ,hydralazine 和 calcium channel blockers | 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - #### (2) 體抑素 (somatostatin): Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - d. 這是一個滿棒的反向性激素。因此就出現了 **Octreotide** 這樣子人工合成的 somatostatin,當病人腸胃道出血(常用於 EV bleeding),可使用 Octreotide 抑制腸胃道激素的分泌,減緩出血。此外也可利用其抑制生長激素分泌的特性來治療 Acromegaly。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
@@ -102,11 +111,6 @@ tags:
 - E. Somatostatinoma 231 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 3. 一般為 5 mU/mL、血糖 111In-octreotide scintigraphy(成功率僅 50%,效果劣於偵測其他胰島細胞瘤,因 insulinoma 含的 somatostatin receptor 較少)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - (2) 111In-octreotide scintigraphy:最有效,因為 90%的 gastrinoma 有 somatostatin receptor。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- ...巨噬細胞之能量來源。是維持腸道黏膜完整和免疫功能的重要物質,在 stress 和敗血症時含量會很明顯地下降。 - (5) Arginine:為一氧化氮(NO)的原料來源,促使血管舒張減少心臟輸出的負荷, 緩和心紋痛的狀況,降低低密度脂蛋白(LDL)氧化,另外能促進傷口癒合, 以及促進免疫系統分泌自然殺手細胞、吞噬細胞和 interleukin-1。 - (6) 支鏈胺基酸 (Branched-chain amino acids, BCAA):包括 Leucine, Isoleucine, Valine 均屬必須胺基酸,可直接由骨骼肌代謝產生能量而非肝臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - ( Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- 【詳解】水溶性纖維可與脂肪酸結合,降低膽固醇總量和 LDL 膽固醇,延長食物在胃中停留的時間,從而減慢糖分釋放及被吸收的速度,有助糖尿病患者控制血糖。非水溶性纖維能幫助食物渣滓通過腸道,防止便秘,控制及平衡腸道的酸鹼值,防止微生物產生致癌物質,有助預止結腸癌。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

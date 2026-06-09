@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Diabetes insipidus (尿崩症)'
   - 'Diabetes insipidus'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,12 @@ ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- (d) 併發症:手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下 垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】泌乳激素瘤 1 公分以上為 macroadenoma,已造成視野缺損,須接受治療。(A) 藥物治療(dopamine agonist,如 cabergoline, bromocriptine)為首選之治療方式,藥物效果良好(約 90%),但仍有 10% 對藥物無反應;(B)(C) 若藥物治療無效,可考慮經蝶竇腦下垂體手術(transsphenoidal pituitary surgery)切除腫瘤,不過,手術切除後可能復發,需接受定期追蹤;(D) 手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ii. 人工合成之抗利尿激素(DDAVP):可治療夜尿。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...----------------| | | (A) 平均動脈血壓 (mean arterial blood pressure) 須大於 60 mmHg | | | | (B) 每小時尿量最好大於 1.0 mL/kg | | | | (C) 尿崩症(diabetes insipidus)並不常見,故尿量變多時,只須 | | | | 減少給予的水分即可 | | | | (D) 高血鈉症是常見的電解質不平衡 | • | | | 【詳解】尿崩症並不少見,捐贈者常常是頭部外傷或腦出血等 | | | | 腦死病人,尿崩應該要積極處理。 | | | (D) 18 | . 下列何種情況對於受腎者而言是腎臟移植手術的禁忌? | 99(二)專 | | | (A) 糖尿病 | 醫五-2 | | | Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 4. 臨床症狀: - (1) 視神經 / 視交叉被壓迫: 視神經萎縮、兩側顳側半盲。 - (2) 下視丘/腦下腺受損:腦下腺功能低下、侏儒症、尿崩症。 - (3) 阻塞到孟羅 (Monro) 氏孔=> IICP。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -65,8 +69,6 @@ ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合
 - 【詳解】最有可能是 nephrogenic DI,治療是 thiazide 跟限鹽。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(chronic kidney disease)的敘述,下列何者最不正確? Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - 3. 腦垂體後葉則由下視丘的神經元經腦垂體柄(Pituitary stalk)延伸到腦垂體後葉,由神經末梢分泌荷爾蒙(ADH、Oxytocin)。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- ...交叉 | 先損失紅色視覺 (Loss of red perception) | | (Optic chiasm) | 接著雙側顳側上方視野 (Bitemporal hemianopia) | | 往上壓下視丘 | 體溫失調、食慾改變、肥胖、尿崩症 | | (Hypothalamus) | 睡眠、行為、自主神經失調 | | 上壓到額葉 人格異常 (Personality disorder) | | | (Frontal lobe) | 嗅覺喪失症 (Anosmia) | | 往旁側壓到海綿竇 CN3,4,5-2,6 眼肌麻痺 (Opthalmoplegia)、眼瞼下垂 (ptos | | | (Cavernous sinus) | 臉麻 (Facial numbness) | | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
-- | 缺乏的荷爾蒙 | 補充的的荷爾蒙 | | |-------------------------------------------------------------------------|--------------|--| | GH | Somatotropin | | | 女性 Premarin (Conjugated estrogen)、Provera (Progester男性 Testosterone | | | | TSH | Thyroxine | | | ACTH | Cortisone | | | Vasopressin(中樞性尿崩症) Vasopressin (DADVP) 鼻噴劑 | | | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 

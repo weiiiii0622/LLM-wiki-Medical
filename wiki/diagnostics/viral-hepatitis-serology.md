@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch24]]"
   - "[[sources/med3-book2-ch17]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Viral hepatitis serology (病毒性肝炎血清學)'
   - 'Viral hepatitis serology'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,12 @@ tags:
 - [[sources/med3-book4-ch27]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...診:家庭疾病史、過去疾病史、過去孕產史、本胎不適症狀。 ・身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 ・實驗室檢查:血液常規(WBC, RBC, Plt, Hct, Hb, MCV)、血型、Rh 因子、B型肝炎(HBsAg, HBeAg)、梅毒(VDRL)、德國麻疹(Rubella IgG)、HIV、尿液常規。 二、例行產檢。 註:若德國麻疹抗體檢查呈陰性之孕婦,宜在產後注射德國麻疹疫苗 ※預產期評估(Naegele's rule):LMP 日期,月+9,日+7+(週期-28) | | | | | 第2次 | | 16 週 | 例行產檢。 | | | | | 第3次 | | 20 週 | • 例行產檢。 | | | | | | 期,妊娠 | | • 超音 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (3) B型肝炎表面抗原檢查(HBsAg與HBeAg)(若有特殊情況,無法於第一次產檢檢查,可改於32週前後檢查) - a. 若孕婦為 B 型肝炎帶原者,可能會垂直感染給胎兒,感染主要發生在生產中或生產後,嬰兒接觸到母親的血液及其他體液。HBeAg 陽性的孕婦在生產前後有70到90%的機會感染她們的新生兒; - b. 出生後 24 小時內給予 B 型肝炎免疫球蛋白,加上第一劑的 B 型肝炎疫苗可以增加對帶原者母親嬰兒的保護率達 85 到 90%。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (C) 15. 55 歲林先生,近數月來感覺疲倦、食慾減退,右上腹部也感到 有些脹痛。血液檢查胎兒蛋白(alpha-fetoprotein)值正常、HBsAg 陽性(HBsAg+),肝臟 Dynamic CT 影像如圖(一),手術前再 度做血管攝影檢查如圖(二)。林先生最可能患了什麼病? 102(一)專 醫五-73 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】Anti-HBs 可經由疫苗注射或是自然感染後獲得。Anti-HBc(+)表示正在感染的 B 肝帶原者,或是感染過 B 肝病毒但已痊癒者(若是 Anti-HBc(-)的人,代表未曾感染 B 肝病毒,可選擇注射疫苗以避免日後感染。) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...家庭疾病史、過去疾病史、過去孕產史、本胎不適症狀、成癮習慣查詢。 (2) 身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 (3)實驗室檢驗:血液常規(WBC、RBC、Plt、Hct、Hb、MCV)、血型、Rh 因子、HBsAg 及 HBeAg(惟因特殊情況無法於本次檢查者,可於第五次孕婦產前檢查時接受本項檢查)、VDRL 或 RPR(梅毒檢查)、Rubella IgG(德麻疹抗體)、愛滋病檢查(EIA或 PA)及尿液常規。 2. 例行檢查項目。(註二)註: 德國麻疹抗體檢查呈陰性之孕婦,應在產後儘速注射1劑麻疹腮腺炎德國麻疹混合疫苗,該劑疫苗免費。(註五) | | 第二次 | | 第16週 | 1. 例行檢查項目。(註二)2. 早產防治衛教指導。 | | 第 Source: [[sources/med3-book4-ch27|丁、預防醫學]].

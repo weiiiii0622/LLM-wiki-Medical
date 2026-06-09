@@ -17,6 +17,9 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Renal sodium and water handling (腎臟鈉水處理)'
   - 'Renal sodium and water handling'
@@ -31,7 +34,7 @@ tags:
 
 ## Summary
 
-腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +51,16 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- | 藥 物 | 作用 | 給藥方式 | 副作用 | |---------------|-------------|----------|-------------| | Oxytocin | 子宮收縮、減少產後出血 | 靜脈注射 | 水中毒 (同 ADH) | | Ergonovine | 子宮收縮、減少產後出血 | 靜脈、肌肉注射 | 高血壓 | | Prostaglandin | 子宮收縮 | 陰道塞劑、陰道釋 | 噁心、嘔吐、腹瀉 | | | | 放系統 | 頭痛、頭暈 | | | | | 輕度血壓上升或下降 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- ※註 2:由於 oxytocin 的構造與 vasopressin(ADH)相似,會和腎臟 vasopressin receptor 交互作用,造成水分滯留和稀釋性低血鈉,即是所謂的水中毒。當高劑量催產素(40 mU/min)合併大量的低滲透靜脈輸液( $\geq$ 3 L)持續( $\geq$ 7 hrs)給予,便容易產生。低血鈉的症狀包括:頭痛、噁心嘔吐、腹痛、疲倦、意識不清、癲癇大發作和神經學損傷。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- ...| 深層 | 4 | 16 | 20 | | Posterior Cul deSac obliteration | | Cul de | Partial | | Complete | | | | ration | 4 | | 40 | | Adh | esion | | 2/3 enclosure | | 卵 | 右 | 薄 鬆 | 1 | 2 | 4 | | 巢 | | 緻密 | 4 | 8 | 16 | | | 左 | 薄 鬆 | 1 | 2 | 4 | | | | 緻密 | 4 | 8 | 16 | | 輸 | 右 | 薄 鬆 | 1 | 2 | 4 | | 卵 | | 緻密 | 4* | 8* | 16 | | 管 | 左 | 薄 鬆 | 1 | 2 | 4 | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- b. 腦垂體腺瘤(pituitary adenoma): - (a) 通常是良性,依大小可分 microadenoma ( 10 mm), mass effect 可能壓迫 optic chiasm 造成雙顳葉偏盲 (bitemporal hemianopsia); - (b) 功能性腫瘤會分泌荷爾蒙造成症狀: 前葉 5 種 -prolactin (佔 50%)、TSH、ACTH (Cushing's disease)、gonadotropin和GH、與後葉2種-oxytocin和ADH; - (c) 治療: - i. 藥物治療(dopamine agonist,如 cabergoline、bromocriptine)為首選之治療方式,藥物效果良好(約90%),但仍有10%對藥物無反應。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 1. 有功能的腫瘤-切除。(僅20%意外瘤有功能。—開始最初步基本的實驗室檢查有:抽血驗 K/aldosterone/renine、testosterone;驗 24 小時尿的 cortisol、VMA(以上如果有任何一項超標,進一步做相關檢查,常見且較為重要的有功能腫瘤皆收錄於 II 及 III 大項,包含各項進一步檢驗) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 1. 病理:因醛固酮瘤(aldosteronoma)或因腎上腺皮質的絲狀帶過度增生,導致醛固酮(aldosterone)過量。最常見的原因是自發性增生(Idiopathic hyperplasia),佔60%。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 2. 臨床表徵: - (1) 症狀:常見的有高血壓、低血鉀(但僅25%人有)、頭痛、夜尿。 - (2) 實驗室數據: - a. 初步判斷:血鉀≤3 mEq/L。 - b. 精確診斷: 敏感度 90%, 特異性 90%。 - (a) 血中 aldosterone: renin (即 PRA) > 30:1。(醛固酮上昇 +renin 下降)。 - (b) 血中 aldosterone > 15 ng/dL。 - i. 意義:血清(與尿液)呈現醛固酮 (aldosterone) 升高,血漿 renin (PRA = Plasma Renin Activity ) 活性下降,可以認定為原發性 aldosteronism。 - c. 更進一步確認:24 小時尿中醛固酮(aldosterone lev Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -65,10 +75,6 @@ tags:
 - (5) 低體溫使得 ADH 量減少,造成利尿。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (3) 利用尿液分析可區別 pre-renal 與 intrinsic renal ARF: - a. Pre-renal ARF : gravity > 1.020 · elevated urine osmolality (Uosm > 500 mOsm/kg) · low urine sodium (UNa Uosm ) $\cdot$ high urine sodium ( UNa > 40 mEq/L ) , and FENa > 2% ° Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (2) 遠端腎小管與尿液酸化有關途徑:H+/ATPase、the HCO3-/Cl- anion exchanger 或是 the aldosterone pathway。以上若其中一項出問題,則可能發生第一型腎小管酸中毒。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (1) 近端腎小管對於 bicarbonate(HCO3-)再吸收出現問題,導致血漿 bicarbonate 濃度下降造成代謝性酸中毒。由於遠端腎小管氫離子幫浦沒有問題,腎臟還是可以進行正常尿液酸化,故尿液 pH 可 +ATPase 有直接作用,故 aldosterone 製造有問題或是腎臟 對 aldosterone 反應不佳則造成酸中毒。 - b. Aldosterone 在集尿管有鉀離子分泌作用。若有問題則無法將鉀離子分泌出去 進而造成**高血鉀**。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...Salt losing form 與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (3) Salt losing form 臨床上常表現典型 cortisol 與 aldosterone 缺乏症狀,但通常要出生後 1~2 週才會有表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

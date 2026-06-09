@@ -15,6 +15,9 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Surgical site infection, SSI (手術部位感染)'
   - 'Surgical site infection, SSI'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,17 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- (C) 5. 25 歲婦女,有兩胎經陰道生產的產科史,第二胎由於巨嬰及產程遲滯藉由產鉗娩出,生產時有會陰四度撕裂傷但立即做修補手術,術後卻發生會陰傷口感染的情況。會陰傷口感染改善後,患者常覺得有黃色屎狀分泌物經由陰道排出,而且放屁時無法控制,常會感覺有氣體由陰道排出之情形。理學檢查施行陰道肛門指診時,發現如圖所示之情形,依據圖示此患者最適合之診斷為: Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- 【詳解】會陰四度撕裂傷傷及直腸黏膜,術後又發生傷口感染, 很可能形成瘻管。由上述臨床表現(黃色屎狀分泌物經由陰道 排出、常會感覺有氣體由陰道排出)及陰道肛門指診的發現, 判斷應為直腸陰道瘻管。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- ...染 | 子宮腔感染和膿瘍形成的併發症。 | | 非生殖道 | ・呼吸道 | 麻醉可能造成的肺塌陷或吸入性肺炎。 | | | ・脹奶 | 產後 2~3 天發生 breast fever,可能造成短暫發燒。 | | | • 腹部傷口 | 剖腹產傷口感染通常出現在產後 4~7 天。 | | | • 細菌性乳房炎 | 晚發生(產後1週以後),金黃葡萄球菌感染最常見。 | | | • 泌尿道感染 | 產褥熱最常見原因,可能併發腎盂腎炎。 | | | • 血栓靜脈炎 | 腿部疼痛腫脹,體溫微升。 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- | 原因 | • 哺乳期間,細菌從乳頭傷口感染乳房 | | |-----|---------------------------------------------------------|--| | 致病菌 | • 最常見為 Staphylococcus aureus (金黃色葡萄球菌) | | | | • 其他如 Streptococci viridans 和 E. coli 等 | | | 症 狀 | • 乳房紅腫、脹痛、發燒和冷顫 | | | 處置 | • 消炎止痛藥使用伴 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- 【詳解】婦科手術後的感染,常見原因包括泌尿道感染、手術 傷口感染(包括腹部傷口或 vaginal cuff)、骨盆腔發炎或化膿, 其中以泌尿道感染最常見,故選(D)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...| | | | | 況,很多時候甚至必須截肢而不是做接合,才能控制感染。(D) | | | 一旦嘗試從傷口處注入食鹽水並打通關節腔,會把傷口處的細 | | | 菌帶到關節腔內,造成更嚴重的感染。 | | | (C) 5. 骨科手術後最常見的傷口感染細菌,下列何者正確? 103( 二 ) 專 | (C) | | (A) Candida (B) Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (A) 對於右小腿開放性骨折,為避免骨折位置失血過多,應儘速 清洗傷口後,將傷口緊密縫合,一方面可以減少繼續流血, 一方面可避免傷口感染的機會 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...傷後,1% 之病患日後可能產生高血壓 | | | (C) 32. 關於腎臟移植後之感染,下列敘述何者正確? | 99(一)專 | | (A) 是最常見造成移植病患死亡之原因 | 醫五-61 | | (B)預防性抗生素不可使用,因為即使用了,傷口感染率也不會減少(約5%) | | | (C) 移植後半年左右較常見之感染,其致病原多為濾過性病毒或細胞內微生物 | | | (D) 因常發生慢性感染,因此長期刺激會造成各器官之癌症發生率增加 | | | 【詳解】(A) 排斥;(D) 因使用免疫抑制劑。 | | | (A) 33. 腎臟腫瘤,在電腦斷層檢查中發現其中有 Hounsfield unit 負 20 至 | 99(一)專 | | 負 80 (-20 to -80) 密度的成分,其 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -60,9 +71,6 @@ tags:
 - ## B. 手術部位感染 (Surgical site infection, SSI) Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 1. 淺層切口手術部位感染(Superficial incisional SSI): - (1) 感染範圍僅包含皮膚和皮下組織,為最常見的手術部位感染。 - (2) 發生於術後 30 天內。 - (3) 有以下任何一種情形發生: - a. 切口有化膿性液體。 - b. 從切口淺層組織或液體中培養出病原體。 - c. 具有感染發炎的症狀,例如局部發紅、腫脹、發熱、疼痛和觸痛。 - (4) 以下情形不算是淺層切口手術部位感染: - a. 縫線處化膿。 - b. 外陰切開處或包皮環切術部位的感染。 - c. 燒傷傷口。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (D) 最常見的併發症為腹內膿瘍及傷口感染 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- ...| appendectomy)的優點不包括下列何者? | 醫五-53 | | | | (A) 減少住院天數 | | | | | (B) 縮短手術時間 | | | | | (C) 便於發現腹腔內其他可能疾病 | | | | | (D) 較低傷口感染率 | | | | | 【詳解】(B) 手術時間較長。 | | | (C) | 6. | 對孕婦來說,laparoscopic surgery 最好的 surgical position 為: | 105(一)專 | | | | (A) prone position | 醫五 -38 | | | | (B) lithotomy position | | | | | (C) left lateral decubitus position Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- (D) 傷口感染 (surgical wound infection) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

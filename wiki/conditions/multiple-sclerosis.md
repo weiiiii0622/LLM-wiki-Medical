@@ -13,6 +13,8 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book6-ch08]]"
+  - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book1-ch12]]"
 aliases:
   - 'Multiple sclerosis, MS (多發性硬化症)'
   - 'Multiple sclerosis, MS'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book6-ch08]]
+- [[sources/med6-book1-ch13]]
+- [[sources/med6-book1-ch12]]
 
 ## Key Details From Sources
 
+- ...| 神經性括約肌功能缺損 | 神經性(薦椎病灶) | | 急尿型 | 膀胱不穩定或逼尿肌不穩定 | 無神經病灶 | | (urge) | (detrusor instability) | | | | 逼尿肌過度反射 | 神經性病灶:中風、多發性硬化症 | | | (detrusor hyperreflexia) | (multiple sclerosis) 和上脊索病灶等 | | | 逼尿肌括約肌不協調 | | | | (detrusor sphincter dyssynergia) | | | 溢流性 | 逼尿肌收縮不全 | 神經性(下脊索病灶和神經病變等) | | (overflow) | 出口堵塞 | 手術 | Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
+- ※ 註 1:低尿流速( 50 cm $H_2O$ 代表可能有尿路阻塞(女性常因陰道前壁脫垂,造成尿道 kinking)或尿道過動(逼尿肌-括約肌不協調);低Pdet 代表逼尿肌無力(如:以前的手術造成膀胱去神經化等)或逼尿肌不收縮(如:脊索受傷或多發性硬化症等)。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - (B) 多發性硬化症 (multiple sclerosis) Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - 1. 僧帽瓣狹窄 (mitral stenosis, MS): - (1) 正常成人的僧帽瓣口徑約 4~6 cm²,當口徑變窄,使得左心房流向左心室之血流不順,血液滯留於左心房,且左心室舒張末期,左心房須作更大的功,才能將血液推進左心室。 - (2) 口徑小於 1.5 cm² (or 2 cm²) 為 moderate MS,口徑小於 1 cm² 為 severe MS。 - (3) 長久下來,左心房因壓力上升而擴大,壓力逆著血流方向回傳,導致肺靜脈壓 上升甚至肺動脈高壓。而右心室為了抵抗肺動 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (b) 瓣膜氣球導管擴張術(balloon mitral valvuloplasty):將導管放置入左心, 膨脹氣球擴張狹窄的瓣膜,對沒有鈣化且輕度或中度 MS 效果佳,禁用 於瓣膜腱索鈣化及 MR (mitral regurgitation)的患者。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -59,7 +65,6 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - ...只有 protein 高,WBC 不高、glucose 不低,考慮自體免疫疾病,如 Guillain-Barre 症候群( = acute inflammatory demyelinating polyneuropathy = AIDP)、多發性硬化症(multiple sclerosis)。 - (2) **再看 WBC**,如果加上 WBC 高 (> 5)、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低( 40 | 0~5 | 50~100 | Clear | 9~18 | | 病毒性腦膜炎 | 50~100 | 20 年): 侵犯腦實質、脊柱、背根神經節(tabes dorsalis; 步態不穩、感覺異常)、Argyl Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (D) 多發性硬化症 (multiple sclerosis) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ...的姿勢(dystonic posture)。下列何者是最可能的診斷? | | | (A) 舞蹈棘紅血球症(choreoacanthocytosis) | | | (B) 席登罕氏舞蹈症(Sydenham chorea) | | | (C) 多發性硬化症(multiple sclerosis) | | | (D) 威爾森氏症 (Wilson disease) | | | (A) 19. 下列那一個神經遺傳性疾病不會合併有棘紅血球(acanthocyte)? | 103(一)專 | | (A) Wilson disease (B) abetalipoproteinemia | 醫四-58 | | (C) McLeod syndrome (D) Hallervorden-Spatz di Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (D) 多發性硬化症 (multiple sclerosis) 急性復發 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

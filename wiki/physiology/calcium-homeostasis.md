@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Calcium homeostasis (鈣離子恆定)'
   - 'Calcium homeostasis'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,12 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...| | ●雖然雌激素可預防停經後女性的骨質疏鬆,但 WHI 指出有其他風險(乳癌、心血管疾病和靜脈栓塞等)的代價,因此不建議做為第一線用藥。(詳見 F. 停經及荷爾蒙治療) | | 增加骨質生成 | Parathyroidhormone (PTH) | Teriparatide | ● 雖然 PTH 的作用是讓骨骼釋出鈣,但間斷性使用可刺激骨質生成。 | | 減少骨質流失與增加骨質生成 | Strontium ranelate | | ● Stontium (鍶) 和鈣類似,對骨骼的親合性高,而與有機酸 ranelic acid結合能提高生體利用率。 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...e ≦ -2.5,但無 fragility fracture。 | | | Strontium ranelate | 雙磷酸鹽的口服替代選擇。 | | | Denosumab | 腎功能差時可使用。 | | | Teriparatide (PTH) | 嚴重骨質疏鬆或服用雙磷酸鹽一年後仍持續發生骨 | | | | 折時,建議停用雙磷酸鹽,改用 PTH。 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...estrogenic activity regulator, STEA)。 - (c) 賀爾蒙補充療法(HRT)。 - (d) 雙磷酸鹽類(biphophonate):常做為第一線藥物。 - (e) 維生素 D、鈣。 - (f) 抑鈣素 (calcitonin)。 - (g) 細胞核 kB 受體活化因子配體抑制劑(RANKL inhibitor)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - b. 促成骨 (bone-forming medication): 副甲狀腺素 (PTH),可以使 osteoblast 活性上升,增加骨質密度,但此類藥品要間斷使用 (intermittent use),如持續使用 (continuous use) 反而會有蝕骨作用。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (D) 1,25-(OH)2 vitamin D 可增加腸道的鈣結合蛋白 (calcium binding protein) 來增進鈣質吸收 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
@@ -81,8 +85,6 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - (2) Phenytoin (Dilantin® 癲能停): - a. 用於治療部分發作、全身肌強直陣攣(大發作),少數可 IV 給藥的抗癲癇藥物,靜脈注射每分鐘須小於 50 mg,快速滴注可能導致心律不整。 - b. 會誘導肝臟酵素,使口服避孕藥等藥效降低;長期使用會導致牙齦增生 (Gum hypertrophy)、Vitamin D代謝異常(Osteomalacia)、葉酸代謝異常 (Megaloblastic anemia)、多毛症(Hirsutism)、肝功能異常等。 - c. Phenytoin 在人體內之排除是屬於非線性排除 (nonlinear elimination)。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 3. Pseudohypoparathyroidism: PTH 分泌正常但 PTH receptor (bone、kidney) 發生缺陷造成 PTH 抗性。病人有矮胖、圓臉、皮下鈣化、第四指骨短、智能不足,特稱為 Albright's hereditary osteodystrophy (AHO)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (2) 出院治療則是補充 Vitamin D、口服鈣片使血鈣維持正常。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (1) 常見的有 CBC/DC、CRP、procalcitonin。但是有時病毒性感染(如 adenovirus) 也會造成 WBC、CRP、procalcitonin 高,判別上會增加困難。一般而言,可以 用白血球數以及其分類初步判斷肺炎的病原體: Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

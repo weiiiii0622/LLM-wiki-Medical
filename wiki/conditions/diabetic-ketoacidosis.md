@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch23]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Diabetic ketoacidosis, DKA (糖尿病酮酸中毒)'
   - 'Diabetic ketoacidosis, DKA'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-胰島素不足造成高血糖、酮酸中毒與脫水的急性併發症。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素不足造成高血糖、酮酸中毒與脫水的急性併發症。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- | 母親 | • DKA (type I DM) • HHNK (type II) • preeclampsia/eclampsia • infection | | | |-----|-------------------------------------------------------------------------|--|--| | 產前 | • 顯明性糖尿病:流產、先天畸形、胎兒生長遲滯、胎死腹中 | | | | | • 妊娠糖尿病: 巨嬰症、 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...= Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabetic ketoacidosis, Propylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (A) 糖尿病引起酮酸血症 (Diabetic ketoacidosis, DKA) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 3. 其它系統性疾病:如血管炎、結締組織疾病、糖尿病酮酸中毒…等。 Source: [[sources/med4-book1-ch02|乙、消化系統]].

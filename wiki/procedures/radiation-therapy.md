@@ -40,6 +40,10 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch13]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -54,7 +58,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +98,19 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch13]]
 
 ## Key Details From Sources
 
+- | 懷孕的子宮內膜受傷 | • 最重要的成因,佔 90% | |------------|----------------------------------| | | • 包括人工流產手術及產後胎盤滯留行子宮內膜擴刮術 | | 非懷孕的子宮內膜受傷 | · High risk:子宮鏡手術 (如肌瘤切除、中隔切除)和子 | | | 宮內膜燒灼術 | | | · Low risk:診斷性子宮內膜擴刮術和開腹式肌瘤切除等 | | 感 染 | • 子宮腔內感染和子宮腔沾黏的關係並未完全確立,唯 | | | 一經證實和子宮腔沾黏有關的感染為結核菌感染 | | 放射治療 | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (D) 患者術後應接受化學治療,再加上腹部放射治療 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (D) 對放射治療(radiation therapy)非常敏感 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】dysgerminoma屬於卵巢生殖細胞腫瘤,好發於年輕女性。 另外,dysgerminoma為最常見的惡性生殖細胞腫瘤,為雙側侵 犯機率最高、對放射治療最敏感的生殖細胞腫瘤,故(B)錯誤。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 感染性 | · 最常見的病原菌為披衣菌 (Chlamydia trachomatis), 其次為淋病雙球 | | |------|-------------------------------------------------------------------------|--| | | 菌 ( Neisseria gonorrhoeae ),Herpes simplex virus 和 Trichomonas 佔 | | | | 少數個案 | | | 非感染性 | • 包括機械性刺激(如手術創傷、異物刺激)、化學性刺激(如陰道灌 | | | | 洗、藥物刺激)和放射治療等 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...------------------|------------------------------| | 應力性 | 尿道支撐不全 | 骨盆肌肉、神經或筋膜韌帶受損 | | (stress) | 內因性括約肌功能缺損 | 手術、老化、受傷、放射治療 | | | 神經性括約肌功能缺損 | 神經性(薦椎病灶) | | 急尿型 | 膀胱不穩定或逼尿肌不穩定 | 無神經病灶 | | (urge) | (detrusor instability) | | | | 逼尿肌過度反射 | 神經性病灶:中風、多發性硬化症 | | | (detrusor hyperreflexia) | (multiple sclerosis) 和上脊索病灶等 | | | 逼尿肌括約肌不協調 | | | | (de Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - c. 在 pelvis 或 spine 這種不易切除的部位,會配合使用放射治療(radiation therapy)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - a. multiple-agent chemotherapy and limb salvage resection: 標 準 治 療(VCD, vincristine + cyclophosphamide + doxorubicin),術前使用 chemotherapy,減 少腫瘤體積,在進行切除手術,如果已有轉移或太大的腫瘤或位置不能切除 (脊椎或骨盆),可以配合使用 radiation therapy。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (D) 4. 有關惡性骨腫瘤的敘述,下列何者最正確? - (A) Enneking stage IIB 是指高惡性度,同一腔室內的病灶(intracompartmental lesion ) - (B) 目前惡性骨肉瘤(osteosarcoma)的標準治療,是先切除腫瘤,再輔以術後放射治療,以避免局部復發 - (C) 惡性軟骨瘤(chondrosarcoma)的治療主要是手術切除病灶 - (D) 肢體保留手術與截肢手術相比,局部腫瘤復發率較高,同時接受肢體保留手術患者存活率較低 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
@@ -109,12 +123,6 @@ tags:
 - (a) 初始治療:一律先睪丸切除(orchiectomy),之後依 stage 與術後腫瘤標記 決定治療方向。 - i. 精原細胞瘤 (seminoma): - (i) 低分期(stage I + 術後 AFP 測不到):可選擇觀察、化療、放射治療。 - (ii) 中分期(stage II+術後 AFP 測不到):可選擇化療、放射治療。 - (iii)高分期(stage III 或術後 AFP 升高): 進行化療。 - ii. 非精原細胞瘤 (non-seminoma): - (i) 低分期(stage I + 術後 AFP、HCG 測不到):可選擇觀察、化療、切除淋巴(RPLND)。 - (ii) 中分期(stage II + 術後 AFP、HCG 測不到): 可選擇化療、切除 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (D) 若前縱隔的腫瘤經切片確定為原發性非生殖細胞瘤(primary nonseminoma),則第一線為手術治療,術後再行化學治療及放射治療 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (D) seminoma 對放射治療比 nonseminomatous tumor 有效應 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- ...------------------------------------------------|-----------| | | (A) 前上縱隔腔最常見的縱隔腔腫瘤 | 醫五-21 | | | (B) 第二期的胸腺瘤開刀切除後,常須加上放射治療 | | | | (C) cisplatin 的化療效果對其治療效果不佳 | | | | (D) 大部分重肌無力症(myasthenia gravis)無合併胸腺瘤 | | | | 【詳解】(C) 反應極佳,(D) 胸腺瘤常合併 M.G.,反過來則否。 | | | (C) | 3. 有關胸腺瘤之敘述,下列何者錯誤? | 103(二)專 | | (-) | (A) 手術切除是主要的治療方法 | 醫五 -31 | | | (B) 重症肌無力 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- (D) 5. 關於非小細胞肺癌之治療敘述,下列何者錯誤? 104(一)專 (A) Stage I 之肺癌以外科手術為主 醫五-27 (B) Stage II 之肺癌以外科手術為主,可考慮化學及放射治療為輔 (C) Stage IIIb 之肺癌以化學及放射治療為主 (D) bronchoalveolar cell carcinoma 不適合手術 【詳解】(D) 為 adenocarcinoma 的一種,治療方式依照 NSCLC, 故早期可以手術切除。 Reference: Bronchioloalveolar carcinoma, including adenocarcinoma in situ (http://www.uptodat Source: [[sources/med5-book4-ch03|丙、肺]].
-- 4. 治療:手術全切除為主,以葉切除(lobectomy)為最常見,懷疑轉移者,建議追加 化學放射治療。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...:預後差異很大。 - a. 上皮細胞型 (epithelial): 三者中,預後最好。 - b. 類肉瘤型(sarcomatous)。 - c. 混合型 (mixed)。 - (6) 治療:支持療法平均約存活4到12個月,尚無單一療法(如:放射治療、化學治療、手術)可以改善存活率。而試驗性複合式療法,EPP合併化放療,在早 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...01(二)專 | | | 進食固體食物,且體重消瘦2公斤。李先生平常有抽菸、喝酒習 | 醫五 -6 | | | 慣。李先生經一系列檢查,證實罹患食道鱗狀上皮癌,有關食 | | | | 道癌,下列何者是最正確答案? | | | | (A) 以放射治療為主 | | | | (B) 以位於胸部食道中段最多 | | | | (C) 食道切除後,以小腸重建最常見 | | | | (D) 東方人食道癌,組織病理以腺癌最常見 | | | (C) | 6. 有關食道癌之敘述,下列何者錯誤? | 101(一)專 | | | (A) 目前全世界之食道癌以鱗狀細胞癌(squamous cell carcinoma) | 醫五 -32 | | | 最常見 | | | | (B) 在西方國家,制酸劑使用增 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ...| | | cinoma,接下來的處置,下列何者較理想? | | | | (A) 先化學治療再手術 | | | | (B) 進行氣切造口,不須考慮手術切除 | | | | (C) 經評估後直接手術切除作氣管重建 | | | | (D) 作放射治療即可 | | Source: [[sources/med5-book4-ch06|己、氣管]].
 
 ## Clinical Caveats
 
@@ -124,6 +132,7 @@ tags:
 ## Related Pages
 
 - [[procedures/breast-conserving-surgery|Breast-conserving surgery / lumpectomy (乳房保留手術)]]
+- [[conditions/cervical-cancer|Cervical cancer (子宮頸癌)]]
 - [[conditions/ewing-sarcoma|Ewing sarcoma (尤文氏肉瘤)]]
 - [[conditions/glioblastoma|Glioblastoma, GBM (膠質母細胞瘤)]]
 - [[conditions/rhabdomyosarcoma|Rhabdomyosarcoma (橫紋肌肉瘤)]]

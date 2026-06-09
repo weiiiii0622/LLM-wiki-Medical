@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Transposition of the great arteries, TGA (大動脈轉位)'
   - 'Transposition of the great arteries, TGA'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-主動脈與肺動脈連接錯位形成平行循環，需靠 ASD/VSD/PDA 混合血流維持生命。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈與肺動脈連接錯位形成平行循環，需靠 ASD/VSD/PDA 混合血流維持生命。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...of neural elements \( \) microencephaly \( \) holoprosencephaly \( \) neural tube defect-meningomyelocele | | | CV | • TGA · VSD · coarctation of the aorta · PDA · single ventricle · hypoplastic left ventricle · pulmonary stenosis · left ventricle atresia and double outlet RV truncus arteriosus | | | GI | • Duodenal atresia · imperforated a Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 2. 大動脈轉位 (transposition of great arteries, TGA): - (1) 主動脈接到右心室,肺動脈接到左心室,使得上下腔靜脈回到右心室的缺氧血 直接從主動脈再次打回全身,而肺靜脈回來的充氧血則再次由肺動脈打到肺部, 造成體循環和肺循環各自獨立。 - (2) 嬰兒在出生後幾小時即會出現發紺及呼吸急促,如果有合併 VSD(約 1/4)或開放性動脈導管(patent ductus arteriosus, PDA)等聯通體循環與肺循環的開口或管道,則發紺比較不明顯。 - (3) X 光下可見 egg shaped heart,主動脈轉位到肺動脈前,X 光看起來像一顆蛋。 (見下圖) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (c) Rastelli operation:心室轉換手術,如果大動脈轉位合併有心室中膈缺損及肺動脈狹窄,則無法單純靠大血管轉換手術矯正。須將左心室血液經由心室中膈缺損引流至主動脈,再利用人工血管連接右心室跟肺動脈。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (2) 常合併 VSD,且右心室及肺動脈可能發育不全,另有30%合併有大動脈轉位。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

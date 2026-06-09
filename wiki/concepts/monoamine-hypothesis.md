@@ -28,6 +28,9 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch03]]"
 aliases:
   - 'Monoamine hypothesis (單胺假說)'
   - 'Monoamine hypothesis'
@@ -42,7 +45,7 @@ tags:
 
 ## Summary
 
-以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +73,20 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch03]]
 
 ## Key Details From Sources
 
+- a. 高泌乳素血症(hyperprolactinemia):泌乳素由腦垂體前葉分泌,正常血液濃度在 $3\sim25$ ng/mL,懷孕時會上升 10 倍。 - (a) 調控:下視丘分泌 TRH 和吸吮乳頭促進,而 dopamine 和 GABA 抑制分泌。 - (b) 症狀:非懷孕女性會造成無月經和乳溢症(galactorrhea)。 - (c) 機制:影響下視丘 GnRH 釋放,抑制 LH 脈動,造成不排卵和無月經。 - (d) 成因:腦垂體腫瘤、甲狀腺低下和藥物(如:抗精神藥物)。 - (e) 診斷:血清濃度> 100 ng/mL,需安排 CT 和 MRI 排除腦垂體腫瘤。 - (f) 治療: dopamine agonist (如 cabergoline, Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- b. 腦垂體腺瘤(pituitary adenoma): - (a) 通常是良性,依大小可分 microadenoma ( 10 mm), mass effect 可能壓迫 optic chiasm 造成雙顳葉偏盲 (bitemporal hemianopsia); - (b) 功能性腫瘤會分泌荷爾蒙造成症狀: 前葉 5 種 -prolactin (佔 50%)、TSH、ACTH (Cushing's disease)、gonadotropin和GH、與後葉2種-oxytocin和ADH; - (c) 治療: - i. 藥物治療(dopamine agonist,如 cabergoline、bromocriptine)為首選之治療方式,藥物效果良好(約90%),但仍有10%對藥物無反應。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (A) bromocriptine 是短效的 dopamine-like 藥物,須每日服用 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...| | WHO class 2 | • 體重控制 | | | | · 誘導排卵(註1) | | | | ・ 人工生殖技術 (詳見人工協助生殖技術章節) | | | WHO class 3 | ・卵子捐贈 | | | 高泌乳素血症 | • Dopamine agonist ( 如 bromocriptine) | | 輸卵管因素 | 雙側阻塞 | · 試管嬰兒或輸卵管整形手術 (註 2) | | | 單側阻塞 | • 仍有一側通暢,可考慮自然受孕或人工授精,若多次 | | | | 失敗,應考慮試管嬰兒 | | 子宮因素 | 可以手術 | • 如黏膜下子宮肌瘤、子宮內膜息肉、子宮中隔或子宮 | | | 矯正者 | 腔沾黏等,可行手術切除,以提高懷孕率 | | | 無法以手術 | · 只能考 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...r's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 / 腦垂體問題 | ・使用 gonadotropin (下視丘或腦垂體問題) | | | | ・GnRH 脈衝治療 (下視丘問題) | | | 生殖道感染 | ・抗生素治療(至少10天) | | | 精子自體免疫疾病 | ・高劑量類固醇 (40~80 mg/day) ・ 使用 ICSI | | | 逆行性射精 | ・ 從 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...(證據充足) | ・ 多囊性卵巢患者,進療程前先給予 Metformin | | | | | | • 使用拮抗劑療程 | | | | | | ・使用 GnRH agonist 作為破卵針 | | | | | | ・ 在打破卵針當天開始使用 dopamine agonist ( 如:cabergoline) | | | | | B級(證據尚可) | ・冷凍胚胎・使用阿斯匹靈・給予鈣離子 | | • 給予鈣離子 | | | C級(證據不足) | ・使用 coasting (暫停施打排卵針幾天) | | | | | | ・使用低劑量之 hCG 當破卵針 ・使用白蛋白 (albumin) | | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (D) 多巴胺 (dopamine) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- 【詳解】催產素(oxytocin)由下視丘產生,若乳頭受到刺激, 其會經下視丘腦下垂體路徑之神經纖維送到垂體後葉分泌,可 刺激乳腺肌肉收縮,產生噴乳反射(milk ejection)。而多巴胺 (dopamine)會抑制催產素的釋放,進而抑制噴乳反射。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - (b) 血中兒茶酚胺 catecholamine (主要是 Epinephrine + Norepinephrine)上昇,80% 人會 > 2,000 ng/L。若有高血壓但 catecholamine 正常,可以排除嗜鉻細胞瘤的可能性。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...大多數甲基化發生在腎上腺髓質或嗜鉻細胞瘤內。 - ii. 由於這種兒茶酚胺向後腎上腺素的轉化在嗜鉻細胞瘤內是一個不間斷的過程,因此比陣發性的兒茶酚胺更適合偵測腫瘤。不是血漿兒茶酚胺(catecholamines)、早晨空腹尿中去甲腎上腺素(norepinephrine)、腎上腺靜脈取樣兒茶酚胺(Adrenal vein sampling for catecholamines)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -83,14 +97,6 @@ tags:
 - (A) 王先生的症狀與身體分泌 Serotonin 有關,但服用 Serotonin 拮抗劑 (Serotonin antagonists) 僅能部分改善症狀 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 【詳解】心肌無法有效收縮,即使心跳收縮頻率加快,仍無法 將血液送出,故給予強心劑增加心肌收縮力。此病人應優先考 慮投予增加收縮力併具有升壓效果的 Dopamine 或 Bosmin 等強 心劑,併視臨床反應再調整用藥或輔以 IABP。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (D) 藥物治療可以考慮 neostigmine,不過要小心病患施打藥物後 會有 bradycardia,需要仔細觀察心率變化,和準備 dopamine 作為緊急解毒劑 Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
-- 2. 類癌 (Carcinoid tumor): - (1) 為一種生長緩慢的神經內分泌瘤,最常生長於腸胃道(80%在迴腸),其次是呼吸道。由於早期症狀不明顯,所以不易診斷,其中約10%的類癌會分泌過多的血清素(serotonin),故病患會有類癌症候群(carcinoid syndrome),會發生 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- ...臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - (7) 芳香族的氨基酸也十分重要,如 Tyrosine 由 Phenylalanine 合成而來,可進一步合成 Dopamine、norepinephrine,epinephrine;Tryptophan 可合成 serotonin,Melatonin。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (1) 藥物治療: 為第一線治療,使用 Bromocriptine、Cabergoline 等。dopamine agonist 可抑制泌乳激素分泌,使 75%的泌乳激素瘤在 6~8 週內縮小。Somatostatin 可抑制生長激素,可以使部分腫瘤體積萎縮。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- (D) 口服 dopamine agonist 如 bromocriptine,可使 80% 泌乳激素瘤 (prolactinoma) 縮小 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...晶體溶液),每半小時 $500\sim1,000~\text{mL}$ ,以達到目標,假使患者是使用呼吸器,則目標為 $12\sim15~\text{mmHg}$ 。 - b. 平均動脈壓(MAP) > 65 mmHg: 升壓第一線藥物為 Norepinephrine(35~90 mcg/min),第二線為 Vasopressin(劑量上限為 0.03 U/min),此時可考慮加上可同時考慮加上類固醇 Hydrocortisone(200 mg/day)。第三線藥物才是 Epinephrine(25~50 mcg/min)。 - c. 中心靜脈的血氧飽和度( $ScvO_2$ ) > 70%:假使 $ScvO_2$ 5 $\mu$ g/kg/min 或是 Epinephrine/Norepineph Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (2) 低體溫初期周邊交感神經會反應,增加 norepinephrine 分泌,血管收縮和血壓上 升,如果病患本身有休克,會使得 ischemia 更嚴重。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 是提升何種神經傳導物質在腦中的濃度? - (A) acetylcholine - (B) norepinephrine - (C) serotonin - (D) dopamine Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...(B) 尿失禁(C) 單側無力(D) 步態不穩 | 101( 二 ) 專醫四 -77 | | (C) 22. 一般認為 Alzheimer's disease 主要是因何種神經傳導物質(neurotransmitter)減少所致? (A) dopamine (B) serotonin (C) acetylcholine | 100(一)專醫四-48 | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

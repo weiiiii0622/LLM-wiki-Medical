@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch15]]"
 aliases:
   - 'Kidney transplantation (腎臟移植)'
   - 'Kidney transplantation'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch15]]
 
 ## Key Details From Sources
 
+- | Uncomplicated UTI | 非複雜性指患者為非懷孕時期的健康成人 | |-------------------|-------------------------------------| | Complicated UTI | 複雜性指患者存在可能導致治療失敗的潛在問題,這些問題 | | | 包括 (1) 糖尿病、(2) 懷孕、(3) 院內感染、(4) 腎衰竭、 | | | (5) 放置導尿管或 PCN、(6) 泌尿道有結構或功能異常、 | | | (7) 泌尿道阻塞、(8) 腎臟移植、(9) 免疫功能不全等 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - (C) 4. 下列何者是腎臟移植受腎者的絕對禁忌症?①完全治癒之子宮頸 癌病人 ②慢性藥物成癮、習慣性藥物濫用的患者 ③無法遵守藥 囑(noncompliance)④活動性或是尚未治癒之慢性感染,如慢 性活動性肝炎(chronic active hepatitis)或肝衰竭病人 - (A) (1)(2)(3) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (B) 6. 有關腎臟移植後發生急性排斥的機轉,下列敘述何者錯誤? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...詳解】GFRs 低於 30 n | nL/min 的患者,钆(gadolinium)施用 | | | | 纖維化 (nephrogenic systemic fibrosis) | | | 的風險增加。 | | | | (D) 18. 對於腎臟移植後的處置, | | 103(二)專 | | ① 通常會使用 β-blockers來控制高血壓 | ,hydralazine 和 calcium channel blockers | 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | P Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].

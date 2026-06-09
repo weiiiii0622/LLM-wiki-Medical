@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Taxanes (紫杉醇類)'
   - 'Taxanes'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-穩定微小管、抑制解聚的化療藥，常見過敏、神經毒性與水腫。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+穩定微小管、抑制解聚的化療藥，常見過敏、神經毒性與水腫。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- (b) 第一線用藥為 T + C: 太平洋紫杉醇(taxanes- paclitaxel)加上白金類 (platinum compound: carboplatin, cisplatin)。一般每 3 週給藥一次,進行 6 個療程。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (B) carboplatin + paclitaxel Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】第一線用藥為太平洋紫杉醇(paclitaxel)加上白金類 (carboplatin)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - b. 治療後期:多種研究中的治療方法。 - (a) 攝護腺癌在初期治療過後,會逐漸發展成不需依賴雄性素也能生長,稱為賀爾蒙難治性(hormone refractory) 或睪丸切除阻抗性(castration resistant) 攝護腺癌。 - (b) 目前有的應對方式包括免疫治療(immunotherapy)與 taxane 為基底的化學治療等等,目前關於這部分尚無治療準則,大部分花費高昂。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (3) 化學治療: - a. 適應症: - (a) 有淋巴結的轉移(N1)。 - (b) 乳癌細胞侵犯大於 $1 \text{cm} \cdot \text{Ki} 67 > 30\% \cdot \text{PR/ER}(-)$ 可考慮做化學治療,但 $\text{PR} \cdot \text{ER}$ 為陽性時不建議做化學治療。 - (c) High grade 的 breast cancer - (d) 必須考慮年紀,年紀大的患者不建議做化療,但年紀輕的病患可能會導致不孕,必須向患者解釋與溝通治療方向。 - b. 常用藥物:包括紫杉醇與 Anthracycline 類藥物。 - (a) 紫杉醇包括太平洋紫杉醇(taxol)及歐洲紫杉醇(Taxotere)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

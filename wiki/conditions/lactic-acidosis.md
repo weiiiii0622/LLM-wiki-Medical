@@ -19,6 +19,8 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book4-ch08]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch18]]"
 aliases:
   - 'Lactic acidosis (乳酸中毒)'
   - 'Lactic acidosis'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book4-ch08]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch18]]
 
 ## Key Details From Sources
 
+- (B) 在輸液選擇方面, saline 優於 lactated Ringer's solution Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (A) 若使用單極電刀,則子宮擴張液應使用含離子之液體,如乳酸林格氏液(lactated Ringer's solution) Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
 - 【 詳解 】 需快速輸注量為 $15~kg \times 20~mL/kg = 300~mL$ ,常見 crystalloid fluid 為 normal saline 或 lactate ringers。(A) Gelofusion 不建議使用。(B) 輸血為最後選項。(C) 輸液量不足。(D) 為正確 答案。 Source: [[sources/med5-book4-ch08|甲、概 論]].
 - ...----------------------------------------------| | (A) 心跳速率較正常低 | 外一-94 | | (B) 心搏量較正常高 | | | (C) 收縮壓較正常高 | | | (D) 血中乳酸(lactate)較正常低 | | | 【詳解】(A) 移植之心臟不受交感神經控制,故運動時心跳加速 | | | 較慢;另外也沒有迷走神經控制,所以休息時心跳也較不受抑 | | | 制。(B) 心搏量主要受 preload 影響,故和正常差不多。 | | | 7. 移植後的心臟在休息狀態下,何種心臟功能參數較正堂為低? | 93(二)專 | | | 外二-91 | | | 71 - 01 | | | | | | | | (少) 印 灰座 | | | 8 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - ...血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在前 6 小時內達到以下目標。 - a. CVP 維持在 $8\sim12~\text{mmHg}$ : 給予晶體或膠體溶液(目前多建議晶體溶液),每 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -71,8 +77,6 @@ tags:
 - ...cyte 3.8%,band 6.7%,segmented neutrophil 37.1%,lymphocyte 31.4%。血紅素 9.7 g/dL,血小板 55,000/μL,尿酸 12.1 mg/dL(參考 區間 2.6~7.5),lactate dehydrogenase(LDH)2,342 U/L(參考區間 140~271)。其骨髓細胞顯示如下圖。染色體有 t (2;8) (p12;q24) 之 變化。以下關於這位病人最可能的疾病之診斷與治療,何者錯誤? 108(二)專 醫三-37 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - ...一位 20 歲男性發現有睪丸腫瘤,下列血液檢查何者是不需要的? (A) prostate specific antigen (B) α-fetoprotein (C) β-human chorionic gonadotropin (D) lactate dehydrogenase | 101(二)專醫三-40 | | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - 1. 高陰離子間隙代謝酸:要想到有多餘的陰離子堆積,可分三個方向記憶: - (1) 測 Ketone body、Lactate acid 檢視是否有 Ketoacidosis、Lactic acidosis。 - a. 酮酸中毒(Ketoacidosis):因身體無法消耗醣類、或醣類以消耗殆盡,轉而消耗脂肪產生酮體(Ketone body);可能發生在 DM 病人、酗酒、過度肌餓等, - b. 乳酸中毒(Lactic acidosis):要想到末梢循環不良導致細胞無氧呼吸,可能發生在敗血症(Sepsis)或心、肺衰竭的病患身上。 - (2) 測 Cr 檢視是否 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- .... Posthypercapnic state | | | | hyperaldosteronism | | 3. Hypercalcemia/hypoparathyroidism | | | | | | 4. Recovery from lactic acidosis or ketoacidosis | | | | | | 5. Nonreabsorbable anions (penicillin, carbenicillin) | | | | | | 6. Mg 2+ deficiency | | | | | | 7. K + depletion | | | | | | 8. Bartter's syn. (loss of function mutations in TALH) | | | | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...(3) 第三步:AG = 20 →陰離子間隙代謝酸; $\Delta$ AG(10) = 1~2× $\Delta$ [HCO₃](6) →單純的 高陰離子間隙代謝酸。 - (4) 臨床狀況:常見於嚴重肺炎、肺水腫的病人,因為末梢循環差導致乳酸中毒的高陰 離子間隙代謝酸,加上肺部問題,因而代償不完全,合併呼吸酸。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

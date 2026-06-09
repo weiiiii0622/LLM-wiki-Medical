@@ -52,6 +52,9 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Adrenal gland (腎上腺)'
   - 'Adrenal gland'
@@ -66,7 +69,7 @@ tags:
 
 ## Summary
 
-腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -118,9 +121,15 @@ tags:
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- (D) 腎上腺素接受器促效藥 (β-adrenergic receptor agonist) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...li-leydig cell tumor Hilar cell | ・女性特徴消失 defeminization:月經變少、甚至停止、乳房和性器官萎縮等。・男性化masculinization: 雄性禿、長鬍子、多毛和陰蒂變大等。 | | Adrenal-like | Lipoid cell tumor | ・男性化、Cushing's syndrome | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】電腦斷層發現右腎上線位置有個低密度腫瘤,配合上 述臨床表現及抽血結果,合理懷疑為腎上腺腫瘤,故選(C)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (2) 次發性(10%): - a. Type III:由於其他器官的原因造成,如內分泌疾病(包括甲狀腺、副甲狀腺或腎上腺等功能異常)、營養不良、血液疾病、藥物以及其他疾病等原因引起之骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - I. 簡介 162 - A. 腎上腺解剖 / 功能 162 - B. 腎上腺腫瘤總論 163 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -136,9 +145,6 @@ tags:
 - E. 腎上腺性器症候群 (Adrenogenital syndrome) 238 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 1. 腎上腺位於腎臟上方,屬於後腹膜器官,外層為皮質,內層為髓質。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - 3. 髓質: - (1) 嗜鉻細胞(chromaffin cell)分泌腎上腺素、正腎上腺素。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- 內分泌外科共分甲狀腺、副甲狀腺、胰島和腎上腺四大部分。甲狀腺重點在甲狀腺功能評估和疾病診斷、甲狀腺癌種類的分辨和甲狀腺術後併發症。副甲狀腺重點為機能評估。胰島重點在於分辨各種胰島細胞瘤之症狀、診斷和處置。腎上腺重點為Cushing syndrome 和嗜鉻細胞瘤。 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- ...(C) 血中 TSH (D) 血中可體松 (cortisol) 及 ACTH 【詳解】病人長期服用類固醇長達半年,甲狀腺手術後停止服 用類固醇,產生發燒、全身無力及血壓低的情形,比較像是長 期服用 steroid 造成 secondary adrenal insufficiency,而在停用 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 
 ## Clinical Caveats
 

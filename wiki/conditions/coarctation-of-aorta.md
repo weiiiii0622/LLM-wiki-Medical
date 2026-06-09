@@ -2,12 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Coarctation of the aorta, CoA (主動脈窄縮)'
   - 'Coarctation of the aorta, CoA'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-主動脈峽部狹窄造成上下肢血壓差、股動脈脈搏弱與左心負荷增加。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈峽部狹窄造成上下肢血壓差、股動脈脈搏弱與左心負荷增加。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch01]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...lements \( \) microencephaly \( \) holoprosencephaly \( \) neural tube defect-meningomyelocele | | | CV | • TGA · VSD · coarctation of the aorta · PDA · single ventricle · hypoplastic left ventricle · pulmonary stenosis · left ventricle atresia and double outlet RV truncus arteriosus | | | GI | • Duodenal atresia · imperforated anus · anorectal atre Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- a. 早發性卵巢衰竭成因中的 gonadal dysgenesis,如:Turner's syndrome。 - (a) 基因型: 45XO 最常見、部分 X 染色體缺失(Xx) 和 mosaicism(XO/XX)等。 - (b) 臨床表現:智力正常,無月經、性腺發育不良(streak gonad)、缺少第二性徵、蹼狀頸、身矮和心臟(aorta coarctation)等,部分型(XO/XX)可有月經。 - (c) 治療:荷爾蒙補充療法和和生長激素,想懷孕須靠捐卵。不過,若患者 含有 Y 染色體(如 45,X/46,XY mosaicism),會增加性腺母細胞瘤(gonadoblastoma)之風險,需手術切除性腺。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - #### 7. 主動脈窄縮 (Coarctation of Aorta, CoA): Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (B) 2. 在先天性心臟病的完全矯正,有時需使用帶有瓣膜的同種異體移植物(homograft of pulmonary artery or aorta, valved)來銜接右心室至肺動脈,下列那些先天性心臟病之完全矯正可能需要用到此移植物?①動脈幹症(truncus arteriosus)②肺靜脈回流完全異常 ③肺動脈瓣閉鎖合併心室中隔缺損 ④主動脈窄縮症 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 4. 主動脈窄縮症 Coarctation of Aorta(CoA): 為 PDA 附近胸 主動脈狹窄,屬於左心出口遠端的問題,不需要使用肺動脈 作材料去修補,用牛或馬心包膜 patch enlargement repair 即可。故答案選擇①與③。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

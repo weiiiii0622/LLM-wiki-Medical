@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med3-book1-ch07]]"
@@ -17,6 +17,8 @@ sources:
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch07]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Preload and afterload (前負荷與後負荷)'
   - 'Preload and afterload'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-理解心衰竭、瓣膜病與血管擴張藥物效果的基本概念。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+理解心衰竭、瓣膜病與血管擴張藥物效果的基本概念。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,14 @@ tags:
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch07]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- | 懷孕早期 | 和心搏量增加較有關,心搏量增加是因 preload 增加 (blood | |------|--------------------------------------| | | volume 增加)及 afterload 減少 (周邊的血管阻力下降) | | 懷孕晚期 | 和心跳加快較有關,心跳平均每分鐘增加 15~20 下 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- b. 血管阻力及血壓:受到懷孕內分泌變化的影響,造成血管擴張,周邊的血管阻力下降(包括肺部和腎臟),因而血壓也下降;不過,血壓到第三孕程會慢慢回升至懷孕前的狀態。 - ※ Supine hypotension syndrome: 妊娠 20 週後,子宮大到超出骨盆腔,來到腹腔,當孕婦平躺時,增大的子宮會壓迫 IVC,造成 preload ↓→ CO ↓→ hypotension → reflex autonomic activation,導致頭暈、嘔吐、手腳麻木、冒冷汗等症狀。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (A) 懷孕時因為心血管的前負荷(preload)下降,孕婦症狀會變嚴重 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 2. IABP的基本原理是將一氣球導管經鼠蹊部股動脈放置入降主動脈靠近主動脈弓處,當心臟收縮時(Q波出現之際)氣球會同時消氣(deflation),可以因此降低心臟的後負擔(afterload)及心壁張力,同時降低左心室末期舒張壓(LVEDP)減少右心室後負荷量,與減低雙心室心肌的耗氧量;而當心臟舒張(T波出現之際)時氣球則會同時充氣擴張(inflation),將血液壓回至升主動脈,增加冠狀動脈的血液灌流量。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (1) Decreases Afterload Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (D) 10. 病人於接受心臟手術後,轉入加護病房觀察。此時他的血壓由 術後的 140/80 mmHg 下降至 80/60 mmHg,肺動脈壓由 30/18 mmHg 上升至 56/30 mmHg,肺楔壓為 20 mmHg,中心靜脈壓 為 15 mmHg,心跳為 130/min。下列立即處置何者適當? ①給 予血管放鬆劑,降低後負荷 ②給予抗心律不整藥,改善心跳過 速 ③給予裝置葉克膜(ECMO) ④給予強心劑,增強心肌收 縮力 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -66,9 +73,6 @@ tags:
 - (B) 減低左心室後負荷 (afterload) Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - (C) 減低左心室前負荷 (preload) Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - b. 心血管益處:ACEI 可減少心臟 Preload、Afterload,減緩心肌梗塞後(Post MI) 心臟的 remodeling(心室擴張),而保存左心室功能,減緩心臟衰竭的進展。可 改善心臟衰竭症狀;對於有高血壓及心臟衰竭的患者,ACEI/ARB、β blocker、 皆可改善存活率。ARB 目前用於 ACEI 有副作用的病患。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- ...{ amp}$ ) | 0.1% Isoket (10 mg = 10 ml = 1 amp) | | 藥理作用 | 同時擴張動、靜脈,降壓速度極快 | 一般劑量時,擴張靜脈及冠狀動脈,用於 | | | | 心 | | | | 肌梗塞減少 preload 及增加冠狀動脈血流; | | | | 高劑量時,可同時擴張動脈,降低 afterload | | 副作用 | 紅血球及肌肉會將 nitroprusside 代 | 會增加腦部血流,增加顱內壓,造成頭痛, | | | 謝成 cyanide,再於肝臟轉為 | 不可用於腦壓高的病患 | | | thiocyanide 由腎臟排出。肝腎功能 | | | | 不佳會造成代謝物累積,導致 | | | | cyanide中毒(意識改變、乳酸中毒) Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
-- ...) | 輻射到頸部 (Bil. carotid) | 往前傾最清楚 (Sit forwad) | | 1 77 | MS 愈厲害: S 1 愈大聲 | 微弱 S i | | 微弱 S 1 | | 心音 | MC 会医学 A OC 会运 | Afterload 減少→ A₂ 提早 | Afterload 增加→ A 2 延後 | | | 變化 | MS 愈厲害 A 2 -OS 愈近 | → Wide split S 2 | → Paradoxically split S 2 | | | 動脈 | | | pulsus tardus (慢慢上升), | Pulsus bisferiens (波鋒 *2), | | 脈壓 | | | Pulsus parvus (振幅減小) | Bounding Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (1) 藥物治療: - a. Acute MR:積極降低 Afterload,可用 IV nitroprusside 或 IABP。 - b. Organic MR: 內科治療 (ACEI, β blocker) 未證明有效延後手術時間。 - c. Functional MR:因通常背後是 DCM、LV dysfunction 導致的 MR,所以用 ACEI, β blocker 有幫助。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
 
 ## Clinical Caveats
 

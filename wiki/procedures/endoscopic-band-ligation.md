@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book4-ch13]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Endoscopic band ligation (內視鏡靜脈曲張結紮)'
   - 'Endoscopic band ligation'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med5-book4-ch13]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- ...0天) | | | 精子自體免疫疾病 | ・高劑量類固醇 (40~80 mg/day) ・ 使用 ICSI | | | 逆行性射精 | ・ 從尿液收集精子,再進行 IUI 或 IVF 或 ICSI | | | 精索靜脈屈張 | ・High ligation 或 embolize 靜脈 ・ 使用 ICSI | | | 精子運送問題 | ・手術切除阻塞部分並做吻合 | | | | ・結紮再接通 | | | | • MESA + ICSI | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (C) 剖腹手術結紮髂外動脈 (external iliac artery ligation) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (a) 手術:手術成功率 90%,成功後可提升 70% 的精蟲品質,增加 30% 受孕機率。依照畫刀位置可分為: - i. High retroperitoneal approach (Palomo), 俗稱 high ligation。 - ii. Inguinal approach (Ivanissevich) • - iii. Subinguinal approach (Marmar) • Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (A) 瘻管的結紮(ligation),最好在氣管與食道瘻管黏膜之交界處 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].

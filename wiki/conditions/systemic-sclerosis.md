@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Systemic sclerosis (全身性硬化症)'
   - 'Systemic sclerosis'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+纖維化與血管病變造成皮膚硬化、Raynaud、肺高壓、腎危象等。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ※年輕女性可用 Z-score 來評估,若 Z-score 分鐘的直立坐姿,以減少腸胃副作用(胃食道逆流與食道潰瘍)。●相對禁忌症為食道的硬皮症、遲緩不能 (achalasia) 或窄縮。●不應使用在 Barrett's esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服雙磷酸鹽的副作用或無法配合口服需求時使用。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 病理:由 neural crest 而來,90% 單側、90% 腎上腺內、90% 無併發其他腫瘤、90% 良性。(註:其實它有個流行病學法則叫 10% 法則:10% 家族遺傳、10% 雙(兩) 側腎上腺都有、10% 惡性、10% 小孩、10% 腎上腺外、10% 鈣化、10% 與高血壓 無關) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 1. 病理:由 neural crest 而來。大部分長在後腹膜,45% 長在腎上腺髓質,常局部侵犯。可經血液或淋巴轉移,常到顱骨、長骨、局部淋巴結、肝、肺。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - (11) 膠原纖維疾病 (Collagen diseases): 硬皮症 (Scleroderma)、風濕免疫 (rheumatoid disease)、紅斑性狼瘡 (systemic lupus erythematosus)、皮肌炎 (dermatomyositis)、 韋格納肉芽腫 (Wegener granulomatosis)、古帕斯捷氏綜合徵 (Goodpasture syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -68,7 +71,6 @@ tags:
 - ...8 | E. 下列那一個自體抗體在全身性紅斑性狼瘡(systemic lupus erythematosus, SLE)具有診斷上的意義? (A) 抗 Sm 抗體(anti-Smith antibody) (B) 抗 Scl-70 抗體(anti-Scl-70 antibody) (C) 抗 Jo-1 抗體(anti-Jo-1 antibody) (D) 抗 centromere 抗體(anti-centromere antibody) | 103( 二 ) 專醫四 -23 | |--------|-------------------------------------------------------------------------------------------------- Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - C. 全身性硬化症 (Systemic scleroderma, SSc) 36 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - 硬皮症 (Systemic scleroderma, SSc): SSc、DM 可能混合出現 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ...ögren's syn. | | (核質) | | 粗斑點型 | Anti-Sm | SLE | | | | (Coarse S.) | Anti-RNP | MCTD,雷諾氏現象 | | | | 不連續斑點(Discrete S.) | Anti-centromere | lcSSc ( C R E ST syn.) | | Nucleolar (dc 硬皮病)(核仁) | | | Anti-Scl 70 | dcSSc (ILD ↑ ) | | | | | Anti-PM/Scl | SSc+ PM (Overlap syn.) | | Cytoplasmic | | Anti-Jo-1 | PM (ILD ↑ *) | | | | | | Anti-smooth muscle | Autoimm Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

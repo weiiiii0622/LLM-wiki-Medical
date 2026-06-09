@@ -26,6 +26,8 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Cephalosporins (頭孢子菌素類)'
   - 'Cephalosporins'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,13 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch05]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- (C) 4. 有關剖腹產孕婦之預防性抗生素之給予,若孕婦對 penicillin 或 107(-)專 cephalosporin 嚴重過敏,下列何者為最適合之預防性抗生素? Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
+- ...的一種 | Klebsiella granulomatis | | 潰瘍 | painful | 無痛性 | 無痛性 | | 治療 | azithromycin, | Tetracycline, | Tetracycline, | | | ceftriaxone 或 | erythromycin 或 | erythromycin 或 | | | erythromycin | streptomycin | doxycycline | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (D) 對於 type I 及 type II 開放性骨折,在急診室時可選用第一代頭孢菌素 (first-generation cephalosporins)治療;對於 typeIII 開 放性骨折建議再加上氨基配醣體類抗生素 (aminoglycosides) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 103(ニ)専 | (C) | | 膏固定後回家休息,晚上睡覺時覺得右腳越來越痛,他吃了止痛 醫五-74 | (-) | | 藥後,症狀稍有緩解,但仍然持續疼痛,下列醫療處置何者最 | | | 正確? | | | (A) 加重止痛藥劑量可使病情改善 | | | (B) 換第三代抗生素就可改善 | | | (C) 需要把石膏切開 | | | (D) 傷 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...us gentamicin | | S. bovis | Penicillin G, ampicillin | Ampicillin, vancomycin | | Streptococcus, group B | Ampicillin, cephalosporin | Ampicillin, cephalosporin | | Gram-negative cocci | | | | Neisseria gonorrhoeae | Ciprofloxacin plus doxycycline | Ceftriaxone | | Gram-negative rods | | | | Escherichia coli | TMP-SMX, ciprofloxacin, nitrofurantoin | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -85,8 +91,6 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - 2. 若使用 Amoxicillin 後病情沒有改善、有併發症、病患最近 30 日內有使用 Amoxicillin,則考慮使用 Amoxicillin/Clavulanate 或是第二代 Cephalosporin。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 3. 抗生素:Unasyn 200 mg/kg/day 或 ceftriaxone 50 mg/kg/day 或是 cefotaxime 150~200 mg/ka/day。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- | Nelson Textbook of Pediatrics 21 th Edition Table 428.6 | |-------------------------------------------------------------------------------------------------------------| | Age | | | Tetracyclines* | 2° 或 3° cephalosporins | | | | Fluoroquinolone | Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (1) 在抗生素使用上,依照 CSF gram stain 檢查後使用經驗性抗生素:3rd generation Cephalosporin(ceftriaxone、cefotaxime) + Vancomycin。若病人小於三個月, 須加上 Ampicillin 以涵蓋 Listeria monocytogenes。依照培養結果再做出調整。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats
 

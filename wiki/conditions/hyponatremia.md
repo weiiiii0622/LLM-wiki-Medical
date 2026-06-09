@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
@@ -18,6 +18,10 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch18]]"
 aliases:
   - 'Hyponatremia (低血鈉)'
   - 'Hyponatremia'
@@ -32,7 +36,7 @@ tags:
 
 ## Summary
 
-低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈉需先排除假性低血鈉，再依滲透壓與體液狀態鑑別。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +54,18 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch05]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch18]]
 
 ## Key Details From Sources
 
+- ...0 mL,濃度為 60 mU/mL),以幫浦靜脈注射(速率設 1 mL/hr,等於 1 mU/min),給藥須同時監控子宮活動與胎兒心律,以調整藥物劑量,此外不應超過最大劑量(42 mU/min)。 | 1. 子宮收縮過快 (註 1)2. 低血鈉 (註 2)3. 低血壓 | | 機械性 | 人工破水(amniotomy) | 須在子宮頸有部分擴張 (≥ 3 cm) 和變薄的產婦才能執行,並且須確認胎兒為頭頂產式 (vertex),以減少臍帶脫垂的風險。執行前後須同時監控胎兒心律並注意羊水顏色。 人工破水合併使用 oxytocin,效果較單獨使用人工破水為佳。 | 1. 造成感染2. 傷到潛在前置胎盤或前置血管而引起大出血3. 臍帶脫垂 | | 子宮頸 | | 説明 | 副作用 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- ※註 2:由於 oxytocin 的構造與 vasopressin(ADH)相似,會和腎臟 vasopressin receptor 交互作用,造成水分滯留和稀釋性低血鈉,即是所謂的水中毒。當高劑量催產素(40 mU/min)合併大量的低滲透靜脈輸液( $\geq$ 3 L)持續( $\geq$ 7 hrs)給予,便容易產生。低血鈉的症狀包括:頭痛、噁心嘔吐、腹痛、疲倦、意識不清、癲癇大發作和神經學損傷。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- 【詳解】妊娠劇吐症的典型表現包括嚴重噁心和嘔吐,造成酮血症、體重減輕(>5%)、體液流失、酸鹼與電解質不平衡(低血鈉和低血鉀等)。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
+- ...(hematocrit > 45%) | | | | (以 severe | • Leukocytosis (WBC count > 15,000) | | | | case 為例) | • Electrolyte imbalances (hyponatremia: Na 5.0 mEq/L) | | | | | Elevated liver enzymes | | | | | • Decreased creatinine clearance (serum | n Cr > 1; CCr | | | | |-------|---------|---------------------------------------------------|---------------------|--| Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (2) 體液過量和電解質不平衡: - a. 成因:單極電燒手術使用的 nonconductive fluid 為低張性溶液(hypotonic),若手術時間長,液體過度吸收,容易造成體液過量和低血鈉的併發症。 isotonic fluid 雖較不會過度吸收,但若手術時間太長,亦有體液過量的風險。 - b. 臨床表現: Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
 - 1. 鈉:正常血鈉濃度為 135~145 mEq/L。 - (1) 低血鈉(hyponatremia)症狀為輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。 - a. Pseudohyponatremia:發現病患低血鈉,首先要排除高血糖、高血脂等高滲透 壓造成的相對低血鈉,真的低血鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (B) 此病人的低鈉血症(hyponatremia) 歸類為中度低鈉血症 (moderate hyponatremia) Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 【詳解】(A) 低血鈉的症狀從輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。(B) 130~135 mEq/L 為 mild hyponatremia,121-129 mEq/L 為 moderate hyponatremia,< 120 mEq/L 為 severe hyponatremia。(C) 無症狀低血鈉的治療,其血清鈉離子濃度上升速率不超過 0.5 mEq/L/hr,一天不超過 8~12 mEq/L;如果是有症狀之低血鈉則血清鈉離子濃度上 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
@@ -66,11 +79,6 @@ tags:
 - (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...與 simple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發現。男嬰反而以 c Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - ...en 100 mg/m²/day continuous infusion。 - b. 有 salt-wasting 者可給 mineralocorticoid 補充 (fludrocortisone)。 - c. 另外, 適時補充鈉離子避免低血鈉。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 【詳解】21- 羥酶缺乏所致之先天性腎上腺增生(congenital adrenal hyperplasia)中 salt losing form 會有低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...-----------------| | 先天性腎上腺增生(21-hydroxylasedeficiency) | 先天腎上腺增生為體染色體隱性遺傳疾病。大部分是因為腎上腺21- 酵素缺乏。嬰兒會在出生後 10 天左右,因鹽分大量流失,造成低血鈉、高血鉀、嘔吐、體重不增等現象。此外,此疾病會刺激雄性素的分泌,而引起雄性化,使得嬰兒在胎兒期就會發生外陰雄性化現象。 | | 楓糖尿症 | 體染色體隱性遺傳疾病。人體中缺少支鏈甲型酮酸脫氫酵素,使得此胺基酸的代謝無法進行。症狀:在開始餵食後數天至一周內,會出現嘔吐、嗜睡、食慾減低、呼吸急促、黃疸及抽搐等現象,身上散發楓樹糖漿的體味或尿味。 | | 中鏈脂肪酸去氫酶缺乏症(中鏈醯輔酶A去氫酶缺乏症) | 體染色體隱性遺傳的脂肪酸代謝異常 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...-wasting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...ne (Vidaza)、Decitab | | | | | | 可與 DNA 甲基轉移酶 1 (DNA methyltransferase 1, DNMT-1) 結合,進而 | | | | | | 抑制 DNA 複製時之甲基化作用,導致 DNA 低甲基化作用,此結果可 | | | | | 50.43 | 重建造血幹細胞的正常生長與分化。或進行異體幹細胞移植 | | | | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- A. 低血鈉: (血鈉濃度 40 mmol/L;尿液的渗透度> 100 mOsm/kgH 2 O | | | 血液 | 血液被稀釋 | 血中渗透壓 ( 20 mmol/L): 利尿劑、Salt wasting nephropathy、Hypoaldosteronism。 - (b) 腎外流失鈉離子 (UNa 8~12 mEq/day)。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 
@@ -81,6 +89,8 @@ tags:
 
 - [[conditions/acute-intermittent-porphyria|Acute intermittent porphyria, AIP (急性間歇性紫質症)]]
 - [[conditions/central-pontine-myelinolysis|Central pontine myelinolysis / osmotic demyelination syndrome (橋腦中央髓鞘溶解症)]]
+- [[drugs/hypertonic-saline|Hypertonic saline (高張食鹽水)]]
+- [[procedures/transurethral-resection-prostate|Transurethral resection of prostate, TURP (經尿道攝護腺切除術)]]
 
 ## Follow-up
 

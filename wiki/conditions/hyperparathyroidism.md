@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Hyperparathyroidism (副甲狀腺亢進)'
   - 'Hyperparathyroidism'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,12 @@ PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...| | ●雖然雌激素可預防停經後女性的骨質疏鬆,但 WHI 指出有其他風險(乳癌、心血管疾病和靜脈栓塞等)的代價,因此不建議做為第一線用藥。(詳見 F. 停經及荷爾蒙治療) | | 增加骨質生成 | Parathyroidhormone (PTH) | Teriparatide | ● 雖然 PTH 的作用是讓骨骼釋出鈣,但間斷性使用可刺激骨質生成。 | | 減少骨質流失與增加骨質生成 | Strontium ranelate | | ● Stontium (鍶) 和鈣類似,對骨骼的親合性高,而與有機酸 ranelic acid結合能提高生體利用率。 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...e ≦ -2.5,但無 fragility fracture。 | | | Strontium ranelate | 雙磷酸鹽的口服替代選擇。 | | | Denosumab | 腎功能差時可使用。 | | | Teriparatide (PTH) | 嚴重骨質疏鬆或服用雙磷酸鹽一年後仍持續發生骨 | | | | 折時,建議停用雙磷酸鹽,改用 PTH。 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - b. 促成骨 (bone-forming medication): 副甲狀腺素 (PTH),可以使 osteoblast 活性上升,增加骨質密度,但此類藥品要間斷使用 (intermittent use),如持續使用 (continuous use) 反而會有蝕骨作用。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (C) 世界衛生組織定義 T-score ↓ | ↑ | | | Phosphate | _ | _ | ↓ | ↑ | _ | | ALP | | _ | | ↑ | | | PTH | _ | _ | ↑ | ↑ | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - | | 原發性 | 次級 | 三級 | |-----------|-------------------------------|-------------------------------------------|--------------------------------------| | 說明 | 副甲狀腺不正常增生。(80% 是 adenoma) | 外在因素造成副甲狀腺機能亢進 (ex: CKD,Vit D 缺乏) | 長期低血鈣導致副甲狀腺異常增生,PTH 刺激造成高血鈣。 | | Ca++ | 1 | ↓ | ↑ | | Phosphate | ↓ | 1 | ↑ | | PTH | 1 | ↑ | 1 | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
@@ -65,8 +69,6 @@ PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁
 - ...| | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticides, solvents | | | | | | Heavy Metals | Lead, manganese, mercu Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 3. Pseudohypoparathyroidism: PTH 分泌正常但 PTH receptor (bone、kidney) 發生缺陷造成 PTH 抗性。病人有矮胖、圓臉、皮下鈣化、第四指骨短、智能不足,特稱為 Albright's hereditary osteodystrophy (AHO)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 2. 危險因子: (Harrison table 327-2) - (1) 年紀大、 - (2) 副甲狀腺亢進、低鎂、低磷、鐵沉積, - (3) 慢性痛風、半月板切除過(Post-meniscectomy)等。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 
 ## Clinical Caveats
 

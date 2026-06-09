@@ -32,6 +32,8 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Parathyroid glands (副甲狀腺)'
   - 'Parathyroid glands'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,13 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- 【詳解】isotretinoin 在懷孕的風險等級為 X,懷孕時禁用,除增加流產率外,其代謝物會通過胎盤,造成胎兒異常(包括五官、腦部發育異常、低智商、心臟發育異常、胸腺及副甲狀腺異常等)。phenytoin 在懷孕的風險等級為 D,雖然也會造成胎兒異常,但必要時仍可使用。另外,fluconazole 為 C級;metformin 為 B級。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...Estrogen/progestin | | ●雖然雌激素可預防停經後女性的骨質疏鬆,但 WHI 指出有其他風險(乳癌、心血管疾病和靜脈栓塞等)的代價,因此不建議做為第一線用藥。(詳見 F. 停經及荷爾蒙治療) | | 增加骨質生成 | Parathyroidhormone (PTH) | Teriparatide | ● 雖然 PTH 的作用是讓骨骼釋出鈣,但間斷性使用可刺激骨質生成。 | | 減少骨質流失與增加骨質生成 | Strontium ranelate | | ● Stontium (鍶) 和鈣類似,對骨骼的親合性高,而與有機酸 ranelic acid結合能提高生體利用率。 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (2) 次發性(10%): - a. Type III:由於其他器官的原因造成,如內分泌疾病(包括甲狀腺、副甲狀腺或腎上腺等功能異常)、營養不良、血液疾病、藥物以及其他疾病等原因引起之骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - b. 促成骨 (bone-forming medication): 副甲狀腺素 (PTH),可以使 osteoblast 活性上升,增加骨質密度,但此類藥品要間斷使用 (intermittent use),如持續使用 (continuous use) 反而會有蝕骨作用。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - #### 2. 副甲狀腺機能亢進的實驗數值變化: Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
@@ -97,8 +103,6 @@ tags:
 - (D) 1. 有關多發性內分泌贅瘤症候群 (multiple endocrine neoplasia , 107(-) 専 MEN) 的敘述 , 下列何者錯誤? - (A) MEN 1 包含副甲狀腺機能亢進(hyperparathyroidism) - (B) MEN 2A 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (C) MEN 2B 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (D) MEN 2C 包含嗜鉻細胞瘤 (pheochromocytoma) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - 內分泌外科共分甲狀腺、副甲狀腺、胰島和腎上腺四大部分。甲狀腺重點在甲狀腺功能評估和疾病診斷、甲狀腺癌種類的分辨和甲狀腺術後併發症。副甲狀腺重點為機能評估。胰島重點在於分辨各種胰島細胞瘤之症狀、診斷和處置。腎上腺重點為Cushing syndrome 和嗜鉻細胞瘤。 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 - ...eau sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (A) 副甲狀腺機能亢進(hyperparathyroidism)是高鈣血症 (hypercalcemia)的一個常見原因 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- ...tica" with parkinsonian features) | | Infectious | Postencephalitic PD | | | | | Neurosyphilis | | | | Metabolic | Hypoparathyroidism or pseudohypoparathyroidism with basal ganglia calcifications Non-Wilsonian hepatolenticular degeneration | | | | Drugs | Neuroleptics (typical antipsychotics) \ Some atypical antipsychotics | | | | (常併有 | Antiemetic Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

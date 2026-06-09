@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch03]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book3-ch04]]"
   - "[[sources/med5-book3-ch03]]"
+  - "[[sources/med6-book1-ch16]]"
 aliases:
   - 'Irritable bowel syndrome, IBS (腸躁症)'
   - 'Irritable bowel syndrome, IBS'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-功能性腸道症候群，以腹痛與排便習慣改變為核心。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+功能性腸道症候群，以腹痛與排便習慣改變為核心。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book3-ch04]]
 - [[sources/med5-book3-ch03]]
+- [[sources/med6-book1-ch16]]
 
 ## Key Details From Sources
 
+- ...有證據顯示此症狀和膀胱間質異常有關,不過,此命名行之多 | | | 年,仍被沿用 | | | ・膀胱疼痛症候群 (bladder pain syndrome):較吻合臨床表現的新命名 | | 相關疾病 | ·可能合併其他慢性疼痛症候群(如:irritable bowel syndrome、 | | | fibromyalgia 和 vulvodynia 等 ) | Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - (C) 3. 病房有一因胃癌接受次全胃切除及 Billroth-II reconstruction 的病 109( ) 專人,開始進食後,抱怨進食 20~30 分鐘後會有噁心 (nausea)、 醫五-24 心悸 (palpitation)、冒汗及腹瀉等症狀,檢查生命跡象後發覺 有心搏過速 (tachycardia) 的情形,最有可能的診斷為何? - (A) 輸入環症候群 (afferent loop syndrome) - (B) 輸出環症候群 (efferent loop syndrome) - (C) 傾倒症候群 (dumping syndrome) - (D) 急躁性腸道症候群 (irritable bowel syndrome) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (A) 三環類抗鬱劑(tricyclic antidepressants)可以減緩這些患者 之腸躁症狀 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (C) 腸躁症 (Irritable bowel syndrome) Source: [[sources/med4-book1-ch02|乙、消化系統]].

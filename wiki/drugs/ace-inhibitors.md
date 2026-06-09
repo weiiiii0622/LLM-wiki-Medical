@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch01]]"
@@ -26,6 +26,8 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)'
   - 'ACE inhibitors, ACEI'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,13 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch05]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】病人疑為嚴重子癲前症,可先給予 MgSO4 預防癲癇,處理高血壓可使用 Hydralazine 和 Labetalol 等,ACEI 和 ARB 因會影響胎兒心臟及腎臟發育,懷孕期間禁止使用;將胎兒產出是唯一根治方法。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (3) 處置:通常 aneurysm 很小或沒明顯症狀不需開刀,內科藥物治療(ACEI) 並追蹤即可。假使 aneurysm 擴張太快、angina、severe heart failure、refractory ventricular tachyarrhythmias 或是 recurrent thromboembolism 則需開刀將其切除。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - ...異常都 有可能。 - (3) 症狀:呼吸困難、端坐呼吸、肺水腫、肺高壓、atrial fibrillation。症狀嚴重度和 閉鎖不全程度相關,mild MR 患者幾乎不會有症狀, - (4) 處置方式和 MS 相同,可先藥物處理(利尿劑、ACEI),當藥物無法控制,症 狀持續嚴重、發展成肺動脈高壓、左心室功能惡化,則考慮手術修補。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
@@ -85,7 +91,6 @@ tags:
 - ...| | (A) 23 | . 一位 69 歲糖尿病病人,其血清肌酸酐(creatinine)為 2.3 mg/dL,門診醫師最近加了一項降血壓藥,2 週後抽血,肌酸酐上升至 4.5 mg/dL,下列那一類藥物最有可能造成上述情況?(A) ACE inhibitors (B) β-blockers(C) calcium channel blockers (D) α-blockers | 99(一)專醫三-22 | | (C) 24 | 下列那一種藥物引起的急性腎衰竭,其機轉和其他三者不同? (A) captopril (B) valsartan (C) gentamicin (D) indomethacin 【詳解】NSAID 使入球小動脈收縮,ACEI、ARB 使出球小動脈放鬆,導致腎絲球內血管的 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 【詳解】(B)血管張力素轉換抑制劑(ACEI)會讓入球小動脈放鬆, 使得腎血流更加減少。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎臟留鉀留氫 - →高血鉀(一般 RTA 的酸中毒會低血鉀,只有 Type 4 RTA 的酸中毒會高血鉀) - →高血鉀造成近端腎小管製造 NH, ↓但腎臟排 H+ 正常 - → $\mathbb{R}$ NH3 ↓→ $\mathbb{R}$ NH4+ ↓→ UAG > 0 但 $\mathbb{R}$ 中 H+ ↑→ $\mathbb{R}$ pH + | 尿中 HCO3 | 病因 | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

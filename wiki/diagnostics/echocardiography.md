@@ -32,6 +32,7 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Echocardiography (心臟超音波)'
   - 'Echocardiography'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...3 層就會喘,不過一般生活作息並不會造成困擾。但懷孕後,這些情況變的更厲害,有時走路久一點就會喘,需要停下來休息。檢查曉晴的眼結膜(conjunctiva)是粉紅色的,沒有貧血的跡象,聽診發現有心雜音,產科醫師懷疑有心臟方面的問題,於是安排心臟超音波,發現曉晴有一個心室中膈缺損約 1.6 平方公分。下列給曉晴的諮詢,何者錯誤? - (A) 根據紐約心臟協會(NYHA)對心臟功能的定義,曉晴懷孕前是屬於第二級(functional class II),但懷孕後已惡化為第三級(functional class III) - (B) 心室中膈缺損是一種先天性心臟病,這種是結構的異常並不 會遺傳給胎兒 - (C) 大的心室中膈缺損可能會進展為左心室衰竭及肺動脈高壓,當肺動脈阻力(pulmo Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (2) 其他術前評估:肺功能測定(10 歲以上患者)、心電圖、心臟超音波,因常合 併先天性心臟病。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
 - (1) CXR:檢查脊椎和心臟。如心臟有合併異常須排心臟超音波。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (A) 乳房簡單性水瘤 (simple cyst) 在超音波檢查呈現,邊緣平滑,內在無音波 (echo-free) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
@@ -98,7 +101,6 @@ tags:
 - 2. 心因性血栓 (cardio-embolic): - (1) 位置: MCA 的上支。 - (2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel ora Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (1) 傳統檢查:包含胸部 X 光、abdominal echo、CT 或 MRI 等,以檢查是否有器官轉移。但須在腫瘤大於 1 公分以上才能顯像,且無法確定是否是真的轉移惡性腫瘤或其他良性的病變。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 6. 診斷:以外科方式治療為最終目標。 - (1) 胸部 X 光: 典型表現為靴子形狀(boot-shaped)心臟(但心臟大小正常)、肺血管紋減少,有時可以看到右位主動脈弓。 - (2) 心電圖:電軸右偏(顯示右心室肥大)。 - (3) 心臟超音波:可以用來確立診斷。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 屬於嚴重型的法洛氏四合症。但是沒有如典型 TOF 表現的心雜音。臨床發紺的嚴重度與側枝循環是否充足有關;側枝循環血液足夠的話病人發紺程度會較輕。此外,病人的心電圖呈現右心室肥大。在心臟超音波下病人右心室壁的增厚以及肺動脈閉鎖。胸部 X-ray 影像學下心臟不一定肥大,視肺血流量多寡而定。預後則視本身肺動脈大小而定,最終仍是要以外科方式治療。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

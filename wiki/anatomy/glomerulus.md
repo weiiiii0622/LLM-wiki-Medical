@@ -21,6 +21,8 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch16]]"
 aliases:
   - 'Glomerulus (腎絲球)'
   - 'Glomerulus'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,13 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch16]]
 
 ## Key Details From Sources
 
+- ...腎臟 | · 腎臟增大 1~1.5 公分,腎臟容積增加 30% | |-------------|--------------------------------------------| | | ・ 腎血管阻力下降,腎血流增加 80%,腎絲球過濾率增加 40~50% | | | (22~24 週達到高峰),使得血中的 BUN 和 creatinine 數值是下降 | | L. Affal, 1 | 的,另外,可能會有輕微的尿蛋白 | | 輸尿管 | • 黃體素使得輸尿管的蠕動減少,加上增大的子宮和支持韌帶之 | | | 壓迫,造成尿液的滯留、甚至逆流,導致腎盂及輸尿管擴大, | | | 形成 hydro-nephrosis 及 hydroureter,容易引起泌尿道感染 |... Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...ner lesions:膀胱黏膜上出現紅色病灶,其上的微血管呈放 | | | | | 射狀,中央有白色的纖維沉積。僅 5~10% 的病人會出現,但特 | | | | | 異性高 | | | | | (ii) Glomerulations: 腎絲球狀點狀出血。特異性低,診斷價值不高 | | | | | (iii) 切片檢查可發現 mast cells 增加 | | | | 9/ | | | | Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - ...絲狀帶 (zona Glomerulosa)、東狀帶 (zona Fasciculata)、網狀帶 (zona Reticularis)。(記法:外而內第一個字母「GFR」。這原本是指 Glomerular filtration rate 腎絲球過濾率) - (1) 絲狀帶 (zona Glomerulosa): 分泌礦物性皮質素 (mineralocorticoid), 其中主要成分是醛固酮 (aldosteronoma)。(記法: 施壓。絲(施) 狀帶分泌太多會造成高血壓) - (2) 東狀帶 (zona Fasciculata): 分泌葡萄糖皮質素 (Glucocorticoid), 其中主要成分是皮質醇 (cortisol, 一種類固醇)。(記法: 束褲帶。東狀帶分泌太 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimot Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - \* 之前各種神經膠細胞來源的腫瘤皆統稱為神經膠質瘤 (glioma),其中包含了 astrocytoma、oligodendroglioma、ependymoma 和 glioblastoma multiforme (GBM)。 但在後來的 WHO 分類系統中則不再使用 glioma 一詞,而個別分類上述腫瘤。此外,也因確定了 GBM 之來源細胞,故 GBM 歸入於 astrocytoma 的 grade IV。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -75,8 +81,6 @@ tags:
 - (4) Class VI 則是 9 成以上的腎絲球皆已硬化(Sclerosis),無殘餘發炎反應,給類固醇已無太大的幫助。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 94(三)檢 (C) 2. 下列有關混合結締組織病 (mixed connective tissue disease)的描述, 內 -42 何者正確? - (A) 為全身性紅斑性狼瘡+橋本氏甲狀腺炎+慢性活動性肝炎+心 肌炎的綜合病症 - (B) 最具診斷價值的抗體為 anti-ribosomal phosphoprotein 抗體 - (C) 最常見的致死原因為肺高血壓症 (pulmonary arterial hypertension) - (D) 90% 以上的患者會發生瀰漫性增殖性腎絲球腎炎 (diffuse proliferative glomerulonephritis) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- 【詳解】神經膠細胞瘤 Glioblastoma multiforme (GBM) 是腦瘤中致死率最高的一種,平均存活期小於 2 年。首次治療以以手術,接續併用化學治療(temozolomide)及放射治療為主要治療方式。Temozolomide 的優點是口服便能達到所需濃度,而缺點則是當 O-6-甲基鳥嘌呤甲基轉移酶(MGMT)表現量上升時,TMZ 所造成的DNA 損傷便會被逆轉,使得腫瘤細胞不會走向死亡。Bevacizumab可用於復發後的病人。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- A. 腎絲球疾病 (Glomerular disease) 72 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

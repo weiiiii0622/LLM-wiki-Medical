@@ -24,6 +24,8 @@ sources:
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Lower gastrointestinal bleeding (下消化道出血)'
   - 'Lower gastrointestinal bleeding'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下消化道出血需依血流動力學與出血型態評估來源。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,13 @@ tags:
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- 4. 症狀和徵象:早期子宮頸癌常常沒有症狀,規則子宮頸抹片有其重要性;若出現症狀,常見症狀如下: - 最常見的症狀為不正常陰道出血,包括經期間、性交後和停經後出血等 - 有些病人會以陰道分泌物表現 - 若為後期病灶,可能出現疼痛、膀胱和直腸壓迫、血尿、血便等症狀 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 疼痛 | •80%的患者會疼痛,包括經痛、性交疼痛和慢性骨盆疼痛 | |-----|------------------------------------| | 不孕 | • 25% 的患者會不孕,機轉如上述 | | 其 他 | • 若侵犯卵巢,可能形成卵巢囊腫 | | | • 若侵犯子宮,可能造成經前出血、經血量多和經期不規則等 | | | • 若侵犯腸道,可能造成腸道症狀 ( 如腹瀉、便祕、血便、解便疼痛和 | | | 腸絞痛等) | | | • 若侵犯泌尿道,可能造成泌尿道症狀(如頻尿、急尿、血尿、解尿疼 | | | 痛和腰痛等) | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 4. 臨床表現:腹脹、嘔吐、餵食耐受性差(feeding intolerance)、解血便、易怒不安、 體溫不穩定、餵食變差、呼吸停止、心跳變慢。病情進展成全身性敗血症時,進一 步惡化會出現心血循環失常和呼吸失序、凝血狀態、最後死亡。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (A) 1. 梅克耳憩室(Meckel's diverticulum)所造成的下消化道出血,可 106 (-) 專利用下列何者做診斷?① 99mTc-pertechnetate 放射線同位素檢查 醫五-51 ②腹部超音波檢查 ③腹腔鏡探查 ④下消化道鋇劑攝影 ⑤大腸 鏡檢查 - (A) 1 (B) 2 (C) 4 (D) 2 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (B) 是造成小孩下消化道出血的原因之一 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -81,8 +87,6 @@ tags:
 - (D) 4.15 歲男孩因排黏液血便求診,詢問其家族史發現他的父親、叔 叔及姑姑皆有大腸息肉或癌症病史,內視鏡發現其大腸約有數百 個大小息肉,下列相關敘述何者正確?①致病成因為 mismatch repair 基因遺傳性突變 ②基因突變位於 5q21 ③為顯性遺傳 (autosomal dominance) ④此類病人大於 50% 之比率沒有家族史 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...- b. 腎衰竭:第二常見。 - c. 肺炎。 - d. Ischemia colitis: 術中 improper ligation of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性器官的灌注 血流。 - f. 下肢半癱(spinal cord ischemia,Adamkiewicz 動脈 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - ...位 60 歲男性病患於一週前因退化性關節炎接受左髋部人工髓關節全置換手術治療(total hip replacement),術後連續五天注射止痛劑和 cephalosporin 治療,病人於術後第 7 天開始發生持續性腹瀉、腹痛、且帶有少許血便,發燒及白血球增多,但並無腹膜炎現象,此時除了 stool culture 之外,該先如何處理? (A) 給予 Buscopan,並重新使用 cephalosporin 治療 (B) 作 stool cytotoxin assay,保守性治療,並安排大腸鏡檢查 (C) 安排 barium enema 檢查 (D) 安排緊急全大腸切除術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture 長出何種細菌,則 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- 3. 急性砷中毒,以腹痛、血便、急性腎衰竭、神經病變為主。慢性則還會肌肉無力、 水腫、肝腎傷害及週邊神經炎發生。另外電子業常用砷氣(arsine gas),則有大蒜 味,容易引起大量溶血,急性腎衰竭而死亡。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (A) 1.3個月大的女嬰,體重 5.8公斤,純母乳哺育。最近常出現血便, 但沒有發燒,體力、精神、食慾都很好。大便除帶血絲外無特殊 變化。下列敘述何者最為正確? Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

@@ -22,6 +22,10 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Alkylating agents (烷化劑)'
   - 'Alkylating agents'
@@ -36,7 +40,7 @@ tags:
 
 ## Summary
 
-與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +62,19 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch09]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- (C) cisplatin + cyclophosphamide Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (D) carboplatin + cyclophosphamide Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | Regimen | • EMA-CO(etoposide, MTX, Act-D, cyclophosphamide, vincristine) | |---------|----------------------------------------------------------------| | Course | ・使用至 remission (連續 3 次 β-hCG 達正常值)後追加 3 個療程 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】Carboplatin 屬於白金類化療藥物,副作用與肝腎毒性 有關,而出血性膀胱炎主要是 cyclophosphamide 的副作用。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- ...| | | mutations | | | 自體免疫性疾病 | Isolated autoimmune ovarian failure | | | 代謝性疾病 | Galactosemia | | | 醫源性 | 卵巢手術、化療 (特別是 alkylating agents)、放射線治療 | | | 病毒感染 | Mumps or cytomegalovirus infection | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - a. 術前化療(preoperative chemotherapy): 使腫瘤變小,使手術時切除的範圍較小,如果有 tumor necrosis 的跡象,則有較好的 prognosis。 - (a) 化療 (multiple-agent CT) 常用的藥物包括: MICD (high-dose MTX、ifosfamide、cisplatin、doxorubicin)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - a. multiple-agent chemotherapy and limb salvage resection: 標 準 治 療(VCD, vincristine + cyclophosphamide + doxorubicin),術前使用 chemotherapy,減 少腫瘤體積,在進行切除手術,如果已有轉移或太大的腫瘤或位置不能切除 (脊椎或骨盆),可以配合使用 radiation therapy。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
@@ -73,12 +87,6 @@ tags:
 - 【詳解】(A)是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B)為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C)為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D)為NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - (B) 13. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時,下列那一項不是其常見的併發症? Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 3. 某些物質或疾病與 AML 有關連性,如放射線暴露(ionizing radiation)、化學物質(alkylating agents、epipodophyllontoxin)、有機溶劑、陣發性夜間血紅素尿症(paroxysmal nocturnal hemoglobinuria, PNH)、Down syndrome、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman-Diamond syndrome、Neurofibromatosis type I、Li-Fraumeni syndrome、Kostmann syndrome. Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- ...頸胃腸癌 | | | | | | | Carboplatin →肺癌 (腎不好者)、卵巢癌 | 骨髓抑制 | | | | Alkylating | | Oxaliplatin→大腸癌 | 神經毒性 | | | | | Nitrogen | Cyclophosphamide→淋巴瘤 (☐HOP)、乳癌 | the of while the thire are | | | | agents | | Ifosfamide → 肉癌 (Sarcoma) | 出血性膀胱炎 | | | CCNS | | mustards | Melphalan→多發性骨髓瘤 (MM) | | | | CCNS | | Other | Carmustine (BCNU) · Lomustine (CCNU) | 延遲的骨髓抑制 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- #### 1. 烷化劑 (Alkylating agent) 類: Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (1) 烷化劑會黏附 (cross-linkage) 至 DNA 上,影響 DNA 功能;這類藥物有相似的副作用:骨髓抑制、禿頭 (Alopecia)、性腺受損 (Gonad dysfunction)、肺纖維化。 Source: [[sources/med3-book4-ch19|乙、化學治療]].
-- (2) Class III、Class IV 可見 Subendothelial immune deposits、腎絲球活躍地發炎,須積極以高劑量類固醇+免疫抑制劑(Cyclophosphamide)治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 
 ## Clinical Caveats
 

@@ -59,6 +59,9 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch17]]"
 aliases:
   - 'Pulmonary hypertension (肺高壓)'
   - 'Pulmonary hypertension'
@@ -73,7 +76,7 @@ tags:
 
 ## Summary
 
-肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -132,9 +135,19 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch17]]
 
 ## Key Details From Sources
 
+- | 陰道酸性 | 陰道上皮受雌激素影響分泌肝醣,透過乳酸桿菌轉換呈乳酸,維持 | |---------------|------------------------------------------| | | 陰道 pH 3.5~4.5,藉此抑制其他微生物 ( 陰道正常菌落主要為嗜氧菌 ) | | 鱗狀上皮細胞的厚層 | 形成物理障壁,當上皮缺乏雌激素變薄時,將使陰道容易創傷或感染 | | 腺體分泌 | 子宮頸和巴氏腺體維持向外的液體分泌,有助於陰道清理,並且含 | | | 有免疫球蛋白 (IgA) 和各種免疫細胞對抗感染源 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...s、Ureaplasma urealyticum 等 | | 表現 | • 臨床症狀不明顯,50~75% 無症狀,主要表現為陰道分泌物多 ± | | | 腐臭魚腥味、外觀呈灰色。較不會造成搔癢、紅腫或性交疼痛 | | 檢 查 | ・ 陰道 pH 值上升 ( > 4.5) | | | ・加入 10% KOH 會出現明顯的魚腥味,為 whiff test (+) | | | • 食鹽水稀釋的抹片下可觀察到 "clue" cells (>20%) | | 治療 | ・ 首選藥物:Metronidazole 或 Clindamycin 之口服藥或陰道乳膏 | | | • 二線藥物:口服 Tinidazole | | | ・ 其他:益生菌如乳酸桿菌 GR-1、RC-14 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...ida albicans (約佔85%),加上 C. glabrata 佔99% 表現 • 主要表現為會陰部搔癢、灼熱刺激感,可能伴隨解尿疼痛和性交疼痛等 症狀 · 內診可發現陰道和陰唇紅腫,甚至裂傷;可見白色乳狀斑塊分泌物 檢查 ・陰道 pH 值正常 (3.5~4.5) · 食鹽水稀釋的抹片可觀察到 budding yeast 或 hyphae · 加入 10% KOH 將細胞破壞可更清楚觀察到 budding yeast 或 hyphae • 100 mg Clotrimazole 陰道塞劑 7 天或 100,000 unit Nystatin 陰道塞劑 14 天 治療 ・單一劑量口服 fluconazole 150 mg ·若為反覆復發個案,可給予口服 fluconaz Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...物物理指標若為0分,代表有意義的胎兒酸血症 | | | (fetalacidosis) | | | (C) 若分數從原本的2或4分變成0分,表示可更準確的預測不 | | | 正常的結果 | | | (D) 分數 10 分不一定表示胎兒血液 pH 值正常 | | | 【詳解】(A) 胎兒生物生理計分法(biophysical profile) 評估 5 | | | 部分,滿足一個項目得2分、不滿足0分,最高分為10分。 | | | (A) 17. 一位 31 歲女性,G2P1,妊娠 31 週,胎動 (fetal movement) 次 | 102(二)專 | | 數於 30 分鐘超音波監視下只有 1 次,依胎兒生物生理計分法 | 醫六 -34 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...-----| | 方法 | 技術 | 精確度 | 缺點 | | Pooling | 內診肉眼見到陰道後壁積一灘石 | k 不準確 | 不一定可見到羊水積於此 | | Nitrazine test | 用石蕊試紙檢驗陰道液體的酸鹼度,羊水的 pH 值為 7~7.3,會使石蕊試紙變藍色 | 敏感性 90.7 c特異性 77.2 c | | | Ferning test | 取陰道液體塗於玻片上,放置 敏感性 10分鐘風乾,於顯微鏡下觀察, 特異性 若內含羊水則可見羊齒狀結晶 | | | | Ultrasound | 超音波檢查是否有羊水過少 | 不準確 | 只有嚴重羊水流失,超音波才能偵測出 | | Amnio-dye infusion | 將稀釋的 indigo carmine Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (C) 1. 羊水的酸鹼值(pH)最常介於那個酸鹼值(pH)區段? Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | • 心輸出量減少 | • 尿量減少 | | |------------------------------------------------|--------|--| | ・肺 compliance 下降和 end tidal CO 2 上升 | | | | ・血液 pH 降低 (代謝性酸中毒) | ・腹壓上升 | | Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
 - 1. 結石的原理:在過飽和的尿液中,結合度較佳的離子們,在適當的環境(例如 pH 值),以兩種方式合成結石。 - (1) 結晶(crystal):離子間形成鍵結,是結石形成的主要方式。 - (2) 基質沈積(matrix):蛋白質、醣/醣胺、離子因重力沈積形成。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - ...ic):占鈣結石成因 15%。較常見的原因是攝取高 purine 食物、內生性尿酸分泌過量,引起高尿酸尿鈣(hyperuricosuric calcium)結石。(注意:這跟尿酸 (uric acid) 結石不一樣,一個含鈣一個不含鈣,尿 pH 值一個 > 5.5 (因為是產生 monosodium urates) 一個 7.2(正常尿 pH 值 5.8),因為細菌分解尿素產生胺(ammonium)。常見感染菌叢:包括 Proteus、Klebsiella、Pseudomonas、Staphylococcus(最常見的就是 Proteus,都是會代謝產生尿素),而 UTI 最常見的菌種 $E.\ coli\$ 反而少引發結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - b. 尿酸(uric acid)結石:占結石 5%,好發於男性,特別是有痛風病史、骨髓增生症(myeloproliferative diseases)、快速減重、用 cytotoxic 藥物治療惡性腫瘤的人。常因脫水或攝取高 purine 食物,導致尿中尿酸增加(故尿 pH 0.5 cm 僅 15% 排出率。(因為輸尿管 徑 $0.3\sim0.5$ cm) - (2) 結石位置: 結石在輸尿管下段 50%、中段 25%、上段 10% 排出率。(因為輸尿管長 25 cm) - (3) 併用藥物:NSAID (標準一線)、alpha-blocker (增加 45% 排出率,小心血壓,可用 Urief 或 Harnalidge)。另外使用副交感拮抗劑 (antimuscarinics) 也可緩解症狀加速結石排出。 Source: [[sources/med5-book5-ch05|戊、結 石]].
@@ -146,13 +159,6 @@ tags:
 - (5) 食道攝影(sophagogram):利用口服顯影劑配合 X 光照相,如考慮手術或是症狀和預期反應不同時,需進行此檢查。可以評估橫隔疝氣情況,觀察 GE junction 是否會回到腹腔,以及評估食道狹窄下之逆流情形(尤其 pH monitoring 受狹窄干擾而結果和預期不符者),也可以評估其他結構異常,如:腫瘤、憩室、食道旁橫隔疝氣(Type II & III)。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 7. 常見的臨床場景和治療: - (1) 新生兒一出生就呈現嚴重呼吸窘迫,可能合併有嚴重的肺發育不全而無法存活, 以及可能發生灌流不足或肺動脈痙攣導致缺氧。 - a. 治療:需要 ECLS (Extra Corporeal Life Support Program)、高頻呼吸循環機和加護重症治療。 - (2) 為出生後有數小時無症狀的蜜月期(honeymoon period),之後開始出現呼吸紊亂,為最常見的情況。 - a. 治療:理論上使用 ECLS 和其他可降低肺高壓和低血氧之治療對病嬰應有幫助,因為其肺部發育應較健全,但仍有許多新生兒經治療後仍死亡。 - (3) 在 24 小時後出現餵食困難、慢性呼吸道疾病、肺炎或腸阻塞等症狀,大約佔 10~20% 新生兒,因較晚出現症狀表示肺部發育較成熟,所以預後最好。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - 【詳解】大部份先天性橫隔膜疝氣的嬰兒在剛出生幾個小時內, 肺高壓尚未過高足以造成動脈導管或卵圓孔產生 R to L shunt, 不會有呼吸窘迫或低血氧的狀況,這段時間稱為 honeymoon period (蜜月期)。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- 4. 檢查 & 診斷: 將抽取胸腔內液檢查, 盡量在使用抗生素之前抽取胸水, 並送驗檢查。 檢查項目有 Gram stain、cell count、 protein、LDH、 amylase、 glucose 和 pH。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- 2. 手術前肺功能評估: $P_{CO2} > 43~45~mmHg$ 顯示有肺功能嚴重喪失約將近 50%,若合併肺高壓(為肺切除手術相對禁忌症)。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (D) 4. 一位 30 歲的男性工人從 6 公尺高的鷹架墜落,身體檢查顯示收縮壓 120 mmHg,右胸有明顯的連迦胸(flail chest),嚴重的呼吸窘迫(severe respiratory distress),右胸呼吸聲音稍微降低,叩診時則左右兩側類似。給予非再呼吸型面罩氧氣 15 L/min 後,其動脈氣體分析為 pH: 7.47,PaO2: 65 mmHg,PaCO2: 28 mmHg;下列何者最可能解釋他的異常動脈氣體分析之原因? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- ...102(一)專 | | | | (A) intraperitoneal free air | | 醫五 -49 | | | | (B) pneumatosis intestinalis | | | | | | (C) acidosis (pH $a 200 | | | 呈現鼓音(tympanic)。下列何者你覺得對診斷最沒有幫忙? | | | | (A) 指診檢查肛門的鬆緊 (B) 問胎便排出時間 | | | | (C) 安排下消化道攝影 (D) 大便細菌培養 | | | | 【詳解】滿月男嬰、經常腹脹便秘(三天排便一次),進食尚 | | | | 正常。 | | | | TT- 114 | | Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (C) 11. 一位 70 歲男性,晚餐後覺得一陣心悸,三十分鐘後突然腹部劇痛,因疼痛持續一小時仍未緩解,而至急診室就診,當時你發現此病人臉色蒼白、冷汗直流,血壓 140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG顯示有心房顫動,血液檢查:Hb 14 /dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
-- b. Blalock Taussig shunt (B-T shunt): 分流手術。 - (a) 為 palliative surgery, 將 subclavian artery 和 pulmonary artery 接在一起, 引流部分 subclavian artery 血液至肺部增加 pulmonary blood flow,增加回心的含氧血。(下圖 A) - (b) 但接久了 subclavian artery 會變大,使得肺血流太多導致肺高壓。故可改用人工血管(modified B-T shunt),減少肺高壓的情形。(下圖 B) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 
 ## Clinical Caveats
 

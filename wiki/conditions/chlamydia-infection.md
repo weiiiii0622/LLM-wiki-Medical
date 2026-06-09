@@ -11,6 +11,9 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Chlamydia infection (披衣菌感染)'
   - 'Chlamydia infection'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-絕對細胞內病原，可造成泌尿生殖道、眼部與肺部感染。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+絕對細胞內病原，可造成泌尿生殖道、眼部與肺部感染。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,19 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- | 感染性 | · 最常見的病原菌為披衣菌 (Chlamydia trachomatis), 其次為淋病雙球 | | |------|-------------------------------------------------------------------------|--| | | 菌 ( Neisseria gonorrhoeae ),Herpes simplex virus 和 Trichomonas 佔 | | | | 少數個案 | | | 非感染性 | • 包括機械性刺激(如手術創傷、異物刺激)、化學性刺激(如陰道灌 | | | | 洗、藥物刺激)和放射治療等 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (5) 治療:一般先給予經驗性療法,等感染源確定後再專一性治療。若感染源為披衣菌、淋病雙球菌或 trichomonas,須同時治療性伴侶,且治療期間需禁慾。專一性治療包括 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- | 披衣菌 | • azithromycin 1 g 單一劑量或口服 doxycycline 100 mg BID, | | | |-------|----------------------------------------------------|--|--| | | 7 天。( 懷孕時使用 erythromycin) | | | | 淋病雙球菌 | • 單一劑量的肌肉注射 ceftriazone 250 mg | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (5) 披衣菌檢查(Chlamydia test):當懷疑可能因為慢性骨盆腔發炎造成不孕,可做披衣菌檢查。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...否異常 | ・子宮輸卵管攝影 (Hysterosalpingogram, HSG) | | | | ・ 超音波 ・ 子宮鏡 | | | | ・腹腔鏡 ・核磁共振 | | | 懷疑子宮內膜異位 | ・腹腔鏡 | | | 症和骨盆腔沾黏 | ・Chlamydia antibody testing (懷疑為慢性骨盆腔發炎) | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...| 30~40% | | (Hypergonadotropic hypogonadism) | (XXY) · Y chromosome deletions | | | (Primary hypogonadism) | 後天性:感染(淋病、披衣菌、腮腺 | | | | 炎病毒)、受傷、藥物、抽菸、放射 | | | | 線、環境毒素等 | | | Disorders of sperm transport | Abnormalities of Epididymis | 10~20% | | (Post-testicular defects) | Abnormalities of the vas deferens | | | | Ejaculatory dysfunction | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (A) 披衣菌(Chlamydia ) (B) 陰道滴蟲(Trichomonas ) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (2) 菌種:分為兩大類 (a) 淋病 (Neisseria gonorrhoeae); (b) 非淋病 (Chlamydia trachomatis、Ureaplasma urealyticum、Trichomonas vaginalis、和 herpes simplex virus)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - b. 實驗室檢查:細菌培養檢體需從尿道取樣,而非單從分泌物取樣。但若要快速診斷,可取尿道分泌物抹片,染色後在 100 倍油鏡下觀察白血球內有無淋病雙球菌。感染淋病者 30% 會合併感染 *Chlamydia trachomatis*。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...Gentamicin plus piperacillin | | Serratia spp. | TMP-SMX, carbenicillin | TMP-SMX, amikacin | | Other pathogens | | | | Chlamydiae | Tetracycline, erythromycin | Tetracycline, erythromycin | | Mycoplasmas, ureaplasmas | Tetracycline, erythromycin | Tetracycline, erythromycin | | Obligate anaerobes | Metronidazole, clindamycin | Metronidazole, clin Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -50,9 +63,6 @@ tags:
 - 2. 治療: - (1) 患病者:給予第三代頭孢黴素(如 Ceftriaxone 250 mg im for one dose)加上四環黴素(Tetracycline),如此亦可 cover 性病常見的砂眼披衣菌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (C) lymphogranuloma venereum Chlamydia trachomatis Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...-------------------------------|--| | 大分類 | 細分類 | 例子 | 臨床上常用於 | | | | Macrolide (肝) | Erythromycin | 非典型肺炎 (Mycoplasma, Chlamydia) | | | | | Azithromycin | HIV 病患的 MAC | | | 抑制 50S 核醣體 | Lincosamide (肝) | Clindamycin | 厭氧菌→橫膈以上的膿瘍 | | | | | | 抑制細菌毒素製造→壞死性筋膜炎 | | | | Oxazolidinones (肝) | Linezolid | 可用於多重抗藥性的細菌 | | | | Chloramphenicol | Chloramphen Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (1) Tetracycline · Doxycycline · Minocycline - a. 對細菌的抗藥性高,主因細菌產生排出幫浦,將進入細菌的四環黴素迅速排出, 因此主要用在 - (a) 立克次體 (Rickettsia, 如恙蟲病= Scrub typhus, Q fever); - (b) 螺旋菌(Spirochetes,如 Lyme disease 造成的關節炎,對 PCN 過敏的梅毒患者替代用藥); - (c) 弧菌(H. pylori),用於合併治療根治幽門桿菌造成的消化性潰瘍。 - (d) 披衣菌 (Chlamydia trachomatis) 眼睛、泌尿系統感染;青春痘 (Acne)等。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (b) Doxycycline (100 mg PO q12h): 最常用的 tetracycline, 口服吸收最佳 (95~100%),吸收不受食物影響。披衣菌 (*Chlamydia trachomatis*)的標準治療,也用於預防瘧疾 (Malaria)。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- 2. Urethritis: 需治療 Neisseria (Ceftriaxone 250 mg IM\*1 dose)、Chlamydia Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 
 ## Clinical Caveats
 
@@ -61,7 +71,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/pelvic-inflammatory-disease|Pelvic inflammatory disease, PID (骨盆腔發炎性疾病)]]
 
 ## Follow-up
 

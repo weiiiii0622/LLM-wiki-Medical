@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch23]]"
   - "[[sources/med3-book2-ch18]]"
@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book2-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Spontaneous bacterial peritonitis, SBP (自發性細菌性腹膜炎)'
   - 'Spontaneous bacterial peritonitis, SBP'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book2-ch01]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- | 高血壓 | • 高血壓:血壓上升 SBP ≥ 140 mmHg 或 DBP ≥ 90 mmHg | | |-----|-------------------------------------------|--| | | (2 次間隔至少 4 小時量測 ) | | | | ・ 嚴重高血壓:血壓上升 SBP ≥ 160 mmHg 或 DBP ≥ 110 | | | | mmHg (數分鐘後確認無誤即算高血壓) | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...| • 控制血壓是避免高血壓所帶來的併發症,無法減緩子癲前症 | | |------|---------------------------------------|--| | | 的進展或改善周產期的併發症 | | | 治療時機 | ・ SBP ≧ 150 mmHg 或 DBP ≧ 100 mmHg | | | 治療目標 | • SBP 130~150 mmHg; DBP 80~100 mmHg | | | 注意事項 | • 血壓不可降太低 ( 和前一胎子癲前症嚴重度及發生週數相關 | | | |-----|--------------------------------------|--|--| | | (1) 若為早發型且具嚴重表徵的子癲前症,復發率高達 25~65% | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...的臨床表現有 Beck's triad: JVP 上升、hypotension,distant heart sounds (隔了一層積液,心音聽起來低沉,好像很遠的感覺)。 - c. 其他表現有 pulsus paradoxus (吸氣時 SBP 下降超過 10 mmHg 或者 9%),以及 Kussmaul's sign (吸氣時 jugular venous pressure 上升)。 - d. 若是近端主動脈剝離,血液破出 adventitia,併發心包膜填塞,死亡率極高。 因為通常是急性產生,容易快速發展到阻塞性休克,造成心跳停止。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...l bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在前 6 小時內達到以下目標。 - a. CVP 維持在 $8\sim12~\text{mmHg}$ : 給予晶體或膠體溶液(目前多建議晶體溶液),每半小時 $500\sim1,000~\text{mL}$ ,以達到目標,假使 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...| | sure)下降 | | | | | (C) 出血程度是以理想體重 | 百分比計算之 | | | | (D) 小兒血量之計算標準是 | 每公斤 80 mL 到 90 mL | | | | 【詳解】pulse pressure 為 | SBP 減 DBP,神經性、敗血性和過 | | | | 敏性休克病人因為血管的: | sympathetic tone 下降,周邊血管阻力 | | | | (SVR)降低,所以脈搏壓 | 医會增加。 | | | (A) | 29. 系統發炎反應症候群(syst | emic inflammatory response syndrome) | 100(一)專 | | | 的定義包括下列那幾項? | | 醫五 -60 | | | ①體溫 12,0 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].

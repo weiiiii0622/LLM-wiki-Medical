@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch03]]"
 aliases:
   - 'Ischemic heart disease (缺血性心臟病)'
   - 'Ischemic heart disease'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌供氧不足的疾病群，包含穩定型心絞痛與急性冠心症。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch03]]
 
 ## Key Details From Sources
 
+- ...擴張) | | Carbetocin | 靜脈給藥 | 低血壓、潮紅、頭痛、顫抖、 | | | | 噁心、腹痛 | | Methylergonovine | 肌肉注射 | 禁忌症為高血壓、周邊血管和 | | (C) (A) (A) | | 缺血性心臟病 | | Misoprostol (PGE1) | 肛門塞劑、口服 | 可用於高血壓或氣喘之患者 | | | 或舌下給予 | 可能引起發燒 | | 15-methyl prostaglandin F2a | 子宮肌層注射或肌肉 | 禁忌症為高血壓和氣喘、肝腎 | | (refractory uterine atony) | 注射 | 功能差為相對禁忌症 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - ...e dysfunction (ED) = impotence 陽痿): - (1) 流行病學:臨床上最常見的男性性功能障礙,40 歲以上有25%人有ED。另外常因其它因素引起:抽菸者40%有ED、糖尿病者60%有ED、高血壓者70%有ED、冠狀動脈疾病80%有ED、周邊血管病變90%有ED。 - (2) 危險因子:年齡、抽煙、喝酒、心血管病史、代謝症候群。 - (3) 臨床表徵: - a. 症狀:ED 定義是沒有辦法達到 / 維持陰莖的勃起硬度以進行一次滿意的性 行為。 - b. 實驗室檢查:空腹血醣值(排除糖尿病及糖尿病性神經病變的可能)、血中 睪固酮濃度、血中泌乳激素(prolactin)濃度。 - c. 特殊檢查: - (a) 夜間陰莖勃起功能監測(nocturnal peni Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### 丙、冠狀動脈疾病及冠狀動脈繞道手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
@@ -84,7 +87,6 @@ tags:
 - (D) 10. 控制下列心血管因子,何者對缺血性心臟病之預後影響最不顯著? (A) 戒菸 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - ...--|-----------------|------------| | Risk | IIa Familial hypercholesterolemia (FH) | LDL | Chol ↑ ↑ | LDL R. 有問題 | | of CAD | IIb Familial combined hyperlipidemia | LDL & VLDL | Chol & TG ↑ | 和 DM、肥胖有關 | | | III Familial dysbetalipoproteinemia | IDL & Chylo. | Chol & TG ↑ | Apo E 有問題 | | No risk | I Familial hyperchylomicronemia | Chylo. | T Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
 - 1. 缺血性心臟病(Ischemic heart disease)指的是心肌供氧不足,最常見的原因是冠狀動脈粥狀硬化。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- 2. 缺血性心臟病分為兩大類,一類是慢性穩定型心絞痛(Chronic stable angina),一類是 急性冠心症(Acute coronary syndrome)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

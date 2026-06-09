@@ -23,6 +23,13 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book1-ch15]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch12]]"
+  - "[[sources/med6-book1-ch13]]"
 aliases:
   - 'Cystitis (膀胱炎)'
   - 'Cystitis'
@@ -37,7 +44,7 @@ tags:
 
 ## Summary
 
-下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +67,26 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch16]]
+- [[sources/med6-book1-ch15]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch09]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch12]]
+- [[sources/med6-book1-ch13]]
 
 ## Key Details From Sources
 
+- # 戊、間質性膀胱炎(Interstitial Cystitis) Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
+- ### 戊、間質性膀胱炎 (Interstitial Cystitis) Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
+- ...悅感(疼痛、壓迫、不 | |------|-------------------------------------------------| | | 適)合併下泌尿道症狀,持續超過六週,沒有發現感染或其他成因 | | 命名 | · 間質性膀胱炎 (Interstitial cystitis): 無明確成因的慢性膀胱疼痛過 | | | 去稱之,但此為命名錯誤,因為既沒有證據顯示膀胱發炎是成因, | | | 也沒有證據顯示此症狀和膀胱間質異常有關,不過,此命名行之多 | | | 年,仍被沿用 | | | ・膀胱疼痛症候群 (bladder pain syndrome):較吻合臨床表現的新命名 | | 相關疾病 | ·可能合併其他慢性疼痛症候群(如:irritable bowel Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
+- 1. 定義:泌尿道感染包含下泌尿道感染-膀胱炎(cystitis)及上泌尿道感染-腎盂腎炎(pyelonephritis)。依病情的複雜度可分為: Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
+- | 膀胱炎 | 解尿疼痛、急尿、頻尿、上恥骨疼痛,有時出現血尿。 | |------|-----------------------------------------------------| | 腎盂腎炎 | (1)包括上述膀胱炎症狀 | | | (2)發燒 ( > 38℃ )、冷顫 (chills)、腰痛 (flank pain)、噁心 / 嘔吐 | | | (3)第 12 根肋骨下和脊椎相接角 (costovertebral angle) 敲痛 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
+- (B) 2. 關於懷孕婦女的膀胱炎或急性腎盂腎炎的敘述,下列何者錯誤? Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
+- (B) 13. 一個正在接受手術後放射線治療的病人,發生嘔吐、食慾不佳、 10 腹瀉及輕微腹痛之症狀。下列何者為最有可能之診斷? - (A) 放射線後膀胱炎 (radiation cystitis) - (B) 放射線後腸炎 (radiation enteritis) - (C) 放射線後直腸炎 (radiation proctitis) - (D) 腸道陰道瘻管 (enterovaginal fistula) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (D) carboplatin 與出血性膀胱炎 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- 【詳解】Carboplatin 屬於白金類化療藥物,副作用與肝腎毒性 有關,而出血性膀胱炎主要是 cyclophosphamide 的副作用。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- (2) **臍動脈**:最常使用,評估其阻力高低可間接評估胎兒血流是否充足。最常應用 於妊娠高血壓或胎兒生長遲緩的孕婦。 - a. Peak Systolic frequency shift/End-Diastolic frequency shift ratio (S/D ratio): - (a) 胎兒 28 週以後生長快速,增加血液供應,因此收縮期與舒張期流速均需增加,但舒張期流速增幅大於收縮期,因此 S/D ratio 下降,若上升則代表胎盤血流供應不足,有胎兒窘迫的風險。 - (b) 28 週之後, S/D ratio > 3 為懷孕不良預後之高風險族群。 - b. Resistance index ( Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 2. 膀胱:間質性膀胱炎 (interstitial cystitis): - (1) 流行病學:好發於超過40歲的女性。 - (2) 病因學:慢性膀胱發炎 (end-stage inflammatory),機轉未明。 - (3) 臨床表徵: Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (a) 膀胱內灌注藥物: - i. 常用灌注藥物: - (i) Mitomycin C: - ①機轉:一種化療藥物,用來抑制癌細胞 DNA 合成。 - ②效果:降低術後癌症復發率15%。(但不會降低癌症進展機率) - ③注意:25%產生刺激膀胱副作用。 - (ii) BCG (Bacillus Calmette-Guerin) - ①機轉:一種結核桿菌弱毒株,可引發自體免疫反應攻擊癌細胞。 - ②效果:降低術後癌症復發率50%、降低癌症進展機率50%。(效果最佳) - ③注意:80%產生刺激膀胱副作用。另外5%出血性膀胱炎、1% 遠端感染。 - ii. 副作用:常見局部刺激膀胱導致的排尿症狀(頻尿、急尿、解尿疼痛), 系統性症狀很少,因為經膀胱吸收的藥物很有限但也有少數會造成嚴 重全身性感染病症。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - | (B) | 3. 有關間質性膀胱炎(interstitial cystitis)之敘述,下列何者錯誤? (A) 通常發生於 40 歲以上的女性 (B) 通常病人的尿液常規檢查會出現血尿及膿尿 (C) 常見的症狀是頻尿、夜尿、急尿、及恥骨上疼痛 (D) 症狀通常是在膀胱脹尿時引起,因此膀胱容積逐漸縮小,病人變得相當頻尿 | 109(一)專醫五-69 | |-----|----------------------------------------------------- Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
@@ -71,16 +95,6 @@ tags:
 - 【詳解】以病患的年紀與性別來判斷,急性膀胱炎的機會較低。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 3. 病菌:大多數 UTI 是單一致病菌造成。並非有進入泌尿道的細菌就會感染,還是有菌種或亞型的差異。 - (1) 非複雜 (uncomplicated:指女性無懷孕且感染後無嚴重併發症)膀胱炎、腎盂腎炎:80% 是 *E. coli* (亞型 O 為主)。其他 20% 為 Klebsiella、Proteus 或 *Enterobacter* spp. 或 Enterococci。 - (2) 住院中得到 UTI:可能的菌種很多,甚至包括 Pseudomonas 或 *Staphylococcus* spp.。若是 *Staphylococcus aureus*,常是從其他處經血液傳播而來。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - 2. 膀胱(急性膀胱炎):下泌尿道症狀(頻尿、急尿、尿痛)、腰背和恥骨上疼痛、血尿和混濁/惡臭尿。發燒等系統性反應並不常見。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- 5. (男性)附睪/睪丸(附睪炎/睪丸炎):充血及腫大的陰囊伴隨劇痛,可能引起 腹股溝痛或腰痛。在症狀開始之前,有可能會先有尿道炎或膀胱炎的症狀先產生。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- (c) 臨床表徵: - i. 症狀:排尿不完全(排尿後還會滴滴答答)、尿流斷續或微弱、反覆的膀胱炎或攝護腺發炎。 - ii. 尿路動力學:餘尿多、尿流速下降。 - iii. 影像學:尿道攝影(urethrography)及排尿膀胱攝影(VCUG)。 - iv. 內視鏡:尿道膀胱鏡可兼做治療。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- 前言:原本只是造成腹部疼痛的膽結石,若沒有治療,持續刺激之下將會導致急性 發炎等併發症如下: - (1) 急性膽囊炎 (acute calculous cholecystitis)。 - (2) 總膽管結石 (choledocholithiasis)。 - (3) 膽囊性胰臟炎 (biliary pancreatitis)。 - (4) 膽石性腸阻塞 (gallstone ileus)。 - (5) 膽管炎 (cholangitis)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- #### 2. 急性膽囊炎 (Acute calculous cholecystitis): Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (d) 膽囊中可見氣體 (emphysematous cholecystitis)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- #### 丙、急性非結石性膽囊炎(Acute Acalculous Cholecystitis) Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
-- 1. 可利用腹部超音波與電腦斷層掃描診斷急性非結石性膽囊炎。 - (1) Sonographic Murphy sign - (2) 膽囊壁厚度≥ 3.5 cm - (3) 膽囊腫大 - (4) 膽囊周圍組織有積液 - (5) 膽囊黏膜有剝離現象 - (6) 膽囊壁內有氣體影像 (如 emphysematous cholecystitis) Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
-- (C) 2. 有關急性無結石性膽囊炎(acute acalculous cholecystitis)敘述,何者錯誤? Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
-- (5) 射頻燒灼術 (radiofrequency ablation, RFA): Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 
 ## Clinical Caveats
 

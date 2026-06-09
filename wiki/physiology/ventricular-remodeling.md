@@ -57,6 +57,8 @@ sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch09]]"
 aliases:
   - 'Ventricular remodeling (心室重塑)'
   - 'Ventricular remodeling'
@@ -71,7 +73,7 @@ tags:
 
 ## Summary
 
-心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -128,9 +130,13 @@ tags:
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book6-ch09]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch09]]
 
 ## Key Details From Sources
 
+- ...形成絨毛膜的絨毛(chorionic villi),負責從母體運送氧氣和營養給胎兒,而extravillous trophoblast 則移動到蜕膜(decidua)和子宮肌層,渗透母體血管,與子宮動脈的重塑(spiral artery remodeling)有關,形成高流速、低阻力的胎盤血循環。子宮胎盤血循環系統(uteroplacental circulation)著床時開始建立,12 週以後第二波建立形成,持續至 20 週。Ref: Wang Y, Zhao S. (2010). Vascular biology of the placenta. Ch. 2. Placental blood circulation. San Rafael (CA), Morgan & Claypoo Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (B) bleomycin 與肺部纖維化 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - ...(B) 長期洗腎的病人因為腎功能不全會導致腎性骨發育不全 (renal osteodystrophy),其PTH可能會升高 - (C) 變形性骨炎(Paget's disease)主要發生在40歲以下的病人, 女多於男,是一種骨頭塑形 (remodeling) 的疾病,不會轉 變為惡性腫瘤 - (D) 骨質石化病(osteopetrosis) 又稱大理石骨病(marble bone disease),主要是因成骨細胞(osteoblast)過度活躍造成 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (C) 修飾期(Remodeling)於修補期的中期就開始,可於臨床骨 折癒合後持續多年 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (A) 3. 彈響髖(snapping hip)是因為髖關節周邊某些軟組織因纖維化或 104(二)專 硬化,而在髖關節活動時與骨骼摩擦所致。下列這些軟組織,何 醫五-59 者最不可能造成彈響髖? - (A) 股外側肌(vastus lateralis muscle) - (B) 髂脛束 (iliotibial band) - (C) 臀大肌 (gluteus maximus muscle) - (D) 髂腰肌鍵 (iliopsoas tendon) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
@@ -147,8 +153,6 @@ tags:
 - 4. 臨床表現:6週以上黃疸,蒼白便,深色尿,肝腫大變硬(肝門纖維化)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 5. 類型: - (1) 遠端膽道纖維化而近端膽道暢通:佔5%,可以手術矯正。 - (2) 沂端膽道纖維化而遠端膽道暢通:佔15%。 - (3) 近遠端膽道皆纖維化:佔80%。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 3. 危險因子: - (1) Congenital causes:呈散在性分佈。 - a. 囊狀纖維化 (cystic fibrosis)。 - b. α1- 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency )。 - c. 免疫缺失(selective IgA deficiency, allergic bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's Source: [[sources/med5-book4-ch03|丙、肺]].
-- 2. 臨床表現:初次感染病灶會呈現乾酪性壞死合併有滲出液,而後續病灶會發生在肺間和上葉後節,或是下葉後節,病灶癒合後會纖維化和攣縮,疾病早期就會有廣泛性乾酪性開洞。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...Sarcoidosis)、組織球增生症(Histiocytosis)、特發性肺含鐵血黃素沉著症(Idiopathic hemosiderosis)、肺泡蛋白質沉積症(Pulmonary alveolar proteinosis)、彌漫性間質纖維化(Diffuse interstitial fibrosis)、特發性肺纖維化(idiopathic pulmonary fibrosis)、脫屑性間質性肺炎(Desquamative interstitial pneumonia)、嗜伊紅性肺炎(Eosinophilic pneumonia, caused by drugs, actinomycosis, and parasites)淋巴血管平滑肌肉增生症(Lymphangioleio Source: [[sources/med5-book4-ch03|丙、肺]].
 
 ## Clinical Caveats
 

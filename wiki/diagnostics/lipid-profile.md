@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Lipid profile (血脂檢查)'
   - 'Lipid profile'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,13 @@ tags:
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book3-ch17]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...| | | ultrasound criteria | ( > 10 mL) • | | | 註 4: 代謝性症候群 | 下列 5 項符合 3 項者,即可診斷代謝性症候群 | | | 診斷標準 | ・腰圍> 88 cm | | | | ・ 三酸甘油脂≧ 150 mg/dL | | | | ・ 高密度脂蛋白 Definition | Clinical Hyperandrogenism (Ferriman-Gallwey Score ≥ 8) or Biochemical Hyperandrogenism (Elevated Total/Free Testosterone) | Oligomenorrhea(Less Than 6-9Menses per Year)orOligo-Ov Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (1) estrogen 會影響脂肪代謝(增加 HDL、減少 LDL)、減少胰島素抗性和增加動脈血流,因此更年期後冠心病風險會增加。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (B) 女性荷爾蒙有降低 LDL 的效果,所以可用於預防心血管疾病 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (2) 保守治療:中鏈三酸甘油脂飲食或全靜脈營養。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 2. 代謝性:高三酸甘油脂。 High TG Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
@@ -76,9 +81,6 @@ tags:
 - ...|--------| | | (A)糖尿病病人使用腹膜透析血糖控制較不易 | 醫三-26 | | | (B) 腹膜炎發生的機率每 12 個人月 (patient-month) 發生一次是可以接受的 | | | | (C) 治療後 1 年通常三酸甘油脂會明顯上升 | | | | (D) 與血液透析比較,這些病人的血清白蛋白值通常較低 | | | | 【詳解】本題一律給分。 | | | (D) | 12. 腹膜透析病人發生腹膜炎時一般不會有那個徵象? | 98(一)專 | | | (A) 渾濁的透析液 | 醫三-25 | | | (B) 腹痛 | | | | (C) 腹膜透析流出液之白血球數 > 100 per microliter | | | | (D) 腹膜透析脫水量增加 | | Source: [[sources/med3-book3-ch06|己、透析治療]].
 - (B) 1. 一位 18 歲男性大學新生,一星期前入學體檢報告正常。三天前參加新生盃籃球比賽後關節酸痛,自行購買止痛藥(diclofenac)服用後開始出現小便泡沫與腳腫,故至門診求診。無嘔吐、腹瀉、發燒與頻尿症狀。理學檢查發現:血壓 160/90 mmHg,呼吸速率每分鐘 20下,四肢出現紅疹,雙下肢 4+ 水腫。血液檢查:尿素氮(BUN)52mg/dL、肌酸酐:2.0 mg/dL,白蛋白 1.8 g/dL,白血球 7,000/μL,血色素 10.2 g/dL,膽固醇 320 mg/dL,三酸甘油脂(triglyceride)260mg/dL。尿液檢查:紅血球 2~3 顆/HPF,白血球 3~5 顆/HPF,尿液總蛋白質與肌酸酐比值為 12 g/g Cr。下列何項為最可能的診斷? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...些 Lipoprotein 有關 | 特性 | | | |----------------------|-------------------------|----------------------------|--|--| | A-I HDL, Chylomicron | | ⊕ LCAT | | | | B-48 | Chylomicron | 腸製造,只在 Chylomicron 中 | | | | B-100 | IDL, LDL, VLDL | 肝製造,可接到 LDL receptor | | | | C-I | Chylomicrons, VLDL, HDL | ⊕ LCAT | | | | C-II | Chylomicrons, VLDL, HDL | ⊕ L Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
-- ...----------------------|--------------|-----------------|------------| | Risk | IIa Familial hypercholesterolemia (FH) | LDL | Chol ↑ ↑ | LDL R. 有問題 | | of CAD | IIb Familial combined hyperlipidemia | LDL & VLDL | Chol & TG ↑ | 和 DM、肥胖有關 | | | III Familial dysbetalipoproteinemia | IDL & Chylo. | Chol & TG ↑ | Apo E 有問題 | | No risk | I Familia Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
-- | (B) | 1. | 構成 VLDL、IDL 及 LDL 的(A) 內臟脂肪(C) 腸 | 表面蛋白 Apo B-100,由下列何者分泌?(B)肝(D)骨骼肌 | 97(一)專醫三-41 | |------|-----|------------------------------------------|-------------------------------------------|-------------| | (B) | 2. | 下列何者不是家族性膽固醇 | | 95(一)專 Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
-- ...腹部肥胖:腰圍>90(男)/80(女)cm或腰/臀>0.9。 - b. 高血壓 (BP > 130/85 mmHg 或已服用降壓藥),高血糖 (空腹血糖 > 100 mg/dL 或已服用降血糖藥),高血脂 (TG > 150 mg/dL、HDL dL | 100~125 mg/dL | ≧ 126 mg/dL | | 兩小時葡萄糖耐受時驗 (OGTT) | 正常人 | Impaired glucose tolerance (IGT)葡萄糖耐受失調 | 糖尿病 | | (喝下75g葡萄糖水之後兩小時) | dL | 140~199 mg/dL | ≧ 200 mg/dL | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 
 ## Clinical Caveats
 

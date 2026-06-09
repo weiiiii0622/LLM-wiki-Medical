@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Upper endoscopy, EGD (上消化道內視鏡)'
   - 'Upper endoscopy, EGD'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (C) 內視鏡 (endoscopy) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (C) 1. 對於食道憩室 (esophageal diverticula) 最好的診斷工具為下列 104(-)専 何者? 醫五-31 - (A)胸部電腦斷層掃描 - (B) 胸部核磁共振造影 (MRI) - (C) 食道鋇劑攝影 (barium esophagram) - (D) 胃鏡檢查 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (C) 1. 下列何種檢查為診斷食道弛緩不能 (achalasia) 的 golden standard ? 108(ニ)専 (A) double-contrast esophagography 醫五-20 - (B) 上消化道內視鏡檢查(upper gastrointestinal endoscopy) - (C) 食道壓測試 (manometry) - (D) ambulatory 24-hour pH monitoring Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (2) 內視鏡(endoscopy):可排除其他食道胃疾病並記錄胃食道損傷情況,並切片 評估是否有異生癌化轉變。 - a. 食道損傷分級(Savary-Miller interpretation) - (a) Grade 1 發紅 (erythema) - (b) Grade 2 線狀潰瘍 (linear ulceration) - (c) Grade 3 融合潰瘍 (confluent ulceration) - (d) Grade 4 攣縮狹窄 (stricture) - (e) Grade 5 巴瑞特氏食道 (Barrett's esophagus) Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -74,7 +77,6 @@ tags:
 - ...AngiographyMRI/CT/EUS | DietarymodificationSurgery § | | Esophageal ring | Children to adults | Dysphagia | EsophagogramEndoscopy † | DilationEndoscopicincision | | Esophageal web | Children to adults | Dysphagia | EsophagogramEndoscopy † | Bougienage | Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (C) 5. 一位 57 歲男性在 40 歲時曾經做過一次健康檢查,當時血液相是正 常的。15年前因胃潰瘍穿孔接受了三分之二的胃切除手術,其他無 特殊病史。最近因為容易疲倦,接受血液檢查,發現血紅素為8.7 gm/dL, MCV 71 fL, 白血球 3,650/μL, 分類正常, 血小板 395,000/μL。 大便潛血反應為陰性,胃鏡檢查無潰瘍或腫瘤。此病人最可能的診斷 為何? Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...三-10 | | (A) | 14. 一位 50 歲男士有缺鐵性貧血病史,因左鎖骨上腫塊求診,經病理切片診斷為轉移性腺癌與戒環細胞分化(signet ring cell differentiation)。在這個階段最適當的檢查為: (A) 上消化道內視鏡 (B) 胸部 CT 掃描 (C) 骨掃描 (D) PET 掃描 【詳解】男性 IDA 多為腸胃道慢性出血,腸胃道癌症一定要列入考慮,左鎖骨上 LAP 是 Virchow's node,是個胃癌特殊轉移位置,所以懷疑胃癌做胃鏡。 | 104(一)專醫三-46 | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (B) 20. 李先生因為家人有癌症病史,所以到 A 醫院的健康檢查中心作全身 健康檢查,檢查項目除了抽血之外還有胃鏡和大腸鏡的檢查,依照 醫療法規定,李先生需不需要寫同意書? Source: [[sources/med3-book4-ch27|丁、預防醫學]].
 
 ## Clinical Caveats
 

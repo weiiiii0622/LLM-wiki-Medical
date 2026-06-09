@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Ischemic stroke (缺血性腦中風)'
   - 'Ischemic stroke'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-腦血流中斷造成 infarction，常依 TOAST 病因、血管位置與時間窗決定治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦血流中斷造成 infarction，常依 TOAST 病因、血管位置與時間窗決定治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book4-ch04]]
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- E 或 E+P 增加的 stroke 風險為缺血性腦中風 (非出血性),不過, 40 mIU/mL, E2 > 30 pg/mL Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 【詳解】腦血管檢查是針對腦梗塞或出血為主,和肺癌治療無關。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D) 缺血性腦中風 (ischemic stroke) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - I. 缺血性腦中風 (Ischemic Stroke) 85 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].

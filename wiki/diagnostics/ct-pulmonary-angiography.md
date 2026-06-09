@@ -39,6 +39,7 @@ sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)'
   - 'CT pulmonary angiography, CTPA'
@@ -53,7 +54,7 @@ tags:
 
 ## Summary
 
-肺栓塞常用影像診斷。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺栓塞常用影像診斷。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +93,11 @@ tags:
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- 1. 簡介:口服避孕藥包括 combined estrogen-progestin oral contraceptives 和 progestin-only pills,兩者避孕效果相當,在正確使用下,僅不到 1% 的失敗率。目前的趨勢是減少 estrogen 的劑量及新型 progestin 的使用。 - (1) 口服避孕藥使用的 estrogen 為 ethinyl estradiol (效力比單獨 estradiol 高),過去使用高劑量 (>50~mcg),研究發現明顯增加心血管疾病和靜脈栓塞的風險。目前趨勢是低劑量使用 (2 下降,但 PaCO2 正常或下降)、V/Q scan mismatches、腿部 都普勒超音波和 CT pulmonary angiography。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - | (A) 截肢病人若出現休克現象就要立即進行接合手術(replantation) 醫五-76 (B) 骨折固定可減少疼痛及避免進一步軟組織傷害 (C) 懷疑有動脈血管損傷必須考慮安排血管攝影檢查 (D) 近關節處的傷口不要嘗試從傷口注入生理食鹽水來檢查是否與關節腔相通 【詳解】(A) 休克可能是因為失血太多,第一必須先穩定生命徵象,再考慮麻醉作接合手術,因為麻醉本身也會造成相對低血壓,大量出血造成的休克可能要考慮先用血管栓塞止血;另一方面有可能是感染造成的休克,此時可能要謹慎評估傷口的狀 | (A) | |----------------------------------------------------------- Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 緊急安排血管攝影,並安撫病人情緒 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (C) 血管攝影雖比較具侵襲性,但卻是最正確的診斷方式 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
@@ -112,7 +115,6 @@ tags:
 - (C) 安排血管攝影檢查以及血管栓塞處置 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (D) 影像診斷工具有內視鏡、電腦斷層、血管攝影等 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - ...週,尿液變深、灰白便、身體發癢、皮 107(一)專 膚逐漸變黃,因此到院檢查。身體診察發現鞏膜變黃,下肢無水 醫五-32 腫,其CT影像上可見胰臟頭部有4公分左右腫瘤合併總膽管及 胰管擴大,針對此病患安排下列處置何者最不適當? (A) 安排血管攝影栓塞 (B) 測定 CEA, CA19-9 (C) 進行 ERCP (endoscopic retrograde cholangiopancreatography) 或 EUS (endoscopic ultrasonography) 合併切片 (D) 進行核磁共振膽胰攝影 (MRCP) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (3) 血管攝影、電腦斷層:適合診斷和術前計畫評估。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 
 ## Clinical Caveats
 

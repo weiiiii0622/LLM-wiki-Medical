@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Complement system (補體系統)'
   - 'Complement system'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...IA 或 IB),合併以下情形 | | IC | | | | IC1 | IC1 手術過程破裂灑出 (surgical spill) | | | | | | IC2 | 外囊在手術前已破裂或侵犯卵巢表面 | | | | | | IC3 | C3 惡性腹水(註1) | | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...eral + SI injury | | С | RotationallyunstableVertically unstable | C1: unilateral + SI injury C2: bilateral + SI injury C3: associated acetabular fracture + SI injury | Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - ...| N1 | N2 | N3 | |-----|--------------|-----------|------------|------------| | Tis | Stage 0 | | | | | T1 | Stage IA | C4 TIA | C. IID | C. HO | | T2 | | Stage IIA | Stage IIB | Stage IIC | | Т3 | Stage IB | (S0/1) | (S0/1) | (S0/1) | | T4 | | | | | | | S0 | S1 | S2 | S3 | | M1 | Cto co III A | | C4 IIID | | | Mla | -Stage IIIA | | Stage I Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (7) Stage C3: Stage C3 +淋巴轉移。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
@@ -86,7 +89,6 @@ tags:
 - 2. 病因:病人的自體抗體攻擊類天疱瘡抗原(Bullous pemphigoid antigen)BPAg1 和BPAg2。BPAg 位於連接基底層(stratum basale)和 Basement membrane(位於表皮層和真皮層之間)的半胞橋小體(hemidesmosome)上,與抗體結合之後活化補體及發炎反應,破壞基底層細胞與其下真皮層的聯結,表皮(epidermis)與真皮(dermis)之間就裂開了。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (3) DIF: IgG和C3沿著表皮與真皮之間的Basement membrane zone (dermo-epidermal junction) 沉積,呈線狀沉積 (linear deposition),見下圖。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - ...icillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- ...| Kawasaki disease)孩童最少發生? | 103(一)專 | | | , , , , , , , , , , , , , , , , , , , , | (B) 膿尿(pyuria) | 醫四 -28 | | | (C) 補體 C3、C4 下降 | | | | 1 | C3、C4 下降情形。 | 非自體免疫性疾病,故不會有發生 | | | : | 有米粒至豌豆大小斑丘疹,並 | 量咳嗽,眼睛發紅,臉部與軀幹部短無水泡,頸部淋巴腺腫大。上述描近且較少見於川崎氏病(Kawasaki | 102(一)專醫四-1 | | ( | (A) 咳嗽 | (B) 皮疹大小形狀 | | | | (C) 眼睛發紅 | (D) 頸部淋巴腺腫大 | | | | 童曾經發燒5天,身上 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

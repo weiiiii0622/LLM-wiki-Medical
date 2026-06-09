@@ -2,7 +2,7 @@
 type: anatomy
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch01]]"
   - "[[sources/med4-book2-ch03]]"
@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book2-ch26]]"
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Dermis (真皮)'
   - 'Dermis'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-真皮含膠原、彈性纖維、血管、神經與附屬器官，決定皮膚強度與彈性。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+真皮含膠原、彈性纖維、血管、神經與附屬器官，決定皮膚強度與彈性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med5-book2-ch26]]
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- · 因為真皮層的彈性纖維減少及排列方向改變,而形成妊娠紋 (striae gravidarum) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 3. 皮膚移植(skin graft):假如傷口太大或位置不適合手術縫合,就會考慮從身體其他地方將皮膚取下,移植到傷口處。依真皮層被取下的多寡可分為全層皮膚移植(full-thickness graft, FTSG)與分層皮膚移植(split-thickness graft, STSG)。注意:皮膚移植並不包含移植之皮膚本身的血管。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - 傷口癒合有其一定步驟,皮膚最外層由上皮層(epidermis)和真皮層(dermis)作為屏障保護的作用,一旦受到破壞產生傷口、微血管破裂,身體就會開始一連串的癒合過程。也許因為傷口種類不同每一時期長短不一,甚至可同時看到不同時期的組織一起出現,但傷口仍舊是依循順序去癒合的。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - 3. Proliferative phase (增生期):約第2~3天開始,可持續到3~4週。 - (1) Granulation phase (肉芽組織生長期): 纖維母細胞 (fibroblast) 移行至傷口處,不斷產生纖維細胞 (fibrocyte),並分泌第三型膠原蛋白 (type III collagen)。 膠原蛋白的作用為提供上皮細胞移行的管道、刺激真皮細胞移行並作為真皮細胞層生長的骨架,以促進傷口癒合。同時也會有微血管新生 (angiogenesis)的 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
@@ -70,7 +73,6 @@ tags:
 - (1) 基底層 (Stratum basale) 與其下的真皮層分離,形成表皮層下裂縫 (Subepidermal cleft),又稱 subepidermal blister。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (2) 嗜中性球、嗜伊紅性細胞和淋巴球浸潤於真皮層上層。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (1) 表皮層的感染為 Impetigo, 又稱膿痂疹或膿疱病, 外觀為一粒粒小紅色瘡 (red sore), 假使沒加以治療, 感染侵犯至真皮層則為 Ecthyma。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (a) 當 impetigo 向下侵犯至真皮層時即為 ecthyma,是較深的 ulcer,外面覆蓋較厚的黑痂。常長在下肢,癒合後會留下疤痕。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

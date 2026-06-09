@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med6-book1-ch03]]"
 aliases:
   - 'Subdural hematoma, SDH (硬腦膜下血腫)'
   - 'Subdural hematoma, SDH'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-bridging veins 破裂造成 dura 與 arachnoid 間出血，可為急性、亞急性或慢性。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+bridging veins 破裂造成 dura 與 arachnoid 間出血，可為急性、亞急性或慢性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ bridging veins 破裂造成 dura 與 arachnoid 間出血，可為急性、亞急
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch12]]
+- [[sources/med6-book1-ch03]]
 
 ## Key Details From Sources
 
+- (D) Subdural hematoma Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - D. 硬腦膜下出血(Subdural hematoma, SDH) 129 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - 12. 給予 antiepileptic drug,以下情形需注意會增加 post-traumatic seizures 的機會: - (1) 急性 EDH、SDH & ICH。 - (2) 開放性凹陷骨折且大腦實質有受傷。 - (3) 頭部受傷 24 小時之內有發生過 seizure。 - (4) GCS $3。 - b. 而塊最大厚度 8 ° Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - ## D. 硬腦膜下出血 (Subdural hematoma, SDH) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].

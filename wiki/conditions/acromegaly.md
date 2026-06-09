@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch15]]"
   - "[[sources/med3-book2-ch09]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book3-ch01]]"
+  - "[[sources/med6-book1-ch14]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Acromegaly (肢端肥大症)'
   - 'Acromegaly'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+成人 GH 過多造成肢端肥大、代謝與心血管併發症。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book3-ch01]]
+- [[sources/med6-book1-ch14]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- | Aa | Ba | С | |----|----|-----| | Gh | Pb | Tvl | | Ap | Вр | D | Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- 【詳解】POP-Q 以直線數字串方式表示,依序為 Aa, Ba, C, D, Ap, Bp, TVL, GH, PB。B 點為 A 點(hymen 往近端 3 公分之點)和陰道穹隆,兩者較遠端(脫出)者。Point Ba 為陰道前壁之 B 點,數值範圍為 -3 cm 到 total vaginal length,且一定 $\geq$ A 點,故 Point Ba 為 -4 不合理。 Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- b. 腦垂體腺瘤(pituitary adenoma): - (a) 通常是良性,依大小可分 microadenoma ( 10 mm), mass effect 可能壓迫 optic chiasm 造成雙顳葉偏盲 (bitemporal hemianopsia); - (b) 功能性腫瘤會分泌荷爾蒙造成症狀: 前葉 5 種 -prolactin (佔 50%)、TSH、ACTH (Cushing's disease)、gonadotropin和GH、與後葉2種-oxytocin和ADH; - (c) 治療: - i. 藥物治療(dopamine agonist,如 cabergoline、bromocriptine)為首選之治療方式,藥物效果良好(約90%),但仍有10%對藥物無反應。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - d. 這是一個滿棒的反向性激素。因此就出現了 **Octreotide** 這樣子人工合成的 somatostatin,當病人腸胃道出血(常用於 EV bleeding),可使用 Octreotide 抑制腸胃道激素的分泌,減緩出血。此外也可利用其抑制生長激素分泌的特性來治療 Acromegaly。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...孕症、無月經(amenorrhea)或乳漏症(galactorrhea),男性則會陽痿。Functional prolactinoma 患者其血中 prolactin level 多大於 150~200 ng/mL。 - b. 生長激素 (GH): 刺激生長,成人出現末端肥大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -56,8 +63,6 @@ tags:
 - ...(D) | 10. 糖尿病病人所表現出的黎明現象(dawn phenomenon),可能和下列何種荷爾蒙的分泌有關? (A) 昇糖素(glucagon) (B) 胰島素(insulin) (C) 促腎上腺素(ACTH) (D) 生長激素(GH) 【詳解】人體荷爾蒙分泌有每日的週期性,像 GH, cortisol 都是早晨分泌量上升,而兩者都會引起血糖上升,此種現象在 DM 患者稱為黎明現象,可能會造成血糖在早上不好控制。 | 94(一)專內 2-9 | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (D) 8. 一位 46 歲男性病人至內科門診,主訴 2 週前至某健診中心驗血,發 99(二)專 現飯前血糖 201 mg/dL, 飯後 285 mg/dL。病人身高 165 公分, 體重 60 公斤。5 年前經診斷為肢端肥大症接受腦下垂體手術治療。家族 史沒有糖尿病病史。下列何種敘述正確? Source: [[sources/med3-book2-ch09|丁、糖尿病]].
 - (D) 檢測生長素 (growth hormone) 及類胰島素生長因子 -I (IGF-I) 【詳解】病人有肢端肥大症 history,而肢端肥大症可能會造成血糖 高,但也不能排除第2型糖尿病的可能,所以檢測肢端肥大症是否 復發是合理選項。另外病人 BMI: 22 不用減重。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- (D)約20~30%病人有腦下垂體腫瘤,其中以生長激素瘤(GH producing tumor) 最常見 Source: [[sources/med3-book2-ch16|辛、其 他]].
-- ...t parathyroid hormone (iPTH) | | | | (2) Calcitonin (3) 甲狀腺超音波 (4) 24hr urine catecholamine | | | | (5) growth hormone (GH) · thyroid-stimulating hormone (TSH) · | | | | adrenocorticotropic hormone (ACTH) · cortisol · prolactin | | | | (6) MRI of sella | | | | (A) (1)+(2)+(3)+(4) | | | | (B) (2)+(3)+(4)+(5) | | | | (C) (3)+(4)+(5)+(6) | | | Source: [[sources/med3-book2-ch16|辛、其 他]].
 
 ## Clinical Caveats
 

@@ -11,6 +11,10 @@ sources:
   - "[[sources/med5-book3-ch09]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Appendicitis (闌尾炎)'
   - 'Appendicitis'
@@ -25,7 +29,7 @@ tags:
 
 ## Summary
 
-闌尾管腔阻塞後感染發炎，表現可由臍周痛轉右下腹痛，需注意穿孔與膿瘍。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+闌尾管腔阻塞後感染發炎，表現可由臍周痛轉右下腹痛，需注意穿孔與膿瘍。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +40,19 @@ tags:
 - [[sources/med5-book3-ch09]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch09]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- ※ 少數是因為手術感染或被鄰近器官感染(如闌尾炎、憩室炎等)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (C) 急性盲腸炎 (appendicitis) Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 婦女急性下腹痛除了常見婦科問題外(如骨盆腔發炎、卵巢扭轉等),對於生育年齡的女性,一定要先確認她的懷孕狀態,這會影響到我們的檢查方式和鑑別診斷(早期懷孕可能考慮子宮外孕、流產;後期懷孕可能考慮胎盤剝離、子宮破裂),此外,骨盆腔內鄰近器官的問題也須列入考慮(如急性闌尾炎、憩室炎或泌尿道感染、結石)。詳細的評估流程如下圖: Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 【詳解】懷孕期間應避免非緊急性手術,若非開刀不可(常見如:急性闌尾炎、卵巢扭轉、卵巢囊腫破裂和膽囊炎),則選在第二孕程為最安全的時候,以免影響胎兒的器官生成與降低早產的風險。手術後應監測是否早產,並及時安胎。Ref: Anesthesia Secrets 4th ed., Ch. 59 Fundamentals of Obstetric Anesthesia, p.417-418 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (B) 盲腸炎 (appendicitis) Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- (B) 8. 王小姐今年 25 歲,產科史為 G2P2, 想要有第三個寶寶,但已經三年都沒有再懷孕了。她的月經規則,但她曾在兩年前因為闌尾炎闌尾破裂造成持續發燒,合併嚴重腹膜炎接受手術治療。她的先生 28 歲,精液分析(semen analysis)正常,她和先生都沒有內科方面的疾病。她因為不孕到你的門診求診,這對夫妻最有可能不孕的原因是: Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - H. 盲腸炎 (Appendicitis) 160 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (2) 小腸阻塞:三種形成原因。 - a. 小腸扭轉:因憩室形成之纖維化繫帶(fibrotic band)沾黏於腹壁上所致。 - b. 腸套疊。 - c. 腹股溝箝頓性疝氣(又稱 Littre hernia): 憩室於腹股溝疝出並箝頓所致。 - d. 還有一個常見症狀是發炎,尤其是大小孩或成人常見,懷疑是急性闌尾炎的病人有 0.76% 術中會發現其實是 Meckel diverticulitis,不過很難在術前就診斷出來。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (A) 急性闌尾炎 (acute appendicitis) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].

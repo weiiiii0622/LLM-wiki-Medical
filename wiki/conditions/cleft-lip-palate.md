@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch01]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book2-ch28]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Cleft lip and palate (唇顎裂)'
   - 'Cleft lip and palate'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-口腔顏面裂隙可影響餵食、語言、牙齒與中耳功能，需多專科照護。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+口腔顏面裂隙可影響餵食、語言、牙齒與中耳功能，需多專科照護。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book2-ch28]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (C) 3. 對於接受抗癲癇藥物治療的癲癇婦女患者,可建議在受孕期前後(periconceptional period)補充下列何種維生素,來降低胎兒發育異常(如:唇顎裂、神經管缺損、先天性心臟缺損等)的發生機會? Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - A. 唇裂 (Cleft lip) 278 Source: [[sources/med5-book2-ch28|丁、唇顎裂]].
 - B. 顎裂(Cleft palate) 279 Source: [[sources/med5-book2-ch28|丁、唇顎裂]].
 - #### A. 唇裂 (Cleft lip) Source: [[sources/med5-book2-ch28|丁、唇顎裂]].

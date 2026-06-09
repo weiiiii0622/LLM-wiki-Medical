@@ -21,6 +21,8 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Cushing syndrome (庫欣氏症候群)'
   - 'Cushing syndrome'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮質醇過多造成中心肥胖、紫紋、高血壓、糖尿病與骨質疏鬆。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,14 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- b. 腦垂體腺瘤(pituitary adenoma): - (a) 通常是良性,依大小可分 microadenoma ( 10 mm), mass effect 可能壓迫 optic chiasm 造成雙顳葉偏盲 (bitemporal hemianopsia); - (b) 功能性腫瘤會分泌荷爾蒙造成症狀: 前葉 5 種 -prolactin (佔 50%)、TSH、ACTH (Cushing's disease)、gonadotropin和GH、與後葉2種-oxytocin和ADH; - (c) 治療: - i. 藥物治療(dopamine agonist,如 cabergoline、bromocriptine)為首選之治療方式,藥物效果良好(約90%),但仍有10%對藥物無反應。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (D) 庫欣氏症 (Cushing syndrome) Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...失 defeminization:月經變少、甚至停止、乳房和性器官萎縮等。・男性化masculinization: 雄性禿、長鬍子、多毛和陰蒂變大等。 | | Adrenal-like | Lipoid cell tumor | ・男性化、Cushing's syndrome | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...狀帶分泌太多會造成高血壓) - (2) 東狀帶 (zona Fasciculata): 分泌葡萄糖皮質素 (Glucocorticoid), 其中主要成分是皮質醇 (cortisol, 一種類固醇)。(記法: 束褲帶。東狀帶分泌太多會造成庫欣氏症) - (3) 網狀帶(zona Reticularis)分泌雄性素(Androgen)。主要有睪固酮(testosterone)、 雙氫睪固酮(DHT, Dihydrotestosterone)。(注意:雄性素是腎上腺皮質分泌最大量的物質)(記法:網路宅男。網狀帶分泌太多會造成男性化) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - #### B. 庫欣式症 (Cushing's syndrome) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -74,9 +81,6 @@ tags:
 - (A) Cushing's syndrome Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 1. Endocardial Cushing defects Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 3. Small cell carcinoma 會分泌 ADH 造成 SIADH,會分泌 ACTH 造成 Cushing's syndrome,還會造成 Eaton Lambert syndrome。 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- | 症 狀 | 媒介物 | 腫 瘤 | |------------------|-------------|-----------------------------| | 高血鈣 | PTHrP | 鱗狀細胞癌(肺癌、頭頸部癌);乳癌 | | SIADH | Vasopressin | 小細胞肺癌 | | Cushing syndrome | ACTH | 小細胞肺癌、thymic tumor | | 低血糖 | IGF-II | Mesenchymal tumor > Sarcoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...----| | | (A) 淋巴癌 | (B) 小細胞肺癌 | 内 -50 | | | (C) 肋膜癌 | (D) 胸腺癌 | | | | 【詳解】小細胞肺癌還有分泌 | ADH 造成 SIADH,會分泌 ACTH 造 | | | | 成 Cushing's syndrome。 | | | | (C) | 7. 肺癌初期症狀不明顯,發現民 | 持常常已有局部組織的侵犯。下列那種 | 94(二)檢 | | | 症候群不是肺癌局部侵犯的結 | 某? | 內 -51 | | | (A) SVC Syndrome | (B) Horner's syndrome | | | | (C) Lambert-Eaton syndrome | (D) Pancoast syndrome | | | | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...(obesity)之敘述,「 | | 105(一)專 | | | | 增質量指數 (BMI) 大於等於 30 kg/m² | 醫三-57 | | | | 是女性腰圍大於 80 cm,男性大於 90 | | | | cm(C) 肥胖很常見於 Cushing's sy | ndrome | | | | (D) craniopharyngioma 會引發多 | | | | | | 體質量指數(BMI)≥ 27 kg/m²。 | | | (4) 22 | | | 104(二)專 | | (A) 22. | 下列有關老人尿失禁的描述,(A) 80 歲以上女性最常見的尿 | | 醫三-1 | | | (B) 使用利尿劑類的降血壓藥不 | | | | | (C) 使用安眠鎮靜藥不會增加原 | | | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 

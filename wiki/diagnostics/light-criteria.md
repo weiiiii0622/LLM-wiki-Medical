@@ -19,6 +19,8 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book6-ch05]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch02]]"
 aliases:
   - 'Light criteria (Light 標準)'
   - 'Light criteria'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,14 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book6-ch05]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch02]]
 
 ## Key Details From Sources
 
+- 3. 成因:因 β-hCG 作用於卵巢 granulosa cell 之 LH receptor,促使 granulosa cell 產生 VEGF,造成血管通透性增加,大量血管外的渗出液(exudate)而導致臨床症狀。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- 【詳解】OHSS 患者血管通透性增加,大量血管外的渗出液 (exudate) 導致胸水腹水的產生,給予靜脈輸液補充血管內液 體容積及 Albumin 提高 oncotic pressure,來拉住血管內液體,只 有在大量輸液後尿量未增加,才考慮施打利尿劑,利尿劑非必 要也非首選的治療。當胸腹水則是造成嚴重症狀(呼吸困難或 腹痛),可考慮抽水減緩症狀。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- | Gaskin all-fours: | | |-----------------------------|---------------------------------| | 讓產婦呈雙手雙膝著地的姿勢,然後將胎 | Light I | | 兒往上或往下拉,以期能娩出胎兒肩膀。 | Che Man | | | | | | | | | | | | | | | | | | | | | | | | (圖取自參考資料3) | | Clavicular fracture | | | | 但此法不容易施行,而且可能傷及胎 | | | 兒血管和肺部。 | | +I 디 상타되다+ ( 7 11' ) | | | ・札凡納利法(Za vanelli maneuver) | 將 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - (1) AP view(Light bulb sign):由於肩關節脫位會合併旋轉,故大小轉子在 AP view 上會變得不明顯,整根肱骨就會像燈泡一般,發生於向後脫位,稱為 light bulb sign。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - (D) 偏光顯微鏡(polarized light microscope)檢查關節液,可見到陽性雙折射(positively birefringent)特性的針狀結晶體 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 5. 肋膜液性質分析: - (1)漏出液(transudate)因液體進出肋膜腔恆定改變所造成。 - (2) 滲出液(exudates)因肋膜或淋巴完整性被破壞或阻斷所造成。以下為滲出液判別標準(Light's criteria),符合其中以一項即可: - a. Pleural fluid protein/serum protein greater than $0.5\,$ $\circ$ - b. Pleural fluid LDH/serum LDH greater than 0.6 • - Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -70,9 +77,6 @@ tags:
 - (A) 14.50 歲男性,主訴臉部有脫色斑,KOH 鏡檢陰性,伍氏燈(Wood's 103(二)專 light)檢查下對比更加明顯,臨床如圖所示,其診斷為下列何者? 醫四-42 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - (1) high spiking fever (39℃或更高)、兩側結膜紅腫 (usually without exudates)、口 與咽部發現紅斑 (erythema)、草莓舌 (strawberry tongue)、嘴唇乾裂、頸部淋 巴結腫大、身上出現紅疹、手腳紅腫等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...peeling of fingers, toes in wk 2 and 3 - b. Polymorphous exanthem - c. Bilateral bulbar conjunctival injection without exudate - d. Erythema and cracking of lips, strawberry tongue, and/or erythema of oral and pharyngeal mucosa - e. Cervical lymphadenopathy (>1.5 cm diameter), usually unilateral Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (B) 9. 一位 6 歲男童發燒 5 天就診,身體檢查發現上眼皮浮腫、扁桃腺 98(-)專有滲出液(exudate)、肝臟下緣於右肋下方 5 公分、脾臟下緣於 醫四-2 左肋下方 3 公分,下列那一種檢查對於診斷最有幫助? - (A) Weil-Felix reaction - (B) Heterophile antibody test - (C) Throat bacteria culture - (D) Throat virus culture Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (B) 1. 一位 65 歲男性,其血液數據顯示,白血球高達 160,000/μL,血紅素 12.7 g/dL,血小板是 165,000/μL,白血球分類顯示 segmented neutrophil 14%,lymphocyte 80.3%,無不成熟血球。其血液抹片之細胞顯示如下圖。這些淋巴球表達 CD19、CD5、dim CD20、CD23、dim kappa light chain restriction。而 CD10 與 CD34 均陰性。以下關於這位病人最可能的疾病之診斷與治療,何者錯誤? Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (D) 11. 一位 50 歲男性病人,有糖尿病史,一直在家醫科門診追蹤。兩天前開始有發燒、咳嗽,做了血糖及全血球檢查;空腹血糖為 124 mg/dL,血色素為 16.8 g/dL,白血球數為 32,260/μl,中性球 25%,淋巴球 69.5%,單核球 4%,嗜伊紅性血球 1%,嗜鹼性血球 0.5%,血小板為 190,000/μl。流式細胞儀檢查顯示淋巴球為 CD19、CD20、CD5 及 κ-light chain 陽性,CD3 及 λ-light chain 為陰性。下列何者是此病人最可能的診斷? Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 
 ## Clinical Caveats
 

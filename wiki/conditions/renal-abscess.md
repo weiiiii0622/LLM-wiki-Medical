@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch15]]"
 aliases:
   - 'Renal abscess (腎膿瘍)'
   - 'Renal abscess'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-嚴重腎臟或腎周感染液化形成膿瘍，糖尿病、阻塞、結石與洗腎病人風險較高，常需抗生素加影像導引引流。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嚴重腎臟或腎周感染液化形成膿瘍，糖尿病、阻塞、結石與洗腎病人風險較高，常需抗生素加影像導引引流。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch15]]
 
 ## Key Details From Sources
 
+- ※複雜性腎盂腎炎可能進展為腎膿瘍(renal abscess),可能導致敗血症、休克、 甚至多重器官衰竭 Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - #### (4) 腎膿瘍 (renal abscesses): Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - d. 臨床表徵: - (a) 症狀:常見包括發燒、畏寒、腹痛、解尿疼痛,且症狀可持續2週以上。 有些病人可觸診摸到腎膿瘍。 - (b) 實驗室檢查:尿中有 WBC,但 25% 病患尿液常規檢查是正常的。尿液培養僅 35% 可找得到致病菌;血液培養僅 50% 可找得到致病菌。 - (c) 影像:超音波或 CT。IVU 本身不易診斷腎膿瘍(20% 患者仍看似正常)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (d) 腎膿瘍緩解後,進一步檢查及治療泌尿系統異常(例如結石、阻塞)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].

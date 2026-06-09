@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Syphilis (梅毒)'
   - 'Syphilis'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,16 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ### (2) 梅毒 (syphilis): Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- | Primary syphilis | 起初在陰唇出現約 1 cm 的紅疹,然後形成硬性下疳 (chancre) | | |---------------------------------------------|--------------------------------------|--| | | 的無痛性潰瘍,具高感染性,並且伴隨腹股溝淋巴結腫大 | | | Secondary syphilis | rphilis 病原體在初期後2個月擴散至全身,造成除了輕 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- b. 診斷:要培養出梅毒病原體 Treponema pallidum 相當困難,因此以血清學檢查為主。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...過去孕產史、本胎不適症狀。 ・身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 ・實驗室檢查:血液常規(WBC, RBC, Plt, Hct, Hb, MCV)、血型、Rh 因子、B型肝炎(HBsAg, HBeAg)、梅毒(VDRL)、德國麻疹(Rubella IgG)、HIV、尿液常規。 二、例行產檢。 註:若德國麻疹抗體檢查呈陰性之孕婦,宜在產後注射德國麻疹疫苗 ※預產期評估(Naegele's rule):LMP 日期,月+9,日+7+(週期-28) | | | | | 第2次 | | 16 週 | 例行產檢。 | | | | | 第3次 | | 20 週 | • 例行產檢。 | | | | | | 期,妊娠 | | • 超音波檢查。 | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | 給付時程建諱 | | 建議週數 | 檢查項目 | |--------|--------|------|--------------------------| | 第5次 | 妊娠第三 | 32 週 | 例行產檢。32 週前後梅毒 (VDRL) 檢查。 | | 第6次 | 期,妊娠 | 34 週 | 例行產檢。 | | 第7次 | 29 週以上 | 36 週 | 例行產檢。35~37 週乙型鏈球菌篩檢。 | | 第8次 | | 38 週 | 例行產檢。 | | 第9次 | | 39 週 | 例行產檢。 | | 第10次 | | 40 週 | 例行產檢。 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...oids (C) sunitinib (D) sorafenib 104(二)專 (C) 15. 下列何者不是理想的腎臟捐贈者? (A) 腎功能正常者 醫五-71 (B) 同時罹患原發性腦瘤的病人 (C) 出現全身性病毒或細菌感染 (D) 梅毒、肝炎檢查正常者 (C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 104(二)專 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 醫五-77 - C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 描(CT scan)顯示左側腎臟撕裂傷合併巨大血腫,病人的血壓 一直維持在 70/40 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (c) 臨床表徵:通常無症狀。另外可能產生併發症: - i. 反覆包皮龜頭炎(balanoposthitis): 最常見的併發症。 - ii. 嵌頓性包莖(paraphimosis):將包皮退至龜頭露出,卻無法回推,會 造成龜頭部分血液循環不良,長時間有組織壞死的危險。 - iii. 陰莖癌:反覆發炎造成包皮部分容易產生鱗狀上皮癌(SCC)。 - iv. 性傳染病:包皮過長易藏汙納垢使 HIV、gonorrhea、syphilis 的感染率升高。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
@@ -80,11 +89,6 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - ...oma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmonary or cardiac failu | | | | | | | D eficiencies | Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypo Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (D) 鑑別診斷包括二期梅毒 (secondary syphilis) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 梅毒螺旋體(Treponema pallidum)入侵人體皮膚或黏膜破損處感染所致,病原體為螺旋體,一般 Gram stain 無法染上,需以暗視野顯微鏡檢(dark-field microscopy)或直接螢光抗體染色(Direct fluorescent antibody staining)觀察,主要由性交傳染,也可經由輸血感染;或婦女懷孕時罹患梅毒,經由胎盤而感染胎兒,造成先天性梅毒。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- a. 初期梅毒 (primary syphilis): - (a) 感染後平均潛伏 21 天(10~90 天)後會在接觸處出現無痛性潰瘍。起初為丘疹,旋即變為潰瘍,表面呈肉紅色糜爛,無壓痛感,觸摸感覺像是皮下藏了一顆鈕扣(button-like papule)(右上圖),故有硬性下疳(hard chancre)之稱。局部淋巴腺腫大隨著硬性下疳出現不久即發生,一樣無壓痛感。 - (b) 硬性下疳好發於男性陰莖上任何部位,女性則好發於 子宮頸和會陰,亦可能生於身體任何部位。縱使無治療,硬性下疳經4至6週後會自動癒合消失。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...-----------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosis, deafness and thrombocytopenia. | | | CMV | Microcephaly wi Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 先天性梅毒 (congenital syphilis) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (2) chronic hepatitis B, and (3) congenital syphilis。因題目敘述, Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

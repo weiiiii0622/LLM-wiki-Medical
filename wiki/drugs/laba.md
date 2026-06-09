@@ -28,6 +28,8 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -42,7 +44,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +72,13 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- (B) cabergoline 是長效的 dopamine-like 藥物,每週服用 2次 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】GnRH agonist 是把 GnRH 結構修正(改變的位置在第六及第十個氨基酸),使其受器結合力較內生性 GnRH 更強(50~100 倍)、半衰期更長;作用於腦下垂體 GnRH 受器,如:goserelin、leuprolin 和 buserelin,有長效(1 個月注射 1 次)和短效(每天使用),目前只有針劑(SC)和鼻噴劑型,無口服劑型。另外,研究也發現子宮內膜上有 GnRH 受器,表示 GnRH agonist 對其亦有作用,目前已有許多文獻提出,GnRH agonist 可用於 luteal phase support。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (A) 16. 治療急性輸尿管結石疼痛的藥物,下列那一種治療藥物沒有足夠 104(-)專的臨床實證支持有效? 醫五-77 - (A) 解痙劑,例如 butylscopolamine (Buscopan) - (B) 非類 固 醇 類 消 炎 藥 (non-steroid anti-inflammatory drugs, NSAIDs) - (C) α- 腎上腺素作用劑,例如 tamsulosin (Harnalidge) - (D) 鈣離子阻斷劑,例如長效型的 nifedipine (Adalat OROS) Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 3. 治療:手術為主,注意血壓控制。 - (1) 術前準備:使用藥物兩週,將血壓降至 160/90 以下。 - a. 血壓藥:常用長效 α-blockers。另外也可用 prazosin、calcium channel blockers、labetalol 來控制。後續可以用 β-blocker 治療因使用 α-blockers 導致的心搏過快或心律不整,但不應還沒使用 α-blockers 時就先用 β-blocker,因 為 β-blocker 會削弱 α-blockers 作用。 - b. Metyrosine: 一種 catecholamine 的抑制劑。 - Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - (B) 長效體抑素作用類似物(long-acting somatostatin analogues) 治療無效 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -89,8 +95,6 @@ tags:
 - (4) 長效吸入性乙二型交感神經興奮劑(Long-acting inhaled β2-agonist, LABA): 為長效型的支氣管擴張劑,作用至少 12 小時,因此適用於夜間症狀明顯及白 天常需使用 SABA 者。須配合吸入性類固醇一同使用,不可單獨使用,因為 LABA 本身無 anti-inflammation 作用,因此單獨使用反而會使氣喘急性發作及治 療失敗的風險增加。此外,文獻指出單獨使用 LABA 會增加 asthma mortality, 因此不建議單獨使用。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) 吸入型長效支氣管擴張劑 (inhaled long-acting β2 agonist ) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...102(一)專 type 1)之敘述,下列何者錯誤? 醫四-11 (A) 腎臟 1α- 羥化酶 (1α-hydroxylase) 突變所致 (B) 常於兩歲前發病 (C) 低血清 25-hydroxyvitamin D 濃度 (D) 可給予長效 calcitriol 治療 【詳解】Vitamin D-dependent rickets type 1 其 25-hydroxyvitamin D 反而是正常濃度。 (C) 5. 維生素 D 缺乏佝僂症(vitamin D deficiency rickets)的病童,下 100(二)專 列那一種檢查結果最為罕見? 醫四-15 (A) 正常血鈣值 (B) 低血磷值 (Hypophosphatemia) (C) 正常血清副甲狀腺素濃度 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 2. 生長激素治療(recombinant human growth hormone, rhGH)早從 1980 年代開始。即使到今天仍未有長效型藥物問世。目前長效型藥物仍處於臨床試驗階段。美國食品藥物管理局(FDA)列出 8 項臨床疾病核准使用 rhGH 治療: - (1) GH deficiency - (2) Turner syndrome - (3) Chronic renal failure before transplantation - (4) Idiopathic short stature - (5) Small-for-gestational-age sho Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (C) 當病人發生疼痛時給予適量短效嗎啡,待穩定後改為長效嗎啡 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 
 ## Clinical Caveats
 

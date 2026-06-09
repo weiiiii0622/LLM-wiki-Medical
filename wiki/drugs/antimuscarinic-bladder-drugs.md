@@ -7,6 +7,7 @@ sources:
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med6-book1-ch13]]"
 aliases:
   - 'Antimuscarinic bladder drugs (膀胱抗膽鹼藥)'
   - 'Antimuscarinic bladder drugs'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-抑制逼尿肌不自主收縮，用於 overactive bladder、urge incontinence 或 neurogenic overactive bladder。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制逼尿肌不自主收縮，用於 overactive bladder、urge incontinence 或 neurogenic overactive bladder。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book5-ch07]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med6-book1-ch13]]
 
 ## Key Details From Sources
 
+- ...pressure wave) (如圖一)。 | | 治療 | (1)膀胱訓練 (bladder training): 定時排尿,並慢慢增加間隔時間 | | | (2)藥物: | | | a. Antimuscarinic agents (oxybutynin, tolterodine) (副作用: 口乾、視力模糊、 | | | 心跳加速、便秘 ) | | | b. 三環抗鬱劑 TCA (imipramine),針對夜尿 ( 副作用:心律不整 ) | | | c. OnabotulinumtoxinA injection:直接注射於逼尿肌 | | | (3)電刺激 (Electrical stimulation) | | | | Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
+- (A) 抗膽鹼藥物 (anticholinergic medications) Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - ...--------| | | (detrusor sphincter dyssynergia, DSD)的病人,下列何種處置不 | 醫五-68 | | | 合適? | | | | (A) 間歇性導尿以定時排空膀胱 | | | | (B) 口服抗膽鹼藥物以降低膀胱內壓 | | | | (C) 當測得漏尿壓力為 $20 \text{ cmH}_2\text{O}$ 時,可以進行尿道外括約肌切 | | | | 開術(sphincterotomy)以保護腎臟 | | | | (D) 置放尿道支架(urethral stent)以方便排空膀胱 | | | | 【詳解】(C) 會漏更嚴重。 | | | (#) | 7. 薦髓傷害(sacral spinal cord injury)常發生的尿 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...害神經末梢為主,故糖尿 病膀胱病變屬於薦脊神經排尿中樞(sacral micturition center, S2~4) 以下的病灶。(C) 應是 overflow incontinence。 (B) 17. 對於膀胱過動症的藥物治療,口服抗膽鹼藥物(anticholinergic 99(一)專 agent) 是常用的治療選擇,然而,下列何種情形是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (det Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ii. 副交感神經抑制劑: Propiverine (Urotrol®)、Solifenacin (Vesicare®),可緩解膀胱不正常運動如膀胱過動症,進而減少排尿。機轉是放鬆膀胱逼尿肌。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].

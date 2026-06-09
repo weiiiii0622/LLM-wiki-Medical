@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch10]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Ventilation-perfusion matching, V/Q (通氣灌流匹配)'
   - 'Ventilation-perfusion matching, V/Q'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,13 @@ tags:
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch10]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...能會進展為左心室衰竭及肺動脈高壓,當肺動脈阻力(pulmonary vascular resistance)大於系統性血管阻力(systemic vascular resistance),會造成右側到左側的分流(right to left shunt),即 Eisenmenger 症候群,此時母親的死亡率會高達 30~50% - (D) 沒有修補的心室中膈缺損會有感染性心內膜炎(infective endocariditis)的風險,在懷疑有菌血症時,建議給預防性抗生素 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- 1. 簡介:口服避孕藥包括 combined estrogen-progestin oral contraceptives 和 progestin-only pills,兩者避孕效果相當,在正確使用下,僅不到 1% 的失敗率。目前的趨勢是減少 estrogen 的劑量及新型 progestin 的使用。 - (1) 口服避孕藥使用的 estrogen 為 ethinyl estradiol (效力比單獨 estradiol 高),過去使用高劑量 (>50~mcg),研究發現明顯增加心血管疾病和靜脈栓塞的風險。目前趨勢是低劑量使用 (2 下降,但 PaCO2 正常或下降)、V/Q scan mismatches、腿部 都普勒超音波和 CT pulmonary angiography。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...診斷:理學檢查即可診斷,另可搭配彩色都卜勒超音波確認。不用實驗 室檢查。 - (d) 治療: - i. 初步保守治療:冷水澡、射精、運動,但這些尚無研究依據。 - ii. 一線 ( 1hr 無效、或> 72hr): 依其成因可做動靜脈瘻管(shunt,可成功緩解,但之後無法勃起),或動靜脈瘻管栓塞(transarterial embolization)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 3. 機轉:一條或數條肺動脈不經肺微血管直接和肺靜脈相接,形成 right-to-left shunt,且 1/3 病人同時合併有遺傳性出血性血管擴張症 (hereditary hemorrhagic telangiectasia, Osler-Weber-Rendu syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 缺氧(Hypoxia):氣道阻塞、胸內壓力改變、通氣灌流失調(ventilation-perfusion mismatches) 和低血容。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
@@ -83,8 +89,6 @@ tags:
 - 2. 腦室腹腔分流(ventriculoperitoneal shunt)。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 3. 腦室心房分流(ventriculo-atrial shunt)。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 【詳解】NPH 的三個典型症狀中,尿失禁和步態不穩在做 VP shunt 以後可以明顯獲得症狀改善,失智方面由於牽涉到組織病理變化 (neurodegenerative),其症狀改善相較於另外兩者較不顯著。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
-- 4. 診斷:血中 d-dimer 可幫助排除(high sensitivity, low specificity),確診須靠 contrast-CT、血管攝影、V/Q scan。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (3) Hunt and Hess Grade 4~5 的水腦症病患需接受 ventriculostomy 作造口引流 CSF 或是 shunt。80% 的病患有機會可獲得改善。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 
 ## Clinical Caveats
 

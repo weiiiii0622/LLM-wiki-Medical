@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book4-ch13]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Strangulated bowel obstruction (絞扼性腸阻塞)'
   - 'Strangulated bowel obstruction'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-腸阻塞合併血流受阻會導致缺血、壞死與穿孔，是需緊急處置的外科急症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腸阻塞合併血流受阻會導致缺血、壞死與穿孔，是需緊急處置的外科急症。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book4-ch13]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | 症 狀 | • 最常見的症狀為腹痛和陰道出血,不過,有一半的病人在破裂前未 | | |-----|-----------------------------------------------------------|--| | | 出現任何症狀 | | | | • 若破裂造成持續內出血,可能出現頭暈、失去意識等症狀 | | | 徴 象 | ・陰道內診可能會出現 pelvic tenderness、cervical motion tenderness 和 | | | | adnexal mass 等表現 | | | | · 若破裂造成持續內出血,可能出現 peritoneal sign 和 shock sign | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (1) 腹股溝疝氣 - a. 腹股溝突出:腹股溝外環有突出物並下降至陰囊或大陰唇,通常由小兒科醫 生體檢或父母觀察發現。 - b. 腹股溝疼痛:須考慮箝頓(incarceration)和纏絞(strangulation)發生造成很嚴重的後果,早產兒較常有疝氣,但卡住機率反而較低。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
 - (2) 若出現 rebounding pain 或 muscle guarding,則可能已進展至絞扼性腸阻塞 (strangulation)。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
 - (C) 若出現腹部疼痛或 peritoneal sign,則表示有腸壞死的可能性 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].

@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Opportunistic infection (伺機性感染)'
   - 'Opportunistic infection'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,12 @@ tags:
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- 8. 人類後天免疫不全病毒(HIV): - (1) 傳染方式:透過性交、使用感染針具、注射或移植受感染的血品或器官,以及母子垂直傳染; Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (5) 動脈幹的嬰兒常合併有 Di-George 症候群(胸腺發育不全,致使 T 淋巴球免疫不全),預後不佳。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - ...immune response,傳遞「我被感染了」的訊號。 - (2) 第二類(Class II):包含 HLA-DP, DR, DQ, 只存在於抗原呈獻細胞的細胞膜表面(巨噬細胞、B細胞、T細胞以及所有構成胸腺內部的細胞),將抗原呈現給CD4+輔助型T細胞(Th1和Th2),分泌 cytokine,活化B細胞、毒殺型T細胞、巨噬細胞和其他免疫細胞,傳遞「我周遭有人被攻擊了」的訊號 - a. Th1 分泌 IL-2 活化毒殺型 T 細胞,以及分泌 IFN-γ 活化巨噬細胞。 - b. Th2 分泌 IL-4 活化 B 細胞。 - (3) 第三類 (Class III):主要作為補體的元件 (components),與 T cell 的辨識無關。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -85,8 +89,6 @@ tags:
 - ...種為 X-linked, 其餘 11 種為自體隱性遺傳(例如 ADA deficiency…)。皆會造成淋巴球無法 正常發育,而同時產生體液性及細胞性免疫缺陷。 - b. 臨床症狀:出生後數個月內就產生反覆的感染(肺炎,中耳炎,菌血症…)或伺機性感染(病毒,Candida,PCP…),生長發育不良,慢性腹瀉。抽血會淋巴球(尤其 T 細胞)低,免疫球蛋白低。若沒有骨髓移植則大多一歲前死亡,為急症! - c. 治療:骨髓移植。ADA(adenosine deaminase)-deficient SCID 可以注射 polyethylene glycol conjugated adenosine deaminase(PEG-ADA)治療。另外, ADA-deficient SCID 目前 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...分,母親說,孩童打完卡介苗後其注射位置直到目前尚無法癒合。男童自從 2 個月大開始,便有反覆性腹瀉、肺炎,一般 CBC/DC 檢查,一直都是lymphopenia 980/mm³,lymphocyte subsets 顯示 CD3+ 2%、CD4+ 1%、CD8+ 1%、CD19+ 85%、CD16+ CD56+(NK cell) 5%;immunoglobulin(Ig)level 顯 示 IgG 86 mg/dL、IgA 5 mg/dL、IgM undetectable、IgE 2週(通常≥39℃)。常合併鮭魚色 (salmon-colored)的暫時性紅疹。 - (2) 新的 ILAR classification for juvenile idiopathic arth Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (5) 治療: - a. 在成人或免疫不全的病人身上,建議使用 acyclovir 治療,一般健康兒童感染 水痘則不須常規給 acyclovir。 - b. 不建議使用 aspirin 治療,容易產生 Reye syndrome。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】免疫不全患者應避免活菌疫苗的接種。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (A) 免疫不全的病童比一般兒童更容易發生菌血症 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

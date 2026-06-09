@@ -24,6 +24,8 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Cytomegalovirus infection, CMV (巨細胞病毒感染)'
   - 'Cytomegalovirus infection, CMV'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,13 @@ tags:
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...------------|--------------------------------------------------| | 胎兒 | • 基因突變和染色體異常 | | 4444 | • 先天結構異常 | | | ・ 胎兒感染:如 CMV、toxoplasmosis 等 | | 胎盤 | · 胎盤結構或臍帶異常:如 circumvallate placenta、velamentous | | | umbilical cord insertion 等 | | | · 胎盤染色體異常,一般稱 confined placental mosaicism | | 母親 | • 罹患影響胎盤血流的疾病:如子癲前症、高血壓、糖尿病、 | | \$ 25 c. 41 | 自體免疫疾病 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...mune ovarian failure | | | 代謝性疾病 | Galactosemia | | | 醫源性 | 卵巢手術、化療 (特別是 alkylating agents)、放射線治療 | | | 病毒感染 | Mumps or cytomegalovirus infection | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (D) 巨細胞病毒肺炎 (cytomegalovirus pneumonia) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
@@ -81,8 +87,6 @@ tags:
 - (B) 1. 關於新生兒感染巨細胞病毒(Cytomegalovirus)的敘述,下列何者錯誤? Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 3. 確切的原因仍不明,但有懷疑某些病毒感染造成,如 reovirus、CMV、HPV、 rotavirus C。此疾病的病程為一漸進性的發炎反應,造成膽道的纖維化及膽汁鬱積, 最終造成肝硬化。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) cytomegalovirus colitis Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (B) 巨細胞病毒(cytomegalovirus) 感染 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【詳解】出生後三個月內若發生 nephrotic syndrome,則診斷為 先天性腎病症候群(congenital nephrotic syndrome)。其中最 常見的是 Finnish type congenital nephrotic syndrome(位在第 19 對染色體上的 NPHS1 gene 發生突變,影響 nephrin 製造), 類固醇或是免疫抑制劑治療無效,病人約在 5 歲左右死亡。此 外,syphilis、toxoplasmosis、rubella、cytomegalovirus、HIV、 hepatitis B 感染都有可能造成先天性腎病症候群。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

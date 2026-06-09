@@ -63,6 +63,17 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch18]]"
 aliases:
   - 'IgA vasculitis / Henoch-Schonlein purpura (IgA 血管炎)'
   - 'IgA vasculitis / Henoch-Schonlein purpura'
@@ -77,7 +88,7 @@ tags:
 
 ## Summary
 
-IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與腎炎。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -140,9 +151,30 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch16]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch17]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch18]]
 
 ## Key Details From Sources
 
+- | 問診內容 | ・ 本胎不適症狀 (如出血、腹痛、頭痛、痙攣等) | |-------|-----------------------------| | 身體檢查 | • 體重、血壓、宮底高度、胎心音、胎位、水腫、靜脈曲張 | | 實驗室檢查 | ・尿蛋白、尿糖 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 伴隨腹痛,甚至背痛(通常發生於子宮後壁的胎盤剝離) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (A) 2. 27 歲初產婦,懷孕 35 週,至產房就診,主訴陰道出血與腹痛, 106(二)專血壓 96/58 mmHg,無尿蛋白反應,腹部超音波無特殊發現,因 醫六-41 胎心監視器(tococardiography)呈現延遲性胎心減速(late deceleration)現象,緊急施予剖腹生產,手術中發現,子宮表面呈藍色變化(Couvelaire uterus),同時合併子宮收縮不良及產 - (A) 胎盤剝離 (placental abruption) - (B) 植入性胎盤 (placenta accreta) - (C) 子宮破裂 (uterine rupture) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 早期上皮性卵巢癌通常無明顯症狀或出現一些非特異性症狀(如腹脹、腹痛、食慾不振和頻尿等),不容易早期發現。因此,一旦診斷,75%的患者已達晚期(Stage III or IV)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (C) 3.21 歲女性因為左下腹痛求診,內診發現左側卵巢腫大,超音波檢查顯示左側卵巢實質腫瘤,而內含物似乎是骨頭及牙齒。這類腫瘤約有多少百分比是雙側性? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】年輕女性罹患卵巢腫瘤,以下腹痛表現,腫瘤內含物為骨頭及牙齒,最可能診斷為卵巢生殖細胞腫瘤,其雙側機率約10~15%。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 症 狀 | 下腹痛、陰道分泌物、異常陰道出血、發燒、泌尿道症狀 | |-----|------------------------------------------------------| | 內 診 | ・膿樣分泌物、cervical motion tenderness、adnexal tenderness | | 實驗室 | • 白血球數量增加、發炎指數上升 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (5) 診斷:根據 CDC clinical criteria,有下腹痛伴隨 cervical motion tenderness 或 adnexal tenderness 即可高度懷疑 PID 並給予適當的治療。若出現下列情形,更 支持此診斷的正確性 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (6) 住院條件: PID 患者 70~90% 可門診治療,須住院者僅 10~30%,條件包括 - · 口服藥有問題 (如無效、嘔吐無法服用、遵醫囑性差) - · 臨床上嚴重病狀 (如高燒、嚴重下腹痛、嚴重嘔吐) - 無法確診,須進一步手術處置或剖腹探查 - · 形成骨盆膿瘍 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ◆ 生理性:乳房脹痛、頭頸背痛、腹痛、腹脹、疲倦、心悸、 體重增加等 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (C) 3.33 歲男性因陣發性腹痛而求醫,患者體溫正常、生命徵象穩定, 109(-)專 患者接受對比劑注射前(pre-contrast)的電腦斷層掃描檢查如圖, 醫五-73 下列診斷何者最恰當? Source: [[sources/med5-book5-ch05|戊、結 石]].
 - | (D) 22. 一位 40 歲男性有尿路結石病史,再次因腹痛至急診室,下列敘 述何者錯誤? | 102(一)專醫五-76 | |--------------------------------------------------|------------------| | (A) 結石所引起的腎絞痛起初可由腰腹部開始,後擴散到腹股溝 | | | 及睪丸 | | | (B) 中段輸尿管結石的腎絞痛常會痛得令病患無法靜止下來 | | | (C) 輸尿管結石接近膀胱時,常會有頻尿及尿急迫感的感覺 | Source: [[sources/med5-book5-ch05|戊、結 石]].
 - d. 臨床表徵: - (a) 症狀:常見包括發燒、畏寒、腹痛、解尿疼痛,且症狀可持續2週以上。 有些病人可觸診摸到腎膿瘍。 - (b) 實驗室檢查:尿中有 WBC,但 25% 病患尿液常規檢查是正常的。尿液培養僅 35% 可找得到致病菌;血液培養僅 50% 可找得到致病菌。 - (c) 影像:超音波或 CT。IVU 本身不易診斷腎膿瘍(20% 患者仍看似正常)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -151,16 +183,6 @@ IgA 免疫複合物血管炎，常見 palpable purpura、腹痛、關節痛與�
 - (4) 其他腸胃道症狀:多數患者會合併呼吸道症狀表現,如:腹痛、打嗝(belching)、 脹氣(bloating)、吸入性嗆咳(aspiration)、噎或喉嚨緊縮(globus)。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - e. 質子幫浦抑制劑(proton pump inhibitors):藉由不可逆地結合在壁細胞上質子幫浦抑制胃酸產生,最大效果在治療後第4天,而藥效持續直到壁細胞凋亡,所以藥效在停藥後仍可持續4~5天,所以使用PPI患者需停藥一週後再做pH monitoring檢查。且比起 H2 blocker 更有效幫助食道潰瘍癒合。副作用為頭痛、腹痛、腹瀉。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (1) 通症狀以腸扭結相關症狀、十二指腸阻塞、間歇或慢性腹痛為表現。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 4. 臨床表現:右上腹腫塊、腹痛、黃疸為典型三合症(classic triad),但同時發生者 約佔不到 20%,大多合併其中兩者佔約 85%。小於一歲,一般以阻塞性黃疸和腹部 腫塊表現;大於一歲者,以腹痛、噁心、嘔吐、發燒及黃疸表現。常見併發症包含 膽管炎胰臟炎和續發性囊腫破裂造成膽汁性腹膜炎。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- (C) 2. 兒童總膽管囊腫(choledochal cyst)的症狀,下列何者最少見? 101(一)專 - (A) 腹痛 (abdominal pain ) (B) 黃疸 (jaundice) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- 2. 臨床症狀:腹痛、吐血、瀝青便、黑便、糞便潛血反應。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (B) 14. 45 歲女性過去無開刀病史,最近一個月出現反覆性上腹痛,半夜突然發生上腹部劇痛,而至急診室就診,理學檢查有腹膜炎徵象(peritoneal sign),WBC count 為 12,000/mm³,胸部 X 光如附圖,下列敘述何者錯誤? Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- | (A) 15.75 歲男性病人腹痛兩天至急診,體溫 38.5℃、血壓 80/60 mmHg | 100(一)專 | |--------------------------------------------------------------------|---------| | 脈搏 120/min,理學檢查發現上腹壓痛及僵硬有反彈痛 (rebound | 醫五 -31 | | pain)懷疑有消化性潰瘍並穿孔,此時最適宜之 X 光檢查為: | | | (A) 胸部 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (c) 此外,當腸胃道蠕動變差,病人會出現Roux stasis syndrome 如腹痛和嘔吐。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- ...): 可視為腸胃道症狀加上心血管症狀。 - (a) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- b. 症狀如常見的腸阻塞,如: - (a) 含膽汁的嘔吐物。 - (b) 腹痛。 - (c) 噁心嘔吐。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (1) Location:上腹痛或右上腹痛,有時會轉移至肩胛骨。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 
 ## Clinical Caveats
 

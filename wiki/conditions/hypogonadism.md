@@ -11,6 +11,9 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Hypogonadism (性腺功能低下)'
   - 'Hypogonadism'
@@ -25,7 +28,7 @@ tags:
 
 ## Summary
 
-性腺荷爾蒙不足可源自原發性性腺或中樞病變。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+性腺荷爾蒙不足可源自原發性性腺或中樞病變。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +39,21 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- ...| 下視丘-腦垂體-卵巢 (HPO | axis) 異常 | | 下視丘異常 | 生理性延遲 | | (Hypothalamic | Congenital GnRH deficiency (Kallmann's syndrome) | | hypogonadism) | Functional hypothalamic amenorrhea (厭食症、過度運 | | | 動、體重過輕或壓力引發等) | | | 中樞神經腫瘤 (如 craniopharyngioma) | | | 腦部受傷或接受放射線 | | 腦垂體異常 | 高泌乳素血症 (hyperprolactinemia) | | (Hypogonadotropic | 中樞神經腫瘤 (如 Pituitary prolactinoma) | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...-------------------|-----| | 原發性無月經 | 原發性卵巢功能不全成因中的 gonadal dysgenesis,如 | | | | Turner's syndrome | | | | Hypothalamic hypogonadism | 20% | | | Müllerian agenesis, 如 Rokitansky syndrome | 15% | | | Urogenital sinus 發育異常 | 5% | | | 腦垂體異常 | 5% | | 次發性無月經 | 卵巢異常 | 40% | | | 下視丘異常 | 35% | | | 腦垂體異常 | 19% | | | 子宮內膜異常 | 5% | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (A) 血中 FSH 及 E2 可見 hypogonadotropic hypogonadism Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】(A) 帶因者夫妻每一胎有 1/4 的機率生下乙型地中海型 貧血重症(β thalassemia major)的胎兒,出生後會生長遲緩、 骨頭畸型、肝脾腫大、黃膽和性腺功能低下等,(C)需靠骨髓幹 細胞移植治療,否則常需仰賴終生輸血、打排鐵劑,通常活不 過 20 歲,而(B)胎兒水腫為甲型地中海型貧血重症(4個基因 座皆缺失),會造成死產。(D)可在妊娠10~13 週行胎兒絨毛膜 穿刺術取樣做基因檢測。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...並不會對胎兒產生影響 | | | ・ 出生後因 $\beta$ 球蛋白無法產生,被 $\gamma$ 球蛋白取代,故新生兒的血紅 | | | 素由 α 和 γ 組成的 HbF 居多 | | 症狀 | • 生長遲緩、骨頭畸型、肝脾腫大、黃膽、性腺功能低下 | | | • 心臟衰竭、心律不整、慢性疼痛 | | 治療 | • 若未治療,五年內死亡率高達八成 | | | • 治癒須要骨髓移植,否則須終生輸血、打排鐵劑 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】(A) 帶因者夫妻每一胎有 1/4 的機率生下乙型地中海型 貧血重症 (β thalassemia major) 的胎兒,出生後會生長遲緩、 骨頭畸型、肝脾腫大、黃膽和性腺功能低下等,(C) 需靠骨髓幹細胞移植治療,否則常需仰賴終生輸血、打排鐵劑,通常活不過 20 歲,而 (B) 胎兒水腫為甲型地中海型貧血重症 (4 個基因座皆缺失),會造成死產。(D) 可在妊娠 10~13 週行胎兒絨毛膜穿刺術取樣做基因檢測。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...---------------------|--------| | Hypothalamic-pituitary disorders | 先天性:Kallmann syndrome | 1~2% | | (Hypogonadotropic hypogonadism) | 後天性:腫瘤、受傷、手術、電療、 | | | (Secondary hypogonadism) | 藥物、高泌乳素等 | | | Primary testicular disorders | 先天性:Klinefelter's syndrome | 30~40% | | (Hypergonadotropic hypogonadism) | (XXY) · Y chromosome deletions | | | (Primary Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- | 成因 | 處 置 | | |---------------------------|----------------------------------------|--| | Primary hypogonadism | • TESE + ICSI | | | (Klinefelter's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (C) Kallmann syndrome 為 hypogonadotropic hypogonadism, 會造成原發性無月經及不孕,常伴隨嗅覺異常; Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ...| | (A) 抽菸 (B) 糖尿病 | | | | | (C) 高血壓 (D) 心因性 (psychogenic ) 勃起功能障礙 | | | | | 【詳解】(D) 心因性不影響血管。 | | | (C) | 10 | 下列有關遲發型性腺功能低下症(late onset hypogonadism)的敘 | 102(二)專 | | (C) | 10. | | B五-68 | | | | 述,何者正確? | 西五 -00 | | | | (A) 睪固酮於晚上 8 至 10 點分泌達最高峰 | | | | | (B) 睪固酮由睪丸內曲細精管內皮細胞分泌 | | | | | (C) 有臨床症狀時才須治療 | | | | | (D) 前列腺增生(BPH) 病人可以補充睪固酮 | | | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (C) 25. 廖先生是一位 30 歲的國中老師,因結婚兩年來仍未有小孩而到 泌尿科門診,這兩年來他們每週有一至兩次性行為,且未採取 避孕措施,但廖太太從未懷孕過。理學檢查時發現廖先生兩側 輸精管及睪丸大小正常,精液檢查發現精液量為三毫升,但未 發現任何精蟲,血中濾泡刺激激素(FSH)正常,其可能的診斷為: - (A) 性腺激素不足導致性腺功能不足(hypogonadotropic hypogonadism) - (B) Klinefelter's 症候群 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - c. Hypogonadism:無月經、不孕、無性慾。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -48,10 +63,6 @@ tags:
 - 【詳解】Prader-Willi syndrome 為父源性(paternal)染色體 15q11-q13 缺失造成(母源性染色體 15q11-q13 缺失則為 Angelman syndrome)。Prader-Willi syndrome 臨床特點為出生時會有嚴重的肌張力低下與餵食困難、嬰兒時期出現食量特大(voracious appetite)與肥胖、四肢較小、性腺功能低下以及智 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...- b. 庫欣氏(Cushing's)症候群:多因類固醇使用引起,因類固醇直接作用在造骨細胞和前驅造骨細胞之演變,進而使骨骼重塑過程製造減少,吸收增加,促骨質快速流失,尤其是海綿骨流失的比例比緻密骨大,致使脊椎骨折之危險性增加。 - c. 性腺功能低下症:早發性停經、性腺發育不全等會引起異常之鈣代謝,故骨質流失且骨質密度減少。 - d. 甲狀腺機能亢進症:常造成骨骼周轉率增加,骨質加速流失。 - e. 藥物: (Harrison 348-3) - (a) 類固醇(Glucocorticoids)是最常見導致骨鬆的藥物,若是移植病患併用免疫抑制劑(Cyclosporine)使得骨質流失更嚴重。 - (b) 抗癲癇藥 (Anticonvulsants)、鋰鹽 (Lithium)、Cyto Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - (A) hyperthyroidism - (B) Cushing's syndrome - (C) hypogonadism - (D) hyperaldosteronism Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- #### 2. 性低能症 (Hypogonadism): Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
-- 【詳解】依題目給的狀況可知,病人有生育能力,以前狀況 ok,是 近期性能力越來越差,抽血表現為 Hypogonadotropic hypogonadism Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
-- (B) 睪丸小而硬是 Klinefelter syndrome 的表現(為 HYPERgonadotropic hypogonadism),直接排除 Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
-- ...---------------------|---------------------------|--------|------------------------|------------------| | 乳促素細胞瘤 | 性低能 (Hypogonadism) | 50% | Prolactin>100 ng/ml | 先用 Bromocriptine | | (Lactotrope = PRL) | 乳漏 (Galactorrhea) | 最多* | Profactin/100 fig/fili | →藥物失敗再手術 | | 生長激素細胞瘤 | 肢端肥大症 (Acromegaly) | 10% | 篩檢:IGF-1 ↑ | 先手術→放射、 | | (Somatotrope = GH) | Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 

@@ -2,13 +2,15 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch16]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Verruca / warts (疣)'
   - 'Verruca / warts'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,17 @@ HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、�
 - [[sources/med4-book2-ch07]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch16]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- ### 7. 生殖器疣 (genital warts): Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (1) 人類乳突狀病毒(特別是 HPV 6 和 11) 感染的常見性傳染疾病,高度傳染性(> 75% 接觸後感染); Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- a. Acetowhite epithelium 可見於: - · Congenital transformation zone 或不成熟的鱗狀上皮化生 - 發炎、癒合或再生中的表皮 - HPV 感染、CIN、adneocarcinoma 或 squamous cell carcinoma Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- H. 人類乳突病毒與子宮頸疫苗(Human papillomavirus and HPV vaccine) *211* Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】初期(stage I 和 II)子宮平滑肌肉瘤的淋巴轉移機率很 低(預防第6及11型 | ・ 預防第 6 及 11 型 | | | | HPV所引起的生 | HPV 所引起的生 | | | | 殖器疣(尖形濕 | 殖器疣(尖形濕 | | | | 疣) | 疣)。 | | | 其他好處 | | | 交叉保護 HPV 33, | | | | | 41,45和51 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- b. HPV 疫苗是「預防性」疫苗,對於施打前就存在的 HPV 感染或子宮頸癌前病變,施打疫苗並沒有治療的效果。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (2) 肛門癌症約佔大腸直腸癌症的 1~2%, 男女比例約 2:1, 好發年齡在 50~80 歲之間。致病原因包含 HPV type 16、18, 致癌基因 oncogene (c-myc, P53, Rb-1), 局部慢性肛門疾病或克隆氏症 (Crohn's disease)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 2. 惡性腫瘤:長期 immunosuppression 易增加罹癌機率,總體罹癌機率上升 10 倍。 因長時間服用免疫抑制劑,其免疫力被減弱,常見和病毒感染引起的特定腫瘤的發生有關,例如 HPV 和子宮頸癌、HBV/HCV 和肝癌、HHV-8 和 Kaposi's sarcoma、 EBV 和 lymphoma(又稱作 post-transplant lymphoproliferative disorders, PTLD)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - # 6. 疣(Verruca、warts): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

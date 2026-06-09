@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Bisphosphonates (雙磷酸鹽類)'
   - 'Bisphosphonates'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,13 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book6-ch09]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服雙磷酸鹽的副作用或無法配合口服需求時使用。 | | | Selective estrogenreceptor modulator(SERM) | Raloxifene | ●不應使用於更年期前女性。●可做為預防骨質疏鬆的第一線用藥。(治療為第二線)●可減少乳癌風險,但是會增加熱潮紅與靜脈栓塞風險。 | | | RANKL inhibitor | Denosumab | ●皮下注射(一年兩次),可抑制RANKL(蝕骨作用的蛋白質)。●要注意低血 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | 藥物選擇 | | 使用説明 | |-------|--------------------|---------------------------------------| | 第一線用藥 | Bisphosphonates | ●建議先使用口服藥物,若 BMD 持續降低 | | | (註) | ( ≧ 5%),可改成 IV。 | | | | ●停用:口服五年或 IV 三年後,若 BMD 穩定、 | | | | 之前無脊椎骨折,而且低骨折風險。 | | | | ●續用:連續兩次追蹤 BMD 都下降。 | | 第二線用藥 | Raloxifene (SERM) | T-score ≦ -2.5,但無 fragility fracture。 | | | St Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ※ 註:無法耐受口服雙磷酸鹽的副作用或無法配合在口服後維持 30~60 分鐘的直立坐 姿時,可改用其他藥物。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...ceptor modulator, SERM)、 選擇性組織動情素活性調節劑(selective tissue estrogenic activity regulator, STEA)。 - (c) 賀爾蒙補充療法(HRT)。 - (d) 雙磷酸鹽類(biphophonate):常做為第一線藥物。 - (e) 維生素 D、鈣。 - (f) 抑鈣素 (calcitonin)。 - (g) 細胞核 kB 受體活化因子配體抑制劑(RANKL inhibitor)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (C) 3. 有關以雙磷酸鹽藥物治療骨質疏鬆症之敘述,下列何者錯誤? Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 5. 治療: - (1) 保守治療:NSAID, electric stimulation, bisphosphonate, shockwave (under investigation)。 - (2) 外科治療: - a. Before collapse (FICAT I & II) core decompression, grafting procedures (補骨頭)。 - b. After collapse: 做人工關節。 - (a) FICAT III:hemiarthroplasty(當還沒影響到 acetabular 時可以考慮)。 - (b) FICAT IV: total hip arthroplasty (已影響到 acetabular,則須使用全人工關節)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
@@ -58,8 +63,6 @@ tags:
 - | (B) | 1. 高血鈣急症的治療原則下列那一項最不適當? (A) 立即補充生理食鹽水 (B) 使用 thiazide 類利尿劑 (C) 惡性腫瘤引發高血鈣可以考慮給予雙磷酸鹽(bisphosphonates) (D) 維生素 D 造成的高血鈣症可以考慮使用類固醇治療 【詳解】Thiazide 可能會加重高血鈣。 | 107(二)專醫三-10 | |-----|----------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...因,限鈣飲食會有幫助。 - (b) 若是肺、頭頸部的 squamous cell carcinoma, 會分泌 PTHrP,溶解骨頭造成高血鈣;或乳癌骨轉移、白血病在骨髓腔內侵蝕骨頭都會造成高血鈣,反而會抑制正常的 PTH;根據病因,給予 Bisphosphonate 抑制破骨細胞會有幫助。 - (c) 甲狀腺亢進、臥床(Immobilization)導致骨頭 turnover 快,造成骨質流失、 高血鈣。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - c. 維持治療→ Bisphosphonate: 抑制蝕骨細胞,但要 1~2 天血鈣才會慢慢恢復,效果較能持續。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- (B) 給予靜脈注射 bisphosphonate Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- ...】PPI於服用後2~6小時會達到最大效果,故建議飯前服用(如 早餐前);約治療一週後可達> 95% 效果。[Ref. Harrison Ch 293] ● 須於空腹(飯前一小時)服用的藥物 ■ 確保療效:包含胃藥、quinolones 及 alendronate (fosamax) 以達到較佳的吸收。 ■ 降血糖藥物刺激胰島素分泌亦須於飯前服用。 隨餐、飯後兩小時內服用的藥物 ■ 確保療效: Fenofibrate、valganciclovir 建議隨餐服用,與食 物併用可加強吸收。而吸收較佳。 ■ 減少副作用: Metformin、NSAID等。 (A) 7. 除 Barrett's esophagus 外,食道癌病理絕大部分為: 100(二)專 (A) 鱗狀上皮癌 (Squamous ce Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

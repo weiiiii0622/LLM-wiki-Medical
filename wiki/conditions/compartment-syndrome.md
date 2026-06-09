@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book6-ch02]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch05]]"
+  - "[[sources/med6-book1-ch03]]"
 aliases:
   - 'Compartment syndrome (腔室症候群)'
   - 'Compartment syndrome'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-筋膜室壓力上升造成肌肉神經缺血，疼痛超出預期與被動伸展痛是重要警訊，治療為緊急 fasciotomy。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+筋膜室壓力上升造成肌肉神經缺血，疼痛超出預期與被動伸展痛是重要警訊，治療為緊急 fasciotomy。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book6-ch02]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch05]]
+- [[sources/med6-book1-ch03]]
 
 ## Key Details From Sources
 
+- ...Venous thrombosis or embolism | | Acute respiratory distress syndrome | Anesthesia-related complications | | Abdominal compartment syndrome | Death | | Unplanned hysterectomy | Asherman's syndrome (related to D&C) | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - D. 腔室症候群 (Compartment syndrome) 174 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - #### D. 腔室症候群 (Compartment syndrome) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (1) 移除造成腔室症候群的外因(例如移除過緊的石膏、修補受損的血管等等)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].

@@ -16,6 +16,9 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Antiphospholipid syndrome, APS (抗磷脂質抗體症候群)'
   - 'Antiphospholipid syndrome, APS'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-以動靜脈血栓或妊娠 morbidity 合併 antiphospholipid antibodies 為核心。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以動靜脈血栓或妊娠 morbidity 合併 antiphospholipid antibodies 為核心。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,18 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...音波・子宮輸卵管攝影・子宮鏡・腹腔鏡・核磁共振 | 可手術矯正或切除的問題,行手術處理 子宮頸閉鎖不全可行子宮頸環紮術和黃體素治療 慢性子宮內膜炎可給予抗生素治療 若無法手術修復,只能考慮代理孕母或領養 | | 免疫因素(25%) | · Antiphospholipid syndrome | · Anticardiolipinantibodies(IgG 和 IgM)· Lupus anticoagulant | · Aspirin + heparin | | 內分泌因素(20%) | ·糖尿病控制不佳·多囊性卵巢症候群·甲狀腺疾病(亢進、低下、自體抗體)·高泌乳素血症·黃體機能缺陷 | ・糖尿病和多囊性卵巢症候群篩檢・甲狀腺功能和抗體・血中泌乳素 | · 控制甲狀腺功能和糖尿病 · 多囊性卵巢症候群 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (A) 3. 30 歲 G3P0A3 的女性,因為三次小於 10 週的習慣性流產,和丈夫一同前來求診。她之前做過唯一一次的檢查是自體抗體:lupus anticoagulant 陰性,anti-β2-glycoprotein 1 Ab 陰性,anticaridiolipin IgG high positive。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (A) 告知太太有抗磷脂質症候群(antiphospholipid syndrome), 應立即開始服用 aspirin Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...等 | | | · 胎盤染色體異常,一般稱 confined placental mosaicism | | 母親 | • 罹患影響胎盤血流的疾病:如子癲前症、高血壓、糖尿病、 | | \$ 25 c. 41 | 自體免疫疾病 (SLE, APS) 等 | | | • 營養不良 | | | • 慢性缺氧 | | | · 抽菸、酗酒、藥物濫用、咖啡因過量、放射線曝露 | | | • 先天性子宮結構異常: 如雙角子宮 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...1/14 | |-------------------------------------|-----------------------------------------------------| | 母親因素 | 懷孕併發症 | | 抗磷脂質症候群 (Antiphospholipid syndrome) | 子癲前症 | | 甲狀腺功能亢進 | 胎動減少 | | 血紅素異常疾病(如:地中海貧血) | 羊水過少 | | 紅斑性狼瘡 | 羊水過多 | | 發紺性心臟病 (cyanotic heart disease) | 胎兒生長遲緩 (fetal growth | | | restriction) | | 慢性腎病 | 過期懷孕 (post-term pregnancy) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...the control of the control of the control of the control of the contro | • 糖尿病或妊娠糖尿病、慢性高血壓、慢性腎病、自體免疫性疾 | | | | 病(如紅斑性狼瘡和抗磷脂質症候群)和血管性疾病 | | | 胎兒因子 | ・多胞胎 | | | | ・本胎胎兒水腫 (hydrops fetalis) | | | 胎盤因子 | • 前胎胎死腹中或胎兒生長遲滯 | | | | • 前胎胎盤剝離 | | | 其他因子 | · 人工生殖技術(冷凍胚胎解凍植入療程) | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 5. 檢查: antithrombin III、protein C、protein S、Factor V Leiden mutation、Hyperhomocystinemia、Lupus anticoagulant。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 1. 原因:Virchow's triad - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、antithrombin III deficiency、antiphospholipid syndrome 等。 - (3) Endothemium injury: 靜脈內皮細胞受損,例如手術( 髖關節或膝關節手術)、 外傷、之前有過 DVT。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - ...| | | 【詳解】 | (C) 全層皮層缺損。 | | | | (D) 12. 與顯微組 | 織皮瓣(microvascu | ular free flaps)比較之下,局部皮類 | 瓣 105(二)專 | | (local fl | aps)有下列限制,何 | 可者錯誤? | 醫五-22 | | (A) 局部 | 皮瓣(local flaps)的 | 內覆蓋範圍是受限制的 | | | (B) 局部 | 皮瓣(local flaps)的 | 的遠端之血液循環可能不好 | | | (C) 在外( | 易的情況下局部皮瓣 | (local flaps)可能受傷,不一定可能 | 靠 | | (D) 老人的 | 内局部皮瓣(local fla | ps)與年輕病患的局部皮瓣一樣可認 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
@@ -61,12 +73,6 @@ tags:
 - (#) 1.40 歲李女士約3年前診斷為全身性紅斑狼瘡(systemic lupus erythematosus),除發病時曾有關節腫痛與皮膚紅斑外,近2年病情尚稱穩定。李女士過去驗血就知道血中的抗心脂抗體(anticardiolipin antibodies)很高,為正常上限值的3倍,但過去並不曾發生血管栓塞。本次因左腿急性腫痛至急診室求診,影像學檢查見左腿有深部靜脈栓塞(deep vein thrombosis)。下列處置何者最為適當? - (A) 加上 aspirin,每日 100 毫克 - (B)加上口服 warfarin,希望目標 international normalized ratio (INR) 2.0~2.5 - (C) 應立即用高劑量類固醇治療 - Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - 5. 心肺:常見肋膜炎(Pleuritis)、心包膜炎(Pericarditis)、Libman-Sacks endocarditis(與疾病罹病時間、活性、APS 相關,最常見於 MV)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - \*Anti-phospholipid Ab 的測法有三種,用 ELISA 測是否有對抗 Cardiolipin、β2GP1 的抗體, 或量 Sensitive prothrombin time (DRVVT) 去測是否有 Lupus anticoagulant。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- Three or more embryonic ( 2 次驗到 antiphospholipid antibodies (aPL) Anticardiolipin IgG and/or IgM in moderate or high titer Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- b. Type II HIT(1~3%)是因為體內產生抗體對抗 Heparin 及 platelet factor 4(PF4), 約發生在使用 heparin 5~10 天後,一半的病人 PLT ↓ | 1 | aPTT ↑ | 測 PT 試管含較多磷脂質,較不受抗磷脂抗體影響 | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (B) anticardiolipin antibody syndrome Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...| | | | (B) Von Willebrand's 疾病 | | | | | (C) 第十一因子缺乏 | | | | | (D) 第十二因子缺乏 | | | | | | 延長有可能是第 8, 9, 11 因子缺乏、Voneparin、APS;第十二因子缺乏不太有臨 | | | (C) | | A)的正常女性和凝血功能正常之男士結B嬰罹患血友病的機會有多少%?(B) 25 | 94(一)専内1-65 | | | (C) 50 | (D) 100 | | | | | nked 遺傳疾病,正常男為(X)、帶原女子來自母親,所以男嬰罹患血友病(X'Y) | | | | | | | Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...列何者不屬於 systemic autoimmune diseases ? (A) systemic lupus erythematosus (B) Graves' disease (C) Rheumatoid arthritis (D) Antiphospholipid syndrome 【詳解】(Harrison 1959 Table 299-5) Organ specific: Graves' disease、Hashimoto's thyroiditis、Addison's disease 等。 Organ nonspecific: SLE、RA、APS、Sjögren's syn.、Wegner's granulomatosis。 | 93(二)檢內-64 | | (A) | 4. 器官移植後 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- ...腺突然腫脹,下列那一項檢驗最不會出現陽性結果? (A) rheumatoid factors (B) antinuclear antibodies (C) anti-SS-A (Ro) / SS-B (La) antibodies (D) anticardiolipin IgG and IgM | 106(二)專醫三-38 | | (#) | 3. 目前診斷 Sjögren's 症候群,下列何種條件,可診斷原發性乾燥症(primary Sjögren's syndrome)?①口乾 ②眼乾 ③ Schirmer's test (+) ④唾液腺體切片異常(超過 1 focus 淋巴球聚集) ⑤唾液腺功能檢查異常 ⑥血中抗 SSA 或 SSB 抗體陽性 ⑦關節疼痛(A) ①②③④(B) ①②⑤⑦(C) ① Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 
@@ -75,7 +81,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/recurrent-pregnancy-loss|Recurrent pregnancy loss (反覆性流產)]]
 
 ## Follow-up
 

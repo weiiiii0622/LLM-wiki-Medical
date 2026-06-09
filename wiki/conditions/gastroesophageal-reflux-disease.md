@@ -18,6 +18,8 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Gastroesophageal reflux disease, GERD (胃食道逆流)'
   - 'Gastroesophageal reflux disease, GERD'
@@ -32,7 +34,7 @@ tags:
 
 ## Summary
 
-胃酸逆流造成 heartburn、食道炎或併發症，治療包含生活型態與抑酸藥物。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃酸逆流造成 heartburn、食道炎或併發症，治療包含生活型態與抑酸藥物。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +52,13 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch10]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- 黃體素使得下食道括約肌張力降低,會導致胃食道逆流;加上懷孕時腹內 壓上升,吸入性肺炎的風險增加,尤其在生產腹部用力時或全身麻醉時 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ※年輕女性可用 Z-score 來評估,若 Z-score 分鐘的直立坐姿,以減少腸胃副作用(胃食道逆流與食道潰瘍)。●相對禁忌症為食道的硬皮症、遲緩不能 (achalasia) 或窄縮。●不應使用在 Barrett's esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服雙磷 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - E. 胃食道逆流疾病(Gastroesophageal reflux disease, GERD) *86* Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 8. 術後併發症:食道運動疾患(esophageal motility disorders)、胃食道逆流(gastroesophageal reflux)約 25~50%、吻合處狹窄(anastomotic stricture)約 15~30%、吻合處滲漏(anastomotic leak)約 10~20%、和氣管軟化(tracheomalacia)約 8~15%。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 5. 治療:以長段食道括約肌切開(esophagomyotomy)放鬆下括約肌壓力,合併胃底 折疊手術(fundoplication)預防胃食道逆流。少部分嚴重病患才需要接受食道切除 重建手術。 - (1) 傳統左側開胸食道括約肌切開術合併部分開腹胃底折疊手術。 - (2) 內視鏡食道括約肌切開術(laparoscopic Heller myotomy)合併胃底折疊手術。 Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -69,8 +75,6 @@ tags:
 - 5. 治療:外科方式治療。在手術前最重要的處理方式為預防病人嗆到,故讓病童維持 prone positioning。術後有些合併症也須注意,如 anastomotic leak、refistulization 以及 anastomotic stricture。此外,有些病人會出現 GERD。出現 GERD 時同時常合併 胃排空能力不佳情形。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (1) sliding hiatal hernia 通常會有胃食道逆流,好發在 mental retarded 病童。內科治療方式只是用來處理胃食道逆流疾病,而非 hiatal hernia 本身。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 能不足。PS:Angelman syndrome,即俗稱的「天使症候群」。 這類的病人臨床上有肌張力低下、餵食困難、胃食道逆流、 膚色或髮色較淺(fair skin and hair)、臉部發育異常(midface hypoplasia、prognathism)、癲癇發作、神經肌肉發展異常(limb tremor and ataxia)、語言發展遲緩(poor or absent speech)、不 自主大笑(inappropriate laughter)以及嚴重智能不足。天使症 候群的病人隨著年紀增長,臨床表現越加明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- 3. 若胃鏡正常,仍懷疑 GERD,可使用 Ambulatory 24-hour ph monitoring,將 probe 放於 LES 上 5 公分監測,是目前用來定量酸暴露的最佳方法。另有一 Bernstein test -以 0.1% HCL 刺激看是否能引發相同症狀,可作為輔助。 Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
-- (B) 1. 下列那些藥物可能會加重逆流性食道炎(reflux esophagitis)? 105(ー)専 ①降血脂藥(HMG-CoA reductase inhibitor) ②高血壓用藥(calcium channel blocker) ③氣喘用藥(theophylline) ④抗過敏薬物(antihistamine) - (A) (1)(2)(3) - (B) 僅②③ - (C) (3)(4) - (D) (1)(2)(4) Source: [[sources/med3-book2-ch06|戊、食道疾病-胃食道逆流]].
 
 ## Clinical Caveats
 

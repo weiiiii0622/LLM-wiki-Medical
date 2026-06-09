@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch10]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book2-ch12]]"
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book2-ch14]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Colectomy (大腸切除術)'
   - 'Colectomy'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-依病灶位置與病因切除部分或全部大腸，常用於 colorectal cancer、IBD、diverticular disease 或急性阻塞/穿孔。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依病灶位置與病因切除部分或全部大腸，常用於 colorectal cancer、IBD、diverticular disease 或急性阻塞/穿孔。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med5-book2-ch12]]
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book2-ch14]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- (C) 患者應接受減積手術,可能需包括部分小腸及大腸切除,術 後應接受化學治療 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...因檢驗。 - (b) 眼科檢查: CHRPE (congenital hypertrophy of retinal pigmented epithelium)。 - (c) 大腸鏡檢。 - e. 處置: - (a) Total proctocolectomy with end-ileostomy or IPAA • - (b) Total abdominal colectomy with ileal-rectal anastomosis • - (2) Hereditary nonpolyposis colon cancer (HNPCC): - a. 體聯顯性遺傳(AD),defective mismatch repair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (D) 若是 3 公分大小,最好施行右半結腸切除術 (right hemicolectomy) Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...------------------------------------------------------------|--------| | (A) 手術治療,前下位切除及淋巴結清除手術 | 醫五 -78 | | (B) 手術治療,右側大腸切除及淋巴結清除手術 | | | (C) 內科治療,給予止痛藥及軟便藥 | | | (D) 內科治療,給予化學治療 | | | (A) 34. 大腸直腸癌適合作篩檢的理由不包含下列那一項? | 98(二)專 | | (A) 都是 de novo cancer | 醫五 -36 | | (B) 發生頻率高且問題嚴重 | | | (C) 生長緩慢 | | | (D) 有方便可行的篩檢法 | | | 【詳解】(A) de novo cancer Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

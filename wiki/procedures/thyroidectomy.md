@@ -2,11 +2,12 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book2-ch25]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Thyroidectomy (甲狀腺切除術)'
   - 'Thyroidectomy'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-用於部分 Graves disease、甲狀腺結節或甲狀腺癌；需注意出血、hypocalcemia、recurrent laryngeal nerve injury。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於部分 Graves disease、甲狀腺結節或甲狀腺癌；需注意出血、hypocalcemia、recurrent laryngeal nerve injury。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book2-ch25]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- (2) 手術:當藥物無法控制或無法承受藥物副作用,可考慮行 thyroidectomy。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (3) 手術: 較後線選擇 - a. Bilateral subtotal thyroidectomy(切除大部分甲狀線,僅於兩側各留下 1~2 g 的組織)或是 total thyroidectomy。 - b. Bilateral subtotal thyroidectomy 會有約 10% 的復發機率, total thyroidectomy 則會導致 hypothyroidism, 須終身服用甲狀腺素。另外手術需注意傷及喉返神經。 - c. Indication: 小孩、孕婦、口服藥物無反應或是無法接受 RAI 者。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 3. Subacute (de Quervain) thyroiditis: - (1) 亞急性甲狀腺炎,好發於年輕女性,往往伴隨著上呼吸道病毒感染後發生。 - (2) 前期濾泡細胞遭浸潤破壞,而釋放出大量 T3、T4,造成甲狀腺機能亢進,之後 會因為回饋機制 TSH 分泌下降而變為甲狀腺機能低下,最後回復正常。 - (3) 病人甲狀腺不規則腫大,感到頸部甲狀腺區域疼痛感,且會輻射至下頷、耳朵 或後頸部,甚至前胸和手臂。 - (4) 可給予 NSAID,多數病患會在幾個禮拜內自行緩解。如果口服藥物數月後仍無效,須考慮 thyroidectomy。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (a) Total thyroidectomy,假使病人有頸部淋巴轉移則加作 ipsilateral central neck dissection。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].

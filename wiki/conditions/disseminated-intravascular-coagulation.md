@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book6-ch05]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Disseminated intravascular coagulation, DIC (瀰漫性血管內凝血)'
   - 'Disseminated intravascular coagulation, DIC'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-全身凝血活化造成血栓與出血並存，常由敗血症、癌症、產科或創傷引發。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+全身凝血活化造成血栓與出血並存，常由敗血症、癌症、產科或創傷引發。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,15 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book6-ch05]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- (7) 併發症: DIC、休克、腎衰竭、多重器官衰竭、甚至死亡。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (D) fibrinogen-fibrin degradation products Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】胎盤剝離會造成凝血功能異常,嚴重會併發 DIC,導致 fibrinogen 因 fibrinolysis 增加下降。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | 母 親 | • 腦出血、中風、肺水腫、肝腎衰竭、DIC、母親死亡 | |-----|----------------------------| | 胎兒 | • 胎兒生長遲緩、早產、胎兒死亡 | | 胎盤 | • 胎盤剝離 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (3) 原因: pronator teres (PT), flexor carpi radialis (FCR) 的 tendinosis。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - ...-------------------------------|-------------------------|-------------------------|--| | cТ | cN | cM | pStage group | pT | pN | pM | pGrade | pLocation | | | Alexander of the control of the control | | | Squamous cell c | arcinoma | | | | | | | | | 3.60 | 0 | Tis | N0 | M0 | N/A | Any | | | | | M0 | IA | Tla | N0 | M0 | G1, X | Any | | | Source: [[sources/med5-book4-ch05|戊、食 道]].
 - | | Hb | Platelet | PT | aPTT | |-----|---------|----------|----------|-------| | 張奶奶 | 10.2 | 40 | 16.2 | 36.4 | | 正常值 | 13.5~17 | 138~353 | 9.4~12.5 | 26~38 | | 單位 | g/dL | 10^3/mL | sec | sec | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -81,10 +89,6 @@ tags:
 - D. 瀰漫性血管內凝固(DIC) 40 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ## D. 瀰漫性血管內凝固 (DIC) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (C) 35. PT (prothrombin time) 延長是因凝血因子低於正常的百分之五十以下,但下列何種因子除外? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (D) 1. 感染相關的噬血症候群 (Infection-associated hemophagocytic 109(二)專 syndrome),下列那一項最不支持此診斷? 醫四-27 - (A) Hypofibrinogenemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (D) 4. 兒童患者如果發生 disseminated intravascular coagulation (DIC), 104(二)專 血液檢查時,下列何者不會出現? - (A) 血中 D-dimer 出現 - (B) 血中 Factor V 或 Factor VIII 降低 - (C) 血小板 (platelets) 數目降低 - (D) 血中 fibrinogen 升高 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】病人嚴重感染走向 DIC 時,凝血系統啟動造成血小板、 凝血因子大量消耗而降低,纖維蛋白溶解系統也跟著啟動造成 D-dimer 上升與 fibrinogen 下降。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 
@@ -93,7 +97,10 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/amniotic-fluid-embolism|Amniotic fluid embolism (羊水栓塞)]]
+- [[conditions/hellp-syndrome|HELLP syndrome (HELLP 症候群)]]
+- [[conditions/placental-abruption|Placental abruption (胎盤早期剝離)]]
+- [[conditions/postpartum-hemorrhage|Postpartum hemorrhage, PPH (產後大出血)]]
 
 ## Follow-up
 

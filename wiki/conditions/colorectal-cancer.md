@@ -27,6 +27,8 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Colorectal cancer (大腸直腸癌)'
   - 'Colorectal cancer'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-大腸與直腸惡性腫瘤，篩檢、分期與手術/化療策略影響預後。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸與直腸惡性腫瘤，篩檢、分期與手術/化療策略影響預後。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,15 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- | 懷疑上皮細胞腫瘤 | ・CA125、CA 199 和 CEA | |----------|----------------------------------------------| | 懷疑生殖細胞腫瘤 | ・AFP、β-HCG 和 LDH | | 懷疑性索間質腫瘤 | • Inhibin、E2 (Estradiol)、testosterone 和 DHEA | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ※ 註:已發展國家女人一生中得到卵巢癌的風險是 1.4%,其中 5~10% 和基因相關,如 Lynch syndrome- MSH2, MLH1, PMS1 & PMS2 (乳癌、大腸直腸癌、子宮內膜癌和卵巢癌)和 BRCA;若知道有基因突變,建議於完成生育後預防性切除卵巢輸卵管,並接受定期檢查(乳房攝影、大腸鏡和子宮內膜切片)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (D) 12. 一位 59 歲的婦女下腹疼痛一個月之久, CBC、CA125、CEA 104( 二 ) 專 均正常,經超音波及斷層掃描檢查後,結果疑似輸卵管癌,下列 敘述何者錯誤? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...--------------|-------------------------------------| | • Stroke | Osteoporotic fracture | | Venous thromboembolism | ● Colorectal cancer | | • Coronary heart disease (E+P, > 60 y/o) | ● Coronary heart disease ( 5 yrs) | ● Mortality ( Endometrial hyperplasia and carcinoma | ● Type II DM | | ( 單獨用 E) | ● Recurrent urinary tract infection | | • Gallbladder Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...7. 關於高期別之非精細胞胚胎細胞癌 (nonseminoma germ cell 105( 二 )專 carcinoma),下列何者不是預測其化學治療之反應指標? 醫五-66 (A) 血清 LDH (B) 血清 β-hCG (C) 血清 CEA (D) 轉移部位總數 (A) 8. 下列敘述那些正確?①陰莖骨折(penile fracture)多發生在陰莖 105(二)專 懸韌帶(suspensory ligament)遠側 ②陰莖骨折如果採取保守治 醫五-71 療會有 10% 以上發生勃起時陰莖彎曲 (penile curvature) ③陰 莖穿透傷 (penetrating injury) 要考慮做逆行性尿道攝影 (retrograde urethrography) ④急 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 列何者錯誤? 醫五-2 - (A) 肝癌 (hepatocellular carcinoma) —胎兒蛋白 (alpha-fetoprotein, AFP) - (B) 大腸癌— CEA (carcinoembryonic antigen) - (C) 小細胞肺癌— CA19-9 - (D) 前列腺癌— PSA (prostate specific antigen) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) Hereditary nonpolyposis colon cancer (HNPCC) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -85,10 +93,6 @@ tags:
 - (D) 1. 關於糞便潛血 (fecal occult blood testing, FOBT) 的敘述,何者 105(-)專 錯誤? 醫五-51 - (A) 對沒有危險因子的民眾是很好的大腸直腸癌篩檢工具 - (B) 藉由免疫反應檢測的糞便潛血其專一性較氧化還原法的糞便 潛血檢測為高 - (C) 因為血球蛋白會在上消化道被破壞,所以免疫反應檢測的糞 便潛血是來自於大腸或直腸的出血 - (D) 糞便潛血檢驗前三天都必須要避免紅肉的攝取 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - (B) 3. 一位 65 歲之女性病人在三年半前因 Dukes' B 直腸癌接受低前位 切除術治療,術後一年發生骨盆腔內左側壁之局部復發;經完整 療程的放射線治療後一直在門診接受三個月一次的定期追蹤, 並無任何自覺症狀,一切檢查包括血清 CEA 等也都正常。兩天 前突然發現有大便經由陰道排出,則最可能是何種診斷? Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - F. 大腸直腸癌分期治療準則 162 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- H. 大腸直腸癌的預防和篩檢 164 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- ...h end-ileostomy or IPAA • - (b) Total abdominal colectomy with ileal-rectal anastomosis • - (2) Hereditary nonpolyposis colon cancer (HNPCC): - a. 體聯顯性遺傳(AD),defective mismatch repair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total ab Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...rcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | ( Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 
 ## Clinical Caveats
 

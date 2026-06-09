@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Ganciclovir / Valganciclovir (更昔洛韋類)'
   - 'Ganciclovir / Valganciclovir'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...------------|--------------------------------------------------| | 胎兒 | • 基因突變和染色體異常 | | 4444 | • 先天結構異常 | | | ・ 胎兒感染:如 CMV、toxoplasmosis 等 | | 胎盤 | · 胎盤結構或臍帶異常:如 circumvallate placenta、velamentous | | | umbilical cord insertion 等 | | | · 胎盤染色體異常,一般稱 confined placental mosaicism | | 母親 | • 罹患影響胎盤血流的疾病:如子癲前症、高血壓、糖尿病、 | | \$ 25 c. 41 | 自體免疫疾病 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (B) 先給 ganciclovir Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -70,7 +73,6 @@ tags:
 - ...後, | | | | | , | 也可能兒童後期或 | | | | | | 成人 | | | | 常見病 | 伺機型感染;病毒 | 有莢膜的細菌 | 細菌如 staphylococci, | Neisseria, | | 原菌 | 感染 (CMV, EBV, | (streptococci, | Pseudomonas, | Escherichia coli | | | adenovirus, | staphylococci, | Serratia,Klebsiella; | | | | enterovirus); | Haemophilus…); | 黴菌如 Candida; | | | | Candida; PCP ; | XLA 病人常見 | Nocardia, Aspe Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (B) cytomegalovirus (CMV) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - | 分類 | Warm | Cold | |----|---------------------|-------------------------| | 意義 | 於人體溫度時就會攻擊 | 在低溫時才會攻擊 | | 抗體 | IgG 攻擊 RBC 的 Rh 抗原 | IgM 攻擊 RBC 的 C3d, Ii 抗原 | | 病因 | 藥物、感染 (EBV/CMV)、 | 感染 (Mycoplasma) | | | 結締組織病 SLE/RA、HD/CLL | Non-Hodgkin lymphoma | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...十 | 雙股環狀 | 5.7 (3.5) | | HPV →疣; Polyoma vir | us (BK, JC) | | | | 雙股線狀 核內 | | 核內 | 疱疹病毒 (Human herpes virus) | HSV,VZV,CMV,EBV,HF | IV6,HHV8 | | | | | 雙股環狀 | 核內 | B 型肝炎病毒 (hepatitis B virus) | 猛爆性,急性,慢性肝炎 | 长,肝硬化 | | | | 複雜型 | 雙股線狀 | 細胞質 | 痘病毒 (Pox virus) | 天花, 傳染性軟疣 | | | | | 二十面體 | 單股 (+) 無分段 | 細胞質 | 小 RNA 病毒 (Picornavirus) | 小兒麻痺,克沙奇病毒 | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

@@ -9,6 +9,8 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book1-ch16]]"
 aliases:
   - 'Cystoscopy (膀胱鏡)'
   - 'Cystoscopy'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-直接檢查膀胱與尿道，可用於血尿、膀胱癌診斷追蹤、結石與下泌尿道病灶評估。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+直接檢查膀胱與尿道，可用於血尿、膀胱癌診斷追蹤、結石與下泌尿道病灶評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ tags:
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med6-book1-ch13]]
+- [[sources/med6-book1-ch16]]
 
 ## Key Details From Sources
 
+- (D) 7. 下列那項因子目前不被認為是壓力性尿失禁(stress urinary 107(-)專 incontinence)的女性患者,在接受恥骨後尿道固定術(retropubic 醫六-39 urethropexy)會是手術失敗的危險因子? - (A) 低 Valsalva leak-point pressure - (B) 低 maximal urethral closure pressure - (C) 膀胱鏡(cystoscopy)或螢光透視(fluoroscopy)檢查下發現有張開的膀胱頸(open bladder neck) - (D) 高移動尿道 (urethral hypermobility) Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
+- ...-----------------------------------------|--|--| | 尿液分析 | • 評估是否感染,若懷疑感染,可進一步行尿液培養 | | | | | · 評估是否血尿,若出現血尿,可安排進一步檢查 (如:膀胱鏡) | | | | 餘尿量 | 尿液滯留也可能會造成膀胱疼痛 | | | | | • 尿液滯留可能因膀胱出口阻塞或神經功能異常造成,可安排進一步 | | | | | 檢查 | | | | 膀胱鏡 | 用來排除膀胱內異物、結構異常或癌症等,若懷疑有惡性病灶,需 | | | | | 行切片檢查 | | | | | · 合併膀胱擴張 (hydrodistention),用來輔助診斷間質性膀胱炎 | | | | | · 在全身麻醉下以蒸餾水或食 Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
+- ...過 | | | 度敏感。通常使用數天即會有效。 | | | ・ 其他藥物如 phenazopyridine 和 methenamine 等,一般在 | | | 膀胱疼痛加劇時短暫使用,不建議長期使用,以免影響 | | | 肝腎功能 | | 膀胱鏡下膀胱擴張 | • 如上述的輔助診斷方式,亦有治療效果,治療效果來自 | | (Bladder hydrodistention) | 於此舉可能會破壞膀胱壁的感覺神經。通常只有短期的 | | + . ** | 效果(小於6個月) | | | • 若發現 Hunner lesions,可以切除/電燒病灶或注射類固 | | | 醇,對緩解症狀有幫助 | | 膀胱灌注藥物 | · 以導尿管將藥物直接灌入膀胱,通常作為急性發作的治 | | | Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
+- ...etrusor overactivity)之情形,但是初次解尿感覺(first desire to void)容積為 86 c.c.、膀胱最大容積(maximum bladder capacity)為 180 c.c.。於靜脈注射麻醉下接受膀胱鏡檢查,膀胱在灌注 400 c.c. 食鹽水 5 分鐘後,開始引流膀胱內食鹽水,膀胱鏡下呈現下圖之變化(其變化順序依次為 $a \rightarrow b \rightarrow c \rightarrow d$ ),此患者最適合之診斷為: Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - i. 膀胱鏡檢(cystoscopy): 通常是因血尿而做檢查,但大部分腎細胞癌 用影像檢查即可診斷。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...何種檢查宜避免? | | | | (A) 接受使用 gadolinium ( | 作核磁共振造影檢查 | | | (B)接受靜脈注射顯影劑( | 故電腦斷層檢查 | | | (C) 安排腎臟與膀胱超音液 | 皮檢查 | | | (D) 安排膀胱鏡或逆行性腎 | 腎輸尿管攝影 | | | 【詳解】GFRs 低於 30 n | nL/min 的患者,钆(gadolinium)施用 | | | | 纖維化 (nephrogenic systemic fibrosis) | | | 的風險增加。 | | | | (D) 18. 對於腎臟移植後的處置, | | 103(二)專 | | ① 通常會使用 β-blockers來控制高血壓 | ,hydralazine 和 calcium ch Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - c. 臨床表徵:容易發生腎盂腎炎,嚴重時會造成腎臟損傷、腎衰竭、尿毒症或 高血壓。以 VCUG、膀胱鏡診斷。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].

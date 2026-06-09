@@ -29,6 +29,7 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Aortic dissection (主動脈剝離)'
   - 'Aortic dissection'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,13 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch10]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...d type, stage IA, grade 1 患者,是否摘除淋巴不影響預後,故此類病人可考慮不廣泛摘除淋巴(僅摘除腫大的淋巴結)。此作法仍有爭議,故 NCCN 和 SGO 支持前哨淋巴結廓清 (sentinel lymph node dissection, SLND) 的作法,不過,SLND仍需更多的研究證明其效用。 - c. 若子宮內膜癌已有骨盆腔或腹腔內轉移 (約5%),除分期手術外,尚須 行減積手術。 - d. 若為 type II (serous or clear cell) 患者,其疾病進展類似卵巢癌,故手術方式須儘量減積並加做大網膜摘除。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (A) 5. 骨盆腔或後腹腔(pelvic or retroperitoneal space)的淋巴結廓清術 或取樣(lymph node dissection or sampling),在婦女生殖道癌症 的手術,通常都要常規(routine)執行。下列何種腫瘤在初期時, 例如 FIGO stage I and II, 一般可省略淋巴結廓清術或取樣? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (B) 4.38 歲婦女,經診斷為子宮頸鱗狀上皮癌,接受根除性子宮切除術 及骨盆腔淋巴結廓清術(radical hysterectomy and bilateral pelvic lymph node dissection),根據 Berek & Novak's Gynecology 15 版 2012 年出版教科書的危險因子說明,下列何者非屬復發有關的 高風險的因子? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - Radical lymph node dissections of the neck Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - Radical lymph node dissections of the chest Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 7. 手術: - (1) 術式:胸廓切開術合併肋膜外分離術 (open thoracotomy with extrapleural dissection)、胸腔鏡修補 (thoracoscopic repair)。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
@@ -90,9 +95,6 @@ tags:
 - (3) Traumatic、dissection、先天性、血管炎或結締組織疾病造成的較少見。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - ...n of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性器官的灌注 血流。 - f. 下肢半癱(spinal cord ischemia,Adamkiewicz 動脈灌流不足) - g. Graft infection · Aorto-enteral fistula · Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (a) Total thyroidectomy,假使病人有頸部淋巴轉移則加作 ipsilateral central neck dissection。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- a. Total thyroidectomy + Central neck dissection (上下從舌骨到胸骨切跡,左右至頸動脈鞘)。如同時有 pheochromocytoma,需先將其切除,因為 pheochromocytoma 會增加甲狀腺切除術中的風險,例如 hypertensive crisis。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- b. 如果有侵犯至 ipsilateral cervical lymph nodes,則作 modified neck dissection。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- (B) 對後腹膜腔的器官或需要從腹膜外(extraperitoneal space) 進入腹腔時,有時需要用氣球撐開術(balloon dissection) 來打開第一個洞 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 
 ## Clinical Caveats
 

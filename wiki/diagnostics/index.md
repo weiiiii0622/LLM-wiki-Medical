@@ -16,6 +16,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 ## Pages
 
 - [[diagnostics/acth-stimulation-test|ACTH stimulation test (ACTH 刺激試驗)]] - 評估腎上腺皮質醇分泌能力。
+- [[diagnostics/amniocentesis|Amniocentesis (羊膜穿刺)]] - 以穿刺取得羊水做染色體、基因或感染檢測；需依孕週、適應症與流產風險評估。
 - [[diagnostics/anion-gap|Anion gap (陰離子間隙)]] - 用 Na、Cl、HCO3 估計未測量陰離子，輔助代謝性酸中毒鑑別。
 - [[diagnostics/ankle-brachial-index|Ankle-brachial index, ABI (踝肱指數)]] - 以下肢與上肢收縮壓比值評估 peripheral arterial disease 嚴重度與追蹤治療反應。
 - [[diagnostics/anti-ccp-antibody|Anti-CCP antibody (抗環瓜氨酸抗體)]] - RA 診斷與預後評估的重要自體抗體，特異性較 RF 高。
@@ -24,6 +25,8 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/arterial-blood-gas|Arterial blood gas, ABG (動脈血氣)]] - 評估氧合、通氣與酸鹼狀態。
 - [[diagnostics/ascitic-fluid-analysis|Ascitic fluid analysis (腹水分析)]] - 腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。
 - [[diagnostics/bi-rads|BI-RADS (乳房影像報告與資料系統)]] - 乳房影像標準化分類，指引追加影像、切片或追蹤。
+- [[diagnostics/biophysical-profile|Biophysical profile, BPP (胎兒生理活動評量)]] - 整合 NST、胎動、呼吸運動、肌張力與羊水量評估胎兒狀態。
+- [[diagnostics/bishop-score|Bishop score (Bishop 子宮頸成熟度評分)]] - 以 dilation、effacement、station、consistency、position 評估 induction of labor 成功機率。
 - [[diagnostics/blood-pressure-measurement|Blood pressure measurement (血壓測量)]] - 正確量測與分類是高血壓診斷基礎。
 - [[diagnostics/bnp|BNP / NT-proBNP (腦利鈉胜肽)]] - 心室壓力與容量負荷標記，可輔助心衰竭診斷與嚴重度評估。
 - [[diagnostics/bohler-angle|Böhler angle (Böhler 角)]] - 跟骨側位 X-ray 評估 posterior facet 塌陷的角度，低於正常範圍提示 calcaneus fracture。
@@ -38,17 +41,20 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/breast-ultrasonography|Breast ultrasonography (乳房超音波)]] - 評估乳房腫塊囊性或實質性，常用於年輕或緻密乳房，也可導引切片。
 - [[diagnostics/bronchodilator-reversibility-test|Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)]] - 評估可逆性氣流阻塞，是氣喘診斷依據之一。
 - [[diagnostics/c-peptide|C-peptide (C 胜肽)]] - 反映內生性胰島素分泌，可協助分辨糖尿病型態。
+- [[diagnostics/ca-125|CA-125 (癌抗原 125)]] - 卵巢上皮癌常用追蹤與輔助評估標記，但早期、停經前與非漿液性癌診斷準確度有限。
 - [[diagnostics/cardiac-biomarkers|Cardiac biomarkers (心肌酵素)]] - 用於區分 UA 與 MI，並評估心肌壞死。
 - [[diagnostics/cerebrospinal-fluid-analysis|Cerebrospinal fluid analysis, CSF (腦脊髓液檢查)]] - 用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。
 - [[diagnostics/child-pugh-score|Child-Pugh score (Child-Pugh 分級)]] - 以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。
 - [[diagnostics/coagulation-tests|Coagulation tests, PT/aPTT (凝血檢查)]] - PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondary hemostasis 異常。
 - [[diagnostics/colonoscopy|Colonoscopy (大腸鏡)]] - 評估下消化道出血、IBD、腫瘤與慢性腹瀉的重要檢查。
+- [[diagnostics/colposcopy|Colposcopy (陰道鏡)]] - 放大檢視子宮頸轉化區並導引 biopsy，用於異常抹片或 HPV 風險評估。
 - [[diagnostics/coombs-test|Coombs test (庫姆氏試驗)]] - 偵測 RBC 表面或血漿抗紅血球抗體，用於 immune hemolysis 與輸血前評估。
 - [[diagnostics/ct-pulmonary-angiography|CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)]] - 肺栓塞常用影像診斷。
 - [[diagnostics/cystometry|Cystometry / cystometrogram, CMG (膀胱壓力圖)]] - 灌注膀胱並量測 Pves/Pabd/Pdet、容量、感覺與順應性，是尿路動力學核心項目。
 - [[diagnostics/d-dimer|D-dimer (D-二聚體)]] - 低風險肺栓塞排除策略常用檢驗。
 - [[diagnostics/developmental-milestones|Developmental milestones (兒童發展里程碑)]] - 依年齡追蹤粗動作、細動作、語言、認知與社會互動發展。
 - [[diagnostics/dexamethasone-suppression-test|Dexamethasone suppression test (地塞米松抑制試驗)]] - 篩檢或評估 Cushing syndrome 的 HPA axis 回饋。
+- [[diagnostics/down-syndrome-prenatal-screening|Down syndrome prenatal screening (唐氏症產前篩檢)]] - 結合母血標記、nuchal translucency、NIPT 或診斷性檢查評估 trisomy 21 風險。
 - [[diagnostics/dsm-diagnostic-criteria|DSM diagnostic criteria (DSM 診斷準則)]] - 精神科疾病分類與診斷準則框架；教材同時使用 DSM-IV-TR 與 DSM-5，需注意版本差異。
 - [[diagnostics/duke-criteria|Duke criteria (Duke 診斷標準)]] - 感染性心內膜炎的診斷架構。
 - [[diagnostics/echocardiography|Echocardiography (心臟超音波)]] - 評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。
@@ -57,17 +63,21 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/electromyography|Electromyography, EMG (肌電圖)]] - 針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。
 - [[diagnostics/esophageal-ph-monitoring|Esophageal pH monitoring (食道酸鹼監測)]] - GERD 疑似但內視鏡正常時可量化酸暴露。
 - [[diagnostics/evoked-potential-test|Evoked potential test (誘發電位檢查)]] - 以視覺、聽覺或體感刺激測量傳導路徑反應，常用於 demyelinating disease 評估。
+- [[diagnostics/fetal-fibronectin|Fetal fibronectin (胎兒纖維連結蛋白)]] - 陰道/子宮頸分泌物 fFN 可輔助預測近期早產風險，陰性預測價值較高。
 - [[diagnostics/fine-needle-aspiration-cytology|Fine needle aspiration cytology, FNA (細針抽吸細胞學)]] - 甲狀腺結節與其他表淺腫塊常用細胞學檢查，用於良惡性分流與手術決策。
 - [[diagnostics/flow-cytometry|Flow cytometry (流式細胞術)]] - 以表面標記與細胞特徵分類白血病、淋巴瘤、PNH 等血液疾病。
 - [[diagnostics/focused-assessment-with-sonography-for-trauma|FAST exam (創傷超音波快速評估)]] - 外傷病人床邊超音波快速評估腹腔、心包膜或胸腔液體。
 - [[diagnostics/fractional-excretion-of-sodium|Fractional excretion of sodium, FENa (鈉分率排泄)]] - 用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。
 - [[diagnostics/glasgow-coma-scale|Glasgow Coma Scale, GCS (格拉斯哥昏迷指數)]] - 以 eye、verbal、motor response 評估意識程度，常用於腦傷、中風與急症神經評估。
 - [[diagnostics/gleason-score|Gleason score (Gleason 攝護腺癌分級)]] - 攝護腺癌病理分級系統，以主要與最高等級 pattern 加總，反映腫瘤侵襲性與治療風險分層。
+- [[diagnostics/group-b-streptococcus-screening-pregnancy|Group B Streptococcus screening in pregnancy (妊娠乙型鏈球菌篩檢)]] - 妊娠後期篩檢 GBS colonization，陽性或高風險者生產時給予抗生素以預防新生兒感染。
 - [[diagnostics/growth-chart|Growth chart (生長曲線)]] - 兒童生長評估工具，需連續追蹤身高、體重、頭圍與 growth velocity。
 - [[diagnostics/hba1c|Hemoglobin A1c, HbA1c (糖化血色素)]] - 反映近期平均血糖並作為糖尿病診斷與控制目標。
 - [[diagnostics/helicobacter-pylori-testing|Helicobacter pylori testing (幽門螺旋桿菌檢測)]] - H. pylori 可用侵入性或非侵入性檢測確認。
 - [[diagnostics/hiv-testing|HIV testing (HIV 檢測)]] - HIV 診斷與追蹤包含抗原抗體篩檢、確認試驗、病毒量與 CD4 count。
 - [[diagnostics/hla-crossmatch|HLA typing and crossmatch (HLA 配對與交叉試驗)]] - 器官移植前評估 donor-recipient compatibility 與 preformed antibodies。
+- [[diagnostics/hysterosalpingography|Hysterosalpingography, HSG (子宮輸卵管攝影)]] - 以顯影劑評估子宮腔形態與輸卵管通暢，是 infertility/tubal factor 常用檢查。
+- [[diagnostics/infertility-evaluation|Infertility evaluation (不孕症評估)]] - 不孕評估整合排卵、卵巢庫存、輸卵管通暢、子宮腔、男性精液與年齡/病史風險。
 - [[diagnostics/iron-studies|Iron studies (鐵質檢查)]] - Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。
 - [[diagnostics/kidney-biopsy|Kidney biopsy (腎臟切片)]] - 診斷腎絲球、間質與部分腎實質疾病的重要檢查。
 - [[diagnostics/koh-preparation|KOH preparation (KOH 鏡檢)]] - 以 KOH 溶解角質後鏡檢菌絲或酵母型態，常用於皮癬菌與念珠菌感染。
@@ -84,12 +94,15 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/neurologic-examination|Neurologic examination (神經學檢查)]] - 系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。
 - [[diagnostics/nikolsky-sign|Nikolsky sign (Nikolsky 徵象)]] - 輕壓或摩擦使表皮剝離，見於 SSSS、pemphigus vulgaris、TEN 等表皮內或表皮壞死疾病。
 - [[diagnostics/nocturnal-penile-tumescence-test|Nocturnal penile tumescence test, NPT (夜間陰莖勃起監測)]] - 評估睡眠中自然勃起以區分 psychogenic 與 organic erectile dysfunction。
+- [[diagnostics/nonstress-test|Nonstress test, NST (無壓力試驗)]] - 以胎心率加速反映胎兒氧合與自主神經反應，是常用 antepartum fetal surveillance。
 - [[diagnostics/oral-glucose-tolerance-test|Oral glucose tolerance test, OGTT (口服葡萄糖耐受試驗)]] - 用於診斷糖尿病、糖尿病前期與妊娠糖尿病。
 - [[diagnostics/osmolal-gap|Osmolal gap (滲透壓間隙)]] - 實測與計算血漿滲透壓差，可輔助 toxic alcohol 等鑑別。
 - [[diagnostics/ottawa-ankle-rules|Ottawa ankle rules (Ottawa 足踝 X 光規則)]] - 急性足踝傷害是否需 X-ray 的臨床規則，依 malleolar/midfoot tenderness 與負重能力判斷。
+- [[diagnostics/pap-smear|Pap smear / cervical cytology (子宮頸抹片)]] - 子宮頸癌篩檢工具，偵測 cytologic abnormality，常與 HPV testing 合併。
 - [[diagnostics/patch-test|Patch test (貼布試驗)]] - 延遲型過敏測試，用於 allergic contact dermatitis 過敏原評估。
 - [[diagnostics/peak-expiratory-flow|Peak expiratory flow, PEF (尖峰呼氣流速)]] - 居家或連續追蹤氣喘變異性的簡易工具。
 - [[diagnostics/polysomnography|Polysomnography (多項睡眠檢查)]] - 阻塞性睡眠呼吸中止症的診斷檢查。
+- [[diagnostics/prenatal-care-schedule|Prenatal care schedule (產檢時程)]] - 產前照護依孕週安排病史、理學檢查、血尿檢、超音波、感染與遺傳篩檢。
 - [[diagnostics/prostate-biopsy|Prostate biopsy (攝護腺切片)]] - 以系統性或標靶切片取得攝護腺組織確認癌症，常依 PSA、DRE 或影像異常決定。
 - [[diagnostics/prostate-specific-antigen|Prostate-specific antigen, PSA (攝護腺特異抗原)]] - 攝護腺上皮分泌蛋白，受 BPH、prostatitis、導尿、DRE 與 5-alpha-reductase inhibitor 影響，用於風險評估與治療後追蹤。
 - [[diagnostics/protein-electrophoresis|Protein electrophoresis (蛋白電泳)]] - 偵測 monoclonal protein，支援 myeloma、MGUS、Waldenstrom 等診斷。
@@ -109,6 +122,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/tumor-markers|Tumor markers (腫瘤標記)]] - 腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。
 - [[diagnostics/tumor-staging|Tumor staging (腫瘤分期)]] - 腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。
 - [[diagnostics/tzanck-smear|Tzanck smear (Tzanck 抹片)]] - 水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。
+- [[diagnostics/umbilical-artery-doppler|Umbilical artery Doppler (臍動脈都卜勒)]] - 用臍動脈阻力與舒張末期血流評估胎盤阻力，常用於 FGR 監測與分娩時機判斷。
 - [[diagnostics/upper-endoscopy|Upper endoscopy, EGD (上消化道內視鏡)]] - 評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。
 - [[diagnostics/urethral-pressure-profile|Urethral pressure profile (尿道壓力分佈圖)]] - 以導管量測尿道不同位置壓力，評估括約肌閉鎖壓力與功能性尿道長度。
 - [[diagnostics/urinalysis|Urinalysis (尿液檢查)]] - 蛋白、血尿、白血球、cast 與比重是腎臟與泌尿感染評估基礎。

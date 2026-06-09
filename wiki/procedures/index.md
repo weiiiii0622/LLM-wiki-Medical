@@ -23,6 +23,7 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/aortic-dissection-surgery|Aortic dissection surgery (主動脈剝離手術)]] - Type A aortic dissection 通常需急診手術；Type B 多先內科 anti-impulse therapy，併發症時考慮 TEVAR 或手術。
 - [[procedures/appendectomy|Appendectomy (闌尾切除術)]] - 急性闌尾炎常見手術治療，可採開腹或腹腔鏡方式，需依穿孔、膿瘍與病人狀況調整。
 - [[procedures/arterial-switch-operation|Arterial switch operation (大血管轉位動脈轉位術)]] - TGA 的根治手術，將主動脈與肺動脈換回並轉移冠狀動脈。
+- [[procedures/assisted-reproductive-technology|Assisted reproductive technology, ART (人工協助生殖技術)]] - 包含 IUI、IVF、ICSI、胚胎培養與植入等技術，適用於輸卵管、男性、排卵、年齡或 unexplained infertility。
 - [[procedures/axillary-lymph-node-dissection|Axillary lymph node dissection, ALND (腋下淋巴結廓清)]] - 乳癌腋下淋巴結治療與分期手術，較 SLNB 有更高淋巴水腫與神經損傷風險。
 - [[procedures/balloon-atrial-septostomy|Balloon atrial septostomy, BAS (氣球心房中膈造口術)]] - 在 TGA 等心房混合不足時擴大心房交通以改善氧合。
 - [[procedures/billroth-reconstruction|Billroth reconstruction (Billroth 胃腸重建)]] - 胃切除後可用 Billroth I 或 II 重建胃腸連續性，影響膽汁逆流、dumping 與 loop syndrome 風險。
@@ -33,6 +34,8 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/bronchoscopy|Bronchoscopy (支氣管鏡)]] - 用於呼吸道檢查、採檢或部分治療。
 - [[procedures/cardiac-catheterization|Cardiac catheterization (心導管檢查)]] - 評估冠狀動脈狹窄並可銜接介入治療。
 - [[procedures/cardiac-resynchronization-therapy|Cardiac resynchronization therapy, CRT (心臟再同步治療)]] - 符合 LVEF、NYHA 與傳導阻滯條件的心衰竭裝置治療。
+- [[procedures/cervical-conization|Cervical conization / LEEP (子宮頸錐狀切除)]] - 切除子宮頸轉化區病灶以診斷或治療 HSIL/CIN，需注意出血、感染與早產風險。
+- [[procedures/cesarean-delivery|Cesarean delivery (剖腹產)]] - 經腹壁與子宮切開娩出胎兒，適應症包含胎兒窘迫、產程遲滯、胎位異常、前置胎盤等。
 - [[procedures/chest-tube-thoracostomy|Chest tube thoracostomy (胸管置放)]] - 氣胸、膿胸或大量肋膜積液的引流程序。
 - [[procedures/cholecystectomy|Cholecystectomy (膽囊切除術)]] - 症狀性膽結石或急性膽囊炎常見手術治療。
 - [[procedures/cognitive-behavioral-therapy|Cognitive behavioral therapy, CBT (認知行為治療)]] - 針對自動化思考、行為逃避與暴露反應預防等機制的結構化心理治療。
@@ -64,7 +67,11 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/hematopoietic-stem-cell-transplantation|Hematopoietic stem cell transplantation, HSCT (造血幹細胞移植)]] - 治療高風險血液惡性腫瘤、骨髓衰竭與部分免疫疾病的細胞治療。
 - [[procedures/hemodialysis|Hemodialysis (血液透析)]] - 以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。
 - [[procedures/hepatectomy|Hepatectomy / liver resection (肝切除術)]] - 肝臟腫瘤或部分膿瘍/創傷可需肝切除，需評估肝功能、剩餘肝容量與腫瘤分布。
+- [[procedures/hysteroscopy|Hysteroscopy (子宮鏡)]] - 以鏡頭進入子宮腔診斷或治療內膜息肉、黏膜下肌瘤、子宮腔沾黏、隔膜或異常出血。
 - [[procedures/implantable-cardioverter-defibrillator|Implantable cardioverter-defibrillator, ICD (植入式心臟去顫器)]] - 預防猝死的植入式裝置。
+- [[procedures/in-vitro-fertilization|In vitro fertilization, IVF (體外受精)]] - 取卵後在體外與精子受精並培養胚胎，再植入子宮，是 ART 核心技術。
+- [[procedures/induction-of-labor|Induction of labor (引產)]] - 以 mechanical 或 pharmacologic 方法誘發產程，需依 Bishop score、胎兒狀態與禁忌症選擇。
+- [[procedures/intracytoplasmic-sperm-injection|Intracytoplasmic sperm injection, ICSI (單一精蟲卵細胞質內注射)]] - 將單一精蟲注入卵細胞，常用於 severe male factor infertility 或 IVF fertilization failure。
 - [[procedures/intravenous-immunoglobulin|Intravenous immunoglobulin, IVIG (靜脈免疫球蛋白)]] - 免疫調節治療，可用於 GBS、CIDP、MG crisis 等免疫性神經疾病。
 - [[procedures/kasai-portoenterostomy|Kasai portoenterostomy (Kasai 肝門腸吻合術)]] - 膽道閉鎖早期重建膽汁引流的手術，年齡越小成功率越高，失敗或進展肝硬化需肝移植。
 - [[procedures/kidney-transplantation|Kidney transplantation (腎臟移植)]] - ESKD 的腎臟替代療法之一，需評估免疫配對、排斥與感染風險。
@@ -83,9 +90,11 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/noninvasive-ventilation|Noninvasive ventilation, NIV (非侵襲性通氣)]] - 以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。
 - [[procedures/nuss-procedure|Nuss procedure (Nuss 漏斗胸矯正術)]] - 以胸骨後矯正鋼板頂起凹陷胸壁的微創漏斗胸手術，需注意心肺壓迫、鋼板移位與疼痛控制。
 - [[procedures/open-reduction-internal-fixation|Open reduction internal fixation, ORIF (開放復位內固定)]] - 手術暴露骨折端後復位並以 plate、screw、pin 或 wire 固定，常用於位移、不穩定或關節內骨折。
+- [[procedures/operative-vaginal-delivery|Operative vaginal delivery (器械輔助陰道生產)]] - 使用 vacuum 或 forceps 輔助第二產程娩出，需符合頭位、子宮頸全開、胎頭位置明確等條件。
 - [[procedures/orchiopexy|Orchiopexy (睪丸固定術)]] - 將睪丸固定於陰囊，常用於 cryptorchidism 或 testicular torsion 後雙側固定。
 - [[procedures/organ-preservation|Organ preservation (器官保存)]] - 器官摘取後以低溫保存液與時間管理降低 ischemia-reperfusion injury。
 - [[procedures/ostomy|Ostomy (腸造口)]] - 將腸道開口接至腹壁以排便或 diversion，需術前定位與術後照護。
+- [[procedures/ovarian-cancer-debulking-surgery|Ovarian cancer debulking surgery (卵巢癌減積手術)]] - 卵巢癌手術目標為 staging 與最大程度 cytoreduction，optimal debulking 影響預後。
 - [[procedures/pacemaker|Pacemaker (心律調節器)]] - 治療部分 bradyarrhythmia 或傳導阻滯。
 - [[procedures/pancreaticoduodenectomy|Pancreaticoduodenectomy / Whipple procedure (胰十二指腸切除術)]] - 胰頭癌、壺腹周圍癌或遠端膽管癌常見根治手術，需重建膽道、胰管與消化道。
 - [[procedures/paracentesis|Paracentesis (腹水穿刺)]] - 用於腹水診斷、SBP 評估與大量腹水治療。
@@ -116,9 +125,11 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/stroke-thrombolysis|Stroke thrombolysis (中風血栓溶解治療)]] - 急性 ischemic stroke 在合適時間窗與條件下以 alteplase 等進行再灌流治療。
 - [[procedures/surfactant-therapy|Surfactant therapy (肺表面張力素治療)]] - 新生兒 RDS 可補充 exogenous surfactant 改善肺泡穩定與氧合。
 - [[procedures/surgical-flap|Surgical flap (皮瓣手術)]] - 帶有血供的組織轉移用於重建缺損，可依血流、組織組成與移動方式分類。
+- [[procedures/testicular-sperm-extraction|Testicular sperm extraction, TESE (睪丸取精術)]] - 無精症或阻塞性男性不孕可直接由睪丸或副睪取得精子供人工生殖使用。
 - [[procedures/thoracentesis|Thoracentesis (胸腔穿刺)]] - 肋膜積液診斷與治療程序。
 - [[procedures/thoracoscopy|Thoracoscopy / VATS (胸腔鏡)]] - 以胸腔鏡進行診斷、切片、肺部或縱膈手術。
 - [[procedures/thyroidectomy|Thyroidectomy (甲狀腺切除術)]] - 用於部分 Graves disease、甲狀腺結節或甲狀腺癌；需注意出血、hypocalcemia、recurrent laryngeal nerve injury。
+- [[procedures/tocolysis|Tocolysis (安胎治療)]] - 短期抑制宮縮以爭取轉院或 antenatal corticosteroid 時間，需注意禁忌症與藥物副作用。
 - [[procedures/tracheostomy|Tracheostomy (氣管造口術)]] - 建立頸部氣管通道以維持長期呼吸道、協助呼吸器照護或繞過上呼吸道阻塞。
 - [[procedures/transjugular-intrahepatic-portosystemic-shunt|Transjugular intrahepatic portosystemic shunt, TIPS (經頸靜脈肝內門體分流)]] - 以介入方式降低門脈壓，可用於選定的靜脈曲張出血或難治性腹水。
 - [[procedures/transurethral-resection-bladder-tumor|Transurethral resection of bladder tumor, TURBT (經尿道膀胱腫瘤切除術)]] - 膀胱癌初始診斷、分期與治療程序，需取得肌層以判斷是否 muscle-invasive。

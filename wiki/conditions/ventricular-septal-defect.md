@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Ventricular septal defect, VSD (心室中膈缺損)'
   - 'Ventricular septal defect, VSD'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-最常見先天性心臟病之一；分流量取決於缺損大小與肺血管阻力。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+最常見先天性心臟病之一；分流量取決於缺損大小與肺血管阻力。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch03]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- ...ural elements \( \) microencephaly \( \) holoprosencephaly \( \) neural tube defect-meningomyelocele | | | CV | • TGA · VSD · coarctation of the aorta · PDA · single ventricle · hypoplastic left ventricle · pulmonary stenosis · left ventricle atresia and double outlet RV truncus arteriosus | | | GI | • Duodenal atresia · imperforated anus · Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...作息並不會造成困擾。但懷孕後,這些情況變的更厲害,有時走路久一點就會喘,需要停下來休息。檢查曉晴的眼結膜(conjunctiva)是粉紅色的,沒有貧血的跡象,聽診發現有心雜音,產科醫師懷疑有心臟方面的問題,於是安排心臟超音波,發現曉晴有一個心室中膈缺損約 1.6 平方公分。下列給曉晴的諮詢,何者錯誤? - (A) 根據紐約心臟協會(NYHA)對心臟功能的定義,曉晴懷孕前是屬於第二級(functional class II),但懷孕後已惡化為第三級(functional class III) - (B) 心室中膈缺損是一種先天性心臟病,這種是結構的異常並不 會遺傳給胎兒 - (C) 大的心室中膈缺損可能會進展為左心室衰竭及肺動脈高壓,當肺動脈阻力(pulmonary vascular Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- 【詳解】心室中膈缺損(VSD)是最常見的先天性心臟病,母親具有先天性心臟病,其子女發生先天性心臟病的比率會增加;母親具有 VSD,子女發生先天性心臟病之比率約 3~7%。[Ref: J Am Coll Cardiol. 2007;49:2303.] Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 1. 法洛氏四重症(Tetralogy of Fallot, TOF): - (1) 最常見的發紺型先天性心臟病,佔15~20%。 - (2) 四種異常為:心室中隔缺損(ventricular septal defect, VSD)、主動脈跨位 (aortic override)、右心室出口阻塞(right ventricular outflow tract obstruction, RVOTO)、右心室肥大(right ventricular hypertrophy)。(見下圖左) - (3) **心室中膈缺損**連帶影響主動脈與心室的連接,造成**主動脈跨位**至右心室,進而 佔據影響右心室的出口,右**心室出口受阻**(阻力變大),所以血流都從右 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (7) 處置:藥物可給予前列腺素(PGE1)維持動脈導管的通暢,以減緩陣發性呼吸 困難(缺氧性)。但如須完全矯正仍需要手術。 - a. 完全矯正手術 (total correction): - (a) 將 VSD 修補以及右心室出口或肺動脈狹窄處擴大術,以心包膜片(pericardial patch)來擴大狹窄的肺動脈瓣環(pulmonary valve annulus)。但假 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (b) 術後併發症: 傳導異常、殘餘的心室中膈缺損、殘餘的肺動脈狹窄、肺動脈瓣關閉不全、右心室衰竭、心肌梗塞、早發性心室傳導。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

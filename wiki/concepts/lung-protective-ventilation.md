@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch24]]"
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Lung-protective ventilation (肺保護性通氣)'
   - 'Lung-protective ventilation'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch24]]
 - [[sources/med3-book1-ch22]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- b. 因黃體素的作用,造成中樞對 $CO_2$ 的敏感度增加,使得橫膈運動增加,導致 relative hyperventilation;另外,潮氣容積(tidal volume)也增加,因而每分 通氣量(minute ventilation)增加, $CO_2$ 的排除增加,於是母血的二氧化碳濃度( $PaCO_2$ )降低,引起輕微呼吸性鹼中毒。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - TLC = total lung capacity 總肺容積 Vt = tidal volume 潮氣容積, 一般吸吐氣量 IC = inspiratory capacity 最大吸氣容積 FRC = functional residual capacity 功能性肺餘容積 ERV = respiratory revserve volume 吐氣保留容積, 一般吐氣保留之可吐氣容積 RV = residual volume 條肺容積, 無法利用來吸吐氣之容積 VC = vital capacity Source: [[sources/med5-book4-ch03|丙、肺]].
 - | Respiratory rate | 2 | > 70 mm Hg (FiO 2 of 40%) | | PaCO 2 | 2 O | | Rapid shallow breathing index, RSBI | ≤ 105 (70% will pass extubation)= respiratory rate/tidal volume [L] | Source: [[sources/med5-book4-ch03|丙、肺]].
 - (C) 潮氣量(tidal volume) 5~6 mL/kg Source: [[sources/med5-book4-ch03|丙、肺]].

@@ -2,9 +2,10 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Melasma / chloasma (肝斑)'
   - 'Melasma / chloasma'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-臉部對稱性色素沉著，與紫外線、荷爾蒙、懷孕或藥物相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+臉部對稱性色素沉著，與紫外線、荷爾蒙、懷孕或藥物相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch08]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- 因黃體素及雌激素對黑色素細胞的刺激,導致黑色素沉澱於全身各處,如 乳頭、腋下、會陰部、肛門、大腿內側等 - a. 黑色素沉澱肚皮白線 (linea alba), 使其成為黑線 (linea nigra) - b. 黑色素沉澱於臉上,形成肝斑 (melasma 或 cholasma) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - E. 肝斑 (Melasma/ Chloasma) 128 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 7. Hypermelanosis: 受基因、賀爾蒙 (Addison disease) 和紫外線曝曬影響。 - (1) 黑色素細胞增加,且黑色素分泌增加:例如曬斑(Solar lentigo)。 - (2) 黑色素細胞無增加,但黑色素分泌增加:例如雀斑(Freckle)、肝斑(Melasma)。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - # E. 肝斑 (Melasma/ Chloasma) Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].

@@ -67,6 +67,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/heparin|Heparin (肝素)]] - ACS 與血栓疾病抗凝治療常用，需注意 HIT。
 - [[drugs/her2-targeted-therapy|HER2-targeted therapy (HER2 標靶治療)]] - HER2 positive 乳癌等疾病的標靶治療，需注意 trastuzumab 心毒性。
 - [[drugs/hiv-prep-pep|HIV PrEP and PEP (HIV 暴露前與暴露後預防)]] - 高風險暴露前或暴露後抗病毒預防策略，時間與藥物組合需依現行 guideline 複核。
+- [[drugs/hpv-vaccine|HPV vaccine (HPV 疫苗)]] - 預防高風險 HPV 感染與相關癌前病變/癌症，接種建議依年齡與地區 guideline。
 - [[drugs/hydralazine|Hydralazine (肼屈嗪)]] - 動脈擴張降低 afterload，可與 nitrate 合用於心衰竭。
 - [[drugs/hydroxychloroquine|Hydroxychloroquine (羥氯奎)]] - SLE 與 RA 常用免疫調節藥，需注意視網膜毒性監測。
 - [[drugs/hypertonic-saline|Hypertonic saline (高張食鹽水)]] - 高張液可用於 IICP 或低血鈉矯正，需監測鈉上升速度與滲透壓。
@@ -89,7 +90,9 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/lithium|Lithium (鋰鹽)]] - mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血中濃度、腎功能、甲狀腺與交互作用。
 - [[drugs/loop-diuretics|Loop diuretics (亨利氏環利尿劑)]] - 改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。
 - [[drugs/macrolides|Macrolides (巨環內酯類)]] - 50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。
+- [[drugs/magnesium-sulfate-obstetrics|Magnesium sulfate in obstetrics (產科硫酸鎂)]] - 用於子癲前症/子癲症 seizure prophylaxis/treatment，也可用於早產神經保護；需監測反射、呼吸與尿量。
 - [[drugs/mannitol|Mannitol (甘露醇)]] - 滲透性利尿劑，可暫時降低顱內壓；需監測滲透壓、腎功能與容量狀態。
+- [[drugs/menopausal-hormone-therapy|Menopausal hormone therapy, MHT (更年期荷爾蒙治療)]] - 用 estrogen +/- progestin 改善更年期症狀與骨質，但需依子宮狀態、年齡、血栓/乳癌/心血管風險評估。
 - [[drugs/metformin|Metformin (二甲雙胍)]] - 第 2 型糖尿病常用一線藥物，可降低肝糖輸出並改善胰島素阻抗。
 - [[drugs/methotrexate|Methotrexate, MTX (甲氨蝶呤)]] - 抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。
 - [[drugs/methylphenidate|Methylphenidate (哌甲酯)]] - 中樞神經刺激劑，用於 ADHD；需注意食慾、睡眠、血壓心跳與物質濫用風險。
@@ -99,6 +102,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/nitrates|Nitrates (硝酸鹽類)]] - 擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。
 - [[drugs/nsaids|NSAIDs (非類固醇消炎藥)]] - 抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。
 - [[drugs/omalizumab|Omalizumab (抗 IgE 單株抗體)]] - 嚴重 allergic eosinophilic asthma 可考慮。
+- [[drugs/oxytocin-obstetrics|Oxytocin in obstetrics (產科 oxytocin)]] - 用於 induction/augmentation of labor 與產後子宮收縮；需監測 uterine tachysystole 與 fetal heart tracing。
 - [[drugs/p2y12-inhibitors|P2Y12 inhibitors (P2Y12 抑制劑)]] - ACS 或 PCI 後常與 aspirin 合併。
 - [[drugs/palivizumab|Palivizumab (RSV 單株抗體預防)]] - 高風險早產兒或特定心肺疾病嬰兒可用於 RSV 預防；適應症需依當地政策更新。
 - [[drugs/pde5-inhibitors|PDE5 inhibitors (第五型磷酸二酯酶抑制劑)]] - 增強 NO-cGMP 路徑改善勃起功能，與 nitrates 合用可造成危險低血壓。

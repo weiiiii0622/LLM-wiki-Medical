@@ -53,6 +53,8 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Biliary tract (膽道系統)'
   - 'Biliary tract'
@@ -67,7 +69,7 @@ tags:
 
 ## Summary
 
-膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -120,9 +122,15 @@ tags:
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- 註:有高血脂症、活動性膽囊疾病或血栓形成體質(thrombophilia)的婦女應避免使用口服雌激素。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...rtality ( Endometrial hyperplasia and carcinoma | ● Type II DM | | ( 單獨用 E) | ● Recurrent urinary tract infection | | • Gallbladder disease | ● Osteoarthritis | | Nephrolithiasis | ● Falls | | Urinary incontinence | ● Cataract | | Bronchospasm | Skin changes | | Dementia | | | Uterine myomas | | | • Epilepsy | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...1(二)專 | | | (A) 使用荷爾蒙可預防骨質疏鬆,建議長期使用 | 醫六 -31 | | | (B) 建議用最低有效劑量以避免副作用 | | | | (C) 有不確定診斷的陰道出血,使用荷爾蒙前應先做檢查 | | | | (D) 有膽囊疾病患者不建議使用荷爾蒙 | | | | 【詳解】目前 HRT 建議用為緩解停經症狀,不應單純為預防骨 | | | | 質疏鬆,且使用極低劑量的荷爾蒙補充和短期使用(2~3年內)。 | | | (C) | 5. 有關停經後婦女的骨質疏鬆(osteoporosis)的敘述,下列何者 | 101(一)專 | | | 錯誤? | 醫六-29 | | | (A) 適度的鈣及維生素 D 補充有助於預防骨質疏鬆 | | | | (B) 戒菸和戒酒可 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】懷孕期間應避免非緊急性手術,若非開刀不可(常見如:急性闌尾炎、卵巢扭轉、卵巢囊腫破裂和膽囊炎),則選在第二孕程為最安全的時候,以免影響胎兒的器官生成與降低早產的風險。手術後應監測是否早產,並及時安胎。Ref: Anesthesia Secrets 4th ed., Ch. 59 Fundamentals of Obstetric Anesthesia, p.417-418 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - C. 膽道閉鎖 (Biliary atresia) 175 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ...> 20%T.B. ,需進一步檢查。 - (a) 此診斷下包含了許多疾病,常見的 15 個疾病佔了 95% 病童發生的原因,而以不明原因新生兒肝炎(idiopathic neonatal hepatitis) 佔約 30~40% 最常見、膽道閉鎖(biliary atresia) 為第二常見、α1 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency)第三常見。 - (b) 進一步評估:尿液、血液(血球計數、凝血功能、α1-antitrypsin、albumin)、肝膽超音波、經皮肝臟穿刺、肝膽道閃爍攝影(現在幾乎不使用)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ### C. 膽道閉鎖 (Biliary atresia) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
@@ -137,10 +145,6 @@ tags:
 - 1. Type I:最常見(60~70%)。可見局部或全部的總膽管擴張,但是肝內膽管不受影響。 Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
 - ...Black stone:由膽色素、磷酸鈣等組成,較為堅硬,顏色深黑。好發於 Cirrhosis、hemolysis 的病人。 - (b) Brown stone (也可稱為 mixed stone):由膽固醇、膽色素、磷酸鈣所混合組成。與膽道感染(K.P infection)息息相關。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - 2. 治療:若為無症狀的膽結石,不需要做預防性的膽囊切除。但以下兩種情形必須做 預防性膽囊切除。 - (1) 膽囊壁鈣化 (gallbladder wall calcification): 由於慢性發炎,導致膽囊壁鈣化, 在影像學上又稱為**陶瓷膽囊** (**Porcelain gallbladder**)。在這種狀況容易有癌化 的產生,必須積極處理。 - (2) 幼童膽結石:小朋友的身上意外發現膽結石時,由於小朋友比較不會表達自己身上的疼痛,可考慮進行膽囊切除。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (2) Quality:以膽絞痛(biliary colic)為主要疼痛表現。由於結石卡在膽囊內或膽管中,當膽汁經過膽管排出時,受到結石的阻礙,引起膽囊與膽管不斷的收縮摩擦,導致絞痛。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 1. 解剖學上,可利用動、靜脈與肝管在肝臟內形成的自然界限,分為三個 divisions。 - (1) First divisions:左右兩半 (hemilivers)。 - a. 左右兩葉由膽囊窩(gallbladder fossa) 與下腔靜脈 (inferior vena cava)所分割而成。這條界線又可稱 之為 Cantlie's line, 走向約與 middle hepatic vein 一致。 - b. 左右兩葉各由一條肝臟動脈 (hepatic arterial branch)、膽管 (bile duct), 與門靜脈 (portal vein) 所支配。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- ...泌尿道的手術 例如:割雙眼皮、甲狀腺切除、乳房切除 | | Class II | Clean-contaminatedwounds | 1. 進入呼吸道、消化道或生殖泌尿道但無特殊感染的手術傷口2. 手術過程中無明顯汙染3. 例如:無感染性膽道或闌尾手術、Hysterectomy、Gastrectomy | | Class III | Contaminated | 開放性、新的、外傷傷口 胃腸道內含物溢出或手術過程中有些微感染者 有急性發炎但未化膿 | | Class IV | Dirty or infected wounds | 舊的、有壞死組織的外傷口 內臟穿孔 已有感染化膿的傷口 | Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- (1) 先天性膽道閉鎖(biliary atresia),是小兒換肝最常見的原因。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

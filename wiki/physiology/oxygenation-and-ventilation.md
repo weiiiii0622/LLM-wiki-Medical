@@ -41,6 +41,9 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Oxygenation and ventilation (氧合與通氣)'
   - 'Oxygenation and ventilation'
@@ -55,7 +58,7 @@ tags:
 
 ## Summary
 
-區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +99,15 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- b. 因黃體素的作用,造成中樞對 $CO_2$ 的敏感度增加,使得橫膈運動增加,導致 relative hyperventilation;另外,潮氣容積(tidal volume)也增加,因而每分 通氣量(minute ventilation)增加, $CO_2$ 的排除增加,於是母血的二氧化碳濃度( $PaCO_2$ )降低,引起輕微呼吸性鹼中毒。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 1. 簡介:口服避孕藥包括 combined estrogen-progestin oral contraceptives 和 progestin-only pills,兩者避孕效果相當,在正確使用下,僅不到 1% 的失敗率。目前的趨勢是減少 estrogen 的劑量及新型 progestin 的使用。 - (1) 口服避孕藥使用的 estrogen 為 ethinyl estradiol (效力比單獨 estradiol 高),過去使用高劑量 (>50~mcg),研究發現明顯增加心血管疾病和靜脈栓塞的風險。目前趨勢是低劑量使用 (2 下降,但 PaCO2 正常或下降)、V/Q scan mismatches、腿部 都普勒超音波和 CT pulmonary angiography。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...| | 或寡尿才考慮抽腹水 | | | | | | 目前觀念 積極抽腹水,只要有中度以上腹水,病人 | | | | | | 臨床上有不適即可抽腹水 | | | | | ・預防血栓 | (1) 診斷方法:arterial blood gas、ventilation/perfusion | | | | | | scan 和 CT scan。 | | | | | | (2) 預防方法: 穿彈性襪、給予 heparin (Hct > 55% 考 | | | | | | 慮給予 | ) • | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (D) 每分鐘涌氣量 (minute ventilation) > 9 L/minute Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) 適合手術切除之病患: - a. 原發性腫瘤已控制未復發。 - b. 能承受全身麻醉及單肺通氣,以及手術切除部分肺組織後有足夠的肺功能。 - c. 電腦斷層上可完全切除之病灶。 - d. 無其他肺外轉移腫瘤或可治療之肺外轉移腫瘤。 - e. 無其他替代治療。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 1. 機轉 & 成因:終端通氣空間(呼吸細支氣管和肺泡)擴張和破壞。 - (1) blebs:由開洞肺泡產生介於肺和肋膜間的肋膜下氣泡。 - (2) bullae:較 blebs 大的肋膜下氣泡,且合併肺實質破壞。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -114,9 +123,6 @@ tags:
 - 右心室(充氧血)→肺動脈→肺部血管(沒有氧合與換氣功能)→肺靜脈→左心 房→左心室→主動脈→髂動脈→臍動脈(缺氧血)→胎盤(氧合與換氣)→臍靜脈(充 氧血)→下腔大靜脈→右心房→右心室。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 右心室(缺氧血)→肺動脈→肺部血管(氧合與換氣)→肺靜脈(充氧血)→左 心房→左心室→主動脈→各分支動脈→微血管→上下腔大靜脈(缺氧血)→右心房→ 右心室。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 故面對此類題目不要往這幾個名詞或它的正常解剖功能上面鑽牛角尖,先想清楚 眼前病人左右心血液流動的方向、氧合與換氣是否足夠、四個瓣膜與四個房室隔間的 完整性、血液是否得到心室系統適當的加壓…等概念,再來解題。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- 中心靜脈壓 (central venous pressure),動脈壓 (arterial blood pressure),心輸出量 (cardiac output),混合靜脈血氧飽和度 (mixed venous oxygenation saturation) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- 1. 內在/局部因素:氧合作用及灌流不良、感染、異物、血腫、放射治療等都會使傷口的癒合變差,另外手術中適當的止血,減少不必要的電燒和 ligation,以及密閉性引流皆有助於傷口癒合。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- 7. SIRS (systemic inflammatory response syndrome):以下符合 2 個以上: - (1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfu Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

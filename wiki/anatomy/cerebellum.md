@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Cerebellum (小腦)'
   - 'Cerebellum'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-負責協調、平衡與動作修正，小腦病灶常表現 ataxia、dysmetria、nystagmus。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+負責協調、平衡與動作修正，小腦病灶常表現 ataxia、dysmetria、nystagmus。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...史而尋求 | | | | | | | | | | 生育諮詢者 | | | | | | | | | | c. 卵巢早衰者 ( 尤其有家族病史者 ) | | | | | | | | | | d. 有晚發型 intention tremor 或 ataxia 者 | | | | | | | | | | e. 母親為帶因者 (premutation),胎兒需進行產前診斷 | | | | | | | | | WEMD 1. fra add | le Y mental retardation 1 | | | | | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (B) cerebellum, banana sign Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】圖中箭頭所指為胎兒的小腦異常結構,小腦向枕骨大 孔突出,外形似香蕉,稱 banana sign。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...好發於55歲男性黑人(男女比2:1,黑人>白人>亞洲人)。 - b. 病因:分為遺傳性或偶發性兩類。 - (a) 遺傳性:體染色體顯性基因 - i. Von Hippel-Lindau (VHL) disease: 在多個器官產生腫瘤,包括小腦血管母細胞瘤、視網膜血管瘤、雙側腎透明細胞癌。 - ii. Hereditary papillary renal carcinoma:腫瘤的產生大多侷限在腎臟。 - (b) 偶發性:危險因子包括抽菸(2倍風險);暴露於石綿、有機溶劑、鎘; 洗腎;腎囊性病變。 - c. 病理學: - (a) 微觀:大多是混合型癌(mixed carcinoma,包含 clear cells、granular cell 或像 sarcomatoid 的細胞 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 3. 家族遺傳: - (1) Ataxia-telangiectasia • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (D) ataxia-telangiectasia Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -70,9 +75,6 @@ tags:
 - c. 出血在 prepontine 或 peduncular cistern → basilar apex 或上小腦動脈(SCA)。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - L. 神經解剖學複習 2 - A. 大腦 (Cerebrum) 2 - B. 基底核 (Basal ganglia)、小腦 (Cerebellum) 5 - C. 間腦 (Diencephalon) 7 - D. 腦幹 (Brain stem) 8 - E. 十二對腦神經 (Cranial nerve) 8 - F. 周邊感覺輸入 15 - G. 運動命令輸出 18 - H. 重點結論 19 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - #### B. 基底核 (Basal ganglia)、小腦 (Cerebellum) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- | 分葉 | 位置 | 演化 | 功能 | |-------|------------------------|-----|--------------| | 小葉結節葉 | 蚓突的前下方 | 古小腦 | 維持平衡 | | 前葉 | 左右半球前內側 (Intermediate) | 舊小腦 | 協調運動執行、調節肌張力 | | 後葉 | 左右半球後外側 (Lateral) | 新小腦 | 計畫運動、協調精細運動 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (C) spinocerebellar ataxia type III Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (5) 侵犯到小腦,可能導致走路不穩、眩暈等。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 
 ## Clinical Caveats
 

@@ -16,6 +16,11 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Venous thromboembolism, VTE (靜脈血栓栓塞)'
   - 'Venous thromboembolism, VTE'
@@ -30,7 +35,7 @@ tags:
 
 ## Summary
 
-深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +51,20 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- (D) 5. 對於進行婦科大手術的病人,為了防止深部靜脈血栓症(deep vein thrombosis),下列何種處置最佳? Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 【詳解】深部靜脈血栓症的預防方式包括:儘早下床活動、補 充水分、(A) 彈性襪壓迫和 (D) 氣式腿部間歇性壓迫等,以(D) 為最佳。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (C) deep vein thrombosis Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (C) 靜脈血管栓塞 (venous thromboembolism) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- (B) 2. 小英懷孕 18 週,懷孕前就有甲狀腺機能亢進並服用藥物控制。 99( ) 專 懷孕後自行停藥,也沒再回內科追蹤。在婦產科門診,醫師幫她 醫六 -32 安排抽血檢查,發現 T3、T4 值都很高,有 Overt thyrotoxicosis, 醫師告誡她必須要好好服藥控制,不然會有很多併發症。下列 何者不是小英之疾病常見的併發症? - (A) 早產或死胎 (preterm delivery or stillbirth) - (B) 深層靜脈阻塞 (deep vein thrombosis) - (C) 心臟衰竭 (heart failure) - (D) 子癇前症 (preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...-----------------------------------------|-------------------------------------| | • Stroke | Osteoporotic fracture | | Venous thromboembolism | ● Colorectal cancer | | • Coronary heart disease (E+P, > 60 y/o) | ● Coronary heart disease ( 5 yrs) | ● Mortality ( Endometrial hyperplasia and carcinoma | ● Type II DM | | ( 單獨用 E) | ● Recurrent urinary tract infect Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (C) 深部靜脈血栓 (deep vein thrombosis) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ii. 根除性膀胱切除(radical cystectomy): 切除所有前骨盆腔器官。對 侵犯肌肉層(T2)的膀胱癌是黃金標準(gold standard)治療,另外 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術。注意此手術為大手術,故術前需停止服用抗凝血劑一週。且由於手術時間長,故腿部深層靜脈血栓可能於術後發生,手術的死亡率約為 2%。 - (i) 移除所有前骨盆腔器官。 - ①男性:移除膀胱及周圍脂肪、前列腺、儲精囊。 - ②女性:移除膀胱及周圍脂肪、卵巢、子宮、子宮頸、陰道上三分之一、尿道。(注意:骨盆淋巴結摘除與否,對預後無助益。) - (ii) 術後復發:復發率 10%,通常在三年內發生。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...ystectomy)的敘述,何者錯誤? (A) 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術(B) 術前不必停止服用 aspirin (C) 腿部深層靜脈血栓可能於術後發生(D) 手術的死亡率約為 1~3% | 108(二)專醫五-66 | | (D) | 5. 有關膀胱尿道逆流(vesicoureteral reflux)發生原因的敘述,下列何者錯誤? (A) 小孩有尿道感染時容易發生 (B) 膀胱三角肌無力(trigonal weakness) (C) 完全尿道複製(complete ureteral duplication) (D) 前膀胱頸局部切除(wedge resection o Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
@@ -61,12 +77,6 @@ tags:
 - 1. 周邊靜脈血栓經血液循環流到肺動脈並塞住,而血栓來源大多是下肢深層靜脈拴。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 2. 危險因子同 DVT: Virchow's triad。 - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、Antithrombin III deficiency、Antiphospholipid syndrome 等。 - (3) Endothelium injury: 靜脈內皮細胞受損, 例如手術( 髖關節或膝關節手術) 外傷、 之前有過 DVT。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ...)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 (B)合併症較少 (C)腸道黏膜(intestinal mucosa)較不易萎縮 (D)易引發吸入性肺炎(aspirat Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (B) 施打靜脈血栓溶解劑 (intravenous tissue plasminogen activator) Source: [[sources/med5-book1-ch12|丙、顱內壓]].
-- (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (A) 給予靜脈血栓溶解劑(rt-PA)治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 2. 西方常見但台灣罕見的 Factor V Leiden 是因為病患對 Activated Protein C resistance,雖然不是缺乏,但體內也是呈現高凝固狀態。西方國家的 Deep vein thrombosis (DVT)中有 50% 是因為 Factor V Leiden。 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- ...心室過勞肥大、肺動脈膨大。 | | |-----|---------------------------------------------------------|--------| | (D) | 2. 一位 30 歲臺灣人左手發生深層靜脈血栓(deep vein thrombosis, DVT), | | | | 回顧其家族史,他的哥哥在 35 歲時死於肺栓塞。下列何者最不可能是這位病人 DVT 發生的原因? | 醫三 -43 | | | (A) protein C deficiency | | | | (B) protein S deficiency | | | | (C) antithrombin III deficiency | | | | (D) factor V Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 
 ## Clinical Caveats
 
@@ -75,7 +85,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[drugs/menopausal-hormone-therapy|Menopausal hormone therapy, MHT (更年期荷爾蒙治療)]]
+- [[conditions/ovarian-hyperstimulation-syndrome|Ovarian hyperstimulation syndrome, OHSS (卵巢過度刺激症候群)]]
 
 ## Follow-up
 

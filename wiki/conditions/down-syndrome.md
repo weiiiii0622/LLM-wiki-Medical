@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Down syndrome / Trisomy 21 (唐氏症)'
   - 'Down syndrome / Trisomy 21'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-第 21 對染色體三體症，與先天心臟病、腸胃道異常、甲狀腺與血液疾病風險相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+第 21 對染色體三體症，與先天心臟病、腸胃道異常、甲狀腺與血液疾病風險相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,13 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...後會迅速被清除,正常情 | | | | | | 況下,產後2天即可完全清除。 | | | | | 安全性 | ・非侵入性、無流產、無感染風險 | | | | | 準確性 | NIPT 目前的檢測率如下(單胞胎) | | | | | | • Trisomy 21: 99.5% • Trisomy 18: 97.7% • Trisomy 13: 96.1% | | | | | 應 用 | · 為篩檢工具,篩檢陽性仍須侵入性檢查 ( 如羊膜穿刺或絨毛 | | | | | | 取樣)進一步確診。 | | | | | 限制 | 檢測失敗的比率約 1~5%,而以下情況會造成胎兒游離 DNA 比 | | | | | | 例下降,導致檢測失敗 | | | | | | ・ 孕期 10 週前採血 ・ 檢體採集或 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- c. 第二孕期(15~18 週):四指標母血唐氏症篩檢包括 AFP(alpha-feto protein)、 β-HCG,uE3 和 inhibin A;準確率 83%。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (3) 關聯疾病:早產、唐氏症(Down syndrome)、羊水過多(polyhydramnios)、 腸胃道轉位異常(malrotation)、環狀胰(annular pancreas)及膽道閉鎖(biliary atresia)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...n | | | | (D) 安排開腹手術 | | | | 【詳解】確診後仍需評估消化道之阻塞情形。 | | | (A) | 4. 承上題,下列何種症候群較可能同時發生在該病嬰? | 99(一)專 | | $(\Lambda)$ | (A) Down syndrome (B) Peutz-Jeghers syndrome | 醫五-25 | | | | 酉 北 ~ 20 | | | (C) Mikulicz's syndrome (D) Zollinger-Ellison syndrome | | | (B) | 5.「Double-bubble sign」與下列何種疾病有關? | 98(二)專 | | | (A) 肥厚性幽門阻塞(hypertrophic pyloric stenosis) | 醫 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (3) 單純肛門閉鎖未合併瘻管(Imperforate anus without fistula)。 - a. 佔無肛症嬰兒 5%。 - b. 此型病嬰約有 50% 合併唐氏症。 - c. 唐氏症病嬰若合併無肛症,約有90%屬於此類型。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -66,9 +71,6 @@ tags:
 - (D) 唐氏症候群(Down syndrome) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (C) 唐氏症(Down syndrome) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - 3. 危險因子:某些特殊疾病的病童得到 ALL 機會比一般人高。 **Down syndrome**、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman syndrome、**Klinefelter syndrome、Turner syndrome**、 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 3. 某些物質或疾病與 AML 有關連性,如放射線暴露(ionizing radiation)、化學物質(alkylating agents、epipodophyllontoxin)、有機溶劑、陣發性夜間血紅素尿症(paroxysmal nocturnal hemoglobinuria, PNH)、Down syndrome、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman-Diamond syndrome、Neurofibromatosis type I、Li-Fraumeni syndrome、Kostmann syndrome. Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- (A) Down syndrome endocardial cushion defect Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (2) 約30%有 Down syndrome。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

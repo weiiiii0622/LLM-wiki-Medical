@@ -25,6 +25,9 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Hypocalcemia (低血鈣)'
   - 'Hypocalcemia'
@@ -39,7 +42,7 @@ tags:
 
 ## Summary
 
-低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +67,15 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...ist ( \display intracellular Ca) | ・無 | ・ 過敏・ 注射部位疼痛 | | | MgSO 4 (註2) | 拮抗 Ca 離子 | ・重症肌無力 ・肺水腫 | ・ 心悸、頭痛、噁心嘔吐、燥熱・ 肺水腫・ 低血鈣、低血壓 | 監測血液 Mg濃度、呼吸、DTR 和尿量 中毒徵象: (1) DTR ↓ (2) 麻痺、呼吸急促 (3) 心臟傳導 | | Nitroglycerinor Glyceryltrinitratepatch | Nitric oxidedonors(↑ cGMP,平滑肌放鬆) | ・低血壓・心臟病(如主動脈瓣閉鎖不全) | 頭暈、噁心嘔吐、潮紅、心悸、頭痛低血壓 | | | 註 1:Ritodrine · 為唯一通過美國 FD Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...生產 (如 vacuum、forceps)機率高 | | | | 新生兒 | · 三高二低:呼吸窘迫症候群、紅血球增多症 (polycythemia) 和高膽紅 | | | | | 素血症 (hyperbilirubinemia)、低血糖、低血鈣 | | | | | ・心肌病變、新生兒死亡 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...做為預防骨質疏鬆的第一線用藥。(治療為第二線)●可減少乳癌風險,但是會增加熱潮紅與靜脈栓塞風險。 | | | RANKL inhibitor | Denosumab | ●皮下注射(一年兩次),可抑制RANKL(蝕骨作用的蛋白質)。●要注意低血鈣、皮膚注射反應與嚴重感染的副作用。 | | | Estrogen/progestin | | ●雖然雌激素可預防停經後女性的骨質疏鬆,但 WHI 指出有其他風險(乳癌、心血管疾病和靜脈栓塞等)的代價,因此不建議做為第一線用藥。(詳見 F. 停經及荷爾蒙治療) | | 增加骨質生成 | Parathyroidhormone (PTH) | Teriparatide | ● 雖然 PTH 的作用是讓骨骼釋出鈣,但間斷性使用可刺激骨質生成。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (C) 經常合併出現低血鈣和肝功能異常 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - | | 原發性 | 次級 | 三級 | |-----------|-------------------------------|-------------------------------------------|--------------------------------------| | 說明 | 副甲狀腺不正常增生。(80% 是 adenoma) | 外在因素造成副甲狀腺機能亢進 (ex: CKD,Vit D 缺乏) | 長期低血鈣導致副甲狀腺異常增生,PTH 刺激造成高血鈣。 | | Ca++ | 1 | ↓ | ↑ | | Phosphate | ↓ | 1 | ↑ | | PTH | 1 | ↑ | 1 | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (B) 低血鈣症 (hypocalcemia) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -82,9 +91,6 @@ tags:
 - (D) 可能會產生嚴重的低血鈣而致命 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 【詳解】氫氟酸會釋放氫離子,產生與強酸類似的局部腐蝕效果及脫水症狀(coagulation necrosis);另外氟離子的組織穿透力高,會和體內的鈣或鎂結合成不溶性的鹽類,造成低血鈣和低血鎂,進而引發心律不整、抽搐、死亡。氫氟酸灼傷形成的水泡都應予以弄破並除去其中可能殘留氟離子的任何壞死組織,水泡底面,應塗以含鈣或鎂的乳膠,以對抗氟離子所造成的毒性。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...造成高血鉀,另外病人大都存在休克狀態,其體內的醛固酮、 抗利尿及皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損傷 (transfusion-related acute lung injury, TRALI): 輸血後 6 小時內發生, 臨床症狀有急性呼吸困難、非心因性肺水腫、血壓降低及體溫升高。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (B) 在神經症狀部分,可能會出現抽搐(twitching)、強直 (tetany)、癲癇、昏迷,甚至死亡 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 【詳解】由題目敘述可知道病人有發紺型先天性心臟病。右手血壓明顯高於其他三肢,表示主動脈在左右手分枝之間出現異常,有可能是斷裂造成(interrupted aortic arch with PDA),亦即type B IAA。Type B IAA 很常合併 CATCH22 syndrome。這類病人常有臉部發展異常、胸腺發育不良或是有副甲狀腺低下造成低血鈣。故選(D)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

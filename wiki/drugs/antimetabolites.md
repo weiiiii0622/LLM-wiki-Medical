@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch09]]"
 aliases:
   - 'Antimetabolites (抗代謝藥物)'
   - 'Antimetabolites'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch09]]
 
 ## Key Details From Sources
 
+- 【詳解】最常造成手足症候群之化療藥物包括 cytarabine, liposomal doxorubicin, capecitabine 和 5-fluorouracil (5-FU) 等。 Ref: UpToDate: . Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- 【詳解】(B) gemcitabine 是屬於 nucleoside analog,抑制 DNA 複製。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (e) 免疫治療: - i. 對於不適用 cisplatin 化學治療的病人,腫瘤若表現 PD-L1 基因可第一 線考慮使用 Atezolizumab 或 Pembrolizumab 免疫治療 - ii. 在 Cisplatin-based 化學治療失敗後,第二線可考慮 Pembrolizumab - iii. 對於第一線使用 Pembrolizumab 治療,腫瘤仍無法控制的病患,後續 Carboplatin/Gemcitabine 化學治療依然可使用 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].

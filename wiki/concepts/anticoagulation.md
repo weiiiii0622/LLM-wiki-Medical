@@ -42,6 +42,11 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch16]]"
 aliases:
   - 'Anticoagulation (抗凝治療)'
   - 'Anticoagulation'
@@ -56,7 +61,7 @@ tags:
 
 ## Summary
 
-血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -98,9 +103,24 @@ tags:
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch16]]
 
 ## Key Details From Sources
 
+- (3) 治療:LMWHs,接著使用 warfarin;瀰漫性肺栓塞可考慮血栓溶解治療,但伴隨有出血的風險;無法使用抗凝血治療,可以使用下降靜脈 filter。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (B) low-dose heparin Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (C) standard-dose heparin (D) external pneumatic leg compression Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 【詳解】懷孕狀態會使得凝血及抗凝血途徑皆受影響,不過, 淨效應是傾向凝血功能增加。就凝血因子來看,factor II、VII、 VIII、X、XII 和 XIII 會增加 20~200%; factor V、IX 亦會些許 增加。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...限制 | 檢測失敗的比率約 1~5%,而以下情況會造成胎兒游離 DNA 比 | | | | | | 例下降,導致檢測失敗 | | | | | | ・ 孕期 10 週前採血 ・ 檢體採集或處理不當 | | | | | | ・ 孕婦肥胖・ 使用抗凝血劑 | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...40~50% 仍為不明原因。 - a. 反覆性流產的五大類成因中,免疫因素為最重要的成因;而造成第二孕程流 產最重要的原因為子宮因素。 - b. 對於不明原因之反覆性流產,可考慮給予 progesterone、hCG、aspirin & heparin、IVIG等,不過,臨床實證皆不足(僅 progesterone 有較多的實證),需要更多的研究來證實其效用。 - (2) 有些造成流產的原因,如個人因素(如肥胖、壓力大)、個人習慣(如抽菸、飲酒過量、咖啡過量)、環境因素(如化學物質、空氣汙染)和感染…等,可能和單次流產有關,和反覆性流產不一定相關。不過,生活方式和習慣的調整仍是必須的。 - (3) 此外,男性精蟲的品質和女性卵子的品質也可以列入評估,品質不佳的精蟲或 卵子確實會造成自 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...| | 免疫因素(25%) | · Antiphospholipid syndrome | · Anticardiolipinantibodies(IgG 和 IgM)· Lupus anticoagulant | · Aspirin + heparin | | 內分泌因素(20%) | ·糖尿病控制不佳·多囊性卵巢症候群·甲狀腺疾病(亢進、低下、自體抗體)·高泌乳素血症·黃體機能缺陷 | ・糖尿病和多囊性卵巢症候群篩檢・甲狀腺功能和抗體・血中泌乳素 | · 控制甲狀腺功能和糖尿病 · 多囊性卵巢症候群使用 Metformin 治療 · 高泌乳素血症使用 Bromocriptine 治療 | | 遺傳因素 (3~5%) | · 染色體數量異常(最常見的為 aneuploidy)· 染色 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...| | ・預防血栓 | (1) 診斷方法:arterial blood gas、ventilation/perfusion | | | | | | scan 和 CT scan。 | | | | | | (2) 預防方法: 穿彈性襪、給予 heparin (Hct > 55% 考 | | | | | | 慮給予 | ) • | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...病灶或注射類固 | | | 醇,對緩解症狀有幫助 | | 膀胱灌注藥物 | · 以導尿管將藥物直接灌入膀胱,通常作為急性發作的治 | | | 療,不過,也可用作長期的慢性治療 | | | ・可合併多種藥物一起灌注,如 lidocaine, heparin | | | hyaluronic acid 或 DMSO (註 2) | Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - (B) 冰敷,並且給予抗凝血劑,以免血管阻塞 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 【詳解】有心房震顫、右小腿腫脹且有 pulse 及 Homans' sign, 皆為深部靜脈之栓塞症的表現。下肢骨骨折流血量相對較多,也 較容易形成血栓,在術後常會給予一些抗凝血藥物預防血栓發生。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - ii. 根除性膀胱切除(radical cystectomy): 切除所有前骨盆腔器官。對 侵犯肌肉層(T2)的膀胱癌是黃金標準(gold standard)治療,另外 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術。注意此手術為大手術,故術前需停止服用抗凝血劑一週。且由於手術時間長,故腿部深層靜脈血栓可能於術後發生,手術的死亡率約為 2%。 - (i) 移除所有前骨盆腔器官。 - ①男性:移除膀胱及周圍脂肪、前列腺、儲精囊。 - ②女性:移除膀胱及周圍脂肪、卵巢、子宮、子宮頸、陰道上三分之一、尿道。(注意:骨盆淋巴結摘除與否,對預後無助益。) - (ii) 術後復發:復發率 10%,通常在三年內發生。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
@@ -109,16 +129,6 @@ tags:
 - 5. 治療: - (1) 穿彈性襪 (compression therapy)。 - (2) 先使用 heparin 維持 INR 2~3, 之後改用 Warfarin 維持,至少吃三個月到六個月,如果復發則建議吃終身。 - (3) 靜脈血栓清除術(venous thrombectomy): 以導管進入阳塞的靜脈清除血栓。 - (4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (B) 深部靜脈栓塞,且不適合使用抗凝血劑 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (D) 在足量之抗凝血劑治療下,仍反復多次靜脈栓塞 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 3. 不同於傳統的體外循環(CPB): ECMO 為密閉性管路,無 CPB 的儲血裝置,且人工血管管路是內有肝素塗層,具有抗凝作用的管道,裝置時多數無需開胸手術,無需強烈的抗凝藥物使用,減少了出血的併發症。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (2) 血栓生成,故須使用大量抗凝血劑,但反而可能造成出血的情況。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (D) 10. 下列有關 microvascular surgery 時使用 anticoagulant 運用的敘述, 106( ) 專 何者錯誤? 醫五-21 - (A) low dose aspirin 的 anti-platelet 效果不錯 - (B) heparin 可全身性或局部使用 - (C) fibrinolytic agent 於 microanastomosis thrombosis 時有幫忙 - (D) 使用 anticoagulant 可使 free flap transfer 之成功率大量提高 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- 【詳解】(D) 抗凝血劑對於 free flap 的成功率沒有顯著幫助。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- (d) 瓣膜置換手術 (mitral valve replacement): 若患者瓣膜嚴重狹窄、閉鎖,瓣膜和周圍組織嚴重鈣化,以及同時伴有嚴重 MR,則採用瓣膜置換手術,可選用機械性或生物性瓣膜。 - i. 機械性瓣膜:有較佳的動力學效果且耐久,但病人須終身服用抗凝血劑。血栓栓塞率高,假使血塊卡住瓣膜,會造成功能失效,引起急性肺水腫,也易感染心內膜炎,且難以控制。 - ii. 生物性瓣膜: 血栓栓塞機率較低,抗凝血劑只需短期服用約3~6個月,但較無耐抗力,大約能使用10~20年,適用年紀較長者,因瓣膜失效時大約也已不久於世。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- (d) Ross procedure: 連同主動脈瓣拿掉一段主動脈,將肺動脈連同肺動脈瓣 (autograft) 截取一段去修補主動脈,再從器捐者取得的肺動脈(allograft) 去修補缺少的肺動脈。好處是不需服用抗凝血劑,且置換的肺動脈瓣能 隨著病患成長而跟著長大,對於小孩或年輕人是不錯的選擇。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 5. 治療:抗凝血劑 heparin。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (C) 1. 病患手術前有使用 vitamin K antagonist (VKA),例如 warfarin, 109(二)專 會增加手術中出血的機會;一般在 elective surgery 前,建議先停 藥5天以上,讓 international normalized ratio (INR)上限低於 多少以下,再進行手術? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 

@@ -26,6 +26,8 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Hyperviscosity syndrome (高黏滯症候群)'
   - 'Hyperviscosity syndrome'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-血漿蛋白或細胞成分過高造成黏滯度上升，可有視覺、神經與出血症狀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血漿蛋白或細胞成分過高造成黏滯度上升，可有視覺、神經與出血症狀。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,13 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- | VDRL \ RPR | 酵素免疫分析 EIA (enzyme immunoassay) 的方式值 | |------------------|--------------------------------------| | | 測梅毒抗體 IgM 和 IgG,作為篩檢(可能有偽陽性) | | FTA-ABS > TP-MHA | 確認梅毒病原體 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...素治療 慢性子宮內膜炎可給予抗生素治療 若無法手術修復,只能考慮代理孕母或領養 | | 免疫因素(25%) | · Antiphospholipid syndrome | · Anticardiolipinantibodies(IgG 和 IgM)· Lupus anticoagulant | · Aspirin + heparin | | 內分泌因素(20%) | ·糖尿病控制不佳·多囊性卵巢症候群·甲狀腺疾病(亢進、低下、自體抗體)·高泌乳素血症·黃體機能缺陷 | ・糖尿病和多囊性卵巢症候群篩檢・甲狀腺功能和抗體・血中泌乳素 | · 控制甲狀腺功能和糖尿病 · 多囊性卵巢症候群使用 Metformin 治療 · 高泌乳素血症使用 Bromocriptine 治療 | | 遺 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ...ection) 的敘述,何者有誤? (A) 一般而言, Donor 與 Recipient 的 HLA matching 愈佳,則 graft survival rate 愈好 (B) Hyperacute rejection 的發生需要 IgM antibodies 的媒介,可藉由使用抗排斥藥物加以預防 (C) Acute rejection 的發生需要 T lymphocytes 的媒介,發生頻率愈高, graft 的長期預後較差 (D) Chronic rejection 的發生與 T cell 與 B cell 有關,移植器官的主要病理變化為 fibrosis and scarring 【詳解】超急性排斥反應是因血型不符合,或是受贈者體內有 | 98(一)專醫五-1 | Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 2. 低血鈉 (hyponatremia): - (1) SAH 後 ANP(心房排鈉素)和 BNP的分泌造成 hyponatremia 和 hypovolemia (cerebral salt wasting, CSW),需和 SIADH (euvolemia or hypervolemia)作鑑別診斷,因兩者處理方式不同,CSW 是補水而 SIADH 是限水。 - (2) Hypovolemia 會增加血易黏稠度 (blood viscosity),加重 vasospasm 的嚴重度。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
@@ -85,8 +91,6 @@ tags:
 - ...bsets 顯示 CD3+ 2%、CD4+ 1%、CD8+ 1%、CD19+ 85%、CD16+ CD56+(NK cell) 5%;immunoglobulin(Ig)level 顯 示 IgG 86 mg/dL、IgA 5 mg/dL、IgM undetectable、IgE 2週(通常≥39℃)。常合併鮭魚色 (salmon-colored)的暫時性紅疹。 - (2) 新的 ILAR classification for juvenile idiopathic arthritis 則將 JIA 分為 7 類: - a. Systemic-onset JIA: $\ge 1$ 個關節有關節炎,伴隨或先前有至少兩週的發燒,其中至少三天為 quotidian fever(每天發 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...準則之一? (A) 淋巴球 2,200/mm³ (B) 24 小時肌酐廓清率(creatinine clearance rate)45 ml/min/1.73 m² (C) positive anticardiolipin IgG and IgM (D) 補體 C3:60 mg/dL, C4:9.87 mg/dL 【詳解】(A) 應該小於 1,500/mm³。(B) 腎臟病變應該是每日大於 0.5 g 的蛋白尿 / 蛋白尿 > +3 或是尿中有 cellular cast。(D) C3 與 | 102(二)專醫四-23 | | (C) 11 | C4 應該是低下。 . 有關全身性幼年型類風溼性關節炎(systemic-onset juvenile idiopathic arth Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 3. Cold hemagglutinin 和 warm hemagglutinin - (1) AIHA 中參與溶血的自體抗體有兩大類。 - a. 一類是 IgG,在與人體體溫的溫度時與紅血球表面上的蛋白質抗原發生反應,稱為 warm hemagglutinin。大部分案例是 idiopathic。 - b. 另一類是 IgM,在低於體溫時,發生反應,稱為 cold hemagglutinin。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (B) 對於紅血球過多所引起之 hyperviscosity,第一線的解決方法是 phlebotomy Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- ...Mitomycin C 和下列何種症候群有關? | 104(一)專 | | | (A) hand-foot syndrome | 醫三-53 | | | (B) hemolytic uremic syndrome | | | | (C) hyperviscosity syndrome | | | | (D) capillary leak syndrome | | | (D) | 9. 下列何者不是 doxorubicin 的副作用? | 103(二)專 | | | (A) 骨髓抑制 | 醫三-44 | | | (B) 心臟毒性 | | | | (C) 噁心 | | | | (D) 腎毒性 | | | (C) | 10. 下列腫瘤在 advanced stage 時仍有治癒之可能,何者除外? | 1 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 
 ## Clinical Caveats
 

@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Acute limb ischemia (急性肢體缺血)'
   - 'Acute limb ischemia'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-動脈急性阻塞造成 limb-threatening ischemia，典型以 pain、pallor、pulselessness、paresthesia、paralysis、poikilothermia 評估。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+動脈急性阻塞造成 limb-threatening ischemia，典型以 pain、pallor、pulselessness、paresthesia、paralysis、poikilothermia 評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book4-ch10]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...| | (A)約 70%子宮頸癌病人之腫瘤內可以驗出第 16 型或第 18 型人 | 醫六 -49 | | | 類乳突病毒 | | | | (B) 子宮頸癌最常見的人類乳突病毒為第 18 型 | | | | (C) 人類乳突病毒透過其 E6 protein、E7 protein 和子宮頸癌上皮 | | | | 細胞之 p53 protein、Rb protein 分別作用,而引起細胞增生 | | | | 進而癌化 | | | | (D) 人類乳突病毒為環形 DNA 病毒 | | | | 【詳解】(B) High risk (oncogenic) type的 HPV 以 16, 18 最常見, | | | | 佔 70%,而 16 又比 18 更常見,故子宮頸癌最常見的人類乳突 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (1) Sabiston Textbook of Surgery, 20 ed, Ch.66 P.1865 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - 【 詳解 】有 pain、pale、pulseless 等 6 P 症狀,輔以病人的 underlying ( 高血壓、抽菸 ),懷疑是急性動脈阻塞,此時首選 即為 embolectomy 或 thrombectomy。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 

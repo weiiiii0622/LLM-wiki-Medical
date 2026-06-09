@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book2-ch07]]"
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Achalasia (食道弛緩不能)'
   - 'Achalasia'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-下食道括約肌放鬆不全與食道蠕動異常造成吞嚥困難。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下食道括約肌放鬆不全與食道蠕動異常造成吞嚥困難。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book2-ch07]]
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ※年輕女性可用 Z-score 來評估,若 Z-score 分鐘的直立坐姿,以減少腸胃副作用(胃食道逆流與食道潰瘍)。●相對禁忌症為食道的硬皮症、遲緩不能 (achalasia) 或窄縮。●不應使用在 Barrett's esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服雙磷酸鹽的副作用或無法配合口服需求時使用。 | | | Selective Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - D. 食道失弛緩症(Achalasia) 85 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 1. 最常見的食道憩室,好發於 60~70 歲之間,因為隨老化組織失去彈性和肌肉失去張力所致。通常在 Killian's triangle 發生脫疝,為一位於甲咽肌和環咽肌之間之結構。隨著憩室變大,其黏膜層和黏膜下層會由左側向外脫疝到上縱隔腔和脊椎前空間,經常被當作環咽肌弛緩不能(cricopharyngeal achalasia)。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### D. 食道失弛緩症(Achalasia) Source: [[sources/med5-book4-ch05|戊、食 道]].

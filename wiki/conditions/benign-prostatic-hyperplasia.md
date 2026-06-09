@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch12]]"
 aliases:
   - 'Benign prostatic hyperplasia, BPH (良性攝護腺增生)'
   - 'Benign prostatic hyperplasia, BPH'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-攝護腺 transition zone 增生造成 LUTS 或 bladder outlet obstruction，治療依 IPSS、攝護腺大小與併發症決定。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+攝護腺 transition zone 增生造成 LUTS 或 bladder outlet obstruction，治療依 IPSS、攝護腺大小與併發症決定。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch12]]
 
 ## Key Details From Sources
 
+- 註:tamsulosin(α la-selective alpha blocker)可放鬆膀胱頸、治療 BPH 的症狀。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
+- ...| • 測量膀胱在儲存和排空時的壓力和容積 | | (膀胱功能檢查, CMG) | • 可評估膀胱的感覺、容量和順應性及逼尿肌活動 | | Uroflowmetry | ・測量尿流速 | | (尿流速測定) | ・雖然男性較常見低尿流速 (BPH),但女性仍適用於頻 | | | 尿、急尿、排尿困難和骨盆腔手術前的評估 | | Pressure-flow study | ・測量尿流速與壓力變化的關係 | | (膀胱壓力和尿流速測定) | ・區別低尿流速是因尿路阻塞或逼尿肌無力(註1) | | Urethral pressure profile | ・測量尿道壓力和功能性尿道長度(註2) | | (尿道壓力測定,UPP) | ・區別內因性括約肌無力和真性應力性尿失禁 | | Lea Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - B. 良性攝護腺增生 (Benign prostatic hyperplasia, BPH) 85 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - #### B. 良性攝護腺增生 (Benign prostatic hyperplasia, BPH) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 1. 流行病學: - (1) BPH 盛行率: 60 歲 60%、80 歲 80%。 - (2) LUTS 症狀盛行率: 60歲 30%、80歲 50%。注意有 BPH 不一定有 LUTS。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].

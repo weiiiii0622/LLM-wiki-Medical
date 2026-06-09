@@ -26,6 +26,8 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Hypoglycemia (低血糖)'
   - 'Hypoglycemia'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血糖過低可由胰島素、促泌劑、禁食或內分泌疾病造成。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,14 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...及器械性生產 (如 vacuum、forceps)機率高 | | | | 新生兒 | · 三高二低:呼吸窘迫症候群、紅血球增多症 (polycythemia) 和高膽紅 | | | | | 素血症 (hyperbilirubinemia)、低血糖、低血鈣 | | | | | ・心肌病變、新生兒死亡 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- 註:胎兒在子宮內暴露高血糖,造成胎兒高胰島素血症,出生後容易低血糖。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- b. 為維持胎兒的血糖,人類胎盤泌乳素(human placental lactogen, HPL)作用, 使孕婦對胰島素敏感度下降,降低組織利用,而產生餐前低血糖、飯後高血 糖和高胰島素濃度。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】Beckwith-Wiedemann syndrome 包含臍膨出(omphalocele)、高胰島素低血糖症(hyperinsulinemia with hypoglycemia)、巨舌(macroglossia)、巨內臟(visceromegaly)。常併發或關聯之疾病:臍膨出、威爾氏腫瘤(Wilms' tumor)、橫紋肌肉瘤(rhabdomyosarcoma)、肝母細胞瘤(hepato-blastoma)、神經母細胞瘤(neuroblastoma)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】考%數是一個很討厭的考法。HCC 的四大 paraneo-plastic syndrome 包含 erythrocytosis ,hypoglycemia,hyperchole-sterolemia,hypercalcemia,比較常見的發生率是寫 40% 左右,但也有 paper 寫在 10~20%。比例就僅供參考,重點還是要知道有 paraneoplastic syndrome 這回事。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -84,9 +91,6 @@ tags:
 - (D) 20. 承上題,在由靜脈輸入全血、血小板及新鮮血漿後,第3個小時 出血量減少至300毫升左右,但第4個小時減少至50毫升左右, 同時病人心跳加速至每分鐘120次左右,血壓降至心縮壓約 80~90毫米汞柱,中心靜脈壓約20毫米汞柱,小便量也減少, 病人四肢冰冷及有冒汗現象,這是什麼現象? - (A) 低血糖症狀表現 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (A) Prednisolone 屬於 adrenal corticosteroid 類,長期使用會有高血壓(hypertension)與低血糖(hypoglycemia)之副作用 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...nates ( 35 years) | CVA, Brain tumor, Alcohol withdrawal Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- (C) 心理壓力、挫折、孤獨等高壓力情境時常會造成飲食控制的 改變,進而影響到血糖的控制 - (D) 低血糖可能造成焦慮、意識混亂、行為混亂等症狀 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- ...緩解。本案例最可能的診斷是: (A) 癲癇發作 (B) 恐慌症 (C) 失憶症 (D) 心律不整 (D) 17. 承上題,下列那一項疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized anxiety Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- ...| Deficiencies Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticid Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med3-book4-ch03]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch09]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Topoisomerase inhibitors (拓樸異構酶抑制劑)'
   - 'Topoisomerase inhibitors'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-抑制 DNA 拓樸異構酶造成 DNA 損傷，常見於 GI、肺癌與血液腫瘤治療。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 DNA 拓樸異構酶造成 DNA 損傷，常見於 GI、肺癌與血液腫瘤治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med4-book1-ch09]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- c. 惡性卵巢生殖細胞腫瘤術後,除下列 2 種情形,一律要接受化療,而化療以BEP (Bleomycin、Etoposide 和 Cisplatin)為主。 - Stage IA Dysgerminoma - · Stage I, Grade 1 Immature teratoma Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- b. 惡性卵巢性索間質腫瘤大部分為 stage IA,行分期手術即可;stage IC~IV 較少見,相關研究較少,術後行化療是否有助益仍有爭議。不過,根據 NCCN 的治療指引,建議 stage II~IV 的患者,術後必須接受化療;而 stage IC 的患者,術後可考慮接受化療。最常見的化療配方為 BEP (Bleomycin、Etoposide 和 Cisplatin)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | Regimen | • EMA-CO(etoposide, MTX, Act-D, cyclophosphamide, vincristine) | |---------|----------------------------------------------------------------| | Course | ・使用至 remission (連續 3 次 β-hCG 達正常值)後追加 3 個療程 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...stemic Scleroderma, dSSc):疾病進程較迅速,通常會侵犯一到多個內臟。小於 5% 的廣泛型病患有 anti-centromeric antibodies,但約 40% 的病患可驗出 anti-Scl-70 (anti-topoisomerase I)。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (4) 治療:控制好引發 HLH 的原因是最基本的治療,然後再用以下方式。 - a. 化療藥物: etoposide + dexamethasone +/- cyclosporine。 - b. IVIG + steroid 使用在低危險族群。 - c. 無法控制的脾功能亢進者考慮脾切除。 - d. 幹細胞移植:有機會治癒,特別是 primary HLH 的病人。目前治癒率可達到 6 成以上。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 標準化療藥物組合:BEP (Bleomycin, etoposide, cisplatin)。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].

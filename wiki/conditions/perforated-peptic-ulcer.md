@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Perforated peptic ulcer (消化性潰瘍穿孔)'
   - 'Perforated peptic ulcer'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-消化性潰瘍穿孔可造成急性腹膜炎與 pneumoperitoneum，需要復甦、抗生素與手術或內視鏡策略評估。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+消化性潰瘍穿孔可造成急性腹膜炎與 pneumoperitoneum，需要復甦、抗生素與手術或內視鏡策略評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- 【詳解】此為骨盆腔的 CT,上圖有打顯影劑,可發現在有enhancement 的子宮前方有 soft tissue density 的 cystic lesions,其中有 bone density 和 fat density 的 component(下圖 lung window 排除 free air),最可能為含有脂肪、骨和軟組織等的 mature cystic teratoma(畸胎瘤)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...) 靜脈抗生素 | (D) 安排腹部 X 光攝影 | | | | | 【詳解】(A) 應禁食。 | | | | (B) | 4. | 下列何者不是手術適應症? | | 102(一)專 | | | | (A) intraperitoneal free air | | 醫五 -49 | | | | (B) pneumatosis intestinalis | | | | | | (C) acidosis (pH $a 200 | | | 呈現鼓音(tympanic)。下列何者你覺得對診斷最沒有幫忙? | | | | (A) 指診檢查肛門的鬆緊 (B) 問胎便排出時間 | | | | (C) 安排下消化道攝影 (D) 大便細菌培養 | | | | 【詳解】滿月男嬰、經常腹脹便秘(三天排便一次) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - I. 潰瘍穿孔(Perforated peptic ulcer disease, PPU) 15 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - #### I. 潰瘍穿孔 (Perforated peptic ulcer disease, PPU) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].

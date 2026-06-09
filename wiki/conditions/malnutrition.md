@@ -19,6 +19,8 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Malnutrition (營養不良)'
   - 'Malnutrition'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,15 @@ tags:
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...| | | | (4) 必要時 | 儉查 CXR 和 EKG | | | | ・靜脈輸 | (1) D5S 為f | 佳,評估尿量及血液濃縮改善情況來調整輸 | | | | 液補充 | 液的給 | 予。 | | | | | (2) 補充 Albumin,拉住血管內液體,避免給予的輸液 | | | | | | 滲出血管外,加重腹水產生。 | | | | | | (3) 利尿劑:在大量的輸液補充後,尿量仍沒有增加, | | | | | | 可考慮使用利尿劑;但在低血壓或明顯血液濃縮下 | | | | 187 | | 不可使用利尿劑。 | | | | | ・抽腹水 | 過去條件 嚴重腹水造成持續腹脹、腹痛、呼吸困難 | | | | | | 或寡尿才考慮抽腹水 | | | | | | 目前觀 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...級(證據尚可) | ・冷凍胚胎・使用阿斯匹靈・給予鈣離子 | | • 給予鈣離子 | | | C級(證據不足) | ・使用 coasting (暫停施打排卵針幾天) | | | | | | ・使用低劑量之 hCG 當破卵針 ・使用白蛋白 (albumin) | | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (C) 使用白蛋白(albumin) 輸液 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...異常,一般稱 confined placental mosaicism | | 母親 | • 罹患影響胎盤血流的疾病:如子癲前症、高血壓、糖尿病、 | | \$ 25 c. 41 | 自體免疫疾病 (SLE, APS) 等 | | | • 營養不良 | | | • 慢性缺氧 | | | · 抽菸、酗酒、藥物濫用、咖啡因過量、放射線曝露 | | | • 先天性子宮結構異常: 如雙角子宮 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (A)可能造成骨折不癒合(nonunion)因素包括受傷時合併嚴重 軟組織傷害、感染、骨折固定不夠穩定、營養不良、吸煙、 長期使用類固醇等 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (2) 次發性(10%): - a. Type III:由於其他器官的原因造成,如內分泌疾病(包括甲狀腺、副甲狀腺或腎上腺等功能異常)、營養不良、血液疾病、藥物以及其他疾病等原因引起之骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Po Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -69,10 +77,6 @@ tags:
 - ...| 102(一)專 | | | | (A) 大多數的肺栓塞(pulmonary embolism)是起源於深層靜脈 | 醫五-5 | | | | 栓塞 (deep venous thrombosis) | | | | | (B) 老年人常因營養不良而有比較高的手術後併發症發生率 | | | | | (C) 肥胖與營養不良並不會增加傷口裂開的機率 | | | | | (D) 手術後的疼痛、輸液量過多會導致高血壓 | | | (B) | 16. | 下列生長因子(growth factors),何者沒有血管新生(angiogene- | 102(一)專 | | | | sis)的作用? | 醫五-18 | | | | (A) 血小板衍生之生長因子 Platelet-derived g Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - ...her | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直持續或加重。 - d. 動脈瘤破裂。 - e. 根據 Aortic Size Index(ASI = Aortic Diameter/Body Surface Area),如果病患 為 BSA 較小的女性,動脈瘤長比較快且易 rupture,故最大直徑為 4.5 公分至 5 公分 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - ...-------------|----------------------| | (B) | 8. 嚴重外傷之病患,術後需要足量營養補充,以維持各項生理功能與組織復原。營養補充是否足夠,可藉由下列各種生化檢定來評估,何者除外?(A) 白蛋白(albumin) (B) 球蛋白(globulin)(C) 前白蛋白(prealbumin) (D) 轉鐵蛋白(transferrin) | 105(二)專醫五-3 | | (A) | 9. 下列對於再餵食症候群(refeeding syndrome)的敘述,何者錯誤? (A) Refeeding syndrome 又稱為 magnesium steal syndrome (B) 為避免 refeeding syndrome,在給予大量營養時要添加鎂 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (D) moderate malnutrition 的病人,非蛋白質的熱量攝取與氮素比 為 150:1 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (D) 16. 一位 65 歲男性,因吞嚥困難及體重減輕住院檢查,病患體重 40 公斤,血清蛋白(serum albumin)值為 2.5 g/dL,內視鏡檢查發現食道下段有腫瘤造成阻塞,切片病理報告為食道之鱗狀上皮細胞癌,胸部電腦斷層檢查結果並無明顯之縱膈腔或肝臟轉移,骨頭掃描結果並無明顯遠處轉移。胸腔外科醫師評估可以手術切除,你認為以下那種處置比較適當? - (A) 馬上安排手術切除食道並重建以免癌症擴散 - (B) 一般葡萄糖輸液補充 7 天後手術 - (C) 全靜脈營養 (total parenteral nutrition) 補充 1 天,立即手術 - (D) 全靜脈營養補充 7 天後手術 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (D) 營養不良的病人若在營養風險篩檢時營養不良分數(nutritional risk screening maluntrition score)得到5分,在手術前不需要矯正 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- ...puted tomography)有助於診斷腹腔內感染 (B) 如果沒有妥善處理,會導致多器官功能障礙症候群(multiple organ dysfunction syndrome) (C) 所有的腹腔內感染都必須手術治療 (D) 老年人及營養不良者之腹腔內感染比較有發生併發症的風險 | 106(一)專醫五-7 | | (C) | 11. | 下列敘述,何者正確? (A) 植入物(prosthesis)相關的感染通常發生在肺部 (B) 手術後發燒需立即給予抗生素 (C) 尿路感染(urinary tract infection)是手術後最常見的非手術感染(nonsurgical infection) (D) 選擇抗生素做經驗性治療(empirical treatment)時,最好 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 
 ## Clinical Caveats
 

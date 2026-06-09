@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch09]]"
   - "[[sources/med3-book2-ch17]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med5-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Insulin resistance (胰島素阻抗)'
   - 'Insulin resistance'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-胰島素作用下降連結第 2 型糖尿病、代謝症候群、脂肪肝與心血管風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰島素作用下降連結第 2 型糖尿病、代謝症候群、脂肪肝與心血管風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med5-book1-ch01]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- | (1)慢性不排卵 | 少月經或無月經 | |-------------------------------------|--------------------| | | 不孕 | | | 增加子宮內膜癌風險(註1) | | (2) 高雄性素症 | 多毛症、青春痘、禿頭 | | | 黑色素棘皮症(註2) | | (3) 卵巢異常 | 超音波下顯示多囊性卵巢(註3) | | | 卵巢體積增加且皮質增厚 | | (4) Gonadotropin 異常 LH/FSH ratio 上升 | | | (5)新陳代謝問題 | 胰島素阻抗、增加 Type 2 DM | | | 肥胖、血脂異常、代謝性症候群(註4) | | | 非酒精性脂肪性肝病、睡眠呼吸中止 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...持續地刺激子宮內膜, | | | | 將增加子宮內膜增生及癌化的風險。 | | | 註 2: 黑色素棘皮症 | 指身體皺摺處(頸、腋下、乳房下和大腿等)的黑色素沉澱和 | | | (Acanthosis nigrican) | 皮膚增厚,是胰島素阻抗 (insulin resistance) 的特徵,與 PCOS | | | | 和高雄性素有關。 | | | 註 3: Rotterdam | 卵巢週邊可見 12 個以上 2~9 mm 的小濾泡 士 卵巢體積增加 | | | ultrasound criteria | ( > 10 mL) • | | | 註 4: 代謝性症候群 | 下列 5 項符合 3 項者,即可診斷代謝性症候群 | | | 診斷標準 | ・腰圍> 88 cm | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 2. 成因:與懷孕中期之後,胎盤分泌的 human placental lactogen (HPL),造成 insulin resistance 有關。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...lucagon), 使得肝臟的肝醣分解(glycogenolysis)增加。 - b. 缺氧組織產生的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的糖類,也有肝臟保護的作用,有利於病人對手術的耐受。術 後糖類的補充是最易消化吸收,對術後消化功能欠佳者更為適宜。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - (A) 可能與胰島素抗性(insulin resistance)的內分泌疾病有關 Source: [[sources/med4-book2-ch11|子、其 他]].
 - (A) 胰島素抗性 (insulin resistance) Source: [[sources/med4-book1-ch02|乙、消化系統]].

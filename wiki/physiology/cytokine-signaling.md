@@ -24,6 +24,9 @@ sources:
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Cytokine signaling (細胞激素訊號)'
   - 'Cytokine signaling'
@@ -38,7 +41,7 @@ tags:
 
 ## Summary
 
-cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +65,15 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- b. 母乳含有蛋白質(包括 IgA 和 cytokine)可幫助嬰兒的腸道免疫,但缺乏維生素 K, 因此喝母乳的寶寶發生維生素 K 缺乏性出血比喝配方奶的寶寶機率大。故建議新生兒一出生便施打一劑 0.5~1 mg 的肌肉注射維生素 K 以預防出血。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- ...免 疫 | · 研究顯示,子宮內膜異位症患者,其免疫功能是有缺損的, | | | | | | 造成無法辨識及清除異位的內膜組織 | | | | | | • 此外,患者體內的白血球和巨噬細胞會增加,產生的發炎物 | | | | | | 質(如IL-1,6,8等)可能有助於內膜異位組織的生長 | | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...ulosa cell 產生 VEGF。除了β-hCG,estrogen (A), prolactin, histamine 和 prostaglandins 也被發現有關係,而增加血管通透的物質除了 VEGF,還有interlukins, TNF-α, endothelin-1 也有關係 (Ref-1)。Renin(C)-Angiotensin(D) system 在 OHSS 的角色,有研究指出 plama renin activity 與 OHSS 的嚴重度有直接關係 (Ref-2),而近年來的一些研究也支持 ovarian renin angiotensin system 在 OHSS 扮演重要角色的假說(Ref-3)。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (D) 1. 腎臟癌發生 Stauffer syndrome 之原因可能來自產生過多之何種 109(二)專 因子? 醫五-67 - (A) tumor necrosis factor (TNF) - (B) interferon (INF) - (C) epidermal growth factor (EGF) - (D) granulocyte-macrophage colony stimulating factor (GMCSF) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 3. 危險因子:早產(最重要)、缺血、菌血、細胞激素(cytokines)和經口餵食、使用外源表面張力素、使用呼吸機。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 4. 病患需使用 heparin 維持 activated clotting time > 400 ms,但 heparin 會和血液內的 細胞發生反應,活化補體系統;導致 monocyte,neutrophil 活化生成 cytokine,產生 SIRS,所以有用體外循環的病人術後發燒的原因有可能是這個,必須用 protamine 來做解毒劑。一般術後也會給予 protamine 中和 heparin,使 activated clotting Time 回復正常。 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -80,9 +89,6 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - 【詳解】從文中描述,皮膚乾癢、於四肢彎曲處、苔癬化病變,懷疑是異位性皮膚炎。(C) 於急性期時主要與 Th2、IL-4、IL-13 有關。(D)Netherton syndrome 為一罕見自體隱性遺傳疾病,會有 congenital ichthyosiform erythroderma(苔癬狀皮膚紅疹)、trichorrhexis invaginata(頭髮異常 bamboo hair)、atopic diathesis(異位性體質)及發育遲緩。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 1. T細胞:當接觸到過敏原時,非過敏體質的人主要引起第一型 T 輔助細胞(Th1 cell)增生,產生 Interferon g 等 cytokine,誘發產生對抗原專一的 IgG。而過敏體質的人則主要產生第二型 T 輔助細胞(Th2 cell)增生,分泌 IL-4, IL-5, IL-9, IL-13 等 cytokine,會促進 IgE 產生及嗜伊紅性白血球發育,引起過敏反應。故過敏疾病的發生與第二型 T 輔助細胞活性有著密切的關係。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 2. 抗原呈現細胞:包括樹突細胞(dendritic cell),單核球(monocyte),巨噬細胞(macrophage),及蘭格罕氏細胞(Langerhans cells)。會將抗原呈現給 T 細胞。樹突細胞依據其傾向造成 Th1 或 Th2 細胞分化分為兩型,第一型樹突細胞(DC1)分泌 IL-12,造成 T 細胞分化為 Th1 細胞,而第二型樹突細胞(DC2)不分泌 IL-12,故 T 細胞分化為 Th2 細胞。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (2)晚期反應:在接觸過敏原後幾小時內發生,嗜伊紅性白血球及中性球浸潤,接著是嗜鹼性白血球,肥大細胞,單核球,及 Th2 細胞浸潤。活化的肥大細胞分泌 TNF-α,使血管內皮表現出 cell adhesion molecules,使發炎細胞可以穿過血管內皮移動出去。另外發炎局部也產生許多 chemokines,吸引更多發炎細胞到達。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 2. 病因:絕大部份為免疫複合體沉積在腎絲球上後,引發後續的免疫反應造成(eg. complement activation、leukocyte recruitment、release of growth factor or cytokines)。 後續引發不同的免疫反應造就不同的疾病的病生理機轉。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 

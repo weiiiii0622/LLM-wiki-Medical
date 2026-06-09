@@ -7,6 +7,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book4-ch17]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Spina bifida (脊柱裂)'
   - 'Spina bifida'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-神經管閉合不全疾病，可伴隨脊髓膜膨出、神經缺損與 Chiari II/hydrocephalus。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經管閉合不全疾病，可伴隨脊髓膜膨出、神經缺損與 Chiari II/hydrocephalus。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book4-ch17]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (D) open spina bifida Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】Lemon sign 為神經管缺損的表徵,故選 (D) open spina bifida (開放性脊柱裂)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 2. 常見的先天發育異常疾病包含脊柱裂 (spinal dysraphism)、顱裂 (cranial dysraphism),後顱窩過小 (Chiari malformation) 及顱縫早閉 (Craniosynostosis)。 Source: [[sources/med5-book4-ch17|癸、腦及神經疾病]].
 - I. 脊柱裂 (Spina bifida) 189 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ## I. 脊柱裂 (Spina bifida) Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].

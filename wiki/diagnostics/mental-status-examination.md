@@ -53,6 +53,12 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book1-ch18]]"
 aliases:
   - 'Mental status examination, MSE (精神狀態檢查)'
   - 'Mental status examination, MSE'
@@ -67,7 +73,7 @@ tags:
 
 ## Summary
 
-精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -120,9 +126,25 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch05]]
+- [[sources/med6-book1-ch18]]
 
 ## Key Details From Sources
 
+- 【詳解】經前症候群(premenstrual syndrome, PMS),是指在進入黃體期後(約月經前 10~14 天),可能由於體內荷爾蒙變化,而產生各種身心不適症狀,常見症狀可分三類:生理性、情緒性及行為上。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ◆ 情緒性:包括 anxiety(焦慮、緊張易怒、情緒失控、易哭) 和 depression(憂鬱、沮喪、恐懼、孤僻、負面思考、興趣 低落、社交退縮、失眠或睡太多)兩大類症狀 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | Vasomotor symptoms | 最常見的症狀,80% 更年期婦女會出現熱潮紅,造成夜間流 | |--------------------|------------------------------| | | 汗,影響睡眠品質 | | 泌尿生殖萎縮 | 子宮內膜萎縮(停經後出血最常見原因)、陰道乾澀、性交 | | | 疼痛、性功能障礙、頻尿、急尿和子宮內膜萎縮 | | 精神症狀 | 情緒不穩定、憂鬱或焦慮、記憶和專注力下降和性慾下降等 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | 症 狀 | • 最常見的症狀為腹痛和陰道出血,不過,有一半的病人在破裂前未 | | |-----|-----------------------------------------------------------|--| | | 出現任何症狀 | | | | • 若破裂造成持續內出血,可能出現頭暈、失去意識等症狀 | | | 徴 象 | ・陰道內診可能會出現 pelvic tenderness、cervical motion tenderness 和 | | | | adnexal mass 等表現 | | | | · 若破裂造成持續內出血,可能出現 peritoneal sign 和 shock sign | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...或持平 | | 破裂診斷 | • 出現下列情形,應懷疑子宮外孕破裂 | | | (1) 骨盆腔/腹腔大量積液(會造成廣泛性腹部劇痛,甚至出現肩膀痛 | | | (2) 血紅素下降 | | | (3) 生命徵象不穩定 ( 心跳加快、血壓降低、意識不清 ) | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (C) 4. 一位 28 歲已婚女性病人,性生活正常,有左側輸卵管發炎的病史,平常月經相當不規則,有時候兩至三個月才來一次,上次月經來已經是九週前的事了。此病人從昨天早上開始,下腹疼痛合併陰道有少許出血,另外還有冒冷汗、頭暈、心悸的症狀,故來求診。到達急診時意識清楚,臉色蒼白,無外傷。生命徵象如下:呼吸 22 次 / min、心跳 102 次 / min、體溫 36.8℃、血壓 120/63 mmHg。觸診發現右下腹部僵硬(rigidity)有反彈痛(rebounding pain)。下列處置何者最不恰當? Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (B) 6.33 歲女性,G1P0,目前懷孕30週,因突發性大量陰道水樣液體 流出及腹部疼痛至產房檢查。孕婦意識清醒,血壓 130/80 mmHg, 耳溫 37℃,胎心音每分鐘 130下,超音波檢查發現羊水指數 (AFI: amniotic fluid index)為2,無前置胎盤,最可能的診斷為: Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ※註 2:由於 oxytocin 的構造與 vasopressin(ADH)相似,會和腎臟 vasopressin receptor 交互作用,造成水分滯留和稀釋性低血鈉,即是所謂的水中毒。當高劑量催產素(40 mU/min)合併大量的低滲透靜脈輸液( $\geq$ 3 L)持續( $\geq$ 7 hrs)給予,便容易產生。低血鈉的症狀包括:頭痛、噁心嘔吐、腹痛、疲倦、意識不清、癲癇大發作和神經學損傷。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- (A,B) 3. 一位 25 歲懷孕 22 週婦女,被家人發現意識改變,送至急診時, 已無呼吸、無脈搏,下列敘述及處置,何者錯誤? Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
+- | 體液過量 | 心衰竭、肺水腫、稀釋性貧血 | | | | |--------|----------------------|--|--|--| | 電解質不平衡 | 低鈉、高血糖、酸中毒 | | | | | 尿 液 | 茶色尿或血尿 | | | | | 神經表現 | 視覺障礙、意識改變、譫妄、昏迷、癲癇發作 | | | | Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
 - (D) 9. 一位 38 歲男性跟朋友聚餐後騎機車與酒駕之轎車對撞,跌落排水溝中,造成全身多處外傷及骨折。經送往急診室,初步檢查生命跡象穩定,意識清楚,右小腿骨折處有一個 10 公分長的傷口,可以看到骨折的斷端。X 光檢查顯示右小腿中段脛骨及腓骨開放性骨折,右側股骨關節脫臼以及右側肱骨骨折。對其骨折及脫臼的各種處置,下列何者為最正確之敘述? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 緊急安排血管攝影,並安撫病人情緒 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 4. 無高潮症(anorgasmia):在有意識的性行為下,無法達到高潮,但夜間仍會有流精 (emission,精液累積滿溢流出)現象。 Source: [[sources/med5-book5-ch08|辛、男性學]].
@@ -131,16 +153,6 @@ tags:
 - ...(C) 15. 下列何者不是理想的腎臟捐贈者? (A) 腎功能正常者 醫五-71 (B) 同時罹患原發性腦瘤的病人 (C) 出現全身性病毒或細菌感染 (D) 梅毒、肝炎檢查正常者 (C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 104(二)專 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 醫五-77 - C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 描(CT scan)顯示左側腎臟撕裂傷合併巨大血腫,病人的血壓 一直維持在 70/40 mmHg 無法再上升,下一步要作的處置為何? (A) 腎臟血管造影 - (A) 育 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...--------------------------------------------------------------|------------------| | (C) 27. | 一位 37 歲男性工人從工地掉下來,理學檢查時病人意識清楚,但發現尿道口有血跡,而且陰囊有血腫,會陰有淤傷,接下來你最先要安排何種檢查?(A) Intravenous pyelogram(B) Cystography(C) Retrograde urethrogram(D) Contrast-enhanced computed tomography | 100(一)專醫五-61 | | (B) 28. | 下列有關睪丸癌的敘述,何者錯誤? (A) 大部分是生殖細胞腫瘤(germ cell Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (D) 12. 前列腺肥大病患接受經尿道前列腺切除手術時,出現意識迷糊、 噁心、高血壓、心跳變慢等症狀,其最可能之原因是: Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (1) 症狀:8項中有3項以上。(記法:胖高高(糖/壓)、皮(紋)-肌(弱)-骨(折)-血(雄)-神(情緒)) - a. 外觀:月亮臉、水牛肩、軀幹肥胖。 - b. 皮紋 (Striae, 在腹部或大腿的紅色紋)。 - c. 雄性素過量症狀(髮線退後、多毛症、小乳房發育、聲音變沉)。 - d. 情緒不穩或失眠或精神失常。 - e. 肌肉無力(特別是股四頭肌,所以從椅子上由坐站起困難)。 - f. 骨質疏鬆症(常見,甚至造成腰椎壓迫性骨折)。 - g. 高血糖(80%人有餐後高血糖;20%人空腹也高血糖)。 - h. 高血壓 (持續存在)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- 2. 臨床症狀:隨時間症狀越來越明顯。 - (1) 呼吸窘迫 (respiratory distress)。 - (2) 意識改變 (altered mental status)。 - (3) 皮膚瘀青 (skin petechiae)。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (B) 1. 股骨骨折可併發脂肪栓塞,下列那些是診斷脂肪栓塞的三大要件? 101(ニ)専 ①意識混亂 ②呼吸困難 ③胸痛 ④皮下點狀出血 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (2) 高碳酸血症(Hypercapnia):不適當的通氣(inadequate ventilation),如肺塌陷、或腦傷造成意識改變或外來毒物(drugs、alcohol)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- (C) 10.54 歲女性失足從3公尺高度跌下,嚴重呼吸困難及右胸壁血腫。 被送到急診身體檢查,意識昏昏欲睡,血壓測不到,發紺、心 動過速與右側呼吸聲減少。你是值班醫生,你的及時處理為何? - (A) 胸部 X 光及電腦斷層掃描 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 1. 機轉 & 成因:Achalasia 意即無法放鬆,為食道括約肌在放鬆期仍維持緊張收縮。 原因尚未明,可能為感染性神經退化所致,嚴重情緒壓力、創傷、過度減重、查格 氏症(Chaga's disease)等都是懷疑的可能因子。食道肌和下食道括約肌都可能受 到影響,目前接受的假說是下食道括約肌受損和食道體肌肉神經退化所致,造成吞 嚥時,下食道括約肌高壓無法放鬆,而高壓擠壓食道造成擴張而中止蠕動前進。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- b. Reynolds's pentad: Charcot's triad 再加上休克與意識改變,發生比率小於 10%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (C) 腹痛(abdominal pain) (D) 意識譫妄(delirium) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- ...- b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 
 ## Clinical Caveats
 

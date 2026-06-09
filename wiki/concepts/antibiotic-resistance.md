@@ -20,6 +20,8 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch15]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Antibiotic resistance (抗生素抗藥性)'
   - 'Antibiotic resistance'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,13 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch15]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- ※ 複雜性泌尿道感染易出現抗藥性菌株,如 extended-spectrum beta-lactamase (ESBL) *E. coli* 或 fluoroquinolone-resistant *E. coli* Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
+- ...- b. parenteral regimens 治療至少 48 小時,若症狀改善持續超過 24 小時,即可改為口服藥物,合計使用 14 天。 - ※ 2007 CDC guidelines 提及,fluoroquinolones 因產生抗藥性,不建議再用 於治療淋病雙球菌(Neisseria gonorrhoeae)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (2) Fluoroquinolone (Ciprofloxacin® Levofloxacin®) - a. 優點:對 G(-) 菌叢有廣效效果,治療 UTI 效果良好,不論是 uncomplicated 或 complicated。 - b. 缺點:價格貴。對大部份厭氧菌無效。注意雖然對於 Staphylococci species 也有效但是效果不佳,而且容易篩選出抗藥性菌株。 - c. 機轉:抑制細菌 DNA 合成。 - d. 禁忌:不可用於孕婦及小孩(影響軟骨生長)。 - e. 特殊副作用:較少發生副作用。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...penicillins (ex. Ampicillin®、Amoxicillin®) 可治療 Enterococci、 Staphylococci、E. coli 和 Proteus mirabilis, 價格便宜。 - b. 缺點:近年來抗藥性增加,故現在 aminopenicillins 多需要加上 beta-lactamase inhibitors 才能對付 UTI, 這讓價格不再便宜。另外 penicillin 第一代對多數 UTI 無效。 - c. 機轉:抑制細菌細胞壁合成。 - d. 禁忌:過敏史(孕婦可用)。 - e. 特殊副作用:特別注意過敏反應(要做 skin test);肝腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -73,8 +79,6 @@ tags:
 - (C) 對類固醇抗藥性(steroid resistant)是指在使用全量類固醇 4 週後仍然無法達到緩解(remission) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 原則上使用兩種藥物優於單一藥物,避免發生抗藥性 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - 2. 作用機制 (PCN 為例): 具有 β-lactam ring, 青黴素會穿過細胞壁的 Porin, 之後與細胞膜上的 Penicillin binding protein (PBP) 結合, 而抑制細胞壁合成的最後一個步驟所需的酵素:轉胜肽酶 (Transpeptidase)。細菌可產生各種 β-lactamase 破壞 Penicillin 的 β-lactam ring 或改變 PBP 結構, 使藥物失效, 因而產生抗藥性。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...| | | 俗阑氏陽性困 | Listeria monocytogenes | PCN 無法入細胞內,Listeria 腦膜炎用 Ampicillin 治療 | | | | 格蘭氏陰性菌 Neisseria meningitis | | 抗藥性增,現少用 PCN 治療 Neisseria 造成的腦膜炎 | | | | | | Syphilis 的首選用藥 | | | | 厭氧菌 Pasteurella multocida, Actinomyces | | | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (4) Staphylococcus 會產生 Penicillinase 破壞 Penicillin 的 β lactam, 因此 Penicillin、 Ampicillin、Ticarcillin 都無法對抗 Staphylococcus,可選用 Penicillinase-resistant 藥物 (Oxacillin)或加上 β lactamase inhibitor (Augmentin、Tazocin),抑制細菌的抗藥性。以下分述這些藥物。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Bone mineral density, BMD (骨密度檢查)'
   - 'Bone mineral density, BMD'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-骨質疏鬆診斷與骨折風險評估常用檢查。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨質疏鬆診斷與骨折風險評估常用檢查。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...使用説明 | |-------|--------------------|---------------------------------------| | 第一線用藥 | Bisphosphonates | ●建議先使用口服藥物,若 BMD 持續降低 | | | (註) | ( ≧ 5%),可改成 IV。 | | | | ●停用:口服五年或 IV 三年後,若 BMD 穩定、 | | | | 之前無脊椎骨折,而且低骨折風險。 | | | | ●續用:連續兩次追蹤 BMD 都下降。 | | 第二線用藥 | Raloxifene (SERM) | T-score ≦ -2.5,但無 fragility fracture。 | | | Strontium ranelate | 雙 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (5) 監測療效:目前無監測時程的共識,UpToDate 建議開始治療後兩年一次追蹤 DEXA(腰椎骨和股骨頸),若BMD穩定或增加,則可暫緩下次的追蹤。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...| | absorptiometry, DXA)檢查,T-score 介於 -1~-2.5 標準差之間 | | | | (D) 雙磷酸鹽類(biphosphonates)藥物可有效預防骨質疏鬆症 | | | | 【詳解】骨質疏鬆的定義為 BMD 之 T-score ≤ -2.5。 | | | (C) | 3. 停經後婦女骨質疏鬆的危險因子,不包括下列何者? | 101(二)專 | | | (A) 體型嬌小 (B) 家族史 | 醫六 -26 | | | (C) 停經年齡較晚 (D) 長期服用類固醇 | | | | 【詳解】骨質疏鬆的危險因子:家族史、早停經、久坐、體重 | | | | 過輕、長期服用類固醇和菸酒。 | | | (A) | 4. 關於荷爾蒙療法的敘述,下列何者錯誤 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...佳 | | | | (D) 加上截肢為目前主要治療 | | | | 【詳解】骨肉瘤的標準治療: (neoadjuvant C/T ) → OP → C/T。 | | | (D) 37. | 在轉移性骨腫瘤中,何者造成的病灶,最常使患部骨骼的骨密度 | 94(一)專 | | ` , | 增高? | 外一-53 | | | (A) 腸癌 (B) 腎細胞癌 | | | | (C) 甲狀腺癌 (D) 前列腺癌 | | | | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (2) 雙能量 X 光吸收儀 (dual energy X-ray absorptiometry, DEXA): - a. 診斷骨質疏鬆症的黃金標準,可測量身體任何地方的骨頭密度,最常使用於 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (3) 侵犯超過局部/轉移: T3b 以上或 N+或 M+。 - a. 治療初期: 賀爾蒙治療 (endocrine therapy)。 - (a) 治療方式:服用藥物或睪丸切除術。 - (b) 原理:攝護腺癌初期有雄性素依賴性,生長需要有雄性素。所以把雄性素阻斷可讓攝護腺癌成長停滯或萎縮。雄性素(androgen)是一群男性賀爾蒙的總稱,主要有睪固酮、雙氫睪固酮。 - i. 睪固酮 (testosterone): - (i) 用途:幼年可使性器發展與 產生第二性徵,成人可增強 性欲性功能、提升骨密度與 肌肉力量。 - (ii) 合成路徑:下視丘分泌 LHRH(又稱GnRH)到腦 Source: [[sources/med5-book5-ch04|丁、攝護腺]].

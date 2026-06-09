@@ -53,6 +53,13 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch18]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch05]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -67,7 +74,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -120,9 +127,26 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch18]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch05]]
 
 ## Key Details From Sources
 
+- (A) 溶血性貧血 (hemolytic anemia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B) 2. 承上題,產科醫師發現她懷孕前,如果樓梯爬 3 層就會喘,不過一般生活作息並不會造成困擾。但懷孕後,這些情況變的更厲害,有時走路久一點就會喘,需要停下來休息。檢查曉晴的眼結膜(conjunctiva)是粉紅色的,沒有貧血的跡象,聽診發現有心雜音,產科醫師懷疑有心臟方面的問題,於是安排心臟超音波,發現曉晴有一個心室中膈缺損約 1.6 平方公分。下列給曉晴的諮詢,何者錯誤? - (A) 根據紐約心臟協會(NYHA)對心臟功能的定義,曉晴懷孕前是屬於第二級(functional class II),但懷孕後已惡化為第三級(functional class III) - (B) 心室中膈缺損是一種先天性心臟病,這種是結構的異常並不 會遺傳給胎兒 - (C) 大 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...tin) 增加約 50%, 促使紅血球數量增 | |-----------|---------------------------------------------| | | 加,8~10 週開始增加,約增加 20~30% | | 生理性貧血 | • 雖然紅血球數量增加,但是血清量增加更多(約30~50%),因 | | | 此血比容 (Hct) 會下降, 血色素 (Hb) 下降, 造成生理性貧血 | | The Shall | • 於妊娠 30~34 週最嚴重;服用鐵劑可使紅血球數量增加 | | 白血球 | · 白血球數量增加,約可達 11,000/cumm | | 凝血因子 | • 許多凝血因子受影響,使得懷孕時期為一高凝血功能的狀態 | | | (hypercoagul Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】Kleihauer-Betke acid elution test 主要用來檢測及定量胎兒母體間出血(fetomaternal hemorrhage, FMH)。FMH 是指胎兒和母體間的出血,但非因創傷或胎盤剝離造成,大部分是自發性的。大部分 FMH 出血量少,不會造成血行動力影響,不過,出血的頻率和血量會隨著週數愈大而愈高愈多;大量出血少見,但會造成嚴重的影響,急性大量出血可能造成死亡,而慢性大量出血則可能導致胎兒貧血和胎兒水腫。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (B)雙胞胎之捐贈者往往會發生溶血性貧血症 (hemolytic anemia) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...-----------------| | 丁呂貃脵下 | · FIGO type 0· 帝建入于 吾腔內加福(元主任 ) 吾腔內 / | | (submucosal) | ・ FIGO type 1:大部分在子宮腔內, | | | ・缺鐵性貧血 | Intramural | | 骨盆腔壓迫和疼痛 | ・腫瘤壓迫症狀 | Subserous | | | (頻尿、尿液滯留或排便困難等) | | | | ・經痛或性交疼痛 | | | | ・扭轉或變性 | | | 影響生育 | ・懷孕困難 | Submucosal > | | | ・増加流産機會 | Intramural | | | • 懷孕不良結果 | | | | (早產、胎兒子宮生產遲滯等) | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 嚴重症狀者 | ・異常大量子宮出血合併貧血 | |-------|------------------------------| | | · 嚴重經痛、性交疼痛、長期下腹痛或嚴重壓迫症狀(頻尿、 | | | 便秘、腎水腫) | | | ・ 生育問題 (無合併其他不孕原因) | | 緊急症狀者 | • 蒂連式肌瘤扭轉壞死造成急性腹痛 | | | • 黏膜下肌瘤脫垂造成大量陰道出血 | | 懷疑惡性者 | ・肌瘤過大 | | | ・肌瘤快速長大 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】此病人經血量多且有血塊,造成貧血,超音波可見一低回音性的子宮腔內腫塊,子宮鏡檢查可見一肌瘤突出於子宮腔內,故診斷為子宮黏膜下肌瘤(submucosal myoma)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ※ Sinusoidal pattern: 出現如下的正弦波形,持續至少 10 分鐘。出現 Sinusoidal pattern 的主要原因包括胎兒窘迫和胎兒貧血。若能確診為胎兒貧血導致,不一定需要緊急處理。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- 【詳解】當臨床上發現胎兒心跳呈現正弦波形(sinusoidal fetal heart rate),主要原因包括胎兒窘迫和胎兒貧血。若能確診為胎兒貧血導致,不一定需要緊急處置。(D) 胎頭壓迫的心跳變化是早發性減速。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - 2. Multiple myeloma 是最常見的原發性骨癌。症狀可以用 CRAB (螃蟹的拼音) 來記: - (1) hyper Calcemia • - (2) Renal impairment • - (3) Anemia • - (4) Bone pain • Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - i. 熱潮紅(hot flashess, 佔 60% 人)、性欲及性功能缺失、骨密度下降 (loss of bone mineral density)、貧血、體重及體脂肪增加、認知改變 (cognitive decline)。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ii. 使用賀爾蒙治療需要定期監測這些副作用,處理的方式如下: - (i) 骨密度下降:以 FRAX 評估。使用鈣、維他命 D 補充劑、或是雙磷酸鹽。 - (ii) 貧血:通常很輕微,若嚴重可以補充紅血球生成素。 - (iii) 熱潮紅(hot flashes),可補充醋酸甲羥孕酮(medroxyprogesterone acetate 300~400 mg IM monthly)治療之。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -131,16 +155,6 @@ tags:
 - ...勃起異常持久 (priapism): - (a) 定義:持續勃起超過 4~6 小時。 - (b) 成因: 60% 原因不明, 僅 40% 找得到原因。 - i. 低血流量(ischemic type。陰莖硬,但龜頭軟):95%。鐮刀細胞性貧血(最常見占3成,小朋友6成)、白血病、藥物(如 prazosin)、陽痿治療失當。 - ii. 高血流量 (non-ischemic type。陰莖偏軟,無痛無症狀): 陰部動脈瘻管 (pudendal artery fistula,常因外傷所致)。 - (c) 診斷:理學檢查即可診斷,另可搭配彩色都卜勒超音波確認。不用實驗 室檢查。 - (d) 治療: - i. 初步保守治療:冷水澡、射精、運動,但這些尚無研究依據。 - ii. 一線 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...無力患者沒有胸腺瘤,但合併胸腺瘤患者仍佔約 10~42%。 - (2) 其他常見合併症:紅血球再生不良(red blood cell aplasia)、白血球再生不良(pure white blood cell aplasia)、再生不良性貧血(aplastic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopat Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...族性瘜肉綜合症(familial polyposis syndrome)有關,主要由胚胎性的肝母細胞和間葉組織構成。 - (3) 流行病學:大多發生於3歲以前,中位數年紀約18個月大。 - (4) 臨床表現:通常沒有症狀的腫塊來表現,或伴隨貧血表現。 - (5) 檢查 & 診斷: - a. 血液檢查 hemogram: (i) 血紅素 (Hgb):下降, (ii) 血小板 (PLT):增多。 - b. 腫瘤指標(tumor marker): 85~90% 可發現胎兒蛋白(AFP)升高。 - (6) 治療:以手術切除合併化療為主要治療,化療可使腫瘤分期降級有助於手術清除,而手術切除乾淨與否決定存活率。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- (3) 藥物: - a. 當病史和檢查高度懷疑GERD,即可開始治療,不必等待完整的檢查診斷結果。 - b. 使用六週以上的制酸治療應追蹤評估是否有慢性貧血。 - c. 以雙倍劑量質子幫浦抑制劑(proton pump inhibitor, PPI)當作初始治療,如症狀改善,同時可以此為診斷。如症狀持續,則須安排前述檢查進一步評估。 - d. 常用藥物:制酸劑 (antacids)、促蠕動劑 (motility agents)、乙型抗組織胺 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 2. 好發族群:營養缺乏之中年女性,常合併有缺齒、萎縮性口腔黏膜和舌炎、匙狀指 甲和缺鐵性貧血,且有較高機率得到鱗狀上皮細胞癌。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 3. 臨床表現:吞嚥困難、下咽食道蹼、體重減輕以及缺鐵性貧血,若未治療很容易從下咽蹼發展成後環甲癌症。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (1) 腸胃道出血:為最常見表現,佔25~50%於有症狀之患者,2歲以下嬰幼兒更是常見。可能表現之形式:急性大量出血、慢性出血致續發性貧血、或自限性反覆性出血。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 2. 營養不良 (Malnutrition): - (1) 約有30%的病患在術後會有營養不良的情況。 - (2) 會導致鐵、葉酸、Vit. B12、鈣以及 Vit. D 的吸收不良,進而導致貧血、神經病變、 失智症等症狀出現,必須要適時的補充這些營養元素。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (D) 6. 下列何種症 狀或檢查和中腸扭結 (midgut volvulus) 無關? 102(-) 専(A) 血便 - (B) 貧血 - (C) 腹脹 - (D) 腹部 X 光攝影 (plain abdomen) 可用來確定診斷 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 1. 症狀:(依腫瘤位置而有不同症狀) - (1) 右結腸:血便,但多以潛血反應呈現,所以病人常有貧血和疲弱。右結腸由於 直徑較大,且該處的糞便較軟,所以比位於左結腸的腫瘤較少腸阻塞。 - (2) 左結腸:左結腸的腸內壓高、糞便較硬,因此常見腸阻塞(大便習慣改變)、 腹痛。 - (3) 直腸:血便最常見、裡急後重。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- ...) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的術前放射線治療之敘述,何者錯誤? | 100(二)專 | | (A) 可以增加 Resectability rate | 醫五-16 | | (B) 可以減少術中之 Tumor seeding | | | (C) 可增加保留肛門的機會 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 【詳解】(C)從圖可懷疑是右結腸癌,常見症狀為貧血(頭暈)疲勞,右腹部不適。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 
 ## Clinical Caveats
 

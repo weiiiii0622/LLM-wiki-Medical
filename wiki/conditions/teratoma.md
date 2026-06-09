@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Teratoma (畸胎瘤)'
   - 'Teratoma'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-含多胚層組織的 germ cell tumor，新生兒常見部位包含 sacrococcygeal region。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+含多胚層組織的 germ cell tumor，新生兒常見部位包含 sacrococcygeal region。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,13 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- ...r | | | | producing | | Hilar cell tumor | | | | | | Lipoid cell tumor | | | 生殖細胞腫瘤 (germ cell | ・良性 | Ma | ture cystic teratoma (dermoid cyst) | | | tumors):佔 20% | (90%) | Mo | nodermal highly specialized teratoma: | | | | | stru | ma ovarii & carcinoid neoplasms | | | | ・悪性 | 常見 | 見 (90%): Dysgerminoma · endodermal sinus | | | | miz | | or (yo Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】女性卵巢腫瘤約 60~70% 源於上皮細胞; 20% 源於卵巢生殖細胞; 10% 源於卵巢間質細胞; Yolk sac tumor ( 又稱 Endoder- | | |-----------------|---------------------------------------------|--| | (佔90%) | mal sinus tumor) > Immature teratoma > | | | | Mixed germ cell tumor | | | 較罕見的惡性生殖細胞腫瘤 | Embryonal carcinoma、Polyembryoma 和 | | | (佔10%) | Choriocarcinoma | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 組織種類 | 特色 | | |-----------------------------|--------------------------------------------|--| | Mature cystic teratoma | · 最常見的生殖細胞腫瘤 | | | (又稱 dermoid cyst) | • 囊壁是複層鱗狀上皮的纖維組織,可能含有皮脂 | | | | 腺、牙齒、頭髮、神經組織、軟硬骨、呼吸和腸道 | | | | 上皮,以及甲狀腺組織等 | | | | ・ 約 0.2~2% 會惡性轉變 (SCC 最常見 ) | | | Immature teratoma | · Immature neural elements 為診斷的依據 | | | ( Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...道攝影 (retrograde urethrography) ④急診發現車禍受傷男性的尿道口有出 血時,必須馬上放置導尿管治療 (A) 123(B) (1)(2)(4) (C) (1)(3)(4)(D) (2)(3)(4)(A) 9. 睪丸畸胎瘤(teratoma)病童,如果血中腫瘤標誌胎兒蛋白( $\alpha$ -105(一)專 fetoprotein)升高時,此腫瘤可能含有那種惡性成分? 醫五-49 (A) 卵黃囊瘤 (yolk sac tumor) (B) 肝細胞癌 (hepatocellular carcinoma) (C) 消化道腺癌(adenocarcinoma) (D) 神經母細胞瘤 (neuroblastoma) 【詳解】最常見的兒童睾丸腫瘤是畸胎瘤和卵黃囊腫 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (C) 於電腦斷層攝影 (CT scan) 發現前縱隔腔腫瘤為 cystic and fatty density,有鈣化,則最可能是畸胎瘤 (teratoma) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].

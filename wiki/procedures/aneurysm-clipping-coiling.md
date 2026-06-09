@@ -43,6 +43,13 @@ sources:
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)'
   - 'Aneurysm clipping/coiling'
@@ -57,7 +64,7 @@ tags:
 
 ## Summary
 
-ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +107,26 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch04]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch17]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- (5) 若經上述處置後,仍然大出血,可使用下列三種方式止血,此三種方式可合併 使用或單獨使用(順序不一定)。 - 子宮內氣球填塞 (intrauterine balloon tamponade) 給予 recombinant activated factor VIIa - · 經動脈血管栓塞 (transarterial embolization) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- (B) 羊水栓塞 (amniotic fluid embolism) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- (B) 2. 有關治療產後大量出血之血管內栓塞術的敘述,下列何者最正確? Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- ...可使紅血球數量增加 | | 白血球 | · 白血球數量增加,約可達 11,000/cumm | | 凝血因子 | • 許多凝血因子受影響,使得懷孕時期為一高凝血功能的狀態 | | | (hypercoagulable state),深部靜脈栓塞的風險上升 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (B) 羊水栓塞 (amniotic fluid embolism) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | • 植入性胎盤 | ・早期宮縮、早期破水 | • 胎位不正 | |---------|---------------|--------| | • 血管前置 | · 胎兒生長遲緩、胎兒異常 | • 羊水栓塞 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | • 有乳癌病史 | • 高風險子宮內膜癌 | • 冠心病 | |--------------|------------|------------| | • 有靜脈栓塞或中風病史 | • 活動性肝臟疾病 | • 未診斷的陰道出血 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】停經後接受荷爾蒙治療的禁忌症包括乳癌、子宮內膜 癌、未診斷的陰道出血、有肝臟疾病、靜脈栓塞和中風的病史。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...| | Selective estrogenreceptor modulator(SERM) | Raloxifene | ●不應使用於更年期前女性。●可做為預防骨質疏鬆的第一線用藥。(治療為第二線)●可減少乳癌風險,但是會增加熱潮紅與靜脈栓塞風險。 | | | RANKL inhibitor | Denosumab | ●皮下注射(一年兩次),可抑制RANKL(蝕骨作用的蛋白質)。●要注意低血鈣、皮膚注射反應與嚴重感染的副作用。 | | | Estrogen/progestin | | ●雖然雌激素可預防停經後女性的骨質疏鬆,但 WHI 指出有其他風險(乳癌、心血管疾病和靜脈栓塞等)的代價,因此不建議做為第一線用藥。(詳見 F. 停經及荷爾蒙治療) | | 增加骨質生成 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (D) 3. 下列那一種狀況與羊水栓塞症(amniotic fluid embolism)的發生 最無相關? Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...管攝影檢查 (D) 近關節處的傷口不要嘗試從傷口注入生理食鹽水來檢查是否與關節腔相通 【詳解】(A) 休克可能是因為失血太多,第一必須先穩定生命徵象,再考慮麻醉作接合手術,因為麻醉本身也會造成相對低血壓,大量出血造成的休克可能要考慮先用血管栓塞止血;另一方面有可能是感染造成的休克,此時可能要謹慎評估傷口的狀 | (A) | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 血管栓塞術 (angio-embolization) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 【詳解】有顯影劑外滲表示有血管的損傷,(B) 選項固然也是治療之一,可以適合給予骨盆壓迫減少出血,但是要根本治療出血的問題仍是要利用血管栓塞才能阻止繼續滲血。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -111,16 +135,6 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - 【詳解】D-Dimer test 的 sensitivity 有 $93\sim95\%$ ,因此有明顯的升高,發生血管栓塞的機率很高。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (A) 脂肪栓塞症候群 (Fat embolism syndrome) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 【詳解】脂肪栓塞症候群(Fat embolism syndrome)的三大特徵(triad): 神志不清(consciousness disturbance)with 6~12 hours lucid interval、呼吸困難(respiratory distress)、皮膚出血斑(petechiae)。常發生於長骨(long bone)或骨盆骨折患者,最常在骨折後 24~48 小時後併發症狀;應儘速提供呼吸治療為主,必要時予以氣管插管以呼吸器治療。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (2) 第三、四、五級:佔15%,可能引起腎臟碎裂、血管栓塞、血管斷裂,腎動脈或靜脈也可能因此有外傷產生,發生率低於1%,若造成生命徵象不穩時需要手術治療。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...RBC,血中 WBC 與 CRP 升高。 - (c) 影像:超音波可用來探查是否併發腎水腫。若症狀不明顯或治療無效,可排顯影劑 CT 檢查,可準確看到發炎處灌流缺損(perfusion defects)。這是因為細菌感染引起周圍小動脈收縮或栓塞,降低腎臟受影響部分的血液灌流。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ii. 中重度疼痛/出血:局部腎臟切除或動脈栓塞。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...不用實驗 室檢查。 - (d) 治療: - i. 初步保守治療:冷水澡、射精、運動,但這些尚無研究依據。 - ii. 一線 ( 1hr 無效、或> 72hr): 依其成因可做動靜脈瘻管(shunt,可成功緩解,但之後無法勃起),或動靜脈瘻管栓塞(transarterial embolization)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- ii. 靜脈攝影(venography)雖是診斷準則,但一般只用於考慮栓塞治療的病人。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (b) 非手術:靜脈栓塞。經 femoval vein 或 subclavical vein 將 spermatic veins 血流塞住。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- ii. 手術後數天:深部靜脈栓塞、肺栓塞、淋巴囊腫、傷口感染,這些是屬於任何手術都可能發生的問題。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- P. 脂肪栓塞症 (Fat emboli syndrome, FES) 59 Source: [[sources/med5-book4-ch03|丙、肺]].
-- Q. 肺動脈栓塞 (Pulmonary embolism) 60 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (c) 針對咳血:支氣管動脈栓塞,肺切除。 Source: [[sources/med5-book4-ch03|丙、肺]].
 
 ## Clinical Caveats
 

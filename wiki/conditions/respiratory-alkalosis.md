@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book1-ch12]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Respiratory alkalosis (呼吸性鹼中毒)'
   - 'Respiratory alkalosis'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-過度換氣造成 PaCO2 下降，常見於低氧、疼痛、焦慮、敗血症或藥物。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+過度換氣造成 PaCO2 下降，常見於低氧、疼痛、焦慮、敗血症或藥物。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med5-book1-ch12]]
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- b. 因黃體素的作用,造成中樞對 $CO_2$ 的敏感度增加,使得橫膈運動增加,導致 relative hyperventilation;另外,潮氣容積(tidal volume)也增加,因而每分 通氣量(minute ventilation)增加, $CO_2$ 的排除增加,於是母血的二氧化碳濃度( $PaCO_2$ )降低,引起輕微呼吸性鹼中毒。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...(3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabet Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 10. 重度頭部損傷 (GCS = 3~8): - (1) 插管。 - (2) Hyperventilation $PCO_2 = 30\sim35$ mmHg,避免 IICP (increased intracranial pressure)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (C) 氣管內管插管併給予過度換氣(hyperventilation) Source: [[sources/med5-book1-ch12|丙、顱內壓]].
@@ -76,7 +79,6 @@ tags:
 - 【詳解】題目敘述排除肝膽腸道異常,故(D)先排除。另外, anion gap 上升,暗示著病人呈現代謝性酸中毒,因此(A)可刪 去(尿素循環障礙一開始的典型表現為呼吸性鹼中毒)。題目敘 述病人出現餵食困難、嘔吐、嗜睡,進而抽搐、昏迷,因此選 (B)。(C)常見的表現有肌肉無力、萎縮等。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 6. 高度換氣 高氧測試(hyperventilation-hyperoxia test):當在 $FiO_2$ 100% 的氧氣與過度換氣狀況下(100~150/min)下達到 $PaCO_2 \le 25$ mmHg 才能使 $PaO_2$ 上升者需懷疑 PPHN。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 換氣過度 (hyperventilation) Source: [[sources/med3-book4-ch29|己、特定議題]].
-- 1. 診斷出呼吸性鹼中毒,要去想為什麼病人會喘(呼吸變快)?診斷出呼吸性酸中毒,要想看看為什麼病人呼吸變慢(hypoventilation),是不是快呼吸衰竭了? Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

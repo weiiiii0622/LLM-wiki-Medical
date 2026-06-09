@@ -11,6 +11,8 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Melanoma (黑色素瘤)'
   - 'Melanoma'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,14 @@ tags:
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med6-book1-ch09]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- (C) 2.24 歲的婦女,在門診時被發現大陰唇有一小於1公分但突起的小 腫瘤,經切片檢查後,最有可能的診斷為: - (A) 原位癌 (carcinoma in situ) - (B) 黑色素腫瘤 (melanoma) - (C) 上皮內包性囊腫 (epidermal inclusion cyst) - (D) 汗管腺瘤 (hidradenoma) Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- 【詳解】(A) sarcoma 的組織鑑別標記常用 desmin 和 vimentin,而分化差的 melanoma 可用 melanin 和 S-100(可在神經膠、黑色素、軟骨、脂肪和樹突細胞等發現);(B) vimentin 是表現在 mesenchymal cells;(D) LDH 在卵巢生殖細胞腫瘤 dysgerminoma 會上升,而卵巢間質腫瘤(stromal tumor),如 granulosa cell tumor 則可分泌 estrogen 和 inhibin。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- ...|-------------------------|-------| | Squamous cell carcinoma | 83.4% | | Adenocarcinoma | 9.3% | | Sarcoma | 2.6% | | Melanoma | 2.5% | | Undifferentiated | 1% | | Others | 2cm 或間質侵犯大於1mm | | | II | | 不論腫瘤大小,侵犯會陰旁構造(下 1/3 尿道、 | 59% | | | | 下 1/3 陰道和肛門) | | | ш | A | (1) 1 顆淋巴結轉移 ( ≥ 5 mm) | 43% | | (不論腫瘤大小 ± | | (2) 1~2 顆淋巴結轉移 ( 年紀大於 35 歲或小於 20 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - 【詳解】依 primary ABCDE 從重新評估,除非經檢查發現氣管 內管在食道,才進行(C),故(D)>(A)>(B)或(D)>(C)為 較佳之順序。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (6) Familial atypical multiple mole melanoma (FAMMM) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 惡性黑色素細胞瘤 (malignant melanoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].

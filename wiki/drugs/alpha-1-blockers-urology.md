@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med6-book1-ch12]]"
 aliases:
   - 'Alpha-1 blockers for LUTS (泌尿用 alpha-1 阻斷劑)'
   - 'Alpha-1 blockers for LUTS'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-放鬆膀胱頸、攝護腺與尿道平滑肌以改善 BPH/LUTS，但可能造成姿勢性低血壓或逆行性射精。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+放鬆膀胱頸、攝護腺與尿道平滑肌以改善 BPH/LUTS，但可能造成姿勢性低血壓或逆行性射精。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med6-book1-ch12]]
 
 ## Key Details From Sources
 
+- 註:tamsulosin(α la-selective alpha blocker)可放鬆膀胱頸、治療 BPH 的症狀。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - ...IPSS) - (a) 評分項目(記法:FUN-WISE,前三是儲尿不穩症狀、後四是排尿阻塞症狀) - i. Frequency (頻尿:排尿後兩個小時內又要小便)。 (註:正常人兩次解尿的間隔 2.5 小時,且一天 1-blockers:Terazosin (Hytrin®)、doxazosin (Doxaben®)。(記法:(山) 海經、豆沙餅) - iii. α1A-blockers: Tamsulosin (Harnalidge®)、alfuzosin (Xatral®)、silodosin (Urief®)。(記法:哈那裡、殺豬、油欸) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ii. α1A-blockers 選擇性佳,故全身症狀較少。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...linergics)可改善下泌尿道障礙,主要是緩解膀胱刺激性(irritative)或貯藏性(storage)症狀 (B) 常用的甲型腎上腺素阻斷劑(α-adrenergic blockers)包括:terazosin、doxazosin、tamsulosin及 alfuzosin等 (C) 有時 anticholinergics 會造成排尿更困難,因為它會造成膀胱逼尿肌收縮力變較差 (D) α-adrenergic blockers 常見到的副作用為姿態性低血壓及腹瀉【詳解】一律給分。 | 104(一)專醫五-69 | |---------|--------------------------------------------------------------------------- Source: [[sources/med5-book5-ch04|丁、攝護腺]].

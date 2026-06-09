@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch08]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Short stature (身材矮小)'
   - 'Short stature'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-身高低於同年齡族群預期，需用生長速度、骨齡與家族/內分泌/慢性病因評估。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+身高低於同年齡族群預期，需用生長速度、骨齡與家族/內分泌/慢性病因評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch08]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (A) 透納氏症女性身材矮小,成人身高一般不超過 150 公分 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - VII. 身材矮小(Short Stature) 301 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - # C. 體質性身材矮小 (constitutional growth delay) 與家族性遺傳矮小 (genetic short stature) 的比較 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - | | 體質性身材矮小 | 家族性遺傳矮小 | |------|----------------------------------|-------------| | 身高 | 矮小 | 矮小 | | 家族史 | 有青春期延遲 | 僅有矮小,無青春期延遲 | | 骨齡 | 骨齡出現延遲 | 與實際年齡相符 | | 生長速度 | 緩慢(尤其 1~2 歲時,但大多 3 歲後恢復正常速度) | 正常 | | 成人身高 | 正常 | 矮小 | Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

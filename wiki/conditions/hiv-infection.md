@@ -40,6 +40,10 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'HIV infection (人類免疫不全病毒感染)'
   - 'HIV infection'
@@ -54,7 +58,7 @@ tags:
 
 ## Summary
 
-HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +98,19 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- 8. 人類後天免疫不全病毒(HIV): - (1) 傳染方式:透過性交、使用感染針具、注射或移植受感染的血品或器官,以及母子垂直傳染; Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- | 分 類 | 禁忌 | | |------|-------------------------------------|--| | 母親方面 | ・薬物或酒精濫用 | | | | ・HIV 或 T-cell lymphotropic virus 感染 | | | | · 未經治療的結核病 | | | | ・正接受化療或放療 | | | · | ・乳房有皰疹感染 | | | 嬰兒方面 | ・半乳糖血症 (galactosemia) | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- 【詳解】哺餵母乳的禁忌症(母親方面)包括 (1) 藥物或酒精濫用; (2) HIV 或 T-cell lymphotropic virus 感染; (3) 未經治療的結核病; (4) 正接受化學治療或放射線治療; (5) 乳房有皰疹感染。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- ...壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 ・實驗室檢查:血液常規(WBC, RBC, Plt, Hct, Hb, MCV)、血型、Rh 因子、B型肝炎(HBsAg, HBeAg)、梅毒(VDRL)、德國麻疹(Rubella IgG)、HIV、尿液常規。 二、例行產檢。 註:若德國麻疹抗體檢查呈陰性之孕婦,宜在產後注射德國麻疹疫苗 ※預產期評估(Naegele's rule):LMP 日期,月+9,日+7+(週期-28) | | | | | 第2次 | | 16 週 | 例行產檢。 | | | | | 第3次 | | 20 週 | • 例行產檢。 | | | | | | 期,妊娠 | | • 超音波檢查。 | | | | | | 17 週至未 | | • 早產防治衛教指導。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | 性行為 | ・ 多重性伴侶、過早性行為 ( 過早懷孕(&lt;20歳)、生產數多 | | | 個人因子 | · 低社經地位、抽菸 (和 squamous cell carcinoma 相關 )、 | | | | ・ 長期 (5 年以上 ) 口服避孕藥 (和 adenocarcinoma 較相關 ) | | | 其 他 | • 有陰道或外陰部細胞病變的病史 | | | | ・ 免疫抑制 ( 如 HIV 感染 ) | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (c) 臨床表徵:通常無症狀。另外可能產生併發症: - i. 反覆包皮龜頭炎(balanoposthitis): 最常見的併發症。 - ii. 嵌頓性包莖(paraphimosis):將包皮退至龜頭露出,卻無法回推,會 造成龜頭部分血液循環不良,長時間有組織壞死的危險。 - iii. 陰莖癌:反覆發炎造成包皮部分容易產生鱗狀上皮癌(SCC)。 - iv. 性傳染病:包皮過長易藏汙納垢使 HIV、gonorrhea、syphilis 的感染率升高。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (4) 藥物:會增加結石機率的藥物有降血壓藥 -Dyazide;降眼壓藥 -碳酸酐酶抑制劑(carbonic anhydrase inhibitors);抗 HIV 病毒藥 -蛋白酵素抑制劑(protease inhibitor, indinavir)。越胖越易結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - Reference: Grulich AE, van Leeuwen MT, Falster MO, Vajdic CM. Incidence of cancers in people with HIV/AIDS compared with immunosuppressed transplant recipients: A meta-analysis. *Lancet* 2007; 370(9581): 59-67. Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -109,12 +123,6 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - ...-------------|------------------------------------------------------------------------------|--|--|--|--| | Infection | HIV, sepsis, Pneumonia | | | | | | W ithdrawal | Alcohol, barbiturate, sedative-hypnotic | | | | | | Acute metabolic | Acidosis, alkalosis, electrolyte disturbance, hepatic failure, renal failure | | | | | | Trauma | Closed Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (C) Human immunodeficiency virus(HIV)感染可能 與此病之發生有關 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - a. 雖然水痘發過一次就不會再感染,但是水痘病毒於初次感染時便會沿著感覺 神經纖維侵入到感覺神經節並終年潛伏於此。當病人年紀大免疫力下降或處 於免疫力不全(腫瘤、HIV、器官移植、接受放射治療或化療)狀況下時, 病毒就會再度活化並沿著神經纖維從神經節返回皮膚表面產生皮疹,故分佈 多延著 dermatome 的範圍。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- ...S (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- c. HIV: HIV 陽性發生 HPV 感染及 HPV 相關腫瘤的機率增加。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 2. 原因不明,一般認為和遺傳有關,也有認為和皮屑 芽孢菌(Malassezia furfur)過度增生有關,故使用 抗黴菌藥物可以有效改善皮膚炎。秋冬季、壓力、 生理期、睡眠不足和情緒不好、免疫力低下(HIV、 器官移植者)等都為惡化原因。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (D) 若是病程頑固且臨床表現不尋常,需留意 HIV 感染 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (C) 22. 有關脂漏性皮膚炎(Seborrheic dermatitis)的敘述,下列何者錯誤? - (A) 嬰兒期脂漏性皮膚炎需與異位性皮膚炎鑑別診斷 - (B) 致病機轉可能與 Malassezia 相關 - (C) 好發部位為四肢伸側及背部 - (D) HIV 感染可能伴隨脂漏性皮膚炎 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (2) 感染:感染被認為能誘發乾癬的發生,急性滴狀乾癬通常出現在急性鏈球菌感 染後一至兩週。HIV 也與乾癬的發生相關。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 
 ## Clinical Caveats
 

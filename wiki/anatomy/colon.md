@@ -84,6 +84,9 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch15]]"
 aliases:
   - 'Colon (大腸)'
   - 'Colon'
@@ -98,7 +101,7 @@ tags:
 
 ## Summary
 
-大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -182,9 +185,17 @@ tags:
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch15]]
 
 ## Key Details From Sources
 
+- ※ 註:已發展國家女人一生中得到卵巢癌的風險是 1.4%,其中 5~10% 和基因相關,如 Lynch syndrome- MSH2, MLH1, PMS1 & PMS2 (乳癌、大腸直腸癌、子宮內膜癌和卵巢癌)和 BRCA;若知道有基因突變,建議於完成生育後預防性切除卵巢輸卵管,並接受定期檢查(乳房攝影、大腸鏡和子宮內膜切片)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...| 停經與否三項指標,用來評估 adnexa mass 之惡性風險 | | 影像檢查 | • 安排電腦斷層或核磁共振檢查、甚至正子電腦斷層造影,評估是否有腹 | | | 部、淋巴結或其他地方的轉移 | | 其 他 | • 安排上消化道鏡、大腸鏡等,排除其他部位癌症轉移到卵巢的可能 | | 4 - 150, 44 | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (C) 14. 陳小姐, 45 歲,過去未曾懷孕或特殊疾病史,因下腹疼痛至門診就診,超音波發現一7公分骨盆腔複雜性腫瘤,手術中病理冷凍切片證實為亮細胞卵巢癌(clear cell adenocarcinoma of ovary),並發現腫瘤與一段小腸粘黏並有大腸侵犯,肝臟表面及橫膈膜下並沒有腫瘤轉移,有關患者的治療,下列何者正確? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...double outlet RV truncus arteriosus | | | GI | • Duodenal atresia · imperforated anus · anorectal atresia · small left colon syndrome · situs inversus | | | GU | • Renal agenesis · hydronephrosis · ureteral duplication | | | Skeletal | Caudal regression syndrome \ hemivertebrae | | | Others | Single umbilical artery | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (C) 1.25 歲 G2P1 孕婦,妊娠 13 週,因外陰搔癢求診。尿液細菌培養檢驗出現 100,000 cfu/mL 大腸桿菌(E. Coli),並無其他性傳染疾病徵候。此孕婦並無解尿困難、解尿疼痛、頻尿及漏尿症狀;亦無下腹部及腰部壓痛、疼痛症狀,體溫正常,此時的最適當處置為: - (A) 不需治療 - (B) 出現泌尿道感染症狀時開始治療 - (C) 立即給予抗生素治療 - (D) 目前不需治療, 待產時給與抗生素治療 Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - (C) 2. 一位 58 歲女性病人,因為 2 天前開始頻尿、小便灼熱感、小腹 108(ニ)専 覺得有輕微脹痛感,有時覺得尿不太出來,今天開始出現血尿, 醫五-69 沒有血塊,則下列何者錯誤? - (A) 最可能的診斷是急性細菌性膀胱炎 - (B) 絕大多數社區型感染之病原菌是大腸桿菌(E. coli) - (C) 應該安排膀胱鏡檢查 - (D) 在門診很常見,典型的病例並不一定要做尿液細菌培養 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...ve),請病人反覆 再驗尿液 (C)告訴病人有血尿,需安排膀胱鏡檢查 (D)告訴病人有血尿,需進一步安排尿路攝影(IVP) | 103(二)專 | | (D) | 6. 下列有關尿路感染的敘述何者錯誤? (A) 最常見的致病菌是 O 血清型大腸菌(O-serogroups E. coli) (B) 腎盂腎炎最常見的感染途徑是膀胱內細菌經輸尿管至腎臟 (C) 尿液分析是快速篩檢尿路感染的方法 (D) 尿液細菌培養出細菌,即可確定尿路感染 | 100(二)專醫五-70 | | (C) | 7. 男女尿路感染發生率 (incidence) 差異最大的年齡層是: (A) 1~5 歲 (B) 6~15 歲 (C) 16~35 歲 (D) 36~65 歲 | 98(二)專醫五-64 | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...e pyelonephritis, APN): - a. 病理:定義為腎盂或腎盂發炎,常以臨床表徵診斷。 - b. 好發於:有尿路感染(UTI)家族史、糖尿病、尿路阻塞、泌尿道異常、尿失禁、 性生活活躍之女性。 - c. 菌種: 80% 是大腸桿菌(E.coli)。 - d. 臨床表徵: - (a) 症狀:包括發燒、畏寒、肋脊角敲痛。常伴隨下泌尿道症狀(尿痛、頻尿、 急尿)。25% 人會有全身性敗血症。 - (b) 實驗室檢查:尿中有 WBC 與 RBC,血中 WBC 與 CRP 升高。 - (c) 影像:超音波可用來探查是否併發腎水腫。若症狀不明顯或治療無效,可排顯影劑 CT 檢查,可準確看到發炎處灌流缺損(perfusion defects)。這是因為細菌感染引起周圍小動 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -198,11 +209,6 @@ tags:
 - (B) paraesophageal hiatal hernia 指的是腹部的大腸、小腸等 herniation to the chest Source: [[sources/med5-book4-ch05|戊、食 道]].
 - a. 重建管道選擇:以胃為主要的重建替代管道。如重建距離較短,可採用自由空腸皮瓣(free jejunal flap)或自由前臂移植(free forearm graft),通常血管吻合在內胸動靜脈或頸部血管。如重建距離較長,可採用空腸皮瓣或大腸,但常會在遠端彎曲造成阻塞症狀。除胃管上拉(gastric pull-up)不需腸對腸吻合,其餘皆需要,故增加手術風險。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 列何者錯誤? 醫五-2 - (A) 肝癌 (hepatocellular carcinoma) —胎兒蛋白 (alpha-fetoprotein, AFP) - (B) 大腸癌— CEA (carcinoembryonic antigen) - (C) 小細胞肺癌— CA19-9 - (D) 前列腺癌— PSA (prostate specific antigen) Source: [[sources/med5-book4-ch03|丙、肺]].
-- 3. 十二指腸或大腸阻塞(Duodenal/colon obstruction)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 此張可見擴張脹大的小腸,大腸的腸 氣不明顯。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
-- (A) 5. 一位 53 歲男性,主訴腹部疼痛及嘔吐。患者於 3 年前曾因大腸腫瘤接受右側結腸切除術,半年前病患亦有一次相似的腹部疼痛,於急診室處理後症狀改善而出院。此次病患仰臥腹部 X 光片顯示於左上腹部及左下腹部出現充滿氣體之脹大空腸腸管,6小時後追蹤之腹部 X 光片仍顯示脹大的腸管,但是腸管內之氣體消失明顯,被腸腔內液體所取代。身體診查發現病患腸音靜止,患者無排氣無排便。下列何者與患者的病情變化最不相符? Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
-- (C) 7. 吳先生被送至醫院急診時,主訴為腹脹併腹絞痛兩天,當天並有嘔吐現象,過去兩天吳先生未排便但有排氣。身體診查體溫 37.5 ℃,心跳速率每分鐘 102 下,呼吸速率每分鐘 18 下,血壓 130/60 mmHg。腹部診查顯示有右腹部壓痛、反彈痛及右下腹闌尾切除術後疤痕。經抽血檢查及輸液補充,腹部 X 光攝影顯示有小腸阻塞現象,於是進一步安排腹部電腦斷層檢查。則有關腹部電腦斷層檢查的敘述,下列何者錯誤? - (A) 此時電腦斷層檢查通常須配合喝水溶性顯影劑(water soluble contrast) - (B) 電腦斷層檢查中,水溶性顯影劑在24小時內出現在大腸顯 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
-- (2) Hereditary nonpolyposis colon cancer (HNPCC) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 
 ## Clinical Caveats
 

@@ -35,6 +35,8 @@ sources:
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book6-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -49,7 +51,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +86,14 @@ tags:
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book6-ch08]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- 發生率僅 0.4~1%。但造成周產期死亡率約 12%,其中 77% 胎死腹中;其 餘的死於早產兒的併發症 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (2) 簡介:發生率平均約 12%,是造成新生兒死亡最主要的原因,週數愈小,死亡率愈高;除死亡外,早產亦會造成長期的後遺症(如視力問題、腦性麻痺等)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (2) 為婦女最常見的內分泌及代謝疾病之一, 育齡婦女發生機率約 6~12%。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (1) 約 10~12% 會發生在雙側,但不會同時發生。發生原因至今仍未定論,推測是 abnormal clotting factors (Protein S and Protein C deficiency) 造成或是 vascular abnormality 造成供應 femoral head 的血流變少造成。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - 3. FEV1: 最常用來術前評估預測術後保留肺功能。 - (1) 一般建議術後保留 FEV, 需大於 0.8 L。 - (2) FEV1 預測百分比:將正常人 FEV1 測試的結果,依據身高體重統計做出對照預 測值,將病人除以預測值而得。 - (3) 術前評估:一般來說採用預測值百分比較過去用 FEV1 絕對值,能更準確評估 病人術後肺功能是否足夠。 - a. > 60% 可做肺葉切除。 - b. 1 /FVC ratio 值會上升 | | | | (C) diffusion capacity for CO (DLCO) l Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 危險因子:男性抽菸增加 22 倍、女性抽菸增加 12%。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -102,9 +109,6 @@ tags:
 - mL,前8小時給一半為4,200 mL。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (C) 11,200 mL; 乳酸林格氏液 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (B) 生理食鹽水 800 mL 加上 200 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (C) 生理食鹽水 200 mL 重複 3 次,加上 100 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (D) 生理食鹽水 400 mL 重複 3 次,加上 200 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

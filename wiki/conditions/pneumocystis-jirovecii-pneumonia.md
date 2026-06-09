@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Pneumocystis jirovecii pneumonia, PJP (肺囊蟲肺炎)'
   - 'Pneumocystis jirovecii pneumonia, PJP'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ AIDS 常見伺機感染，造成間質性肺炎與低氧。 本頁已整合至 `
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...| 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) | | | (A) ①35 | (B) 1245 | | | (C) 2345 | (D) ①②③④ | | | (A) 19. 當腎臟血管肌肉脂肪瘤(期追蹤,不需手術? | angiomyolipo Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibrosis (IPF) | Postsurgical | | - Pulmonary embolism | Other | | Catamenial | Esophageal perforation | | Neonatal | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...b. 細菌(Bacteria):結核菌(tuberculosis)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - (2) 職業因素: - a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , ke Source: [[sources/med5-book4-ch03|丙、肺]].

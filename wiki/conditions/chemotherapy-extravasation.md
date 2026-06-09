@@ -10,6 +10,10 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch05]]"
+  - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Chemotherapy extravasation (化療藥物外滲)'
   - 'Chemotherapy extravasation'
@@ -24,7 +28,7 @@ tags:
 
 ## Summary
 
-vesicant 化療外滲可造成組織壞死，處置依藥物類別不同。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+vesicant 化療外滲可造成組織壞死，處置依藥物類別不同。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +38,17 @@ vesicant 化療外滲可造成組織壞死，處置依藥物類別不同。 本�
 - [[sources/med4-book2-ch11]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch05]]
+- [[sources/med6-book1-ch16]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...、治療方 | | 社會心理支持 | 式與成果等。 | | | • 壓力的降低及放鬆技巧有助於改善症狀。 | | | • 若出現憂鬱或焦慮,建議會診身心科。 | | | • 鼓勵病人參加病友團體。 | | 自我照護與 | • 在膀胱或會陰局部熱敷或冰敷 | | 生活型態調整 | • 避免可能加劇症狀的活動及飲食 | | ti nin ayar Arak | • 適當飲水,避免過量(每天不超過2L) | | 物理治療 | • 有骨盆底肌肉壓痛的病人,建議接受物理治療 | | 口服藥物 | · 三環抗鬱劑 amitriptyline 為第一線治療藥物,不僅有止痛 | | | 效果,並且可以緩解慢性疼痛造成的憂鬱症狀。一般1 | | | 個月內即可看到效果。 | | | • 當三環抗 Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
+- (2) 3rd 和 4th degree 撕裂傷,需將肛門括約肌對齊縫合,之後可給預防性抗生素、 軟便劑和施以冰敷,並且必須避免灌腸。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- ...ccus aureus (金黃色葡萄球菌) | | | | • 其他如 Streptococci viridans 和 E. coli 等 | | | 症 狀 | • 乳房紅腫、脹痛、發燒和冷顫 | | | 處置 | • 消炎止痛藥使用伴隨冰敷以減輕乳房脹痛 | | | | • 持續哺乳或擠出乳汁,可避免膿瘍形成 | | | | • 經驗性抗生素須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時無效果,應安排乳房超音波,檢查是否有 | | | | breast abscess | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- ...,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒感染可能造成疱疹性腦炎;急性期約 4~5 天,病灶癒合需要 8~10 天,病毒會潛伏於薦椎神經節,日後可能復發; - c. 診斷:病毒培養、ELISA 或免疫螢光法偵測病毒抗原。 - d. 治療:冰敷、局部麻醉(2% lidocaine)、NSAID 和 acyclovir 3% 軟膏,以及 發病五天內使用口服 acyclovir 200 mg 一天 5 次,約 5 天可減緩局部症狀、縮 短病程,但無法消滅病毒。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (B) 冰敷,並且給予抗凝血劑,以免血管阻塞 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...----------------------------|----------------| | Type I | Acromioclavicular (AC) ligamentsprain 但 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament 卻完整 | | | Type II | AC ligament 撕裂,AC 關節半脫位,且 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament sprain | | | Type III | AC and CC ligaments 撕裂,整個關節完全脫位 | 可保守治療或手術, | | | | 原則上還是休息、冰 | | | Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].

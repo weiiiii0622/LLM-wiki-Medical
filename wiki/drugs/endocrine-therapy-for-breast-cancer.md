@@ -8,6 +8,9 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Endocrine therapy for breast cancer (乳癌荷爾蒙治療)'
   - 'Endocrine therapy for breast cancer'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-ER/PR positive 乳癌的重要全身治療，依停經狀態與疾病情境選藥。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ER/PR positive 乳癌的重要全身治療，依停經狀態與疾病情境選藥。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,19 @@ ER/PR positive 乳癌的重要全身治療，依停經狀態與疾病情境選�
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- # Aromatase inhibitors Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- · Aromatase inhibitors (AIs) 減少雌激素產生,負回饋減少,FSH 釋放增加,會促使多 濾泡發育,故 AIs 可用作排卵藥;不過,用於治療內膜異位症,為避免多濾泡發育, 通常合併口服避孕藥或 GnaRH agonists 使用。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (D) 以 aromatase inhibitors 治療可以使之縮小 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (3) 應進行子宮內膜評估的女性: - 大於 40 歲有不正常子宮出血 - · 小於 40 歲有不正常子宮出血,且有風險因子(肥胖、糖尿病、慢性無排卵、 tamoxifen、子宮內膜癌/乳癌/卵巢癌/大腸癌的家族史) - · 不正常子宮出血經藥物治療無效 - 使用 unopposed estrogen 的荷爾蒙補充治療 - · 子宮頸抹片發現 atypical glandular cells - · 有遺傳性非息肉性大腸癌 (HNPCC) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (C) 長期服用 tamoxifen Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 個人因子 | · 年紀大、未生育、肥胖、初經早和停經晚 | | |------|---------------------------------------------|--| | 個人病史 | ・糖尿病、多囊性卵巢症候群、Lynch syndrome (HNPCC) | | | 家族病史 | · 子宮內膜癌 / 乳癌 / 大腸癌 / 卵巢癌的家族史 | | | 雌激素 | ・分泌雌激素腫瘤 (如:卵巢 granulosa cell tumor) | | | 暴露 | ・ 使用 unopposed estrogen therapy 或 tamoxifen | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...續性黃體素。 | | | (包含內膜保護) | 可輔以 metformin | | | (不想懷孕) | · 放置含黃體素的避孕器 ( 蜜蕊娜, Mirena) | | | 誘導排卵(想懷孕) | ・藥物:首選為 clomiphene 或 letrozole,其次為 gonadotropin。 | | | | 兩者皆可輔以 metformin | | | | · 手術:腹腔鏡卵巢電燒穿孔術 | | | | · 人工生殖技術 (輔以 metformin 可減少 OHSS 的風險 ) | | | 高雄性素症 | • 首選治療為口服避孕藥,若治療6個月效果不佳,可加 | | | | 上抗雄性藥物,抗雄性藥物包括 spironolactone (首選)、 | | | | cyproterone a Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ⑤ Tamoxifen:調節 TGF-b1 的發炎表現,減少纖維的形成。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (d) 賀爾蒙治療: ER 陽性的病人,可以加上 Tamoxifen 作為治療。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (a) 持續觀察而不治療,或使用 Tamoxifen。 Source: [[sources/med5-book3-ch24|丁、乳癌]].

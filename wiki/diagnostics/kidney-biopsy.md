@@ -17,6 +17,7 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Kidney biopsy (腎臟切片)'
   - 'Kidney biopsy'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-診斷腎絲球、間質與部分腎實質疾病的重要檢查。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+診斷腎絲球、間質與部分腎實質疾病的重要檢查。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- ...)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒感染可能造成疱疹性腦炎;急性期約 4~5 天,病灶癒合需要 8~10 天,病毒會潛伏於薦椎神經節,日後可能復發; - c. 診斷:病毒培養、ELISA 或免疫螢光法偵測病毒抗原。 - d. 治療:冰敷、局部麻醉(2% lidocaine)、NSAID 和 acyclovir 3% 軟膏,以及 發病五天內使用口服 acyclovir 200 mg 一天 5 次,約 5 天可減緩局部症狀、縮 短病程,但無法消滅病毒。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...考量:阻塞問題(尿管是否通暢+掃超音波看有無水腎);腎血流灌流不足(掃都卜勒超音波,若懷疑需馬上開刀探察,因數小時內移植腎會壞死);瘻管產生(抽出引流液 creatinine 超過血中 creatinine 5 倍);若排除上述問題,要考慮腎臟切片以排除急性排斥或微血管血栓。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (3) 排斥反應 (rejection): 分為三種-超急性、急性、慢性。 - a. 超急性(hyperacute):當移植腎血管接好開始灌流時,術中可見腎臟由白色轉為淤青,治療方法只有馬上切除。成因是受贈者的抗體隨血流進入移植腎,對抗捐贈者腎血管內皮上的 HLA,引發立即栓塞。 - b. 急性(acute):病患會短時間內發燒、疼痛、腎功能變差、蛋白尿,最常在 移植後三個月內發生。需腎臟切片,看是細胞性排斥或是抗體媒介排斥。經 治療腎功能可回復,因此術後第1年各種移植腎存活率都不錯。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (b) 治療急性排斥反應 (treatment of rejection): 需腎臟切片。 - i. 細胞性排斥(cellular rejection):以高劑量類固醇為主。若效果不顯著,輔以抗體。 - ii. 抗體媒介排斥(antibody-mediated rejection): 以血漿置換術(用 DFPP,洗掉體內抗移植腎 HLA 的抗體)或靜脈注射免疫球蛋白 (IVIG)為主。另外也可以使用抗體。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -68,7 +71,6 @@ tags:
 - (A) 1. 以免疫螢光法做抗核抗體(ANA)時,其結果除了濃度高低外,另 102( ) 專 能看出核染色之類型(pattern),下列那一種類型與全身性硬化症 醫三-33 (systemic sclerosis)最具相關性? - (A) Centromere pattern Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 - (B) 31. 陳小姐最近被診斷患有全身性紅斑狼瘡(SLE)合併有腎炎,醫師建 97(-)專 議腎臟切片檢查。陳小姐拒絕進行切片檢查,同時要求不要將其病 醫三-80 情告知其未婚夫(擔心影響彼此的婚約)。陳小姐的未婚夫相當關 心陳小姐的病情,親自前來詢問,醫師是否應該將陳小姐的病情告 知其未婚夫? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- ...3.5 g/d,我們就會先下 Nephrotic syndrome 這個診斷,再根據服用 NSAID 的病史等,可以猜測為 Nephrotic syndrome r/o Minimal change disease (MCD),最後當然需要腎臟切片來證實病患是由 MCD 造成的 Nephrotic syndrome。 - b. 例如病人來急診,主訴這幾個禮拜水腫、血壓高、咳血、氣喘發作,小便驗起來有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9,無糖尿病、高血壓,我們可懷疑為 ESRD due Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

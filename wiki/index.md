@@ -20,17 +20,17 @@ Content catalog for this medical LLM wiki. Update this file on every ingest, dur
 
 ## Sources
 
-- [[sources/index]] - Source summaries catalog. Latest ingest: `醫(五)第6冊骨科`.
+- [[sources/index]] - Source summaries catalog. Latest ingest: `醫(六)第1冊婦產`.
 
 ## Topic Categories
 
-- [[conditions/index|Conditions]] - 853 topic pages
-- [[drugs/index|Drugs]] - 116 topic pages
-- [[diagnostics/index|Diagnostics]] - 102 topic pages
-- [[procedures/index|Procedures]] - 113 topic pages
+- [[conditions/index|Conditions]] - 901 topic pages
+- [[drugs/index|Drugs]] - 120 topic pages
+- [[diagnostics/index|Diagnostics]] - 116 topic pages
+- [[procedures/index|Procedures]] - 124 topic pages
 - [[guidelines/index|Guidelines]] - 21 topic pages
-- [[physiology/index|Physiology]] - 29 topic pages
-- [[anatomy/index|Anatomy]] - 33 topic pages
+- [[physiology/index|Physiology]] - 32 topic pages
+- [[anatomy/index|Anatomy]] - 34 topic pages
 - [[concepts/index|Concepts]] - 30 topic pages
 
 ## Questions
@@ -39,5 +39,5 @@ Content catalog for this medical LLM wiki. Update this file on every ingest, dur
 
 ## Maintenance Notes
 
-- Latest textbook ingested topic-first on 2026-06-09: `醫(五)第6冊骨科`.
+- Latest textbook ingested topic-first on 2026-06-09: `醫(六)第1冊婦產`.
 - Topic nodes are organized by medical entity or concept, not chapter title. Source chapter pages remain only as citation anchors.

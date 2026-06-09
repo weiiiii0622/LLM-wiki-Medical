@@ -52,6 +52,8 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book6-ch08]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Heart failure (心臟衰竭)'
   - 'Heart failure'
@@ -66,7 +68,7 @@ tags:
 
 ## Summary
 
-心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -118,9 +120,17 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book6-ch08]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- 5. 懷孕的併發症:流產、早產、胎死腹中、子癲前症、鬱血性心衰竭(congestive heart failure)。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B) 2. 小英懷孕 18 週,懷孕前就有甲狀腺機能亢進並服用藥物控制。 99( ) 專 懷孕後自行停藥,也沒再回內科追蹤。在婦產科門診,醫師幫她 醫六 -32 安排抽血檢查,發現 T3、T4 值都很高,有 Overt thyrotoxicosis, 醫師告誡她必須要好好服藥控制,不然會有很多併發症。下列 何者不是小英之疾病常見的併發症? - (A) 早產或死胎 (preterm delivery or stillbirth) - (B) 深層靜脈阻塞 (deep vein thrombosis) - (C) 心臟衰竭 (heart failure) - (D) 子癇前症 (preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...晴的眼結膜(conjunctiva)是粉紅色的,沒有貧血的跡象,聽診發現有心雜音,產科醫師懷疑有心臟方面的問題,於是安排心臟超音波,發現曉晴有一個心室中膈缺損約 1.6 平方公分。下列給曉晴的諮詢,何者錯誤? - (A) 根據紐約心臟協會(NYHA)對心臟功能的定義,曉晴懷孕前是屬於第二級(functional class II),但懷孕後已惡化為第三級(functional class III) - (B) 心室中膈缺損是一種先天性心臟病,這種是結構的異常並不 會遺傳給胎兒 - (C) 大的心室中膈缺損可能會進展為左心室衰竭及肺動脈高壓,當肺動脈阻力(pulmonary vascular resistance)大於系統性血管阻力(systemic vascular resist Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B) recipient 的血液容積增加,會造成羊水過多,嚴重時會有心臟衰竭的現象 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...Hydrops fetalis with | | | | | | | Hb Barts ( $\gamma$ 4) | | | | | | | 此型病人完全無法產生α球蛋白,通常在懷孕 | | | | | | | 後期因嚴重溶血性貧血造成心臟衰竭,全身水腫 | | | | | | | (hydrops fetalis) 而死亡;即使沒有胎死腹中,一般 | | | | | | | 出生後數小時便會死亡 | | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...| ・ 出生後因 $\beta$ 球蛋白無法產生,被 $\gamma$ 球蛋白取代,故新生兒的血紅 | | | 素由 α 和 γ 組成的 HbF 居多 | | 症狀 | • 生長遲緩、骨頭畸型、肝脾腫大、黃膽、性腺功能低下 | | | • 心臟衰竭、心律不整、慢性疼痛 | | 治療 | • 若未治療,五年內死亡率高達八成 | | | • 治癒須要骨髓移植,否則須終生輸血、打排鐵劑 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...on → residual phase)和 Herring classification(又稱 Lateral Pillar System, lateral Pillar 的位置是下圖中的黑色區域,高度影響愈多表示缺血性壞死愈嚴重。如下圖:stage A:lateral pillar 高度不受影響;stage B:lateral pillar 高度 > 50%;stage C:lateral pillar 高度 女), capitellum 的 articular cartilage 和 subchondral bone 分離,常發生於需要 overhead weight bearing 的動作如投球,症狀為 elbow pain 和會有 locking 的可能,關節的活動度少受影響。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - The Eighth Edition Lung Cancer Stage Classification. Detterbeck, Frank C. et al. CHEST, Volume 151, Issue 1, 193-203. Source: [[sources/med5-book4-ch03|丙、肺]].
 - (B) 心衰竭 (heart failure) Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -133,12 +143,6 @@ tags:
 - 3. Insufficient indications:單有以下情形並不足以作心臟移植。 - (1) 左心室 ejection fraction 低下。 - (2) 曾經有 NYHA class III 或 IV 的 heart failure。 - (3) Peak VO2 > 15 mL/kg/min,且無其他適應症。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - ...------------------------------------------------| | Ischemic | Angina, reinfarction, infarct extension | | Mechanical | Heart failure, cardiogenic shock, mitral valve dysfunction, aneurysms, cardiac rupture | | Arrhythmic | Atrial or ventricular arrhythmias, sinus or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (4) 處置: 先維持 hemodynamic 穩定,使用 IABP 維持心臟血液穩定輸出,也避免 因 MR 而引發 pulmonary edema 甚至 heart failure,然後緊急手術修補。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (3) 處置:通常 aneurysm 很小或沒明顯症狀不需開刀,內科藥物治療(ACEI) 並追蹤即可。假使 aneurysm 擴張太快、angina、severe heart failure、refractory ventricular tachyarrhythmias 或是 recurrent thromboembolism 則需開刀將其切除。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (2) Stage B1: 侵犯至肌肉層。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (3) Stage B2:侵犯超過肌肉層甚至到達 visceral peritoneum 表面。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (4) Stage B3: 腫瘤直接侵犯到或是緊貼著臨近器官。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (C) 冠狀動脈疾病(coronary artery disease)、高血壓和年齡的增加是發生手術後心臟衰竭的危險因素 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- ...覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 
 ## Clinical Caveats
 

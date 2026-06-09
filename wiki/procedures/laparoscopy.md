@@ -23,6 +23,11 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Laparoscopy (腹腔鏡)'
   - 'Laparoscopy'
@@ -37,7 +42,7 @@ tags:
 
 ## Summary
 
-以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +65,24 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med6-book1-ch17]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- # 甲、腹腔鏡(Laparoscopy) Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
+- ### 甲、腹腔鏡 (Laparoscopy) Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
+- 1. 腹腔鏡手術的優點: - 傷口小、恢復快、住院天數少 - 傷口美觀、疼痛少 - 失血量較少、併發症較少 Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
+- (C) 1.52 歲更年期婦女,G2P2,體重 60 公斤,陰道超音波檢查有 3 公 105( ) 專 分的右側卵巢單純囊腫(simple cyst),血中 CA 125 濃度為 19 醫六 -34 IU/mL。她本人不抽煙。直系家屬中無乳癌或卵巢癌的病人。進一步何者為最恰當的處置? - (A) 做腹部或骨盆腔的電腦斷層檢查 - (B) 腹腔鏡手術 - (C) 三個月內再做一次陰道超音波 - (D) 服用口服避孕藥 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 早期子宮內膜癌目前可以腹腔鏡或達文西機器手臂執行手術,術後復原快、生活品質佳,且預後和傳統剖腹手術相當。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...卵管帶入骨盆腔為形成子宮內膜 | | | | | (Sampson's | 異位症的基本成因。證據來自於先天性生殖道阻塞的病人, | | | | | theory) | 常併發嚴重的內膜異位症 | | | | | | • 研究發現,經期間以腹腔鏡檢視骨盆腔,九成的女性都有經 | | | | | | 血回流,而內膜異位症發生率僅約10%,勢必有其他附加因 | | | | | | 子(如免疫、基因)讓內膜異位組織進一步生長、侵犯 | | | | | 免 疫 | · 研究顯示,子宮內膜異位症患者,其免疫功能是有缺損的, | | | | | | 造成無法辨識及清除異位的內膜組織 | | | | | | • 此外,患者體內的白血球和巨噬細胞會增加,產生的發炎物 | | | | | | 質 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ·腹腔鏡是診斷的 gold standard;不過,肉眼辨識病灶的敏感度約 95%,故有不確定的病灶,仍需切片檢查 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 腹腔鏡除了診斷外,一般發現病灶,會同時治療,將內膜異位病灶作 切除或燒除 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- a. 下列情況可以考慮行腹腔鏡檢查: - TVS 或 HSG 有下列異常發現:輸卵管近端阻塞、輸卵管水腫、疑骨盆腔 沾黏或子宮先天性異常 - 懷疑子宮內膜異位症 - 多次試管嬰兒失敗且原因不明 - ※ 輸卵管近端阻塞,尤其是兩側同時阻塞,可能是因為檢查時,病患太緊 張導致子宮肌肉痙攣引起,可考慮重做 HSG 或行腹腔鏡檢查。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- b. 腹腔鏡不僅可以檢查,還可做處置及檢測。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - i. 切除攝護腺可選擇傳統開腹或腹腔鏡。腹腔鏡失血較少、回復較快、 住院天數減少。若使用達文西機器人進行手術,可減少併發症,尿失 禁較快回復、勃起功能的保留較好。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - h. 微創手術 (minimally invasive surgical modalities): 支氣管鏡 (bronchoscopy)、 縱隔腔鏡 (mediastinoscopy)、胸腔鏡 (thoracoscopy) 和腹腔鏡 (laparoscopy) 等,可用來排除氣管食道瘻管、評估淋巴結和氣管及縱隔腔等癌症轉移。 Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -71,16 +91,6 @@ tags:
 - (A) 1. 梅克耳憩室(Meckel's diverticulum)所造成的下消化道出血,可 106 (-) 專利用下列何者做診斷?① 99mTc-pertechnetate 放射線同位素檢查 醫五-51 ②腹部超音波檢查 ③腹腔鏡探查 ④下消化道鋇劑攝影 ⑤大腸 鏡檢查 - (A) 1 (B) 2 (C) 4 (D) 2 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (1) 手術切除為主,將膽道囊腫完整切除,再以(Roux-en-Y hepaticojejunostomy) 膽管空腸吻合術式接回,以腹腔鏡術式做切除合併(end-to-side jejunojejunostomy)空腸吻合術作治療。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - d. 單純腹腔內腫瘤:腹腔鏡或剖腹切除。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- a. 膽囊切除術在目前的標準術式為腹腔鏡切除術(Laparoscopic cholecystectomy)。 研究指出早期的膽囊切除術(72 小時內)可有效地使住院天數縮減,術後的生活品質也較佳。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- b. 腹腔鏡膽囊切除術的禁忌症: - (a) 麻醉具較大的風險。 - (b) 病人為 gallbladder perforation,或已經出現 peritonitis。 - (c) 懷疑是膽囊癌。 - (d) 末期肝病變合併門脈高壓。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (D) 應優先考慮腹腔鏡膽囊切除及總膽管探杳手術 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- ...6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (B) 4.59 歲男性因腹脹求診,電腦斷層檢查如圖一,該病人接受腹腔鏡切除手術,手術標本如圖二,下列何者正確? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- ...) 醫五 -31 或胰尾;預後與診斷時的腫瘤分期最有關聯 (B) 多層次細切片的電腦斷層為最符合效益的診斷工具,可以幫 忙診斷是否有轉移及能否手術 (C) 和其他壺腹周遭惡性腫瘤相比,胰臟癌的預後普遍較同期別 的惡性腫瘤為差 (D) 診斷性腹腔鏡可以協助確定是否有腹膜轉移或惡性腹水,對 於不確定是否可以切除的病患,建議進行 【詳解】胰臟癌好發於胰臟頭部,佔整體胰臟癌 60~70%。 (D) 5. 胰十二指腸切除手術(Whipple operation)切除的部分包含下列 107(二)專 何者?①胰頭(pancreatic head) ②脾臟(spleen) ③總膽管下 醫五 -35 端(distal common bile duct) ④十二指腸(duodenum) ⑤腹 腔幹 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (B) 利用腹腔鏡方式切除是目前較好的處理方法,術後疼痛少且 恢復迅速 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- ...----------------------|---------| | 一 4 cm 之腫瘤,你會採取何種處置? | 醫五 -29 | | ①給予抗血壓藥物 ②給予 phenoxybenzamine 10 mg/12hr | | | ③建議腹腔鏡手術切除右側腎上腺 ④ percutaneous needle biopsy | | | (A) ①②③ | | | (B) ①③④ | | | (C) ①②④ | | | (D) ②③④ | | | (AB) 7. 性激素(sex hormone)在腎上腺組織的那一層合成? | 99(二)專 | | (A) Zona fasciculata | 醫五 -41 | | (B) Zona reticularis | | | (C) Zon Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- ...---------------------------------------|---------| | (A) 血管攝影 (angiography) | 醫五 -55 | | (B) 大腸鏡(colonoscopy) | | | (C) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 【詳解】乳房皮瓣重建的方式包括 TRAM(transverse rectus abdominis myocutaneous flap)、Latissimus dorsi musculocutaneous flap、Gluteal flap(有 Superiorly based 和 Inferiorly based)、Rubens flap、Thoracoepigastric flap、Lateral thigh flap,前三者為目前主流。腹網膜瓣因需進入腹內採取,併發症較高所以較少被使用,不過現今腹腔鏡手術的進步,也有醫師將其用來作 partial breast reconstruction。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 
 ## Clinical Caveats
 

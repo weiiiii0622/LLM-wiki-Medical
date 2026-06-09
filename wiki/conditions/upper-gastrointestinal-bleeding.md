@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book4-ch05]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Upper gastrointestinal bleeding (上消化道出血)'
   - 'Upper gastrointestinal bleeding'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-上消化道出血常見來源包含潰瘍、靜脈曲張、Mallory-Weiss tear 等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+上消化道出血常見來源包含潰瘍、靜脈曲張、Mallory-Weiss tear 等。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med5-book3-ch07]]
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book4-ch05]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- | 常見 | • 最常見的症狀為異常陰道出血,其次為異常陰道分泌物及陰道質塊 | |----|--------------------------------------| | 後期 | · 若進一步侵犯,可能會出現侵犯膀胱 (如血尿、頻尿 )、直腸 (如裏急 | | | 後重、黑便、便秘)、骨盆(如骨盆疼痛)等症狀 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (C) 1. 一位 40 歲男性病患,每天喝兩至三瓶高粱酒約 20 年。最近 5 年 他常有噁心及嘔吐的現象,這次入院主要是於強烈嘔吐後有吐血 的現象發生。他被送到急診時體溫 36.8℃、血壓 80/40 mmHg、 脈搏 110/min、呼吸 22/min。身體檢查沒有聽到心雜音,兩側呼吸 音亦正常,他的腹部沒有脹大亦沒有壓痛。他的心電圖及胸部 X 光均正常,大便檢查也沒有潛血。接下來要做下列那種檢查? Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 2. 臨床症狀:腹痛、吐血、瀝青便、黑便、糞便潛血反應。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (A) 5. 李先生因為解黑便三天,且清晨開始有吐血的情形而被送至急診 處。需要及早照會外科手術治療的適應症,下列何者錯誤? Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -74,7 +77,6 @@ tags:
 - 1. 血液混和胃酸呈現黑色,有黑便須先考慮上消化道出血 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - 3. 胃鏡(UGI endoscope): 可診斷兼治療上消化道出血 - (1) 食道靜脈瘤 (Esophageal varices) / 胃靜脈瘤 (Gastric varices): 常有肝硬化的病史 - a. 急性出血時可給予 Octreotide 降低肝門靜脈壓力,控制出血。 - b. 可由胃鏡將食道靜脈瘤結紮 ligation,或直接於食道/胃靜脈瘤施打硬化劑(急性出血或預防出血可用)。 - c. 急性食道靜脈瘤出血時,文獻證實給予抗生素有助於降低再出血風險。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
 - 【詳解】(A) 大量鮮血便也有可能為大量上消化道出血,須先排除(因有 airway risk) 再做下消化道出血考慮及後續安排;(B) 僅檢查非侵入性治療的內視鏡(如一般胃鏡)目前不須停用抗血小板藥物;(C)僅有需要做診斷或處理的黃疸患者才需要做 ERCP,多半為阻塞性黃疸;(D)目前食道、胃、大腸表淺癌(T0-Tla)因淋巴結轉移機率極低,不需要做淋巴廓清,因此傳統手術外可考慮使用內視鏡切除。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- ...部分切除術後 20 年 (D) 惡性貧血 【詳解】部分研究認為 A 型血型較 O 型血型容易得胃癌; O 型血 型較 A 型血型容易得胃潰瘍,但仍有爭議。 [記憶] cAncer, U(O)lcer (B) 16. 一位 55 歲男性主訴解黑便 3 天,內視鏡檢查發現為十二指腸潰瘍, 102(一)專 除了制酸藥劑 Omeprazole 外,有醫師建議給予口服 Clarithromycin 醫三-24 250 mg 及 Amoxicillin 1,000 mg 每天兩次。服用幾天是最佳選擇? (A) 3 天 (B) 14 天 (C) 30天 (D) 90 天 (B) 17. 一位 50 歲男性主訴體重減輕,實驗室檢查發現血清白蛋白降低,而 100(二)專 上內視鏡檢查發現胃體部 Source: [[sources/med3-book2-ch04|己、胃疾病-胃潰瘍]].
 
 ## Clinical Caveats
 

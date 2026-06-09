@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch05]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Vitiligo (白斑)'
   - 'Vitiligo'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-後天黑色素細胞破壞造成明顯 depigmented patches，可與自體免疫疾病相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+後天黑色素細胞破壞造成明顯 depigmented patches，可與自體免疫疾病相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- 2. 陰道鏡檢查的適應症: - · 細胞學:不正常的 Pap smear - · 懷疑子宮頸、陰道和陰唇異常,如白斑 (leukoplakia) 和病毒疣 - 治療後的追蹤 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - G. 白斑 (Vitiligo) 129 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 8. Hypomelanosis: 受基因、自體免疫或發炎反應影響。 - (1) 黑色素細胞無減少,但黑色素分泌減少:例如白化症(Albinism)。 - (2) 黑色素細胞減少或消失,且黑色素分泌減少或停止:例如白斑(Vitiligo)。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 2. 具遺傳性,超過 30% 的患者其雙親之一也有白斑。白斑的發生也與後天有關,多數 患者白斑發生於身心創傷之後,例如親人去世、身體創傷(Koebner phenomenon)、 日光曬傷。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].

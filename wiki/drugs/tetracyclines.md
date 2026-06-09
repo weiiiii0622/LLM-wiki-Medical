@@ -20,6 +20,8 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Tetracyclines (四環黴素類)'
   - 'Tetracyclines'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,15 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- | 披衣菌 | • azithromycin 1 g 單一劑量或口服 doxycycline 100 mg BID, | | | |-------|----------------------------------------------------|--|--| | | 7 天。( 懷孕時使用 erythromycin) | | | | 淋病雙球菌 | • 單一劑量的肌肉注射 ceftriazone 250 mg | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...之治療:以抗生素治療為主 - a. CDC 建議 parenteral regimens 如下,臨床上有9成以上的治癒率 - Cefoxitin (2 g iv, q6h) or cefotetan (2 g iv, q12h) plus doxycycline (100 mg po, q12h) - Clindamycin (900 mg iv, q8h) plus gentamicin loading dose (2 mg/kg) followed by a maintenance dose (1.5 mg/kg) q8h or single daily dose - b. parenteral regimens 治療至少 48 小時,若症狀改善持續超過 24 小時,即可改為口服藥物,合計 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- c. 治療: 肌肉注射 Benzathine penicillin G 2.4 百萬單位、口服 tetracycline 500 mg QID, 14 天或 doxycycline 100 mg BID, 14 天。治療前 24 小時可能出現急性發燒、併頭痛、肌肉疼痛等的 Jarisch-Herxheimer reaction。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - b. 非淋病:tetracycline、erythromycin、doxycycline,治療 1~2 週(7~14 天)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...n, cephalosporin | Ampicillin, cephalosporin | | Gram-negative cocci | | | | Neisseria gonorrhoeae | Ciprofloxacin plus doxycycline | Ceftriaxone | | Gram-negative rods | | | | Escherichia coli | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin | | Enterobacter spp. | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin plus piperacillin | | Gardn Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...nolone | 2weeks | | | Enterobacteria | 2nd: 2nd generation cephalosporin | | | | Enterococci | | | | | Chlmaydia | 1st: Doxycycline | | | | Ureaplasma | 2nd: Macrolide | | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -71,10 +79,6 @@ tags:
 - 4. 常見引起固定性藥物疹之藥物為 Tetracyclines、NSAID、磺胺類藥物 (sulfadrugs)、Aspirin、Barbiturates。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - 【詳解】(A)是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B)為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C)為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D)為NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - | Nelson Textbook of Pediatrics 21 th Edition Table 428.6 | |-------------------------------------------------------------------------------------------------------------| | Age | | | Tetracyclines* | 2° 或 3° cephalosporins | | | | Fluoroquinolone | Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- \* 當≥8 歲首選抗生素為 tetracyclines 時,建議優先使用 doxycycline。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- Minocycline, procainamide, hydralazine, isoniazid, penicillamine, diltiazem, interferon- $\alpha$ , methyldopa, chlorpromazine, etanercept, infliximab, adalimumab Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- Phenytoin, ethosuximide, carbamazepine, sulfasalazine, amiodarone, quinidine, rifampin, nitrofurantoin, $\beta$ -blockers, lithium, captopril, interferon- $\gamma$ , hydrochlorothiazide, glyburide, docetaxel penicillin, tetracycline, statins, gold, valproate, griseofulvin, gemfibrozil, propylthiouracil Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (3) 可用 Doxycycline 治療。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 
 ## Clinical Caveats
 

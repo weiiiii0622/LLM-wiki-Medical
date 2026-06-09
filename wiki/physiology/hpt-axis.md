@@ -19,6 +19,9 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Hypothalamic-pituitary-thyroid axis, HPT axis (下視丘-腦垂體-甲狀腺軸)'
   - 'Hypothalamic-pituitary-thyroid axis, HPT axis'
@@ -33,7 +36,7 @@ tags:
 
 ## Summary
 
-HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +55,19 @@ HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- (B) TSH (thyroid stimulating hormone) Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】TSH, FSH, LH 和 hCG 皆由兩個多肽鏈( $\alpha$ -subunit 與 $\beta$ -subunit)組成, $\alpha$ -subunit 四者皆相同,差別在 $\beta$ -subunit;而 GnRH 僅由一含 10 個胺基酸之多肽鏈組成。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- a. 高泌乳素血症(hyperprolactinemia):泌乳素由腦垂體前葉分泌,正常血液濃度在 $3\sim25$ ng/mL,懷孕時會上升 10 倍。 - (a) 調控:下視丘分泌 TRH 和吸吮乳頭促進,而 dopamine 和 GABA 抑制分泌。 - (b) 症狀:非懷孕女性會造成無月經和乳溢症(galactorrhea)。 - (c) 機制:影響下視丘 GnRH 釋放,抑制 LH 脈動,造成不排卵和無月經。 - (d) 成因:腦垂體腫瘤、甲狀腺低下和藥物(如:抗精神藥物)。 - (e) 診斷:血清濃度> 100 ng/mL,需安排 CT 和 MRI 排除腦垂體腫瘤。 - (f) 治療: dopamine agon Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | 症 狀 | · 心搏過速、焦慮、手抖、減緩母親增重、妊娠劇吐 | |-----|--------------------------| | 表 徵 | ・甲狀腺腫大、突眼 | | 實驗室 | ・TSH ↓和 free T4 ↑ | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- 最好的工具? 醫六-53 - (A) Thyroid stimulating hormone (TSH) - (B) Free T4 - (C) Total serum T4 - (D) Free T3 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- Estradiol \ LH \ \ Progesterone | TSH \ \ free T4 | Prolactin | Testosterone \ \ DHEA-S Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (A) 4. 一位 35 歲女性,因車禍至急診處,左大腿非開放性股骨骨折。 經急診住院,預計第二天進行骨科手術。清晨病人非常焦慮,發 燒 38.7℃,心跳約 110 /分,頸部甲狀腺約三度腫大。此時最 好的檢查及治療不包括下列何者? - (A) 儘快施行骨科手術 - (B) 抽血檢驗 T3、T4、TSH - (C) 冰氈及退燒藥 - (D) beta blockers, corticosteroid 靜脈注射 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (5) 血液甲狀腺素 (thyroxine) 量。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ...狀腺球蛋白(thyroglobulin)上的 Tyrosine 結合形成 MIT 和 DIT。 - (4) Coupling: MIT 和 DIT 合成 T3、DIT 和 DIT 合成 T4。 - (5) Secretion: 下視丘分泌 TRH (thyrotropin-releasing hormone)→腦下垂體前葉分泌 TSH (thyroid-stimulating hormone) 刺激甲狀腺→ T₃和 T₄經由 proteolysis 脱離甲狀腺球蛋白,並離開甲狀腺分泌至血液中。 - (6) 血液中以 T4 為主, T3 和 T4 在血中和 TBG (thyroxine-binding globulin) 結合, 只有 0.04% T4 和 0.4% T3 以 f Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -66,13 +79,6 @@ HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 
 - (B) 15. 王女士 38 歲,接受機械性僧帽瓣置換手術後,術後使用 warfarin sodium,則下列何者正確?①若王女士須服用 thyroxine,應定期 監測 prothrombin time,適當減少 warfarin 的劑量 ②若王女士須 服用當歸、銀杏等中藥,應定期監測 aPTT,適當減少 warfarin 的劑量 ③若王女士須服用口服避孕藥,應定期監測 prothrombin time,適當增加 warfarin 的劑量 ④若王女士嗜食菠菜,應定期 監測 aPTT,適當增加 warfarin 的劑量 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 【詳解】服用 warfarin 要監控 prothrombin time (PT), 服 用 heparin 才是監控 aPTT。服用 thyroxine 會造成凝血因子的 turnover rate 加快,使得 PT prolonged,所以應適當降低 warfarin 服用量。而服用口服避孕藥有增加DVT的危險,故需增加 warfarin 服用量。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...ne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- a. 因受到壓迫而破壞荷爾蒙分泌,最先受到影響的是 GH,接著依序為gonadotropins (LH & FSH)、TSH、ACTH。腦垂體持續被破壞超過 80% 時會出現泛腦下垂體低下症 (panhypopituitarism)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- a. 新生兒篩檢:在台灣檢查 TSH, 其敏感性與特異性均超過 95%。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- b. 新生兒篩檢異常者抽血驗 TSH 和 $T_4$ 或 free $T_4$ 確認( $T_4$ 與 free $T_4$ 會低下)。 血液中 $T_4$ 有可能在正常值範圍故對診斷沒有幫助。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ....6 mIU/L | | | 2~20 wk | 0.6~5.6 mIU/L | ×1 | 0.6~5.6 mIU/L | | | 5 mo~20 yr | 0.5~5.5 mIU/L | ×1 | 0.5~5.5 mIU/L | | | THYROXINE-BI | NDING GLOBULIN, SERUN | vI | | | | Cord blood | 1.4~9.4 mg/dL | ×10 | 14~94 mg/L | | | 1~4 wk | 1.0~9.0 mg/dL | ×10 | 10~90 mg/L | | | 1~12 mo | 2.0~7.6 mg/dL | ×10 | 20~76 mg/L | | | 1~5 yr | 2.9~5.4 mg/dL | ×10 | Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (2) Graves disease: 抗體刺激 TSH 接受器,造成甲狀腺機能亢進。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol/L。下列敘述何者錯誤? - (A) 病人的細胞外液量增加 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book1-ch01]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Iron metabolism (鐵代謝)'
   - 'Iron metabolism'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-鐵吸收、運輸、儲存與發炎調控決定紅血球生成與 anemia pattern。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鐵吸收、運輸、儲存與發炎調控決定紅血球生成與 anemia pattern。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,12 @@ tags:
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book1-ch01]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (C) 28. 一位懷孕 16 週之婦女到婦產科門診接受例行產前檢查,其平均 紅血球容積 (mean corpuscular volume, MCV) 值為 72 fL, 血紅素值為 12.3 g/dL, ferritin 值為 102 ng/mL, 血紅素電泳結果 HbA 98%, HbA2 2%。接下來最適當的處理方式為: Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】此婦女在產前檢查中發現小球性貧血,ferritin 102 ng/mL(正常範圍 18~160)在正常範圍內,排除缺鐵性貧血;血紅素電泳結果 HbA(正常血紅素)98%,HbA2(由兩個 $\alpha$ 和兩個 $\beta$ 球蛋白組成)2%(>3.5% 為 $\beta$ thalassemia minor),所以 (C)建議該婦女的配偶也接受 CBC 及血紅素電泳檢查,確認是否也是海洋性貧血帶因者,以得知胎兒罹患重型海洋性貧血的風險。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - b. HBL:存活率 75%、好發於 1,500 IU/mL, ferritin > 142 ng/mL、NSE > 100 ng/mL。(LDH = lactic dehydrogenase, NSE = neuron-specific enolase —種醣解酶)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...,術後需要足量營養補充,以維持各項生理功能與組織復原。營養補充是否足夠,可藉由下列各種生化檢定來評估,何者除外?(A) 白蛋白(albumin) (B) 球蛋白(globulin)(C) 前白蛋白(prealbumin) (D) 轉鐵蛋白(transferrin) | 105(二)專醫五-3 | | (A) | 9. 下列對於再餵食症候群(refeeding syndrome)的敘述,何者錯誤? (A) Refeeding syndrome 又稱為 magnesium steal syndrome (B) 為避免 refeeding syndrome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...疾病有關? (A) 鎂 (magnesium) (B) 鉀 (potassium) (C) 磷 (phosphorus) (D) 鐵 (iron) 【詳解】此懷疑 restless leg syndrome。約 20% 的病人有缺鐵的病症(ferritin 5. 下列有關健康成人正常睡眠的結構,何者正確?(A) 每個睡眠週期約 60 分鐘(B) 非動眼睡眠第三期約占睡眠 50% 的時間(C) 入睡通常小於 5 分鐘(D) 每晚經歷 3~5 個睡眠週期 | 107(二)專醫四-49 | |-----|------------------------------------------------------------------------------------------------ Source: [[sources/med4-book4-ch08|辛、肌肉病變]].

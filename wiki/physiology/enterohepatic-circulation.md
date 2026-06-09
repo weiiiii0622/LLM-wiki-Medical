@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch08]]"
   - "[[sources/med3-book2-ch19]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book3-ch12]]"
   - "[[sources/med5-book3-ch04]]"
   - "[[sources/med5-book3-ch07]]"
+  - "[[sources/med6-book1-ch05]]"
 aliases:
   - 'Enterohepatic circulation (腸肝循環)'
   - 'Enterohepatic circulation'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-膽汁酸與部分物質在肝膽腸之間循環。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽汁酸與部分物質在肝膽腸之間循環。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ tags:
 - [[sources/med5-book3-ch12]]
 - [[sources/med5-book3-ch04]]
 - [[sources/med5-book3-ch07]]
+- [[sources/med6-book1-ch05]]
 
 ## Key Details From Sources
 
+- (A) 孕婦血清膽酸 (bile acids) Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
+- 【詳解】ICP 是一種孕婦常見的肝臟疾病,常見的兩大表現為手 腳掌搔癢與血清膽酸(bile acid)上升(≥10 umol/L),通常發 生於妊娠中後期,產後便快速緩解。膽酸會堆積在胎兒或羊水 中,可能會導致早產、子宮內胎兒死亡、羊水胎便、新生兒呼 吸窘迫等風險增加。孕婦血清膽酸可作為預測胎兒預後的指標, 血清膽酸濃度愈高,胎兒預後愈差,研究顯示血清膽酸 > 100 umol/L,子宫内胎兒死亡發生率可達 10~15%。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - (#) 2. 膽鹽在那一段腸道會被再吸收,進入腸肝循環 (enterohepatic circulation)? - (A) 十二指腸 (duodenum) - (B) 空腸 (jejunum) - (C) 迴腸 (ileum) - (D) 結腸 (colon) Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - 1. 膽鹽在那一段腸道會被再吸收,進入腸肝循環(enterohepatic (#) circulation)? Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - 4. 除了一般的水溶性、脂溶性維生素可在空腸被吸收之外,Vit. $B_{12}$ 與 Bile acids 也可在 terminal ileum被吸收。 Source: [[sources/med5-book3-ch04|甲、解剖構造]].

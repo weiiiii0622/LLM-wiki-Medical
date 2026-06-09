@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Vesicoureteral reflux, VUR (膀胱輸尿管逆流)'
   - 'Vesicoureteral reflux, VUR'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-膀胱尿液逆流至輸尿管/腎盂，增加反覆 UTI 與腎瘢痕風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膀胱尿液逆流至輸尿管/腎盂，增加反覆 UTI 與腎瘢痕風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...液的滯留、甚至逆流,導致腎盂及輸尿管擴大, | | | 形成 hydro-nephrosis 及 hydroureter,容易引起泌尿道感染 | | 膀胱 | • 黃體素使得膀胱輸尿管瓣膜的功能不全,加上膀胱壓增加,造 | | | 成間歇性膀胱輸尿管逆流 (vesicoureteral reflux) | | | • 懷孕子宮擴大會壓迫膀胱,膀胱容積減少,造成頻尿及急尿等 | | | 症狀 | | 尿道 | • 黃體素使得尿道的支持韌帶及括約肌鬆弛,導致尿道壓下降, | | | 容易引起尿失禁 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (1) 雙套 (Duplication of ureter): - a. 流行病學:女性多於男性;左或右側發生率相當、單側發生為雙側發生的6倍; 有家族遺傳傾向。 - b. 臨床表徵:分兩類。 - (a) 不完全型(有一條未接到膀胱,呈Y字型):常為無症狀,有時會有尿液滯留、輸尿管擴張、逆流等情形。常有腎臟異常。 - (b) 完全型(兩條都接到膀胱):常伴隨有膀胱輸尿管逆流或感染。注意:常逆流的輸尿管是膀胱內較上方的輸尿管開口,因為這條輸尿管不僅較短且進入腎臟位置較低(Weigert-Meyer law)(記法:上到下內,下到上外)。 - c. 治療:保守治療或手術治療。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (2) 輸尿管腎盂接合處阻塞 (ureteropelvic junction obstruction, UPJO): - a. 流行病學:男性好發、左側;雙側機率為 25%。 - b. 臨床表徵: - (a) 症狀:常為無症狀;少數在水腎嚴重時會有腰腹疼痛、血尿、泌尿道感染、結石或高血壓等表現。嬰兒常以腹部腫塊表現;孩童常以疼痛及嘔吐表現。 - (b) 影像學:超音波(大部分是產前超音波)、diuretic renal scan、IVU、voiding cystourethrogram (VCUG)。 - c. 治療:腎盂整型術,預後不錯。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (4) 膀胱輸尿管逆流 (vesicoureteral reflux, VUR): - a. 流行病學: 有家族遺傳性(VUR 父母的子女 60% 有 VUR; 有 VUR 的兄弟姊妹, 有 30% 也會發生 VUR)。 - b. 分類: - (a) Grade I: 只逆流到輸尿管,輸尿管未擴大。 - (b) Grade II: 逆流到輸尿管、腎盂及腎盞, 但仍沒有管道擴大的現象。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].

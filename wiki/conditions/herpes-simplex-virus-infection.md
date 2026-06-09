@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Herpes simplex virus infection, HSV (單純皰疹病毒感染)'
   - 'Herpes simplex virus infection, HSV'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,13 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | 感染性 | · 最常見的病原菌為披衣菌 (Chlamydia trachomatis), 其次為淋病雙球 | | |------|-------------------------------------------------------------------------|--| | | 菌 ( Neisseria gonorrhoeae ),Herpes simplex virus 和 Trichomonas 佔 | | | | 少數個案 | | | 非感染性 | • 包括機械性刺激(如手術創傷、異物刺激)、化學性刺激(如陰道灌 | | | | 洗、藥物刺激)和放射治療等 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 6. 生殖器潰瘍 (genital ulcers) 傳染性疾病: - (1) 單純疱疹病毒 HSV: - a. 最常見造成生殖器潰瘍的感染源,分 type 1 和 type 2 可能感染下生殖道或口,有高度傳染性(80%的女性接觸後感染); - b. 臨床表現:影響陰唇陰道和肛門周圍區域,起初皮膚發炎,有灼熱、搔癢和神經過敏(hyperaesthesia)感覺,若影響尿道會造成排尿困難,接著疼痛的小硬結(indurated papule)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (D) Herpes simplex infection Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (2) 菌種:分為兩大類 (a) 淋病 (Neisseria gonorrhoeae); (b) 非淋病 (Chlamydia trachomatis、Ureaplasma urealyticum、Trichomonas vaginalis、和 herpes simplex virus)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (1) 移植後之感染前一個月以內以細菌、Candida 造成傷口感染、肺炎、泌尿道感染、血管內導管引起之敗血症;病毒以 HSV 為主,使用預防性的 acyclovir 可有效降低此時感染的發生率。捐贈者原本慢性或潛在性感染會造成受贈者感染到 HIV、HBV 和 HCV。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -64,9 +69,6 @@ tags:
 - (A) 1. 關於多形性紅斑(erythema multiforme)的敘述,下列何者錯誤? 109(二)專 醫四 -35 - (A) 病理組織檢查常見真皮纖維化 - (B) 典型表徵為標靶病灶 (target lesion) - (C) 部分病人和單純疱疹病毒的感染相關 - (D) 發病部位可包括黏膜 Source: [[sources/med4-book2-ch11|子、其 他]].
 - XVI. 單純疱疹病毒 (Herpes Simple Virus) 199 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- # XVI. 單純疱疹病毒 (Herpes Simple Virus) Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 1. 病因:TORCH 感染危一系列感染統稱。Toxoplasmosis、**O**ther (syphilis)、**R**ubella、**C**MV、**H**erpes simplex virus (HSV)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...ventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

@@ -14,6 +14,8 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch15]]"
 aliases:
   - 'Fluoroquinolones (氟喹諾酮類)'
   - 'Fluoroquinolones'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch15]]
 
 ## Key Details From Sources
 
+- ...or single daily dose - b. parenteral regimens 治療至少 48 小時,若症狀改善持續超過 24 小時,即可改為口服藥物,合計使用 14 天。 - ※ 2007 CDC guidelines 提及,fluoroquinolones 因產生抗藥性,不建議再用 於治療淋病雙球菌(Neisseria gonorrhoeae)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ※ 複雜性泌尿道感染易出現抗藥性菌株,如 extended-spectrum beta-lactamase (ESBL) *E. coli* 或 fluoroquinolone-resistant *E. coli* Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - ...-----|-------------------------------| | Gram-positive cocci | | | | Staphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, pe Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...---------------------|-------------------------| | Cystitis | E. coli | 1ST: TMP-SMX | 1~3 days | | | Klebsiella | 2nd: Fluoroquinolone | | | Pyelonephritis | E. coli | 1st: Fluoroquinolone | 7~10 days | | | Proteus | 2nd: 2nd generation cephalosporin | | | | Klebsiella | 3rd: Aminopenicillin/BLI | | | | Enterobacteria | | | | Complicated UTI | E. coli Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (2) Fluoroquinolone (Ciprofloxacin® Levofloxacin®) - a. 優點:對 G(-) 菌叢有廣效效果,治療 UTI 效果良好,不論是 uncomplicated 或 complicated。 - b. 缺點:價格貴。對大部份厭氧菌無效。注意雖然對於 Staphylococci species 也有效但是效果不佳,而且容易篩選出抗藥性菌株。 - c. 機轉:抑制細菌 DNA 合成。 - d. 禁忌:不可用於孕婦及小孩(影響軟骨生長)。 - e. 特殊副作用:較少發生副作用。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -61,7 +67,6 @@ tags:
 - ...ugmentin®) | | | 糖质 | 尿病足 | S. aureus 或一些厭氧的 streptococcus | | | | 生處 | 誘鐵釘刺入組織深 | Pseudomonas | Ceftazidime (Fortum) 或 Ciprofloxacin | | | 接觸 | 生食海鮮+肝硬化在海邊受傷(鹹水) | Vibrio vulnificus | 3rd cephalosporin+ Tetracycline(台灣有研究顯示加 Tetracycline 預後較加) | | | 胸水 | 摔到水溝水、泡溫泉(淡水) | Aeromonas hydrophila (GNB) | 對 Quinolone, Baktar, 3 rd ceph 皆敏感 | | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - | 菌種 | 治療 | 危險因子 | |-----------------------------------|------------------------------------------|---------------| | Group A streptococcus (S. pyogen) | Pencillin + Clindamycin | | | Vibrio vulnificus | Doxycycline+Ceftriaxone | Cirrhosis+ 海水 | | Aeromonas hydrophila | Doxycycline+Ceftriaxone or Ciprofloxacin | Cirrhosis+ 淡水 | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - (A) 1. 一位 50 歲病人,腎超音波檢查可見兩個腎臟皆長約 15 公分,以及 非常多個大小不一的囊泡(cysts),家族中亦有人患有此病,下列 敘述何者錯誤? - (A) 大多數的病人為自體隱性 (autosomal recessive) 遺傳 - (B) 病人產生腎結石的機會較一般人高 - (C) 有些病人會出現顱內血管瘤(aneurysm),但不需所有此類病人皆作顱內血管瘤的篩檢 - (D) 若囊泡出現細菌感染, ciprofloxacin 是用藥選擇之一 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
-- 3. 診斷、治療: (Harrison table 122-5) - (1) 治療首重水分、電解質補充。 - (2) 針對腹瀉較嚴重,但沒發燒且糞便中無 WBC 者,可給予止瀉劑(loperamide)控制症狀;但有發燒或糞便中有 WBC 者則不可使用,因止瀉劑會延長這類病患的病程。 - (3) 針對較嚴重的發燒及糞便中有 WBC 患者,在未知病原菌時,可給予 ciprofloxacin (500 mg bid, 3 天)或 Azithromycin (500 mg qd, 3 天);懷疑 Giardia 感染,則可考慮口服 Metronidazole。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 
 ## Clinical Caveats
 

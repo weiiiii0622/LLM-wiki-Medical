@@ -74,6 +74,11 @@ sources:
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Thyroid gland (甲狀腺)'
   - 'Thyroid gland'
@@ -88,7 +93,7 @@ tags:
 
 ## Summary
 
-甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -162,9 +167,24 @@ tags:
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch06]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- C. 懷孕併甲狀腺疾病 (Pregnancy with thyroid diseases) 144 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | 症 狀 | · 心搏過速、焦慮、手抖、減緩母親增重、妊娠劇吐 | |-----|--------------------------| | 表 徵 | ・甲狀腺腫大、突眼 | | 實驗室 | ・TSH ↓和 free T4 ↑ | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...,下列何者錯誤? (A) 類固醇激素(steroid hormones)的受體存在於細胞核中 (B) 蛋白質性激素(peptide hormones)的受體存在於細胞膜上 (C) 人類絨毛膜性腺刺激素(hCG)的受體存在於細胞核中 (D) 甲狀腺激素(thyroid hormone)的受體存在於細胞核中 | 109(一)專醫六-50 | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (B) TSH (thyroid stimulating hormone) Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原發性卵巢功能不全 | | | 多囊性卵巢症候群 | | 其他內分泌異常 | 甲狀腺低下或亢進 | | | 雄性激素分泌腫瘤或曝露於過多雄性激素 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...檢查項目 | | | | | 第1次 | 妊娠第一期,妊娠未滿 17 週 | 12 週前 | 、於妊娠第 12 週或第一次檢查,須包括下列檢查項目: ・問診:家庭疾病史、過去疾病史、過去孕產史、本胎不適症狀。 ・身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 ・實驗室檢查:血液常規(WBC, RBC, Plt, Hct, Hb, MCV)、血型、Rh 因子、B型肝炎(HBsAg, HBeAg)、梅毒(VDRL)、德國麻疹(Rubella IgG)、HIV、尿液常規。 二、例行產檢。 註:若德國麻疹抗體檢查呈陰性之孕婦,宜在產後注射德國麻疹疫苗 ※預產期評估(Naegele's rule):LMP 日期,月+9,日+7+(週期-28) | | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】isotretinoin 在懷孕的風險等級為 X,懷孕時禁用,除增加流產率外,其代謝物會通過胎盤,造成胎兒異常(包括五官、腦部發育異常、低智商、心臟發育異常、胸腺及副甲狀腺異常等)。phenytoin 在懷孕的風險等級為 D,雖然也會造成胎兒異常,但必要時仍可使用。另外,fluconazole 為 C級;metformin 為 B級。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...----------------------------------------------------| | 母親因素 | 懷孕併發症 | | 抗磷脂質症候群 (Antiphospholipid syndrome) | 子癲前症 | | 甲狀腺功能亢進 | 胎動減少 | | 血紅素異常疾病(如:地中海貧血) | 羊水過少 | | 紅斑性狼瘡 | 羊水過多 | | 發紺性心臟病 (cyanotic heart disease) | 胎兒生長遲緩 (fetal growth | | | restriction) | | 慢性腎病 | 過期懷孕 (post-term pregnancy) | | 第一型糖尿病 | 前胎不明原因流產 | | 高血壓 | 多胞胎 | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | 分 類 | Fetal bradycardia | Fetal tachycardia | |------|------------------------------------|-------------------| | 母親因素 | ・母親低血壓 | • 母親焦慮 | | | | • 母親發燒 | | | | • 母親有甲狀腺疾病 | | 胎兒因素 | ・晩期胎兒缺氧 | ・早期胎兒缺氧 | | | 臍帶脱垂或臍帶壓迫時間太長 | ・胎兒感染 | | 藥物因素 | ・止痛薬、麻醉藥物、催產素・安胎藥物 (Ritodrine) | | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - (2) 次發性(10%): - a. Type III:由於其他器官的原因造成,如內分泌疾病(包括甲狀腺、副甲狀腺或腎上腺等功能異常)、營養不良、血液疾病、藥物以及其他疾病等原因引起之骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - b. 促成骨 (bone-forming medication): 副甲狀腺素 (PTH),可以使 osteoblast 活性上升,增加骨質密度,但此類藥品要間斷使用 (intermittent use),如持續使用 (continuous use) 反而會有蝕骨作用。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - #### 2. 副甲狀腺機能亢進的實驗數值變化: Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
@@ -173,16 +193,6 @@ tags:
 - (A) 4. 一位 35 歲女性,因車禍至急診處,左大腿非開放性股骨骨折。 經急診住院,預計第二天進行骨科手術。清晨病人非常焦慮,發 燒 38.7℃,心跳約 110 /分,頸部甲狀腺約三度腫大。此時最 好的檢查及治療不包括下列何者? - (A) 儘快施行骨科手術 - (B) 抽血檢驗 T3、T4、TSH - (C) 冰氈及退燒藥 - (D) beta blockers, corticosteroid 靜脈注射 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 2. 簡介:腕隧道症侯群是手腕處神經受壓很好發的位置,以女性患者較常見,主要好發於兩個年齡層:一為懷孕後,另一為 40~60 歲停經前後之女性,平均年齡為 51 歲,其他的 risk factor 包含:obesity、pregnancy、hypothyroidism、rheumatoid arthritis。 Source: [[sources/med5-book6-ch06|己、手部]].
 - ...隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占鈣結石成因 15%。較常見的原因是攝取高 purine 食物、內生性尿酸分泌過量,引起高尿酸尿鈣(hyperuricosuric calcium)結石。(注意:這跟尿酸 (uric acid) 結石不一樣,一個含鈣一個不含鈣,尿 pH 值一個 > 5.5 (因為是產生 monosod Source: [[sources/med5-book5-ch05|戊、結 石]].
-- (B) 29. 一位 35 歲女性病患,其腹部 X 光片如下圖,則下列敘述何者 99(-)專 正確? 醫五-74 - (A) 是非常複雜之尿路結石,若 不處理腎臟功能迅速變壞 - (B) 大多數沒有症狀,也不需積 極處理 - (C) 此症常與腎臟小管酸血症 (renal tubular acidosis)及甲 狀腺功能亢奮 (hyperthyroidism)有關 Source: [[sources/med5-book5-ch05|戊、結 石]].
-- ...稱「副腫瘤綜合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (b) 內分泌方面(Hormonal): - i. 性腺功能不足(=睪固酮分泌减少,最常見內分泌造成 ED 的原因)。 - (i) 腫瘤:下視丘或腦下垂體腫瘤使 LH 過低→睪固酮分泌減少。 - (ii) 藥物:前列腺癌病人接受睪丸切除術或使用女性荷爾蒙 / 抗男性 賀爾蒙,造成睪固酮分泌減少。 - ii. 高泌乳激素症:抑制 LH,造成睪固酮分泌减少。 - iii. 甲狀腺機能亢進/低下。 - iv. 腎上腺皮質機能亢進/低下。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- G. 甲狀腺腫瘤(Thyroid tumor) 70 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- The lymphatic drainage of the thyroid (Moore et al. 2010. pp. 1021). Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- 3. 頸部中線腫瘤:有甲狀舌骨囊腫(thyroglossal duct cysts)、淋巴結腫大(enlarged lymph nodes)、皮樣囊腫(dermoid cysts)、血管瘤(hemangiomas)、甲狀腺椎體葉(pyramidal lobes of the thyroid)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- 5. 最常見的孩童惡性腫瘤:肉瘤(sarcomas)、淋巴瘤(lymphomas)、轉移性甲狀腺癌(metastatic thyroid carcinoma)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- 2. 機轉 & 成因:甲狀舌骨殘跡包含胚胎發育過程的甲狀腺、舌頭和舌骨。腫塊範圍 從舌頭基部到甲狀腺椎葉,如果甲狀腺移行完全失敗就會形成舌部甲狀腺。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- 4. 血管架構: 豐富的血管淋巴組織營養和引流食道,也提供了手術血液供應安全網絡, 但也成了腫瘤轉移的方便路徑。 - (1) 頸部血管網:主要由左右下甲狀腺動脈(inferior thyroid arteries)供應,左側來 自胸甲狀腺動脈幹分枝,右側來自鎖骨下動脈分枝。【註:環咽肌非食道本身 結構,由上甲狀腺動脈供應。】 - (2) 胸部血管網:由6條源自於主動脈和支氣管動脈的分枝供應,分別是下甲狀腺動脈下降支 (descending branches off the inferior thyroid arteries)、肋間動脈 (intercostal arteries)和成對的下 Source: [[sources/med5-book4-ch05|戊、食 道]].
 
 ## Clinical Caveats
 

@@ -57,6 +57,12 @@ sources:
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch08]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch14]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch17]]"
 aliases:
   - 'Lung cancer staging (肺癌分期)'
   - 'Lung cancer staging'
@@ -71,7 +77,7 @@ tags:
 
 ## Summary
 
-肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌治療選擇依組織型與分期。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -128,9 +134,25 @@ tags:
 - [[sources/med5-book6-ch04]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch08]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch14]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch17]]
 
 ## Key Details From Sources
 
+- 早期上皮性卵巢癌通常無明顯症狀或出現一些非特異性症狀(如腹脹、腹痛、食慾不振和頻尿等),不容易早期發現。因此,一旦診斷,75%的患者已達晚期(Stage III or IV)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- FIGO (International Federation of Gynecology and Obstetrics) 和 AJCC (American Joint Committee on Cancer) TNM 分期如下 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | FIGO stage | | Invasio | | TNM | AJCC | |-------------|----|---------|-------------------------------|---------|------| | I(侷限卵巢) | IA | | 】巢(外囊完整、無侵犯卵巢表面、無惡)(註1) | T1aN0M0 | IA | | | IB | ' ' ' ' | 雙側卵巢(外囊完整、無侵犯卵巢表面、無惡生腹水) | | IB Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ### (2) POP-Q staging Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- | Proximal | | | | | | Distal | | | |----------|----------|---|----|-------|-----|--------|-------|----------------| | | | | | Hymen | | | | | | No | prolapse | | -1 | 0 | +1 | | tvl-2 | | | | | | | | | | | successiving a | | Stage | 0 | 1 | | 2 | → - | 3 | → - | 4 | | | li | | il | | li | | il | | Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- | Stage | 最遠端與處女膜 (hymen) 距離 | | | | |-------|------------------------------------------------------------------------------------|--|--|--| | | 沒有脫垂 | | | | | 0 | Aa, Ba, Ap, Bp: - 3 cm | | | | | | $C \text{ or } D : \leqq - (tvl - 2)$ | | | | | 1 | C or D \cdot Ba \cdot Bp ') Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- | 1st stage | ・ 產痛開始到子宮頸完全擴張 (包括 latent phase 和 active phase) | | | |-----------|-------------------------------------------------|--|--| | 2nd stage | · 子宮頸完全擴張到胎兒產出 | | | | 3rd stage | 胎兒產出到胎盤產出 | | | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- a. 1st stage:包括 latent phase 和 active phase Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- ...超過 20 小時;經產婦不會超過 14 小時 | | | | Active | ・子宮頸 3~4 cm 到完全擴張,為活化期 | | | | phase | · 此時期子宮收縮強、子宮頸快速擴張,不受鎮靜或麻醉影響 | | | | 3rd stage | · 活化期的長短平均來說,初產婦約 4.6 小時;經產婦約 2.4 小時 | | | | englishering Paris II. | ・ 活化期又可分為下列 3 個階段: | | | | | (i) acceleration phase (ii) phase of maximum slope | | | | | (iii) deceleration phase | | | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- | Stage | Score | |----------------|-------| | I (minimal) | 1~5 | | II (mild) | 6~15 | | III (moderate) | 16~40 | | IV (severe) | > 40 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - #### (1) FICAT stage: Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - | Stage | | | Clinical Features | Radiographs | |----------------------------------------------|---|------------------------------------------|-------------------|-----------------------------------------| | Early 0 Preclinical Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - 【詳解】使用類固醇、喝酒都是 ONFH 的 risk factors。X ray 上可以看到左邊 hip joint 的 joint space 不對稱且變窄,甚至有 OA (joint space narrowing, sclerotic change, subcondral bone cyst)的樣子,需懷疑是 ONFH,FICAT stage IV。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
@@ -139,16 +161,6 @@ tags:
 - (1) X-ray:有 Waldenstrom classification(分四個 stage:initial → fragmentation → reos sification → residual phase)和 Herring classification(又稱 Lateral Pillar System, lateral Pillar 的位置是下圖中的黑色區域,高度影響愈多表示缺血性壞死愈嚴重。如下圖:stage A:lateral pillar 高度不受影響;stage B:lateral pillar 高度 > 50 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - (2) 分級及分期 (grading and staging): - a. 分級 (grading): Gleason score。 - (a) 是一種病理分級,病理科醫師會就顯微鏡下看到的細胞形態,以最大片 (寫前面)+最高分(寫後面)的分數相加,就是 Gleason score。分數從 2(1+1)到 10(5+5)分。 - (b) 2~4 分為 well-differentiated、5~7 分為 moderately-differentiated、8~10 分為 poorly differentiated。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - b. 分期 (staging): TNM。 - (a) T: - i. Tx:無法評估。T0:沒有證據顯示有腫瘤。 - ii. T1: DRE(-),且 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (3) 影像:看腫瘤、看轉移。 - a. 常規: TRUS (經直腸超音波,腫瘤 70% 低回音(較黑)、20% 與一般攝護腺同回音(同色)、10% 高回音(較白))。 - b. 定 stage: MRI (在 T2 下腫瘤較黑 / 低訊號 )、CT、CXR、whole body bone scan。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- d. 腫瘤分期 (stage): TNM - (a) T - i. T1:腫瘤局限於腎臟內,≦7cm。 - (i) T1a: 腫瘤 7 cm。 - (i) T2a: 腫瘤 7~10 cm。 - (ii) T2b:腫瘤> 10 cm。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- 2. 膀胱:間質性膀胱炎 (interstitial cystitis): - (1) 流行病學:好發於超過40歲的女性。 - (2) 病因學:慢性膀胱發炎 (end-stage inflammatory),機轉未明。 - (3) 臨床表徵: Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- d. 膀胱鏡:包括膀胱鏡檢與切除(transurethral resection, TUR)後送病理檢驗, 是確診膀胱癌的必要方式,因為膀胱癌臨床分期(用 PE 及影像評估)有 50% 會低估實際的病理分期(down stage)。 - (a) 膀胱鏡觀察:膀胱癌外觀分乳突狀(papillary)與扁平狀(flat)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- a. 最初發現腫瘤時的狀態: - (a) 分期 (stage): - i. 75% 是表淺且未侵犯肌肉層(Tis、Ta、T1)。 - ii. 25% 到肌肉層甚至遠端轉移(T2以上)。其中80% 是新診斷而無病史。 - (b) 分化 (grade): 50% 低分化、50% 高分化 (分化不良)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- | | N0 | N1 | N2 | N3 | |-----|--------------|-----------|------------|------------| | Tis | Stage 0 | | | | | T1 | Stage IA | C4 TIA | C. IID | C. HO | | T2 | | Stage IIA | Stage IIB | Stage IIC | | Т3 | Stage IB | (S0/1) | (S0/1) | (S0/1) | | T4 | | | | | | | S0 | S1 | S2 | S3 | | M1 | Cto co III A | | C4 IIID | | Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- \*stage IS = anyTN0M0 但 S 不為 0。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (a) 初始治療:一律先睪丸切除(orchiectomy),之後依 stage 與術後腫瘤標記 決定治療方向。 - i. 精原細胞瘤 (seminoma): - (i) 低分期(stage I + 術後 AFP 測不到):可選擇觀察、化療、放射治療。 - (ii) 中分期(stage II+術後 AFP 測不到):可選擇化療、放射治療。 - (iii)高分期(stage III 或術後 AFP 升高): 進行化療。 - ii. 非精原細胞瘤 (non-seminoma): - (i) 低分期(stage I + Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- Table 1 Cancer staging categories for cancer of the esophagus and esophagogastric junction Source: [[sources/med5-book4-ch05|戊、食 道]].
-- Table 2 Clinical (cTNM) stage grouups Source: [[sources/med5-book4-ch05|戊、食 道]].
 
 ## Clinical Caveats
 

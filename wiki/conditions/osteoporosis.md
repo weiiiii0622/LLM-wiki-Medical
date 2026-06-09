@@ -29,6 +29,8 @@ sources:
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Osteoporosis (骨質疏鬆症)'
   - 'Osteoporosis'
@@ -43,7 +45,7 @@ tags:
 
 ## Summary
 
-骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +74,16 @@ tags:
 - [[sources/med5-book6-ch09]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- G. 骨質疏鬆症 (Osteoporosis) 350 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...刺激 stroma 和 duct 的生長及 pigmentation (第二性徵),而 proges- | | | | | terone 則刺激 gland alveoli 生長 | | | | 骨骼 | estrogen 可留住鈣質、對抗骨質疏鬆,並且在青春期促進長高和長骨生長 | | | | | 板關閉 | | | | 心血管 | estrogen 和 progesterone 對血管內皮細胞、脂質代謝和凝血因子都有不同的 | | | | | 作用 | | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 用以緩解更年期症狀,非用於預防骨質疏鬆、心血管疾病或失智症。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...| 膜組織的蛻膜化及萎縮 | 持續使用會造成無月經 | | 及黃體素) | 可週期性或持續性使用 | | | 黃體素 | · 高劑量黃體素可促進異位內膜組 | ・體重增加和不規則陰道出血 | | | 織的蛻膜化及萎縮 | • 長期使用需注意骨質疏鬆及血脂 | | | | 異常 | | GnRH | ・使腦垂體受器 down-regulation, | • 停經症候群 ( 如熱潮紅、陰道乾 | | agonists | 而無法產生 LH 和 FSH,抑制卵 | 澀、性慾降低等) | | - | 巢功能,達到假性停經的狀態 | ・骨質疏鬆 | | | • 肌肉或皮下注射,合成製劑半衰 | | | | 期長,目前有一個月一劑或三個 | | | | 月一劑兩種劑型。目前亦有鼻噴 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- · 為減少使用 GnRH agonists 造成的停經症候群,可使用 add-back therapy,add-back therapy 可合併 estrogen 和 progestin 或單用 NETA;另外,為避免骨質疏鬆,使用 GnRH agonists 以 6~12 個月為限。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 本章節會針對骨質疏鬆、關節炎以及骨病變相關檢驗數值的變化做討論, 建立更完整的骨科概念。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (3) T-score 小於 -2.5 個標準差 (SD) 稱為骨質疏鬆 (osteoporosis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (1) 原發性(90%): - a. Type I:停經後引起,稱之為停經後骨質疏鬆症(post-menopausal osteoporosis)。 - b. Type II: 年紀大造成鈣質吸收不足所引起,稱之為老年型骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
@@ -88,11 +97,6 @@ tags:
 - (D) 骨質疏鬆密度檢查 T < -2.5 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...跳加速 | 增加血管阻力、心跳減慢 | | 呼吸 | 喘 | 呼吸抑制,二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disea Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (B) 缺乏鋅(zinc)會造成禿頭(alopecia) (C) 接受過胃切除的病患容易缺乏鐵(iron) (D) 缺乏 vitamin D 會造成骨質疏鬆(osteoporosis) Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- (5) 病理性滑脫(Pathological):骨質疏鬆、局部性的感染或腫瘤侵犯造成的病理性骨折所引起,少見。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...cavernosus reflex 都會消失。 (BC) 11. 關於脊椎的爆裂性骨折(burst fracture)之敘述,下列何者正確? 106(二)專 (A) 發生機轉與脊椎的 Chance 氏骨折相同 醫五-60 (B) 容易發生在骨質疏鬆症的病人 (C) 脊椎體塌陷大於 50% 為不穩定骨折 (D) 與脊椎的壓迫性骨折 (compression fracture) 相比,較少發 生神經損傷 【 詳解】(A) Chance fracture 為屈曲牽張性損傷 (Flexiondistraction injury );(D)爆裂的碎片容易對附近著神經造成損傷。 (#) 12. 下列有關脊神經及支配的肌肉配對,何者錯誤? 106(一)專 (A) C5 – deltoid mu Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- 1. Prednisolone: 具有抗發炎和免疫抑制的作用,抑制 macrophage,降低 IL-1,2,6 和 TNF 的分泌。副作用有水牛肩、月亮臉、骨質疏鬆、肌肉無力、高血壓、高血糖、感染、消化道潰瘍,少數人會白內障或青光眼。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- ...臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...肥胖的併發症。肥胖會增加下列那一種疾病的風險? (A) 甲狀腺功能低下症(hypothyroidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 
@@ -108,7 +112,10 @@ tags:
 - [[conditions/distal-radius-fracture|Distal radius fracture (遠端橈骨骨折)]]
 - [[conditions/femoral-neck-fracture|Femoral neck fracture (股骨頸骨折)]]
 - [[conditions/intertrochanteric-fracture|Intertrochanteric fracture (股骨轉子間骨折)]]
+- [[drugs/menopausal-hormone-therapy|Menopausal hormone therapy, MHT (更年期荷爾蒙治療)]]
+- [[conditions/menopause|Menopause (更年期／停經)]]
 - [[conditions/osteonecrosis-femoral-head|Osteonecrosis of femoral head, ONFH (股骨頭缺血性壞死)]]
+- [[conditions/primary-ovarian-insufficiency|Primary ovarian insufficiency, POI (原發性卵巢功能不全)]]
 
 ## Follow-up
 

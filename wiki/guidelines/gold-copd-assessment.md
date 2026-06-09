@@ -36,6 +36,9 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)'
   - 'GOLD COPD assessment'
@@ -50,7 +53,7 @@ tags:
 
 ## Summary
 
-COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +89,17 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ·腹腔鏡是診斷的 gold standard;不過,肉眼辨識病灶的敏感度約 95%,故有不確定的病灶,仍需切片檢查 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 【詳解】由臨床症狀(經痛、性交疼痛、非經期腹痛)及超音波發現(均質毛玻璃樣囊腫),懷疑為子宮內膜異位症合併巧克力囊腫,腹腔鏡為診斷的 gold standard,故選(A)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- | 子宮鏡 | 為診斷子宮腔沾黏的 gold standard,肉眼直接確認沾黏並可評估沾黏 | |-------|----------------------------------------| | | 的範圍和嚴重度 | | 子宮輸卵管 | 敏感性不高 (75%) 且易有偽陽性 (30%),一般只能當做篩檢的工具, | | 攝影 | 典型的表現可見子宮腔內有 filling defect | | 超音波 | 診斷力差,主要可用來評估子宮內膜厚度以預測術後的預後好壞 | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- 【詳解】子宮鏡為診斷子宮腔沾黏的 gold standard,肉眼直接確認沾黏並可評估沾黏的範圍和嚴重度。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- ...| 不準確 | 只有嚴重羊水流失,超音波才能偵測出 | | Amnio-dye infusion | 將稀釋的 indigo carmine 打入羊膜腔內,陰道放置乾淨紗布,30 分鐘後取紗,若紗布有染劑及證實有破水 | 為傳統診斷水的 gold standard | 破 須做羊膜穿刺,具高度侵犯性,更增加破水、感染、出血的風險 | | | 新一代 | 方式 | | | 方法 | 技術 | 精確度 | 注意事項 | | IGFBP-1(Actim Promtest) | 須以鴉嘴撐開,以棉棒於陰道取樣 10~15 秒,棉棒取樣後放入試劑中攪動 1 分鐘,之後試紙放入試劑中,若呈現 2 條線則為陽性反應,陰性確認須等待 5 分鐘 | 敏感性 88.3%特異性 91.1% | 1. Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...Staphylococcus saprophyticus | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Streptococcus, group D | | | | S. faecalis (enterococci) | Ampicillin, nitrofurantoin | Ampicillin plus gentamicin | | S. bovis | Penicillin G, ampicillin | Ampicillin, vancomycin | | Streptococcus, group B | Ampicillin, cephalosporin | Ampic Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ii. 根除性膀胱切除(radical cystectomy): 切除所有前骨盆腔器官。對 侵犯肌肉層(T2)的膀胱癌是黃金標準(gold standard)治療,另外 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術。注意此手術為大手術,故術前需停止服用抗凝血劑一週。且由於手術時間長,故腿部深層靜脈血栓可能於術後發生,手術的死亡率約為 2%。 - (i) 移除所有前骨盆腔器官。 - ①男性:移除膀胱及周圍脂肪、前列腺、儲精囊。 - ②女性:移除膀胱及周圍脂肪、卵巢、子宮、子宮頸、陰道上三分之一、尿道。(注意:骨盆淋巴結摘除與否,對預後無助益。) - (ii) 術後復發:復發率 10%,通常在三年內發生。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...) 是常用的治療選擇,然而,下列何種情形是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
@@ -102,11 +113,6 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - 2. 診斷: - (1) Colonoscopy: Gold standard,可同時作 biopsy。 - (2) Flexible sigmoidoscopy • - (3) Air-contrast enema:可清腸且偵測阻塞的程度。 - (4) Proctoscopy with rigid sigmoidoscopy: 可偵測 50% 的結腸癌,如果是用 flexible sigmoidoscopy 可偵測到 75% 的結腸癌。 - (5) DRE:可檢查直腸腫瘤大小、ulceration、local invasion、lymph node。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPI Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (1) Angiogram: DSA (digital subtraction angiography),為評估大腦動脈瘤的 gold standard,可偵測出 80~85%的 aneurysm。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- | Age | Bacteria | Virus | |-----------|---------------------------------|-----------------------------| | 新生兒 | Group B streptococcus | Enterovirus | | ( 感染的肺炎。感染流感的病童,在感染後需注意 $\bf S$ . $\bf aureus$ 感染的肺炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 2. 診斷的 gold standard 仍是病毒培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (1) **Viridans-type streptococci**(α-hemolytic streptococci)與 *Staphylococcus aureus* 為 最常見。此外 Group D streptococcus (*S. bovis* or *S. faecalis*) 亦是常見病原體。 - a. Viridians group streptococcal infection (*Streptococcus mutans*, *S. sanguinis*, *S. mitis*) 常見於牙科侵入性治療後。 - b. Staphylococcus aureus 是第二常見的細菌。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (D) 1. 下列何種細菌較少造成兒童感染性心內膜炎(Infective endocarditis)? 109( 二 ) 專 - (A) Group D streptococcus (enterococcus) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】新生兒因感染造成呼吸窘迫,最常見的細菌感染為Group B Streptococcus (GBS,學名: Streptococcus agalactiae)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

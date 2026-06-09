@@ -43,6 +43,10 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -57,7 +61,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +104,21 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch11]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | 症 狀 | · 心搏過速、焦慮、手抖、減緩母親增重、妊娠劇吐 | |-----|--------------------------| | 表 徵 | ・甲狀腺腫大、突眼 | | 實驗室 | ・TSH ↓和 free T4 ↑ | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (A) 1. 下列那一個指標是篩檢甲狀腺功能(screen for thyroid function) 99(二)專 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- Estradiol \ LH \ \ Progesterone | TSH \ \ free T4 | Prolactin | Testosterone \ \ DHEA-S Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (B) TSH (thyroid stimulating hormone) Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】TSH, FSH, LH 和 hCG 皆由兩個多肽鏈( $\alpha$ -subunit 與 $\beta$ -subunit)組成, $\alpha$ -subunit 四者皆相同,差別在 $\beta$ -subunit;而 GnRH 僅由一含 10 個胺基酸之多肽鏈組成。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- b. 腦垂體腺瘤(pituitary adenoma): - (a) 通常是良性,依大小可分 microadenoma ( 10 mm), mass effect 可能壓迫 optic chiasm 造成雙顳葉偏盲 (bitemporal hemianopsia); - (b) 功能性腫瘤會分泌荷爾蒙造成症狀: 前葉 5 種 -prolactin (佔 50%)、TSH、ACTH (Cushing's disease)、gonadotropin和GH、與後葉2種-oxytocin和ADH; - (c) 治療: - i. 藥物治療(dopamine agonist,如 cabergoline、bromocriptine)為首選之治療方式,藥物效果良好(約90%),但仍有10%對藥物無反應。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...----------------------------------------------------| | 母親因素 | 懷孕併發症 | | 抗磷脂質症候群 (Antiphospholipid syndrome) | 子癲前症 | | 甲狀腺功能亢進 | 胎動減少 | | 血紅素異常疾病(如:地中海貧血) | 羊水過少 | | 紅斑性狼瘡 | 羊水過多 | | 發紺性心臟病 (cyanotic heart disease) | 胎兒生長遲緩 (fetal growth | | | restriction) | | 慢性腎病 | 過期懷孕 (post-term pregnancy) | | 第一型糖尿病 | 前胎不明原因流產 | | 高血壓 | 多胞胎 | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (A) 4. 一位 35 歲女性,因車禍至急診處,左大腿非開放性股骨骨折。 經急診住院,預計第二天進行骨科手術。清晨病人非常焦慮,發 燒 38.7℃,心跳約 110 /分,頸部甲狀腺約三度腫大。此時最 好的檢查及治療不包括下列何者? - (A) 儘快施行骨科手術 - (B) 抽血檢驗 T3、T4、TSH - (C) 冰氈及退燒藥 - (D) beta blockers, corticosteroid 靜脈注射 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - iv. T3:腫瘤侵犯超過攝護腺包囊 (prostate capsule)。 - (i) T3a: 腫瘤超出攝護腺但尚未侵犯儲精囊。 - (ii) T3b: 腫瘤侵犯儲精囊。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (CD)29. 下列何種攝護腺癌的情況不需安排骨盆腔電腦斷層或磁振影像 98(二)專 (MRI)檢查? 醫五-69 - (A) 骨骼掃描陰性且為 T3 腫瘤者 - (B) 骨骼掃描陰性且 PSA > 20 ng/mL 者 - (C) 骨骼掃描陰性且 Gleason score 4 或 5 分者 - (D) 骨骼掃描陽性者 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -113,14 +129,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - N1 or T3 至少 IIB; N2 or T4 至少 IIIA; Source: [[sources/med5-book4-ch03|丙、肺]].
 - N3 至少 IIIB;N3+T3/4 至少 IIIC Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...propria or muscularis mucosae | | T1b* | Tumor invades the submucosa | | T2 | Tumor invades the muscularis propria | | T3 | Tumor invades adventitia | | T4 | Tumor invades adjacent structures | | T4a* | Tumor invades the pleura, pericardium, azygos vein, diaphragm, or peritoneum | | T4b* | Tumor invades other adjacent structures, such asd Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ...| Any | | | T1 | N0~1 | M0 | IB | T1b | N0 | M0 | G1, X | Any | | | T2 | N0~1 | M0 | | T1 | N0 | M0 | G2~3 | Any | | | T3 | N0 | M0 | | T2 | N0 | M0 | G1 | Any | | | Т3 | N1 | M0 | IIA | | | | | Any | | | | | | | | | | - | Lower | | | | | | | | | | | Upper/middle | | | T4 | N0~2 | M0 | IIB | | | | | Upper/middle | | | T1~4 | N3 | M0 | | | Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ...-| | IC | T1 | N0 | M0 | G3 | | | T2 | N0 | M0 | G1~2 | | IIA | T2 | N0 | M0 | G3, X | | IIB | T1 | N1 | M0 | Any | | | T3 | N0 | M0 | Any | | IIIA | T1 | N2 | M0 | Any | | | T2 | N1 | M0 | Any | | IIIB | T4a | N0~1 | M0 | Any | | | T3 | N1 | M0 | Any | | | T2~3 | N2 | M0 | Any | | IVA | T4a | N2 | M0 | Any | | | T4b | N0~2 | M0 | Any | | | Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 補充說明:放射性核種攝影是為了確認該病灶是否為異位甲狀腺(ectopic thyroid),若該病灶為全身僅存之甲狀腺,在無完整評估下,未保留該組織而切除會導致甲狀腺功能低下(hypothyroidism)。(感謝許耀仁醫師補充說明) Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- 2. 胎便塊大腸阻塞症(Meconium plug syndrome) - (1) 常見的新生兒腸阻塞,和多種疾病有關,如巨結腸症、妊娠期糖尿病、甲狀腺功能低下、囊性纖維化等。大多數有此症狀之孩童為正常,但建議進一步檢查排除巨結腸症,尤其早產或明顯有遠端小腸阻塞症狀之孩童。 - (2) 臨床表現:腹脹。 - (3) 檢查 & 診斷: KUB 顯示多段小腸氣、水溶性顯影劑灌腸(同時診斷治療)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ...atory carcinoma)的敘述,何 | | | 者正確? | 醫五 -40 | | (A) 預後佳 | | | (B) 治療方式常須多管齊下,包括化學治療、放射線治療及手術治療 | | | (C) 在乳癌分期上,屬 TNM 系統的 T3 | | | (D) 這些患者常沒有腋下淋巴結轉移或全身其他器官轉移 | | | 【詳解】發炎性癌(inflammatory carcinoma)為 stage T4c,屬 | | | 於預後很差的乳癌類型,合併多處轉移,必須以多種方式治療。 | | | (C) 18. 下列那一項是乳癌最常見之早期症狀? | 100(二)專 | | (A) 乳房痛 | 醫五 -45 | | (B) 乳頭分泌物 | | | (C) 乳房硬塊 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- | Anatomic Sta | ge/Prognosti | c Groups | | |--------------|--------------|----------|----| | Stage 0 | Tis | N0 | M0 | | Stage IA | T1* | N0 | M0 | | Stage IB | T0 | N1mi | M0 | | | T1* | N1mi | M0 | | Stage IIA | T0 | N1** | M0 | | | T1* | N1** | M0 | | | T2 | N0 | M0 | | Stage IIB | T2 | N1 | M0 | | | T3 | N0 | M0 | Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- | | N0 | N1 | N2 | N3 | |--------------|------|----------|------|------| | T1 | IA | IB | IIA | IIB | | T2 | IB | IIA | IIB | IIIA | | T3 | IIA | IIB | IIIA | IIIB | | T4a | IIB | IIIA | IIIB | IIIC | | T4b | IIIB | IIIB | IIIC | IIIC | | Any T, any N | • M1 | Stage IV | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 5. 細胞: - (1) 濾泡細胞 (follicular cell): 合成分泌 T3、T4。 - (2) 濾泡旁細胞(parafollicular cell):又叫 C cell,分泌降鈣素(calcitonin)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 
 ## Clinical Caveats
 
@@ -134,6 +142,7 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[conditions/hypothyroidism|Hypothyroidism (甲狀腺低下)]]
 - [[drugs/lithium|Lithium (鋰鹽)]]
 - [[conditions/subacute-thyroiditis|Subacute thyroiditis / de Quervain thyroiditis (亞急性甲狀腺炎)]]
+- [[conditions/thyroid-disease-in-pregnancy|Thyroid disease in pregnancy (妊娠合併甲狀腺疾病)]]
 - [[conditions/vitiligo|Vitiligo (白斑)]]
 
 ## Follow-up

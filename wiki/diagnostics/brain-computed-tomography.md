@@ -70,6 +70,13 @@ sources:
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch05]]"
   - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch15]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch09]]"
 aliases:
   - 'Brain computed tomography, brain CT (腦部電腦斷層)'
   - 'Brain computed tomography, brain CT'
@@ -84,7 +91,7 @@ tags:
 
 ## Summary
 
-急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -154,9 +161,26 @@ tags:
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch05]]
 - [[sources/med5-book6-ch06]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch15]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch09]]
 
 ## Key Details From Sources
 
+- (3) 影像學:腹部電腦斷層或核磁共振造影。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (C) 1.52 歲更年期婦女,G2P2,體重 60 公斤,陰道超音波檢查有 3 公 105( ) 專 分的右側卵巢單純囊腫(simple cyst),血中 CA 125 濃度為 19 醫六 -34 IU/mL。她本人不抽煙。直系家屬中無乳癌或卵巢癌的病人。進一步何者為最恰當的處置? - (A) 做腹部或骨盆腔的電腦斷層檢查 - (B) 腹腔鏡手術 - (C) 三個月內再做一次陰道超音波 - (D) 服用口服避孕藥 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...| ・ROMA (the risk of ovarian malignancy algorithm) 是合併 CA125、HE4 和 | | | 停經與否三項指標,用來評估 adnexa mass 之惡性風險 | | 影像檢查 | • 安排電腦斷層或核磁共振檢查、甚至正子電腦斷層造影,評估是否有腹 | | | 部、淋巴結或其他地方的轉移 | | 其 他 | • 安排上消化道鏡、大腸鏡等,排除其他部位癌症轉移到卵巢的可能 | | 4 - 150, 44 | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (B) 1.28 歲女性主訴發燒和下腹疼痛,電腦斷層檢查呈現如圖,箭號所 107(二)專 指之敘述何者最正確? 醫六-74 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 【詳解】電腦斷層可見骨盆腔左右側皆有低密度囊性管狀病灶, 配合此女性主訴發燒和下腹痛,合理懷疑為輸卵管卵巢膿瘍。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (B) 7. 一位 25 歲女性病人,因劇烈腹痛至急診室求診。未施打顯影劑 103(-)專 的電腦斷層影像顯示左側卵巢與輸卵管有高密度病灶,以及骨盆 醫六-74 腔有高密度腹水(如圖)。最可能的診斷為: Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (D) 16. 13 歲女性病患,月經未來且下腹痛,故接受電腦斷層檢查,結果 105(二)專 如下圖。其最有可能的診斷為何? 醫六-73 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】電腦斷層影像可見子宮 fundus 向下凹,並且在子宮腔內有部分分隔,此為部份雙角子宮,屬於 uterine fusion abnormality;另外,可見處女膜閉鎖,造成經血淤積在子宮腔內(hematometra),導致病人原發性無月經且會週期性腹痛。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (C) 5. 承上題,電腦斷層顯示如下圖,抽血檢驗睪固酮(testosterone) 107(-) 專 為 250 ng/dL,DHEAS 為 $800 \mu\text{g/dL}$ ,則診斷最有可能為: 醫 -54 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...個月內復發 | | | | | (3)complicated UTI | | | | 影像檢查 | 下列情形可考慮影像檢查 | | | | (超音波、 | (1)uncomplicated UTI 治療無效或於三個月內復發 | | | | 電腦斷層) | (2)complicated UTI | | | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - (B) 骨樣骨瘤(osteoid osteoma) 在電腦斷層檢查的中心病灶, 大於 2 公分者居多 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (C) 動脈瘤性骨囊腫(aneurysmal bone cyst)好發於青少年,可 於電腦斷層攝影下發現 fluid-fluid level 現象 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (AB)3. 下列有關骨骼肌肉系統外傷影像診斷學的敘述,何者錯誤? - (A) 現今診斷膝關節半月軟骨(meniscus)損傷,以注射顯影劑之關節攝影(arthrography)扮演最重要的角色,其次為磁振造影 - (B) 無血管性壞死(avascular necrosis)可為骨折之合併症,好 發處包括股骨頭(femoral head)及腕舟骨(lunate) - (C) 脂肪液體層面(fat-fluid level)代表關節內之骨骼損傷,該 徵象可由電腦斷層攝影及磁振造影呈現 - (D) 疲勞或壓力骨折(fatigue or stress fracture)係由多次較為輕度之外傷所致,行軍骨折(march fracture)即為一例 Source: [[sources/med5-book6-ch02|乙、膝關節]].
@@ -165,16 +189,6 @@ tags:
 - (A) 7. 陳太太因右手拇指及食指、中指常常半夜麻醒,至門診求診, 102(-)專 下列何種檢查最能提供確定診斷是「腕隧道症候群(carpal tunnel $\$ \pm -17$ syndrome)」? - (A) 電生理檢查 (electrophysiology study, EPS) - (B) 核磁共振造影術 (MRI) - (C) 電腦斷層掃描(CT) - (D) 手部超音波檢查 (sonography) Source: [[sources/med5-book6-ch06|己、手部]].
 - (2) Non-contrast CT:診斷率最高,唯一看不到的是 indinavir 結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (C) 3.33 歲男性因陣發性腹痛而求醫,患者體溫正常、生命徵象穩定, 109(-)專 患者接受對比劑注射前(pre-contrast)的電腦斷層掃描檢查如圖, 醫五-73 下列診斷何者最恰當? Source: [[sources/med5-book5-ch05|戊、結 石]].
-- ...| | | | (D) Indinavir stone | | | | | 【詳解】(B)和(C) | 都是KUB下部分可見(radiolucent to | | | | radiopaque), (A)是 I | KUB 下透明,但是在 non-contrast CT 下均 | | Source: [[sources/med5-book5-ch05|戊、結 石]].
-- (3) 影像學: 臨床上以電腦斷層或超音波為診斷準則,如果在影像上看見 septal 或 nodular變化則惡性機會越高(即Bosniak分級,分I~IV級,越高惡性機會也越高)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (3) 影像學為診斷的主要依據。目前最常使用的診斷工具為 IVP 與 CT 電腦斷層。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (C) 9. 病人主訴右側腰部悶痛,血液中白血球數目正常,超音波檢查發 107(-)專現右側腎臟腫塊,電腦斷層檢查如附圖,下列何種診斷最正確? 醫五-72 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (C) 1. 一名 4 個月大的女嬰發燒到 39°C,身體檢查並無上呼吸道感染, 109(二)專 尿液檢查則發現有白血球增加的現象,符合泌尿道感染的診斷。 醫五-43 在住院施打抗生素與補充水分之後,她的燒很快就退了,超音 波檢查發現有輕微右側水腎的現象。該女嬰於1個月前也曾發 生泌尿道感染,下列那一個檢查應最優先進行? - (A) 腹部電腦斷層檢查 (abdominal CT) - (B) 腹部核磁共振檢查 (abdominal MRI) - (C) 膀胱輸尿管逆流攝影(VCUG) - (D) 靜脈腎盂造影(IVP) Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- ...一) 專 | | 黃金標準 (golden standard)? | 醫五 -76 | | (A) 泌尿道系統超音波 | | | (B) 逆行性膀胱造影 | | | (C) 順行性膀胱造影(靜脈腎盂造影) | | | (D) 加顯影劑之腹部電腦斷層 | | | (D) 15. 表淺性膀胱癌在診斷時若膀胱內同時有多處大小不一的腫瘤,經 | 105(一)專 | | 尿道切除(transurethral resection)後,若不做膀胱內灌注療法預 | 醫五-66 | Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- (A) 21. 一位 66 歲男性病人,被發現在膀胱三角部右側有一深部肌肉侵 102( a ) 專 潤的中度分化尿路上皮癌,無法經膀胱內視鏡手術切除乾淨,而 目手術時膀胱頸、膀胱與攝護腺尿道之隨意採樣發現有輕微尿 路上皮 atypia, 但是其他包括 IVP (intravenous pyelography) 與 腹部電腦斷層檢查均為正常。這個病人需作何種治療最為適當? Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- (CD)29. 下列何種攝護腺癌的情況不需安排骨盆腔電腦斷層或磁振影像 98(二)專 (MRI)檢查? 醫五-69 - (A) 骨骼掃描陰性且為 T3 腫瘤者 - (B) 骨骼掃描陰性且 PSA > 20 ng/mL 者 - (C) 骨骼掃描陰性且 Gleason score 4 或 5 分者 - (D) 骨骼掃描陽性者 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (5) 低劑量胸部電腦斷層(Low dose chest CT): 如病人已確認為良性病灶則無需做,若是高度懷疑肺癌應做正常 chest CT。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (D) 3. 一位 50 歲女性病人,因持續咳嗽兩個多月來診,病人無抽菸病 102(二)專史,體重無明顯減輕,胸部電腦斷層如圖一所示,下列何者為最 醫五-1 合適的描述? Source: [[sources/med5-book4-ch03|丙、肺]].
 
 ## Clinical Caveats
 

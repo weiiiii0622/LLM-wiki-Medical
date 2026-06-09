@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book4-ch16]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Infantile hemangioma (嬰兒血管瘤)'
   - 'Infantile hemangioma'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-嬰兒期血管增生性腫瘤，多數先增生後退化；危及功能或潰瘍時需治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嬰兒期血管增生性腫瘤，多數先增生後退化；危及功能或潰瘍時需治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book4-ch16]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- | Propylthiouracil | • | 抑制甲狀腺產生 thyroid hormone 和周邊組織 T4 轉換成 | |------------------|---|--------------------------------------| | (PTU) | | Т3 | | Beta-blocker | • | 控制心搏過速 (ex: propranolol) | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - B. 嬰兒血管瘤(Infantile hemangiomas, IHs) 204 Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - 3. 血管性腫瘤包含:嬰兒血管瘤(infantile hemangiomas)、簇集樣血管瘤(tufted angiomas)或稱中川氏血管母細胞瘤(hemagioblastoma)、卡波西樣血管內膜瘤(kaposiform hemangioendotheliomas)、rapidly involuting congenital hemangiomas、noninvoluting congenital hemangiomas。 Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - ### B. 嬰兒血管瘤 (Infantile Hemangiomas, IHs) Source: [[sources/med5-book4-ch16|壬、血管性疾病]].

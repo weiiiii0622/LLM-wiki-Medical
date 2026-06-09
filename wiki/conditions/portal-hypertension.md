@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Portal hypertension (門脈高壓)'
   - 'Portal hypertension'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-門脈壓上升可造成靜脈曲張、脾腫大、腹水與側枝循環。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+門脈壓上升可造成靜脈曲張、脾腫大、腹水與側枝循環。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (D) 胎兒的門脈高壓症(portal hypertension) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 2. 成因 & 機轉:原因仍不明,組織上的表現為持續惡化的肝內外膽道閉鎖或消失, 無法以內科藥物扭轉膽道閉鎖消失的進展,如未接受手術治療,疾病會進展成膽汁 性肝硬化、門脈高壓、大約於 2 歲前死亡。病理上,可發現膽道系統呈現纖維化和 發炎細胞浸潤,隨著膽汁鬱積和膽道發炎纖維化,最後變成末期肝硬化。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (2) 較晚執行手術或已經呈現橋狀纖維化(bridging fibrosis)則預後較差,部分醫師會採取先行手術並將患者排入肝臟移植名單,但患者仍會持續的肝纖維化而進展成門脈高壓和膽汁鬱積。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (D) 即使在門脈高壓的情況底下,門脈循環與系統靜脈循環彼此 之間仍然沒有聯繫(connection) Source: [[sources/med5-book3-ch08|甲、解剖組織]].

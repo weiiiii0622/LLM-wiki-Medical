@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch05]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Carbamazepine (卡馬西平)'
   - 'Carbamazepine'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-抗癲癇與 mood stabilizer，可用於 mania；需注意皮疹、SJS/TEN、hyponatremia、血球低下與 CYP 交互作用。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗癲癇與 mood stabilizer，可用於 mania；需注意皮疹、SJS/TEN、hyponatremia、血球低下與 CYP 交互作用。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book3-ch06]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 1. Carbamazepine:可解除約七成病人的症狀,若沒效可改用 baclofen、lamotrigine 或是 pimozide。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - ...perior cerebellar artery 壓到三叉神經之腦 | | | | 幹端 | | | | (D) 開腦手術將血管與神經墊開是第一線治療方式 | | | | 【詳解】第一線治療為藥物。 | | | (A) | 2. 藥物(如 carbamazepine、gabapentin)治療無效的三叉神經痛患 | 103(二)專 | | | 者,下列何種方法效果最快? | 醫五 -14 | | | (A) 顯微血管減壓術(microvascular decompression) | | | | (B) 三叉神經節注射甘油(glycerol injection) | | | | (C) 伽馬刀立體定位手術(gamma knife surgery) | | | | (D) 氣球壓迫術 (balloo Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - ...較 | | | | 大,故較少使用。 | | | (C) | 6. 下列有關三叉神經痛(Trigeminal Neuralgia)之治療,何者成功 | 96(一)專 | | (0) | 率比較低? | 醫五-17 | | | (A) 藥物:Tegretol 及 Neurontin | 西北 11 | | | | | | | (B) 顯微血管減壓術(microvascular decompression) | | | | (C) 經皮下神經剝除術(percutaneous nerve ablation) | | | | (D) 伽傌刀放射手術(Gamma knife surgery) | | | (A) | 7. 下列之敘述何者與三叉神經痛無關? | 92(二)專 | | | (A) 會發 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].

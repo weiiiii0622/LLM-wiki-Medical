@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Bisphosphonates in oncology (腫瘤骨病變雙磷酸鹽治療)'
   - 'Bisphosphonates in oncology'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-腫瘤骨轉移或 myeloma 骨病變可用以降低 skeletal-related events。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤骨轉移或 myeloma 骨病變可用以降低 skeletal-related events。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,12 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch04]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...'s esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服雙磷酸鹽的副作用或無法配合口服需求時使用。 | | | Selective estrogenreceptor modulator(SERM) | Raloxifene | ●不應使用於更年期前女性。●可做為預防骨質疏鬆的第一線用藥。(治療為第二線)●可減少乳癌風險,但是會增加熱潮紅與靜脈栓塞風險。 | | | RANKL inhibitor | Denosumab | ●皮 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | 藥物選擇 | | 使用説明 | |-------|--------------------|---------------------------------------| | 第一線用藥 | Bisphosphonates | ●建議先使用口服藥物,若 BMD 持續降低 | | | (註) | ( ≧ 5%),可改成 IV。 | | | | ●停用:口服五年或 IV 三年後,若 BMD 穩定、 | | | | 之前無脊椎骨折,而且低骨折風險。 | | | | ●續用:連續兩次追蹤 BMD 都下降。 | | 第二線用藥 | Raloxifene (SERM) | T-score ≦ -2.5,但無 fragility fracture。 | | | St Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 5. 治療: - (1) 保守治療:NSAID, electric stimulation, bisphosphonate, shockwave (under investigation)。 - (2) 外科治療: - a. Before collapse (FICAT I & II) core decompression, grafting procedures (補骨頭)。 - b. After collapse: 做人工關節。 - (a) FICAT III:hemiarthroplasty(當還沒影響到 acetabular 時可以考慮)。 - (b) FICAT IV: total hip arthroplasty (已影響到 acetabular,則須使用全人工關節)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - 5. 大部分骨轉移癌是 osteolytic lesion,會造成骨頭流失,需要比較注意的是前列腺癌所造成的骨轉移常是 osteoblastic lesion,骨頭會以增生來表現,或是 mixed type (osteoblastic 和 osteolytic 共同表現)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - iv. 放射性核素顯像(radionuclide imaging): 就是骨骼掃描(bone scan),判斷癌症是否有骨轉移以決定分期。若無骨頭痛且ALP (alkaline phosphatase,鹼性燐酸酶)值正常,則骨轉移機率極低。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].

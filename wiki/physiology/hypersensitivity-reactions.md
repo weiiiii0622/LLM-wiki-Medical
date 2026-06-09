@@ -62,6 +62,9 @@ sources:
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med5-book6-ch06]]"
   - "[[sources/med5-book6-ch02]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Hypersensitivity reactions (過敏反應分類)'
   - 'Hypersensitivity reactions'
@@ -76,7 +79,7 @@ tags:
 
 ## Summary
 
-Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -138,9 +141,17 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - [[sources/med5-book6-ch09]]
 - [[sources/med5-book6-ch06]]
 - [[sources/med5-book6-ch02]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...清 (sentinel lymph node dissection, SLND) 的作法,不過,SLND仍需更多的研究證明其效用。 - c. 若子宮內膜癌已有骨盆腔或腹腔內轉移 (約5%),除分期手術外,尚須 行減積手術。 - d. 若為 type II (serous or clear cell) 患者,其疾病進展類似卵巢癌,故手術方式須儘量減積並加做大網膜摘除。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (B) 4. 對於第二型子宮內膜癌(type II endometrial cancer)的特徵之敘 述,下列何者較適當?①常與雌激素過度刺激無關 ②多為 low grade endometrioid type 的病理形態 ③多為停經以後的年長女 性 ④預後通常比第一型子宮內膜癌差 ⑤常與子宮內膜增生有 關 (endometrial hyperplasia) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- 【詳解】詳見內文,type II endometrial cancer 發生年紀較大(大 部分在停經後),組織型態為 serous papillary 或 clear cell,和雌 激素刺激及子宮內膜增生無關,分化程度及預後差。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 母親 | • DKA (type I DM) • HHNK (type II) • preeclampsia/eclampsia • infection | | | |-----|-------------------------------------------------------------------------|--|--| | 產前 | • 顯明性糖尿病:流產、先天畸形、胎兒生長遲滯、胎死腹中 | | | | | • 妊娠糖尿病: 巨嬰症、羊水過多、胎兒窘 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...t disease (E+P, > 60 y/o) | ● Coronary heart disease ( 5 yrs) | ● Mortality ( Endometrial hyperplasia and carcinoma | ● Type II DM | | ( 單獨用 E) | ● Recurrent urinary tract infection | | • Gallbladder disease | ● Osteoarthritis | | Nephrolithiasis | ● Falls | | Urinary incontinence | ● Cataract | | Bronchospasm | Skin changes | | Dementia | | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 4. 診斷:X 光,可照雙側 AP view(看兩側 top of coracoid 到 bottom of clavicle 距離的 差異)、axillary lateral view(看有無向後側位移,type IV)。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - | 分類 | 敘述 | 治療 | |----------|----------------------------------------------------------|----------------| | Type I | Acromioclavicular (AC) ligamentsprain 但 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament 卻完整 | | | Type II | AC ligament 撕裂,AC 關節半脫位,且 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament sprain | | | Type III | A Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - (D) 根據 Neer's classification,在第二型鎖骨遠端骨折(type II distal clavicular fracture)中,喙鎖韌帶(coracoclavicular ligament) 會從近端骨段剝離 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
@@ -154,11 +165,6 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - ...鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (A) 11. 下列何者腎小管酸中毒症(renal tubular acidosis)會併發腎結石? 105(-)專 (A) Type I (B) Type II (C) Type III (D) Type IV Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (B) 10% 發生於 multiple endocrine neoplasia (MEN) type II 之病人 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- ②Pentoxifylline: 抑制 TGF-bl 相關發炎反應或減少 collagen type I 製造,可改善彎曲度。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- ...ctamase inhibitors 才能對付 UTI, 這讓價格不再便宜。另外 penicillin 第一代對多數 UTI 無效。 - c. 機轉:抑制細菌細胞壁合成。 - d. 禁忌:過敏史(孕婦可用)。 - e. 特殊副作用:特別注意過敏反應(要做 skin test);肝腎毒性。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- ...椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- Type III:又稱為膽管囊性擴張(choledochoceles),發生於經過胰部的膽 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- Type I 最常見(佔 80~90%)、Type IV 第二常見。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 
 ## Clinical Caveats
 

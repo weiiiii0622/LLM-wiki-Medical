@@ -106,6 +106,12 @@ sources:
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch16]]"
 aliases:
   - 'Hypertension (高血壓)'
   - 'Hypertension'
@@ -120,7 +126,7 @@ tags:
 
 ## Summary
 
-血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -226,9 +232,25 @@ tags:
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch16]]
 
 ## Key Details From Sources
 
+- ...amentous | | | umbilical cord insertion 等 | | | · 胎盤染色體異常,一般稱 confined placental mosaicism | | 母親 | • 罹患影響胎盤血流的疾病:如子癲前症、高血壓、糖尿病、 | | \$ 25 c. 41 | 自體免疫疾病 (SLE, APS) 等 | | | • 營養不良 | | | • 慢性缺氧 | | | · 抽菸、酗酒、藥物濫用、咖啡因過量、放射線曝露 | | | • 先天性子宮結構異常: 如雙角子宮 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (D) 胎兒的門脈高壓症(portal hypertension) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...eart disease) | 胎兒生長遲緩 (fetal growth | | | restriction) | | 慢性腎病 | 過期懷孕 (post-term pregnancy) | | 第一型糖尿病 | 前胎不明原因流產 | | 高血壓 | 多胞胎 | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) *126* Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- # A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | 名詞 | 定義 | |----------------------------|-----------------------------------------------| | 妊娠高血壓 | · 之前血壓正常,懷孕 20 週後出現高血壓,但無蛋白尿、 | | (Gestational HTN) | 無器官失能,且於產後12週內恢復正常。 | | 子癲前症 | • 之前血壓正常,懷孕 20 週後出現高血壓,且合併蛋白 | | (Preeclampsia) | 尿或器官失能。 | | 子癲症 | · 已診斷 Preeclampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalize Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | 藥 物 | 作用 | 給藥方式 | 副作用 | |---------------|-------------|----------|-------------| | Oxytocin | 子宮收縮、減少產後出血 | 靜脈注射 | 水中毒 (同 ADH) | | Ergonovine | 子宮收縮、減少產後出血 | 靜脈、肌肉注射 | 高血壓 | | Prostaglandin | 子宮收縮 | 陰道塞劑、陰道釋 | 噁心、嘔吐、腹瀉 | | | | 放系統 | 頭痛、頭暈 | | | | | 輕度血壓上升或下降 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- (D) chronic hypertension Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- ...--| | Oxytocin | 靜脈給藥 | 低血壓(血管擴張) | | Carbetocin | 靜脈給藥 | 低血壓、潮紅、頭痛、顫抖、 | | | | 噁心、腹痛 | | Methylergonovine | 肌肉注射 | 禁忌症為高血壓、周邊血管和 | | (C) (A) (A) | | 缺血性心臟病 | | Misoprostol (PGE1) | 肛門塞劑、口服 | 可用於高血壓或氣喘之患者 | | | 或舌下給予 | 可能引起發燒 | | 15-methyl prostaglandin F2a | 子宮肌層注射或肌肉 | 禁忌症為高血壓和氣喘、肝腎 | | (refractory uterine atony) | 注射 | 功能差為相對禁忌症 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- (D) 1. 婦科手術後,若有敗血症(septicemia)引起 alveolar-capillary 109(-)專 membrane 的微血管側受損,使肺部微血管通透性增加,而造成 醫六-35 肺部的併發症,稱為: - (A) Pulmonary edema - (B) Pulmonary hypertension - (C) Respiratory permeability defect - (D) Acute respiratory distress syndrome Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - c. 高血壓:會因為囊腫過大引發高血壓(像 angiotensin-dependent hypertension)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (3) 處理併發症:出血造成血腫及尿液外滲造成尿液囊腫是最常見的併發症,另外 長期下來也有可能造成水腎、高血壓、動靜脈瘻管(arteriovenous fistula)等併 發症。如果持續的尿液囊腫或水腎,甚至有膿瘍形成時,可考慮引流治療。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...好發於: 反覆 UTI 的兒童。成人少見,因為腎臟已發育完全不易損傷。 - c. 菌種:不一定有存在的感染,而是腎臟已產生損傷。 - d. 臨床表徵: - (a) 症狀:大多無直接症狀。常因其導致的併發症經進一步檢查後發現,如 腎功能不全、高血壓、視覺衰退、頭痛、疲勞和多尿。 - (b) 實驗室檢查:尿正常,也可能有 WBC 及蛋白尿。血中 creatinine 升高。 - (c) 影像:用 IVG、超音波或 CT 可看到腎萎縮。 - e. 治療: - (a) 治療效果有限,因為已經造成的傷害是不可逆的。 - (b) 需找出反覆泌尿道感染的成因並治療,如結石或結構異常。兒童有膀胱輸尿管逆流(UV reflux)則易引起反覆泌尿道感染,可使用長期預防性的抗生素。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -237,16 +259,6 @@ tags:
 - ...一定有大量殘尿 | 103(一)專醫五-68 | | (D) 20. | 下列何者不是經尿道前列腺切除症候群(transurethral resection of prostate syndrome)的典型症狀? (A) 視覺模糊 (B) 高血壓 (C) 嘔吐 (D) 心跳加速 | 102(二)專醫五-66 | | (B) 21. | 下列有關前列腺特定抗原(PSA)的敘述,何者正確? (A) 是前列腺間質細胞所分泌的醣蛋白 (B) 其功能與精液液化有關 | 102(一)專醫五-65 | Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...異常 (erectile dysfunction (ED) = impotence 陽痿): - (1) 流行病學:臨床上最常見的男性性功能障礙,40 歲以上有25%人有ED。另外常因其它因素引起:抽菸者40%有ED、糖尿病者60%有ED、高血壓者70%有ED、冠狀動脈疾病80%有ED、周邊血管病變90%有ED。 - (2) 危險因子:年齡、抽煙、喝酒、心血管病史、代謝症候群。 - (3) 臨床表徵: - a. 症狀:ED 定義是沒有辦法達到 / 維持陰莖的勃起硬度以進行一次滿意的性 行為。 - b. 實驗室檢查:空腹血醣值(排除糖尿病及糖尿病性神經病變的可能)、血中 睪固酮濃度、血中泌乳激素(prolactin)濃度。 - c. 特殊檢查: - (a) 夜間陰莖勃起功能監測( Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (c) 動脈血管方面(Arterial):外傷;先天性血管疾病;系統性血管疾病(如 高血壓或高血脂症,易使血管硬化,血液不足)。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
-- II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- 3. 好發族群:BMI 過高、惡性腫瘤、抽菸、高血壓、手術、服用避孕藥。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...%,最好發於 3~4 歲。雙側腫瘤佔 13%,同時發生 (synchronous) 佔 60%,異時發生 (metachronous) 佔 40%。 - (4) 臨床表現:於洗澡或例行檢查發現可觸摸之腹部腫塊(60%),通常無合併其他症狀。高血壓(25%)、血尿(15%)。 - (5) 關聯疾病:以下患者需持續追蹤,可能發生成人型 WT。 - a. Denys-Drash syndrome (WT, intersex disorder, and progressive nephropathy) • - b. WAGR syndrome (WT, aniridia, genitourinary anomalies, mental retardation) • - c. Beckw Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- 【詳解】(D) 在 portal hypertension 的情形之下,會導致 portal system 與 venous system 產生 collateral vein,也就是我們所說的 varices,增加出血的風險。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- (C) 8. 門脈高血壓患者,血液經肝臟回流受阻,下列何者不會造成靜99(ニ)專脈曲張 (varices)?醫五-50 - (A) Esophageal veins - (B) Paraumbilical veins Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- ...| | | 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 【詳解】題幹描述並不精準。這個 data 最合理的推測就是 B 肝 導致 Liver cirrhosis 合併 HCC, 因為 portal hypertension 後 splenomegaly 引起 thrombocytopenia。這種 condition 可能也不適合手術了。但撇除掉這些,如果真的要開刀,那當然 (B)(C)(D) 都很重要必須考慮。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 【詳解】遠端脾腎靜脈分流術屬於 selective shunt,斷 coronary vein,重建 gastroepiploic vein 至 left renal vein,減少 EV/GV bleeding 但 portal hypertension 加深,增加臟器回流壓力,ascite 加劇。門脈下腔靜脈分流術 (portacaval shunt) 屬於 non-selective shunt,可做 Total (end to side) or partial (side to side) shunt,減少血流進肝臟去解毒,故加深腦性肝病變,同時肝臟因缺血提早肝衰竭。此兩者都是治療因嚴重肝硬化導致 GI bleeding 的 salvage surgery,等待最終肝移植的 br Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- ...或 uncomplicated。 - (1) Complicated: 如果病人有 rupture、limb ischemia、abdominal malperfusion、persistent pain 或 uncontrollable hypertension等 complication,則需要積極處置,例如 fenestration(在 intimal flap 上打洞讓假腔內的血流回真腔,使假腔減壓以舒緩真腔所受到的壓迫)、放支架、主動脈置換手術或是血管繞道手術。 - (2) Uncomplicated: 病人為 uncomplicated,則以藥物治療為主(anti-impulse therapy)。(後面另詳述 anti-impulse therapy) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 
 ## Clinical Caveats
 
@@ -255,6 +267,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/hypertensive-disorders-of-pregnancy|Hypertensive disorders of pregnancy (妊娠高血壓疾病)]]
 - [[conditions/intracerebral-hemorrhage|Intracerebral hemorrhage, ICH (腦出血)]]
 - [[conditions/lacunar-infarction|Lacunar infarction (腔隙性腦梗塞)]]
 - [[conditions/vascular-dementia|Vascular dementia (血管性失智症)]]

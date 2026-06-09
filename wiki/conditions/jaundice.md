@@ -54,6 +54,8 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch05]]"
 aliases:
   - 'Jaundice (黃疸)'
   - 'Jaundice'
@@ -68,7 +70,7 @@ tags:
 
 ## Summary
 
-黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -122,9 +124,14 @@ tags:
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch05]]
 
 ## Key Details From Sources
 
+- | Hemolysis | • serum bilirubin $\geq 1.2 \text{ mg/dL}$ | |-----------------------|-----------------------------------------------------------| | | • serum haptoglobin $\leq$ 25 mg/dL 或 serum LDH $\geq$ 正常 | | | 上限值的兩倍 | | | · 週邊血液抹片出現血球裂片 (schistocy Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...生產 | · 生產傷害、剖腹產及器械性生產 (如 vacuum、forceps)機率高 | | | | 新生兒 | · 三高二低:呼吸窘迫症候群、紅血球增多症 (polycythemia) 和高膽紅 | | | | | 素血症 (hyperbilirubinemia)、低血糖、低血鈣 | | | | | ・心肌病變、新生兒死亡 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B) 孕婦血清直接膽紅素 (direct bilirubin) Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - ...轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 (PPT)延長,通常也伴隨發燒、疲倦、體重減輕。這些是因腫瘤分泌刺激因子(粒細胞—巨噬細胞群刺激因子 GMCSF = granulocyte-macrophage colony stimulating factor)造成,切除病灶後可回復。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - A. 新生兒黃疸(Neonatal jaundice) 174 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 常用縮寫:總膽紅素(total bilirubin, T.B.)、間接(非結合型)膽紅素(indirect/unconjugated bilirubin, I.B.)、直接(結合型)膽紅素(direct/conjugated bilirubin, D.B.) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
@@ -140,9 +147,6 @@ tags:
 - 5. 經皮穿肝膽道攝影 (PTC): 可觀察阻塞的位置,當病人有嚴重的 obstructive jaundice 時,也可進行膽汁引流來改善黃疸的狀況。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - (B) 超過 90% 遠端或肝門處膽管癌病患之臨床表現為阻塞性黃疸 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- ...raves' disease)合併下列何種情況時,甲狀腺次全切 | 104(二)專 | | | 除術為最合理的選擇? | 醫五 -37 | | | (A) 併有嚴重凸眼症狀 | | | | (B) 併有抗甲狀腺藥物嚴重併發症,如白血球降低及黃疸等 | | | | (C) 併有中度智障 | | | | (D) 併有大於 2 公分的甲狀腺惡性結節 | | | | 【詳解】手術為後線選擇,當病人無法無用藥物或接受RAI時, | | | | 才會考慮。 | | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- d. Bilirubin (mg/dL) - (a) 1.2~1.9:1分 - (b) 2.0~5.9:2分 - (c) 6.0~11.9:3分 - (d) > 12.0:4分 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

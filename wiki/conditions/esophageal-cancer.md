@@ -17,6 +17,8 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch06]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Esophageal cancer (食道癌)'
   - 'Esophageal cancer'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,15 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch06]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch07]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | 性行為 | ・ 多重性伴侶、過早性行為 ( 過早懷孕(&lt;20歳)、生產數多 | | | 個人因子 | · 低社經地位、抽菸 (和 squamous cell carcinoma 相關 )、 | | | | ・ 長期 (5 年以上 ) 口服避孕藥 (和 adenocarcinoma 較相關 ) | | | 其 他 | • 有陰道或外陰部細胞病變的病史 | | | | ・ 免疫抑制 ( 如 HIV 感染 ) | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- (D) 2.51 歲婦女,因為偶發性右腰痛(colic pain),到泌尿科門診接受腎盂輸尿管的檢查,發現在輸尿管中段有一顯影劑缺損(filling defect),造成右邊輸尿管水腫以及輕微腎水腫。此時醫院廣播,鼓勵四癌篩檢的衛教,所以這位婦女也接受子宮頸抹片的檢查。但是一週後,抹片報告為鱗狀上皮癌(squamous cell carcinoma)。這位婦女接下來的,應優先考慮下列何步驟? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 病 理 | 發生率 | |-------------------------|-------| | Squamous cell carcinoma | 83.4% | | Adenocarcinoma | 9.3% | | Sarcoma | 2.6% | | Melanoma | 2.5% | | Undifferentiated | 1% | | Others | 2cm 或間質侵犯大於1mm | | | II | | 不論腫瘤大小,侵犯會陰旁構造(下 1/3 尿道、 | 59% | | | | 下 1/3 陰道和肛門) | | | ш | A | (1) 1 顆淋巴結轉移 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- a. Acetowhite epithelium 可見於: - · Congenital transformation zone 或不成熟的鱗狀上皮化生 - 發炎、癒合或再生中的表皮 - HPV 感染、CIN、adneocarcinoma 或 squamous cell carcinoma Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (2) 腎盂/輸尿管癌 (renal pelvic/ureteral tumor): - a. 泌尿細胞癌(UCC):90%。 - b. 鱗狀細胞癌 (squamous cell carcinoma): 8%。 - c. 腺癌 (adenocarcinoma):1%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (B) 長時間最易引起 esophageal adenocarcinoma Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 1. 惡性腫瘤中,以鱗狀上皮細胞癌(squamous cell carcinoma)最常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(achalasia)、 暴食(bulimia)、胼胝 Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -65,10 +73,6 @@ tags:
 - (B) 鱗狀細胞癌(squamous cell carcinoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) 152 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - # K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (A) 鱗狀細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 2. Squamous cell carcinoma 會分泌 PTHrP 造成高血鈣(HyperCalcemia),因為常長在肺尖(Pancoast tumor)而造成肩痛、手臂痠痛、Horner syndrome。 - \*口訣:死龜(Squa)愛搞怪(高鈣),愛爬到肺尖造成肩痛 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- ...rathyroid hormone-related peptide)的產生最常見於何種肺癌的組織學型態? (A) 小細胞肺癌(small cell lung cancer) (B) 腺癌(adenocarcinoma) (C) 鱗狀細胞癌(squamous cell carcinoma) (D) 大細胞肺癌(large cell carcinoma) | 107(一)專醫三-48 | | (B) | 3. 下列腫瘤何者較不會合併紅血球增生症? (A) 腎細胞癌 (Renal cell carcinoma) (B) 淋巴瘤 (Lymphoma) (C) 肝癌 (Hepatocellular carcinoma) (D) 小腦血管母細胞瘤 (Cerebellar hemangioblastoma) | 100(二)專醫三 Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
-- (1) PTHrP: oncogen, virus, local growth factor - a. 常見於 Squamous cell carcinomas、Renal carcinomas、Bladder carcinoma 等。 - b. 某些腫瘤的 ras(oncogen)過度活化,會造成 PTHrP 表現增加;導致 Adult T cell lymphoma 的 HTLV-1 也會加強 PTHrP 表現;骨轉移的腫瘤可能因為骨頭提供的環境,PTHrP 表現也較多。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 

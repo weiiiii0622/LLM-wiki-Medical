@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Iron studies (鐵質檢查)'
   - 'Iron studies'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,12 @@ Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- (C) 28. 一位懷孕 16 週之婦女到婦產科門診接受例行產前檢查,其平均 紅血球容積 (mean corpuscular volume, MCV) 值為 72 fL, 血紅素值為 12.3 g/dL, ferritin 值為 102 ng/mL, 血紅素電泳結果 HbA 98%, HbA2 2%。接下來最適當的處理方式為: Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】此婦女在產前檢查中發現小球性貧血,ferritin 102 ng/mL(正常範圍 18~160)在正常範圍內,排除缺鐵性貧血;血紅素電泳結果 HbA(正常血紅素)98%,HbA2(由兩個 $\alpha$ 和兩個 $\beta$ 球蛋白組成)2%(>3.5% 為 $\beta$ thalassemia minor),所以 (C)建議該婦女的配偶也接受 CBC 及血紅素電泳檢查,確認是否也是海洋性貧血帶因者,以得知胎兒罹患重型海洋性貧血的風險。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (C) 5. 一位 45 歲女性因骨盆腔腫瘤住院,經切片檢查,腫瘤組織中發 現有多發性巨大細胞(multiple giant cell)、血管纖維組織(vascular fibrous tissue) 及血鐵質 (hemosiderin)。經診斷為 Brown tumor, 請問此症與下列何種疾病有關? - (A) 甲狀腺機能低下症(Hypothyroidism) - (B) 腦下垂體機能亢進症(Hyperpituitarism) - (C) 副甲狀腺機能亢進症(Hyperparathyroidism) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 1. 機轉 & 成因:鐵質缺乏合併下咽蹼(hypopharyngeal web),原因不明。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - b. HBL:存活率 75%、好發於 1,500 IU/mL, ferritin > 142 ng/mL、NSE > 100 ng/mL。(LDH = lactic dehydrogenase, NSE = neuron-specific enolase —種醣解酶)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
@@ -67,8 +71,6 @@ Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI
 - ...tion, | Increased VMA, | | | | raccoon eyes, myoclonus- | increased HVA, increased | | | | opsoclonus, diarrhea, skin | ferritin, stippled | | | | nodules (infants) | calcification in mass | | Hepatoblastoma | Birth-3 yr | Large, firm liver | Increased AFP | | Hepatoma | School age, | Large, firm liver; hepatitis | Increased AFP | | | teens | B, Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...上完成,進出細胞都是二價,下圖是簡化過的版本,忽略了腸細胞氧化還原鐵的步驟以及其上 transporin 的工作) - (2) 進入體內的二價鐵(Fe+2)再轉為三價鐵(Fe+3),由血液中 Transferin 運送,而在 細胞中儲存在 Ferritin 上;其中 Transferin 的總運鐵量以 TIBC(Totoal iron binding capacity)表示,而 SI(Serum iron)除以 TIBC 即是 Transferrin 飽和度。[記憶:二 價鐵好吸收,口服鐵劑是二價;三價鐵好運送,靜脈注射三價鐵] Source: [[sources/med3-book4-ch10|甲、貧血]].
 - | 分期 | 鐵質狀況 | 實驗室檢查 | 正常值 | |-----|-------------------|--------------------------------|---------------| | 初期 | 儲於骨髓、網狀內皮系統的儲鐵量降低 | Ferritin TIBC $>$ 360; SI $ 50 | | | 缺鐵的狀況下造血 | MCV 3.5% 須懷疑 β thalassemia;正常人的 HbA2 即是 10 , No t Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (1) 好發於慢性炎症、慢性感染或惡性腫瘤的病人身上;血紅素介於 $7\sim10$ 之間,MCV 微減( $75\sim82$ fl),**TIBC** 降低,Ferritin 上升(視為如 CRP 等急性反應蛋白,發炎 時會上升)。 Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...後自動退燒,這種發作有時會持續二個月之久,不發作時則與常人無異,本次住院的理學檢查發現有肝、脾腫大,抽血檢查發現 WBC 12,800/μL,ESR 42 mm/lh,CRP 2.48 mg/L,AST 42 U/L,ALT 48 U/L,ferritin 11,280 ng/mL,ANA 及類風濕因子(rheumatoid factors)均為陰性,血液及尿液的三套培養包括細菌及黴菌均無,又常見的病毒抗體均在正常範圍內,則最可能的診斷為何? - (A) Dengue fever - (B) Adult-onset Still's disease - (C) Plasmodium falciparum infestation - (D) Cancer fever Source: [[sources/med3-book4-ch09|辛、其 他]].
 
 ## Clinical Caveats
 

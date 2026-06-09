@@ -41,6 +41,8 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -55,7 +57,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +98,15 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- | (1)慢性不排卵 | 少月經或無月經 | |-------------------------------------|--------------------| | | 不孕 | | | 增加子宮內膜癌風險(註1) | | (2) 高雄性素症 | 多毛症、青春痘、禿頭 | | | 黑色素棘皮症(註2) | | (3) 卵巢異常 | 超音波下顯示多囊性卵巢(註3) | | | 卵巢體積增加且皮質增厚 | | (4) Gonadotropin 異常 LH/FSH ratio 上升 | | | (5)新陳代謝問題 | 胰島素阻抗、增加 Type 2 DM | | | 肥胖、血脂異常、代謝性症候群(註4) | | | 非酒精性脂肪性肝病、睡眠呼吸中止 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...etate 和 flutamide ( 肝毒性 )。 | | | | ・物理性除毛 ± 抑制毛髮生成外用藥 (如:vaniqa) | | | 新陳代謝問題 | · metformin 或其他胰島素增敏劑來改善胰島素抗性 | | | | ・ 血脂異常可用 Statins 類藥物 ( 如:simvastatin) 治療 | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (1) estrogen 會影響脂肪代謝(增加 HDL、減少 LDL)、減少胰島素抗性和增加動脈血流,因此更年期後冠心病風險會增加。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- ...GnRH | • 直接抑制腦垂體,進而抑制卵巢 | ・ 停經症候群 ( 如熱潮紅、陰道乾 | | antagonist | 功能,達到假性停經的狀態 | 澀、性慾降低等) | | (elagolix) | • 為口服劑型,需每天服用 | ・血脂異常 | | Danazol | · 抑制腦垂體產生 gonadotropin | 高雄性素的副作用(多毛、青春 | | | ・抑制卵巢產生雌激素 | 痘、體重增加、聲音低沉、乳房 | | | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - c. 慢性(chronic):定義是腎功能隨時間逐漸衰退的現象,最快發生在移植六個月後。影響因子是多方面的,包括 HLA 配對程度低、有抗 HLA 的抗體存在、年紀大、發生過排斥反應、之前移植腎失敗的病史、種族(衰退度:亞洲人>白人>黑人)、共病(糖尿病、肥胖、高血脂)、免疫製劑使用。這些因子會使移植腎結疤、纖維化,最後造成慢性移植腎腎病變(chronic allograft nephropathy, CAN)。治療方法為症狀控制(血壓與蛋白尿)但效果有限,因此術後 5~10 年以上移植腎存活率一直無法有效增加。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...cules): - i. 干擾核內信息傳遞(Intracellular signaling): - (i) 皮質類固醇(Corticosteroid):免疫製劑的基礎,從多方面影響免疫系統,減緩淋巴結和骨髓的淋巴細胞反應。副作用包括高血壓、高血脂、高血糖、體重增加、骨質疏鬆、傷口癒合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 生:生毛、生(昇)血壓及生牙齦)。副作 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (c) 動脈血管方面(Arterial):外傷;先天性血管疾病;系統性血管疾病(如 高血壓或高血脂症,易使血管硬化,血液不足)。 Source: [[sources/med5-book5-ch08|辛、男性學]].
@@ -113,10 +121,6 @@ tags:
 - ...| (D) | 4. | 使用全靜脈營養(TPN)之後產生膽汁鬱積(cholestasis),下列何者是最理想的治療方法? (A) 增加脂肪乳劑施打 (B) 增加脂溶性維生素的補充量 (C) 使用中鏈三酸甘油酯(medium-chain triglyceride)的配方 (D) 儘可能恢復腸道營養 | 108(一)專醫五-48 | | (B) | | 相較於靜脈營養,腸道營養對手術病人營養支持之好處,下列何者錯誤? (A) 吃進去的多醣(polysaccharides)在大腸會被細菌發酵(bacterial fermentation),以維持腸道正常菌落 (B) 嚴重血流動力學不穩定(marked hemodynamic instability)的病人適合給與腸道營養 (C) 有較好的腸胃道免 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - 【詳解】水溶性纖維可與脂肪酸結合,降低膽固醇總量和 LDL 膽固醇,延長食物在胃中停留的時間,從而減慢糖分釋放及被吸收的速度,有助糖尿病患者控制血糖。非水溶性纖維能幫助食物渣滓通過腸道,防止便秘,控制及平衡腸道的酸鹼值,防止微生物產生致癌物質,有助預止結腸癌。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...鈉:正常血鈉濃度為 135~145 mEq/L。 - (1) 低血鈉(hyponatremia)症狀為輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。 - a. Pseudohyponatremia:發現病患低血鈉,首先要排除高血糖、高血脂等高滲透 壓造成的相對低血鈉,真的低血鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% Na Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 6. Sirolimus:機轉不同於 Cyclosporine 和 Tacrolimus,作用在 mTOR (或稱 FRAP1),抑制 IL-2 和其他細胞內的訊息傳遞,阻斷 T 和 B 細胞的活化。不具腎毒性,且因作用機轉不同於目前其他免疫抑制劑,所以常用來和其他免疫抑制劑合併使用來增強效果,並減低其他藥物的副作用。副作用有高血壓、腹瀉、水腫、蛋白尿、血小板下降、白血球下降、貧血及高血脂。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- ...---------------------------------|----------------------| | 大血管 * 粥狀硬化Athero- thromboticor a. to a. emboli | 中大型動脈 | DM、高血脂等因素形成粥狀硬化瘤(Atheroma) 若破裂引起血小板聚集,則造成阻塞;或在 ICA 較軟的 thrombi脫落,在遠方動脈梗塞 | 大腦皮質、腦幹、小腦症狀 | | 心源性血栓 | MCA 的上支 | CA的上支 心臟來的血栓塞住,病灶多在灰質 | | | Cardio-embolic | (併發癲癇↑) | 蘭↑) 較易轉化為出血性梗塞 | | | 小血管栓塞Lacunar infarction | 小動脈穿透支 | 因「高血壓 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 1. 大血管粥狀硬化 (athero-thrombotic or artery to artery emboli): - (1) 位置:中大型動脈(ACA, MCA, PCA, BA, ICA×2, VA×2)。 - (2) 成因:因 DM、高血脂等形成粥狀硬化瘤(Atheroma)。 - (3) 診斷:頸部超音波、穿顱超音波、MRA。 - (4) 治療:若 ICA > 60% 有症狀的狹窄,或> 70% 無症狀的狹窄,建議放 Stent。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...A)右側後下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

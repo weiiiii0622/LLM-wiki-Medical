@@ -22,6 +22,8 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch05]]"
 aliases:
   - 'Rifaximin (利福昔明)'
   - 'Rifaximin'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,15 @@ tags:
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch05]]
 
 ## Key Details From Sources
 
+- ...pH 值上升 ( > 4.5) | | | ・加入 10% KOH 會出現明顯的魚腥味,為 whiff test (+) | | | • 食鹽水稀釋的抹片下可觀察到 "clue" cells (>20%) | | 治療 | ・ 首選藥物:Metronidazole 或 Clindamycin 之口服藥或陰道乳膏 | | | • 二線藥物:口服 Tinidazole | | | ・ 其他:益生菌如乳酸桿菌 GR-1、RC-14 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...| 莓斑狀 (strawberry cervix) | | 檢 查 | ・陰道 pH 值上升 (5~6) | | | · 食鹽水稀釋的抹片下觀察到活動的滴蟲 trichomonads 及 PMNs 增加 | | 治療 | ・單一劑量口服 Metronidazole 2 g | | | · Metronidazole 500 mg,一天兩次,治療 7 天 (治療期間需禁慾) | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...| | | hyphae | (trichomonads) | | 加入 KOH | 明顯的魚腥味,為 | budding yeast 或 | _ | | | whiff test (+) | hyphae 更明顯 | | | 治療 | Metronidazole 或 | 口服 (fluconazole) | 口服 metronidazole | | | Clindamycin 之口服 | 或局部 (clotrimazole, | | | | 藥或陰道乳膏 | nystatin) 抗黴菌藥 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (D) clindamycin 加上 metronidazole Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - ...| Enterobacter spp. | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin plus piperacillin | | Gardnerella vaginalis | Metronidazole, ampicillin | Metronidazole | | Klebsiella spp. | TMP-SMX, ciprofloxacin | Gentamicin plus cephalosporin | | Proteus spp. | Ampicillin, TMP-SMX, ciprofloxacin | Ampicillin, gentamicin | | Pseudomonas aeruginosa | Carben Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (4) 治療:要看病人到底是什麼樣子的原因導致膽管炎,針對此 underlying 進行 治療。 - a. 80% 病人可經由保守性治療治癒,使用廣效性抗生素(ampicillin + gentamycin/levofloxacin+/- metronidazole)治療即可。 - b. 20%的病人需要進行膽道減壓手術,包含經由ERCP取石術,或是經由PTCD引流,或是手術緩解阻塞原因。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
@@ -75,10 +83,6 @@ tags:
 - (1) Clindamycin: - a. 抗菌範圍類似 Erythromycin,可抗 GPC - b. 還能抗厭氧菌,對膿瘍有不錯的穿透力,可治療咽喉附近的膿瘍(橫膈上);對 *Bacteroid fragilis* 效果不可信,因此腹腔內的膿瘍仍建議使用 Metronidazole(橫膈下)。 - c. 合併其他藥物治療嚴重的Streptococcal, clostridial 感染,可抑制其釋放出來的毒素。 - d. 會破壞大腸內正常菌群,使 Clostridium difficile 增生,引起偽膜性大腸炎 (Pseudomembranous colitis),須以口服 Metronidazole 或 Vancomycin 治療。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - 3. 診斷、治療: (Harrison table 122-5) - (1) 治療首重水分、電解質補充。 - (2) 針對腹瀉較嚴重,但沒發燒且糞便中無 WBC 者,可給予止瀉劑(loperamide)控制症狀;但有發燒或糞便中有 WBC 者則不可使用,因止瀉劑會延長這類病患的病程。 - (3) 針對較嚴重的發燒及糞便中有 WBC 患者,在未知病原菌時,可給予 ciprofloxacin (500 mg bid, 3 天)或 Azithromycin (500 mg qd, 3 天);懷疑 Giardia 感染,則可考慮口服 Metronidazole。 Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 - ...l animada | Vancomycin 125mg po qid x 10 days | Alternative: | | Initial episode | Fidaxomycin 200mg po bid x 10 days | Metronidazole 500mg po tid x 10 days | | Fulminant infection | Vancomycin 500mg po/enema qid + | Chook ilous massaslan | | rummant infection | Metronidazole 500mg iv q8h | Shock, ileus, megacolon | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- ...病灶數 | 多發性病灶 | (50%) | 典型為單一膿瘍 (80%) | | 診斷 | 超音波、C | Γ | 超音波、CT、IHA > 1:32 | | 治療 | 抗生素+引 | 流 | Metronodazole 即可, | | | Metronidazole+Ceftriaxone orPiperacillin-tazobactam or | | 不需引流→ | | | | | 否則阿米巴會由引流管蔓延開 | | | Ampicillin-sulbactam | | | Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
-- 1. 梨形鞭毛蟲 (Giardia lamblia) (超超超愛考,務必記熟此蟲!!) - (1) 生活史: - a. 營養體:有兩個核,四對鞭毛,成梨型,行落葉般運動。 - b. 囊體:有四個核,為感染型。環境變差時,營養體會變成囊體。 - (2) 寄生在十二指腸,使得吸收不佳,引起脂肪便、低蛋白血症、膽囊炎。 - (3) 因喝被污染的水、親密接觸而傳染。 - (4) 治療: Metronidazole 針對營養體; paromomycin, iodoquinol 針對 cyst。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
-- 2. 陰道滴蟲 (Trichomonas vaginalis) - (1) 生活史: - a. 囊體期:沒有! - b. 營養體: 具波動膜。 - (2) 寄生在尿道或女性陰道前穹廬(anterior fornix)、男性的攝護腺,引起黃綠色惡臭泡沫狀分泌物。 - (3) 因性接觸而傳染。 - (4) 治療: Metronidazole。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
-- | 分類 | 治療 | 其他選擇 | |------------------------------|-------------------------------------------|--------------------------------------| | Mixed aerobic-anaerobic bac. | Cefotaxime + metronidazole or clindamycin | Piperacillin-tazobactam + vancomycin | | Clostridium perfringens | Pencillin + Clindamycin | Cefoxitin + Clindamycin | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 
 ## Clinical Caveats
 

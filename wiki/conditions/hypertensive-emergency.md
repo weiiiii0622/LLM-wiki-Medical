@@ -30,6 +30,9 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch07]]"
 aliases:
   - 'Hypertensive emergency (高血壓急症)'
   - 'Hypertensive emergency'
@@ -44,7 +47,7 @@ tags:
 
 ## Summary
 
-高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血壓合併急性標的器官傷害時需快速評估與靜脈降壓。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +77,17 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch07]]
 
 ## Key Details From Sources
 
+- G. 婦科急症 (Gynecologic emergency) 292 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ### G. 婦科急症 (Gynecologic emergency) Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (1) 卵巢扭轉: - a. 簡介: 卵巢扭轉指支持卵巢的韌帶部分或完全扭轉造成卵巢缺血,若輸卵管 跟著扭轉則稱為附件扭轉(adnexal torsion)。為最常見的婦科急症之一,可 發生在所有年齡層,但最常發生在生育年齡的女性,尤其在 20~30 歲。 - b. 病牛理機轉: - (a) 最常見的是病人有卵巢囊腫或腫瘤(85~95%),因重力因素使卵巢以子宫卵巢韌帶和漏斗骨盆韌帶(infundibulopelvic lig.)為軸做旋轉,使漏斗骨盆韌帶中的卵巢血管受壓迫。靜脈和淋巴回流先受影響(因動脈血管壁較厚),造成卵巢水腫、脹大,最後影響動脈血流供應造成卵巢缺血、梗塞、壞死。卵巢囊腫或腫瘤愈大(大於5公分),扭轉風險愈大,但當囊腫或腫瘤大到固定在骨盆腔底時,便不易發生扭轉。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 為產科急症,發生率約佔所有分娩的 0.2~3% Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- | 嚴重症狀者 | ・異常大量子宮出血合併貧血 | |-------|------------------------------| | | · 嚴重經痛、性交疼痛、長期下腹痛或嚴重壓迫症狀(頻尿、 | | | 便秘、腎水腫) | | | ・ 生育問題 (無合併其他不孕原因) | | 緊急症狀者 | • 蒂連式肌瘤扭轉壞死造成急性腹痛 | | | • 黏膜下肌瘤脫垂造成大量陰道出血 | | 懷疑惡性者 | ・肌瘤過大 | | | ・肌瘤快速長大 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (D) 2. 開放性骨折 (open fracture) 是骨科急症之一,下列敘述何者正確? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - d. 治療: 泌尿科急症。用睪丸固定術 (orchiopexy), 矯正扭轉並將雙側睪丸固定至陰囊。在 6 小時內, 有超過 90% 可搶救回來; 超過 24 小時後救回來的機率 3.5 mm 即可診斷。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (A) 1. 滿月嬰兒若於餵食後呈現噴射狀嘔吐,須懷疑幽門肥厚性狹窄 108(-)專 (hypertrophic pyloric stenosis),下列有關檢查及治療之敘述,何 醫五-49 者最正確? - (A) 確定診斷可借助腹部觸診發現右上腹橄欖狀硬塊、腹部超音 波或上消化道攝影 - (B) 平躺腹部 X 光檢查可發現雙氣泡徵象 (double bubble sign) - (C) 嬰兒幽門肥厚性狹窄因屬腸胃道阻塞之一,通常屬於外科急症(surgical emergency) - (D) 手術治療目前以幽門成形手術(pyloroplasty)為主 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -90,11 +101,6 @@ tags:
 - (B) 1. 急性肌腔室症候群(acute compartment syndrome)是骨科急症之 108( ) 專一,若未即時進行減壓手術,將導致組織缺血及壞死。關於急性 醫五-56 肌腔室症候群之敘述,下列何者錯誤? - (A) 骨折是最常見的原因 - (B) 受到創傷後,大腿遠比小腿容易發生 - (C) 即使患側肢體的周邊脈搏搏動(peripheral pulse)及微血管 回流(capillary return)正常,仍不可排除 - (D) 疼痛常是最早出現的症狀 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - c. 馬尾症候群(Cauda equine syndrome)(急症):壓迫到 S2-4, 薦神經支配的 部位會麻痛無力,甚至使腸道、膀胱失去正常功能,大小便失禁、尿液感減退、尿意滯留、排尿困難。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 【詳解】惡性高血壓引起的神經症狀,要考慮 Hypertensive encephalopathy。頭痛為首先發生的症狀,然後可能造成意識障礙,視力模糊,癲癇等。影像可見 occipital lobe edema。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- 1. 此症狀屬於精神科的急症,可發生在使用抗精神病藥物治療的任一個時期。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 1. 外科急症:接觸病人時,首先要排除外科急症的可能性。如腸套疊、闌尾炎、消化 道扭轉(volvulus)、消化道潰瘍破裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如 睪丸扭轉)。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 【詳解】任何腹痛應優先排除外科急症,腸套疊、闌尾炎、 消化 道扭轉(volvulus)、消化 道潰 瘍破 裂(perforated peptic ulcer)、疝氣、生殖器扭轉(如睪丸扭轉)。(C) 一開始表現為右 下腹痛,臨床表現與急性闌尾炎相似,但急性腸繫膜淋巴腺炎 為自限性(self-limiting)疾病。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (B) 9. 一位 5 歲男童因為發燒 3 天、腹痛與嘔吐前來就診,就診時發現 咽部稍微發紅,呼吸急促,腹部柔軟但有廣泛性輕微壓痛。外科 醫師認為可能有腹部急症而準備開刀,開刀前的例行胸部與腹 部 X 光檢查如圖所示。下列那一項是這位病童最可能的診斷? 102(二)專醫四-4 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...cluding chemotaxis, nitroblue tetrazolium test, CD11/CD18 expression 及 phagocytosis (D) HIV 1 + 2 Ab(A) 10. 化膿性關節炎是兒科病人的急症之一,需要快速診斷及治療。下 100(一)專 列那一種關節炎若未迅速診斷引流與抗生素治療,易引起缺血性 醫四-13 骨頭壞死(Avascular necrosis)? (A) Hip (B) Elbow (C) Knee (D) Ankle Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

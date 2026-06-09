@@ -44,6 +44,12 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch08]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book1-ch16]]"
 aliases:
   - 'Central nervous system, CNS (中樞神經系統)'
   - 'Central nervous system, CNS'
@@ -58,7 +64,7 @@ tags:
 
 ## Summary
 
-包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +108,25 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch08]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book1-ch10]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch02]]
+- [[sources/med6-book1-ch05]]
+- [[sources/med6-book1-ch16]]
 
 ## Key Details From Sources
 
+- ...iciency (Kallmann's syndrome) | | hypogonadism) | Functional hypothalamic amenorrhea (厭食症、過度運 | | | 動、體重過輕或壓力引發等) | | | 中樞神經腫瘤 (如 craniopharyngioma) | | | 腦部受傷或接受放射線 | | 腦垂體異常 | 高泌乳素血症 (hyperprolactinemia) | | (Hypogonadotropic | 中樞神經腫瘤 (如 Pituitary prolactinoma) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (d) 併發症:手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下 垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (3) 抽血驗 FSH、prolactin 和 TSH; - a. prolactin ↑:高泌乳血症→ MRI 排除腦垂體腺瘤; - b. FSH ↑:hypergonadotropic(卵巢異常)→染色體異常造成性腺發育不良或 其它因素造成卵巢衰竭; - c. FSH ↓或 normal: hypogonadotropic (中樞神經異常)→ MRI 排除器質性病灶; - d. TSH ↑:甲狀腺低下→補充 thyroxine 治療。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】應安排高層次超音波,適合於第二孕程 18~24 週,進 一步檢查胎兒腦部結構是否異常。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- 【詳解】isotretinoin 在懷孕的風險等級為 X,懷孕時禁用,除增加流產率外,其代謝物會通過胎盤,造成胎兒異常(包括五官、腦部發育異常、低智商、心臟發育異常、胸腺及副甲狀腺異常等)。phenytoin 在懷孕的風險等級為 D,雖然也會造成胎兒異常,但必要時仍可使用。另外,fluconazole 為 C級;metformin 為 B級。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...目前仍不明,有一些假說被提出,包括 - 作用於 NMDA receptor, 提高 seizure threshold - · 促使腦血管擴張,避免 vasospasm - · 阻斷鈣離子通道和減少 acetylcholine 的作用,穩定中樞神經系統的細胞膜 - c. 使用期間: - · 一般於生產前(剖腹產前、產痛或引產時)給予並持續用到產後24小時 - 可依疾病的嚴重度及恢復狀況調整停藥時機,輕度者或恢復快者可提早 在產後 12 小時停用;重度者或恢復慢者可延長使用至產後 48 小時 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- 【詳解】重度子癇前症使用 $MgSO_4$ 之主要目的是預防 seizure,作用機轉目前仍不明,可能和作用於 NMDA receptor 提高 seizure threshold、促使腦血管擴張避免 vasospasm 及穩定 CNS 細胞內膜,減少 acetylcholine 有關。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ...-----------------------------------------------------------------------------------------------------------------|--| | CNS | Anencephaly with or without herniation of neural elements \( \) microencephaly \( \) holoprosencephaly \( \) neural tube defect-meningomyelocele | | | CV | • TGA · VSD · coarctation of the aorta · PDA · single ventric Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- | • 胎兒未成熟 | ・胎兒睡著 | |----------|----------------------| | • 缺氧和酸血症 | • 藥物:中樞神經抑制劑,如麻醉和止痛藥 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - 1. 簡介:腦性麻痺是指嬰兒在出生前或出生後(腦部尚未發育成熟之前),中樞神經系統(upper motor neurom)受到損傷或發生病變所造成的運動機能障礙。它是非進行性的疾病(static encephalopathy),部分的腦性麻痺兒童會伴隨其他方面的障礙(有75%的病人會合併有智能障礙)。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - 1. 骨盆骨折的特性:有三高。 - (1) High energy trauma: 骨盆周圍的韌帶非常強韌而穩定,所以若骨盆受傷表示一定受到很高能量的傷害,在台灣常見於車禍意外或高處墜落。 - (2) High morbidity: 高能量的外力破壞造成胸部、腦部、腹部的伴隨傷害 (associated injury)、同時有 15% 病人會合併骨盆腔器官、神經血管的傷害,如果有血管的傷害常會合併大量的出血。 - (3) High mortality: 不穩定的骨盆骨折死亡率可高達 10%。若是不穩定的骨盆骨折 再加上開放性骨折或是腦部、胸部的傷害,造成休克,死亡率甚至可升高到 50%。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - b. 器質性 (organic): - (a) 神經方面 (neurogenic): - i. 腦神經:有腦部腫瘤壓迫等。 Source: [[sources/med5-book5-ch08|辛、男性學]].
@@ -113,16 +135,6 @@ tags:
 - | (C) | 6. 對一位 C5~C6 完全性脊髓損傷導致逼尿肌尿道外括約肌共濟失調 | 107 (二)專 | |-----|-------------------------------------------------------|-----------| | | (detrusor sphincter dyssynergia, DSD)的病人,下列何種處置不 | 醫五-68 | | | 合適? | | | | (A) 間歇性導尿以定時排空膀胱 | | | | (B) 口服抗膽鹼 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...蛋白尿(1 g/24 h)或腎血管病變,但 creatinine 清除率 $> 50 \, \text{mL/min}$ 者。存活率尚待驗證。 - (d) 心臟停止的捐腎者(donation after cardiac death):指的是腦部有不可逆傷 害但還不符合腦死判定,經標準心臟停止程序後成為的捐腎者。此移植 腎的功能恢復較慢,但長期預後與標準捐腎者相近。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- 1. 成人最常見的縱隔腔腫瘤 23%,通常在後縱隔腔,源自交感神經節和肋間神經的腫瘤,前上縱隔腔極為罕見,多為良性。佔孩童 34%縱隔腔腫瘤,多為惡性。約 10% 會侵犯到脊髓,又稱為 dumbbell tumors。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- 【詳解】CT上可見由頸部下來的 thyroid gland,壓到氣管,造成 CxR上有氣管偏移而有吸氣期高頻音。(A)(B) 明顯可排除,(C) 多為神經性腫瘤,但沒看到腫瘤從脊髓延伸。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- (2) 腺癌 (adenocarcinoma, ACA): - a. 佔 45% 肺腫瘤,約 75% 在周邊發生,由支氣管上皮的 mucus-producing cell 分化而來,而且較 SqCC 易轉移,且最常轉移到中樞神經系統,而原發性腺癌,如果無肺外轉移,則建議手術切除合併縱隔腔淋巴結摘除。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (2) 止痛:肋間神經阻斷或脊髓硬腦膜外止痛。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 3. 胸腔創傷 (Thoracic injuries) - (1) 創傷性窒息 (Traumatic Asphyxia) - a. 機轉 & 成因:為鈍傷受少見的情況,起因於突發性的胸腔壓砸傷,導致氣道 阳塞以及上腔靜脈高壓逆流。 - b. 臨床表現:出現頭頸部發紺、結膜下出血和淤斑。若小於 3 歲孩童合併肋骨骨折,需高度懷疑受虐。 - c. 治療:通常需要給予呼吸治療、胸管引流,以及注意合併中樞神經和腹腔損傷。若失血量> 20%總血量或持續引流量> 2 mL/kg/hr,建議進行手術。此血胸通常是肋間動脈損傷所致。 Source: [[sources/med5-book4-ch08|甲、概 論]].
-- (2) 腹部超音波:評估泌尿系統和脊髓,尤其腎臟部位。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 1. 機轉:早熟性顱縫融合,導致已融合的顱縫發育受限而開放顱縫的代償性變形,會 導致腦部生長發育受損。 Source: [[sources/med5-book4-ch17|癸、腦及神經疾病]].
-- ...6-T9 發出之神經,經過 celiac plexus 後分佈於胃壁。 - (b) 其作用使胃蠕動減慢,胃液分泌減少,括約肌緊張等。 - b. 副交感神經: - (a) 90% 為輸出神經 (afferent nerve),傳送胃部的訊息至中樞神經。 - (b) 可分成 left vagus nerve 與 right vagus nerve(左分支 在前,右分支在後。記 憶成 Left anterior、right posterior, LARP)。 - (c) 由圖可知,於胃小彎處, 左側迷走神經可再分支出 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
-- ...(一) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭轉移,其餘為肺部、淋巴結、 | | | | 腦部與肝臟。 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- (D) 細菌血栓打出一旦造成腦部缺氧或出血,應儘快手術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 
 ## Clinical Caveats
 

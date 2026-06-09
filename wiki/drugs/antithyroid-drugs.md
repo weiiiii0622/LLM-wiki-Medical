@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch11]]"
   - "[[sources/med3-book2-ch13]]"
@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Antithyroid drugs (抗甲狀腺藥物)'
   - 'Antithyroid drugs'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,15 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- | Propylthiouracil | • | 抑制甲狀腺產生 thyroid hormone 和周邊組織 T4 轉換成 | |------------------|---|--------------------------------------| | (PTU) | | Т3 | | Beta-blocker | • | 控制心搏過速 (ex: propranolol) | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- 註 1:和 PTU 同為 thionamides 類藥物的 methimazole 被發現有致畸胎性,會造成胎兒頭骨不可逆的發展問題 -aplasia cutis,因此不應該在懷孕使用。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (C) 5.35 歲習慣性流產女性 G3P0SA3,因為不孕症合併月經異常至門 診求診,月經週期第3天賀爾蒙指數濾泡刺激激素(FSH)5.4 IU/L, 黃體化激素 (LH) 3.0 IU/L, 甲狀腺刺激激素 (TSH) 5.87 mIU/L 以及泌乳激素(PRL)15 ng/mL,其他檢查包括抗甲狀腺 抗體陽性以及甲狀腺素 free T4 正常。下列何者是首先建議的治 療方法? Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】TSH 超過正常值(4 mIU/L),而甲狀腺素 free T4 正常, 為 subclinical hypothyroidism,且合併抗甲狀腺抗體陽性,文獻 報告此兩種情形皆會增加流產率,建議先補充甲狀腺素,可降 低流產的機會。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (1) Antithyroid drug: - a. 口服抗甲狀腺藥物:Propylthiouracil (PTU)、methimazole。 - b. 一天三次共 4~6 個禮拜,達到 euthyroid 的狀態,之後再慢慢調降劑量。 - c. 易復發,只有 20~30% 的病患可以達到長期緩解(long term remission)。 - d. 藥物副作用:rash、hepatitis、arthralgias、lupus-like syndrome、agranulocytes (0.5%)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (1) 慢性自體免疫性疾病,患者體內會產生抗甲狀腺抗體,造成淋巴浸潤,破壞自己的甲狀腺組織。90%的病患可在血液中檢驗出 antithyroid peroxidase (anti-TPO)和 antithyroglobulin (anti-Tg)抗體。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...| 下列有關治療甲狀腺風暴的敘述,何者錯誤? | 105(一)專 | |---------|--------------------------------------------------|---------| | | (A) 可使用抗甲狀腺藥物以降低血中 T4 轉化成 T3 的量 | 醫五 -39 | | | (B) 可使用乙型拮抗劑(beta-blockers)以降低血中 $T_4$ 轉化為 $T_3$ | | | | 的量 | | | | (C) 給予 2% 碘劑溶液 (Lugol's solution) 可減少甲狀腺荷爾蒙 | | | | 分泌量 | | | | (D) 使用類固醇及阿斯匹靈退燒,同時需輸液治療 | | | (A) 18. | 未分化型甲狀腺癌(an Source: [[sources/med5-book2-ch20|甲、甲狀腺]].

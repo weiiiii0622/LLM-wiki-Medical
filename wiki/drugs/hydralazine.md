@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book1-ch04]]"
 aliases:
   - 'Hydralazine (肼屈嗪)'
   - 'Hydralazine'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-動脈擴張降低 afterload，可與 nitrate 合用於心衰竭。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+動脈擴張降低 afterload，可與 nitrate 合用於心衰竭。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book1-ch04]]
 
 ## Key Details From Sources
 
+- 【詳解】病人疑為嚴重子癲前症,可先給予 MgSO4 預防癲癇,處理高血壓可使用 Hydralazine 和 Labetalol 等,ACEI 和 ARB 因會影響胎兒心臟及腎臟發育,懷孕期間禁止使用;將胎兒產出是唯一根治方法。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...維化 (nephrogenic systemic fibrosis) | | | 的風險增加。 | | | | (D) 18. 對於腎臟移植後的處置, | | 103(二)專 | | ① 通常會使用 β-blockers來控制高血壓 | ,hydralazine 和 calcium channel blockers | 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (10) 藥物反應 (Drug reactions): Hydralazine, busulfan, nitrofurantoin (Macrodantin), hexamethonium, methysergide, bleomycin。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - Minocycline, procainamide, hydralazine, isoniazid, penicillamine, diltiazem, interferon- $\alpha$ , methyldopa, chlorpromazine, etanercept, infliximab, adalimumab Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

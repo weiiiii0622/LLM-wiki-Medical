@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Anaphylaxis (全身性過敏反應)'
   - 'Anaphylaxis'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- (B) 給予 epinephrine 藥物 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - (b) 血中兒茶酚胺 catecholamine (主要是 Epinephrine + Norepinephrine)上昇,80% 人會 > 2,000 ng/L。若有高血壓但 catecholamine 正常,可以排除嗜鉻細胞瘤的可能性。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...甲基化發生在腎上腺髓質或嗜鉻細胞瘤內。 - ii. 由於這種兒茶酚胺向後腎上腺素的轉化在嗜鉻細胞瘤內是一個不間斷的過程,因此比陣發性的兒茶酚胺更適合偵測腫瘤。不是血漿兒茶酚胺(catecholamines)、早晨空腹尿中去甲腎上腺素(norepinephrine)、腎上腺靜脈取樣兒茶酚胺(Adrenal vein sampling for catecholamines)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -84,7 +87,6 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - 是提升何種神經傳導物質在腦中的濃度? - (A) acetylcholine - (B) norepinephrine - (C) serotonin - (D) dopamine Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - Norepinephrine 與 serotonin 是目前被研究最多和情感性精神疾患相關的生物因子, 其 他 如 dopamine、GABA、vasopressin、endogenous opiates、glutamate、glycine 等也可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- ...uptake | 温·罗··································· | 腸胃道不適、性功能障 | | inhibitor) | * 選擇性 (-)5-HT 回收 | | | SNRI (serotonin-norepinephrine | (-)NE, 5-HT 回收 | 頭痛、血壓升高 | | reuptake inhibitor) | | | | NDRI (norepinephrine- dopamine | (-)NE, DA 回收 | 如 bupropion | | reuptake inhibitor) | | | | | | | | NaSSA (NE and specific serotonergic | (+)NE, 5-HT 分泌 | 如 mir Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 
 ## Clinical Caveats
 

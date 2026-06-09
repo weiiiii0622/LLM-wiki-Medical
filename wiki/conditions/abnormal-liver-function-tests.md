@@ -50,6 +50,8 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book1-ch05]]"
 aliases:
   - 'Abnormal liver function tests (肝功能異常)'
   - 'Abnormal liver function tests'
@@ -64,7 +66,7 @@ tags:
 
 ## Summary
 
-肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -114,9 +116,13 @@ tags:
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book1-ch04]]
+- [[sources/med6-book1-ch05]]
 
 ## Key Details From Sources
 
+- (A) 2. 27 歲 G1P0 懷孕 38 週孕婦,因下腹部疼痛合併子宮收縮前來求診,到院時血壓 160/110 mmHg,尿蛋白 4+,血清穀草轉氨酶 AST 308 U/L,血小板數 60,000/uL,經診斷為重度子癇前症。醫師建議此位孕婦住院並給予硫酸鎂(magnesium sulfate, MgSO4)治療。對此一疾病,給予硫酸鎂處方的主要目的是: Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (D) 孕婦血清穀草轉氨酶(AST) Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - (C) 經常合併出現低血鈣和肝功能異常 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (C) 世界衛生組織定義 T-score ↓ | ↑ | | | Phosphate | _ | _ | ↓ | ↑ | _ | | ALP | | _ | | ↑ | | | PTH | _ | _ | ↑ | ↑ | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 (PPT)延長,通常也伴隨發燒、疲倦、體重減輕。這些是因腫瘤分泌刺激因子(粒細胞—巨噬細胞群刺激因子 GMCSF = granulocyte-macrophage colony stimulating factor)造成,切除病灶後可回復。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -133,8 +139,6 @@ tags:
 - (A) 11. 一位 53 歲男性,以往健康良好,最近逐漸出現黃疸症狀,糞便 呈淺色,尿液茶褐色。病患以往沒有膽道結石病史。理學檢查顯 示患者腹部無痛覺,沒有硬塊,膽囊亦觸摸不到。實驗室血液 數據顯示總膽管色素:9.8 mg/dL,直接膽紅素:7.6 mg/dL, prothrombin time INR: 1.79, ALT: 141 U/L, AST: 147 U/L, 澱粉酶: 130 U/L, 脂肪酶: 86 U/L, alkaline-P: 469 U/L。腹部 超音波顯示肝內肝管擴大,膽囊正常。則下列何者與病患最可 能的疾病診斷不符? - (A) 腹部電腦斷層顯示總膽管明顯擴大 - (B) 病患的腫瘤為腺癌,生長速度緩慢 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...。 - (2) On admission: - a. Glucose > 200 mg/dL $\circ$ - b. Age $> 55 \text{ y} \circ$ - c. LDH > 350 IU/L $\circ$ - d. AST > 250 IU/L - e. WBC > 16,000/U1 - (3) Initial 48 hrs: - a. BUN elevation $> 5 \text{ mg/dL} \circ$ - b. Base deficit $> 4 \text{ mEq/L} \circ$ - c. Ca 10\%$ ° - f. fluid Sequestration > 6 L $\circ$ Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - 【詳解】Ranson criteria on admission:(a) Glucose > 200,(b) Age > 55,(c) LDH > 350,(d) AST > 250,(e) WBC > 16,000。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- (1) 血液中 Ca ↑、PTH ↑、ALP ↑、P ↓、Cl ↑ (PTH 促 HCO₃ 排出導致 hyperchloremic metabolic acidosis)、Cl: P > 33:1。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- ...醫五-59 (A) 鈣離子 (calcium ion) 濃度 (B) 磷酸根離子 (phosphate ion) 濃度 (C) 鎂離子 (magnesium ion) 濃度 (D) 鹼性磷酸酶 (alkaline phosphatase, ALP) 濃度 【詳解】副甲狀腺術後低血鈣多為暫時性,但也有少數病患因 骨骼飢餓症候群(Hungry bone syndrome)造成永久性低血鈣, 其風險因子為術前嚴重骨病變、術前血中尿素氮濃度較高、術 前血中鹼性磷酸酶濃度較高或病患年紀較大。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 
 ## Clinical Caveats
 

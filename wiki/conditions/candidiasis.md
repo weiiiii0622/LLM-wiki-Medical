@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Candidiasis (念珠菌感染)'
   - 'Candidiasis'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,13 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- ### (2) 念珠球菌感染 (Candidiasis) Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...女第二常見的陰道炎,主要影響育齡婦女(停經後或青春期前較少 見),隨著年紀愈大愈容易感染,且復發率高 為直腸和陰道的共生菌,在體內雌激素增加(如懷孕)、免疫抑制治療、 糖尿病控制不佳和廣泛性抗生素治療等情況容易引起感染 • 主要感染菌種為 Candida albicans (約佔85%),加上 C. glabrata 佔99% 表現 • 主要表現為會陰部搔癢、灼熱刺激感,可能伴隨解尿疼痛和性交疼痛等 症狀 · 內診可發現陰道和陰唇紅腫,甚至裂傷;可見白色乳狀斑塊分泌物 檢查 ・陰道 pH 值正常 (3.5~4.5) · 食鹽水稀釋的抹片可觀察到 budding yeast 或 hyphae · 加入 10% KOH 將細胞破壞可更清楚觀察到 budding yeast 或 hyphae Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- | | Bacterial vaginosis | Candidiasis | Trichomoniasis | |---------|-----------------------|--------------------|-----------------------| | 病原體 | Gardnerella vaginalis | Candida albicans | Trichomonas vaginalis | | | 最常見 | 最常見 | | | 發生率 | 最常見 45% | 第二常見 35% Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...| | | 一旦嘗試從傷口處注入食鹽水並打通關節腔,會把傷口處的細 | | | 菌帶到關節腔內,造成更嚴重的感染。 | | | (C) 5. 骨科手術後最常見的傷口感染細菌,下列何者正確? 103( 二 ) 專 | (C) | | (A) Candida (B) Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 103(ニ)専 | (C) | | 膏固定後回家休息,晚上睡覺時覺得右腳越來越痛,他 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - iii. 黴菌:有機會造成念珠菌(candida)泌尿道感染,所以在移植後數月 需要服用預防性抗黴菌藥 fluconazole/Mycelex troche。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...3. 一位 50 歲女性病人,無重大病史,因為過去 12 小時有發高燒、 108(一)專 畏寒及腰痛,因此到急診就診,腎臟超音波顯示腎臟並無結石或 水腫,尿液中白血球為> 100/HPF,但無紅血球( 100/HPF,尿路培養為念珠球菌(Candida albicans),下列何項處置最不適當? (A)給予口服 fluconazole | 105( 二 ) 東醫五 -69 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -78,9 +83,6 @@ tags:
 - Candidiasis: epidermis 會有 spongiotic change(表皮細胞彼此之間像吸水的海綿間隔距離變寬),在 stratum corneum 和 superficial epidermis 可見 neutrophil 匯聚成一小團一小團的 pustulation,加上臨床不太像,故排除。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 持續型氣喘(persistent asthma)的第一線治療,具有抗發炎的作用。高劑量(每天 $\geq$ 1,000 $\mu$ g)及每日使用>4 次較容易出現副作用。最常見的副作用為口腔念珠菌感染(thrush)及聲音沙啞。因此使用完吸入性類固醇要漱口,且使用壓力式定量噴霧器(MDI)者要接輔助艙(spacer)以減少藥物在口腔沉積。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...Escherichia coli | | | adenovirus, | staphylococci, | Serratia,Klebsiella; | | | | enterovirus); | Haemophilus…); | 黴菌如 Candida; | | | | Candida; PCP ; | XLA 病人常見 | Nocardia, Aspergillus | | | | mycobacteria | enterovirus 感染; | | | | | | 寄生蟲 (giardia, | | | | | | cryptosporidia) | | | | 臨床 | 生長發育不良 | 反覆的鼻竇炎或肺 | 皮膚感染 (abscess, | 腦膜炎,關節炎, | | 表現 | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...ion | | | | 故 T 細胞如果少, | (算B細胞數目,正 | deficiency 1 (LAD-1): | | | | ALC 就會低 ) | 常約占 circulating | 缺乏 CD11/CD18 | | | | * Candida skin test | lymphocytes 的 | | | | | (positive 則可排除 | 10%,XLA 病人則 | | | | | T細胞缺陷) | 無B細胞) | | | | | * Flow cytometry | | | | | | (算T細胞數目) | | | | | | * Mitogen test | | | | | | (測 T 細胞功能) | | | | | 常見 | DiGeorge syndrom Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (A) 1. 一位 4 個月大,體重 4 公斤的男嬰,因為反覆抽搐(seizure)及 104( ) 專 低血鈣症,住進醫院的加護病房。自從出生後,他就常拉肚子, 醫四 -26 並有反覆且難以治癒的念珠菌(Candida)感染。身體診察發現左 胸骨下緣有第三度心雜音,您認為最可能的診斷為何? - (A) DiGeorge syndrome - (B) Wiskott-Aldrich syndrome - (C) X-linked agammaglobulinemia - (D) common variable immunodeficiency Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- 【詳解】反覆念珠菌感染代表病人免疫能力低下,加上低血鈣 且有心雜音,臨床上最有可能就是 DiGeorge syndrome。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book6-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Cerebral palsy, CP (腦性麻痺)'
   - 'Cerebral palsy, CP'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,13 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book6-ch08]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- 1.目的:首要目的是防止胎兒死亡,次要目的是避免胎兒神經損傷(如腦性麻痺)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (2) 簡介:發生率平均約 12%,是造成新生兒死亡最主要的原因,週數愈小,死亡率愈高;除死亡外,早產亦會造成長期的後遺症(如視力問題、腦性麻痺等)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | Moderate preterm | 32~37 週,佔早產的 84%,其中 34~37 週又稱 late preterm | |-------------------|--------------------------------------------| | Very preterm | 28~32 週,佔早產的 10% | | Extremely preterm | 3 cm | Preterm birth 風險低 (無論 fetal fibronectin 是否陽性 ) | |---------------|--------------------------------------------------| | 子宮頸長度4,有 neuroprotection 效果以避免腦性麻痺。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - C. 腦性麻痺 (Cerebral palsy, CP) 與相關骨疾病 148 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - 小兒骨科相對難度高,很多是大人看不到的疾病,所以本章介紹內容依照 考古題取向,幫大家發揮「二八法則」的精神,整理一些相對常考的主題,包含 Congenital radioulnar synostosis、股骨生長板滑脫、Cerebral palsy、髋關節發育不良(DDH)、小兒股骨頭缺血性壞死(LCPD)與相關骨疾病等,希望大家能在最短的時間拿到較高的分數。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - #### C. 腦性麻痺 (Cerebral palsy, CP) 與相關骨疾病 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].

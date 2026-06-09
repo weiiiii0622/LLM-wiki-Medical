@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Metabolic alkalosis (代謝性鹼中毒)'
   - 'Metabolic alkalosis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralocorticoid excess 相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralocorticoid excess 相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralo
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- 【詳解】(B) 神經性厭食症(anorexia nervosa)患者若不當催吐或過量使用利尿劑(如:thiazide 和 loop diuretics 等)會造成代謝性鹼中毒,而過量使用軟便劑(laxatives)則會造成代謝性酸中毒;這些情形都會使鉀離子流失,造成低血鉀。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 4. 臨床表現:好發於 2~8 週之間,吐後仍想吃(hungry vomiter),非膽汁性噴射式劇烈嘔吐(non-bilious projectile vigorous emesis),嘔吐物帶咖啡色絲或血絲,可能看到左上腹到上腹有胃蠕動,嘔吐導致胃酸流失而造成低氯性代謝性鹼中毒(hypochloremic metabolic alkalosis)會合併血鉀降低和代償性呼吸酸中毒(respiratory acidosis),甚至脫水。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - c. HCO3: 盡量在術前矯正,因為代謝性鹼中毒 會代償呼吸酸中毒,而抑制呼吸。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 【詳解】肥厚性幽門狹窄通常都已經吐一段時間了,所以在手術前需要先 correct dehydration 和 metabolic alkalosis,等矯正完再進行手術。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -58,7 +61,6 @@ HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralo
 - A. Acid-base - 1. 代謝性鹼中毒 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】HTN + hypokalemia + high K excretion + metabolic alkalosis。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - | (D) | 8. | 下列何種疾病不會有低血鉀合併代謝性鹼中毒? | 102(一)專 | |-----|-----|--------------------------------------------------------------------------------------------------------------------------------------------|---------| | | | (A) Bartter's syndrome (B) Primary Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- ...ysis)為: | 92(二)專 | | . / | (A) Respiratory acidosis (B) Respiratory alkalosis | 內 1-45 | | | (C) Metabolic acidosis (D) Metabolic alkalosis | | | | 【詳解】早期會先 Respiratory alkalosis,晚期才會 Metabolic acidosis。 | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

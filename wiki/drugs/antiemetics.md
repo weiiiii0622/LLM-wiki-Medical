@@ -16,6 +16,8 @@ sources:
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch11]]"
 aliases:
   - 'Antiemetics (止吐藥)'
   - 'Antiemetics'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,13 @@ tags:
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch11]]
 
 ## Key Details From Sources
 
+- (D) 給予 dexamethasone Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...| | | | |-------|---------|---------------------------------------------------|---------------------|--| | 輕至中度一 | • 給予止吐 | 給予止吐及止痛藥 | | | | 門診治療 | • 每天喝水 | 1,000 mL 以上、每天紀錄體重及尿量 | | | | | ・適度運動 | 旦避免劇烈運動 | | | | | ・定期回門 | 診追蹤超音 | 沙追蹤超音波及實驗室檢查 | | | 重度以上一 | • 監測 | (1) 每天監治 | 則生命徵像、體重、腹圍及 I/O | | | 住院治療 | | (2) 每天檢查 | 查 CBC、Electrolyte | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - a. 看是否是 Cushing's syndrome: 收 24 小時尿驗 cortisol 量 + 看使用 dexamethasone 是否會降低血中 ACTH 和 cortisol。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - (1) 先確診病患有 hypercortisolism: - a. 24 小時尿中 cortisol > 100 mg/day。 - b. Overnight dexamethasone suppression test:晚上 11 點給予 1 mg dexamethasone,隔天早上八點測量血漿 cortisol 濃度,如果 > 5 μg/dL 則為 hypercortisolism。因 dexamethasone 可以負回饋抑制 ACTH 分泌,但若在 Cushing syndrome 的病患,cortisol 濃度則不會受到抑制。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - (2) 找出造成 hypercortisolism 的原因: - a. 測量 ACTH 濃度: - (a) ACTH 15 pg/mL: hypercortisolism 是受到 ACTH 刺激所致, 則懷疑是 Cushing disease 或異位性 ACTH。 - b. 高劑量 dexamethasone 抑制試驗: - (a) 用來區分是 Cushing disease 或是異位性 ACTH,腦下垂體導致的 Cushing disease 可以被高劑量 dexamethasone 抑制,使尿量中的 cortisol 和 17-OHCS(cortisol 的代謝物)降低。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
@@ -65,7 +71,6 @@ tags:
 - 原 治療相關:嗎啡、止吐藥、止痛藥、抗膽鹼類藥物的副作用 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (A) 給予類固醇如 dexamethasone 控制疼痛後,再給予非類固醇類 止痛藥維持症狀之控制 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (A) 將 prednisolone 換成等強度 dexamethasone Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...ays 1,2,3; | | (&courses 3,5,7) | doxorubicin 50 mg/m² on day 4; | | | vincristine 2 mg/day on days 4 and 11; and | | | dexamethasone 40 mg/day on days 1 through 4 and days 11 through 14 | | Consolidation MTX (200 mg/m 2 over 2 hours followed by 800 mg/m 2 over 22 hours on day 1) as | | | (courses 2,4,6,8) | high-dose cytarabine (3 g/m² over 2 hours e Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 
 ## Clinical Caveats
 

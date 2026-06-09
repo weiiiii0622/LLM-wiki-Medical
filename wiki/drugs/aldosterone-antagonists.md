@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch10]]"
 aliases:
   - 'Aldosterone antagonists (醛固酮拮抗劑)'
   - 'Aldosterone antagonists'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,13 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch10]]
 
 ## Key Details From Sources
 
+- ...腔鏡卵巢電燒穿孔術 | | | | · 人工生殖技術 (輔以 metformin 可減少 OHSS 的風險 ) | | | 高雄性素症 | • 首選治療為口服避孕藥,若治療6個月效果不佳,可加 | | | | 上抗雄性藥物,抗雄性藥物包括 spironolactone (首選)、 | | | | cyproterone acetate 和 flutamide ( 肝毒性 )。 | | | | ・物理性除毛 ± 抑制毛髮生成外用藥 (如:vaniqa) | | | 新陳代謝問題 | · metformin 或其他胰島素增敏劑來改善胰島素抗性 | | | | ・ 血脂異常可用 Statins 類藥物 ( 如:simvastatin) 治療 | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- (C) 使用 spironolactone 治療 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- 【詳解】多毛症的婦女,首選治療為口服避孕藥,若治療 6 個月效果不佳,可加上抗雄性藥物,抗雄性藥物包括 (B) flutamide、(C) spironolactone、(D) cyproterone acetate。首選為 spironolactone,flutamide 因有肝毒性而建議盡量避免使用;(A) medroxyprogesterone acetate 具雄性素及合成代謝的作用,不適合用來治療多毛症。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...內第一個字母「GFR」。這原本是指 Glomerular filtration rate 腎絲球過濾率) - (1) 絲狀帶 (zona Glomerulosa): 分泌礦物性皮質素 (mineralocorticoid), 其中主要成分是醛固酮 (aldosteronoma)。(記法: 施壓。絲(施) 狀帶分泌太多會造成高血壓) - (2) 東狀帶 (zona Fasciculata): 分泌葡萄糖皮質素 (Glucocorticoid), 其中主要成分是皮質醇 (cortisol, 一種類固醇)。(記法: 束褲帶。東狀帶分泌太多會造成庫欣氏症) - (3) 網狀帶(zona Reticularis)分泌雄性素(Androgen)。主要有睪固酮(testosterone)、 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - #### A. 原發性高醛固酮症 (Primary aldosteronism), 又稱高血壓低血鉀症 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -62,9 +67,6 @@ tags:
 - (C) 低腎素低醛固酮血症 (hyporeninemic hypoaldosteronism) Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 【詳解】pH=3.2 → acidosis,HCO₃ 下降→ metabolic acidosis,AG=138-109-18=11 → nonAG metabolic acidosis → diarrhea (D) ; (A)(C) AG metabolic acidosis ; (B) Acetazolamide(近端腎小管)、Furosamide(Loop Diuretics,亨利氏環上行支)、thiazide(遠端腎小管、前段→代謝性 鹼中毒)、spironolactone(保鉀利尿劑,遠端腎小管後段→ nonAG metabolic acidosis + hyperkalemia)。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...肢無力、鹼中毒、正常或偏低的血壓 | | 鑑別方法 | Batter's syndrome:低血鎂、高尿鈣 | | | Gitelman's syndrome:低血鎂、低尿鈣 | | 治療 | 兩者皆須補充鉀、鎂離子。 | | | 高劑量 spironolactone 可治療低血鉀、鹼中毒及低血鎂; | | | NSAIDs 用於 Batter's syndrome 可治療 polyuria 和 salt wasting, | | | 但對 Gitelman's syndrome 效果不佳。 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (D) 3. 一位 52 歲男性因反覆發生下肢癱瘓入院,血壓 168/98 mmHg,血液 檢查發現:鈉 146 mmol/L,鉀 2.0 mmol/L,氯 100 mmol/L,酸鹼值 7.56,重碳酸根 38 mmol/L,腎素(renin)0.1 ng/mL/hr(正常值 0.3~3 ng/mL/hr),血清醛固酮(aldosterone)8 ng/dL(正常值 2~9 ng/dL);則下列敘述何者錯誤? Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (C) 因血清腎素偏低,可以排除腎素分泌腫瘤 (renin-secreting tumor) 及續發性高醛固酮症 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- D. 皮質醛固酮症(Hyperaldosteronism) 216 Source: [[sources/med3-book2-ch10|丙、腎上腺疾病]].
 
 ## Clinical Caveats
 

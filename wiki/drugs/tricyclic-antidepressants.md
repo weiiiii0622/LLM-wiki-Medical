@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book1-ch16]]"
 aliases:
   - 'Tricyclic antidepressants, TCAs (三環抗憂鬱劑)'
   - 'Tricyclic antidepressants, TCAs'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-傳統抗憂鬱藥，具 anticholinergic、cardiotoxicity 與 overdose 風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳統抗憂鬱藥，具 anticholinergic、cardiotoxicity 與 overdose 風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,14 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book1-ch13]]
+- [[sources/med6-book1-ch16]]
 
 ## Key Details From Sources
 
+- ...並慢慢增加間隔時間 | | | (2)藥物: | | | a. Antimuscarinic agents (oxybutynin, tolterodine) (副作用: 口乾、視力模糊、 | | | 心跳加速、便秘 ) | | | b. 三環抗鬱劑 TCA (imipramine),針對夜尿 ( 副作用:心律不整 ) | | | c. OnabotulinumtoxinA injection:直接注射於逼尿肌 | | | (3)電刺激 (Electrical stimulation) | | | | Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
+- 【詳解】急迫性尿失禁的治療包括 (1) 膀胱訓練、(2) 藥物:抗乙醯膽鹼、三環抗鬱劑等,和 (3) 電刺激等。膀胱訓練為第一線的治療方式,藥物和電刺激為後線之治療方式。 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
+- ...| 生活型態調整 | • 避免可能加劇症狀的活動及飲食 | | ti nin ayar Arak | • 適當飲水,避免過量(每天不超過2L) | | 物理治療 | • 有骨盆底肌肉壓痛的病人,建議接受物理治療 | | 口服藥物 | · 三環抗鬱劑 amitriptyline 為第一線治療藥物,不僅有止痛 | | | 效果,並且可以緩解慢性疼痛造成的憂鬱症狀。一般1 | | | 個月內即可看到效果。 | | | • 當三環抗鬱劑效果不佳或副作用大,可考慮使用 PPS (註 | | | 1)。不過,治療需 3~6 個月才會見效。 | | | ・ 當病人合併有過敏疾病,可使用抗組織胺(如: | | \ | Hydroxyzine),可能機轉是避免 mast cells 增加而造 Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - i. 三環抗鬱劑 (TCA): Imipramine (Tofranil®),可治療夜尿。原來的功用是治療失眠或憂鬱症。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 5. 慢性預防:(A、B、C) - (1) Antidepressant (如 amitriptyline); Anticonvulsant。 - (2) β blocker: 如 Propranolol。 - (3) CCB:如 Flunarizine。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].

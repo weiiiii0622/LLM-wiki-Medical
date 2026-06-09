@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med6-book1-ch08]]"
 aliases:
   - 'Congenital toxoplasmosis (先天性弓漿蟲感染)'
   - 'Congenital toxoplasmosis'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med6-book1-ch08]]
 
 ## Key Details From Sources
 
+- (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ## E. 正常壓力水腦症(Normal pressure hydrocephalus, NPH) Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - (AC) 2. 常壓性水腦症 (normal pressure hydrocephalus, NPH) 經過腦室引108(二)專流手術後,最容易改善的症狀是下列何者?醫五-9 - (A) 尿失禁 Source: [[sources/med5-book1-ch19|癸、水腦症]].
@@ -66,7 +69,6 @@ tags:
 - ...Trauma | Closed-head injury, heat stroke, postoperative, severe burns | | | | | | CNS pathology | Abscess, hemorrhage, hydrocephalus, subdural hematoma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmona Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - ...-------------------------------------------------------------------------------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosi Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 弓漿蟲病 (Toxoplasmosis) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 22. 一位 8 個月大的嬰兒因發燒 2 天求診,退燒時活力正常,理學檢 查發現前囟門鼓起,血中白血球數目為 4,300/mm³,脊髓液檢查 正常,頭部超音波無異常影像。其腦部最可能的病情為: - (A) 細菌性腦膜炎 (bacterial meningitis) - (B) 假性腦腫瘤 (pseudotumor cerebri) - (C) 腦腫瘤 (brain tumor) - (D) 水腦 (hydrocephalus) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats
 

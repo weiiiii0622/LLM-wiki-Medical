@@ -73,6 +73,9 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book1-ch15]]"
 aliases:
   - 'Pneumonia (肺炎)'
   - 'Pneumonia'
@@ -87,7 +90,7 @@ tags:
 
 ## Summary
 
-肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -160,9 +163,16 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book1-ch03]]
+- [[sources/med6-book1-ch01]]
+- [[sources/med6-book1-ch15]]
 
 ## Key Details From Sources
 
+- ...-----|--------------------------------------| | Anemia | Transfusion-related complications | | Sepsis, wound infection, pneumonia | Venous thrombosis or embolism | | Acute respiratory distress syndrome | Anesthesia-related complications | | Abdominal compartment syndrome | Death | | Unplanned hysterectomy | Asherman's syndrome (related to D&C) | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- ...---------------| | | • 子宮內膜炎 | 剖腹產(最重要)、破水和產程過長會增加感染風險。 | | | • 骨盆腔感染 | 子宮腔感染和膿瘍形成的併發症。 | | 非生殖道 | ・呼吸道 | 麻醉可能造成的肺塌陷或吸入性肺炎。 | | | ・脹奶 | 產後 2~3 天發生 breast fever,可能造成短暫發燒。 | | | • 腹部傷口 | 剖腹產傷口感染通常出現在產後 4~7 天。 | | | • 細菌性乳房炎 | 晚發生(產後1週以後),金黃葡萄球菌感染最常見。 | | | • 泌尿道感染 | 產褥熱最常見原因,可能併發腎盂腎炎。 | | | • 血栓靜脈炎 | 腿部疼痛腫脹,體溫微升。 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- 黃體素使得下食道括約肌張力降低,會導致胃食道逆流;加上懷孕時腹內 壓上升,吸入性肺炎的風險增加,尤其在生產腹部用力時或全身麻醉時 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | Uncomplicated UTI | (1)Escherichia coli 為主,佔 75~95% | |-------------------|---------------------------------------------------| | | (2)腸道菌,如 Proteus mirabilis 和 Klebsiella pneumonia | | | (3)Staphylococcus saprophyticus | | Complicated UTI | (1)包括上述致病菌 | | | (2)Pseudomonas, Serratia, and Providencia species | | | (3)黴菌 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - (B) 莖狀(stalk type)型態的單一性骨軟骨瘤,突出的軟骨帽(cartilage cap)朝向其相鄰近關節方向生長 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - 【詳解】(A)多發性遺傳性外生骨贅具有自體「顯」性遺傳的特性;(B)突出的軟骨帽(cartilage cap)通常會朝遠離關節方向生長;(D)沒有症狀不需治療。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -177,10 +187,6 @@ tags:
 - 5. 檢查 & 診斷:無法順利放置新生兒鼻胃管,是對食道閉鎖最重要的診斷,而在 X 光下,發現橫隔下腸胃道氣體滯留,則可診斷合併有遠端氣管食道瘻管,如無氣體,可以判斷是單純食道閉鎖。很少使用口服顯影劑來幫助診斷,因為極高機率造成吸入性肺炎。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - .... 危險因子:與 GERD 增加、西方飲食習慣及使用制酸劑等有關。 - c. 40~50 歲患者男女比 15:1,很少發生於 40 歲前,隨著年紀發生率增高,以 白人最好發。 - (3) 臨床症狀:吞嚥困難和體重減輕最常見。嗆、咳嗽、吸入性肺炎表示有氣管食 道瘻管。 - (4) 檢查 & 診斷: - a. 鋇劑食道攝影(barium esophagogram):凡有吞嚥困難患者應檢查。 - b. 內視鏡檢:檢查病灶位置、型態、對環咽肌、胃食道連合(GEJ)和胃賁門的關係、胃擴張之情況。 - c. 胸腹電腦斷層:檢查腫瘤長度、食道和胃變厚、淋巴結、食道瘻管,或是遠端轉移到肝肺。 - d. 正子攝影(positron emission tomography, PET): 評估腫瘤 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (B) 2. 一位 67 歲女性因為自殺而住進加護病房,在插管呼吸器治療 10 98(二)專 天後,發現鼻胃管的食物會由氣管內管抽出,臨床懷疑是氣管食 醫五-22 道瘻管合併吸入性肺炎,接下來的處置,下列何者錯誤? - (A) 檢查氣管鏡、胃鏡看是否有氣管食道瘻管 - (B) 應拔除鼻胃管使氣管食道瘻管自行癒合 - (C) 先予以感染控制及營養支持,再行手術 - (D) 手術主要施予瘻管切除及食道修補手術 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (A)漏出液(transudate)常在肺炎或病毒感染時發生 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...就有可能形成肝膿瘍。 - (2) 肝門靜脈: 肝門靜脈收集來自腸胃道的血液後, 匯集於肝臟, 因此與腸胃道感染相關的病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成肝膿瘍。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- 1. 細菌性肝膿瘍:細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumonia),除此之外,大腸桿菌、金黃色葡萄球菌也是常見的致病菌種。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- 【 詳解】細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumoniae)。只有50%病人可以從血液培養出致病菌。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 
 ## Clinical Caveats
 

@@ -15,6 +15,8 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book1-ch01]]"
 aliases:
   - 'Antifungal agents (抗黴菌藥物)'
   - 'Antifungal agents'
@@ -29,7 +31,7 @@ tags:
 
 ## Summary
 
-抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +46,15 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med6-book1-ch08]]
+- [[sources/med6-book1-ch01]]
 
 ## Key Details From Sources
 
+- ...10% KOH 將細胞破壞可更清楚觀察到 budding yeast 或 hyphae • 100 mg Clotrimazole 陰道塞劑 7 天或 100,000 unit Nystatin 陰道塞劑 14 天 治療 ・單一劑量口服 fluconazole 150 mg ·若為反覆復發個案,可給予口服 fluconazole 150 mg 3 劑 (每隔 3 天), Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 之後每週一劑口服 fluconazole 150 mg,持續 6 個月 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- ...omonads) | | 加入 KOH | 明顯的魚腥味,為 | budding yeast 或 | _ | | | whiff test (+) | hyphae 更明顯 | | | 治療 | Metronidazole 或 | 口服 (fluconazole) | 口服 metronidazole | | | Clindamycin 之口服 | 或局部 (clotrimazole, | | | | 藥或陰道乳膏 | nystatin) 抗黴菌藥 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- 【詳解】isotretinoin 在懷孕的風險等級為 X,懷孕時禁用,除增加流產率外,其代謝物會通過胎盤,造成胎兒異常(包括五官、腦部發育異常、低智商、心臟發育異常、胸腺及副甲狀腺異常等)。phenytoin 在懷孕的風險等級為 D,雖然也會造成胎兒異常,但必要時仍可使用。另外,fluconazole 為 C級;metformin 為 B級。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - iii. 黴菌:有機會造成念珠菌(candida)泌尿道感染,所以在移植後數月 需要服用預防性抗黴菌藥 fluconazole/Mycelex troche。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...108(一)專 畏寒及腰痛,因此到急診就診,腎臟超音波顯示腎臟並無結石或 水腫,尿液中白血球為> 100/HPF,但無紅血球( 100/HPF,尿路培養為念珠球菌(Candida albicans),下列何項處置最不適當? (A)給予口服 fluconazole | 105( 二 ) 東醫五 -69 | |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (b) 針對麴菌:不建議抗黴菌藥物,因麴菌瘤血液供應差。可考慮 amphotericin B 和 voriconazol。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -61,10 +69,6 @@ tags:
 - ...phrotoxicity) - (a) 常用的抗生素中,Aminoglycoside 類的腎毒性最常被提及,尤其是連續使用 5 天以上、老年人、本來腎功能就不好的病人,更容易產生腎毒性。 - (b) 需避免同時使用其他具有腎毒性的藥物,如 Amphotericin B、foscarnet、NSAID、cisplatin 等。 - b. 耳毒性 (Ototoxicity)、前庭毒性 (Vestibulotoxicity): 可能以聽覺損傷(高頻)、 耳鳴表現,但也可能以前庭受損、頭暈、步態不穩表現。 - c. 神經肌肉阻斷 (Neuromuscular block): 高劑量時, 會導致神經肌肉阻斷, 甚至造成呼吸肌癱瘓, 可用 calcium gluconate、neostigmine 回復。重 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...痰液,在痰抹片革蘭氏染色下呈眾多多核性白血球(PMN),但無可見之鱗狀上皮細胞、細菌、或其它微生物;抗酸性染色(acid-fast stain)為陰性。下列何種抗生素為最適當之治療選擇? - (A) ciprofloxacin - (B) fluconazole - (C) imipenem/cilastatin - (D) vancomycin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...則即可: | | | | 組織胞漿菌 | Histoplasmosis | | Itraconazole | | | 系統性(雙形性) | 皮炎芽生菌 | Blastomycesdermatitidis | 肺部感染,95% 沒有症狀 | Fluconazole (CNS)AmphoB (Life-threatening) | | | | 副球孢子菌 | Paracoccidioides | | | | | | 青黴菌 | Talaromyces (Penicillium) | 東南亞,AIDS 伺機感染 | | | | | | | 鴿糞/土壤→吸入肺中,通常無症狀 | 不需治療 | | | 系統性 | 隱球菌 | Cryptococcus | →慢性腦膜腦炎 | → AmphoB, Fluc Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- 1. 淺層表皮 (Superficial infections): *M. furfur* 會造成汗斑 (Tinea vesicolor),可見皮膚脫色,大部分局部塗抹 Azole 類藥物即可痊癒;若程度嚴重、範圍較廣,可口服 Ketoconazole。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- 2. 表皮 (Cutaneous): 皮膚絲狀菌 (Dermatophyte) 會造成癬 (Tinea), 大部分局部 塗抹 Azole 類藥物即可痊癒;若侵犯腳掌角質較厚處、指甲,需口服 Itraconazole、Terbinafine 數週。 Source: [[sources/med3-book3-ch20|子、黴菌學]].
-- a. 感染會陰部可塗抹 Clotrimazole (Mycosten®); 感染口腔用 Nystatin 漱口;若有吞嚥困難等,懷疑感染到食道,則建議口服 fluconazole 100~200 mg PO qd。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- b. 若致病菌是 Fluconazole 無效的念珠菌(*C. glabrata, C. krusei*)或對 fluconazole 治療無效,可考慮用 IV Caspofungin 或 Voriconazole。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 
