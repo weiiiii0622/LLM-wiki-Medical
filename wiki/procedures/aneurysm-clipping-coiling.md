@@ -50,6 +50,8 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch17]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)'
   - 'Aneurysm clipping/coiling'
@@ -64,7 +66,7 @@ tags:
 
 ## Summary
 
-ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -114,9 +116,15 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch17]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- 2. 病因:從總頸動脈到視網膜內小動脈間的任何部位阻塞,都可能導致相應的視網膜 缺血、缺氧。動脈阻塞的臨床表現和嚴重程度取決於阻塞的部位、血管大小及阻塞 程度。血栓(thrombus)或栓塞(embolism)是造成視網膜動脈阻塞的主要因素, 主要來自心臟或頸動脈: - (1) 動脈硬化相關的血栓:位在篩板的血栓是造成中心動脈阻塞最常見的原因,佔 80%。 - (2) 頸動脈栓塞:膽固醇栓塞(Hollen-horst's plaques)、纖維血小管栓塞、鈣化性 栓塞。 - (3) 心臟栓塞:鈣化性栓塞(來自主動脈或二尖瓣)、vegetation(來自細菌性心內膜炎的瓣膜)、血栓(由於心肌梗塞後合併 AF 所產生)。 - Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 4. 視網膜中心動脈阻塞(Central retinal artery occlusion, CRAO): - (1) 原因:最常由視網膜動脈硬化栓塞造成。其它原因有:頸動脈粥狀硬化引起的 脂肪栓子、心臟瓣膜疾病產生的鈣化栓子、纖維蛋白及血小板血栓、巨細胞動 脈炎、膠原性血管疾病等。 - (2) 臨床表現: 單側無痛性突然發生完全視力喪失,約有 25% 病人在發作前有陣發性黑曚 (amaurosis fugax),10% 的病患會有類似中風的症狀 (TIA)。 - (3) 眼底檢查:動脈和靜脈變細及分節 (又稱乳牛運輸 cattle-trucking)、 廣泛性視網膜灰白色水腫混濁、 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- d. 治療:降眼壓藥物以及栓塞治療。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- (3) 海綿竇栓塞(cavernous sinus thrombosis):由鼻竇、臉部、牙齒、或眼眶的感染經靜脈流至海綿竇引起栓塞,是一種急性血栓靜脈炎;在近年抗生素的研發及大量使用後,目前已是少見的疾病。常見症狀為發燒、眼球後疼痛、眼肌麻痹(外直肌最先被侵犯)、眼瞼下垂、複視等。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (5) 若經上述處置後,仍然大出血,可使用下列三種方式止血,此三種方式可合併 使用或單獨使用(順序不一定)。 - 子宮內氣球填塞 (intrauterine balloon tamponade) 給予 recombinant activated factor VIIa - · 經動脈血管栓塞 (transarterial embolization) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - (B) 羊水栓塞 (amniotic fluid embolism) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - (B) 2. 有關治療產後大量出血之血管內栓塞術的敘述,下列何者最正確? Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -130,11 +138,6 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - ...管攝影檢查 (D) 近關節處的傷口不要嘗試從傷口注入生理食鹽水來檢查是否與關節腔相通 【詳解】(A) 休克可能是因為失血太多,第一必須先穩定生命徵象,再考慮麻醉作接合手術,因為麻醉本身也會造成相對低血壓,大量出血造成的休克可能要考慮先用血管栓塞止血;另一方面有可能是感染造成的休克,此時可能要謹慎評估傷口的狀 | (A) | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 血管栓塞術 (angio-embolization) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 【詳解】有顯影劑外滲表示有血管的損傷,(B) 選項固然也是治療之一,可以適合給予骨盆壓迫減少出血,但是要根本治療出血的問題仍是要利用血管栓塞才能阻止繼續滲血。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (B) 心房震顫, 左心室的栓塞掉到周圍血管內 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- 【詳解】有心房震顫、右小腿腫脹且有 pulse 及 Homans' sign, 皆為深部靜脈之栓塞症的表現。下肢骨骨折流血量相對較多,也 較容易形成血栓,在術後常會給予一些抗凝血藥物預防血栓發生。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- 【詳解】D-Dimer test 的 sensitivity 有 $93\sim95\%$ ,因此有明顯的升高,發生血管栓塞的機率很高。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (A) 脂肪栓塞症候群 (Fat embolism syndrome) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- 【詳解】脂肪栓塞症候群(Fat embolism syndrome)的三大特徵(triad): 神志不清(consciousness disturbance)with 6~12 hours lucid interval、呼吸困難(respiratory distress)、皮膚出血斑(petechiae)。常發生於長骨(long bone)或骨盆骨折患者,最常在骨折後 24~48 小時後併發症狀;應儘速提供呼吸治療為主,必要時予以氣管插管以呼吸器治療。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 
 ## Clinical Caveats
 

@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Stroke / cerebrovascular accident, CVA (腦中風)'
   - 'Stroke / cerebrovascular accident, CVA'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med5-book5-ch07]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- (1) 雙眼複視可能與眼外肌和腦神經病變相關:如重症肌無力、後天性斜視(如外傷性斜視)、甲狀腺眼症、腦中風、腦瘤、動脈瘤等。雙眼同時看時會出現複視,而把有問題的眼睛遮住,單眼看時,複視即消失。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...enefit > Risk | |-----------------------------------------------------------|-------------------------------------| | • Stroke | Osteoporotic fracture | | Venous thromboembolism | ● Colorectal cancer | | • Coronary heart disease (E+P, > 60 y/o) | ● Coronary heart disease ( 5 yrs) | ● Mortality ( Endometrial hyperplasia and carcinoma | ● Type II Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - E 或 E+P 增加的 stroke 風險為缺血性腦中風 (非出血性),不過, 40 mIU/mL, E2 > 30 pg/mL Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...tance)會下降,心跳(heart rate)會加快 - (C) 正常懷孕從受孕到產後的這段期間,側躺休息時的心輸出量最大的時期在妊娠週數第 28 至 32 週間 - (D) 一般妊娠 20 週後,孕婦側躺時,心輸出量及心臟打出的容積量(stroke volume) 比坐著時高,但每分鐘心跳數則比坐著時 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -72,9 +75,6 @@ tags:
 - (D) 缺血性腦中風 (ischemic stroke) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - I. 缺血性腦中風 (Ischemic Stroke) 85 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - II. 出血性腦中風 (Hemorrhagic Stroke) 103 - A.介紹 103 - B. 腦出血 (Intracerebral hemorrhage, ICH) 104 - C. 蜘蛛膜下腔出血 (Subarachnoid hemorrhage, AH) 108 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- #### 腦血管疾病 (Cerebrovascular Disease) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (A) 3. 某日,一位 69 歲女性 A 在健身俱樂部被游泳池員工帶往服務台, 建議 A 的先生帶 A 到醫院檢查。原來,A 不斷地問同樣的問題 「我現在在那裡?我在做什麼?」很快地,他們來到醫學中心 急診部,病人血壓偏高,意識清楚,手腳活動與感覺正常,步 態平穩。54 小時後安排了 Brain MRI 結果如下, A 有可能的狀 況為: - (A) 暫時性失憶症 (transient global amnesia) - (B) 阿茲海默症 (Alzheimer disease) - (C) 失憶性中風 (amnestic stroke) - (D) 癲癇發作 (epileptic seizures) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (A) 7. 李先生,75 歲,有多次腦中風及高血壓、糖尿病病史,神經學檢查時,無明顯肌肉乏力,但呈現口齒不清、吞嚥障礙,情緒失禁(emotional incontinence)及兩側深部肌腱反射增強(hyperreflexia),下列何者最正確? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 
 ## Clinical Caveats
 

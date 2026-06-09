@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Astrocytoma (星狀細胞瘤)'
   - 'Astrocytoma'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-astrocytic tumor，臨床與預後依分子分類與 grade 而異。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+astrocytic tumor，臨床與預後依分子分類與 grade 而異。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- (f) 眼底病灶:脈絡膜的缺陷瘤(choroidal hamartoma)、視網膜星狀細胞瘤。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - C. 星狀細胞瘤 (Astrocytoma) 207 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. 神經表皮細胞腫瘤(tumor of neuroepithelial tissue): - (1) 星狀細胞瘤 (astrocytoma):星狀細胞 (astrocyte)。 - (2) 寡樹突神經膠瘤(oligodendroglioma):寡樹突細胞(oligodendrocyte)。 - (3) 室管細胞瘤 (ependymoma):室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor)。 - (5) 神經節神經膠瘤 (ganglioglioma)/神經節細胞瘤 (gangliocyt Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - \* 之前各種神經膠細胞來源的腫瘤皆統稱為神經膠質瘤 (glioma),其中包含了 astrocytoma、oligodendroglioma、ependymoma 和 glioblastoma multiforme (GBM)。 但在後來的 WHO 分類系統中則不再使用 glioma 一詞,而個別分類上述腫瘤。此外,也因確定了 GBM 之來源細胞,故 GBM 歸入於 astrocytoma 的 grade IV。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

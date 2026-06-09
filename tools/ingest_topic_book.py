@@ -84,7 +84,7 @@ SEEDS: tuple[TopicSeed, ...] = (
     TopicSeed("condition", "hfpef", "HFpEF (射出分率保留型心衰竭)", ("HFpEF", "diastolic dysfunction", "舒張失能", "LVEF 是正常"), "舒張功能下降但 LVEF 可保留，治療重點偏症狀、血壓與共病控制。"),
     TopicSeed("condition", "cardiogenic-pulmonary-edema", "Cardiogenic pulmonary edema (心因性肺水腫)", ("肺水腫", "pulmonary edema", "急性心衰竭", "LMNO"), "心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。"),
     TopicSeed("condition", "infective-endocarditis", "Infective endocarditis (感染性心內膜炎)", ("感染性心內膜炎", "infective endocarditis", "endocarditis", "Duke"), "菌血症造成心內膜或瓣膜感染，診斷依血液培養、心超與 Duke criteria。"),
-    TopicSeed("condition", "rheumatic-heart-disease", "Rheumatic heart disease (風濕性心臟病)", ("風濕性", "rheumatic", "Jones", "rheumatic fever"), "鏈球菌感染後免疫反應可造成瓣膜病變。"),
+    TopicSeed("condition", "rheumatic-heart-disease", "Rheumatic heart disease (風濕性心臟病)", ("風濕性心臟病", "rheumatic heart disease", "rheumatic fever", "Jones criteria", "Jones 準則"), "鏈球菌感染後免疫反應可造成瓣膜病變。"),
     TopicSeed("condition", "aortic-stenosis", "Aortic stenosis (主動脈瓣狹窄)", ("主動脈瓣狹窄", "aortic stenosis", "AS"), "固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。"),
     TopicSeed("condition", "aortic-regurgitation", "Aortic regurgitation (主動脈瓣逆流)", ("主動脈瓣逆流", "aortic regurgitation", "AR"), "舒張期逆流造成容量負荷與脈壓變化。"),
     TopicSeed("condition", "mitral-stenosis", "Mitral stenosis (二尖瓣狹窄)", ("二尖瓣狹窄", "mitral stenosis", "MS"), "常與風濕性病變相關，造成左心房壓上升與肺鬱血。"),
@@ -1603,7 +1603,115 @@ FIFTEENTH_BOOK_SEEDS: tuple[TopicSeed, ...] = (
 )
 
 
-ALL_SEEDS: tuple[TopicSeed, ...] = SEEDS + SECOND_BOOK_SEEDS + THIRD_BOOK_SEEDS + FOURTH_BOOK_SEEDS + FIFTH_BOOK_SEEDS + SIXTH_BOOK_SEEDS + SEVENTH_BOOK_SEEDS + EIGHTH_BOOK_SEEDS + NINTH_BOOK_SEEDS + TENTH_BOOK_SEEDS + ELEVENTH_BOOK_SEEDS + TWELFTH_BOOK_SEEDS + THIRTEENTH_BOOK_SEEDS + FOURTEENTH_BOOK_SEEDS + FIFTEENTH_BOOK_SEEDS
+SIXTEENTH_BOOK_SEEDS: tuple[TopicSeed, ...] = (
+    # Ophthalmic anatomy, physiology, optics, and bedside diagnostics.
+    TopicSeed("anatomy", "eye-anatomy", "Eye anatomy (眼球解剖)", ("eye anatomy", "眼球解剖", "眼睛概論", "眼球壁", "前房", "後房"), "眼球由眼球壁、內容物與附屬構造組成；臨床定位需連結 cornea、lens、uvea、retina、optic nerve 與 orbit。"),
+    TopicSeed("anatomy", "cornea", "Cornea (角膜)", ("cornea", "角膜", "corneal epithelium", "Bowman", "Descemet", "endothelium"), "角膜是主要屈光介質與眼表屏障，透明度仰賴規則膠原排列、內皮幫浦與完整淚膜。"),
+    TopicSeed("anatomy", "lens-eye", "Lens (水晶體)", ("lens", "水晶體", "晶狀體", "zonule", "lens capsule"), "水晶體提供可調節屈光力；混濁造成 cataract，懸韌帶異常可造成 ectopia lentis。"),
+    TopicSeed("anatomy", "retina", "Retina (視網膜)", ("retina", "視網膜", "neurosensory retina", "RPE", "macula", "fovea"), "視網膜含感光細胞、神經細胞與 retinal pigment epithelium，是黃斑病變、血管阻塞與剝離的核心部位。"),
+    TopicSeed("anatomy", "uvea", "Uvea (葡萄膜)", ("uvea", "葡萄膜", "iris", "ciliary body", "choroid"), "葡萄膜包含虹膜、睫狀體與脈絡膜，與發炎、腫瘤、房水生成及 blood-ocular barrier 有關。"),
+    TopicSeed("anatomy", "optic-nerve", "Optic nerve (視神經)", ("optic nerve", "視神經", "optic disc", "視神經盤"), "視神經傳遞視網膜 ganglion cell axons；病變可表現為視力下降、視野缺損、RAPD 或 optic disc swelling。"),
+    TopicSeed("anatomy", "orbit", "Orbit (眼眶)", ("orbit", "眼眶", "orbital apex", "extraocular muscles", "眼外肌"), "眼眶容納眼球、眼外肌、神經血管與脂肪，疾病可造成 proptosis、眼球運動受限、疼痛或視神經壓迫。"),
+    TopicSeed("physiology", "tear-film", "Tear film (淚膜)", ("tear film", "淚膜", "淚液層", "Schirmer", "tear break-up"), "淚膜由脂質、水液與黏液層維持眼表濕潤與光學平整，異常會造成 dry eye symptoms。"),
+    TopicSeed("physiology", "aqueous-humor-dynamics", "Aqueous humor dynamics (房水動力學)", ("aqueous humor", "房水", "trabecular meshwork", "Schlemm", "uveoscleral"), "房水由睫狀體生成，經 trabecular meshwork/Schlemm canal 與 uveoscleral pathway 排出；失衡造成 intraocular pressure 上升。"),
+    TopicSeed("physiology", "visual-pathway", "Visual pathway (視覺路徑)", ("visual pathway", "視覺路徑", "optic chiasm", "optic tract", "lateral geniculate", "visual cortex"), "視覺訊號由 retina、optic nerve、chiasm、tract、LGN、optic radiation 到 visual cortex，病灶位置決定視野缺損型態。"),
+    TopicSeed("physiology", "ocular-motility", "Ocular motility (眼球運動)", ("ocular motility", "眼球運動", "extraocular muscles", "Hering", "Sherrington"), "眼外肌、cranial nerves III/IV/VI 與雙眼協調法則決定眼位與複視定位。"),
+    TopicSeed("physiology", "accommodation", "Accommodation (調節作用)", ("accommodation", "調節作用", "near reflex", "presbyopia"), "睫狀肌與水晶體改變屈光力以看近物；老化後調節力下降形成 presbyopia。"),
+    TopicSeed("diagnostic", "visual-acuity-test", "Visual acuity test (視力檢查)", ("visual acuity", "視力檢查", "Snellen", "pin-hole", "pinhole"), "視力檢查評估中心視覺，pinhole 改善常提示 refractive component。"),
+    TopicSeed("diagnostic", "slit-lamp-examination", "Slit-lamp examination (裂隙燈檢查)", ("slit lamp", "裂隙燈", "slit-lamp"), "裂隙燈放大檢查眼瞼、結膜、角膜、前房、虹膜與水晶體，是 anterior segment 評估核心工具。"),
+    TopicSeed("diagnostic", "tonometry", "Tonometry (眼壓測量)", ("tonometry", "眼壓", "intraocular pressure", "IOP", "applanation"), "眼壓測量用於 glaucoma 評估與急性紅眼鑑別，需結合角膜厚度、視神經與視野判讀。"),
+    TopicSeed("diagnostic", "gonioscopy", "Gonioscopy (隅角鏡檢查)", ("gonioscopy", "隅角鏡", "anterior chamber angle", "Shaffer"), "以特殊鏡片評估前房隅角開閉與次發性變化，是 angle-closure glaucoma 分類關鍵。"),
+    TopicSeed("diagnostic", "fundoscopy", "Fundoscopy (眼底檢查)", ("fundoscopy", "眼底鏡", "眼底檢查", "ophthalmoscopy", "fundus"), "眼底檢查觀察 optic disc、retina、macula 與血管，支撐糖尿病、高血壓、視神經與視網膜疾病判讀。"),
+    TopicSeed("diagnostic", "visual-field-test", "Visual field test (視野檢查)", ("visual field", "視野檢查", "perimetry", "Humphrey"), "視野檢查用於 glaucoma、視神經與視覺路徑病變追蹤，需結合可靠度指標與眼底/影像。"),
+    TopicSeed("diagnostic", "optical-coherence-tomography", "Optical coherence tomography, OCT (光學同調斷層掃描)", ("OCT", "optical coherence tomography", "光學同調斷層", "retinal nerve fiber layer"), "OCT 提供 retina、macula 與 optic nerve head 橫切影像，可評估黃斑水腫、macular hole、ERM 與 glaucoma RNFL。"),
+    TopicSeed("diagnostic", "fluorescein-angiography", "Fluorescein angiography, FA (螢光眼底血管攝影)", ("fluorescein angiography", "FA", "螢光眼底血管攝影", "leakage", "nonperfusion"), "FA 評估 retinal/choroidal circulation、血管滲漏、缺血與 neovascularization。"),
+    TopicSeed("diagnostic", "schirmer-test", "Schirmer test (Schirmer 淚液測試)", ("Schirmer", "淚液測試", "Schirmer test"), "以濾紙測量淚液分泌量，是 dry eye 與 Sjogren syndrome 的輔助檢查之一。"),
+    TopicSeed("diagnostic", "fluorescein-staining-eye", "Fluorescein staining (眼科螢光染色)", ("fluorescein staining", "螢光染色", "corneal staining", "Seidel test"), "眼表螢光染色可顯示角膜上皮缺損、abrasion、ulcer pattern 或 open globe 漏水。"),
+    TopicSeed("diagnostic", "cover-uncover-test", "Cover-uncover test (遮蓋試驗)", ("cover test", "cover-uncover", "遮蓋試驗", "alternate cover"), "遮蓋試驗區分 phoria/tropia 並評估斜視方向與大小。"),
+    TopicSeed("diagnostic", "amsler-grid", "Amsler grid (Amsler 方格表)", ("Amsler", "Amsler grid", "方格表", "metamorphopsia"), "Amsler grid 用於偵測 central scotoma 或 metamorphopsia，常用於黃斑病變追蹤。"),
+    # Common anterior segment, lens, glaucoma, retina, pediatric, and neuro-ophthalmic conditions.
+    TopicSeed("condition", "refractive-error", "Refractive error (屈光不正)", ("refractive error", "屈光不正", "近視", "遠視", "散光"), "屈光不正包含 myopia、hyperopia、astigmatism 與 presbyopia，會造成視力模糊且 pinhole/矯正鏡片可改善。"),
+    TopicSeed("condition", "myopia", "Myopia (近視)", ("myopia", "近視", "axial myopia", "degenerative myopia"), "眼軸過長或屈光力過強使影像聚焦在 retina 前方；高度近視增加 retinal detachment、macular degeneration 與 glaucoma 風險。"),
+    TopicSeed("condition", "hyperopia", "Hyperopia (遠視)", ("hyperopia", "遠視", "farsightedness"), "眼軸過短或屈光力不足使影像聚焦於 retina 後方；兒童可由 accommodation 代償，與 accommodative esotropia 相關。"),
+    TopicSeed("condition", "astigmatism", "Astigmatism (散光)", ("astigmatism", "散光", "cylindrical lens"), "角膜或水晶體不同軸向屈光力不同造成影像扭曲，可由柱狀鏡片或角膜手術矯正。"),
+    TopicSeed("condition", "presbyopia", "Presbyopia (老花眼)", ("presbyopia", "老花", "調節力下降"), "年齡相關 accommodation 下降導致近距離視物困難，常需閱讀眼鏡或多焦鏡片。"),
+    TopicSeed("condition", "cataract", "Cataract (白內障)", ("cataract", "白內障", "lens opacity", "nuclear sclerosis", "posterior subcapsular"), "水晶體混濁造成視力下降、眩光與對比下降；分類可依病因、位置與成熟度。"),
+    TopicSeed("condition", "congenital-cataract", "Congenital cataract (先天性白內障)", ("congenital cataract", "先天性白內障", "leukocoria"), "出生或幼年出現水晶體混濁，可造成 deprivation amblyopia，需評估單雙側、系統病因與手術時機。"),
+    TopicSeed("condition", "ectopia-lentis", "Ectopia lentis (水晶體異位)", ("ectopia lentis", "水晶體異位", "lens subluxation", "Marfan", "homocystinuria"), "水晶體懸韌帶異常造成移位，可見於 Marfan syndrome、homocystinuria、外傷或其他結締組織疾病。"),
+    TopicSeed("condition", "glaucoma", "Glaucoma (青光眼)", ("glaucoma", "青光眼", "cupping", "optic neuropathy"), "青光眼是進行性 optic neuropathy，常與 IOP、optic disc cupping、RNFL thinning 與視野缺損相關。"),
+    TopicSeed("condition", "primary-open-angle-glaucoma", "Primary open-angle glaucoma, POAG (原發性開放隅角青光眼)", ("primary open-angle glaucoma", "POAG", "開放隅角青光眼", "open angle glaucoma"), "前房隅角開放但房水流出阻力增加，通常慢性無痛進展，治療目標是降低 IOP。"),
+    TopicSeed("condition", "angle-closure-glaucoma", "Angle-closure glaucoma (隅角閉鎖性青光眼)", ("angle-closure glaucoma", "隅角閉鎖", "急性隅角閉鎖", "acute angle closure"), "前房隅角閉鎖造成 IOP 急升，可表現為紅眼、眼痛、頭痛、噁心與虹視，是眼科急症。"),
+    TopicSeed("condition", "secondary-glaucoma", "Secondary glaucoma (續發性青光眼)", ("secondary glaucoma", "續發性青光眼", "neovascular glaucoma", "steroid-induced glaucoma", "pigmentary glaucoma"), "由發炎、血管新生、外傷、晶體、藥物或其他眼病造成 IOP 升高與 optic nerve damage。"),
+    TopicSeed("condition", "congenital-glaucoma", "Congenital glaucoma (先天性青光眼)", ("congenital glaucoma", "先天性青光眼", "buphthalmos", "Haab striae"), "小樑網發育異常造成嬰幼兒高眼壓，可有畏光、流淚、角膜混濁與 buphthalmos。"),
+    TopicSeed("condition", "dry-eye-disease", "Dry eye disease (乾眼症)", ("dry eye", "乾眼", "keratoconjunctivitis sicca", "BUT"), "淚膜量或品質不足造成眼表不適、異物感、灼熱與視覺波動；需區分水液缺乏與蒸發型。"),
+    TopicSeed("condition", "nasolacrimal-duct-obstruction", "Nasolacrimal duct obstruction (鼻淚管阻塞)", ("nasolacrimal duct obstruction", "鼻淚管阻塞", "淚液引流阻塞", "Hasner"), "淚液引流阻塞造成 epiphora 與分泌物，可為先天 Hasner valve 未開或後天狹窄。"),
+    TopicSeed("condition", "dacryocystitis", "Dacryocystitis (淚囊炎)", ("dacryocystitis", "淚囊炎", "淚液引流通道感染"), "鼻淚管阻塞合併淚囊感染可造成內眥紅腫疼痛與膿性分泌物，急性感染需抗生素與後續引流重建評估。"),
+    TopicSeed("condition", "lacrimal-gland-tumor", "Lacrimal gland tumor (淚腺腫瘤)", ("lacrimal gland tumor", "淚腺腫瘤", "pleomorphic adenoma", "adenoid cystic"), "淚腺腫瘤可造成 superotemporal orbital mass、眼球下內移位或疼痛，良惡性處置差異大。"),
+    TopicSeed("condition", "blepharitis", "Blepharitis (眼瞼炎)", ("blepharitis", "眼瞼炎", "meibomian gland dysfunction"), "眼瞼邊緣慢性發炎與瞼板腺功能異常可造成紅癢、結痂、乾眼與反覆霰粒腫。"),
+    TopicSeed("condition", "ptosis", "Ptosis / blepharoptosis (眼瞼下垂)", ("ptosis", "blepharoptosis", "眼瞼下垂", "MRD"), "上眼瞼下垂可源自提眼瞼肌、交感神經、動眼神經或機械因素，評估需測 MRD 與 levator function。"),
+    TopicSeed("condition", "entropion-ectropion", "Entropion and ectropion (眼瞼內翻與外翻)", ("entropion", "ectropion", "眼瞼內翻", "眼瞼外翻"), "眼瞼位置異常可造成睫毛摩擦、流淚、角膜上皮傷害或眼表暴露。"),
+    TopicSeed("condition", "eyelid-tumor", "Eyelid tumor (眼瞼腫瘤)", ("eyelid tumor", "眼瞼腫瘤", "basal cell carcinoma eyelid", "sebaceous carcinoma"), "眼瞼腫瘤需區分良性病灶與 BCC、SCC、sebaceous carcinoma 等惡性病變，注意睫毛脫落與反覆霰粒腫樣表現。"),
+    TopicSeed("condition", "conjunctivitis", "Conjunctivitis (結膜炎)", ("conjunctivitis", "結膜炎", "pink eye", "papillary", "follicular"), "結膜發炎可由病毒、細菌、過敏、毒性或 chlamydia 引起，分泌物、淋巴結與角膜侵犯可協助鑑別。"),
+    TopicSeed("condition", "pterygium", "Pterygium (翼狀贅片)", ("pterygium", "翼狀贅片", "pinguecula", "瞼裂斑"), "紫外線與慢性刺激相關的結膜纖維血管增生，可侵犯角膜造成散光或視軸遮蔽。"),
+    TopicSeed("condition", "subconjunctival-hemorrhage", "Subconjunctival hemorrhage (結膜下出血)", ("subconjunctival hemorrhage", "結膜下出血"), "結膜下血管破裂造成鮮紅無痛出血，通常自限，但需注意外傷、凝血異常或血壓因素。"),
+    TopicSeed("condition", "episcleritis", "Episcleritis (上鞏膜炎)", ("episcleritis", "上鞏膜炎"), "上鞏膜表淺發炎常較輕微、可自限，需與 scleritis 的深層疼痛與系統病關聯區分。"),
+    TopicSeed("condition", "scleritis", "Scleritis (鞏膜炎)", ("scleritis", "鞏膜炎", "necrotizing scleritis"), "鞏膜深層發炎可造成劇痛、紫紅充血與視力威脅，常需評估 autoimmune disease。"),
+    TopicSeed("condition", "corneal-abrasion", "Corneal abrasion (角膜擦傷)", ("corneal abrasion", "角膜擦傷", "角膜上皮缺損", "foreign body"), "角膜上皮缺損造成疼痛、流淚與畏光，fluorescein staining 可顯示缺損範圍。"),
+    TopicSeed("condition", "infectious-keratitis", "Infectious keratitis / corneal ulcer (感染性角膜炎／角膜潰瘍)", ("infectious keratitis", "corneal ulcer", "角膜潰瘍", "細菌性角膜炎", "fungal keratitis"), "感染性角膜炎可快速造成角膜混濁或穿孔；contact lens、外傷與免疫狀態是重要風險。"),
+    TopicSeed("condition", "herpetic-keratitis", "Herpetic keratitis (疱疹性角膜炎)", ("herpetic keratitis", "HSV keratitis", "疱疹性角膜炎", "dendritic ulcer"), "HSV 角膜炎典型 dendritic lesion，可反覆復發並造成角膜知覺下降或 stromal keratitis。"),
+    TopicSeed("condition", "keratoconus", "Keratoconus (圓錐角膜)", ("keratoconus", "圓錐角膜", "Munson", "Fleischer ring"), "角膜漸進性變薄與突出造成不規則散光、視力下降，治療包含硬式隱形眼鏡、cross-linking 或移植。"),
+    TopicSeed("condition", "uveitis", "Uveitis (葡萄膜炎)", ("uveitis", "葡萄膜炎", "iritis", "anterior uveitis", "posterior uveitis"), "葡萄膜炎可依位置分 anterior/intermediate/posterior/panuveitis，常與感染或 systemic inflammatory disease 相關。"),
+    TopicSeed("condition", "endophthalmitis", "Endophthalmitis (眼內炎)", ("endophthalmitis", "眼內炎", "postoperative endophthalmitis"), "眼內感染多見於術後、外傷或血行播散，表現為視力急降、眼痛與前房/玻璃體發炎，是眼科急症。"),
+    TopicSeed("condition", "vitreous-hemorrhage", "Vitreous hemorrhage (玻璃體出血)", ("vitreous hemorrhage", "玻璃體出血"), "玻璃體腔出血造成飛蚊或視力下降，常見原因包含 diabetic retinopathy、retinal tear/detachment、外傷與血管阻塞。"),
+    TopicSeed("condition", "posterior-vitreous-detachment", "Posterior vitreous detachment, PVD (後玻璃體剝離)", ("posterior vitreous detachment", "PVD", "後玻璃體剝離", "Weiss ring"), "玻璃體後皮質與 retina 分離常造成飛蚊與閃光，需排除 retinal tear 或 detachment。"),
+    TopicSeed("condition", "age-related-macular-degeneration", "Age-related macular degeneration, AMD (老年性黃斑部病變)", ("age-related macular degeneration", "AMD", "老年性黃斑部", "drusen", "choroidal neovascularization"), "AMD 造成中央視力下降與 metamorphopsia，乾性以 drusen/atrophy 為主，濕性有 CNV 滲漏出血。"),
+    TopicSeed("condition", "central-serous-chorioretinopathy", "Central serous chorioretinopathy, CSC (中心漿液性脈絡膜視網膜病變)", ("central serous", "CSC", "中心漿液", "central serous chorioretinopathy"), "常見於中壯年男性或 steroid 暴露，subretinal fluid 造成中央視力模糊與變形。"),
+    TopicSeed("condition", "macular-hole", "Macular hole (黃斑部裂孔)", ("macular hole", "黃斑部裂孔"), "黃斑全層或部分裂孔造成中央視力下降與變形，OCT 可分期並評估 vitrectomy。"),
+    TopicSeed("condition", "epiretinal-membrane", "Epiretinal membrane, ERM (黃斑部視網膜上膜)", ("epiretinal membrane", "ERM", "macular pucker", "視網膜上膜"), "黃斑表面纖維細胞膜收縮造成 metamorphopsia 或視力下降，OCT 可顯示皺褶與牽拉。"),
+    TopicSeed("condition", "retinal-detachment", "Retinal detachment (視網膜剝離)", ("retinal detachment", "視網膜剝離", "rhegmatogenous", "traction retinal detachment", "exudative retinal detachment"), "neurosensory retina 與 RPE 分離，可為裂孔性、牽引性或滲出性；閃光、飛蚊、黑幕感是警訊。"),
+    TopicSeed("condition", "retinal-vein-occlusion", "Retinal vein occlusion, RVO (視網膜靜脈阻塞)", ("retinal vein occlusion", "RVO", "CRVO", "BRVO", "視網膜靜脈阻塞"), "視網膜靜脈阻塞造成出血、棉絮斑、黃斑水腫或 neovascularization，風險包含高血壓、糖尿病與 glaucoma。"),
+    TopicSeed("condition", "retinal-artery-occlusion", "Retinal artery occlusion, RAO (視網膜動脈阻塞)", ("retinal artery occlusion", "RAO", "CRAO", "BRAO", "視網膜動脈阻塞", "cherry-red spot"), "視網膜動脈阻塞造成突發無痛視力喪失，是眼中風表現，需評估 embolic source 與中風風險。"),
+    TopicSeed("condition", "hypertensive-retinopathy", "Hypertensive retinopathy (高血壓性視網膜病變)", ("hypertensive retinopathy", "高血壓性視網膜病變", "AV nicking", "cotton wool"), "長期或急性高血壓可造成視網膜血管狹窄、AV nicking、出血、棉絮斑與 papilledema。"),
+    TopicSeed("condition", "retinopathy-of-prematurity", "Retinopathy of prematurity, ROP (早產兒視網膜病變)", ("retinopathy of prematurity", "ROP", "早產兒視網膜病變", "plus disease"), "早產與氧氣暴露相關的未成熟視網膜血管增生疾病，需依 zone、stage 與 plus disease 篩檢治療。"),
+    TopicSeed("condition", "retinitis-pigmentosa", "Retinitis pigmentosa (視網膜色素變性)", ("retinitis pigmentosa", "視網膜色素變性", "bone spicule", "night blindness"), "遺傳性 photoreceptor degeneration，典型夜盲、周邊視野縮小與 bone-spicule pigmentation。"),
+    TopicSeed("condition", "choroidal-melanoma", "Choroidal melanoma (脈絡膜黑色素瘤)", ("choroidal melanoma", "脈絡膜黑色素瘤", "uveal melanoma"), "成人最常見原發眼內惡性腫瘤，需與 choroidal nevus 區分並評估肝轉移風險。"),
+    TopicSeed("condition", "strabismus", "Strabismus (斜視)", ("strabismus", "斜視", "esotropia", "exotropia", "hypertropia"), "雙眼眼位不正可造成複視、抑制或 amblyopia；分類需看方向、恆定性、共同性與調節因素。"),
+    TopicSeed("condition", "amblyopia", "Amblyopia (弱視)", ("amblyopia", "弱視", "lazy eye", "deprivation amblyopia"), "兒童視覺發育期異常輸入造成最佳矯正視力下降，常由 strabismus、anisometropia 或遮蔽性病灶引起。"),
+    TopicSeed("condition", "ophthalmia-neonatorum", "Ophthalmia neonatorum (新生兒眼炎)", ("ophthalmia neonatorum", "新生兒眼炎", "neonatal conjunctivitis"), "出生後新生兒結膜炎可由化學、gonorrhea、chlamydia、HSV 或其他細菌造成，需依時序與分泌物鑑別。"),
+    TopicSeed("condition", "orbital-cellulitis", "Orbital cellulitis (眼眶蜂窩性組織炎)", ("orbital cellulitis", "眼眶蜂窩性組織炎", "preseptal cellulitis", "postseptal"), "眼眶感染可造成眼痛、發燒、proptosis、眼球運動痛或視力威脅，需與 preseptal cellulitis 區分。"),
+    TopicSeed("condition", "thyroid-eye-disease", "Thyroid eye disease (甲狀腺眼症)", ("thyroid eye disease", "甲狀腺眼症", "Graves ophthalmopathy", "Graves' ophthalmopathy", "exophthalmos"), "甲狀腺相關眼眶病變造成 proptosis、眼瞼退縮、複視、暴露性角膜病變或 optic neuropathy。"),
+    TopicSeed("condition", "orbital-tumor", "Orbital tumor (眼眶腫瘤)", ("orbital tumor", "眼眶腫瘤", "cavernous hemangioma", "optic nerve glioma"), "眼眶腫瘤依年齡、位置與組織來源不同，可表現為 proptosis、眼球移位、視力下降或疼痛。"),
+    TopicSeed("condition", "orbital-blowout-fracture", "Orbital blowout fracture (眼眶爆裂性骨折)", ("blowout fracture", "眼眶骨折", "orbital floor fracture", "trapdoor fracture"), "眼眶壁骨折可造成複視、眼球內陷、infraorbital nerve numbness 或眼外肌嵌頓。"),
+    TopicSeed("condition", "optic-neuritis", "Optic neuritis (視神經炎)", ("optic neuritis", "視神經炎", "pain on eye movement", "demyelinating optic neuritis"), "視神經發炎常造成單眼視力下降、眼球轉動痛與 RAPD，需評估 multiple sclerosis、NMO/MOGAD 或感染/免疫原因。"),
+    TopicSeed("condition", "ischemic-optic-neuropathy", "Ischemic optic neuropathy (缺血性視神經病變)", ("ischemic optic neuropathy", "AION", "NAION", "arteritic anterior ischemic optic neuropathy"), "視神經血流不足造成急性視力與視野缺損；arteritic AION 需警覺 giant cell arteritis。"),
+    TopicSeed("condition", "papilledema", "Papilledema (視乳突水腫)", ("papilledema", "視乳突水腫", "optic disc edema", "choked disc"), "顱內壓升高造成雙側 optic disc edema，可合併頭痛、短暫視覺黑矇與 sixth nerve palsy。"),
+    TopicSeed("condition", "chemical-eye-injury", "Chemical eye injury (化學性眼灼傷)", ("chemical injury", "化學性灼傷", "alkali burn", "acid burn", "眼灼傷"), "酸鹼化學傷可快速破壞眼表，尤其 alkali injury 穿透深，第一步是立即大量沖洗並檢查 pH。"),
+    TopicSeed("condition", "open-globe-injury", "Open globe injury (開放性眼球外傷)", ("open globe", "開放性眼球", "globe rupture", "眼球破裂", "penetrating injury"), "眼球壁全層破裂或穿通傷需避免壓迫眼球，給予保護罩、抗生素與急診手術評估。"),
+    TopicSeed("condition", "methanol-poisoning", "Methanol poisoning (甲醇中毒)", ("methanol poisoning", "methanol", "甲醇中毒", "formic acid"), "甲醇代謝產生 formic acid 可造成代謝性酸中毒與視神經/視網膜毒性，表現為視力模糊或失明。"),
+    # Ophthalmic procedures and drug classes.
+    TopicSeed("procedure", "phacoemulsification", "Phacoemulsification (白內障超音波乳化術)", ("phacoemulsification", "超音波乳化", "白內障手術", "intraocular lens", "IOL"), "白內障手術常以 phacoemulsification 移除混濁水晶體並植入 intraocular lens。"),
+    TopicSeed("procedure", "laser-iridotomy", "Laser peripheral iridotomy, LPI (雷射周邊虹膜切開術)", ("laser iridotomy", "LPI", "周邊虹膜切開", "虹膜切開術"), "LPI 建立虹膜通道以解除 pupillary block，是 angle-closure glaucoma 常用雷射處置。"),
+    TopicSeed("procedure", "trabeculectomy", "Trabeculectomy (小樑切除術)", ("trabeculectomy", "小樑切除", "filtering surgery"), "建立房水外流濾過通道以降低 IOP，常用於藥物或雷射控制不佳的 glaucoma。"),
+    TopicSeed("procedure", "vitrectomy", "Vitrectomy (玻璃體切除術)", ("vitrectomy", "玻璃體切除", "pars plana vitrectomy", "PPV"), "移除玻璃體並處理牽拉、出血、retinal detachment、macular hole 或 endophthalmitis 等後段病灶。"),
+    TopicSeed("procedure", "retinal-laser-photocoagulation", "Retinal laser photocoagulation (視網膜雷射光凝固)", ("laser photocoagulation", "panretinal photocoagulation", "PRP", "視網膜雷射", "光凝固"), "以雷射封閉視網膜裂孔或治療缺血性 neovascularization，常用於 diabetic retinopathy/ROP/RVO 等。"),
+    TopicSeed("procedure", "scleral-buckle", "Scleral buckle (鞏膜扣壓術)", ("scleral buckle", "鞏膜扣壓", "鞏膜環扣"), "以外部扣壓眼球壁減少 retinal tear traction，是裂孔性視網膜剝離手術選項之一。"),
+    TopicSeed("procedure", "intravitreal-injection", "Intravitreal injection (玻璃體腔內注射)", ("intravitreal injection", "玻璃體腔內注射", "intravitreal", "anti-VEGF"), "將 anti-VEGF、steroid 或抗生素注入玻璃體腔，用於 macular edema、wet AMD、endophthalmitis 等。"),
+    TopicSeed("procedure", "corneal-transplantation", "Corneal transplantation (角膜移植)", ("corneal transplantation", "keratoplasty", "角膜移植", "penetrating keratoplasty"), "以全層或分層角膜移植治療角膜混濁、圓錐角膜、內皮失代償或嚴重角膜病。"),
+    TopicSeed("procedure", "dacryocystorhinostomy", "Dacryocystorhinostomy, DCR (淚囊鼻腔吻合術)", ("dacryocystorhinostomy", "DCR", "淚囊鼻腔吻合"), "建立淚囊至鼻腔的新引流通道，常用於後天鼻淚管阻塞或反覆 dacryocystitis。"),
+    TopicSeed("procedure", "strabismus-surgery", "Strabismus surgery (斜視手術)", ("strabismus surgery", "斜視手術", "recession", "resection"), "透過眼外肌後徙、截除或移位調整眼位，用於特定斜視或複視。"),
+    TopicSeed("procedure", "enucleation", "Enucleation (眼球摘除術)", ("enucleation", "眼球摘除", "眼球摘除術"), "摘除整個眼球並保留眼外肌與眼眶內容物，可用於眼內惡性腫瘤、嚴重外傷或疼痛盲眼。"),
+    TopicSeed("procedure", "evisceration-eye", "Evisceration of eyeball (眼球內容物剜除術)", ("evisceration", "眼球內容物剜除", "眼球內容物剜除術"), "移除眼球內容物但保留鞏膜殼，通常不適用於疑似眼內惡性腫瘤。"),
+    TopicSeed("procedure", "orbital-exenteration", "Orbital exenteration (眼窩剜除術)", ("orbital exenteration", "exenteration", "眼窩剜除", "眼窩剜除術"), "移除眼眶內容物的根治性手術，多用於侵犯眼眶的惡性腫瘤。"),
+    TopicSeed("drug", "prostaglandin-analog-eye-drops", "Prostaglandin analog eye drops (前列腺素類降眼壓藥)", ("prostaglandin analog", "Latanoprost", "Travoprost", "Bimatoprost", "前列腺素"), "增加 uveoscleral outflow 以降低 IOP，是 open-angle glaucoma 常用一線藥物。"),
+    TopicSeed("drug", "beta-blocker-eye-drops", "Beta-blocker eye drops (眼科 beta-blocker)", ("Timolol", "Betaxolol", "beta-blocker eye", "β-blocker", "乙型阻斷劑"), "減少房水生成以降低 IOP；需注意氣喘、COPD、bradycardia 與 systemic absorption。"),
+    TopicSeed("drug", "carbonic-anhydrase-inhibitors-eye", "Carbonic anhydrase inhibitors for glaucoma (青光眼碳酸酐酶抑制劑)", ("Acetazolamide", "Dorzolamide", "Brinzolamide", "carbonic anhydrase", "碳酸酐酶"), "降低睫狀體房水生成，可局部或全身用於 glaucoma/急性 IOP 控制。"),
+    TopicSeed("drug", "alpha-2-agonist-eye-drops", "Alpha-2 agonist eye drops (眼科 alpha-2 agonist)", ("Brimonidine", "Apraclonidine", "alpha-2 agonist", "α2 agonist"), "降低房水生成並增加 uveoscleral outflow，用於 glaucoma 降眼壓。"),
+    TopicSeed("drug", "miotics", "Miotics (縮瞳劑)", ("Pilocarpine", "miotics", "縮瞳", "cholinergic agonist"), "縮瞳使虹膜拉離隅角並促進 trabecular outflow，可用於特定 angle-closure 或 glaucoma 情境。"),
+    TopicSeed("drug", "anti-vegf-therapy-ophthalmology", "Anti-VEGF therapy in ophthalmology (眼科抗 VEGF 治療)", ("anti-VEGF", "Ranibizumab", "Aflibercept", "Bevacizumab", "VEGF"), "抑制血管新生與血管滲漏，用於 wet AMD、diabetic macular edema、RVO macular edema 與 proliferative retinal disease。"),
+)
+
+
+ALL_SEEDS: tuple[TopicSeed, ...] = SEEDS + SECOND_BOOK_SEEDS + THIRD_BOOK_SEEDS + FOURTH_BOOK_SEEDS + FIFTH_BOOK_SEEDS + SIXTH_BOOK_SEEDS + SEVENTH_BOOK_SEEDS + EIGHTH_BOOK_SEEDS + NINTH_BOOK_SEEDS + TENTH_BOOK_SEEDS + ELEVENTH_BOOK_SEEDS + TWELFTH_BOOK_SEEDS + THIRTEENTH_BOOK_SEEDS + FOURTEENTH_BOOK_SEEDS + FIFTEENTH_BOOK_SEEDS + SIXTEENTH_BOOK_SEEDS
 
 
 def slugify(text: str) -> str:
@@ -1621,6 +1729,11 @@ def clean_text(text: str) -> str:
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def study_text_only(text: str) -> str:
+    """Drop MCQ/question explanations before extracting durable topic notes."""
+    return re.split(r"(?m)^#{2,6}\s*(?:題目|【詳解】)", text, maxsplit=1)[0]
 
 
 def display_chapter_title(path: Path) -> str:
@@ -1693,6 +1806,7 @@ def seed_page_path(seed: TopicSeed) -> Path:
 
 
 def extract_headings(text: str) -> list[str]:
+    text = study_text_only(text)
     headings: list[str] = []
     for match in re.finditer(r"^#{2,6}\s+(.+)$", text, flags=re.MULTILINE):
         heading = re.sub(r"^[A-Z甲乙丙丁戊己庚辛壬癸子丑寅卯辰巳午未申酉戌亥0-9IVXivx]+[.、)]\s*", "", match.group(1).strip())
@@ -1708,7 +1822,7 @@ def extract_headings(text: str) -> list[str]:
 
 
 def find_mentions(text: str, seed: TopicSeed, limit: int = 5) -> list[str]:
-    cleaned = clean_text(text)
+    cleaned = clean_text(study_text_only(text))
     paragraphs = re.split(r"\n\s*\n|(?=^####\s+)|(?=^- )", cleaned, flags=re.MULTILINE)
     mentions: list[str] = []
     patterns = []
@@ -1717,8 +1831,13 @@ def find_mentions(text: str, seed: TopicSeed, limit: int = 5) -> list[str]:
         if len(keyword) < 2:
             continue
         escaped = re.escape(keyword)
-        if re.fullmatch(r"[A-Za-z0-9]{2,5}", keyword):
-            escaped = rf"(?<![A-Za-z0-9]){escaped}(?![A-Za-z0-9])"
+        if re.search(r"[A-Za-z0-9]", keyword):
+            if re.match(r"[A-Za-z0-9]", keyword):
+                escaped = rf"(?<![A-Za-z0-9]){escaped}"
+            if re.search(r"[A-Za-z0-9]$", keyword):
+                escaped = rf"{escaped}(?![A-Za-z0-9])"
+        if re.fullmatch(r"[A-Z0-9]{2,5}", keyword):
+            escaped = rf"(?-i:{escaped})"
         patterns.append(escaped)
     if not patterns:
         return mentions
@@ -1832,6 +1951,8 @@ def existing_topic_parts(path: Path, replace_source_prefix: str | None = None) -
     if match:
         for line in match.group(1).splitlines():
             if line.startswith("- "):
+                if line in {"- 尚未擷取到足夠片段。", "- 尚無來源連結。"}:
+                    continue
                 if replace_source_prefix and f"[[sources/{replace_source_prefix}" in line:
                     continue
                 details.append(line)
@@ -2580,6 +2701,109 @@ def related_links(seed: TopicSeed, available_slugs: set[str]) -> list[str]:
         "intrauterine-adhesion-asherman-syndrome": ["hysteroscopy", "amenorrhea", "female-infertility", "recurrent-pregnancy-loss"],
         "hysteroscopy": ["intrauterine-adhesion-asherman-syndrome", "uterine-leiomyoma", "abnormal-uterine-bleeding"],
         "pelvic-organ-prolapse": ["urinary-incontinence", "female-reproductive-anatomy", "urodynamic-study"],
+        "eye-anatomy": ["cornea", "lens-eye", "retina", "uvea", "optic-nerve", "orbit", "visual-pathway"],
+        "cornea": ["tear-film", "slit-lamp-examination", "corneal-abrasion", "infectious-keratitis", "keratoconus", "corneal-transplantation"],
+        "lens-eye": ["cataract", "congenital-cataract", "ectopia-lentis", "accommodation", "phacoemulsification"],
+        "retina": ["fundoscopy", "optical-coherence-tomography", "fluorescein-angiography", "retinal-detachment", "diabetic-retinopathy"],
+        "uvea": ["uveitis", "aqueous-humor-dynamics", "glaucoma"],
+        "optic-nerve": ["glaucoma", "optic-neuritis", "ischemic-optic-neuropathy", "papilledema", "visual-field-test"],
+        "orbit": ["thyroid-eye-disease", "orbital-cellulitis", "orbital-tumor", "orbital-blowout-fracture", "enucleation"],
+        "tear-film": ["dry-eye-disease", "schirmer-test", "fluorescein-staining-eye", "sjogren-syndrome"],
+        "aqueous-humor-dynamics": ["glaucoma", "tonometry", "gonioscopy", "prostaglandin-analog-eye-drops", "carbonic-anhydrase-inhibitors-eye"],
+        "visual-pathway": ["optic-nerve", "visual-field-test", "cranial-nerves"],
+        "ocular-motility": ["strabismus", "cover-uncover-test", "cranial-nerve-palsy", "extraocular-muscles"],
+        "accommodation": ["presbyopia", "hyperopia", "refractive-error"],
+        "visual-acuity-test": ["refractive-error", "cataract", "amblyopia"],
+        "slit-lamp-examination": ["cornea", "conjunctivitis", "uveitis", "cataract", "fluorescein-staining-eye"],
+        "tonometry": ["glaucoma", "angle-closure-glaucoma", "aqueous-humor-dynamics"],
+        "gonioscopy": ["angle-closure-glaucoma", "primary-open-angle-glaucoma", "secondary-glaucoma"],
+        "fundoscopy": ["retina", "optic-nerve", "diabetic-retinopathy", "hypertensive-retinopathy", "papilledema"],
+        "visual-field-test": ["glaucoma", "optic-neuritis", "visual-pathway"],
+        "optical-coherence-tomography": ["retina", "glaucoma", "age-related-macular-degeneration", "macular-hole", "epiretinal-membrane"],
+        "fluorescein-angiography": ["diabetic-retinopathy", "retinal-vein-occlusion", "retinal-artery-occlusion", "central-serous-chorioretinopathy"],
+        "schirmer-test": ["dry-eye-disease", "sjogren-syndrome", "tear-film"],
+        "fluorescein-staining-eye": ["corneal-abrasion", "infectious-keratitis", "herpetic-keratitis", "chemical-eye-injury"],
+        "cover-uncover-test": ["strabismus", "amblyopia", "ocular-motility"],
+        "amsler-grid": ["age-related-macular-degeneration", "central-serous-chorioretinopathy", "macular-hole", "epiretinal-membrane"],
+        "refractive-error": ["myopia", "hyperopia", "astigmatism", "presbyopia", "visual-acuity-test"],
+        "myopia": ["refractive-error", "retinal-detachment", "glaucoma"],
+        "hyperopia": ["refractive-error", "accommodation", "angle-closure-glaucoma"],
+        "astigmatism": ["refractive-error", "keratoconus", "pterygium"],
+        "presbyopia": ["refractive-error", "accommodation"],
+        "cataract": ["lens-eye", "phacoemulsification", "congenital-cataract", "visual-acuity-test"],
+        "congenital-cataract": ["cataract", "amblyopia", "retinoblastoma", "congenital-rubella-syndrome"],
+        "ectopia-lentis": ["lens-eye", "marfan-syndrome", "homocystinuria"],
+        "glaucoma": ["primary-open-angle-glaucoma", "angle-closure-glaucoma", "secondary-glaucoma", "congenital-glaucoma", "tonometry", "gonioscopy", "visual-field-test"],
+        "primary-open-angle-glaucoma": ["glaucoma", "prostaglandin-analog-eye-drops", "beta-blocker-eye-drops", "trabeculectomy"],
+        "angle-closure-glaucoma": ["glaucoma", "gonioscopy", "laser-iridotomy", "miotics", "carbonic-anhydrase-inhibitors-eye"],
+        "secondary-glaucoma": ["glaucoma", "uveitis", "diabetic-retinopathy", "systemic-corticosteroids"],
+        "congenital-glaucoma": ["glaucoma", "pediatric-developmental-orthopedics"],
+        "dry-eye-disease": ["tear-film", "schirmer-test", "sjogren-syndrome", "blepharitis"],
+        "nasolacrimal-duct-obstruction": ["dacryocystitis", "dacryocystorhinostomy", "ophthalmia-neonatorum"],
+        "dacryocystitis": ["nasolacrimal-duct-obstruction", "dacryocystorhinostomy"],
+        "lacrimal-gland-tumor": ["orbit", "orbital-tumor"],
+        "blepharitis": ["dry-eye-disease", "eyelid-tumor"],
+        "ptosis": ["cranial-nerve-palsy", "myasthenia-gravis", "thyroid-eye-disease"],
+        "entropion-ectropion": ["corneal-abrasion", "dry-eye-disease"],
+        "eyelid-tumor": ["basal-cell-carcinoma", "squamous-cell-carcinoma-skin"],
+        "conjunctivitis": ["ophthalmia-neonatorum", "slit-lamp-examination"],
+        "pterygium": ["astigmatism", "dry-eye-disease"],
+        "subconjunctival-hemorrhage": ["hypertension", "coagulation-tests"],
+        "episcleritis": ["scleritis", "rheumatoid-arthritis"],
+        "scleritis": ["episcleritis", "rheumatoid-arthritis", "systemic-lupus-erythematosus"],
+        "corneal-abrasion": ["fluorescein-staining-eye", "infectious-keratitis", "open-globe-injury"],
+        "infectious-keratitis": ["corneal-abrasion", "herpetic-keratitis", "corneal-transplantation"],
+        "herpetic-keratitis": ["infectious-keratitis", "acyclovir"],
+        "keratoconus": ["astigmatism", "corneal-transplantation"],
+        "uveitis": ["scleritis", "secondary-glaucoma", "systemic-corticosteroids"],
+        "endophthalmitis": ["intravitreal-injection", "vitrectomy", "phacoemulsification"],
+        "vitreous-hemorrhage": ["diabetic-retinopathy", "posterior-vitreous-detachment", "retinal-detachment", "vitrectomy"],
+        "posterior-vitreous-detachment": ["vitreous-hemorrhage", "retinal-detachment"],
+        "age-related-macular-degeneration": ["amsler-grid", "optical-coherence-tomography", "fluorescein-angiography", "anti-vegf-therapy-ophthalmology"],
+        "central-serous-chorioretinopathy": ["amsler-grid", "optical-coherence-tomography", "fluorescein-angiography", "systemic-corticosteroids"],
+        "macular-hole": ["optical-coherence-tomography", "vitrectomy", "amsler-grid"],
+        "epiretinal-membrane": ["optical-coherence-tomography", "vitrectomy", "amsler-grid"],
+        "retinal-detachment": ["posterior-vitreous-detachment", "vitreous-hemorrhage", "retinal-laser-photocoagulation", "scleral-buckle", "vitrectomy"],
+        "retinal-vein-occlusion": ["hypertension", "diabetes-mellitus", "glaucoma", "anti-vegf-therapy-ophthalmology"],
+        "retinal-artery-occlusion": ["ischemic-stroke", "carotid-artery-stenosis", "giant-cell-arteritis"],
+        "hypertensive-retinopathy": ["hypertension", "fundoscopy"],
+        "diabetic-retinopathy": ["diabetes-mellitus", "fundoscopy", "optical-coherence-tomography", "fluorescein-angiography", "retinal-laser-photocoagulation", "anti-vegf-therapy-ophthalmology"],
+        "retinopathy-of-prematurity": ["neonatal-respiratory-distress-syndrome", "retinal-laser-photocoagulation", "anti-vegf-therapy-ophthalmology"],
+        "retinitis-pigmentosa": ["genetic-counseling", "visual-field-test"],
+        "choroidal-melanoma": ["melanoma", "fundoscopy"],
+        "retinoblastoma": ["congenital-cataract", "genetic-counseling", "enucleation"],
+        "strabismus": ["amblyopia", "cover-uncover-test", "strabismus-surgery", "ocular-motility"],
+        "amblyopia": ["strabismus", "congenital-cataract", "refractive-error"],
+        "ophthalmia-neonatorum": ["conjunctivitis", "gonorrhea", "chlamydia-infection"],
+        "orbital-cellulitis": ["sinusitis", "orbital-tumor", "optic-nerve"],
+        "thyroid-eye-disease": ["graves-disease", "orbit", "optic-nerve", "dry-eye-disease"],
+        "orbital-tumor": ["orbit", "lacrimal-gland-tumor", "optic-nerve"],
+        "orbital-blowout-fracture": ["orbit", "ocular-motility", "open-globe-injury"],
+        "optic-neuritis": ["multiple-sclerosis", "neuromyelitis-optica", "optic-nerve", "visual-field-test"],
+        "ischemic-optic-neuropathy": ["giant-cell-arteritis", "optic-nerve"],
+        "papilledema": ["raised-intracranial-pressure", "optic-nerve", "fundoscopy"],
+        "chemical-eye-injury": ["corneal-abrasion", "fluorescein-staining-eye"],
+        "open-globe-injury": ["chemical-eye-injury", "corneal-abrasion", "endophthalmitis"],
+        "methanol-poisoning": ["metabolic-acidosis", "optic-nerve"],
+        "phacoemulsification": ["cataract", "intraocular-lens", "endophthalmitis"],
+        "laser-iridotomy": ["angle-closure-glaucoma"],
+        "trabeculectomy": ["glaucoma", "primary-open-angle-glaucoma"],
+        "vitrectomy": ["retinal-detachment", "vitreous-hemorrhage", "macular-hole", "epiretinal-membrane", "endophthalmitis"],
+        "retinal-laser-photocoagulation": ["retinal-detachment", "diabetic-retinopathy", "retinopathy-of-prematurity"],
+        "scleral-buckle": ["retinal-detachment"],
+        "intravitreal-injection": ["anti-vegf-therapy-ophthalmology", "endophthalmitis", "age-related-macular-degeneration"],
+        "corneal-transplantation": ["cornea", "keratoconus", "infectious-keratitis"],
+        "dacryocystorhinostomy": ["nasolacrimal-duct-obstruction", "dacryocystitis"],
+        "strabismus-surgery": ["strabismus", "ocular-motility"],
+        "enucleation": ["retinoblastoma", "choroidal-melanoma", "open-globe-injury"],
+        "evisceration-eye": ["open-globe-injury", "endophthalmitis"],
+        "orbital-exenteration": ["orbital-tumor", "eyelid-tumor"],
+        "prostaglandin-analog-eye-drops": ["glaucoma", "primary-open-angle-glaucoma", "aqueous-humor-dynamics"],
+        "beta-blocker-eye-drops": ["glaucoma", "primary-open-angle-glaucoma", "asthma", "copd"],
+        "carbonic-anhydrase-inhibitors-eye": ["glaucoma", "angle-closure-glaucoma", "aqueous-humor-dynamics"],
+        "alpha-2-agonist-eye-drops": ["glaucoma", "primary-open-angle-glaucoma"],
+        "miotics": ["angle-closure-glaucoma", "aqueous-humor-dynamics"],
+        "anti-vegf-therapy-ophthalmology": ["age-related-macular-degeneration", "diabetic-retinopathy", "retinal-vein-occlusion", "retinopathy-of-prematurity", "intravitreal-injection"],
     }
     slug_to_seed = {item.slug: item for item in ALL_SEEDS}
     rel_slugs = set(groups.get(seed.slug, []))
@@ -2833,12 +3057,42 @@ Append-only chronological activity log.
     log_path.write_text(text.rstrip() + entry + "\n", encoding="utf-8")
 
 
+def cleanup_book_references(book_key: str) -> None:
+    """Remove stale source coverage/details for this book before a deterministic rerun."""
+    marker = f"[[sources/{book_key}"
+    topic_dirs = [WIKI / directory for directory in TYPE_DIR.values()]
+    for directory in topic_dirs:
+        if not directory.exists():
+            continue
+        for path in directory.glob("*.md"):
+            if path.name == "index.md":
+                continue
+            text = path.read_text(encoding="utf-8", errors="ignore")
+            if marker not in text:
+                continue
+            kept_lines = [line for line in text.splitlines() if marker not in line]
+            updated = "\n".join(kept_lines) + "\n"
+            updated = re.sub(r"(?m)^sources:\n(?=aliases:)", "sources:\n  - []\n", updated)
+            updated = re.sub(
+                r"(## Source Coverage\n\n)\s*(?=## Key Details From Sources)",
+                r"\1- 尚無來源連結。\n\n",
+                updated,
+            )
+            updated = re.sub(
+                r"(## Key Details From Sources\n\n)\s*(?=## Clinical Caveats)",
+                r"\1- 尚未擷取到足夠片段。\n\n",
+                updated,
+            )
+            path.write_text(updated, encoding="utf-8")
+
+
 def run(book_name: str, book_key: str) -> None:
     book_dir = RAW_BOOKS / book_name
     if not book_dir.exists():
         raise SystemExit(f"Book folder not found: {book_dir}")
     for directory in [WIKI / d for d in TYPE_DIR.values()] + [WIKI / "sources", ROOT / "docs"]:
         directory.mkdir(parents=True, exist_ok=True)
+    cleanup_book_references(book_key)
 
     chapters = chapter_files(book_dir)
     chapter_texts: list[tuple[int, Path, str, str]] = []

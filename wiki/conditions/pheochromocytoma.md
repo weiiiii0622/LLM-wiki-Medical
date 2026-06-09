@@ -27,6 +27,7 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Pheochromocytoma (嗜鉻細胞瘤)'
   - 'Pheochromocytoma'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,11 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- 4. 高血壓脈絡膜病變:常見於急性高血壓的年輕人(如:子癲前症、子癲症、嗜鉻細胞瘤)或惡性高血壓的病人。眼底典型表現有 Elschnig's spot(代表局部脈絡膜阻塞)、Siegrist streak(代表類纖維蛋白壞死)或滲出性視網膜剝離。眼底螢光血管攝影檢查早期為低灌注(hypoperfusion),晚期則滲漏而高螢光。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - Ⅲ. 髓質疾病 167 - A. 嗜鉻細胞瘤 (Pheochromocytoma) 167 - B. 神經母細胞瘤 (Neuroblastoma) 168 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -88,7 +91,6 @@ tags:
 - ...之使用時機,下列何者錯誤? (A) 受贈者有嚴重的肺高血壓 (B) 捐贈者的心臟太小 (C) 受贈者與捐贈者的血型不相配 (D) 捐贈者心臟缺血時間太長 9. 心臟移植患者於運動量增加時,下列何者最不可能發生? (A) 血中循環之兒茶酚胺(catecholamine)量增加 (B) 心輸出量增加 (C) 心跳速率立即增加 | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - 隨著研究進展,目前思覺失調症產生的理論認為疾病的產生並非單一神經傳導物質 dopamine 的失衡,腦中其他神經傳導物質如 norepinephrine、serotonin、GABA、 glutamate、neuropeptide 的失去平衡也可能有關。研究也顯示,血液中香草酸 (homovanillic acid, catecholamine 的代謝物) 濃度越高,精神症狀越嚴重,對於抗精神病藥物的反應也越好。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- ...疾病是在診斷治療該病例時,不會列入考慮 99(一)專 的鑑別診斷? 醫四-58 (A) 二尖瓣脫垂 (B) 低血糖症 (C) 嗜铬細胞瘤 (D) 失憶症 【詳解】有些內科疾病和恐慌發作有關:甲狀腺功能低下或高 亢、副甲狀線機能亢進、低血糖、嗜鉻細胞瘤,二尖瓣脫垂也 曾經被提出可能和恐慌發作有關(但是目前已經證實無關)。 (B) 18. 下列何種疾患,不屬於美國精神醫學會精神疾病診斷及統計手冊 99(一)專 第四修訂版中之「焦慮性疾患」(anxiety disorders)? 醫四-59 (A) 廣泛性焦慮症(generalized anxiety disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 
 ## Clinical Caveats
 

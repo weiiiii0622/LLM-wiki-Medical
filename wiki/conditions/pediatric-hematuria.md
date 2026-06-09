@@ -26,6 +26,7 @@ sources:
   - "[[sources/med6-book1-ch15]]"
   - "[[sources/med6-book1-ch16]]"
   - "[[sources/med6-book1-ch18]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'Pediatric hematuria (兒童血尿)'
   - 'Pediatric hematuria'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-兒童血尿需區分腎絲球性、非腎絲球性、感染、結石與遺傳性腎病。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童血尿需區分腎絲球性、非腎絲球性、感染、結石與遺傳性腎病。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med6-book1-ch15]]
 - [[sources/med6-book1-ch16]]
 - [[sources/med6-book1-ch18]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...elective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手腳發麻、 | 口服:acetazolamide | | 制劑 carbonic | 減少全身副作用。 | 腎結石、血尿、低血 | (Diamox) \ Neptazane ; | | anhydrase | 一缺點為作用時間短,眼壓 | 鉀、腹瀉、藥物過敏、 | Topical: dorzolamide | | inhibitor | 下降效果不如 β-blockers。 | SJS 等。 | | | | 且其屬於 sulfa drug,有過 | | | | | 敏史需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 | 針 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - 4. 症狀和徵象:早期子宮頸癌常常沒有症狀,規則子宮頸抹片有其重要性;若出現症狀,常見症狀如下: - 最常見的症狀為不正常陰道出血,包括經期間、性交後和停經後出血等 - 有些病人會以陰道分泌物表現 - 若為後期病灶,可能出現疼痛、膀胱和直腸壓迫、血尿、血便等症狀 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | 常見 | • 最常見的症狀為異常陰道出血,其次為異常陰道分泌物及陰道質塊 | |----|--------------------------------------| | 後期 | · 若進一步侵犯,可能會出現侵犯膀胱 (如血尿、頻尿 )、直腸 (如裏急 | | | 後重、黑便、便秘)、骨盆(如骨盆疼痛)等症狀 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - e. 診斷:產前通常不易診斷,臨床上一般沒有症狀(除 percreta 侵犯膀胱會造成血尿),故高危險孕婦,超音波須仔細評估,一旦有懷疑,應進一步安排都卜勒超音波、立體超音波或核磁共振檢查。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -86,7 +89,6 @@ tags:
 - iii. 轉移症狀: 25% 發現時已轉移,可能血尿、呼吸不順咳嗽、骨頭痛。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - iv. 三合症(triad):僅10%,是指同時有血尿、腰痛、腰部可觸摸到腫塊。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (2) 輸尿管腎盂接合處阻塞 (ureteropelvic junction obstruction, UPJO): - a. 流行病學:男性好發、左側;雙側機率為 25%。 - b. 臨床表徵: - (a) 症狀:常為無症狀;少數在水腎嚴重時會有腰腹疼痛、血尿、泌尿道感染、結石或高血壓等表現。嬰兒常以腹部腫塊表現;孩童常以疼痛及嘔吐表現。 - (b) 影像學:超音波(大部分是產前超音波)、diuretic renal scan、IVU、voiding cystourethrogram (VCUG)。 - c. 治療:腎盂整型術,預後不錯。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- ...4 歲。雙側腫瘤佔 13%,同時發生 (synchronous) 佔 60%,異時發生 (metachronous) 佔 40%。 - (4) 臨床表現:於洗澡或例行檢查發現可觸摸之腹部腫塊(60%),通常無合併其他症狀。高血壓(25%)、血尿(15%)。 - (5) 關聯疾病:以下患者需持續追蹤,可能發生成人型 WT。 - a. Denys-Drash syndrome (WT, intersex disorder, and progressive nephropathy) • - b. WAGR syndrome (WT, aniridia, genitourinary anomalies, mental retardation) • - c. Beckwith-Wied Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 
 ## Clinical Caveats
 

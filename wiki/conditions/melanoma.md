@@ -13,6 +13,10 @@ sources:
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med6-book1-ch09]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch02]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Melanoma (黑色素瘤)'
   - 'Melanoma'
@@ -27,7 +31,7 @@ tags:
 
 ## Summary
 
-惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +44,18 @@ tags:
 - [[sources/med5-book4-ch07]]
 - [[sources/med6-book1-ch09]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch15]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch02]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- 1. 眼球摘除 (enucleation) 的適應症: - (1) 眼內惡性腫瘤 (primary intraocular malignancies),如小孩視網膜胚母細胞瘤或成人的黑色素瘤,目的要可提供病理切片看是否已侵犯出眼球。 - (2) 疼痛又無視力的眼球,如青光眼末期。 - (3) 為預防或治療交感性眼炎,故摘除受傷嚴重的那眼的眼球。 - (4) 失去視覺功能,也失去眼球的形狀,為了美觀可摘除而換義眼。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- 2. 眼窩剜除術 (exenteration): - (1) 清除範圍:眼眶組織(包含眼瞼、眼球、眼外肌和視神經) 剜除。 - (2) 適應症:眼眶原發性惡性腫瘤(orbital malignancies:melanoma 或 retinoblastoma) 已經侵犯出眼球外、眼眶病灶無法局部切除(如眼眶鼻腔白黴菌症)、眼眶周 圍侵犯性惡性腫瘤。 - (3) 相較於眼球內容物剜除術其破壞性更大,不過對腫瘤的清除也較乾淨。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- 1. 脈絡膜惡性黑色素瘤(Choroidal malignant melanoma):成人最常見的原發性眼內腫瘤(小孩最常見的原發性眼內腫瘤為視網膜胚細胞瘤 Retinoblastoma),其惡性程度高,易經血流轉移。 - (1) 臨床症狀:通常發生於 50 歲左右,意外發現無症狀的腫瘤,造成視力下降、 屈光度改變、視野缺損。若有全身性轉移,最易轉移至肝臟,應排腹部超音波 檢查。 - (2) 特色:視網膜下可見黑棕色高起如香菇狀的腫塊,常見次發性滲出性剝離。 - (3) 預後因子:與其組織學特色和病理切片觀察之細胞型態分類有關。類上皮細胞 (epithelioid cell)越多、淋巴球浸潤越多、腫瘤內封閉的血管環越多,預後越差。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- (4) 黑色素瘤:惡性程度高,發展迅速,易向全身各處廣泛轉移的腫瘤,約占眼瞼 惡性腫瘤的 1%。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- 1. melanoma 是成人常見的原發性眼內惡性腫瘤。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - (C) 2.24 歲的婦女,在門診時被發現大陰唇有一小於1公分但突起的小 腫瘤,經切片檢查後,最有可能的診斷為: - (A) 原位癌 (carcinoma in situ) - (B) 黑色素腫瘤 (melanoma) - (C) 上皮內包性囊腫 (epidermal inclusion cyst) - (D) 汗管腺瘤 (hidradenoma) Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - 【詳解】(A) sarcoma 的組織鑑別標記常用 desmin 和 vimentin,而分化差的 melanoma 可用 melanin 和 S-100(可在神經膠、黑色素、軟骨、脂肪和樹突細胞等發現);(B) vimentin 是表現在 mesenchymal cells;(D) LDH 在卵巢生殖細胞腫瘤 dysgerminoma 會上升,而卵巢間質腫瘤(stromal tumor),如 granulosa cell tumor 則可分泌 estrogen 和 inhibin。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - ...|-------------------------|-------| | Squamous cell carcinoma | 83.4% | | Adenocarcinoma | 9.3% | | Sarcoma | 2.6% | | Melanoma | 2.5% | | Undifferentiated | 1% | | Others | 2cm 或間質侵犯大於1mm | | | II | | 不論腫瘤大小,侵犯會陰旁構造(下 1/3 尿道、 | 59% | | | | 下 1/3 陰道和肛門) | | | ш | A | (1) 1 顆淋巴結轉移 ( ≥ 5 mm) | 43% | | (不論腫瘤大小 ± | | (2) 1~2 顆淋巴結轉移 ( 年紀大於 35 歲或小於 20 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -55,8 +68,6 @@ tags:
 - .... 何種脊髓內腫瘤(intramedullary tumor)最常見? | 104(一)專 | | (A) 腦膜瘤(meningioma) | 醫五 -14 | | (B) 轉移腫瘤(metastatic tumor) | | | (C) 黑色素細胞瘤(melanoma) | | | (D) 星狀細胞瘤(astrocytoma) | | | | | Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 3. 腦膜瘤(tumor of the meninges): - (1) 腦膜瘤 (meningioma)。 - (2) Meningeal sarcoma · primary meningeal melanoma · Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - I. 黑色素細胞瘤 (Melanoma) 148 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (D) 1. 關於日光性角化症(actinic keratosis)的敘述,下列何者錯誤? 109(二)專 - (A) 此病為一種癌前期的病徵(precancerous or premalignant lesion) 醫四-39 - (B) 男性較為常見 - (C) 長期的紫外線曝曬是危險因子之一 - (D) 若不接受治療,很可能進展為黑色素細胞癌 (melanoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (A) 惡性黑色素瘤(malignant melanoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 
@@ -65,6 +76,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/choroidal-melanoma|Choroidal melanoma (脈絡膜黑色素瘤)]]
 - [[conditions/melanocytic-nevus|Melanocytic nevus (黑色素細胞痣)]]
 - [[diagnostics/tumor-staging|Tumor staging (腫瘤分期)]]
 

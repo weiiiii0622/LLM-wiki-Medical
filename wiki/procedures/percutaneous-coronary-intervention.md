@@ -32,6 +32,10 @@ sources:
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch01]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch17]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -46,7 +50,7 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +82,18 @@ tags:
 - [[sources/med5-book6-ch03]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch01]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch17]]
 
 ## Key Details From Sources
 
+- c. 一歲以後:鼻淚管探針術(surgical probing)、淚囊灌洗,一般 90% 的小孩一次就成功,6% 第二次成功。若仍無反應,再加上矽膠管植入,或做鼻淚管氣球擴張術(balloon catheter),或淚囊鼻腔造孔術(DCR)。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- ...----------------------------------| | 後天性鼻淚管阻塞 | 最常見,好發於 50~60 歲中老年人,主要是慢性的發炎,使原本暢通的鼻淚管阻塞而產生溢淚,其他原因如:外傷、腫瘤等。 | 探針法再加上鼻淚管氣球擴張術,將鼻淚管阻塞的部分打通並擴張,約60%的病患可以得著顯著改善。若為不完全阻塞可放置矽膠管留置3~6個月;完全阻塞則做淚囊鼻腔造孔術 (Dacryo-cysto-rhinostomy, DCR)。 | | 淚小管阻塞 | 大部分不明原因造成,其他如:慢性瞼緣炎,單純皰疹,疤痕性結膜炎,放射治療後等。 | 不完全阻塞放置矽膠管留置 3~6 個月。完全阻塞則做結膜淚囊鼻腔造孔術(Conjucto-dacryo-cysto-rhinosto Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- 2. 眼眶:由七塊骨頭構成,內壁最薄,底板最易產生骨折,有第二對(CNII)、第三對(CNIII)、第四對(CNIV)、第五對的第一和第二分支(CNV1、2)和第六對(CNVI)腦神經通過。視神經孔位於蝶骨體和小翼間。眼球後方有脂肪組織,做為支架及外力緩衝。眼眶除了含眼球及脂肪外,尚有眼肌、神經、血管、及淚腺;另,週邊有鼻竇,並與鼻腔相連。 Source: [[sources/med6-book2-ch01|甲、眼睛概論]].
+- (6) 內核層 (inner nuclear layer): 由四種細胞核組成:水平細胞、雙極細胞、 Müller 細胞及無軸突細胞 (amacrine cell)。這些細胞均有突起分別向上、下伸 至內、外叢狀層。Müller 細胞的軸突分佈於視網膜各層,形成視網膜的支架。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 3. 治療:與年紀有關。 - (1) 治療方法與年紀有關: - a. 六個月大前:以保守治療為主。淚囊按摩(lacrimal duct digital massage),用 食指腹按住淚囊,由上而下增加壓力,促使瓣膜打通,並加上抗生素眼藥水 治療淚囊發炎。大部份患者可緩解。 - b. 六個月至一歲前:若保守療法仍無效,可施行淚囊灌洗術(lacrimal irrigation) 和鼻淚管探針術(surgical probing)。 - c. 一歲以後:在麻醉下進行鼻淚管探針術(surgical probing)、淚囊灌洗,一般 90%的小孩一次就成功,6%第二次成功。若仍無反應,再加上矽膠管植入, 或做鼻淚管氣球擴張術(balloon catheter),或淚囊鼻腔造孔術(DCR)。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
 - (C) 對於有症狀的孕婦,建議以氣球擴張術(balloon valvotomy)治療 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...:Sildenafil、 | | | | | Vit E 和 Low-dose aspirin 等。 | | | Physical barriers | ・IUD:放置 1~3 個月。 | | | | | ・ 術後放置兒童導尿管或子宮腔氣球支架 7~10 天。 | | | | | Auto-cross-link hyaluronic acid gel | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (C) 骨骼牽引四星期,爾後行關節活動支架,早期作關節活動 Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -94,11 +107,6 @@ tags:
 - (3) 逆行性膽道胰管內視鏡攝影(endoscopic retrograde cholangio-pancreatography, ERCP):如果在 CT 上沒有辦法確切看到 mass lesion 的話,可以利用 ERCP 做 進一步的檢查。在前面提到 ERCP 可提供良好的胰管與膽管結構。若胰頭腫瘤 壓迫膽道,ERCP 可在檢查過程當中置放膽道支架,紓緩黃疸及其相關搔癢等 之症狀。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...--------------------------|---------| | | 其他轉移病灶(no evidence | of metastasis),那一種處理應優先 | 醫五 -19 | | | 考慮? | | | | | (A) stent and chemotherapy | | | | | (B) local excision and radiother | rapy | | | | (C) Whipple procedure | | | | | (D) radiotherapy | | | | | 【詳解】Periampullary tumor | 的術式首選為 Whipple procedure。 | | | (C) 17 | . 下列何種基因和胰臟癌的發生 | Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (C) 11. 一位 70 歲男性,晚餐後覺得一陣心悸,三十分鐘後突然腹部劇痛,因疼痛持續一小時仍未緩解,而至急診室就診,當時你發現此病人臉色蒼白、冷汗直流,血壓 140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG顯示有心房顫動,血液檢查:Hb 14 /dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- b. 內視鏡逆行性膽胰管攝影(Endoscopic Retrograde Cholangiopancreatography, ERCP):目前 ERCP 為首選的診斷性工具。診斷性 ERCP 如同作胃鏡般,將鏡頭延伸至十二指腸,於膽道開口注入顯影劑再利用 X 光顯影。除了診斷之外,治療性的 ERCP 也相當常見,包括內視鏡乳頭切開術(EPT),逆行性膽汁引流術(ERBD),內視鏡取石術,膽道內支架置放術等等,由於安全度高,目前已逐漸取代外科手術作為治療首選。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 4. 內視鏡逆行性膽胰管攝影(Endoscopic Retrograde Cholangiopancreatography, ERCP): 除了做膽道癌的影像學診斷之外,也可進行治療如膽管支架的置放,或是進行細胞 學診斷(brush cytology)。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- E. CABG 和 PTCA (percutaneous transluminal coronary angioplasty,氣球擴張術)的比較 30 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (A) 5. 一位 65 歲男性病人因左前胸痛至急診室求診,下列敘述何者正確?①急性主動脈剝離為鑑別診斷之一 ②若診斷急性 B 型主動脈剝離,可考慮以主動脈內血管支架(endovascular aortic graft)治療 ③若診斷急性心肌梗塞,須考慮經皮冠狀動脈處置(percutaneous coronary intervention) ④若診斷急性心肌梗塞,須立即執行冠狀動脈繞道術 - (A) 123 - (B) (1)(3)(4) - (C) 僅2(4) - (D) 僅④ Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 
 ## Clinical Caveats
 

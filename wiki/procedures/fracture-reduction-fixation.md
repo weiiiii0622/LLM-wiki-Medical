@@ -13,6 +13,8 @@ sources:
   - "[[sources/med5-book6-ch02]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book2-ch10]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Fracture reduction and fixation (骨折復位與固定)'
   - 'Fracture reduction and fixation'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-骨折治療包含 closed/open reduction 與 internal/external fixation，目的為恢復解剖、穩定骨折並減少軟組織傷害。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨折治療包含 closed/open reduction 與 internal/external fixation，目的為恢復解剖、穩定骨折並減少軟組織傷害。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med5-book6-ch02]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book2-ch10]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- (2) 玻璃體出血合併視網膜剝離:玻璃體切除手術及網膜復位。 Source: [[sources/med6-book2-ch10|癸、玻璃體]].
+- 1. 玻璃體切除術(Trans Pars Plana Vitrectomy, TPPV):全名為,經睫狀體扁平部(Pars Plana)玻璃體切除術。 - (1) 目的:去除血塊以清除混濁部分、切除玻璃體後表面以解除玻璃體視網膜的牽引,使視網膜重新復位,術後在眼內注射具有膨脹特性的氣體,以達到封閉裂孔的目的。 - (2) 方法:由**睫狀體扁平部**進入眼內,作三個切口放入三根管子,分別為玻璃體切割器(每分鐘可切割上千次,並可吸入玻璃體纖維)、光纖、注流針管(灌入BSS、basic salt solution 滲透壓跟眼內前房一樣的液體等),來移除玻璃體,其後視不同情況可以灌入氣體(SF6, C3F8)或矽油來幫助視網膜復位。 Source: [[sources/med6-book2-ch10|癸、玻璃體]].
+- (3) 鞏膜扣壓術(scleral buckle):利用植入物(矽條、矽質海綿)直接縫在鞏膜上 與網膜裂孔相對應處,藉以支撐並封住裂孔,並減少玻璃體對視網膜的牽引, 以達到 RPE 和感覺視網膜層重新復位。裂孔周圍會再施予冷凍治療以形成疤痕 組織。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - (2) 手術治療:除了上述以上的狀況可以不用立即手術之外,其他的骨折型態都建議手術治療,治療方法包含骨折復位內固定手術(通常使用鋼板 [plate] +螺絲 [screw] 做固定)、外固定手術(如果為 open fracture,應避免一開始就使用內固定的方法,防止感染,可以先清瘡+外固定,等傷口確定沒有進一步的感染或控制感染後在拆除外固定改為內固定)。 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
 - ...---------------------------------------| | 關節內骨折 | subtalar joint involvement(尤以 posterior facet 最常見) | 較多 | 實施 ORIF (骨折復位及內固定)(ORIF: open reduction and internalfixation) | | 關節外骨折 | 只影響 calcaneal bone | 較少 | 如果骨折沒有移位 (non-displaced)或移位很小則可以 non-operativetreatment (打石膏),如果有較大的移位或開放性骨折則需開刀。 | Source: [[sources/med5-book6-ch01|甲、足踝關節]].
 - A. 復位與固定 (Reduction and fixation) 26 Source: [[sources/med5-book6-ch03|丙、創 傷]].

@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Brainstem (腦幹)'
   - 'Brainstem'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,13 @@ tags:
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- b. 濕性絲狀角膜炎 (wet filamentary keratopathy): 通常伴隨大量流淚,常見於腦幹中風和原發性眼瞼痙攣的病患。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- ...人:缺血性微血管病 | | 麻痹 (isolated sixth- | | 側移動 | 變 ( 例:DM) | | nerve palsy | | | -小孩:病毒感染 | | 核間眼肌麻痹 | 雙眼水平複視 | 患眼眼球無法向鼻側 | 因腦幹的內側縱束 (medial | | (internuclear | | 轉動,且對側眼往顳 | longitudinal fasciculus) 受 | | ophthalmoplegia) | | 側轉動(外展)時會 | 到侵犯所致 | | | | 有眼球震顫 | -年輕人:多發性硬化症 | | | | | -老人:腦幹缺血性病變 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (1) Intramedullary (IM) nailing:單純股骨幹骨折的標準治療。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 此病例可採用更換較大的骨髓內釘(intramedullary nail)及骨移植(bone grafting)進行治療 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (C) 鎖定式骨髓內釘固定 (intramedullary interlocking nail) Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -83,8 +89,6 @@ tags:
 - \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...| | (C) 目前放射線治療 (radiation therapy) 及化學治療 (chemo- | | | | therapy)效果不彰 | | | | (D) 很少需要根除手術,預後甚差 | | | (C) 19. | 甲狀腺髓質癌(medullary carcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- 2. IIB: - (1) Medullary thyroid carcinoma (100%) • - (2) Pheochromocytoma (50%) • - (3) Mucosal and gastrointestinal neuroma • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- (D) 1. 有關多發性內分泌贅瘤症候群 (multiple endocrine neoplasia , 107(-) 専 MEN) 的敘述 , 下列何者錯誤? - (A) MEN 1 包含副甲狀腺機能亢進(hyperparathyroidism) - (B) MEN 2A 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (C) MEN 2B 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (D) MEN 2C 包含嗜鉻細胞瘤 (pheochromocytoma) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 
 ## Clinical Caveats
 

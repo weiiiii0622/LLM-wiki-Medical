@@ -65,6 +65,8 @@ sources:
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch04]]"
 aliases:
   - 'Hypersensitivity reactions (過敏反應分類)'
   - 'Hypersensitivity reactions'
@@ -79,7 +81,7 @@ tags:
 
 ## Summary
 
-Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -144,9 +146,15 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch04]]
 
 ## Key Details From Sources
 
+- ① 表現為角膜基質的圓盤狀水腫,發炎區域的內皮細胞上常有角膜沉積物 (KP) 和虹膜的發炎反應。可能與角膜對病毒抗原的遲緩型過敏反應(delayed type hypersensitivity) 有關。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- 3. 季節性過敏性結膜炎(Seasonal allergic conjunctivitis, SAC)、常年性過敏性結膜炎(Perennial allergic conjunctivitis, PAC): 前者通常是指對植物的花粉或孢子過敏所引起之結膜發炎,常出現在特定花粉或孢子濃度升高的季節,病患本身常有氣喘,過敏性鼻炎等病史。後者則是因為對家塵(house dust mites)、黴菌、寵物等漂浮物過敏所引起。兩者皆為第一型過敏反應,發作常為短暫性或陣發性,且很少造成視力上的影響。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 1. 瘢痕性類天疱瘡(Ocular cicatricial pemphigoid): - (1) 簡介:第二型過敏反應,自體抗體攻擊基底膜,與 HLA-DR4、DR2 相關。 - (2) 臨床症狀: 反覆性結膜炎、結膜下水疱、結膜皺縮、乾眼、瞼球黏連 (symblepharon)、瞼瞼黏連 (ankyloblepharon),導致眼球活動受限。 - (3) 治療:口服類固醇或眼球局部使用類固醇或維他命 A 藥膏,嚴重的用口服 cyclophosphamide $1.5\sim2.0$ mg/kg/day。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 2. Steven-Johnson syndrome: - (1) 簡介:第三型過敏反應,與 HLA-B1502 基因型表現有關。 - (2) 臨床症狀:在眼睛會造成臉球黏連(symblepharon)、乾眼、瘢痕性眼瞼內翻、 倒睫毛等。 - (3) 治療:支持性療法,如給予無防腐劑的人工淚液,局部抗生素藥膏預防感染, 嚴重者可能須羊膜移植,更嚴重者須角膜移植。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - ...清 (sentinel lymph node dissection, SLND) 的作法,不過,SLND仍需更多的研究證明其效用。 - c. 若子宮內膜癌已有骨盆腔或腹腔內轉移 (約5%),除分期手術外,尚須 行減積手術。 - d. 若為 type II (serous or clear cell) 患者,其疾病進展類似卵巢癌,故手術方式須儘量減積並加做大網膜摘除。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (B) 4. 對於第二型子宮內膜癌(type II endometrial cancer)的特徵之敘 述,下列何者較適當?①常與雌激素過度刺激無關 ②多為 low grade endometrioid type 的病理形態 ③多為停經以後的年長女 性 ④預後通常比第一型子宮內膜癌差 ⑤常與子宮內膜增生有 關 (endometrial hyperplasia) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - 【詳解】詳見內文,type II endometrial cancer 發生年紀較大(大 部分在停經後),組織型態為 serous papillary 或 clear cell,和雌 激素刺激及子宮內膜增生無關,分化程度及預後差。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -161,10 +169,6 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - 3. 分類:股骨頸骨折最常用的分類是 Garden's classification,分成以下四種類型: - (1) 無移位(non-displaced)骨折(type I & II):兩者內固定之後預後差不多,產生 nonunion 及 avascular necrosis 的機率皆小於 10%。 - a. Type I:屬於 incomplete 的骨折(未完全裂開)。 - b. Type II: complete 的骨折,但沒有移位。(完全裂開) - (2) 移位性 (displaced) 骨折 (type III & IV): 內固定後產生 nonunion 的機率約 30~40%,產生 avas Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (A) Garden type II 股骨頸骨折屬移位性骨折 (displaced fracture) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - 【 詳解 】(A) Garden type II 是 non-displaced;(C) 位移後 blood supply 已受破壞,年輕人還可嘗試 ORIF,至於老年人建議直接換人工關節;(D) non-union 和 avascular necrosis 是兩大最常見的合併症。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (1) 原發性(90%): - a. Type I:停經後引起,稱之為停經後骨質疏鬆症(post-menopausal osteoporosis)。 - b. Type II: 年紀大造成鈣質吸收不足所引起,稱之為老年型骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- ...鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占 Source: [[sources/med5-book5-ch05|戊、結 石]].
-- (A) 11. 下列何者腎小管酸中毒症(renal tubular acidosis)會併發腎結石? 105(-)專 (A) Type I (B) Type II (C) Type III (D) Type IV Source: [[sources/med5-book5-ch05|戊、結 石]].
-- (B) 10% 發生於 multiple endocrine neoplasia (MEN) type II 之病人 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 
 ## Clinical Caveats
 

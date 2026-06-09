@@ -87,6 +87,7 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Liver (肝臟)'
   - 'Liver'
@@ -101,7 +102,7 @@ tags:
 
 ## Summary
 
-肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肝臟負責代謝、解毒、合成蛋白與膽汁生成。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -188,9 +189,11 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- 1. 脈絡膜惡性黑色素瘤(Choroidal malignant melanoma):成人最常見的原發性眼內腫瘤(小孩最常見的原發性眼內腫瘤為視網膜胚細胞瘤 Retinoblastoma),其惡性程度高,易經血流轉移。 - (1) 臨床症狀:通常發生於 50 歲左右,意外發現無症狀的腫瘤,造成視力下降、 屈光度改變、視野缺損。若有全身性轉移,最易轉移至肝臟,應排腹部超音波 檢查。 - (2) 特色:視網膜下可見黑棕色高起如香菇狀的腫塊,常見次發性滲出性剝離。 - (3) 預後因子:與其組織學特色和病理切片觀察之細胞型態分類有關。類上皮細胞 (epithelioid cell)越多、淋巴球浸潤越多、腫瘤內封閉的血管環越多,預後越差。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - ...pic) 骨盆腔外的腹膜轉移,最大徑≦ 2 cm | | | T3bN0M0 orT3bN1M0 | IIIB | | | IIIC | 大徑> 2 cm | 肉眼下 (macroscopic) 骨盆腔外的腹膜轉移,最大徑> 2 cm(包括肝臟和脾臟的外囊轉移,但無實質轉移) | | | IIIC | | IV | IVA | 惡性肋膜積水 | | | Any TNM1a | IVA | | (腹膜以外的 遠端轉移) | IVB | | | 「腹股溝和腹腔以外的、肚臍轉移和肝脾臟 | Any TNM1b | IVB | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (A) 3. 醫師值班接到一緊急轉診的病患:一位 60 歲婦女,因卵巢水瘤於診所接受手術,術中發現為一高度懷疑之右側卵巢惡性腫瘤,並已擴散至腹腔中,形成網膜硬塊(omentum cake),但是並無橫膈下或肝臟轉移。該診所未做任何切除手術,將傷口簡單關閉而立刻轉送本院。送至本院時,神智清醒,感覺傷口疼痛,生命徵象穩定,血壓 138/86 mmHg,心搏 86 bpm,傷口只有五針縫合,微滲血。接下來的處置,何者最適當? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (C) 14. 陳小姐, 45 歲,過去未曾懷孕或特殊疾病史,因下腹疼痛至門診就診,超音波發現一7公分骨盆腔複雜性腫瘤,手術中病理冷凍切片證實為亮細胞卵巢癌(clear cell adenocarcinoma of ovary),並發現腫瘤與一段小腸粘黏並有大腸侵犯,肝臟表面及橫膈膜下並沒有腫瘤轉移,有關患者的治療,下列何者正確? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -207,8 +210,6 @@ tags:
 - a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - 腫瘤已轉移到肝臟,則該疾病算是那一期? 醫五-50 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...atresia) 為第二常見、α1 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency)第三常見。 - (b) 進一步評估:尿液、血液(血球計數、凝血功能、α1-antitrypsin、albumin)、肝膽超音波、經皮肝臟穿刺、肝膽道閃爍攝影(現在幾乎不使用)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- (8) 經皮肝臟切片:如排除肝臟合成功能問題後,則須執行肝臟切片確診,巨噬細胞浸潤和肝細胞壞死為主要組織上的特色,可以和其它病因區。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- (9) 肝膽道閃爍攝影(hepatobiliary scintigraphy/scan): - a. 名稱很多樣化: DISIDA 核子閃爍攝影、Tc-99m-DISIDA 肝膽道攝影 (hepatobiliary scintigraphy/scan)。 - b. 少部分仍無法確診的病童須進行此項檢查,利用亞氨基甲二乙酸類似物讓肝臟代謝,可發現正常的肝吸收,但卻沒有排出到小腸,有時可利用苯巴比妥(phenobarbital)增加此檢查敏感性。亞氨基甲二乙酸(Iminodiacetic acid) = HN(CH2CO2H)2。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 
 ## Clinical Caveats
 

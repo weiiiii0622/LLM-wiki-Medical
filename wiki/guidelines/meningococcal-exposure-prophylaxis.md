@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Meningococcal exposure prophylaxis (腦膜炎雙球菌暴露後預防)'
   - 'Meningococcal exposure prophylaxis'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- c. 治療:給予全身性抗結核藥物(Isoniazid、Rifampin、Ethambutol、 Streptomycin),但需注意副作用如影響肝腎功能及視神經。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - 4. 內科治療: - (1) 常用藥物: INH=isoniazid; RMP=rifampin; EMB=ethambutol; PZA=pyrazinamide; SM=streptomycin。 - (2) 初次感染: - a. 建議:前2個月INH+RMF+PZA+EMB,後4個月INH+RMF+EMB。 - b. 替代:9個月 INH + RMP + EMB。 - (3) 再治、復發: - a. 依序: 2個月 INH + RMP + EMB + PZA + SM, 1個月 INH + RMP + EMB + PZA, 5個月 INH + RMP + EMB。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...ed | 107(二)專醫五-5 | | (A) | 9. | 有關各種抗生素作用機轉的敘述,下列何者正確? (A) cephalosporins 是抑制細菌細胞壁的合成與發展 (B) vancomycin 是抑制細菌蛋白質的合成 (C) rifampin 是抑制細菌去氧核醣核酸(DNA)的合成 (D) quinolones 是抑制細菌核糖核酸(RNA)的合成 【詳解】(B) 抑制細菌細胞壁的合成;(C) 抑制 DNA-dependent RNA polymerase 的活性;(D) 抑制 DNA 合成。 | 106(二)專醫五-63 | | (C) | 10. | 與腹腔內感染(intra-abdominal infections)相關的敘述,下列何者錯誤? (A) 電腦斷層攝影(ab Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (B) 23. 依人類免疫缺乏病毒傳染防治及感染者權益保障條例第 12 條 99(二)專 (民國 96 年 7 月 11 日修正)之規定,感染者有提供其感染源或 醫五-79 接觸者之義務;就醫時,應向醫事人員告知其已感染人類免疫 缺乏病毒。感染者提供其感染事實後,下列敘述何者正確? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
@@ -68,7 +71,6 @@ Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者
 - 3. Rifabutin 類似 Rifampin,用於 AIDS 病患的 TB, MAC 感染,因為較少影響抗愛滋病毒藥(PI)代謝。可能導致葡萄膜炎(Uveitis)。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...nia, diabetic foot ulcers); | | | | infections caused by Pseudomonas aeruginosa | | | Cefazolin | E. coli UTI, surgical prophylaxis, | E. coli (7) | | | S. aureus (non-MRSA) bacteremia and endocarditis | S. aureus (46; MRSA) | | Cefoxitin | Intraabdominal infections and pelvic inflammatory disease | Bacteroides fragilis (12) | | Ceftriaxone | pneumo Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...coccus aureus 感染之單獨或合併治 | 95(一)專 | | , | 療,下列那項藥物最不適 | | 內 1-41 | | | (A) Fluoroquinolones | (B) Vancomycin | | | | (C) Rifampin | (D) Linezolid | | | (C) | 18. 血循感染急性骨髓炎的抗 | 菌藥物一般建議之治療時間為幾週? | 94(二)檢 | | | (A) 1~2 | (B) 2~3 | 內 -65 | | | (C) 4~6 | (D) 12~16 | | | | | | | Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- D. 腦膜炎雙球菌 (Neisseria meningitidis) 129 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 
 ## Clinical Caveats
 

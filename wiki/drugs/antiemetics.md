@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'Antiemetics (止吐藥)'
   - 'Antiemetics'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於預防或治療化療、術後與其他原因的噁心嘔吐。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med5-book5-ch09]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- (5) 處理:手術治療為主,藥水治療為輔。但緊急處理時可先給 acetazolamide(降 眼壓),或局部給 2%pilocarpine(縮瞳,使隅角張開)以及止痛和止吐劑,病人須仰躺一小時,若眼壓仍無降低可口服給予 glycerol 或 IV 20% mannitol(但 須小心病人有糖尿病),最後實施虹膜造孔術。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - (D) 給予 dexamethasone Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...| | | | |-------|---------|---------------------------------------------------|---------------------|--| | 輕至中度一 | • 給予止吐 | 給予止吐及止痛藥 | | | | 門診治療 | • 每天喝水 | 1,000 mL 以上、每天紀錄體重及尿量 | | | | | ・適度運動 | 旦避免劇烈運動 | | | | | ・定期回門 | 診追蹤超音 | 沙追蹤超音波及實驗室檢查 | | | 重度以上一 | • 監測 | (1) 每天監治 | 則生命徵像、體重、腹圍及 I/O | | | 住院治療 | | (2) 每天檢查 | 查 CBC、Electrolyte | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - a. 看是否是 Cushing's syndrome: 收 24 小時尿驗 cortisol 量 + 看使用 dexamethasone 是否會降低血中 ACTH 和 cortisol。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -70,7 +73,6 @@ tags:
 - ...(Taxol®、太平洋紫杉醇) - a. Taxanes (紫杉醇)類能對抗多種癌症,包括肺癌、乳癌、卵巢癌、血管肉瘤 (Angiosarcoma)等。 - b. 此藥需以包含 cremophor 的載體輸注,所以容易導致過敏,注射前需以 Dexamethasone, Diphenhydramine (H1 blocker), Cimetidine (H2 blocker)預防過敏。 - c. 還可能導致四肢末端麻木等神經毒性(glove-and-stocking neuropathy)。 - d. 有些病患會有心率不整,以 asymptomatic bradycardia 最常見,也可能造成 heart block。 - (2) Docetaxel (Taxotere®、歐洲紫杉醇) - a. Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - 原 治療相關:嗎啡、止吐藥、止痛藥、抗膽鹼類藥物的副作用 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
 - (A) 給予類固醇如 dexamethasone 控制疼痛後,再給予非類固醇類 止痛藥維持症狀之控制 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (A) 將 prednisolone 換成等強度 dexamethasone Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 
 ## Clinical Caveats
 

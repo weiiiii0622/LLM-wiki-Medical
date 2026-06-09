@@ -29,6 +29,7 @@ sources:
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Spinal cord (脊髓)'
   - 'Spinal cord'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,11 @@ tags:
 - [[sources/med5-book5-ch07]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (d) 併發症:手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下 垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 【詳解】泌乳激素瘤 1 公分以上為 macroadenoma,已造成視野缺損,須接受治療。(A) 藥物治療(dopamine agonist,如 cabergoline, bromocriptine)為首選之治療方式,藥物效果良好(約 90%),但仍有 10% 對藥物無反應;(B)(C) 若藥物治療無效,可考慮經蝶竇腦下垂體手術(transsphenoidal pituitary surgery)切除腫瘤,不過,手術切除後可能復發,需接受定期追蹤;(D) 手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -91,8 +94,6 @@ tags:
 - (6) 影像檢查: - a. 腰薦椎 X 光: 只能顯現骨骼結構,可以看出是否有脊椎骨的病變,如骨折、 關節變形、側彎、滑脫或椎間空間變窄等,但無法確認是否有椎間盤突出。 - b. CT:可偵測神經有無受到椎間盤壓迫,另外可加作脊髓腔造影,在蜘蛛膜下 腔注射顯影劑,以加強脊索及神經根之影像,增加診斷之正確性。 - c. MRI: 首選檢查工具,可清楚看到脊椎、脊髓、神經根、軟骨等結構,找出 椎間盤突出的部位,不需要打顯影劑。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (A) 1. 小腦扁桃體下垂 5 mm 至頸椎脊椎腔且合併有脊髓空洞症(syringomyelia),但沒有合併脊柱裂(spinal bifida)或水腦(hydrocephalus),應該歸屬下列何種異常? - 109(二)專 醫五-12 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - 【詳解】Arnold-Chiari malformation,又稱小腦扁條體下疝,指的是小腦扁桃體疝氣,通過枕骨大孔下疝到椎管內,使得腦幹、脊髓受到壓迫,甚至影響腦脊液的流通。第一型較輕微,無其他神經系統畸形,多在學齡、或成人時才會出現一些神經學症狀(頭痛、頭暈、噁心、肌肉無力、協調障礙)。第二型合併出現脊柱裂(脊膨出 myelomeningocele),容易有呼吸、吞嚥困難,四肢無力的情形。第三型則是小腦下半部或是腦幹下疝到椎管內。第二和第三型通常在產前超音波檢查即可發現。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- (D) 當發現 epidural abscess 有壓迫 spinal cord 應立即採取抗生素 單一治療 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- 2. 顱內室管膜瘤好發於孩童,但長於脊髓的室管膜瘤則以成年人為主。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 
 ## Clinical Caveats
 

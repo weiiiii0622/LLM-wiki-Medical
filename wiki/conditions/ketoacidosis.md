@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch01]]"
   - "[[sources/med3-book3-ch02]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book1-ch02]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Ketoacidosis (酮酸中毒)'
   - 'Ketoacidosis'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-脂肪分解產生 ketone body，可見於糖尿病、酒精或飢餓狀態。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+脂肪分解產生 ketone body，可見於糖尿病、酒精或飢餓狀態。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book1-ch02]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- (4) 眼眶鼻腔白黴菌症(orbital-rhino-mucormycosis):死亡率高! - a. 最常見的黴菌感染,是一種伺機性感染,多發生於糖尿病合併酮酸中毒或器 官移植後使用免疫抑制劑的病患上。 - b. 致病機轉:經呼吸道,吸入白黴菌芽孢後,造成組織壞死及血管阻塞,病灶成黑色結痂且發出惡臭。 - c. 症狀: 發燒、眼眶腫脹、突眼、鼻腔惡臭。 - d. 診斷:直接從病灶取檢體做黴菌培養或切片檢查,以 HE 染色陽性並觀察到 典型無分隔的分枝菌絲。 - e. 治療: 必須先控制糖尿病並將病灶做清創手術, 投予 IV 抗黴菌藥物 (amphotericin B)治療,太嚴重時需施行眼窩剜除術。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - ...O3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabetic ketoacidosis, Propylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 3. 其它系統性疾病:如血管炎、結締組織疾病、糖尿病酮酸中毒…等。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (A) 糖尿病引起酮酸血症 (Diabetic ketoacidosis, DKA) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

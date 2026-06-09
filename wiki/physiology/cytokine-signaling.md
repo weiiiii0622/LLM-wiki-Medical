@@ -27,6 +27,7 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Cytokine signaling (細胞激素訊號)'
   - 'Cytokine signaling'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,11 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- ...phthalmopathy,但其與甲狀腺功能是否正常並無直接的關係,即使甲狀腺功能正常或低下,也可能產生突眼、眼瞼水腫等。不過大部份有甲狀腺眼症的病患,甲狀腺功能多不正常。 - (2) 致病機轉:由於甲狀腺激素產生的自體免疫變化,細胞釋出 cytokine 而刺激 fibroblast 增生,分泌 glycosaminoglycan 以及使促使膠原蛋白增加,沉積在眼外 肌及眼眶脂肪,使眼外肌發炎且體積增大、眼眶水腫,壓迫視神經,後續肌肉 纖維化造成複視,且眼窩壓力增加導致眼球突出、角膜暴露等。 - (3) 總結眼部變化: - a. 發炎反應-眼瞼及結膜紅腫。 - b. 體積效應一眼外肌肥大,但這種只出現在肌腹(muscle belly),而不侵犯肌腱(tendon),(最常影響的眼外肌: Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - b. 母乳含有蛋白質(包括 IgA 和 cytokine)可幫助嬰兒的腸道免疫,但缺乏維生素 K, 因此喝母乳的寶寶發生維生素 K 缺乏性出血比喝配方奶的寶寶機率大。故建議新生兒一出生便施打一劑 0.5~1 mg 的肌肉注射維生素 K 以預防出血。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - ...免 疫 | · 研究顯示,子宮內膜異位症患者,其免疫功能是有缺損的, | | | | | | 造成無法辨識及清除異位的內膜組織 | | | | | | • 此外,患者體內的白血球和巨噬細胞會增加,產生的發炎物 | | | | | | 質(如IL-1,6,8等)可能有助於內膜異位組織的生長 | | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...ulosa cell 產生 VEGF。除了β-hCG,estrogen (A), prolactin, histamine 和 prostaglandins 也被發現有關係,而增加血管通透的物質除了 VEGF,還有interlukins, TNF-α, endothelin-1 也有關係 (Ref-1)。Renin(C)-Angiotensin(D) system 在 OHSS 的角色,有研究指出 plama renin activity 與 OHSS 的嚴重度有直接關係 (Ref-2),而近年來的一些研究也支持 ovarian renin angiotensin system 在 OHSS 扮演重要角色的假說(Ref-3)。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
@@ -88,7 +91,6 @@ cytokine 網路驅動發炎性關節炎、免疫治療與小分子標靶治療�
 - 4. 異位性皮膚炎的病因是許多因素綜合的結果,家族性和異位性體質等基因因素加上環境中過敏因子,造成 Type I(IgE-mediated)hypersensitivity reaction,急性發炎反應和 Th2、IL-4、IL-13 有關,慢性發炎反應則和 Th1、IL-5、IL-12、GM-CSF、IFN-γ有關。 - (1) 常見的過敏原包括塵蟎、貓狗等動物的毛、蟑螂、黴菌、花粉等,幼兒期腸胃 道比起大人較可能受食物過敏原影響,常見的可能食物過敏原有牛奶、蛋白、 麥、花生、海鮮等。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 【詳解】從文中描述,皮膚乾癢、於四肢彎曲處、苔癬化病變,懷疑是異位性皮膚炎。(C) 於急性期時主要與 Th2、IL-4、IL-13 有關。(D)Netherton syndrome 為一罕見自體隱性遺傳疾病,會有 congenital ichthyosiform erythroderma(苔癬狀皮膚紅疹)、trichorrhexis invaginata(頭髮異常 bamboo hair)、atopic diathesis(異位性體質)及發育遲緩。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 1. T細胞:當接觸到過敏原時,非過敏體質的人主要引起第一型 T 輔助細胞(Th1 cell)增生,產生 Interferon g 等 cytokine,誘發產生對抗原專一的 IgG。而過敏體質的人則主要產生第二型 T 輔助細胞(Th2 cell)增生,分泌 IL-4, IL-5, IL-9, IL-13 等 cytokine,會促進 IgE 產生及嗜伊紅性白血球發育,引起過敏反應。故過敏疾病的發生與第二型 T 輔助細胞活性有著密切的關係。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 2. 抗原呈現細胞:包括樹突細胞(dendritic cell),單核球(monocyte),巨噬細胞(macrophage),及蘭格罕氏細胞(Langerhans cells)。會將抗原呈現給 T 細胞。樹突細胞依據其傾向造成 Th1 或 Th2 細胞分化分為兩型,第一型樹突細胞(DC1)分泌 IL-12,造成 T 細胞分化為 Th1 細胞,而第二型樹突細胞(DC2)不分泌 IL-12,故 T 細胞分化為 Th2 細胞。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

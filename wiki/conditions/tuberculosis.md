@@ -58,6 +58,9 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Tuberculosis (結核病)'
   - 'Tuberculosis'
@@ -72,7 +75,7 @@ tags:
 
 ## Summary
 
-分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+分枝桿菌感染，可為肺結核或肺外結核。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -130,9 +133,17 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch17]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- 1. 結核病(tuberculosis): - (1) 眼部結核:由結核桿菌(*Mycoplasma tuberculosis*)經血行性或周邊組織直接傳播而感染或可能來自對結核菌的免疫反應。 - a. 症狀:可侵犯眼部各部位,臨床表徵變化多端,但以脈絡膜炎最常見。 - b. 診斷:以結核菌培養最準確,但眼部組織取得不易,故也可抽取前房水或玻璃體液作 acid-fast stain,或用 DNA 探針輔助。一般臨床上若強烈懷疑是眼結核病患,可直接給予抗結核藥物觀察其反應以決定是否繼續治療。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- c. 治療:給予全身性抗結核藥物(Isoniazid、Rifampin、Ethambutol、 Streptomycin),但需注意副作用如影響肝腎功能及視神經。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 2. 抗結核藥物: Ethambutol、Isoniazid 會引起視神經病變。其中 Ethambutol 的毒性與劑量有關,及時停藥可回復。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- 7. 中毒性視神經病變(toxic optic neuropathy): - (1) 簡介:因菸酒過量、營養不良(缺乏 vit. $B_1$ )、再生不良性貧血(缺乏 vit. $B_{12}$ )、藥物毒性(抗結核菌藥物:ethambutol、isoniazid;chloramphenicol、chloroquine)、鉛中毒或甲醇中毒…等原因造成的視神經病變。 - (2) 臨床症狀:無痛性雙側視力減退和色覺減退。 - (3) 徵候:視神經盤正常或蒼白,兩側中心視野缺損和色覺異常。 - (4) 診斷:病史、用藥史,血中 vit. B1、B12 和葉酸含量。 - (5) 治療:停藥、或給予 vit. B1、B12 和葉酸。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - | 分 類 | 禁忌 | | |------|-------------------------------------|--| | 母親方面 | ・薬物或酒精濫用 | | | | ・HIV 或 T-cell lymphotropic virus 感染 | | | | · 未經治療的結核病 | | | | ・正接受化療或放療 | | | · | ・乳房有皰疹感染 | | | 嬰兒方面 | ・半乳糖血症 (galactosemia) | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - 【詳解】哺餵母乳的禁忌症(母親方面)包括 (1) 藥物或酒精濫用; (2) HIV 或 T-cell lymphotropic virus 感染; (3) 未經治療的結核病; (4) 正接受化學治療或放射線治療; (5) 乳房有皰疹感染。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - ...---------------------| | 卵巢因素 | ・ 無排卵或不規則排卵 (造成無月經或月經不規則) | | | ・卵子老化 | | 輸卵管因素 | ・ 輸卵管阻塞 ( 感染或手術等造成 ) | | | ・ 輸卵管病變 ( 如結核或結節性輸卵管峽炎等 ) | | | ・輸卵管先天異常 | | 子宮因素 | ・子宮腔治粘 | | | ・黏膜下肌瘤 | | | ・子宮内膜瘜肉 | | | ・ 先天性子宮畸形 (如子宮中隔) | | 子宮內膜異位症 | • 全面性的影響,造成卵子品質不佳、影響輸卵管運送能力 | | | 、干擾著床、毒殺精子或胚胎、影響免疫及內分泌功能 | | 子宮頸因素 | • 排卵期子宮頸分泌物不足或太黏稠 | | | ・子宮頸狹窄 | | | · Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
@@ -146,11 +157,6 @@ tags:
 - 2. 致病菌:過去常為鏈球菌(Streptococcus)或肺炎球菌(Pneumococcus)肺炎引起,現在葛蘭氏陰性菌(Gram-negative)和厭氧菌(anaerobic)也很常見,近期結核菌膿胸也突然增加。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (D) 假性乳糜胸通常由於類風濕肋膜炎或結核所致 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - K. 肺結核 (Mycobacterial infection) 50 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (1) 良性結節特徵:結節小於 3 公分、結節內鈣化、長時間下呈現穩定不變。 - a. 常見良性鈣化特徵: 散在型 (diffuse)、實心硬塊型 (solid)、中央型 (central)、層板狀 (laminated) 或爆米花狀 (popcorn)。 - b. 肉芽腫性感染(Granulomatous infections):以散在型、實心硬塊型及中央型 為最常見表現,如:結核感染。約佔良性單一結節原因 70~80%。 - c. 過誤瘤、缺陷瘤(hamartomas): 以爆米花特徵最常見。約佔良性單一結節 10%。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (D) 2. 單一肺結節 (solitary pulmonary nodule) 病人,可以不考慮進行 104(-) 專 切除手術的情況,下列何者錯誤? - (A) 此結節經門診追蹤胸部 X 光檢查 2 年,其結節沒有變大 - (B) 肺結節有良性腫瘤典型的鈣化特徵 - (C) 肺結核引起的結節 - (D)病人有愛滋病 Source: [[sources/med5-book4-ch03|丙、肺]].
-- b. 慢性感染所致淋巴結腫:臨床症狀較不明顯。如:結核菌感染。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- ...lcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (2) 移植後第二到第六個月:病毒有 CMV 常見,以及 EBV (post-transplant lymphoproliferative syndrome) 和 VZV; 其 他 伺 機 性 病 原 如 Pneumocystis carinii、 Aspergillus spp.、Nocardia spp.、Toxoplasma gondii 和 Listeria monocytogenes 於 此時段發生。高劑量的免疫抑制劑也有機會造成 Mycobacterium tuberculosis 再 活化。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

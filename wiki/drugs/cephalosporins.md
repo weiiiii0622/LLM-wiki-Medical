@@ -28,6 +28,8 @@ sources:
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch17]]"
 aliases:
   - 'Cephalosporins (頭孢子菌素類)'
   - 'Cephalosporins'
@@ -42,7 +44,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +72,13 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - [[sources/med5-book6-ch03]]
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch17]]
 
 ## Key Details From Sources
 
+- (1) 淋菌性結膜炎(Gonococcal conjunctivitis): - a. 簡介:主要透過生殖器-眼接觸或生殖器-手-眼傳播而感染。成人多為性交感染,新生兒主要是出生時通過產道而感染。由 Gram (-) Neisseria gonorrhoeae 引起。 - b. 臨床表現:結膜充血水腫、很多濃稠的化膿狀分泌物、偽膜、角膜穿孔。 - c. 治療:沒有角膜潰瘍時可用第三代 cephalosporin(Ceftriaxone ) IM 1 g 治療。若角膜潰瘍須住院治療用全身性抗生素 Ceftriaxone 1 g IV q12h 連打三天及局部眼藥(Genta 藥膏,Cravit 藥水)。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- ...| | 膜炎。 | | 素藥膏所代替,故已極少發 | | | | | 生。 | | 細菌性 | 細菌性眼炎中,以 | 多在出生 2~7 天內發生 | 給予全身性抗生素:第三 | | | 「淋病性」眼炎最為 | 。兩眼紅腫、大量的化 | 代 cephalosporin 或 penicillin | | | 危險。父母有性病 | 膿性分泌物產生,嚴重 | G治療,並以食鹽水沖洗眼 | | | 史,最常被考慮的就 | 會導致角膜水腫、潰瘍 | 睛。現在通常先以紅黴素或 | | | 是格蘭氏陰性 Gram | 、穿孔、並發產成為眼 | 四環黴素眼藥膏預防。 | | | (-)的淋病雙球菌。 | 內炎。 | | | 披衣菌 | 父母多有性病史,生 | 多在出生兩週後出現症 | 口服紅黴素或磺胺類藥物。 | Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
 - (C) 4. 有關剖腹產孕婦之預防性抗生素之給予,若孕婦對 penicillin 或 107(-)專 cephalosporin 嚴重過敏,下列何者為最適合之預防性抗生素? Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - ...的一種 | Klebsiella granulomatis | | 潰瘍 | painful | 無痛性 | 無痛性 | | 治療 | azithromycin, | Tetracycline, | Tetracycline, | | | ceftriaxone 或 | erythromycin 或 | erythromycin 或 | | | erythromycin | streptomycin | doxycycline | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (D) 對於 type I 及 type II 開放性骨折,在急診室時可選用第一代頭孢菌素 (first-generation cephalosporins)治療;對於 typeIII 開 放性骨折建議再加上氨基配醣體類抗生素 (aminoglycosides) Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -88,9 +94,6 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - ...ean(B) clean-contaminated(C) contaminated(D) dirty and infected | 107(二)專醫五-5 | | (A) | 9. | 有關各種抗生素作用機轉的敘述,下列何者正確? (A) cephalosporins 是抑制細菌細胞壁的合成與發展 (B) vancomycin 是抑制細菌蛋白質的合成 (C) rifampin 是抑制細菌去氧核醣核酸(DNA)的合成 (D) quinolones 是抑制細菌核糖核酸(RNA)的合成 【詳解】(B) 抑制細菌細胞壁的合成;(C) 抑制 DNA-dependent RNA polymerase 的活性;(D) 抑制 DNA 合成。 | 106(二)專醫五-63 | | (C) | 10. | 與腹腔內感 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - b. 給予抗生素: Clindamycin [Clindmaycin 可抑制細菌產生毒素]、Oxacillin、1st Cephalosporin。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (C) 2nd generation Cephalosporin Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (D) Drug-induced pemphigus 患者的預後與一般 pemphigus 無異 【詳解】藥物有機會誘發針對 desmoglein 1 和 desmoglein 3 的抗 體,為 drug-induced pemphigus,可分為 Thiol drugs(penicillamine、captopril、enalapril)和 non-thiol drugs(penicillins、cephalosporins、vancomycin、antihypertensive drugs、piroxicam),Thiol 類藥物常引起 pemphigus foliaceus,非 Thiol 類藥物常引起 pemphigus vulgaris,停止服用引發 pemphigus 的藥物能使病情獲得改善。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- 2. 若使用 Amoxicillin 後病情沒有改善、有併發症、病患最近 30 日內有使用 Amoxicillin,則考慮使用 Amoxicillin/Clavulanate 或是第二代 Cephalosporin。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 3. 抗生素:Unasyn 200 mg/kg/day 或 ceftriaxone 50 mg/kg/day 或是 cefotaxime 150~200 mg/ka/day。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

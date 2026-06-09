@@ -27,6 +27,7 @@ sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Pseudohyponatremia (假性低血鈉)'
   - 'Pseudohyponatremia'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,12 @@ tags:
 - [[sources/med5-book5-ch08]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- 2. 危險因子: 糖尿病的持續期間 (duration),最重要!、不佳的血糖控制 (HbA1c > 7%)、懷孕、高血壓、腎病變、抽菸、肥胖、高血脂等。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 2. 危險因子: - (1) 年紀大: > 50% 病例出現在 65 歲以上。 - (2) 全身性疾病:高血壓、高血脂、糖尿病、抽菸、肥胖等。 - (3) 遠視、小視神經盤。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - c. **75 g 葡萄糖水**: 2011 年 IADPSG 根據 HAPO(Hyperglycemia and Adverse Pregnancy Outcome)study,最新的診斷標準如下:只要任一個數值大於等於標準即可診斷 GDM。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 註:有高血脂症、活動性膽囊疾病或血栓形成體質(thrombophilia)的婦女應避免使用口服雌激素。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - c. 慢性(chronic):定義是腎功能隨時間逐漸衰退的現象,最快發生在移植六個月後。影響因子是多方面的,包括 HLA 配對程度低、有抗 HLA 的抗體存在、年紀大、發生過排斥反應、之前移植腎失敗的病史、種族(衰退度:亞洲人>白人>黑人)、共病(糖尿病、肥胖、高血脂)、免疫製劑使用。這些因子會使移植腎結疤、纖維化,最後造成慢性移植腎腎病變(chronic allograft nephropathy, CAN)。治療方法為症狀控制(血壓與蛋白尿)但效果有限,因此術後 5~10 年以上移植腎存活率一直無法有效增加。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -87,8 +91,6 @@ tags:
 - ...---------------------------------|----------------------| | 大血管 * 粥狀硬化Athero- thromboticor a. to a. emboli | 中大型動脈 | DM、高血脂等因素形成粥狀硬化瘤(Atheroma) 若破裂引起血小板聚集,則造成阻塞;或在 ICA 較軟的 thrombi脫落,在遠方動脈梗塞 | 大腦皮質、腦幹、小腦症狀 | | 心源性血栓 | MCA 的上支 | CA的上支 心臟來的血栓塞住,病灶多在灰質 | | | Cardio-embolic | (併發癲癇↑) | 蘭↑) 較易轉化為出血性梗塞 | | | 小血管栓塞Lacunar infarction | 小動脈穿透支 | 因「高血壓 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 1. 大血管粥狀硬化 (athero-thrombotic or artery to artery emboli): - (1) 位置:中大型動脈(ACA, MCA, PCA, BA, ICA×2, VA×2)。 - (2) 成因:因 DM、高血脂等形成粥狀硬化瘤(Atheroma)。 - (3) 診斷:頸部超音波、穿顱超音波、MRA。 - (4) 治療:若 ICA > 60% 有症狀的狹窄,或> 70% 無症狀的狹窄,建議放 Stent。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...A)右側後下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (D) 3. 下列何種抗精神病藥,比較不會造成體重過重及高血糖或高血脂症? Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- ...gE 與過敏原結合,便會引發皮膚中或血液中肥大細胞(mast cells)的活化反應,使組織胺(histamine)從細胞中釋放出來,進而使得皮膚中的血管擴張、組織腫脹,也會興奮神經引起厲害的癢感。常見過敏原如下: - (a) 食物:海鮮、高蛋白食物(蛋、牛奶)、食品添加劑(包括色素及防腐劑,如 azo dyes, benzoates, salicylates)、核桃、巧克力、菇、筍。 - (b) 藥物: 抗生素(Penicillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Comp Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 
 ## Clinical Caveats
 

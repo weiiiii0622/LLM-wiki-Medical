@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book1-ch19]]"
   - "[[sources/med6-book1-ch12]]"
+  - "[[sources/med6-book2-ch13]]"
 aliases:
   - 'SPIKES model (壞消息告知模型)'
   - 'SPIKES model'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book1-ch19]]
 - [[sources/med6-book1-ch12]]
+- [[sources/med6-book2-ch13]]
 
 ## Key Details From Sources
 
+- (3) 當視力更差時,可用下列方式表示:指數(counting fingers, CF)、手動(hand motion, HM)、光感(light perception, LP)、無光感(no light perception, NLP)。 Source: [[sources/med6-book2-ch13|丑、光學屈光]].
 - d. 尿流速:女性平均尿流速 12 mL/sec,最大尿流速 20 mL/sec;尿流速圖正常應為一連續性的曲線,既無中斷,也無 spikes。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - (BC)26. 今年 60 歲的楊伯伯一年前因胃癌住院接受手術治療,最近被證 實已有復發且轉移至肺部,預計存活時間剩下約只有半年。在獲 知這個壞消息之後,楊伯伯要求醫師不要告知他新婚半年的外 籍太太實際的病情,因為楊伯伯騙她在一年前是因胃潰瘍開刀 而未告知自己罹患癌症的真相,怕她知道後會不諒解而離棄他。 下列是醫師向楊伯伯的回應,其中何者最為合宜? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - 1. 嬰幼兒: - (1) 頭圍增大、頭皮變薄、頭皮靜脈擴大。 - (2) 前囟門變緊、膨出。 - (3) 躁動、意識變差且嘔吐。 - (4) 壓迫到四疊體造成眼皮後翻及無法向上看,別名落日眼(setting sun appearence)。 - (5) 長期會影響智育及發育障礙。 Source: [[sources/med5-book1-ch19|癸、水腦症]].

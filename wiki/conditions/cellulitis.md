@@ -14,6 +14,11 @@ sources:
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book2-ch02]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book2-ch18]]"
 aliases:
   - 'Cellulitis (蜂窩性組織炎)'
   - 'Cellulitis'
@@ -28,7 +33,7 @@ tags:
 
 ## Summary
 
-皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +47,21 @@ tags:
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book2-ch15]]
+- [[sources/med6-book2-ch02]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch14]]
+- [[sources/med6-book2-ch18]]
 
 ## Key Details From Sources
 
+- | 年齡 | 單/雙側 | 常見原因 | |-----|------|-----------------| | 成人 | 雙 側 | 甲狀腺眼症>眼窩腫瘤、眼窩發炎 | | 小 孩 | 雙 側 | 轉移性惡性腫瘤>顱顏面骨畸形 | | 成人 | 單 側 | 甲狀腺眼症 | | 小孩 | 單 側 | 眼窩蜂窩性組織炎>眼窩腫瘤 | Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- (1) 軟組織侵犯:眼瞼和眼眶周圍水腫、眼瞼下垂、結膜水腫或充血。原因包含甲 狀腺眼症、眼眶蜂窩性組織炎等。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- 1. 麥粒腫(Hordeolum):由葡萄球菌感染引起的急性膿瘍,造成眼瞼邊緣有紅腫熱痛的腫塊,即俗稱的「針眼」。治療有熱敷、抗生素等,若已蓄膿則作切除引流。若無即時治療可能造成眼眶的蜂窩性組織炎: - (1) 麥粒腫依感染部位不同分為: - a. 內麥粒腫: 感染 Meibomian gland, 在瞼板內。 - b. 外麥粒腫:感染 Zeis' gland,在睫毛根部。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- 2. 淚囊炎(Dacryocystitis):淚囊感染多次發於鼻淚管阻塞,常由葡萄球菌或鏈球菌引起,可分急、慢性兩種。 - (1) 急性淚囊炎:症狀為淚囊紅腫熱痛、溢淚等。治療初步給予熱敷及口服抗生素。若有化膿則切開引流,急性期應避免施行淚囊灌洗術及淚囊探針術。緩解後可做淚囊鼻腔造孔術(DCR),避免復發。 - (2) 慢性淚囊炎:較常見,壓迫淚囊會有黏液膿樣分泌物排出,可能造成淚囊無痛性腫大、溢淚等。治療:局部抗生素、DCR。 - \*\* 淚囊炎往往會在淚囊附近的皮膚呈現紅腫及壓痛的情形,一般較淚小管炎影響的範圍來的大且嚴重,甚至會造成眼部的蜂窩性組織炎。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- (3) 刺激被剝奪性弱視(stimulus deprivation amblyopia):在兒童視覺發展時期,因單側或雙側的視線被遮蔽(如:先天性白內障、角膜混濁、玻璃體出血、眼瞼下垂、眼瞼血管瘤、眼窩蜂窩性組織炎、術後眼罩配戴過久等),導致視網膜無法接收影像而造成刺激被剝奪性弱視。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
+- (3) 須在數小時至數天內處理的「緊要病症」如眼窩蜂窩性組織炎、視網膜剝離等。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
 - (D) 可能是下肢蜂窩組織炎(cellulitis) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (2) 相對適應症:明顯臨床生理機能失常、腹壁蜂窩性組織炎(abdominal wall cellulitis)、酸血症惡化(worsening acidosis)、白血球或血小板掉、腹部腫塊、持續固定的小腸扭結環。須衡量手術好處和早產兒免疫力較差接受手術所需負擔之風險。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...,形成 supralevator abscess,較少見。 - (3) 症狀:局部紅、腫、熱、痛、壓痛或發燒。 - (4) 治療:手術切開引流,一般不須給予抗生素,除非病患為 immunocompromised、 DM、extensive cellulitis 或 valvular heart disease。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
@@ -55,14 +72,6 @@ tags:
 - (2) 從頭到腳,查六項: CNS 感染、管路感染、感染性心內膜炎、褥瘡、軟組織感染(cellulitis, carbuncle, furuncle)、骨髓炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 2. 感染的淋巴結在觸診時病人會有壓痛感(tender),外觀上會有 erythema but without cellulitis。大小通常在 $1\sim5$ cm,通常見於腋下、頸部以及鎖骨處,可維持 $1\sim2$ 個月 之久。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 特殊,慢性,或反覆的感染。例如: - (1) ≥ 1 次全身性的感染(sepsis, meningitis)。 - (2) 一年內≥ 2 次嚴重的呼吸道或軟組織細菌感染 (cellulitis, draining otitis media, pneumonia, lymphadenitis)。 - (3) 特殊部位的嚴重感染(liver, brain abscess…)。 - (4) 特殊病原菌的感染(Aspergillus, Nocardia…)。 - (5) 常見病原菌感染但異常的嚴重。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...yptosporidia) | | | | 臨床 | 生長發育不良 | 反覆的鼻竇炎或肺 | 皮膚感染 (abscess, | 腦膜炎,關節炎, | | 表現 | (Failure to thrive) | 炎 | dermatitis, cellulitis) | 菌血症,反覆的鼻 | | | 長期腹瀉,廣泛的 | ,慢性腸胃道症 | 化膿性淋巴腺 | 竇炎或肺炎 | | | 皮膚念珠菌感染 | 狀,吸收不良,關 | 炎,口腔內感染 | | | | | 狀,吸收不良,關 | (periodontitis,ulcers), | | | | | 的腦膜炎或腦炎 * | 器官內的膿瘍骨髓炎 | · | | 特色 | 輸血後造成 | 自體免疫疾病 | 臍帶較晚脱落 | 較常合併風濕 | | | G Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...-----|----------------------------------------|--|--| | 格蘭氏陽性菌 | Group A streptococcus (S. pyogenes) | Streptococcus 造成的蜂窩性組織炎、咽炎的首選用藥 | | | | 俗阑氏陽性困 | Listeria monocytogenes | PCN 無法入細胞內,Listeria 腦膜炎用 Ampicillin 治療 | | | | 格蘭氏陰性菌 Neisseria meningitis | | 抗藥性增,現少用 PCN 治療 Neisseria 造成的腦膜炎 | | | | | | Syphilis 的首選用藥 | | | | 厭氧菌 Pasteurella multoc Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (1) Oxacillin:治療 MSSA (Methicillin sensitive staphylococcus aureus)的首選,臨床上常用於治療 MSSA 引起的蜂窩性組織炎 (Cellulitis)。除此之外,無法對抗格蘭氏陰性菌。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (3) Amoxicillin+clavulanate (Augmentin®) · Ampicillin+sulbactam (Unasyn®): - a. 加 了 β lactamase inhibitor 而 增 加 對 MSSA、 厭 氧 菌、Enterobacteriaceae (Escherichia、Klebsiella)治療效果。 - b. 用於治療上、下呼吸道感染、人或動物咬傷的多菌種軟組織感染(Polymicrobial soft tissue infection)。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ## B. 蜂窩性組織炎 (Cellulites) Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- 2. 臨床症狀: 看起來像蜂窩性組織炎, 但有出血性水泡, 且痛的地方超過表皮所觀察到的。 Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- ...lococcus。 | | | | (#) | 7. 下列那一項不可能是 Staphylo | coccus aureus 所引起的疾病或症候群? | 98(一)專 | | | (A) Toxic shock syndrome | (B) Cellulitis | 醫三-58 | | | (C) Erysipelas | (D) Infective arthritis | | | (C) | 8. 一位 45 歲男性,有足癬,但 | 無其他全身疾病史,無海水接觸史,於 | 97(二)專 | | | | 重、痛,以及發燒、畏寒而被送到急診 | 醫三-65 | | | 室,請問最常見之致病因? | | | | | (A) 葡萄球菌 | (B) 創傷弧菌 | | | | (C) 鏈球菌 | (D) Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- ...Clostridium tetani | 破傷風 | Tetanus(抑制 Gly,GABA 釋放) | 肌肉痙攣 | | 產氣芽孢桿菌 | Clostridium perfringens | 氣性壞疽 | Gas gangrene | 蜂窩性組織炎 | | 困難芽孢桿菌 | Clostridium difficile | 偽膜性腸炎 | Pseudomembranous colitis | 腹瀉 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

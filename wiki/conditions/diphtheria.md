@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book4-ch27]]"
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book2-ch04]]"
 aliases:
   - 'Diphtheria (白喉)'
   - 'Diphtheria'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-白喉毒素可造成咽部偽膜、心肌炎與神經病變。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+白喉毒素可造成咽部偽膜、心肌炎與神經病變。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book4-ch27]]
 - [[sources/med4-book1-ch04]]
 - [[sources/med6-book1-ch05]]
+- [[sources/med6-book2-ch04]]
 
 ## Key Details From Sources
 
+- b. 真膜: 會浸潤到結膜上皮,若將其移除會流血。主要原因有 β-hemolytic streptococci 和白喉桿菌感染。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - 【詳解】孕婦接種非活化病毒疫苗(如流行性感冒、狂犬病)、 類毒素(如白喉-百日咳-破傷風)和免疫球蛋白(如狂犬病) 是安全的。但不可接種活性疫苗(如麻疹-腮腺炎-德國麻疹、 水痘),可能會造成胎兒先天性感染;此外,接種活性疫苗後一 個月內應該避免懷孕,其中接種水痘疫苗,則建議三個月內要 避孕。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - B. 病因:在從前以 *Haemophilus influenza* type b (Hib) 最常見,隨著疫苗的普及 Hib 感染比率下降許多。現在較常見的病原體為 group A streptococci、pneumococci、EBV。另外,文獻紀載有少數的病人由 *Corynebacterium diphtheria* 或 *Mycobacterium tuberculosis* 感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...| 山井 24 小哇西伊浦拉廷 | 1. B 型肝炎免疫球蛋白一劑 | | | 出生 24 小時內儘速接種 | 2. B 型肝炎遺傳工程疫苗第一劑 | | | 出生滿1個月 | B型肝炎遺傳工程疫苗第二劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿2個月 | 嗜血桿菌及不活化小兒麻痺混合疫苗)第一劑 | | | | 2.13 價結合型肺炎鏈球菌疫苗第一劑 | | | | 1. 五合一疫苗(白喉破傷風非細胞性百日咳、b型 | | | 出生滿4個月 | 嗜血桿菌及不活化小兒麻痺混合疫苗)第二劑 | | | | 2.13 價結合型肺炎鏈球菌疫苗第二劑 | | | 出生滿 5 個月 | 卡介苗一劑 | | | | 1. B 型肝炎遺傳工程疫苗 Source: [[sources/med4-book1-ch04|丁、感染科學]].

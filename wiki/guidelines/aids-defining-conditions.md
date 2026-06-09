@@ -2,7 +2,7 @@
 type: guideline
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch19]]"
   - "[[sources/med3-book3-ch20]]"
@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'AIDS-defining conditions (AIDS 定義疾病)'
   - 'AIDS-defining conditions'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區對 TB 定義不同。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區對 TB 定義不同。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,14 @@ AIDS 依 CD4 < 200 或特定 opportunistic infection/腫瘤定義，部分地區
 - [[sources/med4-book2-ch02]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch06]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- 2. 眼部的併發症:約 70% 的病患會有眼睛方面的併發症,最常造成視網膜的病變。 - (1) 這些併發症包含:視網膜微細血管病變(microangiopathy)、各種伺機性感染、 卡波西氏肉瘤、視網膜或眼眶的淋巴癌、結膜鱗狀上皮細胞癌(SCC)、前虹彩 炎、慢性多發性視網膜浸潤(須以抗病毒藥物治療,對類固醇無效)等。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 3. 巨細胞病毒視網膜炎(Cytomegalovirus retinitis): 最常見的眼部伺機性感染。 - (1) 眼底:整層視網膜水種混濁和併有硬性滲出物和出血。 - (2) 診斷:臨床診斷為主,血清及病毒培養貢獻不大。 - (3) 治療:抗病毒藥物 ganciclovir 靜脈或玻璃體內注射。部分病人會產生視網膜剝離,須採取玻璃體切除術合併矽油填充。 - (4) 預後:以病毒藥物治療,只能控制住病毒複製的活性,無法完全摧毀病毒,當免疫防禦機制低下時,病毒的活性便會伺機再度侵犯人體。因此,即使已受感染過,不代表日後就能獲免。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- (4) 眼眶鼻腔白黴菌症(orbital-rhino-mucormycosis):死亡率高! - a. 最常見的黴菌感染,是一種伺機性感染,多發生於糖尿病合併酮酸中毒或器 官移植後使用免疫抑制劑的病患上。 - b. 致病機轉:經呼吸道,吸入白黴菌芽孢後,造成組織壞死及血管阻塞,病灶成黑色結痂且發出惡臭。 - c. 症狀: 發燒、眼眶腫脹、突眼、鼻腔惡臭。 - d. 診斷:直接從病灶取檢體做黴菌培養或切片檢查,以 HE 染色陽性並觀察到 典型無分隔的分枝菌絲。 - e. 治療: 必須先控制糖尿病並將病灶做清創手術, 投予 IV 抗黴菌藥物 (amphotericin B)治療,太嚴重時需施行眼窩剜除術。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 2. 黴菌感染: Candida albicans 最常見,為伺機性感染。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (1) 主要由伺機性感染原「白色念珠菌」(Candida albicans)所致,為酵母菌 (Yeast),多半發生在潮濕的表皮或黏膜處,極少部分則由其他種念珠菌感染(C. tropicalis、C. krusei、C. parapsilosis、C. guilliermondii等)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].

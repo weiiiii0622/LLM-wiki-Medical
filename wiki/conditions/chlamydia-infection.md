@@ -14,6 +14,9 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Chlamydia infection (披衣菌感染)'
   - 'Chlamydia infection'
@@ -28,7 +31,7 @@ tags:
 
 ## Summary
 
-絕對細胞內病原，可造成泌尿生殖道、眼部與肺部感染。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+絕對細胞內病原，可造成泌尿生殖道、眼部與肺部感染。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +45,18 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch17]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- c. 黏液化膿狀分泌物(mucopurulent)與披衣菌感染或輕微細菌感染有關。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (4) 濾泡反應:為增生的淋巴組織和漿細胞,多位於穹窿內的結膜。常見原因有病毒、披衣菌感染、Parinaud 氏眼腺體症候群(Parinaud ocularglandular syndrome)、或是對局部藥物過敏。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (7) 淋巴腫大:結膜淋巴引流主要為眼前及下頷下淋巴結,引起淋巴腫大常見原因 為病毒性、披衣菌、淋病球菌感染、Parinaud 氏眼腺體症候群。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 2. 一般常見的原因可以分為化學性、細菌、披衣菌及病毒等幾種型態。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
+- ...洗眼 | | | 史,最常被考慮的就 | 會導致角膜水腫、潰瘍 | 睛。現在通常先以紅黴素或 | | | 是格蘭氏陰性 Gram | 、穿孔、並發產成為眼 | 四環黴素眼藥膏預防。 | | | (-)的淋病雙球菌。 | 內炎。 | | | 披衣菌 | 父母多有性病史,生 | 多在出生兩週後出現症 | 口服紅黴素或磺胺類藥物。 | | | 產時經產道感染。 | 狀,較淋病性結膜炎輕 | 新生兒及父母皆需治療。 | | | | 微,但可能在 角膜上留 | | | | | 下疤痕 而影響視力。另 | | | | | 外可能伴隨披衣菌肺炎 | | | | | 的產生。 | | | 病毒性 | 少見,以單純疱疹病 | 出生兩周內發生,除結 | 新生兒的單純疱疹角結膜炎 | | | 毒較可 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
+- 1. 點狀上皮糜爛 (punctuate epithelial erosions): 微小稍下凹的上皮缺損,其發生位置不同病因也不盡相同。 - (1) 上方:季節性疾病(如春季性角結膜炎)、披衣菌結膜炎、上輪部角結膜炎、 不適當的隱形眼鏡配戴、鬆弛眼瞼症候群。 - (2) 中間眼瞼間:乾眼、紫外線暴露、角膜感覺減少(如神經失養性角膜病變)。 - (3) 下方:下眼瞼緣疾病、角膜暴露、過度使用眼藥水產生之毒性。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - | 感染性 | · 最常見的病原菌為披衣菌 (Chlamydia trachomatis), 其次為淋病雙球 | | |------|-------------------------------------------------------------------------|--| | | 菌 ( Neisseria gonorrhoeae ),Herpes simplex virus 和 Trichomonas 佔 | | | | 少數個案 | | | 非感染性 | • 包括機械性刺激(如手術創傷、異物刺激)、化學性刺激(如陰道灌 | | | | 洗、藥物刺激)和放射治療等 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (5) 治療:一般先給予經驗性療法,等感染源確定後再專一性治療。若感染源為披衣菌、淋病雙球菌或 trichomonas,須同時治療性伴侶,且治療期間需禁慾。專一性治療包括 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - | 披衣菌 | • azithromycin 1 g 單一劑量或口服 doxycycline 100 mg BID, | | | |-------|----------------------------------------------------|--|--| | | 7 天。( 懷孕時使用 erythromycin) | | | | 淋病雙球菌 | • 單一劑量的肌肉注射 ceftriazone 250 mg | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -57,12 +69,6 @@ tags:
 - ...Gentamicin plus piperacillin | | Serratia spp. | TMP-SMX, carbenicillin | TMP-SMX, amikacin | | Other pathogens | | | | Chlamydiae | Tetracycline, erythromycin | Tetracycline, erythromycin | | Mycoplasmas, ureaplasmas | Tetracycline, erythromycin | Tetracycline, erythromycin | | Obligate anaerobes | Metronidazole, clindamycin | Metronidazole, clin Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - 5. 懷孕的女性若感染 Chlamydia trachomatis 且未積極治療的話,約 10~20% 嬰兒會發展成肺炎。肺炎的好發時間在出生後1至3個月間。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 5. Chlamydia trachomatis pneumonia 臨床上表現 persistent cough、tachypnea and abscence of fever。聽診常有 rales,wheezing 反而不常見;臨床上常與 RSV 感染造成的肺炎(發燒、聽診出現 wheezing)做鑑別診斷。實驗室檢查表現 eosinophilia(> 400/μL)。影像學檢查:胸部 X-ray 表現 hyperinflation accompanied Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (D) 3. 關於嬰幼兒感染砂眼披衣菌(*Chlamydia trachomatis*) 肺炎之敘 述,下列何者較正確? - (A) 罹患砂眼披衣菌母親且未接受治療,約九成其新生兒會得到 砂眼披衣菌肺炎 - (B) 通常新生兒出生後 1 週內會有明顯肺炎症狀 - (C) 相對呼吸道融合病毒感染,砂眼披衣菌肺炎較容易發燒及喘鳴聲(Wheezing) - (D) 砂眼披衣菌感染後,血液中嗜伊紅白血球會增加 (eosinophils > 400 cells/μL) Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (1) 通常發生在感染 1~4 週後,如腸胃道的 Yersinia, Shigella, Salmonella, Yersinia Campylobacter species 感染,或生殖道的 *Chlamydia trachomatis、Ureaplasma urealyticum* 感染等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...疏螺旋體 | Borrelia | B. burgdorferi, B. recurrentis | 厭氧 | | (E) | | 鉤端螺旋體 | Leptospira | Leptospira interrogans | | | | | 披衣菌 | Chlamydia | C. trachomatis, C. pneumoniae | | | 絕業 | 加內 | 巴東氏菌 | Bartonella | B. henselae | 阿奈尔 | | 寄生 | € (F) | 立克次體 | Rickettsia | R. rickettsii, R. typhi, O. tsutsugamushi | 厭氧 | | | | 考克氏菌 | Coxiella burnetii | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 2. 治療: - (1) 患病者:給予第三代頭孢黴素(如 Ceftriaxone 250 mg im for one dose)加上四環黴素(Tetracycline),如此亦可 cover 性病常見的砂眼披衣菌。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (C) lymphogranuloma venereum Chlamydia trachomatis Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...-------------------------------|--| | 大分類 | 細分類 | 例子 | 臨床上常用於 | | | | Macrolide (肝) | Erythromycin | 非典型肺炎 (Mycoplasma, Chlamydia) | | | | | Azithromycin | HIV 病患的 MAC | | | 抑制 50S 核醣體 | Lincosamide (肝) | Clindamycin | 厭氧菌→橫膈以上的膿瘍 | | | | | | 抑制細菌毒素製造→壞死性筋膜炎 | | | | Oxazolidinones (肝) | Linezolid | 可用於多重抗藥性的細菌 | | | | Chloramphenicol | Chloramphen Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 
@@ -71,6 +77,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/ophthalmia-neonatorum|Ophthalmia neonatorum (新生兒眼炎)]]
 - [[conditions/pelvic-inflammatory-disease|Pelvic inflammatory disease, PID (骨盆腔發炎性疾病)]]
 
 ## Follow-up

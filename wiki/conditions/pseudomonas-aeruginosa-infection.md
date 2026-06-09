@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med6-book1-ch15]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch06]]"
 aliases:
   - 'Pseudomonas aeruginosa infection (綠膿桿菌感染)'
   - 'Pseudomonas aeruginosa infection'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,14 @@ tags:
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med6-book1-ch15]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch06]]
 
 ## Key Details From Sources
 
+- (3) 可能致病原因:角膜上皮完整性受損又合併:**隱形眼鏡配帶過久-綠膿桿菌**; 之前存在的角膜病變(如外傷、水疱性病變等);淚液缺乏、維生素 A 缺乏等。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- (4) 鑑別診斷: - a. 革蘭氏陽性:常見為葡萄球菌感染-多發性、表淺性、且界線清楚的病灶, 進程緩慢。 - b. 革蘭氏陰性:以綠膿桿菌感染為代表-病灶色深、邊緣不清、分泌物多且呈 黃綠色,進程快速。外觀表現多樣化,有時外緣會像毛毛的黴菌菌絲,而被 稱為「偉大的模仿者」。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- (2) 感染:由角膜潰瘍擴散而來。常見致病菌有綠膿桿菌、Streptococcus pneumoniae、帶狀皰疹病毒等。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - | Uncomplicated UTI | (1)Escherichia coli 為主,佔 75~95% | |-------------------|---------------------------------------------------| | | (2)腸道菌,如 Proteus mirabilis 和 Klebsiella pneumonia | | | (3)Staphylococcus saprophyticus | | Complicated UTI | (1)包括上述致病菌 | | | (2)Pseudomonas, Serratia, and Providencia species | | | (3)黴菌 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - ...| | (C) 5. 骨科手術後最常見的傷口感染細菌,下列何者正確? 103( 二 ) 專 | (C) | | (A) Candida (B) Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 103(ニ)専 | (C) | | 膏固定後回家休息,晚上睡覺時覺得右腳越來越痛,他吃了止痛 醫五-74 | (-) | | 藥後,症狀稍有緩解,但仍然持續疼痛,下列醫療處置何者最 | | | 正確? | | Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 右小腿開放性骨折如果發生骨髓炎,最常見的菌種為綠膿桿菌(Pseudomonas aeruginosa) Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -81,10 +88,6 @@ tags:
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...| (B) 24. 大腸內容物中最常見的細菌為: | 99(一)專 | | (A) Escherichia coli | 醫五-5 | | (B) Bacteroides | | | (C) Enterococcus | | | (D) Pseudomonas species | | | (C) 25. 大腸內容物中最常見的 aerobic bacteria 是下列何者? | 97(一)專 | | (A) Enterococcus | 醫五-1 | | (B) Proteus | | | (C) Escherichia coli | | | (D) Pseudomonas | | | | | Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 【詳解】(B) 當菌種為對 vancomycin 有抗藥性時,才會選擇使用 linezolid;(D) 需考量到 Pseudomonas aeruginosa 或其他 Gram-negative bacilli 等菌。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (D) 主要致病機轉為 Pseudomonas 製造的 exfoliative toxin 所引起 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- ...nis / audouinii) | 綠色 | | | 變色糠疹 (Pityriasis versicolor) | 淡黃色或銅橘色 (coppery-orange) | | | 紫質症 (Porphyria) | 粉紅色尿液 | | | 綠膿桿菌 (Pseudomonas) | 黄綠色 | | | 痤瘡桿菌 (Propionibacterium acnes) | 橙色 | | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (D) 6. 足月兒出生時,母親有發燒症狀且羊膜已在出生前兩天破裂,嬰兒於出生後 8 小時開始明顯的呼吸窘迫,血壓下降,胸部 X 光呈現雙側全面的浸潤,並有少許肋膜腔積水,最可能的診斷為下列何者? - (A) 大腸桿菌(Escherichia coli) 感染 - (B) 綠膿桿菌 (Pseudomonas spp.) 感染 - (C) 肺炎鏈球菌 (Streptococcus pneumoniae) 感染 - (D) B 群鏈球菌(group B Streptococcus)感染 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (2) Pseudomonas aeruginosa 或 Serratia marcescens 在靜脈藥物注射病人較常見。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

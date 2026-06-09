@@ -47,6 +47,7 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Anticoagulation (抗凝治療)'
   - 'Anticoagulation'
@@ -61,7 +62,7 @@ tags:
 
 ## Summary
 
-血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -108,9 +109,12 @@ tags:
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch16]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- (8) 遺傳性血栓性疾病:多發生在年輕人,如凝血因子 VII 及 XI 增加或抗凝血劑 antithrombin、protein S、protein C 缺乏。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- ...有 50% 病患在三個月內發生虹彩新生血管(rubeosis iridis)及新生血管性青光眼(neovascular glaucoma)→以 PRP 預防。 - e. 治療: - (a) 若眼壓有升高時,給予降眼壓藥物。 - (b) 口服抗凝血或促進血液循環藥物。 - (c) 以全網膜雷射(PRP)預防新生血管性青光眼。 - (d) 眼內玻璃體內注射長效型類固醇,利用其抗發炎效果來減少黃斑部水腫。 但是部分患者在注射後會有眼壓升高或導致白內障的情形。 - (e) 玻璃體內注射抗血管內皮生長因子(如 Avastin),在控制黃斑部水腫及 滲漏也有不錯的療效,其效果可持續數月之久,但是缺點是可能需重複 注射。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - (3) 治療:LMWHs,接著使用 warfarin;瀰漫性肺栓塞可考慮血栓溶解治療,但伴隨有出血的風險;無法使用抗凝血治療,可以使用下降靜脈 filter。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (B) low-dose heparin Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (C) standard-dose heparin (D) external pneumatic leg compression Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -127,8 +131,6 @@ tags:
 - | | Hb | Platelet | PT | aPTT | |-----|---------|----------|----------|-------| | 張奶奶 | 10.2 | 40 | 16.2 | 36.4 | | 正常值 | 13.5~17 | 138~353 | 9.4~12.5 | 26~38 | | 單位 | g/dL | 10^3/mL | sec | sec | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (B) 6. 36 歲男性病人,因長期應酬,每日平均喝半瓶烈酒已十年,近日 101( 二) 專 因身體倦怠,食慾不佳,臉色發黃而住院,住院後發現總膽紅素 醫五 -4 高至 22 mg/dL,ALT 高至 226 U/L,AST 高至 282 U/L,GGT 高至 388 U/L,凝血機能 PT 延長大於 4 秒,INR 為 1.59,aPTT 比正常值稍高,以下何者為最適當之處置? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 5. 治療: - (1) 穿彈性襪 (compression therapy)。 - (2) 先使用 heparin 維持 INR 2~3, 之後改用 Warfarin 維持,至少吃三個月到六個月,如果復發則建議吃終身。 - (3) 靜脈血栓清除術(venous thrombectomy): 以導管進入阳塞的靜脈清除血栓。 - (4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- (B) 深部靜脈栓塞,且不適合使用抗凝血劑 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- (D) 在足量之抗凝血劑治療下,仍反復多次靜脈栓塞 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 
 ## Clinical Caveats
 

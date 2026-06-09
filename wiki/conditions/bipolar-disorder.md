@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch03]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med4-book3-ch08]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Bipolar disorder (躁鬱症／雙相情緒障礙)'
   - 'Bipolar disorder'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-以躁症、輕躁症與憂鬱 episode 的組合定義，治療需避免單用 antidepressant 誘發躁化。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以躁症、輕躁症與憂鬱 episode 的組合定義，治療需避免單用 antidepressant 誘發躁化。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ tags:
 - [[sources/med4-book3-ch05]]
 - [[sources/med4-book3-ch08]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- (5) 外叢狀層 (outer plexiform layer): 感光細胞的軸突和雙極細胞 (bipolar cell)的 樹突、水平細胞 (horizontal cell)的突起相接,連接的突觸構成疏鬆的網狀結構。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- (1) 視網膜電圖(electroretinography, ERG): 紀錄光刺激時,視網膜由光接收器至神經節細胞產生的動作電位(action potential)。ERG 在光適應(light-adapted、photopic)及暗適應(dark-adapted、scotopic)狀態下引發。分為向下轉折的a-wave 和向上的 b-wave,正常的 ERG 是雙相的,但在一些遺傳性眼底病變中,b-wave 可能是平坦的。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...顳動脈炎(temporal arteritis)的脈動增強 (D) 常合併肌肉疼痛 【詳解】Temporal arteritis 可以觸診顳動脈有 tenderness,可見突 起、較硬的顳動脈,但脈動卻是減弱的。 (B) 18. 一位罹患躁鬱症(bipolar disorder)和氣喘的病人,偏頭痛變得 105(一)專 越來越頻繁,目前一週會有兩三天的偏頭痛發作。醫師打算使用 醫四-49 預防性藥物治療來減少她的偏頭痛,下列何種藥物是最合適的 治療? (A) propranolol (B) divalproex (C) amitriptyline (D) lithium 【詳解】預防用藥的選擇:amitriptyline、propgranolol、flunarizine、 v Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - II. 躁鬱症(Bipolar Disorder) 23 - A. 第一型躁鬱症 (Bipolar I disorder) 23 - B. 第二型躁鬱症 (Bipolar II disorder) 25 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - 雙極性疾患 (bipolar disorders ) 包括: - 第一型雙極性疾患(bipolar I disorder)。 - 第二型雙極性疾患(bipolar II disorder)。 - 循環性情感疾患(cyclothymic disorder)。 - ■其他未註明之雙極性疾患。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].

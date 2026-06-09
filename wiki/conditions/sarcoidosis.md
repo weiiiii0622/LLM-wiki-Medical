@@ -21,6 +21,9 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Sarcoidosis (類肉瘤病)'
   - 'Sarcoidosis'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,16 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- ...---------------|----------------------| | ① 前葡萄膜炎:最常見 (90%) | ① 急性葡萄膜炎:快速 | ① 與全身疾病相關:如 | | -虹彩炎 (iritis) | 發生,有限的期間, | 類肉瘤病 (sarcoidosis) | | -虹彩睫狀體炎 (iridocyclitis): | 大約幾周到幾個月內 | ② 感染:細菌或病毒或 | | 虹彩及睫狀體前部 (pars | 會好 | 原蟲 | | plicata) | ② 慢性葡萄膜炎:持續 | ③ 原因不明特殊的葡萄 | | ②中間型葡萄膜炎:睫狀體後部 | 的,在停掉治療後三 | 膜炎:如 Fuchs 氏虹 | | (pars plana)、視網膜周圍及其 | 個月內再復 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- (3) 類肉瘤症(Sarcoidosis):原因不明,多系統侵犯的肉芽腫性發炎疾病。全身系統確診下 50% 有眼部表現,屬全葡萄膜炎類型,眼部表現多以前葡萄膜炎為主,可見角膜內皮羊脂狀沈澱物(mutton-fat KP),虹彩結節,玻璃體前下方可見到snowbank。約 25% 類肉瘤症病人有後葡萄膜炎,造成視網膜靜脈外膜炎(retinal periphlebitis),嚴重時會有蠟燭滴樣滲出物(candlewax drippings),或脈絡膜肉芽腫、視網膜肉芽腫等。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- 2. 類肉瘤病(Sarcoidosis):可侵犯全身各系統的非乾酪性肉芽腫(non-caseating granulomatous)病變,原因至今仍然不明,最常發生在20到40歲的年輕成人身上,可侵犯全身器官,如:週邊淋巴結、肝、脾、腎、眼、中樞神經系統、心臟、骨骼系統等,但大多以雙側肺門淋巴腺腫大、肺浸潤性病變來表現。 - (1) 眼部症狀:葡萄膜炎、局部周邊靜脈炎(focal periphlebitis)、視網膜蠟狀滲出物(candle-wax dripping)、玻璃體混濁、淚腺浸潤等。 - (2) 治療:急性期使用類固醇,對嚴重病例給予免疫抑制劑。若有視網膜新生血管時,可用雷射光凝術治療。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- (5) 發炎疾病:如類肉瘤症和 Behcet's disease 造成的視網膜血管炎。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...| ◆ Chylothorax | | ● Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - .... 胸腔肋膜液抽吸、開胸或 VATS 肋膜切片:可用來確診 MPM 和分型,通常需要免疫組織染色和電子顯微鏡來觀察分析切片。 - (5) 分型:預後差異很大。 - a. 上皮細胞型 (epithelial): 三者中,預後最好。 - b. 類肉瘤型(sarcomatous)。 - c. 混合型 (mixed)。 - (6) 治療:支持療法平均約存活4到12個月,尚無單一療法(如:放射治療、化學治療、手術)可以改善存活率。而試驗性複合式療法,EPP合併化放療,在早 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (12) 其他:類肉瘤(Sarcoidosis)、組織球增生症(Histiocytosis)、特發性肺含鐵血黃素沉著症(Idiopathic hemosiderosis)、肺泡蛋白質沉積症(Pulmonary alveolar proteinosis)、彌漫性間質纖維化(Diffuse interstitial fibrosis)、特發性肺纖維化(idiopathic pulmonary fibrosis)、脫屑性間質性肺炎(Desquamative int Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -73,10 +83,6 @@ tags:
 - ...β lactams、NSAID、馬兜鈴酸等 - ii. 感染(Infection):急性腎盂腎炎(Acute pyelonephritis, APN) - iii. 浸潤型病變 (Infiltrative): 淋巴瘤 (Lymphoma)、類肉瘤 (Sarcoid) - (c) 特徵: - i. 因 Sulfa drug 過敏造成的 AIN,其血中白血球的 Eosinophil 可能會增加。 - ii. 驗 U/R 的鏡檢可見 WBC cast, 乃因間質發炎而有白血球浸潤,由間質至 腎小管經擠壓變形成為 WBC case。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...me, Hashimoto's thyroiditis | | | | Other systemic | Fanconi's syndrome, sickle cell anemia, diabetes, Crohn's disease, sarcoidosis, | | | | dz. | Guillain-Barré syndrome, Weber-Christian disease, angiofollicular lymph node hyperplasia | | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ...--------------| | (A) | 3. 下列那一種腎細胞癌與 von Hippel-Lindau 基因的突變或低表現有關? (A) 透明細胞腎細胞癌 (clear cell renal cell carcinoma) (B) 類肉瘤腎細胞癌 (sarcomatoid renal cell carcinoma) (C) 難染性腎細胞癌 (chromophobe renal cell carcinoma) (D) 乳突狀腎細胞癌 (papillary renal cell carcinoma) | 105(二)專醫三-43 | | (D) | 4. 一位 30 歲原本健康的男性,10 分鐘前還非常清醒,中毒不到10 分鐘即陷入深度昏迷,下列何種中毒,最不可能導致病人在 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
-- ...的 PTH 比需 要的還多,甚至造成高血鈣 - b. PTH 低者考慮三個方面:高血鈣由 GI 來的(維他命 D 太多)、Bone 來的(惡性腫瘤 PTHrP)、腎臟排太少(服用 Thiazide) - (a) 服用過多 Vit. D 或 Sarcoidosis、TB 造成的肉芽腫內,其巨噬細胞會分泌 $1,25(OH)_2D$ ,刺激腸胃道吸收鈣,進而造成高血鈣;根據病因,限鈣飲食會有幫助。 - (b) 若是肺、頭頸部的 squamous cell carcinoma, 會分泌 PTHrP,溶解骨頭造成高血鈣;或乳癌骨轉移、白血病在骨髓腔內侵蝕骨頭都會造成高血鈣,反而會抑制正常的 PTH;根據病因,給予 Bisphosphonate 抑制破骨細胞會有幫助。 - (c) 甲狀腺亢進、臥床(Im Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- ...PTH下降 | 急性 | 惡性腫瘤 | 鱗狀細胞癌分泌 PTHrP、乳癌骨轉移、白血病、多發骨髓瘤 | | | | | Vit. D 過多 | 攝取 Vit. D 過多→ 25(OH)D ↑ ↑ | | | | 小里小件- | 1-2 | Sarcoidosis、TB的肉芽腫巨噬細胞分泌 1,25(OH)₂D ↑ ↑ | | | | 一一世 | 骨頭 Turnover 快 | 甲狀腺亢進、臥床 (Immobilization) 導致骨質流失→血鈣 ↑ | | | | | 其他 | Thiazide 減少尿鈣排出→血鈣 ↑ | | Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- (2) 1,25-(OH)2D: 懷疑 Sarcoidosis、TB 的肉芽腫巨噬細胞分泌過多 1,25-(OH)2D 造成高血鈣可測。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- ...s | 已知病因 | 過敏性肺炎 (Hypersensitivity pneumonitis) | | | | ILD | | 塵肺症 (Pneumoconiosis) 中的矽肺症 (Silicosis) | | | | | 未知病因 | Sarcoidosis, Langerhans' cell granulomatosis (eosinophilic) | | | | | | Granulomatous vasculitides (Wegener's, Churg-Strauss dz.) | | | | 其他 | Pulmonary alv | eolar proteinosis (PAP), Lymphangioleiomyomatosis (LAM) | | | | | Eosino Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 
 ## Clinical Caveats
 

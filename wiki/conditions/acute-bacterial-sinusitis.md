@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Acute bacterial sinusitis (急性細菌性鼻竇炎)'
   - 'Acute bacterial sinusitis'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- (2) 眼眶蜂窩性組織炎(orbital cellulitis):為造成小孩單側突眼最常見的原因,常因鼻竇炎(以飾竇炎最常見)造成,致病菌以Hemophilus influenzae 感染最常見,症狀較中隔前蜂窩性組織炎更嚴重,甚至可能影響視力。治療需投以大量抗生素,若有膿瘍產生則需作引流。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - ...bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquired causes: 感染和發炎。 - a. 支氣管堵塞: 氣管外壓迫(腫瘤、淋巴結腫大)、吸入異物或刺激物質、膿痰。 - b. 感染:壞死性細菌肺炎、百日咳肺炎、麻疹肺炎、流感肺炎、水痘肺炎。吸入性有毒氣體。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 理學檢查:飲水可引起逆流或阻塞症狀,前傾坐姿並吸飽氣使肺完全擴張,可縮小橫隔裂孔和增加 LES 壓力改善症狀,牙齒腐蝕或偏黃、口咽紅腫、慢性鼻竇炎症狀。如有鎖骨下淋巴結腫,須懷疑食道胃腫瘤。如後胸骨痛可由壓觸診引起,則應為體表疼痛。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].

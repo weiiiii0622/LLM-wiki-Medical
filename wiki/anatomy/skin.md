@@ -77,6 +77,19 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch02]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch01]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch06]]"
+  - "[[sources/med6-book2-ch08]]"
+  - "[[sources/med6-book2-ch11]]"
+  - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Skin (皮膚)'
   - 'Skin'
@@ -91,7 +104,7 @@ tags:
 
 ## Summary
 
-身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -168,9 +181,32 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch02]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch01]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch06]]
+- [[sources/med6-book2-ch08]]
+- [[sources/med6-book2-ch11]]
+- [[sources/med6-book2-ch15]]
+- [[sources/med6-book2-ch16]]
+- [[sources/med6-book2-ch17]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- (1) 灰線:分為包含皮膚和眼輪匝 肌的前板(ant. lamella)以及 包含瞼板(tarsal plate)和結 膜的後板(post. lamella)。 灰線是手術修補眼瞼邊緣撕 裂傷時的 landmark。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- (2) 眼眶中隔(orbital septum): 眼瞼以眼眶中隔分為包含皮膚和眼輪匝肌的表淺層,以及包含提上眼瞼肌、穆勒氏肌(Müller's muscle,位於上眼瞼)、下眼瞼退縮肌(lower lid retractors)以及瞼板的深層。眼眶中隔的功能有防止表免感染或出血等向內擴散至眼窩或腦。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- ...眼神經麻痺(2) Horner 氏症候群(3) *Marcus Gunn 氏jaw-winking 症候群 | (1)重症肌無力(2)肌肉失養症(3)眼球肌病變 | (1) 退化性 (老化)(2) 術後註:此指提上眼瞼肌的腱膜 | (1) 皮膚鬆垂(2) 腫瘤(3) 結疤 | Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- (2) 單純疱疹結膜炎 (HSV conjunctivitis): - a. 簡介:多由 HSV1 造成,但 HSV2 可能由生產時感染到新生兒。 - b. 臨床表現:原發性感染多出現在兒童身上,眼瞼和眼眶周圍出現皮膚水疱。 此外,會造成瞼結膜炎、濾泡狀結膜炎、耳前淋巴結腫大、角膜樹枝狀潰瘍。 復發性感染可能造成角膜炎導致角膜結疤而失明或虹彩炎等。 - c. 治療:原發性感染多會自癒,或可局部使用 acyclovir 或口服 Acyclovir 400 mg 一天五次用十天(其他藥物這裡不多提)減緩症狀;若是 Recurrent ocular infection Acyclovir 藥膏被記載是有效的(但會有點毒性),全身口服 acyclovir 跟 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (3) 帶狀疱疹眼炎 (Herpes zoster ophthalmicus, HZO): - a. 簡介: 感染帶狀疱疹病毒後的再復發症狀。初次感染帶狀疱疹病毒時引起的病症是水痘(chicken pox),接著病毒會經由皮膚病灶或是血液,侵犯感覺神經並潛伏寄生在神經節中,數年後可引發不同部位的帶狀疱疹病灶。 - b. 臨床表現:先會有發燒、倦怠、及同側頭痛的現象,當水疱蓄膿結痂之後才 出現侵犯眼睛的症狀。包括眼睛紅、痛、流淚、及視力降低等。帶狀疱疹病 毒眼症對眼睛的傷害可以有許多層面,可造成:角膜炎、結膜炎、鞏膜炎、 虹彩炎等;眼睛神經的受傷造成:神經失養性角膜炎、眼肌麻痺、疱疹後神 經痛等。 - c. 治療: 口服 acyclovir 800 mg —天 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- .... 春季性角結膜炎(vernal keratoconjunctivitis, VKC): - (1) 簡介:結膜雙側反覆慢性發炎,與 Type 1 IgE 和 Type 4 細胞性免疫反應相關, 多數病人有異位性體質,合併有氣喘、鼻子過敏、皮膚溼疹等症狀。好發年輕 男性,春季末和夏天是發病巔峰。有較高比例的病患同時合併有圓錐角膜。 - (2) 臨床症狀:眼眶搔癢、流淚、畏光、灼熱感等。 - (3) 特徵: - a. 結膜病變:眼瞼型(palpebral):上眼瞼多巨大鵝卵石般(cobble stone)乳突 (Papilla)形成;輪部型(limbic):輪部(=角鞏膜緣)周圍有黏液狀結節 分布,呈果凍狀,伴有含嗜酸性球的上皮細胞形成的白色小點(Horner-Trantas... Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- ...hçet 氏症(Behçet disease):原因不明的全身性血管炎症疾病。發生原因可能是基因異常(HLA-B51)加上免疫刺激(細菌或病毒感染等)。 - a. 主要症狀有:復發性口腔及生殖器潰瘍、眼睛內部炎症(葡萄膜炎或視網膜血管炎)、皮膚結節性紅斑。陽性皮膚針刺試驗(皮膚被針刺後,48小時之內會出現無菌性膿皰:Pathergy test)。 - b. 副症狀有:關節炎、腸胃病變、副睪丸炎、中樞神經病變、血管病變、肺部 病變、泌尿系統病變。有口腔潰瘍加上兩個主要症狀即可診斷。 - c. 眼部表現多為雙側、復發性、非肉芽腫性的前或後葡萄膜炎,可能出現前房蓄膿等。視網膜病變包含視網膜血管炎,而血管滲出物可造成視神經盤水腫,影響視力。 - d. 治療:全身性類固醇加上免疫抑制劑 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- (5) 原田氏症候群(Vogt-Koyanagi-Harada's syndrome):是一種對黑色素細胞專一的自體免疫疾病,侵犯葡萄膜(造成雙側肉芽腫性全葡萄膜炎)、內耳、皮膚、腦膜等處。 - a. 初期 (prodromal): 雙眼急性瀰漫性葡萄膜炎、滲出性視網膜剝離、視乳頭水腫、視神經炎。 - b. 慢性期:眼底色素脱失(sunset glow fundus)、視網膜脈絡膜萎縮並伴隨皮膚白斑、毛髮變白、聽力受損等。若反覆性發生會造白內障或青光眼。 - c. 治療:全身性類固醇或可用免疫抑制劑(cyclosporine、azathioprin)。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- 3. 眼瞼:外到內分為五層:皮膚、皮下組織、眼輪匝肌、眼瞼板、瞼結膜。上下眼瞼 交界處為眥,內、外側端分別稱內眥和外眥,邊緣有睫毛。睜眼藉著提上眼瞼肌(主 要的睜眼肌;神經由 CNIII 支配)和穆勒氏肌(Müller's muscle 位在上眼瞼,助維 Source: [[sources/med6-book2-ch01|甲、眼睛概論]].
+- 2. 淚囊炎(Dacryocystitis):淚囊感染多次發於鼻淚管阻塞,常由葡萄球菌或鏈球菌引起,可分急、慢性兩種。 - (1) 急性淚囊炎:症狀為淚囊紅腫熱痛、溢淚等。治療初步給予熱敷及口服抗生素。若有化膿則切開引流,急性期應避免施行淚囊灌洗術及淚囊探針術。緩解後可做淚囊鼻腔造孔術(DCR),避免復發。 - (2) 慢性淚囊炎:較常見,壓迫淚囊會有黏液膿樣分泌物排出,可能造成淚囊無痛性腫大、溢淚等。治療:局部抗生素、DCR。 - \*\* 淚囊炎往往會在淚囊附近的皮膚呈現紅腫及壓痛的情形,一般較淚小管炎影響的範圍來的大且嚴重,甚至會造成眼部的蜂窩性組織炎。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - ・ 臉部、頸部、腋下、胸部或鼠蹊部,可能會長皮膚垂疣 (skin tags) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (C) 9.25 歲女大學生,主訴半年無月經,病患主訴課業壓力大,外觀體毛細,皮膚偏黃,身高162公分,體重35公斤,關於此病患,下列敘述何者錯誤? Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...,雌激素慢性持續地刺激子宮內膜, | | | | 將增加子宮內膜增生及癌化的風險。 | | | 註 2: 黑色素棘皮症 | 指身體皺摺處(頸、腋下、乳房下和大腿等)的黑色素沉澱和 | | | (Acanthosis nigrican) | 皮膚增厚,是胰島素阻抗 (insulin resistance) 的特徵,與 PCOS | | | | 和高雄性素有關。 | | | 註 3: Rotterdam | 卵巢週邊可見 12 個以上 2~9 mm 的小濾泡 士 卵巢體積增加 | | | ultrasound criteria | ( > 10 mL) • | | | 註 4: 代謝性症候群 | 下列 5 項符合 3 項者,即可診斷代謝性症候群 | | | 診斷標準 | ・腰圍> Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -179,16 +215,6 @@ tags:
 - ...無痛性潰瘍,具高感染性,並且伴隨腹股溝淋巴結腫大 | | | Secondary syphilis | rphilis 病原體在初期後2個月擴散至全身,造成除了輕微發燒和疲 | | | | 倦,主要是廣泛性的淋巴腫大、黏膜表皮病灶、多樣性的皮膚 | | | | 紅斑疹,以及陰唇的疣狀病灶 (condylomata lata) | | | Tertiary syphilis 若未在早期治療,在幾個月或幾年後可能造成心血管和神 | | | | | 併發症,如:神經性梅毒、動脈炎、虹膜炎和 gumma | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 【詳解】(A) danazol 雖然對減少子宮內膜異位症所造成之疼痛效果好,但副作用大,故現在臨床上較為少用,其副作用包括體重增加、水腫、肌肉疼痛、痤瘡、油脂性皮膚、聲音低沉及多毛症等。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (C) 1. 某產婦於陰道分娩後發現會陰部有裂傷,此傷口涵蓋了皮膚、陰 109(二)專 道黏膜、會陰體(perineal body)、肛門括約肌(anal sphincter)。 醫六-28 這屬於第幾度裂傷? - (A) 第一度 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- 【詳解】術後放射線治療造成的放射線後腸炎,急性期會造成嘔吐、食慾不佳、腹痛和腹瀉等表現;慢性併發症包括長期腹瀉、腸道吸收不良、腸狹窄和腸阻塞等。而放射線後直腸炎,急性期會造成肛門周圍的皮膚發紅、脫皮;慢性併發症包括直腸肛門潰瘍。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 【詳解】ischemia time 在 muscle 約 8hrs, skin and subcutaneous tissue 約可到 12hrs, bone 約 24hrs。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- | 類型 | 分布 | 功能 | |----|-----------------|-------------| | | 皮膚、硬骨及血管等多數結締組織 | 抵抗壓力 | | | 透明軟骨、彈性軟骨 | 抵抗間斷的外來壓力 | | | 血管、新生兒皮膚及肉芽組織 | 維持膨脹器官的整體結構 | | 四 | 皮膚、血管 | 支持和過濾 | | 五 | 皮膚、細胞基底膜 | | | 六 | 皮膚、透明軟骨 | | | 七 | 皮膚、胎盤 | | | 八 | 表皮細胞基底膜 | | | 九 | 血管 | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (A) 6. 一位健康好動的 20 歲機車騎士,不幸車禍受傷,引起左側股骨骨折,即住院治療。隔天病人呼吸速度加快,神智不清,PaO₂ 為 55 mmHg,體溫 38℃,皮膚出現斑點狀出血,他最可能的診斷是: Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- 2. 復位:將骨折的兩端骨頭接好。又可以分成開放性復位(open reduction)和封閉性 復位(close reduction)。 - (1) 封閉性復位(close reduction):指的是外表的皮膚、肌肉完整,復位者並沒有實際看到骨折接合處。 - (2) 開放性復位 (open reduction): 將皮膚及內部組織打開來,將骨折斷端接合。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 3. 固定:復位後的骨頭需要承重,為了避免復位的骨頭錯位,故需將兩斷端骨頭固定 起來。固定的方法可分為內固定與外固定。 - (1) 內固定 (internal fixation): 將固定器 (wires, screws, pins, or plates) 直接架在斷骨上。 - (2) 外固定(external fixation):固定器並沒有直接架在骨頭上,而是架在皮膚及組織外面,例如:外固定器(external fixator)、splint(傳統石膏)、cast(樹脂石膏)。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 【詳解】非開放性骨折並不需要馬上手術處理,大腿骨的骨折可以先用骨骼牽引(skeletal traction)或皮膚牽引(skin traction),防止過度 shortening 造成之後手術復位的困難度。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (B) 立刻復位,右下肢皮膚牽引兩周 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- ...al nerve 支配,受損會導致手指無法 伸直、手腕無法伸展, drop hand 及 drop wrist。 (C) 9. 一位 35 歲男性病患發生肩部脫位,在接受檢查時,發現他無法 99(一)專 外展肩部,且在肩部外側有一小塊區域的皮膚感覺消失,最可能 醫五-57 發生何種傷害? (B) 橈神經 (A) 正中神經 (C) 腋神經 (D) 尺神經 【詳解】(C) 腋神經支配小圓肌、三角肌。三角肌負責外展肩部 以及三角肌下部位皮膚。(即題幹所述肩部外側有一小塊區域的 皮膚感覺消失),且肩關節脫位最易傷到腋神經,因此答選(C)。 (C) 10. 呂小姐 28 歲於浴室中滑倒,右上肢被洗臉盆碎片割傷多處,經 98(一)專 送醫縫合處置後回家休養,數週後仍覺不適至門診就診,主訴 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- (B) 2. 一位 50 歲左右的男性,雙手因無名指、小指屈曲攣縮影響功能來求診,手掌可摸到纖維性索條(fibrous cord)及變厚的皮膚,但無麻痺現象,下列何者正確? Source: [[sources/med5-book6-ch06|己、手部]].
 
 ## Clinical Caveats
 

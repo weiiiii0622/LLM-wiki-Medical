@@ -35,6 +35,7 @@ sources:
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch15]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Cerebrospinal fluid analysis, CSF (腦脊髓液檢查)'
   - 'Cerebrospinal fluid analysis, CSF'
@@ -49,7 +50,7 @@ tags:
 
 ## Summary
 
-用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +85,11 @@ tags:
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch15]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (d) 併發症:手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下 垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 【詳解】泌乳激素瘤 1 公分以上為 macroadenoma,已造成視野缺損,須接受治療。(A) 藥物治療(dopamine agonist,如 cabergoline, bromocriptine)為首選之治療方式,藥物效果良好(約 90%),但仍有 10% 對藥物無反應;(B)(C) 若藥物治療無效,可考慮經蝶竇腦下垂體手術(transsphenoidal pituitary surgery)切除腫瘤,不過,手術切除後可能復發,需接受定期追蹤;(D) 手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 1. 從腦室壁細胞(ependymal cell)生長出,大多發生在第四腦室,且會隨著 CSF 散 佈到其他地方。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -103,8 +106,6 @@ tags:
 - ...,下列何者正確? | 醫四 -54 | | | (A) 通常發生此病之平均年齡為 65 歲 | | | | (B) 常合併憂鬱,智能急速減退,及肌躍症 | | | | (C) 平均存活時間比散發型庫賈氏病長 | | | | (D) 大多數於腦脊髓液中會有 14-3-3 蛋白,且可測得普利昂 (prion) | | | | 蛋白 | | | (#) | 8. 下列有關神經性梅毒(neurosyphilis)之敘述,何者錯誤? | 106(二)專 | | | (A) 10% 沒有接受治療的早期梅毒的患者會罹病 | 醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - (D) 11. 下列何項檢查結果對診斷單純疱疹性腦炎(herpes simplex ence-phalitis)最不具有特異性? 105( ) 專 - (A) 腦脊髓液的單純疱疹病毒的 PCR (polymerase chain reaction) 檢查呈陽性反應 - (B) 腦部磁振照影檢查發現大腦之額葉和顳葉受侵犯 - (C) 腦波出現單側週期性癲癇波 (periodic lateralized epileptic discharges, PLEDs) - (D) 血清中抗疱疹病毒抗體上升 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - 【詳解】(A) 正確,也因此中樞神經破壞範圍較大,預後較差。(B) 並無周邊神經病變的表現。(C) NMO 的預後比 MS 差。(D) 兩者的 CSF 的蛋白質均會升高;但 NMO 確實比較少 oligoclonal band。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- | (C) 11. | 腦脊髓液檢查的結果,下列那一個組合對診斷多發性硬化症 | 102(二)專 | |---------|-----------------------------------------------------|---------| | | (multiple sclerosis)最有幫助? | 醫四 -58 | | ( | ① 蛋白電泳分析出現寡株帶(oligoclonal bands) | | | ( | ②蛋白質降低 | | | | ③糖值降 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...--------------------------------------------------------------------------------------------|-----------------| | | (B) 腦脊髓液(C) 腦波電流圖 (EEG)(D) 核磁共振 (MRI) | | | (C) 17. | 一位 28 歲女性,近三年來經常發生手腳麻而無力、臉歪、視力模糊,時好時壞,根據這二張 MRI 的 FLAIR 影像,最可能的診斷是: | | | | (A) CNS tuberculosis(B) CNS cryptococcal infection(C) multiple sclerosis | | | (D) 18. | (D) metas Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 
 ## Clinical Caveats
 

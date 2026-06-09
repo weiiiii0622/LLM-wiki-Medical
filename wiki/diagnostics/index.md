@@ -17,6 +17,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 
 - [[diagnostics/acth-stimulation-test|ACTH stimulation test (ACTH 刺激試驗)]] - 評估腎上腺皮質醇分泌能力。
 - [[diagnostics/amniocentesis|Amniocentesis (羊膜穿刺)]] - 以穿刺取得羊水做染色體、基因或感染檢測；需依孕週、適應症與流產風險評估。
+- [[diagnostics/amsler-grid|Amsler grid (Amsler 方格表)]] - Amsler grid 用於偵測 central scotoma 或 metamorphopsia，常用於黃斑病變追蹤。
 - [[diagnostics/anion-gap|Anion gap (陰離子間隙)]] - 用 Na、Cl、HCO3 估計未測量陰離子，輔助代謝性酸中毒鑑別。
 - [[diagnostics/ankle-brachial-index|Ankle-brachial index, ABI (踝肱指數)]] - 以下肢與上肢收縮壓比值評估 peripheral arterial disease 嚴重度與追蹤治療反應。
 - [[diagnostics/anti-ccp-antibody|Anti-CCP antibody (抗環瓜氨酸抗體)]] - RA 診斷與預後評估的重要自體抗體，特異性較 RF 高。
@@ -49,6 +50,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/colonoscopy|Colonoscopy (大腸鏡)]] - 評估下消化道出血、IBD、腫瘤與慢性腹瀉的重要檢查。
 - [[diagnostics/colposcopy|Colposcopy (陰道鏡)]] - 放大檢視子宮頸轉化區並導引 biopsy，用於異常抹片或 HPV 風險評估。
 - [[diagnostics/coombs-test|Coombs test (庫姆氏試驗)]] - 偵測 RBC 表面或血漿抗紅血球抗體，用於 immune hemolysis 與輸血前評估。
+- [[diagnostics/cover-uncover-test|Cover-uncover test (遮蓋試驗)]] - 遮蓋試驗區分 phoria/tropia 並評估斜視方向與大小。
 - [[diagnostics/ct-pulmonary-angiography|CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)]] - 肺栓塞常用影像診斷。
 - [[diagnostics/cystometry|Cystometry / cystometrogram, CMG (膀胱壓力圖)]] - 灌注膀胱並量測 Pves/Pabd/Pdet、容量、感覺與順應性，是尿路動力學核心項目。
 - [[diagnostics/d-dimer|D-dimer (D-二聚體)]] - 低風險肺栓塞排除策略常用檢驗。
@@ -66,10 +68,14 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/fetal-fibronectin|Fetal fibronectin (胎兒纖維連結蛋白)]] - 陰道/子宮頸分泌物 fFN 可輔助預測近期早產風險，陰性預測價值較高。
 - [[diagnostics/fine-needle-aspiration-cytology|Fine needle aspiration cytology, FNA (細針抽吸細胞學)]] - 甲狀腺結節與其他表淺腫塊常用細胞學檢查，用於良惡性分流與手術決策。
 - [[diagnostics/flow-cytometry|Flow cytometry (流式細胞術)]] - 以表面標記與細胞特徵分類白血病、淋巴瘤、PNH 等血液疾病。
+- [[diagnostics/fluorescein-angiography|Fluorescein angiography, FA (螢光眼底血管攝影)]] - FA 評估 retinal/choroidal circulation、血管滲漏、缺血與 neovascularization。
+- [[diagnostics/fluorescein-staining-eye|Fluorescein staining (眼科螢光染色)]] - 眼表螢光染色可顯示角膜上皮缺損、abrasion、ulcer pattern 或 open globe 漏水。
 - [[diagnostics/focused-assessment-with-sonography-for-trauma|FAST exam (創傷超音波快速評估)]] - 外傷病人床邊超音波快速評估腹腔、心包膜或胸腔液體。
 - [[diagnostics/fractional-excretion-of-sodium|Fractional excretion of sodium, FENa (鈉分率排泄)]] - 用尿鈉與肌酸酐估計腎小管鈉處理，輔助 AKI 分型。
+- [[diagnostics/fundoscopy|Fundoscopy (眼底檢查)]] - 眼底檢查觀察 optic disc、retina、macula 與血管，支撐糖尿病、高血壓、視神經與視網膜疾病判讀。
 - [[diagnostics/glasgow-coma-scale|Glasgow Coma Scale, GCS (格拉斯哥昏迷指數)]] - 以 eye、verbal、motor response 評估意識程度，常用於腦傷、中風與急症神經評估。
 - [[diagnostics/gleason-score|Gleason score (Gleason 攝護腺癌分級)]] - 攝護腺癌病理分級系統，以主要與最高等級 pattern 加總，反映腫瘤侵襲性與治療風險分層。
+- [[diagnostics/gonioscopy|Gonioscopy (隅角鏡檢查)]] - 以特殊鏡片評估前房隅角開閉與次發性變化，是 angle-closure glaucoma 分類關鍵。
 - [[diagnostics/group-b-streptococcus-screening-pregnancy|Group B Streptococcus screening in pregnancy (妊娠乙型鏈球菌篩檢)]] - 妊娠後期篩檢 GBS colonization，陽性或高風險者生產時給予抗生素以預防新生兒感染。
 - [[diagnostics/growth-chart|Growth chart (生長曲線)]] - 兒童生長評估工具，需連續追蹤身高、體重、頭圍與 growth velocity。
 - [[diagnostics/hba1c|Hemoglobin A1c, HbA1c (糖化血色素)]] - 反映近期平均血糖並作為糖尿病診斷與控制目標。
@@ -95,6 +101,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/nikolsky-sign|Nikolsky sign (Nikolsky 徵象)]] - 輕壓或摩擦使表皮剝離，見於 SSSS、pemphigus vulgaris、TEN 等表皮內或表皮壞死疾病。
 - [[diagnostics/nocturnal-penile-tumescence-test|Nocturnal penile tumescence test, NPT (夜間陰莖勃起監測)]] - 評估睡眠中自然勃起以區分 psychogenic 與 organic erectile dysfunction。
 - [[diagnostics/nonstress-test|Nonstress test, NST (無壓力試驗)]] - 以胎心率加速反映胎兒氧合與自主神經反應，是常用 antepartum fetal surveillance。
+- [[diagnostics/optical-coherence-tomography|Optical coherence tomography, OCT (光學同調斷層掃描)]] - OCT 提供 retina、macula 與 optic nerve head 橫切影像，可評估黃斑水腫、macular hole、ERM 與 glaucoma RNFL。
 - [[diagnostics/oral-glucose-tolerance-test|Oral glucose tolerance test, OGTT (口服葡萄糖耐受試驗)]] - 用於診斷糖尿病、糖尿病前期與妊娠糖尿病。
 - [[diagnostics/osmolal-gap|Osmolal gap (滲透壓間隙)]] - 實測與計算血漿滲透壓差，可輔助 toxic alcohol 等鑑別。
 - [[diagnostics/ottawa-ankle-rules|Ottawa ankle rules (Ottawa 足踝 X 光規則)]] - 急性足踝傷害是否需 X-ray 的臨床規則，依 malleolar/midfoot tenderness 與負重能力判斷。
@@ -109,8 +116,10 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/pulmonary-function-test|Pulmonary function test, PFT (肺功能檢查)]] - 區分阻塞型、限制型與擴散障礙。
 - [[diagnostics/reticulocyte-production-index|Reticulocyte production index, RPI (網狀紅血球生成指數)]] - 校正貧血程度與 reticulocyte 成熟時間後評估骨髓造血反應。
 - [[diagnostics/rheumatoid-factor|Rheumatoid factor, RF (類風濕因子)]] - RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。
+- [[diagnostics/schirmer-test|Schirmer test (Schirmer 淚液測試)]] - 以濾紙測量淚液分泌量，是 dry eye 與 Sjogren syndrome 的輔助檢查之一。
 - [[diagnostics/semen-analysis|Semen analysis (精液分析)]] - 男性不孕第一線檢查，評估精液量、精蟲濃度、活動力、前進度與型態。
 - [[diagnostics/serum-ascites-albumin-gradient|Serum-ascites albumin gradient, SAAG (血清腹水白蛋白梯度)]] - SAAG 協助判斷腹水是否與門脈高壓相關。
+- [[diagnostics/slit-lamp-examination|Slit-lamp examination (裂隙燈檢查)]] - 裂隙燈放大檢查眼瞼、結膜、角膜、前房、虹膜與水晶體，是 anterior segment 評估核心工具。
 - [[diagnostics/stool-osmotic-gap|Stool osmotic gap (糞便滲透壓差)]] - 協助區分滲透性與分泌性腹瀉。
 - [[diagnostics/stress-test|Stress testing (壓力測試)]] - 用於評估冠狀動脈缺血，依運動能力與基礎 ECG 選擇方式。
 - [[diagnostics/suicide-risk-assessment|Suicide risk assessment (自殺風險評估)]] - 評估自殺意念、計畫、手段可近性、過去企圖、精神疾患、物質使用、保護因子與支持系統。
@@ -119,6 +128,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/thyroid-function-tests|Thyroid function tests (甲狀腺功能檢查)]] - TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。
 - [[diagnostics/thyroid-ultrasonography|Thyroid ultrasonography (甲狀腺超音波)]] - 評估 thyroid nodule 的 cystic/solid、鈣化、邊緣、血流與 FNA 導引。
 - [[diagnostics/toast-stroke-classification|TOAST stroke classification (TOAST 中風病因分類)]] - 急性缺血性中風病因分類，包含 large artery atherosclerosis、cardioembolism、small vessel 等。
+- [[diagnostics/tonometry|Tonometry (眼壓測量)]] - 眼壓測量用於 glaucoma 評估與急性紅眼鑑別，需結合角膜厚度、視神經與視野判讀。
 - [[diagnostics/tumor-markers|Tumor markers (腫瘤標記)]] - 腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。
 - [[diagnostics/tumor-staging|Tumor staging (腫瘤分期)]] - 腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。
 - [[diagnostics/tzanck-smear|Tzanck smear (Tzanck 抹片)]] - 水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。
@@ -130,4 +140,6 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/urodynamic-study|Urodynamic study (尿路動力學檢查)]] - 評估下泌尿道儲尿與排尿功能的檢查群，包含 uroflowmetry、cystometry、pressure-flow study 與 sphincter EMG。
 - [[diagnostics/uroflowmetry|Uroflowmetry (尿流速測定)]] - 量測尿流曲線與 maximum flow rate，用於初步評估 obstruction 或 detrusor underactivity。
 - [[diagnostics/viral-hepatitis-serology|Viral hepatitis serology (病毒性肝炎血清學)]] - 用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。
+- [[diagnostics/visual-acuity-test|Visual acuity test (視力檢查)]] - 視力檢查評估中心視覺，pinhole 改善常提示 refractive component。
+- [[diagnostics/visual-field-test|Visual field test (視野檢查)]] - 視野檢查用於 glaucoma、視神經與視覺路徑病變追蹤，需結合可靠度指標與眼底/影像。
 - [[diagnostics/wood-lamp-examination|Wood lamp examination (伍氏燈檢查)]] - 紫外光輔助辨識 erythrasma、pityriasis versicolor、部分 tinea 與色素異常。

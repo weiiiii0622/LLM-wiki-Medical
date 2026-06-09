@@ -15,7 +15,9 @@ Normal function and pathways.
 
 ## Pages
 
+- [[physiology/accommodation|Accommodation (調節作用)]] - 睫狀肌與水晶體改變屈光力以看近物；老化後調節力下降形成 presbyopia。
 - [[physiology/airway-inflammation|Airway inflammation (氣道發炎)]] - 氣喘 phenotype 與控制藥物選擇的免疫基礎。
+- [[physiology/aqueous-humor-dynamics|Aqueous humor dynamics (房水動力學)]] - 房水由睫狀體生成，經 trabecular meshwork/Schlemm canal 與 uveoscleral pathway 排出；失衡造成 intraocular pressure 上升。
 - [[physiology/bilirubin-metabolism|Bilirubin metabolism (膽紅素代謝)]] - 膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。
 - [[physiology/calcium-homeostasis|Calcium homeostasis (鈣離子恆定)]] - PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。
 - [[physiology/colorectal-physiology|Colorectal physiology (大腸直腸生理)]] - 大腸負責水分電解質吸收、菌叢代謝與糞便儲存排出；肛門括約肌與直腸感覺參與 continence。
@@ -38,6 +40,7 @@ Normal function and pathways.
 - [[physiology/lower-urinary-tract-function|Lower urinary tract function (下泌尿道儲尿與排尿功能)]] - 膀胱、尿道括約肌、交感/副交感/體神經與橋腦排尿中樞協調儲尿與排尿。
 - [[physiology/male-reproductive-endocrine-axis|Male reproductive endocrine axis (男性生殖內分泌軸)]] - GnRH-LH/FSH-testosterone 軸調控 Leydig cell testosterone 與 Sertoli cell spermatogenesis。
 - [[physiology/maternal-physiologic-changes-pregnancy|Maternal physiologic changes in pregnancy (妊娠母體生理變化)]] - 妊娠造成心輸出量、血容量、腎血流/GFR、呼吸通氣、凝血與皮膚/胃腸泌尿系統變化，影響正常檢驗值與臨床處置。
+- [[physiology/ocular-motility|Ocular motility (眼球運動)]] - 眼外肌、cranial nerves III/IV/VI 與雙眼協調法則決定眼位與複視定位。
 - [[physiology/oxygenation-and-ventilation|Oxygenation and ventilation (氧合與通氣)]] - 區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。
 - [[physiology/preload-afterload|Preload and afterload (前負荷與後負荷)]] - 理解心衰竭、瓣膜病與血管擴張藥物效果的基本概念。
 - [[physiology/raa-system|Renin-angiotensin-aldosterone system, RAAS (腎素-血管張力素-醛固酮系統)]] - 心衰竭與高血壓治療的重要神經荷爾蒙路徑。
@@ -45,5 +48,7 @@ Normal function and pathways.
 - [[physiology/renal-potassium-handling|Renal potassium handling (腎臟鉀離子處理)]] - 遠端腎小管與 aldosterone 決定鉀排泄，是高/低血鉀鑑別核心。
 - [[physiology/renal-sodium-water-handling|Renal sodium and water handling (腎臟鈉水處理)]] - 腎臟透過 ADH、aldosterone、GFR 與 tubule transport 維持鈉水平衡。
 - [[physiology/skin-barrier-function|Skin barrier function (皮膚屏障功能)]] - 角質層、脂質與免疫細胞共同減少水分散失並抵禦外界刺激與病原。
+- [[physiology/tear-film|Tear film (淚膜)]] - 淚膜由脂質、水液與黏液層維持眼表濕潤與光學平整，異常會造成 dry eye symptoms。
 - [[physiology/ventilation-perfusion|Ventilation-perfusion matching, V/Q (通氣灌流匹配)]] - 低氧血症與肺栓塞、肺炎、ARDS 等疾病的重要生理概念。
 - [[physiology/ventricular-remodeling|Ventricular remodeling (心室重塑)]] - 心肌傷害後結構與功能變化，與心衰竭進展相關。
+- [[physiology/visual-pathway|Visual pathway (視覺路徑)]] - 視覺訊號由 retina、optic nerve、chiasm、tract、LGN、optic radiation 到 visual cortex，病灶位置決定視野缺損型態。

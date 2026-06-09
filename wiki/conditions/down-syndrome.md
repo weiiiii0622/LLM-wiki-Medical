@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book2-ch08]]"
 aliases:
   - 'Down syndrome / Trisomy 21 (唐氏症)'
   - 'Down syndrome / Trisomy 21'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-第 21 對染色體三體症，與先天心臟病、腸胃道異常、甲狀腺與血液疾病風險相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+第 21 對染色體三體症，與先天心臟病、腸胃道異常、甲狀腺與血液疾病風險相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book2-ch08]]
 
 ## Key Details From Sources
 
+- ...染(如先天性德國麻疹感染)有關。 - (2) 雙眼先天性白內障則較常與顯性遺傳(具家族史)有關,其中約60%病患可發現患有先天性代謝疾病(如半乳糖血症 galactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...後會迅速被清除,正常情 | | | | | | 況下,產後2天即可完全清除。 | | | | | 安全性 | ・非侵入性、無流產、無感染風險 | | | | | 準確性 | NIPT 目前的檢測率如下(單胞胎) | | | | | | • Trisomy 21: 99.5% • Trisomy 18: 97.7% • Trisomy 13: 96.1% | | | | | 應 用 | · 為篩檢工具,篩檢陽性仍須侵入性檢查 ( 如羊膜穿刺或絨毛 | | | | | | 取樣)進一步確診。 | | | | | 限制 | 檢測失敗的比率約 1~5%,而以下情況會造成胎兒游離 DNA 比 | | | | | | 例下降,導致檢測失敗 | | | | | | ・ 孕期 10 週前採血 ・ 檢體採集或 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - c. 第二孕期(15~18 週):四指標母血唐氏症篩檢包括 AFP(alpha-feto protein)、 β-HCG,uE3 和 inhibin A;準確率 83%。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -68,9 +71,6 @@ tags:
 - Ⅱ. 染色體異常疾病 417 - A. 愛德華氏症= Trisomy 18 417 - B. 唐氏症 (Down syndrome) 418 - C. Fragile X syndrome 421 - D. DiGeorge's 症候群(CATCH 22) 422 - E. 馬凡症候群(Marfan's syndrome) 424 - F. 威爾森氏病 (Wilson disease) 425 - G. 透納氏症(Turner syndrome) 427 - H. 努南氏症 (Noonan synfrome) 429 - I. 其他 432 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 第二部分我稱為染色體異常疾病,這部分包括:愛德華氏症、唐氏症、CATCH 22、Fragile X syndrome,以及馬凡氏症。這些疾病少有代謝方面合併症,而是在外觀上常有令人印象深刻的特徵,染色體篩檢往往也可以找出很明確的染色體異常。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - # B. 唐氏症 (Down syndrome) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (D) 唐氏症候群(Down syndrome) Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (C) 唐氏症(Down syndrome) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 3. 危險因子:某些特殊疾病的病童得到 ALL 機會比一般人高。 **Down syndrome**、Fanconi syndrome、Bloom syndrome、Diamond-Blackfan anemia、Shwachman syndrome、**Klinefelter syndrome、Turner syndrome**、 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 
 ## Clinical Caveats
 

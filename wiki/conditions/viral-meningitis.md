@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch19]]"
@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med6-book2-ch04]]"
 aliases:
   - 'Viral meningitis (病毒性腦膜炎)'
   - 'Viral meningitis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等造成。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等�
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med6-book2-ch04]]
 
 ## Key Details From Sources
 
+- (2) 單純疱疹結膜炎 (HSV conjunctivitis): - a. 簡介:多由 HSV1 造成,但 HSV2 可能由生產時感染到新生兒。 - b. 臨床表現:原發性感染多出現在兒童身上,眼瞼和眼眶周圍出現皮膚水疱。 此外,會造成瞼結膜炎、濾泡狀結膜炎、耳前淋巴結腫大、角膜樹枝狀潰瘍。 復發性感染可能造成角膜炎導致角膜結疤而失明或虹彩炎等。 - c. 治療:原發性感染多會自癒,或可局部使用 acyclovir 或口服 Acyclovir 400 mg 一天五次用十天(其他藥物這裡不多提)減緩症狀;若是 Recurrent ocular infe Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - 4. 臨床症狀依腫瘤壓迫的位置而異,常表現三叉神經痛(橋腦小腦角),後顱窩的話有小腦方面的症狀,鞍區和中顱窩則可表現視力障礙或視野缺損,長在脊柱內則可有腰痛、運動障礙、膀胱、直腸功能障礙。假使腫瘤破裂,囊腫內含物流至蜘蛛膜下腔引起發炎,造成無菌性腦膜炎(aseptic meningitis)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...(B) 伴有先天異常 (associated congenital malformations) | | | (C) 對放射性治療有效(responsive to radiation therapy) | | | (D) 無菌性腦膜炎 (aseptic meningitis) | | | (D) 19. Glioblastoma multiforme (GBM) 屬於 WHO classification system | 104(二)專 | | of glioma 中的: | 醫五-8 | | (A) Grade I | | | (B) Grade II | | | (C) Grade III | | | (D) Grade IV | | | | | Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...**再看 WBC**,如果加上 WBC 高 (> 5)、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低( 40 | 0~5 | 50~100 | Clear | 9~18 | | 病毒性腦膜炎 | 50~100 | 20 年): 侵犯腦實質、脊柱、背根神經節(tabes dorsalis; 步態不穩、感覺異常)、Argyll-Robertson 瞳孔。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
@@ -71,8 +74,6 @@ CSF 通常淋巴球為主、葡萄糖較正常，常由 enterovirus 或 HSV 等�
 - ...d),通常出生後 6~9 個月都還正常(此時還有媽媽的抗體保護),之後則陸續出現感染,常見 S. pneumoniae 或 H. influenza等有莢膜細菌感染造成鼻竇炎或肺炎。對病毒的抵抗力通常正常(因為 T 細胞正常),但肝炎病毒,enterovirus,及 polio 為例外。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (6) 對於某些病毒使用病毒用藥: enterovirus (pleconaril)、Epstein-Barr virus (acyclovir)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...itis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Enterovirus | Sepsis, DIC, hepatitis, myocarditis and meningoencephalitis. | | | Varicella zostervirus (VZV) | Cicatricial skin lesions. | | Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...| 醫三 -38 | | | (A) human immunodeficiency virus (HIV) | | | | (B) Parvovirus B19 | | | | (C) Coxsackievirus | | | | (D) Enterovirus | | | (A) 2 | D. 陣發性夜間血色素尿(paroxysmal nocturnal hemoglobinuria)的病人發生溶血的原因,是因為紅血球上缺乏何種抗原? | 102(一)專醫三-41 | | | (A) CD55, CD59 | | | | (B) CD16, CD66 | | | | (C) CD15, CD25 | | | | (D) CD11, CD14 | | | | | | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 
 ## Clinical Caveats
 

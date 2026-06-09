@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book6-ch10]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Lower motor neuron lesion, LMN lesion (下運動神經元病灶)'
   - 'Lower motor neuron lesion, LMN lesion'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-LMN lesion 常見 weakness、atrophy、fasciculation、hyporeflexia。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+LMN lesion 常見 weakness、atrophy、fasciculation、hyporeflexia。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ LMN lesion 常見 weakness、atrophy、fasciculation、hyporeflexia。 本頁已
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book6-ch10]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- (6) 眼底視網膜檢查及攝影:可檢查視神經盤可能出現的變化,如:正常、膨脹水腫、萎縮蒼白(atrophy)、出血(disc hemorrhage)、側枝分流血管(opto-ciliary shunt)等狀況。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...removal or coagulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the s Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - | 分類 | 細分類 | 解剖上病灶 | 肌肉張力 | 説明 | |------|---------|---------|-----------------------------|---------| | 陸辛田 | 上運動神經元 | 大腦、脊髓病灶 | 彈簧刀 (Clasp knife) | 拉開難、收回易 | | 隨意肌 | 下運動神經元 | 周邊神經病灶 | 低張力 (Hypotonia) | 拉開易、收回易 | | 不隨意肌 | 錐體外系統病灶 | 巴金森氏症 | 鉛管式 (Lead piperigidity) | 拉開難、收回難 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].

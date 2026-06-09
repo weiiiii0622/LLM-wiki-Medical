@@ -32,6 +32,7 @@ sources:
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Staphylococcus aureus infection (金黃色葡萄球菌感染)'
   - 'Staphylococcus aureus infection'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ tags:
 - [[sources/med5-book6-ch03]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - | 原因 | • 哺乳期間,細菌從乳頭傷口感染乳房 | | |-----|---------------------------------------------------------|--| | 致病菌 | • 最常見為 Staphylococcus aureus (金黃色葡萄球菌) | | | | • 其他如 Streptococci viridans 和 E. coli 等 | | | 症 狀 | • 乳房紅腫、脹痛、發燒和冷顫 | | | 處置 | • 消炎止痛藥使用伴隨冰敷以減輕乳房脹痛 | | | | • 持續哺乳或擠出乳汁,可避免膿瘍形成 | | | | • 經驗性抗生素須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacilli Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - (D) 乳腺炎最常見的細菌是 Staphylococcus aureus Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - (B) Staphylococcus aureus Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -97,8 +100,6 @@ tags:
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture 長出何種細菌,則會被認為是 antibiotic associated colitis? (A) Clostridium difficile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - 100(一)專醫五-11 | | (D) 22. 承上題,此時會選擇何種藥物治療? (A) 注射 clindamycin | 100(一)專醫五-12 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (4) 併發症:因反覆抓癢導致金黃色葡萄球菌或疱疹病毒(eczema herpeticum) 感染。少數會有錐形角膜(keratoconus)、白內障(cataracts)或角膜結膜炎(keratoconjunctivitis)。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (C) 有時需要做細菌培養來排除金黃色葡萄球菌(S. aureus) 感染的可能 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (B) 47. 關於異位性皮膚炎(atopic dermatitis)的敘述,何者錯誤? 100(一)專 (A) 皮膚的屏障功能(skin barrier function) 會降低 醫四 -36 - (B) 在成人的病灶好發於四肢伸側(extensor)部位 - (C) 患者易伴隨金黃色葡萄球菌皮膚感染 - (D) 大部分患者血清 IgE 值升高 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 
 ## Clinical Caveats
 

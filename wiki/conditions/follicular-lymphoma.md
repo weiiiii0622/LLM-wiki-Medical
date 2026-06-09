@@ -2,12 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch13]]"
   - "[[sources/med3-book4-ch15]]"
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med4-book1-ch04]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Follicular lymphoma (濾泡性淋巴瘤)'
   - 'Follicular lymphoma'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-indolent B cell lymphoma，常見 t(14;18)/BCL2。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+indolent B cell lymphoma，常見 t(14;18)/BCL2。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ indolent B cell lymphoma，常見 t(14;18)/BCL2。 本頁已整合至 `醫(四)�
 - [[sources/med3-book4-ch15]]
 - [[sources/med3-book4-ch19]]
 - [[sources/med4-book1-ch04]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...---------|-----|--------------------------------------|----| | 咽結膜熱(pharyngocon-junctivitis fever,PCF) | 腺病毒第 3、7 型 | - 濾泡性結膜炎 - 雙眼感染,通常發生在小孩 且伴隨上呼吸道感染、發燒 ,耳前淋巴結腫大,約 30% 人會發生角膜炎 | | 點狀上皮性角膜炎、局部角膜瘢痕形成,角膜 | | | 流行性角結膜炎 (epidemickeratoconjunc-tivitis, EKC) | 腺病毒第 8 、19 、37型 | - 濾泡乳突性結膜炎 - 常先由一隻眼開始,再擴 散至另一隻眼。畏光、水 狀分泌物、濾 泡性結膜炎 、 耳前淋巴腫大 ,不會導致 全身性疾 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (1) 初次感染:常見於幼兒,可能無症狀或是眼眶、眼瞼周圍有皮膚水泡,耳前淋 巴結腫痛。眼部表現為急性濾泡性瞼結膜炎,一些患者會出現上皮性角膜炎。 感染後,角膜神經敏感度下降,因此臨床症狀較輕微。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - 1. 咽結膜炎熱 (Pharyngo-conjunctival fever, PCF): - (1) 常見腺病毒 3型及 7型引起。 - (2) 症狀:類似感冒。發燒、喉痛及結膜炎為特徵,咽部扁桃腺發炎,頸部淋巴腺腫大,眼球及眼臉結膜呈濾泡性充血。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...all lymphoc | ytic lymphoma | | | | CD5(+) | | Mantle cell lymphor | na - Cyclin D1(+) | | | CD19(+) | O(+) | CD10(+) | Follicular lymphoma | | | Lymphocytosis | | | SD 10() | CD25(+) | Hairy cell leukemia | | (Lymphoma) | | | CD10(-) | CD25(-) | MALToma | | (-) inpirama) | | | | CD25(+) | Adult T cell lym. | | | CD3(+) | | | CD25(-) | Peripheral T cell lym Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...lent | Mantle cell lymphoma | t(11; 14) | BCL-1, IgH | | lymphoma | CLL/small lymphocytic lymphoma | t([4]; 15) | | | | Follicular lymphoma | t(14; [18]) | BCL-2, IgH | | | MALT lymphoma | t(11; 18) | API2/MALT, BCL-10 | | Aggressive | Diffuse large cell lymphoma | t(3; -), t(17; -) | BCL-6; p53 | | lymphoma | CD30+Anaplastic large cell lymphoma | a t(2;5) Source: [[sources/med3-book4-ch13|丁、急性白血病]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch03]]"
   - "[[sources/med3-book3-ch04]]"
@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Glomerulonephritis, GN (腎絲球腎炎)'
   - 'Glomerulonephritis, GN'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-腎絲球發炎疾病群，臨床可表現為 nephritic syndrome、RPGN 或慢性腎炎。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎絲球發炎疾病群，臨床可表現為 nephritic syndrome、RPGN 或慢性腎炎。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - d. 併發症:中耳炎、鼻竇炎、頸部淋巴腺炎、風濕熱、腎絲球腎炎。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 4. Postinfectious GN (poststreptococcal GN)\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
@@ -70,7 +73,6 @@ tags:
 - ...-----|------------------| | | mmHg,血液肌酸酐 1.0 mg/目前體重 65 kg,血壓 140/酐 2.0 mg/dL,尿液紅血球 20蛋白質 trace,胸部 X 光有不可能的診斷是:(A) 快速進行性腎絲球腎炎(C) 急性腎小管壞死 | 都沒有吃藥,平常體重 60 kg,血壓 120/80 dL。3 週前開始出現水腫、少尿與咳血。 100 mmHg,血色素 8.0 g/dL,血液肌酸 0~30/HPF,紅血球圓柱體(RBC cast)+,兩側肺泡浸潤(alveolar infiltrates)。最 (B) Goodpasture 氏症候群 (D) 紅斑性狼瘡腎炎 monary renal syndrome 之描述。 | 103(一)專醫三-7 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - A. 腎絲球疾病 (Glomerular disease) 72 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 - ## A. 腎絲球疾病 (Glomerular disease) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (1) 腎絲球的疾病分為兩大類: - a. 腎絲球發炎 (Glomerulonephritis, GN): - (a) 幾天內突然發生的稱作 Acute GN, 幾週內發生的稱作 Rapid progressive GN (RPGN), RPGN 病理特徵為 Crescent formation, 好幾個月才慢慢形成的稱為 Chronic GN (CGN); Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
 
 ## Clinical Caveats
 

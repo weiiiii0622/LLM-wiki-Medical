@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Craniopharyngioma (顱咽瘤)'
   - 'Craniopharyngioma'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-鞍上區腫瘤，可造成視交叉壓迫、內分泌異常與鈣化囊性病灶。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+鞍上區腫瘤，可造成視交叉壓迫、內分泌異常與鈣化囊性病灶。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch18]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- | 病灶位置 | 視野缺損的形態 | 可能疾病 | |-------|-------------------------------------------|----------------------------------| | 視交叉之前 | 同側單眼視野缺損 | 視神經炎 | | 視交叉 | 雙眼顳側視野缺損 (bitemporal visual field defect) | 腦下垂體腫瘤 (pituitarytumor)、顱咽管瘤 | | | | (craniopharyngioma) | | 視交叉之後 | 雙眼同側視野缺損 (homonynous | 腦瘤、血管阻塞、腦溢血、 | | | visual field defect) | 動脈瘤、腦炎 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...allmann's syndrome) | | hypogonadism) | Functional hypothalamic amenorrhea (厭食症、過度運 | | | 動、體重過輕或壓力引發等) | | | 中樞神經腫瘤 (如 craniopharyngioma) | | | 腦部受傷或接受放射線 | | 腦垂體異常 | 高泌乳素血症 (hyperprolactinemia) | | (Hypogonadotropic | 中樞神經腫瘤 (如 Pituitary prolactinoma) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原發性卵巢功能不全 | | | 多囊性卵巢症候群 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - M. 顱咽瘤(Craniopharyngioma) 212 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 6. 蝶鞍區腫瘤 (tumors of the sellar region): - (1) 顱咽瘤 (craniopharyngioma)。 - (2) 腦下腺瘤(pituitary tumor):前腦下腺細胞(adenohypophyseal cells)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

@@ -25,17 +25,22 @@ Organs, structures, and regions.
 - [[anatomy/central-nervous-system|Central nervous system, CNS (中樞神經系統)]] - 包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。
 - [[anatomy/cerebellum|Cerebellum (小腦)]] - 負責協調、平衡與動作修正，小腦病灶常表現 ataxia、dysmetria、nystagmus。
 - [[anatomy/colon|Colon (大腸)]] - 大腸疾病包含 IBD、感染性腸炎、出血與腫瘤。
+- [[anatomy/cornea|Cornea (角膜)]] - 角膜是主要屈光介質與眼表屏障，透明度仰賴規則膠原排列、內皮幫浦與完整淚膜。
 - [[anatomy/coronary-arteries|Coronary arteries (冠狀動脈)]] - LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。
 - [[anatomy/cranial-nerves|Cranial nerves (腦神經)]] - 十二對腦神經連結眼球運動、臉部感覺運動、聽平衡、吞嚥與自律神經功能。
 - [[anatomy/dermis|Dermis (真皮)]] - 真皮含膠原、彈性纖維、血管、神經與附屬器官，決定皮膚強度與彈性。
 - [[anatomy/epidermis|Epidermis (表皮)]] - 表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。
 - [[anatomy/esophagus|Esophagus (食道)]] - 食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。
+- [[anatomy/eye-anatomy|Eye anatomy (眼球解剖)]] - 眼球由眼球壁、內容物與附屬構造組成；臨床定位需連結 cornea、lens、uvea、retina、optic nerve 與 orbit。
 - [[anatomy/female-reproductive-anatomy|Female reproductive anatomy (女性生殖道解剖)]] - 女性生殖道包含外陰、陰道、子宮頸、子宮、輸卵管、卵巢與骨盆血管神經淋巴，影響手術與癌症轉移路徑。
 - [[anatomy/glomerulus|Glomerulus (腎絲球)]] - 腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。
 - [[anatomy/heart-valves|Heart valves (心臟瓣膜)]] - 瓣膜狹窄或逆流造成壓力/容量負荷與雜音。
 - [[anatomy/kidney|Kidney (腎臟)]] - 腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。
+- [[anatomy/lens-eye|Lens (水晶體)]] - 水晶體提供可調節屈光力；混濁造成 cataract，懸韌帶異常可造成 ectopia lentis。
 - [[anatomy/liver|Liver (肝臟)]] - 肝臟負責代謝、解毒、合成蛋白與膽汁生成。
 - [[anatomy/neuromuscular-junction|Neuromuscular junction, NMJ (神經肌肉接合處)]] - motor neuron 與 skeletal muscle 之間以 acetylcholine 傳遞訊號，是 MG、Lambert-Eaton、botulism 的病變位置。
+- [[anatomy/optic-nerve|Optic nerve (視神經)]] - 視神經傳遞視網膜 ganglion cell axons；病變可表現為視力下降、視野缺損、RAPD 或 optic disc swelling。
+- [[anatomy/orbit|Orbit (眼眶)]] - 眼眶容納眼球、眼外肌、神經血管與脂肪，疾病可造成 proptosis、眼球運動受限、疼痛或視神經壓迫。
 - [[anatomy/pancreas|Pancreas (胰臟)]] - 胰臟兼具外分泌消化酵素與內分泌血糖調控功能。
 - [[anatomy/parathyroid-glands|Parathyroid glands (副甲狀腺)]] - 副甲狀腺分泌 PTH，調控鈣磷平衡。
 - [[anatomy/peripheral-nerves|Peripheral nerves (周邊神經)]] - 周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。
@@ -43,9 +48,11 @@ Organs, structures, and regions.
 - [[anatomy/pleura|Pleura (肋膜)]] - 肋膜腔疾病包含積液、氣胸與膿胸。
 - [[anatomy/prostate-zones|Prostate zones (攝護腺分區)]] - 攝護腺周邊區常發生 prostate cancer，transition zone 常發生 BPH，分區影響 DRE、TRUS 與切片策略。
 - [[anatomy/renal-tubule|Renal tubule (腎小管)]] - 腎小管調控水、電解質、酸鹼與藥物/毒物處理。
+- [[anatomy/retina|Retina (視網膜)]] - 視網膜含感光細胞、神經細胞與 retinal pigment epithelium，是黃斑病變、血管阻塞與剝離的核心部位。
 - [[anatomy/skin|Skin (皮膚)]] - 身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。
 - [[anatomy/skin-appendages|Skin appendages (皮膚附屬器官)]] - 毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。
 - [[anatomy/small-intestine|Small intestine (小腸)]] - 小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。
 - [[anatomy/spinal-cord|Spinal cord (脊髓)]] - 傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。
 - [[anatomy/stomach|Stomach (胃)]] - 胃酸分泌、黏膜保護與幽門螺旋桿菌相關疾病是消化內科核心。
 - [[anatomy/thyroid-gland|Thyroid gland (甲狀腺)]] - 甲狀腺分泌 T4/T3，調控代謝與多器官功能。
+- [[anatomy/uvea|Uvea (葡萄膜)]] - 葡萄膜包含虹膜、睫狀體與脈絡膜，與發炎、腫瘤、房水生成及 blood-ocular barrier 有關。

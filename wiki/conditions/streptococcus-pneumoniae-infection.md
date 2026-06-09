@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med6-book2-ch06]]"
 aliases:
   - 'Streptococcus pneumoniae infection (肺炎鏈球菌感染)'
   - 'Streptococcus pneumoniae infection'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med6-book2-ch06]]
 
 ## Key Details From Sources
 
+- (2) 感染:由角膜潰瘍擴散而來。常見致病菌有綠膿桿菌、Streptococcus pneumoniae、帶狀皰疹病毒等。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - 2. 致病菌:過去常為鏈球菌(Streptococcus)或肺炎球菌(Pneumococcus)肺炎引起,現在葛蘭氏陰性菌(Gram-negative)和厭氧菌(anaerobic)也很常見,近期結核菌膿胸也突然增加。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 急性心內膜炎:病情較惡,病人大多無潛在性心臟病灶,常見致病菌為 S. aureus、Streptococcus pyogenes、Streptococcus pneumoniae、Pseudomonas aeruginosa。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (3) 移植六個月之後,移植受贈者的情況較穩定,感染就跟一般社會大眾一樣 (community-acquired),如流感、泌尿道感染及肺炎雙球菌肺炎。唯一伺機性 病毒感染為 herpes zoster;而 CMV 視網膜炎則較罕見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
@@ -80,7 +83,6 @@ tags:
 - C. 肺炎雙球菌 (Streptococcus pneumoniae) 129 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ## C. 肺炎雙球菌 (Streptococcus pneumoniae) Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- ...--------------------------|------| | | 觸媒陰性 | Streptococcus 鏈球菌 | S. pyogenes, S. agalactiae, Enterococcus, S. viridan, S. pneumoniae | . 嗜氧 | | | 產孢子 | Bacillus 桿菌屬 | B. anthracis, B. cereus | 嗜氧 | | 革蘭氏陽性 | 座10丁 | Clostridium 梭狀桿菌屬 | C. botulinum, C. tetani, C. perfringens, C. difficile | 厭氧 | | 桿菌 GPB(B) | 小金畑子 | Corynebacterium diphtheria | ne ( 白 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

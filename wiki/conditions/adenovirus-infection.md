@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med6-book2-ch04]]"
 aliases:
   - 'Adenovirus infection (腺病毒感染)'
   - 'Adenovirus infection'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-可造成咽結膜熱、肺炎、腸胃炎與出血性膀胱炎等多系統感染。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成咽結膜熱、肺炎、腸胃炎與出血性膀胱炎等多系統感染。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,13 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med6-book2-ch04]]
 
 ## Key Details From Sources
 
+- a. 偽膜:附著於發炎的黏膜上皮上的凝固滲出物,特徵是可以很容易地撕開且不會流血。常見原因有嚴重的腺病毒感染和淋菌性結膜炎、Stevens-Johnson 症候群。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (1) 腺病毒角結膜炎(Adenoviral keratoconjunctivitis):症狀從輕微幾乎無症狀到嚴重都有,傳染性強但通常具有自限性。潛伏期 5~12 天,結膜炎發生後 2~3 週病毒即消失。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- | 常見腺病毒角結膜炎 | 病毒 | 特徵 | 結膜炎 | 角膜炎 | 治療 | |----------------------------------------------------------|-----------------------------|------------------------------------------------------------------------------------------------ Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - XIV. 腺病毒 (Adenovirus) 191 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 與急性中耳炎相同,急性鼻竇炎最常見的病原體為 *S. pneumonia*、nontypeable *H. influenzae、M. catarrhalis*。另外,病毒感染常見則有腺病毒、鼻病毒、流感病毒、副流感病毒等。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - C. 病因:以副流感病毒(parainfluenza virus)最常見,佔 croup 約 67%,第二常見為呼吸道融合病毒(RSV)。另外,流感病毒或腺病毒也會引起哮吼。細菌感染也有機會引發哮吼,只是不若病毒常見。(任何造成呼吸道感染的病原體都有機會引發哮吼) Source: [[sources/med4-book1-ch04|丁、感染科學]].

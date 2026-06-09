@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Hyperuricemia (高尿酸血症)'
   - 'Hyperuricemia'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- 2. 帶狀病變(band keratopathy): 因鈣鹽沉積在 Bowman 氏膜的前部,角膜呈帶狀混 濁伴有鈣質沉積。明顯影響視力,多繼發於眼部疾病(慢性前葡萄膜炎、慢性虹彩炎)或某些代謝性疾病(高血鈣、高血磷、高尿酸、慢性腎衰竭)。治療以螯合法將 EDTA 與鈣化物結合後移除或雷射。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - (C) 1. 關於痛風(gout)及偽痛風(pseudogout)之敘述,下列何者錯誤? (A) 痛風性關節炎主要是尿酸(uric acid)沈積,而偽痛風又名 calcium pyrophosphate dihydrate(CPPD)deposition disease, 主要是焦磷酸鹽沈積為主 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (A) 在急性發作時,血清中尿酸(uric acid) 值一定增高 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (C) 長期高尿酸血症的患者,常可見到半月軟骨(meniscus) 發 生軟骨鈣質沉著病(chondrocalcinosis) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
@@ -74,7 +77,6 @@ tags:
 - (A) 2. 高尿酸血症(hyperuricemia)是造成痛風(gout)的最主要原因, 108(-)專 下列關於造成高尿酸血症的敘述何者正確? 醫三-29 - (A) hypoxanthine phosphoribosyl transferase (HPRT) 基因位在 X 染色體上,當此基因突變時會造成高尿酸血症 - (B) uric acid 由肝臟代謝,因此肝臟功能不全時會造成高尿酸血症 - (C) 利尿劑(diuretics)會增加尿酸從尿液排出而降低血中尿酸 - (D) acute myeloid leukemia(AML)在化學治療時會產生高尿酸血症,因此可用 benzbromarone 來預防高尿酸血症 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - ...mphocyte 12.25%,血小板 319,000/mm³,白血球鹼性磷酸酶(LAP)活性 28,LDH 1,148 U/L,AST 50 U/L,ALT 23 U/L。下列何項檢查對診斷此男士白血球過多症的原因最有幫助? - (A) Uric acid - (B) Hepatitis B and C serology - (C) X-ray of the right big toe - (D) Bone marrow chromosome analysis Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - 【詳解】leukemoid reaction 和 leukemia 區別除了 LAP score 之外,就是 BM aspiration。此外本 case 其周邊血液的 basophil 高達 4.5%,要想到 CML。所以做骨髓穿刺是合理的。題目是問白血球過多症的原因鑑別,如果是問大拇趾關節處紅腫疼痛的原因診斷,則抽uric acid 是合理的。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- 3. 臨床表現: - (1) 細胞內的離子釋出→血中 K ↑、Uric acid ↑;血中 PO4 ↑所以血中 Ca ↓ - (2) 腎衰竭 (Urate nephropathy) Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 

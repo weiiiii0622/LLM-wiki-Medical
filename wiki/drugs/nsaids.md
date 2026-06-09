@@ -35,6 +35,7 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book2-ch06]]"
 aliases:
   - 'NSAIDs (非類固醇消炎藥)'
   - 'NSAIDs'
@@ -49,7 +50,7 @@ tags:
 
 ## Summary
 
-抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +85,12 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch02]]
+- [[sources/med6-book2-ch06]]
 
 ## Key Details From Sources
 
+- 3. 治療:通常不需要。若病情較嚴重可給潤滑劑、局部(或口服) NSAID 和局部類 固醇。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
+- ...障,因房角粘連可形成繼發性青光眼。 - h. 治療:針對病因治療(如感染或免疫性疾病)、可給局部或口服類固醇(通常治療用口服開始)或免疫抑制劑,若是 non-necrotizing scleritis 且是 diffuse 類型可以給口服 NSAID。若合併前葡萄膜炎時,可用局部 atropine 眼藥水散瞳,減少疼痛。 - (2) 後鞏膜炎:發生於眼球赤道部後方的鞏膜。 - a. 症狀為疼痛、視力不佳、輕度凸眼和眼球轉動受限制、複視(若侵犯到眼外肌)、眼底視神經盤水腫、脈絡膜皺摺、漿液性視網膜剝離等。 - b. 治療:同前鞏膜炎。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - ...) | β₂ agonist( ↑ intracellularcAMP) | ・心臓病・控制不良的糖尿病或甲狀腺亢進・大出血 | 心悸、心跳加速、胸悶、氣促、低血壓低血鉀、高血糖肺水腫 | ・紀錄 I/O・監測心跳・監控血糖和血鉀 | | Indomethacin | COX inhibitor ( ↓ Prostaglandins 、 ↓ intracellular Ca) | ・肝腎功能異常・血小板功能異常・腸胃潰瘍・氣喘 | ・ 噁心嘔吐・ 胃痛・ 血小板功能異常 | ・胎兒 PDA 提早關閉 (32 週後使用)・羊水減少 (使用超過 72 小時) | | Nifedipine(Adalat) | Calcuim channelblocker(↓ intracellular Ca) | ・ Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - | 妊娠時間 | 藥物選擇與注意事項 | |------------|----------------------------------------------| | 妊娠 24~32 週 | • 第一線可使用 indomethacin | | | (超過 32 週不可使用,而使用時間超過 72 小時也要注意胎兒 | | | 動脈導管的早期關閉。) | | | ・第二線可使用 Nifedipine | | | ( 若和 MgSO 4 併用要注意鎂中毒。) | | 妊娠 32~34 週 | • 第一線可使用 Nifedipine。 | | | ・第二線可使用 β agonist ( 如:Ritodrine) 或 Atosiban。 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...感染可能造成疱疹性腦炎;急性期約 4~5 天,病灶癒合需要 8~10 天,病毒會潛伏於薦椎神經節,日後可能復發; - c. 診斷:病毒培養、ELISA 或免疫螢光法偵測病毒抗原。 - d. 治療:冰敷、局部麻醉(2% lidocaine)、NSAID 和 acyclovir 3% 軟膏,以及 發病五天內使用口服 acyclovir 200 mg 一天 5 次,約 5 天可減緩局部症狀、縮 短病程,但無法消滅病毒。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -103,8 +107,6 @@ tags:
 - (1) 保守治療,給予 NSAID、局部注射類固醇 抑制發炎。 Source: [[sources/med5-book6-ch06|己、手部]].
 - ...ulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the s Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- b. 尿酸(uric acid)結石:占結石 5%,好發於男性,特別是有痛風病史、骨髓增生症(myeloproliferative diseases)、快速減重、用 cytotoxic 藥物治療惡性腫瘤的人。常因脫水或攝取高 purine 食物,導致尿中尿酸增加(故尿 pH 0.5 cm 僅 15% 排出率。(因為輸尿管 徑 $0.3\sim0.5$ cm) - (2) 結石位置: 結石在輸尿管下段 50%、中段 25%、上段 10% 排出率。(因為輸尿管長 25 cm) - (3) 併用藥物:NSAID (標準一線)、alpha-blocker (增加 45% 排出率,小心血壓,可用 Urief 或 Harnalidge)。另外使用副交感拮抗劑 (antimuscarinics) 也可緩解症狀加速結石排出。 Source: [[sources/med5-book5-ch05|戊、結 石]].
-- 2. 藥物引發:長期 NSAID、Aspirin、Plavix 或合併 steroid 使用容易造成消化性潰瘍。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 
 ## Clinical Caveats
 

@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Streptococcus pyogenes infection (A 群鏈球菌感染)'
   - 'Streptococcus pyogenes infection'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 - [[sources/med5-book4-ch11]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch17]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - ...| | | | 或寡尿才考慮抽腹水 | | | | | | 目前觀念 積極抽腹水,只要有中度以上腹水,病人 | | | | | | 臨床上有不適即可抽腹水 | | | | | ・預防血栓 | (1) 診斷方法:arterial blood gas、ventilation/perfusion | | | | | | scan 和 CT scan。 | | | | | | (2) 預防方法: 穿彈性襪、給予 heparin (Hct > 55% 考 | | | | | | 慮給予 | ) • | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (1) 使用 $CO_2$ 的優點:血液的溶解度高,發生 gas embolism 機率較低,且不會氣爆; Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
 - 6. 檢查 & 診斷:腹部 X 光呈氣腸壁(pneumatosis intestinalis),為細菌發酵腸壁產生氫氣,或呈現肝門靜脈氣(portal venous gas)、腹水、固定的小腸扭結環(fixed loops of small bowel)、腸道外氣體(站立或平躺,ex:football sign)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -80,7 +83,6 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 - 從咽喉處採集檢體做 GAS antigen detection test 與病原體的培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 猩紅熱的致病機轉和 A 群鏈球菌 (Group A streptococcus) 所產生的內毒素 (Endotoxin) 有關 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...abdomen | Surgery | | Atresia + distalTEF | Newborns | Regurgitation of feedings Aspiration | Esophagogram Plain film: gas-filled abdomen | Surgery | | H-type TEF | Infants to adults | Recurrent pneumoniaBronchiectasis | EsophagogramBronchoscopy † | Surgery | | Esophageal stenosis | Infants to adults | DysphagiaFood impaction | Esophagogram Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...喝奶後 15 分鐘响 | 显 103( − ) 專 | |-----|------------------------------------------------|--------------| | | 吐,嘔吐物不含膽汁,blood gas 呈現 metabolic alkalosis。最有可 | 可 醫四-10 | | | 能的診斷是: | | | | (A) gastroesophageal reflux | | | | (B) infantile hypertrophic pyloric stenosis | | | | (C) choledochal cyst | | | | (D) duodenal atresia | | | | 【詳解】(A)(C)(D) 嘔 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

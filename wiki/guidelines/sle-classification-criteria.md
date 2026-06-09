@@ -2,7 +2,7 @@
 type: guideline
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch03]]"
@@ -19,6 +19,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'SLE classification criteria (SLE 分類準則)'
   - 'SLE classification criteria'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-SLE 分類準則整合皮膚、關節、漿膜、腎臟、神經、血液與免疫指標。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SLE 分類準則整合皮膚、關節、漿膜、腎臟、神經、血液與免疫指標。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ SLE 分類準則整合皮膚、關節、漿膜、腎臟、神經、血液與免�
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- (2) 幼年型風濕性關節炎(Juvenile idiopathic arthritis, JIA):在小於 16 歲的小孩關節炎發生持續超過六週的疾病。其中的寡關節型(pauciarticular form)易併發慢性前葡萄膜炎(80~90%),寡關節型又分 type1 及 type2、Type1:ANA(+) 且較易發生在五歲以下女孩且常造成帶狀角膜病變,Type 2 常發生在歲數大一點的男孩,很多都有 seronegative spondyloarthropathy(HLA-B27-postive)。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - (1) 皮膚常具有高度光敏感性,陽光曝曬後症狀會加劇,除了嚴重的系統性紅斑 (SLE)外,尚有下列其他亞型: - a. Acute cutaneous lupus erythematous: Malar rash (Butterfly rash)、廣泛性皮膚 丘疹、手指紅疹(在關節間,與 Gottron's sign 相反)。 - b. Subacute cutaneous lupus erythematous: 似 乾 癬 的 脫 屑 紅 斑 (Psoriasiform papulosquamous) 或環型紅疹 (annular),病患體內多含有 Anti-Ro (SSA) (>80%) 和 Anti-La (SSB) (30~50%),容易產下新生兒狼瘡或先天性心臟傳導阻斷的胎兒。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - | 項目 | 特徵 | |--------------------|------------------------------------------------------| | ANA | 95~99% (+),敏感度 (sensitivity) 高但特異性 (specificity) 低,最 | | | 佳篩檢工具,重複陰性反應可排除 SLE。 | | Anti-ds DNA | 特異性最高,和疾病活動度有關(值越高疾病越活躍),可預測 | | | 腎炎和血管炎。 | | Anti-sm (Anti-U1 | 呈陽性時,大大增加 SLE 的機會,和疾病活動度無關。但對於診 | | RNP) | 斷混合性結締組織病( Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 4. SLE 診斷準則: 11 項符合 4 項以上即可診斷。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -72,7 +75,6 @@ SLE 分類準則整合皮膚、關節、漿膜、腎臟、神經、血液與免�
 - | 自體免疫抗體 | 特徵 | |--------------------|----------------------------------------------------| | ANA | 95~99%(+),很 Sensitive,但不 Specific | | | 最佳篩檢工具,重複的陰性反應可排除 SLE | | Anti-ds DNA | 最 Specific,和疾病活動度有關 ( 值愈高疾病愈活躍 ), | | Anti-ds DNA | 可預測腎炎、血管炎 | | Anti-sm | 最 Specific,和疾病活動度無關 | | Anti-Ro (SSA) | 可穿過胎盤,造成胎兒先天性心臟傳導障礙* Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - #### E. 診斷準則: 11 項符合 4 項以上[易記錯的以粗體表示] (Harrison 2077 Table 313-3) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - A. 抗核抗體 (Anti-nuclear antibody, ANA) 30 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- #### A. 抗核抗體 (Anti-nuclear antibody, ANA) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

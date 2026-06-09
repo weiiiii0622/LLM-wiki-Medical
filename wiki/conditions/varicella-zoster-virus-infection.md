@@ -15,6 +15,9 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch06]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Varicella-zoster virus infection, VZV (水痘帶狀皰疹病毒感染)'
   - 'Varicella-zoster virus infection, VZV'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-初感染造成水痘，潛伏再活化造成帶狀皰疹；新生兒與免疫低下族群風險較高。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+初感染造成水痘，潛伏再活化造成帶狀皰疹；新生兒與免疫低下族群風險較高。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,15 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med6-book1-ch05]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch06]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- (3) 帶狀疱疹眼炎 (Herpes zoster ophthalmicus, HZO): - a. 簡介: 感染帶狀疱疹病毒後的再復發症狀。初次感染帶狀疱疹病毒時引起的病症是水痘(chicken pox),接著病毒會經由皮膚病灶或是血液,侵犯感覺神經並潛伏寄生在神經節中,數年後可引發不同部位的帶狀疱疹病灶。 - b. 臨床表現:先會有發燒、倦怠、及同側頭痛的現象,當水疱蓄膿結痂之後才 出現侵犯眼睛的症狀。包括眼睛紅、痛、流淚、及視力降低等。帶狀疱疹病 毒眼症對眼睛的傷害可以有許多層面,可造成:角膜炎、結膜炎、鞏膜炎、 虹彩炎等;眼睛神經的受傷造成:神經失養性角膜炎、眼肌麻痺、疱疹後神 經痛等。 - c. 治療: Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (2) 感染:由角膜潰瘍擴散而來。常見致病菌有綠膿桿菌、Streptococcus pneumoniae、帶狀皰疹病毒等。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
+- 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - (C) 水痘 (varicella) Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - 【詳解】孕婦接種非活化病毒疫苗(如流行性感冒、狂犬病)、 類毒素(如白喉-百日咳-破傷風)和免疫球蛋白(如狂犬病) 是安全的。但不可接種活性疫苗(如麻疹-腮腺炎-德國麻疹、 水痘),可能會造成胎兒先天性感染;此外,接種活性疫苗後一 個月內應該避免懷孕,其中接種水痘疫苗,則建議三個月內要 避孕。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -61,10 +70,6 @@ tags:
 - 1. 水痘病毒主要是透過與感染者的皮膚直接接觸、飛沫或空氣傳染,潛伏期10~21天。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...s B19 | Anemia, hydrops fetalis. | | | Enterovirus | Sepsis, DIC, hepatitis, myocarditis and meningoencephalitis. | | | Varicella zostervirus (VZV) | Cicatricial skin lesions. | | Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (2) Tzanck smear:針對有 skin lesions,如 HSV、VZV。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (1) 急性期:開始發病起經過14天之內。 - a. IVIG: 2 g/kg over 10~12 hr。使用高劑量 IVIG(≥ 1g/kg)治療時,宜間隔11 個月後再接種日本腦炎、麻疹、MMR 或水痘疫苗。。 - b. Aspirin:80~100 mg/kg/24 hr,每6小時給藥一次直到發病後14天或燒退為止。 高劑量 aspirin 使用目的是為了抗發炎反應。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】依照題目給予的臨床表現,符合川崎症的診斷。治療 上可用口服 aspirin 以及免疫球蛋白(IVIG)治療。使用高劑量 IVIG (≥ 1 g/kg) 治療時,宜間隔 11 個月後再接種麻疹、MMR 、日本腦炎或水痘疫苗。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- | | 白治療。有關她之後的預防接(A) 1 歲大時接種水痘疫苗(B) 1 歲 3 個月接種日本腦炎療 | | 104(二)專醫四-1 | |---------|-----------------------------------------------------------------------------|------------------------------------------------------------|-----------------| | | wasaki Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (3) 無菌性腦膜炎:腸病毒、CMV、HSV、EBV、水痘、A/B 型流感病毒、黴漿菌。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 
 ## Clinical Caveats
 

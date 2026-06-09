@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med5-book3-ch24]]"
+  - "[[sources/med6-book2-ch08]]"
 aliases:
   - 'Atopic dermatitis (異位性皮膚炎)'
   - 'Atopic dermatitis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-慢性搔癢濕疹性疾病，與皮膚屏障異常、Th2 inflammation 與 atopy 相關。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性搔癢濕疹性疾病，與皮膚屏障異常、Th2 inflammation 與 atopy 相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch07]]
 - [[sources/med5-book3-ch24]]
+- [[sources/med6-book2-ch08]]
 
 ## Key Details From Sources
 
+- 2. 系統性疾病相關的白內障(cataract in systemic diseases): 在糖尿病、肌強直失養症(myotonic dystrophy)、異位性皮膚炎、神經纖維瘤第二型(neurofibromatosis-2)、 半乳糖血症(galactosemia)、副甲狀腺低下(hypoparathyroidism)等疾病中,白內 障可能提早發生。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - ...| | 108(二)專 | | | (A) 一種由乳管內乳癌(intradu | ictal carcinoma)生成之乳癌 | 醫五 -38 | | | (B) 原始病灶在乳暈 | | | | | (C) 乳頭及乳暈皮膚呈濕疹樣 | (eczematous eruption)或牛皮疹 | | | | (psoriatic rash) | | | | | (D) 需切片檢查以鑑別診斷皮膚 | 請病變 | | | | 【詳解】Paget disease 是原發的 | 目乳房的腫瘤,經由乳腺管路系統 | | | | 進入乳頭的上皮層。 | | | | (B) | 6. 比較同一期別的乳癌,下列何 | 運乳癌組織型態預後最好? | 108(一)專 | | | (A) medullary Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - C. 異位性皮膚炎 (Atopic dermatitis) 89 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - E. 缺脂性皮膚炎 (Asteatotic eczema) 90 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].

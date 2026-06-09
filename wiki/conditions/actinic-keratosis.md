@@ -2,9 +2,10 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med6-book2-ch02]]"
 aliases:
   - 'Actinic keratosis (光化性角化症)'
   - 'Actinic keratosis'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-日曬造成的鱗屑粗糙角化病灶，是 SCC 前驅病變。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+日曬造成的鱗屑粗糙角化病灶，是 SCC 前驅病變。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch09]]
+- [[sources/med6-book2-ch02]]
 
 ## Key Details From Sources
 
+- (3) 提上眼瞼肌功能(最重要):測試方法為按住病人眉毛(抵消額肌作用),眼睛向下看到眼睛用力往上看之上眼瞼移動距離。正常是 8~12 mm, 4~8 mm 為尚可, 提上眼瞼肌功能好壞選擇不同手術方式。提上眼瞼肌功能> 5 mm: 提肌切除術(levator muscle resection);最常見容易變為前期惡性(pre-malignant)的皮膚病灶為光角化症(actinic keratosis)。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
 - F. 光化性角化症(Actinic keratosis) 142 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - # F. 光化性角化症 (Actinic keratosis) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 1. 亦稱日光性角化症(Solar keratosis),為長期累積紫外線(UVB)傷害所致的皮膚角質層增生,為鱗狀細胞癌的前期病變,惡化成為鱗狀細胞癌的機率可以高達20%。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

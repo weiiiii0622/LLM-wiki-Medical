@@ -36,6 +36,7 @@ sources:
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book2-ch03]]"
 aliases:
   - 'Non-small-cell lung cancer (非小細胞肺癌)'
   - 'Non-small-cell lung cancer'
@@ -50,7 +51,7 @@ tags:
 
 ## Summary
 
-肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +87,11 @@ tags:
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch09]]
+- [[sources/med6-book2-ch03]]
 
 ## Key Details From Sources
 
+- ...lymphoid hyperplasia)、嗜酸細胞瘤(oncocytoma)等,這些腫瘤一般發生於四十到五十歲的患者,大都生長緩慢。 - (2) 惡性淚腺腫瘤:包括腺樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50%),一般多發生於二十、三十歲之間,少部份在十幾歲時。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - (A) Mucinous adenocarcinoma Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (B) Serous adenocarcinoma Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (C) Endometrioid adenocarcinoma Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -104,9 +107,6 @@ tags:
 - (B) 長時間最易引起 esophageal adenocarcinoma Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 1. 惡性腫瘤中,以鱗狀上皮細胞癌(squamous cell carcinoma)最常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(achalasia)、 暴食(b Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### Adenocarcinoma G category Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (B) 1. 最常見的原發氣管內惡性腫瘤為: 107 (一) 專 醫五-27 (A) adenocarcinoma (B) squamous cell carcinoma (C) small cell carcinoma (D) carcinoid tumor (C) 2. 氣管分岔處(carina)在胸部 X 光所在的高度約相應於脊椎那一 106 (二) 專 醫五-18 個部位? (A) C6 (B) T1-2(C) T4-5(D) L2-3(D) 3. 有關 adenoid cystic carcinoma of lung 之敘述,下列何者正確 Source: [[sources/med5-book4-ch06|己、氣管]].
-- | (A) | 6. 氣管最常見的惡性腫瘤為: | 100(一)專 | |-----|--------------------------------------------|---------| | | (A) squamous cell carcinoma | 醫五 -35 | | | (B) adenoid cystic carcinoma | | | | (C) carcinoid | | | | (D) adenoma | | | (C) | 7. 氣管為一管狀器官,下列關於其敘述何者為錯? | 99(一)專 | | | (A) 氣管為可移動的器官,在進行手術時常須將頸部伸展 | 醫五 -14 | | | (hyperextension) | | | | (B) Source: [[sources/med5-book4-ch06|己、氣管]].
-- ...| Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Postirradiation | | ● Pulmonary | adenocarcinoma | ● Churg-Strauss | ● Trauma | | embolism | Infectious | syndrome | Dressler's syndrome | | ● Lobar collapse | ● Bacterial/ | Abdominal/ | Pulmonary | | • Meigs' syndrome | parapneumonic | Gastrointestinal | embolism wi Source: [[sources/med5-book4-ch02|乙、肋膜]].
 
 ## Clinical Caveats
 

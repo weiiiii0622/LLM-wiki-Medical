@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book6-ch08]]"
   - "[[sources/med6-book1-ch13]]"
   - "[[sources/med6-book1-ch12]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Multiple sclerosis, MS (多發性硬化症)'
   - 'Multiple sclerosis, MS'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - [[sources/med5-book6-ch08]]
 - [[sources/med6-book1-ch13]]
 - [[sources/med6-book1-ch12]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- 3. 視神經炎 (optic neuritis): - (1) 簡介:常發生於 20 至 45 歲之女性。約 20~40% 的病人會合併多發性硬化症 (multiple sclerosis),少數為病毒感染的後遺症或其它免疫疾病造成。 - (2) 分類:依發生部位分為 - a. 視神經乳頭炎 (papillitis):約佔視神經炎 35% - (a) 原因:各種感染及眼窩、鼻竇、顱底的發炎,紅斑性狼瘡等自體免疫反應及甲醇、鉛等中毒,但大多數找不到原因,常發生於小孩。 - (b) 眼底表現:視神經盤水腫充血,邊界模糊,視杯變平。長期不會變 MS。 - b. 球後視神經炎 (retr Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- ...internuclear | | 轉動,且對側眼往顳 | longitudinal fasciculus) 受 | | ophthalmoplegia) | | 側轉動(外展)時會 | 到侵犯所致 | | | | 有眼球震顫 | -年輕人:多發性硬化症 | | | | | -老人:腦幹缺血性病變 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...| 神經性括約肌功能缺損 | 神經性(薦椎病灶) | | 急尿型 | 膀胱不穩定或逼尿肌不穩定 | 無神經病灶 | | (urge) | (detrusor instability) | | | | 逼尿肌過度反射 | 神經性病灶:中風、多發性硬化症 | | | (detrusor hyperreflexia) | (multiple sclerosis) 和上脊索病灶等 | | | 逼尿肌括約肌不協調 | | | | (detrusor sphincter dyssynergia) | | | 溢流性 | 逼尿肌收縮不全 | 神經性(下脊索病灶和神經病變等) | | (overflow) | 出口堵塞 | 手術 | Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - ※ 註 1:低尿流速( 50 cm $H_2O$ 代表可能有尿路阻塞(女性常因陰道前壁脫垂,造成尿道 kinking)或尿道過動(逼尿肌-括約肌不協調);低Pdet 代表逼尿肌無力(如:以前的手術造成膀胱去神經化等)或逼尿肌不收縮(如:脊索受傷或多發性硬化症等)。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - (B) 多發性硬化症 (multiple sclerosis) Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
@@ -62,9 +66,6 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - III. 去髓鞘疾病 (Demyelinating Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrop Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 再介紹去 髓鞘疾病,侵犯中樞神經為主的是多發性硬化症 (multiple sclerosis),侵犯周邊神經為主的是急性發炎性脫髓鞘型多發神經病變 (AIDP),AIDP 也是侵犯運動神經為主。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (A) 1.52 歲男性主訴雙手漸進性肌肉萎縮及無力,之後伴隨言語及吞 108(二)專 嚥困難,神經學檢查發現舌頭及手腳肌肉萎縮、肌束震顫 醫四-56 (fasciculation)和深部肌腱反射增強,但感覺系統並無異常。 下列何者為最可能之診斷? - (A) 肌萎縮性側索硬化(amyotrophic lateral sclerosis) - (B) 多發性硬化症 (multiple sclerosis) - (C) 多發性神經病變 (polyneuropathy) - (D) 肌肉性失養症 (muscular dystrophy) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...只有 protein 高,WBC 不高、glucose 不低,考慮自體免疫疾病,如 Guillain-Barre 症候群( = acute inflammatory demyelinating polyneuropathy = AIDP)、多發性硬化症(multiple sclerosis)。 - (2) **再看 WBC**,如果加上 WBC 高 (> 5)、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低( 40 | 0~5 | 50~100 | Clear | 9~18 | | 病毒性腦膜炎 | 50~100 | 20 年): 侵犯腦實質、脊柱、背根神經節(tabes dorsalis; 步態不穩、感覺異常)、Argyl Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- (D) 多發性硬化症 (multiple sclerosis) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- ...的姿勢(dystonic posture)。下列何者是最可能的診斷? | | | (A) 舞蹈棘紅血球症(choreoacanthocytosis) | | | (B) 席登罕氏舞蹈症(Sydenham chorea) | | | (C) 多發性硬化症(multiple sclerosis) | | | (D) 威爾森氏症 (Wilson disease) | | | (A) 19. 下列那一個神經遺傳性疾病不會合併有棘紅血球(acanthocyte)? | 103(一)專 | | (A) Wilson disease (B) abetalipoproteinemia | 醫四-58 | | (C) McLeod syndrome (D) Hallervorden-Spatz di Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 
@@ -77,6 +78,7 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - [[diagnostics/brain-magnetic-resonance-imaging|Brain magnetic resonance imaging, brain MRI (腦部磁振造影)]]
 - [[diagnostics/evoked-potential-test|Evoked potential test (誘發電位檢查)]]
 - [[conditions/neuromyelitis-optica|Neuromyelitis optica, NMO (視神經脊髓炎)]]
+- [[conditions/optic-neuritis|Optic neuritis (視神經炎)]]
 - [[anatomy/spinal-cord|Spinal cord (脊髓)]]
 - [[drugs/systemic-corticosteroids|Systemic corticosteroids (全身性類固醇)]]
 - [[conditions/trigeminal-neuralgia|Trigeminal neuralgia (三叉神經痛)]]

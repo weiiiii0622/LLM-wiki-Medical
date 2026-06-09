@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Vitiligo (白斑)'
   - 'Vitiligo'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-後天黑色素細胞破壞造成明顯 depigmented patches，可與自體免疫疾病相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+後天黑色素細胞破壞造成明顯 depigmented patches，可與自體免疫疾病相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- ...則的灰白色病灶,大小從0.05~4 mm不等(類 似點狀、指紋狀、或是地圖狀等)。 | | Bowman 氏層 | Reis-Bcüklers dystrophy \ Thiel-Behnke dystrophy | | 基質 | (1) 白斑化失養症 macular dystrophy (mucopolysaccharide):隱性遺傳疾病,是三種間質角膜失養症中較少見的一種類型,但症狀卻常是最嚴重的。基質有 mucopolysaccharide 的沉積。 (2) 顆粒狀失養症 granular dystrophy (hyaline material):顯性遺傳疾病,是三種間質角膜失養症中最常見的類型;基質有透明蛋白(hyaline) 的沉積。 (3) 格子狀失養症 lat Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- (5) 原田氏症候群(Vogt-Koyanagi-Harada's syndrome):是一種對黑色素細胞專一的自體免疫疾病,侵犯葡萄膜(造成雙側肉芽腫性全葡萄膜炎)、內耳、皮膚、腦膜等處。 - a. 初期 (prodromal): 雙眼急性瀰漫性葡萄膜炎、滲出性視網膜剝離、視乳頭水腫、視神經炎。 - b. 慢性期:眼底色素脱失(sunset glow fundus)、視網膜脈絡膜萎縮並伴隨皮膚白斑、毛髮變白、聽力受損等。若反覆性發生會造白內障或青光眼。 - c. 治療:全身性類固醇或可用免疫抑制劑(cyclosporine、azathioprin)。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - 2. 陰道鏡檢查的適應症: - · 細胞學:不正常的 Pap smear - · 懷疑子宮頸、陰道和陰唇異常,如白斑 (leukoplakia) 和病毒疣 - 治療後的追蹤 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - G. 白斑 (Vitiligo) 129 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
 - 8. Hypomelanosis: 受基因、自體免疫或發炎反應影響。 - (1) 黑色素細胞無減少,但黑色素分泌減少:例如白化症(Albinism)。 - (2) 黑色素細胞減少或消失,且黑色素分泌減少或停止:例如白斑(Vitiligo)。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].

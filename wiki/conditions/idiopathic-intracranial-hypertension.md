@@ -2,9 +2,10 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Idiopathic intracranial hypertension / pseudotumor cerebri (特發性顱內高壓／大腦假性腫瘤)'
   - 'Idiopathic intracranial hypertension / pseudotumor cerebri'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-無明顯腫塊或 hydrocephalus 的 IICP，常見於年輕肥胖女性，可造成 papilledema 與視力風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+無明顯腫塊或 hydrocephalus 的 IICP，常見於年輕肥胖女性，可造成 papilledema 與視力風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch18]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - Q. 大腦假性腫瘤 (Pseudotumor cerebri) 216 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ## Q. 大腦假性腫瘤 (Pseudotumor cerebri) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 1. 又稱原發性高腦壓症 (idiopathic intracranial hypertension), 好發年輕、肥胖、女性。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -38,6 +41,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/papilledema|Papilledema (視乳突水腫)]]
 - [[conditions/raised-intracranial-pressure|Raised intracranial pressure, IICP (顱內壓升高)]]
 
 ## Follow-up

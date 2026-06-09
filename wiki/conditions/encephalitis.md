@@ -38,6 +38,9 @@ sources:
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch18]]"
+  - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book2-ch17]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -52,7 +55,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +93,15 @@ tags:
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch18]]
+- [[sources/med6-book2-ch14]]
+- [[sources/med6-book2-ch16]]
+- [[sources/med6-book2-ch17]]
 
 ## Key Details From Sources
 
+- (3) 第三對腦神經麻痺:先天性多因本身發育異常或一些發炎性疾病,而在成人多 因腦部血管瘤、糖尿病、外傷、腦炎等造成。患者眼外肌受第六對腦神經控制 會表現外斜(外直肌的作用)、第四對腦神經控制會表現下斜(上斜肌的作用)、 眼瞼下垂及瞳孔放大。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
+- | 病灶位置 | 視野缺損的形態 | 可能疾病 | |-------|-------------------------------------------|----------------------------------| | 視交叉之前 | 同側單眼視野缺損 | 視神經炎 | | 視交叉 | 雙眼顳側視野缺損 (bitemporal visual field defect) | 腦下垂體腫瘤 (pituitarytumor)、顱咽管瘤 | | | | (craniopharyngioma) | | 視交叉之後 | 雙眼同側視野缺損 (homonynous | 腦瘤、血管阻塞、腦溢血、 | | | visual field defect) | 動脈瘤、腦炎 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- ...| 出生兩周內發生,除結 | 新生兒的單純疱疹角結膜炎 | | | 毒較可能。 | 膜炎外,大多有 眼瞼及 | 大多數會伴隨全身性感染, | | | | 皮膚的水疱。需注意脈 | 因此需接受全身性抗病毒藥 | | | | 絡膜視網膜炎 及腦炎的 | 物治療。 | | | | 產生。 | 若產婦在生產前後幾天出現 | | | | | 疱疹,需特別留意。 | Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
 - (A,B) 3. 一位 25 歲懷孕 22 週婦女,被家人發現意識改變,送至急診時, 已無呼吸、無脈搏,下列敘述及處置,何者錯誤? Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - ...道和肛門周圍區域,起初皮膚發炎,有灼熱、搔癢和神經過敏(hyperaesthesia)感覺,若影響尿道會造成排尿困難,接著疼痛的小硬結(indurated papule)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒感染可能造成疱疹性腦炎;急性期約 4~5 天,病灶癒合需要 8~10 天,病毒會潛伏於薦椎神經節,日後可能復發; - c. 診斷:病毒培養、ELISA 或免疫螢光法偵測病毒抗原。 - d. 治療:冰敷、局部麻醉(2% lidocaine)、NSAID 和 acyclovir 3% 軟膏,以及 發病五天內使用口服 acyclovir 200 mg 一天 5 次,約 5 天可減緩局部症狀、縮 短病程,但無法消滅病毒。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - | 體液過量 | 心衰竭、肺水腫、稀釋性貧血 | | | | |--------|----------------------|--|--|--| | 電解質不平衡 | 低鈉、高血糖、酸中毒 | | | | | 尿 液 | 茶色尿或血尿 | | | | | 神經表現 | 視覺障礙、意識改變、譫妄、昏迷、癲癇發作 | | | | Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
@@ -108,9 +117,6 @@ tags:
 - | 致病原 | 疾病 | 腦電波 (EEG) 特徵 | | |-----------------------|----------------------------|---------------------|-------| | 感染性蛋白 (Prion protein) | 庫賈氏病 (CJD) | Periodic complex of | 1S | | 疱疹病毒 (Herpes virus) | 疱疹腦炎 (Herpes encephalitis) | spike or slow wave | 2S | | 麻疹病毒 (Measles virus) | 亞急性硬化性廣泛性腦炎 (SSPE) | at intervals of | 3~20S | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - 3. 病理切片會發現急性散發性腦炎,因發炎壞死更厲害,所以併發小出血。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 4. 臨床症狀包括發燒、頭痛、瞻妄、意識改變、癲癇發作、頸部僵硬、視神經炎、急性橫截性脊髓炎、肢體無力等,大多數病人為單次發作。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (D) 6.18 歲男學生,因為上課時發生頭痛、意識混亂、雙腿無力及尿失 107(-)專禁被送到急診。在兩星期前,他曾有幾天的上呼吸道感染、發燒, 醫四-59 經過治療後,當時症狀已完全緩解。根據病史,最可能的診斷是: - (A) 多發性硬化症 (multiple sclerosis) - (B) 急性發炎性脫髓鞘多發性神經病變症候群(Guillain-Barré syndrome) - (C) 病毒性腦膜腦炎 (viral meningoencephalitis) - (D) 急性瀰散型腦脊髓炎 (acute disseminated encephalomyelitis) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...述,下列何者錯誤? | 108(二)專 | |-----|----|------------------------------------------------------|---------| | | | (A) Rasmussen encephalitis 以半邊大腦切除術(hemispherectomy) | 醫四 -48 | | | | 為主 | | | | | (B) 失張發作(atonic seizure)以胼胝體切斷術(corpus calloso- | | | | | tomy)為主 | | | | | (C) 兒童失神性癲癇(childhood absence epilepsy)以迷走神經刺 | | | | | 激術(vagus nerve stimulation)為主 | Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- (A) 最可能的診斷是 Rasmussen encephalitis Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 

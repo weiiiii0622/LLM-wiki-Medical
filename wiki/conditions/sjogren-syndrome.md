@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book2-ch03]]"
 aliases:
   - 'Sjogren syndrome (修格蘭氏症候群)'
   - 'Sjogren syndrome'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book2-ch03]]
 
 ## Key Details From Sources
 
+- 1. 乾眼症又稱為乾燥性角結膜炎(Keratoconjunctivitis sicca),臨床上相當常見, 佔成人人口比例的 10~15%,其成因雖多,但基本上可分為兩大類別:淚液量 分泌不足以及淚液量揮發過高。可能原因有: Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- (3) Sjögren's syndrome、RA、SLE、皮肌炎等免疫疾病。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - ...α1- 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency )。 - c. 免疫缺失(selective IgA deficiency, allergic bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquired causes: 感染和發炎。 - a. 支氣管堵塞: 氣管外壓迫(腫瘤、淋巴結腫大)、吸入異物或刺激物質、膿痰。 - Source: [[sources/med5-book4-ch03|丙、肺]].
 - d. Neonatal lupus erythematosus(新生兒狼瘡):原因為患有 Sjögren syndrome 或 SLE 的狼瘡表現可分為兩種:一是出生時有暫時或臉部、手腳紅斑,通常這 些情况在半年左右會逐漸消失。另一是永久性的心臟變化:如先天性缺損及 心臟傳導阻斷等問題。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (A) 1. 下列何種自體抗體為 Sjögren's syndrome 特異性標示抗體? Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -60,8 +64,6 @@ tags:
 - ...#) | 8. 有關風濕免疫疾病合併眼病變,下列何種組合最正確? (A) 類風濕性關節炎合併葡萄膜炎(uveitis)及全身性紅斑性狼瘡(SLE)合併眼視網膜病變 (B) 類風濕性關節炎合併鞏膜炎(scleritis)及原發性膽道硬化症合併乾燥症(Sjögren's syndrome) (C) 僵直性脊椎炎合併後房葡萄膜炎(posterior uveitis)及 SLE 合併視網膜病變 (D) 乾癬性關節炎合併鞏膜炎及僵直性脊椎炎合併前房葡萄膜炎(anterior uveitis) 【詳解】本題答(B) 或(D) 或(BD) 者均給分。 | 104(一)專醫三-42 | | (D) | 9. 超音波最適合用來診斷下列何種肌肉骨骼疾病? (A) metastatic bone l Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - (D) Sjögren's syndrome-deoxyribonucleoprotein Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...Table 299-5) Organ specific: Graves' disease、Hashimoto's thyroiditis、Addison's disease 等。 Organ nonspecific: SLE、RA、APS、Sjögren's syn.、Wegner's granulomatosis。 | 93(二)檢內-64 | | (A) | 4. 器官移植後受贈者(recipient)之 T 淋巴球會被活化:一種是接受到捐贈者之組織抗原(Donor Major Histocompatability Antigen, Donor MHC)及捐贈者之抗原多胜腱 (Donor peptide) 之刺激,另一種是間接路徑,是受贈者之 T 淋巴球接受到什麼抗原之刺激?(A) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- ...陽性(1:640,speckle),下列敘述何者正確(A)病患一定是全身性紅斑狼瘡(systemic lupus et (B)病患可能是(probable)全身性紅斑狼瘡(C)抗核抗體陽性即可排除類風濕關節炎之可能(D)若加上自體免疫抗體 anti-SSA(Ro)的存在原紅斑狼瘡【詳解】(A、D)確定診斷要靠符合 criteria(11年是慢性發炎等,ANA 都會呈現陽性。 | 重,食指與中指近核抗體(ANA)報?rythematosus)即可確定是全身性 | | (D) 33. 下列血清學診斷項目中,何者對於全身性紅斑性狼特異性最高? (A) 紅斑性狼瘡細胞(LE cell) (B) 類風濕因子(rheumatoid factor) (C) 抗單鏈去氧核糖核酸抗體(anti-ss DN Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...結膜炎及鞏膜炎(scleritis) | 104(二)專醫三-34 | | (C) | 7. 巨大細胞血管炎(giant cell arteritis),常與下列何種疾病共同發生? (A) rheumatoid arthritis (B) Sjögren's syndrome (C) polymyalgia rheumatica (D) primary biliary cirrhosis | 104(二)專醫三-35 | Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 
@@ -70,7 +72,9 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/dry-eye-disease|Dry eye disease (乾眼症)]]
+- [[diagnostics/schirmer-test|Schirmer test (Schirmer 淚液測試)]]
+- [[physiology/tear-film|Tear film (淚膜)]]
 
 ## Follow-up
 

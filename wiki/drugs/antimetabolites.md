@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'Antimetabolites (抗代謝藥物)'
   - 'Antimetabolites'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+干擾 DNA/RNA 合成的化療藥物，多作用於 S phase。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med6-book1-ch09]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...不若侵入性手 術明顯。 - b. 小樑切除術(trabeculectomy):製造一個 partial thickness sclera flap 後,進入前房,切下一小塊的小樑組織網使房水直接灌入薛氏管,或經鞏膜隙縫流出眼球外,同時可加用抗代謝藥物(mitomycin-C、5-FU)避免過濾孔過早纖維化癒合。此法仍是目前青光眼手術的標準黃金治療方式。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - 【詳解】最常造成手足症候群之化療藥物包括 cytarabine, liposomal doxorubicin, capecitabine 和 5-fluorouracil (5-FU) 等。 Ref: UpToDate: . Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - 【詳解】(B) gemcitabine 是屬於 nucleoside analog,抑制 DNA 複製。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
@@ -64,7 +67,6 @@ tags:
 - ...tion MTX (200 mg/m 2 over 2 hours followed by 800 mg/m 2 over 22 hours on day 1) as | | | (courses 2,4,6,8) | high-dose cytarabine (3 g/m² over 2 hours every 12 hours for 4 doses on days 2 and 3) | | Intrathecal | Four intrathecal treatments of MTX 12 mg | | treatments alternating with cytarabine 100 mg are given during the first four courses of sy Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...------------------------| | Induction | ATRA 45 mg/m²/day until CR plus | | | daunomycin 45-60 mg/m²/day for 3 days and cytarabine 200 mg/m²/day for 7 days | | Consolidation | ATRA 45 mg/m 2 /day for 7 days and | | | daunomycin 50 mg/m²/day for 3 days; repeat course 1 month later | | Maintenance | ATRA 45 mg/m²/day for 15 days every 3 months plus | Source: [[sources/med3-book4-ch13|丁、急性白血病]].
 - ...取得 Purine;這類抑制 Purine 新合成 (de novo) 的藥物便能選擇性地 抑制白血球複製。 - b. Azathioprine (Imuran® 移護寧) - (a) 轉換成 Mercapto-purine (即化療藥的 6-MP), 其佯裝成 purine 回饋抑制 Purine 合成酵素、且無法被用來合成 DNA。 - (b) Mercaptopurine 也需 Xanthine oxidase 代謝,若併用 Allopurinol (xanthine oxidase inhibitor)要小心濃度累積,造成骨髓抑制。 - c. Mycophenolate mofetil (MMF、Cellcept®山喜多)、Mycophenolic acid (Myfor Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...m $\cdot$ Tumor > 1 cm with ER/PR(-) $\cdot$ Tumor > 0.5 cm with Her2(+) $\circ$ - (b) 傳統上為 CMF (Cyclophosphamide, MTX, 5-FU); - (c) 後來發現加上 Anthracycline 類雖增加心臟毒性,但可更有效控制疾病,所以 改成 CEF(Cyclophosphamide Epirubicin, 5-FU); - (d) 近來在 LN(+) 病人身上,加上 Taxane 類可改善存活,目前美國最常用的組合是 AC+T(Adriamycin, Cyclophosphamide, Taxane) 或 TC(Taxane+ Cyclophosphamide)。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 
 ## Clinical Caveats
 

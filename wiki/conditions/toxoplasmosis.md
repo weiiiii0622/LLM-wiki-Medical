@@ -15,6 +15,9 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch08]]"
 aliases:
   - 'Toxoplasmosis (弓漿蟲感染)'
   - 'Toxoplasmosis'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,17 @@ tags:
 - [[sources/med5-book4-ch12]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch08]]
 
 ## Key Details From Sources
 
+- 4. 弓漿蟲病(toxoplasmosis): 由弓漿蟲(Toxoplasma gondii)引起的感染。 - (1) 眼部症狀:視力下降、飛蚊症、疼痛、畏光等,大部份無明顯症狀,故時常被 忽略而延誤治療時機。 - (2) 眼部病變:局部性壞死性視網膜脈絡膜炎、血管炎、玻璃體炎、前葡萄膜炎 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- (3) 診斷: 典型眼底病變加上免疫血清檢查抗弓漿蟲抗體 IgG 陽性。另外,若抽前 房水將之與血清抗體 IgG 比較效價大於 8, 更具參考價值。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- (4) 治療:若病灶較小且位於較周圍遠離黃斑部,視力通常會自癒。較嚴重的需使用抗弓漿蟲藥物治療(Pyrimethamine、Sulfadiazine)及類固醇(prednisolone)治療六週。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- ...alactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - ...--------|--------------------------------------------------| | 胎兒 | • 基因突變和染色體異常 | | 4444 | • 先天結構異常 | | | ・ 胎兒感染:如 CMV、toxoplasmosis 等 | | 胎盤 | · 胎盤結構或臍帶異常:如 circumvallate placenta、velamentous | | | umbilical cord insertion 等 | | | · 胎盤染色體異常,一般稱 confined placental mosaicism | | 母親 | • 罹患影響胎盤血流的疾病:如子癲前症、高血壓、糖尿病、 | | \$ 25 c. 41 | 自體免疫疾病 (SLE, APS) 等 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...s)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - (2) 職業因素: - a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , kerosene, acetylene $\circ$ - (3) 腫 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -60,9 +71,6 @@ tags:
 - ## B. 弓漿蟲 (Toxoplasma gondii) Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - ...醫三-62 | | | (B) doxycycline | | | | (C) Malarone (atovaquone/proguanil) | | | | (D) quinine | | | (D) | 4. 下列各項有關弓形蟲感染症(Toxoplasma infection)之敘述,何者最不適當? | 103(二)專醫三-64 | | | (A) 可經由食入、輸血、或接受器官移植而感染 | | | | (B) 免疫功能正常的人感染弓形蟲,通常是沒有症狀 | | | | (C) 免疫功能正常成人,有症狀之急性弓形蟲感染的主要臨床表現為頸部淋巴病變 | | | | (D) 先天性弓形蟲感染大多是孕婦懷孕過程中再次感染所引發 | | | | 【詳解】孕期初次感染弓漿蟲才會造成先天性感染。 | Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - Toxoplasmosis of brain Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...用來監測 HAART 藥物效果,用藥目標是壓制到測不到(目前用 PCR 最少可測到 20~40 copies/ml)。 - c. Tuberculin skin test, Rapid plasma reagin (RPR) test, Toxoplasma IgG, Anti-HAV, HBsAg, HBsAb, HBc Ab, Anti-HCV, Cervical smear, HLA B5701 (考慮用 abacavir 者), CCR5 (考慮用 maraviroc 者)。 Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- (C) Toxoplasma gondii Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- 5. 相關的藥物還有 Sulfadiazine 與 Pyrimethamine 合併使用,是治療 Toxoplasmosis 的首選用藥。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

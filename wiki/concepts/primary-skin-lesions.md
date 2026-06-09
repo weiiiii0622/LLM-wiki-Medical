@@ -32,6 +32,13 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch12]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book2-ch02]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Primary skin lesions (基本皮膚病灶)'
   - 'Primary skin lesions'
@@ -46,7 +53,7 @@ tags:
 
 ## Summary
 
-以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +85,25 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch12]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch16]]
+- [[sources/med6-book2-ch02]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch17]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- (3) 帶狀疱疹眼炎 (Herpes zoster ophthalmicus, HZO): - a. 簡介: 感染帶狀疱疹病毒後的再復發症狀。初次感染帶狀疱疹病毒時引起的病症是水痘(chicken pox),接著病毒會經由皮膚病灶或是血液,侵犯感覺神經並潛伏寄生在神經節中,數年後可引發不同部位的帶狀疱疹病灶。 - b. 臨床表現:先會有發燒、倦怠、及同側頭痛的現象,當水疱蓄膿結痂之後才 出現侵犯眼睛的症狀。包括眼睛紅、痛、流淚、及視力降低等。帶狀疱疹病 毒眼症對眼睛的傷害可以有許多層面,可造成:角膜炎、結膜炎、鞏膜炎、 虹彩炎等;眼睛神經的受傷造成:神經失養性角膜炎、眼肌麻痺、疱疹後神 經痛等。 - c. 治療: 口服 acyclovir 800 mg —天五次 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- ...皮細胞形成的白色小點(Horner-Trantas dots)。 - b. 角膜病變:上部點狀上皮糜爛 (superior punctate epithelial erosions)、盾狀 潰瘍 (shield ulcers)、角膜斑點 (plaque)、偽角膜弓 (pseudogerontoxon)。 - (4) 治療:調整室內空調避免接觸過敏原,局部類固醇治療或可加上肥大細胞穩定劑(如 cromolyn sodium)、抗組織胺、cyclosporin等。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (1) 簡介:顯性遺傳疾病,其病灶可以侵犯皮膚、神經、骨骼、及腸胃道等,並且數目及大小會隨著年齡增加。可分為兩型:第一型較常見,又稱 von Recklinghausen disease,具有較明顯的皮膚病灶,也比較容易發生視神經膠質瘤,但預後較佳;第二型比較不會產生皮膚的病灶,但會發生聽神經瘤、腦膜瘤及其他中樞神經瘤,一般預後較差。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- (c) 許氏結節 (Lisch nodule): 是一種位於虹膜的黑色素細胞的缺陷瘤,一般在20歲以上的第一型神經纖維瘤病患者會100%發生,多為兩側性且無害。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- (3) 提上眼瞼肌功能(最重要):測試方法為按住病人眉毛(抵消額肌作用),眼睛向下看到眼睛用力往上看之上眼瞼移動距離。正常是 8~12 mm, 4~8 mm 為尚可, 提上眼瞼肌功能好壞選擇不同手術方式。提上眼瞼肌功能> 5 mm: 提肌切除術(levator muscle resection);最常見容易變為前期惡性(pre-malignant)的皮膚病灶為光角化症(actinic keratosis)。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- h. 虹彩節結 (iris nodule):慢性肉芽腫性發炎的特徵。Koeppe 氏結節較小,出現在瞳孔邊緣;Busacca 氏節結較大而少見,出現在虹膜表面。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- ...璃體混濁。 - (4) 腫瘤特性: 腫瘤常有鈣化現象,這些鈣化點會呈粉筆白(chalky white)的病灶。在 CT 上可見鈣化點,對於鑑別診斷很有幫助。 - (5) 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 6. 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
+- 4. 鐮狀細胞血症(Sickle cell hemoglobinopathy): 主要影響眼部的視網膜,包含有鮮紅色的網膜內出血(salmon patch)、動靜脈連通(AV anastomosis)、新生血管、玻璃體出血、 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - | Anterior trunk | Posterior trunk (大部分肌肉) | |----------------------|-------------------------| | 閉孔 Obturator | 髂腰 Iliolumbar | | 上膀胱 Superior vesical | 薦側 Lateral sacral | | 子宮 Uterine | 上臀 Superior gluteal | | 陰道 Vaginal | | | 下膀胱 Inferior vesicle | | | 中直腸 Middle rectal | | | 內陰 Internal pudendal | | Source: [[sources/med6-book1-ch06|甲、胚胎解剖學 (Embryology and Anatomy)]].
 - ...生殖道或口,有高度傳染性(80%的女性接觸後感染); - b. 臨床表現:影響陰唇陰道和肛門周圍區域,起初皮膚發炎,有灼熱、搔癢和神經過敏(hyperaesthesia)感覺,若影響尿道會造成排尿困難,接著疼痛的小硬結(indurated papule)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒感染可能造成疱疹性腦炎;急性期約 4~5 天,病灶癒合需要 8~10 天,病毒會潛伏於薦椎神經節,日後可能復發; - c. 診斷:病毒培養、ELISA 或免疫螢光法偵測病毒抗原。 - d. 治療:冰敷、局部麻醉(2% lidocaine)、NSAID 和 acyclovir 3% 軟膏,以及 發病五天內使用口服 acyclovir 200 mg 一天 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (A) 11. 卵子生成過程中,胚泡崩解(germinal vesicle breakdown, GVBD) 現象出現,代表減數分裂的那一個階段? - (A) 重新啟動減數分裂 I (meiosis I) - (B) 完成減數分裂 I (meiosis I) - (C) 完成減數分裂 II (meiosis II) - (D) 完成受精 (fertilization) Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -89,16 +112,6 @@ tags:
 - (B) 1. 王媽媽的左手中指在彎曲及伸直的交替動作中,肌腱在掌指關節 108(二)專 處基部摸到結節 (nodule),且有時會產生聲響,影響手指活動, 醫五-13 王媽媽得了什麼疾病? - (A) 鎚狀指 (mallet finger) - (B) 扳機指 (trigger finger) - (C) 狹窄性肌腱滑膜炎(de Quervain tenosynovitis) - (D) 手部鈕扣畸形 (bontonniere deformity) Source: [[sources/med5-book6-ch06|己、手部]].
 - 下列何者錯誤? 醫五-62 - (A) 通常在 A2 滑車 (pulley) 處可觸摸到結節 (nodule) - (B) 年紀小於九個月大的病患,常有自癒的可能 - (C) 大部分病例沒有家族史 - (D) 通常沒有發炎反應 Source: [[sources/med5-book6-ch06|己、手部]].
 - b. 特徵為多發性關節發炎,會有關節處 pannus(翳)的產生,診斷的標準是七個特徵有符合四個就合乎診斷(> 3 個關節腫脹、腕 / 手關節腫脹 [ 通常 為 MP 或 PIP joint、對稱性腫脹、晨僵超過一個小時、rheumatoid nodule、 RF(+)、腕 / 手關節影像上有 erosion 或 periarticular osteopenial) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- E. 單一肺部結節 (Solitary pulmonary nodule) 43 Source: [[sources/med5-book4-ch03|丙、肺]].
-- **Reference:** Gould MK, Donington J, Lynch WR, et al: **Evaluation Of Individuals** With Pulmonary Nodules: When Is It Lung Cancer? *Chest* 2013; 143(5\_suppl): e93S-e120S. doi:10.1378/chest.12-2351. Source: [[sources/med5-book4-ch03|丙、肺]].
-- (A) 1. 下列對於單一肺結節(solitary pulmonary nodule, SPN)的敘述, 107 (二) 專 何者錯誤? 醫五 -27 - (A) 肺部內小於 2 公分的無症狀腫塊 (an asymptomatic mass within the lung parenchyma that is less than 2 cm) - (B) 小於 50% 是惡性 (less than 50% are malignant) - (C) 單一肺結節若具有良性鈣化特徵,通常不需手術治療(patient with Source: [[sources/med5-book4-ch03|丙、肺]].
-- 4. 治療:也可分成十二指腸潰瘍穿孔與胃潰瘍穿孔兩部分作治療。 - (1) 十二指腸潰瘍穿孔(Perforated duodenal ulcers): - a. 採用簡單縫合再加上 omental patch 與腹腔灌洗 (abdominal cavity lavage)。 - b. 若合併有幽門狹窄或出血,可 考慮神經幹切斷術(Truncal vagotomy)加上幽門整形術 (pyloroplasty)。 - c. 手術完成之後,必須針對幽門 桿菌感染持續治療。 - (2) 胃潰瘍穿孔(Perforated gastric ulcers): - a. 若病人生命徵像不穩定:於潰瘍處做切片及縫合即可。 - b. 視病人情況可考慮作迷走神經 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- ...除術 (truncal vagotomy + antrectomy) | | | (D) 高選擇性迷走神經切除術(highly selective vagotomy) | | | 【詳解】十二指腸潰瘍通常採用簡單縫合再加上 omental patch | | | 與腹腔灌洗(abdominal cavity lavage)。 | | | (D) 17. 承上題,術中不須作何處置? | 100(一)專 | | (A) 以生理食鹽水清洗腹腔 (B) 送幽門螺旋桿菌培養 | 醫五 -33 | | (C) 腹腔滲出物送細菌培養 (D) 術中超音波檢查 | | | 【詳解】偏肝膽系統的疾病才會使用到術中的超音波。 | | | (C) 18. 臨床懷疑 PPU (perforated pept Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- 4. 診斷: 先以腹部超音波作為初步追蹤篩檢的工具。除了觀察肝內是否有不正常的 nodule,也可以看整個 liver 的 background 狀況。若真的有發現腫塊,進行下一步的檢查。 - (1) 小於 1 cm 的腫瘤:每 3 個月後作一次腹部超音波,若大小不變的話則回到正常 篩檢,若腫瘤變大的話則依據腫瘤大小作進一步的檢查。 - (2) 介於 1 cm 與 2 cm 之間的腫瘤: - a. 若病患本身為高危險群或肝硬化的患者,若兩種影像檢查都具有典型的血管表現,則不須做切片,直接診斷為 HCC。 - b. 若如果只有一 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 4. 超音波下的惡性表現: - (1) 腫塊邊緣呈針刺狀(sonographic spiculation)。 - (2) 腫塊本身是往深處侵犯的(deeper than wide)。 - (3) 小葉狀的腫塊 (microlobulations)。 - (4) 低迴音腫塊 (hypoechoic nodule)。 - (5) 後方具陰影 (sonographic posterior acoustic shadow)。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- (7) 處置:藥物可給予前列腺素(PGE1)維持動脈導管的通暢,以減緩陣發性呼吸 困難(缺氧性)。但如須完全矯正仍需要手術。 - a. 完全矯正手術 (total correction): - (a) 將 VSD 修補以及右心室出口或肺動脈狹窄處擴大術,以心包膜片(pericardial patch)來擴大狹窄的肺動脈瓣環(pulmonary valve annulus)。但假 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- 4. 主動脈窄縮症 Coarctation of Aorta(CoA): 為 PDA 附近胸 主動脈狹窄,屬於左心出口遠端的問題,不需要使用肺動脈 作材料去修補,用牛或馬心包膜 patch enlargement repair 即可。故答案選擇①與③。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 
 ## Clinical Caveats
 

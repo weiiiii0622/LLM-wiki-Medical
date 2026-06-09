@@ -48,6 +48,8 @@ sources:
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch10]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Lymphoma (淋巴瘤)'
   - 'Lymphoma'
@@ -62,7 +64,7 @@ tags:
 
 ## Summary
 
-淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -110,9 +112,13 @@ tags:
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch10]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- ...樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50%),一般多發生於二十、三十歲之間,少部份在十幾歲時。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- 4. 淋巴癌:原發性眼內中樞神經淋巴癌屬於高度惡性的 Large B cell lymphoma (non-Hodgkin),預後差。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - ...rysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - a. 腫瘤是從 bone marrow 長出來的,細胞切片型態是小小圓圓的 (small round cell),容易與 lymphoma 混淆,可藉由免疫染色法來區分。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (4) 病理: Ewing's sarcoma 和 lymphoma 一樣, 在 micro 下都會出現小小圓圓的細胞。鑑別 診斷的方法可以用下面兩種: - a. PAS 染色:Ewing's sarcoma 用 PAS 染色呈現陽性。 - b. 免疫染色法:Ewing's sarcoma 會是 HBA-71 Ab(+),lymphoma 和 neuroblastoma 則呈現 HBA-71 Ab(-)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
@@ -128,9 +134,6 @@ tags:
 - 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...astatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Postirradiation | | ● Pulmonary | adenocarcinoma | ● Churg-Strauss | ● Trauma | Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - b. 定義:胸水抽吸(thoracocentesis)細胞學檢查發現惡性細胞。無法直接診斷淋巴瘤,或區別為惡性細胞和反應性間皮細胞。產生的原因以轉移性乳癌和肺癌最常見、淋巴瘤次之(約10~14%)、轉移性卵巢癌則很少見、支氣管或淋巴阻塞、低蛋白血症等亦可能。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...acetylene $\circ$ - (3) 腫瘤: - a. 淋巴轉移 (Lymphangitic spread)。 - b. 血循轉移(Hematogenous metastases)。 - c. 白血病(Leukemia)、淋巴癌(lymphoma)、支氣管肺泡肺腺癌(bronchiolo-alveolar cell cancer)。 - (4) 家族遺傳 (Congenital): Niemann-Pick disease, Gaucher disease, neurofibromatosis, and tuberous fibrosis。 - (5) 代謝性或未知因素 (Metabolic and unknown): 肝病 (Liver disease)、尿毒症 (uremi Source: [[sources/med5-book4-ch03|丙、肺]].
-- 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- J. 胃淋巴瘤(Gastric lymphoma) 47 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 
 ## Clinical Caveats
 

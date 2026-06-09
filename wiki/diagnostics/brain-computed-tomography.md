@@ -77,6 +77,7 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book2-ch14]]"
 aliases:
   - 'Brain computed tomography, brain CT (腦部電腦斷層)'
   - 'Brain computed tomography, brain CT'
@@ -91,7 +92,7 @@ tags:
 
 ## Summary
 
-急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -168,9 +169,11 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch09]]
+- [[sources/med6-book2-ch14]]
 
 ## Key Details From Sources
 
+- (2) 眼窩底骨折(orbital floor fracture):外傷性造成的眼窩底骨折,常造成下直肌、 下斜肌卡在骨折處,導致垂直方向的斜視或複視,眶下神經麻木、眼球周圍瘀血、眼球凹陷等。可用電腦斷層幫助診斷。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - (3) 影像學:腹部電腦斷層或核磁共振造影。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (C) 1.52 歲更年期婦女,G2P2,體重 60 公斤,陰道超音波檢查有 3 公 105( ) 專 分的右側卵巢單純囊腫(simple cyst),血中 CA 125 濃度為 19 醫六 -34 IU/mL。她本人不抽煙。直系家屬中無乳癌或卵巢癌的病人。進一步何者為最恰當的處置? - (A) 做腹部或骨盆腔的電腦斷層檢查 - (B) 腹腔鏡手術 - (C) 三個月內再做一次陰道超音波 - (D) 服用口服避孕藥 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...| ・ROMA (the risk of ovarian malignancy algorithm) 是合併 CA125、HE4 和 | | | 停經與否三項指標,用來評估 adnexa mass 之惡性風險 | | 影像檢查 | • 安排電腦斷層或核磁共振檢查、甚至正子電腦斷層造影,評估是否有腹 | | | 部、淋巴結或其他地方的轉移 | | 其 他 | • 安排上消化道鏡、大腸鏡等,排除其他部位癌症轉移到卵巢的可能 | | 4 - 150, 44 | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -184,11 +187,6 @@ tags:
 - (B) 骨樣骨瘤(osteoid osteoma) 在電腦斷層檢查的中心病灶, 大於 2 公分者居多 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (C) 動脈瘤性骨囊腫(aneurysmal bone cyst)好發於青少年,可 於電腦斷層攝影下發現 fluid-fluid level 現象 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (AB)3. 下列有關骨骼肌肉系統外傷影像診斷學的敘述,何者錯誤? - (A) 現今診斷膝關節半月軟骨(meniscus)損傷,以注射顯影劑之關節攝影(arthrography)扮演最重要的角色,其次為磁振造影 - (B) 無血管性壞死(avascular necrosis)可為骨折之合併症,好 發處包括股骨頭(femoral head)及腕舟骨(lunate) - (C) 脂肪液體層面(fat-fluid level)代表關節內之骨骼損傷,該 徵象可由電腦斷層攝影及磁振造影呈現 - (D) 疲勞或壓力骨折(fatigue or stress fracture)係由多次較為輕度之外傷所致,行軍骨折(march fracture)即為一例 Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (C) 對於較複雜的骨折,除了使用 X 光檢查之外,可輔以三度空 間重建的電腦斷層掃描(computerized tomography with threedimensional reconstruction)協助判讀骨折型態 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- (A) 7. 陳太太因右手拇指及食指、中指常常半夜麻醒,至門診求診, 102(-)專 下列何種檢查最能提供確定診斷是「腕隧道症候群(carpal tunnel $\$ \pm -17$ syndrome)」? - (A) 電生理檢查 (electrophysiology study, EPS) - (B) 核磁共振造影術 (MRI) - (C) 電腦斷層掃描(CT) - (D) 手部超音波檢查 (sonography) Source: [[sources/med5-book6-ch06|己、手部]].
-- (2) Non-contrast CT:診斷率最高,唯一看不到的是 indinavir 結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
-- (C) 3.33 歲男性因陣發性腹痛而求醫,患者體溫正常、生命徵象穩定, 109(-)專 患者接受對比劑注射前(pre-contrast)的電腦斷層掃描檢查如圖, 醫五-73 下列診斷何者最恰當? Source: [[sources/med5-book5-ch05|戊、結 石]].
 
 ## Clinical Caveats
 

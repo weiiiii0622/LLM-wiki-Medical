@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch04]]"
 aliases:
   - 'Verruca / warts (疣)'
   - 'Verruca / warts'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,12 @@ HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、�
 - [[sources/med5-book2-ch16]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch04]]
 
 ## Key Details From Sources
 
+- 1. 結膜乳突瘤(Conjunctiva papilloma):幾乎皆為良性,與人類乳突瘤病毒(Human Papillomavirus, HPV)第 6、11 型感染相關,其可能由陰道造成母子垂直感染。乳 突瘤常出現在瞼結膜或穹窿。治療以手術切除或冷凍治療為主。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 2. 結膜角膜上皮內癌(Conjunctival-corneal intraepithelial neoplasia, CCIN):少見、良性、進展緩慢的單側疾病。危險因子包含紫外光照射、HPV 感染等。臨床症狀有果凍狀白色的結膜腫塊伴隨表面有血管新生,結膜變厚。治療以手術切除為主,並加上冷凍治療或干擾素 α 降低復發機率。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - ### 7. 生殖器疣 (genital warts): Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (1) 人類乳突狀病毒(特別是 HPV 6 和 11) 感染的常見性傳染疾病,高度傳染性(> 75% 接觸後感染); Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - a. Acetowhite epithelium 可見於: - · Congenital transformation zone 或不成熟的鱗狀上皮化生 - 發炎、癒合或再生中的表皮 - HPV 感染、CIN、adneocarcinoma 或 squamous cell carcinoma Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].

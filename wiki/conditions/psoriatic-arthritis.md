@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Psoriatic arthritis (乾癬性關節炎)'
   - 'Psoriatic arthritis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-乾癬相關發炎性關節炎，可有指趾炎、附著點炎與脊椎侵犯。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乾癬相關發炎性關節炎，可有指趾炎、附著點炎與脊椎侵犯。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch07]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- c. 乾癬性關節炎 (Psoriatic arthritis): 與HLA-B27有關, 眼睛症狀有前葡萄膜炎、 結膜炎或角膜炎。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - 1. 關節炎可以分成 inflammatory (seropositive :rheamatoid arthritis 和 seronegative: Ankylosing spondylitis, psoriatic arthritis, reactive arthritis) 和 non-inflammatory (osteoarthritis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - d. 診斷的標準: - (a) 影像上有 sacroiliitis +下方一個特徵。 - (b) HLA-B27(+) + 下方大於(或等於)兩個特徵:dactylitis, positive family history, inflammatory back pain, enthesitis, arthritis, inflammatory bowel disease, uveitis。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - #### (4) Psoriatic arthritis (PA): Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].

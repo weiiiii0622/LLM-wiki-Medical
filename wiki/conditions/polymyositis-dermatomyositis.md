@@ -23,6 +23,8 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Polymyositis and dermatomyositis (多發性肌炎與皮肌炎)'
   - 'Polymyositis and dermatomyositis'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,13 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book6-ch06]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- (3) Sjögren's syndrome、RA、SLE、皮肌炎等免疫疾病。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- ...) 心臟栓塞:鈣化性栓塞(來自主動脈或二尖瓣)、vegetation(來自細菌性心內膜炎的瓣膜)、血栓(由於心肌梗塞後合併 AF 所產生)。 - (4) 巨細胞動脈炎 (giant cell arteritis) - (5) 動脈外膜炎:與皮肌炎、SLE、polyarteritis nodosa、Wegener 氏肉芽腫等疾病相關的動脈外膜炎偶爾會造視網膜分支動脈阳塞。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - C. 半月狀骨缺血性壞死(Lunate bone AVN; Kienböck disease) *101* Source: [[sources/med5-book6-ch06|己、手部]].
 - #### C. 半月狀骨缺血性壞死 (Lunate bone AVN; Kienböck's disease) Source: [[sources/med5-book6-ch06|己、手部]].
 - (C) 1. 一位 32 歲果園工作婦女來門診主訴右腕疼痛已有近半年,理學 99(二)專檢查發現右腕背屈活動有明顯拘限,X光檢查如圖所示,最可能 醫五-40 - 的診斷是: - (A) 正中腕隧症候群(carpal tunnel syndrome) - (B) 舟狀骨骨折不癒合 (scaphoid fracture non-union) - (C) 半月狀骨缺血性壞死 (Kienböck disease) - (D) de Quervain's tenosynovitis Source: [[sources/med5-book6-ch06|己、手部]].
@@ -79,8 +85,6 @@ tags:
 - 1. 是一種侵犯肌肉為主的自體免疫反應,為全身肌肉或皮膚發炎的全身性結締組織疾病。多發性肌炎主要侵犯肌肉,造成肌肉無力或疼痛。皮肌炎除肌肉外,還侵犯到皮膚,有時會出現獨特的皮膚表徵。目前發病原因尚未清楚,只知為全身性自體免疫疾病的一種,常造成病人四肢近端肌肉無力或疼痛,甚至造成某些病人肢體癱瘓,行動困難。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (1) 多發性肌炎(28%): - a. 主要表現是急性或慢性兩側對稱性近端肌肉無力及疼痛,尤其是上臂、肩胛 肌或大腿肌肉無力。病人常出現上、下樓梯困難、無法舉起手臂梳頭、更衣 困難、無法從座椅上站立起來等症狀;假使侵犯到口咽部或食道的肌肉則會 吞嚥困難,有的則合併有明顯體重減輕之現象。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (B) 皮肌炎 (dermatomyositis) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 【詳解】(A)病人並未提及用藥史,藥物疹也很少兩側腋下、腹股溝淋巴結腫大。(B)皮肌炎會有近端肌肉無力,皮膚症狀為Gottron sign 和 Helitrop sign,不會全身性紅疹。(C)依照提議描述以及圖片,可判定為 Sezary syndrome。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (B) 淡紫色紅斑 (heliotrope erythema) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 
 ## Clinical Caveats
 

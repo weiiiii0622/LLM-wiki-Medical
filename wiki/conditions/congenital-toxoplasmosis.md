@@ -17,6 +17,9 @@ sources:
   - "[[sources/med5-book1-ch20]]"
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch08]]"
 aliases:
   - 'Congenital toxoplasmosis (先天性弓漿蟲感染)'
   - 'Congenital toxoplasmosis'
@@ -31,7 +34,7 @@ tags:
 
 ## Summary
 
-典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +51,17 @@ tags:
 - [[sources/med5-book1-ch20]]
 - [[sources/med5-book4-ch12]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch08]]
 
 ## Key Details From Sources
 
+- 4. 弓漿蟲病(toxoplasmosis): 由弓漿蟲(Toxoplasma gondii)引起的感染。 - (1) 眼部症狀:視力下降、飛蚊症、疼痛、畏光等,大部份無明顯症狀,故時常被 忽略而延誤治療時機。 - (2) 眼部病變:局部性壞死性視網膜脈絡膜炎、血管炎、玻璃體炎、前葡萄膜炎 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- (3) 診斷: 典型眼底病變加上免疫血清檢查抗弓漿蟲抗體 IgG 陽性。另外,若抽前 房水將之與血清抗體 IgG 比較效價大於 8, 更具參考價值。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- (4) 治療:若病灶較小且位於較周圍遠離黃斑部,視力通常會自癒。較嚴重的需使用抗弓漿蟲藥物治療(Pyrimethamine、Sulfadiazine)及類固醇(prednisolone)治療六週。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- ...alactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ## E. 正常壓力水腦症(Normal pressure hydrocephalus, NPH) Source: [[sources/med5-book1-ch19|癸、水腦症]].
@@ -64,11 +75,6 @@ tags:
 - 3. 由於脊髓膜的牽引拉扯,小腦會被往枕骨大孔方向下拉錯位 (Arnold Chiari II malformation),阻塞腦脊液流通,造成 hydrocephalus。可藉由 shunting 分流手術治療,緩解腦積水,降低癲癇和失明等風險。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (A) 1. 小腦扁桃體下垂 5 mm 至頸椎脊椎腔且合併有脊髓空洞症(syringomyelia),但沒有合併脊柱裂(spinal bifida)或水腦(hydrocephalus),應該歸屬下列何種異常? - 109(二)專 醫五-12 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - 5. 常壓性水腦(Normal pressure hydrocephalus) = 交通性水腦(Communicating hydrocephalus) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...示大腦 泛發性萎縮。病人最可能罹患下列何種病? (A) 路易體失智症 (dementia with Lewy bodies) (B) 阿茲海默症(Alzheimer disease) (C) 常壓性水腦症 (normal-pressure hydrocephalus) (D) 庫賈氏症 (Creutzfeldt-Jakob disease) (D) 15. 下列有關阿茲海默症(Alzheimer's disease)之敘述,何者錯誤? 103(二)專 (A) 為最常見之失智症 醫四 -70 (B) 過去曾有腦傷是將來罹患阿茲海默症之危險因子 (C) 女性較容易罹患阿茲海默症 (D) 第 19 對染色體有 ApoE2 基因者較易得阿茲海默症 【詳解】基因異常所導致的 AD,最常見為 APP gene Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...尼克氏腦病變 (Wernicke's encephalopathy) (D) 憂鬱症 【詳解】AD 是一種進展相對緩慢的神經退化性疾病。 | 101(二)專醫四-55 | | (C) 21. 正常腦壓水腦症(normal pressure hydrocephalus)的病人至急診求診時,常見的臨床特徵中,下列何者不常出現?(A) 認知功能障礙(B) 尿失禁(C) 單側無力(D) 步態不穩 | 101( 二 ) 專醫四 -77 | | (C) 22. 一般認為 Alzheimer's disease 主要是因何種神經傳導物質(neurotransmitter)減少所致? (A) dopamine (B) serotonin (C) acetylcholine | 100(一)專醫四-48 | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...Trauma | Closed-head injury, heat stroke, postoperative, severe burns | | | | | | CNS pathology | Abscess, hemorrhage, hydrocephalus, subdural hematoma, Infection, seizures, | | | | | | CNS pathology | stroke, tumors, metastases, vasculitis, Encephalitis, meningitis, syphilis | | | | | | Hypoxia Anemia, carbon monoxide poisoning, hypotension, Pulmona Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- ...-------------------------------------------------------------------------------------------------|--| | Toxoplasmosis | Chorioretinitis, hydrocephalus, intra-cranial calcifications. | | | Syphilis | Mucocutaneous lesions (snuffles), periostitis, osteochondritis, hepatomegaly and rash. | | | Rubella | Retinopathy, cataracts, PDA, pulmonary artery stenosi Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 弓漿蟲病 (Toxoplasmosis) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

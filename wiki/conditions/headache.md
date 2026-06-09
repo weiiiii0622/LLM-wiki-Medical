@@ -40,6 +40,9 @@ sources:
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch14]]"
+  - "[[sources/med6-book2-ch11]]"
+  - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book2-ch04]]"
 aliases:
   - 'Headache (頭痛)'
   - 'Headache'
@@ -54,7 +57,7 @@ tags:
 
 ## Summary
 
-頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +97,17 @@ tags:
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch14]]
+- [[sources/med6-book2-ch11]]
+- [[sources/med6-book2-ch16]]
+- [[sources/med6-book2-ch04]]
 
 ## Key Details From Sources
 
+- (4) 症狀:通常為單側發生、視力模糊、虹視(halo vision)、瞳孔半放大且固定無 光反應(mid-dilated,fix pupil)、眼睛發紅、結膜充血、角膜水腫、眼睛脹痛、 頭痛、噁心嘔吐。急性青光眼發作時,常因血壓升高、嘔吐等而被誤診為高血 壓急症或腸胃炎,而導致錯誤治療使其不易緩解,甚至造成失明。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- ...水排出。 | 副作用:低血壓、眼 | Brimonidine | | | 其中 apraclonidine 可作為雷射治療後, | 睛刺激感、口乾、疲 | Apraclonidine | | | 預防術後眼壓突升,具神經保護效果。 | 倦、頭痛。 | | | | -第一線用藥。 | | | | Prostaglandin | -促進房水由上脈絡膜腔 (suprachoroidal | 副作用:眼部副作用: | Latanoprost | | analog | space) 排出,效果強,只需每日點一次 | 結膜充血、睫毛變長、 | (Xalatan) \ | | | 即可。 | 睫毛、虹膜、眼部周 | travoprost | | | - 第二線用藥,但有逐漸走向第一線用 | Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- 4. 前部缺血性視神經病變(anterior ischemic optic neuropathy, AION): - (1) 簡介:好發於 40~60 歲,通常為單眼,常伴有高血壓、動脈硬化、糖尿病等,或巨大細胞動脈炎(giant cell arteritis)。 - (2) 臨床症狀: 無疼痛的視力突然減退,若患巨大細胞動脈炎者,會有頭痛,顎痛, 頭皮壓痛、肌肉關節痠痛、體重減輕、食慾不振等症狀。 - (3) 徵候:視力減退(剩眼前手指數),輸入性瞳孔缺損,視神經盤蒼白水腫併有火 焰狀出血,視野水平缺損。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- ...狀疱疹病毒後的再復發症狀。初次感染帶狀疱疹病毒時引起的病症是水痘(chicken pox),接著病毒會經由皮膚病灶或是血液,侵犯感覺神經並潛伏寄生在神經節中,數年後可引發不同部位的帶狀疱疹病灶。 - b. 臨床表現:先會有發燒、倦怠、及同側頭痛的現象,當水疱蓄膿結痂之後才 出現侵犯眼睛的症狀。包括眼睛紅、痛、流淚、及視力降低等。帶狀疱疹病 毒眼症對眼睛的傷害可以有許多層面,可造成:角膜炎、結膜炎、鞏膜炎、 虹彩炎等;眼睛神經的受傷造成:神經失養性角膜炎、眼肌麻痺、疱疹後神 經痛等。 - c. 治療: 口服 acyclovir 800 mg —天五次用 7~10 天(一天恰為原發型 HSV 兩倍劑量),其他藥物這裡不多提,局部性點抗病毒藥物無效。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - | 蛋白尿 | ・ 尿蛋白≧ 300 mg/ 24 hr 或尿中蛋白和肌酸酐的比率≥ 0.3 | |------|----------------------------------------| | | · 若無法定量,尿液試紙 dipstick ≧ 2+ 亦可接受 | | 器官失能 | ・血小板≦ 10 萬 cells/microL | | | ・ 血清肌酸酐 creatinine > 1.1 mg/dL 或上升兩倍 | | | • 肝指數上升正常上限值的兩倍以上或持續嚴重的右上腹或上腹痛 | | | • 肺水腫 | | | ・ 大腦 (如劇烈頭痛)或視覺症狀 (如視力模糊) | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...----------------|--| | | ・ 肺水腫患者須小心使用 | | | 副作用 | · 快速輸注會造成週邊血管擴張,出現流汗、發熱、潮紅等症 | | | | 狀,少數可能引起低血壓 | | | | • 噁心、嘔吐、肌肉無力、頭痛、心悸也可能出現 | | | | • 肺水腫為罕見的副作用 | | | 鎂中毒 | • 血液濃度 4.8~8.4 mg/dL 為 therapeutic range | | | | • 濃度過高會導致鎂中毒,鎂中毒的表徵和血液濃度有關 | | | | (i) 深部肌腱反射消失 (8.5~12 mg/dL) | | | | (ii) 呼吸抑制 (12~16 mg/dL) | | | | (iii) 心臟傳導異常 ( > 18 mg/dL) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (D) 9. 一位 39 歲的初產婦,目前妊娠 39 週,懷孕過程中的血壓都介於 100~120/60~70 mmHg 之間。今天產檢時發現血壓 150/100 mmHg, 但並無合併頭痛,視覺模糊,噁心,嘔吐或腹痛的情形。這 位產婦來到產房之後血壓再測量為 160/90 mmHg,血比容 (hematocrit)為 34.0%,血小板數 160,000/mL,肝功能指數 GOT: 22,GPT: 15,尿液檢查並無蛋白尿情形,胎兒監視器 並未發現胎兒窘迫的情況。這位產婦最可能符合下列那個診斷? - (A) 子癇前症 (preeclampsia) - (B) 慢性高血壓 (chronic hypertension) - Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
@@ -105,16 +116,6 @@ tags:
 - | 藥 物 | 作用 | 給藥方式 | 副作用 | |---------------|-------------|----------|-------------| | Oxytocin | 子宮收縮、減少產後出血 | 靜脈注射 | 水中毒 (同 ADH) | | Ergonovine | 子宮收縮、減少產後出血 | 靜脈、肌肉注射 | 高血壓 | | Prostaglandin | 子宮收縮 | 陰道塞劑、陰道釋 | 噁心、嘔吐、腹瀉 | | | | 放系統 | 頭痛、頭暈 | | | | | 輕度血壓上升或下降 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - ※註 2:由於 oxytocin 的構造與 vasopressin(ADH)相似,會和腎臟 vasopressin receptor 交互作用,造成水分滯留和稀釋性低血鈉,即是所謂的水中毒。當高劑量催產素(40 mU/min)合併大量的低滲透靜脈輸液( $\geq$ 3 L)持續( $\geq$ 7 hrs)給予,便容易產生。低血鈉的症狀包括:頭痛、噁心嘔吐、腹痛、疲倦、意識不清、癲癇大發作和神經學損傷。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - ...表現:影響陰唇陰道和肛門周圍區域,起初皮膚發炎,有灼熱、搔癢和神經過敏(hyperaesthesia)感覺,若影響尿道會造成排尿困難,接著疼痛的小硬結(indurated papule)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒感染可能造成疱疹性腦炎;急性期約 4~5 天,病灶癒合需要 8~10 天,病毒會潛伏於薦椎神經節,日後可能復發; - c. 診斷:病毒培養、ELISA 或免疫螢光法偵測病毒抗原。 - d. 治療:冰敷、局部麻醉(2% lidocaine)、NSAID 和 acyclovir 3% 軟膏,以及 發病五天內使用口服 acyclovir 200 mg 一天 5 次,約 5 天可減緩局部症狀、縮 短病程,但無法消滅病毒 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- c. 治療: 肌肉注射 Benzathine penicillin G 2.4 百萬單位、口服 tetracycline 500 mg QID, 14 天或 doxycycline 100 mg BID, 14 天。治療前 24 小時可能出現急性發燒、併頭痛、肌肉疼痛等的 Jarisch-Herxheimer reaction。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- ...-----------------------------|-----------|---------------| | Oxytocin | 靜脈給藥 | 低血壓(血管擴張) | | Carbetocin | 靜脈給藥 | 低血壓、潮紅、頭痛、顫抖、 | | | | 噁心、腹痛 | | Methylergonovine | 肌肉注射 | 禁忌症為高血壓、周邊血管和 | | (C) (A) (A) | | 缺血性心臟病 | | Misoprostol (PGE1) | 肛門塞劑、口服 | 可用於高血壓或氣喘之患者 | | | 或舌下給予 | 可能引起發燒 | | 15-methyl prostaglandin F2a | 子宮肌層注射或肌肉 | 禁忌症為高血壓和氣喘、肝腎 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- 【詳解】血清電泳出現異常蛋白質診斷是 MM 或是 MGUS,常 發生骨頭痛或病理性骨折。(C) 應為高血鈣。(D) 化學治療。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...val or | | | drill removal or coagulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the sta Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- ...TI 的兒童。成人少見,因為腎臟已發育完全不易損傷。 - c. 菌種:不一定有存在的感染,而是腎臟已產生損傷。 - d. 臨床表徵: - (a) 症狀:大多無直接症狀。常因其導致的併發症經進一步檢查後發現,如 腎功能不全、高血壓、視覺衰退、頭痛、疲勞和多尿。 - (b) 實驗室檢查:尿正常,也可能有 WBC 及蛋白尿。血中 creatinine 升高。 - (c) 影像:用 IVG、超音波或 CT 可看到腎萎縮。 - e. 治療: - (a) 治療效果有限,因為已經造成的傷害是不可逆的。 - (b) 需找出反覆泌尿道感染的成因並治療,如結石或結構異常。兒童有膀胱輸尿管逆流(UV reflux)則易引起反覆泌尿道感染,可使用長期預防性的抗生素。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- iii. 轉移症狀: 25% 發現時已轉移,可能血尿、呼吸不順咳嗽、骨頭痛。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- iv. 放射性核素顯像(radionuclide imaging): 就是骨骼掃描(bone scan),判斷癌症是否有骨轉移以決定分期。若無骨頭痛且ALP (alkaline phosphatase,鹼性燐酸酶)值正常,則骨轉移機率極低。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- 2. 臨床表徵: - (1) 症狀:常見的有高血壓、低血鉀(但僅25%人有)、頭痛、夜尿。 - (2) 實驗室數據: - a. 初步判斷:血鉀≤3 mEq/L。 - b. 精確診斷: 敏感度 90%, 特異性 90%。 - (a) 血中 aldosterone: renin (即 PRA) > 30:1。(醛固酮上昇 +renin 下降)。 - (b) 血中 aldosterone > 15 ng/dL。 - i. 意義:血清(與尿液)呈現醛固酮 (aldosterone) 升高,血漿 renin (PRA = Pl Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- 2. 臨床表現:就是交感神經過度興奮(兒茶酚胺 (catecholamine) 過量)的症狀。 - (1) 症狀:常見的有平常高血壓但小便後低血壓、頭痛且易出汗、心跳快且心悸、 腸胃蠕動慢且體重下降、易焦慮且神經質。 - (2) 實驗室數據: - a. 初步判斷: 24 小時尿中 VMA 上昇 (VMA > 10 mg, VMA = Vanillylmandelic acid, 為 catecholamines 代謝產物)。 - b. 精確診斷: - (a) 24 小時尿中 catecholamine 上昇(Dopamin > 550 mg、norepineprine > 100 mg) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- i. $\alpha_1$ -blockers 對三個亞型的平滑肌都放鬆的作用,故會造成: - (i) 逆行性射精 (retrograde ejaculation,膀胱底及攝護腺有 α1A):5%。 - (ii) 疲勞感及姿勢性低血壓 (orthostatic hypotension,全身血管有 αIB):5%。 - (iii)造成頭暈、鼻炎或頭痛(鼻道有 αID):10%。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 
 ## Clinical Caveats
 

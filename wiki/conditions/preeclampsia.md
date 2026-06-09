@@ -9,6 +9,7 @@ sources:
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Preeclampsia (子癲前症)'
   - 'Preeclampsia'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-20 週後新發高血壓合併蛋白尿或器官功能異常，可有 severe features；根本治療是分娩。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+20 週後新發高血壓合併蛋白尿或器官功能異常，可有 severe features；根本治療是分娩。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- 4. 高血壓脈絡膜病變:常見於急性高血壓的年輕人(如:子癲前症、子癲症、嗜鉻細胞瘤)或惡性高血壓的病人。眼底典型表現有 Elschnig's spot(代表局部脈絡膜阻塞)、Siegrist streak(代表類纖維蛋白壞死)或滲出性視網膜剝離。眼底螢光血管攝影檢查早期為低灌注(hypoperfusion),晚期則滲漏而高螢光。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) *126* Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - # A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...------------------------------| | 妊娠高血壓 | · 之前血壓正常,懷孕 20 週後出現高血壓,但無蛋白尿、 | | (Gestational HTN) | 無器官失能,且於產後12週內恢復正常。 | | 子癲前症 | • 之前血壓正常,懷孕 20 週後出現高血壓,且合併蛋白 | | (Preeclampsia) | 尿或器官失能。 | | 子癲症 | · 已診斷 Preeclampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalized seizure)稱之。 | | HELLP syndrome | ・溶血 (hemolysis)、肝指數上升 (elevated liver enzyme) | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].

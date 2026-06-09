@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book2-ch08]]"
 aliases:
   - 'Myotonic dystrophy (強直性肌肉失養症)'
   - 'Myotonic dystrophy'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-三核苷酸重複擴增疾病，表現 myotonia、肌無力、白內障、心傳導與內分泌問題。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+三核苷酸重複擴增疾病，表現 myotonia、肌無力、白內障、心傳導與內分泌問題。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med6-book1-ch02]]
+- [[sources/med6-book2-ch08]]
 
 ## Key Details From Sources
 
+- 2. 系統性疾病相關的白內障(cataract in systemic diseases): 在糖尿病、肌強直失養症(myotonic dystrophy)、異位性皮膚炎、神經纖維瘤第二型(neurofibromatosis-2)、 半乳糖血症(galactosemia)、副甲狀腺低下(hypoparathyroidism)等疾病中,白內 障可能提早發生。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
+- ...家族史)有關,其中約60%病患可發現患有先天性代謝疾病(如半乳糖血症 galactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - 1. 簡介:孕婦待產並非絕對順利,可能發生一些狀況造成胎兒缺氧,胎兒缺氧的情形會反應在 fetal heart rate pattern,故藉由腹部裝上胎兒監視器(cardiotocograph, CTG)來評估胎兒心跳以避免胎兒死亡或神經傷害。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - 2. CTG 判讀的重點包括如下三點: - (1) 基礎胎兒心跳 (baseline fetal heart rate): - a. 判讀: Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - ### 3. 結果和處置:CTG 評估待產孕婦的胎兒心跳根據 NICHD 可分三種模式。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].

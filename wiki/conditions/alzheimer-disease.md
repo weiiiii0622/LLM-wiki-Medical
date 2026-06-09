@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch06]]"
   - "[[sources/med4-book3-ch04]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book2-ch20]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Alzheimer disease (阿茲海默氏病)'
   - 'Alzheimer disease'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-最常見失智症原因，與 amyloid plaques、tau tangles、海馬萎縮與進行性記憶退化相關。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+最常見失智症原因，與 amyloid plaques、tau tangles、海馬萎縮與進行性記憶退化相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book4-ch05]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book2-ch20]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...狀失養症 granular dystrophy (hyaline material):顯性遺傳疾病,是三種間質角膜失養症中最常見的類型;基質有透明蛋白(hyaline) 的沉積。 (3) 格子狀失養症 lattice dystrophy (amyloid material):顯性遺傳疾病;病灶主要侵犯角膜的淺層及中層間質,特徵為具反光、分枝、格子狀沉積物。基質有類澱粉蛋白 (amyloid) 的沉積。 【口訣】沈澱物的口訣: Micky Mouse Go Home to Los Angles M→M:macular distrophy→MPS G→H:granular dystrophy→ Hyaline L→A:Lattice dystrophy→Amyloid | | 內皮層 | Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - | 疾病 | 病因 | 症狀 | 治療 | |-------------------------|--------------------|--------------|--------------------| | Alzheimer's dz. | Senile plaques | 記憶力↓+認知功能↓ | Anticholinesterase | | Vascular dementia | 累積小中風 | 失智+局部神經學症狀 | 控制 HTN, DM | | Dementia c/ Lewy bodies | Lewy bodies ↓ | 失智+巴金森氏症,視幻覺 | Anticholinesterase | | Frontotemporal Dementi Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 1. 阿茲海默症 (Alzheimer's disease) - (1) 發生率:失智症中以阿茲海默症(Alzheimer's disease) 最常見,占60%。 - (2) 病因: - a. 早發型:5%,好發30~60歲,AD,由一群在第21 (amyloid precursor protein)、14、1對染色體上基因變異和這些變異形成不正常的蛋白質所引起。 - b. 晚發型: 絕大多數病患屬於這一類,好發 60 歲以上。還未發現明確致病基因 Source: [[sources/med4-book4-ch06|己、大腦疾病]].

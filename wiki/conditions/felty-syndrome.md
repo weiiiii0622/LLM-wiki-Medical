@@ -23,6 +23,8 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Felty syndrome (Felty 氏症候群)'
   - 'Felty syndrome'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,13 @@ RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合�
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book6-ch04]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- (3) Sjögren's syndrome、RA、SLE、皮肌炎等免疫疾病。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- 1. 當出現嚴重、持續性的周邊角膜浸潤、潰瘍或無法解釋之周邊角膜變薄時,應考慮 是否為全身性膠原血管疾病所造成。最常見的疾病是類風濕性關節炎(RA)造成 的角膜炎,這些角膜炎的表現包含了: - (1) Peripheral ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (Wege Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - c. 自體免疫性疾病(如:RA、SLE)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - b. 好發於 finger DIP joint 和 spine。特徵為不對稱性關節疼痛、晨僵,症狀與 RA 有點類似但通常較輕微。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 【詳解】題幹描述並不精準。這個 data 最合理的推測就是 B 肝 導致 Liver cirrhosis 合併 HCC, 因為 portal hypertension 後 splenomegaly 引起 thrombocytopenia。這種 condition 可能也不適合手術了。但撇除掉這些,如果真的要開刀,那當然 (B)(C)(D) 都很重要必須考慮。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -78,9 +84,6 @@ RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合�
 - B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - 1. 這類疾病與 RA 都會造成滑液膜炎、骨質腐蝕 (Bone erosion),但卻類風濕性因子陰性,這也是這類疾病被稱為「血清陰性」的原因,藉此與 RA 做區隔。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - a. 與 RA 一樣,都會造成滑膜發炎、關節腐蝕,但 PsA 通常 RF(-)、侵犯 DIP、且中軸骨的侵犯可能包含 Spine、SI joint; Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- ...nterior uveitis (記法 AAA) | | PsA | 葡萄膜炎 | Bilateral, chronic, posterior uveitis | | Reiter's | 結膜炎 | Conjunctivitis | | RA, Vasculitis | 鞏膜炎 | Scleritis | | SLE, Vasculitis | 視神經炎 | Optic neuritis | Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- | | 正常 | 非發炎性 | 發炎性 | 感染性 (Septic) | |-------------|------------|---------|--------------|--------------| | 外觀 | 清澈 (Clear) | 清澈~黃 | 稍混濁、黃白 | 混濁 (Opaque) | | 白血球/mm³ | 50,000 | | 多核球比例 (PMN) | | 75% | > 90% | | 葡萄糖濃度 | ~Serum | ~Serum | 25~Serum | 3 | > 3 | > 3 | | 狀況 | | OA | RA, SLE, GA | 感染 | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 
 ## Clinical Caveats
 

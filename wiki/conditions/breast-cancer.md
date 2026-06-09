@@ -34,6 +34,8 @@ sources:
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Breast cancer (乳癌)'
   - 'Breast cancer'
@@ -48,7 +50,7 @@ tags:
 
 ## Summary
 
-乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +84,13 @@ tags:
 - [[sources/med5-book6-ch07]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- 3. 視網膜的轉移性腫瘤:最常見的轉移性腫瘤在女性來自乳癌;在男性則來自肺癌。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- ...性惡性 | 淚腺腺狀囊樣癌 (adenoid cystic | 横紋肌肉瘤 | | 腫瘤 | carcinoma) | (rhabdomyosarcoma) | | 最常見的轉移性惡性 | 男:肺癌 | 神經母細胞瘤 | | 腫瘤 | 女:乳癌 | (neuroblastoma) | | 小孩最常見的續發性 | | 視網膜胚母細胞瘤 | | 惡性腫瘤 | | (retinoblastoma) | Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - | • 有乳癌病史 | • 高風險子宮內膜癌 | • 冠心病 | |--------------|------------|------------| | • 有靜脈栓塞或中風病史 | • 活動性肝臟疾病 | • 未診斷的陰道出血 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 目前雌激素建議使用 transdermal estradiol 以降低血栓之風險;而黃體素建 議使用 micronized progesterone 以降低乳癌和心血管疾病之風險。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 【詳解】停經後接受荷爾蒙治療的禁忌症包括乳癌、子宮內膜 癌、未診斷的陰道出血、有肝臟疾病、靜脈栓塞和中風的病史。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -101,8 +107,6 @@ tags:
 - 1. 乳癌為台灣婦女發生率第一位的癌症(每十萬名婦女約有 180 人發生),好發於 45~69 歲之間的女性。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - 2. 依據衛生福利部統計資料顯示,每年有約9,600位婦女罹患乳癌,1,900人死於乳癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (1) BRCA1 與 BRCA2 為 tumor suppressor gene,當此基因突變時,會導致家族遺傳性乳癌及卵巢癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (5) Familial breast cancer (BRCA2) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 
 ## Clinical Caveats
 

@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med6-book2-ch02]]"
 aliases:
   - 'Muscular dystrophy (肌肉失養症)'
   - 'Muscular dystrophy'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-遺傳性肌肉結構蛋白疾病群，造成進行性肌無力與肌肉退化。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+遺傳性肌肉結構蛋白疾病群，造成進行性肌無力與肌肉退化。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch08]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med6-book2-ch02]]
 
 ## Key Details From Sources
 
+- ...c) | (myogenic) | (最常見) | (mechanical) | | 疾病 | (1) 動眼神經麻痺(2) Horner 氏症候群(3) *Marcus Gunn 氏jaw-winking 症候群 | (1)重症肌無力(2)肌肉失養症(3)眼球肌病變 | (1) 退化性 (老化)(2) 術後註:此指提上眼瞼肌的腱膜 | (1) 皮膚鬆垂(2) 腫瘤(3) 結疤 | Source: [[sources/med6-book2-ch02|乙、眼瞼]].
 - III. 肌肉病變(Muscular Disease) 178 - A. 肌肉失養症 (Muscular dystrophy) 178 - B. 多發性肌炎 (Polymyositis)、皮肌炎 (Dermatomyositis) *182* Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - #### A. 肌肉失養症 (Muscular dystrophy) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 1. 裘馨氏肌肉失養症(Duchenne's muscular dystrophy) - (1) 病因: - a. 遺傳性肌肉病變中最常見的一種,屬隱性性聯遺傳,故幾乎都影響男性。 - b. X 染色體上的 Dystrophin 基因染色體異常,而無法製造出 Dystrophin 蛋白,造成鈣離子滲入細胞,導致肌肉過度收縮後壞死。 - c. 以免疫螢光染 Dystrophin,正常肌肉外圍有完整一圈, Duchenne 肌肉失養症則無法染出, Becker's 肌肉失養症會染出 Patchy 狀、斷斷續續的。 - d. 肌肉病理變化: 肌肉細胞大小不一,有些萎縮,有些肥大; 肌肉細胞與細胞間有結締組織及脂肪增生; 細胞間質有淋巴球的侵入。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].

@@ -13,6 +13,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch08]]"
 aliases:
   - 'Rubella (德國麻疹)'
   - 'Rubella'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-通常較輕微，但孕期感染可造成 congenital rubella syndrome。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+通常較輕微，但孕期感染可造成 congenital rubella syndrome。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch05]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch08]]
 
 ## Key Details From Sources
 
+- 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- ...視軸,就會明顯降低視力,嚴重時甚至可以導致失明。原因可分為三類:遺傳因素、先天代謝異常、母親因素(如母親懷孕期感染或服用特定藥物等)。 - (1) 單眼的先天性白內障(佔 1/3) 較常是偶發性,主要與眼球發育異常或是外傷和 感染(如先天性德國麻疹感染)有關。 - (2) 雙眼先天性白內障則較常與顯性遺傳(具家族史)有關,其中約60%病患可發現患有先天性代謝疾病(如半乳糖血症 galactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinop Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - ...適症狀。 ・身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 ・實驗室檢查:血液常規(WBC, RBC, Plt, Hct, Hb, MCV)、血型、Rh 因子、B型肝炎(HBsAg, HBeAg)、梅毒(VDRL)、德國麻疹(Rubella IgG)、HIV、尿液常規。 二、例行產檢。 註:若德國麻疹抗體檢查呈陰性之孕婦,宜在產後注射德國麻疹疫苗 ※預產期評估(Naegele's rule):LMP 日期,月+9,日+7+(週期-28) | | | | | 第2次 | | 16 週 | 例行產檢。 | | | | | 第3次 | | 20 週 | • 例行產檢。 | | | | | | 期,妊娠 | | • 超音波檢查。 | | | | | | 17 週至 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - | 染色體異常 | 最常見的原因,約占 50%。染色體異常以三染色體 (如:trisomy | |-------|-----------------------------------------------| | | 21) 最多 (52%)、三 / 四倍體其次 (22%)、單染色體 ( 如:45XO) | | | 再其次 (19%)、其他的 ( 如:轉位, mosaicism 等 ) 佔 7% | | 先天性異常 | 可能來自染色體異常;另外可能來自環境毒素或藥物導致 | | 母親因素 | 先天或後天性子宮異常(如:子宮中隔或子宮腔沾黏)、急性病 | | | 毒感染 (如:rubella, parvovirus B19) 和內分泌異常 (如:甲狀腺 | | | 功能異常) | | 外傷或侵襲 | 性檢查 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - 【詳解】孕婦接種非活化病毒疫苗(如流行性感冒、狂犬病)、 類毒素(如白喉-百日咳-破傷風)和免疫球蛋白(如狂犬病) 是安全的。但不可接種活性疫苗(如麻疹-腮腺炎-德國麻疹、 水痘),可能會造成胎兒先天性感染;此外,接種活性疫苗後一 個月內應該避免懷孕,其中接種水痘疫苗,則建議三個月內要 避孕。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].

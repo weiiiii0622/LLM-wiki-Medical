@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book2-ch14]]"
 aliases:
   - 'Hyperthyroidism (甲狀腺亢進)'
   - 'Hyperthyroidism'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med5-book5-ch05]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book2-ch14]]
 
 ## Key Details From Sources
 
+- (1) 甲狀腺眼病變(Thyroid-related ophthalmopathy):因自體免疫造成淋巴球浸潤眼外肌,引起水腫、發炎甚至纖維化。最常侵犯的眼外肌依序為:下直肌>內直肌>上直肌>外直肌。因此,患者最常表現下斜視和內斜視。眼外肌纖維化程度與甲狀腺亢進程度並無直接相關。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (B) 2. 小英懷孕 18 週,懷孕前就有甲狀腺機能亢進並服用藥物控制。 99( ) 專 懷孕後自行停藥,也沒再回內科追蹤。在婦產科門診,醫師幫她 醫六 -32 安排抽血檢查,發現 T3、T4 值都很高,有 Overt thyrotoxicosis, 醫師告誡她必須要好好服藥控制,不然會有很多併發症。下列 何者不是小英之疾病常見的併發症? - (A) 早產或死胎 (preterm delivery or stillbirth) - (B) 深層靜脈阻塞 (deep vein thrombosis) - (C) 心臟衰竭 (heart failure) - (D) 子癇前症 (preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...------------------------------------------| | Ritodrine(Yutopar)(註1) | β₂ agonist( ↑ intracellularcAMP) | ・心臓病・控制不良的糖尿病或甲狀腺亢進・大出血 | 心悸、心跳加速、胸悶、氣促、低血壓低血鉀、高血糖肺水腫 | ・紀錄 I/O・監測心跳・監控血糖和血鉀 | | Indomethacin | COX inhibitor ( ↓ Prostaglandins 、 ↓ intracellular Ca) | ・肝腎功能異常・血小板功能異常・腸胃潰瘍・氣喘 | ・ 噁心嘔吐・ 胃痛・ 血小板功能異常 | ・胎兒 PDA 提早關閉 (32 週後使用)・羊水減少 (使用超過 72 小 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -83,8 +86,6 @@ tags:
 - (A) 甲狀腺亢進可能說話會滔滔不絕 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (B) 甲狀腺亢進不會造成認知功能缺損 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - (C) 2. 有關甲狀腺亢進與精神疾病的關聯性,下列何者正確? Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (A) 甲狀腺亢進可能引發情緒激躁、意念飛躍等躁症症狀,但不 致於引起憂鬱情緒 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (B) 甲狀腺亢進不致於出現幻覺或被害意念之精神病症狀 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 
 ## Clinical Caveats
 

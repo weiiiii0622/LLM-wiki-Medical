@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch11]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med6-book2-ch02]]"
 aliases:
   - 'Sturge-Weber syndrome (史德格-韋伯症候群)'
   - 'Sturge-Weber syndrome'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-臉部 port-wine stain 合併 leptomeningeal angioma，可有癲癇、青光眼與神經缺損。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+臉部 port-wine stain 合併 leptomeningeal angioma，可有癲癇、青光眼與神經缺損。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book2-ch10]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med6-book2-ch02]]
 
 ## Key Details From Sources
 
+- (3) 其他尚有脂漏性角化症、化膿性肉芽腫、角化棘皮症(keratoacanthoma)等等,可以用切除治療。此外像是黑色素細胞痣、草莓痣、酒色斑(port-wine stain)等可再觀察或等其自行消失。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
 - (A) 16. 下列有關葡萄酒斑(port-wine stain)的敘述,何者錯誤? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (C) Sturge-Weber disease Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - B. 葡萄酒斑 (Port-wine stain) 140 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

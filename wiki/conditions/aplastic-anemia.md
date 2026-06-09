@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Aplastic anemia (再生不良性貧血)'
   - 'Aplastic anemia'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- 7. 中毒性視神經病變(toxic optic neuropathy): - (1) 簡介:因菸酒過量、營養不良(缺乏 vit. $B_1$ )、再生不良性貧血(缺乏 vit. $B_{12}$ )、藥物毒性(抗結核菌藥物:ethambutol、isoniazid;chloramphenicol、chloroquine)、鉛中毒或甲醇中毒…等原因造成的視神經病變。 - (2) 臨床症狀:無痛性雙側視力減退和色覺減退。 - (3) 徵候:視神經盤正常或蒼白,兩側中心視野缺損和色覺異常。 - (4) 診斷:病史、用藥史,血中 vit. B1、B12 和葉酸含量。 - (5) 治療:停藥、或給予 vit. B1、B12 和葉酸。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...多數重症肌無力患者沒有胸腺瘤,但合併胸腺瘤患者仍佔約 10~42%。 - (2) 其他常見合併症:紅血球再生不良(red blood cell aplasia)、白血球再生不良(pure white blood cell aplasia)、再生不良性貧血(aplastic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopat Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 3. 暫時性性再生不良性貧血(transient aplastic anemia) Source: [[sources/med4-book1-ch04|丁、感染科學]].

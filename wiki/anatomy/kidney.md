@@ -98,6 +98,7 @@ sources:
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch09]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Kidney (腎臟)'
   - 'Kidney'
@@ -112,7 +113,7 @@ tags:
 
 ## Summary
 
-腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -210,9 +211,11 @@ tags:
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch09]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - | Uncomplicated UTI | 非複雜性指患者為非懷孕時期的健康成人 | |-------------------|-------------------------------------| | Complicated UTI | 複雜性指患者存在可能導致治療失敗的潛在問題,這些問題 | | | 包括 (1) 糖尿病、(2) 懷孕、(3) 院內感染、(4) 腎衰竭、 | | | (5) 放置導尿管或 PCN、(6) 泌尿道有結構或功能異常、 | | | (7) 泌尿道阻塞、(8) 腎臟移植、(9) 免疫功能不全等 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - ※複雜性腎盂腎炎可能進展為腎膿瘍(renal abscess),可能導致敗血症、休克、 甚至多重器官衰竭 Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - 【詳解】無症狀的菌尿症(asymptomatic bacteriuria)一般不需要治療,不過,懷孕婦女發生泌尿道感染屬於 complicated UTI,產生併發症(如早產或腎臟感染)機會大,較非懷孕時更需要積極的治療,故必須給予抗生素治療。 Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
@@ -230,7 +233,6 @@ tags:
 - #### A. 腎臟囊腫 (Renal cyst) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 1. 流行病學:腎臟常見的構造異常,50歲以上盛行率30%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (1) 症狀: 一般無明顯症狀,若>10 cm或位在腎盞-輸尿管附近,會造成阻塞性水腎。 (記法:因為腎臟大小 10×5×2.5 cm) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (1) 雙套 (Duplication of ureter): - a. 流行病學:女性多於男性;左或右側發生率相當、單側發生為雙側發生的6倍; 有家族遺傳傾向。 - b. 臨床表徵:分兩類。 - (a) 不完全型(有一條未接到膀胱,呈Y字型):常為無症狀,有時會有尿液滯留、輸尿管擴張、逆流等情形。常有腎臟異常。 - (b) 完全型(兩條都接到膀胱):常伴隨有膀胱輸尿管逆流或感染。注意:常逆流的輸尿管是膀胱內較上方的輸尿管開口,因為這條輸尿管不僅較短且進入腎臟位置較低(Weigert-Meyer law)(記法:上到下內,下到上外)。 - c. 治療:保守治療或手術治療。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 
 ## Clinical Caveats
 

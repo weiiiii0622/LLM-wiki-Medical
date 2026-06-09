@@ -27,6 +27,8 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Opportunistic infection (伺機性感染)'
   - 'Opportunistic infection'
@@ -41,7 +43,7 @@ tags:
 
 ## Summary
 
-免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +70,15 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- B. 後天免疫不全症候群(Acquired immunodeficiency syndrome) *210* Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- #### B. 後天免疫不全症候群 (Acquired immunodeficiency syndrome) Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 1. 簡介:由感染 human immunodeficiency virus 造成,因 CD4+ T 淋巴球受攻擊而減少 造成免疫不全,當 CD4+ 數量少於 50 cells/mm3 時,易有巨細胞病毒視網膜炎。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- (4) 眼眶鼻腔白黴菌症(orbital-rhino-mucormycosis):死亡率高! - a. 最常見的黴菌感染,是一種伺機性感染,多發生於糖尿病合併酮酸中毒或器 官移植後使用免疫抑制劑的病患上。 - b. 致病機轉:經呼吸道,吸入白黴菌芽孢後,造成組織壞死及血管阻塞,病灶成黑色結痂且發出惡臭。 - c. 症狀: 發燒、眼眶腫脹、突眼、鼻腔惡臭。 - d. 診斷:直接從病灶取檢體做黴菌培養或切片檢查,以 HE 染色陽性並觀察到 典型無分隔的分枝菌絲。 - e. 治療: 必須先控制糖尿病並將病灶做清創手術, 投予 IV 抗黴菌藥物 (amphotericin B)治療,太嚴重時需施行眼窩剜除術。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 8. 人類後天免疫不全病毒(HIV): - (1) 傳染方式:透過性交、使用感染針具、注射或移植受感染的血品或器官,以及母子垂直傳染; Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -84,11 +92,6 @@ tags:
 - (e) 帶狀疱疹大多只發生於身體單側(胸>三叉、腰>薦>頸),只有少數 會超過範圍到對側甚至全身散佈,該情況的患者大多是原本就有惡性疾 病或免疫不全,其死亡機率就較高,故有「當皮蛇纏繞身體一周時就會 沒命」一說。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (C) 感染人類免疫不全病毒(HIV)的患者,罹患此病之機率及 嚴重度增加 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (A) 35. 以異位性皮膚炎和經常性感染為臨床表現,並且合併有血小板 降低的免疫不全症候群為: Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 5. KS 臨床表現,目前分為四型,包括: - (1) 典型:好發於老年、東歐男性,好發自下肢形成暗紅凸起斑塊或結節,再逐漸往上擴張,伴隨下肢淋巴水腫。 - (2) 地域型(Endemic):見於赤道非洲,好發兩個雙峰:大人(平均35歲)及小孩(平均3歲)。病灶較廣泛,也常侵犯內臟,若侵犯內臟,相當致命。 - (3) 因化學療法或器官移植而致免疫力低落者:少見,主要見於 solid-organ 移植並長期服用免疫抑制劑者,停止服用免疫抑制劑可以使症狀緩解。 - (4) 後天免疫不全症候群(AIDS) 相關型: 見於 AIDS 患者,此類 KS 幾乎只發生 在男同性戀者,主要分布在臉上,然後蔓延至驅幹。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (1) DiGeorge syndrome: - a. 致病機轉及特色:胚胎發育早期,第三及第四 pharyngeal pouch 發育異常,造成胸腺及副甲狀腺缺乏或發育不良(aplasia/hypoplasia),因此會有 T 細胞免疫不全(胸腺缺乏造成)及低血鈣(副甲狀腺素缺乏造成)。病人大多有 chromosome 22q11.2 的 microdeletion。病人也常合併有先天性心血管異常(cono-truncal anomalies, tetralogy of Fallot, interrupted aortic arch,右側主動脈弓;心房或心室中膈缺損…)及其他先天異常如食道閉鎖,bifid uvula,眼距寬,下巴小,low-set ears…。(CATC Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...種為 X-linked, 其餘 11 種為自體隱性遺傳(例如 ADA deficiency…)。皆會造成淋巴球無法 正常發育,而同時產生體液性及細胞性免疫缺陷。 - b. 臨床症狀:出生後數個月內就產生反覆的感染(肺炎,中耳炎,菌血症…)或伺機性感染(病毒,Candida,PCP…),生長發育不良,慢性腹瀉。抽血會淋巴球(尤其 T 細胞)低,免疫球蛋白低。若沒有骨髓移植則大多一歲前死亡,為急症! - c. 治療:骨髓移植。ADA(adenosine deaminase)-deficient SCID 可以注射 polyethylene glycol conjugated adenosine deaminase(PEG-ADA)治療。另外, ADA-deficient SCID 目前 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...分,母親說,孩童打完卡介苗後其注射位置直到目前尚無法癒合。男童自從 2 個月大開始,便有反覆性腹瀉、肺炎,一般 CBC/DC 檢查,一直都是lymphopenia 980/mm³,lymphocyte subsets 顯示 CD3+ 2%、CD4+ 1%、CD8+ 1%、CD19+ 85%、CD16+ CD56+(NK cell) 5%;immunoglobulin(Ig)level 顯 示 IgG 86 mg/dL、IgA 5 mg/dL、IgM undetectable、IgE 2週(通常≥39℃)。常合併鮭魚色 (salmon-colored)的暫時性紅疹。 - (2) 新的 ILAR classification for juvenile idiopathic arth Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (5) 治療: - a. 在成人或免疫不全的病人身上,建議使用 acyclovir 治療,一般健康兒童感染 水痘則不須常規給 acyclovir。 - b. 不建議使用 aspirin 治療,容易產生 Reye syndrome。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book6-ch05]]"
   - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med6-book2-ch01]]"
 aliases:
   - 'Nerve conduction study, NCS/NCV (神經傳導檢查)'
   - 'Nerve conduction study, NCS/NCV'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book6-ch05]]
 - [[sources/med5-book6-ch06]]
+- [[sources/med6-book2-ch01]]
 
 ## Key Details From Sources
 
+- 1. 光線由角膜(第一次折射)→瞳孔→水晶體(第二次 折射)→玻璃體→視網膜→視神經傳導路徑→枕葉。 Source: [[sources/med6-book2-ch01|甲、眼睛概論]].
 - 【詳解】(C) 通常靠理學檢查(PE)及神經傳導檢查(Nerve Conduction Velocity, NCV)來診斷。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - 5. 診斷:以肌電圖及神經傳導速度測定,配合臨床症狀。 Source: [[sources/med5-book6-ch06|己、手部]].
 - ...--|------------------| | | (B) Tinel's sign positive | | | | (C) 病人若出現魚際肌(thenar muscle)萎縮或無力代表嚴重的運動神經壓迫 | | | | (D) 可透過神經傳導速度(nerve conduction velocity)檢查來確定診斷 | | | (B) | 3. 下列有關腕隧道症候群(carpal tunnel syndrome)之敘述,何者錯誤? | 104(一)專醫五-19 | | | (A) 曲腕動作會加重症狀 | | | | (B) 一定有魚際肌(thenar muscle)的萎縮 | | | | (C) 初期可以施用副木治療 | | | | (D) 手術是切斷腕橫韌帶(transve Source: [[sources/med5-book6-ch06|己、手部]].
@@ -64,7 +67,6 @@ tags:
 - ...急診求診時,常見的臨床特徵中,下列何者不常出現?(A) 認知功能障礙(B) 尿失禁(C) 單側無力(D) 步態不穩 | 101( 二 ) 專醫四 -77 | | (C) 22. 一般認為 Alzheimer's disease 主要是因何種神經傳導物質(neurotransmitter)減少所致? (A) dopamine (B) serotonin (C) acetylcholine | 100(一)專醫四-48 | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (D) 2.65 歲女性素食者來門診,主訴漸進性步態不穩6個月,血液檢查發現維生素 B12 (Vitamin B12) 偏低,神經學檢查發現膝反射和踝反射增強,陽性巴賓斯基氏徵象(positive Babinski sign),下肢振動覺和位置覺受損,神經傳導檢查出現周圍神經病變,其診斷最可能為何? Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (3) 也可用神經傳導速度檢查輔助診斷,脫髓鞘病變(demyelination)會發現有傳導阻斷(conductional block)的現象。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 2. 民國 94 年曾報導高雄市張氏三兄弟罹患「腎上腺白質退化症」(adrenoleuko-dystrophy, ALD),即屬於白質失養症(leukodystrophy)的一類,與長鏈脂肪酸(very long chain fatty acid, VLCFA)無法代謝有關,非常長鏈脂肪酸過多,堆積在身體各處器官,尤其是大腦白質(髓鞘)和腎上腺皮質,所以導致腎上腺機能與神經傳導功能喪失。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 
 ## Clinical Caveats
 

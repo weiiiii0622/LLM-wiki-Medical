@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Rhabdomyosarcoma (橫紋肌肉瘤)'
   - 'Rhabdomyosarcoma'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-兒童常見軟組織肉瘤，可發生於頭頸、泌尿生殖道、四肢或軀幹，治療整合手術、化療與放療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童常見軟組織肉瘤，可發生於頭頸、泌尿生殖道、四肢或軀幹，治療整合手術、化療與放療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book4-ch10]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- ...orphic | | | 原發性良性腫瘤 | lacrimal gland adenoma) | | | 最常見的原發性惡性 | 淚腺腺狀囊樣癌 (adenoid cystic | 横紋肌肉瘤 | | 腫瘤 | carcinoma) | (rhabdomyosarcoma) | | 最常見的轉移性惡性 | 男:肺癌 | 神經母細胞瘤 | | 腫瘤 | 女:乳癌 | (neuroblastoma) | | 小孩最常見的續發性 | | 視網膜胚母細胞瘤 | | 惡性腫瘤 | | (retinoblastoma) | Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - E. 橫紋肌肉瘤(Rhabdomyosarcoma, RMS) 197 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ### E. 橫紋肌肉瘤 (Rhabdomyosarcoma, RMS) Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (C) 1. 下列何者是兒童惡性橫紋肌肉瘤(rhabdomyosarcoma)較不好發 108(ニ)専 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].

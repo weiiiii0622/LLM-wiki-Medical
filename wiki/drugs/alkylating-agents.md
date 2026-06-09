@@ -26,6 +26,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch09]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Alkylating agents (烷化劑)'
   - 'Alkylating agents'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,13 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch09]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- 1. 瘢痕性類天疱瘡(Ocular cicatricial pemphigoid): - (1) 簡介:第二型過敏反應,自體抗體攻擊基底膜,與 HLA-DR4、DR2 相關。 - (2) 臨床症狀: 反覆性結膜炎、結膜下水疱、結膜皺縮、乾眼、瞼球黏連 (symblepharon)、瞼瞼黏連 (ankyloblepharon),導致眼球活動受限。 - (3) 治療:口服類固醇或眼球局部使用類固醇或維他命 A 藥膏,嚴重的用口服 cyclophosphamide $1.5\sim2.0$ mg/kg/day。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (C) cisplatin + cyclophosphamide Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (D) carboplatin + cyclophosphamide Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | Regimen | • EMA-CO(etoposide, MTX, Act-D, cyclophosphamide, vincristine) | |---------|----------------------------------------------------------------| | Course | ・使用至 remission (連續 3 次 β-hCG 達正常值)後追加 3 個療程 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -85,8 +91,6 @@ tags:
 - c. Cyclophosphamide:這也是一種免疫抑制劑,原本是用來做為癌症的化學治療之用,後來也常用來做為自體免疫疾病的輔助治療或脈衝治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - ...泡時,可判讀為陽性反應【詳解】(A) 是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B) 為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C) 為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D) 為 NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 【詳解】(A)是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B)為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C)為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D)為NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- (B) 13. 使用靜脈注射 cyclophosphamide 來治療全身性紅斑狼瘡(systemic lupus erythematosus)患者合併嚴重性腎炎(lupus nephritis)時,下列那一項不是其常見的併發症? Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

@@ -7,6 +7,9 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'HLA typing and crossmatch (HLA 配對與交叉試驗)'
   - 'HLA typing and crossmatch'
@@ -21,16 +24,26 @@ tags:
 
 ## Summary
 
-器官移植前評估 donor-recipient compatibility 與 preformed antibodies。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+器官移植前評估 donor-recipient compatibility 與 preformed antibodies。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- (1) 症狀:急性前葡萄膜炎會畏光、疼痛、紅眼、視力下降、流淚,多與 HLA-B27 抗原有關;慢性前葡萄膜炎可能無症狀或有漂浮物。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- 1. 與自體免疫相關的葡萄膜炎,以下舉出常見的: - (1) HLA-B27 抗原關聯性急性前葡萄膜炎: Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- a. 僵直性脊椎炎(Ankylosing spondylitis):主要影響 sacroiliac joint (sacroiliitis)及中軸骨(spondylitis)。約90%病患 HLA-B27(+),約30%病患有急性前葡萄膜炎,兩眼常不同時發生,且易復發,嚴重時前房會有纖維性滲出物。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- 1. 瘢痕性類天疱瘡(Ocular cicatricial pemphigoid): - (1) 簡介:第二型過敏反應,自體抗體攻擊基底膜,與 HLA-DR4、DR2 相關。 - (2) 臨床症狀: 反覆性結膜炎、結膜下水疱、結膜皺縮、乾眼、瞼球黏連 (symblepharon)、瞼瞼黏連 (ankyloblepharon),導致眼球活動受限。 - (3) 治療:口服類固醇或眼球局部使用類固醇或維他命 A 藥膏,嚴重的用口服 cyclophosphamide $1.5\sim2.0$ mg/kg/day。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 2. Steven-Johnson syndrome: - (1) 簡介:第三型過敏反應,與 HLA-B1502 基因型表現有關。 - (2) 臨床症狀:在眼睛會造成臉球黏連(symblepharon)、乾眼、瘢痕性眼瞼內翻、 倒睫毛等。 - (3) 治療:支持性療法,如給予無防腐劑的人工淚液,局部抗生素藥膏預防感染, 嚴重者可能須羊膜移植,更嚴重者須角膜移植。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 1. Behçet's disease:是一種全身性慢性阻塞性血管炎,至今原因不明,但與 HLA B51 有關。 - (1) 症狀: - a. 主要症狀有四:口腔潰瘍、生殖器潰瘍、皮膚結節性紅斑、葡萄膜炎。 - b. 副症狀包含靜脈炎、關節炎、腸胃病變、中樞神經症狀、心血管病變等。 - (2) 診斷主要依據臨床症狀:在一年中有三次以上的復發性口腔潰瘍加上至少兩項主要症狀。 - (3) 眼部病變:葡萄膜炎為非肉芽腫性,嚴重發炎時會出現前房蓄膿(hypopyon)、 角膜潰瘍。此外,因其根本病變為阻塞性血管炎,於臨床上可引起虹膜睫狀體 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 4. 僵直性脊椎炎(Ankylosing spondylitis): 好發於男性,與 HLA-B27 相關,約 1/4 病 患會出現反覆性非肉芽腫性虹膜炎。 - (1) 眼部表徵:以急性前葡萄膜炎(虹膜炎)為主。 - (2) 治療:主要針對虹膜炎,使用局部類固醇及散瞳劑。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - a. 最常發生在 30~50 歲的女性,和 HLA-DR4 基因相關。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - d. 診斷的標準: - (a) 影像上有 sacroiliitis +下方一個特徵。 - (b) HLA-B27(+) + 下方大於(或等於)兩個特徵:dactylitis, positive family history, inflammatory back pain, enthesitis, arthritis, inflammatory bowel disease, uveitis。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (C) 80~98% 僵直性脊椎炎的病患,其血中 HLA-B27 是陽性,而一般正常人只有少數是陽性 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].

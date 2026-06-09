@@ -29,6 +29,8 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Anti-tuberculosis drugs (抗結核藥物)'
   - 'Anti-tuberculosis drugs'
@@ -43,7 +45,7 @@ tags:
 
 ## Summary
 
-結核病治療核心藥物組合，需注意副作用與療程。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+結核病治療核心藥物組合，需注意副作用與療程。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +74,15 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- 1. 結核病(tuberculosis): - (1) 眼部結核:由結核桿菌(*Mycoplasma tuberculosis*)經血行性或周邊組織直接傳播而感染或可能來自對結核菌的免疫反應。 - a. 症狀:可侵犯眼部各部位,臨床表徵變化多端,但以脈絡膜炎最常見。 - b. 診斷:以結核菌培養最準確,但眼部組織取得不易,故也可抽取前房水或玻璃體液作 acid-fast stain,或用 DNA 探針輔助。一般臨床上若強烈懷疑是眼結核病患,可直接給予抗結核藥物觀察其反應以決定是否繼續治療。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- c. 治療:給予全身性抗結核藥物(Isoniazid、Rifampin、Ethambutol、 Streptomycin),但需注意副作用如影響肝腎功能及視神經。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 2. 抗結核藥物: Ethambutol、Isoniazid 會引起視神經病變。其中 Ethambutol 的毒性與劑量有關,及時停藥可回復。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 7. 中毒性視神經病變(toxic optic neuropathy): - (1) 簡介:因菸酒過量、營養不良(缺乏 vit. $B_1$ )、再生不良性貧血(缺乏 vit. $B_{12}$ )、藥物毒性(抗結核菌藥物:ethambutol、isoniazid;chloramphenicol、chloroquine)、鉛中毒或甲醇中毒…等原因造成的視神經病變。 - (2) 臨床症狀:無痛性雙側視力減退和色覺減退。 - (3) 徵候:視神經盤正常或蒼白,兩側中心視野缺損和色覺異常。 - (4) 診斷:病史、用藥史,血中 vit. B1、B12 和葉酸含量。 - (5) 治療:停藥、或給予 vit. B1、B12 和葉酸。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 4. 內科治療: - (1) 常用藥物: INH=isoniazid; RMP=rifampin; EMB=ethambutol; PZA=pyrazinamide; SM=streptomycin。 - (2) 初次感染: - a. 建議:前2個月INH+RMF+PZA+EMB,後4個月INH+RMF+EMB。 - b. 替代:9個月 INH + RMP + EMB。 - (3) 再治、復發: - a. 依序: 2個月 INH + RMP + EMB + PZA + SM, 1個月 INH + RMP + EMB + PZA, 5個月 INH + RMP + EMB。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...ed | 107(二)專醫五-5 | | (A) | 9. | 有關各種抗生素作用機轉的敘述,下列何者正確? (A) cephalosporins 是抑制細菌細胞壁的合成與發展 (B) vancomycin 是抑制細菌蛋白質的合成 (C) rifampin 是抑制細菌去氧核醣核酸(DNA)的合成 (D) quinolones 是抑制細菌核糖核酸(RNA)的合成 【詳解】(B) 抑制細菌細胞壁的合成;(C) 抑制 DNA-dependent RNA polymerase 的活性;(D) 抑制 DNA 合成。 | 106(二)專醫五-63 | | (C) | 10. | 與腹腔內感染(intra-abdominal infections)相關的敘述,下列何者錯誤? (A) 電腦斷層攝影(ab Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (D) 抗結核病藥物 INH(isoniazid) 之相關神經病變,是缺乏維生素 B2 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
@@ -89,10 +97,6 @@ tags:
 - 3. Rifabutin 類似 Rifampin,用於 AIDS 病患的 TB, MAC 感染,因為較少影響抗愛滋病毒藥(PI)代謝。可能導致葡萄膜炎(Uveitis)。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...------|------------------------------------|-----------|---------------|--|--| | 對抗細菌(易→難) | Clindamycin | +β lactamase inh.,Moxifloxacin | Cefoxitin | Metronidazole | | | | Peptostreptococcus | + | + | + | + | | | | Bacteroid fragilis | - | + | + | + | | | | C. difficile colitis | _* | _* | _* | + | | | | 用途 | 咽喉膿瘍(横膈上) | 吸入性肺炎 | 腹腔內混合 | 性感 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...ycosides | | 2. Carbapenems(imipenem) | 2. Clindamycin | 2. Cephalosporins | 2. Monobactams | | 3. β-Lactam+β-lactamase inh. | 3. High-dose | 3. Tetracycline | 3. Trimethoprim- | | (Ampicillin+ sulbactam, | antipseudomonal | 4. Vancomycin | sulfamethoxazole | | Ticarcillin+ clavulanic acid, | penicillins | 5. Erythromycin | | | Piperacillin+ Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- (2) 治療: - a. 完全沒有抗藥性可考慮 IV high dose penicillin - b. 一般經驗性用藥需使用第三代 cephalosporin 最好的選擇是 Ceftriaxone。 - c. 高度抗藥性,需加上 Vancomycin、Rifampin。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 93(一)專 (D) 4. 承上題, 首選藥物是下列何者? (B) rifampin + ethambutol + isoniazid 內 2-17 (A) penicillin (C) dapsone + rifampin (D) co-trimoxazole 【詳解】(D) co-trimoxazole 就是 TMP-SMX (Baktar®) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 2. 治療:施打多糖體莢膜的疫苗,親密接觸者給予 Rifampin 預防,患病者給予第三代頭 孢黴素(如 Ceftriaxone)治療。[ 詳見腦膜炎章節 ] Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 3. 可能因接觸病患喉嚨或鼻腔分泌物、飛沫而傳染,可能於潛伏期 3~4 天後發病。因此 罹病者須隔離、接觸者須預防性投藥,原則如下: - (1) 罹病者須迅速投予高劑量的第三代 cephalosporin,須在 24 小時內向衛生單位通報, 以進行相關防疫措施。至少住院的第一天必需採取呼吸道隔離(投藥後 24 小時即 不具傳染力)。 - (2)接觸者:同住之家人、室友、直接接觸口鼻分泌物之醫療人員應儘速投予預防性抗 菌藥物 rifampin(600 mg PO bid for 2 days)。 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 
 ## Clinical Caveats
 

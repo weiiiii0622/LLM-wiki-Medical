@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Glioma (神經膠質瘤)'
   - 'Glioma'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-源自 glial cells 的 CNS 腫瘤群，包含 astrocytoma、oligodendroglioma、glioblastoma 等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+源自 glial cells 的 CNS 腫瘤群，包含 astrocytoma、oligodendroglioma、glioblastoma 等。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- (1) 簡介:顯性遺傳疾病,其病灶可以侵犯皮膚、神經、骨骼、及腸胃道等,並且數目及大小會隨著年齡增加。可分為兩型:第一型較常見,又稱 von Recklinghausen disease,具有較明顯的皮膚病灶,也比較容易發生視神經膠質瘤,但預後較佳;第二型比較不會產生皮膚的病灶,但會發生聽神經瘤、腦膜瘤及其他中樞神經瘤,一般預後較差。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- (2) 在眼睛的表現: - a. 第一型: - (a) 眼眶:視神經膠質瘤(optic nerve glioma)、蝶骨一眼眶腦膨出(spheno-orbital encephalocele) - (b) 眼瞼神經纖維瘤:眼瞼增厚且呈現 S 型異常。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 2. 孩童:以交感神經節細胞腫瘤為主,如:節神經瘤(gangliomas)、節神經母細胞瘤(ganglioneuroblastomas)、神經母細胞瘤(neuroblastomas)。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...amilial polyposis • - (b) Gardner's syndrome: polyposis + osteoma + fibroma + sebaceous cyst • - (c) Turcot's syndrome: glioblastoma (CNS tumor) • - (d) CHRPE: congenital hypertrophy of retinal pigmented epithelium • - d. 篩檢: - (a) APC 基因檢驗。 - (b) 眼科檢查: CHRPE (congenital hypertrophy of retinal pigmented epithelium)。 - (c) 大腸鏡檢。 - e. 處置: - (a) Total p Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - C. 星狀細胞瘤 (Astrocytoma) 207 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

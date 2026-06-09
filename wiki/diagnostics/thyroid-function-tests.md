@@ -47,6 +47,7 @@ sources:
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -61,7 +62,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -108,9 +109,12 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- ...lmopathy): - (1) 簡介: Graves' sisease 是甲狀腺機能亢進引起的疾病,與自體免疫相關,好發於 20~45 歲女性。甲狀腺眼症是引起成人突眼最常見的原因,又稱 Graves ophthalmopathy,但其與甲狀腺功能是否正常並無直接的關係,即使甲狀腺功能正常或低下,也可能產生突眼、眼瞼水腫等。不過大部份有甲狀腺眼症的病患,甲狀腺功能多不正常。 - (2) 致病機轉:由於甲狀腺激素產生的自體免疫變化,細胞釋出 cytokine 而刺激 fibroblast 增生,分泌 glycosaminoglycan 以及使促使膠原蛋白增加,沉積在眼外 肌及眼眶脂肪,使眼外肌發炎且體積增大、眼眶水腫,壓迫視神經,後續肌肉 纖維化造成複視,且眼窩壓力增加導致眼球突出 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- (5) 甲狀腺眼症的診斷:包含眼部檢查(視力、突眼檢查、眼球活動情形、眼壓等) 以及甲狀腺功能檢查,另外眼部 CT 檢查,可以見到眼直肌明顯肥厚的情形。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - | 症 狀 | · 心搏過速、焦慮、手抖、減緩母親增重、妊娠劇吐 | |-----|--------------------------| | 表 徵 | ・甲狀腺腫大、突眼 | | 實驗室 | ・TSH ↓和 free T4 ↑ | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (A) 1. 下列那一個指標是篩檢甲狀腺功能(screen for thyroid function) 99(二)專 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
@@ -126,9 +130,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - (c) 放射治療:僅僅使用在無法接受膀胱全切除的病患(年紀太大、有手術禁忌、共病太多不宜手術),因為治療後復發率高達 50%,對於 T2、T3 腫瘤治療後五年存活率僅 30%,有 15%的人治療後有顯著的腸胃與膀胱 副作用。使用方式為 6~8 週內給予腫瘤共 7,000 cGy 輻射傷害。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...結締組織。 - Tla 腫瘤侵犯到結締組織,但沒有淋巴血管侵犯;以及無分化不良或未分化(TlG1-2) - T1b腫瘤侵犯至結締組織,合併淋巴血管侵犯或分化不良(T1G3-4) - iv. T2:侵犯尿道海綿體。有或無尿道侵犯。 - v. T3:侵犯陰莖海綿體。有或無尿道侵犯。 - vi. T4:侵犯其他鄰近結構。(ex:陰囊,前列腺,恥骨) - (b) cN(臨床分期): - i. cN0:無摸到淋巴結腫大。 - ii. cN1:摸到腹股溝淋巴結腫大(可推動、單一個)。 - iii. cN2: 摸到腹股溝淋巴結腫大(可推動、多個)。 - iv. cN3: 摸到腹股溝淋巴結腫大(不可推動),或骨盆淋巴結腫大。 - (c) pN (病理分期): - i. pN0:無淋巴結驗出腫 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...2a:大小>3公分,但≤5公分。 | 或肺塌陷到肺門,包含部分或全肺阻塞性肺炎。 | | T2b:大小> 5公分,但≦7公分。 | T2a:大小> 3 公分 ,但≦ 4 公分。 | | | T2b:大小&gt;4公分,但≦5公分。 | | T3:大小>7公分。 | T3:大小>5公分,但≦7公分。 | | 或侵犯到主支氣管分支處2公分以內,但未 | 或侵犯到主支氣管分支處 2 公分以內,但未侵 | | 侵犯到分支處。 | 犯到分支處。 | | 或侵犯到胸壁、横隔、縱隔腔肋膜、壁層心 | 或侵犯到胸壁、膈神經橫隔、縱隔腔肋膜、壁 | | 包膜。或肺塌陷合併全肺阻塞性肺炎。 | 層心包膜。 | | 或同肺葉有其他腫瘤。 | 或肺塌陷合併全肺阻塞性肺炎。 | | | 或同肺葉有其他 Source: [[sources/med5-book4-ch03|丙、肺]].
-- N1 or T3 至少 IIB; N2 or T4 至少 IIIA; Source: [[sources/med5-book4-ch03|丙、肺]].
-- N3 至少 IIIB;N3+T3/4 至少 IIIC Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...propria or muscularis mucosae | | T1b* | Tumor invades the submucosa | | T2 | Tumor invades the muscularis propria | | T3 | Tumor invades adventitia | | T4 | Tumor invades adjacent structures | | T4a* | Tumor invades the pleura, pericardium, azygos vein, diaphragm, or peritoneum | | T4b* | Tumor invades other adjacent structures, such asd Source: [[sources/med5-book4-ch05|戊、食 道]].
 
 ## Clinical Caveats
 

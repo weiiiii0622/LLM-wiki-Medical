@@ -53,6 +53,8 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch14]]"
   - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Tumor staging (腫瘤分期)'
   - 'Tumor staging'
@@ -67,7 +69,7 @@ tags:
 
 ## Summary
 
-腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -120,9 +122,15 @@ tags:
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch14]]
 - [[sources/med6-book1-ch17]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- (4) 依照眼底變化分期: - a. stage 1 (impending macular hole): 臨床上不容易被檢查到,通常由另一隻眼有完全黃斑部破洞才被發現。眼底可見黃斑部中心凹消失且中心小凹出現圓形黃色斑。 - b. stage 2 (small full-thickness hole): 圓形黃色斑擴大。 - c. stage 3 (full-size macular hole): 眼底可見圓形裂孔,大小約視神經盤直徑的 1/3,視力通常低於 6/60 以下。 - d. stage 4 (full-size macular hole with complete PVD): 合併後玻璃體剝離 (PVD)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- (5) 治療:對 stage 3 或 4 可施以玻璃體切除術合併內限膜摘除。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- | stage 0 | 無明顯分格線 (demarcation line) | |---------|------------------------------------------| | stage 1 | 可見灰白色分格線,將未血管化的周邊視網膜與血管化的視網膜分開 | | | (彩圖請見 225 頁) | | stage 2 | 脊狀隆起 (ridge) | | stage 3 | 脊狀隆起合併新生血管 (fibrovascular proliferation) | | stage 4 | 局部視網膜剝離 | | stage 5 | 全部視網膜剝離 | Source: [[sources/med6-book2-ch12|子、視網膜]].
+- | stage | 視神經盤表現 | |-------|-----------------------| | 初期 | 視神經盤水腫,邊界模糊 | | 急性期 | 視神經盤周圍出血,出現灰白滲出物,視杯消失 | | 慢性期 | 視神經盤出血開始消退 | | 萎縮期 | 視神經萎縮 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 早期上皮性卵巢癌通常無明顯症狀或出現一些非特異性症狀(如腹脹、腹痛、食慾不振和頻尿等),不容易早期發現。因此,一旦診斷,75%的患者已達晚期(Stage III or IV)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - FIGO (International Federation of Gynecology and Obstetrics) 和 AJCC (American Joint Committee on Cancer) TNM 分期如下 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | FIGO stage | | Invasio | | TNM | AJCC | |-------------|----|---------|-------------------------------|---------|------| | I(侷限卵巢) | IA | | 】巢(外囊完整、無侵犯卵巢表面、無惡)(註1) | T1aN0M0 | IA | | | IB | ' ' ' ' | 雙側卵巢(外囊完整、無侵犯卵巢表面、無惡生腹水) | | IB Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -137,10 +145,6 @@ tags:
 - | Stage | | | Clinical Features | Radiographs | |----------------------------------------------|---|------------------------------------------|-------------------|-----------------------------------------| | Early 0 Preclinical Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - 【詳解】使用類固醇、喝酒都是 ONFH 的 risk factors。X ray 上可以看到左邊 hip joint 的 joint space 不對稱且變窄,甚至有 OA (joint space narrowing, sclerotic change, subcondral bone cyst)的樣子,需懷疑是 ONFH,FICAT stage IV。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (D) 4. 有關惡性骨腫瘤的敘述,下列何者最正確? - (A) Enneking stage IIB 是指高惡性度,同一腔室內的病灶(intracompartmental lesion ) - (B) 目前惡性骨肉瘤(osteosarcoma)的標準治療,是先切除腫瘤,再輔以術後放射治療,以避免局部復發 - (C) 惡性軟骨瘤(chondrosarcoma)的治療主要是手術切除病灶 - (D) 肢體保留手術與截肢手術相比,局部腫瘤復發率較高,同時接受肢體保留手術患者存活率較低 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- 【 詳解 】(A) Enneking stage IIB(maliganent)是指 high grade, extra-compartmental lesion, no metastasis;(B) 通常合併化療,非放射治療;(D) 目前主要採用肢體保留手術為主,除非腫瘤太大、free margin 太少,不會增加 recurrence rate, survival rate 也無太大差異。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (1) X-ray:有 Waldenstrom classification(分四個 stage:initial → fragmentation → reos sification → residual phase)和 Herring classification(又稱 Lateral Pillar System, lateral Pillar 的位置是下圖中的黑色區域,高度影響愈多表示缺血性壞死愈嚴重。如下圖:stage A:lateral pillar 高度不受影響;stage B:lateral pillar 高度 > 50 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
-- d. 腫瘤分期 (stage): TNM - (a) T - i. T1:腫瘤局限於腎臟內,≦7cm。 - (i) T1a: 腫瘤 7 cm。 - (i) T2a: 腫瘤 7~10 cm。 - (ii) T2b:腫瘤> 10 cm。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- b. 分期 (staging): TNM。 - (a) T: - i. Tx:無法評估。T0:沒有證據顯示有腫瘤。 - ii. T1: DRE(-),且 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 
 ## Clinical Caveats
 

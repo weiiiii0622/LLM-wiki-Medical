@@ -13,6 +13,8 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'Tzanck smear (Tzanck 抹片)'
   - 'Tzanck smear'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- 4. 角膜刮取:取下的樣本依懷疑的感染源做革蘭氏染色或氫氧化鉀(KOH)染色或抗酸性染色(acid fast stain)抹片檢查或細菌培養。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- ...透明清澈 | 有 KP ( 角膜後沉澱物 ) | 霧濛濛(角膜水腫) | | 瞳孔大小 | 正常 | 變小 | 中度散大且固定 | | 瞳孔光反應 | 正常 | 不良 | 無 | | 眼 壓 | 正常 | 正常或低下 | 明顯上升 | | 抹片檢查 | 致病病原菌 | 無病原菌 | 無病原菌 | Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - (A) 3. 一位 48 歲婦女, G3P2, 經血量正常, 經痛程度中等, 在例行性 抹片檢查為 CIN I, 並且發現有一個子宮肌瘤 6 公分, 卵巢疑似 排卵不良。沒有頻尿及排便困難等症狀。下一步最適合的處置 是什麼? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (3) 應進行子宮內膜評估的女性: - 大於 40 歲有不正常子宮出血 - · 小於 40 歲有不正常子宮出血,且有風險因子(肥胖、糖尿病、慢性無排卵、 tamoxifen、子宮內膜癌/乳癌/卵巢癌/大腸癌的家族史) - · 不正常子宮出血經藥物治療無效 - 使用 unopposed estrogen 的荷爾蒙補充治療 - · 子宮頸抹片發現 atypical glandular cells - · 有遺傳性非息肉性大腸癌 (HNPCC) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (A) 陰道及子宮頸抹片(Pap smear) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -56,9 +62,6 @@ tags:
 - (D) 白血球大於 12,000 cells/mm³ 或小於 4,000 cells/mm³ 或在周邊血液抹片有大於 10% immature (Band) cells Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (D) Tzanck 抹片檢查 (Tzanck test) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - ...四天內感染水痘,則有15%的新生兒會發生嚴重性水痘感染。 通常新生兒在出生後兩星期內發病,其症狀包括全身性水痘和中樞神 經系統病變,有兩到三成的死亡率。 - (g) 免疫不全患者:易併發肝炎、肺炎、腦癌和血小板減少症,死亡率高。 - e. Tzanck smear: 刮取水疱底皮膚染色用顯微鏡觀察可看見 giant and multinucleated acantholytic epidermal cells,為受病毒感染之 keratinocytes,於HSV (herpes simplex virus) 感染造成之水疱也可看見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (4) Tzanck smear 也可看見 giant and multinucleated cells。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (A) Tzanck 抹片檢查 (Tzanck smear) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (C) 22. 一位 75 歲男性,8年前開始於四肢出現無症狀皮疹,此皮疹逐漸增加、擴散。至3年前,此皮疹幾乎擴達全身。此後皮疹的範圍無明顯變化。8年間,病人很少服藥。理學檢查,皮疹犯及90%以上的皮表面積(紅皮症)(如圖1所示)。兩側腋下及腹股溝淋巴結明顯腫大,血液抹片可見異型淋巴球(如圖2所示)。此病患最可能的診斷為何? Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

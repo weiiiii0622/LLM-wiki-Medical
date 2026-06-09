@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med4-book1-ch04]]"
@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'Drug hypersensitivity (藥物過敏)'
   - 'Drug hypersensitivity'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-藥物引發免疫或類免疫不良反應，需分辨立即型與延遲型嚴重皮膚反應。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+藥物引發免疫或類免疫不良反應，需分辨立即型與延遲型嚴重皮膚反應。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- (4) 濾泡反應:為增生的淋巴組織和漿細胞,多位於穹窿內的結膜。常見原因有病毒、披衣菌感染、Parinaud 氏眼腺體症候群(Parinaud ocularglandular syndrome)、或是對局部藥物過敏。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 2. Steven-Johnson syndrome: - (1) 簡介:第三型過敏反應,與 HLA-B1502 基因型表現有關。 - (2) 臨床症狀:在眼睛會造成臉球黏連(symblepharon)、乾眼、瘢痕性眼瞼內翻、 倒睫毛等。 - (3) 治療:支持性療法,如給予無防腐劑的人工淚液,局部抗生素藥膏預防感染, 嚴重者可能須羊膜移植,更嚴重者須角膜移植。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- ...| 口服:acetazolamide | | 制劑 carbonic | 減少全身副作用。 | 腎結石、血尿、低血 | (Diamox) \ Neptazane ; | | anhydrase | 一缺點為作用時間短,眼壓 | 鉀、腹瀉、藥物過敏、 | Topical: dorzolamide | | inhibitor | 下降效果不如 β-blockers。 | SJS 等。 | | | | 且其屬於 sulfa drug,有過 | | | | | 敏史需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 | 針對短暫的降眼壓救急用(如 | 副作用:血壓上升。 | □服:glycerol、isosorbide | | | 急性隅角閉鎖性青光眼)。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - (1) Carbamazepine(Tegretol® 癲通):部分發作的首選,也可用於三叉神經痛(Trigeminal neuralgia);可能有頭暈、低血鈉等副作用,在 HLA-B1502 身上易引起 Steven-Johnson syndrome。孕婦的 AED 中,Tegretol 相對較安全。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - (1) Ethosuximide:僅可用於失神性發作(小發作);也可能引起 Steven-Johnson syndrome。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...pertension, 即 pseudotumor cerebri。為已排除腫瘤等結構性問題之顱內高壓。最常見症狀為 頭痛、視力模糊或複視。 (C) 38. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(一)專 症候群(Stevens-Johnson syndrome)」? 醫四 -74 (A) topiramate (B) gabapentin (C) lamotrigine (D) valproate 【詳解】lamotrigine 在臨床上很容易有 skin rash 的副作用,也 易引發過敏。AED中除了老藥 phenytoin 和 carbamazepine 外, 新藥就 lamotrigine 有案例報告會引發 SJS。 (#) 39. 下列何種癲癇藥 Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -56,11 +63,6 @@ tags:
 - 3. SJS: 水疱或破皮面積只佔全身體表面積(body surface area, BSA) 30%; 介於 10~30% 之間的則稱為 SJS-TEN overlap。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
 - (C) Stevens-Johnson syndrome Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - 【詳解】會有 Nikolsky sign 的疾病有 staphylococcal scalded skin syndrome、pemphigus vulgaris、pemphigus foliaceus、SJS/TEN。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (A) 9. 一位 80 歲老翁,在肢端長滿了鼓脹水泡,病理下螢光免疫檢查 101(二)專 發現 IgG, C3 線狀堆積在基底膜(basement membrane zone)。 醫四-41 該疾患最可能是下列何種水泡病? - (A) bullous pemphigoid - (B) pemphigus vulgaris - (C) Stevens-Johnson syndrome - (D) bullous drug eruptions Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- 【詳解】(A)TEN 會有 atypical target lesion,起水泡、全身大範圍脫皮、侵犯至黏膜,且多和使用藥物有關。(C)Kawasaki disease 會有淋巴結腫大、結膜炎和草莓舌。(D)Scarlet fever 會侵犯黏膜、草莓舌、淋巴結腫大。該幼童無發現淋巴結腫大,口腔黏膜和舌頭完整無異常,故懷疑是 SSSS。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) 1. 一位 9 歲女童於雙側臉頰出現紅斑,四肢伸展側有網狀紅斑,並 99(二)專 無發燒與呼吸道症狀。下列那一項是最可能的診斷? 醫四-28 - (A) Drug allergy Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (B) Stevens-Johnson syndrome Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (2) 非感染性疾病:如 Steven-Johnson syndrome、juvenile rheumatoid arthritis。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

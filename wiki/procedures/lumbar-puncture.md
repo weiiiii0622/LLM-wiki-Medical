@@ -2,7 +2,7 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch01]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med6-book2-ch13]]"
 aliases:
   - 'Lumbar puncture, LP (腰椎穿刺)'
   - 'Lumbar puncture, LP'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-取得 cerebrospinal fluid 以診斷 CNS infection、subarachnoid hemorrhage、demyelinating disease 等；IICP 或 mass effect 時需先評估風險。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+取得 cerebrospinal fluid 以診斷 CNS infection、subarachnoid hemorrhage、demyelinating disease 等；IICP 或 mass effect 時需先評估風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med6-book2-ch13]]
 
 ## Key Details From Sources
 
+- (3) 當視力更差時,可用下列方式表示:指數(counting fingers, CF)、手動(hand motion, HM)、光感(light perception, LP)、無光感(no light perception, NLP)。 Source: [[sources/med6-book2-ch13|丑、光學屈光]].
 - 4. 治療方式: - (1) 藥物治療可給 acetazolamide (Diamox)降低 CSF 的產生,或是利尿劑,另 steroid 的療效較具爭議性,目前比較推薦使用在有 severe papilledema 的病患。 - (2) 若仍無法適當控制腦壓時,需考慮作 shunting 分流手術或是 Lumbar puncture。 - (3) 若患者體重過重,可設法降低體重常能有效的降低腦壓。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...乳房>肺>腎>腸胃道 | | 醫五-9 | | | (B) 肺>乳房>腎>腸胃道 | | | | | (C) 腸胃道>腎>乳房>肺 | | | | | (D) 腎>肺>乳房>腸胃道 | | | | (A) 13 | . 下列何者最不適合做腰椎穿刺 | 則(lumbar puncture)? | 106(一)專 | | | (A) 腦部腫瘤病變 | | 醫五-13 | | | (B) 腦膜炎 | | | | | (C) 蜘蛛網膜下腔出血 | | | | | (D) 交通性水腦症(communication | cating hydrocephalus) | | | | 【詳解】做腰椎穿刺前需注 | 意是否有顱內壓升高的情形,尤其 | | | | 是後顱窩腫瘤,如果做腰椎 | 穿刺 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...llary artery分出來的。 | | | (A) 16. 下列有關腦部偽腫瘤(pseudotumor cerebri)的敘述,何者錯誤? | 105(二)專 | | (A) 常伴隨腦室變大 | 醫五-16 | | (B) 腦壓增高,作腰椎穿刺壓力往往超過 200 mmH₂O | | | (C) 會有視乳突水腫(papilledema) | | | (D) 內科治療以類固醇及利尿劑為主 | | | (A) 17. 下列有關腦膜瘤(meningioma)的敘述,何者錯誤? | 105(一)專 | | (A) 腦膜瘤是由硬腦膜(dura)生長來的 | 醫五-14 | | (B) 一般而言生長較緩慢 | | | (C) 鄰近骨頭有增生(hyperostosis)的現象 | | | Source: [[sources/med5-book1-ch18|壬、腦瘤]].

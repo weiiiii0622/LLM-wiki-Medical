@@ -8,6 +8,7 @@ sources:
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Eclampsia (子癲症)'
   - 'Eclampsia'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-子癲前症病人出現無其他原因可解釋的癲癇發作，急性處置包含 MgSO4、穩定母體與適時分娩。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+子癲前症病人出現無其他原因可解釋的癲癇發作，急性處置包含 MgSO4、穩定母體與適時分娩。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch03]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- 4. 高血壓脈絡膜病變:常見於急性高血壓的年輕人(如:子癲前症、子癲症、嗜鉻細胞瘤)或惡性高血壓的病人。眼底典型表現有 Elschnig's spot(代表局部脈絡膜阻塞)、Siegrist streak(代表類纖維蛋白壞死)或滲出性視網膜剝離。眼底螢光血管攝影檢查早期為低灌注(hypoperfusion),晚期則滲漏而高螢光。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 險最高? 醫六-40 - (A) 前一胎發生胎盤早期剝離 - (B) 合併子癇前症 (preeclampsia) - (C) 絨毛膜羊膜炎 (chorioamnionitis) - (D) 胎膜早破 (premature rupture of membranes) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - | 胎兒 | • 有致命性畸形、胎兒窘迫或胎死腹中。 | |-----|--------------------------------| | 產婦 | • 有無法控制的疾病,如:心臟病、子癲前症、子癲症、感染和創 | | | 傷等,或有安胎藥物的禁忌症。 | | 羊膜腔 | ・羊膜腔感染 | | 胎盤 | · 胎盤剝離或前置胎盤造成大量出血。 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) *126* Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].

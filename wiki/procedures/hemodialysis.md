@@ -27,6 +27,7 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Hemodialysis (血液透析)'
   - 'Hemodialysis'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,11 @@ tags:
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- ...人講話清晰度、吞嚥程度的改善。但乙醯膽鹼活性 增加,病人可能會出現血壓下降、心搏減緩,甚至房室傳導阻滯等副作用, 因此必須備妥 atropine 及急救裝置下才可進行。 - (5) 治療:使用類固醇及免疫抑制劑,全身性的重症肌無力需住院接受血液透析治療;眼科介入治療主要是當眼瞼下垂或複視無法改善時,眼瞼下垂利用含眼瞼支撐(lid crutch)的眼鏡、複視則利用稜鏡;若病情穩定但眼睛症狀持續時,可考慮手術治療。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...es)的敘述,下列何者正確? 101(一)專 (A) 副甲狀腺機能亢進(hyperparathyroidism)的病人常因分泌大 醫五-63 量副甲狀腺激素(parathyroid hormone, PTH), 造成血中鈣 - (B) 長期洗腎的病人因為腎功能不全會導致腎性骨發育不全 (renal osteodystrophy),其PTH可能會升高 - (C) 變形性骨炎(Paget's disease)主要發生在40歲以下的病人, 女多於男,是一種骨頭塑形 (remodeling) 的疾病,不會轉 變為惡性腫瘤 - (D) 骨質石化病(osteopetrosis) 又稱大理石骨病(marble bone disease),主要是因成骨細胞(osteoblast)過度活躍造成 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (B) 4.921 大地震時,大樓倒塌,一位 46 歲男性被崩塌的混凝土壓到 驅幹與下肢,經過一日一夜之搶救終於送往急診,在急診發現右 側脛骨及腓骨骨折,因此接受跟骨鋼釘牽引術,為避免因橫紋 肌溶解而造成急性腎衰竭,病人轉往加護病房嚴密觀察、並評 估接受血液透析之必要,6 個小時後,病人感到右側小腿非常疼 痛,當護士扳動腳趾時,疼痛感更形加劇,下一步應採取之最 佳步驟是下列何者? Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - b. 好發於糖尿病、洗腎、靜脈藥物濫用者、尿 路異常(如結石或阻塞)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -87,8 +90,6 @@ tags:
 - ...rograf),其作用機轉為: 醫五-3 (A) 抑制 IL-2 的生成 (B) 抑制 purine 的代謝 (C) 抑制 cytokine 的產生 (D) 抑制淋巴球進入移植體 (A) 9. 病患蔡先生, 現年 40 歲, 因尿毒症而接受血液透析共 10 年, 登 101(一)專 記換腎也等待6年,此次住院前一天晚上被通知住院並接受腎臟 醫五-1 移植。捐贈者是一位 55 歲女性腦死病患,實驗室檢查發現血清 內肌酸酐值高至 6.0 mg/dL, 血清內尿毒素氮為 54 mg/dL, 主治 醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決 然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 cc。以下什麼情況最可能解釋移植腎沒有發揮功能? (A) 移植腎腎小管壞死 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...cyte globulin (ALG) 移植後需終生使用以避免 排斥 【詳解】Antilymphocyte globulin 主要是用在術前的 induction 和 術後的急性排斥的拯救,並非終生使用。 (B) 16. 一位 22 歲女性洗腎已三年,兄弟姊妹欲捐一腎臟給她,下列那 100(一)專 些 HLA 抗原具有較為重要的臨床意義? 醫五-51 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (D) 25. 李太太因糖尿病合併腎衰竭接受血液透析多年,三年前接受丈夫 101(二)專 捐贈的腎臟進行移植。現因C型肝炎合併肝硬化及肝衰竭等待肝 臟移植,李先生又成為活體捐贈的候選人。在評估李先生是否 合適作為捐贈者,除了身體狀況外,下列心理及社會因素中何 者非為主要的考量因素? - 醫五-78 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- ...易曝曬到陽光的區域,如臉、手臂、手背、手腕等, 照到陽光後皮膚易龜裂、潰爛、皮膚脆弱起水泡及多毛症。 - (3) 誘發因子:過度飲酒(最重要)、過度鐵質攝取、病毒感染(特別是 HCV, HIV)、殺真菌劑和除草劑中所含的碳氫鹵化物、長時間 hemodialysis 或 estrogen 治療。 - (4) 伍氏燈照射下尿液呈粉紅色。 - (5) 處置: - a. 避免酒精和鐵質攝取、減少陽光曝曬、避免服用 estrogen 或接觸到含碳氫鹵 化物的物質。 - b. 除了避免危險因子外,最有效的治療方法為放血療法(phlebotomy),降低體 內鐵沉積對肝、心等器官的損害。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (B) 25. 一位 13 歲男孩學校尿液篩檢發現有血尿。他主訴以前在上呼吸 道感染後一兩天就會有肉眼可見的血尿,但是會自然消失。醫師 檢查發現他戴有助聽器,而且哥哥患有末期腎病,目前規則接受 1 週 3 次之血液透析。尿液常規檢查顯示 occult blood:強陽性 (3+); Protein: > 300 mg/dL; WBC 3~5/HPF; RBC 100~150/HPF。 下列何者為其最可能之診斷? - (A) 局部巢狀腎絲球硬化(focal segmental glomerulosclerosis) - (B) Alport 症候群 (Alport syndrome) - (C) 家族性薄基底膜疾病(familial thin base Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

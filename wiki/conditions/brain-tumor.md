@@ -10,6 +10,8 @@ sources:
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book2-ch14]]"
 aliases:
   - 'Brain tumor (腦瘤)'
   - 'Brain tumor'
@@ -24,7 +26,7 @@ tags:
 
 ## Summary
 
-顱內腫瘤依組織來源、位置與 grade 造成 seizure、IICP、focal deficit 或 endocrine symptoms。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內腫瘤依組織來源、位置與 grade 造成 seizure、IICP、focal deficit 或 endocrine symptoms。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +36,15 @@ tags:
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book2-ch16]]
+- [[sources/med6-book2-ch14]]
 
 ## Key Details From Sources
 
+- | 病灶位置 | 視野缺損的形態 | 可能疾病 | |-------|-------------------------------------------|----------------------------------| | 視交叉之前 | 同側單眼視野缺損 | 視神經炎 | | 視交叉 | 雙眼顳側視野缺損 (bitemporal visual field defect) | 腦下垂體腫瘤 (pituitarytumor)、顱咽管瘤 | | | | (craniopharyngioma) | | 視交叉之後 | 雙眼同側視野缺損 (homonynous | 腦瘤、血管阻塞、腦溢血、 | | | visual field defect) | 動脈瘤、腦炎 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- (1) 雙眼複視可能與眼外肌和腦神經病變相關:如重症肌無力、後天性斜視(如外傷性斜視)、甲狀腺眼症、腦中風、腦瘤、動脈瘤等。雙眼同時看時會出現複視,而把有問題的眼睛遮住,單眼看時,複視即消失。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- (1) 上斜肌麻痺 (superior oblique paresis): - a. 分類: - (a) 先天性:由於第四對腦神經或神經核的先天性缺損造成。 - (b) 後天性:因頭部外傷、腦血管病變、糖尿病、腦瘤等。 - b. 特色:上斜肌麻痺造成患側眼比正常眼的位置高,且垂直斜視的角度可能隨 注視方向不同或頭位置改變而有所不同。如右上斜肌麻痺者,向正前方看時, 右眼會比左眼高,當兩眼向左看或頭往右邊歪時,斜視的角度會變大。故上 斜肌麻痺的患者,常有會把頭往健側歪以減少斜視角度的現象。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - ...) interferon-alpha (B) steroids (C) sunitinib (D) sorafenib 104(二)專 (C) 15. 下列何者不是理想的腎臟捐贈者? (A) 腎功能正常者 醫五-71 (B) 同時罹患原發性腦瘤的病人 (C) 出現全身性病毒或細菌感染 (D) 梅毒、肝炎檢查正常者 (C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 104(二)專 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 醫五-77 - C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 描(CT scan)顯示左側腎臟撕 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ## 壬、腦瘤 (Brain Tumors) Source: [[sources/med5-book1-ch18|壬、腦瘤]].

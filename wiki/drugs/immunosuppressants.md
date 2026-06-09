@@ -37,6 +37,9 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch09]]"
   - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Immunosuppressants (免疫抑制劑)'
   - 'Immunosuppressants'
@@ -51,7 +54,7 @@ tags:
 
 ## Summary
 
-用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +91,17 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch09]]
 - [[sources/med6-book1-ch16]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- ...是壞死性網膜炎。反覆性發作後,可引起嚴重的視網 膜剝離和眼球萎縮。同時也可由於發炎性青光眼的發生,而引起視神經萎縮導 致失明。 - (4) 治療:治療方面以抑制發炎為主,免疫抑制劑是目前最主要的治療藥物。常用藥物有 colchicine, cyclosporin A、azathioprine等。局部類固醇及散瞳劑可舒緩眼部症狀。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- ...shield ulcers)、角膜斑點 (plaque)、偽角膜弓 (pseudogerontoxon)。 - (4) 治療:調整室內空調避免接觸過敏原,局部類固醇治療或可加上肥大細胞穩定劑(如 cromolyn sodium)、抗組織胺、cyclosporin等。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 1. 瘢痕性類天疱瘡(Ocular cicatricial pemphigoid): - (1) 簡介:第二型過敏反應,自體抗體攻擊基底膜,與 HLA-DR4、DR2 相關。 - (2) 臨床症狀: 反覆性結膜炎、結膜下水疱、結膜皺縮、乾眼、瞼球黏連 (symblepharon)、瞼瞼黏連 (ankyloblepharon),導致眼球活動受限。 - (3) 治療:口服類固醇或眼球局部使用類固醇或維他命 A 藥膏,嚴重的用口服 cyclophosphamide $1.5\sim2.0$ mg/kg/day。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- ...。有口腔潰瘍加上兩個主要症狀即可診斷。 - c. 眼部表現多為雙側、復發性、非肉芽腫性的前或後葡萄膜炎,可能出現前房蓄膿等。視網膜病變包含視網膜血管炎,而血管滲出物可造成視神經盤水腫,影響視力。 - d. 治療:全身性類固醇加上免疫抑制劑(cyclosporin A、colchicine)。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - (C) cisplatin + cyclophosphamide Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (D) carboplatin + cyclophosphamide Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | Regimen | • EMA-CO(etoposide, MTX, Act-D, cyclophosphamide, vincristine) | |---------|----------------------------------------------------------------| | Course | ・使用至 remission (連續 3 次 β-hCG 達正常值)後追加 3 個療程 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -102,13 +113,6 @@ tags:
 - (a) 腎移植術後的基礎用法: - i. 引導(induction agent):術前,使用化學免疫藥物或抗體。何種受腎者需要建議用抗體引導?曾經有過①懷孕,②輸血,③移植。 - ii. 維持(maintenance therapy):術後,使用小分子化學免疫藥物。最常用的初始用藥組合是 tacrolimus—MMF-steroids。 - iii. 類固醇減量(steroid elimination):手術完後,一週內逐漸減量。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (b) 糖尿病:因為藥物會使胰島素製造不足及週邊組織胰島素抗性增加,例 如 CNI 藥物(而其中 tacrolimus 比 cyclosporine 容易導致術後糖尿病。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- (A) 22. 陳女士 50 歲為一乳癌患者經手術行 modified radical mastectomy 後,其 staging 為 T2N1M0,術後建議給予 6 次 5-FU, Adriamycin 及 cyclophosphamide。此種化學藥物治療屬於下列那一種? Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- Azathioprine:服用後肝臟代謝成 6-mercaptopurine (6-MP),抑制 DNA 的合成,影響 T 細胞和 B 細胞的生成。副作用有骨髓抑制和肝毒性。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 3. Mycophenolate Mofetil: 抑制 Inosine monophosphate dehydrogenase,影響 purine 的 生成進而抑制 T 細胞和 B 細胞的生成。主要的副作用有括腹瀉、白血球減少、嘔吐,以及 CMV 和 Candida 的伺機性感染增加。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 4. Cyclosporine:為 Calcineurin inhibitor,抑制 IL-2 及其他細胞激素(cytokines)的分泌,進而影響免疫細胞的活化,達到免疫抑制效果。副作用主要是腎毒性,另外還有肝毒性、高血壓、高血鉀、高尿酸、高膽固醇、體毛增加或牙齦增生。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 【詳解】本題解答應為(D),目前可用 Azathioprine、prednisolone 和 Ritaximab 來預防。Interferon-β 不應使用在 NMO 患者上, 會有惡化疾病的可能。Glatiramer acetate 目前無足夠資料顯示對 治療 NMO 有效。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (3) 免疫抑制劑:類固醇治療效果不佳或無法減量之病人可考慮使用MTX (methotrexate) 或 Azathioprine (Imuran) ,如病人反應仍不佳,則可考慮第三線用藥,如 cyclophosphamide,IVIG 等,但其可能的副作用較大,須定期抽血檢查,以提 早發現及減少副作用的發生。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (1) 疾病初期可使用局部或是全身性的類固醇及免疫抑制劑(如 MTX, tacrolimus等)來控制發炎。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

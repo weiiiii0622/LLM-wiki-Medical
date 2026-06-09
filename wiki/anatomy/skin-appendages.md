@@ -24,6 +24,8 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch02]]"
+  - "[[sources/med6-book2-ch06]]"
 aliases:
   - 'Skin appendages (皮膚附屬器官)'
   - 'Skin appendages'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,15 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch02]]
+- [[sources/med6-book2-ch06]]
 
 ## Key Details From Sources
 
+- (1) 皮脂腺: Meibomian gland (位 於瞼板,分泌角膜前淚膜的 **外側脂層**)、Zeis' gland。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- (2) 汗腺: Moll's gland。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- (3) 皮脂腺癌 (Sebaceous gland carcinoma): 最常源自 Meibomian gland, 偶爾由 Zeis' gland 而來。好犯於上眼瞼,多發生在中年以上女性(大於 50歲),東方人尤多。看起來像霰粒腫,但因睫毛毛囊被破壞造成睫毛脱落為其特徵。高度 惡性易全身轉移,預後比 BCC、SCC 還差。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- 1. 局部變色: - (1) 老年性鞏膜透明化:卵圓形、暗灰色區域。 - (2) 黑尿症 (alkaptonuria): 棕黑色。 - (3) 血色素沉著症(hemochromatosis):鏽棕色。 - (4) 全身性 minocycline:輪部旁藍灰色變色,除鞏膜外牙齒、指甲、皮膚也可能有色素沉著。 - (5) 金色性異物:長時間可能出現鏽狀染色。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - (B) 可疑的陰毛(pubic hair) 與指甲抓取物(finger nail scraping)應收集保存 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - 【詳解】X 光和 CT 可見囊腫內有 bone density 的物質且充滿不均勻的間質,較符合卵巢皮樣囊腫,即 mature teratoma,可能含有皮脂腺、牙齒、軟硬骨、頭髮和神經組織等。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ii. 雙氫睪固酮 (DHT, dihydrotestosterone): - (i) 用途:是主要的細胞內雄性素,可以調控細胞核轉錄反應。對於 雄性素受器的親和力是睪固酮的2倍,停留的時間是睪固酮的5倍。 - (ii) 合成路徑:睪固酮藉由 $5\alpha$ 還原酶 $(5\alpha$ -reductase) 轉變而成,主要在攝護腺合成(所以雖然男女都有睪固酮,但男性有更強的男性性徵)。另外睪丸、腎上腺、毛髮毛囊也會些許合成。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -79,10 +87,6 @@ tags:
 - Type IV: 剁掉部分達近端指骨,整個指甲皆截掉。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (2) 慢性動脈阻塞(chronic thromboembolism):慢性血管阻塞,造成間歇性跛行的症狀,當 ischemia 嚴重時連休息或夜間睡覺都會疼痛,最後組織壞死。因血液供養不足,腳部也常有脫髮、泛白及指甲易碎的情形。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 【詳解】Tuberous sclerosis complex 是自體顯性遺傳性疾病,可分為 type 1 & type 2。因基因突變,造成患者神經細胞及髓鞘形成不良,產生結節硬化。臨床表現會有智能障礙和癲癇,其他明顯的徵象有面部血管纖維瘤、指甲纖維瘤、脫色斑、鯊魚皮斑、多發神網膜結節缺陷瘤、腦皮質結節、腦室管膜下結節、腦室管膜下巨細胞星狀瘤、腎血管肌脂肪瘤等。頭部電腦斷層可見多發性鈣化病灶。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- 1. 皮膚覆蓋全身,是身體最大的器官,約為 1.8 m² BSA (body surface area),分為表皮 (epidermis)、真皮 (dermis) 和皮下組織 (subcutaneous tissue)。另外皮膚上有毛囊、指甲、皮脂線及汗腺等附屬器官 (appendages)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- 3. 真皮: 真皮厚度約是表皮的 15~40 倍,約佔皮膚厚度的 95%,在人體以背部的真皮最厚,真皮是由結締組織所構成,內含膠原纖維、彈性纖維和網狀纖維等纖維蛋白。上層為乳突真皮層,深層為網狀真皮層。 - (1) 乳突真皮層 (papillary layer): 含豐富的血管及較細的結締纖維,成波浪乳頭狀 凸入於表皮,使表皮和真皮不分開。 - (2) 網狀真皮層 (reticular layer): 含少許細胞及較粗的結締纖維,在網狀層中有許多皮膚的附屬器官如毛囊、皮脂腺和汗腺等。毛囊和汗腺都是由表皮層逐步往真皮層生長,甚至會深入到皮下組織。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- (1) 毛髮:毛髮的成份為角蛋白質,它是由20多種氨基酸結合而成。 - a. 毛幹:在皮膚外面看得到的部分,由內到外為髓質、皮質和外皮(cuticle)。 - b. 毛根:皮膚底下看不到的部分。 - (a) 毛囊(hair follicle):由外根鞘(external root sheath)及內根鞘(internal root sheath)所組成。會影響毛髮的生長,外根鞘是表皮(epidermis)向下延伸而成。內根鞘由基質之增殖細胞所組成,深入外根鞘形成一細胞管鞘。毛幹與毛囊間沒有任何訊息溝通,因此刮毛不會影響生長 - (b) 毛球(bulb):毛囊基部的洋蔥型構造,內含充滿疏鬆結締組織的毛乳頭。 亦含有一區稱為基質(matrix)的細 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- (3) 這些孩童也常同時有皮膚乾燥、黑眼圈(periorbital pigmentation)、眼眶下摺紋(Dennie-Morgan)、耳朵下方龜裂、掌紋增加、毛囊角化(keratosis pilaris)、色素沉著、魚鱗癬(Ichthyosis)、白色糠疹等情形。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 
 ## Clinical Caveats
 

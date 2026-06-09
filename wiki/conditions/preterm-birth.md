@@ -15,6 +15,9 @@ sources:
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch15]]"
   - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch08]]"
+  - "[[sources/med6-book2-ch17]]"
 aliases:
   - 'Preterm birth (早產)'
   - 'Preterm birth'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-妊娠未滿 37 週出生，常由 preterm labor 或 PPROM 引起，風險評估包含病史、子宮頸長度與 fetal fibronectin。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+妊娠未滿 37 週出生，常由 preterm labor 或 PPROM 引起，風險評估包含病史、子宮頸長度與 fetal fibronectin。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,17 @@ tags:
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch15]]
 - [[sources/med6-book1-ch17]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch08]]
+- [[sources/med6-book2-ch17]]
 
 ## Key Details From Sources
 
+- (1) 原因: 視網膜表面有異常的纖維組織增生,收縮造成牽引的力量,將感覺視網膜層和色素上皮層分開。常見於增生性血管病變,如:增殖性糖尿病視網膜病變、早產兒視網膜病變、網膜分支靜脈阻塞,另外還包含眼球外傷造成的結痂。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- #### 早產兒視網膜病變(Retinopathy of prematurity) Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 1. 流行病學:目前推測與早產兒使用氧氣有關,主要發生在出生**體重小於1,500 公克、或是懷胎小於32 週的嬰兒**;懷孕週數越小、出生體重越輕,機會越高(體重小於1,250 公克,發生率約50%;大於32 週以上才出生,就幾乎不會發生)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- ...tokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
+- 1. 請詳見「子、視網膜的 E. 視網膜血管疾病的早產兒視網膜病變」一節。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
 - F. 早產、早期陣痛與早期破水 (Preterm birth, preterm labor and preterm rupture of membrane) *60* Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (D) 單絨毛膜雙羊膜雙胞胎 (monochorionic-diamnionic twins) 的 早產風險會比雙絨毛膜雙羊膜雙胞胎 (dichorionic-diamnionic twins) 低 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...2006; 85: 755-7); (C) 雙胞胎的機率會隨著母親的年 齡與懷孕次數的增加而上升(35~40歲且懷孕4次以上的婦女比 起 20 歲沒懷過孕的女性有 3 倍的機率會產雙胞胎); (D) 單絨毛 膜雙羊膜雙胞胎因為共用一個胎盤,早產風險會比雙絨毛膜雙羊 膜雙胞胎高,其他增加風險包括 twin-to-twin transfusion syndrome (TTTS) · twin anemia-polycythemia sequence (TAPS) · twin reversed arterial perfusion sequence (TRAPS) 和 selective intrauterine growth restriction 等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].

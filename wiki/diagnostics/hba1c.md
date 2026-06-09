@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Hemoglobin A1c, HbA1c (糖化血色素)'
   - 'Hemoglobin A1c, HbA1c'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-反映近期平均血糖並作為糖尿病診斷與控制目標。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+反映近期平均血糖並作為糖尿病診斷與控制目標。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- 2. 危險因子: 糖尿病的持續期間 (duration),最重要!、不佳的血糖控制 (HbA1c > 7%)、懷孕、高血壓、腎病變、抽菸、肥胖、高血脂等。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - | ・兩次以上 fasting glucose ≥ 126 mg/dL | |-------------------------------------| | • HbA1C ≥ 6.5% | | • Random plasma glucose ≥ 200 mg/dL | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (B) 2. 李先生 35 歲,BMI(body mass index): 43 kg/m²,過去一年努 1090 力藉由保守方法減重但效果不彰,本身亦有第二型糖尿病,且糖 化血紅素(HbA1C)指數為 8.5%,胃鏡檢查發現胃食道逆流程 度為 Los Angeles Grade C。李先生決定接受代謝減重手術治療, 下列何種手術最為適合? Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (D) 9. 一位 56 歲的男性糖尿病患,有糖尿病足來到門診,與醫師討論 有沒有可能憑藉換藥使傷口癒合,則下列何項最具決定性? - (A) 抽血檢查 HbA1c - (B) 安排神經傳導及肌電圖檢查(NCV/EMG) - (C) 做細菌培養 - (D) 檢查足背動脈與後脛動脈有無脈動 Source: [[sources/med5-book2-ch25|甲、傷□治療]].

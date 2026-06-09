@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch03]]"
 aliases:
   - 'Esophageal cancer (食道癌)'
   - 'Esophageal cancer'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch03]]
 
 ## Key Details From Sources
 
+- ...酸細胞瘤(oncocytoma)等,這些腫瘤一般發生於四十到五十歲的患者,大都生長緩慢。 - (2) 惡性淚腺腫瘤:包括腺樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50%),一般多發生於二十、三十歲之間,少部份在十幾歲時。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - | 性行為 | ・ 多重性伴侶、過早性行為 ( 過早懷孕(&lt;20歳)、生產數多 | | | 個人因子 | · 低社經地位、抽菸 (和 squamous cell carcinoma 相關 )、 | | | | ・ 長期 (5 年以上 ) 口服避孕藥 (和 adenocarcinoma 較相關 ) | | | 其 他 | • 有陰道或外陰部細胞病變的病史 | | | | ・ 免疫抑制 ( 如 HIV 感染 ) | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (D) 2.51 歲婦女,因為偶發性右腰痛(colic pain),到泌尿科門診接受腎盂輸尿管的檢查,發現在輸尿管中段有一顯影劑缺損(filling defect),造成右邊輸尿管水腫以及輕微腎水腫。此時醫院廣播,鼓勵四癌篩檢的衛教,所以這位婦女也接受子宮頸抹片的檢查。但是一週後,抹片報告為鱗狀上皮癌(squamous cell carcinoma)。這位婦女接下來的,應優先考慮下列何步驟? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | 病 理 | 發生率 | |-------------------------|-------| | Squamous cell carcinoma | 83.4% | | Adenocarcinoma | 9.3% | | Sarcoma | 2.6% | | Melanoma | 2.5% | | Undifferentiated | 1% | | Others | 2cm 或間質侵犯大於1mm | | | II | | 不論腫瘤大小,侵犯會陰旁構造(下 1/3 尿道、 | 59% | | | | 下 1/3 陰道和肛門) | | | ш | A | (1) 1 顆淋巴結轉移 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -71,8 +74,6 @@ tags:
 - 【 詳解 】(A)(B)(C) 位於 cardia 的 gastric cancer 可 視 為 lower esophageal cancer, 目 前 可 以 做 proximal gastrectomy 和 total gastrectomy。proximal gastrectomy 容易造成食道逆流、dumping syndrome 或 anastomosis stricture等 complication,也會有較高的 mortality rate,一般以 total gastrectomy 為首選。(D) Distal gastric cancer 的預後較好。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | | situ),不是腺癌。 | _ | | (C) 17. 有關直腸癌的經肛門局部切除治療,下列敘述何者錯誤? | 102(二)專 | | (A) 須小於 4 公分的 T1 和 T2 癌瘤才可使用 | 醫五-54 | | (B) 癌瘤須在離肛門口 6 公分以內的範圍才能採用此療法 | | | (C) T1 和 T2 的癌瘤皆不需再接受進一步的治療 | | | (D) 癌瘤必須是分化良好或中度分化者 | | | 【詳解 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (B) 鱗狀細胞癌(squamous cell carcinoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) 152 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- # K. 鱗狀上皮細胞癌 (Squamous cell carcinoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 
 ## Clinical Caveats
 

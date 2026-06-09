@@ -71,6 +71,7 @@ sources:
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'Diarrhea (腹瀉)'
   - 'Diarrhea'
@@ -85,7 +86,7 @@ tags:
 
 ## Summary
 
-腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腹瀉需依急慢性、發炎性/非發炎性、滲透性/分泌性與感染風險分類。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -156,9 +157,11 @@ tags:
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...發麻、 | 口服:acetazolamide | | 制劑 carbonic | 減少全身副作用。 | 腎結石、血尿、低血 | (Diamox) \ Neptazane ; | | anhydrase | 一缺點為作用時間短,眼壓 | 鉀、腹瀉、藥物過敏、 | Topical: dorzolamide | | inhibitor | 下降效果不如 β-blockers。 | SJS 等。 | | | | 且其屬於 sulfa drug,有過 | | | | | 敏史需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 | 針對短暫的降眼壓救急用(如 | 副作用:血壓上升。 | □服:glycerol、isosorbide | | | 急性隅角閉鎖性青 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - | 藥 物 | 作用 | 給藥方式 | 副作用 | |---------------|-------------|----------|-------------| | Oxytocin | 子宮收縮、減少產後出血 | 靜脈注射 | 水中毒 (同 ADH) | | Ergonovine | 子宮收縮、減少產後出血 | 靜脈、肌肉注射 | 高血壓 | | Prostaglandin | 子宮收縮 | 陰道塞劑、陰道釋 | 噁心、嘔吐、腹瀉 | | | | 放系統 | 頭痛、頭暈 | | | | | 輕度血壓上升或下降 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - .../ 併發症 | | | Prostaglandins(PGE1 \cdot PGE2 \cdot misoprostol) | 前列腺素常使用於子宮頸催熟,作為子宮頸不成熟產婦的催生第一步。 | 1. 子宮收縮過快2. 發燒、顫抖、嘔吐和腹瀉 | | 機械性 | 人工剝膜(strip/sweepmembrane) | 1. 非正式的催生方式,當足月產婦子宮頸已部分擴張,想加速陣痛的產生,可在門診執行。2. 執行時檢查者的手指伸入子宮頸的內口外,沿著子宮下段畫圈圈,來剝離胎膜。3. 研究顯示,人工剝膜確實可以縮短自發性陣痛產生的時間並減少需要正式催生的比率。4. 沒有證據顯示人工剝膜能改善產婦/新生兒的預後,不建議常規性施行。 | 並不增加感染機率 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - (B) 13. 一個正在接受手術後放射線治療的病人,發生嘔吐、食慾不佳、 10 腹瀉及輕微腹痛之症狀。下列何者為最有可能之診斷? - (A) 放射線後膀胱炎 (radiation cystitis) - (B) 放射線後腸炎 (radiation enteritis) - (C) 放射線後直腸炎 (radiation proctitis) - (D) 腸道陰道瘻管 (enterovaginal fistula) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -175,8 +178,6 @@ tags:
 - ...可視為腸胃道症狀加上心血管症狀。 - (a) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (C) 3. 病房有一因胃癌接受次全胃切除及 Billroth-II reconstruction 的病 109( ) 專人,開始進食後,抱怨進食 20~30 分鐘後會有噁心 (nausea)、 醫五-24 心悸 (palpitation)、冒汗及腹瀉等症狀,檢查生命跡象後發覺 有心搏過速 (tachycardia) 的情形,最有可能的診斷為何? - (A) 輸入環症候群 (afferent loop syndrome) - (B) 輸出環症候群 (efferent loop syndrome) - (C) 傾倒症候群 (dumping syndrome) - (D) 急躁性腸道症候群 (irritable bowel syndrome) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (B) 21. 手術後 6 星期,蔡先生再到門診,並主訴於每次飯後二、三十分 98(ニ)専 鐘會有心悸 (palpitation)、頭昏 (dizziness)、流汗 (sweating) 醫五-29 、腹絞痛 (cramping abdominal pain) 及腹瀉 (diarrhea) 等現象。 下列那一項處置優先考慮? Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- ...必要 (C) biliary tract 之 definitive treatment 儘可能同一次住院中施行(D) nutritional support 是必要的 | 醫五 -26 | | (D) 15. 對於慢性胰臟炎導致的吸收不良及腹瀉之治療方法,下列何乎不妥? (A) Acid-inhibiting agents (B) 低脂肪飲食 (C) 脂肪酶口服製劑 (D) 低糖飲食 | 頁 100(一)專醫五-54 | | (B) 16. 急性胰臟炎後最常見的併發症為: (A) 糖尿病 (B) 胰臟假性囊腫(pseudocyst) (C) 胰臟出血 (D) 胰臟鈣化 【詳解】急性胰臟炎最常見的併發為 fluid retention (40%):治療以 supportive Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 
 ## Clinical Caveats
 

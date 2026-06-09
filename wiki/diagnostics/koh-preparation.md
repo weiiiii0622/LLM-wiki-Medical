@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book2-ch07]]"
   - "[[sources/med4-book2-ch10]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'KOH preparation (KOH 鏡檢)'
   - 'KOH preparation'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-以 KOH 溶解角質後鏡檢菌絲或酵母型態，常用於皮癬菌與念珠菌感染。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 KOH 溶解角質後鏡檢菌絲或酵母型態，常用於皮癬菌與念珠菌感染。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book2-ch07]]
 - [[sources/med4-book2-ch10]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- 4. 角膜刮取:取下的樣本依懷疑的感染源做革蘭氏染色或氫氧化鉀(KOH)染色或抗酸性染色(acid fast stain)抹片檢查或細菌培養。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - ...表現 | • 臨床症狀不明顯,50~75% 無症狀,主要表現為陰道分泌物多 ± | | | 腐臭魚腥味、外觀呈灰色。較不會造成搔癢、紅腫或性交疼痛 | | 檢 查 | ・ 陰道 pH 值上升 ( > 4.5) | | | ・加入 10% KOH 會出現明顯的魚腥味,為 whiff test (+) | | | • 食鹽水稀釋的抹片下可觀察到 "clue" cells (>20%) | | 治療 | ・ 首選藥物:Metronidazole 或 Clindamycin 之口服藥或陰道乳膏 | | | • 二線藥物:口服 Tinidazole | | | ・ 其他:益生菌如乳酸桿菌 GR-1、RC-14 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...能伴隨解尿疼痛和性交疼痛等 症狀 · 內診可發現陰道和陰唇紅腫,甚至裂傷;可見白色乳狀斑塊分泌物 檢查 ・陰道 pH 值正常 (3.5~4.5) · 食鹽水稀釋的抹片可觀察到 budding yeast 或 hyphae · 加入 10% KOH 將細胞破壞可更清楚觀察到 budding yeast 或 hyphae • 100 mg Clotrimazole 陰道塞劑 7 天或 100,000 unit Nystatin 陰道塞劑 14 天 治療 ・單一劑量口服 fluconazole 150 mg ·若為反覆復發個案,可給予口服 fluconazole 150 mg 3 劑 (每隔 3 天), Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...| > 4.5 | 正常 3.5~4.5 | 5~6 | | 食鹽水抹片 | "clue" cells | budding yeast 或 | 活動的鞭毛滴蟲 | | | | hyphae | (trichomonads) | | 加入 KOH | 明顯的魚腥味,為 | budding yeast 或 | _ | | | whiff test (+) | hyphae 更明顯 | | | 治療 | Metronidazole 或 | 口服 (fluconazole) | 口服 metronidazole | | | Clindamycin 之口服 | 或局部 (clotrimazole, | | | | 藥或陰道乳膏 | nystatin) 抗黴菌藥 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].

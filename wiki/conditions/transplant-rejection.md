@@ -2,9 +2,10 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch06]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Transplant rejection (移植排斥反應)'
   - 'Transplant rejection'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-受者免疫系統攻擊移植物，可分超急性、急性與慢性排斥。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+受者免疫系統攻擊移植物，可分超急性、急性與慢性排斥。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch06]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...白血病、眼睛惡性腫瘤開過刀者。 - d. 併發症:早期包含感染、眼壓增加及對縫線過敏產生乳突狀反應、眼內炎等; 晚期則有青光眼、前房出血、視網膜剝離等。 - e. 移植失敗:早期多是因為手術過程或捐贈者組織本身的問題;晚期則是因為 免疫性的移植排斥,如遲發性內皮排斥是非常嚴重的,因為內皮細胞一旦受 損就無法再生,且會造成角膜水腫。 - (2) 層狀角膜移植(Lamellar keratoplasty): 切除受贈者角膜上皮及部分基質並以捐贈者的取代,而保留受贈者的深部基質及內皮層。 - (3) 深層狀角膜移植 (Deep lamellar keratoplasty): 把角膜組織完全移除到達 Descement 氏膜, 可減少排斥機會。 - (4) 角膜內皮層移植(Desceme Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - ...T、Alk-P 及 Bilirubin 有輕微上升,最可能的原因為何? 醫五-39 (A) 肝門靜脈栓塞 (Portal vein thrombosis) (B) Cytomegalovirus 感染 (C) 新肝扭轉 (D) 急性排斥 (Acute rejection) (D) 14. 大維因車禍昏迷不醒至今已三年多,其同卵雙胞胎弟弟國明因上 100(二)專 星期發生猛爆性肝炎而危在旦夕。雖然大維的肝功能正常且與國 醫五-79 明有相同基因,但醫師並沒有提出要摘取大維肝臟來救國明的 建議。在倫理上,下列各項中何者是醫師不提這項建議最為重 要的理由? (A) 國明並未同意接受大維的捐贈 (B) 為免大維的父母陷入兩難選擇 (C) 成功機率過低而不應貿然提出 (D) 大維無法同意捐贈肝臟給國明 (C) Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...B) 25. 下列有關器官移植時各種排斥現象 (rejection) 的敘述,何者有誤? (A) 一般而言, Donor 與 Recipient 的 HLA matching 愈佳,則 graft survival rate 愈好 (B) Hyperacute rejection 的發生需要 IgM antibodies 的媒介,可藉由使用抗排斥藥物加以預防 (C) Acute rejection 的發生需要 T lymphocytes 的媒介,發生頻率愈高, graft 的長期預後較差 (D) Chronic rejection 的發生與 T cell 與 B cell 有關,移植器官的主要病理變化為 fibrosis and scarring 【詳解】超急性排斥反應是因血型不符合,或是受贈者體內有 | 98 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
@@ -37,6 +40,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/heart-transplantation|Heart transplantation (心臟移植)]]
 - [[diagnostics/hla-crossmatch|HLA typing and crossmatch (HLA 配對與交叉試驗)]]
 - [[drugs/immunosuppressants|Immunosuppressants (免疫抑制劑)]]
 - [[conditions/kidney-transplant-rejection|Kidney transplant rejection (腎臟移植排斥)]]

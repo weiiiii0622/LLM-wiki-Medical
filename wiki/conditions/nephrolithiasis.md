@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'Nephrolithiasis (腎結石)'
   - 'Nephrolithiasis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch09]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...- selective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手腳發麻、 | 口服:acetazolamide | | 制劑 carbonic | 減少全身副作用。 | 腎結石、血尿、低血 | (Diamox) \ Neptazane ; | | anhydrase | 一缺點為作用時間短,眼壓 | 鉀、腹瀉、藥物過敏、 | Topical: dorzolamide | | inhibitor | 下降效果不如 β-blockers。 | SJS 等。 | | | | 且其屬於 sulfa drug,有過 | | | | | 敏史需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - ...noma | ● Type II DM | | ( 單獨用 E) | ● Recurrent urinary tract infection | | • Gallbladder disease | ● Osteoarthritis | | Nephrolithiasis | ● Falls | | Urinary incontinence | ● Cataract | | Bronchospasm | Skin changes | | Dementia | | | Uterine myomas | | | • Epilepsy | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (A) 2. 形成含鈣腎結石 (calcium nephrolithiasis) 最常見的原因有那些? ①尿中鈣離子濃度增加 ②尿中尿酸濃度上升 ③尿中草酸鹽 (oxalate) 濃度上升 ④尿中檸檬酸鹽 (citrate) 濃度上升 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (c) 術後: - i. 併發症:常有血尿、術後一周內會緩解觀察即可;若有嚴重疼痛或發 燒需查原因:0.5%人產生血腫、另外也有可能是結石打碎卻一起堵 在輸尿管導致。 - ii. 三個月內結石清除(stone free)率:整體來說 75%。會受到結石大小 與位置影響。 - (i) 結石≥ 1.5 cm 的清除率:腎盂 75%、下腎盞 35%。 - (ii) 結石 2 cm 腎結石首選。若較複雜結石可能需數次 PCNL 來清除結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].

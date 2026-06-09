@@ -17,6 +17,8 @@ sources:
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Polyarteritis nodosa, PAN (結節性多動脈炎)'
   - 'Polyarteritis nodosa, PAN'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中型血管壞死性血管炎，可與 HBV 相關，通常不侵犯肺微血管。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,14 @@ tags:
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...| |-----------------------|------|-----------------------------------------|---------| | 非增殖性糖尿病視網膜 | 不超過內 | (1) 小動脈瘤 (microaneurysm): 臨床上最早可偵 | | | 病變 (Non-Proliferative | 限膜 | 測到的病灶 | | | DM Retinopathy, 簡 | | (2)視網膜內出血:佔 5~10% | | | 稱 NPDR), 又稱為 背 | | — 斑點狀出血 (dot hemorrhage):位在深層之 | | | 景型糖尿病視網膜病 | | 外叢狀層 | | | 變 (Back- ground DM | | — 火焰狀出血 (fla Source: [[sources/med6-book2-ch12|子、視網膜]].
+- ...化性栓塞(來自主動脈或二尖瓣)、vegetation(來自細菌性心內膜炎的瓣膜)、血栓(由於心肌梗塞後合併 AF 所產生)。 - (4) 巨細胞動脈炎 (giant cell arteritis) - (5) 動脈外膜炎:與皮肌炎、SLE、polyarteritis nodosa、Wegener 氏肉芽腫等疾病相關的動脈外膜炎偶爾會造視網膜分支動脈阳塞。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- ...se)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (Wegener's granulo-matosis),結節多發性動脈炎 (polyarteritis nodosa), SLE 等。其中以 Wegener 氏肉芽腫的進展最快速難治。 - c. 治療:抑制免疫反應,改善角膜上皮缺損以及間質發炎與壞死;病況嚴重時 甚至需要進行角膜移植手術。 - (2) 周邊角膜變薄 (peripheral corneal thinning): 周邊角膜基質變薄而上皮層仍完整,使中央角膜看起來像戴了隱形眼鏡一般 (contact lens cornea)。 - (3) 急性角膜溶解 (acute corneal mel Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...公分 | | | (D) 具有莢膜(capsule)之肝癌 | | | (B) 19. 肝細胞癌(hepatocellular carcinoma)在流行病學上與下列何者 | 98(一)專 | | 無關? | 醫五-51 | | (A) HBV infection | | | (R) HAV infection | | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 1. 常見原因: - (1) 動靜脈血栓。 - (2) 最常見為 SMA embolis。 - (3) 醫源性: 腹主動脈瘤手術時將下腸繋膜動脈 ligation 後造成 left & sigmoid colon ischemia。 - (4) 血管炎: polyarteritis nodosa。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
@@ -62,11 +69,6 @@ tags:
 - 4. Polyarteritis nodosa Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 5. 已知有 B 型肝炎免疫力的人,由下列何種血清標記可區分 HBV 是自然感染(immunity through natural infection)而非經由疫苗 獲得抗體? Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...(HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Parvovirus B19 | Anemia, hydrops fetalis. | | | Enterovirus | Sepsis, DIC, hepatitis, myocarditis and meningoencephalitis. | | | Varicella zostervirus (VZV) | Cicatricial Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (1) 類似 SLE, **HBV** 相關的結節狀多發性動脈炎(PAN)、**HCV** 相關的冷凝球蛋白血症(Cryoglobulinemia)、過敏性紫斑(Henoch-Schönlein Purpura)等,都是 IC 沉積於血管上,最後導致血管炎。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- #### 3. 結節狀多發性動脈炎 (Polyarteritis nodosa, PAN): Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (1) 流病:好發於 50 歲男性,30% 病患合併 **HBV** 感染。[Arteritis =血管炎不侵犯靜脈,僅侵犯動脈; Nodosa = 可能有皮膚結節等表現。] Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (2) TNF: Etanercept (Enbrel® 恩博)、Adalimumab (Humira® 復邁)、Golimumab (Symponi® 欣普尼)、Certolizumab (Cimzia® 欣膝亞): - a. 與 $TNF-\alpha$ 結合,抑制其引發的發炎反應,但此藥最大的擔憂即是結核菌的復發或感染;因為 TNF 一但被抑制,Th1、Cytotoxic T cell 則無法被活化,便較無法攻擊細胞內的病原體。另外也可能造成 HBV reactivation。 - b. 可能增加 Lymphoma 的發生、造成 ANA、anti-DNA 自體抗體的產生,還可能造成乾癬及中樞神經去髓鞘疾病。(Harrison 2090) Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- | 病毒種類 | 病毒 | 癌症 | |-----------------|-------------|------------------------------------------------------------------| | Hepadnavirus | HBV · HCV | 肝癌 | | Herpesviruses | EBV* | 鼻咽癌 (Nasopharyngeal tumor)、鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma) | | | HHV-8* | 卡波西式瘤 (Kaposi's sarcoma) | | Papilloma virus | HPV 16 · 18 | 子宮頸癌、口腔鱗狀上皮細胞癌 | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 
 ## Clinical Caveats
 

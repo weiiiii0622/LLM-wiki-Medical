@@ -20,6 +20,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/aldosterone-antagonists|Aldosterone antagonists (醛固酮拮抗劑)]] - 改善部分 HFrEF 病患預後，但需監測高血鉀與腎功能。
 - [[drugs/alkylating-agents|Alkylating agents (烷化劑)]] - 與 DNA cross-linking 相關的化療藥物，常見骨髓抑制、性腺毒性與出血性膀胱炎等。
 - [[drugs/alpha-1-blockers-urology|Alpha-1 blockers for LUTS (泌尿用 alpha-1 阻斷劑)]] - 放鬆膀胱頸、攝護腺與尿道平滑肌以改善 BPH/LUTS，但可能造成姿勢性低血壓或逆行性射精。
+- [[drugs/alpha-2-agonist-eye-drops|Alpha-2 agonist eye drops (眼科 alpha-2 agonist)]] - 降低房水生成並增加 uveoscleral outflow，用於 glaucoma 降眼壓。
 - [[drugs/alpha-glucosidase-inhibitors|Alpha-glucosidase inhibitors (α-葡萄糖苷酶抑制劑)]] - 延緩碳水化合物吸收，主要降低餐後血糖。
 - [[drugs/alteplase|Alteplase / rtPA (組織型纖溶酶原活化劑)]] - 急性 ischemic stroke 血栓溶解藥物，需符合時間窗與禁忌篩選。
 - [[drugs/aminoglycosides|Aminoglycosides (胺基糖苷類)]] - 30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。
@@ -30,6 +31,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/anti-il5-antibodies|Anti-IL-5 antibodies (抗 IL-5 單株抗體)]] - nonallergic eosinophilic asthma 控制不佳時可考慮。
 - [[drugs/anti-seizure-medications|Anti-seizure medications / anti-epileptic drugs, ASMs/AEDs (抗癲癇藥物)]] - 治療 epilepsy 與急性 seizure 的藥物群，選擇依發作型態、副作用、懷孕與共病。
 - [[drugs/anti-tuberculosis-drugs|Anti-tuberculosis drugs (抗結核藥物)]] - 結核病治療核心藥物組合，需注意副作用與療程。
+- [[drugs/anti-vegf-therapy-ophthalmology|Anti-VEGF therapy in ophthalmology (眼科抗 VEGF 治療)]] - 抑制血管新生與血管滲漏，用於 wet AMD、diabetic macular edema、RVO macular edema 與 proliferative retinal disease。
 - [[drugs/antidepressants|Antidepressants (抗憂鬱藥物)]] - 治療 depression、anxiety、OCD、PTSD 等；選擇需考慮副作用、交互作用、自殺風險與 bipolar screening。
 - [[drugs/antiemetics|Antiemetics (止吐藥)]] - 用於預防或治療化療、術後與其他原因的噁心嘔吐。
 - [[drugs/antifungal-agents|Antifungal agents (抗黴菌藥物)]] - 抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。
@@ -41,6 +43,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/antithyroid-drugs|Antithyroid drugs (抗甲狀腺藥物)]] - 抑制甲狀腺素合成，用於甲狀腺亢進或 thyroid storm 特定階段。
 - [[drugs/aspirin|Aspirin (阿斯匹靈)]] - 抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。
 - [[drugs/benzodiazepines|Benzodiazepines, BZD (苯二氮平類)]] - 增強 GABA-A 作用，用於 anxiety、insomnia、alcohol withdrawal、seizure 與急性激動；需注意依賴、跌倒與呼吸抑制。
+- [[drugs/beta-blocker-eye-drops|Beta-blocker eye drops (眼科 beta-blocker)]] - 減少房水生成以降低 IOP；需注意氣喘、COPD、bradycardia 與 systemic absorption。
 - [[drugs/beta-blockers|Beta blockers (乙型交感神經阻斷劑)]] - 降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。
 - [[drugs/beta-lactamase-inhibitors|Beta-lactamase inhibitors (β-lactamase 抑制劑)]] - 與 beta-lactam 合併以抑制 beta-lactamase，擴大對產酶菌效果。
 - [[drugs/biologic-dmards|Biologic DMARDs (生物製劑抗風濕藥)]] - 針對 TNF、B cell、T cell costimulation、IL-6 等的免疫標靶治療。
@@ -48,6 +51,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/bisphosphonates-oncology|Bisphosphonates in oncology (腫瘤骨病變雙磷酸鹽治療)]] - 腫瘤骨轉移或 myeloma 骨病變可用以降低 skeletal-related events。
 - [[drugs/carbamazepine|Carbamazepine (卡馬西平)]] - 抗癲癇與 mood stabilizer，可用於 mania；需注意皮疹、SJS/TEN、hyponatremia、血球低下與 CYP 交互作用。
 - [[drugs/carbapenems|Carbapenems (碳青黴烯類)]] - 廣效 beta-lactam，常用於 ESBL/AmpC 等抗藥性 GNB。
+- [[drugs/carbonic-anhydrase-inhibitors-eye|Carbonic anhydrase inhibitors for glaucoma (青光眼碳酸酐酶抑制劑)]] - 降低睫狀體房水生成，可局部或全身用於 glaucoma/急性 IOP 控制。
 - [[drugs/cephalosporins|Cephalosporins (頭孢子菌素類)]] - beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。
 - [[drugs/chemotherapy|Chemotherapy (化學治療)]] - 細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。
 - [[drugs/clindamycin|Clindamycin (克林黴素)]] - 50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。
@@ -97,6 +101,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/methotrexate|Methotrexate, MTX (甲氨蝶呤)]] - 抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。
 - [[drugs/methylphenidate|Methylphenidate (哌甲酯)]] - 中樞神經刺激劑，用於 ADHD；需注意食慾、睡眠、血壓心跳與物質濫用風險。
 - [[drugs/metronidazole|Metronidazole (甲硝唑)]] - 抗厭氧菌與部分原蟲藥物，常用於腹腔、骨盆、C. difficile 或原蟲感染情境。
+- [[drugs/miotics|Miotics (縮瞳劑)]] - 縮瞳使虹膜拉離隅角並促進 trabecular outflow，可用於特定 angle-closure 或 glaucoma 情境。
 - [[drugs/monoamine-oxidase-inhibitors|Monoamine oxidase inhibitors, MAOIs (單胺氧化酶抑制劑)]] - 抗憂鬱藥類，需注意 tyramine diet、hypertensive crisis 與藥物交互作用。
 - [[drugs/monobactams|Monobactams (單環 β-lactam 類)]] - Aztreonam 主要抗 GNB，對 penicillin allergy 時可作替代選項之一。
 - [[drugs/nitrates|Nitrates (硝酸鹽類)]] - 擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。
@@ -111,6 +116,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/phenytoin|Phenytoin (苯妥英)]] - Na channel blocker 類 antiseizure medication，可用於 focal seizure、GTCS 與 status epilepticus 後續控制。
 - [[drugs/platinum-agents|Platinum agents (鉑類化療藥)]] - 鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。
 - [[drugs/prokinetic-agents|Prokinetic agents (促腸胃蠕動藥)]] - 促進胃腸蠕動或提高 LES 壓力，部分用於 GERD 或胃排空問題。
+- [[drugs/prostaglandin-analog-eye-drops|Prostaglandin analog eye drops (前列腺素類降眼壓藥)]] - 增加 uveoscleral outflow 以降低 IOP，是 open-angle glaucoma 常用一線藥物。
 - [[drugs/prostaglandin-e1|Prostaglandin E1, PGE1 (前列腺素 E1)]] - 用於維持 PDA 開放以穩定 ductal-dependent congenital heart disease。
 - [[drugs/proton-pump-inhibitors|Proton pump inhibitors, PPI (質子幫浦抑制劑)]] - 抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。
 - [[drugs/rifaximin|Rifaximin (利福昔明)]] - 降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。

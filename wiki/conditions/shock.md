@@ -43,6 +43,7 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch15]]"
   - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'Shock (休克)'
   - 'Shock'
@@ -57,7 +58,7 @@ tags:
 
 ## Summary
 
-循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +101,11 @@ tags:
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch15]]
 - [[sources/med6-book1-ch17]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...縮瞳。 | 障、近視。 | 芸果香) | | agents | -縮瞳作用對隅角閉鎖性青光眼的緩解 | | | | | 有其價值。 | | | | $\alpha_2$ agonist | - 可抑制房水產生,並促進房水排出。 | 副作用:低血壓、眼 | Brimonidine | | | 其中 apraclonidine 可作為雷射治療後, | 睛刺激感、口乾、疲 | Apraclonidine | | | 預防術後眼壓突升,具神經保護效果。 | 倦、頭痛。 | | | | -第一線用藥。 | | | | Prostaglandin | -促進房水由上脈絡膜腔 (suprachoroidal | 副作用:眼部副作用: | Latanoprost | | analog | sp Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - | 藥 物 | 給藥方式 | 副作用 | |-----------------------------|-----------|---------------| | Oxytocin | 靜脈給藥 | 低血壓(血管擴張) | | Carbetocin | 靜脈給藥 | 低血壓、潮紅、頭痛、顫抖、 | | | | 噁心、腹痛 | | Methylergonovine | 肌肉注射 | 禁忌症為高血壓、周邊血管和 | | (C) (A) (A) | | 缺血性心臟病 | | Misoprostol (PGE1) | 肛門塞劑、口服 | 可用於高血壓或氣喘之患者 | | | 或舌下給予 | 可能引起發燒 | | 15-methyl prostag Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - | Hypovolemic shock and organ failure | Fluid overload (pulmonary edema) | |-------------------------------------|--------------------------------------| | Anemia | Transfusion-related complications | | Sepsis, wound infection, pneumonia | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - | 簡介 | · 又稱為產後腦垂體功能低下 (post-partum hypopituitarism)。十分罕見, | |-----|-----------------------------------------------------| | | 但可能致命;可能在產後立即或幾年後發生 | | 成因 | • 因為低血容性休克,造成腦垂體缺血性梗塞,進而影響其荷爾蒙的分泌 | | 症 狀 | ・無法泌乳(↓ prolactin, ↓ oxytocin)、無月經或少月經(↓ LH, ↓ FSH) | | 治療 | • 長期補充缺乏的荷爾蒙 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -120,7 +123,6 @@ tags:
 - i. $\alpha_1$ -blockers 對三個亞型的平滑肌都放鬆的作用,故會造成: - (i) 逆行性射精 (retrograde ejaculation,膀胱底及攝護腺有 α1A):5%。 - (ii) 疲勞感及姿勢性低血壓 (orthostatic hypotension,全身血管有 αIB):5%。 - (iii)造成頭暈、鼻炎或頭痛(鼻道有 αID):10%。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (B) 出血性休克(hemorrhagic shock) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...oxazosin、tamsulosin及 alfuzosin等 (C) 有時 anticholinergics 會造成排尿更困難,因為它會造成膀胱逼尿肌收縮力變較差 (D) α-adrenergic blockers 常見到的副作用為姿態性低血壓及腹瀉【詳解】一律給分。 | 104(一)專醫五-69 | |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- ...石:用膀胱鏡,加上氣動、雷射、電等方式打碎石頭。若術中石頭太硬或太大,考慮改傳統開腹取石。另外由於膀胱結石並非固定在同一位置上,故不會使用 ESWL 打。 - (3) 碎石處置細節: - a. 體外震波碎石 (extracorporeal shock wave lithotripsy, ESWL): - (a) 術前評估:下列情況為 ESWL 禁忌。 - i. 懷孕。 - ii. 有大的腹主動脈瘤。 - iii. 無法矯正的出血傾向。 - iv. 泌尿系統完全阻塞引發重度腎水腫。(注意輕度、中度水腫仍可以打 且常見) Source: [[sources/med5-book5-ch05|戊、結 石]].
 
 ## Clinical Caveats
 

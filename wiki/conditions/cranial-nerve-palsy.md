@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med6-book2-ch14]]"
 aliases:
   - 'Cranial nerve palsy (腦神經麻痺)'
   - 'Cranial nerve palsy'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-腦神經功能受損造成眼動、臉部、吞嚥、聽平衡等症狀，需定位核、束、神經或肌肉。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦神經功能受損造成眼動、臉部、吞嚥、聽平衡等症狀，需定位核、束、神經或肌肉。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med6-book2-ch14]]
 
 ## Key Details From Sources
 
+- (3) 第三對腦神經麻痺:先天性多因本身發育異常或一些發炎性疾病,而在成人多 因腦部血管瘤、糖尿病、外傷、腦炎等造成。患者眼外肌受第六對腦神經控制 會表現外斜(外直肌的作用)、第四對腦神經控制會表現下斜(上斜肌的作用)、 眼瞼下垂及瞳孔放大。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - (B) 第三對顱神經麻痺(3rd cranial nerve palsy) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - ...ld headache and slight nuchal rigidity | | la | No acute meningeal/brain reaction, but with fixed neuro deficit | | 2 | Cranial nerve palsy (III, VI), moderate to severe headache, nuchal rigidity | | 3 | Mild focal deficit, lethargy, or confusion | | 4 | Stupor, moderate to severe hemiparesis, early decerebrate rigidity | | 5 | Deep coma, decerebrate rigidi Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - ...aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ischemic type) - (D) 海綿靜脈竇徵候群 (cavernous sinus syndrome) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
@@ -50,6 +53,8 @@ tags:
 
 - [[anatomy/cranial-nerves|Cranial nerves (腦神經)]]
 - [[conditions/diabetic-neuropathy|Diabetic neuropathy (糖尿病神經病變)]]
+- [[physiology/ocular-motility|Ocular motility (眼球運動)]]
+- [[conditions/ptosis|Ptosis / blepharoptosis (眼瞼下垂)]]
 
 ## Follow-up
 

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book2-ch03]]"
 aliases:
   - 'Actinomycosis (放線菌病)'
   - 'Actinomycosis'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-厭氧絲狀菌感染，常見慢性下顎臉部或腹盆腔病灶。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+厭氧絲狀菌感染，常見慢性下顎臉部或腹盆腔病灶。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch15]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book2-ch03]]
 
 ## Key Details From Sources
 
+- 1. 淚小管炎(Canaliculitis): 少見, 常由厭氧革蘭氏陽性絲狀桿菌 Actinomyces israelii 所引起。以反覆性黏液、膿樣結膜炎為表現,並有單側溢淚的情形。淚點口擴大、紅腫,如火山口,淚小管可掏出砂礫狀顆粒(含硫)的凝結物。對一般抗生素眼藥水反應不佳。治療方法為把抗生素直接灌入淚囊,必要時淚小管切開排膿。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - (9) 過敏性肺炎 (Hypersensitivity pneumonia): 吸入性過敏原 (Inhaled antigens)、農夫肺 (Farmer's lung, actinomycosis)、蔗渣沉積症 (Bagassosis, sugar cane)、麥田工人 (Malt workers, *Aspergillus* spp.)、棉屑沈著病(或稱棉屑肺,Byssinosis, cotton-dust asthma, cotton-mill fever)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...athic pulmonary fibrosis)、脫屑性間質性肺炎(Desquamative interstitial pneumonia)、嗜伊紅性肺炎(Eosinophilic pneumonia, caused by drugs, actinomycosis, and parasites)淋巴血管平滑肌肉增生症(Lymphangioleiomyomatosis, LAM)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...| Corynebacterium diphtheria | ne ( 白喉桿菌 ), Listeria monocytogenes ( 李斯特單核球增生菌 ) | 嗜氧 | | | | Lactobacillus (乳酸桿菌) | ), Actinomyces (放射線菌) | 厭氧 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].

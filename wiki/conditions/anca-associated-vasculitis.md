@@ -13,6 +13,9 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'ANCA-associated vasculitis (ANCA 相關血管炎)'
   - 'ANCA-associated vasculitis'
@@ -27,7 +30,7 @@ tags:
 
 ## Summary
 
-pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +43,15 @@ pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `�
 - [[sources/med4-book2-ch11]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- ...eal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (Wegener's granulo-matosis),結節多發性動脈炎 (polyarteritis nodosa), SLE 等。其中以 Wegener 氏肉芽腫的進展最快速難治。 - c. 治療:抑制免疫反應,改善角膜上皮缺損以及間質發炎與壞死;病況嚴重時 甚至需要進行角膜移植手術。 - (2) 周邊角膜變薄 (peripheral corneal thinning): 周邊角膜基質變薄而上皮層仍完整,使中央角膜看起來 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- ...ation(來自細菌性心內膜炎的瓣膜)、血栓(由於心肌梗塞後合併 AF 所產生)。 - (4) 巨細胞動脈炎 (giant cell arteritis) - (5) 動脈外膜炎:與皮肌炎、SLE、polyarteritis nodosa、Wegener 氏肉芽腫等疾病相關的動脈外膜炎偶爾會造視網膜分支動脈阳塞。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - ...eumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Postirradiation | | ● Pulmonar Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (11) 膠原纖維疾病 (Collagen diseases): 硬皮症 (Scleroderma)、風濕免疫 (rheumatoid disease)、紅斑性狼瘡 (systemic lupus erythematosus)、皮肌炎 (dermatomyositis)、 韋格納肉芽腫 (Wegener granulomatosis)、古帕斯捷氏綜合徵 (Goodpasture syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 皮膚切片下為 leukocytoclastic vasculitis 的表現,會有 neutrophil 浸潤於血管本身或 周圍、nuclear dust、RBC 滲出到血管外、以及血管壞死。另可染 Direct immunofluorescence (DIF),去鑑別是哪種疾病引起的 small vessel vasculitis,例如: - (1) Henoch-Schönlein purpura:血管周圍有 IgA 沉澱。 - (2) Cryoglobulinaemia:血管周圍有 IgM 沉澱。 - (3) Cutaneous polyarteritis nodosa 和 ANCA-positive vasculitis: DIF 則多為 negative。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -56,9 +65,6 @@ pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `�
 - ...-----------------------------------------------|-----------------------------------------------| | | cANCA (cytoplasmic ANCA) | pANCA (perinuclear ANCA) | | 攻擊對象 | Anti-PR3 (Proteinase 3) | Anti-MPO (myeloperoxidase) | | 免疫螢光 | Diffuse, granular cytoplasmic staining pattern | Localized perinuclear staining pattern | | 中小型 | Wegener's granulom Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - (A) Wegener's granulomatosis Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - ...患是由 MCD 造成的 Nephrotic syndrome。 - b. 例如病人來急診,主訴這幾個禮拜水腫、血壓高、咳血、氣喘發作,小便驗起來有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9,無糖尿病、高血壓,我們可懷疑為 ESRD due to CGN。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...病 | |-------------------------------|----------------------------------------------| | 無太多染 Pauci-immune | 抗嗜中性顆粒球細胞質抗體 ANCA | | 無太多来 Fauci-immune | (Anti-Neutrophil Cytoplasmic Antibody) | | 看到線狀螢光 Linear staining | 抗基底膜抗體 Anti GBM Ab | | 有到脉况重元 Linear staming | (Anti-glomerular basement membrane Antibody) | | 看到顆粒狀的螢光 Granular staining | 免疫 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ## a. ANCA vasculitis (Pauci-immune or Minimal staining): Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (C) 韋氏肉芽腫 (Wegener's granulomatosis) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 
 ## Clinical Caveats
 

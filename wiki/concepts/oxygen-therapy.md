@@ -52,6 +52,9 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch18]]"
 aliases:
   - 'Oxygen therapy (氧氣治療)'
   - 'Oxygen therapy'
@@ -66,7 +69,7 @@ tags:
 
 ## Summary
 
-低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -118,9 +121,17 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch03]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch18]]
 
 ## Key Details From Sources
 
+- ...rysms)形成,若破裂會導致出血。此外,微血管通透性上升導致視網膜水腫(retinal edema),並有脂蛋白和巨噬細胞組成的硬性滲出物(hard exudates)沉積。 - (2) 小血管阻塞:紅血球變形和血小板黏度和凝聚力上升導致氧氣運輸量降低,並且導致血流變慢、缺血以至於微血管阻塞的發生,導致視網膜內小血管異常 (intraretinal microvascular abnormalities, IRMA) 如 AV shunt。持續的缺氧進一步造成生長因子(VEGF)釋出造成新生血管。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- (NTG)、吸氧吸入(95% 氧和 5% 二氧化碳)、靜脈注射降眼壓藥物(Diamox 或 mannitol)、前房穿刺術等,不過效果均不佳。\*可記憶為 "MONA": M 是 眼球按摩(ocular massage)和 mannitol,O 是氧氣,N 是 NTG,A 是前房穿刺 (anterior chamber paracentesis)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 1. 流行病學:目前推測與早產兒使用氧氣有關,主要發生在出生**體重小於1,500 公克、或是懷胎小於32 週的嬰兒**;懷孕週數越小、出生體重越輕,機會越高(體重小於1,250 公克,發生率約50%;大於32 週以上才出生,就幾乎不會發生)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- ...s氏腺、Moll 氏腺 | (1) 延遲淚膜水層的蒸發(2) 降低淚膜表面張力,因此可吸收水分到淚膜,增厚水層(3) 睜眼時肌肉收縮,抑制油脂流出;閉眼時使腺體的油脂流出 | 蒸發性乾眼 | | 中間水層 | 主、副淚腺 | (1)供給角膜氧氣(2)除水、電解質外,尚有IgA、溶菌酶、乳鐵蛋白等可抵抗細菌 | 分泌不足性乾眼 | | 內側黏液層 | 結膜的 goblet cells (主要)、crypts of Henle、Manz 氏腺 | (1)幫助水層均匀分布在眼球表面(2)將疏水性的角膜上皮轉為親水性表面以濕潤角膜 | 蒸發性及分泌不足性乾眼 | Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- 2. 處理:儘快緩解血管痙攣,擴張血管以疏通栓子至周邊血管。平躺、眼球按摩、舌下含服硝酸甘油(NTG)、吸氧吸入(95%氧和5%二氧化碳)、靜脈注射降眼壓藥物(Dimox或 mannitol)、前房穿刺術等,不過效果均不佳。 - \* MONA: M 是眼球按摩和 mannitol, O 是氧氣, N 是 NTG, A 是前房穿刺。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
 - 【詳解】滋養層細胞(trophoblast)分為絨毛膜(villous)和絨毛膜外(extrvillous)兩種,villous trophoblast 形成絨毛膜的絨毛(chorionic villi),負責從母體運送氧氣和營養給胎兒,而extravillous trophoblast 則移動到蜕膜(decidua)和子宮肌層,渗透母體血管,與子宮動脈的重塑(spiral artery remodeling)有關,形成高流速、低阻力的胎盤血循環。子宮胎盤血循環系統(uteroplacental circulation)著床時開始建立,12 週以後第二波建立形成,持續至 20 週。Ref: Wang Y, Zhao S. (2010). Vascular Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - | 母親血管破裂 | • 在蜕膜基層,來自於母親的血管發生破裂形成血塊,當血 | |--------|-----------------------------| | | 塊持續增大便會將胎盤和蛻膜層分離造成胎盤剝離,剝離 | | | 的胎盤無法交換氧氣和養份,持續將導致胎兒窘迫 | | | • 母親的血管破裂可能和腹部外力撞擊、子宮快速減壓或慢 | | | 性胎盤血管病變有關 | | 母親子宮異常 | • 母親的子宮有異常或病灶(如雙角子宮、子宮腔沾黏、黏 | | | 膜下肌瘤等),胎盤著床在不穩定的位置,也可能造成胎 | | | 盤剝離 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 剝離的胎盤無法交換氧氣和養份,造成胎兒心率異常、胎兒窘迫,持續惡 化將造成胎兒死亡 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -132,13 +143,6 @@ tags:
 - 6. 治療:初期基本處置上,腸胃疝入胸腔是因液體或空氣積聚,導致腸胃道持續膨脹 擠入胸腔,故首要是解除壓力,除了放置鼻胃管外,須避免做面罩扣壓給氣之動作 以免將空氣繼續灌入腸胃道而加重病情。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - (BD) 2. 先天橫隔膜疝氣 (congenital diaphragmatic hernia) 的嬰兒,其 101(ニ)専 出生須急救的步驟不包括下列何者? - (A) 氣管內插管 (endotracheal tube) - (B) 面罩 (mask) 呼吸 - (C) 放置胃管 - (D) 動脈及靜脈導管 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - (A) 5. 26 歲男性,身高 178 公分,體重 63 公斤,過往健康情況良好。 100(二)專某天深夜打電腦時突然右側胸痛及呼吸困難。聽診發現左側呼 醫五-10 吸聲音比右側明顯許多。請問以下那一項處置較不恰當? - (A) 安排支氣管鏡檢查是否有右側支氣管異物 - (B) 安排胸部 X 光攝影 - (C) 給予氧氣治療 - (D) 準備放置胸管的器械及用品 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...病 (Liver disease)、尿毒症 (uremia)、發炎性腸疾病 (inflammatory bowel disease)。 - (6) 物理性因子 (Physical agents): 放射線 (Radiation)、氧毒性 (O2 toxicity)、燒 燙傷 (thermal injury)、爆炸傷 (blast injury)。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 3. 肝臟有兩套系統提供血流,一套為門靜脈 (portal vein),另外一套為肝臟動脈 (hepatic artery)。 - (1) 門靜脈提供 75% 的血液供應,但只提供 50% 的氧氣。 - (2) 肝臟動脈提供 25% 的血液供應,卻也可提供 50% 的氧氣。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- 2. 當構造異常,心臟有由右心至左心的分流,使得缺氧血直接參雜進含氧血內,降低氧氣濃度,則為發紺型先天性心臟病,會有嘴唇發紫、clubbing finger 的情形。(心臟瓣膜疾病也會有發紺的情形,統一於下一章節「心臟瓣膜疾病」介紹) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- a. 緊急處置可給予 PGE1 維持動脈導管的通暢,或經由心導管進行氣球心房中膈造口術(balloon atrial septostomy),使左右心房的血液混合改善血中氧氣濃度。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- (2) 須靠藥物(PGE1)維持動脈導管的開放,血液才能去肺部交換氧氣。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- 冠狀動脈負責輸送血液和氧氣供給心臟,而低密度膽固醇堆積(lipid deposition) 於血管內壁,會形成粥狀斑塊(atherosclerotic plaque),血管內徑變窄血流供應變少, 便造成心肌缺血而對心臟造成傷害。當血管內皮細胞受損(endothelial injury)造成粥 狀斑塊的破裂,從而活化血液凝結使得血栓形成塞住血管,造成心肌梗塞。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- 1. 粥狀動脈硬化導致血管口徑狹小,血流量減少,遠端組織接收到的養分及氧氣減少,影響身體器官。好發於下肢,缺血性疼痛。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 
 ## Clinical Caveats
 

@@ -17,6 +17,9 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch02]]"
+  - "[[sources/med6-book2-ch03]]"
 aliases:
   - 'Cutaneous squamous cell carcinoma, cSCC (皮膚鱗狀細胞癌)'
   - 'Cutaneous squamous cell carcinoma, cSCC'
@@ -31,7 +34,7 @@ tags:
 
 ## Summary
 
-角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +51,17 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch02]]
+- [[sources/med6-book2-ch03]]
 
 ## Key Details From Sources
 
+- 2. 眼部的併發症:約 70% 的病患會有眼睛方面的併發症,最常造成視網膜的病變。 - (1) 這些併發症包含:視網膜微細血管病變(microangiopathy)、各種伺機性感染、 卡波西氏肉瘤、視網膜或眼眶的淋巴癌、結膜鱗狀上皮細胞癌(SCC)、前虹彩 炎、慢性多發性視網膜浸潤(須以抗病毒藥物治療,對類固醇無效)等。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- (2) 鱗狀細胞癌(SCC): 比基底細胞癌少見很多,但卻更具侵略性。也好犯於下眼瞼,易經淋巴或血行性轉移。生長較快,少有表面血管。治療以手術為主(Moh's micrographic surgery)。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- (3) 皮脂腺癌 (Sebaceous gland carcinoma): 最常源自 Meibomian gland, 偶爾由 Zeis' gland 而來。好犯於上眼瞼,多發生在中年以上女性(大於 50歲),東方人尤多。看起來像霰粒腫,但因睫毛毛囊被破壞造成睫毛脱落為其特徵。高度 惡性易全身轉移,預後比 BCC、SCC 還差。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- ...-----| | 基底細胞癌(BCC) | 最常見;生長緩慢 | 亮而硬的無痛結節,界線清楚且呈珍珠狀,表面有小的血管擴張或中央形成火山口狀潰瘍 | 局部侵犯 不轉移 | 老人 | 下眼瞼 | 放療、冷凍治療、手術切除 | | 鱗狀細胞癌(SCC) | 少見;生長快 | 少有表面血管 | 易經淋巴或血行性轉移 | 老人 | 下眼瞼 | 手術完全性切除 | | 皮脂 腺癌 | 睫毛脱落 | 似霰粒腫或慢性結膜炎 | 高度惡性易全身轉移 | 中年女性 | 上眼瞼 | 手術完全性切除 | Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- ...酸細胞瘤(oncocytoma)等,這些腫瘤一般發生於四十到五十歲的患者,大都生長緩慢。 - (2) 惡性淚腺腫瘤:包括腺樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50%),一般多發生於二十、三十歲之間,少部份在十幾歲時。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - ...又稱 dermoid cyst) | • 囊壁是複層鱗狀上皮的纖維組織,可能含有皮脂 | | | | 腺、牙齒、頭髮、神經組織、軟硬骨、呼吸和腸道 | | | | 上皮,以及甲狀腺組織等 | | | | ・ 約 0.2~2% 會惡性轉變 (SCC 最常見 ) | | | Immature teratoma | · Immature neural elements 為診斷的依據 | | | (又稱 malignant teratoma, | · 未分化神經組織的多寡為 grading 的依據,也是重 | | | teratoblastoma,或 | 要的預後因子 | | | embryonal teratoma) | (Grade 1 → 3 , 未分化神經組織 ↑ , 預後 ↓ Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | 性行為 | ・ 多重性伴侶、過早性行為 ( 過早懷孕(&lt;20歳)、生產數多 | | | 個人因子 | · 低社經地位、抽菸 (和 squamous cell carcinoma 相關 )、 | | | | ・ 長期 (5 年以上 ) 口服避孕藥 (和 adenocarcinoma 較相關 ) | | | 其 他 | • 有陰道或外陰部細胞病變的病史 | | | | ・ 免疫抑制 ( 如 HIV 感染 ) | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | 型態 | 比例 | HPV type | |------------------------|-----|----------------------------| | 鱗狀上皮細胞癌 (squamous cell | 70% | • HPV 16 佔 59%、HPV18 佔 13% | | carcinoma) | | | | 腺癌 (adenocarcinoma) | 25% | • HPV 18 佔 37%、HPV16 佔 36% | | 其他 (如 adenosquamous、 | 5% | | | neuroendocrine) | | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -64,11 +75,6 @@ tags:
 - (B) 1. 最常見的原發氣管內惡性腫瘤為: 107 (一) 專 醫五-27 (A) adenocarcinoma (B) squamous cell carcinoma (C) small cell carcinoma (D) carcinoid tumor (C) 2. 氣管分岔處(carina)在胸部 X 光所在的高度約相應於脊椎那一 106 (二) 專 醫五-18 個部位? (A) C6 (B) T1-2(C) T4-5(D) L2-3(D) 3. 有關 adenoid cystic carcinoma of lung 之敘述,下列何者正確? 105(二)專 ①大部分發生於肺周邊組織 ②大部分腫 Source: [[sources/med5-book4-ch06|己、氣管]].
 - | (A) | 6. 氣管最常見的惡性腫瘤為: | 100(一)專 | |-----|--------------------------------------------|---------| | | (A) squamous cell carcinoma | 醫五 -35 | | | (B) adenoid cystic carcinoma | | | | (C) carcinoid | | | | (D) adenoma | | | (C) | 7. 氣管為一管狀器官,下列關於其敘述何者為錯? | 99(一)專 | | | (A) 氣管為可移動的器官,在進行手術時常須將頸部伸展 | 醫五 -14 | | | (hyperextension) | | | | (B) 喉返神經位於氣管和 Source: [[sources/med5-book4-ch06|己、氣管]].
 - (3) 鱗狀細胞癌 (squamous cell carcinoma, SqCC): - a. 佔 30% 肺腫瘤,約 2/3 在中央發生,且易從外壓迫氣管,SqCC 易產生腫瘤中央壞死(central necrosis)和開洞(cavitation),組織學上呈現角質化(keratinization)、複層化(stratification)、細胞間橋(intercellular bridge Source: [[sources/med5-book4-ch03|丙、肺]].
-- (A) 肺鱗狀細胞癌 (squamous cell carcinoma) 在臺灣最常見 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (B) 3. 有關肺癌的描述,下列何者正確?① adenocarcinoma 是最常見的 細胞型 ② squamous cell carcinoma 的發生與抽菸最有關聯 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (5) 鱗狀上皮癌(squamous carcinoma or epidermoid carcinoma):為 SCC,非 adenocarcinoma。早期治療是以腹部會陰切除術(abdomino-perineal resection, APR)為首選,將直腸肛門做根治性的切除及製作永久人工造口術,對於 early stage 的效果好。現在以結合放射線治療和化學治療為主流,可提供相當程度的治療率,並且保持肛門的功能。但假使病患有需要做人工造口或有大便失禁的情形、對於電療化療 contraindicated、或是電化療失敗者,仍應考慮 APR。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- a. 組織型態:從好到不好排列(根據 Mayo Clinic, low grade SCC, high Grade SCC, non-keratinizing basaloid tumor, small cell anal cancer)從好到不好排列。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- ...一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | | situ),不是腺癌。 | _ | | (C) 17. 有關直腸癌的經肛門局部切除治療,下列敘述何者錯誤? | 102(二)專 | | (A) 須小於 4 公分的 T1 和 T2 癌瘤才可使用 | 醫五-54 | | (B) 癌瘤須在離肛門口 6 公分以內的範圍才能採用此療法 | | | (C) T1 和 T2 的癌瘤皆不需再接受進一步的治療 | | | (D) 癌瘤必須是分化良好或中度分化者 | | | 【詳解 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 
 ## Clinical Caveats
 
@@ -80,6 +86,7 @@ tags:
 - [[conditions/actinic-keratosis|Actinic keratosis (光化性角化症)]]
 - [[conditions/basal-cell-carcinoma|Basal cell carcinoma, BCC (基底細胞癌)]]
 - [[conditions/bowen-disease|Bowen disease (波文氏症)]]
+- [[conditions/eyelid-tumor|Eyelid tumor (眼瞼腫瘤)]]
 
 ## Follow-up
 

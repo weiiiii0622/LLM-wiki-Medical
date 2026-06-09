@@ -30,6 +30,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Hypercalcemia (高血鈣)'
   - 'Hypercalcemia'
@@ -44,7 +45,7 @@ tags:
 
 ## Summary
 
-高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +75,11 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch09]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- 2. 帶狀病變(band keratopathy): 因鈣鹽沉積在 Bowman 氏膜的前部,角膜呈帶狀混 濁伴有鈣質沉積。明顯影響視力,多繼發於眼部疾病(慢性前葡萄膜炎、慢性虹彩炎)或某些代謝性疾病(高血鈣、高血磷、高尿酸、慢性腎衰竭)。治療以螯合法將 EDTA 與鈣化物結合後移除或雷射。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - | | 原發性 | 次級 | 三級 | |-----------|-------------------------------|-------------------------------------------|--------------------------------------| | 說明 | 副甲狀腺不正常增生。(80% 是 adenoma) | 外在因素造成副甲狀腺機能亢進 (ex: CKD,Vit D 缺乏) | 長期低血鈣導致副甲狀腺異常增生,PTH 刺激造成高血鈣。 | | Ca++ | 1 | ↓ | ↑ | | Phosphate | ↓ | 1 | ↑ | | PTH | 1 | ↑ | 1 | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (D) 7. 一位 55 歲女性病患因下背痛在門診接受檢查時,理學檢查無明 顯異常,但檢閱先前的血液生化檢查時,發現她出現高血鈣和鹼 性磷酸酵素 (Alkaline phosphatase) 增高,下列何項病因的可能 性最小? Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 【詳解】血清電泳出現異常蛋白質診斷是 MM 或是 MGUS,常 發生骨頭痛或病理性骨折。(C) 應為高血鈣。(D) 化學治療。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
@@ -94,7 +97,6 @@ tags:
 - 3. 症狀:腹瀉 (fasting stool output > 1 L/day )、低血鉀、胃酸低、高血糖、高血鈣、潮紅。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - ...、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 fur Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (A) 副甲狀腺機能亢進(hyperparathyroidism)是高鈣血症 (hypercalcemia)的一個常見原因 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- ...d. 臨床表現: - (a) 疼痛:骨頭痛及觸痛,為最常見症狀。 - (b) 運動或自主神經功能異常:第二常見,會有 urinary urgency 和 retention。 - (c) 感覺異常。 - (d) 脊椎骨被侵蝕導致病理性骨折、高血鈣。 - e. 檢查: X 光、MRI。 - f. 治療:放射治療,假使放射治療無效或神經症狀急速惡化,才考慮手術減壓。 - (2) 動脈瘤性骨囊腫 (aneurismal bone cyst): - a. 良性的骨性囊腫,發病的骨頭內,會產生空洞化,充滿了不正常的血管組織。 - b. 佔 15% 的脊椎腫瘤,多在 20 歲左右發作。 - c. 如果骨囊腫不斷膨脹會使骨頭變薄,有骨折、出血的危險。 - d. 治療: - (a) 先把骨囊腫 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 
 ## Clinical Caveats
 

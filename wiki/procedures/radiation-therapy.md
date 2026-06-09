@@ -44,6 +44,10 @@ sources:
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -58,7 +62,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +106,17 @@ tags:
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch13]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch17]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- ...(4) 腫瘤特性: 腫瘤常有鈣化現象,這些鈣化點會呈粉筆白(chalky white)的病灶。在 CT 上可見鈣化點,對於鑑別診斷很有幫助。 - (5) 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 6. 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
+- ...可以得著顯著改善。若為不完全阻塞可放置矽膠管留置3~6個月;完全阻塞則做淚囊鼻腔造孔術 (Dacryo-cysto-rhinostomy, DCR)。 | | 淚小管阻塞 | 大部分不明原因造成,其他如:慢性瞼緣炎,單純皰疹,疤痕性結膜炎,放射治療後等。 | 不完全阻塞放置矽膠管留置 3~6 個月。完全阻塞則做結膜淚囊鼻腔造孔術(Conjucto-dacryo-cysto-rhinostomy,CJDCR)。 | | 原發性淚點狹窄 | 類似淚小管阻塞 | 淚點擴大、壺腹切開術 (ampullectomy-snip procedure) | | 次發性淚點狹窄 | 發生於淚點外翻後 | 電燒、內側結膜成形術 | Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- e. 續發性或轉移性腫瘤:手術摘除,並輔以放射治療或化學療法。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - | 懷孕的子宮內膜受傷 | • 最重要的成因,佔 90% | |------------|----------------------------------| | | • 包括人工流產手術及產後胎盤滯留行子宮內膜擴刮術 | | 非懷孕的子宮內膜受傷 | · High risk:子宮鏡手術 (如肌瘤切除、中隔切除)和子 | | | 宮內膜燒灼術 | | | · Low risk:診斷性子宮內膜擴刮術和開腹式肌瘤切除等 | | 感 染 | • 子宮腔內感染和子宮腔沾黏的關係並未完全確立,唯 | | | 一經證實和子宮腔沾黏有關的感染為結核菌感染 | | 放射治療 | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (D) 患者術後應接受化學治療,再加上腹部放射治療 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (D) 對放射治療(radiation therapy)非常敏感 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -119,10 +131,6 @@ tags:
 - (ii) 中風險:①手術、②放射治療+賀爾蒙治療 6 個月。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (c) 放射治療:僅僅使用在無法接受膀胱全切除的病患(年紀太大、有手術禁忌、共病太多不宜手術),因為治療後復發率高達 50%,對於 T2、T3 腫瘤治療後五年存活率僅 30%,有 15%的人治療後有顯著的腸胃與膀胱 副作用。使用方式為 6~8 週內給予腫瘤共 7,000 cGy 輻射傷害。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...| |----------------------------------------------------------|--------------------| | (A) 前列腺良性肥大接受經尿道前列腺切除手術 | | | (B) 放射治療造成 detrusor fibrosis 而失去膨脹能力 | | | (C) 間質性膀胱炎(interstitial cystitis) | | | (D) 直腸癌接受 low anterior resection 手術治療 | | | (B) 12. 因車禍造成的膀胱破裂,以下何者正確? | 106 (一) 專 | | (A) 腹膜外膀胱破裂(extraperitoneal bladder rupture)的手術原則 | 醫五 -65 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- ...oma)接受根治性手術治療的 105(一)專 醫五-65 敘述,何者正確? (A) 不論腫瘤長在腎臟任何位置,同側之腎上腺均必須一併切除 (B) 腎門附近之淋巴腺組織是否須一併清除,目前尚未定論 (C) 腎臟腫瘤如未切除乾淨,術後再加上局部放射治療,可以有 效地延長病人之存活 (D) 術前每人應均先接受腎動脈栓塞,因為這樣可以有效地減少 循中出血 【詳解】(A) 腫瘤長在腎臟上端才考慮切除腎上腺、(C) 放射線 治療不用在腎臟的 RCC, 因為它能抵抗放射線。 (B) 14. 晚期或轉移性腎細胞癌常用的單一藥物治療,經證實可能有效者, 104(二)專 醫五-66 不包括下列何種藥物? (A) interferon-alpha (B) steroids (C) sunitinib Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (a) 初始治療:一律先睪丸切除(orchiectomy),之後依 stage 與術後腫瘤標記 決定治療方向。 - i. 精原細胞瘤 (seminoma): - (i) 低分期(stage I + 術後 AFP 測不到):可選擇觀察、化療、放射治療。 - (ii) 中分期(stage II+術後 AFP 測不到):可選擇化療、放射治療。 - (iii)高分期(stage III 或術後 AFP 升高): 進行化療。 - ii. 非精原細胞瘤 (non-seminoma): - (i) 低分期(stage I + 術後 AFP、HCG 測不到):可選擇觀察、化療、切除淋巴(RPLND)。 - (ii) 中分期(stage II + 術後 AFP、HCG 測不到): 可選擇化療、切除 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (D) 若前縱隔的腫瘤經切片確定為原發性非生殖細胞瘤(primary nonseminoma),則第一線為手術治療,術後再行化學治療及放射治療 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- (D) seminoma 對放射治療比 nonseminomatous tumor 有效應 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 
 ## Clinical Caveats
 

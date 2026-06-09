@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch03]]"
@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book2-ch04]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Antinuclear antibody, ANA (抗核抗體)'
   - 'Antinuclear antibody, ANA'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book2-ch04]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- (2) 幼年型風濕性關節炎(Juvenile idiopathic arthritis, JIA):在小於 16 歲的小孩關節炎發生持續超過六週的疾病。其中的寡關節型(pauciarticular form)易併發慢性前葡萄膜炎(80~90%),寡關節型又分 type1 及 type2、Type1:ANA(+) 且較易發生在五歲以下女孩且常造成帶狀角膜病變,Type 2 常發生在歲數大一點的男孩,很多都有 seronegative spondyloarthropathy(HLA-B27-postive)。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].
 - 下列何項檢查最有助於診斷 Wegener's granulomatosis ? 醫四 -42 - (A) anti-histone antibodies - (B) antiproteinase-3 antineutrophil cytoplasmic antibodies ( PR3-ANCA ) - (C) anticardiolipin antibodies - (D) antinuclear antibodies (ANA) Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -70,7 +73,6 @@ SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。 
 - (A) 13. 24 歲女性病人主訴雙側手腕及手指關節疼痛已一個多月,最近也常 103( ) 專 口腔潰瘍及無故發燒。體檢發現血中白血球數目偏低。請問下列那 醫 = -8 一項檢驗,獲得陽性的機率最高? - (A) 抗細胞核抗體 (ANA) - (B) 類風濕因子 (RF) - (C) 抗 DNA 抗體 (anti-dsDNA) - (D) 抗環狀瓜氨酸化胜肽抗體 (anti-CCP antibodies) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - A. 抗核抗體 (Anti-nuclear antibody, ANA) 30 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 - #### A. 抗核抗體 (Anti-nuclear antibody, ANA) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- ANA 是風濕免疫科的基本分數,一定要記得很熟,基本的學理也要有概念。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

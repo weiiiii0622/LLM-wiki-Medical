@@ -16,6 +16,8 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch17]]"
 aliases:
   - 'Gonorrhea (淋病)'
   - 'Gonorrhea'
@@ -30,7 +32,7 @@ tags:
 
 ## Summary
 
-性傳染病，可造成尿道炎、子宮頸炎、PID、附睪炎或播散性感染。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+性傳染病，可造成尿道炎、子宮頸炎、PID、附睪炎或播散性感染。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +48,15 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch17]]
 
 ## Key Details From Sources
 
+- a. 偽膜:附著於發炎的黏膜上皮上的凝固滲出物,特徵是可以很容易地撕開且不會流血。常見原因有嚴重的腺病毒感染和淋菌性結膜炎、Stevens-Johnson 症候群。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (7) 淋巴腫大:結膜淋巴引流主要為眼前及下頷下淋巴結,引起淋巴腫大常見原因 為病毒性、披衣菌、淋病球菌感染、Parinaud 氏眼腺體症候群。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (1) 淋菌性結膜炎(Gonococcal conjunctivitis): - a. 簡介:主要透過生殖器-眼接觸或生殖器-手-眼傳播而感染。成人多為性交感染,新生兒主要是出生時通過產道而感染。由 Gram (-) Neisseria gonorrhoeae 引起。 - b. 臨床表現:結膜充血水腫、很多濃稠的化膿狀分泌物、偽膜、角膜穿孔。 - c. 治療:沒有角膜潰瘍時可用第三代 cephalosporin(Ceftriaxone ) IM 1 g 治療。若角膜潰瘍須住院治療用全身性抗生素 Ceftriaxone 1 g IV q12h 連打三天及局部眼藥(Genta 藥膏,Cravit 藥水)。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- ...預防細菌性結 | | 因硝酸銀點眼液已經被抗生 | | | 膜炎。 | | 素藥膏所代替,故已極少發 | | | | | 生。 | | 細菌性 | 細菌性眼炎中,以 | 多在出生 2~7 天內發生 | 給予全身性抗生素:第三 | | | 「淋病性」眼炎最為 | 。兩眼紅腫、大量的化 | 代 cephalosporin 或 penicillin | | | 危險。父母有性病 | 膿性分泌物產生,嚴重 | G治療,並以食鹽水沖洗眼 | | | 史,最常被考慮的就 | 會導致角膜水腫、潰瘍 | 睛。現在通常先以紅黴素或 | | | 是格蘭氏陰性 Gram | 、穿孔、並發產成為眼 | 四環黴素眼藥膏預防。 | | | (-)的淋病雙球菌。 | 內炎。 | | | 披衣菌 | 父母多 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
 - | 感染性 | · 最常見的病原菌為披衣菌 (Chlamydia trachomatis), 其次為淋病雙球 | | |------|-------------------------------------------------------------------------|--| | | 菌 ( Neisseria gonorrhoeae ),Herpes simplex virus 和 Trichomonas 佔 | | | | 少數個案 | | | 非感染性 | • 包括機械性刺激(如手術創傷、異物刺激)、化學性刺激(如陰道灌 | | | | 洗、藥物刺激)和放射治療等 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (5) 治療:一般先給予經驗性療法,等感染源確定後再專一性治療。若感染源為披衣菌、淋病雙球菌或 trichomonas,須同時治療性伴侶,且治療期間需禁慾。專一性治療包括 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - | 披衣菌 | • azithromycin 1 g 單一劑量或口服 doxycycline 100 mg BID, | | | |-------|----------------------------------------------------|--|--| | | 7 天。( 懷孕時使用 erythromycin) | | | | 淋病雙球菌 | • 單一劑量的肌肉注射 ceftriazone 250 mg | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -63,10 +71,6 @@ tags:
 - (B) 1. 下列關於氟喹諾酮類抗生素 (quinolone,如 ciprofloxacin、levofloxacin) 108(ニ)専 的敘述,何者正確?8ミ-54 - (A) 是抑菌而不是殺菌型藥物 - (B) 對淋病球菌 (Neisseria gonorrhoeae) 抗藥性增加,不建議做為第一線治療藥物 - (C) 主要是由膽汁排泄清除,腎衰竭病人不需調整劑量 - (D) 由於對綠膿桿菌(*Pseudomonas aeruginosa*)的殺菌作用不佳, 發燒和中性顆粒細胞減少症病人是禁忌 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - | 奈瑟氏腦膜炎雙球菌 | 奈瑟氏淋病雙球菌 | | | |-----------------------|---------------------------------------------------------------------------------|--|--| | Neisseria menigitidis | Neisseria gonorrhoeae | | | | Meningococcus | Gonococcus | | | | 有多糖體莢 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ## B. 奈瑟氏淋病雙球菌 (Neisseria gonorrhoeae、Gonococcus) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (C) Neisseria gonorrhoeae Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- | 表徵 | 病程 | 致病原 | 特徵 | 治療 | |------|---------|---------------------------------|------------------|--------| | 單一關 | Acute | 成人中以 S. aureus 最常見 | 免疫缺乏或關 | 預後差,常需 | | 節發炎 | Chronic | Mycobacterium tuberculosis, NTM | 節本身有病變 | 外科引流 | | 多關節發 | 後炎 | Neisseria gonorrhoeae人、皮膚紅疹 | 性活躍的年輕治療→預後佳 | 適當抗生素 | Source: [[sources/med3-book3-ch13|戊、感染性關節炎]].
-- 1. 性活躍的年輕人較多,常因奈瑟氏淋病雙球菌(Neisseria gonorrhoeae)於尿道、陰道等處附著,進而導致血行性感染,最後造成多發性關節炎,可能有皮膚紅疹等病兆。 Source: [[sources/med3-book3-ch13|戊、感染性關節炎]].
-- ...b 型嗜血 | 13. 弓形蟲感染症 | | | | 12. 腸道出血性大腸 | 桿菌感染症 | 14. 流感併發重症 | | | | 桿菌感染症 | 16. 梅毒 | 15. 庫賈氏病 | | | | 13. 漢他病毒症候群 | 17. 淋病 | | | | | 14. 霍亂 | 19. 人類免疫缺乏病 | | | | | 18. 腸病毒感染併發 | 毒感染 | | | | | 重症 | 20. 後天免疫缺乏症 | | | | | 15. 德國麻疹 | 候群 | | | | | 16. 多重抗藥性結核 | | | | | | 17. 屈公病 | | | | | | 18. 西尼羅熱 | | | | | | 19. 流行性斑疹傷寒 | | | | | 白底需一天內通報 | T Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 
@@ -75,6 +79,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/ophthalmia-neonatorum|Ophthalmia neonatorum (新生兒眼炎)]]
 - [[conditions/pelvic-inflammatory-disease|Pelvic inflammatory disease, PID (骨盆腔發炎性疾病)]]
 
 ## Follow-up

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch17]]"
   - "[[sources/med3-book2-ch24]]"
@@ -25,6 +25,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Autoimmune hepatitis (自體免疫性肝炎)'
   - 'Autoimmune hepatitis'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫造成 hepatocellular liver injury，需與病毒、藥物等鑑別。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- (2) 幼年型風濕性關節炎(Juvenile idiopathic arthritis, JIA):在小於 16 歲的小孩關節炎發生持續超過六週的疾病。其中的寡關節型(pauciarticular form)易併發慢性前葡萄膜炎(80~90%),寡關節型又分 type1 及 type2、Type1:ANA(+) 且較易發生在五歲以下女孩且常造成帶狀角膜病變,Type 2 常發生在歲數大一點的男孩,很多都有 seronegative spondyloarthropathy(HLA-B27-postive)。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - (8) 自體免疫肝臟疾病如 primary biliary cirrhosis 與 autoimmune hepatitis。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - | 項目 | 特徵 | |--------------------|------------------------------------------------------| | ANA | 95~99% (+),敏感度 (sensitivity) 高但特異性 (specificity) 低,最 | | | 佳篩檢工具,重複陰性反應可排除 SLE。 | | Anti-ds DNA | 特異性最高,和疾病活動度有關(值越高疾病越活躍),可預測 | | | 腎炎和血管炎。 | | Anti-sm (Anti-U1 | 呈陽性時,大大增加 SLE 的機會,和疾病活動度無關。但對於診 | | RNP) | 斷混合性結締組織病( Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...陽性)、Leukopenia( < 4,000)、 | | | | | | | Lymphopenia ( < 1,500) 或 Thrombocytopenia ( < 10 萬 )。 | | | | | | 實驗室檢查 | (10) ANA(+)、(11) Anti-dsDNA(+) 或 Anti-Sm(+) 或 Anti-phospholipid(+) | | | | | Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
@@ -84,7 +87,6 @@ tags:
 - | 自體免疫抗體 | 特徵 | |--------------------|----------------------------------------------------| | ANA | 95~99%(+),很 Sensitive,但不 Specific | | | 最佳篩檢工具,重複的陰性反應可排除 SLE | | Anti-ds DNA | 最 Specific,和疾病活動度有關 ( 值愈高疾病愈活躍 ), | | Anti-ds DNA | 可預測腎炎、血管炎 | | Anti-sm | 最 Specific,和疾病活動度無關 | | Anti-Ro (SSA) | 可穿過胎盤,造成胎兒先天性心臟傳導障礙* Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (A) 13. 24 歲女性病人主訴雙側手腕及手指關節疼痛已一個多月,最近也常 103( ) 專 口腔潰瘍及無故發燒。體檢發現血中白血球數目偏低。請問下列那 醫 = -8 一項檢驗,獲得陽性的機率最高? - (A) 抗細胞核抗體 (ANA) - (B) 類風濕因子 (RF) - (C) 抗 DNA 抗體 (anti-dsDNA) - (D) 抗環狀瓜氨酸化胜肽抗體 (anti-CCP antibodies) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...件之一?in IgM antibody 呈中度陽性反應週,因子癇症(eclampsia)造成早產 | 99(二)專醫三-39 | | (C) | 21. | 病活性(disease activity)? (A) high titer of ANA (B) high levels of C3 and C4 (C) high titer of anti-dsDNA ant (D) high level of C-reactive prot | | 99(一)專醫三-27 | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- A. 抗核抗體 (Anti-nuclear antibody, ANA) 30 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

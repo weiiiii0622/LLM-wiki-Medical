@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book2-ch06]]"
 aliases:
   - 'Gout (痛風)'
   - 'Gout'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-尿酸鹽結晶造成急性關節炎與慢性痛風石。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿酸鹽結晶造成急性關節炎與慢性痛風石。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book6-ch09]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book2-ch06]]
 
 ## Key Details From Sources
 
+- 1. 是一種常見的暫時性、自限性、復發性鞏膜表層組織的發炎。好發於 20~50 歲,常 發生於角膜緣(輪狀部)至直肌附著點的區域內,並以瞼裂暴露部位最常見,通常 不會進展成真的鞏膜炎。約有 1/3 病例伴隨局部或全身性疾病,如:玫瑰面皰(acne rosacea)、眼睛異位病(atopy)、痛風或膠原蛋白血管疾病等。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - (C) 1. 關於痛風(gout)及偽痛風(pseudogout)之敘述,下列何者錯誤? (A) 痛風性關節炎主要是尿酸(uric acid)沈積,而偽痛風又名 calcium pyrophosphate dihydrate(CPPD)deposition disease, 主要是焦磷酸鹽沈積為主 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (B) Gout 最常影響腳上大拇趾第一掌蹠關節(first metatarsal joint),而 pseudogout 最常影響膝關節 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (D) Gout 及 pseudogout 都可用秋水仙素 (colchicine) 治療 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].

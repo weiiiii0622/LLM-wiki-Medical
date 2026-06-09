@@ -24,6 +24,8 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Candidiasis (念珠菌感染)'
   - 'Candidiasis'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,14 @@ tags:
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book6-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- 2. 黴菌性角膜炎:最常見病原菌為菌絲型黴菌(Aspergillus 和 Fusarium 屬)和白色念珠菌(*Candida albicans*)。 - (1) 症狀:類似細菌性角膜炎。 - (2) 臨床徵候: Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- b. 白色念珠菌: 通常出現在免疫力低下的人、乾眼、角膜暴露者, 進程較快。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - ### (2) 念珠球菌感染 (Candidiasis) Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...女第二常見的陰道炎,主要影響育齡婦女(停經後或青春期前較少 見),隨著年紀愈大愈容易感染,且復發率高 為直腸和陰道的共生菌,在體內雌激素增加(如懷孕)、免疫抑制治療、 糖尿病控制不佳和廣泛性抗生素治療等情況容易引起感染 • 主要感染菌種為 Candida albicans (約佔85%),加上 C. glabrata 佔99% 表現 • 主要表現為會陰部搔癢、灼熱刺激感,可能伴隨解尿疼痛和性交疼痛等 症狀 · 內診可發現陰道和陰唇紅腫,甚至裂傷;可見白色乳狀斑塊分泌物 檢查 ・陰道 pH 值正常 (3.5~4.5) · 食鹽水稀釋的抹片可觀察到 budding yeast 或 hyphae · 加入 10% KOH 將細胞破壞可更清楚觀察到 budding yeast 或 hyphae Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - | | Bacterial vaginosis | Candidiasis | Trichomoniasis | |---------|-----------------------|--------------------|-----------------------| | 病原體 | Gardnerella vaginalis | Candida albicans | Trichomonas vaginalis | | | 最常見 | 最常見 | | | 發生率 | 最常見 45% | 第二常見 35% Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -79,10 +86,6 @@ tags:
 - (B) candidal intertrigo Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) 3. 承上題,這位患者皮膚病的致病菌為: - (A) Trichophyton rubrum - (B) Malassezia furfur - (C) Candida albicans - (D) Corynebacterium minutissimum Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - b. 內服療法: 適用於頭癬及甲癬,或局部療法效果不佳、病灶廣泛之慢性皮癬患者。 - (a) Terbinafine (療黴舒):屬殺黴菌藥物,治療皮黴菌約需 2~4 週,手指甲 癬需 6 週,而腳趾甲癬約需 12 週。治癒率為 80~90%,但對汗斑及念珠 菌感染無效。 - (b) Itraconazole (適譜諾):由於對肝臟損害少,有取代老藥 Ketoconazole 之趨勢,屬於抑黴菌藥物而非殺黴藥物。但因屬 imidazole 類之廣效製劑,故對汗斑及念珠菌感染亦具療效。 - (c) Griseofulvin(灰黃黴素):只對皮癬菌有效,為傳統口服抗黴菌藥物,只具有抑菌效果,主用於頭癬和灰指甲。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 【詳解】從圖一可見嘴唇左半部有塊偏厚的斑塊(indurated plaque),上面有些白色條紋,且可看見有輕微脫屑(箭頭處)。 第一個會想到是 lichen planus 的 Wickham striae,或是 leukoplakia; candidiasis 會再更潰爛更脫屑等表皮變化,psoriasis 的話因為選項 有,且斑塊加上脫屑也是有可能,先不排除。接著看病理部分: Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- Candidiasis: epidermis 會有 spongiotic change(表皮細胞彼此之間像吸水的海綿間隔距離變寬),在 stratum corneum 和 superficial epidermis 可見 neutrophil 匯聚成一小團一小團的 pustulation,加上臨床不太像,故排除。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 持續型氣喘(persistent asthma)的第一線治療,具有抗發炎的作用。高劑量(每天 $\geq$ 1,000 $\mu$ g)及每日使用>4 次較容易出現副作用。最常見的副作用為口腔念珠菌感染(thrush)及聲音沙啞。因此使用完吸入性類固醇要漱口,且使用壓力式定量噴霧器(MDI)者要接輔助艙(spacer)以減少藥物在口腔沉積。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...Escherichia coli | | | adenovirus, | staphylococci, | Serratia,Klebsiella; | | | | enterovirus); | Haemophilus…); | 黴菌如 Candida; | | | | Candida; PCP ; | XLA 病人常見 | Nocardia, Aspergillus | | | | mycobacteria | enterovirus 感染; | | | | | | 寄生蟲 (giardia, | | | | | | cryptosporidia) | | | | 臨床 | 生長發育不良 | 反覆的鼻竇炎或肺 | 皮膚感染 (abscess, | 腦膜炎,關節炎, | | 表現 | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

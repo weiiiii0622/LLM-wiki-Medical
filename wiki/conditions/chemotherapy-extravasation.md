@@ -14,6 +14,9 @@ sources:
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch02]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Chemotherapy extravasation (化療藥物外滲)'
   - 'Chemotherapy extravasation'
@@ -28,7 +31,7 @@ tags:
 
 ## Summary
 
-vesicant 化療外滲可造成組織壞死，處置依藥物類別不同。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+vesicant 化療外滲可造成組織壞死，處置依藥物類別不同。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +45,15 @@ vesicant 化療外滲可造成組織壞死，處置依藥物類別不同。 本�
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch02]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- 1. 麥粒腫(Hordeolum):由葡萄球菌感染引起的急性膿瘍,造成眼瞼邊緣有紅腫熱痛的腫塊,即俗稱的「針眼」。治療有熱敷、抗生素等,若已蓄膿則作切除引流。若無即時治療可能造成眼眶的蜂窩性組織炎: - (1) 麥粒腫依感染部位不同分為: - a. 內麥粒腫: 感染 Meibomian gland, 在瞼板內。 - b. 外麥粒腫:感染 Zeis' gland,在睫毛根部。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
+- 2. 淚囊炎(Dacryocystitis):淚囊感染多次發於鼻淚管阻塞,常由葡萄球菌或鏈球菌引起,可分急、慢性兩種。 - (1) 急性淚囊炎:症狀為淚囊紅腫熱痛、溢淚等。治療初步給予熱敷及口服抗生素。若有化膿則切開引流,急性期應避免施行淚囊灌洗術及淚囊探針術。緩解後可做淚囊鼻腔造孔術(DCR),避免復發。 - (2) 慢性淚囊炎:較常見,壓迫淚囊會有黏液膿樣分泌物排出,可能造成淚囊無痛性腫大、溢淚等。治療:局部抗生素、DCR。 - \*\* 淚囊炎往往會在淚囊附近的皮膚呈現紅腫及壓痛的情形,一般較淚小管炎影響的範圍來的大且嚴重,甚至會造成眼部的蜂窩性組織炎。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- ...查或 CT 檢查可見到眼外肌可在眼窩底部骨 折處或掉到鼻竇、強力眼肌牽引試驗(forced duction test)為陽性,例如 用鑷子夾住下直肌向上提,也無法讓眼球向上轉,因此時下直肌已經卡 在眼眶底部骨折處了。 - (c) 治療:可先冰敷數小時,並給予抗鼻充血藥物及抗生素。若有以下情形 須考慮施行手術(在外傷後兩週內,避免組織纖維化):眼球內陷大於 2 mm、強力眼肌牽引試驗為陽性、眼眶底部骨折破裂範圍超過 1/2。 - (d) 預後:輕微複視及麻木感大部份可改善,而眼球轉動流暢度則較不易恢 復至正常狀態。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - ...、治療方 | | 社會心理支持 | 式與成果等。 | | | • 壓力的降低及放鬆技巧有助於改善症狀。 | | | • 若出現憂鬱或焦慮,建議會診身心科。 | | | • 鼓勵病人參加病友團體。 | | 自我照護與 | • 在膀胱或會陰局部熱敷或冰敷 | | 生活型態調整 | • 避免可能加劇症狀的活動及飲食 | | ti nin ayar Arak | • 適當飲水,避免過量(每天不超過2L) | | 物理治療 | • 有骨盆底肌肉壓痛的病人,建議接受物理治療 | | 口服藥物 | · 三環抗鬱劑 amitriptyline 為第一線治療藥物,不僅有止痛 | | | 效果,並且可以緩解慢性疼痛造成的憂鬱症狀。一般1 | | | 個月內即可看到效果。 | | | • 當三環抗 Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - (2) 3rd 和 4th degree 撕裂傷,需將肛門括約肌對齊縫合,之後可給預防性抗生素、 軟便劑和施以冰敷,並且必須避免灌腸。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - ...ccus aureus (金黃色葡萄球菌) | | | | • 其他如 Streptococci viridans 和 E. coli 等 | | | 症 狀 | • 乳房紅腫、脹痛、發燒和冷顫 | | | 處置 | • 消炎止痛藥使用伴隨冰敷以減輕乳房脹痛 | | | | • 持續哺乳或擠出乳汁,可避免膿瘍形成 | | | | • 經驗性抗生素須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時無效果,應安排乳房超音波,檢查是否有 | | | | breast abscess | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].

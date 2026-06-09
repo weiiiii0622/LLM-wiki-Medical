@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book3-ch01]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med6-book2-ch08]]"
 aliases:
   - 'Hypoparathyroidism (副甲狀腺低下)'
   - 'Hypoparathyroidism'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-PTH 不足造成低血鈣與高磷。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH 不足造成低血鈣與高磷。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ PTH 不足造成低血鈣與高磷。 本頁已整合至 `醫(四)第4冊神內`
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med6-book2-ch08]]
 
 ## Key Details From Sources
 
+- 2. 系統性疾病相關的白內障(cataract in systemic diseases): 在糖尿病、肌強直失養症(myotonic dystrophy)、異位性皮膚炎、神經纖維瘤第二型(neurofibromatosis-2)、 半乳糖血症(galactosemia)、副甲狀腺低下(hypoparathyroidism)等疾病中,白內 障可能提早發生。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - ...is | tica" with parkinsonian features) | | Infectious | Postencephalitic PD | | | | | Neurosyphilis | | | | Metabolic | Hypoparathyroidism or pseudohypoparathyroidism with basal ganglia calcifications Non-Wilsonian hepatolenticular degeneration | | | | Drugs | Neuroleptics (typical antipsychotics) \ Some atypical antipsychotics | | | | (常併有 | Antiemetics ( Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - ...mucocutaneous candidiasis): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].

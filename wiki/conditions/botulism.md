@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Botulism (肉毒桿菌中毒)'
   - 'Botulism'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book2-ch17]]
 - [[sources/med6-book1-ch16]]
+- [[sources/med6-book2-ch14]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- ...terior fixation suture)。 - b. 加強手術,增加肌肉拉力:直肌切除(resection)、上斜肌打摺(tucking)、 已動過手術的直肌前移(advancement)。 - c. 改變肌肉作用方向。 - (2) 肉毒桿菌注射:可暫時性造成肌肉鬆弛,注射後拮抗肌的力量相對增強將眼位 復原。由於藥效大約只持續數週,常需重複注射。 - (3) 併發症:需小心眼心反射(oculocardiac reflex),當手術過程中拉扯到眼外肌或 施壓於眼球會刺激副交感神經造成心跳下降。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
+- | 疾病 | 原發性眼瞼痙攣 | 半面痙攣 | |------|--------------------------------------------------------|----------------------------------------| | 原因 | 不明 | 顔面神經 (CN VII) 受血管壓迫而刺激造成放電異常 | | 好發族群 | 中年以上女性 | 中年以上女性、老年人 | | 特 徴 | 兩眼眼輪匝肌及上臉部肌肉不自主痙攣持續數分鐘至幾小時,在強光、壓力下會誘發,睡眠時不會發作。 | 臉半部肌肉包含眼瞼有痙攣收縮,多發生於單側且睡眠時可能發作。 | | 單/雙側 | 雙 | 單 | | 治療 | 肉毒桿菌注射 | 肉毒桿菌注射 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - | 治療方法 | 説 明 | |--------------------------|---------------------------------------| | 逼尿肌注射肉毒桿菌素 | • 在膀胱擴張下,將肉毒桿菌素注入逼尿肌 | | 薦椎神經調節 (註1) | · 需手術將薦椎神經調節器 (如: InterStim) 植入體內。 | | (sacral neuromodulation) | | | | | | 口服 cyclosporine A | · 對某些病人,尤其是有 Hunner lesions 者會有效果,不過, | | | 副作用大,包括腎毒性、高血壓、免疫抑制、腹痛、潮 | | | 紅與肌肉 Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - 6. 處置: - (1) 藥物治療:90% 可以癒合 - a. 首要維持排便通暢,降低肛門內括約肌痙攣,故急性期多先給予軟便劑並教 導正確排便習慣。 - b. 溫水坐浴:使肛門內括約肌放鬆,增加局部血流加速肛裂癒合。 - c. 局部塗抹 glyceryl trinitrate (GTN) ointment (0.2~0.4%), 也是使肛門內括約 肌放鬆,增加局部血流加速肛裂癒合。不過會有頭痛的副作用。 - d. GTN 失敗時可考慮使用 diltiazem ointment、CCB 或注射肉毒桿菌至肛門內括約肌。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
 - II. 神經肌肉接合處疾病 (Neuromuscular Junction Disease) 174 - A. 重症肌無力 (Myasthenia gravis) 174 - B. Lambert-Eaton syndrome 175 - C. 肉毒桿菌中毒 (Botulism) 175 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
@@ -50,9 +56,6 @@ tags:
 - \* 國考題的翻譯:臘桿菌(Bacillus cereus)、臘腸毒桿菌(Clostridium botulinum),前者就是大家熟悉的造成食物中毒的仙人掌桿菌,後者就是能使肌膚緊縮的肉毒桿菌,乍看中文翻譯易搞混,須依英文學名為主。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - | 致病菌 | | 疾病 | | 症狀 | |--------|-------------------------|-------|--------------------------|--------| | 肉毒桿菌 | Clostridium botulinum | 肉毒桿菌病 | Botulism(抑制 Ach 釋放) | 肌肉衰弱 | | 破傷風桿菌 | Clostridium tetani | 破傷風 | Tetanus(抑制 Gly,GABA 釋放) | 肌肉痙攣 | | 產氣芽孢桿菌 | Clostridium perfringens | 氣性壞疽 | Gas gangrene | 蜂窩性組織炎 | | 困難芽孢桿菌 | Clost Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - #### 1. 臘腸毒桿菌 (Clostridium botulinum) Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...2. 鉤端螺旋體病 | 2. 馬堡病毒出血熱 | | 3. 嚴重急性呼吸道 | 3. 登革熱 / 登革出血 | 3. 新生兒破傷風 | 3. 類鼻疽 | 3. 黃熱病 | | 症候群 | 熱/登革休克症候群 | 4. 日本腦炎 | 4. 肉毒桿菌中毒 | 4. 伊波拉病毒出血熱 | | 4. 狂犬病 | 4. 流行性腦脊髓膜 | 5. 結核病(除多重抗 | 5. 侵襲性肺炎鏈球菌 | 5. 拉薩熱 | | 5. 炭疽病 | 炎 | 藥性結核病外) | 感染症 | | | 6. H5N1 流感 | 5. 副傷寒 | 6. 漢生病 | 6. Q 熱 | | | | 6. 小兒麻痺症 (急性 | 7. 先天性德國麻疹 | 7. 地方性斑疹傷寒 | | | | 無力肢體麻痺) | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...性,其臨床從無症狀或局部皮膚潰瘍,到以嚴重肺炎表現,甚至是全身性敗血症、休克等,臨床檢體經由實驗室培養出疑似為類鼻 | 24 小時内 | | | 疽伯克氏菌 (Burkholderia pseudomallei) 者必須通報。 | | | 肉毒桿菌 | 本病典型臨床症狀主要與神經系統有關,包括複視、視覺模糊、延髓性衰弱、 | 24 小時內 | | 中毒 | 對稱性神經麻痺等。 | | | | 臨床病例定義依感染源可分下列幾型: | | | | 一、食媒型:因攝食已受肉毒桿菌污染,產生毒素食物;症狀最初不舒服之 | | | | 處為視覺障礙 (視覺模糊或複視),嚥物困難及口乾。之後,病例漸有弛 | | | | 緩性麻痺之現象,嘔吐和便秘或下痢也會出現,嚴重時會因窒息而死亡。 | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
-- ...正常人的下肢並引起糖尿病感染產氣性壞疽 | 95(一)專 | | (1.1) | | 病 (gas gangrene)? | 內 1-43 | | | | (A) Clostridium perfringens | | | | | (B) Clostridium botulinum | | | | | (C) Clostridium tetani | | | | | (D) Clostridium difficile | | | (B) | 13 | 關於壞死性筋膜炎之敘述,下列何者不正確? | 94(三)檢 | | (D) | 15. | (A) Necrotizing fasciitis(壞死性筋膜炎)患者可合併急性腎衰竭或敗 | 內 -69 | | | | 血性休克 | ,, | | | | (B) Str Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 
 ## Clinical Caveats
 

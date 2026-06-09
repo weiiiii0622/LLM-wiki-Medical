@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Glomerulus (腎絲球)'
   - 'Glomerulus'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎絲球濾過屏障是 proteinuria、hematuria 與 GN 的核心結構。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ tags:
 - [[sources/med5-book5-ch09]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch16]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - ...腎臟 | · 腎臟增大 1~1.5 公分,腎臟容積增加 30% | |-------------|--------------------------------------------| | | ・ 腎血管阻力下降,腎血流增加 80%,腎絲球過濾率增加 40~50% | | | (22~24 週達到高峰),使得血中的 BUN 和 creatinine 數值是下降 | | L. Affal, 1 | 的,另外,可能會有輕微的尿蛋白 | | 輸尿管 | • 黃體素使得輸尿管的蠕動減少,加上增大的子宮和支持韌帶之 | | | 壓迫,造成尿液的滯留、甚至逆流,導致腎盂及輸尿管擴大, | | | 形成 hydro-nephrosis 及 hydroureter,容易引起泌尿道感染 |... Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...ner lesions:膀胱黏膜上出現紅色病灶,其上的微血管呈放 | | | | | 射狀,中央有白色的纖維沉積。僅 5~10% 的病人會出現,但特 | | | | | 異性高 | | | | | (ii) Glomerulations: 腎絲球狀點狀出血。特異性低,診斷價值不高 | | | | | (iii) 切片檢查可發現 mast cells 增加 | | | | 9/ | | | | Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - ...絲狀帶 (zona Glomerulosa)、東狀帶 (zona Fasciculata)、網狀帶 (zona Reticularis)。(記法:外而內第一個字母「GFR」。這原本是指 Glomerular filtration rate 腎絲球過濾率) - (1) 絲狀帶 (zona Glomerulosa): 分泌礦物性皮質素 (mineralocorticoid), 其中主要成分是醛固酮 (aldosteronoma)。(記法: 施壓。絲(施) 狀帶分泌太多會造成高血壓) - (2) 東狀帶 (zona Fasciculata): 分泌葡萄糖皮質素 (Glucocorticoid), 其中主要成分是皮質醇 (cortisol, 一種類固醇)。(記法: 束褲帶。東狀帶分泌太 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -80,7 +83,6 @@ tags:
 - (2) Class III、Class IV 可見 Subendothelial immune deposits、腎絲球活躍地發炎,須積極以高劑量類固醇+免疫抑制劑(Cyclophosphamide)治療。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (4) Class VI 則是 9 成以上的腎絲球皆已硬化(Sclerosis),無殘餘發炎反應,給類固醇已無太大的幫助。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - 94(三)檢 (C) 2. 下列有關混合結締組織病 (mixed connective tissue disease)的描述, 內 -42 何者正確? - (A) 為全身性紅斑性狼瘡+橋本氏甲狀腺炎+慢性活動性肝炎+心 肌炎的綜合病症 - (B) 最具診斷價值的抗體為 anti-ribosomal phosphoprotein 抗體 - (C) 最常見的致死原因為肺高血壓症 (pulmonary arterial hypertension) - (D) 90% 以上的患者會發生瀰漫性增殖性腎絲球腎炎 (diffuse proliferative glomerulonephritis) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
 
 ## Clinical Caveats
 

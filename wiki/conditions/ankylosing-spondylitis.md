@@ -12,6 +12,8 @@ sources:
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book2-ch07]]"
 aliases:
   - 'Ankylosing spondylitis, AS (僵直性脊椎炎)'
   - 'Ankylosing spondylitis, AS'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 �
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book2-ch19]]
+- [[sources/med6-book2-ch07]]
 
 ## Key Details From Sources
 
+- 4. 僵直性脊椎炎(Ankylosing spondylitis): 好發於男性,與 HLA-B27 相關,約 1/4 病 患會出現反覆性非肉芽腫性虹膜炎。 - (1) 眼部表徵:以急性前葡萄膜炎(虹膜炎)為主。 - (2) 治療:主要針對虹膜炎,使用局部類固醇及散瞳劑。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- (1) 症狀:急性前葡萄膜炎會畏光、疼痛、紅眼、視力下降、流淚,多與 HLA-B27 抗原有關;慢性前葡萄膜炎可能無症狀或有漂浮物。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- 1. 與自體免疫相關的葡萄膜炎,以下舉出常見的: - (1) HLA-B27 抗原關聯性急性前葡萄膜炎: Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- a. 僵直性脊椎炎(Ankylosing spondylitis):主要影響 sacroiliac joint (sacroiliitis)及中軸骨(spondylitis)。約90%病患 HLA-B27(+),約30%病患有急性前葡萄膜炎,兩眼常不同時發生,且易復發,嚴重時前房會有纖維性滲出物。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - 1. 關節炎可以分成 inflammatory (seropositive :rheamatoid arthritis 和 seronegative: Ankylosing spondylitis, psoriatic arthritis, reactive arthritis) 和 non-inflammatory (osteoarthritis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - #### (3) Ankylosing spondylitis: Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - b. 特徵為 SI joint 和 spine 的慢性發炎,如果 spine 的 vertebral body 時間久了 fusion,就會形成 bamboo spine。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].

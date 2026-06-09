@@ -21,6 +21,11 @@ sources:
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch06]]"
+  - "[[sources/med6-book2-ch13]]"
+  - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Light criteria (Light 標準)'
   - 'Light criteria'
@@ -35,7 +40,7 @@ tags:
 
 ## Summary
 
-區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +61,20 @@ tags:
 - [[sources/med5-book6-ch09]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch02]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch06]]
+- [[sources/med6-book2-ch13]]
+- [[sources/med6-book2-ch14]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- ...Back- ground DM | | — 火焰狀出血 (flamed-shaped hemorrhage):位 | | | Retinopathy) | | 於表淺血管,延神經纖維層分布 | | | | | (3) 硬性滲出物(hard exudate):即 lipid leakage | | | | | (4) 黃斑部水腫 | | | | | (5)視網膜內小血管異常 (IRMA) | | | | | (6) 血管變化:小動脈狹窄閉塞、小靜脈擴張或成 | | | | | 串珠狀 (venous beading) 及圈狀 (looping) 變化 | | | | | (7) 棉絮狀斑點 (cotton-wool spots): 因微血管 | | | | | 前小動脈阻塞導致局部視網膜 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- (1) 視網膜電圖(electroretinography, ERG): 紀錄光刺激時,視網膜由光接收器至神經節細胞產生的動作電位(action potential)。ERG 在光適應(light-adapted、photopic)及暗適應(dark-adapted、scotopic)狀態下引發。分為向下轉折的a-wave 和向上的 b-wave,正常的 ERG 是雙相的,但在一些遺傳性眼底病變中,b-wave 可能是平坦的。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- ...ithout inflammation),國考這裡沒考那麼細。 - b. 症狀有劇烈疼痛,半夜痛醒,且疼痛放射到眼周。怕光、流淚及睫狀體部壓 痛等。 - c. 關鍵表徵:因鞏膜及上鞏膜的深層血管叢擴張呈深紫色,用無紅光 (red-free light)或裂隙燈彌漫性光照法 (diffuse illumination) 可清晰呈現血管變化。 - d. 發炎的鞏膜呈侷限性或瀰漫性紫紅色充血隆起。嚴重的鞏膜炎,可見黃色膠 樣半透明的浸潤性結節,融合形成環狀鞏膜炎,它可蔓延至角膜形成硬化性 角膜炎。 - e. 症狀消退後,病變區鞏膜由瘢痕組織取代,鞏膜變薄,使葡萄膜顏色顯露而 呈藍色,在眼內壓的作用下,病變部位鞏膜可擴張膨出,形成鞏膜葡萄腫 (Staphyloma)。 - f. Necro Source: [[sources/med6-book2-ch06|己、鞏 膜]].
+- (3) 當視力更差時,可用下列方式表示:指數(counting fingers, CF)、手動(hand motion, HM)、光感(light perception, LP)、無光感(no light perception, NLP)。 Source: [[sources/med6-book2-ch13|丑、光學屈光]].
+- ...C的缺口方向;更小的小孩,可用圖案視力表或追蹤物體移動、 遮眼等方法)及斜視相關的理學檢查。 - (1) 偏向的測量 (measurement of deviation): - a. Hirschberg test: 又稱 corneal light reflex test,將固定光源同時照射兩眼,觀察角膜上光反射情況。正常反射點會落於瞳孔中央,若有斜視則光點會偏移,測量光點距離瞳孔正中央的偏移距離。每 1 mm 的偏移大約 =7 度偏斜角度 =14 稜鏡屈光度 (prism diopter)。 - b. Krimsky and prism reflection test: 直接在把稜鏡放在斜視的眼前,以光源同時 照射兩眼,調整稜鏡度數直到反光點落在瞳孔中央。因為 Krimsky Source: [[sources/med6-book2-ch14|寅、斜弱視]].
+- ...test),以光線交替照射雙眼,可觀察到病灶眼瞳孔非但不縮小反而放大的現象。 - (3) 色覺異常(dyschromatopsia):主要影響紅綠色覺,以 Ishihara 色盲卡檢查。 - (4) 光亮度敏感度減弱(diminished light brightness sensitivity): 若有單側視神經疾病,兩眼所見的光線亮度不相同。 - (5) 對比敏感度減弱 (diminished contrast sensitivity): 以光柵測試是否能區別逐漸增加的對比度。 - (6) 視野缺損(visual field defects): 與疾病影響的位置有關,可能是中心視野廣泛縮小或中心暗點等。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 3. 成因:因 β-hCG 作用於卵巢 granulosa cell 之 LH receptor,促使 granulosa cell 產生 VEGF,造成血管通透性增加,大量血管外的渗出液(exudate)而導致臨床症狀。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - 【詳解】OHSS 患者血管通透性增加,大量血管外的渗出液 (exudate) 導致胸水腹水的產生,給予靜脈輸液補充血管內液 體容積及 Albumin 提高 oncotic pressure,來拉住血管內液體,只 有在大量輸液後尿量未增加,才考慮施打利尿劑,利尿劑非必 要也非首選的治療。當胸腹水則是造成嚴重症狀(呼吸困難或 腹痛),可考慮抽水減緩症狀。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - | Gaskin all-fours: | | |-----------------------------|---------------------------------| | 讓產婦呈雙手雙膝著地的姿勢,然後將胎 | Light I | | 兒往上或往下拉,以期能娩出胎兒肩膀。 | Che Man | | | | | | | | | | | | | | | | | | | | | | | | (圖取自參考資料3) | | Clavicular fracture | | | | 但此法不容易施行,而且可能傷及胎 | | | 兒血管和肺部。 | | +I 디 상타되다+ ( 7 11' ) | | | ・札凡納利法(Za vanelli maneuver) | 將 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
@@ -69,14 +85,6 @@ tags:
 - a. 大多為漏出液(transudate),但有時慢性肋膜積水可能變成 exudates。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...昏迷。 - (3) 下列腦幹反射皆完全消失(第六條):其中一個正常就不算腦死。 - a. 頭眼反射 (Doll's eye sign):正常情況下,將病人頭部轉動,眼球會轉向相反 方向,例如頭往右轉,眼球會向左轉。 - b. 瞳孔對光反射(Light reflex)。 - c. 眼角膜反射 (Corneal reflex) = blink reflex,用棉花棒碰角膜會引發閉眼。 - d. 前庭-動眼反射(Oculo-vestibular reflex):Caloric test,將頭抬高 30 度並用約 50 cc 冷水(30℃)或冰水灌入其中一邊外耳道內,則兩眼會共軛地轉向對側,若用溫水(44℃)灌入兩眼會轉向同側,此表示腦幹功能正常。當腦幹尤其前庭核區有病灶時,則此反射會消失 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - (C) 5. 一位 60 歲女性,於一週前發生複視(diplopia),並無劇烈頭痛,神經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ische Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (4) 特色是在伍德氏燈(Wood light)下會呈現珊瑚紅螢光(coral red)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (A) 2.60 歲男性,在腹股溝出現搔癢之紅斑,以伍氏燈(Wood's light) 檢查出現如圖之發現,最適合之診斷為: 103(二)專 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (C) 6.45 歲女性糖尿病患,3天前於右側額部出現叢集樣水疱(grouped 105(二)專 vesicles)合併紅斑,同側鼻尖亦出現數個水疱,下列何者為最需 醫四-40 要之檢查? - (A) 皮膚劃紋反應(dermatographism) - (B) KOH 鏡檢 - (C) 眼科檢查 - (D) 伍氏燈檢查 (Wood's light examination) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- ...| (A) 若增加的黑色素顆粒在表皮層,使用對苯二酚(hydroquinone) | 醫四 -43 | | | 藥膏可有效淡化 | | | | (B) 若增加的黑色素顆粒在真皮層,使用脈衝光 (intense pulsed | | | | light, IPL)比釹雅各(Nd:YAG)雷射效果更好 | | | | (C) 若施打雷射的劑量太強或施打太頻繁,容易造成醫源性色素 | | | | 脫失 | | | | (D)外用A酸(retinoic acid)藥膏對於雀斑(freckles)有淡化 | | | | 效果 | | | | 【詳解】(A) 對苯二酚能抑制酪胺酸酶(tyrosinase)減少黑色素 | | | | 的生成,對於真皮層和角質層的斑都有效,例如痘疤、肝斑、 | | Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- (D) excimer light (308 nm) Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- (A) 14.50 歲男性,主訴臉部有脫色斑,KOH 鏡檢陰性,伍氏燈(Wood's 103(二)專 light)檢查下對比更加明顯,臨床如圖所示,其診斷為下列何者? 醫四-42 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- (1) high spiking fever (39℃或更高)、兩側結膜紅腫 (usually without exudates)、口 與咽部發現紅斑 (erythema)、草莓舌 (strawberry tongue)、嘴唇乾裂、頸部淋 巴結腫大、身上出現紅疹、手腳紅腫等。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...peeling of fingers, toes in wk 2 and 3 - b. Polymorphous exanthem - c. Bilateral bulbar conjunctival injection without exudate - d. Erythema and cracking of lips, strawberry tongue, and/or erythema of oral and pharyngeal mucosa - e. Cervical lymphadenopathy (>1.5 cm diameter), usually unilateral Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

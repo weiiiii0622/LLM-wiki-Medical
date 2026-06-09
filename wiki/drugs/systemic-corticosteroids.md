@@ -34,6 +34,8 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book4-ch16]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Systemic corticosteroids (全身性類固醇)'
   - 'Systemic corticosteroids'
@@ -48,7 +50,7 @@ tags:
 
 ## Summary
 
-氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘/COPD 急性惡化與多種肺部發炎疾病常用。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +84,13 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book4-ch16]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book2-ch16]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- ...體感異常等), 眼球轉動時會痛。 - (4) 徵候: 患眼色覺異常, 視野呈中心盲點, 相對性輸入性瞳孔缺損(RAPD positive), 視覺誘發電位振幅減低及潛伏期延長。 - (5) 治療:針對病因治療,球後視神經炎若視力很差可給予 methylprednisolone 加速 復原,在兩年內轉變成 MS 的機率可從 36% 降到 16%,長期保護力就下降。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- (4) 治療:若病灶較小且位於較周圍遠離黃斑部,視力通常會自癒。較嚴重的需使用抗弓漿蟲藥物治療(Pyrimethamine、Sulfadiazine)及類固醇(prednisolone)治療六週。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (D) 29. 病患 32 歲女性,第一型糖尿病合併尿毒症,於 6 個月前接受胰腎同時移植。2 星期前因急性排斥,接受 3 天的高劑量類固醇(prednisolone 500 mg)靜脈注射,最近因發燒至 39.5℃,呼吸急喘,乾咳,肺部 X 光呈現兩側對稱性下肺部浸潤(bilateral symmetric lower pulmonary infiltration),血液白血球為 3,400/mm³。此病人之診斷最可能為何? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (A) 1. 男嬰出生就有下圖皮膚的病變,下列敘述何者正確?① 80% 是單一病灶,20% 是多發性病灶 ②通常出生 2 個月後進入增生期(proliferating phase) ③約 50% 的病人在 5 歲後進入恢復期(involuted phase) ④ systemic corticosteroid therapy 可能可以阻止病灶變大 ⑤疾病的診斷是 vascular malformation Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - ...藥物反應佳且甲狀腺無腫瘤 醫五-42 (B) 年輕 (C) 可能要懷孕 (D) 甲狀腺機能亢進併凸眼病變 (D) 23. 一位 45 歲女性,甲狀腺機能亢進接受 propylthiouracil 治療半年 103(-)專 ,因有過敏同時給 prednisolone (5 mg) 每天兩顆,病人接受甲 醫五-42 狀腺右葉全切除及左葉次全切除。第二天病人體溫為38.3℃,全 身無力,血壓較低,下列檢查何者對診斷最有幫助? (A) 血中 T3 (B) 血中 T₄ (C) 血中 TSH (D) 血中可體松 (cortisol) 及 ACTH 【詳解】病人長期服用類固醇長達半年,甲狀腺手術後停止服 用類固醇,產生發燒、全身無力及血壓低的情形,比較像是長 期服用 steroid 造成 secondary Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -101,8 +107,6 @@ tags:
 - (2) 注射類固醇:病情嚴重患者,可直接用針劑類固醇治療,採用脈衝式靜脈注射類固醇法(Pulse therapy),每日靜脈注射 500 毫克 methylprednisolone 針劑,連續三日,可以有效控制病情發展,又可以減少副作用。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (2) 口服類固醇(prednisolone):是治療的最重要藥物,0.5~1~mg/kg/day,假使效果不明顯可增至 1.5~mg/kg/day,使用期間約一到三個月後,。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (3) 口服皮質類固醇(Prednisolone):Indication 為 CNS involvement、renal involvement、severely ill patients without CNS involvement、hemolytic crisis 或 thrombocytopenia。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (4) 若是 moderate or severe HSP nephritis(> 50% crescents on biopsy)、significant GI involvement 或是 life-threatening complications,可以考用使用類固醇治療: 口服 prednisone(1~2 mg/kg/day)或是針劑型 methylprednisolone(針對生命危險的病人),使用 1~2 週再慢慢調降劑量。有些文獻顯示對生命危險的病人,使用 IVIG 或是 plasma exchange 有幫助。此外,對於 chronic HSP,研究治療方式有高劑量類固醇結合 cyclophosphamide 或 azathioprine。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (1) 類固醇仍是腎病症候群主要治療藥物,一般使用 prednisone or prednisolone 60 mg/m²/day or 2 mg/kg/day (maximum daily dose: 60 mg),分成兩次或三次給予,連續用藥約 4~6 週。臨床證據顯示給予六週會降低復發機率。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 
@@ -114,10 +118,14 @@ tags:
 - [[conditions/acute-disseminated-encephalomyelitis|Acute disseminated encephalomyelitis, ADEM (急性瀰散型腦脊髓炎)]]
 - [[conditions/adrenal-insufficiency|Adrenal insufficiency (腎上腺功能不全)]]
 - [[conditions/bullous-pemphigoid|Bullous pemphigoid (類天疱瘡)]]
+- [[conditions/central-serous-chorioretinopathy|Central serous chorioretinopathy, CSC (中心漿液性脈絡膜視網膜病變)]]
 - [[conditions/giant-cell-arteritis|Giant cell arteritis / temporal arteritis, GCA (巨細胞動脈炎／顳動脈炎)]]
 - [[conditions/multiple-sclerosis|Multiple sclerosis, MS (多發性硬化症)]]
+- [[conditions/osteonecrosis-femoral-head|Osteonecrosis of femoral head, ONFH (股骨頭缺血性壞死)]]
 - [[conditions/pemphigus-vulgaris|Pemphigus vulgaris (尋常性天疱瘡)]]
 - [[conditions/polymyositis-dermatomyositis|Polymyositis and dermatomyositis (多發性肌炎與皮肌炎)]]
+- [[conditions/secondary-glaucoma|Secondary glaucoma (續發性青光眼)]]
+- [[conditions/uveitis|Uveitis (葡萄膜炎)]]
 
 ## Follow-up
 

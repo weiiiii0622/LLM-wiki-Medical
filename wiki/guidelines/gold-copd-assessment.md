@@ -39,6 +39,7 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)'
   - 'GOLD COPD assessment'
@@ -53,7 +54,7 @@ tags:
 
 ## Summary
 
-COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +93,11 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...------|--------------------|-----------------|-----------------------------------| | β-blockers | - 效果長,通常一天點兩次 | 禁忌:氣喘、COPD、 | — non-selective: Timolol 、 | | | 或一次即可,且眼部副作 | Bradycardia、心臟傳 | Levobunolol carteolol | | | 用少。 | 導阻礙、心衰竭、低 | metipranolol | | | - 為第一線治療藥物。 | 血壓。 | - selective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - ·腹腔鏡是診斷的 gold standard;不過,肉眼辨識病灶的敏感度約 95%,故有不確定的病灶,仍需切片檢查 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 【詳解】由臨床症狀(經痛、性交疼痛、非經期腹痛)及超音波發現(均質毛玻璃樣囊腫),懷疑為子宮內膜異位症合併巧克力囊腫,腹腔鏡為診斷的 gold standard,故選(A)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - | 子宮鏡 | 為診斷子宮腔沾黏的 gold standard,肉眼直接確認沾黏並可評估沾黏 | |-------|----------------------------------------| | | 的範圍和嚴重度 | | 子宮輸卵管 | 敏感性不高 (75%) 且易有偽陽性 (30%),一般只能當做篩檢的工具, | | 攝影 | 典型的表現可見子宮腔內有 filling defect | | 超音波 | 診斷力差,主要可用來評估子宮內膜厚度以預測術後的預後好壞 | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
@@ -112,7 +115,6 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - 2. 見下表,以 AAA 為例,年齡、活動度、心臟(CAD、AMI等)、肺功能(FEV1、COPD)、腎功能、AAA 的 type 及肝功能等都會影響到手術的 mortality,其中以心臟(CAD) 為最主要的手術危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - 2. 診斷: - (1) Colonoscopy: Gold standard,可同時作 biopsy。 - (2) Flexible sigmoidoscopy • - (3) Air-contrast enema:可清腸且偵測阻塞的程度。 - (4) Proctoscopy with rigid sigmoidoscopy: 可偵測 50% 的結腸癌,如果是用 flexible sigmoidoscopy 可偵測到 75% 的結腸癌。 - (5) DRE:可檢查直腸腫瘤大小、ulceration、local invasion、lymph node。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPI Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (1) Angiogram: DSA (digital subtraction angiography),為評估大腦動脈瘤的 gold standard,可偵測出 80~85%的 aneurysm。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 
 ## Clinical Caveats
 

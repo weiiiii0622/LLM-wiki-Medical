@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book3-ch10]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch16]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Colonic angiodysplasia (大腸血管發育不良)'
   - 'Colonic angiodysplasia'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-退化性黏膜下血管擴張是下消化道出血原因之一，常見於右側大腸與高齡病人。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+退化性黏膜下血管擴張是下消化道出血原因之一，常見於右側大腸與高齡病人。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med5-book3-ch10]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch16]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- ...etinal edema),並有脂蛋白和巨噬細胞組成的硬性滲出物(hard exudates)沉積。 - (2) 小血管阻塞:紅血球變形和血小板黏度和凝聚力上升導致氧氣運輸量降低,並且導致血流變慢、缺血以至於微血管阻塞的發生,導致視網膜內小血管異常 (intraretinal microvascular abnormalities, IRMA) 如 AV shunt。持續的缺氧進一步造成生長因子(VEGF)釋出造成新生血管。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- ...Retinopathy) | | 於表淺血管,延神經纖維層分布 | | | | | (3) 硬性滲出物(hard exudate):即 lipid leakage | | | | | (4) 黃斑部水腫 | | | | | (5)視網膜內小血管異常 (IRMA) | | | | | (6) 血管變化:小動脈狹窄閉塞、小靜脈擴張或成 | | | | | 串珠狀 (venous beading) 及圈狀 (looping) 變化 | | | | | (7) 棉絮狀斑點 (cotton-wool spots): 因微血管 | | | | | 前小動脈阻塞導致局部視網膜神經纖維層梗 | | | | | 塞,而軸索漿傳輸 (axoplasmic transport) 受阻 | | | | Source: [[sources/med6-book2-ch12|子、視網膜]].
 - R. 動靜脈畸形(Pulmonary arteriovenous malformation) *61* Source: [[sources/med5-book4-ch03|丙、肺]].
 - ### R. 動靜脈畸形 (Pulmonary arteriovenous malformation) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (2) Gossage JR and Kanj G: Pulmonary arteriovenous malformations. *Am J Respirat & Criti Care Med* 1998; 158(2): 643-61. doi: 10.1164/ajrccm.158.2.9711041 http://www.atsjournals.org/···/··/10.1164/ajrccm.158.2.9711041··· Source: [[sources/med5-book4-ch03|丙、肺]].

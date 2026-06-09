@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med3-book1-ch02]]"
@@ -15,6 +15,9 @@ sources:
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med6-book2-ch01]]"
+  - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'Mitral regurgitation (二尖瓣逆流)'
   - 'Mitral regurgitation'
@@ -29,7 +32,7 @@ tags:
 
 ## Summary
 
-收縮期逆流造成左心房與左心室容量負荷。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+收縮期逆流造成左心房與左心室容量負荷。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +47,15 @@ tags:
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med6-book2-ch01]]
+- [[sources/med6-book2-ch14]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- (2) 神經支配:上斜肌(Superior Oblique, SO) 由第四對腦神經(CNIV)支配;外 直肌(Lateral Rectus, LR) 由第六對腦神經(CNVI)支配;其餘的四條眼外肌: 上直肌(Superior Rectus, SR)、下直肌(Inferior Rectus, IR)、下斜肌(Inferior Oblique, IO)、內直肌(Medial Rectus, MR)則由第三對腦神經(CNIII)支配。 其中,IO最短,SO最長。 Source: [[sources/med6-book2-ch01|甲、眼睛概論]].
+- (2) 眼外肌的次要作用:因眼球位置變動時額外的作用。 - a. 直肌皆由眼窩頂部的 Zinn 氏環 (annulus of Zinn) 出來,終止於赤道部前。 - (a) 內(MR)、外直肌(LR)只有主要作用(內收、外展)。 - (b) 上直肌(SR)和視軸夾23度角: 主要作用為提升(elevation),次要作用為內收(adduction)及內轉(intorsion)。其位置如下圖(od)所示(此為由上往下看),A表示在初級位置,B表示眼球刻意外展23度,C表示眼球內收67度。(用向量比較好懂) Source: [[sources/med6-book2-ch14|寅、斜弱視]].
+- ...壓力增加導致眼球突出、角膜暴露等。 - (3) 總結眼部變化: - a. 發炎反應-眼瞼及結膜紅腫。 - b. 體積效應一眼外肌肥大,但這種只出現在肌腹(muscle belly),而不侵犯肌腱(tendon),(最常影響的眼外肌:IR, MR;最少影響的眼外肌:LR)、眼眶脂肪組織增生。 - c. 眼肌牽絆-眼球活動受限(restrictive extraocularmyopathy)、上下眼瞼回縮(eyelid retraction)、眼瞼無法閉合(lag)。 - (4) 依臨床症狀分成七級(NO SPECS): Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 1. AMI 後的 complication 可分為 ischemic、mechanical、arrhythmic、embolic 和 inflammatory 五種(見下表),其中以 mechanical complication 最為致命,主要為 ventricular free wall rupture(VFWR)、ventricular septal rupture(VSR)和 mitral regurgitation(MR),現今由於 reperfusion 技術的進步、完善的 Intensive care 以及藥物的幫助,發生率和死亡率都有所改善。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - #### 4. Mitral regurgitation (MR): Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (1) 大多是 mild-to-moderate MR,少有症狀。但假使是因 papillary muscle 壞死後 rupture 引起的 severe MR 卻相當危急,甚至 cardiogenic shock。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
@@ -60,11 +69,6 @@ tags:
 - | 分 類 | 作用 | 藥 物 | | | |------------------|-----------------|---------------------------------|--|--| | 烷化劑 | 抑制分化快速細胞 | Cyclophosphamide (Endoxan® 愛德星) | | | | 抑制 Purine 製造 | 抑制白血球 | Azathioprine (Imuran® 移護寧 ) | | | | 14th Latine 35/5 | 256169 1 mr. 9. | MMF (Cellcept® 山喜多) | | | | 減少 IL2 分泌 | 抑制T細胞 | Cyclosporin (Sandimmun®新體睦) | | | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (A) 1. 一位 45 歲女教師,主訴半年內逐漸發生運動時氣促,倦怠,胸悶以及昏厥的症狀。身體診察發現頸靜脈壓力上升,可摸到右心室搏動, 且在右側聽到 S4 的心音,胸部 X 光發現肺動脈膨大,下列敘述何者 最適當? - 107(一)專 醫三 -25 - (A) 應檢測 protein C, protein S, antithrombin III 等是否異常 - (B) 心電圖通常可以發現心軸向左偏轉及左心室肥大 - (C) 可以用心臟超音波測量二尖瓣逆流的流速來估計肺動脈的壓力 - (D) 病患肺血管主要的表徵為血管內皮增生,發炎反應增加,以及 血管擴張 Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 - (Ref: Spieker MR et al., Evalua ting dysphagia. American family physician 61:3639, 2000) Source: [[sources/med3-book2-ch07|甲、吞嚥困難]].
-- G. 僧帽瓣逆流 (Mitral regurgitation, MR) 138 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (2) 心搏過慢 (Long PR interval)→左心室血增加→左心室壓力上升慢→聲音愈柔 (Softer); MR 也因瓣膜結構問題,導致 S₁ 聲音較柔 (Softer)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- (1) Pressure gradient 愈大(AS, AR, MR), 聲音愈高音(Higher pitch)。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- c. 機械性併發症: Free wall rupture, ventricular septal rupture (VSD), papillary muscle rupture (ischemic MR) 需外科介入,預後差。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (D) 二尖瓣閉鎖不全 (Mitral regurgitation) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

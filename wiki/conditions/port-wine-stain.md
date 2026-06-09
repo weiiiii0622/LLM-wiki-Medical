@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med5-book4-ch16]]"
+  - "[[sources/med6-book2-ch02]]"
 aliases:
   - 'Port-wine stain (葡萄酒斑)'
   - 'Port-wine stain'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-先天 capillary malformation，可與 Sturge-Weber syndrome 相關。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+先天 capillary malformation，可與 Sturge-Weber syndrome 相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med5-book4-ch16]]
+- [[sources/med6-book2-ch02]]
 
 ## Key Details From Sources
 
+- (3) 其他尚有脂漏性角化症、化膿性肉芽腫、角化棘皮症(keratoacanthoma)等等,可以用切除治療。此外像是黑色素細胞痣、草莓痣、酒色斑(port-wine stain)等可再觀察或等其自行消失。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
 - 2. 血管畸形包含:微血管畸形(capillary malformation)、靜脈畸形(venous malformation)、淋巴畸形(lymphatic malformation)、動脈畸形(arterial malformation)、動靜脈畸形(arteriovenous malformation)、動靜脈瘻管(arteriovenous fistula)、混和血管畸形(combined vascular malformations)等。 Source: [[sources/med5-book4-ch16|壬、血管性疾病]].
 - (A) 16. 下列有關葡萄酒斑(port-wine stain)的敘述,何者錯誤? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - 【詳解】(A) 血管瘤是指細胞會增生變大的血管腫瘤,但也會隨 著年齡細胞亦會消褪變小。血管畸形,細胞不會增生,大小固 定不變,葡萄酒斑即為血管畸形的一種。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].

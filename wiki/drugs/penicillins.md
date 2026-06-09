@@ -37,6 +37,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch15]]"
+  - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Penicillins (青黴素類)'
   - 'Penicillins'
@@ -51,7 +53,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +90,13 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch15]]
+- [[sources/med6-book2-ch17]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- ...代替,故已極少發 | | | | | 生。 | | 細菌性 | 細菌性眼炎中,以 | 多在出生 2~7 天內發生 | 給予全身性抗生素:第三 | | | 「淋病性」眼炎最為 | 。兩眼紅腫、大量的化 | 代 cephalosporin 或 penicillin | | | 危險。父母有性病 | 膿性分泌物產生,嚴重 | G治療,並以食鹽水沖洗眼 | | | 史,最常被考慮的就 | 會導致角膜水腫、潰瘍 | 睛。現在通常先以紅黴素或 | | | 是格蘭氏陰性 Gram | 、穿孔、並發產成為眼 | 四環黴素眼藥膏預防。 | | | (-)的淋病雙球菌。 | 內炎。 | | | 披衣菌 | 父母多有性病史,生 | 多在出生兩週後出現症 | 口服紅黴素或磺胺類藥物。 | | | 產時經產道感染。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
+- (3) 治療:每天 120 萬~240 萬單位的 penicillin G IV 注射兩週。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (C) 4. 有關剖腹產孕婦之預防性抗生素之給予,若孕婦對 penicillin 或 107(-)專 cephalosporin 嚴重過敏,下列何者為最適合之預防性抗生素? Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - 【詳解】美國婦產科醫學會建議若對 penicillin 過敏,可給予 Clindamycin 900 mg + Gentamicin 5 mg/kg 單一劑量,故選(C)。 參考資料: ACOG Practice Bulletin No. 199: Use of Prophylactic Antibiotics in Labor and Delivery. Obstet Gynecol. 2018;132:e103. Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - ...| 篩 檢 | • 於孕婦懷孕 35~37 週時,或有早產之虞時,進行陰道和肛門乙型 | | | 鏈球篩檢 | | 處 置 | • 若為陽性,於生產前給予預防性抗生素,可減少約7成的早發性 | | | 感染 | | | • 抗生素首選為 penicillin,若對 penicillin 過敏,可使用 clindamycin | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -107,8 +113,6 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - ...氣腫,影響血液循環造成壞死 (gas gangrene)。 - b. Clostridium difficile:偽膜性大腸炎(Pseudomembranous colitis)的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - (3) Clostridium tetani (破傷風桿菌): - a. 引起破傷風(Tetanus),臨床症狀有牙關緊閉、肌肉僵直、抽搐。 - b. 治療:肌肉注射破傷風免疫球蛋白;口服或靜脈注射 metronidazole 是首選抗 生素治療,其次可選用靜脈注射 penicillin。抗生素需持續治療 10~14 天。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ...醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性反應有助於診斷 | | | | (D)治療方法為經肌肉注射盤尼西林(penicillin)每週一次共三次 | | | | 【詳解】本題答 (A)、(D) 給分。 | | | (D) | 9. 變異型庫賈氏病(variant Creutzfeldt-Jakob disease, vCJD)和散發 | 106(一)專 | | | 型庫賈氏病(sporadic Creutzfeldt-Jakob disease, sCJD)的差異, | 醫四 -57 | | | 下列敘述何者錯誤? | | | | (A) vCJD 的病程比 s Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- ...的癲癇較常出現攻擊性行為? (A) 顳葉 (B) 頂葉 (C) 枕葉 (D) 基底核 | 103( 一 ) 專醫四 -70 | | (B) 31. | 下列關於神經性梅毒(neurosyphilis)之敘述,何者錯誤? (A) 在盤尼希林(penicillin)發明後,神經性梅毒較少發生,但自愛滋病出現以來,神經性梅毒再度受到醫學界之重視 (B) 神經性梅毒對腦部之影響主要是顳葉,所以會產生類似精神分裂症患者之幻聽與妄想 (C) 其腦脊髓液有淋巴球增多(lymphocytosis)及較多之蛋白質 (D) 神經性梅毒通常在感染梅毒螺旋菌 10 至 15 年後發生 【詳解】神經性梅毒對腦部之影響主要是額葉(frontal lobe)。 | 102(二)專醫四-70 | | (B) 32. | 將 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

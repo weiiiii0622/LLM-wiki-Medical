@@ -11,6 +11,8 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Graves disease (葛瑞夫茲病)'
   - 'Graves disease'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫刺激 TSH receptor，是甲狀腺亢進常見原因。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,15 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med5-book2-ch20]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book2-ch15]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- 1. 甲狀腺眼症(thyroid ophthalmopathy): - (1) 簡介: Graves' sisease 是甲狀腺機能亢進引起的疾病,與自體免疫相關,好發於 20~45 歲女性。甲狀腺眼症是引起成人突眼最常見的原因,又稱 Graves ophthalmopathy,但其與甲狀腺功能是否正常並無直接的關係,即使甲狀腺功能正常或低下,也可能產生突眼、眼瞼水腫等。不過大部份有甲狀腺眼症的病患,甲狀腺功能多不正常。 - (2) 致病機轉:由於甲狀腺激素產生的自體免疫變化,細胞釋出 cytokine 而刺激 fibroblast Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- (7) 甲狀腺眼症的預後:甲狀腺眼症真正原因不明,且屬慢性病,必須長期追蹤檢查,目前的治療方法也屬於治標不治本。不過值得注意的是,抽菸會惡化Graves'disease,故需勸導病患戒菸。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- C. Graves' Disease 210 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- #### C. Graves' Disease Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - D. Graves disease 199 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism | 甲狀腺術後Hashimoto thyroiditis亞急性甲狀腺炎 (de Quervain)Iodine deficiency | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -53,8 +61,6 @@ tags:
 - (2) Graves disease: 抗體刺激 TSH 接受器,造成甲狀腺機能亢進。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - (C) 葛拉夫思氏疾病(Graves' disease) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 3. 放射碘吸收掃描(Radioactive iodine uptake, RAIU scan):甲狀腺機能亢進時,可用來鑑別診斷,瀰漫攝取須考慮葛瑞夫茲氏病(Graves' disease),單點攝取須考慮毒性腺瘤(Toxic adenoma),沒有攝取須考慮破壞性甲狀腺炎(Destructive thyroiditis)、服用過多甲狀腺素等。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- | | 理學檢查 | RAIU scan | 治療 | |-----------------------------------|----------|-----------|----------------------| | 葛瑞夫茲氏病 (Graves' disease) | 瀰漫性腫大、不痛 | 瀰漫攝取 | 依國情不同 | | 毒性腺瘤 (Toxic adenoma) | 單一結節、不痛 | 單點攝取 | 放射碘 | | 毒性多發結節(Toxic multinodular goiter) | 多發結節、不痛 | 多點攝取 | 放射碘 | | 破壞性甲狀腺炎 (Destructive thyroiditis) | 腫大、疼痛 | 沒有攝取 | β blocke Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- #### 3. 葛瑞夫茲氏病 (Graves' disease): Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 
 ## Clinical Caveats
 
@@ -64,6 +70,7 @@ tags:
 ## Related Pages
 
 - [[conditions/hyperthyroidism|Hyperthyroidism (甲狀腺亢進)]]
+- [[conditions/thyroid-eye-disease|Thyroid eye disease (甲狀腺眼症)]]
 
 ## Follow-up
 

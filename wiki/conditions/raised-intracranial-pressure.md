@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch05]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch19]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Raised intracranial pressure, IICP (顱內壓升高)'
   - 'Raised intracranial pressure, IICP'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-顱內壓升高可造成頭痛、嘔吐、視乳頭水腫與意識變化，腰椎穿刺前需評估。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內壓升高可造成頭痛、嘔吐、視乳頭水腫與意識變化，腰椎穿刺前需評估。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book1-ch19]]
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- 2. 視乳頭水腫(papilledema):因腦壓升高引起,初期視力正常,偶有朦朧,但眼底有明顯變化,視野呈現生理性盲點變大。臨床可分為四期: Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ## 丙、顱內壓 (Intracranial Pressure, ICP) Source: [[sources/med5-book1-ch12|丙、顱內壓]].
 - 2. 上述內容物總體積是固定並維持恆定的壓力,但假使上述其中一項體積增加(腫瘤、出血),會壓迫到其他內容物的體積,且會使顱內壓上升。 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
 - 3. 起初大腦會透過以下代償機制去平衡上升的顱內壓: - (1) CSF 離開大腦流向腰椎膜。 - (2) 血流透過內頸靜脈回流,降低大腦血流量。 - (3) 細胞外液減少。 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
@@ -63,7 +66,6 @@ tags:
 - 6. 大腦梗塞後,約 10~20%的病人會在 3~5 天會慢慢出現腦水腫及顱內壓升高,這也 是導致病人在第一星期死亡的主要原因。若有 IICP 的神經學症狀或影像學證據, 可將病床頭側上升 30 度,或注射 Glycerol、Mannitol,目前無證據顯示類固醇對腦 梗塞後的腦水腫有用,故不建議使用(A, level 1+)。病況危急時才以過度換氣法將 PCO2維持在 30~35 mmHg。(D, level 3)下面比較兩種常見腦水腫的不同治療方法: Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 2. 治療(Ref. Taiwan guidelines for the management of stroke 2008,胡漢華,台灣腦中風學會): - (1) 一般採保守療法 - a. 血壓的控制目前尚無定論,但一般建議 SBP > 200 或有 IICP 且 SBP > 180 者, 需積極以靜脈持續點滴控制血壓;若 SBP > 180 仍須適度降壓。(IIb、Level C) 一般而言,目標是 SBP 50 cc 且 GCS 30 cc 且 GCS 3 cm 或> 30 cc | | 位 直 | (除非產生水腦,要做 VP shunt) | 且壓迫腦幹或造成水腦者要開 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (4) 其他的顱神經多由腦幹側面走入腦幹,外展神經(CN6)則由前方一直繞到橋 腦正後方才走進腦幹,路徑之長,導致顱內壓升高時,外展神經被拉扯,導致 眼球無法外轉。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- ...】三叉神經痛好發於中年,女性稍多,以 V3 最常見。 (B) 37. 一位 35 歲的女性病患,身高 155 公分,體重 85 公斤,來到門診 102(一)專 主訴頭痛和視力模糊已有好幾個月。除眼底檢查發現有兩側視乳 醫四 -50 突水腫(papilledema)外,神經學檢查正常。腦部磁振造影檢查 也無特殊發現。下列何者為最可能的診斷? (A) 腦膜炎 (B) 原發性顱內高壓 (C) 青光眼 (D) 偏頭痛 【 詳解】Idiopathic intracranial hypertension, 即 pseudotumor cerebri。為已排除腫瘤等結構性問題之顱內高壓。最常見症狀為 頭痛、視力模糊或複視。 (C) 38. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(一 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 
 ## Clinical Caveats
 
@@ -74,11 +76,14 @@ tags:
 
 - [[conditions/brain-tumor|Brain tumor (腦瘤)]]
 - [[conditions/coma|Coma (昏迷)]]
+- [[conditions/craniosynostosis|Craniosynostosis (顱縫早閉)]]
 - [[conditions/headache|Headache (頭痛)]]
 - [[conditions/hydrocephalus|Hydrocephalus (水腦症)]]
+- [[drugs/hypertonic-saline|Hypertonic saline (高張食鹽水)]]
 - [[conditions/idiopathic-intracranial-hypertension|Idiopathic intracranial hypertension / pseudotumor cerebri (特發性顱內高壓／大腦假性腫瘤)]]
 - [[drugs/mannitol|Mannitol (甘露醇)]]
 - [[concepts/monro-kellie-doctrine|Monro-Kellie doctrine (Monro-Kellie 學說)]]
+- [[conditions/papilledema|Papilledema (視乳突水腫)]]
 
 ## Follow-up
 

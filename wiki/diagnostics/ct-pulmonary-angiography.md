@@ -40,6 +40,9 @@ sources:
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch15]]"
 aliases:
   - 'CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)'
   - 'CT pulmonary angiography, CTPA'
@@ -54,7 +57,7 @@ tags:
 
 ## Summary
 
-肺栓塞常用影像診斷。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺栓塞常用影像診斷。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +97,17 @@ tags:
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch04]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch12]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch15]]
 
 ## Key Details From Sources
 
+- ...中的黑點,表格內的線若有彎曲變形則可能表示黃斑部病變。 - (4) 光刺激(photostress): 可幫助偵測黃斑部病變:若光刺激恢復時間(photostress recovery time)有延長可能是有黃斑部病變。 - (5) 眼底血管攝影(fundus angiography): 由靜脈注射顯影劑後經螢光眼底攝影機, 連續拍攝眼內血管發射出的螢光,主要反映視網膜血管及灌注狀況的一種重要 診斷技術。 - a. 螢光血管攝影(fluorescein angiography):觀察視網膜表層血管變化。 - b. 花青綠血管攝影 (indocyanine green angiography): 觀察脈絡膜深層血管變化。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- ...) | | (2) 與 dry ARMD 相 | membrane 進入 RPE | 利用光敏感物質(如 | | | | 比較易造成急速 | 下空隙。可以 ICG 眼 | Visudyne) 和脈絡膜 | | | | 的中心視力喪失 | 底血管攝影早期偵測 | 新生血管內皮 | | | | | (2) 視網膜色素上皮剝離 | (2) 結合並施與雷射, | | | | | (RPE detachment): | 破壞 CNV 但不波 | | | | | 眼底可見圓頂突起之 | 及到感光細胞玻璃 | | | | | 病灶,為 RPE 和增厚 | 體內注射血管內皮 | | | | | 的 Bruch's membrane | 生長因子拮抗劑 | | | | | 因滲出物而分開 | (V Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 3. 視網膜分支靜脈阻塞 (Branch retinal vein occlusion, BRVO): 臨床上,視網膜分支 靜脈阻塞比中心靜脈阻塞更為常見。 - (1) 好發位置:阻塞常位於動靜脈交 叉處,以顳上支最多見。 - (2) 臨床表現: 視力呈不同程度下降, 與阻塞影響造成的黃斑部水腫、 出血有關。 - (3) 眼底檢查: 阻塞周圍小靜脈擴張 彎曲、火焰狀出血、點狀出血、 網膜水腫、棉絮狀斑點。 - (彩圖請見 224 頁) (4) 眼底螢光血管攝影 (fluorescein fundus angiography)檢查:早期顯示低螢光,因受傷靜脈充填延遲或背景螢光 被視網膜出血及棉絮狀斑點遮擋。晚期因滲出而高螢光。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- 3. 血管化:裂隙燈下看到角膜血管為靜脈,動脈需螢光血管攝影才可見。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- c. 診斷:眼窩超音波可見上眼靜脈有動脈血流,眼窩 CT 或 MRI 可見到上眼靜脈變粗大以及眼外肌的廣泛性增大、頸動脈血管攝影可用來確診。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 1. 簡介:口服避孕藥包括 combined estrogen-progestin oral contraceptives 和 progestin-only pills,兩者避孕效果相當,在正確使用下,僅不到 1% 的失敗率。目前的趨勢是減少 estrogen 的劑量及新型 progestin 的使用。 - (1) 口服避孕藥使用的 estrogen 為 ethinyl estradiol (效力比單獨 estradiol 高),過去使用高劑量 (>50~mcg),研究發現明顯增加心血管疾病和靜脈栓塞的風險。目前趨勢是低劑量使用 (2 下降,但 PaCO2 正常或下降)、V/Q scan mismatches、腿部 都普勒超音波和 CT pulmonary angiography。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - | (A) 截肢病人若出現休克現象就要立即進行接合手術(replantation) 醫五-76 (B) 骨折固定可減少疼痛及避免進一步軟組織傷害 (C) 懷疑有動脈血管損傷必須考慮安排血管攝影檢查 (D) 近關節處的傷口不要嘗試從傷口注入生理食鹽水來檢查是否與關節腔相通 【詳解】(A) 休克可能是因為失血太多,第一必須先穩定生命徵象,再考慮麻醉作接合手術,因為麻醉本身也會造成相對低血壓,大量出血造成的休克可能要考慮先用血管栓塞止血;另一方面有可能是感染造成的休克,此時可能要謹慎評估傷口的狀 | (A) | |----------------------------------------------------------- Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 緊急安排血管攝影,並安撫病人情緒 Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -110,11 +121,6 @@ tags:
 - 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 3. 診斷 & 檢查: - (1) 胸部 X 光:90% 主動脈破裂患者可以看到縱隔變寬。 - (2) 細切螺旋 CT 血管攝影:胸部 X 光呈縱隔變寬之穩定患者,或正常胸部 X 光但有顯著受傷機轉懷疑胸主動脈破裂。 - (3) 血管攝影:當 CT 無法確定或懷疑其他大血管受傷時,應做血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - ...c. 在成人患者中,敏感度下降到 63%,因憩室中的胃粘膜組織較少。可利用組織胺 H2 接受體拮抗劑(Ex:cimetidine)增加檢查敏感度:減少胃酸分泌和延緩放射性同位素從粘膜分泌細胞釋出。如果此檢查為正常,需做鋇劑攝影檢查、腸繫膜血管攝影、或雙氣球內視鏡檢查。 - (3) 手術:如病患出血合併生命徵象不穩定,應避免因影像檢查而延誤手術治療。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (A) 10.75 歲的張三,昨天午睡起來突然腹痛難耐而被送醫。急診處醫師 98(二)專 發現他心律不整,有心雜音,腹部壓痛。先進行電腦斷層(CT) 醫五-74 掃描。並為病情處置需要,馬上安排腹部血管攝影。影像如附圖。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- (C) 15. 55 歲林先生,近數月來感覺疲倦、食慾減退,右上腹部也感到 有些脹痛。血液檢查胎兒蛋白(alpha-fetoprotein)值正常、HBsAg 陽性(HBsAg+),肝臟 Dynamic CT 影像如圖(一),手術前再 度做血管攝影檢查如圖(二)。林先生最可能患了什麼病? 102(一)專 醫五-73 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (C) 安排血管攝影檢查以及血管栓塞處置 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (D) 影像診斷工具有內視鏡、電腦斷層、血管攝影等 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- ...週,尿液變深、灰白便、身體發癢、皮 107(一)專 膚逐漸變黃,因此到院檢查。身體診察發現鞏膜變黃,下肢無水 醫五-32 腫,其CT影像上可見胰臟頭部有4公分左右腫瘤合併總膽管及 胰管擴大,針對此病患安排下列處置何者最不適當? (A) 安排血管攝影栓塞 (B) 測定 CEA, CA19-9 (C) 進行 ERCP (endoscopic retrograde cholangiopancreatography) 或 EUS (endoscopic ultrasonography) 合併切片 (D) 進行核磁共振膽胰攝影 (MRCP) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 
 ## Clinical Caveats
 

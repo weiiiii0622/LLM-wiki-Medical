@@ -39,6 +39,8 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book2-ch06]]"
 aliases:
   - 'ACR/EULAR RA classification criteria (RA 分類準則)'
   - 'ACR/EULAR RA classification criteria'
@@ -53,7 +55,7 @@ tags:
 
 ## Summary
 
-RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +94,13 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch05]]
+- [[sources/med6-book2-ch06]]
 
 ## Key Details From Sources
 
+- 1. 當出現嚴重、持續性的周邊角膜浸潤、潰瘍或無法解釋之周邊角膜變薄時,應考慮 是否為全身性膠原血管疾病所造成。最常見的疾病是類風濕性關節炎(RA)造成 的角膜炎,這些角膜炎的表現包含了: - (1) Peripheral ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (W Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- (1) 由 immune-mediated (typically immune-complex) vasculitis 常常造成鞏膜破壞而造成。與全身性免疫疾病相關:類風濕性關節炎(最常見)、紅斑性狼瘡、復發型多發性軟骨炎、結節型多發性動脈炎、Wegner 氏肉芽腫等,且可能是唯一的先期徵兆,因此早期診斷與治療,對患者的預後幫助極大。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - (1) Bishop score ≤ 4表示子宮頸還不成熟; Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - (2) Bishop score ≥ 9表示子宮頸已經成熟。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - (C) 4. 如果子宮頸位置向前(anterior),其硬度中等(medium),薄度 107(二)專 (effacement) 40~50%,開口 3~4 公分,胎頭位於 -1,其 Bishop 醫六-26 score 是多少? Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
@@ -107,12 +113,6 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - (D) 10. 對持續性妊娠滋養層細胞腫瘤(persistent gestational trophoblastic tumor) 在選擇化學治療時所採用的 WHO prognostic scoring system, 所謂高度危險是指 score: Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (C) 1. 一位 32 歲果園工作婦女來門診主訴右腕疼痛已有近半年,理學 99(二)專檢查發現右腕背屈活動有明顯拘限,X光檢查如圖所示,最可能 醫五-40 - 的診斷是: - (A) 正中腕隧症候群(carpal tunnel syndrome) - (B) 舟狀骨骨折不癒合 (scaphoid fracture non-union) - (C) 半月狀骨缺血性壞死 (Kienböck disease) - (D) de Quervain's tenosynovitis Source: [[sources/med5-book6-ch06|己、手部]].
 - (C) 1. 王大明在打籃球接球時不小心,本來應該手掌接球卻變成右手中 103(-)專 指接球,頓時手指就腫起來,幾天後消腫手指最後一節就垂下來, 醫五-17 怎麼用力都沒辦法伸直。最適當的診斷為何? - (A) 板機指 (trigger finger) - (B) 狹窄性肌腱滑膜炎 (de Quervain's tenosynovitis) - (C) 鎚狀指 (mallet finger) - (D) 手部鈕扣畸形 (boutonnière's deformity) Source: [[sources/med5-book6-ch06|己、手部]].
-- (D) 2. 患者手腕靠近拇指根部持續疼痛難耐,拇指向下屈曲及反手用力 104(-)專 時疼痛加劇。醫生做下圖中的檢查時會令痛楚加劇,這種 teno- 醫五-18 synovitis 影響肌腱,何者正確? Source: [[sources/med5-book6-ch06|己、手部]].
-- (2) T-score -1~-2.5 稱為骨質缺乏(osteopenia)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (3) T-score 小於 -2.5 個標準差 (SD) 稱為骨質疏鬆 (osteoporosis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (C) 世界衛生組織定義 T-score ↓ | ↑ | | | Phosphate | _ | _ | ↓ | ↑ | _ | | ALP | | _ | | ↑ | | | PTH | _ | _ | ↑ | ↑ | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- ...又稱刺激型(irritative)症狀,有頻尿、急尿、夜尿;排尿異常又稱阻塞性(obstructive)症狀,有尿無力、尿斷續、費力尿、尿不清。 - b. 國際攝護腺徵狀評分表 International Prostate Symptom Score (IPSS) - (a) 評分項目(記法:FUN-WISE,前三是儲尿不穩症狀、後四是排尿阻塞症狀) - i. Frequency (頻尿:排尿後兩個小時內又要小便)。 (註:正常人兩次解尿的間隔 2.5 小時,且一天 1-blockers:Terazosin (Hytrin®)、doxazosin (Doxaben®)。(記法:(山) 海經、豆沙餅) - iii. α1A-blockers: Tamsulosin (Harnalid Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (2) 分級及分期 (grading and staging): - a. 分級 (grading): Gleason score。 - (a) 是一種病理分級,病理科醫師會就顯微鏡下看到的細胞形態,以最大片 (寫前面)+最高分(寫後面)的分數相加,就是 Gleason score。分數從 2(1+1)到 10(5+5)分。 - (b) 2~4 分為 well-differentiated、5~7 分為 moderately-differentiated、8~10 分為 poorly differentiated。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 
 ## Clinical Caveats
 

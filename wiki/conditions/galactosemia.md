@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book2-ch08]]"
 aliases:
   - 'Galactosemia (半乳糖血症)'
   - 'Galactosemia'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-半乳糖代謝缺陷可造成新生兒肝病、敗血症、白內障與餵食問題。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+半乳糖代謝缺陷可造成新生兒肝病、敗血症、白內障與餵食問題。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med5-book4-ch12]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book2-ch08]]
 
 ## Key Details From Sources
 
+- 2. 系統性疾病相關的白內障(cataract in systemic diseases): 在糖尿病、肌強直失養症(myotonic dystrophy)、異位性皮膚炎、神經纖維瘤第二型(neurofibromatosis-2)、 半乳糖血症(galactosemia)、副甲狀腺低下(hypoparathyroidism)等疾病中,白內 障可能提早發生。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
+- ...等)。 - (1) 單眼的先天性白內障(佔 1/3) 較常是偶發性,主要與眼球發育異常或是外傷和 感染(如先天性德國麻疹感染)有關。 - (2) 雙眼先天性白內障則較常與顯性遺傳(具家族史)有關,其中約60%病患可發現患有先天性代謝疾病(如半乳糖血症 galactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - | 分 類 | 禁忌 | | |------|-------------------------------------|--| | 母親方面 | ・薬物或酒精濫用 | | | | ・HIV 或 T-cell lymphotropic virus 感染 | | | | · 未經治療的結核病 | | | | ・正接受化療或放療 | | | · | ・乳房有皰疹感染 | | | 嬰兒方面 | ・半乳糖血症 (galactosemia) | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - ...H receptor mutations、Aromatase gene | | | | mutations | | | 自體免疫性疾病 | Isolated autoimmune ovarian failure | | | 代謝性疾病 | Galactosemia | | | 醫源性 | 卵巢手術、化療 (特別是 alkylating agents)、放射線治療 | | | 病毒感染 | Mumps or cytomegalovirus infection | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (2) 尿液分析:以排除半乳糖血症(galactosemia)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].

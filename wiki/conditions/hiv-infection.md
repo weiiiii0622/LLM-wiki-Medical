@@ -44,6 +44,7 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'HIV infection (人類免疫不全病毒感染)'
   - 'HIV infection'
@@ -58,7 +59,7 @@ tags:
 
 ## Summary
 
-HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +103,11 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- 1. 簡介:由感染 human immunodeficiency virus 造成,因 CD4+ T 淋巴球受攻擊而減少 造成免疫不全,當 CD4+ 數量少於 50 cells/mm3 時,易有巨細胞病毒視網膜炎。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - 8. 人類後天免疫不全病毒(HIV): - (1) 傳染方式:透過性交、使用感染針具、注射或移植受感染的血品或器官,以及母子垂直傳染; Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - | 分 類 | 禁忌 | | |------|-------------------------------------|--| | 母親方面 | ・薬物或酒精濫用 | | | | ・HIV 或 T-cell lymphotropic virus 感染 | | | | · 未經治療的結核病 | | | | ・正接受化療或放療 | | | · | ・乳房有皰疹感染 | | | 嬰兒方面 | ・半乳糖血症 (galactosemia) | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -122,7 +125,6 @@ HIV 感染 CD4 T cell，慢性免疫破壞可進展至 AIDS。 本頁已整合�
 - ...emalantibody abs orption | | 用 | 途 | 篩檢 (Screen)、追蹤疾病活動度 | 確認 (Confirm)、治療後仍呈陽性 | | 偽 | 陽性 | IV drug use, SLE, Malaris, HIV inf, viral ill 等 | 正常人約 1~2% 偽陽性→試驗不用於篩檢,用於確認 | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - ...-------------|------------------------------------------------------------------------------|--|--|--|--| | Infection | HIV, sepsis, Pneumonia | | | | | | W ithdrawal | Alcohol, barbiturate, sedative-hypnotic | | | | | | Acute metabolic | Acidosis, alkalosis, electrolyte disturbance, hepatic failure, renal failure | | | | | | Trauma | Closed Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - (C) Human immunodeficiency virus(HIV)感染可能 與此病之發生有關 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- a. 雖然水痘發過一次就不會再感染,但是水痘病毒於初次感染時便會沿著感覺 神經纖維侵入到感覺神經節並終年潛伏於此。當病人年紀大免疫力下降或處 於免疫力不全(腫瘤、HIV、器官移植、接受放射治療或化療)狀況下時, 病毒就會再度活化並沿著神經纖維從神經節返回皮膚表面產生皮疹,故分佈 多延著 dermatome 的範圍。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

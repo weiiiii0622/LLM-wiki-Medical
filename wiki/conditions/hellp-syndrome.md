@@ -7,6 +7,7 @@ sources:
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book2-ch10]]"
 aliases:
   - 'HELLP syndrome (HELLP 症候群)'
   - 'HELLP syndrome'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-preeclampsia spectrum 中的 hemolysis、elevated liver enzymes、low platelets，可迅速惡化並需分娩評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+preeclampsia spectrum 中的 hemolysis、elevated liver enzymes、low platelets，可迅速惡化並需分娩評估。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book2-ch10]]
 
 ## Key Details From Sources
 
+- (1) 溶血性青光眼:玻璃體出血過久,導致紅血球的死亡細胞、碎片、或是鐵離子造成前房隅角小樑組織阻塞及發炎。 Source: [[sources/med6-book2-ch10|癸、玻璃體]].
 - ...| (Preeclampsia) | 尿或器官失能。 | | 子癲症 | · 已診斷 Preeclampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalized seizure)稱之。 | | HELLP syndrome | ・溶血 (hemolysis)、肝指數上升 (elevated liver enzyme) | | | 和低血小板 (low platelets) 三種表現合併出現。 | | 慢性高血壓 | · 懷孕前即診斷高血壓或懷孕 20 週前即出現高血壓稱之。 | | (Chronic HTN) | ・ 懷孕初次診斷高血壓,於產後 12 週血壓仍未恢復者亦 | | | 為慢性高血壓。 | | 慢性高血壓併子癲前症 | · Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 註 2:HELLP syndrome 可能為嚴重子癲前症的一種變異型,和子癲前症的關係目前仍有爭議。甚至有學者認為 HELLP syndrome 為獨立的一種疾病,和子癲前症無關,因為有 15~20% 的 HELLP syndrome 並沒有出現血壓高和蛋白尿的情形。其三種表現的定義 亦請見下面的診斷標準。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ### (3) HELLP syndrome Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].

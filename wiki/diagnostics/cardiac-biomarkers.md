@@ -32,6 +32,7 @@ sources:
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Cardiac biomarkers (心肌酵素)'
   - 'Cardiac biomarkers'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於區分 UA 與 MI，並評估心肌壞死。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ tags:
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- ...l ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (Wegener's granulo-matosis),結節多發性動脈炎 (polyarteritis nodosa), SLE 等。其中以 Wegener 氏肉芽腫的進展最快速難治。 - c. 治療:抑制免疫反應,改善角膜上皮缺損以及間質發炎與壞死;病況嚴重時 甚至需要進行角膜移植手術。 - (2) 周邊角膜變薄 (peripher Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - ...a 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalized seizure)稱之。 | | HELLP syndrome | ・溶血 (hemolysis)、肝指數上升 (elevated liver enzyme) | | | 和低血小板 (low platelets) 三種表現合併出現。 | | 慢性高血壓 | · 懷孕前即診斷高血壓或懷孕 20 週前即出現高血壓稱之。 | | (Chronic HTN) | ・ 懷孕初次診斷高血壓,於產後 12 週血壓仍未恢復者亦 | | | 為慢性高血壓。 | | 慢性高血壓併子癲前症 | · 孕婦有慢性高血壓,懷孕 20 週後高血壓持續或惡化, | | (Chronic HTN with | 且出現蛋白 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...dL 或 serum LDH $\geq$ 正常 | | | 上限值的兩倍 | | | · 週邊血液抹片出現血球裂片 (schistocytes) 和皺縮紅 | | | 血球 (burr cells) | | Elevated liver enzyme | • 肝指數上升正常上限值的兩倍以上 | | Low platelet | ・血小板≦ 10 萬 cells/microL | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - | VDRL \ RPR | 酵素免疫分析 EIA (enzyme immunoassay) 的方式值 | |------------------|--------------------------------------| | | 測梅毒抗體 IgM 和 IgG,作為篩檢(可能有偽陽性) | | FTA-ABS > TP-MHA | 確認梅毒病原體 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -98,7 +101,6 @@ tags:
 - ...------------------------------------------------------|------------------| | (C) | 9. 使用 ACE 抑制劑(angiotensin converting enzyme inhibitor)要注意那一種副作用? (A) 高血鈉(Hypernatremia) (B) 低血鈣(Hypocalcemia) (C) 高血鉀(Hyperkalemia) (D) 低血鈉(Hyponatremia) | 95(一)專內 1-18 | | 內具 | 專 考 題 | | | 題 | 目 | | | (A) | 下列何種情況容易造成高血鉀症? 使用 amiloride 利尿劑 使用 amphotericin B 使用 t Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...酐為 2.5 mg/dL,應該是第四期 (B) 使用 captopril 可以延緩慢性腎病衰竭的速度,主要是可以增加腎絲球內壓力,提高腎絲球過濾速率 (C) 目前最被研究和腎臟衰竭相關的基因是 angiotensin-converting enzyme。具有 deletion (D) 的同質接合者 (DD),其腎功能比較會進展至衰竭 (D) 有蛋白尿的慢性腎臟病人,血壓的控制目標是在 125/75 mmHg | 101(二)專醫三-28 | | (C) | 13. 下列那一項治療在減緩慢性腎衰竭的進行速率上,沒有效果? (A) 服用 ACEI(Angiotensin converting enzyme inhibitors)或 ARB (Angiotensin receptor bl Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...| (D) 24 | E. 下列那一種方法無法降低 intraglomerular hypertension 而達到減緩 chronic renal failure 進行的目的? (A) 服用 angiotensin converting enzyme inhibitors (ACEI) (B) 服用 angiotensin-receptor blockers (ARB) (C) 限制 dietary protein 攝取 (D) 服用 kayexalate | 94(二)檢內-29 | | (B) 25 | 5. 腎臟之腎元 (nephron) 受慢性傷害至多少 % 以上,血中肌酸酐 (creatinine) 才會開始升高? (A) 20 (B) 50 (C) 80 (D) 95 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...therapy | | | | excess | Low | 1. Primary aldosteronism (Adenoma, Hyperplasia, Carcinoma) | | | | | renin | 2. Adrenal enzyme defects (11b or 17a-Hydroxylase deficiency) | | | | | | 3. Cushing's syndrome or disease | | | | | | 4. Other(Licorice, Carbenoxolone, Chewer's tobacco) | | | | Gain-of-function mu | itation o | of renal sodium channel Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

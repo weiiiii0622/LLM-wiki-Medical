@@ -13,6 +13,8 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book2-ch12]]"
 aliases:
   - 'Behcet disease (貝賽特氏症)'
   - 'Behcet disease'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-復發性口腔/生殖器潰瘍、眼炎與血管炎相關疾病。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+復發性口腔/生殖器潰瘍、眼炎與血管炎相關疾病。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,13 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med4-book2-ch06]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch07]]
+- [[sources/med6-book2-ch12]]
 
 ## Key Details From Sources
 
+- ...發生原因可能是基因異常(HLA-B51)加上免疫刺激(細菌或病毒感染等)。 - a. 主要症狀有:復發性口腔及生殖器潰瘍、眼睛內部炎症(葡萄膜炎或視網膜血管炎)、皮膚結節性紅斑。陽性皮膚針刺試驗(皮膚被針刺後,48小時之內會出現無菌性膿皰:Pathergy test)。 - b. 副症狀有:關節炎、腸胃病變、副睪丸炎、中樞神經病變、血管病變、肺部 病變、泌尿系統病變。有口腔潰瘍加上兩個主要症狀即可診斷。 - c. 眼部表現多為雙側、復發性、非肉芽腫性的前或後葡萄膜炎,可能出現前房蓄膿等。視網膜病變包含視網膜血管炎,而血管滲出物可造成視神經盤水腫,影響視力。 - d. 治療:全身性類固醇加上免疫抑制劑(cyclosporin A、colchicine)。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
+- (5) 發炎疾病:如類肉瘤症和 Behcet's disease 造成的視網膜血管炎。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 6. 生殖器潰瘍 (genital ulcers) 傳染性疾病: - (1) 單純疱疹病毒 HSV: - a. 最常見造成生殖器潰瘍的感染源,分 type 1 和 type 2 可能感染下生殖道或口,有高度傳染性(80%的女性接觸後感染); - b. 臨床表現:影響陰唇陰道和肛門周圍區域,起初皮膚發炎,有灼熱、搔癢和神經過敏(hyperaesthesia)感覺,若影響尿道會造成排尿困難,接著疼痛的小硬結(indurated papule)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...---------------------------------|--|--|--|--| | 皮膚 | (1) Malar rash \( (2) Discoid rash \( (3) Photosensitivity \( (4) Oral ulcer \( \cdot \) | | | | | | 肌肉骨骼 | (5) Non-erosive arthritis involving two or more peripheral joints, | | | | | | | characterized by tenderness, swelling, or effusion • | | | | | | 心肺 | (6) Serositis (包含 pleuritis or pleura Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 5. 進行刺針反應(pathergy test)多為陽性結果,以無菌針頭重複輕刺(prick)皮膚, 24~48 小時後會形成發紅丘疹、膿皰或甚至潰瘍的情形。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].

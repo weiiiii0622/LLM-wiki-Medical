@@ -60,6 +60,8 @@ sources:
   - "[[sources/med6-book1-ch18]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book2-ch11]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -74,7 +76,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -134,9 +136,13 @@ tags:
 - [[sources/med6-book1-ch18]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch05]]
+- [[sources/med6-book2-ch11]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- 3. 正常眼壓性青光眼(Normal-tension glaucoma):又稱為低眼壓性青光眼。 - (1) 流行病學:為原發性隅角開放性青光眼的一種變異,占了所有原發性隅角開放性青光眼的 16%,主要影響老人和女性。 - (2) 危險因子:患者通常並有心血管疾病或貧血等,或一些 systemic vasculopathy 如 Raynaud's disease,或其他自體免疫疾病。 - (3) 病因:因為一些 hemodynamic 的問題,以至於眼動脈血液灌流不正常,反映出 缺血性視神經病變,視神經與視野均受影響,但眼壓都在正常範圍內。 - (4) 處理: Prostagladin analog 較適合因眼壓下降的效果好,其他抗青光眼藥物也可使用,若全用上仍控制不好就要考慮開刀。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- 7. 中毒性視神經病變(toxic optic neuropathy): - (1) 簡介:因菸酒過量、營養不良(缺乏 vit. $B_1$ )、再生不良性貧血(缺乏 vit. $B_{12}$ )、藥物毒性(抗結核菌藥物:ethambutol、isoniazid;chloramphenicol、chloroquine)、鉛中毒或甲醇中毒…等原因造成的視神經病變。 - (2) 臨床症狀:無痛性雙側視力減退和色覺減退。 - (3) 徵候:視神經盤正常或蒼白,兩側中心視野缺損和色覺異常。 - (4) 診斷:病史、用藥史,血中 vit. B1、B12 和葉酸含量。 - (5) 治療:停藥、或給予 vit. B1、B12 和葉酸。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (A) 溶血性貧血 (hemolytic anemia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (B) 2. 承上題,產科醫師發現她懷孕前,如果樓梯爬 3 層就會喘,不過一般生活作息並不會造成困擾。但懷孕後,這些情況變的更厲害,有時走路久一點就會喘,需要停下來休息。檢查曉晴的眼結膜(conjunctiva)是粉紅色的,沒有貧血的跡象,聽診發現有心雜音,產科醫師懷疑有心臟方面的問題,於是安排心臟超音波,發現曉晴有一個心室中膈缺損約 1.6 平方公分。下列給曉晴的諮詢,何者錯誤? - (A) 根據紐約心臟協會(NYHA)對心臟功能的定義,曉晴懷孕前是屬於第二級(functional class II),但懷孕後已惡化為第三級(functional class III) - (B) 心室中膈缺損是一種先天性心臟病,這種是結構的異常並不 會遺傳給胎兒 - (C) 大 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...tin) 增加約 50%, 促使紅血球數量增 | |-----------|---------------------------------------------| | | 加,8~10 週開始增加,約增加 20~30% | | 生理性貧血 | • 雖然紅血球數量增加,但是血清量增加更多(約30~50%),因 | | | 此血比容 (Hct) 會下降, 血色素 (Hb) 下降, 造成生理性貧血 | | The Shall | • 於妊娠 30~34 週最嚴重;服用鐵劑可使紅血球數量增加 | | 白血球 | · 白血球數量增加,約可達 11,000/cumm | | 凝血因子 | • 許多凝血因子受影響,使得懷孕時期為一高凝血功能的狀態 | | | (hypercoagul Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -153,8 +159,6 @@ tags:
 - (D) 長期荷爾蒙治療可能有骨質疏鬆、貧血、疲倦等副作用 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (b) 實驗室檢查:除了腫瘤伴隨症狀造成異常外,尚有: - i. 紅血球沈降速率 (erythrocyte sedimentation rate): 75% 上昇。 - ii. 血尿:60%有巨觀或微觀血尿。 - iii. 貧血:30%,貧血並非因為出血造成,是血中鐵的結合能力下降,故 補充鐵劑無效。早期發現腫瘤且切除可以改善貧血。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...勃起異常持久 (priapism): - (a) 定義:持續勃起超過 4~6 小時。 - (b) 成因: 60% 原因不明, 僅 40% 找得到原因。 - i. 低血流量(ischemic type。陰莖硬,但龜頭軟):95%。鐮刀細胞性貧血(最常見占3成,小朋友6成)、白血病、藥物(如 prazosin)、陽痿治療失當。 - ii. 高血流量 (non-ischemic type。陰莖偏軟,無痛無症狀): 陰部動脈瘻管 (pudendal artery fistula,常因外傷所致)。 - (c) 診斷:理學檢查即可診斷,另可搭配彩色都卜勒超音波確認。不用實驗 室檢查。 - (d) 治療: - i. 初步保守治療:冷水澡、射精、運動,但這些尚無研究依據。 - ii. 一線 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- ...無力患者沒有胸腺瘤,但合併胸腺瘤患者仍佔約 10~42%。 - (2) 其他常見合併症:紅血球再生不良(red blood cell aplasia)、白血球再生不良(pure white blood cell aplasia)、再生不良性貧血(aplastic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopat Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- ...族性瘜肉綜合症(familial polyposis syndrome)有關,主要由胚胎性的肝母細胞和間葉組織構成。 - (3) 流行病學:大多發生於3歲以前,中位數年紀約18個月大。 - (4) 臨床表現:通常沒有症狀的腫塊來表現,或伴隨貧血表現。 - (5) 檢查 & 診斷: - a. 血液檢查 hemogram: (i) 血紅素 (Hgb):下降, (ii) 血小板 (PLT):增多。 - b. 腫瘤指標(tumor marker): 85~90% 可發現胎兒蛋白(AFP)升高。 - (6) 治療:以手術切除合併化療為主要治療,化療可使腫瘤分期降級有助於手術清除,而手術切除乾淨與否決定存活率。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 
 ## Clinical Caveats
 

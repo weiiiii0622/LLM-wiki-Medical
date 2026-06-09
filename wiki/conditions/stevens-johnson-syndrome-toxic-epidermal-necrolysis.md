@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch06]]"
   - "[[sources/med4-book2-ch03]]"
@@ -10,6 +10,9 @@ sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med4-book4-ch02]]"
+  - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'Stevens-Johnson syndrome / toxic epidermal necrolysis, SJS/TEN (史蒂芬強森症候群／毒性表皮壞死溶解症)'
   - 'Stevens-Johnson syndrome / toxic epidermal necrolysis, SJS/TEN'
@@ -24,7 +27,7 @@ tags:
 
 ## Summary
 
-嚴重藥物或感染相關黏膜皮膚反應，表皮壞死剝離且可危及生命。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嚴重藥物或感染相關黏膜皮膚反應，表皮壞死剝離且可危及生命。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +37,15 @@ tags:
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch09]]
 - [[sources/med4-book4-ch02]]
+- [[sources/med6-book2-ch03]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- (4) 「維生素 A 缺乏症」或因為砂眼、化學灼傷、Stevens-Johnson 症候群等所引起的結膜結疤,會使結膜上皮細胞角質化,因而黏液素分泌減少。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- a. 偽膜:附著於發炎的黏膜上皮上的凝固滲出物,特徵是可以很容易地撕開且不會流血。常見原因有嚴重的腺病毒感染和淋菌性結膜炎、Stevens-Johnson 症候群。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- ...ox) \ Neptazane ; | | anhydrase | 一缺點為作用時間短,眼壓 | 鉀、腹瀉、藥物過敏、 | Topical: dorzolamide | | inhibitor | 下降效果不如 β-blockers。 | SJS 等。 | | | | 且其屬於 sulfa drug,有過 | | | | | 敏史需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 | 針對短暫的降眼壓救急用(如 | 副作用:血壓上升。 | □服:glycerol、isosorbide | | | 急性隅角閉鎖性青光眼)。 | | IV: mannitol | Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - ...pertension, 即 pseudotumor cerebri。為已排除腫瘤等結構性問題之顱內高壓。最常見症狀為 頭痛、視力模糊或複視。 (C) 38. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(一)專 症候群(Stevens-Johnson syndrome)」? 醫四 -74 (A) topiramate (B) gabapentin (C) lamotrigine (D) valproate 【詳解】lamotrigine 在臨床上很容易有 skin rash 的副作用,也 易引發過敏。AED中除了老藥 phenytoin 和 carbamazepine 外, 新藥就 lamotrigine 有案例報告會引發 SJS。 (#) 39. 下列何種癲癇藥物之作用機轉,不會 Source: [[sources/med4-book4-ch02|乙、癲癇]].
 - ...| | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramate | | Fatigue、cognitive dulling、不易 body weight | | | | | increase | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic episode)在 DSM-IV-TR 的診斷準則(criteria)之敘述,下列何者錯誤? (A) 膨脹的自尊心或自大狂 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].

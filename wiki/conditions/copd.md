@@ -28,6 +28,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med6-book2-ch11]]"
 aliases:
   - 'COPD (慢性阻塞性肺疾病)'
   - 'COPD'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,11 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med6-book2-ch11]]
 
 ## Key Details From Sources
 
+- ...------|--------------------|-----------------|-----------------------------------| | β-blockers | - 效果長,通常一天點兩次 | 禁忌:氣喘、COPD、 | — non-selective: Timolol 、 | | | 或一次即可,且眼部副作 | Bradycardia、心臟傳 | Levobunolol carteolol | | | 用少。 | 導阻礙、心衰竭、低 | metipranolol | | | - 為第一線治療藥物。 | 血壓。 | - selective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - ...一)專 agent) 是常用的治療選擇,然而,下列何種情形是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...-----------------------------------------|------------------------| | Primary | Penetrating | | Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (C) 慢性阻塞肺病(COPD)引起的氣胸為續發性(secondary) 氣胸 Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -90,7 +93,6 @@ tags:
 - (C) 4.78 歲的張先生是慢性阻塞性肺病的患者,過去一年內,由於發作頻 繁,每天都需要使用類固醇 prednisolone 10 毫克左右控制。一週前 不幸跌倒,左髖關節骨折,接受人工關節置換,住院期間右髖關節 骨密度 T 值是 -2.2。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
 - 3. COPD 較少有 Clubbing finger,若有,須考慮其他問題,如肺癌等。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 - #### E. COPD 嚴重度分級與分組 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- | 分數 | 症狀 | 中文翻譯幫助記憶 | COPD grade | |----|------------------------------------------------------------------------------------------------------|-------------|--------------| | 0 | I only get breathless with strenuous exercise. | 強烈運動才喘 | Less sym Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 
 ## Clinical Caveats
 
@@ -99,6 +101,7 @@ tags:
 
 ## Related Pages
 
+- [[drugs/beta-blocker-eye-drops|Beta-blocker eye drops (眼科 beta-blocker)]]
 - [[guidelines/gold-copd-assessment|GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)]]
 - [[drugs/laba|LABA (長效乙二型交感神經刺激劑)]]
 - [[drugs/lama|LAMA (長效抗膽鹼劑)]]

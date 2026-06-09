@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch04]]"
 aliases:
   - 'Macrolides (巨環內酯類)'
   - 'Macrolides'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch04]]
 
 ## Key Details From Sources
 
+- ...、倒睫毛、角膜潰瘍等。 - c. 特徵:在結膜上皮細胞的細胞質內有嗜鹼性包涵體(basophilic inclusion bodies)。 - d. 治療:局部或口服四環黴素(1.5~2.0 g 每天)或紅黴素連續治療六星期,或 單一劑量 Azithromycin 1,000 mg。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - | 披衣菌 | • azithromycin 1 g 單一劑量或口服 doxycycline 100 mg BID, | | | |-------|----------------------------------------------------|--|--| | | 7 天。( 懷孕時使用 erythromycin) | | | | 淋病雙球菌 | • 單一劑量的肌肉注射 ceftriazone 250 mg | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...----------| | 病原體 | Haemophilus ducreyi | Chlamydia 的一種 | Klebsiella granulomatis | | 潰瘍 | painful | 無痛性 | 無痛性 | | 治療 | azithromycin, | Tetracycline, | Tetracycline, | | | ceftriaxone 或 | erythromycin 或 | erythromycin 或 | | | erythromycin | streptomycin | doxycycline | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...n | | Serratia spp. | TMP-SMX, carbenicillin | TMP-SMX, amikacin | | Other pathogens | | | | Chlamydiae | Tetracycline, erythromycin | Tetracycline, erythromycin | | Mycoplasmas, ureaplasmas | Tetracycline, erythromycin | Tetracycline, erythromycin | | Obligate anaerobes | Metronidazole, clindamycin | Metronidazole, clindamycin | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -70,9 +73,6 @@ tags:
 - (A) 口服 azithromycin 10 mg/kg/day QD Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (C) 1. 治療黴漿菌 (*Mycoplasma pneumoniae*) 肺炎,下列何種藥物最 109(二)專 適當? 醫四-4 - (A) Penicillin - (B) Vancomycin - (C) Azithromycin - (D) Gentamicin Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 【詳解】黴漿菌感染肺炎,使用抗生素首選為 Macrolide 類抗生素, 故選 (C)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫過低、生命跡象不穩的病童,發展為毒性巨結腸症的病童,以及免疫功能有缺損的病童。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...--| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 (「Ri」fam | pin) 就開始加速 ( 促進代謝酵素 ) | | 可抑制 CYP3A4 | Cimetidine (H 1 blocker), Statin 類 (降血脂) | Erythromycin ( 抗生素 ) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩 | ,快要「紅」燈時(紅黴素), | | | 會停下來(抑制代謝酵素),悠閒的用牙籤(Ke | to) 惕起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
-- ...----------------| | 口訣 | 癲癇病人開車很猛,快到「綠」燈 ("Ri" fampin) 就 | 開始加速(促進代謝酵素) | | | Cimetidine (H1 blocker), Statin 類 (降血脂) | Erythromycin (抗生素) | | 口訣 | 高血脂病人動作慢,到西門町 (Cime-ti-dine) 玩, | 快要「紅」燈時(紅黴 | | | 素),會停下來(抑制代謝酵素),悠閒的用牙籤 | (Keto) 剔起牙來 | Source: [[sources/med3-book4-ch12|丙、血栓 (Thrombosis)]].
 
 ## Clinical Caveats
 

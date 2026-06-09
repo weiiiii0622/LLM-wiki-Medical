@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book2-ch03]]"
 aliases:
   - 'Dermatitis herpetiformis (疱疹樣皮膚炎)'
   - 'Dermatitis herpetiformis'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-與 celiac disease 相關，伸側劇癢群聚丘疹水泡，真皮乳突 IgA 沉積。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+與 celiac disease 相關，伸側劇癢群聚丘疹水泡，真皮乳突 IgA 沉積。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book2-ch03]]
 
 ## Key Details From Sources
 
+- ...1) 延遲淚膜水層的蒸發(2) 降低淚膜表面張力,因此可吸收水分到淚膜,增厚水層(3) 睜眼時肌肉收縮,抑制油脂流出;閉眼時使腺體的油脂流出 | 蒸發性乾眼 | | 中間水層 | 主、副淚腺 | (1)供給角膜氧氣(2)除水、電解質外,尚有IgA、溶菌酶、乳鐵蛋白等可抵抗細菌 | 分泌不足性乾眼 | | 內側黏液層 | 結膜的 goblet cells (主要)、crypts of Henle、Manz 氏腺 | (1)幫助水層均匀分布在眼球表面(2)將疏水性的角膜上皮轉為親水性表面以濕潤角膜 | 蒸發性及分泌不足性乾眼 | Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - b. 母乳含有蛋白質(包括 IgA 和 cytokine)可幫助嬰兒的腸道免疫,但缺乏維生素 K, 因此喝母乳的寶寶發生維生素 K 缺乏性出血比喝配方奶的寶寶機率大。故建議新生兒一出生便施打一劑 0.5~1 mg 的肌肉注射維生素 K 以預防出血。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - | 陰道酸性 | 陰道上皮受雌激素影響分泌肝醣,透過乳酸桿菌轉換呈乳酸,維持 | |---------------|------------------------------------------| | | 陰道 pH 3.5~4.5,藉此抑制其他微生物 ( 陰道正常菌落主要為嗜氧菌 ) | | 鱗狀上皮細胞的厚層 | 形成物理障壁,當上皮缺乏雌激素變薄時,將使陰道容易創傷或感染 | | 腺體分泌 | 子宮頸和巴氏腺體維持向外的液體分泌,有助於陰道清理,並且含 | | | 有免疫球蛋白 (IgA) 和各種免疫細胞對抗感染源 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...genital causes:呈散在性分佈。 - a. 囊狀纖維化 (cystic fibrosis)。 - b. α1- 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency )。 - c. 免疫缺失(selective IgA deficiency, allergic bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquire Source: [[sources/med5-book4-ch03|丙、肺]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch01]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med6-book2-ch05]]"
 aliases:
   - 'Hyperphosphatemia (高血磷)'
   - 'Hyperphosphatemia'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-高血磷常見於腎功能下降，會影響鈣磷與副甲狀腺軸。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血磷常見於腎功能下降，會影響鈣磷與副甲狀腺軸。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med6-book2-ch05]]
 
 ## Key Details From Sources
 
+- 2. 帶狀病變(band keratopathy): 因鈣鹽沉積在 Bowman 氏膜的前部,角膜呈帶狀混 濁伴有鈣質沉積。明顯影響視力,多繼發於眼部疾病(慢性前葡萄膜炎、慢性虹彩炎)或某些代謝性疾病(高血鈣、高血磷、高尿酸、慢性腎衰竭)。治療以螯合法將 EDTA 與鈣化物結合後移除或雷射。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - 2. 次發性 (Secondary HPT): Ca ↓ => PTH ↑ - (1) 慢性腎衰竭,腎排磷受阻造成高血磷,使得鈣磷沉積,造成低血鈣;vitamin D 缺乏影響到腸子以及腎臟對鈣的再吸收,低血鈣接著引起 PTH 的分泌。次發性 HPT 也見於骨軟化症(Osteomalacia)及小腸吸收不良(Intestinal malabsorption)。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - 【詳解】腫瘤溶解症候群(tumor lysis syndrome)癌細胞快速分解會造成高尿酸、高血磷、低血鈣和高血鉀。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...ne kinase)值為 3,365 U/L。尿液分析顯示 Occult blood:強陽性 (4+);Protein:陰性 (-);WBC 3~5/HPF;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

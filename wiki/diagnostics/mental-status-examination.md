@@ -59,6 +59,8 @@ sources:
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book1-ch18]]"
+  - "[[sources/med6-book2-ch11]]"
+  - "[[sources/med6-book2-ch16]]"
 aliases:
   - 'Mental status examination, MSE (精神狀態檢查)'
   - 'Mental status examination, MSE'
@@ -73,7 +75,7 @@ tags:
 
 ## Summary
 
-精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -132,9 +134,13 @@ tags:
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book1-ch18]]
+- [[sources/med6-book2-ch11]]
+- [[sources/med6-book2-ch16]]
 
 ## Key Details From Sources
 
+- (2) 危險因子: 年紀(超過40歲)、 性別(女多於男)、種族、家 族史、眼球軸長較短(如遠視 眼)、情緒激動失眠、暗室停 留時間過長、局部或全身應用 藥物(使瞳孔散大),長時間 閱讀、疲勞等。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- 8. 外傷性視神經病變(traumatic optic neuropathy):頭部受傷時,尤其是前額受撞擊, 常會造成外傷性視神經病變。病人通常會有暫時性意識喪失,視力同時受損。治療 可給予類固醇注射,約一半病人視力會改善。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 【詳解】經前症候群(premenstrual syndrome, PMS),是指在進入黃體期後(約月經前 10~14 天),可能由於體內荷爾蒙變化,而產生各種身心不適症狀,常見症狀可分三類:生理性、情緒性及行為上。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ◆ 情緒性:包括 anxiety(焦慮、緊張易怒、情緒失控、易哭) 和 depression(憂鬱、沮喪、恐懼、孤僻、負面思考、興趣 低落、社交退縮、失眠或睡太多)兩大類症狀 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - | Vasomotor symptoms | 最常見的症狀,80% 更年期婦女會出現熱潮紅,造成夜間流 | |--------------------|------------------------------| | | 汗,影響睡眠品質 | | 泌尿生殖萎縮 | 子宮內膜萎縮(停經後出血最常見原因)、陰道乾澀、性交 | | | 疼痛、性功能障礙、頻尿、急尿和子宮內膜萎縮 | | 精神症狀 | 情緒不穩定、憂鬱或焦慮、記憶和專注力下降和性慾下降等 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -150,9 +156,6 @@ tags:
 - 4. 無高潮症(anorgasmia):在有意識的性行為下,無法達到高潮,但夜間仍會有流精 (emission,精液累積滿溢流出)現象。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - a. 心理性 (psychogenic): - (a) 情緒焦躁 (performance anxiety): 性行為前就會過度緊張,造成心理壓力。 - (b) 關係緊張 (strained relationship):性伴侶間的關係緊張。 - (c) 性冷感 (lack of sexual arousal): 性伴侶在性行為中沒有反應、年齡相關的性冷感、慢性疾病相關的性冷感。 - (d) 精神疾病。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...) | 15. | 男性血中睪固酮(testosterone)濃度不足,較不會引起何種症狀 | 103(二)專 | | | | 或疾病? | 醫五 -69 | | | | (A) 性慾下降 (B) 勃起功能減退 | | | | | (C) 情緒低落 (D) 前列腺癌 | | | (B) | 16. | Y染色體那部分的基因缺損會造成男性精蟲活動力不良? | 103(二)專 | | | | (A) p arm (B) q arm | 醫五 -71 | | | | (C) p arm 和 q arm (D) centromere | | | (D) | 17. | 下列何項危險因子不會影響陰莖海綿體血流量(penile blood flow, | 103(一)專 | | | | Source: [[sources/med5-book5-ch08|辛、男性學]].
-- ...(C) 15. 下列何者不是理想的腎臟捐贈者? (A) 腎功能正常者 醫五-71 (B) 同時罹患原發性腦瘤的病人 (C) 出現全身性病毒或細菌感染 (D) 梅毒、肝炎檢查正常者 (C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 104(二)專 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 醫五-77 - C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 描(CT scan)顯示左側腎臟撕裂傷合併巨大血腫,病人的血壓 一直維持在 70/40 mmHg 無法再上升,下一步要作的處置為何? (A) 腎臟血管造影 - (A) 育 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...--------------------------------------------------------------|------------------| | (C) 27. | 一位 37 歲男性工人從工地掉下來,理學檢查時病人意識清楚,但發現尿道口有血跡,而且陰囊有血腫,會陰有淤傷,接下來你最先要安排何種檢查?(A) Intravenous pyelogram(B) Cystography(C) Retrograde urethrogram(D) Contrast-enhanced computed tomography | 100(一)專醫五-61 | | (B) 28. | 下列有關睪丸癌的敘述,何者錯誤? (A) 大部分是生殖細胞腫瘤(germ cell Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (D) 12. 前列腺肥大病患接受經尿道前列腺切除手術時,出現意識迷糊、 噁心、高血壓、心跳變慢等症狀,其最可能之原因是: Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 
 ## Clinical Caveats
 

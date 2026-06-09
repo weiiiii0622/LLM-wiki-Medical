@@ -22,6 +22,11 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book2-ch06]]"
+  - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book2-ch19]]"
 aliases:
   - 'Tetracyclines (四環黴素類)'
   - 'Tetracyclines'
@@ -36,7 +41,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +63,20 @@ tags:
 - [[sources/med5-book5-ch06]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book2-ch04]]
+- [[sources/med6-book2-ch06]]
+- [[sources/med6-book2-ch16]]
+- [[sources/med6-book2-ch17]]
+- [[sources/med6-book2-ch19]]
 
 ## Key Details From Sources
 
+- c. 治療:局部 tetracycline 藥膏或口服的 tetracycline。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- ...bert 氏 凹 (Herbert's pit)、血管翳 (pannus)、倒睫毛、角膜潰瘍等。 - c. 特徵:在結膜上皮細胞的細胞質內有嗜鹼性包涵體(basophilic inclusion bodies)。 - d. 治療:局部或口服四環黴素(1.5~2.0 g 每天)或紅黴素連續治療六星期,或 單一劑量 Azithromycin 1,000 mg。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 1. 局部變色: - (1) 老年性鞏膜透明化:卵圓形、暗灰色區域。 - (2) 黑尿症 (alkaptonuria): 棕黑色。 - (3) 血色素沉著症(hemochromatosis):鏽棕色。 - (4) 全身性 minocycline:輪部旁藍灰色變色,除鞏膜外牙齒、指甲、皮膚也可能有色素沉著。 - (5) 金色性異物:長時間可能出現鏽狀染色。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
+- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- ...| | | 危險。父母有性病 | 膿性分泌物產生,嚴重 | G治療,並以食鹽水沖洗眼 | | | 史,最常被考慮的就 | 會導致角膜水腫、潰瘍 | 睛。現在通常先以紅黴素或 | | | 是格蘭氏陰性 Gram | 、穿孔、並發產成為眼 | 四環黴素眼藥膏預防。 | | | (-)的淋病雙球菌。 | 內炎。 | | | 披衣菌 | 父母多有性病史,生 | 多在出生兩週後出現症 | 口服紅黴素或磺胺類藥物。 | | | 產時經產道感染。 | 狀,較淋病性結膜炎輕 | 新生兒及父母皆需治療。 | | | | 微,但可能在 角膜上留 | | | | | 下疤痕 而影響視力。另 | | | | | 外可能伴隨披衣菌肺炎 | | | | | 的產生。 | | | 病毒性 | 少見,以單純疱疹 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
+- 3. Tetracycline、Vitamin A: 腦壓上升、視乳頭水腫。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - | 披衣菌 | • azithromycin 1 g 單一劑量或口服 doxycycline 100 mg BID, | | | |-------|----------------------------------------------------|--|--| | | 7 天。( 懷孕時使用 erythromycin) | | | | 淋病雙球菌 | • 單一劑量的肌肉注射 ceftriazone 250 mg | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...之治療:以抗生素治療為主 - a. CDC 建議 parenteral regimens 如下,臨床上有9成以上的治癒率 - Cefoxitin (2 g iv, q6h) or cefotetan (2 g iv, q12h) plus doxycycline (100 mg po, q12h) - Clindamycin (900 mg iv, q8h) plus gentamicin loading dose (2 mg/kg) followed by a maintenance dose (1.5 mg/kg) q8h or single daily dose - b. parenteral regimens 治療至少 48 小時,若症狀改善持續超過 24 小時,即可改為口服藥物,合計 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - c. 治療: 肌肉注射 Benzathine penicillin G 2.4 百萬單位、口服 tetracycline 500 mg QID, 14 天或 doxycycline 100 mg BID, 14 天。治療前 24 小時可能出現急性發燒、併頭痛、肌肉疼痛等的 Jarisch-Herxheimer reaction。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -72,13 +88,6 @@ tags:
 - ...(C) 服用大量維生素 A | | | (D) 惡性貧血 | | | 【詳解】第50題一律給分。大腦假性腫瘤的發生原因至今不明, | | | 一般相信因為腦膜吸收腦脊髓液能力下降,導致腦壓逐漸增高。 | | | 可能與過度服用維生素 A、四環黴素、荷爾蒙類避孕藥等有關。 | | | 偽性大腦腫瘤症為 Idiopathic,與 (ACD)可能都相關,但 (B)為 | | | 已知病因造成腦壓上升,不屬於偽性大腦腫瘤症範疇。 | | | (C) 25. 下列有關頭痛的現象之中,何者最需要讓病人接受腦部磁振造 | 101(二)專 | | 影或電腦斷層攝影? | 醫四 -56 | | (A) 頭痛通常發生在單側 | | | (B) 頭痛已經十年,型態及嚴重度都沒有變化 | | | (C Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - a. 一期、二期、早期隱性梅毒:單次 Penicillin G benzathine 2.4 million units IM。對 penicillin 過敏者可改用 Tetracycline hydrochloride(500 mg PO qid) 或 doxycycline(100 mg PO bid)\*14 天。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (A) doxycycline 是目前認為治療首選的藥物 - (B) VDRL(Venereal disease research laboratory test)陽性即可診 斷此病 - (C) 一般 Gram's stain 下可清楚看見菌體 - (D) 第二期梅毒可以侵犯皮膚、腎、肝、脾臟、肌肉骨骼等 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 所致,為革蘭性陰性菌。叮咬處會出現焦痂(eschar),大多無痛性,伴隨有發燒、頭痛、出汗、結膜充血和淋巴結腫大。發燒一週後身體會出現暗紅性丘疹並擴散至四肢,數天後會消失。恙蟲體立克次體會攻擊血管內皮細胞,組織切片可見lymphohistiocytic vasculitis。病患多數有旅遊史,台灣病例主要分佈在金門縣、澎湖縣、台東縣、花蓮縣和南投縣。診斷可作PCR 病原體檢測及細胞培養法做病原體分離或以間接螢光抗體法(Indirect Immunofluorescene Assay, IFA)測其 IgM 及 IgG 抗體, IgM $\geq$ 1:80 或 IgG 有 4 倍以上上升者判定為陽性。治療則給予 Doxycycline bid 七天。以上選項皆對。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (D) 若給與口服 doxycycline 治療,應提醒病人防曬以免光致敏 (photosensitization) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 【詳解】口圍皮膚炎為不當使用類固醇引起的皮膚炎,好發在年輕女性。病灶分布大多在口唇的周圍,包括鼻翼的兩側、鼻唇溝、人中、下巴等位置。皮膚表現為發紅、脫屑,長出類似青春痘的丘疹或是膿。使用類固醇塗抹會更加重病情,需給予四環黴素等口服或外用抗生素。Doxycycline可能會有光過敏性的情形,須注意防曬。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 【詳解】酒渣性痤瘡(acne rosacea),又稱酒槽鼻,好發 30~50歲中年男性,是由於微血管異常擴張和皮脂腺毛囊發炎而造成。嗜酒、吸菸、刺激性飲食、壓力、日曝寒冷風吹等均可加重病情。初期表現以臉部容易變紅(微血管輕微擴張,皮膚上有血絲),接著如青春痘般會有丘疹/膿疱(papules/pustules),並且有較嚴重的微血管擴張;後期則會出現結節狀硬塊(induration)、鼻瘤(rhinophyma,尤其男性患者)。酒槽鼻難以根治,只能控制病情,少數病患可自行痊癒。注重臉部保濕防曬、避免暴露酒槽鼻危險因子等;稍微嚴重的病患,可以給予口服或外用抗生素(tetracyclines、metronidazole)或 A 酸,以及雷射和手術。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 4. 常見引起固定性藥物疹之藥物為 Tetracyclines、NSAID、磺胺類藥物 (sulfadrugs)、Aspirin、Barbiturates。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- 【詳解】(A)是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B)為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C)為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D)為NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- | Nelson Textbook of Pediatrics 21 th Edition Table 428.6 | |-------------------------------------------------------------------------------------------------------------| | Age | | | Tetracyclines* | 2° 或 3° cephalosporins | | | | Fluoroquinolone | Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 
