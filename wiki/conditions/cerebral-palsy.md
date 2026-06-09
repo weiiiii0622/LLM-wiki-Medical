@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch10]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book3-ch20]]"
+  - "[[sources/med5-book6-ch08]]"
 aliases:
   - 'Cerebral palsy, CP (腦性麻痺)'
   - 'Cerebral palsy, CP'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ tags:
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book3-ch20]]
+- [[sources/med5-book6-ch08]]
 
 ## Key Details From Sources
 
+- C. 腦性麻痺 (Cerebral palsy, CP) 與相關骨疾病 148 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
+- 小兒骨科相對難度高,很多是大人看不到的疾病,所以本章介紹內容依照 考古題取向,幫大家發揮「二八法則」的精神,整理一些相對常考的主題,包含 Congenital radioulnar synostosis、股骨生長板滑脫、Cerebral palsy、髋關節發育不良(DDH)、小兒股骨頭缺血性壞死(LCPD)與相關骨疾病等,希望大家能在最短的時間拿到較高的分數。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
+- #### C. 腦性麻痺 (Cerebral palsy, CP) 與相關骨疾病 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - 2. 而乳房外科大概是外科數一數二好準備的科目,每年大約五題甚至更多,CP 值頗高!! 若沒有時間,一定要看幾個關鍵 topic: - (1) 長胸神經 (Long thoracic nerve): 重要的解剖構造!! - (2) 影像檢查:要理解乳房超音波與乳房攝影的選擇以及什麼是 BI-RADS。 - (3) 良性腫瘤:乳突狀瘤(Papilloma)。 - (4) 惡性腫瘤:免疫組織生化學檢查的意義與手術的方式。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...-----------------------------------------------------------------------------------|----------------------| | (C) 15. 下列腦性麻痺 (cerebral palsy) 類型中,發生脊柱側彎 (scoliosis) 機率最低者為: (A) 四肢麻痺 (quadriplegia) (B) 半身麻痺 (hemiplegia) (C) 雙下肢麻痺 (diplegia) (D) 兩下肢加一上肢麻痺 (triplegia) | 106(一)專醫五-61 | | (B) 16. 有關脊椎滑脫症(spondylolisthesis)引起疼痛、滑脫惡化及身體變形的危險因子,下列何者除 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (B) CP angle aneurysm Source: [[sources/med5-book1-ch18|壬、腦瘤]].

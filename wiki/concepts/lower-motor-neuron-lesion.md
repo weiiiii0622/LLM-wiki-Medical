@@ -2,11 +2,12 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch07]]"
+  - "[[sources/med5-book6-ch10]]"
 aliases:
   - 'Lower motor neuron lesion, LMN lesion (下運動神經元病灶)'
   - 'Lower motor neuron lesion, LMN lesion'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-LMN lesion 常見 weakness、atrophy、fasciculation、hyporeflexia。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+LMN lesion 常見 weakness、atrophy、fasciculation、hyporeflexia。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch07]]
+- [[sources/med5-book6-ch10]]
 
 ## Key Details From Sources
 
+- ...removal or coagulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the s Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - | 分類 | 細分類 | 解剖上病灶 | 肌肉張力 | 説明 | |------|---------|---------|-----------------------------|---------| | 陸辛田 | 上運動神經元 | 大腦、脊髓病灶 | 彈簧刀 (Clasp knife) | 拉開難、收回易 | | 隨意肌 | 下運動神經元 | 周邊神經病灶 | 低張力 (Hypotonia) | 拉開易、收回易 | | 不隨意肌 | 錐體外系統病灶 | 巴金森氏症 | 鉛管式 (Lead piperigidity) | 拉開難、收回難 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - ...側 | 手掌背側 | | 4m; -1-1 | 爪手 (Claw hand)= 無名指 | 猿手 (Ape hand)= 魚際肌 | 五際庁 (Duon yymigt) | | 無力 | 與小指下垂,剩下內側三指 | 萎縮 (Thenar atrophy) | 垂腕症 (Drop wrist) | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - 【詳解】OPCD 係影響到 cerebellum, pons 和 inferior olives 的神經退化性疾病。包含遺傳性脊髓小腦失調症(spinocerebellar ataxia)和 multiple system atrophy。其症狀主要為漸近性軀幹及肢體失調,並包含其他神經學症狀,如 parkinsonism, dystonia等。頭部 MRI 影像可見小腦萎縮,或是橋腦(pons)出現十字線(hot cross bun sign)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].

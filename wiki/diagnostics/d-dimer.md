@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch16]]"
   - "[[sources/med3-book1-ch11]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'D-dimer (D-二聚體)'
   - 'D-dimer'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-低風險肺栓塞排除策略常用檢驗。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低風險肺栓塞排除策略常用檢驗。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,12 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book2-ch06]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- (A) 人工關節手術後第三天,其 D-dimer test 結果若為陽性,有百分之九十的機會可以排除此診斷 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- 【詳解】D-Dimer test 的 sensitivity 有 $93\sim95\%$ ,因此有明顯的升高,發生血管栓塞的機率很高。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - 4. 診斷:杜卜勒超音波檢查、靜脈攝影(CT、MRI)、驗 D-dimer。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 4. 診斷:血中 d-dimer 可幫助排除(high sensitivity, low specificity),確診須靠 contrast-CT、血管攝影、V/Q scan。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].

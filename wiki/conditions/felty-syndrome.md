@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch17]]"
   - "[[sources/med3-book4-ch02]]"
@@ -21,6 +21,8 @@ sources:
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book3-ch11]]"
+  - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Felty syndrome (Felty 氏症候群)'
   - 'Felty syndrome'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,13 @@ RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合�
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book3-ch11]]
+- [[sources/med5-book6-ch04]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- c. 自體免疫性疾病(如:RA、SLE)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- b. 好發於 finger DIP joint 和 spine。特徵為不對稱性關節疼痛、晨僵,症狀與 RA 有點類似但通常較輕微。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 【詳解】題幹描述並不精準。這個 data 最合理的推測就是 B 肝 導致 Liver cirrhosis 合併 HCC, 因為 portal hypertension 後 splenomegaly 引起 thrombocytopenia。這種 condition 可能也不適合手術了。但撇除掉這些,如果真的要開刀,那當然 (B)(C)(D) 都很重要必須考慮。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - ...ion assay) FTA-ABS (fluorescent treponemal Antibody absorption) | | 用途 | 較便宜,初步篩檢,但其他疾病也會造成偽陽性反應,例如 TB、malaria、lymphoma、RA、SLE、pregnancy、HIV,但偽陽性鮮少titer 超過 1:8; 另可用於追蹤疾病活動度,追蹤治療成效,titer 變化大於四倍以上才具有臨床意義。 | 專一性高,用於確認診斷、不管治療與否,通常終身維持陽性,所以無法做為疾病活動性或治療指標之追蹤。 | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (3) 伴隨淋巴結和內臟的侵犯:lymphadenopathy、hepatosplenomegaly Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
@@ -75,7 +81,6 @@ RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合�
 - ...nterior uveitis (記法 AAA) | | PsA | 葡萄膜炎 | Bilateral, chronic, posterior uveitis | | Reiter's | 結膜炎 | Conjunctivitis | | RA, Vasculitis | 鞏膜炎 | Scleritis | | SLE, Vasculitis | 視神經炎 | Optic neuritis | Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - | | 單一關節 | 結晶 (GA、CPPD),感染 (細菌、黴菌、TB) | |----------------|------------------|-------------------------------------| | 發炎性 | 寡關節 (≦ 4 joints) | 血清陰性 (Psoriatic、Reiter's arthritis) | | | 多關節 | RA · SLE · Sarcoidosis | | -II- V& At Ada | 單一關節 | OA、外傷、腫瘤 | | 非發炎性 | 多關節 | 代謝性疾病 (Acromegaly、Hemochromatosis) | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - | | 正常 | 非發炎性 | 發炎性 | 感染性 (Septic) | |-------------|------------|---------|--------------|--------------| | 外觀 | 清澈 (Clear) | 清澈~黃 | 稍混濁、黃白 | 混濁 (Opaque) | | 白血球/mm³ | 50,000 | | 多核球比例 (PMN) | | 75% | > 90% | | 葡萄糖濃度 | ~Serum | ~Serum | 25~Serum | 3 | > 3 | > 3 | | 狀況 | | OA | RA, SLE, GA | 感染 | Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- (1) 病人可能是免疫缺乏或關節本身有病變(DM、RA、OA、GA、人工關節)。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
 
 ## Clinical Caveats
 

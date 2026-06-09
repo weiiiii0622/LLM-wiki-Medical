@@ -8,6 +8,8 @@ sources:
   - "[[sources/med3-book2-ch13]]"
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Bone mineral density, BMD (骨密度檢查)'
   - 'Bone mineral density, BMD'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-骨質疏鬆診斷與骨折風險評估常用檢查。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨質疏鬆診斷與骨折風險評估常用檢查。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med3-book2-ch13]]
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- ...佳 | | | | (D) 加上截肢為目前主要治療 | | | | 【詳解】骨肉瘤的標準治療: (neoadjuvant C/T ) → OP → C/T。 | | | (D) 37. | 在轉移性骨腫瘤中,何者造成的病灶,最常使患部骨骼的骨密度 | 94(一)專 | | ` , | 增高? | 外一-53 | | | (A) 腸癌 (B) 腎細胞癌 | | | | (C) 甲狀腺癌 (D) 前列腺癌 | | | | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (2) 雙能量 X 光吸收儀 (dual energy X-ray absorptiometry, DEXA): - a. 診斷骨質疏鬆症的黃金標準,可測量身體任何地方的骨頭密度,最常使用於 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (3) 侵犯超過局部/轉移: T3b 以上或 N+或 M+。 - a. 治療初期: 賀爾蒙治療 (endocrine therapy)。 - (a) 治療方式:服用藥物或睪丸切除術。 - (b) 原理:攝護腺癌初期有雄性素依賴性,生長需要有雄性素。所以把雄性素阻斷可讓攝護腺癌成長停滯或萎縮。雄性素(androgen)是一群男性賀爾蒙的總稱,主要有睪固酮、雙氫睪固酮。 - i. 睪固酮 (testosterone): - (i) 用途:幼年可使性器發展與 產生第二性徵,成人可增強 性欲性功能、提升骨密度與 肌肉力量。 - (ii) 合成路徑:下視丘分泌 LHRH(又稱GnRH)到腦 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - i. 熱潮紅(hot flashess, 佔 60% 人)、性欲及性功能缺失、骨密度下降 (loss of bone mineral density)、貧血、體重及體脂肪增加、認知改變 (cognitive decline)。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ii. 使用賀爾蒙治療需要定期監測這些副作用,處理的方式如下: - (i) 骨密度下降:以 FRAX 評估。使用鈣、維他命 D 補充劑、或是雙磷酸鹽。 - (ii) 貧血:通常很輕微,若嚴重可以補充紅血球生成素。 - (iii) 熱潮紅(hot flashes),可補充醋酸甲羥孕酮(medroxyprogesterone acetate 300~400 mg IM monthly)治療之。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].

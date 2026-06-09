@@ -2,10 +2,11 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch12]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Mannitol (甘露醇)'
   - 'Mannitol'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-滲透性利尿劑，可暫時降低顱內壓；需監測滲透壓、腎功能與容量狀態。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+滲透性利尿劑，可暫時降低顱內壓；需監測滲透壓、腎功能與容量狀態。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch12]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (2) 使用 Mannitol 降低局部壓力。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 11. 給予 IV 20% Mannitol 100 cc 降腦壓。(關於 IICP,後面另有章節詳述) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (B) 使用 mannitol 或 glycerol 等藥物 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
 

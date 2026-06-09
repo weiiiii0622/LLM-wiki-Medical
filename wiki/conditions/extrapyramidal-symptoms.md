@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch01]]"
   - "[[sources/med4-book3-ch09]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch06]]"
+  - "[[sources/med5-book6-ch06]]"
 aliases:
   - 'Extrapyramidal symptoms, EPS (錐體外症狀)'
   - 'Extrapyramidal symptoms, EPS'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-多巴胺阻斷相關動作副作用，包含急性肌張力不全、靜坐不能、類巴金森症與遲發性不自主運動。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多巴胺阻斷相關動作副作用，包含急性肌張力不全、靜坐不能、類巴金森症與遲發性不自主運動。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book3-ch07]]
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch06]]
+- [[sources/med5-book6-ch06]]
 
 ## Key Details From Sources
 
+- (A) 7. 陳太太因右手拇指及食指、中指常常半夜麻醒,至門診求診, 102(-)專 下列何種檢查最能提供確定診斷是「腕隧道症候群(carpal tunnel $\$ \pm -17$ syndrome)」? - (A) 電生理檢查 (electrophysiology study, EPS) - (B) 核磁共振造影術 (MRI) - (C) 電腦斷層掃描(CT) - (D) 手部超音波檢查 (sonography) Source: [[sources/med5-book6-ch06|己、手部]].
 - | 基底核 | | 疾病 | 症狀 | |-------------|-----------------------|----------------------|-----------------| | 外小小小 | 豆核 (Lentiform) | 手足徐動症 (Athetosis) | 不自主手足慢速扭曲 | | 紋狀體 | 尾核 (Caudate nucleus) | 舞蹈症 (Chorea) | 不自主肢體快速抽躍性舞動 | | 間腦/底 | 丘腦核 (Subthalamus nu.) | 芭蕾舞症 (Ballism) | 不自主四肢近端大規模投擲、跳躍 | | 中腦/黑 | 質 (Substantia nigra) | 巴金森氏症 (Parkinsonism) | 肌肉僵硬、動作緩慢、休息性顫抖 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (1) 一般運動輸出(somatic efferent):輸出到骨骼肌,做出動作。動作再進一步分析,可分為自主的隨意運動(椎體路徑 pyramidal tract)、下意識的維持姿勢(椎體外路徑 extrapyramidal tract)等,由不同的中樞神經負責,再由脊髓、體神經輸出至周邊骨骼肌。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - | 粗分類 | 細分類 | 目的 ′ | 目標器官 | |---------------------|------------------------------|------------|--------| | 一般運動輸出 | 椎體路徑 (Pyramidal tract) | 「自主」的隨意運動 | 骨骼肌 | | (Somatic efferent) | 椎體外路徑 (Extrapyramidal tract) | 「下意識」的維持姿勢 | | | 特殊運動輸出 | 交感神經 (Sympathetic) | 應付「緊急」 | 腺體 | | (Visceral efferent) | 副交感神經 (Parasympathetic) | 平常「休養」 | 平滑肌、心肌 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].

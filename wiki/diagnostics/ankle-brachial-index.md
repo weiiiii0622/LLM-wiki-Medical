@@ -2,9 +2,10 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch06]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Ankle-brachial index, ABI (踝肱指數)'
   - 'Ankle-brachial index, ABI'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-以下肢與上肢收縮壓比值評估 peripheral arterial disease 嚴重度與追蹤治療反應。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以下肢與上肢收縮壓比值評估 peripheral arterial disease 嚴重度與追蹤治療反應。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch06]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (3) 請病患移動腳趾評估神經功能;做 ABI (ankle-brachial index,低於 0.8 要特別小心,表示腳部血管可能阻塞)評估血管功能。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 5. Fontaine stage classification: 分級 - (1) Stage I:無症狀的,脈搏減弱。(Asymptomatic, decreased pulses, ABI 1.4:動脈硬化(鈣化)程度很嚴重失去彈性,所以測量下血壓很高。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 
 ## Clinical Caveats
@@ -36,6 +39,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/critical-limb-ischemia|Critical limb ischemia (重症肢體缺血)]]
 - [[conditions/peripheral-arterial-disease|Peripheral arterial disease / PAOD (周邊動脈阻塞疾病)]]
 
 ## Follow-up

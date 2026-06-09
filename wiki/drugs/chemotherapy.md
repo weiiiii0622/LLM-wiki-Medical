@@ -46,6 +46,8 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch10]]"
 aliases:
   - 'Chemotherapy (化學治療)'
   - 'Chemotherapy'
@@ -60,7 +62,7 @@ tags:
 
 ## Summary
 
-細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -106,9 +108,15 @@ tags:
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch10]]
 
 ## Key Details From Sources
 
+- a. 術前化療(preoperative chemotherapy): 使腫瘤變小,使手術時切除的範圍較小,如果有 tumor necrosis 的跡象,則有較好的 prognosis。 - (a) 化療 (multiple-agent CT) 常用的藥物包括: MICD (high-dose MTX、ifosfamide、cisplatin、doxorubicin)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- a. multiple-agent chemotherapy and limb salvage resection: 標 準 治 療(VCD, vincristine + cyclophosphamide + doxorubicin),術前使用 chemotherapy,減 少腫瘤體積,在進行切除手術,如果已有轉移或太大的腫瘤或位置不能切除 (脊椎或骨盆),可以配合使用 radiation therapy。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 【詳解】血清電泳出現異常蛋白質診斷是 MM 或是 MGUS,常 發生骨頭痛或病理性骨折。(C) 應為高血鈣。(D) 化學治療。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...urettage + bone graft | Low grade: en-bloc resection. | | | High grade: wide excision or amputation + | | | multi-agent chemotherapy | | | (5 yr survival rate: 70~90% in low grade; 30% in high grade) | | 久站會有疼痛感 | 診斷上要配合 clinical + x-ray + cytology | | | undifferentiated chondrosarcoma, | | | mesenchymal chondrosarcoma 惡性度極高。 | | 細胞形態有較大變化時,需 DDx: | Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - (b) 治療後仍腫大:看 N。 - i. cN1:根除性腹股溝淋巴切除術 (radical inguinal lymphadenectomy, ILND) 即可治癒。 - ii. > cN2:根除性腹股溝淋巴切除術+單側骨盆淋巴廓清 (pelvic lymphadenectomy)。 - iii. 若病理 > pN1:需加上輔助化療(adjuvant chemotherapy)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (C) 7. 關於高期別之非精細胞胚胎細胞癌 (nonseminoma germ cell 105( 二 )專 carcinoma),下列何者不是預測其化學治療之反應指標? 醫五-66 (A) 血清 LDH (B) 血清 β-hCG (C) 血清 CEA (D) 轉移部位總數 (A) 8. 下列敘述那些正確?①陰莖骨折(penile fracture)多發生在陰莖 105(二)專 懸韌帶(suspensory ligament)遠側 ②陰莖骨折如果採取保守治 醫五-71 療會有 10% 以上發生勃起時陰莖彎曲 (penile curvature) ③陰 莖穿透傷 (penetrating in Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...plete TUR | | | | | not recurrent) | | | | | | Ta (large, multiple, high grade, | Complete TUR followed by intravesical chemo- | | | | | or recurrent) | or immunotherapy | | | | | T1 | Complete TUR followed by intravesical chemo- | | | | | Walter American Community Committee | or immunotherapy or radical cystectomy | | | | | T2-T4 | Radical cy Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
@@ -123,10 +131,6 @@ tags:
 - ...很大。 - a. 上皮細胞型 (epithelial): 三者中,預後最好。 - b. 類肉瘤型(sarcomatous)。 - c. 混合型 (mixed)。 - (6) 治療:支持療法平均約存活4到12個月,尚無單一療法(如:放射治療、化學治療、手術)可以改善存活率。而試驗性複合式療法,EPP合併化放療,在早 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...為右上肺腺癌。胸部電腦斷層檢查發現氣管旁及氣管 岐部下淋巴結腫大,懷疑淋巴結轉移。請問下列何者為最適當 處理方式? (A) 實施開胸手術做右上肺葉切除及淋巴結廓清手術治療 (B) 經胸腔鏡切除右上肺葉及淋巴結廓清手術治療 (C) 直接放射及化學治療 (D) 氣管岐部下淋巴結切片證實為轉移惡性腫瘤後,先施予術前 化學及放射治療 Source: [[sources/med5-book4-ch03|丙、肺]].
 - a. 頸段 8%,幾乎都為 SqCC:切除頸段食道為治療方式,常合併局部侵犯,術 後再加上化學治療。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ...治療 1 個月,直到咳血才轉 | 98(二)專 | | | 到胸腔外科,氣管鏡切片診斷為氣管上段的 adenoid cystic car- | 醫五-21 | | | cinoma,接下來的處置,下列何者較理想? | | | | (A) 先化學治療再手術 | | | | (B) 進行氣切造口,不須考慮手術切除 | | | | (C) 經評估後直接手術切除作氣管重建 | | | | (D) 作放射治療即可 | | Source: [[sources/med5-book4-ch06|己、氣管]].
-- (c) 化學治療: DCIS 為非侵襲性癌症,不考慮作化學治療。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- (C) 2. 下列何者是乳癌病理組織報告中,做為判斷輔助性化學治療 (chemotherapy)的必要因子?①腫瘤大小 ②淋巴轉移 ③位置 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- ...群聚性的微小鈣化。 | | | (B) 17. 下列對於乳房之發炎性癌(inflammatory carcinoma)的敘述,何 | | | 者正確? | 醫五 -40 | | (A) 預後佳 | | | (B) 治療方式常須多管齊下,包括化學治療、放射線治療及手術治療 | | | (C) 在乳癌分期上,屬 TNM 系統的 T3 | | | (D) 這些患者常沒有腋下淋巴結轉移或全身其他器官轉移 | | | 【詳解】發炎性癌(inflammatory carcinoma)為 stage T4c,屬 | | | 於預後很差的乳癌類型,合併多處轉移,必須以多種方式治療。 | | | (C) 18. 下列那一項是乳癌最常見之早期症狀? | 100(二)專 | | (A) 乳房痛 | 醫 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 
 ## Clinical Caveats
 
@@ -136,7 +140,9 @@ tags:
 ## Related Pages
 
 - [[conditions/castration-resistant-prostate-cancer|Castration-resistant prostate cancer, CRPC (去勢抗性攝護腺癌)]]
+- [[conditions/ewing-sarcoma|Ewing sarcoma (尤文氏肉瘤)]]
 - [[conditions/glioblastoma|Glioblastoma, GBM (膠質母細胞瘤)]]
+- [[conditions/osteosarcoma|Osteosarcoma (骨肉瘤)]]
 - [[conditions/rhabdomyosarcoma|Rhabdomyosarcoma (橫紋肌肉瘤)]]
 
 ## Follow-up

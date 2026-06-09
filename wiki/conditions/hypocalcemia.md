@@ -23,6 +23,8 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Hypocalcemia (低血鈣)'
   - 'Hypocalcemia'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低血鈣可造成神經肌肉興奮、手足搐搦或心電圖變化。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,13 @@ tags:
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (C) 經常合併出現低血鈣和肝功能異常 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- | | 原發性 | 次級 | 三級 | |-----------|-------------------------------|-------------------------------------------|--------------------------------------| | 說明 | 副甲狀腺不正常增生。(80% 是 adenoma) | 外在因素造成副甲狀腺機能亢進 (ex: CKD,Vit D 缺乏) | 長期低血鈣導致副甲狀腺異常增生,PTH 刺激造成高血鈣。 | | Ca++ | 1 | ↓ | ↑ | | Phosphate | ↓ | 1 | ↑ | | PTH | 1 | ↑ | 1 | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (B) 低血鈣症 (hypocalcemia) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...emia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以低血鈣來做表現。 | | | (D) | 2. 急性胰臟炎局部合併症中,下列何者最不常見? | 105(二)專 | | | (A) pancreatic phlegmon | 醫五 -34 | | | (B) pancreatic abscess | | | | (C) pancreatic pseudocyst | | | | (D) renal artery thrombosis | | | (C) | 3. 王先生因為急性胰臟炎入院,下 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - #### 2. Transient hypocalcemia: Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -79,8 +85,6 @@ tags:
 - (B) 在神經症狀部分,可能會出現抽搐(twitching)、強直 (tetany)、癲癇、昏迷,甚至死亡 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 【詳解】由題目敘述可知道病人有發紺型先天性心臟病。右手血壓明顯高於其他三肢,表示主動脈在左右手分枝之間出現異常,有可能是斷裂造成(interrupted aortic arch with PDA),亦即type B IAA。Type B IAA 很常合併 CATCH22 syndrome。這類病人常有臉部發展異常、胸腺發育不良或是有副甲狀腺低下造成低血鈣。故選(D)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (B) 17. 下列血液中電解質的異常,常會使嬰幼兒心電圖出現 QT 波之延 106(-) 專長(QT Prolongation)的現象,除了: - (A) 低血鉀症 (hypokalemia) - (B) 低血鈉症 (hyponatremia) - (C) 低血鎂症 (hypomagnesemia) - (D) 低血鈣症(hypocalcemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】電解質不平衡會造成心電圖出現 QT prolong 有低血鈣、 低血鎂以及低血鉀。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

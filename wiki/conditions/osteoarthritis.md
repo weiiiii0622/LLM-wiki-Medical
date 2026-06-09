@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch06]]"
   - "[[sources/med3-book4-ch05]]"
@@ -12,6 +12,10 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med5-book6-ch02]]"
 aliases:
   - 'Osteoarthritis, OA (退化性關節炎)'
   - 'Osteoarthritis, OA'
@@ -26,7 +30,7 @@ tags:
 
 ## Summary
 
-軟骨退化與骨贅形成造成機械性關節痛，常侵犯 DIP、PIP、膝、髖等。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+軟骨退化與骨贅形成造成機械性關節痛，常侵犯 DIP、PIP、膝、髖等。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +42,21 @@ tags:
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch04]]
+- [[sources/med5-book6-ch02]]
 
 ## Key Details From Sources
 
+- 【詳解】右圖可以看到內側 condylar 處有一 hypoindense lesion, 正常骨頭在 T1 image 上應會呈現白色,轉呈黑色表示已經有 bone absorption,合併 X -ray medial joint space narrowing,可能 也有 knee osteoarthritis,故答案選 (B)。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (C) 8.46 歲男性病人因為左側膝關節退化性關節炎接受脛骨高位截骨 矯正術(high tibial osteotomy),手術後以長腿石膏固定膝關節, 四個小時後病人抱怨腳趾頭麻痺,住院醫師前往檢視發現腳趾 頭有明顯的發紺現象(cyanosis),當搬動腳趾時病人非常疼痛, 幾乎無法忍受,請問下一步應該採取的處置何者最為適當? Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- 1. 關節炎可以分成 inflammatory (seropositive :rheamatoid arthritis 和 seronegative: Ankylosing spondylitis, psoriatic arthritis, reactive arthritis) 和 non-inflammatory (osteoarthritis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- #### (1) Osteoarthritis: Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (C) 3. 手指關節發生骨關節炎(osteoarthritis)時,下列敘述何者正確? Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- ...| t Sign | | | Late 3 Collapse (+)(+) Broken contour of hea | | Broken contour of head, cresent sign (+) | | | | | 4 | Osteoarthritis | (+)(+)(+) | Flattened contour decreased Joint Space | | End | 5 | Joint narrowing | (+)(+)(+) | Joint narrowing | | | 6 | Advanced joint narrowing | (+)(+)(+) | Advanced joint narrowing | Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- 【詳解】使用類固醇、喝酒都是 ONFH 的 risk factors。X ray 上可以看到左邊 hip joint 的 joint space 不對稱且變窄,甚至有 OA (joint space narrowing, sclerotic change, subcondral bone cyst)的樣子,需懷疑是 ONFH,FICAT stage IV。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- (1) 全半月板切除術(幾乎不做,很容易會造成日後退化性關節炎)。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
 - ...-----------------------------------------------------------------------|--------------------| | (B) 20. 一位 60 歲男性病患於一週前因退化性關節炎接受左髋部人工髓關節全置換手術治療(total hip replacement),術後連續五天注射止痛劑和 cephalosporin 治療,病人於術後第 7 天開始發生持續性腹瀉、腹痛、且帶有少許血便,發燒及白血球增多,但並無腹膜炎現象,此時除了 stool culture 之外,該先如何處理? (A) 給予 Buscopan,並重新使用 cephalosporin 治療 (B) 作 stool cytotoxin assay,保守性 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 1. 高血壓:占五成,高血壓使血管壁形成 Charcot-Bouchard's aneurysm,然後導致破裂出血。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - 3. 較大血管的出血(SAH)常因動脈瘤破裂導致,較小血管的出血(ICH)常因高血 壓造成的 Charcot-Bouchard's aneurysm 或腦類澱粉樣血管病變導致。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
@@ -51,11 +67,6 @@ tags:
 - | | 正常 | 非發炎性 | 發炎性 | 感染性 (Septic) | |-------------|------------|---------|--------------|--------------| | 外觀 | 清澈 (Clear) | 清澈~黃 | 稍混濁、黃白 | 混濁 (Opaque) | | 白血球/mm³ | 50,000 | | 多核球比例 (PMN) | | 75% | > 90% | | 葡萄糖濃度 | ~Serum | ~Serum | 25~Serum | 3 | > 3 | > 3 | | 狀況 | | OA | RA, SLE, GA | 感染 | Source: [[sources/med3-book4-ch06|己、關節炎變]].
 - c. DIP 的侵犯在 X 光可看到 Pencil-in-cup; DIP 關節病變還有可能是 OA、GA, 而 OA 不太合併發炎徵象(紅腫熱痛)、GA 可見痛風石沉積。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - ...踺(Achilles tendon)發炎病史,以 目前病情判斷,何種疾病最有可能? (A) 僵直性脊椎炎(ankylosing spondylitis) (B) 中軸脊椎關節炎(axial spondyloarthropathy) (C) 退化性關節炎(osteoarthritis) (D) 乾癬性關節炎(psoriatic arthritis) | 105(一)專醫三-39 | | (A) | 7. 一位 22 歲的男性病人主訴右膝關節腫痛已一個多月。最近半年來時常睡至下半夜因下背痠痛而醒來。上星期突然眼痛,視力模糊,被眼科醫師診斷為葡萄膜炎(uveitis)。請問下列那一種檢查對診斷最有幫助? (A) 骨盆腔 X 光 (B) 右膝關節 X 光 (C) 抽血檢查 RF 及 ANA Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- | | 急性 | 慢性 | |---------|---------|----------------------| | 心血管疾病 | 心肌梗塞 | 高血壓、靜脈曲張、心律不整、姿態性低血壓 | | 神經疾病 | 中風 | 失智症、巴金森氏症 | | 新陳代謝疾病 | 糖尿病、甲狀腺 | 以 对能低下 | | 肌肉骨骼疾病 | 骨折 | 退化性關節炎 | | 肝膽腸胃疾病 | 急性腹瀉 | 慢性肝炎、肝硬化、便祕、痔瘡 | | 眼耳鼻喉疾病 | 白内障、聽力丁 | 降 | | 泌尿生殖道疾病 | 尿失禁、疝氣、 | ·攝護腺肥大 | | 精神疾病 | 憂鬱症、失眠、 | ・譫妄 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ...04(一)專醫三-66 | | (B) 29. | 一位 33 歲男性,因肥胖來門診諮詢。為強化病人減重的動機,你會告訴他有關肥胖的併發症。肥胖會增加下列那一種疾病的風險? (A) 甲狀腺功能低下症(hypothyroidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- (A) Osteoarthritis Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (C) Osteoarthritis Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...phalangeal joints) (B) 近側端的指間關節(Proximal interphalangeal joints) (C) 肘關節(Elbow joints) (D) 踝關節(Ankle joints) 【詳解】DIP 較是 OA 會侵犯的關節。 | 94( 三 ) 檢內 -37 | | (C) 16 | . 下列有關疾病修飾性抗風濕藥物(disease-modifying anti-rheumatic drugs)的特性描述,何者正確? (A) 有很強的消炎及止痛效果 (B) 通常服藥後一週內便會開始有效 (C) 會改善患者血清學的異常 (D) 長期服用會治癒風濕病 【詳解】(A) 須靠 NSAID;(B) 須服藥 1~3 月以上才有效果,所以急性期須靠 NS Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 
@@ -64,7 +75,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/meniscus-repair|Meniscus repair / meniscectomy (半月板修補／切除術)]]
+- [[conditions/meniscus-tear|Meniscus tear (半月板破裂)]]
 
 ## Follow-up
 

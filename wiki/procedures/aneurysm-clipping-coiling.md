@@ -40,6 +40,9 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)'
   - 'Aneurysm clipping/coiling'
@@ -54,7 +57,7 @@ tags:
 
 ## Summary
 
-ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +97,20 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch04]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- ...管攝影檢查 (D) 近關節處的傷口不要嘗試從傷口注入生理食鹽水來檢查是否與關節腔相通 【詳解】(A) 休克可能是因為失血太多,第一必須先穩定生命徵象,再考慮麻醉作接合手術,因為麻醉本身也會造成相對低血壓,大量出血造成的休克可能要考慮先用血管栓塞止血;另一方面有可能是感染造成的休克,此時可能要謹慎評估傷口的狀 | (A) | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (D) 血管栓塞術 (angio-embolization) Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- 【詳解】有顯影劑外滲表示有血管的損傷,(B) 選項固然也是治療之一,可以適合給予骨盆壓迫減少出血,但是要根本治療出血的問題仍是要利用血管栓塞才能阻止繼續滲血。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (B) 心房震顫, 左心室的栓塞掉到周圍血管內 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- 【詳解】有心房震顫、右小腿腫脹且有 pulse 及 Homans' sign, 皆為深部靜脈之栓塞症的表現。下肢骨骨折流血量相對較多,也 較容易形成血栓,在術後常會給予一些抗凝血藥物預防血栓發生。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- 【詳解】D-Dimer test 的 sensitivity 有 $93\sim95\%$ ,因此有明顯的升高,發生血管栓塞的機率很高。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- (A) 脂肪栓塞症候群 (Fat embolism syndrome) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- 【詳解】脂肪栓塞症候群(Fat embolism syndrome)的三大特徵(triad): 神志不清(consciousness disturbance)with 6~12 hours lucid interval、呼吸困難(respiratory distress)、皮膚出血斑(petechiae)。常發生於長骨(long bone)或骨盆骨折患者,最常在骨折後 24~48 小時後併發症狀;應儘速提供呼吸治療為主,必要時予以氣管插管以呼吸器治療。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (2) 第三、四、五級:佔15%,可能引起腎臟碎裂、血管栓塞、血管斷裂,腎動脈或靜脈也可能因此有外傷產生,發生率低於1%,若造成生命徵象不穩時需要手術治療。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...RBC,血中 WBC 與 CRP 升高。 - (c) 影像:超音波可用來探查是否併發腎水腫。若症狀不明顯或治療無效,可排顯影劑 CT 檢查,可準確看到發炎處灌流缺損(perfusion defects)。這是因為細菌感染引起周圍小動脈收縮或栓塞,降低腎臟受影響部分的血液灌流。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ii. 中重度疼痛/出血:局部腎臟切除或動脈栓塞。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -107,14 +121,6 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - P. 脂肪栓塞症 (Fat emboli syndrome, FES) 59 Source: [[sources/med5-book4-ch03|丙、肺]].
 - Q. 肺動脈栓塞 (Pulmonary embolism) 60 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (c) 針對咳血:支氣管動脈栓塞,肺切除。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 臨床表現:通常在神經壓迫後出現相關症狀,而血管性及神經血管性症狀也曾有文獻記載過。依據壓迫不同結構而有不同的症狀。 - (1) 神經症狀:超過90%病患會發生。 - (2) 動脈症狀:疲勞、虛弱、遠段變冷、上肢間歇性失能(upper extremity claudication)、血栓(thrombosis)或感覺異常(paresthesia)。 - a. 血栓 (Thrombosis): 造成遠端栓塞很少發生,但會出現手部雷諾氏現象 (Raynaud phenomenon)或缺血現象。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- (A) 肺動脈栓塞 (pulmonary embolism) Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- (b) 門脈主幹栓塞、下腔靜脈栓塞。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (6) 經導管動脈化學藥物栓塞治療(transcatheter arterial chemoembolization, TACE): - a. 前言: - (a) 在前面解剖的部分提及,肝臟有兩套血流系統,一套為門靜脈(portal vein),另外一套為肝臟動脈(hepatic artery),門靜脈提供了 75% 的血液及養分,而肝動脈提供了 25% 的血液及養分,但 HCC 大部份是藉由肝動脈血液快速成長,鮮少從肝門靜脈長出來。 - (b) 根據統計,動脈栓塞 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 7. 脾靜脈栓塞 (Splenic vein thrombosis)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 3. 腹部電腦斷層:良好的診斷工具。對於胰臟的萎縮、腺體的壞死,胰管擴張及胰鈣化,都能提供準確的診斷,除此之外電腦斷層檢查也可提供其他合併症的出現與否如pseudocyst、脾靜脈栓塞,與癌化的可能性。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- ...oxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以低血鈣來做表現。 | | | (D) | 2. 急性胰臟炎局部合併症中,下列何者最不常見? | 105(二)專 | | | (A) pancreatic phlegmon | 醫五 -34 | | | (B) pancreatic abscess | | | | (C) Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 
 ## Clinical Caveats
 

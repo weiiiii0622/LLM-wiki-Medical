@@ -31,6 +31,7 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Hepatocellular carcinoma, HCC (肝細胞癌)'
   - 'Hepatocellular carcinoma, HCC'
@@ -45,7 +46,7 @@ tags:
 
 ## Summary
 
-HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +77,11 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- 1. 骨頭惡性腫瘤有一定的比率(超過一半以上)是轉移癌。來源以下面幾個最為常見: - (1) 肺癌。 - (2) 乳癌。 - (3) 前列腺癌。 - (4) 甲狀腺腫瘤。 - (5) 肝癌。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...9. 睪丸畸胎瘤(teratoma)病童,如果血中腫瘤標誌胎兒蛋白( $\alpha$ -105(一)專 fetoprotein)升高時,此腫瘤可能含有那種惡性成分? 醫五-49 (A) 卵黃囊瘤 (yolk sac tumor) (B) 肝細胞癌 (hepatocellular carcinoma) (C) 消化道腺癌(adenocarcinoma) (D) 神經母細胞瘤 (neuroblastoma) 【詳解】最常見的兒童睾丸腫瘤是畸胎瘤和卵黃囊腫瘤 (Teratoma and yolk sac tumors), 其中卵黃囊腫瘤(yolk sac tumors) 會分泌 α- 胎蛋白 (α-Fetoprotein, AFP)。 (B) 10. 有關急性細菌性副睪丸炎之敘述,下 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (c) 癌症:因為服用免疫抑制劑使T細胞免疫反應被抑制,會增加各種癌症 發生率。(增加 20 倍淋巴癌風險,增加 15 倍腎臟癌風險,增加 5 倍肝癌 風險,增加3倍睪丸、膀胱癌風險,以及增加2倍常見腫瘤風險,例大 腸癌、攝護腺癌、肺癌、胃癌等。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...能障礙,所以手術中泌尿外科勺保留,來維護病人的性功能? | 101(二)專醫五-70 | | (B) 24. 最常引起骨增生性之轉程 | 多性癌症是: | 100(二)專 | | (A) 大腸癌(C) 腎細胞癌 | (B) 前列腺癌(D) 肝癌 | 醫五 -57 | | (B) 25. 年輕男性的攝護腺,其中(A) 移行區(transition zo(B) 周邊區(peripheral zo(C) 中央區(central zone(D) 精阜及輸精管(veru | one) | 100(二)專醫五-66 | | 錯誤? (A) 早期大多數沒有症狀 (B) 良性攝護腺肥大 (B) (C) 核磁共振造影 (MRI (D) 50 歲以上男性應每年定抗原 (PSA) 偵測 | PH) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -96,7 +99,6 @@ HCC 常源自慢性 HBV/HCV、肝硬化或脂肪肝背景。 本頁已整合至 
 - (B) 肝細胞癌 (hepatocellular carcinoma) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (B) 4. 下圖是一位肝癌病人的電腦斷層攝影,根據 Couinaud 等所提出, 106 (二) 專 依照門脈分枝的肝臟解剖學分葉,則腫瘤位於肝臟的那一個小葉? 醫五 -23 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
 - (A) 20. 一般外科的何主任最近進行某項肝癌患者的基因研究,為了要蒐 集健康人之對照組,特邀請未來兩個月到一般外科學習的住院醫 師及實習醫師自願參與這項研究提供 10 cc 之血液檢體。在研究 倫理的觀點上,下列何項是這種納入受試者的方式最大的爭議? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (B) alpha fetoprotein (AFP) and hepatocellular carcinoma Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 

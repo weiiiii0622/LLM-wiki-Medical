@@ -85,6 +85,7 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med5-book6-ch06]]"
 aliases:
   - 'Diabetes mellitus (糖尿病)'
   - 'Diabetes mellitus'
@@ -99,7 +100,7 @@ tags:
 
 ## Summary
 
-慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -184,9 +185,11 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med5-book6-ch06]]
 
 ## Key Details From Sources
 
+- 1. 簡介: Flexor tendon 因為在 **A1 pulley 狹窄造成的 stenosing tenosynovitis**,常發生 在大拇指、中指及第四指,有糖尿病的病人容易發生。 Source: [[sources/med5-book6-ch06|己、手部]].
 - (1) 急性腎盂腎炎 (acute pyelonephritis, APN): - a. 病理:定義為腎盂或腎盂發炎,常以臨床表徵診斷。 - b. 好發於:有尿路感染(UTI)家族史、糖尿病、尿路阻塞、泌尿道異常、尿失禁、 性生活活躍之女性。 - c. 菌種: 80% 是大腸桿菌(E.coli)。 - d. 臨床表徵: - (a) 症狀:包括發燒、畏寒、肋脊角敲痛。常伴隨下泌尿道症狀(尿痛、頻尿、 急尿)。25% 人會有全身性敗血症。 - (b) 實驗室檢查:尿中有 WBC 與 RBC,血中 WBC 與 CRP 升高。 - (c) 影像:超音波可用來探查是否併發腎水腫。若症狀不明顯或治療無效,可排顯影劑 CT 檢查,可準確 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - b. 好發於糖尿病、洗腎、靜脈藥物濫用者、尿 路異常(如結石或阻塞)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -204,7 +207,6 @@ tags:
 - (B) 2. 李先生 35 歲,BMI(body mass index): 43 kg/m²,過去一年努 1090 力藉由保守方法減重但效果不彰,本身亦有第二型糖尿病,且糖 化血紅素(HbA1C)指數為 8.5%,胃鏡檢查發現胃食道逆流程 度為 Los Angeles Grade C。李先生決定接受代謝減重手術治療, 下列何種手術最為適合? Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 【詳解】現行較常見的減重手術術式包含 Roux-en-Y 胃繞道手術,胃袖狀手術,可調式胃束帶手術。Roux-en-Y 胃繞道手術的優點為減重效果較快且治療糖尿病效果佳。胃袖狀手術的優點為併發症較少。本題提到患者具糖尿病,因此 Roux-en-Y 胃繞道手術可能是較適合的術式選擇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - ...ma)癌化的 | | | | 風險極低 | | | | 【詳解】最常見的 gastric polyp 為 fundic gland polyps。 | | | (B) | 6.48 歲洪小姐,身高 162 公分,體重 98 公斤,同時合併有糖尿病、 | 102(二)專 | | | 高血壓及高血脂,她在醫師的建議下決定接受減重手術,下列何 | 醫五-51 | | | 種手術較不建議? | | | | (A) 腹腔鏡胃繞道 | | | | (B) 腹部抽脂手術 | | | | (C) 腹腔鏡可調式胃束帶 | | | | (D) 腹腔鏡胃袖狀切除 | | | | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- | 臨床表徵 | 阿米巴性感染 | 化膿性感染 | |-------|-------------|----------| | 年龄 | 20~40 歲的年輕人 | > 50 歲 | | 男:女 | > 10:1 | 1.5 : 1 | | 膿瘍數量 | 80% 為單顆 | 50% 為單顆 | | 位置 | 右肝 | 右肝 | | 糖尿病 | 較少 | 常見 (27%) | | 飲酒 | 常見 | 常見 | | 黄疸 | 較少 | 常見 | | Alk-P | 上升 | 上升 | Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 
 ## Clinical Caveats
 

@@ -31,6 +31,7 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch05]]"
 aliases:
   - 'Pulmonary embolism (肺栓塞)'
   - 'Pulmonary embolism'
@@ -45,7 +46,7 @@ tags:
 
 ## Summary
 
-靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +77,12 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch05]]
 
 ## Key Details From Sources
 
+- 【詳解】(C) 通常靠理學檢查(PE)及神經傳導檢查(Nerve Conduction Velocity, NCV)來診斷。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- 【詳解】(A) PE 時可以發現手肘無法 extension,原因是常會傷到肱三頭肌(負責 elbow extension)。(C) olecranon 是肱三頭肌、anconeus muscle 附著,(D) 本身 olecranon 就是在關節面的位置,以手術治療為主。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - d. 膀胱鏡:包括膀胱鏡檢與切除(transurethral resection, TUR)後送病理檢驗, 是確診膀胱癌的必要方式,因為膀胱癌臨床分期(用 PE 及影像評估)有 50% 會低估實際的病理分期(down stage)。 - (a) 膀胱鏡觀察:膀胱癌外觀分乳突狀(papillary)與扁平狀(flat)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ii. 手術後數天:深部靜脈栓塞、肺栓塞、淋巴囊腫、傷口感染,這些是屬於任何手術都可能發生的問題。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - Q. 肺動脈栓塞 (Pulmonary embolism) 60 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -95,8 +99,6 @@ tags:
 - ...(4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 - c. 慢性肺栓塞合併產生肺高壓之患者。 - d. 因服用抗凝血劑而產生不良併發症患者。 - e. 在 iliofemoral vein 或下腔靜脈有 free-floating thrombus。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (C) 深部靜脈栓塞,且有慢性肺栓塞,並已造成肺高壓 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- ...由此方式癒合 | | | | | 【詳解】纖維母細胞在受傷後第2天即出現。 | | | (0) | 1 = | | 100/ \ # | | (C) | 15. | 下列敘述,何者錯誤? | 102(一)專 | | | | (A) 大多數的肺栓塞(pulmonary embolism)是起源於深層靜脈 | 醫五-5 | | | | 栓塞 (deep venous thrombosis) | | | | | (B) 老年人常因營養不良而有比較高的手術後併發症發生率 | | | | | (C) 肥胖與營養不良並不會增加傷口裂開的機率 | | | | | (D) 手術後的疼痛、輸液量過多會導致高血壓 | | | (B) | 16. | 下列生長因子(growth factors),何 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- 3. 如果依照 Hx, PE 診斷不確定,可以使用腹部 CT 輔助診斷。CT 上可以看到 appendix 直徑大於 6 mm, appendix 附近有水聚積(fluid accumulation),或是看到 糞石。 Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
 
 ## Clinical Caveats
 

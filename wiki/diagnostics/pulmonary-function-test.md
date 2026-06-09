@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Pulmonary function test, PFT (肺功能檢查)'
   - 'Pulmonary function test, PFT'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分阻塞型、限制型與擴散障礙。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- (D) 伴隨的內科問題(如心肺功能障礙或電解質不平衡)穩定 後,即儘早手術固定 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - i. 手術危險性高之病患:心肺功能不佳或血液凝固疾病。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 【詳解】右肺將會代償左肺功能,剩下單肺的負壓,吸氣時肺 泡壓上升變快肺間壓變大,故肺順應性下降,肺內壓升高加上 肺過度膨漲的組織張力,故血管阻力也會升高,氣道阻力也增 加,故氣道傳導度降低。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 1. 肺功能量計(spirometry)是最常見主要評估肺功能的工具,評估包含肺容積及彈性(elasticity)、回彈性(recoil)和順應性(compliance)等肺機械性質。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -86,7 +89,6 @@ tags:
 - ...-|---------------------------------------------| | C1-4 | 頸部肌肉 (neck muscle) | | | | C3, 4, 5 | 横膈肌 (diaphragm) | 吸氣、TV、FEV、VC | | | C5 , 6 | 三角肌 (deltoid) | 局部外展 > 90° | | | C5 , 6 | 二頭肌 (biceps) | 手肘彎曲 | biceps jerk | | C6 , 7 | 伸腕橈肌 (extensor carpi radialis) | 手腕伸張 | supinator jerk | | C7, 8 | 三頭肌 (triceps)、伸指總肌 (extensor digitorum) | 手肘和 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - $FEV_1/FVC$ ratio 12\%$ or predicted $\text{FEV}_1 > 10\%$ after inhalation of a short-acting $\beta$ -agonist (SABA)\* Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - Worsening in $FEV_1 \ge 15\%$ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- FEV1, forced expiratory volume in 1 sec; FVC, forced vital capacity; ICS, inhaled corticosteroid; ppb, parts per billion. Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

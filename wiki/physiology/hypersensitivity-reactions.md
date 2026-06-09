@@ -56,6 +56,12 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med5-book6-ch05]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med5-book6-ch02]]"
 aliases:
   - 'Hypersensitivity reactions (過敏反應分類)'
   - 'Hypersensitivity reactions'
@@ -70,7 +76,7 @@ tags:
 
 ## Summary
 
-Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -126,9 +132,25 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med5-book6-ch05]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch04]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch06]]
+- [[sources/med5-book6-ch02]]
 
 ## Key Details From Sources
 
+- 4. 診斷:X 光,可照雙側 AP view(看兩側 top of coracoid 到 bottom of clavicle 距離的 差異)、axillary lateral view(看有無向後側位移,type IV)。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- | 分類 | 敘述 | 治療 | |----------|----------------------------------------------------------|----------------| | Type I | Acromioclavicular (AC) ligamentsprain 但 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament 卻完整 | | | Type II | AC ligament 撕裂,AC 關節半脫位,且 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament sprain | | | Type III | A Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- (D) 根據 Neer's classification,在第二型鎖骨遠端骨折(type II distal clavicular fracture)中,喙鎖韌帶(coracoclavicular ligament) 會從近端骨段剝離 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- 2. 分類:目前最常用的是 Gustilo classification。 - (1) Type I: 傷口小於一公分。 - (2) Type II: 傷口介於一到十公分之間,且沒有大範圍軟組織受傷。 - (3) Type III: 十公分以上傷口,此外不論大小的槍傷,或是沾有泥土的傷口(髒的傷口)都必須歸在這類。Type III 傷口又可再細分成三種: - a. IIIA:傷口周圍軟組織足以覆蓋骨頭。 - b. IIIB:傷口周圍軟組織不足以覆蓋傷口。 - c. IIIC:除骨折與傷口外,同時伴有神經血管損傷。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (A) 根據 Gustilo-Anderson 分類,開放性傷口小於 1 公分,同時沒有嚴重的軟組織傷害者,為 type III injury Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (D) 對於 type I 及 type II 開放性骨折,在急診室時可選用第一代頭孢菌素 (first-generation cephalosporins)治療;對於 typeIII 開 放性骨折建議再加上氨基配醣體類抗生素 (aminoglycosides) Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- 3. 分類:股骨頸骨折最常用的分類是 Garden's classification,分成以下四種類型: - (1) 無移位(non-displaced)骨折(type I & II):兩者內固定之後預後差不多,產生 nonunion 及 avascular necrosis 的機率皆小於 10%。 - a. Type I:屬於 incomplete 的骨折(未完全裂開)。 - b. Type II: complete 的骨折,但沒有移位。(完全裂開) - (2) 移位性 (displaced) 骨折 (type III & IV): 內固定後產生 nonunion 的機率約 30~40%,產生 avas Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- (A) Garden type II 股骨頸骨折屬移位性骨折 (displaced fracture) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- 【 詳解 】(A) Garden type II 是 non-displaced;(C) 位移後 blood supply 已受破壞,年輕人還可嘗試 ORIF,至於老年人建議直接換人工關節;(D) non-union 和 avascular necrosis 是兩大最常見的合併症。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- (1) 原發性(90%): - a. Type I:停經後引起,稱之為停經後骨質疏鬆症(post-menopausal osteoporosis)。 - b. Type II: 年紀大造成鈣質吸收不足所引起,稱之為老年型骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (A) 11. 下列何者腎小管酸中毒症(renal tubular acidosis)會併發腎結石? 105(-)專 (A) Type I (B) Type II (C) Type III (D) Type IV Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (B) 10% 發生於 multiple endocrine neoplasia (MEN) type II 之病人 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -137,16 +159,6 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - ...椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - Type III:又稱為膽管囊性擴張(choledochoceles),發生於經過胰部的膽 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - Type I 最常見(佔 80~90%)、Type IV 第二常見。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- 4. 關聯疾病: - (1) Li-Fraumeni cancer susceptibility syndrome (with germline p53 mutations) • - (2) Neurofibromatosis type I • - (3) Beckwith-Wiedemann syndrome • Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- FIGURE 37-8 Classification of sacrococcygeal teratomas based on Altman's study: Type I (46.7% of reported cases) predominantly external, type II (34.7%) external with intrapelvic extension, type III (8.8%) visible externally but predominantly pelvic and abdominal, type IV (9.8%) entirely presacral. (Adapt Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- ...黏液細胞 (mucous cells)、漿液細胞 (serous cells) 和神經內分泌細胞 (neuroendocrine cells called Kulchitsky cells)。 - (2) 肺泡(氣體交換單元): - a. Type I pneumocytes 佔總肺泡上皮細胞 40%,覆蓋 95% 肺泡表面,而此細胞 無再生能力,主要負責氣體交換。 - b. Type II pneumocytes 佔總肺泡上皮細胞 60%,僅覆蓋 3% 肺泡表面,細胞內含脂肪包涵體(lipid inclusion bodies),並製造表面張力素(surfactant)和特殊脂蛋白(dipalmitoyl-lecithin),以降低表面張力。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (9) 過敏性肺炎 (Hypersensitivity pneumonia): 吸入性過敏原 (Inhaled antigens)、農夫肺 (Farmer's lung, actinomycosis)、蔗渣沉積症 (Bagassosis, sugar cane)、麥田工人 (Malt workers, *Aspergillus* spp.)、棉屑沈著病(或稱棉屑肺,Byssinosis, cotton-dust asthma, cotton-mill fever)。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 4. 横隔裂孔疝氣(hiatal hernia)分 4 型:以 Type I 最常見,而 Type II & III 通常較為 難治療且常合併急性或慢性阻塞症狀。即使有橫隔裂孔疝氣也不代表有 GERD,而 也不一定需要手術矯正,大多數病人沒有症狀也無需治療。 - (1) Type I (sliding hiatal hernia): 因橫隔食道韌帶未將 GE junction 固定在腹腔內,而造成賁門在腹腔和後縱隔間滑動。為最常見的一型。(圖三 A) - (2) Type II(paraesophageal h Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (5) 食道攝影(sophagogram):利用口服顯影劑配合 X 光照相,如考慮手術或是症狀和預期反應不同時,需進行此檢查。可以評估橫隔疝氣情況,觀察 GE junction 是否會回到腹腔,以及評估食道狹窄下之逆流情形(尤其 pH monitoring 受狹窄干擾而結果和預期不符者),也可以評估其他結構異常,如:腫瘤、憩室、食道旁橫隔疝氣(Type II & III)。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (A) sliding hiatal hernia(type I)常伴隨胃酸逆流之症狀 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (D) 4. 下列何項是分辨高位無肛病 (high type imperforate anus ) 或低位 101( ) 專 無肛病 (low type imperforate anus ) 最重要的方法 ? 醫五 -16 - (A) 倒位攝影 (invertogram) - (B) 電腦斷層 - (C) 核磁造影 - (D) 肉眼觀察 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 2. Klatskin tumor 可利用 Bismuth classification, 分成 types I 到 type IV。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- | Type I | 腫瘤位於右肝管與左肝管交界以下 | PRO (July 1900) | |----------|-----------------|-----------------| | Type II | 腫瘤侵犯至右肝管與左肝管交界處 | | | Type III | 腫瘤侵犯至左肝管或右肝管 | | | Type IV | 左右肝管皆受到腫瘤的侵犯 | | Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 
 ## Clinical Caveats
 

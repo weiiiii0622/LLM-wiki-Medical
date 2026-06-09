@@ -27,6 +27,11 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med5-book6-ch10]]"
 aliases:
   - 'NSAIDs (非類固醇消炎藥)'
   - 'NSAIDs'
@@ -41,7 +46,7 @@ tags:
 
 ## Summary
 
-抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +73,24 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med5-book6-ch04]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch06]]
+- [[sources/med5-book6-ch10]]
 
 ## Key Details From Sources
 
+- 5. 治療: - (1) 保守治療:NSAID, electric stimulation, bisphosphonate, shockwave (under investigation)。 - (2) 外科治療: - a. Before collapse (FICAT I & II) core decompression, grafting procedures (補骨頭)。 - b. After collapse: 做人工關節。 - (a) FICAT III:hemiarthroplasty(當還沒影響到 acetabular 時可以考慮)。 - (b) FICAT IV: total hip arthroplasty (已影響到 acetabular,則須使用全人工關節)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- (A) 僅以非類固醇抗發炎藥物(non-steroidal anti-inflammatory drugs, NSAIDs)治療 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- c. 目前治療標準為 DMARDs (Disease-modifying anti-rheumatic drugs) 合併抗發炎藥物 (NSAID, steroid)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- c. 目前治療為 DMARDs (Disease-modifying anti-rheumatic drugs) 合併抗發炎藥物 (NSAID, steroid)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- d. 目前治療為 DMARDs (Disease-modifying anti-rheumatic drugs) 合併抗發炎藥物 (NSAID, steroid)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- a. 良性骨瘤。好發於五歲到十五歲的年輕人或小孩,男稍多於女(約2:1)。 常在晚上感到劇烈疼痛(night pain),如果服用**阿斯匹靈、NSAID**等消炎劑 可明顯減緩疼痛。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (D) 骨樣骨瘤(osteoid osteoma)好發於關節及長骨骨(epiphysis) 【詳解】(B) 大部分都是良性,只有少部分會有惡性變化,如無症狀不需要治療;(C) osteoblastoma 與 osteoid osteoma 都可以 NSAID 緩解,osteoblastoma 如果持續追蹤腫瘤沒有變大,可以 考慮暫時不用治療,但是如果藥物治療效果不佳則需手術治療 (包含刮除術或腫瘤切除);(D) Vertebra(最多)、sacrum、long bone 的 diaphysis 較多。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (C) 骨樣骨瘤(osteoid osteoma)的局部疼痛,可用非類固醇抗 發炎藥物 (nonsteroidal anti-inflammatory drugs) 來緩解 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (1) 保守治療,給予 NSAID、局部注射類固醇 抑制發炎。 Source: [[sources/med5-book6-ch06|己、手部]].
+- ...ulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the s Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - b. 尿酸(uric acid)結石:占結石 5%,好發於男性,特別是有痛風病史、骨髓增生症(myeloproliferative diseases)、快速減重、用 cytotoxic 藥物治療惡性腫瘤的人。常因脫水或攝取高 purine 食物,導致尿中尿酸增加(故尿 pH 0.5 cm 僅 15% 排出率。(因為輸尿管 徑 $0.3\sim0.5$ cm) - (2) 結石位置: 結石在輸尿管下段 50%、中段 25%、上段 10% 排出率。(因為輸尿管長 25 cm) - (3) 併用藥物:NSAID (標準一線)、alpha-blocker (增加 45% 排出率,小心血壓,可用 Urief 或 Harnalidge)。另外使用副交感拮抗劑 (antimuscarinics) 也可緩解症狀加速結石排出。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 2. 藥物引發:長期 NSAID、Aspirin、Plavix 或合併 steroid 使用容易造成消化性潰瘍。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -79,16 +99,6 @@ tags:
 - ...的患者。賀爾蒙載體陽性的患者,表示患者的乳癌細胞會受到體內的女性賀爾蒙刺激而生長,因此可經由給予抗女性賀爾蒙,抑制殘留癌細胞的生長。包括 Tamoxifen、芳香環酶抑制劑、LH-RH agonist。 - a. Tamoxifen: 為非類固醇的抗雌性激素。 - (a) 作用機轉: - i. 與雌激素接受體結合,抑制內生性雌激素作用。通常需持續服用5年, 5年後產生抗體,不需繼續使用。 - ii. 適用於停經前婦女,為第一線用藥。若 Tamoxifen 無效,可改用芳香 環酶抑制劑 (Aromatase Inhibitor)。 - (b) 副作用: - i. 熱潮紅。 - ii. 噁心、嘔吐。 - iii. 陰道出血。 - iv. 增加子宮內膜癌的機率。 - v. 增加靜脈栓 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - ii. 停經前與停經後的雌激素來源不同。停經後,體內利用**芳香環酶**將雄性激素轉換成雌性激素,所以可藉由抑制**芳香環酶**導致雌激素濃度下降。可分為非類固醇類芳香環酶抑制劑如 Anastrozole(Arimidex)、Letrozole(Femara)與類固醇類芳香環酶抑制劑如 Exemestane(Aromasin)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - b. 早產兒可注射 indomethacin,能使約 70~90% 的動脈導管關閉。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- 3. Subacute (de Quervain) thyroiditis: - (1) 亞急性甲狀腺炎,好發於年輕女性,往往伴隨著上呼吸道病毒感染後發生。 - (2) 前期濾泡細胞遭浸潤破壞,而釋放出大量 T3、T4,造成甲狀腺機能亢進,之後 會因為回饋機制 TSH 分泌下降而變為甲狀腺機能低下,最後回復正常。 - (3) 病人甲狀腺不規則腫大,感到頸部甲狀腺區域疼痛感,且會輻射至下頷、耳朵 或後頸部,甚至前胸和手臂。 - (4) 可給予 NSAID,多數病患會在幾個禮拜內自行緩解。如果口服藥物數月後仍無效,須考慮 thyroidectomy。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 4. 常見引起固定性藥物疹之藥物為 Tetracyclines、NSAID、磺胺類藥物 (sulfadrugs)、Aspirin、Barbiturates。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- 6. 治療:一般給予支持性療法,給予 Aspirin、NSAID、口服或局部注射類固醇、臥床抬腿、穿彈性襪皆有不錯效果。如果是潛在病因或感染源所造成,則優先處裡,給予抗生素治療。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- 【詳解】(A)是 tetracycline 類藥物,皮膚常見副作用是畏光和色素沉積。(B)為化療藥物,常見皮膚副作用為指甲色素沉積以及如圖所示之肢端紅腫症(acral erythema syndrome),其餘像是cyclophosphamide、fluorouracil、methotrexate 皆會有此副作用。另外 Tyrosine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C)為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D)為NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- (4) 奎寧(Hydroxychloroquine):對於皮膚紅疹、無法被 NSAID 控制的關節疼痛 有效。長期使用可減少 SLE 復發及對腎臟、中樞神經的侵犯。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- ...osine kinase inhibitor 類的標靶藥物(Iressa、Tarceva)則會造成皮膚出現痤瘡樣紅疹(acneiform rash)的副作用。(C) 為鈣離子阻斷劑,頭痛和周邊水腫是常見副作用,較少有皮膚副作用。(D) 為 NSAID,副作用主要為腸胃道方面。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (1) 內科治療:臨床上有症狀的早產兒,先限制水分攝取,必要時考慮利尿劑使用。 若無效則注射 indomethacin 或 ibuprofen 促使 PDA 關閉。對於小的 PDA 或是沒 有症狀的早產兒,一般先觀察,因為有可能自然關閉。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 適合接受何種治療? 醫四 -23 - (A) 注射腎上腺素 (epinephrine) - (B) 給予氧氣 - (C) 給予抗組織胺 - (D) 給予非類固醇抗發炎劑(NSAID) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 5. 治療:治療 Bartter syndrome 病人,最重要在於預防脫水狀態以及矯正低血鉀 (用高劑量 KCl 同時治療低血氯問題)。藥物治療方面,使用 indomethacin (a prostaglandin inhibitor)。只要照顧得當,大部分的 Bartter syndrome 病人預後算是良好的;極少數病人會走向慢性腎衰竭。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 4. 治療:治療方向為矯正電解質異常如低血鉀與低血鎂。Gitelman syndrome 不需 indomethacin 治療。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 
@@ -97,7 +107,9 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/de-quervain-tenosynovitis|De Quervain tenosynovitis (狄奎凡氏腱鞘炎)]]
+- [[conditions/epicondylitis|Epicondylitis (肱骨上髁炎)]]
+- [[conditions/osteoid-osteoma|Osteoid osteoma (骨樣骨瘤)]]
 
 ## Follow-up
 

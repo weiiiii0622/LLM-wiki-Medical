@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book4-ch10]]"
   - "[[sources/med5-book4-ch13]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Endoscopic band ligation (內視鏡靜脈曲張結紮)'
   - 'Endoscopic band ligation'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道靜脈曲張出血與預防再出血的重要內視鏡治療。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med5-book4-ch10]]
 - [[sources/med5-book4-ch13]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (C) 剖腹手術結紮髂外動脈 (external iliac artery ligation) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (a) 手術:手術成功率 90%,成功後可提升 70% 的精蟲品質,增加 30% 受孕機率。依照畫刀位置可分為: - i. High retroperitoneal approach (Palomo), 俗稱 high ligation。 - ii. Inguinal approach (Ivanissevich) • - iii. Subinguinal approach (Marmar) • Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (A) 瘻管的結紮(ligation),最好在氣管與食道瘻管黏膜之交界處 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - (B) 疝氣的手術治療可在內環 (internal ring) 的位置做疝氣囊高 位結紮術 (high ligation) Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].

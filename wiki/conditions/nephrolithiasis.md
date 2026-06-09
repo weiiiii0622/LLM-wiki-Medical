@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Nephrolithiasis (腎結石)'
   - 'Nephrolithiasis'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿路結石可造成腎絞痛、血尿、感染或阻塞性腎損傷。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (A) 2. 形成含鈣腎結石 (calcium nephrolithiasis) 最常見的原因有那些? ①尿中鈣離子濃度增加 ②尿中尿酸濃度上升 ③尿中草酸鹽 (oxalate) 濃度上升 ④尿中檸檬酸鹽 (citrate) 濃度上升 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (c) 術後: - i. 併發症:常有血尿、術後一周內會緩解觀察即可;若有嚴重疼痛或發 燒需查原因:0.5%人產生血腫、另外也有可能是結石打碎卻一起堵 在輸尿管導致。 - ii. 三個月內結石清除(stone free)率:整體來說 75%。會受到結石大小 與位置影響。 - (i) 結石≥ 1.5 cm 的清除率:腎盂 75%、下腎盞 35%。 - (ii) 結石 2 cm 腎結石首選。若較複雜結石可能需數次 PCNL 來清除結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (A) 2. 形成含鈣腎結石 (calcium nephrolithiasis) 最常見的原因有那些? 109( ) 專 ①尿中鈣離子濃度增加 ②尿中尿酸濃度上升 ③尿中草酸鹽 醫五 -64 (oxalate) 濃度上升 ④尿中檸檬酸鹽 (citrate) 濃度上升 - (A) (1)(2)(3) Source: [[sources/med5-book5-ch05|戊、結 石]].
 - ...尿液 | 醫五-64 | | | (low urine pH) | | | | (B) 感染性結石 (infection stone) 在酸性尿液 (low urine pH) 中 | | | | 較易形成 | | | | (C) 成年男性腎結石發生率較成年女性高 | | | | (D) 尿路結石的發生率與體重和身體質量比(BMI)有關 | | | (CD) 9 | 9. 下列關於胱氨酸結石(cystine stone)的敘述,何者錯誤? | 105(二)專 | | | (A) 自體隱性遺傳(autosomal recessive) | 醫五 -64 | | | (B) 發生率為 1~2% | | | | (C) 預防結石生長及復發要酸化尿液 | | | | (D) 沒有已知的 Source: [[sources/med5-book5-ch05|戊、結 石]].

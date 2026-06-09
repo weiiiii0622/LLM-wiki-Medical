@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Renal cell carcinoma, RCC (腎細胞癌)'
   - 'Renal cell carcinoma, RCC'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-成人最常見原發腎臟惡性腫瘤，可有血尿、腰痛、腫塊或 paraneoplastic syndrome；局部病灶以切除為主。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+成人最常見原發腎臟惡性腫瘤，可有血尿、腰痛、腫塊或 paraneoplastic syndrome；局部病灶以切除為主。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- ...adjuvant C/T ) → OP → C/T。 | | | (D) 37. | 在轉移性骨腫瘤中,何者造成的病灶,最常使患部骨骼的骨密度 | 94(一)專 | | ` , | 增高? | 外一-53 | | | (A) 腸癌 (B) 腎細胞癌 | | | | (C) 甲狀腺癌 (D) 前列腺癌 | | | | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考慮 | 71 00 | | | osteoid osteoma | | | | (C) 腰椎解離(spon Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (1) 腎臟實質腫瘤 (renal parenchymal neoplasm): - a. 良性腫瘤 (benign): - (a) 嗜酸細胞瘤 (oncocytoma) (占所有腎腫瘤 4%)。 - (b) 血管肌肉脂肪瘤(angiomyolipoma, AML)=畸形瘤(hamartoma)。 - b. 惡性腫瘤 (malignant): - (a) 腎細胞癌 (RCC): 85%。 - (b) 轉移癌 (secondary tumor): 15%。 - (c) 兒童 Wilms' tumor。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (1) 腎細胞癌 (renal cell carcinoma): - a. 流行病學:最常見的原發性腎臟惡性腫瘤(85%);佔成人所有惡性腫瘤不到5%。好發於55歲男性黑人(男女比2:1,黑人>白人>亞洲人)。 - b. 病因:分為遺傳性或偶發性兩類。 - (a) 遺傳性:體染色體顯性基因 - i. Von Hippel-Lindau (VHL) disease: 在多個器官產生腫瘤,包括小腦血管母細胞瘤、視網膜血管瘤、雙側腎透明細胞癌。 - ii. Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - i. 膀胱鏡檢(cystoscopy): 通常是因血尿而做檢查,但大部分腎細胞癌 用影像檢查即可診斷。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].

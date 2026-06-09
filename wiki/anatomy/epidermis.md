@@ -27,6 +27,9 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Epidermis (表皮)'
   - 'Epidermis'
@@ -41,7 +44,7 @@ tags:
 
 ## Summary
 
-表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +71,17 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- 4. 最常見開放性骨折的致病菌:Staphylococcus aureus (常見的表皮菌),大約 75%。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- ...下列何者正確? 103( 二 ) 專 | (C) | | (A) Candida (B) Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 103(ニ)専 | (C) | | 膏固定後回家休息,晚上睡覺時覺得右腳越來越痛,他吃了止痛 醫五-74 | (-) | | 藥後,症狀稍有緩解,但仍然持續疼痛,下列醫療處置何者最 | | | 正確? | | | (A) 加重止痛藥劑量可使病情改善 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- 4. 症狀 (5P): - (1) Pain:疼痛。 - (2) Paresthesia:感覺異常。 - (3) Paralysis: 肢體癱瘓。 - (4) Pallor color:表皮呈現蒼白(比較嚴重的程度);一般呈現粉紅色。 - (5) Pulseless: 脈搏摸不到(比較嚴重的程度); 一般脈搏可摸到。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- | 類型 | 分布 | 功能 | |----|-----------------|-------------| | | 皮膚、硬骨及血管等多數結締組織 | 抵抗壓力 | | | 透明軟骨、彈性軟骨 | 抵抗間斷的外來壓力 | | | 血管、新生兒皮膚及肉芽組織 | 維持膨脹器官的整體結構 | | 四 | 皮膚、血管 | 支持和過濾 | | 五 | 皮膚、細胞基底膜 | | | 六 | 皮膚、透明軟骨 | | | 七 | 皮膚、胎盤 | | | 八 | 表皮細胞基底膜 | | | 九 | 血管 | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (C) 4. 一位 65 歲男性,接受左側髖關節人工關節置換,3天後,突發現右側下肢有腫大的情形。身體檢查時,病人心跳不規律,有心房震顫現象,右側股動脈及足背動脈脈搏都很清楚且和左側沒有差別,右小腿肌肉觸診時有腫脹感,其周圍測量起來,比左小腿大2公分。表皮顏色及溫度,左右兩腿沒什麼差別,將病人右腳掌作向背面彎曲(dorsiflexion)的動作時,病人右小腿的肌肉會疼痛,但左側則無此反應。依前敘述,最可能的診斷為何? Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (a) 在皮質以外(含 perinephric、paranephric abscesses)的膿瘍:大部分是葡萄球菌 (Staphylococci)。從感染的表皮→血液 循環→腎。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (4) 正常尿道旁菌叢:不易引起 UTI,但可能會污染尿液檢體以致於被培養出來。包括厭氧菌(Anaerobic bacteria)、乳酸桿菌(Lactobacilli)、棒狀桿菌(Corynebacteria)、鏈球菌(Streptococci,但不包括腸球菌 Enterococci)、和表皮葡萄球菌(Staphylococcus epidermidis)。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (1) 理學檢查:視診會陰部初步評估肛門是否有閉鎖及程度。 - a. 外觀上發現表皮瘻管 (perineal fistula),即診斷為低位閉鎖。 - b. 若外觀無發現表皮瘻管,則為中高位閉鎖。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -84,11 +95,6 @@ tags:
 - 1. 神經表皮細胞腫瘤(tumor of neuroepithelial tissue): - (1) 星狀細胞瘤 (astrocytoma):星狀細胞 (astrocyte)。 - (2) 寡樹突神經膠瘤(oligodendroglioma):寡樹突細胞(oligodendrocyte)。 - (3) 室管細胞瘤 (ependymoma):室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ## P. 表皮樣囊腫 (Epidermoid tumor) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- 【詳解】(A) 電流熱效應為 I2Rt(電流安培數平方 × 電阻 × 受電時間),電阻越高產生的熱能越高,對組織的傷害越高;(C) 肌球蛋白會對腎小管的表皮細胞造成直接性的傷害,且肌球蛋白在體液不足或酸性環境之下,易在腎小管中形成結晶阻塞腎小管,因此橫紋肌溶解症容易造成急性腎衰竭,大量輸液目標為 3mL/kg/hr;(D) 在 electrically-induced ocular injury 中 cataract 的機率只有 1~6%,總體不可能到 30%。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- ...膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic episode)在 DSM-IV-TR 的診斷準則(criteria)之敘述,下列何者錯誤? (A) 膨脹的自尊心或自大 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 1. 皮膚覆蓋全身,是身體最大的器官,約為 1.8 m² BSA (body surface area),分為表皮 (epidermis)、真皮 (dermis) 和皮下組織 (subcutaneous tissue)。另外皮膚上有毛囊、指甲、皮脂線及汗腺等附屬器官 (appendages)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- 2. 表皮:位於皮膚最上層,厚度從最薄的眼皮 0.04 mm 至最後的足底 1.5 mm 不等,由表面而下可分為五層:角質層、透明層、顆粒層、棘狀細胞層和基底層。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
-- (1) 角質層(stratum corneum):由 25~30 排扁平死細胞(分化完成之角質細胞)組成,細胞間質為膽固醇、神經醯胺(ceramide)和游離脂肪酸。為人體對付來自外界各式各樣物理、化學性刺激,如乾燥、冷熱、紫外線等的天然屏障。此層含有 15~20% 由皮膚自行產生的天然保濕因子(Natural Moisturizing Factor)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 
 ## Clinical Caveats
 

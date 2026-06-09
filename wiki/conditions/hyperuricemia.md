@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Hyperuricemia (高尿酸血症)'
   - 'Hyperuricemia'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿酸升高與痛風、腎結石及代謝風險相關。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (C) 1. 關於痛風(gout)及偽痛風(pseudogout)之敘述,下列何者錯誤? (A) 痛風性關節炎主要是尿酸(uric acid)沈積,而偽痛風又名 calcium pyrophosphate dihydrate(CPPD)deposition disease, 主要是焦磷酸鹽沈積為主 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (A) 在急性發作時,血清中尿酸(uric acid) 值一定增高 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (C) 長期高尿酸血症的患者,常可見到半月軟骨(meniscus) 發 生軟骨鈣質沉著病(chondrocalcinosis) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (1) KUB: 依成分不同有不同顯影。 - a. 可看到(radiopaque):80%結石,含金屬離子(Ca)愈多者愈明顯。 - b. 模糊 (faintly opaque): 磷酸胺鎂 (struvite)、胱胺酸 (cystine) 結石。 - c. 看不到 (radiolucent): 尿酸 (uric acid)、黃嘌呤 (xanthine)、indinavir 結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - d. 尿酸(Uric Acid):合成尿酸結石。濃度受食物(海鮮)影響大。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (1) 含鈣結石 (calcium calculi): 占結石 80%。 - a. 含鈣結石種類:包括磷酸鈣、草酸鈣、高尿酸尿鈣(hyperuricosuric calcium) 結石等。(沒有碳酸鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric Source: [[sources/med5-book5-ch05|戊、結 石]].
@@ -70,9 +75,6 @@ tags:
 - ...mphocyte 12.25%,血小板 319,000/mm³,白血球鹼性磷酸酶(LAP)活性 28,LDH 1,148 U/L,AST 50 U/L,ALT 23 U/L。下列何項檢查對診斷此男士白血球過多症的原因最有幫助? - (A) Uric acid - (B) Hepatitis B and C serology - (C) X-ray of the right big toe - (D) Bone marrow chromosome analysis Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - 【詳解】leukemoid reaction 和 leukemia 區別除了 LAP score 之外,就是 BM aspiration。此外本 case 其周邊血液的 basophil 高達 4.5%,要想到 CML。所以做骨髓穿刺是合理的。題目是問白血球過多症的原因鑑別,如果是問大拇趾關節處紅腫疼痛的原因診斷,則抽uric acid 是合理的。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - 3. 臨床表現: - (1) 細胞內的離子釋出→血中 K ↑、Uric acid ↑;血中 PO4 ↑所以血中 Ca ↓ - (2) 腎衰竭 (Urate nephropathy) Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- 4. 治療: - (1) Allopurinol 加積極的 IV hydration 治療、以 NaHCO3 鹼化尿液以利尿酸排出。 - (2) Rasburicase 可在腎衰竭情況下降低 uric acid。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (3) Cyclosporin (Sandimmune®): 直接抑制 IL2 合成,而減少對 T 細胞的活化,不會有骨髓抑制;常見副作用包括高血壓、高血鉀、高尿酸血症、牙齦肥大 (Gingival hypertrophy) 等。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (B) 尿酸 (uric acid) Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

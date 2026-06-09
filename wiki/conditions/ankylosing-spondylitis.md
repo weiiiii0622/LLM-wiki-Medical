@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch05]]"
   - "[[sources/med3-book4-ch07]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch21]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Ankylosing spondylitis, AS (僵直性脊椎炎)'
   - 'Ankylosing spondylitis, AS'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,13 @@ seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 �
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch21]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- 1. 關節炎可以分成 inflammatory (seropositive :rheamatoid arthritis 和 seronegative: Ankylosing spondylitis, psoriatic arthritis, reactive arthritis) 和 non-inflammatory (osteoarthritis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- #### (3) Ankylosing spondylitis: Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- b. 特徵為 SI joint 和 spine 的慢性發炎,如果 spine 的 vertebral body 時間久了 fusion,就會形成 bamboo spine。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 3. 自體免疫疾病(ankylosing spondylitis)。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - c. Peripheral arthritis/ankylosing spondylitis 於術後可改善,但 primary sclerosing cholangitis 術後無法改善。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - (B) ankylosing spondylitis Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].

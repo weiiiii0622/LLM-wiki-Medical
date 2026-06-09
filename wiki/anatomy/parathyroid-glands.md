@@ -31,6 +31,7 @@ sources:
   - "[[sources/med5-book2-ch22]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Parathyroid glands (副甲狀腺)'
   - 'Parathyroid glands'
@@ -45,7 +46,7 @@ tags:
 
 ## Summary
 
-副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+副甲狀腺分泌 PTH，調控鈣磷平衡。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +77,13 @@ tags:
 - [[sources/med5-book2-ch22]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (2) 次發性(10%): - a. Type III:由於其他器官的原因造成,如內分泌疾病(包括甲狀腺、副甲狀腺或腎上腺等功能異常)、營養不良、血液疾病、藥物以及其他疾病等原因引起之骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- b. 促成骨 (bone-forming medication): 副甲狀腺素 (PTH),可以使 osteoblast 活性上升,增加骨質密度,但此類藥品要間斷使用 (intermittent use),如持續使用 (continuous use) 反而會有蝕骨作用。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- #### 2. 副甲狀腺機能亢進的實驗數值變化: Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...又稱「副腫瘤綜合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占鈣結石成因 15%。較常見的原因是攝取高 purine 食物、內生性尿酸分泌過量,引起高尿酸尿鈣(hyperuricosuric calcium)結石。(注意:這跟尿酸 (uric acid) 結石不一樣,一個含鈣一個不含鈣,尿 pH 值一個 > 5.5 (因為是產生 monosod Source: [[sources/med5-book5-ch05|戊、結 石]].
 - B. 副甲狀腺機能亢進(Hyperparathyroidism, HPT) 220 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -94,9 +99,6 @@ tags:
 - ...eau sign: 以血壓計 cuff 包裹手臂,充氣至其收縮壓或以上,維持 3 至 5 分鐘,則因缺血導致 carpal spasm 之出現。 - b. 原因要藉由 PTH 和血磷鑑別診斷,可能原因為維生素 D 缺乏、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (A) 副甲狀腺機能亢進(hyperparathyroidism)是高鈣血症 (hypercalcemia)的一個常見原因 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...tica" with parkinsonian features) | | Infectious | Postencephalitic PD | | | | | Neurosyphilis | | | | Metabolic | Hypoparathyroidism or pseudohypoparathyroidism with basal ganglia calcifications Non-Wilsonian hepatolenticular degeneration | | | | Drugs | Neuroleptics (typical antipsychotics) \ Some atypical antipsychotics | | | | (常併有 | Antiemetic Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...| | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticides, solvents | | | | | | Heavy Metals | Lead, manganese, me Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- ...cutaneous candidiasis): 為慢性之念珠菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

@@ -49,6 +49,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Smoking cessation (戒菸)'
   - 'Smoking cessation'
@@ -63,7 +64,7 @@ tags:
 
 ## Summary
 
-心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +113,11 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- c. 生活型態改變:BMI 不宜低於 18.5 (太瘦身體體脂低,撞擊時相對保護力下降)、戒菸酒。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 5. 勃起功能異常 (erectile dysfunction (ED) = impotence 陽痿): - (1) 流行病學:臨床上最常見的男性性功能障礙,40 歲以上有25%人有ED。另外常因其它因素引起:抽菸者40%有ED、糖尿病者60%有ED、高血壓者70%有ED、冠狀動脈疾病80%有ED、周邊血管病變90%有ED。 - (2) 危險因子:年齡、抽煙、喝酒、心血管病史、代謝症候群。 - (3) 臨床表徵: - a. 症狀:ED 定義是沒有辦法達到 / 維持陰莖的勃起硬度以進行一次滿意的性 行為。 - b. 實驗室檢查:空腹血醣值(排除糖尿病及糖尿病性神經病變的可能)、血中 睪固酮濃度、血中泌乳激素(prolactin)濃度。 - c. 特 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (e) 藥物方面 (drug-induced): 抗精神病藥物 (antipsychotics)、抗憂鬱劑 (antidepressants)、降血壓劑 (β-blocker、利尿劑;α-blocker 最不易導致 ED)、抽菸、酒精 (一天酒精攝取>15 g)、胃酸抑制劑 (H2 blocker)、 女性荷爾蒙 / 抗男性賀爾蒙。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...m (D) centromere | | | (D) | 17. | 下列何項危險因子不會影響陰莖海綿體血流量(penile blood flow, | 103(一)專 | | | | PBF)? | 醫五 -70 | | | | (A) 抽菸 (B) 糖尿病 | | | | | (C) 高血壓 (D) 心因性 (psychogenic ) 勃起功能障礙 | | | | | 【詳解】(D) 心因性不影響血管。 | | | (C) | 10 | 下列有關遲發型性腺功能低下症(late onset hypogonadism)的敘 | 102(二)專 | | (C) | 10. | | B五-68 | | | | 述,何者正確? | 西五 -00 | | | | (A) 睪固酮於晚 Source: [[sources/med5-book5-ch08|辛、男性學]].
@@ -132,7 +135,6 @@ tags:
 - ...詳解】粗針切片病理為非典型腺管增生的病人,約有 1/3 為惡 | | | 性,須以 surgical biopsy 的方式將病灶切除進行 biopsy 作確診。 | | | (B) 6.35 歲女性,來診主訴無痛性乳頭出血性分泌,病人過去無抽菸 101(ニ) | 專 | | 喝酒習慣,沒有懷孕過往史,理學檢查無可觸摸腫瘤,腋下無淋 醫五-7 | | | 巴結腫大,以下何者是最可能的診斷? | | | (A) Paget's disease | | | (B) intraductal papilloma | | | (C) ductal carcinoma | | | (D) fibrocystic disease | | | 【詳解】關鍵字為無痛性乳頭出血性分泌,考慮 int Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - 2. 危險因子:糖尿病、高血壓、高膽固醇、高三酸甘油酯、高胱胺酸血症、抽菸、老年、男性、家族史。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- 【 詳解 】有 pain、pale、pulseless 等 6 P 症狀,輔以病人的 underlying ( 高血壓、抽菸 ),懷疑是急性動脈阻塞,此時首選 即為 embolectomy 或 thrombectomy。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 
 ## Clinical Caveats
 

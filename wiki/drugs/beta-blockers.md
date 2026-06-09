@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch09]]"
   - "[[sources/med3-book1-ch04]]"
@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Beta blockers (乙型交感神經阻斷劑)'
   - 'Beta blockers'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低交感刺激與心臟做功；心衰竭需選有證據者並慢慢加量。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (A) 4. 一位 35 歲女性,因車禍至急診處,左大腿非開放性股骨骨折。 經急診住院,預計第二天進行骨科手術。清晨病人非常焦慮,發 燒 38.7℃,心跳約 110 /分,頸部甲狀腺約三度腫大。此時最 好的檢查及治療不包括下列何者? - (A) 儘快施行骨科手術 - (B) 抽血檢驗 T3、T4、TSH - (C) 冰氈及退燒藥 - (D) beta blockers, corticosteroid 靜脈注射 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (C) 腎上腺手術前準備藥物,以長效型 bisoprolol 為首選 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...| 急性 | 改變生活方式; | Sumatriptan, Ergotamine | 100% 氧氣 | | 治療 | Antidepressant | Novamin | Sumatriptan, Ergotamine | | 慢性 | β blocker \ | $\underline{\mathbf{A}}$ nticonvulsant, $\underline{\mathbf{\beta}}$ blocker, | CCB | | 預防 | 肌肉鬆弛劑 | CCB, Antidepressant | 鋰鹽 (Lithium) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - 3. 治療: 改變生活方式; 抗憂鬱劑、β blocker、肌肉鬆弛劑、止痛藥。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
@@ -70,7 +73,6 @@ tags:
 - ...臟衰竭症狀 | 內科治療後, | | 定義 | (CAD, HTN, DM) | 心肌梗塞、瓣膜性心臟病 | | 仍有症狀 | | 治療 | 降低 Afterload | 減少心臟做功 降低 Preload | | | | | 衛教、 | β blocker(僅含 Carvedilol, | D: .: D: .: | > 0+4.10.1-b | | 藥物 | ACEI (if HTN) | Bisoprolol, Metoprolol) | Diuretics, Digoxin | 心臟移植 | Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 - \*ABCD 的記憶方法: (A) 僅有危險因子先用 A (ACEI) → (B) 造成結構異常再用 B (β blocker) → (C) 導致臨床症狀用 D (Digoxin, Diuretics) → (D) 內科無法控制考慮心臟移植 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 - 心肌因某種原因受傷害→導致左心室重塑(包含腔室擴張 ± 肌肉肥大)→ RAA 系統 啟動(Angiotensin 使血管收縮、Aldosterone 留鈉)且交感神經系統活化以增加心收縮及心輸出→細胞毒性、纖維化、心律不整→心輸出下降、肺及周邊組織積水。[編按:病生理的惡性循環與治療相關,用 ACEI 對抗血管收縮、用 β blocker 對抗交感神經系統活化、用 Aldactone 或利尿劑改善留鈉及水腫。] Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- ...-------------------------------------------------------|--| | Narrow regular (如 PSVT) | Adenosine 6 mg → 12 mg iv push; β blocker ( 台灣無 iv form 藥物 ); | | | → ABCD | CCB = Verapamil = Isoptin ® 2.5~5 mg ( 半支∼一支 ) iv push 2 分鐘; | | | | Digoxin 0.25~0.5 mg ( 半支~一支 ) iv drip | | | Narrow irregular (如 Af) | 好心(心臟功能正常):Bblocker、CCB = Diltiazem = Herbess Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 
 ## Clinical Caveats
 

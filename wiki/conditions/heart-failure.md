@@ -51,6 +51,7 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book6-ch08]]"
 aliases:
   - 'Heart failure (心臟衰竭)'
   - 'Heart failure'
@@ -65,7 +66,7 @@ tags:
 
 ## Summary
 
-心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +117,11 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book6-ch08]]
 
 ## Key Details From Sources
 
+- ...on → residual phase)和 Herring classification(又稱 Lateral Pillar System, lateral Pillar 的位置是下圖中的黑色區域,高度影響愈多表示缺血性壞死愈嚴重。如下圖:stage A:lateral pillar 高度不受影響;stage B:lateral pillar 高度 > 50%;stage C:lateral pillar 高度 女), capitellum 的 articular cartilage 和 subchondral bone 分離,常發生於需要 overhead weight bearing 的動作如投球,症狀為 elbow pain 和會有 locking 的可能,關節的活動度少受影響。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - The Eighth Edition Lung Cancer Stage Classification. Detterbeck, Frank C. et al. CHEST, Volume 151, Issue 1, 193-203. Source: [[sources/med5-book4-ch03|丙、肺]].
 - (B) 心衰竭 (heart failure) Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , kerosene, acetylene $\circ$ - (3) 腫瘤: - a. 淋巴轉移 (Lymphangitic spread)。 - b. 血循轉移(Hematogenous metastases)。 - c. 白血病(Leukemia)、淋巴癌(lymphoma)、支氣管肺泡肺腺癌(bronchiolo-alveolar cell cancer)。 - (4) 家族遺傳 (Congenit Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -136,7 +139,6 @@ tags:
 - (4) Stage B3: 腫瘤直接侵犯到或是緊貼著臨近器官。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (C) 冠狀動脈疾病(coronary artery disease)、高血壓和年齡的增加是發生手術後心臟衰竭的危險因素 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - ...覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? - (A) 體液過多 (fluid overload) - (B) 急性心衰竭 (acute heart failure) - (C) 成人呼吸窘迫症(ARDS) - (D) 膈神經受傷 (phrenic nerve palsy) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 【 詳解】fluid overload 和 acute heart failure 肺 臟應會有濕囉聲,acute heart failure 病人不會因 ventilator 就整個改善症狀,ventilator 的有無會造成症狀明顯差異,會懷疑是否是意識不清或 musculoskeletal 的問題,但病人意識清楚,且才剛開過冠狀動脈繞道手術,故可合理懷疑是 phrenic nerve injury 導致橫膈膜 paralysis。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 
 ## Clinical Caveats
 

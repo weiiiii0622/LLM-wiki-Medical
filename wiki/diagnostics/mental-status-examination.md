@@ -52,6 +52,7 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Mental status examination, MSE (精神狀態檢查)'
   - 'Mental status examination, MSE'
@@ -66,7 +67,7 @@ tags:
 
 ## Summary
 
-精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -118,9 +119,12 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (D) 9. 一位 38 歲男性跟朋友聚餐後騎機車與酒駕之轎車對撞,跌落排水溝中,造成全身多處外傷及骨折。經送往急診室,初步檢查生命跡象穩定,意識清楚,右小腿骨折處有一個 10 公分長的傷口,可以看到骨折的斷端。X 光檢查顯示右小腿中段脛骨及腓骨開放性骨折,右側股骨關節脫臼以及右側肱骨骨折。對其骨折及脫臼的各種處置,下列何者為最正確之敘述? Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (D) 緊急安排血管攝影,並安撫病人情緒 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 4. 無高潮症(anorgasmia):在有意識的性行為下,無法達到高潮,但夜間仍會有流精 (emission,精液累積滿溢流出)現象。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - a. 心理性 (psychogenic): - (a) 情緒焦躁 (performance anxiety): 性行為前就會過度緊張,造成心理壓力。 - (b) 關係緊張 (strained relationship):性伴侶間的關係緊張。 - (c) 性冷感 (lack of sexual arousal): 性伴侶在性行為中沒有反應、年齡相關的性冷感、慢性疾病相關的性冷感。 - (d) 精神疾病。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...) | 15. | 男性血中睪固酮(testosterone)濃度不足,較不會引起何種症狀 | 103(二)專 | | | | 或疾病? | 醫五 -69 | | | | (A) 性慾下降 (B) 勃起功能減退 | | | | | (C) 情緒低落 (D) 前列腺癌 | | | (B) | 16. | Y染色體那部分的基因缺損會造成男性精蟲活動力不良? | 103(二)專 | | | | (A) p arm (B) q arm | 醫五 -71 | | | | (C) p arm 和 q arm (D) centromere | | | (D) | 17. | 下列何項危險因子不會影響陰莖海綿體血流量(penile blood flow, | 103(一)專 | | | | Source: [[sources/med5-book5-ch08|辛、男性學]].
@@ -137,8 +141,6 @@ tags:
 - (C) 腹痛(abdominal pain) (D) 意識譫妄(delirium) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - ...- b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (B) 1. 一位 49 歲男性 B 型肝炎帶原者,到門診時意識清楚,其抽血檢查顯示 WBC: 4.16 K/μL; ALT: 59 U/L; BIL (T/D): 2.52/0.65 mg/dL; Alb: 4.3 g/dL; ALP: 100 U/L; Cre: 0.8 mg/dL; α-fetoprotein: 42.2 ng/ml; ICG(15): 46.9%; PT (INR); 12.1 sec (1.12)。電腦斷層顯示 - 2 公分腫瘤在第四小葉 (Couinaud segment IV)下線,沒有發現腹水。此人的肝功能的 Child-Pugh score 為幾分? (A) 5 (B) 6 (C) 7 (D) 8 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- 3. 症狀:腎結石、骨質疏鬆、高血壓、四肢無力、多尿、情緒不穩定。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- Symptomatic hyperparathyroidism - Fatigue - Pruritis - Bone pain or pathologic bone fracture - · Peptic ulcer disease - · Mental status changes - History of renal calculi Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 
 ## Clinical Caveats
 

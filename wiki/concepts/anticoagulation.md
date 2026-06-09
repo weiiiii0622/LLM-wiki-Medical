@@ -40,6 +40,8 @@ sources:
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Anticoagulation (抗凝治療)'
   - 'Anticoagulation'
@@ -54,7 +56,7 @@ tags:
 
 ## Summary
 
-血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血栓疾病與 AF 中風預防的重要治療概念。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +96,13 @@ tags:
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- (B) 冰敷,並且給予抗凝血劑,以免血管阻塞 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- 【詳解】有心房震顫、右小腿腫脹且有 pulse 及 Homans' sign, 皆為深部靜脈之栓塞症的表現。下肢骨骨折流血量相對較多,也 較容易形成血栓,在術後常會給予一些抗凝血藥物預防血栓發生。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - ii. 根除性膀胱切除(radical cystectomy): 切除所有前骨盆腔器官。對 侵犯肌肉層(T2)的膀胱癌是黃金標準(gold standard)治療,另外 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術。注意此手術為大手術,故術前需停止服用抗凝血劑一週。且由於手術時間長,故腿部深層靜脈血栓可能於術後發生,手術的死亡率約為 2%。 - (i) 移除所有前骨盆腔器官。 - ①男性:移除膀胱及周圍脂肪、前列腺、儲精囊。 - ②女性:移除膀胱及周圍脂肪、卵巢、子宮、子宮頸、陰道上三分之一、尿道。(注意:骨盆淋巴結摘除與否,對預後無助益。) - (ii) 術後復發:復發率 10%,通常在三年內發生。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - | | Hb | Platelet | PT | aPTT | |-----|---------|----------|----------|-------| | 張奶奶 | 10.2 | 40 | 16.2 | 36.4 | | 正常值 | 13.5~17 | 138~353 | 9.4~12.5 | 26~38 | | 單位 | g/dL | 10^3/mL | sec | sec | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - (B) 6. 36 歲男性病人,因長期應酬,每日平均喝半瓶烈酒已十年,近日 101( 二) 專 因身體倦怠,食慾不佳,臉色發黃而住院,住院後發現總膽紅素 醫五 -4 高至 22 mg/dL,ALT 高至 226 U/L,AST 高至 282 U/L,GGT 高至 388 U/L,凝血機能 PT 延長大於 4 秒,INR 為 1.59,aPTT 比正常值稍高,以下何者為最適當之處置? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -113,8 +119,6 @@ tags:
 - 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 5. 治療:抗凝血劑 heparin。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (C) 1. 病患手術前有使用 vitamin K antagonist (VKA),例如 warfarin, 109(二)專 會增加手術中出血的機會;一般在 elective surgery 前,建議先停 藥5天以上,讓 international normalized ratio (INR)上限低於 多少以下,再進行手術? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- 【詳解】使用 warfarin 者,在手術前需停藥五天,讓 INR 低於 1.5 • Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- ...(1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

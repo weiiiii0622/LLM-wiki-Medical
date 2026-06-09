@@ -90,6 +90,8 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Kidney (腎臟)'
   - 'Kidney'
@@ -104,7 +106,7 @@ tags:
 
 ## Summary
 
-腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -194,9 +196,15 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- (C) 98% 的鈣會被腎臟再吸收,主要是在遠端腎小管 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- 【詳解】(C) 98%的鈣會被腎臟再吸收,主要是在近端腎小管(60%)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- 【詳解】rickets 和 osteomalacia 都是 defect in bone minerzlization,但 ricket 是發生在小孩(生長板未關閉前), osteomalacia 發 生在生長板關閉後。(A) 描述是 ricket 的制病原因, osteomalacia 則是其他原因(Vit D deficiency, renal osteotrophy…)等原因造成; Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- 2. Multiple myeloma 是最常見的原發性骨癌。症狀可以用 CRAB (螃蟹的拼音) 來記: - (1) hyper Calcemia • - (2) Renal impairment • - (3) Anemia • - (4) Bone pain • Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - #### A. 腎臟囊腫 (Renal cyst) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 1. 流行病學:腎臟常見的構造異常,50歲以上盛行率30%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (1) 症狀: 一般無明顯症狀,若>10 cm或位在腎盞-輸尿管附近,會造成阻塞性水腎。 (記法:因為腎臟大小 10×5×2.5 cm) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -211,10 +219,6 @@ tags:
 - (C) 腎衰竭 (renal failure) Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 侵襲性麴菌症 (invasive aspergillosis): - a. 通常都在免疫不全者造成吸入空氣中黴菌分生孢子後,黴菌可以在肺臟、鼻 竇、腦、肝脾腎臟、眼睛、皮膚等引起病變。 - b. 免疫不全者:嗜中性血球低下病人、血液腫瘤疾病、骨髓及器官移植接受者、 HIV 感染病人和高劑量類固醇病人等。 - c. 症狀:發燒、肋膜性胸痛、咳嗽、咳血,通常在嗜中性血球低下十到十二天 後開始有症狀。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 合併症:患嬰中約 1/3 有低體重, 2/3 常合併 VATER (vertebral, anorectal, tracheal, esophageal, renal or radial limb) 等異常。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (B) 腎臟及橈骨異常 (renal or radius malformation) Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 【詳解】患嬰中約 1/3 有低體重, 2/3 常合併 VATER (vertebral, anorectal, tracheal, esophageal, renal or radial limb) 等異常。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (2) 腹部超音波:評估泌尿系統和脊髓,尤其腎臟部位。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 8. 常見合併異常: VACTERL (vertebral, anorectal, cardiac, tracheal, esophageal, renal, and limb)。 - (1) 一般來說越高位的異常越長合併泌尿異常。 - a. 泄殖腔殘存或直腸膀胱瘻管,約 90% 合併泌尿生殖異常。 - b. 低位異常者,如會陰部瘻管者,僅 10% 合併泌尿生殖異常。 - (2) 約 1/3 病患合併薦椎和脊椎異常,如缺少 2 節以上脊椎,預後較差,會合併腸 道和膀胱失禁。 - (3) 約 26~59% 病童合併直腸尿道瘻管以外的泌尿生殖異常,最常見的是膀胱輸尿管逆流(vesicouret Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 
 ## Clinical Caveats
 

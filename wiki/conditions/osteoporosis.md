@@ -26,6 +26,9 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Osteoporosis (骨質疏鬆症)'
   - 'Osteoporosis'
@@ -40,7 +43,7 @@ tags:
 
 ## Summary
 
-骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +69,17 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- 本章節會針對骨質疏鬆、關節炎以及骨病變相關檢驗數值的變化做討論, 建立更完整的骨科概念。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (3) T-score 小於 -2.5 個標準差 (SD) 稱為骨質疏鬆 (osteoporosis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (1) 原發性(90%): - a. Type I:停經後引起,稱之為停經後骨質疏鬆症(post-menopausal osteoporosis)。 - b. Type II: 年紀大造成鈣質吸收不足所引起,稱之為老年型骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (2) 股骨幹骨折有兩個好發年齡層: - a. 25 歲左右: 年輕人發生交通事故,屬高能量撞擊。 - b. 65 歲左右:骨質疏鬆老年人的跌倒,屬低能量撞擊。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (2) 好發於老人,發生時需評估是否有骨質疏鬆 甚至病理性骨折的情形。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - ...干擾核內信息傳遞(Intracellular signaling): - (i) 皮質類固醇(Corticosteroid):免疫製劑的基礎,從多方面影響免疫系統,減緩淋巴結和骨髓的淋巴細胞反應。副作用包括高血壓、高血脂、高血糖、體重增加、骨質疏鬆、傷口癒合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 生:生毛、生(昇)血壓及生牙齦)。副作用有腎毒性(故術後 4 個月 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (D) 長期荷爾蒙治療可能有骨質疏鬆、貧血、疲倦等副作用 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (1) 症狀:8項中有3項以上。(記法:胖高高(糖/壓)、皮(紋)-肌(弱)-骨(折)-血(雄)-神(情緒)) - a. 外觀:月亮臉、水牛肩、軀幹肥胖。 - b. 皮紋 (Striae, 在腹部或大腿的紅色紋)。 - c. 雄性素過量症狀(髮線退後、多毛症、小乳房發育、聲音變沉)。 - d. 情緒不穩或失眠或精神失常。 - e. 肌肉無力(特別是股四頭肌,所以從椅子上由坐站起困難)。 - f. 骨質疏鬆症(常見,甚至造成腰椎壓迫性骨折)。 - g. 高血糖(80%人有餐後高血糖;20%人空腹也高血糖)。 - h. 高血壓 (持續存在)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -82,11 +93,6 @@ tags:
 - 1. Prednisolone: 具有抗發炎和免疫抑制的作用,抑制 macrophage,降低 IL-1,2,6 和 TNF 的分泌。副作用有水牛肩、月亮臉、骨質疏鬆、肌肉無力、高血壓、高血糖、感染、消化道潰瘍,少數人會白內障或青光眼。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺素激素 (TSH): 造成 secondary hyperthyroidism, 少見。 - e. 會分泌性腺激素(LH和FSH)的腺瘤則相當少見,且少產生症狀。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...肥胖的併發症。肥胖會增加下列那一種疾病的風險? (A) 甲狀腺功能低下症(hypothyroidism) (B) 退化性關節炎(osteoarthritis) (C) 風濕性心臟病(rheumatic heart disease) (D) 骨質疏鬆症(osteoporosis) 【詳解】(B) 與肥胖相關的疾病除了三高(高血壓、高血脂、高血糖) 以外,還有冠狀動脈心臟病、呼吸睡眠中止症與退化性關節炎等。 | 104(一)專醫三-67 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- 【詳解】(A) 依據 USPSTF 的建議, 65 歲以上老年人的篩檢建議項目,包括有骨質疏鬆、視力篩檢、聽力篩檢、憂鬱症篩檢及肥胖症篩檢等。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- 【詳解】(D) 依據 NAMS 及 USPSTF 的建議,停經後婦女的篩檢建 議項目,包括有乳癌篩檢、子宮頸癌篩檢及骨質疏鬆篩檢等。冀便 潛血檢查則是建議 50~69 歲的民眾每 2 年篩檢 1 次。 Source: [[sources/med3-book4-ch27|丁、預防醫學]].
-- (D) Juxta-articular osteoporosis Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- (b) 停經後用 Aromatase inhibitor: - i. 包含: Anastrozole, Letrozole, Exemestane。 - ii. 缺點:關節痛 (Joint pain)、骨質疏鬆及骨折。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- ...------------------------------------------------------| | Corticosteroid | Hyperglycemia, hypertension, hyperlipidemia, osteoporosis, osteonecrosis, myopathy, cosmetic defect (e.g. buffalo hump), growth suppression in child | | Cyclosporin (CsA) | Glucose intolerance, hypertension, nephrotoxicity | | Tacrolimus (FK506) | Glucose intolerance (diabetes Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
 
 ## Clinical Caveats
 
@@ -99,6 +105,10 @@ tags:
 - [[drugs/bisphosphonates|Bisphosphonates (雙磷酸鹽類)]]
 - [[diagnostics/bone-mineral-density|Bone mineral density, BMD (骨密度檢查)]]
 - [[physiology/calcium-homeostasis|Calcium homeostasis (鈣離子恆定)]]
+- [[conditions/distal-radius-fracture|Distal radius fracture (遠端橈骨骨折)]]
+- [[conditions/femoral-neck-fracture|Femoral neck fracture (股骨頸骨折)]]
+- [[conditions/intertrochanteric-fracture|Intertrochanteric fracture (股骨轉子間骨折)]]
+- [[conditions/osteonecrosis-femoral-head|Osteonecrosis of femoral head, ONFH (股骨頭缺血性壞死)]]
 
 ## Follow-up
 

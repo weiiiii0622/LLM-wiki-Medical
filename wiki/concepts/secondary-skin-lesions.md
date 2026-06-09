@@ -39,6 +39,8 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch10]]"
 aliases:
   - 'Secondary skin lesions (次發性皮膚病灶)'
   - 'Secondary skin lesions'
@@ -53,7 +55,7 @@ tags:
 
 ## Summary
 
-膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +94,13 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch10]]
 
 ## Key Details From Sources
 
+- b. 特徵為多發性關節發炎,會有關節處 pannus(翳)的產生,診斷的標準是七個特徵有符合四個就合乎診斷(> 3 個關節腫脹、腕 / 手關節腫脹 [ 通常 為 MP 或 PIP joint、對稱性腫脹、晨僵超過一個小時、rheumatoid nodule、 RF(+)、腕 / 手關節影像上有 erosion 或 periarticular osteopenial) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- ...removal or coagulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the s Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - | 射精量 | > 1.5 ml | |------|-------------------------------------| | 精蟲濃度 | $> 15 \times 10^6 \text{ sperm/ml}$ | | 活動度 | > 40% (Grade 3 + Grade 4) | | 前進度 | 2 (scale 1~4) | | 型態 | > 30% WHO normal forms | | | > 4% Kruger normal forms | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - M. 食道潰瘍 (Esophageal erosion) 103 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -111,8 +117,6 @@ tags:
 - 4. 補充:這邊不得不提到一顆好藥:**Proton pump inhibitor**。由圖片可知 Parietal cell 可受到**神經細胞**與**腸道賀爾蒙(histamine、Gastrin**)這三個 pathway 來控制胃酸的分泌。傳統的 H2 blocker 只能 block histamine 的 pathway,並不能有效控制胃酸的分泌,但 PPI 卻能有效直接抑制幫浦,直接 block 住三線 pathway,抑制胃酸的分泌,也大大減低近年來因 peptic ulcer 所帶來的 complication 如出血或穿孔。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - (A) 9. 有關 solitary rectal ulcer syndrome 之敘述,下列何者錯誤? Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - (A) 一定要有肛門口近端 4 到 12 公分處的 anterior rectal wall ulcer 才算 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- 【詳解】Solitary rectal ulcer syndrome(SRUS)常發生於長期便秘之年輕女性,位置主要在 anterior 和 anterolateral wall,但也有部分在 lateral wall(17%)或 posterior wall(15%)。常見症狀有 rectal bleeding、rectal pain、黏液分泌或便秘。診斷需依賴排便攝影檢查(defecography),會有 full-thickness rectal prolapse、internal prolapse、paradoxical puborectalis syndrome(恥骨直腸肌在排便時無法放鬆或是有不正常收縮,使得肛門直腸角無法變大,造成排便障礙)及 thickened rectal folds。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- ...發燒(38℃),腹部有壓 痛及反彈性壓痛,白血球數也增加至 15,000,腹部 X 光檢查出 現明顯的腹膜腔內之 free air。則最有可能的診斷是: - (A) diverticulitis of colon - (B) peptic ulcer perforation - (C) colon perforation at polypectomy site - (D) perforated appendicitis Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 
 ## Clinical Caveats
 

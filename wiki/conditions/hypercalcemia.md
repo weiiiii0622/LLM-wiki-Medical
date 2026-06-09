@@ -28,6 +28,8 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Hypercalcemia (高血鈣)'
   - 'Hypercalcemia'
@@ -42,7 +44,7 @@ tags:
 
 ## Summary
 
-高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血鈣常見原因包含副甲狀腺亢進與惡性腫瘤。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +72,14 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- | | 原發性 | 次級 | 三級 | |-----------|-------------------------------|-------------------------------------------|--------------------------------------| | 說明 | 副甲狀腺不正常增生。(80% 是 adenoma) | 外在因素造成副甲狀腺機能亢進 (ex: CKD,Vit D 缺乏) | 長期低血鈣導致副甲狀腺異常增生,PTH 刺激造成高血鈣。 | | Ca++ | 1 | ↓ | ↑ | | Phosphate | ↓ | 1 | ↑ | | PTH | 1 | ↑ | 1 | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (D) 7. 一位 55 歲女性病患因下背痛在門診接受檢查時,理學檢查無明 顯異常,但檢閱先前的血液生化檢查時,發現她出現高血鈣和鹼 性磷酸酵素 (Alkaline phosphatase) 增高,下列何項病因的可能 性最小? Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- 【詳解】血清電泳出現異常蛋白質診斷是 MM 或是 MGUS,常 發生骨頭痛或病理性骨折。(C) 應為高血鈣。(D) 化學治療。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...yndromes): 10~40%。又稱「副腫瘤綜合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 ( Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (D) 高血鈣症發生率可高達 13%, 其原因係 paraneoplastic phenomena 或骨轉移造成之骨質溶解 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (C) 2. 下列有關肝細胞癌(hepatocellular carcinoma)之敘述,何者錯誤? - (A) 肝細胞癌是最常見的原發性肝惡性腫瘤,好發於東南亞與非洲 - (B) 肝細胞癌好發於男性,男女比約2:1~8:1 - (C) 約有 10% 肝細胞癌會產生伴腫瘤症候群 (paraneoplastic syndrome),如高血鈣、低血糖與紅血球增生症 - (D) 目前已知的治療方式至少包括手術、射頻燒灼 (radiofrequency ablation)、酒精注射、經動脈栓塞與標靶治療 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
@@ -88,9 +95,6 @@ tags:
 - ...、低血鎂、慢性腎衰竭、副甲狀腺功能低下、副甲狀腺手術切除後的 Hunger bone syndrome、或是與其他物質結合沉積(急性胰臟炎、大量輸血、橫紋肌溶解)。 - c. 治療為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 fur Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (A) 副甲狀腺機能亢進(hyperparathyroidism)是高鈣血症 (hypercalcemia)的一個常見原因 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...d. 臨床表現: - (a) 疼痛:骨頭痛及觸痛,為最常見症狀。 - (b) 運動或自主神經功能異常:第二常見,會有 urinary urgency 和 retention。 - (c) 感覺異常。 - (d) 脊椎骨被侵蝕導致病理性骨折、高血鈣。 - e. 檢查: X 光、MRI。 - f. 治療:放射治療,假使放射治療無效或神經症狀急速惡化,才考慮手術減壓。 - (2) 動脈瘤性骨囊腫 (aneurismal bone cyst): - a. 良性的骨性囊腫,發病的骨頭內,會產生空洞化,充滿了不正常的血管組織。 - b. 佔 15% 的脊椎腫瘤,多在 20 歲左右發作。 - c. 如果骨囊腫不斷膨脹會使骨頭變薄,有骨折、出血的危險。 - d. 治療: - (a) 先把骨囊腫 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...析顯示 Occult blood:強陽性 (4+);Protein:陰性 (-);WBC 3~5/HPF;RBC 0~2/HPF。下列那一種檢驗結果組合最可能發生在此男孩上? - (A) 高血磷 (hyperphosphatemia) 合併高血鈣 (hypercalcemia) - (B) 高血磷 (hyperphosphatemia) 合併低血鈣 (hypocalcemia) - (C) 低血磷 (hypophosphatemia) 合併高血鈣 (hypercalcemia) - (D) 低血磷 (hypophosphatemia) 合併低血鈣 (hypocalcemia) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (5) 病人也會表現高血鈣,進而造成腎臟鈣化或結石發生。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

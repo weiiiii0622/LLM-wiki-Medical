@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book1-ch04]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book6-ch06]]"
 aliases:
   - 'Polymyositis and dermatomyositis (多發性肌炎與皮肌炎)'
   - 'Polymyositis and dermatomyositis'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,13 @@ tags:
 - [[sources/med5-book1-ch04]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med5-book6-ch06]]
 
 ## Key Details From Sources
 
+- C. 半月狀骨缺血性壞死(Lunate bone AVN; Kienböck disease) *101* Source: [[sources/med5-book6-ch06|己、手部]].
+- #### C. 半月狀骨缺血性壞死 (Lunate bone AVN; Kienböck's disease) Source: [[sources/med5-book6-ch06|己、手部]].
+- (C) 1. 一位 32 歲果園工作婦女來門診主訴右腕疼痛已有近半年,理學 99(二)專檢查發現右腕背屈活動有明顯拘限,X光檢查如圖所示,最可能 醫五-40 - 的診斷是: - (A) 正中腕隧症候群(carpal tunnel syndrome) - (B) 舟狀骨骨折不癒合 (scaphoid fracture non-union) - (C) 半月狀骨缺血性壞死 (Kienböck disease) - (D) de Quervain's tenosynovitis Source: [[sources/med5-book6-ch06|己、手部]].
 - (11) 膠原纖維疾病 (Collagen diseases): 硬皮症 (Scleroderma)、風濕免疫 (rheumatoid disease)、紅斑性狼瘡 (systemic lupus erythematosus)、皮肌炎 (dermatomyositis)、 韋格納肉芽腫 (Wegener granulomatosis)、古帕斯捷氏綜合徵 (Goodpasture syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...aplasia)、再生不良性貧血(aplastic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (C) 5. 下圖 45 歲男性,急性冠狀動脈阻塞導至心因性休克,緊急做完 107( - ) 專 冠狀動脈繞道手術後,心臟收縮能力不好,因此放上了主動脈 氣球幫浦及葉克膜氧合器,送往加護病房觀察,左腳六個小時後發現有鼓脹的情形,下列敘述何者錯誤? ①肢端的脈搏先確 認 ②有可能血液中肌酸激酶(CK)會提高 ③可以量測腔室的 壓力,若大於 20 mmHg 可能要作筋膜切開手術 ④小腿有五個腔室:anterior、deep posterior、superficial posterior、lateral 和 medial Source: [[sources/med5-book1-ch04|丁、外科併發症]].
@@ -76,9 +81,6 @@ tags:
 - (B) 皮肌炎 (dermatomyositis) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 【詳解】(A)病人並未提及用藥史,藥物疹也很少兩側腋下、腹股溝淋巴結腫大。(B)皮肌炎會有近端肌肉無力,皮膚症狀為Gottron sign 和 Helitrop sign,不會全身性紅疹。(C)依照提議描述以及圖片,可判定為 Sezary syndrome。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (B) 淡紫色紅斑 (heliotrope erythema) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- ...sion | 免疫疾病: | | | 打完疫苗後造成 | thymoma 機會較 | deficiency),傷口難 | SLE, vasculitis, | | | disseminated BCG | 高;接受活性小兒 | 以癒合 | dermatomyositis, | | | or varicella;嬰兒 | 麻痺疫苗後發生 | | scleroderma, | | | 時期低血鈣造成抽 | paralysis | | glomerulonephritis, | | | 筋(此為 DiGeorge | | | angioedema | | | syndrome 的特色) | | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 5. 幼年型皮肌炎(Juvenile dermatomyositis, JDM) - (1) 幼年型皮肌炎為最常見的發炎性肌炎,以近端肌肉無力與特殊的皮膚紅斑著名。 臨床上每1,000,000人中就有3人罹患此病。女性罹病比男性高一倍(男:女為1:2)好發年紀在4~10歲。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (b) Heliotrope rash: 雙側眼瞼部位出現 blue-violet discoloration (due to photosensitivity), 有時會伴隨著眼眶周圍水腫。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

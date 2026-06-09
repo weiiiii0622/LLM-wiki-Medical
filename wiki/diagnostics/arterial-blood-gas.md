@@ -48,6 +48,9 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book6-ch05]]"
+  - "[[sources/med5-book6-ch01]]"
+  - "[[sources/med5-book6-ch06]]"
 aliases:
   - 'Arterial blood gas, ABG (動脈血氣)'
   - 'Arterial blood gas, ABG'
@@ -62,7 +65,7 @@ tags:
 
 ## Summary
 
-評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估氧合、通氣與酸鹼狀態。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -110,9 +113,17 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med5-book6-ch05]]
+- [[sources/med5-book6-ch01]]
+- [[sources/med5-book6-ch06]]
 
 ## Key Details From Sources
 
+- (2) Displaced 或 intra-articular 的骨折: Open reduction and internal fixation (ORIF)。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- (B) 患側的關節內降差 (intra-articular step-off) 小於 2 mm Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- 【詳解】(B) Smith fracture: distal radial extra-articular fracture + volar tilt; (D) Essex-Lopresti fracture: radial head fracture + dislocation of the distal radioulnar joint + rupture of the antebrachial interosseous membrene. Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- http://www.mdcalc.com/ottawa-ankle-rule Source: [[sources/med5-book6-ch01|甲、足踝關節]].
+- 【詳解】(A) terminal extensor tendon 附著在 distal phalanx 基部 的地方受傷,可能會造成 distal phalanx fracture 或手指 flexion deformity,但圖片中沒有相似情形;(B)箭頭處(fifth metacarpal neck fracture=boxer's fracture); (C) burnett fracture: thumb metacarpal base fracture with intra-articular involvement; (D) Colles fracture: distal radial fracture, extra-articular, dorsal angulation. Source: [[sources/med5-book6-ch06|己、手部]].
 - ...)是一群基因,它們位於第6號染色體上,用來產生可用來辨識自體或外來細胞的蛋白質標誌。在人類細胞(不是只有白血球)表面的MHC標誌就叫人類白血球抗原(human leukocyte antigen, HLA)。單套6號染色體表現的HLA有HLA-A、HLA-B、HLA-Dr 三種。而人類有2套染色體分別來自父母,故每個人HLA有六種形態,每種的形態又有上百樣。HLA的越不相似會導致身體越強的免疫反應,但HLA對腎移植的影響在術後1~5年影響很小,在術後5~10年較顯著。臨床上它重要性在於,它提供屍腎移植在ABO血型之外的配對依據之一。 - b. 交叉配對 (cross matching): 看受腎者血清是否有抗單一人 HLA 的抗體。 - c. 血清篩檢(serum screen Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (B) 使用甲型交感神經阻斷劑(alpha-adrenergic blocker),並不會增加輸尿管結石的排出率 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (A) 10% 為兩側、10% 為惡性、10% 不長於腎上腺內 (extra-adrenal) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -126,11 +137,6 @@ tags:
 - (a) FiO2: 1.0, PaO2 2 retention,造成血行動力學不穩,已排除可逆轉之原因。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...c murmur (Left to Right shunt), Doppler 超音波是最佳的診斷工具。 - (4) 處置:緊急手術切除 rupture 的 necrotic tissue,並進行修補。手術前先做主動脈 內氣球幫浦(intra-aortic balloon pump, IABP)可穩定血循,降低 afterload(也 就是降低 systemic vascular resistance)並增加血液灌流至 coronary perfusion。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - ...) 若發生心室中隔破裂(ventricular septal rupture)需要緊急手術 (C) 若發生左心室游離壁破裂(left ventricular freewall rupture)需要緊急手術 (D) 主動脈內氣球幫浦(intra-aortic balloon pumping)常用於急性心肌梗塞併發休克 | | |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- ...ion of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性器官的灌注 血流。 - f. 下肢半癱(spinal cord ischemia,Adamkiewicz 動脈灌流不足) - g. Graft infection · Aorto-enteral fistula · Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (C) 胸動脈導管(swan ganz catheter ) (D) 動脈血氣體分析 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- (D) 10. 腹部腔室症候群(abdominal compartment syndrome)是指腹腔內臟器出血或腹內組織水腫,造成腹內壓(intra-abdominal pressure)急遽上升,導致呼吸困難、血壓下降、腎臟衰竭時,應立即採用下列何種方法處理為佳? Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (D) 16. 一位 60 歲男性,接受冠狀動脈繞道手術。術後第二天,血行動力正常,胸部 X 光正常,肺臟呼吸音清楚無濕囉聲,動脈血氣體分析正常,病人意識清楚,呼吸器當時的設定是 SIMV mode,呼吸器通氣次數每分鐘 4 次,病人自呼 8 次,PEEP: 4 cmH2O,够感度 2 cmH2O,呼吸器壓力支持 10 cmH2O。準備讓病人脫離呼吸器,接上 T 型管讓病人自己呼吸,呼吸次數很快上升到每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但再嘗試接回 T 型管,病人呼吸又變得淺快,且病人覺得不舒服。請問病人最可能的診斷為何? Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (A) 動脈氣體分析 (arterial blood gas) Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 

@@ -33,6 +33,7 @@ sources:
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Blood transfusion (輸血)'
   - 'Blood transfusion'
@@ -47,7 +48,7 @@ tags:
 
 ## Summary
 
-依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +81,12 @@ tags:
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (A) 繼續輸血 (transfusion) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (a) 腎移植術後的基礎用法: - i. 引導(induction agent):術前,使用化學免疫藥物或抗體。何種受腎者需要建議用抗體引導?曾經有過①懷孕,②輸血,③移植。 - ii. 維持(maintenance therapy):術後,使用小分子化學免疫藥物。最常用的初始用藥組合是 tacrolimus—MMF-steroids。 - iii. 類固醇減量(steroid elimination):手術完後,一週內逐漸減量。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...同時罹患原發性腦瘤的病人 (C) 出現全身性病毒或細菌感染 (D) 梅毒、肝炎檢查正常者 (C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 104(二)專 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 醫五-77 - C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 描(CT scan)顯示左側腎臟撕裂傷合併巨大血腫,病人的血壓 一直維持在 70/40 mmHg 無法再上升,下一步要作的處置為何? (A) 腎臟血管造影 - (A) 育 - (B) 施行經皮腎造瘻術(percutaneous nephrostomy) - ( Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...寬,或以公式 4 + age (yr) / 4 French 來計算最佳管徑。 - c. 環狀甲狀軟骨切開術(Cricothyroidotomy): 因小於 12 歲以下孩童氣管較軟,不建議使用。 - (2) Circulation:輸液和輸血。 - a. 晶體溶液(crystalloid)快速灌注(bolus)以 20 mL/kg 來補充流失的體液。對於小於 6 歲孩童靜脈注射(IV)並非安全穩固的輸液管路,可考慮骨內注射(intraosseous, IO)。當失血超過預估總血量的 50% 或以雙倍灌注 40 mL/kg 輸液後仍明顯有低血容生命徵象表現時,為啟動輸血的適當時機。 Source: [[sources/med5-book4-ch08|甲、概 論]].
@@ -99,8 +103,6 @@ tags:
 - (B) 18. 開心手術後的病人,在加護病房照顧時,發現心包腔引流管出血 100(-)專量相當多,第 1 個小時約 300 毫升(病人體重 60 公斤),第 2 個小時約 400 毫升,醫護人員會依流出之量給予靜脈輸血及血小板或新鮮血漿。會造成這麼厲害出血的原因,下列何者最不可能? (A) 體外循環會破壞血小板 (B) 體外循環會造成溶血 (C) 體外循環時,殘餘之肝素 - (D) 可能有出血點沒有查到 【詳解】體外循環的確會造成溶血,但鮮少有如此嚴重的持續 出血狀況,溶血反而會直接造成腎臟功能傷害。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (A) 立刻輸入 O 型 Rh 陰性之紅血球濃縮原液(packed RBC) Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (C) 24. 開心手術時,當體外循環的支持停止後,血液中的肝素(heparin),必須使用下列何種方式處理,使其活化凝血時間(activated clotting time)回復正常? - (A) 血小板靜脈注射 - (B) 新鮮血漿靜脈注射 - (C) 魚精蛋白 (protamine sulfate) 靜脈注射 - (D) 冷沈澱物 (cryoprecipitate) 靜脈注射 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 2. 處置:(依照下消化道出血處理原則) - (1) Resuscitation:等張性晶體溶液 ±pRBC。 - (2) 診斷出血位置: - a. NG tube:排除上消化道出血。 - b. Anoscopy/ Proctoscopy:排除 anorectal bleeding。 - c. Nuclear scan: Tc-99m \ tagged RBC \circ - d. Mesenteric angiography (血管攝影)。 - e. Colonoscopy • - f. Laparotomy (剖腹探查)。 - (3) 手術: - a. Urgent segmental resection:持續出血且輸血量已超過 6 U pRBC/24hrs 時緊急 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- 【詳解】憩室炎的基本治療以內科(抗生素)為主,除非反覆性憩室炎、腸穿孔引起腹膜炎、形成瘻管、急性大量出血才需要手術介入。貧血/出血方面先藉由輸液/輸血穩定hemodynamic status,做大腸鏡鏡檢(順便可進行止血),大腸鏡檢沒辦法找到出血點,可用血管攝影(順便做血管栓塞治療),最後出血都還沒法停止,才考慮手術。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 
 ## Clinical Caveats
 

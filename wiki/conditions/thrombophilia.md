@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book6-ch08]]"
 aliases:
   - 'Thrombophilia (血栓傾向)'
   - 'Thrombophilia'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+先天或後天抗凝失衡造成血栓風險增加。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book6-ch08]]
 
 ## Key Details From Sources
 
+- (1) 約 10~12% 會發生在雙側,但不會同時發生。發生原因至今仍未定論,推測是 abnormal clotting factors (Protein S and Protein C deficiency) 造成或是 vascular abnormality 造成供應 femoral head 的血流變少造成。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - 5. 檢查: antithrombin III、protein C、protein S、Factor V Leiden mutation、Hyperhomocystinemia、Lupus anticoagulant。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (A) 高脂肪與蛋白質攝取 (high fat or protein consumption) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 1. 原因:Virchow's triad - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、antithrombin III deficiency、antiphospholipid syndrome 等。 - (3) Endothemium injury: 靜脈內皮細胞受損,例如手術( 髖關節或膝關節手術)、 外傷、之前有過 DVT。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
@@ -66,7 +69,6 @@ tags:
 - (C) antithrombin III deficiency Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - 【詳解】(A)、(B) 前文以說明產生血栓的原因,(C) Protein C 是 Natural anticoagulant,若是缺乏了,也是較易產生血栓。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - ...DNA* | SLE (Dis. Activity) | | | | (Diffuse chromatin) | Anti-histone | Drug induced LE | | Nucleo-plasmic | Ribonucleo-Protein Centromere (Ic 硬皮病) | 細斑點型(Fine Speckled) | SSA · SSB | Sjögren's syn. | | (核質) | | 粗斑點型 | Anti-Sm | SLE | | | | (Coarse S.) | Anti-RNP | MCTD,雷諾氏現象 | | | | 不連續斑點(Discrete S.) | Anti-centromere | lcSSc ( C R E ST syn.) | Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
-- (D) 蛋白質 C (protein C) 的缺乏所致 Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 

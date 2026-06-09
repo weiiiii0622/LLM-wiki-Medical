@@ -44,6 +44,9 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch08]]"
 aliases:
   - 'Tumor staging (腫瘤分期)'
   - 'Tumor staging'
@@ -58,7 +61,7 @@ tags:
 
 ## Summary
 
-腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +105,18 @@ tags:
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med5-book6-ch04]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch08]]
 
 ## Key Details From Sources
 
+- #### (1) FICAT stage: Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- | Stage | | | Clinical Features | Radiographs | |----------------------------------------------|---|------------------------------------------|-------------------|-----------------------------------------| | Early 0 Preclinical Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- 【詳解】使用類固醇、喝酒都是 ONFH 的 risk factors。X ray 上可以看到左邊 hip joint 的 joint space 不對稱且變窄,甚至有 OA (joint space narrowing, sclerotic change, subcondral bone cyst)的樣子,需懷疑是 ONFH,FICAT stage IV。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- (D) 4. 有關惡性骨腫瘤的敘述,下列何者最正確? - (A) Enneking stage IIB 是指高惡性度,同一腔室內的病灶(intracompartmental lesion ) - (B) 目前惡性骨肉瘤(osteosarcoma)的標準治療,是先切除腫瘤,再輔以術後放射治療,以避免局部復發 - (C) 惡性軟骨瘤(chondrosarcoma)的治療主要是手術切除病灶 - (D) 肢體保留手術與截肢手術相比,局部腫瘤復發率較高,同時接受肢體保留手術患者存活率較低 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 【 詳解 】(A) Enneking stage IIB(maliganent)是指 high grade, extra-compartmental lesion, no metastasis;(B) 通常合併化療,非放射治療;(D) 目前主要採用肢體保留手術為主,除非腫瘤太大、free margin 太少,不會增加 recurrence rate, survival rate 也無太大差異。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (1) X-ray:有 Waldenstrom classification(分四個 stage:initial → fragmentation → reos sification → residual phase)和 Herring classification(又稱 Lateral Pillar System, lateral Pillar 的位置是下圖中的黑色區域,高度影響愈多表示缺血性壞死愈嚴重。如下圖:stage A:lateral pillar 高度不受影響;stage B:lateral pillar 高度 > 50 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - d. 腫瘤分期 (stage): TNM - (a) T - i. T1:腫瘤局限於腎臟內,≦7cm。 - (i) T1a: 腫瘤 7 cm。 - (i) T2a: 腫瘤 7~10 cm。 - (ii) T2b:腫瘤> 10 cm。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - b. 分期 (staging): TNM。 - (a) T: - i. Tx:無法評估。T0:沒有證據顯示有腫瘤。 - ii. T1: DRE(-),且 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (3) 影像:看腫瘤、看轉移。 - a. 常規: TRUS (經直腸超音波,腫瘤 70% 低回音(較黑)、20% 與一般攝護腺同回音(同色)、10% 高回音(較白))。 - b. 定 stage: MRI (在 T2 下腫瘤較黑 / 低訊號 )、CT、CXR、whole body bone scan。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -117,12 +129,6 @@ tags:
 - (a) 初始治療:一律先睪丸切除(orchiectomy),之後依 stage 與術後腫瘤標記 決定治療方向。 - i. 精原細胞瘤 (seminoma): - (i) 低分期(stage I + 術後 AFP 測不到):可選擇觀察、化療、放射治療。 - (ii) 中分期(stage II+術後 AFP 測不到):可選擇化療、放射治療。 - (iii)高分期(stage III 或術後 AFP 升高): 進行化療。 - ii. 非精原細胞瘤 (non-seminoma): - (i) 低分期(stage I + Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...mography, PET): 評估腫瘤大小、淋巴結侵犯、遠端轉移。 - e. 核磁共振(MRI):非常規檢查,除非懷疑神經和血管侵犯、或是肝轉移。 - f. 超音波內視鏡 (endoscopic ultrasound, EUS): 最重要腫瘤分期檢查,可以用來評估腫瘤深度、長度、食道壓迫程度、局部淋巴結及鄰近組織侵犯程度。 - g. 內視鏡黏膜切除 (endoscopic muosal resection):約可取下 1~1.5 cm 食道黏膜和黏膜下層。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - Table 2 Clinical (cTNM) stage grouups Source: [[sources/med5-book4-ch05|戊、食 道]].
-- Table 3 Pathologic (cTNM) stage grouups Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 4. 淋巴引流系統:淋巴結依據 TNM 分期系統分為 2 群,肺淋巴結(pulmonary lymph nodes, N1)和縱隔腔淋巴結(mediastinal nodes, N2)。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- | AJCC 7th: Lung cancer TNM stage [1] | AJCC 8th: Lung cancer TNM stage [2] | |-------------------------------------|-------------------------------------| | T1:大小≦3公分未侵犯超出葉支氣管。 | T1:大小≤3公分未侵犯超出葉支氣管。 | | Tla:大小≦2公分。 | T1mi:極小程度侵犯性肺腺瘤。 | | T1b:大小>2 Source: [[sources/med5-book4-ch03|丙、肺]].
-- ### AJCC 8th Lung Cancer stage Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...或 MRI:可用來確認腫瘤原發位置,以區別 WT 和 NBL,以及術前評估 是否為雙側腫瘤、肝轉移、IVC 之腫瘤栓子。 - c. 尿液 VMA: 如影像上仍難以區別時, NBL 會升高, WT 不會升高。 - d. CXR: 為術前評估和腫瘤分期必須的檢查,可以初步排除胸段 NBL 或其他 異常。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- ...ogram: (i) 血紅素 (Hgb):下降, (ii) 血小板 (PLT):增多。 - b. 腫瘤指標(tumor marker): 85~90% 可發現胎兒蛋白(AFP)升高。 - (6) 治療:以手術切除合併化療為主要治療,化療可使腫瘤分期降級有助於手術清除,而手術切除乾淨與否決定存活率。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 
 ## Clinical Caveats
 

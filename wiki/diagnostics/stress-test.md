@@ -2,12 +2,13 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book4-ch03]]"
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch23]]"
+  - "[[sources/med5-book6-ch02]]"
 aliases:
   - 'Stress testing (壓力測試)'
   - 'Stress testing'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-用於評估冠狀動脈缺血，依運動能力與基礎 ECG 選擇方式。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於評估冠狀動脈缺血，依運動能力與基礎 ECG 選擇方式。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book4-ch03]]
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch23]]
+- [[sources/med5-book6-ch02]]
 
 ## Key Details From Sources
 
+- (D) 內彎加壓檢查 (Varus stress test) Source: [[sources/med5-book6-ch02|乙、膝關節]].
 - 【詳解】運動心電圖是無症狀或症狀輕微者的 screening tool,不適合使用於產生明顯急性症狀的疑似心臟衰竭患者。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - ...) 26. 冠狀動脈疾病合併厲害的心臟衰竭時,要決定繞道手術是否有益 99(二)專 於病人,必須作下列何種檢查以判定梗塞後的心肌細胞是否仍然 醫五-13 存活 (viable)? (A) 心電圖檢查 (B) 超音波檢查 (C) 核醫檢查 (thallium scanning) (D) 心導管檢查 【詳解】Thallium scanning:藉由注射 thallium-201 並偵測其在 心臟的分布情形得知病患運動時和休息時的心肌血流灌注狀況, 也能用於判別心肌是否存活。 (C) 27. 在冠狀動脈繞道手術時,若同時使用兩側帶莖的內乳動脈(pedicle 99(二)專 internal thoracic artery),則在下列何種病人易引起胸部傷口之 醫五-15 感染? (A) 肥胖症 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (B) 4.54 歲男性因嚴重高血壓合併低血鉀症多次來急診室處理,初步 106(-)專 診斷疑有 hyperaldosteronism,手術前的病灶定位以何者之敏感 醫五-42 性(sensitivity)最高? - (A) 超音波掃描 - (B) 電腦斷層掃描 - (C) 鉈掃描 (thallium-201 scan) - (D) 血管造影術 Source: [[sources/med5-book2-ch23|丁、腎上腺]].

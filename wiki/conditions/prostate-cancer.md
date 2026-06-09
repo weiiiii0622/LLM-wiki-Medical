@@ -7,6 +7,7 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Prostate cancer (攝護腺癌)'
   - 'Prostate cancer'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-男性常見癌症，多為 adenocarcinoma；風險分層依 PSA、Gleason score 與 TNM 分期決定觀察、手術、放療或 androgen deprivation therapy。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+男性常見癌症，多為 adenocarcinoma；風險分層依 PSA、Gleason score 與 TNM 分期決定觀察、手術、放療或 androgen deprivation therapy。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- 1. 骨頭惡性腫瘤有一定的比率(超過一半以上)是轉移癌。來源以下面幾個最為常見: - (1) 肺癌。 - (2) 乳癌。 - (3) 前列腺癌。 - (4) 甲狀腺腫瘤。 - (5) 肝癌。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 5. 大部分骨轉移癌是 osteolytic lesion,會造成骨頭流失,需要比較注意的是前列腺癌所造成的骨轉移常是 osteoblastic lesion,骨頭會以增生來表現,或是 mixed type (osteoblastic 和 osteolytic 共同表現)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...| | | (D) 37. | 在轉移性骨腫瘤中,何者造成的病灶,最常使患部骨骼的骨密度 | 94(一)專 | | ` , | 增高? | 外一-53 | | | (A) 腸癌 (B) 腎細胞癌 | | | | (C) 甲狀腺癌 (D) 前列腺癌 | | | | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考慮 | 71 00 | | | osteoid osteoma | | | | (C) 腰椎解離(spondylolysis)通常休息時背痛加劇,而運動可 | Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - C. 攝護腺癌 (Prostate cancer) 89 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...症狀的效果在攝護腺 40 ml 以上才顯著。服用半年後: - i. 可減少攝護腺體積+降低癌症發生率:25%; - ii. 降低下泌尿道症狀(急性尿滯留、尿失禁、反覆尿道感染)發生率:35%; - iii. 降低 PSA 值:50%(故偵測攝護腺癌的 PSA 標準此時要減半來看)。 - iv. 降低血中 DHT: 80%。 - (b) 原理:可阻斷睪固酮(testosterone)轉變成二氫睪固酮(dihydrotestosterone, DHT),可使攝護腺變小並改善排尿症狀。 - (c) 藥名:Finasteride (Proscar®)、dutasteride (Avodart®)。 - (d) 副作用:少見。2% 會性功能障礙(性慾降低、勃起功能障礙、逆行性射精)。注意若 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - #### C. 攝護腺癌 (Prostate cancer) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -47,6 +52,7 @@ tags:
 
 - [[procedures/androgen-deprivation-therapy|Androgen deprivation therapy, ADT (雄性素剝奪治療)]]
 - [[drugs/androgen-receptor-antagonists|Androgen receptor antagonists (雄性素受器拮抗劑)]]
+- [[conditions/bone-metastasis|Bone metastasis (骨轉移)]]
 - [[conditions/castration-resistant-prostate-cancer|Castration-resistant prostate cancer, CRPC (去勢抗性攝護腺癌)]]
 - [[diagnostics/gleason-score|Gleason score (Gleason 攝護腺癌分級)]]
 - [[drugs/lhrh-gnrh-agonists|LHRH/GnRH agonists (LHRH/GnRH 促進劑)]]

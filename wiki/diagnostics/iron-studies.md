@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Iron studies (鐵質檢查)'
   - 'Iron studies'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (C) 5. 一位 45 歲女性因骨盆腔腫瘤住院,經切片檢查,腫瘤組織中發 現有多發性巨大細胞(multiple giant cell)、血管纖維組織(vascular fibrous tissue) 及血鐵質 (hemosiderin)。經診斷為 Brown tumor, 請問此症與下列何種疾病有關? - (A) 甲狀腺機能低下症(Hypothyroidism) - (B) 腦下垂體機能亢進症(Hyperpituitarism) - (C) 副甲狀腺機能亢進症(Hyperparathyroidism) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 1. 機轉 & 成因:鐵質缺乏合併下咽蹼(hypopharyngeal web),原因不明。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - b. HBL:存活率 75%、好發於 1,500 IU/mL, ferritin > 142 ng/mL、NSE > 100 ng/mL。(LDH = lactic dehydrogenase, NSE = neuron-specific enolase —種醣解酶)。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - ...疾病有關? (A) 鎂 (magnesium) (B) 鉀 (potassium) (C) 磷 (phosphorus) (D) 鐵 (iron) 【詳解】此懷疑 restless leg syndrome。約 20% 的病人有缺鐵的病症(ferritin 5. 下列有關健康成人正常睡眠的結構,何者正確?(A) 每個睡眠週期約 60 分鐘(B) 非動眼睡眠第三期約占睡眠 50% 的時間(C) 入睡通常小於 5 分鐘(D) 每晚經歷 3~5 個睡眠週期 | 107(二)專醫四-49 | |-----|------------------------------------------------------------------------------------------------ Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
@@ -66,7 +69,6 @@ Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI
 - | 分期 | 鐵質狀況 | 實驗室檢查 | 正常值 | |-----|-------------------|--------------------------------|---------------| | 初期 | 儲於骨髓、網狀內皮系統的儲鐵量降低 | Ferritin TIBC $>$ 360; SI $ 50 | | | 缺鐵的狀況下造血 | MCV 3.5% 須懷疑 β thalassemia;正常人的 HbA2 即是 10 , No t Source: [[sources/med3-book4-ch10|甲、貧血]].
 - (1) 好發於慢性炎症、慢性感染或惡性腫瘤的病人身上;血紅素介於 $7\sim10$ 之間,MCV 微減( $75\sim82$ fl),**TIBC** 降低,Ferritin 上升(視為如 CRP 等急性反應蛋白,發炎 時會上升)。 Source: [[sources/med3-book4-ch10|甲、貧血]].
 - ...後自動退燒,這種發作有時會持續二個月之久,不發作時則與常人無異,本次住院的理學檢查發現有肝、脾腫大,抽血檢查發現 WBC 12,800/μL,ESR 42 mm/lh,CRP 2.48 mg/L,AST 42 U/L,ALT 48 U/L,ferritin 11,280 ng/mL,ANA 及類風濕因子(rheumatoid factors)均為陰性,血液及尿液的三套培養包括細菌及黴菌均無,又常見的病毒抗體均在正常範圍內,則最可能的診斷為何? - (A) Dengue fever - (B) Adult-onset Still's disease - (C) Plasmodium falciparum infestation - (D) Cancer fever Source: [[sources/med3-book4-ch09|辛、其 他]].
-- ...11 | | | 4000 | mg/dL,代表因長期能量攝取不足而 | | | | 肌肉耗損(muscle wasting) | | | | | (C) prothrombin time 延長,表 | | | | | | acity (TIBC) > 500 μg/dL 代表蛋白 | | | | 質攝取不足,可能有惡性營【************************************ | | | | | 【詳解】營養不良應該 TIBC | )库。 | | | (A) 21. | 關於肥胖(obesity)之敘述,「 | | 105(一)專 | | | | 增質量指數 (BMI) 大於等於 30 kg/m² | 醫三-57 | | | | 是女性腰圍大於 80 cm, Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 

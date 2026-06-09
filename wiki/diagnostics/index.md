@@ -26,9 +26,12 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/bi-rads|BI-RADS (乳房影像報告與資料系統)]] - 乳房影像標準化分類，指引追加影像、切片或追蹤。
 - [[diagnostics/blood-pressure-measurement|Blood pressure measurement (血壓測量)]] - 正確量測與分類是高血壓診斷基礎。
 - [[diagnostics/bnp|BNP / NT-proBNP (腦利鈉胜肽)]] - 心室壓力與容量負荷標記，可輔助心衰竭診斷與嚴重度評估。
+- [[diagnostics/bohler-angle|Böhler angle (Böhler 角)]] - 跟骨側位 X-ray 評估 posterior facet 塌陷的角度，低於正常範圍提示 calcaneus fracture。
 - [[diagnostics/bone-age|Bone age (骨齡)]] - 以手腕 X 光估計骨成熟度，協助評估性早熟與身材矮小。
 - [[diagnostics/bone-marrow-examination|Bone marrow examination (骨髓檢查)]] - 骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。
 - [[diagnostics/bone-mineral-density|Bone mineral density, BMD (骨密度檢查)]] - 骨質疏鬆診斷與骨折風險評估常用檢查。
+- [[diagnostics/bone-tumor-location-framework|Bone tumor location framework (骨腫瘤好發部位架構)]] - 以 epiphysis、metaphysis、diaphysis 分布協助骨腫瘤鑑別診斷，需結合年齡、影像與病理。
+- [[diagnostics/bone-tumor-radiographic-signs|Bone tumor radiographic signs (骨腫瘤影像徵象)]] - 骨腫瘤 X-ray 徵象包含 periosteal reaction、lytic/blastic pattern、matrix calcification 與 cortex destruction。
 - [[diagnostics/bosniak-renal-cyst-classification|Bosniak renal cyst classification (Bosniak 腎囊腫分級)]] - 依 CT/MRI 囊腫隔膜、鈣化、厚壁與顯影程度估計腎囊腫惡性風險並決定追蹤或切除。
 - [[diagnostics/brain-computed-tomography|Brain computed tomography, brain CT (腦部電腦斷層)]] - 急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。
 - [[diagnostics/brain-magnetic-resonance-imaging|Brain magnetic resonance imaging, brain MRI (腦部磁振造影)]] - 對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。
@@ -83,6 +86,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/nocturnal-penile-tumescence-test|Nocturnal penile tumescence test, NPT (夜間陰莖勃起監測)]] - 評估睡眠中自然勃起以區分 psychogenic 與 organic erectile dysfunction。
 - [[diagnostics/oral-glucose-tolerance-test|Oral glucose tolerance test, OGTT (口服葡萄糖耐受試驗)]] - 用於診斷糖尿病、糖尿病前期與妊娠糖尿病。
 - [[diagnostics/osmolal-gap|Osmolal gap (滲透壓間隙)]] - 實測與計算血漿滲透壓差，可輔助 toxic alcohol 等鑑別。
+- [[diagnostics/ottawa-ankle-rules|Ottawa ankle rules (Ottawa 足踝 X 光規則)]] - 急性足踝傷害是否需 X-ray 的臨床規則，依 malleolar/midfoot tenderness 與負重能力判斷。
 - [[diagnostics/patch-test|Patch test (貼布試驗)]] - 延遲型過敏測試，用於 allergic contact dermatitis 過敏原評估。
 - [[diagnostics/peak-expiratory-flow|Peak expiratory flow, PEF (尖峰呼氣流速)]] - 居家或連續追蹤氣喘變異性的簡易工具。
 - [[diagnostics/polysomnography|Polysomnography (多項睡眠檢查)]] - 阻塞性睡眠呼吸中止症的診斷檢查。

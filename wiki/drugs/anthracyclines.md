@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Anthracyclines (蒽環類化療藥)'
   - 'Anthracyclines'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 topoisomerase II 並產生自由基，需注意心毒性與外滲傷害。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,12 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- a. 術前化療(preoperative chemotherapy): 使腫瘤變小,使手術時切除的範圍較小,如果有 tumor necrosis 的跡象,則有較好的 prognosis。 - (a) 化療 (multiple-agent CT) 常用的藥物包括: MICD (high-dose MTX、ifosfamide、cisplatin、doxorubicin)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- a. multiple-agent chemotherapy and limb salvage resection: 標 準 治 療(VCD, vincristine + cyclophosphamide + doxorubicin),術前使用 chemotherapy,減 少腫瘤體積,在進行切除手術,如果已有轉移或太大的腫瘤或位置不能切除 (脊椎或骨盆),可以配合使用 radiation therapy。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...stectomy,則下列何種膀胱內藥 | 醫五 -67 | | 物灌注治療最能有效控制此症? | | | (A) Bacillus Calmette-Guerin (BCG) | | | (B) mitomycin C | | | (C) doxorubicin | | | (D) gemcitabine | , | | (B) 14. 下列何項檢查工具,在沒有尿道受損跡象時,是診斷膀胱破裂的 | 106 (一) 專 | | 黃金標準 (golden standard)? | 醫五 -76 | | (A) 泌尿道系統超音波 | | | (B) 逆行性膀胱造影 | | | (C) 順行性膀胱造影(靜脈腎盂造影) | | | (D) 加顯影劑之腹部電腦斷層 | | | (D) 15. 表淺性膀胱癌 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].

@@ -11,6 +11,8 @@ sources:
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Gout (痛風)'
   - 'Gout'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-尿酸鹽結晶造成急性關節炎與慢性痛風石。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+尿酸鹽結晶造成急性關節炎與慢性痛風石。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,15 @@ tags:
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (C) 1. 關於痛風(gout)及偽痛風(pseudogout)之敘述,下列何者錯誤? (A) 痛風性關節炎主要是尿酸(uric acid)沈積,而偽痛風又名 calcium pyrophosphate dihydrate(CPPD)deposition disease, 主要是焦磷酸鹽沈積為主 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (B) Gout 最常影響腳上大拇趾第一掌蹠關節(first metatarsal joint),而 pseudogout 最常影響膝關節 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (D) Gout 及 pseudogout 都可用秋水仙素 (colchicine) 治療 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (B) 6. 一位 65 歲女性病人,主訴 3 年來右膝關節日益疼痛,以致行動 102(二)專 困難,本次就診之右膝關節 X 光攝影及 MRI 影像如圖,最可能 醫五-63 的診斷為何? - (A) 類風濕關節炎併骨囊腫 (rheumatoid arthritis with bone cyst) - (B) 自發性骨壞死併膝關節 炎(spontaneous osteonecrosis with arthritis) - (C) 感染性關節炎併骨囊腫 (septic arthritis with bone cyst) - (D) 痛風性關節炎併骨囊腫 (gouty arthritis with bone cyst) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - b. 尿酸(uric acid)結石:占結石 5%,好發於男性,特別是有痛風病史、骨髓增生症(myeloproliferative diseases)、快速減重、用 cytotoxic 藥物治療惡性腫瘤的人。常因脫水或攝取高 purine 食物,導致尿中尿酸增加(故尿 pH 0.5 cm 僅 15% 排出率。(因為輸尿管 徑 $0.3\sim0.5$ cm) - (2) 結石位置: 結石在輸尿管下段 50%、中段 25%、上段 10% 排出率。(因為輸尿管長 25 cm) - (3) 併用藥物:NSAID (標準一線)、alpha-blocker (增加 45% 排出率,小心血壓,可用 Urief 或 Harnalidge)。另外使用副交感拮抗劑 (antimuscarinics) 也可緩解症狀加速結石排出。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - ...較不容 | 易產生尿酸結石? | 103(一)專 | |--------|------------------------|--------------------------------------|---------| | | (A) 痛風(gout)的病 | 人 | 醫五-64 | | | (B) myeloproliferative | disorders 的病人 | | | | (C) 惡性腫瘤接受抗癌 | 孫藥物治療的病人 | | | | (D) 神經性膀胱常有尿 | 及路感染的病人 | | | | 【詳解】有痛風、質 | , 髓增生症、快速減重、使用化療藥物治 | | | | 療癌症的病人容易產 | 生尿酸結石。尿路感染較常發生 struvite | | | | Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (C) 27. 一位 50 歲男性病人,曾有痛風性關節炎的病史,此次來到門診 主訴昨夜開始有突發性的右腰疼痛,並有血尿的現象;腹部 X 光 檢查(KUB)未發現任何異常,但是腎臟超音波發現一顆大約 0.8 公分的結石卡在右側腎盂出口與輸尿管交接之處,合併有明 顯的腎積水。請問這個病人的右側尿路結石,最有可能的成分 為下列何種? Source: [[sources/med5-book5-ch05|戊、結 石]].

@@ -42,6 +42,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -56,7 +57,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -98,9 +99,11 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (A) 4. 一位 35 歲女性,因車禍至急診處,左大腿非開放性股骨骨折。 經急診住院,預計第二天進行骨科手術。清晨病人非常焦慮,發 燒 38.7℃,心跳約 110 /分,頸部甲狀腺約三度腫大。此時最 好的檢查及治療不包括下列何者? - (A) 儘快施行骨科手術 - (B) 抽血檢驗 T3、T4、TSH - (C) 冰氈及退燒藥 - (D) beta blockers, corticosteroid 靜脈注射 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - iv. T3:腫瘤侵犯超過攝護腺包囊 (prostate capsule)。 - (i) T3a: 腫瘤超出攝護腺但尚未侵犯儲精囊。 - (ii) T3b: 腫瘤侵犯儲精囊。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (CD)29. 下列何種攝護腺癌的情況不需安排骨盆腔電腦斷層或磁振影像 98(二)專 (MRI)檢查? 醫五-69 - (A) 骨骼掃描陰性且為 T3 腫瘤者 - (B) 骨骼掃描陰性且 PSA > 20 ng/mL 者 - (C) 骨骼掃描陰性且 Gleason score 4 或 5 分者 - (D) 骨骼掃描陽性者 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - iii. T3:腫瘤侵犯未超過 Gerota's fasscia,未達同側腎上腺。腫瘤出現在 大靜脈或週邊組織。 - (i) T3a: 侵犯腎靜脈,或附近脂肪組織。 - (ii) T3b: 侵犯下腔靜脈,在橫膈膜之下。 - (iii)T3c:侵犯下腔靜脈,在橫膈膜之上;或侵犯下腔靜脈管壁。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -118,7 +121,6 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - | Anatomic Sta | ge/Prognosti | c Groups | | |--------------|--------------|----------|----| | Stage 0 | Tis | N0 | M0 | | Stage IA | T1* | N0 | M0 | | Stage IB | T0 | N1mi | M0 | | | T1* | N1mi | M0 | | Stage IIA | T0 | N1** | M0 | | | T1* | N1** | M0 | | | T2 | N0 | M0 | | Stage IIB | T2 | N1 | M0 | | | T3 | N0 | M0 | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - | | N0 | N1 | N2 | N3 | |--------------|------|----------|------|------| | T1 | IA | IB | IIA | IIB | | T2 | IB | IIA | IIB | IIIA | | T3 | IIA | IIB | IIIA | IIIB | | T4a | IIB | IIIA | IIIB | IIIC | | T4b | IIIB | IIIB | IIIC | IIIC | | Any T, any N | • M1 | Stage IV | | | Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - 5. 細胞: - (1) 濾泡細胞 (follicular cell): 合成分泌 T3、T4。 - (2) 濾泡旁細胞(parafollicular cell):又叫 C cell,分泌降鈣素(calcitonin)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...dase 將 I 氧化成碘 (I)。 - (3) Organification:碘和甲狀腺球蛋白(thyroglobulin)上的 Tyrosine 結合形成 MIT 和 DIT。 - (4) Coupling: MIT 和 DIT 合成 T3、DIT 和 DIT 合成 T4。 - (5) Secretion: 下視丘分泌 TRH (thyrotropin-releasing hormone)→腦下垂體前葉分泌 TSH (thyroid-stimulating hormone) 刺激甲狀腺→ T₃和 T₄經由 proteolysis 脱離甲狀腺球蛋白,並離開甲狀腺分泌至血液中。 - (6) 血液中以 T4 為主, T3 和 T4 在血中和 TBG (thyroxine-bin Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 
 ## Clinical Caveats
 

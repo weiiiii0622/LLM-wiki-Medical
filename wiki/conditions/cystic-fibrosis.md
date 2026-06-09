@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book6-ch08]]"
 aliases:
   - 'Cystic fibrosis (囊性纖維化)'
   - 'Cystic fibrosis'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-CFTR 異常造成黏稠分泌物、肺部感染、胰臟外分泌不足與胎便性腸阻塞等表現。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CFTR 異常造成黏稠分泌物、肺部感染、胰臟外分泌不足與胎便性腸阻塞等表現。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ CFTR 異常造成黏稠分泌物、肺部感染、胰臟外分泌不足與胎便
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book6-ch08]]
 
 ## Key Details From Sources
 
+- (D) 纖維性囊腫 (cystic fibrosis) Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - B. 囊性纖維化 (Cystic fibrosis, CF) 147 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ### B. 囊性纖維化 (Cystic fibrosis, CF) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 1. 機轉 & 成因: 為一體隱性的遺傳疾病,影響多個器官和外分泌腺。因 CFTR (cystic fibrosis transmembrane regulator gene) 此基因突變所致,導致氯離子通道異常。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].

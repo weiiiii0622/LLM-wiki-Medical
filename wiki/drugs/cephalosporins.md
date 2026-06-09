@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Cephalosporins (頭孢子菌素類)'
   - 'Cephalosporins'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活性。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,12 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (D) 對於 type I 及 type II 開放性骨折,在急診室時可選用第一代頭孢菌素 (first-generation cephalosporins)治療;對於 typeIII 開 放性骨折建議再加上氨基配醣體類抗生素 (aminoglycosides) Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- ...Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 103(ニ)専 | (C) | | 膏固定後回家休息,晚上睡覺時覺得右腳越來越痛,他吃了止痛 醫五-74 | (-) | | 藥後,症狀稍有緩解,但仍然持續疼痛,下列醫療處置何者最 | | | 正確? | | | (A) 加重止痛藥劑量可使病情改善 | | | (B) 換第三代抗生素就可改善 | | | (C) 需要把石膏切開 | | | (D) 傷 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...us gentamicin | | S. bovis | Penicillin G, ampicillin | Ampicillin, vancomycin | | Streptococcus, group B | Ampicillin, cephalosporin | Ampicillin, cephalosporin | | Gram-negative cocci | | | | Neisseria gonorrhoeae | Ciprofloxacin plus doxycycline | Ceftriaxone | | Gram-negative rods | | | | Escherichia coli | TMP-SMX, ciprofloxacin, nitrofurantoin | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...: Fluoroquinolone | | | Pyelonephritis | E. coli | 1st: Fluoroquinolone | 7~10 days | | | Proteus | 2nd: 2nd generation cephalosporin | | | | Klebsiella | 3rd: Aminopenicillin/BLI | | | | Enterobacteria | | | | Complicated UTI | E. coli | 1st: Fluoroquinolone | 3~5 days after afebrile | | | Enterococci | 2nd: Aminopenicillin/BLI | | | | Pseudomonas | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (5) Cephalosporins: (Cephalexin®1' · Cefazolin®1' · Ceftriaxone®2') - a. 優點:口服劑型常經驗性使用於 uncompleated UTI。對於小孩使用口服藥來 治療 UTI 及 pyelonephritis 效果佳且安全。 - b. 缺點:共有 4 代注意各代菌叢限制。 - (a) 1°:對付 G(+) 菌 + 部分的 G(-) 菌 (E. coli 、 Proteus 和 Klebsiella ) Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -83,8 +87,6 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 - 3. 抗生素:Unasyn 200 mg/kg/day 或 ceftriaxone 50 mg/kg/day 或是 cefotaxime 150~200 mg/ka/day。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - | Nelson Textbook of Pediatrics 21 th Edition Table 428.6 | |-------------------------------------------------------------------------------------------------------------| | Age | | | Tetracyclines* | 2° 或 3° cephalosporins | | | | Fluoroquinolone | Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (1) 在抗生素使用上,依照 CSF gram stain 檢查後使用經驗性抗生素:3rd generation Cephalosporin(ceftriaxone、cefotaxime) + Vancomycin。若病人小於三個月, 須加上 Ampicillin 以涵蓋 Listeria monocytogenes。依照培養結果再做出調整。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- ...fficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriaxone · - f. Salmonella: 一般而言不建議使用抗生素,若要給予則有 Ceftriaxone、Cefotaxime、Ampicillin、Bactrim。PS: Salmonella 臨床上使用抗生素適應症如下: 小於 3 個月的嬰幼兒,臨床上持續高燒或體溫過低、生命跡象不穩的病童,發展為毒性巨結腸症的病童,以及免疫功能有缺損的病童。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (D) 可給 ceftriaxone、metronidazole、 amikacin 等抗生素 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 
@@ -93,6 +95,7 @@ beta-lactam 類，依世代涵蓋不同 GPC/GNB、CNS、Pseudomonas 或 MRSA 活
 
 ## Related Pages
 
+- [[conditions/open-fracture|Open fracture (開放性骨折)]]
 - [[conditions/staphylococcal-scalded-skin-syndrome|Staphylococcal scalded skin syndrome, SSSS (葡萄球菌性燙傷樣皮膚症候群)]]
 
 ## Follow-up

@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Hypothalamic-pituitary-thyroid axis, HPT axis (下視丘-腦垂體-甲狀腺軸)'
   - 'Hypothalamic-pituitary-thyroid axis, HPT axis'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (A) 4. 一位 35 歲女性,因車禍至急診處,左大腿非開放性股骨骨折。 經急診住院,預計第二天進行骨科手術。清晨病人非常焦慮,發 燒 38.7℃,心跳約 110 /分,頸部甲狀腺約三度腫大。此時最 好的檢查及治療不包括下列何者? - (A) 儘快施行骨科手術 - (B) 抽血檢驗 T3、T4、TSH - (C) 冰氈及退燒藥 - (D) beta blockers, corticosteroid 靜脈注射 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (5) 血液甲狀腺素 (thyroxine) 量。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ...狀腺球蛋白(thyroglobulin)上的 Tyrosine 結合形成 MIT 和 DIT。 - (4) Coupling: MIT 和 DIT 合成 T3、DIT 和 DIT 合成 T4。 - (5) Secretion: 下視丘分泌 TRH (thyrotropin-releasing hormone)→腦下垂體前葉分泌 TSH (thyroid-stimulating hormone) 刺激甲狀腺→ T₃和 T₄經由 proteolysis 脱離甲狀腺球蛋白,並離開甲狀腺分泌至血液中。 - (6) 血液中以 T4 為主, T3 和 T4 在血中和 TBG (thyroxine-binding globulin) 結合, 只有 0.04% T4 和 0.4% T3 以 f Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 1. 生化檢驗數據: TSH 和 Free T4 最準。 - (1) TSH: 0.3~5 mIU/L, 在腦下垂體功能正常的情況下: - a. TSH ↑代表 hypothyroidism。 - b. TSH ↓ 代表 hyperthyroidism。 - (2) Total $T_4$ : $3\sim12 \mu g/dL \circ$ - (3) $T_3$ : 80~200 ng/dL • - (4) RT3U (Resin T3 uptake):正常值 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -70,7 +73,6 @@ HPT axis 調控甲狀腺素，TSH/free T4 是判讀核心。 本頁已整合至 
 - ....6 mIU/L | | | 2~20 wk | 0.6~5.6 mIU/L | ×1 | 0.6~5.6 mIU/L | | | 5 mo~20 yr | 0.5~5.5 mIU/L | ×1 | 0.5~5.5 mIU/L | | | THYROXINE-BI | NDING GLOBULIN, SERUN | vI | | | | Cord blood | 1.4~9.4 mg/dL | ×10 | 14~94 mg/L | | | 1~4 wk | 1.0~9.0 mg/dL | ×10 | 10~90 mg/L | | | 1~12 mo | 2.0~7.6 mg/dL | ×10 | 20~76 mg/L | | | 1~5 yr | 2.9~5.4 mg/dL | ×10 | Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) Graves disease: 抗體刺激 TSH 接受器,造成甲狀腺機能亢進。 Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - 再來最重要的就是到 bedside 看病人體液狀況,腫的病人考慮心肝腎疾病引起的低血鈉,此類病人予以限水、利尿劑可改善低血鈉;不乾不腫考慮腎上腺、甲狀腺、SIADH,除了抽血驗 Cortisol、TSH、free T4,也要檢查尿液的 Na、Osm 來看看是否符合 SIADH 的表現,更要進一步找出 SIADH 的原因,若 SIADH 引起的低血鈉難以用限水、Normal saline 治療,才考慮以 3% saline 治療;皮膚乾癟的病人也要檢查尿液的 Na 濃度,若尿鈉> 20 mmol/L,表示低血鈉是由腎臟流失的;若+ 30 mmol/L, 尿液 Cl- 8 mmol/L。下列敘述何者錯誤? - (A) 病人的細胞外液量增加 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- 【詳解】TSH 很高,代表下游的甲狀腺素分泌不足,導致上游拼命 的刺激,屬於 hypothyroidism。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

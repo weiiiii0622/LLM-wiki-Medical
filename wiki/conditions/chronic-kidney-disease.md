@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch05]]"
   - "[[sources/med3-book3-ch02]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch08]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Chronic kidney disease, CKD (慢性腎臟病)'
   - 'Chronic kidney disease, CKD'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-腎功能或腎臟結構慢性異常，需分期、控制進展因子與併發症。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎功能或腎臟結構慢性異常，需分期、控制進展因子與併發症。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book1-ch06]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch08]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- | | 原發性 | 次級 | 三級 | |-----------|-------------------------------|-------------------------------------------|--------------------------------------| | 說明 | 副甲狀腺不正常增生。(80% 是 adenoma) | 外在因素造成副甲狀腺機能亢進 (ex: CKD,Vit D 缺乏) | 長期低血鈣導致副甲狀腺異常增生,PTH 刺激造成高血鈣。 | | Ca++ | 1 | ↓ | ↑ | | Phosphate | ↓ | 1 | ↑ | | PTH | 1 | ↑ | 1 | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (B) 1. 兒童佝僂症(Rickets)常因體內鈣磷代謝異常所導致,下列那一 109(-)專項致病機轉所造成的佝僂症與其他最不相同? 醫四-20 - (A) 慢性腎臟病 (Chronic kidney disease) - (B) 低血磷佝僂症(Hypophosphatemic rickets) - (C) 腸胃吸收障礙 (Malabsorption) - (D) 營養不良致維生素 D 缺乏 (Nutritional vitamin D deficiency) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (B) 8. 關於兒童急性鏈球菌感染後腎臟發炎(acute poststreptococcal 107(-)專 glomerulonephritis)的治療,下列敘述何者正確? 醫四-22 - (A) 由於為鏈球菌感染所引起的,因此給與適當的抗生素治療可以縮短病程 - (B) 高血壓的治療包括給與鈣離子抑制劑(calcium channel antagonists)或利尿劑(diuretics) - (C) 限制鈉離子的攝取,主要是針對慢性腎臟病的預防 - (D) 類固醇為首選的治療藥物 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 【詳解】(A) 選項錯誤點在於給予抗生素治療無法縮短病程。(C) 選項錯誤點在於疾病急性期限制水分與鹽分的攝取並控制高血壓,而非針對慢性腎臟病的預防。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

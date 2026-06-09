@@ -13,6 +13,8 @@ sources:
   - "[[sources/med5-book2-ch25]]"
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book6-ch05]]"
+  - "[[sources/med5-book6-ch06]]"
 aliases:
   - 'Nerve conduction study, NCS/NCV (神經傳導檢查)'
   - 'Nerve conduction study, NCS/NCV'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,14 @@ tags:
 - [[sources/med5-book2-ch25]]
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med5-book6-ch05]]
+- [[sources/med5-book6-ch06]]
 
 ## Key Details From Sources
 
+- 【詳解】(C) 通常靠理學檢查(PE)及神經傳導檢查(Nerve Conduction Velocity, NCV)來診斷。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- 5. 診斷:以肌電圖及神經傳導速度測定,配合臨床症狀。 Source: [[sources/med5-book6-ch06|己、手部]].
+- ...--|------------------| | | (B) Tinel's sign positive | | | | (C) 病人若出現魚際肌(thenar muscle)萎縮或無力代表嚴重的運動神經壓迫 | | | | (D) 可透過神經傳導速度(nerve conduction velocity)檢查來確定診斷 | | | (B) | 3. 下列有關腕隧道症候群(carpal tunnel syndrome)之敘述,何者錯誤? | 104(一)專醫五-19 | | | (A) 曲腕動作會加重症狀 | | | | (B) 一定有魚際肌(thenar muscle)的萎縮 | | | | (C) 初期可以施用副木治療 | | | | (D) 手術是切斷腕橫韌帶(transve Source: [[sources/med5-book6-ch06|己、手部]].
 - iii. 周邊神經。 - (i) 外傷或手術造成神經傳導功能失常: cavernous nerve 和 pudendal nerve 為兩條與勃起相關神經。 - (ii) 慢性疾病造成周邊神經病變或神經傳導物質不足: NO 為與勃起 最有相關的神經傳導物質。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (d) 靜脈血管方面 (cavernosal/venous): - i. Type 1: 陰莖海綿體的靜脈瓣膜閉鎖不全, 使血液流往海綿體外, 無法維持充血, 多為先天性也最常見。 - ii. Type 2:靜脈扭曲或退化,常見於 Peyronie disease 或老年男性。 - iii. Type 3:陰莖海綿體平滑肌無法放鬆,常因纖維化或退化。 - iv. Type 4:神經傳導物質失調。 - v. Type 5:海綿體間血管交通異常。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (C) 18. 交感節後神經(sympathetic postganglionic nerve)釋放下列何種神經傳導物質,以控制下泌尿道? Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
@@ -66,6 +73,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/carpal-tunnel-syndrome|Carpal tunnel syndrome (腕隧道症候群)]]
 - [[conditions/chronic-inflammatory-demyelinating-polyneuropathy|Chronic inflammatory demyelinating polyneuropathy, CIDP (慢性發炎性脫髓鞘型多發神經病變)]]
 - [[diagnostics/electromyography|Electromyography, EMG (肌電圖)]]
 - [[conditions/guillain-barre-syndrome|Guillain-Barre syndrome, GBS (格林-巴利症候群)]]

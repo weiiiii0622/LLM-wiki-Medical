@@ -72,6 +72,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Pneumonia (肺炎)'
   - 'Pneumonia'
@@ -86,7 +87,7 @@ tags:
 
 ## Summary
 
-肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -158,9 +159,12 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- (B) 莖狀(stalk type)型態的單一性骨軟骨瘤,突出的軟骨帽(cartilage cap)朝向其相鄰近關節方向生長 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 【詳解】(A)多發性遺傳性外生骨贅具有自體「顯」性遺傳的特性;(B)突出的軟骨帽(cartilage cap)通常會朝遠離關節方向生長;(D)沒有症狀不需治療。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...會掉髮。 - (ii) 阻止細胞週期(mTOR inhibitor): Sirolimus(Rapamune® 1 mg)、Everolimus(Certican® 0.25 mg)。副作用是會骨髓抑制及傷口癒合不佳,罕見但最嚴重的是間質性肺炎,可致死。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ trimethoprim-sulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) | | | (A) ①35 | (B) 1245 | | | (C) 2345 | (D) ①②③④ | | | (A) 19. 當腎臟血管肌肉脂肪瘤(期追蹤,不需手術? | angiomyolipoma Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -177,8 +181,6 @@ tags:
 - ...就有可能形成肝膿瘍。 - (2) 肝門靜脈: 肝門靜脈收集來自腸胃道的血液後, 匯集於肝臟, 因此與腸胃道感染相關的病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成肝膿瘍。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - 1. 細菌性肝膿瘍:細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumonia),除此之外,大腸桿菌、金黃色葡萄球菌也是常見的致病菌種。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
 - 【 詳解】細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumoniae)。只有50%病人可以從血液培養出致病菌。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- b. 如果嬰兒有 large VSD 且一出生就心衰竭且無法靠藥物控制、發育遲緩、肺高壓或反覆性肺炎,則需立即開刀。早期會作肺動脈繃紮術(pulmonary artery banding, PA banding)減少肺動脈血流,減緩肺高壓和心衰竭的情形,大一點再作 VSD 修補,不過隨著嬰兒開心手術的進步,現在比較少作 PA banding。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- .... 承上題,上述治療主要的目的是: | 99(二)專 | | (A) 溶解肺動脈栓塞 | 醫 5-10 | | (B) 使動脈性導管(ductus arteriosus)打開 | | | (C) 將肺動脈瓣打開 | | | (D) 治療急性肺炎 | | | (C) 28. 承上題,若病人情況改善之後,下列何種治療不適於此病人之下 | 00(一) 亩 | | 一步治療計畫? | 器 5-11 | | (A) 肺動脈瓣切開術 | 函 ひ 11 | | (B) 體動脈至肺動脈分流術 | | | (C) 肺動脈環縮術 | | | (D) 作越過肺動脈環部的布塊(transannular patch)來擴大右心 | | | 室出口 | | | 【詳解】已經肺動脈瓣閉鎖,再作 PA ba Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 
 ## Clinical Caveats
 

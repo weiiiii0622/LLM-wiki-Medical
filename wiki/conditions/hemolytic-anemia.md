@@ -32,6 +32,8 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch10]]"
 aliases:
   - 'Hemolytic anemia (溶血性貧血)'
   - 'Hemolytic anemia'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,13 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch10]]
 
 ## Key Details From Sources
 
+- (2) 症狀: 出現發燒、腫痛, ESR、LDH、ALK增加,非常類似 osteomyelitis (骨髓炎)的症狀, 有時會被誤認為感染來治療。骨頭受破壞通常較嚴重, 相對容易有病理性骨折。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...(+ 術後 | 沒症狀不處理;有症狀就整個 | | 化療 )、target therapy | 拿掉 (Marginal en-bloc excision | | | ,含 base 一起拿掉) | | | | | ↑ Alk-p, ↑ LDH | 腫瘤基底部和骨髓腔相通 | | | | | | | | 運動受傷 | Multiple hereditary exostosis | | | (MHE) | | Periosteal reaction (Codman's | Exostosis, 像女王頭狀 | | · · | , | | | | | | | | | 10~20男膝蓋上下、長骨的 metaphysis(小孩最常見的 sarcoma)Fibrous tissue ( Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - (d) S = serum tumor markers (血清腫瘤標記): - i. S0:標記都在正常範圍內。 - ii. S1:LDH 10 倍正常值;或 hCG > 50,000 mIU/mL;或 AFP > 10,000 ng/mL。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - (C) 7. 關於高期別之非精細胞胚胎細胞癌 (nonseminoma germ cell 105( 二 )專 carcinoma),下列何者不是預測其化學治療之反應指標? 醫五-66 (A) 血清 LDH (B) 血清 β-hCG (C) 血清 CEA (D) 轉移部位總數 (A) 8. 下列敘述那些正確?①陰莖骨折(penile fracture)多發生在陰莖 105(二)專 懸韌帶(suspensory ligament)遠側 ②陰莖骨折如果採取保守治 醫五-71 療會有 10% 以上發生勃起時陰莖彎曲 (penile curvature) ③陰 莖穿透傷 (penetrating injury) 要考慮做逆行性尿道攝影 (retr Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - ...準(Light's criteria),符合其中以一項即可: - a. Pleural fluid protein/serum protein greater than $0.5\,$ $\circ$ - b. Pleural fluid LDH/serum LDH greater than 0.6 • - c. Pleural fluid LDH 1.67 times normal serum - (a) 現在修正為:LDH > 2/3 upper limits of serum normal。 - d. 正常參考值:因各實驗室不同而有差異,以下僅供參考。 - (a) serum LDH: 105~350 U/L - i. ULN (upper limit of normal Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -97,8 +103,6 @@ tags:
 - (4) Metastatic melanoma 的病患其 LDH 會升高,後續研究發現,黑色素細胞瘤轉移的病患,假使 LDH 升高其預後較不好,但 LDH 並不適合用來作為偵測是否有轉移的指標(敏感度和特異性低)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - ...e nodes, or matted nodes, or in-transit met(s)/ satellite(s) with metastatic node(s) | | | | | | M stage | Site | Serum LDH | | | | | M1a | Distant skin, subcutaneous, | Normal | | | | | | or nodal metastases | | | | | | M1b | Lung metastases | Normal | | | | | M1c | All other visceral metastases | Normal | | | | | | Any distant metastasis | Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- ...,俗稱蠶豆症) | 此種疾病乃人類最常見的一種遺傳性疾病(性聯遺傳),即紅血球內葡萄糖新陳代謝異常的疾病,每百人中約二~三人帶有此病。在特殊環境下,「如吃蠶豆、接觸萘丸(臭丸)、擦紫藥水、服用磺胺劑及解熱鎮痛劑等」,會造成紅血球破裂產生急性溶血性貧血。 | | | Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- 【詳解】病人血氨上升代表病人肝臟 urea cycle 代謝出問題,(B)(C) 接有可能。但是 (C) 為性聯遺傳疾病,只有男性才會得到,因此 (C) 最不可能。Aspirin 在兒童常見的併發症為 Reye syndrome,此疾病的特點為 rapid and progressive encephalopathy 以及肝功能異常。Aspirin 其他副作用包括 metabolic acidosis、hyperglycemia、hyperkalemia、hypernatremia、hypoglycemia、edema、hypotension、arrhythmia、coma、confusion、dizziness、rhabdomyolysis、hemolytic anemia、thrombocytopenia。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 

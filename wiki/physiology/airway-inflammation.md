@@ -51,6 +51,7 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Airway inflammation (氣道發炎)'
   - 'Airway inflammation'
@@ -65,7 +66,7 @@ tags:
 
 ## Summary
 
-氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘 phenotype 與控制藥物選擇的免疫基礎。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +117,13 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- ..., 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (D) eosinophilic granuloma Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (D) 侵犯到脊椎體之嗜伊紅球性肉芽腫(eosinophilic granuloma), 需要執行開放性刮除手術 (open curettage) Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...fuse interstitial fibrosis)、特發性肺纖維化(idiopathic pulmonary fibrosis)、脫屑性間質性肺炎(Desquamative interstitial pneumonia)、嗜伊紅性肺炎(Eosinophilic pneumonia, caused by drugs, actinomycosis, and parasites)淋巴血管平滑肌肉增生症(Lymphangioleiomyomatosis, LAM)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - | Tis | Carcinoma in situ | |-----|--------------------------------------------| | T1a | 腫瘤侷限在胰臟內,最大徑≦ 0.5 cm | | T1b | 腫瘤侷限在胰臟內,0.5 cm 110 mg/dL),及膽固醇(cholesterol)低⑤淋巴球(lymphocyte)比率高,及中性白血球(neutrophil)比率低 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - Inflammation phase (發炎期):一受傷即同時開始發炎期,微血管通透性增加,白血球被 complement、TGF-β、IL-1、IgG、PDGF等吸引過來(趨化 chemotaxis)進行吞噬作用 (phagocytosis)。先以 neutrophil 為主,接著以 monocytes (受傷後第24至第48小時)和 macrophage (第48至第72小時)主導,lymphocyte 較晚點(第72小時以後)參與作用,此時期以 neutrophil、monocyte和 macrophage 為主要細胞。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
@@ -134,9 +139,6 @@ tags:
 - (3) colchicine 可抑制 neutrophil 的趨化作用,對於口腔粘膜和外陰潰瘍的治療有效,但對於眼部病變則較無效。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 3. 皮膚切片下為 leukocytoclastic vasculitis 的表現,會有 neutrophil 浸潤於血管本身或 周圍、nuclear dust、RBC 滲出到血管外、以及血管壞死。另可染 Direct immunofluorescence (DIF),去鑑別是哪種疾病引起的 small vessel vasculitis,例如: - (1) Henoch-Schönlein purpura:血管周圍有 IgA 沉澱。 - (2) Cryoglobulinaemia:血管周圍有 IgM 沉澱。 - (3) Cutaneous polyarteritis nodosa 和 ANCA-positive vasculitis: DIF 則多為 negative。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (B) 9. 下列那一種血管炎,c-ANCA(c-antineutrophil cytoplasmic autoantibodies)呈陽性的比例最高? - 一点,一点,一点, - (A) microscopic polyangiitis - (B) Wegener granulomatosis - (C) Henoch-Schönlein purpura - (D) Churg-Strauss syndrome Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 下列何項檢查最有助於診斷 Wegener's granulomatosis ? 醫四 -42 - (A) anti-histone antibodies - (B) antiproteinase-3 antineutrophil cytoplasmic antibodies ( PR3-ANCA ) - (C) anticardiolipin antibodies - (D) antinuclear antibodies (ANA) Source: [[sources/med4-book2-ch11|子、其 他]].
-- (C) 病灶的病理組織檢查常見嗜伊紅球(eosinophil)浸潤 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 
 ## Clinical Caveats
 

@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Neisseria meningitidis infection (腦膜炎雙球菌感染)'
   - 'Neisseria meningitidis infection'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-可造成流行性腦膜炎與敗血症，密切接觸者需預防性投藥與通報。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成流行性腦膜炎與敗血症，密切接觸者需預防性投藥與通報。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch04]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- 【詳解】脂肪栓塞症候群(Fat embolism syndrome)的三大特徵(triad): 神志不清(consciousness disturbance)with 6~12 hours lucid interval、呼吸困難(respiratory distress)、皮膚出血斑(petechiae)。常發生於長骨(long bone)或骨盆骨折患者,最常在骨折後 24~48 小時後併發症狀;應儘速提供呼吸治療為主,必要時予以氣管插管以呼吸器治療。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 2. 臨床症狀:隨時間症狀越來越明顯。 - (1) 呼吸窘迫 (respiratory distress)。 - (2) 意識改變 (altered mental status)。 - (3) 皮膚瘀青 (skin petechiae)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (D) 32. 一個 6 歲大的男孩,雙股及兩側下肢出現紫斑及出血疹,男孩無 98( ) 專 發燒,精神良好,但右膝腫脹,全血球計量正常,最可能診斷為: 醫四 -11 (A) 原發性血小板過低紫斑症 (idiopathic thrombocytopenic - (B) 青年型類風濕性關節炎(juvenile rheumatoid arthritis) - (C) 腦膜炎雙球菌敗血症(meningococcemia) - (D) 類過敏性紫斑症 Henoch-Schönlein (anaphylactoid) purpura 【詳解】(A) 全血球不會正常。(B) 會發燒。(C) 會發燒,且意識 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - ...------------------------------------|--|--| | 1~3 個月 | B 群鏈球菌、E. coli 、Listeria monocytogenes、肺炎鏈球菌、H. influenzaetype b、腦膜炎雙球菌(N. meningitides)、沙門氏菌(Salmonella) | | | | 3個月~3歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 3~12 歲 | 肺炎鏈球菌、腦膜炎雙球菌(N. meningitides)、H. influenzae type b | | | | 12 歲以後 | 肺炎鏈球菌、腦膜炎雙球菌 (N. meningitides) | Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
@@ -66,7 +69,6 @@ tags:
 - 1. 臨床疾病: - (1) 由飛沫傳染,在口咽寄生後,經由血液循環,造成腦膜炎、敗血症。 - (2) 猛爆性腦膜炎雙球菌血症(Waterhouse-Friderichsen syndrome),即雙側腎上腺出血,伴隨低血壓、出疹。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 2. 用於治療肺結核,因容易產生抗藥性,所以常和其他藥物併用。預防親密接觸 Neisseria meningitidis 患者被傳染。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...---------------------|-------------------------------------| | Penicillin G | Syphilis, leptospirosis, actinomycosis, | Neisseria meningitidis (0) | | | Gp A, B streptococcal infections, pneumococcal infections, viridans streptococcal endocarditis, | Viridans streptococci (5-10) | | | Oral and periodontal infections, Pasteurella multocida infections | Streptoc Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- 建議多做幾年考古題,把每年必考的幾個重點疾病把握住 (IE, meningitis, meningococcus, pneumococcus...) Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 
 ## Clinical Caveats
 

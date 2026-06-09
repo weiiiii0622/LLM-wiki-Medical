@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(五)第5冊泌尿`
-- Latest chapter source summaries: 9
-- Total chapter source summaries: 240
-- Total topic-first nodes: 1242
+- Latest ingested textbook: `醫(五)第6冊骨科`
+- Latest chapter source summaries: 10
+- Total chapter source summaries: 250
+- Total topic-first nodes: 1297
 
 ## Graph Shape
 

@@ -38,6 +38,7 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Blood pressure measurement (血壓測量)'
   - 'Blood pressure measurement'
@@ -52,7 +53,7 @@ tags:
 
 ## Summary
 
-正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +91,11 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 4. 一位 30 歲的男性工人從 6 公尺高的鷹架墜落,身體檢查顯示收縮壓 120 mmHg,右胸有明顯的連迦胸(flail chest),嚴重的呼吸窘迫(severe respiratory distress),右胸呼吸聲音稍微降低,叩診時則左右兩側類似。給予非再呼吸型面罩氧氣 15 L/min 後,其動脈氣體分析為 pH: 7.47,PaO2: 65 mmHg,PaCO2: 28 mmHg;下列何者最可能解釋他的異常動脈氣體分析之原因? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (C) 1. 一名墜樓的傷患,抵達急診時,檢查發現以下徵候:①氣管往右 104(二)專 側偏移 ②左側胸部呼吸聲微弱 ③左側胸壁出現皮下氣腫(sub-cutaneous emphysema) ④收縮壓低於 90 mmHg ⑤呼吸速率每 分鐘 26 次。則下列何種診斷最為可能? - (A) 右側大量血胸(right massive hemothorax) - (B) 右側張力性氣胸 (right tension pneumothorax) - (C) 左側張力性氣胸 (left tension pneumothorax) - (D) 心包膜填塞 (cardiac tamponade) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (2) 目標是控制心率在每分鐘 60~80 下,收縮壓 110~120 mmHg,mean arterial blood pressure 在 80 mmHg 左右。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
@@ -110,7 +113,6 @@ tags:
 - (C) 給予大量輸液及輸血,必須將病患收縮壓維持在 120 mmHg 以上才能轉送 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - 7. CCB for BP control and vasospasm • Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - 1. 保守療法和外科手術的治療結果差不多,目前多先採保守療法: - (1) 控制 blood pressure (約 140/90) 和 cerebral pressure。 - (2) 體液和電解質平衡。 - (3) 防止癲癇發生。 - (4) 校正凝血功能。 - (5) 插管和過度換氣。 - \*類固醇不建議使用在 ICH,會增加 complication 的機率(主要是感染)。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- (B) 缺血性腦中風,收縮壓> 200 mmHg,舒張壓> 100 mmHg 以上時,要緊急降壓 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

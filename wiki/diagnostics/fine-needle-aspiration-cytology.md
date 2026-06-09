@@ -12,6 +12,8 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch10]]"
 aliases:
   - 'Fine needle aspiration cytology, FNA (細針抽吸細胞學)'
   - 'Fine needle aspiration cytology, FNA'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-甲狀腺結節與其他表淺腫塊常用細胞學檢查，用於良惡性分流與手術決策。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺結節與其他表淺腫塊常用細胞學檢查，用於良惡性分流與手術決策。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,13 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch10]]
 
 ## Key Details From Sources
 
+- d. 確診:clinical + X-ray + cytology。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...chemotherapy | | | (5 yr survival rate: 70~90% in low grade; 30% in high grade) | | 久站會有疼痛感 | 診斷上要配合 clinical + x-ray + cytology | | | undifferentiated chondrosarcoma, | | | mesenchymal chondrosarcoma 惡性度極高。 | | 細胞形態有較大變化時,需 DDx: | Lymphoma, metastatic disease, myeloma | | chondrosarcoma | | | Eccentric, lytic lesion, scallaoped and sclerotic | 多 Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - (1) 嗜酸細胞瘤 (oncocytoma): - a. 病理:棕色病灶,由大量嗜酸性顆粒上皮細胞構成。細胞表現變化大,從良性到惡性侵犯淋巴系統都有。診斷靠病理診斷,取得檢體的方式是腎切除,細針抽吸較難診斷。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ii. 細針抽吸(fine-needle aspiration):主要用在已經確定有多重轉移癌的病人(無法切除而根治),用以判斷在腎臟腫瘤的細胞形態。其他適應症包括:用以診斷不適合手術的病人、腎臟以外轉移至腎臟的腫瘤、影像上難以辨別的腫瘤。判斷準確率 95%、敏感度 85%,因檢查造成 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (2) 痰液分析(Sputum cytology) Source: [[sources/med5-book4-ch03|丙、肺]].

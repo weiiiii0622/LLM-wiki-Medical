@@ -30,6 +30,8 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch10]]"
 aliases:
   - 'Headache (頭痛)'
   - 'Headache'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,13 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch07]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch10]]
 
 ## Key Details From Sources
 
+- 【詳解】血清電泳出現異常蛋白質診斷是 MM 或是 MGUS,常 發生骨頭痛或病理性骨折。(C) 應為高血鈣。(D) 化學治療。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...val or | | | drill removal or coagulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the sta Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - ...TI 的兒童。成人少見,因為腎臟已發育完全不易損傷。 - c. 菌種:不一定有存在的感染,而是腎臟已產生損傷。 - d. 臨床表徵: - (a) 症狀:大多無直接症狀。常因其導致的併發症經進一步檢查後發現,如 腎功能不全、高血壓、視覺衰退、頭痛、疲勞和多尿。 - (b) 實驗室檢查:尿正常,也可能有 WBC 及蛋白尿。血中 creatinine 升高。 - (c) 影像:用 IVG、超音波或 CT 可看到腎萎縮。 - e. 治療: - (a) 治療效果有限,因為已經造成的傷害是不可逆的。 - (b) 需找出反覆泌尿道感染的成因並治療,如結石或結構異常。兒童有膀胱輸尿管逆流(UV reflux)則易引起反覆泌尿道感染,可使用長期預防性的抗生素。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - iii. 轉移症狀: 25% 發現時已轉移,可能血尿、呼吸不順咳嗽、骨頭痛。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - iv. 放射性核素顯像(radionuclide imaging): 就是骨骼掃描(bone scan),判斷癌症是否有骨轉移以決定分期。若無骨頭痛且ALP (alkaline phosphatase,鹼性燐酸酶)值正常,則骨轉移機率極低。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -93,8 +99,6 @@ tags:
 - 6. 處置: - (1) 藥物治療:90% 可以癒合 - a. 首要維持排便通暢,降低肛門內括約肌痙攣,故急性期多先給予軟便劑並教 導正確排便習慣。 - b. 溫水坐浴:使肛門內括約肌放鬆,增加局部血流加速肛裂癒合。 - c. 局部塗抹 glyceryl trinitrate (GTN) ointment (0.2~0.4%), 也是使肛門內括約 肌放鬆,增加局部血流加速肛裂癒合。不過會有頭痛的副作用。 - d. GTN 失敗時可考慮使用 diltiazem ointment、CCB 或注射肉毒桿菌至肛門內括約肌。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
 - ...AVM 周圍的腦組織血流減少。 - (4) 神經學缺損 (neurological deficit): - a. 大型 AVM,尤其是影響到基底核,會使病人逐漸表現出失智症的現象,且有 半身癱瘓或視野缺損。可能與盜血效應有關。 - (5) 頭痛。 - (6) 雜音(bruit):尤其是眼球。 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
 - ...(一)專 | | | 列何 | 者較少? | 醫五-20 | | | (A) [ | 順內出血(intracranial hemorrhage) | | | | (B) 鬚 | 癲癇(seizure) | | | | (C) 5 | 頂痛(headache) | | | | (D) ½ | 步熊不穩(unstable gait) | | Source: [[sources/med5-book1-ch16|庚、血管畸形]].
-- (B) 4.34 歲男性,車禍外傷,劇烈頭痛,意識混亂,CT 影像圖 A 可見 107(2) 專 左臉頰腫脹,根據圖 B 箭頭所指的是: Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- (A) 5. 根據 Hunt and Hess SAH classification,一個蜘蛛膜下腔出血(SAH) 105(二)專 病人,臨床上只有輕微頭痛及輕微頸部僵硬,且無其他神經學檢 醫五-15 查異常(focal neurological deficit),其 grade 應為下列何者? - (A) 1 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 
 ## Clinical Caveats
 

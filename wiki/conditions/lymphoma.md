@@ -46,6 +46,8 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch10]]"
 aliases:
   - 'Lymphoma (淋巴瘤)'
   - 'Lymphoma'
@@ -60,7 +62,7 @@ tags:
 
 ## Summary
 
-淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -106,9 +108,15 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch10]]
 
 ## Key Details From Sources
 
+- ...rysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- a. 腫瘤是從 bone marrow 長出來的,細胞切片型態是小小圓圓的 (small round cell),容易與 lymphoma 混淆,可藉由免疫染色法來區分。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (4) 病理: Ewing's sarcoma 和 lymphoma 一樣, 在 micro 下都會出現小小圓圓的細胞。鑑別 診斷的方法可以用下面兩種: - a. PAS 染色:Ewing's sarcoma 用 PAS 染色呈現陽性。 - b. 免疫染色法:Ewing's sarcoma 會是 HBA-71 Ab(+),lymphoma 和 neuroblastoma 則呈現 HBA-71 Ab(-)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...x-ray + cytology | | | undifferentiated chondrosarcoma, | | | mesenchymal chondrosarcoma 惡性度極高。 | | 細胞形態有較大變化時,需 DDx: | Lymphoma, metastatic disease, myeloma | | chondrosarcoma | | | Eccentric, lytic lesion, scallaoped and sclerotic | 多樣化, exostosis, enostosis | | border | 中軸:較厚,透明的病灶,well-delineated,有鈣化 | | | (popcorn like pattern) | | | 周邊:較大,鈣 Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - 109(二)專 (C) 2.50 歲男性病人主訴最近肉眼可見血尿。下圖為靜脈注射尿路 X 光 攝影 (intravenous urography)。最可能的診斷為何? 醫五-73 - (A) renal cell carcinoma - (B) renal lymphoma Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (B) 續發性睪丸惡性腫瘤最常見為 lymphoma Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -123,10 +131,6 @@ tags:
 - ...acetylene $\circ$ - (3) 腫瘤: - a. 淋巴轉移 (Lymphangitic spread)。 - b. 血循轉移(Hematogenous metastases)。 - c. 白血病(Leukemia)、淋巴癌(lymphoma)、支氣管肺泡肺腺癌(bronchiolo-alveolar cell cancer)。 - (4) 家族遺傳 (Congenital): Niemann-Pick disease, Gaucher disease, neurofibromatosis, and tuberous fibrosis。 - (5) 代謝性或未知因素 (Metabolic and unknown): 肝病 (Liver disease)、尿毒症 (uremi Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - J. 胃淋巴瘤(Gastric lymphoma) 47 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 2. 胃癌包括胃腺癌、惡性淋巴瘤等,其中胃腺癌約佔90%。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 1. 病理類型: - (1) 胃腺癌 (adenocarcinoma): 90%。 - (2) 類癌 (carcinoid):5%。 - (3) 惡性淋巴瘤 (lymphoma): 3%。 - (4) 惡性胃腸基質瘤 (gastrointestinal stromal tumors, GISTs): 1%。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 1. 腺癌 (Adenocarcinoma): - (1) 前言:**腺癌(Adenocarcinoma)**是最常見的小腸惡性腫瘤,較常出現在年紀大的患者。 - a. 腺癌 (Adenocarcinoma): 40% - b. 類癌 (Carcinoid): 25% - c. 淋巴癌 (Lymphoma): 10%~20% - d. 平滑肌肉瘤 (Leiomyosarcoma): 20% Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 2. 小腸淋巴癌 (Lymphoma): - (1) 病灶多見於迴腸。 - (2) 淋巴瘤早期會局限在黏膜層及黏膜下層。 - (3) 病理組織上,因淋巴細胞浸潤,將會導致黏膜層腫脹。 - (4) 所有的小腸淋巴癌幾乎都是 non-Hodgkin, B-cell lymphomas。 - (5) 危險因子:與 celiac disease、Crohn's disease 或免疫力低下如 HIV 相關。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 
 ## Clinical Caveats
 

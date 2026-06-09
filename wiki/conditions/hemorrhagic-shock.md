@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Hemorrhagic shock (出血性休克)'
   - 'Hemorrhagic shock'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-急性失血造成循環衰竭，需止血、輸血、凝血矯正與 damage control resuscitation。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性失血造成循環衰竭，需止血、輸血、凝血矯正與 damage control resuscitation。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (B) 出血性休克(hemorrhagic shock) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 主動脈血管壁有內膜(tunica intima)、中膜(tunica media)和外膜(tunica adventitia)三層,當內膜因主動脈高壓血流衝擊而破裂時,會導致血液流入血管壁,進一步將內膜和中膜撕裂開來,形成假腔(false lumen)。自內膜破口灌注入假腔的血流使其逐漸膨脹甚至會壓迫到真腔(true lumen),降低通過的血流量(flow volume)進而影響到全身各器官血液供應,造成器官灌流不足(organ malperfusion),又由於假腔的血管外壁脆弱,容易破裂引起大出血、出血性休克甚至死亡。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (C) 1. 對一體重 60 公斤的成人而言,關於出血性休克的分期,何者正確? 109(二)專 - 醫五-29 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -51,10 +54,12 @@ tags:
 
 - [[conditions/abdominal-trauma|Abdominal trauma (腹部創傷)]]
 - [[procedures/damage-control-surgery|Damage control surgery (損傷控制手術)]]
+- [[conditions/femoral-shaft-fracture|Femoral shaft fracture (股骨幹骨折)]]
 - [[diagnostics/focused-assessment-with-sonography-for-trauma|FAST exam (創傷超音波快速評估)]]
 - [[conditions/hemothorax|Hemothorax (血胸)]]
 - [[concepts/lethal-triad-trauma|Lethal triad of trauma (創傷致命三角)]]
 - [[procedures/massive-transfusion-protocol|Massive transfusion protocol, MTP (大量輸血流程)]]
+- [[conditions/pelvic-fracture|Pelvic fracture (骨盆骨折)]]
 - [[conditions/renal-trauma|Renal trauma (腎臟外傷)]]
 - [[conditions/shock|Shock (休克)]]
 

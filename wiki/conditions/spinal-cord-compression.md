@@ -25,6 +25,10 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book5-ch09]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med5-book6-ch05]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Malignant spinal cord compression (惡性脊髓壓迫)'
   - 'Malignant spinal cord compression'
@@ -39,7 +43,7 @@ tags:
 
 ## Summary
 
-癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +68,18 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book5-ch09]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch04]]
+- [[sources/med5-book6-ch05]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- ...eochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 【 詳解 】(A) Enneking stage IIB(maliganent)是指 high grade, extra-compartmental lesion, no metastasis;(B) 通常合併化療,非放射治療;(D) 目前主要採用肢體保留手術為主,除非腫瘤太大、free margin 太少,不會增加 recurrence rate, survival rate 也無太大差異。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (B) bone metastasis Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- (C) bone metastasis Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- d. 診斷的標準: - (a) 影像上有 sacroiliitis +下方一個特徵。 - (b) HLA-B27(+) + 下方大於(或等於)兩個特徵:dactylitis, positive family history, inflammatory back pain, enthesitis, arthritis, inflammatory bowel disease, uveitis。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...ty tissue - (4) Stage III: Invades adjacent organs (great vessels, pericardium, or lung) - (5) Stage IVa: Intrathoracic metastasis (pleural or pericardial dissemination) - (6) Stage IVb: Extrathoracic metastasis (uncommon) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...a | | N category | | | NX | Regional lymph nodes cannot be assessed | | N0 | No regional lymph node metastases | | N1 | Metastasis in 1~2 regional lymph nodes | | N2 | Metastasis in 3~6 regional lymph nodes | | N3 | Metastasis in 7 regional lymph nodes | Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -80,11 +93,6 @@ tags:
 - (7) 預後:分化良好型甲狀腺癌有許多套預後評估系統,常用的有 AGES (Age, pathologic Grade of tumor, and Extent and Size of primary tumor) 或 AMES (Age, distant Metastasis, Extent of the primary tumor, and the Size of the primary tumor)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - ...| Extent | No local extension, intra-thyroidal, no capsular invasion | Capsular invasion, extra-thyroidal extension | | Metastasis | None | Regional or distant | | Size | 4 cm | | Grade | Well differentiated | Poorly differentiated | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 1. 硬膜外腫瘤 (extradural spinal cord tumor):55% - (1) 轉移癌 (metastasis): - a. 佔硬膜外腫瘤最大宗,多為蝕骨性(osteolytic)。 - b. 原發位置:乳房、肺、前列腺或腎臟。 - c. 轉移位置: 最常轉移至胸椎,但病灶往往不只侷限於一部位。 - d. 臨床表現: - (a) 疼痛:骨頭痛及觸痛,為最常見症狀。 - (b) 運動或自主神經功能異常:第二常見,會有 urinary urgency 和 retention。 - (c) 感覺異常。 - (d) 脊椎骨被侵蝕導致病理性骨折、高血鈣。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- | (B) 18. | 下列何者是最常見之脊椎硬脊膜上轉移(spinal epidural metastasis) | 105(二)專 | |---------|-----------------------------------------------------|---------| | | 初期症狀? | 醫五 -13 | | | (A) 神經根病變(radiculopathy) | | | | (B) 局部疼痛 (local pain) | | | | (C) 尿液滯留 (urinary retension) | | | | (D)下肢 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...ologic fracture)的敘述,何者錯誤? | 104(二)專 | | (A) 多為轉移性腫瘤(metastatic tumor)造成 | 醫五 -12 | | (B) 常見的腫瘤來源為肺癌、乳癌等 | | | (C) 判斷腫瘤對於脊髓壓迫的嚴重程度時,CT 比 MRI 更適合 | | | (D) 當病患下肢日漸無力或有大小便失禁等症狀時應考慮手術 | | | 減壓 | | | (C) 25. 有關脊椎損傷,下列何者錯誤? | 104(二)專 | | (A) 只要下肢仍有感覺就屬於不完全性的損傷 | 醫五 -75 | | (B) Central cord syndrome 指病人理學檢查時上肢比下肢無力 | | | (C) Brown-Séquard syndrome 指 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- (B) 6. 大多數的癌症會經由淋巴管轉移(lymphatic metastasis),因此淋巴結廓清手術是惡性腫瘤手術的重要步驟。下列何種惡性腫瘤因很少有淋巴結轉移(25 \times 60 + 40 \times 18 = 2,220 \text{ kcal}$ 。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (C) Metastasis with peripheral brain tissue edema Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (C) 轉移 (metastasis) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 
 ## Clinical Caveats
 
@@ -93,6 +101,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/bone-metastasis|Bone metastasis (骨轉移)]]
 - [[conditions/spinal-tumor|Spinal tumor / spinal cord tumor (脊椎與脊髓腫瘤)]]
 
 ## Follow-up

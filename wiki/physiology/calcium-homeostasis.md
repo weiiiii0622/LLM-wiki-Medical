@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book2-ch21]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Calcium homeostasis (鈣離子恆定)'
   - 'Calcium homeostasis'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,13 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - [[sources/med5-book2-ch21]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- ...estrogenic activity regulator, STEA)。 - (c) 賀爾蒙補充療法(HRT)。 - (d) 雙磷酸鹽類(biphophonate):常做為第一線藥物。 - (e) 維生素 D、鈣。 - (f) 抑鈣素 (calcitonin)。 - (g) 細胞核 kB 受體活化因子配體抑制劑(RANKL inhibitor)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- b. 促成骨 (bone-forming medication): 副甲狀腺素 (PTH),可以使 osteoblast 活性上升,增加骨質密度,但此類藥品要間斷使用 (intermittent use),如持續使用 (continuous use) 反而會有蝕骨作用。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (D) 1,25-(OH)2 vitamin D 可增加腸道的鈣結合蛋白 (calcium binding protein) 來增進鈣質吸收 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...mega-3 fatty acid 及 vitamin | 醫五 -67 | | | E的食物,具有保護作用,比較不會產生前列腺癌 | | | | (B) 增加動物性脂肪或紅色肉類的攝取量會增加前列腺癌之發生 | | | | (C) 增加 vitamin D 及鈣之攝取會減低前列腺癌之發生 | | | | (D) 多吃魚肉或植物性食物可以減低前列腺癌發生 | | | (T) | | | | (D) | 9. 下列有關良性前列腺肥大接受經尿道前列腺切除手術治療,產生 | | | | TUR syndrome 的敘述,何者錯誤? | 醫五 -68 | | | (A) 病人會有 nausea、vomiting、confusion、hypertension、bradycardia、 | | | | Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - 5. 細胞: - (1) 濾泡細胞 (follicular cell): 合成分泌 T3、T4。 - (2) 濾泡旁細胞(parafollicular cell):又叫 C cell,分泌降鈣素(calcitonin)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -78,9 +83,6 @@ PTH、vitamin D、腎臟、腸道與骨骼共同維持鈣磷平衡。 本頁已�
 - 3. Pseudohypoparathyroidism: PTH 分泌正常但 PTH receptor (bone、kidney) 發生缺陷造成 PTH 抗性。病人有矮胖、圓臉、皮下鈣化、第四指骨短、智能不足,特稱為 Albright's hereditary osteodystrophy (AHO)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (2) 出院治療則是補充 Vitamin D、口服鈣片使血鈣維持正常。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (1) 常見的有 CBC/DC、CRP、procalcitonin。但是有時病毒性感染(如 adenovirus) 也會造成 WBC、CRP、procalcitonin 高,判別上會增加困難。一般而言,可以 用白血球數以及其分類初步判斷肺炎的病原體: Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (C) 血清 1,25-dihydroxyvitamin D 濃度正常 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...Other condition | |------------|------------------|-----------|-----------------------|------------------| | Hormone | Calcitonin | 12 min | 甲狀腺癌 (Medullary ca.) | | | | β -нсс | 18~24 hr | 生殖細胞癌 (GCT), GTD | 懷孕 | | Tumor | PSA | 2~3 d | 前列腺癌 | BPH, Prostatitis | | associated | CA125 | 4~5 d | 卵巢癌 | 月經、腹膜炎 | | protein | CA153 | \*GTD = Gestational Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- (4) Calcitonin:對於需要快速降鈣也有其角色。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
 
 ## Clinical Caveats
 

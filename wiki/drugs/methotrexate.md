@@ -23,6 +23,7 @@ sources:
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Methotrexate, MTX (甲氨蝶呤)'
   - 'Methotrexate, MTX'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗葉酸藥物；低劑量為 RA 核心 DMARD，高劑量用於部分腫瘤治療。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ tags:
 - [[sources/med4-book2-ch09]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- a. 術前化療(preoperative chemotherapy): 使腫瘤變小,使手術時切除的範圍較小,如果有 tumor necrosis 的跡象,則有較好的 prognosis。 - (a) 化療 (multiple-agent CT) 常用的藥物包括: MICD (high-dose MTX、ifosfamide、cisplatin、doxorubicin)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (d) 系統性化學治療: - i. 化療項目: - (i) 單一化療藥物:效果最好的是 cisplatin,反應率 (Response rates) 30%。其他對膀胱癌有效果的化療藥包括 methotrexate、doxorubicin、vinblastine、cyclophosphamide、 gemcitabine 和 5-fluorouraci。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - (ii) 複合化療藥物:比單一化療藥效果更好,約 25%的病患有完全 的反應率 (complete response), 復合化療藥毒性較大。最常使 用的複合化療藥配方是 CG (Cisplatin + Gemcitabine),其次是 MVAC (Methotrexate + Vinblastine + doxorubicin (Adriamycin) + cisplatin, 3%的人因 MVAC 的毒性導致死亡)。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - c. 系統性疾病:使用化療藥物。主要的化療藥物:bleomycin、methotrexate、cisplatin 或 5-fluorouracil。放射線治療效果不彰。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
@@ -80,7 +83,6 @@ tags:
 - (2) 抑制二氫葉酸還原成四氫葉酸作用: - a. Methotrexate (MTX) →血癌 (ALL) - (a) 高劑量 MTX 會產生嚴重的骨髓抑制、黏膜破損,因此注射後 12 小時會給予 Leucovorin(Folinic acid = 擬葉酸劑)來拯救正常骨髓及黏膜細胞,減少毒性。Folinic acid 不需要 Dihydrofolate reductase,就可以一直當作 Thymidylate synthase 的輔酶。 - (b) MTX 還可能在腎血管結晶,所以需鹼化尿液,避免腎功能受 Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - | 比較化藥配方 | Folinic acid (Leucovorin) 目的 | |----------------------------------|-------------------------------| | MTX + Folinic acid (Leucovorin) | 拯救 (Rescue) 毒性 | | 5-FU + Folinic acid (Leucovorin) | 加強 (Synergistic effect) 殺腫瘤效果 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 - (1) 這類藥物毒性較強,所以建議於 MTX 等 DMARD、生物製劑無效者,再考慮使用; 或病患發生血管炎時,常需使用免疫抑制劑治療。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- ...主訴兩側手腕關節及手指關節腫痛已 3 個多月。抽血檢查,ESR 及 CRP 皆明顯上升,且類風濕因子也呈陽性。雙手 X 光也發現關節邊緣性腐蝕現象。此時,除給予消炎止痛劑 (NSAID) 外,最適宜再給予的免疫調節劑為下列那一種? (A) methotrexate (B) cyclosporine (C) cyclophosphamide (D) azathioprine | 103(二)專醫三-8 | | (B) | 8. 下列何者對 Cyclooxygenase (COX)-2 之選擇性抑制性最高? (A) 阿斯匹靈(Aspirin) (B) Celecoxib (C) Ibuprofen (D) Indomethacin | 102(一)專醫三-2 | | (C) | 9. 下列有關 Rh Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 
 ## Clinical Caveats
 
@@ -89,6 +91,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/osteosarcoma|Osteosarcoma (骨肉瘤)]]
 - [[conditions/psoriasis|Psoriasis (乾癬)]]
 
 ## Follow-up

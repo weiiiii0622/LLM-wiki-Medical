@@ -36,6 +36,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch06]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Mechanical ventilation (機械通氣)'
   - 'Mechanical ventilation'
@@ -50,7 +51,7 @@ tags:
 
 ## Summary
 
-呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+呼吸衰竭支持治療，設定與肺保護策略需依病況調整。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +87,11 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch06]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- 【詳解】脂肪栓塞症候群(Fat embolism syndrome)的三大特徵(triad): 神志不清(consciousness disturbance)with 6~12 hours lucid interval、呼吸困難(respiratory distress)、皮膚出血斑(petechiae)。常發生於長骨(long bone)或骨盆骨折患者,最常在骨折後 24~48 小時後併發症狀;應儘速提供呼吸治療為主,必要時予以氣管插管以呼吸器治療。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (D) 9. 當你接收到一位嚴重創傷已插有氣管內管插管 (endotracheal tube) 103(二)專 的轉診病人時,下列處置何者最適當? 醫五-73 - (A) 儘快接上呼吸器 - (B) 趕快評估其他未被發現的傷害 - (C) 迅速地拔除氣管內插管並給予足夠的氧氣 - (D) 檢查氣管內插管的位置是否在正確位置上 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (3) 插管和呼吸機支持:給予呼氣終端壓力(PEEP)、適當止痛。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - TLC = total lung capacity 總肺容積 Vt = tidal volume 潮氣容積, 一般吸吐氣量 IC = inspiratory capacity 最大吸氣容積 FRC = functional residual capacity 功能性肺餘容積 ERV = respiratory revserve volume 吐氣保留容積, 一般吐氣保留之可吐氣容積 RV = residual volume 條肺容積, 無法利用來吸吐氣之容積 VC = vital capacity Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -106,7 +109,6 @@ tags:
 - (B) 3. 人類因為感染或外傷可引發全身性發炎反應症候群(systemic inflammatory response syndrome, SIRS),其臨床表現含:①體溫 > 38℃,或≤36℃ ②心率≥90 / 分 ③呼吸速率≥20 / 分, 或 PaCO2 ≤ 32 毫 米 汞 柱 , 或 需 要 機 械 式 通 氣 (mechanical ventilation) ④白血球 $\geq 12,000$ / 微升 ( $\mu$ L),或 $\leq 4,000$ / 微 升 $(\mu L)$ ,或 band forms ≥ 10%。若病患要被診斷為全身性發炎 反應症候群,至少須合乎上列幾種條件? - (A) 一種 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 【詳解】(A)(B)(D)屬 clean wound,不需預防性抗生素,(C)手術過程牽涉到呼吸器官/腔隙,需給予預防性抗生素。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- (B) 嚴重酸性化學灼傷若引起血中酸鹼值異常及呼吸困難,可能 需要氣管內插管及使用呼吸機(ventilator)協助呼吸 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 

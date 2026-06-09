@@ -32,6 +32,8 @@ sources:
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Shock (休克)'
   - 'Shock'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,15 @@ tags:
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- | (A) 截肢病人若出現休克現象就要立即進行接合手術(replantation) 醫五-76 (B) 骨折固定可減少疼痛及避免進一步軟組織傷害 (C) 懷疑有動脈血管損傷必須考慮安排血管攝影檢查 (D) 近關節處的傷口不要嘗試從傷口注入生理食鹽水來檢查是否與關節腔相通 【詳解】(A) 休克可能是因為失血太多,第一必須先穩定生命徵象,再考慮麻醉作接合手術,因為麻醉本身也會造成相對低血壓,大量出血造成的休克可能要考慮先用血管栓塞止血;另一方面有可能是感染造成的休克,此 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- 1. 骨盆骨折的特性:有三高。 - (1) High energy trauma: 骨盆周圍的韌帶非常強韌而穩定,所以若骨盆受傷表示一定受到很高能量的傷害,在台灣常見於車禍意外或高處墜落。 - (2) High morbidity: 高能量的外力破壞造成胸部、腦部、腹部的伴隨傷害 (associated injury)、同時有 15% 病人會合併骨盆腔器官、神經血管的傷害,如果有血管的傷害常會合併大量的出血。 - (3) High mortality: 不穩定的骨盆骨折死亡率可高達 10%。若是不穩定的骨盆骨折 再加上開放性骨折或是腦部、胸部的傷害,造成休克,死亡率甚至可升高到 50%。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- (1) 早期: - a. Vital sign 不穩、失血過多、休克。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - i. $\alpha_1$ -blockers 對三個亞型的平滑肌都放鬆的作用,故會造成: - (i) 逆行性射精 (retrograde ejaculation,膀胱底及攝護腺有 α1A):5%。 - (ii) 疲勞感及姿勢性低血壓 (orthostatic hypotension,全身血管有 αIB):5%。 - (iii)造成頭暈、鼻炎或頭痛(鼻道有 αID):10%。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (B) 出血性休克(hemorrhagic shock) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...oxazosin、tamsulosin及 alfuzosin等 (C) 有時 anticholinergics 會造成排尿更困難,因為它會造成膀胱逼尿肌收縮力變較差 (D) α-adrenergic blockers 常見到的副作用為姿態性低血壓及腹瀉【詳解】一律給分。 | 104(一)專醫五-69 | |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -95,10 +103,6 @@ tags:
 - 4. 張力性氣胸 (Tension pneumothorax): - (1) 機轉 & 成因:單肺全塌、氣管偏移和縱隔偏移導致回心血減少、低血壓和呼吸 困難。常發生在使用正壓呼吸支持的肺實質損傷患者。 - (2) 臨床表現:呼吸變快、呼吸困難、低血壓、冒冷汗(diaphoresis)、頸靜脈擴張。 - (3) 診斷:以臨床表現判斷。不必以胸部 X 光確認診斷以免延誤治療造成心肺循環 失能。 - (4) 治療:初期以大號針頭插入第2肋間和鎖骨中線交界處,後續進行胸廓造口術 (tube thoracostomy),而擴張的肺和肋膜會密封肺缺口。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (A) 4.15 歲車禍傷患主訴左上腹部劇痛,而且逐漸呈現休克狀態。電 腦斷層檢查如附圖。箭頭所指之異常最符合下列那一項診斷? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 【詳解】此電腦斷層可見 liver laceration。在小朋友的 liver laceration 當中,絕大部分的病人是不需要輸血的,除非病人的 Hb 非常低,或是 vital sign 出現問題的時候才會考慮輸血。若 vital sign stable 時,可嘗試保守性療法治療病人,若出現 shock、大量輸血時,才考慮進行 laparotomy 剖腹探查術。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- b. Reynolds's pentad: Charcot's triad 再加上休克與意識改變,發生比率小於 10%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 【詳解】Peritonitis 為急症,可能會有 malignant hypercapnia 和 toxic shock syndrome,要以 open 的方式介入。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 2. 在臨床上,急性非結石性膽囊炎發生原因主要與膽囊缺血、膽汁淤積相關。 - (1) 膽囊缺血:大面積燒傷、多重外傷、重度感染、重大手術術後、急性心肌梗塞 患者等疾病,這些患者都容易低血壓、休克或心衰竭,導致膽囊壁的供血不足。 - (2) 膽汁淤積:患者因感染體溫上升或脫水,使得膽汁黏稠度增高,淤積於膽囊,造成膽囊發炎。一旦膽囊持續因缺血而缺氧,很容易造成 gangrene 的變化,甚至造成膽囊的 perforation 而致死。因此急性非結石性膽囊炎可做為判定多重器官衰竭預後不佳的早期徵兆。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
-- ...15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 
 ## Clinical Caveats
 

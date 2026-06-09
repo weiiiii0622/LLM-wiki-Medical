@@ -2,12 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch19]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch11]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch05]]"
 aliases:
   - 'Chemotherapy extravasation (化療藥物外滲)'
   - 'Chemotherapy extravasation'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-vesicant 化療外滲可造成組織壞死，處置依藥物類別不同。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+vesicant 化療外滲可造成組織壞死，處置依藥物類別不同。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ vesicant 化療外滲可造成組織壞死，處置依藥物類別不同。 本�
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch11]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch05]]
 
 ## Key Details From Sources
 
+- (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (B) 冰敷,並且給予抗凝血劑,以免血管阻塞 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- ...----------------------------|----------------| | Type I | Acromioclavicular (AC) ligamentsprain 但 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament 卻完整 | | | Type II | AC ligament 撕裂,AC 關節半脫位,且 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament sprain | | | Type III | AC and CC ligaments 撕裂,整個關節完全脫位 | 可保守治療或手術, | | | | 原則上還是休息、冰 | | | Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- (1) Nondisplaced, extraarticular 的骨折(type I/II)(不過此類型的病人除非年紀大、不適合開刀,不然還是以開刀為主): - a. 吊 slint。 - b. 手舉高。 - c. 冰敷。 - d. 加強肩膀與手指的主動運動。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - d. 熱敷有助於加快 furuncle 化膿排出的過程。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (C) 8. 曾接受腹部手術後的病人,因腸胃不適,常長期局部熱敷減輕症狀,皮膚出現如圖所示的色素沉著,下列敘述何者正確? Source: [[sources/med4-book2-ch11|子、其 他]].
 - ...yroidism (D) Wilson disease 【詳解】新生兒感染、代謝性疾病(ex:galactosemia、hypothyroidism、tyrosinosis、hypermethioninemia)、溶血性貧血、血 液外渗 (extravasation, 如 cephalohematoma、internal bleeding)、 Crigler-Najjar syndrome type I/II · Gilbert syndrome · biliary atresia、choledochal cyst、biliary narrowing、cholelithiasis 等,均 會造成延遲性黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].

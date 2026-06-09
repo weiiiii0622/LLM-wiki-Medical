@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch07]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Rate control (心率控制)'
   - 'Rate control'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-AF 等心律不整控制心室反應速率的策略。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+AF 等心律不整控制心室反應速率的策略。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ AF 等心律不整控制心室反應速率的策略。 本頁已整合至 `醫(�
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (A) 4. 一位 35 歲女性,因車禍至急診處,左大腿非開放性股骨骨折。 經急診住院,預計第二天進行骨科手術。清晨病人非常焦慮,發 燒 38.7℃,心跳約 110 /分,頸部甲狀腺約三度腫大。此時最 好的檢查及治療不包括下列何者? - (A) 儘快施行骨科手術 - (B) 抽血檢驗 T3、T4、TSH - (C) 冰氈及退燒藥 - (D) beta blockers, corticosteroid 靜脈注射 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - a. 可用 Digoxin、利尿劑、血管擴張劑等來控制心衰竭,一般追蹤到一至兩歲 左右假使 VSD 自然閉合的機率不大則來決定是否開刀。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (A) 藥物療法除了心率控制以外,須包括抗凝血療法以減少血栓 產生 Source: [[sources/med5-book2-ch08|辛、其 他]].

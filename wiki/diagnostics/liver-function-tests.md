@@ -49,6 +49,7 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Liver function tests, LFTs (肝功能檢查)'
   - 'Liver function tests, LFTs'
@@ -63,7 +64,7 @@ tags:
 
 ## Summary
 
-用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +113,11 @@ tags:
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (C) 世界衛生組織定義 T-score ↓ | ↑ | | | Phosphate | _ | _ | ↓ | ↑ | _ | | ALP | | _ | | ↑ | | | PTH | _ | _ | ↑ | ↑ | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 (PPT)延長,通常也伴隨發燒、疲倦、體重減輕。這些是因腫瘤分泌刺激因子(粒細胞—巨噬細胞群刺激因子 GMCSF = granulocyte-macrophage colony stimulating factor)造成,切除病灶後可回復。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - iv. 放射性核素顯像(radionuclide imaging): 就是骨骼掃描(bone scan),判斷癌症是否有骨轉移以決定分期。若無骨頭痛且ALP (alkaline phosphatase,鹼性燐酸酶)值正常,則骨轉移機率極低。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - a. 症狀:頻尿、急尿、夜尿、恥骨上疼痛。這些症狀會隨著膀胱漲大而加劇, 故膀胱容量常不大( 1 cm 視為轉移。表淺(Ta、Tis)腫瘤不一定要作。另外 也可排除腫瘤由上泌尿道來的可能性。 - (c) Chest X-ray: 判斷是否肺轉移。 - (d) Bone scan:判斷是否骨轉移。如果抽血 ALP 正常則不一定要作。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
@@ -132,7 +135,6 @@ tags:
 - (a) 血液生化檢查可見 Amylase、Bilirubin 上升。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (1) 血液中 Ca ↑、PTH ↑、ALP ↑、P ↓、Cl ↑ (PTH 促 HCO₃ 排出導致 hyperchloremic metabolic acidosis)、Cl: P > 33:1。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...醫五-59 (A) 鈣離子 (calcium ion) 濃度 (B) 磷酸根離子 (phosphate ion) 濃度 (C) 鎂離子 (magnesium ion) 濃度 (D) 鹼性磷酸酶 (alkaline phosphatase, ALP) 濃度 【詳解】副甲狀腺術後低血鈣多為暫時性,但也有少數病患因 骨骼飢餓症候群(Hungry bone syndrome)造成永久性低血鈣, 其風險因子為術前嚴重骨病變、術前血中尿素氮濃度較高、術 前血中鹼性磷酸酶濃度較高或病患年紀較大。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- ...二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disease濾泡腺瘤Drug-induced hyperthyroidism Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 
 ## Clinical Caveats
 

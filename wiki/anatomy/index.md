@@ -20,6 +20,7 @@ Organs, structures, and regions.
 - [[anatomy/anal-canal|Anal canal (肛管)]] - 肛管解剖包含 dentate line、內外括約肌、血管與淋巴引流，決定痔瘡、肛裂、膿瘍與直腸癌處置。
 - [[anatomy/basal-ganglia|Basal ganglia (基底核)]] - 調節動作起始、抑制與不自主運動；Parkinson disease、Huntington disease、Wilson disease 常涉及此迴路。
 - [[anatomy/biliary-tract|Biliary tract (膽道系統)]] - 膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。
+- [[anatomy/brachial-plexus|Brachial plexus (臂神經叢)]] - 由 C5-T1 roots 形成 trunks、divisions、cords 與 terminal branches，支配上肢運動與感覺。
 - [[anatomy/brainstem|Brainstem (腦幹)]] - 中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。
 - [[anatomy/central-nervous-system|Central nervous system, CNS (中樞神經系統)]] - 包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。
 - [[anatomy/cerebellum|Cerebellum (小腦)]] - 負責協調、平衡與動作修正，小腦病灶常表現 ataxia、dysmetria、nystagmus。

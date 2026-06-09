@@ -66,6 +66,12 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch05]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med5-book6-ch01]]"
+  - "[[sources/med5-book6-ch02]]"
 aliases:
   - 'Multiple myeloma, MM (多發性骨髓瘤)'
   - 'Multiple myeloma, MM'
@@ -80,7 +86,7 @@ tags:
 
 ## Summary
 
-漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+漿細胞惡性增生造成 M protein、骨病變、貧血、腎損傷與高血鈣。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -146,9 +152,25 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch05]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch06]]
+- [[sources/med5-book6-ch01]]
+- [[sources/med5-book6-ch02]]
 
 ## Key Details From Sources
 
+- 2. Multiple myeloma 是最常見的原發性骨癌。症狀可以用 CRAB (螃蟹的拼音) 來記: - (1) hyper Calcemia • - (2) Renal impairment • - (3) Anemia • - (4) Bone pain • Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...- (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 【詳解】Eosinophilic granuloma (EG), 也稱為 Langerhans cell histiocytosis,容易發生在 20% monoclonal plasma cell; (C) bone scan 在 MM 上呈現 cold spot (因為沒有 osteoblast activity),所以不能用 bone scan 來 detect lesion。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- d. Radial height:畫一條與基準線平行線的線,並通過 radial styloid。此線與基準線的距離稱為 radial height。正常值是 10~13 mm,當發生遠端橈骨骨折時, radial height 會降低。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- f. Ulnar variance:畫一條與基準線平行的線通過 ulnar head 的 distal surface。 此線與基準線的距離稱為 ulnar variance,正常值是 -1~-2 mm。如果 ulnar variance 是正值,代表有問題(正常情況 radial 會比 ulnar 高)。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- (A) 患側的橈長(radial length)和健側相比,其差異在2 mm 以內 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- 5. Tibia plateau fracture: - (1) 常常同時傷到外側半月板、側韌帶及關節 軟骨。 - (2) 如果骨折處只是輕度位移或輕度 plateau depression(塌陷)、關節穩定,則可以打石膏(腳伸直)固定或使用 knee brace 來保護;如果位移較大或塌陷較嚴重(step-off > 3 mm)、關節不穩定,則需要使用外/內固定(鋼板)配合石膏/ knee brace(如右圖)來固定。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- 【詳解】(A) 通常是受到外傷造成 open fracture, 細菌跑到 bone 裡造成感染。(B)產生壞死的骨稱為 sequestrum,新生的骨才是 involucrum。(C) 大部分 acute osteomyelitis 白血球指數會上升(> 12,000~15,000/mm³), 但是在 chronic osteomyelitis 可能是正常 或微升,不過 ESR 會上升。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- ...scles)有萎縮的現象,上臂及前臂無異狀。您在為蘇先生進行身體檢查時,最可能發現下列何者? (A) 法侖氏測驗(Phalen's test)陰性反應 (B) 中指靜態二點鑑別(two points discrimination)小於 3 mm (C) 扣診手腕腹側,蘇先生表示有如被電到的酸麻感(Tinel's sign 陽性反應) (D) 屈拇指長肌(flexor pollicis longus)麻痺 【詳解】(B) two points discrimination 會增加,因為感覺能力下 | 99(一)専署五-39 | |--------------------------------------------------------------------------- Source: [[sources/med5-book6-ch06|己、手部]].
+- 2. 特色:常發生於 20~40 歲男性,因腕部反覆性創傷或是 ulna various negative(前面 distal radius fracture 章節提到,正常值為 -1~ -2 mm。如果 ulna 末端太短就會造成韌帶過度緊繃,進一步造成 lunate 壓力過大,發生缺血性壞死)。 Source: [[sources/med5-book6-ch06|己、手部]].
 - (D) 29. 病患 32 歲女性,第一型糖尿病合併尿毒症,於 6 個月前接受胰腎同時移植。2 星期前因急性排斥,接受 3 天的高劑量類固醇(prednisolone 500 mg)靜脈注射,最近因發燒至 39.5℃,呼吸急喘,乾咳,肺部 X 光呈現兩側對稱性下肺部浸潤(bilateral symmetric lower pulmonary infiltration),血液白血球為 3,400/mm³。此病人之診斷最可能為何? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...生為其安 | 醫五-65 | | 排靜脈尿路造影(intravenous pyelography, IVP),結果發現在其 | | | 左側腎盂有積水,顯影劑的排泄時間慢於對側腎臟。其血液白 | | | 血球為 $21,500/\text{mm}^3$ , $N/L = 92\%/6\%$ 。請問以下何者為較佳之 | | | 處置? | | | (A) 應安排超音波檢查以確定積水嚴重的程度 | | | (B) 應安排電腦斷層掃描,以鑑別其為結石或是腫瘤 | | | (C) 應安排經皮腎盂穿刺造瘻(percutaneous nephrostomy)以引 | | | 流腎盂積液 | | | (D) 應安排緊急輸尿管鏡手術 | | Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - d. 治療: 泌尿科急症。用睪丸固定術 (orchiopexy), 矯正扭轉並將雙側睪丸固定至陰囊。在 6 小時內, 有超過 90% 可搶救回來; 超過 24 小時後救回來的機率 3.5 mm 即可診斷。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
@@ -157,16 +179,6 @@ tags:
 - | Respiratory rate | 2 | > 70 mm Hg (FiO 2 of 40%) | | PaCO 2 | 2 O | | Rapid shallow breathing index, RSBI | ≤ 105 (70% will pass extubation)= respiratory rate/tidal volume [L] | Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 解剖狹窄:從上而下。 - (1) 環咽肌狹窄處 (cricopharyngeus muscle constriction): 直徑 14 mm, 為最狹窄處。 - (2) 左主支氣管主動脈狹窄處(bronchoaortic constriction): 位於氣管分支處下方, 左主支氣管和主動脈緊鄰處,即 T4 高度,直徑 15~17 mm。 - (3) 橫隔狹窄處 (diaphragmatic constriction): 直徑 16~19 mm。 - (4) 狹窄處將食道分成上下擴張處:直徑約 25 mm。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - | Type | Proportion | Feature | |------|------------|----------------------------| | I | 75% | 少數幾個直徑2至10公分的大型囊泡組成,壓迫正常肺部 | | | | 實質組織。 | | II | | 很多個 < 1 cm 的小囊泡組成。 | | III | rare | 直徑約數個 mm 的小囊泡。 | Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- (3) 腹部超音波:觸診未發現時,可用腹部超音波,幽門括約肌厚度超過 3~4 mm 或幽門括約肌長度超過 15~18 mm,即可診斷。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ...下肋間,請病人深吸氣, 測試是否會因疼痛而停止呼吸)。 - b. 腹部電腦斷層:目前腹部電腦斷層在診斷急性膽囊炎的角色越趨重要,對於 pus formation 或 perforation 等診斷幫助最大。 - (a) 膽囊壁增厚 > 5 mm (gallbladder wall thickening)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (D) 7.60 歲肥胖男性病患, 曾接受闌尾切除, 體檢時曾得知膽結石, 但無明顯症狀,有喝酒習慣。5天前因聚餐後,突發整個上腹部 有壓痛,發燒(39℃)、血中白血球 18,000/mm³, N/L = 83% / 16%;黃疸值(total bilirubin 5.6 mg/dL),則應做那項進一步的 處置? Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (A) 膽囊息肉 (polyp) > 10 mm Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (a) pN1mi: micrometastasis (大小介於 0.2 mm 到 2.0 mm 之間)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- (C) 若選擇乳房保留手術,為提高存活率,腫瘤切除邊緣 (margin)必須大於2 mm Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- (C) 若為侵襲性乳癌,建議切除邊緣達 4 mm 以上,原位癌為 2 mm 即可。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- (B) 14. 45 歲女性過去無開刀病史,最近一個月出現反覆性上腹痛,半夜突然發生上腹部劇痛,而至急診室就診,理學檢查有腹膜炎徵象(peritoneal sign),WBC count 為 12,000/mm³,胸部 X 光如附圖,下列敘述何者錯誤? Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (C) 19. 一位 50 歲男性病患,於某天晚上突然因上消化道出血被送至急診室。內科醫師緊急為此病患安排胃鏡檢查,發現在距離胃食道交界 GE junction 約 10 cm 胃底(gastric fundus)處有一約 2 mm 的扭曲血管(tortuous artery)在出血。其最可能成因是: Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (1) Only for pancreatic duct drainage: Puestow procedure 與 Partington-Rochelle's modification of Puestow procedure。 請見右圖。 - a. 其實這兩個 procedure 是差不多的,只差在原本的 Puestow procedure 有將遠端的胰臟切除,Modification 的 procedure 沒有把遠端的胰臟切除。 - b. 這兩個 procedure 較常使用於胰管擴張達 7 mm 時,成功率較高。 - c. 下圖詳細講述的是 Partington-Rochelle's modification of Puestow procedure。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 
 ## Clinical Caveats
 
@@ -175,7 +187,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/bone-metastasis|Bone metastasis (骨轉移)]]
 
 ## Follow-up
 

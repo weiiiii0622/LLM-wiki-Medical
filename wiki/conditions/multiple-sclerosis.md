@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch07]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book6-ch08]]"
 aliases:
   - 'Multiple sclerosis, MS (多發性硬化症)'
   - 'Multiple sclerosis, MS'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book6-ch08]]
 
 ## Key Details From Sources
 
+- (B) 多發性硬化症 (multiple sclerosis) Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - 1. 僧帽瓣狹窄 (mitral stenosis, MS): - (1) 正常成人的僧帽瓣口徑約 4~6 cm²,當口徑變窄,使得左心房流向左心室之血流不順,血液滯留於左心房,且左心室舒張末期,左心房須作更大的功,才能將血液推進左心室。 - (2) 口徑小於 1.5 cm² (or 2 cm²) 為 moderate MS,口徑小於 1 cm² 為 severe MS。 - (3) 長久下來,左心房因壓力上升而擴大,壓力逆著血流方向回傳,導致肺靜脈壓 上升甚至肺動脈高壓。而右心室為了抵抗肺動 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (b) 瓣膜氣球導管擴張術(balloon mitral valvuloplasty):將導管放置入左心, 膨脹氣球擴張狹窄的瓣膜,對沒有鈣化且輕度或中度 MS 效果佳,禁用 於瓣膜腱索鈣化及 MR (mitral regurgitation)的患者。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - ...因,感染性心內膜炎、創傷、或先天性異常都 有可能。 - (3) 症狀:呼吸困難、端坐呼吸、肺水腫、肺高壓、atrial fibrillation。症狀嚴重度和 閉鎖不全程度相關,mild MR 患者幾乎不會有症狀, - (4) 處置方式和 MS 相同,可先藥物處理(利尿劑、ACEI),當藥物無法控制,症 狀持續嚴重、發展成肺動脈高壓、左心室功能惡化,則考慮手術修補。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].

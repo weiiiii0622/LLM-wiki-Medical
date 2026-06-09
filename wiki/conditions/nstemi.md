@@ -11,6 +11,7 @@ sources:
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'NSTEMI (非 ST 段上升心肌梗塞)'
   - 'NSTEMI'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-通常為心內膜下梗塞，心肌酵素上升但無 ST elevation。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+通常為心內膜下梗塞，心肌酵素上升但無 ST elevation。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med3-book4-ch28]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- (A) 僅以非類固醇抗發炎藥物(non-steroidal anti-inflammatory drugs, NSAIDs)治療 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (A) 16. 治療急性輸尿管結石疼痛的藥物,下列那一種治療藥物沒有足夠 104(-)專的臨床實證支持有效? 醫五-77 - (A) 解痙劑,例如 butylscopolamine (Buscopan) - (B) 非類 固 醇 類 消 炎 藥 (non-steroid anti-inflammatory drugs, NSAIDs) - (C) α- 腎上腺素作用劑,例如 tamsulosin (Harnalidge) - (D) 鈣離子阻斷劑,例如長效型的 nifedipine (Adalat OROS) Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (C) 28. 巨細胞動脈炎 (Giant cell arteritis) 的主要治療是: 101(一)專 (A) Non-steroidal anti-inflammatory drugs 醫四 -61 (B) Sumatriptan (C) Prednisone (D) Morphine Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...rmal $< 30$ ) | | | 【詳解】(D) 其中以 anti-ds DNA 對於 SLE 非常具專一性。 | | | (D) 33. 下列何種藥物不宜在急性痛風發作時使用? | 94(一)專 | | (A) 非類固醇消炎藥物 (non-steroid anti-inflammatory drugs, NSAID) | 內 1-81 | | (B) 秋水仙素 (colchicine) (C) 類固醇 (steroids) | | | (D) 降尿酸藥物 (hypouricemic agents), 如 allopurinol | | | (D) 34. 下列有關痛風的診療,何者不正確? | 94(一)檢 | | (A) 痛風的確定診斷為關節液中有 monosodium ur Source: [[sources/med3-book4-ch06|己、關節炎變]].

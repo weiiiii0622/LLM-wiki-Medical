@@ -37,6 +37,8 @@ sources:
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'CT pulmonary angiography, CTPA (肺動脈電腦斷層血管攝影)'
   - 'CT pulmonary angiography, CTPA'
@@ -51,7 +53,7 @@ tags:
 
 ## Summary
 
-肺栓塞常用影像診斷。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺栓塞常用影像診斷。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +90,14 @@ tags:
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- | (A) 截肢病人若出現休克現象就要立即進行接合手術(replantation) 醫五-76 (B) 骨折固定可減少疼痛及避免進一步軟組織傷害 (C) 懷疑有動脈血管損傷必須考慮安排血管攝影檢查 (D) 近關節處的傷口不要嘗試從傷口注入生理食鹽水來檢查是否與關節腔相通 【詳解】(A) 休克可能是因為失血太多,第一必須先穩定生命徵象,再考慮麻醉作接合手術,因為麻醉本身也會造成相對低血壓,大量出血造成的休克可能要考慮先用血管栓塞止血;另一方面有可能是感染造成的休克,此時可能要謹慎評估傷口的狀 | (A) | |----------------------------------------------------------- Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (D) 緊急安排血管攝影,並安撫病人情緒 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (C) 血管攝影雖比較具侵襲性,但卻是最正確的診斷方式 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - 【詳解】這並不是腎臟腫瘤,這是屬於血管的異常,由圖可以 看出血管攝影不正常的增生與膨大。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...公分 | | | (D) 20. 一位 35 歲女性被診斷出腎 | 腎臟有 angiomyolipoma(AML),下列 | 103(一)專 | | 敘述何者錯誤? | | 醫五-66 | | (A)使用超音波或電腦斷層 | 層診斷此症比用血管攝影方法準確 | | | (B) 若為 tuberous sclerosis多發性 | s 患者罹患 AML,則 AML 常為雙側且 | | | | 自發性破裂引發後腹腔出血 | | | • • • • • • • • • • • • • • • • • • • • | 若罹患 AML,其 AML 病理組織形態, | | | | 患者所罹患的 AML 病理組織形態不同 | | | | | | Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (A) 23. 一位 19 歲女性,三個月前因車禍傷及腹部住院,最近又因持續 102(二)專大量血尿再度住院,血管攝影影像如附圖,對該病患最可能的診 醫五-73 斷為下列何者? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -106,9 +113,6 @@ tags:
 - (D) 影像診斷工具有內視鏡、電腦斷層、血管攝影等 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - ...週,尿液變深、灰白便、身體發癢、皮 107(一)專 膚逐漸變黃,因此到院檢查。身體診察發現鞏膜變黃,下肢無水 醫五-32 腫,其CT影像上可見胰臟頭部有4公分左右腫瘤合併總膽管及 胰管擴大,針對此病患安排下列處置何者最不適當? (A) 安排血管攝影栓塞 (B) 測定 CEA, CA19-9 (C) 進行 ERCP (endoscopic retrograde cholangiopancreatography) 或 EUS (endoscopic ultrasonography) 合併切片 (D) 進行核磁共振膽胰攝影 (MRCP) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (3) 血管攝影、電腦斷層:適合診斷和術前計畫評估。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- ...---------------------------------------------------------|------------------| | (A) 6. | 承上題,要作進一步確定診斷(A)靜脈杜普勒超音波檢查(B)靜脈血管攝影(C)電腦斷層掃描(D)核醫檢查 | | 102(一)專醫五-27 | | (C) 7. | | 是一種須緊急手術的對象,為避免最遲在完全阻塞發生之後幾個小時(B) 3~5(D) 9~12 | 101(二)專醫五-16 | | (C) 8. | | | 101(二)專醫五-18 | | 情況: | 就好了(Intermittent claudical | 年前開始右下肢在走一段路之後會疼痛tion),最近右腳傷口癒合不佳,身體核肖為差些 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- ...有關,而動脈阻塞造 | | | | 成之疼痛則否 | | | (B) 11. | 若要正確診斷同時作外科前的計畫評估,下列那種檢查最需要? | 100(二)專 | | | (A) 杜卜勒超音波檢查 | 醫五 -31 | | | (B) 動脈血管攝影 | | | | (C) 股動脈臂動脈壓比值(Femoro-brachial pressure ratio) | | | | (D) Plethysmography | | | | | | | (A) 12. | 此病人若接受外科手術治療,下列何項步驟不正確? | 100(二)專 | | (A) 12. | 此病人若接受外科手術治療,下列何項步驟不正確?(A) 股動脈至膝動脈繞道手術 | 100(二)專醫五-32 | | (A) 12. Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- 2. 處置:(依照下消化道出血處理原則) - (1) Resuscitation:等張性晶體溶液 ±pRBC。 - (2) 診斷出血位置: - a. NG tube:排除上消化道出血。 - b. Anoscopy/ Proctoscopy:排除 anorectal bleeding。 - c. Nuclear scan: Tc-99m \ tagged RBC \circ - d. Mesenteric angiography (血管攝影)。 - e. Colonoscopy • - f. Laparotomy (剖腹探查)。 - (3) 手術: - a. Urgent segmental resection:持續出血且輸血量已超過 6 U pRBC/24hrs 時緊急 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 
 ## Clinical Caveats
 

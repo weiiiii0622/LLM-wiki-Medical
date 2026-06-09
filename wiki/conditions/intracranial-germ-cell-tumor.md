@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Intracranial germ cell tumor (顱內生殖細胞腫瘤)'
   - 'Intracranial germ cell tumor'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-顱內 germ cell tumors 常位於 pineal 或 suprasellar region，可有 endocrine 或 hydrocephalus 表現。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內 germ cell tumors 常位於 pineal 或 suprasellar region，可有 endocrine 或 hydrocephalus 表現。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- ...ibrosarcoma, Malignant fibrous histiocytoma (MFH). | | Others or unknown origin | Ewing's Sarcoma, Bone Cyst, Chordoma, GCT | Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 1. 巨細胞瘤 (Giant cell tumor, GCT): - (1) 簡介: 巨細胞瘤是一個良性腫瘤,但相對侵犯性較大,切除後容易再復發。好發於 30~50 歲的女性。發生的位置主要在 long bone 的 epiphysis,膝蓋的上下處(distal femur 和 proximal tibia)是第一好發位置,其次為脊椎、distal radius。 巨細胞瘤不會發生在 epiphyseal line 尚未癒合之前,因此發育尚未完全的人不會有,因此青少年不會發生。 - (2) 比 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...) Retrograde urethrogram(D) Contrast-enhanced computed tomography | 100(一)專醫五-61 | | (B) 28. | 下列有關睪丸癌的敘述,何者錯誤? (A) 大部分是生殖細胞腫瘤(germ cell tumor) (B) 有準確的血清腫瘤指標 alpha-fetoprotein(AFP)及 follicular stimulating hormone(FSH) (C) 睪丸外(extragonadal)精原細胞癌比睪丸內精原細胞癌預後差 (D) 隱睪症患者發生睪丸癌時,精原細胞癌(seminoma)是最常 見的病理型態 | 99(二)專醫五-69 | | (C) 29. | 北洛尼氏病(Peyronie dis Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 2. 孩童常見的十大惡性腫瘤:白血病(AML)、腦瘤、惡性淋巴瘤、神經母細胞瘤(NBL)、生殖細胞腫瘤(GCT)、惡性骨肉瘤、軟組織惡性腫瘤、威爾姆氏腫瘤(WT)、惡性肝腫瘤(HCC)及視網膜母細胞瘤。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].

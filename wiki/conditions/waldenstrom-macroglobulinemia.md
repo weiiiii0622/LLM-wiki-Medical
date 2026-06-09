@@ -23,6 +23,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med5-book6-ch08]]"
 aliases:
   - 'Waldenstrom macroglobulinemia (華氏巨球蛋白血症)'
   - 'Waldenstrom macroglobulinemia'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-淋巴漿細胞性淋巴瘤造成 IgM monoclonal protein 與高黏滯症候群。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴漿細胞性淋巴瘤造成 IgM monoclonal protein 與高黏滯症候群。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med5-book6-ch08]]
 
 ## Key Details From Sources
 
+- (1) X-ray:有 Waldenstrom classification(分四個 stage:initial → fragmentation → reos sification → residual phase)和 Herring classification(又稱 Lateral Pillar System, lateral Pillar 的位置是下圖中的黑色區域,高度影響愈多表示缺血性壞死愈嚴重。如下圖:stage A:lateral pillar 高度不受影響;stage Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ...ection) 的敘述,何者有誤? (A) 一般而言, Donor 與 Recipient 的 HLA matching 愈佳,則 graft survival rate 愈好 (B) Hyperacute rejection 的發生需要 IgM antibodies 的媒介,可藉由使用抗排斥藥物加以預防 (C) Acute rejection 的發生需要 T lymphocytes 的媒介,發生頻率愈高, graft 的長期預後較差 (D) Chronic rejection 的發生與 T cell 與 B cell 有關,移植器官的主要病理變化為 fibrosis and scarring 【詳解】超急性排斥反應是因血型不符合,或是受贈者體內有 | 98(一)專醫五-1 | Source: [[sources/med5-book1-ch06|己、移植外科]].
 - 所致,為革蘭性陰性菌。叮咬處會出現焦痂(eschar),大多無痛性,伴隨有發燒、頭痛、出汗、結膜充血和淋巴結腫大。發燒一週後身體會出現暗紅性丘疹並擴散至四肢,數天後會消失。恙蟲體立克次體會攻擊血管內皮細胞,組織切片可見lymphohistiocytic vasculitis。病患多數有旅遊史,台灣病例主要分佈在金門縣、澎湖縣、台東縣、花蓮縣和南投縣。診斷可作PCR 病原體檢測及細胞培養法做病原體分離或以間接螢光抗體法(Indirect Immunofluorescene Assay, IFA)測其 IgM 及 IgG 抗體, IgM $\geq$ 1:80 或 IgG 有 4 倍以上上升者判定為陽性。治療則給予 Doxycycline bid 七天。以上選項皆對。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -80,7 +83,6 @@ tags:
 - 3. Cold hemagglutinin 和 warm hemagglutinin - (1) AIHA 中參與溶血的自體抗體有兩大類。 - a. 一類是 IgG,在與人體體溫的溫度時與紅血球表面上的蛋白質抗原發生反應,稱為 warm hemagglutinin。大部分案例是 idiopathic。 - b. 另一類是 IgM,在低於體溫時,發生反應,稱為 cold hemagglutinin。 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 1. 由 B lymphocyte lineage 衍生出來的一系列 monoclonal neoplasm。包含 Multiple myeloma, Waldenström's macroglobulinemia, primary (AL) amyloidosis。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 - 3. Albumin/Globulin ratio - (1) 一般人的 Albumin 占血中 Total protein 50~60%,所以 Albumin > Globulin。 - (2) 若 Albumin 5 g/L,可藉由電泳 (Electrophoresis)於 γ 區看到 M spike; - (2) 再進一步由免疫固定電泳(Immunofixation electrophoresis)分析 M spike,可分出一種重鏈(IgG、IgA、IgM)及一種輕鏈(κ、λ)。 - (3) 有 20% 的 Multiple myeloma 只產生輕鏈,稱為 Light chain disease。 - (4) M protein 排到尿中又稱作 Bence Jones protein。 Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
-- ...檢Screen | Mab or, ve β γ ab or, ve β γ (正常) (M spike) | | 免疫固定電泳(Immunofixation EP) | 定性 ( Qualitative )分出一種重鏈 (IgG、IgA、IgM)及一種輕鏈 (κ、λ) | 確認Confirm | string pla | Source: [[sources/med3-book4-ch16|庚、漿細胞疾病]].
 
 ## Clinical Caveats
 

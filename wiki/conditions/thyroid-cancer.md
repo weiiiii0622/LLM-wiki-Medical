@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch09]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Thyroid cancer (甲狀腺癌)'
   - 'Thyroid cancer'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-甲狀腺惡性腫瘤依病理型態預後與治療不同。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺惡性腫瘤依病理型態預後與治療不同。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch09]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- ...OP → C/T。 | | | (D) 37. | 在轉移性骨腫瘤中,何者造成的病灶,最常使患部骨骼的骨密度 | 94(一)專 | | ` , | 增高? | 外一-53 | | | (A) 腸癌 (B) 腎細胞癌 | | | | (C) 甲狀腺癌 (D) 前列腺癌 | | | | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考慮 | 71 00 | | | osteoid osteoma | | | | (C) 腰椎解離(spondylolysis)通常休息時背痛 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (4) 未分化大細胞癌 (large cell undifferentiated carcinoma): - a. 佔 10% 肺腫瘤,較易發生在周邊且早期轉移,細胞學染色上為陰性,細胞成未分化多形性細胞且多囊泡或深染核且多細胞質(anaplastic pleomorphic cells)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 5. 最常見的孩童惡性腫瘤:肉瘤(sarcomas)、淋巴瘤(lymphomas)、轉移性甲狀腺癌(metastatic thyroid carcinoma)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - (B) familial thyroid cancer Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -74,7 +77,6 @@ tags:
 - ...在目前最先進的治療下,下列何種小兒癌症有最好的預後? 103(二)專 (A) medulloblastoma in posterior fossa 醫四-26 (B) neuroblastoma stage 4S (C) advanced anaplastic large cell lymphoma (D) anaplastic stage IV Wilms tumor 【詳解】Neuroblastoma stage 4S 且無 n-MYC amplification 預後 極佳,可能不需治療會 spontaneous regress。 (D) 3. 考慮年齡及 international neuroblastoma staging system,下列那一 103(一)專 種神經母細胞瘤 ( Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
 - ...----------|------------------|-----------|-----------------------|------------------| | Hormone | Calcitonin | 12 min | 甲狀腺癌 (Medullary ca.) | | | | β -нсс | 18~24 hr | 生殖細胞癌 (GCT), GTD | 懷孕 | | Tumor | PSA | 2~3 d | 前列腺癌 | BPH, Prostatitis | | associated | CA125 | 4~5 d | 卵巢癌 | 月經、腹膜炎 | | protein | CA153 | \*GTD = Gestational trophoblastic d Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
 - ...|-------------------------------------------|------------------------|--| | | Thyroid transcription factor (TTF-1) | 肺癌、甲狀腺癌 | | | 横膈上 | Thyroglobulin (Tg) | 甲狀腺癌 | | | | Calretinin, mesothelium | 間皮癌 (Mesothelioma) | | | Hara C | CDX2 | 大腸直腸癌、十二指腸 | | | 横膈下 | Hepatocyte paraffin 1 (HepPar-1) | 肝癌 | | | | Prostate specific antigen (PSA) | 35万 Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- | 化療藥物 | 血液腫瘤 | Leukemia · Lymphoma · HD | |-----------|--------|----------------------------------------------| | | 固體腫瘤 | 小細胞肺癌、生殖細胞瘤 *、GTN*、卵巢癌 | | | 小兒腫瘤 | Wilms' tumor, Ewing's sarcoma, Neuroblastoma | | 化療藥物+放射治療 | 鱗狀細胞癌( | 頭頸部、肛門)、乳癌、子宮頸癌 | | 化療藥物+手術 | | - 骨肉癌、乳癌 | | 對化療藥物少有反應 | 肝膽胰癌、腎 | Y細胞癌、甲狀腺癌、黑色素細胞癌、前列腺癌 | Source: [[sources/med3-book4-ch19|乙、化學治療]].
 
 ## Clinical Caveats
 

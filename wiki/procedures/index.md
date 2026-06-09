@@ -16,6 +16,7 @@ Clinical procedures, operations, interventions, and workflows.
 ## Pages
 
 - [[procedures/abdominoperineal-resection|Abdominoperineal resection, APR (腹會陰聯合切除術)]] - 直腸癌侵犯或接近括約肌時可能需移除直腸與肛門並建立永久 colostomy。
+- [[procedures/acl-reconstruction|ACL reconstruction (前十字韌帶重建術)]] - 用自體或異體 graft 重建 ACL，適用於高度活動、complete rupture、不穩或合併半月板/側副韌帶傷害者。
 - [[procedures/adrenalectomy|Adrenalectomy (腎上腺切除術)]] - 用於部分功能性腎上腺腫瘤或疑似惡性病灶；pheochromocytoma 術前需充分 alpha blockade。
 - [[procedures/androgen-deprivation-therapy|Androgen deprivation therapy, ADT (雄性素剝奪治療)]] - 透過 GnRH/LHRH 藥物、antiandrogen 或 orchiectomy 降低 androgen signaling，是轉移或高風險攝護腺癌重要治療。
 - [[procedures/aneurysm-clipping-coiling|Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)]] - ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。
@@ -52,9 +53,12 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/ercp|Endoscopic retrograde cholangiopancreatography, ERCP (內視鏡逆行性膽胰管攝影)]] - 診斷與治療膽胰管阻塞、結石或膽管炎的重要內視鏡程序。
 - [[procedures/esophagectomy|Esophagectomy (食道切除術)]] - 食道癌或部分嚴重良性病變的外科切除，需搭配胃或腸道重建並注意吻合漏與肺部併發症。
 - [[procedures/exchange-transfusion|Exchange transfusion (換血治療)]] - 嚴重高膽紅素血症或溶血風險時移除 bilirubin 與抗體的高風險處置。
+- [[procedures/external-fixation|External fixation (外固定)]] - 以皮外固定架跨越骨折或關節暫時/ definitivo 穩定，常用於開放性骨折、嚴重軟組織傷害或 damage-control orthopedics。
 - [[procedures/extracorporeal-shock-wave-lithotripsy|Extracorporeal shock wave lithotripsy, ESWL (體外震波碎石術)]] - 以體外震波碎石，常用於較小腎結石或輸尿管結石；懷孕、出血傾向、完全阻塞等為重要禁忌。
+- [[procedures/fasciotomy|Fasciotomy (筋膜切開術)]] - 以切開筋膜降低 compartment pressure，是急性 compartment syndrome 的 limb-saving procedure。
 - [[procedures/fluid-resuscitation|Fluid resuscitation (輸液復甦)]] - 以 crystalloid、blood products 或其他液體恢復有效循環容量與灌流，需依休克類型與出血量調整。
 - [[procedures/fontan-procedure|Fontan procedure (Fontan 手術)]] - 單心室循環的階段性手術終點，使體靜脈血被動進入肺循環。
+- [[procedures/fracture-reduction-fixation|Fracture reduction and fixation (骨折復位與固定)]] - 骨折治療包含 closed/open reduction 與 internal/external fixation，目的為恢復解剖、穩定骨折並減少軟組織傷害。
 - [[procedures/gastrectomy|Gastrectomy (胃切除術)]] - 胃癌或複雜潰瘍可需部分或全胃切除，並依病灶位置與淋巴清除需求選擇重建方式。
 - [[procedures/heart-transplantation|Heart transplantation (心臟移植)]] - 末期心衰竭的外科治療之一，需評估適應症、禁忌症、排斥、感染與免疫抑制。
 - [[procedures/hematopoietic-stem-cell-transplantation|Hematopoietic stem cell transplantation, HSCT (造血幹細胞移植)]] - 治療高風險血液惡性腫瘤、骨髓衰竭與部分免疫疾病的細胞治療。
@@ -74,9 +78,11 @@ Clinical procedures, operations, interventions, and workflows.
 - [[procedures/massive-transfusion-protocol|Massive transfusion protocol, MTP (大量輸血流程)]] - 大量出血時以固定比例血品快速補充紅血球、血漿、血小板並監測凝血與鈣。
 - [[procedures/mastectomy|Mastectomy (乳房切除術)]] - 乳癌手術方式之一，依病灶、風險與病人選擇決定範圍。
 - [[procedures/mechanical-ventilation|Mechanical ventilation (機械通氣)]] - 呼吸衰竭支持治療，設定與肺保護策略需依病況調整。
+- [[procedures/meniscus-repair|Meniscus repair / meniscectomy (半月板修補／切除術)]] - 半月板手術依紅白區供血與裂傷型態選擇 repair、partial meniscectomy 或少見的 transplantation。
 - [[procedures/microvascular-decompression|Microvascular decompression, MVD (微血管減壓術)]] - 解除神經受血管壓迫的手術，常用於 trigeminal neuralgia。
 - [[procedures/noninvasive-ventilation|Noninvasive ventilation, NIV (非侵襲性通氣)]] - 以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。
 - [[procedures/nuss-procedure|Nuss procedure (Nuss 漏斗胸矯正術)]] - 以胸骨後矯正鋼板頂起凹陷胸壁的微創漏斗胸手術，需注意心肺壓迫、鋼板移位與疼痛控制。
+- [[procedures/open-reduction-internal-fixation|Open reduction internal fixation, ORIF (開放復位內固定)]] - 手術暴露骨折端後復位並以 plate、screw、pin 或 wire 固定，常用於位移、不穩定或關節內骨折。
 - [[procedures/orchiopexy|Orchiopexy (睪丸固定術)]] - 將睪丸固定於陰囊，常用於 cryptorchidism 或 testicular torsion 後雙側固定。
 - [[procedures/organ-preservation|Organ preservation (器官保存)]] - 器官摘取後以低溫保存液與時間管理降低 ischemia-reperfusion injury。
 - [[procedures/ostomy|Ostomy (腸造口)]] - 將腸道開口接至腹壁以排便或 diversion，需術前定位與術後照護。

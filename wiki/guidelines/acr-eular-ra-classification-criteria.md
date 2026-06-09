@@ -32,6 +32,8 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'ACR/EULAR RA classification criteria (RA 分類準則)'
   - 'ACR/EULAR RA classification criteria'
@@ -46,7 +48,7 @@ tags:
 
 ## Summary
 
-RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +80,17 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch06]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (C) 1. 一位 32 歲果園工作婦女來門診主訴右腕疼痛已有近半年,理學 99(二)專檢查發現右腕背屈活動有明顯拘限,X光檢查如圖所示,最可能 醫五-40 - 的診斷是: - (A) 正中腕隧症候群(carpal tunnel syndrome) - (B) 舟狀骨骨折不癒合 (scaphoid fracture non-union) - (C) 半月狀骨缺血性壞死 (Kienböck disease) - (D) de Quervain's tenosynovitis Source: [[sources/med5-book6-ch06|己、手部]].
+- (C) 1. 王大明在打籃球接球時不小心,本來應該手掌接球卻變成右手中 103(-)專 指接球,頓時手指就腫起來,幾天後消腫手指最後一節就垂下來, 醫五-17 怎麼用力都沒辦法伸直。最適當的診斷為何? - (A) 板機指 (trigger finger) - (B) 狹窄性肌腱滑膜炎 (de Quervain's tenosynovitis) - (C) 鎚狀指 (mallet finger) - (D) 手部鈕扣畸形 (boutonnière's deformity) Source: [[sources/med5-book6-ch06|己、手部]].
+- (D) 2. 患者手腕靠近拇指根部持續疼痛難耐,拇指向下屈曲及反手用力 104(-)專 時疼痛加劇。醫生做下圖中的檢查時會令痛楚加劇,這種 teno- 醫五-18 synovitis 影響肌腱,何者正確? Source: [[sources/med5-book6-ch06|己、手部]].
+- (2) T-score -1~-2.5 稱為骨質缺乏(osteopenia)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (3) T-score 小於 -2.5 個標準差 (SD) 稱為骨質疏鬆 (osteoporosis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (C) 世界衛生組織定義 T-score ↓ | ↑ | | | Phosphate | _ | _ | ↓ | ↑ | _ | | ALP | | _ | | ↑ | | | PTH | _ | _ | ↑ | ↑ | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...又稱刺激型(irritative)症狀,有頻尿、急尿、夜尿;排尿異常又稱阻塞性(obstructive)症狀,有尿無力、尿斷續、費力尿、尿不清。 - b. 國際攝護腺徵狀評分表 International Prostate Symptom Score (IPSS) - (a) 評分項目(記法:FUN-WISE,前三是儲尿不穩症狀、後四是排尿阻塞症狀) - i. Frequency (頻尿:排尿後兩個小時內又要小便)。 (註:正常人兩次解尿的間隔 2.5 小時,且一天 1-blockers:Terazosin (Hytrin®)、doxazosin (Doxaben®)。(記法:(山) 海經、豆沙餅) - iii. α1A-blockers: Tamsulosin (Harnalid Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (2) 分級及分期 (grading and staging): - a. 分級 (grading): Gleason score。 - (a) 是一種病理分級,病理科醫師會就顯微鏡下看到的細胞形態,以最大片 (寫前面)+最高分(寫後面)的分數相加,就是 Gleason score。分數從 2(1+1)到 10(5+5)分。 - (b) 2~4 分為 well-differentiated、5~7 分為 moderately-differentiated、8~10 分為 poorly differentiated。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (e) 術後預後的預測因子:看切下來的檢體與抽 PSA 判斷。 - i. 腫瘤範圍 (T): T3a 以內 10 年存活率 80%; T3b 以上 10 年存活率 40%。 - ii. 淋巴結(N):若切下來為N(+),則85%已有遠端轉移。若有淋巴轉移, 需加作輔助賀爾蒙治療 (adjuvant androgen deprivation therapy)。 - iii. Gleason score: 7: 15%。 - iv. PSA: 切除後應在 6 週內降至 0,若之後≥ 0.2 ng/ml 則懷疑復發。目前淋巴轉移與否最佳指標就是追蹤 PSA 變化,甚至比 CT 還要早發現。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -93,12 +103,6 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - AGES score 的 20-year survival rate: Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (B) 按照 AGES score (age, grade, extension, size),應屬於 low risk(低於4) Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (B) 6. 一位 2 星期大的男嬰,出生時體重 3,000 gm, Apgar score 8 至 9 分,身體檢查並沒有發現異常現象。幾天前,開始有呼吸急促及發紺的現象,急送某醫學中心。經心臟超音波檢查發現病人有肺動脈瓣閉鎖的現象,經投予前列腺素靜脈注射,病人的發紺改善了。請依此回答下列 3 題: Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- (D) 4. 一位女性體檢時,意外發現有高血鈣,進一步檢查證實為原發性 107(二)專 副甲狀腺功能亢進(primary hyperparathyroidism),根據目前的 醫五-37 治療指引,有些原發性副甲狀腺功能亢進患者即使無臨床症狀 亦建議應接受手術,但下列何者除外? - (A) 骨密度檢查 T-score 小於 -2.5 - (B) 肌酸酐廓清率 (creatinine clearance) 小於 60 mL/min - (C) 血鈣超過正常值上限 1.0 mg/dL 以上 - (D) 年齡大於 60 歲 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- A. Glasgow Coma Score 120 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
-- A. Glasgow Coma Score: 利用睜眼、語言和運動反應來評估意識,總分 15 分。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
-- (D) 營養不良的病人若在營養風險篩檢時營養不良分數(nutritional risk screening maluntrition score)得到5分,在手術前不需要矯正 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- 3. 外科常用來評估意識狀態的方法:Glasgow Coma Score Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (D) 41. 下列那種疾病較不可能導致腦中風? (A) 紅斑性狼瘡 (B) 頸動脈剝離 (C) 高血壓 (D) 類風濕性關節炎 (D) 42. 因缺血(ischemia) 而引起之腦神經元(neuron) 功能障礙之特 98(二)專 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

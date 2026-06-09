@@ -26,6 +26,8 @@ sources:
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book3-ch23]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Primary skin lesions (基本皮膚病灶)'
   - 'Primary skin lesions'
@@ -40,7 +42,7 @@ tags:
 
 ## Summary
 
-以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +68,15 @@ tags:
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book3-ch23]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book6-ch06]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- 3. 症狀: 肌腱動的時候會有如扣板機般喀喀聲響, 有時肌腱會卡在 flexion 姿勢,需要外力才能伸 直。大部分的病人按壓 A1 pulley 會有疼痛的 感覺,可摸到 nodule (結節)。 Source: [[sources/med5-book6-ch06|己、手部]].
+- (B) 1. 王媽媽的左手中指在彎曲及伸直的交替動作中,肌腱在掌指關節 108(二)專 處基部摸到結節 (nodule),且有時會產生聲響,影響手指活動, 醫五-13 王媽媽得了什麼疾病? - (A) 鎚狀指 (mallet finger) - (B) 扳機指 (trigger finger) - (C) 狹窄性肌腱滑膜炎(de Quervain tenosynovitis) - (D) 手部鈕扣畸形 (bontonniere deformity) Source: [[sources/med5-book6-ch06|己、手部]].
+- 下列何者錯誤? 醫五-62 - (A) 通常在 A2 滑車 (pulley) 處可觸摸到結節 (nodule) - (B) 年紀小於九個月大的病患,常有自癒的可能 - (C) 大部分病例沒有家族史 - (D) 通常沒有發炎反應 Source: [[sources/med5-book6-ch06|己、手部]].
+- b. 特徵為多發性關節發炎,會有關節處 pannus(翳)的產生,診斷的標準是七個特徵有符合四個就合乎診斷(> 3 個關節腫脹、腕 / 手關節腫脹 [ 通常 為 MP 或 PIP joint、對稱性腫脹、晨僵超過一個小時、rheumatoid nodule、 RF(+)、腕 / 手關節影像上有 erosion 或 periarticular osteopenial) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - E. 單一肺部結節 (Solitary pulmonary nodule) 43 Source: [[sources/med5-book4-ch03|丙、肺]].
 - **Reference:** Gould MK, Donington J, Lynch WR, et al: **Evaluation Of Individuals** With Pulmonary Nodules: When Is It Lung Cancer? *Chest* 2013; 143(5\_suppl): e93S-e120S. doi:10.1378/chest.12-2351. Source: [[sources/med5-book4-ch03|丙、肺]].
 - (A) 1. 下列對於單一肺結節(solitary pulmonary nodule, SPN)的敘述, 107 (二) 專 何者錯誤? 醫五 -27 - (A) 肺部內小於 2 公分的無症狀腫塊 (an asymptomatic mass within the lung parenchyma that is less than 2 cm) - (B) 小於 50% 是惡性 (less than 50% are malignant) - (C) 單一肺結節若具有良性鈣化特徵,通常不需手術治療(patient with Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -83,10 +91,6 @@ tags:
 - 受檢者服用核種( $Tc_{99m}$ 或 $^{131}I$ )後,再去偵測甲狀腺結節對於核種的攝取情形並和周圍正常組織作比較,依攝取的情況可分為 Hot nodule(攝取過量)及 Cold nodule(攝取較少或無攝取)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 2. 結節性 (nodular) 甲狀腺腫大: - (1) 多發性: - a. Iodine deficiency: $T_3 \cdot T_4$ 下降(碘供應不足,使得甲狀腺代償而增生腫大)。 - b. Plummer's disease: T3、T4上升(甲狀腺因碘不足而代償增生後,導致甲狀腺細胞 TSH receptor 突變,大量分泌 T3、T4,又叫作 toxic multinodular goiter)。 - (2) 單一性: - a. 良性膠體性結節 (60%, colloid nodule): T3、T4正常。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 冠狀動脈負責輸送血液和氧氣供給心臟,而低密度膽固醇堆積(lipid deposition) 於血管內壁,會形成粥狀斑塊(atherosclerotic plaque),血管內徑變窄血流供應變少, 便造成心肌缺血而對心臟造成傷害。當血管內皮細胞受損(endothelial injury)造成粥 狀斑塊的破裂,從而活化血液凝結使得血栓形成塞住血管,造成心肌梗塞。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- ...較少出現在 Neurofibromatosis type I 的病人? | 108(一)專 | | | (A) 家族顯性遺傳 | 醫五-9 | | | (B) 雙側聽神經瘤 | | | | (C) 皮膚咖啡牛奶斑(Cafe-au-lait macules) | | | | (D) 脊椎發育異常 | | | | 【詳解】雙側聽神經瘤屬第二型。 | | | (B) | 5. 有關腦下垂體泌乳素瘤(prolactinoma)的描述,下列何者正確? | 108(一)專 | | | (A) 腫瘤通常直徑大於 3 公分 | 醫五-11 | | | (B) 血中泌乳素(prolactin)濃度通常 > 150 ng/mL | | | | (C) 手術是第一線主要治療方法 | | | | (D) 直 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...| 治療 | |-------------------------|--------------------|--------------|--------------------| | Alzheimer's dz. | Senile plaques | 記憶力↓+認知功能↓ | Anticholinesterase | | Vascular dementia | 累積小中風 | 失智+局部神經學症狀 | 控制 HTN, DM | | Dementia c/ Lewy bodies | Lewy bodies ↓ | 失智+巴金森氏症,視幻覺 | Anticholinesterase | | Frontotemporal Dementia | Pick (Tau) protein Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...這些變異形成不正常的蛋白質所引起。 - b. 晚發型: 絕大多數病患屬於這一類,好發 60 歲以上。還未發現明確致病基因,但 19 號染色體上的 APOE ε4 gene 確定會增加病情惡化的風險。 - (3) 病理:老年斑(senile plaques)、神經纖維糾結(neurofibrillary tangles)。 - (4) 症狀:初期為記憶減退,尤其是短期記憶 (recent memory) 最先喪失。 - (5) 診斷: - a. 靠認知功能評估及排除其他疾病。 - b. 影像學: - (a) 主要用來排除其他造成失智症的器質性疾病(organic disorder)。 - (b) 阿茲海默症可見腦萎縮,如側腦室擴大、腦溝(sulcus)變寬,由以顳葉 內側(medial Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (C) 病理特徵為老年斑 (senile plaques) 和神經纖維糾結 (neurofibrillary tangles) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

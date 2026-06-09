@@ -11,6 +11,8 @@ sources:
   - "[[sources/med3-book4-ch22]]"
   - "[[sources/med3-book4-ch28]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Bisphosphonates (雙磷酸鹽類)'
   - 'Bisphosphonates'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制骨吸收，用於骨質疏鬆治療。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,14 @@ tags:
 - [[sources/med3-book4-ch22]]
 - [[sources/med3-book4-ch28]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- ...ceptor modulator, SERM)、 選擇性組織動情素活性調節劑(selective tissue estrogenic activity regulator, STEA)。 - (c) 賀爾蒙補充療法(HRT)。 - (d) 雙磷酸鹽類(biphophonate):常做為第一線藥物。 - (e) 維生素 D、鈣。 - (f) 抑鈣素 (calcitonin)。 - (g) 細胞核 kB 受體活化因子配體抑制劑(RANKL inhibitor)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (C) 3. 有關以雙磷酸鹽藥物治療骨質疏鬆症之敘述,下列何者錯誤? Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- 5. 治療: - (1) 保守治療:NSAID, electric stimulation, bisphosphonate, shockwave (under investigation)。 - (2) 外科治療: - a. Before collapse (FICAT I & II) core decompression, grafting procedures (補骨頭)。 - b. After collapse: 做人工關節。 - (a) FICAT III:hemiarthroplasty(當還沒影響到 acetabular 時可以考慮)。 - (b) FICAT IV: total hip arthroplasty (已影響到 acetabular,則須使用全人工關節)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - ii. 使用賀爾蒙治療需要定期監測這些副作用,處理的方式如下: - (i) 骨密度下降:以 FRAX 評估。使用鈣、維他命 D 補充劑、或是雙磷酸鹽。 - (ii) 貧血:通常很輕微,若嚴重可以補充紅血球生成素。 - (iii) 熱潮紅(hot flashes),可補充醋酸甲羥孕酮(medroxyprogesterone acetate 300~400 mg IM monthly)治療之。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (A) 芳香環轉化酶抑制劑 + 雙磷酸鹽 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - (B) 多種藥劑化學治療 + 雙磷酸鹽 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].

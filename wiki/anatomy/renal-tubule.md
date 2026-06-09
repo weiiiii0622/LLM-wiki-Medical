@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book1-ch08]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Renal tubule (腎小管)'
   - 'Renal tubule'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎小管調控水、電解質、酸鹼與藥物/毒物處理。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,12 @@ tags:
 - [[sources/med5-book1-ch08]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (C) 98% 的鈣會被腎臟再吸收,主要是在遠端腎小管 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- 【詳解】(C) 98%的鈣會被腎臟再吸收,主要是在近端腎小管(60%)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...暴露於石綿、有機溶劑、鎘; 洗腎;腎囊性病變。 - c. 病理學: - (a) 微觀:大多是混合型癌(mixed carcinoma,包含 clear cells、granular cell 或像 sarcomatoid 的細胞),源自近端腎小管的上皮細胞。細胞形態分類 如圖。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...流不足。 - b. 移植腎功能延遲回復(delayed recovery of graft function, DGF): - (a) 定義:在移植後第一週肌酸酐(creatinine)不降反升,需要洗腎。 - (b) 成因:最常見的是急性腎小管壞死(acute tubular necrosis, ATN),大多經數週的治療可回復,但有2%腎永久無功能。若是合併寡尿(尿 1 cc/kg/hr,但在移植後幾天中,突然間少尿。 - (b) 考量:阻塞問題(尿管是否通暢+掃超音波看有無水腎);腎血流灌流不足(掃都卜勒超音波,若懷疑需馬上開刀探察,因數小時內移植腎會壞死);瘻管產生(抽出引流液 creatinine 超過血中 creatinine 5 倍);若排除上述問題,要考慮腎臟切 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 【詳解】多囊性腎病是一種遺傳性疾病,其中腎小管結構異常, 導致腎內多發性囊腫的發展和生長。這些囊腫可能在子宮內, 嬰兒期,兒童期或成年期開始發展。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -75,8 +79,6 @@ tags:
 - (B) 9. 嬰兒尿道後瓣膜(posterior urethral valves),最不常見之表現為: 99(一)專 - 醫四-2 - (A)慢性腎衰竭 - (B) 腎鈉堆積(sodium retention) 及水腫 - (C) 第四型腎小管酸血症(type IV renal tubular acidosis) - (D) 水腎及輸尿管擴張(hydronephrosis and hydroureter) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - ...嚴重,預後較差。 | | 先天性乳糖不 | 和先天性乳糖酶缺乏不同的疾病,屬於常染色 | | 耐受症 | 體顯性遺傳,開始餵食後出現暴發性腹瀉,水 | | (即所謂乳糖 | 樣多泡的酸性大便,伴腹瀉,可致嘔吐,脫水, | | 不耐症) | 腎小管性酸中毒,雙糖尿,氨基酸尿,白內障, | | | 肝和腦損傷,如診斷過遲可引起死亡,停止餵 | | | 乳後腹瀉消失,無乳糖尿和氨基酸尿症。 | | 成人後天性乳 | 食用牛奶後可引起水樣酸性便伴腹脹,腹部 | | 糖不耐受症 | 不適。 | | 先天性蔗糖酶 | I gene 突變造成蔗糖 α -糊精酶缺乏。通常會 | | - 異麥芽糖酶 | 在嬰兒斷奶後明顯出現,此時嬰兒開始食用水 | | 缺乏症 | 果,果汁和穀物等食物,食用後的 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 1. 針對病因做治療,並非只有單純給予生長激素治療。如矯正腎小管酸中毒、甲狀腺機能低落等。另外,對透納氏症病人,不能只單純給與生長激素,必須加上女性荷爾蒙配合治療才有顯著效果。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (A) 腎小管性酸中毒 (renal tubular acidosis) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...胃炎。 - (2) 1/3 病人會合併其他全身症狀: - a. 非侵蝕性(Nonerosive)關節炎、雷諾氏徵候(Raynaud's phenomenon)。 - b. 間質性肺病 (Interstitial lung disease)、腎小管酸中毒 (Renal tubular acidosis = RTA type 1) - c. 自體免疫性肝炎(AIH)、原發性膽管硬化(PSC)。 - (3) 有些病患在疾病晚期會併發淋巴癌 (Extranodal, low grade, marginal zone B cell lymphoma),特別是唾液腺持續腫大、Low C4、合併冷凝蛋白血症等病患;有時會在腫大唾液腺意外發現。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
 
 ## Clinical Caveats
 

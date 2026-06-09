@@ -42,6 +42,8 @@ sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch08]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Central nervous system, CNS (中樞神經系統)'
   - 'Central nervous system, CNS'
@@ -56,7 +58,7 @@ tags:
 
 ## Summary
 
-包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+包含 brain 與 spinal cord，是神經定位、感染、血管、退化與脫髓鞘疾病的核心架構。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -98,9 +100,13 @@ tags:
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book5-ch07]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch08]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- 1. 簡介:腦性麻痺是指嬰兒在出生前或出生後(腦部尚未發育成熟之前),中樞神經系統(upper motor neurom)受到損傷或發生病變所造成的運動機能障礙。它是非進行性的疾病(static encephalopathy),部分的腦性麻痺兒童會伴隨其他方面的障礙(有75%的病人會合併有智能障礙)。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
+- 1. 骨盆骨折的特性:有三高。 - (1) High energy trauma: 骨盆周圍的韌帶非常強韌而穩定,所以若骨盆受傷表示一定受到很高能量的傷害,在台灣常見於車禍意外或高處墜落。 - (2) High morbidity: 高能量的外力破壞造成胸部、腦部、腹部的伴隨傷害 (associated injury)、同時有 15% 病人會合併骨盆腔器官、神經血管的傷害,如果有血管的傷害常會合併大量的出血。 - (3) High mortality: 不穩定的骨盆骨折死亡率可高達 10%。若是不穩定的骨盆骨折 再加上開放性骨折或是腦部、胸部的傷害,造成休克,死亡率甚至可升高到 50%。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - b. 器質性 (organic): - (a) 神經方面 (neurogenic): - i. 腦神經:有腦部腫瘤壓迫等。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...in (SHBG) 增加。 | | | | (C) 22. | 威而鋼(Viagra,學名 silde | mafil)是藉由那一種藥理作用來促 | 99(二)專 | | | 進男性陰莖的勃起? | | 醫五 -71 | | | (A) 由中樞神經的下視丘刺邊 | y (hypothalamus ) 引發勃起指令 | | | | (B) 由激素的刺激大量分泌睪 | 墨固酮(testosterone) | | | | (C) 對第五型 phosphodiestera | ase(PDE5)的抑制使陰莖海綿體平 | | | | 滑肌放鬆 | | | | | (D) 對第六型 phosphodiestera | ase(PDE6)的抑制使陰莖海綿體平 | | | | 滑肌放鬆 | | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...腦儲尿中樞(pontine storage center)發出的訊號是經骨盆神經(pelvic nerve)傳至尿道外括約肌 (C) 交感神經訊號增強,且經由下腹神經(hypogastric nerve)至膀胱 (D) 膀胱滿漲的訊號可刺激脊髓反射作用稱為防護反射(guaing reflex),可增加禁尿的功能 | 傳 | | (B) | 3. 有關自主神經反射異常(autonomic dysreflexia, AD)的敘述,列何者錯誤? (A) 經常發生於脊髓損傷部位高於 T6~T8 以上的病人 (B) 病人會有低血壓 (C) 病人會有頭痛及患部以上潮紅 (D) 男性病人常併有尿道平滑肌共濟失調(dyssynergia) | 下 108(一)專醫五-69 | | (D) | Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
@@ -117,8 +123,6 @@ tags:
 - ...6-T9 發出之神經,經過 celiac plexus 後分佈於胃壁。 - (b) 其作用使胃蠕動減慢,胃液分泌減少,括約肌緊張等。 - b. 副交感神經: - (a) 90% 為輸出神經 (afferent nerve),傳送胃部的訊息至中樞神經。 - (b) 可分成 left vagus nerve 與 right vagus nerve(左分支 在前,右分支在後。記 憶成 Left anterior、right posterior, LARP)。 - (c) 由圖可知,於胃小彎處, 左側迷走神經可再分支出 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
 - ...(一) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭轉移,其餘為肺部、淋巴結、 | | | | 腦部與肝臟。 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - (D) 細菌血栓打出一旦造成腦部缺氧或出血,應儘快手術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- (D) 在 type A 或 type B 主動脈剝離產生的器官灌注不良 (malperfusion syndrome) 中,以腦部及腸道最常見 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 
 ## Clinical Caveats
 

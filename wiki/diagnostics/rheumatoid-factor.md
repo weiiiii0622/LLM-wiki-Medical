@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch01]]"
   - "[[sources/med3-book4-ch09]]"
@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book4-ch03]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Rheumatoid factor, RF (類風濕因子)'
   - 'Rheumatoid factor, RF'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人�
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book4-ch03]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- b. 特徵為多發性關節發炎,會有關節處 pannus(翳)的產生,診斷的標準是七個特徵有符合四個就合乎診斷(> 3 個關節腫脹、腕 / 手關節腫脹 [ 通常 為 MP 或 PIP joint、對稱性腫脹、晨僵超過一個小時、rheumatoid nodule、 RF(+)、腕 / 手關節影像上有 erosion 或 periarticular osteopenial) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (B) 30. 一位 70 歲男性,最近數月天天頭痛且視力模糊。頭痛位置在左 100(二)專 側顳部,非搏動性疼痛(non-throbbing pain),每天頭痛時間達 醫四-52 數小時之久,頭痛時並沒有噁心、嘔吐或流淚等症狀。病患同時 抱怨全身倦怠、發燒及肌肉疼痛。身體檢查發現左側淺部顳動脈 (superficial temporal artery)變硬且附近皮膚有紅腫。以下那個 檢查,對診斷最有幫助? - (A) 類風濕因子 (Rheumatoid factor, RF) - (B) 紅血球沈降速率 (Erythrocyte sedimentation rate, ESR) - (C) HLA-typing - (D) 腫瘤標記 (Tumor markers) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].
 - 【詳解】Adult Onset Still's Disease 為罕見的全身發炎性疾病,典型三個表現為 arthritis、high spiking fevers(間歇性高燒)、salmon-coloured skin rash,另外會伴隨喉嚨痛、淋巴節腫大或肝脾腫大,診斷此疾病須排除其他相近表現的疾病,且抽血無類風濕因子(RF)及抗核抗體(ANA)。血液檢驗可以發現發炎指數上升,neutrophil 及 ferritin 上升。治療方式以 NSAISs、steroids 和免疫調節劑為主。 Source: [[sources/med4-book2-ch11|子、其 他]].

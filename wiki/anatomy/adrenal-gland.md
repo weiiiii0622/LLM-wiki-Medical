@@ -51,6 +51,7 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Adrenal gland (腎上腺)'
   - 'Adrenal gland'
@@ -65,7 +66,7 @@ tags:
 
 ## Summary
 
-腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎上腺皮質與髓質分泌 glucocorticoid、mineralocorticoid、androgen 與 catecholamine。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +117,11 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (2) 次發性(10%): - a. Type III:由於其他器官的原因造成,如內分泌疾病(包括甲狀腺、副甲狀腺或腎上腺等功能異常)、營養不良、血液疾病、藥物以及其他疾病等原因引起之骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - I. 簡介 162 - A. 腎上腺解剖 / 功能 162 - B. 腎上腺腫瘤總論 163 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - ...狀帶分泌太多會造成庫欣氏症) - (3) 網狀帶(zona Reticularis)分泌雄性素(Androgen)。主要有睪固酮(testosterone)、 雙氫睪固酮(DHT, Dihydrotestosterone)。(注意:雄性素是腎上腺皮質分泌最大量的物質)(記法:網路宅男。網狀帶分泌太多會造成男性化) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -136,7 +139,6 @@ tags:
 - 內分泌外科共分甲狀腺、副甲狀腺、胰島和腎上腺四大部分。甲狀腺重點在甲狀腺功能評估和疾病診斷、甲狀腺癌種類的分辨和甲狀腺術後併發症。副甲狀腺重點為機能評估。胰島重點在於分辨各種胰島細胞瘤之症狀、診斷和處置。腎上腺重點為Cushing syndrome 和嗜鉻細胞瘤。 Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
 - ...(C) 血中 TSH (D) 血中可體松 (cortisol) 及 ACTH 【詳解】病人長期服用類固醇長達半年,甲狀腺手術後停止服 用類固醇,產生發燒、全身無力及血壓低的情形,比較像是長 期服用 steroid 造成 secondary adrenal insufficiency,而在停用 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - 1. 腦下垂體分為前、後葉,各自分泌不同荷爾蒙: - (1) 前葉:主要分泌生長激素(GH)、泌乳激素(prolactin)、黃體素激素(LH)、 絨毛膜激素、腎上腺皮質激素(ACTH)、甲狀腺素激素(TSH)、黑色素激素。 - (2) 後葉:由下視丘延伸,分泌抗利尿激素(ADH)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...150~200 ng/mL。 - b. 生長激素 (GH): 刺激生長,成人出現末端肥大症 (acromegaly), 青春期前 兒童因 epiphyseal plate 尚未完全閉合,則會造成巨人症 (gigantism)。 - c. 腎上腺皮質激素 (ACTH): 刺激 cortisol 分泌造成 endogenous hypercortisolism,也就是 Cushing's disease。症狀有月亮臉 (moon face)、粉刺 (acne)、水牛肩 (buffalo hump)、下腹部及大腿內側有紫色斑紋 (purple striae)、皮膚薄 (tissue-paper thin skin)容易瘀青且傷口癒合不佳、肌肉無力萎縮、骨質疏鬆等。 - d. 甲狀腺 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch05]]"
   - "[[sources/med3-book4-ch06]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book2-ch02]]"
   - "[[sources/med4-book2-ch05]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Reactive arthritis (反應性關節炎)'
   - 'Reactive arthritis'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-感染後無菌性關節炎，常與泌尿生殖道或腸胃感染相關。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+感染後無菌性關節炎，常與泌尿生殖道或腸胃感染相關。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book2-ch02]]
 - [[sources/med4-book2-ch05]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- 1. 關節炎可以分成 inflammatory (seropositive :rheamatoid arthritis 和 seronegative: Ankylosing spondylitis, psoriatic arthritis, reactive arthritis) 和 non-inflammatory (osteoarthritis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (C) 5. 下列關於 Staphylococcal scalded skin syndrome (SSSS) 之敘述, 99(一)專 何者錯誤? 醫四 -35 - (A) Nikolsky's sign 常呈現陽性 - (B) 常合併化膿性結膜炎 (purulent conjunctivitis) - (C) 水疱液常培養出 Staphylococcus aureus - (D) 必須使用全身性抗生素治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (4) 併發症:因反覆抓癢導致金黃色葡萄球菌或疱疹病毒(eczema herpeticum) 感染。少數會有錐形角膜(keratoconus)、白內障(cataracts)或角膜結膜炎(keratoconjunctivitis)。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (D) 沙門氏菌腸炎的併發症包含反應性關節炎(reactive arthritis) Source: [[sources/med4-book1-ch02|乙、消化系統]].

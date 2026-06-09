@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch29]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med5-book6-ch06]]"
 aliases:
   - 'Syndactyly (併指畸形)'
   - 'Syndactyly'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-手指分離不全，可為 simple/complex、complete/incomplete，治療需避免 web creep 與保護血供。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+手指分離不全，可為 simple/complex、complete/incomplete，治療需避免 web creep 與保護血供。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch29]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med5-book6-ch06]]
 
 ## Key Details From Sources
 
+- (C) 若合併指動脈損傷,必須先做動脈吻合,然後再縫合肌腱 Source: [[sources/med5-book6-ch06|己、手部]].
 - 1. 簡單來說,胚胎發育四肢會先形成 handplate (或 footplate),接著組織會經由 apoptosis 裂解成類似鴨子蹼狀的 webbed fingers (toes),最後持續形成各自獨立的 手(腳)指頭。如果 apoptosis 的過程失敗,導致指頭之間無法彼此順利分離,就會成為併指。 Source: [[sources/med5-book2-ch29|戊、併指畸形]].
 - 2. 併指是最常見的手指先天畸形,和遺傳有關,男生:女生=2:1。 Source: [[sources/med5-book2-ch29|戊、併指畸形]].
 - 4. Poland syndrome 和 Apert syndrome 的病人常患有 syndactyly。 Source: [[sources/med5-book2-ch29|戊、併指畸形]].

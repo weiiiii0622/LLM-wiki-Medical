@@ -30,6 +30,8 @@ sources:
   - "[[sources/med5-book3-ch23]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Breast cancer (乳癌)'
   - 'Breast cancer'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乳房惡性腫瘤，治療依分期、ER/PR/HER2 與病理亞型決定。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,14 @@ tags:
 - [[sources/med5-book3-ch23]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- ...ive treatment,作用在 osteoclast 使其功能下降,減少骨質流失): - (a) 雌激素(estrogen):治療及預防停經婦女骨質疏鬆症最有效的方法,但不建議以第一線治療用於 60 歲以上婦女,禁忌症為患有子宮內膜癌、乳癌(會提高癌症復發率)、血栓症等危險因子之更年期婦女。 - (b) 選擇性雌激素受體調節劑(selective estrogen receptor modulator, SERM)、 選擇性組織動情素活性調節劑(selective tissue estrogenic activity regulator, STEA)。 - (c) 賀爾蒙補充療法(HRT)。 - (d) 雙磷酸鹽類(biphophonate):常做為第一線藥物。 - (e Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (A) 乳癌病人停經後骨質流失較快,應儘早補充女性荷爾蒙 (hormone replacement therapy)來預防骨質疏鬆 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- 1. 骨頭惡性腫瘤有一定的比率(超過一半以上)是轉移癌。來源以下面幾個最為常見: - (1) 肺癌。 - (2) 乳癌。 - (3) 前列腺癌。 - (4) 甲狀腺腫瘤。 - (5) 肝癌。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - b. 惡性腫瘤:有活動性或復發性腫瘤不可移植。但若已經切除腫瘤,注意移植 前的觀察時間: - (a) 不用觀察直接可以移植:原位癌、未發現的小體積腎癌。 - (b) 2年:大部分的腫瘤。 - (c) 5年:淋巴癌、乳癌、有症狀或> 5 cm 的腎癌。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - b. 定義:胸水抽吸(thoracocentesis)細胞學檢查發現惡性細胞。無法直接診斷淋巴瘤,或區別為惡性細胞和反應性間皮細胞。產生的原因以轉移性乳癌和肺癌最常見、淋巴瘤次之(約10~14%)、轉移性卵巢癌則很少見、支氣管或淋巴阻塞、低蛋白血症等亦可能。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (B) 轉移性乳癌及肺癌最常造成惡性肋膜積液 Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -92,9 +99,6 @@ tags:
 - (1) 乳房的病理切片中可見乳房上皮組織有異常增殖細胞,視為一種癌前病變,也表示病人未來罹患乳癌的機率增加2到4倍。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - 2. 治療:當 core needle biopsy 檢查顯示為非典型乳管增生,需要進一步作 **surgical biopsy** 把全部腫塊取出,作進一步的病理診斷,因為約有 1/3 的病人最後被確診為乳癌。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - (C) 19. 42 歲肥胖並有抽菸的女性,腹部已有橫式剖腹產疤痕,乳房是 E罩杯。現罹患右側乳癌,要求改良式乳房全切除手術(modified radical mastectomy)後立即進行乳房重建手術。下列有幾項選擇: Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- (D) 25. 林小姐罹患乳癌須接受一側乳房切除,她想同時接受乳房重建 手術,則下列那一個皮瓣最不適合用來作為乳房重建之用? - (A) 闊背肌肌皮瓣 (latissimus dorsi muscle flap) - (B) 橫腹直肌皮瓣(transverse rectus abdominis myocutaneous flap) - (C) 上臀動脈穿通枝皮瓣(superior gluteal artery perforator flap) - (D) 腹網膜瓣 (omental flap) Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
-- ...甲狀球蛋白(Thyroglobulin) | 醫五-8 | | (B) 血清抑鈣激素(Calcitonin) | | | (C) RET 基因分析 | | | (D) 頸部超音波 | | | (B) 41.60 歲女性病人,20 年前有右側乳癌做過 irrad | liation,發現右側甲 98(-)專 | | 狀腺硬塊約二個月,則應建議做何檢查? | 醫五-38 | | (A) $T_3$ , $T_4$ , TSH | | | (B) 超音波定位細胞學檢查 | | | (C) 核磁共振 | | | (D) 血管攝影 | | | (A) 42. 承上題,上述病人接受手術,最可能的診斷是 | 是: 98(一)專 | | (A) 乳突癌(papillary thyroid c Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...)— 胃 腺 癌(Gastric | | | adenocarcinoma) | | | (C) Epstein-Barr virus -鼻咽癌(Nasopharyngeal carcinoma) | | | (D) Tamoxifen —乳癌(Breast cancer) | | | 【詳解】Tamoxifen 可用來治療乳癌,但會增加停經後的婦女得 | | | 到子宮內膜癌的機會。 | | | (C) 24. 一位 36 歲男性工人體重 70 公斤,工作時不慎發生火災,身體 | 102(一)專 | | 表面積有 30% 的燒傷,根據 Parkland formula 計算,他前 8 小時 | 醫五 -77 | | 應給予多少毫升的輸液? | | | (A) 8,400 | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 
@@ -104,6 +108,7 @@ tags:
 ## Related Pages
 
 - [[procedures/axillary-lymph-node-dissection|Axillary lymph node dissection, ALND (腋下淋巴結廓清)]]
+- [[conditions/bone-metastasis|Bone metastasis (骨轉移)]]
 - [[procedures/breast-augmentation|Breast augmentation (隆乳手術)]]
 - [[procedures/breast-conserving-surgery|Breast-conserving surgery / lumpectomy (乳房保留手術)]]
 - [[diagnostics/breast-ultrasonography|Breast ultrasonography (乳房超音波)]]

@@ -19,7 +19,9 @@ Diseases and syndromes.
 - [[conditions/abnormal-liver-function-tests|Abnormal liver function tests (肝功能異常)]] - 肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。
 - [[conditions/absence-seizure|Absence seizure (失神發作)]] - 短暫意識中斷與 staring，典型 EEG 為 3-Hz spike-and-wave。
 - [[conditions/achalasia|Achalasia (食道弛緩不能)]] - 下食道括約肌放鬆不全與食道蠕動異常造成吞嚥困難。
+- [[conditions/achilles-tendon-rupture|Achilles tendon rupture (阿基里斯腱斷裂)]] - 常見於運動或突然蹬地，表現為後踝疼痛、跛行與 plantar flexion 無力，Thompson test 可輔助診斷。
 - [[conditions/acromegaly|Acromegaly (肢端肥大症)]] - 成人 GH 過多造成肢端肥大、代謝與心血管併發症。
+- [[conditions/acromioclavicular-joint-injury|Acromioclavicular joint injury (肩峰鎖骨關節傷害)]] - 跌倒撞擊肩峰可造成 AC joint separation，Rockwood 分型依韌帶斷裂與位移決定保守或手術。
 - [[conditions/actinic-keratosis|Actinic keratosis (光化性角化症)]] - 日曬造成的鱗屑粗糙角化病灶，是 SCC 前驅病變。
 - [[conditions/actinomycosis|Actinomycosis (放線菌病)]] - 厭氧絲狀菌感染，常見慢性下顎臉部或腹盆腔病灶。
 - [[conditions/acute-acalculous-cholecystitis|Acute acalculous cholecystitis (急性非結石性膽囊炎)]] - 重症、外傷、燒傷或禁食病人可發生無結石膽囊炎，診斷較困難且壞疽穿孔風險較高。
@@ -67,9 +69,12 @@ Diseases and syndromes.
 - [[conditions/anca-associated-vasculitis|ANCA-associated vasculitis (ANCA 相關血管炎)]] - pauci-immune RPGN 重要病因，可合併肺部侵犯。
 - [[conditions/anemia|Anemia (貧血)]] - 血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。
 - [[conditions/anemia-of-chronic-inflammation|Anemia of chronic inflammation, ACI (慢性發炎性貧血)]] - 慢性發炎、感染或惡性腫瘤造成鐵利用障礙與造血抑制。
+- [[conditions/aneurysmal-bone-cyst|Aneurysmal bone cyst (動脈瘤樣骨囊腫)]] - 血液充滿的膨脹性良性骨病灶，MRI 可見 fluid-fluid levels，可原發或繼發於其他腫瘤。
+- [[conditions/ankle-fracture|Ankle fracture (踝關節骨折)]] - 踝關節骨折需評估內外踝、後踝、syndesmosis 與 talar shift；穩定無位移可石膏，位移或不穩定多需 ORIF。
 - [[conditions/ankylosing-spondylitis|Ankylosing spondylitis, AS (僵直性脊椎炎)]] - seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。
 - [[conditions/anorectal-abscess-fistula|Anorectal abscess and fistula (肛門直腸膿瘍與瘻管)]] - 肛門腺感染可形成膿瘍，破裂或引流後可能形成 fistula-in-ano。
 - [[conditions/anorexia-nervosa|Anorexia nervosa (神經性厭食症)]] - 限制攝食導致低體重、強烈害怕變胖與身體意象扭曲，可伴隨 purging 或過度運動。
+- [[conditions/anterior-cruciate-ligament-injury|Anterior cruciate ligament injury, ACL injury (前十字韌帶傷害)]] - ACL injury 常有 pop 聲、急性血腫與膝不穩，Lachman test 敏感，年輕或高活動需求者常考慮重建。
 - [[conditions/anthrax|Anthrax (炭疽病)]] - 人畜共通感染，可為皮膚、吸入或腸胃型。
 - [[conditions/anti-gbm-disease|Anti-GBM disease / Goodpasture syndrome (抗腎絲球基底膜疾病)]] - anti-GBM antibody 造成腎絲球腎炎，Goodpasture syndrome 合併肺出血。
 - [[conditions/antiphospholipid-syndrome|Antiphospholipid syndrome, APS (抗磷脂質抗體症候群)]] - 以動靜脈血栓或妊娠 morbidity 合併 antiphospholipid antibodies 為核心。
@@ -113,8 +118,10 @@ Diseases and syndromes.
 - [[conditions/bladder-cancer|Bladder cancer / urothelial carcinoma (膀胱癌／泌尿上皮癌)]] - 泌尿道常見惡性腫瘤，多為 urothelial carcinoma，典型以無痛性血尿表現，診斷與追蹤核心是 cystoscopy/TURBT。
 - [[conditions/bladder-carcinoma-in-situ|Bladder carcinoma in situ, CIS (膀胱原位癌)]] - 膀胱高風險扁平原位病灶，進展風險高，常以 TURBT 後膀胱內 BCG 治療與密切追蹤。
 - [[conditions/blunt-aortic-injury|Blunt aortic injury (鈍傷性主動脈損傷)]] - 高速減速創傷可造成主動脈峽部損傷，需以影像快速診斷並控制血壓、評估 TEVAR 或手術。
+- [[conditions/bone-metastasis|Bone metastasis (骨轉移)]] - 成人惡性骨病灶常為轉移癌，常見來源包含肺、乳、攝護腺、甲狀腺與肝癌，需評估病理性骨折與 spinal cord compression。
 - [[conditions/botulism|Botulism (肉毒桿菌中毒)]] - 肉毒毒素抑制 acetylcholine 釋放，造成下行性無力與自主神經症狀。
 - [[conditions/bowen-disease|Bowen disease (波文氏症)]] - 皮膚 squamous cell carcinoma in situ，表現界線清楚紅色鱗屑斑塊。
+- [[conditions/brachial-plexus-injury|Brachial plexus injury (臂神經叢損傷)]] - 臂神經叢牽拉或撕裂可造成上肢運動與感覺缺損，定位需依 root/trunk/cord/terminal branch。
 - [[conditions/brain-death|Brain death (腦死)]] - 全腦功能不可逆喪失，需符合嚴格臨床條件、排除干擾因素並依當地法規判定。
 - [[conditions/brain-tumor|Brain tumor (腦瘤)]] - 顱內腫瘤依組織來源、位置與 grade 造成 seizure、IICP、focal deficit 或 endocrine symptoms。
 - [[conditions/branchial-cleft-remnant|Branchial cleft remnant (腮裂遺跡)]] - 胚胎腮裂殘留可形成頸部囊腫、竇道或瘻管，常位於胸鎖乳突肌前緣附近。
@@ -126,6 +133,7 @@ Diseases and syndromes.
 - [[conditions/bullous-pemphigoid|Bullous pemphigoid (類天疱瘡)]] - 抗 hemidesmosome 自體抗體造成表皮下緊繃水泡，多見於老人。
 - [[conditions/bundle-branch-block|Bundle branch block (束枝傳導阻滯)]] - 心室傳導延遲會影響 ECG 判讀與 CRT 評估。
 - [[conditions/burkitt-lymphoma|Burkitt lymphoma (伯基特淋巴瘤)]] - 高度侵襲性 B cell lymphoma，常見 c-MYC translocation。
+- [[conditions/calcaneus-fracture|Calcaneus fracture (跟骨骨折)]] - 常由高處墜落造成，需注意 intra-articular involvement、Böhler angle 下降及合併腰椎或下肢骨折。
 - [[conditions/calcium-pyrophosphate-deposition-disease|Calcium pyrophosphate deposition disease, CPPD (焦磷酸鈣沉積病)]] - CPP crystal 關節病，可表現為 pseudogout 與 chondrocalcinosis。
 - [[conditions/campylobacter-infection|Campylobacter infection (空腸彎曲桿菌感染)]] - 常見細菌性腸炎原因，可與 Guillain-Barre syndrome 相關。
 - [[conditions/cancer-of-unknown-primary|Cancer of unknown primary, CUP (原發不明癌)]] - 轉移癌但原發部位未明時，需以病理、免疫染色與臨床線索找來源。
@@ -136,6 +144,7 @@ Diseases and syndromes.
 - [[conditions/cardiogenic-pulmonary-edema|Cardiogenic pulmonary edema (心因性肺水腫)]] - 心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。
 - [[conditions/cardiomyopathy|Cardiomyopathy (心肌病變)]] - 心肌結構或功能異常的疾病群。
 - [[conditions/carotid-cavernous-fistula|Carotid-cavernous fistula, CCF (頸動脈海綿竇瘻管)]] - 頸動脈與 cavernous sinus 異常交通，可造成突眼、結膜充血、眼肌麻痺與雜音。
+- [[conditions/carpal-tunnel-syndrome|Carpal tunnel syndrome (腕隧道症候群)]] - 正中神經於腕隧道壓迫造成拇、食、中指麻痛與 thenar weakness，檢查包含 Phalen/Tinel 與 nerve conduction study。
 - [[conditions/castration-resistant-prostate-cancer|Castration-resistant prostate cancer, CRPC (去勢抗性攝護腺癌)]] - 攝護腺癌在去勢濃度 testosterone 下仍進展的狀態，需考慮第二代 androgen-axis 治療、化療、放射性核種或臨床試驗。
 - [[conditions/cat-scratch-disease|Cat-scratch disease (貓抓病)]] - Bartonella henselae 感染造成局部淋巴結腫大，與貓抓咬暴露相關。
 - [[conditions/caustic-esophageal-injury|Caustic esophageal injury (腐蝕性食道傷害)]] - 強酸或強鹼造成食道與胃灼傷，急性期需評估穿孔與內視鏡分級，慢性期注意狹窄與癌化風險。
@@ -160,6 +169,8 @@ Diseases and syndromes.
 - [[conditions/choledocholithiasis|Choledocholithiasis (總膽管結石)]] - 總膽管結石可造成阻塞性黃疸、膽管炎或胰臟炎。
 - [[conditions/cholelithiasis|Cholelithiasis (膽結石)]] - 膽囊或膽道結石可造成 biliary colic、膽囊炎、膽管炎或胰臟炎。
 - [[conditions/cholera|Cholera (霍亂)]] - Vibrio cholerae 毒素造成大量水瀉與脫水。
+- [[conditions/chondroblastoma|Chondroblastoma (軟骨母細胞瘤)]] - 年輕人 epiphysis 良性軟骨腫瘤，可造成關節附近疼痛與 lytic lesion。
+- [[conditions/chondrosarcoma|Chondrosarcoma (軟骨肉瘤)]] - 成人常見原發惡性骨腫瘤之一，源自軟骨，常見於骨盆、肩帶或長骨近端，治療以手術為主。
 - [[conditions/choroid-plexus-tumor|Choroid plexus tumor (脈絡叢腫瘤)]] - 脈絡叢來源腫瘤，可造成 CSF 過度生成或阻塞性 hydrocephalus。
 - [[conditions/chromoblastomycosis|Chromoblastomycosis (黑色真菌症)]] - 深部皮膚真菌感染，常與外傷植入有關，可見 muriform/sclerotic bodies。
 - [[conditions/chronic-bronchitis|Chronic bronchitis (慢性支氣管炎)]] - COPD phenotype，以慢性咳嗽咳痰為核心。
@@ -181,6 +192,7 @@ Diseases and syndromes.
 - [[conditions/colorectal-polyp|Colorectal polyp (大腸直腸息肉)]] - 大腸直腸息肉依組織型與大小決定癌化風險，adenoma-carcinoma sequence 是篩檢重點。
 - [[conditions/coma|Coma (昏迷)]] - 嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。
 - [[conditions/community-acquired-pneumonia|Community-acquired pneumonia (社區型肺炎)]] - 院外發生的肺炎，常以臨床嚴重度與病原風險決定治療。
+- [[conditions/compartment-syndrome|Compartment syndrome (腔室症候群)]] - 筋膜室壓力上升造成肌肉神經缺血，疼痛超出預期與被動伸展痛是重要警訊，治療為緊急 fasciotomy。
 - [[conditions/congenital-adrenal-hyperplasia|Congenital adrenal hyperplasia, CAH (先天性腎上腺增生)]] - 腎上腺類固醇合成酵素缺陷，常見 21-hydroxylase deficiency，可有鹽分流失與性分化異常。
 - [[conditions/congenital-cmv-infection|Congenital cytomegalovirus infection (先天性巨細胞病毒感染)]] - 最常見先天病毒感染之一，可有小頭、腦室周圍鈣化、聽損、血小板低下與肝脾腫大。
 - [[conditions/congenital-diaphragmatic-hernia|Congenital diaphragmatic hernia, CDH (先天性橫膈膜疝氣)]] - 橫膈缺損造成腹腔器官進入胸腔、肺發育不全與新生兒呼吸衰竭。
@@ -188,6 +200,7 @@ Diseases and syndromes.
 - [[conditions/congenital-infection|Congenital infection (先天性感染)]] - 母胎或周產期感染造成胎兒/新生兒疾病，需依病原與孕期時點判讀。
 - [[conditions/congenital-muscular-torticollis|Congenital muscular torticollis (先天性肌性斜頸)]] - 胸鎖乳突肌纖維化或腫塊造成頭頸姿勢偏斜，早期復健伸展多有效。
 - [[conditions/congenital-pulmonary-airway-malformation|Congenital pulmonary airway malformation, CPAM (先天性肺呼吸道畸形)]] - 胎兒或新生兒肺部囊性發育異常，可造成呼吸窘迫、感染或縱隔偏移，治療依症狀與病灶規劃。
+- [[conditions/congenital-radioulnar-synostosis|Congenital radioulnar synostosis (先天性橈尺骨融合)]] - 近端橈尺骨先天融合造成前臂旋前/旋後受限，常雙側且可合併其他先天異常。
 - [[conditions/congenital-rubella-syndrome|Congenital rubella syndrome (先天性德國麻疹症候群)]] - 孕期 rubella 感染造成白內障、PDA/肺動脈狹窄、聽損與發育問題。
 - [[conditions/congenital-toxoplasmosis|Congenital toxoplasmosis (先天性弓漿蟲感染)]] - 典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。
 - [[conditions/constrictive-pericarditis|Constrictive pericarditis (縮窄性心包膜炎)]] - 硬化心包限制舒張充填，可類似限制型心肌病變。
@@ -211,6 +224,7 @@ Diseases and syndromes.
 - [[conditions/cystitis|Cystitis (膀胱炎)]] - 下泌尿道感染，常有頻尿、急尿、解尿疼痛。
 - [[conditions/cytomegalovirus-infection|Cytomegalovirus infection, CMV (巨細胞病毒感染)]] - 免疫低下者可造成 retinitis、colitis、encephalitis 等。
 - [[conditions/darier-disease|Darier disease (Darier 病)]] - ATP2A2 相關角化異常，表現油膩性角化丘疹、甲變化與棘融解。
+- [[conditions/de-quervain-tenosynovitis|De Quervain tenosynovitis (狄奎凡氏腱鞘炎)]] - 第一背側腕伸肌腱鞘發炎，造成橈側手腕痛，Finkelstein test 可誘發疼痛。
 - [[conditions/delirium|Delirium (譫妄)]] - 急性波動性注意力與意識障礙，常由感染、藥物、代謝或住院壓力誘發。
 - [[conditions/delusional-disorder|Delusional disorder (妄想症)]] - 以固定妄想為核心，其他功能相對保留且缺乏典型 schizophrenia 的廣泛混亂表現。
 - [[conditions/dementia|Dementia / major neurocognitive disorder (失智症)]] - 後天認知功能下降影響日常生活，需區分退化性、血管性、代謝、藥物、憂鬱與譫妄。
@@ -219,6 +233,7 @@ Diseases and syndromes.
 - [[conditions/dermatitis-herpetiformis|Dermatitis herpetiformis (疱疹樣皮膚炎)]] - 與 celiac disease 相關，伸側劇癢群聚丘疹水泡，真皮乳突 IgA 沉積。
 - [[conditions/dermatophytosis|Dermatophytosis / tinea (皮癬菌症)]] - 皮癬菌感染角質層、毛髮或指甲，依部位命名如 tinea corporis、pedis、capitis。
 - [[conditions/detrusor-sphincter-dyssynergia|Detrusor-sphincter dyssynergia, DSD (逼尿肌括約肌共濟失調)]] - 逼尿肌收縮時外括約肌無法放鬆，常見於薦髓以上病灶，可造成高壓排尿與上泌尿道傷害。
+- [[conditions/developmental-dysplasia-of-hip|Developmental dysplasia of hip, DDH (髖關節發育不良)]] - 嬰兒髖臼與股骨頭關係異常，可由 Barlow/Ortolani、超音波或 X-ray 評估，治療依年齡用 Pavlik harness、復位或手術。
 - [[conditions/diabetes-insipidus|Diabetes insipidus (尿崩症)]] - ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。
 - [[conditions/diabetes-mellitus|Diabetes mellitus (糖尿病)]] - 慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。
 - [[conditions/diabetic-ketoacidosis|Diabetic ketoacidosis, DKA (糖尿病酮酸中毒)]] - 胰島素不足造成高血糖、酮酸中毒與脫水的急性併發症。
@@ -233,6 +248,7 @@ Diseases and syndromes.
 - [[conditions/dilated-cardiomyopathy|Dilated cardiomyopathy (擴張型心肌病變)]] - 心室擴張與收縮功能下降，可導致心衰竭。
 - [[conditions/diphtheria|Diphtheria (白喉)]] - 白喉毒素可造成咽部偽膜、心肌炎與神經病變。
 - [[conditions/disseminated-intravascular-coagulation|Disseminated intravascular coagulation, DIC (瀰漫性血管內凝血)]] - 全身凝血活化造成血栓與出血並存，常由敗血症、癌症、產科或創傷引發。
+- [[conditions/distal-radius-fracture|Distal radius fracture (遠端橈骨骨折)]] - 跌倒手撐地常見，影像需評估 radial height、radial inclination、volar tilt 與關節面；常見型態包含 Colles 與 Smith。
 - [[conditions/diverticular-disease|Diverticular disease (大腸憩室疾病)]] - 大腸憩室可無症狀，也可造成 diverticulitis、出血、膿瘍、穿孔或狹窄。
 - [[conditions/diverticulitis|Diverticulitis (憩室炎)]] - 憩室發炎感染造成腹痛、發燒與局部腹膜刺激，併發症可包含膿瘍、穿孔、瘻管或阻塞。
 - [[conditions/double-depression|Double depression (雙鬱症)]] - persistent depressive disorder 基礎上疊加 major depressive episode。
@@ -248,15 +264,18 @@ Diseases and syndromes.
 - [[conditions/ebstein-anomaly|Ebstein anomaly (Ebstein 異常)]] - 三尖瓣附著位置下移造成右心房化右心室、三尖瓣逆流與發紺/心律不整風險。
 - [[conditions/ecthyma|Ecthyma (臁瘡)]] - 較深層的 impetigo 型感染，侵犯至真皮可形成潰瘍與疤痕。
 - [[conditions/ectopic-ureter|Ectopic ureter (輸尿管開口異位)]] - 輸尿管開口不在正常膀胱三角區，女性可有持續尿失禁，常合併 duplex system 或腎發育異常。
+- [[conditions/elbow-dislocation|Elbow dislocation (手肘脫位)]] - 成人常見大關節脫位，復位後需評估穩定度、神經血管與合併骨折。
 - [[conditions/emphysema|Emphysema (肺氣腫)]] - 肺泡壁破壞與過度充氣造成氣體交換障礙。
 - [[conditions/emphysematous-pyelonephritis|Emphysematous pyelonephritis (產氣性腎盂腎炎)]] - 壞死性產氣感染，常見於糖尿病或尿路阻塞，死亡率高，治療包含抗生素、控制血糖與解除阻塞/引流。
 - [[conditions/empyema|Empyema (膿胸)]] - 肋膜腔感染積膿，常需引流與抗生素。
 - [[conditions/encephalitis|Encephalitis (腦炎)]] - 腦實質發炎，常有意識改變、癲癇或局部神經學症狀。
+- [[conditions/enchondroma|Enchondroma (內生軟骨瘤)]] - 骨髓腔內良性軟骨腫瘤，常見於手骨，可合併病理性骨折；多發需注意惡性轉化。
 - [[conditions/end-stage-kidney-disease|End-stage kidney disease, ESKD (末期腎臟病)]] - 腎功能進入需 renal replacement therapy 或保守照護評估的階段。
 - [[conditions/enterococcus-infection|Enterococcus infection (腸球菌感染)]] - 常見膽道、泌尿道、院內與心內膜感染病原，抗藥性治療需特別注意。
 - [[conditions/enteropathic-arthritis|Enteropathic arthritis (腸病性關節炎)]] - IBD 相關周邊或中軸關節炎。
 - [[conditions/enterovirus-infection|Enterovirus infection (腸病毒感染)]] - 兒童常見病毒感染，可造成手足口病、疱疹性咽峽炎、腦膜炎或心肌炎。
 - [[conditions/ependymoma|Ependymoma (室管膜瘤)]] - 源自 ependymal cells，可位於腦室或脊髓中央管附近。
+- [[conditions/epicondylitis|Epicondylitis (肱骨上髁炎)]] - 伸腕或屈腕肌腱附著處 overuse tendinopathy，分 lateral epicondylitis 與 medial epicondylitis。
 - [[conditions/epidermoid-cyst|Epidermoid cyst/tumor (表皮樣囊腫)]] - 先天性 inclusion cyst，常位於 cerebellopontine angle，影像與症狀可似腫瘤。
 - [[conditions/epidural-hematoma|Epidural hematoma, EDH (硬腦膜上血腫)]] - 顱骨與 dura 間出血，常與 middle meningeal artery 損傷和 lucid interval 相關。
 - [[conditions/epiglottitis|Epiglottitis (會厭炎)]] - 上呼吸道急症，可快速造成氣道阻塞；Hib 疫苗後盛行率下降。
@@ -274,14 +293,18 @@ Diseases and syndromes.
 - [[conditions/essential-thrombocythemia|Essential thrombocythemia, ET (原發性血小板增多症)]] - 血小板為主的 MPN，可有血栓或出血風險。
 - [[conditions/essential-tremor|Essential tremor (原發性顫抖症)]] - 常見動作性或姿勢性顫抖，常影響手部與頭部，與 Parkinson resting tremor 需鑑別。
 - [[conditions/ewing-sarcoma|Ewing sarcoma (尤文氏肉瘤)]] - 兒童/青少年小圓藍細胞骨或軟組織腫瘤，常與 EWSR1 translocation 相關。
+- [[conditions/extensor-tendon-injury-hand|Extensor tendon injury of hand (手部伸肌肌腱損傷)]] - 手部伸肌腱損傷可依 zone 造成 mallet finger、boutonniere deformity 或伸指障礙，治療依位置與斷裂程度。
 - [[conditions/extrapyramidal-symptoms|Extrapyramidal symptoms, EPS (錐體外症狀)]] - 多巴胺阻斷相關動作副作用，包含急性肌張力不全、靜坐不能、類巴金森症與遲發性不自主運動。
 - [[conditions/familial-adenomatous-polyposis|Familial adenomatous polyposis, FAP (家族性腺瘤性息肉症)]] - APC mutation 造成大量腺瘤性息肉與高度 colorectal cancer 風險，需基因與內視鏡篩檢及預防性手術規劃。
 - [[conditions/febrile-neutropenia|Febrile neutropenia (嗜中性球低下發燒)]] - 化療後嗜中性球低下合併發燒是感染急症，需快速經驗性抗生素。
 - [[conditions/febrile-seizure|Febrile seizure (熱痙攣)]] - 發燒相關兒童癲癇發作，需區分 simple 與 complex 並排除 CNS infection。
 - [[conditions/felty-syndrome|Felty syndrome (Felty 氏症候群)]] - RA 合併 neutropenia 與 splenomegaly，感染風險增加。
+- [[conditions/femoral-neck-fracture|Femoral neck fracture (股骨頸骨折)]] - 老年人跌倒常見，需區分 intracapsular fracture 與位移程度，併發症包含 avascular necrosis 與 nonunion。
+- [[conditions/femoral-shaft-fracture|Femoral shaft fracture (股骨幹骨折)]] - 高能量創傷常見，失血量可大，治療多為 intramedullary nailing，需注意脂肪栓塞、nonunion 與 malunion。
 - [[conditions/fever-of-unknown-origin|Fever of unknown origin, FUO (不明熱)]] - 持續發燒但初步評估未能定位病因，兒童需分層考慮感染、發炎、腫瘤與藥物。
 - [[conditions/fibroadenoma|Fibroadenoma (纖維腺瘤)]] - 常見年輕女性良性乳房腫塊，通常界線清楚、可移動，需依影像與變化決定追蹤或切除。
 - [[conditions/fibrocystic-change|Fibrocystic change (纖維囊性變化)]] - 常見良性乳房變化，可有週期性疼痛、結節或囊腫，需與惡性徵象鑑別。
+- [[conditions/fibrous-dysplasia|Fibrous dysplasia (纖維性發育不良)]] - 骨發育異常使 lamellar bone 被纖維骨組織取代，影像可見 ground-glass appearance，近端股骨可有 shepherd's crook deformity。
 - [[conditions/fixed-drug-eruption|Fixed drug eruption (固定性藥物疹)]] - 藥物再暴露時在相同部位復發的界線清楚紅斑或水泡，癒後可留色素沉著。
 - [[conditions/flail-chest|Flail chest (連枷胸)]] - 多根相鄰肋骨多處骨折造成胸壁游離段與 paradoxical movement，可合併 pulmonary contusion 與呼吸衰竭。
 - [[conditions/focal-nodular-hyperplasia|Focal nodular hyperplasia, FNH (局部結節性增生)]] - 良性肝細胞增生病灶，常見於年輕女性，影像可見 central scar。
@@ -313,6 +336,7 @@ Diseases and syndromes.
 - [[conditions/generalized-tonic-clonic-seizure|Generalized tonic-clonic seizure, GTCS (全身強直陣攣發作)]] - 雙側皮質網路造成意識喪失、強直期與陣攣期，發作後常有 postictal confusion。
 - [[conditions/gestational-diabetes|Gestational diabetes mellitus (妊娠糖尿病)]] - 懷孕期間診斷的糖代謝異常，影響母胎風險與後續糖尿病風險。
 - [[conditions/giant-cell-arteritis|Giant cell arteritis / temporal arteritis, GCA (巨細胞動脈炎／顳動脈炎)]] - 老年人新發頭痛、顳動脈與大血管炎，需注意視力喪失、下顎跛行與 polymyalgia rheumatica 關聯。
+- [[conditions/giant-cell-tumor-bone|Giant cell tumor of bone (骨巨細胞瘤)]] - 好發骨骺閉合後 epiphysis/metaphysis，影像可呈 soap-bubble lytic lesion，局部侵襲且可復發。
 - [[conditions/gitelman-syndrome|Gitelman syndrome (Gitelman 氏症候群)]] - 遠曲小管 NCC 缺陷造成低血鉀代謝性鹼中毒、低鎂與低尿鈣。
 - [[conditions/glioblastoma|Glioblastoma, GBM (膠質母細胞瘤)]] - WHO grade 4 diffuse glioma，侵襲性高，影像常有 ring enhancement 與 necrosis。
 - [[conditions/glioma|Glioma (神經膠質瘤)]] - 源自 glial cells 的 CNS 腫瘤群，包含 astrocytoma、oligodendroglioma、glioblastoma 等。
@@ -413,6 +437,7 @@ Diseases and syndromes.
 - [[conditions/intellectual-disability|Intellectual disability (智能不足／智能障礙)]] - 智力與適應功能在發展期即低於預期，嚴重度以日常支持需求與適應功能評估。
 - [[conditions/interstitial-cystitis|Interstitial cystitis / bladder pain syndrome (間質性膀胱炎)]] - 慢性膀胱疼痛、頻尿與急尿症候群，尿檢通常無感染，膀胱鏡可見 glomerulation 或 Hunner lesion。
 - [[conditions/interstitial-lung-disease|Interstitial lung disease (間質性肺疾病)]] - 限制型通氣障礙與擴散能力下降相關的肺間質疾病群。
+- [[conditions/intertrochanteric-fracture|Intertrochanteric fracture (股骨轉子間骨折)]] - 股骨近端 extracapsular fracture，老年骨鬆患者常見，多需內固定並早期活動。
 - [[conditions/intestinal-atresia|Intestinal atresia (腸道閉鎖)]] - 先天腸道管腔中斷造成新生兒腸阻塞，表現依閉鎖位置有膽汁性嘔吐、腹脹與胎便排出異常。
 - [[conditions/intestinal-malrotation|Intestinal malrotation (腸旋轉不良)]] - 中腸旋轉固定異常，可造成 volvulus 與膽汁性嘔吐急症。
 - [[conditions/intracerebral-hemorrhage|Intracerebral hemorrhage, ICH (腦出血)]] - 腦實質出血，常與高血壓、amyloid angiopathy、AVM、抗凝或腫瘤相關。
@@ -436,11 +461,13 @@ Diseases and syndromes.
 - [[conditions/ketamine-use-disorder|Ketamine-related disorder (K 他命相關疾患)]] - ketamine 使用可造成解離、認知影響、泌尿道症狀與成癮相關問題。
 - [[conditions/ketoacidosis|Ketoacidosis (酮酸中毒)]] - 脂肪分解產生 ketone body，可見於糖尿病、酒精或飢餓狀態。
 - [[conditions/kidney-transplant-rejection|Kidney transplant rejection (腎臟移植排斥)]] - 移植腎可能發生超急性、急性或慢性排斥，需依時間與病理判斷。
+- [[conditions/kienbock-disease|Kienböck disease (月狀骨缺血性壞死)]] - 月狀骨血流不足造成手腕疼痛與塌陷，與 ulnar negative variance 等因素相關。
 - [[conditions/lactic-acidosis|Lactic acidosis (乳酸中毒)]] - 組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。
 - [[conditions/lacunar-infarction|Lacunar infarction (腔隙性腦梗塞)]] - 小穿通動脈閉塞造成深部小梗塞，常與高血壓、糖尿病相關。
 - [[conditions/lambert-eaton-myasthenic-syndrome|Lambert-Eaton myasthenic syndrome, LEMS (Lambert-Eaton 肌無力症候群)]] - presynaptic voltage-gated calcium channel antibody 疾病，常與 small-cell lung cancer 相關，重複收縮後力量改善。
 - [[conditions/large-vessel-vasculitis|Large-vessel vasculitis (大血管炎)]] - 主要侵犯主動脈及其分支的血管炎類群。
 - [[conditions/latent-tuberculosis-infection|Latent tuberculosis infection (潛伏結核感染)]] - 感染但無活動病灶，需依風險決定預防治療。
+- [[conditions/legg-calve-perthes-disease|Legg-Calve-Perthes disease (小兒股骨頭缺血性壞死)]] - 兒童股骨頭暫時性血流不足造成壞死與重塑，常見於男童，治療目標是保持 femoral head containment。
 - [[conditions/legionnaires-disease|Legionnaires disease (退伍軍人病)]] - Legionella pneumophila 造成 atypical pneumonia，常與水源暴露相關。
 - [[conditions/leptospirosis|Leptospirosis (鉤端螺旋體病)]] - 動物尿液或水土暴露相關 spirochete infection，可侵犯肝腎。
 - [[conditions/leukocytoclastic-vasculitis|Leukocytoclastic vasculitis (白血球碎裂性血管炎)]] - 小血管免疫複合物血管炎，皮膚常見 palpable purpura。
@@ -488,6 +515,7 @@ Diseases and syndromes.
 - [[conditions/men1-syndrome|MEN1 syndrome (第一型多發性內分泌腫瘤)]] - MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。
 - [[conditions/men2-syndrome|MEN2 syndrome (第二型多發性內分泌腫瘤)]] - MEN2 與 RET mutation、medullary thyroid carcinoma、pheochromocytoma 及 hyperparathyroidism 相關。
 - [[conditions/meningioma|Meningioma (腦膜瘤)]] - 源自 arachnoid cap cells 的常見成人顱內腫瘤，多數良性且可有 dural tail。
+- [[conditions/meniscus-tear|Meniscus tear (半月板破裂)]] - 半月板破裂常有關節線疼痛、locking、crepitus；MRI 與 arthroscopy 可診斷，治療依 tear pattern 與 vascular zone。
 - [[conditions/mesothelioma|Mesothelioma (惡性間皮瘤)]] - 肋膜間皮惡性腫瘤，常與 asbestos exposure 相關，可能以胸痛、肋膜積液與肋膜增厚表現。
 - [[conditions/metabolic-acidosis|Metabolic acidosis (代謝性酸中毒)]] - HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因。
 - [[conditions/metabolic-alkalosis|Metabolic alkalosis (代謝性鹼中毒)]] - HCO3 上升造成鹼血症，常與體液不足、利尿劑、嘔吐或 mineralocorticoid excess 相關。
@@ -547,12 +575,17 @@ Diseases and syndromes.
 - [[conditions/obstructive-sleep-apnea|Obstructive sleep apnea (阻塞性睡眠呼吸中止症)]] - 睡眠中上呼吸道反覆阻塞造成缺氧與日間嗜睡。
 - [[conditions/oligodendroglioma|Oligodendroglioma (寡樹突神經膠瘤)]] - 常具 IDH mutation 與 1p/19q codeletion，影像可見鈣化。
 - [[conditions/omphalocele|Omphalocele (臍膨出)]] - 腹壁缺損且腸管由膜囊包覆，常合併染色體或其他先天異常。
+- [[conditions/open-fracture|Open fracture (開放性骨折)]] - 骨折與外界傷口相通，屬骨科急症，處理核心是清洗清創、抗生素、固定與軟組織覆蓋。
 - [[conditions/open-pneumothorax|Open pneumothorax (開放性氣胸)]] - 胸壁開放傷使空氣經傷口進出肋膜腔，急救需封閉傷口並安排胸管與 definitive repair。
 - [[conditions/opioid-intoxication|Opioid intoxication (鴉片類中毒)]] - opioid 過量典型為意識下降、呼吸抑制與針尖瞳孔，屬高風險急症。
 - [[conditions/opioid-withdrawal|Opioid withdrawal (鴉片類戒斷)]] - opioid 停用後出現流淚流鼻水、雞皮疙瘩、腹瀉、肌痛、焦躁與失眠。
 - [[conditions/orthostatic-hypotension|Orthostatic hypotension (姿勢性低血壓)]] - 姿勢改變後血壓下降造成頭暈或暈厥。
 - [[conditions/osmotic-demyelination-syndrome|Osmotic demyelination syndrome (滲透性去髓鞘症候群)]] - 慢性低血鈉矯正過快可能造成橋腦或橋腦外去髓鞘。
 - [[conditions/osteoarthritis|Osteoarthritis, OA (退化性關節炎)]] - 軟骨退化與骨贅形成造成機械性關節痛，常侵犯 DIP、PIP、膝、髖等。
+- [[conditions/osteoblastoma|Osteoblastoma (骨母細胞瘤)]] - 較具侵犯性的良性骨腫瘤，常見於脊椎 posterior elements，nidus 較 osteoid osteoma 大，可能壓迫神經。
+- [[conditions/osteochondroma|Osteochondroma (骨軟骨瘤)]] - 最常見良性骨腫瘤，長於 metaphysis 表面並與骨髓腔連通；多發型有較高惡性轉化風險。
+- [[conditions/osteoid-osteoma|Osteoid osteoma (骨樣骨瘤)]] - 良性骨性腫瘤，常見於年輕人長骨骨幹，典型夜痛且對 NSAID 反應佳，影像見小 nidus 與 reactive sclerosis。
+- [[conditions/osteonecrosis-femoral-head|Osteonecrosis of femoral head, ONFH (股骨頭缺血性壞死)]] - 股骨頭血流受損造成壞死塌陷，風險包含 steroid、alcohol、trauma、SLE 與 sickle cell disease。
 - [[conditions/osteoporosis|Osteoporosis (骨質疏鬆症)]] - 骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。
 - [[conditions/osteosarcoma|Osteosarcoma (骨肉瘤)]] - 青少年常見骨惡性腫瘤，好發長骨 metaphysis，可有疼痛與腫塊。
 - [[conditions/overactive-bladder|Overactive bladder (膀胱過動症)]] - 以尿急、頻尿、夜尿可合併急迫性尿失禁為核心，治療包含行為、antimuscarinic、beta-3 agonist 與 botulinum toxin。
@@ -580,6 +613,7 @@ Diseases and syndromes.
 - [[conditions/pediatric-brain-tumor|Pediatric brain tumor (兒童腦瘤)]] - 兒童常見實體腫瘤之一，表現依腫瘤位置與顱內壓變化。
 - [[conditions/pediatric-dehydration|Pediatric dehydration (兒童脫水)]] - 兒童腸胃炎常見併發症，需依臨床徵象估計程度並選擇口服或靜脈補液。
 - [[conditions/pediatric-hematuria|Pediatric hematuria (兒童血尿)]] - 兒童血尿需區分腎絲球性、非腎絲球性、感染、結石與遺傳性腎病。
+- [[conditions/pelvic-fracture|Pelvic fracture (骨盆骨折)]] - 高能量骨盆環損傷可造成大量出血、泌尿道損傷與 hemodynamic instability，需骨盆固定與止血策略。
 - [[conditions/pemphigus-vulgaris|Pemphigus vulgaris (尋常性天疱瘡)]] - 抗 desmoglein 自體抗體造成表皮內棘融解與鬆弛水泡，常侵犯黏膜。
 - [[conditions/peptic-ulcer-disease|Peptic ulcer disease (消化性潰瘍)]] - 胃或十二指腸黏膜潰瘍，常與 H. pylori、NSAID 或酸分泌相關。
 - [[conditions/perforated-peptic-ulcer|Perforated peptic ulcer (消化性潰瘍穿孔)]] - 消化性潰瘍穿孔可造成急性腹膜炎與 pneumoperitoneum，需要復甦、抗生素與手術或內視鏡策略評估。
@@ -616,6 +650,7 @@ Diseases and syndromes.
 - [[conditions/port-wine-stain|Port-wine stain (葡萄酒斑)]] - 先天 capillary malformation，可與 Sturge-Weber syndrome 相關。
 - [[conditions/portal-hypertension|Portal hypertension (門脈高壓)]] - 門脈壓上升可造成靜脈曲張、脾腫大、腹水與側枝循環。
 - [[conditions/post-streptococcal-glomerulonephritis|Post-streptococcal glomerulonephritis, PSGN (鏈球菌感染後腎絲球腎炎)]] - A 群鏈球菌感染後免疫複合物腎炎，常見血尿、水腫、高血壓與 C3 暫時下降。
+- [[conditions/posterior-cruciate-ligament-injury|Posterior cruciate ligament injury, PCL injury (後十字韌帶傷害)]] - PCL injury 常由 dashboard injury 或 hyperextension 造成，posterior drawer test 與 posterior sagging 有助診斷。
 - [[conditions/postoperative-ileus|Postoperative ileus (術後腸麻痺)]] - 手術後腸蠕動暫時下降，需與 mechanical obstruction、感染、電解質異常鑑別。
 - [[conditions/posttraumatic-stress-disorder|Posttraumatic stress disorder, PTSD (創傷後壓力症候群)]] - 創傷暴露後出現侵入、逃避、負向認知情緒與警覺性升高等症狀群。
 - [[conditions/precocious-puberty|Precocious puberty (性早熟)]] - 青春期第二性徵過早出現，需區分 central、peripheral 與正常變異。
@@ -667,11 +702,13 @@ Diseases and syndromes.
 - [[conditions/rickettsial-disease|Rickettsial disease (立克次體疾病)]] - 節肢動物媒介或人畜共通感染，常以發燒、皮疹或 eschar 呈現。
 - [[conditions/right-ventricular-infarction|Right ventricular infarction (右心室梗塞)]] - 常合併下壁梗塞；治療上需避免過度降低 preload。
 - [[conditions/roseola-infantum|Roseola infantum (嬰兒玫瑰疹)]] - HHV-6/7 造成高燒退後出疹，是嬰幼兒常見病毒疹。
+- [[conditions/rotator-cuff-injury|Rotator cuff injury (旋轉肌群損傷)]] - 常侵犯 supraspinatus，造成肩痛、夜痛與外展無力，診斷依理學檢查、超音波或 MRI。
 - [[conditions/rubella|Rubella (德國麻疹)]] - 通常較輕微，但孕期感染可造成 congenital rubella syndrome。
 - [[conditions/salmonellosis|Salmonellosis (沙門氏菌感染)]] - Salmonella 可造成腸胃炎、菌血症或傷寒樣疾病。
 - [[conditions/sarcoidosis|Sarcoidosis (類肉瘤病)]] - 非乾酪性肉芽腫疾病，可侵犯肺與多器官。
 - [[conditions/sarcoma|Sarcoma (肉瘤)]] - 間葉組織惡性腫瘤，治療常需手術、放療與特定化療整合。
 - [[conditions/scabies|Scabies (疥瘡)]] - Sarcoptes scabiei 寄生造成夜間劇癢與 burrows，常需同住接觸者一起治療。
+- [[conditions/scaphoid-fracture|Scaphoid fracture (舟狀骨骨折)]] - 跌倒手撐地後鼻煙窩壓痛需懷疑，近端血供差，延誤可導致 nonunion 與 avascular necrosis。
 - [[conditions/scarlet-fever|Scarlet fever (猩紅熱)]] - A 群鏈球菌毒素造成發燒、咽炎、砂紙樣皮疹與草莓舌。
 - [[conditions/schizoaffective-disorder|Schizoaffective disorder (情感性思覺失調症)]] - 同時具有 psychotic symptoms 與 mood episode，且需有一段無情緒症狀的精神病症狀期。
 - [[conditions/schizophrenia|Schizophrenia (思覺失調症)]] - 慢性 psychotic disorder，核心包含妄想、幻覺、語言或行為混亂、負性症狀與功能退化。
@@ -688,11 +725,14 @@ Diseases and syndromes.
 - [[conditions/shigellosis|Shigellosis (志賀氏菌感染)]] - Shigella 造成發炎性腹瀉與痢疾，具低感染劑量。
 - [[conditions/shock|Shock (休克)]] - 循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。
 - [[conditions/short-stature|Short stature (身材矮小)]] - 身高低於同年齡族群預期，需用生長速度、骨齡與家族/內分泌/慢性病因評估。
+- [[conditions/shoulder-dislocation|Shoulder dislocation (肩關節脫位)]] - 肩關節最常見前脫位，需評估 axillary nerve、Bankart lesion 與 Hill-Sachs lesion，治療為復位與復健/穩定手術。
 - [[conditions/siadh|SIADH (抗利尿激素分泌不當症候群)]] - ADH 過多造成低鈉血症與濃縮尿。
 - [[conditions/sickle-cell-disease|Sickle cell disease (鐮刀型貧血)]] - HbS 聚合造成溶血、血管阻塞危象、感染與器官損傷。
+- [[conditions/simple-bone-cyst|Simple bone cyst / unicameral bone cyst (單腔骨囊腫)]] - 兒童長骨 metaphysis 良性囊性病灶，常因病理性骨折發現，影像可有 fallen fragment sign。
 - [[conditions/sjogren-syndrome|Sjogren syndrome (修格蘭氏症候群)]] - 外分泌腺自體免疫疾病，造成乾眼、乾口並可合併系統性表現。
 - [[conditions/skull-fracture|Skull fracture (顱骨骨折)]] - 顱骨骨折可提示高能量外傷，需注意 CSF leak、血管損傷與顱內出血。
 - [[conditions/sleep-disorders|Sleep disorders (睡眠疾患)]] - 睡眠量、品質、時序或睡眠中行為異常的疾病群，需區分精神、藥物與身體病因。
+- [[conditions/slipped-capital-femoral-epiphysis|Slipped capital femoral epiphysis, SCFE (股骨頭骨骺滑脫)]] - 青少年近端股骨骨骺經生長板滑脫，常見於肥胖男孩或內分泌異常，表現為髖/膝痛與外旋步態。
 - [[conditions/small-bowel-adenocarcinoma|Small bowel adenocarcinoma (小腸腺癌)]] - 小腸惡性腫瘤之一，與 Crohn disease、celiac disease、FAP 等風險相關。
 - [[conditions/small-bowel-obstruction|Small bowel obstruction (小腸阻塞)]] - 小腸機械性阻塞常因術後沾黏、疝氣、腫瘤或腸扭結造成，需評估絞扼與缺血風險。
 - [[conditions/small-bowel-tumor|Small bowel tumor (小腸腫瘤)]] - 小腸腫瘤可為良性或惡性，症狀常不特異，可造成出血、阻塞、穿孔或腸套疊。
@@ -731,6 +771,7 @@ Diseases and syndromes.
 - [[conditions/substance-use-disorder|Substance use disorder (物質使用疾患)]] - 以失控使用、耐受、戒斷、渴求與角色功能受損等模式定義的成癮疾病群。
 - [[conditions/suicidal-behavior|Suicidal behavior (自殺行為)]] - 包含自殺意念、計畫、企圖與完成自殺，需評估危險因子、保護因子與急迫性。
 - [[conditions/superior-vena-cava-syndrome|Superior vena cava syndrome, SVCS (上腔靜脈症候群)]] - 腫瘤或血栓壓迫/阻塞 SVC 造成臉頸上肢腫脹與靜脈怒張。
+- [[conditions/supracondylar-humerus-fracture|Supracondylar humerus fracture (肱骨上髁骨折)]] - 兒童肘部常見骨折，需評估 brachial artery、median/AIN injury 與 compartment syndrome。
 - [[conditions/supraventricular-tachycardia|Supraventricular tachycardia (上心室頻脈)]] - 窄 QRS 規則性頻脈常與再迴路相關。
 - [[conditions/surgical-site-infection|Surgical site infection, SSI (手術部位感染)]] - 手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。
 - [[conditions/syncope|Syncope (暈厥)]] - 短暫意識喪失需分辨反射性、姿勢性、心因性與神經原因。
@@ -756,6 +797,7 @@ Diseases and syndromes.
 - [[conditions/thyroid-cancer|Thyroid cancer (甲狀腺癌)]] - 甲狀腺惡性腫瘤依病理型態預後與治療不同。
 - [[conditions/thyroid-nodule|Thyroid nodule (甲狀腺結節)]] - 甲狀腺結節需以 TSH、ultrasound risk features、FNA 與核醫掃描判斷惡性風險與手術需求。
 - [[conditions/thyroid-storm|Thyroid storm (甲狀腺風暴)]] - 嚴重 thyrotoxicosis 急症，需快速支持與抑制甲狀腺素作用/合成/釋放。
+- [[conditions/tibial-fibular-fracture|Tibial-fibular fracture (脛腓骨骨折／小腿骨折)]] - 脛腓骨骨折須評估開放傷、血管神經狀態與 compartment syndrome，治療依位置、穩定度與軟組織狀況。
 - [[conditions/tic-disorder|Tic disorder (抽動疾患)]] - 突然、快速、反覆、非節律性的動作或聲語 tic；需依型態與持續時間分類。
 - [[conditions/torch-infections|TORCH infections (TORCH 先天性感染)]] - Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。
 - [[conditions/torsades-de-pointes|Torsades de pointes (多型性心室頻脈)]] - QT 延長相關多型性 VT。
@@ -773,6 +815,7 @@ Diseases and syndromes.
 - [[conditions/transposition-of-great-arteries|Transposition of the great arteries, TGA (大動脈轉位)]] - 主動脈與肺動脈連接錯位形成平行循環，需靠 ASD/VSD/PDA 混合血流維持生命。
 - [[conditions/tricuspid-atresia|Tricuspid atresia (三尖瓣閉鎖)]] - 三尖瓣缺如使全身靜脈血需經 ASD/PFO 分流至左心，常走向單心室循環。
 - [[conditions/trigeminal-neuralgia|Trigeminal neuralgia (三叉神經痛)]] - 三叉神經分布短暫劇烈電擊樣疼痛，常由血管壓迫或 demyelination 相關。
+- [[conditions/trigger-finger|Trigger finger (板機指)]] - 屈指肌腱於 A1 pulley 狹窄卡住，造成手指彈響、卡鎖或伸直困難。
 - [[conditions/trisomy-18|Trisomy 18 / Edwards syndrome (愛德華氏症)]] - 第 18 對染色體三體症，常有生長遲滯、手指重疊、心臟缺陷與高死亡率。
 - [[conditions/tuberculosis|Tuberculosis (結核病)]] - 分枝桿菌感染，可為肺結核或肺外結核。
 - [[conditions/tuberous-sclerosis-complex|Tuberous sclerosis complex, TSC (結節性硬化症)]] - mTOR pathway 疾病，造成皮膚、腦、腎、心等多器官 hamartoma。

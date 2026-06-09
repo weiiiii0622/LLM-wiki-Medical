@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book2-ch24]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Hyperparathyroidism (副甲狀腺亢進)'
   - 'Hyperparathyroidism'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,13 @@ PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book2-ch24]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- b. 促成骨 (bone-forming medication): 副甲狀腺素 (PTH),可以使 osteoblast 活性上升,增加骨質密度,但此類藥品要間斷使用 (intermittent use),如持續使用 (continuous use) 反而會有蝕骨作用。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (C) 世界衛生組織定義 T-score ↓ | ↑ | | | Phosphate | _ | _ | ↓ | ↑ | _ | | ALP | | _ | | ↑ | | | PTH | _ | _ | ↑ | ↑ | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- | | 原發性 | 次級 | 三級 | |-----------|-------------------------------|-------------------------------------------|--------------------------------------| | 說明 | 副甲狀腺不正常增生。(80% 是 adenoma) | 外在因素造成副甲狀腺機能亢進 (ex: CKD,Vit D 缺乏) | 長期低血鈣導致副甲狀腺異常增生,PTH 刺激造成高血鈣。 | | Ca++ | 1 | ↓ | ↑ | | Phosphate | ↓ | 1 | ↑ | | PTH | 1 | ↑ | 1 | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - B. 副甲狀腺機能亢進(Hyperparathyroidism, HPT) 220 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - 3. 主細胞(chief cell):較多且小,製造副甲狀腺素(PTH)。嗜酸細胞(oxyphil cell):較少、較大,功能未知。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
@@ -62,9 +67,6 @@ PTH 過多造成高血鈣、骨病變、腎結石或神經腸胃症狀。 本頁
 - 1. 病因: - (1) PTH deficiency: 如 **DiGeorge syndrome**、Velocardiofacial syndrome、Conotruncal-face syndrome。 - (2) PTH receptor defects: 即 pseudohypoparathyroidism。 - (3) 粒線體 DNA 突變:如 Kearns-Sayre syndrome 或 Pearson marrow pancreas syndrome。 - (4) 外源性磷酸根:如瀉藥或含磷酸根的碳酸飲料。 - (5) Vitamin D 缺乏。 - (6) 鎂離子缺乏。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 3. Pseudohypoparathyroidism: PTH 分泌正常但 PTH receptor (bone、kidney) 發生缺陷造成 PTH 抗性。病人有矮胖、圓臉、皮下鈣化、第四指骨短、智能不足,特稱為 Albright's hereditary osteodystrophy (AHO)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 2. 危險因子: (Harrison table 327-2) - (1) 年紀大、 - (2) 副甲狀腺亢進、低鎂、低磷、鐵沉積, - (3) 慢性痛風、半月板切除過(Post-meniscectomy)等。 Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- | Low PTH Levels | Parathyroid agenesis | Isolated | |-------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- | 疾病 | PTH | 血磷 | | |---------------|------------|-----|--------------------------------------------| | 副甲狀腺機能亢進(最常見) | ↑ ↑ | ↓ | 80% 腺瘤 (Adenoma);增生 (Hyperplasia) 要考慮有 MEN | | 惡性腫瘤(第二常見) | 1 | 不一定 | 腫瘤轉移直接侵犯骨或分泌 PTH-rP (鱗狀細胞癌) | | 維他命 D 過多 | ↓ | 1 | 肉芽腫病變 (結核或類肉瘤病) | | 藥物 | 不一定 | 不一定 | 以 Thiazide 類利尿劑 ** 最常見、鋰鹽 | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- | Excessive PTH | Primary hyperparathyroidism (adenoma, hyperplasia, rarely carcinoma) | | | |---------------------|----------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 
 ## Clinical Caveats
 

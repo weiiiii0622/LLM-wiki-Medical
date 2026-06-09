@@ -31,6 +31,7 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Systemic lupus erythematosus, SLE (全身性紅斑狼瘡)'
   - 'Systemic lupus erythematosus, SLE'
@@ -45,7 +46,7 @@ tags:
 
 ## Summary
 
-多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +77,11 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- c. 自體免疫性疾病(如:RA、SLE)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (11) 膠原纖維疾病 (Collagen diseases): 硬皮症 (Scleroderma)、風濕免疫 (rheumatoid disease)、紅斑性狼瘡 (systemic lupus erythematosus)、皮肌炎 (dermatomyositis)、 韋格納肉芽腫 (Wegener granulomatosis)、古帕斯捷氏綜合徵 (Goodpasture syndrome)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...astic anemia)、庫欣氏症(Cushing's syndrome)、高低加馬球蛋白血症(hypogammaglobulinemia and hypergammaglobulinemia)、皮肌炎(dermatomyositis)、紅斑性狼瘡(systemic lupus erythematosus)、硬皮症(progressive systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但症狀通常不會隨著胸腺瘤治療成功而改善。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - ...是否存活。 (C) 27. 在冠狀動脈繞道手術時,若同時使用兩側帶莖的內乳動脈(pedicle 99(二)專 internal thoracic artery),則在下列何種病人易引起胸部傷口之 醫五-15 感染? (A) 肥胖症 (B) 紅斑性狼瘡症 (C)糖尿病 (D)慢性腎衰竭 (A) 28. 冠狀動脈繞道手術時,所使用的導管(conduit)有許多種,長期 98(-)專 追蹤後,通暢率最佳的是: 醫五-47 (A) 內乳動脈 (B) 大隱靜脈 (C) 橈骨動脈 (radial artery) Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
@@ -96,7 +99,6 @@ tags:
 - (B) 盤狀紅斑性狼瘡(discoid lupus erythematosus) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - 【詳解】此題於 101 年也考過,從左圖外觀來判斷,脂漏性角化症病灶像黑色蠟塊,盤狀紅斑性狼瘡為邊界明顯的紅色斑塊伴有厚屑,剩日光性角化症和基底細胞癌為可能診斷。右圖可見 atypical keratinocytes,局限於表皮層下 1/3,非全層 atypia(如 Bowen's disease),故推判為 (A) 光化性角化病(actinic keratosis)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 1. Systemic lupus erythematosus nephritis\* Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

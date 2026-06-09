@@ -32,6 +32,7 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Immunosuppressants (免疫抑制劑)'
   - 'Immunosuppressants'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- a. multiple-agent chemotherapy and limb salvage resection: 標 準 治 療(VCD, vincristine + cyclophosphamide + doxorubicin),術前使用 chemotherapy,減 少腫瘤體積,在進行切除手術,如果已有轉移或太大的腫瘤或位置不能切除 (脊椎或骨盆),可以配合使用 radiation therapy。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...):免疫製劑的基礎,從多方面影響免疫系統,減緩淋巴結和骨髓的淋巴細胞反應。副作用包括高血壓、高血脂、高血糖、體重增加、骨質疏鬆、傷口癒合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 生:生毛、生(昇)血壓及生牙齦)。副作用有腎毒性(故術後 4 個月換 mTORi 治療)。Tacrolimus 目前比 Cyclosporine 常用因為效果較好(可減少 steroid劑量)、且臨床 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (a) 腎移植術後的基礎用法: - i. 引導(induction agent):術前,使用化學免疫藥物或抗體。何種受腎者需要建議用抗體引導?曾經有過①懷孕,②輸血,③移植。 - ii. 維持(maintenance therapy):術後,使用小分子化學免疫藥物。最常用的初始用藥組合是 tacrolimus—MMF-steroids。 - iii. 類固醇減量(steroid elimination):手術完後,一週內逐漸減量。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (b) 糖尿病:因為藥物會使胰島素製造不足及週邊組織胰島素抗性增加,例 如 CNI 藥物(而其中 tacrolimus 比 cyclosporine 容易導致術後糖尿病。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -98,7 +101,6 @@ tags:
 - (B) 病情嚴重難以控制的病人,可考慮使用口服環孢靈素 (cyclosporine) 治療 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - a. Azathioprine:除了少數人出現噁心、嘔吐、肝功能異常、血球低下之外,副作用不嚴重,但是療效緩慢,可能要等二至三週,故用來做為類固醇的輔助治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - c. Cyclophosphamide:這也是一種免疫抑制劑,原本是用來做為癌症的化學治療之用,後來也常用來做為自體免疫疾病的輔助治療或脈衝治療。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- d. Mycophenolate mofetil (CellCept):這是近幾年來較受矚目的藥物之一,甚至在美國有些專治免疫水泡疾病的醫學中心,已經把此藥的地位設定在類固醇之後的首選第二線治療藥物。一般服用劑量是每天 2~3 g。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 
 ## Clinical Caveats
 

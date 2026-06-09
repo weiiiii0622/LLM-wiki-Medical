@@ -22,6 +22,9 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book4-ch15]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Brainstem (腦幹)'
   - 'Brainstem'
@@ -36,7 +39,7 @@ tags:
 
 ## Summary
 
-中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +61,20 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book4-ch15]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- (1) Intramedullary (IM) nailing:單純股骨幹骨折的標準治療。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (D) 此病例可採用更換較大的骨髓內釘(intramedullary nail)及骨移植(bone grafting)進行治療 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (C) 鎖定式骨髓內釘固定 (intramedullary interlocking nail) Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (2) 影像:X光: central lytic lesion in medullary canal,可能會出現如「毛玻璃狀」(ground-glass appearance)的表現(一團白色); punched-out lesion,但是邊界明顯;周圍骨皮質變薄、擴張(Cortex is thin and expanded);近端股骨會逐漸變形,形狀如牧羊人的枴杖(shepherd's crook deformity)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 4. 骨肉瘤 (Osteosarcoma, osteogenic sarcoma, OGS): - (1) 簡介:最常見的原發骨惡性肉瘤(最常見的原發性惡性骨腫瘤為 myeloma),其中又以 intramedullary OGS 最常見,容易轉移肺部。 - a. Primary: 十幾二十歲的小孩子和年輕人(2nd decade), 男多於女, 常會被誤 判為運動傷害而延誤治療。 - b. Secondary: 五、六十歲的中老年人(6th decade),容易出現在照過放射線或本來有 primary malignant bone tumor 的病人身上(如: Paget's disease)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 1. 軟骨瘤 (Chondroma): - (1) 簡介: - a. 分化良好的良性軟骨長骨的表面,好發於 20~50 歲的青壯年。 - b. 生長部位如果在骨頭中央(intramedullary cavity),則稱為 enchondroma,最常見於手骨頭(超過一半的比例)及近端股骨。 - (2) 症狀:無症狀。但若有骨折或惡性化時,則會產生疼痛。 - (3) 影像: - a. X-ray: 長得慢,所以沒有 reactive bone,大多為 expansion 造成 shallow cortical defect (骨節膨大, cortex 變薄,看起來透光度較高)。 - b. 如果出現 cortical bone Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (1) 治療轉子間骨折的基本原則是手術內固定合併復位(Sliding hip screwimplant):穩定型以滑動式髖關節螺絲釘(sliding hip screw,常用的為 dynamic hip screw (DHS))為內固定器的首選,不穩定型以 intramedullary hip screw (髖骨髓內釘)為內固定的首選。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- (intramedullary hip screw) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - ...的敘述,何者錯誤? 醫五-47 - (A) 神經母細胞瘤源自於神經 細胞 (neural crest cells),是交感神經系統的惡性腫瘤 - (B) 大約有 65% 的神經母細胞瘤是發生在腹部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母細胞瘤的存在及其是否已有轉移,也可用 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (1) 分類:臨床上以組織學分類可分為五類 - a. 浸潤性乳腺管癌(infiltrating ductal cancer):是最常見的乳癌,佔75~80%。 - b. 浸潤性小葉癌 (infiltrating lobular cancer): 6~8%。 - c. 其他類型: - (a) 髓樣癌 (medullary cancer): 5~8%。 - (b) 黏液性癌 (mucinous cancer): 2~4%。 - (c) 管狀癌 (tubular cancer): 1~2%。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 - ...aget disease 是原發的 | 目乳房的腫瘤,經由乳腺管路系統 | | | | 進入乳頭的上皮層。 | | | | (B) | 6. 比較同一期別的乳癌,下列何 | 運乳癌組織型態預後最好? | 108(一)專 | | | (A) medullary carcinoma | | 醫五 -42 | | | (B) mucinous carcinoma | | | | | (C) metaplastic carcinoma | | | | | (D) infiltrating ductal carcinoma | | | | | 【詳解】Mucinous carcinoma 予 | 頁後最好,五年存活率約九成。 | | | (C) | 7. BRCA 1 的基因變異與下列何種 | Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -71,14 +85,6 @@ tags:
 - 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - 2. IIB: - (1) Medullary thyroid carcinoma (100%) • - (2) Pheochromocytoma (50%) • - (3) Mucosal and gastrointestinal neuroma • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - (D) 1. 有關多發性內分泌贅瘤症候群 (multiple endocrine neoplasia , 107(-) 専 MEN) 的敘述 , 下列何者錯誤? - (A) MEN 1 包含副甲狀腺機能亢進(hyperparathyroidism) - (B) MEN 2A 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (C) MEN 2B 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (D) MEN 2C 包含嗜鉻細胞瘤 (pheochromocytoma) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- ...那一層合成? | 99(二)專 | | (A) Zona fasciculata | 醫五 -41 | | (B) Zona reticularis | | | (C) Zona glomerulosa | | | (D) Adrenal medulla | | Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- 3. Infratentorial tumor:症狀以小腦和腦幹為主。 - (1) 因 CFS 流通受阻 hydrocephalus 導致 IICP signs。 - (2) CN III~XII 受壓迫或侵犯產生神經學症狀。 - (3) 頭量、嘔叶、量眩。 - (4) 步態不穩、運動失調(ataxia)、意向性顫抖(intention tremor)。 - (5) 眼球震顫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- (1) 聽力檢查:去鑑別是傳導聽還是神經性聽力異常。 - a. 理學檢查: Weber test、Rinne test、Caloric test。 - b. Pure tone audiogram (PTA) • - c. Auditory brainstem response • Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 3. 好發於橋腦小腦角、鞍旁,也可發生於第四腦室、側腦室、大腦、小腦、腦幹或脊柱。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 2. 小腦血腫: 突發性頭痛,後續出現小腦及腦幹症狀,例如嚴重運動失調、構音困難、 眼顫、眩暈和嘔吐。或是 CSF 阻塞產生水腦症,出現 IICP sign。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- 【詳解】高血壓性腦出血位置:putamen ≒ 50% > thalamic > pons ≒ cerebellum。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- (C) 3.55 歲男性,平時除高血壓外無其他疾病,於半小時前,突發暈眩之後意識漸漸昏迷,血壓 180/105 mmHg,心跳 105/分,呼吸 22/分,兩側瞳孔皆為 2.0 mm,光反射不明顯;Glasgow昏迷指數為 $E_2V_2M_3$ ,在實行快速程序插管 (rapid sequence intubation)後,瞳孔狀況不變,此時電腦斷層顯示小腦出血合併腦幹壓迫跡象,下列那一項處置較適當? - (A) 會診放射科作血管攝影及栓塞 - (B) 安排加護病房,採保守支持性治療 - (C) 會診神經外科安排緊急手術 - (D) 給予過度換氣治療(hyperventilation ),控制 $PaO_2$ 在 25~30 mmHg Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- 2. 硬膜內脊髓外腫瘤(intradural extramedullary spinal cord tumor):40% - (1) 腦膜瘤 (meningioma): - a. 好發於年老人,女性多於男性。 - b. 常長於胸椎。 - c. 由於生長緩慢,故在臨床症狀出現之前,脊髓已經被壓迫扁平到某種程度了。 - d. 影像檢查: MRI 或 CT 脊髓攝影。 - e. 手術切除,預後好。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 
 ## Clinical Caveats
 

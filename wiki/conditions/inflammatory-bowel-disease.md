@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book2-ch14]]"
   - "[[sources/med5-book2-ch13]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Inflammatory bowel disease, IBD (發炎性腸道疾病)'
   - 'Inflammatory bowel disease, IBD'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與病理。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與病理。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與
 - [[sources/med5-book2-ch14]]
 - [[sources/med5-book2-ch13]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- d. 診斷的標準: - (a) 影像上有 sacroiliitis +下方一個特徵。 - (b) HLA-B27(+) + 下方大於(或等於)兩個特徵:dactylitis, positive family history, inflammatory back pain, enthesitis, arthritis, inflammatory bowel disease, uveitis。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...urofibromatosis, and tuberous fibrosis。 - (5) 代謝性或未知因素 (Metabolic and unknown): 肝病 (Liver disease)、尿毒症 (uremia)、發炎性腸疾病 (inflammatory bowel disease)。 - (6) 物理性因子 (Physical agents): 放射線 (Radiation)、氧毒性 (O2 toxicity)、燒 燙傷 (thermal injury)、爆炸傷 (blast injury)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - #### 己、發炎性腸炎 (Inflammatory bowel disease, IBD) Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - 發炎性腸炎泛指 Ulcerative Colitis(UC,潰瘍性結腸炎)和 Crohn's Disease(克隆氏症),他們在生理病理學或臨床症狀方面有些許異同之處,但約有 10~15% 的 IBD 病人無法明確定義為 Ulcerative Colitis 或 Crohn's Disease,而稱為 Indeterminate colitis。 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
@@ -68,7 +71,6 @@ IBD 包含 Crohn disease 與 ulcerative colitis，需整合臨床、內視鏡與
 - (B) 發炎性腸道疾病 (Inflammatory bowel disease) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - ## A. 發炎性腸疾病 (Inflammatory bowel disease) Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 - (B) 1. 關於發炎性腸道疾病(inflammatory bowel disease, IBD)的敘述,下列何者正確? Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
-- ③出生第一年有使用抗生素的嬰兒,未來發生發炎性腸道疾病的風 險比較高 Source: [[sources/med3-book2-ch08|辛、腸道疾病]].
 
 ## Clinical Caveats
 

@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch05]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch07]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Psoriatic arthritis (乾癬性關節炎)'
   - 'Psoriatic arthritis'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-乾癬相關發炎性關節炎，可有指趾炎、附著點炎與脊椎侵犯。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+乾癬相關發炎性關節炎，可有指趾炎、附著點炎與脊椎侵犯。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book4-ch05]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch07]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- 1. 關節炎可以分成 inflammatory (seropositive :rheamatoid arthritis 和 seronegative: Ankylosing spondylitis, psoriatic arthritis, reactive arthritis) 和 non-inflammatory (osteoarthritis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- d. 診斷的標準: - (a) 影像上有 sacroiliitis +下方一個特徵。 - (b) HLA-B27(+) + 下方大於(或等於)兩個特徵:dactylitis, positive family history, inflammatory back pain, enthesitis, arthritis, inflammatory bowel disease, uveitis。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- #### (4) Psoriatic arthritis (PA): Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 4. 除皮膚外有相當比例(10~30%)的乾癬會造成關節疾患,也就是 Psoriatic arthritis,與皮膚病灶嚴重度無關,可出現在皮膚上未出現乾癬的病患上。另外 50% 的病人手指甲及 35% 病人的腳趾甲會被侵犯,產生指甲凹陷、黃斑、嚴重變形,常被誤認為黴菌感染。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - (1) Methotrexate(MTX):治療慢性塊狀乾癬或乾癬性關節炎的第一線用藥。最常見的副作用為噁心、疲倦、食慾減退、骨髓抑制造成白血球下降以及肝毒性,故有肝病史和酗酒者不適此療法,可能引發肝纖維化或肝硬化的危險。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 - (B) 乾癬患者有 10~25% 會併發有乾癬性關節炎 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].

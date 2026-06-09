@@ -34,6 +34,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book6-ch08]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,11 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book6-ch08]]
 
 ## Key Details From Sources
 
+- (1) 約 10~12% 會發生在雙側,但不會同時發生。發生原因至今仍未定論,推測是 abnormal clotting factors (Protein S and Protein C deficiency) 造成或是 vascular abnormality 造成供應 femoral head 的血流變少造成。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - 3. FEV1: 最常用來術前評估預測術後保留肺功能。 - (1) 一般建議術後保留 FEV, 需大於 0.8 L。 - (2) FEV1 預測百分比:將正常人 FEV1 測試的結果,依據身高體重統計做出對照預 測值,將病人除以預測值而得。 - (3) 術前評估:一般來說採用預測值百分比較過去用 FEV1 絕對值,能更準確評估 病人術後肺功能是否足夠。 - a. > 60% 可做肺葉切除。 - b. 1 /FVC ratio 值會上升 | | | | (C) diffusion capacity for CO (DLCO) l Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 危險因子:男性抽菸增加 22 倍、女性抽菸增加 12%。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 1. 發生率:神經性腫瘤(23%)、胸腺瘤或囊腫(21%)、淋巴瘤(13%)、生殖細胞瘤(12%)。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
@@ -102,7 +105,6 @@ tags:
 - (C) 生理食鹽水 200 mL 重複 3 次,加上 100 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (D) 生理食鹽水 400 mL 重複 3 次,加上 200 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- ...-|---------------------------------------------| | C1-4 | 頸部肌肉 (neck muscle) | | | | C3, 4, 5 | 横膈肌 (diaphragm) | 吸氣、TV、FEV、VC | | | C5 , 6 | 三角肌 (deltoid) | 局部外展 > 90° | | | C5 , 6 | 二頭肌 (biceps) | 手肘彎曲 | biceps jerk | | C6 , 7 | 伸腕橈肌 (extensor carpi radialis) | 手腕伸張 | supinator jerk | | C7, 8 | 三頭肌 (triceps)、伸指總肌 (extensor digitorum) | 手肘和 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 
 ## Clinical Caveats
 

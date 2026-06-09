@@ -22,6 +22,8 @@ sources:
   - "[[sources/med5-book2-ch20]]"
   - "[[sources/med5-book3-ch22]]"
   - "[[sources/med5-book4-ch09]]"
+  - "[[sources/med5-book6-ch06]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Hypothyroidism (甲狀腺低下)'
   - 'Hypothyroidism'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,13 @@ tags:
 - [[sources/med5-book2-ch20]]
 - [[sources/med5-book3-ch22]]
 - [[sources/med5-book4-ch09]]
+- [[sources/med5-book6-ch06]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- 2. 簡介:腕隧道症侯群是手腕處神經受壓很好發的位置,以女性患者較常見,主要好發於兩個年齡層:一為懷孕後,另一為 40~60 歲停經前後之女性,平均年齡為 51 歲,其他的 risk factor 包含:obesity、pregnancy、hypothyroidism、rheumatoid arthritis。 Source: [[sources/med5-book6-ch06|己、手部]].
+- (C) 5. 一位 45 歲女性因骨盆腔腫瘤住院,經切片檢查,腫瘤組織中發 現有多發性巨大細胞(multiple giant cell)、血管纖維組織(vascular fibrous tissue) 及血鐵質 (hemosiderin)。經診斷為 Brown tumor, 請問此症與下列何種疾病有關? - (A) 甲狀腺機能低下症(Hypothyroidism) - (B) 腦下垂體機能亢進症(Hyperpituitarism) - (C) 副甲狀腺機能亢進症(Hyperparathyroidism) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - 補充說明:放射性核種攝影是為了確認該病灶是否為異位甲狀腺(ectopic thyroid),若該病灶為全身僅存之甲狀腺,在無完整評估下,未保留該組織而切除會導致甲狀腺功能低下(hypothyroidism)。(感謝許耀仁醫師補充說明) Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - 【詳解】青春期前的孩童出現的乳房腫塊通常為乳房早熟的乳 芽發育,為一良性的表徵。若單側乳房早熟通常追蹤即可,若 是雙側乳房早熟必須考慮甲狀腺低下或性早熟的情形。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
 - 1. 生化檢驗數據: TSH 和 Free T4 最準。 - (1) TSH: 0.3~5 mIU/L, 在腦下垂體功能正常的情況下: - a. TSH ↑代表 hypothyroidism。 - b. TSH ↓ 代表 hyperthyroidism。 - (2) Total $T_4$ : $3\sim12 \mu g/dL \circ$ - (3) $T_3$ : 80~200 ng/dL • - (4) RT3U (Resin T3 uptake):正常值 20~40%,檢測 resin 跟 T3 結合的量得知 TBG 上沒有與甲狀腺素結合的空位 (thyroid hormone-binding sites)。因為 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
@@ -77,8 +83,6 @@ tags:
 - (D) 先天性甲狀腺功能低下症(congenital hypothyroidism) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 1. Congenital or acquired hypothyroidism Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (3) 內分泌: 副甲狀腺低下造成低血鈣,有時亦有甲狀腺低下的情形。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (2) 囟門:應在嬰兒安靜平躺時檢查。前囟門通常在10~14個月關閉,後 囟門則在兩個月大以前關閉,也可能在出生時已經關閉。囟門太早關閉 (craniosynostosis)會導致腦部發育不良,須手術治療。前囟門正常約2±1公 分大,但大小變異很大。囟門太大可能為甲狀腺低下,骨骼問題(如成骨不全 症),hypophosphata-sia,水腦等。囟門太小則可能為甲狀腺亢進,小頭症,或 craniosynostosis。囟門突出可能表示腦壓上升,腦膜炎,或水腦,囟門凹陷則 常因脫水造成。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- ...in) 沈積在下列何處? 醫四 -3 (B) 基底核 (A) 腦膜 (D) 腦室旁 (C) 小腦 (B) 7. 下列何者不是造成延遲性黃疸之原因? 104(二)專 (A) 膽道阻塞 醫四-7 (B) 配方奶哺育 (C) 泌尿道感染 (D) 甲狀腺低下症 (B) 8. 一位足月男嬰出生時很順利,但是第三天大時開始出現黃疸,下 104( - )專 列那一項最不可能是此嬰兒的黃疸原因? 醫四 -8 (A) 生理性黃疸 (B) Rh 血型不合 (C) 哺育母乳黃疸 (D) 泌尿道感染 【詳解】第三天開始出現黃疸為生理性黃疸,因此(A)(C)直接 不選。(B)(D) 雖然是病理性黃疸,但是 RH 血型不合產生溶血 引起的病理性黃疸在出生後第一二天就會出現,不會在出生第 三天表現。泌尿道感染造 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

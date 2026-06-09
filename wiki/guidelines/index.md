@@ -25,6 +25,7 @@ Guideline pages and recommendation frameworks.
 - [[guidelines/dnr|Do-not-resuscitate, DNR (不施行心肺復甦術)]] - 末期或特定情境下不施行 CPR 的預立或代理決策，需依法律與病人意願處理。
 - [[guidelines/gina-asthma-step-therapy|GINA asthma step therapy (GINA 氣喘階梯治療)]] - 氣喘控制藥物依症狀與惡化風險升降階。
 - [[guidelines/gold-copd-assessment|GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)]] - COPD 依症狀、肺功能與急性惡化風險分組治療。
+- [[guidelines/gustilo-anderson-open-fracture-classification|Gustilo-Anderson open fracture classification (Gustilo 開放性骨折分類)]] - 依傷口大小、污染、軟組織覆蓋與血管損傷分級開放性骨折，影響抗生素、清創與固定策略。
 - [[guidelines/meningococcal-exposure-prophylaxis|Meningococcal exposure prophylaxis (腦膜炎雙球菌暴露後預防)]] - Neisseria meningitidis 感染需通報、初期呼吸道隔離與密切接觸者預防性投藥。
 - [[guidelines/ncep-atp3-metabolic-syndrome-criteria|NCEP ATP III metabolic syndrome criteria (NCEP ATP III 新陳代謝症候群準則)]] - 以腰圍、血壓、血糖、TG、HDL 判定 metabolic syndrome。
 - [[guidelines/notifiable-infectious-diseases|Notifiable infectious diseases (法定傳染病通報)]] - 特定傳染病依法需在規定時限內通報，實際分類與時限需查最新官方規定。

@@ -49,6 +49,7 @@ sources:
   - "[[sources/med5-book4-ch13]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med5-book6-ch09]]"
 aliases:
   - 'Small intestine (小腸)'
   - 'Small intestine'
@@ -63,7 +64,7 @@ tags:
 
 ## Summary
 
-小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+小腸負責吸收並涉及腹瀉、IBD、吸收不良等疾病。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +113,11 @@ tags:
 - [[sources/med5-book4-ch13]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med5-book6-ch09]]
 
 ## Key Details From Sources
 
+- (B) 鈣質的來源主要為飲食攝取,大多於十二指腸(duodenum) 及空腸(jejunum)吸收 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占鈣結石成因 15%。較常見的原因是攝取高 purine 食物、內生性尿酸分泌過量,引起高尿酸尿鈣(hyperuricosuric calcium)結石。(注意:這跟尿酸 (uric acid) 結石 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 2. 胎便塊大腸阻塞症(Meconium plug syndrome) - (1) 常見的新生兒腸阻塞,和多種疾病有關,如巨結腸症、妊娠期糖尿病、甲狀腺功能低下、囊性纖維化等。大多數有此症狀之孩童為正常,但建議進一步檢查排除巨結腸症,尤其早產或明顯有遠端小腸阻塞症狀之孩童。 - (2) 臨床表現:腹脹。 - (3) 檢查 & 診斷: KUB 顯示多段小腸氣、水溶性顯影劑灌腸(同時診斷治療)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...--|----------| | | 最可能的診斷為何? | 醫五 -38 | | | (A) 幽門狹窄(pyloric stenosis) | | | | (B) 十二指腸閉鎖(duodenal atresia) | | | | (C) 小腸閉鎖 (intestinal atresia) | | | | (D) 肛門閉鎖 (imperforate anus) | | | | | | | (B) | 2. 有關小腸閉鎖(intestinal atresia)的病人,對於其可能發生的症 | 104(二)專 | | | 狀,下列何者錯誤? | 醫五 -43 | | | (A) 腹部腫脹 (B) 羊水過少 | | | | (C) 有膽汁的嘔吐物 (D) 稀疏的胎便 | | | | Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -132,7 +135,6 @@ tags:
 - (A) 十二指腸 (duodenum) (B) 空腸 (jejunum) Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - Bile salt 絕大部分在小腸被再吸收,只有不到 10% 的膽鹽會進到 大腸形成糞便。在小腸是 passive reabsorption, 在 terminal ileum 則是 active reabsorption。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - ...ut pancreatectomy: Partington-Rochelle's modification of Puestow procedure - b. Drainage procedure with pancreatectomy (duodenum preserved): Puestow procedure (resection of pancreatic tail) The Berger procedure (resection of pancreatic head) The Frey procedure (resection of pancreatic head) - c. Pancreaticoduodenectomy (PD): Whipple procedure, PP Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- ①這張圖可見擴張的胰管。將 pancreas 切開後, 也將 B 處的 jejunum 切開往上拉到 pancreas 處 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 
 ## Clinical Caveats
 

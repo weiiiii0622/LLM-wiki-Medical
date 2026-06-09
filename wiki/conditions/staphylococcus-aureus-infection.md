@@ -29,6 +29,7 @@ sources:
   - "[[sources/med5-book3-ch22]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Staphylococcus aureus infection (金黃色葡萄球菌感染)'
   - 'Staphylococcus aureus infection'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,13 @@ tags:
 - [[sources/med5-book3-ch22]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- 4. 最常見開放性骨折的致病菌:Staphylococcus aureus (常見的表皮菌),大約 75%。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- 【詳解】(A) 此時應該觀察三個月,看神經是否會自動恢復;也暫時不需要做 EMG,再手術反而會增加 nerve injury 的機會,是 contraindication。(C) atrophic nonunion 主要可能是因術中periosteum 清除太多或本身身體一些骨合成元素缺乏所導致。內固定物固定不牢會造成 hypertrophic non-union,影像上會看到兩端接頭像「象腳」一樣。(D) 開放性骨折最常見致病菌是金黃色葡萄球菌,但此病人掉到水溝,也應考慮厭氧菌感染。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (D) 對於靜脈注射毒癮者感染骨髓炎,優先考慮的致病菌種分 別為金黃色葡萄球菌 (Staphylococcus aureus), 綠膿桿菌 (Pseudomonas aeruginosa) 和格蘭氏陰性菌 (gram-negative organisms) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 3. 病菌:大多數 UTI 是單一致病菌造成。並非有進入泌尿道的細菌就會感染,還是有菌種或亞型的差異。 - (1) 非複雜 (uncomplicated:指女性無懷孕且感染後無嚴重併發症)膀胱炎、腎盂腎炎:80% 是 *E. coli* (亞型 O 為主)。其他 20% 為 Klebsiella、Proteus 或 *Enterobacter* spp. 或 Enterococci。 - (2) 住院中得到 UTI:可能的菌種很多,甚至包括 Pseudomonas 或 *Staphylococcus* spp.。若是 *Staphylococcus aureus*,常是從其他處經血液傳播而來。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...-----------|--------------------------------------------|-------------------------------| | Gram-positive cocci | | | | Staphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nit Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (D) 金黃色葡萄球菌造成的包皮龜頭炎 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
@@ -90,9 +95,6 @@ tags:
 - 1. 葡萄球菌性燙傷樣皮膚綜合症(Staphylococcal scalded skin syndrome, SSSS) - (1) 致病因子:眼耳口鼻感染 S. aureus,其分泌的外毒素 Exfoliatin A 和 B,是一種 蛋白酶(protease),會去攻擊負責連結表皮顆粒層和棘狀層之間的 desmoglein 1,導致表皮裂解。顯微鏡下可見表皮裂解於顆粒層中或是與棘狀層之間。 - (2) 最好發於新生兒前三個月大,以及五歲前孩童。Immunocompromised 的成人也 會,但罕見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 致病因子: S. aureus 分泌之 Toxic shock syndrome toxin 1 (TSST-1) 及 Staphylococcal enterotoxin 和 Group A Streptococcus 分泌之 Streptococcal pyrogenic exotoxins (SPE) ,也就是超級抗原 (superantigen) 所導致之系統性症候群。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (1) 致病因子:Group A *Streptococcus* 分泌之 Streptococcal pyrogenic exotoxins A、B 或 C。有時感染 *S. aureus* 所分泌之外毒素也會引起猩紅熱的症狀。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 3. 併發症: - (1) 感染: - a. 小於五歲的兒童,常見 Streptococcus pneumoniae。 - b. Salmonella 或是 S. aureus 造成的骨髓炎。 - c. 感染 parvovirus B19 與 aplastic crisis 有關。 - (2) 栓塞: - a. 急性胸腔症候群 (acute chest syndrome): 合併 PE 及感染。 - b. 肺高壓 - c. 周邊血管阻塞造成疼痛 - (3) 神經方面疾病: - a. 中風的機率會增加。 - b. 無症狀性腦梗塞 - c. 視網膜病變 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (C) 金黃色葡萄球菌(Staphylococcus aureus) Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 105(一)專 (D) 6. 下列何者不是造成新生兒先天性感染之重要病原體? 醫四 -5 (A) 巨細胞病毒 (B) 梅毒螺旋體 (C) 弓蟲症 (D) 麻疹病毒 (B) 7. 造成早發性(early-onset)新生兒感染的細菌中,最常見的格蘭 105(一)專 醫四 -7 氏陽性菌為: (A) 金黃色葡萄球菌 (B) B 群鏈球菌 (C) 肺炎雙球菌 (D) 大腸桿菌 (D) 8. 下列那一種病原最不常發生母子之間的垂直感染? 101(一)專 醫四-1 (A) Cytomegalovirus (B) Syphilis (C) Rubella (D) Epstein-Barr virus 【詳解】(A)(B)(C) 均為先天性感染中常見的病原體,(D) 反而 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

@@ -14,6 +14,8 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Bisphosphonates in oncology (腫瘤骨病變雙磷酸鹽治療)'
   - 'Bisphosphonates in oncology'
@@ -28,7 +30,7 @@ tags:
 
 ## Summary
 
-腫瘤骨轉移或 myeloma 骨病變可用以降低 skeletal-related events。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤骨轉移或 myeloma 骨病變可用以降低 skeletal-related events。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +44,13 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch04]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- 5. 治療: - (1) 保守治療:NSAID, electric stimulation, bisphosphonate, shockwave (under investigation)。 - (2) 外科治療: - a. Before collapse (FICAT I & II) core decompression, grafting procedures (補骨頭)。 - b. After collapse: 做人工關節。 - (a) FICAT III:hemiarthroplasty(當還沒影響到 acetabular 時可以考慮)。 - (b) FICAT IV: total hip arthroplasty (已影響到 acetabular,則須使用全人工關節)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- 5. 大部分骨轉移癌是 osteolytic lesion,會造成骨頭流失,需要比較注意的是前列腺癌所造成的骨轉移常是 osteoblastic lesion,骨頭會以增生來表現,或是 mixed type (osteoblastic 和 osteolytic 共同表現)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - iv. 放射性核素顯像(radionuclide imaging): 就是骨骼掃描(bone scan),判斷癌症是否有骨轉移以決定分期。若無骨頭痛且ALP (alkaline phosphatase,鹼性燐酸酶)值正常,則骨轉移機率極低。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (D) 高血鈣症發生率可高達 13%, 其原因係 paraneoplastic phenomena 或骨轉移造成之骨質溶解 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - a. 症狀:頻尿、急尿、夜尿、恥骨上疼痛。這些症狀會隨著膀胱漲大而加劇, 故膀胱容量常不大( 1 cm 視為轉移。表淺(Ta、Tis)腫瘤不一定要作。另外 也可排除腫瘤由上泌尿道來的可能性。 - (c) Chest X-ray: 判斷是否肺轉移。 - (d) Bone scan:判斷是否骨轉移。如果抽血 ALP 正常則不一定要作。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].

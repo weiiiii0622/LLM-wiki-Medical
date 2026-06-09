@@ -40,6 +40,7 @@ sources:
   - "[[sources/med5-book3-ch02]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch02]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Aspirin (阿斯匹靈)'
   - 'Aspirin'
@@ -54,7 +55,7 @@ tags:
 
 ## Summary
 
-抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +95,13 @@ tags:
 - [[sources/med5-book3-ch02]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch02]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- a. 良性骨瘤。好發於五歲到十五歲的年輕人或小孩,男稍多於女(約2:1)。 常在晚上感到劇烈疼痛(night pain),如果服用**阿斯匹靈、NSAID**等消炎劑 可明顯減緩疼痛。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...| | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考慮 | 71 00 | | | osteoid osteoma | | | | (C) 腰椎解離(spondylolysis)通常休息時背痛加劇,而運動可 | | | | 以緩解 | | | | (D) 腰椎椎間盤突出症不會發生在小孩子 | | | | 【詳解】(A) 小孩子較常見的是生長痛;生長痛較常見於四肢 | | | | 骨。(B) OO 好發於 10~20 歲孩子,常見在脊椎跟四肢骨,會造 | | | | 成 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (C) Aspirin 不能提供良好的止痛效果 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...ulfameth | noxazole(Baktar)被用來預防泌尿道 | | | 感染和肺囊蟲肺炎(1 | Pneumocystis carinii) | | | ④ 制酸劑 (antacids) 被 | 用來預防胃潰瘍 | | | ⑤ 阿斯匹靈 (aspirin)被 | 用來預防動脈栓塞(arterial thrombosis) | | | (A) ①35 | (B) 1245 | | | (C) 2345 | (D) ①②③④ | | | (A) 19. 當腎臟血管肌肉脂肪瘤(期追蹤,不需手術? | angiomyolipoma ) 小於幾公分時可採定 | 103(二)專醫五-66 | | (A) 4 公分 | (B) 6 公分 | | | (C) 8 公分 | (D) 1 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...性膀胱切除術(radical cystectomy)的敘述,何者錯誤? (A) 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術(B) 術前不必停止服用 aspirin (C) 腿部深層靜脈血栓可能於術後發生(D) 手術的死亡率約為 1~3% | 108(二)專醫五-66 | | (D) | 5. 有關膀胱尿道逆流(vesicoureteral reflux)發生原因的敘述,下列何者錯誤? (A) 小孩有尿道感染時容易發生 (B) 膀胱三角肌無力(trigonal weakness) (C) 完全尿道複製(complete ureteral duplication) (D) 前膀胱頸局部切除(wedg Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - 2. 藥物引發:長期 NSAID、Aspirin、Plavix 或合併 steroid 使用容易造成消化性潰瘍。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
@@ -112,9 +117,6 @@ tags:
 - (B) 給予口服抗血小板劑 (aspirin) 治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (A) 25. 腦梗塞的二次預防(secondary prevention)須使用抗血小板藥物, 102( ) 專 若考慮藥物經濟學(同時考慮藥價與療效的最大效益),首選藥 醫四 -60 物為何? - (A) Aspirin - (B) Ticlopidine - (C) Clopidogrel - (D) Dipyridamole Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - (1) 靜脈免疫球蛋白(IVIG)效果相當突出,高劑量單次注射 IVIG(2 gm/kg), 合併 Aspirin 於急性期發燒時使用,用以退燒及減輕發炎反應,通常於急性期給 予高劑量阿斯匹靈(80~100 mg/kg/day),用以抗發炎與抑制血小板凝集作用, 而退燒後改以低劑量阿斯匹靈(3~5 mg/kg/day)長期使用,持續到血小板及 ESR 回復正常。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (2) 在三個月內確定冠狀動脈正常,則考慮停藥,在發病十天內使用免疫球蛋白,可將冠狀動脈瘤之發生率降至 2~5%,並將巨大冠狀動脈瘤之發生率降至 1%, 且越早使用效果越好。若冠狀動脈瘤一直存在,則需持續服用低劑量阿斯匹靈。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (e) 感染水痘之病童勿給予水楊酸類藥物(Aspirin)退燒,會增加發生雷氏症候群(Reye's syndrome)的危險性。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) 2. 一位 10 歲兒童因發燒 2 天及起疹子至急診就醫,檢查時發現疹 108( ) 專子型態有 maculae、papulae 和 vesicles 等,下列何者敘述最不恰當? 醫四 -77 - (A) 由 Herpes virus 引起 - (B) 疹子出現後開始具傳染性 - (C) 可能產生的併發症包括腦炎、肺炎 - (D) 避免使用 aspirin 治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

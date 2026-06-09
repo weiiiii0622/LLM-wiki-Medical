@@ -13,6 +13,7 @@ sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med5-book2-ch17]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Cellulitis (蜂窩性組織炎)'
   - 'Cellulitis'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med4-book2-ch05]]
 - [[sources/med5-book2-ch17]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- (D) 可能是下肢蜂窩組織炎(cellulitis) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (2) 相對適應症:明顯臨床生理機能失常、腹壁蜂窩性組織炎(abdominal wall cellulitis)、酸血症惡化(worsening acidosis)、白血球或血小板掉、腹部腫塊、持續固定的小腸扭結環。須衡量手術好處和早產兒免疫力較差接受手術所需負擔之風險。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...,形成 supralevator abscess,較少見。 - (3) 症狀:局部紅、腫、熱、痛、壓痛或發燒。 - (4) 治療:手術切開引流,一般不須給予抗生素,除非病患為 immunocompromised、 DM、extensive cellulitis 或 valvular heart disease。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
 - 【詳解】(A)Kawasaki disease 主要特徵為發燒超過五天、結膜炎、紅疹、草莓舌,按題意描述此病患為傷口感染後所引起,加上未發燒超過五天,故不像 Kawasaki disease。(D)Vibrio vulnificus,海洋弧菌,會有嘔吐、腹瀉、腹痛、急性蜂窩性組織炎和水泡性皮膚炎等病狀,最重要的是需有海水接觸史或是海產食物史。(B)(C)藉由題意描述和刪去法,病人症狀比較像是 scarlet fever,由於病人為傷口感染化膿後引發之 scarlet fever,故應為表皮的 S. aureus 感染所造成,Group A Streptococcus 多為飛沫傳染後喉嚨感染導致 scarlet fever。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
@@ -60,7 +63,6 @@ tags:
 - 2. 臨床症狀: 看起來像蜂窩性組織炎, 但有出血性水泡, 且痛的地方超過表皮所觀察到的。 Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - ...lococcus。 | | | | (#) | 7. 下列那一項不可能是 Staphylo | coccus aureus 所引起的疾病或症候群? | 98(一)專 | | | (A) Toxic shock syndrome | (B) Cellulitis | 醫三-58 | | | (C) Erysipelas | (D) Infective arthritis | | | (C) | 8. 一位 45 歲男性,有足癬,但 | 無其他全身疾病史,無海水接觸史,於 | 97(二)專 | | | | 重、痛,以及發燒、畏寒而被送到急診 | 醫三-65 | | | 室,請問最常見之致病因? | | | | | (A) 葡萄球菌 | (B) 創傷弧菌 | | | | (C) 鏈球菌 | (D) Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - ...Clostridium tetani | 破傷風 | Tetanus(抑制 Gly,GABA 釋放) | 肌肉痙攣 | | 產氣芽孢桿菌 | Clostridium perfringens | 氣性壞疽 | Gas gangrene | 蜂窩性組織炎 | | 困難芽孢桿菌 | Clostridium difficile | 偽膜性腸炎 | Pseudomembranous colitis | 腹瀉 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- | 致病菌 | | TCBS 培養基 | 症狀 | | |------|-------------------------|----------|----------------------|--| | 霍亂弧菌 | Vibrio cholera | 黄色菌落 | 掏米水狀 (Rice water) 糞便 | | | 腸炎弧菌 | Vibrio parahaemolyticus | 綠色菌落 | 海鮮→腹痛、腹瀉 | | | 創傷弧菌 | Vibrio vulnificus | 藍綠色菌落 | 傷口碰過海水→蜂窩性組織炎 | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 

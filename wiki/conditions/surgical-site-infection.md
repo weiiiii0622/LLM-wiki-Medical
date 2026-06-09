@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Surgical site infection, SSI (手術部位感染)'
   - 'Surgical site infection, SSI'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- ...| | | | | 況,很多時候甚至必須截肢而不是做接合,才能控制感染。(D) | | | 一旦嘗試從傷口處注入食鹽水並打通關節腔,會把傷口處的細 | | | 菌帶到關節腔內,造成更嚴重的感染。 | | | (C) 5. 骨科手術後最常見的傷口感染細菌,下列何者正確? 103( 二 ) 專 | (C) | | (A) Candida (B) Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (A) 對於右小腿開放性骨折,為避免骨折位置失血過多,應儘速 清洗傷口後,將傷口緊密縫合,一方面可以減少繼續流血, 一方面可避免傷口感染的機會 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...傷後,1% 之病患日後可能產生高血壓 | | | (C) 32. 關於腎臟移植後之感染,下列敘述何者正確? | 99(一)專 | | (A) 是最常見造成移植病患死亡之原因 | 醫五-61 | | (B)預防性抗生素不可使用,因為即使用了,傷口感染率也不會減少(約5%) | | | (C) 移植後半年左右較常見之感染,其致病原多為濾過性病毒或細胞內微生物 | | | (D) 因常發生慢性感染,因此長期刺激會造成各器官之癌症發生率增加 | | | 【詳解】(A) 排斥;(D) 因使用免疫抑制劑。 | | | (A) 33. 腎臟腫瘤,在電腦斷層檢查中發現其中有 Hounsfield unit 負 20 至 | 99(一)專 | | 負 80 (-20 to -80) 密度的成分,其 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ii. 手術後數天:深部靜脈栓塞、肺栓塞、淋巴囊腫、傷口感染,這些是屬於任何手術都可能發生的問題。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (D) 傷口感染 (wound infection) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
@@ -69,6 +73,7 @@ tags:
 
 - [[conditions/anorectal-abscess-fistula|Anorectal abscess and fistula (肛門直腸膿瘍與瘻管)]]
 - [[conditions/necrotizing-fasciitis|Necrotizing fasciitis (壞死性筋膜炎)]]
+- [[conditions/open-fracture|Open fracture (開放性骨折)]]
 - [[conditions/septic-shock|Septic shock (敗血性休克)]]
 - [[conditions/wound-dehiscence|Wound dehiscence (傷口裂開)]]
 

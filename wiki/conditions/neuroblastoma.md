@@ -18,6 +18,7 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Neuroblastoma (神經母細胞瘤)'
   - 'Neuroblastoma'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- (4) 病理: Ewing's sarcoma 和 lymphoma 一樣, 在 micro 下都會出現小小圓圓的細胞。鑑別 診斷的方法可以用下面兩種: - a. PAS 染色:Ewing's sarcoma 用 PAS 染色呈現陽性。 - b. 免疫染色法:Ewing's sarcoma 會是 HBA-71 Ab(+),lymphoma 和 neuroblastoma 則呈現 HBA-71 Ab(-)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - Ⅲ. 髓質疾病 167 - A. 嗜鉻細胞瘤 (Pheochromocytoma) 167 - B. 神經母細胞瘤 (Neuroblastoma) 168 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -70,7 +73,6 @@ tags:
 - ...之使用時機,下列何者錯誤? (A) 受贈者有嚴重的肺高血壓 (B) 捐贈者的心臟太小 (C) 受贈者與捐贈者的血型不相配 (D) 捐贈者心臟缺血時間太長 9. 心臟移植患者於運動量增加時,下列何者最不可能發生? (A) 血中循環之兒茶酚胺(catecholamine)量增加 (B) 心輸出量增加 (C) 心跳速率立即增加 | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - G. 神經胚母細胞瘤 (Neuroblastoma) 209 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...:室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor)。 - (5) 神經節神經膠瘤 (ganglioglioma)/神經節細胞瘤 (gangliocytoma)/神經胚母細胞瘤 (neuroblastoma):神經元。 - (6) 松果體細胞瘤 (pinealocytoma): 松果體細胞 (pineal cell)。 - (7) 胚胎細胞瘤 (embryonal tumor): 髓母細胞瘤 (medulloblastoma)、神經外胚層母細胞瘤 (primitive neuroectodermal tumor, PNET)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ## G. 神經胚母細胞瘤 (Neuroblastoma) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 
 ## Clinical Caveats
 

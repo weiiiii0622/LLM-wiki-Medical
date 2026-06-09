@@ -52,6 +52,7 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -66,7 +67,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -118,9 +119,11 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- 2. Multiple myeloma 是最常見的原發性骨癌。症狀可以用 CRAB (螃蟹的拼音) 來記: - (1) hyper Calcemia • - (2) Renal impairment • - (3) Anemia • - (4) Bone pain • Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - i. 熱潮紅(hot flashess, 佔 60% 人)、性欲及性功能缺失、骨密度下降 (loss of bone mineral density)、貧血、體重及體脂肪增加、認知改變 (cognitive decline)。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ii. 使用賀爾蒙治療需要定期監測這些副作用,處理的方式如下: - (i) 骨密度下降:以 FRAX 評估。使用鈣、維他命 D 補充劑、或是雙磷酸鹽。 - (ii) 貧血:通常很輕微,若嚴重可以補充紅血球生成素。 - (iii) 熱潮紅(hot flashes),可補充醋酸甲羥孕酮(medroxyprogesterone acetate 300~400 mg IM monthly)治療之。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (D) 長期荷爾蒙治療可能有骨質疏鬆、貧血、疲倦等副作用 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -138,7 +141,6 @@ tags:
 - 1. 症狀:(依腫瘤位置而有不同症狀) - (1) 右結腸:血便,但多以潛血反應呈現,所以病人常有貧血和疲弱。右結腸由於 直徑較大,且該處的糞便較軟,所以比位於左結腸的腫瘤較少腸阻塞。 - (2) 左結腸:左結腸的腸內壓高、糞便較硬,因此常見腸阻塞(大便習慣改變)、 腹痛。 - (3) 直腸:血便最常見、裡急後重。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...) 腹腔鏡檢查(laparoscopy) | | | (D)靜脈泌尿道攝影(IVU) | | | (B) 29. 下列何者是右側結腸癌常見的症狀? | 100(二)專 | | (A) 腹瀉(Diarrhea) | 醫五-5 | | (B) 貧血(Anemia) | | | (C) 腸阻塞 (Intestinal obstruction) | | | (D) 鮮血便(Bright bloody stool) | | | (D) 30. 有關直腸癌的術前放射線治療之敘述,何者錯誤? | 100(二)專 | | (A) 可以增加 Resectability rate | 醫五-16 | | (B) 可以減少術中之 Tumor seeding | | | (C) 可增加保留肛門的機會 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - 【詳解】(C)從圖可懷疑是右結腸癌,常見症狀為貧血(頭暈)疲勞,右腹部不適。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (B) 1. 下列何者為結腸憩室炎(diverticulitis)必須手術的適應症?①破 製造成腹膜炎(free perforation with peritonitis) ②形成局部 2 公 分膿瘍(localized abscess)無腹膜炎 ③形成結腸膀胱瘻管 (colovesical fistula) ④造成貧血、血紅素 9.9 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
 
 ## Clinical Caveats
 

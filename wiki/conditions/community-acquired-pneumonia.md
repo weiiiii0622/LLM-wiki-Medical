@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch21]]"
   - "[[sources/med3-book3-ch15]]"
   - "[[sources/med3-book3-ch14]]"
   - "[[sources/med3-book3-ch18]]"
   - "[[sources/med5-book1-ch18]]"
+  - "[[sources/med5-book6-ch07]]"
 aliases:
   - 'Community-acquired pneumonia (社區型肺炎)'
   - 'Community-acquired pneumonia'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-院外發生的肺炎，常以臨床嚴重度與病原風險決定治療。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+院外發生的肺炎，常以臨床嚴重度與病原風險決定治療。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ tags:
 - [[sources/med3-book3-ch14]]
 - [[sources/med3-book3-ch18]]
 - [[sources/med5-book1-ch18]]
+- [[sources/med5-book6-ch07]]
 
 ## Key Details From Sources
 
+- (B) 莖狀(stalk type)型態的單一性骨軟骨瘤,突出的軟骨帽(cartilage cap)朝向其相鄰近關節方向生長 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- 【詳解】(A)多發性遺傳性外生骨贅具有自體「顯」性遺傳的特性;(B)突出的軟骨帽(cartilage cap)通常會朝遠離關節方向生長;(D)沒有症狀不需治療。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - 1. 生長緩慢的良性腫瘤,實際上是從蜘蛛網膜的帽細胞(cap cell)長出,非硬腦膜,發源處常會參雜一條主要供血的動脈。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...Cefazolin、Cephalexin | | 格蘭氏陽性球菌(GPC) | 一部份格蘭氏陰性菌 (PECK*) | | | | 第二代 | Cefuroxime 横膈上 | 格蘭氏陽性球菌(GPC) | 增加對格蘭氏陰性腸內菌效果 | 社區型肺炎 | | | | Cefoxitin 横膈下 | 格蘭氏陽性球菌(GPC) | 還可對抗厭氧 (B. fragilis) | 腹內,婦科感染 | | | *** LI> | Ceftazidime (Fortum®) | 格蘭氏陽性球菌(GPC) | 可對抗格蘭氏陰性菌 (P. aeruginosa) | 院內感染 | | | 第二1 | Ceftazidime (Fortum®)Ceftriaxone (Rocephin®) (肝) Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - ...hromycin · Azithromycin : - a. 抗菌範圍類似 Erythromycin,可抗 GPC 及非典型肺炎的上述致病菌。 - b. 增加對抗 *Haemophilus influenzae* 的效果,可用來治療無合併症社區型肺炎(no comorbidity CAP); Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].

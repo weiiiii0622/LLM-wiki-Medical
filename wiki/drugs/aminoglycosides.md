@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch06]]"
+  - "[[sources/med5-book6-ch03]]"
 aliases:
   - 'Aminoglycosides (胺基糖苷類)'
   - 'Aminoglycosides'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+30S 抑制劑，常與 beta-lactam 合併治療嚴重 GNB 或協同治療，但有腎毒性與耳毒性。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch06]]
+- [[sources/med5-book6-ch03]]
 
 ## Key Details From Sources
 
+- (D) 對於 type I 及 type II 開放性骨折,在急診室時可選用第一代頭孢菌素 (first-generation cephalosporins)治療;對於 typeIII 開 放性骨折建議再加上氨基配醣體類抗生素 (aminoglycosides) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - b. 感染:大部份抗生素(包括 baktar 或 gentamicin)不易穿透囊腫。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (b) 25% 病人需要住院注射抗生素。 - i. 可先用經驗性抗生素注射,包括 ampicillin 或 aminoglycosides。可以廣範圍殺菌,包括 Enterococci 和 Pseudomonas species。或是 amoxicillin+ clavulanic acid 或第三代 cephalosporin。 - ii. 有 20% 病人最初的靜脈注射抗生素,後來證明是無效的。就算用上 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (a) 先用廣效的經驗性抗生素 ampicillin/vancomycin + aminoglycoside/ 3rd cephalosporin。(因為不易從尿液或血液培養得到正確致病菌) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -68,7 +71,6 @@ tags:
 - (A) 5. 下列有關李斯特菌(Listeria monocytogenes)的敘述,何者錯誤? 96(一)專 (A) 為革蘭氏陽性球菌,可以在20℃至25°C的環境成長 醫三-40 - (B) 好發於孕婦、老年人以及一些免疫功能低下的病人 - (C) 臨床上表現以菌血症或中樞神經系統的感染居多 - (D) 藥物治療的首選是 ampicillin 或 penicillin, 常合併 aminoglycoside 類藥物協同治療 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - (1) 迅速投予高劑量的第一代 cephalosporin 合併 aminoglycoside Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 - ...s) => D 群鏈球菌 (Group D streptococcus): 引起膽道、 泌尿道感染,常引起院內感染。當腸道、尿道接受侵入性檢查時,此菌可能因此進入血中,瓣膜有壞損的人,就可能因此感染心內膜炎。治療: Ampicillin+ Gentamicin。 - 4. 牛鏈球菌 (S. bovis) => D 群鏈球菌 (Group D streptococcus): 與大腸惡性腫瘤有關。 - 5. 突變鏈球菌 (S. mutans) => 草綠色鏈球菌 (Viridans streptococci): 牙齦的正常菌群,突變鏈球菌可藉 Dextran 而黏附在牙齒上,造成牙菌斑,導致齲齒。若在心臟瓣膜有問題,且口腔衛生差的病人身上施行牙科侵入性行為時,草綠色鏈球菌就可能侵入血中,再藉著 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (C) 4. 八八水災造成屏東低窪地區嚴重淹水,十天後,該地區有位 50 歲男性發生急性高燒 38.5℃、頭痛、肌肉酸痛,週邊血白血球為17,000/μL, 血小板120,000/μL, GOT:150 U/L 及 GPT:162 U/L,總膽紅素(total bilirubin):4.1 mg/dL;血清肌酸酐(serum creatinine):3.2 mg/dL。下列何種抗生素為最適當之治療選擇? - (A) amikacin - (B) ciprofloxacin - (C) crystal penicillin G - (D) vancomycin Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 
 ## Clinical Caveats
 
@@ -77,7 +79,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/open-fracture|Open fracture (開放性骨折)]]
 
 ## Follow-up
 

@@ -55,6 +55,8 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Ventricular remodeling (心室重塑)'
   - 'Ventricular remodeling'
@@ -69,7 +71,7 @@ tags:
 
 ## Summary
 
-心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -124,9 +126,14 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- ...(B) 長期洗腎的病人因為腎功能不全會導致腎性骨發育不全 (renal osteodystrophy),其PTH可能會升高 - (C) 變形性骨炎(Paget's disease)主要發生在40歲以下的病人, 女多於男,是一種骨頭塑形 (remodeling) 的疾病,不會轉 變為惡性腫瘤 - (D) 骨質石化病(osteopetrosis) 又稱大理石骨病(marble bone disease),主要是因成骨細胞(osteoblast)過度活躍造成 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (C) 修飾期(Remodeling)於修補期的中期就開始,可於臨床骨 折癒合後持續多年 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (A) 3. 彈響髖(snapping hip)是因為髖關節周邊某些軟組織因纖維化或 104(二)專 硬化,而在髖關節活動時與骨骼摩擦所致。下列這些軟組織,何 醫五-59 者最不可能造成彈響髖? - (A) 股外側肌(vastus lateralis muscle) - (B) 髂脛束 (iliotibial band) - (C) 臀大肌 (gluteus maximus muscle) - (D) 髂腰肌鍵 (iliopsoas tendon) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - c. 慢性(chronic):定義是腎功能隨時間逐漸衰退的現象,最快發生在移植六個月後。影響因子是多方面的,包括 HLA 配對程度低、有抗 HLA 的抗體存在、年紀大、發生過排斥反應、之前移植腎失敗的病史、種族(衰退度:亞洲人>白人>黑人)、共病(糖尿病、肥胖、高血脂)、免疫製劑使用。這些因子會使移植腎結疤、纖維化,最後造成慢性移植腎腎病變(chronic allograft nephropathy, CAN)。治療方法為症狀控制(血壓與蛋白尿)但效果有限,因此術後 5~10 年以上移植腎存活率一直無法有效增加。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...檢查 | | | (C) 安排腎臟與膀胱超音液 | 皮檢查 | | | (D) 安排膀胱鏡或逆行性腎 | 腎輸尿管攝影 | | | 【詳解】GFRs 低於 30 n | nL/min 的患者,钆(gadolinium)施用 | | | | 纖維化 (nephrogenic systemic fibrosis) | | | 的風險增加。 | | | | (D) 18. 對於腎臟移植後的處置, | | 103(二)專 | | ① 通常會使用 β-blockers來控制高血壓 | ,hydralazine 和 calcium channel blockers | 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ tr Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - b. 勃起陰莖彎曲 (penile curvature): - (a) 定義:陰莖勃起時向任何方向彎曲角度超過30度,或者勃起時疼痛及造成性交困難。 - (b) 成因: - i. 先天性:白膜發育異常、尿道下裂。 - ii. 後天性:如佩洛尼氏病 (Peyronie's disease = plastic induration of the penis),是陰莖因慢性發炎造成的纖維化斑塊,使得勃起時疼痛彎曲,但不勃起時沒症狀。 - (c) 治療: - i. 無明顯變形,仍具性功能:續觀察,50%的佩洛尼氏病會自行緩解。 - ii. 明顯變形,有性功能障礙:藥物治療或手術治療。 - (i) 藥物治療(口服): - ①Vitamin E:抗氧化劑,可改善疼痛感。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
@@ -142,9 +149,6 @@ tags:
 - 3. 危險因子: - (1) Congenital causes:呈散在性分佈。 - a. 囊狀纖維化 (cystic fibrosis)。 - b. α1- 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency )。 - c. 免疫缺失(selective IgA deficiency, allergic bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's Source: [[sources/med5-book4-ch03|丙、肺]].
 - 2. 臨床表現:初次感染病灶會呈現乾酪性壞死合併有滲出液,而後續病灶會發生在肺間和上葉後節,或是下葉後節,病灶癒合後會纖維化和攣縮,疾病早期就會有廣泛性乾酪性開洞。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...Sarcoidosis)、組織球增生症(Histiocytosis)、特發性肺含鐵血黃素沉著症(Idiopathic hemosiderosis)、肺泡蛋白質沉積症(Pulmonary alveolar proteinosis)、彌漫性間質纖維化(Diffuse interstitial fibrosis)、特發性肺纖維化(idiopathic pulmonary fibrosis)、脫屑性間質性肺炎(Desquamative interstitial pneumonia)、嗜伊紅性肺炎(Eosinophilic pneumonia, caused by drugs, actinomycosis, and parasites)淋巴血管平滑肌肉增生症(Lymphangioleio Source: [[sources/med5-book4-ch03|丙、肺]].
-- 1. 機轉 & 成因:胸鎖乳突肌纖維化(fibrosis of the sternoaleidomasoid)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- 1. 慢性胰臟炎是指胰臟因發炎反應,產生組織鈣化、纖維化,而導致不可逆的胰臟內 分泌及外分泌組織的永久性破壞。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 2. 慢性胰臟炎常見原因: - (1) 酒精(>70%)。 - (2) 胰管阻塞: 先天或後天性胰管狹窄、腫瘤阻塞。 - (3) 遺傳性。 - (4) 高血鈣症。 - (5) 蛋白質缺乏性的營養不良。 - (6) 囊性纖維化 (cystic fibrosis)。 - (7) 外傷導致胰臟受損。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 
 ## Clinical Caveats
 

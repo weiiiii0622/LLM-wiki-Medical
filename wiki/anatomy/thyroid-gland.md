@@ -70,6 +70,10 @@ sources:
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med5-book6-ch06]]"
 aliases:
   - 'Thyroid gland (甲狀腺)'
   - 'Thyroid gland'
@@ -84,7 +88,7 @@ tags:
 
 ## Summary
 
-甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -154,9 +158,20 @@ tags:
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med5-book6-ch09]]
+- [[sources/med5-book6-ch07]]
+- [[sources/med5-book6-ch03]]
+- [[sources/med5-book6-ch06]]
 
 ## Key Details From Sources
 
+- (2) 次發性(10%): - a. Type III:由於其他器官的原因造成,如內分泌疾病(包括甲狀腺、副甲狀腺或腎上腺等功能異常)、營養不良、血液疾病、藥物以及其他疾病等原因引起之骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- b. 促成骨 (bone-forming medication): 副甲狀腺素 (PTH),可以使 osteoblast 活性上升,增加骨質密度,但此類藥品要間斷使用 (intermittent use),如持續使用 (continuous use) 反而會有蝕骨作用。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- #### 2. 副甲狀腺機能亢進的實驗數值變化: Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- 1. 骨頭惡性腫瘤有一定的比率(超過一半以上)是轉移癌。來源以下面幾個最為常見: - (1) 肺癌。 - (2) 乳癌。 - (3) 前列腺癌。 - (4) 甲狀腺腫瘤。 - (5) 肝癌。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...OP → C/T。 | | | (D) 37. | 在轉移性骨腫瘤中,何者造成的病灶,最常使患部骨骼的骨密度 | 94(一)專 | | ` , | 增高? | 外一-53 | | | (A) 腸癌 (B) 腎細胞癌 | | | | (C) 甲狀腺癌 (D) 前列腺癌 | | | | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考慮 | 71 00 | | | osteoid osteoma | | | | (C) 腰椎解離(spondylolysis)通常休息時背 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- (A) 4. 一位 35 歲女性,因車禍至急診處,左大腿非開放性股骨骨折。 經急診住院,預計第二天進行骨科手術。清晨病人非常焦慮,發 燒 38.7℃,心跳約 110 /分,頸部甲狀腺約三度腫大。此時最 好的檢查及治療不包括下列何者? - (A) 儘快施行骨科手術 - (B) 抽血檢驗 T3、T4、TSH - (C) 冰氈及退燒藥 - (D) beta blockers, corticosteroid 靜脈注射 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- 2. 簡介:腕隧道症侯群是手腕處神經受壓很好發的位置,以女性患者較常見,主要好發於兩個年齡層:一為懷孕後,另一為 40~60 歲停經前後之女性,平均年齡為 51 歲,其他的 risk factor 包含:obesity、pregnancy、hypothyroidism、rheumatoid arthritis。 Source: [[sources/med5-book6-ch06|己、手部]].
 - ...隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricosuric):占鈣結石成因 15%。較常見的原因是攝取高 purine 食物、內生性尿酸分泌過量,引起高尿酸尿鈣(hyperuricosuric calcium)結石。(注意:這跟尿酸 (uric acid) 結石不一樣,一個含鈣一個不含鈣,尿 pH 值一個 > 5.5 (因為是產生 monosod Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (B) 29. 一位 35 歲女性病患,其腹部 X 光片如下圖,則下列敘述何者 99(-)專 正確? 醫五-74 - (A) 是非常複雜之尿路結石,若 不處理腎臟功能迅速變壞 - (B) 大多數沒有症狀,也不需積 極處理 - (C) 此症常與腎臟小管酸血症 (renal tubular acidosis)及甲 狀腺功能亢奮 (hyperthyroidism)有關 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - ...稱「副腫瘤綜合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis factor), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -168,13 +183,6 @@ tags:
 - 5. 最常見的孩童惡性腫瘤:肉瘤(sarcomas)、淋巴瘤(lymphomas)、轉移性甲狀腺癌(metastatic thyroid carcinoma)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - 2. 機轉 & 成因:甲狀舌骨殘跡包含胚胎發育過程的甲狀腺、舌頭和舌骨。腫塊範圍 從舌頭基部到甲狀腺椎葉,如果甲狀腺移行完全失敗就會形成舌部甲狀腺。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - 4. 血管架構: 豐富的血管淋巴組織營養和引流食道,也提供了手術血液供應安全網絡, 但也成了腫瘤轉移的方便路徑。 - (1) 頸部血管網:主要由左右下甲狀腺動脈(inferior thyroid arteries)供應,左側來 自胸甲狀腺動脈幹分枝,右側來自鎖骨下動脈分枝。【註:環咽肌非食道本身 結構,由上甲狀腺動脈供應。】 - (2) 胸部血管網:由6條源自於主動脈和支氣管動脈的分枝供應,分別是下甲狀腺動脈下降支 (descending branches off the inferior thyroid arteries)、肋間動脈 (intercostal arteries)和成對的下 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ...al nerve)神經和 喉返(recurrent laryngeal)神經。 - a. 上喉神經:分出外喉神經和內喉神經,支配下咽縮肌 (inferior pharyngeal constrictor muscle)、環甲肌 (cricothyroid muscle) 運動和喉部感覺。 - b. 喉返神經: 左喉返神經繞過主動脈弓,右喉返神經繞過右鎖骨下動脈,兩者向上沿著食道氣管凹陷,返回喉部,分出下喉神經。支配頸段食道和環咽縮肌運動。負責聲帶以下食道感覺,及下咽縮肌和後環杓肌。 - c. 單邊上喉或喉返神經受損:造成聲音沙啞(hoarseness)和食入氣道(aspiration)。 - d. 胸段食道:迷走神經支配橫紋肌,副交感神經支配平滑肌,神經呈網狀神經分佈,在肌肉層形成奧氏 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ...ssion of soft palate) | | | | (D) 舌骨上升 (elevation of the hyoid) | | | (A) | 3. 對於食道的主要血液供應,下列何者錯誤? | 103(一)專 | | | (A) 上甲狀腺動脈 | 醫五 -29 | | | (B) 下甲狀腺動脈 | | | | (C) 胸主動脈 | | | | (D) 左胃動脈 | | | (C) | 4. 就解剖位置而言,食道有三個狹窄部位,下列何者錯誤? | 103(一)專 | | (0) | (A) cricopharyngeus muscle 處 | 醫五-31 | | | (B) 食道與左主支氣管交會處 | | | | (C) 食道與肺靜脈交會處 | | | | (D) 食道與 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ...管管徑較小,優先建議使用無袖口氣囊(un-cuffed)氣管內管。 - b. 氣管內管之管徑選擇: 概估約等於孩童的小指寬,或以公式 4 + age (yr) / 4 French 來計算最佳管徑。 - c. 環狀甲狀軟骨切開術(Cricothyroidotomy): 因小於 12 歲以下孩童氣管較軟,不建議使用。 - (2) Circulation:輸液和輸血。 - a. 晶體溶液(crystalloid)快速灌注(bolus)以 20 mL/kg 來補充流失的體液。對於小於 6 歲孩童靜脈注射(IV)並非安全穩固的輸液管路,可考慮骨內注射(intraosseous, IO)。當失血超過預估總血量的 50% 或以雙倍灌注 40 mL/kg 輸液後仍明顯有低血容生命徵象表現時,為啟動輸 Source: [[sources/med5-book4-ch08|甲、概 論]].
-- (B) familial thyroid cancer Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- 【詳解】青春期前的孩童出現的乳房腫塊通常為乳房早熟的乳 芽發育,為一良性的表徵。若單側乳房早熟通常追蹤即可,若 是雙側乳房早熟必須考慮甲狀腺低下或性早熟的情形。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- ...以決定是否為 | 107(二)專 | | ( ) | 高危險病患時,下列何項不必 | | 醫五 -40 | | | (A) 停經在 55 歲之後 | | | | | (B) 未產婦(nulliparity) | | | | | (C) 曾有甲狀腺病史 | | | | | (D) 初經小於 12 歲 | | | | | 【詳解】乳癌的 risk factor 與F | | | | (D) | | | 107 ( ) = | | (B) | 9. 乳癌最常見轉移部位為下列何 | | 107 (一) 專 | | | • • • • • • • • • • • • • • • • • • • • | (B) 骨骼 | 醫五 -42 | | | | (D) 肝臓 | | | | | 骨頭 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- C. 甲狀腺腫大 (Goiter) 198 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 
 ## Clinical Caveats
 
@@ -183,6 +191,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/bone-metastasis|Bone metastasis (骨轉移)]]
 - [[conditions/goiter|Goiter (甲狀腺腫)]]
 - [[conditions/thyroglossal-duct-cyst|Thyroglossal duct cyst (甲狀舌骨囊腫)]]
 

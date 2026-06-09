@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch02]]"
   - "[[sources/med3-book4-ch08]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch11]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Atlantoaxial subluxation (寰樞椎半脫位)'
   - 'Atlantoaxial subluxation'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch11]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- ...teral + SI injury B3: lateral compression - contralateral + SI injury | | С | RotationallyunstableVertically unstable | C1: unilateral + SI injury C2: bilateral + SI injury C3: associated acetabular fracture + SI injury | Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (5) Stage C1: Stage B1 +淋巴轉移。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (6) Stage C2: Stage B2 +淋巴轉移。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - ...| N0 | M0 | B2 | 60~80% | | IIB | T4a | N0 | M0 | B2 | | | IIC | T4b | N0 | M0 | В3 | | | IIIA | T1-T2 | N1/N1c | M0 | C1 | 30~60% | | | T1 | N2a | M0 | C1 | | | IIIB | T3-T4a | N1/N1c | M0 | C2 | | | | T2-T3 | N2a | M0 | C1/C2 | | | | T1-T2 | N2b | M0 | C1 | | | IIIC | T4a | N2a | M0 | C2 | | | | T3-T4a | N2b | M0 | C2 | | | | T4b | N1-N2 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

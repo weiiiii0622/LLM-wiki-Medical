@@ -32,6 +32,7 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch06]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med5-book6-ch04]]"
 aliases:
   - 'Asthma (氣喘)'
   - 'Asthma'
@@ -46,7 +47,7 @@ tags:
 
 ## Summary
 
-可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +79,11 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch06]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med5-book6-ch04]]
 
 ## Key Details From Sources
 
+- (C) 3. 王先生是一位 37 歲板模工人,因為有氣喘的問題,長期使用含類固醇的噴霧吸入器。平常身體狀況還算良好,下班後唯一嗜好是和朋友喝喝酒,約一年前開始發現左側髋部疼痛,近半年來疼痛加劇,有跛行的情形,X光片如附圖所示,則最可能的診斷為何? Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (2) 過 敏 性 支 氣 管 肺 的 麴 菌 症 (allergic bronchopulmonary aspergillosis, 簡 稱 ABPA): - a. 對在呼吸道形成菌落的麴菌抗原過敏。 - b. 症狀:咳嗽、喘鳴、呼吸困難、發燒、咳血、咳出棕色的痰。大部份都發生 在原本就有氣喘的病人身上,但也有少部份的 ABPA 不合併氣喘病。 - c. 檢查: 支氣管鏡檢。 - d. 治療: 內科藥物治療。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (9) 過敏性肺炎 (Hypersensitivity pneumonia): 吸入性過敏原 (Inhaled antigens)、農夫肺 (Farmer's lung, actinomycosis)、蔗渣沉積症 (Bagassosis, sugar cane)、麥田工人 (Malt workers, *Aspergillus* spp.)、棉屑沈著病(或稱棉屑肺,Byssinosis, cotton-dust asthma, cotton-mill fever)。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - 3. 臨床表現:會造成心灼熱(heartburn)、逆流(regurgitation)、口有苦或酸味(acid or bitter taste in the mouth)、經常打嗝(excessive belching)、消化不良(indigestion)等類似 GERD 症狀,反覆的呼吸道感染、成人型氣喘、頭頸部感染等。 Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -98,7 +101,6 @@ tags:
 - 情況: 一位有氣喘病史的4歲男童,有3天的發燒、咳嗽、流鼻水症狀,因為突然發生呼吸急促與左側胸痛前來就診,胸部X光如圖所示。住院隔日血液培養出革蘭氏陰性細菌。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (2) 母親若有氣喘、糖尿病,則新生兒發生機率提高。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - | 疾病 | 物質 | |-------|-------------------| | 氣喘 | 二異氰酸類、甲醛、環氧樹酯 | | 腎臟疾病 | 四氯化碳、乙二醇、甲醇、鉛、汞、鉻 | | 肝臟疾病 | 二甲基甲醯胺、四氯化碳、砷 | | 血液疾病 | 苯、硝基苯、硝化甘油 | | 心血管疾病 | 二硫化碳、硝化甘油、砷 | Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- ...-----------------------------------------------------|------------------| | (B) 26 | . 下列何者在老年病患最不常見? (A) 骨折 (B) 支氣管哮喘 (bronchial asthma) (C) 憂鬱 (D) 尿失禁 【詳解】(B) 骨折是間接因跌倒而產生的疾病。老年人常見的呼吸道疾病應該是以肺部感染為大宗。 | 104(一)專醫三-21 | | (D) 27 | . 根據公式,當一位病人的總膽固醇為 287 mg/dL,三酸甘油酯為 175 mg/dL 及高密度脂蛋白膽固醇(HDL-C)為 90 mg/dL 時,計算出來的低密度脂蛋白膽固醇(LDL-C)值為多少? (A) 22 mg/dL (B) 85 mg/dL Source: [[sources/med3-book4-ch26|丙、社區醫學]].
 
 ## Clinical Caveats
 
