@@ -1,16 +1,93 @@
-# Medical LLM Wiki
+# LLM-wiki-Medical
 
-This Obsidian vault is set up as a medical LLM-maintained wiki.
+一個由大型語言模型（Codex）自動維護的醫學知識庫，基於 Obsidian 雙向連結架構。
 
-- Put immutable source material in `raw/`.
-- Let Codex maintain structured pages in `wiki/`.
-- Use `AGENTS.md` as the operating schema for future Codex sessions.
+## 概述
 
-Start by adding a book, article, chapter, lecture note, or guideline into `raw/books/`, `raw/articles/`, or `raw/notes/`, then ask Codex:
+本專案將臺灣醫學國考教材（醫字號系列）有系統地轉換為結構化的主題式知識圖譜。原始教材存放於 `raw/` 目錄作為不可變動的源材料，LLM 則自動建立並維護 `wiki/` 中的主題頁面，涵蓋疾病（conditions）、藥物（drugs）、診斷檢查（diagnostics）、處置手術（procedures）、臨床指引（guidelines）、生理學（physiology）、解剖學（anatomy）以及核心概念（concepts）等八大類別。
 
-```text
-Ingest raw/books/<filename> into the medical wiki.
+## 專案結構
+
+```
+.
+├── raw/                        # 不可變動的原始教材
+│   ├── books/                  # 教科書（PDF、EPUB、章節 Markdown）
+│   ├── articles/               # 論文、期刊、臨床指引
+│   ├── notes/                  # 筆記、課堂逐字稿
+│   └── assets/                 # 圖片與附件
+│
+├── wiki/                       # LLM 產出的結構化知識庫
+│   ├── index.md                # 內容目錄（每次攝入後更新）
+│   ├── log.md                  # 僅附加的變更歷史紀錄
+│   ├── overview.md             # 全景總覽頁面
+│   ├── sources/                # 原始文獻摘要（作為引用錨點）
+│   ├── conditions/             # 疾病與症候群（1,020 節點）
+│   ├── drugs/                  # 藥物與藥理分類（145 節點）
+│   ├── diagnostics/            # 檢驗、診斷標準、影像（144 節點）
+│   ├── procedures/             # 手術與臨床處置（183 節點）
+│   ├── guidelines/             # 臨床指引比較（24 節點）
+│   ├── physiology/             # 正常生理與路徑（37 節點）
+│   ├── anatomy/                # 器官與結構（44 節點）
+│   ├── concepts/               # 機制與定義（38 節點）
+│   ├── questions/              # 實用查詢的歸檔答案
+│   └── templates/              # 頁面模板
+│
+├── docs/                       # 輔助文件
+├── tools/                      # 工具腳本
+├── AGENTS.md                   # Codex 操作規範（攝入／查詢／檢查流程）
+└── README.md                   # 本文件
 ```
 
-Codex should create a source summary, update topic pages, update `wiki/index.md`, and append to `wiki/log.md`.
+## 攝入統計
+
+| 來源教材 | 檔案數 | 節點數 |
+|---------|:------:|:-----:|
+| 醫(三)第1冊 心胸內 | 24 | 151 |
+| 醫(三)第2冊 肝內新陳代謝 | 26 | 220 |
+| 醫(三)第3冊 腎內感染 | 22 | 294 |
+| 醫(三)第4冊 免疫血液腫瘤家醫 | 29 | 383 |
+| 醫(四)第1冊 小兒 | 11 | 555 |
+| 醫(四)第2冊 皮膚 | 11 | 288 |
+| 醫(四)第3冊 精神科 | 9 | 182 |
+| 醫(四)第4冊 神內 | 8 | 299 |
+| 醫(五)第1冊 外概腦外 | 20 | 419 |
+| 醫(五)第2冊 心外大腸直腸外內分泌外整外 | 30 | 393 |
+| 醫(五)第3冊 腎外小腸外肝膽胰外乳外 | 24 | 313 |
+| 醫(五)第4冊 胸外小兒外 | 17 | 384 |
+| 醫(五)第5冊 泌尿 | 9 | 356 |
+| 醫(五)第6冊 骨科 | 10 | 225 |
+| 醫(六)第1冊 婦產 | 18 | 492 |
+| 醫(六)第2冊 眼科 | 20 | 344 |
+| 醫(六)第3冊 復健 | 10 | 276 |
+| 醫(六)第4冊 麻醉耳鼻喉 | 15 | 378 |
+| **總計** | **323** | **5,952** |
+
+## 工作流程
+
+### 攝入新教材
+
+1. 將教材放入 `raw/books/`、`raw/articles/` 或 `raw/notes/`
+2. 指示 LLM 執行攝入指令
+3. LLM 自動完成以下步驟：
+   - 建立文獻摘要頁面至 `wiki/sources/`
+   - 萃取醫學實體並更新對應的主題頁面
+   - 在相關頁面之間建立雙向連結
+   - 標註矛盾之處、更新與開放問題
+   - 更新 `wiki/index.md` 內容目錄
+   - 附加一條紀錄至 `wiki/log.md`
+
+### 查詢知識
+
+透過 Obsidian 的雙向連結功能，可在頁面間自由導航。所有陳述均附有源文獻引用，格式為 `[[source-page]]`，便於追溯原始教材。
+
+## 安全性宣告
+
+> 本知識庫僅供**教育與研究用途**，不得作為臨床診斷、治療處方或醫療決策之依據。藥物劑量、禁忌症、妊娠用藥、緊急處置等資訊，應以最新官方臨床指引與藥品仿單為準。
+
+## 技術細節
+
+- **底層格式**：Obsidian Markdown 雙向連結架構
+- **內容語言**：以繁體中文為主體，專業術語輔以英文原文
+- **引用方式**：`[[source-page]]` 格式，可加註章節與頁碼
+- **中繼資料**：每頁含 YAML frontmatter，標記類型、狀態、建立時間、更新時間與引用來源
 
