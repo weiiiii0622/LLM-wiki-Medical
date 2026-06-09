@@ -37,6 +37,7 @@ sources:
   - "[[sources/med5-book6-ch08]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -51,7 +52,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +89,11 @@ tags:
 - [[sources/med5-book6-ch08]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...障礙: - (a) 如果是不完全性脊髓損傷,不論是 UMN 或是 LMN 受傷,皆有較大的機會保留反射性勃起和心理性勃起的功能。 - (b) 如果是完全性脊髓損傷,UMN 受傷者較難有心理性勃起(90%);LMN 受損者較難有反射性勃起(約12%保留),也較難有機會保有心理性勃起(約25%保留)。 - c. 射精 (ejaculation) 障礙: - (a) SCI 的男性患者,保有射精能力的機率比勃起的機會更低,依損傷的程度 和位置有所不同。 - (b) Complete UMN lesions: 2% 患者保有射精能力。 - (c) Incomplete UMN lesions: 32% • - (d) Complete LMN lesions: 18% • - (e) Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 發生率僅 0.4~1%。但造成周產期死亡率約 12%,其中 77% 胎死腹中;其 餘的死於早產兒的併發症 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (2) 簡介:發生率平均約 12%,是造成新生兒死亡最主要的原因,週數愈小,死亡率愈高;除死亡外,早產亦會造成長期的後遺症(如視力問題、腦性麻痺等)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (2) 為婦女最常見的內分泌及代謝疾病之一, 育齡婦女發生機率約 6~12%。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -108,7 +111,6 @@ tags:
 - (D) 5. 一輛校車和卡車對撞後,引起爆炸和火燒車,車內一位 6 歲男孩被送到急診室,他的眉毛、鼻毛被燒焦,且臉和頸部有大約 12% body surface area (BSA) 的燒傷,他的聲音沙啞、呼吸快淺,血紅素氧飽合度為 70%。此時下列處置何者第一優先? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - mL,前8小時給一半為4,200 mL。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - (C) 11,200 mL; 乳酸林格氏液 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (B) 生理食鹽水 800 mL 加上 200 mL 全血 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

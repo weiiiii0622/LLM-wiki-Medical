@@ -8,6 +8,8 @@ sources:
   - "[[sources/med5-book6-ch08]]"
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Brachial plexus (臂神經叢)'
   - 'Brachial plexus'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-由 C5-T1 roots 形成 trunks、divisions、cords 與 terminal branches，支配上肢運動與感覺。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+由 C5-T1 roots 形成 trunks、divisions、cords 與 terminal branches，支配上肢運動與感覺。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,15 @@ tags:
 - [[sources/med5-book6-ch08]]
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch03]]
+- [[sources/med6-book3-ch06]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- C. 臂神經叢傷害 (Brachial plexus injury) 161 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- #### C. 臂神經叢傷害 (Brachial plexus injury) Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- 1. 成人臂神經叢損傷常發生於車禍、運動損傷、槍傷或手術,孩童的話多半發生在嬰 兒分娩時肩部受到碰撞或拉扯(肩難產)造成臂神經叢的損傷。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- (4) Posterior cord syndrome: - a. 後脊髓受傷,為少見之症狀,喪失本體感覺、振動覺。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 6. 預防性剖腹產(prophylactic cesarean section):不建議在懷疑巨嬰妊娠時,常規提早引產或預防性剖腹產。但對於肩難產的高風險族群,可選擇性地使用預防性剖腹產。如下情形: - · 2002 年美國婦產科醫學會 (ACOG) 建議非糖尿病產婦之胎兒預估體重大於 5,000 克或糖尿病產婦之胎兒預估體重大於 4,500 克時,可考慮施行預防性剖腹產 - 前胎次併發肩難產,尤其是胎兒臂神經叢有損傷的個案,可考慮施行預防性剖腹產 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - | 胎兒 | ・Brachial plexus palsy:最常見的併發症。短暫性佔 3~16.8%;永 | | | | |--------|---------------------------------------------------|--|--|--| | (約佔21% | 久性佔 0.5~1.6%。 | | | | | 的肩難產) | (1) 包括 Erb-Duchenne palsy (C5-C6 神經根損傷)、Klumpke's | | | | | | palsy Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - 【詳解】Brachial plexus palsy 是 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].

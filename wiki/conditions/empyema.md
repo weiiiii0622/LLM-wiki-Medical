@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Empyema (膿胸)'
   - 'Empyema'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-肋膜腔感染積膿，常需引流與抗生素。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔感染積膿，常需引流與抗生素。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - B. 膿胸(Empyema thoracis) 15 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...● Bacterial/ | Abdominal/ | Pulmonary | | • Meigs' syndrome | parapneumonic | Gastrointestinal | embolism with | | | ● Empyema | Disease Related | infarction | | | ● Tuberculosis | Esophageal | Asbestosis related | | | ● Fungal | perforation | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreati Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ### B. 膿胸 (Empyema thoracis) Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -62,7 +65,6 @@ tags:
 - | Exudate | Malignancy, TB, Empyema | 繼續以下列方法鑑別診斷 | |------------|------------------------------------|-------------| | Transudate | CHF, Cirrhosis, Nephrotic syndrome | 依照前述疾病治療 | Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - ...------------------|---------------------------------------------------|--| | 有 | | WBC >50 K+ neutrophilia | Infection, empyema | | | | NIDO -5 IZ | Lymphocytosis (>85%) | TB, lymphoma, sarcoid, pseudoexudates | | | 核 | WBC 100/) | Pneumothorax, Hemothorax, Fungal, parasitic inf., | | | 細 | | Eosinophilia (>10%) | Meds, Malignancy, Benign asbest Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - c. 治療:抽些胸水時看到 grossly pus appearance,需懷疑 Empyema,直接改放入 chest tube 引流,這是對 Empyema 必須的治療。 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
-- ...: - Lung cancer Interstitial lung disease - Chronic infections in the thorax, such as bronchiectasis, lung abscess, and empyema. Congenital heart disease associated with right-to-left shunting - Chronic inflammatory or infectious diseases, such as inflammatory bowel disease and endocarditis 但 IE 和 IBD 臨床上少見有 cyanosis 情形。 (B) 14. 一位 45 歲女性患者冬天在密閉 Source: [[sources/med3-book1-ch18|寅、其 他]].
 
 ## Clinical Caveats
 

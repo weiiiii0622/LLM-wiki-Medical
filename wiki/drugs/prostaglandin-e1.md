@@ -13,6 +13,7 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Prostaglandin E1, PGE1 (前列腺素 E1)'
   - 'Prostaglandin E1, PGE1'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-用於維持 PDA 開放以穩定 ductal-dependent congenital heart disease。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於維持 PDA 開放以穩定 ductal-dependent congenital heart disease。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (b) 陰莖海綿體藥物注射:注射 Prostaglandin E1 或 $\alpha$ -blocker 等藥物至海綿體 使血管擴張,幫助勃起。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - ...藥 | 低血壓、潮紅、頭痛、顫抖、 | | | | 噁心、腹痛 | | Methylergonovine | 肌肉注射 | 禁忌症為高血壓、周邊血管和 | | (C) (A) (A) | | 缺血性心臟病 | | Misoprostol (PGE1) | 肛門塞劑、口服 | 可用於高血壓或氣喘之患者 | | | 或舌下給予 | 可能引起發燒 | | 15-methyl prostaglandin F2a | 子宮肌層注射或肌肉 | 禁忌症為高血壓和氣喘、肝腎 | | (refractory uterine atony) | 注射 | 功能差為相對禁忌症 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - (A) Misoprostol 為 E2 前列腺素(prostaglandin) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - 【詳解】(A)為E1前列腺素;(B)靜脈注射 oxytocin 更為有效;(C) Misoprostol 用於預防及治療產後大出血目前仍為 off-label use,不過,2012年 FIGO 建議的預防劑量確實為單次口服 600 μg,於產後立即服用;(D)可肛門塞劑、口服或舌下使用,並無肌肉注射方式。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -60,7 +63,6 @@ tags:
 - 7. 治療:以外科方式治療為最終目標。 - (1) 先維持肺部血液的灌流,如注射 PGE1 維持開放性動脈導管、人工血管放置 (Blalock-Taussig shunt 或 central shunt) 或 PDA stent。 - (2) 手術治療 VSD 與矯正右心室出口阻塞。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - a. 手術治療前,注射 PGE1 以維持動脈導管暢通。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (1) 一開始使用 PGE1 確保 PDA 暢通直到 surgical aortopulmonary shunt。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- akalosis)。由於刺激 renin-angiotensin II-aldosteron axis,病人血液內腎素、醛固酮、前列腺素 E 濃度明顯升高。雖然腎功能正常,但尿液檢查表現高尿鈣,超音波檢查可以發現到腎鈣沉積症(nephrocalcinosis),特別是 Bartter syndrome type I 與 type II 的病人。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

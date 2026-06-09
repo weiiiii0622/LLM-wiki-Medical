@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med5-book1-ch05]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Hirschsprung disease (先天性巨結腸症)'
   - 'Hirschsprung disease'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-腸神經節細胞缺如造成遠端腸道功能性阻塞，常有胎便延遲。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腸神經節細胞缺如造成遠端腸道功能性阻塞，常有胎便延遲。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book1-ch10]]
 - [[sources/med5-book1-ch05]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- a. 便秘:腸道活動度異常是其主因,甚至可能出現腸扭轉(vovulus)或巨結腸 (megacolon)等情形,定時清除大便可預防之。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - I. 先天性巨結腸症 (Hirschsprung disease) 160 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (D) 巨大結腸症 (megacolon) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (C) 巨大結腸症 (Hirschsprung's disease) Source: [[sources/med5-book4-ch11|丁、腸胃道]].

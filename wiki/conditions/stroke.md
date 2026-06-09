@@ -21,6 +21,9 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Stroke / cerebrovascular accident, CVA (腦中風)'
   - 'Stroke / cerebrovascular accident, CVA'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,18 @@ tags:
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book3-ch01]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- A. 腦中風 (Cerebral vascular accident, CVA) 4 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- A. 腦中風 (Cerebral vascular accident, CVA) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- 4. 當負責上述語言功能的區域或途徑受破壞時,會引發不同程度的失語症,造成失語症常見的原因如下: - (1) 大腦血管病變:即腦中風,如血栓、栓塞、腦出血及動脈破裂。 - (2) 腦外傷:有穿入性外傷及非穿入性外傷。 - (3) 腦瘤。 - (4) 腦組織炎症 (encephalitis)。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- f. 併發症:如果高血壓的情形不加以控制,會引發併發症,甚至死亡。 - (a) Retinal Hemorrhage • - (b) CVA • - (c) SAH · seizure · death · Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- d. 【補充】Suprapontine lesion of neurogenic bladder: 典型表現為逼尿肌過度反射(detrusor hyperreflexia) 但未合併逼尿肌 括約肌共濟失調。代表疾病:腦中風、巴金森氏症。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- d. Cardiac Output (CO) = HR × stroke volume • Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (1) 雙眼複視可能與眼外肌和腦神經病變相關:如重症肌無力、後天性斜視(如外傷性斜視)、甲狀腺眼症、腦中風、腦瘤、動脈瘤等。雙眼同時看時會出現複視,而把有問題的眼睛遮住,單眼看時,複視即消失。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...enefit > Risk | |-----------------------------------------------------------|-------------------------------------| | • Stroke | Osteoporotic fracture | | Venous thromboembolism | ● Colorectal cancer | | • Coronary heart disease (E+P, > 60 y/o) | ● Coronary heart disease ( 5 yrs) | ● Mortality ( Endometrial hyperplasia and carcinoma | ● Type II Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - E 或 E+P 增加的 stroke 風險為缺血性腦中風 (非出血性),不過, 40 mIU/mL, E2 > 30 pg/mL Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -71,10 +83,6 @@ tags:
 - 3. 由於主動脈剝離侵犯到其他血管或是假腔壓迫真腔影響血流而引發器官灌流不足症狀(malperfusion syndrome): - (1) 冠狀動脈:缺血性心臟病。 - (2) 主動脈瓣:急性心衰竭。 - (3) 兩側頸動脈:腦中風。 - (4) 脊椎動脈:下半身麻痺 (paraplegia)。 - (5) 腎動脈:急性腎衰竭, oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (B) 9. 下列關於不停跳冠狀動脈繞道手術(off-pump coronary artery bypass grafting)的敘述,何者正確? ①須使用 heparin ②人工 心肺機不需待命 ③不須降低體溫 ④不會引發腦中風 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (3) 病人會合併其他部位的動脈異常,如冠狀動脈、大腦血管、腸動脈及腎動脈的 病變,因此會有高比例的心肌梗塞、腦中風或腎病變的可能。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- (4) 避免 stroke,可以從無名動脈對 carotid artery 灌流,維持腦部血流避免中風。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (D) 缺血性腦中風 (ischemic stroke) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- I. 缺血性腦中風 (Ischemic Stroke) 85 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- II. 出血性腦中風 (Hemorrhagic Stroke) 103 - A.介紹 103 - B. 腦出血 (Intracerebral hemorrhage, ICH) 104 - C. 蜘蛛膜下腔出血 (Subarachnoid hemorrhage, AH) 108 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 
@@ -83,11 +91,20 @@ tags:
 
 ## Related Pages
 
+- [[conditions/aphasia|Aphasia (失語症)]]
 - [[diagnostics/brain-computed-tomography|Brain computed tomography, brain CT (腦部電腦斷層)]]
 - [[diagnostics/brain-magnetic-resonance-imaging|Brain magnetic resonance imaging, brain MRI (腦部磁振造影)]]
 - [[anatomy/brainstem|Brainstem (腦幹)]]
+- [[diagnostics/brunnstrom-stage|Brunnstrom stage (Brunnstrom 中風動作恢復分期)]]
+- [[conditions/dysphagia|Dysphagia (吞嚥困難)]]
+- [[conditions/foot-drop|Foot drop (垂足)]]
+- [[conditions/hemineglect|Hemineglect (半邊忽略)]]
 - [[conditions/intracerebral-hemorrhage|Intracerebral hemorrhage, ICH (腦出血)]]
 - [[conditions/ischemic-stroke|Ischemic stroke (缺血性腦中風)]]
+- [[diagnostics/modified-ashworth-scale|Modified Ashworth scale, MAS (改良 Ashworth 痙攣量表)]]
+- [[conditions/poststroke-shoulder-pain|Poststroke shoulder pain (中風後肩痛)]]
+- [[conditions/spasticity|Spasticity (痙攣)]]
+- [[procedures/stroke-rehabilitation|Stroke rehabilitation (中風復健)]]
 - [[conditions/subarachnoid-hemorrhage|Subarachnoid hemorrhage, SAH (蜘蛛膜下腔出血)]]
 - [[conditions/transient-ischemic-attack|Transient ischemic attack, TIA (暫時性腦缺血發作)]]
 - [[concepts/upper-motor-neuron-lesion|Upper motor neuron lesion, UMN lesion (上運動神經元病灶)]]

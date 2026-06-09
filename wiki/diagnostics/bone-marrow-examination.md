@@ -64,6 +64,8 @@ sources:
   - "[[sources/med6-book2-ch08]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Bone marrow examination (骨髓檢查)'
   - 'Bone marrow examination'
@@ -78,7 +80,7 @@ tags:
 
 ## Summary
 
-骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -142,9 +144,14 @@ tags:
 - [[sources/med6-book2-ch08]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book3-ch01]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- 4. 吞嚥困難患者最令人擔心食物跑到氣管造成吸入性肺炎(吞嚥困難最常見併發症),可用來評估病人是否 aspiration 的臨床症狀有: - (1) Abnormal cough • - (2) Cough after swallow • - (3) Dysphonia (發聲困難)。 - (4) Dysarthria • - (5) Abnormal gag reflex • - (6) Voice change after swallow (wet voice) • Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- 6. 針對吞嚥困難的病患,需給予吞嚥訓練幫助其吞嚥以及避免 aspiration: - (1) 加強口腔運動控制功能:嘴唇、面頰、舌頭運動。 - (2) 利用檸檬冰塊(冰+酸)刺激兩側前咽門弓增加吞嚥反射敏感度。 - (3) 患者坐正(60~90 度),頭部前傾並下巴收攏(chin tuck),可使吞嚥時喉部抬高成為一保護的位置,讓食物只在口腔的前半段,防止食物的殘渣進入氣管,以維持食道通暢。Chin tuck 另可壓迫氣管使開口變小避免食物進入,亦可擴大會厭谿(vallecula)空間,可用於吞嚥反射較慢的病人。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 4. 藥物引起的白內障 (drug-induced cataract): 長期全身或局部類固醇、Chlorpromazine、Busulphan (治療慢性骨髓性白血病)、金、Allopurinol。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - (6) 黏滯性過高:如紅血球過多症(polycythemia)、骨髓瘤(myeloma)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 3. 克雷白氏肺炎桿菌(Klebsiella pneumonia):是台灣地區肝膿瘍的主要原因之一,常同時有糖尿病,此病會轉移至許多肝外器官,如肺、腎、骨髓、前列腺、眼部等。 眼部表徵以眼內炎為主,通常很嚴重,視力預後差。 - (1) 診斷:以眼組織細菌培養最能確診,但不易施行。故對有克雷白氏肺炎桿菌肝膿瘍的病患,一旦有眼部症狀即幾乎可確定罹病。對不明原因的內因性眼內炎也應安排腹部掃描。 - (2) 治療:需給予全身性抗生素(通常給第三代 Rocephin 以能通過 BBB) 和施予玻璃體內抗生素注射。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
@@ -160,9 +167,6 @@ tags:
 - ...| (軟骨為主) | | Metaphysis | Diaphysis 和 epiphysis 的過度區 | 其他 | | Diaphysis | 組織型態: 緻密骨 (compact bone) | 轉移性骨癌 | | | 構造中空,內有骨髓 | | Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (3) 影像:sessile(broad base,相對大的骨腫瘤基部,惡性化機會高)或 pedunculated(narrow stalk,相對較小的腫瘤基部),常長在骨的表面。腫瘤和皮質骨相連,腫瘤內部和骨髓腔連通。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - a. 腫瘤是從 bone marrow 長出來的,細胞切片型態是小小圓圓的 (small round cell),容易與 lymphoma 混淆,可藉由免疫染色法來區分。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (1) 治療轉子間骨折的基本原則是手術內固定合併復位(Sliding hip screwimplant):穩定型以滑動式髖關節螺絲釘(sliding hip screw,常用的為 dynamic hip screw (DHS))為內固定器的首選,不穩定型以 intramedullary hip screw (髖骨髓內釘)為內固定的首選。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (#) 2. 有關股骨頭缺血性壞死 (osteonecrosis of femoral head),下列敘 104(二)專 述何者最正確? 醫五-63 - (A) 股骨頭 X 光出現 subchondral cyst 是初期的變化 - (B) 當病人出現軟骨下崩塌(subchondral collapse)時,中心減 壓術(core decompression)是最好的治療方法 - (C) 最常見的原因是創傷性引起 - (D) 股骨頭內骨髓腔壓力 (intraosseous pressure) 通常不會升高 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (C) 目前前十字韌帶重建手術,最常使用的移植物之一是自體的骨髓骨韌帶(bone patella tendon bone) Source: [[sources/med5-book6-ch02|乙、膝關節]].
 
 ## Clinical Caveats
 

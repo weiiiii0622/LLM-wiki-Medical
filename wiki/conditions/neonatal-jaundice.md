@@ -7,6 +7,7 @@ sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch06]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Neonatal jaundice (新生兒黃疸)'
   - 'Neonatal jaundice'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-新生兒膽紅素上升可為生理性或病理性，需依日齡、風險因子與直接/間接 bilirubin 判讀。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+新生兒膽紅素上升可為生理性或病理性，需依日齡、風險因子與直接/間接 bilirubin 判讀。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch06]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- b. 徐動型(athetosis, 20%): 又稱做 Dyskinetic Cerebral Palsy, 為基底核受傷, 引起四肢或驅幹肌張力的不規則變化,大多時間會有不自主動作,例如臉部常出現鬼臉、口腔功能控制困難、嘴常張著流口水,進食發聲和說話也常有問題。不自主動作容易受情緒的影響,當情緒較激動時,不自主的動作會更明顯,放鬆時則會減緩。常伴隨聽障的情形。新生兒黃疸嚴重若未治療的話,膽紅素會沉積在基底核使其受損,稱作核黃疸(Kernicterus),會造成徐動型腦性麻痺。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- a. 約 20% 的 CP 患者有聽力障礙,最常見為高頻率耳聾,此類患者聽不到高頻率的聲音,但對低頻率的聲音則反應良好,好發於核黃疸造成的徐動型患者。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - A. 新生兒黃疸(Neonatal jaundice) 174 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - ### A. 新生兒黃疸 (Neonatal jaundice) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 2. 常見診斷: - (1) 生理性黃疸 (physiologic jaundice) - a. 最常見原因,約佔15%出生2週內足產兒新生兒黃疸原因。 - b. 臨床表現:出生2週內發生黃疸。 - c. 機轉 & 成因:為 I.B. 升高,因為不成熟的代謝酶影響膽汁代謝運送或排出減少,造成膽汁鬱積(cholestasis)。 - (2) 病理性高膽紅素血症(pathologic hyperbilirubinemia) - a. 臨床表現:出生2週內發生黃疸。 - b. 檢查 & 診斷: D.B. > 1 mg/dL 或 T.B. > 5 mg/dL 且 D.B. > 20%T. Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].

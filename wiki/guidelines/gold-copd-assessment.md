@@ -40,6 +40,7 @@ sources:
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book2-ch11]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)'
   - 'GOLD COPD assessment'
@@ -54,7 +55,7 @@ tags:
 
 ## Summary
 
-COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +95,13 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book2-ch11]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- 2. 肺部復健適用於 COPD、asthma、cystic fibrosis、interstitial lung disease、lung cancer、lung surgery 及 neuromuscular disease 等病人。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- 3. 肺部復健對 COPD 患者的好處: - (1) 台灣胸腔暨重症加護醫學會慢性阻塞性肺病診治指引(2007): 肺部復健對 COPD 之助益。(括號為證據等級) - a. 改善運動能力(level A)。 - b. 減少呼吸短促之感覺(level A)。 - c. 改善與健康相關的生活品質(level A)。 - d. 減少住院次數及住院日數(level A)。 - e. 減少 COPD 相關之焦慮及憂鬱 (level A)。 - f. 改善存活率(level B)。 - g. 在訓練期間結束後優點仍可持續(level B)。 - h. 心理支持是有助益(level C)。 - i. 呼吸肌之訓練是有助益(level C)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- 8. 長期氧氣治療: - (1) 肺疾患者(例如 COPD)進展到末期時,容易有低血氧的情形,甚至容易合併 酸血症,故會給予病患長期氧氣治療。 - (2) 目前大多數研究均指出氧氣治療可減輕呼吸困難、改善運動耐力和效能、減輕肺動脈高壓,降低死亡率減少住院次數改善運動量(增加耐力)、改善繼發性紅血球增多症(secondary polycythemia,因長期組織缺氧引起紅血球大量被製造)、改善生活品質。 - (3) 給氧原則為動脈血氧分壓不低於 60 mmHg,以及動脈血氧飽和度需大於 90% saturation。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...------|--------------------|-----------------|-----------------------------------| | β-blockers | - 效果長,通常一天點兩次 | 禁忌:氣喘、COPD、 | — non-selective: Timolol 、 | | | 或一次即可,且眼部副作 | Bradycardia、心臟傳 | Levobunolol carteolol | | | 用少。 | 導阻礙、心衰竭、低 | metipranolol | | | - 為第一線治療藥物。 | 血壓。 | - selective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - ·腹腔鏡是診斷的 gold standard;不過,肉眼辨識病灶的敏感度約 95%,故有不確定的病灶,仍需切片檢查 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 【詳解】由臨床症狀(經痛、性交疼痛、非經期腹痛)及超音波發現(均質毛玻璃樣囊腫),懷疑為子宮內膜異位症合併巧克力囊腫,腹腔鏡為診斷的 gold standard,故選(A)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -112,9 +117,6 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - (2) 在歐美為 gold standard 的篩檢工具,但由於亞洲女性乳房較為緻密,有時易受干擾,必須輔以乳房超音波協助診斷,或先以乳房超音波作為篩檢工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 【詳解】在歐美國家,乳房 X 光攝影為 gold standard 的篩檢工具,但由於亞洲女性乳房較為緻密,有時易受干擾,必須輔以乳房超音波協助診斷,或先以乳房超音波作為篩檢工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- 2. 見下表,以 AAA 為例,年齡、活動度、心臟(CAD、AMI等)、肺功能(FEV1、COPD)、腎功能、AAA 的 type 及肝功能等都會影響到手術的 mortality,其中以心臟(CAD) 為最主要的手術危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- 2. 診斷: - (1) Colonoscopy: Gold standard,可同時作 biopsy。 - (2) Flexible sigmoidoscopy • - (3) Air-contrast enema:可清腸且偵測阻塞的程度。 - (4) Proctoscopy with rigid sigmoidoscopy: 可偵測 50% 的結腸癌,如果是用 flexible sigmoidoscopy 可偵測到 75% 的結腸癌。 - (5) DRE:可檢查直腸腫瘤大小、ulceration、local invasion、lymph node。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- ...同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPI Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 
 ## Clinical Caveats
 

@@ -18,6 +18,7 @@ sources:
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book2-ch07]]"
   - "[[sources/med6-book2-ch08]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Toxoplasmosis (弓漿蟲感染)'
   - 'Toxoplasmosis'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成多發性中樞神經病灶。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book2-ch07]]
 - [[sources/med6-book2-ch08]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- b. 其他像是子宮內感染(rubella、CMV、toxoplasmosis和syphilis)、產程中缺氧、腦炎或腦膜炎也會造成聽力障礙。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 4. 弓漿蟲病(toxoplasmosis): 由弓漿蟲(Toxoplasma gondii)引起的感染。 - (1) 眼部症狀:視力下降、飛蚊症、疼痛、畏光等,大部份無明顯症狀,故時常被 忽略而延誤治療時機。 - (2) 眼部病變:局部性壞死性視網膜脈絡膜炎、血管炎、玻璃體炎、前葡萄膜炎 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (3) 診斷: 典型眼底病變加上免疫血清檢查抗弓漿蟲抗體 IgG 陽性。另外,若抽前 房水將之與血清抗體 IgG 比較效價大於 8, 更具參考價值。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (4) 治療:若病灶較小且位於較周圍遠離黃斑部,視力通常會自癒。較嚴重的需使用抗弓漿蟲藥物治療(Pyrimethamine、Sulfadiazine)及類固醇(prednisolone)治療六週。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
@@ -70,7 +73,6 @@ tags:
 - ...發 | 貧血、 | 發燒時血液抹片鏡檢 | | | | | | la alle | 脾腫大 | | | | | 三日瘧 | 72 小時發燒, 使 RBC 縮小→ | 少再發 | A TREES T | 發燒時血液抹片鏡檢 | | 組織 | 弓漿蟲 | | 貓糞(囊體),豬肉(假囊體) | →速殖子→緩殖子(假囊體的 | 肺,腦) | 生檢蟲體 | Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - ## B. 弓漿蟲 (Toxoplasma gondii) Source: [[sources/med3-book3-ch21|丑、原 蟲]].
 - ...醫三-62 | | | (B) doxycycline | | | | (C) Malarone (atovaquone/proguanil) | | | | (D) quinine | | | (D) | 4. 下列各項有關弓形蟲感染症(Toxoplasma infection)之敘述,何者最不適當? | 103(二)專醫三-64 | | | (A) 可經由食入、輸血、或接受器官移植而感染 | | | | (B) 免疫功能正常的人感染弓形蟲,通常是沒有症狀 | | | | (C) 免疫功能正常成人,有症狀之急性弓形蟲感染的主要臨床表現為頸部淋巴病變 | | | | (D) 先天性弓形蟲感染大多是孕婦懷孕過程中再次感染所引發 | | | | 【詳解】孕期初次感染弓漿蟲才會造成先天性感染。 | Source: [[sources/med3-book3-ch21|丑、原 蟲]].
-- Toxoplasmosis of brain Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
 
 ## Clinical Caveats
 

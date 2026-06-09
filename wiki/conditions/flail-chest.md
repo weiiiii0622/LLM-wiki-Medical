@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Flail chest (連枷胸)'
   - 'Flail chest'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-多根相鄰肋骨多處骨折造成胸壁游離段與 paradoxical movement，可合併 pulmonary contusion 與呼吸衰竭。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多根相鄰肋骨多處骨折造成胸壁游離段與 paradoxical movement，可合併 pulmonary contusion 與呼吸衰竭。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (A) 連枷胸(flail chest) 發生可能性很高 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - B. 連枷胸 (Flail chest) 114 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].

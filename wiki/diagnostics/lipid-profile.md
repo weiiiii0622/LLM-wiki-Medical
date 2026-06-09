@@ -23,6 +23,7 @@ sources:
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Lipid profile (血脂檢查)'
   - 'Lipid profile'
@@ -37,7 +38,7 @@ tags:
 
 ## Summary
 
-血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂檢查用於 ASCVD 風險與治療目標追蹤。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +61,11 @@ tags:
 - [[sources/med5-book3-ch17]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (3) 減重、降低 LDL 和 TG、提高 HDL。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...| | | ultrasound criteria | ( > 10 mL) • | | | 註 4: 代謝性症候群 | 下列 5 項符合 3 項者,即可診斷代謝性症候群 | | | 診斷標準 | ・腰圍> 88 cm | | | | ・ 三酸甘油脂≧ 150 mg/dL | | | | ・ 高密度脂蛋白 Definition | Clinical Hyperandrogenism (Ferriman-Gallwey Score ≥ 8) or Biochemical Hyperandrogenism (Elevated Total/Free Testosterone) | Oligomenorrhea(Less Than 6-9Menses per Year)orOligo-Ov Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (1) estrogen 會影響脂肪代謝(增加 HDL、減少 LDL)、減少胰島素抗性和增加動脈血流,因此更年期後冠心病風險會增加。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (B) 女性荷爾蒙有降低 LDL 的效果,所以可用於預防心血管疾病 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -80,7 +83,6 @@ tags:
 - b. 腹膜透析也比血液透析常合併血脂異常,建議以 HMG CoA reductase 將 LDL 控制到 100 以下。 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - ...|--------| | | (A)糖尿病病人使用腹膜透析血糖控制較不易 | 醫三-26 | | | (B) 腹膜炎發生的機率每 12 個人月 (patient-month) 發生一次是可以接受的 | | | | (C) 治療後 1 年通常三酸甘油脂會明顯上升 | | | | (D) 與血液透析比較,這些病人的血清白蛋白值通常較低 | | | | 【詳解】本題一律給分。 | | | (D) | 12. 腹膜透析病人發生腹膜炎時一般不會有那個徵象? | 98(一)專 | | | (A) 渾濁的透析液 | 醫三-25 | | | (B) 腹痛 | | | | (C) 腹膜透析流出液之白血球數 > 100 per microliter | | | | (D) 腹膜透析脫水量增加 | | Source: [[sources/med3-book3-ch06|己、透析治療]].
 - (B) 1. 一位 18 歲男性大學新生,一星期前入學體檢報告正常。三天前參加新生盃籃球比賽後關節酸痛,自行購買止痛藥(diclofenac)服用後開始出現小便泡沫與腳腫,故至門診求診。無嘔吐、腹瀉、發燒與頻尿症狀。理學檢查發現:血壓 160/90 mmHg,呼吸速率每分鐘 20下,四肢出現紅疹,雙下肢 4+ 水腫。血液檢查:尿素氮(BUN)52mg/dL、肌酸酐:2.0 mg/dL,白蛋白 1.8 g/dL,白血球 7,000/μL,血色素 10.2 g/dL,膽固醇 320 mg/dL,三酸甘油脂(triglyceride)260mg/dL。尿液檢查:紅血球 2~3 顆/HPF,白血球 3~5 顆/HPF,尿液總蛋白質與肌酸酐比值為 12 g/g Cr。下列何項為最可能的診斷? Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...些 Lipoprotein 有關 | 特性 | | | |----------------------|-------------------------|----------------------------|--|--| | A-I HDL, Chylomicron | | ⊕ LCAT | | | | B-48 | Chylomicron | 腸製造,只在 Chylomicron 中 | | | | B-100 | IDL, LDL, VLDL | 肝製造,可接到 LDL receptor | | | | C-I | Chylomicrons, VLDL, HDL | ⊕ LCAT | | | | C-II | Chylomicrons, VLDL, HDL | ⊕ L Source: [[sources/med3-book2-ch12|己、脂肪代謝異常]].
 
 ## Clinical Caveats
 

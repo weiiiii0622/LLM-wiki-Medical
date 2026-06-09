@@ -16,6 +16,7 @@ sources:
   - "[[sources/med4-book1-ch04]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Interstitial lung disease (間質性肺疾病)'
   - 'Interstitial lung disease'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-限制型通氣障礙與擴散能力下降相關的肺間質疾病群。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+限制型通氣障礙與擴散能力下降相關的肺間質疾病群。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med4-book1-ch04]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- 2. 肺部復健適用於 COPD、asthma、cystic fibrosis、interstitial lung disease、lung cancer、lung surgery 及 neuromuscular disease 等病人。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...副作用會掉髮。 - (ii) 阻止細胞週期(mTOR inhibitor): Sirolimus(Rapamune® 1 mg)、Everolimus(Certican® 0.25 mg)。副作用是會骨髓抑制及傷口癒合不佳,罕見但最嚴重的是間質性肺炎,可致死。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - O. 間質性肺病 (Diffuse lung disease) 56 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ### O. 間質性肺病 (Interstitial lung disease) Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -66,7 +69,6 @@ tags:
 - ...pecific interstitial pneumonia (NSIP), Cryptogenic organizing pneumonia (COP) | | 抽菸相關 | Respiratory bronchiolitis (RB)/ILD, 形態學上稱 Desquamative interstitial pneumonia (DIP) | | 其他 | Lymphoid interstitial pneumonia (LIP), Acute interstitial pneumonia (AIP) | Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
 - | 情形 | DLCO | VA | DLCO/VA | |-----------------|----------|-------------|--------------| | 肺部擴張不全(神經肌肉無力等) | ↓ | ↓ ↓ ↓ | ↑ ↑ | | 肺泡減少(肺部切除手術) | ↓ ↓ | ↓ ↓ ↓ | ↑ | | 肺泡單位遺失(間質性肺病) | ↓ ↓ ↓ | ↓ ↓ | ↓ | | 肺氣腫 | ↓ ↓ ↓ | Normal to ↓ | ↓ ↓ | | 肺血管病變 | ↓ ↓ | Normal | ↓ ↓ | | 肺血流增加(心臟衰竭) | 1 | Normal | 1 | | 肺泡出血 | 1 1 | ↓ | ↑ ↑ ↑ | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 - | 分 類 | 疾病 | 肺功能 | | 順應性 | |------------------------------|--------------------------------------|---------------------------------------|--------------|----------------| | 阻塞性肺疾Obstructive disease | 氣喘 (Asthma)慢性阻塞性肺疾 (COPD) | (FEV 1 /FVC) ↓( (肺氣腫) | | 限制性肺疾Restrictive disease | 間質性肺疾(Interstitial lung disease) | (FEV₁/FVC) ↑ | TLC ↓ | 順應性降低 | Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- c. 網(Fine reticular pattern):間質性肺病(Interstitial lung dz.)等。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
 
 ## Clinical Caveats
 

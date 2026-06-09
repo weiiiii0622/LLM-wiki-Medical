@@ -30,6 +30,7 @@ sources:
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Syphilis (梅毒)'
   - 'Syphilis'
@@ -44,7 +45,7 @@ tags:
 
 ## Summary
 
-Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +75,11 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch07]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- b. 其他像是子宮內感染(rubella、CMV、toxoplasmosis和syphilis)、產程中缺氧、腦炎或腦膜炎也會造成聽力障礙。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 2. 梅毒(syphilis): 因感染梅毒螺旋體(*Treponema pallidum*)造成,分為先天性經母體感染或後天性感染。梅毒所併發的眼睛症狀可以相似於其他許多眼疾,且相當多樣化,因此被稱為偉大的模仿者(the great imitator)。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - a. 先天性梅毒:患者有 70% 會發生眼睛症狀,最常見的是間質性角膜炎 (interstitial keratitis),一般認為是對病原體的免疫反應導致。眼底則呈現「鹽 巴與胡椒狀」(salt and pepper fundus)。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - b. 後天性梅毒:眼部症狀多發生在第二期以後,表徵多樣化:眼瞼炎、鞏膜炎、 角膜炎、虹彩炎、葡萄膜炎、視網膜炎、視神經病變等。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
@@ -94,7 +97,6 @@ Treponema pallidum 性傳染病，分期影響表現與治療策略。 本頁已
 - (C) 3. 下列何者與神經性梅毒 (neurosyphilis) 較無關? Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - | (D) | 6. 對於神經性梅毒(neurosyphilis)的敘述,下列何者正確? (A) 若測得病患血中的 VDRL(Veneral Disease Research Laboratory) | 108(一)專醫四-60 | |-----|---------------------------------------------------------------------------------------------|--------------| | | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 - 2. 上述的認知障礙已造成社交或工作上困擾,且是漸進、持續地變差 (gradual onset and continuing cognitive decline),且須: - (1) **安排電腦斷層(CT)或磁振造影(MRI)排除**其它會導致記憶和認知障礙的中樞神經疾病,如:腦血管疾病、帕金森氏病、漢汀頓氏病、硬膜下血腫、常壓性水腦症、腦瘤等; - (2) **抽血檢查排除**會造成記憶和認知障礙的之全身性狀況,如:甲狀腺機能低下、 B12 或葉酸缺乏症、高血鈣、神經梅毒、愛滋病毒感染等。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...d traun | na ("Dementia pugilis | tica" with parkinsonian features) | | Infectious | Postencephalitic PD | | | | | Neurosyphilis | | | | Metabolic | Hypoparathyroidism or pseudohypoparathyroidism with basal ganglia calcifications Non-Wilsonian hepatolenticular degeneration | | | | Drugs | Neuroleptics (typical antipsychotics) \ Some atypical anti Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

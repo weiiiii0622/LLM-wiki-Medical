@@ -45,6 +45,7 @@ sources:
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Lung cancer (肺癌)'
   - 'Lung cancer'
@@ -59,7 +60,7 @@ tags:
 
 ## Summary
 
-肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺部惡性腫瘤，需依組織型、分期與分子標記治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -104,9 +105,12 @@ tags:
 - [[sources/med5-book6-ch07]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- 2. 肺部復健適用於 COPD、asthma、cystic fibrosis、interstitial lung disease、lung cancer、lung surgery 及 neuromuscular disease 等病人。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 3. 視網膜的轉移性腫瘤:最常見的轉移性腫瘤在女性來自乳癌;在男性則來自肺癌。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...d adenoma) | | | 最常見的原發性惡性 | 淚腺腺狀囊樣癌 (adenoid cystic | 横紋肌肉瘤 | | 腫瘤 | carcinoma) | (rhabdomyosarcoma) | | 最常見的轉移性惡性 | 男:肺癌 | 神經母細胞瘤 | | 腫瘤 | 女:乳癌 | (neuroblastoma) | | 小孩最常見的續發性 | | 視網膜胚母細胞瘤 | | 惡性腫瘤 | | (retinoblastoma) | Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (D) 4. 下列有關肺癌轉移到股骨近端,並引起轉子間部位病理性骨折時 98(二)專 的敘述,何者正確? Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
@@ -123,8 +127,6 @@ tags:
 - (C) 在次發性惡性心包膜積液 (secondary malignant pericardial effusion)的病人中,男性及女性皆以肺癌最為常見 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 2. 病因: - (1) 醫源性(iatrogenic): 最常見的原因,長期服用含類固醇的止痛藥所致,造成體內 glucocorticoid 過量。 - (2) Cushing disease: 佔非醫源性病患 65~70%。腦下垂體前葉腺瘤或是增生,過度分泌 ACTH,造成雙側腎上腺增生,分泌過量 cortisol。 - (3) 腎上腺腫瘤:佔非醫源性病患 10~20%。Adrenal adenoma 或 carcinoma,不受 ACTH 控制,分泌大量 cortisol。ACTH 反而因受到回饋抑制而濃度降低,腫瘤 周圍的正常腎上腺皮質也會萎縮。 - (4) 異位性(ectopic) ACTH:身體其他部位有會分泌 ACTH 的來源,例如小細胞 肺癌、類癌、胰臟癌、胸腺癌、甲狀腺髓質癌。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - ...極處理。 | | | (D) 18 | . 下列何種情況對於受腎者而言是腎臟移植手術的禁忌? | 99(二)專 | | | (A) 糖尿病 | 醫五-2 | | | (B) 受腎者年齡大於 50 歲 | | | | (C) 10 年前曾接受肺癌手術 | | | | (D) 慢性骨髓炎 | | | | 【詳解】慢性骨髓炎歸類為無法控制的感染,故為禁忌症。 | | | (B) 19 | . 下列有關主要組織相容性複合體(major histocompatibility)之敘 | 99(二)專 | | | 述,何者錯誤? | 醫五-3 | | | (A) CD4+T細胞可辨認結合第二類 MHC 分子的胜肽 | | | | (B) CD8+T細胞為第二類 MHC 限制性 | | | Source: [[sources/med5-book1-ch06|己、移植外科]].
-- ...C) 24. 下列關於脊椎病理性骨折(pathologic fracture)的敘述,何者錯誤? | 104(二)專 | | (A) 多為轉移性腫瘤(metastatic tumor)造成 | 醫五 -12 | | (B) 常見的腫瘤來源為肺癌、乳癌等 | | | (C) 判斷腫瘤對於脊髓壓迫的嚴重程度時,CT 比 MRI 更適合 | | | (D) 當病患下肢日漸無力或有大小便失禁等症狀時應考慮手術 | | | 減壓 | | | (C) 25. 有關脊椎損傷,下列何者錯誤? | 104(二)專 | | (A) 只要下肢仍有感覺就屬於不完全性的損傷 | 醫五 -75 | | (B) Central cord syndrome 指病人理學檢查時上肢比下肢無力 | | | (C) Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- 7. 轉移癌:轉移自肺癌、乳癌、腎臟、腸胃道或淋巴癌。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 
 ## Clinical Caveats
 

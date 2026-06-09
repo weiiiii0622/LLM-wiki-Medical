@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Skull fracture (顱骨骨折)'
   - 'Skull fracture'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-顱骨骨折可提示高能量外傷，需注意 CSF leak、血管損傷與顱內出血。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱骨骨折可提示高能量外傷，需注意 CSF leak、血管損傷與顱內出血。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...late PTS 的機會。 - b. 創傷後癲癇的好發期為創傷後2年內,其中有80%在第一年內發生。 - c. 發生 Late PTS 的危險因子有:穿透性傷害(penetrating injury)、early seizures、 凹陷性顱骨骨折、急性顱內血腫、曾意識喪失或受傷後失憶症超過 24 小時、 硬腦膜撕裂、出現異物、focal sign (Aphasia 或 Hemiplegia)、年紀大於六十五歲。 - d. 創傷後一週內給予 phenytoin 或 valporic acid 能有效降低 early PTS 的機會,不過長期使用抗癲癇藥物對於預防 late PTS 的效用不顯著。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (B) 出血的來源多半為顱骨骨折造成腦膜動脈破裂而成 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - E. 疑似 open 或是 depressed skull fracture Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (C) 顱骨頂骨骨折(parietal skull fracture) Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].

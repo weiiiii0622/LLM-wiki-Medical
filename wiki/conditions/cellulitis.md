@@ -19,6 +19,7 @@ sources:
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch14]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book3-ch04]]"
 aliases:
   - 'Cellulitis (蜂窩性組織炎)'
   - 'Cellulitis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch14]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book3-ch04]]
 
 ## Key Details From Sources
 
+- (3) 臨床症狀: - a. 急性期:殘肢會水腫、疼痛、皮膚會變硬 也變厚。殘肢表面易生水泡也也容易感染 產生蜂窩性組織炎。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - | 年齡 | 單/雙側 | 常見原因 | |-----|------|-----------------| | 成人 | 雙 側 | 甲狀腺眼症>眼窩腫瘤、眼窩發炎 | | 小 孩 | 雙 側 | 轉移性惡性腫瘤>顱顏面骨畸形 | | 成人 | 單 側 | 甲狀腺眼症 | | 小孩 | 單 側 | 眼窩蜂窩性組織炎>眼窩腫瘤 | Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (1) 軟組織侵犯:眼瞼和眼眶周圍水腫、眼瞼下垂、結膜水腫或充血。原因包含甲 狀腺眼症、眼眶蜂窩性組織炎等。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: [[sources/med6-book2-ch15|卯、眼眶]].

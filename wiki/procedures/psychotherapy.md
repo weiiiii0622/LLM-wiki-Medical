@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med4-book3-ch07]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Psychotherapy (心理治療)'
   - 'Psychotherapy'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-透過治療關係、認知行為、支持與人際介入改善症狀、功能與復健。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+透過治療關係、認知行為、支持與人際介入改善症狀、功能與復健。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book3-ch02]]
 - [[sources/med4-book3-ch07]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (2) 第二期:從出院一直到出院後三到六個月左右,根據病患的疾病危險程度給予 適當的運動復健計畫,改善心臟和骨骼肌肉系統的功能,以幫助病患早日回到 正常生活或是工作崗位。此時期是恢復的黃金時期,復健效果最好,病患在飲 食諮詢、心理、衛教和社會資源方面,皆須有賴營養師、心理治療師、藥師及 社工人員的幫助。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - a. 非手術 (non-surgical): - (a) 生活型態改變、藥物調整、心理治療。 - (b) 口服藥物治療: - i. Phosphodiesterase (PDE) inhibitors: 與 ED 最 相 關 是 type V (PDE V),經由 NO pathway 使 cGMP 增加,達到血管擴張的效果。現有 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - 1. 心理治療:由一位醫師持續照顧,以減少病人到處 hospital shopping,以包容的 方式接納病人的症狀表現,不要駁斥其真實性,同時要避免不必要至醫療檢查或 處置。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - 1. 非藥物治療:如行為治療或病識感導向(insight-oriented psychotherapy)心理治療可以加速病情的恢復。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].

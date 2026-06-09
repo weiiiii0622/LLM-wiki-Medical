@@ -56,6 +56,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Jaundice (黃疸)'
   - 'Jaundice'
@@ -70,7 +71,7 @@ tags:
 
 ## Summary
 
-黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黃疸依 bilirubin 類型與肝前、肝內、肝後原因分類。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -126,9 +127,12 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch05]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- b. 徐動型(athetosis, 20%): 又稱做 Dyskinetic Cerebral Palsy, 為基底核受傷, 引起四肢或驅幹肌張力的不規則變化,大多時間會有不自主動作,例如臉部常出現鬼臉、口腔功能控制困難、嘴常張著流口水,進食發聲和說話也常有問題。不自主動作容易受情緒的影響,當情緒較激動時,不自主的動作會更明顯,放鬆時則會減緩。常伴隨聽障的情形。新生兒黃疸嚴重若未治療的話,膽紅素會沉積在基底核使其受損,稱作核黃疸(Kernicterus),會造成徐動型腦性麻痺。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- a. 約 20% 的 CP 患者有聽力障礙,最常見為高頻率耳聾,此類患者聽不到高頻率的聲音,但對低頻率的聲音則反應良好,好發於核黃疸造成的徐動型患者。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - | Hemolysis | • serum bilirubin $\geq 1.2 \text{ mg/dL}$ | |-----------------------|-----------------------------------------------------------| | | • serum haptoglobin $\leq$ 25 mg/dL 或 serum LDH $\geq$ 正常 | | | 上限值的兩倍 | | | · 週邊血液抹片出現血球裂片 (schistocy Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...生產 | · 生產傷害、剖腹產及器械性生產 (如 vacuum、forceps)機率高 | | | | 新生兒 | · 三高二低:呼吸窘迫症候群、紅血球增多症 (polycythemia) 和高膽紅 | | | | | 素血症 (hyperbilirubinemia)、低血糖、低血鈣 | | | | | ・心肌病變、新生兒死亡 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (B) 孕婦血清直接膽紅素 (direct bilirubin) Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
@@ -145,8 +149,6 @@ tags:
 - c. 經皮穿肝膽道攝影(Percutaneous Transhepatic Cholangiogram, PTC): - (a) 經評估後,病人不適用 ERCP 時可改採用 PTC。 是用細針直接經由皮膚將 顯影劑打入肝管內進行 X 光的攝影檢查。 - (b) 若病情需要,可暫時放入 一條引流管,將膽汁引流 出來,以改善黃疸或阻塞 現象,也稱為經皮穿肝膽 道引流術(PTCD)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - 1. 肝外膽管癌較容易造成 obstructive jaundice 的症狀 - (1) 黃疸。 - (2) 茶褐色尿液。 - (3) 灰白便、皮膚癢。 - (4) 腹痛。 - (5) 虚弱無力。 - (6) 體重下降。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - 5. 經皮穿肝膽道攝影 (PTC): 可觀察阻塞的位置,當病人有嚴重的 obstructive jaundice 時,也可進行膽汁引流來改善黃疸的狀況。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- (B) 超過 90% 遠端或肝門處膽管癌病患之臨床表現為阻塞性黃疸 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 
 ## Clinical Caveats
 

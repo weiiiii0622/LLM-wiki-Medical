@@ -72,6 +72,7 @@ sources:
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book2-ch02]]"
   - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Myasthenia gravis, MG (重症肌無力)'
   - 'Myasthenia gravis, MG'
@@ -86,7 +87,7 @@ tags:
 
 ## Summary
 
-神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -158,9 +159,13 @@ tags:
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book2-ch02]]
 - [[sources/med6-book2-ch14]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...n velocity)去評估是否有神經軸突病變(axonopathy)或髓鞘病變(demyelination)。 - (1) 髓鞘病變可見潛期延長或傳導速度變慢;軸突病變可見振幅或表面積減小。 - (2) 檢查時機:為了鑑別診斷特殊疾病如 MG,因軸突受損需要大約2週才完成, 一般建議周邊神經受傷後2~3週進行第一次 NCV/EMG 檢查(太早做因神經還 沒死完全其結果可能會正常而誤導判斷),主要目的要評估神經受損程度和定位 神經受損的高度和層級。而2~3個月後進行第二次 NCV/EMG 檢查,主要目的 要觀察是否有神經再支配(reinnervation)的現象並評估其預後,後續追蹤則因 人因病而異。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
+- ...性活動電位,肇因於肌纖維去神經現象或是 acetylcholine 不正常釋放,在神經受傷後 2~3 週才會出現,可見於神經病變(radiculopathy、plexopathy、peripheral neuropathy)、NMJ 病變(Myasthenia gravis、botulism)或是肌肉病變(muscular dystrophy、polymyositis、dermatomyositis)。 - \*Fib 的聲音像 "rain on a tin roof" (兩下在屋頂的聲音)、PSW 的聲音像 "dull thud or shug" (沉重的砰擊聲)。 - ii. 複雜重覆放電波(complex repetitive discharge, CRD): 一群肌纖維同時以相同頻率反覆放電所形成 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
+- 1. 主要用於診斷 neuromuscular junction 異常之疾病,例如重症肌無力、肉毒桿菌症(Botulism)、Lambert-Eaton myasthenic syndrome 等。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - (1) 雙眼複視可能與眼外肌和腦神經病變相關:如重症肌無力、後天性斜視(如外傷性斜視)、甲狀腺眼症、腦中風、腦瘤、動脈瘤等。雙眼同時看時會出現複視,而把有問題的眼睛遮住,單眼看時,複視即消失。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 1. 重症肌無力 (myasthenia gravis): - (1) 簡介:為自體免疫疾病,最初症狀多在眼睛,主要為眼瞼下垂與複視;其次為口咽部肌肉無力,主要為吞嚥、說話、及咀嚼困難;再來為四肢及軀幹無力。有些病人伴隨有胸腺瘤(thymoma)或紅斑性狼瘡等。重症肌無力症可分為眼肌型重症肌無力症(ocular myasthenia gravis)及全身型重症肌無力症(generalized myasthenia gravis)。 - (2) 臨床症狀 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...eurogenic) | (myogenic) | (最常見) | (mechanical) | | 疾病 | (1) 動眼神經麻痺(2) Horner 氏症候群(3) *Marcus Gunn 氏jaw-winking 症候群 | (1)重症肌無力(2)肌肉失養症(3)眼球肌病變 | (1) 退化性 (老化)(2) 術後註:此指提上眼瞼肌的腱膜 | (1) 皮膚鬆垂(2) 腫瘤(3) 結疤 | Source: [[sources/med6-book2-ch02|乙、眼瞼]].

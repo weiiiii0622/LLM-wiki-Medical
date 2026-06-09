@@ -16,6 +16,7 @@ sources:
   - "[[sources/med6-book1-ch13]]"
   - "[[sources/med6-book1-ch12]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Multiple sclerosis, MS (多發性硬化症)'
   - 'Multiple sclerosis, MS'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - [[sources/med6-book1-ch13]]
 - [[sources/med6-book1-ch12]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- ii. 肌束陣彎(myokymia): 為一群運動單元連續反覆放電引起肌肉慢速收縮,該肌肉上的皮膚看到蠕動的情形,見於神經病變,分為臉部肌束陣彎(multiple sclerosis、brainstem neoplasm、Bell's palsy)和肢體肌束陣彎(radiation plexopathy、compression neuropathy、響尾蛇咬傷中毒)。 - \*聲音像 "marching soldiers" (正步走的士兵的腳步聲)。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - 3. 視神經炎 (optic neuritis): - (1) 簡介:常發生於 20 至 45 歲之女性。約 20~40% 的病人會合併多發性硬化症 (multiple sclerosis),少數為病毒感染的後遺症或其它免疫疾病造成。 - (2) 分類:依發生部位分為 - a. 視神經乳頭炎 (papillitis):約佔視神經炎 35% - (a) 原因:各種感染及眼窩、鼻竇、顱底的發炎,紅斑性狼瘡等自體免疫反應及甲醇、鉛等中毒,但大多數找不到原因,常發生於小孩。 - (b) 眼底表現:視神經盤水腫充血,邊界模糊,視杯變平。長期不會變 MS。 - b. 球後視神經炎 (retr Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...internuclear | | 轉動,且對側眼往顳 | longitudinal fasciculus) 受 | | ophthalmoplegia) | | 側轉動(外展)時會 | 到侵犯所致 | | | | 有眼球震顫 | -年輕人:多發性硬化症 | | | | | -老人:腦幹缺血性病變 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...| 神經性括約肌功能缺損 | 神經性(薦椎病灶) | | 急尿型 | 膀胱不穩定或逼尿肌不穩定 | 無神經病灶 | | (urge) | (detrusor instability) | | | | 逼尿肌過度反射 | 神經性病灶:中風、多發性硬化症 | | | (detrusor hyperreflexia) | (multiple sclerosis) 和上脊索病灶等 | | | 逼尿肌括約肌不協調 | | | | (detrusor sphincter dyssynergia) | | | 溢流性 | 逼尿肌收縮不全 | 神經性(下脊索病灶和神經病變等) | | (overflow) | 出口堵塞 | 手術 | Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].

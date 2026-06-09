@@ -21,6 +21,7 @@ sources:
   - "[[sources/med5-book4-ch08]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch18]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Lactic acidosis (乳酸中毒)'
   - 'Lactic acidosis'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+組織缺氧、敗血症或藥物等造成 lactate 增加，是高陰離子間隙代謝性酸中毒常見原因。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,11 @@ tags:
 - [[sources/med5-book4-ch08]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch18]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- · Minute volume decrease of 2.5 L/min per blood lactate decrease of 1 mEq/L (normal: minute volume decrease of 7.2 L/min per blood lactate decreased of 1 mEq/L) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (B) 在輸液選擇方面, saline 優於 lactated Ringer's solution Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (A) 若使用單極電刀,則子宮擴張液應使用含離子之液體,如乳酸林格氏液(lactated Ringer's solution) Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
 - 【 詳解 】 需快速輸注量為 $15~kg \times 20~mL/kg = 300~mL$ ,常見 crystalloid fluid 為 normal saline 或 lactate ringers。(A) Gelofusion 不建議使用。(B) 輸血為最後選項。(C) 輸液量不足。(D) 為正確 答案。 Source: [[sources/med5-book4-ch08|甲、概 論]].
@@ -76,7 +79,6 @@ tags:
 - 1. 定義: 造血幹細胞受傷或損失導致下列至少兩項: - (1) ANC : $ and thrombocytopenia (platelet count - b. A raised lactate dehydrogenase (LDH) and/or direct bilirubin level Source: [[sources/med4-book1-ch08|辛、血液學]].
 - ...cyte 3.8%,band 6.7%,segmented neutrophil 37.1%,lymphocyte 31.4%。血紅素 9.7 g/dL,血小板 55,000/μL,尿酸 12.1 mg/dL(參考 區間 2.6~7.5),lactate dehydrogenase(LDH)2,342 U/L(參考區間 140~271)。其骨髓細胞顯示如下圖。染色體有 t (2;8) (p12;q24) 之 變化。以下關於這位病人最可能的疾病之診斷與治療,何者錯誤? 108(二)專 醫三-37 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
 - ...一位 20 歲男性發現有睪丸腫瘤,下列血液檢查何者是不需要的? (A) prostate specific antigen (B) α-fetoprotein (C) β-human chorionic gonadotropin (D) lactate dehydrogenase | 101(二)專醫三-40 | | Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
-- 1. 高陰離子間隙代謝酸:要想到有多餘的陰離子堆積,可分三個方向記憶: - (1) 測 Ketone body、Lactate acid 檢視是否有 Ketoacidosis、Lactic acidosis。 - a. 酮酸中毒(Ketoacidosis):因身體無法消耗醣類、或醣類以消耗殆盡,轉而消耗脂肪產生酮體(Ketone body);可能發生在 DM 病人、酗酒、過度肌餓等, - b. 乳酸中毒(Lactic acidosis):要想到末梢循環不良導致細胞無氧呼吸,可能發生在敗血症(Sepsis)或心、肺衰竭的病患身上。 - (2) 測 Cr 檢視是否 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

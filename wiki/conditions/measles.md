@@ -20,6 +20,7 @@ sources:
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book2-ch07]]"
   - "[[sources/med6-book2-ch08]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Measles (麻疹)'
   - 'Measles'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-高度傳染性病毒感染，表現發燒、咳嗽、結膜炎、Koplik spots 與全身斑丘疹。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高度傳染性病毒感染，表現發燒、咳嗽、結膜炎、Koplik spots 與全身斑丘疹。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book2-ch07]]
 - [[sources/med6-book2-ch08]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- 2. 腦性麻痺通常發生於子宮內、生產過程或出生後三年內發生的,原因如下: - (1) 出生前:母親智能障礙、癲癇、懷孕期間感染疾病或服用的藥物所引起,例如: 德國麻疹、帶狀皰疹、輻射線、缺氧、先天腦部畸形、孕婦於懷孕期間無法有 效控制糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(sp Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - ...,就會明顯降低視力,嚴重時甚至可以導致失明。原因可分為三類:遺傳因素、先天代謝異常、母親因素(如母親懷孕期感染或服用特定藥物等)。 - (1) 單眼的先天性白內障(佔 1/3) 較常是偶發性,主要與眼球發育異常或是外傷和 感染(如先天性德國麻疹感染)有關。 - (2) 雙眼先天性白內障則較常與顯性遺傳(具家族史)有關,其中約60%病患可發現患有先天性代謝疾病(如半乳糖血症 galactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinop Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - ...狀。 ・身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 ・實驗室檢查:血液常規(WBC, RBC, Plt, Hct, Hb, MCV)、血型、Rh 因子、B型肝炎(HBsAg, HBeAg)、梅毒(VDRL)、德國麻疹(Rubella IgG)、HIV、尿液常規。 二、例行產檢。 註:若德國麻疹抗體檢查呈陰性之孕婦,宜在產後注射德國麻疹疫苗 ※預產期評估(Naegele's rule):LMP 日期,月+9,日+7+(週期-28) | | | | | 第2次 | | 16 週 | 例行產檢。 | | | | | 第3次 | | 20 週 | • 例行產檢。 | | | | | | 期,妊娠 | | • 超音波檢查。 | | | | | | 17 週至 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -74,7 +77,6 @@ tags:
 - ...olsky's sign(+) | | where) | blister | | | 類天疱瘡 | 緊繃的水泡發紅 | +/- | 皮膚皺摺處 | Subepidermal | IgG/C3 linear | | (Bullous | 、蕁麻疹樣變化 | (約 | (flexural | blister | at epidermal | | pemphigoid) | (Tense bullae on | 10% | area)、任何 | | basement | | | skin with | +) | 部位 (any- | | membrane | | 1 | erythematous and | | where) | | | | | urticarial papules Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (B) 初期可以搔癢、蕁麻疹樣的病灶表現 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - 3. 診斷標準:如果病童有突發性的高燒,持續五天以上,加上下列五項中,至少其中 四項符合才可診斷: - (1) 手腳之紅斑、浮腫或皮膚脫屑,特別是指尖周圍。 - (2) 多形性皮膚紅疹(四肢和軀幹部位會出現如:蕁麻疹、紅疹、丘疹、多形性紅斑)。 - (3) 兩眼的結膜會充血,但是沒有分泌物。 - (4) 口腔黏膜變化,如嘴唇乾裂、泛紅、草莓舌;咽喉的黏膜也有泛紅現象。 - (5) 急性非化膿性頸部淋巴腺腫大,單側或雙側,直徑至少1.5公分。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 2. 典型表現為雙下肢 palpable purpura,甚至皮膚潰爛、壞死、起水泡;可能同時伴隨發燒、關節痛、淋巴結腫大或腸胃不適的情形。有機會侵犯到關節、腎臟、肺、消化系統等內臟器官。 - (1) palpable purpura 用玻片去按壓(diascopy),會發現壓不退,代表可能為血管炎, 有出血的情形,如果紫斑因按壓而消失,表示可能僅為皮膚發炎反應,例如蕁 麻疹可以壓退。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

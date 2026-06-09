@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book3-ch08]]"
+  - "[[sources/med6-book3-ch07]]"
 aliases:
   - 'Hemostasis (止血生理)'
   - 'Hemostasis'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-止血包含血小板黏附/活化/聚集與凝血因子形成 fibrin clot。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+止血包含血小板黏附/活化/聚集與凝血因子形成 fibrin clot。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,15 @@ tags:
 - [[sources/med5-book6-ch03]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book3-ch08]]
+- [[sources/med6-book3-ch07]]
 
 ## Key Details From Sources
 
+- ...避免二次傷害; Rest 休息; Ice 冰敷, 48 小時內每 2~3 小時冰敷一次; Compression 壓迫,以彈性繃帶壓迫,每次約 20 分鐘; Elevation 抬高腳踝,比心臟高約 15~25 公分,減少患部的血液流量,以止血消腫。等急性期過後(約 2 週),再依嚴重度做後續處置。 - ii. 輕度韌帶扭傷僅需遵行 PRICE 原則,當扭傷處消腫瘀血全消,各方向踝關節活動自如,觸壓或拉緊受傷處皆不會產生疼痛,即可恢復原本運動量。 - iii. 中度韌帶扭傷除了急性期給予 PRICE,須以護具固定踝關節的活動,或是黏性膠布貼紮治療固定受傷的踝關節(以八字貼法和鎖跟貼法固定),行走時須使用腋下拐杖,勿讓受傷腳用力著地為原則,約需6至12週才可完全癒合。 - iv Source: [[sources/med6-book3-ch08|辛、運動醫學]].
+- (1) 急性期受傷的組織會出血和水腫,時間約從數分鐘至 72 小時,此時期止血、消腫、止痛為首要任務,以提供較佳的環境讓組織可以迅速增生、修補。運動傷害發生時,急性期處理的原則為 PRICE: - a. Protection (保護):確保周圍環境的安全性,並對損傷情況做初步判斷與處置, 視情況使用護具、貼布、彈性繃帶或石膏來固定患部,使患部不再承受外力。 Source: [[sources/med6-book3-ch08|辛、運動醫學]].
+- e. Elevation(抬高):抬高患部,使血液回流到心臟,減少患部的血液,達到止血消腫的功效。 Source: [[sources/med6-book3-ch08|辛、運動醫學]].
+- 2. 與熱療不同的是,冷療可止血、消腫,故適用於急性關節炎或骨關節急性外傷。有 些病人在運動治療後會有疼痛、腫脹的現象,也可以用冷療來消除。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - (5) 若經上述處置後,仍然大出血,可使用下列三種方式止血,此三種方式可合併 使用或單獨使用(順序不一定)。 - 子宮內氣球填塞 (intrauterine balloon tamponade) 給予 recombinant activated factor VIIa - · 經動脈血管栓塞 (transarterial embolization) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - (6) 若以上皆失敗,則須開腹止血,方法包括結紮流血處、結紮子宮動脈、B-Lynch 縫子宮,最後手段為子宮切除。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - (B) 栓塞的目標是止血並盡量保存子宮 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -81,10 +89,6 @@ tags:
 - 【詳解】現今 Endoscopy 的進步,大部分的腸胃道出血都能以 內視鏡來止血。約 10% 的病人仍須靠外科的方式來治療。外科 醫師的觀點以是否需要持續輸血作為手術的 indication。除此之 外,Sabiston 提出的 surgery indication 如下: Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 3. Recurrent bleeding。recurrent 後嘗試兩次胃鏡,若還是無法 止血,則建議外科治療。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - (A) 以動脈出血為主要原因,而肝門靜脈出血則少見且容易自動 止血 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- (B) 手術治療是最佳止血方式,血管栓塞及保守治療只有輔助角色 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- 【詳解】可先藉由 angiographic occlusion 的方式止血,若還是無 法順利止血再考慮用 surgical ligation。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- Coagulation, hemostasis, phase (止血期): 一受傷即開始此凝血機制啟動,血小板和 fibrin 共同凝成血塊以避免持續出血。血小板內的 α granule 會釋放出 PDGF (platelet-derived growth factor)、TGF-β (transforming growth factor-beta)以促進傷口癒合,此時期主要細胞為 platelet。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- 1. 內在/局部因素:氧合作用及灌流不良、感染、異物、血腫、放射治療等都會使傷口的癒合變差,另外手術中適當的止血,減少不必要的電燒和 ligation,以及密閉性引流皆有助於傷口癒合。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 
 ## Clinical Caveats
 

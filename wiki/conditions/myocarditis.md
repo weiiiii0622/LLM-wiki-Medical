@@ -18,6 +18,7 @@ sources:
   - "[[sources/med4-book3-ch09]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Myocarditis (心肌炎)'
   - 'Myocarditis'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-心肌發炎可造成胸痛、心律不整或心衰竭。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌發炎可造成胸痛、心律不整或心衰竭。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,12 @@ tags:
 - [[sources/med4-book3-ch09]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- · Acute myocarditis or pericarditis Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- · Active pericarditis or myocarditis Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...e systemic sclerosis)、高凝血症合併血栓(hypercoagulopathy with thrombosis)、類風濕性關節炎(rheumatoid arthritis)、巨食道症(megaesophagus)、肉芽腫性心肌炎(granulomatous myocarditis)。但症狀通常不會隨著胸腺瘤治療成功而改善。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - (1) 廣義來說,只要任何需要「暫時性」心臟及肺臟支持的病人皆為可能的適用對象,例如心衰竭(心臟手術後的心因性休克、急性心肌炎、急性心肌梗塞),可 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...clozapine 為例,當超過 600 mg/ day 則有 4% risk。 99(二)專 (D) 13. 抗精神病藥物 clozapine 之副作用中,下列何者具有致命性,因 而曾在1970年代被歐美等國禁用? 醫四 -62 (A) 心肌炎 (B) 便秘 (C) 姿勢性低血壓 (D) 顆粒性白血球缺乏症 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
@@ -69,8 +73,6 @@ tags:
 - ...| Streptococcal toxic shock | | | | 克症候群 | syndrome | early and a second | | Non-suppurative | 風濕熱 | Rheumatic fever | 心肌炎,關節炎,舞蹈症,皮下結節 | | sequelae | 急性腎絲 | Acute post-streptococcal | 茶褐色的尿 | | (抗體媒介) | 球腎炎 | glomerulonephritis | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...壞疽 | | | | | 困難芽孢桿菌 | C. difficile | 使用抗生素 | 偽膜性結腸炎 | | 不產 | 嗜 | Corynebacterium | 白喉桿菌 | C. diphtheriae | 飛沫傳染 | 偽膜(咽),心肌炎,神經麻痺 | | 个座 | 氧 | Listeria | 李斯特菌 | L. monocytogenes | 受污牛奶,分娩 | 菌血症、腦膜炎 | | 167 | 厭 | Lactobacillus | 乳酸桿菌 | Lactobacillus | 生完小孩 | 心內膜炎 | | 絲狀 | 嗜 | Nocardia | 奴卡氏菌 | Nocardia | 微 AFS(+) | 皮膚菌足腫 (mycetoma) | | 邢邢州人 | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - 2. 疏螺旋體 (Borrelia) 類,如伯氏疏螺旋體 (Borrelia burgdorferi), - (1) 由硬蜱 (tick) 傳染給人。 - (2) 萊姆病 (Lyme disease) 分期: - a. 第一期:慢性遊走性紅斑 (erythema chronicum migrans) - b. 第二期:無菌性腦膜炎、Bell's palsy、心臟節律阻斷、心肌炎 - c. 第三期:慢性關節炎、腦病變 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (1) 腸病毒(Enteroviruses):這類病毒皆是糞口傳染,但不造成腹瀉等症狀,反而造成中樞神經、上呼吸道、心肌炎。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
-- ...rn) 運動神經元受損,造成癱瘓 | | | | 克沙奇病毒 A 型 (Coxsackievirus A) | 疱疹性咽喉炎 (Herpangina)、手足口病 | | | | 克沙奇病毒 B 型 (Coxsackievirus B) | 心肌炎(人類病毒性心臟病最常見的病原) | | | | 伊柯病毒 (Echovirus) 等其他腸病毒 | 無菌性腦膜炎 | | | Source: [[sources/med3-book3-ch18|壬、病毒學]].
 
 ## Clinical Caveats
 

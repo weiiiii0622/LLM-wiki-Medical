@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book1-ch16]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Intracerebral hemorrhage, ICH (腦出血)'
   - 'Intracerebral hemorrhage, ICH'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-腦實質出血，常與高血壓、amyloid angiopathy、AVM、抗凝或腫瘤相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質出血，常與高血壓、amyloid angiopathy、AVM、抗凝或腫瘤相關。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med5-book1-ch16]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- 4. 當負責上述語言功能的區域或途徑受破壞時,會引發不同程度的失語症,造成失語症常見的原因如下: - (1) 大腦血管病變:即腦中風,如血栓、栓塞、腦出血及動脈破裂。 - (2) 腦外傷:有穿入性外傷及非穿入性外傷。 - (3) 腦瘤。 - (4) 腦組織炎症 (encephalitis)。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - | 母 親 | • 腦出血、中風、肺水腫、肝腎衰竭、DIC、母親死亡 | |-----|----------------------------| | 胎兒 | • 胎兒生長遲緩、早產、胎兒死亡 | | 胎盤 | • 胎盤剝離 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (B) preeclampsia 會增加腦出血(cerebral hemorrhage)、肺水腫(pulmonary edema)及凝血功能異常(coagulopathy)的危險。當收縮壓高於 160 mmHg 時就應積極控制血壓預防腦出血 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 【詳解】機械型瓣膜病人須終身服用抗凝血劑,出血風 險相對組織型來得高,故不適合計劃生育之女性(Post partum hemorrhage),也不適合老年人(ICH)與血友病患者 (Coagulopathy),另有研究顯示裝有組織型瓣膜的洗腎患者較 不易流血且洗腎通路較不易阻塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -66,7 +69,6 @@ tags:
 - II. 出血性腦中風 (Hemorrhagic Stroke) 103 - A.介紹 103 - B. 腦出血 (Intracerebral hemorrhage, ICH) 104 - C. 蜘蛛膜下腔出血 (Subarachnoid hemorrhage, AH) 108 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...| | 缺血性 (75) | | Atherothrombotic | 75%×50% | | | 欧皿住(/5) | | Cardioembolic | 75%×25% | | 腦血管疾病 (CVA)=中風 (Stroke) 的分類 | ICH (15)出血性 (20)SAH (5) | HTN | 15%×50% | | | | | ICH (15) | Amyloid angiopathy | 15%×30% | | | | CATI(E) | Aneurysm | 5%×75% | | | | SAII (5) | AVM | 5%×5% | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 腦血管疾病俗稱中風(stroke),血管病變中,梗塞(infarction)占 84%,即血管被粥狀硬化阻塞或被心臟來的血栓塞住等,導致血液供應不到遠端腦組織,造成缺血性腦中風(ischemic stroke);出血(hemorrhage)占 16%,即血管壁因高血壓或先天性異常而破裂,血液流到腦組織中(ICH)、蜘蛛膜下腔(SAH),造成出血性腦中風(hemorrhagic stroke)。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...---------------------------------| | 原發性頭痛(Primary headache) | 緊縮型頭痛(最常見、但少考)偏頭痛(常見、也愛考)叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血管炎 (Temporal arteritis) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 
 ## Clinical Caveats
 

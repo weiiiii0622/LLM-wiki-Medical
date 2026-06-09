@@ -2,10 +2,11 @@
 type: guideline
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch15]]"
   - "[[sources/med4-book1-ch07]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'GINA asthma step therapy (GINA 氣喘階梯治療)'
   - 'GINA asthma step therapy'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-氣喘控制藥物依症狀與惡化風險升降階。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘控制藥物依症狀與惡化風險升降階。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch15]]
 - [[sources/med4-book1-ch07]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (8) ASIA impainment scale 的分類三步驟: - a. STEP 1:分類時先分是不是 complete 即 ASIA A =沒有 sacral sparing =「沒有自主肛門收縮」+「S4-5 的 pin prick 和 light touch 都 = 0」+「沒有肛門 深處的感覺」。 - b. STEP 2:若不是 ASIA A,接著看是不是"motor" incomplete,看是否有 (a) 自主肛門收縮或 (b) 兩側的 motor level 各自的下三節以下是否有運動功能,(a)(b) Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 3. 治療:台灣氣喘治療準則是根據 GINA guideline, 其強調根據氣喘控制的狀況來 step up 或 step down (若 well-controlled 則 step down, 若 uncontrolled 則 step up)。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - \* 針對使用低劑量 budesonide/formoterol 或低劑量 beclomethasone/formoterol 作為維持 / 緩解治療的病人,可選擇低劑量 ICS/formoterol 作為緩解型藥物。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - 【詳解】本題答(A)、(C)、(D)給分。目前 GINA Guideline 多以控制程度決定藥物升階或降階,故此題需要看此案例本來是用什麼藥物控制才能作答。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

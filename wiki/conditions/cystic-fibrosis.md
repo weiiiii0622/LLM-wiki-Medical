@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book6-ch08]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Cystic fibrosis (囊性纖維化)'
   - 'Cystic fibrosis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-CFTR 異常造成黏稠分泌物、肺部感染、胰臟外分泌不足與胎便性腸阻塞等表現。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CFTR 異常造成黏稠分泌物、肺部感染、胰臟外分泌不足與胎便性腸阻塞等表現。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,12 @@ CFTR 異常造成黏稠分泌物、肺部感染、胰臟外分泌不足與胎便
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book6-ch08]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- 2. 肺部復健適用於 COPD、asthma、cystic fibrosis、interstitial lung disease、lung cancer、lung surgery 及 neuromuscular disease 等病人。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (D) 纖維性囊腫 (cystic fibrosis) Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - B. 囊性纖維化 (Cystic fibrosis, CF) 147 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ### B. 囊性纖維化 (Cystic fibrosis, CF) Source: [[sources/med5-book4-ch11|丁、腸胃道]].

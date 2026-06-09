@@ -26,6 +26,7 @@ sources:
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book2-ch02]]"
   - "[[sources/med6-book2-ch06]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Skin appendages (皮膚附屬器官)'
   - 'Skin appendages'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+毛髮、皮脂腺、汗腺與指甲等附屬器官參與保護、體溫調節與疾病表現。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book2-ch02]]
 - [[sources/med6-book2-ch06]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- ...梗塞、周邊神經損傷、惡性腫瘤等等原因都有可能。發生於 12~25% 的中風半側偏癱患者。 - (2) 在臨床表現上會出現五種主要症狀: (a) 疼痛、(b) 腫脹、(c) 自主神經失調、(d) 運動方面不協調、(e) 皮膚會變薄發亮,毛髮、指甲粗厚,肌肉萎縮。 - (3) 分期:第一期:關節活動時疼痛、水腫、皮膚發熱發紅;第二期:皮膚變薄、 關節活動受限、皮膚溫度下降;第三期:不可逆的皮膚和肌肉萎縮、疼痛、關 節活動嚴重受限、骨質疏鬆。 - (4) 常見影響範圍為肩膀、手和手腕,手肘通常不受侵犯。 - (5) 診斷主要是靠臨床的表徵,輔以對交感神經切斷術的反應(可有效減輕疼痛) 及骨掃描的結果(three phase bone scan)來決定。 - (6) 復健治療:關節活 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - (1) 皮脂腺: Meibomian gland (位 於瞼板,分泌角膜前淚膜的 **外側脂層**)、Zeis' gland。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
 - (2) 汗腺: Moll's gland。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
 - (3) 皮脂腺癌 (Sebaceous gland carcinoma): 最常源自 Meibomian gland, 偶爾由 Zeis' gland 而來。好犯於上眼瞼,多發生在中年以上女性(大於 50歲),東方人尤多。看起來像霰粒腫,但因睫毛毛囊被破壞造成睫毛脱落為其特徵。高度 惡性易全身轉移,預後比 BCC、SCC 還差。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
@@ -86,7 +89,6 @@ tags:
 - Type II: 傷害小於二分之一的 甲床和以及遠端指骨受傷, 但未達指甲生發層。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - Type IV: 剁掉部分達近端指骨,整個指甲皆截掉。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (2) 慢性動脈阻塞(chronic thromboembolism):慢性血管阻塞,造成間歇性跛行的症狀,當 ischemia 嚴重時連休息或夜間睡覺都會疼痛,最後組織壞死。因血液供養不足,腳部也常有脫髮、泛白及指甲易碎的情形。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- 【詳解】Tuberous sclerosis complex 是自體顯性遺傳性疾病,可分為 type 1 & type 2。因基因突變,造成患者神經細胞及髓鞘形成不良,產生結節硬化。臨床表現會有智能障礙和癲癇,其他明顯的徵象有面部血管纖維瘤、指甲纖維瘤、脫色斑、鯊魚皮斑、多發神網膜結節缺陷瘤、腦皮質結節、腦室管膜下結節、腦室管膜下巨細胞星狀瘤、腎血管肌脂肪瘤等。頭部電腦斷層可見多發性鈣化病灶。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 
 ## Clinical Caveats
 

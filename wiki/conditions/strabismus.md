@@ -9,6 +9,7 @@ sources:
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Strabismus (斜視)'
   - 'Strabismus'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-雙眼眼位不正可造成複視、抑制或 amblyopia；分類需看方向、恆定性、共同性與調節因素。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+雙眼眼位不正可造成複視、抑制或 amblyopia；分類需看方向、恆定性、共同性與調節因素。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book2-ch17]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- a. 約有一半以上 CP 患者有視覺障礙,其中以斜視最常見,且好發於痙攣型 diplegia 和 quadriplegia。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - B. 斜視(Strabismus) 154 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - #### B. 斜視 (Strabismus) Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - 1. 定義:因兩眼間的協調功能有問題,或控制眼球運動的神經與肌肉的病變,造成兩 眼視線不一致,當一眼注視時,另一眼有偏斜的情形,即為斜視。 - (1) 小時候的斜視易導致偏斜眼的視覺功能發育不良,引起弱視(amblyopia)。 - (2) 成人的斜視會引起複視(diplopia)。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].

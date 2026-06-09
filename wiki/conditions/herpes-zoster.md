@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Herpes zoster (帶狀皰疹)'
   - 'Herpes zoster'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 pos
 - [[sources/med5-book1-ch17]]
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch04]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (2) 每段脊髓都支配某片皮膚區域的感覺,稱為皮節 (dermatome),皮節可以透過 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 4. 絲狀物 (filaments): 小逗點狀的黏液附著在上皮上,一端黏在角膜上皮、另一則 未附著。常出現在乾眼、角膜暴露、上輪部角結膜炎、帶狀疱疹眼炎等。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - #### 帶狀疱疹性眼炎(Herpes zoster ophthalmicus) Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - (2) 這裡愛考的是:單純疱疹性角膜炎造成的上皮性角膜炎是樹枝狀潰瘍,而帶狀疱疹性眼炎造的上皮性角膜炎則是偽樹枝狀潰瘍(較小且樹突末端並沒有澎大)。 Source: [[sources/med6-book2-ch05|戊、角 膜]].

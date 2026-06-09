@@ -35,6 +35,8 @@ sources:
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book3-ch04]]"
+  - "[[sources/med6-book3-ch07]]"
 aliases:
   - 'Rheumatoid arthritis, RA (類風濕性關節炎)'
   - 'Rheumatoid arthritis, RA'
@@ -49,7 +51,7 @@ tags:
 
 ## Summary
 
-慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -84,9 +86,13 @@ tags:
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book3-ch04]]
+- [[sources/med6-book3-ch07]]
 
 ## Key Details From Sources
 
+- ...候群(Carpaltunnel syndrome) | | (圖請參照第 215 頁) | 關節 (Metacarpophalangeal joint, MCP joint) 及其遠端各手指保持可自由活動。 | • 手腕急性關節發炎(OA/RA) | | Thumb spica splint | 自手掌 (hand based thumb spica spint) 或前臂 | 手腕扭傷 (sprain)媽媽手 (de Quervain's | | (拇指八字型副木)(圖請參照第 215 頁) | (forearm based thumb spica splint),包覆至大拇指掌指關節,指骨間關節 (IP joint) 及其遠端保持可自由活動,大拇指固定在外展(abducti Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
+- ...erential Current, IFC): 兩組電極互相對稱擺放呈十字型,並將欲治療部位置於十字型中央。兩組電極會各自放射中頻波穿透皮膚,其電磁波會互相加乘而產生較單組電極可穿透更深的電磁波。 - (3) 適應症:下背痛、退化性關節炎、類風濕性關節炎、韌帶扭傷、肌腱炎、肌肉 肌膜疼痛等。 - (4) 禁忌症: - a. 動靜脈血栓或血栓性靜脈炎(thrombophlebitis)。 - b. 勿放在頸動脈竇附近,以免造成心律不整。 - c. 心律調節器附近,以免干擾節律器功能。 - d. 孕婦、癲癇、癌症。 - e. 感覺異常者或無法表達溝通者。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - (1) 由 immune-mediated (typically immune-complex) vasculitis 常常造成鞏膜破壞而造成。與全身性免疫疾病相關:類風濕性關節炎(最常見)、紅斑性狼瘡、復發型多發性軟骨炎、結節型多發性動脈炎、Wegner 氏肉芽腫等,且可能是唯一的先期徵兆,因此早期診斷與治療,對患者的預後幫助極大。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - ...病變部位鞏膜可擴張膨出,形成鞏膜葡萄腫 (Staphyloma)。 - f. Necrotizing Scleritis without inflammation (又名 scleromalacia perforans), 典型出現在長期 rheumatoid arthritis 的病人,鞏膜變薄其下的葡萄膜變得可見。 - g. 其他併發症有葡萄膜炎、角膜炎、白內障,因房角粘連可形成繼發性青光眼。 - h. 治療:針對病因治療(如感染或免疫性疾病)、可給局部或口服類固醇(通常治療用口服開始)或免疫抑制劑,若是 non-necrotizing scleritis 且是 diffuse 類型可以給口服 NSAID。若合併前葡萄膜炎時,可用局部 atropine 眼藥水散瞳,減少疼痛。 - (2) 後鞏膜炎:發生於眼 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - 1. 當出現嚴重、持續性的周邊角膜浸潤、潰瘍或無法解釋之周邊角膜變薄時,應考慮 是否為全身性膠原血管疾病所造成。最常見的疾病是類風濕性關節炎(RA)造成 的角膜炎,這些角膜炎的表現包含了: - (1) Peripheral ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽 Source: [[sources/med6-book2-ch05|戊、角 膜]].

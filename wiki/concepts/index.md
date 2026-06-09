@@ -19,9 +19,11 @@ Mechanisms, definitions, and frameworks.
 - [[concepts/antibiotic-resistance|Antibiotic resistance (抗生素抗藥性)]] - 抗藥性可由 beta-lactamase、PBP 改變、efflux pump 等機制造成，影響經驗性與確定治療。
 - [[concepts/anticoagulation|Anticoagulation (抗凝治療)]] - 血栓疾病與 AF 中風預防的重要治療概念。
 - [[concepts/antiplatelet-therapy|Antiplatelet therapy (抗血小板治療)]] - 冠心症與 PCI 的核心血栓預防策略。
+- [[concepts/assistive-devices|Assistive devices (輔具)]] - 輔具協助移動、轉位、ADL 或安全，包含手杖、拐杖、助行器、輪椅與環境調整。
 - [[concepts/behavior-change-counseling|Behavior change counseling (行為改變諮商)]] - 以動機與階段評估協助戒菸、飲食、運動等健康行為改變。
 - [[concepts/beta-lactam-mechanism|Beta-lactam mechanism (β-lactam 作用機轉)]] - beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。
 - [[concepts/community-medicine|Community medicine (社區醫學)]] - 以社區與族群為單位評估健康問題、資源與介入。
+- [[concepts/disability-evaluation|Disability evaluation (身心障礙評估)]] - 身心障礙評估需區分 impairment、activity limitation、participation restriction，並連結輔具、照護與社會資源。
 - [[concepts/gram-stain-classification|Gram stain classification (革蘭氏染色分類)]] - 以 Gram stain、形態、觸媒、凝固酶、溶血等特徵建立細菌鑑別框架。
 - [[concepts/informed-consent|Informed consent (知情同意)]] - 醫療處置前向病人說明診斷、處置、風險、替代方案與拒絕後果並取得同意。
 - [[concepts/lethal-triad-trauma|Lethal triad of trauma (創傷致命三角)]] - 外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。
@@ -34,14 +36,18 @@ Mechanisms, definitions, and frameworks.
 - [[concepts/newborn-screening|Newborn screening (新生兒篩檢)]] - 以早期檢測可治療或需早期介入的先天代謝、內分泌與其他疾病。
 - [[concepts/opportunistic-infection|Opportunistic infection (伺機性感染)]] - 免疫功能下降時由平時低致病性或潛伏病原造成的感染。
 - [[concepts/organ-transplantation|Organ transplantation (器官移植)]] - 以活體或屍體捐贈器官取代末期器官衰竭，需評估配對、排斥、感染與倫理。
+- [[concepts/orthosis|Orthosis (裝具)]] - 外部支撐裝置用於控制關節、矯正變形、保護組織或改善功能，可依上肢、下肢、脊椎分類。
 - [[concepts/oxygen-therapy|Oxygen therapy (氧氣治療)]] - 低氧血症與急性呼吸困難的支持治療。
 - [[concepts/palliative-care|Palliative care (緩和醫療)]] - 以症狀控制、生活品質、溝通與目標照護為核心的全人照護。
 - [[concepts/primary-skin-lesions|Primary skin lesions (基本皮膚病灶)]] - 以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。
+- [[concepts/prosthesis|Prosthesis (義肢)]] - 義肢取代缺失肢段並恢復站立、步行或上肢功能，組成包含 socket、懸吊、關節與末端裝置。
 - [[concepts/psychosis|Psychosis (精神病性症狀)]] - 現實感受損的症狀群，包含妄想、幻覺、思考形式障礙與混亂行為。
 - [[concepts/rate-control|Rate control (心率控制)]] - AF 等心律不整控制心室反應速率的策略。
+- [[concepts/rehabilitation-medicine|Rehabilitation medicine (復健醫學)]] - 以功能、活動、參與和生活品質為核心，整合物理治療、職能治療、語言治療、輔具與跨專業照護。
 - [[concepts/revascularization|Revascularization (血管再暢通)]] - 以 PCI 或 CABG 改善冠狀動脈血流。
 - [[concepts/rhythm-control|Rhythm control (節律控制)]] - 恢復或維持竇性心律的策略。
 - [[concepts/secondary-skin-lesions|Secondary skin lesions (次發性皮膚病灶)]] - 膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。
 - [[concepts/smoking-cessation|Smoking cessation (戒菸)]] - 心血管與肺部疾病最重要的風險修正之一。
 - [[concepts/spikes-model|SPIKES model (壞消息告知模型)]] - 病情告知流程，強調環境、認知、意願、資訊、同理與後續策略。
+- [[concepts/therapeutic-modalities|Therapeutic modalities (物理治療儀器)]] - 復健 modality 包含熱、冷、電、光、超音波、牽引與力學治療；需依適應症、禁忌症與組織深度選擇。
 - [[concepts/upper-motor-neuron-lesion|Upper motor neuron lesion, UMN lesion (上運動神經元病灶)]] - UMN lesion 常見 weakness、spasticity、hyperreflexia、Babinski sign。

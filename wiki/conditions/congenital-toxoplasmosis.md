@@ -20,6 +20,7 @@ sources:
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book2-ch07]]"
   - "[[sources/med6-book2-ch08]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Congenital toxoplasmosis (先天性弓漿蟲感染)'
   - 'Congenital toxoplasmosis'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+典型三徵為 chorioretinitis、hydrocephalus、intracranial calcifications。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book2-ch07]]
 - [[sources/med6-book2-ch08]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (1) 創傷後水腦症(posttraumatic hydrocephalus):約有四到七成的患者腦室會擴大,腦壓通常不會跟著升高(normal pressure type)。常見症狀有頭痛、噁心嘔吐、意識改變。電腦斷層上可見腦室周圍較亮(periventricular lucency)、腦溝消失及腦室不規則擴張。治療上主要是腦室引流手術。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 4. 弓漿蟲病(toxoplasmosis): 由弓漿蟲(Toxoplasma gondii)引起的感染。 - (1) 眼部症狀:視力下降、飛蚊症、疼痛、畏光等,大部份無明顯症狀,故時常被 忽略而延誤治療時機。 - (2) 眼部病變:局部性壞死性視網膜脈絡膜炎、血管炎、玻璃體炎、前葡萄膜炎 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (3) 診斷: 典型眼底病變加上免疫血清檢查抗弓漿蟲抗體 IgG 陽性。另外,若抽前 房水將之與血清抗體 IgG 比較效價大於 8, 更具參考價值。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (4) 治療:若病灶較小且位於較周圍遠離黃斑部,視力通常會自癒。較嚴重的需使用抗弓漿蟲藥物治療(Pyrimethamine、Sulfadiazine)及類固醇(prednisolone)治療六週。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
@@ -74,7 +77,6 @@ tags:
 - (C) 7. 除了再出血外,動脈瘤破裂的病人最常出現嚴重後遺症及死亡的 103(ニ)専原因為: - (A) 水腦 (hydrocephalus) - (B) 癲癇 (seizure) - (C) 血管攣縮 (vasospasm) - (D)頭痛 (headache) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 - 3. 由於脊髓膜的牽引拉扯,小腦會被往枕骨大孔方向下拉錯位 (Arnold Chiari II malformation),阻塞腦脊液流通,造成 hydrocephalus。可藉由 shunting 分流手術治療,緩解腦積水,降低癲癇和失明等風險。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (A) 1. 小腦扁桃體下垂 5 mm 至頸椎脊椎腔且合併有脊髓空洞症(syringomyelia),但沒有合併脊柱裂(spinal bifida)或水腦(hydrocephalus),應該歸屬下列何種異常? - 109(二)專 醫五-12 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- 5. 常壓性水腦(Normal pressure hydrocephalus) = 交通性水腦(Communicating hydrocephalus) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

@@ -48,6 +48,7 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Thyroid function tests (甲狀腺功能檢查)'
   - 'Thyroid function tests'
@@ -62,7 +63,7 @@ tags:
 
 ## Summary
 
-TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -110,9 +111,11 @@ TSH、free T4/T3 是甲狀腺亢進或低下的核心檢查。 本頁已整合�
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- ...痺通常發生於子宮內、生產過程或出生後三年內發生的,原因如下: - (1) 出生前:母親智能障礙、癲癇、懷孕期間感染疾病或服用的藥物所引起,例如: 德國麻疹、帶狀皰疹、輻射線、缺氧、先天腦部畸形、孕婦於懷孕期間無法有 效控制糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(spastic, 60%): 最常見,呈現上運動神經元疾病的表徵如肌肉張力高、阻力強且深腱反射強,尤 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - ...lmopathy): - (1) 簡介: Graves' sisease 是甲狀腺機能亢進引起的疾病,與自體免疫相關,好發於 20~45 歲女性。甲狀腺眼症是引起成人突眼最常見的原因,又稱 Graves ophthalmopathy,但其與甲狀腺功能是否正常並無直接的關係,即使甲狀腺功能正常或低下,也可能產生突眼、眼瞼水腫等。不過大部份有甲狀腺眼症的病患,甲狀腺功能多不正常。 - (2) 致病機轉:由於甲狀腺激素產生的自體免疫變化,細胞釋出 cytokine 而刺激 fibroblast 增生,分泌 glycosaminoglycan 以及使促使膠原蛋白增加,沉積在眼外 肌及眼眶脂肪,使眼外肌發炎且體積增大、眼眶水腫,壓迫視神經,後續肌肉 纖維化造成複視,且眼窩壓力增加導致眼球突出 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (5) 甲狀腺眼症的診斷:包含眼部檢查(視力、突眼檢查、眼球活動情形、眼壓等) 以及甲狀腺功能檢查,另外眼部 CT 檢查,可以見到眼直肌明顯肥厚的情形。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].

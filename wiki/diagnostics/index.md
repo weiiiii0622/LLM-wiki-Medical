@@ -25,6 +25,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/apgar-score|Apgar score (Apgar 評分)]] - 出生後快速評估 heart rate、respiration、tone、reflex irritability 與 color。
 - [[diagnostics/arterial-blood-gas|Arterial blood gas, ABG (動脈血氣)]] - 評估氧合、通氣與酸鹼狀態。
 - [[diagnostics/ascitic-fluid-analysis|Ascitic fluid analysis (腹水分析)]] - 腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。
+- [[diagnostics/asia-impairment-scale|ASIA Impairment Scale, AIS (ASIA 脊髓損傷分級)]] - 以 sensory/motor level、sacral sparing 與 complete/incomplete injury 分級 SCI 嚴重度與預後。
 - [[diagnostics/bi-rads|BI-RADS (乳房影像報告與資料系統)]] - 乳房影像標準化分類，指引追加影像、切片或追蹤。
 - [[diagnostics/biophysical-profile|Biophysical profile, BPP (胎兒生理活動評量)]] - 整合 NST、胎動、呼吸運動、肌張力與羊水量評估胎兒狀態。
 - [[diagnostics/bishop-score|Bishop score (Bishop 子宮頸成熟度評分)]] - 以 dilation、effacement、station、consistency、position 評估 induction of labor 成功機率。
@@ -41,6 +42,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/brain-magnetic-resonance-imaging|Brain magnetic resonance imaging, brain MRI (腦部磁振造影)]] - 對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。
 - [[diagnostics/breast-ultrasonography|Breast ultrasonography (乳房超音波)]] - 評估乳房腫塊囊性或實質性，常用於年輕或緻密乳房，也可導引切片。
 - [[diagnostics/bronchodilator-reversibility-test|Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)]] - 評估可逆性氣流阻塞，是氣喘診斷依據之一。
+- [[diagnostics/brunnstrom-stage|Brunnstrom stage (Brunnstrom 中風動作恢復分期)]] - 以中風後 synergy 與 voluntary movement recovery 分期，常用於偏癱動作恢復與治療目標設定。
 - [[diagnostics/c-peptide|C-peptide (C 胜肽)]] - 反映內生性胰島素分泌，可協助分辨糖尿病型態。
 - [[diagnostics/ca-125|CA-125 (癌抗原 125)]] - 卵巢上皮癌常用追蹤與輔助評估標記，但早期、停經前與非漿液性癌診斷準確度有限。
 - [[diagnostics/cardiac-biomarkers|Cardiac biomarkers (心肌酵素)]] - 用於區分 UA 與 MI，並評估心肌壞死。
@@ -76,6 +78,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/glasgow-coma-scale|Glasgow Coma Scale, GCS (格拉斯哥昏迷指數)]] - 以 eye、verbal、motor response 評估意識程度，常用於腦傷、中風與急症神經評估。
 - [[diagnostics/gleason-score|Gleason score (Gleason 攝護腺癌分級)]] - 攝護腺癌病理分級系統，以主要與最高等級 pattern 加總，反映腫瘤侵襲性與治療風險分層。
 - [[diagnostics/gonioscopy|Gonioscopy (隅角鏡檢查)]] - 以特殊鏡片評估前房隅角開閉與次發性變化，是 angle-closure glaucoma 分類關鍵。
+- [[diagnostics/gowers-sign|Gowers sign (Gowers 徵象)]] - 近端肌無力病人由地上站起時需以手扶膝/大腿攀爬身體，常見於 muscular dystrophy 等。
 - [[diagnostics/group-b-streptococcus-screening-pregnancy|Group B Streptococcus screening in pregnancy (妊娠乙型鏈球菌篩檢)]] - 妊娠後期篩檢 GBS colonization，陽性或高風險者生產時給予抗生素以預防新生兒感染。
 - [[diagnostics/growth-chart|Growth chart (生長曲線)]] - 兒童生長評估工具，需連續追蹤身高、體重、頭圍與 growth velocity。
 - [[diagnostics/hba1c|Hemoglobin A1c, HbA1c (糖化血色素)]] - 反映近期平均血糖並作為糖尿病診斷與控制目標。
@@ -92,9 +95,11 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/liver-function-tests|Liver function tests, LFTs (肝功能檢查)]] - 用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。
 - [[diagnostics/lung-cancer-staging|Lung cancer staging (肺癌分期)]] - 肺癌治療選擇依組織型與分期。
 - [[diagnostics/mammography|Mammography (乳房 X 光攝影)]] - 乳癌篩檢與診斷影像，特別適合脂肪比例較高的乳房偵測鈣化。
+- [[diagnostics/manual-muscle-testing|Manual muscle testing, MMT (徒手肌力測試)]] - 徒手肌力測試以 0-5 級評估肌肉收縮與抗重力/抗阻力能力，是神經與復健功能評估基本工具。
 - [[diagnostics/meld-score|MELD score (MELD 分數)]] - 以 bilirubin、INR、creatinine 等估計末期肝病預後與移植優先度。
 - [[diagnostics/mental-status-examination|Mental status examination, MSE (精神狀態檢查)]] - 精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。
 - [[diagnostics/methacholine-provocation-test|Methacholine provocation test (Methacholine 支氣管激發試驗)]] - 疑似氣喘但肺功能正常時可用來評估氣道高反應性。
+- [[diagnostics/modified-ashworth-scale|Modified Ashworth scale, MAS (改良 Ashworth 痙攣量表)]] - 以被動活動阻力分級 spasticity，常用於 stroke、SCI、CP 等上運動神經元病灶追蹤。
 - [[diagnostics/mrcp|Magnetic resonance cholangiopancreatography, MRCP (磁振膽胰管攝影)]] - 非侵襲性顯示膽道與胰管結構，用於膽總管結石、膽管癌、胰臟癌或胰膽管異常評估。
 - [[diagnostics/nerve-conduction-study|Nerve conduction study, NCS/NCV (神經傳導檢查)]] - 評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。
 - [[diagnostics/neurologic-examination|Neurologic examination (神經學檢查)]] - 系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。
@@ -114,6 +119,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/prostate-specific-antigen|Prostate-specific antigen, PSA (攝護腺特異抗原)]] - 攝護腺上皮分泌蛋白，受 BPH、prostatitis、導尿、DRE 與 5-alpha-reductase inhibitor 影響，用於風險評估與治療後追蹤。
 - [[diagnostics/protein-electrophoresis|Protein electrophoresis (蛋白電泳)]] - 偵測 monoclonal protein，支援 myeloma、MGUS、Waldenstrom 等診斷。
 - [[diagnostics/pulmonary-function-test|Pulmonary function test, PFT (肺功能檢查)]] - 區分阻塞型、限制型與擴散障礙。
+- [[diagnostics/rancho-los-amigos-scale|Rancho Los Amigos scale (Rancho Los Amigos 認知功能量表)]] - 用於描述 TBI 後認知與行為恢復階段，從無反應到有目的且適切的反應。
 - [[diagnostics/reticulocyte-production-index|Reticulocyte production index, RPI (網狀紅血球生成指數)]] - 校正貧血程度與 reticulocyte 成熟時間後評估骨髓造血反應。
 - [[diagnostics/rheumatoid-factor|Rheumatoid factor, RF (類風濕因子)]] - RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。
 - [[diagnostics/schirmer-test|Schirmer test (Schirmer 淚液測試)]] - 以濾紙測量淚液分泌量，是 dry eye 與 Sjogren syndrome 的輔助檢查之一。
@@ -139,6 +145,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/urine-anion-gap|Urine anion gap (尿液陰離子間隙)]] - 用尿 Na、K、Cl 推估尿 NH4 排泄，協助正常陰離子間隙代謝性酸中毒鑑別。
 - [[diagnostics/urodynamic-study|Urodynamic study (尿路動力學檢查)]] - 評估下泌尿道儲尿與排尿功能的檢查群，包含 uroflowmetry、cystometry、pressure-flow study 與 sphincter EMG。
 - [[diagnostics/uroflowmetry|Uroflowmetry (尿流速測定)]] - 量測尿流曲線與 maximum flow rate，用於初步評估 obstruction 或 detrusor underactivity。
+- [[diagnostics/videofluoroscopic-swallow-study|Videofluoroscopic swallow study, VFSS (吞嚥攝影檢查)]] - 動態 X 光評估口咽期吞嚥、aspiration、residue 與代償策略效果。
 - [[diagnostics/viral-hepatitis-serology|Viral hepatitis serology (病毒性肝炎血清學)]] - 用血清標記判讀 HAV/HBV/HCV 等感染狀態、免疫與傳染性。
 - [[diagnostics/visual-acuity-test|Visual acuity test (視力檢查)]] - 視力檢查評估中心視覺，pinhole 改善常提示 refractive component。
 - [[diagnostics/visual-field-test|Visual field test (視野檢查)]] - 視野檢查用於 glaucoma、視神經與視覺路徑病變追蹤，需結合可靠度指標與眼底/影像。

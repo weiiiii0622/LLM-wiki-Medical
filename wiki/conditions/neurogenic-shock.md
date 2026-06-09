@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Neurogenic shock (神經性休克)'
   - 'Neurogenic shock'
@@ -20,15 +21,18 @@ tags:
 
 ## Summary
 
-脊髓或交感路徑損傷造成血管張力下降與相對 bradycardia。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+脊髓或交感路徑損傷造成血管張力下降與相對 bradycardia。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...me)的話甚至可能出現下肢肌力正常,稱為 "root escape"。 - \* Bulbocavernosus reflex:用手擠捏龜頭(男)、陰蒂(女)或拉扯導尿管時,肛門括約肌會收縮。為脊髓反射,由 S2~4 負責,該反射消失代表 spinal shock、脊髓圓錐或是馬尾損傷。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (2) 自主神經反射異常 (Autonomic dysreflexia): - a. 自主神經反射異常,即自主神經系統過度活動,為一發生在完全性脊髓損傷的潛在性致命疾病(不完全性損傷的發生機率較低但也有可能發生),好發T6以上的完全性脊髓損傷,出現在 spinal shock 後,reflex 開始恢復的時候(約6個月到一年間)。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - ...得 TNF-α、IL-1、IL-6、IL-8 會增加,造成周邊血管擴張,vessel tone 下降,血管內有效容積下降,引起休克。 - b. 過敏性休克: 因嚴重的過敏反應而引發體內細胞釋放出物質使全身血管擴張 導致血壓下降。 - c. 神經性休克:由於脊髓損傷導致神經性反射及血管阻力喪失,使周邊血管擴張使得血液湧向周邊部位、造成主要器官組織灌流不足,心輸出量減少,引起休克。 - (4) 阻塞性(obstructive):心包填塞、肺動脈栓塞、張力性氣胸等造成心輸出量不足。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (C) 2. 一位 25 歲女性,從高處跌落,造成頸部疼痛及四肢癱瘓,但意 識清楚,四肢無冰冷現象。電腦斷層影像檢查發現第五頸椎骨折 神經壓迫。此時病患心搏速率:60次/分、血壓:75/55毫米汞 柱。關於病患現在血壓狀況,下列何者是最適當的診斷? - (A) 過敏性休克 (anaphylactic shock) - (B) 失血性休克 (hypovolemic shock) - (C) 神經性休克 (neurogenic shock) - (D) 心因性休克 (cardiogenic shock) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - (C) 15. 下列有關神經性休克 (neurogenic shock) 之敘述,何者錯誤? Source: [[sources/med5-book1-ch03|丙、休克與輸液]].

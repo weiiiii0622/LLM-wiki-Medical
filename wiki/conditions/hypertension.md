@@ -117,6 +117,9 @@ sources:
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book2-ch15]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Hypertension (高血壓)'
   - 'Hypertension'
@@ -131,7 +134,7 @@ tags:
 
 ## Summary
 
-血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -248,9 +251,16 @@ tags:
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book2-ch15]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- · Severe arterial hypertension ( > 200 mmHg SBP and /or 110 mmHg DBP) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- f. 併發症:如果高血壓的情形不加以控制,會引發併發症,甚至死亡。 - (a) Retinal Hemorrhage • - (b) CVA • - (c) SAH · seizure · death · Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- ...腦性麻痺通常發生於子宮內、生產過程或出生後三年內發生的,原因如下: - (1) 出生前:母親智能障礙、癲癇、懷孕期間感染疾病或服用的藥物所引起,例如: 德國麻疹、帶狀皰疹、輻射線、缺氧、先天腦部畸形、孕婦於懷孕期間無法有 效控制糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(spastic, 60%): 最常見,呈現上運動神經元疾病的表徵如肌肉張力高、阻力強且深 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 4. 前部缺血性視神經病變(anterior ischemic optic neuropathy, AION): - (1) 簡介:好發於 40~60 歲,通常為單眼,常伴有高血壓、動脈硬化、糖尿病等,或巨大細胞動脈炎(giant cell arteritis)。 - (2) 臨床症狀: 無疼痛的視力突然減退,若患巨大細胞動脈炎者,會有頭痛,顎痛, 頭皮壓痛、肌肉關節痠痛、體重減輕、食慾不振等症狀。 - (3) 徵候:視力減退(剩眼前手指數),輸入性瞳孔缺損,視神經盤蒼白水腫併有火 焰狀出血,視野水平缺損。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 2. 危險因子: 糖尿病的持續期間 (duration),最重要!、不佳的血糖控制 (HbA1c > 7%)、懷孕、高血壓、腎病變、抽菸、肥胖、高血脂等。 Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -265,8 +275,6 @@ tags:
 - A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) *126* Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - # A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - | 名詞 | 定義 | |----------------------------|-----------------------------------------------| | 妊娠高血壓 | · 之前血壓正常,懷孕 20 週後出現高血壓,但無蛋白尿、 | | (Gestational HTN) | 無器官失能,且於產後12週內恢復正常。 | | 子癲前症 | • 之前血壓正常,懷孕 20 週後出現高血壓,且合併蛋白 | | (Preeclampsia) | 尿或器官失能。 | | 子癲症 | · 已診斷 Preeclampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalize Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- | 藥 物 | 作用 | 給藥方式 | 副作用 | |---------------|-------------|----------|-------------| | Oxytocin | 子宮收縮、減少產後出血 | 靜脈注射 | 水中毒 (同 ADH) | | Ergonovine | 子宮收縮、減少產後出血 | 靜脈、肌肉注射 | 高血壓 | | Prostaglandin | 子宮收縮 | 陰道塞劑、陰道釋 | 噁心、嘔吐、腹瀉 | | | | 放系統 | 頭痛、頭暈 | | | | | 輕度血壓上升或下降 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- (D) chronic hypertension Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 
 ## Clinical Caveats
 

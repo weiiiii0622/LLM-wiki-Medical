@@ -28,6 +28,7 @@ sources:
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med6-book1-ch05]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Bilirubin metabolism (膽紅素代謝)'
   - 'Bilirubin metabolism'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽紅素生成、肝攝取、結合與膽汁排泄異常造成不同型態黃疸。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,11 @@ tags:
 - [[sources/med5-book4-ch12]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med6-book1-ch05]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- b. 徐動型(athetosis, 20%): 又稱做 Dyskinetic Cerebral Palsy, 為基底核受傷, 引起四肢或驅幹肌張力的不規則變化,大多時間會有不自主動作,例如臉部常出現鬼臉、口腔功能控制困難、嘴常張著流口水,進食發聲和說話也常有問題。不自主動作容易受情緒的影響,當情緒較激動時,不自主的動作會更明顯,放鬆時則會減緩。常伴隨聽障的情形。新生兒黃疸嚴重若未治療的話,膽紅素會沉積在基底核使其受損,稱作核黃疸(Kernicterus),會造成徐動型腦性麻痺。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - (B) 孕婦血清直接膽紅素 (direct bilirubin) Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - ...or), 轉化生長因子 (transforming growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 (PPT)延長,通常也伴隨發燒、疲倦、體重減輕。這些是因腫瘤分泌刺激因子(粒細胞—巨噬細胞群刺激因子 GMCSF = granulocyte-macrophage colony stimulating factor)造成,切除病灶後可回復。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 常用縮寫:總膽紅素(total bilirubin, T.B.)、間接(非結合型)膽紅素(indirect/unconjugated bilirubin, I.B.)、直接(結合型)膽紅素(direct/conjugated bilirubin, D.B.) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
@@ -90,7 +93,6 @@ tags:
 - 先天性膽道閉鎖臨床上會有 cholestasis。但是引起 cholestasis 原因如下圖所示。 Cholestasis 定義為 prolong elevation of the serial conjugated bilirubin beyond the 1st 14 days of life。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 1. 喝母乳的寶寶, 黃疸可能持續到 2~3 個月才完全消退,如果 寶寶大便 顏色為大便卡(參閱第 20 頁)之 1~6 的不正常顏 色,或者是滿月後仍有黃疸,應請教兒科醫師或家醫科醫師 確定黃疸的原因,並抽血檢驗直接型膽紅素值。而在此同 時,仍然可持續哺餵母乳。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 膽紅素沉積在新生兒皮膚表面上造成膚色外觀呈現黃色狀態。一般而言生理性黃 疸在出生後 2~3 天出現,出生後 4~5 天可以達到高峰,之後黃疸逐漸消退。但是若出 生 48 小時內出現黃疸,或是膽紅素值達到照光標準,則為病理性黃疸,必須積極處理。 若不積極處理,膽紅素經血液流至中樞神經沉積在基底核造成核黃疸。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- | 原因 | 臨床疾病 | | | |------------|-----------------------------------------------------------------|--|--| | 膽紅素製造增加 | Hemolytic anemia polycythemia bruising or internal | | | | | hemorrhage vincreased enterohepatic circulation vinfection v | | | | | short red blood cell life. | | | | 代謝酵素的破壞、缺乏 | G-6-P-D deficiency \ hypoxia \ in Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 

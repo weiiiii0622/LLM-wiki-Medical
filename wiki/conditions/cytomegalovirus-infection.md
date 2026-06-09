@@ -30,6 +30,7 @@ sources:
   - "[[sources/med6-book2-ch07]]"
   - "[[sources/med6-book2-ch08]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Cytomegalovirus infection, CMV (巨細胞病毒感染)'
   - 'Cytomegalovirus infection, CMV'
@@ -44,7 +45,7 @@ tags:
 
 ## Summary
 
-免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫低下者可造成 retinitis、colitis、encephalitis 等。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +75,11 @@ tags:
 - [[sources/med6-book2-ch07]]
 - [[sources/med6-book2-ch08]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- b. 其他像是子宮內感染(rubella、CMV、toxoplasmosis和syphilis)、產程中缺氧、腦炎或腦膜炎也會造成聽力障礙。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 1. 簡介:由感染 human immunodeficiency virus 造成,因 CD4+ T 淋巴球受攻擊而減少 造成免疫不全,當 CD4+ 數量少於 50 cells/mm3 時,易有巨細胞病毒視網膜炎。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - 3. 巨細胞病毒視網膜炎(Cytomegalovirus retinitis): 最常見的眼部伺機性感染。 - (1) 眼底:整層視網膜水種混濁和併有硬性滲出物和出血。 - (2) 診斷:臨床診斷為主,血清及病毒培養貢獻不大。 - (3) 治療:抗病毒藥物 ganciclovir 靜脈或玻璃體內注射。部分病人會產生視網膜剝離,須採取玻璃體切除術合併矽油填充。 - (4) 預後:以病毒藥物治療,只能控制住病毒複製的活性,無法完全摧毀病毒,當免疫防禦機制低下時,病毒的活性便會伺機再度侵犯人體。因此,即使已受感染過,不代表日後就能獲免。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].

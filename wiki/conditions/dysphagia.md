@@ -29,6 +29,8 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Dysphagia (吞嚥困難)'
   - 'Dysphagia'
@@ -43,7 +45,7 @@ tags:
 
 ## Summary
 
-吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +74,15 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med6-book3-ch01]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- C. 吞嚥困難 (Dysphagia) 14 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- #### C. 吞嚥困難 (Dysphagia) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- 3. 中風患者約有 30~45% 會有吞嚥困難的情形,常見的腦部病灶位置為: - (1) 腦幹:67%。 - (2) 大腦左半球:28%。 - (3) 大腦右半球:21%。 - (4) 兩側大腦皆損傷的發生率比單側損傷多。 - (5) 大血管梗塞比小血管梗塞常見。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- ...痺型(diplegia):四肢對稱性受影響,但雙腳的影響較嚴重,下肢 通常呈現剪刀腳姿勢。常見於早產的 CP 患者。 - (d) 四肢麻痺型(quadriplegia):最嚴重,四肢都有問題,通常上肢比下肢嚴重,連臉部表情也受到影響,常合併吞嚥困難,最容易髖關節脫位。 - (e) 其他還有下半身麻痺(paraplegia)和三肢麻痺(triplegia,通常是一個上肢和雙下肢受影響)。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - H. 普文二氏綜合症、缺鐵性咽下吞嚥困難 (Plummer-Vinson syndrome、Paterson-Brown-Kelly syndrome、Sideropenic dysphagia) 98 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 3. 臨床症狀:吞嚥困難(dysphagia)、食物逆流(regurgitation)及體重減輕。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (C) 典型症狀為吞嚥困難、食物逆流及體重減輕 Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -89,10 +97,6 @@ tags:
 - (D) 2. 下列何者不是食物引起的肉毒桿菌毒素中毒(food-born botulism) 107( ) 專 的症狀? - (A) 瞳孔放大 (pupil dilatation) - (B) 吞嚥困難 (dysphagia) - (C) 構音障礙 (dysarthria) - (D) 角弓反張 (opisthotonus) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (C) dysphagia(D) wrist drop Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - ...】脊髓小腦共濟失調症(spinocerebellar ataxia)是一群晚發型(中年左右發病)遺傳性(AD、AR、X-link)罕見疾病,基因中分別有段異常的 CAG 核甘酸重複序列異常倍增,導致神經元退化。患者四肢運動不平衡,說話不清、吞嚥困難、眼球異常轉動、寫字或手部度作遲鈍,目前無有效治療方式。 | 107(二)專醫四-56 | | (A) | 7. 下列何者的異常值高低和粒線體疾病的病況嚴重程度最相關? (A) 血中乳酸量的高低 (B) 血中乳酸去氫酶(lactic dehydrogenase, LDH)的活性 (C) 脊髓液中的蛋白質含量 (D) 脊髓液中免疫球蛋白 G 的指數(IgG index) | 107(二)專醫四 -58 | | (B) | 8. 有關慢性疲 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- ...風的病人,只要合併心房震顫,應建議接受抗凝血劑治療 | 106(二)專醫四-47 | | (A) 1 | 1. A 先生,65 歲男性,有高血壓病史多年,早上吃完早飯後,突然頭暈,步態不穩,被送至急診室,身體神經功能檢查,發現講話口語不清,吞嚥困難,右側 gag reflex 消失,左側疼痛感覺遲鈍,其病灶最可能與下列那條血管堵塞有關?(A)右側後下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (B) 35. 一位 65 歲男性,突發性頭暈、嘔吐、口齒不清且吞嚥困難。身 99( 二 ) 專 體檢查發現左側瞳孔較小且眼瞼下垂。請問最可能的病因是: 醫四 -58 - (A) 左側後交通動脈之動脈瘤破裂(posterior communicating artery aneurysm rupture) - (B) 左側後下小腦動脈阻塞 (posterior inferior cerebellar artery occlusion) - (C) 左側豆紋狀動脈阻塞(lenticulostriate artery occlusion) - (D) 左側中大腦動脈阻塞 (middle cerebral artery occlusion) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 【詳解】Lateral medullary syndrome 為必考題。Lateral medulla 內含的結構:vestibular nuclei, inferior cerebellar peduncle, central tegmental tract, lateral spinothalamic tract, spinal trigeminal nucleus & tract, nucleus ambiguous and descending sympathetic fibers。依其影響結構便導致相應的神經症狀。如暈眩、同側肢體失調、上顎抽躍症、對側驅幹反肢體感覺異常、同側顏面感覺異常、吞嚥困難及同側 Horner's syndrome(垂瞼、縮瞳、無汗)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- 2. 症狀包含橋腦相關的神經學症狀:全身無力(甚至導致lock in syndrome),聲音沙啞, 吞嚥困難等,甚至還會造成昏迷。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 
@@ -101,6 +105,9 @@ tags:
 
 ## Related Pages
 
+- [[procedures/dysphagia-rehabilitation|Dysphagia rehabilitation (吞嚥復健)]]
+- [[conditions/stroke|Stroke / cerebrovascular accident, CVA (腦中風)]]
+- [[diagnostics/videofluoroscopic-swallow-study|Videofluoroscopic swallow study, VFSS (吞嚥攝影檢查)]]
 - [[conditions/zenker-diverticulum|Zenker diverticulum (Zenker 憩室)]]
 
 ## Follow-up

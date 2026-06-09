@@ -12,6 +12,8 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med5-book5-ch05]]"
+  - "[[sources/med6-book3-ch07]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Pacemaker (心律調節器)'
   - 'Pacemaker'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-治療部分 bradyarrhythmia 或傳導阻滯。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療部分 bradyarrhythmia 或傳導阻滯。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med5-book5-ch05]]
+- [[sources/med6-book3-ch07]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- ...手術後之沾黏)、減少疼痛、 消腫、加速受傷軟組織之癒合。 - (d) 禁忌症:懷孕的子宮部位、眼睛區域(含水分多,溫度易升高)、癌症、 未成熟的骨骼(如骨折術後、生長板)、中樞神經(已經椎板切除術後的 脊椎)、血管異常(深部靜脈栓塞)、心臟節律器附近等。 - b. 短波 (short wave diathermy): - (a) 短波為電磁波的一種,可用來止痛與消腫、促進組織癒合與神經生長, 以及軟化攣縮的組織。 - (b) 除了熱效應之外,電磁波亦能產生其他生物效應: - i. 改變細胞活性,活化纖維母細胞、神經細胞,甚至刺激 ATP 與蛋白質 之合成。 - ii. 增加糖尿病患傷口附近局部微血管的充血,改善局部血液循環,增加 局部組織的氧氣與養分供應,有助於傷口癒合。 - Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
+- ii. 不適合用在裝有電子式植入物(心臟節律器、去顫器等)的病患,以 免被電磁波干擾而失去作用。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
+- ...適應症:下背痛、退化性關節炎、類風濕性關節炎、韌帶扭傷、肌腱炎、肌肉 肌膜疼痛等。 - (4) 禁忌症: - a. 動靜脈血栓或血栓性靜脈炎(thrombophlebitis)。 - b. 勿放在頸動脈竇附近,以免造成心律不整。 - c. 心律調節器附近,以免干擾節律器功能。 - d. 孕婦、癲癇、癌症。 - e. 感覺異常者或無法表達溝通者。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
+- · Third-degree heart block without pacemaker Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - v. 有裝心臟節律器尚未會診心臟科醫師同意者。 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - (A) pacemaker implantation Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 貧血,或肝炎。多數的症狀都是暫時性的,只須給予支持性的治療,但心臟傳 導異常是永久性的,常需要安裝心律調節器。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

@@ -26,6 +26,7 @@ sources:
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Hyperthyroidism (甲狀腺亢進)'
   - 'Hyperthyroidism'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素過多造成高代謝症狀、心悸、體重下降與眼/皮膚表現。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book2-ch14]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- i. 肌束波(fasciculation):由單一運動單元(motor unit)不自主的放電 而造成,常見於神經病變(radiculopathy、狂牛症、強直性痙攣)、特 定代謝疾病(thyrotoxicosis)或是正常肌肉的變異(緊張或劇烈運動)。 - \*運動單元是肌肉收縮的功能單位,每一運動單元包括一個運動神經 元、其軸突及所支配的肌纖維,當一運動神經元之神經衝動傳至其所 支配之肌纖維引起所有肌纖維收縮時,其整合而得的電位即一運動單 元電位波。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - (1) 甲狀腺眼病變(Thyroid-related ophthalmopathy):因自體免疫造成淋巴球浸潤眼外肌,引起水腫、發炎甚至纖維化。最常侵犯的眼外肌依序為:下直肌>內直肌>上直肌>外直肌。因此,患者最常表現下斜視和內斜視。眼外肌纖維化程度與甲狀腺亢進程度並無直接相關。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - | Graves disease | · 為自體免疫產生的 TSH receptor autoantibody 持續刺激 TSH | |-----------------|-----------------------------------------------| | | receptor,進而造成甲狀腺機能亢進,此抗體可穿過胎盤成胎 | | | 兒甲狀腺毒症 | | hCG-mediated | · hCG 結構和 TSH 相似,因而 hCG 具有微弱 TSH 作用,當 | | hyperthyroidism | hCG 異常升高時(如妊娠滋養層疾病)便可能造成甲狀腺機 | | | 能亢進 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (B) 2. 小英懷孕 18 週,懷孕前就有甲狀腺機能亢進並服用藥物控制。 99( ) 專 懷孕後自行停藥,也沒再回內科追蹤。在婦產科門診,醫師幫她 醫六 -32 安排抽血檢查,發現 T3、T4 值都很高,有 Overt thyrotoxicosis, 醫師告誡她必須要好好服藥控制,不然會有很多併發症。下列 何者不是小英之疾病常見的併發症? - (A) 早產或死胎 (preterm delivery or stillbirth) - (B) 深層靜脈阻塞 (deep vein thrombosis) - (C) 心臟衰竭 (heart failure) - (D) 子癇前症 (preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].

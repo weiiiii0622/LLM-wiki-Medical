@@ -44,6 +44,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Oxygenation and ventilation (氧合與通氣)'
   - 'Oxygenation and ventilation'
@@ -58,7 +60,7 @@ tags:
 
 ## Summary
 
-區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +104,15 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...-------| | 攝氧量 | 不變 | 不變 | 1 | | 心率 | ↓ | V | ↓ | | 心搏量 | ↑ | ↑ | ↑ | | 心輸出量 | 不變 | 不變 | ↑ | | 心肌耗氧量 | ↓ | \ | 不變 | | 肺部通氣量 | 不變 | ↓ | ↑ | | 動靜脈氧分壓差 | 不變 | ↑ | ↑ | | 血中乳酸濃度 | 不變 | ↓ | ↑ | | 肌肉血流量 | 不變 | ↓ | | | 内臟血流量 | 不變 | 不變 | ↓ | | 收縮壓 | 1 | \ | 不變 | | 舒張壓 | \ | V | 不變 | Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- 1. 肺部復健的好處: - (1) 改善運動耐受度、改善呼吸肌力量與耐受度。 - (2) 增加動脈氧合作用 - (3) 降低呼吸作功及控制呼吸速率。 - (4) 矯正呼吸型態。 - (5) 預防或改善肺炎、肺擴張不全等併發症。 - (6) 改善病患的生活品質和 ADL,降低焦慮和憂鬱的情形。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (2) 上肢復健:主要是使肩膀、手臂與肩部肌肉運動,可增加通氣量、增加呼吸及上臂肌肉的強度及耐力。可分為無負重擴胸運動、無負重舉臂運動和負重舉臂運動。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (a) 肺容積降低:表現為 restrictive lung disease,用力肺活量(forced vital capacity, FVC)、呼氣儲存量(expiratory reserve volume)、通氣儲存量(ventilatory reserve volume)、全肺容積(total lung capacity)等皆會下降;肺餘容積(residual volume)則會上升。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - b. 因黃體素的作用,造成中樞對 $CO_2$ 的敏感度增加,使得橫膈運動增加,導致 relative hyperventilation;另外,潮氣容積(tidal volume)也增加,因而每分 通氣量(minute ventilation)增加, $CO_2$ 的排除增加,於是母血的二氧化碳濃度( $PaCO_2$ )降低,引起輕微呼吸性鹼中毒。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 1. 簡介:口服避孕藥包括 combined estrogen-progestin oral contraceptives 和 progestin-only pills,兩者避孕效果相當,在正確使用下,僅不到 1% 的失敗率。目前的趨勢是減少 estrogen 的劑量及新型 progestin 的使用。 - (1) 口服避孕藥使用的 estrogen 為 ethinyl estradiol (效力比單獨 estradiol 高),過去使用高劑量 (>50~mcg),研究發現明顯增加心血管疾病和靜脈栓塞的風險。目前趨勢是低劑量使用 (2 下降,但 PaCO2 正常或下降)、V/Q scan mismatches、腿部 都普勒超音波和 CT pulmonary angiography。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...| | 或寡尿才考慮抽腹水 | | | | | | 目前觀念 積極抽腹水,只要有中度以上腹水,病人 | | | | | | 臨床上有不適即可抽腹水 | | | | | ・預防血栓 | (1) 診斷方法:arterial blood gas、ventilation/perfusion | | | | | | scan 和 CT scan。 | | | | | | (2) 預防方法: 穿彈性襪、給予 heparin (Hct > 55% 考 | | | | | | 慮給予 | ) • | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
@@ -119,10 +127,6 @@ tags:
 - ...-----------|---------| | | 下列敘述何者錯誤? | 醫五 -29 | | | (A) 低血容合併急性腎衰竭 (hypovolemia with acute renal failure) | | | | (B) 低血氧合併成人呼吸窘迫症 (hypoxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - C. 葉克膜(Extracorporeal membrane oxygenation, ECMO) *100* Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 1. 1953 年由美國外科醫生 Gibbon 所發明,體外循環是指應用人工管道將人體大血管 與人工心肺機連接,從靜脈系統引出靜脈血,並在體外氧合,再經血泵將氧合血輸 回動脈系統。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- #### C. 葉克膜 (Extracorporeal membrane oxygenation, ECMO) Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 右心室(充氧血)→肺動脈→肺部血管(沒有氧合與換氣功能)→肺靜脈→左心 房→左心室→主動脈→髂動脈→臍動脈(缺氧血)→胎盤(氧合與換氣)→臍靜脈(充 氧血)→下腔大靜脈→右心房→右心室。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- 右心室(缺氧血)→肺動脈→肺部血管(氧合與換氣)→肺靜脈(充氧血)→左 心房→左心室→主動脈→各分支動脈→微血管→上下腔大靜脈(缺氧血)→右心房→ 右心室。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- 故面對此類題目不要往這幾個名詞或它的正常解剖功能上面鑽牛角尖,先想清楚 眼前病人左右心血液流動的方向、氧合與換氣是否足夠、四個瓣膜與四個房室隔間的 完整性、血液是否得到心室系統適當的加壓…等概念,再來解題。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 
 ## Clinical Caveats
 
@@ -131,6 +135,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/inspiratory-muscle-training|Inspiratory muscle training (吸氣肌訓練)]]
 - [[conditions/neonatal-respiratory-distress-syndrome|Neonatal respiratory distress syndrome, RDS (新生兒呼吸窘迫症候群)]]
 
 ## Follow-up

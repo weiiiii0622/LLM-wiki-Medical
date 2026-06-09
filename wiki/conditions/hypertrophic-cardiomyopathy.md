@@ -2,12 +2,13 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch08]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Hypertrophic cardiomyopathy (肥厚型心肌病變)'
   - 'Hypertrophic cardiomyopathy'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-心肌肥厚與動態出口阻塞相關，使用 vasodilator 需小心。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌肥厚與動態出口阻塞相關，使用 vasodilator 需小心。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med3-book1-ch08]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- · Hypertrophic cardiomyopathy and other forms of left ventricular outflow tract obstruction Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...in lesions);腦部超音波檢查發現腦室周圍有許多鈣化之小結節。 則其最常合併之心臟異常為: - (A) 心肌瘤 (rhabdomyoma) - (B) 心室中隔缺損(ventricular septal defect) - (C) 肥厚型心肌病變(hypertrophic cardiomyopathy) - (D) 心臟纖維瘤 (fibroma) - 【詳解】懷疑病人為 Tuberous sclerosis 患者,常見的心臟異常為 rhabdomyoma(佔 50%),其數量可不只一個且位在左心室心 尖處。併發症如 congestive heart failure、arrhythmias 有可能發生。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
 - (4) 先天性心臟病(右側心臟):肺動脈狹窄(pulmonary valvular stenosis)、心肌肥大病變(hypertrophic cardiomyopathy)。有些病人合併心房中膈缺損(ASD)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - B. 肥厚性心肌病 (Hypertrophic cardiomyopathy, HCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].

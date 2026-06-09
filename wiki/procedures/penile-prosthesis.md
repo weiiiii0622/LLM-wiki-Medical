@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 sources:
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Penile prosthesis (人工陰莖植入)'
   - 'Penile prosthesis'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-嚴重或藥物無效 erectile dysfunction 的手術選項，可為半硬式或充氣式植入物。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嚴重或藥物無效 erectile dysfunction 的手術選項，可為半硬式或充氣式植入物。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (d) 植入人工陰莖海綿體支撐器:如果以上三種方法皆不適用,可考慮植入 人工陰莖。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - b. 手術 (surgical): - (a) 血管手術、血管支架植入: - i. 陰莖外動脈問題:以手術方式處理,如血管繞道。 - ii. 陰莖血管支架植入。 - (b) 人工陰莖 (Penile prosthesis)。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 
 ## Clinical Caveats

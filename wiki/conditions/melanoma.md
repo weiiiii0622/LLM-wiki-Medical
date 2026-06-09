@@ -17,6 +17,7 @@ sources:
   - "[[sources/med6-book2-ch07]]"
   - "[[sources/med6-book2-ch02]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Melanoma (黑色素瘤)'
   - 'Melanoma'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+惡性黑色素細胞腫瘤，預後與 Breslow thickness、潰瘍、分期等相關。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med6-book2-ch07]]
 - [[sources/med6-book2-ch02]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (7) ASIA impairment scale: ASIA 從早期的 Frankel scale 去作修訂,根據感覺和運動功能的保留情形,將脊髓損傷分為 ABCDE 五期。 - a. A=完全性損傷:在薦髓 S4-5 部分,完全沒有感覺或運動機能。 - b. B = 不完全性損傷:在 neurological level 以下,運動機能完全喪失,但此部位到最低薦髓段仍保有感覺機能。且兩側 motor level 的下三節以下的 key muscle 皆無運動功能。 - c. C = 不完全性損傷:在 neurological level 以下,仍保有運動機能,但 neurological leve Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 1. 眼球摘除 (enucleation) 的適應症: - (1) 眼內惡性腫瘤 (primary intraocular malignancies),如小孩視網膜胚母細胞瘤或成人的黑色素瘤,目的要可提供病理切片看是否已侵犯出眼球。 - (2) 疼痛又無視力的眼球,如青光眼末期。 - (3) 為預防或治療交感性眼炎,故摘除受傷嚴重的那眼的眼球。 - (4) 失去視覺功能,也失去眼球的形狀,為了美觀可摘除而換義眼。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 2. 眼窩剜除術 (exenteration): - (1) 清除範圍:眼眶組織(包含眼瞼、眼球、眼外肌和視神經) 剜除。 - (2) 適應症:眼眶原發性惡性腫瘤(orbital malignancies:melanoma 或 retinoblastoma) 已經侵犯出眼球外、眼眶病灶無法局部切除(如眼眶鼻腔白黴菌症)、眼眶周 圍侵犯性惡性腫瘤。 - (3) 相較於眼球內容物剜除術其破壞性更大,不過對腫瘤的清除也較乾淨。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 1. 脈絡膜惡性黑色素瘤(Choroidal malignant melanoma):成人最常見的原發性眼內腫瘤(小孩最常見的原發性眼內腫瘤為視網膜胚細胞瘤 Retinoblastoma),其惡性程度高,易經血流轉移。 - (1) 臨床症狀:通常發生於 50 歲左右,意外發現無症狀的腫瘤,造成視力下降、 屈光度改變、視野缺損。若有全身性轉移,最易轉移至肝臟,應排腹部超音波 檢查。 - (2) 特色:視網膜下可見黑棕色高起如香菇狀的腫塊,常見次發性滲出性剝離。 - (3) 預後因子:與其組織學特色和病理切片觀察之細胞型態分類有關。類上皮細胞 (epithelioid cell)越多、淋巴球浸潤越多、腫瘤內封閉的血管環越多,預後越差。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].

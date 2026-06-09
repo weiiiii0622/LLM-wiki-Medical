@@ -2,11 +2,12 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch05]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Heart transplantation (心臟移植)'
   - 'Heart transplantation'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-末期心衰竭的外科治療之一，需評估適應症、禁忌症、排斥、感染與免疫抑制。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+末期心衰竭的外科治療之一，需評估適應症、禁忌症、排斥、感染與免疫抑制。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch05]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (2) 對象:主要是接受冠狀動脈繞道手術、瓣膜換置手術、先天性心臟病手術與心臟移植術後的患者。另外週邊動脈阻塞、接受冠狀動脈血管整型術後或心臟衰竭患者,也都是心臟復健的對象。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (c) 或用自覺勞力(用力)係數(rating of perceived exertion, RPE):病患主 觀評估出力的程度,評估分數為 6~20 分,6 分代表十分輕鬆,20 分代表 非常辛苦,可用於不適合以心跳速率做為運動強度指標的病人(如心律 不整、使用藥物 Beta blocker、或接受心臟移植)。當自我感覺十分輕鬆 時 RPE=6,等同心跳正常的人正處於心跳速率 60 下的運動強度。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (1) 心臟移植後生理學上的變化: - a. 移植後的心臟由於沒有神經支配(交感和副交感)所以當患者處於休息狀態時, 少了迷走神經(副交感)對 SA node 的抑制,其基礎心率會接近 100 bpm。 - b. 少了交感神經的支配,運動時需靠血中的 catecholamine 增快心跳和心輸出量,但增加速度較緩慢,且運動時所能達到的最大心跳數會比正常人低 20~25%。 - c. 運動完後,心臟也須花較長的時間才能恢復到休息時的狀態。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - A. 心臟移植手術是末期心衰竭患者的最後有效治療,造成末期心衰竭的原因包含: Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - 3. Insufficient indications:單有以下情形並不足以作心臟移植。 - (1) 左心室 ejection fraction 低下。 - (2) 曾經有 NYHA class III 或 IV 的 heart failure。 - (3) Peak VO2 > 15 mL/kg/min,且無其他適應症。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (1) 嚴重肺高壓且經治療仍大於 PVR > 6 Wood Unit 者,心臟移植後馬上就 RV failure。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
@@ -46,6 +51,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/cardiac-rehabilitation|Cardiac rehabilitation (心臟復健)]]
 - [[conditions/heart-failure|Heart failure (心臟衰竭)]]
 - [[drugs/immunosuppressants|Immunosuppressants (免疫抑制劑)]]
 - [[concepts/organ-transplantation|Organ transplantation (器官移植)]]

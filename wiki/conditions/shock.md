@@ -44,6 +44,8 @@ sources:
   - "[[sources/med6-book1-ch15]]"
   - "[[sources/med6-book1-ch17]]"
   - "[[sources/med6-book2-ch11]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Shock (休克)'
   - 'Shock'
@@ -58,7 +60,7 @@ tags:
 
 ## Summary
 
-循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +104,15 @@ tags:
 - [[sources/med6-book1-ch15]]
 - [[sources/med6-book1-ch17]]
 - [[sources/med6-book2-ch11]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- ...可能出現下肢肌力正常,稱為 "root escape"。 - \* Bulbocavernosus reflex:用手擠捏龜頭(男)、陰蒂(女)或拉扯導尿管時,肛門括約肌會收縮。為脊髓反射,由 S2~4 負責,該反射消失代表 spinal shock、脊髓圓錐或是馬尾損傷。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (1) 姿態性低血壓 (Orthostatic hypotension): - a. SCI 影響到交感神經的訊息傳遞,當病患姿勢由平躺轉為坐起或站立時,血壓明顯下降(SBP下降> 20 mmHg; DBP下降> 10 mmHg),即為姿態性低血壓。 - b. 姿態性低血壓好發在 T6 以上的損傷,因 T1~L2 負責加速心跳、血管收縮和增加動脈壓(心臟含血管的神經支配主要由 T1~7 負責)。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (c) 不過由於脊髓損傷導致交感神經訊息傳遞無法由上往下傳,無法調適的 結果造成了姿態性低血壓。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (d) 仰臥頭高腳低(reverse Trendelenburg)的相對禁忌症 - i. 低血壓或使用血管擴張劑。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...縮瞳。 | 障、近視。 | 芸果香) | | agents | -縮瞳作用對隅角閉鎖性青光眼的緩解 | | | | | 有其價值。 | | | | $\alpha_2$ agonist | - 可抑制房水產生,並促進房水排出。 | 副作用:低血壓、眼 | Brimonidine | | | 其中 apraclonidine 可作為雷射治療後, | 睛刺激感、口乾、疲 | Apraclonidine | | | 預防術後眼壓突升,具神經保護效果。 | 倦、頭痛。 | | | | -第一線用藥。 | | | | Prostaglandin | -促進房水由上脈絡膜腔 (suprachoroidal | 副作用:眼部副作用: | Latanoprost | | analog | sp Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - | 藥 物 | 給藥方式 | 副作用 | |-----------------------------|-----------|---------------| | Oxytocin | 靜脈給藥 | 低血壓(血管擴張) | | Carbetocin | 靜脈給藥 | 低血壓、潮紅、頭痛、顫抖、 | | | | 噁心、腹痛 | | Methylergonovine | 肌肉注射 | 禁忌症為高血壓、周邊血管和 | | (C) (A) (A) | | 缺血性心臟病 | | Misoprostol (PGE1) | 肛門塞劑、口服 | 可用於高血壓或氣喘之患者 | | | 或舌下給予 | 可能引起發燒 | | 15-methyl prostag Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - | Hypovolemic shock and organ failure | Fluid overload (pulmonary edema) | |-------------------------------------|--------------------------------------| | Anemia | Transfusion-related complications | | Sepsis, wound infection, pneumonia | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -119,10 +127,6 @@ tags:
 - | (A) 截肢病人若出現休克現象就要立即進行接合手術(replantation) 醫五-76 (B) 骨折固定可減少疼痛及避免進一步軟組織傷害 (C) 懷疑有動脈血管損傷必須考慮安排血管攝影檢查 (D) 近關節處的傷口不要嘗試從傷口注入生理食鹽水來檢查是否與關節腔相通 【詳解】(A) 休克可能是因為失血太多,第一必須先穩定生命徵象,再考慮麻醉作接合手術,因為麻醉本身也會造成相對低血壓,大量出血造成的休克可能要考慮先用血管栓塞止血;另一方面有可能是感染造成的休克,此 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 1. 骨盆骨折的特性:有三高。 - (1) High energy trauma: 骨盆周圍的韌帶非常強韌而穩定,所以若骨盆受傷表示一定受到很高能量的傷害,在台灣常見於車禍意外或高處墜落。 - (2) High morbidity: 高能量的外力破壞造成胸部、腦部、腹部的伴隨傷害 (associated injury)、同時有 15% 病人會合併骨盆腔器官、神經血管的傷害,如果有血管的傷害常會合併大量的出血。 - (3) High mortality: 不穩定的骨盆骨折死亡率可高達 10%。若是不穩定的骨盆骨折 再加上開放性骨折或是腦部、胸部的傷害,造成休克,死亡率甚至可升高到 50%。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (1) 早期: - a. Vital sign 不穩、失血過多、休克。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- i. $\alpha_1$ -blockers 對三個亞型的平滑肌都放鬆的作用,故會造成: - (i) 逆行性射精 (retrograde ejaculation,膀胱底及攝護腺有 α1A):5%。 - (ii) 疲勞感及姿勢性低血壓 (orthostatic hypotension,全身血管有 αIB):5%。 - (iii)造成頭暈、鼻炎或頭痛(鼻道有 αID):10%。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (B) 出血性休克(hemorrhagic shock) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- ...oxazosin、tamsulosin及 alfuzosin等 (C) 有時 anticholinergics 會造成排尿更困難,因為它會造成膀胱逼尿肌收縮力變較差 (D) α-adrenergic blockers 常見到的副作用為姿態性低血壓及腹瀉【詳解】一律給分。 | 104(一)專醫五-69 | |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 
 ## Clinical Caveats
 

@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book6-ch01]]"
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book3-ch08]]"
 aliases:
   - 'Open fracture (開放性骨折)'
   - 'Open fracture'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-骨折與外界傷口相通，屬骨科急症，處理核心是清洗清創、抗生素、固定與軟組織覆蓋。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨折與外界傷口相通，屬骨科急症，處理核心是清洗清創、抗生素、固定與軟組織覆蓋。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med5-book6-ch01]]
 - [[sources/med5-book6-ch04]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book3-ch08]]
 
 ## Key Details From Sources
 
+- d. 骨折 (fracture): - (a) 開放性骨折:骨骼斷裂且傷口與骨頭相通,較易感染。 - (b) 閉鎖性骨折:骨骼斷裂但傷口未與骨頭相通。 Source: [[sources/med6-book3-ch08|辛、運動醫學]].
 - B. 開放性骨折 (Open fracture) 26 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - #### B. 開放性骨折 (Open fracture) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 2. 分類:目前最常用的是 Gustilo classification。 - (1) Type I: 傷口小於一公分。 - (2) Type II: 傷口介於一到十公分之間,且沒有大範圍軟組織受傷。 - (3) Type III: 十公分以上傷口,此外不論大小的槍傷,或是沾有泥土的傷口(髒的傷口)都必須歸在這類。Type III 傷口又可再細分成三種: - a. IIIA:傷口周圍軟組織足以覆蓋骨頭。 - b. IIIB:傷口周圍軟組織不足以覆蓋傷口。 - c. IIIC:除骨折與傷口外,同時伴有神經血管損傷。 Source: [[sources/med5-book6-ch03|丙、創 傷]].

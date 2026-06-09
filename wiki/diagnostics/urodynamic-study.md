@@ -10,6 +10,7 @@ sources:
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch13]]"
   - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Urodynamic study (尿路動力學檢查)'
   - 'Urodynamic study'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-評估下泌尿道儲尿與排尿功能的檢查群，包含 uroflowmetry、cystometry、pressure-flow study 與 sphincter EMG。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估下泌尿道儲尿與排尿功能的檢查群，包含 uroflowmetry、cystometry、pressure-flow study 與 sphincter EMG。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch13]]
 - [[sources/med6-book1-ch16]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- c. 神經性膀胱:可見頻尿、失禁、或解尿困難等症狀。尿路動力學檢查最常見逼尿肌過度興奮合併膀胱容量縮小(detrusor overactivity with low bladder capacity)。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - ### 甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - c. 由於有許多無法控制的變項、人為誤差與缺乏標準進行流程的缺點,尿路動力學的檢查結果無法單獨作為診斷的依據,還必須參照病人的臨床表現。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
 - (4) 尿路動力學檢查的適應症有爭議性,目前共識如下: - a. 病史和身體檢查無法診斷下泌尿道功能異常的原因。 - b. 病人主觀症狀與客觀發現不符。 - c. 接受治療後無改善。 - d. 做為臨床試驗中輔以診斷的客觀數據。 - e. 尿失禁的手術治療前評估。(最有爭議性) - ※ 註:美國婦產科學會(ACOG)結論應力性尿失禁的手術治療前,除非單 靠病史與身體檢查很容易就能診斷,否則常建議做尿路動力學檢查來確 認診斷。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].

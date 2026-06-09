@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Brain tumor (腦瘤)'
   - 'Brain tumor'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-顱內腫瘤依組織來源、位置與 grade 造成 seizure、IICP、focal deficit 或 endocrine symptoms。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內腫瘤依組織來源、位置與 grade 造成 seizure、IICP、focal deficit 或 endocrine symptoms。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book2-ch14]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- 4. 當負責上述語言功能的區域或途徑受破壞時,會引發不同程度的失語症,造成失語症常見的原因如下: - (1) 大腦血管病變:即腦中風,如血栓、栓塞、腦出血及動脈破裂。 - (2) 腦外傷:有穿入性外傷及非穿入性外傷。 - (3) 腦瘤。 - (4) 腦組織炎症 (encephalitis)。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - | 病灶位置 | 視野缺損的形態 | 可能疾病 | |-------|-------------------------------------------|----------------------------------| | 視交叉之前 | 同側單眼視野缺損 | 視神經炎 | | 視交叉 | 雙眼顳側視野缺損 (bitemporal visual field defect) | 腦下垂體腫瘤 (pituitarytumor)、顱咽管瘤 | | | | (craniopharyngioma) | | 視交叉之後 | 雙眼同側視野缺損 (homonynous | 腦瘤、血管阻塞、腦溢血、 | | | visual field defect) | 動脈瘤、腦炎 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (1) 雙眼複視可能與眼外肌和腦神經病變相關:如重症肌無力、後天性斜視(如外傷性斜視)、甲狀腺眼症、腦中風、腦瘤、動脈瘤等。雙眼同時看時會出現複視,而把有問題的眼睛遮住,單眼看時,複視即消失。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].

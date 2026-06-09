@@ -90,6 +90,12 @@ sources:
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book2-ch17]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch07]]"
+  - "[[sources/med6-book3-ch04]]"
+  - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book3-ch03]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Skin (皮膚)'
   - 'Skin'
@@ -104,7 +110,7 @@ tags:
 
 ## Summary
 
-身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+身體最大器官，由 epidermis、dermis、subcutaneous tissue 與附屬器官構成。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -194,9 +200,25 @@ tags:
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book2-ch17]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch07]]
+- [[sources/med6-book3-ch04]]
+- [[sources/med6-book3-ch01]]
+- [[sources/med6-book3-ch03]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- (2) 每段脊髓都支配某片皮膚區域的感覺,稱為皮節 (dermatome),皮節可以透過 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (4) Sensory level of injury:針對身體左右各 28 條皮節進行針刺(pin prick)及輕觸(light touch)檢查,針刺和輕觸覺的評分是和臉部感覺(臉部感覺是 CNS)作比較,左右兩側同時具有正常感覺機能之最低脊髓節段為「Sensory level of injury」。 - a. Pin prick:利用安全別針(safe pin)的尖端和鈍端來檢查。 - (a) 0 分 (absent): 皮膚無法分辨針的尖端還是鈍端、或對刺激沒有感覺。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- ...a. 脊髓末端漸細呈錐形,稱作脊髓圓錐(conus medullaris),正常終止於第一腰椎體下緣,從脊髓圓錐會發出腰薦神經根群向下延伸,稱作馬尾(cauda equina),正常止於第一薦椎下緣。 - b. 脊髓圓錐受損的表現為會陰部皮膚鞍狀感覺缺失(saddle distribution)、括約 肌功能喪失導致大小便不能控制和性功能障礙,其臨床表現視受傷高度影響較多樣化,較高位的受傷其臨床表現會呈現上運動神經元病變(下肢張力上升、反射變強),同時保留 bulbocavernosus(BC)reflex。若較低位的受傷如S2 以下則其臨床表現可能會呈現下運動神經元病變,其膀胱與肛門反射消失。下肢的肌肉力量需視受傷的位置而已,若較低而未影響到L3-S2(下肢的 myoto Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- d. 紅外線:採用近紅外線 near infrared (800~1,500 nm),能透入皮下 1~3 mm, 垂直照射或距離越近皮膚接受的能量越高。可同時治療大片的體表面積,但 假使有開放性傷口須注意皮膚過度乾燥,影響傷口癒合的問題。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
+- (2) 深層熱療:又稱透熱療(diathermy),指將各種形式的能量轉變成熱能,而這些熱可以通過皮膚達到深層組織如肌鍵、骨骼、肌肉和關節囊等使其被吸收。 - a. 超音波:超音波具有熱效應(thermal effect)與非熱效應(non-thermal effect)。 - (a) 熱效應:超音波穿透組織時,能量會轉變成熱能,產生熱療的效果,身體組織對超音波的吸收效果相當好,吸收力依序是骨骼>肌腱>皮膚>肌肉>脂肪,深層熱療中穿透深度最深。 - (b) 非熱效應主要為機械性的震動作用,包括空泡作用(Cavitation,超音波的壓力 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
+- (a) 藉由磁控管產生高頻微波,將能量傳入體內,使得體內極性分子受電磁場影響,震盪排列方向不停反轉產生熱能(與微波爐煮熟食物原理相同)。 微波因為高頻,所以能量衰減較迅速,穿透組織的深度較短波和超音波 淺,因此微波造成的熱大部分積聚在皮膚與脂肪,最深到淺層肌肉。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
+- ...--------------------|--| | 經股骨截肢 (transfemo | ral , AK) | | | | 塞人型 (plug-fit) | 挖洞的木頭中,但會發生殘枝末端 | 端不可承受體重,因此把殘肢直接塞人端水腫、皮膚變厚發炎等併發症,現在tal contact),所以發展出四邊形套筒。 | | | 四邊型(quadrilateral)(圖請參照第 219 頁) | 傳統型,目前也已較少使用。套筒和殘肢完全接觸,可使受壓平均。特色為在套筒後上緣有一坐骨小板凳 (ischial seat) 可負擔重量。 | | | | 包坐骨式(ischial ramuscontainment, IRC)(圖請參照第 219 頁) | 目前使用的主流。 因在四邊型套筒 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
+- (3) 臨床症狀: - a. 急性期:殘肢會水腫、疼痛、皮膚會變硬 也變厚。殘肢表面易生水泡也也容易感染 產生蜂窩性組織炎。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
+- ...因,其他像是中風、心肌梗塞、周邊神經損傷、惡性腫瘤等等原因都有可能。發生於 12~25% 的中風半側偏癱患者。 - (2) 在臨床表現上會出現五種主要症狀: (a) 疼痛、(b) 腫脹、(c) 自主神經失調、(d) 運動方面不協調、(e) 皮膚會變薄發亮,毛髮、指甲粗厚,肌肉萎縮。 - (3) 分期:第一期:關節活動時疼痛、水腫、皮膚發熱發紅;第二期:皮膚變薄、 關節活動受限、皮膚溫度下降;第三期:不可逆的皮膚和肌肉萎縮、疼痛、關 節活動嚴重受限、骨質疏鬆。 - (4) 常見影響範圍為肩膀、手和手腕,手肘通常不受侵犯。 - (5) 診斷主要是靠臨床的表徵,輔以對交感神經切斷術的反應(可有效減輕疼痛) 及骨掃描的結果(three phase bone scan)來決定。 - ( Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- 2. 使用彈性繃帶包紮,以促進患肢肌肉張力、幫助殘肢塑型縮小(shrinkage)和預防 肢體未端腫脹: - (1) 鬆緊度需適中,使壓力平均分散,且肢體末端壓力應大於近端壓力,避免影響 血循。 - (2) 每天應鬆開彈性繃帶至少兩次(每次30分鐘),以便清潔及觀察皮膚有無發紅、 水泡或破皮情況,彈繃也應每天清洗。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
 - (1) 灰線:分為包含皮膚和眼輪匝 肌的前板(ant. lamella)以及 包含瞼板(tarsal plate)和結 膜的後板(post. lamella)。 灰線是手術修補眼瞼邊緣撕 裂傷時的 landmark。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
 - (2) 眼眶中隔(orbital septum): 眼瞼以眼眶中隔分為包含皮膚和眼輪匝肌的表淺層,以及包含提上眼瞼肌、穆勒氏肌(Müller's muscle,位於上眼瞼)、下眼瞼退縮肌(lower lid retractors)以及瞼板的深層。眼眶中隔的功能有防止表免感染或出血等向內擴散至眼窩或腦。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
 - ...眼神經麻痺(2) Horner 氏症候群(3) *Marcus Gunn 氏jaw-winking 症候群 | (1)重症肌無力(2)肌肉失養症(3)眼球肌病變 | (1) 退化性 (老化)(2) 術後註:此指提上眼瞼肌的腱膜 | (1) 皮膚鬆垂(2) 腫瘤(3) 結疤 | Source: [[sources/med6-book2-ch02|乙、眼瞼]].
@@ -205,16 +227,6 @@ tags:
 - .... 春季性角結膜炎(vernal keratoconjunctivitis, VKC): - (1) 簡介:結膜雙側反覆慢性發炎,與 Type 1 IgE 和 Type 4 細胞性免疫反應相關, 多數病人有異位性體質,合併有氣喘、鼻子過敏、皮膚溼疹等症狀。好發年輕 男性,春季末和夏天是發病巔峰。有較高比例的病患同時合併有圓錐角膜。 - (2) 臨床症狀:眼眶搔癢、流淚、畏光、灼熱感等。 - (3) 特徵: - a. 結膜病變:眼瞼型(palpebral):上眼瞼多巨大鵝卵石般(cobble stone)乳突 (Papilla)形成;輪部型(limbic):輪部(=角鞏膜緣)周圍有黏液狀結節 分布,呈果凍狀,伴有含嗜酸性球的上皮細胞形成的白色小點(Horner-Trantas... Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - ...hçet 氏症(Behçet disease):原因不明的全身性血管炎症疾病。發生原因可能是基因異常(HLA-B51)加上免疫刺激(細菌或病毒感染等)。 - a. 主要症狀有:復發性口腔及生殖器潰瘍、眼睛內部炎症(葡萄膜炎或視網膜血管炎)、皮膚結節性紅斑。陽性皮膚針刺試驗(皮膚被針刺後,48小時之內會出現無菌性膿皰:Pathergy test)。 - b. 副症狀有:關節炎、腸胃病變、副睪丸炎、中樞神經病變、血管病變、肺部 病變、泌尿系統病變。有口腔潰瘍加上兩個主要症狀即可診斷。 - c. 眼部表現多為雙側、復發性、非肉芽腫性的前或後葡萄膜炎,可能出現前房蓄膿等。視網膜病變包含視網膜血管炎,而血管滲出物可造成視神經盤水腫,影響視力。 - d. 治療:全身性類固醇加上免疫抑制劑 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - (5) 原田氏症候群(Vogt-Koyanagi-Harada's syndrome):是一種對黑色素細胞專一的自體免疫疾病,侵犯葡萄膜(造成雙側肉芽腫性全葡萄膜炎)、內耳、皮膚、腦膜等處。 - a. 初期 (prodromal): 雙眼急性瀰漫性葡萄膜炎、滲出性視網膜剝離、視乳頭水腫、視神經炎。 - b. 慢性期:眼底色素脱失(sunset glow fundus)、視網膜脈絡膜萎縮並伴隨皮膚白斑、毛髮變白、聽力受損等。若反覆性發生會造白內障或青光眼。 - c. 治療:全身性類固醇或可用免疫抑制劑(cyclosporine、azathioprin)。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
-- 3. 眼瞼:外到內分為五層:皮膚、皮下組織、眼輪匝肌、眼瞼板、瞼結膜。上下眼瞼 交界處為眥,內、外側端分別稱內眥和外眥,邊緣有睫毛。睜眼藉著提上眼瞼肌(主 要的睜眼肌;神經由 CNIII 支配)和穆勒氏肌(Müller's muscle 位在上眼瞼,助維 Source: [[sources/med6-book2-ch01|甲、眼睛概論]].
-- 2. 淚囊炎(Dacryocystitis):淚囊感染多次發於鼻淚管阻塞,常由葡萄球菌或鏈球菌引起,可分急、慢性兩種。 - (1) 急性淚囊炎:症狀為淚囊紅腫熱痛、溢淚等。治療初步給予熱敷及口服抗生素。若有化膿則切開引流,急性期應避免施行淚囊灌洗術及淚囊探針術。緩解後可做淚囊鼻腔造孔術(DCR),避免復發。 - (2) 慢性淚囊炎:較常見,壓迫淚囊會有黏液膿樣分泌物排出,可能造成淚囊無痛性腫大、溢淚等。治療:局部抗生素、DCR。 - \*\* 淚囊炎往往會在淚囊附近的皮膚呈現紅腫及壓痛的情形,一般較淚小管炎影響的範圍來的大且嚴重,甚至會造成眼部的蜂窩性組織炎。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
-- ・ 臉部、頸部、腋下、胸部或鼠蹊部,可能會長皮膚垂疣 (skin tags) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (C) 9.25 歲女大學生,主訴半年無月經,病患主訴課業壓力大,外觀體毛細,皮膚偏黃,身高162公分,體重35公斤,關於此病患,下列敘述何者錯誤? Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ...,雌激素慢性持續地刺激子宮內膜, | | | | 將增加子宮內膜增生及癌化的風險。 | | | 註 2: 黑色素棘皮症 | 指身體皺摺處(頸、腋下、乳房下和大腿等)的黑色素沉澱和 | | | (Acanthosis nigrican) | 皮膚增厚,是胰島素阻抗 (insulin resistance) 的特徵,與 PCOS | | | | 和高雄性素有關。 | | | 註 3: Rotterdam | 卵巢週邊可見 12 個以上 2~9 mm 的小濾泡 士 卵巢體積增加 | | | ultrasound criteria | ( > 10 mL) • | | | 註 4: 代謝性症候群 | 下列 5 項符合 3 項者,即可診斷代謝性症候群 | | | 診斷標準 | ・腰圍> Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ...adder disease | ● Osteoarthritis | | Nephrolithiasis | ● Falls | | Urinary incontinence | ● Cataract | | Bronchospasm | Skin changes | | Dementia | | | Uterine myomas | | | • Epilepsy | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ...染性疾病: - (1) 單純疱疹病毒 HSV: - a. 最常見造成生殖器潰瘍的感染源,分 type 1 和 type 2 可能感染下生殖道或口,有高度傳染性(80%的女性接觸後感染); - b. 臨床表現:影響陰唇陰道和肛門周圍區域,起初皮膚發炎,有灼熱、搔癢和神經過敏(hyperaesthesia)感覺,若影響尿道會造成排尿困難,接著疼痛的小硬結(indurated papule)出現,然後形成表淺潰瘍和腹股溝淋巴結腫大,全身症狀包括頭痛、疲倦,甚至腦炎,而新生兒感染可能造成疱疹性腦炎;急性期約 4~5 天,病灶癒合需要 8~10 天,病毒會潛伏於薦椎神經節,日後可能復發; - c. 診斷:病毒培養、ELISA 或免疫螢光法偵測病毒抗原。 - d. 治療:冰敷、局部麻醉( Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- ...無痛性潰瘍,具高感染性,並且伴隨腹股溝淋巴結腫大 | | | Secondary syphilis | rphilis 病原體在初期後2個月擴散至全身,造成除了輕微發燒和疲 | | | | 倦,主要是廣泛性的淋巴腫大、黏膜表皮病灶、多樣性的皮膚 | | | | 紅斑疹,以及陰唇的疣狀病灶 (condylomata lata) | | | Tertiary syphilis 若未在早期治療,在幾個月或幾年後可能造成心血管和神 | | | | | 併發症,如:神經性梅毒、動脈炎、虹膜炎和 gumma | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- 【詳解】(A) danazol 雖然對減少子宮內膜異位症所造成之疼痛效果好,但副作用大,故現在臨床上較為少用,其副作用包括體重增加、水腫、肌肉疼痛、痤瘡、油脂性皮膚、聲音低沉及多毛症等。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (C) 1. 某產婦於陰道分娩後發現會陰部有裂傷,此傷口涵蓋了皮膚、陰 109(二)專 道黏膜、會陰體(perineal body)、肛門括約肌(anal sphincter)。 醫六-28 這屬於第幾度裂傷? - (A) 第一度 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 
 ## Clinical Caveats
 

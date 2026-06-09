@@ -10,6 +10,7 @@ sources:
   - "[[sources/med6-book1-ch14]]"
   - "[[sources/med6-book1-ch12]]"
   - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Overactive bladder (膀胱過動症)'
   - 'Overactive bladder'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-以尿急、頻尿、夜尿可合併急迫性尿失禁為核心，治療包含行為、antimuscarinic、beta-3 agonist 與 botulinum toxin。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以尿急、頻尿、夜尿可合併急迫性尿失禁為核心，治療包含行為、antimuscarinic、beta-3 agonist 與 botulinum toxin。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med6-book1-ch14]]
 - [[sources/med6-book1-ch12]]
 - [[sources/med6-book1-ch16]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- c. 神經性膀胱:可見頻尿、失禁、或解尿困難等症狀。尿路動力學檢查最常見逼尿肌過度興奮合併膀胱容量縮小(detrusor overactivity with low bladder capacity)。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - ...(paravaginal repair)、 | | | Marshall-Marchetti-Ktantz urethropexy ° | | | 急尿型尿失禁 (urge incontinence) | | 成 因 | 逼尿肌過度活動 (detrusor overactivity),由於非神經性病灶的逼尿肌不穩定 | | | (detrusor instability) 或神經性病灶造成的逼尿肌過度反射 (detrusor | | | hyperreflexia),突然感到強烈排尿感而造成尿失禁 | | 診 斷 | cystometry 發現逼尿肌壓力 (Pdet) 的壓力波 (phasic pressure wave) (如圖一)。 | | 治療 | (1)膀胱訓練 (bladder training): 定 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - (AB) 11. 病患若有膀胱過動症(overactive bladder),下列何種治療方式 應最先被採用? Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - 【詳解】膀胱過動症應先採用行為治療,定時排尿、並慢慢增加間隔時間,其次考慮藥物,最後才是電刺激。 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].

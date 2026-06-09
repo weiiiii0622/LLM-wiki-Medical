@@ -85,6 +85,7 @@ sources:
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Thyroid gland (甲狀腺)'
   - 'Thyroid gland'
@@ -99,7 +100,7 @@ tags:
 
 ## Summary
 
-甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺分泌 T4/T3，調控代謝與多器官功能。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -184,9 +185,11 @@ tags:
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- ...痺通常發生於子宮內、生產過程或出生後三年內發生的,原因如下: - (1) 出生前:母親智能障礙、癲癇、懷孕期間感染疾病或服用的藥物所引起,例如: 德國麻疹、帶狀皰疹、輻射線、缺氧、先天腦部畸形、孕婦於懷孕期間無法有 效控制糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(spastic, 60%): 最常見,呈現上運動神經元疾病的表徵如肌肉張力高、阻力強且深腱反射強 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 2. 系統性疾病相關的白內障(cataract in systemic diseases): 在糖尿病、肌強直失養症(myotonic dystrophy)、異位性皮膚炎、神經纖維瘤第二型(neurofibromatosis-2)、 半乳糖血症(galactosemia)、副甲狀腺低下(hypoparathyroidism)等疾病中,白內 障可能提早發生。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - (1) 甲狀腺眼病變(Thyroid-related ophthalmopathy):因自體免疫造成淋巴球浸潤眼外肌,引起水腫、發炎甚至纖維化。最常侵犯的眼外肌依序為:下直肌>內直肌>上直肌>外直肌。因此,患者最常表現下斜視和內斜視。眼外肌纖維化程度與甲狀腺亢進程度並無直接相關。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - | 年齡 | 單/雙側 | 常見原因 | |-----|------|-----------------| | 成人 | 雙 側 | 甲狀腺眼症>眼窩腫瘤、眼窩發炎 | | 小 孩 | 雙 側 | 轉移性惡性腫瘤>顱顏面骨畸形 | | 成人 | 單 側 | 甲狀腺眼症 | | 小孩 | 單 側 | 眼窩蜂窩性組織炎>眼窩腫瘤 | Source: [[sources/med6-book2-ch15|卯、眼眶]].

@@ -38,6 +38,7 @@ sources:
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch13]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Epidermis (表皮)'
   - 'Epidermis'
@@ -52,7 +53,7 @@ tags:
 
 ## Summary
 
-表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +91,13 @@ tags:
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch13]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...Pressure Ulcer Advisory Panel (NPUAP),依其嚴重程度可分為四期和兩類: - (a) 第一期:皮膚完整無破損,但表面呈紅斑,移動位置使該處不受壓迫後, 該紅斑仍持續超過 30 分鐘。 - (b) 第二期:表皮受損出現水泡和紅疹,並傷及部分真皮層。 - (c) 第三期:表皮、真皮完全受損,並傷及皮下組織或脂肪,甚至筋膜層。 - (d) 第四期:深度更深,肌肉、肌腱或骨頭暴露出來。 - (e) 除上述四期外在 2007 年 NPUAP 新增了兩種分類: suspected deep tissue injury (DTI),代表皮膚完整但表面有變色情形,主要用在深層組織有受損但皮膚表面完整的情形;和 Unstageable wounds:用在 f Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (a) 表皮垂直壓力: 微血管動脈端壓力為 32 mmHg, 靜脈端為 12 mmHg, 故當外界垂直壓力大於局部組織內的微血管壓時(> 32 mmHg,稱作 capillary closing pressure),會導致血液循環受阻,引發細胞因缺氧而死亡, 肌肉、皮下組織和皮膚潰爛。常見於身體上骨頭最突出的部位、例如薦骨、腳根、手肘、腳踝、髋部及坐骨脊等處。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (b) 剪力(shearing force)以及摩擦力:斜躺或半坐臥時,摩擦力將皮膚繃緊形成一股水平切力,將供應皮膚的血管扯扁,導致皮膚的缺氧及壞死。另外摩擦力亦會將角質層磨掉、使表皮層和基底細胞分離,使表皮更易受損。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (2) 角膜病變 (keratopathy): - a. 角膜下部有點狀的上皮糜爛、表皮斑點狀病變(punctate epitheliopathy)。 - b. 角膜上皮有小的細絲 (filaments) 附著。 - c. **黏液斑塊(mucous plaques**)由半透明至灰白、大小不等的黏液物質和表皮細胞、蛋白質等構成。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - ...四十到五十歲的患者,大都生長緩慢。 - (2) 惡性淚腺腫瘤:包括腺樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50%),一般多發生於二十、三十歲之間,少部份在十幾歲時。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - ...像模糊而缺少正常視覺刺激,使大腦 視覺皮質發育不良,造成視覺功能發育不良,須在六歲前矯正(人的視力發育 僅到六歲)。 - (3) 老花眼 (presbyopia): 四十歲後,因睫狀肌調視功能變差 (LASIK): 先以角膜顯微刨刀切開一層表皮瓣(flap),將其掀開,然後由準分子雷射切削角膜基質進行屈光矯正。但剩餘的角膜基質厚度必須至少大於 250 μm,避免角膜膨出。 - i. 相較於 PRK 和 LASEK 可以矯正的度數更多,根據角膜厚度矯正遠視至 4D、散光到 5D 及近視到 12D。 - ii. 與 PRK 相比, LASIK 傷口復原較快,較不疼痛,視力回復較快,基質混濁較少。 Source: [[sources/med6-book2-ch13|丑、光學屈光]].
@@ -108,9 +113,6 @@ tags:
 - ...-----------------------------------|--|--| | | 其在顯微鏡下呈羊齒狀 (ferning pattern),而 progesterone 則減少之 | | | | 陰 道 | estrogen 使表皮細胞角質化、核擴大和增加肝醣的儲存 | | | | 乳房 | estrogen 刺激 stroma 和 duct 的生長及 pigmentation (第二性徵),而 proges- | | | | | terone 則刺激 gland alveoli 生長 | | | | 骨骼 | estrogen 可留住鈣質、對抗骨質疏鬆,並且在青春期促進長高和長骨生長 | | | | | 板關閉 | | | | 心血管 | estrogen 和 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 4. 最常見開放性骨折的致病菌:Staphylococcus aureus (常見的表皮菌),大約 75%。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...下列何者正確? 103( 二 ) 專 | (C) | | (A) Candida (B) Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 103(ニ)専 | (C) | | 膏固定後回家休息,晚上睡覺時覺得右腳越來越痛,他吃了止痛 醫五-74 | (-) | | 藥後,症狀稍有緩解,但仍然持續疼痛,下列醫療處置何者最 | | | 正確? | | | (A) 加重止痛藥劑量可使病情改善 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 4. 症狀 (5P): - (1) Pain:疼痛。 - (2) Paresthesia:感覺異常。 - (3) Paralysis: 肢體癱瘓。 - (4) Pallor color:表皮呈現蒼白(比較嚴重的程度);一般呈現粉紅色。 - (5) Pulseless: 脈搏摸不到(比較嚴重的程度); 一般脈搏可摸到。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- | 類型 | 分布 | 功能 | |----|-----------------|-------------| | | 皮膚、硬骨及血管等多數結締組織 | 抵抗壓力 | | | 透明軟骨、彈性軟骨 | 抵抗間斷的外來壓力 | | | 血管、新生兒皮膚及肉芽組織 | 維持膨脹器官的整體結構 | | 四 | 皮膚、血管 | 支持和過濾 | | 五 | 皮膚、細胞基底膜 | | | 六 | 皮膚、透明軟骨 | | | 七 | 皮膚、胎盤 | | | 八 | 表皮細胞基底膜 | | | 九 | 血管 | | Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (C) 4. 一位 65 歲男性,接受左側髖關節人工關節置換,3天後,突發現右側下肢有腫大的情形。身體檢查時,病人心跳不規律,有心房震顫現象,右側股動脈及足背動脈脈搏都很清楚且和左側沒有差別,右小腿肌肉觸診時有腫脹感,其周圍測量起來,比左小腿大2公分。表皮顏色及溫度,左右兩腿沒什麼差別,將病人右腳掌作向背面彎曲(dorsiflexion)的動作時,病人右小腿的肌肉會疼痛,但左側則無此反應。依前敘述,最可能的診斷為何? Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 
 ## Clinical Caveats
 

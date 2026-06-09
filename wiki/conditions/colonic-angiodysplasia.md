@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book4-ch16]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book3-ch07]]"
 aliases:
   - 'Colonic angiodysplasia (大腸血管發育不良)'
   - 'Colonic angiodysplasia'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-退化性黏膜下血管擴張是下消化道出血原因之一，常見於右側大腸與高齡病人。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+退化性黏膜下血管擴張是下消化道出血原因之一，常見於右側大腸與高齡病人。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book4-ch16]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book3-ch07]]
 
 ## Key Details From Sources
 
+- ...囊炎、肌腱炎、沾粘組織(骨折或手術後之沾黏)、減少疼痛、 消腫、加速受傷軟組織之癒合。 - (d) 禁忌症:懷孕的子宮部位、眼睛區域(含水分多,溫度易升高)、癌症、 未成熟的骨骼(如骨折術後、生長板)、中樞神經(已經椎板切除術後的 脊椎)、血管異常(深部靜脈栓塞)、心臟節律器附近等。 - b. 短波 (short wave diathermy): - (a) 短波為電磁波的一種,可用來止痛與消腫、促進組織癒合與神經生長, 以及軟化攣縮的組織。 - (b) 除了熱效應之外,電磁波亦能產生其他生物效應: - i. 改變細胞活性,活化纖維母細胞、神經細胞,甚至刺激 ATP 與蛋白質 之合成。 - ii. 增加糖尿病患傷口附近局部微血管的充血,改善局部血液循環,增加 局部組織的氧氣與養分 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - ...etinal edema),並有脂蛋白和巨噬細胞組成的硬性滲出物(hard exudates)沉積。 - (2) 小血管阻塞:紅血球變形和血小板黏度和凝聚力上升導致氧氣運輸量降低,並且導致血流變慢、缺血以至於微血管阻塞的發生,導致視網膜內小血管異常 (intraretinal microvascular abnormalities, IRMA) 如 AV shunt。持續的缺氧進一步造成生長因子(VEGF)釋出造成新生血管。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...Retinopathy) | | 於表淺血管,延神經纖維層分布 | | | | | (3) 硬性滲出物(hard exudate):即 lipid leakage | | | | | (4) 黃斑部水腫 | | | | | (5)視網膜內小血管異常 (IRMA) | | | | | (6) 血管變化:小動脈狹窄閉塞、小靜脈擴張或成 | | | | | 串珠狀 (venous beading) 及圈狀 (looping) 變化 | | | | | (7) 棉絮狀斑點 (cotton-wool spots): 因微血管 | | | | | 前小動脈阻塞導致局部視網膜神經纖維層梗 | | | | | 塞,而軸索漿傳輸 (axoplasmic transport) 受阻 | | | | Source: [[sources/med6-book2-ch12|子、視網膜]].
 - R. 動靜脈畸形(Pulmonary arteriovenous malformation) *61* Source: [[sources/med5-book4-ch03|丙、肺]].

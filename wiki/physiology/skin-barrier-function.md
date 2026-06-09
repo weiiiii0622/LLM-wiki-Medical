@@ -2,7 +2,7 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch01]]"
   - "[[sources/med4-book2-ch05]]"
@@ -11,6 +11,7 @@ sources:
   - "[[sources/med4-book2-ch03]]"
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch09]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Skin barrier function (皮膚屏障功能)'
   - 'Skin barrier function'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-角質層、脂質與免疫細胞共同減少水分散失並抵禦外界刺激與病原。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+角質層、脂質與免疫細胞共同減少水分散失並抵禦外界刺激與病原。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med4-book2-ch03]]
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch09]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (b) 剪力(shearing force)以及摩擦力:斜躺或半坐臥時,摩擦力將皮膚繃緊形成一股水平切力,將供應皮膚的血管扯扁,導致皮膚的缺氧及壞死。另外摩擦力亦會將角質層磨掉、使表皮層和基底細胞分離,使表皮更易受損。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 2. 表皮:位於皮膚最上層,厚度從最薄的眼皮 0.04 mm 至最後的足底 1.5 mm 不等,由表面而下可分為五層:角質層、透明層、顆粒層、棘狀細胞層和基底層。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (1) 角質層(stratum corneum):由 25~30 排扁平死細胞(分化完成之角質細胞)組成,細胞間質為膽固醇、神經醯胺(ceramide)和游離脂肪酸。為人體對付來自外界各式各樣物理、化學性刺激,如乾燥、冷熱、紫外線等的天然屏障。此層含有 15~20% 由皮膚自行產生的天然保濕因子(Natural Moisturizing Factor)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (6) 角質細胞於基底層不斷形成並逐步外移至最外的角質層形成皮垢而脫離,並且保持角質層的一定厚度,又稱作皮膚的更新。更新的速度因個人體質、部位和年齡而有所不同。一般而言,自基底層到角質層的形成約為兩週,而角質層形成皮垢,進而脫離皮膚,也需要兩週的時間,共四週。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].

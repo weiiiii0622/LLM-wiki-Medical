@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med3-book1-ch08]]"
@@ -21,6 +21,7 @@ sources:
   - "[[sources/med4-book2-ch04]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch03]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Pericarditis (心包膜炎)'
   - 'Pericarditis'
@@ -35,7 +36,7 @@ tags:
 
 ## Summary
 
-心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +57,12 @@ tags:
 - [[sources/med4-book2-ch04]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch03]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- · Acute myocarditis or pericarditis Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- · Active pericarditis or myocarditis Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (B) 窄縮性心包膜炎 (constrictive pericarditis) 與限制性心肌病 變(restrictive cardiomyopathy)的鑑別診斷往往需要藉由右 側心導管的壓力追蹤圖來區分 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (D) 因為窄縮性心包膜炎 (constrictive pericarditis) 而接受心 包膜切除手術 (pericardiectomy) 的病人中,以 radiationinduced 的窄縮性心包膜炎(constrictive pericarditis)預後最佳 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 【詳解】radiation-induced constrictive pericarditis 由於 radiation 的影響,心臟本身也有很多問題,例如 coronary artery disease、 myocardial fibrosis、atrioventricular conduction disturbances 或 valve dysfunction,因此相較於其他 pericarditis,預後較差。 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -75,8 +79,6 @@ tags:
 - ...ancreatitis · cholecystitis · urinary | | | | | | tract infection , arthritis , peritonitis , | | | | | | myocarditis · pericarditis · and endocarditis. | | | | | Rotavirus | Encephalitis · meningitis · otitis media · | | | | | | pharyngitis · pneumonia · hepatic abscess · | | | | | | pancreatitis · Kawasaki syndrome and sudden | | | | | | infant dea Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...減少。 | CNS change • | | | 2. 腹痛腹瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | helmet cell,以及網狀紅血 | | | | 球計數的增加。 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 5. 心肺:常見肋膜炎(Pleuritis)、心包膜炎(Pericarditis)、Libman-Sacks endocarditis(與疾病罹病時間、活性、APS 相關,最常見於 MV)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- ...均應通報。 | | | | 符合下列臨床症狀及實驗室診斷者: | 1週內 | | | 一、由肺炎鏈球菌 (Streptococcus pneumoniae) 引起之侵襲性疾病,如:敗血 | | | 症 | 症、肺炎、腦膜炎、關節炎、骨髓炎、心包膜炎、溶血性尿毒症、腹膜炎…等,且 | | | | 二、經由正常狀況下之無菌檢體如:血液、腦脊髓液…等,分離培養出該菌者。 | | Source: [[sources/med3-book3-ch22|寅、法定傳染病通報]].
 
 ## Clinical Caveats
 

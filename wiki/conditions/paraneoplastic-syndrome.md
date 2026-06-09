@@ -17,6 +17,8 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book3-ch09]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Paraneoplastic syndrome (腫瘤旁症候群)'
   - 'Paraneoplastic syndrome'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤以非直接侵犯方式造成內分泌、神經、皮膚或血液異常。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,14 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book4-ch04]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book3-ch09]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- 1. 主要用於診斷 neuromuscular junction 異常之疾病,例如重症肌無力、肉毒桿菌症(Botulism)、Lambert-Eaton myasthenic syndrome 等。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
+- 2. 利用低頻(2~3 Hz)或高頻(10~20 Hz)的連續電刺激神經,記錄複合肌肉動作電位波,若於低頻電刺激下出現遞減反應(decrement response,前五個連續電位波中,最大和最小之間的振幅減少達 10% 以上),則可診斷重症肌無力;反之若於高頻電刺激下,連續電位波顯示遞增反應(increment response)則為 Lambert-Eaton 肌無力症候群(Lambert-Eaton Myasthenic syndrome)。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
+- (8) SIADH · Diabetes Insipidus · Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (a) 症狀: - i. 無症狀: > 50%, 是其他原因作影像檢查偶然發現。 - ii. 腫瘤伴隨症狀 (paraneoplastic syndromes): 10~40%。又稱「副腫瘤綜合症」,與預後無關,但是如果腫瘤切除後症狀仍持續則代表預後不佳。 - (i) 高血壓: 40%, 因腎素 (renin) 不正常釋放造成。藥物難以治療, 但切除病灶後可回復。 - (ii) 高血鈣: 20%, 因腫瘤會分泌類似副甲狀腺素 (PTH)、破骨細胞活化因子 (osteoclast-activating factor), 腫瘤壞死因子 (tumor necrosis fact Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (A) paraneoplastic syndrome 會發生在大約 20% 腎細胞癌之病人 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (B) paraneoplastic syndrome 最常表現的全身性症候群是紅血球沉 澱速率 (ESR) 升高 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -66,9 +73,6 @@ tags:
 - 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - #### B. Lambert-Eaton syndrome Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 Source: [[sources/med4-book2-ch11|子、其 他]].
-- 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或治療相關之癌症。從題目的描述、圖片和給予的選項,可知道此題在考黑色棘皮症,而 (D) 和其成因無關。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- (D) 對於肥胖相關的黑色棘皮症,減重對於皮膚病灶沒有改善作用 【詳解】黑色棘皮症(acanthosis nigricans)為表皮層的角質細 胞與真皮層的纖維母細胞過度增生所致的色素沉澱斑塊,好發 於腋下、頸部、腹股溝鼠蹊等皮膚皺摺處。和肥胖、胰島素抗 性、高雄性素有關,一些藥物也會誘發,例如:胰島素、類固醇、 雄性素、菸鹼酸、避孕藥或人類生長激素。黑色棘皮症也是一 種 paraneoplastic syndrome,口腔黏膜、手掌部位的黑色棘皮症 最常見和胃癌(尤其是胃腺癌)相關,其他像是肺癌、攝護腺癌、 乳癌或卵巢癌也有可能。治療方式為控制血糖、飲食、運動或 治療相關之癌症。 Source: [[sources/med4-book2-ch11|子、其 他]].
-- C. Paraneoplastic pemphigus 60 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 
 ## Clinical Caveats
 

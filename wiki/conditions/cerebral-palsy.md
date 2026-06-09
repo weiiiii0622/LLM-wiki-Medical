@@ -13,6 +13,8 @@ sources:
   - "[[sources/med5-book3-ch20]]"
   - "[[sources/med5-book6-ch08]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book3-ch04]]"
 aliases:
   - 'Cerebral palsy, CP (腦性麻痺)'
   - 'Cerebral palsy, CP'
@@ -27,7 +29,7 @@ tags:
 
 ## Summary
 
-發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +42,15 @@ tags:
 - [[sources/med5-book3-ch20]]
 - [[sources/med5-book6-ch08]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book3-ch06]]
+- [[sources/med6-book3-ch04]]
 
 ## Key Details From Sources
 
+- B. 腦性麻痺 (Cerebral palsy, CP) 148 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- 3. 造成胸鎖乳突肌纖維化的原因不明,目前推測是肌肉生長過程缺血或是生產時受到 創傷。其他像是頸椎側彎、頸部組織發炎(急性淋巴腺發炎)、運動傷害、睡姿不良、 視力不對稱、腦性麻痺的病患皆有可能合併發生斜頸。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- #### B. 腦性麻痺 (Cerebral palsy, CP) Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- ...運動神經元疾病) | | Articulated ankle foot orthosis( 有關節式 AFO) ( 圖請參照第 216 頁 ) | 適用於踝關節蹠曲痙攣 (ankle plantar spasticity) 的病人使用 ( 腦性麻痺小孩最常使用的足部裝具 )。 | 腦性麻痺痙攣性垂足 | | Lateral wedge insoles(外側楔型足墊) | 可使股骨 - 脛骨間夾角變小和內側膝關節腔 (medial knee joint space) 之空間變大。 | • 膝蓋退化性關節炎 | | Knee-ankle-footorthosis (KAFO) | 可用在大腿前後側肌肉無力、膝關節不穩定、或膝關節屈曲痙攣 (flexion spasticity)。 | Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - 1.目的:首要目的是防止胎兒死亡,次要目的是避免胎兒神經損傷(如腦性麻痺)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (2) 簡介:發生率平均約 12%,是造成新生兒死亡最主要的原因,週數愈小,死亡率愈高;除死亡外,早產亦會造成長期的後遺症(如視力問題、腦性麻痺等)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - | Moderate preterm | 32~37 週,佔早產的 84%,其中 34~37 週又稱 late preterm | |-------------------|--------------------------------------------| | Very preterm | 28~32 週,佔早產的 10% | | Extremely preterm | 3 cm | Preterm birth 風險低 (無論 fetal fibronectin 是否陽性 ) | |---------------|--------------------------------------------------| | 子宮頸長度4,有 neuroprotection 效果以避免腦性麻痺。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -64,7 +72,10 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/cerebral-palsy-rehabilitation|Cerebral palsy rehabilitation (腦性麻痺復健)]]
+- [[diagnostics/modified-ashworth-scale|Modified Ashworth scale, MAS (改良 Ashworth 痙攣量表)]]
+- [[concepts/orthosis|Orthosis (裝具)]]
+- [[conditions/spasticity|Spasticity (痙攣)]]
 
 ## Follow-up
 

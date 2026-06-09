@@ -33,6 +33,7 @@ Guideline pages and recommendation frameworks.
 - [[guidelines/preventive-medicine|Preventive medicine (預防醫學)]] - 以初級、次級、三級預防降低疾病發生、早期偵測與減少失能。
 - [[guidelines/shared-decision-making|Shared decision making (醫病共同決策)]] - 臨床決策需整合醫療證據、病人價值與可行方案。
 - [[guidelines/sle-classification-criteria|SLE classification criteria (SLE 分類準則)]] - SLE 分類準則整合皮膚、關節、漿膜、腎臟、神經、血液與免疫指標。
+- [[guidelines/spinal-cord-injury-functional-goals|SCI functional goals by level (脊髓損傷功能目標)]] - 以損傷節段推估手功能、移位、輪椅、步行與照護依賴程度，協助設定可達成復健目標。
 - [[guidelines/tb-treatment-framework|Tuberculosis treatment framework (結核治療架構)]] - 結核病需多藥合併與完整療程。
 - [[guidelines/vaccine-contraindications|Vaccine contraindications (疫苗禁忌與注意事項)]] - 疫苗接種前需評估嚴重過敏、免疫低下、懷孕與急性中重度疾病等禁忌/延後情境。
 - [[guidelines/variceal-bleeding-management|Variceal bleeding management (靜脈曲張出血處置)]] - 急性靜脈曲張出血需結合復甦、血管收縮藥、抗生素與內視鏡治療。

@@ -64,6 +64,10 @@ sources:
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch08]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Ventricular remodeling (心室重塑)'
   - 'Ventricular remodeling'
@@ -78,7 +82,7 @@ tags:
 
 ## Summary
 
-心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -142,9 +146,18 @@ tags:
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch14]]
+- [[sources/med6-book3-ch06]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch08]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- 2. 兒童斜頸最常見原因為胸鎖乳突肌纖維化,使得肌肉肥厚短縮,造成頭無法直立於中線處,右胸鎖乳突肌短縮會造成頭傾向(tilt)右側且臉轉向(turn)左側(稱為右側斜頸),左胸鎖乳突肌短縮則作相反的動作。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- 3. 造成胸鎖乳突肌纖維化的原因不明,目前推測是肌肉生長過程缺血或是生產時受到 創傷。其他像是頸椎側彎、頸部組織發炎(急性淋巴腺發炎)、運動傷害、睡姿不良、 視力不對稱、腦性麻痺的病患皆有可能合併發生斜頸。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- ...: - (1) 急性傷害 (acute injury): - a. 挫傷(contusion): 皮下組織受到鈍力撞擊所造成,撞擊處皮下微血管破裂出血而表面血腫(俗稱黑青)。臨床上須注意大肌肉挫傷所留下的深層疤痕組織,可能會因為沾粘導致組織纖維化與鈣化,影響肌肉的延展性與功能性,日伴隨慢性疼痛。 - b. 韌帶扭傷 (sprain):當關節過度伸展時,韌帶因無法承受力量而撕裂甚至發 炎腫脹。扭傷的程度可分為三級: - (a) 輕度: 韌帶無斷裂,但可能被過度拉長而導致受傷,關節活動時會感到 疼痛。 - (b) 中度: 韌帶部分斷裂,且關節發炎腫大和劇痛。 - (c) 重度: 韌帶完全斷裂,關節失去支撐而不穩定,常合併嚴重血腫。 - (d) 處理原則(以踝關節韌帶扭傷為例): - Source: [[sources/med6-book3-ch08|辛、運動醫學]].
+- (1) 針極刺入活動電位 (insertional activity): - a. 為針極刺穿細胞膜時引起的活動電位,正常應於300 ms 內恢復靜止狀態。 - b. 假使活動電位延長(300~500 ms),代表肌纖維細胞膜之不穩定,例如去神經化(denervation)或肌肉病變等;反之假使活動電位減少或消失,代表肌肉萎縮或纖維化、肥胖、水腫或是電解質不平衡。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - 5. 視神經纖維層分析 (nerve fiber layer analysis): 利用雷射掃描式共軛焦顯微鏡 (confocal laser scanning microscope)計算出視神經盤周圍的神經纖維層厚度是否 有變薄。當青光眼持續惡化,視神經纖維層受壓迫或其他原因導致神經軸索 (axon)的 retrograde apoptosis,使視網膜神經節細胞 (retinal ganglion cell)死亡,神經纖維層的厚度即會變薄。另外也可用共軛光斷層掃描 (optical coherence tomography, OCT)可觀察視神經盤的橫切型態、視網膜層狀結構、視網膜中央凹等。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - ...lectomy):製造一個 partial thickness sclera flap 後,進入前房,切下一小塊的小樑組織網使房水直接灌入薛氏管,或經鞏膜隙縫流出眼球外,同時可加用抗代謝藥物(mitomycin-C、5-FU)避免過濾孔過早纖維化癒合。此法仍是目前青光眼手術的標準黃金治療方式。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - 3. 新生血管性青光眼(neovascular glaucoma):由於嚴重的視網膜缺血性病變,使促血管增生的生長因子(VEGF)釋放,除導致視網膜血管新生外,也會讓虹膜和前房角生成纖維化血管膜,使隅角阻塞,甚至造成嚴重黏連,進而造成隅角閉鎖性青光眼。如增殖性糖尿病視網膜病變、缺血性視網膜中央靜脈阻塞、頸動脈阻塞、長期視網膜剝離、玻璃體手術後均可能發生。新生血管性青光眼可利用施行雷射光凝固術(laser photocoagulation)來預防。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
@@ -158,9 +171,6 @@ tags:
 - ...(B) 長期洗腎的病人因為腎功能不全會導致腎性骨發育不全 (renal osteodystrophy),其PTH可能會升高 - (C) 變形性骨炎(Paget's disease)主要發生在40歲以下的病人, 女多於男,是一種骨頭塑形 (remodeling) 的疾病,不會轉 變為惡性腫瘤 - (D) 骨質石化病(osteopetrosis) 又稱大理石骨病(marble bone disease),主要是因成骨細胞(osteoblast)過度活躍造成 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (C) 修飾期(Remodeling)於修補期的中期就開始,可於臨床骨 折癒合後持續多年 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (A) 3. 彈響髖(snapping hip)是因為髖關節周邊某些軟組織因纖維化或 104(二)專 硬化,而在髖關節活動時與骨骼摩擦所致。下列這些軟組織,何 醫五-59 者最不可能造成彈響髖? - (A) 股外側肌(vastus lateralis muscle) - (B) 髂脛束 (iliotibial band) - (C) 臀大肌 (gluteus maximus muscle) - (D) 髂腰肌鍵 (iliopsoas tendon) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- c. 慢性(chronic):定義是腎功能隨時間逐漸衰退的現象,最快發生在移植六個月後。影響因子是多方面的,包括 HLA 配對程度低、有抗 HLA 的抗體存在、年紀大、發生過排斥反應、之前移植腎失敗的病史、種族(衰退度:亞洲人>白人>黑人)、共病(糖尿病、肥胖、高血脂)、免疫製劑使用。這些因子會使移植腎結疤、纖維化,最後造成慢性移植腎腎病變(chronic allograft nephropathy, CAN)。治療方法為症狀控制(血壓與蛋白尿)但效果有限,因此術後 5~10 年以上移植腎存活率一直無法有效增加。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...檢查 | | | (C) 安排腎臟與膀胱超音液 | 皮檢查 | | | (D) 安排膀胱鏡或逆行性腎 | 腎輸尿管攝影 | | | 【詳解】GFRs 低於 30 n | nL/min 的患者,钆(gadolinium)施用 | | | | 纖維化 (nephrogenic systemic fibrosis) | | | 的風險增加。 | | | | (D) 18. 對於腎臟移植後的處置, | | 103(二)專 | | ① 通常會使用 β-blockers來控制高血壓 | ,hydralazine 和 calcium channel blockers | 醫五 -6 | | ② nystatin (Mycostatin) | 通常被用來預防口腔的黴菌感染 | | | ③ tr Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- b. 勃起陰莖彎曲 (penile curvature): - (a) 定義:陰莖勃起時向任何方向彎曲角度超過30度,或者勃起時疼痛及造成性交困難。 - (b) 成因: - i. 先天性:白膜發育異常、尿道下裂。 - ii. 後天性:如佩洛尼氏病 (Peyronie's disease = plastic induration of the penis),是陰莖因慢性發炎造成的纖維化斑塊,使得勃起時疼痛彎曲,但不勃起時沒症狀。 - (c) 治療: - i. 無明顯變形,仍具性功能:續觀察,50%的佩洛尼氏病會自行緩解。 - ii. 明顯變形,有性功能障礙:藥物治療或手術治療。 - (i) 藥物治療(口服): - ①Vitamin E:抗氧化劑,可改善疼痛感。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 
 ## Clinical Caveats
 

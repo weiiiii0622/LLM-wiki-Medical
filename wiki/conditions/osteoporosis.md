@@ -31,6 +31,9 @@ sources:
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book3-ch04]]"
+  - "[[sources/med6-book3-ch07]]"
 aliases:
   - 'Osteoporosis (骨質疏鬆症)'
   - 'Osteoporosis'
@@ -45,7 +48,7 @@ tags:
 
 ## Summary
 
-骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨量下降與骨折風險增加，與鈣磷、性腺、甲狀腺、副甲狀腺等軸相關。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +79,15 @@ tags:
 - [[sources/med5-book6-ch04]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book3-ch01]]
+- [[sources/med6-book3-ch04]]
+- [[sources/med6-book3-ch07]]
 
 ## Key Details From Sources
 
+- ...) 運動方面不協調、(e) 皮膚會變薄發亮,毛髮、指甲粗厚,肌肉萎縮。 - (3) 分期:第一期:關節活動時疼痛、水腫、皮膚發熱發紅;第二期:皮膚變薄、 關節活動受限、皮膚溫度下降;第三期:不可逆的皮膚和肌肉萎縮、疼痛、關 節活動嚴重受限、骨質疏鬆。 - (4) 常見影響範圍為肩膀、手和手腕,手肘通常不受侵犯。 - (5) 診斷主要是靠臨床的表徵,輔以對交感神經切斷術的反應(可有效減輕疼痛) 及骨掃描的結果(three phase bone scan)來決定。 - (6) 復健治療:關節活動度與肌肉力量的維持,可減緩病情惡化和維持骨質密度, 口服或注射類固醇的反應也不錯。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- ...圖請參照第 217 頁) | 固定脊椎在伸直 (extension) 的姿勢,避免屈曲 (flexion) 的動作,以避免加劇壓迫性骨折常見的前楔狀骨折 (anterior wedge compression fracture)。 | • 骨質疏鬆 • 胸腰椎壓迫性骨折 • 不可使用在脊椎後側病變如脊椎滑脫 (spondylolithesis)或椎弓解離(spondylolysis) | | | Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
+- 2. 禁忌症: - (1) 脊椎感染。 - (2) 骨質疏鬆。 - (3) 未成熟骨骼處。 - (4) 急性扭傷或拉傷。 - (5) 關節不穩定或變形太厲害。 - (6) 脊椎腫瘤、骨頭腫瘤。 - (7) 懷孕。 - (8) 脊髓病變。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - G. 骨質疏鬆症 (Osteoporosis) 350 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...刺激 stroma 和 duct 的生長及 pigmentation (第二性徵),而 proges- | | | | | terone 則刺激 gland alveoli 生長 | | | | 骨骼 | estrogen 可留住鈣質、對抗骨質疏鬆,並且在青春期促進長高和長骨生長 | | | | | 板關閉 | | | | 心血管 | estrogen 和 progesterone 對血管內皮細胞、脂質代謝和凝血因子都有不同的 | | | | | 作用 | | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 用以緩解更年期症狀,非用於預防骨質疏鬆、心血管疾病或失智症。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -94,9 +103,6 @@ tags:
 - (1) 症狀:8項中有3項以上。(記法:胖高高(糖/壓)、皮(紋)-肌(弱)-骨(折)-血(雄)-神(情緒)) - a. 外觀:月亮臉、水牛肩、軀幹肥胖。 - b. 皮紋 (Striae, 在腹部或大腿的紅色紋)。 - c. 雄性素過量症狀(髮線退後、多毛症、小乳房發育、聲音變沉)。 - d. 情緒不穩或失眠或精神失常。 - e. 肌肉無力(特別是股四頭肌,所以從椅子上由坐站起困難)。 - f. 骨質疏鬆症(常見,甚至造成腰椎壓迫性骨折)。 - g. 高血糖(80%人有餐後高血糖;20%人空腹也高血糖)。 - h. 高血壓 (持續存在)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 3. 症狀:腎結石、骨質疏鬆、高血壓、四肢無力、多尿、情緒不穩定。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (A) osteoporosis, osteopenia Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (D) 骨質疏鬆密度檢查 T < -2.5 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- ...跳加速 | 增加血管阻力、心跳減慢 | | 呼吸 | 喘 | 呼吸抑制,二氧化碳滯留;肋膜積水 | | 胃腸道 | 食慾增加、腸蠕動增加 | 食慾降低、腸蠕動減少 | | 肌肉 | DTR 增加 | DTR 下降 | | 骨骼 | 高血鈣、骨質疏鬆 | Alkaline phosphatase ↑ LDH ↑ AST ↑ | | 腎臟 | 腎絲球濾出率增加,多尿 | 腎絲球濾出率降低,少尿 | | 肝臟 | 基礎代謝率↑血糖↑脂肪酸↑膽固醇↓三酸甘油酯↓ | 基礎代謝率↓膽固醇↑三酸甘油酯↑ | | 血球 | 造血增加、代謝增加=>貧血 | 造血減少=>貧血 | | 原因 | Graves disease亞急性甲狀腺炎初期 (de Quervain)Plummer's disea Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- (B) 缺乏鋅(zinc)會造成禿頭(alopecia) (C) 接受過胃切除的病患容易缺乏鐵(iron) (D) 缺乏 vitamin D 會造成骨質疏鬆(osteoporosis) Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 
 ## Clinical Caveats
 

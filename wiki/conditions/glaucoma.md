@@ -16,6 +16,7 @@ sources:
   - "[[sources/med6-book2-ch18]]"
   - "[[sources/med6-book2-ch06]]"
   - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book3-ch04]]"
 aliases:
   - 'Glaucoma (青光眼)'
   - 'Glaucoma'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-青光眼是進行性 optic neuropathy，常與 IOP、optic disc cupping、RNFL thinning 與視野缺損相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+青光眼是進行性 optic neuropathy，常與 IOP、optic disc cupping、RNFL thinning 與視野缺損相關。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med6-book2-ch18]]
 - [[sources/med6-book2-ch06]]
 - [[sources/med6-book2-ch17]]
+- [[sources/med6-book3-ch04]]
 
 ## Key Details From Sources
 
+- (2) 小兒扁平足的鞋子: - a. 高鞋筒 (High quarter shoe),以固定足踝關節。 - b. 寬足跟(Wide heel),以提供適當的足跟包覆(cupping),避免加劇足跟外翻(Calcaneal valgus)。 - c. 加強鞋內側(Medial counter),以提供內側足弓支持,穩定鞋型。 - d. 足跟內側楔 (Medial heel wedge),以轉移載重,並改善足跟外翻。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - 1. 青光眼為不可逆性的失明(白內障為可逆性的失明),發生率約總人口的0.4~4.1%。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - (3) 房水循環的途徑只要有任一部份阻塞, 會使房水聚積在眼球內,導致眼壓升 高,超過眼球所能忍受程度,即會造成 青光眼發作。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - (2) 正常一日內眼內壓變化大約 5 mmHg,有眼內高壓及青光眼的人則會有較大的 波動。 Source: [[sources/med6-book2-ch11|癸、青光眼]].

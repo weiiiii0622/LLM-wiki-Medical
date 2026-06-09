@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Neuroblastoma (神經母細胞瘤)'
   - 'Neuroblastoma'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+交感神經系統胚胎性腫瘤，可分泌 catecholamines 並造成腹部腫塊或轉移症狀。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (1) 心臟移植後生理學上的變化: - a. 移植後的心臟由於沒有神經支配(交感和副交感)所以當患者處於休息狀態時, 少了迷走神經(副交感)對 SA node 的抑制,其基礎心率會接近 100 bpm。 - b. 少了交感神經的支配,運動時需靠血中的 catecholamine 增快心跳和心輸出量,但增加速度較緩慢,且運動時所能達到的最大心跳數會比正常人低 20~25%。 - c. 運動完後,心臟也須花較長的時間才能恢復到休息時的狀態。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...crew) 的結膜血管:與 CC fistula 有關;草莓 | | | 狀胎記:與微血管性血管瘤有關;眼瞼退縮:與甲狀腺眼症有關; | | | 黑色節痂病灶:眼眶白黴菌症 (mucormycosis);眼瞼皮下出血: | | | 可能與 neuroblastoma 或 leukemia 有關。 | Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - ...noma) | | | 最常見的原發性惡性 | 淚腺腺狀囊樣癌 (adenoid cystic | 横紋肌肉瘤 | | 腫瘤 | carcinoma) | (rhabdomyosarcoma) | | 最常見的轉移性惡性 | 男:肺癌 | 神經母細胞瘤 | | 腫瘤 | 女:乳癌 | (neuroblastoma) | | 小孩最常見的續發性 | | 視網膜胚母細胞瘤 | | 惡性腫瘤 | | (retinoblastoma) | Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (4) 病理: Ewing's sarcoma 和 lymphoma 一樣, 在 micro 下都會出現小小圓圓的細胞。鑑別 診斷的方法可以用下面兩種: - a. PAS 染色:Ewing's sarcoma 用 PAS 染色呈現陽性。 - b. 免疫染色法:Ewing's sarcoma 會是 HBA-71 Ab(+),lymphoma 和 neuroblastoma 則呈現 HBA-71 Ab(-)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
@@ -74,7 +77,6 @@ tags:
 - ...itonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | (B) 20. | 格雷氏病(Graves' disease)合併下列何種情況時,甲狀腺次全切 | 104(二)專 | | | 除術為最合理的選擇? | 醫五 -37 | | | (A) 併有嚴重凸眼症狀 | | | | (B) 併有抗甲狀腺藥物嚴重併發症,如白血球降低及黃疸等 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 - (A) 收集 24 小時尿液檢驗兒茶酚胺(catecholamines) 和香草扁桃酸(vanillylmandelic acid) 來診斷,有很好的特異度(specificity),但敏感度(sensitivity)並不高 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
 - (D) 5. 26 歲女性無故暈倒而被送至急診室,理學檢查發現血壓 220/110 100(-) 專 mmHg,心跳 130 次 / 分鐘,臉部潮紅,則要安排下列那些檢查? $\$ \pm -28$ - ① complete blood count (CBC) ② total urine VMA level - (3) blood free catecholamines (4) total urine free catecholamines - (5) abdominal CT scan - (A) 1 2 3 - (B) 235 - (C) 145 - (D) 245 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- ...之使用時機,下列何者錯誤? (A) 受贈者有嚴重的肺高血壓 (B) 捐贈者的心臟太小 (C) 受贈者與捐贈者的血型不相配 (D) 捐贈者心臟缺血時間太長 9. 心臟移植患者於運動量增加時,下列何者最不可能發生? (A) 血中循環之兒茶酚胺(catecholamine)量增加 (B) 心輸出量增加 (C) 心跳速率立即增加 | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 
 ## Clinical Caveats
 

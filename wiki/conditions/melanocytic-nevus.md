@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Melanocytic nevus (黑色素細胞痣)'
   - 'Melanocytic nevus'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-黑色素細胞良性增生，需與 melanoma 依 ABCDE 等特徵鑑別。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黑色素細胞良性增生，需與 melanoma 依 ABCDE 等特徵鑑別。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (7) ASIA impairment scale: ASIA 從早期的 Frankel scale 去作修訂,根據感覺和運動功能的保留情形,將脊髓損傷分為 ABCDE 五期。 - a. A=完全性損傷:在薦髓 S4-5 部分,完全沒有感覺或運動機能。 - b. B = 不完全性損傷:在 neurological level 以下,運動機能完全喪失,但此部位到最低薦髓段仍保有感覺機能。且兩側 motor level 的下三節以下的 key muscle 皆無運動功能。 - c. C = 不完全性損傷:在 neurological level 以下,仍保有運動機能,但 neurological leve Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 【詳解】依 primary ABCDE 從重新評估,除非經檢查發現氣管 內管在食道,才進行(C),故(D)>(A)>(B)或(D)>(C)為 較佳之順序。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 1. 又稱作 nevus flammeus 或 capillary malformation (CM), 為微血管不正常擴張(非增生)於皮膚所形成之紅色不 規則斑塊,出生時即出現,隨著年齡逐漸增厚,顏色轉 暗紅或紫色,持續一輩子不會自動消失(右圖)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
 - (A) 後天性色素細胞性母斑(acquired melanocytic nevus) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].

@@ -55,6 +55,7 @@ sources:
   - "[[sources/med6-book1-ch17]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Tumor staging (腫瘤分期)'
   - 'Tumor staging'
@@ -69,7 +70,7 @@ tags:
 
 ## Summary
 
-腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -124,9 +125,13 @@ tags:
 - [[sources/med6-book1-ch17]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- F. 布朗松評估 (Brunnstrom stage) 24 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- #### F. 布朗松評估 (Brunnstrom stage) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- 1. Brunnstrom stage 用來將病患中風後的肢體障礙程度分為六期(第一期最差,第六期最好),並訂定不同之復健目標,不論中風的病因或影響程度如何,所有的病患皆會依序由較低期進展到較高期,且其過程並不會跳躍式地像是從第一期就跳到第五期。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - (4) 依照眼底變化分期: - a. stage 1 (impending macular hole): 臨床上不容易被檢查到,通常由另一隻眼有完全黃斑部破洞才被發現。眼底可見黃斑部中心凹消失且中心小凹出現圓形黃色斑。 - b. stage 2 (small full-thickness hole): 圓形黃色斑擴大。 - c. stage 3 (full-size macular hole): 眼底可見圓形裂孔,大小約視神經盤直徑的 1/3,視力通常低於 6/60 以下。 - d. stage 4 (full-size macular hole with complete PVD): 合併後玻璃體剝離 (PVD)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - (5) 治療:對 stage 3 或 4 可施以玻璃體切除術合併內限膜摘除。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - | stage 0 | 無明顯分格線 (demarcation line) | |---------|------------------------------------------| | stage 1 | 可見灰白色分格線,將未血管化的周邊視網膜與血管化的視網膜分開 | | | (彩圖請見 225 頁) | | stage 2 | 脊狀隆起 (ridge) | | stage 3 | 脊狀隆起合併新生血管 (fibrovascular proliferation) | | stage 4 | 局部視網膜剝離 | | stage 5 | 全部視網膜剝離 | Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -142,9 +147,6 @@ tags:
 - 【詳解】子宮內膜異位之嚴重度分期請詳見內文,其中 Stage III 為 16 到 40 分。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - b. Tanner stage 分期: Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - #### (1) FICAT stage: Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- | Stage | | | Clinical Features | Radiographs | |----------------------------------------------|---|------------------------------------------|-------------------|-----------------------------------------| | Early 0 Preclinical Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- 【詳解】使用類固醇、喝酒都是 ONFH 的 risk factors。X ray 上可以看到左邊 hip joint 的 joint space 不對稱且變窄,甚至有 OA (joint space narrowing, sclerotic change, subcondral bone cyst)的樣子,需懷疑是 ONFH,FICAT stage IV。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (D) 4. 有關惡性骨腫瘤的敘述,下列何者最正確? - (A) Enneking stage IIB 是指高惡性度,同一腔室內的病灶(intracompartmental lesion ) - (B) 目前惡性骨肉瘤(osteosarcoma)的標準治療,是先切除腫瘤,再輔以術後放射治療,以避免局部復發 - (C) 惡性軟骨瘤(chondrosarcoma)的治療主要是手術切除病灶 - (D) 肢體保留手術與截肢手術相比,局部腫瘤復發率較高,同時接受肢體保留手術患者存活率較低 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 
 ## Clinical Caveats
 

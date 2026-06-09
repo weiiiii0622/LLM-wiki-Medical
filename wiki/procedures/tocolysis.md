@@ -7,6 +7,7 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Tocolysis (安胎治療)'
   - 'Tocolysis'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-短期抑制宮縮以爭取轉院或 antenatal corticosteroid 時間，需注意禁忌症與藥物副作用。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短期抑制宮縮以爭取轉院或 antenatal corticosteroid 時間，需注意禁忌症與藥物副作用。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (c) 利用電刺激(Electoejaculation)或震動器刺激來促進射精,但須注意 T5 以上的 SCI 患者有機會引發自主神經反射異常(autonomic dysreflexia),故在術前 10~25 分鍾,舌下服用 Adalat (Nifedipine) 20 mg,且電刺激對於非完全性脊髓損傷的患者來說相當痛。電刺激時患者需側躺,將電極深入直腸內,且電極面要朝攝護腺的方向。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - G. 安胎(Tocolysis) 67 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - | 無症狀或微量陰道出血 | • 定期門診追蹤,美國婦產科醫學會 (ACOG) 建議於 36~38週生產 | |------------|-------------------------------------------| | 大量陰道出血 | • 先住院穩定母親生命徵象及監測胎兒心率,觀察出血情況 | | | a. 若母親生命徵象不穩定或胎兒心率異常,建議緊急剖腹產 | | | b. 胎兒已達 34 週且母親持續出血,亦建議緊急剖腹產 | | | c. 若母親穩定、出血減緩、胎兒狀況良好,胎兒已達 36 週, | | | 建議生產;胎兒未達 36 週,建議安胎 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...---------------|--| | 週數 | 處置 | | | 34 週以上 | ・待産催生 | | | | ・子宮頸細菌培養及 GBS 篩檢 | | | | • 預防性抗生素使用 | | | 32~33 + 6 週 | ・ 觀察不安胎,至 34 週考慮催生 | | | | · 考慮給予 Betamethasone 以促使胎兒肺部成熟 | | | | ・子宮頸細菌培養及 GBS 篩檢 | | | | 預防性抗生素使用 | | | | ・ 追蹤 Vital sign, CBC/DC, CRP,若有感染跡象,立即生產 | | | | • 追蹤胎兒監視器,若懷疑胎兒窘迫,立即生產 | | | | · 追蹤超音波,若羊水量極少,考慮生產 | | | 24~31 + 6 週 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].

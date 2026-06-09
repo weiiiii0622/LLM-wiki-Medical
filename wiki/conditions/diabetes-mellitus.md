@@ -103,6 +103,9 @@ sources:
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book3-ch07]]"
 aliases:
   - 'Diabetes mellitus (糖尿病)'
   - 'Diabetes mellitus'
@@ -117,7 +120,7 @@ tags:
 
 ## Summary
 
-慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性高血糖疾病群，診斷、分型、治療與併發症監測都需系統化。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -220,9 +223,18 @@ tags:
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch06]]
+- [[sources/med6-book3-ch07]]
 
 ## Key Details From Sources
 
+- e. 【補充】Peripheral lesion of neurogenic bladder: 最常見糖尿病併感覺神經病變,造成膀胱感覺下降、慢性膀胱過度擴張、餘尿量增加、和膀胱適應性下降。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (d) 皮膚感覺受損者:例如糖尿病。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- 2. 腦性麻痺通常發生於子宮內、生產過程或出生後三年內發生的,原因如下: - (1) 出生前:母親智能障礙、癲癇、懷孕期間感染疾病或服用的藥物所引起,例如: 德國麻疹、帶狀皰疹、輻射線、缺氧、先天腦部畸形、孕婦於懷孕期間無法有 效控制糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(spastic, 60%): 最常見,呈現上運動神經元疾病的表徵如肌肉張力高、 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- 2. 新生兒臂神經叢傷害的危險因子有: - (1) 肩難產。 - (2) 胎兒過大 (macrosomia): 出生時體重 > 4,000 g 或 4,500 g, 兩種不同定義。 - (3) 妊娠糖尿病。 - (4) 胎位不正。 - (5) 母親過胖。 - (6) 第二產程延遲。 - (7) 初產婦(primiparous mother)。 - (8) 創傷性產鉗分娩(traumatic delivery with mid to high forceps)。 - (9) 另有研究指出使用催產素、宮縮過快,也是危險因子。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- ...磁波的一種,可用來止痛與消腫、促進組織癒合與神經生長, 以及軟化攣縮的組織。 - (b) 除了熱效應之外,電磁波亦能產生其他生物效應: - i. 改變細胞活性,活化纖維母細胞、神經細胞,甚至刺激 ATP 與蛋白質 之合成。 - ii. 增加糖尿病患傷口附近局部微血管的充血,改善局部血液循環,增加 局部組織的氧氣與養分供應,有助於傷口癒合。 - (c) 禁忌症: - i. 施作部位不能有金屬植入物(金屬骨板、人工關節、子宮內避孕器), 電磁波會使金屬周圍產生高熱燙傷組織。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
+- (2) 周邊血液循環不好:糖尿病或 PAOD,冷療會加重血液循環不良的情形。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - (1) 原因: 視網膜表面有異常的纖維組織增生,收縮造成牽引的力量,將感覺視網膜層和色素上皮層分開。常見於增生性血管病變,如:增殖性糖尿病視網膜病變、早產兒視網膜病變、網膜分支靜脈阻塞,另外還包含眼球外傷造成的結痂。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - #### 糖尿病視網膜病變 (Diabetic retinopathy) Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 1. 流行病學: 為 20 歲至 65 歲人口中失明的最主要原因,幾乎所有第一型糖尿病患者在 15 至 20 年後都會產生視網膜病變,其中有 20% 至 30% 的病人會導致失明。而超過 60% 的第二型患者會有視網膜病變。 Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -235,12 +247,6 @@ tags:
 - 1. 原因:最常見的是糖尿病視網膜病變、其次有急性玻璃體剝離、視網膜靜脈阻塞後 形成新生血管的出血、外傷、老年性黃斑部病變引起的脈絡膜新生血管出血。 Source: [[sources/med6-book2-ch10|癸、玻璃體]].
 - B. 妊娠糖尿病 (Gestational diabetes mellitus) 138 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...the control of the control of the control of the control of the control of the control of the control of the contro | • 糖尿病或妊娠糖尿病、慢性高血壓、慢性腎病、自體免疫性疾 | | | | 病(如紅斑性狼瘡和抗磷脂質症候群)和血管性疾病 | | | 胎兒因子 | ・多胞胎 | | | | ・本胎胎兒水腫 (hydrops fetalis) | | | 胎盤因子 | • 前胎胎死腹中或胎兒生長遲滯 | | | | • 前胎胎盤剝離 | | | 其他因子 | · 人工生殖技術(冷凍胚胎解凍植入療程) | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- | 高度風險 | • 有子癲前症病史 | ・多胞胎 | • 慢性高血壓 | |------|--------------|--------------------------|-------------------| | | • 糖尿病 | • 慢性腎病 | • 自體免疫性疾病 | | 中度風險 | ・初産 | ・ 肥胖 (BMI > 30kg/m²) | • 有子癲前症家族史 | | | ・ 高齢 (≥35 歳) | • 低社經地位 | • 前胎胎死腹中或生長遲滯 | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- (2) 影響青春期開始時間的因素: - a. 遺傳:多重基因調控,這些基因可能和肥胖、hypothalamus-pituitary-ovary (HPO) axis 等調控相關; - b. 體脂肪:研究顯示血中 leptin 濃度愈高,體脂肪愈高,青春期愈早開始; - c. 健康狀態; - d. 光線:卻乏光線的周期性刺激,使松果腺無法分泌褪黑激素 (melantonin), 卵巢發育不受抑制,造成盲女容易性早熟; - e. 居住地點:城市較鄉下早開始,平地較高山早開始; - f. 運動選手、糖尿病均使青春期較晚開始。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- (D) 手術後遺症為 diabetes mellitus Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- | (1)慢性不排卵 | 少月經或無月經 | |-------------------------------------|--------------------| | | 不孕 | | | 增加子宮內膜癌風險(註1) | | (2) 高雄性素症 | 多毛症、青春痘、禿頭 | | | 黑色素棘皮症(註2) | | (3) 卵巢異常 | 超音波下顯示多囊性卵巢(註3) | | | 卵巢體積增加且皮質增厚 | | (4) Gonadotropin 異常 LH/FSH ratio 上升 | | | (5)新陳代謝問題 | 胰島素阻抗、增加 Type 2 DM | | | 肥胖、血脂異常、代謝性症候群(註4) | | | 非酒精性脂肪性肝病、睡眠呼吸中止 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ...----------------------|--|--|--| | | ・ 胎兒肩與產婦骨盆不對稱 (shoulder-pelvic disproportion) | | | | | | • 男嬰 | | | | | 產婦 • 產前或妊娠糖尿病:增加肩難產的可能性 2~6 倍 | | | | | | | ・有肩難產的病史: 肩難產的復發率約為 10% (1~17%)・產婦年齡高、產婦肥胖和妊娠增加體重多 | | | | | | | | | | | 孕程或 | ・過期妊娠 | | | | | 產程異常 | ・器械輔助陰道生産 | | | | | A period principal and the second second second second second secon Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- ※ 註 2: 巨嬰妊娠(macrosomia)為肩難產最重要的風險因子,許多風險因子其實都和胎兒體重有關,包括男嬰、產前或妊娠糖尿病、產婦肥胖和妊娠增加體重多、過期妊娠等 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 
 ## Clinical Caveats
 

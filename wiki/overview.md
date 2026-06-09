@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(六)第2冊眼科`
-- Latest chapter source summaries: 20
-- Total chapter source summaries: 288
-- Total topic-first nodes: 1480
+- Latest ingested textbook: `醫(六)第3冊復健`
+- Latest chapter source summaries: 10
+- Total chapter source summaries: 298
+- Total topic-first nodes: 1541
 
 ## Graph Shape
 

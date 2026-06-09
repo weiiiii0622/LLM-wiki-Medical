@@ -40,6 +40,7 @@ sources:
   - "[[sources/med6-book1-ch18]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Cardiogenic pulmonary edema (心因性肺水腫)'
   - 'Cardiogenic pulmonary edema'
@@ -54,7 +55,7 @@ tags:
 
 ## Summary
 
-心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心衰竭急性惡化常見表現，需氧氣、利尿與血管擴張等急性處置。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +95,11 @@ tags:
 - [[sources/med6-book1-ch18]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...------| | Ritodrine(Yutopar)(註1) | β₂ agonist( ↑ intracellularcAMP) | ・心臓病・控制不良的糖尿病或甲狀腺亢進・大出血 | 心悸、心跳加速、胸悶、氣促、低血壓低血鉀、高血糖肺水腫 | ・紀錄 I/O・監測心跳・監控血糖和血鉀 | | Indomethacin | COX inhibitor ( ↓ Prostaglandins 、 ↓ intracellular Ca) | ・肝腎功能異常・血小板功能異常・腸胃潰瘍・氣喘 | ・ 噁心嘔吐・ 胃痛・ 血小板功能異常 | ・胎兒 PDA 提早關閉 (32 週後使用)・羊水減少 (使用超過 72 小時) | | Nifedipine(Adalat) | Calcui Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - orAD) (A) pulmonary edema Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】安胎藥物 $\beta_2$ agonist 的副作用包括心悸、心跳加速、胸悶、氣促、低血鉀、高血糖和肺水腫,故選 (A)。血壓的部分, $\beta_2$ agonist 會造成收縮壓上升,故考選部 (D) 也給對,然而,其會造成舒張壓下降,而平均的血壓變化是下降的,故內文仍維持 $\beta_2$ agonist 的副作用為低血壓。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -114,7 +117,6 @@ tags:
 - 1. 機轉 & 成因: 大多因下肢靜脈血液鬱積和高凝血狀態而產生血栓, 血栓回流至腿或骨盆腔的深層靜脈, 而血栓隨時間逐漸變大並移動, 最後回流到肺部形成栓塞。 肺動脈供應肺部血液受阻塞引發下列後續反應: - (1) 血管發炎物質造成肺血管阻力增加→促使肺血液分流重新分布→肺水腫。 - (2) 肺泡死腔增加→氣體交換受阻。 - (3) 右心室做功增加→右心室功能變差或衰竭。正常動脈壓合併右心室活動變差的 預後較差。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (4) 處置: 先維持 hemodynamic 穩定,使用 IABP 維持心臟血液穩定輸出,也避免 因 MR 而引發 pulmonary edema 甚至 heart failure,然後緊急手術修補。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (C) 3.68 歲男性因心肌梗塞來急診,呈現休克狀態並經插管緊急處置, 聽診時發現有一第四度收縮期雜音(Grade 4/6 systolic murmur), 目伴隨有肺水腫(pulmonary edema),經心導管攝影為左前降枝 (LAD) 90% 狹窄, 迴旋枝 (LCX) 有 85% 狹窄, 下列處置何 者錯誤? Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (D) 此情況為 ACC/AHA 準則之 Class I 之冠狀動脈繞道術適應症 【詳解】正確診斷應為急性心肌梗塞後導致大片心臟肌肉壞死、 心室中膈破裂,然後左心高壓血往右心流去產生第四度收縮期 雜音,併發肺高壓與肺水腫。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 
 ## Clinical Caveats
 

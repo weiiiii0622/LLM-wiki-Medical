@@ -8,6 +8,10 @@ sources:
   - "[[sources/med5-book1-ch03]]"
   - "[[sources/med5-book4-ch14]]"
   - "[[sources/med5-book5-ch07]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch04]]"
+  - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Spinal cord injury, SCI (脊髓損傷)'
   - 'Spinal cord injury, SCI'
@@ -22,7 +26,7 @@ tags:
 
 ## Summary
 
-外傷造成脊髓功能受損，需初步固定、神經分級、影像與併發症管理。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外傷造成脊髓功能受損，需初步固定、神經分級、影像與併發症管理。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +34,20 @@ tags:
 - [[sources/med5-book1-ch03]]
 - [[sources/med5-book4-ch14]]
 - [[sources/med5-book5-ch07]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch04]]
+- [[sources/med6-book3-ch01]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- A. 脊髓損傷 (Spinal cord injury, SCI) 42 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- #### A. 脊髓損傷 (Spinal cord injury, SCI) Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- 2. ASIA International Standards for Neurological Classification of SCI: Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- ...伸肌肌腱斷裂經手術修補後 | | Tenodesis splint(肌腱固定副木)(圖請參照第 215 頁) | 腱固定 (tenodesis) 的現象是指當腕關節伸張時,手指會自然彎曲。Tenodesis splint 可幫助頸椎第六節脊髓損傷的病人做出手部抓握的代償動作。 | 頸椎第六節脊髓損傷(C6 SCI) | | Short opponens splint(短對掌副木)(圖請參照第 215 頁) | 包含下列元件: | 正中神經損傷=猿手(Ape hand) | | Short opponens splint with MCP extension block | 於上述副木再加上 MCP extension block 來矯正尺神經損傷所導致掌指關節過度伸張(over Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
+- ...蓋退化性關節炎 | | Knee-ankle-footorthosis (KAFO) | 可用在大腿前後側肌肉無力、膝關節不穩定、或膝關節屈曲痙攣 (flexion spasticity)。 | 小兒麻痺【註】(Poliomyelitis)脊髓損傷(Spinal cord injury) | Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
+- 3. 當神經傳導入徑或是肌肉受傷時,便會引發垂足問題,造成垂足的原因如下: - (1) 神經性病因:中樞神經損傷、脊髓損傷、脊髓病變、運動神經元疾病、馬尾症 候群、腰薦椎神經根病變、坐骨神經病變、總腓神經病變、腓深神經病變、周 邊神經病變。 - (2) 肌肉性病因:肌肉損傷、肌腱損傷、前腔室症候群 (anterior compartment syndrome)、myopathy。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...胱滿漲的訊號可刺激脊髓反射作用稱為防護反射(guaing reflex),可增加禁尿的功能 | 傳 | | (B) | 3. 有關自主神經反射異常(autonomic dysreflexia, AD)的敘述,列何者錯誤? (A) 經常發生於脊髓損傷部位高於 T6~T8 以上的病人 (B) 病人會有低血壓 (C) 病人會有頭痛及患部以上潮紅 (D) 男性病人常併有尿道平滑肌共濟失調(dyssynergia) | 下 108(一)專醫五-69 | | (D) | 4. 有關兒童尿床(nocturnal enuresis)的敘述,下列何者錯誤? (A) 續發性尿床(secondary enuresis)的小孩應考慮有無尿路原的可能 (B) 夜間多尿症(nocturnal polyuri Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - | (C) | 6. 對一位 C5~C6 完全性脊髓損傷導致逼尿肌尿道外括約肌共濟失調 | 107 (二)專 | |-----|-------------------------------------------------------|-----------| | | (detrusor sphincter dyssynergia, DSD)的病人,下列何種處置不 | 醫五-68 | | | 合適? | | | | (A) 間歇性導尿以定時排空膀胱 | | | | (B) 口服抗膽鹼藥物 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - (C) 19. 有一位 42 歲的脊髓損傷男性因排尿障礙,照會泌尿科醫師。病 史為一年前因車禍傷及第 4 胸椎,導致下半身癱瘓。理學檢查 發現其下肢肌腱反射增強(+++),肌力為 0~1 分,醫師為其安 排尿路動力學(urodynamics)檢查,包含膀胱壓力圖(CMG) 及外括約肌肌電圖(EMG),請問以下何項為最可能的結果? 98(一)專 醫五-67 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
@@ -49,11 +64,18 @@ tags:
 
 ## Related Pages
 
+- [[diagnostics/asia-impairment-scale|ASIA Impairment Scale, AIS (ASIA 脊髓損傷分級)]]
 - [[conditions/autonomic-dysreflexia|Autonomic dysreflexia (自主神經反射異常)]]
 - [[conditions/cervical-spine-fracture|Cervical spine fracture (頸椎骨折)]]
+- [[conditions/heterotopic-ossification|Heterotopic ossification (異位性骨化)]]
+- [[diagnostics/modified-ashworth-scale|Modified Ashworth scale, MAS (改良 Ashworth 痙攣量表)]]
 - [[conditions/neurogenic-bladder|Neurogenic bladder (神經異常膀胱)]]
 - [[conditions/neurogenic-shock|Neurogenic shock (神經性休克)]]
+- [[conditions/pressure-injury|Pressure injury / pressure sore (壓傷／壓瘡)]]
+- [[conditions/sexual-dysfunction-after-sci|Sexual dysfunction after SCI (脊髓損傷後性功能障礙)]]
+- [[conditions/spasticity|Spasticity (痙攣)]]
 - [[anatomy/spinal-cord|Spinal cord (脊髓)]]
+- [[procedures/spinal-orthosis|Spinal orthosis (脊椎裝具)]]
 
 ## Follow-up
 

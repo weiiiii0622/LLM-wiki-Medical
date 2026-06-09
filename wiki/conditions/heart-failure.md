@@ -54,6 +54,8 @@ sources:
   - "[[sources/med5-book6-ch08]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Heart failure (心臟衰竭)'
   - 'Heart failure'
@@ -68,7 +70,7 @@ tags:
 
 ## Summary
 
-心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -122,9 +124,15 @@ tags:
 - [[sources/med5-book6-ch08]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- (2) 對象:主要是接受冠狀動脈繞道手術、瓣膜換置手術、先天性心臟病手術與心臟移植術後的患者。另外週邊動脈阻塞、接受冠狀動脈血管整型術後或心臟衰竭患者,也都是心臟復健的對象。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- · Uncontrolled symptomatic congestive heart failure Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- · Symptomatic congestive heart failure Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- 2. Duchenne muscular dystrophy 約學齡前發病,嬰兒期可發現學走路較慢,3 到 5 歲時骨盆及腹部肌肉無力,故下肢擺動困難,容易跌倒,要站起來時,需雙膝向後頂,使膝蓋伸直卡住,然後雙手在雙腿上交替地往上移動,最後把肚子向前頂,頭與肩膀向上仰拉地把自己站起來,此現象即為 Gower's sign。這代表著病患臀中肌和股四頭肌明顯的肌力不足。10~12 歲左右則開始無法走動或站立,須需依靠輪椅或躺在在床上,後期(15~20 歲)患者往往因控制呼吸與行動的肌肉萎縮之影響而導致肺部感染或心臟衰竭等合併症,甚而死亡。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - 5. 懷孕的併發症:流產、早產、胎死腹中、子癲前症、鬱血性心衰竭(congestive heart failure)。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (B) 2. 小英懷孕 18 週,懷孕前就有甲狀腺機能亢進並服用藥物控制。 99( ) 專 懷孕後自行停藥,也沒再回內科追蹤。在婦產科門診,醫師幫她 醫六 -32 安排抽血檢查,發現 T3、T4 值都很高,有 Overt thyrotoxicosis, 醫師告誡她必須要好好服藥控制,不然會有很多併發症。下列 何者不是小英之疾病常見的併發症? - (A) 早產或死胎 (preterm delivery or stillbirth) - (B) 深層靜脈阻塞 (deep vein thrombosis) - (C) 心臟衰竭 (heart failure) - (D) 子癇前症 (preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...晴的眼結膜(conjunctiva)是粉紅色的,沒有貧血的跡象,聽診發現有心雜音,產科醫師懷疑有心臟方面的問題,於是安排心臟超音波,發現曉晴有一個心室中膈缺損約 1.6 平方公分。下列給曉晴的諮詢,何者錯誤? - (A) 根據紐約心臟協會(NYHA)對心臟功能的定義,曉晴懷孕前是屬於第二級(functional class II),但懷孕後已惡化為第三級(functional class III) - (B) 心室中膈缺損是一種先天性心臟病,這種是結構的異常並不 會遺傳給胎兒 - (C) 大的心室中膈缺損可能會進展為左心室衰竭及肺動脈高壓,當肺動脈阻力(pulmonary vascular resistance)大於系統性血管阻力(systemic vascular resist Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
@@ -139,10 +147,6 @@ tags:
 - ...脈提供了 25% 的血液及養分,但 HCC 大部份是藉由肝動脈血液快速成長,鮮少從肝門靜脈長出來。 - (b) 根據統計,動脈栓塞術可有效的造成廣泛性的腫瘤壞死。雖然不屬於治癒性治療,但可以改善病人的預後。 - b. 適應症:在 BCLC stage B 的病人,肝腫瘤尺寸較大或為多發性,但尚無血管 侵犯,動脈栓塞術為第一線的治療。 - c. 作法: - (a) 穿刺股動脈並將導管置入股動脈,再往上抵達腹主動脈幹後,繼續往前進入**肝動脈**。 - (b) 使用化學治療藥物如 Doxorubicin 或 Adriamycin 等藥物混合 Lipiodol 顯影 劑針對 HCC 灌注。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - 3. 因壓迫鄰近器官而有的臨床表現:congestive heart failure (aortic root aneurysm with dilatation 造成 aortic regurgitation)、Hoarseness (aortic arch aneurysm 壓到 left recurrent laryngeal or vagus nerves)、呼吸困難、pulmonary compression、吞嚥困難、易飽足感(壓迫到胃)、嘔吐。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - ...ardiac disease | Stable coronary disease; remote MI; EF > 35% | Significant coronarydisease; recent MI; frequentangina; CHF; EF 1 > 1 L/sec | O 2 dependent; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- 1. Absolute indications: - (1) 因 heart failure 所導致的 hemodynamic compromise。 - a. Refractory cardiogenic shock • - b. 需要持續倚賴給予 IV inotropic agent 才能達到足夠的 organ perfusion。 - c. Peak $VO_2 2 11~14 mL/kg/min 且對日常活動造成限制。 - (2) 反覆性 unstable angina 且無法靠其他方法有效控制。 - (3) 病患在常規治療下仍舊體液不平衡或腎功能不穩定。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
-- 3. Insufficient indications:單有以下情形並不足以作心臟移植。 - (1) 左心室 ejection fraction 低下。 - (2) 曾經有 NYHA class III 或 IV 的 heart failure。 - (3) Peak VO2 > 15 mL/kg/min,且無其他適應症。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
-- ...------------------------------------------------| | Ischemic | Angina, reinfarction, infarct extension | | Mechanical | Heart failure, cardiogenic shock, mitral valve dysfunction, aneurysms, cardiac rupture | | Arrhythmic | Atrial or ventricular arrhythmias, sinus or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (4) 處置: 先維持 hemodynamic 穩定,使用 IABP 維持心臟血液穩定輸出,也避免 因 MR 而引發 pulmonary edema 甚至 heart failure,然後緊急手術修補。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 
 ## Clinical Caveats
 

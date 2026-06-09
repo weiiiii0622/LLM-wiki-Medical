@@ -61,6 +61,10 @@ sources:
   - "[[sources/med6-book1-ch18]]"
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Mental status examination, MSE (精神狀態檢查)'
   - 'Mental status examination, MSE'
@@ -75,7 +79,7 @@ tags:
 
 ## Summary
 
-精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -136,9 +140,20 @@ tags:
 - [[sources/med6-book1-ch18]]
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch06]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- (6) 改善身心靈的適應力,包含情緒、壓力,甚至改變 A 型人格。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (1) 創傷後水腦症(posttraumatic hydrocephalus):約有四到七成的患者腦室會擴大,腦壓通常不會跟著升高(normal pressure type)。常見症狀有頭痛、噁心嘔吐、意識改變。電腦斷層上可見腦室周圍較亮(periventricular lucency)、腦溝消失及腦室不規則擴張。治療上主要是腦室引流手術。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- ...- b. 創傷後癲癇的好發期為創傷後2年內,其中有80%在第一年內發生。 - c. 發生 Late PTS 的危險因子有:穿透性傷害(penetrating injury)、early seizures、 凹陷性顱骨骨折、急性顱內血腫、曾意識喪失或受傷後失憶症超過 24 小時、 硬腦膜撕裂、出現異物、focal sign (Aphasia 或 Hemiplegia)、年紀大於六十五歲。 - d. 創傷後一週內給予 phenytoin 或 valporic acid 能有效降低 early PTS 的機會,不過長期使用抗癲癇藥物對於預防 late PTS 的效用不顯著。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- b. 徐動型(athetosis, 20%): 又稱做 Dyskinetic Cerebral Palsy, 為基底核受傷, 引起四肢或驅幹肌張力的不規則變化,大多時間會有不自主動作,例如臉部常出現鬼臉、口腔功能控制困難、嘴常張著流口水,進食發聲和說話也常有問題。不自主動作容易受情緒的影響,當情緒較激動時,不自主的動作會更明顯,放鬆時則會減緩。常伴隨聽障的情形。新生兒黃疸嚴重若未治療的話,膽紅素會沉積在基底核使其受損,稱作核黃疸(Kernicterus),會造成徐動型腦性麻痺。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- (3) 藥物療法: - a. 鎮靜劑、安眠藥:病童常會有不易入睡、容易興奮、受驚或心情不安定等現象,可藉由此類藥物改善睡眠障礙及情緒問題。 - b. 抗癲癇劑:併發癲癇的病童,需定時服用,以預防抽搐發生。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- (8) Global aphasia:病灶包含額葉以及頂葉、顳葉交界處(perisylvian region),此 通常由 MCA 栓塞形成的中風造成。整體型失語症病患,在語言接收或表達方面,都有嚴重的損傷。包括命名、複誦、聽覺理解、閱讀理解和書寫能力等方面。 說話也不流暢,能說出的字很少,甚至於僅保有反映情緒的叫喊聲。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - (2) 危險因子: 年紀(超過40歲)、 性別(女多於男)、種族、家 族史、眼球軸長較短(如遠視 眼)、情緒激動失眠、暗室停 留時間過長、局部或全身應用 藥物(使瞳孔散大),長時間 閱讀、疲勞等。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - 8. 外傷性視神經病變(traumatic optic neuropathy):頭部受傷時,尤其是前額受撞擊, 常會造成外傷性視神經病變。病人通常會有暫時性意識喪失,視力同時受損。治療 可給予類固醇注射,約一半病人視力會改善。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 【詳解】經前症候群(premenstrual syndrome, PMS),是指在進入黃體期後(約月經前 10~14 天),可能由於體內荷爾蒙變化,而產生各種身心不適症狀,常見症狀可分三類:生理性、情緒性及行為上。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -150,12 +165,6 @@ tags:
 - (B) 6.33 歲女性,G1P0,目前懷孕30週,因突發性大量陰道水樣液體 流出及腹部疼痛至產房檢查。孕婦意識清醒,血壓 130/80 mmHg, 耳溫 37℃,胎心音每分鐘 130下,超音波檢查發現羊水指數 (AFI: amniotic fluid index)為2,無前置胎盤,最可能的診斷為: Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ※註 2:由於 oxytocin 的構造與 vasopressin(ADH)相似,會和腎臟 vasopressin receptor 交互作用,造成水分滯留和稀釋性低血鈉,即是所謂的水中毒。當高劑量催產素(40 mU/min)合併大量的低滲透靜脈輸液( $\geq$ 3 L)持續( $\geq$ 7 hrs)給予,便容易產生。低血鈉的症狀包括:頭痛、噁心嘔吐、腹痛、疲倦、意識不清、癲癇大發作和神經學損傷。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - (A,B) 3. 一位 25 歲懷孕 22 週婦女,被家人發現意識改變,送至急診時, 已無呼吸、無脈搏,下列敘述及處置,何者錯誤? Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
-- | 體液過量 | 心衰竭、肺水腫、稀釋性貧血 | | | | |--------|----------------------|--|--|--| | 電解質不平衡 | 低鈉、高血糖、酸中毒 | | | | | 尿 液 | 茶色尿或血尿 | | | | | 神經表現 | 視覺障礙、意識改變、譫妄、昏迷、癲癇發作 | | | | Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
-- (D) 9. 一位 38 歲男性跟朋友聚餐後騎機車與酒駕之轎車對撞,跌落排水溝中,造成全身多處外傷及骨折。經送往急診室,初步檢查生命跡象穩定,意識清楚,右小腿骨折處有一個 10 公分長的傷口,可以看到骨折的斷端。X 光檢查顯示右小腿中段脛骨及腓骨開放性骨折,右側股骨關節脫臼以及右側肱骨骨折。對其骨折及脫臼的各種處置,下列何者為最正確之敘述? Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (D) 緊急安排血管攝影,並安撫病人情緒 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 4. 無高潮症(anorgasmia):在有意識的性行為下,無法達到高潮,但夜間仍會有流精 (emission,精液累積滿溢流出)現象。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- a. 心理性 (psychogenic): - (a) 情緒焦躁 (performance anxiety): 性行為前就會過度緊張,造成心理壓力。 - (b) 關係緊張 (strained relationship):性伴侶間的關係緊張。 - (c) 性冷感 (lack of sexual arousal): 性伴侶在性行為中沒有反應、年齡相關的性冷感、慢性疾病相關的性冷感。 - (d) 精神疾病。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- ...) | 15. | 男性血中睪固酮(testosterone)濃度不足,較不會引起何種症狀 | 103(二)專 | | | | 或疾病? | 醫五 -69 | | | | (A) 性慾下降 (B) 勃起功能減退 | | | | | (C) 情緒低落 (D) 前列腺癌 | | | (B) | 16. | Y染色體那部分的基因缺損會造成男性精蟲活動力不良? | 103(二)專 | | | | (A) p arm (B) q arm | 醫五 -71 | | | | (C) p arm 和 q arm (D) centromere | | | (D) | 17. | 下列何項危險因子不會影響陰莖海綿體血流量(penile blood flow, | 103(一)專 | | | | Source: [[sources/med5-book5-ch08|辛、男性學]].
 
 ## Clinical Caveats
 

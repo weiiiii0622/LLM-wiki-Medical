@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book6-ch08]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch10]]"
+  - "[[sources/med6-book3-ch04]]"
 aliases:
   - 'Scoliosis (脊椎側彎)'
   - 'Scoliosis'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-冠狀面脊柱側彎，需依 Cobb angle、年齡與進展風險追蹤或治療。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀面脊柱側彎，需依 Cobb angle、年齡與進展風險追蹤或治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book6-ch08]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch10]]
+- [[sources/med6-book3-ch04]]
 
 ## Key Details From Sources
 
+- | | 脊椎側彎用背架 (Scoliosis Orthoses) | | | | | |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------- Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - (9) 脊椎可能會有 scoliosis(脊椎側彎)的情形發生,和 CP 的嚴重程度相關。病人 脊椎彎曲的幅度會比一般 idiopathic scoliosis 的幅度來的大,使用 brace(背架) 無法避免其惡化,如過度嚴重影響到呼吸,則必須做脊椎矯正治療。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - b. 可發生於骨頭的許多部位,但最常發生在四肢長骨骨幹處(尤其下肢,most common: proximal femur diaphysis)與脊椎,造成四肢及背部疼痛,嚴重時可能形成脊柱側彎(scoliosis)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - ...urr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
@@ -52,6 +55,7 @@ tags:
 ## Related Pages
 
 - [[anatomy/spinal-cord|Spinal cord (脊髓)]]
+- [[procedures/spinal-orthosis|Spinal orthosis (脊椎裝具)]]
 
 ## Follow-up
 

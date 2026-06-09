@@ -21,6 +21,8 @@ sources:
   - "[[sources/med6-book2-ch14]]"
   - "[[sources/med6-book2-ch02]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Cranial nerves (腦神經)'
   - 'Cranial nerves'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-十二對腦神經連結眼球運動、臉部感覺運動、聽平衡、吞嚥與自律神經功能。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+十二對腦神經連結眼球運動、臉部感覺運動、聽平衡、吞嚥與自律神經功能。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,14 @@ tags:
 - [[sources/med6-book2-ch14]]
 - [[sources/med6-book2-ch02]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book3-ch01]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- 2. 吞嚥機轉的神經支配有第五、七、九、十、十一、十二對腦神經及第一至第三對頸椎神經。而喉部往上往前提、喉前庭(laryngeal vestibule)的完全關閉以及聲帶保持緊閉,這三點是避免嗆到引起吸入性肺炎最重要的步驟。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- 5. 外側突起分兩種,一個是斜方肌(第十一對腦神經支配)無力引起,當肩膀內收時會發現肩胛骨的 superior angle 向外側突出,以及在聳肩時會有單側無力或肩高不對稱的情形。另一種是菱形肌無力(背肩胛神經支配)引起,相反地,它是肩胛骨的 inferior angle 向外側突出。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- 1. 腦外傷部分內容請參照醫學(五)第三冊腦神經外科第二章頭部創傷。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 2. 眼眶:由七塊骨頭構成,內壁最薄,底板最易產生骨折,有第二對(CNII)、第三對(CNIII)、第四對(CNIV)、第五對的第一和第二分支(CNV1、2)和第六對(CNVI)腦神經通過。視神經孔位於蝶骨體和小翼間。眼球後方有脂肪組織,做為支架及外力緩衝。眼眶除了含眼球及脂肪外,尚有眼肌、神經、血管、及淚腺;另,週邊有鼻竇,並與鼻腔相連。 Source: [[sources/med6-book2-ch01|甲、眼睛概論]].
 - (2) 神經支配:上斜肌(Superior Oblique, SO) 由第四對腦神經(CNIV)支配;外 直肌(Lateral Rectus, LR) 由第六對腦神經(CNVI)支配;其餘的四條眼外肌: 上直肌(Superior Rectus, SR)、下直肌(Inferior Rectus, IR)、下斜肌(Inferior Oblique, IO)、內直肌(Medial Rectus, MR)則由第三對腦神經(CNIII)支配。 其中,IO最短,SO最長。 Source: [[sources/med6-book2-ch01|甲、眼睛概論]].
 - (1) 上斜肌麻痺 (superior oblique paresis): - a. 分類: - (a) 先天性:由於第四對腦神經或神經核的先天性缺損造成。 - (b) 後天性:因頭部外傷、腦血管病變、糖尿病、腦瘤等。 - b. 特色:上斜肌麻痺造成患側眼比正常眼的位置高,且垂直斜視的角度可能隨 注視方向不同或頭位置改變而有所不同。如右上斜肌麻痺者,向正前方看時, 右眼會比左眼高,當兩眼向左看或頭往右邊歪時,斜視的角度會變大。故上 斜肌麻痺的患者,常有會把頭往健側歪以減少斜視角度的現象。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].

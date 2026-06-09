@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Guillain-Barre syndrome, GBS (格林-巴利症候群)'
   - 'Guillain-Barre syndrome, GBS'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-急性免疫性多發神經根神經病變，常有上升性無力與反射下降。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性免疫性多發神經根神經病變，常有上升性無力與反射下降。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book5-ch07]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- (3) F 反應大多用在偵測多發性周邊神經病變(polyneuropathy)和神經叢病變(plexopathy),對神經根病變的敏感度不佳。最常使用在 Guillain-Barre 症候群的早期診斷。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - (B) 29. 一位 34 歲經產孕婦,目前懷第二胎,妊娠第 35 週;這位婦女於 3 年前懷第一胎,於妊娠第 36 週,接受產前乙型鏈球菌(GBS) 篩檢,結果呈現乙型鏈球菌菌落陽性反應。她於第一胎待產時接受預防性抗生素注射治療,胎兒出生後並無新生兒乙型鏈球菌感染現象發生。為預防第二胎新生兒乙型鏈球菌感染,應採取的作法為: Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】乙型鏈球菌(GBS)篩檢,建議孕婦懷孕35~37週時,接受篩檢,若呈陽性帶菌,可於待產時投予預防性抗生素,以減少新生兒乙型鏈球菌感染。前胎篩檢為陽性並不能代表本胎的狀況,仍須再次篩檢。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...------------|-----------------------------------------------------|--| | 週數 | 處置 | | | 34 週以上 | ・待産催生 | | | | ・子宮頸細菌培養及 GBS 篩檢 | | | | • 預防性抗生素使用 | | | 32~33 + 6 週 | ・ 觀察不安胎,至 34 週考慮催生 | | | | · 考慮給予 Betamethasone 以促使胎兒肺部成熟 | | | | ・子宮頸細菌培養及 GBS 篩檢 | | | | 預防性抗生素使用 | | | | ・ 追蹤 Vital sign, CBC/DC, CRP,若有感染跡象,立即生產 | | | | • 追蹤胎兒監視器,若懷疑胎兒窘迫,立即 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].

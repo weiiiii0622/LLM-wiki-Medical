@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book2-ch11]]"
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Rheumatoid factor, RF (類風濕因子)'
   - 'Rheumatoid factor, RF'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,13 @@ RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人�
 - [[sources/med4-book2-ch11]]
 - [[sources/med4-book4-ch03]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- ...收縮力量,即稱為徵召現象。 - (a) Firing rate (FR): 單一運動單元電位每秒的放電頻率,單位為赫茲(Hz), 計算方法為 1,000 除以波與波的間隔(毫秒)。 - (b) Recruitment frequency (RF): 當其他運動單元被徵召且開始放電時,肌肉收縮增強,此時原本的運動單元電位當下的 firing rate 即為 Recruitment frequency。正常為 20 Hz 左右。 - (c) Recruitment interval (RI):當其他運動單元被徵召且開始放電時,原本的運動單元電位兩次放電的波形間隔,即為 Recruitment interval。正常為 100 ms 左右。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
+- (d) 如果是 Neuropathy: RF ↑、RI ↓,因為神經病變影響了其他運動單元加入徵召行列的情形,所以原本的運動單元勢必先增加本身的 FR,以便撐到其他運動單元的支援加入。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
+- (e) 如果是 Myopathy:RF $\downarrow$ 、RI $\uparrow$ ,肌纖維的損傷會促使其他運動單元提早加入徵召行列,所以原本的運動單元還來不及增加自身的 FR,也延長了其 RI。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - b. 特徵為多發性關節發炎,會有關節處 pannus(翳)的產生,診斷的標準是七個特徵有符合四個就合乎診斷(> 3 個關節腫脹、腕 / 手關節腫脹 [ 通常 為 MP 或 PIP joint、對稱性腫脹、晨僵超過一個小時、rheumatoid nodule、 RF(+)、腕 / 手關節影像上有 erosion 或 periarticular osteopenial) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (B) 30. 一位 70 歲男性,最近數月天天頭痛且視力模糊。頭痛位置在左 100(二)專 側顳部,非搏動性疼痛(non-throbbing pain),每天頭痛時間達 醫四-52 數小時之久,頭痛時並沒有噁心、嘔吐或流淚等症狀。病患同時 抱怨全身倦怠、發燒及肌肉疼痛。身體檢查發現左側淺部顳動脈 (superficial temporal artery)變硬且附近皮膚有紅腫。以下那個 檢查,對診斷最有幫助? - (A) 類風濕因子 (Rheumatoid factor, RF) - (B) 紅血球沈降速率 (Erythrocyte sedimentation rate, ESR) - (C) HLA-typing - (D) 腫瘤標記 (Tumor markers) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - (C) 3.20 歲男性,近兩個月出現關節腫脹,間歇性發燒至 39℃伴隨肌 肉痠痛情形。發燒後驅幹出現鮭魚色的皮疹,全身檢查後沒有明 顯的感染源,抽血檢查發現 ANA(-),rheumatoid factor (-), ferritin > 10,000 ng/ml,Anti-U1RNP (-)。最有可能為下列何種 疾病? Source: [[sources/med4-book2-ch11|子、其 他]].
@@ -62,8 +67,6 @@ RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人�
 - (C) 1.32 歲男病人罹患活動性 C 型病毒肝炎已數年。最近數星期,兩下肢 107(-) 專 皮膚出現許多有壓痛之小紅疹。且四肢麻木疼痛。檢查發現有輕度 醫三-13 蛋白尿。下列那一項檢查陽性最具診斷價值? - (A) 類風濕因子 (RF) - (B) 抗細胞核抗體 (ANA) - (C)冷凝球蛋白 (cryoglobulin) - (D) C 型肝炎病毒量(viral load) Source: [[sources/med3-book4-ch04|丁、血管炎]].
 - 2. 好發 $35\sim50$ 歲,男:女 =1:3;帶有 HLA-DR4 有更高的發生率。也有不少超過 60 歲的類風濕性關節炎 (Elderly onset RA),若合併 RF(+)或 anti-CCP(+),通常疾病進展較快、較嚴重。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - (2) 類風濕性血管炎 (Rheumatoid vasculitis): 發生在高 RF titer 等病患,可能造成 - a. Neurovascular disease: Distal sensory polyneuropathy · Mononeuritis multiplex - b. Cutaneous vasculitis: Dermal necrosis · Digital gangrene · Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- 1. 類風濕性因子(Rheumatoid factor, RF): R A 病人 80% 有 Rheumatoid Factor(+), RF 指的是會攻擊自身的抗體,一般實驗室檢驗的是 IgM, RF 攻擊的對象則是 IgG 的 Fc 部份,所以 RF 可說是 Anti-IgG Fc Ab。RF 愈高,關節外的表現愈多、預後也愈差。 RF 愈高,關節外的表現愈多、預後也愈差。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- (2) AS 病人有 90%HLA-B27(+),但 RF(-)、Anti-CCP(-)、ANA(-)。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

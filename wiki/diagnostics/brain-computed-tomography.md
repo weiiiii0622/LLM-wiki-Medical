@@ -78,6 +78,7 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch09]]"
   - "[[sources/med6-book2-ch14]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Brain computed tomography, brain CT (腦部電腦斷層)'
   - 'Brain computed tomography, brain CT'
@@ -92,7 +93,7 @@ tags:
 
 ## Summary
 
-急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性神經症狀常用初始影像，特別用於排除出血、腦水腫、腫塊效應。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -170,9 +171,12 @@ tags:
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch09]]
 - [[sources/med6-book2-ch14]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- | 預後因子 | 預後較差 | 預後較好 | |--------------------|----------------------|------| | Glasgow coma scale | 7 | | 電腦斷層 | 大量出血、腦水腫、mass effect | 正常 | | 年紀 | 老年 | 年輕人 | | 光反射 | 瞳孔擴大 | 瞳孔收縮 | Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (1) 創傷後水腦症(posttraumatic hydrocephalus):約有四到七成的患者腦室會擴大,腦壓通常不會跟著升高(normal pressure type)。常見症狀有頭痛、噁心嘔吐、意識改變。電腦斷層上可見腦室周圍較亮(periventricular lucency)、腦溝消失及腦室不規則擴張。治療上主要是腦室引流手術。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (2) 眼窩底骨折(orbital floor fracture):外傷性造成的眼窩底骨折,常造成下直肌、 下斜肌卡在骨折處,導致垂直方向的斜視或複視,眶下神經麻木、眼球周圍瘀血、眼球凹陷等。可用電腦斷層幫助診斷。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - (3) 影像學:腹部電腦斷層或核磁共振造影。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (C) 1.52 歲更年期婦女,G2P2,體重 60 公斤,陰道超音波檢查有 3 公 105( ) 專 分的右側卵巢單純囊腫(simple cyst),血中 CA 125 濃度為 19 醫六 -34 IU/mL。她本人不抽煙。直系家屬中無乳癌或卵巢癌的病人。進一步何者為最恰當的處置? - (A) 做腹部或骨盆腔的電腦斷層檢查 - (B) 腹腔鏡手術 - (C) 三個月內再做一次陰道超音波 - (D) 服用口服避孕藥 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].

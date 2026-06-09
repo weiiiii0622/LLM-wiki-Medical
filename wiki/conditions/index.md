@@ -18,6 +18,7 @@ Diseases and syndromes.
 - [[conditions/abdominal-trauma|Abdominal trauma (腹部創傷)]] - 腹部鈍傷或穿刺傷可能造成實質器官、腸道、血管與後腹腔損傷。
 - [[conditions/abnormal-liver-function-tests|Abnormal liver function tests (肝功能異常)]] - 肝功能檢查異常需判斷 hepatocellular、cholestatic 或 mixed pattern。
 - [[conditions/abnormal-uterine-bleeding|Abnormal uterine bleeding, AUB (異常子宮出血)]] - 非正常頻率、量、規律或持續時間的子宮出血，常用 PALM-COEIN 分類。
+- [[conditions/above-knee-amputation|Above-knee amputation, AKA (膝上截肢)]] - 膝上截肢喪失膝關節控制，義肢膝關節、能量消耗與髖伸肌/外展肌訓練是重點。
 - [[conditions/absence-seizure|Absence seizure (失神發作)]] - 短暫意識中斷與 staring，典型 EEG 為 3-Hz spike-and-wave。
 - [[conditions/achalasia|Achalasia (食道弛緩不能)]] - 下食道括約肌放鬆不全與食道蠕動異常造成吞嚥困難。
 - [[conditions/achilles-tendon-rupture|Achilles tendon rupture (阿基里斯腱斷裂)]] - 常見於運動或突然蹬地，表現為後踝疼痛、跛行與 plantar flexion 無力，Thompson test 可輔助診斷。
@@ -90,6 +91,7 @@ Diseases and syndromes.
 - [[conditions/aortic-dissection|Aortic dissection (主動脈剝離)]] - 急性胸背痛與血壓控制相關的大血管急症。
 - [[conditions/aortic-regurgitation|Aortic regurgitation (主動脈瓣逆流)]] - 舒張期逆流造成容量負荷與脈壓變化。
 - [[conditions/aortic-stenosis|Aortic stenosis (主動脈瓣狹窄)]] - 固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。
+- [[conditions/aphasia|Aphasia (失語症)]] - 語言理解或表達障礙常見於 dominant hemisphere stroke，需依 fluency、comprehension、repetition 與 naming 分型。
 - [[conditions/aplastic-anemia|Aplastic anemia (再生不良性貧血)]] - 骨髓造血細胞減少造成 pancytopenia，治療依嚴重度與移植適合度決定。
 - [[conditions/apnea-of-prematurity|Apnea of prematurity (早產兒呼吸暫停)]] - 早產兒呼吸控制未成熟造成呼吸暫停、心搏過慢或低氧。
 - [[conditions/appendicitis|Appendicitis (闌尾炎)]] - 闌尾管腔阻塞後感染發炎，表現可由臍周痛轉右下腹痛，需注意穿孔與膿瘍。
@@ -118,6 +120,7 @@ Diseases and syndromes.
 - [[conditions/becker-muscular-dystrophy|Becker muscular dystrophy, BMD (貝克型肌肉失養症)]] - dystrophin partially functional 的較輕型肌肉失養症，發病與進展較 DMD 晚。
 - [[conditions/behcet-disease|Behcet disease (貝賽特氏症)]] - 復發性口腔/生殖器潰瘍、眼炎與血管炎相關疾病。
 - [[conditions/bell-palsy|Bell palsy (貝爾氏顏面神經麻痺)]] - 急性周邊型顏面神經麻痺，需排除中樞與感染等原因。
+- [[conditions/below-knee-amputation|Below-knee amputation, BKA (膝下截肢)]] - 膝下截肢保留膝關節，通常功能預後較佳；需注意膝屈曲攣縮、殘肢承重與義足訓練。
 - [[conditions/benign-prostatic-hyperplasia|Benign prostatic hyperplasia, BPH (良性攝護腺增生)]] - 攝護腺 transition zone 增生造成 LUTS 或 bladder outlet obstruction，治療依 IPSS、攝護腺大小與併發症決定。
 - [[conditions/biliary-atresia|Biliary atresia (膽道閉鎖)]] - 嬰兒膽汁鬱積重要病因，需早期辨識灰白便與直接膽紅素上升。
 - [[conditions/biliary-pancreatitis|Biliary pancreatitis (膽源性胰臟炎)]] - 膽石或膽泥阻塞壺腹可誘發急性胰臟炎，需評估 ERCP 與膽囊切除時機。
@@ -225,6 +228,7 @@ Diseases and syndromes.
 - [[conditions/conjunctivitis|Conjunctivitis (結膜炎)]] - 結膜發炎可由病毒、細菌、過敏、毒性或 chlamydia 引起，分泌物、淋巴結與角膜侵犯可協助鑑別。
 - [[conditions/constrictive-pericarditis|Constrictive pericarditis (縮窄性心包膜炎)]] - 硬化心包限制舒張充填，可類似限制型心肌病變。
 - [[conditions/contact-dermatitis|Contact dermatitis (接觸性皮膚炎)]] - 外界物質造成刺激性或 allergic delayed-type 皮膚炎，分布常反映接觸型態。
+- [[conditions/contracture|Contracture (攣縮)]] - 長期固定、痙攣、疼痛或軟組織縮短造成關節活動受限，預防重點是擺位、伸展與早期活動。
 - [[conditions/conversion-disorder|Conversion disorder / functional neurological symptom disorder (轉化症)]] - 心理壓力或衝突轉化為神經症狀，如癱瘓、失明或 seizure-like episodes，症狀與神經解剖不完全相符。
 - [[conditions/copd|COPD (慢性阻塞性肺疾病)]] - 長期有害氣體暴露造成不可完全可逆的氣流阻塞。
 - [[conditions/corneal-abrasion|Corneal abrasion (角膜擦傷)]] - 角膜上皮缺損造成疼痛、流淚與畏光，fluorescein staining 可顯示缺損範圍。
@@ -350,6 +354,7 @@ Diseases and syndromes.
 - [[conditions/folate-deficiency|Folate deficiency (葉酸缺乏)]] - 葉酸缺乏造成 DNA 合成障礙與巨芽細胞性貧血。
 - [[conditions/follicular-lymphoma|Follicular lymphoma (濾泡性淋巴瘤)]] - indolent B cell lymphoma，常見 t(14;18)/BCL2。
 - [[conditions/follicular-thyroid-carcinoma|Follicular thyroid carcinoma (濾泡狀甲狀腺癌)]] - 濾泡來源惡性腫瘤，診斷重點為包膜或血管侵犯，較常血行轉移。
+- [[conditions/foot-drop|Foot drop (垂足)]] - 踝背屈無力造成 swing phase toe drag 與 steppage gait，原因可為 peroneal neuropathy、L5 radiculopathy、stroke 或 neuromuscular disease。
 - [[conditions/fragile-x-syndrome|Fragile X syndrome (脆折 X 症候群)]] - FMR1 CGG repeat expansion 造成智能障礙、自閉特徵與長臉大耳等表現。
 - [[conditions/freckle|Freckle / ephelis (雀斑)]] - 日曬相關小型淡褐色斑，黑色素增加但 melanocyte 數量不一定增加。
 - [[conditions/frontotemporal-dementia|Frontotemporal dementia, FTD (額顳葉型失智症)]] - 以行為、人格或語言變化為早期核心的退化性失智症群。
@@ -395,6 +400,7 @@ Diseases and syndromes.
 - [[conditions/helicobacter-pylori-infection|Helicobacter pylori infection (幽門螺旋桿菌感染)]] - H. pylori 與消化性潰瘍、胃炎、胃癌及 MALT lymphoma 風險相關。
 - [[conditions/hellp-syndrome|HELLP syndrome (HELLP 症候群)]] - preeclampsia spectrum 中的 hemolysis、elevated liver enzymes、low platelets，可迅速惡化並需分娩評估。
 - [[conditions/hemangioblastoma|Hemangioblastoma (血管母細胞瘤)]] - 血管性 CNS 腫瘤，可與 von Hippel-Lindau disease 相關。
+- [[conditions/hemineglect|Hemineglect (半邊忽略)]] - 常見於右半球病灶，病人忽略對側空間或身體，影響復健安全與功能恢復。
 - [[conditions/hemolytic-anemia|Hemolytic anemia (溶血性貧血)]] - 紅血球破壞增加造成貧血，常有 reticulocyte 上升、LDH/indirect bilirubin 上升與 haptoglobin 下降。
 - [[conditions/hemolytic-uremic-syndrome|Hemolytic uremic syndrome, HUS (溶血性尿毒症候群)]] - 常與 Shiga toxin 相關，造成溶血、血小板低下與 AKI。
 - [[conditions/hemophilia-a|Hemophilia A (A 型血友病)]] - factor VIII 缺乏造成 intrinsic pathway 異常與深部出血。
@@ -419,6 +425,7 @@ Diseases and syndromes.
 - [[conditions/herpes-simplex-virus-infection|Herpes simplex virus infection, HSV (單純皰疹病毒感染)]] - 可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。
 - [[conditions/herpes-zoster|Herpes zoster (帶狀皰疹)]] - VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。
 - [[conditions/herpetic-keratitis|Herpetic keratitis (疱疹性角膜炎)]] - HSV 角膜炎典型 dendritic lesion，可反覆復發並造成角膜知覺下降或 stromal keratitis。
+- [[conditions/heterotopic-ossification|Heterotopic ossification (異位性骨化)]] - TBI、SCI、燒傷或關節手術後軟組織異常骨化，造成疼痛、腫脹與關節活動受限。
 - [[conditions/hfpef|HFpEF (射出分率保留型心衰竭)]] - 舒張功能下降但 LVEF 可保留，治療重點偏症狀、血壓與共病控制。
 - [[conditions/hfref|HFrEF (射出分率降低型心衰竭)]] - 左心室收縮功能下降，藥物與裝置治療證據較完整。
 - [[conditions/hiatal-hernia|Hiatal hernia (裂孔疝氣)]] - 胃食道交界或胃部經橫膈裂孔上移，可與 GERD 表現重疊。
@@ -698,6 +705,7 @@ Diseases and syndromes.
 - [[conditions/personality-disorders|Personality disorders (人格疾患)]] - 持久且僵化的內在經驗與行為模式偏離文化期待，造成痛苦或功能受損。
 - [[conditions/pertussis|Pertussis (百日咳)]] - Bordetella pertussis 造成陣發性咳嗽，疫苗與暴露後預防重要。
 - [[conditions/peutz-jeghers-syndrome|Peutz-Jeghers syndrome, PJS (Peutz-Jeghers 症候群)]] - STK11 相關 hamartomatous polyposis syndrome，具口唇黏膜色素斑與腫瘤風險。
+- [[conditions/phantom-limb-pain|Phantom limb pain (幻肢痛)]] - 截肢後感覺已失去肢體仍疼痛或存在，與 peripheral/central sensitization、心理因素與殘肢問題相關。
 - [[conditions/phenylketonuria|Phenylketonuria, PKU (苯酮尿症)]] - phenylalanine hydroxylase 或 BH4 代謝異常造成 phenylalanine 升高，需飲食控制避免神經傷害。
 - [[conditions/pheochromocytoma|Pheochromocytoma (嗜鉻細胞瘤)]] - 兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。
 - [[conditions/phimosis|Phimosis (包莖)]] - 包皮口狹窄無法退下，可為生理性或病理性，反覆感染、排尿問題或成人病理性包莖可考慮包皮環切。
@@ -729,6 +737,7 @@ Diseases and syndromes.
 - [[conditions/posterior-vitreous-detachment|Posterior vitreous detachment, PVD (後玻璃體剝離)]] - 玻璃體後皮質與 retina 分離常造成飛蚊與閃光，需排除 retinal tear 或 detachment。
 - [[conditions/postoperative-ileus|Postoperative ileus (術後腸麻痺)]] - 手術後腸蠕動暫時下降，需與 mechanical obstruction、感染、電解質異常鑑別。
 - [[conditions/postpartum-hemorrhage|Postpartum hemorrhage, PPH (產後大出血)]] - 產後出血常因 4T：tone、trauma、tissue、thrombin；需快速復甦、按摩、uterotonics、止血處置。
+- [[conditions/poststroke-shoulder-pain|Poststroke shoulder pain (中風後肩痛)]] - 中風後肩痛可由 subluxation、spasticity、capsulitis、CRPS、rotator cuff injury 或 positioning 不良造成。
 - [[conditions/posttraumatic-stress-disorder|Posttraumatic stress disorder, PTSD (創傷後壓力症候群)]] - 創傷暴露後出現侵入、逃避、負向認知情緒與警覺性升高等症狀群。
 - [[conditions/precocious-puberty|Precocious puberty (性早熟)]] - 青春期第二性徵過早出現，需區分 central、peripheral 與正常變異。
 - [[conditions/prediabetes|Prediabetes (糖尿病前期)]] - 血糖高於正常但未達糖尿病，生活型態介入可降低進展。
@@ -816,6 +825,7 @@ Diseases and syndromes.
 - [[conditions/septic-arthritis|Septic arthritis (感染性關節炎)]] - 關節腔感染造成急性單關節痛與發炎，需快速抽液與治療。
 - [[conditions/septic-shock|Septic shock (敗血性休克)]] - 感染造成血管擴張、微循環異常與器官灌流不足，需 source control、抗生素、輸液與血管升壓藥。
 - [[conditions/severe-combined-immunodeficiency|Severe combined immunodeficiency, SCID (嚴重複合型免疫缺乏)]] - T cell 及常合併 B/NK cell 功能缺陷，嬰兒期嚴重感染且 live vaccine 危險。
+- [[conditions/sexual-dysfunction-after-sci|Sexual dysfunction after SCI (脊髓損傷後性功能障礙)]] - SCI 後性功能受神經節段、自主神經與心理因素影響，需評估勃起、射精、生育與安全性。
 - [[conditions/shigellosis|Shigellosis (志賀氏菌感染)]] - Shigella 造成發炎性腹瀉與痢疾，具低感染劑量。
 - [[conditions/shock|Shock (休克)]] - 循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。
 - [[conditions/short-stature|Short stature (身材矮小)]] - 身高低於同年齡族群預期，需用生長速度、骨齡與家族/內分泌/慢性病因評估。
@@ -835,6 +845,7 @@ Diseases and syndromes.
 - [[conditions/social-anxiety-disorder|Social anxiety disorder / social phobia (社交焦慮症／社交畏懼症)]] - 害怕社交或表現情境中被檢視、羞辱或負面評價，因而逃避或忍受強烈焦慮。
 - [[conditions/solar-lentigo|Solar lentigo (曬斑)]] - 慢性日曬造成的界線清楚褐色斑，常見於老年與曝曬部位。
 - [[conditions/somatic-symptom-disorder|Somatic symptom disorder (身體症狀障礙／身體化疾患)]] - 多重身體症狀與過度健康焦慮或醫療尋求，需排除可解釋的內外科病因。
+- [[conditions/spasticity|Spasticity (痙攣)]] - 上運動神經元病灶造成速度依賴性肌張力增加，可影響姿勢、照護、疼痛與功能。
 - [[conditions/specific-phobia|Specific phobia (特定對象畏懼症)]] - 對特定物件或情境產生過度恐懼與逃避，暴露時快速引發焦慮。
 - [[conditions/spina-bifida|Spina bifida (脊柱裂)]] - 神經管閉合不全疾病，可伴隨脊髓膜膨出、神經缺損與 Chiari II/hydrocephalus。
 - [[conditions/spinal-cord-compression|Malignant spinal cord compression (惡性脊髓壓迫)]] - 癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。
@@ -844,6 +855,7 @@ Diseases and syndromes.
 - [[conditions/spinal-tumor|Spinal tumor / spinal cord tumor (脊椎與脊髓腫瘤)]] - 脊椎、硬膜外、髓內或髓外腫瘤可造成疼痛、神經根症狀或脊髓壓迫。
 - [[conditions/spondylolisthesis|Spondylolisthesis (脊椎滑脫)]] - 上位椎體相對下位椎體滑移，可造成背痛、radiculopathy 或神經性跛行。
 - [[conditions/spontaneous-bacterial-peritonitis|Spontaneous bacterial peritonitis, SBP (自發性細菌性腹膜炎)]] - 肝硬化腹水感染，診斷常依腹水 PMN 計數與培養。
+- [[conditions/sports-injury|Sports injury (運動傷害)]] - 運動傷害包含肌腱、韌帶、肌肉、骨骼與關節損傷，處理依急性期、恢復期與回場需求分階段。
 - [[conditions/squamous-cell-carcinoma-skin|Cutaneous squamous cell carcinoma, cSCC (皮膚鱗狀細胞癌)]] - 角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。
 - [[conditions/stable-angina|Chronic stable angina (慢性穩定型心絞痛)]] - 固定冠狀動脈斑塊造成可預測的運動誘發胸痛。
 - [[conditions/staghorn-calculus|Staghorn calculus (鹿角結石)]] - 沿腎盂腎盞生長的大型分枝結石，常與 struvite/infection stone 相關，通常需 PCNL 等介入清除。
@@ -912,6 +924,8 @@ Diseases and syndromes.
 - [[conditions/transient-tachypnea-of-newborn|Transient tachypnea of the newborn, TTN (新生兒暫時性呼吸急促)]] - 出生後肺液清除延遲造成短暫呼吸急促，常見於剖腹產或早產晚期。
 - [[conditions/transplant-rejection|Transplant rejection (移植排斥反應)]] - 受者免疫系統攻擊移植物，可分超急性、急性與慢性排斥。
 - [[conditions/transposition-of-great-arteries|Transposition of the great arteries, TGA (大動脈轉位)]] - 主動脈與肺動脈連接錯位形成平行循環，需靠 ASD/VSD/PDA 混合血流維持生命。
+- [[conditions/traumatic-brain-injury|Traumatic brain injury, TBI (創傷性腦損傷)]] - 外力造成腦功能或結構損傷，嚴重度依 GCS、影像、意識與神經缺損評估。
+- [[conditions/trendelenburg-gait|Trendelenburg gait (Trendelenburg 步態)]] - 髖外展肌無力造成單腳站立時對側骨盆下垂，常見於 gluteus medius weakness、hip disease 或 superior gluteal nerve injury。
 - [[conditions/tricuspid-atresia|Tricuspid atresia (三尖瓣閉鎖)]] - 三尖瓣缺如使全身靜脈血需經 ASD/PFO 分流至左心，常走向單心室循環。
 - [[conditions/trigeminal-neuralgia|Trigeminal neuralgia (三叉神經痛)]] - 三叉神經分布短暫劇烈電擊樣疼痛，常由血管壓迫或 demyelination 相關。
 - [[conditions/trigger-finger|Trigger finger (板機指)]] - 屈指肌腱於 A1 pulley 狹窄卡住，造成手指彈響、卡鎖或伸直困難。
@@ -970,6 +984,7 @@ Diseases and syndromes.
 - [[conditions/wernicke-korsakoff-syndrome|Wernicke-Korsakoff syndrome (韋尼克-科薩科夫症候群)]] - thiamine deficiency 相關腦病變與持續失憶，常見於 alcohol use disorder。
 - [[conditions/wilms-tumor|Wilms tumor (威爾姆氏腫瘤)]] - 兒童腎臟惡性腫瘤，常以無痛腹部腫塊或血尿/高血壓表現。
 - [[conditions/wilson-disease|Wilson disease (威爾森氏病)]] - 銅代謝異常造成肝病、神經精神症狀與 Kayser-Fleischer rings。
+- [[conditions/winged-scapula|Winged scapula (翼狀肩胛)]] - 肩胛穩定肌無力或神經損傷造成肩胛骨突出，常與 long thoracic nerve、spinal accessory nerve 或 muscular dystrophy 相關。
 - [[conditions/wiskott-aldrich-syndrome|Wiskott-Aldrich syndrome (Wiskott-Aldrich 症候群)]] - X-linked 疾病，典型為 eczema、thrombocytopenia 與 recurrent infections。
 - [[conditions/wolff-parkinson-white-syndrome|Wolff-Parkinson-White syndrome (WPW 症候群)]] - 副傳導路造成 pre-excitation，合併 AF 時治療需特別注意。
 - [[conditions/wound-dehiscence|Wound dehiscence (傷口裂開)]] - 手術傷口筋膜或皮膚分離，與感染、營養不良、腹壓、縫合張力與共病相關。

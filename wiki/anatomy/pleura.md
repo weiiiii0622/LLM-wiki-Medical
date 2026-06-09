@@ -51,6 +51,7 @@ sources:
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Pleura (肋膜)'
   - 'Pleura'
@@ -65,7 +66,7 @@ tags:
 
 ## Summary
 
-肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔疾病包含積液、氣胸與膿胸。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +117,11 @@ tags:
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...0 | IIIB | | | IIIC | 大徑> 2 cm | 肉眼下 (macroscopic) 骨盆腔外的腹膜轉移,最大徑> 2 cm(包括肝臟和脾臟的外囊轉移,但無實質轉移) | | | IIIC | | IV | IVA | 惡性肋膜積水 | | | Any TNM1a | IVA | | (腹膜以外的 遠端轉移) | IVB | | | 「腹股溝和腹腔以外的、肚臍轉移和肝脾臟 | Any TNM1b | IVB | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...瘤 ・ 分泌雌激素,20~25% 會伴隨子宮內膜增生或子宮內膜癌 繊維瘤 (Fibroma) ・ 最常見之良性卵巢性素間質腫瘤 ・ 不會分泌雌激素 ・ Meigs' syndrome 係指 ovarian fibroma 伴隨腹水產生 ± 肋膜積水 | 過多雌激素會造成以下組織增生 (1) 子宮內膜→不正常子宮出血 (2) 子宮肌層→子宮變大 (3) 乳房→脹痛 ・不同年齡都可發現,造成: (1) 小孩:性早熟 (2) 育齡:不規則月經 (3) 停經:不正常子宮出血 | | Androgen | Sertoli-leydig cell tumor Hilar cell | ・女性特徴消失 defeminization:月經變少、甚至停止、乳房和性器官萎縮等。・男性化mascu Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - 【詳解】Meigs' syndrome 係指 ovarian fibroma 伴隨腹水產生生 肋膜積水。故肋膜積水非診斷 Meigs' syndrome 必要條件;此外, 若卵巢腫瘤非 fibroma,而是其他腫瘤,如 myoma、teratoma 等, 則稱為 Pseudo-Meigs' syndrome。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -136,7 +139,6 @@ tags:
 - ...| | T1c:大小> 2 公分,但≦ 3 公分。 | | T2:大小>3公分,但≤7公分。 | T2:大小>3公分,但≦5公分。 | | 或侵犯到主支氣管分支處 2 公分以外。 | 或侵犯到主支氣管,除分支處以外。(不分距 | | 或臟層肋膜。 或肺塌陷到肺門但非全肺阻塞 | 離分支處多近)。 | | 性肺炎。 | 或臟層肋膜。 | | T2a:大小>3公分,但≤5公分。 | 或肺塌陷到肺門,包含部分或全肺阻塞性肺炎。 | | T2b:大小> 5公分,但≦7公分。 | T2a:大小> 3 公分 ,但≦ 4 公分。 | | | T2b:大小&gt;4公分,但≦5公分。 | | T3:大小>7公分。 | T3:大小>5公分,但≦7公分。 | | 或侵犯到主支氣管分支處2公分以內 Source: [[sources/med5-book4-ch03|丙、肺]].
 - M1a: 肋膜或心包膜積水、肋膜腫瘤、對側腫瘤。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 右邊的肺部可能會出現 basilar atelectasis 或 pleural effusion Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- $2 \, \, \mathcal{H}$ : one or more of pleural effusion, ascites, vascular complications, parenchymal complications and or gastrointestinal involvement Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 
 ## Clinical Caveats
 

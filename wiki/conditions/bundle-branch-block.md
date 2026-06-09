@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch08]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med3-book1-ch07]]"
   - "[[sources/med3-book1-ch16]]"
   - "[[sources/med4-book1-ch01]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Bundle branch block (束枝傳導阻滯)'
   - 'Bundle branch block'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-心室傳導延遲會影響 ECG 判讀與 CRT 評估。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心室傳導延遲會影響 ECG 判讀與 CRT 評估。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med3-book1-ch07]]
 - [[sources/med3-book1-ch16]]
 - [[sources/med4-book1-ch01]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- Development of bundle branch block or intraventricular conduction delay that cannot be distinguished from VT Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (2) 心電圖:通常會表現 **RBBB**,可能出現高且寬的 P 波、prolonged PR interval。 此外,約 **20%** 的病人有 **Wolff-Parkinson-White syndrome**。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 【詳解】7天大新生兒考慮發紺性先天性心臟病,(A)可以先刪除。(B)、(C)、(D) 均可在胸部 X 光出現心臟擴大、心電圖顯示心軸右偏甚至右心房擴大,但是病人在聽診出現分裂的第一心音與第二心音,暗示可能三尖瓣關閉與肺動脈瓣關閉較遲緩(severe TR+RBBB),故 Ebstein anomaly 機會最大。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (3) 心電圖:較大缺損病人發現右心增大,臨床上有些病人會有 incomplete RBBB。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].

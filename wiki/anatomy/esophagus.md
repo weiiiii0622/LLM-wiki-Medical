@@ -51,6 +51,9 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Esophagus (食道)'
   - 'Esophagus'
@@ -65,7 +68,7 @@ tags:
 
 ## Summary
 
-食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -116,9 +119,17 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book3-ch01]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- ...propulsive phase,包含舌頭和上顎進行密合將食物往後推進至咽喉】)。 - (2) 咽期(Pharyngeal phase):食物經過前咽門弓(anterior facial arch)引發吞嚥反射,將食物更往後推,進入咽喉而到食道。吞嚥反射動作包括喉部上提,環咽肌放鬆,軟顎上提以關閉往鼻咽的通道,會厭軟骨閉合避免食物跑入氣管,將食物經過氣管的上方而進入食道。 - (3) 食道期(Esophageal phase):食道上括約肌可產生 45 mmHg 的壓力,而在胸膛內的食道壓力為 -6 mmHg,加上 Cricopharyngeal muscle 的收縮、食道的 peristalsis 以及下食道括約肌放鬆,使得食物可以很順利的經由食道滑到胃中。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- (3) 螢光錄影吞嚥檢查(videofluoroscopic swallow study, VFSS): 利用食物混合鋇劑, 讓病人吞嚥,再用 X 光追蹤看看食物在吞嚥時的動作是否順利,以了解口腔期、 咽喉期及食道期中食物移動的協調有無異常的情況。 - a. 目前最有臨床價值的動態檢查技術。 - b. 對治療策略的擬定有很大的幫助。 - c. 此檢查的最大優點是進行中可因患者的情形進行調整,如姿勢擺位(頭部轉動或下巴貼前胸等)、食物的給予方式(奶瓶、針管、湯匙、茶杯等)及食物質地(黏稠度)的選擇等,以模擬正常進食時的情形,並同時評估其進食的安全性和以上不同介入方式是否有效。 - d. Indirect image • Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- (4) 另外超音波可評估喉部活動,EMG(肌電圖)和 Manometry(食道壓力檢查) 都是評估吞嚥功能檢查之一。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- b. 胃食道逆流: 因食道下括約肌無力所引起,亦會導致嘔吐和吸入性肺炎。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 黃體素使得下食道括約肌張力降低,會導致胃食道逆流;加上懷孕時腹內 壓上升,吸入性肺炎的風險增加,尤其在生產腹部用力時或全身麻醉時 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ※年輕女性可用 Z-score 來評估,若 Z-score 分鐘的直立坐姿,以減少腸胃副作用(胃食道逆流與食道潰瘍)。●相對禁忌症為食道的硬皮症、遲緩不能 (achalasia) 或窄縮。●不應使用在 Barrett's esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 1. 機轉 & 成因:為化膿性肋膜腔感染,是肋膜渗出液(exudate)最常見的形式。可 經胸壁創傷或手術傷口直接污染肋膜腔,或經血液(菌血症或敗血症)、肺部感染、 肺膿瘍破裂、感染性肺開洞破裂或縱隔感染(食道穿孔)等造成肋膜腔感染。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -132,11 +143,6 @@ tags:
 - 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - g. 食道穿孔 (Evidence of esophageal perforation) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 1. 根據 Modified Johnson classification,針對位置與其潰瘍產生的機轉作分類。 - (1) 第一型:潰瘍位於胃小彎處,與胃酸分泌量無關。 - (2) 第二型:出現兩個潰瘍,一個位於 胃部,另一個位於十二指腸。與較 高的胃酸分泌量相關。 - (3) 第三型:位於幽門前方的潰瘍,可 能會出現多個潰瘍。與較高胃酸分 泌量相關。 - (4) 第四型:潰瘍靠近胃與食道交界處。 通常與胃酸的分泌量無關,可能與 黏膜防衛機制缺陷相關。 - (5) 第五型:潰瘍可能位於任何位置, 與服用藥物如 NSAID 或 aspirin 相關。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (B) 2. 對於胃食道逆流疾病(gastroesophageal reflux disease)的外科手 術適應症,何者錯誤? 106 (二)專 醫五-20 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (D) 典型的位置位於胃小彎(lesser curvature) 靠近食道與胃交 界處 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (3) Partial gastrectomy: 可以分成切遠端(distal) 與切近端(proximal),但近端切除併胃腸吻 合較易發生切除範圍不乾淨或食道逆流等後 遺症,一般較少採用。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- a. 在 Treitz's ligament 後約二十公分處,選擇一處兩端血液供應皆充足的地方, 將空腸截成兩段,遠端空腸與食道或胃相接,並將近端空腸與十二指腸相接。 主要可讓消化液分流,減少膽汁逆流的發生。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 【 詳解 】(A)(B)(C) 位於 cardia 的 gastric cancer 可 視 為 lower esophageal cancer, 目 前 可 以 做 proximal gastrectomy 和 total gastrectomy。proximal gastrectomy 容易造成食道逆流、dumping syndrome 或 anastomosis stricture等 complication,也會有較高的 mortality rate,一般以 total gastrectomy 為首選。(D) Distal gastric cancer 的預後較好。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 
 ## Clinical Caveats
 

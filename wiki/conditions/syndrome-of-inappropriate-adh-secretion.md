@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch02]]"
   - "[[sources/med3-book4-ch21]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch13]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'SIADH (抗利尿激素不適當分泌症候群)'
   - 'SIADH'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-euvolemic hypotonic hyponatremia 的重要原因，需排除甲狀腺與腎上腺功能不足。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+euvolemic hypotonic hyponatremia 的重要原因，需排除甲狀腺與腎上腺功能不足。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ euvolemic hypotonic hyponatremia 的重要原因，需排除甲狀腺與腎上�
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch13]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (8) SIADH · Diabetes Insipidus · Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - ...依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SIADH、腎上腺皮質素不足、甲狀腺功能低下,治療以限水為主,有症狀可考慮高張氯化鈉(3% NaCl)治療,不過需注意低血鈉的矯正速度,勿超過 10~12 mEq/L/day,太快會造成 central pontine demyelination。 - d. Hypovolemia: 鈉跟隨著體液一起流失,例如腎(過度使用利尿劑、mineralocorticoid deficiency)、腸胃(腹瀉)、跑到 third space (pancre Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - ...專 天病人的血清鈉離子濃度為 126 mEq/L, 鉀離子濃度為 4.7 mEq/L, 醫五 -32 氯離子濃度為 85 mEq/L,病人的數據反映出病況為: (A) 鬱血性心臟衰竭 (B) 鼻胃管大量引流 (C) 抗利尿荷爾蒙分泌不適當(SIADH) (D) 尿中鈉離子流失 【詳解】病患血鈉和氯離子偏低,病患年紀大月剛接受完手術, SIADH 的可能性最高。(A) 可能會看到病患有水腫情形。(B)NG 引流會造成氯離子流失,代謝性鹼血症,但不會低鈉。(D) 血中 氯離子不會降低。 (C) 4. 承上題,對於本病人的情況,應如何處置? 99(一)專 (A) 給予含鈉離子的大量輸液 醫五-33 (B) 給予強心劑 (C) 降低或限制輸液的給予 (D) 限制鈉離子給予 【詳解】SIAD Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 2. 低血鈉 (hyponatremia): - (1) SAH 後 ANP(心房排鈉素)和 BNP的分泌造成 hyponatremia 和 hypovolemia (cerebral salt wasting, CSW),需和 SIADH (euvolemia or hypervolemia)作鑑別診斷,因兩者處理方式不同,CSW 是補水而 SIADH 是限水。 - (2) Hypovolemia 會增加血易黏稠度 (blood viscosity),加重 vasospasm 的嚴重度。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].

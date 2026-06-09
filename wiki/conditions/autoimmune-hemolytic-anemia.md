@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book4-ch10]]"
   - "[[sources/med3-book4-ch01]]"
@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book2-ch30]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Autoimmune hemolytic anemia, AIHA (自體免疫溶血性貧血)'
   - 'Autoimmune hemolytic anemia, AIHA'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med5-book1-ch10]]
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book2-ch30]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- ..., Ex. 腳踏車 or 跑步機。 - (a) 須包含熱身、有氧運動、阻力訓練和收身操,且運動類型以大塊肌群的 運動為主。 - b. Frequency:每週幾次,至少每週三至五次以上。 - c. Duration:每次做多久,一般會包含 warm up 5~10 分鐘、exercise 20~60 分鐘、cool down 5~10 分鐘,時間長度會因人和因病而異。 - d. Intensity:訓練強度,Ex. 運動到最大心跳的60~80%。 - (a) 可用心率 (HR)、攝氧量 $(VO_2)$ 、自覺勞力係數 (RPE) 等來定義訓練強度。 - (b) 訓練的強度越高,心率越高,所以會用目標心率(target heart rate, THR) 來確定一節訓練的強度,目前 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 6. Bone、tendon、skin 可以有約 8~12 小時 warm ischemia time 和 24 小時 cold ischemia time; 肌肉則只有 6 小時 warm ischemia time 和 12 小時 cold ischemia time。大抵上,斷指可以承受 8~12 小時 warm ischemia time 和 12~24 小時 cold ischemia time; 而更大塊的斷肢則只有 4~6 小時 warm ischemia time 和 10~12 小時 cold ischemia time (因為肌肉佔的比例增加)。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (CD)15. 急診來一名左姆指掌指骨關節 metacarpophalangeal joint 完全截肢 105(一)專 傷,該斷指可承受的 warm ischemia time 為: 醫五-54 (A) 2 小時 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - 4. Prolonged warm ischemia time Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].

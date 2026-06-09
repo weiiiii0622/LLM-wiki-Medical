@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch19]]"
   - "[[sources/med5-book1-ch18]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch15]]"
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Hydrocephalus (水腦症)'
   - 'Hydrocephalus'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-CSF 生成、循環或吸收異常造成腦室擴大與顱內壓或步態/認知/尿失禁症狀。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CSF 生成、循環或吸收異常造成腦室擴大與顱內壓或步態/認知/尿失禁症狀。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ CSF 生成、循環或吸收異常造成腦室擴大與顱內壓或步態/認知
 - [[sources/med5-book1-ch15]]
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (1) 創傷後水腦症(posttraumatic hydrocephalus):約有四到七成的患者腦室會擴大,腦壓通常不會跟著升高(normal pressure type)。常見症狀有頭痛、噁心嘔吐、意識改變。電腦斷層上可見腦室周圍較亮(periventricular lucency)、腦溝消失及腦室不規則擴張。治療上主要是腦室引流手術。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 1. 阻塞性水腦症(obstructive): 腦室系統受阻塞影響到 CSF 的流通。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 2. 交通性水腦症(communicating):蜘蛛網膜顆粒(arachnoid granulation)受到影響 導致 CSF 的回收受阻。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - ## E. 正常壓力水腦症(Normal pressure hydrocephalus, NPH) Source: [[sources/med5-book1-ch19|癸、水腦症]].

@@ -38,6 +38,7 @@ sources:
   - "[[sources/med5-book4-ch09]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Aortic stenosis (主動脈瓣狹窄)'
   - 'Aortic stenosis'
@@ -52,7 +53,7 @@ tags:
 
 ## Summary
 
-固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+固定左心室出口阻塞，可有心絞痛、暈厥與心衰竭。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +91,12 @@ tags:
 - [[sources/med5-book4-ch09]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- · Symptomatic severe aortic stenosis Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- · Moderate to severe aortic stenosis Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (C) 1. 有關孕婦併有主動脈狹窄(aortic stenosis)的敘述,下列何者錯誤? Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...egory | | | TX | Tumor cannot be assessed | | T0 | No evidence of primary tumor | | Tis | High-grade dysplasia, defined as malignant cells confined by the basement membrane | | T 1 | Tumor invades the lamina propria, muscularis mucosae, or submucosa | | T1a* | Tumor invades the lamina propria or muscularis mucosae | | T1b* | Tumor invades t Source: [[sources/med5-book4-ch05|戊、食 道]].
 - \*, subcategories; †, if further testing of "undifferentiated" cancers reveals a glandular component, categorize as adenocarcinoma G3; ‡, if further testing of "undifferentiated" cancers reveals a squamous cell component, of if after further testing they remain undifferentiated, categorize as squamous cell carcinoma G3; \*\*\*, locat Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -109,8 +113,6 @@ tags:
 - stage II - partial-thickness loss of dermis, appearing as open ulcer with red-pink wound bed without slough or bruising Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - 8. Any patient with burns and concomitant trauma (such as fractures) in which the burn injury poses the greatest risk of morbidity or mortality. In such cases, if the trauma poses the greater immediate risk, the patient may be initially stabilized in a trauma center before bei Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 - (3) Spondylitis: -itis 也是發炎。但是通常講 Spondylitis 意思是病理性的脊椎發炎,像是 AS、Pott's disease。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...(Ceruloplasmin)減少 ( 要考慮的其他診斷 | |-------------------------------------------------|---------------------------| | Falls as the first symptom 以跌倒為第一個症狀 | PSP | | Exposure to neuroleptics 有服用抗精神病藥物 | Drug-induced parkinsonism | | Associated liver disease 有肝功能上升 | Wilson's disease | | Dementia as first symptom 以失智症為第一個表現 | Dementia with Lewy b Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...分裂症之敘述,何者正確? (A) Bleuler 與 Kraepelin 意見一致,認為精神分裂症患者之功能一定會持續惡化 (B) Kraepelin 為第一個取名精神分裂症(schizophrenia)之學者 (C) Bleuler 4 As 內 含 聯 想 障 礙(associational disturbances of thought) (D) Kraepelin 所謂的三種嚴重精神疾病不包括妄想症(paranoia)【詳解】(A) 只有 Kraepelin 認為思覺失調症患者功能會持續惡化,Bleuler 認為不會 (B) Kraepelin 將思覺失調症命名為 dementia precox;Bleuler 為取名 schizophrenia 的學者 (C) 4A Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 
 ## Clinical Caveats
 

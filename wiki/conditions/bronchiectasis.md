@@ -20,6 +20,7 @@ sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Bronchiectasis (支氣管擴張症)'
   - 'Bronchiectasis'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - J. 支氣管擴張症 (Bronchiectasis) 49 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ### J. 支氣管擴張症 (Bronchiectasis) Source: [[sources/med5-book4-ch03|丙、肺]].
 - ...monary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquired causes: 感染和發炎。 - a. 支氣管堵塞: 氣管外壓迫(腫瘤、淋巴結腫大)、吸入異物或刺激物質、膿痰。 - b. 感染:壞死性細菌肺炎、百日咳肺炎、麻疹肺炎、流感肺炎、水痘肺炎。吸入性有毒氣體。 Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -74,7 +77,6 @@ tags:
 - H. 支氣管擴張 (Bronchiectasis) 282 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - (7) 結構性肺疾病(支氣管擴張症): Pseudomonas aeruginosa。 Source: [[sources/med3-book1-ch21|戊、感 染]].
 - (B) 18. 一位 70 歲男性病患,抽菸 45 年,被診斷為 COPD 已經超過 10 年,平常用吸入型長效性支氣管擴張劑 (long-acting bronchodilator)治療。這次因為發燒、咳嗽加劇有黃痰、呼吸困難加劇住院治療。胸部 X 光片無新增變化,病人痰液抹片呈現 Gram(+) small diplococci,下列敘述何者錯誤? Source: [[sources/med3-book1-ch21|戊、感 染]].
-- ...----------------------| | (D) | 2. 60 歲男性,主述長期咳痰,呼吸不暢,最近有關節痠痛症狀。身體檢查時看到杵狀指(clubbing fingers)。下列那些疾病應優先列入鑑別診斷?①肺癌 ②急性肺炎 ③支氣管擴張症 ④先天性心臟病 ⑤肝硬化 ⑥克隆氏症(Crohn's disease)(A) ①②③④⑤⑥(B) 僅③④⑤⑥(C) 僅②④⑤⑥ | 105(一)專醫三-49 | | (C) | 3. 下列關於胸腺惡性腫瘤(malignant thymoma)的敘述,何者錯誤? (A) 最常見於前縱膈腔,好發於中年者,男女約各半 (B) 約有 1/3 合併重症肌無力 (C) 有心包膜(pericardium)或肋膜(pleura)侵犯時,治療以手術切 Source: [[sources/med3-book1-ch18|寅、其 他]].
 
 ## Clinical Caveats
 
@@ -83,6 +85,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/airway-clearance-techniques|Airway clearance techniques (痰液清除技巧)]]
 - [[conditions/cystic-fibrosis|Cystic fibrosis (囊性纖維化)]]
 
 ## Follow-up

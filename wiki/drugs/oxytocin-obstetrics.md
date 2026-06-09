@@ -8,6 +8,7 @@ sources:
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Oxytocin in obstetrics (產科 oxytocin)'
   - 'Oxytocin in obstetrics'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-用於 induction/augmentation of labor 與產後子宮收縮；需監測 uterine tachysystole 與 fetal heart tracing。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於 induction/augmentation of labor 與產後子宮收縮；需監測 uterine tachysystole 與 fetal heart tracing。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- 2. 新生兒臂神經叢傷害的危險因子有: - (1) 肩難產。 - (2) 胎兒過大 (macrosomia): 出生時體重 > 4,000 g 或 4,500 g, 兩種不同定義。 - (3) 妊娠糖尿病。 - (4) 胎位不正。 - (5) 母親過胖。 - (6) 第二產程延遲。 - (7) 初產婦(primiparous mother)。 - (8) 創傷性產鉗分娩(traumatic delivery with mid to high forceps)。 - (9) 另有研究指出使用催產素、宮縮過快,也是危險因子。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 5. 加壓性試驗(contraction stress test, CST): 因禁忌症太多,目前很少做。 - (1) 操作方法:孕婦平躺裝上胎兒監視器,紀錄 10~15 分鐘的心律,再以乳頭刺激 (nipple stimulation test) 或靜脈催產素刺激 (Oxytocin challenge test, OCT) 使 其每 10 分鐘有 3 次宮縮,且持續 40 秒以上。 - (2) 禁忌症:早期宮縮、早期破水、曾經剖腹產或子宮手術、胎盤前置、子宮頸閉鎖不全和多胞胎等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (C) 12. 一位 25 歲孕婦,G5P0AA4,妊娠 41 週,接受 OCT (oxytocin challenge test 催產素挑釁試驗),結果如下圖,此檢查屬於下列何者? Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】加壓性試驗(contraction stress test, CST)是讓孕婦平躺裝上胎兒監視器,紀錄 10~15 分鐘的心律,再以乳頭刺激或 IV oxytocin 使其每 10 分鐘有 3 次宮縮,且持續 40 秒以上,之後判讀結果。以 IV oxytocin 刺激宮縮稱催產素挑釁試驗(Oxytocin challenge test, OCT);以乳頭刺激則稱乳頭刺激試驗(nipple stimulation test)。故 OCT 為 CST 的一種。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].

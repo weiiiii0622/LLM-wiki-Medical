@@ -26,6 +26,7 @@ sources:
   - "[[sources/med6-book2-ch13]]"
   - "[[sources/med6-book2-ch14]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Light criteria (Light 標準)'
   - 'Light criteria'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分肋膜積液為漏出液或滲出液。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,13 @@ tags:
 - [[sources/med6-book2-ch13]]
 - [[sources/med6-book2-ch14]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (4) Sensory level of injury:針對身體左右各 28 條皮節進行針刺(pin prick)及輕觸(light touch)檢查,針刺和輕觸覺的評分是和臉部感覺(臉部感覺是 CNS)作比較,左右兩側同時具有正常感覺機能之最低脊髓節段為「Sensory level of injury」。 - a. Pin prick:利用安全別針(safe pin)的尖端和鈍端來檢查。 - (a) 0 分 (absent): 皮膚無法分辨針的尖端還是鈍端、或對刺激沒有感覺。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- b. Light touch:利用棉花或將棉棒的末端拉成絲狀來進行測試。 - (a) 0分 (absent): 沒感覺。 - (b) 1分(impaired):感覺沒有臉部明顯。 - (c) 2分 (normal): 感覺和臉部一樣。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- ...ASIA impainment scale 的分類三步驟: - a. STEP 1:分類時先分是不是 complete 即 ASIA A =沒有 sacral sparing =「沒有自主肛門收縮」+「S4-5 的 pin prick 和 light touch 都 = 0」+「沒有肛門 深處的感覺」。 - b. STEP 2:若不是 ASIA A,接著看是不是"motor" incomplete,看是否有 (a) 自主肛門收縮或 (b) 兩側的 motor level 各自的下三節以下是否有運動功能,(a)(b) 都沒有的話就是 ASIA B。 - c. STEP 3:若不是 B 則再分 C 和 D,看 neurological level 以下是否有大於等於 一半的 key m Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - ...Back- ground DM | | — 火焰狀出血 (flamed-shaped hemorrhage):位 | | | Retinopathy) | | 於表淺血管,延神經纖維層分布 | | | | | (3) 硬性滲出物(hard exudate):即 lipid leakage | | | | | (4) 黃斑部水腫 | | | | | (5)視網膜內小血管異常 (IRMA) | | | | | (6) 血管變化:小動脈狹窄閉塞、小靜脈擴張或成 | | | | | 串珠狀 (venous beading) 及圈狀 (looping) 變化 | | | | | (7) 棉絮狀斑點 (cotton-wool spots): 因微血管 | | | | | 前小動脈阻塞導致局部視網膜 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - (1) 視網膜電圖(electroretinography, ERG): 紀錄光刺激時,視網膜由光接收器至神經節細胞產生的動作電位(action potential)。ERG 在光適應(light-adapted、photopic)及暗適應(dark-adapted、scotopic)狀態下引發。分為向下轉折的a-wave 和向上的 b-wave,正常的 ERG 是雙相的,但在一些遺傳性眼底病變中,b-wave 可能是平坦的。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...ithout inflammation),國考這裡沒考那麼細。 - b. 症狀有劇烈疼痛,半夜痛醒,且疼痛放射到眼周。怕光、流淚及睫狀體部壓 痛等。 - c. 關鍵表徵:因鞏膜及上鞏膜的深層血管叢擴張呈深紫色,用無紅光 (red-free light)或裂隙燈彌漫性光照法 (diffuse illumination) 可清晰呈現血管變化。 - d. 發炎的鞏膜呈侷限性或瀰漫性紫紅色充血隆起。嚴重的鞏膜炎,可見黃色膠 樣半透明的浸潤性結節,融合形成環狀鞏膜炎,它可蔓延至角膜形成硬化性 角膜炎。 - e. 症狀消退後,病變區鞏膜由瘢痕組織取代,鞏膜變薄,使葡萄膜顏色顯露而 呈藍色,在眼內壓的作用下,病變部位鞏膜可擴張膨出,形成鞏膜葡萄腫 (Staphyloma)。 - f. Necro Source: [[sources/med6-book2-ch06|己、鞏 膜]].
@@ -84,7 +89,6 @@ tags:
 - | Transudates | | Exudates | | |--------------------|-------------------|------------------------------|---------------------------------------| | ● Congestive heart | Malignant | Collagen-Vascular | Others | | failure | ● Bronchoge Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - a. 大多為漏出液(transudate),但有時慢性肋膜積水可能變成 exudates。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...昏迷。 - (3) 下列腦幹反射皆完全消失(第六條):其中一個正常就不算腦死。 - a. 頭眼反射 (Doll's eye sign):正常情況下,將病人頭部轉動,眼球會轉向相反 方向,例如頭往右轉,眼球會向左轉。 - b. 瞳孔對光反射(Light reflex)。 - c. 眼角膜反射 (Corneal reflex) = blink reflex,用棉花棒碰角膜會引發閉眼。 - d. 前庭-動眼反射(Oculo-vestibular reflex):Caloric test,將頭抬高 30 度並用約 50 cc 冷水(30℃)或冰水灌入其中一邊外耳道內,則兩眼會共軛地轉向對側,若用溫水(44℃)灌入兩眼會轉向同側,此表示腦幹功能正常。當腦幹尤其前庭核區有病灶時,則此反射會消失 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
-- (C) 5. 一位 60 歲女性,於一週前發生複視(diplopia),並無劇烈頭痛,神經學檢查發現:右邊上眼瞼下垂(ptosis),直視前方時,右眼向外傾斜,瞳孔對光反射(light reflex)為正常,腦脊髓液檢查及腦血管攝影檢查,結果都是正常。依上述過程判斷,何種診斷的可能性最大? - (A) 後交通動脈血管瘤破裂 (aneurysmal rupture of posterior communicating artery ) - (B) 腦經天幕脫出(transtentorial herniation) - (C) 缺血性第三對顱神經病變 (third cranial nerve palsy of ische Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 
 ## Clinical Caveats
 

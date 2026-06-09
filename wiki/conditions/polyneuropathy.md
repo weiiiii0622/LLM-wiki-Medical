@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch07]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book4-ch03]]"
   - "[[sources/med4-book4-ch04]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Polyneuropathy (多發性神經病變)'
   - 'Polyneuropathy'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-多條周邊神經受累，常呈 distal symmetric sensory-motor pattern。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多條周邊神經受累，常呈 distal symmetric sensory-motor pattern。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book4-ch03]]
 - [[sources/med4-book4-ch04]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- (3) F 反應大多用在偵測多發性周邊神經病變(polyneuropathy)和神經叢病變(plexopathy),對神經根病變的敏感度不佳。最常使用在 Guillain-Barre 症候群的早期診斷。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - ...s pyogenes 感染後 | | | 發生。 | | | (D) 17. 下列關於威爾遜氏病(Wilson disease)治療的敘述,何者正確? | 103(二)專 | | (A) D-penicillamine 最常見副作用是會產生多發性神經病變 | 醫四 -54 | | (polyneuropathy) | | | (B) 在整個療程中,飲食可以不必忌諱高含銅食物 | | | (C) 所有的病人都會在開始治療後惡化 | | | (D) 若因 D-penicillamine 副作用而無法服用的患者可改用 trientine | | | 【詳解】(A) 副作用為 bone marrow suppression,還有要注意肝 | | | 毒性。 | | | | | | (D) 18 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - (2) 髓鞘(myelin)合成的問題也會出現在周邊神經,導致 polyneuropathy,而像糖 尿病病患相似,在肢體四肢末端有麻木感(stocking-gloves sensory loss)。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - IV. 糖尿病神經疾病 (DM Neuropathy) 169 - A. 對稱性糖尿病神經病變:多發性神經病變 (Polyneuropathy) 169 - B. 非對稱性糖尿病神經病變:顱神經麻痺(Cranial nerve palsy) 169 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].

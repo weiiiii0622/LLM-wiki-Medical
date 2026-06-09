@@ -58,6 +58,7 @@ sources:
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book2-ch15]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Smoking cessation (戒菸)'
   - 'Smoking cessation'
@@ -72,7 +73,7 @@ tags:
 
 ## Summary
 
-心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -130,9 +131,11 @@ tags:
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book2-ch15]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (5) 幫助戒菸和戒除藥物成癮的成功率。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (7) 甲狀腺眼症的預後:甲狀腺眼症真正原因不明,且屬慢性病,必須長期追蹤檢查,目前的治療方法也屬於治標不治本。不過值得注意的是,抽菸會惡化Graves'disease,故需勸導病患戒菸。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 3. 老年性黃斑部病變(Age-related macular degeneration, AMD): - (1) 定義:由老化引起視網膜色素上皮細胞、Bruch's membrane、脈絡膜微血管層的漸進性退化性變化。 - (2) 流行病學:在已開發國家為大於50歲人最常見造成不可逆視力喪失之原因。 - (3) 危險因子:年紀大、抽菸、家族史、白人、肥胖等。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 2. 危險因子: 糖尿病的持續期間 (duration),最重要!、不佳的血糖控制 (HbA1c > 7%)、懷孕、高血壓、腎病變、抽菸、肥胖、高血脂等。 Source: [[sources/med6-book2-ch12|子、視網膜]].

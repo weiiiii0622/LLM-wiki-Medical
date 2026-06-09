@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Diabetes insipidus (尿崩症)'
   - 'Diabetes insipidus'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (8) SIADH · Diabetes Insipidus · Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (d) 併發症:手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下 垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 【詳解】泌乳激素瘤 1 公分以上為 macroadenoma,已造成視野缺損,須接受治療。(A) 藥物治療(dopamine agonist,如 cabergoline, bromocriptine)為首選之治療方式,藥物效果良好(約 90%),但仍有 10% 對藥物無反應;(B)(C) 若藥物治療無效,可考慮經蝶竇腦下垂體手術(transsphenoidal pituitary surgery)切除腫瘤,不過,手術切除後可能復發,需接受定期追蹤;(D) 手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ii. 人工合成之抗利尿激素(DDAVP):可治療夜尿。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
@@ -68,7 +71,6 @@ ADH 分泌或腎臟反應不足造成多尿與高血鈉風險。 本頁已整合
 - ...mmol/L,K 3.8 mmol/L。尿液 osmolality 200 mOsmol/kg H2O,限 水 試 驗 2 小 時 之 體 重 47 公 斤, 尿 液 osmolality 290 mOsmol/kg H2O,給予 ADH(DDAVP)後 2 小時內最高的尿液 osmolality 320 mOsmol/kg H2O。下列敘述何者最正確? - (A) 最可能的診斷是原發性多飲症(primary polydipsia) - (B) 治療使用限水 - (C) 治療使用 thiazides - (D) 最可能的診斷是中樞型尿崩症(central diabetes insipidus) Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - 【詳解】最有可能是 nephrogenic DI,治療是 thiazide 跟限鹽。 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...------------------------|------------------| | (C) | 10. 下列那種藥物可用來預防或治療尿毒性出血? (A) heparin (B) aspirin (C) desmopressin (DDAVP) (D) testosterone | 101(二)專醫三-26 | | (C) | 11. 下列何者不是延緩慢性腎病進展的治療方式? (A) 低蛋白飲食 (B) 控制血壓 (C) 非類固醇抗發炎藥物 (D) 血管張力素阻斷劑 (angiotensin receptor blocker) | 101(二)專醫三-27 | | (B) | 12. 關於慢性腎臟病(chronic kidney disease)的敘述,下列何者最不正確? Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- 3. 腦垂體後葉則由下視丘的神經元經腦垂體柄(Pituitary stalk)延伸到腦垂體後葉,由神經末梢分泌荷爾蒙(ADH、Oxytocin)。 Source: [[sources/med3-book2-ch15|甲、腦垂體疾病]].
 
 ## Clinical Caveats
 

@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book2-ch23]]"
   - "[[sources/med5-book6-ch02]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Stress testing (壓力測試)'
   - 'Stress testing'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-用於評估冠狀動脈缺血，依運動能力與基礎 ECG 選擇方式。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用於評估冠狀動脈缺血，依運動能力與基礎 ECG 選擇方式。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,12 @@ tags:
 - [[sources/med5-book2-ch23]]
 - [[sources/med5-book6-ch02]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- # **Contraindication to exercise stress testing**Absolute Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- #### Indication for terminating exercise stress testing Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 4. 非壓力試驗 (non-stress test, NST): 最常用的篩檢方式。 - (1) 操作方法:孕婦平躺裝上胎兒監視器,觀察 20 分鐘之宮縮、胎心率和胎動。 - (2) 結果判讀與處置: Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 5. 加壓性試驗(contraction stress test, CST): 因禁忌症太多,目前很少做。 - (1) 操作方法:孕婦平躺裝上胎兒監視器,紀錄 10~15 分鐘的心律,再以乳頭刺激 (nipple stimulation test) 或靜脈催產素刺激 (Oxytocin challenge test, OCT) 使 其每 10 分鐘有 3 次宮縮,且持續 40 秒以上。 - (2) 禁忌症:早期宮縮、早期破水、曾經剖腹產或子宮手術、胎盤前置、子宮頸閉鎖不全和多胞胎等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...---|----------------------------|-------| | ・羊水量 (Amniotic fluid | 至少一個垂直面向的羊水量≥ 2 cm | 不滿足條件 | | volume) | | | | · Non-stress test (NST) | 20 分鐘 2 次心跳加速,HR 增加 15bpm, | 不滿足條件 | | | 持續 15 秒 | | | · 胎兒張力 (Fetal tone) | 30 分鐘內 1 次以上肢體或脊椎由伸張回到 | 不滿足條件 | | | 屈曲 | | | · 胎動 (Fetal movement) | 30 分鐘內 3 次以上身體或肢體活動 | 不滿足條件 | | ・胎兒呼吸 | 30 分鐘內有 1 次以上呼吸運動,持續 30 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -56,7 +60,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[procedures/cardiac-rehabilitation|Cardiac rehabilitation (心臟復健)]]
 
 ## Follow-up
 

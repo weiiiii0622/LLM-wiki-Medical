@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 sources:
   - "[[sources/med6-book1-ch02]]"
+  - "[[sources/med6-book3-ch03]]"
 aliases:
   - 'Labor mechanism (分娩機轉)'
   - 'Labor mechanism'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-胎兒經產道的 cardinal movements 包含 engagement、descent、flexion、internal rotation、extension、external rotation 與 expulsion。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胎兒經產道的 cardinal movements 包含 engagement、descent、flexion、internal rotation、extension、external rotation 與 expulsion。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med6-book1-ch02]]
+- [[sources/med6-book3-ch03]]
 
 ## Key Details From Sources
 
+- 1. 原則為避免 FAIR: - (1) Flexion:避免 hip flexion,也就是避免膝蓋太靠近胸口(例如彎腰、低位坐姿)。 - (2) Adduction:避免 hip adduction,不要翹腳或是將膝蓋併攏。 - (3) Internal rotation: 避免 hip internal rotation,例如站立時不要將腳掌向內側旋轉, 會帶動 hip 內旋。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
 - (2) 中骨盆腔:坐骨棘間(interspinous)横徑約 10 cm 以上,為骨盆腔最狹窄處, 也是胎頭 engagement 時,可能發生 obstructed labor 的地方。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - 胎頭 engagement →下降 descent (到坐骨棘) Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - →向內旋轉 internal rotation (ex: LOA → OA) Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].

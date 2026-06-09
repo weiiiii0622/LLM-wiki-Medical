@@ -2,12 +2,13 @@
 type: physiology
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med5-book1-ch17]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Corticospinal tract (皮質脊髓徑)'
   - 'Corticospinal tract'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-主要 voluntary motor pathway，病灶造成上運動神經元徵象與定位價值。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主要 voluntary motor pathway，病灶造成上運動神經元徵象與定位價值。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med4-book4-ch07]]
 - [[sources/med5-book1-ch17]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...病灶持續向外擴大,就會影響到其他節由下往上傳的 lateral spinothalamic tract,因而受損部位以下的痛覺溫覺也會出現異常,而薦椎神經纖維位於傳導路徑的最外側,往往不受到影響。 - d. 假使往外影響到 lateral corticospinal tract,造成四肢無力,而由於頸部神經纖維比薦椎神經纖維靠內側,所以上肢會比下肢無力。 - (2) Brown-Sequard syndrome: - a. 為脊髓的左或右半邊受傷,不完全脊髓損傷中預後最佳。 - b. 受傷同側的運動功能和本體感覺、振動覺喪失。 - c. 受傷對側痛、溫覺喪失。 - (3) Anterior cord syndrome: - a. 前脊髓受傷,多因 anterior spinal artery 梗塞、脊椎屈曲 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - ...病灶持續向外擴大,就會影響到其他節由下往上傳的 lateral spinothalamic tract,因而受損部位以下的痛覺溫覺也會出現異常,而薦椎神經纖維位於傳導路徑的最外側,往往不受到影響。 - d. 假使往外影響到 lateral corticospinal tract,造成四肢無力,而由於頸部神經纖維比薦椎神經纖維靠內側,所以上肢神經功能障礙重於下肢,而患者下肢功能之復原比上肢好。 - \* Lateral corticospinal tract 和 lateral spinothalamic tract 在脊髓的垂直傳導路徑中,負責頸部的神經纖維走在最內側,往外依序是胸部、腰部和薦部。面負責本體振動感覺的 fasciculus gracilis 和 fasciculus cuneatus 剛好相反 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...能傷到 recurrent laryngeal nerve | | | | 【詳解】(A) radiculopathy 為 nerve root 損傷, myelo | pathy 為 spinal | | | cord 損傷,後者會影響 corticospinal tract,嚴重者影 | 響四肢肌力, | | | 需手術治療。(C) 脊椎的 posterior column (pedicle | · facet joint · | | | articular process · ligamentum flavum · neural arch and | d interconnect- | | | ing ligaments)不會參與受力,也不會影響穩定度 | ,因此後側椎 | | | 弓切除術病不會造成脊 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - 1. 大腦運動皮質會發出運動訊息,藉由**椎體路徑(pyramidal tract)**即大腦脊髓徑(corticospinal tract)傳給脊髓,再傳到全身運動神經、肌肉;但我們的中樞神經有一個調控運動的區域,稱為基底核,其有與大腦運動皮質溝通的迴路,也可以將訊息往下傳到脊髓,稱為**椎體外路徑(extrapyramidal tract)**。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].

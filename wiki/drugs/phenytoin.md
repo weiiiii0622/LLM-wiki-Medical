@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Phenytoin (苯妥英)'
   - 'Phenytoin'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-Na channel blocker 類 antiseizure medication，可用於 focal seizure、GTCS 與 status epilepticus 後續控制。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Na channel blocker 類 antiseizure medication，可用於 focal seizure、GTCS 與 status epilepticus 後續控制。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ Na channel blocker 類 antiseizure medication，可用於 focal seizure、GTCS �
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book1-ch10]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...rly seizures、 凹陷性顱骨骨折、急性顱內血腫、曾意識喪失或受傷後失憶症超過 24 小時、 硬腦膜撕裂、出現異物、focal sign (Aphasia 或 Hemiplegia)、年紀大於六十五歲。 - d. 創傷後一週內給予 phenytoin 或 valporic acid 能有效降低 early PTS 的機會,不過長期使用抗癲癇藥物對於預防 late PTS 的效用不顯著。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】isotretinoin 在懷孕的風險等級為 X,懷孕時禁用,除增加流產率外,其代謝物會通過胎盤,造成胎兒異常(包括五官、腦部發育異常、低智商、心臟發育異常、胸腺及副甲狀腺異常等)。phenytoin 在懷孕的風險等級為 D,雖然也會造成胎兒異常,但必要時仍可使用。另外,fluconazole 為 C級;metformin 為 B級。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】(D) 頭部創傷後會連續七天給予預防性抗癲癇藥物 (phenytoin or levetiracetam),可有效預防創傷後七天內的癲癇 (early post-traumatic seizures) 發生率,但使用超過七天則對於 late post-traumatic seizures (創傷後超過七天才發生)無顯著效果。因此建議連續給予七天後即可停藥,但不會只使用 24 小時就停藥了。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].

@@ -38,6 +38,7 @@ sources:
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch12]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Urinary tract infection, UTI (泌尿道感染)'
   - 'Urinary tract infection, UTI'
@@ -52,7 +53,7 @@ tags:
 
 ## Summary
 
-泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+泌尿道細菌感染，依位置與複雜度區分 cystitis、pyelonephritis 與 complicated UTI。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +91,12 @@ tags:
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch12]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...complete UMN:78~84%、Complete LMN:0%;女性:約50%可達到性高潮,但受傷高度在S3-5屬LMN的較困難。) - e. 男性脊髓損傷患者,其生育力除了受勃起障礙和射精障礙影響外,也受精液的質變差和量下降、反覆泌尿道感染、睪丸過熱等因素影響。 - f. 女性患者之生育力: Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (b) 女性脊髓損傷患者,其懷孕後以下併發症機率增加: - i. 早產。 - ii. 自主神經反射異常。 - iii. 泌尿道感染。 - iv. 便秘。 - v. 血管栓塞。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - # 丁、泌尿道感染(Urinary Tract Infection) Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - ### 丁、泌尿道感染 (Urinary Tract Infection) Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - 1. 定義:泌尿道感染包含下泌尿道感染-膀胱炎(cystitis)及上泌尿道感染-腎盂腎炎(pyelonephritis)。依病情的複雜度可分為: Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
@@ -109,8 +113,6 @@ tags:
 - (1) 急性腎盂腎炎 (acute pyelonephritis, APN): - a. 病理:定義為腎盂或腎盂發炎,常以臨床表徵診斷。 - b. 好發於:有尿路感染(UTI)家族史、糖尿病、尿路阻塞、泌尿道異常、尿失禁、 性生活活躍之女性。 - c. 菌種: 80% 是大腸桿菌(E.coli)。 - d. 臨床表徵: - (a) 症狀:包括發燒、畏寒、肋脊角敲痛。常伴隨下泌尿道症狀(尿痛、頻尿、 急尿)。25% 人會有全身性敗血症。 - (b) 實驗室檢 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (2) 慢性腎盂腎炎 (chronic pyelonephritis): - a. 病理:是反覆感染導致腎損傷,會產生疤痕、腎萎縮、腎功能不全。需由影像或病理檢查診斷,而不是依據臨床表現下診斷。 - b. 好發於: 反覆 UTI 的兒童。成人少見,因為腎臟已發育完全不易損傷。 - c. 菌種:不一定有存在的感染,而是腎臟已產生損傷。 - d. 臨床表徵: - (a) 症狀:大多無直接症狀。常因其導致的併發症經進一步檢查後發現,如 腎功能不全、高血壓、視覺衰 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- UTI, urinary tract infection; GU, genitourinary. Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- 2. 宿主防禦 (host defenses): - (1) 尿液性質:滲透壓,尿素濃度,有機酸濃度和 pH 值都會影響。 - (2) 尿流動性:正常尿的沖刷可防止細菌逆行性感染。故尿滯留者易 UTI。可能由神經性膀胱、糖尿病、懷孕、BPH、年齡,小孩的膀胱輸尿管逆流(vesicoureteral reflux)引起尿滯留。 - (3) 尿路上皮完整性。 - (4) 特殊處:女性在尿道周圍有乳酸菌(Lactobacillus)可對抗 UTI 細菌;男性前列腺液中的鋅(Zinc)有防止 UTI 的功用。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 
 ## Clinical Caveats
 

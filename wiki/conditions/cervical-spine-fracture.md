@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book1-ch03]]"
+  - "[[sources/med6-book3-ch04]]"
 aliases:
   - 'Cervical spine fracture (頸椎骨折)'
   - 'Cervical spine fracture'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-頸椎骨折可威脅脊髓與椎動脈，需依穩定性與神經狀態處置。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+頸椎骨折可威脅脊髓與椎動脈，需依穩定性與神經狀態處置。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book1-ch03]]
+- [[sources/med6-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...頸圈 (Philadelphiacollar)、邁阿密頸圈(Miami J collar)、Aspen、Newport。(圖請參照第 216 頁) | 提供比軟頸圈多一點的固定效果,主要限制頸椎屈曲、伸張。 | 頸椎扭傷或挫傷頸椎穩定性骨折頸椎骨折經手術固定後使用 | | | | 頸形 | 剪椎裝具 CERVICOTHORACIC ORTHOSIS ( | CTO) | | | | 胸枕下頷骨固定架(sterno-occiput-mandibular immobilization(SOMI) brace)(圖請參照第 217 頁) | 提供中下段頸椎更好的固定性,可限制頸椎屈曲、伸張、側移和轉動 (rotation)。 | 頸椎扭傷或挫傷頸椎穩定性骨折可躺著穿脫適合臥床病人使用。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - E. 頸椎骨折 (Cervical spine fracture) 181 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (2) 藉由牽引將骨折或脫位的脊椎復位,減少對神經及脊髓的壓迫,對於頸椎骨折的病人可以施予顱骨牽引,至於胸、腰椎骨折的傷患,牽引的效果有限。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ## E. 頸椎骨折 (Cervical spine fracture) Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].

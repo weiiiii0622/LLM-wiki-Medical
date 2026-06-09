@@ -31,6 +31,7 @@ sources:
   - "[[sources/med6-book2-ch07]]"
   - "[[sources/med6-book2-ch08]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'TORCH infections (TORCH 先天性感染)'
   - 'TORCH infections'
@@ -45,7 +46,7 @@ tags:
 
 ## Summary
 
-Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +77,11 @@ Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、�
 - [[sources/med6-book2-ch07]]
 - [[sources/med6-book2-ch08]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- b. 其他像是子宮內感染(rubella、CMV、toxoplasmosis和syphilis)、產程中缺氧、腦炎或腦膜炎也會造成聽力障礙。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 單純疱疹性角膜炎 (Herpes simplex keratitis) Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - #### 帶狀疱疹性眼炎(Herpes zoster ophthalmicus) Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - (3) 帶狀疱疹眼炎 (Herpes zoster ophthalmicus, HZO): - a. 簡介: 感染帶狀疱疹病毒後的再復發症狀。初次感染帶狀疱疹病毒時引起的病症是水痘(chicken pox),接著病毒會經由皮膚病灶或是血液,侵犯感覺神經並潛伏寄生在神經節中,數年後可引發不同部位的帶狀疱疹病灶。 - b. 臨床表現:先會有發燒、倦怠、及同側頭痛的現象,當水疱蓄膿結痂之後才 出現侵犯眼睛的症狀。包括眼睛紅、痛、流淚、及視力降低等。帶狀疱疹病 毒眼症對眼睛的傷害 Source: [[sources/med6-book2-ch04|丁、結 膜]].

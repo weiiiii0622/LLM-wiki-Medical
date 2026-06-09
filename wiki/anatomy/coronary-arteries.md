@@ -36,6 +36,7 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book5-ch08]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Coronary arteries (冠狀動脈)'
   - 'Coronary arteries'
@@ -50,7 +51,7 @@ tags:
 
 ## Summary
 
-LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +87,12 @@ LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book5-ch08]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (2) 對象:主要是接受冠狀動脈繞道手術、瓣膜換置手術、先天性心臟病手術與心臟移植術後的患者。另外週邊動脈阻塞、接受冠狀動脈血管整型術後或心臟衰竭患者,也都是心臟復健的對象。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- · Left main coronary artery disease Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...e dysfunction (ED) = impotence 陽痿): - (1) 流行病學:臨床上最常見的男性性功能障礙,40 歲以上有25%人有ED。另外常因其它因素引起:抽菸者40%有ED、糖尿病者60%有ED、高血壓者70%有ED、冠狀動脈疾病80%有ED、周邊血管病變90%有ED。 - (2) 危險因子:年齡、抽煙、喝酒、心血管病史、代謝症候群。 - (3) 臨床表徵: - a. 症狀:ED 定義是沒有辦法達到 / 維持陰莖的勃起硬度以進行一次滿意的性 行為。 - b. 實驗室檢查:空腹血醣值(排除糖尿病及糖尿病性神經病變的可能)、血中 睪固酮濃度、血中泌乳激素(prolactin)濃度。 - c. 特殊檢查: - (a) 夜間陰莖勃起功能監測(nocturnal pe Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (D) 2. 在高速道路上突然減速的撞擊,很可能造成胸部傷害,尤其是外 98(-) 專 傷性主動脈斷裂,此種傷害,在胸部 X 光上最常見的表現是什麼? 醫五-77 - (A) 主動脈節不見 (Obliteration of aortic knob) - (B) 氣管偏向右邊 (Deviation of the trachea to the right) - (C) 左支氣管下移 (Depression of the left main stem bronchus) - (D) 中膈腔寬大 (Widened mediastinum) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
@@ -105,8 +109,6 @@ LAD、LCX、RCA 與心肌區域及 ECG 導程定位相關。 本頁已整合至 
 - (C) 5. 下圖 45 歲男性,急性冠狀動脈阻塞導至心因性休克,緊急做完 107( - ) 專 冠狀動脈繞道手術後,心臟收縮能力不好,因此放上了主動脈 氣球幫浦及葉克膜氧合器,送往加護病房觀察,左腳六個小時後發現有鼓脹的情形,下列敘述何者錯誤? ①肢端的脈搏先確 認 ②有可能血液中肌酸激酶(CK)會提高 ③可以量測腔室的 壓力,若大於 20 mmHg 可能要作筋膜切開手術 ④小腿有五個腔室:anterior、deep posterior、superficial posterior、lateral 和 medial Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (C) 冠狀動脈疾病(coronary artery disease)、高血壓和年齡的增加是發生手術後心臟衰竭的危險因素 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - (D) 16. 一位 60 歲男性,接受冠狀動脈繞道手術。術後第二天,血行動力正常,胸部 X 光正常,肺臟呼吸音清楚無濕囉聲,動脈血氣體分析正常,病人意識清楚,呼吸器當時的設定是 SIMV mode,呼吸器通氣次數每分鐘 4 次,病人自呼 8 次,PEEP: 4 cmH2O,够感度 2 cmH2O,呼吸器壓力支持 10 cmH2O。準備讓病人脫離呼吸器,接上 T 型管讓病人自己呼吸,呼吸次數很快上升到每分鐘 30 次,病人自己覺得會喘,接回呼吸器並用原來呼吸器的設定,病人很快恢復,但 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- (D) 20. 對於冠狀動脈心臟病之精神科非藥物治療模式中,下列何者較欠 缺實證醫學之佐證? 105(一)專 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- (C) 24. 有關敵意(hostility)以及冠狀動脈心臟病的敘述,下列何者 錯誤? Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 
 ## Clinical Caveats
 

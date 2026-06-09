@@ -67,6 +67,7 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Hypersensitivity reactions (過敏反應分類)'
   - 'Hypersensitivity reactions'
@@ -81,7 +82,7 @@ tags:
 
 ## Summary
 
-Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T cell-mediated 反應。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -148,9 +149,13 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch04]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- 2. 造成中風後肩膀疼痛的原因包括肩關節半脫位(subluxation)、肩關節囊炎、複雜性區域疼痛症候群第一型(Complex Regional Pain Syndrome Type I, CRPS Type I 或稱 Reflex SympatheticDystrophy, RSD)、旋轉肌肌腱損傷、肌肉張力太強,而可能同時有兩種以上因素,造成患者肩膀疼痛。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- 3. 複雜性區域疼痛症候群第一型(Complex Regional Pain Syndrome Type I): - (1) 又名反射性交感神經失養症(RSD)或肩手症候群(shoulder-hand syndrome),造成原因不明,外傷為主要原因,其他像是中風、心肌梗塞、周邊神經損傷、惡性腫瘤等等原因都有可能。發生於 12~25% 的中風半側偏癱患者。 - (2) 在臨床表現上會出現五種主要症狀: (a) 疼痛、(b) 腫脹、(c) 自主神經失調、(d) 運動方面不協調、(e) 皮膚會變薄發亮,毛髮、指甲粗厚,肌肉萎縮。 - (3) 分期 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- 4. 肩關節半脫位:指上臂肱骨與肩關節盂間位移增加,因而直接造成疼痛,或因間接造成 CRPS type I 及旋轉肌肌腱損傷,進而疼痛。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - ① 表現為角膜基質的圓盤狀水腫,發炎區域的內皮細胞上常有角膜沉積物 (KP) 和虹膜的發炎反應。可能與角膜對病毒抗原的遲緩型過敏反應(delayed type hypersensitivity) 有關。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - 3. 季節性過敏性結膜炎(Seasonal allergic conjunctivitis, SAC)、常年性過敏性結膜炎(Perennial allergic conjunctivitis, PAC): 前者通常是指對植物的花粉或孢子過敏所引起之結膜發炎,常出現在特定花粉或孢子濃度升高的季節,病患本身常有氣喘,過敏性鼻炎等病史。後者則是因為對家塵(house dust mites)、黴菌、寵物等漂浮物過敏所引起。兩者皆為第一型過敏反應,發作常為短暫性或陣發性,且很少造成視力上的影響。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - 1. 瘢痕性類天疱瘡(Ocular cicatricial pemphigoid): - (1) 簡介:第二型過敏反應,自體抗體攻擊基底膜,與 HLA-DR4、DR2 相關。 - (2) 臨床症狀: 反覆性結膜炎、結膜下水疱、結膜皺縮、乾眼、瞼球黏連 (symblepharon)、瞼瞼黏連 (ankyloblepharon),導致眼球活動受限。 - (3) 治療:口服類固醇或眼球局部使用類固醇或維他命 A 藥膏,嚴重的用口服 cyclophosphamide $1.5\sim2.0$ mg/kg/day。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
@@ -166,9 +171,6 @@ Gell-Coombs hypersensitivity 分類連結 IgE、抗體、免疫複合物與 T ce
 - 2. 分類:目前最常用的是 Gustilo classification。 - (1) Type I: 傷口小於一公分。 - (2) Type II: 傷口介於一到十公分之間,且沒有大範圍軟組織受傷。 - (3) Type III: 十公分以上傷口,此外不論大小的槍傷,或是沾有泥土的傷口(髒的傷口)都必須歸在這類。Type III 傷口又可再細分成三種: - a. IIIA:傷口周圍軟組織足以覆蓋骨頭。 - b. IIIB:傷口周圍軟組織不足以覆蓋傷口。 - c. IIIC:除骨折與傷口外,同時伴有神經血管損傷。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (A) 根據 Gustilo-Anderson 分類,開放性傷口小於 1 公分,同時沒有嚴重的軟組織傷害者,為 type III injury Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (D) 對於 type I 及 type II 開放性骨折,在急診室時可選用第一代頭孢菌素 (first-generation cephalosporins)治療;對於 typeIII 開 放性骨折建議再加上氨基配醣體類抗生素 (aminoglycosides) Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 3. 分類:股骨頸骨折最常用的分類是 Garden's classification,分成以下四種類型: - (1) 無移位(non-displaced)骨折(type I & II):兩者內固定之後預後差不多,產生 nonunion 及 avascular necrosis 的機率皆小於 10%。 - a. Type I:屬於 incomplete 的骨折(未完全裂開)。 - b. Type II: complete 的骨折,但沒有移位。(完全裂開) - (2) 移位性 (displaced) 骨折 (type III & IV): 內固定後產生 nonunion 的機率約 30~40%,產生 avas Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (A) Garden type II 股骨頸骨折屬移位性骨折 (displaced fracture) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- 【 詳解 】(A) Garden type II 是 non-displaced;(C) 位移後 blood supply 已受破壞,年輕人還可嘗試 ORIF,至於老年人建議直接換人工關節;(D) non-union 和 avascular necrosis 是兩大最常見的合併症。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 
 ## Clinical Caveats
 

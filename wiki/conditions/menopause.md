@@ -11,6 +11,7 @@ sources:
   - "[[sources/med6-book1-ch15]]"
   - "[[sources/med6-book1-ch06]]"
   - "[[sources/med6-book1-ch18]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Menopause (更年期／停經)'
   - 'Menopause'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-卵巢濾泡耗竭造成月經永久停止與 estrogen 下降，可有熱潮紅、泌尿生殖症候群與骨質流失。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+卵巢濾泡耗竭造成月經永久停止與 estrogen 下降，可有熱潮紅、泌尿生殖症候群與骨質流失。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med6-book1-ch15]]
 - [[sources/med6-book1-ch06]]
 - [[sources/med6-book1-ch18]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (a) 約有五成於脊髓損傷後沒有月經,此情形大多在六個月到一年後會恢復, 且受孕能力只要月經恢復後即與正常人無異。脊髓損傷的女性其停經時 間與正常人相同。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - F. 更年期及荷爾蒙治療 (Menopause and menopausal hormone therapy) 343 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (2) 平均月經週期為 28±7 天,黃體期固定 14 天,變動的是濾泡期。在初經來的 5~7 年及停經前的 10 年因下視斤-腦垂體-卵巢軸線功能不穩,月經週期變動較大。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 3. 症狀: - (1) 卵巢排卵異常將造成月經紊亂或功能性子宮異常出血,最後將導致無月經。 - (2) 卵巢無法有效產生雌激素將造成停經相關症狀,如:熱潮紅、性慾低下、陰道乾澀等。 - (3) 在青春期前的女性即卵巢衰竭會造成原發性無月經和缺乏第二性徵。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].

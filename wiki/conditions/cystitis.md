@@ -30,6 +30,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch12]]"
   - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Cystitis (膀胱炎)'
   - 'Cystitis'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+下泌尿道感染，常有頻尿、急尿、解尿疼痛。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,14 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch12]]
 - [[sources/med6-book1-ch13]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- (2) 「運動處方」常用係數: - a. Mode/Type:運動類型, Ex. 腳踏車 or 跑步機。 - (a) 須包含熱身、有氧運動、阻力訓練和收身操,且運動類型以大塊肌群的 運動為主。 - b. Frequency:每週幾次,至少每週三至五次以上。 - c. Duration:每次做多久,一般會包含 warm up 5~10 分鐘、exercise 20~60 分鐘、cool down 5~10 分鐘,時間長度會因人和因病而異。 - d. Intensity:訓練強度,Ex. 運動到最大心跳的60~80%。 - (a) 可用心率 (HR)、攝氧量 $(VO_2)$ 、自覺勞力係數 (RPE) 等來定義訓練強度。 - (b) 訓練的強度越高,心率越 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- d. Duration、Frequency 和 type 和其他心血管疾病類似。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- ...e)亦會增加以增強肌肉收縮力量,即稱為徵召現象。 - (a) Firing rate (FR): 單一運動單元電位每秒的放電頻率,單位為赫茲(Hz), 計算方法為 1,000 除以波與波的間隔(毫秒)。 - (b) Recruitment frequency (RF): 當其他運動單元被徵召且開始放電時,肌肉收縮增強,此時原本的運動單元電位當下的 firing rate 即為 Recruitment frequency。正常為 20 Hz 左右。 - (c) Recruitment interval (RI):當其他運動單元被徵召且開始放電時,原本的運動單元電位兩次放電的波形間隔,即為 Recruitment interval。正常為 100 ms 左右。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - # 戊、間質性膀胱炎(Interstitial Cystitis) Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - ### 戊、間質性膀胱炎 (Interstitial Cystitis) Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
 - ...悅感(疼痛、壓迫、不 | |------|-------------------------------------------------| | | 適)合併下泌尿道症狀,持續超過六週,沒有發現感染或其他成因 | | 命名 | · 間質性膀胱炎 (Interstitial cystitis): 無明確成因的慢性膀胱疼痛過 | | | 去稱之,但此為命名錯誤,因為既沒有證據顯示膀胱發炎是成因, | | | 也沒有證據顯示此症狀和膀胱間質異常有關,不過,此命名行之多 | | | 年,仍被沿用 | | | ・膀胱疼痛症候群 (bladder pain syndrome):較吻合臨床表現的新命名 | | 相關疾病 | ·可能合併其他慢性疼痛症候群(如:irritable bowel Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
@@ -92,9 +99,6 @@ tags:
 - | (B) | 3. 有關間質性膀胱炎(interstitial cystitis)之敘述,下列何者錯誤? (A) 通常發生於 40 歲以上的女性 (B) 通常病人的尿液常規檢查會出現血尿及膿尿 (C) 常見的症狀是頻尿、夜尿、急尿、及恥骨上疼痛 (D) 症狀通常是在膀胱脹尿時引起,因此膀胱容積逐漸縮小,病人變得相當頻尿 | 109(一)專醫五-69 | |-----|----------------------------------------------------- Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...續、費力尿、尿不清。 - b. 國際攝護腺徵狀評分表 International Prostate Symptom Score (IPSS) - (a) 評分項目(記法:FUN-WISE,前三是儲尿不穩症狀、後四是排尿阻塞症狀) - i. Frequency (頻尿:排尿後兩個小時內又要小便)。 (註:正常人兩次解尿的間隔 2.5 小時,且一天 1-blockers:Terazosin (Hytrin®)、doxazosin (Doxaben®)。(記法:(山) 海經、豆沙餅) - iii. α1A-blockers: Tamsulosin (Harnalidge®)、alfuzosin (Xatral®)、silodosin (Urief®)。(記法:哈那裡、殺豬、油欸) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (B) 病人得了急性膀胱炎,需要導尿,取得尿液做細菌培養 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- 【詳解】以病患的年紀與性別來判斷,急性膀胱炎的機會較低。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- 3. 病菌:大多數 UTI 是單一致病菌造成。並非有進入泌尿道的細菌就會感染,還是有菌種或亞型的差異。 - (1) 非複雜 (uncomplicated:指女性無懷孕且感染後無嚴重併發症)膀胱炎、腎盂腎炎:80% 是 *E. coli* (亞型 O 為主)。其他 20% 為 Klebsiella、Proteus 或 *Enterobacter* spp. 或 Enterococci。 - (2) 住院中得到 UTI:可能的菌種很多,甚至包括 Pseudomonas 或 *Staphylococcus* spp.。若是 *Staphylococcus aureus*,常是從其他處經血液傳播而來。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- 2. 膀胱(急性膀胱炎):下泌尿道症狀(頻尿、急尿、尿痛)、腰背和恥骨上疼痛、血尿和混濁/惡臭尿。發燒等系統性反應並不常見。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 
 ## Clinical Caveats
 

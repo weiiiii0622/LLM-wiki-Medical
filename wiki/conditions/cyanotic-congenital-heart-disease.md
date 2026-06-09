@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch01]]"
   - "[[sources/med5-book6-ch03]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Cyanotic congenital heart disease (發紺型先天性心臟病)'
   - 'Cyanotic congenital heart disease'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-右到左分流或肺血流不足造成發紺，常需評估 PDA-dependent circulation 與緊急穩定。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+右到左分流或肺血流不足造成發紺，常需評估 PDA-dependent circulation 與緊急穩定。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch01]]
 - [[sources/med5-book6-ch03]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- · Signs of poor perfusion (cyanosis or pallor) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (C) 8.46 歲男性病人因為左側膝關節退化性關節炎接受脛骨高位截骨 矯正術(high tibial osteotomy),手術後以長腿石膏固定膝關節, 四個小時後病人抱怨腳趾頭麻痺,住院醫師前往檢視發現腳趾 頭有明顯的發紺現象(cyanosis),當搬動腳趾時病人非常疼痛, 幾乎無法忍受,請問下一步應該採取的處置何者最為適當? Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - 2. 當構造異常,心臟有由右心至左心的分流,使得缺氧血直接參雜進含氧血內,降低氧氣濃度,則為發紺型先天性心臟病,會有嘴唇發紫、clubbing finger 的情形。(心臟瓣膜疾病也會有發紺的情形,統一於下一章節「心臟瓣膜疾病」介紹) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 1. 法洛氏四重症(Tetralogy of Fallot, TOF): - (1) 最常見的發紺型先天性心臟病,佔15~20%。 - (2) 四種異常為:心室中隔缺損(ventricular septal defect, VSD)、主動脈跨位 (aortic override)、右心室出口阻塞(right ventricular outflow tract obstruction, RVOTO)、右心室肥大(right ventricular hypertrophy)。(見下圖左) - (3) **心室中膈缺損**連帶影響主動脈與心室的連接,造 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
@@ -59,6 +62,7 @@ tags:
 
 ## Related Pages
 
+- [[physiology/fetal-circulation|Fetal circulation (胎兒循環)]]
 - [[conditions/hypoplastic-left-heart-syndrome|Hypoplastic left heart syndrome, HLHS (左心發育不全症候群)]]
 - [[drugs/prostaglandin-e1|Prostaglandin E1, PGE1 (前列腺素 E1)]]
 - [[conditions/pulmonary-atresia|Pulmonary atresia (肺動脈閉鎖)]]

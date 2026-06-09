@@ -8,6 +8,7 @@ sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Epilepsy (癲癇)'
   - 'Epilepsy'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-反覆非誘發性 seizure 或具再發風險的疾病，需依發作型態、EEG 與病因分類。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+反覆非誘發性 seizure 或具再發風險的疾病，需依發作型態、EEG 與病因分類。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med4-book4-ch01]]
 - [[sources/med5-book1-ch10]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...腦膜撕裂、出現異物、focal sign (Aphasia 或 Hemiplegia)、年紀大於六十五歲。 - d. 創傷後一週內給予 phenytoin 或 valporic acid 能有效降低 early PTS 的機會,不過長期使用抗癲癇藥物對於預防 late PTS 的效用不顯著。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (C) 3. 對於接受抗癲癇藥物治療的癲癇婦女患者,可建議在受孕期前後(periconceptional period)補充下列何種維生素,來降低胎兒發育異常(如:唇顎裂、神經管缺損、先天性心臟缺損等)的發生機會? Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】抗癲癇藥物的致畸胎機轉可能與降低孕婦葉酸濃度有關,因此建議使用抗癲癇藥物的婦女可在受孕期前就使用高劑量葉酸(4 or 5 mg),並且持續整個懷孕期間。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】(D) 頭部創傷後會連續七天給予預防性抗癲癇藥物 (phenytoin or levetiracetam),可有效預防創傷後七天內的癲癇 (early post-traumatic seizures) 發生率,但使用超過七天則對於 late post-traumatic seizures (創傷後超過七天才發生)無顯著效果。因此建議連續給予七天後即可停藥,但不會只使用 24 小時就停藥了。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Head trauma (頭部創傷)'
   - 'Head trauma'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-頭部外傷可能造成顱骨骨折、EDH、SDH、腦挫傷、DAI、IICP 或腦疝。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+頭部外傷可能造成顱骨骨折、EDH、SDH、腦挫傷、DAI、IICP 或腦疝。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book1-ch10]]
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- 1. 腦外傷部分內容請參照醫學(五)第三冊腦神經外科第二章頭部創傷。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (C) 無法認定的頭受傷 (Unrecognized head trauma) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (2) 手術修補、血管內支架置放:應先完成其他伴隨危急損傷評估,如:脾臟破裂、 骨盆骨折出血,並優先處理肺失能或頭部創傷至穩定,再進行血管修補。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - ## 乙、頭部創傷 (Head Trauma) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
@@ -57,6 +60,7 @@ tags:
 - [[conditions/epidural-hematoma|Epidural hematoma, EDH (硬腦膜上血腫)]]
 - [[conditions/skull-fracture|Skull fracture (顱骨骨折)]]
 - [[conditions/subdural-hematoma|Subdural hematoma, SDH (硬腦膜下血腫)]]
+- [[conditions/traumatic-brain-injury|Traumatic brain injury, TBI (創傷性腦損傷)]]
 
 ## Follow-up
 

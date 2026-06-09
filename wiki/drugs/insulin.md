@@ -44,6 +44,7 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Insulin (胰島素)'
   - 'Insulin'
@@ -58,7 +59,7 @@ tags:
 
 ## Summary
 
-治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +103,11 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (4) 幫助血糖控制:增加葡萄糖利用率、降低胰島素阳抗性。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 2. 成因:與懷孕中期之後,胎盤分泌的 human placental lactogen (HPL),造成 insulin resistance 有關。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 註:胎兒在子宮內暴露高血糖,造成胎兒高胰島素血症,出生後容易低血糖。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (2) 適度運動:一週三次,每次 30 分鐘。適度運動有助於改善心血管循環,可增加 insulin 的敏感性,有助於降血糖; Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
@@ -122,7 +125,6 @@ tags:
 - (BC)21. 一位女性病患多次因飢餓暈倒,心跳加快、冒冷汗,血糖 40 mg/dL,從血管灌注高濃度葡萄糖,症狀立即改善,同時間的 insulin /glucose 比例為 0.52, 腹部 CT 發現胰臟尾部接近脾臟有一個 1.3 公分大小的腫塊,則其最恰當處置為: Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 【詳解】題幹描述,符合 Whipple triad:血糖濃度小於45 mg/ dL,且有低血糖症狀,補充葡萄糖後迅速恢復。此外 Insulin/ Glucose (I/G) 比值 > 0.3,考慮是 insulinoma。在胰尾的 tumor 考慮 distal pancreatectomy。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - (B) 2. 關於胰島素瘤(insulinoma)之敘述,下列何者錯誤? Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (C) 診斷 insulinoma 重要的臨床症狀是 Whipple's triad,包括低血糖的症狀、當時測得的血糖濃度偏低,及給予靜脈注射葡萄糖液可以減輕低血糖的症狀 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 
 ## Clinical Caveats
 

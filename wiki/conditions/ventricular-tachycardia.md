@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Ventricular tachycardia (心室頻脈)'
   - 'Ventricular tachycardia'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-寬 QRS 頻脈，可能導致血流動力學不穩。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+寬 QRS 頻脈，可能導致血流動力學不穩。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ tags:
 - [[sources/med4-book1-ch01]]
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- · Arrhythmias other than sustained VT, including multifocal premature ventricular contractions, triplets, or supraventricular tachycardia, heart block bradyarrhythmias Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- Development of bundle branch block or intraventricular conduction delay that cannot be distinguished from VT Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - $\Delta V$ (肺泡體積改變量) = VT (潮氣容積) Source: [[sources/med5-book4-ch03|丙、肺]].
 - TLC = total lung capacity 總肺容積 Vt = tidal volume 潮氣容積, 一般吸吐氣量 IC = inspiratory capacity 最大吸氣容積 FRC = functional residual capacity 功能性肺餘容積 ERV = respiratory revserve volume 吐氣保留容積, 一般吐氣保留之可吐氣容積 RV = residual volume 條肺容積, 無法利用來吸吐氣之容積 VC = vital capacity Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 最常伴隨 ASD,另外約有 1/3 的病患有 WPW syndrome,是發生 supraventricular tachycardia 的高風險族群。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

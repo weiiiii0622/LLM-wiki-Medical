@@ -49,6 +49,9 @@ sources:
   - "[[sources/med5-book4-ch09]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med5-book4-ch16]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Airways (氣道)'
   - 'Airways'
@@ -63,7 +66,7 @@ tags:
 
 ## Summary
 
-氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘、COPD、支氣管擴張與呼吸器管理的核心結構。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +115,17 @@ tags:
 - [[sources/med5-book4-ch09]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med5-book4-ch16]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- ...換氣, 減輕 呼吸困難的問題。每天至少三次, 一次至少十分鐘, 訓練到能自由運用。 - (1) 圓唇吐氣(pursed-lip breathing): 鼻子吸氣,欲吐氣時將嘴巴噘起,只留中間小空隙將氣體緩慢吐出,能平穩的增加呼吸道壓力,撐開支氣管使其不至於塌陷,且還可減低呼吸頻率、增加潮氣量、並減少患者因呼吸困難產生的焦慮感。 - (2) 橫膈式呼吸(diaphragmatic breathing):此方式的概念在於,主要利用橫膈肌的收縮來帶動呼吸,而非倚賴肋間肌。將一手放置在胸前,一手放於腹部,由鼻子深吸氣時上胸部儘量不要動,另一手感受腹部向外膨出,吐氣時,採圓唇吐氣法,腹部出力往內凹(可用手按壓輔助),吐氣時間越長越好。此法可延長呼吸、增加吸氣量和增加胸廓的延展性,另外再配 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (3) 扣擊(percussion):配合姿勢引流時以手成杯狀或使用機械扣及胸壁,產生空氣波動,幫助鬆動滯留在支氣管內的痰液體。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (f) 注重氣道清潔衛生:頭側擺便於讓痰引流、扣擊背部鬆痰以及加強氣道 抽吸。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- b. 造成呼吸功能障礙的原因為外在性(胸腔肌肉張力過強導致咳嗽困難、吸入性肺炎、脊椎畸形、氣道阻塞)和內在性(肺部纖毛排除異物能力下降、肺部氣管發育不良)等多重原因所造成。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - F. 氣管支氣管損傷 (Tracheobronchial injury) 118 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 2. 在車禍發生時,造成立即性死亡,最常見原因為心因性鈍傷合併腔室破損和胸主動脈損傷,造成早期死亡,最常見因為氣道阻塞、張力性氣胸、大量血胸和心包膜填塞。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - (1) 缺氧(Hypoxia):氣道阻塞、胸內壓力改變、通氣灌流失調(ventilation-perfusion mismatches) 和低血容。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
@@ -128,11 +139,6 @@ tags:
 - (D) 12. 在高速道路上突然減速的撞擊,很可能造成胸部傷害,尤其是外 98(-)專 傷性主動脈斷裂,此種傷害,在胸部 X 光上最常見的表現是什麼? 醫五-77 - (A) 主動脈節不見 (obliteration of aortic knob) - (B) 氣管向右邊 (deviation of the trachea to the right) - (C) 左支氣管下移 (depression of the left main stem bronchus) - (D) 中膈腔寬大 (widened mediastinum) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - ...度破裂風險,可考慮提早開刀。 - f. 其他像是 saccular aneurysm、mycotic aneurysm、pseudoaneurysm、dissecting aneurysm、fistula with GI tract or airway 等情形,不論大小皆建議馬上開刀。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - d. 其他: - (a) 氣道外傷 - (b) 極低體溫 (核心體溫≤ 30°C) Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (6) 支氣管擴張症及其他發炎之後遺症。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 4. 腹部創傷之急救和和所有急救一樣,必需先穩定 ABC (airway、breathing、circulation)後再作腹部的檢查,尤其在有穿刺傷時亦應先將 ABC 穩定後再處理傷口。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- ...------------------------|-----------------| | | (A) 連枷胸 (flail chest) | a 11 | | | (B) 嚴重的休克 (shock) | | | | (C) 呼吸道阻塞 (airway obstruction) | | | | (D) 肢體有一開放的傷口不斷在流血(active bleeding) | | | | (D) 政盟有 网放印易山小乡在加皿(active dicetting) | | | (A) 22. | 一個病人因車禍,血流滿面送至急診室,如果你是值班醫師, | 99(一)專 | | | 你要優先處理: | 醫五 -28 | | | (A) ABC (airway, breathing, circula Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 
 ## Clinical Caveats
 

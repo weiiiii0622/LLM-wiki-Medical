@@ -27,6 +27,9 @@ sources:
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book3-ch09]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Brainstem (腦幹)'
   - 'Brainstem'
@@ -41,7 +44,7 @@ tags:
 
 ## Summary
 
-中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +71,18 @@ tags:
 - [[sources/med5-book6-ch04]]
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book3-ch09]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- ii. 肌束陣彎(myokymia): 為一群運動單元連續反覆放電引起肌肉慢速收縮,該肌肉上的皮膚看到蠕動的情形,見於神經病變,分為臉部肌束陣彎(multiple sclerosis、brainstem neoplasm、Bell's palsy)和肢體肌束陣彎(radiation plexopathy、compression neuropathy、響尾蛇咬傷中毒)。 - \*聲音像 "marching soldiers" (正步走的士兵的腳步聲)。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
+- 1. SSEP 是經由刺激體感覺神經引發反應,沿著體感覺傳導路徑,一路從周邊神經 →神經叢→神經根→脊髓(posterior column)→再經腦幹(contralateral medial lemniscus)、視丘到達大腦感覺皮質。有別於傳統的感覺神經檢查只能偵測週邊神 經的遠端病變,體感覺誘發電位則可在周邊神經路徑、脊髓及頭部紀錄電位,評估 整個傳導徑路的病變。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
+- 3. 臨床應用範圍極廣,包括週邊神經病變、脊髓外傷、腦幹及視丘病變、腦血管病變、 及評估昏迷患者之預後等,甚至應用於脊椎手術時的監視以減少手術後遺症。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
+- (e) 排尿反射:在排尿初期,強烈的膀胱感覺神經活性,會活化腦幹的排尿中樞,進而抑制脊髓的防衛反射。膀胱的排尿反射中樞(micturition reflex center)位在脊髓 S2~4 灰質裡,當膀胱內尿液達一定容量時,膀胱壁上的伸張感受器會傳神經衝動到 S2~S4 的反射中樞,引起排尿反射。此時 S2~S4 傳出副交感神經衝動,引起逼尿肌收縮,內括約肌舒張,同時大腦再傳出神經衝動使外括約肌放鬆,引起排尿動作。至於維持持續排尿反射,需要經由脊髓上傳感覺神經至旁水道灰質(Periaqueductal gray matter)來控制橋腦排尿中樞。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- 2. 腦傷的預後因子: - (1) 昏迷的程度及時間:以腦傷後 24 小時內的 GCS 來判斷昏迷的程度,重度和長期昏迷患者預後較差。GCS分數 3~8 為嚴重、9~12 為中度、13~15 為輕度。此外,腦幹反射仍保有的預後較好: - a. 頭眼反射(Doll's eye sign):將病人頭部轉動,眼球會轉向相反方向,例如頭往右轉,眼球會向左轉。 - b. 瞳孔對光反射 (Light reflex)。 - c. 前庭-動眼反射 (Oculo-vestibular reflex): Caloric test,將頭抬高 30 度並用約 50 cc 冷水 (30℃)或冰水灌入其中一邊外耳道內,則兩眼會共軛地轉向冷水側,若用溫水 (44℃)灌入兩 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- 3. 中風患者約有 30~45% 會有吞嚥困難的情形,常見的腦部病灶位置為: - (1) 腦幹:67%。 - (2) 大腦左半球:28%。 - (3) 大腦右半球:21%。 - (4) 兩側大腦皆損傷的發生率比單側損傷多。 - (5) 大血管梗塞比小血管梗塞常見。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - b. 濕性絲狀角膜炎 (wet filamentary keratopathy): 通常伴隨大量流淚,常見於腦幹中風和原發性眼瞼痙攣的病患。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - ...人:缺血性微血管病 | | 麻痹 (isolated sixth- | | 側移動 | 變 ( 例:DM) | | nerve palsy | | | -小孩:病毒感染 | | 核間眼肌麻痹 | 雙眼水平複視 | 患眼眼球無法向鼻側 | 因腦幹的內側縱束 (medial | | (internuclear | | 轉動,且對側眼往顳 | longitudinal fasciculus) 受 | | ophthalmoplegia) | | 側轉動(外展)時會 | 到侵犯所致 | | | | 有眼球震顫 | -年輕人:多發性硬化症 | | | | | -老人:腦幹缺血性病變 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (1) Intramedullary (IM) nailing:單純股骨幹骨折的標準治療。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
@@ -83,12 +95,6 @@ tags:
 - (intramedullary hip screw) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - ...的敘述,何者錯誤? 醫五-47 - (A) 神經母細胞瘤源自於神經 細胞 (neural crest cells),是交感神經系統的惡性腫瘤 - (B) 大約有 65% 的神經母細胞瘤是發生在腹部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母細胞瘤的存在及其是否已有轉移,也可用 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 - (1) 分類:臨床上以組織學分類可分為五類 - a. 浸潤性乳腺管癌(infiltrating ductal cancer):是最常見的乳癌,佔75~80%。 - b. 浸潤性小葉癌 (infiltrating lobular cancer): 6~8%。 - c. 其他類型: - (a) 髓樣癌 (medullary cancer): 5~8%。 - (b) 黏液性癌 (mucinous cancer): 2~4%。 - (c) 管狀癌 (tubular cancer): 1~2%。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- ...aget disease 是原發的 | 目乳房的腫瘤,經由乳腺管路系統 | | | | 進入乳頭的上皮層。 | | | | (B) | 6. 比較同一期別的乳癌,下列何 | 運乳癌組織型態預後最好? | 108(一)專 | | | (A) medullary carcinoma | | 醫五 -42 | | | (B) mucinous carcinoma | | | | | (C) metaplastic carcinoma | | | | | (D) infiltrating ductal carcinoma | | | | | 【詳解】Mucinous carcinoma 予 | 頁後最好,五年存活率約九成。 | | | (C) | 7. BRCA 1 的基因變異與下列何種 | Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- ...--------|---------| | 化(micro-calcification)的表徵,臨床理學檢查無法觸摸到腫塊 | 醫五 -9 | | 位置,請問病人最可能的診斷是: | | | (A) phyllodes tumor (B) medullary carcinoma | | | (C) ductal carcinoma (D) lobular carcinoma | | | 【詳解】乳癌最常見的類型就是 ductal carcinoma,於乳房攝影 | | | 上的表現為群聚性的微小鈣化。 | | | (B) 17. 下列對於乳房之發炎性癌(inflammatory carcinoma)的敘述,何 | | | 者正確? | 醫五 -40 | | (A) 預後佳 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...| | (C) 目前放射線治療 (radiation therapy) 及化學治療 (chemo- | | | | therapy)效果不彰 | | | | (D) 很少需要根除手術,預後甚差 | | | (C) 19. | 甲狀腺髓質癌(medullary carcinoma),何者錯誤? | 105(一)專 | | | (A) 宜作甲狀腺全切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 
 ## Clinical Caveats
 

@@ -15,6 +15,7 @@ sources:
   - "[[sources/med6-book1-ch06]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Urinary incontinence (尿失禁)'
   - 'Urinary incontinence'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-非自願漏尿症候群，需區分 stress、urge、overflow、mixed 與 neurogenic etiologies。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+非自願漏尿症候群，需區分 stress、urge、overflow、mixed 與 neurogenic etiologies。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med6-book1-ch06]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch16]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- ...以及運動皮質對應的身體部位,不同大腦動脈梗塞其症狀有所不同。 - (1) 前大腦動脈(anterior cerebral artery, ACA): 負責大腦前方內側皮質,包含運動皮質內側,負責下肢運動,所以 ACA 中風會有對側下肢無力、尿失禁等症狀。 - (2) 中大腦動脈(middle cerebral artery, MCA): 中大腦動脈走在大腦外側,分上下兩分支供應血液,故 MCA 中風會有對側上肢無力。左側 MCA 中風會有失語症,右側 MCA 中風會有病覺缺失(anosognosia)或喪失空間感(spatial disorientation)。 - (3) 後大腦動脈(posterior cerebral artery, PCA):負責大腦後方內側皮質,PCA Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - # 乙、尿失禁(Urinary Incontinence) Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - ### 乙、尿失禁 (Urinary Incontinence) Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - 2. 發生率: 隨年齡增加而上升, 超過60歲的婦女,約30~50%有尿失禁。 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
@@ -64,7 +67,6 @@ tags:
 - 評估下泌尿道功能異常程度與成因,包括排尿困難、尿失禁、神經異常膀胱。(見後詳述) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...| 105(二)專 | | | (A) 睡眠呼吸中止症候群(sleep apnea syndrome) | 醫五 -67 | | | (B) 逼尿肌活性過強 | | | | (C) 前列腺肥大症併膀胱出口阻塞 | | | | (D) 應力性尿失禁(stress urinary incontinence) | | | (D) | 9. 有關神經性膀胱症的評估,下列敘述何者錯誤? | 103(一)專 | | | (A) 詳細病史詢問與身體診查仍為最重要的評估項目 | 醫五 -74 | | | (B) 尿路動力學檢查主要用於評估膀胱肌肉強度與收縮時程 | | | | (C) 解尿膀胱尿道攝影主要在檢查解尿時的解剖構造異常 | | | | (D) 一般並不需要腎臟超音波檢查 | | | Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - (1) 急性腎盂腎炎 (acute pyelonephritis, APN): - a. 病理:定義為腎盂或腎盂發炎,常以臨床表徵診斷。 - b. 好發於:有尿路感染(UTI)家族史、糖尿病、尿路阻塞、泌尿道異常、尿失禁、 性生活活躍之女性。 - c. 菌種: 80% 是大腸桿菌(E.coli)。 - d. 臨床表徵: - (a) 症狀:包括發燒、畏寒、肋脊角敲痛。常伴隨下泌尿道症狀(尿痛、頻尿、 急尿)。25% 人會有全身性敗血症。 - (b) 實驗室檢查:尿中有 WBC 與 RBC,血中 WBC 與 CRP 升高。 - (c) 影像:超音波可用來探查是否併發腎水腫。若症狀不明顯或治療無效,可排顯影劑 CT 檢查,可準確看到發炎處灌流缺損(perfu Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (3) 輸尿管開口異位(即輸尿管開口不在膀胱): - a. 流行病學:女性多於男性;15% 為雙側性。 - b. 臨床表徵: 最主要有尿失禁的症狀,亦常有泌尿道感染、腎臟發育異常。 - c. 治療:手術,將輸尿管切開重接在膀胱上。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 
 ## Clinical Caveats
 

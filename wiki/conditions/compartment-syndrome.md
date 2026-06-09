@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book6-ch03]]"
   - "[[sources/med5-book6-ch05]]"
   - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book3-ch01]]"
 aliases:
   - 'Compartment syndrome (腔室症候群)'
   - 'Compartment syndrome'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-筋膜室壓力上升造成肌肉神經缺血，疼痛超出預期與被動伸展痛是重要警訊，治療為緊急 fasciotomy。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+筋膜室壓力上升造成肌肉神經缺血，疼痛超出預期與被動伸展痛是重要警訊，治療為緊急 fasciotomy。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med5-book6-ch03]]
 - [[sources/med5-book6-ch05]]
 - [[sources/med6-book1-ch03]]
+- [[sources/med6-book3-ch01]]
 
 ## Key Details From Sources
 
+- 3. 當神經傳導入徑或是肌肉受傷時,便會引發垂足問題,造成垂足的原因如下: - (1) 神經性病因:中樞神經損傷、脊髓損傷、脊髓病變、運動神經元疾病、馬尾症 候群、腰薦椎神經根病變、坐骨神經病變、總腓神經病變、腓深神經病變、周 邊神經病變。 - (2) 肌肉性病因:肌肉損傷、肌腱損傷、前腔室症候群 (anterior compartment syndrome)、myopathy。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - ...Venous thrombosis or embolism | | Acute respiratory distress syndrome | Anesthesia-related complications | | Abdominal compartment syndrome | Death | | Unplanned hysterectomy | Asherman's syndrome (related to D&C) | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - D. 腔室症候群 (Compartment syndrome) 174 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - #### D. 腔室症候群 (Compartment syndrome) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].

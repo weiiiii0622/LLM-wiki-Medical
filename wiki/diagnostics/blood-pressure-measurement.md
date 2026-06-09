@@ -43,6 +43,7 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch14]]"
   - "[[sources/med6-book1-ch18]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Blood pressure measurement (血壓測量)'
   - 'Blood pressure measurement'
@@ -57,7 +58,7 @@ tags:
 
 ## Summary
 
-正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+正確量測與分類是高血壓診斷基礎。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +101,13 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch14]]
 - [[sources/med6-book1-ch18]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- c. Myocardial Oxygen Consumption(MVO2): 即心肌攝氧量,需用心導管去測量。臨床上常使用心率收縮壓乘積(Rate pressure product, RPP,或稱 double product)當作其指標。Rate Pressure Product(RPP) = 心率收縮壓乘積(SBP×HR)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- ...| 肺部通氣量 | 不變 | ↓ | ↑ | | 動靜脈氧分壓差 | 不變 | ↑ | ↑ | | 血中乳酸濃度 | 不變 | ↓ | ↑ | | 肌肉血流量 | 不變 | ↓ | | | 内臟血流量 | 不變 | 不變 | ↓ | | 收縮壓 | 1 | \ | 不變 | | 舒張壓 | \ | V | 不變 | Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- Hypertensive response: systolic blood pressure > 250 mmHg and/or diastolic blood pressure > 115 mmHg Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (A) 過去血壓正常的婦女,懷孕 20 週後收縮壓高於 140 mmHg 或舒張壓高於 90 mmHg 且合併有蛋白尿,即可診斷為 preeclampsia Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (B) preeclampsia 會增加腦出血(cerebral hemorrhage)、肺水腫(pulmonary edema)及凝血功能異常(coagulopathy)的危險。當收縮壓高於 160 mmHg 時就應積極控制血壓預防腦出血 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 【詳解】(C)首先,懷孕時應使用孕期能使用的降壓藥,先前 的藥物不一定都能使用;其次,孕婦理想的血壓控制為收縮壓 130~150 mmHg, 舒張壓 80~100 mmHg, 不可控制過低,以免 影響胎盤血流;另外,嚴重子癇前症持續惡化,才會建議生產, 其血壓標準為 160/110 mmHg。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
@@ -118,9 +123,6 @@ tags:
 - ...離 (aortic dissection) 的治療上,下列敘述何者 110(一)專 錯誤? - 醫五-17 - (A) 在高度懷疑為主動脈剝離之情形下,可先實行降低心跳及 控制血壓之藥物治療 (anti-pulse therapy and blood pressure control) - (B) 對急性史丹佛 A 型 (Stanford type A) 之主動脈剝離病患, 應考慮進行緊急主動脈置換手術 - (C) 對急性史丹佛 B 型 (Stanford type B) 之主動脈剝離合併有 器官供血不足 (malperfusion) 之病患,應立即考慮介入性 血管內主動脈支架 (endovascular treatment) 之可能性 - (D) 對於急性史丹佛 A 型 (Stanford typ Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 中心靜脈壓 (central venous pressure),動脈壓 (arterial blood pressure),心輸出量 (cardiac output),混合靜脈血氧飽和度 (mixed venous oxygenation saturation) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - 2. IABP的基本原理是將一氣球導管經鼠蹊部股動脈放置入降主動脈靠近主動脈弓處,當心臟收縮時(Q波出現之際)氣球會同時消氣(deflation),可以因此降低心臟的後負擔(afterload)及心壁張力,同時降低左心室末期舒張壓(LVEDP)減少右心室後負荷量,與減低雙心室心肌的耗氧量;而當心臟舒張(T波出現之際)時氣球則會同時充氣擴張(inflation),將血液壓回至升主動脈,增加冠狀動脈的血液灌流量。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- ...---------------------------------------------------------------------| | (A) 心跳速率較正常低 | 外一-94 | | (B) 心搏量較正常高 | | | (C) 收縮壓較正常高 | | | (D) 血中乳酸(lactate)較正常低 | | | 【詳解】(A) 移植之心臟不受交感神經控制,故運動時心跳加速 | | | 較慢;另外也沒有迷走神經控制,所以休息時心跳也較不受抑 | | | 制。(B) 心搏量主要受 preload 影響,故和正常差不多。 | | | 7. 移植後的心臟在休息狀態下,何種心臟功能參數較正堂為低? | 93(二)專 | | | 外二-91 | | | 71 - 01 | | | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
-- (A) 3. 一位 50 歲男性因急性心臟衰竭住院,入院時收縮壓為 200 mmHg, 檢查發現右腎上腺有一 5 公分腫瘤,臨床醫師懷疑為嗜鉻細胞瘤 (pheochromocytoma),下列敘述何者正確? Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- ...B) 6. 成人急性大量失血 2,000 毫升 (mL) 以上時,下列何者不是臨床 107(二)專 常見之表徵? 醫五-6 (A) 意識焦慮(anxious) 及錯亂(confused) (B) Pulse pressure 上升 (C) Blood pressure 下降 (D) 尿量減少 (B) 7. 一位 32 歲女性,體重 60 kg,騎機車不慎被貨車撞到造成腹內 - 107(二)專 出血,送至急診時初步檢查為心縮壓(systolic blood pressure) 醫五-75 正常,但脈搏壓(pulse pressure)明顯下降,且心跳 112下/分, 尿量 20~30 mL/hour。此病人約流失多少血液? (A) 500 mL (C) 1,300~1,700 mL Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

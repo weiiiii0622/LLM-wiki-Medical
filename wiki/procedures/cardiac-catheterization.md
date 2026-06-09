@@ -53,6 +53,8 @@ sources:
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Cardiac catheterization (心導管檢查)'
   - 'Cardiac catheterization'
@@ -67,7 +69,7 @@ tags:
 
 ## Summary
 
-評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -120,9 +122,14 @@ tags:
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (3)接受過心導管或心臟繞道手術的病患,若有接受心臟復健,其血管再堵塞的機率較低,死亡率甚至可降低百分之二十五。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- c. Myocardial Oxygen Consumption(MVO2): 即心肌攝氧量,需用心導管去測量。臨床上常使用心率收縮壓乘積(Rate pressure product, RPP,或稱 double product)當作其指標。Rate Pressure Product(RPP) = 心率收縮壓乘積(SBP×HR)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (a) 長期置放導尿管容易引起反覆感染、尿路結石、甚至癌症風險。若臨床狀況允許,需考慮使用乾淨間歇性自我導尿(clean intermittent catheterization),並輔助下列處理方法幫助排尿。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - ...中的黑點,表格內的線若有彎曲變形則可能表示黃斑部病變。 - (4) 光刺激(photostress): 可幫助偵測黃斑部病變:若光刺激恢復時間(photostress recovery time)有延長可能是有黃斑部病變。 - (5) 眼底血管攝影(fundus angiography): 由靜脈注射顯影劑後經螢光眼底攝影機, 連續拍攝眼內血管發射出的螢光,主要反映視網膜血管及灌注狀況的一種重要 診斷技術。 - a. 螢光血管攝影(fluorescein angiography):觀察視網膜表層血管變化。 - b. 花青綠血管攝影 (indocyanine green angiography): 觀察脈絡膜深層血管變化。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...) | | (2) 與 dry ARMD 相 | membrane 進入 RPE | 利用光敏感物質(如 | | | | 比較易造成急速 | 下空隙。可以 ICG 眼 | Visudyne) 和脈絡膜 | | | | 的中心視力喪失 | 底血管攝影早期偵測 | 新生血管內皮 | | | | | (2) 視網膜色素上皮剝離 | (2) 結合並施與雷射, | | | | | (RPE detachment): | 破壞 CNV 但不波 | | | | | 眼底可見圓頂突起之 | 及到感光細胞玻璃 | | | | | 病灶,為 RPE 和增厚 | 體內注射血管內皮 | | | | | 的 Bruch's membrane | 生長因子拮抗劑 | | | | | 因滲出物而分開 | (V Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 3. 視網膜分支靜脈阻塞 (Branch retinal vein occlusion, BRVO): 臨床上,視網膜分支 靜脈阻塞比中心靜脈阻塞更為常見。 - (1) 好發位置:阻塞常位於動靜脈交 叉處,以顳上支最多見。 - (2) 臨床表現: 視力呈不同程度下降, 與阻塞影響造成的黃斑部水腫、 出血有關。 - (3) 眼底檢查: 阻塞周圍小靜脈擴張 彎曲、火焰狀出血、點狀出血、 網膜水腫、棉絮狀斑點。 - (彩圖請見 224 頁) (4) 眼底螢光血管攝影 (fluorescein fundus angiography)檢查:早期顯示低螢光,因受傷靜脈充填延遲或背景螢光 被視網膜出血及棉絮狀斑點遮擋。晚期因滲出而高螢光。 Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -138,9 +145,6 @@ tags:
 - ...----------------------------------------------------|------------------| | | (B) 移除導尿管,改成每天定時間歇性清潔導尿(intermittent clean catheterization)(C) 給予 amphotericin-B 膀胱連續沖洗(D) 給予 amphotericin-B 靜脈注射 | | | (B) | 5. 一位 40 歲女性門診主訴血尿,尿液檢查(U/A)結果如下:比重 1.000,尿潛血(OB)2+,紅血球(RBC)0~1/HPF,白血球(WBC)1~2/HPF,尿蛋白(-)。理學檢查無異狀,下列何者為最佳處置? (A)告訴病人沒有問題 (B)告訴病人檢驗結果可能偽陰性(false negativ Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - d. 影像學: - (a) Doppler 超音波血流檢查。 - (b) 海綿體攝影 (cavernosometry and cavernosography): 把顯影劑注入海綿體, 主要用以診斷 Venous ED type 1。 - (c) 會陰部血管攝影。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - Catheterization, particularly subclavian vein Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...tilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibrosis (IPF) | Postsurgical | | - Pulmonary embolism | Other | | Catamenial | Esophageal perforation | | Neonatal | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...questrations)。 - a. 好發於左下肺葉之中節和後節,約佔全部游離肺 2/3。 - b. 通常位於下肺韌帶, 佔肺內游離肺約 85%, 由來自橫隔下主動脈分流出的異常血管供應, 而由下肺靜脈或體循環靜脈回收。 - c. 檢查:血管攝影 (angiography)、CT 或 MRI。(診斷兼術前評估) - d. 症狀:咳嗽、咳血、呼吸困難、反覆性肺炎。 - e. 治療:手術切除(segmentectomy or lobectomy)。因為有出血和感染風險,而由於異常結構,故手術風險也相當高。 - (2) 肺外游離肺 (extralobar sequestrations)。 - a. 有獨立肋膜包覆,無支氣管聯通。 - b. 好發於男性(男女比為 3:1)、左肺(左右比 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 4. 檢查評估: - (1) DLco 是最佳評估整體肺臟疾病嚴重度的工具。 - (2) 肺血管攝影 (pulmonary angiography) 檢查:氣腫呈現低訊號且無血管。 Source: [[sources/med5-book4-ch03|丙、肺]].
 
 ## Clinical Caveats
 

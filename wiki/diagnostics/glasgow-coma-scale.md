@@ -2,7 +2,7 @@
 type: diagnostic
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch01]]"
   - "[[sources/med4-book4-ch05]]"
@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Glasgow Coma Scale, GCS (格拉斯哥昏迷指數)'
   - 'Glasgow Coma Scale, GCS'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-以 eye、verbal、motor response 評估意識程度，常用於腦傷、中風與急症神經評估。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 eye、verbal、motor response 評估意識程度，常用於腦傷、中風與急症神經評估。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ tags:
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- 2. 腦傷的預後因子: - (1) 昏迷的程度及時間:以腦傷後 24 小時內的 GCS 來判斷昏迷的程度,重度和長期昏迷患者預後較差。GCS分數 3~8 為嚴重、9~12 為中度、13~15 為輕度。此外,腦幹反射仍保有的預後較好: - a. 頭眼反射(Doll's eye sign):將病人頭部轉動,眼球會轉向相反方向,例如頭往右轉,眼球會向左轉。 - b. 瞳孔對光反射 (Light reflex)。 - c. 前庭-動眼反射 (Oculo-vestibular reflex): Caloric test,將頭抬高 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- | 預後因子 | 預後較差 | 預後較好 | |--------------------|----------------------|------| | Glasgow coma scale | 7 | | 電腦斷層 | 大量出血、腦水腫、mass effect | 正常 | | 年紀 | 老年 | 年輕人 | | 光反射 | 瞳孔擴大 | 瞳孔收縮 | Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (A) 5. 一位 28 歲男性,從四樓陽台掉落,到急診室時 Glasgow coma scale (GCS) 是 8 分。心跳 110 次 / 分鐘、血壓 150/90 mmHg (平均動脈壓 110 mmHg) 和呼吸 18 次 / 分鐘。血中酒精濃度 是 150 mg/dL。假設顱內壓為 25 mmHg,則腦灌注壓 (cerebral perfusion pressure) 為多少 mmHg ? Source: [[sources/med5-book1-ch12|丙、顱內壓]].
 - A. Glasgow Coma Score 120 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
 - A. Glasgow Coma Score: 利用睜眼、語言和運動反應來評估意識,總分 15 分。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
@@ -63,6 +67,7 @@ tags:
 
 - [[conditions/coma|Coma (昏迷)]]
 - [[diagnostics/neurologic-examination|Neurologic examination (神經學檢查)]]
+- [[conditions/traumatic-brain-injury|Traumatic brain injury, TBI (創傷性腦損傷)]]
 
 ## Follow-up
 

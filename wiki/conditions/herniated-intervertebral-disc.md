@@ -7,6 +7,8 @@ sources:
   - "[[sources/med5-book1-ch17]]"
   - "[[sources/med5-book6-ch06]]"
   - "[[sources/med5-book6-ch07]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch07]]"
 aliases:
   - 'Herniated intervertebral disc, HIVD (椎間盤突出)'
   - 'Herniated intervertebral disc, HIVD'
@@ -21,16 +23,20 @@ tags:
 
 ## Summary
 
-椎間盤髓核突出壓迫神經根或脊髓，常見腰椎 radiculopathy 或頸椎 myelopathy。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+椎間盤髓核突出壓迫神經根或脊髓，常見腰椎 radiculopathy 或頸椎 myelopathy。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book1-ch17]]
 - [[sources/med5-book6-ch06]]
 - [[sources/med5-book6-ch07]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch07]]
 
 ## Key Details From Sources
 
+- b. Sacral lesion:損傷位於 S2~4 或其發出的神經(LMN bladder),為鬆弛型(flaccid)膀胱障礙,膀胱及括約肌都失去收縮能力,膀胱不會有漲尿感且鬆大,因此排尿有困難(failure to empty),尿液解不乾淨。且由於括約肌也無力,尿道阻力下降,因此當膀胱漲滿或腹部用力(咳嗽、打噴嚏)時,容易有滲尿的情形。代表疾病:腰椎椎間盤突出、馬尾症候群。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- 1. 牽引治療(traction): 分頸椎牽引與腰椎牽引,藉由牽引拉長及放鬆脊椎旁之肌肉 與韌帶,使椎間孔變大,或使椎間盤復位,得以減輕椎間盤突出、骨刺或是發炎組 織對神經的壓迫。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - (A) 1. 一位媽媽在門診抱怨騎機車等紅燈時,會因拇指、食指、中指麻 107(-)專 木而必須甩手,晚上睡覺時也會麻到醒來施予按摩,下列敘述何 醫五 -61 者正確? - (A) 嚴重時會造成拇對掌肌 (opponens pollicis) 肌肉萎縮 - (B) 掌側屈腕 (volar flexion of the wrist) 往往會改善症狀 - (C) 頸椎椎間盤突出是主因 - (D) 一定要及早手術治療 Source: [[sources/med5-book6-ch06|己、手部]].
 - ...aspirin 可以緩解,則應考慮 | 71 00 | | | osteoid osteoma | | | | (C) 腰椎解離(spondylolysis)通常休息時背痛加劇,而運動可 | | | | 以緩解 | | | | (D) 腰椎椎間盤突出症不會發生在小孩子 | | | | 【詳解】(A) 小孩子較常見的是生長痛;生長痛較常見於四肢 | | | | 骨。(B) OO 好發於 10~20 歲孩子,常見在脊椎跟四肢骨,會造 | | | | 成 night pain, Aspirin 可緩解。這要背起來!考好幾次了!! (C) | | | | | | Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - A. 椎間盤突出(Herniated Intervertebral Disc, HIVD) 172 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
@@ -47,6 +53,7 @@ tags:
 - [[diagnostics/neurologic-examination|Neurologic examination (神經學檢查)]]
 - [[anatomy/spinal-cord|Spinal cord (脊髓)]]
 - [[conditions/spinal-stenosis|Spinal stenosis (脊椎狹窄)]]
+- [[procedures/traction-therapy|Traction therapy (牽引治療)]]
 
 ## Follow-up
 

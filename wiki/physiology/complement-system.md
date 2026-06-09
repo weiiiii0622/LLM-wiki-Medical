@@ -27,6 +27,7 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Complement system (補體系統)'
   - 'Complement system'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+補體參與 opsonization、發炎、細胞溶解與免疫複合物清除。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,13 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med5-book6-ch04]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (1) C1~C3:此類患者嘴巴可咀嚼、吞嚥、做吹吸動作,但需呼吸器協助呼吸,利用下巴、額頭、口桿(mouth stick)或聲音操控電動輪椅以及與人溝通。需終身倚賴他人幫忙。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (2) C4:初期需呼吸器協助呼吸,以後有機會自行呼吸。操控電動輪椅,用 mobile arm support 進食,幾乎隨時需倚賴他人,僅少部分活動可靠輔具獨立。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- ...位 | 可做出的動作 (Abilities) | 功能性目標 (Functional Goals) | |-------|--------------------|-------------------------------| | C1-C3 | C1/C2 用於支撐和轉動頭部,C3 | 呼吸: C3 其橫隔膜功能約達 1/3,僅能做微弱的腹部呼 | | | 受傷者能有限的移動頭和頸部。 | 吸,需借助呼吸器呼吸。 | | | | 溝通:說話有時會有困難、或受限制、甚或不能說話。 | | | | 如說話能力受到限制,可藉由輔助科技如眼動電腦、或 | | | | 口含敲擊棒等來與外界溝通。 | | | | 日常技能:有些技能可藉由一些輔助科技而獨立完成, | | | | 例如 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - ...IA 或 IB),合併以下情形 | | IC | | | | IC1 | IC1 手術過程破裂灑出 (surgical spill) | | | | | | IC2 | 外囊在手術前已破裂或侵犯卵巢表面 | | | | | | IC3 | C3 惡性腹水(註1) | | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...eral + SI injury | | С | RotationallyunstableVertically unstable | C1: unilateral + SI injury C2: bilateral + SI injury C3: associated acetabular fracture + SI injury | Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - ...| N1 | N2 | N3 | |-----|--------------|-----------|------------|------------| | Tis | Stage 0 | | | | | T1 | Stage IA | C4 TIA | C. IID | C. HO | | T2 | | Stage IIA | Stage IIB | Stage IIC | | Т3 | Stage IB | (S0/1) | (S0/1) | (S0/1) | | T4 | | | | | | | S0 | S1 | S2 | S3 | | M1 | Cto co III A | | C4 IIID | | | Mla | -Stage IIIA | | Stage I Source: [[sources/med5-book5-ch03|丙、外生殖器]].
@@ -86,9 +91,6 @@ tags:
 - ...hosis)。 | | Anti-phospholipid | 與流產、血栓形成、血小板低下有關。 | | (anti-cardiolipin) | | | Anti-histone | 與 Drug-induced LE 相關。 | | C3 · C4 | 與疾病活性度有關,補體越低與 Nephritis 越有關。 | Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - (A) 19. 一位 25 歲年輕女性,因臉上蝴蝶斑、頸部淋巴腺腫大及時有高 100(二)專 燒而求診。以往常會頭痛,冬季時兩手有 Raynaud's 現象及手指 醫四-42 關節疼痛。血液檢查所見:血色素 9.8 g/dL,白血球 3,100/mm³,血小板 80,000/mm³,尿蛋白陽性(+++)。除以上所見外,下列何種檢驗結果最為可能? - (A) anti-double-stranded DNA antibodies 陽性 - (B) elevated complement level - (C) eosinophilia - (D) depressed y-globulin level Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - e. 病理變化: - (a) 表皮內的基底層(Stratum basale)與其上的表皮細胞分離,形成表皮層 內裂縫(Intraepidermal cleft),裂縫中有許多游離的 acantholytic cell,故 此種水泡稱為 suprabasal blister。 - (b) 直接免疫螢光染色(Direct immunofluorescence, DIF): IgG 和 C3 沉積在細胞間隙 (intercellular deposition), 呈現網狀的「IC pattern」, 如右圖可見表皮層自基底層 以上剝離,DIF 呈網狀圖案。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- 2. 病因:病人的自體抗體攻擊類天疱瘡抗原(Bullous pemphigoid antigen)BPAg1 和BPAg2。BPAg 位於連接基底層(stratum basale)和 Basement membrane(位於表皮層和真皮層之間)的半胞橋小體(hemidesmosome)上,與抗體結合之後活化補體及發炎反應,破壞基底層細胞與其下真皮層的聯結,表皮(epidermis)與真皮(dermis)之間就裂開了。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (3) DIF: IgG和C3沿著表皮與真皮之間的Basement membrane zone (dermo-epidermal junction) 沉積,呈線狀沉積 (linear deposition),見下圖。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- ...icillin)、NSAIDs、Aspirin、鎮定劑、利尿劑、一些非處方藥(感冒成藥、制酸劑、維他命、瀉藥、眼藥水、耳藥水)。 - (c) 感染:病毒(上呼吸道病毒、腸胃道病毒)、細菌、黴菌、寄生蟲都有可能引起皮膚的過敏反應。 - b. 補體免疫引起(Complement-Mediated):輸血。 - c. 接觸過敏原引起(Immunologic Contact Urticaria): 通常為有異位性皮膚炎的 孩童接觸到環境的過敏原引起,例如花草、動物或戴橡膠手套。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 
 ## Clinical Caveats
 

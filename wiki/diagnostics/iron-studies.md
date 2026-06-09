@@ -22,6 +22,7 @@ sources:
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch10]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book3-ch04]]"
 aliases:
   - 'Iron studies (鐵質檢查)'
   - 'Iron studies'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI 等。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch10]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book3-ch04]]
 
 ## Key Details From Sources
 
+- b. 慢性期:出現疣狀增生(verrucous hyperplasia)、局部血鐵質(hemosiderin) 沉積導致顏色變深(hyperpigmented)。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - 的長到角膜上層,造成 Bowman's 層斷裂,嚴重的翼狀贅片可見到鐵質沉積在角膜上皮(stocker line)。多半沒有症狀,也極少影響視力,但是因病灶內有新生血管成分,所以患者會覺得眼睛容易充血發紅。致病機轉一般認為與紫外光暴露有關。 **手術切除後易復發**,若加上結膜移植或 Mitomycin-C 可降低復發機率。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - ...出現細小垂直的水腫紋 (striation)-Vogt | | | lines,可能會因眼球外部加壓而消失 | | Munson's sign | 向下看時,下眼瞼會向外凸出 | | Fleischer's ring | 角膜上皮有環繞著的鐵質沉積 | | (比較:K-F ring,銅堆積) | | | 角膜弧度儀 (computerized | 分析角膜曲度的分布,可偵測早期的圓錐角 | | videokeratoscope) | 膜,可見陡峭圓形區多為在角膜下方。 | Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - (2) 感光細胞受損:眼球血鐵質沉積症所造成的。 Source: [[sources/med6-book2-ch10|癸、玻璃體]].
@@ -78,7 +81,6 @@ Ferritin、serum iron、TIBC 與 transferrin saturation 協助區分 IDA 與 ACI
 - (B) 1. 有關重度乙型海洋性貧血(β-thalassemia major)的敘述,下列 109(二)專 何者最不正確?醫四 -26 - (A) 通常在 6 個月到 1 歲大間, 貧血會越來越嚴重而需輸血 - (B) 輸血會造成鐵質沉積,最好控制在血色素 7 g/dL 即可 - (C) 又稱為庫利氏貧血(Cooley anemia) - (D) 為自體隱性(Autosomal recessive)遺傳 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (C) 患者血清中 (serum) ferritin 是下降的 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (g) Ferritin > 500 ng/mL • Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (C) Hyperferritinemia Source: [[sources/med4-book1-ch04|丁、感染科學]].
 
 ## Clinical Caveats
 

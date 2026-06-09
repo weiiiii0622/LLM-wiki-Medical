@@ -33,6 +33,8 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book6-ch05]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book3-ch03]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Pulmonary embolism (肺栓塞)'
   - 'Pulmonary embolism'
@@ -47,7 +49,7 @@ tags:
 
 ## Summary
 
-靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+靜脈血栓進入肺循環造成呼吸困難、胸痛或休克。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +82,13 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book6-ch05]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book3-ch03]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- 1. 膝關節置換手術後復健目標: - (1) 疼痛控制。 - (2) 預防長期臥床而引發 DVT、pulmonary embolism 或 pressure ulcers 等併發症。 - (3) 適當的恢復關節活動度。 - (4) 加強膝蓋周圍肌肉肌力。 - (5) 幫助病患達到 ADL 的功能性獨立。 - (6) 在輔具幫助下能獨立行走。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
+- (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (3) 治療:LMWHs,接著使用 warfarin;瀰漫性肺栓塞可考慮血栓溶解治療,但伴隨有出血的風險;無法使用抗凝血治療,可以使用下降靜脈 filter。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 【詳解】(C) 通常靠理學檢查(PE)及神經傳導檢查(Nerve Conduction Velocity, NCV)來診斷。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - 【詳解】(A) PE 時可以發現手肘無法 extension,原因是常會傷到肱三頭肌(負責 elbow extension)。(C) olecranon 是肱三頭肌、anconeus muscle 附著,(D) 本身 olecranon 就是在關節面的位置,以手術治療為主。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
@@ -99,8 +105,6 @@ tags:
 - 3. 疝氣(hernia): 10%。疝氣導致的 ileus 佔了將近 10%,因此進行 PE 時務必將病人的衣服和褲子掀起,仔細觸診。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
 - (1) 由於早期的乳癌可能只會在 X 光中出現微小鈣化點,無法經由 PE 檢查出可疑 腫塊,因此乳房攝影(mammography)作為早期乳癌篩檢的良好工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - 2. 症狀:單側下肢紅、水腫、熱、疼痛或壓痛,腳掌作 dorsiflexion 時小腿肚會痛(Homan's sign)。血栓假如打到肺部引發 pulmonary embolism,會呼吸困難、胸痛或咳血等。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- ...(4) Vena Cava Filter:為預防栓塞跑入心臟和肺部,可在下腔靜脈放入傘狀過濾器,使用 indication 如下: - a. 服用抗凝血劑的狀況下依舊反覆栓塞。 - b. DVT 的患者,但無法服用抗凝血劑。 - c. 慢性肺栓塞合併產生肺高壓之患者。 - d. 因服用抗凝血劑而產生不良併發症患者。 - e. 在 iliofemoral vein 或下腔靜脈有 free-floating thrombus。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- (C) 深部靜脈栓塞,且有慢性肺栓塞,並已造成肺高壓 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 
 ## Clinical Caveats
 

@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch03]]"
   - "[[sources/med4-book3-ch05]]"
@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med4-book4-ch02]]"
   - "[[sources/med5-book1-ch04]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Benzodiazepines, BZD (苯二氮平類)'
   - 'Benzodiazepines, BZD'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-增強 GABA-A 作用，用於 anxiety、insomnia、alcohol withdrawal、seizure 與急性激動；需注意依賴、跌倒與呼吸抑制。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+增強 GABA-A 作用，用於 anxiety、insomnia、alcohol withdrawal、seizure 與急性激動；需注意依賴、跌倒與呼吸抑制。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med4-book4-ch06]]
 - [[sources/med4-book4-ch02]]
 - [[sources/med5-book1-ch04]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- d. 藥物治療:常用包括口服 Baclofen、Diazepam、Dantrolene、Tizanidine、Clonidine等,可逐步由低劑量慢慢向上調整以到達治療目標,但缺點是全身都會受影響,所以容易造成全身無力,使得運動功能反而變差。且各藥物皆有其副作用須列入考量。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - (A) 14. 有一 50 歲病患在手術中使用 15 mg 之 diazepam (valium),經四 小時手術後轉送至恢復室,但病患於恢復室休息兩小時後仍未甦醒,因此靜脈注射 1.0 mg 之 flumazenil,病患立刻甦醒並要求拔除氣管內管,而拔除氣管內管後病患之心跳、血壓、呼吸正常, 請問下列何項不是恢復室醫師接下來的處理項目? - (A) 觀察半小時後可送回病房 - (B) 持續靜脈給予 flumazenil - (C) 必須準備放置氣管內管工具,並持續監視病患之呼吸及血氧 濃度 - (D) 向病患解釋清楚後,可考慮留置於恢復室,觀察一晚 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 【詳解】flumazenil(Anexate)為 BZD 拮抗劑,可作為 BZD intoxication 解毒劑使用,逆轉 BZD 造成之中樞鎮靜作用,通常用做診斷用,假使病患在使用 flumazenil 後甦醒,則可判斷為 BZD 造成之昏迷,而 BZD intoxication 的處置以 supportive care 為主,直到藥物本身被完全代謝掉,是故只觀察三十分鐘即送回病房不妥當。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 - 【詳解】服用 metoclopramide、Haloperidol、抗精神病藥物都可能產生錐體外症狀(extrapyramidal syndrome, EPS),可以抗組織胺(Vena)、BZD、抗膽鹼藥物(Benztropine)治療。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].

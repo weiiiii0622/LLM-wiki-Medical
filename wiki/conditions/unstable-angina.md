@@ -2,13 +2,14 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch02]]"
   - "[[sources/med3-book1-ch19]]"
   - "[[sources/med3-book1-ch11]]"
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book2-ch08]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Unstable angina (不穩定心絞痛)'
   - 'Unstable angina'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-ACS 光譜中無心肌酵素上升的缺血狀態。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ACS 光譜中無心肌酵素上升的缺血狀態。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ ACS 光譜中無心肌酵素上升的缺血狀態。 本頁已整合至 `醫(五
 - [[sources/med3-book1-ch11]]
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book2-ch08]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- · High risk unstable angina Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 1. Absolute indications: - (1) 因 heart failure 所導致的 hemodynamic compromise。 - a. Refractory cardiogenic shock • - b. 需要持續倚賴給予 IV inotropic agent 才能達到足夠的 organ perfusion。 - c. Peak $VO_2 2 11~14 mL/kg/min 且對日常活動造成限制。 - (2) 反覆性 unstable angina 且無法靠其他方法有效控制。 - (3) 病患在常規治療下仍舊體液不平衡或腎功能不穩定。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (3) 無法用藥物控制的不穩定心絞痛 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - #### 4. UA/NSTEMI 的臨床處置: Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].

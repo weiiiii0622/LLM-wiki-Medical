@@ -15,6 +15,7 @@ sources:
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book2-ch07]]"
   - "[[sources/med6-book2-ch08]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Rubella (德國麻疹)'
   - 'Rubella'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-通常較輕微，但孕期感染可造成 congenital rubella syndrome。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+通常較輕微，但孕期感染可造成 congenital rubella syndrome。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book2-ch07]]
 - [[sources/med6-book2-ch08]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- 2. 腦性麻痺通常發生於子宮內、生產過程或出生後三年內發生的,原因如下: - (1) 出生前:母親智能障礙、癲癇、懷孕期間感染疾病或服用的藥物所引起,例如: 德國麻疹、帶狀皰疹、輻射線、缺氧、先天腦部畸形、孕婦於懷孕期間無法有 效控制糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(sp Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- b. 其他像是子宮內感染(rubella、CMV、toxoplasmosis和syphilis)、產程中缺氧、腦炎或腦膜炎也會造成聽力障礙。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - ...視軸,就會明顯降低視力,嚴重時甚至可以導致失明。原因可分為三類:遺傳因素、先天代謝異常、母親因素(如母親懷孕期感染或服用特定藥物等)。 - (1) 單眼的先天性白內障(佔 1/3) 較常是偶發性,主要與眼球發育異常或是外傷和 感染(如先天性德國麻疹感染)有關。 - (2) 雙眼先天性白內障則較常與顯性遺傳(具家族史)有關,其中約60%病患可發現患有先天性代謝疾病(如半乳糖血症 galactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinop Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - ...適症狀。 ・身體檢查:體重、身高、血壓、甲狀腺、乳房、骨盆腔檢查、胸部及腹部檢查。 ・實驗室檢查:血液常規(WBC, RBC, Plt, Hct, Hb, MCV)、血型、Rh 因子、B型肝炎(HBsAg, HBeAg)、梅毒(VDRL)、德國麻疹(Rubella IgG)、HIV、尿液常規。 二、例行產檢。 註:若德國麻疹抗體檢查呈陰性之孕婦,宜在產後注射德國麻疹疫苗 ※預產期評估(Naegele's rule):LMP 日期,月+9,日+7+(週期-28) | | | | | 第2次 | | 16 週 | 例行產檢。 | | | | | 第3次 | | 20 週 | • 例行產檢。 | | | | | | 期,妊娠 | | • 超音波檢查。 | | | | | | 17 週至 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -63,7 +67,6 @@ tags:
 - 3. 危險因子:早產兒、女性、高海拔出生的嬰兒、周產期缺氧、母親懷孕期間感染德國麻疹。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - (A) 麻疹、德國麻疹、腮腺炎混合疫苗 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - ...---------------------------------|-----------------| | | wasaki disease)接受高劑量靜那一種疫苗不宜接種,以免影(A) 流感疫苗(B) 日本腦炎疫苗(C) 麻疹、腮腺炎、德國麻疹 | | | | (C) 10. | 下列何種情況,在川崎氏症( | Kawasaki disease)孩童最少發生? | 103(一)專 | | | , , , , , , , , , , , , , , , , , , , , | (B) 膿尿(pyuria) | 醫四 -28 | | | (C) 補體 C3、C4 下降 | | | | 1 | C3、C4 下降情形。 | 非自體免疫性疾病,故不會有發生 | | | : | 有米粒至 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】出生後三個月內若發生 nephrotic syndrome,則診斷為 先天性腎病症候群(congenital nephrotic syndrome)。其中最 常見的是 Finnish type congenital nephrotic syndrome(位在第 19 對染色體上的 NPHS1 gene 發生突變,影響 nephrin 製造), 類固醇或是免疫抑制劑治療無效,病人約在 5 歲左右死亡。此 外,syphilis、toxoplasmosis、rubella、cytomegalovirus、HIV、 hepatitis B 感染都有可能造成先天性腎病症候群。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 
 ## Clinical Caveats
 

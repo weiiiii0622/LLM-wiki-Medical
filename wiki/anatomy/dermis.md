@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Dermis (真皮)'
   - 'Dermis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-真皮含膠原、彈性纖維、血管、神經與附屬器官，決定皮膚強度與彈性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+真皮含膠原、彈性纖維、血管、神經與附屬器官，決定皮膚強度與彈性。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...dvisory Panel (NPUAP),依其嚴重程度可分為四期和兩類: - (a) 第一期:皮膚完整無破損,但表面呈紅斑,移動位置使該處不受壓迫後, 該紅斑仍持續超過 30 分鐘。 - (b) 第二期:表皮受損出現水泡和紅疹,並傷及部分真皮層。 - (c) 第三期:表皮、真皮完全受損,並傷及皮下組織或脂肪,甚至筋膜層。 - (d) 第四期:深度更深,肌肉、肌腱或骨頭暴露出來。 - (e) 除上述四期外在 2007 年 NPUAP 新增了兩種分類: suspected deep tissue injury (DTI),代表皮膚完整但表面有變色情形,主要用在深層組織有受損但皮膚表面完整的情形;和 Unstageable wounds:用在 full-thickness (st Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - · 因為真皮層的彈性纖維減少及排列方向改變,而形成妊娠紋 (striae gravidarum) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 3. 皮膚移植(skin graft):假如傷口太大或位置不適合手術縫合,就會考慮從身體其他地方將皮膚取下,移植到傷口處。依真皮層被取下的多寡可分為全層皮膚移植(full-thickness graft, FTSG)與分層皮膚移植(split-thickness graft, STSG)。注意:皮膚移植並不包含移植之皮膚本身的血管。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
 - 傷口癒合有其一定步驟,皮膚最外層由上皮層(epidermis)和真皮層(dermis)作為屏障保護的作用,一旦受到破壞產生傷口、微血管破裂,身體就會開始一連串的癒合過程。也許因為傷口種類不同每一時期長短不一,甚至可同時看到不同時期的組織一起出現,但傷口仍舊是依循順序去癒合的。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
@@ -72,7 +75,6 @@ tags:
 - 2. 病因:病人的自體抗體攻擊類天疱瘡抗原(Bullous pemphigoid antigen)BPAg1 和BPAg2。BPAg 位於連接基底層(stratum basale)和 Basement membrane(位於表皮層和真皮層之間)的半胞橋小體(hemidesmosome)上,與抗體結合之後活化補體及發炎反應,破壞基底層細胞與其下真皮層的聯結,表皮(epidermis)與真皮(dermis)之間就裂開了。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (1) 基底層 (Stratum basale) 與其下的真皮層分離,形成表皮層下裂縫 (Subepidermal cleft),又稱 subepidermal blister。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
 - (2) 嗜中性球、嗜伊紅性細胞和淋巴球浸潤於真皮層上層。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (1) 表皮層的感染為 Impetigo, 又稱膿痂疹或膿疱病, 外觀為一粒粒小紅色瘡 (red sore), 假使沒加以治療, 感染侵犯至真皮層則為 Ecthyma。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 
 ## Clinical Caveats
 

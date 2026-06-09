@@ -43,6 +43,7 @@ sources:
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Headache (頭痛)'
   - 'Headache'
@@ -57,7 +58,7 @@ tags:
 
 ## Summary
 
-頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+頭痛需先分辨 primary headache 與 secondary red flags，如 CNS infection、SAH、IICP、tumor、temporal arteritis。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +101,13 @@ tags:
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book2-ch04]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- d. 症狀:血壓比平常上升 20~40 mmHg、頭痛(像被捶打)、視力模糊、面部潮紅、鼻塞、心搏緩慢;脊髓損傷部位以上出汗、潮紅,脊髓損傷部位以下皮膚蒼白,出現雞皮疙瘩;體溫調節也會出現異常。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (e) 因肺活量減少造成換氣不足, 使血中二氧化碳上升, 病人會表現頭痛、 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (1) 創傷後水腦症(posttraumatic hydrocephalus):約有四到七成的患者腦室會擴大,腦壓通常不會跟著升高(normal pressure type)。常見症狀有頭痛、噁心嘔吐、意識改變。電腦斷層上可見腦室周圍較亮(periventricular lucency)、腦溝消失及腦室不規則擴張。治療上主要是腦室引流手術。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (4) 症狀:通常為單側發生、視力模糊、虹視(halo vision)、瞳孔半放大且固定無 光反應(mid-dilated,fix pupil)、眼睛發紅、結膜充血、角膜水腫、眼睛脹痛、 頭痛、噁心嘔吐。急性青光眼發作時,常因血壓升高、嘔吐等而被誤診為高血 壓急症或腸胃炎,而導致錯誤治療使其不易緩解,甚至造成失明。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - ...水排出。 | 副作用:低血壓、眼 | Brimonidine | | | 其中 apraclonidine 可作為雷射治療後, | 睛刺激感、口乾、疲 | Apraclonidine | | | 預防術後眼壓突升,具神經保護效果。 | 倦、頭痛。 | | | | -第一線用藥。 | | | | Prostaglandin | -促進房水由上脈絡膜腔 (suprachoroidal | 副作用:眼部副作用: | Latanoprost | | analog | space) 排出,效果強,只需每日點一次 | 結膜充血、睫毛變長、 | (Xalatan) \ | | | 即可。 | 睫毛、虹膜、眼部周 | travoprost | | | - 第二線用藥,但有逐漸走向第一線用 | Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - 4. 前部缺血性視神經病變(anterior ischemic optic neuropathy, AION): - (1) 簡介:好發於 40~60 歲,通常為單眼,常伴有高血壓、動脈硬化、糖尿病等,或巨大細胞動脈炎(giant cell arteritis)。 - (2) 臨床症狀: 無疼痛的視力突然減退,若患巨大細胞動脈炎者,會有頭痛,顎痛, 頭皮壓痛、肌肉關節痠痛、體重減輕、食慾不振等症狀。 - (3) 徵候:視力減退(剩眼前手指數),輸入性瞳孔缺損,視神經盤蒼白水腫併有火 焰狀出血,視野水平缺損。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].

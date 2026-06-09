@@ -21,6 +21,8 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book3-ch03]]"
+  - "[[sources/med6-book3-ch07]]"
 aliases:
   - 'Venous thromboembolism, VTE (靜脈血栓栓塞)'
   - 'Venous thromboembolism, VTE'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+深部靜脈血栓與肺栓塞屬同一血栓疾病光譜。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,13 @@ tags:
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book3-ch03]]
+- [[sources/med6-book3-ch07]]
 
 ## Key Details From Sources
 
+- 1. 膝關節置換手術後復健目標: - (1) 疼痛控制。 - (2) 預防長期臥床而引發 DVT、pulmonary embolism 或 pressure ulcers 等併發症。 - (3) 適當的恢復關節活動度。 - (4) 加強膝蓋周圍肌肉肌力。 - (5) 幫助病患達到 ADL 的功能性獨立。 - (6) 在輔具幫助下能獨立行走。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
+- ...部位置於十字型中央。兩組電極會各自放射中頻波穿透皮膚,其電磁波會互相加乘而產生較單組電極可穿透更深的電磁波。 - (3) 適應症:下背痛、退化性關節炎、類風濕性關節炎、韌帶扭傷、肌腱炎、肌肉 肌膜疼痛等。 - (4) 禁忌症: - a. 動靜脈血栓或血栓性靜脈炎(thrombophlebitis)。 - b. 勿放在頸動脈竇附近,以免造成心律不整。 - c. 心律調節器附近,以免干擾節律器功能。 - d. 孕婦、癲癇、癌症。 - e. 感覺異常者或無法表達溝通者。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - (D) 5. 對於進行婦科大手術的病人,為了防止深部靜脈血栓症(deep vein thrombosis),下列何種處置最佳? Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 【詳解】深部靜脈血栓症的預防方式包括:儘早下床活動、補 充水分、(A) 彈性襪壓迫和 (D) 氣式腿部間歇性壓迫等,以(D) 為最佳。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (C) deep vein thrombosis Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -75,8 +81,6 @@ tags:
 - 【詳解】服用 warfarin 要監控 prothrombin time (PT), 服 用 heparin 才是監控 aPTT。服用 thyroxine 會造成凝血因子的 turnover rate 加快,使得 PT prolonged,所以應適當降低 warfarin 服用量。而服用口服避孕藥有增加DVT的危險,故需增加 warfarin 服用量。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 1. 常見原因: - (1) 動靜脈血栓。 - (2) 最常見為 SMA embolis。 - (3) 醫源性: 腹主動脈瘤手術時將下腸繋膜動脈 ligation 後造成 left & sigmoid colon ischemia。 - (4) 血管炎: polyarteritis nodosa。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 - 1. 周邊靜脈血栓經血液循環流到肺動脈並塞住,而血栓來源大多是下肢深層靜脈拴。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 2. 危險因子同 DVT: Virchow's triad。 - (1) Stasis:血液鬱積,例如長期臥床、鬱血性心衰竭、中風、搭乘飛機飛行大於 6 小時。 - (2) Hypercoagulable state:血液凝固性增加,例如癌症、口服避孕藥、protein C or S deficiency、Antithrombin III deficiency、Antiphospholipid syndrome 等。 - (3) Endothelium injury: 靜脈內皮細胞受損, 例如手術( 髖關節或膝關節手術) 外傷、 之前有過 DVT。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- ...)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) (B) 急性膽囊炎(acute cholecystitis) (C) 胃腸道皮膚瘻管(gastrointestinal-cutaneous fistulas) (D) 靜脈血栓栓塞(venous thromboembolism) | 103( 二 ) 專醫五 -10 | | (D) | 11. 在長期無法進食之受傷病人,其體內營養之補充途徑,已經證明以腸道營養(enteral nutrition)優於非腸道營養(parenteral nutrition),下列原因何者錯誤? (A)價格較低 (B)合併症較少 (C)腸道黏膜(intestinal mucosa)較不易萎縮 (D)易引發吸入性肺炎(aspirat Source: [[sources/med5-book1-ch01|甲、外科營養]].
 
 ## Clinical Caveats
 

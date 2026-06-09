@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch05]]"
   - "[[sources/med4-book4-ch03]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book1-ch16]]"
   - "[[sources/med5-book1-ch20]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Subarachnoid hemorrhage, SAH (蜘蛛膜下腔出血)'
   - 'Subarachnoid hemorrhage, SAH'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-常由 ruptured aneurysm 引起，典型 thunderclap headache，需注意再出血與 vasospasm。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常由 ruptured aneurysm 引起，典型 thunderclap headache，需注意再出血與 vasospasm。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book1-ch09]]
 - [[sources/med5-book1-ch16]]
 - [[sources/med5-book1-ch20]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- f. 併發症:如果高血壓的情形不加以控制,會引發併發症,甚至死亡。 - (a) Retinal Hemorrhage • - (b) CVA • - (c) SAH · seizure · death · Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - B. Aneurysmal SAH 146 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - F. SAH 分級: Hunt and Hess Grade 148 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - H. Aneurysmal SAH 的外科處置 149 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
@@ -64,7 +67,6 @@ tags:
 - 1. 腦膜炎、蜘蛛膜下腔出血(subarachnoid hemorrhage = SAH)最常被提及比較。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - 3. 臨床診斷步驟:電腦斷層→腰椎穿刺: - (1) 電腦斷層若沒有 mass lesion,才可安全地進行腰椎穿刺;若有 mass lesion, 腰椎穿刺後造成的 CSF 減少,可能導致 herniation;電腦斷層若沒有明顯的 SAH,才需進行腰椎穿刺看是否有影像學上看不到的較小量的 SAH。 - (2) 腦膜炎的 CSF 可發現 protein、WBC 會增加; traumatic tap 也可見 WBC,但 WBC: RBC 比值約是 1:500。 - (3) 蜘蛛膜下腔出血的 CSF 可見紅色出血,第一到最後一根 CSF 管都持續有血染 (blood stained),而 traumatic tap 到最後一根 CSF 管血染漸淡。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - ...5~40 | 0~5 | 50~100 | Clear | 9~18 | | 發炎 (AIDP, MS) | > 40 | 0~5 | 50~100 | Clear | 9~18 | | 病毒性腦膜炎 | 50~100 | (ICH) | 蜘蛛膜下腔出血(SAH) | 慢性硬膜下出血(Chronic SDH) | 硬膜上出血(EDH) | |--------|------------------------|------------------|--------------------------|----------------| | 常見原因 | 高血壓、動靜脈畸形(AVM) | 動脈瘤(交通支) | 老年人跌倒 | 嚴重外傷 | | 出血處 | 腦實質內 | 腦室、脊髓液內 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- a. 50% 為 idiopathic,其他可能因為 SAH、meningitis 後,導致 CSF 吸收不正常; Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

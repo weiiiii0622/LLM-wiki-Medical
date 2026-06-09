@@ -9,6 +9,7 @@ sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book5-ch04]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Orthostatic hypotension (姿勢性低血壓)'
   - 'Orthostatic hypotension'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-姿勢改變後血壓下降造成頭暈或暈厥。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+姿勢改變後血壓下降造成頭暈或暈厥。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book5-ch04]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- (1) 姿態性低血壓 (Orthostatic hypotension): - a. SCI 影響到交感神經的訊息傳遞,當病患姿勢由平躺轉為坐起或站立時,血壓明顯下降(SBP下降> 20 mmHg; DBP下降> 10 mmHg),即為姿態性低血壓。 - b. 姿態性低血壓好發在 T6 以上的損傷,因 T1~L2 負責加速心跳、血管收縮和增加動脈壓(心臟含血管的神經支配主要由 T1~7 負責)。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - i. $\alpha_1$ -blockers 對三個亞型的平滑肌都放鬆的作用,故會造成: - (i) 逆行性射精 (retrograde ejaculation,膀胱底及攝護腺有 α1A):5%。 - (ii) 疲勞感及姿勢性低血壓 (orthostatic hypotension,全身血管有 αIB):5%。 - (iii)造成頭暈、鼻炎或頭痛(鼻道有 αID):10%。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ...10 年,長期規則服用降血糖藥物,飯前血糖大約控制在 180 mg/dL 左右。近 3 個月來,逐漸出現手掌無力及不靈活,晚上也常因肢體末端灼熱感而無法入睡。下列臨床症狀,那一項最不可能在陳老太太身上出現? (A) 肌腱反射低下 (B) 姿勢性低血壓(orthostatic hypotension) (C) 手掌肌肉萎縮 (D) Babinski sign 呈現大腳趾背伸反應(dorsiflexion response) | 醫四 -57 | | (D) | 5. 下列何種神經病變較不可能是糖尿病所導致? (A) Autonomic neuropathy (B) Distal sensory neuropathy (C) Cranial nerve palsy (D) Polyra Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 【詳解】(A) 此病的特色是嚴重的姿勢性低血壓。 Source: [[sources/med4-book4-ch06|己、大腦疾病]].

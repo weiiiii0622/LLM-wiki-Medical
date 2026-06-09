@@ -11,6 +11,8 @@ sources:
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med5-book2-ch11]]"
   - "[[sources/med5-book6-ch04]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch04]]"
 aliases:
   - 'Atlantoaxial subluxation (寰樞椎半脫位)'
   - 'Atlantoaxial subluxation'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,15 @@ RA 頸椎侵犯可造成 C1-C2 instability 與神經壓迫風險。 本頁已整
 - [[sources/med5-book2-ch16]]
 - [[sources/med5-book2-ch11]]
 - [[sources/med5-book6-ch04]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch04]]
 
 ## Key Details From Sources
 
+- (1) 人體脊柱有7節頸椎、12節胸椎、5節腰椎、5節融合一體的薦椎和退化的尾椎, 而脊神經分別有 C1~8、T1~12、L1~5 以及 S1~5,除了 C1 從第一頸椎上面發出 以及 C8 從第七頸椎和第一胸椎間發出之外,其他脊神經皆從相對應的脊椎下 的間隙發出。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (1) C1~C3:此類患者嘴巴可咀嚼、吞嚥、做吹吸動作,但需呼吸器協助呼吸,利用下巴、額頭、口桿(mouth stick)或聲音操控電動輪椅以及與人溝通。需終身倚賴他人幫忙。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- ...受傷部位 | 可做出的動作 (Abilities) | 功能性目標 (Functional Goals) | |-------|--------------------|-------------------------------| | C1-C3 | C1/C2 用於支撐和轉動頭部,C3 | 呼吸: C3 其橫隔膜功能約達 1/3,僅能做微弱的腹部呼 | | | 受傷者能有限的移動頭和頸部。 | 吸,需借助呼吸器呼吸。 | | | | 溝通:說話有時會有困難、或受限制、甚或不能說話。 | | | | 如說話能力受到限制,可藉由輔助科技如眼動電腦、或 | | | | 口含敲擊棒等來與外界溝通。 | | | | 日常技能:有些技能可藉由一些輔助科技而獨立完成, | | | |... Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- ...217 頁) | 提供中下段頸椎更好的固定性,可限制頸椎屈曲、伸張、側移和轉動 (rotation)。 | 頸椎扭傷或挫傷頸椎穩定性骨折可躺著穿脫適合臥床病人使用。 | | | | Minerva | 與 SOMI 相比可提供更高位頸椎 (C2 以下)的固定效果。 | | | | | 耶魯式頸胸椎支架 (Yale cervicothoracic brace) | 等同於費城式頸圈再加上胸部固定(thoracic extension),可額外提供 C6-T2 的固定。 | | | | | 四式頸椎裝具(four-poster brace) | 固定效果與 SOMI 相近。 | | | | | 暈輪式背心、頭圈式支架 (Halo vest)(圖請參照第 217 頁) | 有頭釘釘 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - ...teral + SI injury B3: lateral compression - contralateral + SI injury | | С | RotationallyunstableVertically unstable | C1: unilateral + SI injury C2: bilateral + SI injury C3: associated acetabular fracture + SI injury | Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - (5) Stage C1: Stage B1 +淋巴轉移。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 - (6) Stage C2: Stage B2 +淋巴轉移。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].

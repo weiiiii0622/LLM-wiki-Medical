@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book3-ch04]]"
 aliases:
   - 'Felty syndrome (Felty 氏症候群)'
   - 'Felty syndrome'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合�
 - [[sources/med5-book6-ch09]]
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch05]]
+- [[sources/med6-book3-ch04]]
 
 ## Key Details From Sources
 
+- ...候群(Carpaltunnel syndrome) | | (圖請參照第 215 頁) | 關節 (Metacarpophalangeal joint, MCP joint) 及其遠端各手指保持可自由活動。 | • 手腕急性關節發炎(OA/RA) | | Thumb spica splint | 自手掌 (hand based thumb spica spint) 或前臂 | 手腕扭傷 (sprain)媽媽手 (de Quervain's | | (拇指八字型副木)(圖請參照第 215 頁) | (forearm based thumb spica splint),包覆至大拇指掌指關節,指骨間關節 (IP joint) 及其遠端保持可自由活動,大拇指固定在外展(abducti Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - (3) Sjögren's syndrome、RA、SLE、皮肌炎等免疫疾病。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - 1. 當出現嚴重、持續性的周邊角膜浸潤、潰瘍或無法解釋之周邊角膜變薄時,應考慮 是否為全身性膠原血管疾病所造成。最常見的疾病是類風濕性關節炎(RA)造成 的角膜炎,這些角膜炎的表現包含了: - (1) Peripheral ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (Wege Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - c. 自體免疫性疾病(如:RA、SLE)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].

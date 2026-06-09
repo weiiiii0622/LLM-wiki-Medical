@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Cardiomyopathy (心肌病變)'
   - 'Cardiomyopathy'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-心肌結構或功能異常的疾病群。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌結構或功能異常的疾病群。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch07]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- · Hypertrophic cardiomyopathy and other forms of left ventricular outflow tract obstruction Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...rceps)機率高 | | | | 新生兒 | · 三高二低:呼吸窘迫症候群、紅血球增多症 (polycythemia) 和高膽紅 | | | | | 素血症 (hyperbilirubinemia)、低血糖、低血鈣 | | | | | ・心肌病變、新生兒死亡 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (2) 狹義來說,在台灣,ECMO 適應症要以健保德政的訂定給付標準為主: - a. 心因性休克: - (a) 心臟手術重建後,暫時性心臟功能障礙 (stunned heart)。 - (b) Bridge: 為準備心臟手術或心室輔助器或心臟移植, 而暫代心臟功能。 - (c) 可回復性的心肌病變。 - (d) 肺栓塞 (pulmonary embolism)。 - (e) 急性心肌梗塞併心因性休克。 - (f) 其他心因性休克。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - (B) 窄縮性心包膜炎 (constrictive pericarditis) 與限制性心肌病 變(restrictive cardiomyopathy)的鑑別診斷往往需要藉由右 側心導管的壓力追蹤圖來區分 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -78,7 +81,6 @@ tags:
 - ...食後數天至一周內,會出現嘔吐、嗜睡、食慾減低、呼吸急促、黃疸及抽搐等現象,身上散發楓樹糖漿的體味或尿味。 | | 中鏈脂肪酸去氫酶缺乏症(中鏈醯輔酶A去氫酶缺乏症) | 體染色體隱性遺傳的脂肪酸代謝異常疾病。此疾病會導致代謝中毒產生腦病變、心肌病變、及肌肉病變等症狀。患者會引發嘔吐、肝脾腫大、低血酮性低血糖、意識模糊及抽搐。在急性期,血中的氨、尿酸、肝臟轉胺(liver transaminase)以及肌酸磷酸激酶(creatine phosphokinase)常常會上升。 | | 戊二酸血症第一型(戊二酸尿症第一型) | 因為戊二醯基輔酶 A 去氫酶缺陷,導致無法代謝,此有毒物質會堆積於身體中。患者在兩歲之前發展正常,可能有無症狀的巨腦,在嬰兒期的晚期則會有運動困難、漸進式的手足 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (4) 先天性心臟病(右側心臟):肺動脈狹窄(pulmonary valvular stenosis)、心肌肥大病變(hypertrophic cardiomyopathy)。有些病人合併心房中膈缺損(ASD)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - ...性病人因再生不良性貧血而長期接受輸血治療,病人全 | 102(二)專 | | (-) | 身皮膚呈現鐵灰色,血中 ferritin 高於正常值 500 倍,下列何種併發 | 醫三-5 | | | 症與長期輸血無關? | | | | (A) 心肌病變(cardiomyopathy) | | | | (B) 肝硬化 (liver cirrhosis) | | | | (C) 糖尿病 (diabetes mellitus) | | | | (D) 白內障 (cataract) | | | (B) 1 | 9. 在有慢性溶血疾病的病人,下列何種病毒感染會導致暫時性的再生 | 102(二)專 | | (-, | 不良性貧血(transient aplastic crisis)? | 醫三 Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (B) Cardiomyopathy Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 

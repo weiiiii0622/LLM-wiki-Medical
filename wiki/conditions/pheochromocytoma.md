@@ -28,6 +28,7 @@ sources:
   - "[[sources/med5-book5-ch09]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Pheochromocytoma (嗜鉻細胞瘤)'
   - 'Pheochromocytoma'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒茶酚胺分泌腫瘤可造成陣發性高血壓、頭痛、心悸、盜汗。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,11 @@ tags:
 - [[sources/med5-book5-ch09]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (1) 心臟移植後生理學上的變化: - a. 移植後的心臟由於沒有神經支配(交感和副交感)所以當患者處於休息狀態時, 少了迷走神經(副交感)對 SA node 的抑制,其基礎心率會接近 100 bpm。 - b. 少了交感神經的支配,運動時需靠血中的 catecholamine 增快心跳和心輸出量,但增加速度較緩慢,且運動時所能達到的最大心跳數會比正常人低 20~25%。 - c. 運動完後,心臟也須花較長的時間才能恢復到休息時的狀態。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 4. 高血壓脈絡膜病變:常見於急性高血壓的年輕人(如:子癲前症、子癲症、嗜鉻細胞瘤)或惡性高血壓的病人。眼底典型表現有 Elschnig's spot(代表局部脈絡膜阻塞)、Siegrist streak(代表類纖維蛋白壞死)或滲出性視網膜剝離。眼底螢光血管攝影檢查早期為低灌注(hypoperfusion),晚期則滲漏而高螢光。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - Ⅲ. 髓質疾病 167 - A. 嗜鉻細胞瘤 (Pheochromocytoma) 167 - B. 神經母細胞瘤 (Neuroblastoma) 168 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -90,7 +93,6 @@ tags:
 - (D) 1. 有關多發性內分泌贅瘤症候群 (multiple endocrine neoplasia , 107(-) 専 MEN) 的敘述 , 下列何者錯誤? - (A) MEN 1 包含副甲狀腺機能亢進(hyperparathyroidism) - (B) MEN 2A 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (C) MEN 2B 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (D) MEN 2C 包含嗜鉻細胞瘤 (pheochromocytoma) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
 - ...之使用時機,下列何者錯誤? (A) 受贈者有嚴重的肺高血壓 (B) 捐贈者的心臟太小 (C) 受贈者與捐贈者的血型不相配 (D) 捐贈者心臟缺血時間太長 9. 心臟移植患者於運動量增加時,下列何者最不可能發生? (A) 血中循環之兒茶酚胺(catecholamine)量增加 (B) 心輸出量增加 (C) 心跳速率立即增加 | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- 隨著研究進展,目前思覺失調症產生的理論認為疾病的產生並非單一神經傳導物質 dopamine 的失衡,腦中其他神經傳導物質如 norepinephrine、serotonin、GABA、 glutamate、neuropeptide 的失去平衡也可能有關。研究也顯示,血液中香草酸 (homovanillic acid, catecholamine 的代謝物) 濃度越高,精神症狀越嚴重,對於抗精神病藥物的反應也越好。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
 
 ## Clinical Caveats
 

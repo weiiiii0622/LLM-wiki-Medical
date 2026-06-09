@@ -218,7 +218,7 @@ SEEDS: tuple[TopicSeed, ...] = (
     TopicSeed("concept", "antiplatelet-therapy", "Antiplatelet therapy (抗血小板治療)", ("抗血小板", "antiplatlet", "antiplatelet", "Aspirin", "Clopidogrel", "GP IIb"), "冠心症與 PCI 的核心血栓預防策略。"),
     TopicSeed("concept", "anticoagulation", "Anticoagulation (抗凝治療)", ("抗凝", "anticoagulation", "Heparin", "warfarin", "NOAC", "aPTT"), "血栓疾病與 AF 中風預防的重要治療概念。"),
     TopicSeed("concept", "revascularization", "Revascularization (血管再暢通)", ("revascularization", "再暢通", "PCI", "CABG"), "以 PCI 或 CABG 改善冠狀動脈血流。"),
-    TopicSeed("concept", "rate-control", "Rate control (心率控制)", ("rate control", "心率控制", "Digoxin", "beta blocker"), "AF 等心律不整控制心室反應速率的策略。"),
+    TopicSeed("concept", "rate-control", "Rate control (心率控制)", ("rate control", "心率控制", "ventricular rate control", "Digoxin"), "AF 等心律不整控制心室反應速率的策略。"),
     TopicSeed("concept", "rhythm-control", "Rhythm control (節律控制)", ("rhythm control", "節律控制", "cardioversion", "antiarrhythmic"), "恢復或維持竇性心律的策略。"),
     TopicSeed("concept", "oxygen-therapy", "Oxygen therapy (氧氣治療)", ("氧氣", "oxygen therapy", "O2", "鼻導管", "面罩"), "低氧血症與急性呼吸困難的支持治療。"),
     TopicSeed("concept", "smoking-cessation", "Smoking cessation (戒菸)", ("戒菸", "smoking cessation", "抽菸"), "心血管與肺部疾病最重要的風險修正之一。"),
@@ -614,7 +614,7 @@ FOURTH_BOOK_SEEDS: tuple[TopicSeed, ...] = (
     TopicSeed("condition", "thrombophilia", "Thrombophilia (血栓傾向)", ("Thrombophilia", "血栓傾向", "Protein C", "Protein S", "Factor V Leiden", "antithrombin"), "先天或後天抗凝失衡造成血栓風險增加。"),
     TopicSeed("condition", "myelodysplastic-syndrome", "Myelodysplastic syndrome, MDS (骨髓發育不良症候群)", ("MDS", "Myelodysplastic", "骨髓發育不良"), "造血幹細胞異常造成無效造血與 cytopenia，可進展為 AML。"),
     TopicSeed("condition", "acute-myeloid-leukemia", "Acute myeloid leukemia, AML (急性骨髓性白血病)", ("AML", "acute myelogenous", "acute myeloid", "急性骨髓", "Auer rod", "MPO"), "骨髓系 blast 增生的急性白血病，治療依 cytogenetics/molecular risk 分層。"),
-    TopicSeed("condition", "acute-lymphoblastic-leukemia", "Acute lymphoblastic leukemia, ALL (急性淋巴性白血病)", ("ALL", "acute lymphoblastic", "急性淋巴", "TdT", "CNS prophylaxis"), "淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。"),
+    TopicSeed("condition", "acute-lymphoblastic-leukemia", "Acute lymphoblastic leukemia, ALL (急性淋巴性白血病)", ("ALL", "acute lymphoblastic", "急性淋巴性白血病", "急性淋巴母細胞白血病", "TdT", "CNS prophylaxis"), "淋巴母細胞急性白血病，兒童常見並需 CNS prophylaxis。"),
     TopicSeed("condition", "acute-promyelocytic-leukemia", "Acute promyelocytic leukemia, APL (急性前骨髓性白血病)", ("APL", "acute promyelocytic", "M3", "t(15;17)", "PML-RARA", "ATRA"), "AML 特殊亞型，PML-RARA 造成分化停滯且高度 DIC 風險，ATRA 改善預後。"),
     TopicSeed("condition", "differentiation-syndrome", "Differentiation syndrome (分化症候群)", ("Differentiation syndrome", "retinoic acid syndrome", "分化症候群", "ATRA"), "APL 使用 ATRA/arsenic 等分化治療後可發生發燒、水腫、呼吸窘迫等 capillary leak 表現。"),
     TopicSeed("condition", "chronic-myeloid-leukemia", "Chronic myeloid leukemia, CML (慢性骨髓性白血病)", ("CML", "chronic myeloid", "chronic myelogenous", "慢性骨髓性", "Philadelphia", "BCR-ABL"), "BCR-ABL 相關 myeloproliferative neoplasm，可有 leukocytosis 與 splenomegaly。"),
@@ -1608,7 +1608,7 @@ SIXTEENTH_BOOK_SEEDS: tuple[TopicSeed, ...] = (
     TopicSeed("anatomy", "eye-anatomy", "Eye anatomy (眼球解剖)", ("eye anatomy", "眼球解剖", "眼睛概論", "眼球壁", "前房", "後房"), "眼球由眼球壁、內容物與附屬構造組成；臨床定位需連結 cornea、lens、uvea、retina、optic nerve 與 orbit。"),
     TopicSeed("anatomy", "cornea", "Cornea (角膜)", ("cornea", "角膜", "corneal epithelium", "Bowman", "Descemet", "endothelium"), "角膜是主要屈光介質與眼表屏障，透明度仰賴規則膠原排列、內皮幫浦與完整淚膜。"),
     TopicSeed("anatomy", "lens-eye", "Lens (水晶體)", ("lens", "水晶體", "晶狀體", "zonule", "lens capsule"), "水晶體提供可調節屈光力；混濁造成 cataract，懸韌帶異常可造成 ectopia lentis。"),
-    TopicSeed("anatomy", "retina", "Retina (視網膜)", ("retina", "視網膜", "neurosensory retina", "RPE", "macula", "fovea"), "視網膜含感光細胞、神經細胞與 retinal pigment epithelium，是黃斑病變、血管阻塞與剝離的核心部位。"),
+    TopicSeed("anatomy", "retina", "Retina (視網膜)", ("retina", "視網膜", "neurosensory retina", "retinal pigment epithelium", "macula", "fovea"), "視網膜含感光細胞、神經細胞與 retinal pigment epithelium，是黃斑病變、血管阻塞與剝離的核心部位。"),
     TopicSeed("anatomy", "uvea", "Uvea (葡萄膜)", ("uvea", "葡萄膜", "iris", "ciliary body", "choroid"), "葡萄膜包含虹膜、睫狀體與脈絡膜，與發炎、腫瘤、房水生成及 blood-ocular barrier 有關。"),
     TopicSeed("anatomy", "optic-nerve", "Optic nerve (視神經)", ("optic nerve", "視神經", "optic disc", "視神經盤"), "視神經傳遞視網膜 ganglion cell axons；病變可表現為視力下降、視野缺損、RAPD 或 optic disc swelling。"),
     TopicSeed("anatomy", "orbit", "Orbit (眼眶)", ("orbit", "眼眶", "orbital apex", "extraocular muscles", "眼外肌"), "眼眶容納眼球、眼外肌、神經血管與脂肪，疾病可造成 proptosis、眼球運動受限、疼痛或視神經壓迫。"),
@@ -1711,7 +1711,81 @@ SIXTEENTH_BOOK_SEEDS: tuple[TopicSeed, ...] = (
 )
 
 
-ALL_SEEDS: tuple[TopicSeed, ...] = SEEDS + SECOND_BOOK_SEEDS + THIRD_BOOK_SEEDS + FOURTH_BOOK_SEEDS + FIFTH_BOOK_SEEDS + SIXTH_BOOK_SEEDS + SEVENTH_BOOK_SEEDS + EIGHTH_BOOK_SEEDS + NINTH_BOOK_SEEDS + TENTH_BOOK_SEEDS + ELEVENTH_BOOK_SEEDS + TWELFTH_BOOK_SEEDS + THIRTEENTH_BOOK_SEEDS + FOURTEENTH_BOOK_SEEDS + FIFTEENTH_BOOK_SEEDS + SIXTEENTH_BOOK_SEEDS
+SEVENTEENTH_BOOK_SEEDS: tuple[TopicSeed, ...] = (
+    # Rehabilitation concepts, functional assessment, and neurologic rehabilitation.
+    TopicSeed("concept", "rehabilitation-medicine", "Rehabilitation medicine (復健醫學)", ("rehabilitation medicine", "復健醫學", "復健科", "physical medicine"), "以功能、活動、參與和生活品質為核心，整合物理治療、職能治療、語言治療、輔具與跨專業照護。"),
+    TopicSeed("diagnostic", "manual-muscle-testing", "Manual muscle testing, MMT (徒手肌力測試)", ("manual muscle test", "Manual muscle testing", "MMT", "肌力測試", "muscle power"), "徒手肌力測試以 0-5 級評估肌肉收縮與抗重力/抗阻力能力，是神經與復健功能評估基本工具。"),
+    TopicSeed("diagnostic", "modified-ashworth-scale", "Modified Ashworth scale, MAS (改良 Ashworth 痙攣量表)", ("Modified Ashworth", "Ashworth", "MAS", "spasticity scale", "痙攣量表"), "以被動活動阻力分級 spasticity，常用於 stroke、SCI、CP 等上運動神經元病灶追蹤。"),
+    TopicSeed("diagnostic", "functional-independence-measure", "Functional Independence Measure, FIM (功能獨立量表)", ("Functional Independence Measure", "FIM", "功能獨立量表"), "以自理、括約肌、轉位、行走、溝通與社會認知等面向量化復健病人的照護需求與功能進步。"),
+    TopicSeed("diagnostic", "barthel-index", "Barthel index (巴氏量表)", ("Barthel index", "Barthel", "巴氏量表", "ADL score"), "以 activities of daily living 評估自理與移動功能，常用於中風與復健結果追蹤。"),
+    TopicSeed("diagnostic", "gait-analysis", "Gait analysis (步態分析)", ("gait analysis", "步態分析", "步態週期", "gait cycle"), "分析 stance/swing phase、關節角度、肌肉活動與輔具需求，用於神經、骨科、截肢與小兒復健。"),
+    TopicSeed("condition", "spasticity", "Spasticity (痙攣)", ("spasticity", "痙攣", "velocity-dependent", "clonus"), "上運動神經元病灶造成速度依賴性肌張力增加，可影響姿勢、照護、疼痛與功能。"),
+    TopicSeed("condition", "contracture", "Contracture (攣縮)", ("contracture", "攣縮", "關節攣縮"), "長期固定、痙攣、疼痛或軟組織縮短造成關節活動受限，預防重點是擺位、伸展與早期活動。"),
+    TopicSeed("procedure", "range-of-motion-exercise", "Range-of-motion exercise, ROM exercise (關節活動度運動)", ("range of motion", "ROM exercise", "關節活動度", "被動關節活動"), "以被動、主動輔助或主動活動維持關節活動度、減少攣縮並促進功能恢復。"),
+    TopicSeed("procedure", "stroke-rehabilitation", "Stroke rehabilitation (中風復健)", ("stroke rehabilitation", "中風復健", "CVA rehabilitation", "腦中風復健", "中風病人復健", "腦中風病人", "中風後的肢體障礙"), "中風復健依病期整合姿勢控制、移位步行、上肢功能、吞嚥、語言、認知與二級預防。"),
+    TopicSeed("diagnostic", "brunnstrom-stage", "Brunnstrom stage (Brunnstrom 中風動作恢復分期)", ("Brunnstrom", "布朗松", "Brunnstrom stage"), "以中風後 synergy 與 voluntary movement recovery 分期，常用於偏癱動作恢復與治療目標設定。"),
+    TopicSeed("condition", "aphasia", "Aphasia (失語症)", ("aphasia", "失語症", "Broca", "Wernicke", "global aphasia"), "語言理解或表達障礙常見於 dominant hemisphere stroke，需依 fluency、comprehension、repetition 與 naming 分型。"),
+    TopicSeed("procedure", "aphasia-rehabilitation", "Aphasia rehabilitation (失語症復健)", ("aphasia rehabilitation", "失語症復健", "speech therapy", "語言治療"), "以 speech-language therapy 改善溝通功能，策略包含命名、理解、複述、替代溝通與家屬訓練。"),
+    TopicSeed("procedure", "dysphagia-rehabilitation", "Dysphagia rehabilitation (吞嚥復健)", ("dysphagia rehabilitation", "swallowing therapy", "吞嚥復健", "吞嚥治療", "吞嚥訓練"), "吞嚥復健包含姿勢調整、食物質地改變、口咽運動、代償技巧與安全進食訓練。"),
+    TopicSeed("diagnostic", "videofluoroscopic-swallow-study", "Videofluoroscopic swallow study, VFSS (吞嚥攝影檢查)", ("videofluoroscopic swallow", "VFSS", "modified barium swallow", "吞嚥攝影"), "動態 X 光評估口咽期吞嚥、aspiration、residue 與代償策略效果。"),
+    TopicSeed("condition", "hemineglect", "Hemineglect (半邊忽略)", ("hemineglect", "半邊忽略", "unilateral neglect", "neglect syndrome"), "常見於右半球病灶，病人忽略對側空間或身體，影響復健安全與功能恢復。"),
+    TopicSeed("condition", "poststroke-shoulder-pain", "Poststroke shoulder pain (中風後肩痛)", ("poststroke shoulder pain", "中風後肩", "hemiplegic shoulder pain", "肩關節半脫位"), "中風後肩痛可由 subluxation、spasticity、capsulitis、CRPS、rotator cuff injury 或 positioning 不良造成。"),
+    TopicSeed("condition", "foot-drop", "Foot drop (垂足)", ("foot drop", "drop foot", "垂足", "ankle dorsiflexion weakness"), "踝背屈無力造成 swing phase toe drag 與 steppage gait，原因可為 peroneal neuropathy、L5 radiculopathy、stroke 或 neuromuscular disease。"),
+    TopicSeed("diagnostic", "gowers-sign", "Gowers sign (Gowers 徵象)", ("Gower", "Gowers", "高爾氏", "Gowers sign"), "近端肌無力病人由地上站起時需以手扶膝/大腿攀爬身體，常見於 muscular dystrophy 等。"),
+    TopicSeed("condition", "winged-scapula", "Winged scapula (翼狀肩胛)", ("winging scapula", "winged scapula", "翼狀肩胛", "long thoracic nerve"), "肩胛穩定肌無力或神經損傷造成肩胛骨突出，常與 long thoracic nerve、spinal accessory nerve 或 muscular dystrophy 相關。"),
+    TopicSeed("condition", "trendelenburg-gait", "Trendelenburg gait (Trendelenburg 步態)", ("Trendelenburg gait", "Trendelenburg", "德式步態", "gluteus medius"), "髖外展肌無力造成單腳站立時對側骨盆下垂，常見於 gluteus medius weakness、hip disease 或 superior gluteal nerve injury。"),
+    # SCI/TBI rehabilitation and complications.
+    TopicSeed("diagnostic", "asia-impairment-scale", "ASIA Impairment Scale, AIS (ASIA 脊髓損傷分級)", ("ASIA Impairment Scale", "AIS", "ASIA", "脊髓損傷分級", "neurological level of injury"), "以 sensory/motor level、sacral sparing 與 complete/incomplete injury 分級 SCI 嚴重度與預後。"),
+    TopicSeed("procedure", "spinal-cord-injury-rehabilitation", "Spinal cord injury rehabilitation (脊髓損傷復健)", ("spinal cord injury rehabilitation", "SCI rehabilitation", "脊髓損傷復健"), "SCI 復健依 neurological level 設定移位、輪椅、站立步行、ADL、呼吸、膀胱腸道與壓瘡預防目標。"),
+    TopicSeed("guideline", "spinal-cord-injury-functional-goals", "SCI functional goals by level (脊髓損傷功能目標)", ("functional goals", "完全性脊髓損傷", "C5", "C6", "T1", "paraplegia"), "以損傷節段推估手功能、移位、輪椅、步行與照護依賴程度，協助設定可達成復健目標。"),
+    TopicSeed("condition", "neurogenic-bowel", "Neurogenic bowel (神經性腸道)", ("neurogenic bowel", "神經性腸道", "bowel program", "腸道失能"), "SCI 或神經病灶造成排便反射與括約肌控制異常，需建立規律 bowel program。"),
+    TopicSeed("condition", "sexual-dysfunction-after-sci", "Sexual dysfunction after SCI (脊髓損傷後性功能障礙)", ("sexual dysfunction", "SCI sexual", "勃起障礙", "射精障礙"), "SCI 後性功能受神經節段、自主神經與心理因素影響，需評估勃起、射精、生育與安全性。"),
+    TopicSeed("condition", "heterotopic-ossification", "Heterotopic ossification (異位性骨化)", ("heterotopic ossification", "HO", "異位性骨化"), "TBI、SCI、燒傷或關節手術後軟組織異常骨化，造成疼痛、腫脹與關節活動受限。"),
+    TopicSeed("procedure", "traumatic-brain-injury-rehabilitation", "Traumatic brain injury rehabilitation (創傷性腦損傷復健)", ("TBI rehabilitation", "traumatic brain injury rehabilitation", "腦傷復健", "腦部創傷復健", "腦傷後常見後遺症", "腦傷病患"), "TBI 復健需處理認知、行為、吞嚥、語言、運動、痙攣、癲癇與社會重返問題。"),
+    TopicSeed("diagnostic", "rancho-los-amigos-scale", "Rancho Los Amigos scale (Rancho Los Amigos 認知功能量表)", ("Rancho Los Amigos", "Rancho", "認知功能量表"), "用於描述 TBI 後認知與行為恢復階段，從無反應到有目的且適切的反應。"),
+    TopicSeed("procedure", "cognitive-rehabilitation", "Cognitive rehabilitation (認知復健)", ("cognitive rehabilitation", "認知復健", "attention training", "memory training"), "針對注意力、記憶、執行功能、問題解決與日常策略訓練，常用於 TBI、stroke 與神經退化疾病。"),
+    # Orthopedic rehabilitation, amputation, orthoses, prostheses, and assistive devices.
+    TopicSeed("procedure", "orthopedic-rehabilitation", "Orthopedic rehabilitation (骨科復健)", ("orthopedic rehabilitation", "骨科復健", "術後復健"), "骨科復健依手術或傷病限制安排保護、活動度、肌力、負重、步態與回歸活動訓練。"),
+    TopicSeed("procedure", "total-hip-arthroplasty-rehabilitation", "Total hip arthroplasty rehabilitation (全髖關節置換術後復健)", ("total hip replacement", "total hip arthroplasty", "THR", "THA", "髖關節置換"), "全髖關節置換後復健需注意脫臼預防、負重限制、髖周肌力、步態訓練與日常動作衛教。"),
+    TopicSeed("procedure", "total-knee-arthroplasty-rehabilitation", "Total knee arthroplasty rehabilitation (全膝關節置換術後復健)", ("total knee replacement", "total knee arthroplasty", "TKR", "TKA", "膝關節置換"), "全膝關節置換後重點是疼痛腫脹控制、膝伸直/屈曲 ROM、股四頭肌肌力、步態與功能訓練。"),
+    TopicSeed("procedure", "amputation-rehabilitation", "Amputation rehabilitation (截肢復健)", ("amputation rehabilitation", "截肢復健", "膝上截肢", "膝下截肢"), "截肢復健包含殘肢照護、塑形、攣縮預防、義肢評估、穿戴訓練、步態與心理支持。"),
+    TopicSeed("condition", "above-knee-amputation", "Above-knee amputation, AKA (膝上截肢)", ("above knee amputation", "AKA", "transfemoral amputation", "膝上截肢"), "膝上截肢喪失膝關節控制，義肢膝關節、能量消耗與髖伸肌/外展肌訓練是重點。"),
+    TopicSeed("condition", "below-knee-amputation", "Below-knee amputation, BKA (膝下截肢)", ("below knee amputation", "BKA", "transtibial amputation", "膝下截肢"), "膝下截肢保留膝關節，通常功能預後較佳；需注意膝屈曲攣縮、殘肢承重與義足訓練。"),
+    TopicSeed("condition", "phantom-limb-pain", "Phantom limb pain (幻肢痛)", ("phantom limb pain", "幻肢痛", "phantom sensation"), "截肢後感覺已失去肢體仍疼痛或存在，與 peripheral/central sensitization、心理因素與殘肢問題相關。"),
+    TopicSeed("procedure", "residual-limb-care", "Residual limb care (殘肢照護)", ("residual limb", "殘肢", "stump care", "殘端照護"), "殘肢照護包含傷口檢查、腫脹控制、彈繃塑形、皮膚照護、脫敏與避免攣縮。"),
+    TopicSeed("concept", "orthosis", "Orthosis (裝具)", ("orthosis", "orthoses", "裝具", "brace", "副木"), "外部支撐裝置用於控制關節、矯正變形、保護組織或改善功能，可依上肢、下肢、脊椎分類。"),
+    TopicSeed("procedure", "ankle-foot-orthosis", "Ankle-foot orthosis, AFO (踝足裝具)", ("ankle-foot orthosis", "AFO", "踝足裝具", "posterior leaf spring"), "AFO 用於垂足、踝不穩或 spasticity，協助 toe clearance、踝足對線與站立步態穩定。"),
+    TopicSeed("procedure", "knee-ankle-foot-orthosis", "Knee-ankle-foot orthosis, KAFO (膝踝足裝具)", ("knee-ankle-foot orthosis", "KAFO", "膝踝足裝具"), "KAFO 提供膝與踝足控制，常用於嚴重下肢無力、膝不穩或 paraplegia 輔助站立步行。"),
+    TopicSeed("procedure", "spinal-orthosis", "Spinal orthosis (脊椎裝具)", ("spinal orthosis", "TLSO", "LSO", "CTLSO", "脊椎裝具", "背架"), "脊椎裝具限制脊柱活動、支撐姿勢或保護骨折/術後區域，依控制節段選擇 cervical、TLSO、LSO 等。"),
+    TopicSeed("concept", "prosthesis", "Prosthesis (義肢)", ("prosthesis", "prostheses", "義肢", "義足", "socket"), "義肢取代缺失肢段並恢復站立、步行或上肢功能，組成包含 socket、懸吊、關節與末端裝置。"),
+    TopicSeed("procedure", "lower-limb-prosthesis", "Lower limb prosthesis (下肢義肢)", ("lower limb prosthesis", "下肢義肢", "patellar tendon bearing", "Syme", "prosthetic knee"), "下肢義肢需依截肢高度、殘肢形態、承重區、活動需求與能量消耗選擇 socket、膝關節與足部元件。"),
+    TopicSeed("concept", "assistive-devices", "Assistive devices (輔具)", ("assistive devices", "輔具", "assisting devices", "mobility aids"), "輔具協助移動、轉位、ADL 或安全，包含手杖、拐杖、助行器、輪椅與環境調整。"),
+    TopicSeed("procedure", "gait-aids", "Gait aids (步行輔具)", ("gait aids", "cane", "walker", "crutch", "步行輔具", "手杖", "助行器"), "步行輔具可增加支撐底面、減少患側負重並改善平衡；選擇需看上肢能力、負重限制與步態模式。"),
+    TopicSeed("procedure", "wheelchair-prescription", "Wheelchair prescription (輪椅評估與處方)", ("wheelchair", "輪椅", "wheelchair prescription", "輪椅評估"), "輪椅處方需依座寬、座深、背高、坐墊、推進能力、姿勢控制、壓瘡風險與環境需求調整。"),
+    # Cardiopulmonary rehabilitation, pediatric rehabilitation, modalities, and sports medicine.
+    TopicSeed("procedure", "cardiac-rehabilitation", "Cardiac rehabilitation (心臟復健)", ("cardiac rehabilitation", "心臟復健", "phase I", "phase II", "phase III"), "心臟復健以分期運動訓練、危險因子控制、教育與心理支持改善心血管事件後功能與預後。"),
+    TopicSeed("procedure", "pulmonary-rehabilitation", "Pulmonary rehabilitation (肺部復健)", ("pulmonary rehabilitation", "肺部復健", "呼吸復健"), "肺部復健結合運動訓練、呼吸技巧、痰液清除、營養與教育，常用於 COPD、ILD 與慢性呼吸疾病。"),
+    TopicSeed("procedure", "exercise-prescription", "Exercise prescription (運動處方)", ("exercise prescription", "運動處方", "FITT", "target heart rate"), "運動處方依 frequency、intensity、time、type 與病人風險調整，常用於心肺、代謝與復健訓練。"),
+    TopicSeed("procedure", "airway-clearance-techniques", "Airway clearance techniques (痰液清除技巧)", ("airway clearance", "痰液清潔", "痰液清除", "percussion", "vibration"), "以姿位引流、拍痰、震動、咳嗽訓練與呼吸裝置協助分泌物排出。"),
+    TopicSeed("procedure", "postural-drainage", "Postural drainage (姿位引流)", ("postural drainage", "姿位引流", "引流姿勢"), "利用重力使特定肺段分泌物流向中央氣道，需注意胃食道逆流、顱壓、低氧與血流動力禁忌。"),
+    TopicSeed("procedure", "inspiratory-muscle-training", "Inspiratory muscle training (吸氣肌訓練)", ("inspiratory muscle training", "IMT", "吸氣肌訓練"), "以阻力或閾值裝置訓練吸氣肌力與耐力，可作為部分肺部復健或呼吸肌無力病人的輔助。"),
+    TopicSeed("procedure", "cerebral-palsy-rehabilitation", "Cerebral palsy rehabilitation (腦性麻痺復健)", ("cerebral palsy rehabilitation", "CP rehabilitation", "腦性麻痺復健", "腦性麻痺患者復健"), "腦性麻痺復健依功能分型處理姿勢控制、痙攣、骨關節變形、步態、溝通、吞嚥、輔具與家庭照護。"),
+    TopicSeed("procedure", "torticollis-rehabilitation", "Torticollis rehabilitation (斜頸復健)", ("torticollis", "斜頸", "sternocleidomastoid", "小兒斜頸"), "小兒肌性斜頸以早期伸展、擺位、誘發主動轉頭與追蹤顱顏不對稱為重點。"),
+    TopicSeed("concept", "therapeutic-modalities", "Therapeutic modalities (物理治療儀器)", ("therapeutic modalities", "物理治療儀器", "治療儀器"), "復健 modality 包含熱、冷、電、光、超音波、牽引與力學治療；需依適應症、禁忌症與組織深度選擇。"),
+    TopicSeed("procedure", "thermotherapy", "Thermotherapy (熱療)", ("thermotherapy", "熱療", "hot pack", "paraffin", "shortwave diathermy"), "熱療提升組織溫度以減痛、增加軟組織延展性與血流；急性發炎、出血或感覺差需避免。"),
+    TopicSeed("procedure", "cryotherapy", "Cryotherapy (冷療)", ("cryotherapy", "冷療", "ice pack", "cold therapy"), "冷療降低疼痛、痙攣與急性發炎反應，需注意寒冷過敏、循環差與感覺障礙。"),
+    TopicSeed("procedure", "electrotherapy", "Electrotherapy (電療)", ("electrotherapy", "電療", "electrical stimulation", "TENS", "NMES"), "電刺激可用於止痛、肌肉再教育、神經肌肉刺激或水腫控制，需注意 pacemaker、皮膚與感覺問題。"),
+    TopicSeed("procedure", "transcutaneous-electrical-nerve-stimulation", "TENS (經皮神經電刺激)", ("TENS", "transcutaneous electrical nerve stimulation", "經皮神經電刺激"), "以表面電極刺激感覺神經達到止痛，常用於 musculoskeletal pain 或神經痛輔助治療。"),
+    TopicSeed("procedure", "therapeutic-ultrasound", "Therapeutic ultrasound (治療性超音波)", ("therapeutic ultrasound", "ultrasound therapy", "治療性超音波", "超音波治療", "超音波具有熱效應"), "利用聲波熱效應與非熱效應治療軟組織，需注意骨骺、腫瘤、感染、感覺差與植入物等限制。"),
+    TopicSeed("procedure", "traction-therapy", "Traction therapy (牽引治療)", ("traction", "牽引治療", "cervical traction", "lumbar traction"), "以牽引力減少神經根壓迫或關節負荷，常用於部分頸腰椎問題，禁忌需依不穩定、骨折、腫瘤等評估。"),
+    TopicSeed("condition", "sports-injury", "Sports injury (運動傷害)", ("sports injury", "運動傷害", "sprain", "strain"), "運動傷害包含肌腱、韌帶、肌肉、骨骼與關節損傷，處理依急性期、恢復期與回場需求分階段。"),
+    TopicSeed("procedure", "acute-sports-injury-management", "Acute sports injury management (急性運動傷害處置)", ("PRICE", "POLICE", "RICE", "急性運動傷害", "運動傷害的急性處理"), "急性運動傷害以保護、適當負荷、冰敷、壓迫、抬高與早期功能恢復為核心，需排除骨折與神經血管損傷。"),
+    TopicSeed("procedure", "resistance-training", "Resistance training (阻力／肌力訓練)", ("resistance training", "strength training", "肌力訓練", "阻力訓練", "one repetition maximum"), "以漸進阻力提升肌力、肌耐力與功能；處方需控制負荷、組數、頻率、速度與恢復。"),
+    TopicSeed("concept", "disability-evaluation", "Disability evaluation (身心障礙評估)", ("disability evaluation", "身心障礙", "impairment", "activity limitation", "participation restriction"), "身心障礙評估需區分 impairment、activity limitation、participation restriction，並連結輔具、照護與社會資源。"),
+)
+
+
+ALL_SEEDS: tuple[TopicSeed, ...] = SEEDS + SECOND_BOOK_SEEDS + THIRD_BOOK_SEEDS + FOURTH_BOOK_SEEDS + FIFTH_BOOK_SEEDS + SIXTH_BOOK_SEEDS + SEVENTH_BOOK_SEEDS + EIGHTH_BOOK_SEEDS + NINTH_BOOK_SEEDS + TENTH_BOOK_SEEDS + ELEVENTH_BOOK_SEEDS + TWELFTH_BOOK_SEEDS + THIRTEENTH_BOOK_SEEDS + FOURTEENTH_BOOK_SEEDS + FIFTEENTH_BOOK_SEEDS + SIXTEENTH_BOOK_SEEDS + SEVENTEENTH_BOOK_SEEDS
 
 
 def slugify(text: str) -> str:
@@ -1732,8 +1806,22 @@ def clean_text(text: str) -> str:
 
 
 def study_text_only(text: str) -> str:
-    """Drop MCQ/question explanations before extracting durable topic notes."""
-    return re.split(r"(?m)^#{2,6}\s*(?:題目|【詳解】)", text, maxsplit=1)[0]
+    """Drop interleaved MCQ/question explanation blocks before topic extraction."""
+    kept: list[str] = []
+    skipping = False
+    for line in text.splitlines():
+        heading = re.match(r"^(#{2,6})\s*(.+?)\s*$", line)
+        if heading:
+            title = heading.group(2).strip()
+            normalized = re.sub(r"\s+", "", title)
+            if normalized.startswith("題目") or normalized.startswith("【詳解】"):
+                skipping = True
+                continue
+            if skipping and not re.match(r"^\([A-Z]+\)\s*\d*", title):
+                skipping = False
+        if not skipping:
+            kept.append(line)
+    return "\n".join(kept)
 
 
 def display_chapter_title(path: Path) -> str:
@@ -2804,6 +2892,77 @@ def related_links(seed: TopicSeed, available_slugs: set[str]) -> list[str]:
         "alpha-2-agonist-eye-drops": ["glaucoma", "primary-open-angle-glaucoma"],
         "miotics": ["angle-closure-glaucoma", "aqueous-humor-dynamics"],
         "anti-vegf-therapy-ophthalmology": ["age-related-macular-degeneration", "diabetic-retinopathy", "retinal-vein-occlusion", "retinopathy-of-prematurity", "intravitreal-injection"],
+        "rehabilitation-medicine": ["functional-independence-measure", "barthel-index", "manual-muscle-testing", "gait-analysis", "assistive-devices"],
+        "manual-muscle-testing": ["upper-motor-neuron-lesion", "lower-motor-neuron-lesion", "gowers-sign", "muscular-dystrophy"],
+        "modified-ashworth-scale": ["spasticity", "stroke", "spinal-cord-injury", "cerebral-palsy"],
+        "functional-independence-measure": ["barthel-index", "stroke-rehabilitation", "spinal-cord-injury-rehabilitation", "traumatic-brain-injury-rehabilitation"],
+        "barthel-index": ["functional-independence-measure", "stroke-rehabilitation"],
+        "gait-analysis": ["trendelenburg-gait", "foot-drop", "ankle-foot-orthosis", "gait-aids"],
+        "spasticity": ["modified-ashworth-scale", "upper-motor-neuron-lesion", "stroke", "spinal-cord-injury", "cerebral-palsy"],
+        "contracture": ["range-of-motion-exercise", "spasticity", "amputation-rehabilitation"],
+        "range-of-motion-exercise": ["contracture", "orthopedic-rehabilitation"],
+        "stroke": ["ischemic-stroke", "transient-ischemic-attack", "intracerebral-hemorrhage", "subarachnoid-hemorrhage", "brain-computed-tomography", "brain-magnetic-resonance-imaging", "stroke-rehabilitation", "aphasia", "dysphagia", "hemineglect", "poststroke-shoulder-pain", "brunnstrom-stage"],
+        "stroke-rehabilitation": ["stroke", "brunnstrom-stage", "aphasia-rehabilitation", "dysphagia-rehabilitation", "hemineglect", "poststroke-shoulder-pain"],
+        "brunnstrom-stage": ["stroke-rehabilitation", "stroke", "spasticity"],
+        "aphasia": ["stroke", "aphasia-rehabilitation"],
+        "aphasia-rehabilitation": ["aphasia", "stroke-rehabilitation"],
+        "dysphagia": ["dysphagia-rehabilitation", "videofluoroscopic-swallow-study", "stroke", "zenker-diverticulum"],
+        "dysphagia-rehabilitation": ["dysphagia", "videofluoroscopic-swallow-study", "stroke-rehabilitation"],
+        "videofluoroscopic-swallow-study": ["dysphagia", "dysphagia-rehabilitation"],
+        "hemineglect": ["stroke", "stroke-rehabilitation"],
+        "poststroke-shoulder-pain": ["stroke", "stroke-rehabilitation", "shoulder-dislocation", "rotator-cuff-injury"],
+        "foot-drop": ["ankle-foot-orthosis", "peripheral-nerves", "stroke", "gait-analysis"],
+        "gowers-sign": ["muscular-dystrophy", "manual-muscle-testing"],
+        "winged-scapula": ["brachial-plexus-injury", "peripheral-nerves", "manual-muscle-testing"],
+        "trendelenburg-gait": ["gait-analysis", "total-hip-arthroplasty-rehabilitation"],
+        "spinal-cord-injury": ["neurogenic-shock", "spinal-cord", "cervical-spine-fracture", "spinal-cord-injury-rehabilitation", "asia-impairment-scale", "autonomic-dysreflexia", "neurogenic-bladder", "neurogenic-bowel", "pressure-injury"],
+        "asia-impairment-scale": ["spinal-cord-injury", "spinal-cord-injury-rehabilitation"],
+        "spinal-cord-injury-rehabilitation": ["spinal-cord-injury", "asia-impairment-scale", "spinal-cord-injury-functional-goals", "autonomic-dysreflexia", "neurogenic-bladder", "pressure-injury"],
+        "spinal-cord-injury-functional-goals": ["spinal-cord-injury-rehabilitation", "asia-impairment-scale", "wheelchair-prescription", "assistive-devices"],
+        "neurogenic-bowel": ["spinal-cord-injury", "neurogenic-bladder", "autonomic-dysreflexia"],
+        "sexual-dysfunction-after-sci": ["spinal-cord-injury", "erectile-dysfunction"],
+        "heterotopic-ossification": ["traumatic-brain-injury", "spinal-cord-injury", "range-of-motion-exercise"],
+        "traumatic-brain-injury": ["head-trauma", "raised-intracranial-pressure", "glasgow-coma-scale", "decompressive-craniectomy", "traumatic-brain-injury-rehabilitation", "rancho-los-amigos-scale", "cognitive-rehabilitation", "heterotopic-ossification", "spasticity"],
+        "traumatic-brain-injury-rehabilitation": ["traumatic-brain-injury", "rancho-los-amigos-scale", "cognitive-rehabilitation", "spasticity"],
+        "rancho-los-amigos-scale": ["traumatic-brain-injury", "traumatic-brain-injury-rehabilitation"],
+        "cognitive-rehabilitation": ["traumatic-brain-injury-rehabilitation", "stroke-rehabilitation", "dementia"],
+        "orthopedic-rehabilitation": ["total-hip-arthroplasty-rehabilitation", "total-knee-arthroplasty-rehabilitation", "amputation-rehabilitation", "range-of-motion-exercise"],
+        "total-hip-arthroplasty-rehabilitation": ["orthopedic-rehabilitation", "gait-aids", "trendelenburg-gait"],
+        "total-knee-arthroplasty-rehabilitation": ["orthopedic-rehabilitation", "range-of-motion-exercise", "gait-aids"],
+        "amputation-rehabilitation": ["above-knee-amputation", "below-knee-amputation", "phantom-limb-pain", "residual-limb-care", "lower-limb-prosthesis"],
+        "above-knee-amputation": ["amputation-rehabilitation", "lower-limb-prosthesis"],
+        "below-knee-amputation": ["amputation-rehabilitation", "lower-limb-prosthesis"],
+        "phantom-limb-pain": ["amputation-rehabilitation", "residual-limb-care"],
+        "residual-limb-care": ["amputation-rehabilitation", "prosthesis", "pressure-injury"],
+        "orthosis": ["ankle-foot-orthosis", "knee-ankle-foot-orthosis", "spinal-orthosis", "foot-drop"],
+        "ankle-foot-orthosis": ["orthosis", "foot-drop", "gait-analysis"],
+        "knee-ankle-foot-orthosis": ["orthosis", "spinal-cord-injury-rehabilitation"],
+        "spinal-orthosis": ["orthosis", "spinal-cord-injury", "scoliosis"],
+        "prosthesis": ["lower-limb-prosthesis", "amputation-rehabilitation", "residual-limb-care"],
+        "lower-limb-prosthesis": ["prosthesis", "above-knee-amputation", "below-knee-amputation", "gait-analysis"],
+        "assistive-devices": ["gait-aids", "wheelchair-prescription", "orthosis", "prosthesis"],
+        "gait-aids": ["assistive-devices", "gait-analysis", "total-hip-arthroplasty-rehabilitation"],
+        "wheelchair-prescription": ["assistive-devices", "pressure-injury", "spinal-cord-injury-functional-goals"],
+        "cardiac-rehabilitation": ["exercise-prescription", "stress-test", "heart-transplantation"],
+        "pulmonary-rehabilitation": ["exercise-prescription", "airway-clearance-techniques", "postural-drainage", "inspiratory-muscle-training", "copd"],
+        "exercise-prescription": ["cardiac-rehabilitation", "pulmonary-rehabilitation", "resistance-training"],
+        "airway-clearance-techniques": ["postural-drainage", "pulmonary-rehabilitation", "bronchiectasis"],
+        "postural-drainage": ["airway-clearance-techniques", "pulmonary-rehabilitation"],
+        "inspiratory-muscle-training": ["pulmonary-rehabilitation", "oxygenation-and-ventilation"],
+        "cerebral-palsy": ["cerebral-palsy-rehabilitation", "spasticity", "modified-ashworth-scale", "orthosis"],
+        "cerebral-palsy-rehabilitation": ["cerebral-palsy", "spasticity", "orthosis", "gait-analysis"],
+        "torticollis-rehabilitation": ["congenital-muscular-torticollis", "range-of-motion-exercise"],
+        "therapeutic-modalities": ["thermotherapy", "cryotherapy", "electrotherapy", "therapeutic-ultrasound", "traction-therapy"],
+        "thermotherapy": ["therapeutic-modalities", "contracture"],
+        "cryotherapy": ["therapeutic-modalities", "sports-injury", "acute-sports-injury-management"],
+        "electrotherapy": ["therapeutic-modalities", "transcutaneous-electrical-nerve-stimulation"],
+        "transcutaneous-electrical-nerve-stimulation": ["electrotherapy"],
+        "therapeutic-ultrasound": ["therapeutic-modalities"],
+        "traction-therapy": ["therapeutic-modalities", "herniated-intervertebral-disc"],
+        "sports-injury": ["acute-sports-injury-management", "resistance-training", "orthopedic-rehabilitation"],
+        "acute-sports-injury-management": ["sports-injury", "cryotherapy"],
+        "resistance-training": ["exercise-prescription", "sports-injury"],
+        "disability-evaluation": ["rehabilitation-medicine", "functional-independence-measure", "assistive-devices"],
     }
     slug_to_seed = {item.slug: item for item in ALL_SEEDS}
     rel_slugs = set(groups.get(seed.slug, []))

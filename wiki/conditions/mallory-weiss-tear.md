@@ -25,6 +25,8 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book3-ch08]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Mallory-Weiss tear (Mallory-Weiss 裂傷)'
   - 'Mallory-Weiss tear'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-劇烈嘔吐後食道胃交界黏膜裂傷可造成上消化道出血。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+劇烈嘔吐後食道胃交界黏膜裂傷可造成上消化道出血。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,15 @@ tags:
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book3-ch08]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...下微血管破裂出血而表面血腫(俗稱黑青)。臨床上須注意大肌肉挫傷所留下的深層疤痕組織,可能會因為沾粘導致組織纖維化與鈣化,影響肌肉的延展性與功能性,日伴隨慢性疼痛。 - b. 韌帶扭傷 (sprain):當關節過度伸展時,韌帶因無法承受力量而撕裂甚至發 炎腫脹。扭傷的程度可分為三級: - (a) 輕度: 韌帶無斷裂,但可能被過度拉長而導致受傷,關節活動時會感到 疼痛。 - (b) 中度: 韌帶部分斷裂,且關節發炎腫大和劇痛。 - (c) 重度: 韌帶完全斷裂,關節失去支撐而不穩定,常合併嚴重血腫。 - (d) 處理原則(以踝關節韌帶扭傷為例): - i. PRICE: 急性期會先給予 PRICE 處置, Protection 保護, 確認四周環境安全, 避免二次傷害; Rest Source: [[sources/med6-book3-ch08|辛、運動醫學]].
+- c. 肌肉、肌腱拉傷(strain): 肌肉因柔軟度不足(未充分熱身)、不正常的收縮 或協調性不良,導致活動時肌纖維受到拉扯而受傷甚至斷裂,較常見的為下 背肌群及股四頭肌拉傷。拉傷的程度可分為三級: - (a) 輕度:小部分肌纖維撕裂,少量出血,外觀正常,僅在肌肉用力或按壓時才會疼痛。 - (b) 中度:大部分肌纖維斷裂且併發血腫,外觀腫脹,肌力降低。 - (c) 重度:肌纖維全部斷裂,大量內出血,肌肉自斷開處縮至兩端點處,肌肉功能完全喪失,好發於肌肉與肌腱的交合處(myo-tendon junction)。 Source: [[sources/med6-book3-ch08|辛、運動醫學]].
+- e. 關節錯位 / 脫臼 (subluxation/dislocation): - (a) 急性脫臼:大多因強烈外力撞擊所導致,往往合併韌帶撕裂傷。 - (b) 慢性脫臼:即習慣性脫臼,多肇因於先天性韌帶鬆弛、韌帶撕裂傷或韌帶經常被牽扯,而造成關節不穩定且關節囊擴大,稍微一用力就又脫臼。 Source: [[sources/med6-book3-ch08|辛、運動醫學]].
+- ...中有80%在第一年內發生。 - c. 發生 Late PTS 的危險因子有:穿透性傷害(penetrating injury)、early seizures、 凹陷性顱骨骨折、急性顱內血腫、曾意識喪失或受傷後失憶症超過 24 小時、 硬腦膜撕裂、出現異物、focal sign (Aphasia 或 Hemiplegia)、年紀大於六十五歲。 - d. 創傷後一週內給予 phenytoin 或 valporic acid 能有效降低 early PTS 的機會,不過長期使用抗癲癇藥物對於預防 late PTS 的效用不顯著。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - a. 動態玻璃體視網膜牽引造成的急性後玻璃體剝離(acute posterior vitreous detachment),並可能合併視網膜撕裂(retinal tear)和玻璃體出血。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...)和玻璃體基部(vitreous base)後緣之間,且顧側多於鼻側,上側多於下側(外上最多)。造成視網膜剝離的原因為:格子狀變性合併萎縮性視網膜圓孔(atrophic retinal hole)或因玻璃體牽引造成格子狀變性的後緣出現視網膜撕裂(retinal tear)。 - (b) 蝸牛狀退化 (snail track degeneration): 可能為格子狀變性的早期,並有可能合併萎縮性視網膜圓孔導致視網膜剝離。 - (c) 後天性視網膜分離症 (acquired retinoschisis): 感覺視網膜層分裂成兩層。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 5. 裂傷(laceration):以生理食鹽水洗淨傷口並確定撕裂傷之深度、檢查是否仍有異物、確定是否傷及淚腺系統,並進行縫合。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
@@ -81,9 +89,6 @@ tags:
 - ...ioclavicular (AC) ligamentsprain 但 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament 卻完整 | | | Type II | AC ligament 撕裂,AC 關節半脫位,且 coracoclavicular | 休息、冰敷、吊 sling | | | (CC) ligament sprain | | | Type III | AC and CC ligaments 撕裂,整個關節完全脫位 | 可保守治療或手術, | | | | 原則上還是休息、冰 | | | | 敷、止痛、吊 slint 二 | | | | 到三週 | | Type IV | 整個關節完全脫位外加遠端鎖骨錯位到 tr Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - 2. **Drop arm test**:請病人將手平舉。旋轉肌撕裂傷後,病人手臂外展無力,尤其是在 30 至 90 度之間,小於 30 度時手臂外展主要由 deltoid muscle 支配所以不受影響。當把病人手臂抬到 90 度後,就可以自主做外展動作。此理學檢查用來評估 suprasupinator tear。 - (1) 臨床症狀:在 overhead activity 時會感到疼痛,嚴重時可能會合併 night pain。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
 - 【詳解】梅順納芙氏骨折是指近端三分之一的腓骨有 spiral fracture 加上 遠端 tibiofibular syndesmosis 和 interosseous membrane 的撕裂傷。 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- 【詳解】Essex-Lopresti fracture 是指橈骨頭斷裂加遠端橈骨尺骨關節脫臼加骨間膜(interosseous membrane)撕裂。通常是因為從高從跌倒造成。治療以 ORIF 為主。 Source: [[sources/med5-book6-ch06|己、手部]].
-- (2) 第二級:侷限性的腎臟旁血腫(confined perirenal hematoma)或小於 1 公分的腎臟皮質撕裂傷(cortical laceration 1 cm),但是未傷 及集尿系統(collecting system)。 - (4) 第四級:撕裂傷影響到集尿系統或腎臟 segmental vessels 的傷害。 - (5) 第五級:腎臟主要血管(main renal artery and/or vein)的傷害或多處撕裂傷造成破碎的腎臟(shattered kidney)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...rystalloid 並輸血,腹部斷層掃 醫五-77 - C) 16. 一位 40 歲男性在車禍中受傷被送急診,當時意識清醒,但有大 量的血尿,經靜脈給予兩公升的 Crystalloid 並輸血,腹部斷層掃 描(CT scan)顯示左側腎臟撕裂傷合併巨大血腫,病人的血壓 一直維持在 70/40 mmHg 無法再上升,下一步要作的處置為何? (A) 腎臟血管造影 - (A) 育 - (B) 施行經皮腎造瘻術(percutaneous nephrostomy) - (C) 緊急手術 - (D) 照 KUB Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 
 ## Clinical Caveats
 

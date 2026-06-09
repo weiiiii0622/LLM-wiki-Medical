@@ -21,6 +21,8 @@ sources:
   - "[[sources/med5-book3-ch03]]"
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch18]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch09]]"
 aliases:
   - 'Coma (昏迷)'
   - 'Coma'
@@ -35,7 +37,7 @@ tags:
 
 ## Summary
 
-嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +58,14 @@ tags:
 - [[sources/med5-book3-ch03]]
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch18]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch09]]
 
 ## Key Details From Sources
 
+- 2. 腦傷的預後因子: - (1) 昏迷的程度及時間:以腦傷後 24 小時內的 GCS 來判斷昏迷的程度,重度和長期昏迷患者預後較差。GCS分數 3~8 為嚴重、9~12 為中度、13~15 為輕度。此外,腦幹反射仍保有的預後較好: - a. 頭眼反射(Doll's eye sign):將病人頭部轉動,眼球會轉向相反方向,例如頭往右轉,眼球會向左轉。 - b. 瞳孔對光反射 (Light reflex)。 - c. 前庭-動眼反射 (Oculo-vestibular refl Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- | 預後因子 | 預後較差 | 預後較好 | |--------------------|----------------------|------| | Glasgow coma scale | 7 | | 電腦斷層 | 大量出血、腦水腫、mass effect | 正常 | | 年紀 | 老年 | 年輕人 | | 光反射 | 瞳孔擴大 | 瞳孔收縮 | Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- 3. 臨床應用範圍極廣,包括週邊神經病變、脊髓外傷、腦幹及視丘病變、腦血管病變、 及評估昏迷患者之預後等,甚至應用於脊椎手術時的監視以減少手術後遺症。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - ...ll type | | | | • 依良惡性可區分為: | | | | | | Benign/ Borderline/ Malignancy | | | | | 性索間質腫瘤 (sex cord | Fibroma or | sarc | coma | | | stromal tumors): 佔 10% | • Estroger | 1 | Granulosa cell tumor | | | | producir | ng | Thecoma | | | | • Androge | en | Sertoli-Leydig cell tumor | | | | producing | | Hilar cell tumor | | | | | | Lipoid cell tumo Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | 體液過量 | 心衰竭、肺水腫、稀釋性貧血 | | | | |--------|----------------------|--|--|--| | 電解質不平衡 | 低鈉、高血糖、酸中毒 | | | | | 尿 液 | 茶色尿或血尿 | | | | | 神經表現 | 視覺障礙、意識改變、譫妄、昏迷、癲癇發作 | | | | Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
 - (A) 早期的 Dumping 症候群之症狀與低血糖的症狀完全相符,例如出冷汗、心跳加快、飢餓性震顫、全身軟弱無力及昏迷等 Source: [[sources/med5-book3-ch03|丙、胃癌]].

@@ -29,6 +29,7 @@ sources:
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med6-book2-ch11]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'COPD (慢性阻塞性肺疾病)'
   - 'COPD'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,13 @@ tags:
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch07]]
 - [[sources/med6-book2-ch11]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- 2. 肺部復健適用於 COPD、asthma、cystic fibrosis、interstitial lung disease、lung cancer、lung surgery 及 neuromuscular disease 等病人。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- 3. 肺部復健對 COPD 患者的好處: - (1) 台灣胸腔暨重症加護醫學會慢性阻塞性肺病診治指引(2007): 肺部復健對 COPD 之助益。(括號為證據等級) - a. 改善運動能力(level A)。 - b. 減少呼吸短促之感覺(level A)。 - c. 改善與健康相關的生活品質(level A)。 - d. 減少住院次數及住院日數(level A)。 - e. 減少 COPD 相關之焦慮及憂鬱 (level A)。 - f. 改善存活率(level B)。 - g. 在訓練期間結束後優點仍可持續(level B)。 - h. 心理支持是有助益(level C)。 - i. 呼吸肌之訓練是有助益(level C)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- Improvements seen in exercise reconditioning in moderate chronic obstructive pulmonary disease [Braddom 4/e P745 Box 34-3] Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...------|--------------------|-----------------|-----------------------------------| | β-blockers | - 效果長,通常一天點兩次 | 禁忌:氣喘、COPD、 | — non-selective: Timolol 、 | | | 或一次即可,且眼部副作 | Bradycardia、心臟傳 | Levobunolol carteolol | | | 用少。 | 導阻礙、心衰竭、低 | metipranolol | | | - 為第一線治療藥物。 | 血壓。 | - selective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - ...一)專 agent) 是常用的治療選擇,然而,下列何種情形是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - ...-----------------------------------------|------------------------| | Primary | Penetrating | | Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -90,9 +95,6 @@ tags:
 - ...成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入), 造成暫時的低血鉀, 導致肌肉無力,病人可能一早起來發現四肢無力,未經鉀離子的補充,下午鉀離子就會 shift 出細胞,無力就會改善。治療甲狀腺 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - c. 肺炎、中耳炎:常見於 COPD、抽菸者。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - (C) 1. 關於非自主性的體重流失 (involuntary weight loss) 的敘述,下列 108(二)專 何者錯誤? - (A) 在 6 至 12 個月內,體重下降超過 4.5 公斤 - (B) 在 6 至 12 個月內,體重下降大於原先體重的 5% - (C) 甲狀腺功能亢進時,食慾減退是體重下降的主因 - (D) 慢性阻塞性肺病是其中一個原因 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- (C) 4.78 歲的張先生是慢性阻塞性肺病的患者,過去一年內,由於發作頻 繁,每天都需要使用類固醇 prednisolone 10 毫克左右控制。一週前 不幸跌倒,左髖關節骨折,接受人工關節置換,住院期間右髖關節 骨密度 T 值是 -2.2。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
-- 3. COPD 較少有 Clubbing finger,若有,須考慮其他問題,如肺癌等。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
-- #### E. COPD 嚴重度分級與分組 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
 
 ## Clinical Caveats
 
@@ -108,6 +110,7 @@ tags:
 - [[procedures/noninvasive-ventilation|Noninvasive ventilation, NIV (非侵襲性通氣)]]
 - [[concepts/oxygen-therapy|Oxygen therapy (氧氣治療)]]
 - [[diagnostics/pulmonary-function-test|Pulmonary function test, PFT (肺功能檢查)]]
+- [[procedures/pulmonary-rehabilitation|Pulmonary rehabilitation (肺部復健)]]
 
 ## Follow-up
 

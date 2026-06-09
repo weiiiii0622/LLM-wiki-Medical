@@ -47,6 +47,8 @@ sources:
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book3-ch06]]"
 aliases:
   - 'Secondary skin lesions (次發性皮膚病灶)'
   - 'Secondary skin lesions'
@@ -61,7 +63,7 @@ tags:
 
 ## Summary
 
-膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -108,9 +110,16 @@ tags:
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book3-ch02]]
+- [[sources/med6-book3-ch06]]
 
 ## Key Details From Sources
 
+- 輕觸覺(本體感覺)和針刺覺(疼痛)來測量。受同一脊髓段支配的肌肉稱為肌節(myotome),但很少用肌節來檢查,因為每塊肌肉都有多段脊髓支配,而且肌節之間還有重疊。上圖為 American spinal injury association(ASIA)制定的 SCI impairment scale,從 motor level、sensory level 和 neurologic level 來評估脊髓損傷的程度。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (7) ASIA impairment scale: ASIA 從早期的 Frankel scale 去作修訂,根據感覺和運動功能的保留情形,將脊髓損傷分為 ABCDE 五期。 - a. A=完全性損傷:在薦髓 S4-5 部分,完全沒有感覺或運動機能。 - b. B = 不完全性損傷:在 neurological level 以下,運動機能完全喪失,但此部位到最低薦髓段仍保有感覺機能。且兩側 motor level 的下三節以下的 key muscle 皆無運動功能。 - c. C = Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (8) ASIA impainment scale 的分類三步驟: - a. STEP 1:分類時先分是不是 complete 即 ASIA A =沒有 sacral sparing =「沒有自主肛門收縮」+「S4-5 的 pin prick 和 light touch 都 = 0」+「沒有肛門 深處的感覺」。 - b. STEP 2:若不是 ASIA A,接著看是不是"motor" incomplete,看是否有 (a) 自主肛門收縮或 (b) 兩側的 motor level 各自的 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (5) 張力治療:對兒童而言,肢體張力異常除了干擾運動功能的發展外,也會使肌 肉短縮且併發骨骼關節變形,進而加重運動功能的障礙,因此治療痙攣張力在 腦性麻痺患者復健上的角色相當重要。 - a. 臨床上常用 Modified Ashworth scale 來描述和評估痙攣張力的強度和治療效果: Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- | | Modified Ashworth scale | |----|--------------------------------------| | 0 | 肌肉張力沒有增加。 | | 1 | 肌肉張力稍微增加,當被動關節活動時,在最後只有一點阻力。 | | 1+ | 肌肉張力稍微增加,ROM 作超過 1/2 時開始會有阻力。 | | 2 | 肌肉張力增加更多,當被動關節活動時,幾乎整個 ROM 的過程中都可感覺有 | | | 阻力,但仍很容易移動。 | | 3 | 肌肉張力增加相當的大,當被動關節活動時,阻力都非常強,不容易移動。 | | 4 | 受影響關節僵直呈屈曲或伸直狀態。 | Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - | 樹枝狀潰瘍 | ① 角膜上皮出現混濁斑點狀或衛星狀排列,隨後 | |-------------------|--------------------------| | (dendritic ulcer) | 被病毒感染的上皮細胞溶解、脱落,形成典型 | | | 的樹枝狀上皮缺損,病灶末端膨大為燈泡狀 | | | (terminal bulb) • | | | ②此時螢光素染色呈陽性。 | | | ③以 acyclovir 治療,不能使用類固醇。 | | 地圖狀潰瘍 (geographic | ① 由樹枝狀缺損擴展而來。角膜基質出現輕度水 | | ulcer)、阿米巴潰瘍 | 腫,常伴有睫狀充血,病變區角膜感覺減退。 | | (amoebic ulcer) | ②常發生於不當使用類固醇後。 | Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - ...是否為全身性膠原血管疾病所造成。最常見的疾病是類風濕性關節炎(RA)造成 的角膜炎,這些角膜炎的表現包含了: - (1) Peripheral ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (Wegener's granulo-matosis),結節多發性動脈炎 (polyarteritis nodosa), SLE 等。其中以 Wegener 氏肉芽腫的進展最快速難治。 - c Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - ...堆積在 RPE 所致,形成卵黃形(egg-yolk)或荷包蛋(sunny-side-up)的病灶。 - b. 臨床徵候:早期眼底可能無明顯變化,但此時 EOG 已不正常,之後眼底會有卵黃形病灶,末期形成肥厚性結痂(hypertrophic scar)、纖維血管化結疤或萎縮。 - (2) Stargardt 氏黃斑部失養症(Stargardt's disease):體隱性遺傳,20歲前有雙側漸進性中心視力不良。眼底可見中心小窩有斑紋狀變化,且出現類似銅片被敲碎後(beaten-bronze)的反射(下圖)。年輕性最常見的 maculopathy,目前Stargardt's 氏症無任何有效的治療方式。 Source: [[sources/med6-book2-ch12|子、視網膜]].

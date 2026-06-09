@@ -38,6 +38,7 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book2-ch04]]"
   - "[[sources/med6-book2-ch11]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Asthma (氣喘)'
   - 'Asthma'
@@ -52,7 +53,7 @@ tags:
 
 ## Summary
 
-可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +91,11 @@ tags:
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book2-ch04]]
 - [[sources/med6-book2-ch11]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- 2. 肺部復健適用於 COPD、asthma、cystic fibrosis、interstitial lung disease、lung cancer、lung surgery 及 neuromuscular disease 等病人。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 1. 春季性角結膜炎(vernal keratoconjunctivitis, VKC): - (1) 簡介:結膜雙側反覆慢性發炎,與 Type 1 IgE 和 Type 4 細胞性免疫反應相關, 多數病人有異位性體質,合併有氣喘、鼻子過敏、皮膚溼疹等症狀。好發年輕 男性,春季末和夏天是發病巔峰。有較高比例的病患同時合併有圓錐角膜。 - (2) 臨床症狀:眼眶搔癢、流淚、畏光、灼熱感等。 - (3) 特徵: - a. 結膜病變:眼瞼型(palpebral):上眼瞼多巨大鵝卵石般(cobble stone)乳突 (Papilla)形成;輪部型(limbic):輪部(=角鞏膜緣)周圍有黏液狀結節 分布,呈果凍狀,伴有含嗜酸性球的上皮細胞形成的白色小點(Horner- Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - 3. 季節性過敏性結膜炎(Seasonal allergic conjunctivitis, SAC)、常年性過敏性結膜炎(Perennial allergic conjunctivitis, PAC): 前者通常是指對植物的花粉或孢子過敏所引起之結膜發炎,常出現在特定花粉或孢子濃度升高的季節,病患本身常有氣喘,過敏性鼻炎等病史。後者則是因為對家塵(house dust mites)、黴菌、寵物等漂浮物過敏所引起。兩者皆為第一型過敏反應,發作常為短暫性或陣發性,且很少造成視力上的影響。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - 1. 青光眼藥物治療首先必須考慮青光眼的類型,其次需注意病患的內科疾病史(如氣喘、心跳過慢、心衰竭等)。另外,考慮到病人用藥順從性(compliance),用藥越少越好,先以第一線用藥為優先,若有禁忌則使用第二線用藥。 Source: [[sources/med6-book2-ch11|癸、青光眼]].

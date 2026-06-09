@@ -55,6 +55,8 @@ sources:
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book3-ch07]]"
 aliases:
   - 'Oxygen therapy (氧氣治療)'
   - 'Oxygen therapy'
@@ -69,7 +71,7 @@ tags:
 
 ## Summary
 
-低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -124,9 +126,14 @@ tags:
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book3-ch05]]
+- [[sources/med6-book3-ch07]]
 
 ## Key Details From Sources
 
+- e. Metabolic equivalent (MET):代謝當量,常見於健身房運動器材的螢幕上, 1 MET 被定義為每公斤每分鐘消耗 3.5 mL 氧氣 (3.5 mL/min/kg),相當於一個人在安靜狀態下,沒有任何活動時每分鐘的氧氣消耗量。一個 5 METs 的活動表示運動時氧氣的消耗量是安靜狀態時的 5 倍。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- 8. 長期氧氣治療: - (1) 肺疾患者(例如 COPD)進展到末期時,容易有低血氧的情形,甚至容易合併 酸血症,故會給予病患長期氧氣治療。 - (2) 目前大多數研究均指出氧氣治療可減輕呼吸困難、改善運動耐力和效能、減輕肺動脈高壓,降低死亡率減少住院次數改善運動量(增加耐力)、改善繼發性紅血球增多症(secondary polycythemia,因長期組織缺氧引起紅血球大量被製造)、改善生活品質。 - (3) 給氧原則為動脈血氧分壓不低於 60 mmHg,以及動脈血氧飽和度需大於 90% saturation。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- ...的組織。 - (b) 除了熱效應之外,電磁波亦能產生其他生物效應: - i. 改變細胞活性,活化纖維母細胞、神經細胞,甚至刺激 ATP 與蛋白質 之合成。 - ii. 增加糖尿病患傷口附近局部微血管的充血,改善局部血液循環,增加 局部組織的氧氣與養分供應,有助於傷口癒合。 - (c) 禁忌症: - i. 施作部位不能有金屬植入物(金屬骨板、人工關節、子宮內避孕器), 電磁波會使金屬周圍產生高熱燙傷組織。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - ...rysms)形成,若破裂會導致出血。此外,微血管通透性上升導致視網膜水腫(retinal edema),並有脂蛋白和巨噬細胞組成的硬性滲出物(hard exudates)沉積。 - (2) 小血管阻塞:紅血球變形和血小板黏度和凝聚力上升導致氧氣運輸量降低,並且導致血流變慢、缺血以至於微血管阻塞的發生,導致視網膜內小血管異常 (intraretinal microvascular abnormalities, IRMA) 如 AV shunt。持續的缺氧進一步造成生長因子(VEGF)釋出造成新生血管。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - (NTG)、吸氧吸入(95% 氧和 5% 二氧化碳)、靜脈注射降眼壓藥物(Diamox 或 mannitol)、前房穿刺術等,不過效果均不佳。\*可記憶為 "MONA": M 是 眼球按摩(ocular massage)和 mannitol,O 是氧氣,N 是 NTG,A 是前房穿刺 (anterior chamber paracentesis)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 1. 流行病學:目前推測與早產兒使用氧氣有關,主要發生在出生**體重小於1,500 公克、或是懷胎小於32 週的嬰兒**;懷孕週數越小、出生體重越輕,機會越高(體重小於1,250 公克,發生率約50%;大於32 週以上才出生,就幾乎不會發生)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -142,7 +149,6 @@ tags:
 - (D) 9. 當你接收到一位嚴重創傷已插有氣管內管插管 (endotracheal tube) 103(二)專 的轉診病人時,下列處置何者最適當? 醫五-73 - (A) 儘快接上呼吸器 - (B) 趕快評估其他未被發現的傷害 - (C) 迅速地拔除氣管內插管並給予足夠的氧氣 - (D) 檢查氣管內插管的位置是否在正確位置上 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 6. 治療:初期基本處置上,腸胃疝入胸腔是因液體或空氣積聚,導致腸胃道持續膨脹 擠入胸腔,故首要是解除壓力,除了放置鼻胃管外,須避免做面罩扣壓給氣之動作 以免將空氣繼續灌入腸胃道而加重病情。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - (BD) 2. 先天橫隔膜疝氣 (congenital diaphragmatic hernia) 的嬰兒,其 101(ニ)専 出生須急救的步驟不包括下列何者? - (A) 氣管內插管 (endotracheal tube) - (B) 面罩 (mask) 呼吸 - (C) 放置胃管 - (D) 動脈及靜脈導管 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- (A) 5. 26 歲男性,身高 178 公分,體重 63 公斤,過往健康情況良好。 100(二)專某天深夜打電腦時突然右側胸痛及呼吸困難。聽診發現左側呼 醫五-10 吸聲音比右側明顯許多。請問以下那一項處置較不恰當? - (A) 安排支氣管鏡檢查是否有右側支氣管異物 - (B) 安排胸部 X 光攝影 - (C) 給予氧氣治療 - (D) 準備放置胸管的器械及用品 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 
 ## Clinical Caveats
 

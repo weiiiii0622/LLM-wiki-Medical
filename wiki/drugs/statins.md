@@ -38,6 +38,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book3-ch05]]"
 aliases:
   - 'Statins (史他汀類)'
   - 'Statins'
@@ -52,7 +53,7 @@ tags:
 
 ## Summary
 
-降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +91,11 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book3-ch05]]
 
 ## Key Details From Sources
 
+- (3) 減重、降低 LDL 和 TG、提高 HDL。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...flutamide ( 肝毒性 )。 | | | | ・物理性除毛 ± 抑制毛髮生成外用藥 (如:vaniqa) | | | 新陳代謝問題 | · metformin 或其他胰島素增敏劑來改善胰島素抗性 | | | | ・ 血脂異常可用 Statins 類藥物 ( 如:simvastatin) 治療 | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (1) estrogen 會影響脂肪代謝(增加 HDL、減少 LDL)、減少胰島素抗性和增加動脈血流,因此更年期後冠心病風險會增加。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (B) 女性荷爾蒙有降低 LDL 的效果,所以可用於預防心血管疾病 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -110,7 +113,6 @@ tags:
 - (B) 長效體抑素作用類似物(long-acting somatostatin analogues) 治療無效 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - E. Somatostatinoma 231 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 - 3. 一般為 5 mU/mL、血糖 111In-octreotide scintigraphy(成功率僅 50%,效果劣於偵測其他胰島細胞瘤,因 insulinoma 含的 somatostatin receptor 較少)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- (2) 111In-octreotide scintigraphy:最有效,因為 90%的 gastrinoma 有 somatostatin receptor。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
 
 ## Clinical Caveats
 

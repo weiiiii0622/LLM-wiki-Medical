@@ -41,6 +41,9 @@ sources:
   - "[[sources/med6-book2-ch14]]"
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book3-ch02]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -55,7 +58,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +99,16 @@ tags:
 - [[sources/med6-book2-ch14]]
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book2-ch17]]
+- [[sources/med6-book3-ch06]]
+- [[sources/med6-book3-ch01]]
+- [[sources/med6-book3-ch02]]
 
 ## Key Details From Sources
 
+- ...糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(spastic, 60%): 最常見,呈現上運動神經元疾病的表徵如肌肉張力高、阻力強且深腱反射強,尤其是在動作表現時更為明顯,當動作速度增快時,張力就會更強。痙攣型依肢體受影響的部更可細分成: - (a) 單肢麻痺型 (monoplegia):四肢中僅其中一肢癱瘓,較罕見。 - (b) 半側麻痺型(hemipleg Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- b. 其他像是子宮內感染(rubella、CMV、toxoplasmosis和syphilis)、產程中缺氧、腦炎或腦膜炎也會造成聽力障礙。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
+- 4. 當負責上述語言功能的區域或途徑受破壞時,會引發不同程度的失語症,造成失語症常見的原因如下: - (1) 大腦血管病變:即腦中風,如血栓、栓塞、腦出血及動脈破裂。 - (2) 腦外傷:有穿入性外傷及非穿入性外傷。 - (3) 腦瘤。 - (4) 腦組織炎症 (encephalitis)。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- (1) 創傷後水腦症(posttraumatic hydrocephalus):約有四到七成的患者腦室會擴大,腦壓通常不會跟著升高(normal pressure type)。常見症狀有頭痛、噁心嘔吐、意識改變。電腦斷層上可見腦室周圍較亮(periventricular lucency)、腦溝消失及腦室不規則擴張。治療上主要是腦室引流手術。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (3) 第三對腦神經麻痺:先天性多因本身發育異常或一些發炎性疾病,而在成人多 因腦部血管瘤、糖尿病、外傷、腦炎等造成。患者眼外肌受第六對腦神經控制 會表現外斜(外直肌的作用)、第四對腦神經控制會表現下斜(上斜肌的作用)、 眼瞼下垂及瞳孔放大。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - | 病灶位置 | 視野缺損的形態 | 可能疾病 | |-------|-------------------------------------------|----------------------------------| | 視交叉之前 | 同側單眼視野缺損 | 視神經炎 | | 視交叉 | 雙眼顳側視野缺損 (bitemporal visual field defect) | 腦下垂體腫瘤 (pituitarytumor)、顱咽管瘤 | | | | (craniopharyngioma) | | 視交叉之後 | 雙眼同側視野缺損 (homonynous | 腦瘤、血管阻塞、腦溢血、 | | | visual field defect) | 動脈瘤、腦炎 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...| 出生兩周內發生,除結 | 新生兒的單純疱疹角結膜炎 | | | 毒較可能。 | 膜炎外,大多有 眼瞼及 | 大多數會伴隨全身性感染, | | | | 皮膚的水疱。需注意脈 | 因此需接受全身性抗病毒藥 | | | | 絡膜視網膜炎 及腦炎的 | 物治療。 | | | | 產生。 | 若產婦在生產前後幾天出現 | | | | | 疱疹,需特別留意。 | Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
@@ -113,10 +123,6 @@ tags:
 - 1. 腦震盪 (concussion):頭骨和腦沒有受傷,僅有意識改變,例如:意識不清、失去 意識、記憶缺失 (amnesia)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (2) 50% 急性水腦症及意識改變的病患會自行恢復。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - | 感染位置 | 名稱 | |-------|-------------------| | 腦膜 | 腦膜炎 (Meningitis) | | 腦實質 | 腦炎 (Encephalitis) | | 運動神經元 | Poliomyelitis | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- 2. 病毒性腦膜炎:又稱做無菌性腦膜炎(aseptic meningitis)。 - (1) 致病原: - a. 腸病毒 (enterovirus): 占大宗,約 70%,多影響孩童、年輕人,於夏秋之際最多,以糞口途徑傳染。 - b. 皰疹病毒 (herpes virus): 主要是 HSV II, 可用 acyclovir 治療。 - c. 麻疹病毒 (Measles virus):可能造成亞急性硬化性廣泛性腦炎 (subacute sclerosing panencephalitis, SSPE);由於疫苗普遍,現已少見。 - (2) 症狀: 發燒、頭痛、全身肌肉痛、頸部僵硬多不明顯。 - (3) 治療:支持性療法,若是皰疹病毒(herpes virus),可用 acyclovir 治療。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- | 致病原 | 疾病 | 腦電波 (EEG) 特徵 | | |-----------------------|----------------------------|---------------------|-------| | 感染性蛋白 (Prion protein) | 庫賈氏病 (CJD) | Periodic complex of | 1S | | 疱疹病毒 (Herpes virus) | 疱疹腦炎 (Herpes encephalitis) | spike or slow wave | 2S | | 麻疹病毒 (Measles virus) | 亞急性硬化性廣泛性腦炎 (SSPE) | at intervals of | 3~20S | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- 3. 病理切片會發現急性散發性腦炎,因發炎壞死更厲害,所以併發小出血。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 4. 臨床症狀包括發燒、頭痛、瞻妄、意識改變、癲癇發作、頸部僵硬、視神經炎、急性橫截性脊髓炎、肢體無力等,大多數病人為單次發作。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 
 ## Clinical Caveats
 
