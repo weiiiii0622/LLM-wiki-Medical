@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med6-book2-ch11]]"
+  - "[[sources/med6-book4-ch09]]"
 aliases:
   - 'Gastritis (胃炎)'
   - 'Gastritis'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胃黏膜發炎可由感染、藥物、自體免疫或化學刺激造成。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med6-book2-ch11]]
+- [[sources/med6-book4-ch09]]
 
 ## Key Details From Sources
 
+- 廣泛性的疼痛,較難有明確的痛點,有時也會轉移至其他地方,或伴隨噁心嘔吐。 通常是因為組織損傷,如心肌梗塞、腸胃炎、闌尾炎、癌症侵犯至內臟器官,或者 是腫瘤壓迫所造成的疼痛。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
 - (4) 症狀:通常為單側發生、視力模糊、虹視(halo vision)、瞳孔半放大且固定無 光反應(mid-dilated,fix pupil)、眼睛發紅、結膜充血、角膜水腫、眼睛脹痛、 頭痛、噁心嘔吐。急性青光眼發作時,常因血壓升高、嘔吐等而被誤診為高血 壓急症或腸胃炎,而導致錯誤治療使其不易緩解,甚至造成失明。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - (C) peptic ulcer (D) gastritis Source: [[sources/med5-book4-ch05|戊、食 道]].
 - 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
@@ -86,7 +89,6 @@ tags:
 - ...l sign)。實驗室檢查顯示血糖值為50 mg/dL,血清鈉離子濃度 125 mmol/L、鉀離子濃度 3.6 mmol/L、氯離子濃度 80 mmol/L,尿液鈉離子濃度 50 mmol/L。此病童最可能的診斷為何? - (A) 急性腸胃炎 (acute gastroenteritis) - (B) 心臟衰竭 (heart failure) - (C) 腦炎 (encephalitis) - (D) 腎上腺機能不全 (adrenal insufficiency) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - 【詳解】題目敘述中,病人出現低血糖、低血鈉,脫水症狀,低血壓,及意識不清,可聯想至 adrenal insufficiency。其尿鈉高(>25)表示鈉由 renal loss,故不像急性腸胃炎或心臟衰竭,無局部神經學症狀,故也不像腦炎。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 - (D) 12. 一位 7 歲大的女孩,因腸胃炎就診被發現有貧血現象,過去無重大疾病史,一般發育無明顯異常。進一步血液檢查結果如下:WBC: 3,400/mm³、segment 32%、lymphocyte 62%、RBC: 6.0×106/mm³、Hb: 10.2 g/dL、MCV: 63 fL、MCH: 22 pg、MCHC: 31.4 g/dL、RDW(RBC distribution width)值在正常之下; HbA1: 92.4%、HbA2: 5.2%、HbF: 2.4%。顯示該女孩最有可能是: Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (D) 6. 一位 4 歲男童最近隨母親回大陸省親,回國後他與母親均發生腹瀉及發燒現象,經醫師診斷為急性腸胃炎。過去兩天母親注意到男童變得蒼白、疲倦,而且雙眼浮腫、尿液明顯變少。抽血檢驗發現男童之血色素及血小板數皆降低,尿液常規檢查可見到血尿、蛋白尿。下列何者為最可能之診斷? - (A) Henoch-Schönlein 紫斑症 (Henoch-Schönlein purpura) - (B) IgA 腎炎 (IgA nephropathy) - (C) 鏈球菌感染後之急性腎炎(poststreptococcal glomerulonephritis) - (D) 溶血性尿毒症候群 (hemolytic-uremic syndrome) Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

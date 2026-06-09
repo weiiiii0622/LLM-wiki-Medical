@@ -8,6 +8,9 @@ sources:
   - "[[sources/med3-book1-ch22]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch06]]"
 aliases:
   - 'Lung-protective ventilation (肺保護性通氣)'
   - 'Lung-protective ventilation'
@@ -22,7 +25,7 @@ tags:
 
 ## Summary
 
-ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +33,16 @@ ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。 本頁已整�
 - [[sources/med3-book1-ch22]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch06]]
 
 ## Key Details From Sources
 
+- ...--------------------------------------------------------------------------------------------------------------------| | Low tidal volume: 6 mL | 減少 mortality | | /kg ( 體重用 predicted | | | bodyweight) | | | Prone position | Improved mortality in severe ARDS without | | | refrac tory hypoxemia (2013 meta-analysis) | | FiO 2 | Keep 「adequate」 PaO₂, not high Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (C) 增加潮氣容積(tidal volume) Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 【 詳解 】此情況可能是心臟因搬動刺激 vagal tone 造成 bronchospasm,所以應該做 bronchospasm 的處理,譬如加深麻醉深度、給予氣管舒張劑、減低 tidal volume 並加快呼吸速度代償(total volume keep 6~8 ml/kg)。phosphodiesterase III 抑制劑臨床上用於治療肺高壓。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (4) 會減少病患呼吸時的潮氣容積(tidal volume)。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
 - b. 因黃體素的作用,造成中樞對 $CO_2$ 的敏感度增加,使得橫膈運動增加,導致 relative hyperventilation;另外,潮氣容積(tidal volume)也增加,因而每分 通氣量(minute ventilation)增加, $CO_2$ 的排除增加,於是母血的二氧化碳濃度( $PaCO_2$ )降低,引起輕微呼吸性鹼中毒。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - TLC = total lung capacity 總肺容積 Vt = tidal volume 潮氣容積, 一般吸吐氣量 IC = inspiratory capacity 最大吸氣容積 FRC = functional residual capacity 功能性肺餘容積 ERV = respiratory revserve volume 吐氣保留容積, 一般吐氣保留之可吐氣容積 RV = residual volume 條肺容積, 無法利用來吸吐氣之容積 VC = vital capacity Source: [[sources/med5-book4-ch03|丙、肺]].
 - | Respiratory rate | 2 | > 70 mm Hg (FiO 2 of 40%) | | PaCO 2 | 2 O | | Rapid shallow breathing index, RSBI | ≤ 105 (70% will pass extubation)= respiratory rate/tidal volume [L] | Source: [[sources/med5-book4-ch03|丙、肺]].

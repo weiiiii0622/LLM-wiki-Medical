@@ -24,6 +24,8 @@ sources:
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Stroke / cerebrovascular accident, CVA (腦中風)'
   - 'Stroke / cerebrovascular accident, CVA'
@@ -38,7 +40,7 @@ tags:
 
 ## Summary
 
-腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦血管阻塞或破裂造成急性局部神經功能缺損，需快速分辨 ischemic 與 hemorrhagic stroke。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +64,13 @@ tags:
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 2. 腦神經系統:是否有中風病史、癲癇的病史,若有的話其疾病的影響為何,譬如中風已造成右側肢體無力多年,無力的程度為何,也必須做評估,如此一來術後才知道病患恢復的情況如何,是否有新的中風發生、或是剩餘麻醉藥物作用造成。除此之外,過去有腦血管疾病的病患接受麻醉手術也有比較高的風險,這是必須對病患和家屬做解釋的內容之一。而癲癇的用藥也是評估的重點。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 2. 常見病因: - (1) 出血性腦中風或梗塞性腦中風。 - (2) Vestibular schwannoma (Acoustic neuroma) • Source: [[sources/med6-book4-ch11|甲、耳科]].
 - A. 腦中風 (Cerebral vascular accident, CVA) 4 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - A. 腦中風 (Cerebral vascular accident, CVA) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - 4. 當負責上述語言功能的區域或途徑受破壞時,會引發不同程度的失語症,造成失語症常見的原因如下: - (1) 大腦血管病變:即腦中風,如血栓、栓塞、腦出血及動脈破裂。 - (2) 腦外傷:有穿入性外傷及非穿入性外傷。 - (3) 腦瘤。 - (4) 腦組織炎症 (encephalitis)。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
@@ -81,8 +87,6 @@ tags:
 - 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 情況:一位50歲的婦女,主訴這幾個月來常半夜突然心悸,同時呼吸困難,在過去2、3年內曾有2次腦中風病史,但並沒有任何神經學症狀遺留下來,心臟聽診時,心跳非常不規則,同時在心尖部聽到心舒期雜音,胸部X光檢查及心電圖檢查如圖示。依此回答下列第17題至第19題。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 3. 由於主動脈剝離侵犯到其他血管或是假腔壓迫真腔影響血流而引發器官灌流不足症狀(malperfusion syndrome): - (1) 冠狀動脈:缺血性心臟病。 - (2) 主動脈瓣:急性心衰竭。 - (3) 兩側頸動脈:腦中風。 - (4) 脊椎動脈:下半身麻痺 (paraplegia)。 - (5) 腎動脈:急性腎衰竭, oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- (B) 9. 下列關於不停跳冠狀動脈繞道手術(off-pump coronary artery bypass grafting)的敘述,何者正確? ①須使用 heparin ②人工 心肺機不需待命 ③不須降低體溫 ④不會引發腦中風 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (3) 病人會合併其他部位的動脈異常,如冠狀動脈、大腦血管、腸動脈及腎動脈的 病變,因此會有高比例的心肌梗塞、腦中風或腎病變的可能。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 
 ## Clinical Caveats
 

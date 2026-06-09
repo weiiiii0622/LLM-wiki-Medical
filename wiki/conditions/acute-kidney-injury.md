@@ -24,6 +24,7 @@ sources:
   - "[[sources/med5-book2-ch06]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Acute kidney injury, AKI (急性腎損傷)'
   - 'Acute kidney injury, AKI'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+短期腎功能下降，需分辨 prerenal、intrinsic renal 與 postrenal causes。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med5-book2-ch06]]
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- (C) mannitol 與利尿劑 (furosemide) 對急性腎衰竭病人之幫助 不大 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - (B) 4.921 大地震時,大樓倒塌,一位 46 歲男性被崩塌的混凝土壓到 驅幹與下肢,經過一日一夜之搶救終於送往急診,在急診發現右 側脛骨及腓骨骨折,因此接受跟骨鋼釘牽引術,為避免因橫紋 肌溶解而造成急性腎衰竭,病人轉往加護病房嚴密觀察、並評 估接受血液透析之必要,6 個小時後,病人感到右側小腿非常疼 痛,當護士扳動腳趾時,疼痛感更形加劇,下一步應採取之最 佳步驟是下列何者? Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - ...----|-----------------------------------------------------------------|---------| | | 下列敘述何者錯誤? | 醫五 -29 | | | (A) 低血容合併急性腎衰竭 (hypovolemia with acute renal failure) | | | | (B) 低血氧合併成人呼吸窘迫症 (hypoxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis w Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...(malperfusion syndrome): - (1) 冠狀動脈:缺血性心臟病。 - (2) 主動脈瓣:急性心衰竭。 - (3) 兩側頸動脈:腦中風。 - (4) 脊椎動脈:下半身麻痺 (paraplegia)。 - (5) 腎動脈:急性腎衰竭, oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心臟舒張,造成回心血量減少, 連帶使得心輸出量減少。 - b. 典型的臨床表現有 Beck's t Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
@@ -82,7 +85,6 @@ tags:
 - 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
 - (C) 6.63 歲的王女士有糖尿病腎病變,其家系圖(pedigree)及病人自填的家庭圈(family circle)如下圖。王女士最近因急性腎衰竭併急性呼吸窘迫症候群,住進加護病房並接受氣管插管,經近一週的治療,病情並無明顯改善,必須執行氣管造口術(tracheostomy),醫護人員告知王女士及家屬氣管造口術的需要性。雖然王女士無法說話,但意識清楚,一直搖頭拒絕氣管造口術,除了醫護人員的努力之外,您會認為請那一位家屬去說服最合適? Source: [[sources/med3-book4-ch24|甲、家庭醫業]].
 - ## 丙、急性腎損傷 (Acute kidney injury, AKI) Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- 1. 以往我們通常使用 acute renal failure(ARF)來描述短時間內發生的腎功能惡化,但由 於文獻上對於 ARF 的定義分歧,且皆未對病患的嚴重度有良好分類,因此,近年已改 用 acute kidney injury(AKI)來取代 acute renal failure(ARF)。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 
 ## Clinical Caveats
 

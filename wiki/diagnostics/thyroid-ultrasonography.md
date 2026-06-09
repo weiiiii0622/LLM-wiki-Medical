@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book3-ch10]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book5-ch03]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Thyroid ultrasonography (甲狀腺超音波)'
   - 'Thyroid ultrasonography'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-評估 thyroid nodule 的 cystic/solid、鈣化、邊緣、血流與 FNA 導引。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估 thyroid nodule 的 cystic/solid、鈣化、邊緣、血流與 FNA 導引。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med5-book3-ch10]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book5-ch03]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- (2) 術前建議施行甲狀腺核子掃瞄或甲狀腺超音波或電腦斷層以確定病人有正常位置的甲狀腺,以免誤切甲狀腺。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - (D) 20. 陳先生 17 歲,最近發現右側睪丸有一 2.5×2.0 公分無痛性腫塊, 101(二)專 陰囊超音波檢查發現副睪丸正常,右側睪丸有一低回音病灶 (hypoechoic lesion),血液檢查腫瘤標記(tumor markers 甲型 胎兒蛋白(AFP)為5 ng/ml,乙型人類脈絡膜生殖腺素(betahCG) 醫五-69 | |---------|------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 4. 超音波下的惡性表現: - (1) 腫塊邊緣呈針刺狀(sonographic spiculation)。 - (2) 腫塊本身是往深處侵犯的(deeper than wide)。 - (3) 小葉狀的腫塊 (microlobulations)。 - (4) 低迴音腫塊 (hypoechoic nodule)。 - (5) 後方具陰影 (sonographic posterior acoustic shadow)。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 - (6) 微小鈣化點 (microcalcification)。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].

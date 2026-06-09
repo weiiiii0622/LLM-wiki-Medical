@@ -36,6 +36,11 @@ sources:
   - "[[sources/med5-book1-ch15]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch08]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Cerebrospinal fluid analysis, CSF (腦脊髓液檢查)'
   - 'Cerebrospinal fluid analysis, CSF'
@@ -50,7 +55,7 @@ tags:
 
 ## Summary
 
-用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +91,20 @@ tags:
 - [[sources/med5-book1-ch15]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch08]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (b) 功能性內視鏡鼻竇手術(functional endoscopic sinus surgery, FESS)。 - i. 治療慢性鼻竇感染的最常見手術方法。手術使用放大鼻竇內視鏡透過 鼻孔進行。其風險較小,手術後恢復速度比傳統的竇房手術較快。 - ii. 併發症:因傷害到視神經而影響視力、腦脊髓液漏出、牙齒或上唇麻木感、感染、出血。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 1. 常是因為篩板或篩骨蝶竇的骨折或醫源性(腦下垂體手術或鼻竇手術)所引起。當 低下頭時前鼻孔會流出透明的水樣鼻漏,即是腦脊髓液。容易引起腦膜炎。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 4. 預定做 spinal/epidural anesthesia 的病人,必須注意是否有 lumbar puncture 的禁忌症。 術前若有 KUB 也可參考是否有 L-spine 的問題存在,影響成功率。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...| 老人 | $\downarrow$ | | | 性別 | | 不變 | | | ○ 中 小主 | 急性中毒 | \ | | | 酒 精 | 慢性濫用 | · 1 | | | 貧 血 | Hct 2 > 95 mmHg | \ | 因為 CSF 的 pH 下降 | | 休 克 | 平均動脈壓 \ | | | 懷孕 | | ↓ | | | | 亢 進 | 不 變 | 有些研究說只會輕微↑ MAC 值 | | 甲狀腺 | 低下 | 不變 | | | 藥物 | 嗎啡類止痛藥、ketamine、BZDs、巴比妥鹽類、局部麻醉藥 | ↓ | 麻醉藥物基本上都會加乘效果 | | | 麻黄素、cocaine、交感興奮性藥物 | ↑ | | Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- ...- (4) 禁忌症:病患無法配合、凝血功能異常、局部有感染現象、IICP。 - (5) 副作用:Postdural puncture headache (PDPH)。 - a. 原因:脊髓硬腦膜(dura)遭受穿刺後若沒有癒合的很好造成 CSF 持續滲漏,會使病人發生低壓性的頭痛(low pressure headache)和噁心的現象,通常在接受麻醉後的 1~2 天發生,坐起來會加劇、平躺的話症狀會緩解。好發於年輕、懷孕者。與穿刺針的大小、針面形狀和多次的穿刺相關。 - b. 治療:大部分會自然緩解,建議病患平躺、大量輸液、使用口服止痛藥物、或是咖啡因也有幫助。若頭痛仍然持續沒有緩解,最好的方法就是硬脊膜外自體血液凝塊(epidural blood patch),也就是注射 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
+- a. 特別注意病人是否目前仍有細菌性腦膜炎感染的可能性,可進行腰椎穿刺 (lumbar puncture) 確認。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (d) 併發症:手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下 垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 【詳解】泌乳激素瘤 1 公分以上為 macroadenoma,已造成視野缺損,須接受治療。(A) 藥物治療(dopamine agonist,如 cabergoline, bromocriptine)為首選之治療方式,藥物效果良好(約 90%),但仍有 10% 對藥物無反應;(B)(C) 若藥物治療無效,可考慮經蝶竇腦下垂體手術(transsphenoidal pituitary surgery)切除腫瘤,不過,手術切除後可能復發,需接受定期追蹤;(D) 手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -101,11 +117,6 @@ tags:
 - 1. 阻塞性水腦症(obstructive): 腦室系統受阻塞影響到 CSF 的流通。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 2. 交通性水腦症(communicating):蜘蛛網膜顆粒(arachnoid granulation)受到影響 導致 CSF 的回收受阻。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 2. 交通性: - (1) 腦膜變厚或蜘蛛膜顆粒受影響:感染、SAH。 - (2) CSF 黏度太高。 - (3) CSF 分泌太多(脈絡叢乳突瘤),但少見。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
-- 1. 頭顱是個封閉性的堅硬結構,裡面包含的內容物(及其粗估體積)有: - (1) 大腦(含細胞外液):1,400 mL。 - (2) 大腦血流量 (cerebral blood volume, CBV):150 mL。 - (3) 腦脊液(CSF):150 mL。 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
-- 2. 診斷: CSF 可用 Indian ink 染色,可見外包一層厚厚的 polysaccharides 的隱球菌或直接偵測 *Cryptococcus antigen*;有一半的病人抽血也可偵測到 *Cryptococcus antigen*。 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- ...,下列何者正確? | 醫四 -54 | | | (A) 通常發生此病之平均年齡為 65 歲 | | | | (B) 常合併憂鬱,智能急速減退,及肌躍症 | | | | (C) 平均存活時間比散發型庫賈氏病長 | | | | (D) 大多數於腦脊髓液中會有 14-3-3 蛋白,且可測得普利昂 (prion) | | | | 蛋白 | | | (#) | 8. 下列有關神經性梅毒(neurosyphilis)之敘述,何者錯誤? | 106(二)專 | | | (A) 10% 沒有接受治療的早期梅毒的患者會罹病 | 醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- (D) 11. 下列何項檢查結果對診斷單純疱疹性腦炎(herpes simplex ence-phalitis)最不具有特異性? 105( ) 專 - (A) 腦脊髓液的單純疱疹病毒的 PCR (polymerase chain reaction) 檢查呈陽性反應 - (B) 腦部磁振照影檢查發現大腦之額葉和顳葉受侵犯 - (C) 腦波出現單側週期性癲癇波 (periodic lateralized epileptic discharges, PLEDs) - (D) 血清中抗疱疹病毒抗體上升 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- 【詳解】(A) 正確,也因此中樞神經破壞範圍較大,預後較差。(B) 並無周邊神經病變的表現。(C) NMO 的預後比 MS 差。(D) 兩者的 CSF 的蛋白質均會升高;但 NMO 確實比較少 oligoclonal band。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 
 ## Clinical Caveats
 

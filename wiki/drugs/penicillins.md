@@ -39,6 +39,8 @@ sources:
   - "[[sources/med6-book1-ch15]]"
   - "[[sources/med6-book2-ch17]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch13]]"
 aliases:
   - 'Penicillins (青黴素類)'
   - 'Penicillins'
@@ -53,7 +55,7 @@ tags:
 
 ## Summary
 
-beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +94,15 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - [[sources/med6-book1-ch15]]
 - [[sources/med6-book2-ch17]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch13]]
 
 ## Key Details From Sources
 
+- a. 急性中耳炎以口服 Amoxicillin 為首選藥物,治療約 10 至 14 天。若對於 Penicillin 過敏的病人,可考慮給予 Macrolide 類的藥物如 Clarithromycin、 Azithromycin 或 Trimethoprim-sulphamethoxazole。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- b. 第二線的藥物可以給予: - (a) Amoxicillin-clavulanic acid • - (b) Cephalosporin 類的藥物如第二代的 Cefurozime,第三代的 Ceftriaxone。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (2) 使用抗生素作為治療。由於致病菌與急性中耳炎類似,因此也以口服 Amoxicillin 為首選藥物。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 2. 抗生素治療: - (1) 針對為 Haemophilus influenzae type B 可使用 ampicillin 與 chloramphenicol。 - (2) 第二或第三代 cephalosporin 類的抗生素。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
 - ...代替,故已極少發 | | | | | 生。 | | 細菌性 | 細菌性眼炎中,以 | 多在出生 2~7 天內發生 | 給予全身性抗生素:第三 | | | 「淋病性」眼炎最為 | 。兩眼紅腫、大量的化 | 代 cephalosporin 或 penicillin | | | 危險。父母有性病 | 膿性分泌物產生,嚴重 | G治療,並以食鹽水沖洗眼 | | | 史,最常被考慮的就 | 會導致角膜水腫、潰瘍 | 睛。現在通常先以紅黴素或 | | | 是格蘭氏陰性 Gram | 、穿孔、並發產成為眼 | 四環黴素眼藥膏預防。 | | | (-)的淋病雙球菌。 | 內炎。 | | | 披衣菌 | 父母多有性病史,生 | 多在出生兩週後出現症 | 口服紅黴素或磺胺類藥物。 | | | 產時經產道感染。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
 - (3) 治療:每天 120 萬~240 萬單位的 penicillin G IV 注射兩週。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (C) 4. 有關剖腹產孕婦之預防性抗生素之給予,若孕婦對 penicillin 或 107(-)專 cephalosporin 嚴重過敏,下列何者為最適合之預防性抗生素? Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
@@ -109,10 +117,6 @@ beta-lactam 類抗生素，抑制細胞壁 transpeptidase/PBP。 本頁已整合
 - (a) 先用廣效的經驗性抗生素 ampicillin/vancomycin + aminoglycoside/ 3rd cephalosporin。(因為不易從尿液或血液培養得到正確致病菌) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...olution agents):使用的藥劑依據結石成分而不同。 - (1) 含鈣結石、尿酸結石、胱氨酸結石:鹼化尿液(pH > 8)可溶解結石。 - a. 口服:碳酸氫鈉、碳酸氫鉀、檸檬酸鉀。要監測心腎功能。 - b. 直接打入腎盂:可從 PCN tube(percutaneous nephrostomy tube)或逆行輸尿管的管路打入碳酸氫鈉。 - (2) 磷酸銨鎂結石:酸化尿液(pH 2 cm: 首選經皮腎造口取石術 (PCNL)。但可看結石成分不同而考慮 ESWL。較硬的鹿角結石 (staghorn calculi)選 PCNL。較軟的結石 (尿酸、磷酸銨鎂與雙水草酸鈣),可選擇 ESWL。注意:有出血傾向或凝血功能 不佳者,不宜使用 ESWL 或 PCNL 時,可選擇 Source: [[sources/med5-book5-ch05|戊、結 石]].
 - 【詳解】幽門螺旋桿菌(Helicobacter pylori) 感染以藥物保守性治療為主, ex: Clarithromycin + Amoxicillin。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (4) 治療:要看病人到底是什麼樣子的原因導致膽管炎,針對此 underlying 進行 治療。 - a. 80% 病人可經由保守性治療治癒,使用廣效性抗生素(ampicillin + gentamycin/levofloxacin+/- metronidazole)治療即可。 - b. 20%的病人需要進行膽道減壓手術,包含經由ERCP取石術,或是經由PTCD引流,或是手術緩解阻塞原因。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- ...氣腫,影響血液循環造成壞死 (gas gangrene)。 - b. Clostridium difficile:偽膜性大腸炎(Pseudomembranous colitis)的始作俑者。 - (a) 因病人使用 clindamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- (3) Clostridium tetani (破傷風桿菌): - a. 引起破傷風(Tetanus),臨床症狀有牙關緊閉、肌肉僵直、抽搐。 - b. 治療:肌肉注射破傷風免疫球蛋白;口服或靜脈注射 metronidazole 是首選抗 生素治療,其次可選用靜脈注射 penicillin。抗生素需持續治療 10~14 天。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- ...醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性反應有助於診斷 | | | | (D)治療方法為經肌肉注射盤尼西林(penicillin)每週一次共三次 | | | | 【詳解】本題答 (A)、(D) 給分。 | | | (D) | 9. 變異型庫賈氏病(variant Creutzfeldt-Jakob disease, vCJD)和散發 | 106(一)專 | | | 型庫賈氏病(sporadic Creutzfeldt-Jakob disease, sCJD)的差異, | 醫四 -57 | | | 下列敘述何者錯誤? | | | | (A) vCJD 的病程比 s Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 
 ## Clinical Caveats
 

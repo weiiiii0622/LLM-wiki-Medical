@@ -55,6 +55,9 @@ sources:
   - "[[sources/med6-book2-ch15]]"
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Cardiac catheterization (心導管檢查)'
   - 'Cardiac catheterization'
@@ -69,7 +72,7 @@ tags:
 
 ## Summary
 
-評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估冠狀動脈狹窄並可銜接介入治療。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -124,9 +127,17 @@ tags:
 - [[sources/med6-book2-ch15]]
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- (D) 31. 一位 70 歲男性欲接受全膝關節置換術,病患有冠狀動脈病史並接受過心導管氣球擴張術,症狀改善。輕微運動時仍需稍作休息,但無胸悶症狀。手術採全身麻醉,以 thiopental、succinylcholine 及 halothane 來進行麻醉。在放置膝關節時,突然血壓下降,ECG 顯示心房纖維顫動,心率為 105 次 / 分。下列敘述何者最有可能? Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (D) 32. 50 歲男性病人,三天前因嚴重頭痛到院,經電腦斷層與血管攝影檢查後診斷出大腦動脈瘤(cerebral arterial aneurysm),現進行手術。對麻醉的誘導和維持,下列敘述何者錯誤? - (A) 需動脈導管 (arterial catheter) 監測血壓 - (B) 麻醉誘導須避免突然血壓上升 (acute hypertension) - (C) 手術中選擇性低血壓 (induced hypotension) 常使用高濃度 isoflurane 合併 nitroprusside - (D) 手術中過度換氣,造成動脈二氧化碳氣體壓力 ( $PaCO_2$ ) 的下降,可增加腦部血流量 (cerebral blood flow) Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 4. 肺動脈導管 (Pulmonary artery catheterization) / (Swan-Ganz catheter): Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (A) 28. 關於中央靜脈導管置放術(central venous catheterization)的敘述,下列何者錯誤? Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 3. 門診時做切片可能會造成嚴重出血,可會診放射科做血管攝影與栓塞。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - (3)接受過心導管或心臟繞道手術的病患,若有接受心臟復健,其血管再堵塞的機率較低,死亡率甚至可降低百分之二十五。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - c. Myocardial Oxygen Consumption(MVO2): 即心肌攝氧量,需用心導管去測量。臨床上常使用心率收縮壓乘積(Rate pressure product, RPP,或稱 double product)當作其指標。Rate Pressure Product(RPP) = 心率收縮壓乘積(SBP×HR)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (a) 長期置放導尿管容易引起反覆感染、尿路結石、甚至癌症風險。若臨床狀況允許,需考慮使用乾淨間歇性自我導尿(clean intermittent catheterization),並輔助下列處理方法幫助排尿。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
@@ -140,11 +151,6 @@ tags:
 - (C) 血管攝影雖比較具侵襲性,但卻是最正確的診斷方式 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 - 【詳解】這並不是腎臟腫瘤,這是屬於血管的異常,由圖可以 看出血管攝影不正常的增生與膨大。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - ...公分 | | | (D) 20. 一位 35 歲女性被診斷出腎 | 腎臟有 angiomyolipoma(AML),下列 | 103(一)專 | | 敘述何者錯誤? | | 醫五-66 | | (A)使用超音波或電腦斷層 | 層診斷此症比用血管攝影方法準確 | | | (B) 若為 tuberous sclerosis多發性 | s 患者罹患 AML,則 AML 常為雙側且 | | | | 自發性破裂引發後腹腔出血 | | | • • • • • • • • • • • • • • • • • • • • | 若罹患 AML,其 AML 病理組織形態, | | | | 患者所罹患的 AML 病理組織形態不同 | | | | | | Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (A) 23. 一位 19 歲女性,三個月前因車禍傷及腹部住院,最近又因持續 102(二)專大量血尿再度住院,血管攝影影像如附圖,對該病患最可能的診 醫五-73 斷為下列何者? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- | | Incidence (%) | | | | | |---------|---------------|------|-----------------------------------------------------|--|--| | Age (y) | Female | Male | Risk factors | | | | 65 | 40 | 35 | Incontinence, catheterization, prostate obstruction | | | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- ...----------------------------------------------------|------------------| | | (B) 移除導尿管,改成每天定時間歇性清潔導尿(intermittent clean catheterization)(C) 給予 amphotericin-B 膀胱連續沖洗(D) 給予 amphotericin-B 靜脈注射 | | | (B) | 5. 一位 40 歲女性門診主訴血尿,尿液檢查(U/A)結果如下:比重 1.000,尿潛血(OB)2+,紅血球(RBC)0~1/HPF,白血球(WBC)1~2/HPF,尿蛋白(-)。理學檢查無異狀,下列何者為最佳處置? (A)告訴病人沒有問題 (B)告訴病人檢驗結果可能偽陰性(false negativ Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- d. 影像學: - (a) Doppler 超音波血流檢查。 - (b) 海綿體攝影 (cavernosometry and cavernosography): 把顯影劑注入海綿體, 主要用以診斷 Venous ED type 1。 - (c) 會陰部血管攝影。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- Catheterization, particularly subclavian vein Source: [[sources/med5-book4-ch02|乙、肋膜]].
 
 ## Clinical Caveats
 

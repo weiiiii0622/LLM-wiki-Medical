@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Brain magnetic resonance imaging, brain MRI (腦部磁振造影)'
   - 'Brain magnetic resonance imaging, brain MRI'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+對急性缺血、脫髓鞘、腫瘤、感染與後顱窩病灶較敏感。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- f. Brain CT /Brain MRI • Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 6. Multiple sclerosis - (1) 定義: - a. 約 20% 的 multiple sclerosis 病患會出現 vertigo 與 nystagmus 的症狀。 - b. 起因為中樞神經的去髓鞘化,影響至前庭神經和與聽神經的功能。 - c. 須以 Brain MRI 做進一步的分析診斷。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - (D) 核磁共振影像(magnetic resonance imaging) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...nflammatory drugs (NSAIDs) | | 放射方式治療 | Uterine artery embolization | | | • High intensity focused ultrasound (HIFU) or Magnetic Resonance- | | | guided Focused Ultrasound (MRgFUS) | | 手術治療 | · 主要手術方式為子宮切除或肌瘤切除術 | | | ・保守性或輔助性手術包括 Endometrial ablation、Myolysis 和 | | | Uterine artery occlusion | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - ...|---------| | | (A) 電腦斷層檢查(computed tomography) | 醫五 -25 | | | (B) 內視鏡超音波檢查(endoscopic ultrasound) | | | | (C) 核磁共振影像檢查(magnetic resonance imaging) | | | | (D) 正子攝影檢查(positron emission tomography) | | | (C) | 3. 食道癌最常見的臨床狀況為何? | 105(一)專 | | | (A) 發燒 | 醫五 -27 | | | (B) 胸痛 | | | | (C) 漸行性吞嚥困難 | | | | (D) 食道逆流 | | | (A) | 4. 上段食道癌多為? | 104(二)專 | | * | (A) 鱗狀細 Source: [[sources/med5-book4-ch05|戊、食 道]].

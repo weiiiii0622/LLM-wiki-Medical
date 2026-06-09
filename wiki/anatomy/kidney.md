@@ -99,6 +99,11 @@ sources:
   - "[[sources/med6-book1-ch09]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch07]]"
 aliases:
   - 'Kidney (腎臟)'
   - 'Kidney'
@@ -113,7 +118,7 @@ tags:
 
 ## Summary
 
-腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -212,9 +217,20 @@ tags:
 - [[sources/med6-book1-ch09]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch07]]
 
 ## Key Details From Sources
 
+- (2) 缺點:遇到麻醉機裡的二氧化碳吸附劑(鹼性物質)會產生 compound A,具有腎臟毒性。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- ICP: 顱內壓; RBF: renal blood flow; HBF: hepatic blood flow Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- (A) 是一種非兒茶酚胺 (noncatecholamine) - (B) 在心血管作用上,可以上升血壓、加快心跳 - (C) 是一種支氣管收縮劑(bronchoconstrictor) - (D) 會減少腎臟血流量 (renal blood flow) Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 6. 腎臟系統:是否有 CKD/ESRD,有無進行血液透析或腹膜透析,術前血液檢查數值 為何。有沒有哪一手禁做治療? Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- d. 血液透析:連續性腎替代性治療(Continuous renal replacement therapy)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- ...現肌肉鬆弛的現象。 - b. Sch 在血中會迅速的被肝臟製造的 pseudocholinesterase 水解,所以作用時間 很短。血中 pseudocholinesterase 的量也會影響 Sch 的作用時間,有些病患可能有肝臟疾病、腎臟疾病、癌症或妊娠等也會改變 pseudocholinesterase 的性質,及所謂的 atypical plasma cholinesterase,由於無法正常代謝 Sch,使 Sch 作用延長。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
 - 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - | Uncomplicated UTI | 非複雜性指患者為非懷孕時期的健康成人 | |-------------------|-------------------------------------| | Complicated UTI | 複雜性指患者存在可能導致治療失敗的潛在問題,這些問題 | | | 包括 (1) 糖尿病、(2) 懷孕、(3) 院內感染、(4) 腎衰竭、 | | | (5) 放置導尿管或 PCN、(6) 泌尿道有結構或功能異常、 | | | (7) 泌尿道阻塞、(8) 腎臟移植、(9) 免疫功能不全等 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - ※複雜性腎盂腎炎可能進展為腎膿瘍(renal abscess),可能導致敗血症、休克、 甚至多重器官衰竭 Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
@@ -227,12 +243,6 @@ tags:
 - (D) 若有慢性高血壓的孕婦在懷孕前沒有腎臟疾病,懷孕後肌酸 酐 (creatinine) 若大於 1.1 mg/dL 則可診斷為子癇前症 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ※註 2:由於 oxytocin 的構造與 vasopressin(ADH)相似,會和腎臟 vasopressin receptor 交互作用,造成水分滯留和稀釋性低血鈉,即是所謂的水中毒。當高劑量催產素(40 mU/min)合併大量的低滲透靜脈輸液( $\geq$ 3 L)持續( $\geq$ 7 hrs)給予,便容易產生。低血鈉的症狀包括:頭痛、噁心嘔吐、腹痛、疲倦、意識不清、癲癇大發作和神經學損傷。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - (C) 98% 的鈣會被腎臟再吸收,主要是在遠端腎小管 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- 【詳解】(C) 98%的鈣會被腎臟再吸收,主要是在近端腎小管(60%)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- 【詳解】rickets 和 osteomalacia 都是 defect in bone minerzlization,但 ricket 是發生在小孩(生長板未關閉前), osteomalacia 發 生在生長板關閉後。(A) 描述是 ricket 的制病原因, osteomalacia 則是其他原因(Vit D deficiency, renal osteotrophy…)等原因造成; Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- 2. Multiple myeloma 是最常見的原發性骨癌。症狀可以用 CRAB (螃蟹的拼音) 來記: - (1) hyper Calcemia • - (2) Renal impairment • - (3) Anemia • - (4) Bone pain • Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- #### A. 腎臟囊腫 (Renal cyst) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- 1. 流行病學:腎臟常見的構造異常,50歲以上盛行率30%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (1) 症狀: 一般無明顯症狀,若>10 cm或位在腎盞-輸尿管附近,會造成阻塞性水腎。 (記法:因為腎臟大小 10×5×2.5 cm) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 
 ## Clinical Caveats
 

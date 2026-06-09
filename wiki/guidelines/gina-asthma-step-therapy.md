@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch15]]"
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch09]]"
 aliases:
   - 'GINA asthma step therapy (GINA 氣喘階梯治療)'
   - 'GINA asthma step therapy'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-氣喘控制藥物依症狀與惡化風險升降階。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘控制藥物依症狀與惡化風險升降階。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch15]]
 - [[sources/med4-book1-ch07]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch09]]
 
 ## Key Details From Sources
 
+- ...| | |-------------------------------------|-----------------------------------|--------------------------------| | | | Step 3 | | | | Severe pain | | | Step 2Moderate to severe pain | | | Step 1Mild to moderate pain | Weak opioids | Strong opioids+Non-opioids | | Non-opioids+Adjuvant analgesics | +Non-opioids +Adjuvant analgesics | +Adjuvant a Source: [[sources/med6-book4-ch09|壬、疼 痛]].
 - (8) ASIA impainment scale 的分類三步驟: - a. STEP 1:分類時先分是不是 complete 即 ASIA A =沒有 sacral sparing =「沒有自主肛門收縮」+「S4-5 的 pin prick 和 light touch 都 = 0」+「沒有肛門 深處的感覺」。 - b. STEP 2:若不是 ASIA A,接著看是不是"motor" incomplete,看是否有 (a) 自主肛門收縮或 (b) 兩側的 motor level 各自的下三節以下是否有運動功能,(a)(b) Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 3. 治療:台灣氣喘治療準則是根據 GINA guideline, 其強調根據氣喘控制的狀況來 step up 或 step down (若 well-controlled 則 step down, 若 uncontrolled 則 step up)。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - \* 針對使用低劑量 budesonide/formoterol 或低劑量 beclomethasone/formoterol 作為維持 / 緩解治療的病人,可選擇低劑量 ICS/formoterol 作為緩解型藥物。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].

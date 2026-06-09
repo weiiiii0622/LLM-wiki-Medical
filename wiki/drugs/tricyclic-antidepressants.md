@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med6-book1-ch13]]"
   - "[[sources/med6-book1-ch16]]"
+  - "[[sources/med6-book4-ch09]]"
 aliases:
   - 'Tricyclic antidepressants, TCAs (三環抗憂鬱劑)'
   - 'Tricyclic antidepressants, TCAs'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-傳統抗憂鬱藥，具 anticholinergic、cardiotoxicity 與 overdose 風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳統抗憂鬱藥，具 anticholinergic、cardiotoxicity 與 overdose 風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book5-ch08]]
 - [[sources/med6-book1-ch13]]
 - [[sources/med6-book1-ch16]]
+- [[sources/med6-book4-ch09]]
 
 ## Key Details From Sources
 
+- ...口癒合後,疼痛仍持續大於三個月,可稱為 PHN。 - b. 好發於老年人與免疫力低下者,治療方面也相當棘手。 - (2) 治療: - a. 感染急性期給予Antiviral drugs,但給予抗病毒的藥物並不能預防PHN的產生。 - b. 三環抗憂鬱劑 (tricyclic antidepressant drugs): amitriptyline、nortriptyline、desipramine。 - c. 抗癲癇用藥(anticonvulsants):如:gabapentin、pregabalin、carbamezapine、oxcarbazepine、topiramate 都是治療神經痛的藥物。 - d. 5% Lidocaine patches • - e. Opio Source: [[sources/med6-book4-ch09|壬、疼 痛]].
 - ...並慢慢增加間隔時間 | | | (2)藥物: | | | a. Antimuscarinic agents (oxybutynin, tolterodine) (副作用: 口乾、視力模糊、 | | | 心跳加速、便秘 ) | | | b. 三環抗鬱劑 TCA (imipramine),針對夜尿 ( 副作用:心律不整 ) | | | c. OnabotulinumtoxinA injection:直接注射於逼尿肌 | | | (3)電刺激 (Electrical stimulation) | | | | Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - 【詳解】急迫性尿失禁的治療包括 (1) 膀胱訓練、(2) 藥物:抗乙醯膽鹼、三環抗鬱劑等,和 (3) 電刺激等。膀胱訓練為第一線的治療方式,藥物和電刺激為後線之治療方式。 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - ...| 生活型態調整 | • 避免可能加劇症狀的活動及飲食 | | ti nin ayar Arak | • 適當飲水,避免過量(每天不超過2L) | | 物理治療 | • 有骨盆底肌肉壓痛的病人,建議接受物理治療 | | 口服藥物 | · 三環抗鬱劑 amitriptyline 為第一線治療藥物,不僅有止痛 | | | 效果,並且可以緩解慢性疼痛造成的憂鬱症狀。一般1 | | | 個月內即可看到效果。 | | | • 當三環抗鬱劑效果不佳或副作用大,可考慮使用 PPS (註 | | | 1)。不過,治療需 3~6 個月才會見效。 | | | ・ 當病人合併有過敏疾病,可使用抗組織胺(如: | | \ | Hydroxyzine),可能機轉是避免 mast cells 增加而造 Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
@@ -60,7 +63,6 @@ tags:
 - 2. Clomipramine: 一種 TCA 類抗憂鬱劑,為第一個被 FDA 許可治療強迫症的藥物。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - 2. 藥物治療: - (1) Benzodiazepine • - (2) Buspirone • - (3) SSRI 抗憂鬱劑:如 paroxetine、sertraline。 - (4) 其他藥物:如TCA、b-blocker、nefazodone。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 - 2. 藥物治療: - (1) SSRI 類抗憂鬱劑: Sertraline、paroxetine 等為治療 PTSD 的第一線 SSRI 類藥物。 - (2) TCA 類抗憂鬱劑:Imipramine、amitriptyline 目前已證實對 PTSD 有療效。 - (3) 其他藥物: Buspirone、MAOI 類抗憂鬱劑(如 phenelzine)、trazodone、carbamazepine、valproate、clonidine、propranolol等。 - (4) 抗精神病藥物:Haloperidol 可以短暫用來控制病人的激躁與衝動行為。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 2. Postural tremor:如鋰鹽、valproate 與 TCA 類藥物引起的震顫。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 
 ## Clinical Caveats
 

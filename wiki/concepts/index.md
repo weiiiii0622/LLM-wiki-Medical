@@ -24,6 +24,7 @@ Mechanisms, definitions, and frameworks.
 - [[concepts/beta-lactam-mechanism|Beta-lactam mechanism (β-lactam 作用機轉)]] - beta-lactam 藉抑制 PBP/transpeptidase 阻斷 peptidoglycan cross-linking。
 - [[concepts/community-medicine|Community medicine (社區醫學)]] - 以社區與族群為單位評估健康問題、資源與介入。
 - [[concepts/disability-evaluation|Disability evaluation (身心障礙評估)]] - 身心障礙評估需區分 impairment、activity limitation、participation restriction，並連結輔具、照護與社會資源。
+- [[concepts/general-anesthesia|General anesthesia (全身麻醉)]] - 全身麻醉以 hypnosis、analgesia、amnesia、immobility 與 autonomic control 支持手術進行。
 - [[concepts/gram-stain-classification|Gram stain classification (革蘭氏染色分類)]] - 以 Gram stain、形態、觸媒、凝固酶、溶血等特徵建立細菌鑑別框架。
 - [[concepts/informed-consent|Informed consent (知情同意)]] - 醫療處置前向病人說明診斷、處置、風險、替代方案與拒絕後果並取得同意。
 - [[concepts/lethal-triad-trauma|Lethal triad of trauma (創傷致命三角)]] - 外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。
@@ -31,6 +32,7 @@ Mechanisms, definitions, and frameworks.
 - [[concepts/lung-protective-ventilation|Lung-protective ventilation (肺保護性通氣)]] - ARDS 通氣策略重點是低潮氣容積與避免通氣傷害。
 - [[concepts/medical-ethics|Medical ethics (醫學倫理)]] - 醫療決策中的自主、行善、不傷害、公平與知情同意等原則。
 - [[concepts/medical-ethics-four-principles|Four principles of medical ethics (醫學倫理四原則)]] - 尊重自主、行善、不傷害與正義是臨床倫理分析常用框架。
+- [[concepts/minimum-alveolar-concentration|Minimum alveolar concentration, MAC (最小肺泡濃度)]] - MAC 是吸入性麻醉劑 potency 指標，受年齡、體溫、電解質、懷孕、酒精與中樞藥物等因素影響。
 - [[concepts/monoamine-hypothesis|Monoamine hypothesis (單胺假說)]] - 以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。
 - [[concepts/monro-kellie-doctrine|Monro-Kellie doctrine (Monro-Kellie 學說)]] - 顱腔內腦組織、血液、CSF 總量相對固定，任一成分增加會使 ICP 上升。
 - [[concepts/newborn-screening|Newborn screening (新生兒篩檢)]] - 以早期檢測可治療或需早期介入的先天代謝、內分泌與其他疾病。

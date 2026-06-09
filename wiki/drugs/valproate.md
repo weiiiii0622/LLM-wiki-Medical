@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book4-ch06]]"
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book4-ch05]]"
 aliases:
   - 'Valproate / valproic acid (丙戊酸)'
   - 'Valproate / valproic acid'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-mood stabilizer 與抗癲癇藥，用於 mania；需注意肝毒性、血小板、胰臟炎、體重與致畸胎性。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+mood stabilizer 與抗癲癇藥，用於 mania；需注意肝毒性、血小板、胰臟炎、體重與致畸胎性。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ mood stabilizer 與抗癲癇藥，用於 mania；需注意肝毒性、血小板�
 - [[sources/med4-book4-ch06]]
 - [[sources/med5-book5-ch08]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...制。 - b. 主要可用來當作鎮靜劑、使病人喪失記憶、減少焦慮感。 - (3) 藥物缺點: - a. 使用在年紀較大的病人,或者是慢性阻塞性肺病(COPD)、重症肌無力(MG)的病人,若劑量太高會造成呼吸抑制。 - b. 與抗癲癇類藥物如 Valproate 一同服用,會加強中樞抑制的效果。 - c. 通過胎盤,若在 first trimester 使用,可能會導致新生兒的先天缺陷。 - d. 過量中毒時,可使用 Flumazenil 作為拮抗劑。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
 - (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - ...---------------------|---------------------------------------------------------| | 部分發作 | | Carbamazepine · Phenytoin · Valproic acid · Lamotrigine | | 入云似路床 | 全身性癲癇 (GTCS)=大發作 (Grand mal) | Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan) | Source: [[sources/med4-book4-ch02|乙、癲癇]].
@@ -62,7 +65,6 @@ mood stabilizer 與抗癲癇藥，用於 mania；需注意肝毒性、血小板�
 - 2. 躁鬱症:常合併情緒穩定劑如 lithium、carbamazepine 與 valproate 使用。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 2. Postural tremor:如鋰鹽、valproate 與 TCA 類藥物引起的震顫。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
 - 1. 又稱作 valproic acid 和 divalproex,通常是用來治療 seizure 與偏頭痛。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 3. 其他輔助藥物:valproate、lithium、carbamazepine 等藥物一起使用輔助治療。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
 
 ## Clinical Caveats
 

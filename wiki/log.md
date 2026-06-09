@@ -119,3 +119,9 @@ Created raw source directories, wiki directories, templates, index, log, overvie
 - Created/updated 276 topic-first medical nodes across conditions, drugs, diagnostics, procedures, guidelines, physiology, anatomy, and concepts.
 - Updated `wiki/index.md`, category indexes, `wiki/sources/index.md`, and health-check report.
 
+## [2026-06-09] ingest | 醫(六)第4冊麻醉耳鼻喉
+
+- Ingested 15 chapter-split markdown files.
+- Created/updated 378 topic-first medical nodes across conditions, drugs, diagnostics, procedures, guidelines, physiology, anatomy, and concepts.
+- Updated `wiki/index.md`, category indexes, `wiki/sources/index.md`, and health-check report.
+

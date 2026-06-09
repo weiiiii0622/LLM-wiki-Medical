@@ -68,6 +68,8 @@ sources:
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch08]]"
   - "[[sources/med6-book3-ch09]]"
+  - "[[sources/med6-book4-ch09]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Ventricular remodeling (心室重塑)'
   - 'Ventricular remodeling'
@@ -82,7 +84,7 @@ tags:
 
 ## Summary
 
-心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心肌傷害後結構與功能變化，與心衰竭進展相關。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -150,9 +152,13 @@ tags:
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch08]]
 - [[sources/med6-book3-ch09]]
+- [[sources/med6-book4-ch09]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- c. 治療後的影響如術後沾黏與疤痕攣縮(scar contracture)、放射線治療造成的 纖維化、神經炎等都會造成疼痛。通常需要用多種方式治療疼痛。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
+- 3. 檳榔:檳榔內的石灰質產生化學作用,造成癌化現象,如黏膜下纖維化、白斑與 紅斑。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - 2. 兒童斜頸最常見原因為胸鎖乳突肌纖維化,使得肌肉肥厚短縮,造成頭無法直立於中線處,右胸鎖乳突肌短縮會造成頭傾向(tilt)右側且臉轉向(turn)左側(稱為右側斜頸),左胸鎖乳突肌短縮則作相反的動作。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 3. 造成胸鎖乳突肌纖維化的原因不明,目前推測是肌肉生長過程缺血或是生產時受到 創傷。其他像是頸椎側彎、頸部組織發炎(急性淋巴腺發炎)、運動傷害、睡姿不良、 視力不對稱、腦性麻痺的病患皆有可能合併發生斜頸。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
@@ -169,8 +175,6 @@ tags:
 - ...形成絨毛膜的絨毛(chorionic villi),負責從母體運送氧氣和營養給胎兒,而extravillous trophoblast 則移動到蜕膜(decidua)和子宮肌層,渗透母體血管,與子宮動脈的重塑(spiral artery remodeling)有關,形成高流速、低阻力的胎盤血循環。子宮胎盤血循環系統(uteroplacental circulation)著床時開始建立,12 週以後第二波建立形成,持續至 20 週。Ref: Wang Y, Zhao S. (2010). Vascular biology of the placenta. Ch. 2. Placental blood circulation. San Rafael (CA), Morgan & Claypoo Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (B) bleomycin 與肺部纖維化 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - ...(B) 長期洗腎的病人因為腎功能不全會導致腎性骨發育不全 (renal osteodystrophy),其PTH可能會升高 - (C) 變形性骨炎(Paget's disease)主要發生在40歲以下的病人, 女多於男,是一種骨頭塑形 (remodeling) 的疾病,不會轉 變為惡性腫瘤 - (D) 骨質石化病(osteopetrosis) 又稱大理石骨病(marble bone disease),主要是因成骨細胞(osteoblast)過度活躍造成 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (C) 修飾期(Remodeling)於修補期的中期就開始,可於臨床骨 折癒合後持續多年 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (A) 3. 彈響髖(snapping hip)是因為髖關節周邊某些軟組織因纖維化或 104(二)專 硬化,而在髖關節活動時與骨骼摩擦所致。下列這些軟組織,何 醫五-59 者最不可能造成彈響髖? - (A) 股外側肌(vastus lateralis muscle) - (B) 髂脛束 (iliotibial band) - (C) 臀大肌 (gluteus maximus muscle) - (D) 髂腰肌鍵 (iliopsoas tendon) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 
 ## Clinical Caveats
 

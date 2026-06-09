@@ -2,13 +2,14 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book2-ch20]]"
   - "[[sources/med5-book1-ch09]]"
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch12]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Cholecystectomy (膽囊切除術)'
   - 'Cholecystectomy'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-症狀性膽結石或急性膽囊炎常見手術治療。 本頁已整合至 `醫(五)第3冊腎外小腸外肝膽胰外乳外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+症狀性膽結石或急性膽囊炎常見手術治療。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch12]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- | 一位成年男性,因急性膽囊炎施行腹腔鏡膽囊摘除術(laparoscopic cholecystectomy),術中會造成病患動脈血中二氧化碳分壓(PaCO 2 )上升的原因,下列何者錯誤? (A) 體溫逐漸下降 (B) 腹腔內二氧化碳的吸收 (C) 麻醉深度不足下,代謝率上升 (D) 肺泡換氣 / 肺部灌流不相稱(VA /Q mismatch) | 99( 一 ) 專醫六 -7 | |------------------------------------------------------------------------------- Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - (B) 6. 承上題,此病人後續的檢查也發現主胰管(main pancreatic duct) 104(二)專 徑大於 1 公分,如果選擇開刀治療,針對這病人最可能採取下列 醫五-53 何種手術方式? - (A) 惠普式手術 (Whipple operation) - (B) Puestow 手術並清除主胰管內結石 - (C) 膽囊切除術 - (D) 引流管置放引流術 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...(二)專 | | 性囊腫(pseudocyst)或膽石症(cholelithiasis),內視鏡逆行性 | 醫五 -32 | | 膽道胰管攝影(ERCP)發現胰管擴張並且有多處狹窄,則下列 | | | 何種術式最適當? | | | (A) cholecystectomy | | | (B) splenectomy | | | (C) distal pancreatectomy | | | (D) pancreaticojejunostomy (Puestow) | | | (D) 12. 35 歲男性,主訴飽餐後突發性腹痛,直達背部。疼痛持續而嚴 | 101(一)專 | | 重,伴隨嘔吐的症狀。病人吐後無法減輕症狀,但將身體前傾 | 醫五-2 | | 症狀可稍有改善。理學檢查發現病人體溫 38℃,上腹 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 2. 治療:若為無症狀的膽結石,不需要做預防性的膽囊切除。但以下兩種情形必須做 預防性膽囊切除。 - (1) 膽囊壁鈣化 (gallbladder wall calcification): 由於慢性發炎,導致膽囊壁鈣化, 在影像學上又稱為**陶瓷膽囊** (**Porcelain gallbladder**)。在這種狀況容易有癌化 的產生,必須積極處理。 - (2) 幼童膽結石:小朋友的身上意外發現膽結石時,由於小朋友比較不會表達自己身上的疼痛,可考慮進行膽囊切除。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].

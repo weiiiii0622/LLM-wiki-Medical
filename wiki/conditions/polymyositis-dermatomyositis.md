@@ -26,6 +26,7 @@ sources:
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book3-ch09]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Polymyositis and dermatomyositis (多發性肌炎與皮肌炎)'
   - 'Polymyositis and dermatomyositis'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+自體免疫發炎性肌病，造成近端肌無力；dermatomyositis 具典型皮疹與癌症關聯。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book3-ch09]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- 2. 血清 CK 增高, 電解質不平衡, 酸中毒, 凝血異常等。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - ...會出現,可見於神經病變(radiculopathy、plexopathy、peripheral neuropathy)、NMJ 病變(Myasthenia gravis、botulism)或是肌肉病變(muscular dystrophy、polymyositis、dermatomyositis)。 - \*Fib 的聲音像 "rain on a tin roof" (兩下在屋頂的聲音)、PSW 的聲音像 "dull thud or shug" (沉重的砰擊聲)。 - ii. 複雜重覆放電波(complex repetitive discharge, CRD): 一群肌纖維同時以相同頻率反覆放電所形成的複雜電位,見於神經病變(chronic radiculopathy、peripheral ne Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - (3) Sjögren's syndrome、RA、SLE、皮肌炎等免疫疾病。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - ...) 心臟栓塞:鈣化性栓塞(來自主動脈或二尖瓣)、vegetation(來自細菌性心內膜炎的瓣膜)、血栓(由於心肌梗塞後合併 AF 所產生)。 - (4) 巨細胞動脈炎 (giant cell arteritis) - (5) 動脈外膜炎:與皮肌炎、SLE、polyarteritis nodosa、Wegener 氏肉芽腫等疾病相關的動脈外膜炎偶爾會造視網膜分支動脈阳塞。 Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -86,7 +89,6 @@ tags:
 - 4. 抽血可見 ESR 上升、貧血、ALK-p、血中 IgG 上升,而通常 CK 不會上升;以類固醇治療效果良好。[Ref. Harrison ch 319] Source: [[sources/med4-book4-ch03|丙、頭 痛]].
 - # B. 皮肌炎 / 多發性肌炎 (Dermatomyositis/Polymyositis) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 - 1. 是一種侵犯肌肉為主的自體免疫反應,為全身肌肉或皮膚發炎的全身性結締組織疾病。多發性肌炎主要侵犯肌肉,造成肌肉無力或疼痛。皮肌炎除肌肉外,還侵犯到皮膚,有時會出現獨特的皮膚表徵。目前發病原因尚未清楚,只知為全身性自體免疫疾病的一種,常造成病人四肢近端肌肉無力或疼痛,甚至造成某些病人肢體癱瘓,行動困難。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (1) 多發性肌炎(28%): - a. 主要表現是急性或慢性兩側對稱性近端肌肉無力及疼痛,尤其是上臂、肩胛 肌或大腿肌肉無力。病人常出現上、下樓梯困難、無法舉起手臂梳頭、更衣 困難、無法從座椅上站立起來等症狀;假使侵犯到口咽部或食道的肌肉則會 吞嚥困難,有的則合併有明顯體重減輕之現象。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
 
 ## Clinical Caveats
 

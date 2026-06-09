@@ -16,6 +16,9 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Acute bacterial sinusitis (急性細菌性鼻竇炎)'
   - 'Acute bacterial sinusitis'
@@ -30,7 +33,7 @@ tags:
 
 ## Summary
 
-兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童鼻竇炎需依持續、惡化或嚴重症狀與一般病毒上呼吸道感染區分。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +49,17 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- #### F. 副鼻竇解剖、發展請見鼻竇炎範圍 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 5. 併發症:慢性鼻竇炎、息肉、中耳炎。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (1) 鼻竇的黏膜產生發炎反應。最常見的原因就是感冒。因為感冒引起鼻粘膜腫脹, 而阻塞了鼻竇的開口,使得鼻竇通氣不良,影響了鼻竇粘膜及纖毛的功能,造 成分泌物的聚積,感染鼻竇炎。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (2) 鼻竇炎(致病菌、疼痛部位、影像判讀、治療等常考) Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (2) 感染與發炎: - a. 上呼吸道感染。 - b. 過敏性鼻炎。 - c. 慢性鼻竇炎。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - (2) 眼眶蜂窩性組織炎(orbital cellulitis):為造成小孩單側突眼最常見的原因,常因鼻竇炎(以飾竇炎最常見)造成,致病菌以Hemophilus influenzae 感染最常見,症狀較中隔前蜂窩性組織炎更嚴重,甚至可能影響視力。治療需投以大量抗生素,若有膿瘍產生則需作引流。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - ...bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquired causes: 感染和發炎。 - a. 支氣管堵塞: 氣管外壓迫(腫瘤、淋巴結腫大)、吸入異物或刺激物質、膿痰。 - b. 感染:壞死性細菌肺炎、百日咳肺炎、麻疹肺炎、流感肺炎、水痘肺炎。吸入性有毒氣體。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (1) 理學檢查:飲水可引起逆流或阻塞症狀,前傾坐姿並吸飽氣使肺完全擴張,可縮小橫隔裂孔和增加 LES 壓力改善症狀,牙齒腐蝕或偏黃、口咽紅腫、慢性鼻竇炎症狀。如有鎖骨下淋巴結腫,須懷疑食道胃腫瘤。如後胸骨痛可由壓觸診引起,則應為體表疼痛。 Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -62,9 +73,6 @@ tags:
 - # III. 鼻竇炎 (Sinusitis) Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 1. 急性鼻竇炎: 感染症狀持續在 10~30 天。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...s | | | | mycobacteria | enterovirus 感染; | | | | | | 寄生蟲 (giardia, | | | | | | cryptosporidia) | | | | 臨床 | 生長發育不良 | 反覆的鼻竇炎或肺 | 皮膚感染 (abscess, | 腦膜炎,關節炎, | | 表現 | (Failure to thrive) | 炎 | dermatitis, cellulitis) | 菌血症,反覆的鼻 | | | 長期腹瀉,廣泛的 | ,慢性腸胃道症 | 化膿性淋巴腺 | 竇炎或肺炎 | | | 皮膚念珠菌感染 | 狀,吸收不良,關 | 炎,口腔內感染 | | | | | 狀,吸收不良,關 | (periodontitis,ulcers Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- ...比例上升,功能正常。 - b. 臨床表現:男性才會得此病(X-linked),通常出生後 6~9 個月都還正常(此時還有媽媽的抗體保護),之後則陸續出現感染,常見 S. pneumoniae 或 H. influenza等有莢膜細菌感染造成鼻竇炎或肺炎。對病毒的抵抗力通常正常(因為 T 細胞正常),但肝炎病毒,enterovirus,及 polio 為例外。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (C) 容易有反覆性細菌性肺炎、中耳炎及鼻竇炎 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- Frequent infections (sinusitis, nasopharyngitis, pneumonia) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 
 ## Clinical Caveats
 
@@ -73,7 +81,8 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/chronic-rhinosinusitis|Chronic rhinosinusitis (慢性鼻竇炎)]]
+- [[anatomy/paranasal-sinuses|Paranasal sinuses (副鼻竇)]]
 
 ## Follow-up
 

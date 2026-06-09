@@ -39,6 +39,11 @@ sources:
   - "[[sources/med6-book2-ch04]]"
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Asthma (氣喘)'
   - 'Asthma'
@@ -53,7 +58,7 @@ tags:
 
 ## Summary
 
-可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可逆性氣流阻塞與慢性氣道發炎，治療依控制程度升降階。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +97,21 @@ tags:
 - [[sources/med6-book2-ch04]]
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- 1. 鼻部黏膜有發炎的情形,可以分為發炎性與非發炎性。 - (1) 發炎性:氣喘、過敏、感染、sarcoidosis、Wegener's granulomatosis、化學性物質刺激。 - (2) 非發炎性: rhinitis medicamentosa (由於過度使用局部的鼻內血管收縮劑造成的 rebound 反應)、賀爾蒙 (譬如懷孕、甲狀腺機能亢進)。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 6. 診斷: - (1) 病史:水性鼻水、鼻塞、打噴嚏;症狀是否自小就開始、有沒有氣喘病史、過 敏史、生活環境…等等。 - (2) 鼻鏡檢查。 - (3) 血清或皮膚過敏原測試。 - (4) 鼻涕在顯微鏡下化驗嗜伊紅性白血球的數量。 - (5) 抽血檢查 IgE 以及 IgE 特異性過敏抗體,以及血中嗜伊紅白血球的數目。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (1) 過敏性黴菌性鼻竇炎:最常見的致病菌為 Aspergillus,此類患者通常伴隨有氣喘。在電腦斷層或核磁共振的檢查時,常可見到所謂的過敏性黏液 (allergic mucin),沒有侵犯性。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 4. 呼吸系統:有無氣喘、COPD、或是平常有呼吸喘的情況,並評估其 NYHA class 或做 PFT(pulmonary function tests)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...tagonist。 - (3) 會同時增加血壓 (arterial blood pressure)、心跳速率 (heart rate) 和心輸出量 (cardiac output),造成心肌耗氧量的提高。 - (4) 會擴張支氣管,可以用於氣喘的病患。但可能增加口水的分泌。 - (5) 可用於外傷血壓低或休克的病患。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- (1) 特徵: - a. MAC (0.75%) ° - b. 會增加心臟對 epinephrine 所造成心律不整的敏感度,所以 epinephrine 的用量需控制。 - c. 被當成強力的支氣管擴張劑,可以逆轉氣喘造成的支氣管痙攣。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- 【詳解】Ephedrine 可直接作用在 α 和 β 腎上腺素激接受體位, 又可間接的促使 norepinephrine 從突觸前的神經末端釋放出。 Ephedrine 所產生的支氣管擴張作用比 epinephrine 所產生的要 弱,但是作用期較長。其中樞神經刺激效應也比 epinephrine 要 顯著。臨床上用於:支氣管性氣喘、血管運動神經性鼻炎、過 敏性鼻炎、脊椎麻醉導致之急性低血壓。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - 2. 肺部復健適用於 COPD、asthma、cystic fibrosis、interstitial lung disease、lung cancer、lung surgery 及 neuromuscular disease 等病人。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 1. 春季性角結膜炎(vernal keratoconjunctivitis, VKC): - (1) 簡介:結膜雙側反覆慢性發炎,與 Type 1 IgE 和 Type 4 細胞性免疫反應相關, 多數病人有異位性體質,合併有氣喘、鼻子過敏、皮膚溼疹等症狀。好發年輕 男性,春季末和夏天是發病巔峰。有較高比例的病患同時合併有圓錐角膜。 - (2) 臨床症狀:眼眶搔癢、流淚、畏光、灼熱感等。 - (3) 特徵: - a. 結膜病變:眼瞼型(palpebral):上眼瞼多巨大鵝卵石般(cobble stone)乳突 (Papilla)形成;輪部型(limbic):輪部(=角鞏膜緣)周圍有黏液狀結節 分布,呈果凍狀,伴有含嗜酸性球的上皮細胞形成的白色小點(Horner- Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - 3. 季節性過敏性結膜炎(Seasonal allergic conjunctivitis, SAC)、常年性過敏性結膜炎(Perennial allergic conjunctivitis, PAC): 前者通常是指對植物的花粉或孢子過敏所引起之結膜發炎,常出現在特定花粉或孢子濃度升高的季節,病患本身常有氣喘,過敏性鼻炎等病史。後者則是因為對家塵(house dust mites)、黴菌、寵物等漂浮物過敏所引起。兩者皆為第一型過敏反應,發作常為短暫性或陣發性,且很少造成視力上的影響。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
@@ -106,12 +123,6 @@ tags:
 - 【詳解】此 30 週孕婦子宮每 4~6 分鐘收縮一次,收縮頻率達 20 分鐘 4 次以上,不過,子宮頸未提及有變化,應為早產收縮(preterm contraction),可考慮安胎。產婦有氣喘病史,而安胎藥物 $\beta_2$ agonist 有潛在胸悶和氣促的副作用,可考慮使用副作用較少的 oxytocin receptor antagonist(atosiban);抽血檢查發現有輕度白血球數目增加和 CRP 值顯著升高,應找到感染症來源,並使用經驗性抗生素控制感染。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...噁心、腹痛 | | Methylergonovine | 肌肉注射 | 禁忌症為高血壓、周邊血管和 | | (C) (A) (A) | | 缺血性心臟病 | | Misoprostol (PGE1) | 肛門塞劑、口服 | 可用於高血壓或氣喘之患者 | | | 或舌下給予 | 可能引起發燒 | | 15-methyl prostaglandin F2a | 子宮肌層注射或肌肉 | 禁忌症為高血壓和氣喘、肝腎 | | (refractory uterine atony) | 注射 | 功能差為相對禁忌症 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - (C) 3. 王先生是一位 37 歲板模工人,因為有氣喘的問題,長期使用含類固醇的噴霧吸入器。平常身體狀況還算良好,下班後唯一嗜好是和朋友喝喝酒,約一年前開始發現左側髋部疼痛,近半年來疼痛加劇,有跛行的情形,X光片如附圖所示,則最可能的診斷為何? Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (2) 過 敏 性 支 氣 管 肺 的 麴 菌 症 (allergic bronchopulmonary aspergillosis, 簡 稱 ABPA): - a. 對在呼吸道形成菌落的麴菌抗原過敏。 - b. 症狀:咳嗽、喘鳴、呼吸困難、發燒、咳血、咳出棕色的痰。大部份都發生 在原本就有氣喘的病人身上,但也有少部份的 ABPA 不合併氣喘病。 - c. 檢查: 支氣管鏡檢。 - d. 治療: 內科藥物治療。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (9) 過敏性肺炎 (Hypersensitivity pneumonia): 吸入性過敏原 (Inhaled antigens)、農夫肺 (Farmer's lung, actinomycosis)、蔗渣沉積症 (Bagassosis, sugar cane)、麥田工人 (Malt workers, *Aspergillus* spp.)、棉屑沈著病(或稱棉屑肺,Byssinosis, cotton-dust asthma, cotton-mill fever)。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 3. 臨床表現:會造成心灼熱(heartburn)、逆流(regurgitation)、口有苦或酸味(acid or bitter taste in the mouth)、經常打嗝(excessive belching)、消化不良(indigestion)等類似 GERD 症狀,反覆的呼吸道感染、成人型氣喘、頭頸部感染等。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ...動脈(innominate artery)位於左支氣管後方 | | | | (D) 氣管於 Louis angle 的高度分為左右支氣管 | | | | 【詳解】(C) 前方。 | | | (C) | 8. 一位 62 歲女性慢性咳嗽被當成氣喘治療 1 個月,直到咳血才轉 | 98(二)專 | | | 到胸腔外科,氣管鏡切片診斷為氣管上段的 adenoid cystic car- | 醫五-21 | | | cinoma,接下來的處置,下列何者較理想? | | | | (A) 先化學治療再手術 | | | | (B) 進行氣切造口,不須考慮手術切除 | | | | (C) 經評估後直接手術切除作氣管重建 | | | | (D) 作放射治療即可 | | Source: [[sources/med5-book4-ch06|己、氣管]].
-- 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 皮膚潮紅、拉肚子、氣管痙攣導致的氣喘及心臟病變等問題。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
 
 ## Clinical Caveats
 
@@ -125,6 +136,7 @@ tags:
 - [[diagnostics/bronchodilator-reversibility-test|Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)]]
 - [[guidelines/gina-asthma-step-therapy|GINA asthma step therapy (GINA 氣喘階梯治療)]]
 - [[drugs/inhaled-corticosteroids|Inhaled corticosteroids, ICS (吸入型類固醇)]]
+- [[drugs/ketamine|Ketamine (氯胺酮)]]
 - [[drugs/laba|LABA (長效乙二型交感神經刺激劑)]]
 - [[diagnostics/methacholine-provocation-test|Methacholine provocation test (Methacholine 支氣管激發試驗)]]
 - [[drugs/saba|SABA (短效乙二型交感神經刺激劑)]]

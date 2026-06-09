@@ -66,6 +66,8 @@ sources:
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Bone marrow examination (骨髓檢查)'
   - 'Bone marrow examination'
@@ -80,7 +82,7 @@ tags:
 
 ## Summary
 
-骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨髓抽吸與切片用於 cytopenia、白血病、淋巴瘤、漿細胞疾病與骨髓纖維化評估。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -146,9 +148,13 @@ tags:
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- (2) 副作用: - a. 避免使用於密閉體腔如氣體栓塞(air embolism)、氣胸、腸阻塞,肺高壓的病人。 - b. 長期使用易造成骨髓抑制,及抑制 $B_{12}$ -dependent enzymes。 - c. 增加手術後噁心嘔吐(PONV)的機會。 - d. 增加腦部耗氧代謝率、腦部血流上升、顱內壓上升。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- (5) 骨髓炎 (Osteomyelitis)。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - 4. 吞嚥困難患者最令人擔心食物跑到氣管造成吸入性肺炎(吞嚥困難最常見併發症),可用來評估病人是否 aspiration 的臨床症狀有: - (1) Abnormal cough • - (2) Cough after swallow • - (3) Dysphonia (發聲困難)。 - (4) Dysarthria • - (5) Abnormal gag reflex • - (6) Voice change after swallow (wet voice) • Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - 6. 針對吞嚥困難的病患,需給予吞嚥訓練幫助其吞嚥以及避免 aspiration: - (1) 加強口腔運動控制功能:嘴唇、面頰、舌頭運動。 - (2) 利用檸檬冰塊(冰+酸)刺激兩側前咽門弓增加吞嚥反射敏感度。 - (3) 患者坐正(60~90 度),頭部前傾並下巴收攏(chin tuck),可使吞嚥時喉部抬高成為一保護的位置,讓食物只在口腔的前半段,防止食物的殘渣進入氣管,以維持食道通暢。Chin tuck 另可壓迫氣管使開口變小避免食物進入,亦可擴大會厭谿(vallecula)空間,可用於吞嚥反射較慢的病人。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
@@ -165,8 +171,6 @@ tags:
 - (D) 此病例可採用更換較大的骨髓內釘(intramedullary nail)及骨移植(bone grafting)進行治療 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (C) 鎖定式骨髓內釘固定 (intramedullary interlocking nail) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...| (軟骨為主) | | Metaphysis | Diaphysis 和 epiphysis 的過度區 | 其他 | | Diaphysis | 組織型態: 緻密骨 (compact bone) | 轉移性骨癌 | | | 構造中空,內有骨髓 | | Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (3) 影像:sessile(broad base,相對大的骨腫瘤基部,惡性化機會高)或 pedunculated(narrow stalk,相對較小的腫瘤基部),常長在骨的表面。腫瘤和皮質骨相連,腫瘤內部和骨髓腔連通。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- a. 腫瘤是從 bone marrow 長出來的,細胞切片型態是小小圓圓的 (small round cell),容易與 lymphoma 混淆,可藉由免疫染色法來區分。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 
 ## Clinical Caveats
 

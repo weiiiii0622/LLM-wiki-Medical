@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch10]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Congenital cytomegalovirus infection (先天性巨細胞病毒感染)'
   - 'Congenital cytomegalovirus infection'
@@ -21,16 +22,19 @@ tags:
 
 ## Summary
 
-最常見先天病毒感染之一，可有小頭、腦室周圍鈣化、聽損、血小板低下與肝脾腫大。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+最常見先天病毒感染之一，可有小頭、腦室周圍鈣化、聽損、血小板低下與肝脾腫大。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch10]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 2. 感音神經性聽力障礙 (Sensorineural hearing loss) - (1) 定義:由於**內耳或神經**病變所導致。病人通常會出現高頻聽力損失、言語分辨 率差,也會伴隨耳鳴。 - (2) 此類聽力障礙可以分成兩個部分,第一是內耳病變所導致,稱為感音性聽力 障礙。第二是毛細胞到聽神經核間的聽神經病變所導致,如老年性聽力障礙 (presbycusis)或聽神經瘤(acoustic neuroma)最常見,稱為神經性聽力障礙。 - (3) 聽力圖表現: - a. 氣導與骨導皆會出現異常,但是閾值接近不會出現氣骨導差。 - b. 會出現高音漸傾型 (sloping) 的聽力圖。 - (4) 治療:感音神經性聽力障礙通常都是永久性的,無法使用藥物的方式治療,可使用助聽器改善聽力。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- #### B. 突發性耳聾 (Sudden Sensorineural Hearing Loss, SSNHL) Source: [[sources/med6-book4-ch11|甲、耳科]].
 - ...| Retinopathy, cataracts, PDA, pulmonary artery stenosis, deafness and thrombocytopenia. | | | CMV | Microcephaly with periventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (B) 先天性巨細胞病毒感染的新生兒,約有90% 會有臨床症狀 Source: [[sources/med4-book1-ch11|子、新生兒科]].
 - (D) 任何沒有通過聽力篩檢的新生兒,都須考慮先天性巨細胞病毒感染之可能性 Source: [[sources/med4-book1-ch11|子、新生兒科]].
@@ -44,6 +48,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/sensorineural-hearing-loss|Sensorineural hearing loss (感音神經性聽損)]]
 - [[conditions/torch-infections|TORCH infections (TORCH 先天性感染)]]
 
 ## Follow-up

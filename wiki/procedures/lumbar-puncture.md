@@ -11,6 +11,8 @@ sources:
   - "[[sources/med5-book1-ch14]]"
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med6-book2-ch13]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Lumbar puncture, LP (腰椎穿刺)'
   - 'Lumbar puncture, LP'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-取得 cerebrospinal fluid 以診斷 CNS infection、subarachnoid hemorrhage、demyelinating disease 等；IICP 或 mass effect 時需先評估風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+取得 cerebrospinal fluid 以診斷 CNS infection、subarachnoid hemorrhage、demyelinating disease 等；IICP 或 mass effect 時需先評估風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med5-book1-ch14]]
 - [[sources/med5-book1-ch13]]
 - [[sources/med6-book2-ch13]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- a. 特別注意病人是否目前仍有細菌性腦膜炎感染的可能性,可進行腰椎穿刺 (lumbar puncture) 確認。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 4. 預定做 spinal/epidural anesthesia 的病人,必須注意是否有 lumbar puncture 的禁忌症。 術前若有 KUB 也可參考是否有 L-spine 的問題存在,影響成功率。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - (3) 當視力更差時,可用下列方式表示:指數(counting fingers, CF)、手動(hand motion, HM)、光感(light perception, LP)、無光感(no light perception, NLP)。 Source: [[sources/med6-book2-ch13|丑、光學屈光]].
 - 4. 治療方式: - (1) 藥物治療可給 acetazolamide (Diamox)降低 CSF 的產生,或是利尿劑,另 steroid 的療效較具爭議性,目前比較推薦使用在有 severe papilledema 的病患。 - (2) 若仍無法適當控制腦壓時,需考慮作 shunting 分流手術或是 Lumbar puncture。 - (3) 若患者體重過重,可設法降低體重常能有效的降低腦壓。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - ...乳房>肺>腎>腸胃道 | | 醫五-9 | | | (B) 肺>乳房>腎>腸胃道 | | | | | (C) 腸胃道>腎>乳房>肺 | | | | | (D) 腎>肺>乳房>腸胃道 | | | | (A) 13 | . 下列何者最不適合做腰椎穿刺 | 則(lumbar puncture)? | 106(一)專 | | | (A) 腦部腫瘤病變 | | 醫五-13 | | | (B) 腦膜炎 | | | | | (C) 蜘蛛網膜下腔出血 | | | | | (D) 交通性水腦症(communication | cating hydrocephalus) | | | | 【詳解】做腰椎穿刺前需注 | 意是否有顱內壓升高的情形,尤其 | | | | 是後顱窩腫瘤,如果做腰椎 | 穿刺 Source: [[sources/med5-book1-ch18|壬、腦瘤]].

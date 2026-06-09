@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med6-book3-ch04]]"
   - "[[sources/med6-book3-ch03]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Prosthesis (義肢)'
   - 'Prosthesis'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-義肢取代缺失肢段並恢復站立、步行或上肢功能，組成包含 socket、懸吊、關節與末端裝置。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+義肢取代缺失肢段並恢復站立、步行或上肢功能，組成包含 socket、懸吊、關節與末端裝置。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med6-book3-ch04]]
 - [[sources/med6-book3-ch03]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...ible or maxilla, or involves the moxillary sinus or skin of the face) | | | | | Note: Superficial erosion of bone/tooth socket (alone) by a gingival primary is not | | | | · | sufficient to classify a tumor as T4. | | | | T4b | Very advanced local disease | | | | | Tumor invades masticator space, pterygoid plates, or skull base and/or encases t Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - B. 義肢 (Prosthesis) 110 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - #### 丁、裝具、義肢及輔具 (Orthosis, Prosthesis and Assisting Devices) Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - (3) 與義肢(Prosthesis)最大不同:義肢取代了正常身體的部份,裝具沒有。 - a. 例如常見的全膝置換術中置於人體內取代正常膝關節的裝置也稱為 Total knee prosthesis 或 prosthetic implant。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].

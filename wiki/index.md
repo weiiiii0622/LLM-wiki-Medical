@@ -20,18 +20,18 @@ Content catalog for this medical LLM wiki. Update this file on every ingest, dur
 
 ## Sources
 
-- [[sources/index]] - Source summaries catalog. Latest ingest: `醫(六)第3冊復健`.
+- [[sources/index]] - Source summaries catalog. Latest ingest: `醫(六)第4冊麻醉耳鼻喉`.
 
 ## Topic Categories
 
-- [[conditions/index|Conditions]] - 975 topic pages
-- [[drugs/index|Drugs]] - 126 topic pages
-- [[diagnostics/index|Diagnostics]] - 135 topic pages
-- [[procedures/index|Procedures]] - 169 topic pages
-- [[guidelines/index|Guidelines]] - 22 topic pages
+- [[conditions/index|Conditions]] - 1020 topic pages
+- [[drugs/index|Drugs]] - 145 topic pages
+- [[diagnostics/index|Diagnostics]] - 144 topic pages
+- [[procedures/index|Procedures]] - 183 topic pages
+- [[guidelines/index|Guidelines]] - 24 topic pages
 - [[physiology/index|Physiology]] - 37 topic pages
-- [[anatomy/index|Anatomy]] - 41 topic pages
-- [[concepts/index|Concepts]] - 36 topic pages
+- [[anatomy/index|Anatomy]] - 44 topic pages
+- [[concepts/index|Concepts]] - 38 topic pages
 
 ## Questions
 
@@ -39,5 +39,5 @@ Content catalog for this medical LLM wiki. Update this file on every ingest, dur
 
 ## Maintenance Notes
 
-- Latest textbook ingested topic-first on 2026-06-09: `醫(六)第3冊復健`.
+- Latest textbook ingested topic-first on 2026-06-09: `醫(六)第4冊麻醉耳鼻喉`.
 - Topic nodes are organized by medical entity or concept, not chapter title. Source chapter pages remain only as citation anchors.

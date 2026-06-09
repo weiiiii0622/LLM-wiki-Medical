@@ -14,6 +14,7 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Vitiligo (白斑)'
   - 'Vitiligo'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-後天黑色素細胞破壞造成明顯 depigmented patches，可與自體免疫疾病相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+後天黑色素細胞破壞造成明顯 depigmented patches，可與自體免疫疾病相關。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch07]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- 1. 抽菸:菸草的致癌物質造成口腔黏膜的白斑(leukoplakia)與紅斑(erythroplakia)。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 3. 檳榔:檳榔內的石灰質產生化學作用,造成癌化現象,如黏膜下纖維化、白斑與 紅斑。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - ...則的灰白色病灶,大小從0.05~4 mm不等(類 似點狀、指紋狀、或是地圖狀等)。 | | Bowman 氏層 | Reis-Bcüklers dystrophy \ Thiel-Behnke dystrophy | | 基質 | (1) 白斑化失養症 macular dystrophy (mucopolysaccharide):隱性遺傳疾病,是三種間質角膜失養症中較少見的一種類型,但症狀卻常是最嚴重的。基質有 mucopolysaccharide 的沉積。 (2) 顆粒狀失養症 granular dystrophy (hyaline material):顯性遺傳疾病,是三種間質角膜失養症中最常見的類型;基質有透明蛋白(hyaline) 的沉積。 (3) 格子狀失養症 lat Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - (5) 原田氏症候群(Vogt-Koyanagi-Harada's syndrome):是一種對黑色素細胞專一的自體免疫疾病,侵犯葡萄膜(造成雙側肉芽腫性全葡萄膜炎)、內耳、皮膚、腦膜等處。 - a. 初期 (prodromal): 雙眼急性瀰漫性葡萄膜炎、滲出性視網膜剝離、視乳頭水腫、視神經炎。 - b. 慢性期:眼底色素脱失(sunset glow fundus)、視網膜脈絡膜萎縮並伴隨皮膚白斑、毛髮變白、聽力受損等。若反覆性發生會造白內障或青光眼。 - c. 治療:全身性類固醇或可用免疫抑制劑(cyclosporine、azathioprin)。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - 2. 陰道鏡檢查的適應症: - · 細胞學:不正常的 Pap smear - · 懷疑子宮頸、陰道和陰唇異常,如白斑 (leukoplakia) 和病毒疣 - 治療後的追蹤 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].

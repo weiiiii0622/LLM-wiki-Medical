@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 sources:
   - "[[sources/med5-book4-ch09]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Branchial cleft remnant (腮裂遺跡)'
   - 'Branchial cleft remnant'
@@ -19,14 +20,17 @@ tags:
 
 ## Summary
 
-胚胎腮裂殘留可形成頸部囊腫、竇道或瘻管，常位於胸鎖乳突肌前緣附近。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胚胎腮裂殘留可形成頸部囊腫、竇道或瘻管，常位於胸鎖乳突肌前緣附近。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book4-ch09]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 7. 鰓裂囊腫 (branchial cleft anomalies)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- #### B. 鰓裂囊腫 (Branchial cleft anomalies) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - B. 腮裂遺跡 (Branchial cleft remnants) 130 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - 4. 最常見位於胸鎖乳突肌前的非淋巴性腫瘤:腮裂囊腫(branchial cleft cyst)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - ### B. 腮裂遺跡 (Branchial cleft remnants) Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].

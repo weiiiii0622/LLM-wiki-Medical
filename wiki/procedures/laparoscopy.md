@@ -28,6 +28,7 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Laparoscopy (腹腔鏡)'
   - 'Laparoscopy'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以小切口與鏡頭進入腹腔進行診斷或治療，可降低部分手術傷口與恢復負擔。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,11 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- | 一位成年男性,因急性膽囊炎施行腹腔鏡膽囊摘除術(laparoscopic cholecystectomy),術中會造成病患動脈血中二氧化碳分壓(PaCO 2 )上升的原因,下列何者錯誤? (A) 體溫逐漸下降 (B) 腹腔內二氧化碳的吸收 (C) 麻醉深度不足下,代謝率上升 (D) 肺泡換氣 / 肺部灌流不相稱(VA /Q mismatch) | 99( 一 ) 專醫六 -7 | |--------------------------------------------- Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - # 甲、腹腔鏡(Laparoscopy) Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
 - ### 甲、腹腔鏡 (Laparoscopy) Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
 - 1. 腹腔鏡手術的優點: - 傷口小、恢復快、住院天數少 - 傷口美觀、疼痛少 - 失血量較少、併發症較少 Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
@@ -90,7 +93,6 @@ tags:
 - ...列有關隱睪症(cryptorchidism)的敘述,何者錯誤? 99(一)專 (A) 罹患隱睪症小孩,日後產生睪丸癌的機率較正常人高 醫五-59 (B) 常伴隨有腹股溝疝氣 (C) 睪丸固定術最好在五歲前執行 (D) 身體檢查摸不到睪丸時,腹腔鏡是一個很準確的診斷工具 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
 - (A) 1. 梅克耳憩室(Meckel's diverticulum)所造成的下消化道出血,可 106 (-) 專利用下列何者做診斷?① 99mTc-pertechnetate 放射線同位素檢查 醫五-51 ②腹部超音波檢查 ③腹腔鏡探查 ④下消化道鋇劑攝影 ⑤大腸 鏡檢查 - (A) 1 (B) 2 (C) 4 (D) 2 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (1) 手術切除為主,將膽道囊腫完整切除,再以(Roux-en-Y hepaticojejunostomy) 膽管空腸吻合術式接回,以腹腔鏡術式做切除合併(end-to-side jejunojejunostomy)空腸吻合術作治療。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- d. 單純腹腔內腫瘤:腹腔鏡或剖腹切除。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
 
 ## Clinical Caveats
 

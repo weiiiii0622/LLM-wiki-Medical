@@ -30,6 +30,8 @@ sources:
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch05]]"
 aliases:
   - 'COPD (慢性阻塞性肺疾病)'
   - 'COPD'
@@ -44,7 +46,7 @@ tags:
 
 ## Summary
 
-長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+長期有害氣體暴露造成不可完全可逆的氣流阻塞。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +76,14 @@ tags:
 - [[sources/med5-book5-ch07]]
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch05]]
 
 ## Key Details From Sources
 
+- 4. 呼吸系統:有無氣喘、COPD、或是平常有呼吸喘的情況,並評估其 NYHA class 或做 PFT(pulmonary function tests)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...| 抽菸、喝酒(社交性)、輕微肺部疾病、控制良好的高血壓或糖尿病、肥胖(30 控制良好的妊娠糖尿病、妊娠高血壓或子癲前症) | 0.27~0.4% | | III | 有嚴重的系統性疾病,讓日常生活受到限制。 | 控制不佳的高血壓或糖尿病、慢性阻塞性肺疾(COPD)、病態性肥胖(BMI > 40)、酒精成癮、規則洗腎、有中風或心肌梗塞病史(發作時間超過三個月以上)、冠狀動脈疾病、裝心臟節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...ZD 的藥物如 Midazolam 等,主要加強 GABA 在 GABA receptor 的作用,造成神經抑制。 - b. 主要可用來當作鎮靜劑、使病人喪失記憶、減少焦慮感。 - (3) 藥物缺點: - a. 使用在年紀較大的病人,或者是慢性阻塞性肺病(COPD)、重症肌無力(MG)的病人,若劑量太高會造成呼吸抑制。 - b. 與抗癲癇類藥物如 Valproate 一同服用,會加強中樞抑制的效果。 - c. 通過胎盤,若在 first trimester 使用,可能會導致新生兒的先天缺陷。 - d. 過量中毒時,可使用 Flumazenil 作為拮抗劑。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
 - 2. 肺部復健適用於 COPD、asthma、cystic fibrosis、interstitial lung disease、lung cancer、lung surgery 及 neuromuscular disease 等病人。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 3. 肺部復健對 COPD 患者的好處: - (1) 台灣胸腔暨重症加護醫學會慢性阻塞性肺病診治指引(2007): 肺部復健對 COPD 之助益。(括號為證據等級) - a. 改善運動能力(level A)。 - b. 減少呼吸短促之感覺(level A)。 - c. 改善與健康相關的生活品質(level A)。 - d. 減少住院次數及住院日數(level A)。 - e. 減少 COPD 相關之焦慮及憂鬱 (level A)。 - f. 改善存活率(level B)。 - g. 在訓練期間結束後優點仍可持續(level B)。 - h. 心理支持是有助益(level C)。 - i. 呼吸肌之訓練是有助益(level C)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - Improvements seen in exercise reconditioning in moderate chronic obstructive pulmonary disease [Braddom 4/e P745 Box 34-3] Source: [[sources/med6-book3-ch05|戊、心肺復健]].
@@ -92,9 +99,6 @@ tags:
 - ...y) (D) 非語言溝通(non-verbal communication) | 97(二)專醫三-70 | | (D) 26 | 一位 70 歲男性,菸齡五十幾年,原本一天抽一包半,膀胱癌手術後改成一天約半包菸,有冠狀動脈心臟病、高血壓、慢性阻塞性肺病,醫師勸他要戒菸。一般而言,下列有關戒菸的敘述,何者錯誤? (A) 長期抽菸者,戒菸後可立即獲得健康上之助益 (B) 戒菸可降低得到癌症之機會及降低死亡率 (C) 尼古丁是長期抽菸中造成成瘾之重要因素 (D) 體重減輕是使用尼古丁製劑戒菸時的常見現象 【詳解】(D) 體重增加是戒菸時一個常見現象,也常見於戒菸失敗者的理由之一。 | 97(一)專醫三-72 | | (A) 27 | 一位 55 歲罹患肝癌合併腹腔內轉移的患者,目前正在接 Source: [[sources/med3-book4-ch25|乙、行為科學]].
 - (2) 若發現 $PaCO_2$ 太高,表示病患呼吸太慢(Hypoventilation),可因上述低血氧、酸中毒刺激呼吸中樞,病人喘到後來呼吸肌 fatigue。COPD病人呼吸道長期吐氣不完全,也可能導致 $CO_2$ 累積(Retention);其他中樞神經、周邊神經、肌肉病變等也可能使呼吸肌無力,或是鎮靜劑抑制呼吸中樞。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - 4. 第三題:pH = 7.42; $HCO_3^- = 42$ ; $Pa_{CO2} = 67$ ; $Na^+ = 140$ ; $K^+ = 3.5$ ; $Cl^- = 88$ - (1) 第一步:中性→呼吸酸+代謝鹼 - (2) 第二步: $\Delta[HCO_3^-]=0.1\sim0.3\times\Delta PaCO_2=2.7\sim8.1$ ; $[HCO_3^-]=15.9\sim21.3$ ,但病患 $HCO_3^-=42$ ,所以由此也可證實病患合併代謝鹼。 - (3) 第三步: AG = 10, 未合併高陰離子間隙代謝酸。 - (4) 臨床狀況: 常見於 COPD 長期的呼吸酸加上過度使用利尿劑,體液缺乏導致代謝鹼。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...成低血鉀。 - b. Na+-K+ ATPase 離子通道: - (a) Insulin 會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入),所以 DKA 的病患 大量使用 insulin 時,要小心低血鉀。 - (b) COPD 病患吃或吸 β agonist 時,也可能造成 $K^+$ shift 入細胞,造成低血鉀。 - (c) 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP): 因為甲狀腺會刺激 Na+-K+ ATPase 離子通道(Na+ 出 K+ 入), 造成暫時的低血鉀, 導致肌肉無力,病人可能一早起來發現四肢無力,未經鉀離子的補充,下午鉀離子就會 shift 出細胞,無力就會改善。治療甲狀腺 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- c. 肺炎、中耳炎:常見於 COPD、抽菸者。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- (C) 1. 關於非自主性的體重流失 (involuntary weight loss) 的敘述,下列 108(二)專 何者錯誤? - (A) 在 6 至 12 個月內,體重下降超過 4.5 公斤 - (B) 在 6 至 12 個月內,體重下降大於原先體重的 5% - (C) 甲狀腺功能亢進時,食慾減退是體重下降的主因 - (D) 慢性阻塞性肺病是其中一個原因 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
 
 ## Clinical Caveats
 

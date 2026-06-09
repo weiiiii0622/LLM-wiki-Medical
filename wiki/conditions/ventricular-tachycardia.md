@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Ventricular tachycardia (心室頻脈)'
   - 'Ventricular tachycardia'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-寬 QRS 頻脈，可能導致血流動力學不穩。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+寬 QRS 頻脈，可能導致血流動力學不穩。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...而產生的波形 | | | 【詳解】cannon wave 是a wave會非常高,出現於當心房收縮時, | | | 三尖瓣已關閉,造成一個異常高起的 a wave,可能的原因有: | | | junctional rhythm, slow VT, 2:1A-V block, bigeminy。反之,心房 | | | 顫動會造成減低的 a wave。 | | | 30. 有關誘發電位(evoked potentials, EP)是手術中常用的神經功能 | 101(一)專 | | 監測方式之敘述,下列何者錯誤? | 醫六-4 | | (A) 手術中常用的 EP 包括了聽覺(auditory)、體感覺(somato- | | | sensory)與運動(motor)等 | | | Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - · Arrhythmias other than sustained VT, including multifocal premature ventricular contractions, triplets, or supraventricular tachycardia, heart block bradyarrhythmias Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - Development of bundle branch block or intraventricular conduction delay that cannot be distinguished from VT Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - $\Delta V$ (肺泡體積改變量) = VT (潮氣容積) Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -60,7 +63,6 @@ tags:
 - 4. 治療:同一般心臟衰竭治療。 - (1) 口服抗凝血劑:在心臟功能不佳的病患身上,使用抗凝血劑無法減少血栓形成,因此不建議常規使用,僅在有 Af、LV thrombus、有 thromboembolic event 的病患使用。 - (2) 抗心律不整藥物:DCM 的病患,Sudden cardiac death(SCD)、Ventricular arrhythmia 機會較高,但不建議常規使用抗心律不整藥物於無症狀的 VPC、Non sustained VT,可能反而導致更嚴重的心律不整發生(Proarrhythmic effects of the drugs)。 - (3) DCM 病患,若 LVEF 1.3)、腔室縮小、舒張功能↓。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - a. 若心電圖發現 Non-sustained VT,其 SCD 風險增加,但使用抗心率不整藥物的 好處未被證實,也可能導致更嚴重的心律不整發生 (Proarrhythmic effects of the drugs)。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - b. 針對高風險群裝置 ICD,包含: - (a) Syncope in young patents, LV wall thickness > 30mm in young patient • - (b) Hypotensive responsive to exercise • - (c) 曾經 SCD、Sustained VT、multiple non-sustained episodes of VT on Holter。 - (d) SCD in close relatives • Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- ...-----------------------------| | Control | 時,為了給足通氣量,可能給予過高壓力而傷害肺部。 | | (VC) | 適應症:在早期急性肺損傷,使用 $VC$ mode 固定給予較小的通氣容積 ( $VT = 4~6$ ml/ | | | kg) 以保護肺臟。 | | Pressure | 定義:每口氣在預定的時間內給予預定的壓力,但當病人肺部病變惡化時,因為給予 | | Control | 的壓力不變,所以通氣量可能不足。優點是可避免肺部壓力過大。 | | (PC) | 適應症:急性期過後,停用鎮靜劑時,不限制通氣量,給予固定的壓力輔助,病患較 | | , , | 能配合呼吸器。氣胸病患因為漏氣,故用 PC mode 較能維持適當通氣 Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 
 ## Clinical Caveats
 

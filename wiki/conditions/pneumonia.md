@@ -82,6 +82,9 @@ sources:
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch02]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Pneumonia (肺炎)'
   - 'Pneumonia'
@@ -96,7 +99,7 @@ tags:
 
 ## Summary
 
-肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺實質感染，需依場域與病原風險選擇抗生素。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -178,9 +181,15 @@ tags:
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch02]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- ...t{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick maneuver): 使用食指和拇指將環 狀軟骨向下施壓氣管後方的食道,主要目的是在於防止胃食道逆流造成吸入性 肺炎。(比較:幫助插管的 BURP 手法,是壓甲狀軟骨) Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- 2. 常見菌種(與上呼吸道感染的三隻菌相同): - (1) Haemophilus influenza (OME 最常見菌種)。 - (2) Streptococcus pneumonia • - (3) Moraxella catarrhalis • Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (3) 易伴隨其他致死性的併發症,包括: - a. 呼吸道阻塞。 - b. 肺炎。 - c. 下行性縱膈炎 (descending mediastinitis)。 - d. 膿胸 (thoracic empyema)。 - e. 心包炎 (pericarditis)。 - f. 多重器官衰竭。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - a. 在嚴重的腦性麻痺患者中超過 90% 其死亡原因為肺炎所造成。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - b. 造成呼吸功能障礙的原因為外在性(胸腔肌肉張力過強導致咳嗽困難、吸入性肺炎、脊椎畸形、氣道阻塞)和內在性(肺部纖毛排除異物能力下降、肺部氣管發育不良)等多重原因所造成。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - b. 胃食道逆流: 因食道下括約肌無力所引起,亦會導致嘔吐和吸入性肺炎。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
@@ -196,9 +205,6 @@ tags:
 - 黃體素使得下食道括約肌張力降低,會導致胃食道逆流;加上懷孕時腹內 壓上升,吸入性肺炎的風險增加,尤其在生產腹部用力時或全身麻醉時 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - | Uncomplicated UTI | (1)Escherichia coli 為主,佔 75~95% | |-------------------|---------------------------------------------------| | | (2)腸道菌,如 Proteus mirabilis 和 Klebsiella pneumonia | | | (3)Staphylococcus saprophyticus | | Complicated UTI | (1)包括上述致病菌 | | | (2)Pseudomonas, Serratia, and Providencia species | | | (3)黴菌 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - (B) 莖狀(stalk type)型態的單一性骨軟骨瘤,突出的軟骨帽(cartilage cap)朝向其相鄰近關節方向生長 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- 【詳解】(A)多發性遺傳性外生骨贅具有自體「顯」性遺傳的特性;(B)突出的軟骨帽(cartilage cap)通常會朝遠離關節方向生長;(D)沒有症狀不需治療。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...會掉髮。 - (ii) 阻止細胞週期(mTOR inhibitor): Sirolimus(Rapamune® 1 mg)、Everolimus(Certican® 0.25 mg)。副作用是會骨髓抑制及傷口癒合不佳,罕見但最嚴重的是間質性肺炎,可致死。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 
 ## Clinical Caveats
 

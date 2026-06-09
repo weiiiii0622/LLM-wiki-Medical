@@ -9,6 +9,8 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Allergic rhinitis (過敏性鼻炎)'
   - 'Allergic rhinitis'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-IgE mediated 鼻黏膜發炎，造成鼻塞、流鼻水、打噴嚏與眼鼻癢。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgE mediated 鼻黏膜發炎，造成鼻塞、流鼻水、打噴嚏與眼鼻癢。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,15 @@ IgE mediated 鼻黏膜發炎，造成鼻塞、流鼻水、打噴嚏與眼鼻癢�
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book2-ch05]]
 - [[sources/med6-book2-ch04]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 2. 臨床上最常見的鼻炎為過敏性鼻炎與血管運動性鼻炎。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- #### B. 過敏性鼻炎 (Allergic rhinitis) Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 1. 定義:由於接觸外來的抗原引起 IgE-mediated hypersensitivity 反應而造成的鼻炎。 急性的過敏性鼻炎可能發生於季節變換,又稱季節性鼻炎;慢性的過敏性鼻炎則常 常是持續多年的症狀,又稱常年性鼻炎。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (2) 感染與發炎: - a. 上呼吸道感染。 - b. 過敏性鼻炎。 - c. 慢性鼻竇炎。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 3. 季節性過敏性結膜炎(Seasonal allergic conjunctivitis, SAC)、常年性過敏性結膜炎(Perennial allergic conjunctivitis, PAC): 前者通常是指對植物的花粉或孢子過敏所引起之結膜發炎,常出現在特定花粉或孢子濃度升高的季節,病患本身常有氣喘,過敏性鼻炎等病史。後者則是因為對家塵(house dust mites)、黴菌、寵物等漂浮物過敏所引起。兩者皆為第一型過敏反應,發作常為短暫性或陣發性,且很少造成視力上的影響。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - 3. 異位性皮膚炎患者多具有「異位性體質」,也就是同時擁有過敏性鼻炎和氣喘,大 多有家族史。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (A) 48. 一位 12 歲男童,自2歲後即經常為皮膚病困擾,全身皮膚乾癢 99(二)專 (如圖 A),四肢出現如圖 B的苔癬樣病變(lichenification), 醫四 -37 患者也有氣喘的病史,其父親則有過敏性鼻炎。該病患最可能 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
@@ -51,7 +59,10 @@ IgE mediated 鼻黏膜發炎，造成鼻塞、流鼻水、打噴嚏與眼鼻癢�
 
 ## Related Pages
 
-- 待補。
+- [[conditions/atrophic-rhinitis|Atrophic rhinitis (萎縮性鼻炎)]]
+- [[conditions/chronic-rhinosinusitis|Chronic rhinosinusitis (慢性鼻竇炎)]]
+- [[anatomy/nasal-cavity|Nasal cavity (鼻腔)]]
+- [[conditions/vasomotor-rhinitis|Vasomotor rhinitis (血管運動性鼻炎)]]
 
 ## Follow-up
 

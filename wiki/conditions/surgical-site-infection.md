@@ -18,6 +18,7 @@ sources:
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Surgical site infection, SSI (手術部位感染)'
   - 'Surgical site infection, SSI'
@@ -32,7 +33,7 @@ tags:
 
 ## Summary
 
-手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+手術切口或深部組織感染，風險與污染程度、宿主因子、抗生素預防與傷口照護相關。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +51,11 @@ tags:
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- (4) 體溫監測 (body temperature)。 - a. 監測體溫的目的,第一個是及早發現惡性高熱,第二個是要防止低體溫的產生,低體溫會增加心肌梗塞機率、傷口感染機率、凝血功能異常、增加輸血需求量…等不好的結果。 - b. 中心體溫 (core temperature): 為身體血流最豐富的地方,常見的 core temperature 測量位置有: 肺動脈 (pulmonary artery)、遠端食道 (distal esophagus)、鼓膜 (tympanic membrane)、或鼻咽部 (nasopharynx)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - (C) 5. 25 歲婦女,有兩胎經陰道生產的產科史,第二胎由於巨嬰及產程遲滯藉由產鉗娩出,生產時有會陰四度撕裂傷但立即做修補手術,術後卻發生會陰傷口感染的情況。會陰傷口感染改善後,患者常覺得有黃色屎狀分泌物經由陰道排出,而且放屁時無法控制,常會感覺有氣體由陰道排出之情形。理學檢查施行陰道肛門指診時,發現如圖所示之情形,依據圖示此患者最適合之診斷為: Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - 【詳解】會陰四度撕裂傷傷及直腸黏膜,術後又發生傷口感染, 很可能形成瘻管。由上述臨床表現(黃色屎狀分泌物經由陰道 排出、常會感覺有氣體由陰道排出)及陰道肛門指診的發現, 判斷應為直腸陰道瘻管。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - ...染 | 子宮腔感染和膿瘍形成的併發症。 | | 非生殖道 | ・呼吸道 | 麻醉可能造成的肺塌陷或吸入性肺炎。 | | | ・脹奶 | 產後 2~3 天發生 breast fever,可能造成短暫發燒。 | | | • 腹部傷口 | 剖腹產傷口感染通常出現在產後 4~7 天。 | | | • 細菌性乳房炎 | 晚發生(產後1週以後),金黃葡萄球菌感染最常見。 | | | • 泌尿道感染 | 產褥熱最常見原因,可能併發腎盂腎炎。 | | | • 血栓靜脈炎 | 腿部疼痛腫脹,體溫微升。 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -70,7 +73,6 @@ tags:
 - 4. 除非毛髮會影響手術,否則手術前不需剃毛。剃毛應在手術之前距開刀時間越近越好,在手術室內且使用電動刮鬍刀最適宜。已有系統性文獻回顧證實手術前剃除毛髮並沒有顯著降低手術部位感染發生,更有新的文獻顯示手術前剃除毛髮反而較易增加手術部位感染的風險。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - ## B. 手術部位感染 (Surgical site infection, SSI) Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 1. 淺層切口手術部位感染(Superficial incisional SSI): - (1) 感染範圍僅包含皮膚和皮下組織,為最常見的手術部位感染。 - (2) 發生於術後 30 天內。 - (3) 有以下任何一種情形發生: - a. 切口有化膿性液體。 - b. 從切口淺層組織或液體中培養出病原體。 - c. 具有感染發炎的症狀,例如局部發紅、腫脹、發熱、疼痛和觸痛。 - (4) 以下情形不算是淺層切口手術部位感染: - a. 縫線處化膿。 - b. 外陰切開處或包皮環切術部位的感染。 - c. 燒傷傷口。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- (D) 最常見的併發症為腹內膿瘍及傷口感染 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
 
 ## Clinical Caveats
 

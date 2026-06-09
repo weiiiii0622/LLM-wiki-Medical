@@ -20,6 +20,8 @@ sources:
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Esophageal cancer (食道癌)'
   - 'Esophageal cancer'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道癌依組織型與位置連結 GERD、Barrett esophagus、抽菸與酒精等風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,15 @@ tags:
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book2-ch03]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 2. 在所有的口腔癌之中,約 90% 為鱗狀細胞癌(squamous cell carcinoma),其餘是腺癌(adenocarcinoma)。好發的部位以頰黏膜、舌頭側邊與牙齦最多。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 2. 依據 WHO 1978 年的分類法, , 將鼻咽癌分成以下不同類型: - (1) 角化鱗狀細胞癌 Keratinizing squamous cell carcinoma (WHO Type I): 預後最差。 - (2) 未角化癌 Nonkeratinizing carcinoma: - a. 又分成兩個亞群分別是 differentiated (Type II) 和 undifferentiated (Type III)。 - b. Type III 未分化癌(undifferentiated carcinoma)與 EBV 的感染最有關係,也是預後最好的類型。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 2. 下咽癌中大部份是鱗狀上皮細胞癌(squamous cell carcinoma)。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 6. Squamous cell carcinoma: 少見,需考慮由其他部位轉移而來。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - ...酸細胞瘤(oncocytoma)等,這些腫瘤一般發生於四十到五十歲的患者,大都生長緩慢。 - (2) 惡性淚腺腫瘤:包括腺樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50%),一般多發生於二十、三十歲之間,少部份在十幾歲時。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - | 性行為 | ・ 多重性伴侶、過早性行為 ( 過早懷孕(&lt;20歳)、生產數多 | | | 個人因子 | · 低社經地位、抽菸 (和 squamous cell carcinoma 相關 )、 | | | | ・ 長期 (5 年以上 ) 口服避孕藥 (和 adenocarcinoma 較相關 ) | | | 其 他 | • 有陰道或外陰部細胞病變的病史 | | | | ・ 免疫抑制 ( 如 HIV 感染 ) | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (D) 2.51 歲婦女,因為偶發性右腰痛(colic pain),到泌尿科門診接受腎盂輸尿管的檢查,發現在輸尿管中段有一顯影劑缺損(filling defect),造成右邊輸尿管水腫以及輕微腎水腫。此時醫院廣播,鼓勵四癌篩檢的衛教,所以這位婦女也接受子宮頸抹片的檢查。但是一週後,抹片報告為鱗狀上皮癌(squamous cell carcinoma)。這位婦女接下來的,應優先考慮下列何步驟? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -71,9 +79,6 @@ tags:
 - (B) 3. 有關肺癌的描述,下列何者正確?① adenocarcinoma 是最常見的 細胞型 ② squamous cell carcinoma 的發生與抽菸最有關聯 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (B) 1. 最常見的原發氣管內惡性腫瘤為: 107 (一) 專 醫五-27 (A) adenocarcinoma (B) squamous cell carcinoma (C) small cell carcinoma (D) carcinoid tumor (C) 2. 氣管分岔處(carina)在胸部 X 光所在的高度約相應於脊椎那一 106 (二) 專 醫五-18 個部位? (A) C6 (B) T1-2(C) T4-5(D) L2-3(D) 3. 有關 adenoid cystic carcinoma of lung 之敘述,下列何者正確? 105(二)專 ①大部分發生於肺周邊組織 ②大部分腫 Source: [[sources/med5-book4-ch06|己、氣管]].
 - | (A) | 6. 氣管最常見的惡性腫瘤為: | 100(一)專 | |-----|--------------------------------------------|---------| | | (A) squamous cell carcinoma | 醫五 -35 | | | (B) adenoid cystic carcinoma | | | | (C) carcinoid | | | | (D) adenoma | | | (C) | 7. 氣管為一管狀器官,下列關於其敘述何者為錯? | 99(一)專 | | | (A) 氣管為可移動的器官,在進行手術時常須將頸部伸展 | 醫五 -14 | | | (hyperextension) | | | | (B) 喉返神經位於氣管和 Source: [[sources/med5-book4-ch06|己、氣管]].
-- 【 詳解 】(A)(B)(C) 位於 cardia 的 gastric cancer 可 視 為 lower esophageal cancer, 目 前 可 以 做 proximal gastrectomy 和 total gastrectomy。proximal gastrectomy 容易造成食道逆流、dumping syndrome 或 anastomosis stricture等 complication,也會有較高的 mortality rate,一般以 total gastrectomy 為首選。(D) Distal gastric cancer 的預後較好。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- ...一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | | situ),不是腺癌。 | _ | | (C) 17. 有關直腸癌的經肛門局部切除治療,下列敘述何者錯誤? | 102(二)專 | | (A) 須小於 4 公分的 T1 和 T2 癌瘤才可使用 | 醫五-54 | | (B) 癌瘤須在離肛門口 6 公分以內的範圍才能採用此療法 | | | (C) T1 和 T2 的癌瘤皆不需再接受進一步的治療 | | | (D) 癌瘤必須是分化良好或中度分化者 | | | 【詳解 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (B) 鱗狀細胞癌(squamous cell carcinoma) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
 
 ## Clinical Caveats
 

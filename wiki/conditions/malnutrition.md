@@ -22,6 +22,8 @@ sources:
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Malnutrition (營養不良)'
   - 'Malnutrition'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+能量、蛋白質或微量營養素不足會增加手術併發症與感染風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,13 @@ tags:
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- (2) 全身性的因素則包括:營養不良、糖尿病、長期腎上腺素治療、血性惡病質、 化學治療,以及其它新陳代謝疾病。有效地控制以上種種因素,在治療鼻竇炎 佔著重要的地位。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 3. 營養不良:可能與缺乏 Vit B、Vit A 及視網醇(Retinoid)有關。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - 7. 中毒性視神經病變(toxic optic neuropathy): - (1) 簡介:因菸酒過量、營養不良(缺乏 vit. $B_1$ )、再生不良性貧血(缺乏 vit. $B_{12}$ )、藥物毒性(抗結核菌藥物:ethambutol、isoniazid;chloramphenicol、chloroquine)、鉛中毒或甲醇中毒…等原因造成的視神經病變。 - (2) 臨床症狀:無痛性雙側視力減退和色覺減退。 - (3) 徵候:視神經盤正常或蒼白,兩側中心視野缺損和色覺異常。 - (4) 診斷:病史、用藥史,血中 vit. B1、B12 和葉酸含量。 - (5) 治療:停藥、或給予 vit. B1、B12 和葉酸。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...| | | | (4) 必要時 | 儉查 CXR 和 EKG | | | | ・靜脈輸 | (1) D5S 為f | 佳,評估尿量及血液濃縮改善情況來調整輸 | | | | 液補充 | 液的給 | 予。 | | | | | (2) 補充 Albumin,拉住血管內液體,避免給予的輸液 | | | | | | 滲出血管外,加重腹水產生。 | | | | | | (3) 利尿劑:在大量的輸液補充後,尿量仍沒有增加, | | | | | | 可考慮使用利尿劑;但在低血壓或明顯血液濃縮下 | | | | 187 | | 不可使用利尿劑。 | | | | | ・抽腹水 | 過去條件 嚴重腹水造成持續腹脹、腹痛、呼吸困難 | | | | | | 或寡尿才考慮抽腹水 | | | | | | 目前觀 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ...級(證據尚可) | ・冷凍胚胎・使用阿斯匹靈・給予鈣離子 | | • 給予鈣離子 | | | C級(證據不足) | ・使用 coasting (暫停施打排卵針幾天) | | | | | | ・使用低劑量之 hCG 當破卵針 ・使用白蛋白 (albumin) | | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
@@ -77,8 +83,6 @@ tags:
 - (1) 衰老紅血球進入脾臟,分解後得到 bilirubin,與 albumin 結合後藉由血流會被送到肝臟,此時為非水溶性,稱為未結合型膽色素(unconjugated bilirubin)。 Source: [[sources/med5-book3-ch12|甲、解剖生病理簡介]].
 - 2. 慢性胰臟炎常見原因: - (1) 酒精(>70%)。 - (2) 胰管阻塞: 先天或後天性胰管狹窄、腫瘤阻塞。 - (3) 遺傳性。 - (4) 高血鈣症。 - (5) 蛋白質缺乏性的營養不良。 - (6) 囊性纖維化 (cystic fibrosis)。 - (7) 外傷導致胰臟受損。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 2. 外在 / 全身因素: 年紀、營養不足 (營養不良 / 肥胖、缺乏維他命 A 或 C、鋅、 鐵或銅 )、抽菸、類固醇的使用、抗癌藥物、糖尿病、尿毒症或 Collagen vascular disease。 - (1) 維他命 A 和 epithelialization 相關,可逆轉類固醇所造成的延緩傷口癒合的作用。 - (2) 維他命 C 與鋅和 collagen 合成相關。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- ...| 102(一)專 | | | | (A) 大多數的肺栓塞(pulmonary embolism)是起源於深層靜脈 | 醫五-5 | | | | 栓塞 (deep venous thrombosis) | | | | | (B) 老年人常因營養不良而有比較高的手術後併發症發生率 | | | | | (C) 肥胖與營養不良並不會增加傷口裂開的機率 | | | | | (D) 手術後的疼痛、輸液量過多會導致高血壓 | | | (B) | 16. | 下列生長因子(growth factors),何者沒有血管新生(angiogene- | 102(一)專 | | | | sis)的作用? | 醫五-18 | | | | (A) 血小板衍生之生長因子 Platelet-derived g Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- ...her | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直持續或加重。 - d. 動脈瘤破裂。 - e. 根據 Aortic Size Index(ASI = Aortic Diameter/Body Surface Area),如果病患 為 BSA 較小的女性,動脈瘤長比較快且易 rupture,故最大直徑為 4.5 公分至 5 公分 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 
 ## Clinical Caveats
 

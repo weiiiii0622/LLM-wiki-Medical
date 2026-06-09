@@ -54,6 +54,11 @@ sources:
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch13]]"
+  - "[[sources/med6-book4-ch02]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Esophagus (食道)'
   - 'Esophagus'
@@ -68,7 +73,7 @@ tags:
 
 ## Summary
 
-食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+食道連結口咽與胃，疾病包含吞嚥困難、GERD、Barrett esophagus 與癌症。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -122,9 +127,24 @@ tags:
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch13]]
+- [[sources/med6-book4-ch02]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 2. 影像學檢查:電腦斷層評估腫瘤大小、局部侵犯程度,及有無頸部淋巴轉移。安排胸部 X 光、腹部超音波與骨骼掃描,檢查是否有遠端轉移。安排上消化道內視鏡(胃鏡)檢查是否有食道侵犯或食道癌。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- ...on of hemilarynx | | | Т3 | Tumor larger than 4 cm in greatest dimension or with fixation of hemilarynx or extension to esophagus | | | T4 | Moderately advanced or very advanced local disease | | | T4a | Moderately advanced local disease Tumor invades thyroid/cricoid cartilage, hyoid bone, thyroid gland, or central compartment soft tissue* | | | T Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- ...he larynx (e.g., trachea, soft tissue of neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus) | | T4b | Very advanced local disease Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures | Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- (3) 心血管系統監測(Circulation)。 - a. 非侵入式血壓測量系統(Non-Invasive Blood Pressure System, NIBP)。 - b. 動脈導管 (Arterial line)。 - c. 中央靜脈壓 (Central venous pressure)。 - d. 心電圖。 - e. 經食道心臟超音波(Transesophageal echocardiography, TEE)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (4) 體溫監測 (body temperature)。 - a. 監測體溫的目的,第一個是及早發現惡性高熱,第二個是要防止低體溫的產生,低體溫會增加心肌梗塞機率、傷口感染機率、凝血功能異常、增加輸血需求量…等不好的結果。 - b. 中心體溫 (core temperature): 為身體血流最豐富的地方,常見的 core temperature 測量位置有: 肺動脈 (pulmonary artery)、遠端食道 (distal esophagus)、鼓膜 (tympanic membrane)、或鼻咽部 (nasopharynx)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (2) B圖,分別出現於不同情境: - a. 圖 1 表示食道插管,造成不成形的 waveform。 - b. 圖 2 表示在第三期有降低的現象,表示同時間用力吸氣(例如,開始有自行呼吸)或肺部充氣不足。 - c. 圖 3 表示無法將吸氣 CO2 值歸於零,這可能代表呼吸器的單向閥關不緊,造成吐出的二氧化碳逆流,又被病人吸進來,或 CO2 的吸收劑用完了。 - d. 圖 4 表示限制性肺疾(restrictive pulmonary disease),因吸氣時的波形 CO2 降 低遲緩。 - e. 圖 5 表示阻塞性肺疾 (obstructive pulmonary disease),因吐氣期間都沒有高原期出現。 - f. 圖 6 表示心因性顫動。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 1. 喉部的運動神經支配來自迷走神經,迷走神經下降至喉部分出了上喉神經(支配環甲肌 cricothyroid muscle)與喉返神經,右側喉返神經繞過鎖骨下動脈,左側喉返神經則繞過主動脈弓才折返,折返後向上走在甲狀腺後方之氣道食道溝中進入喉內支配喉內肌群 intrinsic laryngeal muscles(環甲肌除外)。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
+- 1. 醫源性如外科手術造成神經受損(如甲狀腺、喉部、頸部、縱膈腔、食道、心臟等 部位手術)或因施行氣管內插管。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
+- 6. 胃食道逆流:上呼吸道阻塞的病患,由於在吸氣時會導致胸內負壓,易造成胃食道 逆流。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
+- ...onium $(0.6\sim1.2 \text{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick maneuver): 使用食指和拇指將環 狀軟骨向下施壓氣管後方的食道,主要目的是在於防止胃食道逆流造成吸入性 肺炎。(比較:幫助插管的 BURP 手法,是壓甲狀軟骨) Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
 - ...propulsive phase,包含舌頭和上顎進行密合將食物往後推進至咽喉】)。 - (2) 咽期(Pharyngeal phase):食物經過前咽門弓(anterior facial arch)引發吞嚥反射,將食物更往後推,進入咽喉而到食道。吞嚥反射動作包括喉部上提,環咽肌放鬆,軟顎上提以關閉往鼻咽的通道,會厭軟骨閉合避免食物跑入氣管,將食物經過氣管的上方而進入食道。 - (3) 食道期(Esophageal phase):食道上括約肌可產生 45 mmHg 的壓力,而在胸膛內的食道壓力為 -6 mmHg,加上 Cricopharyngeal muscle 的收縮、食道的 peristalsis 以及下食道括約肌放鬆,使得食物可以很順利的經由食道滑到胃中。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - (3) 螢光錄影吞嚥檢查(videofluoroscopic swallow study, VFSS): 利用食物混合鋇劑, 讓病人吞嚥,再用 X 光追蹤看看食物在吞嚥時的動作是否順利,以了解口腔期、 咽喉期及食道期中食物移動的協調有無異常的情況。 - a. 目前最有臨床價值的動態檢查技術。 - b. 對治療策略的擬定有很大的幫助。 - c. 此檢查的最大優點是進行中可因患者的情形進行調整,如姿勢擺位(頭部轉動或下巴貼前胸等)、食物的給予方式(奶瓶、針管、湯匙、茶杯等)及食物質地(黏稠度)的選擇等,以模擬正常進食時的情形,並同時評估其進食的安全性和以上不同介入方式是否有效。 - d. Indirect image • Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - (4) 另外超音波可評估喉部活動,EMG(肌電圖)和 Manometry(食道壓力檢查) 都是評估吞嚥功能檢查之一。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
@@ -133,16 +153,6 @@ tags:
 - 黃體素使得下食道括約肌張力降低,會導致胃食道逆流;加上懷孕時腹內 壓上升,吸入性肺炎的風險增加,尤其在生產腹部用力時或全身麻醉時 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ※年輕女性可用 Z-score 來評估,若 Z-score 分鐘的直立坐姿,以減少腸胃副作用(胃食道逆流與食道潰瘍)。●相對禁忌症為食道的硬皮症、遲緩不能 (achalasia) 或窄縮。●不應使用在 Barrett's esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 1. 機轉 & 成因:為化膿性肋膜腔感染,是肋膜渗出液(exudate)最常見的形式。可 經胸壁創傷或手術傷口直接污染肋膜腔,或經血液(菌血症或敗血症)、肺部感染、 肺膿瘍破裂、感染性肺開洞破裂或縱隔感染(食道穿孔)等造成肋膜腔感染。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- Figure 19-52. Normal thoracic duct anatomy. The esophagus comes into close proximity with the thoracic duct as it enters the chest from its origin in the abdomen at the cisterna chyli. Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- 3. 後縱隔腔:食道、降主動脈、奇靜脈、半奇靜脈、胸管、交感神經鏈、淋巴結。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- 1. 急性縱隔腔炎(mediastinitis),通常感染源來自口咽菌叢,常見原因為食道穿孔、胸骨手術術後感染、口咽或頸部感染、頭頸部手術術後感染、氣管支氣管穿孔、肺部感染或胸腔創傷,為手術急症,治療需矯正感染原因,並進行引流甚至清創,合併抗生素治療。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- (C) 1.42 歲女性病人,前頸部吞嚥異物感 2 年,沒有心悸或怕熱等症 96(二)專狀,無咳嗽,頸部中央靠近喉結下有一腫塊,近一星期左右增大 約 2 公分,微痛,身體檢查觸診微軟有彈性,無壓痛,無淋巴 腺腫大。該腫塊位於甲狀軟骨前下方,並有吞嚥時位移及抬舌 位移現象,下列何者是最正確的診斷? - (A) 淋巴瘤 (lymphoma) - (B) 甲狀腺囊腫 (thyroid cyst) - (C) 甲狀舌骨囊腫(thyroglossal cyst) - (D) 食道腫瘤 (esophageal tumor) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- B. 咽食道憩室、贊克氏憩室 (Pharyngoesophageal diverticulum、Zenker diverticulum) 82 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- C. 食道閉鎖和氣管食道瘻管 (Esophageal atresia and tracheoesophageal fistula) 83 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- D. 食道失弛緩症(Achalasia) 85 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- g. 食道穿孔 (Evidence of esophageal perforation) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 1. 根據 Modified Johnson classification,針對位置與其潰瘍產生的機轉作分類。 - (1) 第一型:潰瘍位於胃小彎處,與胃酸分泌量無關。 - (2) 第二型:出現兩個潰瘍,一個位於 胃部,另一個位於十二指腸。與較 高的胃酸分泌量相關。 - (3) 第三型:位於幽門前方的潰瘍,可 能會出現多個潰瘍。與較高胃酸分 泌量相關。 - (4) 第四型:潰瘍靠近胃與食道交界處。 通常與胃酸的分泌量無關,可能與 黏膜防衛機制缺陷相關。 - (5) 第五型:潰瘍可能位於任何位置, 與服用藥物如 NSAID 或 aspirin 相關。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 
 ## Clinical Caveats
 

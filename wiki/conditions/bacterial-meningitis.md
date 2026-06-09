@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book3-ch09]]"
   - "[[sources/med3-book3-ch15]]"
@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book1-ch13]]"
   - "[[sources/med5-book1-ch18]]"
   - "[[sources/med5-book1-ch14]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Bacterial meningitis (細菌性腦膜炎)'
   - 'Bacterial meningitis'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性 CNS infection，常有發燒、頭痛、頸部僵硬與 CSF neutrophilic pleocytosis。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,12 @@ tags:
 - [[sources/med5-book1-ch13]]
 - [[sources/med5-book1-ch18]]
 - [[sources/med5-book1-ch14]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...感染所造成,與前庭神經炎(vestibular neuritis)病因類似。 - b. 與前庭神經炎(vestibular neuritis)最大的差異在於因感染至內耳迷路,導致量眩與聽力喪失。 - c. 在症狀出現之前,通常有中耳炎感染、細菌性腦膜炎的 episode。 - (2) 常見菌種: - a. Bacteria: S. pneumoniae · H. influenzae · M. catarrhalis · P. aeruginosa · P. mirabilis - b. Virus: CMV · measles · mumps · varicella zoster - (3) 臨床症狀: - a. 量眩感。 - b. 噁心嘔吐。 - c. 耳鳴。 - d. 聽力喪失 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- a. 特別注意病人是否目前仍有細菌性腦膜炎感染的可能性,可進行腰椎穿刺 (lumbar puncture) 確認。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 4. Meningismus: 會有類似腦膜炎的症狀, Nuchal rigidity、Kernig sign(大腿彎曲後, 將小腿伸直時大腿後面會痛)、Brudzinski sign(將頸部向前彎曲,大腿會不自主屈曲)。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - ...(hyperostosis)的現象 | | | (D) 矢狀竇旁(parasagittal)的位置最常見 | | | (D) 18. 表皮樣囊腫(epidermoid tumor)腦瘤會有下列何種特質? | 105(一)專 | | (A) 細菌性腦膜炎(bacterial meningitis) | 醫五-16 | | (B) 伴有先天異常 (associated congenital malformations) | | | (C) 對放射性治療有效(responsive to radiation therapy) | | | (D) 無菌性腦膜炎 (aseptic meningitis) | | | (D) 19. Glioblastoma multiforme (GBM) 屬於 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - (A) 急性細菌性腦膜炎 (acute pyogenic meningitis) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].

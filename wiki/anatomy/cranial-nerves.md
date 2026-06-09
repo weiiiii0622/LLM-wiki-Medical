@@ -23,6 +23,11 @@ sources:
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch14]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Cranial nerves (腦神經)'
   - 'Cranial nerves'
@@ -37,7 +42,7 @@ tags:
 
 ## Summary
 
-十二對腦神經連結眼球運動、臉部感覺運動、聽平衡、吞嚥與自律神經功能。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+十二對腦神經連結眼球運動、臉部感覺運動、聽平衡、吞嚥與自律神經功能。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +65,24 @@ tags:
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch14]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- AJCC 第八版癌症分期手冊在頭頸癌的分期做了許多的調整,在口腔癌分期上,則納入手術病理上之腫瘤侵犯深度及淋巴結外侵犯決定預後分期。口腔癌原發部位(T)分期則納入侵犯深度,值得注意的是這裡指的是「腫瘤侵犯深度」而非腫瘤厚度。頸部淋巴分期則將淋巴結外侵犯納入分期,當有淋巴結外侵犯時定為 N3b;而淋巴結外侵犯的判定包括病理組織上發現淋巴結內轉移性癌細胞穿過包膜侵犯到鄰近組織,臨床上影像學懷疑淋巴結外侵犯需輔以理學檢查,例如侵犯到皮膚、肌肉或造成顱神經、臂神經叢、交感神經幹或膈神經失能等明顯表徵,才可算是淋巴結外侵犯。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 6. 腦神經症狀:鼻咽部位於頭顱中央,隔著堅硬的顱底骨與顱腔隔開。但在鼻咽部周圍有血管與神經通道,鼻咽癌腫瘤細胞常沿著這些孔道侵犯到顱腔內,造成上述之頭痛現象,或甚至侵犯腦神經引起其功能障礙,可能影響 CN III, IV, V, VI, IX, X, XII,又以第六對腦神經麻痺最常見。例如侵犯第六對腦神經(外展神經)造成眼 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 球運動障礙而產生複視;侵犯第五對腦神經(三叉神經)造成臉部皮膚感覺麻木。 其他舌下神經、迷走神經障礙,則會造成吞嚥困難或聲音沙啞的症狀。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 1. 外鼻部之肌肉由第七對腦神經(顏面神經)支配,外鼻部皮膚感覺則來自第五對腦神經(三叉神經)的第一與第二分支。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (2) 內鼻部一般感覺神經支配來自第五對腦神經(三叉神經)的第一支與第二支。 - a. 三叉神經的第一分支(眼神經,V1)→鼻睫神經或篩前神經→支配鼻中膈上部、前部及鼻側部一般感覺。 - b. 三叉神經的第二分支(頷神經,V2)→蝶腭分支(sphenopalatine)→支配大部分鼻子後部一般感覺。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (b) 第 3、4、6 對腦神經因為與海綿竇密切相關,進而可能造成選擇性的眼麻痺。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 4. 破壞顱底及壓迫顱神經,則有頭痛及顱神經麻痺。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 1. 間接鼻咽鏡檢查見鼻咽頂壁、側壁或鼻後孔處有圓形或分葉狀表面光滑的腫瘤,可 見顯著的血管紋。由於腫瘤侵犯鄰近部位不同,可有面頰隆起、眼球移位、張口受 限、顱神經麻痺等體徵。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 2. 腦神經系統:是否有中風病史、癲癇的病史,若有的話其疾病的影響為何,譬如中風已造成右側肢體無力多年,無力的程度為何,也必須做評估,如此一來術後才知道病患恢復的情況如何,是否有新的中風發生、或是剩餘麻醉藥物作用造成。除此之外,過去有腦血管疾病的病患接受麻醉手術也有比較高的風險,這是必須對病患和家屬做解釋的內容之一。而癲癇的用藥也是評估的重點。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- (1) 溫差試驗,也可稱為眼前庭反射試驗(oculovestibular reflex),用來檢查第八對腦神經的前庭功能。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 2. 吞嚥機轉的神經支配有第五、七、九、十、十一、十二對腦神經及第一至第三對頸椎神經。而喉部往上往前提、喉前庭(laryngeal vestibule)的完全關閉以及聲帶保持緊閉,這三點是避免嗆到引起吸入性肺炎最重要的步驟。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - 5. 外側突起分兩種,一個是斜方肌(第十一對腦神經支配)無力引起,當肩膀內收時會發現肩胛骨的 superior angle 向外側突出,以及在聳肩時會有單側無力或肩高不對稱的情形。另一種是菱形肌無力(背肩胛神經支配)引起,相反地,它是肩胛骨的 inferior angle 向外側突出。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - 1. 腦外傷部分內容請參照醫學(五)第三冊腦神經外科第二章頭部創傷。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
@@ -71,15 +91,6 @@ tags:
 - (1) 上斜肌麻痺 (superior oblique paresis): - a. 分類: - (a) 先天性:由於第四對腦神經或神經核的先天性缺損造成。 - (b) 後天性:因頭部外傷、腦血管病變、糖尿病、腦瘤等。 - b. 特色:上斜肌麻痺造成患側眼比正常眼的位置高,且垂直斜視的角度可能隨 注視方向不同或頭位置改變而有所不同。如右上斜肌麻痺者,向正前方看時, 右眼會比左眼高,當兩眼向左看或頭往右邊歪時,斜視的角度會變大。故上 斜肌麻痺的患者,常有會把頭往健側歪以減少斜視角度的現象。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - (3) 第三對腦神經麻痺:先天性多因本身發育異常或一些發炎性疾病,而在成人多 因腦部血管瘤、糖尿病、外傷、腦炎等造成。患者眼外肌受第六對腦神經控制 會表現外斜(外直肌的作用)、第四對腦神經控制會表現下斜(上斜肌的作用)、 眼瞼下垂及瞳孔放大。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
 - \* Marcus Gunn 氏 jaw-winking 症候群:約占先天眼瞼下垂病人的 5%,多為單側。原因可能是在支配外翼肌的 CN V3 與支配提上眼瞼肌的 CN III 上支之間存有錯誤的神經相連(aberrant connection)。病人藉著張口或下巴向對側移動可使下垂的眼瞼回縮而變正常。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
-- (1) 雙眼複視可能與眼外肌和腦神經病變相關:如重症肌無力、後天性斜視(如外傷性斜視)、甲狀腺眼症、腦中風、腦瘤、動脈瘤等。雙眼同時看時會出現複視,而把有問題的眼睛遮住,單眼看時,複視即消失。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- b. 器質性 (organic): - (a) 神經方面 (neurogenic): - i. 腦神經:有腦部腫瘤壓迫等。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- (B) 第三對顱神經麻痺(3rd cranial nerve palsy) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- 【詳解】該位置鄰近第三對腦神經,易因壓迫導致 ptosis、眼球 運動障礙、同側瞳孔較大以及對光無反應。 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- (C) 這是一個 aneurysm,極易壓迫 6th cranial nerve,造成複視 Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- 2. 腦神經、脊神經及周邊神經腫瘤(tumor of cranial, spinal and peripheral nerves) - (1) 許旺氏細胞瘤 (schwannoma): 許旺氏細胞 (Schwann cell)。 - (2) 神經纖維瘤 (neurofibroma): 許旺氏細胞、纖維母細胞。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 2. Supratentorial tumor: 症狀以大腦為主。 - (1) 因 mass effect 造成的 IICP signs。 - (2) 對側面目、上肢或下肢無力。 - (3) 侵犯到 CN I 和 II,以及海綿竇受壓迫或侵犯影響到 CN III-VI。 - (4) 失語症。 - (5) 人格改變。 - (6) 頭痛。 - (7) 癲癇。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 3. Infratentorial tumor:症狀以小腦和腦幹為主。 - (1) 因 CFS 流通受阻 hydrocephalus 導致 IICP signs。 - (2) CN III~XII 受壓迫或侵犯產生神經學症狀。 - (3) 頭量、嘔叶、量眩。 - (4) 步態不穩、運動失調(ataxia)、意向性顫抖(intention tremor)。 - (5) 眼球震顫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- (1) 醫師自屍體摘取器官施行移植手術,必須在器官捐贈者經其診治醫師判定病人 死亡後為之。死亡以腦死判定者,應依中央衛生主管機關規定之程序為之(腦 死判定請參閱「腦神經外科」第一章節)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 
 ## Clinical Caveats
 

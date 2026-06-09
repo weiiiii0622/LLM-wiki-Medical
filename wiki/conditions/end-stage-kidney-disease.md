@@ -12,6 +12,7 @@ sources:
   - "[[sources/med3-book3-ch06]]"
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'End-stage kidney disease, ESKD (末期腎臟病)'
   - 'End-stage kidney disease, ESKD'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-腎功能進入需 renal replacement therapy 或保守照護評估的階段。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎功能進入需 renal replacement therapy 或保守照護評估的階段。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ tags:
 - [[sources/med3-book3-ch06]]
 - [[sources/med4-book1-ch03]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- 6. 腎臟系統:是否有 CKD/ESRD,有無進行血液透析或腹膜透析,術前血液檢查數值 為何。有沒有哪一手禁做治療? Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...梗塞病史(發作時間超過三個月以上)、冠狀動脈疾病、裝心臟節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併心衰竭的孕婦 | 7.8~23% | Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - ...B 屍腎。 - iii. 無私的捐腎者 (altruistic living donors): 捐出活腎給移植中心來安排。 - b. 活體捐腎者本身的安全(living-donor safety):活體捐腎者捐腎後其預後與一般人相近,未來末期腎病變(ESRD)的機率是 0.04%(一般人 0.03%)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 4. 治療:嚴格控制血壓是治療疾病中最重要的一項,若出現慢性腎衰竭則治療包括飲食調整、控制水分攝取等;當進展為末期腎臟病時,則需要進行腎臟透析或腎臟移植手術。若出現白內障,可接受眼科手術矯治。聽力喪失的情況可能為永久性的,像唇語辨讀或手語的學習,或是配戴助聽器都可對患者有益。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - (C) 因為會復發,進入末期腎病後不建議腎移植 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

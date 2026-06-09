@@ -18,6 +18,12 @@ sources:
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch07]]"
+  - "[[sources/med6-book4-ch08]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Raised intracranial pressure, IICP (顱內壓升高)'
   - 'Raised intracranial pressure, IICP'
@@ -32,7 +38,7 @@ tags:
 
 ## Summary
 
-顱內壓升高可造成頭痛、嘔吐、視乳頭水腫與意識變化，腰椎穿刺前需評估。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內壓升高可造成頭痛、嘔吐、視乳頭水腫與意識變化，腰椎穿刺前需評估。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -50,9 +56,24 @@ tags:
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch07]]
+- [[sources/med6-book4-ch08]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- d. 對心臟系統及腦部的影響:Barbiturate 由靜脈給予的麻醉誘導劑量會造成血壓降低及心跳速率增加。腦部方面,會使腦部血管收縮,使腦內血流及顱內壓減少,所以腦部灌流壓(CPP)會提高,且 barbiturate 使腦部氧氣消耗量降低,整體而言對局部腦組織缺血具有某種程度的保護作用。比起 propofol 有一個防止痙攣的特性,所以是神經外科手術時常用的藥物。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- (6) 顱內壓上升(禁止使用於頭部外傷或顱內高壓的病人)。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- | Agent | 心跳速率(HR) | 平均動脈壓 (MAP) | 換氣驅力(ventilation) | 支氣管擴張 | 腦部血流量(CBF) | 顱內壓(ICP) | |-----------------|--------------|-----------------|-----------------------|----------------------------------|----------------|----------------------------------------| | Barbiturates | ↑ ↑ | ↓ ↓ | ↓ ↓ | \ | ↓ ↓ Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- (2) 副作用: - a. 避免使用於密閉體腔如氣體栓塞(air embolism)、氣胸、腸阻塞,肺高壓的病人。 - b. 長期使用易造成骨髓抑制,及抑制 $B_{12}$ -dependent enzymes。 - c. 增加手術後噁心嘔吐(PONV)的機會。 - d. 增加腦部耗氧代謝率、腦部血流上升、顱內壓上升。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- ICP: 顱內壓; RBF: renal blood flow; HBF: hepatic blood flow Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- (3) 副作用及併發症: - a. 終板持續的去極化,容易造成高血鉀,引發心律不整。 - b. 造成惡性高熱 (malignant hyperthermia) 的誘發因子。 - c. 眼內壓上升。 - d. 顱內壓上升。 - e. 橫紋肌溶解症(rhabdomyolysis)。 - f. 心跳速率下降、心跳停止。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
+- ...e. T6-T7 (xiphoid):下腹部手術、闌尾切除 (appendectomy)。 - f. T4 (nipple): 上腹部手術、剖腹產 (C-section)。 - (4) 禁忌症:病患無法配合、凝血功能異常、局部有感染現象、IICP。 - (5) 副作用:Postdural puncture headache (PDPH)。 - a. 原因:脊髓硬腦膜(dura)遭受穿刺後若沒有癒合的很好造成 CSF 持續滲漏,會使病人發生低壓性的頭痛(low pressure headache)和噁心的現象,通常在接受麻醉後的 1~2 天發生,坐起來會加劇、平躺的話症狀會緩解。好發於年輕、懷孕者。與穿刺針的大小、針面形狀和多次的穿刺相關。 - b. 治療:大部分會自然緩解,建議 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
+- 【詳解】過度換氣(Hyperventilation):利用降低血中二氧化碳分壓,使得腦部血管收縮以達到降低顱內壓的效果。將血中二氧化碳分壓降到 25 至 30 mmHg,數秒鐘內即有降顱內壓效果,但時效短暫。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (7) 頭痛及視乳突水腫(papilledema)。必須考慮發生側靜脈竇而栓(lateral sinus thrombosis)的可能性。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - (2) 顱內壓上升(IICP):姿勢變換、頭部轉動、抽痰拍背、環境吵雜、物理治療以 及血壓高都會使顱內壓上升。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
@@ -62,15 +83,6 @@ tags:
 - 3. 起初大腦會透過以下代償機制去平衡上升的顱內壓: - (1) CSF 離開大腦流向腰椎膜。 - (2) 血流透過內頸靜脈回流,降低大腦血流量。 - (3) 細胞外液減少。 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
 - 9. 中度頭部創傷 (GCS = 9~12): - (1) 轉 ICU。 - (2) 要是 12 小時內 GCS 無法回復到 13 以上、臨床症狀惡化或是 ICP (intracranial pressure) 上升,則必須再作一次 CT 追蹤。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - 10. 重度頭部損傷 (GCS = 3~8): - (1) 插管。 - (2) Hyperventilation $PCO_2 = 30\sim35$ mmHg,避免 IICP (increased intracranial pressure)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- 11. 給予 IV 20% Mannitol 100 cc 降腦壓。(關於 IICP,後面另有章節詳述) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- 2. Supratentorial tumor: 症狀以大腦為主。 - (1) 因 mass effect 造成的 IICP signs。 - (2) 對側面目、上肢或下肢無力。 - (3) 侵犯到 CN I 和 II,以及海綿竇受壓迫或侵犯影響到 CN III-VI。 - (4) 失語症。 - (5) 人格改變。 - (6) 頭痛。 - (7) 癲癇。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 3. Infratentorial tumor:症狀以小腦和腦幹為主。 - (1) 因 CFS 流通受阻 hydrocephalus 導致 IICP signs。 - (2) CN III~XII 受壓迫或侵犯產生神經學症狀。 - (3) 頭量、嘔叶、量眩。 - (4) 步態不穩、運動失調(ataxia)、意向性顫抖(intention tremor)。 - (5) 眼球震顫。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 3. 多數病人有水腦症,以及 IICP sign。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 2. 小腦血腫: 突發性頭痛,後續出現小腦及腦幹症狀,例如嚴重運動失調、構音困難、 眼顫、眩暈和嘔吐。或是 CSF 阻塞產生水腦症,出現 IICP sign。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- Ⅲ. 次發性頭痛 61 - A. 造成腦膜刺激(Meningeal irritation)的頭痛 61 - B. 顱內壓太高、太低的頭痛:太高(IICP)、太低(腰椎穿刺後) 61 - C. 腦腫瘤 62 - D. 顳動脈血管炎(Temporal arteritis) 62 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- ...叢發型頭痛(最少見、超愛考) | | | | 血管 | 出血 (ICH、SAH、SDH)、構造異常 (AVM)、高血壓、靜脈栓塞 | | 次發性頭痛 | 感染 | 腦膜炎、腦炎、腦膿瘍 | | (Secondary headache) | 顱內壓 | 太高 (IICP)、太低 (腰椎穿刺後) | | | 腦腫瘤 | | | | 顱外 | 顳動脈血管炎 (Temporal arteritis) | Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- #### B. 顱內壓太高、太低的頭痛:太高(IICP)、太低(腰椎穿刺後) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- 6. 大腦梗塞後,約 10~20%的病人會在 3~5 天會慢慢出現腦水腫及顱內壓升高,這也 是導致病人在第一星期死亡的主要原因。若有 IICP 的神經學症狀或影像學證據, 可將病床頭側上升 30 度,或注射 Glycerol、Mannitol,目前無證據顯示類固醇對腦 梗塞後的腦水腫有用,故不建議使用(A, level 1+)。病況危急時才以過度換氣法將 PCO2維持在 30~35 mmHg。(D, level 3)下面比較兩種常見腦水腫的不同治療方法: Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 
@@ -86,9 +98,11 @@ tags:
 - [[conditions/hydrocephalus|Hydrocephalus (水腦症)]]
 - [[drugs/hypertonic-saline|Hypertonic saline (高張食鹽水)]]
 - [[conditions/idiopathic-intracranial-hypertension|Idiopathic intracranial hypertension / pseudotumor cerebri (特發性顱內高壓／大腦假性腫瘤)]]
+- [[drugs/ketamine|Ketamine (氯胺酮)]]
 - [[drugs/mannitol|Mannitol (甘露醇)]]
 - [[concepts/monro-kellie-doctrine|Monro-Kellie doctrine (Monro-Kellie 學說)]]
 - [[conditions/papilledema|Papilledema (視乳突水腫)]]
+- [[drugs/thiopental|Thiopental (硫噴妥鈉)]]
 - [[conditions/traumatic-brain-injury|Traumatic brain injury, TBI (創傷性腦損傷)]]
 
 ## Follow-up

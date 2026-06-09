@@ -17,6 +17,8 @@ sources:
   - "[[sources/med6-book2-ch14]]"
   - "[[sources/med6-book2-ch18]]"
   - "[[sources/med6-book2-ch08]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Optic nerve (視神經)'
   - 'Optic nerve'
@@ -31,7 +33,7 @@ tags:
 
 ## Summary
 
-視神經傳遞視網膜 ganglion cell axons；病變可表現為視力下降、視野缺損、RAPD 或 optic disc swelling。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+視神經傳遞視網膜 ganglion cell axons；病變可表現為視力下降、視野缺損、RAPD 或 optic disc swelling。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +50,14 @@ tags:
 - [[sources/med6-book2-ch14]]
 - [[sources/med6-book2-ch18]]
 - [[sources/med6-book2-ch08]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- (b) 功能性內視鏡鼻竇手術(functional endoscopic sinus surgery, FESS)。 - i. 治療慢性鼻竇感染的最常見手術方法。手術使用放大鼻竇內視鏡透過 鼻孔進行。其風險較小,手術後恢復速度比傳統的竇房手術較快。 - ii. 併發症:因傷害到視神經而影響視力、腦脊髓液漏出、牙齒或上唇麻木感、感染、出血。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (2) 如果發生於蝶竇時,若壓迫到視神經會發生視力障礙。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- ...他電刺激就測不到 T12 的神經損傷。 - b. 腦幹聽覺誘發電位(BAEP):經由耳塞傳入聲音刺激,可反應出聽覺傳導路徑,常用於後顱窩手術的監測,避免損傷腦幹或聽神經。 - c. 視覺誘發電位(VEP):可在眼前輕微閃光產生刺激反應,用於視神經或腦下垂體手術。但臨床上很少使用。 - (2) 運動誘發電位(motor evoked potential): 監測脊髓路徑或是大腦運動皮質區的完整性。例如:開腦瘤的手術,如果怕切到運動皮質區造成病人開完刀癱瘓,可在手術中刺激局部大腦皮質來監測運動功能區的範圍和是否受損,但只要加了肌肉鬆弛劑,MEP就會測不出來。 - (3) 肌電圖(EMG)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - 5. 青光眼是種視神經病變(稱之 glaucomatous optic neuropathy),具特殊的視神經盤外觀、視網膜神經纖維層受損以及特別的視野(visual field)缺損型態,而眼壓(IOP)的升高是青光眼的主要危險因子之一,另外 ocular ischemia 及一些免疫系統失常也和青光眼有關。 - (1) 本質為視網膜神經節細胞 (retinal ganglion cell) 漸進式的死亡喪失。 - (2) 臨床呈現視神經盤凹陷(cupping)的逐漸加深擴大,視神經功能逐漸喪失。 - (3) 繼而引起視野缺損及視力喪失。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - 4. 眼底鏡檢查(ophthalmoscopy):青光眼的眼底鏡檢查著重在視神經盤中央凹陷(即 視杯 cupping)伴隨凹陷部位的視盤變蒼白的變化。此變化是因為視神經盤的神經 纖維因壓力受損萎縮,導致視杯擴大(一開始為垂直方向變大),合併篩板(lamina cribrosa)移位。 - (1) 正常的視杯 / 視神經盤垂直直徑比例 (the cup: disc ratio; C/D ratio) 為介於 0.1~ 0.4,且雙眼差距不大,但要單靠 C/D ration 診斷青光眼是有侷限。 - (2) 青光眼在眼底鏡下的視神經盤變化: C/D ratio 大於 0.4、視杯垂直性擴大 (vertical elongation of the cup )、視神經盤周邊出血、暴露出底部的篩板、神經纖維層變薄等。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - 5. 視神經纖維層分析 (nerve fiber layer analysis): 利用雷射掃描式共軛焦顯微鏡 (confocal laser scanning microscope)計算出視神經盤周圍的神經纖維層厚度是否 有變薄。當青光眼持續惡化,視神經纖維層受壓迫或其他原因導致神經軸索 (axon)的 retrograde apoptosis,使視網膜神經節細胞 (retinal ganglion cell)死亡,神經纖維層的厚度即會變薄。另外也可用共軛光斷層掃描 (optical coherence tomography, OCT)可觀察視神經盤的橫切型態、視網膜層狀結構、視網膜中央凹等。 Source: [[sources/med6-book2-ch11|癸、青光眼]].

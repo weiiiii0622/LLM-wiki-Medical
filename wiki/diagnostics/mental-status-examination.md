@@ -65,6 +65,11 @@ sources:
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch06]]"
   - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch04]]"
+  - "[[sources/med6-book4-ch07]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Mental status examination, MSE (精神狀態檢查)'
   - 'Mental status examination, MSE'
@@ -79,7 +84,7 @@ tags:
 
 ## Summary
 
-精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+精神科會談中系統評估外觀、行為、語言、情緒、思考、知覺、認知、病識感與判斷力。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -144,9 +149,20 @@ tags:
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch06]]
 - [[sources/med6-book3-ch01]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch04]]
+- [[sources/med6-book4-ch07]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 2. 藥物機制: - (1) Ketamine 是一種解離性(dissociative)的藥物,也是唯一帶有止痛效果的 induction 藥物。 - (2) 所謂解離性麻醉是指病人接收外界刺激的感受和他本身的意識狀態是分離的, 例如:病人被開刀時接收到痛刺激,但是他不覺得那是痛,而可能是身體飛起來。也常常有病人看起來是清醒的,但自言自語或答非所問。 - (2) 作用機轉: N-methyl-D-aspartate (NMDA) receptor 的 antagonist。 - (3) 會同時增加血壓 (arterial blood pressure)、心跳速率 (heart rate) 和心輸出量 (cardiac output),造成心肌耗氧 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- (1) 中樞神經系統: - a. Opioid 類的藥物就藉由 binding 在 opioid receptor 上,藉由 G-protein 的下游作用,達到刺激與抑制的效果。 - b. 抑制疼痛感。 - c. Sedation • - d. 情緒上的改變如 detachment (游離感)與 euphoria (欣快感)。 - e. Meperidine 在長期使用之下會造成癲癇 (Meperidine 就是臨床常用的 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- 1. Stage I:止痛期 (Analgesia/Disorientation) - (1) 病人的感覺傳導路徑受到藥物的干擾,疼痛感喪失,但意識清醒尚可言語表達。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
+- ...,反而使得 Acetylcholine 無法作用,造成肌肉的鬆弛,也可視之為 Acetylcholine antagonist。 - b. Nondepolarizing NMBDs 並不會進入 CNS,因此病人會感覺肢體無力以及無法呼吸,意識完全清楚卻又無法表達的溺水感。因此在給予 Nondepolarizing Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
+- ...(C) 使用 Opioids | | | | (D) 使用 Neuromuscular blocking agents | | | (C) 35. | 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 mmHg,應優先選擇下列何者處置? (A)靜脈注射抗組織胺(Antihistamine) (B)靜脈注射類固醇(Steroid) (C)靜脈注射腎上腺素(Epinephrine) (D)吸入性支氣管擴張劑(Bronchodilator) | 100(二)專醫四-78 | | (D) 36. | 心臟冠狀動脈疾病手術麻醉處理的原則,下列何者錯誤? | 99(二)專 | | | (A) 增加收縮壓會增加心臟耗氧 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 4. 功能性聽力障礙 (Functional hearing loss) - (1) 功能性聽力障礙表示患者並沒有耳朵方面實質上的疾病,卻無法聽到聲音,可能與心理或情緒因素相關。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - (6) 改善身心靈的適應力,包含情緒、壓力,甚至改變 A 型人格。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (1) 創傷後水腦症(posttraumatic hydrocephalus):約有四到七成的患者腦室會擴大,腦壓通常不會跟著升高(normal pressure type)。常見症狀有頭痛、噁心嘔吐、意識改變。電腦斷層上可見腦室周圍較亮(periventricular lucency)、腦溝消失及腦室不規則擴張。治療上主要是腦室引流手術。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
@@ -159,12 +175,6 @@ tags:
 - 【詳解】經前症候群(premenstrual syndrome, PMS),是指在進入黃體期後(約月經前 10~14 天),可能由於體內荷爾蒙變化,而產生各種身心不適症狀,常見症狀可分三類:生理性、情緒性及行為上。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ◆ 情緒性:包括 anxiety(焦慮、緊張易怒、情緒失控、易哭) 和 depression(憂鬱、沮喪、恐懼、孤僻、負面思考、興趣 低落、社交退縮、失眠或睡太多)兩大類症狀 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - | Vasomotor symptoms | 最常見的症狀,80% 更年期婦女會出現熱潮紅,造成夜間流 | |--------------------|------------------------------| | | 汗,影響睡眠品質 | | 泌尿生殖萎縮 | 子宮內膜萎縮(停經後出血最常見原因)、陰道乾澀、性交 | | | 疼痛、性功能障礙、頻尿、急尿和子宮內膜萎縮 | | 精神症狀 | 情緒不穩定、憂鬱或焦慮、記憶和專注力下降和性慾下降等 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- | 症 狀 | • 最常見的症狀為腹痛和陰道出血,不過,有一半的病人在破裂前未 | | |-----|-----------------------------------------------------------|--| | | 出現任何症狀 | | | | • 若破裂造成持續內出血,可能出現頭暈、失去意識等症狀 | | | 徴 象 | ・陰道內診可能會出現 pelvic tenderness、cervical motion tenderness 和 | | | | adnexal mass 等表現 | | | | · 若破裂造成持續內出血,可能出現 peritoneal sign 和 shock sign | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- ...或持平 | | 破裂診斷 | • 出現下列情形,應懷疑子宮外孕破裂 | | | (1) 骨盆腔/腹腔大量積液(會造成廣泛性腹部劇痛,甚至出現肩膀痛 | | | (2) 血紅素下降 | | | (3) 生命徵象不穩定 ( 心跳加快、血壓降低、意識不清 ) | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (C) 4. 一位 28 歲已婚女性病人,性生活正常,有左側輸卵管發炎的病史,平常月經相當不規則,有時候兩至三個月才來一次,上次月經來已經是九週前的事了。此病人從昨天早上開始,下腹疼痛合併陰道有少許出血,另外還有冒冷汗、頭暈、心悸的症狀,故來求診。到達急診時意識清楚,臉色蒼白,無外傷。生命徵象如下:呼吸 22 次 / min、心跳 102 次 / min、體溫 36.8℃、血壓 120/63 mmHg。觸診發現右下腹部僵硬(rigidity)有反彈痛(rebounding pain)。下列處置何者最不恰當? Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (B) 6.33 歲女性,G1P0,目前懷孕30週,因突發性大量陰道水樣液體 流出及腹部疼痛至產房檢查。孕婦意識清醒,血壓 130/80 mmHg, 耳溫 37℃,胎心音每分鐘 130下,超音波檢查發現羊水指數 (AFI: amniotic fluid index)為2,無前置胎盤,最可能的診斷為: Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ※註 2:由於 oxytocin 的構造與 vasopressin(ADH)相似,會和腎臟 vasopressin receptor 交互作用,造成水分滯留和稀釋性低血鈉,即是所謂的水中毒。當高劑量催產素(40 mU/min)合併大量的低滲透靜脈輸液( $\geq$ 3 L)持續( $\geq$ 7 hrs)給予,便容易產生。低血鈉的症狀包括:頭痛、噁心嘔吐、腹痛、疲倦、意識不清、癲癇大發作和神經學損傷。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- (A,B) 3. 一位 25 歲懷孕 22 週婦女,被家人發現意識改變,送至急診時, 已無呼吸、無脈搏,下列敘述及處置,何者錯誤? Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 
 ## Clinical Caveats
 

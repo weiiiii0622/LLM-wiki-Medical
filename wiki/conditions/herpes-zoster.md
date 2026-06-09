@@ -13,6 +13,7 @@ sources:
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch04]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch09]]"
 aliases:
   - 'Herpes zoster (帶狀皰疹)'
   - 'Herpes zoster'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 postherpetic neuralgia。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ VZV 再活化沿皮節產生疼痛性群聚水泡，可有眼帶狀皰疹與 pos
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch04]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch09]]
 
 ## Key Details From Sources
 
+- 2. 帶狀皰疹後疼痛 (Postherpetic neuralgia, PHN): - (1) 定義: - a. Herpes zoster 感染,傷口癒合後,疼痛仍持續大於三個月,可稱為 PHN。 - b. 好發於老年人與免疫力低下者,治療方面也相當棘手。 - (2) 治療: - a. 感染急性期給予Antiviral drugs,但給予抗病毒的藥物並不能預防PHN的產生。 - b. 三環抗憂鬱劑 (tricyclic antidepressant drugs): amitriptyline、nortriptyline、desipramine。 - c. 抗癲癇用藥(an Source: [[sources/med6-book4-ch09|壬、疼 痛]].
 - (2) 每段脊髓都支配某片皮膚區域的感覺,稱為皮節 (dermatome),皮節可以透過 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 4. 絲狀物 (filaments): 小逗點狀的黏液附著在上皮上,一端黏在角膜上皮、另一則 未附著。常出現在乾眼、角膜暴露、上輪部角結膜炎、帶狀疱疹眼炎等。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - #### 帶狀疱疹性眼炎(Herpes zoster ophthalmicus) Source: [[sources/med6-book2-ch05|戊、角 膜]].

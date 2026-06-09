@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch02]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Trimethoprim-sulfamethoxazole, TMP-SMX (複方新諾明)'
   - 'Trimethoprim-sulfamethoxazole, TMP-SMX'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-葉酸代謝抑制組合，用於 PJP、UTI、Nocardia、部分 MRSA 等。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+葉酸代謝抑制組合，用於 PJP、UTI、Nocardia、部分 MRSA 等。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med4-book1-ch02]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- a. 急性中耳炎以口服 Amoxicillin 為首選藥物,治療約 10 至 14 天。若對於 Penicillin 過敏的病人,可考慮給予 Macrolide 類的藥物如 Clarithromycin、 Azithromycin 或 Trimethoprim-sulphamethoxazole。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - ...Neisseria gonorrhoeae | Ciprofloxacin plus doxycycline | Ceftriaxone | | Gram-negative rods | | | | Escherichia coli | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin | | Enterobacter spp. | TMP-SMX, ciprofloxacin, nitrofurantoin | Gentamicin plus piperacillin | | Gardnerella vaginalis | Metronidazole, ampicillin | Metronidazole | | Klebsie Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - TMP-SMX, trimethoprim plus sulfamethoxazole. Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - ...-----------|----------------|-----------------------------------|-------------------------| | Cystitis | E. coli | 1ST: TMP-SMX | 1~3 days | | | Klebsiella | 2nd: Fluoroquinolone | | | Pyelonephritis | E. coli | 1st: Fluoroquinolone | 7~10 days | | | Proteus | 2nd: 2nd generation cephalosporin | | | | Klebsiella | 3rd: Aminopenicillin/BLI | | | Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -64,7 +67,6 @@ tags:
 - (2) Sulfamethoxazole 長得像 PABA,會和 PABA 競爭 Dihydropteroate synthase,而減少雙氫葉酸(Dihydrofolic acid)合成;常會再加上 Trimethoprim,其可藉著抑制雙氫葉酸還原酶(Dihydrofolate reductase),減少四氫葉酸(Tetrahydrofolic acid)製造;四氫葉酸是嘌呤生成的輔酶,所以藉此抑制 DNA 的複製。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 - Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 - ...seaseACEI · ARB · Heparin · Ketoconazole | | | Aldosterone 正常(Resistent to aldosterone) | | 保鉀利尿劑 (Spironolactone)、抗生素 (Trimethoprim)、免疫抑制劑 (Calcineurin inh.) | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- 1. Cystitis: TMP-SMX (Baktar\*) Quinolone \* 3 天 (uncomplicated) /10~14 天 (Complicated) Source: [[sources/med3-book3-ch12|丁、泌尿道感染]].
 
 ## Clinical Caveats
 

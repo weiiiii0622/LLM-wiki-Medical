@@ -25,6 +25,7 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book4-ch02]]"
 aliases:
   - 'Essential thrombocythemia, ET (原發性血小板增多症)'
   - 'Essential thrombocythemia, ET'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-血小板為主的 MPN，可有血栓或出血風險。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血小板為主的 MPN，可有血栓或出血風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,13 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book4-ch02]]
 
 ## Key Details From Sources
 
+- 3. 首先先確定 ET tube 的 cuff 是否能確實打飽不漏氣。 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- 4. 調整 ET tube 的 stylet 至自己習慣的彎曲度。 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- 13. 確定看到聲帶之後,用右手拿 ET tube 慢慢送入氣管中(送入 tube 時,盡量避免太 用力,以免導致黏膜刮傷或者是喉部痙攣)。 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
 - 【詳解】根據研究統計,緊急剖腹產併子宮全切除產生併發症機率高達 26.5~31.5%,常見的併發症包括輸血(46%)、發燒(11%)、傷口問題(10%)、膀胱損傷(9%)、再次手術(4%)、靜脈血管栓塞(1%)和腸損傷(, Wright et al. Obstet Gynecol. 2010. Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - 【詳解】新生兒呼吸窘迫之發生率和胎兒出生週數成反比,愈早產,愈容易發生。另外,有文獻(Anadkat et al. J Perinatol 2012)指出,男嬰和白種人發生率較高。而產前使用類固醇可明顯降低新生兒呼吸窘迫之發生及嚴重性,故選(B)。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - 1. Mol F, Mol BW, Ankum WM, et al: Current evidence on surgery, systemic methotrexate and expectant management in the treatment of tubal ectopic pregnancy: A systematic review and meta-analysis. *Hum Reprod Update* 2008; 14(4): 309-19. Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -82,9 +87,6 @@ tags:
 - Lama A, Ferreiro L, Toubes ME, et al: Characteristics of patients with pseudochylothorax-a systematic review. *J Thorac Dis* 2016;8(8):2093-101. Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 【詳解】(D) 尚未有明確的手術時間,依據不同的型態,手術時間落在 4 個月大至 1 歲大時接受矯正手術。Ref: Townsend CM, Beauchamp RD, Evers BM, et al.: *Sabiston textbook of surgery: The biological basis of modern surgical practice*, 21st ed. Amsterdam: Elsevier. 2021. Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 - E. Behçet's disease 74 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- # E. Behçet's disease Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 1. Behçet's disease 是一種病因尚不完全清楚的全身性血管炎疾病,於 1937 年由土耳 其醫師 Hulusi Behçet 正式描述該病例。男女發病比約為 1:1,發病年齡約在 30 歲 上下。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (C) 貝塞特氏症 (Behçet's disease) Source: [[sources/med4-book2-ch06|己、藥物疹]].
 
 ## Clinical Caveats
 

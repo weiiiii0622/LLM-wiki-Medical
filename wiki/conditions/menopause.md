@@ -12,6 +12,7 @@ sources:
   - "[[sources/med6-book1-ch06]]"
   - "[[sources/med6-book1-ch18]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Menopause (更年期／停經)'
   - 'Menopause'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-卵巢濾泡耗竭造成月經永久停止與 estrogen 下降，可有熱潮紅、泌尿生殖症候群與骨質流失。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+卵巢濾泡耗竭造成月經永久停止與 estrogen 下降，可有熱潮紅、泌尿生殖症候群與骨質流失。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med6-book1-ch06]]
 - [[sources/med6-book1-ch18]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 2. 原因:溫度的改變、酒精、菸、壓力、焦慮等不明因素的刺激;懷孕、停經或甲狀腺低下等改變內分泌平衡的因素;服用影響副交感神經興奮的藥物。必須排除過敏性鼻炎。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - (a) 約有五成於脊髓損傷後沒有月經,此情形大多在六個月到一年後會恢復, 且受孕能力只要月經恢復後即與正常人無異。脊髓損傷的女性其停經時 間與正常人相同。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - F. 更年期及荷爾蒙治療 (Menopause and menopausal hormone therapy) 343 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (2) 平均月經週期為 28±7 天,黃體期固定 14 天,變動的是濾泡期。在初經來的 5~7 年及停經前的 10 年因下視斤-腦垂體-卵巢軸線功能不穩,月經週期變動較大。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].

@@ -44,6 +44,7 @@ sources:
   - "[[sources/med6-book3-ch06]]"
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Encephalitis (腦炎)'
   - 'Encephalitis'
@@ -58,7 +59,7 @@ tags:
 
 ## Summary
 
-腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦實質發炎，常有意識改變、癲癇或局部神經學症狀。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +103,11 @@ tags:
 - [[sources/med6-book3-ch06]]
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- ...(C) 使用 Opioids | | | | (D) 使用 Neuromuscular blocking agents | | | (C) 35. | 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 mmHg,應優先選擇下列何者處置? (A)靜脈注射抗組織胺(Antihistamine) (B)靜脈注射類固醇(Steroid) (C)靜脈注射腎上腺素(Epinephrine) (D)吸入性支氣管擴張劑(Bronchodilator) | 100(二)專醫四-78 | | (D) 36. | 心臟冠狀動脈疾病手術麻醉處理的原則,下列何者錯誤? | 99(二)專 | | | (A) 增加收縮壓會增加心臟耗氧量 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - ...糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(spastic, 60%): 最常見,呈現上運動神經元疾病的表徵如肌肉張力高、阻力強且深腱反射強,尤其是在動作表現時更為明顯,當動作速度增快時,張力就會更強。痙攣型依肢體受影響的部更可細分成: - (a) 單肢麻痺型 (monoplegia):四肢中僅其中一肢癱瘓,較罕見。 - (b) 半側麻痺型(hemipleg Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - b. 其他像是子宮內感染(rubella、CMV、toxoplasmosis和syphilis)、產程中缺氧、腦炎或腦膜炎也會造成聽力障礙。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 4. 當負責上述語言功能的區域或途徑受破壞時,會引發不同程度的失語症,造成失語症常見的原因如下: - (1) 大腦血管病變:即腦中風,如血栓、栓塞、腦出血及動脈破裂。 - (2) 腦外傷:有穿入性外傷及非穿入性外傷。 - (3) 腦瘤。 - (4) 腦組織炎症 (encephalitis)。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
@@ -122,7 +125,6 @@ tags:
 - 【詳解】(D) 尿失禁、步態不穩和失智症為正常壓力水腦症的症狀,因頭部外傷造成的急性水腦症的症狀以 IICP sign 或意識改變為主。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
 - 1. 腦震盪 (concussion):頭骨和腦沒有受傷,僅有意識改變,例如:意識不清、失去 意識、記憶缺失 (amnesia)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - (2) 50% 急性水腦症及意識改變的病患會自行恢復。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- | 感染位置 | 名稱 | |-------|-------------------| | 腦膜 | 腦膜炎 (Meningitis) | | 腦實質 | 腦炎 (Encephalitis) | | 運動神經元 | Poliomyelitis | Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 
 ## Clinical Caveats
 

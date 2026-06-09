@@ -16,6 +16,7 @@ sources:
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'ANCA-associated vasculitis (ANCA 相關血管炎)'
   - 'ANCA-associated vasculitis'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,12 @@ pauci-immune RPGN 重要病因，可合併肺部侵犯。 本頁已整合至 `�
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 1. 鼻部黏膜有發炎的情形,可以分為發炎性與非發炎性。 - (1) 發炎性:氣喘、過敏、感染、sarcoidosis、Wegener's granulomatosis、化學性物質刺激。 - (2) 非發炎性: rhinitis medicamentosa (由於過度使用局部的鼻內血管收縮劑造成的 rebound 反應)、賀爾蒙 (譬如懷孕、甲狀腺機能亢進)。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (2) 病因:急性鼻竇炎治療不當、過敏性黴菌性鼻竇炎、自體免疫性疾病、有其他 齒科疾病、慢性發炎性疾病(如: Wegener's)。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...eal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (Wegener's granulo-matosis),結節多發性動脈炎 (polyarteritis nodosa), SLE 等。其中以 Wegener 氏肉芽腫的進展最快速難治。 - c. 治療:抑制免疫反應,改善角膜上皮缺損以及間質發炎與壞死;病況嚴重時 甚至需要進行角膜移植手術。 - (2) 周邊角膜變薄 (peripheral corneal thinning): 周邊角膜基質變薄而上皮層仍完整,使中央角膜看起來 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - ...ation(來自細菌性心內膜炎的瓣膜)、血栓(由於心肌梗塞後合併 AF 所產生)。 - (4) 巨細胞動脈炎 (giant cell arteritis) - (5) 動脈外膜炎:與皮肌炎、SLE、polyarteritis nodosa、Wegener 氏肉芽腫等疾病相關的動脈外膜炎偶爾會造視網膜分支動脈阳塞。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].

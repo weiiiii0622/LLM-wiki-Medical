@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book2-ch16]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Infective endocarditis (感染性心內膜炎)'
   - 'Infective endocarditis'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-菌血症造成心內膜或瓣膜感染，診斷依血液培養、心超與 Duke criteria。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+菌血症造成心內膜或瓣膜感染，診斷依血液培養、心超與 Duke criteria。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book2-ch16]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- d. 感染性心內膜炎或三尖瓣或肺動脈瓣上有贅生物(vegetation)時。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - ...(systemic vascular resistance),會造成右側到左側的分流(right to left shunt),即 Eisenmenger 症候群,此時母親的死亡率會高達 30~50% - (D) 沒有修補的心室中膈缺損會有感染性心內膜炎(infective endocariditis)的風險,在懷疑有菌血症時,建議給預防性抗生素 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - C. 感染性心內膜炎 (Infective endocarditis) 72 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - ...,壓力逆著血流方向回傳,導致肺靜脈壓 上升甚至肺動脈高壓。而右心室為了抵抗肺動脈高壓而造成右心室肥大,最後 影響下來轉變成三尖瓣逆流,使得右心房擴張,以及右心衰竭。 - (4) 病因:風濕熱(rheumatic fever)為主要原因,以及感染性心內膜炎,使瓣膜及腱索(chordae tendineae)的發炎後纖維化而產生攣縮、瓣膜粘連,使瓣膜打開時呈漏斗狀,造成 MS。(瓣膜本身非因風濕熱而被感染。而是身體產生抗體對抗感染而和瓣膜交互作用發炎,最後導致結疤。) - (5) 症狀:此病變緩慢,風溼熱痊癒初期也都不太有症狀,通常至少十年過後才開始有症狀出現,會有疲倦、運動後呼吸困難、胸痛、心律不整,而後加重出現肺水腫及右心衰竭的症狀,如全身性靜脈鬱血、水腫、肝硬化、端坐呼吸、咳血等。另 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -78,7 +81,6 @@ tags:
 - 5. 心肺:常見肋膜炎(Pleuritis)、心包膜炎(Pericarditis)、Libman-Sacks endocarditis(與疾病罹病時間、活性、APS 相關,最常見於 MV)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (C) 16. 一位 45 歲男性,於二年前發現有大腸癌,為 Duke B1 期,接受手術 切除,病理診斷為腺癌,今年例行檢查時發現右上肺葉有一個 2×2 公分轉移病灶,病理切片亦為腺癌,經正子掃描並未發現其他地方轉移,該病患之處置,下列何者最為適當? Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
 - 5.4週:急性前列腺炎、感染性心內膜炎。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...cter pylori-associated peptic ulcer, neurosyphilis (penicillin IV), | | | penicillin-susceptible viridans streptococcal endocarditis (penicillin plus | | | aminoglycoside), disseminated gonococcal infection with arthritis, acute pyelonephritis, | | | uncomplicated S. aureus catheter-associated bacteremia | | 3 weeks | Lyme disease, septic arthritis ( Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

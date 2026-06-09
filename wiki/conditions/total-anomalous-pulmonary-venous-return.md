@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Total anomalous pulmonary venous return, TAPVR (全肺靜脈回流異常)'
   - 'Total anomalous pulmonary venous return, TAPVR'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-肺靜脈不接入左心房而接入體靜脈系統，可因回流阻塞造成嚴重發紺與肺水腫。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺靜脈不接入左心房而接入體靜脈系統，可因回流阻塞造成嚴重發紺與肺水腫。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- Pulmonary venous obstruction Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - 4. 全肺靜脈回流異常(total anomalous pulmonary venous return, TAPVR): - (1) 四條肺靜脈正常應回到左心,但要是肺靜脈全接到上、下腔靜脈或右心房,則稱為全肺靜脈回流異常。通常合併 ASD,充氧血才有機會回到左側心臟。 - (2) X 光下可見 Snowman heart,是由於右心接受太多血流,所以變大,像雪人頭疊在心室上。(見下圖) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 2. 肺靜脈回流完全異常 Total Anomalous Pulmonary Venous Return (TAPVR): 所有的肺靜脈都沒有回到左心房,常見跑到 IVC 或其他地方去了。這不是左右心近端出口的疾病,這是 左心房沒接上肺靜脈的疾病。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (C) 18. 肺靜脈回流完全異常(total anomalous pulmonary venous return) 103( ) 專的病人,雖有不同程度的缺氧狀態(desaturated),一般皆可以 醫五-22 採用選擇性(elective)手術方式來處理,但有下列何種情況,則必須以緊急性(emergent)手術方式處理? - (A) 有混合型的回流路徑者 - (B) 心上型(supracardiac type) 肺靜脈回流完全異常 - (C) 不論那一型,只要回流路徑有阻塞(obstructed)者 - (D) 心內型(intracardiac type) 肺靜脈回流完全異常,但不流入 冠狀竇(coronary sinus) 而是直接注入右心房者 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

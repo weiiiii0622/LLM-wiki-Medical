@@ -27,6 +27,7 @@ sources:
   - "[[sources/med6-book2-ch18]]"
   - "[[sources/med6-book2-ch17]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Nitrates (硝酸鹽類)'
   - 'Nitrates'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,11 @@ tags:
 - [[sources/med6-book2-ch18]]
 - [[sources/med6-book2-ch17]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...。 - b. 塞入浸有 4% lidocaine 的棉花,適時使用局部的鼻黏膜血管收縮劑(Ex. Otrivin)止血,並把多餘的血水或血塊清除。 - (2) Second line: - a. 若第一線的方式失敗,可以使用 silver nitrate,達到燒灼、腐蝕的效果 (chemical cauterization)。 - b. 局部的 cauterization 請勿同時使用於鼻中膈的兩側,因為可能會造成鼻中膈 缺血導致穿孔。 - c. 若仍無法止血,必須懷疑是否有凝血功能異常的問題,若有需矯正。 - (3) 當以上所述方式無法止血時,可以以下的方式處理。 - a. 鼻中膈的前部出血:使用凡士林紗布或 Merocel 從鼻底部往上塞到頂部並且 延伸到後鼻孔的部位(anteri Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - e. 處置: - (a) 將病人搖高坐起,扒光衣服去除所有可能刺激。 - (b) 找出並解決刺激的來源,最常見為小便和大便的問題。有 foley 的評估看是否堵塞,沒有 foley 的 on 上 foley,置放尿管過程中要使用具麻醉效果的潤滑劑;做 digital 看看是否大便塞住,過程中時一樣要使用具麻醉效果的潤滑劑。 - (c) 口服 CCB 或 Nitrate 等速效降血壓藥,如效果不好則改用 IV pump。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (4) 急性動脈阻塞的治療:因視網膜對缺氧 極為敏感,若完全阻塞超過90分鐘,光 感受器的死亡即無法恢復。緊急處理包 含:平躺、眼球按摩、舌下含服硝酸甘油 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - (NTG)、吸氧吸入(95% 氧和 5% 二氧化碳)、靜脈注射降眼壓藥物(Diamox 或 mannitol)、前房穿刺術等,不過效果均不佳。\*可記憶為 "MONA": M 是 眼球按摩(ocular massage)和 mannitol,O 是氧氣,N 是 NTG,A 是前房穿刺 (anterior chamber paracentesis)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -88,7 +91,6 @@ tags:
 - ...塞,已造成心肌壞死 | Enzyme (+) | | | | (僅心內膜 Subendocardial) | EKG: ST Depression, TWI | | | | 管腔完全堵塞一段時間 | Pain not relieve by NTG (>30min) | | | STEMI | 造成心肌壞死(全層心肌 | Enzyme (+) | | | | 皆受影響 Transmural) | EKG: ST elevation | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - (1) 內科治療分兩大類: (Ref. NEJM 2005; 352: 2524) - a. 減緩心絞痛 (Anti-anginal): 無法證實這些藥物改善 Stable angina 病患預後 - (a) Nitrate:擴張冠狀動脈、全身靜脈,減緩心絞痛。 - (b) $\beta$ blocker:降血壓、心跳、減少心臟做功,減緩心絞痛;常併用 Nitrate + $\beta$ blocker 兩種藥物。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 - d. LV Inferior wall (II, III, aVF)由 RCA (較常見)、LCX (較少見)支配, - (a) 須進一步觀察 STE 在 lead II 或 lead III 較多,左邊的 lead II 較多或側壁有 STE→ LCX 阻塞;右邊 lead III 的 STE 較多→ RCA 阻塞。 - (b) 下壁梗塞一律加做 Right heart (V4R), 檢查是否是 RCA 近端阻塞, 導致右心及下壁梗塞, 下壁梗塞約有 30% 會合併右心梗塞; 且若有右心梗塞, 治療和左心梗塞不同, 右心梗塞不可用 Nitrate, 且需 Hydration。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (2) 心臟衰竭藥物: - a. β blocker 可減少心臟收縮力而減緩症狀。 - b. Non-DHP CCB 可增加心室舒張時的填充,而減緩症狀。DHP-CCB 則需避免。 - c. Diuretics 在有體液過多時可適當使用,需小心過度脫水會惡化左心室出口阻塞。 - d. Nitrate 及 Vasodilator 需避免,以免增加左心室出口壓力差,惡化症狀。 - e. Digoxin 是相對禁忌的藥物,因為其強心功能,導致左心室出口阻塞更嚴重。 (HCM 病患心臟收縮功能正常~過強) Source: [[sources/med3-book1-ch07|庚、心肌症]].
 
 ## Clinical Caveats
 

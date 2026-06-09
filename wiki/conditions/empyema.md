@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Empyema (膿胸)'
   - 'Empyema'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-肋膜腔感染積膿，常需引流與抗生素。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肋膜腔感染積膿，常需引流與抗生素。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- (3) 易伴隨其他致死性的併發症,包括: - a. 呼吸道阻塞。 - b. 肺炎。 - c. 下行性縱膈炎 (descending mediastinitis)。 - d. 膿胸 (thoracic empyema)。 - e. 心包炎 (pericarditis)。 - f. 多重器官衰竭。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - B. 膿胸(Empyema thoracis) 15 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...● Bacterial/ | Abdominal/ | Pulmonary | | • Meigs' syndrome | parapneumonic | Gastrointestinal | embolism with | | | ● Empyema | Disease Related | infarction | | | ● Tuberculosis | Esophageal | Asbestosis related | | | ● Fungal | perforation | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreati Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -64,7 +67,6 @@ tags:
 - | | 肺膿瘍 (Lung abscess) | 膿胸 (Empyema) | |-------------------|------------------------------------|-------------------------------------------| | 定義→治療 | 肺組織侷限性發炎→抗生素治療 | 肋膜腔感染→「引流」及抗生素 | | ida alla met il D | 圓形 (Spherical) | 半月形 (Lenticular) | | Source: [[sources/med3-book1-ch21|戊、感 染]].
 - | Exudate | Malignancy, TB, Empyema | 繼續以下列方法鑑別診斷 | |------------|------------------------------------|-------------| | Transudate | CHF, Cirrhosis, Nephrotic syndrome | 依照前述疾病治療 | Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 - ...------------------|---------------------------------------------------|--| | 有 | | WBC >50 K+ neutrophilia | Infection, empyema | | | | NIDO -5 IZ | Lymphocytosis (>85%) | TB, lymphoma, sarcoid, pseudoexudates | | | 核 | WBC 100/) | Pneumothorax, Hemothorax, Fungal, parasitic inf., | | | 細 | | Eosinophilia (>10%) | Meds, Malignancy, Benign asbest Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
-- c. 治療:抽些胸水時看到 grossly pus appearance,需懷疑 Empyema,直接改放入 chest tube 引流,這是對 Empyema 必須的治療。 Source: [[sources/med3-book1-ch23|癸、肋膜疾病]].
 
 ## Clinical Caveats
 

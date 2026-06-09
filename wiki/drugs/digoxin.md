@@ -2,7 +2,7 @@
 type: drug
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch01]]"
   - "[[sources/med3-book1-ch07]]"
@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Digoxin (毛地黃)'
   - 'Digoxin'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- (2) 毛地黃及抗心律不整的藥物:建議持續服用。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - c. atrial fibrillation可給予Digoxin控制 ventricular rate,以及anticoagulant避免栓塞。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (4) 處置: - a. 藥物治療:預防性抗生素(心內膜炎)、vasodilator、diuretics、digitalis。 - b. 手術 indication: - (a) 有出現臨床症狀。 - (b) 無症狀但 EF 55 mmHg 或是左心室舒張末期寬度(LV end-diastolic dimension, LVEDD)> 70 mmHg。 - (d) AR 合併有其他疾病,如冠狀動脈心臟病、主動脈疾病或其他瓣膜疾病, 在手術時需同時修正 AR。 - c. 手術方法同樣為 valve replacement(SAVR 為主,TAVR 目前不適用於 AR 患者)、surgical repair 和 Ross procedure。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - a. 可用 Digoxin、利尿劑、血管擴張劑等來控制心衰竭,一般追蹤到一至兩歲 左右假使 VSD 自然閉合的機率不大則來決定是否開刀。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
@@ -64,7 +67,6 @@ tags:
 - ....110.9 seems wint | EKG: pseudo-Q wave | | | 治療 | 同一般 CHF 治療 | β B, CCB, Disopyramide | 治 underlying disease | | | | 禁用 Digoxin、Diuretic、Vasodilator | | | | | (Diuretic: Washington 說可用,可以 | | | | | 有改善 pulmonary congestion 效果,但 | | | | * | severe LVOT obstruction 使用要小心) | | Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - (2) 心臟衰竭藥物: - a. β blocker 可減少心臟收縮力而減緩症狀。 - b. Non-DHP CCB 可增加心室舒張時的填充,而減緩症狀。DHP-CCB 則需避免。 - c. Diuretics 在有體液過多時可適當使用,需小心過度脫水會惡化左心室出口阻塞。 - d. Nitrate 及 Vasodilator 需避免,以免增加左心室出口壓力差,惡化症狀。 - e. Digoxin 是相對禁忌的藥物,因為其強心功能,導致左心室出口阻塞更嚴重。 (HCM 病患心臟收縮功能正常~過強) Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - 3. 治療:治療之後造成浸潤的原因,Steroid for sarcoidosis、去鐵劑 for Hemochromatosis等。 Amyloidosis RCM 需避免 Digoxin,Digoxin 較易於這類病患發生毒性。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- ...、 | β blocker(僅含 Carvedilol, | D: .: D: .: | > 0+4.10.1-b | | 藥物 | ACEI (if HTN) | Bisoprolol, Metoprolol) | Diuretics, Digoxin | 心臟移植 | Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
 
 ## Clinical Caveats
 

@@ -7,6 +7,7 @@ sources:
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch05]]"
 aliases:
   - 'Miotics (縮瞳劑)'
   - 'Miotics'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-縮瞳使虹膜拉離隅角並促進 trabecular outflow，可用於特定 angle-closure 或 glaucoma 情境。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+縮瞳使虹膜拉離隅角並促進 trabecular outflow，可用於特定 angle-closure 或 glaucoma 情境。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch05]]
 
 ## Key Details From Sources
 
+- (4) 瞳孔:縮瞳 (Miosis)。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
 - iii. 藥物: cholinergic agonist (如 Urecholine®)。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (2) 葡萄膜鞏膜途徑(uveoscleral route): 只有約 10% 房水引流走此途徑。房水 經由睫狀體表面進到脈絡膜上空間,然 後被睫狀體、脈絡膜、鞏膜的靜脈循環 所引流。此兩途徑可因使用不同藥物而 改變引流量: - a. 使用縮瞳劑:減少引流。 - b. 使用 atropine、sympathomimetics、 Prostaglandin analogs 等:引流增加。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - (5) 處理:手術治療為主,藥水治療為輔。但緊急處理時可先給 acetazolamide(降 眼壓),或局部給 2%pilocarpine(縮瞳,使隅角張開)以及止痛和止吐劑,病人須仰躺一小時,若眼壓仍無降低可口服給予 glycerol 或 IV 20% mannitol(但 須小心病人有糖尿病),最後實施虹膜造孔術。 Source: [[sources/med6-book2-ch11|癸、青光眼]].

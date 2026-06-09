@@ -55,6 +55,12 @@ sources:
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch08]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Coagulation tests, PT/aPTT (凝血檢查)'
   - 'Coagulation tests, PT/aPTT'
@@ -69,7 +75,7 @@ tags:
 
 ## Summary
 
-PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondary hemostasis 異常。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondary hemostasis 異常。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -124,9 +130,24 @@ PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondar
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch08]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 2. 系統性 (Systemic) 原因: - (1) 凝血異常(Coagulopathy):使用 anticoagulant、NSAID,或是血友病、肝臟衰竭、尿毒症。 - (2) 其他:高血壓、粥狀動脈硬化、SLE、Wegner's granuloma。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 1. CBC, 若有需要可安排 PT/PTT、X-ray、CT、內視鏡檢查等。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- ...nitrate,達到燒灼、腐蝕的效果 (chemical cauterization)。 - b. 局部的 cauterization 請勿同時使用於鼻中膈的兩側,因為可能會造成鼻中膈 缺血導致穿孔。 - c. 若仍無法止血,必須懷疑是否有凝血功能異常的問題,若有需矯正。 - (3) 當以上所述方式無法止血時,可以以下的方式處理。 - a. 鼻中膈的前部出血:使用凡士林紗布或 Merocel 從鼻底部往上塞到頂部並且 延伸到後鼻孔的部位(anterior packing),兩到三天後再取出以達治療效果。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- ...節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併心衰竭的孕婦 | 7.8~23% | Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 2. 術前胸部 X 光、心電圖、抽血檢查(凝血功能、血紅素)、肺功能評估。依據不同的病患可能需要不同的術前檢查。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- (4) 體溫監測 (body temperature)。 - a. 監測體溫的目的,第一個是及早發現惡性高熱,第二個是要防止低體溫的產生,低體溫會增加心肌梗塞機率、傷口感染機率、凝血功能異常、增加輸血需求量…等不好的結果。 - b. 中心體溫 (core temperature): 為身體血流最豐富的地方,常見的 core temperature 測量位置有: 肺動脈 (pulmonary artery)、遠端食道 (distal esophagus)、鼓膜 (tympanic membrane)、或鼻咽部 (nasopharynx)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- ...al delivery)。 - e. T6-T7 (xiphoid):下腹部手術、闌尾切除 (appendectomy)。 - f. T4 (nipple): 上腹部手術、剖腹產 (C-section)。 - (4) 禁忌症:病患無法配合、凝血功能異常、局部有感染現象、IICP。 - (5) 副作用:Postdural puncture headache (PDPH)。 - a. 原因:脊髓硬腦膜(dura)遭受穿刺後若沒有癒合的很好造成 CSF 持續滲漏,會使病人發生低壓性的頭痛(low pressure headache)和噁心的現象,通常在接受麻醉後的 1~2 天發生,坐起來會加劇、平躺的話症狀會緩解。好發於年輕、懷孕者。與穿刺針的大小、針面形狀和多次的穿刺相關。 - Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
+- 2. 血清 CK 增高, 電解質不平衡, 酸中毒, 凝血異常等。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- d. 其他方面如血管痙攣、凝血功能異常等。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - (8) 遺傳性血栓性疾病:多發生在年輕人,如凝血因子 VII 及 XI 增加或抗凝血劑 antithrombin、protein S、protein C 缺乏。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...50% 病患在三個月內發生虹彩新生血管(rubeosis iridis)及新生血管性青光眼(neovascular glaucoma)→以 PRP 預防。 - e. 治療: - (a) 若眼壓有升高時,給予降眼壓藥物。 - (b) 口服抗凝血或促進血液循環藥物。 - (c) 以全網膜雷射(PRP)預防新生血管性青光眼。 - (d) 眼內玻璃體內注射長效型類固醇,利用其抗發炎效果來減少黃斑部水腫。 但是部分患者在注射後會有眼壓升高或導致白內障的情形。 - (e) 玻璃體內注射抗血管內皮生長因子(如 Avastin),在控制黃斑部水腫及 滲漏也有不錯的療效,其效果可持續數月之久,但是缺點是可能需重複 注射。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...a | ・ 會陰 / 陰道 / 子宮頸撕裂傷 | 巨嬰 | 20% | | Tissue | · 胎盤滯留或植入性胎盤 | 剖腹產史、D&C、子宮鏡手術、年 | 10% | | | | 紀大、產次高 | | | Thrombin | ・母親凝血功能異常 | 先天性:von Willebrand disease | 1% | | | | 後天性:severe preeclampsia、 | | | | | HELLP syndrome \placenta abruptio \ | | | | | IUFD · sepsis | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -136,15 +157,6 @@ PT/aPTT/INR 與 platelet/bleeding time pattern 協助區分 primary 與 secondar
 - 【詳解】懷孕狀態會使得凝血及抗凝血途徑皆受影響,不過, 淨效應是傾向凝血功能增加。就凝血因子來看,factor II、VII、 VIII、X、XII 和 XIII 會增加 20~200%; factor V、IX 亦會些許 增加。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - ...生長 | | | | 骨骼 | estrogen 可留住鈣質、對抗骨質疏鬆,並且在青春期促進長高和長骨生長 | | | | | 板關閉 | | | | 心血管 | estrogen 和 progesterone 對血管內皮細胞、脂質代謝和凝血因子都有不同的 | | | | | 作用 | | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...養等 | | 血栓因素(rare) | · inheritedthrombophilia | Factor V、prothrombin (西方人)Protein S/C、Anti-thrombin III (東方人) | · 於懷孕時給予抗凝血藥物治療 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- (B) preeclampsia 會增加腦出血(cerebral hemorrhage)、肺水腫(pulmonary edema)及凝血功能異常(coagulopathy)的危險。當收縮壓高於 160 mmHg 時就應積極控制血壓預防腦出血 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- (3) 治療:LMWHs,接著使用 warfarin;瀰漫性肺栓塞可考慮血栓溶解治療,但伴隨有出血的風險;無法使用抗凝血治療,可以使用下降靜脈 filter。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (B) 冰敷,並且給予抗凝血劑,以免血管阻塞 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 【詳解】有心房震顫、右小腿腫脹且有 pulse 及 Homans' sign, 皆為深部靜脈之栓塞症的表現。下肢骨骨折流血量相對較多,也 較容易形成血栓,在術後常會給予一些抗凝血藥物預防血栓發生。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (3) 原因: pronator teres (PT), flexor carpi radialis (FCR) 的 tendinosis。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- (A) 安排全血球計數(CBC), 凝血時間(clotting time) 及其它 檢查以排除血液疾病 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- ...g growth factor-alph) 造成。 - (iii)肝功能異常:15%,又稱 Stauffer's syndrome,包括 ALP (alkaline phosphatase)及膽紅素 (bilirubin)上昇、白蛋白下降、凝血酶原時間 (PPT)延長,通常也伴隨發燒、疲倦、體重減輕。這些是因腫瘤分泌刺激因子(粒細胞—巨噬細胞群刺激因子 GMCSF = granulocyte-macrophage colony stimulating factor)造成,切除病灶後可回復。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ii. 根除性膀胱切除(radical cystectomy): 切除所有前骨盆腔器官。對 侵犯肌肉層(T2)的膀胱癌是黃金標準(gold standard)治療,另外 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術。注意此手術為大手術,故術前需停止服用抗凝血劑一週。且由於手術時間長,故腿部深層靜脈血栓可能於術後發生,手術的死亡率約為 2%。 - (i) 移除所有前骨盆腔器官。 - ①男性:移除膀胱及周圍脂肪、前列腺、儲精囊。 - ②女性:移除膀胱及周圍脂肪、卵巢、子宮、子宮頸、陰道上三分之一、尿道。(注意:骨盆淋巴結摘除與否,對預後無助益。) - (ii) 術後復發:復發率 10%,通常在三年內發生。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- ...液(pH 2 cm: 首選經皮腎造口取石術 (PCNL)。但可看結石成分不同而考慮 ESWL。較硬的鹿角結石 (staghorn calculi)選 PCNL。較軟的結石 (尿酸、磷酸銨鎂與雙水草酸鈣),可選擇 ESWL。注意:有出血傾向或凝血功能 不佳者,不宜使用 ESWL 或 PCNL 時,可選擇軟式輸尿管腎臟鏡加上雷 射碎石術。另外若腎臟離體表太遠者不宜用 PCNL,例如過胖。 - b. 輸尿管結石:看石頭大小、有無重度腎水腫決定治療。以 1 cm 當治療方向分界。 - (a) 1 cm: 首選輸尿管鏡取石術。ESWL 也可使用但注意用在密度較鬆散的結石,因為 ESWL 雖可碎石,但結石太硬打碎可能一起卡在輸尿管口。 另外結石在輸尿管上段可選經皮腎造口取石術 (PCNL Source: [[sources/med5-book5-ch05|戊、結 石]].
 
 ## Clinical Caveats
 

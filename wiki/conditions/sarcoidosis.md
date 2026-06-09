@@ -24,6 +24,7 @@ sources:
   - "[[sources/med6-book2-ch07]]"
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Sarcoidosis (類肉瘤病)'
   - 'Sarcoidosis'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+非乾酪性肉芽腫疾病，可侵犯肺與多器官。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ tags:
 - [[sources/med6-book2-ch07]]
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 1. 鼻部黏膜有發炎的情形,可以分為發炎性與非發炎性。 - (1) 發炎性:氣喘、過敏、感染、sarcoidosis、Wegener's granulomatosis、化學性物質刺激。 - (2) 非發炎性: rhinitis medicamentosa (由於過度使用局部的鼻內血管收縮劑造成的 rebound 反應)、賀爾蒙 (譬如懷孕、甲狀腺機能亢進)。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...---------------|----------------------| | ① 前葡萄膜炎:最常見 (90%) | ① 急性葡萄膜炎:快速 | ① 與全身疾病相關:如 | | -虹彩炎 (iritis) | 發生,有限的期間, | 類肉瘤病 (sarcoidosis) | | -虹彩睫狀體炎 (iridocyclitis): | 大約幾周到幾個月內 | ② 感染:細菌或病毒或 | | 虹彩及睫狀體前部 (pars | 會好 | 原蟲 | | plicata) | ② 慢性葡萄膜炎:持續 | ③ 原因不明特殊的葡萄 | | ②中間型葡萄膜炎:睫狀體後部 | 的,在停掉治療後三 | 膜炎:如 Fuchs 氏虹 | | (pars plana)、視網膜周圍及其 | 個月內再復 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - (3) 類肉瘤症(Sarcoidosis):原因不明,多系統侵犯的肉芽腫性發炎疾病。全身系統確診下 50% 有眼部表現,屬全葡萄膜炎類型,眼部表現多以前葡萄膜炎為主,可見角膜內皮羊脂狀沈澱物(mutton-fat KP),虹彩結節,玻璃體前下方可見到snowbank。約 25% 類肉瘤症病人有後葡萄膜炎,造成視網膜靜脈外膜炎(retinal periphlebitis),嚴重時會有蠟燭滴樣滲出物(candlewax drippings),或脈絡膜肉芽腫、視網膜肉芽腫等。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - 2. 類肉瘤病(Sarcoidosis):可侵犯全身各系統的非乾酪性肉芽腫(non-caseating granulomatous)病變,原因至今仍然不明,最常發生在20到40歲的年輕成人身上,可侵犯全身器官,如:週邊淋巴結、肝、脾、腎、眼、中樞神經系統、心臟、骨骼系統等,但大多以雙側肺門淋巴腺腫大、肺浸潤性病變來表現。 - (1) 眼部症狀:葡萄膜炎、局部周邊靜脈炎(focal periphlebitis)、視網膜蠟狀滲出物(candle-wax dripping)、玻璃體混濁、淚腺浸潤等。 - (2) 治療:急性期使用類固醇,對嚴重病例給予免疫抑制劑。若有視網膜新生血管時,可用雷射光凝術治療。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
@@ -82,7 +85,6 @@ tags:
 - ...tumors) | | | | of malignancy | Lytic skeletal metastases (breast, myeloma) | | | | Excessive | Granulomatous diseases (sarcoidosis, tuberculosis, silicosis) | | | | 1,25(OH)2D | Lymphomas | | | | production | Vitamin D intoxication | | | | Primary increase in | Hyperthyroidism | | | | bone resorption | Immobilization | | | | Excessive calcium | Mil Source: [[sources/med3-book3-ch02|乙、離子平衡]].
 - ...β lactams、NSAID、馬兜鈴酸等 - ii. 感染(Infection):急性腎盂腎炎(Acute pyelonephritis, APN) - iii. 浸潤型病變 (Infiltrative): 淋巴瘤 (Lymphoma)、類肉瘤 (Sarcoid) - (c) 特徵: - i. 因 Sulfa drug 過敏造成的 AIN,其血中白血球的 Eosinophil 可能會增加。 - ii. 驗 U/R 的鏡檢可見 WBC cast, 乃因間質發炎而有白血球浸潤,由間質至 腎小管經擠壓變形成為 WBC case。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - ...me, Hashimoto's thyroiditis | | | | Other systemic | Fanconi's syndrome, sickle cell anemia, diabetes, Crohn's disease, sarcoidosis, | | | | dz. | Guillain-Barré syndrome, Weber-Christian disease, angiofollicular lymph node hyperplasia | | | Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- ...--------------| | (A) | 3. 下列那一種腎細胞癌與 von Hippel-Lindau 基因的突變或低表現有關? (A) 透明細胞腎細胞癌 (clear cell renal cell carcinoma) (B) 類肉瘤腎細胞癌 (sarcomatoid renal cell carcinoma) (C) 難染性腎細胞癌 (chromophobe renal cell carcinoma) (D) 乳突狀腎細胞癌 (papillary renal cell carcinoma) | 105(二)專醫三-43 | | (D) | 4. 一位 30 歲原本健康的男性,10 分鐘前還非常清醒,中毒不到10 分鐘即陷入深度昏迷,下列何種中毒,最不可能導致病人在 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 
 ## Clinical Caveats
 

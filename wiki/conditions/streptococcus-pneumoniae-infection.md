@@ -24,6 +24,10 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med6-book2-ch06]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch13]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Streptococcus pneumoniae infection (肺炎鏈球菌感染)'
   - 'Streptococcus pneumoniae infection'
@@ -38,7 +42,7 @@ tags:
 
 ## Summary
 
-可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成肺炎、腦膜炎、中耳炎與菌血症，莢膜是重要毒力因子。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +66,19 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med6-book2-ch06]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch13]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- (1) **S. pneumoniae**: 35% • Source: [[sources/med6-book4-ch11|甲、耳科]].
+- ...與前庭神經炎(vestibular neuritis)最大的差異在於因感染至內耳迷路,導致量眩與聽力喪失。 - c. 在症狀出現之前,通常有中耳炎感染、細菌性腦膜炎的 episode。 - (2) 常見菌種: - a. Bacteria: S. pneumoniae · H. influenzae · M. catarrhalis · P. aeruginosa · P. mirabilis - b. Virus: CMV · measles · mumps · varicella zoster - (3) 臨床症狀: - a. 量眩感。 - b. 噁心嘔吐。 - c. 耳鳴。 - d. 聽力喪失急性發作。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (2) 病因:病毒性或細菌性感染,成人以病毒性感染較常見,小孩以細菌性感染較常見。上額竇為最常感染的部位。必須排除黴菌感染。 - a. 病毒: rhinovirus、influenza、parainfluenza。 - b. 細菌:S. pneumoniae、H. influenzae、M. catarrhalis、anaerobes。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (3) 病原菌: - a. 細菌性:S. pneumoniae、H. influenzae、M. catarrhalis、S. pyogenes、S. aureus、anaerobes。 - b. 黴菌:Aspergillus。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 3. 其他包括: - (1) Staphylococcus aureus • - (2) Streptococcus pneumoniae • - (3) Haemophilus influenzae non-type B • - (4) Haemophilus parainfluenzae • Source: [[sources/med6-book4-ch13|丙、喉 科]].
+- 1. 深頸部感染的致病菌種通常是混合需氧菌與厭氧菌,並且以口腔內菌種為多數。 - (1) Group A beta-hemolytic streptococcal species (Streptococcus pyogenes) • - (2) Alpha-hemolytic streptococcal species (Streptococcus viridans, Streptococcus pneumoniae) · Staphylococcus aureus · - (3) 常見厭氧菌: Bacteroides melaninogenicus、Bacteroides oralis。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - (2) 感染:由角膜潰瘍擴散而來。常見致病菌有綠膿桿菌、Streptococcus pneumoniae、帶狀皰疹病毒等。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - 2. 致病菌:過去常為鏈球菌(Streptococcus)或肺炎球菌(Pneumococcus)肺炎引起,現在葛蘭氏陰性菌(Gram-negative)和厭氧菌(anaerobic)也很常見,近期結核菌膿胸也突然增加。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 急性心內膜炎:病情較惡,病人大多無潛在性心臟病灶,常見致病菌為 S. aureus、Streptococcus pyogenes、Streptococcus pneumoniae、Pseudomonas aeruginosa。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -77,12 +91,6 @@ tags:
 - 3. 併發症: - (1) 感染: - a. 小於五歲的兒童,常見 Streptococcus pneumoniae。 - b. Salmonella 或是 S. aureus 造成的骨髓炎。 - c. 感染 parvovirus B19 與 aplastic crisis 有關。 - (2) 栓塞: - a. 急性胸腔症候群 (acute chest syndrome): 合併 PE 及感染。 - b. 肺高壓 - c. 周邊血管阻塞造成疼痛 - (3) 神經方面疾病: - a. 中風的機率會增加。 - b. 無症狀性腦梗塞 - c. 視網膜病變 Source: [[sources/med4-book1-ch08|辛、血液學]].
 - (C) 肺炎鏈球菌(Streptococcus pneumoniae) Source: [[sources/med4-book1-ch08|辛、血液學]].
 - 【詳解】引起 HUS 常見的病原體有 Shigella (亞洲與非洲)、E.coli O157: H7 (歐洲與美洲)、Neuraminidase-producing Streptococcus pneumoniae。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (D) Streptococcus pneumoniae Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 【詳解】非傷寒沙門氏桿菌感染需要使用抗生素治療的情況如下:3個月以下的嬰幼兒、免疫功能缺陷的病人、臨床上持續高燒或是體溫過低、生命跡象不穩定的病人以及發展為毒性巨結腸症的病人。鐮刀型紅血球疾病(sickle cell disease)病人由於其不正常的紅血球會造成血管梗塞(特別是 splenic infarction),因此病人免疫功能低下,感染的機會大增,特別是 encapsulated bacteria 感染,如 Streptococcus pneumoniae、Haemophilus influenzae type b 以及 Neisseria meningitidis。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...衝撞,導致針頭插入左 95(二)專 膝關節,引發敗血性關節炎(septic arthritis)。就此案例,何種細菌 內 2-1 感染最有可能? (A) 金黃色葡萄球菌 (Staphylococcus aureus) (B) 肺炎鏈球菌 (Streptococcus pneumoniae) (C) 大腸桿菌 (E. coli) (D) Beta 溶血性鏈球菌 (β-hemolytic Streptococcus) 【詳解】(A) 金黃色葡萄球菌即是表皮菌,另外敗血性關節炎亦最 常見金黃色葡萄球菌。 (B) 29. 下列有關退化性關節炎的治療,何者是最主要的方法? 95(一)專 (A) 服用 glucosamine (B) 減輕退化關節的負擔 内 1-23 (C) 持續服用消炎止痛劑 (D) 浸泡溫泉或溫水 (C) 30 Source: [[sources/med3-book4-ch06|己、關節炎變]].
-- C. 肺炎雙球菌 (Streptococcus pneumoniae) 129 Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- | 分類 | 部位 | 症狀 | 常見致 | 病菌 | |----------------|--------------|-------------------|-----------|------------------------| | 腦膜炎 | Subarachnoid | 頸部僵硬, Kernig/ | 細菌 | S. pneumoniae 等 | | (Meningitis) | space | Brudzinski's sign | 病毒 | Enterovirus, HSV2, HIV | | 腦炎 | Brain | 意識改變 | 学主 | HCV4 V7V EDV | | (Encephalitis) | tissue | 局部神經學症狀 | 病毒 | HSV1, VZV, EBV | Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
-- ## C. 肺炎雙球菌 (Streptococcus pneumoniae) Source: [[sources/med3-book3-ch09|甲、中樞神經感染]].
 
 ## Clinical Caveats
 

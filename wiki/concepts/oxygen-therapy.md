@@ -57,6 +57,12 @@ sources:
   - "[[sources/med6-book2-ch18]]"
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch07]]"
+  - "[[sources/med6-book4-ch02]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch13]]"
 aliases:
   - 'Oxygen therapy (氧氣治療)'
   - 'Oxygen therapy'
@@ -71,7 +77,7 @@ tags:
 
 ## Summary
 
-低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+低氧血症與急性呼吸困難的支持治療。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -128,9 +134,25 @@ tags:
 - [[sources/med6-book2-ch18]]
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch07]]
+- [[sources/med6-book4-ch02]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch13]]
 
 ## Key Details From Sources
 
+- 7. 利用 100% 氧氣面罩給病人 Preoxygenation,持續 3~5 分鐘,目的在使病人的肺泡空間儲存更多氧氣,使接下來插管時能爭取更多的時間。 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- ...osition: 準備合適的插管器材、監視器和抽吸管(suction tube),並擺好 sniffing position(墊高肩膀與頭部,使病人的外耳道與胸骨位於同一水平面)。 - (2) Preoxygenation:利用 100% 氧氣面罩給病人自行深呼吸,但盡量不要給予正壓呼吸,因為正壓呼吸可能導致嘔吐。 - (3) Pretreatment:給予輔助藥物。 - a. Lidocaine:降低咳嗽反射、降低因插管造成的腦壓升高。 - b. Atropine:增加心跳、減少口水分泌。 - c. Fentanyl:減少插管時的疼痛感。 - (4) Paralysis:給予睡著的藥物(擇一)和肌肉鬆弛藥物(擇一) - a. Propofol (1~2.5 mg/kg) - Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- 3. 如果 induction 後發現困難插管,處理方式: - (1) 趕緊請人來幫忙。 - (2) 使用 bag 和 mask 給予 100% 的氧氣。 - (3) 考慮讓病人清醒並進行自發性呼吸。 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- 1. 告知外科醫師、立即停用揮發性麻藥以及 succinylcholine,給予百分之百氧氣 ventilation。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (D) 40. 一位 60 歲男性患有肺腫瘤,必須接受右肺切除手術。在手術中 實行左側單肺呼吸(one-lung ventilation)一段時間後,血中含氧 量(PaO2)下降,下列敘述何者錯誤? - (A) 可調高呼吸速率,以增加肺部每分鐘換氣量 - (B) 可將吸入氧氣濃度 FiO2 調成 100% - (C) 可使用 5~10 cm H2O 之呼氣末期正壓 (PEEP) 至換氣肺側 - (D) 應利用高度換氣(Hyperventilation),使血中二氧化碳濃度 (PaCO2) 小於 30 mmHg Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 2. 麻醉監測系統可分為四大方向: - (1) 氧氣濃度監測 (Oxygenation): 脈搏血氧飽和度分析儀 (Pulse oximeter)。 - (2) 呼吸功能監測(Ventilation):使用麻醉機去評估病人呼吸的功能。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (3) 攜帶氧氣的血紅素能吸收較多紅外光 (940 nm),未攜帶氧氣的血紅素則是吸收較多的紅光 (660 nm),而 Pulse oximeter 利用這種血紅素吸收光譜的差異性,去分析病人目前的血氧飽和度。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 2. 造成假性 high $SpO_2$ 的影響因子(高估實際值; $SpO_2 > SaO_2$ ): - (1) 一氧化碳中毒:Carboxyhemoglobin 增加。 - (2) 變性血紅素血症(methemoglobinemia):正常血紅素為二價鐵離子,若被氧化成三價鐵離子,就會失去攜帶氧氣的功能。Methemoglobin 會讓 $SpO_2$ 趨近於 85%,所以當 $SaO_2 > 85\%$ 時, $SpO_2$ 會假性下降,而當 $SaO_2 2) waveform 表示(如下圖) Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- d. 對心臟系統及腦部的影響:Barbiturate 由靜脈給予的麻醉誘導劑量會造成血壓降低及心跳速率增加。腦部方面,會使腦部血管收縮,使腦內血流及顱內壓減少,所以腦部灌流壓(CPP)會提高,且 barbiturate 使腦部氧氣消耗量降低,整體而言對局部腦組織缺血具有某種程度的保護作用。比起 propofol 有一個防止痙攣的特性,所以是神經外科手術時常用的藥物。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- 2. 每種藥都有其恒定的數值,反應各藥物的藥效強度,MAC 數值越低,代表只需要低濃度的藥物就可以達到效果,藥效越強。譬如 Nitrous oxide 的一個 MAC 為 105%,屬於較弱效型麻醉劑(在一大氣壓下,氣體組成不可能超過 100%,而且也不可能全部都給笑氣,不給病人氧氣,所以正常狀況下,笑氣是不可能達到一個 MAC 的。),Halothane 的一個 MAC 為 0.75%,屬於強效型麻醉劑。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
 - e. Metabolic equivalent (MET):代謝當量,常見於健身房運動器材的螢幕上, 1 MET 被定義為每公斤每分鐘消耗 3.5 mL 氧氣 (3.5 mL/min/kg),相當於一個人在安靜狀態下,沒有任何活動時每分鐘的氧氣消耗量。一個 5 METs 的活動表示運動時氧氣的消耗量是安靜狀態時的 5 倍。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 8. 長期氧氣治療: - (1) 肺疾患者(例如 COPD)進展到末期時,容易有低血氧的情形,甚至容易合併 酸血症,故會給予病患長期氧氣治療。 - (2) 目前大多數研究均指出氧氣治療可減輕呼吸困難、改善運動耐力和效能、減輕肺動脈高壓,降低死亡率減少住院次數改善運動量(增加耐力)、改善繼發性紅血球增多症(secondary polycythemia,因長期組織缺氧引起紅血球大量被製造)、改善生活品質。 - (3) 給氧原則為動脈血氧分壓不低於 60 mmHg,以及動脈血氧飽和度需大於 90% saturation。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...的組織。 - (b) 除了熱效應之外,電磁波亦能產生其他生物效應: - i. 改變細胞活性,活化纖維母細胞、神經細胞,甚至刺激 ATP 與蛋白質 之合成。 - ii. 增加糖尿病患傷口附近局部微血管的充血,改善局部血液循環,增加 局部組織的氧氣與養分供應,有助於傷口癒合。 - (c) 禁忌症: - i. 施作部位不能有金屬植入物(金屬骨板、人工關節、子宮內避孕器), 電磁波會使金屬周圍產生高熱燙傷組織。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
@@ -139,16 +161,6 @@ tags:
 - 1. 流行病學:目前推測與早產兒使用氧氣有關,主要發生在出生**體重小於1,500 公克、或是懷胎小於32 週的嬰兒**;懷孕週數越小、出生體重越輕,機會越高(體重小於1,250 公克,發生率約50%;大於32 週以上才出生,就幾乎不會發生)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...s氏腺、Moll 氏腺 | (1) 延遲淚膜水層的蒸發(2) 降低淚膜表面張力,因此可吸收水分到淚膜,增厚水層(3) 睜眼時肌肉收縮,抑制油脂流出;閉眼時使腺體的油脂流出 | 蒸發性乾眼 | | 中間水層 | 主、副淚腺 | (1)供給角膜氧氣(2)除水、電解質外,尚有IgA、溶菌酶、乳鐵蛋白等可抵抗細菌 | 分泌不足性乾眼 | | 內側黏液層 | 結膜的 goblet cells (主要)、crypts of Henle、Manz 氏腺 | (1)幫助水層均匀分布在眼球表面(2)將疏水性的角膜上皮轉為親水性表面以濕潤角膜 | 蒸發性及分泌不足性乾眼 | Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - 2. 處理:儘快緩解血管痙攣,擴張血管以疏通栓子至周邊血管。平躺、眼球按摩、舌下含服硝酸甘油(NTG)、吸氧吸入(95%氧和5%二氧化碳)、靜脈注射降眼壓藥物(Dimox或 mannitol)、前房穿刺術等,不過效果均不佳。 - \* MONA: M 是眼球按摩和 mannitol, O 是氧氣, N 是 NTG, A 是前房穿刺。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
-- 【詳解】滋養層細胞(trophoblast)分為絨毛膜(villous)和絨毛膜外(extrvillous)兩種,villous trophoblast 形成絨毛膜的絨毛(chorionic villi),負責從母體運送氧氣和營養給胎兒,而extravillous trophoblast 則移動到蜕膜(decidua)和子宮肌層,渗透母體血管,與子宮動脈的重塑(spiral artery remodeling)有關,形成高流速、低阻力的胎盤血循環。子宮胎盤血循環系統(uteroplacental circulation)著床時開始建立,12 週以後第二波建立形成,持續至 20 週。Ref: Wang Y, Zhao S. (2010). Vascular Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- | 母親血管破裂 | • 在蜕膜基層,來自於母親的血管發生破裂形成血塊,當血 | |--------|-----------------------------| | | 塊持續增大便會將胎盤和蛻膜層分離造成胎盤剝離,剝離 | | | 的胎盤無法交換氧氣和養份,持續將導致胎兒窘迫 | | | • 母親的血管破裂可能和腹部外力撞擊、子宮快速減壓或慢 | | | 性胎盤血管病變有關 | | 母親子宮異常 | • 母親的子宮有異常或病灶(如雙角子宮、子宮腔沾黏、黏 | | | 膜下肌瘤等),胎盤著床在不穩定的位置,也可能造成胎 | | | 盤剝離 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- 剝離的胎盤無法交換氧氣和養份,造成胎兒心率異常、胎兒窘迫,持續惡 化將造成胎兒死亡 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ...可 | · 密集觀察,若變為 Category I 則無妨; 但若情狀惡化或變 為 Category III 則須 緊急處理 | • 須緊急處理 (1) 母親左側躺或呈 knee chest position (2) 增加靜脈輸液並給予母親氧氣 (3) 減少或停止催產素,必要時給予安胎藥 • 若胎心跳在 30 分鐘內仍無法回復正常,就必須緊急 剖腹產 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- (2) 處置:移除 oxytocin 或 PGE2 的陰道塞劑,讓產婦左側躺、給予氧氣,並增加靜脈輸液,甚至給予安胎藥物。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- (1) 按摩子宮、建立大口徑的靜脈管路,輸液、輸血、給氧氣以穩定生命徵象。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (D) 4. 一位 30 歲的男性工人從 6 公尺高的鷹架墜落,身體檢查顯示收縮壓 120 mmHg,右胸有明顯的連迦胸(flail chest),嚴重的呼吸窘迫(severe respiratory distress),右胸呼吸聲音稍微降低,叩診時則左右兩側類似。給予非再呼吸型面罩氧氣 15 L/min 後,其動脈氣體分析為 pH: 7.47,PaO2: 65 mmHg,PaCO2: 28 mmHg;下列何者最可能解釋他的異常動脈氣體分析之原因? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- (D) 9. 當你接收到一位嚴重創傷已插有氣管內管插管 (endotracheal tube) 103(二)專 的轉診病人時,下列處置何者最適當? 醫五-73 - (A) 儘快接上呼吸器 - (B) 趕快評估其他未被發現的傷害 - (C) 迅速地拔除氣管內插管並給予足夠的氧氣 - (D) 檢查氣管內插管的位置是否在正確位置上 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 6. 治療:初期基本處置上,腸胃疝入胸腔是因液體或空氣積聚,導致腸胃道持續膨脹 擠入胸腔,故首要是解除壓力,除了放置鼻胃管外,須避免做面罩扣壓給氣之動作 以免將空氣繼續灌入腸胃道而加重病情。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- (BD) 2. 先天橫隔膜疝氣 (congenital diaphragmatic hernia) 的嬰兒,其 101(ニ)専 出生須急救的步驟不包括下列何者? - (A) 氣管內插管 (endotracheal tube) - (B) 面罩 (mask) 呼吸 - (C) 放置胃管 - (D) 動脈及靜脈導管 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 
 ## Clinical Caveats
 

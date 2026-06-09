@@ -19,6 +19,8 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med6-book1-ch13]]"
   - "[[sources/med6-book1-ch18]]"
+  - "[[sources/med6-book4-ch04]]"
+  - "[[sources/med6-book4-ch05]]"
 aliases:
   - 'Delirium (譫妄)'
   - 'Delirium'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-急性波動性注意力與意識障礙，常由感染、藥物、代謝或住院壓力誘發。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性波動性注意力與意識障礙，常由感染、藥物、代謝或住院壓力誘發。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med6-book1-ch13]]
 - [[sources/med6-book1-ch18]]
+- [[sources/med6-book4-ch04]]
+- [[sources/med6-book4-ch05]]
 
 ## Key Details From Sources
 
+- 2. Stage II: 興奮期 (Excitement/Delirium) - (1) 可見病人有強烈的掙扎動作或者譫妄(delirium)的出現,有時會伴隨咳嗽、噁心、嘔吐。 - (2) 血壓可能會出現上下波動,呼吸也會較不規則。 - (3) 這時候睫毛反射(eyelash reflex)消失,因此可用睫毛反射來測試病人是否進入 Stage II。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
+- 2. 藥物機制: - (1) Onset 快, Duration 短。 - (2) 與 GABA receptor 結合,可增加其對 GABA 的親和力。與 barbiturate 不同的地方是對於神經系統的影響較小。較不會造成焦慮、delirium 的情形。 - (3) 對於血壓、心跳、心輸出量幾乎沒有影響,故常用於外傷休克、敗血性休克的 病人。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
 - (2) DIAPPERS: Delirium, Infection, Atrophic vaginitis/vaginitis, Pharmacologic, Psychological, Excessive urine production, Restricted mobility, Stool impaction • Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - | 體液過量 | 心衰竭、肺水腫、稀釋性貧血 | | | | |--------|----------------------|--|--|--| | 電解質不平衡 | 低鈉、高血糖、酸中毒 | | | | | 尿 液 | 茶色尿或血尿 | | | | | 神經表現 | 視覺障礙、意識改變、譫妄、昏迷、癲癇發作 | | | | Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
 - (C) 腹痛(abdominal pain) (D) 意識譫妄(delirium) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
@@ -71,8 +77,6 @@ tags:
 - | 停止喝酒後之時間 | 症狀表現 | |----------|-------------------------| | 6~8 小時 | 全身顫抖 | | 8~12 小時 | 出現精神症狀和感官功能障礙(如產生妄想和幻覺) | | 12~24 小時 | Seizure attack | | 72 小時 | 震顫性譫妄(delirium tremens) | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - 1. Benzodiazepine 類藥物:可以幫助控制病人的 seizure、delirium、anxiety、tachycardia、hypertension、diaphoresis 與 tremor。 常用的藥物包括 diazepam、chlordiazepoxide、lorazepam等。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - ...D) 體溫升高 【詳解】會出現發燒。 | 108(二)專醫四-68 | | (A) | 8. 對酒精相關疾患的描述,何者錯誤? (A) 酒精戒斷時會心跳變慢 (B) 酒精戒斷時會冒汗 (C) 長期使用酒精時會低血鈉 (D) 酒精戒斷時會誘發譫妄,是高風險病症 【詳解】(A) 心跳變慢。 | 108(二)專醫四-69 | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- V. 譫妄 (Delirium) 144 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- (C) 11. 一位 70 歲女性患者,二年來持續有急躁、易怒、囉嗦、多疑、 99( ) 專 夜眠差、記憶受損、智能全面退化等症狀,難以勝任簡單家務。 醫四 -63 該患者之診斷最可能是: - (A) 譫妄 (delirium) - (B) 精神分裂症(schizophrenic disorder) - (C) 失智症 (dementia) - (D) 妄想症 (delusional disorder) Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 
 ## Clinical Caveats
 

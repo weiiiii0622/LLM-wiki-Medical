@@ -26,6 +26,10 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch08]]"
 aliases:
   - 'Anaphylaxis (全身性過敏反應)'
   - 'Anaphylaxis'
@@ -40,7 +44,7 @@ tags:
 
 ## Summary
 
-IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循環。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +70,18 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch08]]
 
 ## Key Details From Sources
 
+- ...注射的電腦斷層後,突然出現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 mmHg,應優先選擇下列何者處置? (A)靜脈注射抗組織胺(Antihistamine) (B)靜脈注射類固醇(Steroid) (C)靜脈注射腎上腺素(Epinephrine) (D)吸入性支氣管擴張劑(Bronchodilator) | 100(二)專醫四-78 | | (D) 36. | 心臟冠狀動脈疾病手術麻醉處理的原則,下列何者錯誤? | 99(二)專 | | | (A) 增加收縮壓會增加心臟耗氧量 | 醫六-4 | | | (B) 心跳增加會增加心臟耗氧量 | | | | (C) 心臟冠狀動脈血液灌流最佳時期是舒張期 | | | | (D) 增加左心室壁舒張末期壓力,有利於增加冠狀動脈血流量 | Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 【詳解】Ephedrine 可直接作用在 α 和 β 腎上腺素激接受體位, 又可間接的促使 norepinephrine 從突觸前的神經末端釋放出。 Ephedrine 所產生的支氣管擴張作用比 epinephrine 所產生的要 弱,但是作用期較長。其中樞神經刺激效應也比 epinephrine 要 顯著。臨床上用於:支氣管性氣喘、血管運動神經性鼻炎、過 敏性鼻炎、脊椎麻醉導致之急性低血壓。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (6) 單 胺 氧 化 酶 抑 制 劑(monoamine oxidase inhibitors, eg: phenelzine and isocarboxazid):治療 depression 的藥物,會增加細胞內 amine neurotransmitter 的濃度(eg: dopamine, epinephrine, norepinephrine and serotonin),建議術前兩週停藥,以免與 indirectly acting vasopressor,例如 ephedrine 併用時造成高血壓風暴,或與 meperidine 併用造成血清素風暴。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- (1) 特徵: - a. MAC (0.75%) ° - b. 會增加心臟對 epinephrine 所造成心律不整的敏感度,所以 epinephrine 的用量需控制。 - c. 被當成強力的支氣管擴張劑,可以逆轉氣喘造成的支氣管痙攣。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- (2) 局部血液循環量:血液循環加速會使局部麻醉劑被血流帶走、濃度下降,降低 其藥效。臨床上同時會給予血管收縮劑如 epinephrine,可使局部麻醉劑的作用 時間延長,並減少全身性的吸收,降低對系統性所帶來的副作用。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
 - (B) 給予 epinephrine 藥物 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - (b) 血中兒茶酚胺 catecholamine (主要是 Epinephrine + Norepinephrine)上昇,80% 人會 > 2,000 ng/L。若有高血壓但 catecholamine 正常,可以排除嗜鉻細胞瘤的可能性。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
@@ -82,11 +95,6 @@ IgE 或非 IgE 途徑造成快速全身性過敏反應，可危及呼吸與循�
 - (C) 2. 一位 25 歲女性,從高處跌落,造成頸部疼痛及四肢癱瘓,但意 識清楚,四肢無冰冷現象。電腦斷層影像檢查發現第五頸椎骨折 神經壓迫。此時病患心搏速率:60次/分、血壓:75/55毫米汞 柱。關於病患現在血壓狀況,下列何者是最適當的診斷? - (A) 過敏性休克 (anaphylactic shock) - (B) 失血性休克 (hypovolemic shock) - (C) 神經性休克 (neurogenic shock) - (D) 心因性休克 (cardiogenic shock) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - 1. 身體受到外傷或接受手術產生傷口會導致神經內分泌增加、stress hormone 的釋放(cortisol、epinephrine)、immune reaction 啟動等等使得身體代謝率增加,引起肌肉蛋白分解、肝醣分解、葡萄糖新生和脂肪的氧化,以應付組織的破壞和傷口的修補。而受傷越嚴重,其高代謝狀態會明顯增加。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - (7) 芳香族的氨基酸也十分重要,如 Tyrosine 由 Phenylalanine 合成而來,可進一步合成 Dopamine、norepinephrine,epinephrine;Tryptophan 可合成 serotonin,Melatonin。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (2) 低體溫初期周邊交感神經會反應,增加 norepinephrine 分泌,血管收縮和血壓上 升,如果病患本身有休克,會使得 ischemia 更嚴重。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- ...骼肌的 nicotinic 接受器。 - b. 交感神經由胸椎、腰椎脊髓的側角神經元發出,經兩個神經元,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎旁神經節(paravertebral ggl.)的神經元,其再分泌正腎上腺素(norepinephrine)刺激目標器官(心肌、平滑肌、腺體)的 Adrenergic 接受器。 - c. 副交感神經由**顱神經、薦椎的側角神經元**發出,也經**兩個神經元**,才抵達目標器官。先由側角神經元分泌 Ach 刺激脊椎前神經節(prevertebral ggl.)的神經元,其再分泌 ACh 刺激目標器官(心肌、平滑肌、腺體)的 muscarinic 接受器。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- 是提升何種神經傳導物質在腦中的濃度? - (A) acetylcholine - (B) norepinephrine - (C) serotonin - (D) dopamine Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (C) 13. 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出 100(二)專 現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 醫四-78 mmHg,應優先選擇下列何者處置? - (A) 靜脈注射抗組織胺(Antihistamine) - (B) 靜脈注射類固醇 (Steroid) - (C) 靜脈注射腎上腺素 (Epinephrine) - (D) 吸入性支氣管擴張劑 (Bronchodilator) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- Norepinephrine 與 serotonin 是目前被研究最多和情感性精神疾患相關的生物因子, 其 他 如 dopamine、GABA、vasopressin、endogenous opiates、glutamate、glycine 等也可能有關。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 
 ## Clinical Caveats
 

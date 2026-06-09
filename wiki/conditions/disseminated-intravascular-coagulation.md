@@ -27,6 +27,9 @@ sources:
   - "[[sources/med5-book6-ch05]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Disseminated intravascular coagulation, DIC (瀰漫性血管內凝血)'
   - 'Disseminated intravascular coagulation, DIC'
@@ -41,7 +44,7 @@ tags:
 
 ## Summary
 
-全身凝血活化造成血栓與出血並存，常由敗血症、癌症、產科或創傷引發。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+全身凝血活化造成血栓與出血並存，常由敗血症、癌症、產科或創傷引發。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +71,15 @@ tags:
 - [[sources/med5-book6-ch05]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...疾病、裝心臟節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併心衰竭的孕婦 | 7.8~23% | Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 3. 心血管系統:首先出現竇性心動過速,進一步發展可出現室性早搏,甚至發生室顫而死亡。若持續數小時則可出現 DIC 各期表現。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 1. CBC, 若有需要可安排 PT/PTT、X-ray、CT、內視鏡檢查等。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - (7) 併發症: DIC、休克、腎衰竭、多重器官衰竭、甚至死亡。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (D) fibrinogen-fibrin degradation products Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】胎盤剝離會造成凝血功能異常,嚴重會併發 DIC,導致 fibrinogen 因 fibrinolysis 增加下降。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -86,9 +95,6 @@ tags:
 - 【詳解】服用 warfarin 要監控 prothrombin time (PT), 服 用 heparin 才是監控 aPTT。服用 thyroxine 會造成凝血因子的 turnover rate 加快,使得 PT prolonged,所以應適當降低 warfarin 服用量。而服用口服避孕藥有增加DVT的危險,故需增加 warfarin 服用量。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (3) 第三級:不可逆性休克,長時間灌流不足導致細胞受損,病患經輸液及升壓劑 治療後仍血壓不穩、少尿或無尿、意識昏迷、DIC等,死亡率極高。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...(1) 體溫> 38℃ or 90 bpm - (3) 呼吸速度 > 20 cpm or PaCO2 12,000/\text{mm}^3 \text{ or } 2 OR ↑ > 0.5 mg/dL - c. 血液:INR > 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- D. 瀰漫性血管內凝固(DIC) 40 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- ## D. 瀰漫性血管內凝固 (DIC) Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 4. 診斷: PT/aPTT ↑、fibrinogen ↓、FDP ↑,D-dimer ↑。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 
 ## Clinical Caveats
 

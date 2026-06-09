@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book5-ch08]]"
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book4-ch09]]"
 aliases:
   - 'Antidepressants (抗憂鬱藥物)'
   - 'Antidepressants'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-治療 depression、anxiety、OCD、PTSD 等；選擇需考慮副作用、交互作用、自殺風險與 bipolar screening。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療 depression、anxiety、OCD、PTSD 等；選擇需考慮副作用、交互作用、自殺風險與 bipolar screening。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,12 @@ tags:
 - [[sources/med5-book5-ch08]]
 - [[sources/med5-book5-ch04]]
 - [[sources/med6-book1-ch13]]
+- [[sources/med6-book4-ch09]]
 
 ## Key Details From Sources
 
+- ...合後,疼痛仍持續大於三個月,可稱為 PHN。 - b. 好發於老年人與免疫力低下者,治療方面也相當棘手。 - (2) 治療: - a. 感染急性期給予Antiviral drugs,但給予抗病毒的藥物並不能預防PHN的產生。 - b. 三環抗憂鬱劑 (tricyclic antidepressant drugs): amitriptyline、nortriptyline、desipramine。 - c. 抗癲癇用藥(anticonvulsants):如:gabapentin、pregabalin、carbamezapine、oxcarbazepine、topiramate 都是治療神經痛的藥物。 - d. 5% Lidocaine patches • - e. Opioid Source: [[sources/med6-book4-ch09|壬、疼 痛]].
+- b. 輔助性止痛藥物:抗憂鬱藥、抗痙攣藥、類固醇、抗組織胺、中樞神經興奮劑。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
 - ...且無 | | | detrusor contraction 時,伴隨有不自主的漏尿情形 | | 治療 | (1)骨盆腔底肌肉運動:Kegel exercise (輔以生理回饋可增加效果) | | | (2)藥物:Duloxetine (為 SNRI,精神科用藥 )和 local topical estrogen | | | (3)手術: | | | a. 經陰道方式 | | | i. Midurethral sling:無張力陰道吊帶術 (tension-free vaginal tape, TVT) | | | ii. Bladderneck sling | | | iii. Injection of urethral bulking agents | | | b. 經腹部方式 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - (e) 藥物方面 (drug-induced): 抗精神病藥物 (antipsychotics)、抗憂鬱劑 (antidepressants)、降血壓劑 (β-blocker、利尿劑;α-blocker 最不易導致 ED)、抽菸、酒精 (一天酒精攝取>15 g)、胃酸抑制劑 (H2 blocker)、 女性荷爾蒙 / 抗男性賀爾蒙。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - | 藥物種類 | 細項 | |-------|-------------------------------------| | 高血壓藥 | CCB \ α-blocker \ spironolactone | | 胃藥 | Cimetidine | | 高尿酸藥 | colchicine · allopurinol | | 精神科用藥 | 鋰鹽、valproic acid、TCA、antipsychotics | Source: [[sources/med5-book5-ch08|辛、男性學]].

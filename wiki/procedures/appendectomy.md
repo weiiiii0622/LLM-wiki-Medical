@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book4-ch08]]"
 aliases:
   - 'Appendectomy (闌尾切除術)'
   - 'Appendectomy'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-急性闌尾炎常見手術治療，可採開腹或腹腔鏡方式，需依穿孔、膿瘍與病人狀況調整。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性闌尾炎常見手術治療，可採開腹或腹腔鏡方式，需依穿孔、膿瘍與病人狀況調整。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book4-ch08]]
 
 ## Key Details From Sources
 
+- .... L2-L3: foot • - c. L1-L3:下肢。 - d. T10 (umbilicus): 髖關節 (Hip)、TURP、自然生產 (vaginal delivery)。 - e. T6-T7 (xiphoid):下腹部手術、闌尾切除 (appendectomy)。 - f. T4 (nipple): 上腹部手術、剖腹產 (C-section)。 - (4) 禁忌症:病患無法配合、凝血功能異常、局部有感染現象、IICP。 - (5) 副作用:Postdural puncture headache (PDPH)。 - a. 原因:脊髓硬腦膜(dura)遭受穿刺後若沒有癒合的很好造成 CSF 持續滲漏,會使病人發生低壓性的頭痛(low pressure headache Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
 - (D) 5. 20 歲苗勒氏管不發育(müllerian agenesis)的女性患者接受腹腔 鏡闌尾切除時,外科醫師在骨盆腔發現疑似子宮內膜異位症的 病灶,下列何項敘述能合理解釋此情況? 107(二)專醫六-27 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (D) 8. 一位 32 歲女性病人因劇烈腹痛來急診,尿液檢查呈現 β-hCG 陽 103( ) 專性反應 (positive),高度懷疑是子宮外孕 (ectopic pregnancy), 醫六 -77 下列何者較不可能是此疾病之危險因子? - (A) 曾植入子宮內裝置 (intrauterine device) - (B) 有輸卵管開刀(tubal surgery)的病史 - (C) 有骨盆腔發炎(pelvic inflammatory disease )的病史 - (D) 曾接受過腹腔鏡闌尾切除術 (laparoscopic appendectomy) Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 【詳解】子宫外孕危險因子中,(A)子宫內避孕器和(B)輸卵管開刀的病史為高度危險因子;(C)骨盆腔發炎的病史為中度危險因子。曾接受過腹腔鏡闌尾切除術並非子宮外孕的危險因子。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].

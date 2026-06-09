@@ -19,6 +19,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book2-ch15]]"
   - "[[sources/med6-book2-ch05]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Antifungal agents (抗黴菌藥物)'
   - 'Antifungal agents'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗黴菌藥物包含 polyene、azole、echinocandin 等類別，選擇依病原與侵犯部位。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book2-ch15]]
 - [[sources/med6-book2-ch05]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (3) 侵犯性黴菌性鼻竇炎:譬如 Mucormycosis,病原菌為 *Mucorales*(白黴菌屬),病程的進展很快,通常需要緊急手術,同時併用抗黴菌藥物(Amphotericin B)靜脈注射,它有時會侵蝕篩竇與眼球中間的骨頭,而侵犯到眼球,引起眼部的症狀,甚至伺機造成腦或肺部感染而致命。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 4. 處置: - (1) 清潔:使用溫水清洗灌注外耳道,並可使用耳吸管將壞死上皮組織與灰塵污物取出。 - (2) 發炎與感染控制:使用含有抗生素、抗黴菌藥物、類固醇和止痛劑的耳滴劑。 - (3) 口服抗生素使用在較嚴重的外耳感染或是免疫力低下的病患,需選擇可以涵蓋 *Pseudomonas aeruginosa、S. aureus*,並與耳滴劑一起搭配使用。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - (4) 眼眶鼻腔白黴菌症(orbital-rhino-mucormycosis):死亡率高! - a. 最常見的黴菌感染,是一種伺機性感染,多發生於糖尿病合併酮酸中毒或器 官移植後使用免疫抑制劑的病患上。 - b. 致病機轉:經呼吸道,吸入白黴菌芽孢後,造成組織壞死及血管阻塞,病灶成黑色結痂且發出惡臭。 - c. 症狀: 發燒、眼眶腫脹、突眼、鼻腔惡臭。 - d. 診斷:直接從病灶取檢體做黴菌培養或切片檢查,以 HE 染色陽性並觀察到 典型無分隔的分枝菌絲。 - e. 治療: 必須先控制糖尿病並將病灶做清創手術, 投予 IV 抗黴菌藥物 (amphotericin B)治療,太嚴重時需施行眼窩剜除術。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (4) 治療: 局部抗黴菌藥物六週、全身性抗黴菌藥物或考慮外科手術治療。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - ...10% KOH 將細胞破壞可更清楚觀察到 budding yeast 或 hyphae • 100 mg Clotrimazole 陰道塞劑 7 天或 100,000 unit Nystatin 陰道塞劑 14 天 治療 ・單一劑量口服 fluconazole 150 mg ·若為反覆復發個案,可給予口服 fluconazole 150 mg 3 劑 (每隔 3 天), Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -71,7 +77,6 @@ tags:
 - c. 嚴重患者可口服 Itraconazole、Fluconazole 或 Ketoconazole。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - 2. 原因不明,一般認為和遺傳有關,也有認為和皮屑 芽孢菌(Malassezia furfur)過度增生有關,故使用 抗黴菌藥物可以有效改善皮膚炎。秋冬季、壓力、 生理期、睡眠不足和情緒不好、免疫力低下(HIV、 器官移植者)等都為惡化原因。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - (2) 頭皮屑的問題,可用含有焦油(tar)、硫化砷(selenium sulfide)、Zinc Pyrithione或 Ketoconazole (如:仁山利舒)的抗黴菌洗髮精來潤洗頭皮。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (C) 外用抗黴菌藥物不能有效治療脂漏性皮膚炎 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 
 ## Clinical Caveats
 

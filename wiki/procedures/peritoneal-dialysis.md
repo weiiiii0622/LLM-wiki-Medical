@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book3-ch16]]"
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Peritoneal dialysis (腹膜透析)'
   - 'Peritoneal dialysis'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+利用腹膜作為半透膜進行透析，可作為 ESKD 腎臟替代療法。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med5-book3-ch16]]
 - [[sources/med5-book5-ch02]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- 6. 腎臟系統:是否有 CKD/ESRD,有無進行血液透析或腹膜透析,術前血液檢查數值 為何。有沒有哪一手禁做治療? Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - 3. 處理:以內科治療為主。洗胃、腹膜透析,給予 Fomepizole 藥物(酒精去氫酶),以碳酸氫鈉等輕鹼溶液來緩和酸血症;口服或注射乙醇,使與甲醇爭奪氧,延緩甲醇的吸收及氧化成有毒之產物。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
 - (e) 免疫治療: - i. 對於不適用 cisplatin 化學治療的病人,腫瘤若表現 PD-L1 基因可第一 線考慮使用 Atezolizumab 或 Pembrolizumab 免疫治療 - ii. 在 Cisplatin-based 化學治療失敗後,第二線可考慮 Pembrolizumab - iii. 對於第一線使用 Pembrolizumab 治療,腫瘤仍無法控制的病患,後續 Carboplatin/Gemcitabine 化學治療依然可使用 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - ...rocedure (resection of pancreatic head) The Frey procedure (resection of pancreatic head) - c. Pancreaticoduodenectomy (PD): Whipple procedure, PPPD Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
@@ -72,7 +75,6 @@ tags:
 - C. 腹膜透析 (Peritoneal dialysis, PD) 108 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - | 透析液成份 | 血液透析液 | 腹膜透析液 | 注意事項 | |---------------|---------------|----------------|--------------------------------| | 鈉離子 | 135 to 155 | 132 | HD 選擇較高鈉→不易低血壓 | | 鉀離子 | 0 to 4 | 0 | PD 較 HD 易造成低血鉀 | | 鈣離子 | 2.5-3.5 mEq/L | | 一般用 2.5, 血鈣低者可選 3 Source: [[sources/med3-book3-ch06|己、透析治療]].
 - ## C. 腹膜透析 (Peritoneal dialysis, PD) Source: [[sources/med3-book3-ch06|己、透析治療]].
-- ## E. 腹膜透析腹膜炎 (CAPD peritonitis) Source: [[sources/med3-book3-ch11|丙、腸胃道感染]].
 
 ## Clinical Caveats
 

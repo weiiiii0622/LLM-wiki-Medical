@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch15]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Fluoroquinolones (氟喹諾酮類)'
   - 'Fluoroquinolones'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch15]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- (5) 治療: - a. 藥物:使用三到六週的抗生素及局部類固醇治療,抗生素可使用 Augmentin、 Macrolide、Fluoroquinolone、Clindamycin 等。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...or single daily dose - b. parenteral regimens 治療至少 48 小時,若症狀改善持續超過 24 小時,即可改為口服藥物,合計使用 14 天。 - ※ 2007 CDC guidelines 提及,fluoroquinolones 因產生抗藥性,不建議再用 於治療淋病雙球菌(Neisseria gonorrhoeae)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ※ 複雜性泌尿道感染易出現抗藥性菌株,如 extended-spectrum beta-lactamase (ESBL) *E. coli* 或 fluoroquinolone-resistant *E. coli* Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - ...-----|-------------------------------| | Gram-positive cocci | | | | Staphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, pe Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
@@ -66,7 +69,6 @@ tags:
 - (C) 4. 八八水災造成屏東低窪地區嚴重淹水,十天後,該地區有位 50 歲男性發生急性高燒 38.5℃、頭痛、肌肉酸痛,週邊血白血球為17,000/μL, 血小板120,000/μL, GOT:150 U/L 及 GPT:162 U/L,總膽紅素(total bilirubin):4.1 mg/dL;血清肌酸酐(serum creatinine):3.2 mg/dL。下列何種抗生素為最適當之治療選擇? - (A) amikacin - (B) ciprofloxacin - (C) crystal penicillin G - (D) vancomycin Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
 - ...ugmentin®) | | | 糖质 | 尿病足 | S. aureus 或一些厭氧的 streptococcus | | | | 生處 | 誘鐵釘刺入組織深 | Pseudomonas | Ceftazidime (Fortum) 或 Ciprofloxacin | | | 接觸 | 生食海鮮+肝硬化在海邊受傷(鹹水) | Vibrio vulnificus | 3rd cephalosporin+ Tetracycline(台灣有研究顯示加 Tetracycline 預後較加) | | | 胸水 | 摔到水溝水、泡溫泉(淡水) | Aeromonas hydrophila (GNB) | 對 Quinolone, Baktar, 3 rd ceph 皆敏感 | | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
 - | 菌種 | 治療 | 危險因子 | |-----------------------------------|------------------------------------------|---------------| | Group A streptococcus (S. pyogen) | Pencillin + Clindamycin | | | Vibrio vulnificus | Doxycycline+Ceftriaxone | Cirrhosis+ 海水 | | Aeromonas hydrophila | Doxycycline+Ceftriaxone or Ciprofloxacin | Cirrhosis+ 淡水 | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- (A) 1. 一位 50 歲病人,腎超音波檢查可見兩個腎臟皆長約 15 公分,以及 非常多個大小不一的囊泡(cysts),家族中亦有人患有此病,下列 敘述何者錯誤? - (A) 大多數的病人為自體隱性 (autosomal recessive) 遺傳 - (B) 病人產生腎結石的機會較一般人高 - (C) 有些病人會出現顱內血管瘤(aneurysm),但不需所有此類病人皆作顱內血管瘤的篩檢 - (D) 若囊泡出現細菌感染, ciprofloxacin 是用藥選擇之一 Source: [[sources/med3-book3-ch08|辛、多囊性腎病]].
 
 ## Clinical Caveats
 

@@ -22,6 +22,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Cerebellum (小腦)'
   - 'Cerebellum'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-負責協調、平衡與動作修正，小腦病灶常表現 ataxia、dysmetria、nystagmus。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+負責協調、平衡與動作修正，小腦病灶常表現 ataxia、dysmetria、nystagmus。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,15 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- 真正病因還不能確定,約85~90%的病患找不到任何病因,關於可能病因目前仍有許多種不同的理論,包括:病毒感染耳蝸或聽神經、血管病變(支配內耳神經的血管發生痙攣或栓塞,導致內耳神經細胞缺氧)、內淋巴囊水腫破裂、自體免疫性疾病等,還有1%可能是小腦橋腦角腫瘤(大部份是聽神經瘤)所造成的。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 2. 病人通常會抱怨頭暈並且伴隨外界或本身旋轉、傾斜的幻覺。可以分成周邊型暈眩 (內耳前庭系統問題)或中樞型暈眩(腦幹、小腦問題)這兩種原因。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 1. 簡介: - (1) 因為腦幹或小腦的平衡系統受到損傷所帶來的暈眩感,稱作中樞型暈眩。 - (2) 中樞型暈眩症通常會伴隨其他神經學症狀,包括說話模糊不清以及複視等,另 外也會出現 vertical 或 torsional 的 nystagmus。 - (3) 噁心、嘔吐與天旋地轉的感覺程度與周邊型暈眩相比較輕微。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- ...voked potentials, SSEPs) | | | 常用在脊椎損傷手術中,作為神經傳導功能的監測方式 | | | (C) 聽覺誘發電位 (auditory evoked potentials, AEPs) 則是常用 | | | 在小腦橋腦角腫瘤(cerebello-pontine angle tumor)切除手術 | | | (D) 體感覺誘發電位 (somatosensory evoked potentials, SSEPs) | | | 不會受到吸入性麻醉劑藥物或是低體溫的影響 | | | 31. 下列何者不是手術中生理功能監測之必備項目? | 100(一)專 | | (A) 腦波 (B) 心電圖 | 醫六-6 | | (C) 血壓 (D) 血氧飽和度 | | Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - · Increasing nervous system (e.g. ataxia, dizziness, or near syncope) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - d. 協調不良型(ataxic):小腦受損,所以會協調不良、平衡不穩定和肌肉低張力的情形,當孩童嘗試要走路、單腳平衡或使用手做一些精細操作時,不穩定動作會更明顯。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - ...史而尋求 | | | | | | | | | | 生育諮詢者 | | | | | | | | | | c. 卵巢早衰者 ( 尤其有家族病史者 ) | | | | | | | | | | d. 有晚發型 intention tremor 或 ataxia 者 | | | | | | | | | | e. 母親為帶因者 (premutation),胎兒需進行產前診斷 | | | | | | | | | WEMD 1. fra add | le Y mental retardation 1 | | | | | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -75,10 +83,6 @@ tags:
 - 1. 小腦天幕以上的血腫: - (1) Mass effect: 突發性頭痛,伴隨意識急速喪失,或是 24~48 小時內意識狀態逐漸惡化。 - (2) Focal sign:對側無力、對側感覺異常、同側半盲為常見症狀。意識喪失前病人 感到自己肢體無力。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - 2. 小腦血腫: 突發性頭痛,後續出現小腦及腦幹症狀,例如嚴重運動失調、構音困難、 眼顫、眩暈和嘔吐。或是 CSF 阻塞產生水腦症,出現 IICP sign。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
 - 2. 以下情形會偏向使用外科手術將血塊取出: - (1) 影像學上有明顯 mass effect 及 midline shift。 - (2) 血塊造成腦壓上升以及 IICP sign。 - (3) 血塊量: 10~30 cc。 - (4) 即使治療但腦內壓持續上升。 - (5) 病情狀況惡化迅速。 - (6) 位置適合開刀,包括大腦半球、小腦、外囊、非優勢大腦半球。 - (7) 年輕。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- 1. 最常見原因為三叉神經根受到血管(多為上小腦動脈 SCA)壓迫所致,其他像是動脈瘤、動靜脈畸形、小腦橋腦腳腫瘤的壓迫,皆為比較罕見的原因。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- 5. 顯微血管減壓術:開刀進到小腦橋腦角,將壓迫三叉神經根的血管有效墊開區隔。 優點是治療效果良好,不容易導致重大面部麻木,但仍有感染、動脈或顱內神經受 傷的風險。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- ...血管減壓手術低 | | | (A) | 4. 三叉神經痛之顯微血管減壓術(microvascular decompression, | 99(一)專 | | | MVD) 主要是要減壓下列何種血管? | 醫五 -19 | | | (A) 上小腦動脈(superior cerebellar artery) | | | | (B) 後下小腦動脈(posterior inferior cerebellar artery) | | | | (C) 前下小腦動脈(anterior inferior cerebellar artery) | | | | (D) 基底動脈 (basilar artery ) | | | | • • • | | Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- c. 出血在 prepontine 或 peduncular cistern → basilar apex 或上小腦動脈(SCA)。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 
 ## Clinical Caveats
 

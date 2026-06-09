@@ -40,6 +40,7 @@ sources:
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch06]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Systemic lupus erythematosus, SLE (全身性紅斑狼瘡)'
   - 'Systemic lupus erythematosus, SLE'
@@ -54,7 +55,7 @@ tags:
 
 ## Summary
 
-多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+多系統自體免疫疾病，常侵犯皮膚、關節、腎臟、血液與中樞神經。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +95,11 @@ tags:
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch06]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 2. 系統性 (Systemic) 原因: - (1) 凝血異常(Coagulopathy):使用 anticoagulant、NSAID,或是血友病、肝臟衰竭、尿毒症。 - (2) 其他:高血壓、粥狀動脈硬化、SLE、Wegner's granuloma。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - 3. 紅斑性狼瘡(SLE):好發於女性的自體免疫疾病,藉免疫複合體沈積而造成發炎 反應和組織破壞。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - ...ultiple sclerosis),少數為病毒感染的後遺症或其它免疫疾病造成。 - (2) 分類:依發生部位分為 - a. 視神經乳頭炎 (papillitis):約佔視神經炎 35% - (a) 原因:各種感染及眼窩、鼻竇、顱底的發炎,紅斑性狼瘡等自體免疫反應及甲醇、鉛等中毒,但大多數找不到原因,常發生於小孩。 - (b) 眼底表現:視神經盤水腫充血,邊界模糊,視杯變平。長期不會變 MS。 - b. 球後視神經炎 (retrobulbar neuritis): - (a) 原因:主要為去髓鞘(demyelinating)疾病(常和多發性硬化症相關)。 - (b) 眼底表現:眼底完全正常。 - (3) 臨床症狀: 單眼的視力突然減退(視力模糊、色覺異常、立體感異常等), 眼球轉動 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...症肌無力 (myasthenia gravis): - (1) 簡介:為自體免疫疾病,最初症狀多在眼睛,主要為眼瞼下垂與複視;其次為口咽部肌肉無力,主要為吞嚥、說話、及咀嚼困難;再來為四肢及軀幹無力。有些病人伴隨有胸腺瘤(thymoma)或紅斑性狼瘡等。重症肌無力症可分為眼肌型重症肌無力症(ocular myasthenia gravis)及全身型重症肌無力症(generalized myasthenia gravis)。 - (2) 臨床症狀:眼瞼下垂或複視。 - (3) 徵候:眼瞼下垂、眼外肌麻痹、複視、瞳孔反應正常。 - (4) 診斷: edrophonium 測試, 血漿 acetylcholine 受器抗體濃度上升、肌電圖、影像學檢查(胸腺增生或胸腺瘤)等。 - a. e Source: [[sources/med6-book2-ch16|辰、神經眼科學]].

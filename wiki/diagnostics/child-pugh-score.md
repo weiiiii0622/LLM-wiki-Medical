@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book4-ch08]]"
   - "[[sources/med5-book4-ch10]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Child-Pugh score (Child-Pugh 分級)'
   - 'Child-Pugh score'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med5-book4-ch08]]
 - [[sources/med5-book4-ch10]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- 5. 肝臟系統:是否有 B 或 C 型肝炎、肝硬化(child-Pugh score)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - AE-PCOS, androgen excess and polycystic ovary syndrome; NICHD, Eunice Kennedy Shriver National Institute of Child Health and Human Development; PCOS, polycystic ovary syndrome. Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 常用名詞: 新生兒 (Newborn, Neonate) $\leq 1$ m/o,嬰兒 (Infant) 1 m/o~1 y/o,兒童 (Child) 1~12 y/o Source: [[sources/med5-book4-ch08|甲、概 論]].
 - (2) https://www.who.int/maternal\_child\_adolescent/topics/maternal/maternal\_perinatal/en/ Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
@@ -68,7 +71,6 @@ tags:
 - (C) 19. 陳女士,60歳,5年前診斷有 C 型肝炎相關之肝硬化。最近之檢驗 值為白蛋白(albumin)3.3 g/dL,凝血酶原時間(prothrombin time) 比對照值延長5秒,膽紅素2.5 mg/dL,理學檢查發現有輕度肝 腦病變(hepatic encephalopathy),腹部超音波檢查有大量腹水 (ascites)。陳女士之 Child-Pugh 分類為何? - (A) A (B) B (C) C (D) D Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - | (C) 26 | . 與肝硬化分級 Child-Pugh 系統 | 無關之項目為: | 96(一)專 | |--------|-------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------| | | (A) 白蛋白 | ( Source: [[sources/med3-book2-ch23|戊、肝硬化]].
 - (1) Curative (治癒性): - a. 手術切除:太大、太多顆、Child C、侵犯 hepatic trunk 或 IVC 的 HCC 無法手術 - b. 肝臟移植:同時有肝硬化及肝腫瘤者,可考慮移植同時解決兩個問題,亦為一根治方法,但須符合移植適應症,且捐贈器官來源少,較不易進行。需符合肝臟移植米蘭準則(Milan Criteria)才會有較好的移植預後:①不能有血管侵犯;②單顆HCC ®): 抑制 RAS、RAF 等生長因子接受器的 Secondary messenger,稱做 Multitargeted tyrosine kinase inhibitor; 早期用於治療 RCC,已核准用於 HCC;若有併發症(最常見:Hand-foot Skin Reaction)可減藥或須停藥。 Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
-- (D) 8. 一位 61 歲男性慢性 B 型肝炎病人,經檢查發現在肝臟右葉有兩個 肝細胞癌,直徑分別為 4 公分與 3.5 公分,左葉亦有一個肝細胞癌, 直徑為 1.5 公分,主肝門靜脈暢通,病人肝功能 Child-Pugh 分級為 A。在臺灣此病人最適當之初步治療方式為何? Source: [[sources/med3-book2-ch22|庚、肝腫瘤、肝癌]].
 
 ## Clinical Caveats
 

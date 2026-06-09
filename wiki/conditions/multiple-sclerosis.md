@@ -17,6 +17,7 @@ sources:
   - "[[sources/med6-book1-ch12]]"
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book3-ch09]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Multiple sclerosis, MS (多發性硬化症)'
   - 'Multiple sclerosis, MS'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、脊髓、腦幹與白質。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,12 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - [[sources/med6-book1-ch12]]
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book3-ch09]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (5) Multiple sclerosis • Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 6. Multiple sclerosis - (1) 定義: - a. 約 20% 的 multiple sclerosis 病患會出現 vertigo 與 nystagmus 的症狀。 - b. 起因為中樞神經的去髓鞘化,影響至前庭神經和與聽神經的功能。 - c. 須以 Brain MRI 做進一步的分析診斷。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - ii. 肌束陣彎(myokymia): 為一群運動單元連續反覆放電引起肌肉慢速收縮,該肌肉上的皮膚看到蠕動的情形,見於神經病變,分為臉部肌束陣彎(multiple sclerosis、brainstem neoplasm、Bell's palsy)和肢體肌束陣彎(radiation plexopathy、compression neuropathy、響尾蛇咬傷中毒)。 - \*聲音像 "marching soldiers" (正步走的士兵的腳步聲)。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - 3. 視神經炎 (optic neuritis): - (1) 簡介:常發生於 20 至 45 歲之女性。約 20~40% 的病人會合併多發性硬化症 (multiple sclerosis),少數為病毒感染的後遺症或其它免疫疾病造成。 - (2) 分類:依發生部位分為 - a. 視神經乳頭炎 (papillitis):約佔視神經炎 35% - (a) 原因:各種感染及眼窩、鼻竇、顱底的發炎,紅斑性狼瘡等自體免疫反應及甲醇、鉛等中毒,但大多數找不到原因,常發生於小孩。 - (b) 眼底表現:視神經盤水腫充血,邊界模糊,視杯變平。長期不會變 MS。 - b. 球後視神經炎 (retr Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...internuclear | | 轉動,且對側眼往顳 | longitudinal fasciculus) 受 | | ophthalmoplegia) | | 側轉動(外展)時會 | 到侵犯所致 | | | | 有眼球震顫 | -年輕人:多發性硬化症 | | | | | -老人:腦幹缺血性病變 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
@@ -67,8 +71,6 @@ CNS demyelinating disease，常有時間與空間多發性，侵犯視神經、�
 - 【詳解】Pseudobulbar palsy 的特性就是會引起情緒失禁。它是 損傷於大腦皮質投射至腦幹之間的運動路徑,致口咽部器官的 運動失調,如咀嚼、吞嚥及舌頭等功能失調。除了腦中風外, 其他的中樞神經病變亦可導致此症候群,如:多發性硬化症、 ALS、腦瘤等。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - (A) Multiple sclerosis (MS) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 - III. 去髓鞘疾病 (Demyelinating Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrop Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 再介紹去 髓鞘疾病,侵犯中樞神經為主的是多發性硬化症 (multiple sclerosis),侵犯周邊神經為主的是急性發炎性脫髓鞘型多發神經病變 (AIDP),AIDP 也是侵犯運動神經為主。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (A) 1.52 歲男性主訴雙手漸進性肌肉萎縮及無力,之後伴隨言語及吞 108(二)專 嚥困難,神經學檢查發現舌頭及手腳肌肉萎縮、肌束震顫 醫四-56 (fasciculation)和深部肌腱反射增強,但感覺系統並無異常。 下列何者為最可能之診斷? - (A) 肌萎縮性側索硬化(amyotrophic lateral sclerosis) - (B) 多發性硬化症 (multiple sclerosis) - (C) 多發性神經病變 (polyneuropathy) - (D) 肌肉性失養症 (muscular dystrophy) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 
 ## Clinical Caveats
 

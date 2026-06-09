@@ -32,6 +32,9 @@ sources:
   - "[[sources/med6-book2-ch08]]"
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch09]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'TORCH infections (TORCH 先天性感染)'
   - 'TORCH infections'
@@ -46,7 +49,7 @@ tags:
 
 ## Summary
 
-Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、肝脾腫大、黃疸、神經與眼耳病變。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -78,9 +81,15 @@ Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、�
 - [[sources/med6-book2-ch08]]
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch09]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 2. 帶狀皰疹後疼痛 (Postherpetic neuralgia, PHN): - (1) 定義: - a. Herpes zoster 感染,傷口癒合後,疼痛仍持續大於三個月,可稱為 PHN。 - b. 好發於老年人與免疫力低下者,治療方面也相當棘手。 - (2) 治療: - a. 感染急性期給予Antiviral drugs,但給予抗病毒的藥物並不能預防PHN的產生。 - b. 三環抗憂鬱劑 (tricyclic antidepressant drugs): amitriptyline、nortriptyline、desipramine。 - c. 抗 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
+- ...e。 - (2) 常見菌種: - a. Bacteria: S. pneumoniae · H. influenzae · M. catarrhalis · P. aeruginosa · P. mirabilis - b. Virus: CMV · measles · mumps · varicella zoster - (3) 臨床症狀: - a. 量眩感。 - b. 噁心嘔吐。 - c. 耳鳴。 - d. 聽力喪失急性發作。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 1. 疱疹性齒齦口腔炎(herpetic stomatitis)是由第一型單純疱疹病毒(herpes simplex virus)感染所引起。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - b. 其他像是子宮內感染(rubella、CMV、toxoplasmosis和syphilis)、產程中缺氧、腦炎或腦膜炎也會造成聽力障礙。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 單純疱疹性角膜炎 (Herpes simplex keratitis) Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - #### 帶狀疱疹性眼炎(Herpes zoster ophthalmicus) Source: [[sources/med6-book2-ch05|戊、角 膜]].
@@ -96,8 +105,6 @@ Toxoplasma、other、rubella、CMV、HSV 等先天感染群，可造成 IUGR、�
 - 【詳解】孕婦接種非活化病毒疫苗(如流行性感冒、狂犬病)、 類毒素(如白喉-百日咳-破傷風)和免疫球蛋白(如狂犬病) 是安全的。但不可接種活性疫苗(如麻疹-腮腺炎-德國麻疹、 水痘),可能會造成胎兒先天性感染;此外,接種活性疫苗後一 個月內應該避免懷孕,其中接種水痘疫苗,則建議三個月內要 避孕。 Source: [[sources/med6-book1-ch05|戊、其他(Others)]].
 - ii. 病毒:因為病毒會隨著腎移植一併進入病人體內,故為移植術後感染 的主要病源,也是引起長期術後死亡的首要原因。主要是皰疹病毒 (Herpes viruses: CMV、EBV、VZV、HSV), 其中 CMV 最常見, 故若捐腎者 CMV(+) 或受贈者本身有 CMV 病史時,則腎移植後三個 月要投予抗病毒藥物 valganciclovir。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (2) 菌種:分為兩大類 (a) 淋病 (Neisseria gonorrhoeae); (b) 非淋病 (Chlamydia trachomatis、Ureaplasma urealyticum、Trichomonas vaginalis、和 herpes simplex virus)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- ...s)、所有種類細菌,斑疹熱(Rocky Mountain spotted fever)。 - c. 黴菌 (Fungi): 所有種類。 - d. 寄生蟲(Parasites):Pneumocystis species infection, toxoplasmosis, paragonimiasis, among others。 - (2) 職業因素: - a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , kerosene, acetylene $\circ$ - (3) 腫 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (3) 血液免疫球蛋白 IgM 分析:梅毒(syphilis)、巨病毒(cytomegalovirus)、疱疹(herpes)、B 肝病毒(hepatitis B)。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 
 ## Clinical Caveats
 

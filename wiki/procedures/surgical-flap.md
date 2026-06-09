@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med6-book2-ch13]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Surgical flap (皮瓣手術)'
   - 'Surgical flap'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-帶有血供的組織轉移用於重建缺損，可依血流、組織組成與移動方式分類。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+帶有血供的組織轉移用於重建缺損，可依血流、組織組成與移動方式分類。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,12 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med6-book2-ch13]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- 1. 口腔癌的治療原則,最理想的治療方式是手術完全切除原發部位腫瘤,必要時加上 頸部淋巴廓清術。手術切除範圍須根據腫瘤位置、臨床及影像學檢查去評估擬定, 頸部淋巴廓清之範圍亦需依術前臨床檢查分期和原發腫瘤位置而決定。第四期的口 腔癌患者,通常需要接受大範圍的切除手術,通常需要整形外科的協助,使用皮瓣 進行重建。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 1. 口咽癌的治療方式包括手術、放射線治療、化學藥物治療、標靶治療及免疫治療等, 目前以化學放射線治療為主流,尤其以 HPV+ OPSCC 對於放射線及化學藥物反應 較好。傳統的手術針對腫瘤作大範圍手術廓清切除(必要時還需聯合整形外科作游 離皮瓣重建手術),手術後後遺症多,且常會犧牲掉部分吞嚥和言語功能,甚至需 要長期以鼻胃管進食,生活品質大受影響。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - (b) 臥床時,床頭角度勿超過30度,以減低剪力。如已做完皮瓣移植修補壓 瘡後,床頭角度勿超過15度。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (f) 手術縫合傷口,如有必要採皮瓣移植。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - ...模糊而缺少正常視覺刺激,使大腦 視覺皮質發育不良,造成視覺功能發育不良,須在六歲前矯正(人的視力發育 僅到六歲)。 - (3) 老花眼 (presbyopia): 四十歲後,因睫狀肌調視功能變差 (LASIK): 先以角膜顯微刨刀切開一層表皮瓣(flap),將其掀開,然後由準分子雷射切削角膜基質進行屈光矯正。但剩餘的角膜基質厚度必須至少大於 250 μm,避免角膜膨出。 - i. 相較於 PRK 和 LASEK 可以矯正的度數更多,根據角膜厚度矯正遠視至 4D、散光到 5D 及近視到 12D。 - ii. 與 PRK 相比, LASIK 傷口復原較快,較不疼痛,視力回復較快,基質混濁較少。 Source: [[sources/med6-book2-ch13|丑、光學屈光]].
@@ -65,8 +69,6 @@ tags:
 - 1. 很多人常有的疑問是皮瓣和植皮有什麼不同,皮瓣是不是一定包含皮膚?根據「Sabiston Textbook of Surgery 18th ed.」的定義「A flap is defined as a partially or completely isolated segment of tissue perfused with its own blood supply.」,也就是說皮瓣是「一個仍保有自身血液循環且被轉移的部分或完全組織」,並非一定要有皮膚,只是因為早期常用來作皮膚重建,故有「皮」瓣的稱呼。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - 2. 根據前面所提的 reconstructive ladder,當遇到缺乏血液循環的傷口,如韌帶、關節、 骨骼;或是傷口組織缺損相當多,無法單靠皮膚移植填補,就會考慮皮瓣手術。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - 4. 皮瓣手術(surgical flap):即為上圖最上面三層的 tissue transfer,如果是缺乏血液循環的傷口,如韌帶、關節、骨骼;或是傷口組織缺損相當多,無法單靠皮膚移植填補,就會考慮皮瓣手術。依照上圖,皮瓣可分為 local、distant、free 三種。Local flap 是傷口周邊的皮瓣。Distant flap 是離傷口距離稍微遠的皮瓣。Free flap 游離皮瓣,是從身體某塊組織連同其供應血管一起取下,然後在組織缺損處經由顯微手術接合血管,使組織得以存活治療傷口。 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- b. 外科:手術治療是唯一的方法。 - (a) 廣泛切除後兩端吻合 (extended end-to-end anastomosis): 將窄縮部分切除,再將剩餘動脈弓吻合接起。(下圖上) - (b) 鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty),將左鎖骨下動脈截斷,剩下的近端部分往窄縮部分填補,擴張動脈弓管徑。(下圖中) - (c) 布塊擴大術 (patch augmentation):將狹窄處劃開鬆開,補上 patch,擴大管腔。(下圖下) - (d) 若手術後再度狹窄,可考慮心導管氣球擴張術,或是置入血管支架。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- ①開放性動脈導管置放支架(stent) ②鎖骨下動脈皮瓣主動脈成形術(subclavian flap aortoplasty) ③布塊擴大術(patch augmentation) ④廣泛切除窄縮部分再兩端吻合(extended resection with primary anastomosis) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 
 ## Clinical Caveats
 

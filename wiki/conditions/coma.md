@@ -23,6 +23,8 @@ sources:
   - "[[sources/med6-book1-ch18]]"
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch09]]"
+  - "[[sources/med6-book4-ch07]]"
+  - "[[sources/med6-book4-ch08]]"
 aliases:
   - 'Coma (昏迷)'
   - 'Coma'
@@ -37,7 +39,7 @@ tags:
 
 ## Summary
 
-嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+嚴重意識障礙，需以 GCS、瞳孔、腦幹反射、代謝與結構病灶快速評估。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -60,9 +62,13 @@ tags:
 - [[sources/med6-book1-ch18]]
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch09]]
+- [[sources/med6-book4-ch07]]
+- [[sources/med6-book4-ch08]]
 
 ## Key Details From Sources
 
+- ...,使得瞳孔擴張、視力調 節麻痺(近物看不清)。 - (d) 心臟血管系統:心跳加速。 - (e) 腸胃道與泌尿道系統:抑制胃腸及膀胱的蠕動,造成便秘、尿滯留;此 藥物也會抑制胃酸的分泌。 - (f) 可通過 BBB。藥物過量時導致幻覺出現、昏迷。(當 atropine 過量時,可 使 用 physostigmine 作 為 解 毒 劑。Physostigmine 屬 於 cholinesterase inhibitor,藉由抑制 cholinesterase 的分解來達到刺激 muscarinic receptor 的作用。為三級胺,具脂溶性,可以過血腦障蔽。) Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
+- 2. 中樞神經系統:大量局部麻醉劑吸收後或是不小心打入血管中(intravascular),可能會對於中樞系統產生影響。 - (1) 初期症狀:可能會產生嘴巴內產生金屬味 (metallic taste)、舌頭與口部周圍麻木、耳鳴、頭暈、噁心嘔吐、視幻覺。 - (2) 中樞刺激:不安、焦慮、震顫、痙攣、癲癇發作及幻覺。 - (3) 中樞抑制:昏迷、延腦呼吸中樞受到抑制,產生窒息而導致死亡。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
 - 2. 腦傷的預後因子: - (1) 昏迷的程度及時間:以腦傷後 24 小時內的 GCS 來判斷昏迷的程度,重度和長期昏迷患者預後較差。GCS分數 3~8 為嚴重、9~12 為中度、13~15 為輕度。此外,腦幹反射仍保有的預後較好: - a. 頭眼反射(Doll's eye sign):將病人頭部轉動,眼球會轉向相反方向,例如頭往右轉,眼球會向左轉。 - b. 瞳孔對光反射 (Light reflex)。 - c. 前庭-動眼反射 (Oculo-vestibular refl Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - | 預後因子 | 預後較差 | 預後較好 | |--------------------|----------------------|------| | Glasgow coma scale | 7 | | 電腦斷層 | 大量出血、腦水腫、mass effect | 正常 | | 年紀 | 老年 | 年輕人 | | 光反射 | 瞳孔擴大 | 瞳孔收縮 | Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 3. 臨床應用範圍極廣,包括週邊神經病變、脊髓外傷、腦幹及視丘病變、腦血管病變、 及評估昏迷患者之預後等,甚至應用於脊椎手術時的監視以減少手術後遺症。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
@@ -79,8 +85,6 @@ tags:
 - (A) 17. 一位 22 歲年輕人未戴安全帽騎摩托車發生車禍,在現場意識喪失約 3 分鐘,送到急診室時意識清楚,昏迷指數 15 分,右側顳部有疼痛腫脹情形,先給予照 X 光,但在檢查完病人後,意識昏迷,且右側瞳孔逐漸放大,X 光可見右側顳骨線性骨折,請問最有可能的情況為: Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
 - 1. 鈉:正常血鈉濃度為 135~145 mEq/L。 - (1) 低血鈉(hyponatremia)症狀為輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。 - a. Pseudohyponatremia:發現病患低血鈉,首先要排除高血糖、高血脂等高滲透 壓造成的相對低血鈉,真的低血鈉滲透壓是低的。排除 pseudohyponatremia 後,再依病人體液狀況做鑑別診斷,分為接下來三種。 - b. Hypervolemia:心、肝、腎功能不佳,過多的體液被留滯在體內,體液有效容積低下,造成低血鈉,治療方式為給予利尿劑脫水。 - c. Euvolemia:體液狀況無明顯異常,原因有 SI Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - 4. 鎂:血鎂正常濃度為 1.5~2.5 mEq/L。 - (1) 低血鎂 (hypomagnesemia): - a. 症狀:肌腱反射增強、抽搐、眼球震顫、癲癇,以及低血鉀和低血鈣。 - b. 原因有慢性腹瀉、利尿劑、酗酒、糖尿病併多尿、hyperaldosteronism。 - c. 治療可口服或靜脈補充鎂離子。 - (2) 高血鎂 (hypermagnesemia): - a. 症狀: 肌腱反射減低、呼吸抑制、昏迷、嗜睡。 - b. 原因: 腎衰竭居多、攝取過多、甲狀腺功能低下或鋰鹽攝取過多。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 【詳解】(A) 低血鈉的症狀從輕微的無力,食慾不佳,到噁心、嘔吐,甚至是抽搐到昏迷。(B) 130~135 mEq/L 為 mild hyponatremia,121-129 mEq/L 為 moderate hyponatremia,< 120 mEq/L 為 severe hyponatremia。(C) 無症狀低血鈉的治療,其血清鈉離子濃度上升速率不超過 0.5 mEq/L/hr,一天不超過 8~12 mEq/L;如果是有症狀之低血鈉則血清鈉離子濃度上升速率為 0.5~1.0 mEq/L/hr,但一天不超過 6 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (D) 7. 依據「安寧緩和醫療條例」之規定,末期病人無簽署意願書且意 識昏迷或無法清楚表達意願時,由其最近親屬出具同意書代替之。 有①配偶 ②成年孫女 ③父 ④弟弟,四位最近親屬,意見不一 時,優先次序為: Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 

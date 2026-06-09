@@ -33,6 +33,10 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch14]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch13]]"
 aliases:
   - 'Staphylococcus aureus infection (金黃色葡萄球菌感染)'
   - 'Staphylococcus aureus infection'
@@ -47,7 +51,7 @@ tags:
 
 ## Summary
 
-可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚軟組織感染、菌血症、心內膜炎、肺炎、食物中毒與 toxin syndromes。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +84,20 @@ tags:
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch14]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch13]]
 
 ## Key Details From Sources
 
+- 2. 致病菌種: - (1) 細菌(90%以上為細菌性感染): - a. Pseudomonas aeruginosa ° - b. Pseudomonas vulgaris · - c. E. coli ° - d. S. aureus o - (2) 黴菌: - a. Candida albicans o - b. Aspergillus niger · Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 4. 處置: - (1) 清潔:使用溫水清洗灌注外耳道,並可使用耳吸管將壞死上皮組織與灰塵污物取出。 - (2) 發炎與感染控制:使用含有抗生素、抗黴菌藥物、類固醇和止痛劑的耳滴劑。 - (3) 口服抗生素使用在較嚴重的外耳感染或是免疫力低下的病患,需選擇可以涵蓋 *Pseudomonas aeruginosa、S. aureus*,並與耳滴劑一起搭配使用。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (4) S. aureus and S. pyogenes • Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 1. 深頸部感染的致病菌種通常是混合需氧菌與厭氧菌,並且以口腔內菌種為多數。 - (1) Group A beta-hemolytic streptococcal species (Streptococcus pyogenes) • - (2) Alpha-hemolytic streptococcal species (Streptococcus viridans, Streptococcus pneumoniae) · Staphylococcus aureus · - (3) 常見厭氧菌: Bacteroides melaninogenicus、Bacteroides oralis。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- (4) 抗生素治療。通常為 Staphylococcus aureus、Streptococcus viridans 的感染。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- (3) 病原菌: - a. 細菌性:S. pneumoniae、H. influenzae、M. catarrhalis、S. pyogenes、S. aureus、anaerobes。 - b. 黴菌:Aspergillus。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 3. 其他包括: - (1) Staphylococcus aureus • - (2) Streptococcus pneumoniae • - (3) Haemophilus influenzae non-type B • - (4) Haemophilus parainfluenzae • Source: [[sources/med6-book4-ch13|丙、喉 科]].
 - (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - | 原因 | • 哺乳期間,細菌從乳頭傷口感染乳房 | | |-----|---------------------------------------------------------|--| | 致病菌 | • 最常見為 Staphylococcus aureus (金黃色葡萄球菌) | | | | • 其他如 Streptococci viridans 和 E. coli 等 | | | 症 狀 | • 乳房紅腫、脹痛、發燒和冷顫 | | | 處置 | • 消炎止痛藥使用伴隨冰敷以減輕乳房脹痛 | | | | • 持續哺乳或擠出乳汁,可避免膿瘍形成 | | | | • 經驗性抗生素須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacilli Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - (D) 乳腺炎最常見的細菌是 Staphylococcus aureus Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
@@ -94,12 +109,6 @@ tags:
 - ...-----------|--------------------------------------------|-------------------------------| | Gram-positive cocci | | | | Staphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nit Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
 - (D) 金黃色葡萄球菌造成的包皮龜頭炎 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 - 1. 細菌性肝膿瘍:細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumonia),除此之外,大腸桿菌、金黃色葡萄球菌也是常見的致病菌種。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- (C) 最常見的致病菌為 Staphylococcus aureus Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- 1. 哺乳乳腺炎 (Lactational mastitis): - (1) 前言:是一種乳房組織的感染發炎現象, Staphylococcus aureus 為主要的致病菌。 好發於哺乳的婦女,但並非絕對。 - (2) 症狀: - a. 發燒、畏寒。 - b. 乳房的紅、腫、熱、痛。 - c. 乳頭分泌物較不常見。 - d. 腋下水腫與疼痛,與 lymphadenopathy 相關。 - (3) 治療: - a. 抗生素治療 - b. 可增加哺乳或母乳收集的頻率,可達到症狀緩解的效果。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- 1. 急性心內膜炎:病情較惡,病人大多無潛在性心臟病灶,常見致病菌為 S. aureus、Streptococcus pyogenes、Streptococcus pneumoniae、Pseudomonas aeruginosa。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- ...術治療 | 醫五 -10 | | (A) 21. 承上題,若 stool culture 長出何種細菌,則會被認為是 antibiotic associated colitis? (A) Clostridium difficile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - 100(一)專醫五-11 | | (D) 22. 承上題,此時會選擇何種藥物治療? (A) 注射 clindamycin | 100(一)專醫五-12 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- (4) 併發症:因反覆抓癢導致金黃色葡萄球菌或疱疹病毒(eczema herpeticum) 感染。少數會有錐形角膜(keratoconus)、白內障(cataracts)或角膜結膜炎(keratoconjunctivitis)。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 
 ## Clinical Caveats
 

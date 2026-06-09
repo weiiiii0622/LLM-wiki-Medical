@@ -41,6 +41,7 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Uremia (尿毒症)'
   - 'Uremia'
@@ -55,7 +56,7 @@ tags:
 
 ## Summary
 
-腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腎衰竭造成尿毒素累積，可引發神經、心包膜、腸胃與血液異常。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +97,11 @@ tags:
 - [[sources/med5-book5-ch02]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 2. 系統性 (Systemic) 原因: - (1) 凝血異常(Coagulopathy):使用 anticoagulant、NSAID,或是血友病、肝臟衰竭、尿毒症。 - (2) 其他:高血壓、粥狀動脈硬化、SLE、Wegner's granuloma。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...-------|--------------------------------------------| | | ・ 腎血管阻力下降,腎血流增加 80%,腎絲球過濾率增加 40~50% | | | (22~24 週達到高峰),使得血中的 BUN 和 creatinine 數值是下降 | | L. Affal, 1 | 的,另外,可能會有輕微的尿蛋白 | | 輸尿管 | • 黃體素使得輸尿管的蠕動減少,加上增大的子宮和支持韌帶之 | | | 壓迫,造成尿液的滯留、甚至逆流,導致腎盂及輸尿管擴大, | | | 形成 hydro-nephrosis 及 hydroureter,容易引起泌尿道感染 | | 膀胱 | • 黃體素使得膀胱輸尿管瓣膜的功能不全,加上膀胱壓增加,造 | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (D) 22. 42 歲李先生,罹患尿毒症,接受血液透析治療中。最近發現有表 102(二)專 淺型膀胱癌,剛接受經尿道膀胱腫瘤切除術,他希望儘快能做腎 醫五-70 臟移植,請問最理想的時間是? - (A) 術後 3 個月 - (B) 術後 6 個月 - (C) 術後1年 - (D) 術後 2 年 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (A) 28. 病患蔡先生,現年 40 歲,因尿毒症而接受血液透析共 10 年,換腎也等待 6 年,此次住院前一天晚上被通知住院並接受腎臟移植。捐贈者是一位 55 歲女性腦死病患,實驗室檢查發現血清內肌酸酐值高至 6.0 mg/dL,血清內尿毒素氮為 54 mg/dL,主治醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 c.c.。以下什麼情況最可能解釋移植腎沒有發揮功能? Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
@@ -116,7 +119,6 @@ tags:
 - 【詳解】捐贈者的 creatine 和 BUN 就很高,本身腎臟就已不好, 移植後腎臟功能很高機率會不好,最可能的原因為腎小管已壞 死,所以沒有功能。腎臟移植術後血管拴塞的情形較少見。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (D) 11. 病患 32 歲女性,第一型糖尿病合併尿毒症,於 6 個月前接受胰腎同時移植。2 星期前因急性排斥,接受 3 天的高劑量類固醇(prednisolone 500 mg)靜脈注射,最近因發燒至 39.5℃,呼吸急喘,乾咳,肺部 X 光呈現兩側對稱性下肺部浸潤(bilateral symmetric lower pulmonary infiltration),血液白血球為 3,400/mm³。此病人之診斷最可能為何? Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...ion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabetic ketoacidosis, Propylene glycol, Isoniazid, Lactic acidosis, Ethylene glycol, Rhabdomyolysis, Salicylates)。若 AG 正常表示為 HCO3-的流失,例如腹瀉、利尿劑、腎小管壞死。 - d. 代謝性鹼中毒:NG 引流過多、嘔吐、利尿劑的使用或 Aldosterone 過多等。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 【詳解】OPCD 係影響到 cerebellum, pons 和 inferior olives 的神經退化性疾病。包含遺傳性脊髓小腦失調症(spinocerebellar ataxia)和 multiple system atrophy。其症狀主要為漸近性軀幹及肢體失調,並包含其他神經學症狀,如 parkinsonism, dystonia等。頭部 MRI 影像可見小腦萎縮,或是橋腦(pons)出現十字線(hot cross bun sign)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 
 ## Clinical Caveats
 

@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book4-ch09]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Goiter (甲狀腺腫)'
   - 'Goiter'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-甲狀腺腫大可為 diffuse 或 nodular，功能可亢進、低下或正常，需依症狀、功能與惡性風險評估。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺腫大可為 diffuse 或 nodular，功能可亢進、低下或正常，需依症狀、功能與惡性風險評估。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book4-ch09]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- (4) O Obstruction:檢查嘴巴或咽喉部位是否有異物、腫瘤、甲狀腺腫大、膿瘍、 發炎腫大、流血或血塊? Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - | 症 狀 | · 心搏過速、焦慮、手抖、減緩母親增重、妊娠劇吐 | |-----|--------------------------| | 表 徵 | ・甲狀腺腫大、突眼 | | 實驗室 | ・TSH ↓和 free T4 ↑ | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 1. 骨頭惡性腫瘤有一定的比率(超過一半以上)是轉移癌。來源以下面幾個最為常見: - (1) 肺癌。 - (2) 乳癌。 - (3) 前列腺癌。 - (4) 甲狀腺腫瘤。 - (5) 肝癌。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - G. 甲狀腺腫瘤(Thyroid tumor) 70 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].

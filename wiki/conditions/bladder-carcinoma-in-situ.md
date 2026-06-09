@@ -7,6 +7,7 @@ sources:
   - "[[sources/med5-book5-ch02]]"
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Bladder carcinoma in situ, CIS (膀胱原位癌)'
   - 'Bladder carcinoma in situ, CIS'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-膀胱高風險扁平原位病灶，進展風險高，常以 TURBT 後膀胱內 BCG 治療與密切追蹤。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膀胱高風險扁平原位病灶，進展風險高，常以 TURBT 後膀胱內 BCG 治療與密切追蹤。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book5-ch02]]
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch09]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...--------------------------|--|--| | T Category | T Criteria | | | | TX | Primary tumor cannot be assessed | | | | Tis | Carcinoma in situ | | | | T1 | Tumor $\leq 2$ cm, $\leq 5$ mm depth of invasion (DOI) | | | | | DOI is depth of invasion and not tumor thickness. | | | | T2 | Tumor $\leq 2$ cm, DOI $> 5$ mm and $\leq 10$ mm | | | | | $or \text{ tumor} > Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- ...tumor cannot be assessed | | | | Т0 | No tumor identified, but EBV-positive cervical node(s) involvement | | | | Tis | Carcinoma in situ | | | | T1 | Tumor confined to nasopharynx, or extension to oropharynx and/or nasal | | | | | cavity without parapharyngeal involvement | | | | T2 | Tumor with extension to parapharyngeal space, and/or adjacent soft tis Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- ...---------------------------------|--| | T Category | T Criteria | | | TX | Primary tumor cannot be assessed | | | Tis | Carcinoma in situ | | | T1 | Tumor limited to one subsite of hypopharynx and/or 2 cm or smaller in greatest dimension | | | T2 | Tumor invales more than one subsite of hypopharynx or an adjacent site, or measures larger than 2 cm but not Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - b. Dysplasia system 為過去切片組織學分類,結果包括 Mild dysplasia、Moderate dysplasia、Severe dysplasia、CIS(Carcinoma in situ) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (C) 2.24 歲的婦女,在門診時被發現大陰唇有一小於1公分但突起的小 腫瘤,經切片檢查後,最有可能的診斷為: - (A) 原位癌 (carcinoma in situ) - (B) 黑色素腫瘤 (melanoma) - (C) 上皮內包性囊腫 (epidermal inclusion cyst) - (D) 汗管腺瘤 (hidradenoma) Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - ii. 根除性膀胱切除(radical cystectomy): 切除所有前骨盆腔器官。對 侵犯肌肉層(T2)的膀胱癌是黃金標準(gold standard)治療,另外 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術。注意此手術為大手術,故術前需停止服用抗凝血劑一週。且由於手術時間長,故腿部深層靜脈血栓可能於術後發生,手術的死亡率約為 2%。 - (i) 移除所有前骨盆腔器官。 - ①男性:移除膀胱及周圍脂肪、前列腺、儲精囊。 - ②女性:移除膀胱及周圍脂肪、卵巢、子宮、子宮頸、陰道上三分之一、尿道。(注意:骨盆淋巴結摘除與否,對預後無助益。) - (ii) 術後復發:復發率 10%,通常在三年內發生。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].

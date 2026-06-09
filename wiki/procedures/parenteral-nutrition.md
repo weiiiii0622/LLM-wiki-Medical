@@ -11,6 +11,8 @@ sources:
   - "[[sources/med5-book3-ch14]]"
   - "[[sources/med5-book3-ch17]]"
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch08]]"
 aliases:
   - 'Parenteral nutrition, PN/TPN (靜脈營養)'
   - 'Parenteral nutrition, PN/TPN'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-經靜脈給予營養，適用於腸道不可用或需求無法由腸道滿足時，需監測感染、代謝與肝膽併發症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+經靜脈給予營養，適用於腸道不可用或需求無法由腸道滿足時，需監測感染、代謝與肝膽併發症。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,13 @@ tags:
 - [[sources/med5-book3-ch14]]
 - [[sources/med5-book3-ch17]]
 - [[sources/med5-book4-ch02]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch08]]
 
 ## Key Details From Sources
 
+- b. 給予藥物:可以藉由 CVC 給予病人化療藥物、升壓劑、Total parenteral nutrition (TPN)。由於這些藥物較屬刺激性,若從周邊給予,可能會造成靜脈炎 (phlebitis)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 3. 20% lipid emulsion(TPN 配方裡的脂肪濃度差不多就是 20%)是局部麻醉劑中毒的解藥。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
 - (1) 治療計劃須依照發生原因、引流量、病患臨床狀況而定。一般來說,大多數病 人都會經歷過短暫胸管引流、禁口進食、全靜脈營養 (total parenteral nutrition, TPN) 及觀察。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (2) 保守治療:中鏈三酸甘油脂飲食或全靜脈營養。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 3. 保守治療: - (1) 體液、電解質之矯正。 - (2) 置放鼻胃管引流。 - (3) 禁食,使用周邊靜脈營養補充。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].

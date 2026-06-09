@@ -10,6 +10,7 @@ sources:
   - "[[sources/med6-book2-ch07]]"
   - "[[sources/med6-book2-ch04]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'HLA typing and crossmatch (HLA 配對與交叉試驗)'
   - 'HLA typing and crossmatch'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-器官移植前評估 donor-recipient compatibility 與 preformed antibodies。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+器官移植前評估 donor-recipient compatibility 與 preformed antibodies。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med6-book2-ch07]]
 - [[sources/med6-book2-ch04]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- 1. 家族遺傳:一等親內如果有人罹患鼻咽癌,此人發生鼻咽癌的機率為一般人的十多倍。可能與 HLA-A2 或某些染色體的基因有關。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - (1) 症狀:急性前葡萄膜炎會畏光、疼痛、紅眼、視力下降、流淚,多與 HLA-B27 抗原有關;慢性前葡萄膜炎可能無症狀或有漂浮物。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - 1. 與自體免疫相關的葡萄膜炎,以下舉出常見的: - (1) HLA-B27 抗原關聯性急性前葡萄膜炎: Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - a. 僵直性脊椎炎(Ankylosing spondylitis):主要影響 sacroiliac joint (sacroiliitis)及中軸骨(spondylitis)。約90%病患 HLA-B27(+),約30%病患有急性前葡萄膜炎,兩眼常不同時發生,且易復發,嚴重時前房會有纖維性滲出物。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].

@@ -12,6 +12,7 @@ sources:
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book4-ch08]]"
 aliases:
   - 'Cesarean delivery (剖腹產)'
   - 'Cesarean delivery'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-經腹壁與子宮切開娩出胎兒，適應症包含胎兒窘迫、產程遲滯、胎位異常、前置胎盤等。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+經腹壁與子宮切開娩出胎兒，適應症包含胎兒窘迫、產程遲滯、胎位異常、前置胎盤等。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,11 @@ tags:
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch13]]
+- [[sources/med6-book4-ch08]]
 
 ## Key Details From Sources
 
+- ...licus): 髖關節 (Hip)、TURP、自然生產 (vaginal delivery)。 - e. T6-T7 (xiphoid):下腹部手術、闌尾切除 (appendectomy)。 - f. T4 (nipple): 上腹部手術、剖腹產 (C-section)。 - (4) 禁忌症:病患無法配合、凝血功能異常、局部有感染現象、IICP。 - (5) 副作用:Postdural puncture headache (PDPH)。 - a. 原因:脊髓硬腦膜(dura)遭受穿刺後若沒有癒合的很好造成 CSF 持續滲漏,會使病人發生低壓性的頭痛(low pressure headache)和噁心的現象,通常在接受麻醉後的 1~2 天發生,坐起來會加劇、平躺的話症狀會緩解。好 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
 - ...vanelli maneuver) | 將胎頭推回骨盆腔(旋轉胎頭呈 occiput | | | anterior position,再以單手手掌將胎頭 | | | 從伸展轉為屈曲,並施壓將胎頭儘量往 | | | 產婦頭部方向推入),再施行剖腹產。 | | Abdominal rescue | 當 Za vanelli maneuver 失敗時,施行子 | | | 宮下橫切開術 (low transverse hystero- | | | tomy),以經腹手法將胎兒前肩轉成斜 | | | 徑,再讓胎兒從陰道分娩。 | | • 恥骨聯合切開術 (symphysiotomy) | 將恥骨聯合分開可以有效地打開產婦 | | | 的骨盆,以緩解肩難產,但此法會造 | | | 成產婦很 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - 6. 預防性剖腹產(prophylactic cesarean section):不建議在懷疑巨嬰妊娠時,常規提早引產或預防性剖腹產。但對於肩難產的高風險族群,可選擇性地使用預防性剖腹產。如下情形: - · 2002 年美國婦產科醫學會 (ACOG) 建議非糖尿病產婦之胎兒預估體重大於 5,000 克或糖尿病產婦之胎兒預估體重大於 4,500 克時,可考慮施行預防性剖腹產 - 前胎次併發肩難產,尤其是胎兒臂神經叢有損傷的個案,可考慮施行預防性剖腹產 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
 - 【詳解】2002年美國婦產科醫學會(ACOG)建議非糖尿病產婦之胎兒預估體重大於5,000克/糖尿病產婦之胎兒預估體重大於4,500克時,可考慮施行預防性剖腹產。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].

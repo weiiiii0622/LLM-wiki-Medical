@@ -49,6 +49,7 @@ sources:
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch15]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Radiation therapy (放射治療)'
   - 'Radiation therapy'
@@ -63,7 +64,7 @@ tags:
 
 ## Summary
 
-以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以游離輻射治療局部或區域腫瘤，也可用於症狀緩解。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +113,12 @@ tags:
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch15]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- a. 鼻咽癌是屬於較為放射敏感的腫瘤,第一期的鼻咽癌單用放射治療效果就很好。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- (2) 第二至第四期:合併放射治療和化學治療。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...(4) 腫瘤特性: 腫瘤常有鈣化現象,這些鈣化點會呈粉筆白(chalky white)的病灶。在 CT 上可見鈣化點,對於鑑別診斷很有幫助。 - (5) 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 6. 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
@@ -131,8 +135,6 @@ tags:
 - (D) 4. 有關惡性骨腫瘤的敘述,下列何者最正確? - (A) Enneking stage IIB 是指高惡性度,同一腔室內的病灶(intracompartmental lesion ) - (B) 目前惡性骨肉瘤(osteosarcoma)的標準治療,是先切除腫瘤,再輔以術後放射治療,以避免局部復發 - (C) 惡性軟骨瘤(chondrosarcoma)的治療主要是手術切除病灶 - (D) 肢體保留手術與截肢手術相比,局部腫瘤復發率較高,同時接受肢體保留手術患者存活率較低 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (1) 局部侵犯: T1~T3a + N0M0。 - a. 治療方式:觀察、根除性攝護腺切除術或放射治療。使用哪種方式依癌症 PSA、分級、分期、年齡、病人意願而定。 - (a) 依癌症風險分類 (PSA、分級、分期): - i. 攝護腺癌的風險分類 (D'Amico Risk groups): - (i) 低風險: PSA ≤ 10,且 Gleason ≤ 6,且 clinical stage T1 or T2a。(注意三個都要成立) - (ii) 中風險: PSA 10~20, Gleason 7, 或 clinical stage T2b。 - (iii)高風險:PSA > 20, Gleason 8~10,或 clinical stage T2c or T3a。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - (i) 低風險:①手術、②放射治療、③觀察。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (ii) 中風險:①手術、②放射治療+賀爾蒙治療 6 個月。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (c) 放射治療:僅僅使用在無法接受膀胱全切除的病患(年紀太大、有手術禁忌、共病太多不宜手術),因為治療後復發率高達 50%,對於 T2、T3 腫瘤治療後五年存活率僅 30%,有 15%的人治療後有顯著的腸胃與膀胱 副作用。使用方式為 6~8 週內給予腫瘤共 7,000 cGy 輻射傷害。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 
 ## Clinical Caveats
 
@@ -145,6 +147,8 @@ tags:
 - [[conditions/cervical-cancer|Cervical cancer (子宮頸癌)]]
 - [[conditions/ewing-sarcoma|Ewing sarcoma (尤文氏肉瘤)]]
 - [[conditions/glioblastoma|Glioblastoma, GBM (膠質母細胞瘤)]]
+- [[conditions/nasopharyngeal-carcinoma|Nasopharyngeal carcinoma, NPC (鼻咽癌)]]
+- [[conditions/oral-cavity-cancer|Oral cavity cancer (口腔癌)]]
 - [[conditions/rhabdomyosarcoma|Rhabdomyosarcoma (橫紋肌肉瘤)]]
 
 ## Follow-up

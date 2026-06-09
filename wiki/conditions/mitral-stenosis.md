@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book2-ch04]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Mitral stenosis (二尖瓣狹窄)'
   - 'Mitral stenosis'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-常與風濕性病變相關，造成左心房壓上升與肺鬱血。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常與風濕性病變相關，造成左心房壓上升與肺鬱血。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ tags:
 - [[sources/med5-book2-ch04]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...低體溫的影響 31. 下列何者不是手術中生理功能監測之必備項目? (A) 腦波 (B) 心電圖 (C) 血壓 (D) 血氧飽和度 32. 下列何者不會影響 CVP 測量循環血量之正確性? (A) 病人個別之差異 (B) 慢性肺氣腫 (C) 二尖瓣狹窄 | Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - ...llitis):約佔視神經炎 35% - (a) 原因:各種感染及眼窩、鼻竇、顱底的發炎,紅斑性狼瘡等自體免疫反應及甲醇、鉛等中毒,但大多數找不到原因,常發生於小孩。 - (b) 眼底表現:視神經盤水腫充血,邊界模糊,視杯變平。長期不會變 MS。 - b. 球後視神經炎 (retrobulbar neuritis): - (a) 原因:主要為去髓鞘(demyelinating)疾病(常和多發性硬化症相關)。 - (b) 眼底表現:眼底完全正常。 - (3) 臨床症狀: 單眼的視力突然減退(視力模糊、色覺異常、立體感異常等), 眼球轉動時會痛。 - (4) 徵候: 患眼色覺異常, 視野呈中心盲點, 相對性輸入性瞳孔缺損(RAPD positive), 視覺誘發電位振幅減低及潛伏 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - 1. 僧帽瓣狹窄 (mitral stenosis, MS): - (1) 正常成人的僧帽瓣口徑約 4~6 cm²,當口徑變窄,使得左心房流向左心室之血流不順,血液滯留於左心房,且左心室舒張末期,左心房須作更大的功,才能將血液推進左心室。 - (2) 口徑小於 1.5 cm² (or 2 cm²) 為 moderate MS,口徑小於 1 cm² 為 severe MS。 - (3) 長久下來,左心房因壓力上升而擴大,壓力逆著血流方向回傳,導致肺靜脈壓 上升甚至肺動脈高壓。而右心室為了 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (b) 瓣膜氣球導管擴張術(balloon mitral valvuloplasty):將導管放置入左心, 膨脹氣球擴張狹窄的瓣膜,對沒有鈣化且輕度或中度 MS 效果佳,禁用 於瓣膜腱索鈣化及 MR (mitral regurgitation)的患者。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
@@ -66,7 +69,6 @@ tags:
 - ...-------------| | Ankylosing spondylitis (AS) | B 27 | 0.3 | | Goodpasture's syndrome | DD 4 | 1 | | Multiple sclerosis (MS) | DR 2 | 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin-dependent diabetes mellitus (IDDM) | DR 3/4 | 1 | | Rheumatoid arthritis (RA) | DD Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - (a) Atrial fibrillation (Af): 臨床上相當常見,因心臟衰竭或二尖瓣狹窄導致心房擴大,造成心房肌肉容易放電,臨床上常以阻斷 AV node 的藥物,防止心室速率過快。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 - (1) PR interval:表示房室間傳導的狀況,若延遲> 5 格(200 ms)則表示有房室間傳導阻滯,稱為 AV block,依不同的位置又分為幾型,其中 1st degree、Type I 2nd degree 比較沒關係,有症狀再治療,Type II 2nd degree、3rd degree 較嚴重,需給予節律器。 - a. 1st degree AV block:僅有 PR interval > 5 格(200 ms)。 - b. Type I 2nd degree AV block: 加上 P 及 QRS 漸行漸遠。 - c. Type II 2nd degree AV block: 加 上 QRS 突然消失。 - d. 3rd degree AV block: P及 QRS 各跳各的。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (2) QRS interval:表示左、右希氏束的傳導狀況,若延遲>3格(120 ms),表示有希氏束傳導阻礙(Bundle branch block),這些傳導阻滯可能是希氏束的血液供應減少(如 AMI 時)或心室肥大等其他因素造成。 - a. Left Bundle branch block (LBBB): Lead V1 可見典型深 V。(記憶:LV) - b. Right Bundle branch block (RBBB): Lead V1 可見典型的兔耳朵。 (記憶:R = Rabbit) - c. Interventricular conduction block (IVCD):沒有以上典型發現,但 QRS > 3 格。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
 
 ## Clinical Caveats
 

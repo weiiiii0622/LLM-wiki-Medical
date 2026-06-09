@@ -8,6 +8,7 @@ sources:
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch17]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Enucleation (眼球摘除術)'
   - 'Enucleation'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-摘除整個眼球並保留眼外肌與眼眶內容物，可用於眼內惡性腫瘤、嚴重外傷或疼痛盲眼。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+摘除整個眼球並保留眼外肌與眼眶內容物，可用於眼內惡性腫瘤、嚴重外傷或疼痛盲眼。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch17]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- (pseudopodia)深入腺體組織,故手術不應只針對腫瘤部分作 enucleation (只作摘除的復發率可達 30%),而應作腮腺切除 (parotidectomy)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - E. 眼球摘除 (Enucleation) 與義眼 (Ocular prosthesis) 177 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - #### E. 眼球摘除 (Enucleation) 與義眼 (Ocular prosthesis) Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 1. 眼球摘除 (enucleation) 的適應症: - (1) 眼內惡性腫瘤 (primary intraocular malignancies),如小孩視網膜胚母細胞瘤或成人的黑色素瘤,目的要可提供病理切片看是否已侵犯出眼球。 - (2) 疼痛又無視力的眼球,如青光眼末期。 - (3) 為預防或治療交感性眼炎,故摘除受傷嚴重的那眼的眼球。 - (4) 失去視覺功能,也失去眼球的形狀,為了美觀可摘除而換義眼。 Source: [[sources/med6-book2-ch15|卯、眼眶]].

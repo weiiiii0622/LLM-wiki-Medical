@@ -25,6 +25,7 @@ sources:
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book2-ch04]]"
   - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'AIDS (後天免疫缺乏症候群)'
   - 'AIDS'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book2-ch04]]
 - [[sources/med6-book2-ch07]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 分成非侵犯性與侵犯性黴菌性鼻竇炎。侵犯性黴菌性鼻竇炎幾乎都發生在免疫低下者,如糖尿病、白血病、洗腎、化療、移植後服用免疫抑制劑、後天免疫缺乏症候群等病人;非侵犯性黴菌性鼻竇炎好發於免疫功能正常者。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - B. 後天免疫不全症候群(Acquired immunodeficiency syndrome) *210* Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - #### B. 後天免疫不全症候群 (Acquired immunodeficiency syndrome) Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (4) 接觸性軟疣性結膜炎(Molluscum contagiosum conjunctivitis):多發生在年輕人 或 AIDS 病人。病灶在眼瞼邊緣呈現白、肚臍狀小結節。 Source: [[sources/med6-book2-ch04|丁、結 膜]].

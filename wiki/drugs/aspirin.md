@@ -44,6 +44,8 @@ sources:
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Aspirin (阿斯匹靈)'
   - 'Aspirin'
@@ -58,7 +60,7 @@ tags:
 
 ## Summary
 
-抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗血小板藥物，用於冠心症血管保護；亦可誘發 aspirin-sensitive asthma。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -102,9 +104,15 @@ tags:
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- B. American Society of Anesthesiology classification (ASA classification) 5 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- #### B. American Society of Anesthesiology classification (ASA classification) Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- | ASA | 定義 | 舉例(不限於下列情形) | 死亡率 | |-----|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---- Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- (C) 治療可以給予 morphine, oxygen, aspirin, nitroglycerine Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - ...| | | | ・使用 GnRH agonist 作為破卵針 | | | | | | ・ 在打破卵針當天開始使用 dopamine agonist ( 如:cabergoline) | | | | | B級(證據尚可) | ・冷凍胚胎・使用阿斯匹靈・給予鈣離子 | | • 給予鈣離子 | | | C級(證據不足) | ・使用 coasting (暫停施打排卵針幾天) | | | | | | ・使用低劑量之 hCG 當破卵針 ・使用白蛋白 (albumin) | | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ...r 造成術後沾黏,目前不建議使用。 | | | | 術後 ・ 高劑量荷爾蒙: 使受損的內膜儘快恢復。 | | | | | | · 增加內膜血流藥物,幫助內膜生長:Sildenafil、 | | | | | Vit E 和 Low-dose aspirin 等。 | | | Physical barriers | ・IUD:放置 1~3 個月。 | | | | | ・ 術後放置兒童導尿管或子宮腔氣球支架 7~10 天。 | | | | | Auto-cross-link hyaluronic acid gel | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ...60%的反覆性流產; 40~50% 仍為不明原因。 - a. 反覆性流產的五大類成因中,免疫因素為最重要的成因;而造成第二孕程流 產最重要的原因為子宮因素。 - b. 對於不明原因之反覆性流產,可考慮給予 progesterone、hCG、aspirin & heparin、IVIG等,不過,臨床實證皆不足(僅 progesterone 有較多的實證),需要更多的研究來證實其效用。 - (2) 有些造成流產的原因,如個人因素(如肥胖、壓力大)、個人習慣(如抽菸、飲酒過量、咖啡過量)、環境因素(如化學物質、空氣汙染)和感染…等,可能和單次流產有關,和反覆性流產不一定相關。不過,生活方式和習慣的調整仍是必須的。 - (3) 此外,男性精蟲的品質和女性卵子的品質也可以列入評估,品質不佳的精蟲 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -119,10 +127,6 @@ tags:
 - ...性膀胱切除術(radical cystectomy)的敘述,何者錯誤? (A) 經膀胱內藥物灌注後仍反覆復發的 high grade 膀胱癌或膀胱原位癌(carcinoma in situ)患者,建議要施行此類手術(B) 術前不必停止服用 aspirin (C) 腿部深層靜脈血栓可能於術後發生(D) 手術的死亡率約為 1~3% | 108(二)專醫五-66 | | (D) | 5. 有關膀胱尿道逆流(vesicoureteral reflux)發生原因的敘述,下列何者錯誤? (A) 小孩有尿道感染時容易發生 (B) 膀胱三角肌無力(trigonal weakness) (C) 完全尿道複製(complete ureteral duplication) (D) 前膀胱頸局部切除(wedg Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
 - 2. 藥物引發:長期 NSAID、Aspirin、Plavix 或合併 steroid 使用容易造成消化性潰瘍。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 1. 根據 Modified Johnson classification,針對位置與其潰瘍產生的機轉作分類。 - (1) 第一型:潰瘍位於胃小彎處,與胃酸分泌量無關。 - (2) 第二型:出現兩個潰瘍,一個位於 胃部,另一個位於十二指腸。與較 高的胃酸分泌量相關。 - (3) 第三型:位於幽門前方的潰瘍,可 能會出現多個潰瘍。與較高胃酸分 泌量相關。 - (4) 第四型:潰瘍靠近胃與食道交界處。 通常與胃酸的分泌量無關,可能與 黏膜防衛機制缺陷相關。 - (5) 第五型:潰瘍可能位於任何位置, 與服用藥物如 NSAID 或 aspirin 相關。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (4) 好發於年紀較大、合併多種系統性疾病的病人,並且使用一些容易造成 ulcer 的 藥物如 NSAID 或 aspirin 所導致。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- ...py \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Less effective | | | | Steroids | 用於 Severe exacerbations | 用於 Severe exacerbations | | | Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- ...結腸,血液檢查正常,無發燒現象,下列何者並非現階段 醫五-55 之治療選項? (A) 禁食牛奶製品 (B) 給予抗生素 (D) 給予磺胺類藥物 (C) 給予類固醇 【詳解】依題意描述,此病人推測是潰瘍性大腸炎,給予類固 醇和磺胺類藥物(5-ASA)可改善發炎情形,奶製品應避免。血 液檢查正常又無發燒現象,現階段沒有給予抗生素的需要。 (A) 6. 對 chronic ulcerative colitis 的病人而言,下列何者非促成其形成 101(二)專 醫五-51 癌症的因素之一? (A) 潰瘍之深度 (B) 發病年齡 (C) 罹病之期限 (D)病變範圍 【詳解】ulcerative colitis 的罹癌因素有:(1) 發病年齡越早越易 轉為大腸直腸癌。(2)病發期間越久,轉 Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
-- 5. 處置: - (1) 先採用內科療法: 軟便劑、類固醇栓劑 (steroid enema)、局部 5-ASA (5-aminosalicylic acid)。 - (2) 內科療法失敗、復發性狹窄、瘻管則手術處理:結腸造口(diverting colostomy)。 - (3) 狹窄也可用 endoscopic dilation。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
 
 ## Clinical Caveats
 

@@ -59,6 +59,10 @@ sources:
   - "[[sources/med6-book2-ch15]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Smoking cessation (戒菸)'
   - 'Smoking cessation'
@@ -73,7 +77,7 @@ tags:
 
 ## Summary
 
-心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心血管與肺部疾病最重要的風險修正之一。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -132,9 +136,19 @@ tags:
 - [[sources/med6-book2-ch15]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 1. 抽菸:菸草的致癌物質造成口腔黏膜的白斑(leukoplakia)與紅斑(erythroplakia)。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 2. 生活環境及地理性因素: - (1) 鼻咽癌好發於東南亞、北非、中東等地區,一般認為與鹹魚的食用有相關性, 因為鹹魚含有致癌物亞硝胺。 - (2) 抽菸。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 1. 抽菸:為主要的危險因子。抽菸者罹患喉癌是不抽菸者的 5~35 倍。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- ...------------------------------------------------------------------------------------|------------| | I | 正常、健康的人。 | 健康、不抽菸、不喝酒(或極微量飲酒) | 0.06~0.08% | | II | 有輕微的系統性疾病,且在日常生活機能方面不受限制。 | 抽菸、喝酒(社交性)、輕微肺部疾病、控制良好的高血壓或糖尿病、肥胖(30 控制良好的妊娠糖尿病、妊娠高血壓或子癲前症) | 0.27~0.4% | | III | 有嚴重的系統性疾病,讓日常生活受到限制。 | 控制不佳的高血壓或糖尿病、慢性阻塞性肺疾(COPD)、病態性肥胖(BMI > 40)、酒精成癮、規則洗腎 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 4. 椎骨基底動脈循環不全症(Vertebrobasilar artery insufficiency, VBI) - (1) 定義: - a. 因腦部後循環灌流不足所造成的暫時性缺血症狀。 - b. 由於後循環供應延腦、小腦、橋腦、中腦、丘腦、枕葉皮質,因此當 VBI 產 牛時,會因應其灌流不足的區域伴隨不同的症狀產生。 - (2) 流行病學: - a. 好發於 50 歲以上的男性。 - b. 患有糖尿病、高血壓、高血脂。 - c. 抽菸。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 4. 好發於老年人(60歲以上),男性較多,抽菸者發生比率可能提高。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - (5) 幫助戒菸和戒除藥物成癮的成功率。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (7) 甲狀腺眼症的預後:甲狀腺眼症真正原因不明,且屬慢性病,必須長期追蹤檢查,目前的治療方法也屬於治標不治本。不過值得注意的是,抽菸會惡化Graves'disease,故需勸導病患戒菸。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 3. 老年性黃斑部病變(Age-related macular degeneration, AMD): - (1) 定義:由老化引起視網膜色素上皮細胞、Bruch's membrane、脈絡膜微血管層的漸進性退化性變化。 - (2) 流行病學:在已開發國家為大於50歲人最常見造成不可逆視力喪失之原因。 - (3) 危險因子:年紀大、抽菸、家族史、白人、肥胖等。 Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -147,11 +161,6 @@ tags:
 - ...osteoporosis)的敘述,何者錯誤? | 102(一)專 | |-----|---------------------------------------------------|---------| | | (A) 體重過輕、長期抽菸飲酒的人較易發生 | 醫六 -36 | | | (B) 停經越早,發生骨質疏鬆的機會越大 | | | | (C) 定義為雙能量 X 光骨質密度吸收測量儀 (dual energy X-ray | | | | absorptiometry, DXA)檢查,T-score 介於 -1~-2.5 標準差之間 | | | | (D) 雙磷酸鹽類(biphosphonates)藥物可有效預防骨質疏鬆症 | | | | 【詳解】骨質疏鬆的定義為 B Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...erone、hCG、aspirin & heparin、IVIG等,不過,臨床實證皆不足(僅 progesterone 有較多的實證),需要更多的研究來證實其效用。 - (2) 有些造成流產的原因,如個人因素(如肥胖、壓力大)、個人習慣(如抽菸、飲酒過量、咖啡過量)、環境因素(如化學物質、空氣汙染)和感染…等,可能和單次流產有關,和反覆性流產不一定相關。不過,生活方式和習慣的調整仍是必須的。 - (3) 此外,男性精蟲的品質和女性卵子的品質也可以列入評估,品質不佳的精蟲或 卵子確實會造成自然流產的可能。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 【詳解】52 歲更年期婦女,超音波顯示卵巢囊腫為單純性囊腫、 且 CA 125 指數正常、無家族史和抽菸史等,惡性囊腫的機會不 高,定期追蹤陰道超音波即可。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- | 性行為 | ・ 多重性伴侶、過早性行為 ( 過早懷孕(&lt;20歳)、生產數多 | | | 個人因子 | · 低社經地位、抽菸 (和 squamous cell carcinoma 相關 )、 | | | | ・ 長期 (5 年以上 ) 口服避孕藥 (和 adenocarcinoma 較相關 ) | | | 其 他 | • 有陰道或外陰部細胞病變的病史 | | | | ・ 免疫抑制 ( 如 HIV 感染 ) | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- | 簡介 | • 為婦女最常見的陰道炎; 感染和性行為、陰道灌洗、抽菸相關 | |-----|-------------------------------------------------------| | | · 常見的感染菌種包括 Gardnerella vaginalis、Prevotella species、 | | | Bacteroides species、Ureaplasma urealyticum 等 | | 表現 | • 臨床症狀不明顯,50~75% 無症狀,主要表現為陰道分泌物多 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- | 高度危險因子 | ・子宮外孕病史 | | |---------------|-----------------------------------------|--| | | ・ 輸卵管手術病史 (如輸卵管重建手術) | | | 12.50 (12.11) | • 輸卵管病變或先天異常 | | | | ・ 使用子宮內避孕器 (IUD) 仍懷孕者 | | | | ・試管嬰兒懷孕者 | | | 中度危險因子 | ・使用口服避孕藥(雌激素+黄體素)仍懷孕者 | | | | ・ 骨盆腔發炎 (PID) 病史 | | | | ・抽菸者 | | | | • 骨盆腔或腹腔手術病史 | | | 低度危險因子 | ・不孕症 | | | | ・年齢大 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- c. 生活型態改變:BMI 不宜低於 18.5 (太瘦身體體脂低,撞擊時相對保護力下降)、戒菸酒。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- 5. 勃起功能異常 (erectile dysfunction (ED) = impotence 陽痿): - (1) 流行病學:臨床上最常見的男性性功能障礙,40 歲以上有25%人有ED。另外常因其它因素引起:抽菸者40%有ED、糖尿病者60%有ED、高血壓者70%有ED、冠狀動脈疾病80%有ED、周邊血管病變90%有ED。 - (2) 危險因子:年齡、抽煙、喝酒、心血管病史、代謝症候群。 - (3) 臨床表徵: - a. 症狀:ED 定義是沒有辦法達到 / 維持陰莖的勃起硬度以進行一次滿意的性 行為。 - b. 實驗室檢查:空腹血醣值(排除糖尿病及糖尿病性神經病變的可能)、血中 睪固酮濃度、血中泌乳激素(prolactin)濃度。 - c. 特 Source: [[sources/med5-book5-ch08|辛、男性學]].
 
 ## Clinical Caveats
 

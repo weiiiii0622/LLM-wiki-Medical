@@ -14,10 +14,10 @@ tags:
 
 ## Current Scope
 
-- Latest ingested textbook: `醫(六)第3冊復健`
-- Latest chapter source summaries: 10
-- Total chapter source summaries: 298
-- Total topic-first nodes: 1541
+- Latest ingested textbook: `醫(六)第4冊麻醉耳鼻喉`
+- Latest chapter source summaries: 15
+- Total chapter source summaries: 313
+- Total topic-first nodes: 1635
 
 ## Graph Shape
 

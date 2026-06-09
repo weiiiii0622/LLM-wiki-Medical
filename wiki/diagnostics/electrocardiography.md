@@ -46,6 +46,10 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Electrocardiography, ECG (心電圖)'
   - 'Electrocardiography, ECG'
@@ -60,7 +64,7 @@ tags:
 
 ## Summary
 
-心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心電圖用於缺血、梗塞、傳導阻滯與心律不整判讀。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -106,9 +110,19 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (3) 心血管系統監測(Circulation)。 - a. 非侵入式血壓測量系統(Non-Invasive Blood Pressure System, NIBP)。 - b. 動脈導管 (Arterial line)。 - c. 中央靜脈壓 (Central venous pressure)。 - d. 心電圖。 - e. 經食道心臟超音波(Transesophageal echocardiography, TEE)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (3) CVP waveform 所代表意義:正常的 CVP 波形包括 3 個上升段(a、c、v 上升)和兩個下降段(x、y下降)。 - a. "a" wave:右心房收縮時所造成的 心房壓力上升。在心電圖的 P 波後 出現。記『心房收縮期』。心房顫 動時此波形會消失。 - b. "c" wave:右心室收縮早期,造成 三尖瓣的關閉所引起的心房壓力上 升。記『心室收縮早期』。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (D) ECG (electrocardiography) Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 2. 術前胸部 X 光、心電圖、抽血檢查(凝血功能、血紅素)、肺功能評估。依據不同的病患可能需要不同的術前檢查。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- (D) 31. 一位 70 歲男性欲接受全膝關節置換術,病患有冠狀動脈病史並接受過心導管氣球擴張術,症狀改善。輕微運動時仍需稍作休息,但無胸悶症狀。手術採全身麻醉,以 thiopental、succinylcholine 及 halothane 來進行麻醉。在放置膝關節時,突然血壓下降,ECG 顯示心房纖維顫動,心率為 105 次 / 分。下列敘述何者最有可能? Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- e. 心臟功能檢測:EKG、Cardiac echo。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - e. 嚴格監測 EKG 和任何不適症狀的發生,特別要注意此類病人因心臟缺乏 正常神經支配 (denervated heart),可能會產生無症狀的心肌缺氧 (silent ischemia)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (D) 2. 一位 25 歲女性,今早開始下腹疼痛逐漸加劇,並有陰道出血的情形,來急診就診時,生命徵象如下:血壓 80/40 mmHg,脈搏130次/分鐘,呼吸22次/分鐘,體溫36.5℃。過去並無特殊病史,最後一次正常月經約7週以前,下列處置何者較不適當? - (A) 安排懷孕檢測 - (B) 病人可以清楚表達不適,依照急救處理原則,給予 $O_2$ 、 IV、Monitor - (C) 可能是低血容性休克,給予大量輸液,並考慮予以輸血 - (D) 心電圖監視器顯示竇性頻脈(sinus tachycardia),病人血壓低有休克現象,可考慮給予100焦耳的同步電擊 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...生命徵像、體重、腹圍及 I/O | | | 住院治療 | | (2) 每天檢查 | 查 CBC、Electrolyte | | | | | (3) 定期超音 | 音波及肝腎功能檢查 | | | | | (4) 必要時 | 儉查 CXR 和 EKG | | | | ・靜脈輸 | (1) D5S 為f | 佳,評估尿量及血液濃縮改善情況來調整輸 | | | | 液補充 | 液的給 | 予。 | | | | | (2) 補充 Albumin,拉住血管內液體,避免給予的輸液 | | | | | | 滲出血管外,加重腹水產生。 | | | | | | (3) 利尿劑:在大量的輸液補充後,尿量仍沒有增加, | | | | | | 可考慮使用利尿劑;但在低血壓或明顯血液濃縮下 | | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
@@ -121,12 +135,6 @@ tags:
 - 情況:一位50歲的婦女,主訴這幾個月來常半夜突然心悸,同時呼吸困難,在過去2、3年內曾有2次腦中風病史,但並沒有任何神經學症狀遺留下來,心臟聽診時,心跳非常不規則,同時在心尖部聽到心舒期雜音,胸部X光檢查及心電圖檢查如圖示。依此回答下列第17題至第19題。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (A) 5. 一位洗腎病人血液中的鉀離子 6.2 mmol/L,心電圖中會觀察到下列何種現象? Source: [[sources/med5-book2-ch08|辛、其 他]].
 - 【詳解】Hyperkalemia typical EKG findings。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 【詳解】運動心電圖是無症狀或症狀輕微者的 screening tool,不適合使用於產生明顯急性症狀的疑似心臟衰竭患者。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- ...心臟衰竭、心肌膿瘍或反覆性栓塞才是外科適應症。 (C) 26. 冠狀動脈疾病合併厲害的心臟衰竭時,要決定繞道手術是否有益 99(二)專 於病人,必須作下列何種檢查以判定梗塞後的心肌細胞是否仍然 醫五-13 存活 (viable)? (A) 心電圖檢查 (B) 超音波檢查 (C) 核醫檢查 (thallium scanning) (D) 心導管檢查 【詳解】Thallium scanning:藉由注射 thallium-201 並偵測其在 心臟的分布情形得知病患運動時和休息時的心肌血流灌注狀況, 也能用於判別心肌是否存活。 (C) 27. 在冠狀動脈繞道手術時,若同時使用兩側帶莖的內乳動脈(pedicle 99(二)專 internal thoracic artery),則在下列 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- ...冷汗直流,血壓 140/82 mmHg、心跳 110/min、呼吸 28/min、體溫 36.8℃,詢問過去病史四個月前因心肌梗塞接受過氣球擴張術,腹部理學檢查:腹壁右下方有一道闌尾切除後的疤痕,聽不到腸音,但腹部柔軟、無明顯壓痛及反彈痛,EKG 顯示有心房顫動,血液檢查:Hb 14 g/dL、WBC 16,000/mL,血液氣體分析(FiO₂ 40%):pH 7.32、PaO₂ 116 mmHg、PaCO₂ 27 mmHg、HCO₃⁻ 16 mmol/L。請問下列何者為最適宜? - (A) 腹部電腦斷層檢查 - (B) 腹部核磁共振檢查 - (C) 腹部血管攝影檢查 - (D) 直接剖腹探查 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- 【詳解】心悸後腹痛,無緩解,PE 無腸音,EKG 發現有 Af => 懷疑是 Af 的 thrombus 打到腸子血管造成 acute thromboembolism。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- 2. 鉀:正常血鉀濃度為 3.5~5.0 mEq/L。 - (1) 低血鉀 (hypokalemia): 症狀有噁心嘔吐、肌肉無力、ileus、橫紋肌溶解和多尿; 心電圖變化有 T 波變平坦、出現 U 波、ST segment 下降、APC/VPC。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 
 ## Clinical Caveats
 

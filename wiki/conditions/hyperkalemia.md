@@ -22,6 +22,8 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch07]]"
 aliases:
   - 'Hyperkalemia (高血鉀)'
   - 'Hyperkalemia'
@@ -36,7 +38,7 @@ tags:
 
 ## Summary
 
-高血鉀可能造成致命心律不整，需結合 ECG、腎功能、藥物與酸鹼狀態判斷。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+高血鉀可能造成致命心律不整，需結合 ECG、腎功能、藥物與酸鹼狀態判斷。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +60,16 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book2-ch08]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch07]]
 
 ## Key Details From Sources
 
+- 1. 發生惡性高熱時的表現可分早、晚期症狀: - (1) 早期症狀: End tidal CO, 上升、心跳加快。 - (2)晚期症狀:溫度上升、橫紋肌溶解、肌蛋白尿、代謝呼吸酸中毒、全身僵硬、 咬肌痙攣、高血壓、心臟衰竭、高血鉀、低血氧。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 3. 症狀治療: - (1) 降溫:體表降溫,可使用冰塊、冰帽,或在冰槽內置碎冰塊將患者放在冰槽內。 中心降溫,可靜脈快速滴注冰鹽水,插鼻胃管冰水灌胃,必要時開胸、開腹用 冰水灌洗胸腹腔,甚至可採用體外循環降溫。 - (2) 矯正酸中毒可使用 bicarbonate。 - (3) 高血鉀的處理,可使用葡萄糖加胰島素靜脈滴註。 - (4) 高血壓或心律不整:一般而言,若校正好高血鉀及代謝性酸中毒,血壓就會下降,若未下降則使用降血壓藥物,但不可使用 CCB 類,因為會造成高血鉀及與dentrolene 交互作用所造成的心跳停止。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- ...-----------------------------------------------------------------------------------------------|--------------| | | (A) Hyperkalemia | 醫六-8 | | | (B) Hypothermia | | | | (C) 使用 Opioids | | | | (D) 使用 Neuromuscular blocking agents | | | (C) 35. | 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 mmHg,應優先選擇下列何者處置? (A)靜脈注射抗組織胺(Antihistamine) Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- c. 禁忌症:有惡性高熱的人、燒傷患者、高血鉀患者。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
+- (3) 副作用及併發症: - a. 終板持續的去極化,容易造成高血鉀,引發心律不整。 - b. 造成惡性高熱 (malignant hyperthermia) 的誘發因子。 - c. 眼內壓上升。 - d. 顱內壓上升。 - e. 橫紋肌溶解症(rhabdomyolysis)。 - f. 心跳速率下降、心跳停止。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
 - (B) 容易產生高血鉀與代謝性酸中毒 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 【詳解】Hyperkalemia typical EKG findings。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...enia),所以會有凝血功能障礙的情形。可以 pRBC: FFP: platelet 以 1:1:1 的方式輸注來預防。 - (4) 急性溶血反應:絕大多數因 ABO 血型不合所引起。 - (5) 電解質異常: - a. 大量輸血有機會造成高血鉀,另外病人大都存在休克狀態,其體內的醛固酮、 抗利尿及皮質激素等分泌會增加,所以鉀離子排除增加,要是病人腎功能正 常,則容易發生低血鉀。 - b. 血品內有加草酸以防血品凝固,而草酸會和鈣結合,且草酸根屬鹼性,所以 大量輸血會造成低血鈣和代謝鹼中毒。 - c. 酸中毒:血品存放過久(新鮮的約 pH 7.0,儲存 30 天後約 6.6~6.8),或是因大量輸血時血鉀增高,導致鉀離子和細胞內的氫離子做交換,造成酸中毒。 - (6) 急性肺損 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
@@ -74,11 +83,6 @@ tags:
 - ...ting CAH 會造成 aldosterone 與 cortisol 減少(simple virilizing type: Cortisol is reduced, but aldosterone is not)。因此出現低血糖、低血鈉、高血鉀、代謝性酸中毒及 androgen 分泌過多。偵測方法為血液中偵測 17-OHP(17-hydroxyprogesterone)是否上升,但有許多因素常造成偽陽性,因此仍需確診。這個情况在早產兒發生情況比足月兒還明顯。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - (B) 高血鉀 (hyperkalemia) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - RTA 主要可分為三大類,分別是遠端型(type I)RTA、近端型(type II)RTA 與 高血鉀型(type IV)RTA。另外,還有一種是 type I、II 的混合型(mixed type),特別 發生在 carbonic anhydrase deficiency 病人上,又稱為 type III RTA。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (1) 近端腎小管對於 bicarbonate(HCO3-)再吸收出現問題,導致血漿 bicarbonate 濃度下降造成代謝性酸中毒。由於遠端腎小管氫離子幫浦沒有問題,腎臟還是可以進行正常尿液酸化,故尿液 pH 可 +ATPase 有直接作用,故 aldosterone 製造有問題或是腎臟 對 aldosterone 反應不佳則造成酸中毒。 - b. Aldosterone 在集尿管有鉀離子分泌作用。若有問題則無法將鉀離子分泌出去 進而造成**高血鉀**。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【詳解】(D) 與第二型腎小管酸中毒有關。(C) 的特徵為低血鉀、 低血氯、代謝性鹼中毒以及血中腎素濃度過高(但血壓為正常)。 第四型腎小管酸血症的特徵是**高血鉀**。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...imple virilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發現。男嬰反而以 corti Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 【詳解】21- 羥酶缺乏所致之先天性腎上腺增生(congenital adrenal hyperplasia)中 salt losing form 會有低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | helmet cell,以及網狀紅血 | | | | 球計數的增加。 | Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 
@@ -87,7 +91,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[drugs/succinylcholine|Succinylcholine (琥珀膽鹼)]]
 
 ## Follow-up
 

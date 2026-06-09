@@ -7,6 +7,7 @@ sources:
   - "[[sources/med3-book1-ch04]]"
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'NYHA functional class (NYHA 心功能分級)'
   - 'NYHA functional class'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-以活動受限程度分級心衰竭症狀。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以活動受限程度分級心衰竭症狀。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med3-book1-ch04]]
 - [[sources/med5-book2-ch07]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- 4. 呼吸系統:有無氣喘、COPD、或是平常有呼吸喘的情況,並評估其 NYHA class 或做 PFT(pulmonary function tests)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - ...晴的眼結膜(conjunctiva)是粉紅色的,沒有貧血的跡象,聽診發現有心雜音,產科醫師懷疑有心臟方面的問題,於是安排心臟超音波,發現曉晴有一個心室中膈缺損約 1.6 平方公分。下列給曉晴的諮詢,何者錯誤? - (A) 根據紐約心臟協會(NYHA)對心臟功能的定義,曉晴懷孕前是屬於第二級(functional class II),但懷孕後已惡化為第三級(functional class III) - (B) 心室中膈缺損是一種先天性心臟病,這種是結構的異常並不 會遺傳給胎兒 - (C) 大的心室中膈缺損可能會進展為左心室衰竭及肺動脈高壓,當肺動脈阻力(pulmonary vascular resistance)大於系統性血管阻力(systemic vascular resist Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 3. Insufficient indications:單有以下情形並不足以作心臟移植。 - (1) 左心室 ejection fraction 低下。 - (2) 曾經有 NYHA class III 或 IV 的 heart failure。 - (3) Peak VO2 > 15 mL/kg/min,且無其他適應症。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - 2. 依症狀嚴重程度分級 (New York Heart Association functional class): - (1) NYHA functional class I:多於正常的活動時才會呼吸困難。 - (2) NYHA functional class II:正常的活動會有呼吸困難的感覺。 - (3) NYHA functional class III:輕度活動足以引起呼吸困難。 - (4) NYHA functional class IV: 休息時也會覺得呼吸困難。 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].

@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book4-ch09]]"
   - "[[sources/med5-book4-ch04]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Thyroglossal duct cyst (甲狀舌骨囊腫)'
   - 'Thyroglossal duct cyst'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-甲狀舌管殘留造成中線頸部囊腫，常隨吞嚥或伸舌移動，治療多為 Sistrunk procedure。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀舌管殘留造成中線頸部囊腫，常隨吞嚥或伸舌移動，治療多為 Sistrunk procedure。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book4-ch09]]
 - [[sources/med5-book4-ch04]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- #### A. 甲狀舌管囊腫(Thyroglossal duct cyst ) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- (1) 治療以外科手術處理為主。術式名稱為 Sistrunk operation,將甲狀舌骨囊腫連同其管道及一部分舌骨一併清除。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- (3) 開刀適應症。 - a. 反覆感染發作。 - b. 甲狀舌骨囊腫惡性變化。 - c. 美觀上的考量。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - C. 甲狀舌骨囊腫 (Thyroglossal duct cyst) 130 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - 3. 頸部中線腫瘤:有甲狀舌骨囊腫(thyroglossal duct cysts)、淋巴結腫大(enlarged lymph nodes)、皮樣囊腫(dermoid cysts)、血管瘤(hemangiomas)、甲狀腺椎體葉(pyramidal lobes of the thyroid)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
 - ### C. 甲狀舌骨囊腫 (Thyroglossal duct cyst) Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].

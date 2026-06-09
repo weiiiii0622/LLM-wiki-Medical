@@ -10,6 +10,7 @@ sources:
   - "[[sources/med5-book4-ch10]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Cerebral vasospasm (腦血管痙攣)'
   - 'Cerebral vasospasm'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-SAH 後 delayed vasospasm 可造成 delayed cerebral ischemia。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+SAH 後 delayed vasospasm 可造成 delayed cerebral ischemia。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ SAH 後 delayed vasospasm 可造成 delayed cerebral ischemia。 本頁已整合
 - [[sources/med5-book4-ch10]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- d. 其他方面如血管痙攣、凝血功能異常等。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 2. 處理:儘快緩解血管痙攣,擴張血管以疏通栓子至周邊血管。平躺、眼球按摩、舌下含服硝酸甘油(NTG)、吸氧吸入(95%氧和5%二氧化碳)、靜脈注射降眼壓藥物(Dimox或 mannitol)、前房穿刺術等,不過效果均不佳。 - \* MONA: M 是眼球按摩和 mannitol, O 是氧氣, N 是 NTG, A 是前房穿刺。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
 - ...- 子癲前症未具嚴重表徵,視情況可考慮使用 - 妊娠高血壓,不須使用 - b. 作用機制:目前仍不明,有一些假說被提出,包括 - 作用於 NMDA receptor, 提高 seizure threshold - · 促使腦血管擴張,避免 vasospasm - · 阻斷鈣離子通道和減少 acetylcholine 的作用,穩定中樞神經系統的細胞膜 - c. 使用期間: - · 一般於生產前(剖腹產前、產痛或引產時)給予並持續用到產後24小時 - 可依疾病的嚴重度及恢復狀況調整停藥時機,輕度者或恢復快者可提早 在產後 12 小時停用;重度者或恢復慢者可延長使用至產後 48 小時 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - 【詳解】重度子癇前症使用 $MgSO_4$ 之主要目的是預防 seizure,作用機轉目前仍不明,可能和作用於 NMDA receptor 提高 seizure threshold、促使腦血管擴張避免 vasospasm 及穩定 CNS 細胞內膜,減少 acetylcholine 有關。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].

@@ -11,6 +11,7 @@ sources:
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Thoracoscopy / VATS (胸腔鏡)'
   - 'Thoracoscopy / VATS'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-以胸腔鏡進行診斷、切片、肺部或縱膈手術。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以胸腔鏡進行診斷、切片、肺部或縱膈手術。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch10]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 4. 醫源性(胸腔鏡或胃鏡施行過後)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - (e) 胸管(tube thoracocentesis, chest-tube insertion)、胸腔鏡手術引流(VATS drainage):可引流及做肋膜沾黏術(pleurodesis)。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (C) 利用胸腔鏡手術引流同時亦有診斷的效果 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 5. 治療:包含辨別致病菌、全身抗生素治療、完整肋膜腔引流。引流目的是為了讓肺 完全擴張和避免併發症發生。 - (1) 胸腔抽液(thoracocentesis):完整引流對於急性期和早期纖維蛋白化膿期,同時有診斷和治療效果。 - (2) 胸廓造口術(tube thoracostomy):當胸腔抽液引流無效或膿胸持續進展時,應改用胸管(chest tube)引流。 - (3) 影像輔助胸腔鏡手術(video-assisted thoracoscopic surgery, VATS):當進入器質 化期或形成封閉囊包時,胸管引流通常無效,應採用手術。 - (4) 抗生素:至少應使用抗生素治療 6 週以上。 Source: [[sources/med5-book4-ch02|乙、肋膜]].

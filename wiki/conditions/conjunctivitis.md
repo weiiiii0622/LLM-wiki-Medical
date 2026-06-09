@@ -14,6 +14,7 @@ sources:
   - "[[sources/med6-book2-ch06]]"
   - "[[sources/med6-book2-ch08]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Conjunctivitis (結膜炎)'
   - 'Conjunctivitis'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-結膜發炎可由病毒、細菌、過敏、毒性或 chlamydia 引起，分泌物、淋巴結與角膜侵犯可協助鑑別。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+結膜發炎可由病毒、細菌、過敏、毒性或 chlamydia 引起，分泌物、淋巴結與角膜侵犯可協助鑑別。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,12 @@ tags:
 - [[sources/med6-book2-ch06]]
 - [[sources/med6-book2-ch08]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 3. 囊狀腺淋巴瘤(Cystadenolymphoma, papillary cystadenoma lymphomatosum):俗稱Warthin's tumor,發生率 30%。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 1. 又稱為囊狀腺淋巴瘤(Cystadenolymphoma, papillary cystadenoma lymphomatosum)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - | 疾病 | 急性結膜炎 (Acute | 急性紅彩炎 (急性前葡 | 急性隅角閉鎖性青光 | |-------|-----------------|----------------------|------------------------| | | Conjunctivitis) | 萄膜炎 ) (Acute Iritis) | 眼 (Acute angle-closure | | | | | glaucoma) | | 發生率 | 非常常見 | 常 見 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - 3. 結膜疾病的臨床評估: - (1) 症狀: - a. 非特異性症狀包含流淚、刺痛、灼熱感、畏光。 - b. 疼痛和異物感表示角膜可能有受傷。 - c. 癢則是過敏性結膜炎之特徵,但也發生在其他疾病如眼瞼炎、乾眼等。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - b. 黏液狀分泌物(mucoid discharge)常見於春季性角結膜炎和乾眼症。 Source: [[sources/med6-book2-ch04|丁、結 膜]].

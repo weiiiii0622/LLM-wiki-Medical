@@ -31,6 +31,7 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book4-ch07]]"
 aliases:
   - 'LABA (長效乙二型交感神經刺激劑)'
   - 'LABA'
@@ -45,7 +46,7 @@ tags:
 
 ## Summary
 
-氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +77,11 @@ tags:
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book4-ch07]]
 
 ## Key Details From Sources
 
+- a. Pancuronium - (a) 長效型,作用時間 90% block。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
 - (2) 玻璃體腔內注射血管內皮生長因子抑制劑或長效型類固醇(Intravitreal anti-VEGF agents or triamcinolone):可降低血管通透性,減少瀰漫性黃斑部水腫, 但類固醇注射可能會使眼壓升高。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - (b) 玻璃體內注射長效型類固醇(Intravitreal triamcinolone, IVT): 但可能會 造成白內障或眼壓上升的副作用。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - ...ar glaucoma)→以 PRP 預防。 - e. 治療: - (a) 若眼壓有升高時,給予降眼壓藥物。 - (b) 口服抗凝血或促進血液循環藥物。 - (c) 以全網膜雷射(PRP)預防新生血管性青光眼。 - (d) 眼內玻璃體內注射長效型類固醇,利用其抗發炎效果來減少黃斑部水腫。 但是部分患者在注射後會有眼壓升高或導致白內障的情形。 - (e) 玻璃體內注射抗血管內皮生長因子(如 Avastin),在控制黃斑部水腫及 滲漏也有不錯的療效,其效果可持續數月之久,但是缺點是可能需重複 注射。 Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -96,7 +99,6 @@ tags:
 - (A) 常反覆躁症發作者,可使用抗精神病藥物之長效針劑治療 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
 - ...不足過動症 | 醫四 -74 | | | (B) 常見的副作用有食慾不振,睡眠障礙,頭痛,不自主運動等 | | | | (C) 可減少中樞神經系統多巴胺(dopamine)的釋放 | | | | (D) 目前除了短效劑型中樞神經興奮劑,也有長效劑型可以選擇 | | | | 【詳解】本題答 (B) 或 (C) 或 (BC) 者均給分。 | | | (D) | 10. 注意力缺失過動症(attention-deficit/hyperactivity disorder)所使 | 102(一)專 | | | 用之治療藥物中,下列何者不是中樞神經刺激劑? | 醫四 -73 | | | (A) methylphenidate | | | | (B) dextroamphetamine | Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
 - b. 抗生素: Penicillin 為首選, 注射一劑長效型 penicillin (benzathine penicillin), 或是口服型 penicillin 十天。Erythromycin 或 clindamycin 也可。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- \* 針對使用低劑量 budesonide/formoterol 或低劑量 beclomethasone/formoterol 作為維持 / 緩解治療的病人,可選擇低劑量 ICS/formoterol 作為緩解型藥物。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

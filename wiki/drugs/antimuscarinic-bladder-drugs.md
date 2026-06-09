@@ -8,6 +8,8 @@ sources:
   - "[[sources/med5-book5-ch04]]"
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med6-book1-ch13]]"
+  - "[[sources/med6-book4-ch04]]"
+  - "[[sources/med6-book4-ch07]]"
 aliases:
   - 'Antimuscarinic bladder drugs (膀胱抗膽鹼藥)'
   - 'Antimuscarinic bladder drugs'
@@ -22,7 +24,7 @@ tags:
 
 ## Summary
 
-抑制逼尿肌不自主收縮，用於 overactive bladder、urge incontinence 或 neurogenic overactive bladder。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制逼尿肌不自主收縮，用於 overactive bladder、urge incontinence 或 neurogenic overactive bladder。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +32,13 @@ tags:
 - [[sources/med5-book5-ch04]]
 - [[sources/med5-book5-ch05]]
 - [[sources/med6-book1-ch13]]
+- [[sources/med6-book4-ch04]]
+- [[sources/med6-book4-ch07]]
 
 ## Key Details From Sources
 
+- ...鎮靜劑如 Barbiturate 類的藥物 (Diazepam、Midazolam 等),讓病人鎮靜。 - b. 使用止痛劑如 Fentanyl 或 Morphine 減少疼痛程度,使 induction 可以較順利的進行。 - c. 使用抗膽鹼藥物,減少病人唾液分泌及因插管刺激導致咳嗽的機會。 - (2) Induction: 誘導麻醉,主要讓病人從 stage I 進入 stage II, 再進入到 stage III。 - (3) Maintenance:讓病人維持在 stage III,以利手術進行。 - (4) Recovery:讓病人從 stage III 重回 stage I。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
+- 1. 全身麻醉結束時,若是使用**非去極化肌肉鬆弛劑**,可以給予抗膽鹼酯酶藥物 (Cholinesterase inhibitors)來 reverse 肌肉鬆弛劑的作用。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
 - ...pressure wave) (如圖一)。 | | 治療 | (1)膀胱訓練 (bladder training): 定時排尿,並慢慢增加間隔時間 | | | (2)藥物: | | | a. Antimuscarinic agents (oxybutynin, tolterodine) (副作用: 口乾、視力模糊、 | | | 心跳加速、便秘 ) | | | b. 三環抗鬱劑 TCA (imipramine),針對夜尿 ( 副作用:心律不整 ) | | | c. OnabotulinumtoxinA injection:直接注射於逼尿肌 | | | (3)電刺激 (Electrical stimulation) | | | | Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - (A) 抗膽鹼藥物 (anticholinergic medications) Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
 - ...--------| | | (detrusor sphincter dyssynergia, DSD)的病人,下列何種處置不 | 醫五-68 | | | 合適? | | | | (A) 間歇性導尿以定時排空膀胱 | | | | (B) 口服抗膽鹼藥物以降低膀胱內壓 | | | | (C) 當測得漏尿壓力為 $20 \text{ cmH}_2\text{O}$ 時,可以進行尿道外括約肌切 | | | | 開術(sphincterotomy)以保護腎臟 | | | | (D) 置放尿道支架(urethral stent)以方便排空膀胱 | | | | 【詳解】(C) 會漏更嚴重。 | | | (#) | 7. 薦髓傷害(sacral spinal cord injury)常發生的尿 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].

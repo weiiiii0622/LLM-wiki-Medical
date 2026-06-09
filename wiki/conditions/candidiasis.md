@@ -26,6 +26,7 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Candidiasis (念珠菌感染)'
   - 'Candidiasis'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+黏膜、食道或侵襲性感染，免疫低下與抗生素暴露增加風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch07]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 2. 致病菌種: - (1) 細菌(90%以上為細菌性感染): - a. Pseudomonas aeruginosa ° - b. Pseudomonas vulgaris · - c. E. coli ° - d. S. aureus o - (2) 黴菌: - a. Candida albicans o - b. Aspergillus niger · Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 2. 黴菌性角膜炎:最常見病原菌為菌絲型黴菌(Aspergillus 和 Fusarium 屬)和白色念珠菌(*Candida albicans*)。 - (1) 症狀:類似細菌性角膜炎。 - (2) 臨床徵候: Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - b. 白色念珠菌: 通常出現在免疫力低下的人、乾眼、角膜暴露者, 進程較快。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].

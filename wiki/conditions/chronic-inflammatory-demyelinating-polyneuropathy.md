@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch08]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Chronic inflammatory demyelinating polyneuropathy, CIDP (慢性發炎性脫髓鞘型多發神經病變)'
   - 'Chronic inflammatory demyelinating polyneuropathy, CIDP'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-慢性免疫性 demyelinating polyneuropathy，可有近端與遠端無力、感覺症狀與反射下降。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性免疫性 demyelinating polyneuropathy，可有近端與遠端無力、感覺症狀與反射下降。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch08]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- (2) 病因:急性鼻竇炎治療不當、過敏性黴菌性鼻竇炎、自體免疫性疾病、有其他 齒科疾病、慢性發炎性疾病(如: Wegener's)。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...lomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (A) 6. 郭先生今年 56 歲,半年前開始肌肉逐漸萎縮無力,先是從手掌開始,然後漸漸擴展到上臂,接著兩下肢也受到侵犯。理學檢查發現四肢肌肉萎縮;但肌腱反射反而增強,下顎反射(jaw jerk)也增強;另外,肌肉偶爾會有小小的不規則跳動,到處都有,連舌頭也會。說話時有一點鼻音,喝水偶爾會嗆到。感覺系統則沒有任何異常。郭先生最有可能罹患下列那一項疾病? - (A) 肌萎縮脊髓側索硬化症(amyotrophic lateral sclerosis) - (B) 慢性發炎性脫髓鞘型多發神經病變 (chronic inflammatory demyelinating polyneuropathy) - (C) 多發性硬化症 (multiple sclerosis) - (D) 脊髓空洞症(syringomyelia) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 神經細胞由軸索(axon)及加快其傳導速度、圍在其周圍的髓鞘(myelin)構成,去髓鞘疾病(demyelinating disease)則是一些僅影響髓鞘、不侵犯軸索的疾病。中樞神經的去髓鞘疾病最有名的是多發性硬化症(multiple sclerosis),周邊神經的去髓鞘疾病最有名的是急性發炎性脫髓鞘型多發神經病變(AIDP)、慢性發炎性脫髓鞘型多發神經病變(CIDP)。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
@@ -42,6 +45,7 @@ tags:
 ## Related Pages
 
 - [[conditions/guillain-barre-syndrome|Guillain-Barre syndrome, GBS (格林-巴利症候群)]]
+- [[procedures/intravenous-immunoglobulin|Intravenous immunoglobulin, IVIG (靜脈免疫球蛋白)]]
 - [[diagnostics/nerve-conduction-study|Nerve conduction study, NCS/NCV (神經傳導檢查)]]
 - [[procedures/plasma-exchange|Plasma exchange, PLEX (血漿置換)]]
 

@@ -20,6 +20,9 @@ sources:
   - "[[sources/med6-book2-ch14]]"
   - "[[sources/med6-book2-ch18]]"
   - "[[sources/med6-book3-ch04]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Cellulitis (蜂窩性組織炎)'
   - 'Cellulitis'
@@ -34,7 +37,7 @@ tags:
 
 ## Summary
 
-皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+皮膚與軟組織感染，常由 streptococci 或 Staphylococcus aureus 造成。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +57,15 @@ tags:
 - [[sources/med6-book2-ch14]]
 - [[sources/med6-book2-ch18]]
 - [[sources/med6-book3-ch04]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- (1) 眼窩蜂窩性組織炎(Orbital cellulitis):當篩竇發炎時,pathogen 會經由篩骨板進入眼睛,導致眼眶周圍水腫或眼球的內容物發炎,產生眼窩蜂窩組織炎(orbital cellulitis)。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 5. 併發症: - (1) 耳廓蜂窩組織炎(auricular cellulitis): Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 1. 深頸部感染是指頸部深處的組織或間隙受到感染,引發蜂窩性組織炎,若不進一步 的治療可能會引起膿瘍的形成。這些深頸部的感染通常是由口腔、口咽、腮腺、鼻 竇、下顎、中耳、牙齒等感染後續發引起。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - (3) 臨床症狀: - a. 急性期:殘肢會水腫、疼痛、皮膚會變硬 也變厚。殘肢表面易生水泡也也容易感染 產生蜂窩性組織炎。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - | 年齡 | 單/雙側 | 常見原因 | |-----|------|-----------------| | 成人 | 雙 側 | 甲狀腺眼症>眼窩腫瘤、眼窩發炎 | | 小 孩 | 雙 側 | 轉移性惡性腫瘤>顱顏面骨畸形 | | 成人 | 單 側 | 甲狀腺眼症 | | 小孩 | 單 側 | 眼窩蜂窩性組織炎>眼窩腫瘤 | Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (1) 軟組織侵犯:眼瞼和眼眶周圍水腫、眼瞼下垂、結膜水腫或充血。原因包含甲 狀腺眼症、眼眶蜂窩性組織炎等。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
@@ -72,9 +81,6 @@ tags:
 - (D) 1. 關於皮膚與軟組織感染 skin and soft tissue infections (SSTIs) 之 - (A) impetigo 與 necrotizing fascitis 之致病菌可能是 Staphylococcus aureus - (B) methicillin-resistant S. aureus (MRSA) 在 SSTI 的盛行率逐漸增加 - (C) MRSA 在異位性皮膚炎患者形成菌落的機會高於正常人 - (D) MRSA 引起的皮膚與軟組織感染,多發生在醫療機構工作人 員或住院病患,很少發生於一般社區正常人 tinea cruris Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - ...織有 exudation 和 consolidation 時,稱為Pneumonia) - (e) 孩童有機會同時水痘傷口感染到 MSSA、MRSA 或 Group A streptococcus 造成 impetigo、furuncle、cellulitis 或 gangrene。 - (f) 孕婦: - i. First trimester 中感染病毒有機會造成 fetal varicella syndrome: limb hypoplasia、muscular atrophy、skin scarring、cortical atrophy、microcephaly、cataract formation、rudimentary digits。 - ii. 生產前四天內感染水痘,則有15%的 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (D) 蜂窩性組織炎(cellulitis) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (2) 從頭到腳,查六項: CNS 感染、管路感染、感染性心內膜炎、褥瘡、軟組織感染(cellulitis, carbuncle, furuncle)、骨髓炎。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 2. 感染的淋巴結在觸診時病人會有壓痛感(tender),外觀上會有 erythema but without cellulitis。大小通常在 $1\sim5$ cm,通常見於腋下、頸部以及鎖骨處,可維持 $1\sim2$ 個月 之久。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 1. 特殊,慢性,或反覆的感染。例如: - (1) ≥ 1 次全身性的感染(sepsis, meningitis)。 - (2) 一年內≥ 2 次嚴重的呼吸道或軟組織細菌感染 (cellulitis, draining otitis media, pneumonia, lymphadenitis)。 - (3) 特殊部位的嚴重感染(liver, brain abscess…)。 - (4) 特殊病原菌的感染(Aspergillus, Nocardia…)。 - (5) 常見病原菌感染但異常的嚴重。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 
 ## Clinical Caveats
 

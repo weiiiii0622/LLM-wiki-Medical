@@ -45,6 +45,7 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Dyslipidemia (血脂異常)'
   - 'Dyslipidemia'
@@ -59,7 +60,7 @@ tags:
 
 ## Summary
 
-血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血脂異常是動脈粥狀硬化與冠心症重要危險因子。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -104,9 +105,11 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 4. 椎骨基底動脈循環不全症(Vertebrobasilar artery insufficiency, VBI) - (1) 定義: - a. 因腦部後循環灌流不足所造成的暫時性缺血症狀。 - b. 由於後循環供應延腦、小腦、橋腦、中腦、丘腦、枕葉皮質,因此當 VBI 產 牛時,會因應其灌流不足的區域伴隨不同的症狀產生。 - (2) 流行病學: - a. 好發於 50 歲以上的男性。 - b. 患有糖尿病、高血壓、高血脂。 - c. 抽菸。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - (3) 減重、降低 LDL 和 TG、提高 HDL。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 2. 危險因子: 糖尿病的持續期間 (duration),最重要!、不佳的血糖控制 (HbA1c > 7%)、懷孕、高血壓、腎病變、抽菸、肥胖、高血脂等。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 2. 危險因子: - (1) 年紀大: > 50% 病例出現在 65 歲以上。 - (2) 全身性疾病:高血壓、高血脂、糖尿病、抽菸、肥胖等。 - (3) 遠視、小視神經盤。 Source: [[sources/med6-book2-ch12|子、視網膜]].
@@ -124,7 +127,6 @@ tags:
 - (#) 1. 動脈瘤形成的危險因素不包括下列何者? 108( ) 專 (A) 高年齡 (B) 男性 (C) 高血脂 (D) 糖尿病 醫五 -22 【詳解】皆是危險因子,故送分。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 - (1) 改善危險因子: 戒菸、減重、規律運動、血糖控制、LDL 35 mg/dL、TG 2 mm 的血管,再阻塞 機率低,適用於有多處狹窄或阻塞病患。使用大隱靜脈,然比較遠的距離例 如 axillo-femoral 則須用人工血管。 - b. 內膜剝離術(endarterectomy):適合直徑 > 5~6 mm 的血管,開刀直接將血管病變部分(內膜和淺層中膜)切除,而血管僅靠剩下來的深層中膜和外膜依舊能抵抗血壓的變化。 - c. PTA/Stent:經導管用氣球撐開或是放支架,適合直徑>4 mm Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
 - ...急診,最近常感到倦怠、四肢肌肉無力, 醫五-47 則下列何種檢查,較無診斷價值? (A) 血鈣濃度 (B) 血中鹼性磷酸酶 (alkaline phosphatase) 濃度 (C) 血中副甲狀腺素(iPTH)濃度 (D) 血中三酸甘油脂(triglyceride)濃度 (D) 12. 下列何者與血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維他命 D (C) 抑鈣激素 (D) 雌性激素 (C) 13. 一位 57 歲的尿毒症病患,5 年來持續接受血液透析治療,直到 99(二)專 2個月前接受了腎臟移植手術。最近他開始出現皮膚搔癢、腹痛、 醫五-58 骨頭酸痛等現象,抽血檢查鈣值為 12 mg/dL。下列何者是此患 者最可能的診斷? (A) Primary Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- ...巨噬細胞之能量來源。是維持腸道黏膜完整和免疫功能的重要物質,在 stress 和敗血症時含量會很明顯地下降。 - (5) Arginine:為一氧化氮(NO)的原料來源,促使血管舒張減少心臟輸出的負荷, 緩和心紋痛的狀況,降低低密度脂蛋白(LDL)氧化,另外能促進傷口癒合, 以及促進免疫系統分泌自然殺手細胞、吞噬細胞和 interleukin-1。 - (6) 支鏈胺基酸 (Branched-chain amino acids, BCAA):包括 Leucine, Isoleucine, Valine 均屬必須胺基酸,可直接由骨骼肌代謝產生能量而非肝臟代謝,故在肝臟衰竭的病人可使用。主要用途有增進肌耐力成長、恢復運動後肌力、維護肌肉細胞、保護肌肉組織及有效防止肌肉退化。 - ( Source: [[sources/med5-book1-ch01|甲、外科營養]].
 
 ## Clinical Caveats
 

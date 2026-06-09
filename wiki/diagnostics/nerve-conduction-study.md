@@ -21,6 +21,9 @@ sources:
   - "[[sources/med6-book3-ch07]]"
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch07]]"
 aliases:
   - 'Nerve conduction study, NCS/NCV (神經傳導檢查)'
   - 'Nerve conduction study, NCS/NCV'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,16 @@ tags:
 - [[sources/med6-book3-ch07]]
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch07]]
 
 ## Key Details From Sources
 
+- 2. 誘發電位的監測(evoked potential monitoring): 藉由感覺刺激或是運動反應,來監測整條神經傳導路徑上是否有受到影響;但這些電訊號多少都會受到麻醉藥物的影響,所以需要跟外科醫師溝通,來調整藥物或降低劑量。 - (1) 感覺誘發電位 (sensory evoked potential, SEP): 刺激末梢神經,此衝動傳至中樞神經產生電位,由置於頭皮上的電極記錄下來。 - a. 驅體感覺誘發電位(SSEP):常用於脊髓或脊椎手術中監測脊髓功能,例如:開 T12 的脊髓腫瘤切除術,可以在病人的雙腳給他電刺激,在靠近腦部感覺 皮質區(s Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- ...ry)、體感覺(somato- | | | sensory)與運動(motor)等 | | | (B) 體感覺誘發電位 (somatosensory evoked potentials, SSEPs) | | | 常用在脊椎損傷手術中,作為神經傳導功能的監測方式 | | | (C) 聽覺誘發電位 (auditory evoked potentials, AEPs) 則是常用 | | | 在小腦橋腦角腫瘤(cerebello-pontine angle tumor)切除手術 | | | (D) 體感覺誘發電位 (somatosensory evoked potentials, SSEPs) | | | 不會受到吸入性麻醉劑藥物或是低體溫的影響 | | | 31. 下列何者不是手術中 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- c. 作用方式: 可抑制興奮性的神經傳導物(如 acetylcholine), 並加強(enhance) 抑制性的神經傳導物(如 GABA = γ-aminobutyric acid)的作用。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- 1. 神經肌肉傳遞的生理機轉: - (1) 正常的神經肌肉連接(neuromuscular junction)是由特定的運動神經纖維及其所支配的纖維所組成,兩者之間以突觸(synaptic cleft)分開。 - (2) 當神經訊號傳達至突觸前末梢時,大量的神經傳導物質 Acetylcholine 將會被釋出。越過突觸間隙後,將會刺激突觸後肌肉細胞上的 Ach receptors,使得離子可以通過細胞膜,造成終板的去極化,產生電位差達成肌肉的收縮。 - (3) 任務完畢之後,Acetylcholine 將會迅速被突觸間隙的 Acetylcholinesterase 迅速分解掉。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
 - A. 神經傳導速度檢查 (Nerve conduction velocity, NCV) 188 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - #### A. 神經傳導速度檢查 (Nerve conduction velocity, NCV) Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - 1. NCV 是用來檢查周邊神經病變,將表面電極放在該神經所掌管的肌肉上,用電極刺激神經後,可於其支配的感覺神經或肌肉上記錄到感覺神經電位波(sensory nerve action potential, SNAP)、複合肌肉動作電位波(compound muscle action potential, CMAP)和特殊反射電位波(H-reflex 及 F-response),根據這些反應波的傳導潛期(latency)、間期(duration)、振 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
@@ -73,10 +83,6 @@ tags:
 - 5. 診斷:以肌電圖及神經傳導速度測定,配合臨床症狀。 Source: [[sources/med5-book6-ch06|己、手部]].
 - ...--|------------------| | | (B) Tinel's sign positive | | | | (C) 病人若出現魚際肌(thenar muscle)萎縮或無力代表嚴重的運動神經壓迫 | | | | (D) 可透過神經傳導速度(nerve conduction velocity)檢查來確定診斷 | | | (B) | 3. 下列有關腕隧道症候群(carpal tunnel syndrome)之敘述,何者錯誤? | 104(一)專醫五-19 | | | (A) 曲腕動作會加重症狀 | | | | (B) 一定有魚際肌(thenar muscle)的萎縮 | | | | (C) 初期可以施用副木治療 | | | | (D) 手術是切斷腕橫韌帶(transve Source: [[sources/med5-book6-ch06|己、手部]].
 - iii. 周邊神經。 - (i) 外傷或手術造成神經傳導功能失常: cavernous nerve 和 pudendal nerve 為兩條與勃起相關神經。 - (ii) 慢性疾病造成周邊神經病變或神經傳導物質不足: NO 為與勃起 最有相關的神經傳導物質。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- (d) 靜脈血管方面 (cavernosal/venous): - i. Type 1: 陰莖海綿體的靜脈瓣膜閉鎖不全, 使血液流往海綿體外, 無法維持充血, 多為先天性也最常見。 - ii. Type 2:靜脈扭曲或退化,常見於 Peyronie disease 或老年男性。 - iii. Type 3:陰莖海綿體平滑肌無法放鬆,常因纖維化或退化。 - iv. Type 4:神經傳導物質失調。 - v. Type 5:海綿體間血管交通異常。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- (C) 18. 交感節後神經(sympathetic postganglionic nerve)釋放下列何種神經傳導物質,以控制下泌尿道? Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- (D) 9. 一位 56 歲的男性糖尿病患,有糖尿病足來到門診,與醫師討論 有沒有可能憑藉換藥使傷口癒合,則下列何項最具決定性? - (A) 抽血檢查 HbA1c - (B) 安排神經傳導及肌電圖檢查(NCV/EMG) - (C) 做細菌培養 - (D) 檢查足背動脈與後脛動脈有無脈動 Source: [[sources/med5-book2-ch25|甲、傷□治療]].
-- (A) 神經傳導速率檢查 (nerve conduction velocity testing) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
 
 ## Clinical Caveats
 

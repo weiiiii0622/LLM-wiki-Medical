@@ -26,6 +26,7 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'MEN1 syndrome (第一型多發性內分泌腫瘤)'
   - 'MEN1 syndrome'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 �
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- 1. 如何避免帶給病人過多的術中壓力,是外科手術治療的一大挑戰。手術當中形成的壓力除了會引發下視丘一腦下垂體一腎上腺軸 (hypothalamic-pituitary-adrenal gland axis) 的作用外,也會造成心理層面的影響。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - (2) 腦垂體(pituitary)前葉分泌 FSH 和 LH,調節卵巢的性激素分泌: Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (2) 影響青春期開始時間的因素: - a. 遺傳:多重基因調控,這些基因可能和肥胖、hypothalamus-pituitary-ovary (HPO) axis 等調控相關; - b. 體脂肪:研究顯示血中 leptin 濃度愈高,體脂肪愈高,青春期愈早開始; - c. 健康狀態; - d. 光線:卻乏光線的周期性刺激,使松果腺無法分泌褪黑激素 (melantonin), 卵巢發育不受抑制,造成盲女容易性早熟; - e. 居住地點:城市較鄉下早開始,平地較高山早開始; - f. 運動選手、糖尿病均使青春期較晚開始。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...中樞神經腫瘤 (如 craniopharyngioma) | | | 腦部受傷或接受放射線 | | 腦垂體異常 | 高泌乳素血症 (hyperprolactinemia) | | (Hypogonadotropic | 中樞神經腫瘤 (如 Pituitary prolactinoma) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原發性卵巢功能不全 | | | 多囊性卵巢症候群 | | 其他內分泌異常 | 甲狀腺低下或亢進 | | | 雄性激素分泌腫瘤或曝露於過多雄性激素 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -86,7 +89,6 @@ MEN1 常涉及 parathyroid、pituitary 與 pancreatic neuroendocrine tumors。 �
 - 4分: pancreatic or peripancreatic fluid collection or peripancreatic fat necrosis Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - 4. 胰臟鈣化 (Pancreatic calcification)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 5. 胰臟消化道瘻管(Pancreaticoenteric fistula)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 8. 胰臟癌 (Pancreatic cancer)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 
 ## Clinical Caveats
 

@@ -73,6 +73,8 @@ sources:
   - "[[sources/med6-book2-ch02]]"
   - "[[sources/med6-book2-ch14]]"
   - "[[sources/med6-book3-ch09]]"
+  - "[[sources/med6-book4-ch07]]"
+  - "[[sources/med6-book4-ch05]]"
 aliases:
   - 'Myasthenia gravis, MG (重症肌無力)'
   - 'Myasthenia gravis, MG'
@@ -87,7 +89,7 @@ tags:
 
 ## Summary
 
-神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+神經肌肉接合處自體免疫疾病，造成易疲勞性肌無力與眼肌/吞嚥/呼吸受累。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -160,9 +162,14 @@ tags:
 - [[sources/med6-book2-ch02]]
 - [[sources/med6-book2-ch14]]
 - [[sources/med6-book3-ch09]]
+- [[sources/med6-book4-ch07]]
+- [[sources/med6-book4-ch05]]
 
 ## Key Details From Sources
 
+- 2. 在臨床上,我們會使用神經肌肉阻斷劑作用於 neuromuscular junction 上的 acetylcholine receptor(Ach receptors),藉由阻斷 Ach receptors,停止神經突觸後的傳導以達到肌肉放鬆的效果。不管是去極化肌肉鬆弛劑或非去極化肌肉鬆弛劑皆是利用阻斷 Ach receptors 的原理。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
+- 4. 種類:(近幾年的國考沒有考太細的藥理學,可參考就好) - (1) Neostigmine: 臨床常用的肌肉鬆弛劑解藥。 - (2) Edrophonium:短效藥物,用來測試重症肌無力(Tensilon test),不通過 BBB 和 placenta。 - (3) Physostigmine:唯一可通過 BBB 的 cholinesterase inhibitor,所以可以治療 CNS 的副作用。 - (4) Pyridostigmine: 重症肌無力的治療藥物,俗稱大力丸。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
+- ...lam 等,主要加強 GABA 在 GABA receptor 的作用,造成神經抑制。 - b. 主要可用來當作鎮靜劑、使病人喪失記憶、減少焦慮感。 - (3) 藥物缺點: - a. 使用在年紀較大的病人,或者是慢性阻塞性肺病(COPD)、重症肌無力(MG)的病人,若劑量太高會造成呼吸抑制。 - b. 與抗癲癇類藥物如 Valproate 一同服用,會加強中樞抑制的效果。 - c. 通過胎盤,若在 first trimester 使用,可能會導致新生兒的先天缺陷。 - d. 過量中毒時,可使用 Flumazenil 作為拮抗劑。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
 - ...n velocity)去評估是否有神經軸突病變(axonopathy)或髓鞘病變(demyelination)。 - (1) 髓鞘病變可見潛期延長或傳導速度變慢;軸突病變可見振幅或表面積減小。 - (2) 檢查時機:為了鑑別診斷特殊疾病如 MG,因軸突受損需要大約2週才完成, 一般建議周邊神經受傷後2~3週進行第一次 NCV/EMG 檢查(太早做因神經還 沒死完全其結果可能會正常而誤導判斷),主要目的要評估神經受損程度和定位 神經受損的高度和層級。而2~3個月後進行第二次 NCV/EMG 檢查,主要目的 要觀察是否有神經再支配(reinnervation)的現象並評估其預後,後續追蹤則因 人因病而異。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - ...性活動電位,肇因於肌纖維去神經現象或是 acetylcholine 不正常釋放,在神經受傷後 2~3 週才會出現,可見於神經病變(radiculopathy、plexopathy、peripheral neuropathy)、NMJ 病變(Myasthenia gravis、botulism)或是肌肉病變(muscular dystrophy、polymyositis、dermatomyositis)。 - \*Fib 的聲音像 "rain on a tin roof" (兩下在屋頂的聲音)、PSW 的聲音像 "dull thud or shug" (沉重的砰擊聲)。 - ii. 複雜重覆放電波(complex repetitive discharge, CRD): 一群肌纖維同時以相同頻率反覆放電所形成 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - 1. 主要用於診斷 neuromuscular junction 異常之疾病,例如重症肌無力、肉毒桿菌症(Botulism)、Lambert-Eaton myasthenic syndrome 等。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
@@ -188,6 +195,7 @@ tags:
 
 - [[diagnostics/electromyography|Electromyography, EMG (肌電圖)]]
 - [[procedures/intravenous-immunoglobulin|Intravenous immunoglobulin, IVIG (靜脈免疫球蛋白)]]
+- [[drugs/neuromuscular-blocking-agents|Neuromuscular blocking agents (神經肌肉阻斷劑)]]
 - [[anatomy/neuromuscular-junction|Neuromuscular junction, NMJ (神經肌肉接合處)]]
 - [[procedures/plasma-exchange|Plasma exchange, PLEX (血漿置換)]]
 - [[conditions/ptosis|Ptosis / blepharoptosis (眼瞼下垂)]]

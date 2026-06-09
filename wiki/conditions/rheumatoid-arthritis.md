@@ -37,6 +37,7 @@ sources:
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book3-ch04]]"
   - "[[sources/med6-book3-ch07]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Rheumatoid arthritis, RA (類風濕性關節炎)'
   - 'Rheumatoid arthritis, RA'
@@ -51,7 +52,7 @@ tags:
 
 ## Summary
 
-慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性對稱性發炎性多關節炎，滑膜炎可造成 bone erosion 與關節變形。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +89,11 @@ tags:
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book3-ch04]]
 - [[sources/med6-book3-ch07]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- b. 肺動脈導管由內頸靜脈經右心房(RA:0~8 mmHg)、右心室(RV:15~30/0 mmHg)、 肺動脈(PA:15~30/8 mmHg)得到肺微血 管契狀壓(PCWP:5~15 mmHg)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - ...候群(Carpaltunnel syndrome) | | (圖請參照第 215 頁) | 關節 (Metacarpophalangeal joint, MCP joint) 及其遠端各手指保持可自由活動。 | • 手腕急性關節發炎(OA/RA) | | Thumb spica splint | 自手掌 (hand based thumb spica spint) 或前臂 | 手腕扭傷 (sprain)媽媽手 (de Quervain's | | (拇指八字型副木)(圖請參照第 215 頁) | (forearm based thumb spica splint),包覆至大拇指掌指關節,指骨間關節 (IP joint) 及其遠端保持可自由活動,大拇指固定在外展(abducti Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - ...erential Current, IFC): 兩組電極互相對稱擺放呈十字型,並將欲治療部位置於十字型中央。兩組電極會各自放射中頻波穿透皮膚,其電磁波會互相加乘而產生較單組電極可穿透更深的電磁波。 - (3) 適應症:下背痛、退化性關節炎、類風濕性關節炎、韌帶扭傷、肌腱炎、肌肉 肌膜疼痛等。 - (4) 禁忌症: - a. 動靜脈血栓或血栓性靜脈炎(thrombophlebitis)。 - b. 勿放在頸動脈竇附近,以免造成心律不整。 - c. 心律調節器附近,以免干擾節律器功能。 - d. 孕婦、癲癇、癌症。 - e. 感覺異常者或無法表達溝通者。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - (1) 由 immune-mediated (typically immune-complex) vasculitis 常常造成鞏膜破壞而造成。與全身性免疫疾病相關:類風濕性關節炎(最常見)、紅斑性狼瘡、復發型多發性軟骨炎、結節型多發性動脈炎、Wegner 氏肉芽腫等,且可能是唯一的先期徵兆,因此早期診斷與治療,對患者的預後幫助極大。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].

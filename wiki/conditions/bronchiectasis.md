@@ -21,6 +21,11 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch07]]"
 aliases:
   - 'Bronchiectasis (支氣管擴張症)'
   - 'Bronchiectasis'
@@ -35,7 +40,7 @@ tags:
 
 ## Summary
 
-支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+支氣管永久擴張，常有慢性痰與反覆感染。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +61,20 @@ tags:
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch07]]
 
 ## Key Details From Sources
 
+- ...身熱潮紅,合併意識改變的情形,血壓 65/30 mmHg,應優先選擇下列何者處置? (A)靜脈注射抗組織胺(Antihistamine) (B)靜脈注射類固醇(Steroid) (C)靜脈注射腎上腺素(Epinephrine) (D)吸入性支氣管擴張劑(Bronchodilator) | 100(二)專醫四-78 | | (D) 36. | 心臟冠狀動脈疾病手術麻醉處理的原則,下列何者錯誤? | 99(二)專 | | | (A) 增加收縮壓會增加心臟耗氧量 | 醫六-4 | | | (B) 心跳增加會增加心臟耗氧量 | | | | (C) 心臟冠狀動脈血液灌流最佳時期是舒張期 | | | | (D) 增加左心室壁舒張末期壓力,有利於增加冠狀動脈血流量 | | | (C) 37. | Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 【詳解】Ephedrine 可直接作用在 α 和 β 腎上腺素激接受體位, 又可間接的促使 norepinephrine 從突觸前的神經末端釋放出。 Ephedrine 所產生的支氣管擴張作用比 epinephrine 所產生的要 弱,但是作用期較長。其中樞神經刺激效應也比 epinephrine 要 顯著。臨床上用於:支氣管性氣喘、血管運動神經性鼻炎、過 敏性鼻炎、脊椎麻醉導致之急性低血壓。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (3) 支氣管擴張劑:病患用量穩定時,可以考慮在術中持續使用,或以類固醇或吸入性的支氣管擴張劑取代。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- | Agent | 心跳速率(HR) | 平均動脈壓 (MAP) | 換氣驅力(ventilation) | 支氣管擴張 | 腦部血流量(CBF) | 顱內壓(ICP) | |-----------------|--------------|-----------------|-----------------------|----------------------------------|----------------|----------------------------------------| | Barbiturates | ↑ ↑ | Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- (1) 特徵: - a. MAC (0.75%) ° - b. 會增加心臟對 epinephrine 所造成心律不整的敏感度,所以 epinephrine 的用量需控制。 - c. 被當成強力的支氣管擴張劑,可以逆轉氣喘造成的支氣管痙攣。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- ...交感神經的傳導,使得副交感神經無法作用。 - b. 藥理作用非常的廣泛,在不同器官會有不同的阻斷作用。 - (a) 腺體:作用於唾液腺與汗腺,造成口乾、抑制流汗,除此之外也減少呼吸道的分泌物,因此常被用於麻醉前藥物。 - (b) 支氣管:使支氣管擴張。 - (c) 作用於眼睛:導致虹膜環狀機與睫狀肌的放鬆,使得瞳孔擴張、視力調 節麻痺(近物看不清)。 - (d) 心臟血管系統:心跳加速。 - (e) 腸胃道與泌尿道系統:抑制胃腸及膀胱的蠕動,造成便秘、尿滯留;此 藥物也會抑制胃酸的分泌。 - (f) 可通過 BBB。藥物過量時導致幻覺出現、昏迷。(當 atropine 過量時,可 使 用 physostigmine 作 為 解 毒 劑。Physostigmine 屬 於 choli Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
 - (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - J. 支氣管擴張症 (Bronchiectasis) 49 Source: [[sources/med5-book4-ch03|丙、肺]].
 - ### J. 支氣管擴張症 (Bronchiectasis) Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -71,12 +87,6 @@ tags:
 - (3) 白三烯受體拮抗劑(Leukotriene receptor antagonist, LTRA): 使支氣管擴張,具抗發炎作用,也可以減少運動及過敏原引起的支氣管收縮。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (4) 長效吸入性乙二型交感神經興奮劑(Long-acting inhaled β2-agonist, LABA): 為長效型的支氣管擴張劑,作用至少 12 小時,因此適用於夜間症狀明顯及白 天常需使用 SABA 者。須配合吸入性類固醇一同使用,不可單獨使用,因為 LABA 本身無 anti-inflammation 作用,因此單獨使用反而會使氣喘急性發作及治 療失敗的風險增加。此外,文獻指出單獨使用 LABA 會增加 asthma mortality, 因此不建議單獨使用。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - (D) 6.2 歲的小朋友,昨晚飯後跑動玩耍時突然持續咳嗽,今天到急診, 108(-)專 發現呼吸聲音變得明顯,聽診有單側喘息音(Wheezing),給與 短效型支氣管擴張劑 (Bronchodilator)後,喘息音沒有改變, 下列何者為最可能之診斷? Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...iration | Esophagogram Plain film: gas-filled abdomen | Surgery | | H-type TEF | Infants to adults | Recurrent pneumoniaBronchiectasis | EsophagogramBronchoscopy † | Surgery | | Esophageal stenosis | Infants to adults | DysphagiaFood impaction | EsophagogramEndoscopy † | DilationSurgery | Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (B) 2.1 歲半的幼兒,昨晚發燒、咳嗽,今天到急診。醫師發現呼吸聲音變得明顯,聽診雙側有喘息音(Wheezing),給與短效型支氣管擴張劑(Bronchodilator)後,喘息音沒有改變,下列何種診斷最有可能? Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (A) 1. 一位 59 歲接受腹膜透析腎病患者,血壓為 125/80 mmHg,心跳為 107( 二 ) 專 76 次 / min,12 導程心電圖發現有 peaked T waves,血鉀值為 7.0 醫三 -76 mmol/L,無溶血。下列何種處置最不優先? - (A) 會診腎臟科後,等待做腹膜透析 - (B) 可使用葡萄糖 (glucose) 加胰島素 (insulin) 治療 - (C) 可使用碳酸氫鈉(sodium bicarbonate)治療 - (D) 可使用噴霧式支氣管擴張藥物 (neubulized albuterol) 治療 Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- H. 支氣管擴張 (Bronchiectasis) 282 Source: [[sources/med3-book1-ch21|戊、感 染]].
-- (7) 結構性肺疾病(支氣管擴張症): Pseudomonas aeruginosa。 Source: [[sources/med3-book1-ch21|戊、感 染]].
-- (B) 18. 一位 70 歲男性病患,抽菸 45 年,被診斷為 COPD 已經超過 10 年,平常用吸入型長效性支氣管擴張劑 (long-acting bronchodilator)治療。這次因為發燒、咳嗽加劇有黃痰、呼吸困難加劇住院治療。胸部 X 光片無新增變化,病人痰液抹片呈現 Gram(+) small diplococci,下列敘述何者錯誤? Source: [[sources/med3-book1-ch21|戊、感 染]].
 
 ## Clinical Caveats
 

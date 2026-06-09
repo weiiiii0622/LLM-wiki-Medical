@@ -2,13 +2,14 @@
 type: procedure
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med3-book1-ch20]]"
   - "[[sources/med3-book1-ch17]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book3-ch04]]"
+  - "[[sources/med6-book4-ch13]]"
 aliases:
   - 'Continuous positive airway pressure, CPAP (連續正壓呼吸)'
   - 'Continuous positive airway pressure, CPAP'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-OSA 標準治療，也可作為非侵襲性正壓通氣模式。 本頁已整合至 `醫(四)第3冊精神科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+OSA 標準治療，也可作為非侵襲性正壓通氣模式。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ OSA 標準治療，也可作為非侵襲性正壓通氣模式。 本頁已整合
 - [[sources/med4-book1-ch11]]
 - [[sources/med4-book1-ch05]]
 - [[sources/med4-book3-ch04]]
+- [[sources/med6-book4-ch13]]
 
 ## Key Details From Sources
 
+- 2. 保守性治療: - (1) 藥物治療減緩鼻塞。 - (2) 使用低流量氧氣裝置: - a. 鼻部正壓呼吸輔助器 (nasal continuous positive airway pressure, CPAP): 此為嚴重睡眠呼吸中止症的標準治療,成功率達 80%。 - b. 兩極正壓呼吸器(bilevel positive airway pressure, BiPAP)。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
 - (D) 36. 關於睡眠呼吸中止症(sleep apnea)的敘述,下列何者錯誤? (A) 呼吸中止(apnea)可以發生在非快速動眼期(NREM)或快速動眼期(REM)睡眠,通常非快速動眼期較常發生呼吸中止,而發生在快速動眼期則較嚴重 - (B) 選擇性血清素再吸收抑制劑(SSRI)治療呼吸中止症是藉由 減少快速動眼期睡眠所致 - (C) 早期認為阻塞型(obstructive)呼吸中止症較常抱怨白天嗜睡,中樞型(central)呼吸中止症較常抱怨失眠,近年研究發現嗜睡或失眠症狀均可發生在此2類型的呼吸中止症 - (D) 持續性呼吸道正壓儀器(CPAP)是用來治療中樞型呼吸中 止症 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - 【詳解】CPAP是用來治療阻塞型呼吸中止症。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
 - (2) 除了給予氧氣或 CPAP (continuous positive airway pressure) 外,對於發生呼吸暫停但病人本身沒有 precipitating identifiable cause 可以給予 theophylline 或 caffeine 治療。 Source: [[sources/med4-book1-ch11|子、新生兒科]].

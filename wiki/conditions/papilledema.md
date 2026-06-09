@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 sources:
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Papilledema (視乳突水腫)'
   - 'Papilledema'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-顱內壓升高造成雙側 optic disc edema，可合併頭痛、短暫視覺黑矇與 sixth nerve palsy。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內壓升高造成雙側 optic disc edema，可合併頭痛、短暫視覺黑矇與 sixth nerve palsy。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (7) 頭痛及視乳突水腫(papilledema)。必須考慮發生側靜脈竇而栓(lateral sinus thrombosis)的可能性。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 2. 視乳頭水腫(papilledema):因腦壓升高引起,初期視力正常,偶有朦朧,但眼底有明顯變化,視野呈現生理性盲點變大。臨床可分為四期: Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 
 ## Clinical Caveats

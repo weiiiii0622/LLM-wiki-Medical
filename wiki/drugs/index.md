@@ -56,6 +56,9 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/chemotherapy|Chemotherapy (化學治療)]] - 細胞毒性抗癌治療，依 cell-cycle phase 與機轉分類並有特定毒性。
 - [[drugs/clindamycin|Clindamycin (克林黴素)]] - 50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。
 - [[drugs/conventional-dmards|Conventional DMARDs (傳統疾病修飾抗風濕藥)]] - RA 等發炎性關節炎的 disease-modifying therapy，作用慢但可減少結構破壞。
+- [[drugs/dantrolene|Dantrolene (丹曲林)]] - Dantrolene 抑制 skeletal muscle sarcoplasmic reticulum calcium release，是 malignant hyperthermia 的特異治療。
+- [[drugs/desflurane|Desflurane (地氟醚)]] - Desflurane blood/gas 溶解度低、甦醒快，但可刺激氣道與交感反應。
+- [[drugs/dexmedetomidine|Dexmedetomidine (右美托咪定)]] - Dexmedetomidine 是 alpha-2 agonist，提供鎮靜與部分止痛，常見 bradycardia 與 hypotension。
 - [[drugs/digoxin|Digoxin (毛地黃)]] - 增加心縮力並可做 AF rate control；不能改善死亡率且有交互作用與中毒風險。
 - [[drugs/direct-oral-anticoagulants|Direct oral anticoagulants, DOACs (直接口服抗凝血劑)]] - 直接抑制 Xa 或 thrombin 的口服抗凝藥。
 - [[drugs/dopamine-agonists|Dopamine agonists (多巴胺致效劑)]] - 直接刺激 dopamine receptors，用於 Parkinson disease，但可有嗜睡、幻覺、衝動控制障礙。
@@ -63,11 +66,13 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/endocrine-therapy-for-breast-cancer|Endocrine therapy for breast cancer (乳癌荷爾蒙治療)]] - ER/PR positive 乳癌的重要全身治療，依停經狀態與疾病情境選藥。
 - [[drugs/ergot-alkaloids|Ergot alkaloids (麥角生物鹼)]] - 用於 migraine 急性治療的血管收縮藥物，副作用與禁忌較多。
 - [[drugs/ethosuximide|Ethosuximide (乙琥胺)]] - T-type calcium channel blocker，是典型 absence seizure 常用藥。
+- [[drugs/etomidate|Etomidate (依托咪酯)]] - Etomidate 對血流動力學影響較小，適合不穩定病人誘導，但會抑制 adrenal steroid synthesis。
 - [[drugs/five-alpha-reductase-inhibitors|5-alpha-reductase inhibitors (5-alpha 還原酶抑制劑)]] - 阻斷 testosterone 轉為 DHT，使攝護腺縮小並降低 BPH 進展；會使 PSA 約下降一半。
 - [[drugs/fluoroquinolones|Fluoroquinolones (氟喹諾酮類)]] - 抑制 DNA gyrase/topoisomerase，涵蓋多種 GNB、呼吸道或泌尿感染病原。
 - [[drugs/ganciclovir|Ganciclovir / Valganciclovir (更昔洛韋類)]] - 抗 CMV 藥物，可造成骨髓抑制，免疫低下 CMV disease 常用。
 - [[drugs/glp1-receptor-agonists|GLP-1 receptor agonists (GLP-1 受體促效劑)]] - 腸泌素類藥物，促進葡萄糖依賴性胰島素分泌並有減重效果。
 - [[drugs/h2-receptor-antagonists|H2 receptor antagonists (H2 受體拮抗劑)]] - 抑制胃酸分泌，可用於 GERD 或潰瘍相關症狀控制。
+- [[drugs/halothane|Halothane (氟烷)]] - Halothane 可造成心肌抑制、心律不整敏感與罕見 halothane hepatitis，現代使用已較少。
 - [[drugs/heparin|Heparin (肝素)]] - ACS 與血栓疾病抗凝治療常用，需注意 HIT。
 - [[drugs/her2-targeted-therapy|HER2-targeted therapy (HER2 標靶治療)]] - HER2 positive 乳癌等疾病的標靶治療，需注意 trastuzumab 心毒性。
 - [[drugs/hiv-prep-pep|HIV PrEP and PEP (HIV 暴露前與暴露後預防)]] - 高風險暴露前或暴露後抗病毒預防策略，時間與藥物組合需依現行 guideline 複核。
@@ -76,11 +81,15 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/hydroxychloroquine|Hydroxychloroquine (羥氯奎)]] - SLE 與 RA 常用免疫調節藥，需注意視網膜毒性監測。
 - [[drugs/hypertonic-saline|Hypertonic saline (高張食鹽水)]] - 高張液可用於 IICP 或低血鈉矯正，需監測鈉上升速度與滲透壓。
 - [[drugs/immunosuppressants|Immunosuppressants (免疫抑制劑)]] - 用於器官移植、自體免疫疾病與部分血液腫瘤情境，需監測感染與器官毒性。
+- [[drugs/inhalational-anesthetics|Inhalational anesthetics (吸入性麻醉劑)]] - 吸入性麻醉劑以肺泡吸收與排除，藥效受 MAC、blood/gas partition coefficient 與通氣血流影響。
 - [[drugs/inhaled-corticosteroids|Inhaled corticosteroids, ICS (吸入型類固醇)]] - 氣喘控制核心藥物，依 step 調整劑量。
 - [[drugs/insulin|Insulin (胰島素)]] - 治療第 1 型糖尿病、住院高血糖、DKA/HHS 或部分第 2 型糖尿病的重要藥物。
+- [[drugs/intravenous-anesthetics|Intravenous anesthetics (靜脈麻醉劑)]] - 靜脈麻醉劑常用於 induction、sedation 或 TIVA，作用受 redistribution、蛋白結合與心血管狀態影響。
 - [[drugs/intravesical-bcg|Intravesical BCG (膀胱內 BCG 灌注)]] - 以弱毒結核菌誘發局部免疫反應降低非肌肉侵犯型膀胱癌復發與進展風險。
 - [[drugs/iron-supplementation|Iron supplementation (鐵劑治療)]] - 補充鐵以治療 iron deficiency，需依吸收、耐受性與病因選擇路徑。
+- [[drugs/isoflurane|Isoflurane (異氟醚)]] - Isoflurane 為常用 volatile anesthetic，具血管擴張與一定心肌抑制作用。
 - [[drugs/jak-inhibitors|JAK inhibitors (JAK 抑制劑)]] - 小分子免疫調節藥，阻斷 cytokine receptor 下游 JAK/STAT 訊號。
+- [[drugs/ketamine|Ketamine (氯胺酮)]] - Ketamine 為 dissociative anesthetic，具 analgesia 與交感刺激，常保留呼吸道反射但可增加分泌物與精神症狀。
 - [[drugs/laba|LABA (長效乙二型交感神經刺激劑)]] - 氣喘需與 ICS 合用；formoterol 起效快可用於特定緩解策略。
 - [[drugs/lactulose|Lactulose (乳果糖)]] - 酸化腸道並促進排便，用於 hepatic encephalopathy 治療。
 - [[drugs/lama|LAMA (長效抗膽鹼劑)]] - COPD 與部分嚴重氣喘 phenotype 可用。
@@ -92,6 +101,7 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/lhrh-gnrh-agonists|LHRH/GnRH agonists (LHRH/GnRH 促進劑)]] - 長期下調 pituitary GnRH receptor 以降低 LH/testosterone，是 ADT 常用藥物，初期有 testosterone flare。
 - [[drugs/linezolid|Linezolid (利奈唑胺)]] - 抗多重抗藥 GPC，可用於 MRSA 或 VRE，但需注意骨髓抑制與 serotonin syndrome。
 - [[drugs/lithium|Lithium (鋰鹽)]] - mood stabilizer，用於 bipolar disorder 與自殺風險降低；需監測血中濃度、腎功能、甲狀腺與交互作用。
+- [[drugs/local-anesthetics|Local anesthetics (局部麻醉劑)]] - 局部麻醉劑阻斷 voltage-gated sodium channels，造成 sensory、autonomic 與 motor blockade。
 - [[drugs/loop-diuretics|Loop diuretics (亨利氏環利尿劑)]] - 改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。
 - [[drugs/macrolides|Macrolides (巨環內酯類)]] - 50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。
 - [[drugs/magnesium-sulfate-obstetrics|Magnesium sulfate in obstetrics (產科硫酸鎂)]] - 用於子癲前症/子癲症 seizure prophylaxis/treatment，也可用於早產神經保護；需監測反射、呼吸與尿量。
@@ -104,9 +114,13 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/miotics|Miotics (縮瞳劑)]] - 縮瞳使虹膜拉離隅角並促進 trabecular outflow，可用於特定 angle-closure 或 glaucoma 情境。
 - [[drugs/monoamine-oxidase-inhibitors|Monoamine oxidase inhibitors, MAOIs (單胺氧化酶抑制劑)]] - 抗憂鬱藥類，需注意 tyramine diet、hypertensive crisis 與藥物交互作用。
 - [[drugs/monobactams|Monobactams (單環 β-lactam 類)]] - Aztreonam 主要抗 GNB，對 penicillin allergy 時可作替代選項之一。
+- [[drugs/naloxone|Naloxone (納洛酮)]] - Naloxone 是 opioid receptor antagonist，可逆轉 opioid-induced respiratory depression，但可能誘發疼痛、戒斷或交感反應。
+- [[drugs/neuromuscular-blocking-agents|Neuromuscular blocking agents (神經肌肉阻斷劑)]] - 神經肌肉阻斷劑作用於 neuromuscular junction，使骨骼肌鬆弛，需監測與安全逆轉。
 - [[drugs/nitrates|Nitrates (硝酸鹽類)]] - 擴張靜脈與冠狀動脈，可緩解心絞痛與部分急性肺水腫。
+- [[drugs/nitrous-oxide|Nitrous oxide, N2O (笑氣)]] - N2O 起效快、止痛性佳但 potency 低，可擴張封閉氣腔並影響 vitamin B12 相關代謝。
 - [[drugs/nsaids|NSAIDs (非類固醇消炎藥)]] - 抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。
 - [[drugs/omalizumab|Omalizumab (抗 IgE 單株抗體)]] - 嚴重 allergic eosinophilic asthma 可考慮。
+- [[drugs/opioid-analgesics|Opioid analgesics (鴉片類止痛劑)]] - Opioids 作用於 opioid receptors，提供強效 analgesia，但可造成 respiratory depression、nausea、ileus 與依賴。
 - [[drugs/oxytocin-obstetrics|Oxytocin in obstetrics (產科 oxytocin)]] - 用於 induction/augmentation of labor 與產後子宮收縮；需監測 uterine tachysystole 與 fetal heart tracing。
 - [[drugs/p2y12-inhibitors|P2Y12 inhibitors (P2Y12 抑制劑)]] - ACS 或 PCI 後常與 aspirin 合併。
 - [[drugs/palivizumab|Palivizumab (RSV 單株抗體預防)]] - 高風險早產兒或特定心肺疾病嬰兒可用於 RSV 預防；適應症需依當地政策更新。
@@ -116,21 +130,26 @@ Medications, drug classes, pharmacology, contraindications, and monitoring.
 - [[drugs/phenytoin|Phenytoin (苯妥英)]] - Na channel blocker 類 antiseizure medication，可用於 focal seizure、GTCS 與 status epilepticus 後續控制。
 - [[drugs/platinum-agents|Platinum agents (鉑類化療藥)]] - 鉑類 DNA-damaging agents，用於肺癌、卵巢癌、大腸癌、生殖細胞瘤等。
 - [[drugs/prokinetic-agents|Prokinetic agents (促腸胃蠕動藥)]] - 促進胃腸蠕動或提高 LES 壓力，部分用於 GERD 或胃排空問題。
+- [[drugs/propofol|Propofol (丙泊酚)]] - Propofol 起效快、甦醒快，可降血壓並抑制呼吸，常用於麻醉誘導與鎮靜。
 - [[drugs/prostaglandin-analog-eye-drops|Prostaglandin analog eye drops (前列腺素類降眼壓藥)]] - 增加 uveoscleral outflow 以降低 IOP，是 open-angle glaucoma 常用一線藥物。
 - [[drugs/prostaglandin-e1|Prostaglandin E1, PGE1 (前列腺素 E1)]] - 用於維持 PDA 開放以穩定 ductal-dependent congenital heart disease。
 - [[drugs/proton-pump-inhibitors|Proton pump inhibitors, PPI (質子幫浦抑制劑)]] - 抑制胃酸分泌，用於 GERD、消化性潰瘍與部分上消化道出血情境。
 - [[drugs/rifaximin|Rifaximin (利福昔明)]] - 降低腸道產氨菌負荷，可作為 hepatic encephalopathy 輔助治療。
+- [[drugs/rocuronium|Rocuronium (羅庫溴銨)]] - Rocuronium 是 nondepolarizing neuromuscular blocker，可用於快速誘導替代 succinylcholine。
 - [[drugs/saba|SABA (短效乙二型交感神經刺激劑)]] - 快速緩解支氣管收縮，但氣喘不宜只依賴 SABA。
 - [[drugs/selective-serotonin-reuptake-inhibitors|Selective serotonin reuptake inhibitors, SSRIs (選擇性血清素回收抑制劑)]] - 常用 antidepressant/anxiolytic 類別，需注意 GI、sexual dysfunction、serotonin syndrome 與初期焦慮。
+- [[drugs/sevoflurane|Sevoflurane (七氟醚)]] - Sevoflurane 氣味較不刺激，常用於吸入誘導與維持麻醉。
 - [[drugs/sglt2-inhibitors|SGLT2 inhibitors (SGLT2 抑制劑)]] - 促進尿糖排泄的降糖藥，兼具心腎保護證據但需注意酮酸中毒等風險。
 - [[drugs/somatostatin-analogs|Somatostatin analogs (Somatostatin 類藥物)]] - 降低門脈血流，可用於急性靜脈曲張出血處置。
 - [[drugs/statins|Statins (史他汀類)]] - 降低 LDL 與心血管風險，ACS/DM 等高風險族群目標較嚴格。
+- [[drugs/succinylcholine|Succinylcholine (琥珀膽鹼)]] - Succinylcholine 是 depolarizing neuromuscular blocker，起效快但可造成 hyperkalemia、bradycardia、malignant hyperthermia 風險。
 - [[drugs/sulfonylureas|Sulfonylureas (磺醯脲類)]] - 促進胰島素分泌，降糖效果明顯但有低血糖與體重增加風險。
 - [[drugs/systemic-corticosteroids|Systemic corticosteroids (全身性類固醇)]] - 氣喘/COPD 急性惡化與多種肺部發炎疾病常用。
 - [[drugs/taxanes|Taxanes (紫杉醇類)]] - 穩定微小管、抑制解聚的化療藥，常見過敏、神經毒性與水腫。
 - [[drugs/tetracyclines|Tetracyclines (四環黴素類)]] - 30S 抑制劑，常用於 rickettsia、chlamydia、spirochete、acne 與部分寄生蟲預防。
 - [[drugs/theophylline|Theophylline (茶鹼)]] - 氣喘輔助治療但治療窗窄，可造成心律不整或癲癇。
 - [[drugs/thiazolidinediones|Thiazolidinediones, TZD (Thiazolidinedione 類)]] - PPAR-gamma agonist，改善胰島素阻抗但需注意水腫、心衰竭與骨折等風險。
+- [[drugs/thiopental|Thiopental (硫噴妥鈉)]] - Thiopental 為 barbiturate induction agent，可降低 cerebral metabolic rate 與 ICP，但會造成心血管抑制。
 - [[drugs/tnf-inhibitors|TNF inhibitors (TNF 抑制劑)]] - 抑制 TNF-alpha 發炎訊號，用於 RA、AS、IBD 等；需注意 TB/HBV reactivation。
 - [[drugs/topiramate|Topiramate (托吡酯)]] - 多機轉 antiseizure medication，也可用於 migraine prophylaxis；需注意認知、體重、腎結石。
 - [[drugs/topoisomerase-inhibitors|Topoisomerase inhibitors (拓樸異構酶抑制劑)]] - 抑制 DNA 拓樸異構酶造成 DNA 損傷，常見於 GI、肺癌與血液腫瘤治療。

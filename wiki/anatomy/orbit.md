@@ -17,6 +17,9 @@ sources:
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Orbit (眼眶)'
   - 'Orbit'
@@ -31,7 +34,7 @@ tags:
 
 ## Summary
 
-眼眶容納眼球、眼外肌、神經血管與脂肪，疾病可造成 proptosis、眼球運動受限、疼痛或視神經壓迫。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+眼眶容納眼球、眼外肌、神經血管與脂肪，疾病可造成 proptosis、眼球運動受限、疼痛或視神經壓迫。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +51,19 @@ tags:
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 1. 上頷竇早期沒有症狀,當長得夠大時,腫瘤侵蝕鼻內而造成鼻塞或出血。如果侵蝕 到竇後壁或側壁的骨膜時,會造成持續的臉部疼痛,此疼痛可能會沿著第五對腦神 經的第二支分佈。如果侵蝕到上壁,則眼眶內容物向上移位而造成突眼或複視,如 果侵蝕到上齒槽,則造成上頷齒的鬆動。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- ...paranasal sinuses | | | | T4 | Tumor with intracranial extension, involvement of cranial nerves, | | | | | hypopharynx, orbit, parotid gland, and/or extensive soft tissue infiltration | | | | | beyond the lateral surface of lateral pterygoid muscle | | | | | | | | Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 1. Water's view: 主要用於檢查上頷竇,也可檢查額竇、篩竇、鼻腔、眼眶。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 2. Caldwell view:主要檢查額竇、篩竇,也可顯示鼻腔、眼眶。但上頷竇會與顳骨岩部互相重疊,導致部分顯影不清。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (1) 眼窩蜂窩性組織炎(Orbital cellulitis):當篩竇發炎時,pathogen 會經由篩骨板進入眼睛,導致眼眶周圍水腫或眼球的內容物發炎,產生眼窩蜂窩組織炎(orbital cellulitis)。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 3. 本病起源於鼻咽頂部的纖維組織及血管組織,多為圓形、橢圓形,瘤體深紅或灰紅色,表面光滑,但無包膜,上皮下可見明顯擴張的血管,血管壁薄,為單層上皮, 易大出血。組織學上雖屬良性,但由於腫瘤逐步增大,可壓迫鄰近骨壁,侵入鼻竇、 眼眶、翼腭窩,甚至破壞顱底而造成嚴重後果。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 5. 侵入眼眶出現複視、流淚、視力減退等。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - F. 眼球內容物剜除術 (Evisceration of eyeball)、眼窩剜除術 (Exenteration of orbit) 177 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 1. 眼眶是由七塊骨頭組成的梨形空腔,容積約30 cc。 - (1) 屋頂 (roof) 為蝶骨小翼和額骨的眶板 (orbital plate)。 - (2) 外側壁(lateral wall) 為蝶骨大翼和顴骨。 - (3) 底板(floor) 為顴骨、上頷骨和顎骨。 - (4) 內側壁(medial wall)為上頷骨、淚骨、篩骨和蝶骨。內側壁的篩骨是最薄, 又稱為紙板(lamina papyracea),容易骨折。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - 2. 上眼眶裂(superior orbital fissure)有 CNIII、IV、V1、VI、上眼靜脈、交感神經纖維通過。 Source: [[sources/med6-book2-ch15|卯、眼眶]].

@@ -34,6 +34,7 @@ sources:
   - "[[sources/med6-book1-ch15]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Escherichia coli infection (大腸桿菌感染)'
   - 'Escherichia coli infection'
@@ -48,7 +49,7 @@ tags:
 
 ## Summary
 
-E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -82,9 +83,12 @@ E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已�
 - [[sources/med6-book1-ch15]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 2. 致病菌種: - (1) 細菌(90%以上為細菌性感染): - a. Pseudomonas aeruginosa ° - b. Pseudomonas vulgaris · - c. E. coli ° - d. S. aureus o - (2) 黴菌: - a. Candida albicans o - b. Aspergillus niger · Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (c) Escherichia coli. • Source: [[sources/med6-book4-ch11|甲、耳科]].
 - | Uncomplicated UTI | (1)Escherichia coli 為主,佔 75~95% | |-------------------|---------------------------------------------------| | | (2)腸道菌,如 Proteus mirabilis 和 Klebsiella pneumonia | | | (3)Staphylococcus saprophyticus | | Complicated UTI | (1)包括上述致病菌 | | | (2)Pseudomonas, Serratia, and Providencia species | | | (3)黴菌 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - ※ 複雜性泌尿道感染易出現抗藥性菌株,如 extended-spectrum beta-lactamase (ESBL) *E. coli* 或 fluoroquinolone-resistant *E. coli* Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
 - (C) 1.25 歲 G2P1 孕婦,妊娠 13 週,因外陰搔癢求診。尿液細菌培養檢驗出現 100,000 cfu/mL 大腸桿菌(E. Coli),並無其他性傳染疾病徵候。此孕婦並無解尿困難、解尿疼痛、頻尿及漏尿症狀;亦無下腹部及腰部壓痛、疼痛症狀,體溫正常,此時的最適當處置為: - (A) 不需治療 - (B) 出現泌尿道感染症狀時開始治療 - (C) 立即給予抗生素治療 - (D) 目前不需治療, 待產時給與抗生素治療 Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
@@ -101,8 +105,6 @@ E. coli 可造成 UTI、腸胃炎、菌血症與多種院內感染。 本頁已�
 - (1) 大腸內含有上百種正常菌叢,其中以 Bacteroides 類最多,其次 E. coli。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
 - (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- ...上題,若 stool culture 長出何種細菌,則會被認為是 antibiotic associated colitis? (A) Clostridium difficile (B) Staphylococcus aureus (C) E. coli (D) Streptococcus bovis | - 100(一)專醫五-11 | | (D) 22. 承上題,此時會選擇何種藥物治療? (A) 注射 clindamycin | 100(一)專醫五-12 | Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- (A) 大腸桿菌 O157: H7 (E. coli O157: H7) Source: [[sources/med4-book1-ch08|辛、血液學]].
 
 ## Clinical Caveats
 

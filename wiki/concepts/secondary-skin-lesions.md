@@ -49,6 +49,8 @@ sources:
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch09]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Secondary skin lesions (次發性皮膚病灶)'
   - 'Secondary skin lesions'
@@ -63,7 +65,7 @@ tags:
 
 ## Summary
 
-膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膿疱、痂、鱗屑、糜爛、潰瘍、疤痕與萎縮反映病程與破壞深度。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +114,13 @@ tags:
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch09]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- c. 治療後的影響如術後沾黏與疤痕攣縮(scar contracture)、放射線治療造成的 纖維化、神經炎等都會造成疼痛。通常需要用多種方式治療疼痛。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
+- ...of the | | | | | mandible or maxilla, or involves the moxillary sinus or skin of the face) | | | | | Note: Superficial erosion of bone/tooth socket (alone) by a gingival primary is not | | | | · | sufficient to classify a tumor as T4. | | | | T4b | Very advanced local disease | | | | | Tumor invades masticator space, pterygoid plates, or skull Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - 輕觸覺(本體感覺)和針刺覺(疼痛)來測量。受同一脊髓段支配的肌肉稱為肌節(myotome),但很少用肌節來檢查,因為每塊肌肉都有多段脊髓支配,而且肌節之間還有重疊。上圖為 American spinal injury association(ASIA)制定的 SCI impairment scale,從 motor level、sensory level 和 neurologic level 來評估脊髓損傷的程度。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (7) ASIA impairment scale: ASIA 從早期的 Frankel scale 去作修訂,根據感覺和運動功能的保留情形,將脊髓損傷分為 ABCDE 五期。 - a. A=完全性損傷:在薦髓 S4-5 部分,完全沒有感覺或運動機能。 - b. B = 不完全性損傷:在 neurological level 以下,運動機能完全喪失,但此部位到最低薦髓段仍保有感覺機能。且兩側 motor level 的下三節以下的 key muscle 皆無運動功能。 - c. C = Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (8) ASIA impainment scale 的分類三步驟: - a. STEP 1:分類時先分是不是 complete 即 ASIA A =沒有 sacral sparing =「沒有自主肛門收縮」+「S4-5 的 pin prick 和 light touch 都 = 0」+「沒有肛門 深處的感覺」。 - b. STEP 2:若不是 ASIA A,接著看是不是"motor" incomplete,看是否有 (a) 自主肛門收縮或 (b) 兩側的 motor level 各自的 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
@@ -131,7 +137,6 @@ tags:
 - ...removal or coagulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the s Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
 - | 射精量 | > 1.5 ml | |------|-------------------------------------| | 精蟲濃度 | $> 15 \times 10^6 \text{ sperm/ml}$ | | 活動度 | > 40% (Grade 3 + Grade 4) | | 前進度 | 2 (scale 1~4) | | 型態 | > 30% WHO normal forms | | | > 4% Kruger normal forms | Source: [[sources/med5-book5-ch08|辛、男性學]].
 - M. 食道潰瘍 (Esophageal erosion) 103 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (1) 長期心灼熱(heartburn): 典型症狀幾乎可確診,位於上腹(epigastric)和後胸骨(retrosternal)區,呈燒灼或刺痛感且不會放射轉移到後背,也不會有壓迫感。 - a. 在問診上要盡量讓病人清楚明確描述,以和胃潰瘍(peptic ulcer disease)、膽結石(cholelithiasis)、冠狀動脈疾病(coronary artery disease)等疾病區別。 Source: [[sources/med5-book4-ch05|戊、食 道]].
 
 ## Clinical Caveats
 

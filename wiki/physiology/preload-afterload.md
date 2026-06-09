@@ -19,6 +19,7 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Preload and afterload (前負荷與後負荷)'
   - 'Preload and afterload'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-理解心衰竭、瓣膜病與血管擴張藥物效果的基本概念。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+理解心衰竭、瓣膜病與血管擴張藥物效果的基本概念。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- a. 若有必要獲知心輸出指數、前負荷、體液容積狀況或靜脈血液混合氧氣程度, 則需考慮肺動脈導管。尤其是血液動力學不穩定而具有高危險性的病人(如: 近期心肌梗塞),或在手術過程中容易產生血液動力學併發症的病人(如修 補胸部主動脈瘤),尤其需要肺動脈導管的監視。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - | 懷孕早期 | 和心搏量增加較有關,心搏量增加是因 preload 增加 (blood | |------|--------------------------------------| | | volume 增加)及 afterload 減少 (周邊的血管阻力下降) | | 懷孕晚期 | 和心跳加快較有關,心跳平均每分鐘增加 15~20 下 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - b. 血管阻力及血壓:受到懷孕內分泌變化的影響,造成血管擴張,周邊的血管阻力下降(包括肺部和腎臟),因而血壓也下降;不過,血壓到第三孕程會慢慢回升至懷孕前的狀態。 - ※ Supine hypotension syndrome: 妊娠 20 週後,子宮大到超出骨盆腔,來到腹腔,當孕婦平躺時,增大的子宮會壓迫 IVC,造成 preload ↓→ CO ↓→ hypotension → reflex autonomic activation,導致頭暈、嘔吐、手腳麻木、冒冷汗等症狀。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (A) 懷孕時因為心血管的前負荷(preload)下降,孕婦症狀會變嚴重 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
@@ -72,7 +75,6 @@ tags:
 - (2) 站立、Valsalva maneuver 時,preload 下降→左心室出口阻塞變嚴重→收縮期雜音變得明顯。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - (B) 減低左心室後負荷 (afterload) Source: [[sources/med3-book1-ch07|庚、心肌症]].
 - (C) 減低左心室前負荷 (preload) Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- b. 心血管益處:ACEI 可減少心臟 Preload、Afterload,減緩心肌梗塞後(Post MI) 心臟的 remodeling(心室擴張),而保存左心室功能,減緩心臟衰竭的進展。可 改善心臟衰竭症狀;對於有高血壓及心臟衰竭的患者,ACEI/ARB、β blocker、 皆可改善存活率。ARB 目前用於 ACEI 有副作用的病患。 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
 
 ## Clinical Caveats
 

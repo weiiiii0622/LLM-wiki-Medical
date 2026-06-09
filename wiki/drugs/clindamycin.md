@@ -15,6 +15,7 @@ sources:
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Clindamycin (克林黴素)'
   - 'Clindamycin'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，抗 GPC 與部分厭氧菌，也可抑制 toxin production。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch03]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- (5) 治療: - a. 藥物:使用三到六週的抗生素及局部類固醇治療,抗生素可使用 Augmentin、 Macrolide、Fluoroquinolone、Clindamycin 等。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...| | | ・加入 10% KOH 會出現明顯的魚腥味,為 whiff test (+) | | | • 食鹽水稀釋的抹片下可觀察到 "clue" cells (>20%) | | 治療 | ・ 首選藥物:Metronidazole 或 Clindamycin 之口服藥或陰道乳膏 | | | • 二線藥物:口服 Tinidazole | | | ・ 其他:益生菌如乳酸桿菌 GR-1、RC-14 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...ng yeast 或 | _ | | | whiff test (+) | hyphae 更明顯 | | | 治療 | Metronidazole 或 | 口服 (fluconazole) | 口服 metronidazole | | | Clindamycin 之口服 | 或局部 (clotrimazole, | | | | 藥或陰道乳膏 | nystatin) 抗黴菌藥 | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...ral regimens 如下,臨床上有9成以上的治癒率 - Cefoxitin (2 g iv, q6h) or cefotetan (2 g iv, q12h) plus doxycycline (100 mg po, q12h) - Clindamycin (900 mg iv, q8h) plus gentamicin loading dose (2 mg/kg) followed by a maintenance dose (1.5 mg/kg) q8h or single daily dose - b. parenteral regimens 治療至少 48 小時,若症狀改善持續超過 24 小時,即可改為口服藥物,合計使用 14 天。 - ※ 2007 CDC guidelines Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -64,7 +67,6 @@ tags:
 - (A) clindamycin 投予 7 天 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 4. 若對 penicillin 類抗生素過敏可用口服 clindamycin 或是 cephalosporin。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - ...| Macrolide (肝) | Erythromycin | 非典型肺炎 (Mycoplasma, Chlamydia) | | | | | Azithromycin | HIV 病患的 MAC | | | 抑制 50S 核醣體 | Lincosamide (肝) | Clindamycin | 厭氧菌→橫膈以上的膿瘍 | | | | | | 抑制細菌毒素製造→壞死性筋膜炎 | | | | Oxazolidinones (肝) | Linezolid | 可用於多重抗藥性的細菌 | | | | Chloramphenicol | Chloramphenicol | 毒性大,現少用(再生不良貧血、灰嬰) | | | 抑制 30S 核醣體 | Aminoglycoside | Gentami Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- #### 2. Lincosamide 類:如 Clindamycin Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
 
 ## Clinical Caveats
 

@@ -55,6 +55,8 @@ sources:
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch05]]"
 aliases:
   - 'Biliary tract (膽道系統)'
   - 'Biliary tract'
@@ -69,7 +71,7 @@ tags:
 
 ## Summary
 
-膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊與膽管系統相關疾病包含結石、膽囊炎、膽管炎與阻塞性黃疸。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -124,9 +126,13 @@ tags:
 - [[sources/med5-book4-ch15]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch05]]
 
 ## Key Details From Sources
 
+- | 一位成年男性,因急性膽囊炎施行腹腔鏡膽囊摘除術(laparoscopic cholecystectomy),術中會造成病患動脈血中二氧化碳分壓(PaCO 2 )上升的原因,下列何者錯誤? (A) 體溫逐漸下降 (B) 腹腔內二氧化碳的吸收 (C) 麻醉深度不足下,代謝率上升 (D) 肺泡換氣 / 肺部灌流不相稱(VA /Q mismatch) | 99( 一 ) 專醫六 -7 | |--------------------------------------- Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (6) 腸胃道系統。 - a. 影響胃腸道平滑肌的運動,導致痙攣性便秘的產生。 - b. 造成膽道口括約肌(Sphincter of oddi)的痙攣,阻礙膽汁與胰液的排出,進而使胃的排空速度減緩。 - c. 膀胱括約肌張力增加,也會影響尿排空的功能。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
 - 註:有高血脂症、活動性膽囊疾病或血栓形成體質(thrombophilia)的婦女應避免使用口服雌激素。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...rtality ( Endometrial hyperplasia and carcinoma | ● Type II DM | | ( 單獨用 E) | ● Recurrent urinary tract infection | | • Gallbladder disease | ● Osteoarthritis | | Nephrolithiasis | ● Falls | | Urinary incontinence | ● Cataract | | Bronchospasm | Skin changes | | Dementia | | | Uterine myomas | | | • Epilepsy | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...1(二)專 | | | (A) 使用荷爾蒙可預防骨質疏鬆,建議長期使用 | 醫六 -31 | | | (B) 建議用最低有效劑量以避免副作用 | | | | (C) 有不確定診斷的陰道出血,使用荷爾蒙前應先做檢查 | | | | (D) 有膽囊疾病患者不建議使用荷爾蒙 | | | | 【詳解】目前 HRT 建議用為緩解停經症狀,不應單純為預防骨 | | | | 質疏鬆,且使用極低劑量的荷爾蒙補充和短期使用(2~3年內)。 | | | (C) | 5. 有關停經後婦女的骨質疏鬆(osteoporosis)的敘述,下列何者 | 101(一)專 | | | 錯誤? | 醫六-29 | | | (A) 適度的鈣及維生素 D 補充有助於預防骨質疏鬆 | | | | (B) 戒菸和戒酒可 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -143,8 +149,6 @@ tags:
 - #### 丁、膽道囊腫(Choledochal Cyst) Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
 - 1. 為一種先天性肝內或肝外膽道的異常,出現囊狀的擴張(cystic dilation)。 Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
 - 1. Type I:最常見(60~70%)。可見局部或全部的總膽管擴張,但是肝內膽管不受影響。 Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
-- ...Black stone:由膽色素、磷酸鈣等組成,較為堅硬,顏色深黑。好發於 Cirrhosis、hemolysis 的病人。 - (b) Brown stone (也可稱為 mixed stone):由膽固醇、膽色素、磷酸鈣所混合組成。與膽道感染(K.P infection)息息相關。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 2. 治療:若為無症狀的膽結石,不需要做預防性的膽囊切除。但以下兩種情形必須做 預防性膽囊切除。 - (1) 膽囊壁鈣化 (gallbladder wall calcification): 由於慢性發炎,導致膽囊壁鈣化, 在影像學上又稱為**陶瓷膽囊** (**Porcelain gallbladder**)。在這種狀況容易有癌化 的產生,必須積極處理。 - (2) 幼童膽結石:小朋友的身上意外發現膽結石時,由於小朋友比較不會表達自己身上的疼痛,可考慮進行膽囊切除。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 
 ## Clinical Caveats
 

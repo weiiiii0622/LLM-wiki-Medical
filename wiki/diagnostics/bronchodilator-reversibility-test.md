@@ -38,6 +38,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Bronchodilator reversibility test (支氣管擴張劑可逆性試驗)'
   - 'Bronchodilator reversibility test'
@@ -52,7 +54,7 @@ tags:
 
 ## Summary
 
-評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估可逆性氣流阻塞，是氣喘診斷依據之一。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -90,9 +92,13 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...意識改變的情形,血壓 65/30 mmHg,應優先選擇下列何者處置? (A)靜脈注射抗組織胺(Antihistamine) (B)靜脈注射類固醇(Steroid) (C)靜脈注射腎上腺素(Epinephrine) (D)吸入性支氣管擴張劑(Bronchodilator) | 100(二)專醫四-78 | | (D) 36. | 心臟冠狀動脈疾病手術麻醉處理的原則,下列何者錯誤? | 99(二)專 | | | (A) 增加收縮壓會增加心臟耗氧量 | 醫六-4 | | | (B) 心跳增加會增加心臟耗氧量 | | | | (C) 心臟冠狀動脈血液灌流最佳時期是舒張期 | | | | (D) 增加左心室壁舒張末期壓力,有利於增加冠狀動脈血流量 | | | (C) 37. | 一位 64 歲男性患有嚴重憂鬱 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 3. 在北美,各類型的鼻咽癌佔有率為: type1 佔 25%、type2 佔 12%、type3 佔 63%; 而南亞的分布為: type1 佔 2%、type2 佔 3%、type3 佔 95%。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - ...障礙: - (a) 如果是不完全性脊髓損傷,不論是 UMN 或是 LMN 受傷,皆有較大的機會保留反射性勃起和心理性勃起的功能。 - (b) 如果是完全性脊髓損傷,UMN 受傷者較難有心理性勃起(90%);LMN 受損者較難有反射性勃起(約12%保留),也較難有機會保有心理性勃起(約25%保留)。 - c. 射精 (ejaculation) 障礙: - (a) SCI 的男性患者,保有射精能力的機率比勃起的機會更低,依損傷的程度 和位置有所不同。 - (b) Complete UMN lesions: 2% 患者保有射精能力。 - (c) Incomplete UMN lesions: 32% • - (d) Complete LMN lesions: 18% • - (e) Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 發生率僅 0.4~1%。但造成周產期死亡率約 12%,其中 77% 胎死腹中;其 餘的死於早產兒的併發症 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (2) 簡介:發生率平均約 12%,是造成新生兒死亡最主要的原因,週數愈小,死亡率愈高;除死亡外,早產亦會造成長期的後遺症(如視力問題、腦性麻痺等)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -109,8 +115,6 @@ tags:
 - 3. 心臟瓣膜置換後的 valve-related death: - (1) Thromboembolism:較常發生於機械性瓣膜,佔 12%。 - (2) Reoperation:再度心臟瓣膜手術,佔10%。 - (3) Bleeding:和抗凝血劑的服用有關,佔4%。 - (4) Prosthetic valve endocarditis:通常在術後六個月內發生人工瓣膜感染,佔3%。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (4) 嚴重的慢性阻塞性肺病, $FEV_1 5 Wood units) | | | | (D) 22 歲女性罹患良性心臟內腫瘤合併反覆性心室性頻脈,無 | | | | 法以外科手術切除者 | | | | 【詳解】(C) 心臟移植後有馬上右心室衰竭的風險。 | | | (B) | 3. 在下列何種情況下,作異位心臟移植(heterotopic transplantation) | 99(二)專 | | | 比正位心臟移植(orthotopic transplantation) Source: [[sources/med5-book2-ch07|庚、心臟移植]].
 - (D) 5. 一輛校車和卡車對撞後,引起爆炸和火燒車,車內一位 6 歲男孩被送到急診室,他的眉毛、鼻毛被燒焦,且臉和頸部有大約 12% body surface area (BSA) 的燒傷,他的聲音沙啞、呼吸快淺,血紅素氧飽合度為 70%。此時下列處置何者第一優先? Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- mL,前8小時給一半為4,200 mL。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (C) 11,200 mL; 乳酸林格氏液 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 

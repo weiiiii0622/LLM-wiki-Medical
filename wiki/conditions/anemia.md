@@ -62,6 +62,9 @@ sources:
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch14]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Anemia (貧血)'
   - 'Anemia'
@@ -76,7 +79,7 @@ tags:
 
 ## Summary
 
-血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血紅素或紅血球量下降；初步依 MCV、reticulocyte response 與其他血球變化分類。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -138,9 +141,15 @@ tags:
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch14]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- (1) 內科治療:萎縮性鼻炎在現今對於臨床醫師仍是一大挑戰,其治療目標為消除 細菌感染、減少膿痂塊情形及減輕鼻惡臭味。可依據不同的可能病因考慮以下 方式:長期抗生素治療、給予高劑量維生素 A、改善貧血及營養狀況、減少任 何有毒物質或化學刺激物、補充女性動情激素、生理食鹽水沖洗鼻腔。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 1. 症狀多不明顯,可有輕度鼻塞,偶有咳血或鼻出血現象,易於忽視。隨著腫瘤的增大,常有反覆鼻出血或口中吐血,患者多伴有繼發性貧血。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 4. Plummer-Vinson syndrome: 與 postcricoid 癌症有關,好發於中年女性,伴有缺鐵性 貧血。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - 3. 正常眼壓性青光眼(Normal-tension glaucoma):又稱為低眼壓性青光眼。 - (1) 流行病學:為原發性隅角開放性青光眼的一種變異,占了所有原發性隅角開放性青光眼的 16%,主要影響老人和女性。 - (2) 危險因子:患者通常並有心血管疾病或貧血等,或一些 systemic vasculopathy 如 Raynaud's disease,或其他自體免疫疾病。 - (3) 病因:因為一些 hemodynamic 的問題,以至於眼動脈血液灌流不正常,反映出 缺血性視神經病變,視神經與視野均受影響,但眼壓都在正常範圍內。 - (4) 處理: Prostagladin analog 較適合因眼壓下降的效果好,其他抗青光眼藥物也可使用,若全用上仍控制不好就要考慮開刀。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - 7. 中毒性視神經病變(toxic optic neuropathy): - (1) 簡介:因菸酒過量、營養不良(缺乏 vit. $B_1$ )、再生不良性貧血(缺乏 vit. $B_{12}$ )、藥物毒性(抗結核菌藥物:ethambutol、isoniazid;chloramphenicol、chloroquine)、鉛中毒或甲醇中毒…等原因造成的視神經病變。 - (2) 臨床症狀:無痛性雙側視力減退和色覺減退。 - (3) 徵候:視神經盤正常或蒼白,兩側中心視野缺損和色覺異常。 - (4) 診斷:病史、用藥史,血中 vit. B1、B12 和葉酸含量。 - (5) 治療:停藥、或給予 vit. B1、B12 和葉酸。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (A) 溶血性貧血 (hemolytic anemia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
@@ -156,9 +165,6 @@ tags:
 - 2. Multiple myeloma 是最常見的原發性骨癌。症狀可以用 CRAB (螃蟹的拼音) 來記: - (1) hyper Calcemia • - (2) Renal impairment • - (3) Anemia • - (4) Bone pain • Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - i. 熱潮紅(hot flashess, 佔 60% 人)、性欲及性功能缺失、骨密度下降 (loss of bone mineral density)、貧血、體重及體脂肪增加、認知改變 (cognitive decline)。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
 - ii. 使用賀爾蒙治療需要定期監測這些副作用,處理的方式如下: - (i) 骨密度下降:以 FRAX 評估。使用鈣、維他命 D 補充劑、或是雙磷酸鹽。 - (ii) 貧血:通常很輕微,若嚴重可以補充紅血球生成素。 - (iii) 熱潮紅(hot flashes),可補充醋酸甲羥孕酮(medroxyprogesterone acetate 300~400 mg IM monthly)治療之。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (D) 長期荷爾蒙治療可能有骨質疏鬆、貧血、疲倦等副作用 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (b) 實驗室檢查:除了腫瘤伴隨症狀造成異常外,尚有: - i. 紅血球沈降速率 (erythrocyte sedimentation rate): 75% 上昇。 - ii. 血尿:60%有巨觀或微觀血尿。 - iii. 貧血:30%,貧血並非因為出血造成,是血中鐵的結合能力下降,故 補充鐵劑無效。早期發現腫瘤且切除可以改善貧血。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...勃起異常持久 (priapism): - (a) 定義:持續勃起超過 4~6 小時。 - (b) 成因: 60% 原因不明, 僅 40% 找得到原因。 - i. 低血流量(ischemic type。陰莖硬,但龜頭軟):95%。鐮刀細胞性貧血(最常見占3成,小朋友6成)、白血病、藥物(如 prazosin)、陽痿治療失當。 - ii. 高血流量 (non-ischemic type。陰莖偏軟,無痛無症狀): 陰部動脈瘻管 (pudendal artery fistula,常因外傷所致)。 - (c) 診斷:理學檢查即可診斷,另可搭配彩色都卜勒超音波確認。不用實驗 室檢查。 - (d) 治療: - i. 初步保守治療:冷水澡、射精、運動,但這些尚無研究依據。 - ii. 一線 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
 
 ## Clinical Caveats
 

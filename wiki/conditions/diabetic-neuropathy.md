@@ -2,10 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book4-ch07]]"
   - "[[sources/med4-book4-ch01]]"
+  - "[[sources/med6-book4-ch09]]"
+  - "[[sources/med6-book4-ch13]]"
 aliases:
   - 'Diabetic neuropathy (糖尿病神經病變)'
   - 'Diabetic neuropathy'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-糖尿病周邊或自主神經併發症，影響足部照護與生活品質；可為對稱性 distal polyneuropathy 或 focal/cranial neuropathy。 本頁已整合至 `醫(四)第4冊神內`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+糖尿病周邊或自主神經併發症，影響足部照護與生活品質；可為對稱性 distal polyneuropathy 或 focal/cranial neuropathy。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book4-ch07]]
 - [[sources/med4-book4-ch01]]
+- [[sources/med6-book4-ch09]]
+- [[sources/med6-book4-ch13]]
 
 ## Key Details From Sources
 
+- 3. Neuropathic pain:疼痛方式以刺麻、燒灼的感覺表現。通常是因為中樞神經系統或 周邊神經系統的受傷所導致。如帶狀皰疹後疼痛(postherpetic neuralgia)與糖尿病 神經病變(DM neuropathy)。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
+- 4. 神經性: - (1) 糖尿病神經炎。 - (2) 中樞性神經病變。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
 - IV. 糖尿病神經疾病 (DM Neuropathy) 169 - A. 對稱性糖尿病神經病變:多發性神經病變 (Polyneuropathy) 169 - B. 非對稱性糖尿病神經病變:顱神經麻痺(Cranial nerve palsy) 169 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 最後介紹糖尿病神經病變,分為對稱性及非對稱性,對稱性糖尿病神經病變好 發於末端肢體的感覺神經,非對稱性好發於第三對腦神經。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - ...120(快) | | $A_{\beta}$ | 觸、壓 | | + | 5~12 | 30~70 | | $A_{\delta}$ | 冷、熱、痛 | | + | 2~5 | 12~30 | | В | | 內臟輸出 | + | 下列有關糖尿病神經病變之敘述,何者錯誤? (A) 遠端對稱性以感覺為主的多發性神經病變最為常見 (B) 糖尿病患者之死亡率與大纖維神經病變密切相關 (C) 動眼神經病變為常見的糖尿病性顱神經病變 (D) 第一型糖尿病患者神經病變與高血糖密切相關 | 107(一)專醫四 -55 | |-----|----------------------------------------------------------------------------------- Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].

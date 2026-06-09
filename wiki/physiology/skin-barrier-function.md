@@ -12,6 +12,7 @@ sources:
   - "[[sources/med4-book2-ch08]]"
   - "[[sources/med4-book2-ch09]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Skin barrier function (皮膚屏障功能)'
   - 'Skin barrier function'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-角質層、脂質與免疫細胞共同減少水分散失並抵禦外界刺激與病原。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+角質層、脂質與免疫細胞共同減少水分散失並抵禦外界刺激與病原。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ tags:
 - [[sources/med4-book2-ch08]]
 - [[sources/med4-book2-ch09]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 1. 簡介:膽脂瘤與膽固醇並沒有關聯性,而是一種內凹的囊狀構造,並有上皮細胞的 角質層增生,使細菌容易於此滋養增生。會侵犯於中耳腔鼓膜、乳突,以及顳骨。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (1) 耳鏡下可見: - a. 鼓膜凹陷, 並且可見角質層沉積、肉芽顆粒狀物質增生。 - b. 鼓膜穿孔。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - (b) 剪力(shearing force)以及摩擦力:斜躺或半坐臥時,摩擦力將皮膚繃緊形成一股水平切力,將供應皮膚的血管扯扁,導致皮膚的缺氧及壞死。另外摩擦力亦會將角質層磨掉、使表皮層和基底細胞分離,使表皮更易受損。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - 2. 表皮:位於皮膚最上層,厚度從最薄的眼皮 0.04 mm 至最後的足底 1.5 mm 不等,由表面而下可分為五層:角質層、透明層、顆粒層、棘狀細胞層和基底層。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].
 - (1) 角質層(stratum corneum):由 25~30 排扁平死細胞(分化完成之角質細胞)組成,細胞間質為膽固醇、神經醯胺(ceramide)和游離脂肪酸。為人體對付來自外界各式各樣物理、化學性刺激,如乾燥、冷熱、紫外線等的天然屏障。此層含有 15~20% 由皮膚自行產生的天然保濕因子(Natural Moisturizing Factor)。 Source: [[sources/med4-book2-ch01|甲、皮膚組織構造及生理]].

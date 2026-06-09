@@ -42,6 +42,9 @@ sources:
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch10]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Aortic aneurysm (主動脈瘤)'
   - 'Aortic aneurysm'
@@ -56,7 +59,7 @@ tags:
 
 ## Summary
 
-主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+主動脈擴張與破裂風險相關，需依位置與大小評估追蹤或介入。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -98,9 +101,15 @@ tags:
 - [[sources/med5-book5-ch05]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch10]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- | V | 危及生命,沒有開刀就無法存活 | 主動脈瘤破裂、嚴重創傷、顧內出血合併腫塊效應、腸缺血併多重器官失能、子宮破裂的孕婦 | 9.4%~51% | |----|-----------------------------------|-----------------------------------------------|----------| | | 的病人 | 一 | | | VI | 腦死病人 | 進行器官捐獻者 | | | Е | 若為急診刀,會在後面加個 E,例如: ASA 3E | | | Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- a. 若有必要獲知心輸出指數、前負荷、體液容積狀況或靜脈血液混合氧氣程度, 則需考慮肺動脈導管。尤其是血液動力學不穩定而具有高危險性的病人(如: 近期心肌梗塞),或在手術過程中容易產生血液動力學併發症的病人(如修 補胸部主動脈瘤),尤其需要肺動脈導管的監視。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (D) 32. 50 歲男性病人,三天前因嚴重頭痛到院,經電腦斷層與血管攝影檢查後診斷出大腦動脈瘤(cerebral arterial aneurysm),現進行手術。對麻醉的誘導和維持,下列敘述何者錯誤? - (A) 需動脈導管 (arterial catheter) 監測血壓 - (B) 麻醉誘導須避免突然血壓上升 (acute hypertension) - (C) 手術中選擇性低血壓 (induced hypotension) 常使用高濃度 isoflurane 合併 nitroprusside - (D) 手術中過度換氣,造成動脈二氧化碳氣體壓力 ( $PaCO_2$ ) 的下降,可增加腦部血流量 (cerebral blood flow) Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - ...hondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dysplasia, Aneurysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - 3. 動脈瘤性骨囊腫(Aneurysmal Bone cyst)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (B) aneurysmal bone cyst Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
@@ -116,9 +125,6 @@ tags:
 - ...| 外亦須切除部分肝臟並進行淋巴結廓清 | | | (D) | 5. 下列何者是最常引起膽道出血(hemobilia)的原因? | 99(二)專 | | | (A) 膽結石 | 醫五 -47 | | | (B) 動脈瘤 (arterial aneurysm) | | | | (C) 惡性肝膽腫瘤 | | | | (D) 醫源性創傷 (iatrogenic trauma) | | Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 - 4. 假性動脈瘤(Pseudoaneurysm)。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
 - (DTAA, descending thoracic aortic aneurysm; MRA, magnetic resonance angiography; TAAA, thoracoabdominal aortic aneurysm) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- (全)11.38 歲男性,因駕轎車撞橋墩被送到急診室,到院後評估發現, 100(二)專血壓 100/70 mmHg,心跳 88 / 分,呼吸次數 20 / 分,頸靜脈 醫五-22 無怒張,無 cyanosis,呼吸音正常,胸部 X 光顯示縱膈變寬,以下何者是最可能的診斷? - (A) 心包填塞 (cardiac tamponade) - (B) 主動脈剝離 (aortic dissection) - (C) 主動脈瘤破裂 (ruptured aortic aneurysm) - (D) 心肌挫傷 (myocardial contusion) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- (1) Absolute: - a. 嚴重的 AR, 在舒張期 aortic valve 關不緊,此時還將 balloon 充氣會使血液回流至左心室,造成左心室的 loading 太大。 - b. 病人有 aortic dissection 或 aneurysm 的時候,造成額外的壓力波動有可能讓 dissection 裂得更大,或使 aneurysm 破掉。 - c. 嚴重的 aorta-iliac artery 的鈣化,此種脆弱的血管容易有風險。 - d. 不適合心臟移植的慢性末期心衰竭患者(用了幫助不大)。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (2) Relative: - a. 主動脈瓣膜輕微閉鎖不全 - b. 主動脈瓣膜狹窄 - c. 周邊動脈阻塞疾病 - d. 從前有接受過主動脈瘤手術 - e. 心跳停止進行心肺復甦術時 Source: [[sources/med5-book2-ch08|辛、其 他]].
 
 ## Clinical Caveats
 

@@ -13,6 +13,7 @@ sources:
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Atherosclerosis (動脈粥狀硬化)'
   - 'Atherosclerosis'
@@ -27,7 +28,7 @@ tags:
 
 ## Summary
 
-斑塊形成、破裂與血栓連結穩定型心絞痛和急性冠心症。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+斑塊形成、破裂與血栓連結穩定型心絞痛和急性冠心症。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -40,9 +41,11 @@ tags:
 - [[sources/med5-book2-ch03]]
 - [[sources/med5-book5-ch01]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- c. 血管壁病變:動脈粥狀硬化、血管壁損傷、動脈炎、先天性動脈異常。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 4. 視網膜中心動脈阻塞(Central retinal artery occlusion, CRAO): - (1) 原因:最常由視網膜動脈硬化栓塞造成。其它原因有:頸動脈粥狀硬化引起的 脂肪栓子、心臟瓣膜疾病產生的鈣化栓子、纖維蛋白及血小板血栓、巨細胞動 脈炎、膠原性血管疾病等。 - (2) 臨床表現: 單側無痛性突然發生完全視力喪失,約有 25% 病人在發作前有陣發性黑曚 (amaurosis fugax),10% 的病患會有類似中風的症狀 (TIA)。 - (3) 眼底檢查:動脈和靜脈變細及分節 (又稱乳牛運輸 cattle-trucking)、 廣泛性視網膜灰白色水腫混濁、黃 斑部出現 cherry-re Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 2. 受腎者 (recepient) 的術前評估: - (1) 受腎者腎移植禁忌症: - a. 絕對禁忌症: - (a) 仍有活動性感染或腫瘤:例如尿路感染(UTI)、惡性腫瘤。 - (b) 嚴重血管硬化:例如動脈粥狀硬化 (atherosclerosis)。 - (c) 可回復的腎功能:例如胱胺酸血症(cystinosis)。 - b. 其他考量:若預期生命少於5年,則不建議換腎。 - (2) 原先泌尿系統評估:為了確認泌尿系統在移植後能正常運作。 - a. 上泌尿道:需考量原先自體腎臟情況。 - (a) 保留腎:占 90% 受腎者,因為仍可以製造紅血球生成素及維生素D。 - (b) 需移除腎:占 10% 受腎者,適應症包括: - i. 嚴重蛋白尿: Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (1) Degenerative aneurysm:由於粥狀動脈硬化(atherosclerosis),造成血管壁脆弱而引起,為最常見的原因。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].

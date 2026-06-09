@@ -7,6 +7,7 @@ sources:
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch04]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'SCI functional goals by level (脊髓損傷功能目標)'
   - 'SCI functional goals by level'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-以損傷節段推估手功能、移位、輪椅、步行與照護依賴程度，協助設定可達成復健目標。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以損傷節段推估手功能、移位、輪椅、步行與照護依賴程度，協助設定可達成復健目標。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch04]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- ...|--|--| | T Category | T Criteria | | | | TX | Primary tumor cannot be assessed | | | | Tis | Carcinoma in situ | | | | T1 | Tumor $\leq 2$ cm, $\leq 5$ mm depth of invasion (DOI) | | | | | DOI is depth of invasion and not tumor thickness. | | | | T2 | Tumor $\leq 2$ cm, DOI $> 5$ mm and $\leq 10$ mm | | | | | $or \text{ tumor} > 2 \text{ c Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- ...| STAGE GROUPS | | | |-------------------|--------------|------|-------| | T | N | M | GROUP | | Tis | N0 | M0 | 0 | | T1 | N0 | M0 | I . | | T2 | N0 | M0 | п | | Т3 | N0 | M0 | III | | T1, 2, 3 | N1 | M0 | III | | T4a | N0, N1 | M0 . | IVA | | T1, 2, 3, 4a | N2 | M0 | IVA | | Any T | N3 | М0 | IVB | | T4b | Any N | М0 | IVB | | Any T | An Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- ...| | | | Т0 | No tumor identified, but EBV-positive cervical node(s) involvement | | | | Tis | Carcinoma in situ | | | | T1 | Tumor confined to nasopharynx, or extension to oropharynx and/or nasal | | | | | cavity without parapharyngeal involvement | | | | T2 | Tumor with extension to parapharyngeal space, and/or adjacent soft tissue | | | | Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - 1. 流行病學: - (1) Motor vehicle accident (44%) > Violance (24%) > Fall (22%) > Sports (8) > Other (2%) $\circ$ - (2) USA:Tetraplegia(四肢癱瘓)> Paraplegia(下半身癱瘓);Taiwan:Paraplegia > Tetraplegia。 - (3) Tetraplegia:以C5 level 損傷最常見。 - (4) Paraplegia:以T12 level 損傷最常見。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (1) 人體脊柱有7節頸椎、12節胸椎、5節腰椎、5節融合一體的薦椎和退化的尾椎, 而脊神經分別有 C1~8、T1~12、L1~5 以及 S1~5,除了 C1 從第一頸椎上面發出 以及 C8 從第七頸椎和第一胸椎間發出之外,其他脊神經皆從相對應的脊椎下 的間隙發出。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (3) Motor level of injury:雖然每一節段的脊神經支配不只一塊肌肉,但每一節段都有其主要支配的 key muscle,所以可藉由測驗 key muscle 的 muscle power 去評估脊髓某節段的受損情形。ASIA 中運動評分的脊髓節段以及其對應的 key muscle 和 function 如下表(腹部肌群不列入評估),假使某一節的 muscle power 有三分以上,且其上方一節的 muscle power 有五分,則該節即為脊髓損傷的 motor level (損傷僅止於此),例:T1的肌力有4分且C8為5分,則T1為「motor level of injury」。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].

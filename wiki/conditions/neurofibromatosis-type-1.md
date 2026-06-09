@@ -19,6 +19,7 @@ sources:
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book2-ch08]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Neurofibromatosis type 1, NF1 (第一型神經纖維瘤症)'
   - 'Neurofibromatosis type 1, NF1'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibroma、視神經膠質瘤與學習問題。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibroma、視神經膠質瘤與學習問題。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,11 @@ RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibro
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book2-ch08]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...即小腦橋腦角(CP angle)之處。 - c. 佔顱內腫瘤數約 8%, 佔小腦橋腦角腫瘤數約 80~90%。 - (2) 流行病學: - a. 好發年齡為大於 50 歲的病人。 - b. 90% 為單側。(雙側的侵犯好發於 type 2 neurofibromatosis 的病人) - (3) 臨床症狀: - a. 初期由於腫瘤生長相當緩慢,因此臨床表現可能只有漸進性的單側聽力障礙 或耳鳴,並不會出現暈眩的症狀。 - b. 後期因腫瘤壓迫至其他神經與血管,會出現突發性的聽力喪失或暈眩感。也 會伴隨顏面神經麻痺與三叉神經的感覺異常。 - (4) 臨床診斷: - a. Weber's test、Rinne test:檢測聽力是否為單側聽力障礙。 - b. Corneal reflex:檢測三叉神經是否受到影 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - #### 2. 神經纖維瘤 (neurofibromatosis): Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (2) 在眼睛的表現: - a. 第一型: - (a) 眼眶:視神經膠質瘤(optic nerve glioma)、蝶骨一眼眶腦膨出(spheno-orbital encephalocele) - (b) 眼瞼神經纖維瘤:眼瞼增厚且呈現 S 型異常。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - (c) 許氏結節 (Lisch nodule): 是一種位於虹膜的黑色素細胞的缺陷瘤,一般在20歲以上的第一型神經纖維瘤病患者會100%發生,多為兩側性且無害。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
@@ -72,7 +75,6 @@ RAS pathway 相關神經皮膚症候群，可有 cafe-au-lait spots、neurofibro
 - ...腫的主要供血管用藥物栓塞,減少手術當中的出血。 - (b) 將骨囊腫分離完整切除,如果不完整切除會有 20~50% 的復發率。 - (c) 約70~90% 可獲控制,需合併放射線治療。 - (3) 骨髓瘤 (myeloma)。 - (4) 神經纖維瘤 (neurofibroma)。 - (5) 淋巴瘤(lymphoma)。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - (3) 神經纖維瘤 (neurofibroma): 發生機率低於腦膜瘤和神經鞘瘤,好發於頸椎。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 - ...| | 角膜上,此現象稱為: | 醫四 -55 | | (A) Kayser-Fleischer ring | | | (B) Café au lait spots | | | (C) Cherry red spots | | | (D) Lisch nodules | | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (C) 1. 下列何者不是神經纖維瘤第一型 (neurofibromatosis type 1) 的典 108(一)專 型症狀? 醫四-58 - (A) 虹膜色素瘤(Lisch nodule) - (B) 咖啡牛奶斑 (café au lait spots) - (C) 雙側聽神經瘤 (bilateral acoustic neuromas) - (D) 皮膚多發性神經纖維瘤 (multiple skin neurofibromas) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 
 ## Clinical Caveats
 

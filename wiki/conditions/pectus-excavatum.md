@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book4-ch13]]"
 aliases:
   - 'Pectus excavatum (漏斗胸)'
   - 'Pectus excavatum'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-胸骨與肋軟骨向內凹陷的胸壁畸形，可造成外觀、心肺壓迫或運動耐受問題，嚴重度常以影像與功能評估。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胸骨與肋軟骨向內凹陷的胸壁畸形，可造成外觀、心肺壓迫或運動耐受問題，嚴重度常以影像與功能評估。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book4-ch13]]
 
 ## Key Details From Sources
 
+- 3. 漏斗胸:因病童須用力吸氣,久之導致胸廓畸形。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
 - B. 凹胸、漏斗胸(Pectus excavatum、Funnel chest、Sunken chest) *4* Source: [[sources/med5-book4-ch01|甲、胸壁]].
 - ### B. 凹胸、漏斗胸 (Pectus excavatum、Funnel chest、Sunken chest) Source: [[sources/med5-book4-ch01|甲、胸壁]].
 - (2) 漏斗胸係數(Funnel Index, FI or Haller index)=胸腔左右距離/胸腔前後距離,如 FI > 3.25,則有手術之必要,各年齡層均適用。 Source: [[sources/med5-book4-ch01|甲、胸壁]].

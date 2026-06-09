@@ -43,6 +43,7 @@ sources:
   - "[[sources/med6-book2-ch06]]"
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch07]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'ACR/EULAR RA classification criteria (RA 分類準則)'
   - 'ACR/EULAR RA classification criteria'
@@ -57,7 +58,7 @@ tags:
 
 ## Summary
 
-RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加總評分。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +101,12 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 - [[sources/med6-book2-ch06]]
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch07]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- 5. 肝臟系統:是否有 B 或 C 型肝炎、肝硬化(child-Pugh score)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 3. 呼吸道檢查:用來判斷困難插管的可能,通常可以記口訣:L-E-M-O-N。 - (1) L Look:評估外觀是否有顏面創傷、暴牙、大鬍子、大舌頭、肥胖、缺牙、 搖晃的牙齒…等。 - (2) E Evaluation : 3-3-2 rules - a. 張口是否有3指幅? - b. 下巴前緣到舌骨的距離是否有 3 指幅? - c. 舌骨到甲狀軟骨的距離是否有 2 指幅? - (3) M Mallampati score: - a. 在做這項檢查時,首先請病人坐直,把嘴巴張到最大並且將舌頭伸出後觀察 縣壅垂被遮蓋的程度。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - · Improved anxiety and depression score Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ...erential Current, IFC): 兩組電極互相對稱擺放呈十字型,並將欲治療部位置於十字型中央。兩組電極會各自放射中頻波穿透皮膚,其電磁波會互相加乘而產生較單組電極可穿透更深的電磁波。 - (3) 適應症:下背痛、退化性關節炎、類風濕性關節炎、韌帶扭傷、肌腱炎、肌肉 肌膜疼痛等。 - (4) 禁忌症: - a. 動靜脈血栓或血栓性靜脈炎(thrombophlebitis)。 - b. 勿放在頸動脈竇附近,以免造成心律不整。 - c. 心律調節器附近,以免干擾節律器功能。 - d. 孕婦、癲癇、癌症。 - e. 感覺異常者或無法表達溝通者。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - 1. 當出現嚴重、持續性的周邊角膜浸潤、潰瘍或無法解釋之周邊角膜變薄時,應考慮 是否為全身性膠原血管疾病所造成。最常見的疾病是類風濕性關節炎(RA)造成 的角膜炎,這些角膜炎的表現包含了: - (1) Peripheral ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (W Source: [[sources/med6-book2-ch05|戊、角 膜]].

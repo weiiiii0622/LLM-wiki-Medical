@@ -120,6 +120,10 @@ sources:
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Hypertension (高血壓)'
   - 'Hypertension'
@@ -134,7 +138,7 @@ tags:
 
 ## Summary
 
-血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血壓長期升高造成心血管、腎臟與腦血管風險；本書涵蓋分類、次發性原因與急症處理。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -254,9 +258,21 @@ tags:
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 3. 心血管系統;是否有高血壓、心絞痛、心肌梗塞、心律不整的病史。若有以上疾病, 必須在深入詢問病患使用什麼藥物控制、最近的發作時間,是否有心臟節律器…等 等。若近期有心肌梗塞發作的情況,AHA 建議發生後要大於 4~6 週後再接受麻醉 手術。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- (1) 高血壓:目前建議除了利尿劑外,其他高血壓藥物術前可以正常服用,可提 醒病患以少量水吞服。對於手術的病患,利尿劑可能會造成電解質紊亂。 ACEI/ARB 類的藥物術前仍可服用,但可能會造成術中低血壓(profound hypotension)影響術中評估低血壓的準確性。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- (6) 單 胺 氧 化 酶 抑 制 劑(monoamine oxidase inhibitors, eg: phenelzine and isocarboxazid):治療 depression 的藥物,會增加細胞內 amine neurotransmitter 的濃度(eg: dopamine, epinephrine, norepinephrine and serotonin),建議術前兩週停藥,以免與 indirectly acting vasopressor,例如 ephedrine 併用時造成高血壓風暴,或與 meperidine 併用造成血清素風暴。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 1. 發生惡性高熱時的表現可分早、晚期症狀: - (1) 早期症狀: End tidal CO, 上升、心跳加快。 - (2)晚期症狀:溫度上升、橫紋肌溶解、肌蛋白尿、代謝呼吸酸中毒、全身僵硬、 咬肌痙攣、高血壓、心臟衰竭、高血鉀、低血氧。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 3. 症狀治療: - (1) 降溫:體表降溫,可使用冰塊、冰帽,或在冰槽內置碎冰塊將患者放在冰槽內。 中心降溫,可靜脈快速滴注冰鹽水,插鼻胃管冰水灌胃,必要時開胸、開腹用 冰水灌洗胸腹腔,甚至可採用體外循環降溫。 - (2) 矯正酸中毒可使用 bicarbonate。 - (3) 高血鉀的處理,可使用葡萄糖加胰島素靜脈滴註。 - (4) 高血壓或心律不整:一般而言,若校正好高血鉀及代謝性酸中毒,血壓就會下降,若未下降則使用降血壓藥物,但不可使用 CCB 類,因為會造成高血鉀及與dentrolene 交互作用所造成的心跳停止。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- ...PEEP | High PEEP 或 Low PEEP 使用於 mortality 的 | | | 影響仍有地區性結果的差異,故沒有定論。 | | iNO (inhaled nitric oxide) | Reduce pulmonary hypertension, improved | | | V/Q matching. → improve oxygenation,對預 | | | 後無幫助。不建議在 ARDS routine 使用, | | | 但是可用在 refractory hypoxemia 病人。 | | ECOM (Venovenous) | Severe ARDS PaO 2 /FiO 2 在 50~80 with open | | | lung ventilation • | Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 4. 椎骨基底動脈循環不全症(Vertebrobasilar artery insufficiency, VBI) - (1) 定義: - a. 因腦部後循環灌流不足所造成的暫時性缺血症狀。 - b. 由於後循環供應延腦、小腦、橋腦、中腦、丘腦、枕葉皮質,因此當 VBI 產 牛時,會因應其灌流不足的區域伴隨不同的症狀產生。 - (2) 流行病學: - a. 好發於 50 歲以上的男性。 - b. 患有糖尿病、高血壓、高血脂。 - c. 抽菸。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 2. 系統性 (Systemic) 原因: - (1) 凝血異常(Coagulopathy):使用 anticoagulant、NSAID,或是血友病、肝臟衰竭、尿毒症。 - (2) 其他:高血壓、粥狀動脈硬化、SLE、Wegner's granuloma。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - · Severe arterial hypertension ( > 200 mmHg SBP and /or 110 mmHg DBP) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - f. 併發症:如果高血壓的情形不加以控制,會引發併發症,甚至死亡。 - (a) Retinal Hemorrhage • - (b) CVA • - (c) SAH · seizure · death · Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
@@ -267,14 +283,6 @@ tags:
 - 2. 危險因子: - (1) 年紀大: > 50% 病例出現在 65 歲以上。 - (2) 全身性疾病:高血壓、高血脂、糖尿病、抽菸、肥胖等。 - (3) 遠視、小視神經盤。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - #### 高血壓性視網膜病變(Hypertensive retinopathy) Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 2. 高眼壓症(Ocular hypertension): 眼壓持續超過正常人平均值(16 mmHg),但並未發現視神經、視野有青光眼性的傷害。根據統計,持續五年追蹤有 9.5% 可能會變為真正的青光眼,故必須定期追蹤檢查。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- (b) 間接型:由於內或外頸動脈的腦膜分支和海綿竇的硬腦膜靜脈間產生 AV shunt 造成(congenital malformation),流速較慢,較不會產生眼球搏動。 多發生在中年且有高血壓病史的女性。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- 1. 高血壓:請詳見「子、視網膜的 E. 視網膜血管疾病的高血壓性視網膜病變、高血 壓脈絡膜病變和高血壓視神經病變的部分」的部分。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
-- ...amentous | | | umbilical cord insertion 等 | | | · 胎盤染色體異常,一般稱 confined placental mosaicism | | 母親 | • 罹患影響胎盤血流的疾病:如子癲前症、高血壓、糖尿病、 | | \$ 25 c. 41 | 自體免疫疾病 (SLE, APS) 等 | | | • 營養不良 | | | • 慢性缺氧 | | | · 抽菸、酗酒、藥物濫用、咖啡因過量、放射線曝露 | | | • 先天性子宮結構異常: 如雙角子宮 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (D) 胎兒的門脈高壓症(portal hypertension) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ...eart disease) | 胎兒生長遲緩 (fetal growth | | | restriction) | | 慢性腎病 | 過期懷孕 (post-term pregnancy) | | 第一型糖尿病 | 前胎不明原因流產 | | 高血壓 | 多胞胎 | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) *126* Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- # A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- | 名詞 | 定義 | |----------------------------|-----------------------------------------------| | 妊娠高血壓 | · 之前血壓正常,懷孕 20 週後出現高血壓,但無蛋白尿、 | | (Gestational HTN) | 無器官失能,且於產後12週內恢復正常。 | | 子癲前症 | • 之前血壓正常,懷孕 20 週後出現高血壓,且合併蛋白 | | (Preeclampsia) | 尿或器官失能。 | | 子癲症 | · 已診斷 Preeclampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalize Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 
 ## Clinical Caveats
 
@@ -283,6 +291,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/epistaxis|Epistaxis (鼻出血)]]
 - [[conditions/hypertensive-disorders-of-pregnancy|Hypertensive disorders of pregnancy (妊娠高血壓疾病)]]
 - [[conditions/hypertensive-retinopathy|Hypertensive retinopathy (高血壓性視網膜病變)]]
 - [[conditions/intracerebral-hemorrhage|Intracerebral hemorrhage, ICH (腦出血)]]

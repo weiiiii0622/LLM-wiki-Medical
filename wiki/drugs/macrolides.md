@@ -20,6 +20,8 @@ sources:
   - "[[sources/med5-book5-ch03]]"
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Macrolides (巨環內酯類)'
   - 'Macrolides'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+50S 抑制劑，涵蓋 atypical pneumonia pathogens、部分 GPC 與 MAC 預防/治療。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,13 @@ tags:
 - [[sources/med5-book5-ch03]]
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book2-ch04]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- a. 急性中耳炎以口服 Amoxicillin 為首選藥物,治療約 10 至 14 天。若對於 Penicillin 過敏的病人,可考慮給予 Macrolide 類的藥物如 Clarithromycin、 Azithromycin 或 Trimethoprim-sulphamethoxazole。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (5) 治療: - a. 藥物:使用三到六週的抗生素及局部類固醇治療,抗生素可使用 Augmentin、 Macrolide、Fluoroquinolone、Clindamycin 等。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...、倒睫毛、角膜潰瘍等。 - c. 特徵:在結膜上皮細胞的細胞質內有嗜鹼性包涵體(basophilic inclusion bodies)。 - d. 治療:局部或口服四環黴素(1.5~2.0 g 每天)或紅黴素連續治療六星期,或 單一劑量 Azithromycin 1,000 mg。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - | 披衣菌 | • azithromycin 1 g 單一劑量或口服 doxycycline 100 mg BID, | | | |-------|----------------------------------------------------|--|--| | | 7 天。( 懷孕時使用 erythromycin) | | | | 淋病雙球菌 | • 單一劑量的肌肉注射 ceftriazone 250 mg | | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...----------| | 病原體 | Haemophilus ducreyi | Chlamydia 的一種 | Klebsiella granulomatis | | 潰瘍 | painful | 無痛性 | 無痛性 | | 治療 | azithromycin, | Tetracycline, | Tetracycline, | | | ceftriaxone 或 | erythromycin 或 | erythromycin 或 | | | erythromycin | streptomycin | doxycycline | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].

@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book1-ch10]]"
@@ -10,6 +10,7 @@ sources:
   - "[[sources/med4-book1-ch07]]"
   - "[[sources/med4-book1-ch11]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med6-book4-ch07]]"
 aliases:
   - 'Tetralogy of Fallot, TOF (法洛氏四合症)'
   - 'Tetralogy of Fallot, TOF'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-最常見發紺型先天性心臟病，包含 VSD、主動脈跨位、右心室出口阻塞與右心室肥大。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+最常見發紺型先天性心臟病，包含 VSD、主動脈跨位、右心室出口阻塞與右心室肥大。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med4-book1-ch07]]
 - [[sources/med4-book1-ch11]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med6-book4-ch07]]
 
 ## Key Details From Sources
 
+- 6. 可以藉由第 4 個和第 1 個 twitch 高度的比例 (TOF ratio),來看臨床的恢復程度。 - (1) TOF ratio > 0.75: 頭可以抬高 > 5 sec。 - (2) TOF ratio > 0.9: 可以坐直; 正常 carotid body response; 正常 pharyngeal function。 - (3) TOF ratio = 1:正常呼吸能力;複視消失。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
 - 1. 法洛氏四重症(Tetralogy of Fallot, TOF): - (1) 最常見的發紺型先天性心臟病,佔15~20%。 - (2) 四種異常為:心室中隔缺損(ventricular septal defect, VSD)、主動脈跨位 (aortic override)、右心室出口阻塞(right ventricular outflow tract obstruction, RVOTO)、右心室肥大(right ventricular Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - 同學若想知道 Dr. Blalock、Dr. Thomas、Dr. Taussig 發明 BT shunt 以治療法洛氏四合症藍寶貝 Blue baby 的經典故事,可參考 HBO 電影 "Something the lord made" (天賜良醫)。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (B) 25. 法洛氏四合症(tetralogy of Fallot)完全矯正後,長期追蹤若有 102( ) 專嚴重的肺動脈瓣逆流,右心室擴大,及右心室功能失效,此時最 醫五-28 好的處理方式為何? - (A) 心房中膈造口 (creation of atrial septal defect) - (B) 肺動脈瓣置換 - (C) 三尖瓣置換 - (D) 使用降肺高壓藥物 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].

@@ -56,6 +56,12 @@ sources:
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch07]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Aneurysm clipping/coiling (動脈瘤夾閉／栓塞)'
   - 'Aneurysm clipping/coiling'
@@ -70,7 +76,7 @@ tags:
 
 ## Summary
 
-ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出血風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -126,9 +132,24 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch07]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- (3) 氣骨導差 (air-bone gap, 又稱 AB gap) - a. 若在一般談話頻率區(500Hz、1,000Hz、2,000Hz)兩者差異大於 10 分貝,表示出現氣骨導差。可能原因如下: - (a) 耳垢栓塞。 - (b) 耳膜穿孔。 - (c) 外耳道閉鎖。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 真正病因還不能確定,約85~90%的病患找不到任何病因,關於可能病因目前仍有許多種不同的理論,包括:病毒感染耳蝸或聽神經、血管病變(支配內耳神經的血管發生痙攣或栓塞,導致內耳神經細胞缺氧)、內淋巴囊水腫破裂、自體免疫性疾病等,還有1%可能是小腦橋腦角腫瘤(大部份是聽神經瘤)所造成的。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- #### B. 耳垢栓塞 (Cerumen impaction) Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (C) 置放中央靜脈導管時,以頭低腳高的姿勢(Trendelenburg position),可使內頸靜脈血管較易鼓脹、較易成功置放,且可以減少發生空氣栓塞的機會 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- ...C) femoral vein (D) right internal jugular vein | 98(二)專醫六-4 | | . 下列何者非手術時置放中央靜脈導管之目的? (A) 手術時給予輸液 (B) 監測右心房壓力 (C) 抽出空氣栓塞(air embolism) (D) 測量左心室末期舒張壓 | 98(二)專醫六-5 | | . 關於手術中使用誘發電位(evoked potential, EP)監測術中神經功能的敘述,下列何者錯誤? (A) 體神經誘發電位(somatosensory evoked potential, SSEP)常使用於脊椎手術監測脊椎神經是否損傷 (B) 聽覺神經誘發電位(brainstem auditory evoked potential, Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (2) 副作用: - a. 避免使用於密閉體腔如氣體栓塞(air embolism)、氣胸、腸阻塞,肺高壓的病人。 - b. 長期使用易造成骨髓抑制,及抑制 $B_{12}$ -dependent enzymes。 - c. 增加手術後噁心嘔吐(PONV)的機會。 - d. 增加腦部耗氧代謝率、腦部血流上升、顱內壓上升。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- (C) 可能發生脂肪栓塞,潮氣末二氧化碳 (end-tidal carbon dioxide) 會增加至 60 mmHg 左右 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (2) 海綿靜脈竇栓塞(Cavernous sinus thrombosis)。 - a. 原因:鼻竇、鼻腔、耳、牙齒的感染由 superior/inferior ophthalmic veins 以及 angular vein 擴展向海綿靜脈竇時所造成的血栓。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 3. 門診時做切片可能會造成嚴重出血,可會診放射科做血管攝影與栓塞。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - 4. 當負責上述語言功能的區域或途徑受破壞時,會引發不同程度的失語症,造成失語症常見的原因如下: - (1) 大腦血管病變:即腦中風,如血栓、栓塞、腦出血及動脈破裂。 - (2) 腦外傷:有穿入性外傷及非穿入性外傷。 - (3) 腦瘤。 - (4) 腦組織炎症 (encephalitis)。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - (8) Global aphasia:病灶包含額葉以及頂葉、顳葉交界處(perisylvian region),此 通常由 MCA 栓塞形成的中風造成。整體型失語症病患,在語言接收或表達方面,都有嚴重的損傷。包括命名、複誦、聽覺理解、閱讀理解和書寫能力等方面。 說話也不流暢,能說出的字很少,甚至於僅保有反映情緒的叫喊聲。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - (b) 女性脊髓損傷患者,其懷孕後以下併發症機率增加: - i. 早產。 - ii. 自主神經反射異常。 - iii. 泌尿道感染。 - iv. 便秘。 - v. 血管栓塞。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
@@ -138,15 +159,6 @@ ruptured cerebral aneurysm 可用外科夾閉或血管內 coiling 降低再出�
 - 4. 視網膜中心動脈阻塞(Central retinal artery occlusion, CRAO): - (1) 原因:最常由視網膜動脈硬化栓塞造成。其它原因有:頸動脈粥狀硬化引起的 脂肪栓子、心臟瓣膜疾病產生的鈣化栓子、纖維蛋白及血小板血栓、巨細胞動 脈炎、膠原性血管疾病等。 - (2) 臨床表現: 單側無痛性突然發生完全視力喪失,約有 25% 病人在發作前有陣發性黑曚 (amaurosis fugax),10% 的病患會有類似中風的症狀 (TIA)。 - (3) 眼底檢查:動脈和靜脈變細及分節 (又稱乳牛運輸 cattle-trucking)、 廣泛性視網膜灰白色水腫混濁、 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - d. 治療:降眼壓藥物以及栓塞治療。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (3) 海綿竇栓塞(cavernous sinus thrombosis):由鼻竇、臉部、牙齒、或眼眶的感染經靜脈流至海綿竇引起栓塞,是一種急性血栓靜脈炎;在近年抗生素的研發及大量使用後,目前已是少見的疾病。常見症狀為發燒、眼球後疼痛、眼肌麻痹(外直肌最先被侵犯)、眼瞼下垂、複視等。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- (5) 若經上述處置後,仍然大出血,可使用下列三種方式止血,此三種方式可合併 使用或單獨使用(順序不一定)。 - 子宮內氣球填塞 (intrauterine balloon tamponade) 給予 recombinant activated factor VIIa - · 經動脈血管栓塞 (transarterial embolization) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (B) 羊水栓塞 (amniotic fluid embolism) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (B) 2. 有關治療產後大量出血之血管內栓塞術的敘述,下列何者最正確? Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- ...可使紅血球數量增加 | | 白血球 | · 白血球數量增加,約可達 11,000/cumm | | 凝血因子 | • 許多凝血因子受影響,使得懷孕時期為一高凝血功能的狀態 | | | (hypercoagulable state),深部靜脈栓塞的風險上升 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (B) 羊水栓塞 (amniotic fluid embolism) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- | • 植入性胎盤 | ・早期宮縮、早期破水 | • 胎位不正 | |---------|---------------|--------| | • 血管前置 | · 胎兒生長遲緩、胎兒異常 | • 羊水栓塞 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- | • 有乳癌病史 | • 高風險子宮內膜癌 | • 冠心病 | |--------------|------------|------------| | • 有靜脈栓塞或中風病史 | • 活動性肝臟疾病 | • 未診斷的陰道出血 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- 【詳解】停經後接受荷爾蒙治療的禁忌症包括乳癌、子宮內膜 癌、未診斷的陰道出血、有肝臟疾病、靜脈栓塞和中風的病史。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ...| | Selective estrogenreceptor modulator(SERM) | Raloxifene | ●不應使用於更年期前女性。●可做為預防骨質疏鬆的第一線用藥。(治療為第二線)●可減少乳癌風險,但是會增加熱潮紅與靜脈栓塞風險。 | | | RANKL inhibitor | Denosumab | ●皮下注射(一年兩次),可抑制RANKL(蝕骨作用的蛋白質)。●要注意低血鈣、皮膚注射反應與嚴重感染的副作用。 | | | Estrogen/progestin | | ●雖然雌激素可預防停經後女性的骨質疏鬆,但 WHI 指出有其他風險(乳癌、心血管疾病和靜脈栓塞等)的代價,因此不建議做為第一線用藥。(詳見 F. 停經及荷爾蒙治療) | | 增加骨質生成 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 
 ## Clinical Caveats
 

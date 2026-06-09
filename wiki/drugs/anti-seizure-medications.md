@@ -9,6 +9,7 @@ sources:
   - "[[sources/med5-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch08]]"
 aliases:
   - 'Anti-seizure medications / anti-epileptic drugs, ASMs/AEDs (抗癲癇藥物)'
   - 'Anti-seizure medications / anti-epileptic drugs, ASMs/AEDs'
@@ -23,7 +24,7 @@ tags:
 
 ## Summary
 
-治療 epilepsy 與急性 seizure 的藥物群，選擇依發作型態、副作用、懷孕與共病。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+治療 epilepsy 與急性 seizure 的藥物群，選擇依發作型態、副作用、懷孕與共病。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +33,11 @@ tags:
 - [[sources/med5-book1-ch10]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch08]]
 
 ## Key Details From Sources
 
+- 2. 抗癲癇藥物:使用 BZD 類藥物與 Barbiturate 藥物。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
 - ...腦膜撕裂、出現異物、focal sign (Aphasia 或 Hemiplegia)、年紀大於六十五歲。 - d. 創傷後一週內給予 phenytoin 或 valporic acid 能有效降低 early PTS 的機會,不過長期使用抗癲癇藥物對於預防 late PTS 的效用不顯著。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (C) 3. 對於接受抗癲癇藥物治療的癲癇婦女患者,可建議在受孕期前後(periconceptional period)補充下列何種維生素,來降低胎兒發育異常(如:唇顎裂、神經管缺損、先天性心臟缺損等)的發生機會? Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】抗癲癇藥物的致畸胎機轉可能與降低孕婦葉酸濃度有關,因此建議使用抗癲癇藥物的婦女可在受孕期前就使用高劑量葉酸(4 or 5 mg),並且持續整個懷孕期間。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].

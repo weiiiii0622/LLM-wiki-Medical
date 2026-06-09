@@ -39,6 +39,7 @@ sources:
   - "[[sources/med6-book3-ch04]]"
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Percutaneous coronary intervention, PCI (經皮冠狀動脈介入)'
   - 'Percutaneous coronary intervention, PCI'
@@ -53,7 +54,7 @@ tags:
 
 ## Summary
 
-冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+冠狀動脈再灌流與血管再暢通方法。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +93,11 @@ tags:
 - [[sources/med6-book3-ch04]]
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- (D) 31. 一位 70 歲男性欲接受全膝關節置換術,病患有冠狀動脈病史並接受過心導管氣球擴張術,症狀改善。輕微運動時仍需稍作休息,但無胸悶症狀。手術採全身麻醉,以 thiopental、succinylcholine 及 halothane 來進行麻醉。在放置膝關節時,突然血壓下降,ECG 顯示心房纖維顫動,心率為 105 次 / 分。下列敘述何者最有可能? Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - (2) 包含副木(Splints)、支架(Brace)、硬背架(Spinal orthosis)、軟背架(corset)、 各式頸圈、足踝裝具等等。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - 註:於小兒麻痺病人合併下肢無力至需考慮裝具使用時,首先考慮膝關節是否穩定,若尚可接受則可考慮先以短腿支架(short leg brace,即 AFO)固定,亦可調整支架的踝關節至 plantar flexion 5 度左右可幫助膝蓋保持伸直以代償股四頭肌無力;若膝蓋不穩定情形仍無法矯正如出現膝後翻(genu recurvatum = back knee)則需使用長腿支架(long leg brace,即 KAFO)加高固定至膝蓋,較嚴重個案也有可能需固定至髋部使用 Hip-knee-ankle-foot orthosis(HKAFO)。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - ...曲、伸張、側移和轉動 (rotation)。 | 頸椎扭傷或挫傷頸椎穩定性骨折可躺著穿脫適合臥床病人使用。 | | | | Minerva | 與 SOMI 相比可提供更高位頸椎 (C2 以下)的固定效果。 | | | | | 耶魯式頸胸椎支架 (Yale cervicothoracic brace) | 等同於費城式頸圈再加上胸部固定(thoracic extension),可額外提供 C6-T2 的固定。 | | | | | 四式頸椎裝具(four-poster brace) | 固定效果與 SOMI 相近。 | | | | | 暈輪式背心、頭圈式支架 (Halo vest)(圖請參照第 217 頁) | 有頭釘釘入頭骨,對頸椎活動提供最佳固定效果,高位頸椎受傷若無接受手 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
@@ -112,7 +115,6 @@ tags:
 - (C) 骨骼牽引四星期,爾後行關節活動支架,早期作關節活動 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - a. Non-displaced, no neurovascular injury 的骨折:long leg cast 至少 1 個月,然後 改用功能性支架(functional brace)或樹脂石膏(註:通常傳統石膏比較重, 固定效果也相對比較不好,所以在使用 2~4 週後,等局部消腫及傷口拆線後, 就會改用 functional brace 或樹脂石膏。) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - ...藥物以降低膀胱內壓 | | | | (C) 當測得漏尿壓力為 $20 \text{ cmH}_2\text{O}$ 時,可以進行尿道外括約肌切 | | | | 開術(sphincterotomy)以保護腎臟 | | | | (D) 置放尿道支架(urethral stent)以方便排空膀胱 | | | | 【詳解】(C) 會漏更嚴重。 | | | (#) | 7. 薦髓傷害(sacral spinal cord injury)常發生的尿動力檢查異常是: | 106 (二) 專 | | (") | (A) 逼尿肌過度反射(detrusor hyperreflexia) | 醫五 -68 | | | (B) 逼尿肌無反射(detrusor areflexia) | Eq. 22 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- (A) 12. 懷孕婦女因輸尿管結石產生腰痛求醫處理時,下列何者較不合適? - (A) 必須立即以 IVU(intravenous urography)找出石頭位置,加以碎石處理免得繼續妊娠時症狀加劇 - (B) 利用雙 J 輸尿管導管(double-J ureter stent)以解除輸尿管之 阳塞 - (C) 局部麻醉下超音波定位置放經皮腎造瘻管 (percutaneous nephrostomy tube insertion) - (D) 在懷孕的第一個 trimester 時應該盡量避免 X 光照射 Source: [[sources/med5-book5-ch05|戊、結 石]].
 
 ## Clinical Caveats
 

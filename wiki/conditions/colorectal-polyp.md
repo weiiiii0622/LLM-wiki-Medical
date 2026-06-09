@@ -19,6 +19,8 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch09]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch13]]"
 aliases:
   - 'Colorectal polyp (大腸直腸息肉)'
   - 'Colorectal polyp'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-大腸直腸息肉依組織型與大小決定癌化風險，adenoma-carcinoma sequence 是篩檢重點。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+大腸直腸息肉依組織型與大小決定癌化風險，adenoma-carcinoma sequence 是篩檢重點。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,14 @@ tags:
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch09]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch13]]
 
 ## Key Details From Sources
 
+- 5. 併發症:慢性鼻竇炎、息肉、中耳炎。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (1) 除了上述的上呼吸道感染,引起竇口的水腫之外,局部的因素有:鼻中膈彎曲、 特異性過敏體質、鼻息肉、鼻內異物、鼻石症、感染物質如游泳或潛水所吸入 的髒水,還有牙齒的感染所引起者。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 3. 體重正常但具有鼻中膈彎曲、鼻息肉、扁桃腺肥大的患者。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
 - (A) 子宮內膜息肉 (endometrial polyp) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (3) 應進行子宮內膜評估的女性: - 大於 40 歲有不正常子宮出血 - · 小於 40 歲有不正常子宮出血,且有風險因子(肥胖、糖尿病、慢性無排卵、 tamoxifen、子宮內膜癌/乳癌/卵巢癌/大腸癌的家族史) - · 不正常子宮出血經藥物治療無效 - 使用 unopposed estrogen 的荷爾蒙補充治療 - · 子宮頸抹片發現 atypical glandular cells - · 有遺傳性非息肉性大腸癌 (HNPCC) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (D)子宮黏膜下肌瘤(submucous myoma)或息肉(polyp) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -70,9 +77,6 @@ tags:
 - 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 2. 小腸腺瘤 (Intestinal Adenoma): - (1) 依組織可分成管狀腺瘤(tubular adenoma)、絨毛狀腺瘤(villous adenoma)與混合線瘤(mixed adenoma)。 - (2) 絨毛狀腺瘤 (villous adenoma) 癌化的可能性較高,具淋巴或血行轉移的機會。 - (3) 可能會出現阻塞或出血的症狀。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (3) 危險因子 - a. 絨毛狀腺瘤 (villous adenoma) - b. 息肉症候群 (polyposis syndromes) - c. Crohn's disease - d. hereditary nonpolyposis colorectal cancer (HNPCC) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- ...ond second second second second second second second second second second second second second second second second s | 息肉型(polypoid) | 隆起型腫瘤 | | | Type 2 | Contract to your Park | 腫瘤潰瘍型(fungating) | 腫瘤具界線明顯之潰瘍 | 胃鏡下不易與潰瘍區分 | | Type 3 | | 潰瘍型(ulcerated) | 腫瘤具界線不明之潰瘍 | 最常見 | | Type 4 | # water | 浸潤型(infiltrative) | 瀰漫浸潤型 腫瘤 | 發展極致即所謂的皮革胃 | Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (B) 4. 吳太太於例行性胃內視鏡健康檢查時發現有 1 公分大小的胃息肉 ,下列何者需進行息肉切除? - (A) 切片病理報告為增生性息肉(hyperplastic polyp) - (B) 切片病理報告為腺瘤 (adenomatous polyp) - (C) 切片病理報告為缺陷瘤(hamartoma) - (D) 切片病理報告為異位瘤 (heterotopic polyp) Source: [[sources/med5-book3-ch03|丙、胃癌]].
 
 ## Clinical Caveats
 

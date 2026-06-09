@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book2-ch08]]"
   - "[[sources/med5-book2-ch03]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Pericarditis (心包膜炎)'
   - 'Pericarditis'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心包膜發炎可造成胸痛、摩擦音與心電圖變化。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book2-ch08]]
 - [[sources/med5-book2-ch03]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- (3) 易伴隨其他致死性的併發症,包括: - a. 呼吸道阻塞。 - b. 肺炎。 - c. 下行性縱膈炎 (descending mediastinitis)。 - d. 膿胸 (thoracic empyema)。 - e. 心包炎 (pericarditis)。 - f. 多重器官衰竭。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - · Acute myocarditis or pericarditis Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - · Active pericarditis or myocarditis Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (B) 窄縮性心包膜炎 (constrictive pericarditis) 與限制性心肌病 變(restrictive cardiomyopathy)的鑑別診斷往往需要藉由右 側心導管的壓力追蹤圖來區分 Source: [[sources/med5-book2-ch08|辛、其 他]].
@@ -78,7 +81,6 @@ tags:
 - a. Oligoarthritis 預後最好,但較常出現 chronic uveitis(尤其 - a. Serositis: 漿膜炎-肋膜炎或心包膜炎。 - b. Oral ulcers:口腔或鼻咽潰瘍,通常不痛。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
 - ...ancreatitis · cholecystitis · urinary | | | | | | tract infection , arthritis , peritonitis , | | | | | | myocarditis · pericarditis · and endocarditis. | | | | | Rotavirus | Encephalitis · meningitis · otitis media · | | | | | | pharyngitis · pneumonia · hepatic abscess · | | | | | | pancreatitis · Kawasaki syndrome and sudden | | | | | | infant dea Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - ...減少。 | CNS change • | | | 2. 腹痛腹瀉、血便、疲倦、意識狀態改變、癲癇 | 2. 神經學上表現有失語症 | | | 發作等。少數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | helmet cell,以及網狀紅血 | | | | 球計數的增加。 | Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 5. 心肺:常見肋膜炎(Pleuritis)、心包膜炎(Pericarditis)、Libman-Sacks endocarditis(與疾病罹病時間、活性、APS 相關,最常見於 MV)。 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 
 ## Clinical Caveats
 

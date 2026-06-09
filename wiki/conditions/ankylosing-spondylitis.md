@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Ankylosing spondylitis, AS (僵直性脊椎炎)'
   - 'Ankylosing spondylitis, AS'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 �
 - [[sources/med5-book6-ch09]]
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book2-ch07]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- (5) N Neck motion:評估頸椎活動度(例如:僵直性脊椎炎、頭頸部放射線治療…皆會活動度受限)、頸椎病變、是否是外傷病人需要戴頸圈固定。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - 4. 僵直性脊椎炎(Ankylosing spondylitis): 好發於男性,與 HLA-B27 相關,約 1/4 病 患會出現反覆性非肉芽腫性虹膜炎。 - (1) 眼部表徵:以急性前葡萄膜炎(虹膜炎)為主。 - (2) 治療:主要針對虹膜炎,使用局部類固醇及散瞳劑。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (1) 症狀:急性前葡萄膜炎會畏光、疼痛、紅眼、視力下降、流淚,多與 HLA-B27 抗原有關;慢性前葡萄膜炎可能無症狀或有漂浮物。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - 1. 與自體免疫相關的葡萄膜炎,以下舉出常見的: - (1) HLA-B27 抗原關聯性急性前葡萄膜炎: Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
@@ -62,7 +65,6 @@ seronegative spondyloarthritis，造成發炎性下背痛與薦髂關節炎。 �
 - 2. 與 HLA B27 的關係: [超愛考] - (1) AS 病人有 90% HLA-B27(+), 一般人口有 7%HLA-B27(+)。 - (2) 帶此基因有 1~6% 的人會發展成 AS,若一等親有 AS 者更高達 10~30% 發病,這暗示除了 HLA B27,有其他基因會使 AS 發病。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 - | 疾病 | HLA | Relative risk | |--------------------------------------------|--------|---------------| | Ankylosing spondylitis (AS) | B 27 | 0.3 | | Goodpasture's syndrome | DD 4 | 1 | | Multiple sclerosis (MS) | DR 2 | 10 | | Graves' disease | | 4~5 | | Myasthenia gravis | DR 3 | 1 | | Systemic lupus erythematousus (SLE) | | 10~20 | | Insulin- Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
 - ...erythematosus — HLA-A8 (B) rheumatoid arthritis — HLA-DR4 (C) Behçet's disease — HLA-C51 (D) chronic active hepatitis — HLA-B27 | 103(一)專醫三-41 | |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- (D) 僵直性脊椎炎 (ankylosing spondylitis) Source: [[sources/med3-book4-ch23|己、其 他]].
 
 ## Clinical Caveats
 

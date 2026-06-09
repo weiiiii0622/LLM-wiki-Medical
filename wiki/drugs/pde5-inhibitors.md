@@ -8,6 +8,7 @@ sources:
   - "[[sources/med5-book6-ch06]]"
   - "[[sources/med6-book1-ch06]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'PDE5 inhibitors (第五型磷酸二酯酶抑制劑)'
   - 'PDE5 inhibitors'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-增強 NO-cGMP 路徑改善勃起功能，與 nitrates 合用可造成危險低血壓。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+增強 NO-cGMP 路徑改善勃起功能，與 nitrates 合用可造成危險低血壓。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,12 @@ tags:
 - [[sources/med5-book6-ch06]]
 - [[sources/med6-book1-ch06]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- (D) 給予 phosphodiesterase III 抑制劑 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 【 詳解 】此情況可能是心臟因搬動刺激 vagal tone 造成 bronchospasm,所以應該做 bronchospasm 的處理,譬如加深麻醉深度、給予氣管舒張劑、減低 tidal volume 並加快呼吸速度代償(total volume keep 6~8 ml/kg)。phosphodiesterase III 抑制劑臨床上用於治療肺高壓。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - (3) 會陰部肌肉(右圖為由下往上看會陰部) - a. 坐骨腳肌 (ischiocavernosus) - b. 球海綿肌 (bulbospongiosus) - c. 淺會陰橫肌(transverse perinei superficialis) - d. 深會陰橫肌(transverse perinei profundi): c 之下 - e 肛門外括約肌 (external anal sphincter) - f. 提肛肌(levator ani): 肛門三角的底部 - g. 尾骨肌 (coccygeus) Source: [[sources/med6-book1-ch06|甲、胚胎解剖學 (Embryology and Anatomy)]].
 - ...為其讓內膜變薄,手術中反而 | | | | | 容易傷到 basal layer 造成術後沾黏,目前不建議使用。 | | | | 術後 ・ 高劑量荷爾蒙: 使受損的內膜儘快恢復。 | | | | | | · 增加內膜血流藥物,幫助內膜生長:Sildenafil、 | | | | | Vit E 和 Low-dose aspirin 等。 | | | Physical barriers | ・IUD:放置 1~3 個月。 | | | | | ・ 術後放置兒童導尿管或子宮腔氣球支架 7~10 天。 | | | | | Auto-cross-link hyaluronic acid gel | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ...ligament(又稱 flexor retinaculum)與旁邊的 腕骨所形成的通道。內容物包含: - a. 正中神經 (median nerve)。 - b. 屈肌韌帶: - (a) Flexor digitorum superficialis tendons • - (b) Flexor digitorum profundus tendons • - (c) Flexor pollicis longus tendon • - c. Flexor carpi radialis tendon 則包裹在 transverse carpal ligament 與 trapezium 當中。 - d. 注意:掌長肌(palmaris longus)的韌帶並未通過其內,而是從 tran Source: [[sources/med5-book6-ch06|己、手部]].

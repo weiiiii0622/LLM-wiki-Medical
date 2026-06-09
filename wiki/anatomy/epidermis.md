@@ -39,6 +39,7 @@ sources:
   - "[[sources/med6-book2-ch13]]"
   - "[[sources/med6-book2-ch18]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Epidermis (表皮)'
   - 'Epidermis'
@@ -53,7 +54,7 @@ tags:
 
 ## Summary
 
-表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+表皮由角質細胞分化層構成，提供屏障、防水、免疫與色素保護。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +93,11 @@ tags:
 - [[sources/med6-book2-ch13]]
 - [[sources/med6-book2-ch18]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 1. 外耳道長度約為二到三公分長,其範圍從外耳殼軟骨至鼓膜。整個外耳道是由鱗狀上皮細胞所組成,可分成兩個部分。 - (1) 軟骨部:外側三分之一的耳道由軟骨所組成,具有較多的皮脂腺與汗腺。 - (2) 硬骨部:內側三分之二由硬骨所形成,只有薄薄一層表皮覆蓋,因此非常脆弱容易造成損傷引起發炎反應。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - ...Pressure Ulcer Advisory Panel (NPUAP),依其嚴重程度可分為四期和兩類: - (a) 第一期:皮膚完整無破損,但表面呈紅斑,移動位置使該處不受壓迫後, 該紅斑仍持續超過 30 分鐘。 - (b) 第二期:表皮受損出現水泡和紅疹,並傷及部分真皮層。 - (c) 第三期:表皮、真皮完全受損,並傷及皮下組織或脂肪,甚至筋膜層。 - (d) 第四期:深度更深,肌肉、肌腱或骨頭暴露出來。 - (e) 除上述四期外在 2007 年 NPUAP 新增了兩種分類: suspected deep tissue injury (DTI),代表皮膚完整但表面有變色情形,主要用在深層組織有受損但皮膚表面完整的情形;和 Unstageable wounds:用在 f Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (a) 表皮垂直壓力: 微血管動脈端壓力為 32 mmHg, 靜脈端為 12 mmHg, 故當外界垂直壓力大於局部組織內的微血管壓時(> 32 mmHg,稱作 capillary closing pressure),會導致血液循環受阻,引發細胞因缺氧而死亡, 肌肉、皮下組織和皮膚潰爛。常見於身體上骨頭最突出的部位、例如薦骨、腳根、手肘、腳踝、髋部及坐骨脊等處。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (b) 剪力(shearing force)以及摩擦力:斜躺或半坐臥時,摩擦力將皮膚繃緊形成一股水平切力,將供應皮膚的血管扯扁,導致皮膚的缺氧及壞死。另外摩擦力亦會將角質層磨掉、使表皮層和基底細胞分離,使表皮更易受損。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
@@ -112,7 +115,6 @@ tags:
 - 【詳解】上皮內包性囊腫,又稱為 epidermoid cyst,為最常見之 表皮囊腫,可出現於身體的多個部位,在外陰部常見於大陰唇 和陰蒂,囊腫通常可見中央點(central punctum)。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
 - ...-----------------------------------|--|--| | | 其在顯微鏡下呈羊齒狀 (ferning pattern),而 progesterone 則減少之 | | | | 陰 道 | estrogen 使表皮細胞角質化、核擴大和增加肝醣的儲存 | | | | 乳房 | estrogen 刺激 stroma 和 duct 的生長及 pigmentation (第二性徵),而 proges- | | | | | terone 則刺激 gland alveoli 生長 | | | | 骨骼 | estrogen 可留住鈣質、對抗骨質疏鬆,並且在青春期促進長高和長骨生長 | | | | | 板關閉 | | | | 心血管 | estrogen 和 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 4. 最常見開放性骨折的致病菌:Staphylococcus aureus (常見的表皮菌),大約 75%。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- ...下列何者正確? 103( 二 ) 專 | (C) | | (A) Candida (B) Enterococcus 醫五-8 | | | (C) Staphylococcus (D) Pseudomonas | | | 【詳解】骨科常見的為表皮菌感染(staphylococcus),因此術後 | | | 常會使用預防性抗生素如 cefazolin。 | | | (C) 6.41 歲男性工人在工地摔跤,X光顯示在脛骨開放性骨折,經石 103(ニ)専 | (C) | | 膏固定後回家休息,晚上睡覺時覺得右腳越來越痛,他吃了止痛 醫五-74 | (-) | | 藥後,症狀稍有緩解,但仍然持續疼痛,下列醫療處置何者最 | | | 正確? | | | (A) 加重止痛藥劑量可使病情改善 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 
 ## Clinical Caveats
 

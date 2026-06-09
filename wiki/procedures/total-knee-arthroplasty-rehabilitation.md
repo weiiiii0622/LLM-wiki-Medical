@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 sources:
   - "[[sources/med6-book3-ch03]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Total knee arthroplasty rehabilitation (全膝關節置換術後復健)'
   - 'Total knee arthroplasty rehabilitation'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-全膝關節置換後重點是疼痛腫脹控制、膝伸直/屈曲 ROM、股四頭肌肌力、步態與功能訓練。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+全膝關節置換後重點是疼痛腫脹控制、膝伸直/屈曲 ROM、股四頭肌肌力、步態與功能訓練。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med6-book3-ch03]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- (D) 31. 一位 70 歲男性欲接受全膝關節置換術,病患有冠狀動脈病史並接受過心導管氣球擴張術,症狀改善。輕微運動時仍需稍作休息,但無胸悶症狀。手術採全身麻醉,以 thiopental、succinylcholine 及 halothane 來進行麻醉。在放置膝關節時,突然血壓下降,ECG 顯示心房纖維顫動,心率為 105 次 / 分。下列敘述何者最有可能? Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - B. 膝關節置換手術 (Total knee replacement) 後注意事項 76 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
 - #### B. 膝關節置換手術 (Total knee replacement) 後注意事項 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
 - 1. 膝關節置換手術後復健目標: - (1) 疼痛控制。 - (2) 預防長期臥床而引發 DVT、pulmonary embolism 或 pressure ulcers 等併發症。 - (3) 適當的恢復關節活動度。 - (4) 加強膝蓋周圍肌肉肌力。 - (5) 幫助病患達到 ADL 的功能性獨立。 - (6) 在輔具幫助下能獨立行走。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].

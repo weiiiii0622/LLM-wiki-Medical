@@ -56,6 +56,9 @@ sources:
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch16]]"
   - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch04]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Tumor staging (腫瘤分期)'
   - 'Tumor staging'
@@ -70,7 +73,7 @@ tags:
 
 ## Summary
 
-腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -126,9 +129,19 @@ tags:
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch16]]
 - [[sources/med6-book3-ch01]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch04]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- #### E. 口腔癌分期 (Oral Cavity Cancer TNM Staging, AJCC 8th) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- | AJCC PROGNOSTIC S | STAGE GROUPS | | | |-------------------|--------------|------|-------| | T | N | M | GROUP | | Tis | N0 | M0 | 0 | | T1 | N0 | M0 | I . | | T2 | N0 | M0 | п | | Т3 | N0 | M0 | III | | T1, 2, 3 | N1 | M0 | III | | T4a | N0, N1 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- #### F. 鼻咽癌分期 (Nasopharynx Cancer TNM Staging, AJCC 8th) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 1. Stage I:止痛期 (Analgesia/Disorientation) - (1) 病人的感覺傳導路徑受到藥物的干擾,疼痛感喪失,但意識清醒尚可言語表達。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
+- 2. Stage II: 興奮期 (Excitement/Delirium) - (1) 可見病人有強烈的掙扎動作或者譫妄(delirium)的出現,有時會伴隨咳嗽、噁心、嘔吐。 - (2) 血壓可能會出現上下波動,呼吸也會較不規則。 - (3) 這時候睫毛反射(eyelash reflex)消失,因此可用睫毛反射來測試病人是否進入 Stage II。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
+- 3. Stage III: 手術期 (Surgical anesthesia) - (1) 眼內肌麻痺,無法看見眼球自主地轉動。 - (2) 肋間肌與橫膈膜肌會被麻痺,呈現停止呼吸(apnea)的狀態。此時最適合進行 手術。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
+- (1) 口腔癌常考,舌癌的好發部位、臨床症狀與治療,TNM 分期掌握大方向其實不難。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - F. 布朗松評估 (Brunnstrom stage) 24 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - #### F. 布朗松評估 (Brunnstrom stage) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - 1. Brunnstrom stage 用來將病患中風後的肢體障礙程度分為六期(第一期最差,第六期最好),並訂定不同之復健目標,不論中風的病因或影響程度如何,所有的病患皆會依序由較低期進展到較高期,且其過程並不會跳躍式地像是從第一期就跳到第五期。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
@@ -140,13 +153,6 @@ tags:
 - FIGO (International Federation of Gynecology and Obstetrics) 和 AJCC (American Joint Committee on Cancer) TNM 分期如下 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | FIGO stage | | Invasio | | TNM | AJCC | |-------------|----|---------|-------------------------------|---------|------| | I(侷限卵巢) | IA | | 】巢(外囊完整、無侵犯卵巢表面、無惡)(註1) | T1aN0M0 | IA | | | IB | ' ' ' ' | 雙側卵巢(外囊完整、無侵犯卵巢表面、無惡生腹水) | | IB Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - | 1st stage | ・ 產痛開始到子宮頸完全擴張 (包括 latent phase 和 active phase) | | | |-----------|-------------------------------------------------|--|--| | 2nd stage | · 子宮頸完全擴張到胎兒產出 | | | | 3rd stage | 胎兒產出到胎盤產出 | | | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- a. 1st stage:包括 latent phase 和 active phase Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- ...超過 20 小時;經產婦不會超過 14 小時 | | | | Active | ・子宮頸 3~4 cm 到完全擴張,為活化期 | | | | phase | · 此時期子宮收縮強、子宮頸快速擴張,不受鎮靜或麻醉影響 | | | | 3rd stage | · 活化期的長短平均來說,初產婦約 4.6 小時;經產婦約 2.4 小時 | | | | englishering Paris II. | ・ 活化期又可分為下列 3 個階段: | | | | | (i) acceleration phase (ii) phase of maximum slope | | | | | (iii) deceleration phase | | | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- | Stage | Score | |----------------|-------| | I (minimal) | 1~5 | | II (mild) | 6~15 | | III (moderate) | 16~40 | | IV (severe) | > 40 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (C) 8. 根據 American Society for Reproductive Medicine Revised Classification of Endometriosis,若病患手術中評估之 score 為 28 分,其子宮內 膜異位嚴重度為那一個 stage ? Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- 【詳解】子宮內膜異位之嚴重度分期請詳見內文,其中 Stage III 為 16 到 40 分。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- b. Tanner stage 分期: Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- #### (1) FICAT stage: Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 
 ## Clinical Caveats
 

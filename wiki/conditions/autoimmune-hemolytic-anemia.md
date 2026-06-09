@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book2-ch27]]"
   - "[[sources/med5-book2-ch30]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Autoimmune hemolytic anemia, AIHA (自體免疫溶血性貧血)'
   - 'Autoimmune hemolytic anemia, AIHA'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抗紅血球抗體造成免疫性溶血，可依 warm/cold antibody 分類。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book2-ch27]]
 - [[sources/med5-book2-ch30]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (1) 正常 (可記憶 Cold opposite; Warm same, COWS) - a. 灌注冷水:眼振方向會朝向對側耳朵。 - b. 灌注熱水: 眼振方向會朝向灌注熱水的耳朵。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - ..., Ex. 腳踏車 or 跑步機。 - (a) 須包含熱身、有氧運動、阻力訓練和收身操,且運動類型以大塊肌群的 運動為主。 - b. Frequency:每週幾次,至少每週三至五次以上。 - c. Duration:每次做多久,一般會包含 warm up 5~10 分鐘、exercise 20~60 分鐘、cool down 5~10 分鐘,時間長度會因人和因病而異。 - d. Intensity:訓練強度,Ex. 運動到最大心跳的60~80%。 - (a) 可用心率 (HR)、攝氧量 $(VO_2)$ 、自覺勞力係數 (RPE) 等來定義訓練強度。 - (b) 訓練的強度越高,心率越高,所以會用目標心率(target heart rate, THR) 來確定一節訓練的強度,目前 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 6. Bone、tendon、skin 可以有約 8~12 小時 warm ischemia time 和 24 小時 cold ischemia time; 肌肉則只有 6 小時 warm ischemia time 和 12 小時 cold ischemia time。大抵上,斷指可以承受 8~12 小時 warm ischemia time 和 12~24 小時 cold ischemia time; 而更大塊的斷肢則只有 4~6 小時 warm ischemia time 和 10~12 小時 cold ischemia time (因為肌肉佔的比例增加)。 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (CD)15. 急診來一名左姆指掌指骨關節 metacarpophalangeal joint 完全截肢 105(一)專 傷,該斷指可承受的 warm ischemia time 為: 醫五-54 (A) 2 小時 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
@@ -64,7 +67,6 @@ tags:
 - 6. 血液:(9)Hemolytic anemia ( Coombs' test 陽性 )、Leukopenia ( 一預後佳,不需治療 | | | III. Focal LN | 50% 腎絲球發炎 (Subendo. 免疫物沉積 ) | 一 | | | V. Membranous LN | Subepi. 免疫物沉積 | 若合併發炎,才治療 | | | VI. Advanced Sclerotic LN | 90% 腎絲球硬化,無殘餘發炎反應 | 末期病變,治療無效 | | | Classification of Lupus Nephritis | s (LN) [ISN&RPS, Harrison Table 313-2] | | | Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - (D) 間接庫姆氏試驗 (indirect Coombs' test) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
 - ...的臉部有紅斑出現。在懷疑有「紅斑性狼瘡」之清學檢查最有助於本疾病的診斷?(A) serum electrophoresis(B) serum complement C3 and C4(C) anti-dsDNA antibodies(D) Coombs' test | 家人也注意到患者 內 2-4 | | (B) 32. 24 歲女性病患,主訴左右兩手之食指與中指近端身體檢查時看到口腔黏膜潰瘍並摸到頸部淋巴腺腫端指節腫脹,除此之外並無其他異常,一週後抗格告是陽性(1:640,speckle),下列敘述何者正確(A)病患一定是全身性紅斑狼瘡(systemic lupus et (B)病患可能是(probable)全身性紅斑狼瘡(C)抗核抗體陽性即可排除類風濕關節炎之可能(D)若加上自體 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- | 症 狀 | 媒介物 | 腫 瘤 | |-----------------------|-----|-----------------------------------------| | DIC | | 前列腺癌、APL(M3) | | AIHA | Ab | CLL | | Erythrocytosis | EPO | RCC · HCC · Cerebellar hemangioblastoma | | Eosinophilia | IL5 | Lymphoma > Leukemia | | Pure red cell aplasia | Ab | Thymoma | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
 
 ## Clinical Caveats
 

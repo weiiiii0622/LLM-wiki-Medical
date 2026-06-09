@@ -30,6 +30,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch10]]"
   - "[[sources/med6-book1-ch07]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Aortic dissection (主動脈剝離)'
   - 'Aortic dissection'
@@ -44,7 +45,7 @@ tags:
 
 ## Summary
 
-急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+急性胸背痛與血壓控制相關的大血管急症。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +75,13 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch10]]
 - [[sources/med6-book1-ch07]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- #### B. 頸部淋巴結廓清術 (Neck dissection) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 1. 前言:可區分為根治性頸部廓清術 (radical neck dissection)、改良型 (modified) 頸部廓清術、選擇性 (selective) 頸部廓清術、廣泛性 (extend) 頸部廓清術。 - (1) 針對頭頸部癌症,**傳統是以根治性頸部淋巴廓清術**(radical neck dissection)做 為治療首選。此術式可以有效的清除頸部病灶,但也造成患者在術後的極大困 擾包括肩膀活動度的限制與外觀上的變形。 - (2) 1967 年義大利的 Dr. Bocca 提出改良型頸部廓清術之後,保 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 2. 根治性頸部廓清術 (radical neck dissection, RND) - (1) 適應症: 大範圍的淋巴腺轉移、侵犯內頸靜脈、副神經或胸鎖乳突肌。 - (2) Level I 至 level V 的頸部淋巴結全面切除。 - (3) 切除外頸靜脈、胸鎖乳突肌、內頸靜脈、內頸淋巴結(internal jugular chain)、 鎖骨上淋巴結、及副神經。 - (4) 保留頸動脈、迷走神經等重要器官組織。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - ...d type, stage IA, grade 1 患者,是否摘除淋巴不影響預後,故此類病人可考慮不廣泛摘除淋巴(僅摘除腫大的淋巴結)。此作法仍有爭議,故 NCCN 和 SGO 支持前哨淋巴結廓清 (sentinel lymph node dissection, SLND) 的作法,不過,SLND仍需更多的研究證明其效用。 - c. 若子宮內膜癌已有骨盆腔或腹腔內轉移 (約5%),除分期手術外,尚須 行減積手術。 - d. 若為 type II (serous or clear cell) 患者,其疾病進展類似卵巢癌,故手術方式須儘量減積並加做大網膜摘除。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (A) 5. 骨盆腔或後腹腔(pelvic or retroperitoneal space)的淋巴結廓清術 或取樣(lymph node dissection or sampling),在婦女生殖道癌症 的手術,通常都要常規(routine)執行。下列何種腫瘤在初期時, 例如 FIGO stage I and II, 一般可省略淋巴結廓清術或取樣? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (B) 4.38 歲婦女,經診斷為子宮頸鱗狀上皮癌,接受根除性子宮切除術 及骨盆腔淋巴結廓清術(radical hysterectomy and bilateral pelvic lymph node dissection),根據 Berek & Novak's Gynecology 15 版 2012 年出版教科書的危險因子說明,下列何者非屬復發有關的 高風險的因子? Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -92,9 +97,6 @@ tags:
 - 1. 突發性的劇烈胸痛,且有後背痛(interscapular pain)。如果胸痛僅在前胸,可能為 升主動脈剝離;延伸至頸部或下顎,可能有主動脈弓剝離;延伸至下背部,可能為 降主動脈剝離。隨著主動脈剝離的進展,病人會描述有撕裂痛(tearing pain)的感覺。 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 - (1) Absolute: - a. 嚴重的 AR, 在舒張期 aortic valve 關不緊,此時還將 balloon 充氣會使血液回流至左心室,造成左心室的 loading 太大。 - b. 病人有 aortic dissection 或 aneurysm 的時候,造成額外的壓力波動有可能讓 dissection 裂得更大,或使 aneurysm 破掉。 - c. 嚴重的 aorta-iliac artery 的鈣化,此種脆弱的血管容易有風險。 - d. 不適合心臟移植的慢性末期心衰竭患者(用了幫助不大)。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 - ...onate) (D) 給與腸胃道的 potassium-binding resins (C) 7. 下列何者為主動脈氣球幫浦(intra-aortic balloon pump)的最佳使 108(二)專 用時機? 醫五-18 (A) 急性升主動脈剝離合併急性重度主動脈瓣逆流 (B) 升主動脈瘤合併慢性重度主動脈瓣逆流 (C) 二尖瓣腱索斷裂合併急性重度二尖瓣逆流 (D) 感染性腹主動脈瘤合併敗血性休克 【詳解】主動脈剝離和動脈瘤皆為 IABP 的禁忌症,因可能會惡 化症狀, 感染性腹主動脈瘤合併敗血性休克應優先考慮抗生素 治療與升壓藥物、ICU care,不適合裝 IABP。 (D) 8. 心臟手術時使用的人工心肺機包含下列那些裝置? 107(二)專 ①熱交換器(heat exch Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (3) Traumatic、dissection、先天性、血管炎或結締組織疾病造成的較少見。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- ...n of IMA 導致 left colon 和 rectosigmoid 血液循環不足。臨床症狀會有腹痛、血便、腹瀉、發燒,嚴重會腸壞死、穿孔、腹膜炎甚至敗血性休克。 - e. Sexual dysfunction: 術中進行 para-aortic dissection 或 iliac arteries dissection 時 傷到 autonomic nerves 或犧牲 internal iliac artery 影響骨盆腔內性器官的灌注 血流。 - f. 下肢半癱(spinal cord ischemia,Adamkiewicz 動脈灌流不足) - g. Graft infection · Aorto-enteral fistula · Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (a) Total thyroidectomy,假使病人有頸部淋巴轉移則加作 ipsilateral central neck dissection。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
 
 ## Clinical Caveats
 

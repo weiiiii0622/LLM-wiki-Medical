@@ -15,6 +15,7 @@ sources:
   - "[[sources/med6-book3-ch09]]"
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Electromyography, EMG (肌電圖)'
   - 'Electromyography, EMG'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+針極肌電圖評估肌肉與下運動神經元電活動，用於 motor neuron disease、radiculopathy、myopathy 等。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med6-book3-ch09]]
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...potential): 監測脊髓路徑或是大腦運動皮質區的完整性。例如:開腦瘤的手術,如果怕切到運動皮質區造成病人開完刀癱瘓,可在手術中刺激局部大腦皮質來監測運動功能區的範圍和是否受損,但只要加了肌肉鬆弛劑,MEP就會測不出來。 - (3) 肌電圖(EMG)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - B. 肌電圖檢查 (Electromyography, EMG) 189 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - ...yelination)。 - (1) 髓鞘病變可見潛期延長或傳導速度變慢;軸突病變可見振幅或表面積減小。 - (2) 檢查時機:為了鑑別診斷特殊疾病如 MG,因軸突受損需要大約2週才完成, 一般建議周邊神經受傷後2~3週進行第一次 NCV/EMG 檢查(太早做因神經還 沒死完全其結果可能會正常而誤導判斷),主要目的要評估神經受損程度和定位 神經受損的高度和層級。而2~3個月後進行第二次 NCV/EMG 檢查,主要目的 要觀察是否有神經再支配(reinnervation)的現象並評估其預後,後續追蹤則因 人因病而異。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - #### B. 肌電圖檢查 (Electromyography, EMG) Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
@@ -64,7 +67,6 @@ tags:
 - (2) 肌電圖(EMG)可發現有去神經(denervation)的現象,尤其是早期症狀不明顯時,可用來鑑別診斷。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (1) 以肌電圖做重複電刺激神經試驗 (repetitive nerve stimulation test), 有**遞減反應** (**decremental response**),與前述的臨床症狀吻合,肌肉愈刺激、愈用就愈無力。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 - (1) 以肌電圖做重複電刺激神經試驗 (repetitive nerve stimulation test), 有**遞增反應** (incremental response),與前述的臨床症狀吻合,肌肉愈刺激、愈用就愈有力。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- ...增生 | 小細胞肺癌 | | | 症狀 | 眼瞼下垂、複視→肢體無力、呼吸衰竭 | 四肢近端、軀幹無力 | 吐、視力模糊(副交感↓)→肢體無力、呼吸衰竭 | | 愈用愈 | 症狀在下午更嚴重 | 症狀在下午改善 | 症狀在下午改善 | | 肌電圖 | 遞減反應(Decremental) | 遞增反應(Incremental) | 遞增反應(Incremental) | | 治療 | 盡早切除胸腺、口服 Mestinon | 治療癌症 | | Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 
 ## Clinical Caveats
 

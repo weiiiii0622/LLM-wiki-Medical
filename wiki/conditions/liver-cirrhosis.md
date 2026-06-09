@@ -40,6 +40,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch15]]"
   - "[[sources/med5-book4-ch12]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Liver cirrhosis (肝硬化)'
   - 'Liver cirrhosis'
@@ -54,7 +55,7 @@ tags:
 
 ## Summary
 
-慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+慢性肝病末期結構重塑，伴隨門脈高壓與肝衰竭併發症。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -94,9 +95,11 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch15]]
 - [[sources/med5-book4-ch12]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- 5. 肝臟系統:是否有 B 或 C 型肝炎、肝硬化(child-Pugh score)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - ...ive heart | Malignant | Collagen-Vascular | Others | | failure | ● Bronchogenic | Disease Related | ◆ Chylothorax | | ● Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | arter Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (B) 4.49 歲男性肝硬化併發右側大量肋膜積液,已存在一個星期,插 101( - ) 專 入 32 Fr 胸管後,釋放出 2,200 毫升稻草色積液。幾分鐘後,病 醫五 -25 人變成呼吸困難和焦慮。則最可能的原因為何? Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - a. HCC: 存活率 25%、孩童到成人都可發生、多為多發且高度侵犯、和 HBV 和 HCV 感染有關。有關疾病或病徵: hepatocyte growth factor receptor gene (c-met) 突變、tyrosinemia、膽道性肝硬化(biliary cirrhosis)、and α1-antitrypsin deficiency。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
@@ -114,7 +117,6 @@ tags:
 - (6) 原發性膽汁性肝硬化 (primary biliary cirrhosis)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - (6) 肝硬化或中度以上之腎功能不全者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
 - ...onic antigen (CEA) 臨床上常用來監測大腸直 | | | 腸癌 | | | (C) α-fetoprotein 在胎兒時會下降,出生後會逐漸上升,懷孕時 | | | 會下降 | | | (D) CA-125 在子宮內膜異位和肝硬化的病患會上升 | | | 【詳解】(C) $\alpha$ -fetoprotein 懷孕第四週時,便能在胎兒血清中偵 | | | 測到,到第 12 至 16 週時濃度達到最高點,接著開始逐漸下降, | | | 直到出生。出生後 $1$ 歲以前,血中 $\alpha$ -fetoprotein 濃度便降到和正 | | | 常成人相同。 | | | (D) 23. 下列對照的致癌原(Carcinogen)何者錯誤? | 102(一)專 | Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (D) 25. 李太太因糖尿病合併腎衰竭接受血液透析多年,三年前接受丈夫 101(二)專 捐贈的腎臟進行移植。現因C型肝炎合併肝硬化及肝衰竭等待肝 臟移植,李先生又成為活體捐贈的候選人。在評估李先生是否 合適作為捐贈者,除了身體狀況外,下列心理及社會因素中何 者非為主要的考量因素? - 醫五-78 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 

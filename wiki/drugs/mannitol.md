@@ -11,6 +11,7 @@ sources:
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch18]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Mannitol (甘露醇)'
   - 'Mannitol'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-滲透性利尿劑，可暫時降低顱內壓；需監測滲透壓、腎功能與容量狀態。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+滲透性利尿劑，可暫時降低顱內壓；需監測滲透壓、腎功能與容量狀態。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch18]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- (C) mannitol 與利尿劑 (furosemide) 對急性腎衰竭病人之幫助 不大 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - (5) 處理:手術治療為主,藥水治療為輔。但緊急處理時可先給 acetazolamide(降 眼壓),或局部給 2%pilocarpine(縮瞳,使隅角張開)以及止痛和止吐劑,病人須仰躺一小時,若眼壓仍無降低可口服給予 glycerol 或 IV 20% mannitol(但 須小心病人有糖尿病),最後實施虹膜造孔術。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - ...需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 | 針對短暫的降眼壓救急用(如 | 副作用:血壓上升。 | □服:glycerol、isosorbide | | | 急性隅角閉鎖性青光眼)。 | | IV: mannitol | Source: [[sources/med6-book2-ch11|癸、青光眼]].
 - (NTG)、吸氧吸入(95% 氧和 5% 二氧化碳)、靜脈注射降眼壓藥物(Diamox 或 mannitol)、前房穿刺術等,不過效果均不佳。\*可記憶為 "MONA": M 是 眼球按摩(ocular massage)和 mannitol,O 是氧氣,N 是 NTG,A 是前房穿刺 (anterior chamber paracentesis)。 Source: [[sources/med6-book2-ch12|子、視網膜]].

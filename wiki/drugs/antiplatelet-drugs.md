@@ -29,6 +29,7 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Antiplatelet drugs (抗血小板藥物)'
   - 'Antiplatelet drugs'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-抑制 platelet activation 或 aggregation，用於動脈血栓預防與治療。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 platelet activation 或 aggregation，用於動脈血栓預防與治療。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,11 @@ tags:
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- (C) 治療可以給予 morphine, oxygen, aspirin, nitroglycerine Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - ...60%的反覆性流產; 40~50% 仍為不明原因。 - a. 反覆性流產的五大類成因中,免疫因素為最重要的成因;而造成第二孕程流 產最重要的原因為子宮因素。 - b. 對於不明原因之反覆性流產,可考慮給予 progesterone、hCG、aspirin & heparin、IVIG等,不過,臨床實證皆不足(僅 progesterone 有較多的實證),需要更多的研究來證實其效用。 - (2) 有些造成流產的原因,如個人因素(如肥胖、壓力大)、個人習慣(如抽菸、飲酒過量、咖啡過量)、環境因素(如化學物質、空氣汙染)和感染…等,可能和單次流產有關,和反覆性流產不一定相關。不過,生活方式和習慣的調整仍是必須的。 - (3) 此外,男性精蟲的品質和女性卵子的品質也可以列入評估,品質不佳的精蟲 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...考慮代理孕母或領養 | | 免疫因素(25%) | · Antiphospholipid syndrome | · Anticardiolipinantibodies(IgG 和 IgM)· Lupus anticoagulant | · Aspirin + heparin | | 內分泌因素(20%) | ·糖尿病控制不佳·多囊性卵巢症候群·甲狀腺疾病(亢進、低下、自體抗體)·高泌乳素血症·黃體機能缺陷 | ・糖尿病和多囊性卵巢症候群篩檢・甲狀腺功能和抗體・血中泌乳素 | · 控制甲狀腺功能和糖尿病 · 多囊性卵巢症候群使用 Metformin 治療 · 高泌乳素血症使用 Bromocriptine 治療 | | 遺傳因素 (3~5%) | · 染色體數量異常(最常見的為 aneup Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (A) 告知太太有抗磷脂質症候群(antiphospholipid syndrome), 應立即開始服用 aspirin Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -92,7 +95,6 @@ tags:
 - (D) 10. 下列有關 microvascular surgery 時使用 anticoagulant 運用的敘述, 106( ) 專 何者錯誤? 醫五-21 - (A) low dose aspirin 的 anti-platelet 效果不錯 - (B) heparin 可全身性或局部使用 - (C) fibrinolytic agent 於 microanastomosis thrombosis 時有幫忙 - (D) 使用 anticoagulant 可使 free flap transfer 之成功率大量提高 Source: [[sources/med5-book2-ch27|丙、皮瓣手術]].
 - (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - ...最可能在何處?(A) 視丘(thalamus)(B) 中腦(midbrain)(C) 橋腦(pons)(D) 延腦(medulla) | 106(二)專醫四-46 | | (C) 1 | 0. 下列有關腦中風的敘述,何者錯誤? (A) 使用抗血小板藥物,有預防缺血性中風再發的效果 (B) 治療高血壓,可有效降低中風的發生 (C) 抽煙與腦中風,無直接的關聯性 (D) 缺血性腦中風的病人,只要合併心房震顫,應建議接受抗凝血劑治療 | 106(二)專醫四-47 | | (A) 1 | 1. A 先生,65 歲男性,有高血壓病史多年,早上吃完早飯後,突然頭暈,步態不穩,被送至急診室,身體神經功能檢查,發現講話口語不清,吞嚥困難,右側 gag reflex 消失,左側疼痛感覺遲鈍,其病灶 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (B) 給予口服抗血小板劑 (aspirin) 治療 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

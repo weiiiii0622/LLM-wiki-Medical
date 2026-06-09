@@ -28,6 +28,7 @@ sources:
   - "[[sources/med5-book2-ch05]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'ACE inhibitors, ACEI (血管張力素轉化酶抑制劑)'
   - 'ACE inhibitors, ACEI'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+降低 afterload 並抑制 RAA system，心衰竭與高血壓常用。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,11 @@ tags:
 - [[sources/med5-book2-ch05]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- (1) 高血壓:目前建議除了利尿劑外,其他高血壓藥物術前可以正常服用,可提 醒病患以少量水吞服。對於手術的病患,利尿劑可能會造成電解質紊亂。 ACEI/ARB 類的藥物術前仍可服用,但可能會造成術中低血壓(profound hypotension)影響術中評估低血壓的準確性。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】病人疑為嚴重子癲前症,可先給予 MgSO4 預防癲癇,處理高血壓可使用 Hydralazine 和 Labetalol 等,ACEI 和 ARB 因會影響胎兒心臟及腎臟發育,懷孕期間禁止使用;將胎兒產出是唯一根治方法。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (3) 處置:通常 aneurysm 很小或沒明顯症狀不需開刀,內科藥物治療(ACEI) 並追蹤即可。假使 aneurysm 擴張太快、angina、severe heart failure、refractory ventricular tachyarrhythmias 或是 recurrent thromboembolism 則需開刀將其切除。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
@@ -90,7 +93,6 @@ tags:
 - ...----|----------------| | (D) 24 | E. 下列那一種方法無法降低 intraglomerular hypertension 而達到減緩 chronic renal failure 進行的目的? (A) 服用 angiotensin converting enzyme inhibitors (ACEI) (B) 服用 angiotensin-receptor blockers (ARB) (C) 限制 dietary protein 攝取 (D) 服用 kayexalate | 94(二)檢內-29 | | (B) 25 | 5. 腎臟之腎元 (nephron) 受慢性傷害至多少 % 以上,血中肌酸酐 (creatinine) 才會開始升高? (A) 20 (B) 50 (C) 80 (D) 95 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
 - ...| | (A) 23 | . 一位 69 歲糖尿病病人,其血清肌酸酐(creatinine)為 2.3 mg/dL,門診醫師最近加了一項降血壓藥,2 週後抽血,肌酸酐上升至 4.5 mg/dL,下列那一類藥物最有可能造成上述情況?(A) ACE inhibitors (B) β-blockers(C) calcium channel blockers (D) α-blockers | 99(一)專醫三-22 | | (C) 24 | 下列那一種藥物引起的急性腎衰竭,其機轉和其他三者不同? (A) captopril (B) valsartan (C) gentamicin (D) indomethacin 【詳解】NSAID 使入球小動脈收縮,ACEI、ARB 使出球小動脈放鬆,導致腎絲球內血管的 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
 - 【詳解】(B)血管張力素轉換抑制劑(ACEI)會讓入球小動脈放鬆, 使得腎血流更加減少。 Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...白 (Multiple myeloma)破壞近端腎小管或服用 Acetazolamide→無法吸收 HCO₃ 造成酸中毒、低血鉀;尿中 HCO₃ ↑→ Fe HCO₃ > 15% - c. Type 4 RTA: HypoRAS (DM, ACEI 等) → Aldosterone 作用減少→腎臟留鉀留氫 - →高血鉀(一般 RTA 的酸中毒會低血鉀,只有 Type 4 RTA 的酸中毒會高血鉀) - →高血鉀造成近端腎小管製造 NH, ↓但腎臟排 H+ 正常 - → $\mathbb{R}$ NH3 ↓→ $\mathbb{R}$ NH4+ ↓→ UAG > 0 但 $\mathbb{R}$ 中 H+ ↑→ $\mathbb{R}$ pH + | 尿中 HCO3 | 病因 | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
 
 ## Clinical Caveats
 

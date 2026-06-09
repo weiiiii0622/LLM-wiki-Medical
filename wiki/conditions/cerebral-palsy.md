@@ -15,6 +15,7 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book3-ch06]]"
   - "[[sources/med6-book3-ch04]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Cerebral palsy, CP (腦性麻痺)'
   - 'Cerebral palsy, CP'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+發育中腦部非進行性傷害造成姿勢與動作障礙，可合併癲癇、認知與吞嚥問題。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book3-ch06]]
 - [[sources/med6-book3-ch04]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- ...c neuroma) - (1) 定義: - a. 前庭神經與聽神經並行,由內耳發出走向腦幹。而 vestibular schwannoma 是由許旺式細胞瘤沿著前庭神經與聽神經生長所致。 - b. 好發處是位於內耳道的開口,即小腦橋腦角(CP angle)之處。 - c. 佔顱內腫瘤數約 8%, 佔小腦橋腦角腫瘤數約 80~90%。 - (2) 流行病學: - a. 好發年齡為大於 50 歲的病人。 - b. 90% 為單側。(雙側的侵犯好發於 type 2 neurofibromatosis 的病人) - (3) 臨床症狀: - a. 初期由於腫瘤生長相當緩慢,因此臨床表現可能只有漸進性的單側聽力障礙 或耳鳴,並不會出現暈眩的症狀。 - b. 後期因腫瘤壓迫至其他神經與血 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - B. 腦性麻痺 (Cerebral palsy, CP) 148 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 3. 造成胸鎖乳突肌纖維化的原因不明,目前推測是肌肉生長過程缺血或是生產時受到 創傷。其他像是頸椎側彎、頸部組織發炎(急性淋巴腺發炎)、運動傷害、睡姿不良、 視力不對稱、腦性麻痺的病患皆有可能合併發生斜頸。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - #### B. 腦性麻痺 (Cerebral palsy, CP) Source: [[sources/med6-book3-ch06|己、小兒復健]].

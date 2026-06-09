@@ -28,6 +28,9 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Hemodialysis (血液透析)'
   - 'Hemodialysis'
@@ -42,7 +45,7 @@ tags:
 
 ## Summary
 
-以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以體外循環移除溶質與水分，是 ESKD 與部分急症的 renal replacement therapy。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +73,16 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch09]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 6. 腎臟系統:是否有 CKD/ESRD,有無進行血液透析或腹膜透析,術前血液檢查數值 為何。有沒有哪一手禁做治療? Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...0 控制良好的妊娠糖尿病、妊娠高血壓或子癲前症) | 0.27~0.4% | | III | 有嚴重的系統性疾病,讓日常生活受到限制。 | 控制不佳的高血壓或糖尿病、慢性阻塞性肺疾(COPD)、病態性肥胖(BMI > 40)、酒精成癮、規則洗腎、有中風或心肌梗塞病史(發作時間超過三個月以上)、冠狀動脈疾病、裝心臟節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併心衰竭的孕婦 | 7.8~23% | Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- d. 血液透析:連續性腎替代性治療(Continuous renal replacement therapy)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 分成非侵犯性與侵犯性黴菌性鼻竇炎。侵犯性黴菌性鼻竇炎幾乎都發生在免疫低下者,如糖尿病、白血病、洗腎、化療、移植後服用免疫抑制劑、後天免疫缺乏症候群等病人;非侵犯性黴菌性鼻竇炎好發於免疫功能正常者。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...人講話清晰度、吞嚥程度的改善。但乙醯膽鹼活性 增加,病人可能會出現血壓下降、心搏減緩,甚至房室傳導阻滯等副作用, 因此必須備妥 atropine 及急救裝置下才可進行。 - (5) 治療:使用類固醇及免疫抑制劑,全身性的重症肌無力需住院接受血液透析治療;眼科介入治療主要是當眼瞼下垂或複視無法改善時,眼瞼下垂利用含眼瞼支撐(lid crutch)的眼鏡、複視則利用稜鏡;若病情穩定但眼睛症狀持續時,可考慮手術治療。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...es)的敘述,下列何者正確? 101(一)專 (A) 副甲狀腺機能亢進(hyperparathyroidism)的病人常因分泌大 醫五-63 量副甲狀腺激素(parathyroid hormone, PTH), 造成血中鈣 - (B) 長期洗腎的病人因為腎功能不全會導致腎性骨發育不全 (renal osteodystrophy),其PTH可能會升高 - (C) 變形性骨炎(Paget's disease)主要發生在40歲以下的病人, 女多於男,是一種骨頭塑形 (remodeling) 的疾病,不會轉 變為惡性腫瘤 - (D) 骨質石化病(osteopetrosis) 又稱大理石骨病(marble bone disease),主要是因成骨細胞(osteoblast)過度活躍造成 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
 - (B) 4.921 大地震時,大樓倒塌,一位 46 歲男性被崩塌的混凝土壓到 驅幹與下肢,經過一日一夜之搶救終於送往急診,在急診發現右 側脛骨及腓骨骨折,因此接受跟骨鋼釘牽引術,為避免因橫紋 肌溶解而造成急性腎衰竭,病人轉往加護病房嚴密觀察、並評 估接受血液透析之必要,6 個小時後,病人感到右側小腿非常疼 痛,當護士扳動腳趾時,疼痛感更形加劇,下一步應採取之最 佳步驟是下列何者? Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
@@ -87,9 +97,6 @@ tags:
 - (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ...yceride)濃度 (D) 12. 下列何者與血中鈣濃度的調節無關? 100(一)專 (A) 副甲狀腺荷爾蒙 醫五-22 (B) 維他命 D (C) 抑鈣激素 (D) 雌性激素 (C) 13. 一位 57 歲的尿毒症病患,5 年來持續接受血液透析治療,直到 99(二)專 2個月前接受了腎臟移植手術。最近他開始出現皮膚搔癢、腹痛、 醫五-58 骨頭酸痛等現象,抽血檢查鈣值為 12 mg/dL。下列何者是此患 者最可能的診斷? (A) Primary hyperparathyroidism (B) Secondary hyperparathyroidism (C) Tertiary hyperparathyroidism (D) Parathyroid carcinoma (D) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - (1) 高血壓機率較洗腎患者高,其可能的原因為 cyclosporine 的副作用、排斥、腎動脈狹窄等。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- ...rograf),其作用機轉為: 醫五-3 (A) 抑制 IL-2 的生成 (B) 抑制 purine 的代謝 (C) 抑制 cytokine 的產生 (D) 抑制淋巴球進入移植體 (A) 9. 病患蔡先生, 現年 40 歲, 因尿毒症而接受血液透析共 10 年, 登 101(一)專 記換腎也等待6年,此次住院前一天晚上被通知住院並接受腎臟 醫五-1 移植。捐贈者是一位 55 歲女性腦死病患,實驗室檢查發現血清 內肌酸酐值高至 6.0 mg/dL, 血清內尿毒素氮為 54 mg/dL, 主治 醫師向蔡先生解釋換腎的成功率及可能的併發症後,他毅然決 然接受腎移植手術,術後腎臟沒有發揮功能,每小時尿量小於 10 cc。以下什麼情況最可能解釋移植腎沒有發揮功能? (A) 移植腎腎小管壞死 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- ...cyte globulin (ALG) 移植後需終生使用以避免 排斥 【詳解】Antilymphocyte globulin 主要是用在術前的 induction 和 術後的急性排斥的拯救,並非終生使用。 (B) 16. 一位 22 歲女性洗腎已三年,兄弟姊妹欲捐一腎臟給她,下列那 100(一)專 些 HLA 抗原具有較為重要的臨床意義? 醫五-51 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (D) 25. 李太太因糖尿病合併腎衰竭接受血液透析多年,三年前接受丈夫 101(二)專 捐贈的腎臟進行移植。現因C型肝炎合併肝硬化及肝衰竭等待肝 臟移植,李先生又成為活體捐贈的候選人。在評估李先生是否 合適作為捐贈者,除了身體狀況外,下列心理及社會因素中何 者非為主要的考量因素? - 醫五-78 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 
 ## Clinical Caveats
 

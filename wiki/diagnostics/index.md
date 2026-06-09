@@ -24,11 +24,13 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/antinuclear-antibody|Antinuclear antibody, ANA (抗核抗體)]] - SLE 等自體免疫疾病常用篩檢抗體，敏感度高但特異性有限。
 - [[diagnostics/apgar-score|Apgar score (Apgar 評分)]] - 出生後快速評估 heart rate、respiration、tone、reflex irritability 與 color。
 - [[diagnostics/arterial-blood-gas|Arterial blood gas, ABG (動脈血氣)]] - 評估氧合、通氣與酸鹼狀態。
+- [[diagnostics/asa-physical-status-classification|ASA physical status classification (ASA 麻醉風險分級)]] - ASA physical status 以全身健康狀態分級麻醉風險，常用於術前風險溝通與研究分層。
 - [[diagnostics/ascitic-fluid-analysis|Ascitic fluid analysis (腹水分析)]] - 腹水細胞數、白蛋白、蛋白與培養用於診斷 SBP 與腹水成因。
 - [[diagnostics/asia-impairment-scale|ASIA Impairment Scale, AIS (ASIA 脊髓損傷分級)]] - 以 sensory/motor level、sacral sparing 與 complete/incomplete injury 分級 SCI 嚴重度與預後。
 - [[diagnostics/bi-rads|BI-RADS (乳房影像報告與資料系統)]] - 乳房影像標準化分類，指引追加影像、切片或追蹤。
 - [[diagnostics/biophysical-profile|Biophysical profile, BPP (胎兒生理活動評量)]] - 整合 NST、胎動、呼吸運動、肌張力與羊水量評估胎兒狀態。
 - [[diagnostics/bishop-score|Bishop score (Bishop 子宮頸成熟度評分)]] - 以 dilation、effacement、station、consistency、position 評估 induction of labor 成功機率。
+- [[diagnostics/bispectral-index-monitoring|Bispectral index monitoring, BIS (麻醉深度監測)]] - BIS 由 EEG 訊號估計催眠深度，用於輔助調整麻醉深度與降低術中覺醒風險。
 - [[diagnostics/blood-pressure-measurement|Blood pressure measurement (血壓測量)]] - 正確量測與分類是高血壓診斷基礎。
 - [[diagnostics/bnp|BNP / NT-proBNP (腦利鈉胜肽)]] - 心室壓力與容量負荷標記，可輔助心衰竭診斷與嚴重度評估。
 - [[diagnostics/bohler-angle|Böhler angle (Böhler 角)]] - 跟骨側位 X-ray 評估 posterior facet 塌陷的角度，低於正常範圍提示 calcaneus fracture。
@@ -45,6 +47,8 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/brunnstrom-stage|Brunnstrom stage (Brunnstrom 中風動作恢復分期)]] - 以中風後 synergy 與 voluntary movement recovery 分期，常用於偏癱動作恢復與治療目標設定。
 - [[diagnostics/c-peptide|C-peptide (C 胜肽)]] - 反映內生性胰島素分泌，可協助分辨糖尿病型態。
 - [[diagnostics/ca-125|CA-125 (癌抗原 125)]] - 卵巢上皮癌常用追蹤與輔助評估標記，但早期、停經前與非漿液性癌診斷準確度有限。
+- [[diagnostics/caloric-test|Caloric test (溫差試驗)]] - Caloric test 以冷熱刺激外耳道評估水平半規管與前庭眼反射功能。
+- [[diagnostics/capnography|Capnography (二氧化碳波形監測)]] - Capnography 監測呼氣末二氧化碳與波形，可確認氣管管位、通氣與循環狀態。
 - [[diagnostics/cardiac-biomarkers|Cardiac biomarkers (心肌酵素)]] - 用於區分 UA 與 MI，並評估心肌壞死。
 - [[diagnostics/cerebrospinal-fluid-analysis|Cerebrospinal fluid analysis, CSF (腦脊髓液檢查)]] - 用壓力、細胞、蛋白、葡萄糖與染色培養區分 CNS infection 類型。
 - [[diagnostics/child-pugh-score|Child-Pugh score (Child-Pugh 分級)]] - 以 bilirubin、albumin、PT/INR、ascites、encephalopathy 評估肝硬化嚴重度。
@@ -94,6 +98,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/lipid-profile|Lipid profile (血脂檢查)]] - 血脂檢查用於 ASCVD 風險與治療目標追蹤。
 - [[diagnostics/liver-function-tests|Liver function tests, LFTs (肝功能檢查)]] - 用 AST/ALT、ALP/GGT、bilirubin、albumin、PT/INR 判斷肝膽疾病型態與功能。
 - [[diagnostics/lung-cancer-staging|Lung cancer staging (肺癌分期)]] - 肺癌治療選擇依組織型與分期。
+- [[diagnostics/mallampati-classification|Mallampati classification (Mallampati 氣道分級)]] - Mallampati 分級用口咽可視結構估計困難插管風險，是術前氣道評估的一部分。
 - [[diagnostics/mammography|Mammography (乳房 X 光攝影)]] - 乳癌篩檢與診斷影像，特別適合脂肪比例較高的乳房偵測鈣化。
 - [[diagnostics/manual-muscle-testing|Manual muscle testing, MMT (徒手肌力測試)]] - 徒手肌力測試以 0-5 級評估肌肉收縮與抗重力/抗阻力能力，是神經與復健功能評估基本工具。
 - [[diagnostics/meld-score|MELD score (MELD 分數)]] - 以 bilirubin、INR、creatinine 等估計末期肝病預後與移植優先度。
@@ -103,6 +108,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/mrcp|Magnetic resonance cholangiopancreatography, MRCP (磁振膽胰管攝影)]] - 非侵襲性顯示膽道與胰管結構，用於膽總管結石、膽管癌、胰臟癌或胰膽管異常評估。
 - [[diagnostics/nerve-conduction-study|Nerve conduction study, NCS/NCV (神經傳導檢查)]] - 評估周邊神經傳導速度與振幅，協助區分 axonal neuropathy 與 demyelinating neuropathy。
 - [[diagnostics/neurologic-examination|Neurologic examination (神經學檢查)]] - 系統評估 mental status、cranial nerves、motor、sensory、reflex、coordination、gait 以定位神經病灶。
+- [[diagnostics/neuromuscular-monitoring|Neuromuscular monitoring (肌鬆監測)]] - 肌鬆監測用 peripheral nerve stimulation 評估 neuromuscular blockade 深度與恢復。
 - [[diagnostics/nikolsky-sign|Nikolsky sign (Nikolsky 徵象)]] - 輕壓或摩擦使表皮剝離，見於 SSSS、pemphigus vulgaris、TEN 等表皮內或表皮壞死疾病。
 - [[diagnostics/nocturnal-penile-tumescence-test|Nocturnal penile tumescence test, NPT (夜間陰莖勃起監測)]] - 評估睡眠中自然勃起以區分 psychogenic 與 organic erectile dysfunction。
 - [[diagnostics/nonstress-test|Nonstress test, NST (無壓力試驗)]] - 以胎心率加速反映胎兒氧合與自主神經反應，是常用 antepartum fetal surveillance。
@@ -119,6 +125,8 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/prostate-specific-antigen|Prostate-specific antigen, PSA (攝護腺特異抗原)]] - 攝護腺上皮分泌蛋白，受 BPH、prostatitis、導尿、DRE 與 5-alpha-reductase inhibitor 影響，用於風險評估與治療後追蹤。
 - [[diagnostics/protein-electrophoresis|Protein electrophoresis (蛋白電泳)]] - 偵測 monoclonal protein，支援 myeloma、MGUS、Waldenstrom 等診斷。
 - [[diagnostics/pulmonary-function-test|Pulmonary function test, PFT (肺功能檢查)]] - 區分阻塞型、限制型與擴散障礙。
+- [[diagnostics/pulse-oximetry|Pulse oximetry (脈搏血氧監測)]] - Pulse oximetry 以光學方式監測動脈血氧飽和度，是麻醉與急重症基本監測。
+- [[diagnostics/pure-tone-audiometry|Pure tone audiometry, PTA (純音聽力檢查)]] - PTA 測量不同頻率 air/bone conduction threshold，是聽損分類與嚴重度評估核心。
 - [[diagnostics/rancho-los-amigos-scale|Rancho Los Amigos scale (Rancho Los Amigos 認知功能量表)]] - 用於描述 TBI 後認知與行為恢復階段，從無反應到有目的且適切的反應。
 - [[diagnostics/reticulocyte-production-index|Reticulocyte production index, RPI (網狀紅血球生成指數)]] - 校正貧血程度與 reticulocyte 成熟時間後評估骨髓造血反應。
 - [[diagnostics/rheumatoid-factor|Rheumatoid factor, RF (類風濕因子)]] - RA 常見自體抗體，亦可見於感染、其他自體免疫病與老年人。
@@ -137,6 +145,7 @@ Labs, imaging, criteria, scoring systems, and test interpretation.
 - [[diagnostics/tonometry|Tonometry (眼壓測量)]] - 眼壓測量用於 glaucoma 評估與急性紅眼鑑別，需結合角膜厚度、視神經與視野判讀。
 - [[diagnostics/tumor-markers|Tumor markers (腫瘤標記)]] - 腫瘤標記可用於特定癌症追蹤或輔助診斷，但通常不能單獨診斷癌症。
 - [[diagnostics/tumor-staging|Tumor staging (腫瘤分期)]] - 腫瘤分期整合原發腫瘤、淋巴結與遠端轉移，決定治療與預後。
+- [[diagnostics/tuning-fork-tests|Tuning fork tests (音叉檢查)]] - Weber/Rinne 音叉檢查可床邊區分 conductive 與 sensorineural hearing loss。
 - [[diagnostics/tzanck-smear|Tzanck smear (Tzanck 抹片)]] - 水泡底部刮取細胞檢查，可見 herpesvirus 感染的 multinucleated giant cells。
 - [[diagnostics/umbilical-artery-doppler|Umbilical artery Doppler (臍動脈都卜勒)]] - 用臍動脈阻力與舒張末期血流評估胎盤阻力，常用於 FGR 監測與分娩時機判斷。
 - [[diagnostics/upper-endoscopy|Upper endoscopy, EGD (上消化道內視鏡)]] - 評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。

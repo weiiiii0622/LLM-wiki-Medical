@@ -68,6 +68,7 @@ sources:
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med5-book5-ch01]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Pancreas (胰臟)'
   - 'Pancreas'
@@ -82,7 +83,7 @@ tags:
 
 ## Summary
 
-胰臟兼具外分泌消化酵素與內分泌血糖調控功能。 本頁已整合至 `醫(五)第5冊泌尿`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胰臟兼具外分泌消化酵素與內分泌血糖調控功能。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -150,9 +151,11 @@ tags:
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med5-book5-ch01]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- (A) 27. 45 歲男性病人因胰臟炎而長期服用嗎啡,現因股骨骨折而須進 行手術,下列有關之敘述,何者錯誤? Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - ...合不良、生長發育遲緩、精神障礙等。 - (ii) Calcineurin inhibitor(CNI): Tacrolimus(血中是驗 FK-506,藥名有 Prograf®或 Advagraf® 0.1 mg/kg,會 3 掉:掉毛、掉胰臟功能(所以會血糖高)、掉腸胃功能)、Cyclosporine(Sandimmun Neoral® 3 mg/kg,會 3 生:生毛、生(昇)血壓及生牙齦)。副作用有腎毒性(故術後 4 個月換 mTORi 治療)。Tacrolimus 目前比 Cyclosporine 常用因為效果較好(可減少 steroid劑量)、且臨床上監測血中濃度(抽血時機)較方便。 - ii. 干擾淋巴增生(Lymphocyte proliferation): - Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - 3. 臨床表現 - (1) 腸道:出生時因腸阻塞而解不出胎便(12%)、腸阻塞、食慾不振、生長遲緩容易脹氣、經常性的腹痛或腹脹、腸胃道出血、腹瀉、吸收不良、腸套疊、胃食道逆流。 - (2) 膽管: 黃疸、脂肪肝(30~60%)。 - (3) 胰管:脂肪吸收不良、脂溶性維生素的缺乏、脂肪便、成人患者可能因胰臟受 損而導致糖尿病(8~12%)。 - (4) 呼吸道:經常性的呼吸道感染、長期咳嗽、反覆性的支氣管炎或肺炎、氣喘、 鼻竇炎、鼻息肉。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - (3) 關聯疾病:早產、唐氏症(Down syndrome)、羊水過多(polyhydramnios)、 腸胃道轉位異常(malrotation)、環狀胰(annular pancreas)及膽道閉鎖(biliary atresia)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -170,7 +173,6 @@ tags:
 - 2. 腸胃習慣改變,並且出現脂肪便(steatorrhea),與胰臟外分泌功能喪失,脂肪及蛋白質的消化會受到影響相關。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - 1. 發生於胰臟的惡性腫瘤稱為胰臟癌,可分為原發性及次發性。 - (1) 原發性胰臟癌:依發生癌變的組織不同,產生不同的病理表現。大多數的胰臟癌來自胰管表皮細胞所產生的腺癌(ductal adenocarcinoma),其他如黏液性腺癌(cystic neoplasms)、內分泌細胞癌(endocrine neoplasms)等,皆可發生於胰臟的任何部位。 - (2) 次發性胰臟癌:原發於別的器官,轉移至胰臟的惡性腫瘤。發現機率為原發性 胰臟癌的四倍。常見轉移至胰臟的癌症包括肺癌、乳癌、黑色素癌、胃癌及大 腸癌等。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - 2. 流行病學: - (1) 在台灣,每十萬人口中約有五人罹患胰臟癌。十大癌症死因中排名第十。 - (2) 多發生於 60 歲之後的病人。 - (3) 男性發生率高於女性,約為2:1。 - (4) 胰臟癌發生於不同部位會有不同症狀,手術介入也會有不同的選擇。 - a. 胰頭:60~70%。 - b. 胰體:25%。 - c. 胰尾:10%。 - d. 多發性: 5~10%。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- 1. 胰臟為後腹腔器官,其發生病變症狀有時不是很明顯。早期的胰臟癌是沒有明顯的 症狀,若癌細胞持續的擴大,可能會出現: - (1) 上腹痛、背痛。 - (2) 黃疸。 - (3) 體重減輕。 - (4) 腹瀉。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 
 ## Clinical Caveats
 

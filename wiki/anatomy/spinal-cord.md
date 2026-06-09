@@ -36,6 +36,12 @@ sources:
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch07]]"
+  - "[[sources/med6-book4-ch12]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch08]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Spinal cord (脊髓)'
   - 'Spinal cord'
@@ -50,7 +56,7 @@ tags:
 
 ## Summary
 
-傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+傳遞運動、感覺與自律訊號；病灶定位依節段、長徑路與上下運動神經元表現。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +92,22 @@ tags:
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch07]]
+- [[sources/med6-book4-ch12]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch08]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (b) 功能性內視鏡鼻竇手術(functional endoscopic sinus surgery, FESS)。 - i. 治療慢性鼻竇感染的最常見手術方法。手術使用放大鼻竇內視鏡透過 鼻孔進行。其風險較小,手術後恢復速度比傳統的竇房手術較快。 - ii. 併發症:因傷害到視神經而影響視力、腦脊髓液漏出、牙齒或上唇麻木感、感染、出血。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 1. 常是因為篩板或篩骨蝶竇的骨折或醫源性(腦下垂體手術或鼻竇手術)所引起。當 低下頭時前鼻孔會流出透明的水樣鼻漏,即是腦脊髓液。容易引起腦膜炎。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- ...溝通,來調整藥物或降低劑量。 - (1) 感覺誘發電位 (sensory evoked potential, SEP): 刺激末梢神經,此衝動傳至中樞神經產生電位,由置於頭皮上的電極記錄下來。 - a. 驅體感覺誘發電位(SSEP):常用於脊髓或脊椎手術中監測脊髓功能,例如:開 T12 的脊髓腫瘤切除術,可以在病人的雙腳給他電刺激,在靠近腦部感覺 皮質區(sensory cortex)的頭皮處監測是否有正常訊號傳入,來判斷是否有 傷到脊髓,但如果在手部給他電刺激就測不到 T12 的神經損傷。 - b. 腦幹聽覺誘發電位(BAEP):經由耳塞傳入聲音刺激,可反應出聽覺傳導路徑,常用於後顱窩手術的監測,避免損傷腦幹或聽神經。 - c. 視覺誘發電位(VEP):可在眼前輕微閃光產生 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (2) Opioid receptor 主要位於三處: - a. 腦幹。 - b. 脊髓。 - c. 消化道與泌尿道的壁內神經叢。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- 3. 脊髓麻醉 (spinal anesthesia): - (1) 蜘蛛膜下腔麻醉:直接注射入蜘蛛膜下腔,效果迅速目副作用較少。 - (2) 阻斷注射部位只要不高於第四胸椎,即不易造成呼吸抑制作用。 - (3) 麻醉的 level:依據手術種類而決定要麻醉的 level 為何。 - a. S2-S5: 痔瘡手術。 - b. L2-L3: foot • - c. L1-L3:下肢。 - d. T10 (umbilicus): 髖關節 (Hip)、 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
+- 【詳解】脊柱側彎矯正手術最重要的步驟在於監測脊髓並無因 矯正發生傷害或是缺血,傳統的方式為術中執行「清醒測試 (Wake-up Test)」,亦即在外科醫師執行單側脊椎矯正之後,將 病患由麻醉狀態恢復為清醒狀態,待檢查完下肢運動功能完整 後,再度讓病患睡著,以利完成後續之手術。T-L spine 並沒有 上肢的運動感覺神經,而運動神經又比感覺神經容易測得,故 答案為 (C)。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- a. 大約持續 30 秒以內的眩暈,以致發生身體不平衡,可能造成意外跌倒。(內 耳前庭-脊髓反射) Source: [[sources/med6-book4-ch11|甲、耳科]].
 - A. 脊髓損傷 (Spinal cord injury, SCI) 42 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - #### A. 脊髓損傷 (Spinal cord injury, SCI) Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (2) 每段脊髓都支配某片皮膚區域的感覺,稱為皮節 (dermatome),皮節可以透過 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
@@ -100,13 +119,6 @@ tags:
 - 3. 當神經傳導入徑或是肌肉受傷時,便會引發垂足問題,造成垂足的原因如下: - (1) 神經性病因:中樞神經損傷、脊髓損傷、脊髓病變、運動神經元疾病、馬尾症 候群、腰薦椎神經根病變、坐骨神經病變、總腓神經病變、腓深神經病變、周 邊神經病變。 - (2) 肌肉性病因:肌肉損傷、肌腱損傷、前腔室症候群 (anterior compartment syndrome)、myopathy。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - (b) 所有姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 近期脊髓手術(例如,椎板切除術)或急性脊髓損傷。 - iii. 活動性咳血。 - iv. 膿胸。 - v. 鬱血性心衰竭合併肺水腫(心因性肺水腫)。 - vi. 大量肋膜積水。 - vii. 肺栓塞。 - viii.意識混亂或焦慮無法忍受的病人。 - ix. 肋骨骨折合併或未合併連枷胸。 - x. 外傷傷口。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- (d) 併發症:手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下 垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- 【詳解】泌乳激素瘤 1 公分以上為 macroadenoma,已造成視野缺損,須接受治療。(A) 藥物治療(dopamine agonist,如 cabergoline, bromocriptine)為首選之治療方式,藥物效果良好(約 90%),但仍有 10% 對藥物無反應;(B)(C) 若藥物治療無效,可考慮經蝶竇腦下垂體手術(transsphenoidal pituitary surgery)切除腫瘤,不過,手術切除後可能復發,需接受定期追蹤;(D) 手術後遺症包括視神經傷害,尿崩症(diabetes insipidus),腦下垂體賀爾蒙不足與腦脊髓液外漏(cerebrospinal fluid leakage)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- | 建議週數 | 檢查項目 | |---------|---------------------------------------------| | 10~12 週 | 絨毛取樣術 | | 12 週以上 | 非侵入性胎兒染色體檢測 | | 11~14 週 | 第一孕程唐氏症篩檢 | | 10~20 週 | 脊髓肌肉萎縮症 (spinal muscular atrophy, 簡稱 SMA) 及 | | | X染色體脆折症基因檢測 | | 15~18 週 | 四指標母血唐氏症篩檢 | | 16~20 週 | 羊膜穿刺 | | 18~24 週 | 高層次超音波 | | 24~28 週 | 妊娠糖尿病篩檢(50公克) | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- b. 異常的尿流曲線圖,形態改變且最大尿流速 下列何者不會造成 flaccid neuropathic bladder ? (A) S2-S4 spinal cord 受傷 (B) 頸椎受傷 (cervical spine injury) 且有 quadriplegia (C) Myelodysplasia 造成 anterior horn cell 無法正常發育 (D) Poliovirus 感染並破壞 anterior horn cell of spinal cord | 109(一)專醫五-68 | |-----|---------------------------------------- Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- | (C) | 6. 對一位 C5~C6 完全性脊髓損傷導致逼尿肌尿道外括約肌共濟失調 | 107 (二)專 | |-----|-------------------------------------------------------|-----------| | | (detrusor sphincter dyssynergia, DSD)的病人,下列何種處置不 | 醫五-68 | | | 合適? | | | | (A) 間歇性導尿以定時排空膀胱 | | | | (B) 口服抗膽鹼 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- ...是此種藥物治 醫五-62 療的禁忌症? (A) 患者有心跳過快型的心律不整 (B) 患者有閉角型青光眼(closed-angle glaucoma) (C)慢性腎功能不良患者 (D)慢性阻塞性肺病變(COPD)患者 (D) 18. 第八胸椎脊髓處(T8)完全性截斷的病人會有下列何種排尿障礙? 98(二)專 (A) 逼尿肌無張力 (detrusor atony) 併尿瀦留 醫五-63 (B) 逼尿肌低反射性 (detrusor hyporeflexia) 併膀胱敏感性增加 (hypersensitivity) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- 1. 成人最常見的縱隔腔腫瘤 23%,通常在後縱隔腔,源自交感神經節和肋間神經的腫瘤,前上縱隔腔極為罕見,多為良性。佔孩童 34%縱隔腔腫瘤,多為惡性。約 10% 會侵犯到脊髓,又稱為 dumbbell tumors。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 
 ## Clinical Caveats
 

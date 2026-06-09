@@ -20,6 +20,7 @@ sources:
   - "[[sources/med5-book3-ch07]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Metabolic acidosis (代謝性酸中毒)'
   - 'Metabolic acidosis'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,13 @@ HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因�
 - [[sources/med5-book3-ch07]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch17]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- 3. 症狀治療: - (1) 降溫:體表降溫,可使用冰塊、冰帽,或在冰槽內置碎冰塊將患者放在冰槽內。 中心降溫,可靜脈快速滴注冰鹽水,插鼻胃管冰水灌胃,必要時開胸、開腹用 冰水灌洗胸腹腔,甚至可採用體外循環降溫。 - (2) 矯正酸中毒可使用 bicarbonate。 - (3) 高血鉀的處理,可使用葡萄糖加胰島素靜脈滴註。 - (4) 高血壓或心律不整:一般而言,若校正好高血鉀及代謝性酸中毒,血壓就會下降,若未下降則使用降血壓藥物,但不可使用 CCB 類,因為會造成高血鉀及與dentrolene 交互作用所造成的心跳停止。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (A) 合併代償性呼吸性酸中毒及代償性代謝性酸中毒 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (B) 原發性呼吸性鹼中毒及代償性代謝性酸中毒 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - (B) 容易產生高血鉀與代謝性酸中毒 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - 【詳解】(B) 神經性厭食症(anorexia nervosa)患者若不當催吐或過量使用利尿劑(如:thiazide 和 loop diuretics 等)會造成代謝性鹼中毒,而過量使用軟便劑(laxatives)則會造成代謝性酸中毒;這些情形都會使鉀離子流失,造成低血鉀。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - | • 心輸出量減少 | • 尿量減少 | | |------------------------------------------------|--------|--| | ・肺 compliance 下降和 end tidal CO 2 上升 | | | | ・血液 pH 降低 (代謝性酸中毒) | ・腹壓上升 | | Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
@@ -72,9 +77,6 @@ HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因�
 - ...小時內未解胎便。(E | )) | | | 則會出現含膽汁性嘔吐。 | | | (B) | 4. 承上題,上述男嬰之身體診查,最不可能出現的徵狀是: | 102(二)專 | | | (A) 黃疸 | 醫四 -11 | | | (B) 脫水及代謝性酸中毒 | | | | (C) 上腹部腫塊 | | | | (D) 腹壁出現蠕動波 | | | | 【詳解】(B) 應該會出現代謝性鹼中毒。 | | | (C) | 5. 先天性幽門狹窄(pyloric stenosis)在何時最易出現腸壁蠕動波 | 101(一)專 | | | (visible peristalsis) ? | 醫四 -4 | | | (A) 餵食前、嘔吐前 (B) 餵食前、嘔吐後 | | | | (C) 餵食後、嘔吐前 ( Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - (B) 代謝性酸中毒 (metabolic acidosis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
 - 正常陰離子間隙型代謝性酸中毒,發生原因不是 bicarbonate 再吸收發生問題就是 氫離子排泄出現問題。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (3) 因為氫離子分泌作用出問題,即使本身有嚴重的代謝性酸中毒也無法將尿液酸化,故尿液 pH 值常 > 5.5。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 臨床表現:與第二型腎小管酸中毒相同有生長遲滯、正常陰離子間隙代謝性酸中毒。 此外,病人也會表現嘔吐、脫水、骨頭疾病、腎臟鈣化合併高尿鈣與低血鉀。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...irilizing form。 - (1) Salt losing form (75%):出生後約 1~2 週開始出現症狀。缺乏 cortisol 則會有食欲不振、低血糖、嘔吐、虚弱。Aldosterone 缺乏則造成低血鈉、高血鉀、脫水、代謝性酸中毒(type IV RTA)進而造成生長遲緩。21-hydroxylase deficiency 則造成合成路徑往性激素合成方向發展,使得雄性激素分泌增加,進而導致男性化(virilization)發生。在女嬰則有外陰男性化,造成半陰陽外生殖器。此外,ACTH上升使得黑色素細胞增加而有色素沉著。故女嬰在一出生時容易發現異常而就醫。男嬰則表現陰莖肥大與色素沉著,但出生時多表現正常故不一定能馬上發現。男嬰反而以 cortisol 或 aldo Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 
@@ -83,7 +85,7 @@ HCO3 下降造成酸血症，需依 anion gap、代償與臨床情境找病因�
 
 ## Related Pages
 
-- 待補。
+- [[conditions/methanol-poisoning|Methanol poisoning (甲醇中毒)]]
 
 ## Follow-up
 

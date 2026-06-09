@@ -14,6 +14,7 @@ sources:
   - "[[sources/med4-book4-ch08]]"
   - "[[sources/med5-book5-ch07]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch13]]"
 aliases:
   - 'Obstructive sleep apnea (阻塞性睡眠呼吸中止症)'
   - 'Obstructive sleep apnea'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-睡眠中上呼吸道反覆阻塞造成缺氧與日間嗜睡。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+睡眠中上呼吸道反覆阻塞造成缺氧與日間嗜睡。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,13 @@ tags:
 - [[sources/med4-book4-ch08]]
 - [[sources/med5-book5-ch07]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch13]]
 
 ## Key Details From Sources
 
+- IV. 睡眠呼吸中止症候(Obstructive Sleep Apnea Syndrome, OSAS) 205 Source: [[sources/med6-book4-ch13|丙、喉 科]].
+- #### IV. 睡眠呼吸中止症候 (Obstructive Sleep Apnea Syndrome, OSAS) Source: [[sources/med6-book4-ch13|丙、喉 科]].
+- 1. 睡眠呼吸中止(sleep apnea)的定義為在睡眠時超過10秒的氣流停止現象(cessation of air flow)。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
 - 注意力不集中、記憶減退、疲勞、嗜睡或做惡夢。也可能併發睡眠呼吸中止症(sleep apnea)。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - ...順應性(low compliance) | | | | 【詳解】一律給分。 | | | | | | | (D) | 8. 下列何者不是造成老年人夜尿症(nocturia)的原因? | 105(二)專 | | | (A) 睡眠呼吸中止症候群(sleep apnea syndrome) | 醫五 -67 | | | (B) 逼尿肌活性過強 | | | | (C) 前列腺肥大症併膀胱出口阻塞 | | | | (D) 應力性尿失禁(stress urinary incontinence) | | | (D) | 9. 有關神經性膀胱症的評估,下列敘述何者錯誤? | 103(一)專 | | | (A) 詳細病史詢問與身體診查仍為最重要的評估項目 | 醫五 -74 | | | (B) 尿路動力學檢查主要用 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
 - (B) 11. 下列關於睡眠呼吸中止症候群 (sleep apnea syndrome ) 的敘述 , 101(二) 專 何者錯誤 ? - (A) 阻塞型睡眠呼吸中止症候群(obstructive sleep apnea),常有夜間打鼾、白天頭痛的病史 - (B) 阻塞型睡眠呼吸中止症候群的診斷是依據睡眠多項生理 (polysomnography)檢查中發現,鼻息氣流與肺、腹部的呼 吸動作同時中止 - (C) 阻塞型睡眠呼吸中止症候群較容易發生在肥胖及下顎短的人 身上 - (D) 睡眠呼吸中止症候群會增加心血管疾病 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].

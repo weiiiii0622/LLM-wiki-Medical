@@ -38,12 +38,15 @@ Organs, structures, and regions.
 - [[anatomy/kidney|Kidney (腎臟)]] - 腎臟維持體液、電解質、酸鹼、血壓、紅血球生成與代謝廢物排除。
 - [[anatomy/lens-eye|Lens (水晶體)]] - 水晶體提供可調節屈光力；混濁造成 cataract，懸韌帶異常可造成 ectopia lentis。
 - [[anatomy/liver|Liver (肝臟)]] - 肝臟負責代謝、解毒、合成蛋白與膽汁生成。
+- [[anatomy/nasal-cavity|Nasal cavity (鼻腔)]] - 鼻腔由 nasal septum、turbinates、meatus 與鼻竇開口組成，參與加溫、加濕、過濾與嗅覺。
 - [[anatomy/neuromuscular-junction|Neuromuscular junction, NMJ (神經肌肉接合處)]] - motor neuron 與 skeletal muscle 之間以 acetylcholine 傳遞訊號，是 MG、Lambert-Eaton、botulism 的病變位置。
 - [[anatomy/optic-nerve|Optic nerve (視神經)]] - 視神經傳遞視網膜 ganglion cell axons；病變可表現為視力下降、視野缺損、RAPD 或 optic disc swelling。
 - [[anatomy/orbit|Orbit (眼眶)]] - 眼眶容納眼球、眼外肌、神經血管與脂肪，疾病可造成 proptosis、眼球運動受限、疼痛或視神經壓迫。
 - [[anatomy/pancreas|Pancreas (胰臟)]] - 胰臟兼具外分泌消化酵素與內分泌血糖調控功能。
+- [[anatomy/paranasal-sinuses|Paranasal sinuses (副鼻竇)]] - 副鼻竇包含 maxillary、frontal、ethmoid、sphenoid sinuses，其開口與感染併發症具臨床重要性。
 - [[anatomy/parathyroid-glands|Parathyroid glands (副甲狀腺)]] - 副甲狀腺分泌 PTH，調控鈣磷平衡。
 - [[anatomy/peripheral-nerves|Peripheral nerves (周邊神經)]] - 周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。
+- [[anatomy/pharynx-larynx|Pharynx and larynx (咽喉)]] - 咽喉包含吞嚥、發聲與氣道保護結構，是 epiglottitis、vocal fold paralysis 與頭頸癌的重要解剖區。
 - [[anatomy/pituitary-gland|Pituitary gland (腦垂體)]] - 腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。
 - [[anatomy/pleura|Pleura (肋膜)]] - 肋膜腔疾病包含積液、氣胸與膿胸。
 - [[anatomy/prostate-zones|Prostate zones (攝護腺分區)]] - 攝護腺周邊區常發生 prostate cancer，transition zone 常發生 BPH，分區影響 DRE、TRUS 與切片策略。

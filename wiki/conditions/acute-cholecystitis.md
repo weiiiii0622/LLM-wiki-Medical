@@ -15,6 +15,7 @@ sources:
   - "[[sources/med5-book3-ch13]]"
   - "[[sources/med5-book3-ch11]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Acute cholecystitis (急性膽囊炎)'
   - 'Acute cholecystitis'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-膽囊管阻塞後發炎，典型有右上腹痛與 Murphy sign。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+膽囊管阻塞後發炎，典型有右上腹痛與 Murphy sign。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med5-book3-ch13]]
 - [[sources/med5-book3-ch11]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- | 一位成年男性,因急性膽囊炎施行腹腔鏡膽囊摘除術(laparoscopic cholecystectomy),術中會造成病患動脈血中二氧化碳分壓(PaCO 2 )上升的原因,下列何者錯誤? (A) 體溫逐漸下降 (B) 腹腔內二氧化碳的吸收 (C) 麻醉深度不足下,代謝率上升 (D) 肺泡換氣 / 肺部灌流不相稱(VA /Q mismatch) | 99( 一 ) 專醫六 -7 | |---------------------------------------- Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - MALFORMATIONS. In: Holcomb GW, Murphy JP, Ostlie DJ, eds. Ashcraft's Pediatric Surgery (Fifth Edition). Philadelphia: W.B. Saunders; 2010: 468-490. Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - Reference: Levitt MA, Peña A. chapter 36 - IMPERFORATE ANUS AND CLOACAL ALFORMATIONS. In: Holcomb GW, Murphy JP, Ostlie DJ, eds. Ashcraft's Pediatric Surgery (Fifth Edition). Philadelphia: W.B. Saunders; 2010:468-490. Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - 1. 根據統計,將近 90% 的急性膽囊炎患者伴隨結石的存在,急性非結石性膽囊炎只 佔所有患者的 2~15%。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
@@ -64,7 +67,6 @@ tags:
 - 2. 症狀:右上腹痛,通常大於 4 小時;有 Murphy's sign,即吸氣到一半會因發炎的膽囊刺激到橫膈膜而停止呼吸。 Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
 - ...觀察,不必治療 (B) 口服 Ursodeoxycholic acid (C) shock wave lithotripsy (D) laparoscopic cholecystectomy 【詳解】有症狀的膽結石可考慮開刀治療,不然兩年內急性膽囊炎機率可達 30%。 | 97(一)專醫三-15 | Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
 - a. 急性膽囊炎: Murphy's sign 即吸氣到一半會因發炎的膽囊刺激到橫膈膜而停止呼吸。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
-- | 比較 | 症 狀 | | 理學檢查 | | |-------|----------|--------------|----------|--------------------| | Stone | Pain | Intermittent | Fever | Murphy's sign | | Tumor | Painless | Progressive | Afebrile | Courvoisier's sign | Source: [[sources/med3-book2-ch19|乙、黃 疸]].
 
 ## Clinical Caveats
 

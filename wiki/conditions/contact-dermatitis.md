@@ -2,10 +2,11 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book2-ch05]]"
   - "[[sources/med4-book2-ch02]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Contact dermatitis (接觸性皮膚炎)'
   - 'Contact dermatitis'
@@ -20,15 +21,17 @@ tags:
 
 ## Summary
 
-外界物質造成刺激性或 allergic delayed-type 皮膚炎，分布常反映接觸型態。 本頁已整合至 `醫(四)第2冊皮膚`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外界物質造成刺激性或 allergic delayed-type 皮膚炎，分布常反映接觸型態。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book2-ch05]]
 - [[sources/med4-book2-ch02]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 1. 致病因子: - (1) 與水有較頻繁的接觸,如游泳或洗頭。 - (2) 過度的清潔耳道導致發炎。 - (3) 耳朵外傷。 - (4) 使用耳塞或耳機等外來物的刺激。 - (5) 過敏性或接觸性皮膚炎。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - B. 接觸性皮膚炎 (Contact dermatitis) 88 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - # B. 接觸性皮膚炎 (Contact dermatitis) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
 - 1. 接觸性皮膚炎為皮膚直接受到某物質的刺激或體質上的過敏現象,所造成的皮膚炎性反應。臨床上依發炎型態區分為「刺激性接觸性皮膚炎 (Irritant contact dermatitis, ICD)」及「過敏性接觸性皮膚炎 (Allergic contact dermatitis, ACD)」。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].

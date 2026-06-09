@@ -28,6 +28,7 @@ sources:
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Pseudohyponatremia (假性低血鈉)'
   - 'Pseudohyponatremia'
@@ -42,7 +43,7 @@ tags:
 
 ## Summary
 
-血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+血鈉數值下降但需由血糖、血脂、蛋白與血漿滲透壓判斷是否為真正低滲低鈉。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -70,9 +71,11 @@ tags:
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 4. 椎骨基底動脈循環不全症(Vertebrobasilar artery insufficiency, VBI) - (1) 定義: - a. 因腦部後循環灌流不足所造成的暫時性缺血症狀。 - b. 由於後循環供應延腦、小腦、橋腦、中腦、丘腦、枕葉皮質,因此當 VBI 產 牛時,會因應其灌流不足的區域伴隨不同的症狀產生。 - (2) 流行病學: - a. 好發於 50 歲以上的男性。 - b. 患有糖尿病、高血壓、高血脂。 - c. 抽菸。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 2. 危險因子: 糖尿病的持續期間 (duration),最重要!、不佳的血糖控制 (HbA1c > 7%)、懷孕、高血壓、腎病變、抽菸、肥胖、高血脂等。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 2. 危險因子: - (1) 年紀大: > 50% 病例出現在 65 歲以上。 - (2) 全身性疾病:高血壓、高血脂、糖尿病、抽菸、肥胖等。 - (3) 遠視、小視神經盤。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - c. **75 g 葡萄糖水**: 2011 年 IADPSG 根據 HAPO(Hyperglycemia and Adverse Pregnancy Outcome)study,最新的診斷標準如下:只要任一個數值大於等於標準即可診斷 GDM。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
@@ -90,7 +93,6 @@ tags:
 - ...心肌缺血心臟病並有抽菸,在手術前後期可使用乙型阻斷劑(β-blocker) | | | (B) 老年人發生無症狀菌尿症(bacteriuria)的機率比較高,手術前應檢查尿液 | | | (C) 雖然老年人有糖尿病的比率較高,但是高血糖 (hyperglycemia) 並不會增加手術的發病率和死亡率 (morbidity and mortality) | | | (D) 老年人在手術前應評估其肺部功能 | | | (A) 14. 當小客車司機因追撞大貨車,於急救時出現大量血氣胸,必須緊急給予胸管引流治療。有關胸管置放之位置,下列敘述何者 | 106(一)專醫五-6 | | 正確? | | | (A) 第四或五肋間,腋中線(4th or 5th intercostal space, mid-axil Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
 - ...---------------------------------|----------------------| | 大血管 * 粥狀硬化Athero- thromboticor a. to a. emboli | 中大型動脈 | DM、高血脂等因素形成粥狀硬化瘤(Atheroma) 若破裂引起血小板聚集,則造成阻塞;或在 ICA 較軟的 thrombi脫落,在遠方動脈梗塞 | 大腦皮質、腦幹、小腦症狀 | | 心源性血栓 | MCA 的上支 | CA的上支 心臟來的血栓塞住,病灶多在灰質 | | | Cardio-embolic | (併發癲癇↑) | 蘭↑) 較易轉化為出血性梗塞 | | | 小血管栓塞Lacunar infarction | 小動脈穿透支 | 因「高血壓 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 - 1. 大血管粥狀硬化 (athero-thrombotic or artery to artery emboli): - (1) 位置:中大型動脈(ACA, MCA, PCA, BA, ICA×2, VA×2)。 - (2) 成因:因 DM、高血脂等形成粥狀硬化瘤(Atheroma)。 - (3) 診斷:頸部超音波、穿顱超音波、MRA。 - (4) 治療:若 ICA > 60% 有症狀的狹窄,或> 70% 無症狀的狹窄,建議放 Stent。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...A)右側後下小腦動脈(B)左側後下小腦動脈(C)右側前下小腦動脈(D)左側前下小腦動脈 | 106(二)專醫四-48 | | (C) 1 | 下列何種中風危險因子的控制,最能有效的減少腦中風的再發生率? (A)高血壓以降血壓藥物治療 (B)高血脂以 statin 治療 (C)心房顫動以抗凝血劑(如 warfarin)治療 (D)頸動脈狹窄以支架置放治療 | 106(一)專醫四-46 | Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
 
 ## Clinical Caveats
 

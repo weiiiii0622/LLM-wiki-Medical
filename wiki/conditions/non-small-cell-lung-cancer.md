@@ -37,6 +37,8 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch09]]"
   - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Non-small-cell lung cancer (非小細胞肺癌)'
   - 'Non-small-cell lung cancer'
@@ -51,7 +53,7 @@ tags:
 
 ## Summary
 
-肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺癌主要類型，治療依分期與 driver mutation。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -88,9 +90,16 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch09]]
 - [[sources/med6-book2-ch03]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 2. 在所有的口腔癌之中,約 90% 為鱗狀細胞癌(squamous cell carcinoma),其餘是腺癌(adenocarcinoma)。好發的部位以頰黏膜、舌頭側邊與牙齦最多。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 2. 依據 WHO 1978 年的分類法, , 將鼻咽癌分成以下不同類型: - (1) 角化鱗狀細胞癌 Keratinizing squamous cell carcinoma (WHO Type I): 預後最差。 - (2) 未角化癌 Nonkeratinizing carcinoma: - a. 又分成兩個亞群分別是 differentiated (Type II) 和 undifferentiated (Type III)。 - b. Type III 未分化癌(undifferentiated carcinoma)與 EBV 的感染最有關係,也是預後最好的類型。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 2. 下咽癌中大部份是鱗狀上皮細胞癌(squamous cell carcinoma)。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 3. Adenocarcinoma: 20% Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 6. Squamous cell carcinoma: 少見,需考慮由其他部位轉移而來。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - ...lymphoid hyperplasia)、嗜酸細胞瘤(oncocytoma)等,這些腫瘤一般發生於四十到五十歲的患者,大都生長緩慢。 - (2) 惡性淚腺腫瘤:包括腺樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50%),一般多發生於二十、三十歲之間,少部份在十幾歲時。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - (A) Mucinous adenocarcinoma Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
 - (B) Serous adenocarcinoma Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
@@ -104,9 +113,6 @@ tags:
 - (2) 腺癌 (adenocarcinoma, ACA): - a. 佔 45% 肺腫瘤,約 75% 在周邊發生,由支氣管上皮的 mucus-producing cell 分化而來,而且較 SqCC 易轉移,且最常轉移到中樞神經系統,而原發性腺癌,如果無肺外轉移,則建議手術切除合併縱隔腔淋巴結摘除。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - (3) 鱗狀細胞癌 (squamous cell carcinoma, SqCC): - a. 佔 30% 肺腫瘤,約 2/3 在中央發生,且易從外壓迫氣管,SqCC 易產生腫瘤中央壞死(central necrosis)和開洞(cavitation),組織學上呈現角質化(keratinization)、複層化(stratification)、細胞間橋(intercellular bridge Source: [[sources/med5-book4-ch03|丙、肺]].
 - (A) 肺鱗狀細胞癌 (squamous cell carcinoma) 在臺灣最常見 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (B) 長時間最易引起 esophageal adenocarcinoma Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 1. 惡性腫瘤中,以鱗狀上皮細胞癌(squamous cell carcinoma)最常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(achalasia)、 暴食(b Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ### Adenocarcinoma G category Source: [[sources/med5-book4-ch05|戊、食 道]].
 
 ## Clinical Caveats
 

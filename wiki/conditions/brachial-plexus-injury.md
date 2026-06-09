@@ -9,6 +9,8 @@ sources:
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch08]]"
+  - "[[sources/med6-book4-ch15]]"
 aliases:
   - 'Brachial plexus injury (臂神經叢損傷)'
   - 'Brachial plexus injury'
@@ -23,7 +25,7 @@ tags:
 
 ## Summary
 
-臂神經叢牽拉或撕裂可造成上肢運動與感覺缺損，定位需依 root/trunk/cord/terminal branch。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+臂神經叢牽拉或撕裂可造成上肢運動與感覺缺損，定位需依 root/trunk/cord/terminal branch。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -32,9 +34,14 @@ tags:
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch08]]
+- [[sources/med6-book4-ch15]]
 
 ## Key Details From Sources
 
+- 5. 系統性的吸收:局部注射麻醉藥物最終會被全身性系統性的吸收,其速率影響的主要因素為血流量,會依據注射位置的血流量影響吸收的快慢順序。 - (1) 注射於不同部位其吸收快慢的比較: intravenous > tracheal > intercostal > caudal > paracervical > epidural > brachial plexus > sciatic > subcutaneous。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
+- (1) 阻斷神經或神經叢,使其分布部位麻醉,如進行上肢人工血管通路手術時,可 使用臂神經叢阳斷進行麻醉。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
+- AJCC 第八版癌症分期手冊在頭頸癌的分期做了許多的調整,在口腔癌分期上,則納入手術病理上之腫瘤侵犯深度及淋巴結外侵犯決定預後分期。口腔癌原發部位(T)分期則納入侵犯深度,值得注意的是這裡指的是「腫瘤侵犯深度」而非腫瘤厚度。頸部淋巴分期則將淋巴結外侵犯納入分期,當有淋巴結外侵犯時定為 N3b;而淋巴結外侵犯的判定包括病理組織上發現淋巴結內轉移性癌細胞穿過包膜侵犯到鄰近組織,臨床上影像學懷疑淋巴結外侵犯需輔以理學檢查,例如侵犯到皮膚、肌肉或造成顱神經、臂神經叢、交感神經幹或膈神經失能等明顯表徵,才可算是淋巴結外侵犯。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
 - C. 臂神經叢傷害 (Brachial plexus injury) 161 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - #### C. 臂神經叢傷害 (Brachial plexus injury) Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - 1. 成人臂神經叢損傷常發生於車禍、運動損傷、槍傷或手術,孩童的話多半發生在嬰 兒分娩時肩部受到碰撞或拉扯(肩難產)造成臂神經叢的損傷。 Source: [[sources/med6-book3-ch06|己、小兒復健]].

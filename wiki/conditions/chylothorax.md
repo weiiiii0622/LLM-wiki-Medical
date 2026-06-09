@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 sources:
   - "[[sources/med5-book4-ch02]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Chylothorax (乳糜胸)'
   - 'Chylothorax'
@@ -19,14 +20,16 @@ tags:
 
 ## Summary
 
-胸管或淋巴系統受損使乳糜進入肋膜腔，肋膜液 triglyceride 升高，治療包含引流、營養調整與胸管處置。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+胸管或淋巴系統受損使乳糜進入肋膜腔，肋膜液 triglyceride 升高，治療包含引流、營養調整與胸管處置。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med5-book4-ch02]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- (D) 中央靜脈導管置放術可能產生氣胸(pneumothorax)、乳糜胸(chylothorax)等併發症 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - C. 乳糜胸 (Chylothorax) 16 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ...-----| | ● Congestive heart | Malignant | Collagen-Vascular | Others | | failure | ● Bronchogenic | Disease Related | ◆ Chylothorax | | ● Cirrhosis | carcinoma | ● Rheumatoid | ● Uremia | | Nephrotic syndrome | Metastatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granul Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ### C. 乳糜胸 (Chylothorax) Source: [[sources/med5-book4-ch02|乙、肋膜]].

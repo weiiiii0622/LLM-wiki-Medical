@@ -27,6 +27,7 @@ sources:
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book3-ch08]]"
   - "[[sources/med6-book3-ch07]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Hemostasis (止血生理)'
   - 'Hemostasis'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-止血包含血小板黏附/活化/聚集與凝血因子形成 fibrin clot。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+止血包含血小板黏附/活化/聚集與凝血因子形成 fibrin clot。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,12 @@ tags:
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book3-ch08]]
 - [[sources/med6-book3-ch07]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 2. 首要步驟必須先評估病患的 Airway、Breath、Circulation 以及生命徵象的穩定。若生命徵象穩定則讓病患維持低頭的姿勢,以及局部壓迫止血,利用手指捏住鼻軟骨的部分 20 分鐘左右,正常而言可以順利止血。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 4. 定位出血點並予以止血: - (1) First line: - a. 區分前/後出血位置。 - b. 塞入浸有 4% lidocaine 的棉花,適時使用局部的鼻黏膜血管收縮劑(Ex. Otrivin)止血,並把多餘的血水或血塊清除。 - (2) Second line: - a. 若第一線的方式失敗,可以使用 silver nitrate,達到燒灼、腐蝕的效果 (chemical cauterization)。 - b. 局部的 cauterizatio Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...避免二次傷害; Rest 休息; Ice 冰敷, 48 小時內每 2~3 小時冰敷一次; Compression 壓迫,以彈性繃帶壓迫,每次約 20 分鐘; Elevation 抬高腳踝,比心臟高約 15~25 公分,減少患部的血液流量,以止血消腫。等急性期過後(約 2 週),再依嚴重度做後續處置。 - ii. 輕度韌帶扭傷僅需遵行 PRICE 原則,當扭傷處消腫瘀血全消,各方向踝關節活動自如,觸壓或拉緊受傷處皆不會產生疼痛,即可恢復原本運動量。 - iii. 中度韌帶扭傷除了急性期給予 PRICE,須以護具固定踝關節的活動,或是黏性膠布貼紮治療固定受傷的踝關節(以八字貼法和鎖跟貼法固定),行走時須使用腋下拐杖,勿讓受傷腳用力著地為原則,約需6至12週才可完全癒合。 - iv Source: [[sources/med6-book3-ch08|辛、運動醫學]].
 - (1) 急性期受傷的組織會出血和水腫,時間約從數分鐘至 72 小時,此時期止血、消腫、止痛為首要任務,以提供較佳的環境讓組織可以迅速增生、修補。運動傷害發生時,急性期處理的原則為 PRICE: - a. Protection (保護):確保周圍環境的安全性,並對損傷情況做初步判斷與處置, 視情況使用護具、貼布、彈性繃帶或石膏來固定患部,使患部不再承受外力。 Source: [[sources/med6-book3-ch08|辛、運動醫學]].
 - e. Elevation(抬高):抬高患部,使血液回流到心臟,減少患部的血液,達到止血消腫的功效。 Source: [[sources/med6-book3-ch08|辛、運動醫學]].
@@ -87,8 +91,6 @@ tags:
 - (1) 胸管(36 French)置放:大約85%患者在肺擴張後,出血處會自然止血,因為 出血點常來自體循環血管,血壓較低。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 4. 治療:通常 70% 的病人會自動止血,若仍在活動性出血的病人必須以內視鏡去作止血。手術介入時機在於病人在 24 小時內輸血超過 6U 後仍呈現 hemodynamic instability 時,就可以考慮以手術方式介入。手術介入可以分成十二指腸潰瘍出血與胃潰瘍出血兩部分作處理。 - (1) 十二指腸潰瘍出血(Bleeding duodenal ulcers): - a. 主要的手術治療為十二指腸切開術(duodenostomy)加上 three-point ligati Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
 - 【詳解】現今 Endoscopy 的進步,大部分的腸胃道出血都能以 內視鏡來止血。約 10% 的病人仍須靠外科的方式來治療。外科 醫師的觀點以是否需要持續輸血作為手術的 indication。除此之 外,Sabiston 提出的 surgery indication 如下: Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- 3. Recurrent bleeding。recurrent 後嘗試兩次胃鏡,若還是無法 止血,則建議外科治療。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (A) 以動脈出血為主要原因,而肝門靜脈出血則少見且容易自動 止血 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
 
 ## Clinical Caveats
 

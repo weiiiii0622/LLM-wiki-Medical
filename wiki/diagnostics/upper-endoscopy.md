@@ -21,6 +21,9 @@ sources:
   - "[[sources/med5-book3-ch18]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Upper endoscopy, EGD (上消化道內視鏡)'
   - 'Upper endoscopy, EGD'
@@ -35,7 +38,7 @@ tags:
 
 ## Summary
 
-評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估食道、胃、十二指腸病灶與上消化道出血的重要檢查。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -56,9 +59,15 @@ tags:
 - [[sources/med5-book3-ch18]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 2. 影像學檢查:電腦斷層評估腫瘤大小、局部侵犯程度,及有無頸部淋巴轉移。安排胸部 X 光、腹部超音波與骨骼掃描,檢查是否有遠端轉移。安排上消化道內視鏡(胃鏡)檢查是否有食道侵犯或食道癌。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 3. 經食道心臟超音波(Transesophageal echocardiography, TEE) - (1) 簡介:操作者將類似胃鏡般的超音波探頭,由病患的口腔進入食道中,檢查心臟與血管的構造與功能。因食道在心臟的左後方,故檢查範圍,例如「左心房和僧帽瓣解像程度」比胸前的心臟超音波好。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 4. 醫源性(胸腔鏡或胃鏡施行過後)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - (C) 內視鏡 (endoscopy) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (C) 1. 對於食道憩室 (esophageal diverticula) 最好的診斷工具為下列 104(-)専 何者? 醫五-31 - (A)胸部電腦斷層掃描 - (B) 胸部核磁共振造影 (MRI) - (C) 食道鋇劑攝影 (barium esophagram) - (D) 胃鏡檢查 Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (C) 1. 下列何種檢查為診斷食道弛緩不能 (achalasia) 的 golden standard ? 108(ニ)専 (A) double-contrast esophagography 醫五-20 - (B) 上消化道內視鏡檢查(upper gastrointestinal endoscopy) - (C) 食道壓測試 (manometry) - (D) ambulatory 24-hour pH monitoring Source: [[sources/med5-book4-ch05|戊、食 道]].
@@ -74,9 +83,6 @@ tags:
 - ...音降低。X 光檢查可見十二指腸內氣體增多及左側肋膜腔少量 | | | 積液。下一步安排何種檢查最適當? | | | (A) 上消化道攝影(upper GI barium study) | | | (B) 消化道內視鏡檢(upper GI endoscopy) | | | (C) HIDA 核醫檢查 (HIDA radionuclide scan) | | | (D) 血清澱粉酶及脂解酶檢查(serum amylase & lipase) | | Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
 - ...risk: 7% (stricture site) | | | | 腸外症狀 | 關節炎、虹膜炎、壞疽性膿皮、硬化性膽管炎 | 關節炎、虹膜炎、肛裂、肛門瘻管、肛圍膿瘍、膽結石、腎結石 | | | | 診斷 contrast X-ray、endoscopy、biopsy | | endoscopy \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Less effective | | | | Steroids | 用於 Severe exacerbations Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
 - ...sophagogramBronchoscopy † | Surgery | | Esophageal stenosis | Infants to adults | DysphagiaFood impaction | EsophagogramEndoscopy † | DilationSurgery | Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...AngiographyMRI/CT/EUS | DietarymodificationSurgery § | | Esophageal ring | Children to adults | Dysphagia | EsophagogramEndoscopy † | DilationEndoscopicincision | | Esophageal web | Children to adults | Dysphagia | EsophagogramEndoscopy † | Bougienage | Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (C) 5. 一位 57 歲男性在 40 歲時曾經做過一次健康檢查,當時血液相是正 常的。15年前因胃潰瘍穿孔接受了三分之二的胃切除手術,其他無 特殊病史。最近因為容易疲倦,接受血液檢查,發現血紅素為8.7 gm/dL, MCV 71 fL, 白血球 3,650/μL, 分類正常, 血小板 395,000/μL。 大便潛血反應為陰性,胃鏡檢查無潰瘍或腫瘤。此病人最可能的診斷 為何? Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...三-10 | | (A) | 14. 一位 50 歲男士有缺鐵性貧血病史,因左鎖骨上腫塊求診,經病理切片診斷為轉移性腺癌與戒環細胞分化(signet ring cell differentiation)。在這個階段最適當的檢查為: (A) 上消化道內視鏡 (B) 胸部 CT 掃描 (C) 骨掃描 (D) PET 掃描 【詳解】男性 IDA 多為腸胃道慢性出血,腸胃道癌症一定要列入考慮,左鎖骨上 LAP 是 Virchow's node,是個胃癌特殊轉移位置,所以懷疑胃癌做胃鏡。 | 104(一)專醫三-46 | Source: [[sources/med3-book4-ch10|甲、貧血]].
 
 ## Clinical Caveats
 

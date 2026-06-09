@@ -39,6 +39,7 @@ sources:
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book2-ch17]]"
   - "[[sources/med6-book2-ch19]]"
+  - "[[sources/med6-book4-ch08]]"
 aliases:
   - 'Primary skin lesions (基本皮膚病灶)'
   - 'Primary skin lesions'
@@ -53,7 +54,7 @@ tags:
 
 ## Summary
 
-以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以斑、片、丘疹、斑塊、結節、膨疹、水泡等形態描述皮膚病灶。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +93,11 @@ tags:
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book2-ch17]]
 - [[sources/med6-book2-ch19]]
+- [[sources/med6-book4-ch08]]
 
 ## Key Details From Sources
 
+- ...、懷孕者。與穿刺針的大小、針面形狀和多次的穿刺相關。 - b. 治療:大部分會自然緩解,建議病患平躺、大量輸液、使用口服止痛藥物、或是咖啡因也有幫助。若頭痛仍然持續沒有緩解,最好的方法就是硬脊膜外自體血液凝塊(epidural blood patch),也就是注射約 10~20 mL 病患本身的血液到當時 puncture 的脊髓膜外腔,當血液凝集時可把硬膜的破洞補起來。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
 - (3) 帶狀疱疹眼炎 (Herpes zoster ophthalmicus, HZO): - a. 簡介: 感染帶狀疱疹病毒後的再復發症狀。初次感染帶狀疱疹病毒時引起的病症是水痘(chicken pox),接著病毒會經由皮膚病灶或是血液,侵犯感覺神經並潛伏寄生在神經節中,數年後可引發不同部位的帶狀疱疹病灶。 - b. 臨床表現:先會有發燒、倦怠、及同側頭痛的現象,當水疱蓄膿結痂之後才 出現侵犯眼睛的症狀。包括眼睛紅、痛、流淚、及視力降低等。帶狀疱疹病 毒眼症對眼睛的傷害可以有許多層面,可造成:角膜炎、結膜炎、鞏膜炎、 虹彩炎等;眼睛神經的受傷造成:神經失養性角膜炎、眼肌麻痺、疱疹後神 經痛等。 - c. 治療: 口服 acyclovir 800 mg —天五次 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - ...皮細胞形成的白色小點(Horner-Trantas dots)。 - b. 角膜病變:上部點狀上皮糜爛 (superior punctate epithelial erosions)、盾狀 潰瘍 (shield ulcers)、角膜斑點 (plaque)、偽角膜弓 (pseudogerontoxon)。 - (4) 治療:調整室內空調避免接觸過敏原,局部類固醇治療或可加上肥大細胞穩定劑(如 cromolyn sodium)、抗組織胺、cyclosporin等。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - (1) 簡介:顯性遺傳疾病,其病灶可以侵犯皮膚、神經、骨骼、及腸胃道等,並且數目及大小會隨著年齡增加。可分為兩型:第一型較常見,又稱 von Recklinghausen disease,具有較明顯的皮膚病灶,也比較容易發生視神經膠質瘤,但預後較佳;第二型比較不會產生皮膚的病灶,但會發生聽神經瘤、腦膜瘤及其他中樞神經瘤,一般預後較差。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].

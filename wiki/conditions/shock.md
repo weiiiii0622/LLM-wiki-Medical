@@ -46,6 +46,14 @@ sources:
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch04]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch08]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Shock (休克)'
   - 'Shock'
@@ -60,7 +68,7 @@ tags:
 
 ## Summary
 
-循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+循環灌流不足造成組織缺氧與器官功能障礙，需依 hypovolemic、cardiogenic、distributive、obstructive 等機轉處置。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -106,9 +114,27 @@ tags:
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch04]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch08]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 3. 藥物缺點: - (1) 低血壓。 - (2) 呼吸抑制。 - (3) 注射時常會引起疼痛。 - (4) 沒有止痛作用。 - (5) 蛋類過敏者不能使用。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- b. 影響藥物吸收因子:central compartment 縮小(如:低血液容積性休克)、或血清中白蛋白減少(如:嚴重肝病)、或藥物非離子化比率增加(如:酸中毒),此時給予相同的劑量,則腦與心臟的藥物濃度會提高。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- ...blood pressure)、心跳速率 (heart rate) 和心輸出量 (cardiac output),造成心肌耗氧量的提高。 - (4) 會擴張支氣管,可以用於氣喘的病患。但可能增加口水的分泌。 - (5) 可用於外傷血壓低或休克的病患。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- (1) 高血壓:目前建議除了利尿劑外,其他高血壓藥物術前可以正常服用,可提 醒病患以少量水吞服。對於手術的病患,利尿劑可能會造成電解質紊亂。 ACEI/ARB 類的藥物術前仍可服用,但可能會造成術中低血壓(profound hypotension)影響術中評估低血壓的準確性。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...、有中風或心肌梗塞病史(發作時間超過三個月以上)、冠狀動脈疾病、裝心臟節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併心衰竭的孕婦 | 7.8~23% | Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 【詳解】本題答(C)或(D)或(C)(D)者均給分。TURP症候群是在發生在經尿道切除前列腺手術中,因大量灌洗液被全身吸收所導致的一群症狀及徵象,包括手術中或術後的頭痛、混亂、發紺、呼吸困難、心律不整、低血壓或抽搐。其表現主要是循環液體過多、水中毒,偶爾是灌洗液中溶質之毒性。(節錄自Morgan 臨床麻醉學 second edition) Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (D) 32. 50 歲男性病人,三天前因嚴重頭痛到院,經電腦斷層與血管攝影檢查後診斷出大腦動脈瘤(cerebral arterial aneurysm),現進行手術。對麻醉的誘導和維持,下列敘述何者錯誤? - (A) 需動脈導管 (arterial catheter) 監測血壓 - (B) 麻醉誘導須避免突然血壓上升 (acute hypertension) - (C) 手術中選擇性低血壓 (induced hypotension) 常使用高濃度 isoflurane 合併 nitroprusside - (D) 手術中過度換氣,造成動脈二氧化碳氣體壓力 ( $PaCO_2$ ) 的下降,可增加腦部血流量 (cerebral blood flow) Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- ...敘述何者 | 99(一)專 | | | 錯誤? | 醫六-4 | | | (A) 臥姿比坐姿更易導致靜脈氣栓 (venous air embolism) | | | | (B) 要注意是否傷及生命中樞 | | | | (C) 可能引起姿勢性低血壓 | | | | (D) 易發生氣腦(pneumocephalus) | | | | 【詳解】頭位越高越容易造成 pneumocephalus,因空氣密度低 | | | | 往上移動。 | | Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 4. Stage IV:延髓麻痺期 (Medullary paralysis) - (1) 麻醉藥物過量,可能導致呼吸抑制及低血壓,嚴重危及生命。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
+- (1) 易造成心肌抑制與血管擴張,間接造成低血壓。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
 - ...可能出現下肢肌力正常,稱為 "root escape"。 - \* Bulbocavernosus reflex:用手擠捏龜頭(男)、陰蒂(女)或拉扯導尿管時,肛門括約肌會收縮。為脊髓反射,由 S2~4 負責,該反射消失代表 spinal shock、脊髓圓錐或是馬尾損傷。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (1) 姿態性低血壓 (Orthostatic hypotension): - a. SCI 影響到交感神經的訊息傳遞,當病患姿勢由平躺轉為坐起或站立時,血壓明顯下降(SBP下降> 20 mmHg; DBP下降> 10 mmHg),即為姿態性低血壓。 - b. 姿態性低血壓好發在 T6 以上的損傷,因 T1~L2 負責加速心跳、血管收縮和增加動脈壓(心臟含血管的神經支配主要由 T1~7 負責)。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
 - (c) 不過由於脊髓損傷導致交感神經訊息傳遞無法由上往下傳,無法調適的 結果造成了姿態性低血壓。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
@@ -117,16 +143,6 @@ tags:
 - | 藥 物 | 給藥方式 | 副作用 | |-----------------------------|-----------|---------------| | Oxytocin | 靜脈給藥 | 低血壓(血管擴張) | | Carbetocin | 靜脈給藥 | 低血壓、潮紅、頭痛、顫抖、 | | | | 噁心、腹痛 | | Methylergonovine | 肌肉注射 | 禁忌症為高血壓、周邊血管和 | | (C) (A) (A) | | 缺血性心臟病 | | Misoprostol (PGE1) | 肛門塞劑、口服 | 可用於高血壓或氣喘之患者 | | | 或舌下給予 | 可能引起發燒 | | 15-methyl prostag Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - | Hypovolemic shock and organ failure | Fluid overload (pulmonary edema) | |-------------------------------------|--------------------------------------| | Anemia | Transfusion-related complications | | Sepsis, wound infection, pneumonia | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
 - | 簡介 | · 又稱為產後腦垂體功能低下 (post-partum hypopituitarism)。十分罕見, | |-----|-----------------------------------------------------| | | 但可能致命;可能在產後立即或幾年後發生 | | 成因 | • 因為低血容性休克,造成腦垂體缺血性梗塞,進而影響其荷爾蒙的分泌 | | 症 狀 | ・無法泌乳(↓ prolactin, ↓ oxytocin)、無月經或少月經(↓ LH, ↓ FSH) | | 治療 | • 長期補充缺乏的荷爾蒙 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (B) 因為懷孕後血量增加,孕婦可能已有相當多的失血量,卻沒 有明顯的休克徵象 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (C) 若孕婦呈現休克現象,可左側躺以減少下腔靜脈的壓迫,增 加回心血量 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (D) 因為胎盤充滿含氧血,即使孕婦已經失血休克,胎兒仍不易 立即缺氧 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- | 症 狀 | • 最常見的症狀為腹痛和陰道出血,不過,有一半的病人在破裂前未 | | |-----|-----------------------------------------------------------|--| | | 出現任何症狀 | | | | • 若破裂造成持續內出血,可能出現頭暈、失去意識等症狀 | | | 徴 象 | ・陰道內診可能會出現 pelvic tenderness、cervical motion tenderness 和 | | | | adnexal mass 等表現 | | | | · 若破裂造成持續內出血,可能出現 peritoneal sign 和 shock sign | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- 【詳解】病人症狀持續惡化且生命徵象已不穩定,很可能是子宮外孕破裂出血,造成 hypovolemic shock。此時除了靜脈輸液輸血外,應盡快透過腹部超音波確認是否有內出血,一旦確認,必須安排緊急手術處理。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (1) 生命徵象不穩定:若到院已休克,須先穩定病人生命徵象,育齡婦女皆須驗孕, 同時利用床邊超音波檢查是否有內出血,並且抽血檢驗血紅素及備血,若發現 有內出血情形,須緊急輸血並會診外科或婦產科手術處置。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- ...(2) 補充 Albumin,拉住血管內液體,避免給予的輸液 | | | | | | 滲出血管外,加重腹水產生。 | | | | | | (3) 利尿劑:在大量的輸液補充後,尿量仍沒有增加, | | | | | | 可考慮使用利尿劑;但在低血壓或明顯血液濃縮下 | | | | 187 | | 不可使用利尿劑。 | | | | | ・抽腹水 | 過去條件 嚴重腹水造成持續腹脹、腹痛、呼吸困難 | | | | | | 或寡尿才考慮抽腹水 | | | | | | 目前觀念 積極抽腹水,只要有中度以上腹水,病人 | | | | | | 臨床上有不適即可抽腹水 | | | | | ・預防血栓 | (1) 診斷方法:arterial blood gas、ventilation/perfu Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- | (A) 截肢病人若出現休克現象就要立即進行接合手術(replantation) 醫五-76 (B) 骨折固定可減少疼痛及避免進一步軟組織傷害 (C) 懷疑有動脈血管損傷必須考慮安排血管攝影檢查 (D) 近關節處的傷口不要嘗試從傷口注入生理食鹽水來檢查是否與關節腔相通 【詳解】(A) 休克可能是因為失血太多,第一必須先穩定生命徵象,再考慮麻醉作接合手術,因為麻醉本身也會造成相對低血壓,大量出血造成的休克可能要考慮先用血管栓塞止血;另一方面有可能是感染造成的休克,此 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (D) 2.25 歲年輕男子,因騎乘重型機車發生事故,造成嚴重骨盆骨折 (pelvic fracture)。抵達急診時呈現休克,經大量輸液與輸血灌 救後,收縮壓高於 90 mmHg,並隨即接受腹部電腦斷層攝影檢 查。但發現骨盆腔出現顯影劑外滲(contrast extravasation)。下 列何種治療方法治療出血性休克效果最佳? Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 1. 骨盆骨折的特性:有三高。 - (1) High energy trauma: 骨盆周圍的韌帶非常強韌而穩定,所以若骨盆受傷表示一定受到很高能量的傷害,在台灣常見於車禍意外或高處墜落。 - (2) High morbidity: 高能量的外力破壞造成胸部、腦部、腹部的伴隨傷害 (associated injury)、同時有 15% 病人會合併骨盆腔器官、神經血管的傷害,如果有血管的傷害常會合併大量的出血。 - (3) High mortality: 不穩定的骨盆骨折死亡率可高達 10%。若是不穩定的骨盆骨折 再加上開放性骨折或是腦部、胸部的傷害,造成休克,死亡率甚至可升高到 50%。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
 
 ## Clinical Caveats
 
@@ -136,10 +152,12 @@ tags:
 ## Related Pages
 
 - [[conditions/amniotic-fluid-embolism|Amniotic fluid embolism (羊水栓塞)]]
+- [[procedures/central-venous-catheterization|Central venous catheterization (中央靜脈導管置放)]]
 - [[procedures/fluid-resuscitation|Fluid resuscitation (輸液復甦)]]
 - [[conditions/hemorrhagic-shock|Hemorrhagic shock (出血性休克)]]
 - [[conditions/hypovolemic-shock|Hypovolemic shock (低血容量性休克)]]
 - [[conditions/neurogenic-shock|Neurogenic shock (神經性休克)]]
+- [[procedures/pulmonary-artery-catheterization|Pulmonary artery catheterization (肺動脈導管)]]
 - [[conditions/septic-shock|Septic shock (敗血性休克)]]
 
 ## Follow-up

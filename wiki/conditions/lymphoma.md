@@ -50,6 +50,7 @@ sources:
   - "[[sources/med5-book6-ch10]]"
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch07]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Lymphoma (淋巴瘤)'
   - 'Lymphoma'
@@ -64,7 +65,7 @@ tags:
 
 ## Summary
 
-淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淋巴系統惡性腫瘤，依 Hodgkin 與 non-Hodgkin 及分子/型態分類。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -114,9 +115,13 @@ tags:
 - [[sources/med5-book6-ch10]]
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch07]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 3. 囊狀腺淋巴瘤(Cystadenolymphoma, papillary cystadenoma lymphomatosum):俗稱Warthin's tumor,發生率 30%。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- #### H. 囊狀腺淋巴瘤 (Warthin's tumor) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 1. 又稱為囊狀腺淋巴瘤(Cystadenolymphoma, papillary cystadenoma lymphomatosum)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - ...樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50%),一般多發生於二十、三十歲之間,少部份在十幾歲時。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - 4. 淋巴癌:原發性眼內中樞神經淋巴癌屬於高度惡性的 Large B cell lymphoma (non-Hodgkin),預後差。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
 - ...rysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
@@ -132,8 +137,6 @@ tags:
 - E. 淋巴瘤 (Lymphoma) 68 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 1. 發生率:神經性腫瘤(23%)、胸腺瘤或囊腫(21%)、淋巴瘤(13%)、生殖細胞瘤(12%)。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
 - 2. 位置:前上縱隔(54%)、後縱隔(26%)、中縱隔(20%)。 - (1) 前上縱隔 (3T1L): 胸腺瘤、畸胎瘤 (teratoma, germ cell tumors)、甲狀腺腫 (thyroid goiter)、淋巴瘤,四者合佔約 95%。 - (2) 中縱隔: - a. 腫瘤:淋巴瘤。 - b. 囊腫: 先天性前腸囊腫(20%縱隔腫瘤,最常見)、氣管囊腫、心包膜囊腫。 - (3) 後縱隔:神經性腫瘤。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- ...astatic | arthritis | Sarcoidosis | | ● Hypoalbuminemic | carcinoma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Postirradiation | | ● Pulmonary | adenocarcinoma | ● Churg-Strauss | ● Trauma | Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- b. 定義:胸水抽吸(thoracocentesis)細胞學檢查發現惡性細胞。無法直接診斷淋巴瘤,或區別為惡性細胞和反應性間皮細胞。產生的原因以轉移性乳癌和肺癌最常見、淋巴瘤次之(約10~14%)、轉移性卵巢癌則很少見、支氣管或淋巴阻塞、低蛋白血症等亦可能。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 
 ## Clinical Caveats
 

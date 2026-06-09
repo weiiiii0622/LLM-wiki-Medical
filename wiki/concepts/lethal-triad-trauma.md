@@ -19,6 +19,8 @@ sources:
   - "[[sources/med5-book5-ch05]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Lethal triad of trauma (創傷致命三角)'
   - 'Lethal triad of trauma'
@@ -33,7 +35,7 @@ tags:
 
 ## Summary
 
-外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外傷出血後 hypothermia、acidosis、coagulopathy 互相惡化，是 damage control 的核心概念。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +54,13 @@ tags:
 - [[sources/med5-book5-ch05]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- ...-----------------------------------------------------------------|--------------| | | (A) Hyperkalemia | 醫六-8 | | | (B) Hypothermia | | | | (C) 使用 Opioids | | | | (D) 使用 Neuromuscular blocking agents | | | (C) 35. | 一位 55 歲男性,在急診接受顯影劑注射的電腦斷層後,突然出現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 mmHg,應優先選擇下列何者處置? (A)靜脈注射抗組織胺(Antihistamine) (B)靜脈注射類固醇(Steroid) (C)靜脈注射腎上 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 2. 系統性 (Systemic) 原因: - (1) 凝血異常(Coagulopathy):使用 anticoagulant、NSAID,或是血友病、肝臟衰竭、尿毒症。 - (2) 其他:高血壓、粥狀動脈硬化、SLE、Wegner's granuloma。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - ...cal profile) | 102(二)專 | | 之敘述,下列何者錯誤? | 醫六-28 | | (A) 胎兒生物物理指標最高分為 12 分 | | | (B) 胎兒生物物理指標若為0分,代表有意義的胎兒酸血症 | | | (fetalacidosis) | | | (C) 若分數從原本的2或4分變成0分,表示可更準確的預測不 | | | 正常的結果 | | | (D) 分數 10 分不一定表示胎兒血液 pH 值正常 | | | 【詳解】(A) 胎兒生物生理計分法(biophysical profile) 評估 5 | | | 部分,滿足一個項目得2分、不滿足0分,最高分為10分。 | | | (A) 17. 一位 31 歲女性,G2P1,妊娠 31 週,胎動 (fetal move Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (B) preeclampsia 會增加腦出血(cerebral hemorrhage)、肺水腫(pulmonary edema)及凝血功能異常(coagulopathy)的危險。當收縮壓高於 160 mmHg 時就應積極控制血壓預防腦出血 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...結石等。(沒有碳酸鈣) - b. 含鈣結石成因: - (a) 無生化數值異常:占鈣結石 30%。 - (b) 低檸檬酸尿(hypocitraturic): 占鈣結石成因 25%。較常見的原因是腎小管第一型酸血症(renal tubular acidosis type I)、thiazide 利尿劑的使用(伴隨血鉀流失)、或慢性腹瀉。 - (c) 高鈣尿(hypercalciuric):占鈣結石成因 20%。分為三類: - i. 吸收性(absorptive):小腸吸收較多鈣引起高鈣尿。 - ii. 再吸收性(resorptive):原發性高副甲狀腺素引起高鈣尿。 - iii. 腎臟相關 (renal-induced): 腎小管異常引起高鈣尿。 - (d) 高尿酸尿(hyperuricos Source: [[sources/med5-book5-ch05|戊、結 石]].
@@ -71,8 +77,6 @@ tags:
 - (1) 血液中 Ca ↑、PTH ↑、ALP ↑、P ↓、Cl ↑ (PTH 促 HCO₃ 排出導致 hyperchloremic metabolic acidosis)、Cl: P > 33:1。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
 - ## B. 創傷致命三角 (Lethal triad) Source: [[sources/med5-book1-ch07|庚、急救外傷]].
 - 1. 致命三角(Lethal Triad)包含 hypothermia、coagulopathy、metabolic acidosis,常見於嚴重外傷患者,這三者之間關係密切,任一個症狀都能誘發另一個症狀產生,造成死亡率上升。因此出現致命三角其中一個症狀出現時,需積極介入,手術探查找出血點給予止血,輸液/電解質矯正,體溫加熱等。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- ...-------------------------|---------------------------------------|-----------------|--|--|--| | (A) | 1. 大量出血或休克的病患,容屬於 lethal triad ? | 易造成所謂 lethal triad,下列何者不 | 109(二)專醫五-4 | | | | | | (A) arrhythmia | (B) acidosis | | | | | | | (C) hypothermia | (D) coagulopathy | | | | | | (A) | 2. 外傷死亡之病人,在外傷發 | 生後那一個時段,死亡人數最多? | 108(二)專 | | | | | | (A) 0~15 mi Source: [[sources/med5-book1-ch07|庚、急救外傷]].
-- ...> 1.5、aPTT > 60 s、Platelet 3 - d. 肝膽腸胃:Total bilirubin > 4 mg/dL - e. Hypotension: Acute altered mental status · Lactic acidosis ( > 36 mg/dL) - f. Hypoperfusion: SBP 40 mmHg。 - (3) Spetic shock: severe sepsis 即使給予輸液或升壓劑,仍然持續低血壓。 - (4) Early Goal-Directed Therapy, EGDT: 必須在前 6 小時內達到以下目標。 - a. CVP 維持在 $8\sim12~\text{mmHg}$ : 給予晶體或膠體溶液(目前多建議晶體溶液),每 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 
 ## Clinical Caveats
 

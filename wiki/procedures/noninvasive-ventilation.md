@@ -17,6 +17,7 @@ sources:
   - "[[sources/med5-book3-ch24]]"
   - "[[sources/med5-book4-ch12]]"
   - "[[sources/med6-book1-ch01]]"
+  - "[[sources/med6-book4-ch13]]"
 aliases:
   - 'Noninvasive ventilation, NIV (非侵襲性通氣)'
   - 'Noninvasive ventilation, NIV'
@@ -31,7 +32,7 @@ tags:
 
 ## Summary
 
-以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以面罩提供正壓支持，常用於 COPD 急性惡化或 OSA。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -48,9 +49,11 @@ tags:
 - [[sources/med5-book3-ch24]]
 - [[sources/med5-book4-ch12]]
 - [[sources/med6-book1-ch01]]
+- [[sources/med6-book4-ch13]]
 
 ## Key Details From Sources
 
+- 2. 保守性治療: - (1) 藥物治療減緩鼻塞。 - (2) 使用低流量氧氣裝置: - a. 鼻部正壓呼吸輔助器 (nasal continuous positive airway pressure, CPAP): 此為嚴重睡眠呼吸中止症的標準治療,成功率達 80%。 - b. 兩極正壓呼吸器(bilevel positive airway pressure, BiPAP)。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
 - a. 非侵入性胎兒染色體檢測(noninvasive prenatal testing, NIPT): Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (5) 內視鏡逆行膽道胰臟攝影(具侵襲性):如非侵襲性檢查後對其結構仍有疑慮時, 可考慮使用。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
 - 1. 惡性乳房腫瘤可以分成非侵襲性(Non-invasive)與侵襲性(invasive)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
@@ -68,7 +71,6 @@ tags:
 - # B. 非侵入性呼吸器 (Non-invasive Positive Pressure Ventilator = NIPPV): CPAP, BiPAP Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - 1. CPAP (Continuous Positive Airway Pressure):整個呼吸過程(包括吸氣與呼氣)給予預設之正壓(5~10 cmH2O),臨床上用於周邊型睡眠中止症候群(obstructive sleep apnea)。 Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - 2. BiPAP (Bi-level positive airway pressure): 相較於 CPAP, BiPAP 在吸氣、呼氣給予的正壓不同, Source: [[sources/med3-book1-ch20|庚、呼吸器]].
-- (4) 若以上 Noninvasive stress test 陽性、心絞痛無法以藥物控制、疑似缺血性心臟病 導致 Cardiac arrest 或 Ventricular dysfunction 皆可進一步做心導管檢查 (Coronary arteriography)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
 
 ## Clinical Caveats
 

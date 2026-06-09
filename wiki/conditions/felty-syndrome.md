@@ -26,6 +26,7 @@ sources:
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book3-ch04]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Felty syndrome (Felty 氏症候群)'
   - 'Felty syndrome'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合�
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book3-ch04]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- b. 肺動脈導管由內頸靜脈經右心房(RA:0~8 mmHg)、右心室(RV:15~30/0 mmHg)、 肺動脈(PA:15~30/8 mmHg)得到肺微血 管契狀壓(PCWP:5~15 mmHg)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - ...候群(Carpaltunnel syndrome) | | (圖請參照第 215 頁) | 關節 (Metacarpophalangeal joint, MCP joint) 及其遠端各手指保持可自由活動。 | • 手腕急性關節發炎(OA/RA) | | Thumb spica splint | 自手掌 (hand based thumb spica spint) 或前臂 | 手腕扭傷 (sprain)媽媽手 (de Quervain's | | (拇指八字型副木)(圖請參照第 215 頁) | (forearm based thumb spica splint),包覆至大拇指掌指關節,指骨間關節 (IP joint) 及其遠端保持可自由活動,大拇指固定在外展(abducti Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
 - (3) Sjögren's syndrome、RA、SLE、皮肌炎等免疫疾病。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - 1. 當出現嚴重、持續性的周邊角膜浸潤、潰瘍或無法解釋之周邊角膜變薄時,應考慮 是否為全身性膠原血管疾病所造成。最常見的疾病是類風濕性關節炎(RA)造成 的角膜炎,這些角膜炎的表現包含了: - (1) Peripheral ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (Wege Source: [[sources/med6-book2-ch05|戊、角 膜]].
@@ -86,7 +89,6 @@ RA 合併 neutropenia 與 splenomegaly，感染風險增加。 本頁已整合�
 - 2. 好發 $35\sim50$ 歲,男:女 =1:3;帶有 HLA-DR4 有更高的發生率。也有不少超過 60 歲的類風濕性關節炎 (Elderly onset RA),若合併 RF(+)或 anti-CCP(+),通常疾病進展較快、較嚴重。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - B. **病生理**:主要是滑液膜發炎 (Synovitis), 進一步使附近軟組織破壞,導致 RA 末期手部變形; 乃因某些刺激使 Macrophage 聚集, Macrophage 釋放 TNFα、IL-1、IL-6,這些 cytokine 便會活化 CD4 + T cell, 繼而引發更多發炎反應。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
 - 1. 這類疾病與 RA 都會造成滑液膜炎、骨質腐蝕 (Bone erosion),但卻類風濕性因子陰性,這也是這類疾病被稱為「血清陰性」的原因,藉此與 RA 做區隔。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- a. 與 RA 一樣,都會造成滑膜發炎、關節腐蝕,但 PsA 通常 RF(-)、侵犯 DIP、且中軸骨的侵犯可能包含 Spine、SI joint; Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
 
 ## Clinical Caveats
 

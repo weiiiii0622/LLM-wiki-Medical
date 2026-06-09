@@ -46,6 +46,13 @@ sources:
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch02]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Oxygenation and ventilation (氧合與通氣)'
   - 'Oxygenation and ventilation'
@@ -60,7 +67,7 @@ tags:
 
 ## Summary
 
-區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+區分低氧與二氧化碳滯留，連結血氣與呼吸器設定。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -106,9 +113,26 @@ tags:
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch02]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 2. 麻醉監測系統可分為四大方向: - (1) 氧氣濃度監測 (Oxygenation): 脈搏血氧飽和度分析儀 (Pulse oximeter)。 - (2) 呼吸功能監測(Ventilation):使用麻醉機去評估病人呼吸的功能。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- ...除聽覺神經瘤手術中使用 (C) 視覺神經誘發電位(visual evoked potential, VEP)常使用於一般頸椎手術 (D) 運動神經誘發電位可以使用於脊椎手術監測脊椎運動神經是否損傷 | 98(二)專醫六-6 | | | 歷(PaCO2)上升的原因,下列何者錯誤? (A) 體溫逐漸下降 (B) 腹腔內二氧化碳的吸收 (C) 麻醉深度不足下,代謝率上升 (D) 肺泡換氣 / 肺部灌流不相稱(VA /Q mismatch) 在麻醉中,下列何種方法可持續且有效的測知病人是否缺氧? (A) 監測吸入氧濃度 (B) 觀察病人皮膚顏色 (C) 脈衝式血氧儀(pulse oxymetry) (D) 動脈血氧氣體分析 置放中心靜脈導管(central venous catheter) Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 4. 歐氏管 (Eustachian tube): - (1) 也稱耳咽管,長度約3公分的管道,由中耳腔延伸進入鼻咽,除了維持中耳的通氣功能,調節中耳與外界壓力一致、也適時的排除中耳的分泌物或發炎物質。 - (2) 耳咽管在平常是處於關閉的狀態,只有在吞嚥、打哈欠時因周遭肌肉的牽動才會造成間歇性的開啟,一旦耳咽管功能受到損傷,將會造成致病菌進入中耳, 形成感染的外來管道。 - (3) 相較於大人而言,小孩的耳咽管較短、水平,容易造成鼻部的細菌或分泌物逆流而上,形成感染。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (b) 裝置中耳通氣管(ventilation tube),大約半年後通氣管會自行脫落。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (c) 腺樣體切除術(adenoidectomy)。若因腺樣體肥大而堵住耳咽管於鼻咽部的開口,造成耳咽管長期通氣不良而導致中耳積液,可考慮做腺樣體切除術。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 1. 告知外科醫師、立即停用揮發性麻藥以及 succinylcholine,給予百分之百氧氣 ventilation。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- ...有地區性結果的差異,故沒有定論。 | | iNO (inhaled nitric oxide) | Reduce pulmonary hypertension, improved | | | V/Q matching. → improve oxygenation,對預 | | | 後無幫助。不建議在 ARDS routine 使用, | | | 但是可用在 refractory hypoxemia 病人。 | | ECOM (Venovenous) | Severe ARDS PaO 2 /FiO 2 在 50~80 with open | | | lung ventilation • | Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (D) 40. 一位 60 歲男性患有肺腫瘤,必須接受右肺切除手術。在手術中 實行左側單肺呼吸(one-lung ventilation)一段時間後,血中含氧 量(PaO2)下降,下列敘述何者錯誤? - (A) 可調高呼吸速率,以增加肺部每分鐘換氣量 - (B) 可將吸入氧氣濃度 FiO2 調成 100% - (C) 可使用 5~10 cm H2O 之呼氣末期正壓 (PEEP) 至換氣肺側 - (D) 應利用高度換氣(Hyperventilation),使血中二氧化碳濃度 (PaCO2) 小於 30 mmHg Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 16. 確定 ET tube 在正確位置的方式。 - (1) 視:看兩邊胸廓會有等高的起伏,而且 ET tube 的管壁會有水蒸氣的出現。 - (2) 聽:聽診兩邊的上中下肺葉,比較左右兩邊的呼吸音是否平順,且音量相同。 另外也可聽胃部是否有打氣聲。 - (3) 觸:在 sternal notch 可以摸到 ET tube 的 cuff。 - (4) ETCO, 是否在正常範圍。 - (5) ET tube tip 最好的位置是在 carina 以上兩公分的地方,太深會造成 one lung ventilation,太淺則可能會造成聲帶受傷。一般是放置在刻度 19~22 之間。 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- 4. 如果已發現困難插管,但是 bag and mask ventilation 也無法進行時: - (1) 請人幫忙。 - (2) 利用 nasopharyngeal / oropharyngeal airway 建立呼吸道。 - (3) 考慮使用 LMA 建立呼吸道。 - (4) 緊急氣管切開術。 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
 - ...-------| | 攝氧量 | 不變 | 不變 | 1 | | 心率 | ↓ | V | ↓ | | 心搏量 | ↑ | ↑ | ↑ | | 心輸出量 | 不變 | 不變 | ↑ | | 心肌耗氧量 | ↓ | \ | 不變 | | 肺部通氣量 | 不變 | ↓ | ↑ | | 動靜脈氧分壓差 | 不變 | ↑ | ↑ | | 血中乳酸濃度 | 不變 | ↓ | ↑ | | 肌肉血流量 | 不變 | ↓ | | | 内臟血流量 | 不變 | 不變 | ↓ | | 收縮壓 | 1 | \ | 不變 | | 舒張壓 | \ | V | 不變 | Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 1. 肺部復健的好處: - (1) 改善運動耐受度、改善呼吸肌力量與耐受度。 - (2) 增加動脈氧合作用 - (3) 降低呼吸作功及控制呼吸速率。 - (4) 矯正呼吸型態。 - (5) 預防或改善肺炎、肺擴張不全等併發症。 - (6) 改善病患的生活品質和 ADL,降低焦慮和憂鬱的情形。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - (2) 上肢復健:主要是使肩膀、手臂與肩部肌肉運動,可增加通氣量、增加呼吸及上臂肌肉的強度及耐力。可分為無負重擴胸運動、無負重舉臂運動和負重舉臂運動。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
@@ -117,16 +141,6 @@ tags:
 - 1. 簡介:口服避孕藥包括 combined estrogen-progestin oral contraceptives 和 progestin-only pills,兩者避孕效果相當,在正確使用下,僅不到 1% 的失敗率。目前的趨勢是減少 estrogen 的劑量及新型 progestin 的使用。 - (1) 口服避孕藥使用的 estrogen 為 ethinyl estradiol (效力比單獨 estradiol 高),過去使用高劑量 (>50~mcg),研究發現明顯增加心血管疾病和靜脈栓塞的風險。目前趨勢是低劑量使用 (2 下降,但 PaCO2 正常或下降)、V/Q scan mismatches、腿部 都普勒超音波和 CT pulmonary angiography。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...| | 或寡尿才考慮抽腹水 | | | | | | 目前觀念 積極抽腹水,只要有中度以上腹水,病人 | | | | | | 臨床上有不適即可抽腹水 | | | | | ・預防血栓 | (1) 診斷方法:arterial blood gas、ventilation/perfusion | | | | | | scan 和 CT scan。 | | | | | | (2) 預防方法: 穿彈性襪、給予 heparin (Hct > 55% 考 | | | | | | 慮給予 | ) • | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (D) 每分鐘涌氣量 (minute ventilation) > 9 L/minute Source: [[sources/med5-book4-ch03|丙、肺]].
-- (2) 適合手術切除之病患: - a. 原發性腫瘤已控制未復發。 - b. 能承受全身麻醉及單肺通氣,以及手術切除部分肺組織後有足夠的肺功能。 - c. 電腦斷層上可完全切除之病灶。 - d. 無其他肺外轉移腫瘤或可治療之肺外轉移腫瘤。 - e. 無其他替代治療。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 1. 機轉 & 成因:終端通氣空間(呼吸細支氣管和肺泡)擴張和破壞。 - (1) blebs:由開洞肺泡產生介於肺和肋膜間的肋膜下氣泡。 - (2) bullae:較 blebs 大的肋膜下氣泡,且合併肺實質破壞。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (1) 缺氧(Hypoxia):氣道阻塞、胸內壓力改變、通氣灌流失調(ventilation-perfusion mismatches) 和低血容。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- (2) 高碳酸血症(Hypercapnia):不適當的通氣(inadequate ventilation),如肺塌陷、或腦傷造成意識改變或外來毒物(drugs、alcohol)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- (D) 4. 一位 30 歲的男性工人從 6 公尺高的鷹架墜落,身體檢查顯示收縮壓 120 mmHg,右胸有明顯的連迦胸(flail chest),嚴重的呼吸窘迫(severe respiratory distress),右胸呼吸聲音稍微降低,叩診時則左右兩側類似。給予非再呼吸型面罩氧氣 15 L/min 後,其動脈氣體分析為 pH: 7.47,PaO2: 65 mmHg,PaCO2: 28 mmHg;下列何者最可能解釋他的異常動脈氣體分析之原因? Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 1. 機轉 & 成因:氣體積累在肋膜腔內,可能為自發性,或續發於創傷、手術、治療 和疾病併發等情形。氣胸壓迫肺組織,導致肺順應性降低、通氣容積減少和擴散體 積減少,依據肺本身狀況和氣胸程度而有輕重不同程度的影響,如果氣體持續進 入,導致肺塌陷而壓迫縱隔和心臟偏移,合併呼吸急促和血液動力不穩失能,就成 了張力性氣胸(詳見胸部創傷-創傷性氣胸)。以下介紹非創傷性氣胸。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...| Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibrosis (IPF) | Postsurgical | | - Pulmonary embolism | Other | Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...-----------|---------| | | 下列敘述何者錯誤? | 醫五 -29 | | | (A) 低血容合併急性腎衰竭 (hypovolemia with acute renal failure) | | | | (B) 低血氧合併成人呼吸窘迫症 (hypoxemia with adult respiratory | | | | distress syndrome) | | | | (C) 高鈣血症合併抽搐(hypercalcemia with seizure) | | | | (D) 血管栓塞合併小腸缺血症(vascular thrombosis with ischemic | | | | bowel disease) | | | | 【詳解】急性胰臟炎通常以 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- C. 葉克膜(Extracorporeal membrane oxygenation, ECMO) *100* Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 1. 1953 年由美國外科醫生 Gibbon 所發明,體外循環是指應用人工管道將人體大血管 與人工心肺機連接,從靜脈系統引出靜脈血,並在體外氧合,再經血泵將氧合血輸 回動脈系統。 Source: [[sources/med5-book2-ch08|辛、其 他]].
 
 ## Clinical Caveats
 
@@ -135,8 +149,10 @@ tags:
 
 ## Related Pages
 
+- [[diagnostics/capnography|Capnography (二氧化碳波形監測)]]
 - [[procedures/inspiratory-muscle-training|Inspiratory muscle training (吸氣肌訓練)]]
 - [[conditions/neonatal-respiratory-distress-syndrome|Neonatal respiratory distress syndrome, RDS (新生兒呼吸窘迫症候群)]]
+- [[diagnostics/pulse-oximetry|Pulse oximetry (脈搏血氧監測)]]
 
 ## Follow-up
 

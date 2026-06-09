@@ -31,6 +31,8 @@ sources:
   - "[[sources/med5-book4-ch04]]"
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Dysphagia (吞嚥困難)'
   - 'Dysphagia'
@@ -45,7 +47,7 @@ tags:
 
 ## Summary
 
-吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+吞嚥困難需區分 oropharyngeal 與 esophageal causes，並注意進行性症狀與警訊。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +78,15 @@ tags:
 - [[sources/med5-book4-ch04]]
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 球運動障礙而產生複視;侵犯第五對腦神經(三叉神經)造成臉部皮膚感覺麻木。 其他舌下神經、迷走神經障礙,則會造成吞嚥困難或聲音沙啞的症狀。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 2. 晚期症狀: - (1) 喉嚨疼痛。 - (2) 聲音沙啞。 - (3) 吞嚥困難。 - (4) 呼吸困難。 - (5) 頸部腫塊。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- ...- (1) 聲門上癌 (supraglottic cancer): - a. 發生率僅次於聲門癌, 佔喉癌約 20%。 - b. 初期表徵較不明顯,容易被忽略,直到疾病晚期才被發現。 - c. 大多臨床症狀以聲音沙啞、喉嚨有異物感、喉嚨痛、吞嚥困難等等。 - d. 此區淋巴循環最為豐富,是喉癌中最容易發生淋巴轉移而出現頸部腫瘤的 一型。 - (2) 聲門癌 (glottis cancer): - a. 最為常見的喉癌,發生率約80%左右。 - b. 範圍包括聲帶及其下一公分(true vocal cords、anterior and posterior commissures)。 - c. 早期的症狀即可造成漸進式的聲音沙啞。當腫瘤發展至晚期具一定體積時,由於呼吸道部分阻塞,呼吸 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- (4) 臨床症狀:(症狀持續數分鐘至數小時,通常可以回復正常) - a. 暈眩。 - b. 噁心嘔吐。 - c. 雙側耳鳴。 - d. 可能伴隨其他神經學症狀如發音困難、吞嚥困難、複視、感覺異常、肢體麻木、肢體偏癱等。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - C. 吞嚥困難 (Dysphagia) 14 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - #### C. 吞嚥困難 (Dysphagia) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
 - 3. 中風患者約有 30~45% 會有吞嚥困難的情形,常見的腦部病灶位置為: - (1) 腦幹:67%。 - (2) 大腦左半球:28%。 - (3) 大腦右半球:21%。 - (4) 兩側大腦皆損傷的發生率比單側損傷多。 - (5) 大血管梗塞比小血管梗塞常見。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
@@ -93,10 +101,6 @@ tags:
 - 【詳解】Arnold-Chiari malformation,又稱小腦扁條體下疝,指的是小腦扁桃體疝氣,通過枕骨大孔下疝到椎管內,使得腦幹、脊髓受到壓迫,甚至影響腦脊液的流通。第一型較輕微,無其他神經系統畸形,多在學齡、或成人時才會出現一些神經學症狀(頭痛、頭暈、噁心、肌肉無力、協調障礙)。第二型合併出現脊柱裂(脊膨出 myelomeningocele),容易有呼吸、吞嚥困難,四肢無力的情形。第三型則是小腦下半部或是腦幹下疝到椎管內。第二和第三型通常在產前超音波檢查即可發現。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
 - (1) 一開始可能以不對稱的肢體無力表現(corticospinal tract),但不久後會進展成 對稱的肢體無力,且同時有上運動神經元及下運動神經元症狀;也可能有說話 不清、吞嚥困難(corticobulbar tract)等症狀。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - (A) 3. 肌萎縮性側索硬化(Amyotrophic lateral sclerosis, ALS)不會產102( ) 專生下列那個症狀?醫四 -53 - (A) Sensory loss - (B) Dysphagia - (C) Fasciculation - (D) Babinski sign Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- ...ltiple sclerosis | | | (D) 18. | (D) metastases 頸椎退化性關節炎而導致脊髓病變,下列何者錯誤? (A) 會產生雙下肢緊而無力 (B) 造成解尿困難 (C) 會產生胸部以下麻木現象 (D) 造成吞嚥困難 | 98(二)專醫四-47 | | (D) 19. | 多發性硬化症患者的腦脊髓液常可見到下列何種情形? (A) 葡萄糖量為血糖中的 20% 以下 (B) 蛋白質降低 (C) 每微升 (mL) 有 100 顆以上的白血球 (D) 免疫球蛋白 G (IgG) 升高 | 98(一)專醫四-50 | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (D) 2. 下列何者不是食物引起的肉毒桿菌毒素中毒(food-born botulism) 107( ) 專 的症狀? - (A) 瞳孔放大 (pupil dilatation) - (B) 吞嚥困難 (dysphagia) - (C) 構音障礙 (dysarthria) - (D) 角弓反張 (opisthotonus) Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- (C) dysphagia(D) wrist drop Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- ...】脊髓小腦共濟失調症(spinocerebellar ataxia)是一群晚發型(中年左右發病)遺傳性(AD、AR、X-link)罕見疾病,基因中分別有段異常的 CAG 核甘酸重複序列異常倍增,導致神經元退化。患者四肢運動不平衡,說話不清、吞嚥困難、眼球異常轉動、寫字或手部度作遲鈍,目前無有效治療方式。 | 107(二)專醫四-56 | | (A) | 7. 下列何者的異常值高低和粒線體疾病的病況嚴重程度最相關? (A) 血中乳酸量的高低 (B) 血中乳酸去氫酶(lactic dehydrogenase, LDH)的活性 (C) 脊髓液中的蛋白質含量 (D) 脊髓液中免疫球蛋白 G 的指數(IgG index) | 107(二)專醫四 -58 | | (B) | 8. 有關慢性疲 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
 
 ## Clinical Caveats
 

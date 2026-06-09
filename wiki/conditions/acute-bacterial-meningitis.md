@@ -2,7 +2,7 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch05]]"
   - "[[sources/med4-book1-ch04]]"
@@ -27,6 +27,9 @@ sources:
   - "[[sources/med5-book1-ch12]]"
   - "[[sources/med5-book1-ch11]]"
   - "[[sources/med5-book1-ch15]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch08]]"
 aliases:
   - 'Acute bacterial meningitis (急性細菌性腦膜炎)'
   - 'Acute bacterial meningitis'
@@ -41,7 +44,7 @@ tags:
 
 ## Summary
 
-兒童 CNS 細菌感染急症，診斷依臨床、CSF 與病原檢查，治療需即時。 本頁已整合至 `醫(五)第1冊外概腦外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+兒童 CNS 細菌感染急症，診斷依臨床、CSF 與病原檢查，治療需即時。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +71,16 @@ tags:
 - [[sources/med5-book1-ch12]]
 - [[sources/med5-book1-ch11]]
 - [[sources/med5-book1-ch15]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch08]]
 
 ## Key Details From Sources
 
+- ...感染所造成,與前庭神經炎(vestibular neuritis)病因類似。 - b. 與前庭神經炎(vestibular neuritis)最大的差異在於因感染至內耳迷路,導致量眩與聽力喪失。 - c. 在症狀出現之前,通常有中耳炎感染、細菌性腦膜炎的 episode。 - (2) 常見菌種: - a. Bacteria: S. pneumoniae · H. influenzae · M. catarrhalis · P. aeruginosa · P. mirabilis - b. Virus: CMV · measles · mumps · varicella zoster - (3) 臨床症狀: - a. 量眩感。 - b. 噁心嘔吐。 - c. 耳鳴。 - d. 聽力喪失 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- a. 特別注意病人是否目前仍有細菌性腦膜炎感染的可能性,可進行腰椎穿刺 (lumbar puncture) 確認。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- ...| 老人 | $\downarrow$ | | | 性別 | | 不變 | | | ○ 中 小主 | 急性中毒 | \ | | | 酒 精 | 慢性濫用 | · 1 | | | 貧 血 | Hct 2 > 95 mmHg | \ | 因為 CSF 的 pH 下降 | | 休 克 | 平均動脈壓 \ | | | 懷孕 | | ↓ | | | | 亢 進 | 不 變 | 有些研究說只會輕微↑ MAC 值 | | 甲狀腺 | 低下 | 不變 | | | 藥物 | 嗎啡類止痛藥、ketamine、BZDs、巴比妥鹽類、局部麻醉藥 | ↓ | 麻醉藥物基本上都會加乘效果 | | | 麻黄素、cocaine、交感興奮性藥物 | ↑ | | Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- ...- (4) 禁忌症:病患無法配合、凝血功能異常、局部有感染現象、IICP。 - (5) 副作用:Postdural puncture headache (PDPH)。 - a. 原因:脊髓硬腦膜(dura)遭受穿刺後若沒有癒合的很好造成 CSF 持續滲漏,會使病人發生低壓性的頭痛(low pressure headache)和噁心的現象,通常在接受麻醉後的 1~2 天發生,坐起來會加劇、平躺的話症狀會緩解。好發於年輕、懷孕者。與穿刺針的大小、針面形狀和多次的穿刺相關。 - b. 治療:大部分會自然緩解,建議病患平躺、大量輸液、使用口服止痛藥物、或是咖啡因也有幫助。若頭痛仍然持續沒有緩解,最好的方法就是硬脊膜外自體血液凝塊(epidural blood patch),也就是注射 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
 - 1. 從腦室壁細胞(ependymal cell)生長出,大多發生在第四腦室,且會隨著 CSF 散 佈到其他地方。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 4. 臨床症狀依腫瘤壓迫的位置而異,常表現三叉神經痛(橋腦小腦角),後顱窩的話有小腦方面的症狀,鞍區和中顱窩則可表現視力障礙或視野缺損,長在脊柱內則可有腰痛、運動障礙、膀胱、直腸功能障礙。假使腫瘤破裂,囊腫內含物流至蜘蛛膜下腔引起發炎,造成無菌性腦膜炎(aseptic meningitis)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 4. 治療方式: - (1) 藥物治療可給 acetazolamide (Diamox)降低 CSF 的產生,或是利尿劑,另 steroid 的療效較具爭議性,目前比較推薦使用在有 severe papilledema 的病患。 - (2) 若仍無法適當控制腦壓時,需考慮作 shunting 分流手術或是 Lumbar puncture。 - (3) 若患者體重過重,可設法降低體重常能有效的降低腦壓。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
@@ -85,10 +95,6 @@ tags:
 - a. 50% 為 idiopathic,其他可能因為 SAH、meningitis 後,導致 CSF 吸收不正常; Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - Ref. Cecil FIGURE 425-2 Flow diagram for the differential diagnosis of dementia. The percent contributions of various diagnoses are approximate. The list of secondary causes of dementia is not exhaustive. CSF = cerebrospinal fluid; MR = magnetic resonance imaging. Source: [[sources/med4-book4-ch06|己、大腦疾病]].
 - 2. 腦膜刺激的 sign: - (1) 頸部僵硬 (neck stiffness): 當我們把病患的頭往下巴彎,會因病患疼痛遭受阻力; 而細菌性腦膜炎更明顯,甚至頭稍左右轉動就會引起疼痛;而病毒性腦膜炎要 將頭往下巴頂才比較會痛;另外,當我們將病人頭部彎曲時,其腳會自己縮回, 以減少腦膜拉扯的壓力,稱作 Brudzinski sign; - (2) 病患躺平,髋、膝關節皆成 90 度,當我們將病患的膝蓋往上打直時,會因引起 病患疼痛而遭受阻力,稱作 Kernig's sign。(記憶: Knee 打直 = Kernig's) Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- 3. 臨床診斷步驟:電腦斷層→腰椎穿刺: - (1) 電腦斷層若沒有 mass lesion,才可安全地進行腰椎穿刺;若有 mass lesion, 腰椎穿刺後造成的 CSF 減少,可能導致 herniation;電腦斷層若沒有明顯的 SAH,才需進行腰椎穿刺看是否有影像學上看不到的較小量的 SAH。 - (2) 腦膜炎的 CSF 可發現 protein、WBC 會增加; traumatic tap 也可見 WBC,但 WBC: RBC 比值約是 1:500。 - (3) 蜘蛛膜下腔出血的 CSF 可見紅色出血,第一到最後一根 CSF 管都持續有血染 (blood stained),而 traumatic tap 到最後一根 CSF 管血染漸淡。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (1) 常發生於腰椎穿刺後數小時~數天,頭痛會因平躺改善(與 IICP 相反);因為 CSF 減少,直立或頭部移動太快時,容易拉扯到腦膜、血管,造成頭痛。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- IV. 黴菌腦膜炎 (Fungal Meningitis) 74 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- #### IV. 黴菌腦膜炎 (Fungal Meningitis) Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
 
 ## Clinical Caveats
 

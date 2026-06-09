@@ -25,6 +25,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book6-ch07]]"
   - "[[sources/med5-book6-ch10]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Cerebral aneurysm (腦動脈瘤)'
   - 'Cerebral aneurysm'
@@ -39,7 +40,7 @@ tags:
 
 ## Summary
 
-顱內動脈壁局部擴張，破裂可造成 SAH。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+顱內動脈壁局部擴張，破裂可造成 SAH。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +65,11 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book6-ch07]]
 - [[sources/med5-book6-ch10]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- (D) 32. 50 歲男性病人,三天前因嚴重頭痛到院,經電腦斷層與血管攝影檢查後診斷出大腦動脈瘤(cerebral arterial aneurysm),現進行手術。對麻醉的誘導和維持,下列敘述何者錯誤? - (A) 需動脈導管 (arterial catheter) 監測血壓 - (B) 麻醉誘導須避免突然血壓上升 (acute hypertension) - (C) 手術中選擇性低血壓 (induced hypotension) 常使用高濃度 isoflurane 合併 nitroprusside - (D) 手術中過度換氣,造成動脈二氧化碳氣體壓力 ( $PaCO_2$ ) 的下降,可增加腦部血流量 (cerebral blood flow) Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - ...hondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dysplasia, Aneurysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - 3. 動脈瘤性骨囊腫(Aneurysmal Bone cyst)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (B) aneurysmal bone cyst Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
@@ -84,7 +87,6 @@ tags:
 - ...osion of infarcted myocardium at the border between the infarcted and viable myocardium $\circ$ - c. Type III: an early aneurysm formation correlated with older and severely expanded infarcts • Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - #### 5. Ventricular aneurysm: Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - (DTAA, descending thoracic aortic aneurysm; MRA, magnetic resonance angiography; TAAA, thoracoabdominal aortic aneurysm) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- (全)11.38 歲男性,因駕轎車撞橋墩被送到急診室,到院後評估發現, 100(二)專血壓 100/70 mmHg,心跳 88 / 分,呼吸次數 20 / 分,頸靜脈 醫五-22 無怒張,無 cyanosis,呼吸音正常,胸部 X 光顯示縱膈變寬,以下何者是最可能的診斷? - (A) 心包填塞 (cardiac tamponade) - (B) 主動脈剝離 (aortic dissection) - (C) 主動脈瘤破裂 (ruptured aortic aneurysm) - (D) 心肌挫傷 (myocardial contusion) Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
 
 ## Clinical Caveats
 

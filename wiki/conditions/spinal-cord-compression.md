@@ -29,6 +29,8 @@ sources:
   - "[[sources/med5-book6-ch04]]"
   - "[[sources/med5-book6-ch05]]"
   - "[[sources/med5-book6-ch09]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch09]]"
 aliases:
   - 'Malignant spinal cord compression (惡性脊髓壓迫)'
   - 'Malignant spinal cord compression'
@@ -43,7 +45,7 @@ tags:
 
 ## Summary
 
-癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(五)第6冊骨科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+癌症脊椎轉移壓迫脊髓，需快速辨識與處理以保留神經功能。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +74,15 @@ tags:
 - [[sources/med5-book6-ch04]]
 - [[sources/med5-book6-ch05]]
 - [[sources/med5-book6-ch09]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch09]]
 
 ## Key Details From Sources
 
+- ...---------------------------------------| | NX | Regional lymph nodes cannot be assessed | | N0 | No regional lymph node metastasis | | N1 | Metastasis in a single ipsilateral lymph node, 3 cm or smaller in greatest dimension and ENE (-) | | N2 | Metastasis in a single ipsilateral node larger than 3 cm but not larger than 6 cm in greatest dimension Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- | N2a | Metastasis in a single ipsilateral node larger than 3 cm but not larger than 6 cm in greatest dimension, and ENE (-) | |-----|-------------------------------------------------------------------------------------------------------- Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- A designation of "U" or "L" may be used for any N category to indicate metastasis above the lower border of the cricoid (U) or below the lower border of the cricoid (L) Similarly, clinical and pathological ENE should be recorded as ENE(-) or ENE(+) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 1. 慢性疼痛(Chronic pain):慢性疼痛的定義是持續性大於三個月的疼痛。常見的慢性疼痛包括下背痛(low back pain),中樞或周邊神經系統的疼痛(neuropathic pain),帶狀皰疹後疼痛(postherpetic neuralgia)、癌症疼痛(cancer pain),以及筋肌膜炎疼痛(myofascial pain)。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
 - ...eochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - 【 詳解 】(A) Enneking stage IIB(maliganent)是指 high grade, extra-compartmental lesion, no metastasis;(B) 通常合併化療,非放射治療;(D) 目前主要採用肢體保留手術為主,除非腫瘤太大、free margin 太少,不會增加 recurrence rate, survival rate 也無太大差異。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (B) bone metastasis Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
@@ -89,10 +97,6 @@ tags:
 - (A) 肝臟轉移腫瘤 (liver metastasis) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
 - ...| |---------|----------------------------------|-------------------------------|---------| | | 其他轉移病灶(no evidence | of metastasis),那一種處理應優先 | 醫五 -19 | | | 考慮? | | | | | (A) stent and chemotherapy | | | | | (B) local excision and radiother | rapy | | | | (C) Whipple procedure | | | | | (D) radiotherapy | | | | | 【詳解】Periampullary tumor | 的術式首選為 Whi Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
 - ...| | | N | Regional Lymph nodes | | | | Nx | Regional lymph nodes cannot be assessed | | | | N0 | No regional lymph node metastasis | | | | N1 | Metastasis in 1-3 regional lymph nodes | | | | Nla | Metastasis in one regional lymph node | | | | N1b | Metastasis in 2-3 regional lymph nodes | | | | Nlc | Tumor deposit(s) in the subserosa, mesentery, or Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- ...| onal Lymph Nodes (N) | | | | | | Nx | Regional lymph nodes cannot be assessed | | | | | | N0 | No regional lymph node metastasis | | | | | | N1 | Metastasis in perirectal lymph node(s) | | | | | | N2 | Metastasis in unilateral internal iliac and/or inguinal lymph node(s) | | | | | | N3 | Metastasis in perirectal and inguinal lymph nodes and/or bi Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (7) 預後:分化良好型甲狀腺癌有許多套預後評估系統,常用的有 AGES (Age, pathologic Grade of tumor, and Extent and Size of primary tumor) 或 AMES (Age, distant Metastasis, Extent of the primary tumor, and the Size of the primary tumor)。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...| Extent | No local extension, intra-thyroidal, no capsular invasion | Capsular invasion, extra-thyroidal extension | | Metastasis | None | Regional or distant | | Size | 4 cm | | Grade | Well differentiated | Poorly differentiated | Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 1. 硬膜外腫瘤 (extradural spinal cord tumor):55% - (1) 轉移癌 (metastasis): - a. 佔硬膜外腫瘤最大宗,多為蝕骨性(osteolytic)。 - b. 原發位置:乳房、肺、前列腺或腎臟。 - c. 轉移位置: 最常轉移至胸椎,但病灶往往不只侷限於一部位。 - d. 臨床表現: - (a) 疼痛:骨頭痛及觸痛,為最常見症狀。 - (b) 運動或自主神經功能異常:第二常見,會有 urinary urgency 和 retention。 - (c) 感覺異常。 - (d) 脊椎骨被侵蝕導致病理性骨折、高血鈣。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
 
 ## Clinical Caveats
 

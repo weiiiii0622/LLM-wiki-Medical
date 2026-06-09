@@ -15,6 +15,7 @@ sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Angiotensin receptor blockers, ARB (血管張力素受體阻斷劑)'
   - 'Angiotensin receptor blockers, ARB'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-ACEI 類似效果但較少 bradykinin 相關咳嗽。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ACEI 類似效果但較少 bradykinin 相關咳嗽。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ ACEI 類似效果但較少 bradykinin 相關咳嗽。 本頁已整合至 `醫(�
 - [[sources/med4-book1-ch03]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- (1) 高血壓:目前建議除了利尿劑外,其他高血壓藥物術前可以正常服用,可提 醒病患以少量水吞服。對於手術的病患,利尿劑可能會造成電解質紊亂。 ACEI/ARB 類的藥物術前仍可服用,但可能會造成術中低血壓(profound hypotension)影響術中評估低血壓的準確性。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - (3) 致畸胎性物質(tetatogens)可能會影響胎兒的生長發育,如:菸酒、古柯鹼、 癲癇藥物(phenytoin、Valproic acid、Carbamazepine)、warfarin、vitamin A、 tetracycline、methotrexate、cyclophosphamide、ACEI、ARB、ionizing radiation 和 thalidomide等。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】病人疑為嚴重子癲前症,可先給予 MgSO4 預防癲癇,處理高血壓可使用 Hydralazine 和 Labetalol 等,ACEI 和 ARB 因會影響胎兒心臟及腎臟發育,懷孕期間禁止使用;將胎兒產出是唯一根治方法。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (3) ACEI或 ARB 類藥物對於蛋白尿的治療與預防腎臟惡化現今仍持保留的態度。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

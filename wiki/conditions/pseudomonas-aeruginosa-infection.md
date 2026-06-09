@@ -27,6 +27,7 @@ sources:
   - "[[sources/med6-book1-ch15]]"
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch06]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Pseudomonas aeruginosa infection (綠膿桿菌感染)'
   - 'Pseudomonas aeruginosa infection'
@@ -41,7 +42,7 @@ tags:
 
 ## Summary
 
-常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+常見院內、燒傷、呼吸器、免疫低下感染病原，抗生素選擇需覆蓋抗藥性。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -68,9 +69,13 @@ tags:
 - [[sources/med6-book1-ch15]]
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch06]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 2. 致病菌種: - (1) 細菌(90%以上為細菌性感染): - a. Pseudomonas aeruginosa ° - b. Pseudomonas vulgaris · - c. E. coli ° - d. S. aureus o - (2) 黴菌: - a. Candida albicans o - b. Aspergillus niger · Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 4. 處置: - (1) 清潔:使用溫水清洗灌注外耳道,並可使用耳吸管將壞死上皮組織與灰塵污物取出。 - (2) 發炎與感染控制:使用含有抗生素、抗黴菌藥物、類固醇和止痛劑的耳滴劑。 - (3) 口服抗生素使用在較嚴重的外耳感染或是免疫力低下的病患,需選擇可以涵蓋 *Pseudomonas aeruginosa、S. aureus*,並與耳滴劑一起搭配使用。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (3) 壞死性外耳炎 (necrotizing external otitis): - a. 壞死性外耳炎是較嚴重的併發症,由外耳炎持續的感染,繼續侵犯至顱底的 軟組織與骨頭,甚至有可能造成腦膜炎以及顱內膿瘍。 - b. 好發於年紀較大的患者、糖尿病患者、免疫不全的患者。 - c. 大部分的致病菌為 Pseudomonas aeruginosa, 需使用涵蓋 Pseudomonas aeruginosa 的抗生素做感染控制。 - d. 安排進一步的腦部影像學的檢查如 CT 或 MRI, 以觀察顱內侵犯的範圍。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - (3) 可能致病原因:角膜上皮完整性受損又合併:**隱形眼鏡配帶過久-綠膿桿菌**; 之前存在的角膜病變(如外傷、水疱性病變等);淚液缺乏、維生素 A 缺乏等。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - (4) 鑑別診斷: - a. 革蘭氏陽性:常見為葡萄球菌感染-多發性、表淺性、且界線清楚的病灶, 進程緩慢。 - b. 革蘭氏陰性:以綠膿桿菌感染為代表-病灶色深、邊緣不清、分泌物多且呈 黃綠色,進程快速。外觀表現多樣化,有時外緣會像毛毛的黴菌菌絲,而被 稱為「偉大的模仿者」。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - (2) 感染:由角膜潰瘍擴散而來。常見致病菌有綠膿桿菌、Streptococcus pneumoniae、帶狀皰疹病毒等。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
@@ -86,8 +91,6 @@ tags:
 - (a) Grade III (severe) acute cholecystitis: - i. 先考慮保守治療,先讓病人 NPO,合併靜脈液體注射。若病人持續噁 心嘔吐,考慮鼻胃管置入。 - ii. 止痛藥使用與抗生素使用。 - iii. 常見菌種:*Escherichia coli、Bacteroides fragilis*、Klebsiella、Enterococcus、Pseudomonas species。 - iv. 考慮作 percutaneous cholecystostomy,將膽汁 drainage 出來。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
 - 1. 急性心內膜炎:病情較惡,病人大多無潛在性心臟病灶,常見致病菌為 S. aureus、Streptococcus pyogenes、Streptococcus pneumoniae、Pseudomonas aeruginosa。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - 3. 院內感染: - (1) UTI 為最常見的院內感染,多與導尿管放置有關,病人術後有 UTI 會使其死亡率增加三倍。最好的預防方法即導尿管勿長期置留,以及放置導尿管時的無菌技術。常見致病菌有 E. coli 和 Pseudomonas aeruginosa。 - (2) 肺炎:第三常見院內感染,但是肺炎為院內感染最常見之死因。多與呼吸器的使用有關,以 P. aeruginosa 最常見。 - (3) 靜脈導管(catheter-related)感染則以表皮菌 Staphylococcus aureus 最常見,導管放置處可見皮膚紅腫熱痛或有 pus。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- ...| (B) 24. 大腸內容物中最常見的細菌為: | 99(一)專 | | (A) Escherichia coli | 醫五-5 | | (B) Bacteroides | | | (C) Enterococcus | | | (D) Pseudomonas species | | | (C) 25. 大腸內容物中最常見的 aerobic bacteria 是下列何者? | 97(一)專 | | (A) Enterococcus | 醫五-1 | | (B) Proteus | | | (C) Escherichia coli | | | (D) Pseudomonas | | | | | Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- 【詳解】(B) 當菌種為對 vancomycin 有抗藥性時,才會選擇使用 linezolid;(D) 需考量到 Pseudomonas aeruginosa 或其他 Gram-negative bacilli 等菌。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
 
 ## Clinical Caveats
 

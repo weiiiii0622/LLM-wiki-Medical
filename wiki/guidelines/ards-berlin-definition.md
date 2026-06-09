@@ -16,6 +16,7 @@ sources:
   - "[[sources/med5-book1-ch06]]"
   - "[[sources/med5-book4-ch03]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Berlin definition of ARDS (ARDS Berlin 定義)'
   - 'Berlin definition of ARDS'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,11 @@ ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合�
 - [[sources/med5-book1-ch06]]
 - [[sources/med5-book4-ch03]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- ...lume: 6 mL | 減少 mortality | | /kg ( 體重用 predicted | | | bodyweight) | | | Prone position | Improved mortality in severe ARDS without | | | refrac tory hypoxemia (2013 meta-analysis) | | FiO 2 | Keep 「adequate」 PaO₂, not highest | | PEEP | High PEEP 或 Low PEEP 使用於 mortality 的 | | | 影響仍有地區性結果的差異,故沒有定論。 | | iNO (inhaled nitric oxide) | Reduce pu Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - 【詳解】敗血症是導致 acute respiratory distress syndrome (ARDS) 的主要原因,而其他三者則和敗血症無明顯相關,故選 (D)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - S. 急性呼吸窘迫症候群(Acute respiratory distress syndrome, ARDS) *62* Source: [[sources/med5-book4-ch03|丙、肺]].
 - ### S. 急性呼吸窘迫症候群 (Acute respiratory distress syndrome, ARDS) Source: [[sources/med5-book4-ch03|丙、肺]].
@@ -66,7 +69,6 @@ ARDS 以時間、影像、氧合與非心因性水腫定義。 本頁已整合�
 - (1) 局限性肺病(如:ARDS),應降低 $V_T$ (4~6 ml/kg) 以減少壓力傷害,但應調高呼吸速率,以維持病人的通氣量; Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - b. Pplat 代表著肺泡的彈力,當 Pplat 愈高,代表給予一樣容積,肺泡壓力上升,即 肺泡順應性下降,表示肺水腫、肺炎、ARDS 更嚴重了。 Source: [[sources/med3-book1-ch20|庚、呼吸器]].
 - ...| | | 環境相關 | 塵肺症 (Pneumoconiosis) 中的石棉 (Asbestosis) | | | | | 放射線傷害 (I | Radiation) · Aspiration pneumonia, Residual of ARDS | | | | Idiopathic | 發炎末期 | Idiopathic pulmonary fibrosis (IPF) | | | | interstitial | | [形態學上稱 Usual interstitial pneumonia (UIP)] | | | | pneumonia | 活躍發炎 | Non-specific interstitial pneumonia (NSIP) | | | | | | Crypt Source: [[sources/med3-book1-ch12|丁、間質性肺疾]].
-- (B) 4. 一位 42 歲男性病患,10 年前在化學工廠工作時,因為工安意外,吸入大量 ammonia。當時因為 acute inhalation lung injury 引起 ARDS,住院置入氣管內管及使用呼吸器治療,2 星期後脫離呼吸器,出院回家。但是病患從此患有慢性咳嗽、大量黃痰及漸進性呼吸困難,同時併發反覆肺部感染。下列敘述何者錯誤? Source: [[sources/med3-book1-ch21|戊、感 染]].
 
 ## Clinical Caveats
 

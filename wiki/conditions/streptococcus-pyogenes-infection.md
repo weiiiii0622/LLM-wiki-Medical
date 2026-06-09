@@ -24,6 +24,7 @@ sources:
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch17]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Streptococcus pyogenes infection (A 群鏈球菌感染)'
   - 'Streptococcus pyogenes infection'
@@ -38,7 +39,7 @@ tags:
 
 ## Summary
 
-GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSGN。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -62,9 +63,11 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch17]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 1. 深頸部感染的致病菌種通常是混合需氧菌與厭氧菌,並且以口腔內菌種為多數。 - (1) Group A beta-hemolytic streptococcal species (Streptococcus pyogenes) • - (2) Alpha-hemolytic streptococcal species (Streptococcus viridans, Streptococcus pneumoniae) · Staphylococcus aureus · - (3) 常見厭氧菌: Bacteroides melaninogenicus、Bacteroides oralis。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - ...| | | | 或寡尿才考慮抽腹水 | | | | | | 目前觀念 積極抽腹水,只要有中度以上腹水,病人 | | | | | | 臨床上有不適即可抽腹水 | | | | | ・預防血栓 | (1) 診斷方法:arterial blood gas、ventilation/perfusion | | | | | | scan 和 CT scan。 | | | | | | (2) 預防方法: 穿彈性襪、給予 heparin (Hct > 55% 考 | | | | | | 慮給予 | ) • | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (1) 使用 $CO_2$ 的優點:血液的溶解度高,發生 gas embolism 機率較低,且不會氣爆; Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
@@ -82,7 +85,6 @@ GAS 可造成咽炎、皮膚感染、猩紅熱、毒性休克、風濕熱與 PSG
 - 當 Group A Streptococci(GAS)感染上呼吸道造成 GAS pharyngitis 外,GAS 產生pyrogenic exotoxin(erythrogenic toxin)造成一連串的發炎反應導致猩紅熱。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - 從咽喉處採集檢體做 GAS antigen detection test 與病原體的培養。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
 - (D) 猩紅熱的致病機轉和 A 群鏈球菌 (Group A streptococcus) 所產生的內毒素 (Endotoxin) 有關 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...abdomen | Surgery | | Atresia + distalTEF | Newborns | Regurgitation of feedings Aspiration | Esophagogram Plain film: gas-filled abdomen | Surgery | | H-type TEF | Infants to adults | Recurrent pneumoniaBronchiectasis | EsophagogramBronchoscopy † | Surgery | | Esophageal stenosis | Infants to adults | DysphagiaFood impaction | Esophagogram Source: [[sources/med4-book1-ch02|乙、消化系統]].
 
 ## Clinical Caveats
 

@@ -26,6 +26,7 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch05]]"
   - "[[sources/med6-book1-ch08]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Pituitary gland (腦垂體)'
   - 'Pituitary gland'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+腦垂體調控多條內分泌軸，病變可造成過量、低下或壓迫。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch05]]
 - [[sources/med6-book1-ch08]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- 1. 如何避免帶給病人過多的術中壓力,是外科手術治療的一大挑戰。手術當中形成的壓力除了會引發下視丘一腦下垂體一腎上腺軸 (hypothalamic-pituitary-adrenal gland axis) 的作用外,也會造成心理層面的影響。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - | 分 類 | 成 因 | 發生率 | |----------------------------------|-----------------------------------|--------| | Hypothalamic-pituitary disorders | 先天性:Kallmann syndrome | 1~2% | | (Hypogonadotropic hypogonadism) | 後天性:腫瘤、受傷、手術、電療、 | | | (Secondary hypogonadism) | 藥物、高泌乳素等 | | | Primary testicular disorders | 先天性:Klinefelter's syndrome | 30~40% | | (Hyp Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - ...inefelter's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 / 腦垂體問題 | ・使用 gonadotropin (下視丘或腦垂體問題) | | | | ・GnRH 脈衝治療 (下視丘問題) | | | 生殖道感染 | ・抗生素治療(至少10天) | | | 精子自體免疫疾病 | ・高劑量類固醇 (40~80 mg/day) ・ 使用 ICSI | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - (2) 平均月經週期為 28±7 天,黃體期固定 14 天,變動的是濾泡期。在初經來的 5~7 年及停經前的 10 年因下視斤-腦垂體-卵巢軸線功能不穩,月經週期變動較大。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -86,7 +89,6 @@ tags:
 - ## N. 腦下垂體腫瘤 (Pituitary tumor) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
 - 5.50%的病患在動脈瘤破裂造成 SAH 前會有所謂的「warning symptoms」: - (1) 動脈瘤的 mass effect: - a. 壓迫到動眼神經造成 EOM palsy、ptosis、dilated unreactive pupil。 - b. 壓迫到視神經。 - c. 壓迫到腦垂體,造成內分泌異常。 - d. 半身癱瘓。 - (2) 小出血(sentinel hemorrhage),平均發生在 SAH 的十天前。 - (3) 小血管梗塞造成暫時性失明(amaurosis fugax)或是視覺半盲(homonymous hemianopsia),平均發生在 SAH 的 21 天前。 - (4) Seizures • - (5) 頭痛。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
 - 2. 下視丘(hypothalamus):體內恆定 - (1) 位於視丘(thalamus)之下、腦垂體(pituitary)之上。 - (2) 與體內恆定、調節體溫有關。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- ...-------------------------------------------------------------| | (Optic nerve) 受損 | 左眼視野受損 | ( a | | 視交叉(Chiasma) 内側壓迫*(腦垂體腫瘤) 左外側壓迫 | | D b | | | | O C | | ) ` | 大 個領 野 | d d | | . Geniculate nu.) | 石侧帆到"又"俱 | u u | | 往下經顳葉處的視放射 | 右上視野受損 | (1) e | | 往上經額葉處的視放射 | 右下視野受損 | f | | 左視放射 (Radiation) | | g | | | 內側壓迫*(腦垂體腫瘤)左外側壓迫、Geniculate nu.)往下 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 
 ## Clinical Caveats
 

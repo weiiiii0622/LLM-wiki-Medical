@@ -22,6 +22,7 @@ sources:
   - "[[sources/med5-book5-ch01]]"
   - "[[sources/med5-book5-ch06]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Emphysema (肺氣腫)'
   - 'Emphysema'
@@ -36,7 +37,7 @@ tags:
 
 ## Summary
 
-肺泡壁破壞與過度充氣造成氣體交換障礙。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺泡壁破壞與過度充氣造成氣體交換障礙。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -58,9 +59,11 @@ tags:
 - [[sources/med5-book5-ch01]]
 - [[sources/med5-book5-ch06]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...(A) 腦波 (B) 心電圖 | 醫六-6 | | (C) 血壓 (D) 血氧飽和度 | | | 32. 下列何者不會影響 CVP 測量循環血量之正確性? | 99(一)專 | | (A) 病人個別之差異 | 醫六-1 | | (B) 慢性肺氣腫 | | | (C) 二尖瓣閉鎖不全 | | | (D) 三尖瓣狹窄 | | | 【詳解】本題一律給分。 | | | | catheter)的時間對應關係,以下敘述何者錯誤? (A) a 波反應的是心房收縮,當病人有心房顫動(atrial fibrillation)的情形,此波會更加明顯,稱為加農波(cannon wave) (B) c 波反應的是心室收縮早期時,三尖瓣向上所產生的波形 (C) v 波代表的是靜脈血回流時遇到關閉三尖瓣所 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - ...眼窩外破性骨折(blow-out fracture):由於外力撞擊使眼眶壓力急速上升, 使得骨壁較薄的眼眶底部或內側壁產生骨折,向外爆裂。 - (a) 症狀:眼球內陷、複視(因下直肌常下陷卡在骨折處,造成眼球向上轉動受限)、眼瞼皮下氣腫(emphysema)、眼周淤血、門牙、臉頰麻木感(因 傷到 infraorbital nerve)。 - (b) 診斷:眼眶外傷病史、X 光檢查或 CT 檢查可見到眼外肌可在眼窩底部骨 折處或掉到鼻竇、強力眼肌牽引試驗(forced duction test)為陽性,例如 用鑷子夾住下直肌向上提,也無法讓眼球向上轉,因此時下直肌已經卡 在眼眶底部骨折處了。 - (c) 治療:可先冰敷數小時,並給予抗鼻充血藥物及抗生素。若有以下情形 須考慮施行手術(在外傷 Source: [[sources/med6-book2-ch15|卯、眼眶]].
 - (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 - (D) 27. 下列有關氣腫性腎盂腎炎 (emphysematous pyelonephritis) 的治 101(ニ) 専 療原則中,何者是治療初期較少考慮的? 醫五-69 - (A)控制血糖 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].

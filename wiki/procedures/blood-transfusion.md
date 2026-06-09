@@ -39,6 +39,7 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book1-ch10]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Blood transfusion (輸血)'
   - 'Blood transfusion'
@@ -53,7 +54,7 @@ tags:
 
 ## Summary
 
-依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+依 RBC、platelet、FFP、cryoprecipitate 等成分補充氧合能力、止血或凝血因子。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -92,9 +93,11 @@ tags:
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book1-ch10]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- (4) 體溫監測 (body temperature)。 - a. 監測體溫的目的,第一個是及早發現惡性高熱,第二個是要防止低體溫的產生,低體溫會增加心肌梗塞機率、傷口感染機率、凝血功能異常、增加輸血需求量…等不好的結果。 - b. 中心體溫 (core temperature): 為身體血流最豐富的地方,常見的 core temperature 測量位置有: 肺動脈 (pulmonary artery)、遠端食道 (distal esophagus)、鼓膜 (tympanic membrane)、或鼻咽部 (nasopharynx)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - (A) 雙胞胎輸血症候群 (twin-twin transfusion syndrome) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - 【詳解】雙胞胎間輸血症候群(Twin-twin transfusion syndrome, TTTS)一般發生於單絨毛膜雙胞胎,診斷標準為超音波發現一個胎兒(捐贈者)為羊水稀少(最大垂直徑8 cm)。在生產時,捐贈者可能會出現急性貧血和低血容;而受贈者可能發生急性紅血球增多症,但不常見。超音波除可觀察兩者表徵的差異外,亦可用來作臨床分期。故選(D)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
 - (D) 9. 美莉產檢時超音波發現,此雙胞胎有兩個羊膜腔,但共用一個胎盤,會有發生雙胞胎間輸血症候群(twin-to-twin transfusion syndrome)的風險,關於雙胞胎間輸血症候群(TTTS),下列敘述何者錯誤? Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -112,7 +115,6 @@ tags:
 - ...寬,或以公式 4 + age (yr) / 4 French 來計算最佳管徑。 - c. 環狀甲狀軟骨切開術(Cricothyroidotomy): 因小於 12 歲以下孩童氣管較軟,不建議使用。 - (2) Circulation:輸液和輸血。 - a. 晶體溶液(crystalloid)快速灌注(bolus)以 20 mL/kg 來補充流失的體液。對於小於 6 歲孩童靜脈注射(IV)並非安全穩固的輸液管路,可考慮骨內注射(intraosseous, IO)。當失血超過預估總血量的 50% 或以雙倍灌注 40 mL/kg 輸液後仍明顯有低血容生命徵象表現時,為啟動輸血的適當時機。 Source: [[sources/med5-book4-ch08|甲、概 論]].
 - (D) 1. 一名 3 歲 15 公斤的男童從 6 層樓跌落送來急診,生命徵象為心 107 (二) 專 跳 160 下 / 分、血壓 70/30 mmHg、呼吸 30 下 / 分,適當的急救 醫五 -47 輸液給法為何? - (A) 血漿替代液(Gelofusine) 一次 300 毫升快速滴注, 給與一次後若沒有反應即輸血 - (B) 新鮮冷凍血漿 (fresh frozen plasma) 一次 300 毫升快速滴注, 給與一次後若沒有反應即輸紅血球濃厚液 (packed RBC) - (C) 林格氏液(Ringer's solution)一次 150 毫升快速滴注,給與兩次後若沒有反應即輸血 - (D) 生理食鹽水(normal saline) 一次 300 毫升快速滴注,給與兩次後若沒有反應即輸血 Source: [[sources/med5-book4-ch08|甲、概 論]].
 - 【 詳解 】 需快速輸注量為 $15~kg \times 20~mL/kg = 300~mL$ ,常見 crystalloid fluid 為 normal saline 或 lactate ringers。(A) Gelofusion 不建議使用。(B) 輸血為最後選項。(C) 輸液量不足。(D) 為正確 答案。 Source: [[sources/med5-book4-ch08|甲、概 論]].
-- 【詳解】不論是氣胸或血胸均應先放置胸管,以免立即的心肺 循環失能,而若懷疑血胸則另需同時考慮輸液和輸血。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 
 ## Clinical Caveats
 

@@ -6,6 +6,7 @@ updated: 2026-06-09
 sources:
   - "[[sources/med6-book2-ch03]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Lacrimal gland tumor (淚腺腫瘤)'
   - 'Lacrimal gland tumor'
@@ -20,15 +21,19 @@ tags:
 
 ## Summary
 
-淚腺腫瘤可造成 superotemporal orbital mass、眼球下內移位或疼痛，良惡性處置差異大。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+淚腺腫瘤可造成 superotemporal orbital mass、眼球下內移位或疼痛，良惡性處置差異大。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med6-book2-ch03]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 1. 多形性腺瘤 (Pleomorphic adenoma): 俗稱 benign mixed tumor, 為最常見的良性腫瘤,發生率 60%。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 2. Adenoid cystic carcinoma: 20% Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 4. Carcinoma ex-pleomorphic adenoma: 10% Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - F. 淚腺腫瘤 (Lacrimal gland tumor) 24 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - #### F. 淚腺腫瘤 (Lacrimal gland tumor) Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
 - 1. 淚腺發生腫瘤大都是因為上皮細胞變異所引起,其中約一半是良性、一半是惡性。 - (1) 良性淚腺腫瘤:包括多形性腺瘤(pleomorphic adenoma;又稱良性混合細胞瘤)、良性反應性淋巴增生(benign reactive lymphoid hyperplasia)、嗜酸細胞瘤(oncocytoma)等,這些腫瘤一般發生於四十到五十歲的患者,大都生長緩慢。 - (2) 惡性淚腺腫瘤:包括腺樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous ce Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].

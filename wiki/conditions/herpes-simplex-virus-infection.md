@@ -20,6 +20,7 @@ sources:
   - "[[sources/med6-book2-ch05]]"
   - "[[sources/med6-book2-ch04]]"
   - "[[sources/med6-book2-ch17]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Herpes simplex virus infection, HSV (單純皰疹病毒感染)'
   - 'Herpes simplex virus infection, HSV'
@@ -34,7 +35,7 @@ tags:
 
 ## Summary
 
-可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+可造成皮膚黏膜病灶、角膜炎、腦炎或新生兒 disseminated infection。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +55,11 @@ tags:
 - [[sources/med6-book2-ch05]]
 - [[sources/med6-book2-ch04]]
 - [[sources/med6-book2-ch17]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 1. 疱疹性齒齦口腔炎(herpetic stomatitis)是由第一型單純疱疹病毒(herpes simplex virus)感染所引起。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - 單純疱疹性角膜炎 (Herpes simplex keratitis) Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - (1) 詳見前一張病毒性結膜炎的部分。其在角膜造成的症狀與單純疱疹性角膜炎類似,治療也用抗病毒藥物(acyclovir)和類固醇。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
 - (2) 這裡愛考的是:單純疱疹性角膜炎造成的上皮性角膜炎是樹枝狀潰瘍,而帶狀疱疹性眼炎造的上皮性角膜炎則是偽樹枝狀潰瘍(較小且樹突末端並沒有澎大)。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
@@ -81,7 +84,7 @@ tags:
 
 ## Related Pages
 
-- 待補。
+- [[conditions/herpetic-gingivostomatitis|Herpetic gingivostomatitis (疱疹性齒齦口腔炎)]]
 
 ## Follow-up
 

@@ -19,6 +19,7 @@ sources:
   - "[[sources/med6-book3-ch09]]"
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch09]]"
 aliases:
   - 'Peripheral nerves (周邊神經)'
   - 'Peripheral nerves'
@@ -33,7 +34,7 @@ tags:
 
 ## Summary
 
-周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+周邊神經包含 motor、sensory 與 autonomic fibers，疾病常依軸突、髓鞘、單神經或多發神經分類。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -52,9 +53,13 @@ tags:
 - [[sources/med6-book3-ch09]]
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch09]]
 
 ## Key Details From Sources
 
+- 3. Neuropathic pain:疼痛方式以刺麻、燒灼的感覺表現。通常是因為中樞神經系統或 周邊神經系統的受傷所導致。如帶狀皰疹後疼痛(postherpetic neuralgia)與糖尿病 神經病變(DM neuropathy)。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
+- 1. 慢性疼痛(Chronic pain):慢性疼痛的定義是持續性大於三個月的疼痛。常見的慢性疼痛包括下背痛(low back pain),中樞或周邊神經系統的疼痛(neuropathic pain),帶狀皰疹後疼痛(postherpetic neuralgia)、癌症疼痛(cancer pain),以及筋肌膜炎疼痛(myofascial pain)。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
+- c. 輔助性療法:包含針灸、Transcutaneous electric nerve stimulation(TENS)、Peripheral nerve blocks、Stellate ganglion block、芳香療法、其他傳統治療。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
 - 1. NCV 是用來檢查周邊神經病變,將表面電極放在該神經所掌管的肌肉上,用電極刺激神經後,可於其支配的感覺神經或肌肉上記錄到感覺神經電位波(sensory nerve action potential, SNAP)、複合肌肉動作電位波(compound muscle action potential, CMAP)和特殊反射電位波(H-reflex 及 F-response),根據這些反應波的傳導潛期(latency)、間期(duration)、振幅(amplitud Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - (3) F 反應大多用在偵測多發性周邊神經病變(polyneuropathy)和神經叢病變(plexopathy),對神經根病變的敏感度不佳。最常使用在 Guillain-Barre 症候群的早期診斷。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - 1. SSEP 是經由刺激體感覺神經引發反應,沿著體感覺傳導路徑,一路從周邊神經 →神經叢→神經根→脊髓(posterior column)→再經腦幹(contralateral medial lemniscus)、視丘到達大腦感覺皮質。有別於傳統的感覺神經檢查只能偵測週邊神 經的遠端病變,體感覺誘發電位則可在周邊神經路徑、脊髓及頭部紀錄電位,評估 整個傳導徑路的病變。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
@@ -70,9 +75,6 @@ tags:
 - IV. 糖尿病神經疾病 (DM Neuropathy) 169 - A. 對稱性糖尿病神經病變:多發性神經病變 (Polyneuropathy) 169 - B. 非對稱性糖尿病神經病變:顱神經麻痺(Cranial nerve palsy) 169 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - 再介紹去 髓鞘疾病,侵犯中樞神經為主的是多發性硬化症 (multiple sclerosis),侵犯周邊神經為主的是急性發炎性脫髓鞘型多發神經病變 (AIDP),AIDP 也是侵犯運動神經為主。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
 - | | 包含 | 特徵 | |------------|--------------------------|------------------------| | 上運動神經元 | 大腦運動皮質(神經元)→ | 肌肉痙攣、 | | (Upper MN) | Corticospinal tract (路徑) | 肌腱反射增加、有 Babinski sign | | 下運動神經元 | 脊髓前角細胞(神經元)→ | 肌肉無力、萎縮 | | (Lower MN) | 周邊神經(路徑) | 肌束顫動 (Fasciculation) | Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (A) 糖尿病多發性神經病變(diabetic polyneuropathy) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- | 分類 | 細分類 | 解剖上病灶 | 肌肉張力 | 説明 | |------|---------|---------|-----------------------------|---------| | 陸辛田 | 上運動神經元 | 大腦、脊髓病灶 | 彈簧刀 (Clasp knife) | 拉開難、收回易 | | 隨意肌 | 下運動神經元 | 周邊神經病灶 | 低張力 (Hypotonia) | 拉開易、收回易 | | 不隨意肌 | 錐體外系統病灶 | 巴金森氏症 | 鉛管式 (Lead piperigidity) | 拉開難、收回難 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- 1. 結果判讀順序: Protein → WBC → Sugar - (1) 先看 protein ,protein 高代表發炎,只有 protein 高,WBC 不高、glucose 不低, 考慮自體免疫疾病,如 Guillain-Barre 症候群(= acute inflammatory demyelinating polyneuropathy = AIDP)、多發性硬化症(multiple sclerosis)。 - (2) 再看 WBC,如果加上 WBC 高、但 glucose 不低,代表有病毒感染。 - (3) 最後看 glucose,如果 glucose 低,代表是黴菌、結核、細菌性腦膜炎;其中可依白血球的量、lymphocyte 或 PMN 為主來進一步鑑別。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
 
 ## Clinical Caveats
 
@@ -81,6 +83,7 @@ tags:
 
 ## Related Pages
 
+- [[conditions/adenoid-cystic-carcinoma|Adenoid cystic carcinoma (腺樣囊性癌)]]
 - [[anatomy/brachial-plexus|Brachial plexus (臂神經叢)]]
 - [[conditions/brachial-plexus-injury|Brachial plexus injury (臂神經叢損傷)]]
 - [[conditions/carpal-tunnel-syndrome|Carpal tunnel syndrome (腕隧道症候群)]]

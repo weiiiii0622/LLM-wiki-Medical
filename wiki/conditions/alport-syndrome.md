@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch03]]"
   - "[[sources/med4-book1-ch10]]"
   - "[[sources/med4-book1-ch11]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Alport syndrome (亞伯氏症候群)'
   - 'Alport syndrome'
@@ -21,16 +22,20 @@ tags:
 
 ## Summary
 
-type IV collagen 異常造成遺傳性腎炎，常合併感音性聽損與眼部病變。 本頁已整合至 `醫(四)第1冊小兒`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+type IV collagen 異常造成遺傳性腎炎，常合併感音性聽損與眼部病變。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch03]]
 - [[sources/med4-book1-ch10]]
 - [[sources/med4-book1-ch11]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (b) 26~40 分貝: mild hearing loss。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (c) 41~70 分貝:moderate hearing loss。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (d) 71~90 分貝: severe hearing loss。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - 2. Alport syndrome (hereditary nephritis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
 - # C. 亞伯氏症候群(Alport syndrome, AS) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].

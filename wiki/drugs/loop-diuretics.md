@@ -49,6 +49,9 @@ sources:
   - "[[sources/med6-book1-ch18]]"
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book2-ch16]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Loop diuretics (亨利氏環利尿劑)'
   - 'Loop diuretics'
@@ -63,7 +66,7 @@ tags:
 
 ## Summary
 
-改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+改善鬱血與肺水腫症狀，長期死亡率效益需與疾病修飾藥物區分。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -112,9 +115,15 @@ tags:
 - [[sources/med6-book1-ch18]]
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book2-ch16]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (C) mannitol 與利尿劑 (furosemide) 對急性腎衰竭病人之幫助 不大 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (1) 高血壓:目前建議除了利尿劑外,其他高血壓藥物術前可以正常服用,可提 醒病患以少量水吞服。對於手術的病患,利尿劑可能會造成電解質紊亂。 ACEI/ARB 類的藥物術前仍可服用,但可能會造成術中低血壓(profound hypotension)影響術中評估低血壓的準確性。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...陣發性的聽**力喪失(尤其在低頻)、耳鳴或耳脹、反覆性的 vertigo。 - (4) 處置: - a. 保守性治療:(對於大部分的病人僅能減輕症狀,無法完全治癒) - (a) 低鹽飲食。 - (b) 限制酒精與咖啡因的攝取。 - (c) 利尿劑。 - (d) 前庭功能抑制劑 (Meclizine)。 - (e) 鎮靜劑如 BZD 類藥物。 - (f) 中耳 Gentamycin 注射。利用 Gentamycin 的耳毒性,來破壞耳蝸內部聽覺 細胞與平衡細胞。可改善量眩感但造成聽力喪失。 - b. 手術: - (a) 內淋巴囊減壓。 - (b) 迷路切除術。 - (c) 平衡神經截斷術。 - (5) 約35%的病患會出現雙側性的梅尼爾氏症,因此需針對正常耳做長期追蹤。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
 - ...及血液濃縮改善情況來調整輸 | | | | 液補充 | 液的給 | 予。 | | | | | (2) 補充 Albumin,拉住血管內液體,避免給予的輸液 | | | | | | 滲出血管外,加重腹水產生。 | | | | | | (3) 利尿劑:在大量的輸液補充後,尿量仍沒有增加, | | | | | | 可考慮使用利尿劑;但在低血壓或明顯血液濃縮下 | | | | 187 | | 不可使用利尿劑。 | | | | | ・抽腹水 | 過去條件 嚴重腹水造成持續腹脹、腹痛、呼吸困難 | | | | | | 或寡尿才考慮抽腹水 | | | | | | 目前觀念 積極抽腹水,只要有中度以上腹水,病人 | | | | | | 臨床上有不適即可抽腹水 | | | | | ・預防血栓 | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
 - 【詳解】此病人診斷應為卵巢禍度刺激症候群,因而管捅诱性 增加,大量血管外的渗出液而導致臨床症狀。此類病人並不建 議常規使用利尿劑,除非在大量的輸液補充後,尿量仍沒有增 加,才可考慮使用利尿劑,且使用利尿劑前應先評估血壓和血 比容,在低血壓或明顯血液濃縮下,不建議使用利尿劑。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
@@ -130,9 +139,6 @@ tags:
 - (e) 藥物方面 (drug-induced): 抗精神病藥物 (antipsychotics)、抗憂鬱劑 (antidepressants)、降血壓劑 (β-blocker、利尿劑;α-blocker 最不易導致 ED)、抽菸、酒精 (一天酒精攝取>15 g)、胃酸抑制劑 (H2 blocker)、 女性荷爾蒙 / 抗男性賀爾蒙。 Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (2) 腎上腺皮質的球狀帶過度增生: - a. 單側增生:可手術切除。 - b. 雙側增生(比較常見):不手術,以保鉀利尿劑(spironolactone)+ Amiloride 治療。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
 - a. 可用 Digoxin、利尿劑、血管擴張劑等來控制心衰竭,一般追蹤到一至兩歲 左右假使 VSD 自然閉合的機率不大則來決定是否開刀。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- a. 內科:新生兒時期若有立即性症狀,給予 PGE1 維持動脈導管開放,若同時合併有心臟衰竭則給予強心劑、利尿劑、氧氣等。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- b. 如果有症狀可給予利尿劑降低左心房壓,β-blocker 或 CCB 維持 sinus rhythm。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- ...或先天性異常都 有可能。 - (3) 症狀:呼吸困難、端坐呼吸、肺水腫、肺高壓、atrial fibrillation。症狀嚴重度和 閉鎖不全程度相關,mild MR 患者幾乎不會有症狀, - (4) 處置方式和 MS 相同,可先藥物處理(利尿劑、ACEI),當藥物無法控制,症 狀持續嚴重、發展成肺動脈高壓、左心室功能惡化,則考慮手術修補。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 
 ## Clinical Caveats
 

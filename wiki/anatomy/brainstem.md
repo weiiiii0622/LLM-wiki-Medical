@@ -30,6 +30,9 @@ sources:
   - "[[sources/med6-book3-ch09]]"
   - "[[sources/med6-book3-ch02]]"
   - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch11]]"
+  - "[[sources/med6-book4-ch05]]"
 aliases:
   - 'Brainstem (腦幹)'
   - 'Brainstem'
@@ -44,7 +47,7 @@ tags:
 
 ## Summary
 
-中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+中腦、橋腦、延腦含腦神經核、長徑路與生命中樞，病灶可造成交叉性神經缺損。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -74,9 +77,18 @@ tags:
 - [[sources/med6-book3-ch09]]
 - [[sources/med6-book3-ch02]]
 - [[sources/med6-book3-ch01]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch11]]
+- [[sources/med6-book4-ch05]]
 
 ## Key Details From Sources
 
+- ...,例如:開 T12 的脊髓腫瘤切除術,可以在病人的雙腳給他電刺激,在靠近腦部感覺 皮質區(sensory cortex)的頭皮處監測是否有正常訊號傳入,來判斷是否有 傷到脊髓,但如果在手部給他電刺激就測不到 T12 的神經損傷。 - b. 腦幹聽覺誘發電位(BAEP):經由耳塞傳入聲音刺激,可反應出聽覺傳導路徑,常用於後顱窩手術的監測,避免損傷腦幹或聽神經。 - c. 視覺誘發電位(VEP):可在眼前輕微閃光產生刺激反應,用於視神經或腦下垂體手術。但臨床上很少使用。 - (2) 運動誘發電位(motor evoked potential): 監測脊髓路徑或是大腦運動皮質區的完整性。例如:開腦瘤的手術,如果怕切到運動皮質區造成病人開完刀癱瘓,可在手術中刺激局部大腦皮質來監測運動 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- ...oked potential, EP)監測術中神經功能的敘述,下列何者錯誤? (A) 體神經誘發電位(somatosensory evoked potential, SSEP)常使用於脊椎手術監測脊椎神經是否損傷 (B) 聽覺神經誘發電位(brainstem auditory evoked potential, BAEP)常於切除聽覺神經瘤手術中使用 (C) 視覺神經誘發電位(visual evoked potential, VEP)常使用於一般頸椎手術 (D) 運動神經誘發電位可以使用於脊椎手術監測脊椎運動神經是否損傷 | 98(二)專醫六-6 | | | 歷(PaCO2)上升的原因,下列何者錯誤? (A) 體溫逐漸下降 (B) 腹腔內二氧化碳的吸收 (C) 麻醉深度不足下,代謝率上升 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 5. 中樞性聽力障礙(Central hearing loss) - (1) 中樞性聽力障礙指的是腦幹至大腦皮質之間的聽力路徑或語言中樞受損所造成 的語言理解障礙。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 2. 病人通常會抱怨頭暈並且伴隨外界或本身旋轉、傾斜的幻覺。可以分成周邊型暈眩 (內耳前庭系統問題)或中樞型暈眩(腦幹、小腦問題)這兩種原因。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 1. 簡介: - (1) 因為腦幹或小腦的平衡系統受到損傷所帶來的暈眩感,稱作中樞型暈眩。 - (2) 中樞型暈眩症通常會伴隨其他神經學症狀,包括說話模糊不清以及複視等,另 外也會出現 vertical 或 torsional 的 nystagmus。 - (3) 噁心、嘔吐與天旋地轉的感覺程度與周邊型暈眩相比較輕微。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (2) Opioid receptor 主要位於三處: - a. 腦幹。 - b. 脊髓。 - c. 消化道與泌尿道的壁內神經叢。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
 - ii. 肌束陣彎(myokymia): 為一群運動單元連續反覆放電引起肌肉慢速收縮,該肌肉上的皮膚看到蠕動的情形,見於神經病變,分為臉部肌束陣彎(multiple sclerosis、brainstem neoplasm、Bell's palsy)和肢體肌束陣彎(radiation plexopathy、compression neuropathy、響尾蛇咬傷中毒)。 - \*聲音像 "marching soldiers" (正步走的士兵的腳步聲)。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - 1. SSEP 是經由刺激體感覺神經引發反應,沿著體感覺傳導路徑,一路從周邊神經 →神經叢→神經根→脊髓(posterior column)→再經腦幹(contralateral medial lemniscus)、視丘到達大腦感覺皮質。有別於傳統的感覺神經檢查只能偵測週邊神 經的遠端病變,體感覺誘發電位則可在周邊神經路徑、脊髓及頭部紀錄電位,評估 整個傳導徑路的病變。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - 3. 臨床應用範圍極廣,包括週邊神經病變、脊髓外傷、腦幹及視丘病變、腦血管病變、 及評估昏迷患者之預後等,甚至應用於脊椎手術時的監視以減少手術後遺症。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
@@ -89,12 +101,6 @@ tags:
 - (D) 此病例可採用更換較大的骨髓內釘(intramedullary nail)及骨移植(bone grafting)進行治療 Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (C) 鎖定式骨髓內釘固定 (intramedullary interlocking nail) Source: [[sources/med5-book6-ch03|丙、創 傷]].
 - (2) 影像:X光: central lytic lesion in medullary canal,可能會出現如「毛玻璃狀」(ground-glass appearance)的表現(一團白色); punched-out lesion,但是邊界明顯;周圍骨皮質變薄、擴張(Cortex is thin and expanded);近端股骨會逐漸變形,形狀如牧羊人的枴杖(shepherd's crook deformity)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- 4. 骨肉瘤 (Osteosarcoma, osteogenic sarcoma, OGS): - (1) 簡介:最常見的原發骨惡性肉瘤(最常見的原發性惡性骨腫瘤為 myeloma),其中又以 intramedullary OGS 最常見,容易轉移肺部。 - a. Primary: 十幾二十歲的小孩子和年輕人(2nd decade), 男多於女, 常會被誤 判為運動傷害而延誤治療。 - b. Secondary: 五、六十歲的中老年人(6th decade),容易出現在照過放射線或本來有 primary malignant bone tumor 的病人身上(如: Paget's disease)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- 1. 軟骨瘤 (Chondroma): - (1) 簡介: - a. 分化良好的良性軟骨長骨的表面,好發於 20~50 歲的青壯年。 - b. 生長部位如果在骨頭中央(intramedullary cavity),則稱為 enchondroma,最常見於手骨頭(超過一半的比例)及近端股骨。 - (2) 症狀:無症狀。但若有骨折或惡性化時,則會產生疼痛。 - (3) 影像: - a. X-ray: 長得慢,所以沒有 reactive bone,大多為 expansion 造成 shallow cortical defect (骨節膨大, cortex 變薄,看起來透光度較高)。 - b. 如果出現 cortical bone Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (1) 治療轉子間骨折的基本原則是手術內固定合併復位(Sliding hip screwimplant):穩定型以滑動式髖關節螺絲釘(sliding hip screw,常用的為 dynamic hip screw (DHS))為內固定器的首選,不穩定型以 intramedullary hip screw (髖骨髓內釘)為內固定的首選。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (intramedullary hip screw) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- ...的敘述,何者錯誤? 醫五-47 - (A) 神經母細胞瘤源自於神經 細胞 (neural crest cells),是交感神經系統的惡性腫瘤 - (B) 大約有 65% 的神經母細胞瘤是發生在腹部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母細胞瘤的存在及其是否已有轉移,也可用 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- (1) 分類:臨床上以組織學分類可分為五類 - a. 浸潤性乳腺管癌(infiltrating ductal cancer):是最常見的乳癌,佔75~80%。 - b. 浸潤性小葉癌 (infiltrating lobular cancer): 6~8%。 - c. 其他類型: - (a) 髓樣癌 (medullary cancer): 5~8%。 - (b) 黏液性癌 (mucinous cancer): 2~4%。 - (c) 管狀癌 (tubular cancer): 1~2%。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
 
 ## Clinical Caveats
 

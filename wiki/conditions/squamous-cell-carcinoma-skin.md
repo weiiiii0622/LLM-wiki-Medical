@@ -20,6 +20,8 @@ sources:
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book2-ch02]]"
   - "[[sources/med6-book2-ch03]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch14]]"
 aliases:
   - 'Cutaneous squamous cell carcinoma, cSCC (皮膚鱗狀細胞癌)'
   - 'Cutaneous squamous cell carcinoma, cSCC'
@@ -34,7 +36,7 @@ tags:
 
 ## Summary
 
-角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+角質細胞惡性腫瘤，與 UV、免疫抑制、慢性傷口與前驅病變相關。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -54,9 +56,15 @@ tags:
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book2-ch02]]
 - [[sources/med6-book2-ch03]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch14]]
 
 ## Key Details From Sources
 
+- 2. 在所有的口腔癌之中,約 90% 為鱗狀細胞癌(squamous cell carcinoma),其餘是腺癌(adenocarcinoma)。好發的部位以頰黏膜、舌頭側邊與牙齦最多。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 1. 最常見的組織學型態為鱗狀上皮細胞癌(SCC),幾乎占了80%。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 1. 目前已知鱗狀上皮細胞癌與腺癌和接觸鎳的粉塵 (nickel dust)、芥子氣 (mustard gas, 一種毒氣)、二氧化釷 (thorotrast)、isopropyl oil、鉻 (chromium) 有關。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 6. Squamous cell carcinoma: 少見,需考慮由其他部位轉移而來。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
 - 2. 眼部的併發症:約 70% 的病患會有眼睛方面的併發症,最常造成視網膜的病變。 - (1) 這些併發症包含:視網膜微細血管病變(microangiopathy)、各種伺機性感染、 卡波西氏肉瘤、視網膜或眼眶的淋巴癌、結膜鱗狀上皮細胞癌(SCC)、前虹彩 炎、慢性多發性視網膜浸潤(須以抗病毒藥物治療,對類固醇無效)等。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - (2) 鱗狀細胞癌(SCC): 比基底細胞癌少見很多,但卻更具侵略性。也好犯於下眼瞼,易經淋巴或血行性轉移。生長較快,少有表面血管。治療以手術為主(Moh's micrographic surgery)。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
 - (3) 皮脂腺癌 (Sebaceous gland carcinoma): 最常源自 Meibomian gland, 偶爾由 Zeis' gland 而來。好犯於上眼瞼,多發生在中年以上女性(大於 50歲),東方人尤多。看起來像霰粒腫,但因睫毛毛囊被破壞造成睫毛脱落為其特徵。高度 惡性易全身轉移,預後比 BCC、SCC 還差。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
@@ -71,10 +79,6 @@ tags:
 - 1. 惡性腫瘤中,以鱗狀上皮細胞癌(squamous cell carcinoma)最常見,但美國以食道 腺癌最常見。 - (1) 鱗狀上皮細胞癌(SqCC): - a. 機轉&成因:源自於食道黏膜,主要受環境暴露因子影響。 - b. 危險因子:吸菸和飲酒增高 5 倍機率,同時吸菸喝酒就提高 25~100 倍機率, 另與食用硝酸氨類食物、醃漬類食物、長期服用高溫熱飲、維他命 A 和礦物 質錳鋅缺乏有關。腐蝕性食入(caustic ingestion)、食道弛緩不能(ac Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ### Squamous cell carcinoma L category\*\*\* Source: [[sources/med5-book4-ch05|戊、食 道]].
 - ...ted" cancers reveals a squamous cell component, of if after further testing they remain undifferentiated, categorize as squamous cell carcinoma G3; \*\*\*, location is defined by epicenter of esophageal tumor. Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 1. 原發性腫瘤:鱗狀上皮細胞癌佔 2/3,其餘為類腺囊狀癌(adenoid cytsic carcinoma)。 - (1) 鱗狀上皮細胞癌(SqCC):可以局部、散在性或多發性,呈往外生長或潰瘍,約 1/3 病患一發現就有局部侵犯和轉移。 - (2) 類腺囊狀癌(Adenoid cystic carcinoma):舊稱柱狀瘤(cylindroma),腫瘤向黏膜內生長或沿著神經散佈。慢性生長腫瘤,主要侵犯氣管和主支氣管,1/3 在主支氣管發生,1/3 發現時已轉移,治療以腫瘤全部切除合併縱隔腔淋巴廓清,並盡量保留肺,放療可治療約 1/3 無法進行手術切除的患者。 Source: [[sources/med5-book4-ch06|己、氣管]].
-- (B) 1. 最常見的原發氣管內惡性腫瘤為: 107 (一) 專 醫五-27 (A) adenocarcinoma (B) squamous cell carcinoma (C) small cell carcinoma (D) carcinoid tumor (C) 2. 氣管分岔處(carina)在胸部 X 光所在的高度約相應於脊椎那一 106 (二) 專 醫五-18 個部位? (A) C6 (B) T1-2(C) T4-5(D) L2-3(D) 3. 有關 adenoid cystic carcinoma of lung 之敘述,下列何者正確? 105(二)專 ①大部分發生於肺周邊組織 ②大部分腫 Source: [[sources/med5-book4-ch06|己、氣管]].
-- | (A) | 6. 氣管最常見的惡性腫瘤為: | 100(一)專 | |-----|--------------------------------------------|---------| | | (A) squamous cell carcinoma | 醫五 -35 | | | (B) adenoid cystic carcinoma | | | | (C) carcinoid | | | | (D) adenoma | | | (C) | 7. 氣管為一管狀器官,下列關於其敘述何者為錯? | 99(一)專 | | | (A) 氣管為可移動的器官,在進行手術時常須將頸部伸展 | 醫五 -14 | | | (hyperextension) | | | | (B) 喉返神經位於氣管和 Source: [[sources/med5-book4-ch06|己、氣管]].
-- (3) 鱗狀細胞癌 (squamous cell carcinoma, SqCC): - a. 佔 30% 肺腫瘤,約 2/3 在中央發生,且易從外壓迫氣管,SqCC 易產生腫瘤中央壞死(central necrosis)和開洞(cavitation),組織學上呈現角質化(keratinization)、複層化(stratification)、細胞間橋(intercellular bridge Source: [[sources/med5-book4-ch03|丙、肺]].
 
 ## Clinical Caveats
 

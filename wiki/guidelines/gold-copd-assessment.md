@@ -41,6 +41,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book2-ch11]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch05]]"
 aliases:
   - 'GOLD COPD assessment (GOLD 慢性阻塞性肺病評估)'
   - 'GOLD COPD assessment'
@@ -55,7 +57,7 @@ tags:
 
 ## Summary
 
-COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -96,9 +98,14 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book2-ch11]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch05]]
 
 ## Key Details From Sources
 
+- 4. 呼吸系統:有無氣喘、COPD、或是平常有呼吸喘的情況,並評估其 NYHA class 或做 PFT(pulmonary function tests)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...社交性)、輕微肺部疾病、控制良好的高血壓或糖尿病、肥胖(30 控制良好的妊娠糖尿病、妊娠高血壓或子癲前症) | 0.27~0.4% | | III | 有嚴重的系統性疾病,讓日常生活受到限制。 | 控制不佳的高血壓或糖尿病、慢性阻塞性肺疾(COPD)、病態性肥胖(BMI > 40)、酒精成癮、規則洗腎、有中風或心肌梗塞病史(發作時間超過三個月以上)、冠狀動脈疾病、裝心臟節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併心衰竭的孕婦 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...Midazolam 等,主要加強 GABA 在 GABA receptor 的作用,造成神經抑制。 - b. 主要可用來當作鎮靜劑、使病人喪失記憶、減少焦慮感。 - (3) 藥物缺點: - a. 使用在年紀較大的病人,或者是慢性阻塞性肺病(COPD)、重症肌無力(MG)的病人,若劑量太高會造成呼吸抑制。 - b. 與抗癲癇類藥物如 Valproate 一同服用,會加強中樞抑制的效果。 - c. 通過胎盤,若在 first trimester 使用,可能會導致新生兒的先天缺陷。 - d. 過量中毒時,可使用 Flumazenil 作為拮抗劑。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
 - 2. 肺部復健適用於 COPD、asthma、cystic fibrosis、interstitial lung disease、lung cancer、lung surgery 及 neuromuscular disease 等病人。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 3. 肺部復健對 COPD 患者的好處: - (1) 台灣胸腔暨重症加護醫學會慢性阻塞性肺病診治指引(2007): 肺部復健對 COPD 之助益。(括號為證據等級) - a. 改善運動能力(level A)。 - b. 減少呼吸短促之感覺(level A)。 - c. 改善與健康相關的生活品質(level A)。 - d. 減少住院次數及住院日數(level A)。 - e. 減少 COPD 相關之焦慮及憂鬱 (level A)。 - f. 改善存活率(level B)。 - g. 在訓練期間結束後優點仍可持續(level B)。 - h. 心理支持是有助益(level C)。 - i. 呼吸肌之訓練是有助益(level C)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - 8. 長期氧氣治療: - (1) 肺疾患者(例如 COPD)進展到末期時,容易有低血氧的情形,甚至容易合併 酸血症,故會給予病患長期氧氣治療。 - (2) 目前大多數研究均指出氧氣治療可減輕呼吸困難、改善運動耐力和效能、減輕肺動脈高壓,降低死亡率減少住院次數改善運動量(增加耐力)、改善繼發性紅血球增多症(secondary polycythemia,因長期組織缺氧引起紅血球大量被製造)、改善生活品質。 - (3) 給氧原則為動脈血氧分壓不低於 60 mmHg,以及動脈血氧飽和度需大於 90% saturation。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
@@ -114,9 +121,6 @@ COPD 依症狀、肺功能與急性惡化風險分組治療。 本頁已整合�
 - ...--|------------------------| | Primary | Penetrating | | Secondary | Blunt | | - Chronic obstructive pulmonary disease (COPD) | Iatrogenic | | - Bullous disease | Mechanical ventilation | | - Cystic fibrosis | Thoracentesis | | - Pneumocystis-related | Lung biopsy | | - Congenital cysts | Venous catheterization | | - Idiopathic pulmonary fibr Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (C) 慢性阻塞肺病(COPD)引起的氣胸為續發性(secondary) 氣胸 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - (D) COPD 引起之 emphysema 與長期抽菸有密切相關 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (D) 1.30 天大的新生兒來到健兒門診,發現其眼白比較黃,經詢問得知 109( 二 ) 專 其大便顏色偏粉筆白(clay-colored stool),疑是膽道閉鎖。下列 醫五 -42 那一個檢查是診斷膽道閉鎖的黃金標準(gold standard)? - (A) 病毒血清檢查,包括弓漿蟲、德國麻疹病毒、巨細胞病毒、 疱疹病毒等與 B 型肝炎的檢查 - (B) 腹部超音波檢查 - (C) hepatobiliary iminodiacetic acid (HIDA) scintigraphy 檢查 - (D) 肝臟切片檢查 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- (2) 在歐美為 gold standard 的篩檢工具,但由於亞洲女性乳房較為緻密,有時易受干擾,必須輔以乳房超音波協助診斷,或先以乳房超音波作為篩檢工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- 【詳解】在歐美國家,乳房 X 光攝影為 gold standard 的篩檢工具,但由於亞洲女性乳房較為緻密,有時易受干擾,必須輔以乳房超音波協助診斷,或先以乳房超音波作為篩檢工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
 
 ## Clinical Caveats
 

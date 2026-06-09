@@ -16,6 +16,7 @@ sources:
   - "[[sources/med6-book2-ch10]]"
   - "[[sources/med6-book2-ch12]]"
   - "[[sources/med6-book3-ch07]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Fracture reduction and fixation (骨折復位與固定)'
   - 'Fracture reduction and fixation'
@@ -30,7 +31,7 @@ tags:
 
 ## Summary
 
-骨折治療包含 closed/open reduction 與 internal/external fixation，目的為恢復解剖、穩定骨折並減少軟組織傷害。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+骨折治療包含 closed/open reduction 與 internal/external fixation，目的為恢復解剖、穩定骨折並減少軟組織傷害。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -46,9 +47,12 @@ tags:
 - [[sources/med6-book2-ch10]]
 - [[sources/med6-book2-ch12]]
 - [[sources/med6-book3-ch07]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- a. 耳石復位術(canalith repositioning procedure, CRP)即為 Epley maneuver:藉著身體頭部姿勢之改變和重力的作用,而使脫落之耳石從半規管重新歸位到內耳前庭之橢圓囊內,耳石復位術的成功率很高,且施行一次耳石復位術的成功率約為 80%。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 假設做 Dix-Hallpike 發現病人頭轉右側時會出現向地迴旋眼震,表示為右後半規管 BPPV (小圖①)則 耳石復位術操作如下:②病人由坐姿快速向後躺,頭轉向患側 45°並向下懸 30°,維持 1 分鐘,③再將頭快速向健側轉 90°,維持 1 分鐘,⑤病人快速坐起,微低持 1 分鐘,⑤病人快速坐起,微低 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - 1. 牽引治療(traction): 分頸椎牽引與腰椎牽引,藉由牽引拉長及放鬆脊椎旁之肌肉 與韌帶,使椎間孔變大,或使椎間盤復位,得以減輕椎間盤突出、骨刺或是發炎組 織對神經的壓迫。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
 - (2) 玻璃體出血合併視網膜剝離:玻璃體切除手術及網膜復位。 Source: [[sources/med6-book2-ch10|癸、玻璃體]].
 - 1. 玻璃體切除術(Trans Pars Plana Vitrectomy, TPPV):全名為,經睫狀體扁平部(Pars Plana)玻璃體切除術。 - (1) 目的:去除血塊以清除混濁部分、切除玻璃體後表面以解除玻璃體視網膜的牽引,使視網膜重新復位,術後在眼內注射具有膨脹特性的氣體,以達到封閉裂孔的目的。 - (2) 方法:由**睫狀體扁平部**進入眼內,作三個切口放入三根管子,分別為玻璃體切割器(每分鐘可切割上千次,並可吸入玻璃體纖維)、光纖、注流針管(灌入BSS、basic salt solution 滲透壓跟眼內前房一樣的液體等),來移除玻璃體,其後視不同情況可以灌入氣體(SF6, C3F8)或矽油來幫助視網膜復位。 Source: [[sources/med6-book2-ch10|癸、玻璃體]].

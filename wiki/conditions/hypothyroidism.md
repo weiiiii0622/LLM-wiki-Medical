@@ -26,6 +26,7 @@ sources:
   - "[[sources/med5-book6-ch09]]"
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book2-ch08]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'Hypothyroidism (甲狀腺低下)'
   - 'Hypothyroidism'
@@ -40,7 +41,7 @@ tags:
 
 ## Summary
 
-甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+甲狀腺素不足造成低代謝症狀與 TSH/T4 變化。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -66,9 +67,11 @@ tags:
 - [[sources/med5-book6-ch09]]
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book2-ch08]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- 2. 原因:溫度的改變、酒精、菸、壓力、焦慮等不明因素的刺激;懷孕、停經或甲狀腺低下等改變內分泌平衡的因素;服用影響副交感神經興奮的藥物。必須排除過敏性鼻炎。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - 2. 系統性疾病相關的白內障(cataract in systemic diseases): 在糖尿病、肌強直失養症(myotonic dystrophy)、異位性皮膚炎、神經纖維瘤第二型(neurofibromatosis-2)、 半乳糖血症(galactosemia)、副甲狀腺低下(hypoparathyroidism)等疾病中,白內 障可能提早發生。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
 - ...) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原發性卵巢功能不全 | | | 多囊性卵巢症候群 | | 其他內分泌異常 | 甲狀腺低下或亢進 | | | 雄性激素分泌腫瘤或曝露於過多雄性激素 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - ...dopamine 和 GABA 抑制分泌。 - (b) 症狀:非懷孕女性會造成無月經和乳溢症(galactorrhea)。 - (c) 機制:影響下視丘 GnRH 釋放,抑制 LH 脈動,造成不排卵和無月經。 - (d) 成因:腦垂體腫瘤、甲狀腺低下和藥物(如:抗精神藥物)。 - (e) 診斷:血清濃度> 100 ng/mL,需安排 CT 和 MRI 排除腦垂體腫瘤。 - (f) 治療: dopamine agonist (如 cabergoline, bromocriptine ) 為第一線治療藥物,藥物效果良好。 - (g) 追蹤:需定期追蹤泌乳激素,若血中泌乳激素濃度降至正常範圍內達 2 年以上,可考慮停藥追蹤。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -86,7 +89,6 @@ tags:
 - ...s Vitamin B 12 , folate, niacin, thiamine | | | | | | Endossinonathios | Hyper/hypoadrenocorticism, hyper/hypoglycemia, Myxedema, | | | | | | Endocrinopathies | hyperparathyroidism | | | | | | Acute vascular | Hypertensive encephalopathy, stroke, arrhythmia, shock | | | | | | Toxins or drugs | Prescription drugs, illicit drugs, pesticides, solven Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
 - ...菌感染,上述部位均可波及,症狀始於嬰兒期,頭皮可能呈現念珠菌肉芽腫(Candida granuloma)。為自體顯性或隱性遺傳(T cell defect)或是內分泌問題(hypoparathyroidism、hypoadrenalism、hypothyroidism、diabetes mellitus)導致。 - f. 全身性念珠菌症:見於嚴重免疫力差之患者,皮膚呈現硬性紅色結節,病理 切片顯示有念珠菌之「芽孢」及「假性菌絲」之病變。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - I. 甲狀腺 274 - A. 甲狀腺機能低下 (Hypothyroidism) 274 - B. 甲狀腺機能亢進 277 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- Ⅱ. 副甲狀腺 281 - A. 副甲狀腺低下(Hypoparathyroidism) 281 - B. 副甲狀腺機能亢進(Hyperparathyroidism) 282 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
 
 ## Clinical Caveats
 

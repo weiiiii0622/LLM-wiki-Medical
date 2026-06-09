@@ -33,6 +33,8 @@ sources:
   - "[[sources/med5-book4-ch01]]"
   - "[[sources/med5-book4-ch11]]"
   - "[[sources/med6-book1-ch04]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Echocardiography (心臟超音波)'
   - 'Echocardiography'
@@ -47,7 +49,7 @@ tags:
 
 ## Summary
 
-評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+評估心室功能、瓣膜結構、心包膜積液與心衰竭分型。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -80,9 +82,14 @@ tags:
 - [[sources/med5-book4-ch01]]
 - [[sources/med5-book4-ch11]]
 - [[sources/med6-book1-ch04]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (3) 心血管系統監測(Circulation)。 - a. 非侵入式血壓測量系統(Non-Invasive Blood Pressure System, NIBP)。 - b. 動脈導管 (Arterial line)。 - c. 中央靜脈壓 (Central venous pressure)。 - d. 心電圖。 - e. 經食道心臟超音波(Transesophageal echocardiography, TEE)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 3. 經食道心臟超音波(Transesophageal echocardiography, TEE) - (1) 簡介:操作者將類似胃鏡般的超音波探頭,由病患的口腔進入食道中,檢查心臟與血管的構造與功能。因食道在心臟的左後方,故檢查範圍,例如「左心房和僧帽瓣解像程度」比胸前的心臟超音波好。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- e. 心臟功能檢測:EKG、Cardiac echo。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - ...3 層就會喘,不過一般生活作息並不會造成困擾。但懷孕後,這些情況變的更厲害,有時走路久一點就會喘,需要停下來休息。檢查曉晴的眼結膜(conjunctiva)是粉紅色的,沒有貧血的跡象,聽診發現有心雜音,產科醫師懷疑有心臟方面的問題,於是安排心臟超音波,發現曉晴有一個心室中膈缺損約 1.6 平方公分。下列給曉晴的諮詢,何者錯誤? - (A) 根據紐約心臟協會(NYHA)對心臟功能的定義,曉晴懷孕前是屬於第二級(functional class II),但懷孕後已惡化為第三級(functional class III) - (B) 心室中膈缺損是一種先天性心臟病,這種是結構的異常並不 會遺傳給胎兒 - (C) 大的心室中膈缺損可能會進展為左心室衰竭及肺動脈高壓,當肺動脈阻力(pulmo Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (2) 其他術前評估:肺功能測定(10 歲以上患者)、心電圖、心臟超音波,因常合 併先天性心臟病。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
 - (1) CXR:檢查脊椎和心臟。如心臟有合併異常須排心臟超音波。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
@@ -98,9 +105,6 @@ tags:
 - (D) 安排心臟超音波檢查、心導管檢查術與冠狀動脈血管攝影術 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (B) 14. 一位 75 歲的男性,主訴最近 6 個月來快走會有心悸和胸悶的現 象,身體檢查時,血壓 140/50 mmHg,心跳規律,胸骨右側上方 可聽到心舒期雜音,心臟超音波檢查有嚴重的主動脈瓣逆流, 但左心室收縮內徑(left ventricular end systolic dimension)為 58 mm,舒張內徑為80 mm,此時最好的治療方式為何? - (A) 用金屬性瓣膜置換主動脈瓣 - (B) 用豬心瓣膜置換主動脈瓣 - (C) 使用抗心律不整藥劑 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
 - (B) 19. 承上題,此時病人之血壓在 120/70 毫米汞柱,中心靜脈壓約 10 100(-)専 毫米汞柱,心跳每分鐘約 90 次,此時應作何種檢查最適宜? - (A) 測量病人血液之 prothrombin time - (B) 測量病人血液之 activated clotting time - (C) 測量引流管引流液之血容比 - (D) 作胸前心臟超音波檢查 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 2. 心因性血栓 (cardio-embolic): - (1) 位置: MCA 的上支。 - (2) 成因:心臟來的血栓塞住,病灶多在灰質,較易轉化為出血性梗塞。 - (3) 診斷:排 EKG 或 cardiac echo 看是否有 cardiac emboli,評估 cardiac emboli的 risk (paroxysmal atrial fibrillation、機械瓣膜、mitral stenosis、sick sinus syn.、dilated cardiomyopathy、infective endocarditis等)。 - (4) 治療:口服 warfarin 將 INR 控制在 2~3。最近已經有新型抗凝血藥物(Novel ora Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (1) 傳統檢查:包含胸部 X 光、abdominal echo、CT 或 MRI 等,以檢查是否有器官轉移。但須在腫瘤大於 1 公分以上才能顯像,且無法確定是否是真的轉移惡性腫瘤或其他良性的病變。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 6. 診斷:以外科方式治療為最終目標。 - (1) 胸部 X 光: 典型表現為靴子形狀(boot-shaped)心臟(但心臟大小正常)、肺血管紋減少,有時可以看到右位主動脈弓。 - (2) 心電圖:電軸右偏(顯示右心室肥大)。 - (3) 心臟超音波:可以用來確立診斷。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 
 ## Clinical Caveats
 

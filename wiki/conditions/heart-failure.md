@@ -56,6 +56,8 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book3-ch05]]"
   - "[[sources/med6-book3-ch01]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Heart failure (心臟衰竭)'
   - 'Heart failure'
@@ -70,7 +72,7 @@ tags:
 
 ## Summary
 
-心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+心臟結構或功能異常導致無法滿足身體需求，需分期、分型與治療。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -126,9 +128,16 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book3-ch05]]
 - [[sources/med6-book3-ch01]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- 4. 呼吸系統:有無氣喘、COPD、或是平常有呼吸喘的情況,並評估其 NYHA class 或做 PFT(pulmonary function tests)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- ...、規則洗腎、有中風或心肌梗塞病史(發作時間超過三個月以上)、冠狀動脈疾病、裝心臟節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併心衰竭的孕婦 | 7.8~23% | Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 1. 發生惡性高熱時的表現可分早、晚期症狀: - (1) 早期症狀: End tidal CO, 上升、心跳加快。 - (2)晚期症狀:溫度上升、橫紋肌溶解、肌蛋白尿、代謝呼吸酸中毒、全身僵硬、 咬肌痙攣、高血壓、心臟衰竭、高血鉀、低血氧。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (A) 在 AMI 發生後第一個小時最常見的死因是心臟衰竭 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- (D) AMI 合併重度心臟衰竭時不可以使用 β blockers Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - (2) 對象:主要是接受冠狀動脈繞道手術、瓣膜換置手術、先天性心臟病手術與心臟移植術後的患者。另外週邊動脈阻塞、接受冠狀動脈血管整型術後或心臟衰竭患者,也都是心臟復健的對象。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - · Uncontrolled symptomatic congestive heart failure Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - · Symptomatic congestive heart failure Source: [[sources/med6-book3-ch05|戊、心肺復健]].
@@ -142,11 +151,6 @@ tags:
 - ...on → residual phase)和 Herring classification(又稱 Lateral Pillar System, lateral Pillar 的位置是下圖中的黑色區域,高度影響愈多表示缺血性壞死愈嚴重。如下圖:stage A:lateral pillar 高度不受影響;stage B:lateral pillar 高度 > 50%;stage C:lateral pillar 高度 女), capitellum 的 articular cartilage 和 subchondral bone 分離,常發生於需要 overhead weight bearing 的動作如投球,症狀為 elbow pain 和會有 locking 的可能,關節的活動度少受影響。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
 - The Eighth Edition Lung Cancer Stage Classification. Detterbeck, Frank C. et al. CHEST, Volume 151, Issue 1, 193-203. Source: [[sources/med5-book4-ch03|丙、肺]].
 - (B) 心衰竭 (heart failure) Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...a. 礦石粉塵 (Mineral dusts)。 - b. 化學煙霧(Chemical fumes): $NO_2$ (silo filler's disease), Cl, $NH_3$ , $SO_2$ , $CCl_4$ , Br, HF, HCl, $HNO_3$ , kerosene, acetylene $\circ$ - (3) 腫瘤: - a. 淋巴轉移 (Lymphangitic spread)。 - b. 血循轉移(Hematogenous metastases)。 - c. 白血病(Leukemia)、淋巴癌(lymphoma)、支氣管肺泡肺腺癌(bronchiolo-alveolar cell cancer)。 - (4) 家族遺傳 (Congenit Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...能認定,合併甲型胎兒蛋白(AFP)大於 **200**,也可診斷 為 HCC,不須加做切片。 - c. 只有一種影像檢查能認定, AFP 肝硬化程度:Child-Pugh A。肝腫瘤:單顆、原位癌、2公分以下。治療:手術切除腫瘤。 | | Stage A-C | 日常生活功能:0~2級。肝硬化程度:Child-Pugh為 A-B,再依照病人的體能狀況、肝腫瘤顆數、有無黃疸、有無肝門高壓、肝門靜脈侵犯、淋巴轉移等去區分出 stageA-C。 | | Stage D | 日常生活功能:3~4級。肝硬化:Child-Pugh C。肝癌:只要有肝癌腫瘤,不管尺寸大小、腫瘤數目。治療:症狀治療(支持性療法)。 | Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- ...脈提供了 25% 的血液及養分,但 HCC 大部份是藉由肝動脈血液快速成長,鮮少從肝門靜脈長出來。 - (b) 根據統計,動脈栓塞術可有效的造成廣泛性的腫瘤壞死。雖然不屬於治癒性治療,但可以改善病人的預後。 - b. 適應症:在 BCLC stage B 的病人,肝腫瘤尺寸較大或為多發性,但尚無血管 侵犯,動脈栓塞術為第一線的治療。 - c. 作法: - (a) 穿刺股動脈並將導管置入股動脈,再往上抵達腹主動脈幹後,繼續往前進入**肝動脈**。 - (b) 使用化學治療藥物如 Doxorubicin 或 Adriamycin 等藥物混合 Lipiodol 顯影 劑針對 HCC 灌注。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 3. 因壓迫鄰近器官而有的臨床表現:congestive heart failure (aortic root aneurysm with dilatation 造成 aortic regurgitation)、Hoarseness (aortic arch aneurysm 壓到 left recurrent laryngeal or vagus nerves)、呼吸困難、pulmonary compression、吞嚥困難、易飽足感(壓迫到胃)、嘔吐。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- ...ardiac disease | Stable coronary disease; remote MI; EF > 35% | Significant coronarydisease; recent MI; frequentangina; CHF; EF 1 > 1 L/sec | O 2 dependent; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > Source: [[sources/med5-book2-ch02|乙、血管瘤]].
 
 ## Clinical Caveats
 
@@ -164,6 +168,7 @@ tags:
 - [[conditions/hfref|HFrEF (射出分率降低型心衰竭)]]
 - [[drugs/loop-diuretics|Loop diuretics (亨利氏環利尿劑)]]
 - [[guidelines/nyha-functional-class|NYHA functional class (NYHA 心功能分級)]]
+- [[procedures/pulmonary-artery-catheterization|Pulmonary artery catheterization (肺動脈導管)]]
 
 ## Follow-up
 

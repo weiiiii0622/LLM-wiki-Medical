@@ -2,11 +2,12 @@
 type: condition
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 sources:
   - "[[sources/med4-book1-ch01]]"
   - "[[sources/med4-book3-ch02]]"
   - "[[sources/med5-book2-ch04]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Ebstein anomaly (Ebstein 異常)'
   - 'Ebstein anomaly'
@@ -21,16 +22,18 @@ tags:
 
 ## Summary
 
-三尖瓣附著位置下移造成右心房化右心室、三尖瓣逆流與發紺/心律不整風險。 本頁已整合至 `醫(五)第2冊心外大腸長直腸外內分泌外整外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+三尖瓣附著位置下移造成右心房化右心室、三尖瓣逆流與發紺/心律不整風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book1-ch01]]
 - [[sources/med4-book3-ch02]]
 - [[sources/med5-book2-ch04]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- c. Ebstein's 異常:因可能引起頻脈性心律不整。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - #### 6. 愛伯斯坦氏異常(Ebstein's anomaly): Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - (B) 23. 下列有關 Ebstein 氏異常(Ebstein's anomaly)之敘述,何者錯誤? Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
 - ...---------------| | 若不治療會持續數週到數年之久。 | | | (A) 26. 關於雙極性疾患(bipolar disorder)治療藥物之敘述,下列何者錯誤? (A) lithium 在懷孕婦女身上所造成畸胎性,最常見 Ebstein 氏三尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].

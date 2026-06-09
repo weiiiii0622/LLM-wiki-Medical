@@ -15,6 +15,7 @@ sources:
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch09]]"
   - "[[sources/med6-book1-ch11]]"
+  - "[[sources/med6-book4-ch09]]"
 aliases:
   - 'Appendicitis (闌尾炎)'
   - 'Appendicitis'
@@ -29,7 +30,7 @@ tags:
 
 ## Summary
 
-闌尾管腔阻塞後感染發炎，表現可由臍周痛轉右下腹痛，需注意穿孔與膿瘍。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+闌尾管腔阻塞後感染發炎，表現可由臍周痛轉右下腹痛，需注意穿孔與膿瘍。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -44,9 +45,11 @@ tags:
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch09]]
 - [[sources/med6-book1-ch11]]
+- [[sources/med6-book4-ch09]]
 
 ## Key Details From Sources
 
+- 廣泛性的疼痛,較難有明確的痛點,有時也會轉移至其他地方,或伴隨噁心嘔吐。 通常是因為組織損傷,如心肌梗塞、腸胃炎、闌尾炎、癌症侵犯至內臟器官,或者 是腫瘤壓迫所造成的疼痛。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
 - ※ 少數是因為手術感染或被鄰近器官感染(如闌尾炎、憩室炎等)。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - (C) 急性盲腸炎 (appendicitis) Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - 婦女急性下腹痛除了常見婦科問題外(如骨盆腔發炎、卵巢扭轉等),對於生育年齡的女性,一定要先確認她的懷孕狀態,這會影響到我們的檢查方式和鑑別診斷(早期懷孕可能考慮子宮外孕、流產;後期懷孕可能考慮胎盤剝離、子宮破裂),此外,骨盆腔內鄰近器官的問題也須列入考慮(如急性闌尾炎、憩室炎或泌尿道感染、結石)。詳細的評估流程如下圖: Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].

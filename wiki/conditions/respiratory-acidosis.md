@@ -12,6 +12,7 @@ sources:
   - "[[sources/med5-book1-ch02]]"
   - "[[sources/med5-book1-ch12]]"
   - "[[sources/med5-book4-ch11]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Respiratory acidosis (呼吸性酸中毒)'
   - 'Respiratory acidosis'
@@ -26,7 +27,7 @@ tags:
 
 ## Summary
 
-換氣不足造成 PaCO2 上升，需分辨急性與慢性腎代償。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+換氣不足造成 PaCO2 上升，需分辨急性與慢性腎代償。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +39,12 @@ tags:
 - [[sources/med5-book1-ch02]]
 - [[sources/med5-book1-ch12]]
 - [[sources/med5-book4-ch11]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- (A) 合併代償性呼吸性酸中毒及代償性代謝性酸中毒 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- | (A) 34. | 下列何者不是引起術後 Hypoventilation 常見的原因? | 100(二)專 | |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------- Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - 4. 臨床表現:好發於 2~8 週之間,吐後仍想吃(hungry vomiter),非膽汁性噴射式劇烈嘔吐(non-bilious projectile vigorous emesis),嘔吐物帶咖啡色絲或血絲,可能看到左上腹到上腹有胃蠕動,嘔吐導致胃酸流失而造成低氯性代謝性鹼中毒(hypochloremic metabolic alkalosis)會合併血鉀降低和代償性呼吸酸中毒(respiratory acidosis),甚至脫水。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
 - ...45 為鹼血症。 - (2) 第二步: $pH \ \ CO_2$ 改變方向相同(同升同降)=> 代謝性;改變方向相反 => 呼吸性。 - (3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸, Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
 - (C) hypoventilation Source: [[sources/med5-book1-ch12|丙、顱內壓]].

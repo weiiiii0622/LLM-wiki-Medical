@@ -25,6 +25,8 @@ sources:
   - "[[sources/med5-book4-ch07]]"
   - "[[sources/med5-book4-ch05]]"
   - "[[sources/med5-book4-ch10]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch06]]"
 aliases:
   - 'Pneumothorax (氣胸)'
   - 'Pneumothorax'
@@ -39,7 +41,7 @@ tags:
 
 ## Summary
 
-空氣進入肋膜腔造成肺塌陷，張力性氣胸為急症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+空氣進入肋膜腔造成肺塌陷，張力性氣胸為急症。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -64,9 +66,13 @@ tags:
 - [[sources/med5-book4-ch07]]
 - [[sources/med5-book4-ch05]]
 - [[sources/med5-book4-ch10]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch06]]
 
 ## Key Details From Sources
 
+- (D) 中央靜脈導管置放術可能產生氣胸(pneumothorax)、乳糜胸(chylothorax)等併發症 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (2) 副作用: - a. 避免使用於密閉體腔如氣體栓塞(air embolism)、氣胸、腸阻塞,肺高壓的病人。 - b. 長期使用易造成骨髓抑制,及抑制 $B_{12}$ -dependent enzymes。 - c. 增加手術後噁心嘔吐(PONV)的機會。 - d. 增加腦部耗氧代謝率、腦部血流上升、顱內壓上升。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
 - D. 氣胸 (Pneumothorax): 概論及非創傷性氣胸 20 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - ### D. 氣胸 (Pneumothorax): 概論及非創傷性氣胸 Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 機轉 & 成因:氣體積累在肋膜腔內,可能為自發性,或續發於創傷、手術、治療 和疾病併發等情形。氣胸壓迫肺組織,導致肺順應性降低、通氣容積減少和擴散體 積減少,依據肺本身狀況和氣胸程度而有輕重不同程度的影響,如果氣體持續進 入,導致肺塌陷而壓迫縱隔和心臟偏移,合併呼吸急促和血液動力不穩失能,就成 了張力性氣胸(詳見胸部創傷-創傷性氣胸)。以下介紹非創傷性氣胸。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
@@ -83,8 +89,6 @@ tags:
 - | (D) | 7. 進行全靜脈營養(total parenteral nutrition, TPN)時,下列與中央靜脈導管相關之併發症的敘述,何者錯誤? (A) 導管內血栓(thrombus) (B) 氣胸(pneumothorax) (C) 臂叢神經損傷(brachial plexus injury) (D) 尿路感染(urinary tract infection) | 106(一)專醫五-8 | |-----|----------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book1-ch01|甲、外科營養]].
 - ...致血壓下降。 - c. 神經性休克:由於脊髓損傷導致神經性反射及血管阻力喪失,使周邊血管擴張使得血液湧向周邊部位、造成主要器官組織灌流不足,心輸出量減少,引起休克。 - (4) 阻塞性(obstructive):心包填塞、肺動脈栓塞、張力性氣胸等造成心輸出量不足。 Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
 - ...(hyperglycemia) 並不會增加手術的發病率和死亡率 (morbidity and mortality) | | | (D) 老年人在手術前應評估其肺部功能 | | | (A) 14. 當小客車司機因追撞大貨車,於急救時出現大量血氣胸,必須緊急給予胸管引流治療。有關胸管置放之位置,下列敘述何者 | 106(一)專醫五-6 | | 正確? | | | (A) 第四或五肋間,腋中線(4th or 5th intercostal space, mid-axillary | | | line) | | | (B) 第二肋間,鎖骨中線(2nd intercostal space, mid-clavicular line) | | | (C) 第六或七肋間,腋中線(6th or Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- 1. 胎便吸入症候群(meconium aspiration syndrome): - (1) 是造成足月或過熟(post-term)新生兒呼吸窘迫的常見原因之一,患者出生時 指甲、皮膚、臍帶常呈黃褐色的胎便染色。 - a. 症狀通常發生在出生後不久(數小時內),臨床表現嚴重度差異性大。一般 在72小時內症狀會逐漸改善,但也可能併發氣胸或新生兒持續性肺高壓。 - b. 胸部 X 光最典型變化為胸部出現結節性的浸潤(nodular infiltration), 肺部氣體分布不均匀,嚴重者可能併發氣胸或縱膈腔積氣。 - c. 處理:胎便染色濃的話,嬰兒出生若有呼吸窘迫,心跳慢,或活動力差,則 須立即執行氣管內插管及抽吸氣管內胎便(endotracheal suction)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 12. 一位 36 週早產兒經剖腹產生下後,發生呼吸窘迫症狀,呼吸聲 104(2) 專 有囉音(rales),經給予氧氣(FiO $_2$ 25%)及連續性氣道正壓 80-6 (CPAP)呼吸後,症狀逐漸改善,隔天即無症狀。下列那一項 是最可能的診斷? - (A) 呼吸窘迫症候群(respiratory distress syndrome) - (B) 短暫呼吸急促 (transient tachypnea of newborn) - (C) 細菌性肺炎 (bacterial pneumonia) - (D) 自發性氣胸 (spontaneous pneumothorax) Source: [[sources/med4-book1-ch11|子、新生兒科]].
 
 ## Clinical Caveats
 
@@ -93,6 +97,7 @@ tags:
 
 ## Related Pages
 
+- [[procedures/central-venous-catheterization|Central venous catheterization (中央靜脈導管置放)]]
 - [[conditions/open-pneumothorax|Open pneumothorax (開放性氣胸)]]
 - [[procedures/pleurodesis|Pleurodesis (肋膜沾黏術)]]
 

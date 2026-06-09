@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book2-ch07]]"
   - "[[sources/med5-book2-ch12]]"
   - "[[sources/med6-book3-ch05]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Coronary artery bypass graft, CABG (冠狀動脈繞道術)'
   - 'Coronary artery bypass graft, CABG'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-外科冠狀動脈血管再暢通術。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+外科冠狀動脈血管再暢通術。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med5-book2-ch07]]
 - [[sources/med5-book2-ch12]]
 - [[sources/med6-book3-ch05]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- (C) 26. 不停跳冠狀動脈繞道手術進行中,經由肺動脈導管監測,觀察到 103(二)專 肺動脈壓突然升高,但血壓仍維持在正常範圍內,下列有關麻醉 醫六-6 醫師做的處理,何者錯誤? Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - (2) 對象:主要是接受冠狀動脈繞道手術、瓣膜換置手術、先天性心臟病手術與心臟移植術後的患者。另外週邊動脈阻塞、接受冠狀動脈血管整型術後或心臟衰竭患者,也都是心臟復健的對象。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
 - ### 丙、冠狀動脈疾病及冠狀動脈繞道手術 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 - D. 冠狀動脈繞道手術 (CABG) 及適應症 28 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].

@@ -43,6 +43,7 @@ sources:
   - "[[sources/med6-book1-ch04]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Heart valves (心臟瓣膜)'
   - 'Heart valves'
@@ -57,7 +58,7 @@ tags:
 
 ## Summary
 
-瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+瓣膜狹窄或逆流造成壓力/容量負荷與雜音。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -100,9 +101,13 @@ tags:
 - [[sources/med6-book1-ch04]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- (3) CVP waveform 所代表意義:正常的 CVP 波形包括 3 個上升段(a、c、v 上升)和兩個下降段(x、y下降)。 - a. "a" wave:右心房收縮時所造成的 心房壓力上升。在心電圖的 P 波後 出現。記『心房收縮期』。心房顫 動時此波形會消失。 - b. "c" wave:右心室收縮早期,造成 三尖瓣的關閉所引起的心房壓力上 升。記『心室收縮早期』。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- d. "v" wave: 右心房被動充血,血液越裝越滿,導致壓力上升,但此時三尖瓣 仍關閉。記『心室收縮晚期』。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- e. "y" descent: 三尖瓣開啟導致右心房血液的排空進入右心室。記『心室舒張期』。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - ...脈硬化相關的血栓:位在篩板的血栓是造成中心動脈阻塞最常見的原因,佔 80%。 - (2) 頸動脈栓塞:膽固醇栓塞(Hollen-horst's plaques)、纖維血小管栓塞、鈣化性 栓塞。 - (3) 心臟栓塞:鈣化性栓塞(來自主動脈或二尖瓣)、vegetation(來自細菌性心內膜炎的瓣膜)、血栓(由於心肌梗塞後合併 AF 所產生)。 - (4) 巨細胞動脈炎 (giant cell arteritis) - (5) 動脈外膜炎:與皮肌炎、SLE、polyarteritis nodosa、Wegener 氏肉芽腫等疾病相關的動脈外膜炎偶爾會造視網膜分支動脈阳塞。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - 【詳解】(C) 對於有症狀的孕婦,少數藥物治療無效者,可考慮瓣膜修復(valvuloplasty)或主動脈瓣膜置換(aortic valve replacement)。[Ref: UpToDate ] Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - (D) 透納氏症女性的特徵為蹼頸、盾狀胸、主動脈瓣膜缺損以及 嚴重智力障礙 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -118,8 +123,6 @@ tags:
 - 1. 小腸從十二指腸開始一直到迴盲瓣 (ileocecal valve)約3公尺長,為重要的消化器官。 Source: [[sources/med5-book3-ch04|甲、解剖構造]].
 - 【詳解】切除 ileum 較容易出現短腸症的狀況(ileum 對於 vit $B_{12}$ ,bile acid,fluid absorption 都有其重要性)。最好能夠保存 ileum 以及 ileocecal valve。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
 - (1) 前言:慢性的膽囊發炎會造成膽囊與小腸之間的 fistula,使得腸道內的空氣跑進膽囊。另外膽囊內的 gallstone 經由fistula 掉進腸內,形成腸阻塞,尤其於ileocecal valve 最常見。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- ...-------| | Ischemic | Angina, reinfarction, infarct extension | | Mechanical | Heart failure, cardiogenic shock, mitral valve dysfunction, aneurysms, cardiac rupture | | Arrhythmic | Atrial or ventricular arrhythmias, sinus or atrioventricular node dysfunction | | Embolic | Central nervous system or peripheral embolization | | Inflammatory | P Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- 【詳解】依題幹推測為二尖瓣閉鎖不全,先使用 IABP 維持心臟血液穩定輸出,然後緊急手術修補。原本左心室的血流應於心收縮期時往打開的主動脈瓣方向噴入升主動脈,但在二尖瓣閉鎖不全的患者,分出一部分噴入左心房,產生新的心尖部心縮期雜音,降低有效心輸出並形成低血壓,製造左心房內部高壓並將此高壓逆著血流一路傳遞經肺靜脈、肺血管系統、肺動脈乃至於右心室、右心房與中心靜脈,因而形成中心靜脈高壓與肺水腫。 Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
 
 ## Clinical Caveats
 

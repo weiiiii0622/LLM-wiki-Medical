@@ -36,6 +36,9 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book2-ch06]]"
+  - "[[sources/med6-book4-ch09]]"
+  - "[[sources/med6-book4-ch10]]"
+  - "[[sources/med6-book4-ch12]]"
 aliases:
   - 'NSAIDs (非類固醇消炎藥)'
   - 'NSAIDs'
@@ -50,7 +53,7 @@ tags:
 
 ## Summary
 
-抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+抑制 cyclooxygenase 以止痛抗發炎，需注意 GI、腎臟與心血管風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -86,9 +89,15 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book2-ch06]]
+- [[sources/med6-book4-ch09]]
+- [[sources/med6-book4-ch10]]
+- [[sources/med6-book4-ch12]]
 
 ## Key Details From Sources
 
+- a. Non-opioids:包含 Acetaminophen、NSAID、COX-2 selective inhibitors。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
+- (B) 術後止痛可以使用 NSAID Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 2. 系統性 (Systemic) 原因: - (1) 凝血異常(Coagulopathy):使用 anticoagulant、NSAID,或是血友病、肝臟衰竭、尿毒症。 - (2) 其他:高血壓、粥狀動脈硬化、SLE、Wegner's granuloma。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
 - 3. 治療:通常不需要。若病情較嚴重可給潤滑劑、局部(或口服) NSAID 和局部類 固醇。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - ...障,因房角粘連可形成繼發性青光眼。 - h. 治療:針對病因治療(如感染或免疫性疾病)、可給局部或口服類固醇(通常治療用口服開始)或免疫抑制劑,若是 non-necrotizing scleritis 且是 diffuse 類型可以給口服 NSAID。若合併前葡萄膜炎時,可用局部 atropine 眼藥水散瞳,減少疼痛。 - (2) 後鞏膜炎:發生於眼球赤道部後方的鞏膜。 - a. 症狀為疼痛、視力不佳、輕度凸眼和眼球轉動受限制、複視(若侵犯到眼外肌)、眼底視神經盤水腫、脈絡膜皺摺、漿液性視網膜剝離等。 - b. 治療:同前鞏膜炎。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
 - ...) | β₂ agonist( ↑ intracellularcAMP) | ・心臓病・控制不良的糖尿病或甲狀腺亢進・大出血 | 心悸、心跳加速、胸悶、氣促、低血壓低血鉀、高血糖肺水腫 | ・紀錄 I/O・監測心跳・監控血糖和血鉀 | | Indomethacin | COX inhibitor ( ↓ Prostaglandins 、 ↓ intracellular Ca) | ・肝腎功能異常・血小板功能異常・腸胃潰瘍・氣喘 | ・ 噁心嘔吐・ 胃痛・ 血小板功能異常 | ・胎兒 PDA 提早關閉 (32 週後使用)・羊水減少 (使用超過 72 小時) | | Nifedipine(Adalat) | Calcuim channelblocker(↓ intracellular Ca) | ・ Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
@@ -104,9 +113,6 @@ tags:
 - a. 良性骨瘤。好發於五歲到十五歲的年輕人或小孩,男稍多於女(約2:1)。 常在晚上感到劇烈疼痛(night pain),如果服用**阿斯匹靈、NSAID**等消炎劑 可明顯減緩疼痛。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (D) 骨樣骨瘤(osteoid osteoma)好發於關節及長骨骨(epiphysis) 【詳解】(B) 大部分都是良性,只有少部分會有惡性變化,如無症狀不需要治療;(C) osteoblastoma 與 osteoid osteoma 都可以 NSAID 緩解,osteoblastoma 如果持續追蹤腫瘤沒有變大,可以 考慮暫時不用治療,但是如果藥物治療效果不佳則需手術治療 (包含刮除術或腫瘤切除);(D) Vertebra(最多)、sacrum、long bone 的 diaphysis 較多。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
 - (C) 骨樣骨瘤(osteoid osteoma)的局部疼痛,可用非類固醇抗 發炎藥物 (nonsteroidal anti-inflammatory drugs) 來緩解 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (1) 保守治療,給予 NSAID、局部注射類固醇 抑制發炎。 Source: [[sources/med5-book6-ch06|己、手部]].
-- ...ulation | coagulation | | | (利用 burr down technique) | recurrent 不高 | | 其他特色 | 小孩子夜晚喊骨頭痛。 | Pain, muscle atrophy, | | | NSAID 可緩解 | Stiffness, swelling, scoliosis | | | 7 100/41 | and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the s Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
 
 ## Clinical Caveats
 

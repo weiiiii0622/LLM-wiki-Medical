@@ -11,6 +11,7 @@ sources:
   - "[[sources/med6-book1-ch02]]"
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Gestational diabetes mellitus (妊娠糖尿病)'
   - 'Gestational diabetes mellitus'
@@ -25,7 +26,7 @@ tags:
 
 ## Summary
 
-懷孕期間診斷的糖代謝異常，影響母胎風險與後續糖尿病風險。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+懷孕期間診斷的糖代謝異常，影響母胎風險與後續糖尿病風險。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +37,11 @@ tags:
 - [[sources/med6-book1-ch02]]
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- ...、健康的人。 | 健康、不抽菸、不喝酒(或極微量飲酒) | 0.06~0.08% | | II | 有輕微的系統性疾病,且在日常生活機能方面不受限制。 | 抽菸、喝酒(社交性)、輕微肺部疾病、控制良好的高血壓或糖尿病、肥胖(30 控制良好的妊娠糖尿病、妊娠高血壓或子癲前症) | 0.27~0.4% | | III | 有嚴重的系統性疾病,讓日常生活受到限制。 | 控制不佳的高血壓或糖尿病、慢性阻塞性肺疾(COPD)、病態性肥胖(BMI > 40)、酒精成癮、規則洗腎、有中風或心肌梗塞病史(發作時間超過三個月以上)、冠狀動脈疾病、裝心臟節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - 2. 新生兒臂神經叢傷害的危險因子有: - (1) 肩難產。 - (2) 胎兒過大 (macrosomia): 出生時體重 > 4,000 g 或 4,500 g, 兩種不同定義。 - (3) 妊娠糖尿病。 - (4) 胎位不正。 - (5) 母親過胖。 - (6) 第二產程延遲。 - (7) 初產婦(primiparous mother)。 - (8) 創傷性產鉗分娩(traumatic delivery with mid to high forceps)。 - (9) 另有研究指出使用催產素、宮縮過快,也是危險因子。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
 - B. 妊娠糖尿病 (Gestational diabetes mellitus) 138 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - ...control of the control of the control of the control of the control of the control of the control of the contro | • 糖尿病或妊娠糖尿病、慢性高血壓、慢性腎病、自體免疫性疾 | | | | 病(如紅斑性狼瘡和抗磷脂質症候群)和血管性疾病 | | | 胎兒因子 | ・多胞胎 | | | | ・本胎胎兒水腫 (hydrops fetalis) | | | 胎盤因子 | • 前胎胎死腹中或胎兒生長遲滯 | | | | • 前胎胎盤剝離 | | | 其他因子 | · 人工生殖技術(冷凍胚胎解凍植入療程) | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].

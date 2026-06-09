@@ -62,6 +62,9 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch01]]"
   - "[[sources/med6-book1-ch17]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch06]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Pulmonary hypertension (肺高壓)'
   - 'Pulmonary hypertension'
@@ -76,7 +79,7 @@ tags:
 
 ## Summary
 
-肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+肺動脈壓升高，可源自心肺疾病或肺血管病變。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -138,9 +141,15 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch01]]
 - [[sources/med6-book1-ch17]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch06]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- 【 詳解 】此情況可能是心臟因搬動刺激 vagal tone 造成 bronchospasm,所以應該做 bronchospasm 的處理,譬如加深麻醉深度、給予氣管舒張劑、減低 tidal volume 並加快呼吸速度代償(total volume keep 6~8 ml/kg)。phosphodiesterase III 抑制劑臨床上用於治療肺高壓。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- (2) 副作用: - a. 避免使用於密閉體腔如氣體栓塞(air embolism)、氣胸、腸阻塞,肺高壓的病人。 - b. 長期使用易造成骨髓抑制,及抑制 $B_{12}$ -dependent enzymes。 - c. 增加手術後噁心嘔吐(PONV)的機會。 - d. 增加腦部耗氧代謝率、腦部血流上升、顱內壓上升。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- ...ghest | | PEEP | High PEEP 或 Low PEEP 使用於 mortality 的 | | | 影響仍有地區性結果的差異,故沒有定論。 | | iNO (inhaled nitric oxide) | Reduce pulmonary hypertension, improved | | | V/Q matching. → improve oxygenation,對預 | | | 後無幫助。不建議在 ARDS routine 使用, | | | 但是可用在 refractory hypoxemia 病人。 | | ECOM (Venovenous) | Severe ARDS PaO 2 /FiO 2 在 50~80 with open | | | lung ventilation • | Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - | 陰道酸性 | 陰道上皮受雌激素影響分泌肝醣,透過乳酸桿菌轉換呈乳酸,維持 | |---------------|------------------------------------------| | | 陰道 pH 3.5~4.5,藉此抑制其他微生物 ( 陰道正常菌落主要為嗜氧菌 ) | | 鱗狀上皮細胞的厚層 | 形成物理障壁,當上皮缺乏雌激素變薄時,將使陰道容易創傷或感染 | | 腺體分泌 | 子宮頸和巴氏腺體維持向外的液體分泌,有助於陰道清理,並且含 | | | 有免疫球蛋白 (IgA) 和各種免疫細胞對抗感染源 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...s、Ureaplasma urealyticum 等 | | 表現 | • 臨床症狀不明顯,50~75% 無症狀,主要表現為陰道分泌物多 ± | | | 腐臭魚腥味、外觀呈灰色。較不會造成搔癢、紅腫或性交疼痛 | | 檢 查 | ・ 陰道 pH 值上升 ( > 4.5) | | | ・加入 10% KOH 會出現明顯的魚腥味,為 whiff test (+) | | | • 食鹽水稀釋的抹片下可觀察到 "clue" cells (>20%) | | 治療 | ・ 首選藥物:Metronidazole 或 Clindamycin 之口服藥或陰道乳膏 | | | • 二線藥物:口服 Tinidazole | | | ・ 其他:益生菌如乳酸桿菌 GR-1、RC-14 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
 - ...ida albicans (約佔85%),加上 C. glabrata 佔99% 表現 • 主要表現為會陰部搔癢、灼熱刺激感,可能伴隨解尿疼痛和性交疼痛等 症狀 · 內診可發現陰道和陰唇紅腫,甚至裂傷;可見白色乳狀斑塊分泌物 檢查 ・陰道 pH 值正常 (3.5~4.5) · 食鹽水稀釋的抹片可觀察到 budding yeast 或 hyphae · 加入 10% KOH 將細胞破壞可更清楚觀察到 budding yeast 或 hyphae • 100 mg Clotrimazole 陰道塞劑 7 天或 100,000 unit Nystatin 陰道塞劑 14 天 治療 ・單一劑量口服 fluconazole 150 mg ·若為反覆復發個案,可給予口服 fluconaz Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -156,9 +165,6 @@ tags:
 - (B) 24. 一位 30 歲的男性因不孕症求診,其精液分析結果如下:pH 8.5, 98(ニ)専 total volume 5 cc,sperm count 0,醫師遂為其安排睪丸切片 (testis biopsy) 檢查,其病理化驗結果可見精細胞(spermatid), 但沒有發現精蟲(sperm)。下列何診斷最佳? (A) obstructive azoospermia (B) maturation arrest Source: [[sources/med5-book5-ch08|辛、男性學]].
 - (C) 1. 下列何種檢查為診斷食道弛緩不能 (achalasia) 的 golden standard ? 108(ニ)専 (A) double-contrast esophagography 醫五-20 - (B) 上消化道內視鏡檢查(upper gastrointestinal endoscopy) - (C) 食道壓測試 (manometry) - (D) ambulatory 24-hour pH monitoring Source: [[sources/med5-book4-ch05|戊、食 道]].
 - (4) 酸鹼值監測(pH monitoring): 此為 GERD 黃金診斷標準。利用一感測電極伸入食道監測 pH 值、逆流程度、逆流時間等各項參數。並將各參數依公式計算出 DeMeester score,如正常應小於 14.7。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (5) 食道攝影(sophagogram):利用口服顯影劑配合 X 光照相,如考慮手術或是症狀和預期反應不同時,需進行此檢查。可以評估橫隔疝氣情況,觀察 GE junction 是否會回到腹腔,以及評估食道狹窄下之逆流情形(尤其 pH monitoring 受狹窄干擾而結果和預期不符者),也可以評估其他結構異常,如:腫瘤、憩室、食道旁橫隔疝氣(Type II & III)。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 7. 常見的臨床場景和治療: - (1) 新生兒一出生就呈現嚴重呼吸窘迫,可能合併有嚴重的肺發育不全而無法存活, 以及可能發生灌流不足或肺動脈痙攣導致缺氧。 - a. 治療:需要 ECLS (Extra Corporeal Life Support Program)、高頻呼吸循環機和加護重症治療。 - (2) 為出生後有數小時無症狀的蜜月期(honeymoon period),之後開始出現呼吸紊亂,為最常見的情況。 - a. 治療:理論上使用 ECLS 和其他可降低肺高壓和低血氧之治療對病嬰應有幫助,因為其肺部發育應較健全,但仍有許多新生兒經治療後仍死亡。 - (3) 在 24 小時後出現餵食困難、慢性呼吸道疾病、肺炎或腸阻塞等症狀,大約佔 10~20% 新生兒,因較晚出現症狀表示肺部發育較成熟,所以預後最好。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- 【詳解】大部份先天性橫隔膜疝氣的嬰兒在剛出生幾個小時內, 肺高壓尚未過高足以造成動脈導管或卵圓孔產生 R to L shunt, 不會有呼吸窘迫或低血氧的狀況,這段時間稱為 honeymoon period (蜜月期)。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
 
 ## Clinical Caveats
 
@@ -168,6 +174,7 @@ tags:
 ## Related Pages
 
 - [[procedures/lung-transplantation|Lung transplantation (肺臟移植)]]
+- [[procedures/pulmonary-artery-catheterization|Pulmonary artery catheterization (肺動脈導管)]]
 - [[conditions/pulmonary-embolism|Pulmonary embolism (肺栓塞)]]
 
 ## Follow-up

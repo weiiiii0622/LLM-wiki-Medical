@@ -11,6 +11,8 @@ sources:
   - "[[sources/med6-book2-ch08]]"
   - "[[sources/med6-book3-ch09]]"
   - "[[sources/med6-book3-ch02]]"
+  - "[[sources/med6-book4-ch03]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Evoked potential test (誘發電位檢查)'
   - 'Evoked potential test'
@@ -25,7 +27,7 @@ tags:
 
 ## Summary
 
-以視覺、聽覺或體感刺激測量傳導路徑反應，常用於 demyelinating disease 評估。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以視覺、聽覺或體感刺激測量傳導路徑反應，常用於 demyelinating disease 評估。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -36,9 +38,15 @@ tags:
 - [[sources/med6-book2-ch08]]
 - [[sources/med6-book3-ch09]]
 - [[sources/med6-book3-ch02]]
+- [[sources/med6-book4-ch03]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- 2. 誘發電位的監測(evoked potential monitoring): 藉由感覺刺激或是運動反應,來監測整條神經傳導路徑上是否有受到影響;但這些電訊號多少都會受到麻醉藥物的影響,所以需要跟外科醫師溝通,來調整藥物或降低劑量。 - (1) 感覺誘發電位 (sensory evoked potential, SEP): 刺激末梢神經,此衝動傳至中樞神經產生電位,由置於頭皮上的電極記錄下來。 - a. 驅體感覺誘發電位(SSEP):常用於脊髓或脊 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- ...個異常高起的 a wave,可能的原因有: | | | junctional rhythm, slow VT, 2:1A-V block, bigeminy。反之,心房 | | | 顫動會造成減低的 a wave。 | | | 30. 有關誘發電位(evoked potentials, EP)是手術中常用的神經功能 | 101(一)專 | | 監測方式之敘述,下列何者錯誤? | 醫六-4 | | (A) 手術中常用的 EP 包括了聽覺(auditory)、體感覺(somato- | | | sensory)與運動(motor)等 | | | (B) 體感覺誘發電位 (somatosensory evoked potentials, SSEPs) | | | 常用在脊椎損傷手術中, Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- ...-4 | | . 下列何者非手術時置放中央靜脈導管之目的? (A) 手術時給予輸液 (B) 監測右心房壓力 (C) 抽出空氣栓塞(air embolism) (D) 測量左心室末期舒張壓 | 98(二)專醫六-5 | | . 關於手術中使用誘發電位(evoked potential, EP)監測術中神經功能的敘述,下列何者錯誤? (A) 體神經誘發電位(somatosensory evoked potential, SSEP)常使用於脊椎手術監測脊椎神經是否損傷 (B) 聽覺神經誘發電位(brainstem auditory evoked potential, BAEP)常於切除聽覺神經瘤手術中使用 (C) 視覺神經誘發電位(visual evoked potential, VE Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- d. 腦幹聽覺誘發電位(Brainstem Auditory Evoked Potential, BAEP)。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - D. 體感覺誘發電位 (Somatosensory evoked potentials, SSEP) 194 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - #### D. 體感覺誘發電位 (Somatosensory evoked potentials, SSEP) Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
 - 1. SSEP 是經由刺激體感覺神經引發反應,沿著體感覺傳導路徑,一路從周邊神經 →神經叢→神經根→脊髓(posterior column)→再經腦幹(contralateral medial lemniscus)、視丘到達大腦感覺皮質。有別於傳統的感覺神經檢查只能偵測週邊神 經的遠端病變,體感覺誘發電位則可在周邊神經路徑、脊髓及頭部紀錄電位,評估 整個傳導徑路的病變。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].

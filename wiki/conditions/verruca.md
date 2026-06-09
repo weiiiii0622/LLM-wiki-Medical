@@ -12,6 +12,8 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book2-ch04]]"
+  - "[[sources/med6-book4-ch15]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Verruca / warts (疣)'
   - 'Verruca / warts'
@@ -26,7 +28,7 @@ tags:
 
 ## Summary
 
-HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、足底疣或尖圭濕疣。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -38,9 +40,15 @@ HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、�
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book2-ch04]]
+- [[sources/med6-book4-ch15]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- 4. 人類乳突病毒(Human papillomavirus, HPV)感染。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 2. 近幾年研究發現,人類乳突病毒(Human papillomavirus, HPV)與口咽部鱗狀上皮細胞癌(oropharyngeal squamous-cell carcinoma, OPSCC)的致病機轉有關。此外,研究也發現感染人類乳突病毒造成的口咽癌,其腫瘤細胞對於放射線治療及化學藥物治療反應較佳,治療效果比因菸酒檳榔導致的口咽癌還要好。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 5. 在台灣,目前人類乳突病毒檢測陰性的口咽癌病人仍佔多數。但近年來不論在歐美或台灣,HPV+OPSCC的疾病發生率仍每年持續上升,也是台灣頭頸癌中上升速度最快的癌症類別,尤其是 40 到 49 歲的男生族群,推測原因可能和逐漸開放的性觀念有關。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- (4) 口咽癌:因應 108、109 年出現相關考題,本次改版新增此單元。但 AJCC 第 八版改版後的癌症分期稍微複雜,準備上著重臨床症狀、治療、與 HPV 相關 性即可。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - 1. 結膜乳突瘤(Conjunctiva papilloma):幾乎皆為良性,與人類乳突瘤病毒(Human Papillomavirus, HPV)第 6、11 型感染相關,其可能由陰道造成母子垂直感染。乳 突瘤常出現在瞼結膜或穹窿。治療以手術切除或冷凍治療為主。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - 2. 結膜角膜上皮內癌(Conjunctival-corneal intraepithelial neoplasia, CCIN):少見、良性、進展緩慢的單側疾病。危險因子包含紫外光照射、HPV 感染等。臨床症狀有果凍狀白色的結膜腫塊伴隨表面有血管新生,結膜變厚。治療以手術切除為主,並加上冷凍治療或干擾素 α 降低復發機率。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
 - ### 7. 生殖器疣 (genital warts): Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
@@ -55,9 +63,6 @@ HPV 感染造成表皮增生性病灶，依部位可為尋常疣、扁平疣、�
 - (1) 疣是因感染人類乳突病毒(Human Papillomavirus, HPV)而形成的一種非癌皮膚增生。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (3) Verruca Vulgaris(common wart)(右上圖): 尋常疣,最常長在手指、指甲周圍或四肢其 他部位。為 1~10 mm 之小乳突狀丘疹,表面 角質化,略帶灰色,仔細觀察可見表面有許 多微血管栓塞而成的黑色針狀小點,將表層 刮去可看見紅色小出血點。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
 - (A) 尋常疣 (verruca vulgaris) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (A) 扁平疣 (verruca plana) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (3) HPV-16,18和31最常見。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (D) 尋常疣 (verruca vulgaris) Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
 
 ## Clinical Caveats
 

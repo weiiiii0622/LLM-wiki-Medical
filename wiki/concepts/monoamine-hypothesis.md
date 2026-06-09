@@ -31,6 +31,8 @@ sources:
   - "[[sources/med6-book1-ch10]]"
   - "[[sources/med6-book1-ch11]]"
   - "[[sources/med6-book1-ch03]]"
+  - "[[sources/med6-book4-ch01]]"
+  - "[[sources/med6-book4-ch10]]"
 aliases:
   - 'Monoamine hypothesis (單胺假說)'
   - 'Monoamine hypothesis'
@@ -45,7 +47,7 @@ tags:
 
 ## Summary
 
-以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(六)第1冊婦產`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+以 serotonin、norepinephrine、dopamine 等 neurotransmitters 解釋 mood、psychosis 與藥物機轉的概念。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -76,9 +78,13 @@ tags:
 - [[sources/med6-book1-ch10]]
 - [[sources/med6-book1-ch11]]
 - [[sources/med6-book1-ch03]]
+- [[sources/med6-book4-ch01]]
+- [[sources/med6-book4-ch10]]
 
 ## Key Details From Sources
 
+- (6) 單 胺 氧 化 酶 抑 制 劑(monoamine oxidase inhibitors, eg: phenelzine and isocarboxazid):治療 depression 的藥物,會增加細胞內 amine neurotransmitter 的濃度(eg: dopamine, epinephrine, norepinephrine and serotonin),建議術前兩週停藥,以免與 indirectly acting vasopressor,例如 ephedrine 併用時造成高血壓風暴,或與 meperidine 併用造成血清素風暴。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 【詳解】Ephedrine 可直接作用在 α 和 β 腎上腺素激接受體位, 又可間接的促使 norepinephrine 從突觸前的神經末端釋放出。 Ephedrine 所產生的支氣管擴張作用比 epinephrine 所產生的要 弱,但是作用期較長。其中樞神經刺激效應也比 epinephrine 要 顯著。臨床上用於:支氣管性氣喘、血管運動神經性鼻炎、過 敏性鼻炎、脊椎麻醉導致之急性低血壓。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
 - a. 高泌乳素血症(hyperprolactinemia):泌乳素由腦垂體前葉分泌,正常血液濃度在 $3\sim25$ ng/mL,懷孕時會上升 10 倍。 - (a) 調控:下視丘分泌 TRH 和吸吮乳頭促進,而 dopamine 和 GABA 抑制分泌。 - (b) 症狀:非懷孕女性會造成無月經和乳溢症(galactorrhea)。 - (c) 機制:影響下視丘 GnRH 釋放,抑制 LH 脈動,造成不排卵和無月經。 - (d) 成因:腦垂體腫瘤、甲狀腺低下和藥物(如:抗精神藥物)。 - (e) 診斷:血清濃度> 100 ng/mL,需安排 CT 和 MRI 排除腦垂體腫瘤。 - (f) 治療: dopamine agonist (如 cabergoline, Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - b. 腦垂體腺瘤(pituitary adenoma): - (a) 通常是良性,依大小可分 microadenoma ( 10 mm), mass effect 可能壓迫 optic chiasm 造成雙顳葉偏盲 (bitemporal hemianopsia); - (b) 功能性腫瘤會分泌荷爾蒙造成症狀: 前葉 5 種 -prolactin (佔 50%)、TSH、ACTH (Cushing's disease)、gonadotropin和GH、與後葉2種-oxytocin和ADH; - (c) 治療: - i. 藥物治療(dopamine agonist,如 cabergoline、bromocriptine)為首選之治療方式,藥物效果良好(約90%),但仍有10%對藥物無反應。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
 - (A) bromocriptine 是短效的 dopamine-like 藥物,須每日服用 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
@@ -95,8 +101,6 @@ tags:
 - ...mping。 - a. 早期傾食症候群 (early dumping syndrome): 可視為腸胃道症狀加上心血管症狀。 - (a) 發生在進食後 15~30 分鐘,主要是由於高滲透壓物質快速進入小腸,使得水份從血管移到腸腔與血清素 (serotonin) 濃度增加,導致小腸腫脹與血管擴張。 - (b) 腸胃症狀:腹脹、腹痛、腹瀉、噁心、嘔吐 - (c) 心血管症狀:頭痛、心悸、潮紅、低血壓。 - b. 晚期傾食症候群(late dumping syndrome): 視為血糖問題。 - (a) 在進食後 1~2 小時發生,主要是由於醣類食物快速進入小腸,導致葡萄糖快速吸收,胰島素過度分泌,引起低血糖的症狀如:冒冷汗、虚弱無力、 意識混亂、顫抖、飢餓、癲癇。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (a) Serotonin antagonist:對於 early dumping 較有效,但效果有限。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
 - (A) 王先生的症狀與身體分泌 Serotonin 有關,但服用 Serotonin 拮抗劑 (Serotonin antagonists) 僅能部分改善症狀 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 【詳解】心肌無法有效收縮,即使心跳收縮頻率加快,仍無法 將血液送出,故給予強心劑增加心肌收縮力。此病人應優先考 慮投予增加收縮力併具有升壓效果的 Dopamine 或 Bosmin 等強 心劑,併視臨床反應再調整用藥或輔以 IABP。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (D) 藥物治療可以考慮 neostigmine,不過要小心病患施打藥物後 會有 bradycardia,需要仔細觀察心率變化,和準備 dopamine 作為緊急解毒劑 Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
 
 ## Clinical Caveats
 

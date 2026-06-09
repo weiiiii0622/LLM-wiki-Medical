@@ -6,6 +6,8 @@ updated: 2026-06-09
 sources:
   - "[[sources/med4-book3-ch05]]"
   - "[[sources/med5-book4-ch03]]"
+  - "[[sources/med6-book4-ch05]]"
+  - "[[sources/med6-book4-ch07]]"
 aliases:
   - 'Opioid intoxication (鴉片類中毒)'
   - 'Opioid intoxication'
@@ -20,15 +22,19 @@ tags:
 
 ## Summary
 
-opioid 過量典型為意識下降、呼吸抑制與針尖瞳孔，屬高風險急症。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+opioid 過量典型為意識下降、呼吸抑制與針尖瞳孔，屬高風險急症。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
 - [[sources/med4-book3-ch05]]
 - [[sources/med5-book4-ch03]]
+- [[sources/med6-book4-ch05]]
+- [[sources/med6-book4-ch07]]
 
 ## Key Details From Sources
 
+- (4) 瞳孔:縮瞳 (Miosis)。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- 3. 副作用:由於Cholinesterase inhibitors作用不僅只會增加N-M junction之中的Ach量,還會影響人體中以Ach 當傳導物質的神經節,主要有附交感神經節、汗腺、adrenal gland…等,所以可想而知使用這些藥物時會導致一些不想要的副作用出現,這也是為什麼麻醉科醫師使用這些藥物時又會加上 anticholinergic agent,讓副作用減低。(例如:atropine、glycopyrrolate、scopolamine) - (1) 噁心。 - (2) 心臟的 muscarinic effect:心跳速率下降。 - (3) Bronchospasm 及氣管分泌物變多。 - (4) Miosis • Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
 - (5) Pancoast's syndrome: 腫瘤位置在肺尖,會導致肩膀、手臂疼痛、霍納氏症 (Horner's syndrome:瞳孔縮小 (miosis)、眼瞼下垂 (ptosis)、半邊顏面無汗 (anhidrosis) 和眼球內陷 (enophthalmos)) 和尺神經麻痺等症狀,疼痛來自於 C8、T1 的神經根,侵犯交感神經導致霍納氏症,通常第 1、2、3 肋被侵犯,手 術時需切除,也可能侵犯到脊椎和椎間盤,故須仔細評估。 Source: [[sources/med5-book4-ch03|丙、肺]].
 - #### 鴉片中毒 (Opioid intoxication) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
 - #### DSM-5 的診斷準則:鴉片中毒(Opioid intoxication) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
@@ -41,6 +47,8 @@ opioid 過量典型為意識下降、呼吸抑制與針尖瞳孔，屬高風險�
 
 ## Related Pages
 
+- [[drugs/naloxone|Naloxone (納洛酮)]]
+- [[drugs/opioid-analgesics|Opioid analgesics (鴉片類止痛劑)]]
 - [[conditions/opioid-withdrawal|Opioid withdrawal (鴉片類戒斷)]]
 - [[conditions/substance-use-disorder|Substance use disorder (物質使用疾患)]]
 

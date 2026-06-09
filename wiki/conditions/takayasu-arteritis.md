@@ -14,6 +14,7 @@ sources:
   - "[[sources/med5-book3-ch21]]"
   - "[[sources/med5-book4-ch02]]"
   - "[[sources/med5-book4-ch07]]"
+  - "[[sources/med6-book4-ch03]]"
 aliases:
   - 'Takayasu arteritis (高安氏動脈炎)'
   - 'Takayasu arteritis'
@@ -28,7 +29,7 @@ tags:
 
 ## Summary
 
-年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(五)第4冊胸外小兒外`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+年輕女性大血管炎，可造成脈搏差異、血壓差與分支血管狹窄。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -42,9 +43,11 @@ tags:
 - [[sources/med5-book3-ch21]]
 - [[sources/med5-book4-ch02]]
 - [[sources/med5-book4-ch07]]
+- [[sources/med6-book4-ch03]]
 
 ## Key Details From Sources
 
+- ...顏色 (C) 脈衝式血氧儀(pulse oxymetry) (D) 動脈血氧氣體分析 | 98(二)專醫六-3 | | 置放中心靜脈導管(central venous catheter),下列那一位置最常為麻醉醫師於手術麻醉時使用?(A) subclavian vein (B) antecubital vein(C) femoral vein (D) right internal jugular vein | 98(二)專醫六-4 | | . 下列何者非手術時置放中央靜脈導管之目的? (A) 手術時給予輸液 (B) 監測右心房壓力 (C) 抽出空氣栓塞(air embolism) (D) 測量左心室末期舒張壓 | 98(二)專醫六-5 | | . 關於手術中使用誘發電位(evoked pot Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
 - Catheterization, particularly subclavian vein Source: [[sources/med5-book4-ch02|乙、肋膜]].
 - 1. 解剖結構: - (1) Zone I: - a. 範圍:介於鎖骨(clavicles)及環狀軟骨(cricoid cartilage)之間。 - b. 重要結構: - (a) 無名動靜脈 (innominate vessels) 又稱頭臂動靜脈幹 (Brachiocephalic trunk)。 - (b) 總頸動脈 (common carotid artery) 起點。 - (c) 鎖骨下動靜脈(subclavian vessels)。 - (d) 椎動脈 (vertebral artery)。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
 - 1. 血管:主要的動脈供應為 - (1) 鎖骨下動脈 (subclavian artery): 分 支出內胸動脈與肋間動脈。 - a. 內胸動脈(internal thoracic artery), 分支出 medial mammary branch,供 應內側乳房。 - b. 肋間動脈 (intercostal artery)。 - (2) 腋動脈 (axillary artery): 分支出外胸 動脈與胸肩峰動脈。 - a. 外胸動脈(lateral thoracic artery), 分支出 lateral mammary branch,供 應外側乳房。 Source: [[sources/med5-book3-ch21|甲、解剖構造]].
@@ -62,7 +65,6 @@ tags:
 - (D) 鎖骨下動脈和同側肺動脈 (Subclavian artery and pulmonary artery of the same side) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
 - 5. Aberrant subclavian artery Source: [[sources/med4-book1-ch10|癸、遺傳學]].
 - 1. T 細胞及肉芽腫形成: (Ref. Harrison p2119 Table 319-2) - (1) 與 Delayed hypersensitivity 及 Cell mediated immune injury 有關,進而導致肉芽腫(Granuloma)形成。 - (2) 與侵犯大血管的高安氏動脈炎 (Takayasu arteritis)、巨細胞血管炎 (Giant cell arteritis) 有關。而 Wegener's granulomatosis、Churg-Strauss syn. 也會形成肉芽腫。 Source: [[sources/med3-book4-ch04|丁、血管炎]].
-- (A) Takayasu's arteritis Source: [[sources/med3-book4-ch04|丁、血管炎]].
 
 ## Clinical Caveats
 

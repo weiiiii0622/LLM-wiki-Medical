@@ -10,6 +10,7 @@ sources:
   - "[[sources/med6-book1-ch03]]"
   - "[[sources/med6-book1-ch07]]"
   - "[[sources/med6-book2-ch12]]"
+  - "[[sources/med6-book4-ch01]]"
 aliases:
   - 'Preeclampsia (子癲前症)'
   - 'Preeclampsia'
@@ -24,7 +25,7 @@ tags:
 
 ## Summary
 
-20 週後新發高血壓合併蛋白尿或器官功能異常，可有 severe features；根本治療是分娩。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+20 週後新發高血壓合併蛋白尿或器官功能異常，可有 severe features；根本治療是分娩。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -34,9 +35,11 @@ tags:
 - [[sources/med6-book1-ch03]]
 - [[sources/med6-book1-ch07]]
 - [[sources/med6-book2-ch12]]
+- [[sources/med6-book4-ch01]]
 
 ## Key Details From Sources
 
+- ...不抽菸、不喝酒(或極微量飲酒) | 0.06~0.08% | | II | 有輕微的系統性疾病,且在日常生活機能方面不受限制。 | 抽菸、喝酒(社交性)、輕微肺部疾病、控制良好的高血壓或糖尿病、肥胖(30 控制良好的妊娠糖尿病、妊娠高血壓或子癲前症) | 0.27~0.4% | | III | 有嚴重的系統性疾病,讓日常生活受到限制。 | 控制不佳的高血壓或糖尿病、慢性阻塞性肺疾(COPD)、病態性肥胖(BMI > 40)、酒精成癮、規則洗腎、有中風或心肌梗塞病史(發作時間超過三個月以上)、冠狀動脈疾病、裝心臟節律器、子癲前症合併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
 - 4. 高血壓脈絡膜病變:常見於急性高血壓的年輕人(如:子癲前症、子癲症、嗜鉻細胞瘤)或惡性高血壓的病人。眼底典型表現有 Elschnig's spot(代表局部脈絡膜阻塞)、Siegrist streak(代表類纖維蛋白壞死)或滲出性視網膜剝離。眼底螢光血管攝影檢查早期為低灌注(hypoperfusion),晚期則滲漏而高螢光。 Source: [[sources/med6-book2-ch12|子、視網膜]].
 - A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) *126* Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
 - # A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].

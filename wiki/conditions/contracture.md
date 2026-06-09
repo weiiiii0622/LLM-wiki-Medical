@@ -8,6 +8,7 @@ sources:
   - "[[sources/med6-book3-ch01]]"
   - "[[sources/med6-book3-ch07]]"
   - "[[sources/med6-book3-ch06]]"
+  - "[[sources/med6-book4-ch09]]"
 aliases:
   - 'Contracture (攣縮)'
   - 'Contracture'
@@ -22,7 +23,7 @@ tags:
 
 ## Summary
 
-長期固定、痙攣、疼痛或軟組織縮短造成關節活動受限，預防重點是擺位、伸展與早期活動。 本頁已整合至 `醫(六)第3冊復健`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+長期固定、痙攣、疼痛或軟組織縮短造成關節活動受限，預防重點是擺位、伸展與早期活動。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -30,9 +31,11 @@ tags:
 - [[sources/med6-book3-ch01]]
 - [[sources/med6-book3-ch07]]
 - [[sources/med6-book3-ch06]]
+- [[sources/med6-book4-ch09]]
 
 ## Key Details From Sources
 
+- c. 治療後的影響如術後沾黏與疤痕攣縮(scar contracture)、放射線治療造成的 纖維化、神經炎等都會造成疼痛。通常需要用多種方式治療疼痛。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
 - 術後24~48小時內可於患肢下方墊枕頭,以減輕腫脹,但48小時內需將枕頭移去, 以防關節攣縮變形。膝下截肢者,墊高膝關節時需伸直,膝上截肢病人則不建議墊 高,可採平躺姿勢。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
 - 5. 患肢的擺位:為了預防關節攣縮、變形而延遲義肢裝置時間,患肢應保持內收及自 然伸直姿勢,勿連續維持同一坐姿超過一小時,患肢的擺位應避免以下姿勢: - (1) 膝上截肢: - a. 避免 hip flexion contracture: - (a) 避免脊椎彎曲,平躺時勿將枕頭放在腰部下面。 - (b) 半坐臥時不要在臀部墊枕頭, 使殘肢翹起。 - (c) 不要將殘肢放在柺杖的手柄上及跨在助行器上。 - b. 避免 hip abduction contracture: Source: [[sources/med6-book3-ch03|丙、骨科復健]].
 - (1) 每天需趴臥三次,每次 15 分鐘以避免 hip flexion contracture。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].

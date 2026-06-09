@@ -29,6 +29,7 @@ sources:
   - "[[sources/med6-book1-ch08]]"
   - "[[sources/med6-book2-ch19]]"
   - "[[sources/med6-book2-ch15]]"
+  - "[[sources/med6-book4-ch11]]"
 aliases:
   - 'Opportunistic infection (伺機性感染)'
   - 'Opportunistic infection'
@@ -43,7 +44,7 @@ tags:
 
 ## Summary
 
-免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(六)第2冊眼科`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
+免疫功能下降時由平時低致病性或潛伏病原造成的感染。 本頁已整合至 `醫(六)第4冊麻醉耳鼻喉`；若同一 topic 也出現在舊來源，來源與重點會保留並合併。
 
 ## Source Coverage
 
@@ -72,9 +73,11 @@ tags:
 - [[sources/med6-book1-ch08]]
 - [[sources/med6-book2-ch19]]
 - [[sources/med6-book2-ch15]]
+- [[sources/med6-book4-ch11]]
 
 ## Key Details From Sources
 
+- (3) 壞死性外耳炎 (necrotizing external otitis): - a. 壞死性外耳炎是較嚴重的併發症,由外耳炎持續的感染,繼續侵犯至顱底的 軟組織與骨頭,甚至有可能造成腦膜炎以及顱內膿瘍。 - b. 好發於年紀較大的患者、糖尿病患者、免疫不全的患者。 - c. 大部分的致病菌為 Pseudomonas aeruginosa, 需使用涵蓋 Pseudomonas aeruginosa 的抗生素做感染控制。 - d. 安排進一步的腦部影像學的檢查如 CT 或 MRI, 以觀察顱內侵犯的範圍。 Source: [[sources/med6-book4-ch11|甲、耳科]].
 - B. 後天免疫不全症候群(Acquired immunodeficiency syndrome) *210* Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - #### B. 後天免疫不全症候群 (Acquired immunodeficiency syndrome) Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
 - 1. 簡介:由感染 human immunodeficiency virus 造成,因 CD4+ T 淋巴球受攻擊而減少 造成免疫不全,當 CD4+ 數量少於 50 cells/mm3 時,易有巨細胞病毒視網膜炎。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
