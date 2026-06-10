@@ -130,3 +130,9 @@ Created raw source directories, wiki directories, templates, index, log, overvie
 - Added canonical raw chapter/page citation metadata to 313 source pages.
 - Rewrote topic-page `Source:` citation tails from internal `[[sources/...]]` links to raw source titles with page ranges.
 - Added `tools/update_raw_citations.py` and `docs/query-citation-policy.md` for future Codex/Hermes sessions.
+
+## [2026-06-10] maintenance | Hermes raw-source query policy
+
+- Added `HERMES.md` and a prominent `wiki/index.md` query citation rule.
+- Clarified that remote query agents should not search `raw/books/md`; use topic-page raw `Source:` strings or `wiki/sources/*` `canonical_citation`.
+- Clarified that topic nodes such as `[[drugs/ketamine]]` are consulted notes, not final answer sources.

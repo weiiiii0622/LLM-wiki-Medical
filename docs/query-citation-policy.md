@@ -9,6 +9,8 @@ This vault has two citation layers:
 
 When answering a query, use topic pages for retrieval and synthesis, but cite raw source chapters in final sources.
 
+Remote agents may not have the `raw/` directory mounted. Do not call search/open tools on `raw/books/md` during query answering. The raw-source citation text has already been copied into wiki topic pages and source-page metadata.
+
 Bad final source:
 
 ```markdown
@@ -29,6 +31,14 @@ Good final source:
 3. For each claim, use the topic page `Source: ...` raw citation if already present.
 4. If only a `[[sources/<slug>]]` internal link is present, open that source page and use `canonical_citation`.
 5. Never cite topic-node paths such as `conditions/`, `anatomy/`, `concepts/`, `drugs/`, or `diagnostics/` as final sources.
+6. Build the final source list only from raw `Source:` strings or `canonical_citation`; ignore page title links, `Source Coverage`, `Related Pages`, and frontmatter `sources:` as final-source candidates.
+
+## Hermes-Specific Rules
+
+- Do not search `/mnt/llm-wiki-med/raw` or `raw/books/md`; these paths may be absent on the server.
+- Treat `[[drugs/ketamine]]`, `[[conditions/dumping-syndrome]]`, and similar topic links as consulted notes, never as sources.
+- If a retrieved topic page contains `Source: 醫(... ) Page ...`, copy that string into citations.
+- If a retrieved topic page has no raw `Source:` line, open listed `[[sources/...]]` pages and read `canonical_citation`.
 
 ## Maintenance
 

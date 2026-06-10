@@ -13,6 +13,13 @@ tags:
 
 Content catalog for this medical LLM wiki. Update this file on every ingest, durable query, or maintenance pass.
 
+## Query Citation Rule
+
+- Use topic pages for retrieval only; they are not sources.
+- Final answer sources must be raw chapter/page strings, for example `醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72`.
+- Do not cite `[[drugs/...]]`, `[[conditions/...]]`, `[[anatomy/...]]`, `[[diagnostics/...]]`, `[[procedures/...]]`, `[[guidelines/...]]`, `[[physiology/...]]`, or `[[concepts/...]]` as sources.
+- Remote Hermes deployments may not have `raw/`; do not search `raw/books/md` to answer queries. Use raw citation strings already present in topic pages after `Source:` or `canonical_citation` in `wiki/sources/*`.
+
 ## Core Pages
 
 - [[overview]] - Top-level map and current synthesis of the vault.

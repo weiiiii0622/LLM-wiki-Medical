@@ -54,6 +54,7 @@ Short rule:
 - Use `wiki/sources/*` `canonical_citation` fields for final answer source lists.
 - Do not cite `[[conditions/...]]`, `[[anatomy/...]]`, `[[concepts/...]]`, or other topic nodes as sources.
 - If a topic page says `Source: 醫(三)... Page 133-138`, cite that raw chapter/page text directly.
+- Do not search `raw/books/md` during query answering; remote Hermes deployments may not have raw files mounted.
 
 Refresh raw citations after ingest or source edits:
 

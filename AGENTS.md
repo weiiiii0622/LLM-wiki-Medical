@@ -102,7 +102,7 @@ Allowed `status` values:
 
 ## Citation Style
 
-Use raw-source citations in claim text and final answers. Topic pages are retrieval/synthesis nodes, not primary sources.
+Use raw-source citations in claim text and final answers. Topic pages are retrieval/synthesis nodes, not primary sources. Remote agents may not have `raw/` mounted, so query answering must not depend on opening raw files.
 
 Each `wiki/sources/*.md` page should carry canonical raw provenance fields:
 
@@ -114,7 +114,14 @@ page_end: 138
 canonical_citation: "醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病 Page 133-138"
 ```
 
-Topic-page frontmatter and `Source Coverage` may keep `[[sources/...]]` links for graph and audit purposes, but these are internal anchors only. Do not present `[[conditions/...]]`, `[[anatomy/...]]`, `[[concepts/...]]`, or other LLM-generated topic pages as sources in final answers.
+Topic-page frontmatter and `Source Coverage` may keep `[[sources/...]]` links for graph and audit purposes, but these are internal anchors only. Do not present `[[conditions/...]]`, `[[drugs/...]]`, `[[anatomy/...]]`, `[[diagnostics/...]]`, `[[procedures/...]]`, `[[guidelines/...]]`, `[[physiology/...]]`, `[[concepts/...]]`, or other LLM-generated topic pages as sources in final answers.
+
+Final answer source lists must be built only from:
+
+- raw `Source: 醫(... ) Page ...` strings already present in topic pages
+- `canonical_citation` fields in `wiki/sources/*`
+
+Do not use topic page titles, `Related Pages`, `Source Coverage`, or frontmatter `sources:` as final sources.
 
 Example:
 
@@ -173,9 +180,10 @@ When answering questions:
 1. Read `wiki/index.md` first.
 2. Search the wiki with `rg` for key terms.
 3. Read relevant pages before answering.
-4. Synthesize from topic pages, then resolve their `sources:` entries to raw chapter/page citations via `wiki/sources/*` `canonical_citation`.
-5. If the answer is durable and useful, ask whether to file it, or file it directly when the user asks.
-6. If filed, create `wiki/questions/<slug>.md`, update `wiki/index.md`, and append to `wiki/log.md`.
+4. Synthesize from topic pages, but cite only raw `Source: ... Page ...` strings or `wiki/sources/*` `canonical_citation`.
+5. Do not search `raw/books/md` during query answering; server-side Hermes may not have raw files.
+6. If the answer is durable and useful, ask whether to file it, or file it directly when the user asks.
+7. If filed, create `wiki/questions/<slug>.md`, update `wiki/index.md`, and append to `wiki/log.md`.
 
 ## Lint Workflow
 
