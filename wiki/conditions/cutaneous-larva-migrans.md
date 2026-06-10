@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- # 2. 皮膚幼蟲移行症(Cutaneous larva migrans) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 有許多種線蟲(nematode parasites)皆可造成皮膚幼蟲移行症,但最常見者是 鉤蟲(Ancylostoma)。 - a. 巴西鉤蟲 Ancylostoma braziliense: 這是最常見的感染源。 - b. 犬鉤蟲 *Ancylostoma caninum* (dog hookworm): 常見於澳洲。 - c. 狹頭鉤蟲 Uncinaria stenocephala (dog hookworm): 常在歐洲發生。 - d. 牛鉤蟲 Bunostomum phlebotomum (cattle hookworm)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- # 2. 皮膚幼蟲移行症(Cutaneous larva migrans) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (1) 有許多種線蟲(nematode parasites)皆可造成皮膚幼蟲移行症,但最常見者是 鉤蟲(Ancylostoma)。 - a. 巴西鉤蟲 Ancylostoma braziliense: 這是最常見的感染源。 - b. 犬鉤蟲 *Ancylostoma caninum* (dog hookworm): 常見於澳洲。 - c. 狹頭鉤蟲 Uncinaria stenocephala (dog hookworm): 常在歐洲發生。 - d. 牛鉤蟲 Bunostomum phlebotomum (cattle hookworm)。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

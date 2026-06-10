@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 膝關節置換手術後復健目標: - (1) 疼痛控制。 - (2) 預防長期臥床而引發 DVT、pulmonary embolism 或 pressure ulcers 等併發症。 - (3) 適當的恢復關節活動度。 - (4) 加強膝蓋周圍肌肉肌力。 - (5) 幫助病患達到 ADL 的功能性獨立。 - (6) 在輔具幫助下能獨立行走。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
+- 1. 膝關節置換手術後復健目標: - (1) 疼痛控制。 - (2) 預防長期臥床而引發 DVT、pulmonary embolism 或 pressure ulcers 等併發症。 - (3) 適當的恢復關節活動度。 - (4) 加強膝蓋周圍肌肉肌力。 - (5) 幫助病患達到 ADL 的功能性獨立。 - (6) 在輔具幫助下能獨立行走。 Source: 醫(六)第3冊復健_丙、骨科復健 Page 85-104.
 
 ## Clinical Caveats
 

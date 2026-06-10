@@ -31,9 +31,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...| | (A)約 70%子宮頸癌病人之腫瘤內可以驗出第 16 型或第 18 型人 | 醫六 -49 | | | 類乳突病毒 | | | | (B) 子宮頸癌最常見的人類乳突病毒為第 18 型 | | | | (C) 人類乳突病毒透過其 E6 protein、E7 protein 和子宮頸癌上皮 | | | | 細胞之 p53 protein、Rb protein 分別作用,而引起細胞增生 | | | | 進而癌化 | | | | (D) 人類乳突病毒為環形 DNA 病毒 | | | | 【詳解】(B) High risk (oncogenic) type的 HPV 以 16, 18 最常見, | | | | 佔 70%,而 16 又比 18 更常見,故子宮頸癌最常見的人類乳突 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (1) Sabiston Textbook of Surgery, 20 ed, Ch.66 P.1865 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- 【 詳解 】有 pain、pale、pulseless 等 6 P 症狀,輔以病人的 underlying ( 高血壓、抽菸 ),懷疑是急性動脈阻塞,此時首選 即為 embolectomy 或 thrombectomy。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- ...| | (A)約 70%子宮頸癌病人之腫瘤內可以驗出第 16 型或第 18 型人 | 醫六 -49 | | | 類乳突病毒 | | | | (B) 子宮頸癌最常見的人類乳突病毒為第 18 型 | | | | (C) 人類乳突病毒透過其 E6 protein、E7 protein 和子宮頸癌上皮 | | | | 細胞之 p53 protein、Rb protein 分別作用,而引起細胞增生 | | | | 進而癌化 | | | | (D) 人類乳突病毒為環形 DNA 病毒 | | | | 【詳解】(B) High risk (oncogenic) type的 HPV 以 16, 18 最常見, | | | | 佔 70%,而 16 又比 18 更常見,故子宮頸癌最常見的人類乳突 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (1) Sabiston Textbook of Surgery, 20 ed, Ch.66 P.1865 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丙、胸腔及縱隔腔 Page 149-156.
+- 【 詳解 】有 pain、pale、pulseless 等 6 P 症狀,輔以病人的 underlying ( 高血壓、抽菸 ),懷疑是急性動脈阻塞,此時首選 即為 embolectomy 或 thrombectomy。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_己、周邊血管疾病 Page 95-104.
 
 ## Clinical Caveats
 

@@ -27,8 +27,8 @@ Naloxone 是 opioid receptor antagonist，可逆轉 opioid-induced respiratory d
 
 ## Key Details From Sources
 
-- a. 呼吸抑制。(由於病人對於 morphine 的呼吸抑制副作用會慢慢的適應,因此呼吸抑制比較常出現在第一次使用或突然提高劑量的病人身上,也不一定與morphine 的濃度相關。我們能做的是隨時觀察病人的生命徵象,若有需要則給予支持呼吸或解毒劑—Naloxone。) Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
-- (1) Naloxone - a. 適應症:opiate 過量;治療 opiate 導致的呼吸抑制;治療 opiate 導致的皮膚 搔癢(pruritus)。 - b. 機轉:競爭抑制 opiate 的 receptors。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- a. 呼吸抑制。(由於病人對於 morphine 的呼吸抑制副作用會慢慢的適應,因此呼吸抑制比較常出現在第一次使用或突然提高劑量的病人身上,也不一定與morphine 的濃度相關。我們能做的是隨時觀察病人的生命徵象,若有需要則給予支持呼吸或解毒劑—Naloxone。) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
+- (1) Naloxone - a. 適應症:opiate 過量;治療 opiate 導致的呼吸抑制;治療 opiate 導致的皮膚 搔癢(pruritus)。 - b. 機轉:競爭抑制 opiate 的 receptors。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
 
 ## Clinical Caveats
 

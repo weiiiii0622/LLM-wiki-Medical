@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 腦部創傷 (Traumatic brain injury, TBI) 71 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- #### B. 腦部創傷 (Traumatic brain injury, TBI) Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- 3. 對於腦傷病患認知功能的評估目前多採用 Rancho Los Amigos Levels of Cognitive Function Scale (LCFS),用來描述 TBI 後認知及行為的恢復情形,如下: Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- B. 腦部創傷 (Traumatic brain injury, TBI) 71 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- #### B. 腦部創傷 (Traumatic brain injury, TBI) Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- 3. 對於腦傷病患認知功能的評估目前多採用 Rancho Los Amigos Levels of Cognitive Function Scale (LCFS),用來描述 TBI 後認知及行為的恢復情形,如下: Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
 
 ## Clinical Caveats
 

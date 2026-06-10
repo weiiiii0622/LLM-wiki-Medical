@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- 7. 鰓裂囊腫 (branchial cleft anomalies)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- #### B. 鰓裂囊腫 (Branchial cleft anomalies) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- B. 腮裂遺跡 (Branchial cleft remnants) 130 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- 4. 最常見位於胸鎖乳突肌前的非淋巴性腫瘤:腮裂囊腫(branchial cleft cyst)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- ### B. 腮裂遺跡 (Branchial cleft remnants) Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
+- 7. 鰓裂囊腫 (branchial cleft anomalies)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- #### B. 鰓裂囊腫 (Branchial cleft anomalies) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- B. 腮裂遺跡 (Branchial cleft remnants) 130 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
+- 4. 最常見位於胸鎖乳突肌前的非淋巴性腫瘤:腮裂囊腫(branchial cleft cyst)。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
+- ### B. 腮裂遺跡 (Branchial cleft remnants) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
 
 ## Clinical Caveats
 

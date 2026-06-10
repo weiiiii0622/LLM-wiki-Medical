@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- ...各種預防措施,仍 常見病患腎功能慢慢變差。 - (b) 可能導致低血鎂、並伴隨低血鈣等電解質異常。還可能導致四肢未端麻木等神經毒性(glove-and-stocking neuropathy)、聽力受損等。 - (c) 強致吐劑,臨床上以 5-HT3 antagonists: Tropisetron (Navoban®)、Ondansetron (Onzod®),palonosetron (Aloxi) 預防。 - b. Carboplatin: 卵巢癌或肺癌病患腎功能不佳的病患會用 Carboplatin。 - (a) 腎毒性、神經毒性、耳毒性都較 cisplatin 少,但骨髓抑制較多。 - c. Oxaliplatin: 對於大腸癌較有效,加上前面提及的 5Fu + Leuc Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- ...各種預防措施,仍 常見病患腎功能慢慢變差。 - (b) 可能導致低血鎂、並伴隨低血鈣等電解質異常。還可能導致四肢未端麻木等神經毒性(glove-and-stocking neuropathy)、聽力受損等。 - (c) 強致吐劑,臨床上以 5-HT3 antagonists: Tropisetron (Navoban®)、Ondansetron (Onzod®),palonosetron (Aloxi) 預防。 - b. Carboplatin: 卵巢癌或肺癌病患腎功能不佳的病患會用 Carboplatin。 - (a) 腎毒性、神經毒性、耳毒性都較 cisplatin 少,但骨髓抑制較多。 - c. Oxaliplatin: 對於大腸癌較有效,加上前面提及的 5Fu + Leuc Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_乙、化學治療 Page 215-224.
 
 ## Clinical Caveats
 

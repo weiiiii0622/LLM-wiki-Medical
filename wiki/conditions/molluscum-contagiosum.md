@@ -29,10 +29,10 @@ poxvirus 感染造成中央臍凹丘疹，兒童與免疫低下者較常見。 �
 
 ## Key Details From Sources
 
-- (4) 接觸性軟疣性結膜炎(Molluscum contagiosum conjunctivitis):多發生在年輕人 或 AIDS 病人。病灶在眼瞼邊緣呈現白、肚臍狀小結節。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
-- # 7. 傳染性軟疣 ( Molluscum Contagiosum ): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 由傳染性軟疣病毒(molluscum contagiosum virus, MCV)引起,屬於 Poxvirus 的一類(非 HPV)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (4) 病理下可見被感染的角質細胞 質內有紅色的 molluscum bodies (viral in-clusion)。(見右圖) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (4) 接觸性軟疣性結膜炎(Molluscum contagiosum conjunctivitis):多發生在年輕人 或 AIDS 病人。病灶在眼瞼邊緣呈現白、肚臍狀小結節。 Source: 醫(六)第2冊眼科_第一篇、眼科_丁、結膜 Page 43-52.
+- # 7. 傳染性軟疣 ( Molluscum Contagiosum ): Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (1) 由傳染性軟疣病毒(molluscum contagiosum virus, MCV)引起,屬於 Poxvirus 的一類(非 HPV)。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (4) 病理下可見被感染的角質細胞 質內有紅色的 molluscum bodies (viral in-clusion)。(見右圖) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

@@ -27,8 +27,8 @@ LPI 建立虹膜通道以解除 pupillary block，是 angle-closure glaucoma 常
 
 ## Key Details From Sources
 
-- a. 雷射虹膜造孔術(laser iridotomy):以 Nd-YAG 雷射在周邊虹膜打一孔洞, 而在前後房之間重新建立一通道,讓房水不必靠瞳孔通道即可順利流入前 房,減緩 pupillary block 的症狀,是治療閉鎖性青光眼的第一選擇。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- 2. 慢性隅角閉鎖性青光眼 (Chronic angle-closure glaucoma): - (1) 病因:少數具有前房隅角閉鎖傾向的病人不會產生急性的眼壓上升,但會形成 廣泛的虹膜周邊前黏連(peripheral anterior synechiae)伴隨緩慢升高的眼內壓。 - (2) 症狀:慢性隅角閉鎖性青光眼的臨床表現與原發性隅角開放性青光眼相似,常有雙眼廣泛的視野喪失。 - (3) 檢查:可發現眼壓升高、前房隅角狹窄且有不等程度的虹膜周邊前黏連及視神 經盤與視野之變化。 - (4) 處理:雷射虹膜造孔術 (laser iridotomy) 加上藥物治療。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- a. 雷射虹膜造孔術(laser iridotomy):以 Nd-YAG 雷射在周邊虹膜打一孔洞, 而在前後房之間重新建立一通道,讓房水不必靠瞳孔通道即可順利流入前 房,減緩 pupillary block 的症狀,是治療閉鎖性青光眼的第一選擇。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- 2. 慢性隅角閉鎖性青光眼 (Chronic angle-closure glaucoma): - (1) 病因:少數具有前房隅角閉鎖傾向的病人不會產生急性的眼壓上升,但會形成 廣泛的虹膜周邊前黏連(peripheral anterior synechiae)伴隨緩慢升高的眼內壓。 - (2) 症狀:慢性隅角閉鎖性青光眼的臨床表現與原發性隅角開放性青光眼相似,常有雙眼廣泛的視野喪失。 - (3) 檢查:可發現眼壓升高、前房隅角狹窄且有不等程度的虹膜周邊前黏連及視神 經盤與視野之變化。 - (4) 處理:雷射虹膜造孔術 (laser iridotomy) 加上藥物治療。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
 
 ## Clinical Caveats
 

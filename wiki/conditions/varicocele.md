@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- (B) 18. 有關精索靜脈曲張(varicocele)的敘述,下列何者錯誤? Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (A) 年紀大的人突然發生精索靜脈曲張,有時是腎臟腫瘤的表現 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (C) 進行 Valsalva maneuver 時精索靜脈曲張會更明顯 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- ...可以用手術矯正之男性不孕 | 症病因最常見的(the most common | 102(一)專 | | | correctable cause of male infer | tility)為何? | 醫五 -71 | | | (A) Varicocele | (B) Testicular torsion | | | | (C) Testicular tumor | (D) Hydrocele | | | (B) 21. | 男性更年期(Male Climacter | rics)血中的那一種數值會上升? | 100(二)專 | | | (A) Free testosterone | | 醫五 -71 | | | (B) Sex hormone binding glob | ulin ( Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (B) 18. 有關精索靜脈曲張(varicocele)的敘述,下列何者錯誤? Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- (A) 年紀大的人突然發生精索靜脈曲張,有時是腎臟腫瘤的表現 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- (C) 進行 Valsalva maneuver 時精索靜脈曲張會更明顯 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- ...可以用手術矯正之男性不孕 | 症病因最常見的(the most common | 102(一)專 | | | correctable cause of male infer | tility)為何? | 醫五 -71 | | | (A) Varicocele | (B) Testicular torsion | | | | (C) Testicular tumor | (D) Hydrocele | | | (B) 21. | 男性更年期(Male Climacter | rics)血中的那一種數值會上升? | 100(二)專 | | | (A) Free testosterone | | 醫五 -71 | | | (B) Sex hormone binding glob | ulin ( Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
 
 ## Clinical Caveats
 

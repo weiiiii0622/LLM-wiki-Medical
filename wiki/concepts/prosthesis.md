@@ -31,13 +31,13 @@ tags:
 
 ## Key Details From Sources
 
-- ...ible or maxilla, or involves the moxillary sinus or skin of the face) | | | | | Note: Superficial erosion of bone/tooth socket (alone) by a gingival primary is not | | | | · | sufficient to classify a tumor as T4. | | | | T4b | Very advanced local disease | | | | | Tumor invades masticator space, pterygoid plates, or skull base and/or encases t Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- B. 義肢 (Prosthesis) 110 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- #### 丁、裝具、義肢及輔具 (Orthosis, Prosthesis and Assisting Devices) Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- (3) 與義肢(Prosthesis)最大不同:義肢取代了正常身體的部份,裝具沒有。 - a. 例如常見的全膝置換術中置於人體內取代正常膝關節的裝置也稱為 Total knee prosthesis 或 prosthetic implant。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- (3) 彈性繃帶應持續使用半年或直到患肢肌肉外觀維持適當的形狀,以便裝置義肢。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
-- 3. 為促進殘肢的塑型,可用彈性繃帶、彈性襪、半硬式包紮(air splint)、硬式包紮或 穿開刀後立即式義肢(immediately postoperative prosthesis fitting)。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
-- 4. 病患術後會有對已截除的肢體仍感覺存在的錯覺(幻肢感,phantom limb),甚至感覺已截除的肢體有疼痛感(幻肢痛,phantom pain)。屬正常現象,通常在數週或裝完義肢後會慢慢消失。術後可藉由直視患肢,提早接受截肢之事實;拍打殘肢、使用彈性繃帶、電刺激或盡早裝置義肢可緩解幻肢感與幻肢痛情形。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
+- ...ible or maxilla, or involves the moxillary sinus or skin of the face) | | | | | Note: Superficial erosion of bone/tooth socket (alone) by a gingival primary is not | | | | · | sufficient to classify a tumor as T4. | | | | T4b | Very advanced local disease | | | | | Tumor invades masticator space, pterygoid plates, or skull base and/or encases t Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- B. 義肢 (Prosthesis) 110 Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- #### 丁、裝具、義肢及輔具 (Orthosis, Prosthesis and Assisting Devices) Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- (3) 與義肢(Prosthesis)最大不同:義肢取代了正常身體的部份,裝具沒有。 - a. 例如常見的全膝置換術中置於人體內取代正常膝關節的裝置也稱為 Total knee prosthesis 或 prosthetic implant。 Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- (3) 彈性繃帶應持續使用半年或直到患肢肌肉外觀維持適當的形狀,以便裝置義肢。 Source: 醫(六)第3冊復健_丙、骨科復健 Page 85-104.
+- 3. 為促進殘肢的塑型,可用彈性繃帶、彈性襪、半硬式包紮(air splint)、硬式包紮或 穿開刀後立即式義肢(immediately postoperative prosthesis fitting)。 Source: 醫(六)第3冊復健_丙、骨科復健 Page 85-104.
+- 4. 病患術後會有對已截除的肢體仍感覺存在的錯覺(幻肢感,phantom limb),甚至感覺已截除的肢體有疼痛感(幻肢痛,phantom pain)。屬正常現象,通常在數週或裝完義肢後會慢慢消失。術後可藉由直視患肢,提早接受截肢之事實;拍打殘肢、使用彈性繃帶、電刺激或盡早裝置義肢可緩解幻肢感與幻肢痛情形。 Source: 醫(六)第3冊復健_丙、骨科復健 Page 85-104.
 
 ## Clinical Caveats
 

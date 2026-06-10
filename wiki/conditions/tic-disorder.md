@@ -35,16 +35,16 @@ tags:
 
 ## Key Details From Sources
 
-- II. 自閉性疾患 (Autistic Disorder) 157 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- III. Tic Disorder 162 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- ...王小弟卻常常出現不自主扮鬼臉抽搐的現象,又惹得同學不時譏 笑,王小弟因此常常氣得哭了,王小弟最可能的診斷是什麼? ①妥瑞氏症(Tourette's Disorder)②慢性運動或語言抽搐症 (chronic motor or vocal tic disorder) (3)強迫症 (obsessivecompulsive disorder) ④注意力不足症(attention-deficit disorder) Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- #### 酒精引起的永久失憶疾患 (Alcohol-induced persisting amnestic disorder) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- #### 安非他命引起的精神疾病 (Amphetamine-induced psychotic disorder) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 101(一)專 (B) 44. 長期酒癮患者易罹患「酒精誘發之精神病疾患(Alcohol-induced psychotic disorder)」,此類患者最常出現下列何種知覺障礙? 醫四 -71 (A) 視幻覺 (B) 聽幻覺 (C) 嗅幻覺 (D) 觸幻覺 100(二)專 (B) 45. 海洛因成癮的個案通常較容易合併那一種第二軸診斷? (A) 妄想性人格障礙症(paranoid personality disorder) 醫四 -65 (B) 反社會人格障礙症(antisocial personality disorder) (C) 自戀性人格障礙症(narcissis Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- #### 二、其他表現症狀類似思覺失調症的精神疾病 (Psychotic disorders) 之比較 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- | 疾病名稱 | 症狀表現 | 症狀持續時間 | |---------------------------|------------------|---------| | Brief psychotic disorder | 符合思覺失調症之診斷準則 A | 1天到1個月 | | Schizophreniform disorder | 符合思覺失調症之診斷準則 A | 1個月到6個月 | | Schizophrenia | 符合思覺失調症之診斷準則 A | 6個月以上 | | Psychotic disorder, NOS. | 表現精神症狀(如妄想或幻覺),但 | 不一定 | | | 無法符合思覺失調症之診斷準則A | | Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- 1. 精神疾病(psychotic disorder):如思覺失調症、情感性思覺失調症(schizoaffective disorder)、憂鬱症導致的精神症狀(psychotic depression)與其他原因造成的 secondary psychosis。和傳統抗精神病藥物做比較,使用 SDA 的病人病情較少復發、副作用較少、負性症狀改善較明顯。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- II. 自閉性疾患 (Autistic Disorder) 157 Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- III. Tic Disorder 162 Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- ...王小弟卻常常出現不自主扮鬼臉抽搐的現象,又惹得同學不時譏 笑,王小弟因此常常氣得哭了,王小弟最可能的診斷是什麼? ①妥瑞氏症(Tourette's Disorder)②慢性運動或語言抽搐症 (chronic motor or vocal tic disorder) (3)強迫症 (obsessivecompulsive disorder) ④注意力不足症(attention-deficit disorder) Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- #### 酒精引起的永久失憶疾患 (Alcohol-induced persisting amnestic disorder) Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- #### 安非他命引起的精神疾病 (Amphetamine-induced psychotic disorder) Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- 101(一)專 (B) 44. 長期酒癮患者易罹患「酒精誘發之精神病疾患(Alcohol-induced psychotic disorder)」,此類患者最常出現下列何種知覺障礙? 醫四 -71 (A) 視幻覺 (B) 聽幻覺 (C) 嗅幻覺 (D) 觸幻覺 100(二)專 (B) 45. 海洛因成癮的個案通常較容易合併那一種第二軸診斷? (A) 妄想性人格障礙症(paranoid personality disorder) 醫四 -65 (B) 反社會人格障礙症(antisocial personality disorder) (C) 自戀性人格障礙症(narcissis Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- #### 二、其他表現症狀類似思覺失調症的精神疾病 (Psychotic disorders) 之比較 Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
+- | 疾病名稱 | 症狀表現 | 症狀持續時間 | |---------------------------|------------------|---------| | Brief psychotic disorder | 符合思覺失調症之診斷準則 A | 1天到1個月 | | Schizophreniform disorder | 符合思覺失調症之診斷準則 A | 1個月到6個月 | | Schizophrenia | 符合思覺失調症之診斷準則 A | 6個月以上 | | Psychotic disorder, NOS. | 表現精神症狀(如妄想或幻覺),但 | 不一定 | | | 無法符合思覺失調症之診斷準則A | | Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
+- 1. 精神疾病(psychotic disorder):如思覺失調症、情感性思覺失調症(schizoaffective disorder)、憂鬱症導致的精神症狀(psychotic depression)與其他原因造成的 secondary psychosis。和傳統抗精神病藥物做比較,使用 SDA 的病人病情較少復發、副作用較少、負性症狀改善較明顯。 Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
+- 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
 
 ## Clinical Caveats
 

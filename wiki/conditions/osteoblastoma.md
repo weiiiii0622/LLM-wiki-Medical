@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...--------------------------------------------------------------------------------| | Osseous | Osteoma, Osteoid osteoma, Osteoblastoma, Fibrous dysplasia, Osteosarcoma | | Cartilage | Exostosis (osteochondroma), enchondromaChondroma, Chondroblastoma, Chondromyxoid fibroma,Chondrosarcoma. | | Fibrous | Histiocytic fibroma, Benign fibrous histiocytoma, D Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (C) 骨母細胞瘤(osteoblastoma)引起的疼痛可藉藥物緩解,因此不須手術 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (D) 骨樣骨瘤(osteoid osteoma)好發於關節及長骨骨(epiphysis) 【詳解】(B) 大部分都是良性,只有少部分會有惡性變化,如無症狀不需要治療;(C) osteoblastoma 與 osteoid osteoma 都可以 NSAID 緩解,osteoblastoma 如果持續追蹤腫瘤沒有變大,可以 考慮暫時不用治療,但是如果藥物治療效果不佳則需手術治療 (包含刮除術或腫瘤切除);(D) Vertebra(最多)、sacrum、long bone 的 diaphysis 較多。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...---------------------------------------------------------------------------------------------| | 房名 | Osteoid osteoma | Osteoblastoma | | 好發年齡(歲) | 5~15 | 10~30 | | 好發性別 | 男 | 男 | | 好發部位 | proximal femur diaphyseal 最多 | Vertebra (最多)、sacrum、long bone (diaphysis) | | 病理 | 界線明顯, osteoid woven | 和 OO 相似 Osteolytic lesion with osseous- | | | bone, spindle Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
+- ...--------------------------------------------------------------------------------| | Osseous | Osteoma, Osteoid osteoma, Osteoblastoma, Fibrous dysplasia, Osteosarcoma | | Cartilage | Exostosis (osteochondroma), enchondromaChondroma, Chondroblastoma, Chondromyxoid fibroma,Chondrosarcoma. | | Fibrous | Histiocytic fibroma, Benign fibrous histiocytoma, D Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- (C) 骨母細胞瘤(osteoblastoma)引起的疼痛可藉藥物緩解,因此不須手術 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- (D) 骨樣骨瘤(osteoid osteoma)好發於關節及長骨骨(epiphysis) 【詳解】(B) 大部分都是良性,只有少部分會有惡性變化,如無症狀不需要治療;(C) osteoblastoma 與 osteoid osteoma 都可以 NSAID 緩解,osteoblastoma 如果持續追蹤腫瘤沒有變大,可以 考慮暫時不用治療,但是如果藥物治療效果不佳則需手術治療 (包含刮除術或腫瘤切除);(D) Vertebra(最多)、sacrum、long bone 的 diaphysis 較多。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- ...---------------------------------------------------------------------------------------------| | 房名 | Osteoid osteoma | Osteoblastoma | | 好發年齡(歲) | 5~15 | 10~30 | | 好發性別 | 男 | 男 | | 好發部位 | proximal femur diaphyseal 最多 | Vertebra (最多)、sacrum、long bone (diaphysis) | | 病理 | 界線明顯, osteoid woven | 和 OO 相似 Osteolytic lesion with osseous- | | | bone, spindle Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
 
 ## Clinical Caveats
 

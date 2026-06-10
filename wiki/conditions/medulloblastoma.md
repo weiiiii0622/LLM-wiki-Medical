@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- I. 髓母細胞瘤 (Medulloblastoma) 209 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...ocytoma)/神經胚母細胞瘤 (neuroblastoma):神經元。 - (6) 松果體細胞瘤 (pinealocytoma): 松果體細胞 (pineal cell)。 - (7) 胚胎細胞瘤 (embryonal tumor): 髓母細胞瘤 (medulloblastoma)、神經外胚層母細胞瘤 (primitive neuroectodermal tumor, PNET)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ## I. 髓母細胞瘤 (Medulloblastoma) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- I. 髓母細胞瘤 (Medulloblastoma) 209 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- ...ocytoma)/神經胚母細胞瘤 (neuroblastoma):神經元。 - (6) 松果體細胞瘤 (pinealocytoma): 松果體細胞 (pineal cell)。 - (7) 胚胎細胞瘤 (embryonal tumor): 髓母細胞瘤 (medulloblastoma)、神經外胚層母細胞瘤 (primitive neuroectodermal tumor, PNET)。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- ## I. 髓母細胞瘤 (Medulloblastoma) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
 
 ## Clinical Caveats
 

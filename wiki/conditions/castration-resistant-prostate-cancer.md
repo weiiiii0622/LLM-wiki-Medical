@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- b. 治療後期:多種研究中的治療方法。 - (a) 攝護腺癌在初期治療過後,會逐漸發展成不需依賴雄性素也能生長,稱為賀爾蒙難治性(hormone refractory) 或睪丸切除阻抗性(castration resistant) 攝護腺癌。 - (b) 目前有的應對方式包括免疫治療(immunotherapy)與 taxane 為基底的化學治療等等,目前關於這部分尚無治療準則,大部分花費高昂。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- b. 治療後期:多種研究中的治療方法。 - (a) 攝護腺癌在初期治療過後,會逐漸發展成不需依賴雄性素也能生長,稱為賀爾蒙難治性(hormone refractory) 或睪丸切除阻抗性(castration resistant) 攝護腺癌。 - (b) 目前有的應對方式包括免疫治療(immunotherapy)與 taxane 為基底的化學治療等等,目前關於這部分尚無治療準則,大部分花費高昂。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
 
 ## Clinical Caveats
 

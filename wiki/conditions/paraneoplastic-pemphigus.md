@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- C. Paraneoplastic pemphigus 60 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- # C. Paraneoplastic pemphigus Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- C. Paraneoplastic pemphigus 60 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- # C. Paraneoplastic pemphigus Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
 
 ## Clinical Caveats
 

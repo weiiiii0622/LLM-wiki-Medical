@@ -29,10 +29,10 @@ opioid 停用後出現流淚流鼻水、雞皮疙瘩、腹瀉、肌痛、焦躁�
 
 ## Key Details From Sources
 
-- F. 任何情況懷疑 skull base fracture、hemotympanum、raccoon eye · CSF otorrhea or rhinorrhea · Battle sign Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- #### 鴉片戒斷 (Opioid withdrawal) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- #### DSM-5 的診斷準則:鴉片戒斷(Opioid withdrawal) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 2. Clonidine:可以緩解鴉片戒斷的不舒服症狀。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- F. 任何情況懷疑 skull base fracture、hemotympanum、raccoon eye · CSF otorrhea or rhinorrhea · Battle sign Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- #### 鴉片戒斷 (Opioid withdrawal) Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- #### DSM-5 的診斷準則:鴉片戒斷(Opioid withdrawal) Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- 2. Clonidine:可以緩解鴉片戒斷的不舒服症狀。 Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
 
 ## Clinical Caveats
 

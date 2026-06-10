@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 可縮回的睪丸 (Retractile testes) 187 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
-- (1) 須先鑑別縮睪(retractile testes),縮睪可以手法將睪丸從腹股管(inguinal canal)復位至陰囊(scrotum)中,之後會自發性地下降到陰囊,僅需長期追蹤即可。如單側睪丸無法以手法復位,則診斷之。 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
-- ### B. 可縮回的睪丸 (Retractile testes) Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
+- B. 可縮回的睪丸 (Retractile testes) 187 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道 Page 199-204.
+- (1) 須先鑑別縮睪(retractile testes),縮睪可以手法將睪丸從腹股管(inguinal canal)復位至陰囊(scrotum)中,之後會自發性地下降到陰囊,僅需長期追蹤即可。如單側睪丸無法以手法復位,則診斷之。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道 Page 199-204.
+- ### B. 可縮回的睪丸 (Retractile testes) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道 Page 199-204.
 
 ## Clinical Caveats
 

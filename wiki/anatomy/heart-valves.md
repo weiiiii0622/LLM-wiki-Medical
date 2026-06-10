@@ -105,24 +105,24 @@ tags:
 
 ## Key Details From Sources
 
-- (3) CVP waveform 所代表意義:正常的 CVP 波形包括 3 個上升段(a、c、v 上升)和兩個下降段(x、y下降)。 - a. "a" wave:右心房收縮時所造成的 心房壓力上升。在心電圖的 P 波後 出現。記『心房收縮期』。心房顫 動時此波形會消失。 - b. "c" wave:右心室收縮早期,造成 三尖瓣的關閉所引起的心房壓力上 升。記『心室收縮早期』。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- d. "v" wave: 右心房被動充血,血液越裝越滿,導致壓力上升,但此時三尖瓣 仍關閉。記『心室收縮晚期』。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- e. "y" descent: 三尖瓣開啟導致右心房血液的排空進入右心室。記『心室舒張期』。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- ...脈硬化相關的血栓:位在篩板的血栓是造成中心動脈阻塞最常見的原因,佔 80%。 - (2) 頸動脈栓塞:膽固醇栓塞(Hollen-horst's plaques)、纖維血小管栓塞、鈣化性 栓塞。 - (3) 心臟栓塞:鈣化性栓塞(來自主動脈或二尖瓣)、vegetation(來自細菌性心內膜炎的瓣膜)、血栓(由於心肌梗塞後合併 AF 所產生)。 - (4) 巨細胞動脈炎 (giant cell arteritis) - (5) 動脈外膜炎:與皮肌炎、SLE、polyarteritis nodosa、Wegener 氏肉芽腫等疾病相關的動脈外膜炎偶爾會造視網膜分支動脈阳塞。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- 【詳解】(C) 對於有症狀的孕婦,少數藥物治療無效者,可考慮瓣膜修復(valvuloplasty)或主動脈瓣膜置換(aortic valve replacement)。[Ref: UpToDate ] Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- (D) 透納氏症女性的特徵為蹼頸、盾狀胸、主動脈瓣膜缺損以及 嚴重智力障礙 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ...) DTR ↓ (2) 麻痺、呼吸急促 (3) 心臟傳導 | | Nitroglycerinor Glyceryltrinitratepatch | Nitric oxidedonors(↑ cGMP,平滑肌放鬆) | ・低血壓・心臟病(如主動脈瓣閉鎖不全) | 頭暈、噁心嘔吐、潮紅、心悸、頭痛低血壓 | | | 註 1:Ritodrine · 為唯一通過美國 FDA 的安胎藥物,不過,由於副作用大,美國早已停售 | | | | | | 註 2: MgSO 4 · 美國 FDA 通過的 MgSO 4 使用適應症是預防子癇前症發生癲癇發作, MgSO 4 用來安胎是 off-label use · 美國 FDA 在 2013 年 5 月 30 日發布一則警訊,建議使用 MgSO 4 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ...x) | | | (B) 輸尿管腎盂接合處阻塞(ureteropelvic junction obstruction) | | | (C) 雙套輸尿管合併輸尿管開口異位 | | | (D) 後尿道瓣膜(posterior urethral valve) | | | 【詳解】(B)為正解,而(D)也有可能;所以考選部解答為(BD)。 | | | (C) 36. 膀胱癌實驗室檢查項目中最常見之異常為: | 98(一)專 | Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- 4. 好發位置:在迴腸上,距離迴盲瓣 (ileocecal valve) 45 至 60 公分,在腸繋膜相對的一側。(相對位置說明:腸繋膜—迴腸—梅克爾憩室,即所謂的腸繫膜對側 (antimesenteric side))。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (2) 2 feet from the ileocecal valve: 距離迴盲瓣 2 英尺。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 4. 臨床表現:呼吸受限、運動性肋軟骨疼痛、心悸或心雜音,二尖瓣脫垂,較嚴重者 會有明顯的心肺功能下降,因嚴重壓迫造成肺最大呼吸容積下降、心搏出量和心輸 出量下降。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- (B) 擠甦醒球(bag-valve-mask) 時聽不到呼吸聲 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 4. 常見病灶位置:近 ileocecal valve 的腸繋膜對側。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
-- 5. 病灶處通常在距 ileocecal valve 2 英呎 (60 cm) 的地方。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
-- (A) 位置距離迴盲瓣 (ileocecal valve) 2 英吋 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
-- 1. 小腸從十二指腸開始一直到迴盲瓣 (ileocecal valve)約3公尺長,為重要的消化器官。 Source: [[sources/med5-book3-ch04|甲、解剖構造]].
-- 【詳解】切除 ileum 較容易出現短腸症的狀況(ileum 對於 vit $B_{12}$ ,bile acid,fluid absorption 都有其重要性)。最好能夠保存 ileum 以及 ileocecal valve。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- (1) 前言:慢性的膽囊發炎會造成膽囊與小腸之間的 fistula,使得腸道內的空氣跑進膽囊。另外膽囊內的 gallstone 經由fistula 掉進腸內,形成腸阻塞,尤其於ileocecal valve 最常見。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
+- (3) CVP waveform 所代表意義:正常的 CVP 波形包括 3 個上升段(a、c、v 上升)和兩個下降段(x、y下降)。 - a. "a" wave:右心房收縮時所造成的 心房壓力上升。在心電圖的 P 波後 出現。記『心房收縮期』。心房顫 動時此波形會消失。 - b. "c" wave:右心室收縮早期,造成 三尖瓣的關閉所引起的心房壓力上 升。記『心室收縮早期』。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- d. "v" wave: 右心房被動充血,血液越裝越滿,導致壓力上升,但此時三尖瓣 仍關閉。記『心室收縮晚期』。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- e. "y" descent: 三尖瓣開啟導致右心房血液的排空進入右心室。記『心室舒張期』。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- ...脈硬化相關的血栓:位在篩板的血栓是造成中心動脈阻塞最常見的原因,佔 80%。 - (2) 頸動脈栓塞:膽固醇栓塞(Hollen-horst's plaques)、纖維血小管栓塞、鈣化性 栓塞。 - (3) 心臟栓塞:鈣化性栓塞(來自主動脈或二尖瓣)、vegetation(來自細菌性心內膜炎的瓣膜)、血栓(由於心肌梗塞後合併 AF 所產生)。 - (4) 巨細胞動脈炎 (giant cell arteritis) - (5) 動脈外膜炎:與皮肌炎、SLE、polyarteritis nodosa、Wegener 氏肉芽腫等疾病相關的動脈外膜炎偶爾會造視網膜分支動脈阳塞。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- 【詳解】(C) 對於有症狀的孕婦,少數藥物治療無效者,可考慮瓣膜修復(valvuloplasty)或主動脈瓣膜置換(aortic valve replacement)。[Ref: UpToDate ] Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- (D) 透納氏症女性的特徵為蹼頸、盾狀胸、主動脈瓣膜缺損以及 嚴重智力障礙 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ...) DTR ↓ (2) 麻痺、呼吸急促 (3) 心臟傳導 | | Nitroglycerinor Glyceryltrinitratepatch | Nitric oxidedonors(↑ cGMP,平滑肌放鬆) | ・低血壓・心臟病(如主動脈瓣閉鎖不全) | 頭暈、噁心嘔吐、潮紅、心悸、頭痛低血壓 | | | 註 1:Ritodrine · 為唯一通過美國 FDA 的安胎藥物,不過,由於副作用大,美國早已停售 | | | | | | 註 2: MgSO 4 · 美國 FDA 通過的 MgSO 4 使用適應症是預防子癇前症發生癲癇發作, MgSO 4 用來安胎是 off-label use · 美國 FDA 在 2013 年 5 月 30 日發布一則警訊,建議使用 MgSO 4 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ...x) | | | (B) 輸尿管腎盂接合處阻塞(ureteropelvic junction obstruction) | | | (C) 雙套輸尿管合併輸尿管開口異位 | | | (D) 後尿道瓣膜(posterior urethral valve) | | | 【詳解】(B)為正解,而(D)也有可能;所以考選部解答為(BD)。 | | | (C) 36. 膀胱癌實驗室檢查項目中最常見之異常為: | 98(一)專 | Source: 醫(五)第5冊泌尿_乙、下泌尿道 Page 45-66.
+- 4. 好發位置:在迴腸上,距離迴盲瓣 (ileocecal valve) 45 至 60 公分,在腸繋膜相對的一側。(相對位置說明:腸繋膜—迴腸—梅克爾憩室,即所謂的腸繫膜對側 (antimesenteric side))。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (2) 2 feet from the ileocecal valve: 距離迴盲瓣 2 英尺。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- 4. 臨床表現:呼吸受限、運動性肋軟骨疼痛、心悸或心雜音,二尖瓣脫垂,較嚴重者 會有明顯的心肺功能下降,因嚴重壓迫造成肺最大呼吸容積下降、心搏出量和心輸 出量下降。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- (B) 擠甦醒球(bag-valve-mask) 時聽不到呼吸聲 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- 4. 常見病灶位置:近 ileocecal valve 的腸繋膜對側。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丙、梅克爾憩室症 Page 83-86.
+- 5. 病灶處通常在距 ileocecal valve 2 英呎 (60 cm) 的地方。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丙、梅克爾憩室症 Page 83-86.
+- (A) 位置距離迴盲瓣 (ileocecal valve) 2 英吋 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丙、梅克爾憩室症 Page 83-86.
+- 1. 小腸從十二指腸開始一直到迴盲瓣 (ileocecal valve)約3公尺長,為重要的消化器官。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_甲、解剖構造 Page 71-74.
+- 【詳解】切除 ileum 較容易出現短腸症的狀況(ileum 對於 vit $B_{12}$ ,bile acid,fluid absorption 都有其重要性)。最好能夠保存 ileum 以及 ileocecal valve。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
+- (1) 前言:慢性的膽囊發炎會造成膽囊與小腸之間的 fistula,使得腸道內的空氣跑進膽囊。另外膽囊內的 gallstone 經由fistula 掉進腸內,形成腸阻塞,尤其於ileocecal valve 最常見。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
 
 ## Clinical Caveats
 

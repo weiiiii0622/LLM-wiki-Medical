@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- ...-cis-retinal 與 opsin(視蛋白)形成共價鍵結合。當在弱光下,視紫質吸收光線會催化 11-cis-retinal 轉變成 all-trans-retinal,並自視紫質分離,此過程稱漂白,同時會引起電位變化傳遞至腦中視皮質(visual cortex),進而產生暗視覺。釋出之 all-trans-retinal 於桿細胞中還原為無活性的 all-trans-retinol,再運輸至視網膜色素上皮細胞轉為視網醇酯暫時貯存。於需要時再水解並異構化形成 11-cis-retinol,又氧化成 11-cis-retinal,在桿細胞和 opsin 合成視紫質。如此形成視覺循環(visual cycle)。(這裡是簡化介紹的步驟,實際上更複雜,已超出範圍) Source: [[sources/med6-book2-ch12|子、視網膜]].
-- (3) 視野檢查:正常視野範圍約為顳側一百度,上側六十度,鼻側六十度,下側 七十度。視覺路徑異常會引起各種不同的視野缺損變化。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- ...-cis-retinal 與 opsin(視蛋白)形成共價鍵結合。當在弱光下,視紫質吸收光線會催化 11-cis-retinal 轉變成 all-trans-retinal,並自視紫質分離,此過程稱漂白,同時會引起電位變化傳遞至腦中視皮質(visual cortex),進而產生暗視覺。釋出之 all-trans-retinal 於桿細胞中還原為無活性的 all-trans-retinol,再運輸至視網膜色素上皮細胞轉為視網醇酯暫時貯存。於需要時再水解並異構化形成 11-cis-retinol,又氧化成 11-cis-retinal,在桿細胞和 opsin 合成視紫質。如此形成視覺循環(visual cycle)。(這裡是簡化介紹的步驟,實際上更複雜,已超出範圍) Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- (3) 視野檢查:正常視野範圍約為顳側一百度,上側六十度,鼻側六十度,下側 七十度。視覺路徑異常會引起各種不同的視野缺損變化。 Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
 
 ## Clinical Caveats
 

@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 腎盂/輸尿管癌 (renal pelvic/ureteral tumor): - a. 泌尿細胞癌(UCC):90%。 - b. 鱗狀細胞癌 (squamous cell carcinoma): 8%。 - c. 腺癌 (adenocarcinoma):1%。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- 2. 腎盂/輸尿管癌:90%為移形細胞癌(=泌尿上皮細胞癌),詳見腎臟腫瘤部分。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
+- (2) 腎盂/輸尿管癌 (renal pelvic/ureteral tumor): - a. 泌尿細胞癌(UCC):90%。 - b. 鱗狀細胞癌 (squamous cell carcinoma): 8%。 - c. 腺癌 (adenocarcinoma):1%。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- 2. 腎盂/輸尿管癌:90%為移形細胞癌(=泌尿上皮細胞癌),詳見腎臟腫瘤部分。 Source: 醫(五)第5冊泌尿_乙、下泌尿道 Page 45-66.
 
 ## Clinical Caveats
 

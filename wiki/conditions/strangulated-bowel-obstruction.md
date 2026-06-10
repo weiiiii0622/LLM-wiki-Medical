@@ -35,13 +35,13 @@ tags:
 
 ## Key Details From Sources
 
-- | 症 狀 | • 最常見的症狀為腹痛和陰道出血,不過,有一半的病人在破裂前未 | | |-----|-----------------------------------------------------------|--| | | 出現任何症狀 | | | | • 若破裂造成持續內出血,可能出現頭暈、失去意識等症狀 | | | 徴 象 | ・陰道內診可能會出現 pelvic tenderness、cervical motion tenderness 和 | | | | adnexal mass 等表現 | | | | · 若破裂造成持續內出血,可能出現 peritoneal sign 和 shock sign | | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (1) 腹股溝疝氣 - a. 腹股溝突出:腹股溝外環有突出物並下降至陰囊或大陰唇,通常由小兒科醫 生體檢或父母觀察發現。 - b. 腹股溝疼痛:須考慮箝頓(incarceration)和纏絞(strangulation)發生造成很嚴重的後果,早產兒較常有疝氣,但卡住機率反而較低。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
-- (2) 若出現 rebounding pain 或 muscle guarding,則可能已進展至絞扼性腸阻塞 (strangulation)。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
-- (C) 若出現腹部疼痛或 peritoneal sign,則表示有腸壞死的可能性 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
-- (2) Afferent loop syndrome: - a. 由於膽管與胰管是接在 A-loop,也就是 duodenum,術後,若 afferent loop留得太長時,容易發生纏繞而造成阻塞 (kinking、strangulation),或是發生與胃接口處的狹窄 (stenosis)、小腸的沾黏 (adhesion),胰液和膽汁將無法進入小腸,蓄積在 A-loop,就會形成 afferent loop syndrome。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- Kinking and strangulation Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (B) 14. 45 歲女性過去無開刀病史,最近一個月出現反覆性上腹痛,半夜突然發生上腹部劇痛,而至急診室就診,理學檢查有腹膜炎徵象(peritoneal sign),WBC count 為 12,000/mm³,胸部 X 光如附圖,下列敘述何者錯誤? Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- | 症 狀 | • 最常見的症狀為腹痛和陰道出血,不過,有一半的病人在破裂前未 | | |-----|-----------------------------------------------------------|--| | | 出現任何症狀 | | | | • 若破裂造成持續內出血,可能出現頭暈、失去意識等症狀 | | | 徴 象 | ・陰道內診可能會出現 pelvic tenderness、cervical motion tenderness 和 | | | | adnexal mass 等表現 | | | | · 若破裂造成持續內出血,可能出現 peritoneal sign 和 shock sign | | Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- (1) 腹股溝疝氣 - a. 腹股溝突出:腹股溝外環有突出物並下降至陰囊或大陰唇,通常由小兒科醫 生體檢或父母觀察發現。 - b. 腹股溝疼痛:須考慮箝頓(incarceration)和纏絞(strangulation)發生造成很嚴重的後果,早產兒較常有疝氣,但卡住機率反而較低。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_己、先天腹壁異常 Page 193-198.
+- (2) 若出現 rebounding pain 或 muscle guarding,則可能已進展至絞扼性腸阻塞 (strangulation)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_乙、腸阻塞 Page 75-82.
+- (C) 若出現腹部疼痛或 peritoneal sign,則表示有腸壞死的可能性 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_乙、腸阻塞 Page 75-82.
+- (2) Afferent loop syndrome: - a. 由於膽管與胰管是接在 A-loop,也就是 duodenum,術後,若 afferent loop留得太長時,容易發生纏繞而造成阻塞 (kinking、strangulation),或是發生與胃接口處的狹窄 (stenosis)、小腸的沾黏 (adhesion),胰液和膽汁將無法進入小腸,蓄積在 A-loop,就會形成 afferent loop syndrome。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- Kinking and strangulation Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- (B) 14. 45 歲女性過去無開刀病史,最近一個月出現反覆性上腹痛,半夜突然發生上腹部劇痛,而至急診室就診,理學檢查有腹膜炎徵象(peritoneal sign),WBC count 為 12,000/mm³,胸部 X 光如附圖,下列敘述何者錯誤? Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
 
 ## Clinical Caveats
 

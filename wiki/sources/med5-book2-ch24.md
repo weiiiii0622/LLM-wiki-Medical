@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群.md
+raw_source_title: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群"
+raw_source_file: "raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群.md"
+page_start: 255
+page_end: 258
+canonical_citation: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258"
 book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 chapter_order: 24
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 - Chapter file: `raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群.md`
+- Pages covered: 255-258
+- Canonical citation: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

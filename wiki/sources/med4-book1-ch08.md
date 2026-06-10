@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第1冊小兒/醫(四)第1冊小兒_辛、血液學.md
+raw_source_title: "醫(四)第1冊小兒_辛、血液學"
+raw_source_file: "raw/books/md/醫(四)第1冊小兒/醫(四)第1冊小兒_辛、血液學.md"
+page_start: 357
+page_end: 380
+canonical_citation: "醫(四)第1冊小兒_辛、血液學 Page 357-380"
 book: 醫(四)第1冊小兒
 chapter_order: 8
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第1冊小兒
 - Chapter file: `raw/books/md/醫(四)第1冊小兒/醫(四)第1冊小兒_辛、血液學.md`
+- Pages covered: 357-380
+- Canonical citation: 醫(四)第1冊小兒_辛、血液學 Page 357-380
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

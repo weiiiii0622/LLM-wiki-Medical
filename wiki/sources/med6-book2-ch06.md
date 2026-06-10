@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_己、鞏膜.md
+raw_source_title: "醫(六)第2冊眼科_第一篇、眼科_己、鞏膜"
+raw_source_file: "raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_己、鞏膜.md"
+page_start: 71
+page_end: 76
+canonical_citation: "醫(六)第2冊眼科_第一篇、眼科_己、鞏膜 Page 71-76"
 book: 醫(六)第2冊眼科
 chapter_order: 6
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第2冊眼科
 - Chapter file: `raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_己、鞏膜.md`
+- Pages covered: 71-76
+- Canonical citation: 醫(六)第2冊眼科_第一篇、眼科_己、鞏膜 Page 71-76
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

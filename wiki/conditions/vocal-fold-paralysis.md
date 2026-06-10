@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- III. 聲帶麻痺 (Vocal Fold Paralysis) 204 Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- #### III. 聲帶麻痺 (Vocal Fold Paralysis) Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- 2. 當單側喉返神經受損以致單側聲帶麻痺時,會導致喉部聲門無法完全閉合,通常 會有聲音沙啞或嗆咳等症狀;雙側聲帶麻痺致使聲門無法打開,則可能造成呼吸 道阻塞。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- (1) 聲帶麻痺、聲帶結節、睡眠呼吸中止的定義與治療、急性會厭炎等,考題有時 會搭配內視鏡影像出題。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- III. 聲帶麻痺 (Vocal Fold Paralysis) 204 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- #### III. 聲帶麻痺 (Vocal Fold Paralysis) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- 2. 當單側喉返神經受損以致單側聲帶麻痺時,會導致喉部聲門無法完全閉合,通常 會有聲音沙啞或嗆咳等症狀;雙側聲帶麻痺致使聲門無法打開,則可能造成呼吸 道阻塞。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- (1) 聲帶麻痺、聲帶結節、睡眠呼吸中止的定義與治療、急性會厭炎等,考題有時 會搭配內視鏡影像出題。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
 
 ## Clinical Caveats
 

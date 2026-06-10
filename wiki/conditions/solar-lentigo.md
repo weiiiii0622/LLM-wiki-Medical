@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- D. 曬斑 (Solar lentigo) 128 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- 7. Hypermelanosis: 受基因、賀爾蒙 (Addison disease) 和紫外線曝曬影響。 - (1) 黑色素細胞增加,且黑色素分泌增加:例如曬斑(Solar lentigo)。 - (2) 黑色素細胞無增加,但黑色素分泌增加:例如雀斑(Freckle)、肝斑(Melasma)。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- # D. 曬斑 (Solar lentigo) Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- D. 曬斑 (Solar lentigo) 128 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- 7. Hypermelanosis: 受基因、賀爾蒙 (Addison disease) 和紫外線曝曬影響。 - (1) 黑色素細胞增加,且黑色素分泌增加:例如曬斑(Solar lentigo)。 - (2) 黑色素細胞無增加,但黑色素分泌增加:例如雀斑(Freckle)、肝斑(Melasma)。 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- # D. 曬斑 (Solar lentigo) Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
 
 ## Clinical Caveats
 

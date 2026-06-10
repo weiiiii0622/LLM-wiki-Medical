@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- #### Inspiratory muscle training Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- #### Pulmonary rehabilitation with or without inspiratory muscle training Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- #### Inspiratory muscle training Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- #### Pulmonary rehabilitation with or without inspiratory muscle training Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
 
 ## Clinical Caveats
 

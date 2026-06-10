@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (a) 手術切除:切除之外必須考慮加作放射線治療。 - i. 單發性病灶:可作 partial mastectomy, safe margin 必須大於 1 cm 以上。 - ii. 多發性病灶:作 total mastectomy。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 【 詳解 】 若為 DCIS 僅 做 partial mastectomy 即 可, 若為 high grade 則加做 sentinel lymph node biopsy。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 1. 局部性治療:手術與放射線治療。手術可分成兩大主軸,乳房與腋下淋巴結。 - (1) 乳房:可分成全乳房切除術(total mastectomy,又稱 simple mastectomy)與部分乳房切除術(partial mastectomy,又稱 Lumpectomy)。 - (2) 腋下淋巴結:可分成前哨淋巴結切片(Sentinel lymph node biopsy, SLNB) 與腋下淋巴結廓清術(Axillary lymph node dissection, ALND)。 - (3) 因此手術的方式可以有四種選擇:全切除 +SLNB、全切除 +ALND (MRM)、 部分切除 +SLNB (BCS)、部分切除 +ALND (QUART)。 - (4) 前哨淋巴結切 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (a) 手術切除:切除之外必須考慮加作放射線治療。 - i. 單發性病灶:可作 partial mastectomy, safe margin 必須大於 1 cm 以上。 - ii. 多發性病灶:作 total mastectomy。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- 【 詳解 】 若為 DCIS 僅 做 partial mastectomy 即 可, 若為 high grade 則加做 sentinel lymph node biopsy。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- 1. 局部性治療:手術與放射線治療。手術可分成兩大主軸,乳房與腋下淋巴結。 - (1) 乳房:可分成全乳房切除術(total mastectomy,又稱 simple mastectomy)與部分乳房切除術(partial mastectomy,又稱 Lumpectomy)。 - (2) 腋下淋巴結:可分成前哨淋巴結切片(Sentinel lymph node biopsy, SLNB) 與腋下淋巴結廓清術(Axillary lymph node dissection, ALND)。 - (3) 因此手術的方式可以有四種選擇:全切除 +SLNB、全切除 +ALND (MRM)、 部分切除 +SLNB (BCS)、部分切除 +ALND (QUART)。 - (4) 前哨淋巴結切 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
 
 ## Clinical Caveats
 

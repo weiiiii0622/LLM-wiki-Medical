@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 血液透析: 與成人急洗條件差不多, 也可用 AEIOU 記憶: - Acidosis:當病人出現嚴重酸血症(pH th 版對慢性腎衰竭有明確的 敘述: Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...血球圓柱體。本病人接受腎 臟切片檢查後,最適當治療方式為? (A) 廣效性抗生素 (broad-spectrum antibiotics) (B) 免疫抑制劑 (immunosuppressive therapy) (C) 緊急血液透析 (emergent hemodialysis) (D) 補充白蛋白 (albumin infusion) 【詳解】HTN + hematuria+renal failure, 為 nephritic syndrome。 (C) 6. 何種感染後最容易造成急性腎絲球腎炎 (Glomerulonephritis)? 102(一)專 醫三-31 (B) 葡萄球菌 (A) 大腸桿菌 (D) 綠膿桿菌 (C) 鏈球菌 (A) 7. 一位 37 歲女性因水腫就診。病人半年前曾做過一般性健檢, Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- (2) 血液透析: 與成人急洗條件差不多, 也可用 AEIOU 記憶: - Acidosis:當病人出現嚴重酸血症(pH th 版對慢性腎衰竭有明確的 敘述: Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- ...血球圓柱體。本病人接受腎 臟切片檢查後,最適當治療方式為? (A) 廣效性抗生素 (broad-spectrum antibiotics) (B) 免疫抑制劑 (immunosuppressive therapy) (C) 緊急血液透析 (emergent hemodialysis) (D) 補充白蛋白 (albumin infusion) 【詳解】HTN + hematuria+renal failure, 為 nephritic syndrome。 (C) 6. 何種感染後最容易造成急性腎絲球腎炎 (Glomerulonephritis)? 102(一)專 醫三-31 (B) 葡萄球菌 (A) 大腸桿菌 (D) 綠膿桿菌 (C) 鏈球菌 (A) 7. 一位 37 歲女性因水腫就診。病人半年前曾做過一般性健檢, Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
 
 ## Clinical Caveats
 

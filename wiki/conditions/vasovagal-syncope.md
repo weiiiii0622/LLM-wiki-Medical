@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 久站後的 syncope 可能是 vasovagal 或 orthostatic;突然站起來或變換姿勢後發生則較像 是 orthostatic syncope。 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
-- ...-----------|---------------------|--------------------------------|---------------| | Neurally- mediated | 神經反射刺激迷走神經 | Vasovagal (隨著迷走神經刺 | 壓力/害怕/痛/熱/久 | | (reflex) | 抑制心臟,造成心跳減慢 | 激→常伴隨噁心、冷汗、腹 | 站等情形下發生 | | (最常見) | 或暫時停止; Reflex | 痛等副交感症狀) | | | [用 tilt table 確定診斷] | mediated syncope 分三 | carotid sinus hypersensitivity | 轉頭或壓到 carotid | | | 種,如右 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
+- 3. 久站後的 syncope 可能是 vasovagal 或 orthostatic;突然站起來或變換姿勢後發生則較像 是 orthostatic syncope。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_癸、暈厥 Page 217-222.
+- ...-----------|---------------------|--------------------------------|---------------| | Neurally- mediated | 神經反射刺激迷走神經 | Vasovagal (隨著迷走神經刺 | 壓力/害怕/痛/熱/久 | | (reflex) | 抑制心臟,造成心跳減慢 | 激→常伴隨噁心、冷汗、腹 | 站等情形下發生 | | (最常見) | 或暫時停止; Reflex | 痛等副交感症狀) | | | [用 tilt table 確定診斷] | mediated syncope 分三 | carotid sinus hypersensitivity | 轉頭或壓到 carotid | | | 種,如右 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_癸、暈厥 Page 217-222.
 
 ## Clinical Caveats
 

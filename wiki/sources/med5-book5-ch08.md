@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_辛、男性學.md
+raw_source_title: "醫(五)第5冊泌尿_辛、男性學"
+raw_source_file: "raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_辛、男性學.md"
+page_start: 157
+page_end: 170
+canonical_citation: "醫(五)第5冊泌尿_辛、男性學 Page 157-170"
 book: 醫(五)第5冊泌尿
 chapter_order: 8
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第5冊泌尿
 - Chapter file: `raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_辛、男性學.md`
+- Pages covered: 157-170
+- Canonical citation: 醫(五)第5冊泌尿_辛、男性學 Page 157-170
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

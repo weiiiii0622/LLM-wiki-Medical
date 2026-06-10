@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- 4. Diffuse axonal injury:大腦被撞擊時,在加速/減速的過程受到的機械性損傷,會使神經元軸突分裂及撕裂,CT上看起來可能是正常的,但病人依嚴重程度不同會意識混亂或失去意識,甚至死亡。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- (C) 5. 頭部外傷造成的 diffuse axonal injury (DAI),下列敘述何者錯誤? 106(-) 専 (A) 病人通常沒有清明期(lucid interval) - (B) 電腦斷層掃描(brain CT)上可能沒有明顯的病灶,但病人 卻呈昏迷狀態 - (C) 如果病人不幸死亡,解剖上腦部有明顯不正常的外觀 - (D) 在胼胝體(corpus callosum)可見出血性壞死的病灶 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- 4. Diffuse axonal injury:大腦被撞擊時,在加速/減速的過程受到的機械性損傷,會使神經元軸突分裂及撕裂,CT上看起來可能是正常的,但病人依嚴重程度不同會意識混亂或失去意識,甚至死亡。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- (C) 5. 頭部外傷造成的 diffuse axonal injury (DAI),下列敘述何者錯誤? 106(-) 専 (A) 病人通常沒有清明期(lucid interval) - (B) 電腦斷層掃描(brain CT)上可能沒有明顯的病灶,但病人 卻呈昏迷狀態 - (C) 如果病人不幸死亡,解剖上腦部有明顯不正常的外觀 - (D) 在胼胝體(corpus callosum)可見出血性壞死的病灶 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study).md
+raw_source_title: "醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study).md"
+page_start: 420
+page_end: 428
+canonical_citation: "醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428"
 book: 醫(六)第1冊婦產
 chapter_order: 12
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study).md`
+- Pages covered: 420-428
+- Canonical citation: 醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_子、三叉神經痛及其他.md
+raw_source_title: "醫(五)第1冊外概腦外_第三篇、腦神經外科_子、三叉神經痛及其他"
+raw_source_file: "raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_子、三叉神經痛及其他.md"
+page_start: 245
+page_end: 256
+canonical_citation: "醫(五)第1冊外概腦外_第三篇、腦神經外科_子、三叉神經痛及其他 Page 245-256"
 book: 醫(五)第1冊外概腦外
 chapter_order: 20
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第1冊外概腦外
 - Chapter file: `raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_子、三叉神經痛及其他.md`
+- Pages covered: 245-256
+- Canonical citation: 醫(五)第1冊外概腦外_第三篇、腦神經外科_子、三叉神經痛及其他 Page 245-256
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

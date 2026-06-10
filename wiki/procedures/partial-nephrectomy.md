@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 11. 有一位 35 歲運動員於健檢中,發現右腎邊緣區域有一個 3.5 公分 106 (-) 專 的凸出實質腫瘤(不含脂肪),下列何種處置較適當? 醫五-66 - (A) 施行 radical nephrectomy - (B) 施行細針穿刺切片進行診斷 - (C) 施行 partial nephrectomy - (D) 使用口服標靶藥物治療 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (C) 11. 有一位 35 歲運動員於健檢中,發現右腎邊緣區域有一個 3.5 公分 106 (-) 專 的凸出實質腫瘤(不含脂肪),下列何種處置較適當? 醫五-66 - (A) 施行 radical nephrectomy - (B) 施行細針穿刺切片進行診斷 - (C) 施行 partial nephrectomy - (D) 使用口服標靶藥物治療 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
 
 ## Clinical Caveats
 

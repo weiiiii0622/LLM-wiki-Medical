@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 結膜黃斑;結膜贅(Pinguecula):球結膜靠近輪狀部的無害黃白色沉積物,與紫外線照射有關。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
-- 2. 翼狀贅片 (pterygium): 多出現在鼻側之良性的退化性球結膜組織伴隨纖維血管化增生,上皮下有膠原蛋白的彈性纖維變性 (elastotic degeneration)。常以三角形狀 Source: [[sources/med6-book2-ch04|丁、結 膜]].
-- 的長到角膜上層,造成 Bowman's 層斷裂,嚴重的翼狀贅片可見到鐵質沉積在角膜上皮(stocker line)。多半沒有症狀,也極少影響視力,但是因病灶內有新生血管成分,所以患者會覺得眼睛容易充血發紅。致病機轉一般認為與紫外光暴露有關。 **手術切除後易復發**,若加上結膜移植或 Mitomycin-C 可降低復發機率。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- 1. 結膜黃斑;結膜贅(Pinguecula):球結膜靠近輪狀部的無害黃白色沉積物,與紫外線照射有關。 Source: 醫(六)第2冊眼科_第一篇、眼科_丁、結膜 Page 43-52.
+- 2. 翼狀贅片 (pterygium): 多出現在鼻側之良性的退化性球結膜組織伴隨纖維血管化增生,上皮下有膠原蛋白的彈性纖維變性 (elastotic degeneration)。常以三角形狀 Source: 醫(六)第2冊眼科_第一篇、眼科_丁、結膜 Page 43-52.
+- 的長到角膜上層,造成 Bowman's 層斷裂,嚴重的翼狀贅片可見到鐵質沉積在角膜上皮(stocker line)。多半沒有症狀,也極少影響視力,但是因病灶內有新生血管成分,所以患者會覺得眼睛容易充血發紅。致病機轉一般認為與紫外光暴露有關。 **手術切除後易復發**,若加上結膜移植或 Mitomycin-C 可降低復發機率。 Source: 醫(六)第2冊眼科_第一篇、眼科_丁、結膜 Page 43-52.
 
 ## Clinical Caveats
 

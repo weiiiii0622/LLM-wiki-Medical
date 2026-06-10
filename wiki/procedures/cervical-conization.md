@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...鏡切片檢查,排除侵襲性癌症才能執行 | | | | ・包括 cold coagularion、CO₂ laser 和冷凍治療 | | | | (cryosurgery) 等方式 | | | Excision technique | ・ 進行子宮頸錐狀切除 (clonization) 可取得組織,有兼具 | | | | 治療與診斷的功能 | | | | ・包括 Loop electrosurgical excision procedure (LEEP) 或稱 | | | | large loop excision of the transformation zone (LLETZ) | | | | knife cone biopsy 和 laser biopsy | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (D) 子宮頸錐狀切除 (conization) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 【詳解】CIN 2 以上因病灶難以自行恢復且容易進展為侵襲癌, 建議須治療,治療以子宮頸錐狀切除為主,將子宮頸病灶完整 切除。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (C) 以前接受過子宮頸錐狀切片 (loop electrosurgical excision procedure ) 治療 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...鏡切片檢查,排除侵襲性癌症才能執行 | | | | ・包括 cold coagularion、CO₂ laser 和冷凍治療 | | | | (cryosurgery) 等方式 | | | Excision technique | ・ 進行子宮頸錐狀切除 (clonization) 可取得組織,有兼具 | | | | 治療與診斷的功能 | | | | ・包括 Loop electrosurgical excision procedure (LEEP) 或稱 | | | | large loop excision of the transformation zone (LLETZ) | | | | knife cone biopsy 和 laser biopsy | | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (D) 子宮頸錐狀切除 (conization) Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 【詳解】CIN 2 以上因病灶難以自行恢復且容易進展為侵襲癌, 建議須治療,治療以子宮頸錐狀切除為主,將子宮頸病灶完整 切除。 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (C) 以前接受過子宮頸錐狀切片 (loop electrosurgical excision procedure ) 治療 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
 
 ## Clinical Caveats
 

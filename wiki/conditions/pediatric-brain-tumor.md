@@ -31,13 +31,13 @@ tags:
 
 ## Key Details From Sources
 
-- I. 髓母細胞瘤 (Medulloblastoma) 209 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...)/神經胚母細胞瘤 (neuroblastoma):神經元。 - (6) 松果體細胞瘤 (pinealocytoma): 松果體細胞 (pineal cell)。 - (7) 胚胎細胞瘤 (embryonal tumor): 髓母細胞瘤 (medulloblastoma)、神經外胚層母細胞瘤 (primitive neuroectodermal tumor, PNET)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ## I. 髓母細胞瘤 (Medulloblastoma) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ...gioma)之敘述,何者正確 | ? 106(二)專 | | (A) 使用抗女性荷爾蒙(antiestrogen)治療是有效的 | 醫四 -59 | | (B) 應先使用放射線治療(radiotherapy) | | | (C) 是後顱窩(posterior fossa)最常見之腫瘤 | | | (D) 加碼刀(gamma knife)的治療限於小於 3 公分 | 者 | | 【詳解】第 59 題一律給分。 | | | (A) 12. 腦部原發性淋巴瘤 (primary central nervous system by | ymphoma)的 106(二)專 | | 治療方式中,下列何者最不適當? | 醫四 -60 | | (A) 外科手術 (B) 類固醇 | | | (C) 放射治療 (D) 化學 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- IV. 兒童腦瘤 (Pediatric Brain Tumor) 381 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- # IV. 兒童腦瘤 (Pediatric Brain Tumor) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- ...--------------------------------------------------------------------------------------|-----------------------------| | Medulloblastoma/primitive neuroectodermal tumor | 20 | | Juvenile pilocytic astrocytoma | 20 | | Low-grade astrocytoma | 15 | | High-grade astrocytoma | 7 | | Ependymoma | 7 | | Craniopharyngioma | 7 | | Unclassified primary tumors | 7 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- I. 髓母細胞瘤 (Medulloblastoma) 209 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- ...)/神經胚母細胞瘤 (neuroblastoma):神經元。 - (6) 松果體細胞瘤 (pinealocytoma): 松果體細胞 (pineal cell)。 - (7) 胚胎細胞瘤 (embryonal tumor): 髓母細胞瘤 (medulloblastoma)、神經外胚層母細胞瘤 (primitive neuroectodermal tumor, PNET)。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- ## I. 髓母細胞瘤 (Medulloblastoma) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- ...gioma)之敘述,何者正確 | ? 106(二)專 | | (A) 使用抗女性荷爾蒙(antiestrogen)治療是有效的 | 醫四 -59 | | (B) 應先使用放射線治療(radiotherapy) | | | (C) 是後顱窩(posterior fossa)最常見之腫瘤 | | | (D) 加碼刀(gamma knife)的治療限於小於 3 公分 | 者 | | 【詳解】第 59 題一律給分。 | | | (A) 12. 腦部原發性淋巴瘤 (primary central nervous system by | ymphoma)的 106(二)專 | | 治療方式中,下列何者最不適當? | 醫四 -60 | | (A) 外科手術 (B) 類固醇 | | | (C) 放射治療 (D) 化學 Source: 醫(四)第4冊神內_丙、頭痛 Page 67-80.
+- IV. 兒童腦瘤 (Pediatric Brain Tumor) 381 Source: 醫(四)第1冊小兒_壬、腫瘤學 Page 381-408.
+- # IV. 兒童腦瘤 (Pediatric Brain Tumor) Source: 醫(四)第1冊小兒_壬、腫瘤學 Page 381-408.
+- ...--------------------------------------------------------------------------------------|-----------------------------| | Medulloblastoma/primitive neuroectodermal tumor | 20 | | Juvenile pilocytic astrocytoma | 20 | | Low-grade astrocytoma | 15 | | High-grade astrocytoma | 7 | | Ependymoma | 7 | | Craniopharyngioma | 7 | | Unclassified primary tumors | 7 Source: 醫(四)第1冊小兒_壬、腫瘤學 Page 381-408.
 
 ## Clinical Caveats
 

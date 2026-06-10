@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_丁、裝具、義肢及輔具.md
+raw_source_title: "醫(六)第3冊復健_丁、裝具、義肢及輔具"
+raw_source_file: "raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_丁、裝具、義肢及輔具.md"
+page_start: 105
+page_end: 132
+canonical_citation: "醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132"
 book: 醫(六)第3冊復健
 chapter_order: 4
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第3冊復健
 - Chapter file: `raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_丁、裝具、義肢及輔具.md`
+- Pages covered: 105-132
+- Canonical citation: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

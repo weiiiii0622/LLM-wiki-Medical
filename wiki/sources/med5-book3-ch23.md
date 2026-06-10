@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢.md
+raw_source_title: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢"
+raw_source_file: "raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢.md"
+page_start: 229
+page_end: 242
+canonical_citation: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242"
 book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 chapter_order: 23
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 - Chapter file: `raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢.md`
+- Pages covered: 229-242
+- Canonical citation: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

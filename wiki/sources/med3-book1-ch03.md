@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_乙、高血脂、動脈粥狀硬化.md
+raw_source_title: "醫(三)第1冊心胸內_第一篇、心臟內科_乙、高血脂、動脈粥狀硬化"
+raw_source_file: "raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_乙、高血脂、動脈粥狀硬化.md"
+page_start: 45
+page_end: 58
+canonical_citation: "醫(三)第1冊心胸內_第一篇、心臟內科_乙、高血脂、動脈粥狀硬化 Page 45-58"
 book: 醫(三)第1冊心胸內
 chapter_order: 3
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第1冊心胸內
 - Chapter file: `raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_乙、高血脂、動脈粥狀硬化.md`
+- Pages covered: 45-58
+- Canonical citation: 醫(三)第1冊心胸內_第一篇、心臟內科_乙、高血脂、動脈粥狀硬化 Page 45-58
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

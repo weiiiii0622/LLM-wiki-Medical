@@ -31,13 +31,13 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 常見的肝臟良性腫瘤有三種,分別為:肝血管瘤(hepatic hemangioma)、肝臟局部結節性增生(focal nodular hyperplasia, FNH)、以及肝腺瘤(hepatocellular adenoma)。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
-- #### B. 肝血管瘤 (Hemangioma) Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
-- (1) 肝血管瘤(hemangioma)是最常見的肝內良性腫瘤,發生率約為 3~20%。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
-- (A) hepatic hemangioma Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (C) multiple cavernous hemangioma Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (D) 海綿狀血管瘤 (cavernous hemangioma) Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 1. 肝臟外科主要內容可以分為肝臟解剖組織、肝膿瘍、良性肝腫瘤、惡性肝癌 HCC。這五年的外科學,我覺得在肝臟的題目並不多也很零散,準備起來若是時間不夠,個人覺得可以挑出來看的部分。 - (1) 肝膿瘍:阿米巴性與細菌性的差別、臨床症狀、影像上的 finding。 - (2) **良性肝腫瘤**:肝血管瘤 (hepatic hemangioma)、肝臟局部結節性增生 (FNH, focal nodular hyperplasia)、以及肝腺瘤 (hepatocellular adenoma) 這三種在影像上的差別,如何鑑別診斷。 - (3) **HCC**: HCC 的診斷流程、有哪些治療、什麼時候可以開刀(看一下 BCLC 和 ICG test)。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- 1. 常見的肝臟良性腫瘤有三種,分別為:肝血管瘤(hepatic hemangioma)、肝臟局部結節性增生(focal nodular hyperplasia, FNH)、以及肝腺瘤(hepatocellular adenoma)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丙、良性肝腫瘤 Page 111-116.
+- #### B. 肝血管瘤 (Hemangioma) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丙、良性肝腫瘤 Page 111-116.
+- (1) 肝血管瘤(hemangioma)是最常見的肝內良性腫瘤,發生率約為 3~20%。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丙、良性肝腫瘤 Page 111-116.
+- (A) hepatic hemangioma Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤 Page 117-136.
+- (C) multiple cavernous hemangioma Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤 Page 117-136.
+- (D) 海綿狀血管瘤 (cavernous hemangioma) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤 Page 117-136.
+- 1. 肝臟外科主要內容可以分為肝臟解剖組織、肝膿瘍、良性肝腫瘤、惡性肝癌 HCC。這五年的外科學,我覺得在肝臟的題目並不多也很零散,準備起來若是時間不夠,個人覺得可以挑出來看的部分。 - (1) 肝膿瘍:阿米巴性與細菌性的差別、臨床症狀、影像上的 finding。 - (2) **良性肝腫瘤**:肝血管瘤 (hepatic hemangioma)、肝臟局部結節性增生 (FNH, focal nodular hyperplasia)、以及肝腺瘤 (hepatocellular adenoma) 這三種在影像上的差別,如何鑑別診斷。 - (3) **HCC**: HCC 的診斷流程、有哪些治療、什麼時候可以開刀(看一下 BCLC 和 ICG test)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- C. 女性不孕 (Female infertility) 381 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- 【詳解】造成不孕症的原因,男性因素約占30%,女性因素約占50%。在女性不孕的因素中,排卵問題約佔25%、輸卵管異常約占25%,而子宮肌瘤造成不孕症相對較少,故選(C)。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- ### C. 女性不孕 (Female infertility) Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- C. 女性不孕 (Female infertility) 381 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- 【詳解】造成不孕症的原因,男性因素約占30%,女性因素約占50%。在女性不孕的因素中,排卵問題約佔25%、輸卵管異常約占25%,而子宮肌瘤造成不孕症相對較少,故選(C)。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- ### C. 女性不孕 (Female infertility) Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
 
 ## Clinical Caveats
 

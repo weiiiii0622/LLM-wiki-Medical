@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (3) Kasai procedure 為肝門小腸造瘻術(hepatoportoenterostomy),切除閉鎖膽道和重建膽道引流至小腸,可改善早期存活率,避免進展性肝內膽道破壞造成慢性發炎,纖維化,肝硬化。如失敗,則會造成生長遲緩,反覆膽道炎,最後進展為末期肝病,則必須做肝移植。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- (C) 多數病患接受葛西氏手術(Kasai's operation)後預後良好,不需肝臟移植 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
+- (3) Kasai procedure 為肝門小腸造瘻術(hepatoportoenterostomy),切除閉鎖膽道和重建膽道引流至小腸,可改善早期存活率,避免進展性肝內膽道破壞造成慢性發炎,纖維化,肝硬化。如失敗,則會造成生長遲緩,反覆膽道炎,最後進展為末期肝病,則必須做肝移植。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_戊、肝膽道疾病 Page 187-192.
+- (C) 多數病患接受葛西氏手術(Kasai's operation)後預後良好,不需肝臟移植 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_戊、肝膽道疾病 Page 187-192.
 
 ## Clinical Caveats
 

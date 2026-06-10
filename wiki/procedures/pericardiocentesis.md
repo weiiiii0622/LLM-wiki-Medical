@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 8. 一輛學校校車和卡車對撞,校車司機胸部遭受撞擊創傷,於急診 室時要分辨是張力性氣胸或是心包膜填塞時,最快的方式是: - (A) 插胸管 (tube thoracostomy) - (B) 做心包膜抽取(pericardiocentesis) - (C) 做胸部理學檢查 (physical examination) - (D) 照胸部 X 光 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- (C) 8. 一輛學校校車和卡車對撞,校車司機胸部遭受撞擊創傷,於急診 室時要分辨是張力性氣胸或是心包膜填塞時,最快的方式是: - (A) 插胸管 (tube thoracostomy) - (B) 做心包膜抽取(pericardiocentesis) - (C) 做胸部理學檢查 (physical examination) - (D) 照胸部 X 光 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
 
 ## Clinical Caveats
 

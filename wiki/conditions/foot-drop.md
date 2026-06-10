@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- G. 垂足 (Drop foot) 29 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- #### G. 垂足 (Drop foot) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- 1. 垂足正式的名稱是踝關節蹠屈(equinus foot),當踝關節進行背屈(dorsiflexion)的動作變差,便會出現垂足現象。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- ...orthosis(無關節式 AFO)(圖請參照第 216 頁) | 最常用後側包覆型 (posterior leaf),亦有前側包覆型 (Anterior leaf) = MIT (metatarsal into tibia)。 | 無力性垂足 (flaccid drop foot, 下運動神經元疾病)痙攣性垂足 (spastic drop foot, 上運動神經元疾病) | | Articulated ankle foot orthosis( 有關節式 AFO) ( 圖請參照第 216 頁 ) | 適用於踝關節蹠曲痙攣 (ankle plantar spasticity) 的病人使用 ( 腦性麻痺小孩最常使用的足部裝具 )。 | 腦性麻痺痙攣性垂足 | | Lateral Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
+- G. 垂足 (Drop foot) 29 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- #### G. 垂足 (Drop foot) Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- 1. 垂足正式的名稱是踝關節蹠屈(equinus foot),當踝關節進行背屈(dorsiflexion)的動作變差,便會出現垂足現象。 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- ...orthosis(無關節式 AFO)(圖請參照第 216 頁) | 最常用後側包覆型 (posterior leaf),亦有前側包覆型 (Anterior leaf) = MIT (metatarsal into tibia)。 | 無力性垂足 (flaccid drop foot, 下運動神經元疾病)痙攣性垂足 (spastic drop foot, 上運動神經元疾病) | | Articulated ankle foot orthosis( 有關節式 AFO) ( 圖請參照第 216 頁 ) | 適用於踝關節蹠曲痙攣 (ankle plantar spasticity) 的病人使用 ( 腦性麻痺小孩最常使用的足部裝具 )。 | 腦性麻痺痙攣性垂足 | | Lateral Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
 
 ## Clinical Caveats
 

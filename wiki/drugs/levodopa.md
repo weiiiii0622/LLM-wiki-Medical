@@ -27,9 +27,9 @@ dopamine precursor，是 Parkinson disease 對症治療核心藥物，長期可�
 
 ## Key Details From Sources
 
-- ...opamine ↑, Ach ↓ - (1) 刺激 dopamine 釋出: Amantadine (PK MERZ®), 此藥物也可用來預防 influenza A virus 感染。 - (2) 給予外來的 dopamine 前驅物: Levodopa + Benserazide = Madopar® - a. 治療巴金森氏症的主要用藥,作用在 $D_2$ 型的多巴胺受體,用以治療巴金森氏病最有效。 - b. Dopamine 無法過 BBB,而 L-dopa 可以,所以給予 L-dopa 經過 BBB,到達中樞神經後,進入神經末梢,經由 dopa decarboxylase,則可轉換成 dopamine 再釋放出來。 - c. 長期服用大量 levodopa 會造成: - (a) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...。 | | |--------------------|-------------------------------------------------------------------|--| | Donomino Hillim | Levodopa + Benserazide ( 周邊抑制 Dopa decarboxylase) = (Madopar®) | | | Dopamine 前驅物 | Levodopa + Carbidopa ( 周邊抑制 Dopa decarboxylase) = (Sinemet®) | | | 刺激 Dopamine 接受器 | 麥角類 (Ergot): Bromocriptine(Parlodel®)、Pergolide(Celance®) | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- | 巴金森氏症 | 進行性核上眼神經麻痺症 | |------------------------|------------------------| | 發病後 20 年需長期臥床 | 發病後 5~10 年內便需長期臥床 | | 常有某一肢體開始 | 對稱的侵犯 | | 肢體僵硬較嚴重 | 軀幹僵硬較肢體僵硬嚴重 | | 駝背姿勢 (stooped posture) | 站立時伴隨頸後仰 (retrocollis) | | 對 Levodopa 的反應良好 | 對 Levodopa 的反應不佳 | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- ...opamine ↑, Ach ↓ - (1) 刺激 dopamine 釋出: Amantadine (PK MERZ®), 此藥物也可用來預防 influenza A virus 感染。 - (2) 給予外來的 dopamine 前驅物: Levodopa + Benserazide = Madopar® - a. 治療巴金森氏症的主要用藥,作用在 $D_2$ 型的多巴胺受體,用以治療巴金森氏病最有效。 - b. Dopamine 無法過 BBB,而 L-dopa 可以,所以給予 L-dopa 經過 BBB,到達中樞神經後,進入神經末梢,經由 dopa decarboxylase,則可轉換成 dopamine 再釋放出來。 - c. 長期服用大量 levodopa 會造成: - (a) Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- ...。 | | |--------------------|-------------------------------------------------------------------|--| | Donomino Hillim | Levodopa + Benserazide ( 周邊抑制 Dopa decarboxylase) = (Madopar®) | | | Dopamine 前驅物 | Levodopa + Carbidopa ( 周邊抑制 Dopa decarboxylase) = (Sinemet®) | | | 刺激 Dopamine 接受器 | 麥角類 (Ergot): Bromocriptine(Parlodel®)、Pergolide(Celance®) | Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- | 巴金森氏症 | 進行性核上眼神經麻痺症 | |------------------------|------------------------| | 發病後 20 年需長期臥床 | 發病後 5~10 年內便需長期臥床 | | 常有某一肢體開始 | 對稱的侵犯 | | 肢體僵硬較嚴重 | 軀幹僵硬較肢體僵硬嚴重 | | 駝背姿勢 (stooped posture) | 站立時伴隨頸後仰 (retrocollis) | | 對 Levodopa 的反應良好 | 對 Levodopa 的反應不佳 | Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
 
 ## Clinical Caveats
 

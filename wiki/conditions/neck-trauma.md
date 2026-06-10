@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- H. 頸部創傷 (Neck traumatic injury) 119 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- ### H. 頸部創傷 (Neck traumatic injury) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- (3) Zone III: - a. 範圍:介於下額角(the angle of the mandible)及顱骨底(the base of the skull)之間。 - b. 重要結構: - (a) 遠端頸動脈 (distal carotid artery)。 - (b) 遠端椎動脈 (distal vertebral artery)。 - (c) 咽 (pharynx)。 - c. 因靠近顱底,在理學檢查及手術治療上屬於難度更高之區域。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- H. 頸部創傷 (Neck traumatic injury) 119 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- ### H. 頸部創傷 (Neck traumatic injury) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- (3) Zone III: - a. 範圍:介於下額角(the angle of the mandible)及顱骨底(the base of the skull)之間。 - b. 重要結構: - (a) 遠端頸動脈 (distal carotid artery)。 - (b) 遠端椎動脈 (distal vertebral artery)。 - (c) 咽 (pharynx)。 - c. 因靠近顱底,在理學檢查及手術治療上屬於難度更高之區域。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
 
 ## Clinical Caveats
 

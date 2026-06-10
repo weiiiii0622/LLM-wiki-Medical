@@ -35,13 +35,13 @@ tags:
 
 ## Key Details From Sources
 
-- (A) 1. 一位 52 歲男性因為重複問一樣的問題被送來急診,該病人過去 109( ) 專 有偏頭痛之病史,最近並無外傷病史。身體檢查發現此患者仍有 警覺性及對人的定向感,注意力、遠程記憶 (remote memory) 及語言功能都還正常,常規之實驗室檢查結果都正常。該患者7 小時後,症狀自然緩解。最可能的診斷是: - (A) 短暫性全面腦失憶(transient global amnesia) - (B) 基底偏頭痛 (basilar migraine) - (C) 失智症 (dementia) - (D) 癲癇發作後意識混亂 (postictal confusion) Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (C) 4. 李先生, 45 歲, 患有偏頭痛 (migraine), 無高血壓、糖尿病病 108(二)專 史, 因腦梗塞住院。他的父親及弟弟也有腦梗塞病史,弟弟除腦 醫四-47 梗塞外,也有失智症 (dementia)。下列敘述何者最正確? - (A) 腦影像檢查顯示有水腦症 - (B) 合併有多發性神經病變 (polyneuropathy) - (C) 可以做 NOTCH, 基因分析檢查 - (D) 偏頭痛為診斷此疾病之必要條件 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- #### I. 大腦皮質異常的疾病一失智症 (Dementia) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- #### 失智症 (Dementia) 與假性失智症 (Pseudodementia) 的鑑別診斷 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- (C) 失智症 (dementia) Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- (C) 11. 一位 70 歲女性患者,二年來持續有急躁、易怒、囉嗦、多疑、 99( ) 專 夜眠差、記憶受損、智能全面退化等症狀,難以勝任簡單家務。 醫四 -63 該患者之診斷最可能是: - (A) 譫妄 (delirium) - (B) 精神分裂症(schizophrenic disorder) - (C) 失智症 (dementia) - (D) 妄想症 (delusional disorder) Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- 【詳解】95%的自殺者患有精神疾患,其中80%為憂鬱性疾患,10%為schizophrenia;5%為失智症/譫妄(dementia/delirium)。答案的情感性疾患包括躁鬱症和憂鬱性疾患,故選(C)。 Source: [[sources/med4-book3-ch08|辛、自 殺]].
+- (A) 1. 一位 52 歲男性因為重複問一樣的問題被送來急診,該病人過去 109( ) 專 有偏頭痛之病史,最近並無外傷病史。身體檢查發現此患者仍有 警覺性及對人的定向感,注意力、遠程記憶 (remote memory) 及語言功能都還正常,常規之實驗室檢查結果都正常。該患者7 小時後,症狀自然緩解。最可能的診斷是: - (A) 短暫性全面腦失憶(transient global amnesia) - (B) 基底偏頭痛 (basilar migraine) - (C) 失智症 (dementia) - (D) 癲癇發作後意識混亂 (postictal confusion) Source: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48.
+- (C) 4. 李先生, 45 歲, 患有偏頭痛 (migraine), 無高血壓、糖尿病病 108(二)專 史, 因腦梗塞住院。他的父親及弟弟也有腦梗塞病史,弟弟除腦 醫四-47 梗塞外,也有失智症 (dementia)。下列敘述何者最正確? - (A) 腦影像檢查顯示有水腦症 - (B) 合併有多發性神經病變 (polyneuropathy) - (C) 可以做 NOTCH, 基因分析檢查 - (D) 偏頭痛為診斷此疾病之必要條件 Source: 醫(四)第4冊神內_丙、頭痛 Page 67-80.
+- #### I. 大腦皮質異常的疾病一失智症 (Dementia) Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- #### 失智症 (Dementia) 與假性失智症 (Pseudodementia) 的鑑別診斷 Source: 醫(四)第3冊精神科_己、老年精神醫學 Page 145-160.
+- (C) 失智症 (dementia) Source: 醫(四)第3冊精神科_己、老年精神醫學 Page 145-160.
+- (C) 11. 一位 70 歲女性患者,二年來持續有急躁、易怒、囉嗦、多疑、 99( ) 專 夜眠差、記憶受損、智能全面退化等症狀,難以勝任簡單家務。 醫四 -63 該患者之診斷最可能是: - (A) 譫妄 (delirium) - (B) 精神分裂症(schizophrenic disorder) - (C) 失智症 (dementia) - (D) 妄想症 (delusional disorder) Source: 醫(四)第3冊精神科_己、老年精神醫學 Page 145-160.
+- 【詳解】95%的自殺者患有精神疾患,其中80%為憂鬱性疾患,10%為schizophrenia;5%為失智症/譫妄(dementia/delirium)。答案的情感性疾患包括躁鬱症和憂鬱性疾患,故選(C)。 Source: 醫(四)第3冊精神科_辛、自殺 Page 181-186.
 
 ## Clinical Caveats
 

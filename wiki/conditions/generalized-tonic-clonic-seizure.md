@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- a. 約 50%的 CP 患者有癲癇的情形,強直陣攣性癲癇(tonic-clonic seizure/grand mal)為最常見的症狀,其中又好發於痙攣型四肢麻痺和半側麻痺患者。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- ...的姿勢 | 不一定 | 常是站立的 | | | 清醒到失去意識的時間 | 常是立即失去意 | 常是幾秒中慢慢失去意識 | | | | 識 | 除了某些心律不整會立即失去意識 | | | 失去意識的延續時間 | 幾分 | 幾秒 | | | 肌強直陣攣的延續時間 | 30~60 秒 | 一定小於 15 秒 | | | 脸郊丰丰 | 發紺 (Cyanosis) | 蒼白 (Pallor) | | | 臉部表情 | 口吐白沫 (Frothing) | | | | 發作後意識混亂、嗜睡的時間 | 幾分鐘到幾小時 | 小於5分 | | | 發作後肌肉痛 | 常見 | 有時可見 | | | 咬舌、頭痛 | 有時可見 | 罕見 | | Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- Harrison Table 363-7 Features that Distinguish Generalized Tonic-Clonic Seizure from Syncope Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- ...--------------------------------| | 部分發作 | | Carbamazepine · Phenytoin · Valproic acid · Lamotrigine | | 入云似路床 | 全身性癲癇 (GTCS)=大發作 (Grand mal) | Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan) | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- a. 約 50%的 CP 患者有癲癇的情形,強直陣攣性癲癇(tonic-clonic seizure/grand mal)為最常見的症狀,其中又好發於痙攣型四肢麻痺和半側麻痺患者。 Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- ...的姿勢 | 不一定 | 常是站立的 | | | 清醒到失去意識的時間 | 常是立即失去意 | 常是幾秒中慢慢失去意識 | | | | 識 | 除了某些心律不整會立即失去意識 | | | 失去意識的延續時間 | 幾分 | 幾秒 | | | 肌強直陣攣的延續時間 | 30~60 秒 | 一定小於 15 秒 | | | 脸郊丰丰 | 發紺 (Cyanosis) | 蒼白 (Pallor) | | | 臉部表情 | 口吐白沫 (Frothing) | | | | 發作後意識混亂、嗜睡的時間 | 幾分鐘到幾小時 | 小於5分 | | | 發作後肌肉痛 | 常見 | 有時可見 | | | 咬舌、頭痛 | 有時可見 | 罕見 | | Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- Harrison Table 363-7 Features that Distinguish Generalized Tonic-Clonic Seizure from Syncope Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- ...--------------------------------| | 部分發作 | | Carbamazepine · Phenytoin · Valproic acid · Lamotrigine | | 入云似路床 | 全身性癲癇 (GTCS)=大發作 (Grand mal) | Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan) | Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
 
 ## Clinical Caveats
 

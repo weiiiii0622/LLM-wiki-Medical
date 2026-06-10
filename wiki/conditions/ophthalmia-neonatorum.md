@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- A. 新生兒眼炎(Ophthalmia neonatorum) *196* Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
-- #### A. 新生兒眼炎 (Ophthalmia neonatorum) Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
+- A. 新生兒眼炎(Ophthalmia neonatorum) *196* Source: 醫(六)第2冊眼科_第一篇、眼科_巳、小兒眼科學 Page 211-216.
+- #### A. 新生兒眼炎 (Ophthalmia neonatorum) Source: 醫(六)第2冊眼科_第一篇、眼科_巳、小兒眼科學 Page 211-216.
 
 ## Clinical Caveats
 

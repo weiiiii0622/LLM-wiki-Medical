@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- C. 胎便症候群 (Meconium syndromes) 148 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ### C. 胎便症候群 (Meconium syndromes) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 3. 單純性胎便性腸阻塞(Simple meconium ileus) - (1) 未造成腸穿孔為單純性腸阻塞,通常約有 15% 孩童有遺傳囊性纖維化。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- C. 胎便症候群 (Meconium syndromes) 148 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- ### C. 胎便症候群 (Meconium syndromes) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- 3. 單純性胎便性腸阻塞(Simple meconium ileus) - (1) 未造成腸穿孔為單純性腸阻塞,通常約有 15% 孩童有遺傳囊性纖維化。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
 
 ## Clinical Caveats
 

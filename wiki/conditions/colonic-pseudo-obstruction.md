@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### 丁、偽結腸阻塞 (Colonic pseudo-obstruction) Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
-- 非機械性阻塞,而是因為結腸本身不蠕動所致,其中急性偽結腸阻塞 (acute colonic pseudo-obstruction) 又稱 Ogilvie's syndrome。 Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
-- 好犯長期臥床者、病危者(嚴重呼吸疾病、心臟病或腎臟病)或外傷者(脊椎受傷)。Ogilvie's syndrome 又好發在共病多(心肌梗塞、心衰竭、肝腎不好、感染),遭受創傷或接受重大手術(冠狀動脈繞道手術)的患者,以及使用抗膽鹼藥物,鴉片類藥物患者。 Source: [[sources/med5-book2-ch12|丁、偽結腸阻塞]].
+- #### 丁、偽結腸阻塞 (Colonic pseudo-obstruction) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_丁、偽結腸阻塞 Page 147-150.
+- 非機械性阻塞,而是因為結腸本身不蠕動所致,其中急性偽結腸阻塞 (acute colonic pseudo-obstruction) 又稱 Ogilvie's syndrome。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_丁、偽結腸阻塞 Page 147-150.
+- 好犯長期臥床者、病危者(嚴重呼吸疾病、心臟病或腎臟病)或外傷者(脊椎受傷)。Ogilvie's syndrome 又好發在共病多(心肌梗塞、心衰竭、肝腎不好、感染),遭受創傷或接受重大手術(冠狀動脈繞道手術)的患者,以及使用抗膽鹼藥物,鴉片類藥物患者。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_丁、偽結腸阻塞 Page 147-150.
 
 ## Clinical Caveats
 

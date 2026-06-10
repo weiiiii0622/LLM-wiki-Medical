@@ -29,10 +29,10 @@ B cell lymphoma，與 cyclin D1 overexpression/t(11;14) 相關。 本頁已整�
 
 ## Key Details From Sources
 
-- ...) | TdT(-),Surface Ig(+) | B-ALL (L3, Burkitt) | | | | | CD23(+) | CLL/Small lymphoc | ytic lymphoma | | | | CD5(+) | | Mantle cell lymphor | na - Cyclin D1(+) | | | CD19(+) | O(+) | CD10(+) | Follicular lymphoma | | | Lymphocytosis | | | SD 10() | CD25(+) | Hairy cell leukemia | | (Lymphoma) | | | CD10(-) | CD25(-) | MALToma | | (-) inpirama) | | | Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...------------------------|-----------------------| | | Lymphoplasmacytoid lymphoma* | t(9;14) | PAX5, IgH | | Indolent | Mantle cell lymphoma | t(11; 14) | BCL-1, IgH | | lymphoma | CLL/small lymphocytic lymphoma | t([4]; 15) | | | | Follicular lymphoma | t(14; [18]) | BCL-2, IgH | | | MALT lymphoma | t(11; 18) | API2/MALT, BCL-10 | | Aggressive | Di Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...arge B cell lymphoma . Anaplastic large cell lymphoma | | | | | Hairy cell leukemia · T-cell/NK cell lymphoma | | | | | Mantle cell lymphoma · Marginal zone lymphoma | | | | Indolent | Follicular lymphoma > Small lymphocytic lymphoma/ B-cell CLL | | | | 侵犯性 | 低惡性度多屬 B cell,高惡性度多屬 T cell | | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (B) 9. 一位患者的淋巴瘤被發現有染色體轉位 t(11;14) 並有 BCL1 的表現, 99( ) 專 此淋巴瘤最可能的分類為何? - (A) Follicular lymphoma - (B) Mantle cell lymphoma - (C) Diffuse large B-cell lymphoma - (D) Burkitt's lymphoma Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
+- ...) | TdT(-),Surface Ig(+) | B-ALL (L3, Burkitt) | | | | | CD23(+) | CLL/Small lymphoc | ytic lymphoma | | | | CD5(+) | | Mantle cell lymphor | na - Cyclin D1(+) | | | CD19(+) | O(+) | CD10(+) | Follicular lymphoma | | | Lymphocytosis | | | SD 10() | CD25(+) | Hairy cell leukemia | | (Lymphoma) | | | CD10(-) | CD25(-) | MALToma | | (-) inpirama) | | | Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丁、急性白血病 Page 161-172.
+- ...------------------------|-----------------------| | | Lymphoplasmacytoid lymphoma* | t(9;14) | PAX5, IgH | | Indolent | Mantle cell lymphoma | t(11; 14) | BCL-1, IgH | | lymphoma | CLL/small lymphocytic lymphoma | t([4]; 15) | | | | Follicular lymphoma | t(14; [18]) | BCL-2, IgH | | | MALT lymphoma | t(11; 18) | API2/MALT, BCL-10 | | Aggressive | Di Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丁、急性白血病 Page 161-172.
+- ...arge B cell lymphoma . Anaplastic large cell lymphoma | | | | | Hairy cell leukemia · T-cell/NK cell lymphoma | | | | | Mantle cell lymphoma · Marginal zone lymphoma | | | | Indolent | Follicular lymphoma > Small lymphocytic lymphoma/ B-cell CLL | | | | 侵犯性 | 低惡性度多屬 B cell,高惡性度多屬 T cell | | | Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_己、淋巴瘤 Page 183-192.
+- (B) 9. 一位患者的淋巴瘤被發現有染色體轉位 t(11;14) 並有 BCL1 的表現, 99( ) 專 此淋巴瘤最可能的分類為何? - (A) Follicular lymphoma - (B) Mantle cell lymphoma - (C) Diffuse large B-cell lymphoma - (D) Burkitt's lymphoma Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_己、淋巴瘤 Page 183-192.
 
 ## Clinical Caveats
 

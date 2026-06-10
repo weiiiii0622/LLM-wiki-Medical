@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- ...) Aripiprazole 為多巴胺的部分作用劑(dopamine partial agonist) (C) Risperidone 比起 clozapine 更易引起癲癇 (D) 第二代抗精神病藥比傳統抗精神病藥較易引起代謝症候群 ( metabolic syndrome ) 【詳解】第二代抗精神病藥物有-pine 結尾的會降低 seizure threshold 而增高癲癇風險,以 clozapine 為例,當超過 600 mg/ day 則有 4% risk。 99(二)專 (D) 13. 抗精神病藥物 clozapine 之副作用中,下列何者具有致命性,因 而曾在1970年代被歐美等國禁用? 醫四 -62 (A) 心肌炎 (B) 便秘 (C) 姿勢性低血壓 (D) 顆粒性白血球缺乏症 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 2. 代謝症候群 (Metabolic syndrome): - (1) 定義標準:[ Health Promotion Administration, Taiwan, 2007; NCEP-ATP III, 2001; World Health Organization, 1999] Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- | | 臺灣 (2007) | 美國 ATP III (2001) | WHO (1999) | |------------|------------------|-------------------|------------------------------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL Source: [[sources/med3-book4-ch26|丙、社區醫學]].
-- A. 新陳代謝症候群 (Metabolic syndrome) 222 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- #### A. 新陳代謝症候群 (Metabolic syndrome) Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 2. 診斷準則: - (1) 目前有五種版本,學會指引採用 NCEP ATP3 2005,其他還有 IDF 2005、EGIR 1999、WHO 1999、AACE 2003。 - (2) NCEP ATPIII 準則:5個符合3個以上[口訣:腹部肥胖加3高,血脂有兩項] - a. 腹部肥胖:腰圍>90(男)/80(女)cm或腰/臀>0.9。 - b. 高血壓 (BP > 130/85 mmHg 或已服用降壓藥),高血糖 (空腹血糖 > 100 mg/dL 或已服用降血糖藥),高血脂 (TG > 150 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- ...) Aripiprazole 為多巴胺的部分作用劑(dopamine partial agonist) (C) Risperidone 比起 clozapine 更易引起癲癇 (D) 第二代抗精神病藥比傳統抗精神病藥較易引起代謝症候群 ( metabolic syndrome ) 【詳解】第二代抗精神病藥物有-pine 結尾的會降低 seizure threshold 而增高癲癇風險,以 clozapine 為例,當超過 600 mg/ day 則有 4% risk。 99(二)專 (D) 13. 抗精神病藥物 clozapine 之副作用中,下列何者具有致命性,因 而曾在1970年代被歐美等國禁用? 醫四 -62 (A) 心肌炎 (B) 便秘 (C) 姿勢性低血壓 (D) 顆粒性白血球缺乏症 Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
+- 2. 代謝症候群 (Metabolic syndrome): - (1) 定義標準:[ Health Promotion Administration, Taiwan, 2007; NCEP-ATP III, 2001; World Health Organization, 1999] Source: 醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_丙、社區醫學 Page 277-296.
+- | | 臺灣 (2007) | 美國 ATP III (2001) | WHO (1999) | |------------|------------------|-------------------|------------------------------| | 胰島素抗性 | 無,以下標準符合 | 無,以下標準符合三 | 為必要條件 (含 IGT、IFG、 | | | 三項(含)以上 | 項(含)以上 | DM),加上以下標準符合兩 | | | | | 項以上 (TG、HDL Source: 醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_丙、社區醫學 Page 277-296.
+- A. 新陳代謝症候群 (Metabolic syndrome) 222 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- #### A. 新陳代謝症候群 (Metabolic syndrome) Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- 2. 診斷準則: - (1) 目前有五種版本,學會指引採用 NCEP ATP3 2005,其他還有 IDF 2005、EGIR 1999、WHO 1999、AACE 2003。 - (2) NCEP ATPIII 準則:5個符合3個以上[口訣:腹部肥胖加3高,血脂有兩項] - a. 腹部肥胖:腰圍>90(男)/80(女)cm或腰/臀>0.9。 - b. 高血壓 (BP > 130/85 mmHg 或已服用降壓藥),高血糖 (空腹血糖 > 100 mg/dL 或已服用降血糖藥),高血脂 (TG > 150 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
 
 ## Clinical Caveats
 

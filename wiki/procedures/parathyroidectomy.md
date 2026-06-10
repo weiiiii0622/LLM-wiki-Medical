@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (1) Symptomatic HPT 就會進行 parathyroidectomy。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (2) Asymptomatic HPT,但有以下條件可作 parathyroidectomy: - a. 年紀小於 50 歲。 - b. 無法定期追蹤檢查者。 - c. 血清鈣濃度> 11 mg/dL。 - d. 尿鈣> 400 mg/24 hrs。 - e. Ccr 15 mg/dL。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- (1) Symptomatic HPT 就會進行 parathyroidectomy。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
+- (2) Asymptomatic HPT,但有以下條件可作 parathyroidectomy: - a. 年紀小於 50 歲。 - b. 無法定期追蹤檢查者。 - c. 血清鈣濃度> 11 mg/dL。 - d. 尿鈣> 400 mg/24 hrs。 - e. Ccr 15 mg/dL。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
+- (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
 
 ## Clinical Caveats
 

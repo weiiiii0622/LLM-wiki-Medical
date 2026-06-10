@@ -31,13 +31,13 @@ tags:
 
 ## Key Details From Sources
 
-- (4) 精液分析(Semen analysis):請見『男性不孕』章節。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- (C) 7.30 歲 G0P0 的女性,因為結婚三年皆沒有避孕,和丈夫想進行不 孕症諮詢。自從 11 歲初經之後, 月經皆規則 28 天一次, 每次經 期持續5天且沒有經痛。抽血檢查及輸卵管攝影(hysterosalpingography) 結果皆正常,量測的 antral follicle count 為 10。丈 夫的精液分析 (semen analysis) 結果為:semen volume 3 mL, sperm concentration 11,000,000/mL, total motility 38%, normal forms 6%。建議他們優先接受那一種醫療輔助生殖 (assisted reproductive technologies) 最為合理? Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- 【詳解】輸卵管攝影結果為正常,而精液分析結果為精蟲 濃度和活動力稍低於標準,可先考慮人工授精(intrauterine insemination),故選(C)。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- (A) 安排陰道超音波及輸卵管攝影檢查,並請先生進行精液檢查 (semen analysis) Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- b. 精液分析正常值 (2010 年 WHO guideline): Source: [[sources/med5-book5-ch08|辛、男性學]].
-- | 射精量 | > 1.5 ml | |------|-------------------------------------| | 精蟲濃度 | $> 15 \times 10^6 \text{ sperm/ml}$ | | 活動度 | > 40% (Grade 3 + Grade 4) | | 前進度 | 2 (scale 1~4) | | 型態 | > 30% WHO normal forms | | | > 4% Kruger normal forms | Source: [[sources/med5-book5-ch08|辛、男性學]].
-- c. 血中荷爾蒙濃度的測量:當精液分析的濃度 $醫五-69 | |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (4) 精液分析(Semen analysis):請見『男性不孕』章節。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- (C) 7.30 歲 G0P0 的女性,因為結婚三年皆沒有避孕,和丈夫想進行不 孕症諮詢。自從 11 歲初經之後, 月經皆規則 28 天一次, 每次經 期持續5天且沒有經痛。抽血檢查及輸卵管攝影(hysterosalpingography) 結果皆正常,量測的 antral follicle count 為 10。丈 夫的精液分析 (semen analysis) 結果為:semen volume 3 mL, sperm concentration 11,000,000/mL, total motility 38%, normal forms 6%。建議他們優先接受那一種醫療輔助生殖 (assisted reproductive technologies) 最為合理? Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- 【詳解】輸卵管攝影結果為正常,而精液分析結果為精蟲 濃度和活動力稍低於標準,可先考慮人工授精(intrauterine insemination),故選(C)。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- (A) 安排陰道超音波及輸卵管攝影檢查,並請先生進行精液檢查 (semen analysis) Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- b. 精液分析正常值 (2010 年 WHO guideline): Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
+- | 射精量 | > 1.5 ml | |------|-------------------------------------| | 精蟲濃度 | $> 15 \times 10^6 \text{ sperm/ml}$ | | 活動度 | > 40% (Grade 3 + Grade 4) | | 前進度 | 2 (scale 1~4) | | 型態 | > 30% WHO normal forms | | | > 4% Kruger normal forms | Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
+- c. 血中荷爾蒙濃度的測量:當精液分析的濃度 $醫五-69 | |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
 
 ## Clinical Caveats
 

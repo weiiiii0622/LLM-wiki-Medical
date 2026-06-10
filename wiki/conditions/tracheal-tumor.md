@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- C. 氣管癌症(Tracheal tumors, kind of miscellaneous lung tumors) *106* Source: [[sources/med5-book4-ch06|己、氣管]].
-- ### C. 氣管癌症 (Tracheal tumors, kind of miscellaneous lung tumors) Source: [[sources/med5-book4-ch06|己、氣管]].
-- ...管病 灶為表現 ④腫瘤絕不會有遠端轉移的現象 (B) (2)(3)(4) (A) (1)(2) (D) 僅②③ (C) (1)(3)(4) 【詳解】①大部分在中央靠近氣管支氣管處,④1/3已有遠端轉 移。 104(二)專 (C) 4. 惡性氣管腫瘤的組織型態,下列何者最常見? (A) adenoid cystic carcinoma 醫五-26 (B) adenocarcinoma (C) squamous cell carcinoma (D) small cell carcinoma (B) 5. 關於氣管造口術,下列敘述何者錯誤? 100(一)專 (A) 其適應症包括分泌物多無法自咳、氣管阻塞、肺部功能不良 醫五-34 需長期使用呼吸器 Source: [[sources/med5-book4-ch06|己、氣管]].
+- C. 氣管癌症(Tracheal tumors, kind of miscellaneous lung tumors) *106* Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_己、氣管 Page 119-122.
+- ### C. 氣管癌症 (Tracheal tumors, kind of miscellaneous lung tumors) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_己、氣管 Page 119-122.
+- ...管病 灶為表現 ④腫瘤絕不會有遠端轉移的現象 (B) (2)(3)(4) (A) (1)(2) (D) 僅②③ (C) (1)(3)(4) 【詳解】①大部分在中央靠近氣管支氣管處,④1/3已有遠端轉 移。 104(二)專 (C) 4. 惡性氣管腫瘤的組織型態,下列何者最常見? (A) adenoid cystic carcinoma 醫五-26 (B) adenocarcinoma (C) squamous cell carcinoma (D) small cell carcinoma (B) 5. 關於氣管造口術,下列敘述何者錯誤? 100(一)專 (A) 其適應症包括分泌物多無法自咳、氣管阻塞、肺部功能不良 醫五-34 需長期使用呼吸器 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_己、氣管 Page 119-122.
 
 ## Clinical Caveats
 

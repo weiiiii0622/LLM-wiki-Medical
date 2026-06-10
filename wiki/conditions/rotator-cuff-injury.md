@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- D. 旋轉肌群受傷 (Rotator cuff injury) 77 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- (2) 第二層支撐是由 rotator cuff (旋轉肌)的肌肉組成。旋轉肌包含棘上肌 (supraspinatus)、棘下肌 (infraspinatus)、小圓肌 (teres minor)和肩胛下肌 (subscapularis)。其中,subscapularis是旋轉肌中唯一在關節前方的肌肉;剩下的旋轉肌都在關節後面,拉住肱骨頭避免其往前脱位。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- 【詳解】此敘述講的是 outlet (subacromial) impingment,原因為 rotator cuff tear,造成在 overhead motion 時 subacromian 的位置摩擦 rotator cuff引起疼痛。X-ray可發現 acromiohumeral interval 距離變小。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- D. 旋轉肌群受傷 (Rotator cuff injury) 77 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- (2) 第二層支撐是由 rotator cuff (旋轉肌)的肌肉組成。旋轉肌包含棘上肌 (supraspinatus)、棘下肌 (infraspinatus)、小圓肌 (teres minor)和肩胛下肌 (subscapularis)。其中,subscapularis是旋轉肌中唯一在關節前方的肌肉;剩下的旋轉肌都在關節後面,拉住肱骨頭避免其往前脱位。 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- 【詳解】此敘述講的是 outlet (subacromial) impingment,原因為 rotator cuff tear,造成在 overhead motion 時 subacromian 的位置摩擦 rotator cuff引起疼痛。X-ray可發現 acromiohumeral interval 距離變小。 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
 
 ## Clinical Caveats
 

@@ -33,14 +33,14 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 胃鏡除了可直接觀察胃內部黏膜微小變化, 更可以針對可疑病灶作活體切片病理檢查及 細胞學檢查。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- ...litis and | | | cryoglobulinemia, | | | Hemolytic-uremic syndrome | | Epithelial disease | Membranous nephropathy | | | Minimal change disease | | | Focal and segmental glomerulosclerosis | | | Class V lupus nephritis | | | Diabetic nephropathy | Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (A) 微小變化型腎病變(minimal change nephropathy) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (B) 13. 12 歲的男童幾天前有呼吸道感染,這兩天出現眼皮浮腫,陰囊水腫。尿液檢查顯示尿蛋白 >300 mg/dL, RBC 3~5/HPF,血中白蛋白 1.7 gm/dL,醫師給予類固醇治療 8 週之後,再次檢測尿蛋白仍是 >300 mg/dL 反應,且血中肌酐酸值兩個月間增加了 1.2 mg/dL,下列何者最可能是男童的診斷? - (A) 微小變化型腎病變 (minimal change nephropathy) - (B) 局部巢狀腎絲球硬化(focal segmental glomerulosclerosis) - (C) 腎絲球基底膜薄膜病 (thin glomerular basement membrane disease) - (D) IgA 腎炎 (IgA nephropathy) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...RBC、RBC cast、WBC cast、** Protein ( 3.5 g/d,我們就會先下 Nephrotic syndrome 這個診斷,再根據服用 NSAID 的病史等,可以猜測為 Nephrotic syndrome r/o Minimal change disease (MCD),最後當然需要腎臟切片來證實病患是由 MCD 造成的 Nephrotic syndrome。 - b. 例如病人來急診,主訴這幾個禮拜水腫、血壓高、咳血、氣喘發作,小便驗起來有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9, Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (A) 在成人中,是僅次於微小變化疾病最常見的原發性腎絲球病變 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- 【詳解】(A) 成人 IgA 腎病變最多,小孩微小變化疾病最多。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
+- (1) 胃鏡除了可直接觀察胃內部黏膜微小變化, 更可以針對可疑病灶作活體切片病理檢查及 細胞學檢查。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- ...litis and | | | cryoglobulinemia, | | | Hemolytic-uremic syndrome | | Epithelial disease | Membranous nephropathy | | | Minimal change disease | | | Focal and segmental glomerulosclerosis | | | Class V lupus nephritis | | | Diabetic nephropathy | Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- (A) 微小變化型腎病變(minimal change nephropathy) Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- (B) 13. 12 歲的男童幾天前有呼吸道感染,這兩天出現眼皮浮腫,陰囊水腫。尿液檢查顯示尿蛋白 >300 mg/dL, RBC 3~5/HPF,血中白蛋白 1.7 gm/dL,醫師給予類固醇治療 8 週之後,再次檢測尿蛋白仍是 >300 mg/dL 反應,且血中肌酐酸值兩個月間增加了 1.2 mg/dL,下列何者最可能是男童的診斷? - (A) 微小變化型腎病變 (minimal change nephropathy) - (B) 局部巢狀腎絲球硬化(focal segmental glomerulosclerosis) - (C) 腎絲球基底膜薄膜病 (thin glomerular basement membrane disease) - (D) IgA 腎炎 (IgA nephropathy) Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_己、淋巴瘤 Page 183-192.
+- ...RBC、RBC cast、WBC cast、** Protein ( 3.5 g/d,我們就會先下 Nephrotic syndrome 這個診斷,再根據服用 NSAID 的病史等,可以猜測為 Nephrotic syndrome r/o Minimal change disease (MCD),最後當然需要腎臟切片來證實病患是由 MCD 造成的 Nephrotic syndrome。 - b. 例如病人來急診,主訴這幾個禮拜水腫、血壓高、咳血、氣喘發作,小便驗起來有蛋白尿、血尿,我們可先懷疑 RPGN 此診斷,再依據咳血、氣喘,可以猜測為 RPGN r/o Churg-Strauss syndrome,最後當然需要腎臟切片來證實。 - c. 例如病人因尿毒症住院,水腫、喘非常厲害,Cr 高達 9, Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
+- (A) 在成人中,是僅次於微小變化疾病最常見的原發性腎絲球病變 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
+- 【詳解】(A) 成人 IgA 腎病變最多,小孩微小變化疾病最多。 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
 
 ## Clinical Caveats
 

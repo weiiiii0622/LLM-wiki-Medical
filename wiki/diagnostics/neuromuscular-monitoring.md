@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 6. 可以藉由第 4 個和第 1 個 twitch 高度的比例 (TOF ratio),來看臨床的恢復程度。 - (1) TOF ratio > 0.75: 頭可以抬高 > 5 sec。 - (2) TOF ratio > 0.9: 可以坐直; 正常 carotid body response; 正常 pharyngeal function。 - (3) TOF ratio = 1:正常呼吸能力;複視消失。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
+- 6. 可以藉由第 4 個和第 1 個 twitch 高度的比例 (TOF ratio),來看臨床的恢復程度。 - (1) TOF ratio > 0.75: 頭可以抬高 > 5 sec。 - (2) TOF ratio > 0.9: 可以坐直; 正常 carotid body response; 正常 pharyngeal function。 - (3) TOF ratio = 1:正常呼吸能力;複視消失。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌.md
+raw_source_title: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌"
+raw_source_file: "raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌.md"
+page_start: 199
+page_end: 214
+canonical_citation: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214"
 book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 chapter_order: 20
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 - Chapter file: `raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌.md`
+- Pages covered: 199-214
+- Canonical citation: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

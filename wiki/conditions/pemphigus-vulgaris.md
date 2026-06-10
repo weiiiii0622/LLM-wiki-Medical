@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 表皮主要含 Desmoglein 1,黏膜則以 Desmoglein 3 為主。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (1) 尋常性天疱瘡 (Pemphigus vulgaris, PV): - a. 天疱瘡中最常見且臨床表現最嚴重的一型,病灶往往先從嘴巴開始,會出現口腔黏膜潰瘍,會誤以為是火氣大引起,數個月後皮膚才會開始出現病灶。 - b. 皮膚病灶為卵圓形含清澈組織液, 鬆且易破的水泡(flaccid vesicle/ bulla), 破裂之後呈現表淺的糜爛(erosion)傷口,很痛,會輕微出血與結痂(crust)。由於水泡鬆軟易破,可見 Nikolsky sign,故來診病患多呈現身體大面積糜爛。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (3) 增殖型天疱瘡 (Pemphigus vegetans, PVeg): - a. 比較少見的一種亞型,是尋常性天疱瘡的良性型,原因是天疱瘡的傷口在復 原過程中出現嚴重的結痂與表皮增厚,最後形成厚厚鼓鼓的皮膚外觀,好像 有很多增生組織。好發在皮膚皺摺處,例如腋下、胯下或會陰等處。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (C) 尋常性天疱瘡(pemphigus vulgaris) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (A) 尋常性天疱瘡(pemphigus vulgaris) Source: [[sources/med4-book2-ch06|己、藥物疹]].
+- 3. 表皮主要含 Desmoglein 1,黏膜則以 Desmoglein 3 為主。 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- (1) 尋常性天疱瘡 (Pemphigus vulgaris, PV): - a. 天疱瘡中最常見且臨床表現最嚴重的一型,病灶往往先從嘴巴開始,會出現口腔黏膜潰瘍,會誤以為是火氣大引起,數個月後皮膚才會開始出現病灶。 - b. 皮膚病灶為卵圓形含清澈組織液, 鬆且易破的水泡(flaccid vesicle/ bulla), 破裂之後呈現表淺的糜爛(erosion)傷口,很痛,會輕微出血與結痂(crust)。由於水泡鬆軟易破,可見 Nikolsky sign,故來診病患多呈現身體大面積糜爛。 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- (3) 增殖型天疱瘡 (Pemphigus vegetans, PVeg): - a. 比較少見的一種亞型,是尋常性天疱瘡的良性型,原因是天疱瘡的傷口在復 原過程中出現嚴重的結痂與表皮增厚,最後形成厚厚鼓鼓的皮膚外觀,好像 有很多增生組織。好發在皮膚皺摺處,例如腋下、胯下或會陰等處。 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- (C) 尋常性天疱瘡(pemphigus vulgaris) Source: 醫(四)第2冊皮膚_丁、自體免疫性疾病 Page 79-96.
+- (A) 尋常性天疱瘡(pemphigus vulgaris) Source: 醫(四)第2冊皮膚_己、藥物疹 Page 123-129.
 
 ## Clinical Caveats
 

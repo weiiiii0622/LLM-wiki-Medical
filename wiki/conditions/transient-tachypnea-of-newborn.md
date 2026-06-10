@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- Ⅲ. 新生兒呼吸相關疾病 443 - A. 呼吸窘迫症候群 (RDS) 443 - B. 新生兒暫時性呼吸急促(TTNB) 444 - C. 早產兒呼吸暫停 445 - D. 新生兒持續性肺高壓 (PPHN) 445 - E. 吸入性症候群 446 - F. 先天性橫膈膜疝氣 446 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- # B. 新生兒暫時性呼吸急促 (Transient tachypnea of the newborn, TTNB) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 2. 下列有關新生兒暫時性呼吸過速(Transient tachypnea of newborn) 之敘述,何者最不適當? Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- Ⅲ. 新生兒呼吸相關疾病 443 - A. 呼吸窘迫症候群 (RDS) 443 - B. 新生兒暫時性呼吸急促(TTNB) 444 - C. 早產兒呼吸暫停 445 - D. 新生兒持續性肺高壓 (PPHN) 445 - E. 吸入性症候群 446 - F. 先天性橫膈膜疝氣 446 Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- # B. 新生兒暫時性呼吸急促 (Transient tachypnea of the newborn, TTNB) Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- (B) 2. 下列有關新生兒暫時性呼吸過速(Transient tachypnea of newborn) 之敘述,何者最不適當? Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
 
 ## Clinical Caveats
 

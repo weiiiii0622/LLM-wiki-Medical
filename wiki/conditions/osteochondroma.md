@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 最常見的良性骨瘤:osteochondroma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...-----------------| | Osseous | Osteoma, Osteoid osteoma, Osteoblastoma, Fibrous dysplasia, Osteosarcoma | | Cartilage | Exostosis (osteochondroma), enchondromaChondroma, Chondroblastoma, Chondromyxoid fibroma,Chondrosarcoma. | | Fibrous | Histiocytic fibroma, Benign fibrous histiocytoma, Desmoid fibroma, fibrosarcoma, Malignant fibrous histiocytom Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- #### 5. 骨軟骨瘤 (Osteochondroma): Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- | Osteosarcoma, OGS | Osteochondroma | |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------| | 10~20 | 10~20(最常見良性骨腫瘤) | | 男 | 男 | | 膝蓋上下、長骨的 metaph Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- ...Lymphoma, metastatic disease, myeloma | | chondrosarcoma | | | Eccentric, lytic lesion, scallaoped and sclerotic | 多樣化, exostosis, enostosis | | border | 中軸:較厚,透明的病灶,well-delineated,有鈣化 | | | (popcorn like pattern) | | | 周邊:較大,鈣化明顯,有 lobulated formation, | | | translucency | | | | Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
+- 3. 最常見的良性骨瘤:osteochondroma。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- ...-----------------| | Osseous | Osteoma, Osteoid osteoma, Osteoblastoma, Fibrous dysplasia, Osteosarcoma | | Cartilage | Exostosis (osteochondroma), enchondromaChondroma, Chondroblastoma, Chondromyxoid fibroma,Chondrosarcoma. | | Fibrous | Histiocytic fibroma, Benign fibrous histiocytoma, Desmoid fibroma, fibrosarcoma, Malignant fibrous histiocytom Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- #### 5. 骨軟骨瘤 (Osteochondroma): Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- | Osteosarcoma, OGS | Osteochondroma | |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------| | 10~20 | 10~20(最常見良性骨腫瘤) | | 男 | 男 | | 膝蓋上下、長骨的 metaph Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
+- ...Lymphoma, metastatic disease, myeloma | | chondrosarcoma | | | Eccentric, lytic lesion, scallaoped and sclerotic | 多樣化, exostosis, enostosis | | border | 中軸:較厚,透明的病灶,well-delineated,有鈣化 | | | (popcorn like pattern) | | | 周邊:較大,鈣化明顯,有 lobulated formation, | | | translucency | | | | Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
 
 ## Clinical Caveats
 

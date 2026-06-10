@@ -35,13 +35,13 @@ tags:
 
 ## Key Details From Sources
 
-- I. 子宮頸癌前病變 (Cervical intraepithelium lesion) 217 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- J. 子宮頸癌 (Cervical cancer) 221 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (C) 子宮頸癌 (cervical cancer) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- | 適應症 | (i) 當繼續懷孕較立即分娩有更高的產婦/胎兒風險時,應考慮立即 | |-----|----------------------------------| | | 分娩,若沒有陰道分娩的禁忌,便符合催生的適應症。 | | | (ii)這些臨床狀況包括過期妊娠、早期破水、子癲前症和子癲症、胎 | | | 死腹中、妊娠糖尿病、胎兒生長遲緩等。 | | 禁忌症 | (i) 當陰道分娩較剖腹產有更高的產婦/胎兒風險時,為催生的禁 | | | 忌症。 | | | (ii)這些臨床狀況包括前胎剖腹產、之前子宮破裂、之前子宮手術 | | | (如:子宮肌瘤切除術)、目前有生殖器的皰疹病毒感染、前置胎 | | | 盤、臍帶脫垂、胎位不正和侵襲性子宮頸癌等。 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- 1. 簡史: 1925年, Hans Hinselmann 開始使用一種顯微鏡檢查子宮頸、偵測子宮頸癌,稱其為 colposcope, 演變為今日的 colposcopy, 用以評估子宮頸、陰道和陰唇的異常。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- 【詳解】子宮頸癌的表現為陰道不正常出血,非無月經。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- | 骨盆腔疾病診斷 | 婦科良性病灶之治療 | 婦癌治療 | |-------------|-------------|-------------| | ・骨盆腔感染 | ・切除子宮 | • 子宮內膜癌分期手術 | | • 骨盆腔沾黏 | • 切除漿膜層下肌瘤 | (stage Ia) | | • 子宮內膜異位症 | ・切除卵巢輸卵管 | • 子宮頸癌根除性子宮 | | • 異位妊娠 | ・切除卵巢囊腫 | 切除手術 | | • 卵巢囊腫扭轉或破裂 | · 治療異位妊娠 | • 早期卵巢癌減積分期 | | • 卵巢腫瘤切片 | · 子宮內膜異位症燒灼 | 手術(有爭議) | | • 骨盆結核 | • 分離沾黏 | | | | • 輸卵管結紮 | | | | ・卵巢輸卵管膿瘍引流 | | Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
+- I. 子宮頸癌前病變 (Cervical intraepithelium lesion) 217 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- J. 子宮頸癌 (Cervical cancer) 221 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (C) 子宮頸癌 (cervical cancer) Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- | 適應症 | (i) 當繼續懷孕較立即分娩有更高的產婦/胎兒風險時,應考慮立即 | |-----|----------------------------------| | | 分娩,若沒有陰道分娩的禁忌,便符合催生的適應症。 | | | (ii)這些臨床狀況包括過期妊娠、早期破水、子癲前症和子癲症、胎 | | | 死腹中、妊娠糖尿病、胎兒生長遲緩等。 | | 禁忌症 | (i) 當陰道分娩較剖腹產有更高的產婦/胎兒風險時,為催生的禁 | | | 忌症。 | | | (ii)這些臨床狀況包括前胎剖腹產、之前子宮破裂、之前子宮手術 | | | (如:子宮肌瘤切除術)、目前有生殖器的皰疹病毒感染、前置胎 | | | 盤、臍帶脫垂、胎位不正和侵襲性子宮頸癌等。 | Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- 1. 簡史: 1925年, Hans Hinselmann 開始使用一種顯微鏡檢查子宮頸、偵測子宮頸癌,稱其為 colposcope, 演變為今日的 colposcopy, 用以評估子宮頸、陰道和陰唇的異常。 Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- 【詳解】子宮頸癌的表現為陰道不正常出血,非無月經。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- | 骨盆腔疾病診斷 | 婦科良性病灶之治療 | 婦癌治療 | |-------------|-------------|-------------| | ・骨盆腔感染 | ・切除子宮 | • 子宮內膜癌分期手術 | | • 骨盆腔沾黏 | • 切除漿膜層下肌瘤 | (stage Ia) | | • 子宮內膜異位症 | ・切除卵巢輸卵管 | • 子宮頸癌根除性子宮 | | • 異位妊娠 | ・切除卵巢囊腫 | 切除手術 | | • 卵巢囊腫扭轉或破裂 | · 治療異位妊娠 | • 早期卵巢癌減積分期 | | • 卵巢腫瘤切片 | · 子宮內膜異位症燒灼 | 手術(有爭議) | | • 骨盆結核 | • 分離沾黏 | | | | • 輸卵管結紮 | | | | ・卵巢輸卵管膿瘍引流 | | Source: 醫(六)第1冊婦產_第五篇、內視鏡_甲、腹腔鏡(Laparoscopy) Page 457-464.
 
 ## Clinical Caveats
 

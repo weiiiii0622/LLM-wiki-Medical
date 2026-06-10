@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (1) Bishop score ≤ 4表示子宮頸還不成熟; Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- (2) Bishop score ≥ 9表示子宮頸已經成熟。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- (C) 4. 如果子宮頸位置向前(anterior),其硬度中等(medium),薄度 107(二)專 (effacement) 40~50%,開口 3~4 公分,胎頭位於 -1,其 Bishop 醫六-26 score 是多少? Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- (1) Bishop score ≤ 4表示子宮頸還不成熟; Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- (2) Bishop score ≥ 9表示子宮頸已經成熟。 Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- (C) 4. 如果子宮頸位置向前(anterior),其硬度中等(medium),薄度 107(二)專 (effacement) 40~50%,開口 3~4 公分,胎頭位於 -1,其 Bishop 醫六-26 score 是多少? Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...oma, **F**ibrous dysplasia, Aneurysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...-----------------------------------------------------------------| | Osseous | Osteoma, Osteoid osteoma, Osteoblastoma, Fibrous dysplasia, Osteosarcoma | | Cartilage | Exostosis (osteochondroma), enchondromaChondroma, Chondroblastoma, Chondromyxoid fibroma,Chondrosarcoma. | | Fibrous | Histiocytic fibroma, Benign fibrous histiocytoma, Desmoid fibroma, fib Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- #### 3. 纖維性發育不良(Fibrous dysplasia): Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...oma, **F**ibrous dysplasia, Aneurysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- ...-----------------------------------------------------------------| | Osseous | Osteoma, Osteoid osteoma, Osteoblastoma, Fibrous dysplasia, Osteosarcoma | | Cartilage | Exostosis (osteochondroma), enchondromaChondroma, Chondroblastoma, Chondromyxoid fibroma,Chondrosarcoma. | | Fibrous | Histiocytic fibroma, Benign fibrous histiocytoma, Desmoid fibroma, fib Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- #### 3. 纖維性發育不良(Fibrous dysplasia): Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
 
 ## Clinical Caveats
 

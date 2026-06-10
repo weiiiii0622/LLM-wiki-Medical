@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- (D) 1. 一位 60 歲男性最近數月出現漸進性喘及活動後胸悶情形,至心臟內 108(二)專 科門診求診。經過一系列檢查後,發現有擴張性心肌症合併心衰竭。 醫三-7 以下何者錯誤? - (A) 可能原因有很多種,包括感染、毒物、代謝性疾病或家族遺傳性 - (B) 心臟超音波可見擴張左心室以及心臟收縮功能減弱 - (C) 若病患合併有左束枝傳導阻斷(left bundle branch block),給 予心臟再同步化節律器(cardiac resynchronization pacing)置放 後可改善心臟收縮功能 - (D) 藥物治療無法讓心臟收縮功能改善 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- (D) 當病人已接受合理的藥物治療後仍有症狀,且心電圖顯示 QRS > 120 msec 時,應該考慮 cardiac resynchronization therapy Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
+- (D) 1. 一位 60 歲男性最近數月出現漸進性喘及活動後胸悶情形,至心臟內 108(二)專 科門診求診。經過一系列檢查後,發現有擴張性心肌症合併心衰竭。 醫三-7 以下何者錯誤? - (A) 可能原因有很多種,包括感染、毒物、代謝性疾病或家族遺傳性 - (B) 心臟超音波可見擴張左心室以及心臟收縮功能減弱 - (C) 若病患合併有左束枝傳導阻斷(left bundle branch block),給 予心臟再同步化節律器(cardiac resynchronization pacing)置放 後可改善心臟收縮功能 - (D) 藥物治療無法讓心臟收縮功能改善 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_庚、心肌症 Page 185-192.
+- (D) 當病人已接受合理的藥物治療後仍有症狀,且心電圖顯示 QRS > 120 msec 時,應該考慮 cardiac resynchronization therapy Source: 醫(三)第1冊心胸內_第一篇、心臟內科_戊、瓣膜性心臟病 Page 151-174.
 
 ## Clinical Caveats
 

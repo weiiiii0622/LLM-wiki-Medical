@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...、骨鬆 | 心肝 | | 腸道單醣吸收↓/抑制雙醣分解 | α glucosidase inh. | 0.5~1.0% | Acarbose (Glucobay®) | 不易低血糖 | 噁心、嘔吐、腹瀉 | 腎 | | 腎小管再吸收↓ | SGLT2 inhibitor | 0.5~1.0% | E m p a g l i f l o z i n(Jardiance ® )Dapagliflozin (Forxiga ® )Canagliflozin (Canaglu ® ) | 不易低血糖、減重、降低心血管風險、保護腎功能 | 泌尿生殖器感染、DKA | 野 | Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 5. 減少腎臟再吸收糖分的藥物:(新藥)! - (1) SGLT-2 inhibitors: Empagliflozin (Jardiance®) > Dapagliflozin (Forxiga®) > Canagliflozin (Canaglu®) - a. 藥物機制:抑制腎臟近曲小管 SGLT-2 對糖分的再吸收,藉由尿液排出過多糖分。 - b. 優點:有減重、降血壓效果、降尿酸、降尿蛋白效果,最新研究顯示 Empagliflozin 和 Canagliflozin 已證實能減少 DM 患者心血管疾病發生,甚至 Empagliflozin 能直接 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- ...inhibitor | | | | 心臟衰竭、肝功能指數> 2.5 倍禁用 | 腎功能差不建議 | | | 器官差的禁忌* | Metformin · TZD | Metformin eGFR Acarbose eGFR GLP-1 看種類SGLT2 inhibitor 基因改造而不易聚集、易於吸收、作用快 | \* Glargine has minimal peak activity, Detemir has some peak activity at 6-14h. [Ref. Harrison Tab 338-10] Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- ...、骨鬆 | 心肝 | | 腸道單醣吸收↓/抑制雙醣分解 | α glucosidase inh. | 0.5~1.0% | Acarbose (Glucobay®) | 不易低血糖 | 噁心、嘔吐、腹瀉 | 腎 | | 腎小管再吸收↓ | SGLT2 inhibitor | 0.5~1.0% | E m p a g l i f l o z i n(Jardiance ® )Dapagliflozin (Forxiga ® )Canagliflozin (Canaglu ® ) | 不易低血糖、減重、降低心血管風險、保護腎功能 | 泌尿生殖器感染、DKA | 野 | Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- 5. 減少腎臟再吸收糖分的藥物:(新藥)! - (1) SGLT-2 inhibitors: Empagliflozin (Jardiance®) > Dapagliflozin (Forxiga®) > Canagliflozin (Canaglu®) - a. 藥物機制:抑制腎臟近曲小管 SGLT-2 對糖分的再吸收,藉由尿液排出過多糖分。 - b. 優點:有減重、降血壓效果、降尿酸、降尿蛋白效果,最新研究顯示 Empagliflozin 和 Canagliflozin 已證實能減少 DM 患者心血管疾病發生,甚至 Empagliflozin 能直接 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- ...inhibitor | | | | 心臟衰竭、肝功能指數> 2.5 倍禁用 | 腎功能差不建議 | | | 器官差的禁忌* | Metformin · TZD | Metformin eGFR Acarbose eGFR GLP-1 看種類SGLT2 inhibitor 基因改造而不易聚集、易於吸收、作用快 | \* Glargine has minimal peak activity, Detemir has some peak activity at 6-14h. [Ref. Harrison Tab 338-10] Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
 
 ## Clinical Caveats
 

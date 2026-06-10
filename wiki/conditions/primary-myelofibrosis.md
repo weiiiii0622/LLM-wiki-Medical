@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- | 骨髓狀況 | 代表疾病 | |-------------------------|-------------------------------------------| | 骨髓細胞少 (Hypocellular BM) | 再生不良性貧血 (Aplastic anemia, AA) | | 骨髓細胞適量 (Cellular BM) | 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) | | 骨髓被取代 (Myelophthisis) | 原發性骨髓纖維化 (idiopathic myelofibrosis) | | 全身疾病 (Systemic disease) | 肝硬化等導致脾腫大 (Hypersplenism)、敗血症 (Sepsis) | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- 4. 治療: - (1) 若年齡 PV > PMF not present according to WHO criteria Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
+- | 骨髓狀況 | 代表疾病 | |-------------------------|-------------------------------------------| | 骨髓細胞少 (Hypocellular BM) | 再生不良性貧血 (Aplastic anemia, AA) | | 骨髓細胞適量 (Cellular BM) | 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) | | 骨髓被取代 (Myelophthisis) | 原發性骨髓纖維化 (idiopathic myelofibrosis) | | 全身疾病 (Systemic disease) | 肝硬化等導致脾腫大 (Hypersplenism)、敗血症 (Sepsis) | Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- 4. 治療: - (1) 若年齡 PV > PMF not present according to WHO criteria Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病 Page 173-182.
 
 ## Clinical Caveats
 

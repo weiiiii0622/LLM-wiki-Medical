@@ -33,16 +33,16 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 3. 下列關於胰臟神經內分泌腫瘤之敘述,何者錯誤? 108(二)專 (A) 胰臟功能性神經內分泌腫瘤以胰島素瘤(insulinoma) 最多 醫五-32 (B) insulinoma 的 Whipple's triad 診斷包括:低血糖,因低血糖 出現的症狀及給與葡萄糖後症狀立刻緩解三項 (C) insulinoma 大部分是 hypovascularity。在 contrast enhanced CT 下,易形成完全低顯影的腫塊影像 (D) 發生率男、女性差不多 【詳解】insulinoma 通常為 hypervascular 的 tumor Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- 【詳解】題幹描述,符合 Whipple triad:血糖濃度小於45 mg/ dL,且有低血糖症狀,補充葡萄糖後迅速恢復。此外 Insulin/ Glucose (I/G) 比值 > 0.3,考慮是 insulinoma。在胰尾的 tumor 考慮 distal pancreatectomy。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (AB)22. 胰島素瘤之低血糖發作常發生於: Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- (B) 2. 關於胰島素瘤(insulinoma)之敘述,下列何者錯誤? Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (C) 診斷 insulinoma 重要的臨床症狀是 Whipple's triad,包括低血糖的症狀、當時測得的血糖濃度偏低,及給予靜脈注射葡萄糖液可以減輕低血糖的症狀 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (D) 定位 insulinoma 的影像學工具包括有腹部電腦斷層及磁振造影 【詳解】絕大部分的 insulinoma 為良性,而且是 slow growth。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- A. Insulinoma (胰島素瘤) 228 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- #### A. Insulinoma (胰島素瘤) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 1. 定義:正常的 β 細胞會因應血糖的上升而分泌胰島素達到降血糖的效果,但是 insulinoma 的 β 細胞不論是在飢餓狀態或是運動後仍會持續分泌胰島素,造成低血糖。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- (C) 3. 下列關於胰臟神經內分泌腫瘤之敘述,何者錯誤? 108(二)專 (A) 胰臟功能性神經內分泌腫瘤以胰島素瘤(insulinoma) 最多 醫五-32 (B) insulinoma 的 Whipple's triad 診斷包括:低血糖,因低血糖 出現的症狀及給與葡萄糖後症狀立刻緩解三項 (C) insulinoma 大部分是 hypovascularity。在 contrast enhanced CT 下,易形成完全低顯影的腫塊影像 (D) 發生率男、女性差不多 【詳解】insulinoma 通常為 hypervascular 的 tumor Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
+- 【詳解】題幹描述,符合 Whipple triad:血糖濃度小於45 mg/ dL,且有低血糖症狀,補充葡萄糖後迅速恢復。此外 Insulin/ Glucose (I/G) 比值 > 0.3,考慮是 insulinoma。在胰尾的 tumor 考慮 distal pancreatectomy。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
+- (AB)22. 胰島素瘤之低血糖發作常發生於: Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
+- (B) 2. 關於胰島素瘤(insulinoma)之敘述,下列何者錯誤? Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- (C) 診斷 insulinoma 重要的臨床症狀是 Whipple's triad,包括低血糖的症狀、當時測得的血糖濃度偏低,及給予靜脈注射葡萄糖液可以減輕低血糖的症狀 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- (D) 定位 insulinoma 的影像學工具包括有腹部電腦斷層及磁振造影 【詳解】絕大部分的 insulinoma 為良性,而且是 slow growth。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- A. Insulinoma (胰島素瘤) 228 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丙、胰島細胞瘤 Page 241-246.
+- #### A. Insulinoma (胰島素瘤) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丙、胰島細胞瘤 Page 241-246.
+- 1. 定義:正常的 β 細胞會因應血糖的上升而分泌胰島素達到降血糖的效果,但是 insulinoma 的 β 細胞不論是在飢餓狀態或是運動後仍會持續分泌胰島素,造成低血糖。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丙、胰島細胞瘤 Page 241-246.
+- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258.
 
 ## Clinical Caveats
 

@@ -29,9 +29,9 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 遠端胰臟切除術 (distal pancreatectomy) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- 【詳解】題幹描述,符合 Whipple triad:血糖濃度小於45 mg/ dL,且有低血糖症狀,補充葡萄糖後迅速恢復。此外 Insulin/ Glucose (I/G) 比值 > 0.3,考慮是 insulinoma。在胰尾的 tumor 考慮 distal pancreatectomy。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- ...逆行性 | 醫五 -32 | | 膽道胰管攝影(ERCP)發現胰管擴張並且有多處狹窄,則下列 | | | 何種術式最適當? | | | (A) cholecystectomy | | | (B) splenectomy | | | (C) distal pancreatectomy | | | (D) pancreaticojejunostomy (Puestow) | | | (D) 12. 35 歲男性,主訴飽餐後突發性腹痛,直達背部。疼痛持續而嚴 | 101(一)專 | | 重,伴隨嘔吐的症狀。病人吐後無法減輕症狀,但將身體前傾 | 醫五-2 | | 症狀可稍有改善。理學檢查發現病人體溫 38℃,上腹壓痛,腸 | | | 音降低。X 光檢查可見十二指腸內氣體增多及左側肋膜腔少量 | | | 積液。下一步安排 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- (C) 遠端胰臟切除術 (distal pancreatectomy) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
+- 【詳解】題幹描述,符合 Whipple triad:血糖濃度小於45 mg/ dL,且有低血糖症狀,補充葡萄糖後迅速恢復。此外 Insulin/ Glucose (I/G) 比值 > 0.3,考慮是 insulinoma。在胰尾的 tumor 考慮 distal pancreatectomy。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
+- ...逆行性 | 醫五 -32 | | 膽道胰管攝影(ERCP)發現胰管擴張並且有多處狹窄,則下列 | | | 何種術式最適當? | | | (A) cholecystectomy | | | (B) splenectomy | | | (C) distal pancreatectomy | | | (D) pancreaticojejunostomy (Puestow) | | | (D) 12. 35 歲男性,主訴飽餐後突發性腹痛,直達背部。疼痛持續而嚴 | 101(一)專 | | 重,伴隨嘔吐的症狀。病人吐後無法減輕症狀,但將身體前傾 | 醫五-2 | | 症狀可稍有改善。理學檢查發現病人體溫 38℃,上腹壓痛,腸 | | | 音降低。X 光檢查可見十二指腸內氣體增多及左側肋膜腔少量 | | | 積液。下一步安排 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_乙、慢性胰臟炎 Page 183-194.
 
 ## Clinical Caveats
 

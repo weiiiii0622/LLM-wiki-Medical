@@ -35,15 +35,15 @@ tags:
 
 ## Key Details From Sources
 
-- ...ion | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreatic | | | | | pseudocyst | | | | | ■Meigs' syndrome | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- 1. Severe pancreatitis:嚴重的胰臟炎約佔 20%,判別主要以是否有其他器官衰竭與是否出現 local complication (necrosis 與 pseudocyst)。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
-- 2. 胰臟假性囊腫(Pancreatic pseudocyst)。 Source: [[sources/med5-book3-ch17|甲、急性胰臟炎]].
-- (B) 1. 下列何種胰臟囊狀病灶(pancreatic cystic lesion)好發於女性? ①漿液性囊狀腺瘤(serous cystadenoma) ②胰管內乳突黏液性 腫瘤(intraductal papillary mucinous tumor) ③實體偽乳突腫瘤 (solid-pseudopapillary tumor) ④黏液性囊狀腺瘤(mucinous cystic neoplasm) ⑤假性囊腫(pseudocyst) - (A) (1)(2)(4) Source: [[sources/med5-book3-ch19|丙、良性胰腫瘤]].
-- 【詳解】IPMN沒有性別上的差異。Pancreatic pseudocyst 是 pancreatitis 之後常見的併發症,pancreatitis 為 male predominance, 因此 pseudocyst 也為 male predominance。 Source: [[sources/med5-book3-ch19|丙、良性胰腫瘤]].
-- 【詳解】Biliary pancreatitis 的 complication 很多,可以區分為 local 或 systemic 的 complication。此題可視為 pancreatitis 後出現 的 pancreatic pseudocyst。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 2. 胰偽性囊腫 (Pseudocyst)。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 3. 腹部電腦斷層:良好的診斷工具。對於胰臟的萎縮、腺體的壞死,胰管擴張及胰鈣化,都能提供準確的診斷,除此之外電腦斷層檢查也可提供其他合併症的出現與否如pseudocyst、脾靜脈栓塞,與癌化的可能性。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 電腦斷層: Pancreatic pseudocyst Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- ...ion | | | | ● Viral Parasitic | ● Subphrenic | | | | | abscess | | | | | • Pancreatitis/ | | | | | pancreatic | | | | | pseudocyst | | | | | ■Meigs' syndrome | | Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- 1. Severe pancreatitis:嚴重的胰臟炎約佔 20%,判別主要以是否有其他器官衰竭與是否出現 local complication (necrosis 與 pseudocyst)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_甲、急性胰臟炎 Page 177-182.
+- 2. 胰臟假性囊腫(Pancreatic pseudocyst)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_甲、急性胰臟炎 Page 177-182.
+- (B) 1. 下列何種胰臟囊狀病灶(pancreatic cystic lesion)好發於女性? ①漿液性囊狀腺瘤(serous cystadenoma) ②胰管內乳突黏液性 腫瘤(intraductal papillary mucinous tumor) ③實體偽乳突腫瘤 (solid-pseudopapillary tumor) ④黏液性囊狀腺瘤(mucinous cystic neoplasm) ⑤假性囊腫(pseudocyst) - (A) (1)(2)(4) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丙、良性胰腫瘤 Page 195-198.
+- 【詳解】IPMN沒有性別上的差異。Pancreatic pseudocyst 是 pancreatitis 之後常見的併發症,pancreatitis 為 male predominance, 因此 pseudocyst 也為 male predominance。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丙、良性胰腫瘤 Page 195-198.
+- 【詳解】Biliary pancreatitis 的 complication 很多,可以區分為 local 或 systemic 的 complication。此題可視為 pancreatitis 後出現 的 pancreatic pseudocyst。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- 2. 胰偽性囊腫 (Pseudocyst)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_乙、慢性胰臟炎 Page 183-194.
+- 3. 腹部電腦斷層:良好的診斷工具。對於胰臟的萎縮、腺體的壞死,胰管擴張及胰鈣化,都能提供準確的診斷,除此之外電腦斷層檢查也可提供其他合併症的出現與否如pseudocyst、脾靜脈栓塞,與癌化的可能性。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_乙、慢性胰臟炎 Page 183-194.
+- 電腦斷層: Pancreatic pseudocyst Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_乙、慢性胰臟炎 Page 183-194.
 
 ## Clinical Caveats
 

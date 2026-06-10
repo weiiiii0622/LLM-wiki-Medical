@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- II. 鼻出血(Epistaxis) 178 Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- #### D. 鼻部血管供應請見鼻出血之篇章 Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- #### II. 鼻出血 (Epistaxis) Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- 1. 症狀多不明顯,可有輕度鼻塞,偶有咳血或鼻出血現象,易於忽視。隨著腫瘤的增大,常有反覆鼻出血或口中吐血,患者多伴有繼發性貧血。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- II. 鼻出血(Epistaxis) 178 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- #### D. 鼻部血管供應請見鼻出血之篇章 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- #### II. 鼻出血 (Epistaxis) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- 1. 症狀多不明顯,可有輕度鼻塞,偶有咳血或鼻出血現象,易於忽視。隨著腫瘤的增大,常有反覆鼻出血或口中吐血,患者多伴有繼發性貧血。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

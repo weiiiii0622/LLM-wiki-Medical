@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- VI. 唾液腺結石 (Sialolithiasis) 228 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- #### VI. 唾液腺結石 (Sialolithiasis) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- 1. 小唾液腺結石:較少見,通常沒有症狀。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- VI. 唾液腺結石 (Sialolithiasis) 228 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- #### VI. 唾液腺結石 (Sialolithiasis) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- 1. 小唾液腺結石:較少見,通常沒有症狀。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

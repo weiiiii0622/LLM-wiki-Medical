@@ -27,8 +27,8 @@ Pulse oximetry 以光學方式監測動脈血氧飽和度，是麻醉與急重�
 
 ## Key Details From Sources
 
-- 2. 麻醉監測系統可分為四大方向: - (1) 氧氣濃度監測 (Oxygenation): 脈搏血氧飽和度分析儀 (Pulse oximeter)。 - (2) 呼吸功能監測(Ventilation):使用麻醉機去評估病人呼吸的功能。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- (1) 標準測量方式為脈搏血氧飽和度分析儀(Pulse oximeter)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 2. 麻醉監測系統可分為四大方向: - (1) 氧氣濃度監測 (Oxygenation): 脈搏血氧飽和度分析儀 (Pulse oximeter)。 - (2) 呼吸功能監測(Ventilation):使用麻醉機去評估病人呼吸的功能。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- (1) 標準測量方式為脈搏血氧飽和度分析儀(Pulse oximeter)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
 
 ## Clinical Caveats
 

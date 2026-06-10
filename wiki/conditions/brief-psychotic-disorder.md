@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- | 疾病名稱 | 症狀表現 | 症狀持續時間 | |---------------------------|------------------|---------| | Brief psychotic disorder | 符合思覺失調症之診斷準則 A | 1天到1個月 | | Schizophreniform disorder | 符合思覺失調症之診斷準則 A | 1個月到6個月 | | Schizophrenia | 符合思覺失調症之診斷準則 A | 6個月以上 | | Psychotic disorder, NOS. | 表現精神症狀(如妄想或幻覺),但 | 不一定 | | | 無法符合思覺失調症之診斷準則A | | Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
+- | 疾病名稱 | 症狀表現 | 症狀持續時間 | |---------------------------|------------------|---------| | Brief psychotic disorder | 符合思覺失調症之診斷準則 A | 1天到1個月 | | Schizophreniform disorder | 符合思覺失調症之診斷準則 A | 1個月到6個月 | | Schizophrenia | 符合思覺失調症之診斷準則 A | 6個月以上 | | Psychotic disorder, NOS. | 表現精神症狀(如妄想或幻覺),但 | 不一定 | | | 無法符合思覺失調症之診斷準則A | | Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤.md
+raw_source_title: "醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤"
+raw_source_file: "raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤.md"
+page_start: 217
+page_end: 238
+canonical_citation: "醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238"
 book: 醫(五)第1冊外概腦外
 chapter_order: 18
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第1冊外概腦外
 - Chapter file: `raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤.md`
+- Pages covered: 217-238
+- Canonical citation: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第4冊神內/醫(四)第4冊神內_甲、神經學檢查.md
+raw_source_title: "醫(四)第4冊神內_甲、神經學檢查"
+raw_source_file: "raw/books/md/醫(四)第4冊神內/醫(四)第4冊神內_甲、神經學檢查.md"
+page_start: 11
+page_end: 48
+canonical_citation: "醫(四)第4冊神內_甲、神經學檢查 Page 11-48"
 book: 醫(四)第4冊神內
 chapter_order: 1
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第4冊神內
 - Chapter file: `raw/books/md/醫(四)第4冊神內/醫(四)第4冊神內_甲、神經學檢查.md`
+- Pages covered: 11-48
+- Canonical citation: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

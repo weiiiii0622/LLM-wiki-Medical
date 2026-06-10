@@ -29,9 +29,9 @@ tags:
 
 ## Key Details From Sources
 
-- 5. 若疑似氣喘,但肺功能正常,可用 Methacholine provocation test 誘發氣道痙攣來輔助診 斷,即 FEV,在使用氣管收縮劑 Methacholine 後減少 20%。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- ...先加 LABA; (D) 適用於輕重度氣喘。 | | | (C) | 6. 有關氣喘病患呼吸道過度反應性(airway hyperresponsiveness)之敘述,下列何者錯誤? (A) 常以支氣管激發試驗中使 FEV1下降 20%之 methacholine 濃度(PC20)或劑量(PD20)來表示 (B) 如果某病患 methacholine 劑量 - 反應曲線在高劑量時未出現平原(plateau)現象也代表呼吸道高反應性之存在 (C) 某病患 methacholine PC20 &lt; 8 mg/mL 即可診斷為氣喘(D) methacholine PC20 值越低代表呼吸道高反應性越高 【詳解】(C) 氣喘的臨床診斷是「典型症狀」加「肺功能檢查異常」。 | 105(二)專醫三-52 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- (C) 不會呈現陽性之支氣管激發試驗 (bronchial provocation test) Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
+- 5. 若疑似氣喘,但肺功能正常,可用 Methacholine provocation test 誘發氣道痙攣來輔助診 斷,即 FEV,在使用氣管收縮劑 Methacholine 後減少 20%。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_乙、氣喘 Page 259-268.
+- ...先加 LABA; (D) 適用於輕重度氣喘。 | | | (C) | 6. 有關氣喘病患呼吸道過度反應性(airway hyperresponsiveness)之敘述,下列何者錯誤? (A) 常以支氣管激發試驗中使 FEV1下降 20%之 methacholine 濃度(PC20)或劑量(PD20)來表示 (B) 如果某病患 methacholine 劑量 - 反應曲線在高劑量時未出現平原(plateau)現象也代表呼吸道高反應性之存在 (C) 某病患 methacholine PC20 &lt; 8 mg/mL 即可診斷為氣喘(D) methacholine PC20 值越低代表呼吸道高反應性越高 【詳解】(C) 氣喘的臨床診斷是「典型症狀」加「肺功能檢查異常」。 | 105(二)專醫三-52 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_乙、氣喘 Page 259-268.
+- (C) 不會呈現陽性之支氣管激發試驗 (bronchial provocation test) Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_丙、慢性阻塞性肺疾 Page 269-280.
 
 ## Clinical Caveats
 

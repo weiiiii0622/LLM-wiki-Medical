@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- (7) 頭痛及視乳突水腫(papilledema)。必須考慮發生側靜脈竇而栓(lateral sinus thrombosis)的可能性。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- 2. 視乳頭水腫(papilledema):因腦壓升高引起,初期視力正常,偶有朦朧,但眼底有明顯變化,視野呈現生理性盲點變大。臨床可分為四期: Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
+- (7) 頭痛及視乳突水腫(papilledema)。必須考慮發生側靜脈竇而栓(lateral sinus thrombosis)的可能性。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- 2. 視乳頭水腫(papilledema):因腦壓升高引起,初期視力正常,偶有朦朧,但眼底有明顯變化,視野呈現生理性盲點變大。臨床可分為四期: Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
 
 ## Clinical Caveats
 

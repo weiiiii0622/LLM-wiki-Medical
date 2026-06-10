@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 成人臂神經叢損傷常發生於車禍、運動損傷、槍傷或手術,孩童的話多半發生在嬰 兒分娩時肩部受到碰撞或拉扯(肩難產)造成臂神經叢的損傷。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- 2. 新生兒臂神經叢傷害的危險因子有: - (1) 肩難產。 - (2) 胎兒過大 (macrosomia): 出生時體重 > 4,000 g 或 4,500 g, 兩種不同定義。 - (3) 妊娠糖尿病。 - (4) 胎位不正。 - (5) 母親過胖。 - (6) 第二產程延遲。 - (7) 初產婦(primiparous mother)。 - (8) 創傷性產鉗分娩(traumatic delivery with mid to high forceps)。 - (9) 另有研究指出使用催產素、宮縮過快,也是危險因子。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- i. Crede maneuver (suprapubic pressure):按壓下腹部增加腹壓協助排尿。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- C. 肩難產 (Shoulder dystocia) 89 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- ### C. 肩難產 (Shoulder dystocia) Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- 2. 風險因子:至少 50% 的肩難產都沒有明顯的風險因子,相關的風險因子如下: Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
+- 1. 成人臂神經叢損傷常發生於車禍、運動損傷、槍傷或手術,孩童的話多半發生在嬰 兒分娩時肩部受到碰撞或拉扯(肩難產)造成臂神經叢的損傷。 Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- 2. 新生兒臂神經叢傷害的危險因子有: - (1) 肩難產。 - (2) 胎兒過大 (macrosomia): 出生時體重 > 4,000 g 或 4,500 g, 兩種不同定義。 - (3) 妊娠糖尿病。 - (4) 胎位不正。 - (5) 母親過胖。 - (6) 第二產程延遲。 - (7) 初產婦(primiparous mother)。 - (8) 創傷性產鉗分娩(traumatic delivery with mid to high forceps)。 - (9) 另有研究指出使用催產素、宮縮過快,也是危險因子。 Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- i. Crede maneuver (suprapubic pressure):按壓下腹部增加腹壓協助排尿。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- C. 肩難產 (Shoulder dystocia) 89 Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- ### C. 肩難產 (Shoulder dystocia) Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- 2. 風險因子:至少 50% 的肩難產都沒有明顯的風險因子,相關的風險因子如下: Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
 
 ## Clinical Caveats
 

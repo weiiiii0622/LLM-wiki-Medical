@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- # B. 不明熱 (Fever of unknown origin) Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- # B. 不明熱 (Fever of unknown origin) Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
 
 ## Clinical Caveats
 

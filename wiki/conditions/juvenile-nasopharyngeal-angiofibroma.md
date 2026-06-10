@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- II. 鼻咽血管纖維瘤 (Nasopharyngeal Angiofibroma) 218 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- #### II. 鼻咽血管纖維瘤 (Nasopharyngeal Angiofibroma) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- 1. 鼻咽血管纖維瘤常發生於 10~25 歲男性青年,與一般纖維瘤不同,為緻密結締組織、 大量彈性纖維和血管組成,一般在 25 歲以後可能停止生長。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- II. 鼻咽血管纖維瘤 (Nasopharyngeal Angiofibroma) 218 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- #### II. 鼻咽血管纖維瘤 (Nasopharyngeal Angiofibroma) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- 1. 鼻咽血管纖維瘤常發生於 10~25 歲男性青年,與一般纖維瘤不同,為緻密結締組織、 大量彈性纖維和血管組成,一般在 25 歲以後可能停止生長。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

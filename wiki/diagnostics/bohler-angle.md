@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 診斷:藉由 X-ray 的 Lateral view 以測量 Böhler's angle: - (1) 由 posterior articular facet 頂點至 posterior tuberosity 最高點畫一條線 (A)。 - (2) 由 posterior articular facet 頂點至 anterior articular facet 最高點畫一條線 (B)。 - (3) 兩線的交角即為 Böhler's angle。 - (4) Böhler's angle 正常介於 20~40 度之間, 小於 20 度需懷疑有 posterior facet 的 calcaneus fracture。 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- (D) 2. 下列有關足跟骨的描述,何者錯誤? - (A) 跟骨骨折約有 10% 病患合併腰椎骨折 - (B) 跟骨骨折約有 10% 病患產生足跟部腔室症候群,結果造成 fixed clawing of the toes - (C) 依 Essex-Lopresti classification, 跟骨骨折可分為 Tongue type 及 Joint depression type - (D) 正常跟骨 Böhler's angle 小於 20 度 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- (D) 正常 Böhler's angle 為 25~40 度 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
+- 3. 診斷:藉由 X-ray 的 Lateral view 以測量 Böhler's angle: - (1) 由 posterior articular facet 頂點至 posterior tuberosity 最高點畫一條線 (A)。 - (2) 由 posterior articular facet 頂點至 anterior articular facet 最高點畫一條線 (B)。 - (3) 兩線的交角即為 Böhler's angle。 - (4) Böhler's angle 正常介於 20~40 度之間, 小於 20 度需懷疑有 posterior facet 的 calcaneus fracture。 Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
+- (D) 2. 下列有關足跟骨的描述,何者錯誤? - (A) 跟骨骨折約有 10% 病患合併腰椎骨折 - (B) 跟骨骨折約有 10% 病患產生足跟部腔室症候群,結果造成 fixed clawing of the toes - (C) 依 Essex-Lopresti classification, 跟骨骨折可分為 Tongue type 及 Joint depression type - (D) 正常跟骨 Böhler's angle 小於 20 度 Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
+- (D) 正常 Böhler's angle 為 25~40 度 Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
 
 ## Clinical Caveats
 

@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- A. Monro-Kellie doctrine (孟洛學説) 140 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
-- ## A. Monro-Kellie doctrine (孟洛學説) Source: [[sources/med5-book1-ch12|丙、顱內壓]].
+- A. Monro-Kellie doctrine (孟洛學説) 140 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_丙、顱內壓 Page 151-156.
+- ## A. Monro-Kellie doctrine (孟洛學説) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_丙、顱內壓 Page 151-156.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- | 懷疑上皮細胞腫瘤 | ・CA125、CA 199 和 CEA | |----------|----------------------------------------------| | 懷疑生殖細胞腫瘤 | ・AFP、β-HCG 和 LDH | | 懷疑性索間質腫瘤 | • Inhibin、E2 (Estradiol)、testosterone 和 DHEA | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 卵巢腫瘤有70%源於上皮細胞,而原發性惡性卵巢腫瘤更高達95%源於上皮細胞。因此,上皮性卵巢癌為最常見的卵巢惡性腫瘤。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 早期上皮性卵巢癌通常無明顯症狀或出現一些非特異性症狀(如腹脹、腹痛、食慾不振和頻尿等),不容易早期發現。因此,一旦診斷,75%的患者已達晚期(Stage III or IV)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- | 懷疑上皮細胞腫瘤 | ・CA125、CA 199 和 CEA | |----------|----------------------------------------------| | 懷疑生殖細胞腫瘤 | ・AFP、β-HCG 和 LDH | | 懷疑性索間質腫瘤 | • Inhibin、E2 (Estradiol)、testosterone 和 DHEA | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 卵巢腫瘤有70%源於上皮細胞,而原發性惡性卵巢腫瘤更高達95%源於上皮細胞。因此,上皮性卵巢癌為最常見的卵巢惡性腫瘤。 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 早期上皮性卵巢癌通常無明顯症狀或出現一些非特異性症狀(如腹脹、腹痛、食慾不振和頻尿等),不容易早期發現。因此,一旦診斷,75%的患者已達晚期(Stage III or IV)。 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
 
 ## Clinical Caveats
 

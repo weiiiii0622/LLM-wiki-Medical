@@ -39,18 +39,18 @@ tags:
 
 ## Key Details From Sources
 
-- c. 神經性膀胱:可見頻尿、失禁、或解尿困難等症狀。尿路動力學檢查最常見逼尿肌過度興奮合併膀胱容量縮小(detrusor overactivity with low bladder capacity)。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- ### 甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
-- c. 由於有許多無法控制的變項、人為誤差與缺乏標準進行流程的缺點,尿路動力學的檢查結果無法單獨作為診斷的依據,還必須參照病人的臨床表現。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
-- (4) 尿路動力學檢查的適應症有爭議性,目前共識如下: - a. 病史和身體檢查無法診斷下泌尿道功能異常的原因。 - b. 病人主觀症狀與客觀發現不符。 - c. 接受治療後無改善。 - d. 做為臨床試驗中輔以診斷的客觀數據。 - e. 尿失禁的手術治療前評估。(最有爭議性) - ※ 註:美國婦產科學會(ACOG)結論應力性尿失禁的手術治療前,除非單 靠病史與身體檢查很容易就能診斷,否則常建議做尿路動力學檢查來確 認診斷。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
-- 甲、排尿生理學與尿路動力學檢查(Urinary Physiology and Urodynamic Study) Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- | 常規評估 | 病史詢問、身體檢查、尿液檢查、小便日記 | |------|--------------------------------| | 特殊檢查 | 餘尿量測量、護墊測試 (pad test)、尿路動力學檢查等 | Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
-- ...---------| | 成 因 | 突然的咳嗽、大笑等造成腹內壓力上升 (Pabd ↑ ) 或逼尿肌收縮 (Pdet ↑ ), | | | 使膀胱內壓力 (Pves) 上升大於尿道內壓力 (Pure) 而造成尿失禁 | | 診 斷 | 在尿路動力學檢查之 filling cystometry 中,當腹壓上升(如用力咳嗽)且無 | | | detrusor contraction 時,伴隨有不自主的漏尿情形 | | 治療 | (1)骨盆腔底肌肉運動:Kegel exercise (輔以生理回饋可增加效果) | | | (2)藥物:Duloxetine (為 SNRI,精神科用藥 )和 local topical estrogen | | | (3)手術: | | | a. 經陰道方 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
-- | 檢 查 | 説 明 | | |----------------------------|---------------------------------|--| | Potassium sensitivity test | • 將 40 ml 蒸餾水注入膀胱,注意是否會造成疼痛,然 | | | | 後將水引流掉,再注入 40 ml 的 0.4 M 氯化鉀,看是 | | | | 否會增加疼痛感,以此顯示膀胱的過度敏感性 | | | Anesthetic bladder | · 將 lidocaine 注入膀胱,若症狀改善,則可能是間質 | | | challenge | 性膀胱炎 | | | Urodynamic testing | • 懷疑病人合併有尿失禁或膀胱排空障礙 | | Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
-- I. 尿路動力學 (Urodynamic Studies) 132 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- #### I. 尿路動力學 (Urodynamic Studies) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- 分三部分,若同時測量(尿路動態攝影)評估效果更好。 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- (c) 臨床表徵: - i. 症狀:排尿不完全(排尿後還會滴滴答答)、尿流斷續或微弱、反覆的膀胱炎或攝護腺發炎。 - ii. 尿路動力學:餘尿多、尿流速下降。 - iii. 影像學:尿道攝影(urethrography)及排尿膀胱攝影(VCUG)。 - iv. 內視鏡:尿道膀胱鏡可兼做治療。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- c. 神經性膀胱:可見頻尿、失禁、或解尿困難等症狀。尿路動力學檢查最常見逼尿肌過度興奮合併膀胱容量縮小(detrusor overactivity with low bladder capacity)。 Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- ### 甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428.
+- c. 由於有許多無法控制的變項、人為誤差與缺乏標準進行流程的缺點,尿路動力學的檢查結果無法單獨作為診斷的依據,還必須參照病人的臨床表現。 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428.
+- (4) 尿路動力學檢查的適應症有爭議性,目前共識如下: - a. 病史和身體檢查無法診斷下泌尿道功能異常的原因。 - b. 病人主觀症狀與客觀發現不符。 - c. 接受治療後無改善。 - d. 做為臨床試驗中輔以診斷的客觀數據。 - e. 尿失禁的手術治療前評估。(最有爭議性) - ※ 註:美國婦產科學會(ACOG)結論應力性尿失禁的手術治療前,除非單 靠病史與身體檢查很容易就能診斷,否則常建議做尿路動力學檢查來確 認診斷。 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428.
+- 甲、排尿生理學與尿路動力學檢查(Urinary Physiology and Urodynamic Study) Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- | 常規評估 | 病史詢問、身體檢查、尿液檢查、小便日記 | |------|--------------------------------| | 特殊檢查 | 餘尿量測量、護墊測試 (pad test)、尿路動力學檢查等 | Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_乙、尿失禁(Urinary Incontinence) Page 429-436.
+- ...---------| | 成 因 | 突然的咳嗽、大笑等造成腹內壓力上升 (Pabd ↑ ) 或逼尿肌收縮 (Pdet ↑ ), | | | 使膀胱內壓力 (Pves) 上升大於尿道內壓力 (Pure) 而造成尿失禁 | | 診 斷 | 在尿路動力學檢查之 filling cystometry 中,當腹壓上升(如用力咳嗽)且無 | | | detrusor contraction 時,伴隨有不自主的漏尿情形 | | 治療 | (1)骨盆腔底肌肉運動:Kegel exercise (輔以生理回饋可增加效果) | | | (2)藥物:Duloxetine (為 SNRI,精神科用藥 )和 local topical estrogen | | | (3)手術: | | | a. 經陰道方 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_乙、尿失禁(Urinary Incontinence) Page 429-436.
+- | 檢 查 | 説 明 | | |----------------------------|---------------------------------|--| | Potassium sensitivity test | • 將 40 ml 蒸餾水注入膀胱,注意是否會造成疼痛,然 | | | | 後將水引流掉,再注入 40 ml 的 0.4 M 氯化鉀,看是 | | | | 否會增加疼痛感,以此顯示膀胱的過度敏感性 | | | Anesthetic bladder | · 將 lidocaine 注入膀胱,若症狀改善,則可能是間質 | | | challenge | 性膀胱炎 | | | Urodynamic testing | • 懷疑病人合併有尿失禁或膀胱排空障礙 | | Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_戊、間質性膀胱炎(Interstitial Cystitis) Page 449-456.
+- I. 尿路動力學 (Urodynamic Studies) 132 Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
+- #### I. 尿路動力學 (Urodynamic Studies) Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
+- 分三部分,若同時測量(尿路動態攝影)評估效果更好。 Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
+- (c) 臨床表徵: - i. 症狀:排尿不完全(排尿後還會滴滴答答)、尿流斷續或微弱、反覆的膀胱炎或攝護腺發炎。 - ii. 尿路動力學:餘尿多、尿流速下降。 - iii. 影像學:尿道攝影(urethrography)及排尿膀胱攝影(VCUG)。 - iv. 內視鏡:尿道膀胱鏡可兼做治療。 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
 
 ## Clinical Caveats
 

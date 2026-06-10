@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統.md
+raw_source_title: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統"
+raw_source_file: "raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統.md"
+page_start: 37
+page_end: 56
+canonical_citation: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56"
 book: 醫(六)第4冊麻醉耳鼻喉
 chapter_order: 3
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第4冊麻醉耳鼻喉
 - Chapter file: `raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統.md`
+- Pages covered: 37-56
+- Canonical citation: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

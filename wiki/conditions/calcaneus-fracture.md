@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 1. 關於踝部骨折的 X 光三種相位檢查,下列何者最不適當? 109(二)專 - (A) 需包含前後相位(anteroposterior view),側相位(lateral view) - (B) Mortise 氏相位最有助於判斷距骨向外側移位(talar lateral shift) - (C) 前後相位最有助於判斷跟骨骨折 - (D) 側相位最有助於判斷後踝骨折 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- (1) 跟骨骨折受傷機轉最常見於高處跌落(常合併關節內骨折)及車禍造成。 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- (2) 跟骨骨折只占所有骨折的 2%; 常合併於約 60% 的跗骨骨折 (tarsal fracture) 中。 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- (D) 1. 四肢的骨折常伴隨其它損傷,下列合併損傷有那些是正確的? 106(一)專 ①肩胛骨骨折伴隨肺部挫傷 ②腰椎骨折伴隨腹內損傷 ③膝關 節脫臼伴隨股動脈損傷 ④跟骨骨折伴隨脊椎骨折 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- (C) 1. 關於踝部骨折的 X 光三種相位檢查,下列何者最不適當? 109(二)專 - (A) 需包含前後相位(anteroposterior view),側相位(lateral view) - (B) Mortise 氏相位最有助於判斷距骨向外側移位(talar lateral shift) - (C) 前後相位最有助於判斷跟骨骨折 - (D) 側相位最有助於判斷後踝骨折 Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
+- (1) 跟骨骨折受傷機轉最常見於高處跌落(常合併關節內骨折)及車禍造成。 Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
+- (2) 跟骨骨折只占所有骨折的 2%; 常合併於約 60% 的跗骨骨折 (tarsal fracture) 中。 Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
+- (D) 1. 四肢的骨折常伴隨其它損傷,下列合併損傷有那些是正確的? 106(一)專 ①肩胛骨骨折伴隨肺部挫傷 ②腰椎骨折伴隨腹內損傷 ③膝關 節脫臼伴隨股動脈損傷 ④跟骨骨折伴隨脊椎骨折 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
 
 ## Clinical Caveats
 

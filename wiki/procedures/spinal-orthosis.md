@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 包含副木(Splints)、支架(Brace)、硬背架(Spinal orthosis)、軟背架(corset)、 各式頸圈、足踝裝具等等。 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- ...對頸椎活動提供最佳固定效果,高位頸椎受傷若無接受手術治療而需固定時的首選。 | 高位頸椎 (C1-2) 不穩定性骨折或脫位之保守治療。 | | | | 胸腰薦脊椎 | 隹裝具 THORACOLUMBOSACRAL ORTHO | SES (TLSO) | | | | 限制軀幹屈曲 (Flexion Control Orthosis/Hyperextension brace) | | | | | | 三點式背架(Jewett HyperextensionThoracolumbosacralOrthosis; Jewett brace)(圖請參照第 217 頁) | 固定脊椎在伸直 (extension) 的姿勢,避免屈曲 (flexion) 的動作,以避免加劇壓迫性骨折常見的前楔狀 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- ...------------------------------------|--------------------------------------------|--------------------------|--|--| | 十字背架 | 同上。 | • 同上 | | | | (cruciform anterior spinal | | • 穿脫較三點式背架方便 | | | | hyperextension (CASH) | | | | | | brace) | | | | | | (圖請參照第217頁) | | | | | | 限制 | 區幹屈曲和伸張 (Flexion-Extension Control O | orthosis) | | | | 泰勒氏背架 | Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- (2) 復健治療包括關節活動度的維持及四肢肌力訓練;行動不便時給予矯正鞋、站立板或輪椅等輔具協助;嚴重的脊柱側彎需以背架或手術矯正。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- (2) 包含副木(Splints)、支架(Brace)、硬背架(Spinal orthosis)、軟背架(corset)、 各式頸圈、足踝裝具等等。 Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- ...對頸椎活動提供最佳固定效果,高位頸椎受傷若無接受手術治療而需固定時的首選。 | 高位頸椎 (C1-2) 不穩定性骨折或脫位之保守治療。 | | | | 胸腰薦脊椎 | 隹裝具 THORACOLUMBOSACRAL ORTHO | SES (TLSO) | | | | 限制軀幹屈曲 (Flexion Control Orthosis/Hyperextension brace) | | | | | | 三點式背架(Jewett HyperextensionThoracolumbosacralOrthosis; Jewett brace)(圖請參照第 217 頁) | 固定脊椎在伸直 (extension) 的姿勢,避免屈曲 (flexion) 的動作,以避免加劇壓迫性骨折常見的前楔狀 Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- ...------------------------------------|--------------------------------------------|--------------------------|--|--| | 十字背架 | 同上。 | • 同上 | | | | (cruciform anterior spinal | | • 穿脫較三點式背架方便 | | | | hyperextension (CASH) | | | | | | brace) | | | | | | (圖請參照第217頁) | | | | | | 限制 | 區幹屈曲和伸張 (Flexion-Extension Control O | orthosis) | | | | 泰勒氏背架 | Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- (2) 復健治療包括關節活動度的維持及四肢肌力訓練;行動不便時給予矯正鞋、站立板或輪椅等輔具協助;嚴重的脊柱側彎需以背架或手術矯正。 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
 
 ## Clinical Caveats
 

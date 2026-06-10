@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- F. 眼球內容物剜除術 (Evisceration of eyeball)、眼窩剜除術 (Exenteration of orbit) 177 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- ## F. 眼球內容物剜除術 (Evisceration of eyeball)、眼窩剜除術 (Exenteration of orbit) Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- 1. 眼球內容物剜除術 (evisceration): - (1) 清除範圍:保留鞏膜,將鞏膜內的組織(包含角膜、水晶體、視網膜、玻璃體) 剜除掉。眼外肌和視神經並未切斷。 - (2) 優點:外觀佳,義眼活動性較好,減少眼眶組織傷害。 - (3) 缺點:遺漏眼內惡性腫瘤之診斷、增加交感性眼炎的機會(因保留部分葡萄膜組織)、術後疼痛(因保留睫狀神經)。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- F. 眼球內容物剜除術 (Evisceration of eyeball)、眼窩剜除術 (Exenteration of orbit) 177 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- ## F. 眼球內容物剜除術 (Evisceration of eyeball)、眼窩剜除術 (Exenteration of orbit) Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- 1. 眼球內容物剜除術 (evisceration): - (1) 清除範圍:保留鞏膜,將鞏膜內的組織(包含角膜、水晶體、視網膜、玻璃體) 剜除掉。眼外肌和視神經並未切斷。 - (2) 優點:外觀佳,義眼活動性較好,減少眼眶組織傷害。 - (3) 缺點:遺漏眼內惡性腫瘤之診斷、增加交感性眼炎的機會(因保留部分葡萄膜組織)、術後疼痛(因保留睫狀神經)。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
 
 ## Clinical Caveats
 

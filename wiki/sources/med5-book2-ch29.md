@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_戊、併指畸形.md
+raw_source_title: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_戊、併指畸形"
+raw_source_file: "raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_戊、併指畸形.md"
+page_start: 297
+page_end: 300
+canonical_citation: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_戊、併指畸形 Page 297-300"
 book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 chapter_order: 29
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 - Chapter file: `raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_戊、併指畸形.md`
+- Pages covered: 297-300
+- Canonical citation: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_戊、併指畸形 Page 297-300
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

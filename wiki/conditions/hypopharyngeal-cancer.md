@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- IV. 下咽癌(Hypopharyngeal Cancer) 260 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### VI. 下咽癌 (Hypopharyngeal Cancer) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- 1. 下咽的構造包含有:左、右梨狀窩 (pyriform sinus),外、後側咽壁,與環狀軟骨後區 (posterior area of cricoid cartilage) 共三個區域。 - (1) 梨狀窩下咽癌:60~80%。 - (2) 外、後側咽壁下咽癌:10~20%。 - (3) 環狀軟骨後區下咽癌:5~15%。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- 2. 咽部又可再分為三區: - (1) 鼻咽(nasopharynx):從鼻腔後端到軟顎上表面之間。 - (2) 口咽 (oropharynx): 從軟顎下表面到舌根部之間,包含扁桃腺、舌頭後方 1/3 (舌根, tongue base)和 vallecula。 - (3) 下咽 (hypopharynx): 從舌骨 (hyoid bone level)/會厭軟骨上緣 (tip of epiglottis) 至環狀軟骨下緣,但不包括喉。又可分為三個 subsites: 梨狀窩 (pyriform sinus)、環狀軟骨後部 (postcricoid area),和後咽壁 (postcrior pharyngeal wall)。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
+- IV. 下咽癌(Hypopharyngeal Cancer) 260 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### VI. 下咽癌 (Hypopharyngeal Cancer) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- 1. 下咽的構造包含有:左、右梨狀窩 (pyriform sinus),外、後側咽壁,與環狀軟骨後區 (posterior area of cricoid cartilage) 共三個區域。 - (1) 梨狀窩下咽癌:60~80%。 - (2) 外、後側咽壁下咽癌:10~20%。 - (3) 環狀軟骨後區下咽癌:5~15%。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- 2. 咽部又可再分為三區: - (1) 鼻咽(nasopharynx):從鼻腔後端到軟顎上表面之間。 - (2) 口咽 (oropharynx): 從軟顎下表面到舌根部之間,包含扁桃腺、舌頭後方 1/3 (舌根, tongue base)和 vallecula。 - (3) 下咽 (hypopharynx): 從舌骨 (hyoid bone level)/會厭軟骨上緣 (tip of epiglottis) 至環狀軟骨下緣,但不包括喉。又可分為三個 subsites: 梨狀窩 (pyriform sinus)、環狀軟骨後部 (postcricoid area),和後咽壁 (postcrior pharyngeal wall)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- 1. **Mallet finger: Tendon** 斷在 distal interphalangeal joint (DIPJ, 遠端指關節)的遠端, 造成 **DIP** 彎曲。 - (1) 打籃球受傷時常見,俗稱為「吃蘿蔔」。病因為在 distal phalanx 和 middle phalanx - 之間的 extensor tendon 斷掉,造成 distal phalangeal 的地方無法翹起來,所以呈現彎曲約45度且無法伸直,而因力量集中在 PIPJ (近端指關節),形成 PIP hyperextension。 - (2) 治療:急性期(<12 weeks)可以 架鋁板將彎曲的指端做矯正,但如 果慢性期或手指變形或脫位就需要 手術治療。 Source: [[sources/med5-book6-ch06|己、手部]].
-- (C) 1. 王大明在打籃球接球時不小心,本來應該手掌接球卻變成右手中 103(-)專 指接球,頓時手指就腫起來,幾天後消腫手指最後一節就垂下來, 醫五-17 怎麼用力都沒辦法伸直。最適當的診斷為何? - (A) 板機指 (trigger finger) - (B) 狹窄性肌腱滑膜炎 (de Quervain's tenosynovitis) - (C) 鎚狀指 (mallet finger) - (D) 手部鈕扣畸形 (boutonnière's deformity) Source: [[sources/med5-book6-ch06|己、手部]].
-- (B) Boutonniere deformity Source: [[sources/med5-book6-ch06|己、手部]].
+- 1. **Mallet finger: Tendon** 斷在 distal interphalangeal joint (DIPJ, 遠端指關節)的遠端, 造成 **DIP** 彎曲。 - (1) 打籃球受傷時常見,俗稱為「吃蘿蔔」。病因為在 distal phalanx 和 middle phalanx - 之間的 extensor tendon 斷掉,造成 distal phalangeal 的地方無法翹起來,所以呈現彎曲約45度且無法伸直,而因力量集中在 PIPJ (近端指關節),形成 PIP hyperextension。 - (2) 治療:急性期(<12 weeks)可以 架鋁板將彎曲的指端做矯正,但如 果慢性期或手指變形或脫位就需要 手術治療。 Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
+- (C) 1. 王大明在打籃球接球時不小心,本來應該手掌接球卻變成右手中 103(-)專 指接球,頓時手指就腫起來,幾天後消腫手指最後一節就垂下來, 醫五-17 怎麼用力都沒辦法伸直。最適當的診斷為何? - (A) 板機指 (trigger finger) - (B) 狹窄性肌腱滑膜炎 (de Quervain's tenosynovitis) - (C) 鎚狀指 (mallet finger) - (D) 手部鈕扣畸形 (boutonnière's deformity) Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
+- (B) Boutonniere deformity Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
 
 ## Clinical Caveats
 

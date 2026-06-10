@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- ...末梢循環不良導致細胞無氧呼吸,可能發生在敗血症(Sepsis)或心、肺衰竭的病患身上。 - (2) 測 Cr 檢視是否因腎衰竭導致陰離子堆積,如 Phosphate、Sulfate。 - (3) 問病史是否有喝或食入下列有機酸: - a. Osmolal gap = Measured osmoles-Calculated osmoles (2Na+Glu/18+BUN/2.8) ° - b. Osmolal gap > 10 表示可能有喝甲醇、乙醇、乙二醇、異丙醇等。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- | Osmolal gap | ap 食入 (Ref. Cecil table 119-3) | | | |-------------|-----------------------------------------|--|--| | OG > 10 | 甲醇 (Methanol)、乙醇 (Ethanol)、 | | | | | 乙二醇 (Ethylene glycol)、異丙醇 (Isopropanol) | | | | OG Na+ UK- UCl = 未 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...末梢循環不良導致細胞無氧呼吸,可能發生在敗血症(Sepsis)或心、肺衰竭的病患身上。 - (2) 測 Cr 檢視是否因腎衰竭導致陰離子堆積,如 Phosphate、Sulfate。 - (3) 問病史是否有喝或食入下列有機酸: - a. Osmolal gap = Measured osmoles-Calculated osmoles (2Na+Glu/18+BUN/2.8) ° - b. Osmolal gap > 10 表示可能有喝甲醇、乙醇、乙二醇、異丙醇等。 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_甲、酸鹼平衡 Page 17-34.
+- | Osmolal gap | ap 食入 (Ref. Cecil table 119-3) | | | |-------------|-----------------------------------------|--|--| | OG > 10 | 甲醇 (Methanol)、乙醇 (Ethanol)、 | | | | | 乙二醇 (Ethylene glycol)、異丙醇 (Isopropanol) | | | | OG Na+ UK- UCl = 未 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_甲、酸鹼平衡 Page 17-34.
 
 ## Clinical Caveats
 

@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- DSM-5 Gender dysphoria(性別不安)→ DSM-IV Gender Identity Disorder(性別認 ·同疾患) Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- 3. Gay 或 Lesbian 不一定是 Gender dysphoria。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- DSM-5 Gender dysphoria(性別不安)→ DSM-IV Gender Identity Disorder(性別認 ·同疾患) Source: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118.
+- 3. Gay 或 Lesbian 不一定是 Gender dysphoria。 Source: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118.
 
 ## Clinical Caveats
 

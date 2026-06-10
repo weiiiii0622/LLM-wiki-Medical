@@ -37,16 +37,16 @@ mismatch repair gene 缺陷造成右側大腸癌與子宮內膜癌等風險上�
 
 ## Key Details From Sources
 
-- | 分類 | Risk factors | |----------|-----------------------------------------------------------| | 個人因子 | ・年齢大 | | 生殖與內分泌因子 | ・ 初經早 (early menarche) 或停經晚 (late menopause) | | | ・不曾生育 (nulliparity) | | | ・子宮內膜異位症 (endometriosis) | | 遺傳因子 | ・BRCA1、BRCA2 基因突變 | | | • Lynch syndrome (HNPCC) | | 環境因子 | ・asbestos (石棉) | | | ・吸菸 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- ※ 註:已發展國家女人一生中得到卵巢癌的風險是 1.4%,其中 5~10% 和基因相關,如 Lynch syndrome- MSH2, MLH1, PMS1 & PMS2 (乳癌、大腸直腸癌、子宮內膜癌和卵巢癌)和 BRCA;若知道有基因突變,建議於完成生育後預防性切除卵巢輸卵管,並接受定期檢查(乳房攝影、大腸鏡和子宮內膜切片)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- | 組織型態 | 比例 | 附註 | |---------------------|--------|------------------------------| | 高分化漿液性 | 70~80% | • 多數診斷時為晚期病灶,預後差 | | (High-grade serous) | | | | 低分化漿液性 | ・ 亞洲人所佔比例高 | | | | ・ 和子宮內膜異位症相關 | | | | • 和 Lynch syndrome 相關 | | 黏液性 (Mucinous) | 3% | ・ 絕大多數診斷時為第 I 期,預後佳 | | | | · 可能是轉移病灶,主要來自腸胃道 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (6) 若以上皆失敗,則須開腹止血,方法包括結紮流血處、結紮子宮動脈、B-Lynch 縫子宮,最後手段為子宮切除。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- **Reference:** Gould MK, Donington J, Lynch WR, et al: **Evaluation Of Individuals** With Pulmonary Nodules: When Is It Lung Cancer? *Chest* 2013; 143(5\_suppl): e93S-e120S. doi:10.1378/chest.12-2351. Source: [[sources/med5-book4-ch03|丙、肺]].
-- (3) 危險因子 - a. 絨毛狀腺瘤 (villous adenoma) - b. 息肉症候群 (polyposis syndromes) - c. Crohn's disease - d. hereditary nonpolyposis colorectal cancer (HNPCC) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- (2) Hereditary nonpolyposis colon cancer (HNPCC) • Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- ...y or IPAA • - (b) Total abdominal colectomy with ileal-rectal anastomosis • - (2) Hereditary nonpolyposis colon cancer (HNPCC): - a. 體聯顯性遺傳(AD),defective mismatch repair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total abdominal Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 4. 高危險群: - (1) Ulcerative colitis > 10 年。 - (2) Crohn's disease with stricture • - (3) FAP 或 HNPCC 的家族史。 - (4) 癌症(或息肉)病史或家族史。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (2) 有以下 risk factor 的則 40 歲甚至更早開始定期篩檢: - a. 之前有得過大腸直腸癌或是息肉。 - b. 本身有得過 ulcerative colitis 或 Crohn's disease。 - c. 一等親或二等親有大腸直腸癌病史。 - d. 有 FAP 或 HNPCC 的家族史。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- | 分類 | Risk factors | |----------|-----------------------------------------------------------| | 個人因子 | ・年齢大 | | 生殖與內分泌因子 | ・ 初經早 (early menarche) 或停經晚 (late menopause) | | | ・不曾生育 (nulliparity) | | | ・子宮內膜異位症 (endometriosis) | | 遺傳因子 | ・BRCA1、BRCA2 基因突變 | | | • Lynch syndrome (HNPCC) | | 環境因子 | ・asbestos (石棉) | | | ・吸菸 | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- ※ 註:已發展國家女人一生中得到卵巢癌的風險是 1.4%,其中 5~10% 和基因相關,如 Lynch syndrome- MSH2, MLH1, PMS1 & PMS2 (乳癌、大腸直腸癌、子宮內膜癌和卵巢癌)和 BRCA;若知道有基因突變,建議於完成生育後預防性切除卵巢輸卵管,並接受定期檢查(乳房攝影、大腸鏡和子宮內膜切片)。 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- | 組織型態 | 比例 | 附註 | |---------------------|--------|------------------------------| | 高分化漿液性 | 70~80% | • 多數診斷時為晚期病灶,預後差 | | (High-grade serous) | | | | 低分化漿液性 | ・ 亞洲人所佔比例高 | | | | ・ 和子宮內膜異位症相關 | | | | • 和 Lynch syndrome 相關 | | 黏液性 (Mucinous) | 3% | ・ 絕大多數診斷時為第 I 期,預後佳 | | | | · 可能是轉移病灶,主要來自腸胃道 | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (6) 若以上皆失敗,則須開腹止血,方法包括結紮流血處、結紮子宮動脈、B-Lynch 縫子宮,最後手段為子宮切除。 Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- **Reference:** Gould MK, Donington J, Lynch WR, et al: **Evaluation Of Individuals** With Pulmonary Nodules: When Is It Lung Cancer? *Chest* 2013; 143(5\_suppl): e93S-e120S. doi:10.1378/chest.12-2351. Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- (3) 危險因子 - a. 絨毛狀腺瘤 (villous adenoma) - b. 息肉症候群 (polyposis syndromes) - c. Crohn's disease - d. hereditary nonpolyposis colorectal cancer (HNPCC) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
+- (2) Hereditary nonpolyposis colon cancer (HNPCC) • Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
+- ...y or IPAA • - (b) Total abdominal colectomy with ileal-rectal anastomosis • - (2) Hereditary nonpolyposis colon cancer (HNPCC): - a. 體聯顯性遺傳(AD),defective mismatch repair:MSH2 及 MLH1(90%)、MSH6(10%)。 - b. 較少息肉,遺傳到 HNPCC 的病人其終生結腸癌發生機率有 80%,多發於右結腸,平均診斷年齡 44 歲。 - c. 病人得子宮內膜癌(最常見)、卵巢癌、小腸癌、胰臟癌的機率上升。 - d. 處置: - (a) 基因篩檢。 - (b) 預防性切除,包含 total abdominal Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- 4. 高危險群: - (1) Ulcerative colitis > 10 年。 - (2) Crohn's disease with stricture • - (3) FAP 或 HNPCC 的家族史。 - (4) 癌症(或息肉)病史或家族史。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- (2) 有以下 risk factor 的則 40 歲甚至更早開始定期篩檢: - a. 之前有得過大腸直腸癌或是息肉。 - b. 本身有得過 ulcerative colitis 或 Crohn's disease。 - c. 一等親或二等親有大腸直腸癌病史。 - d. 有 FAP 或 HNPCC 的家族史。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
 
 ## Clinical Caveats
 

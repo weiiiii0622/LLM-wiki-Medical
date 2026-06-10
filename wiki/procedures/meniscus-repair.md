@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 全半月板切除術(幾乎不做,很容易會造成日後退化性關節炎)。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (2) 部份半月板切除術:針對較不穩定、較複雜(complex)、退化性(degenerative)及 radial tear 的半月板破裂;破裂在屬於無血區(avascular area)的裂傷。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (3) 半月板修補術:針對破裂範圍位在供血區(半月板外1/3); 裂傷大於1公分以上; 垂直性破裂(verticaltear)。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
+- (1) 全半月板切除術(幾乎不做,很容易會造成日後退化性關節炎)。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- (2) 部份半月板切除術:針對較不穩定、較複雜(complex)、退化性(degenerative)及 radial tear 的半月板破裂;破裂在屬於無血區(avascular area)的裂傷。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- (3) 半月板修補術:針對破裂範圍位在供血區(半月板外1/3); 裂傷大於1公分以上; 垂直性破裂(verticaltear)。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
 
 ## Clinical Caveats
 

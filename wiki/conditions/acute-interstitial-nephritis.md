@@ -39,18 +39,18 @@ tags:
 
 ## Key Details From Sources
 
-- 2. Interstitial nephritis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 7. Acute interstitial nephritis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...斷? - (A) 急性腎絲球腎炎 (acute glomerulonephritis) 合併急性腎衰竭 - (B) 急性腎小管壞死 (acute tubular necrosis) 合併急性腎衰竭 - (C) 急性腎間質腎炎 (acute interstitial nephritis) 合併急性腎衰竭 - (D) 低血容(hypovolemia) 合併急性腎衰竭 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- #### 1. Allergic interstitial nephritis (AIN) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (2) 臨床特徵和表徵:皮膚紅疹、血中嗜伊紅性白血球增加(Eosinophilia),尿中出現 嗜伊紅性白血球(Eosinophiluria)。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- 【詳解】(A) MCD; (B) Acute interstitial nephritis; (C) Myoglobinuria; Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- c. 腎間質 (Interstitial) - (a) 病名:急性間質性腎炎 (Acute interstitial nephritis, AIN) - (b) 病因: - i. 過敏 (Allergy): Sulfa drug、β lactams、NSAID、馬兜鈴酸等 - ii. 感染(Infection):急性腎盂腎炎(Acute pyelonephritis, APN) - iii. 浸潤型病變 (Infiltrative): 淋巴瘤 (Lymphoma)、類肉瘤 (Sarcoid) - (c) 特徵: Source: [[sources/med3-book3-ch03|丙、急性腎損傷]].
-- ...nt therapy | | Stage 5 | glomerular nephritis=CGN) | 蛋白流失 | 腫 | > 1 g | High AG acidosis | MGN, DM,SLE | | 慢性腎間質病變 (Chr.interstitial nephritis) | 貧血 (EPO) | 乾 | (RTA) | 吃中藥 | Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- (B) 慢性間質性腎炎 (chronic interstitial nephritis) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- (2) 所有的 PCN 都曾被報導與 anaphylaxis, interstitial nephritis, anemia and leukopenia 有 關,較長時間使用(> 2 weeks)建議監測 CBC、腎功能。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...齧齒動物身上,若有齧齒動物暴露史,診斷時需列入 考慮。引起的臨床症狀分兩大類: - (2) 出血熱合併腎症候群(Hemorrhagic fever with renal syndrome, HFRS) - a. 三大特點為發燒、血小板低下、急性間質性腎炎。 - b. Ribavirin 可用來治療 HFRS。 - (3) 漢他病毒肺症候群(Hantavirus pulmonary syndrome, HPS) - a. 一開始是發燒,4~5 天後病人會出現咳嗽、呼吸困難等呼吸道症狀,乃因肺部血管通透性劇烈增加,導致肺水腫、休克。 - b. 目前缺乏臨床實驗證實 ribavirin 可用來治療 HPS。 Source: [[sources/med3-book3-ch18|壬、病毒學]].
+- 2. Interstitial nephritis Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- 7. Acute interstitial nephritis Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- ...斷? - (A) 急性腎絲球腎炎 (acute glomerulonephritis) 合併急性腎衰竭 - (B) 急性腎小管壞死 (acute tubular necrosis) 合併急性腎衰竭 - (C) 急性腎間質腎炎 (acute interstitial nephritis) 合併急性腎衰竭 - (D) 低血容(hypovolemia) 合併急性腎衰竭 Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- #### 1. Allergic interstitial nephritis (AIN) Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
+- (2) 臨床特徵和表徵:皮膚紅疹、血中嗜伊紅性白血球增加(Eosinophilia),尿中出現 嗜伊紅性白血球(Eosinophiluria)。 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
+- 【詳解】(A) MCD; (B) Acute interstitial nephritis; (C) Myoglobinuria; Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
+- c. 腎間質 (Interstitial) - (a) 病名:急性間質性腎炎 (Acute interstitial nephritis, AIN) - (b) 病因: - i. 過敏 (Allergy): Sulfa drug、β lactams、NSAID、馬兜鈴酸等 - ii. 感染(Infection):急性腎盂腎炎(Acute pyelonephritis, APN) - iii. 浸潤型病變 (Infiltrative): 淋巴瘤 (Lymphoma)、類肉瘤 (Sarcoid) - (c) 特徵: Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丙、急性腎損傷 Page 71-84.
+- ...nt therapy | | Stage 5 | glomerular nephritis=CGN) | 蛋白流失 | 腫 | > 1 g | High AG acidosis | MGN, DM,SLE | | 慢性腎間質病變 (Chr.interstitial nephritis) | 貧血 (EPO) | 乾 | (RTA) | 吃中藥 | Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_戊、慢性腎臟病 Page 107-118.
+- (B) 慢性間質性腎炎 (chronic interstitial nephritis) Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_戊、慢性腎臟病 Page 107-118.
+- Hypoaldosteronism (TTKG - ↓ renin: diabetic nephropathy, NSAIDs, chronic interstitial nephritis, HIV normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin - ↓ response to aldosterone meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_甲、酸鹼平衡 Page 17-34.
+- (2) 所有的 PCN 都曾被報導與 anaphylaxis, interstitial nephritis, anemia and leukopenia 有 關,較長時間使用(> 2 weeks)建議監測 CBC、腎功能。 Source: 醫(三)第3冊腎內感染_第二篇、感染科_庚、細菌抗生素 Page 197-216.
+- ...齧齒動物身上,若有齧齒動物暴露史,診斷時需列入 考慮。引起的臨床症狀分兩大類: - (2) 出血熱合併腎症候群(Hemorrhagic fever with renal syndrome, HFRS) - a. 三大特點為發燒、血小板低下、急性間質性腎炎。 - b. Ribavirin 可用來治療 HFRS。 - (3) 漢他病毒肺症候群(Hantavirus pulmonary syndrome, HPS) - a. 一開始是發燒,4~5 天後病人會出現咳嗽、呼吸困難等呼吸道症狀,乃因肺部血管通透性劇烈增加,導致肺水腫、休克。 - b. 目前缺乏臨床實驗證實 ribavirin 可用來治療 HPS。 Source: 醫(三)第3冊腎內感染_第二篇、感染科_壬、病毒學 Page 218-236.
 
 ## Clinical Caveats
 

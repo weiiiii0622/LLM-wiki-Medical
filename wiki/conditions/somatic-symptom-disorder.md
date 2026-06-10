@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- I. 身體化疾患 (Somatization Disorder) 79 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- 1. 身體化疾患 (somatization disorder)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- #### I. 身體化疾患 (Somatization Disorder) Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- 精神疾患? 醫四-68 - (A) 恐慌症 (panic disorder) - (B) 強迫症 (obsessive-compulsive disorder) - (C) 重鬱症 (major depressive disorder) - (D) 身體化症 (somatization disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
+- I. 身體化疾患 (Somatization Disorder) 79 Source: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118.
+- 1. 身體化疾患 (somatization disorder)。 Source: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118.
+- #### I. 身體化疾患 (Somatization Disorder) Source: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118.
+- 精神疾患? 醫四-68 - (A) 恐慌症 (panic disorder) - (B) 強迫症 (obsessive-compulsive disorder) - (C) 重鬱症 (major depressive disorder) - (D) 身體化症 (somatization disorder) Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
 
 ## Clinical Caveats
 

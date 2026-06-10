@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科.md
+raw_source_title: "醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科"
+raw_source_file: "raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科.md"
+page_start: 231
+page_end: 254
+canonical_citation: "醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254"
 book: 醫(六)第4冊麻醉耳鼻喉
 chapter_order: 14
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第4冊麻醉耳鼻喉
 - Chapter file: `raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科.md`
+- Pages covered: 231-254
+- Canonical citation: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

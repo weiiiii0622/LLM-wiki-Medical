@@ -51,23 +51,23 @@ tags:
 
 ## Key Details From Sources
 
-- ...'s esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服雙磷酸鹽的副作用或無法配合口服需求時使用。 | | | Selective estrogenreceptor modulator(SERM) | Raloxifene | ●不應使用於更年期前女性。●可做為預防骨質疏鬆的第一線用藥。(治療為第二線)●可減少乳癌風險,但是會增加熱潮紅與靜脈栓塞風險。 | | | RANKL inhibitor | Denosumab | ●皮 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- | 藥物選擇 | | 使用説明 | |-------|--------------------|---------------------------------------| | 第一線用藥 | Bisphosphonates | ●建議先使用口服藥物,若 BMD 持續降低 | | | (註) | ( ≧ 5%),可改成 IV。 | | | | ●停用:口服五年或 IV 三年後,若 BMD 穩定、 | | | | 之前無脊椎骨折,而且低骨折風險。 | | | | ●續用:連續兩次追蹤 BMD 都下降。 | | 第二線用藥 | Raloxifene (SERM) | T-score ≦ -2.5,但無 fragility fracture。 | | | St Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- 5. 治療: - (1) 保守治療:NSAID, electric stimulation, bisphosphonate, shockwave (under investigation)。 - (2) 外科治療: - a. Before collapse (FICAT I & II) core decompression, grafting procedures (補骨頭)。 - b. After collapse: 做人工關節。 - (a) FICAT III:hemiarthroplasty(當還沒影響到 acetabular 時可以考慮)。 - (b) FICAT IV: total hip arthroplasty (已影響到 acetabular,則須使用全人工關節)。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- 5. 大部分骨轉移癌是 osteolytic lesion,會造成骨頭流失,需要比較注意的是前列腺癌所造成的骨轉移常是 osteoblastic lesion,骨頭會以增生來表現,或是 mixed type (osteoblastic 和 osteolytic 共同表現)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- iv. 放射性核素顯像(radionuclide imaging): 就是骨骼掃描(bone scan),判斷癌症是否有骨轉移以決定分期。若無骨頭痛且ALP (alkaline phosphatase,鹼性燐酸酶)值正常,則骨轉移機率極低。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (D) 高血鈣症發生率可高達 13%, 其原因係 paraneoplastic phenomena 或骨轉移造成之骨質溶解 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- a. 症狀:頻尿、急尿、夜尿、恥骨上疼痛。這些症狀會隨著膀胱漲大而加劇, 故膀胱容量常不大( 1 cm 視為轉移。表淺(Ta、Tis)腫瘤不一定要作。另外 也可排除腫瘤由上泌尿道來的可能性。 - (c) Chest X-ray: 判斷是否肺轉移。 - (d) Bone scan:判斷是否骨轉移。如果抽血 ALP 正常則不一定要作。 Source: [[sources/med5-book5-ch02|乙、下泌尿道]].
-- (7) 預後: 五年存活率看 N。 - a. 無淋巴結轉移: 80%。 - b. 腹股溝 (inguinal) 淋巴結 (+): 40%。 - c. 髂(iliac)淋巴結(+):20%。 - d. 軟組織或骨轉移:0%。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (5) 骨掃描(bone scan):評估骨轉移。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- ...為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (C) 12.80 歲的陳老先生身體一向硬朗,行動自如、心智正常,最近經確 103(-)專 診得到攝護腺癌,而且已經有骨轉移,泌尿科醫師建議進行手術 及睪丸摘除,經向陳老先生解釋,陳老先生願意接受手術但拒 絕摘除睪丸。陳老先生的兒子跟主治醫師要求手術麻醉後就一 併摘除睪丸,反正陳老先生年紀也大了,留著睪丸用處不大, 手術後他自然就會接受。主治醫師應該照著做嗎? - (A) 應該,因為子女可以代為決定 - (B) 應該,因為對病情控制有幫助 - (C) 不應該,因為陳老先生的自主權應受到尊重 - (D) 不應該,因為陳老先生的兒子沒有簽手術同意書 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- (1) PTHrP: oncogen, virus, local growth factor - a. 常見於 Squamous cell carcinomas、Renal carcinomas、Bladder carcinoma 等。 - b. 某些腫瘤的 ras(oncogen)過度活化,會造成 PTHrP 表現增加;導致 Adult T cell lymphoma 的 HTLV-1 也會加強 PTHrP 表現;骨轉移的腫瘤可能因為骨頭提供的環境,PTHrP 表現也較多。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (3) 蝕骨轉移 (osteolytic metastasis) - a. 常見於乳癌、多發性骨髓癌。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (2) Bisphosphonates: 會抑制蝕骨細胞,可在1~2天內降血鈣,效果維持數周。有腎毒性,可能造成 Jaw osteonecrosis。 Source: [[sources/med3-book4-ch22|戊、腫瘤急症]].
-- (4) 無法開刀的乳癌: (Ref. Washington p759) - a. ER/PR(+) 可單用荷爾蒙治療。或是合併 CDK4/6 inhibitor 或是 everolimus 等標靶 治療。 - b. 荷爾蒙治療對骨轉移有其角色,而肝等其他內臟轉移需使用化療效果較佳; 腦轉 移則給予適當的放射線治療。 - c. 大部分病患建議單一化療優於多種藥物合併的化療配方。 - d. Trastuzumab (Herceptin):可與荷爾蒙治療或化療併用於 HER2(+) 病患。 - e. Lapatinib (Tyrosine kinase inh. of HER2 & EGFR)、Bevacizumab (Avastin, Anti-VEGF antibody) 合併化療用於乳癌患者有其角色。 Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- (B) 癌細胞骨轉移 (bone metastasis) Source: [[sources/med3-book4-ch23|己、其 他]].
-- (D) 5. 一位 55 歲男性患有肺癌及全身骨轉移,已使用高量嗎啡,病人仍感受無法忍受的不適,要求醫師讓他睡著就好了,下列那一項是不當的敘述? Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
+- ...'s esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledronic acid | ●靜脈注射 (一年一次 5 mg),無法耐受口服雙磷酸鹽的副作用或無法配合口服需求時使用。 | | | Selective estrogenreceptor modulator(SERM) | Raloxifene | ●不應使用於更年期前女性。●可做為預防骨質疏鬆的第一線用藥。(治療為第二線)●可減少乳癌風險,但是會增加熱潮紅與靜脈栓塞風險。 | | | RANKL inhibitor | Denosumab | ●皮 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- | 藥物選擇 | | 使用説明 | |-------|--------------------|---------------------------------------| | 第一線用藥 | Bisphosphonates | ●建議先使用口服藥物,若 BMD 持續降低 | | | (註) | ( ≧ 5%),可改成 IV。 | | | | ●停用:口服五年或 IV 三年後,若 BMD 穩定、 | | | | 之前無脊椎骨折,而且低骨折風險。 | | | | ●續用:連續兩次追蹤 BMD 都下降。 | | 第二線用藥 | Raloxifene (SERM) | T-score ≦ -2.5,但無 fragility fracture。 | | | St Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- 5. 治療: - (1) 保守治療:NSAID, electric stimulation, bisphosphonate, shockwave (under investigation)。 - (2) 外科治療: - a. Before collapse (FICAT I & II) core decompression, grafting procedures (補骨頭)。 - b. After collapse: 做人工關節。 - (a) FICAT III:hemiarthroplasty(當還沒影響到 acetabular 時可以考慮)。 - (b) FICAT IV: total hip arthroplasty (已影響到 acetabular,則須使用全人工關節)。 Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
+- 5. 大部分骨轉移癌是 osteolytic lesion,會造成骨頭流失,需要比較注意的是前列腺癌所造成的骨轉移常是 osteoblastic lesion,骨頭會以增生來表現,或是 mixed type (osteoblastic 和 osteolytic 共同表現)。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- iv. 放射性核素顯像(radionuclide imaging): 就是骨骼掃描(bone scan),判斷癌症是否有骨轉移以決定分期。若無骨頭痛且ALP (alkaline phosphatase,鹼性燐酸酶)值正常,則骨轉移機率極低。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (D) 高血鈣症發生率可高達 13%, 其原因係 paraneoplastic phenomena 或骨轉移造成之骨質溶解 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- a. 症狀:頻尿、急尿、夜尿、恥骨上疼痛。這些症狀會隨著膀胱漲大而加劇, 故膀胱容量常不大( 1 cm 視為轉移。表淺(Ta、Tis)腫瘤不一定要作。另外 也可排除腫瘤由上泌尿道來的可能性。 - (c) Chest X-ray: 判斷是否肺轉移。 - (d) Bone scan:判斷是否骨轉移。如果抽血 ALP 正常則不一定要作。 Source: 醫(五)第5冊泌尿_乙、下泌尿道 Page 45-66.
+- (7) 預後: 五年存活率看 N。 - a. 無淋巴結轉移: 80%。 - b. 腹股溝 (inguinal) 淋巴結 (+): 40%。 - c. 髂(iliac)淋巴結(+):20%。 - d. 軟組織或骨轉移:0%。 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- (5) 骨掃描(bone scan):評估骨轉移。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_辛、惡性腫瘤 Page 205-216.
+- ...為口服或靜脈補充鈣離子,輔以維他命 D 補充。 - (2) 高血鈣 (hypercalcemia): - a. 症狀有多尿、厭食、疲倦無力、噁心嘔吐、骨頭疼痛、神經反射降低、便秘,或心電圖 QT interval 會縮短。 - b. 原因:骨轉移造成溶骨性高血鈣、惡性腫瘤分泌 PTHrP、副甲狀腺機能亢進、 肉芽腫性疾病(TB or sarcoidosis)、利尿劑的使用(最常見 thiazide 類)或維 他命 D 過多。惡性腫瘤為最常見之原因。 - c. 治療: 首要先補充水分並搭配利尿劑 furosemide 產生滲透性利尿、惡性腫瘤 引起的高血鈣可使用 calcitonin 或 bisphosphate。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_乙、電解質與酸鹼平衡 Page 27-34.
+- (C) 12.80 歲的陳老先生身體一向硬朗,行動自如、心智正常,最近經確 103(-)專 診得到攝護腺癌,而且已經有骨轉移,泌尿科醫師建議進行手術 及睪丸摘除,經向陳老先生解釋,陳老先生願意接受手術但拒 絕摘除睪丸。陳老先生的兒子跟主治醫師要求手術麻醉後就一 併摘除睪丸,反正陳老先生年紀也大了,留著睪丸用處不大, 手術後他自然就會接受。主治醫師應該照著做嗎? - (A) 應該,因為子女可以代為決定 - (B) 應該,因為對病情控制有幫助 - (C) 不應該,因為陳老先生的自主權應受到尊重 - (D) 不應該,因為陳老先生的兒子沒有簽手術同意書 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_辛、醫學倫理及其他 Page 97-120.
+- (1) PTHrP: oncogen, virus, local growth factor - a. 常見於 Squamous cell carcinomas、Renal carcinomas、Bladder carcinoma 等。 - b. 某些腫瘤的 ras(oncogen)過度活化,會造成 PTHrP 表現增加;導致 Adult T cell lymphoma 的 HTLV-1 也會加強 PTHrP 表現;骨轉移的腫瘤可能因為骨頭提供的環境,PTHrP 表現也較多。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_戊、腫瘤急症 Page 247-252.
+- (3) 蝕骨轉移 (osteolytic metastasis) - a. 常見於乳癌、多發性骨髓癌。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_戊、腫瘤急症 Page 247-252.
+- (2) Bisphosphonates: 會抑制蝕骨細胞,可在1~2天內降血鈣,效果維持數周。有腎毒性,可能造成 Jaw osteonecrosis。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_戊、腫瘤急症 Page 247-252.
+- (4) 無法開刀的乳癌: (Ref. Washington p759) - a. ER/PR(+) 可單用荷爾蒙治療。或是合併 CDK4/6 inhibitor 或是 everolimus 等標靶 治療。 - b. 荷爾蒙治療對骨轉移有其角色,而肝等其他內臟轉移需使用化療效果較佳; 腦轉 移則給予適當的放射線治療。 - c. 大部分病患建議單一化療優於多種藥物合併的化療配方。 - d. Trastuzumab (Herceptin):可與荷爾蒙治療或化療併用於 HER2(+) 病患。 - e. Lapatinib (Tyrosine kinase inh. of HER2 & EGFR)、Bevacizumab (Avastin, Anti-VEGF antibody) 合併化療用於乳癌患者有其角色。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論 Page 225-242.
+- (B) 癌細胞骨轉移 (bone metastasis) Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_己、其他 Page 253-258.
+- (D) 5. 一位 55 歲男性患有肺癌及全身骨轉移,已使用高量嗎啡,病人仍感受無法忍受的不適,要求醫師讓他睡著就好了,下列那一項是不當的敘述? Source: 醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_戊、緩和醫療 Page 315-344.
 
 ## Clinical Caveats
 

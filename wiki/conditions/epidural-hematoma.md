@@ -35,13 +35,13 @@ tags:
 
 ## Key Details From Sources
 
-- 【詳解】脂肪栓塞症候群(Fat embolism syndrome)的三大特徵(triad): 神志不清(consciousness disturbance)with 6~12 hours lucid interval、呼吸困難(respiratory distress)、皮膚出血斑(petechiae)。常發生於長骨(long bone)或骨盆骨折患者,最常在骨折後 24~48 小時後併發症狀;應儘速提供呼吸治療為主,必要時予以氣管插管以呼吸器治療。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- C. 硬腦膜上出血 (Epidural hematoma, EDH) 128 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- 12. 給予 antiepileptic drug,以下情形需注意會增加 post-traumatic seizures 的機會: - (1) 急性 EDH、SDH & ICH。 - (2) 開放性凹陷骨折且大腦實質有受傷。 - (3) 頭部受傷 24 小時之內有發生過 seizure。 - (4) GCS $3。 - b. 而塊最大厚度 8 ° Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- 1. 出血在硬腦膜和蜘蛛膜之間,通常是硬腦膜下的橋靜脈(bridging veins)破裂所致。 由於能造成 SDH 的外力衝擊比 EDH 大的很多,也容易造成身上其他處嚴重傷害, 故也較致命。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- (A) 硬腦膜上出血(epidural hematoma) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- 腦神經外科是國考的大科,題目比重極重,本章節整理了EDH、SDH、SAH、ICH、IICP、脊椎疾病、腦瘤、水腦症的疾病,鉅細靡遺,希望能有幫助。學習重點:GCS 評估和腦死判定、頭部創傷的處置以及EDH和SDH的分辨、IICP的處置、脊椎疾病的鑑別診斷和處置、各種腦瘤的特性、診斷和治療(重要!)。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- (D) 6. 有關腦壓監測器 (ICP monitor) 之安置,置於下列那一部分最為 99(-) 專 準確且效益最大? 醫五-21 - (A) 硬腦膜上部 - (B) 硬腦膜下部 - (C) 腦內組織區 - (D) 腦室內 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
+- 【詳解】脂肪栓塞症候群(Fat embolism syndrome)的三大特徵(triad): 神志不清(consciousness disturbance)with 6~12 hours lucid interval、呼吸困難(respiratory distress)、皮膚出血斑(petechiae)。常發生於長骨(long bone)或骨盆骨折患者,最常在骨折後 24~48 小時後併發症狀;應儘速提供呼吸治療為主,必要時予以氣管插管以呼吸器治療。 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- C. 硬腦膜上出血 (Epidural hematoma, EDH) 128 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- 12. 給予 antiepileptic drug,以下情形需注意會增加 post-traumatic seizures 的機會: - (1) 急性 EDH、SDH & ICH。 - (2) 開放性凹陷骨折且大腦實質有受傷。 - (3) 頭部受傷 24 小時之內有發生過 seizure。 - (4) GCS $3。 - b. 而塊最大厚度 8 ° Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- 1. 出血在硬腦膜和蜘蛛膜之間,通常是硬腦膜下的橋靜脈(bridging veins)破裂所致。 由於能造成 SDH 的外力衝擊比 EDH 大的很多,也容易造成身上其他處嚴重傷害, 故也較致命。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- (A) 硬腦膜上出血(epidural hematoma) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_戊、顱內動脈瘤 Page 163-170.
+- 腦神經外科是國考的大科,題目比重極重,本章節整理了EDH、SDH、SAH、ICH、IICP、脊椎疾病、腦瘤、水腦症的疾病,鉅細靡遺,希望能有幫助。學習重點:GCS 評估和腦死判定、頭部創傷的處置以及EDH和SDH的分辨、IICP的處置、脊椎疾病的鑑別診斷和處置、各種腦瘤的特性、診斷和治療(重要!)。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_壬、內視鏡 Page 121-130.
+- (D) 6. 有關腦壓監測器 (ICP monitor) 之安置,置於下列那一部分最為 99(-) 專 準確且效益最大? 醫五-21 - (A) 硬腦膜上部 - (B) 硬腦膜下部 - (C) 腦內組織區 - (D) 腦室內 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_丙、顱內壓 Page 151-156.
 
 ## Clinical Caveats
 

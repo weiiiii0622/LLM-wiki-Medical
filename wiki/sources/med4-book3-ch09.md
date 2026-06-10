@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_壬、精神科的治療.md
+raw_source_title: "醫(四)第3冊精神科_壬、精神科的治療"
+raw_source_file: "raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_壬、精神科的治療.md"
+page_start: 187
+page_end: 206
+canonical_citation: "醫(四)第3冊精神科_壬、精神科的治療 Page 187-206"
 book: 醫(四)第3冊精神科
 chapter_order: 9
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第3冊精神科
 - Chapter file: `raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_壬、精神科的治療.md`
+- Pages covered: 187-206
+- Canonical citation: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

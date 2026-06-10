@@ -33,12 +33,12 @@ tags:
 
 ## Key Details From Sources
 
-- (4) 瞳孔:縮瞳 (Miosis)。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
-- iii. 藥物: cholinergic agonist (如 Urecholine®)。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- (2) 葡萄膜鞏膜途徑(uveoscleral route): 只有約 10% 房水引流走此途徑。房水 經由睫狀體表面進到脈絡膜上空間,然 後被睫狀體、脈絡膜、鞏膜的靜脈循環 所引流。此兩途徑可因使用不同藥物而 改變引流量: - a. 使用縮瞳劑:減少引流。 - b. 使用 atropine、sympathomimetics、 Prostaglandin analogs 等:引流增加。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- (5) 處理:手術治療為主,藥水治療為輔。但緊急處理時可先給 acetazolamide(降 眼壓),或局部給 2%pilocarpine(縮瞳,使隅角張開)以及止痛和止吐劑,病人須仰躺一小時,若眼壓仍無降低可口服給予 glycerol 或 IV 20% mannitol(但 須小心病人有糖尿病),最後實施虹膜造孔術。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- ...---------------|-----------------------------|------------|------------------------| | 擬副交感神經 | -在小樑網藉由睫狀肌的收縮來增加房 | 副作用:縮瞳、白內 | Pilocarpine ( 毛 | | 劑 Cholinergic | 水的外流;不過亦會引起縮瞳。 | 障、近視。 | 芸果香) | | agents | -縮瞳作用對隅角閉鎖性青光眼的緩解 | | | | | 有其價值。 | | | | $\alpha_2$ agonist | - 可抑制房水產生,並促進房水排出。 | 副作用:低血壓、眼 | Brimonidine | | | 其中 apraclonidine 可作為雷 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- (1) 主淚腺(main lacrimal gland):位在眼窩上外側,額骨形成的淚窩中。主淚腺製造了淚液中 95% 的水。神經支配與 CNV1、CNVII 有關。負責反射分泌,當結膜或角膜受刺激、藥物刺激作用(如 pilocarpine)或眼球發炎時會分泌淚水,局部麻醉時則會減少。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- (4) 瞳孔:縮瞳 (Miosis)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
+- iii. 藥物: cholinergic agonist (如 Urecholine®)。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- (2) 葡萄膜鞏膜途徑(uveoscleral route): 只有約 10% 房水引流走此途徑。房水 經由睫狀體表面進到脈絡膜上空間,然 後被睫狀體、脈絡膜、鞏膜的靜脈循環 所引流。此兩途徑可因使用不同藥物而 改變引流量: - a. 使用縮瞳劑:減少引流。 - b. 使用 atropine、sympathomimetics、 Prostaglandin analogs 等:引流增加。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- (5) 處理:手術治療為主,藥水治療為輔。但緊急處理時可先給 acetazolamide(降 眼壓),或局部給 2%pilocarpine(縮瞳,使隅角張開)以及止痛和止吐劑,病人須仰躺一小時,若眼壓仍無降低可口服給予 glycerol 或 IV 20% mannitol(但 須小心病人有糖尿病),最後實施虹膜造孔術。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- ...---------------|-----------------------------|------------|------------------------| | 擬副交感神經 | -在小樑網藉由睫狀肌的收縮來增加房 | 副作用:縮瞳、白內 | Pilocarpine ( 毛 | | 劑 Cholinergic | 水的外流;不過亦會引起縮瞳。 | 障、近視。 | 芸果香) | | agents | -縮瞳作用對隅角閉鎖性青光眼的緩解 | | | | | 有其價值。 | | | | $\alpha_2$ agonist | - 可抑制房水產生,並促進房水排出。 | 副作用:低血壓、眼 | Brimonidine | | | 其中 apraclonidine 可作為雷 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- (1) 主淚腺(main lacrimal gland):位在眼窩上外側,額骨形成的淚窩中。主淚腺製造了淚液中 95% 的水。神經支配與 CNV1、CNVII 有關。負責反射分泌,當結膜或角膜受刺激、藥物刺激作用(如 pilocarpine)或眼球發炎時會分泌淚水,局部麻醉時則會減少。 Source: 醫(六)第2冊眼科_第一篇、眼科_丙、淚液系統及乾眼 Page 35-42.
 
 ## Clinical Caveats
 

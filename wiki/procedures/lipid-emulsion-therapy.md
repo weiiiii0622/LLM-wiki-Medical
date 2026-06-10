@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 20% lipid emulsion(TPN 配方裡的脂肪濃度差不多就是 20%)是局部麻醉劑中毒的解藥。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
+- 3. 20% lipid emulsion(TPN 配方裡的脂肪濃度差不多就是 20%)是局部麻醉劑中毒的解藥。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物 Page 93-100.
 
 ## Clinical Caveats
 

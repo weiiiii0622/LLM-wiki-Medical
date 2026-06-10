@@ -29,9 +29,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### F. 副鼻竇解剖、發展請見鼻竇炎範圍 Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- #### A. 鼻竇發育(鼻竇較正確的名稱為副鼻竇 paranasal sinus) Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- ...3 | Tumor with infiltration of bony structures at skull base, cervical vertebra, | | | | | pterygoid structures, and/or paranasal sinuses | | | | T4 | Tumor with intracranial extension, involvement of cranial nerves, | | | | | hypopharynx, orbit, parotid gland, and/or extensive soft tissue infiltration | | | | | beyond the lateral surface of lateral ptery Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- #### F. 副鼻竇解剖、發展請見鼻竇炎範圍 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- #### A. 鼻竇發育(鼻竇較正確的名稱為副鼻竇 paranasal sinus) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- ...3 | Tumor with infiltration of bony structures at skull base, cervical vertebra, | | | | | pterygoid structures, and/or paranasal sinuses | | | | T4 | Tumor with intracranial extension, involvement of cranial nerves, | | | | | hypopharynx, orbit, parotid gland, and/or extensive soft tissue infiltration | | | | | beyond the lateral surface of lateral ptery Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
 
 ## Clinical Caveats
 

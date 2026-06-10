@@ -27,8 +27,8 @@ Caloric test 以冷熱刺激外耳道評估水平半規管與前庭眼反射功�
 
 ## Key Details From Sources
 
-- #### C. 前庭功能檢查一溫差試驗 (Caloric test) Source: [[sources/med6-book4-ch11|甲、耳科]].
-- (1) 溫差試驗,也可稱為眼前庭反射試驗(oculovestibular reflex),用來檢查第八對腦神經的前庭功能。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- #### C. 前庭功能檢查一溫差試驗 (Caloric test) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- (1) 溫差試驗,也可稱為眼前庭反射試驗(oculovestibular reflex),用來檢查第八對腦神經的前庭功能。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
 
 ## Clinical Caveats
 

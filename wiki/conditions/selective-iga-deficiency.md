@@ -29,9 +29,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...- (1) Congenital causes:呈散在性分佈。 - a. 囊狀纖維化 (cystic fibrosis)。 - b. α1- 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency )。 - c. 免疫缺失(selective IgA deficiency, allergic bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquire Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...low cytometry | | | | | | (算T細胞數目) | | | | | | * Mitogen test | | | | | | (測 T 細胞功能) | | | | | 常見 | DiGeorge syndrome | Selective IgA | Leukocyte | Hereditary | | 疾病 | | deficiency; X-linked | adhesion deficiency | angioedema | | | | agammaglobulinemia | (LAD); Chronic | | | | | (Bruton | granulomatous disease | | | | | agammaglobulinemia); | | | | | Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 1. 抗體製造缺陷的疾病(體液性免疫缺陷): 此類為最常見的原發性免疫缺乏疾病,而其中又以 Selective IgA deficiency 最常見。 此類病人的特色即為反覆的莢膜細菌感染,或對抗生素治療無效。 - (1) X-linked agammaglobulinemia (XLA, Bruton agammaglobulinemia): - a. 致病機轉及特色:Xq22 上 encode Bruton tyrosine kinase 的基因(Btk gene) 突變引起。Bruton tyrosine kinase 是一個訊息傳導分子,和 B Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- ...- (1) Congenital causes:呈散在性分佈。 - a. 囊狀纖維化 (cystic fibrosis)。 - b. α1- 抗胰蛋白酶缺乏症(α1-antitrypsin deficiency )。 - c. 免疫缺失(selective IgA deficiency, allergic bronchopulmonary aspergillosis, Sjögren's syndrome, and α1-antitrypsin deficiency)。 - d. 纖毛功能異常:Kartagener's syndrome (sinusitis, bronchiectasis, situs inversus, and hypomotile cilia)。 - (2) Acquire Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- ...low cytometry | | | | | | (算T細胞數目) | | | | | | * Mitogen test | | | | | | (測 T 細胞功能) | | | | | 常見 | DiGeorge syndrome | Selective IgA | Leukocyte | Hereditary | | 疾病 | | deficiency; X-linked | adhesion deficiency | angioedema | | | | agammaglobulinemia | (LAD); Chronic | | | | | (Bruton | granulomatous disease | | | | | agammaglobulinemia); | | | | | Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
+- 1. 抗體製造缺陷的疾病(體液性免疫缺陷): 此類為最常見的原發性免疫缺乏疾病,而其中又以 Selective IgA deficiency 最常見。 此類病人的特色即為反覆的莢膜細菌感染,或對抗生素治療無效。 - (1) X-linked agammaglobulinemia (XLA, Bruton agammaglobulinemia): - a. 致病機轉及特色:Xq22 上 encode Bruton tyrosine kinase 的基因(Btk gene) 突變引起。Bruton tyrosine kinase 是一個訊息傳導分子,和 B Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
 
 ## Clinical Caveats
 

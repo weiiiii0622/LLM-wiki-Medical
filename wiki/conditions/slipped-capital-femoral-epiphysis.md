@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 股骨生長板滑脱 (Slipped capital femoral epiphysis, SCFE) 144 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
-- #### B. 股骨生長板滑脱 (Slipped capital femoral epiphysis, SCFE) Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
-- 6. 併發症:股骨頭壞死是術後最嚴重的併發症(4~6%),造成的原因包括:不穩定型的生長板滑脫、不當的復位,另外小部分的病人可能合併另一側的 SCFE。另外,軟骨分解(chondrolysis)的發生率為 0~2%,造成的原因主要為不當的骨釘位置,病患會出現鼠蹊部、大腿或膝關節疼痛。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
+- B. 股骨生長板滑脱 (Slipped capital femoral epiphysis, SCFE) 144 Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
+- #### B. 股骨生長板滑脱 (Slipped capital femoral epiphysis, SCFE) Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
+- 6. 併發症:股骨頭壞死是術後最嚴重的併發症(4~6%),造成的原因包括:不穩定型的生長板滑脫、不當的復位,另外小部分的病人可能合併另一側的 SCFE。另外,軟骨分解(chondrolysis)的發生率為 0~2%,造成的原因主要為不當的骨釘位置,病患會出現鼠蹊部、大腿或膝關節疼痛。 Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
 
 ## Clinical Caveats
 

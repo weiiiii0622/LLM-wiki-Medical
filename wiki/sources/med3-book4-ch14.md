@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病.md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病.md"
+page_start: 173
+page_end: 182
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病 Page 173-182"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 14
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病.md`
+- Pages covered: 173-182
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病 Page 173-182
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

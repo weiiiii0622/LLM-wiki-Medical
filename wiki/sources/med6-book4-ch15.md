@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症.md
+raw_source_title: "醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症"
+raw_source_file: "raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症.md"
+page_start: 255
+page_end: 294
+canonical_citation: "醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294"
 book: 醫(六)第4冊麻醉耳鼻喉
 chapter_order: 15
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第4冊麻醉耳鼻喉
 - Chapter file: `raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症.md`
+- Pages covered: 255-294
+- Canonical citation: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

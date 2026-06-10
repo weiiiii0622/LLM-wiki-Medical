@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...athy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- #### G. 急性瀰散型腦脊髓炎 (Acute disseminated encephalomyelitis, ADEM) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (B) 4. 下列有關急性散發性腦脊髓炎(acute disseminated encephalomyelitis, 108(二)專 ADEM)的敘述,何者錯誤? 醫四 -58 - (A) 肇因於病毒感染後或疫苗接種後誘發的自體免疫疾病 - (B) 很容易復發 - (C) 若有嚴重大腦傷害,死亡率高 - (D) 病理變化以髓鞘 (myelin) 的破壞為主 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- ...athy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) 165 Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- #### G. 急性瀰散型腦脊髓炎 (Acute disseminated encephalomyelitis, ADEM) Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- (B) 4. 下列有關急性散發性腦脊髓炎(acute disseminated encephalomyelitis, 108(二)專 ADEM)的敘述,何者錯誤? 醫四 -58 - (A) 肇因於病毒感染後或疫苗接種後誘發的自體免疫疾病 - (B) 很容易復發 - (C) 若有嚴重大腦傷害,死亡率高 - (D) 病理變化以髓鞘 (myelin) 的破壞為主 Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
 
 ## Clinical Caveats
 

@@ -29,10 +29,10 @@ S. aureus 或 Group A Streptococcus superantigen 造成發燒、低血壓、紅�
 
 ## Key Details From Sources
 
-- 【詳解】Peritonitis 為急症,可能會有 malignant hypercapnia 和 toxic shock syndrome,要以 open 的方式介入。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- # 2. 中毒性休克症候群(Toxic Shock Syndrome, TSS) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 致病因子: S. aureus 分泌之 Toxic shock syndrome toxin 1 (TSST-1) 及 Staphylococcal enterotoxin 和 Group A Streptococcus 分泌之 Streptococcal pyrogenic exotoxins (SPE) ,也就是超級抗原 (superantigen) 所導致之系統性症候群。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (3) Menstrual-associated TSS:好發於女性,因月經期間使用衛生棉條吸收力太強, 棉條吸入大量經血後成為細菌的培養皿,再加上經血中和了陰道內抑菌的弱酸 pH 值環境而導致感染。之後這類衛生棉條下架後發生率即明顯下降。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 【詳解】Peritonitis 為急症,可能會有 malignant hypercapnia 和 toxic shock syndrome,要以 open 的方式介入。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- # 2. 中毒性休克症候群(Toxic Shock Syndrome, TSS) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (1) 致病因子: S. aureus 分泌之 Toxic shock syndrome toxin 1 (TSST-1) 及 Staphylococcal enterotoxin 和 Group A Streptococcus 分泌之 Streptococcal pyrogenic exotoxins (SPE) ,也就是超級抗原 (superantigen) 所導致之系統性症候群。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (3) Menstrual-associated TSS:好發於女性,因月經期間使用衛生棉條吸收力太強, 棉條吸入大量經血後成為細菌的培養皿,再加上經血中和了陰道內抑菌的弱酸 pH 值環境而導致感染。之後這類衛生棉條下架後發生率即明顯下降。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

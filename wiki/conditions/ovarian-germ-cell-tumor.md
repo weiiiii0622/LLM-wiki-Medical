@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- C. 卵巢生殖細胞腫瘤 (Ovarian germ cell tumor) 181 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- ...Mo | nodermal highly specialized teratoma: | | | | | stru | ma ovarii & carcinoid neoplasms | | | | ・悪性 | 常見 | 見 (90%): Dysgerminoma · endodermal sinus | | | | miz | | or (yolk sac tumor) · immature teratoma & | | | | | | ted type | | | | | | 퀸 (10%): embryonal carcinoma 、 | | | | | polyembryoma & choriocarcinoma | | | | 轉移性: 2~3 mm) | | ・腹水 | | ・腹膜腫 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 【詳解】女性卵巢腫瘤約 60~70% 源於上皮細胞; 20% 源於卵巢生殖細胞; 10% 源於卵巢間質細胞; Yolk sac tumor ( 又稱 Endoder- | | |-----------------|---------------------------------------------|--| | (佔90%) | mal sinus tumor) > Immature teratoma > | | | | Mixed germ cell tumor | | | 較罕見的惡性生殖細胞腫瘤 | Embryonal carcinoma、Polyembryoma 和 | | | (佔10%) | Choriocarcinoma | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 【詳解】(A) sarcoma 的組織鑑別標記常用 desmin 和 vimentin,而分化差的 melanoma 可用 melanin 和 S-100(可在神經膠、黑色素、軟骨、脂肪和樹突細胞等發現);(B) vimentin 是表現在 mesenchymal cells;(D) LDH 在卵巢生殖細胞腫瘤 dysgerminoma 會上升,而卵巢間質腫瘤(stromal tumor),如 granulosa cell tumor 則可分泌 estrogen 和 inhibin。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- C. 卵巢生殖細胞腫瘤 (Ovarian germ cell tumor) 181 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- ...Mo | nodermal highly specialized teratoma: | | | | | stru | ma ovarii & carcinoid neoplasms | | | | ・悪性 | 常見 | 見 (90%): Dysgerminoma · endodermal sinus | | | | miz | | or (yolk sac tumor) · immature teratoma & | | | | | | ted type | | | | | | 퀸 (10%): embryonal carcinoma 、 | | | | | polyembryoma & choriocarcinoma | | | | 轉移性: 2~3 mm) | | ・腹水 | | ・腹膜腫 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 【詳解】女性卵巢腫瘤約 60~70% 源於上皮細胞; 20% 源於卵巢生殖細胞; 10% 源於卵巢間質細胞; Yolk sac tumor ( 又稱 Endoder- | | |-----------------|---------------------------------------------|--| | (佔90%) | mal sinus tumor) > Immature teratoma > | | | | Mixed germ cell tumor | | | 較罕見的惡性生殖細胞腫瘤 | Embryonal carcinoma、Polyembryoma 和 | | | (佔10%) | Choriocarcinoma | | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 【詳解】(A) sarcoma 的組織鑑別標記常用 desmin 和 vimentin,而分化差的 melanoma 可用 melanin 和 S-100(可在神經膠、黑色素、軟骨、脂肪和樹突細胞等發現);(B) vimentin 是表現在 mesenchymal cells;(D) LDH 在卵巢生殖細胞腫瘤 dysgerminoma 會上升,而卵巢間質腫瘤(stromal tumor),如 granulosa cell tumor 則可分泌 estrogen 和 inhibin。 Source: 醫(六)第1冊婦產_第二篇、婦科_丁、其他(Others) Page 313-320.
 
 ## Clinical Caveats
 

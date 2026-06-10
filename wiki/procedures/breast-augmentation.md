@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- ...findings。在乳房中發現單純性水囊 (simple cyst)、纖維腺瘤 (calcified fibroadenoma)、脂肪瘤 (lipoma) 或乳房內淋巴結 (intra-mammary lymph node)、乳房填充物 (breast implant) 等等,只需每年定期檢查及追蹤。 - d. BI-RADS 3:可能為良性發現,probably benign。在影像中發現局部的不對稱,或是邊界清楚的實質腫塊。此階段發展為惡性腫瘤的機率小於 2%,建議在 3~6 個月內做短期密集之追蹤檢查。 - e. BI-RADS 4: 懷疑異常, suspicious abnormality。影像上高度懷疑為惡性組織 (3~95%), 變異度極大, 需進一步做切片檢查。可再詳細區分為 - (a Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- (B) 22. 一位 52 歲婦女因 3 年前小針注射隆乳 (free silicon injection)後, 最近覺得有硬塊來求診,下列何種檢查最不適宜? - (A) 超音波 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- B. 隆乳手術 (Breast augmentation) 288 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- #### B. 隆乳手術 (Breast augmentation) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- 2. 莢膜攣縮是因為身體針對外來植入物會有免疫反應,因此形成一層纖維性疤痕組織將外來物包住,像個口袋將外來物包住,就稱作莢膜。只要隆乳就一定會形成莢膜,輕度的莢膜是有利於維持胸型,但假使莢膜太厚攣縮,就會使胸部變形。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- ...findings。在乳房中發現單純性水囊 (simple cyst)、纖維腺瘤 (calcified fibroadenoma)、脂肪瘤 (lipoma) 或乳房內淋巴結 (intra-mammary lymph node)、乳房填充物 (breast implant) 等等,只需每年定期檢查及追蹤。 - d. BI-RADS 3:可能為良性發現,probably benign。在影像中發現局部的不對稱,或是邊界清楚的實質腫塊。此階段發展為惡性腫瘤的機率小於 2%,建議在 3~6 個月內做短期密集之追蹤檢查。 - e. BI-RADS 4: 懷疑異常, suspicious abnormality。影像上高度懷疑為惡性組織 (3~95%), 變異度極大, 需進一步做切片檢查。可再詳細區分為 - (a Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- (B) 22. 一位 52 歲婦女因 3 年前小針注射隆乳 (free silicon injection)後, 最近覺得有硬塊來求診,下列何種檢查最不適宜? - (A) 超音波 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- B. 隆乳手術 (Breast augmentation) 288 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_己、醫學美容及其他 Page 301-314.
+- #### B. 隆乳手術 (Breast augmentation) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_己、醫學美容及其他 Page 301-314.
+- 2. 莢膜攣縮是因為身體針對外來植入物會有免疫反應,因此形成一層纖維性疤痕組織將外來物包住,像個口袋將外來物包住,就稱作莢膜。只要隆乳就一定會形成莢膜,輕度的莢膜是有利於維持胸型,但假使莢膜太厚攣縮,就會使胸部變形。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_己、醫學美容及其他 Page 301-314.
 
 ## Clinical Caveats
 

@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (5) 處理:手術治療為主,藥水治療為輔。但緊急處理時可先給 acetazolamide(降 眼壓),或局部給 2%pilocarpine(縮瞳,使隅角張開)以及止痛和止吐劑,病人須仰躺一小時,若眼壓仍無降低可口服給予 glycerol 或 IV 20% mannitol(但 須小心病人有糖尿病),最後實施虹膜造孔術。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- ...obunolol carteolol | | | 用少。 | 導阻礙、心衰竭、低 | metipranolol | | | - 為第一線治療藥物。 | 血壓。 | - selective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手腳發麻、 | 口服:acetazolamide | | 制劑 carbonic | 減少全身副作用。 | 腎結石、血尿、低血 | (Diamox) \ Neptazane ; | | anhydrase | 一缺點為作用時間短,眼壓 | 鉀、腹瀉、藥物過敏、 | Topical: dorzolamide | | inhibitor | 下降效果不如 β-blockers。 | SJS 等。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- (5) 處理:手術治療為主,藥水治療為輔。但緊急處理時可先給 acetazolamide(降 眼壓),或局部給 2%pilocarpine(縮瞳,使隅角張開)以及止痛和止吐劑,病人須仰躺一小時,若眼壓仍無降低可口服給予 glycerol 或 IV 20% mannitol(但 須小心病人有糖尿病),最後實施虹膜造孔術。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- ...obunolol carteolol | | | 用少。 | 導阻礙、心衰竭、低 | metipranolol | | | - 為第一線治療藥物。 | 血壓。 | - selective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手腳發麻、 | 口服:acetazolamide | | 制劑 carbonic | 減少全身副作用。 | 腎結石、血尿、低血 | (Diamox) \ Neptazane ; | | anhydrase | 一缺點為作用時間短,眼壓 | 鉀、腹瀉、藥物過敏、 | Topical: dorzolamide | | inhibitor | 下降效果不如 β-blockers。 | SJS 等。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
 
 ## Clinical Caveats
 

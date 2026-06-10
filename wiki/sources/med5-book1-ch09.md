@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第一篇、外科概論_壬、內視鏡.md
+raw_source_title: "醫(五)第1冊外概腦外_第一篇、外科概論_壬、內視鏡"
+raw_source_file: "raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第一篇、外科概論_壬、內視鏡.md"
+page_start: 121
+page_end: 130
+canonical_citation: "醫(五)第1冊外概腦外_第一篇、外科概論_壬、內視鏡 Page 121-130"
 book: 醫(五)第1冊外概腦外
 chapter_order: 9
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第1冊外概腦外
 - Chapter file: `raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第一篇、外科概論_壬、內視鏡.md`
+- Pages covered: 121-130
+- Canonical citation: 醫(五)第1冊外概腦外_第一篇、外科概論_壬、內視鏡 Page 121-130
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

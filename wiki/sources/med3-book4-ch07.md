@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_庚、過敏疾病.md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_庚、過敏疾病"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_庚、過敏疾病.md"
+page_start: 103
+page_end: 110
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_庚、過敏疾病 Page 103-110"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 7
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_庚、過敏疾病.md`
+- Pages covered: 103-110
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_庚、過敏疾病 Page 103-110
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

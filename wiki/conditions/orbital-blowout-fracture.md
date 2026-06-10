@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 眼窩底骨折(orbital floor fracture):外傷性造成的眼窩底骨折,常造成下直肌、 下斜肌卡在骨折處,導致垂直方向的斜視或複視,眶下神經麻木、眼球周圍瘀血、眼球凹陷等。可用電腦斷層幫助診斷。 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
-- (1) 眼眶骨折: - a. 中顏面骨骨折 (midfacial fracture): - (a) Le Fort fracture 分為三級:Le Fort I不影響眼眶,Le Fort II影響到眼眶內側, Le Fort III 侵犯到雙側眼眶、鼻淚管、內眥韌帶。 - (b) 顴骨骨折(tripod fracture):外眼眶緣、下眼眶緣和顴骨弓三處骨折。 - b. 眼窩外破性骨折(blow-out fracture):由於外力撞擊使眼眶壓力急速 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- (2) 眼窩底骨折(orbital floor fracture):外傷性造成的眼窩底骨折,常造成下直肌、 下斜肌卡在骨折處,導致垂直方向的斜視或複視,眶下神經麻木、眼球周圍瘀血、眼球凹陷等。可用電腦斷層幫助診斷。 Source: 醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視 Page 167-184.
+- (1) 眼眶骨折: - a. 中顏面骨骨折 (midfacial fracture): - (a) Le Fort fracture 分為三級:Le Fort I不影響眼眶,Le Fort II影響到眼眶內側, Le Fort III 侵犯到雙側眼眶、鼻淚管、內眥韌帶。 - (b) 顴骨骨折(tripod fracture):外眼眶緣、下眼眶緣和顴骨弓三處骨折。 - b. 眼窩外破性骨折(blow-out fracture):由於外力撞擊使眼眶壓力急速 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
 
 ## Clinical Caveats
 

@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- ...可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時無效果,應安排乳房超音波,檢查是否有 | | | | breast abscess | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- 2. 乳房膿瘍 (Breast abscess): - (1) 25% 的 lactational mastitis 會演變成乳房膿瘍。 - (2) 治療:停止哺乳,並且安排外科引流術(surgical drainage)。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
+- ...可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時無效果,應安排乳房超音波,檢查是否有 | | | | breast abscess | | Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- 2. 乳房膿瘍 (Breast abscess): - (1) 25% 的 lactational mastitis 會演變成乳房膿瘍。 - (2) 治療:停止哺乳,並且安排外科引流術(surgical drainage)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
 
 ## Clinical Caveats
 

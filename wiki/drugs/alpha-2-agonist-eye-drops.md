@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- ...近視。 | 芸果香) | | agents | -縮瞳作用對隅角閉鎖性青光眼的緩解 | | | | | 有其價值。 | | | | $\alpha_2$ agonist | - 可抑制房水產生,並促進房水排出。 | 副作用:低血壓、眼 | Brimonidine | | | 其中 apraclonidine 可作為雷射治療後, | 睛刺激感、口乾、疲 | Apraclonidine | | | 預防術後眼壓突升,具神經保護效果。 | 倦、頭痛。 | | | | -第一線用藥。 | | | | Prostaglandin | -促進房水由上脈絡膜腔 (suprachoroidal | 副作用:眼部副作用: | Latanoprost | | analog | space) 排出,效果強,只需每日 Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- ...近視。 | 芸果香) | | agents | -縮瞳作用對隅角閉鎖性青光眼的緩解 | | | | | 有其價值。 | | | | $\alpha_2$ agonist | - 可抑制房水產生,並促進房水排出。 | 副作用:低血壓、眼 | Brimonidine | | | 其中 apraclonidine 可作為雷射治療後, | 睛刺激感、口乾、疲 | Apraclonidine | | | 預防術後眼壓突升,具神經保護效果。 | 倦、頭痛。 | | | | -第一線用藥。 | | | | Prostaglandin | -促進房水由上脈絡膜腔 (suprachoroidal | 副作用:眼部副作用: | Latanoprost | | analog | space) 排出,效果強,只需每日 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
 
 ## Clinical Caveats
 

@@ -31,15 +31,15 @@ tags:
 
 ## Key Details From Sources
 
-- G. 白色糠疹 (Pityriasis alba) 92 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (3) 這些孩童也常同時有皮膚乾燥、黑眼圈(periorbital pigmentation)、眼眶下摺紋(Dennie-Morgan)、耳朵下方龜裂、掌紋增加、毛囊角化(keratosis pilaris)、色素沉著、魚鱗癬(Ichthyosis)、白色糠疹等情形。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- # G. 白色糠疹 (Pityriasis alba) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (B) 白色糠疹 (pityriasis alba) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (C) 白色糠疹 (pityriasis alba) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (B) 白糠疹 (pityriasis alba) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 5. 臨床上常搞混之白斑、白色糠疹(Pityriasis alba)和汗斑(Pityriasis versicolor)其 鑑別診斷如下: - (1) 白斑為界線分明、不脫屑之白色斑塊。 - (2) 白色糠疹為界線不明、會脫屑之白色斑塊。 - (3) 汗斑可藉由 KOH 顯微鏡檢找到黴菌或用伍氏燈可見淡黃色(或 yellow-orange) 螢光去判別。 - (4) 用伍氏燈去照白斑處,其白色和周遭正常膚色的對比會變得更明顯,更白亮。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- (B) 白色糠疹 (pityriasis alba) Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- (B) 白糠疹 (pityriasis alba) Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- G. 白色糠疹 (Pityriasis alba) 92 Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- (3) 這些孩童也常同時有皮膚乾燥、黑眼圈(periorbital pigmentation)、眼眶下摺紋(Dennie-Morgan)、耳朵下方龜裂、掌紋增加、毛囊角化(keratosis pilaris)、色素沉著、魚鱗癬(Ichthyosis)、白色糠疹等情形。 Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- # G. 白色糠疹 (Pityriasis alba) Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- (B) 白色糠疹 (pityriasis alba) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (C) 白色糠疹 (pityriasis alba) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (B) 白糠疹 (pityriasis alba) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- 5. 臨床上常搞混之白斑、白色糠疹(Pityriasis alba)和汗斑(Pityriasis versicolor)其 鑑別診斷如下: - (1) 白斑為界線分明、不脫屑之白色斑塊。 - (2) 白色糠疹為界線不明、會脫屑之白色斑塊。 - (3) 汗斑可藉由 KOH 顯微鏡檢找到黴菌或用伍氏燈可見淡黃色(或 yellow-orange) 螢光去判別。 - (4) 用伍氏燈去照白斑處,其白色和周遭正常膚色的對比會變得更明顯,更白亮。 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- (B) 白色糠疹 (pityriasis alba) Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- (B) 白糠疹 (pityriasis alba) Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
 
 ## Clinical Caveats
 

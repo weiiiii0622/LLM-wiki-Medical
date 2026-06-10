@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 咽食道憩室、贊克氏憩室 (Pharyngoesophageal diverticulum、Zenker diverticulum) 82 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- # B. 咽食道憩室、贊克氏憩室 (Pharyngoesophageal diverticulum、Zenker diverticulum) Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (C) 2. Zenker diverticulum of esophagus 常發生於: Source: [[sources/med5-book4-ch05|戊、食 道]].
+- B. 咽食道憩室、贊克氏憩室 (Pharyngoesophageal diverticulum、Zenker diverticulum) 82 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- # B. 咽食道憩室、贊克氏憩室 (Pharyngoesophageal diverticulum、Zenker diverticulum) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- (C) 2. Zenker diverticulum of esophagus 常發生於: Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
 
 ## Clinical Caveats
 

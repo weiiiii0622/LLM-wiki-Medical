@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常.md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常.md"
+page_start: 143
+page_end: 155
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常 Page 143-155"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 11
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常.md`
+- Pages covered: 143-155
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常 Page 143-155
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

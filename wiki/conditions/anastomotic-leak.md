@@ -33,10 +33,10 @@ tags:
 
 ## Key Details From Sources
 
-- 8. 術後併發症:食道運動疾患(esophageal motility disorders)、胃食道逆流(gastroesophageal reflux)約 25~50%、吻合處狹窄(anastomotic stricture)約 15~30%、吻合處滲漏(anastomotic leak)約 10~20%、和氣管軟化(tracheomalacia)約 8~15%。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 8. 術後併發症:食道運動疾患(esophageal motility disorders)、胃食道逆流(gastroesophageal reflux)約 25~50%、吻合處狹窄(anastomotic stricture)約 15~30%、吻合處滲漏(anastomotic leak)約 10~20%、和氣管軟化(tracheomalacia)約 8~15%。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- (A) gastric cancer recurrence (B) anastomotic leakage Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- ...C) 胰液滲漏 | | | | | (D) 傷口感染 | | | | | 【詳解】Whipple procedure 名 | 後的 complication rate 約為 25%,最 | | | | 常見併發症是吻合端的胰液液 | 寥液(anastomotic leak)以及胰臟膽 | | | | 道管 (pancreatic-biliary fistula | a) ° | | | (C) 19 | . 依據 The American Joint Com | mittee on Cancer(AJCC)第六版的 | 99(二)專 | | | 分類,胰臟惡性腫瘤若達 T4 | (已侵犯胰臟附近的動脈),anyN | 醫五-48 | | | 及 M0,則其 stage 應為: | | | | | (A) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- 8. 術後併發症:食道運動疾患(esophageal motility disorders)、胃食道逆流(gastroesophageal reflux)約 25~50%、吻合處狹窄(anastomotic stricture)約 15~30%、吻合處滲漏(anastomotic leak)約 10~20%、和氣管軟化(tracheomalacia)約 8~15%。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- 8. 術後併發症:食道運動疾患(esophageal motility disorders)、胃食道逆流(gastroesophageal reflux)約 25~50%、吻合處狹窄(anastomotic stricture)約 15~30%、吻合處滲漏(anastomotic leak)約 10~20%、和氣管軟化(tracheomalacia)約 8~15%。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丙、胸腔及縱隔腔 Page 149-156.
+- (A) gastric cancer recurrence (B) anastomotic leakage Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- ...C) 胰液滲漏 | | | | | (D) 傷口感染 | | | | | 【詳解】Whipple procedure 名 | 後的 complication rate 約為 25%,最 | | | | 常見併發症是吻合端的胰液液 | 寥液(anastomotic leak)以及胰臟膽 | | | | 道管 (pancreatic-biliary fistula | a) ° | | | (C) 19 | . 依據 The American Joint Com | mittee on Cancer(AJCC)第六版的 | 99(二)專 | | | 分類,胰臟惡性腫瘤若達 T4 | (已侵犯胰臟附近的動脈),anyN | 醫五-48 | | | 及 M0,則其 stage 應為: | | | | | (A) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
 
 ## Clinical Caveats
 

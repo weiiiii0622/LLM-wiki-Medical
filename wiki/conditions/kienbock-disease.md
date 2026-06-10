@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- C. 半月狀骨缺血性壞死(Lunate bone AVN; Kienböck disease) *101* Source: [[sources/med5-book6-ch06|己、手部]].
-- #### C. 半月狀骨缺血性壞死 (Lunate bone AVN; Kienböck's disease) Source: [[sources/med5-book6-ch06|己、手部]].
-- (C) 1. 一位 32 歲果園工作婦女來門診主訴右腕疼痛已有近半年,理學 99(二)專檢查發現右腕背屈活動有明顯拘限,X光檢查如圖所示,最可能 醫五-40 - 的診斷是: - (A) 正中腕隧症候群(carpal tunnel syndrome) - (B) 舟狀骨骨折不癒合 (scaphoid fracture non-union) - (C) 半月狀骨缺血性壞死 (Kienböck disease) - (D) de Quervain's tenosynovitis Source: [[sources/med5-book6-ch06|己、手部]].
+- C. 半月狀骨缺血性壞死(Lunate bone AVN; Kienböck disease) *101* Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
+- #### C. 半月狀骨缺血性壞死 (Lunate bone AVN; Kienböck's disease) Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
+- (C) 1. 一位 32 歲果園工作婦女來門診主訴右腕疼痛已有近半年,理學 99(二)專檢查發現右腕背屈活動有明顯拘限,X光檢查如圖所示,最可能 醫五-40 - 的診斷是: - (A) 正中腕隧症候群(carpal tunnel syndrome) - (B) 舟狀骨骨折不癒合 (scaphoid fracture non-union) - (C) 半月狀骨缺血性壞死 (Kienböck disease) - (D) de Quervain's tenosynovitis Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
 
 ## Clinical Caveats
 

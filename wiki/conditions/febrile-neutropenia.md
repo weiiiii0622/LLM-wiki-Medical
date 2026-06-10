@@ -33,10 +33,10 @@ tags:
 
 ## Key Details From Sources
 
-- 9. 顆粒球缺乏症候群(agranulocytosis): 定義為 ANC(absolute neutrophil count) (dopamine 2 receptor antagonist) | 血清素多巴胺拮抗劑 (serotonin-dopamine antagonist) | | 錐體外症狀(extrapyramidal symptoms, EPS) | 常見 | 少見 | | 抗精神病藥物惡性症候群(neuroleptic malignant syndrome) | 常見 | 少見 | | 遲發性肌張力不全(tardive dyskinesia) | 常見 | 少見 | | 體重增加 | 不常見 | Clozapine、Olanzapine 常見 | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- (c) 血球細胞減少(通常影響2種以上): - i. ANC (Absolute neutrophil count) $ 265 mg/dL )。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 1. 定義: 造血幹細胞受傷或損失導致下列至少兩項: - (1) ANC : $ and thrombocytopenia (platelet count - b. A raised lactate dehydrogenase (LDH) and/or direct bilirubin level Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 9. 顆粒球缺乏症候群(agranulocytosis): 定義為 ANC(absolute neutrophil count) (dopamine 2 receptor antagonist) | 血清素多巴胺拮抗劑 (serotonin-dopamine antagonist) | | 錐體外症狀(extrapyramidal symptoms, EPS) | 常見 | 少見 | | 抗精神病藥物惡性症候群(neuroleptic malignant syndrome) | 常見 | 少見 | | 遲發性肌張力不全(tardive dyskinesia) | 常見 | 少見 | | 體重增加 | 不常見 | Clozapine、Olanzapine 常見 | Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
+- (c) 血球細胞減少(通常影響2種以上): - i. ANC (Absolute neutrophil count) $ 265 mg/dL )。 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- 【詳解】Cyclophosphamide 常見的副作用如下: Alopecia (reversible)、Amenorrhea、Azoospermia、Gonadal suppression、Oligospermia、Anorexia、Diarrhea、Mucositis、Hemorrhagic cystitis (出血性膀胱炎)、Myelosuppression、Neutropenic fever。 Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
+- 1. 定義: 造血幹細胞受傷或損失導致下列至少兩項: - (1) ANC : $ and thrombocytopenia (platelet count - b. A raised lactate dehydrogenase (LDH) and/or direct bilirubin level Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
 
 ## Clinical Caveats
 

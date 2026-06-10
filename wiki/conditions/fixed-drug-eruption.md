@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- A. 固定性藥物疹 (Fixed drug eruption) 112 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- # A. 固定性藥物疹 (Fixed drug eruption) Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- 1. 患在每次服用相同藥物後,都會在相同部位出現藥物疹的現象,因此稱為固定性藥物疹,是一種過敏引起的皮膚血管炎反應。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
+- A. 固定性藥物疹 (Fixed drug eruption) 112 Source: 醫(四)第2冊皮膚_己、藥物疹 Page 123-129.
+- # A. 固定性藥物疹 (Fixed drug eruption) Source: 醫(四)第2冊皮膚_己、藥物疹 Page 123-129.
+- 1. 患在每次服用相同藥物後,都會在相同部位出現藥物疹的現象,因此稱為固定性藥物疹,是一種過敏引起的皮膚血管炎反應。 Source: 醫(四)第2冊皮膚_己、藥物疹 Page 123-129.
 
 ## Clinical Caveats
 

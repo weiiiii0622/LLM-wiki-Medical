@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_己、小兒復健.md
+raw_source_title: "醫(六)第3冊復健_己、小兒復健"
+raw_source_file: "raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_己、小兒復健.md"
+page_start: 155
+page_end: 178
+canonical_citation: "醫(六)第3冊復健_己、小兒復健 Page 155-178"
 book: 醫(六)第3冊復健
 chapter_order: 6
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第3冊復健
 - Chapter file: `raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_己、小兒復健.md`
+- Pages covered: 155-178
+- Canonical citation: 醫(六)第3冊復健_己、小兒復健 Page 155-178
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

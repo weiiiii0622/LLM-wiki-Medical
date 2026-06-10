@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- H. 脊椎與脊髓腫瘤 (Spine and spinal cord tumor) 188 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ## H. 脊椎與脊髓腫瘤 (Spine and spinal cord tumor) Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- 1. 硬膜外腫瘤 (extradural spinal cord tumor):55% - (1) 轉移癌 (metastasis): - a. 佔硬膜外腫瘤最大宗,多為蝕骨性(osteolytic)。 - b. 原發位置:乳房、肺、前列腺或腎臟。 - c. 轉移位置: 最常轉移至胸椎,但病灶往往不只侷限於一部位。 - d. 臨床表現: - (a) 疼痛:骨頭痛及觸痛,為最常見症狀。 - (b) 運動或自主神經功能異常:第二常見,會有 urinary urgency 和 retention。 - (c) 感覺異 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- H. 脊椎與脊髓腫瘤 (Spine and spinal cord tumor) 188 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- ## H. 脊椎與脊髓腫瘤 (Spine and spinal cord tumor) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- 1. 硬膜外腫瘤 (extradural spinal cord tumor):55% - (1) 轉移癌 (metastasis): - a. 佔硬膜外腫瘤最大宗,多為蝕骨性(osteolytic)。 - b. 原發位置:乳房、肺、前列腺或腎臟。 - c. 轉移位置: 最常轉移至胸椎,但病灶往往不只侷限於一部位。 - d. 臨床表現: - (a) 疼痛:骨頭痛及觸痛,為最常見症狀。 - (b) 運動或自主神經功能異常:第二常見,會有 urinary urgency 和 retention。 - (c) 感覺異 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
 
 ## Clinical Caveats
 

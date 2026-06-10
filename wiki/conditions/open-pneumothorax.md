@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- D. 開放性氣胸 (Open pneumothorax, sucking chest wound) 116 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- (C) 11. 胸部創傷為外傷病人常見的傷害,在初步評估(primary survey) 101(二)專時,要注意有無立即生命危險的胸部創傷(immediately lifethreatening chest injuries),下列何種不是有立即生命危險的胸部傷害? - (A) 張力性氣胸 - (B) 開放性氣胸 - (C) 橫隔破裂 - (D) 大量血胸(1,500 mL以上) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- D. 開放性氣胸 (Open pneumothorax, sucking chest wound) 116 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- 5. 初步評估:依照 ATLS 從 ABC 開始評估處理。先維持氣道,接著胸部理學檢查排除張力性氣胸(tension pneumothorax)、大量血胸(massive hemothorax)、開放性氣胸(open pneumothorax)、連枷胸(flail chest)和心包膜填塞(cardiac tamponade),儘快照胸部 X 光,可進一步評估氣胸、血胸、肋骨骨折、縱隔變寬、氣縱隔、鎖骨及肩胛骨骨折。後續可進一步安排超音波、胸部 CT、食道攝影(esophagography)、食道鏡、支氣管鏡和血管攝影。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- (C) 11. 胸部創傷為外傷病人常見的傷害,在初步評估(primary survey) 101(二)專時,要注意有無立即生命危險的胸部創傷(immediately lifethreatening chest injuries),下列何種不是有立即生命危險的胸部傷害? - (A) 張力性氣胸 - (B) 開放性氣胸 - (C) 橫隔破裂 - (D) 大量血胸(1,500 mL以上) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
 
 ## Clinical Caveats
 

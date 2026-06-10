@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- D. 寡樹突神經膠瘤 (Oligodendroglioma) 208 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 1. 神經表皮細胞腫瘤(tumor of neuroepithelial tissue): - (1) 星狀細胞瘤 (astrocytoma):星狀細胞 (astrocyte)。 - (2) 寡樹突神經膠瘤(oligodendroglioma):寡樹突細胞(oligodendrocyte)。 - (3) 室管細胞瘤 (ependymoma):室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor)。 - (5) 神經節神經膠瘤 (ganglioglioma)/神經節細胞瘤 (gangliocytoma)/神經胚母細胞瘤 (neuroblastoma):神經元。 - (6) 松果體細胞瘤 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- \* 之前各種神經膠細胞來源的腫瘤皆統稱為神經膠質瘤 (glioma),其中包含了 astrocytoma、oligodendroglioma、ependymoma 和 glioblastoma multiforme (GBM)。 但在後來的 WHO 分類系統中則不再使用 glioma 一詞,而個別分類上述腫瘤。此外,也因確定了 GBM 之來源細胞,故 GBM 歸入於 astrocytoma 的 grade IV。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- D. 寡樹突神經膠瘤 (Oligodendroglioma) 208 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- 1. 神經表皮細胞腫瘤(tumor of neuroepithelial tissue): - (1) 星狀細胞瘤 (astrocytoma):星狀細胞 (astrocyte)。 - (2) 寡樹突神經膠瘤(oligodendroglioma):寡樹突細胞(oligodendrocyte)。 - (3) 室管細胞瘤 (ependymoma):室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor)。 - (5) 神經節神經膠瘤 (ganglioglioma)/神經節細胞瘤 (gangliocytoma)/神經胚母細胞瘤 (neuroblastoma):神經元。 - (6) 松果體細胞瘤 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- \* 之前各種神經膠細胞來源的腫瘤皆統稱為神經膠質瘤 (glioma),其中包含了 astrocytoma、oligodendroglioma、ependymoma 和 glioblastoma multiforme (GBM)。 但在後來的 WHO 分類系統中則不再使用 glioma 一詞,而個別分類上述腫瘤。此外,也因確定了 GBM 之來源細胞,故 GBM 歸入於 astrocytoma 的 grade IV。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
 
 ## Clinical Caveats
 

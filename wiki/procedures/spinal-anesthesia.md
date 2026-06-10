@@ -27,7 +27,7 @@ Spinal anesthesia 將局麻藥注入 subarachnoid space，起效快且 blockade 
 
 ## Key Details From Sources
 
-- 3. 脊髓麻醉 (spinal anesthesia): - (1) 蜘蛛膜下腔麻醉:直接注射入蜘蛛膜下腔,效果迅速目副作用較少。 - (2) 阻斷注射部位只要不高於第四胸椎,即不易造成呼吸抑制作用。 - (3) 麻醉的 level:依據手術種類而決定要麻醉的 level 為何。 - a. S2-S5: 痔瘡手術。 - b. L2-L3: foot • - c. L1-L3:下肢。 - d. T10 (umbilicus): 髖關節 (Hip)、TU Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
+- 3. 脊髓麻醉 (spinal anesthesia): - (1) 蜘蛛膜下腔麻醉:直接注射入蜘蛛膜下腔,效果迅速目副作用較少。 - (2) 阻斷注射部位只要不高於第四胸椎,即不易造成呼吸抑制作用。 - (3) 麻醉的 level:依據手術種類而決定要麻醉的 level 為何。 - a. S2-S5: 痔瘡手術。 - b. L2-L3: foot • - c. L1-L3:下肢。 - d. T10 (umbilicus): 髖關節 (Hip)、TU Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物 Page 93-100.
 
 ## Clinical Caveats
 

@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- ...f the state of t | | D.D. | 生長痛 Brodie's abscess | Osteosarcoma, Brodie's abscess, giant cell tumor, | | | stress Fr. | aneurysmal bone cyst | | 影像 | Nidus 外有 halo, 骨質增生 | 大片模糊濃淡不均的 lesion | | | 7 (4 (4 (4 (4 (4 (4 (4 (4 (4 (4 (4 (4 (4 | NOT INTERIOR IN THE TENTON | | 影像 | | | | | edema | | | | | | | | | | | | | | | | | | Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- ...le | | | Eccentric/lytic lesion with bone septa (泡泡狀), | 一個大的空洞,其中全部是黏液,在 sacrum 可以 | | cord compression, CT 有 multiple fluid-fluid level | 看到一個很大的 mass | | | | Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- ...hondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dysplasia, Aneurysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- 3. 動脈瘤性骨囊腫(Aneurysmal Bone cyst)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (3) 影像:X-ray:lytic lesion,可能會有 bubble appearance,periosteum 變薄且可能有新生的 cortex 包圍。可以看到 multiple **fluid-fluid level**(含血的液體面)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- ...f the state of t | | D.D. | 生長痛 Brodie's abscess | Osteosarcoma, Brodie's abscess, giant cell tumor, | | | stress Fr. | aneurysmal bone cyst | | 影像 | Nidus 外有 halo, 骨質增生 | 大片模糊濃淡不均的 lesion | | | 7 (4 (4 (4 (4 (4 (4 (4 (4 (4 (4 (4 (4 (4 | NOT INTERIOR IN THE TENTON | | 影像 | | | | | edema | | | | | | | | | | | | | | | | | | Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
+- ...le | | | Eccentric/lytic lesion with bone septa (泡泡狀), | 一個大的空洞,其中全部是黏液,在 sacrum 可以 | | cord compression, CT 有 multiple fluid-fluid level | 看到一個很大的 mass | | | | Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
+- ...hondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dysplasia, Aneurysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Admantinoma, Lymphoma, Osteomyelitis, Metastasis, Multiple myeloma, Ewings sarcoma, Eosinophilic granuloma。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- 3. 動脈瘤性骨囊腫(Aneurysmal Bone cyst)。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- (3) 影像:X-ray:lytic lesion,可能會有 bubble appearance,periosteum 變薄且可能有新生的 cortex 包圍。可以看到 multiple **fluid-fluid level**(含血的液體面)。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
 
 ## Clinical Caveats
 

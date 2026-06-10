@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- H. 胃出口阻塞 (Gastric outlet obstruction) 15 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- 2. 外科介入的時機通常在於處理少許頑固的案例以及反覆性潰瘍導致的併發症,如: 急性出血(acute hemorrhage)、胃穿孔(perforation)、胃出口阻塞(Gastric outlet obstruction, GOO)、難以治療之潰瘍(intractability,定義為8週到12週的藥物治療後失敗,或完治後仍復發)。以下分別介紹併發症。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- #### H. 胃出口阻塞 (Gastric outlet obstruction) Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- 8. 胃阻塞 (gastric outlet obstruction) 與遠端胃癌較相關。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- H. 胃出口阻塞 (Gastric outlet obstruction) 15 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
+- 2. 外科介入的時機通常在於處理少許頑固的案例以及反覆性潰瘍導致的併發症,如: 急性出血(acute hemorrhage)、胃穿孔(perforation)、胃出口阻塞(Gastric outlet obstruction, GOO)、難以治療之潰瘍(intractability,定義為8週到12週的藥物治療後失敗,或完治後仍復發)。以下分別介紹併發症。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
+- #### H. 胃出口阻塞 (Gastric outlet obstruction) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
+- 8. 胃阻塞 (gastric outlet obstruction) 與遠端胃癌較相關。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
 
 ## Clinical Caveats
 

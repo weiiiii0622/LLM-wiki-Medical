@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- A. 肩關節脱位 (Shoulder dislocation) 64 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- #### A. 肩關節脱位 (Shoulder dislocation) Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- (1) AP view(Light bulb sign):由於肩關節脫位會合併旋轉,故大小轉子在 AP view 上會變得不明顯,整根肱骨就會像燈泡一般,發生於向後脫位,稱為 light bulb sign。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- A. 肩關節脱位 (Shoulder dislocation) 64 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- #### A. 肩關節脱位 (Shoulder dislocation) Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- (1) AP view(Light bulb sign):由於肩關節脫位會合併旋轉,故大小轉子在 AP view 上會變得不明顯,整根肱骨就會像燈泡一般,發生於向後脫位,稱為 light bulb sign。 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
 
 ## Clinical Caveats
 

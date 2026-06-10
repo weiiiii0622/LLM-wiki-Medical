@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_乙、皮膚移植手術.md
+raw_source_title: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_乙、皮膚移植手術"
+raw_source_file: "raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_乙、皮膚移植手術.md"
+page_start: 269
+page_end: 274
+canonical_citation: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_乙、皮膚移植手術 Page 269-274"
 book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 chapter_order: 26
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 - Chapter file: `raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_乙、皮膚移植手術.md`
+- Pages covered: 269-274
+- Canonical citation: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_乙、皮膚移植手術 Page 269-274
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

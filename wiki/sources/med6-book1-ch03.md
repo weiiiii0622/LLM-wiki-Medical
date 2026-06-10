@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period).md
+raw_source_title: "醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period).md"
+page_start: 125
+page_end: 138
+canonical_citation: "醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138"
 book: 醫(六)第1冊婦產
 chapter_order: 3
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period).md`
+- Pages covered: 125-138
+- Canonical citation: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

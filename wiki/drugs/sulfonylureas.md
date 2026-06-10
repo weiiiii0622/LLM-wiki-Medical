@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- (C) sulfonylurea receptor 的基因突變會造成此病 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...$\beta$ cell 與胰島素分泌有關的鉀離子通道〔the ATP-sensitive potassium channel,此鉀離子通道由兩個次單位蛋白構成,其中一個就是 $K_{IR}$ 6.2 channel,另一個就是 the sulfonylurea receptor(SUR1)〕發生異常。遺傳性的 PPHI 為 $SUR1/K_{IR}$ 6.2 基因突變造成。病人出生後會因低血糖而發生癲癇發作、智力受損,因此積極維持血糖為首要處理方式。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (B) 22. 一位糖尿病病患,曾因鬱血性心臟病接受心臟移植手術,之後一直在門診追蹤,並規則服用糖尿病藥物 glibenclamide、metformin 及抗排斥藥 tacrolimus,情況良好。三週前因為腹瀉,疑是 tacrolimus 的副作用,因此改用 azathioprine。這兩天病人出現發燒、畏寒症狀被送到急診處。身體檢查,除發燒、輕度貧血外,無其他異常。血液相顯示血紅素 11.1 g/dL,白血球 760/μL,其中 neutrophil 5%,lymphocyte 80%,monocyte 14%,eosinophil 1%,血 小板 62,000 Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- TG Glibenclamide (Diabitin®) | 降血糖效果好、便宜 | 低血糖與增重 | 肝腎 | | 抑制鉀離子通道 | Glinide 類 | 0.5~1.5% | Repaglinide (Novonorm®)Nateglinide (Starlix®) | 降低飯後血糖 | 低血糖與增重 | | | 促進分泌 (胰臟)/減少 Incretin 分解 | DPP-4 inhibitor | 0.5~1.0% | Sitagliptin (Januv Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 【詳解】丙胜(c-peptide)為最佳之胰島素分泌功能指標,其為人 體製造出insulin時的副產物。所以低血糖時,測c-peptide若是增加, 則懷疑是有 insulinoma 或服用增加胰島素分泌的 sulfonylureas ; 若 c-peptide 減少,則懷疑有施打外來的 insulin。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- ...---------|-------------------| | (B) | 3. 下列關於第二型糖尿病治療之敘述,何者錯誤? (A) 一般以糖化血紅素(hemoglobin A1c)小於 7% 為目標 (B) 口服降血糖藥物以磺氨尿素類(sulfonylurea)製劑為第一線用藥 (C) DPP-4 抑制劑之功能是提高餐後血中 GLP-1 之濃度 (D) α-glucosidase 抑制劑主要用於降低餐後血糖 | 106(二)專醫三-57 | | (A) | 4. 下列那一種口服降血糖藥可能引起乳酸血症? (A) metformin (B) sitagliptin (C) pioglitazone (D) acarbose | 105(二)專醫三-59 | | (B) | 5. 下列口服降血糖 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
+- (C) sulfonylurea receptor 的基因突變會造成此病 Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- ...$\beta$ cell 與胰島素分泌有關的鉀離子通道〔the ATP-sensitive potassium channel,此鉀離子通道由兩個次單位蛋白構成,其中一個就是 $K_{IR}$ 6.2 channel,另一個就是 the sulfonylurea receptor(SUR1)〕發生異常。遺傳性的 PPHI 為 $SUR1/K_{IR}$ 6.2 基因突變造成。病人出生後會因低血糖而發生癲癇發作、智力受損,因此積極維持血糖為首要處理方式。 Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- (B) 22. 一位糖尿病病患,曾因鬱血性心臟病接受心臟移植手術,之後一直在門診追蹤,並規則服用糖尿病藥物 glibenclamide、metformin 及抗排斥藥 tacrolimus,情況良好。三週前因為腹瀉,疑是 tacrolimus 的副作用,因此改用 azathioprine。這兩天病人出現發燒、畏寒症狀被送到急診處。身體檢查,除發燒、輕度貧血外,無其他異常。血液相顯示血紅素 11.1 g/dL,白血球 760/μL,其中 neutrophil 5%,lymphocyte 80%,monocyte 14%,eosinophil 1%,血 小板 62,000 Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_甲、紅斑性狼瘡 Page 19-32.
+- TG Glibenclamide (Diabitin®) | 降血糖效果好、便宜 | 低血糖與增重 | 肝腎 | | 抑制鉀離子通道 | Glinide 類 | 0.5~1.5% | Repaglinide (Novonorm®)Nateglinide (Starlix®) | 降低飯後血糖 | 低血糖與增重 | | | 促進分泌 (胰臟)/減少 Incretin 分解 | DPP-4 inhibitor | 0.5~1.0% | Sitagliptin (Januv Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- 【詳解】丙胜(c-peptide)為最佳之胰島素分泌功能指標,其為人 體製造出insulin時的副產物。所以低血糖時,測c-peptide若是增加, 則懷疑是有 insulinoma 或服用增加胰島素分泌的 sulfonylureas ; 若 c-peptide 減少,則懷疑有施打外來的 insulin。 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- ...---------|-------------------| | (B) | 3. 下列關於第二型糖尿病治療之敘述,何者錯誤? (A) 一般以糖化血紅素(hemoglobin A1c)小於 7% 為目標 (B) 口服降血糖藥物以磺氨尿素類(sulfonylurea)製劑為第一線用藥 (C) DPP-4 抑制劑之功能是提高餐後血中 GLP-1 之濃度 (D) α-glucosidase 抑制劑主要用於降低餐後血糖 | 106(二)專醫三-57 | | (A) | 4. 下列那一種口服降血糖藥可能引起乳酸血症? (A) metformin (B) sitagliptin (C) pioglitazone (D) acarbose | 105(二)專醫三-59 | | (B) | 5. 下列口服降血糖 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
 
 ## Clinical Caveats
 

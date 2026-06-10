@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_丙、其他結締組織病.md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_丙、其他結締組織病"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_丙、其他結締組織病.md"
+page_start: 45
+page_end: 62
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_丙、其他結締組織病 Page 45-62"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 3
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_丙、其他結締組織病.md`
+- Pages covered: 45-62
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_丙、其他結締組織病 Page 45-62
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

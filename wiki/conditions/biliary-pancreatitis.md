@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- 前言:原本只是造成腹部疼痛的膽結石,若沒有治療,持續刺激之下將會導致急性 發炎等併發症如下: - (1) 急性膽囊炎 (acute calculous cholecystitis)。 - (2) 總膽管結石 (choledocholithiasis)。 - (3) 膽囊性胰臟炎 (biliary pancreatitis)。 - (4) 膽石性腸阻塞 (gallstone ileus)。 - (5) 膽管炎 (cholangitis)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- #### 4. 膽源性胰臟炎 (Biliary pancreatitis): Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (B) 膽源性胰臟炎 (biliary pancreatitis ) Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- ...--------------------------------------------------------------------------|--------------------| | (B) 14. 一般而言,對於 mild gallstone pancreatitis 患者的治療,下列說述何者錯誤? (A) fluid and electrolyte repletion 非常重要 (B) antibiotics 是絕對必要 (C) biliary tract 之 definitive treatment 儘可能同一次住院中施行(D) nutritional support 是必要的 | 醫五 -26 | | (D) 15. 對於慢性胰臟炎導致的吸收不良及腹瀉之治療方法,下列何乎不妥? (A) Aci Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- (D) 17. 下列那一項不是評估非膽石性急性胰臟炎 (non-gallstone pancreatitis ) 預後的 Ranson's criteria ? Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- 前言:原本只是造成腹部疼痛的膽結石,若沒有治療,持續刺激之下將會導致急性 發炎等併發症如下: - (1) 急性膽囊炎 (acute calculous cholecystitis)。 - (2) 總膽管結石 (choledocholithiasis)。 - (3) 膽囊性胰臟炎 (biliary pancreatitis)。 - (4) 膽石性腸阻塞 (gallstone ileus)。 - (5) 膽管炎 (cholangitis)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- #### 4. 膽源性胰臟炎 (Biliary pancreatitis): Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- (B) 膽源性胰臟炎 (biliary pancreatitis ) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- ...--------------------------------------------------------------------------|--------------------| | (B) 14. 一般而言,對於 mild gallstone pancreatitis 患者的治療,下列說述何者錯誤? (A) fluid and electrolyte repletion 非常重要 (B) antibiotics 是絕對必要 (C) biliary tract 之 definitive treatment 儘可能同一次住院中施行(D) nutritional support 是必要的 | 醫五 -26 | | (D) 15. 對於慢性胰臟炎導致的吸收不良及腹瀉之治療方法,下列何乎不妥? (A) Aci Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_乙、慢性胰臟炎 Page 183-194.
+- (D) 17. 下列那一項不是評估非膽石性急性胰臟炎 (non-gallstone pancreatitis ) 預後的 Ranson's criteria ? Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_乙、慢性胰臟炎 Page 183-194.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 慢性疼痛(Chronic pain):慢性疼痛的定義是持續性大於三個月的疼痛。常見的慢性疼痛包括下背痛(low back pain),中樞或周邊神經系統的疼痛(neuropathic pain),帶狀皰疹後疼痛(postherpetic neuralgia)、癌症疼痛(cancer pain),以及筋肌膜炎疼痛(myofascial pain)。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
-- #### 4. 癌症疼痛 (Cancer pain): Source: [[sources/med6-book4-ch09|壬、疼 痛]].
-- a. 癌症疼痛包含 somatic pain、neuropathic pain 以及 visceral pain。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
+- 1. 慢性疼痛(Chronic pain):慢性疼痛的定義是持續性大於三個月的疼痛。常見的慢性疼痛包括下背痛(low back pain),中樞或周邊神經系統的疼痛(neuropathic pain),帶狀皰疹後疼痛(postherpetic neuralgia)、癌症疼痛(cancer pain),以及筋肌膜炎疼痛(myofascial pain)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛 Page 101-110.
+- #### 4. 癌症疼痛 (Cancer pain): Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛 Page 101-110.
+- a. 癌症疼痛包含 somatic pain、neuropathic pain 以及 visceral pain。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛 Page 101-110.
 
 ## Clinical Caveats
 

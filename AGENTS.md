@@ -102,21 +102,29 @@ Allowed `status` values:
 
 ## Citation Style
 
-Use source-page links rather than raw bibliographic sprawl inside topic pages.
+Use raw-source citations in claim text and final answers. Topic pages are retrieval/synthesis nodes, not primary sources.
+
+Each `wiki/sources/*.md` page should carry canonical raw provenance fields:
+
+```yaml
+raw_source_title: "醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病"
+raw_source_file: "raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病.md"
+page_start: 133
+page_end: 138
+canonical_citation: "醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病 Page 133-138"
+```
+
+Topic-page frontmatter and `Source Coverage` may keep `[[sources/...]]` links for graph and audit purposes, but these are internal anchors only. Do not present `[[conditions/...]]`, `[[anatomy/...]]`, `[[concepts/...]]`, or other LLM-generated topic pages as sources in final answers.
 
 Example:
 
 ```markdown
-Loop diuretics reduce congestion in symptomatic heart failure, but do not provide the same mortality benefit as core disease-modifying therapy. Source: [[example-heart-failure-chapter]].
+ADPKD 多為 autosomal dominant，並可合併高血壓、肝囊腫與腎功能下降。 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病 Page 133-134.
 ```
 
-When exact page numbers or section labels are available, include them:
+If page markers are absent, use `Page unknown` and mark the affected source page `needs-source` until provenance can be improved.
 
-```markdown
-Source: [[harrison-heart-failure-chapter]], section "Diuretic Therapy", p. 1842.
-```
-
-Never invent page numbers, DOI values, publication dates, or source metadata.
+Never invent page numbers, DOI values, publication dates, or source metadata. Use `tools/update_raw_citations.py` after ingest or citation-policy changes to refresh canonical source fields and topic-page citation tails.
 
 ## Ingest Workflow
 
@@ -165,7 +173,7 @@ When answering questions:
 1. Read `wiki/index.md` first.
 2. Search the wiki with `rg` for key terms.
 3. Read relevant pages before answering.
-4. Synthesize with citations to wiki source/topic pages.
+4. Synthesize from topic pages, then resolve their `sources:` entries to raw chapter/page citations via `wiki/sources/*` `canonical_citation`.
 5. If the answer is durable and useful, ask whether to file it, or file it directly when the user asks.
 6. If filed, create `wiki/questions/<slug>.md`, update `wiki/index.md`, and append to `wiki/log.md`.
 

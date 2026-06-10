@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 漏斗胸:因病童須用力吸氣,久之導致胸廓畸形。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- B. 凹胸、漏斗胸(Pectus excavatum、Funnel chest、Sunken chest) *4* Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- ### B. 凹胸、漏斗胸 (Pectus excavatum、Funnel chest、Sunken chest) Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- (2) 漏斗胸係數(Funnel Index, FI or Haller index)=胸腔左右距離/胸腔前後距離,如 FI > 3.25,則有手術之必要,各年齡層均適用。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- ...右比為 3:1)。 - c. 常合併多種其他異常,佔肺外游離肺中約 40%,包括後外側橫隔疝氣(posterolateral diaphragmatic hernia)、橫隔上提(eventration of the diaphragm)、漏斗胸和雞胸(pectus excavatum and carinatum)、腸道雙連囊腫(enteric duplication cysts)、先天性心臟病(congenital heart disease)。 - d. 症狀:通常沒症狀。因無支氣管聯通,所以感染機率低。 - e. 檢查: 難以透過非侵犯性影像學檢查發現而進一步安排檢查診斷,通常是經由其他檢查意外發現。 - f. 治療:手術切除。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- 3. 漏斗胸:因病童須用力吸氣,久之導致胸廓畸形。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- B. 凹胸、漏斗胸(Pectus excavatum、Funnel chest、Sunken chest) *4* Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- ### B. 凹胸、漏斗胸 (Pectus excavatum、Funnel chest、Sunken chest) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- (2) 漏斗胸係數(Funnel Index, FI or Haller index)=胸腔左右距離/胸腔前後距離,如 FI > 3.25,則有手術之必要,各年齡層均適用。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- ...右比為 3:1)。 - c. 常合併多種其他異常,佔肺外游離肺中約 40%,包括後外側橫隔疝氣(posterolateral diaphragmatic hernia)、橫隔上提(eventration of the diaphragm)、漏斗胸和雞胸(pectus excavatum and carinatum)、腸道雙連囊腫(enteric duplication cysts)、先天性心臟病(congenital heart disease)。 - d. 症狀:通常沒症狀。因無支氣管聯通,所以感染機率低。 - e. 檢查: 難以透過非侵犯性影像學檢查發現而進一步安排檢查診斷,通常是經由其他檢查意外發現。 - f. 治療:手術切除。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
 
 ## Clinical Caveats
 

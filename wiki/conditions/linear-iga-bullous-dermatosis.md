@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- F. Linear IgA dermatosis 62 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- # F. Linear IgA dermatosis Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- ...| | | | plaques, crusts) | | knees, gluteal, | vesicle | | | | 很癢 | | sacral, and | | | | | | | scapular areas) | | | | Linear IgA | 水泡特徵類似於 | + | 常出現在身體 | subepidermal | Linear IgA/C3 in | | dermatosis | DH | | 伸側 (ex- | blister | epidermal base- | | | | | tensor side) \ | | ment membrane | | | | | 任何部位 (any- | | | | | | | where) | | | | Cicatrici Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- F. Linear IgA dermatosis 62 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- # F. Linear IgA dermatosis Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- ...| | | | plaques, crusts) | | knees, gluteal, | vesicle | | | | 很癢 | | sacral, and | | | | | | | scapular areas) | | | | Linear IgA | 水泡特徵類似於 | + | 常出現在身體 | subepidermal | Linear IgA/C3 in | | dermatosis | DH | | 伸側 (ex- | blister | epidermal base- | | | | | tensor side) \ | | ment membrane | | | | | 任何部位 (any- | | | | | | | where) | | | | Cicatrici Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
 
 ## Clinical Caveats
 

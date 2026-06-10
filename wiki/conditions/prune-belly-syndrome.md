@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- C. 皺梅腹症候群 (Prune-belly syndrome) 181 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
-- ### C. 皺梅腹症候群 (Prune-belly syndrome) Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
-- 1. 機轉 & 成因:為一罕見的先天性腹壁肌肉發育不良畸形,又稱先天性腹肌缺失症。 常見其他名稱 Eagle-Barrett syndrome、Obrinsky syndrome、Fröhlich syndrome。 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
+- C. 皺梅腹症候群 (Prune-belly syndrome) 181 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_己、先天腹壁異常 Page 193-198.
+- ### C. 皺梅腹症候群 (Prune-belly syndrome) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_己、先天腹壁異常 Page 193-198.
+- 1. 機轉 & 成因:為一罕見的先天性腹壁肌肉發育不良畸形,又稱先天性腹肌缺失症。 常見其他名稱 Eagle-Barrett syndrome、Obrinsky syndrome、Fröhlich syndrome。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_己、先天腹壁異常 Page 193-198.
 
 ## Clinical Caveats
 

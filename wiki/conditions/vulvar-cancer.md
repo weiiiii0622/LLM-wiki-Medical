@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- L. 外陰癌(Vulvar cancer) 234 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- L. 外陰癌(Vulvar cancer) 234 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
 
 ## Clinical Caveats
 

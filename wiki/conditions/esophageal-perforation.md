@@ -33,13 +33,13 @@ tags:
 
 ## Key Details From Sources
 
-- J. 食道破裂穿孔 (Esophageal perforation) 100 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ### J. 食道破裂穿孔 (Esophageal perforation) Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 2. 機轉 & 成因:以劇吐(forceful vomiting, Boerhaave's syndrome)約佔15%、吞食異物約佔14%、創傷約佔10%,另有醫源性原因造成食道穿孔,如:在內視鏡檢查或治療後、氣管內管插管或氣管瘻管盲視置放、或切開頸胸腹部未注意而造成損傷。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 1. 機轉 & 成因:為化膿性肋膜腔感染,是肋膜渗出液(exudate)最常見的形式。可 經胸壁創傷或手術傷口直接污染肋膜腔,或經血液(菌血症或敗血症)、肺部感染、 肺膿瘍破裂、感染性肺開洞破裂或縱隔感染(食道穿孔)等造成肋膜腔感染。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...heterization | | - Idiopathic pulmonary fibrosis (IPF) | Postsurgical | | - Pulmonary embolism | Other | | Catamenial | Esophageal perforation | | Neonatal | | Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- g. 食道穿孔 (Evidence of esophageal perforation) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 1. 急性縱隔腔炎(mediastinitis),通常感染源來自口咽菌叢,常見原因為食道穿孔、胸骨手術術後感染、口咽或頸部感染、頭頸部手術術後感染、氣管支氣管穿孔、肺部感染或胸腔創傷,為手術急症,治療需矯正感染原因,並進行引流甚至清創,合併抗生素治療。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- J. 食道破裂穿孔 (Esophageal perforation) 100 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- ### J. 食道破裂穿孔 (Esophageal perforation) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- 2. 機轉 & 成因:以劇吐(forceful vomiting, Boerhaave's syndrome)約佔15%、吞食異物約佔14%、創傷約佔10%,另有醫源性原因造成食道穿孔,如:在內視鏡檢查或治療後、氣管內管插管或氣管瘻管盲視置放、或切開頸胸腹部未注意而造成損傷。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- 1. 機轉 & 成因:為化膿性肋膜腔感染,是肋膜渗出液(exudate)最常見的形式。可 經胸壁創傷或手術傷口直接污染肋膜腔,或經血液(菌血症或敗血症)、肺部感染、 肺膿瘍破裂、感染性肺開洞破裂或縱隔感染(食道穿孔)等造成肋膜腔感染。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- ...heterization | | - Idiopathic pulmonary fibrosis (IPF) | Postsurgical | | - Pulmonary embolism | Other | | Catamenial | Esophageal perforation | | Neonatal | | Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- g. 食道穿孔 (Evidence of esophageal perforation) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- 1. 急性縱隔腔炎(mediastinitis),通常感染源來自口咽菌叢,常見原因為食道穿孔、胸骨手術術後感染、口咽或頸部感染、頭頸部手術術後感染、氣管支氣管穿孔、肺部感染或胸腔創傷,為手術急症,治療需矯正感染原因,並進行引流甚至清創,合併抗生素治療。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90.
 
 ## Clinical Caveats
 

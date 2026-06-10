@@ -39,19 +39,19 @@ tags:
 
 ## Key Details From Sources
 
-- ...| | | | | | | | | 節 檢 | • 美國醫學遺傳學暨基因體學學會及美國婦產科醫學會建議以 | | | | | | | | | | 下情況需作篩檢 | | | | | | | | | | a. 有不明原因智能障礙、發育遲緩、自閉症者 | | | | | | | | | | b. 有 X 染色體脆折症或不明原因智能障礙之家族病史而尋求 | | | | | | | | | | 生育諮詢者 | | | | | | | | | | c. 卵巢早衰者 ( 尤其有家族病史者 ) | | | | | | | | | | d. 有晚發型 intention tremor 或 ataxia 者 | | | | | | | | | | e. 母親為帶因者 (premutation) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- | 對母親長期 | • 會增加往後高血壓、心血管疾病(包括冠心病、中風和心衰竭) | | | |-------|--------------------------------|--|--| | 的影響 | 和腎臟病的風險 | | | | | ・ 會増加死亡率 | | | | 對新生兒的 | • 可能增加心血管疾病和死亡率 | | | | 影響 | • 可能增加自閉症和過動兒的風險 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- ...the pleura, pericardium, azygos vein, diaphragm, or peritoneum | | T4b* | Tumor invades other adjacent structures, such asd aorta, vertebral body. or trachea | | N category | | | NX | Regional lymph nodes cannot be assessed | | N0 | No regional lymph node metastases | | N1 | Metastasis in 1~2 regional lymph nodes | | N2 | Metastasis in 3~6 r Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 4. 全肺靜脈回流異常(total anomalous pulmonary venous return, TAPVR): - (1) 四條肺靜脈正常應回到左心,但要是肺靜脈全接到上、下腔靜脈或右心房,則稱為全肺靜脈回流異常。通常合併 ASD,充氧血才有機會回到左側心臟。 - (2) X 光下可見 Snowman heart,是由於右心接受太多血流,所以變大,像雪人頭疊在心室上。(見下圖) Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- (3) 最常伴隨 ASD,另外約有 1/3 的病患有 WPW syndrome,是發生 supraventricular tachycardia 的高風險族群。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- (1) 三尖瓣完全沒發育,右心房和右心室無法相通,右心房的血液只能藉由開放性 卵圓孔或 ASD 進入左心房。 Source: [[sources/med5-book2-ch04|丁、先天性心臟病]].
-- II. 自閉性疾患 (Autistic Disorder) 157 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- #### II. 自閉性疾患 (Autistic Disorder) Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- 3. 超過 67% 的自閉症患者有智能不足 (mental retardation)。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- F. 與廣泛性發展疾患之關係:若有自閉症或廣泛性發展疾患,只有當幻聽或妄想至少 持續一個月才可以下思覺失調症之診斷。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- ...hinking)之敘述,下列何項錯誤? | 109(二)專 | | | (A) 思考內容之特徵為自我中心 | 醫四 -60 | | | (B) 強調思考之客觀性 | | | | (C) 多脫離現實 | | | | (D) 常見於思覺失調症與自閉症患者 | | | | 【詳解】(B) 思考的主觀性。 | | | (B) | 3. 下列何者是思覺失調症(schizophrenia)預後較佳之預測因子? | 109(一)專 | | | (A) 年輕發病 | 醫四 -59 | | | (B) 有情感性疾患(mood disorders)家族史 | | | | (C) 沒有促發因子(precipitating factor) | | | | (D) 有思覺失調症家族史 | | | | 【 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- ...Kraepelin 認為思覺失調症患者功能會持續惡化,Bleuler 認為不會 (B) Kraepelin 將思覺失調症命名為 dementia precox;Bleuler 為取名 schizophrenia 的學者 (C) 4As: autism, association disturbance of thought, ambivalence, affect blunting (D) 三種嚴重疾病包括 paranoia、dementia precox、manic-depressive psychosis。 | 100(二)專醫四-60 | Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
+- ...| | | | | | | | | 節 檢 | • 美國醫學遺傳學暨基因體學學會及美國婦產科醫學會建議以 | | | | | | | | | | 下情況需作篩檢 | | | | | | | | | | a. 有不明原因智能障礙、發育遲緩、自閉症者 | | | | | | | | | | b. 有 X 染色體脆折症或不明原因智能障礙之家族病史而尋求 | | | | | | | | | | 生育諮詢者 | | | | | | | | | | c. 卵巢早衰者 ( 尤其有家族病史者 ) | | | | | | | | | | d. 有晚發型 intention tremor 或 ataxia 者 | | | | | | | | | | e. 母親為帶因者 (premutation) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- | 對母親長期 | • 會增加往後高血壓、心血管疾病(包括冠心病、中風和心衰竭) | | | |-------|--------------------------------|--|--| | 的影響 | 和腎臟病的風險 | | | | | ・ 會増加死亡率 | | | | 對新生兒的 | • 可能增加心血管疾病和死亡率 | | | | 影響 | • 可能增加自閉症和過動兒的風險 | | | Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- ...the pleura, pericardium, azygos vein, diaphragm, or peritoneum | | T4b* | Tumor invades other adjacent structures, such asd aorta, vertebral body. or trachea | | N category | | | NX | Regional lymph nodes cannot be assessed | | N0 | No regional lymph node metastases | | N1 | Metastasis in 1~2 regional lymph nodes | | N2 | Metastasis in 3~6 r Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- 4. 全肺靜脈回流異常(total anomalous pulmonary venous return, TAPVR): - (1) 四條肺靜脈正常應回到左心,但要是肺靜脈全接到上、下腔靜脈或右心房,則稱為全肺靜脈回流異常。通常合併 ASD,充氧血才有機會回到左側心臟。 - (2) X 光下可見 Snowman heart,是由於右心接受太多血流,所以變大,像雪人頭疊在心室上。(見下圖) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_丁、先天性心臟病 Page 55-80.
+- (3) 最常伴隨 ASD,另外約有 1/3 的病患有 WPW syndrome,是發生 supraventricular tachycardia 的高風險族群。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_丁、先天性心臟病 Page 55-80.
+- (1) 三尖瓣完全沒發育,右心房和右心室無法相通,右心房的血液只能藉由開放性 卵圓孔或 ASD 進入左心房。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_丁、先天性心臟病 Page 55-80.
+- II. 自閉性疾患 (Autistic Disorder) 157 Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- #### II. 自閉性疾患 (Autistic Disorder) Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- 3. 超過 67% 的自閉症患者有智能不足 (mental retardation)。 Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- F. 與廣泛性發展疾患之關係:若有自閉症或廣泛性發展疾患,只有當幻聽或妄想至少 持續一個月才可以下思覺失調症之診斷。 Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
+- ...hinking)之敘述,下列何項錯誤? | 109(二)專 | | | (A) 思考內容之特徵為自我中心 | 醫四 -60 | | | (B) 強調思考之客觀性 | | | | (C) 多脫離現實 | | | | (D) 常見於思覺失調症與自閉症患者 | | | | 【詳解】(B) 思考的主觀性。 | | | (B) | 3. 下列何者是思覺失調症(schizophrenia)預後較佳之預測因子? | 109(一)專 | | | (A) 年輕發病 | 醫四 -59 | | | (B) 有情感性疾患(mood disorders)家族史 | | | | (C) 沒有促發因子(precipitating factor) | | | | (D) 有思覺失調症家族史 | | | | 【 Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
+- ...Kraepelin 認為思覺失調症患者功能會持續惡化,Bleuler 認為不會 (B) Kraepelin 將思覺失調症命名為 dementia precox;Bleuler 為取名 schizophrenia 的學者 (C) 4As: autism, association disturbance of thought, ambivalence, affect blunting (D) 三種嚴重疾病包括 paranoia、dementia precox、manic-depressive psychosis。 | 100(二)專醫四-60 | Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
+- 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
 
 ## Clinical Caveats
 

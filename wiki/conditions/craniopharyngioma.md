@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- | 病灶位置 | 視野缺損的形態 | 可能疾病 | |-------|-------------------------------------------|----------------------------------| | 視交叉之前 | 同側單眼視野缺損 | 視神經炎 | | 視交叉 | 雙眼顳側視野缺損 (bitemporal visual field defect) | 腦下垂體腫瘤 (pituitarytumor)、顱咽管瘤 | | | | (craniopharyngioma) | | 視交叉之後 | 雙眼同側視野缺損 (homonynous | 腦瘤、血管阻塞、腦溢血、 | | | visual field defect) | 動脈瘤、腦炎 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- ...allmann's syndrome) | | hypogonadism) | Functional hypothalamic amenorrhea (厭食症、過度運 | | | 動、體重過輕或壓力引發等) | | | 中樞神經腫瘤 (如 craniopharyngioma) | | | 腦部受傷或接受放射線 | | 腦垂體異常 | 高泌乳素血症 (hyperprolactinemia) | | (Hypogonadotropic | 中樞神經腫瘤 (如 Pituitary prolactinoma) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原發性卵巢功能不全 | | | 多囊性卵巢症候群 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- M. 顱咽瘤(Craniopharyngioma) 212 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 6. 蝶鞍區腫瘤 (tumors of the sellar region): - (1) 顱咽瘤 (craniopharyngioma)。 - (2) 腦下腺瘤(pituitary tumor):前腦下腺細胞(adenohypophyseal cells)。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ## M. 顱咽瘤 (Craniopharyngioma) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- | 病灶位置 | 視野缺損的形態 | 可能疾病 | |-------|-------------------------------------------|----------------------------------| | 視交叉之前 | 同側單眼視野缺損 | 視神經炎 | | 視交叉 | 雙眼顳側視野缺損 (bitemporal visual field defect) | 腦下垂體腫瘤 (pituitarytumor)、顱咽管瘤 | | | | (craniopharyngioma) | | 視交叉之後 | 雙眼同側視野缺損 (homonynous | 腦瘤、血管阻塞、腦溢血、 | | | visual field defect) | 動脈瘤、腦炎 | Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- ...allmann's syndrome) | | hypogonadism) | Functional hypothalamic amenorrhea (厭食症、過度運 | | | 動、體重過輕或壓力引發等) | | | 中樞神經腫瘤 (如 craniopharyngioma) | | | 腦部受傷或接受放射線 | | 腦垂體異常 | 高泌乳素血症 (hyperprolactinemia) | | (Hypogonadotropic | 中樞神經腫瘤 (如 Pituitary prolactinoma) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原發性卵巢功能不全 | | | 多囊性卵巢症候群 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- M. 顱咽瘤(Craniopharyngioma) 212 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- 6. 蝶鞍區腫瘤 (tumors of the sellar region): - (1) 顱咽瘤 (craniopharyngioma)。 - (2) 腦下腺瘤(pituitary tumor):前腦下腺細胞(adenohypophyseal cells)。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- ## M. 顱咽瘤 (Craniopharyngioma) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
 
 ## Clinical Caveats
 

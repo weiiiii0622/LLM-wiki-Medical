@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- ...(D) p53 | | | | (C) 18 | . Whipple 手術後,最嚴重的併 | :發症是: | 99(二)專 | | | (A) 延遲性胃排空 | | 醫五 -34 | | | (B) 膽汁滲漏 | | | | | (C) 胰液滲漏 | | | | | (D) 傷口感染 | | | | | 【詳解】Whipple procedure 名 | 後的 complication rate 約為 25%,最 | | | | 常見併發症是吻合端的胰液液 | 寥液(anastomotic leak)以及胰臟膽 | | | | 道管 (pancreatic-biliary fistula | a) ° | | | (C) 19 | . 依據 The American Joint Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- ...(D) p53 | | | | (C) 18 | . Whipple 手術後,最嚴重的併 | :發症是: | 99(二)專 | | | (A) 延遲性胃排空 | | 醫五 -34 | | | (B) 膽汁滲漏 | | | | | (C) 胰液滲漏 | | | | | (D) 傷口感染 | | | | | 【詳解】Whipple procedure 名 | 後的 complication rate 約為 25%,最 | | | | 常見併發症是吻合端的胰液液 | 寥液(anastomotic leak)以及胰臟膽 | | | | 道管 (pancreatic-biliary fistula | a) ° | | | (C) 19 | . 依據 The American Joint Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
 
 ## Clinical Caveats
 

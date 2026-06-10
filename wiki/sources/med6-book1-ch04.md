@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy).md
+raw_source_title: "醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy).md"
+page_start: 139
+page_end: 162
+canonical_citation: "醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162"
 book: 醫(六)第1冊婦產
 chapter_order: 4
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy).md`
+- Pages covered: 139-162
+- Canonical citation: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- XVIII. 貓抓熱 (Cat-Scratch Disesae, CSD) 202 - XIX. 猩紅熱 (Scarlet Fever) 203 - XX. 登革熱 (Dengue Fever) 與登革出血熱 (Dengue Hemorrhagic Fever) 206 - XXI. 疫苗接種 208 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- # XX. 登革熱 (Dengue Fever) 與登革出血熱 (Dengue Hemorrhagic Fever) Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 登革熱,又稱天狗熱或斷骨熱,是由黃病毒科(Flaviviridae)黃病毒屬(Flavivirus)中的登革病毒亞屬所感染。登革病毒亞屬裡共有四種登革病毒,依抗原性的不同分別稱為第 I 、 II 、 III 、 IV型。登革熱臨床表現相較溫和,然而登革出血熱臨床上是嚴重的病程,可引發休克、死亡。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- XVIII. 貓抓熱 (Cat-Scratch Disesae, CSD) 202 - XIX. 猩紅熱 (Scarlet Fever) 203 - XX. 登革熱 (Dengue Fever) 與登革出血熱 (Dengue Hemorrhagic Fever) 206 - XXI. 疫苗接種 208 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- # XX. 登革熱 (Dengue Fever) 與登革出血熱 (Dengue Hemorrhagic Fever) Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- 登革熱,又稱天狗熱或斷骨熱,是由黃病毒科(Flaviviridae)黃病毒屬(Flavivirus)中的登革病毒亞屬所感染。登革病毒亞屬裡共有四種登革病毒,依抗原性的不同分別稱為第 I 、 II 、 III 、 IV型。登革熱臨床表現相較溫和,然而登革出血熱臨床上是嚴重的病程,可引發休克、死亡。 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
 
 ## Clinical Caveats
 

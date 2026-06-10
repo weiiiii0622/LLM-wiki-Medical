@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- ...B) 主要是因手術時間太久,病人吸收太多之 hypotonic irrigation | | | | solution 所致 | | | | (C) 治療方法是應立即停止手術,給予病人利尿劑、normal saline | | | | 或 hypertonic saline | | | | (D) TUR syndrome 發生時,病人正處於 hypervolemic 及 hypernatremic | | | | 狀態 | | | | | | Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...B) 主要是因手術時間太久,病人吸收太多之 hypotonic irrigation | | | | solution 所致 | | | | (C) 治療方法是應立即停止手術,給予病人利尿劑、normal saline | | | | 或 hypertonic saline | | | | (D) TUR syndrome 發生時,病人正處於 hypervolemic 及 hypernatremic | | | | 狀態 | | | | | | Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
 
 ## Clinical Caveats
 

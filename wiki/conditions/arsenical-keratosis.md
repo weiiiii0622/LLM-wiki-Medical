@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- G. 砷中毒角化症 (Arsenical keratosis) 147 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- # G. 砷中毒角化症 (Arsenical keratosis) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- G. 砷中毒角化症 (Arsenical keratosis) 147 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- # G. 砷中毒角化症 (Arsenical keratosis) Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
 
 ## Clinical Caveats
 

@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (B) 1. 有關復發性多軟骨炎(relapsing polychondritis)的敘述,下列何者 107(二)專 正確? 醫三 -29 - (A) 大部分病人會有類風濕因子 (rheumatoid factor) 陽性 - (B) 大多數的病人會合併關節炎 - (C) 大約有 90% 的病人會合併其他自體免疫疾病 - (D) 治療以抗腫瘤壞死因子(anti-TNF) 生物製劑為主 Source: [[sources/med3-book4-ch09|辛、其 他]].
-- (A) relapsing polychondritis Source: [[sources/med3-book4-ch09|辛、其 他]].
+- (B) 1. 有關復發性多軟骨炎(relapsing polychondritis)的敘述,下列何者 107(二)專 正確? 醫三 -29 - (A) 大部分病人會有類風濕因子 (rheumatoid factor) 陽性 - (B) 大多數的病人會合併關節炎 - (C) 大約有 90% 的病人會合併其他自體免疫疾病 - (D) 治療以抗腫瘤壞死因子(anti-TNF) 生物製劑為主 Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_辛、其他 Page 120-124.
+- (A) relapsing polychondritis Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_辛、其他 Page 120-124.
 
 ## Clinical Caveats
 

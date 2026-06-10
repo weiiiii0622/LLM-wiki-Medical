@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...(Grand mal) | Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan) | Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- ...BA (增強 GABA 作用) | BZD 類 | Clonazepam (Rivotril®) | 肌陣攣(Myoclonus) 發作可用 | | (增無 UADA 作用) | DZD 积 | Lorazepam (Ativan®) | 癲癇重積狀態首選 | Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- ...(Grand mal) | Valproic acid \ Lamotrigine | | 全面性發作 | 失神性發作 (Absence)=小發作 (Petit mal) | Valproic acid 、Ethosuximide | | 癲癇重積狀態 | | Lorazepam (Ativan) | Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- ...BA (增強 GABA 作用) | BZD 類 | Clonazepam (Rivotril®) | 肌陣攣(Myoclonus) 發作可用 | | (增無 UADA 作用) | DZD 积 | Lorazepam (Ativan®) | 癲癇重積狀態首選 | Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
 
 ## Clinical Caveats
 

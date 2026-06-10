@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- #### B. TOAST 急性缺血性中風的病因分類 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- #### B. TOAST 急性缺血性中風的病因分類 Source: 醫(四)第4冊神內_戊、腦血管疾病 Page 93-122.
 
 ## Clinical Caveats
 

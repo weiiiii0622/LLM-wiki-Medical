@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- V. 喉軟化症(Laryngomalacia) 207 Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- #### V. 喉軟化症 (Laryngomalacia) Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- 1. 喉軟化症是一種先天性的喉部軟骨構造的異常,也是新生兒先天性喘鳴最常見的原因之一,約佔百分之六十。其他原因包括雙側聲帶麻痺、聲門下狹窄、氣管支氣管軟化症等等。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
+- V. 喉軟化症(Laryngomalacia) 207 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- #### V. 喉軟化症 (Laryngomalacia) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- 1. 喉軟化症是一種先天性的喉部軟骨構造的異常,也是新生兒先天性喘鳴最常見的原因之一,約佔百分之六十。其他原因包括雙側聲帶麻痺、聲門下狹窄、氣管支氣管軟化症等等。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
 
 ## Clinical Caveats
 

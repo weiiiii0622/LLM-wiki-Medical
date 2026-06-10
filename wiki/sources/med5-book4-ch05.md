@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道.md
+raw_source_title: "醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道"
+raw_source_file: "raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道.md"
+page_start: 91
+page_end: 118
+canonical_citation: "醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118"
 book: 醫(五)第4冊胸外小兒外
 chapter_order: 5
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第4冊胸外小兒外
 - Chapter file: `raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道.md`
+- Pages covered: 91-118
+- Canonical citation: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

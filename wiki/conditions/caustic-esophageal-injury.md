@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- I. 腐蝕性傷害 (Caustic burn) 99 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ### I. 腐蝕性傷害 (Caustic burn) Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 4. 預後:發牛腐蝕性食道損傷患者發牛食道癌的機率提高 1,000 倍。 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- I. 腐蝕性傷害 (Caustic burn) 99 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- ### I. 腐蝕性傷害 (Caustic burn) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- 4. 預後:發牛腐蝕性食道損傷患者發牛食道癌的機率提高 1,000 倍。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
 
 ## Clinical Caveats
 

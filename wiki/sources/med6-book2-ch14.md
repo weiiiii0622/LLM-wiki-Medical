@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視.md
+raw_source_title: "醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視"
+raw_source_file: "raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視.md"
+page_start: 167
+page_end: 184
+canonical_citation: "醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視 Page 167-184"
 book: 醫(六)第2冊眼科
 chapter_order: 14
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第2冊眼科
 - Chapter file: `raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視.md`
+- Pages covered: 167-184
+- Canonical citation: 醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視 Page 167-184
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

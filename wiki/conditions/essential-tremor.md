@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 原發性顫抖症 (essential tremor): - a. 常有家族史,緊張時更嚴重。 - b. 特徵: Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...mentia with Lewy bodies | | Prominent orthostasis 有姿態性低血壓 | MSA-p | | High frequency (8~10 Hz) symmetric tremor 高頻率顫抖 | Essential tremor | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (C) 2. 服用下列那一種藥物之後,可能會出現兩手的顫抖,必須與本態 109(二)專 性顫抖(essential tremor)做鑑別診斷? 醫四-52 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- (1) 原發性顫抖症 (essential tremor): - a. 常有家族史,緊張時更嚴重。 - b. 特徵: Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- ...mentia with Lewy bodies | | Prominent orthostasis 有姿態性低血壓 | MSA-p | | High frequency (8~10 Hz) symmetric tremor 高頻率顫抖 | Essential tremor | Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- (C) 2. 服用下列那一種藥物之後,可能會出現兩手的顫抖,必須與本態 109(二)專 性顫抖(essential tremor)做鑑別診斷? 醫四-52 Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
 
 ## Clinical Caveats
 

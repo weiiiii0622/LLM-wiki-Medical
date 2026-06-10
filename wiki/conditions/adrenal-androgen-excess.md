@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- #### C. (網狀帶)腎上腺雄性素症 (Adrenal androgenic syndromes) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- 1. 病理:遺傳性雙側雄性素腎上腺增生 (Congenital bilateral adrenal androgenic hyperplasia) 或腎上腺皮質腫瘤 (Adrenocortical tumors),造成雄性素 (androgen)過量。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
+- II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- #### C. (網狀帶)腎上腺雄性素症 (Adrenal androgenic syndromes) Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- 1. 病理:遺傳性雙側雄性素腎上腺增生 (Congenital bilateral adrenal androgenic hyperplasia) 或腎上腺皮質腫瘤 (Adrenocortical tumors),造成雄性素 (androgen)過量。 Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
 
 ## Clinical Caveats
 

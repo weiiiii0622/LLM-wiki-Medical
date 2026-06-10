@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- F. 氣管支氣管損傷 (Tracheobronchial injury) 118 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- ### F. 氣管支氣管損傷 (Tracheobronchial injury) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- F. 氣管支氣管損傷 (Tracheobronchial injury) 118 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- ### F. 氣管支氣管損傷 (Tracheobronchial injury) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
 
 ## Clinical Caveats
 

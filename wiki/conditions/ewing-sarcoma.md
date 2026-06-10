@@ -31,14 +31,14 @@ tags:
 
 ## Key Details From Sources
 
-- 4. 小孩 / 青少年最常見的惡性骨腫瘤:osteosarcoma,第二常見:Ewing sarcoma。大 人最常見的惡性骨腫瘤:chondrosarcoma。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...brous histiocytoma, Desmoid fibroma, fibrosarcoma, Malignant fibrous histiocytoma (MFH). | | Others or unknown origin | Ewing's Sarcoma, Bone Cyst, Chordoma, GCT | Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- #### 1. Ewing's sarcoma: Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- 4. 惡性胸壁腫瘤: - (1) 漿細胞瘤 (plasmacytoma):蛋白質電泳會出現單一株峰值為惡性漿細胞製造之 免疫球蛋白。 - (2) 骨肉瘤(osteosarcoma):鹼性磷酯酶(Alkaline phosphatase)可能會上升。 - (3) Ewing 氏肉瘤 (Ewing's sarcoma): 紅血球沉降率 (Erythrocyte sedimentation rate)可能會上升。通常會有全身倦怠或發燒症狀。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- (D) Ewing 氏肉瘤(Ewing's sarcoma) Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- VIII. 視網膜母細胞瘤(Retinoblastoma) 390 - IX. 骨肉瘤 (Osteosarcoma) 391 - X. Ewing 氏肉瘤(Ewing Sarcoma) 392 - XI. 畸胎瘤(Teratoma) 393 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 1. 骨肉瘤為兒童原發性惡性骨腫瘤中最常見,其次為 Ewing sarcoma。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- # X. Ewing 氏肉瘤 (Ewing Sarcoma) Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
+- 4. 小孩 / 青少年最常見的惡性骨腫瘤:osteosarcoma,第二常見:Ewing sarcoma。大 人最常見的惡性骨腫瘤:chondrosarcoma。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- ...brous histiocytoma, Desmoid fibroma, fibrosarcoma, Malignant fibrous histiocytoma (MFH). | | Others or unknown origin | Ewing's Sarcoma, Bone Cyst, Chordoma, GCT | Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- #### 1. Ewing's sarcoma: Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- 4. 惡性胸壁腫瘤: - (1) 漿細胞瘤 (plasmacytoma):蛋白質電泳會出現單一株峰值為惡性漿細胞製造之 免疫球蛋白。 - (2) 骨肉瘤(osteosarcoma):鹼性磷酯酶(Alkaline phosphatase)可能會上升。 - (3) Ewing 氏肉瘤 (Ewing's sarcoma): 紅血球沉降率 (Erythrocyte sedimentation rate)可能會上升。通常會有全身倦怠或發燒症狀。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- (D) Ewing 氏肉瘤(Ewing's sarcoma) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- VIII. 視網膜母細胞瘤(Retinoblastoma) 390 - IX. 骨肉瘤 (Osteosarcoma) 391 - X. Ewing 氏肉瘤(Ewing Sarcoma) 392 - XI. 畸胎瘤(Teratoma) 393 Source: 醫(四)第1冊小兒_壬、腫瘤學 Page 381-408.
+- 1. 骨肉瘤為兒童原發性惡性骨腫瘤中最常見,其次為 Ewing sarcoma。 Source: 醫(四)第1冊小兒_壬、腫瘤學 Page 381-408.
+- # X. Ewing 氏肉瘤 (Ewing Sarcoma) Source: 醫(四)第1冊小兒_壬、腫瘤學 Page 381-408.
 
 ## Clinical Caveats
 

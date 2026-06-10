@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology).md
+raw_source_title: "醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology).md"
+page_start: 321
+page_end: 374
+canonical_citation: "醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374"
 book: 醫(六)第1冊婦產
 chapter_order: 10
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology).md`
+- Pages covered: 321-374
+- Canonical citation: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

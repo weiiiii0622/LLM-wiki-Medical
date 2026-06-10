@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- b. Abdominoperineal resection (APR):下圖左,此術式無法保留肛門括約肌。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- ...ntiated、無血管或淋巴的侵犯。且針對 T2 的患者,在做完 local excision 仍建議需要再作 adjuvant radiation plus chemotherapy 或是 radical excision (LAR 或 APR)。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- Abdominoperineal resection of rectum Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
+- b. Abdominoperineal resection (APR):下圖左,此術式無法保留肛門括約肌。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- ...ntiated、無血管或淋巴的侵犯。且針對 T2 的患者,在做完 local excision 仍建議需要再作 adjuvant radiation plus chemotherapy 或是 radical excision (LAR 或 APR)。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- Abdominoperineal resection of rectum Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
 
 ## Clinical Caveats
 

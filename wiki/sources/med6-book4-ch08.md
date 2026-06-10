@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物.md
+raw_source_title: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物"
+raw_source_file: "raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物.md"
+page_start: 93
+page_end: 100
+canonical_citation: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物 Page 93-100"
 book: 醫(六)第4冊麻醉耳鼻喉
 chapter_order: 8
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第4冊麻醉耳鼻喉
 - Chapter file: `raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物.md`
+- Pages covered: 93-100
+- Canonical citation: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物 Page 93-100
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- E. 胸壁腫瘤 (Chest wall tumor) 7 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- 1. 所有胸壁腫瘤都必須先當成惡性腫瘤做鑑別,直到確認腫瘤性質。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- 2. 臨床表現:緩慢變大的腫塊 50~70%、胸壁痛 25~50%。且病患通常都是因為意外受傷才注意到腫塊。胸壁腫瘤痛通常以惡性腫瘤為主,但仍有 1/3 良性腫瘤會出現胸壁腫瘤痛。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- (7) 手術:主要有兩種。 - a. 肋膜外全肺切除 (extra-pleural pneumonectomy, EPP): 摘除患側肺、肋膜、心包膜、横隔膜。 - b. 肋 膜 及 全 肺 切 除 (pleural pneumonectomy + pleurectomy) 或 剝 皮 術 (decortication): 摘除患側肺、肋膜和胸壁腫瘤。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- E. 胸壁腫瘤 (Chest wall tumor) 7 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- 1. 所有胸壁腫瘤都必須先當成惡性腫瘤做鑑別,直到確認腫瘤性質。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- 2. 臨床表現:緩慢變大的腫塊 50~70%、胸壁痛 25~50%。且病患通常都是因為意外受傷才注意到腫塊。胸壁腫瘤痛通常以惡性腫瘤為主,但仍有 1/3 良性腫瘤會出現胸壁腫瘤痛。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- (7) 手術:主要有兩種。 - a. 肋膜外全肺切除 (extra-pleural pneumonectomy, EPP): 摘除患側肺、肋膜、心包膜、横隔膜。 - b. 肋 膜 及 全 肺 切 除 (pleural pneumonectomy + pleurectomy) 或 剝 皮 術 (decortication): 摘除患側肺、肋膜和胸壁腫瘤。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
 
 ## Clinical Caveats
 

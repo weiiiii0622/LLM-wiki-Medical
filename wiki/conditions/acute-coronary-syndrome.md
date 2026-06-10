@@ -47,21 +47,21 @@ tags:
 
 ## Key Details From Sources
 
-- Rice TW, Patil DT, Blackstone EH. 8th edition AJCC/UICC staging of cancers of the esophagus and esophagogastric junction: Application to clinical practice. Ann Cardiothorac Surg. 2017;6(2):119-130. doi:10.21037/acs.2017.03.14 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- CLASS I recommendation for emergency CABG in STEMI: Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- (C) 20. 陳先生 62 歲,除患有糖尿病多年外,身體一向健康。某日午餐後返辦公室,突然感到胸痛不適。同事將陳先生送入醫院急診室,初步判斷為急性冠狀症候群(acute coronary syndrome)。住院一星期後病情穩定,各器官功能正常。經心導管檢查,發現冠狀動脈阻塞情況如下:左冠狀動脈主幹(leftmain coronary artery) 80% 狹窄、左冠狀動脈左前降支近心端 76% 狹窄與中段70% 狹窄、左迴旋支中段65% 狹窄、右冠狀動脈中段83% 狹窄與遠心端90% 狹窄。經心臟內外科團隊討論後,建議陳先生接受下列何種後續治療的一年存活率最好? - (A) 經皮穿徑冠狀動脈血管整形術 (percutaneous t Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- ...才吃第一次藥。依此病人的臨床表現, 下列何種疾病最有可能? - (A) 急性氣管炎 (acute bronchitis) - (B) 氣喘發作 (asthma attack) - (C) 過敏性反應 (anaphylaxis) - (D) 急性冠心症候群 (acute coronary syndrome) Source: [[sources/med3-book4-ch07|庚、過敏疾病]].
-- 【詳解】(C)雖然大部分的早期偵測大腸癌的計畫都強調糞便潛血 檢查,但卻有50%證實有大腸癌的病人其糞便潛血檢查是陰性的, 這和大腸癌的出血是間斷性的有關,因此敏感度其實不高;另外, 潛血陽性的也< 10%後來發現有大腸癌。其實, Colonoscopy 才是 最具敏感的檢查;因此 ACS 建議篩檢的方法是大於 50 歲的人每年 檢查大便潛血,且5年檢查一次 sigmoidoscopy。(Harrison, 529) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- C. 急性冠心症(Acute coronary syndrome) 48 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- 2. 缺血性心臟病分為兩大類,一類是慢性穩定型心絞痛(Chronic stable angina),一類是 急性冠心症(Acute coronary syndrome)。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...-------------------------| | Chroni | c stable angina | Fixed atherosclerotic plaque | Pain during exertion (30min) | | ACS | NSTEMI | 阻塞,已造成心肌壞死 | Enzyme (+) | | | | (僅心內膜 Subendocardial) | EKG: ST Depression, TWI | | | | 管腔完全堵塞一段時間 | Pain not relieve by NTG (>30min) | | | STEMI | 造成心肌壞死(全層心肌 | Enzyme (+) | | | | 皆受影響 Transmural) | EKG: ST Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...|----------------------------|----------------------------------------|----------------|-------|-------|--| | Very high ACS, or CHD w/DM | | &lt; 70 | > 70 | > 70 | | | High | CHD or CHD equivalents ( > 20%) | 100 | > 100 | | | Moderately high | 2+ risk factors (10-year risk, 10~20%) | 130 | > 130 | | | Moderate | 2+ risk factors (10-year ri Source: [[sources/med3-book1-ch03|乙、高血脂、動脈粥狀硬化]].
-- ACS, acute coronary syndrome; CHD, coronary heart disease; CRF, coronary risk factors. Ref.: Circulation 2004; 110:227 [ATP III Update 2004] Source: [[sources/med3-book1-ch03|乙、高血脂、動脈粥狀硬化]].
-- a. 「ACS」或「CHD 合併糖尿病」屬於 Very high risk group, 建議 LDL 目標 50%(有因此而發生過 TIA、中風);(3)10-year risk for CHD 大於 20%。 Source: [[sources/med3-book1-ch03|乙、高血脂、動脈粥狀硬化]].
-- ...ardia)與 V4-V6 有 ST 段下降,胸部 X 光片呈現心臟肥大與肺水腫,對於張先生此次到急診的診斷,下列何者最不恰當? - (A) 心臟衰竭 - (B) 肺心症 (cor pulmonale) - (C) 急性肺水腫 - (D) 急性冠心症 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- (B) ST 段上升型心肌梗塞(STEMI) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- ...Neuropathy , Rifampin $\rightarrow$ Red $\sim$ Orange urine , Ethambutol $\rightarrow$ Eye neuritis , PZA $\rightarrow$ UA $\circ$ - 1. 臨床使用: - (1) HERZ\*2 個月(加強期) + HER\*4 個月(持續期), Isoniazid、Rifampin 是主力, 若對這兩個藥物都有抗藥性,則稱為多重抗藥性結核(MDRTB)。 - (2) 但臨床上為了避免抗藥性菌株,常以多種(四個)藥物合併使用。 Source: [[sources/med3-book1-ch19|己、結 核]].
-- (4) Pyrazinamide (PZA) → UA: 25 mg/kg, 最多 2,000 mg qd - a. 對巨噬細胞內酸性(pH 5.5)環境中生長緩慢的結核菌最具殺菌力。 - b. 與 INH 及 RMP 同時使用會增加肝毒性的機會。 - c. PZA 會干擾尿酸代謝而導致高尿酸血症,血清尿酸濃度小於 13 mg/dL 時,通常不需要藥物治療。偶爾合併關節痛,以水楊酸劑(salicylates)即可緩解。 Source: [[sources/med3-book1-ch19|己、結 核]].
+- Rice TW, Patil DT, Blackstone EH. 8th edition AJCC/UICC staging of cancers of the esophagus and esophagogastric junction: Application to clinical practice. Ann Cardiothorac Surg. 2017;6(2):119-130. doi:10.21037/acs.2017.03.14 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- CLASS I recommendation for emergency CABG in STEMI: Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_丙、冠狀動脈疾病及冠狀動脈繞道手術 Page 39-54.
+- (C) 20. 陳先生 62 歲,除患有糖尿病多年外,身體一向健康。某日午餐後返辦公室,突然感到胸痛不適。同事將陳先生送入醫院急診室,初步判斷為急性冠狀症候群(acute coronary syndrome)。住院一星期後病情穩定,各器官功能正常。經心導管檢查,發現冠狀動脈阻塞情況如下:左冠狀動脈主幹(leftmain coronary artery) 80% 狹窄、左冠狀動脈左前降支近心端 76% 狹窄與中段70% 狹窄、左迴旋支中段65% 狹窄、右冠狀動脈中段83% 狹窄與遠心端90% 狹窄。經心臟內外科團隊討論後,建議陳先生接受下列何種後續治療的一年存活率最好? - (A) 經皮穿徑冠狀動脈血管整形術 (percutaneous t Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_丙、冠狀動脈疾病及冠狀動脈繞道手術 Page 39-54.
+- ...才吃第一次藥。依此病人的臨床表現, 下列何種疾病最有可能? - (A) 急性氣管炎 (acute bronchitis) - (B) 氣喘發作 (asthma attack) - (C) 過敏性反應 (anaphylaxis) - (D) 急性冠心症候群 (acute coronary syndrome) Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_庚、過敏疾病 Page 103-110.
+- 【詳解】(C)雖然大部分的早期偵測大腸癌的計畫都強調糞便潛血 檢查,但卻有50%證實有大腸癌的病人其糞便潛血檢查是陰性的, 這和大腸癌的出血是間斷性的有關,因此敏感度其實不高;另外, 潛血陽性的也< 10%後來發現有大腸癌。其實, Colonoscopy 才是 最具敏感的檢查;因此 ACS 建議篩檢的方法是大於 50 歲的人每年 檢查大便潛血,且5年檢查一次 sigmoidoscopy。(Harrison, 529) Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論 Page 225-242.
+- C. 急性冠心症(Acute coronary syndrome) 48 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- 2. 缺血性心臟病分為兩大類,一類是慢性穩定型心絞痛(Chronic stable angina),一類是 急性冠心症(Acute coronary syndrome)。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- ...-------------------------| | Chroni | c stable angina | Fixed atherosclerotic plaque | Pain during exertion (30min) | | ACS | NSTEMI | 阻塞,已造成心肌壞死 | Enzyme (+) | | | | (僅心內膜 Subendocardial) | EKG: ST Depression, TWI | | | | 管腔完全堵塞一段時間 | Pain not relieve by NTG (>30min) | | | STEMI | 造成心肌壞死(全層心肌 | Enzyme (+) | | | | 皆受影響 Transmural) | EKG: ST Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- ...|----------------------------|----------------------------------------|----------------|-------|-------|--| | Very high ACS, or CHD w/DM | | &lt; 70 | > 70 | > 70 | | | High | CHD or CHD equivalents ( > 20%) | 100 | > 100 | | | Moderately high | 2+ risk factors (10-year risk, 10~20%) | 130 | > 130 | | | Moderate | 2+ risk factors (10-year ri Source: 醫(三)第1冊心胸內_第一篇、心臟內科_乙、高血脂、動脈粥狀硬化 Page 45-58.
+- ACS, acute coronary syndrome; CHD, coronary heart disease; CRF, coronary risk factors. Ref.: Circulation 2004; 110:227 [ATP III Update 2004] Source: 醫(三)第1冊心胸內_第一篇、心臟內科_乙、高血脂、動脈粥狀硬化 Page 45-58.
+- a. 「ACS」或「CHD 合併糖尿病」屬於 Very high risk group, 建議 LDL 目標 50%(有因此而發生過 TIA、中風);(3)10-year risk for CHD 大於 20%。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_乙、高血脂、動脈粥狀硬化 Page 45-58.
+- ...ardia)與 V4-V6 有 ST 段下降,胸部 X 光片呈現心臟肥大與肺水腫,對於張先生此次到急診的診斷,下列何者最不恰當? - (A) 心臟衰竭 - (B) 肺心症 (cor pulmonale) - (C) 急性肺水腫 - (D) 急性冠心症 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_甲、胸腔科基本知識 Page 231-258.
+- (B) ST 段上升型心肌梗塞(STEMI) Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_甲、胸腔科基本知識 Page 231-258.
+- ...Neuropathy , Rifampin $\rightarrow$ Red $\sim$ Orange urine , Ethambutol $\rightarrow$ Eye neuritis , PZA $\rightarrow$ UA $\circ$ - 1. 臨床使用: - (1) HERZ\*2 個月(加強期) + HER\*4 個月(持續期), Isoniazid、Rifampin 是主力, 若對這兩個藥物都有抗藥性,則稱為多重抗藥性結核(MDRTB)。 - (2) 但臨床上為了避免抗藥性菌株,常以多種(四個)藥物合併使用。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_己、結核 Page 307-320.
+- (4) Pyrazinamide (PZA) → UA: 25 mg/kg, 最多 2,000 mg qd - a. 對巨噬細胞內酸性(pH 5.5)環境中生長緩慢的結核菌最具殺菌力。 - b. 與 INH 及 RMP 同時使用會增加肝毒性的機會。 - c. PZA 會干擾尿酸代謝而導致高尿酸血症,血清尿酸濃度小於 13 mg/dL 時,通常不需要藥物治療。偶爾合併關節痛,以水楊酸劑(salicylates)即可緩解。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_己、結核 Page 307-320.
 
 ## Clinical Caveats
 

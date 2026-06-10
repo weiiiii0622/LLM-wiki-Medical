@@ -35,16 +35,16 @@ tags:
 
 ## Key Details From Sources
 
-- (B) 10% 發生於 multiple endocrine neoplasia (MEN) type II 之病人 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- #### 戊、多發性內分泌腫瘤症候群 (Multiple endocrine neoplasm, MEN, syndrome) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- B. MEN I (染色體 11q13 上的 MENIN 基因異常) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- C. MEN II (染色體 10q 上的 RET proto-oncogene 突變) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- 2. 通常是散發性,但也有可能跟遺傳有關或是和 MEN I、IIA 相關。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (D) 3. 48 歲男性,患有 multiple endocrine neoplasia type 1 (MEN type 1) 合併 hyperparathyroidism,於 10 年前接受副甲狀腺切除手術,之後血鈣及 iPTH 皆正常,惟最近追蹤抽血檢查顯示:iPTH 為 132 pg/mL,血鈣為 10.8 mg/dL,則最適宜的診斷為: Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 2. 最常見,有5% 是惡性,10% 為多發性(多跟 MEN I 有關)。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 2. 第二常見, 75% 是 sporadic, 25% 是和 MEN I 有關。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
+- (B) 10% 發生於 multiple endocrine neoplasia (MEN) type II 之病人 Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- #### 戊、多發性內分泌腫瘤症候群 (Multiple endocrine neoplasm, MEN, syndrome) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258.
+- B. MEN I (染色體 11q13 上的 MENIN 基因異常) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258.
+- C. MEN II (染色體 10q 上的 RET proto-oncogene 突變) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258.
+- 2. 通常是散發性,但也有可能跟遺傳有關或是和 MEN I、IIA 相關。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
+- (D) 3. 48 歲男性,患有 multiple endocrine neoplasia type 1 (MEN type 1) 合併 hyperparathyroidism,於 10 年前接受副甲狀腺切除手術,之後血鈣及 iPTH 皆正常,惟最近追蹤抽血檢查顯示:iPTH 為 132 pg/mL,血鈣為 10.8 mg/dL,則最適宜的診斷為: Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
+- 2. 甲狀腺髓質癌 (medullary thyroid carcinoma, MTC): - (1) 長自濾泡旁細胞(parafollicular or C-cells),約佔甲狀腺癌的 5~10%。 - (2) 會分泌大量降鈣素 (calcitonin),與 CEA 皆可作為 tumor marker。 - (3) 可局部淋巴轉移和經血行性遠端轉移。 - (4) 病理:基質具類澱粉 (amyloid = calcitonin 片段) 堆積。 - (5) 分為散發性(sporadic)或是遺傳性(MEN IIA或IIB):散發性較常見,約 25%的MTC是遺傳性。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
+- \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
+- 2. 最常見,有5% 是惡性,10% 為多發性(多跟 MEN I 有關)。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丙、胰島細胞瘤 Page 241-246.
+- 2. 第二常見, 75% 是 sporadic, 25% 是和 MEN I 有關。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丙、胰島細胞瘤 Page 241-246.
 
 ## Clinical Caveats
 

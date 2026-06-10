@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- B. 肛裂 (Anal fissure) 177 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
-- #### B. 肛裂 (Anal fissure) Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
-- 2. Triad:臨近的外痔(sentinel pile),增生性乳凸(hypertrophic papilla)及肛裂中清晰可見的內括約肌,肛裂周圍的結疤。 Source: [[sources/med5-book2-ch17|壬、其它肛門疾病]].
-- ...期 | 少見 | | | | 轉大腸癌機率 High risk: 10~30% | | Low risk: 7% (stricture site) | | | | 腸外症狀 | 關節炎、虹膜炎、壞疽性膿皮、硬化性膽管炎 | 關節炎、虹膜炎、肛裂、肛門瘻管、肛圍膿瘍、膽結石、腎結石 | | | | 診斷 contrast X-ray、endoscopy、biopsy | | endoscopy \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Les Source: [[sources/med5-book2-ch14|己、發炎性腸炎]].
+- B. 肛裂 (Anal fissure) 177 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_壬、其它肛門疾病 Page 189-195.
+- #### B. 肛裂 (Anal fissure) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_壬、其它肛門疾病 Page 189-195.
+- 2. Triad:臨近的外痔(sentinel pile),增生性乳凸(hypertrophic papilla)及肛裂中清晰可見的內括約肌,肛裂周圍的結疤。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_壬、其它肛門疾病 Page 189-195.
+- ...期 | 少見 | | | | 轉大腸癌機率 High risk: 10~30% | | Low risk: 7% (stricture site) | | | | 腸外症狀 | 關節炎、虹膜炎、壞疽性膿皮、硬化性膽管炎 | 關節炎、虹膜炎、肛裂、肛門瘻管、肛圍膿瘍、膽結石、腎結石 | | | | 診斷 contrast X-ray、endoscopy、biopsy | | endoscopy \circ contrast X-ray \circ biopsy | | | | 隱窩膿瘍 (crypt abscess) 常見 | | 少見 | | | | 內科療法 | | | | | | 5-aminosalicylate (ASA) | 適合 mild attack | Les Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_己、發炎性腸炎 Page 157-162.
 
 ## Clinical Caveats
 

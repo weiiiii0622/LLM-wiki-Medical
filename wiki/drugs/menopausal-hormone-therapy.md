@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- F. 更年期及荷爾蒙治療 (Menopause and menopausal hormone therapy) 343 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ### F. 更年期及荷爾蒙治療 (Menopause and menopausal hormone therapy) Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- 8. 更年期荷爾蒙療法(Menopausal hormone therapy, MHT): - (1) 適應症:緩解更年期症狀,如熱潮紅和生殖泌尿道症狀。 - (2) 禁忌症: Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- F. 更年期及荷爾蒙治療 (Menopause and menopausal hormone therapy) 343 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- ### F. 更年期及荷爾蒙治療 (Menopause and menopausal hormone therapy) Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- 8. 更年期荷爾蒙療法(Menopausal hormone therapy, MHT): - (1) 適應症:緩解更年期症狀,如熱潮紅和生殖泌尿道症狀。 - (2) 禁忌症: Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
 
 ## Clinical Caveats
 

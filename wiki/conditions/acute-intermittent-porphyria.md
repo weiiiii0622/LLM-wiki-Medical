@@ -31,9 +31,9 @@ heme synthesis 缺陷造成腹痛、神經精神症狀、自律神經異常與 h
 
 ## Key Details From Sources
 
-- (4) 禁忌症:紫質症(porphyria)患者,會造成紫質的沉積,嚴重可能致死。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
-- 3. 禁忌症:避免直射眼球造成傷害,紫外線須避免用在癩皮病(pellagra)、紫質症(porphyria)或其他對光過敏的患者。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
-- V. 其他 185 - A. 紫質症 (Porphyria) 185 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- (4) 禁忌症:紫質症(porphyria)患者,會造成紫質的沉積,嚴重可能致死。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
+- 3. 禁忌症:避免直射眼球造成傷害,紫外線須避免用在癩皮病(pellagra)、紫質症(porphyria)或其他對光過敏的患者。 Source: 醫(六)第3冊復健_庚、物理治療儀器 Page 179-186.
+- V. 其他 185 - A. 紫質症 (Porphyria) 185 Source: 醫(四)第4冊神內_辛、肌肉病變 Page 183-200.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ## E. 正常壓力水腦症(Normal pressure hydrocephalus, NPH) Source: [[sources/med5-book1-ch19|癸、水腦症]].
-- (AC) 2. 常壓性水腦症 (normal pressure hydrocephalus, NPH) 經過腦室引108(二)專流手術後,最容易改善的症狀是下列何者?醫五-9 - (A) 尿失禁 Source: [[sources/med5-book1-ch19|癸、水腦症]].
-- 【詳解】NPH 的三個典型症狀中,尿失禁和步態不穩在做 VP shunt 以後可以明顯獲得症狀改善,失智方面由於牽涉到組織病理變化 (neurodegenerative),其症狀改善相較於另外兩者較不顯著。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
+- ## E. 正常壓力水腦症(Normal pressure hydrocephalus, NPH) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症 Page 239-244.
+- (AC) 2. 常壓性水腦症 (normal pressure hydrocephalus, NPH) 經過腦室引108(二)專流手術後,最容易改善的症狀是下列何者?醫五-9 - (A) 尿失禁 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症 Page 239-244.
+- 【詳解】NPH 的三個典型症狀中,尿失禁和步態不穩在做 VP shunt 以後可以明顯獲得症狀改善,失智方面由於牽涉到組織病理變化 (neurodegenerative),其症狀改善相較於另外兩者較不顯著。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症 Page 239-244.
 
 ## Clinical Caveats
 

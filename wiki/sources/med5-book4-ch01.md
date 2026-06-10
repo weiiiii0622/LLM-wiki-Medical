@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁.md
+raw_source_title: "醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁"
+raw_source_file: "raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁.md"
+page_start: 17
+page_end: 24
+canonical_citation: "醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24"
 book: 醫(五)第4冊胸外小兒外
 chapter_order: 1
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第4冊胸外小兒外
 - Chapter file: `raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁.md`
+- Pages covered: 17-24
+- Canonical citation: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- (d) 植入人工陰莖海綿體支撐器:如果以上三種方法皆不適用,可考慮植入 人工陰莖。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- b. 手術 (surgical): - (a) 血管手術、血管支架植入: - i. 陰莖外動脈問題:以手術方式處理,如血管繞道。 - ii. 陰莖血管支架植入。 - (b) 人工陰莖 (Penile prosthesis)。 Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (d) 植入人工陰莖海綿體支撐器:如果以上三種方法皆不適用,可考慮植入 人工陰莖。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- b. 手術 (surgical): - (a) 血管手術、血管支架植入: - i. 陰莖外動脈問題:以手術方式處理,如血管繞道。 - ii. 陰莖血管支架植入。 - (b) 人工陰莖 (Penile prosthesis)。 Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### c. 包莖 (phimosis): Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (b) 流行病學:成年後的包莖多是因發炎引起。先天包莖> 90% 在三歲前可以自行退開,僅 1% 會持續至成年後。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (c) 臨床表徵:通常無症狀。另外可能產生併發症: - i. 反覆包皮龜頭炎(balanoposthitis): 最常見的併發症。 - ii. 嵌頓性包莖(paraphimosis):將包皮退至龜頭露出,卻無法回推,會 造成龜頭部分血液循環不良,長時間有組織壞死的危險。 - iii. 陰莖癌:反覆發炎造成包皮部分容易產生鱗狀上皮癌(SCC)。 - iv. 性傳染病:包皮過長易藏汙納垢使 HIV、gonorrhea、syphilis 的感染率升高。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- #### c. 包莖 (phimosis): Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- (b) 流行病學:成年後的包莖多是因發炎引起。先天包莖> 90% 在三歲前可以自行退開,僅 1% 會持續至成年後。 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- (c) 臨床表徵:通常無症狀。另外可能產生併發症: - i. 反覆包皮龜頭炎(balanoposthitis): 最常見的併發症。 - ii. 嵌頓性包莖(paraphimosis):將包皮退至龜頭露出,卻無法回推,會 造成龜頭部分血液循環不良,長時間有組織壞死的危險。 - iii. 陰莖癌:反覆發炎造成包皮部分容易產生鱗狀上皮癌(SCC)。 - iv. 性傳染病:包皮過長易藏汙納垢使 HIV、gonorrhea、syphilis 的感染率升高。 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
 
 ## Clinical Caveats
 

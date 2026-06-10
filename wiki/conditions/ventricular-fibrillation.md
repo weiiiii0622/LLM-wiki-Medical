@@ -39,18 +39,18 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- (4) 心臟方面輕微低體溫會 bradycardia,接著 Af和 Vf。 Source: [[sources/med5-book1-ch04|丁、外科併發症]].
-- 【詳解】Epinephrine 在兒童急救的使用時機為病人出現心臟停止的心律(VF、pulseless VT、asystole、PEA)。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...rolonged Q-T interval外,也會引起其它心律不整如 atrial fibrillation、atrioventricular block、atrioventricular dissociation、bradycardia、ventricular fibrillation、ventricular tachycardia。Haloperidol 除了會造成 prolonged Q-T interval外 ECG上會有不正常的T波(prolonged ventricular repolarization)。torsades de pointes、ventricular arrhythmia亦是常見的心律不整。Acetaminophen 在心血管方面的副作用有 peripheral edema、tachyca Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...T wave)PR 延長 | | K = 8-9 mEq/L | \\\\\ | P 波變平,甚至 Sinus arrestQRS 變寬 | | K > 10 mEq/L | | Sine wave Cardiac standstill Ventricular fibrillation | Source: [[sources/med3-book3-ch02|乙、離子平衡]].
-- (b) Ventricular fibrillation (VF): 這種心律常見於垂死的心臟,也是猝死中最常見的心律不整。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- 心室顫動 (ventricular fibrillation, VF) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- 1. 2010 年新版 BLS 步驟的 A-B-C 變為 C-A-B - (1) 舊版作法: 先打開呼吸道(A)後給予2次人工呼吸(B),接著再進行胸部按壓(C); 新版建議在人工呼吸(AB)前開始胸部按壓(C)。 - (2) 理由:經過統計,有人目擊的心臟停止中,需及早胸部按壓(C)和去顫的心室顫動或無脈搏心室心搏過速存活率最高。加上施救者常為了打開呼吸道或取得隔離裝置 進行口對口人工呼吸而延誤進行胸部按壓及電擊。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (b) β blocker: 用來使心跳降到 50~60 / 分而減緩症狀,有證據顯示 STEMI 病患使用 β blocker 可減少再次梗塞及 Ventricular fibrillation 的風險。[編按:台灣目前臨床上少在急性期給予 β blocker] Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...(Harrison p1541) - (a) VPC (Ventricular premature contracture): - i. 在過去,對有 Frequent VPC 的 STEMI 病患會預防性給予 Lidocaine 以減少 VF 的發生,但後來研究發現,並無法減少死亡率,甚至增加 Asystole、Bradycardia 的危險,故現在不建議預防性使用 Lidocaine。 - ii. 幾乎所有 STEMI 病患都會有 VPC,常規給予 $\beta$ blocker 能減少 Ventricular ectopic activity;低鉀、低鎂是 VF 的危險因子,建議維持 K>4.5,Mg >2.0。 - (b) VT (Ventricular tachyc Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...nin) 升高,通常可持續一週 (C) 通常到院前死亡是因為急性心衰竭 (D) 下壁心肌梗塞 (inferior wall myocardial infarction) 病患例行要 做右前胸壁心電圖 【詳解】應是致命性心律不整 VT or Vf。 (D) 9. 下列何種藥物不可使用於 non-ST elevation myocardial infarction 或不 106(一)專 醫三-22 穩定心絞痛患者? (A) aspirin (B) low-molecular-weight heparin Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...| | | (syncope),2分鐘後自然甦醒。家屬並未發現有尿、糞失禁現象。 | | | | 病人昏厥最可能的原因為何? | | | | (A) 姿勢性低血壓 (orthostatic hypotension) | | | | (B) 心室顫動 (ventricular fibrillation) | | | | (C) 心因性休克 (cardiogenic shock) | | | | (D) 癲癇發作 (seizure) | | | (B) | 2. 有關昏厥(syncope)之敘述,下列何者錯誤? | 103(一)專 | | | (A) 昏厥是指暫時性意識喪失,且能自行恢復 | 醫三-18 | | | (B) 電腦斷層檢查是最重要的診斷工具 | | | | (C) 自律 Source: [[sources/med3-book1-ch10|癸、暈 厥]].
+- (2) 高血鉀(hyperkalemia):症狀有無力、噁心、麻痺、心悸,EKG 會看到 T 波變高→ PR 延長→ QRS complex 變寬→ Sine wave、VF 或 PEA,高血鉀最擔心心律不整的問題。 - a. Transcellular shift:酸血症、insulin deficiency、beta-blocker、橫紋肌溶解症、tumor lysis syndrome 等導致鉀離子由胞內往胞外釋放。 - b. 腎功能衰竭。 - c. Hypoaldosteronism • - d. 治療可給予 Calcium gluconate (作用時間數分鐘內,最快)、胰島素或 beta agonist、碳酸根離子、利尿劑、Kalimate,穩定細胞膜電位,避免心律不整。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_乙、電解質與酸鹼平衡 Page 27-34.
+- (4) 心臟方面輕微低體溫會 bradycardia,接著 Af和 Vf。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_丁、外科併發症 Page 49-58.
+- 【詳解】Epinephrine 在兒童急救的使用時機為病人出現心臟停止的心律(VF、pulseless VT、asystole、PEA)。 Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
+- ...rolonged Q-T interval外,也會引起其它心律不整如 atrial fibrillation、atrioventricular block、atrioventricular dissociation、bradycardia、ventricular fibrillation、ventricular tachycardia。Haloperidol 除了會造成 prolonged Q-T interval外 ECG上會有不正常的T波(prolonged ventricular repolarization)。torsades de pointes、ventricular arrhythmia亦是常見的心律不整。Acetaminophen 在心血管方面的副作用有 peripheral edema、tachyca Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
+- ...T wave)PR 延長 | | K = 8-9 mEq/L | \\\\\ | P 波變平,甚至 Sinus arrestQRS 變寬 | | K > 10 mEq/L | | Sine wave Cardiac standstill Ventricular fibrillation | Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_乙、離子平衡 Page 35-70.
+- (b) Ventricular fibrillation (VF): 這種心律常見於垂死的心臟,也是猝死中最常見的心律不整。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丁、心電圖判讀、心律不整 Page 93-150.
+- 心室顫動 (ventricular fibrillation, VF) Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丁、心電圖判讀、心律不整 Page 93-150.
+- 1. 2010 年新版 BLS 步驟的 A-B-C 變為 C-A-B - (1) 舊版作法: 先打開呼吸道(A)後給予2次人工呼吸(B),接著再進行胸部按壓(C); 新版建議在人工呼吸(AB)前開始胸部按壓(C)。 - (2) 理由:經過統計,有人目擊的心臟停止中,需及早胸部按壓(C)和去顫的心室顫動或無脈搏心室心搏過速存活率最高。加上施救者常為了打開呼吸道或取得隔離裝置 進行口對口人工呼吸而延誤進行胸部按壓及電擊。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丁、心電圖判讀、心律不整 Page 93-150.
+- (b) β blocker: 用來使心跳降到 50~60 / 分而減緩症狀,有證據顯示 STEMI 病患使用 β blocker 可減少再次梗塞及 Ventricular fibrillation 的風險。[編按:台灣目前臨床上少在急性期給予 β blocker] Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- ...(Harrison p1541) - (a) VPC (Ventricular premature contracture): - i. 在過去,對有 Frequent VPC 的 STEMI 病患會預防性給予 Lidocaine 以減少 VF 的發生,但後來研究發現,並無法減少死亡率,甚至增加 Asystole、Bradycardia 的危險,故現在不建議預防性使用 Lidocaine。 - ii. 幾乎所有 STEMI 病患都會有 VPC,常規給予 $\beta$ blocker 能減少 Ventricular ectopic activity;低鉀、低鎂是 VF 的危險因子,建議維持 K>4.5,Mg >2.0。 - (b) VT (Ventricular tachyc Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- ...nin) 升高,通常可持續一週 (C) 通常到院前死亡是因為急性心衰竭 (D) 下壁心肌梗塞 (inferior wall myocardial infarction) 病患例行要 做右前胸壁心電圖 【詳解】應是致命性心律不整 VT or Vf。 (D) 9. 下列何種藥物不可使用於 non-ST elevation myocardial infarction 或不 106(一)專 醫三-22 穩定心絞痛患者? (A) aspirin (B) low-molecular-weight heparin Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- ...| | | (syncope),2分鐘後自然甦醒。家屬並未發現有尿、糞失禁現象。 | | | | 病人昏厥最可能的原因為何? | | | | (A) 姿勢性低血壓 (orthostatic hypotension) | | | | (B) 心室顫動 (ventricular fibrillation) | | | | (C) 心因性休克 (cardiogenic shock) | | | | (D) 癲癇發作 (seizure) | | | (B) | 2. 有關昏厥(syncope)之敘述,下列何者錯誤? | 103(一)專 | | | (A) 昏厥是指暫時性意識喪失,且能自行恢復 | 醫三-18 | | | (B) 電腦斷層檢查是最重要的診斷工具 | | | | (C) 自律 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_癸、暈厥 Page 217-222.
 
 ## Clinical Caveats
 

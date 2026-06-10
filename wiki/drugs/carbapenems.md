@@ -33,12 +33,12 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- 1. 藥物分類:有 Penicillin、Cephalosporin、Carbapenem、Monobactam等幾大類,結構如下: Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- \* 由此圖可知, Penicillin、Cephalosporin、Carbapenem 都有兩個環,結構類似。臨床上,病人若對 Penicillin 過敏,要小心結構最類似的 Carbapenem,而對 Cephalosporin 也很有可能過敏。然而, Monobactam 結構僅有一個環,因此,對 Penicillin 過敏可用 Monobactam 替代。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...orin 都有抗藥性;即 AmpC β-lactamases 可水解第一~ 二代 Cephalosporin 的 β lactam。 - b. 治療首選藥物是第四代 Cephalosporin 的 Cefepime、Cefpirome 或 Carbapenem 類 的 Imipenem、Meropenem。 - (2) Extended-spectrum β-lactamases (ESBL) - a. 某些 *E. coli、Klebsiella species* 帶有 extended-spectrum beta-lactamases (ESBL),可水解 Penicillin、第一到第四代全部的 Cephalosporins (除了 Cephamycin)、Monobactams 的 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...ococcus aureus)。下列 | 8三-63 | | | 那一種抗生素不適合? | 10010 and Diaphytococcus cureus / / / j | 四 00 | | | (A) Vancomycin | (B) Meropenem | | | | (C) Linezolid | (D) Daptomycin | | | (B) | 6. 下列有關骨髓炎(osteomyelit | tis)的敘述,何者錯誤? | 98(一)專 | | | (A) ESR 可作為治療反應的進 | | 醫三-15 | | | (B) Streptococcus 是骨髓炎最 | | | | | (C) 小孩子的骨髓炎好發於長 | | | | | (D) 治療時間常需要 4~6 星期 | Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- (D) 4. 下列有關類鼻疽(melioidosis)之敘述,何者錯誤? 106(-)專(A) 致病菌為 Burkholderia pseudomallei 醫三-57 (B) 最常見臨床表現為急性社區型肺炎 - (C) 最佳治療選擇為 ceftazidime 或 carbapenems 等後線抗生素 - (D) 療程約4週內,復發率低 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
+- (1) 手術感染最常培養出的厭氧菌為 Bacteroides fragilis, 腹腔內感染時,須考慮到此菌種。其中 Bacteroides fragilis 和 Bacteroides thetaiotaomicron 是對 β-lactam antibiotics 最具有抗藥性的厭氧菌種,針對此種菌會選擇 metronidazole、clindamycin或是 meropenem 類的藥物。(E. coli 則是大腸最常見的 aerobic 菌種)。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_戊、外科感染 Page 59-70.
+- 1. 藥物分類:有 Penicillin、Cephalosporin、Carbapenem、Monobactam等幾大類,結構如下: Source: 醫(三)第3冊腎內感染_第二篇、感染科_庚、細菌抗生素 Page 197-216.
+- \* 由此圖可知, Penicillin、Cephalosporin、Carbapenem 都有兩個環,結構類似。臨床上,病人若對 Penicillin 過敏,要小心結構最類似的 Carbapenem,而對 Cephalosporin 也很有可能過敏。然而, Monobactam 結構僅有一個環,因此,對 Penicillin 過敏可用 Monobactam 替代。 Source: 醫(三)第3冊腎內感染_第二篇、感染科_庚、細菌抗生素 Page 197-216.
+- ...orin 都有抗藥性;即 AmpC β-lactamases 可水解第一~ 二代 Cephalosporin 的 β lactam。 - b. 治療首選藥物是第四代 Cephalosporin 的 Cefepime、Cefpirome 或 Carbapenem 類 的 Imipenem、Meropenem。 - (2) Extended-spectrum β-lactamases (ESBL) - a. 某些 *E. coli、Klebsiella species* 帶有 extended-spectrum beta-lactamases (ESBL),可水解 Penicillin、第一到第四代全部的 Cephalosporins (除了 Cephamycin)、Monobactams 的 Source: 醫(三)第3冊腎內感染_第二篇、感染科_庚、細菌抗生素 Page 197-216.
+- ...ococcus aureus)。下列 | 8三-63 | | | 那一種抗生素不適合? | 10010 and Diaphytococcus cureus / / / j | 四 00 | | | (A) Vancomycin | (B) Meropenem | | | | (C) Linezolid | (D) Daptomycin | | | (B) | 6. 下列有關骨髓炎(osteomyelit | tis)的敘述,何者錯誤? | 98(一)專 | | | (A) ESR 可作為治療反應的進 | | 醫三-15 | | | (B) Streptococcus 是骨髓炎最 | | | | | (C) 小孩子的骨髓炎好發於長 | | | | | (D) 治療時間常需要 4~6 星期 | Source: 醫(三)第3冊腎內感染_第二篇、感染科_乙、軟組織感染 Page 147-152.
+- (D) 4. 下列有關類鼻疽(melioidosis)之敘述,何者錯誤? 106(-)專(A) 致病菌為 Burkholderia pseudomallei 醫三-57 (B) 最常見臨床表現為急性社區型肺炎 - (C) 最佳治療選擇為 ceftazidime 或 carbapenems 等後線抗生素 - (D) 療程約4週內,復發率低 Source: 醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症 Page 165-196.
 
 ## Clinical Caveats
 

@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- (4) 小分子藥物: Janus kinase (JAK) inhibitor 包括 tofacitinib (抑制 JAK1, 3) 、baricitinib (抑制 JAK1, 2) 可以抑制 cytokine receptor 下游訊號傳導減緩發炎。 Source: [[sources/med3-book4-ch02|乙、類風濕性關節炎]].
-- 2.95% 病患帶有 JAK2-V617 基因突變。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- ...3.8 g/dL,血小板 446,000/μL,尿酸 7.6 mg/dL(參考區間 2.6~7.5)。骨髓檢查結果呈現 hypercellularity,而且紅血球系列、白血球系列與巨核細胞(megakaryocyte)均有明顯增生的現象。JAK2 gene 有V617F 的突變。以下關於這位病人最可能的疾病之診斷與治療,何者錯誤? Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
-- (A) Interferon 可以縮小脾臟,降低各種血球數目,也可以減少突變 基因 JAK2 V617F 之 allelic burden Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
+- (4) 小分子藥物: Janus kinase (JAK) inhibitor 包括 tofacitinib (抑制 JAK1, 3) 、baricitinib (抑制 JAK1, 2) 可以抑制 cytokine receptor 下游訊號傳導減緩發炎。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_乙、類風濕性關節炎 Page 33-44.
+- 2.95% 病患帶有 JAK2-V617 基因突變。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病 Page 173-182.
+- ...3.8 g/dL,血小板 446,000/μL,尿酸 7.6 mg/dL(參考區間 2.6~7.5)。骨髓檢查結果呈現 hypercellularity,而且紅血球系列、白血球系列與巨核細胞(megakaryocyte)均有明顯增生的現象。JAK2 gene 有V617F 的突變。以下關於這位病人最可能的疾病之診斷與治療,何者錯誤? Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病 Page 173-182.
+- (A) Interferon 可以縮小脾臟,降低各種血球數目,也可以減少突變 基因 JAK2 V617F 之 allelic burden Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病 Page 173-182.
 
 ## Clinical Caveats
 

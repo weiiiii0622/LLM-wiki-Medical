@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 3. 下列關於胰臟神經內分泌腫瘤之敘述,何者錯誤? 108(二)專 (A) 胰臟功能性神經內分泌腫瘤以胰島素瘤(insulinoma) 最多 醫五-32 (B) insulinoma 的 Whipple's triad 診斷包括:低血糖,因低血糖 出現的症狀及給與葡萄糖後症狀立刻緩解三項 (C) insulinoma 大部分是 hypovascularity。在 contrast enhanced CT 下,易形成完全低顯影的腫塊影像 (D) 發生率男、女性差不多 【 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- (C) 3. 下列關於胰臟神經內分泌腫瘤之敘述,何者錯誤? 108(二)專 (A) 胰臟功能性神經內分泌腫瘤以胰島素瘤(insulinoma) 最多 醫五-32 (B) insulinoma 的 Whipple's triad 診斷包括:低血糖,因低血糖 出現的症狀及給與葡萄糖後症狀立刻緩解三項 (C) insulinoma 大部分是 hypovascularity。在 contrast enhanced CT 下,易形成完全低顯影的腫塊影像 (D) 發生率男、女性差不多 【 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
 
 ## Clinical Caveats
 

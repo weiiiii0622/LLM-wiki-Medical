@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- d. 【補充】Suprapontine lesion of neurogenic bladder: 典型表現為逼尿肌過度反射(detrusor hyperreflexia) 但未合併逼尿肌 括約肌共濟失調。代表疾病:腦中風、巴金森氏症。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- e. 【補充】Peripheral lesion of neurogenic bladder: 最常見糖尿病併感覺神經病變,造成膀胱感覺下降、慢性膀胱過度擴張、餘尿量增加、和膀胱適應性下降。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- II. 下泌尿道功能異常(排尿困難、 尿失禁、神經異常膀胱) 137 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- 評估下泌尿道功能異常程度與成因,包括排尿困難、尿失禁、神經異常膀胱。(見後詳述) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- b. 異常的尿流曲線圖,形態改變且最大尿流速 下列何者不會造成 flaccid neuropathic bladder ? (A) S2-S4 spinal cord 受傷 (B) 頸椎受傷 (cervical spine injury) 且有 quadriplegia (C) Myelodysplasia 造成 anterior horn cell 無法正常發育 (D) Poliovirus 感染並破壞 anterior horn cell of spinal cord | 109(一)專醫五-68 | |-----|---------------- Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
+- d. 【補充】Suprapontine lesion of neurogenic bladder: 典型表現為逼尿肌過度反射(detrusor hyperreflexia) 但未合併逼尿肌 括約肌共濟失調。代表疾病:腦中風、巴金森氏症。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- e. 【補充】Peripheral lesion of neurogenic bladder: 最常見糖尿病併感覺神經病變,造成膀胱感覺下降、慢性膀胱過度擴張、餘尿量增加、和膀胱適應性下降。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- II. 下泌尿道功能異常(排尿困難、 尿失禁、神經異常膀胱) 137 Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
+- 評估下泌尿道功能異常程度與成因,包括排尿困難、尿失禁、神經異常膀胱。(見後詳述) Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
+- b. 異常的尿流曲線圖,形態改變且最大尿流速 下列何者不會造成 flaccid neuropathic bladder ? (A) S2-S4 spinal cord 受傷 (B) 頸椎受傷 (cervical spine injury) 且有 quadriplegia (C) Myelodysplasia 造成 anterior horn cell 無法正常發育 (D) Poliovirus 感染並破壞 anterior horn cell of spinal cord | 109(一)專醫五-68 | |-----|---------------- Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
 
 ## Clinical Caveats
 

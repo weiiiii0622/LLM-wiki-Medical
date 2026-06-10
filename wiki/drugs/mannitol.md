@@ -41,17 +41,17 @@ tags:
 
 ## Key Details From Sources
 
-- (C) mannitol 與利尿劑 (furosemide) 對急性腎衰竭病人之幫助 不大 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- (5) 處理:手術治療為主,藥水治療為輔。但緊急處理時可先給 acetazolamide(降 眼壓),或局部給 2%pilocarpine(縮瞳,使隅角張開)以及止痛和止吐劑,病人須仰躺一小時,若眼壓仍無降低可口服給予 glycerol 或 IV 20% mannitol(但 須小心病人有糖尿病),最後實施虹膜造孔術。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- ...需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 | 針對短暫的降眼壓救急用(如 | 副作用:血壓上升。 | □服:glycerol、isosorbide | | | 急性隅角閉鎖性青光眼)。 | | IV: mannitol | Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- (NTG)、吸氧吸入(95% 氧和 5% 二氧化碳)、靜脈注射降眼壓藥物(Diamox 或 mannitol)、前房穿刺術等,不過效果均不佳。\*可記憶為 "MONA": M 是 眼球按摩(ocular massage)和 mannitol,O 是氧氣,N 是 NTG,A 是前房穿刺 (anterior chamber paracentesis)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- 2. 處理:儘快緩解血管痙攣,擴張血管以疏通栓子至周邊血管。平躺、眼球按摩、舌下含服硝酸甘油(NTG)、吸氧吸入(95%氧和5%二氧化碳)、靜脈注射降眼壓藥物(Dimox或 mannitol)、前房穿刺術等,不過效果均不佳。 - \* MONA: M 是眼球按摩和 mannitol, O 是氧氣, N 是 NTG, A 是前房穿刺。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
-- | 單極電燒 | 因怕會導電造成 thermal injury, 必須選用 nonconductive | | |------|------------------------------------------------|--| | | fluid (如 mannitol、Glycine) | | | 雙極電燒 | 無上述疑慮,可使用 isotonic fluid (如 Normal saline、LR), | | | | 可避免水中毒及電解質不平衡 | | Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
-- 【詳解】子宮鏡使用單極電燒,怕會導電造成 thermal injury, 必須選用 nonconductive fluid (如 mannitol、glycine),而不能使 用含有離子的生理食鹽水。 Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
-- 【詳解】(A) 單極電刀因怕會導電造成 thermal injury,必須選用 nonconductive fluid (如 mannitol、sorbital); (B)、(D) 雙極電刀無上述疑慮,可使用 isotonic fluid (如 Normal saline、LR),可避免水中毒及電解質不平衡。 Source: [[sources/med6-book1-ch18|乙、子宮鏡(Hysteroscopy)]].
-- (2) 使用 Mannitol 降低局部壓力。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- 11. 給予 IV 20% Mannitol 100 cc 降腦壓。(關於 IICP,後面另有章節詳述) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- (B) 使用 mannitol 或 glycerol 等藥物 Source: [[sources/med5-book1-ch12|丙、顱內壓]].
+- (C) mannitol 與利尿劑 (furosemide) 對急性腎衰竭病人之幫助 不大 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- (5) 處理:手術治療為主,藥水治療為輔。但緊急處理時可先給 acetazolamide(降 眼壓),或局部給 2%pilocarpine(縮瞳,使隅角張開)以及止痛和止吐劑,病人須仰躺一小時,若眼壓仍無降低可口服給予 glycerol 或 IV 20% mannitol(但 須小心病人有糖尿病),最後實施虹膜造孔術。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- ...需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 | 針對短暫的降眼壓救急用(如 | 副作用:血壓上升。 | □服:glycerol、isosorbide | | | 急性隅角閉鎖性青光眼)。 | | IV: mannitol | Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- (NTG)、吸氧吸入(95% 氧和 5% 二氧化碳)、靜脈注射降眼壓藥物(Diamox 或 mannitol)、前房穿刺術等,不過效果均不佳。\*可記憶為 "MONA": M 是 眼球按摩(ocular massage)和 mannitol,O 是氧氣,N 是 NTG,A 是前房穿刺 (anterior chamber paracentesis)。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- 2. 處理:儘快緩解血管痙攣,擴張血管以疏通栓子至周邊血管。平躺、眼球按摩、舌下含服硝酸甘油(NTG)、吸氧吸入(95%氧和5%二氧化碳)、靜脈注射降眼壓藥物(Dimox或 mannitol)、前房穿刺術等,不過效果均不佳。 - \* MONA: M 是眼球按摩和 mannitol, O 是氧氣, N 是 NTG, A 是前房穿刺。 Source: 醫(六)第2冊眼科_第一篇、眼科_午、眼科外傷及急診 Page 217-224.
+- | 單極電燒 | 因怕會導電造成 thermal injury, 必須選用 nonconductive | | |------|------------------------------------------------|--| | | fluid (如 mannitol、Glycine) | | | 雙極電燒 | 無上述疑慮,可使用 isotonic fluid (如 Normal saline、LR), | | | | 可避免水中毒及電解質不平衡 | | Source: 醫(六)第1冊婦產_第五篇、內視鏡_乙、子宮鏡(Hysteroscopy) Page 465-470.
+- 【詳解】子宮鏡使用單極電燒,怕會導電造成 thermal injury, 必須選用 nonconductive fluid (如 mannitol、glycine),而不能使 用含有離子的生理食鹽水。 Source: 醫(六)第1冊婦產_第五篇、內視鏡_乙、子宮鏡(Hysteroscopy) Page 465-470.
+- 【詳解】(A) 單極電刀因怕會導電造成 thermal injury,必須選用 nonconductive fluid (如 mannitol、sorbital); (B)、(D) 雙極電刀無上述疑慮,可使用 isotonic fluid (如 Normal saline、LR),可避免水中毒及電解質不平衡。 Source: 醫(六)第1冊婦產_第五篇、內視鏡_乙、子宮鏡(Hysteroscopy) Page 465-470.
+- (2) 使用 Mannitol 降低局部壓力。 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- 11. 給予 IV 20% Mannitol 100 cc 降腦壓。(關於 IICP,後面另有章節詳述) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- (B) 使用 mannitol 或 glycerol 等藥物 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_丙、顱內壓 Page 151-156.
 
 ## Clinical Caveats
 

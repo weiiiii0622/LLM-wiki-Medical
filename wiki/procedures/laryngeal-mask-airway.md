@@ -27,8 +27,8 @@ LMA 是 supraglottic airway，可作為短時間麻醉或困難氣道替代方�
 
 ## Key Details From Sources
 
-- D. 喉罩氣道(Laryngeal mask airway, LMA) 16 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
-- 4. 如果已發現困難插管,但是 bag and mask ventilation 也無法進行時: - (1) 請人幫忙。 - (2) 利用 nasopharyngeal / oropharyngeal airway 建立呼吸道。 - (3) 考慮使用 LMA 建立呼吸道。 - (4) 緊急氣管切開術。 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- D. 喉罩氣道(Laryngeal mask airway, LMA) 16 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
+- 4. 如果已發現困難插管,但是 bag and mask ventilation 也無法進行時: - (1) 請人幫忙。 - (2) 利用 nasopharyngeal / oropharyngeal airway 建立呼吸道。 - (3) 考慮使用 LMA 建立呼吸道。 - (4) 緊急氣管切開術。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- G. 手肘脱位 (Elbow dislocation) 84 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- #### G. 手肘脱位 (Elbow dislocation) Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- (C) 1. 有關肘關節駭人的傷害三合組(terrible triad injuries of the elbow), 108( 二 ) 專 下列何者除外? - (A) 鳥喙狀骨骨折 (coronoid fracture) - (B) 橈骨頭部骨折 (radial head fracture) - (C) 肱骨髁上骨折 (supracondylar fracture of humerus) - (D) 肘關節脫臼 (elbow dislocation) Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- G. 手肘脱位 (Elbow dislocation) 84 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- #### G. 手肘脱位 (Elbow dislocation) Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- (C) 1. 有關肘關節駭人的傷害三合組(terrible triad injuries of the elbow), 108( 二 ) 專 下列何者除外? - (A) 鳥喙狀骨骨折 (coronoid fracture) - (B) 橈骨頭部骨折 (radial head fracture) - (C) 肱骨髁上骨折 (supracondylar fracture of humerus) - (D) 肘關節脫臼 (elbow dislocation) Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
 
 ## Clinical Caveats
 

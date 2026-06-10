@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 第二級:侷限性的腎臟旁血腫(confined perirenal hematoma)或小於 1 公分的腎臟皮質撕裂傷(cortical laceration 1 cm),但是未傷 及集尿系統(collecting system)。 - (4) 第四級:撕裂傷影響到集尿系統或腎臟 segmental vessels 的傷害。 - (5) 第五級:腎臟主要血管(main renal artery and/or vein)的傷害或多處撕裂傷造成破碎的腎臟(shattered kidney)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- | (B) 31. 下列有關腎臟外傷的敘述,何者錯誤? | 100(一)真 | |---------------------------------------------------------|---------| | (A) 腎臟鈍傷(blunt injury)大多因腹部撞擊而發生,占腎臟外傷 | 醫五 -69 | | 發生率之 80~85% | | | (B) 腎臟鈍傷最常見為一級傷害,亦即表示傷害到腎臟髓質 | | | (C) 血尿之嚴重度與腎臟受傷之程度無關 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (2) 第二級:侷限性的腎臟旁血腫(confined perirenal hematoma)或小於 1 公分的腎臟皮質撕裂傷(cortical laceration 1 cm),但是未傷 及集尿系統(collecting system)。 - (4) 第四級:撕裂傷影響到集尿系統或腎臟 segmental vessels 的傷害。 - (5) 第五級:腎臟主要血管(main renal artery and/or vein)的傷害或多處撕裂傷造成破碎的腎臟(shattered kidney)。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- | (B) 31. 下列有關腎臟外傷的敘述,何者錯誤? | 100(一)真 | |---------------------------------------------------------|---------| | (A) 腎臟鈍傷(blunt injury)大多因腹部撞擊而發生,占腎臟外傷 | 醫五 -69 | | 發生率之 80~85% | | | (B) 腎臟鈍傷最常見為一級傷害,亦即表示傷害到腎臟髓質 | | | (C) 血尿之嚴重度與腎臟受傷之程度無關 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
 
 ## Clinical Caveats
 

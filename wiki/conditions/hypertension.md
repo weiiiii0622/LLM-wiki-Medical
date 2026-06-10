@@ -265,24 +265,24 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 心血管系統;是否有高血壓、心絞痛、心肌梗塞、心律不整的病史。若有以上疾病, 必須在深入詢問病患使用什麼藥物控制、最近的發作時間,是否有心臟節律器…等 等。若近期有心肌梗塞發作的情況,AHA 建議發生後要大於 4~6 週後再接受麻醉 手術。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- (1) 高血壓:目前建議除了利尿劑外,其他高血壓藥物術前可以正常服用,可提 醒病患以少量水吞服。對於手術的病患,利尿劑可能會造成電解質紊亂。 ACEI/ARB 類的藥物術前仍可服用,但可能會造成術中低血壓(profound hypotension)影響術中評估低血壓的準確性。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- (6) 單 胺 氧 化 酶 抑 制 劑(monoamine oxidase inhibitors, eg: phenelzine and isocarboxazid):治療 depression 的藥物,會增加細胞內 amine neurotransmitter 的濃度(eg: dopamine, epinephrine, norepinephrine and serotonin),建議術前兩週停藥,以免與 indirectly acting vasopressor,例如 ephedrine 併用時造成高血壓風暴,或與 meperidine 併用造成血清素風暴。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- 1. 發生惡性高熱時的表現可分早、晚期症狀: - (1) 早期症狀: End tidal CO, 上升、心跳加快。 - (2)晚期症狀:溫度上升、橫紋肌溶解、肌蛋白尿、代謝呼吸酸中毒、全身僵硬、 咬肌痙攣、高血壓、心臟衰竭、高血鉀、低血氧。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- 3. 症狀治療: - (1) 降溫:體表降溫,可使用冰塊、冰帽,或在冰槽內置碎冰塊將患者放在冰槽內。 中心降溫,可靜脈快速滴注冰鹽水,插鼻胃管冰水灌胃,必要時開胸、開腹用 冰水灌洗胸腹腔,甚至可採用體外循環降溫。 - (2) 矯正酸中毒可使用 bicarbonate。 - (3) 高血鉀的處理,可使用葡萄糖加胰島素靜脈滴註。 - (4) 高血壓或心律不整:一般而言,若校正好高血鉀及代謝性酸中毒,血壓就會下降,若未下降則使用降血壓藥物,但不可使用 CCB 類,因為會造成高血鉀及與dentrolene 交互作用所造成的心跳停止。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- ...PEEP | High PEEP 或 Low PEEP 使用於 mortality 的 | | | 影響仍有地區性結果的差異,故沒有定論。 | | iNO (inhaled nitric oxide) | Reduce pulmonary hypertension, improved | | | V/Q matching. → improve oxygenation,對預 | | | 後無幫助。不建議在 ARDS routine 使用, | | | 但是可用在 refractory hypoxemia 病人。 | | ECOM (Venovenous) | Severe ARDS PaO 2 /FiO 2 在 50~80 with open | | | lung ventilation • | Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- 4. 椎骨基底動脈循環不全症(Vertebrobasilar artery insufficiency, VBI) - (1) 定義: - a. 因腦部後循環灌流不足所造成的暫時性缺血症狀。 - b. 由於後循環供應延腦、小腦、橋腦、中腦、丘腦、枕葉皮質,因此當 VBI 產 牛時,會因應其灌流不足的區域伴隨不同的症狀產生。 - (2) 流行病學: - a. 好發於 50 歲以上的男性。 - b. 患有糖尿病、高血壓、高血脂。 - c. 抽菸。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- 2. 系統性 (Systemic) 原因: - (1) 凝血異常(Coagulopathy):使用 anticoagulant、NSAID,或是血友病、肝臟衰竭、尿毒症。 - (2) 其他:高血壓、粥狀動脈硬化、SLE、Wegner's granuloma。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- · Severe arterial hypertension ( > 200 mmHg SBP and /or 110 mmHg DBP) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- f. 併發症:如果高血壓的情形不加以控制,會引發併發症,甚至死亡。 - (a) Retinal Hemorrhage • - (b) CVA • - (c) SAH · seizure · death · Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- ...腦性麻痺通常發生於子宮內、生產過程或出生後三年內發生的,原因如下: - (1) 出生前:母親智能障礙、癲癇、懷孕期間感染疾病或服用的藥物所引起,例如: 德國麻疹、帶狀皰疹、輻射線、缺氧、先天腦部畸形、孕婦於懷孕期間無法有 效控制糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(spastic, 60%): 最常見,呈現上運動神經元疾病的表徵如肌肉張力高、阻力強且深 Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- 4. 前部缺血性視神經病變(anterior ischemic optic neuropathy, AION): - (1) 簡介:好發於 40~60 歲,通常為單眼,常伴有高血壓、動脈硬化、糖尿病等,或巨大細胞動脈炎(giant cell arteritis)。 - (2) 臨床症狀: 無疼痛的視力突然減退,若患巨大細胞動脈炎者,會有頭痛,顎痛, 頭皮壓痛、肌肉關節痠痛、體重減輕、食慾不振等症狀。 - (3) 徵候:視力減退(剩眼前手指數),輸入性瞳孔缺損,視神經盤蒼白水腫併有火 焰狀出血,視野水平缺損。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- 2. 危險因子: 糖尿病的持續期間 (duration),最重要!、不佳的血糖控制 (HbA1c > 7%)、懷孕、高血壓、腎病變、抽菸、肥胖、高血脂等。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- 2. 危險因子: - (1) 年紀大: > 50% 病例出現在 65 歲以上。 - (2) 全身性疾病:高血壓、高血脂、糖尿病、抽菸、肥胖等。 - (3) 遠視、小視神經盤。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- #### 高血壓性視網膜病變(Hypertensive retinopathy) Source: [[sources/med6-book2-ch12|子、視網膜]].
-- 2. 高眼壓症(Ocular hypertension): 眼壓持續超過正常人平均值(16 mmHg),但並未發現視神經、視野有青光眼性的傷害。根據統計,持續五年追蹤有 9.5% 可能會變為真正的青光眼,故必須定期追蹤檢查。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- 3. 心血管系統;是否有高血壓、心絞痛、心肌梗塞、心律不整的病史。若有以上疾病, 必須在深入詢問病患使用什麼藥物控制、最近的發作時間,是否有心臟節律器…等 等。若近期有心肌梗塞發作的情況,AHA 建議發生後要大於 4~6 週後再接受麻醉 手術。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- (1) 高血壓:目前建議除了利尿劑外,其他高血壓藥物術前可以正常服用,可提 醒病患以少量水吞服。對於手術的病患,利尿劑可能會造成電解質紊亂。 ACEI/ARB 類的藥物術前仍可服用,但可能會造成術中低血壓(profound hypotension)影響術中評估低血壓的準確性。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- (6) 單 胺 氧 化 酶 抑 制 劑(monoamine oxidase inhibitors, eg: phenelzine and isocarboxazid):治療 depression 的藥物,會增加細胞內 amine neurotransmitter 的濃度(eg: dopamine, epinephrine, norepinephrine and serotonin),建議術前兩週停藥,以免與 indirectly acting vasopressor,例如 ephedrine 併用時造成高血壓風暴,或與 meperidine 併用造成血清素風暴。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- 1. 發生惡性高熱時的表現可分早、晚期症狀: - (1) 早期症狀: End tidal CO, 上升、心跳加快。 - (2)晚期症狀:溫度上升、橫紋肌溶解、肌蛋白尿、代謝呼吸酸中毒、全身僵硬、 咬肌痙攣、高血壓、心臟衰竭、高血鉀、低血氧。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- 3. 症狀治療: - (1) 降溫:體表降溫,可使用冰塊、冰帽,或在冰槽內置碎冰塊將患者放在冰槽內。 中心降溫,可靜脈快速滴注冰鹽水,插鼻胃管冰水灌胃,必要時開胸、開腹用 冰水灌洗胸腹腔,甚至可採用體外循環降溫。 - (2) 矯正酸中毒可使用 bicarbonate。 - (3) 高血鉀的處理,可使用葡萄糖加胰島素靜脈滴註。 - (4) 高血壓或心律不整:一般而言,若校正好高血鉀及代謝性酸中毒,血壓就會下降,若未下降則使用降血壓藥物,但不可使用 CCB 類,因為會造成高血鉀及與dentrolene 交互作用所造成的心跳停止。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- ...PEEP | High PEEP 或 Low PEEP 使用於 mortality 的 | | | 影響仍有地區性結果的差異,故沒有定論。 | | iNO (inhaled nitric oxide) | Reduce pulmonary hypertension, improved | | | V/Q matching. → improve oxygenation,對預 | | | 後無幫助。不建議在 ARDS routine 使用, | | | 但是可用在 refractory hypoxemia 病人。 | | ECOM (Venovenous) | Severe ARDS PaO 2 /FiO 2 在 50~80 with open | | | lung ventilation • | Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- 4. 椎骨基底動脈循環不全症(Vertebrobasilar artery insufficiency, VBI) - (1) 定義: - a. 因腦部後循環灌流不足所造成的暫時性缺血症狀。 - b. 由於後循環供應延腦、小腦、橋腦、中腦、丘腦、枕葉皮質,因此當 VBI 產 牛時,會因應其灌流不足的區域伴隨不同的症狀產生。 - (2) 流行病學: - a. 好發於 50 歲以上的男性。 - b. 患有糖尿病、高血壓、高血脂。 - c. 抽菸。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- 2. 系統性 (Systemic) 原因: - (1) 凝血異常(Coagulopathy):使用 anticoagulant、NSAID,或是血友病、肝臟衰竭、尿毒症。 - (2) 其他:高血壓、粥狀動脈硬化、SLE、Wegner's granuloma。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- · Severe arterial hypertension ( > 200 mmHg SBP and /or 110 mmHg DBP) Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- f. 併發症:如果高血壓的情形不加以控制,會引發併發症,甚至死亡。 - (a) Retinal Hemorrhage • - (b) CVA • - (c) SAH · seizure · death · Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- ...腦性麻痺通常發生於子宮內、生產過程或出生後三年內發生的,原因如下: - (1) 出生前:母親智能障礙、癲癇、懷孕期間感染疾病或服用的藥物所引起,例如: 德國麻疹、帶狀皰疹、輻射線、缺氧、先天腦部畸形、孕婦於懷孕期間無法有 效控制糖尿病以及高血壓,甲狀腺功能異常或服用不當的藥物等。 - (2) 生產過程中:因為產程過久、產中感染、早產、胎兒窘迫或臍繞頸等,使嬰兒 發生缺氧的情形而對腦部造成傷害;以及低出生體重(小於1,500公克)。 - (3) 出生後:因腦部外傷、腦炎或腦膜炎等原因,對腦部直接或間接造成損傷,新生兒癲癇。 - (4) 腦性麻痺依神經肌肉受損的形式可分為: - a. 痙攣型(spastic, 60%): 最常見,呈現上運動神經元疾病的表徵如肌肉張力高、阻力強且深 Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- 4. 前部缺血性視神經病變(anterior ischemic optic neuropathy, AION): - (1) 簡介:好發於 40~60 歲,通常為單眼,常伴有高血壓、動脈硬化、糖尿病等,或巨大細胞動脈炎(giant cell arteritis)。 - (2) 臨床症狀: 無疼痛的視力突然減退,若患巨大細胞動脈炎者,會有頭痛,顎痛, 頭皮壓痛、肌肉關節痠痛、體重減輕、食慾不振等症狀。 - (3) 徵候:視力減退(剩眼前手指數),輸入性瞳孔缺損,視神經盤蒼白水腫併有火 焰狀出血,視野水平缺損。 Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- 2. 危險因子: 糖尿病的持續期間 (duration),最重要!、不佳的血糖控制 (HbA1c > 7%)、懷孕、高血壓、腎病變、抽菸、肥胖、高血脂等。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- 2. 危險因子: - (1) 年紀大: > 50% 病例出現在 65 歲以上。 - (2) 全身性疾病:高血壓、高血脂、糖尿病、抽菸、肥胖等。 - (3) 遠視、小視神經盤。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- #### 高血壓性視網膜病變(Hypertensive retinopathy) Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- 2. 高眼壓症(Ocular hypertension): 眼壓持續超過正常人平均值(16 mmHg),但並未發現視神經、視野有青光眼性的傷害。根據統計,持續五年追蹤有 9.5% 可能會變為真正的青光眼,故必須定期追蹤檢查。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
 
 ## Clinical Caveats
 

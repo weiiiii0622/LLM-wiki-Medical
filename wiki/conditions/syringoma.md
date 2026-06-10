@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- D. 汗管瘤(Syringoma) 141 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- # D. 汗管瘤 (Syringoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (B) 汗管瘤 (syringoma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (D) 汗管瘤 (syringoma) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- D. 汗管瘤(Syringoma) 141 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- # D. 汗管瘤 (Syringoma) Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- (B) 汗管瘤 (syringoma) Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- (D) 汗管瘤 (syringoma) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

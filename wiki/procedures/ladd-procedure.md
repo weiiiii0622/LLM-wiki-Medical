@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (D) 1. Ladd procedure 是下列何種疾病的手術方法? Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ...t volvulus) (D) 5. 承上題,最適當的手術方式為: 103(一)專 (A) duodenoplasty (B) partial pancreatectomy 醫五-10 (C) duodenojejunostomy (D) Ladd's procedure (D) 6. 一嬰兒出生幾天後發生嘔吐的現象,經診斷為腸道扭轉不全 102(一)專 (Malrotation),引起此症狀最主要的原因為何? 醫五-1 (A) 營養不良 (B) 胎便排出困難 (C) 肺形成不全 (D) 十二指腸阻塞或中腸扭結(Midgut volvulus) (D) 7. Ladd's procedure 是下列何種疾病的手術方式? 101(二)專 (A) 小腸閉鎖 (intestinal atresia) 醫五-4 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- (D) 1. Ladd procedure 是下列何種疾病的手術方法? Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- ...t volvulus) (D) 5. 承上題,最適當的手術方式為: 103(一)專 (A) duodenoplasty (B) partial pancreatectomy 醫五-10 (C) duodenojejunostomy (D) Ladd's procedure (D) 6. 一嬰兒出生幾天後發生嘔吐的現象,經診斷為腸道扭轉不全 102(一)專 (Malrotation),引起此症狀最主要的原因為何? 醫五-1 (A) 營養不良 (B) 胎便排出困難 (C) 肺形成不全 (D) 十二指腸阻塞或中腸扭結(Midgut volvulus) (D) 7. Ladd's procedure 是下列何種疾病的手術方式? 101(二)專 (A) 小腸閉鎖 (intestinal atresia) 醫五-4 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
 
 ## Clinical Caveats
 

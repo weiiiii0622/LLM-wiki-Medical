@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- ...ena cava syndrome、vena cava or pulmonary artery thromboembolism、protein-losing enteropathy、supraventricular arrhythmias(atrial flutter, paroxysmal atrial tachycardia),甚至猝死。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (B) 心房撲動 (atrial flutter) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- ...nosine 可驟然終止。 - ii. AV reentry tachycardia (AVRT) (30%): 房室間有 accessory pathway, P 為負、在 QRS 後面,以 Adenosine 可驟然終止。 - (b) Atrial flutter (AFL): SA node 外的心房肌肉自發性放電,但速度較快,P 波藏在 QRS 內而看不到,Adenosine 可使心跳變慢。 Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- 心房撲動 (atrial flutter, AF) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (A) 心房撲動 (atrial flutter) Source: [[sources/med3-book1-ch01|丁、心電圖判讀、心律不整]].
-- (D) 心房撲動 (atrial flutter) Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
+- ...ena cava syndrome、vena cava or pulmonary artery thromboembolism、protein-losing enteropathy、supraventricular arrhythmias(atrial flutter, paroxysmal atrial tachycardia),甚至猝死。 Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
+- (B) 心房撲動 (atrial flutter) Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
+- ...nosine 可驟然終止。 - ii. AV reentry tachycardia (AVRT) (30%): 房室間有 accessory pathway, P 為負、在 QRS 後面,以 Adenosine 可驟然終止。 - (b) Atrial flutter (AFL): SA node 外的心房肌肉自發性放電,但速度較快,P 波藏在 QRS 內而看不到,Adenosine 可使心跳變慢。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丁、心電圖判讀、心律不整 Page 93-150.
+- 心房撲動 (atrial flutter, AF) Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丁、心電圖判讀、心律不整 Page 93-150.
+- (A) 心房撲動 (atrial flutter) Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丁、心電圖判讀、心律不整 Page 93-150.
+- (D) 心房撲動 (atrial flutter) Source: 醫(三)第1冊心胸內_第一篇、心臟內科_戊、瓣膜性心臟病 Page 151-174.
 
 ## Clinical Caveats
 

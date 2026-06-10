@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...----------|--------| | 秒鐘,接著她用兩手搓揉衣服約30秒後,呈現困惑之表情,1~ | 醫四 -42 | | 2 分鐘後恢復正常。最可能的診斷是: | | | (A) 暈厥(syncope) | | | (B) 臆病(conversion disorder) | | | (C) 癲癇發作(seizure) | | | (D) 猝睡症(narcolepsy) | | | (B) 45. 符合下列那一種狀況的癲癇病人,一定要接受腦部磁振造影或電 | 98(二)專 | | 腦斷層掃描? | 醫四 -51 | | (A) 失神型小發作(absence petit mal)每天超過 5 次者 | | | (B) 癲癇在 25 歲之後才發病者 | | | (C) 良性 Rolandic 癲癇(ben Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- II. 轉化症(Conversion Disorder) 80 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- 2. 轉化症 (conversion disorder)。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- #### II. 轉化症 (Conversion Disorder) Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
+- ...----------|--------| | 秒鐘,接著她用兩手搓揉衣服約30秒後,呈現困惑之表情,1~ | 醫四 -42 | | 2 分鐘後恢復正常。最可能的診斷是: | | | (A) 暈厥(syncope) | | | (B) 臆病(conversion disorder) | | | (C) 癲癇發作(seizure) | | | (D) 猝睡症(narcolepsy) | | | (B) 45. 符合下列那一種狀況的癲癇病人,一定要接受腦部磁振造影或電 | 98(二)專 | | 腦斷層掃描? | 醫四 -51 | | (A) 失神型小發作(absence petit mal)每天超過 5 次者 | | | (B) 癲癇在 25 歲之後才發病者 | | | (C) 良性 Rolandic 癲癇(ben Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- II. 轉化症(Conversion Disorder) 80 Source: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118.
+- 2. 轉化症 (conversion disorder)。 Source: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118.
+- #### II. 轉化症 (Conversion Disorder) Source: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118.
 
 ## Clinical Caveats
 

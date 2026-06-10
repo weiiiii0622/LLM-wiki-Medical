@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- ...ion) 的姿勢,避免屈曲 (flexion) 的動作,以避免加劇壓迫性骨折常見的前楔狀骨折 (anterior wedge compression fracture)。 | • 骨質疏鬆 • 胸腰椎壓迫性骨折 • 不可使用在脊椎後側病變如脊椎滑脫 (spondylolithesis)或椎弓解離(spondylolysis) | | | Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- ...| 前方有彈性護板,可允許向前彎曲。限制 | ● 腰椎前凸 | | | | (Williams orthosis) | 脊椎伸張和側移,可改善腰椎前凸 | • 脊椎後側病變如椎弓 | | | | ĺ | (lordosis) • | 解離、脊椎滑脫 | | | | | | L | | | Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- F. 脊椎滑脱 (Spondylolisthesis) 183 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- (2) 椎間孔狹窄 (foraminal stenosis): 側邊的椎間孔呈長橢圓形,當椎間孔因椎間盤突出、脊椎滑脫、脊椎關節面 (facet)增生等原因導致椎間孔狹窄,壓迫到神經根。正常的橢圓高度是 20~23 mm,小於 15 mm 就是狹窄。70% 椎間孔狹窄發生在第五節腰椎,容易壓迫坐骨神經根。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- c. 手術適應症: - (a) 脊椎滑脫(spondylolisthesis),若合併不穩定,宜行脊椎固定手術。 - (b) > 50% facetectomy: 拿掉太多 facet joint,會減低脊椎的穩定,要做更多的固定。 - (c) 脊椎側彎 (degenerative scoliosis)。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- ...ion) 的姿勢,避免屈曲 (flexion) 的動作,以避免加劇壓迫性骨折常見的前楔狀骨折 (anterior wedge compression fracture)。 | • 骨質疏鬆 • 胸腰椎壓迫性骨折 • 不可使用在脊椎後側病變如脊椎滑脫 (spondylolithesis)或椎弓解離(spondylolysis) | | | Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- ...| 前方有彈性護板,可允許向前彎曲。限制 | ● 腰椎前凸 | | | | (Williams orthosis) | 脊椎伸張和側移,可改善腰椎前凸 | • 脊椎後側病變如椎弓 | | | | ĺ | (lordosis) • | 解離、脊椎滑脫 | | | | | | L | | | Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- F. 脊椎滑脱 (Spondylolisthesis) 183 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- (2) 椎間孔狹窄 (foraminal stenosis): 側邊的椎間孔呈長橢圓形,當椎間孔因椎間盤突出、脊椎滑脫、脊椎關節面 (facet)增生等原因導致椎間孔狹窄,壓迫到神經根。正常的橢圓高度是 20~23 mm,小於 15 mm 就是狹窄。70% 椎間孔狹窄發生在第五節腰椎,容易壓迫坐骨神經根。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- c. 手術適應症: - (a) 脊椎滑脫(spondylolisthesis),若合併不穩定,宜行脊椎固定手術。 - (b) > 50% facetectomy: 拿掉太多 facet joint,會減低脊椎的穩定,要做更多的固定。 - (c) 脊椎側彎 (degenerative scoliosis)。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
 
 ## Clinical Caveats
 

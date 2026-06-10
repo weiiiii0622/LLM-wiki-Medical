@@ -31,13 +31,13 @@ tags:
 
 ## Key Details From Sources
 
-- 險最高? 醫六-40 - (A) 前一胎發生胎盤早期剝離 - (B) 合併子癇前症 (preeclampsia) - (C) 絨毛膜羊膜炎 (chorioamnionitis) - (D) 胎膜早破 (premature rupture of membranes) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ...器,若懷疑胎兒窘迫,立即生產 | | | | · 追蹤超音波,若羊水量極少,考慮生產 | | | 24~31 + 6 週 | ・考慮安胎 | | | | ・ 應給予 Betamethasone 以促使胎兒肺部成熟 | | | | • 使用 MgSO 4 ,有 neuroprotection 效果以避免腦性麻痺 | | | | ・子宮頸細菌培養及 GBS 篩檢 | | | | 預防性抗生素使用 | | | | ・ 追蹤 Vital sign, CBC/DC, CRP,若有感染跡象,立即生產 | | | | • 追蹤胎兒監視器,若懷疑胎兒窘迫,立即生產 | | | | · 追蹤超音波,若羊水量極少,考慮生產 | | | 小於 24 週 | ・考慮終止妊娠 | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (C) magnesium sulfate Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) *126* Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- # A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- ...· 之前血壓正常,懷孕 20 週後出現高血壓,但無蛋白尿、 | | (Gestational HTN) | 無器官失能,且於產後12週內恢復正常。 | | 子癲前症 | • 之前血壓正常,懷孕 20 週後出現高血壓,且合併蛋白 | | (Preeclampsia) | 尿或器官失能。 | | 子癲症 | · 已診斷 Preeclampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalized seizure)稱之。 | | HELLP syndrome | ・溶血 (hemolysis)、肝指數上升 (elevated liver enzyme) | | | 和低血小板 (low platelets) 三種表現合併出現。 | | 慢性高血壓 | · 懷 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- ...| 剖腹產史、D&C、子宮鏡手術、年 | 10% | | | | 紀大、產次高 | | | Thrombin | ・母親凝血功能異常 | 先天性:von Willebrand disease | 1% | | | | 後天性:severe preeclampsia、 | | | | | HELLP syndrome \placenta abruptio \ | | | | | IUFD · sepsis | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- 險最高? 醫六-40 - (A) 前一胎發生胎盤早期剝離 - (B) 合併子癇前症 (preeclampsia) - (C) 絨毛膜羊膜炎 (chorioamnionitis) - (D) 胎膜早破 (premature rupture of membranes) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ...器,若懷疑胎兒窘迫,立即生產 | | | | · 追蹤超音波,若羊水量極少,考慮生產 | | | 24~31 + 6 週 | ・考慮安胎 | | | | ・ 應給予 Betamethasone 以促使胎兒肺部成熟 | | | | • 使用 MgSO 4 ,有 neuroprotection 效果以避免腦性麻痺 | | | | ・子宮頸細菌培養及 GBS 篩檢 | | | | 預防性抗生素使用 | | | | ・ 追蹤 Vital sign, CBC/DC, CRP,若有感染跡象,立即生產 | | | | • 追蹤胎兒監視器,若懷疑胎兒窘迫,立即生產 | | | | · 追蹤超音波,若羊水量極少,考慮生產 | | | 小於 24 週 | ・考慮終止妊娠 | | Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- (C) magnesium sulfate Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) *126* Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- # A. 妊娠高血壓與子癲前症(Pregnancy-induced hypertension and preeclampsia) Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- ...· 之前血壓正常,懷孕 20 週後出現高血壓,但無蛋白尿、 | | (Gestational HTN) | 無器官失能,且於產後12週內恢復正常。 | | 子癲前症 | • 之前血壓正常,懷孕 20 週後出現高血壓,且合併蛋白 | | (Preeclampsia) | 尿或器官失能。 | | 子癲症 | · 已診斷 Preeclampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalized seizure)稱之。 | | HELLP syndrome | ・溶血 (hemolysis)、肝指數上升 (elevated liver enzyme) | | | 和低血小板 (low platelets) 三種表現合併出現。 | | 慢性高血壓 | · 懷 Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- ...| 剖腹產史、D&C、子宮鏡手術、年 | 10% | | | | 紀大、產次高 | | | Thrombin | ・母親凝血功能異常 | 先天性:von Willebrand disease | 1% | | | | 後天性:severe preeclampsia、 | | | | | HELLP syndrome \placenta abruptio \ | | | | | IUFD · sepsis | | Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
 
 ## Clinical Caveats
 

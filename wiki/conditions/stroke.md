@@ -69,24 +69,24 @@ tags:
 
 ## Key Details From Sources
 
-- 2. 腦神經系統:是否有中風病史、癲癇的病史,若有的話其疾病的影響為何,譬如中風已造成右側肢體無力多年,無力的程度為何,也必須做評估,如此一來術後才知道病患恢復的情況如何,是否有新的中風發生、或是剩餘麻醉藥物作用造成。除此之外,過去有腦血管疾病的病患接受麻醉手術也有比較高的風險,這是必須對病患和家屬做解釋的內容之一。而癲癇的用藥也是評估的重點。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- 2. 常見病因: - (1) 出血性腦中風或梗塞性腦中風。 - (2) Vestibular schwannoma (Acoustic neuroma) • Source: [[sources/med6-book4-ch11|甲、耳科]].
-- A. 腦中風 (Cerebral vascular accident, CVA) 4 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- A. 腦中風 (Cerebral vascular accident, CVA) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- 4. 當負責上述語言功能的區域或途徑受破壞時,會引發不同程度的失語症,造成失語症常見的原因如下: - (1) 大腦血管病變:即腦中風,如血栓、栓塞、腦出血及動脈破裂。 - (2) 腦外傷:有穿入性外傷及非穿入性外傷。 - (3) 腦瘤。 - (4) 腦組織炎症 (encephalitis)。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- f. 併發症:如果高血壓的情形不加以控制,會引發併發症,甚至死亡。 - (a) Retinal Hemorrhage • - (b) CVA • - (c) SAH · seizure · death · Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- d. 【補充】Suprapontine lesion of neurogenic bladder: 典型表現為逼尿肌過度反射(detrusor hyperreflexia) 但未合併逼尿肌 括約肌共濟失調。代表疾病:腦中風、巴金森氏症。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- d. Cardiac Output (CO) = HR × stroke volume • Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- (1) 雙眼複視可能與眼外肌和腦神經病變相關:如重症肌無力、後天性斜視(如外傷性斜視)、甲狀腺眼症、腦中風、腦瘤、動脈瘤等。雙眼同時看時會出現複視,而把有問題的眼睛遮住,單眼看時,複視即消失。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- ...enefit > Risk | |-----------------------------------------------------------|-------------------------------------| | • Stroke | Osteoporotic fracture | | Venous thromboembolism | ● Colorectal cancer | | • Coronary heart disease (E+P, > 60 y/o) | ● Coronary heart disease ( 5 yrs) | ● Mortality ( Endometrial hyperplasia and carcinoma | ● Type II Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- E 或 E+P 增加的 stroke 風險為缺血性腦中風 (非出血性),不過, 40 mIU/mL, E2 > 30 pg/mL Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ...tance)會下降,心跳(heart rate)會加快 - (C) 正常懷孕從受孕到產後的這段期間,側躺休息時的心輸出量最大的時期在妊娠週數第 28 至 32 週間 - (D) 一般妊娠 20 週後,孕婦側躺時,心輸出量及心臟打出的容積量(stroke volume) 比坐著時高,但每分鐘心跳數則比坐著時 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ...- (b) 放寬標準捐腎者 (expanded criteria donors):指的是> 60 歲且沒有危險 因子的腦死者;或是 50~60 歲腦死者但合併①高血壓、或②腦血管意外 (cerebrovascular accident, CVA)、或③腎功能 creatinine > 1.5 mg/dL。腎 存活率第 1 年:5 年:10 年各為 90%:60%:30%。 - (c) 邊緣捐腎者(marginal donors):指的是> 70 歲且沒有危險因子的腦死者;或是 $60\sim70$ 歲但合併①高血壓、②糖尿病、③臨床上有蛋白尿(1 g/24 h)或腎血管病變,但 creatinine 清除率 $> 50 \, \text{mL/min}$ 者。存活率尚待驗證。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (C) 15. 下列那種問題最不會造成膀胱過動症(overactive bladder)? 100(一)專 醫五-70 (A) 腦中風 (B) 良性前列腺肥大症 (C) 子宮頸癌接受根除性切除手術 (D) 胸椎損傷造成膀胱功能損傷 【詳解】接受婦產科手術或大腸直腸手術可能使支配膀胱肌肉 收縮的神經(pelvic plexus)損傷,導致 urinary retention,所以 不是 OAB。 (C) 16. 糖尿病膀胱病變(diabetic cystopathy)是一種常見的糖尿病併發 99(二)專 症,下列關於此症狀的敘述,何者錯誤? 醫五-70 (A) 患者通常 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- 情況:一位50歲的婦女,主訴這幾個月來常半夜突然心悸,同時呼吸困難,在過去2、3年內曾有2次腦中風病史,但並沒有任何神經學症狀遺留下來,心臟聽診時,心跳非常不規則,同時在心尖部聽到心舒期雜音,胸部X光檢查及心電圖檢查如圖示。依此回答下列第17題至第19題。 Source: [[sources/med5-book2-ch05|戊、心臟瓣膜疾病]].
-- 3. 由於主動脈剝離侵犯到其他血管或是假腔壓迫真腔影響血流而引發器官灌流不足症狀(malperfusion syndrome): - (1) 冠狀動脈:缺血性心臟病。 - (2) 主動脈瓣:急性心衰竭。 - (3) 兩側頸動脈:腦中風。 - (4) 脊椎動脈:下半身麻痺 (paraplegia)。 - (5) 腎動脈:急性腎衰竭, oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心 Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
+- 2. 腦神經系統:是否有中風病史、癲癇的病史,若有的話其疾病的影響為何,譬如中風已造成右側肢體無力多年,無力的程度為何,也必須做評估,如此一來術後才知道病患恢復的情況如何,是否有新的中風發生、或是剩餘麻醉藥物作用造成。除此之外,過去有腦血管疾病的病患接受麻醉手術也有比較高的風險,這是必須對病患和家屬做解釋的內容之一。而癲癇的用藥也是評估的重點。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- 2. 常見病因: - (1) 出血性腦中風或梗塞性腦中風。 - (2) Vestibular schwannoma (Acoustic neuroma) • Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- A. 腦中風 (Cerebral vascular accident, CVA) 4 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- A. 腦中風 (Cerebral vascular accident, CVA) Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- 4. 當負責上述語言功能的區域或途徑受破壞時,會引發不同程度的失語症,造成失語症常見的原因如下: - (1) 大腦血管病變:即腦中風,如血栓、栓塞、腦出血及動脈破裂。 - (2) 腦外傷:有穿入性外傷及非穿入性外傷。 - (3) 腦瘤。 - (4) 腦組織炎症 (encephalitis)。 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- f. 併發症:如果高血壓的情形不加以控制,會引發併發症,甚至死亡。 - (a) Retinal Hemorrhage • - (b) CVA • - (c) SAH · seizure · death · Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- d. 【補充】Suprapontine lesion of neurogenic bladder: 典型表現為逼尿肌過度反射(detrusor hyperreflexia) 但未合併逼尿肌 括約肌共濟失調。代表疾病:腦中風、巴金森氏症。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- d. Cardiac Output (CO) = HR × stroke volume • Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- (1) 雙眼複視可能與眼外肌和腦神經病變相關:如重症肌無力、後天性斜視(如外傷性斜視)、甲狀腺眼症、腦中風、腦瘤、動脈瘤等。雙眼同時看時會出現複視,而把有問題的眼睛遮住,單眼看時,複視即消失。 Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- ...enefit > Risk | |-----------------------------------------------------------|-------------------------------------| | • Stroke | Osteoporotic fracture | | Venous thromboembolism | ● Colorectal cancer | | • Coronary heart disease (E+P, > 60 y/o) | ● Coronary heart disease ( 5 yrs) | ● Mortality ( Endometrial hyperplasia and carcinoma | ● Type II Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- E 或 E+P 增加的 stroke 風險為缺血性腦中風 (非出血性),不過, 40 mIU/mL, E2 > 30 pg/mL Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- ...tance)會下降,心跳(heart rate)會加快 - (C) 正常懷孕從受孕到產後的這段期間,側躺休息時的心輸出量最大的時期在妊娠週數第 28 至 32 週間 - (D) 一般妊娠 20 週後,孕婦側躺時,心輸出量及心臟打出的容積量(stroke volume) 比坐著時高,但每分鐘心跳數則比坐著時 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ...- (b) 放寬標準捐腎者 (expanded criteria donors):指的是> 60 歲且沒有危險 因子的腦死者;或是 50~60 歲腦死者但合併①高血壓、或②腦血管意外 (cerebrovascular accident, CVA)、或③腎功能 creatinine > 1.5 mg/dL。腎 存活率第 1 年:5 年:10 年各為 90%:60%:30%。 - (c) 邊緣捐腎者(marginal donors):指的是> 70 歲且沒有危險因子的腦死者;或是 $60\sim70$ 歲但合併①高血壓、②糖尿病、③臨床上有蛋白尿(1 g/24 h)或腎血管病變,但 creatinine 清除率 $> 50 \, \text{mL/min}$ 者。存活率尚待驗證。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (C) 15. 下列那種問題最不會造成膀胱過動症(overactive bladder)? 100(一)專 醫五-70 (A) 腦中風 (B) 良性前列腺肥大症 (C) 子宮頸癌接受根除性切除手術 (D) 胸椎損傷造成膀胱功能損傷 【詳解】接受婦產科手術或大腸直腸手術可能使支配膀胱肌肉 收縮的神經(pelvic plexus)損傷,導致 urinary retention,所以 不是 OAB。 (C) 16. 糖尿病膀胱病變(diabetic cystopathy)是一種常見的糖尿病併發 99(二)專 症,下列關於此症狀的敘述,何者錯誤? 醫五-70 (A) 患者通常 Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
+- 【詳解】關鍵字為腹部劇痛、曾因心肌梗塞接受過氣球擴張術、EKG 顯示有心房顫動,血液分析發現 Leukocytosis,ABG 為 metabolic acidosis,懷疑是 acute mesenteric ischemia,須接受腹部電腦斷層進行確認。Acute mesenteric ischemia 為腹部急症,死亡率非常高(60~80%),致病機轉如 AMI 為 embolism或 thrombosis 造成。所以大部分的病人通常會有 AMI、Af、old stroke 的病史。初期可能會出現劇烈的腹痛,但無法確切的鑑別診斷其他腹部疾病如 ileus、peritonitis 或 PPU,必須經由影像學檢查進一步的診斷。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
+- 【詳解】開心手術使用體外循環機時須以 heparin 延長 Activated Clotting Time 至正常值的四倍以上且至少 1~2 個小時,會大幅增加 Stroke 或 ICH 患者的 perioperative cerebral bleeding risk,因此臨床上會待腦部缺氧或出血後約 1~2 週後再考慮手術。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_戊、心臟瓣膜疾病 Page 81-94.
+- 情況:一位50歲的婦女,主訴這幾個月來常半夜突然心悸,同時呼吸困難,在過去2、3年內曾有2次腦中風病史,但並沒有任何神經學症狀遺留下來,心臟聽診時,心跳非常不規則,同時在心尖部聽到心舒期雜音,胸部X光檢查及心電圖檢查如圖示。依此回答下列第17題至第19題。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_戊、心臟瓣膜疾病 Page 81-94.
+- 3. 由於主動脈剝離侵犯到其他血管或是假腔壓迫真腔影響血流而引發器官灌流不足症狀(malperfusion syndrome): - (1) 冠狀動脈:缺血性心臟病。 - (2) 主動脈瓣:急性心衰竭。 - (3) 兩側頸動脈:腦中風。 - (4) 脊椎動脈:下半身麻痺 (paraplegia)。 - (5) 腎動脈:急性腎衰竭, oliguria or anuria。 - (6) 髂動脈(iliac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_甲、主動脈剝離 Page 17-28.
 
 ## Clinical Caveats
 

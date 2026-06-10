@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_丁、身體型疾患.md
+raw_source_title: "醫(四)第3冊精神科_丁、身體型疾患"
+raw_source_file: "raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_丁、身體型疾患.md"
+page_start: 89
+page_end: 118
+canonical_citation: "醫(四)第3冊精神科_丁、身體型疾患 Page 89-118"
 book: 醫(四)第3冊精神科
 chapter_order: 4
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第3冊精神科
 - Chapter file: `raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_丁、身體型疾患.md`
+- Pages covered: 89-118
+- Canonical citation: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

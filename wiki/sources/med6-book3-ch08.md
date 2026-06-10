@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_辛、運動醫學.md
+raw_source_title: "醫(六)第3冊復健_辛、運動醫學"
+raw_source_file: "raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_辛、運動醫學.md"
+page_start: 187
+page_end: 196
+canonical_citation: "醫(六)第3冊復健_辛、運動醫學 Page 187-196"
 book: 醫(六)第3冊復健
 chapter_order: 8
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第3冊復健
 - Chapter file: `raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_辛、運動醫學.md`
+- Pages covered: 187-196
+- Canonical citation: 醫(六)第3冊復健_辛、運動醫學 Page 187-196
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

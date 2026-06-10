@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (1) Furuncle 是單一顆急性毛囊炎合併毛囊周圍真皮和皮下組織發炎以及化膿,如果是多顆毛囊炎合併成的一大塊發炎化膿組織則稱作 Carbuncle。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (D) 1. 下列何種疾病,不是金黃色葡萄球菌(*Staphylococcus aureus*)所 109( 二 ) 専 引起? - (A) 膿痂疹 (impetigo) - (B) 癤 (furuncle) - (C) 癰 (carbuncle) - (D) 疣(wart) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (1) Furuncle 是單一顆急性毛囊炎合併毛囊周圍真皮和皮下組織發炎以及化膿,如果是多顆毛囊炎合併成的一大塊發炎化膿組織則稱作 Carbuncle。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (D) 1. 下列何種疾病,不是金黃色葡萄球菌(*Staphylococcus aureus*)所 109( 二 ) 専 引起? - (A) 膿痂疹 (impetigo) - (B) 癤 (furuncle) - (C) 癰 (carbuncle) - (D) 疣(wart) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

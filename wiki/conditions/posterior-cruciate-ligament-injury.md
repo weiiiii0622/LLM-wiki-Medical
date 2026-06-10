@@ -27,9 +27,9 @@ PCL injury 常由 dashboard injury 或 hyperextension 造成，posterior drawer 
 
 ## Key Details From Sources
 
-- (B) 後拉檢查 (Posterior drawer test) Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (A) posterior cruciate ligament Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (1) 後十字韌帶為人體最強的一條韌帶,主要的作用是防止膝關節在活動時脛骨向 後滑動。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
+- (B) 後拉檢查 (Posterior drawer test) Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- (A) posterior cruciate ligament Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- (1) 後十字韌帶為人體最強的一條韌帶,主要的作用是防止膝關節在活動時脛骨向 後滑動。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
 
 ## Clinical Caveats
 

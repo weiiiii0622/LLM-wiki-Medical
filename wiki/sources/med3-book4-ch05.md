@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_戊、血清陰性脊椎關節病變.md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_戊、血清陰性脊椎關節病變"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_戊、血清陰性脊椎關節病變.md"
+page_start: 77
+page_end: 88
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_戊、血清陰性脊椎關節病變 Page 77-88"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 5
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_戊、血清陰性脊椎關節病變.md`
+- Pages covered: 77-88
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_戊、血清陰性脊椎關節病變 Page 77-88
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

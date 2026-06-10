@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- (B) 羊水栓塞 (amniotic fluid embolism) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- | • 植入性胎盤 | ・早期宮縮、早期破水 | • 胎位不正 | |---------|---------------|--------| | • 血管前置 | · 胎兒生長遲緩、胎兒異常 | • 羊水栓塞 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (B) 羊水栓塞 (amniotic fluid embolism) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (D) 羊水栓塞 (amniotic fluid embolism) Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (D) 3. 下列那一種狀況與羊水栓塞症(amniotic fluid embolism)的發生 最無相關? Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- 【詳解】急產,多產次,高齡孕婦,孕婦受傷,產程延滯,羊水中有胎便,使用催生藥,使用器械協助生產,剖腹產,有前置胎盤或胎盤剝離,子宮頸裂傷,胎兒窘迫,子癎前症等可能和羊水栓塞有關,早產最無相關,故選(D)。不過,上述因素僅是相對機率略高而已,羊水栓塞很難藉由這些危險因子去事先預測,也很難預防。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- (B) 羊水栓塞 (amniotic fluid embolism) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- | • 植入性胎盤 | ・早期宮縮、早期破水 | • 胎位不正 | |---------|---------------|--------| | • 血管前置 | · 胎兒生長遲緩、胎兒異常 | • 羊水栓塞 | Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- (B) 羊水栓塞 (amniotic fluid embolism) Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- (D) 羊水栓塞 (amniotic fluid embolism) Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- (D) 3. 下列那一種狀況與羊水栓塞症(amniotic fluid embolism)的發生 最無相關? Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- 【詳解】急產,多產次,高齡孕婦,孕婦受傷,產程延滯,羊水中有胎便,使用催生藥,使用器械協助生產,剖腹產,有前置胎盤或胎盤剝離,子宮頸裂傷,胎兒窘迫,子癎前症等可能和羊水栓塞有關,早產最無相關,故選(D)。不過,上述因素僅是相對機率略高而已,羊水栓塞很難藉由這些危險因子去事先預測,也很難預防。 Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
 
 ## Clinical Caveats
 

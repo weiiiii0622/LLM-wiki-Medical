@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- h. 虹彩節結 (iris nodule):慢性肉芽腫性發炎的特徵。Koeppe 氏結節較小,出現在瞳孔邊緣;Busacca 氏節結較大而少見,出現在虹膜表面。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
-- (2) Chronic granulomatous disease (CGD): Neutrophil 或 monocyte 吞噬含有 catalase 的細菌(如 *S. aureus*, Salmonella, Candida…)之後卻無法將其分解破壞,造成 granuloma。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (D) 1. 嬰兒的皮膚、口腔、呼吸道以及腸胃道常反覆地發生細菌感染, 109( 二) 專 每次感染時的抽血檢查均發現白血球非常高,臍帶很晚才掉,且 醫四-22 有肚臍炎 (Omphalitis),此病嬰最可能罹患何種疾病? - (A) Bruton agammaglobulinemia - (B) 慢性肉芽腫病(Chronic granulomatous disease) - (C) 嚴重合併性免疫缺乏症(Severe combined immunodeficiency) - (D) 白血球沾黏分子缺乏症(Leukocyte adhesion deficiency) Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- (C) chronic granulomatous disease 和 leukocyte adhesion deficiency 皆屬吞噬細胞的問題,DiGeorge syndrome 屬 T 細胞免疫功能異常 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- h. 虹彩節結 (iris nodule):慢性肉芽腫性發炎的特徵。Koeppe 氏結節較小,出現在瞳孔邊緣;Busacca 氏節結較大而少見,出現在虹膜表面。 Source: 醫(六)第2冊眼科_第一篇、眼科_庚、葡萄膜 Page 77-84.
+- (2) Chronic granulomatous disease (CGD): Neutrophil 或 monocyte 吞噬含有 catalase 的細菌(如 *S. aureus*, Salmonella, Candida…)之後卻無法將其分解破壞,造成 granuloma。 Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
+- (D) 1. 嬰兒的皮膚、口腔、呼吸道以及腸胃道常反覆地發生細菌感染, 109( 二) 專 每次感染時的抽血檢查均發現白血球非常高,臍帶很晚才掉,且 醫四-22 有肚臍炎 (Omphalitis),此病嬰最可能罹患何種疾病? - (A) Bruton agammaglobulinemia - (B) 慢性肉芽腫病(Chronic granulomatous disease) - (C) 嚴重合併性免疫缺乏症(Severe combined immunodeficiency) - (D) 白血球沾黏分子缺乏症(Leukocyte adhesion deficiency) Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
+- (C) chronic granulomatous disease 和 leukocyte adhesion deficiency 皆屬吞噬細胞的問題,DiGeorge syndrome 屬 T 細胞免疫功能異常 Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第1冊小兒/醫(四)第1冊小兒_壬、腫瘤學.md
+raw_source_title: "醫(四)第1冊小兒_壬、腫瘤學"
+raw_source_file: "raw/books/md/醫(四)第1冊小兒/醫(四)第1冊小兒_壬、腫瘤學.md"
+page_start: 381
+page_end: 408
+canonical_citation: "醫(四)第1冊小兒_壬、腫瘤學 Page 381-408"
 book: 醫(四)第1冊小兒
 chapter_order: 9
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第1冊小兒
 - Chapter file: `raw/books/md/醫(四)第1冊小兒/醫(四)第1冊小兒_壬、腫瘤學.md`
+- Pages covered: 381-408
+- Canonical citation: 醫(四)第1冊小兒_壬、腫瘤學 Page 381-408
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

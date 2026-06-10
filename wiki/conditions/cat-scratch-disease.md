@@ -27,9 +27,9 @@ Bartonella henselae 感染造成局部淋巴結腫大，與貓抓咬暴露相關
 
 ## Key Details From Sources
 
-- XVIII. 貓抓熱 (Cat-Scratch Disesae, CSD) 202 - XIX. 猩紅熱 (Scarlet Fever) 203 - XX. 登革熱 (Dengue Fever) 與登革出血熱 (Dengue Hemorrhagic Fever) 206 - XXI. 疫苗接種 208 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (B) Bartonella henselae 抗體檢驗 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- XVIII. 貓抓熱 (Cat-Scratch Disesae, CSD) 202 - XIX. 猩紅熱 (Scarlet Fever) 203 - XX. 登革熱 (Dengue Fever) 與登革出血熱 (Dengue Hemorrhagic Fever) 206 - XXI. 疫苗接種 208 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- (3) 查疹子、看喉嚨、摸肚子、找特殊徵兆猜病源菌: - a. 排除較少見的細菌 (atypical bacteria):傷寒、副傷寒 (salmonella)、貓抓熱 (B. henselae)、TB、Lyme disease (Borrelia burgdorferi)。 - b. 排除病毒 (CMV, EBV, VZV, B19, HHV, HSV, HIV, enterovirus)。 - c. 排除立克次體: Q fever、洛杉磯斑疹熱。 - d. 排除黴菌感染。 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- (B) Bartonella henselae 抗體檢驗 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
 
 ## Clinical Caveats
 

@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- N. 蕈狀肉芽腫 (Mycosis fungoides) 154 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- # N. 蕈狀肉芽腫 (Mycosis fungoides) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 3. Sézary syndrome:Sézary syndrome 為蕈狀肉芽腫的紅皮階段,為第三期的皮膚 T 細胞淋巴癌,預後差,病患症狀有: - (1) 進展到全身性紅腫脫皮 (generalized exfoliative erythroderma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (B) 蕈狀肉芽腫 (mycosis fungoides) Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
+- N. 蕈狀肉芽腫 (Mycosis fungoides) 154 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- # N. 蕈狀肉芽腫 (Mycosis fungoides) Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- 3. Sézary syndrome:Sézary syndrome 為蕈狀肉芽腫的紅皮階段,為第三期的皮膚 T 細胞淋巴癌,預後差,病患症狀有: - (1) 進展到全身性紅腫脫皮 (generalized exfoliative erythroderma) Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- (B) 蕈狀肉芽腫 (mycosis fungoides) Source: 醫(四)第2冊皮膚_庚、乾癬 (Psoriasis) Page 130-136.
 
 ## Clinical Caveats
 

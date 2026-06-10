@@ -63,24 +63,24 @@ tags:
 
 ## Key Details From Sources
 
-- 【詳解】過度換氣(Hyperventilation):利用降低血中二氧化碳分壓,使得腦部血管收縮以達到降低顱內壓的效果。將血中二氧化碳分壓降到 25 至 30 mmHg,數秒鐘內即有降顱內壓效果,但時效短暫。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- (B) 原發性呼吸性鹼中毒及代償性代謝性酸中毒 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- (C) 原發性代謝性酸中毒及代償性呼吸性鹼中毒 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- b. 因黃體素的作用,造成中樞對 $CO_2$ 的敏感度增加,使得橫膈運動增加,導致 relative hyperventilation;另外,潮氣容積(tidal volume)也增加,因而每分 通氣量(minute ventilation)增加, $CO_2$ 的排除增加,於是母血的二氧化碳濃度( $PaCO_2$ )降低,引起輕微呼吸性鹼中毒。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ...(3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabet Source: [[sources/med5-book1-ch02|乙、電解質與酸鹼平衡]].
-- 10. 重度頭部損傷 (GCS = 3~8): - (1) 插管。 - (2) Hyperventilation $PCO_2 = 30\sim35$ mmHg,避免 IICP (increased intracranial pressure)。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- (C) 氣管內管插管併給予過度換氣(hyperventilation) Source: [[sources/med5-book1-ch12|丙、顱內壓]].
-- (D) 1. 傳統預防腦動脈瘤破裂出血後的腦血管痙攣(cerebral vasospasm) 108( ) 専有所謂的 "Triple-H" therapy,下列何者不包含於 Triple-H ? - (A) hypervolemia - (B) hypertension - (C) hemodilution - (D) hyperventilation Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- (C) 3.55 歲男性,平時除高血壓外無其他疾病,於半小時前,突發暈眩之後意識漸漸昏迷,血壓 180/105 mmHg,心跳 105/分,呼吸 22/分,兩側瞳孔皆為 2.0 mm,光反射不明顯;Glasgow昏迷指數為 $E_2V_2M_3$ ,在實行快速程序插管 (rapid sequence intubation)後,瞳孔狀況不變,此時電腦斷層顯示小腦出血合併腦幹壓迫跡象,下列那一項處置較適當? - (A) 會診放射科作血管攝影及栓塞 - (B) 安排加護病房,採保守支持性治療 - (C) 會診神經外科安排緊急手術 - (D) 給予過度換氣治療(hyperventilation ),控制 $PaO_2$ 在 25~30 mmHg Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- ...,意識會短暫幾秒鐘到幾分鐘的突然消失,但發作後不會嗜睡、 意識混淆。常見的例子是小男孩在學校上課時常發呆,以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperventilation)或一些光刺激(photic stimulation)引發。 藥物首選為 valproate(Depakine®),或使用 ethosuximide。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- (C) 可被過度換氣(hyperventilation)檢查誘發 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- (D) 42. 下列關於癲癇失神型小發作(absence, petit mal)的敘述,何者 100(一)專 最正確? - (A) 首次發作通常發生於 15 歲到 20 歲之間 - (B) 發作中不會有自動症(automatism) - (C) 發作時腦電圖(EEG)呈現局部性棘波(focal spikes) - (D) 過度換氣(hyperventilation) 會引起發作 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- ...狀態 | Lethargy or stupor | Coma ( 腦幹受損 | 較易呈現深度昏迷) | | | | Cheyne-Stokes | Central | Apneustic | Ataxic | | | (一段深一段淺) | hyperventilation | (長吸式呼吸 | (失調式呼吸=亂) | | 呼吸 | | (過度換氣) | =深吸+短暫吐氣) | | | | ~~~~~ | WWW. | m | $\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{$ | | 瞳孔 | Small & Reactive | Mi Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, 告知恐慌症的生理病理機制, 症狀是短暫的現象, Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (C) 呼吸性鹼中毒(respiratory alkalosis) Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...1) 又稱為小發作(petit mal),發作時病人會突然出現動作靜止、面無表情;發作期間病人無法藉由呼叫或碰觸喚醒。 - (2) 5 歲以前不常發生,女性較男性好發。發作時不會有 aura,且發作時間很少會 持續超過 30 秒。過度換氣(hyperventilation)持續 3~4 分鐘或是閃光可以誘發 失神發作。 - (3) 失神發作一天內可以發生很多次,甚至可達數十次。然而,complex partial seizure 一天內發生次數不若失神發作般。 - (4) 90% 病人有 automatic behavior。 - (5) EEG 可以發現 3/sec spike 與 generalized wave discharge (整個腦袋亂放電)。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (A) 2. 一歲小孩自 6 個月大起,發生數次大哭後面色發黑,並喪失意識, 108( 二) 專 數秒後清醒正常,身體診察無明顯異常,最常見之疾病為何? 醫四-18 - (A) 屏氣發作 (Breath-holding spell) - (B) 先天性心臟病(Congenital heart disease) - (C) 過度換氣症候群 (Hyperventilation syndrome) - (D) 失神發作 (Absence attack) Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (D) normal anion gap metabolic acidosis with respiratory alkalosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- 【詳解】過度換氣(Hyperventilation):利用降低血中二氧化碳分壓,使得腦部血管收縮以達到降低顱內壓的效果。將血中二氧化碳分壓降到 25 至 30 mmHg,數秒鐘內即有降顱內壓效果,但時效短暫。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- (B) 原發性呼吸性鹼中毒及代償性代謝性酸中毒 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- (C) 原發性代謝性酸中毒及代償性呼吸性鹼中毒 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- b. 因黃體素的作用,造成中樞對 $CO_2$ 的敏感度增加,使得橫膈運動增加,導致 relative hyperventilation;另外,潮氣容積(tidal volume)也增加,因而每分 通氣量(minute ventilation)增加, $CO_2$ 的排除增加,於是母血的二氧化碳濃度( $PaCO_2$ )降低,引起輕微呼吸性鹼中毒。 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ...(3) 判斷身體是否有適當的代償:公式請參照小麻或 first choice 內科學。 - .a. 呼吸性酸中毒:呼吸受到抑制, $CO_2$ retention 無法排出肺所致,例如 COPD、 頭部外傷、鎮定劑以及嗎啡過量。 - b. 呼吸性鹼中毒:呼吸速率快造成 ${\rm CO_2}$ washed out,例如過度換氣症候群等。 - c. 代謝性酸中毒:細胞外液 H+ 增加或 HCO3-流失而引起,需計算 Anion gap = Na+-(HCO3- + Cl-),正常值是 12±2,若上升表示 H+ 增加,可能是外來的如甲醇或水楊酸,也可能是內源性的,如組織缺氧產生的乳酸堆積或糖尿病患者的酮酸堆積(口訣:MUDPILERS:Methanol, Uremia, Diabet Source: 醫(五)第1冊外概腦外_第一篇、外科概論_乙、電解質與酸鹼平衡 Page 27-34.
+- 10. 重度頭部損傷 (GCS = 3~8): - (1) 插管。 - (2) Hyperventilation $PCO_2 = 30\sim35$ mmHg,避免 IICP (increased intracranial pressure)。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- (C) 氣管內管插管併給予過度換氣(hyperventilation) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_丙、顱內壓 Page 151-156.
+- (D) 1. 傳統預防腦動脈瘤破裂出血後的腦血管痙攣(cerebral vasospasm) 108( ) 専有所謂的 "Triple-H" therapy,下列何者不包含於 Triple-H ? - (A) hypervolemia - (B) hypertension - (C) hemodilution - (D) hyperventilation Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_戊、顱內動脈瘤 Page 163-170.
+- (C) 3.55 歲男性,平時除高血壓外無其他疾病,於半小時前,突發暈眩之後意識漸漸昏迷,血壓 180/105 mmHg,心跳 105/分,呼吸 22/分,兩側瞳孔皆為 2.0 mm,光反射不明顯;Glasgow昏迷指數為 $E_2V_2M_3$ ,在實行快速程序插管 (rapid sequence intubation)後,瞳孔狀況不變,此時電腦斷層顯示小腦出血合併腦幹壓迫跡象,下列那一項處置較適當? - (A) 會診放射科作血管攝影及栓塞 - (B) 安排加護病房,採保守支持性治療 - (C) 會診神經外科安排緊急手術 - (D) 給予過度換氣治療(hyperventilation ),控制 $PaO_2$ 在 25~30 mmHg Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_己、腦內出血 Page 171-176.
+- ...,意識會短暫幾秒鐘到幾分鐘的突然消失,但發作後不會嗜睡、 意識混淆。常見的例子是小男孩在學校上課時常發呆,以致學習欠佳功課差。 - b. 在發作時腦波檢查發現有廣泛性每秒 3 週期的 spike and wave。 - c. 常因過度換氣(hyperventilation)或一些光刺激(photic stimulation)引發。 藥物首選為 valproate(Depakine®),或使用 ethosuximide。 Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- (C) 可被過度換氣(hyperventilation)檢查誘發 Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- (D) 42. 下列關於癲癇失神型小發作(absence, petit mal)的敘述,何者 100(一)專 最正確? - (A) 首次發作通常發生於 15 歲到 20 歲之間 - (B) 發作中不會有自動症(automatism) - (C) 發作時腦電圖(EEG)呈現局部性棘波(focal spikes) - (D) 過度換氣(hyperventilation) 會引起發作 Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- ...狀態 | Lethargy or stupor | Coma ( 腦幹受損 | 較易呈現深度昏迷) | | | | Cheyne-Stokes | Central | Apneustic | Ataxic | | | (一段深一段淺) | hyperventilation | (長吸式呼吸 | (失調式呼吸=亂) | | 呼吸 | | (過度換氣) | =深吸+短暫吐氣) | | | | ~~~~~ | WWW. | m | $\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{$ | | 瞳孔 | Small & Reactive | Mi Source: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48.
+- (B) 11. 李小姐最近兩個月常常突發心悸、喘不過氣,快要昏倒的感覺。 經急診醫師診察後,血液生化及心電圖檢查均正常,動脈血氣體 檢查呈現輕微呼吸性鹼中毒的現象,被診斷為恐慌發作,給藥 paroxetine 20 mg / 錠,每天晚上一顆,及 alprazolam 0.5 mg / 錠,發作時才服用。李小姐回家服用後,出現噁心、白天想睡、晚上睡不著的現象,因此,停用 paroxetine,另外,又擔心 alprazolam 吃了會習慣,因此也不敢服用。下列處置何者錯誤? - (A) 認知治療: 教導不要將輕微的身體症狀誤認為致命性的症狀, 告知恐慌症的生理病理機制, 症狀是短暫的現象, Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- (C) 呼吸性鹼中毒(respiratory alkalosis) Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- ...1) 又稱為小發作(petit mal),發作時病人會突然出現動作靜止、面無表情;發作期間病人無法藉由呼叫或碰觸喚醒。 - (2) 5 歲以前不常發生,女性較男性好發。發作時不會有 aura,且發作時間很少會 持續超過 30 秒。過度換氣(hyperventilation)持續 3~4 分鐘或是閃光可以誘發 失神發作。 - (3) 失神發作一天內可以發生很多次,甚至可達數十次。然而,complex partial seizure 一天內發生次數不若失神發作般。 - (4) 90% 病人有 automatic behavior。 - (5) EEG 可以發現 3/sec spike 與 generalized wave discharge (整個腦袋亂放電)。 Source: 醫(四)第1冊小兒_戊、神經系統性疾病 Page 229-284.
+- (A) 2. 一歲小孩自 6 個月大起,發生數次大哭後面色發黑,並喪失意識, 108( 二) 專 數秒後清醒正常,身體診察無明顯異常,最常見之疾病為何? 醫四-18 - (A) 屏氣發作 (Breath-holding spell) - (B) 先天性心臟病(Congenital heart disease) - (C) 過度換氣症候群 (Hyperventilation syndrome) - (D) 失神發作 (Absence attack) Source: 醫(四)第1冊小兒_戊、神經系統性疾病 Page 229-284.
+- (D) normal anion gap metabolic acidosis with respiratory alkalosis Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
 
 ## Clinical Caveats
 

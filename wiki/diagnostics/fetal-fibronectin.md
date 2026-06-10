@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- | Moderate preterm | 32~37 週,佔早產的 84%,其中 34~37 週又稱 late preterm | |-------------------|--------------------------------------------| | Very preterm | 28~32 週,佔早產的 10% | | Extremely preterm | 3 cm | Preterm birth 風險低 (無論 fetal fibronectin 是否陽性 ) | |---------------|--------------------------------------------------| | 子宮頸長度4,有 neuroprotection 效果以避免腦性麻痺。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- | Moderate preterm | 32~37 週,佔早產的 84%,其中 34~37 週又稱 late preterm | |-------------------|--------------------------------------------| | Very preterm | 28~32 週,佔早產的 10% | | Extremely preterm | 3 cm | Preterm birth 風險低 (無論 fetal fibronectin 是否陽性 ) | |---------------|--------------------------------------------------| | 子宮頸長度4,有 neuroprotection 效果以避免腦性麻痺。 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
 
 ## Clinical Caveats
 

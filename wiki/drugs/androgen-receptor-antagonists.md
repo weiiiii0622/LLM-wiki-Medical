@@ -29,12 +29,12 @@ tags:
 
 ## Key Details From Sources
 
-- ...風險 ) | | | 高雄性素症 | • 首選治療為口服避孕藥,若治療6個月效果不佳,可加 | | | | 上抗雄性藥物,抗雄性藥物包括 spironolactone (首選)、 | | | | cyproterone acetate 和 flutamide ( 肝毒性 )。 | | | | ・物理性除毛 ± 抑制毛髮生成外用藥 (如:vaniqa) | | | 新陳代謝問題 | · metformin 或其他胰島素增敏劑來改善胰島素抗性 | | | | ・ 血脂異常可用 Statins 類藥物 ( 如:simvastatin) 治療 | | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- (B) 使用 flutamide 治療 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- 【詳解】多毛症的婦女,首選治療為口服避孕藥,若治療 6 個月效果不佳,可加上抗雄性藥物,抗雄性藥物包括 (B) flutamide、(C) spironolactone、(D) cyproterone acetate。首選為 spironolactone,flutamide 因有肝毒性而建議盡量避免使用;(A) medroxyprogesterone acetate 具雄性素及合成代謝的作用,不適合用來治療多毛症。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- v. 雄性素受器拮抗劑 (androgen receptor antagonist)。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- ...Supplementation to Prevent Adrenal Insufficiency | Precursors Oytochrome P450 Andro | | Androgen ReceptorAntagonists | FlutamideBicalutamideNilutamide | Prostate Gland | Inhibits Androgen ReceptorLigand-Binding DomainThrough Competitive Binding | Gynecomastia,Increased LiverTransaminases,and Mastodynia | DHI. | | 5α-Reductase Inhibitors | Finaste Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- ii. 完全雄性素阻斷 (complete androgen blockade)。 - (i) 好處:存活時間比使用單一藥物長。 - (ii) 用法: 雄性素受器拮抗劑 + LHRH 促進劑。 - (iii)注意:這方法對於局部侵犯或惡性度低的攝護腺癌較有效延長生命。針對較侵犯性的攝護腺癌,使用合併治療效果有限,需將其較多副作用與高額花費一起做考量。另外睪丸切除術也是完全雄性素阻斷的一種。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...風險 ) | | | 高雄性素症 | • 首選治療為口服避孕藥,若治療6個月效果不佳,可加 | | | | 上抗雄性藥物,抗雄性藥物包括 spironolactone (首選)、 | | | | cyproterone acetate 和 flutamide ( 肝毒性 )。 | | | | ・物理性除毛 ± 抑制毛髮生成外用藥 (如:vaniqa) | | | 新陳代謝問題 | · metformin 或其他胰島素增敏劑來改善胰島素抗性 | | | | ・ 血脂異常可用 Statins 類藥物 ( 如:simvastatin) 治療 | | Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- (B) 使用 flutamide 治療 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- 【詳解】多毛症的婦女,首選治療為口服避孕藥,若治療 6 個月效果不佳,可加上抗雄性藥物,抗雄性藥物包括 (B) flutamide、(C) spironolactone、(D) cyproterone acetate。首選為 spironolactone,flutamide 因有肝毒性而建議盡量避免使用;(A) medroxyprogesterone acetate 具雄性素及合成代謝的作用,不適合用來治療多毛症。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- v. 雄性素受器拮抗劑 (androgen receptor antagonist)。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- ...Supplementation to Prevent Adrenal Insufficiency | Precursors Oytochrome P450 Andro | | Androgen ReceptorAntagonists | FlutamideBicalutamideNilutamide | Prostate Gland | Inhibits Androgen ReceptorLigand-Binding DomainThrough Competitive Binding | Gynecomastia,Increased LiverTransaminases,and Mastodynia | DHI. | | 5α-Reductase Inhibitors | Finaste Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- ii. 完全雄性素阻斷 (complete androgen blockade)。 - (i) 好處:存活時間比使用單一藥物長。 - (ii) 用法: 雄性素受器拮抗劑 + LHRH 促進劑。 - (iii)注意:這方法對於局部侵犯或惡性度低的攝護腺癌較有效延長生命。針對較侵犯性的攝護腺癌,使用合併治療效果有限,需將其較多副作用與高額花費一起做考量。另外睪丸切除術也是完全雄性素阻斷的一種。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
 
 ## Clinical Caveats
 

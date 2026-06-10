@@ -37,12 +37,12 @@ tags:
 
 ## Key Details From Sources
 
-- (e) 藥物方面 (drug-induced): 抗精神病藥物 (antipsychotics)、抗憂鬱劑 (antidepressants)、降血壓劑 (β-blocker、利尿劑;α-blocker 最不易導致 ED)、抽菸、酒精 (一天酒精攝取>15 g)、胃酸抑制劑 (H2 blocker)、 女性荷爾蒙 / 抗男性賀爾蒙。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- e. 質子幫浦抑制劑(proton pump inhibitors):藉由不可逆地結合在壁細胞上質子幫浦抑制胃酸產生,最大效果在治療後第4天,而藥效持續直到壁細胞凋亡,所以藥效在停藥後仍可持續4~5天,所以使用PPI患者需停藥一週後再做pH monitoring檢查。且比起 H2 blocker 更有效幫助食道潰瘍癒合。副作用為頭痛、腹痛、腹瀉。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 4. 補充:這邊不得不提到一顆好藥:**Proton pump inhibitor**。由圖片可知 Parietal cell 可受到**神經細胞**與**腸道賀爾蒙(histamine、Gastrin**)這三個 pathway 來控制胃酸的分泌。傳統的 H2 blocker 只能 block histamine 的 pathway,並不能有效控制胃酸的分泌,但 PPI 卻能有效直接抑制幫浦,直接 block 住三線 pathway,抑制胃酸的分泌,也大大減低近年來因 peptic ulcer 所帶來的 complication 如出血或穿孔。 Source: [[sources/med5-book3-ch01|甲、解剖構造與生理]].
-- 8. H2 blocker 或是 PPI 去減輕 stress ulcer。 Source: [[sources/med5-book1-ch13|丁、蜘蛛膜下腔出血]].
-- (D) $H_2$ 接受器抑制劑( $H_2$ receptor blocker),如 ranitidine 是沒有治療效果 Source: [[sources/med4-book2-ch11|子、其 他]].
-- ...肉瘤 (Angiosarcoma)等。 - b. 此藥需以包含 cremophor 的載體輸注,所以容易導致過敏,注射前需以 Dexamethasone, Diphenhydramine (H1 blocker), Cimetidine (H2 blocker)預防過敏。 - c. 還可能導致四肢末端麻木等神經毒性(glove-and-stocking neuropathy)。 - d. 有些病患會有心率不整,以 asymptomatic bradycardia 最常見,也可能造成 heart block。 - (2) Docetaxel (Taxotere®、歐洲紫杉醇) - a. 以 polysorbate 80 formulation 輸注,也會造成過敏反應,還可能會造成水分滯留。 也 Source: [[sources/med3-book4-ch19|乙、化學治療]].
+- (e) 藥物方面 (drug-induced): 抗精神病藥物 (antipsychotics)、抗憂鬱劑 (antidepressants)、降血壓劑 (β-blocker、利尿劑;α-blocker 最不易導致 ED)、抽菸、酒精 (一天酒精攝取>15 g)、胃酸抑制劑 (H2 blocker)、 女性荷爾蒙 / 抗男性賀爾蒙。 Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
+- e. 質子幫浦抑制劑(proton pump inhibitors):藉由不可逆地結合在壁細胞上質子幫浦抑制胃酸產生,最大效果在治療後第4天,而藥效持續直到壁細胞凋亡,所以藥效在停藥後仍可持續4~5天,所以使用PPI患者需停藥一週後再做pH monitoring檢查。且比起 H2 blocker 更有效幫助食道潰瘍癒合。副作用為頭痛、腹痛、腹瀉。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- 4. 補充:這邊不得不提到一顆好藥:**Proton pump inhibitor**。由圖片可知 Parietal cell 可受到**神經細胞**與**腸道賀爾蒙(histamine、Gastrin**)這三個 pathway 來控制胃酸的分泌。傳統的 H2 blocker 只能 block histamine 的 pathway,並不能有效控制胃酸的分泌,但 PPI 卻能有效直接抑制幫浦,直接 block 住三線 pathway,抑制胃酸的分泌,也大大減低近年來因 peptic ulcer 所帶來的 complication 如出血或穿孔。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_甲、解剖構造與生理 Page 19-26.
+- 8. H2 blocker 或是 PPI 去減輕 stress ulcer。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_丁、蜘蛛膜下腔出血 Page 157-162.
+- (D) $H_2$ 接受器抑制劑( $H_2$ receptor blocker),如 ranitidine 是沒有治療效果 Source: 醫(四)第2冊皮膚_子、其他 Page 193-206.
+- ...肉瘤 (Angiosarcoma)等。 - b. 此藥需以包含 cremophor 的載體輸注,所以容易導致過敏,注射前需以 Dexamethasone, Diphenhydramine (H1 blocker), Cimetidine (H2 blocker)預防過敏。 - c. 還可能導致四肢末端麻木等神經毒性(glove-and-stocking neuropathy)。 - d. 有些病患會有心率不整,以 asymptomatic bradycardia 最常見,也可能造成 heart block。 - (2) Docetaxel (Taxotere®、歐洲紫杉醇) - a. 以 polysorbate 80 formulation 輸注,也會造成過敏反應,還可能會造成水分滯留。 也 Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_乙、化學治療 Page 215-224.
 
 ## Clinical Caveats
 

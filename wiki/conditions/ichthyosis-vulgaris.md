@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- (A) FLG 基因突變使 filaggrin 的製造減少 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (D) 可合併尋常性魚鱗癬(ichthyosis vulgaris) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- D. 尋常性魚鱗癬 (Ichthyosis vulgaris) 171 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- # D. 尋常性魚鱗癬 (Ichthyosis vulgaris) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- 2. 目前可區分診斷的魚鱗癬有三十多種,其中較為常見的分別為尋常性魚鱗癬 (Ichthyosis Vulgaris)、X 染色體隱性遺傳魚鱗癬 (X-linked Recessive Ichthyosis)、表皮溶解性過度角化症 (Epidermolytic Hyperkeratosis)、層狀魚鱗癬 (Lamellar Ichthyosis),其中最常見的即為本節介紹的尋常性魚鱗癬。(其他類型簡介於題目詳解中) Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- (A) 尋常性魚鱗癬 (ichthyosis vulgaris) Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
+- (A) FLG 基因突變使 filaggrin 的製造減少 Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- (D) 可合併尋常性魚鱗癬(ichthyosis vulgaris) Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- D. 尋常性魚鱗癬 (Ichthyosis vulgaris) 171 Source: 醫(四)第2冊皮膚_癸、先天性疾病 Page 179-192.
+- # D. 尋常性魚鱗癬 (Ichthyosis vulgaris) Source: 醫(四)第2冊皮膚_癸、先天性疾病 Page 179-192.
+- 2. 目前可區分診斷的魚鱗癬有三十多種,其中較為常見的分別為尋常性魚鱗癬 (Ichthyosis Vulgaris)、X 染色體隱性遺傳魚鱗癬 (X-linked Recessive Ichthyosis)、表皮溶解性過度角化症 (Epidermolytic Hyperkeratosis)、層狀魚鱗癬 (Lamellar Ichthyosis),其中最常見的即為本節介紹的尋常性魚鱗癬。(其他類型簡介於題目詳解中) Source: 醫(四)第2冊皮膚_癸、先天性疾病 Page 179-192.
+- (A) 尋常性魚鱗癬 (ichthyosis vulgaris) Source: 醫(四)第2冊皮膚_庚、乾癬 (Psoriasis) Page 130-136.
 
 ## Clinical Caveats
 

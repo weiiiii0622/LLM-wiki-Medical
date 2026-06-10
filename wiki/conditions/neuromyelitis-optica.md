@@ -27,9 +27,9 @@ AQP4-IgG 相關 astrocytopathy，典型侵犯 optic nerves 與 longitudinally ex
 
 ## Key Details From Sources
 
-- III. 去髓鞘疾病 (Demyelinating Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necr Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- #### B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (2) NMO-IgG 血清抗體陽性。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- III. 去髓鞘疾病 (Demyelinating Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necr Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- #### B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- (2) NMO-IgG 血清抗體陽性。 Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
 
 ## Clinical Caveats
 

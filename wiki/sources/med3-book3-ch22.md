@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_寅、法定傳染病通報.md
+raw_source_title: "醫(三)第3冊腎內感染_第二篇、感染科_寅、法定傳染病通報"
+raw_source_file: "raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_寅、法定傳染病通報.md"
+page_start: 265
+page_end: 284
+canonical_citation: "醫(三)第3冊腎內感染_第二篇、感染科_寅、法定傳染病通報 Page 265-284"
 book: 醫(三)第3冊腎內感染
 chapter_order: 22
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第3冊腎內感染
 - Chapter file: `raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_寅、法定傳染病通報.md`
+- Pages covered: 265-284
+- Canonical citation: 醫(三)第3冊腎內感染_第二篇、感染科_寅、法定傳染病通報 Page 265-284
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

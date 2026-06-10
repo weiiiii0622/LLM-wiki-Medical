@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...---------------------------------------------------------------------------| | Neonates ( 35 years) | CVA, Brain tumor, Alcohol withdrawal Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- 4. 酒精戒斷 (withdrawal)。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- @ DSM-5 把 alcohol abuse 與 alcohol dependence 合併為 alcohol use disorder,診斷準則如下(參考),但是酒精戒斷與中毒準則不變: Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- ...現耐受性,定義為下列兩項之一: - a. 需要喝更多久才能達到原來的效果(要越喝越多才會茫) - b. 喝同樣劑量的酒,達成的效果卻減少(原本喝一瓶就會茫了,效果卻變差 了) - (11) 出現戒斷症狀,定義為下列兩項之一: - a. 出現酒精戒斷症狀。 - b. 需要喝酒來緩解戒斷症狀。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- ...---------------------------------------------------------------------------| | Neonates ( 35 years) | CVA, Brain tumor, Alcohol withdrawal Metabolic (uremia, hepatic failure, electrolyte abnormalities, hypoglycemia) Alzheimer disease and other degenerative CNS diseases Idiopathic | Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- 4. 酒精戒斷 (withdrawal)。 Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- @ DSM-5 把 alcohol abuse 與 alcohol dependence 合併為 alcohol use disorder,診斷準則如下(參考),但是酒精戒斷與中毒準則不變: Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- ...現耐受性,定義為下列兩項之一: - a. 需要喝更多久才能達到原來的效果(要越喝越多才會茫) - b. 喝同樣劑量的酒,達成的效果卻減少(原本喝一瓶就會茫了,效果卻變差 了) - (11) 出現戒斷症狀,定義為下列兩項之一: - a. 出現酒精戒斷症狀。 - b. 需要喝酒來緩解戒斷症狀。 Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
 
 ## Clinical Caveats
 

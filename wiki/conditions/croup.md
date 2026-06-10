@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- C. 病因:以副流感病毒(parainfluenza virus)最常見,佔 croup 約 67%,第二常見為呼吸道融合病毒(RSV)。另外,流感病毒或腺病毒也會引起哮吼。細菌感染也有機會引發哮吼,只是不若病毒常見。(任何造成呼吸道感染的病原體都有機會引發哮吼) Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 1. Croup 典型特徵為 barking cough、stridor、hoarseness。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (2) AP view: 會有 subglottic narrowing (steeple sign, 見右圖)。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- C. 病因:以副流感病毒(parainfluenza virus)最常見,佔 croup 約 67%,第二常見為呼吸道融合病毒(RSV)。另外,流感病毒或腺病毒也會引起哮吼。細菌感染也有機會引發哮吼,只是不若病毒常見。(任何造成呼吸道感染的病原體都有機會引發哮吼) Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- 1. Croup 典型特徵為 barking cough、stridor、hoarseness。 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- (2) AP view: 會有 subglottic narrowing (steeple sign, 見右圖)。 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
 
 ## Clinical Caveats
 

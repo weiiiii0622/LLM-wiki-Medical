@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_甲、主動脈剝離.md
+raw_source_title: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_甲、主動脈剝離"
+raw_source_file: "raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_甲、主動脈剝離.md"
+page_start: 17
+page_end: 28
+canonical_citation: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_甲、主動脈剝離 Page 17-28"
 book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 chapter_order: 1
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 - Chapter file: `raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_甲、主動脈剝離.md`
+- Pages covered: 17-28
+- Canonical citation: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_甲、主動脈剝離 Page 17-28
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

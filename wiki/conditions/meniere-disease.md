@@ -27,7 +27,7 @@ Meniere disease 典型為反覆眩暈、波動性聽損、耳鳴與耳脹感。 
 
 ## Key Details From Sources
 
-- 4. 梅尼爾氏症 (Meniere's disease) - (1) 流行病學: 40 歲至 60 歲的中年人。 - (2) 致病機轉:內耳淋巴(Endolymphatic drops)的吸收機制出現問題,導致淋巴管水腫進而影響到內耳迷路,可能與自體免疫疾病相關。 - (3) 臨床症狀(持續數分鐘至數小時,發作時伴隨前兆): classic triad 為**陣發性的聽**力喪失(尤其在低頻)、耳鳴或耳脹、反覆性的 vertigo。 - (4) 處 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- 4. 梅尼爾氏症 (Meniere's disease) - (1) 流行病學: 40 歲至 60 歲的中年人。 - (2) 致病機轉:內耳淋巴(Endolymphatic drops)的吸收機制出現問題,導致淋巴管水腫進而影響到內耳迷路,可能與自體免疫疾病相關。 - (3) 臨床症狀(持續數分鐘至數小時,發作時伴隨前兆): classic triad 為**陣發性的聽**力喪失(尤其在低頻)、耳鳴或耳脹、反覆性的 vertigo。 - (4) 處 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
 
 ## Clinical Caveats
 

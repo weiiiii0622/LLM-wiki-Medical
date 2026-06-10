@@ -27,8 +27,8 @@ Sinonasal cancers 罕見且常晚期發現，症狀可類似單側鼻阻塞、�
 
 ## Key Details From Sources
 
-- II. 鼻及鼻竇惡性腫瘤 (Nasal and Sinus Cancer) 250 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### II. 鼻及鼻竇惡性腫瘤 (Nasal and Sinus Cancer) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- II. 鼻及鼻竇惡性腫瘤 (Nasal and Sinus Cancer) 250 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### II. 鼻及鼻竇惡性腫瘤 (Nasal and Sinus Cancer) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
 
 ## Clinical Caveats
 

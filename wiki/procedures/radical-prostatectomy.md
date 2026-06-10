@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 局部侵犯: T1~T3a + N0M0。 - a. 治療方式:觀察、根除性攝護腺切除術或放射治療。使用哪種方式依癌症 PSA、分級、分期、年齡、病人意願而定。 - (a) 依癌症風險分類 (PSA、分級、分期): - i. 攝護腺癌的風險分類 (D'Amico Risk groups): - (i) 低風險: PSA ≤ 10,且 Gleason ≤ 6,且 clinical stage T1 or T2a。(注意三個都要成立) - (ii) 中風險: PSA 10~20, Gleason 7, 或 clinical stage T2b。 - (iii)高風險:PSA > 20, Gleason 8~10,或 clinical stage T2c or T3a。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- c. 根除性攝護腺切除術(radical prostatectomy): 切除攝護腺、儲精囊、部分輸精管、骨盆腔淋巴廓清。 - (a) 時機: 宜在攝護腺切片檢查 6 週後或 TURP 12 週後,如此可避免因局部 發炎反應造成的粘黏而導致周圍組織傷害(如直腸),若要做神經保存手 術亦較容易。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (B) 2. 一位 50 歲男性前列腺癌病人接受前列腺根除手術,術後無法勃 109(-) 専起,最可能受損的神經是:醫五-71 - (A) 骨盆腔神經叢 (pelvic plexus) - (B) 海綿體神經 (cavernous nerve) - (C) 陰部神經 (pudendal nerve) - (D) 腹下神經 (hypogastric nerve) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (1) 局部侵犯: T1~T3a + N0M0。 - a. 治療方式:觀察、根除性攝護腺切除術或放射治療。使用哪種方式依癌症 PSA、分級、分期、年齡、病人意願而定。 - (a) 依癌症風險分類 (PSA、分級、分期): - i. 攝護腺癌的風險分類 (D'Amico Risk groups): - (i) 低風險: PSA ≤ 10,且 Gleason ≤ 6,且 clinical stage T1 or T2a。(注意三個都要成立) - (ii) 中風險: PSA 10~20, Gleason 7, 或 clinical stage T2b。 - (iii)高風險:PSA > 20, Gleason 8~10,或 clinical stage T2c or T3a。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- c. 根除性攝護腺切除術(radical prostatectomy): 切除攝護腺、儲精囊、部分輸精管、骨盆腔淋巴廓清。 - (a) 時機: 宜在攝護腺切片檢查 6 週後或 TURP 12 週後,如此可避免因局部 發炎反應造成的粘黏而導致周圍組織傷害(如直腸),若要做神經保存手 術亦較容易。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- (B) 2. 一位 50 歲男性前列腺癌病人接受前列腺根除手術,術後無法勃 109(-) 専起,最可能受損的神經是:醫五-71 - (A) 骨盆腔神經叢 (pelvic plexus) - (B) 海綿體神經 (cavernous nerve) - (C) 陰部神經 (pudendal nerve) - (D) 腹下神經 (hypogastric nerve) Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
 
 ## Clinical Caveats
 

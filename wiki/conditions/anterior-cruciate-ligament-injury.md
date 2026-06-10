@@ -27,9 +27,9 @@ ACL injury 常有 pop 聲、急性血腫與膝不穩，Lachman test 敏感，年
 
 ## Key Details From Sources
 
-- 這章節較容易理解。分為三部分:第一是前十字韌帶傷害,第二是後十字 韌帶傷害,第三是半月板傷害。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (1) Lachman test:最敏感的理學檢查(韌帶最緊的位置,如果連這角度都鬆,表示一定有問題):於膝彎曲 15~20 的角度下,檢查脛骨是否有向前鬆動。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (3) MacIntosh (pivot shift test):下肢先完全伸直(0度),施予內旋的力量,同時 彎曲膝蓋,膝關節在30~45度時會有向前突跳不穩的現象。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
+- 這章節較容易理解。分為三部分:第一是前十字韌帶傷害,第二是後十字 韌帶傷害,第三是半月板傷害。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- (1) Lachman test:最敏感的理學檢查(韌帶最緊的位置,如果連這角度都鬆,表示一定有問題):於膝彎曲 15~20 的角度下,檢查脛骨是否有向前鬆動。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- (3) MacIntosh (pivot shift test):下肢先完全伸直(0度),施予內旋的力量,同時 彎曲膝蓋,膝關節在30~45度時會有向前突跳不穩的現象。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
 
 ## Clinical Caveats
 

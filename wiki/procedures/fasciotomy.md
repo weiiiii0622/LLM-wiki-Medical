@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 施行肌膜切開術 (fasciotomy) 和去壓迫 (decompression)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (3) 施行肌膜切開術 (fasciotomy) 和去壓迫 (decompression)。 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
 
 ## Clinical Caveats
 

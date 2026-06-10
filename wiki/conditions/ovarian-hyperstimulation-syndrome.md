@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- E. 卵巢過度刺激症候群 (Ovarian hyperstimulation syndrome) 392 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- (5) 破卵:追蹤到至少3個濾泡直徑大於17 mm 或2個濾泡直徑大於18 mm,給予hCG或GnRH agonist或dual trigger(hCG+GnRH agonist)促進卵子成熟及破卵。 ※因hCG半衰期長,較易引起卵巢過度刺激症候群(OHSS)。在拮抗劑療程中, 若為OHSS高危險群,可用GnRH agonist來破卵,以降低OHSS的發生。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- (10) 偵測懷孕:在胚胎植入後 14 天驗孕。 - ※人工協助生殖技術(Assisted Reproductive Technology, ART)治療風險包括多胞胎、異位妊娠和卵巢過度刺激症候群。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- ...phene 或 letrozole,其次為 gonadotropin。 | | | | 兩者皆可輔以 metformin | | | | · 手術:腹腔鏡卵巢電燒穿孔術 | | | | · 人工生殖技術 (輔以 metformin 可減少 OHSS 的風險 ) | | | 高雄性素症 | • 首選治療為口服避孕藥,若治療6個月效果不佳,可加 | | | | 上抗雄性藥物,抗雄性藥物包括 spironolactone (首選)、 | | | | cyproterone acetate 和 flutamide ( 肝毒性 )。 | | | | ・物理性除毛 ± 抑制毛髮生成外用藥 (如:vaniqa) | | | 新陳代謝問題 | · metformin 或其他胰島素增敏劑來改善胰島 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- E. 卵巢過度刺激症候群 (Ovarian hyperstimulation syndrome) 392 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- (5) 破卵:追蹤到至少3個濾泡直徑大於17 mm 或2個濾泡直徑大於18 mm,給予hCG或GnRH agonist或dual trigger(hCG+GnRH agonist)促進卵子成熟及破卵。 ※因hCG半衰期長,較易引起卵巢過度刺激症候群(OHSS)。在拮抗劑療程中, 若為OHSS高危險群,可用GnRH agonist來破卵,以降低OHSS的發生。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- (10) 偵測懷孕:在胚胎植入後 14 天驗孕。 - ※人工協助生殖技術(Assisted Reproductive Technology, ART)治療風險包括多胞胎、異位妊娠和卵巢過度刺激症候群。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- ...phene 或 letrozole,其次為 gonadotropin。 | | | | 兩者皆可輔以 metformin | | | | · 手術:腹腔鏡卵巢電燒穿孔術 | | | | · 人工生殖技術 (輔以 metformin 可減少 OHSS 的風險 ) | | | 高雄性素症 | • 首選治療為口服避孕藥,若治療6個月效果不佳,可加 | | | | 上抗雄性藥物,抗雄性藥物包括 spironolactone (首選)、 | | | | cyproterone acetate 和 flutamide ( 肝毒性 )。 | | | | ・物理性除毛 ± 抑制毛髮生成外用藥 (如:vaniqa) | | | 新陳代謝問題 | · metformin 或其他胰島素增敏劑來改善胰島 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
 
 ## Clinical Caveats
 

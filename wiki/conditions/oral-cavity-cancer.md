@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 口腔癌是指發生在口腔的惡性腫瘤之總稱,可出現在口腔的任何部位,共有八個分區,包括嘴唇、上牙齦、下牙齦、舌、口腔底部、硬顎、頰黏膜、臼齒後區。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- 2. 在所有的口腔癌之中,約 90% 為鱗狀細胞癌(squamous cell carcinoma),其餘是腺癌(adenocarcinoma)。好發的部位以頰黏膜、舌頭側邊與牙齦最多。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### E. 口腔癌分期 (Oral Cavity Cancer TNM Staging, AJCC 8th) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- (1) 口腔癌常考,舌癌的好發部位、臨床症狀與治療,TNM 分期掌握大方向其實不難。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 1. 口腔癌是指發生在口腔的惡性腫瘤之總稱,可出現在口腔的任何部位,共有八個分區,包括嘴唇、上牙齦、下牙齦、舌、口腔底部、硬顎、頰黏膜、臼齒後區。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- 2. 在所有的口腔癌之中,約 90% 為鱗狀細胞癌(squamous cell carcinoma),其餘是腺癌(adenocarcinoma)。好發的部位以頰黏膜、舌頭側邊與牙齦最多。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### E. 口腔癌分期 (Oral Cavity Cancer TNM Staging, AJCC 8th) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- (1) 口腔癌常考,舌癌的好發部位、臨床症狀與治療,TNM 分期掌握大方向其實不難。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
 
 ## Clinical Caveats
 

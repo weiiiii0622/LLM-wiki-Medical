@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 應進行子宮內膜評估的女性: - 大於 40 歲有不正常子宮出血 - · 小於 40 歲有不正常子宮出血,且有風險因子(肥胖、糖尿病、慢性無排卵、 tamoxifen、子宮內膜癌/乳癌/卵巢癌/大腸癌的家族史) - · 不正常子宮出血經藥物治療無效 - 使用 unopposed estrogen 的荷爾蒙補充治療 - · 子宮頸抹片發現 atypical glandular cells - · 有遺傳性非息肉性大腸癌 (HNPCC) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (A) 陰道及子宮頸抹片(Pap smear) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- ...cond second second second second second second second second | 有些年老婦女因子宮頸狹窄可 能不會出血,而以子宮積血或 | | | | 積膿來表現 | | | 意外發現 | · 子宮頸抹片意外發現 atypical glandular cells 或 adenocarcinoma | | | | ・影像檢查意外發現子宮內膜病灶 | | | | 因良性病灶切除子宮後意外發現 | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 2. 陰道鏡檢查的適應症: - · 細胞學:不正常的 Pap smear - · 懷疑子宮頸、陰道和陰唇異常,如白斑 (leukoplakia) 和病毒疣 - 治療後的追蹤 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (3) 應進行子宮內膜評估的女性: - 大於 40 歲有不正常子宮出血 - · 小於 40 歲有不正常子宮出血,且有風險因子(肥胖、糖尿病、慢性無排卵、 tamoxifen、子宮內膜癌/乳癌/卵巢癌/大腸癌的家族史) - · 不正常子宮出血經藥物治療無效 - 使用 unopposed estrogen 的荷爾蒙補充治療 - · 子宮頸抹片發現 atypical glandular cells - · 有遺傳性非息肉性大腸癌 (HNPCC) Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (A) 陰道及子宮頸抹片(Pap smear) Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- ...cond second second second second second second second second | 有些年老婦女因子宮頸狹窄可 能不會出血,而以子宮積血或 | | | | 積膿來表現 | | | 意外發現 | · 子宮頸抹片意外發現 atypical glandular cells 或 adenocarcinoma | | | | ・影像檢查意外發現子宮內膜病灶 | | | | 因良性病灶切除子宮後意外發現 | | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 2. 陰道鏡檢查的適應症: - · 細胞學:不正常的 Pap smear - · 懷疑子宮頸、陰道和陰唇異常,如白斑 (leukoplakia) 和病毒疣 - 治療後的追蹤 Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
 
 ## Clinical Caveats
 

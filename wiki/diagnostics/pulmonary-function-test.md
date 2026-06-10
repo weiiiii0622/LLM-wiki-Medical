@@ -77,24 +77,24 @@ tags:
 
 ## Key Details From Sources
 
-- 4. 呼吸系統:有無氣喘、COPD、或是平常有呼吸喘的情況,並評估其 NYHA class 或做 PFT(pulmonary function tests)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- 2. 術前胸部 X 光、心電圖、抽血檢查(凝血功能、血紅素)、肺功能評估。依據不同的病患可能需要不同的術前檢查。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- (a) 肺容積降低:表現為 restrictive lung disease,用力肺活量(forced vital capacity, FVC)、呼氣儲存量(expiratory reserve volume)、通氣儲存量(ventilatory reserve volume)、全肺容積(total lung capacity)等皆會下降;肺餘容積(residual volume)則會上升。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- 3. 禁忌症:目前腹腔鏡手術不斷精進,似乎已沒有絕對的禁忌症。相對的禁忌症如下 - 心肺功能不佳,不適於全身麻醉者(可考慮半身麻醉的可行性) - · 懷孕(第二孕程可行腹腔鏡手術) - · 癌症(目前愈來愈多癌症嘗試以腹腔鏡方式手術,如上適應症) - · 腫瘤太大或嚴重沾黏(目前手術技術精進,許多困難個案亦可使用腹腔鏡) Source: [[sources/med6-book1-ch17|甲、腹腔鏡(Laparoscopy)]].
-- (D) 伴隨的內科問題(如心肺功能障礙或電解質不平衡)穩定 後,即儘早手術固定 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- i. 手術危險性高之病患:心肺功能不佳或血液凝固疾病。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- 【詳解】右肺將會代償左肺功能,剩下單肺的負壓,吸氣時肺 泡壓上升變快肺間壓變大,故肺順應性下降,肺內壓升高加上 肺過度膨漲的組織張力,故血管阻力也會升高,氣道阻力也增 加,故氣道傳導度降低。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 1. 肺功能量計(spirometry)是最常見主要評估肺功能的工具,評估包含肺容積及彈性(elasticity)、回彈性(recoil)和順應性(compliance)等肺機械性質。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 2. 手術前肺功能評估: $P_{CO2} > 43~45~mmHg$ 顯示有肺功能嚴重喪失約將近 50%,若合併肺高壓(為肺切除手術相對禁忌症)。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 4. 臨床表現:呼吸受限、運動性肋軟骨疼痛、心悸或心雜音,二尖瓣脫垂,較嚴重者 會有明顯的心肺功能下降,因嚴重壓迫造成肺最大呼吸容積下降、心搏出量和心輸 出量下降。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- (2) 其他術前評估:肺功能測定(10 歲以上患者)、心電圖、心臟超音波,因常合 併先天性心臟病。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- (1) 適應症:美觀、精神社交因素(自我形象低落、低自信心等)、嚴重影響心肺功能。建議早期治療: 2~8 歲間接受矯正有較好效果。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- 6. 併發症:在數小時內可能會發生呼吸衰竭,過去推論成因是因不穩定的胸壁導致氣體傳導變差而呼吸困難,目前發現是因肺鈍傷和呼吸時的疼痛有關,可經肺功能評估預測病患是否需要呼吸機支持。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 2. 見下表,以 AAA 為例,年齡、活動度、心臟(CAD、AMI等)、肺功能(FEV1、COPD)、腎功能、AAA 的 type 及肝功能等都會影響到手術的 mortality,其中以心臟(CAD) 為最主要的手術危險因子。 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- ...F > 35% | Significant coronarydisease; recent MI; frequentangina; CHF; EF 1 > 1 L/sec | O 2 dependent; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直 Source: [[sources/med5-book2-ch02|乙、血管瘤]].
-- (4) 嚴重的慢性阻塞性肺病, $FEV_1 5 Wood units) | | | | (D) 22 歲女性罹患良性心臟內腫瘤合併反覆性心室性頻脈,無 | | | | 法以外科手術切除者 | | | | 【詳解】(C) 心臟移植後有馬上右心室衰竭的風險。 | | | (B) | 3. 在下列何種情況下,作異位心臟移植(heterotopic transplantation) | 99(二)專 | | | 比正位心臟移植(orthotopic transplantation) Source: [[sources/med5-book2-ch07|庚、心臟移植]].
-- (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: [[sources/med5-book1-ch06|己、移植外科]].
+- 4. 呼吸系統:有無氣喘、COPD、或是平常有呼吸喘的情況,並評估其 NYHA class 或做 PFT(pulmonary function tests)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- 2. 術前胸部 X 光、心電圖、抽血檢查(凝血功能、血紅素)、肺功能評估。依據不同的病患可能需要不同的術前檢查。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- (a) 肺容積降低:表現為 restrictive lung disease,用力肺活量(forced vital capacity, FVC)、呼氣儲存量(expiratory reserve volume)、通氣儲存量(ventilatory reserve volume)、全肺容積(total lung capacity)等皆會下降;肺餘容積(residual volume)則會上升。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- 3. 禁忌症:目前腹腔鏡手術不斷精進,似乎已沒有絕對的禁忌症。相對的禁忌症如下 - 心肺功能不佳,不適於全身麻醉者(可考慮半身麻醉的可行性) - · 懷孕(第二孕程可行腹腔鏡手術) - · 癌症(目前愈來愈多癌症嘗試以腹腔鏡方式手術,如上適應症) - · 腫瘤太大或嚴重沾黏(目前手術技術精進,許多困難個案亦可使用腹腔鏡) Source: 醫(六)第1冊婦產_第五篇、內視鏡_甲、腹腔鏡(Laparoscopy) Page 457-464.
+- (D) 伴隨的內科問題(如心肺功能障礙或電解質不平衡)穩定 後,即儘早手術固定 Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
+- i. 手術危險性高之病患:心肺功能不佳或血液凝固疾病。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- 【詳解】右肺將會代償左肺功能,剩下單肺的負壓,吸氣時肺 泡壓上升變快肺間壓變大,故肺順應性下降,肺內壓升高加上 肺過度膨漲的組織張力,故血管阻力也會升高,氣道阻力也增 加,故氣道傳導度降低。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- 1. 肺功能量計(spirometry)是最常見主要評估肺功能的工具,評估包含肺容積及彈性(elasticity)、回彈性(recoil)和順應性(compliance)等肺機械性質。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- 2. 手術前肺功能評估: $P_{CO2} > 43~45~mmHg$ 顯示有肺功能嚴重喪失約將近 50%,若合併肺高壓(為肺切除手術相對禁忌症)。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- 4. 臨床表現:呼吸受限、運動性肋軟骨疼痛、心悸或心雜音,二尖瓣脫垂,較嚴重者 會有明顯的心肺功能下降,因嚴重壓迫造成肺最大呼吸容積下降、心搏出量和心輸 出量下降。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- (2) 其他術前評估:肺功能測定(10 歲以上患者)、心電圖、心臟超音波,因常合 併先天性心臟病。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- (1) 適應症:美觀、精神社交因素(自我形象低落、低自信心等)、嚴重影響心肺功能。建議早期治療: 2~8 歲間接受矯正有較好效果。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- 6. 併發症:在數小時內可能會發生呼吸衰竭,過去推論成因是因不穩定的胸壁導致氣體傳導變差而呼吸困難,目前發現是因肺鈍傷和呼吸時的疼痛有關,可經肺功能評估預測病患是否需要呼吸機支持。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- 2. 見下表,以 AAA 為例,年齡、活動度、心臟(CAD、AMI等)、肺功能(FEV1、COPD)、腎功能、AAA 的 type 及肝功能等都會影響到手術的 mortality,其中以心臟(CAD) 為最主要的手術危險因子。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_乙、血管瘤 Page 29-38.
+- ...F > 35% | Significant coronarydisease; recent MI; frequentangina; CHF; EF 1 > 1 L/sec | O 2 dependent; dyspnea at rest; FEV 1 3.0 | | Other | Noninflammatory infrarenal AAA | Juxtarenal; suprarenal or inflammatory AAA | Child's class B or C liver failure; albumin 6 cm 、腹主動脈 > 5 cm 、髂動脈 > 3.5 cm )。 - b. 一年大直徑增加 1 公分,或半年增加 0.5 公分。 - c. 疼痛等症狀一直 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_乙、血管瘤 Page 29-38.
+- (4) 嚴重的慢性阻塞性肺病, $FEV_1 5 Wood units) | | | | (D) 22 歲女性罹患良性心臟內腫瘤合併反覆性心室性頻脈,無 | | | | 法以外科手術切除者 | | | | 【詳解】(C) 心臟移植後有馬上右心室衰竭的風險。 | | | (B) | 3. 在下列何種情況下,作異位心臟移植(heterotopic transplantation) | 99(二)專 | | | 比正位心臟移植(orthotopic transplantation) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_庚、心臟移植 Page 105-110.
+- (1) 肺氣腫:經長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量(FEV1)小於 25% 預測值或病況逐漸惡化者。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_己、移植外科 Page 71-86.
+- (4) 囊性肺部纖維化症:長期支氣管擴張劑治療後,肺功能第一秒最大呼氣量 $(FEV_1)$ 仍小於 30% 預測值或未使用氧氣下,動脈血氧分壓 $(PaO_2)$ 小於 60 mmHg。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_己、移植外科 Page 71-86.
 
 ## Clinical Caveats
 

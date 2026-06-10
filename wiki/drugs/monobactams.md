@@ -27,9 +27,9 @@ Aztreonam 主要抗 GNB，對 penicillin allergy 時可作替代選項之一。 
 
 ## Key Details From Sources
 
-- 1. 藥物分類:有 Penicillin、Cephalosporin、Carbapenem、Monobactam等幾大類,結構如下: Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- \* 由此圖可知, Penicillin、Cephalosporin、Carbapenem 都有兩個環,結構類似。臨床上,病人若對 Penicillin 過敏,要小心結構最類似的 Carbapenem,而對 Cephalosporin 也很有可能過敏。然而, Monobactam 結構僅有一個環,因此,對 Penicillin 過敏可用 Monobactam 替代。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
-- ...Klebsiella species* 帶有 extended-spectrum beta-lactamases (ESBL),可水解 Penicillin、第一到第四代全部的 Cephalosporins (除了 Cephamycin)、Monobactams 的 β-lactam。 - b. 治療首選藥物是 Carbapenem 類的 Imipenem、Meropenem;或用 Cephamycin。 Source: [[sources/med3-book3-ch15|庚、細菌抗生素]].
+- 1. 藥物分類:有 Penicillin、Cephalosporin、Carbapenem、Monobactam等幾大類,結構如下: Source: 醫(三)第3冊腎內感染_第二篇、感染科_庚、細菌抗生素 Page 197-216.
+- \* 由此圖可知, Penicillin、Cephalosporin、Carbapenem 都有兩個環,結構類似。臨床上,病人若對 Penicillin 過敏,要小心結構最類似的 Carbapenem,而對 Cephalosporin 也很有可能過敏。然而, Monobactam 結構僅有一個環,因此,對 Penicillin 過敏可用 Monobactam 替代。 Source: 醫(三)第3冊腎內感染_第二篇、感染科_庚、細菌抗生素 Page 197-216.
+- ...Klebsiella species* 帶有 extended-spectrum beta-lactamases (ESBL),可水解 Penicillin、第一到第四代全部的 Cephalosporins (除了 Cephamycin)、Monobactams 的 β-lactam。 - b. 治療首選藥物是 Carbapenem 類的 Imipenem、Meropenem;或用 Cephamycin。 Source: 醫(三)第3冊腎內感染_第二篇、感染科_庚、細菌抗生素 Page 197-216.
 
 ## Clinical Caveats
 

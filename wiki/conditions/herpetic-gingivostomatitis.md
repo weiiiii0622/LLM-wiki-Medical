@@ -27,9 +27,9 @@ HSV 初感染可造成兒童齒齦口腔炎、發燒、疼痛與水泡/潰瘍。
 
 ## Key Details From Sources
 
-- I. 疱疹性齒齦口腔炎 (Herpetic Stomatitis) 218 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- #### I. 疱疹性齒齦口腔炎 (Herpetic Stomatitis) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- 1. 疱疹性齒齦口腔炎(herpetic stomatitis)是由第一型單純疱疹病毒(herpes simplex virus)感染所引起。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- I. 疱疹性齒齦口腔炎 (Herpetic Stomatitis) 218 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- #### I. 疱疹性齒齦口腔炎 (Herpetic Stomatitis) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- 1. 疱疹性齒齦口腔炎(herpetic stomatitis)是由第一型單純疱疹病毒(herpes simplex virus)感染所引起。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

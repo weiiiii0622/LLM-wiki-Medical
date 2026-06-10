@@ -27,9 +27,9 @@ Corynebacterium minutissimum 表淺感染，伍氏燈可呈 coral-red fluorescen
 
 ## Key Details From Sources
 
-- # 6. 紅癬(erythrasma): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 紅癬為微細棒狀桿菌(Corynebacterium minutissimum)引起的皮膚皺摺部位的表淺感染,此菌往往寄生在正常人的鼻腔、口咽、眼結膜、外耳道及皮膚表面等處,當遇到溫暖潮濕及皮膚損傷等狀況,可侵入角質層引起感染。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (D) 3. 承上題,這位患者皮膚病的致病菌為: - (A) Trichophyton rubrum - (B) Malassezia furfur - (C) Candida albicans - (D) Corynebacterium minutissimum Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- # 6. 紅癬(erythrasma): Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (1) 紅癬為微細棒狀桿菌(Corynebacterium minutissimum)引起的皮膚皺摺部位的表淺感染,此菌往往寄生在正常人的鼻腔、口咽、眼結膜、外耳道及皮膚表面等處,當遇到溫暖潮濕及皮膚損傷等狀況,可侵入角質層引起感染。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (D) 3. 承上題,這位患者皮膚病的致病菌為: - (A) Trichophyton rubrum - (B) Malassezia furfur - (C) Candida albicans - (D) Corynebacterium minutissimum Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

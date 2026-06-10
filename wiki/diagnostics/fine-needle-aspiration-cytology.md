@@ -47,24 +47,24 @@ tags:
 
 ## Key Details From Sources
 
-- 註 1:惡性腹水包含腹膜 washing cytology 陽性反應 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (3) 分類系統:可分為 Bethesda system 和 Dysplasia system,對照如下表: - a. Bethesda system:包括 cytology 和 histology - (a) Cytology 為抹片細胞學檢查,結果包括 WNL (within normal limit)、ASC-US (atypical squamous cell of undetermined significance)、 - LSIL (low grade squamous intraepithelium lesion) > - HSIL (high grade squamous intraepit Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- | Bethesda | Bethesda cytology system | | | | | | |----------|--------------------------|------------------------|----------|---------|-----|-----------| | WNL | ASC-US | LSIL | HSIL | | | Carcinoma | | Bethesda | histology system ( | CIN) and Dyspla Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- d. 確診:clinical + X-ray + cytology。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...chemotherapy | | | (5 yr survival rate: 70~90% in low grade; 30% in high grade) | | 久站會有疼痛感 | 診斷上要配合 clinical + x-ray + cytology | | | undifferentiated chondrosarcoma, | | | mesenchymal chondrosarcoma 惡性度極高。 | | 細胞形態有較大變化時,需 DDx: | Lymphoma, metastatic disease, myeloma | | chondrosarcoma | | | Eccentric, lytic lesion, scallaoped and sclerotic | 多 Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- (1) 嗜酸細胞瘤 (oncocytoma): - a. 病理:棕色病灶,由大量嗜酸性顆粒上皮細胞構成。細胞表現變化大,從良性到惡性侵犯淋巴系統都有。診斷靠病理診斷,取得檢體的方式是腎切除,細針抽吸較難診斷。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ii. 細針抽吸(fine-needle aspiration):主要用在已經確定有多重轉移癌的病人(無法切除而根治),用以判斷在腎臟腫瘤的細胞形態。其他適應症包括:用以診斷不適合手術的病人、腎臟以外轉移至腎臟的腫瘤、影像上難以辨別的腫瘤。判斷準確率 95%、敏感度 85%,因檢查造成 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (2) 痰液分析(Sputum cytology) Source: [[sources/med5-book4-ch03|丙、肺]].
-- (4) 細針抽吸切片 (Fine needle aspiration of mass) Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...24~48 小時 追蹤胸部 X 光。非複雜性氣胸每天約可吸收縮小 1%。 - (3) 侵入性治療:適用於發展性氣胸、延遲肺擴張、伴隨症狀惡化、中等範圍氣胸 (20~40%)和大範圍氣胸(40%)幾乎伴隨持續症狀造成生理功能受限。 - a. 細針抽吸:可快速解除症狀和恢復肺擴張,並可評估是否持續漏氣需進行胸 廓造口術,可重複施行。 - b. 胸管、針導管或胸閥引流系統置放:對於醫源性氣胸(中央靜脈管路或肺切片)效果極佳,可同時治療癒合的氣胸並觀察是否有持續漏氣。 - c. 緊急針頭引流(18-gauge): 為張力性氣胸緊急處置,之後仍須放置胸管。置放位置為第2肋間和鎖骨中線交叉點。 - d. 胸廓造口術(胸管置放)合併水下密封引流:為自發性氣胸之主要治療。傳統置放位置為第2肋間和 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...常發生在 65 歲以 上病人 - (B) 有三分之一的病人是精母細胞瘤 (seminoma) - (C) 精母細胞瘤(seminoma)在抽血檢驗中,常會有較高的胎兒 蛋白(AFP)及人類絨毛膜激素(hCG) - (D) 經皮穿刺抽吸檢驗(FNA)是不須血液檢驗結果,最安全、 最快速及最正確得到診斷的方式 - 【詳解】(B) 生殖細胞瘤 20% 為惡性,精母細胞瘤佔惡性中50%,僅 5%為縱隔腔生殖細胞瘤,僅佔 3-10%縱隔腔腫瘤。故相較其他答案較貼近正確敘述。 - \*Townsend CM, Beauchamp RD, Evers BM, et al: *Sabiston textbook of surgery: The biological basis of moder Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- 1. 細針抽吸 (fine needle aspiration cytology, FNAC): - (1) 最常用以鑑別水囊狀腫塊與實質腫塊。 - (2) 為細胞學檢查(cytology),不可作為病理診斷。但 cytology的結果若為 adenocarcinoma,有大於 90%的機會最後可確診為惡性腫瘤。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- (A) 7. 下列有關乳房腫瘤細針穿刺 (fine needle aspiration) 檢查之敘述, 106(一)專 何者錯誤? 醫五-47 - (A) 用 16 或 18 號針頭(16 or 18 gauge needle) - (B) 不需局部麻醉 - (C) 可區分實質腫瘤或囊腫(solid tumor or cyst) - (D) 若發現有癌細胞(carcinoma cell) 仍需作切片檢查(tumor biopsy) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- 【詳解】可用 22 號針頭執行 fine needle aspiration。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- 3. 治療: - (1)無症狀:觀察並定期追蹤。 - (2)有症狀:可考慮細針抽吸,送組織學檢查。並且進一步做 cancer survey。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- 3. 檢查: 乳管造影術 (galactography)、乳房超音波、分泌物的細胞學檢查 (cytology)。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- 4. 內視鏡逆行性膽胰管攝影(Endoscopic Retrograde Cholangiopancreatography, ERCP): 除了做膽道癌的影像學診斷之外,也可進行治療如膽管支架的置放,或是進行細胞 學診斷(brush cytology)。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- (1) Thyroid ultrasonography: - a. 分辨是 solid 或是 cystic lesion。 - b. 惡性的可能性: hypoechoic、lesion 周圍有不完整的光圈 (incomplete peripheral halo)、邊緣不規則、有許多小鈣化點、大於 3 公分的 cyst。 - c. 可協助 FNA。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
+- 註 1:惡性腹水包含腹膜 washing cytology 陽性反應 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (3) 分類系統:可分為 Bethesda system 和 Dysplasia system,對照如下表: - a. Bethesda system:包括 cytology 和 histology - (a) Cytology 為抹片細胞學檢查,結果包括 WNL (within normal limit)、ASC-US (atypical squamous cell of undetermined significance)、 - LSIL (low grade squamous intraepithelium lesion) > - HSIL (high grade squamous intraepit Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- | Bethesda | Bethesda cytology system | | | | | | |----------|--------------------------|------------------------|----------|---------|-----|-----------| | WNL | ASC-US | LSIL | HSIL | | | Carcinoma | | Bethesda | histology system ( | CIN) and Dyspla Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- d. 確診:clinical + X-ray + cytology。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- ...chemotherapy | | | (5 yr survival rate: 70~90% in low grade; 30% in high grade) | | 久站會有疼痛感 | 診斷上要配合 clinical + x-ray + cytology | | | undifferentiated chondrosarcoma, | | | mesenchymal chondrosarcoma 惡性度極高。 | | 細胞形態有較大變化時,需 DDx: | Lymphoma, metastatic disease, myeloma | | chondrosarcoma | | | Eccentric, lytic lesion, scallaoped and sclerotic | 多 Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
+- (1) 嗜酸細胞瘤 (oncocytoma): - a. 病理:棕色病灶,由大量嗜酸性顆粒上皮細胞構成。細胞表現變化大,從良性到惡性侵犯淋巴系統都有。診斷靠病理診斷,取得檢體的方式是腎切除,細針抽吸較難診斷。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- ii. 細針抽吸(fine-needle aspiration):主要用在已經確定有多重轉移癌的病人(無法切除而根治),用以判斷在腎臟腫瘤的細胞形態。其他適應症包括:用以診斷不適合手術的病人、腎臟以外轉移至腎臟的腫瘤、影像上難以辨別的腫瘤。判斷準確率 95%、敏感度 85%,因檢查造成 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (2) 痰液分析(Sputum cytology) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- (4) 細針抽吸切片 (Fine needle aspiration of mass) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- ...24~48 小時 追蹤胸部 X 光。非複雜性氣胸每天約可吸收縮小 1%。 - (3) 侵入性治療:適用於發展性氣胸、延遲肺擴張、伴隨症狀惡化、中等範圍氣胸 (20~40%)和大範圍氣胸(40%)幾乎伴隨持續症狀造成生理功能受限。 - a. 細針抽吸:可快速解除症狀和恢復肺擴張,並可評估是否持續漏氣需進行胸 廓造口術,可重複施行。 - b. 胸管、針導管或胸閥引流系統置放:對於醫源性氣胸(中央靜脈管路或肺切片)效果極佳,可同時治療癒合的氣胸並觀察是否有持續漏氣。 - c. 緊急針頭引流(18-gauge): 為張力性氣胸緊急處置,之後仍須放置胸管。置放位置為第2肋間和鎖骨中線交叉點。 - d. 胸廓造口術(胸管置放)合併水下密封引流:為自發性氣胸之主要治療。傳統置放位置為第2肋間和 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- ...常發生在 65 歲以 上病人 - (B) 有三分之一的病人是精母細胞瘤 (seminoma) - (C) 精母細胞瘤(seminoma)在抽血檢驗中,常會有較高的胎兒 蛋白(AFP)及人類絨毛膜激素(hCG) - (D) 經皮穿刺抽吸檢驗(FNA)是不須血液檢驗結果,最安全、 最快速及最正確得到診斷的方式 - 【詳解】(B) 生殖細胞瘤 20% 為惡性,精母細胞瘤佔惡性中50%,僅 5%為縱隔腔生殖細胞瘤,僅佔 3-10%縱隔腔腫瘤。故相較其他答案較貼近正確敘述。 - \*Townsend CM, Beauchamp RD, Evers BM, et al: *Sabiston textbook of surgery: The biological basis of moder Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90.
+- 1. 細針抽吸 (fine needle aspiration cytology, FNAC): - (1) 最常用以鑑別水囊狀腫塊與實質腫塊。 - (2) 為細胞學檢查(cytology),不可作為病理診斷。但 cytology的結果若為 adenocarcinoma,有大於 90%的機會最後可確診為惡性腫瘤。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- (A) 7. 下列有關乳房腫瘤細針穿刺 (fine needle aspiration) 檢查之敘述, 106(一)專 何者錯誤? 醫五-47 - (A) 用 16 或 18 號針頭(16 or 18 gauge needle) - (B) 不需局部麻醉 - (C) 可區分實質腫瘤或囊腫(solid tumor or cyst) - (D) 若發現有癌細胞(carcinoma cell) 仍需作切片檢查(tumor biopsy) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- 【詳解】可用 22 號針頭執行 fine needle aspiration。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- 3. 治療: - (1)無症狀:觀察並定期追蹤。 - (2)有症狀:可考慮細針抽吸,送組織學檢查。並且進一步做 cancer survey。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- 3. 檢查: 乳管造影術 (galactography)、乳房超音波、分泌物的細胞學檢查 (cytology)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- 4. 內視鏡逆行性膽胰管攝影(Endoscopic Retrograde Cholangiopancreatography, ERCP): 除了做膽道癌的影像學診斷之外,也可進行治療如膽管支架的置放,或是進行細胞 學診斷(brush cytology)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_戊、膽管癌 Page 167-176.
+- (1) Thyroid ultrasonography: - a. 分辨是 solid 或是 cystic lesion。 - b. 惡性的可能性: hypoechoic、lesion 周圍有不完整的光圈 (incomplete peripheral halo)、邊緣不規則、有許多小鈣化點、大於 3 公分的 cyst。 - c. 可協助 FNA。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑.md
+raw_source_title: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑"
+raw_source_file: "raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑.md"
+page_start: 73
+page_end: 82
+canonical_citation: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑 Page 73-82"
 book: 醫(六)第4冊麻醉耳鼻喉
 chapter_order: 6
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第4冊麻醉耳鼻喉
 - Chapter file: `raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑.md`
+- Pages covered: 73-82
+- Canonical citation: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑 Page 73-82
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

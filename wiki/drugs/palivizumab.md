@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 有 bronchopulmonary dysplasia 的早產兒及 congenital heart disease 為嚴重感染的高危險群,可接受 palivizumab(monoclonal antibody against RSV)的預防注射。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- 3. 有 bronchopulmonary dysplasia 的早產兒及 congenital heart disease 為嚴重感染的高危險群,可接受 palivizumab(monoclonal antibody against RSV)的預防注射。 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
 
 ## Clinical Caveats
 

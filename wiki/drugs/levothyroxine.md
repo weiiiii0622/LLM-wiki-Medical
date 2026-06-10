@@ -33,12 +33,12 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 甲狀腺素 levothyroxine 治療 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- (5) 治療方法:針對甲狀腺機能低下給予甲狀腺素 Levothyroxine $(T_4)$ 補充,如果有轉為惡性腫瘤的可能性或是為了美觀考量才會考慮手術切除。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- b. 以 levothyroxine 治療,目標使 $T_4$ 與 TSH 在正常範圍。一般建議劑量為 $10\sim15$ mg/kg/day,當 $T_4$ 越早上升至正常範圍,越能減少先天性甲狀腺機能低下對腦部的傷害。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (4) 治療:當 TSH > 10 mU/L 且 low free T4 時:給予 levothyroxine。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (2) 治療: 須以 Levothyroxine (T4) 治療。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
-- (2) 治療: 抗體陽性、TSH > 10 μU/mL 需治療。 - a. 若 Anti-TPO Ab 等抗體陽性,有較高比例進展到 Overt hypothyroidism,所以建議治療。 - b. 甲狀腺機能低下可能造成血脂異常、導致心血管疾病,特別是 $TSH > 10 \mu U/mL$ 的病患,這類病患也建議以 Levothyroxine 將 TSH 治療到正常範圍。 Source: [[sources/med3-book2-ch11|乙、甲狀腺疾病]].
+- (C) 甲狀腺素 levothyroxine 治療 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- (5) 治療方法:針對甲狀腺機能低下給予甲狀腺素 Levothyroxine $(T_4)$ 補充,如果有轉為惡性腫瘤的可能性或是為了美觀考量才會考慮手術切除。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
+- b. 以 levothyroxine 治療,目標使 $T_4$ 與 TSH 在正常範圍。一般建議劑量為 $10\sim15$ mg/kg/day,當 $T_4$ 越早上升至正常範圍,越能減少先天性甲狀腺機能低下對腦部的傷害。 Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- (4) 治療:當 TSH > 10 mU/L 且 low free T4 時:給予 levothyroxine。 Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- (2) 治療: 須以 Levothyroxine (T4) 治療。 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_乙、甲狀腺疾病 Page 201-222.
+- (2) 治療: 抗體陽性、TSH > 10 μU/mL 需治療。 - a. 若 Anti-TPO Ab 等抗體陽性,有較高比例進展到 Overt hypothyroidism,所以建議治療。 - b. 甲狀腺機能低下可能造成血脂異常、導致心血管疾病,特別是 $TSH > 10 \mu U/mL$ 的病患,這類病患也建議以 Levothyroxine 將 TSH 治療到正常範圍。 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_乙、甲狀腺疾病 Page 201-222.
 
 ## Clinical Caveats
 

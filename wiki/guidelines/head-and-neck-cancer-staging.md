@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### E. 口腔癌分期 (Oral Cavity Cancer TNM Staging, AJCC 8th) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### F. 鼻咽癌分期 (Nasopharynx Cancer TNM Staging, AJCC 8th) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### E. 下咽癌分期 (Hypopharynx Cancer TNM Staging, AJCC 8th) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- #### E. 口腔癌分期 (Oral Cavity Cancer TNM Staging, AJCC 8th) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### F. 鼻咽癌分期 (Nasopharynx Cancer TNM Staging, AJCC 8th) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### E. 下咽癌分期 (Hypopharynx Cancer TNM Staging, AJCC 8th) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
 
 ## Clinical Caveats
 

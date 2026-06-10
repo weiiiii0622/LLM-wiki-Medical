@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (A)病人可能有缺水(dehydration)狀況,需 給予輸液補充(fluid resuscitation)及監測 尿量 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
+- (A)病人可能有缺水(dehydration)狀況,需 給予輸液補充(fluid resuscitation)及監測 尿量 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_乙、腸阻塞 Page 75-82.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- A. 心臟復健 (Cardiac rehabilitation) 124 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- #### A. 心臟復健 (Cardiac rehabilitation) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- (2) 對象:主要是接受冠狀動脈繞道手術、瓣膜換置手術、先天性心臟病手術與心臟移植術後的患者。另外週邊動脈阻塞、接受冠狀動脈血管整型術後或心臟衰竭患者,也都是心臟復健的對象。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- A. 心臟復健 (Cardiac rehabilitation) 124 Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- #### A. 心臟復健 (Cardiac rehabilitation) Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- (2) 對象:主要是接受冠狀動脈繞道手術、瓣膜換置手術、先天性心臟病手術與心臟移植術後的患者。另外週邊動脈阻塞、接受冠狀動脈血管整型術後或心臟衰竭患者,也都是心臟復健的對象。 Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
 
 ## Clinical Caveats
 

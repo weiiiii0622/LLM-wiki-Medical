@@ -29,12 +29,12 @@ tags:
 
 ## Key Details From Sources
 
-- #### (1) Billroth I: Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- a. 較適用於遠端 1/3 的早期胃癌,因作完胃切除後,殘胃端距離十二指腸較近,才能使用 Billroth I 將胃與十二指腸相接,保留十二指腸 和空腸的連續性。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- #### (2) Billroth II: Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (C) 所謂 Billroth I procedure 指的是將切掉 antrum 的胃與近端空 腸吻合 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- 【詳解】(A) Truncal vagotomy 須同搭配 pyloroplasty 的手術。(B) Highly selective vagotomy 僅針對 parietal cell 去作切除,不影響 gastric antrum。(C) Billroth I procedure 為遠端胃切除後與十二指 腸相連接,後面內容會再提到。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (A) subtotal gastrectomy + Billroth II anastomosis Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
+- #### (1) Billroth I: Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- a. 較適用於遠端 1/3 的早期胃癌,因作完胃切除後,殘胃端距離十二指腸較近,才能使用 Billroth I 將胃與十二指腸相接,保留十二指腸 和空腸的連續性。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- #### (2) Billroth II: Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- (C) 所謂 Billroth I procedure 指的是將切掉 antrum 的胃與近端空 腸吻合 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
+- 【詳解】(A) Truncal vagotomy 須同搭配 pyloroplasty 的手術。(B) Highly selective vagotomy 僅針對 parietal cell 去作切除,不影響 gastric antrum。(C) Billroth I procedure 為遠端胃切除後與十二指 腸相連接,後面內容會再提到。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
+- (A) subtotal gastrectomy + Billroth II anastomosis Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
 
 ## Clinical Caveats
 

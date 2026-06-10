@@ -33,10 +33,10 @@ tags:
 
 ## Key Details From Sources
 
-- 5. 大部分骨轉移癌是 osteolytic lesion,會造成骨頭流失,需要比較注意的是前列腺癌所造成的骨轉移常是 osteoblastic lesion,骨頭會以增生來表現,或是 mixed type (osteoblastic 和 osteolytic 共同表現)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (B) bone metastasis Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (C) bone metastasis Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- ...好發部位 | proximal femur diaphyseal 最多 | Vertebra (最多)、sacrum、long bone (diaphysis) | | 病理 | 界線明顯, osteoid woven | 和 OO 相似 Osteolytic lesion with osseous- | | | bone, spindle cellnidus ( 2 cm, | | | cm) + sclerotic reactive bone | 發生率較低 | | 良惡性 | 良 | 良 | | 治療 | 小型可不處理。En-bloc excision, | 通常手術處理,Intralesional currettage (刮除)+ | | | Percutaneous CT guide core- Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
+- 5. 大部分骨轉移癌是 osteolytic lesion,會造成骨頭流失,需要比較注意的是前列腺癌所造成的骨轉移常是 osteoblastic lesion,骨頭會以增生來表現,或是 mixed type (osteoblastic 和 osteolytic 共同表現)。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- (B) bone metastasis Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
+- (C) bone metastasis Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- ...好發部位 | proximal femur diaphyseal 最多 | Vertebra (最多)、sacrum、long bone (diaphysis) | | 病理 | 界線明顯, osteoid woven | 和 OO 相似 Osteolytic lesion with osseous- | | | bone, spindle cellnidus ( 2 cm, | | | cm) + sclerotic reactive bone | 發生率較低 | | 良惡性 | 良 | 良 | | 治療 | 小型可不處理。En-bloc excision, | 通常手術處理,Intralesional currettage (刮除)+ | | | Percutaneous CT guide core- Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_庚、血管畸形.md
+raw_source_title: "醫(五)第1冊外概腦外_第三篇、腦神經外科_庚、血管畸形"
+raw_source_file: "raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_庚、血管畸形.md"
+page_start: 177
+page_end: 182
+canonical_citation: "醫(五)第1冊外概腦外_第三篇、腦神經外科_庚、血管畸形 Page 177-182"
 book: 醫(五)第1冊外概腦外
 chapter_order: 16
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第1冊外概腦外
 - Chapter file: `raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_庚、血管畸形.md`
+- Pages covered: 177-182
+- Canonical citation: 醫(五)第1冊外概腦外_第三篇、腦神經外科_庚、血管畸形 Page 177-182
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

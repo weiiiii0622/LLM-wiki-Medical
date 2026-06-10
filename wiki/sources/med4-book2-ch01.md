@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第2冊皮膚/醫(四)第2冊皮膚_甲、皮膚組織構造及生理.md
+raw_source_title: "醫(四)第2冊皮膚_甲、皮膚組織構造及生理"
+raw_source_file: "raw/books/md/醫(四)第2冊皮膚/醫(四)第2冊皮膚_甲、皮膚組織構造及生理.md"
+page_start: 13
+page_end: 18
+canonical_citation: "醫(四)第2冊皮膚_甲、皮膚組織構造及生理 Page 13-18"
 book: 醫(四)第2冊皮膚
 chapter_order: 1
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第2冊皮膚
 - Chapter file: `raw/books/md/醫(四)第2冊皮膚/醫(四)第2冊皮膚_甲、皮膚組織構造及生理.md`
+- Pages covered: 13-18
+- Canonical citation: 醫(四)第2冊皮膚_甲、皮膚組織構造及生理 Page 13-18
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- C. 膝上 / 膝下截肢 (Above knee/below knee amputation) 後照護和復健重點 77 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
-- #### C. 膝上 / 膝下截肢 (Above knee/below knee amputation) 後照護和復 健重點: Source: [[sources/med6-book3-ch03|丙、骨科復健]].
-- 術後24~48小時內可於患肢下方墊枕頭,以減輕腫脹,但48小時內需將枕頭移去, 以防關節攣縮變形。膝下截肢者,墊高膝關節時需伸直,膝上截肢病人則不建議墊 高,可採平躺姿勢。 Source: [[sources/med6-book3-ch03|丙、骨科復健]].
-- ...nstarsal disarticulation (Chopart) amputations • - b. 踝關節離斷 / 塞姆氏截肢 ( ankle disarticulation / Syme's amputation )。 - c. 膝下截肢(BK, below-knee amputation / transtibial amputation)。 - d. 膝關節離斷(knee disarticulation)。 - e. 膝上截肢(AK, above-knee amputation / transfemoral amputation)。 - f. 髖關節離斷(hip disarticulation)。 - g. 半骨盆截肢 / 後四分之一截肢(hemipelvectomy Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
+- C. 膝上 / 膝下截肢 (Above knee/below knee amputation) 後照護和復健重點 77 Source: 醫(六)第3冊復健_丙、骨科復健 Page 85-104.
+- #### C. 膝上 / 膝下截肢 (Above knee/below knee amputation) 後照護和復 健重點: Source: 醫(六)第3冊復健_丙、骨科復健 Page 85-104.
+- 術後24~48小時內可於患肢下方墊枕頭,以減輕腫脹,但48小時內需將枕頭移去, 以防關節攣縮變形。膝下截肢者,墊高膝關節時需伸直,膝上截肢病人則不建議墊 高,可採平躺姿勢。 Source: 醫(六)第3冊復健_丙、骨科復健 Page 85-104.
+- ...nstarsal disarticulation (Chopart) amputations • - b. 踝關節離斷 / 塞姆氏截肢 ( ankle disarticulation / Syme's amputation )。 - c. 膝下截肢(BK, below-knee amputation / transtibial amputation)。 - d. 膝關節離斷(knee disarticulation)。 - e. 膝上截肢(AK, above-knee amputation / transfemoral amputation)。 - f. 髖關節離斷(hip disarticulation)。 - g. 半骨盆截肢 / 後四分之一截肢(hemipelvectomy Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
 
 ## Clinical Caveats
 

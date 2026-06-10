@@ -33,15 +33,15 @@ tags:
 
 ## Key Details From Sources
 
-- #### (2) 睪丸扭轉 (testicular torsion): Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- a. 流行病學:好發於15歲的青少年;亦常發生於鐘錘畸形(Bell clapper's deformity,即雙側睪丸缺乏引帶(gubernaculum),附著至陰囊壁)的病人。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- (#) 11. 一位 5 歲男孩,來到急診處,主訴從昨晚開始右側陰囊疼痛,沒 104( ) 專 有發燒,活力正常,下列何者錯誤? 醫五-70 - (A) 鑑別診斷包括急性睪丸扭轉(testicular torsion)、急性副睪 丸炎、外傷等 - (B) 都卜勒(Doppler) 超音波檢查如果顯示睪丸內血流增加, 且尿液中白血球顯著增加,較可能是急性副睪丸炎 - (C) 如果男孩站立時,理學檢查托起陰囊會減輕疼痛,比較像是 急性副睪丸炎 - (D) 有時不易分辨睪丸扭轉或急性副睪丸炎時,必須開刀探查 【詳解】都正確。一律給分。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- ...病因最常見的(the most common | 102(一)專 | | | correctable cause of male infer | tility)為何? | 醫五 -71 | | | (A) Varicocele | (B) Testicular torsion | | | | (C) Testicular tumor | (D) Hydrocele | | | (B) 21. | 男性更年期(Male Climacter | rics)血中的那一種數值會上升? | 100(二)專 | | | (A) Free testosterone | | 醫五 -71 | | | (B) Sex hormone binding glob | ulin (SHBG) | | | | (C) Dehydro Source: [[sources/med5-book5-ch08|辛、男性學]].
-- C. 睪丸扭轉 (Testicular torsion) 187 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
-- ### C. 睪丸扭轉 (Testicular torsion) Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
-- 7. 治療 & 預後: - (1) 雙側手術探察和解扭並固定: 6 小時內手術, > 80% 睪丸可以救回,超過 12 小時, 睪丸存活率 < 20%。如果手術中確定是睪丸扭轉, 會同時做另一側的睪丸固定手術, 避免另外一側將來也發生扭轉的情形。 - (2) 睪丸摘除:除非睪丸已呈現壞死狀態,才建議摘除。 Source: [[sources/med5-book4-ch14|庚、生殖泌尿道]].
-- (C) 2. 一名個 9 個月大嬰兒因突發性右側陰囊腫大來急診,經臆斷可能 是嵌閉性腹股溝疝氣、睪丸扭轉、睪丸或副睪發炎、或急性陰囊 水腫。下列敘述何者錯誤? Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
-- (B) 如果是睪丸扭轉,應儘速在扭轉後6小時內手術,約有90% 可成功恢復血流 Source: [[sources/med5-book4-ch13|己、先天腹壁異常]].
+- #### (2) 睪丸扭轉 (testicular torsion): Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- a. 流行病學:好發於15歲的青少年;亦常發生於鐘錘畸形(Bell clapper's deformity,即雙側睪丸缺乏引帶(gubernaculum),附著至陰囊壁)的病人。 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- (#) 11. 一位 5 歲男孩,來到急診處,主訴從昨晚開始右側陰囊疼痛,沒 104( ) 專 有發燒,活力正常,下列何者錯誤? 醫五-70 - (A) 鑑別診斷包括急性睪丸扭轉(testicular torsion)、急性副睪 丸炎、外傷等 - (B) 都卜勒(Doppler) 超音波檢查如果顯示睪丸內血流增加, 且尿液中白血球顯著增加,較可能是急性副睪丸炎 - (C) 如果男孩站立時,理學檢查托起陰囊會減輕疼痛,比較像是 急性副睪丸炎 - (D) 有時不易分辨睪丸扭轉或急性副睪丸炎時,必須開刀探查 【詳解】都正確。一律給分。 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- ...病因最常見的(the most common | 102(一)專 | | | correctable cause of male infer | tility)為何? | 醫五 -71 | | | (A) Varicocele | (B) Testicular torsion | | | | (C) Testicular tumor | (D) Hydrocele | | | (B) 21. | 男性更年期(Male Climacter | rics)血中的那一種數值會上升? | 100(二)專 | | | (A) Free testosterone | | 醫五 -71 | | | (B) Sex hormone binding glob | ulin (SHBG) | | | | (C) Dehydro Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
+- C. 睪丸扭轉 (Testicular torsion) 187 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道 Page 199-204.
+- ### C. 睪丸扭轉 (Testicular torsion) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道 Page 199-204.
+- 7. 治療 & 預後: - (1) 雙側手術探察和解扭並固定: 6 小時內手術, > 80% 睪丸可以救回,超過 12 小時, 睪丸存活率 < 20%。如果手術中確定是睪丸扭轉, 會同時做另一側的睪丸固定手術, 避免另外一側將來也發生扭轉的情形。 - (2) 睪丸摘除:除非睪丸已呈現壞死狀態,才建議摘除。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道 Page 199-204.
+- (C) 2. 一名個 9 個月大嬰兒因突發性右側陰囊腫大來急診,經臆斷可能 是嵌閉性腹股溝疝氣、睪丸扭轉、睪丸或副睪發炎、或急性陰囊 水腫。下列敘述何者錯誤? Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_己、先天腹壁異常 Page 193-198.
+- (B) 如果是睪丸扭轉,應儘速在扭轉後6小時內手術,約有90% 可成功恢復血流 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_己、先天腹壁異常 Page 193-198.
 
 ## Clinical Caveats
 

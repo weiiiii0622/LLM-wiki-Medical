@@ -35,15 +35,15 @@ tags:
 
 ## Key Details From Sources
 
-- (7) ASIA impairment scale: ASIA 從早期的 Frankel scale 去作修訂,根據感覺和運動功能的保留情形,將脊髓損傷分為 ABCDE 五期。 - a. A=完全性損傷:在薦髓 S4-5 部分,完全沒有感覺或運動機能。 - b. B = 不完全性損傷:在 neurological level 以下,運動機能完全喪失,但此部位到最低薦髓段仍保有感覺機能。且兩側 motor level 的下三節以下的 key muscle 皆無運動功能。 - c. C = 不完全性損傷:在 neurological level 以下,仍保有運動機能,但 neurological leve Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- 【詳解】依 primary ABCDE 從重新評估,除非經檢查發現氣管 內管在食道,才進行(C),故(D)>(A)>(B)或(D)>(C)為 較佳之順序。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- 1. 又稱作 nevus flammeus 或 capillary malformation (CM), 為微血管不正常擴張(非增生)於皮膚所形成之紅色不 規則斑塊,出生時即出現,隨著年齡逐漸增厚,顏色轉 暗紅或紫色,持續一輩子不會自動消失(右圖)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (A) 後天性色素細胞性母斑(acquired melanocytic nevus) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 2. ABCDE rule:病患臨床上有以下特徵時,需懷疑為黑色素細胞瘤。 - (1) Asymmetry:形狀不對稱。 - (2) Border irregular:邊緣不規則、有突起或是表面潰瘍。 - (3) Color variation: 顏色斑駁不一致。 - (4) Diameter > 6 mm: 直徑大於 6 mm - (5) Enlargement:短時間內持續增大; Elevation:表面不規則隆起。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 1. 皮膚的黑色素細胞於胚胎發育過程由神經脊(neural crest)逐漸遷徙到表皮並分化 而成。當此遷徙的過程停滯,導致黑色素細胞停留於真皮,使得真皮層黑色素細胞 增多,為良性增生性疾病。病理下,可於真皮層見到許多富含黑色素、具多觸角的 黑色素細胞,如 common blue nevus 的黑色素細胞數目較多、密度較密、纖維化較 顯著,並形成結節(nodule);反之 Mongolian spot、Ota nevus、Ito nevus 則成斑塊(patch),即胎記。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- # 2. 太田氏母斑 (Nevus of Ota): Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- 3. 伊藤氏母斑 (Nevus of Ito): 相當罕見,常見於亞洲女性,在肩與側胸部 (dermatomes of posterior supraclavicular nerves and lateral brachial nerves)的大片均匀灰藍色斑。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- (C) 39. 一位 7 歲小女孩在學校運動會完數週後,即在兩側臉頰出現脫色素斑,其上附有細小的鱗屑。經 KOH 鏡檢並無異常發現,診治後給予弱效的類固醇軟膏,使用一週後即停用,並囑咐加強防曬措施,病灶於兩個月後回復正常膚色,最可能的診斷為何? - (A) 脫色素母斑 (nevus depigmentosus) - (B) 白斑(vitiligo vulgaris) - (C) 白色糠疹 (pityriasis alba) - (D) 變色糠疹 (pityriasis versicolor) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
+- (7) ASIA impairment scale: ASIA 從早期的 Frankel scale 去作修訂,根據感覺和運動功能的保留情形,將脊髓損傷分為 ABCDE 五期。 - a. A=完全性損傷:在薦髓 S4-5 部分,完全沒有感覺或運動機能。 - b. B = 不完全性損傷:在 neurological level 以下,運動機能完全喪失,但此部位到最低薦髓段仍保有感覺機能。且兩側 motor level 的下三節以下的 key muscle 皆無運動功能。 - c. C = 不完全性損傷:在 neurological level 以下,仍保有運動機能,但 neurological leve Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- 【詳解】依 primary ABCDE 從重新評估,除非經檢查發現氣管 內管在食道,才進行(C),故(D)>(A)>(B)或(D)>(C)為 較佳之順序。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- 1. 又稱作 nevus flammeus 或 capillary malformation (CM), 為微血管不正常擴張(非增生)於皮膚所形成之紅色不 規則斑塊,出生時即出現,隨著年齡逐漸增厚,顏色轉 暗紅或紫色,持續一輩子不會自動消失(右圖)。 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- (A) 後天性色素細胞性母斑(acquired melanocytic nevus) Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- 2. ABCDE rule:病患臨床上有以下特徵時,需懷疑為黑色素細胞瘤。 - (1) Asymmetry:形狀不對稱。 - (2) Border irregular:邊緣不規則、有突起或是表面潰瘍。 - (3) Color variation: 顏色斑駁不一致。 - (4) Diameter > 6 mm: 直徑大於 6 mm - (5) Enlargement:短時間內持續增大; Elevation:表面不規則隆起。 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- 1. 皮膚的黑色素細胞於胚胎發育過程由神經脊(neural crest)逐漸遷徙到表皮並分化 而成。當此遷徙的過程停滯,導致黑色素細胞停留於真皮,使得真皮層黑色素細胞 增多,為良性增生性疾病。病理下,可於真皮層見到許多富含黑色素、具多觸角的 黑色素細胞,如 common blue nevus 的黑色素細胞數目較多、密度較密、纖維化較 顯著,並形成結節(nodule);反之 Mongolian spot、Ota nevus、Ito nevus 則成斑塊(patch),即胎記。 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- # 2. 太田氏母斑 (Nevus of Ota): Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- 3. 伊藤氏母斑 (Nevus of Ito): 相當罕見,常見於亞洲女性,在肩與側胸部 (dermatomes of posterior supraclavicular nerves and lateral brachial nerves)的大片均匀灰藍色斑。 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- (C) 39. 一位 7 歲小女孩在學校運動會完數週後,即在兩側臉頰出現脫色素斑,其上附有細小的鱗屑。經 KOH 鏡檢並無異常發現,診治後給予弱效的類固醇軟膏,使用一週後即停用,並囑咐加強防曬措施,病灶於兩個月後回復正常膚色,最可能的診斷為何? - (A) 脫色素母斑 (nevus depigmentosus) - (B) 白斑(vitiligo vulgaris) - (C) 白色糠疹 (pityriasis alba) - (D) 變色糠疹 (pityriasis versicolor) Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
 
 ## Clinical Caveats
 

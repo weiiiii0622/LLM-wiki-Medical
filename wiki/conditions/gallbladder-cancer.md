@@ -31,10 +31,10 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 7. 下列何種癌症一般不以胰頭十二指腸切除術(pancreaticoduode-nectomy,Whipple's resection)來處理? - (A) 十二指壺腹部癌症 (ampulla vater cancer) - (B) 胰臟鉤部癌症(pancreatic uncinate cancer) - (C) 膽囊癌 (gall bladder cancer) - (D) 遠端膽管癌 (distal common bile duct cancer) Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- b. 腹腔鏡膽囊切除術的禁忌症: - (a) 麻醉具較大的風險。 - (b) 病人為 gallbladder perforation,或已經出現 peritonitis。 - (c) 懷疑是膽囊癌。 - (d) 末期肝病變合併門脈高壓。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 【詳解】(B)據統計,膽結石>3 cm 的患者得到膽囊癌的比例 上升,因此大於3公分的膽結石建議手術移除。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- ...ric ischemia) | | | | (C) 消化性潰瘍穿孔(perforated peptic ulcer) | | | | (D) 急性腸胃炎 (acute gastroenteritis) | | | (D) | 4. 下列關於膽囊癌之敘述,何者錯誤? | 99(二)專 | | | (A) 好發於女性 | 醫五 -25 | | | (B) 與膽結石相關性密切 | | | | (C) 多數病人發病時已屬晚期,無法手術治癒 | | | | (D) 因極易侵犯,預後不佳,故即使是第一期疾病,除切除膽囊 | | | | 外亦須切除部分肝臟並進行淋巴結廓清 | | | (D) | 5. 下列何者是最常引起膽道出血(hemobilia)的原因? | 99(二)專 | | | ( Source: [[sources/med5-book3-ch16|戊、膽管癌]].
+- (C) 7. 下列何種癌症一般不以胰頭十二指腸切除術(pancreaticoduode-nectomy,Whipple's resection)來處理? - (A) 十二指壺腹部癌症 (ampulla vater cancer) - (B) 胰臟鉤部癌症(pancreatic uncinate cancer) - (C) 膽囊癌 (gall bladder cancer) - (D) 遠端膽管癌 (distal common bile duct cancer) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
+- b. 腹腔鏡膽囊切除術的禁忌症: - (a) 麻醉具較大的風險。 - (b) 病人為 gallbladder perforation,或已經出現 peritonitis。 - (c) 懷疑是膽囊癌。 - (d) 末期肝病變合併門脈高壓。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- 【詳解】(B)據統計,膽結石>3 cm 的患者得到膽囊癌的比例 上升,因此大於3公分的膽結石建議手術移除。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- ...ric ischemia) | | | | (C) 消化性潰瘍穿孔(perforated peptic ulcer) | | | | (D) 急性腸胃炎 (acute gastroenteritis) | | | (D) | 4. 下列關於膽囊癌之敘述,何者錯誤? | 99(二)專 | | | (A) 好發於女性 | 醫五 -25 | | | (B) 與膽結石相關性密切 | | | | (C) 多數病人發病時已屬晚期,無法手術治癒 | | | | (D) 因極易侵犯,預後不佳,故即使是第一期疾病,除切除膽囊 | | | | 外亦須切除部分肝臟並進行淋巴結廓清 | | | (D) | 5. 下列何者是最常引起膽道出血(hemobilia)的原因? | 99(二)專 | | | ( Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_戊、膽管癌 Page 167-176.
 
 ## Clinical Caveats
 

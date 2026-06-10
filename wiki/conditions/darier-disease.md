@@ -27,9 +27,9 @@ ATP2A2 相關角化異常，表現油膩性角化丘疹、甲變化與棘融解�
 
 ## Key Details From Sources
 
-- E. Darier's disease 172 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- # E. Darier's disease Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
-- 5. 病因為第 12 對染色體 23-24.1 位置上的 ATP2A2 基因突變, ATP2A2 轉譯的蛋白質為 SERCA2,為一鈣離子幫浦,調節細胞鈣離子濃度。 Source: [[sources/med4-book2-ch10|癸、先天性疾病]].
+- E. Darier's disease 172 Source: 醫(四)第2冊皮膚_癸、先天性疾病 Page 179-192.
+- # E. Darier's disease Source: 醫(四)第2冊皮膚_癸、先天性疾病 Page 179-192.
+- 5. 病因為第 12 對染色體 23-24.1 位置上的 ATP2A2 基因突變, ATP2A2 轉譯的蛋白質為 SERCA2,為一鈣離子幫浦,調節細胞鈣離子濃度。 Source: 醫(四)第2冊皮膚_癸、先天性疾病 Page 179-192.
 
 ## Clinical Caveats
 

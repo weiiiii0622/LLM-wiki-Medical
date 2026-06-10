@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 【詳解】(D) 頭部創傷後會連續七天給予預防性抗癲癇藥物 (phenytoin or levetiracetam),可有效預防創傷後七天內的癲癇 (early post-traumatic seizures) 發生率,但使用超過七天則對於 late post-traumatic seizures (創傷後超過七天才發生)無顯著效果。因此建議連續給予七天後即可停藥,但不會只使用 24 小時就停藥了。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- 【詳解】(D) 頭部創傷後會連續七天給予預防性抗癲癇藥物 (phenytoin or levetiracetam),可有效預防創傷後七天內的癲癇 (early post-traumatic seizures) 發生率,但使用超過七天則對於 late post-traumatic seizures (創傷後超過七天才發生)無顯著效果。因此建議連續給予七天後即可停藥,但不會只使用 24 小時就停藥了。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_甲、昏迷指數和腦死 Page 131-136.
 
 ## Clinical Caveats
 

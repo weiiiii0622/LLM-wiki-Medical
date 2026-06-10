@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- # 丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse) Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
-- ### 丙、骨盆腔器官脱垂 (Pelvic Organ Prolapse) Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
-- | 頂端脱垂 | 指陰道頂端疝氣脫出,包括子宮 (uterine) 或陰道殘端 | | |-----------------------|------------------------------------------|--| | | (vaginal cuff) 脫垂,有時會伴隨腸壁脫垂 (enterocele) | | | 前壁脱垂 | 陰道前壁疝氣脫出,通常伴隨膀胱脫垂 (cystocele) | | | 後壁脱垂 | 陰道後壁疝氣脫出,通常伴隨直腸脫垂 (rectocele) | | | 完全性脱垂 | 指陰道頂端、前壁、後壁完全脫出 | | | (Uterine procidentia) | | | Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
-- # 混和型尿失禁 (mixed-incontinence) 同時有應力性和急尿型尿失禁,常起因於膀胱感染或 cystocele 等。 溢流性尿失禁 (overflow incontinence) 成 因 可能因神經性逼尿肌收縮不全或手術、腫瘤等造成排尿出口堵塞,使尿液滯留於膀胱,當腹內壓力上升時,尿液才滴出。 治 療 (1)阻塞引起:找出出口堵塞的原因,並評估手術的可能性(2)逼尿肌收縮不全引起:藥物治療 (bethanechol, α1 blocker)、電刺激、間歇性導尿 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
-- 【詳解】凱格爾運動又稱為骨盆底運動,藉由增強骨盆底肌肉 (包括膀胱及近端尿道的肌肉),改善尿失禁、骨盆腔器官脫垂 和性功能。 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
+- # 丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse) Page 437-444.
+- ### 丙、骨盆腔器官脱垂 (Pelvic Organ Prolapse) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse) Page 437-444.
+- | 頂端脱垂 | 指陰道頂端疝氣脫出,包括子宮 (uterine) 或陰道殘端 | | |-----------------------|------------------------------------------|--| | | (vaginal cuff) 脫垂,有時會伴隨腸壁脫垂 (enterocele) | | | 前壁脱垂 | 陰道前壁疝氣脫出,通常伴隨膀胱脫垂 (cystocele) | | | 後壁脱垂 | 陰道後壁疝氣脫出,通常伴隨直腸脫垂 (rectocele) | | | 完全性脱垂 | 指陰道頂端、前壁、後壁完全脫出 | | | (Uterine procidentia) | | | Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse) Page 437-444.
+- # 混和型尿失禁 (mixed-incontinence) 同時有應力性和急尿型尿失禁,常起因於膀胱感染或 cystocele 等。 溢流性尿失禁 (overflow incontinence) 成 因 可能因神經性逼尿肌收縮不全或手術、腫瘤等造成排尿出口堵塞,使尿液滯留於膀胱,當腹內壓力上升時,尿液才滴出。 治 療 (1)阻塞引起:找出出口堵塞的原因,並評估手術的可能性(2)逼尿肌收縮不全引起:藥物治療 (bethanechol, α1 blocker)、電刺激、間歇性導尿 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_乙、尿失禁(Urinary Incontinence) Page 429-436.
+- 【詳解】凱格爾運動又稱為骨盆底運動,藉由增強骨盆底肌肉 (包括膀胱及近端尿道的肌肉),改善尿失禁、骨盆腔器官脫垂 和性功能。 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_乙、尿失禁(Urinary Incontinence) Page 429-436.
 
 ## Clinical Caveats
 

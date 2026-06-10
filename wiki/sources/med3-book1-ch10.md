@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_癸、暈厥.md
+raw_source_title: "醫(三)第1冊心胸內_第一篇、心臟內科_癸、暈厥"
+raw_source_file: "raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_癸、暈厥.md"
+page_start: 217
+page_end: 222
+canonical_citation: "醫(三)第1冊心胸內_第一篇、心臟內科_癸、暈厥 Page 217-222"
 book: 醫(三)第1冊心胸內
 chapter_order: 10
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第1冊心胸內
 - Chapter file: `raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_癸、暈厥.md`
+- Pages covered: 217-222
+- Canonical citation: 醫(三)第1冊心胸內_第一篇、心臟內科_癸、暈厥 Page 217-222
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

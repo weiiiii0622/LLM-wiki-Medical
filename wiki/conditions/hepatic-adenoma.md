@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- D. 口服避孕藥 (Oral contraceptive pill) 283 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (B) cyclic oral contraceptive pills Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- ### D. 口服避孕藥 (Oral contraceptive pill) Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- 1. 肝臟外科主要內容可以分為肝臟解剖組織、肝膿瘍、良性肝腫瘤、惡性肝癌 HCC。這五年的外科學,我覺得在肝臟的題目並不多也很零散,準備起來若是時間不夠,個人覺得可以挑出來看的部分。 - (1) 肝膿瘍:阿米巴性與細菌性的差別、臨床症狀、影像上的 finding。 - (2) **良性肝腫瘤**:肝血管瘤 (hepatic hemangioma)、肝臟局部結節性增生 (FNH, focal nodular hyperplasia)、以及肝腺瘤 (hepatocellular adenoma) 這三種在影像上的差別,如何鑑別診斷。 - (3) **HCC**: HCC 的診斷流程、有哪些治療、什麼時候可以開刀(看一下 BCLC 和 ICG test)。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 1. 常見的肝臟良性腫瘤有三種,分別為:肝血管瘤(hepatic hemangioma)、肝臟局部結節性增生(focal nodular hyperplasia, FNH)、以及肝腺瘤(hepatocellular adenoma)。 Source: [[sources/med5-book3-ch10|丙、良性肝腫瘤]].
+- D. 口服避孕藥 (Oral contraceptive pill) 283 Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- (B) cyclic oral contraceptive pills Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- ### D. 口服避孕藥 (Oral contraceptive pill) Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- 1. 肝臟外科主要內容可以分為肝臟解剖組織、肝膿瘍、良性肝腫瘤、惡性肝癌 HCC。這五年的外科學,我覺得在肝臟的題目並不多也很零散,準備起來若是時間不夠,個人覺得可以挑出來看的部分。 - (1) 肝膿瘍:阿米巴性與細菌性的差別、臨床症狀、影像上的 finding。 - (2) **良性肝腫瘤**:肝血管瘤 (hepatic hemangioma)、肝臟局部結節性增生 (FNH, focal nodular hyperplasia)、以及肝腺瘤 (hepatocellular adenoma) 這三種在影像上的差別,如何鑑別診斷。 - (3) **HCC**: HCC 的診斷流程、有哪些治療、什麼時候可以開刀(看一下 BCLC 和 ICG test)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
+- 1. 常見的肝臟良性腫瘤有三種,分別為:肝血管瘤(hepatic hemangioma)、肝臟局部結節性增生(focal nodular hyperplasia, FNH)、以及肝腺瘤(hepatocellular adenoma)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丙、良性肝腫瘤 Page 111-116.
 
 ## Clinical Caveats
 

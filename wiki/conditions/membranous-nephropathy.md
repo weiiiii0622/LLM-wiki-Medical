@@ -33,14 +33,14 @@ tags:
 
 ## Key Details From Sources
 
-- 5. Membranous nephropathy Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...ement membrane disease, Vasculitis and | | | cryoglobulinemia, | | | Hemolytic-uremic syndrome | | Epithelial disease | Membranous nephropathy | | | Minimal change disease | | | Focal and segmental glomerulosclerosis | | | Class V lupus nephritis | | | Diabetic nephropathy | Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (D) 膜性腎炎 (membranous nephropathy) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- (A) membranous nephropathy Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (A) 膜性腎炎 (Membranous glomerulonephritis) Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- (D) 病理變化和膜性腎病變(membranous nephropathy)相似 【 詳解】(A) 最 嚴 重 是 第 六 型,(B) 第 五 級 以 nephrotic range proteinuria 為主。 Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- 2. 膜性增殖性腎炎 (MPGN)、Focal Segmental glomerulosclerosis (FSGS)、膜性腎病變 (MGN)。 Source: [[sources/med3-book3-ch07|庚、腎臟移植]].
+- 5. Membranous nephropathy Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- ...ement membrane disease, Vasculitis and | | | cryoglobulinemia, | | | Hemolytic-uremic syndrome | | Epithelial disease | Membranous nephropathy | | | Minimal change disease | | | Focal and segmental glomerulosclerosis | | | Class V lupus nephritis | | | Diabetic nephropathy | Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- (D) 膜性腎炎 (membranous nephropathy) Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- (C) 8. 一位何杰金氏淋巴瘤(Hodgkin's lymphoma)男性病人,發現有大量 蛋白尿(5.8 gm/day/1.73 m² body surface),血中膽固醇 328 mg/dL, 血中白蛋白 1.5 gm/dL,準備接受腎臟切片檢查,他最有可能之腎 臟病理變化為: - (A) 膜性腎絲球腎炎 - (B) 局部腎絲球硬化症 - (C) 微小變化腎病 - (D) IgA 腎病 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_己、淋巴瘤 Page 183-192.
+- (A) membranous nephropathy Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
+- (A) 膜性腎炎 (Membranous glomerulonephritis) Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
+- (D) 病理變化和膜性腎病變(membranous nephropathy)相似 【 詳解】(A) 最 嚴 重 是 第 六 型,(B) 第 五 級 以 nephrotic range proteinuria 為主。 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
+- 2. 膜性增殖性腎炎 (MPGN)、Focal Segmental glomerulosclerosis (FSGS)、膜性腎病變 (MGN)。 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_庚、腎臟移植 Page 129-132.
 
 ## Clinical Caveats
 

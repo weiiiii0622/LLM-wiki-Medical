@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 影像學: 臨床上以電腦斷層或超音波為診斷準則,如果在影像上看見 septal 或 nodular變化則惡性機會越高(即Bosniak分級,分I~IV級,越高惡性機會也越高)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- #### (1) 依 Bosniak 分級: Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (3) 影像學: 臨床上以電腦斷層或超音波為診斷準則,如果在影像上看見 septal 或 nodular變化則惡性機會越高(即Bosniak分級,分I~IV級,越高惡性機會也越高)。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- #### (1) 依 Bosniak 分級: Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
 
 ## Clinical Caveats
 

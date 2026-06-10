@@ -35,15 +35,15 @@ tags:
 
 ## Key Details From Sources
 
-- II. 急性會厭炎(Acute Epiglottitis) 202 Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- #### II. 急性會厭炎 (Acute Epiglottitis) (也稱為急性聲門上炎) Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- 1. 急性會厭炎是一種聲門上區會厭為主的急性蜂窩組織炎,包括會厭軟骨和杓狀會厭 摺皺,進而使軟組織水腫,造成喉部的阻塞。 Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- (1) 聲帶麻痺、聲帶結節、睡眠呼吸中止的定義與治療、急性會厭炎等,考題有時 會搭配內視鏡影像出題。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- ...acial fracture): - (a) Le Fort fracture 分為三級:Le Fort I不影響眼眶,Le Fort II影響到眼眶內側, Le Fort III 侵犯到雙側眼眶、鼻淚管、內眥韌帶。 - (b) 顴骨骨折(tripod fracture):外眼眶緣、下眼眶緣和顴骨弓三處骨折。 - b. 眼窩外破性骨折(blow-out fracture):由於外力撞擊使眼眶壓力急速上升, 使得骨壁較薄的眼眶底部或內側壁產生骨折,向外爆裂。 - (a) 症狀:眼球內陷、複視(因下直肌常下陷卡在骨折處,造成眼球向上轉動受限)、眼瞼皮下氣腫(emphysema)、眼周淤血、門牙、臉頰麻木感(因 傷到 infraorbital nerve)。 - (b) 診斷:眼眶外傷病史 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- IV. 會厭炎 (Epiglottitis) 161 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- # IV. 會厭炎 (Epiglottitis) Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 3. 病人會有 tripod position 或 sniff position: 坐姿往前傾、脖子向前延伸並將下巴推出、 咳嗽、發紺、流口水、聲音沙啞等。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 4. 大拇指徵(thumb sign)呈陽性:大拇指可明顯地突出握屈拳頭,是因指長及關節 鬆弛。正常人大拇指無法突出拳緣。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- II. 急性會厭炎(Acute Epiglottitis) 202 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- #### II. 急性會厭炎 (Acute Epiglottitis) (也稱為急性聲門上炎) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- 1. 急性會厭炎是一種聲門上區會厭為主的急性蜂窩組織炎,包括會厭軟骨和杓狀會厭 摺皺,進而使軟組織水腫,造成喉部的阻塞。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- (1) 聲帶麻痺、聲帶結節、睡眠呼吸中止的定義與治療、急性會厭炎等,考題有時 會搭配內視鏡影像出題。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- ...acial fracture): - (a) Le Fort fracture 分為三級:Le Fort I不影響眼眶,Le Fort II影響到眼眶內側, Le Fort III 侵犯到雙側眼眶、鼻淚管、內眥韌帶。 - (b) 顴骨骨折(tripod fracture):外眼眶緣、下眼眶緣和顴骨弓三處骨折。 - b. 眼窩外破性骨折(blow-out fracture):由於外力撞擊使眼眶壓力急速上升, 使得骨壁較薄的眼眶底部或內側壁產生骨折,向外爆裂。 - (a) 症狀:眼球內陷、複視(因下直肌常下陷卡在骨折處,造成眼球向上轉動受限)、眼瞼皮下氣腫(emphysema)、眼周淤血、門牙、臉頰麻木感(因 傷到 infraorbital nerve)。 - (b) 診斷:眼眶外傷病史 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- IV. 會厭炎 (Epiglottitis) 161 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- # IV. 會厭炎 (Epiglottitis) Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- 3. 病人會有 tripod position 或 sniff position: 坐姿往前傾、脖子向前延伸並將下巴推出、 咳嗽、發紺、流口水、聲音沙啞等。 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- 4. 大拇指徵(thumb sign)呈陽性:大拇指可明顯地突出握屈拳頭,是因指長及關節 鬆弛。正常人大拇指無法突出拳緣。 Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
 
 ## Clinical Caveats
 

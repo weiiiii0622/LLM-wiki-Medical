@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- #### Muscle power ( 復健科較愛稱作 Manual muscle test, MMT): Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- Ref: Physical Medicine and Rehabilitation Board Review 2/e. Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- iii. 其他源自運動單元的不正常電位還有 neuromyotonia 和 cramp, 若非想 走神經或復健科的學弟妹最重要需要知道 Fib, PSW, fasciculation 即可。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
-- ...(f) Doublet/Multiplet Potentials: —個或多個 MUAP 反覆地同時放電,通常見於缺血性病變、過度換氣、手足強直(tetany)、運動神經元疾病(漸凍人)或其他代謝性疾病。 - (g) 若非想走神經 or 復健科的學弟妹最重要需要知道以下概念:神經病變的 MUAP 會隨著病程而改變。早期 MUAP 數量減少,之後出現多相波 (polyphasic wave),晚期則出現巨大波 (giant wave);肌肉病變一般會呈現振幅小、波期短的多相波。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
-- Reference: Physical Medicine and Rehabilitation Board Review 2/e. Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- #### Muscle power ( 復健科較愛稱作 Manual muscle test, MMT): Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- Ref: Physical Medicine and Rehabilitation Board Review 2/e. Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- iii. 其他源自運動單元的不正常電位還有 neuromyotonia 和 cramp, 若非想 走神經或復健科的學弟妹最重要需要知道 Fib, PSW, fasciculation 即可。 Source: 醫(六)第3冊復健_壬、神經學檢查 Page 197-206.
+- ...(f) Doublet/Multiplet Potentials: —個或多個 MUAP 反覆地同時放電,通常見於缺血性病變、過度換氣、手足強直(tetany)、運動神經元疾病(漸凍人)或其他代謝性疾病。 - (g) 若非想走神經 or 復健科的學弟妹最重要需要知道以下概念:神經病變的 MUAP 會隨著病程而改變。早期 MUAP 數量減少,之後出現多相波 (polyphasic wave),晚期則出現巨大波 (giant wave);肌肉病變一般會呈現振幅小、波期短的多相波。 Source: 醫(六)第3冊復健_壬、神經學檢查 Page 197-206.
+- Reference: Physical Medicine and Rehabilitation Board Review 2/e. Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
 
 ## Clinical Caveats
 

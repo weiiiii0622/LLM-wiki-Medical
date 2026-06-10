@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- #### 失智症 (Dementia) 與假性失智症 (Pseudodementia) 的鑑別診斷 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- | Dementia | Pseudodementia | |-------------------------|--------------------| | 通常發病過程是緩慢、較長、不知不覺的 | 發病通常進展快、發病時間較明確、較短 | | 患者少抱怨認知功能障礙,甚至會企圖隱 | 患者常會抱怨認知功能障礙,強調自己無 | | 藏、會努力想去回答問題 | 行為能力,不願意嘗試簡單工作 | | 回答錯誤,甚至有空談現象(confabula- | 常直接回答不知道,近程和遠程記憶通常 | | tion),近程記憶比遠程記憶受損嚴重 | 都嚴重受損 | | 器質性(organic cause)的原因造成 | 憂鬱症造成之認知功能障礙 | Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- 3. 在憂鬱的老年人可能會出現認知功能缺損的問題,稱為 dementia syndrome of depression,即 pseudodementia。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- (C) 假性失智(pseudodementia) 現象發生在老年憂鬱患者的比例不在少數,約略有 15% Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- #### 失智症 (Dementia) 與假性失智症 (Pseudodementia) 的鑑別診斷 Source: 醫(四)第3冊精神科_己、老年精神醫學 Page 145-160.
+- | Dementia | Pseudodementia | |-------------------------|--------------------| | 通常發病過程是緩慢、較長、不知不覺的 | 發病通常進展快、發病時間較明確、較短 | | 患者少抱怨認知功能障礙,甚至會企圖隱 | 患者常會抱怨認知功能障礙,強調自己無 | | 藏、會努力想去回答問題 | 行為能力,不願意嘗試簡單工作 | | 回答錯誤,甚至有空談現象(confabula- | 常直接回答不知道,近程和遠程記憶通常 | | tion),近程記憶比遠程記憶受損嚴重 | 都嚴重受損 | | 器質性(organic cause)的原因造成 | 憂鬱症造成之認知功能障礙 | Source: 醫(四)第3冊精神科_己、老年精神醫學 Page 145-160.
+- 3. 在憂鬱的老年人可能會出現認知功能缺損的問題,稱為 dementia syndrome of depression,即 pseudodementia。 Source: 醫(四)第3冊精神科_己、老年精神醫學 Page 145-160.
+- (C) 假性失智(pseudodementia) 現象發生在老年憂鬱患者的比例不在少數,約略有 15% Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
 
 ## Clinical Caveats
 

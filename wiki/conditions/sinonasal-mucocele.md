@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- #### E. 黏液囊腫 (Mucocele) Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- #### E. 黏液囊腫 (Mucocele) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
 
 ## Clinical Caveats
 

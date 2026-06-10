@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...producing | | Hilar cell tumor | | | | | | Lipoid cell tumor | | | 生殖細胞腫瘤 (germ cell | ・良性 | Ma | ture cystic teratoma (dermoid cyst) | | | tumors):佔 20% | (90%) | Mo | nodermal highly specialized teratoma: | | | | | stru | ma ovarii & carcinoid neoplasms | | | | ・悪性 | 常見 | 見 (90%): Dysgerminoma · endodermal sinus | | | | miz | | or (yolk sac tumor) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- | 組織種類 | 特色 | | |-----------------------------|--------------------------------------------|--| | Mature cystic teratoma | · 最常見的生殖細胞腫瘤 | | | (又稱 dermoid cyst) | • 囊壁是複層鱗狀上皮的纖維組織,可能含有皮脂 | | | | 腺、牙齒、頭髮、神經組織、軟硬骨、呼吸和腸道 | | | | 上皮,以及甲狀腺組織等 | | | | ・ 約 0.2~2% 會惡性轉變 (SCC 最常見 ) | | | Immature teratoma | · Immature neural elements 為診斷的依據 | | | ( Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (D) 皮樣囊腫 (dermoid cyst) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 【詳解】上皮內包性囊腫,又稱為 epidermoid cyst,為最常見之 表皮囊腫,可出現於身體的多個部位,在外陰部常見於大陰唇 和陰蒂,囊腫通常可見中央點(central punctum)。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- ...producing | | Hilar cell tumor | | | | | | Lipoid cell tumor | | | 生殖細胞腫瘤 (germ cell | ・良性 | Ma | ture cystic teratoma (dermoid cyst) | | | tumors):佔 20% | (90%) | Mo | nodermal highly specialized teratoma: | | | | | stru | ma ovarii & carcinoid neoplasms | | | | ・悪性 | 常見 | 見 (90%): Dysgerminoma · endodermal sinus | | | | miz | | or (yolk sac tumor) Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- | 組織種類 | 特色 | | |-----------------------------|--------------------------------------------|--| | Mature cystic teratoma | · 最常見的生殖細胞腫瘤 | | | (又稱 dermoid cyst) | • 囊壁是複層鱗狀上皮的纖維組織,可能含有皮脂 | | | | 腺、牙齒、頭髮、神經組織、軟硬骨、呼吸和腸道 | | | | 上皮,以及甲狀腺組織等 | | | | ・ 約 0.2~2% 會惡性轉變 (SCC 最常見 ) | | | Immature teratoma | · Immature neural elements 為診斷的依據 | | | ( Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (D) 皮樣囊腫 (dermoid cyst) Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 【詳解】上皮內包性囊腫,又稱為 epidermoid cyst,為最常見之 表皮囊腫,可出現於身體的多個部位,在外陰部常見於大陰唇 和陰蒂,囊腫通常可見中央點(central punctum)。 Source: 醫(六)第1冊婦產_第二篇、婦科_丁、其他(Others) Page 313-320.
 
 ## Clinical Caveats
 

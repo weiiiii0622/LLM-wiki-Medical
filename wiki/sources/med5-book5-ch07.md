@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常.md
+raw_source_title: "醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常"
+raw_source_file: "raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常.md"
+page_start: 141
+page_end: 156
+canonical_citation: "醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156"
 book: 醫(五)第5冊泌尿
 chapter_order: 7
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第5冊泌尿
 - Chapter file: `raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常.md`
+- Pages covered: 141-156
+- Canonical citation: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

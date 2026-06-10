@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 6. 色素分散性症候群(pigment dispersion syndrome): 色素顆粒從虹膜上皮脫失、擴散到眼球前部,沉積在角膜內皮中央成紡錘狀的 Krukenberg spindle,並會沉積在小樑網上,阻礙房水排出,造成青光眼。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- 6. 色素分散性症候群(pigment dispersion syndrome): 色素顆粒從虹膜上皮脫失、擴散到眼球前部,沉積在角膜內皮中央成紡錘狀的 Krukenberg spindle,並會沉積在小樑網上,阻礙房水排出,造成青光眼。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
 
 ## Clinical Caveats
 

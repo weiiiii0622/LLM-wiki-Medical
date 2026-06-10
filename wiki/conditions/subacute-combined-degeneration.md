@@ -27,9 +27,9 @@ vitamin B12 deficiency 造成 posterior columns 與 corticospinal tracts 退化�
 
 ## Key Details From Sources
 
-- III. 大腦代謝疾病 141 - A. 橋腦中央脊髓去髓鞘化 (Central pontine myelinolysis) 141 - B. Vitamin B1 (Thiamine) deficiency 141 - C. Vitamin B12 (Cobalamine) deficiency 142 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ## C. Vitamin B12 (Cobalamine) deficiency: 亞急性合併退化症 (subacute combined generation) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (1) Vit $B_{12}$ (Cobalamine) 可想成甲基的運送樞紐,可接收甲基、給甲基; Source: [[sources/med4-book4-ch06|己、大腦疾病]].
+- III. 大腦代謝疾病 141 - A. 橋腦中央脊髓去髓鞘化 (Central pontine myelinolysis) 141 - B. Vitamin B1 (Thiamine) deficiency 141 - C. Vitamin B12 (Cobalamine) deficiency 142 Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- ## C. Vitamin B12 (Cobalamine) deficiency: 亞急性合併退化症 (subacute combined generation) Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- (1) Vit $B_{12}$ (Cobalamine) 可想成甲基的運送樞紐,可接收甲基、給甲基; Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
 
 ## Clinical Caveats
 

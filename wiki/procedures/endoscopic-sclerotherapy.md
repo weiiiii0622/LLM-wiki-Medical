@@ -35,13 +35,13 @@ tags:
 
 ## Key Details From Sources
 
-- a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- 治療:因影響美觀或氣道壓迫而採取治療。常用手術切除或注射硬化劑治療,亦需 評估是否有神經侵犯。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
-- (1) 急性期可打 cyanoacrylate or Histoacryl glue (硬化劑)止血,對於使用硬化劑預防 出血,目前共識是大型胃靜脈瘤可考慮,小型不一定,因為打硬化劑本身也有出血 風險。 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
-- (D) 21. 一位 65 歲男性病人發生急性食道靜脈曲張出血(variceal bleeding),下列何種治療不考慮?98(ニ)専署ニ-56 - (A) 藥物 somatostatin or octreotide 治療 - (B) 內視鏡結紮術 - (C) 內視鏡硬化劑注射 - (D) 食道橫截切除術 Source: [[sources/med3-book2-ch23|戊、肝硬化]].
-- 3. 胃鏡(UGI endoscope): 可診斷兼治療上消化道出血 - (1) 食道靜脈瘤 (Esophageal varices) / 胃靜脈瘤 (Gastric varices): 常有肝硬化的病史 - a. 急性出血時可給予 Octreotide 降低肝門靜脈壓力,控制出血。 - b. 可由胃鏡將食道靜脈瘤結紮 ligation,或直接於食道/胃靜脈瘤施打硬化劑(急性出血或預防出血可用)。 - c. 急性食道靜脈瘤出血時,文獻證實給予抗生素有助於降低再出血風險。 Source: [[sources/med3-book2-ch01|丁、腸胃道出血]].
-- 4. 非藥物治療 - (1) 經**皮下脊椎修補術(Percutaneous transpedicular Vertebroplasty)**:直接以針筒注入硬化劑改善骨質疏鬆症患者在發生壓迫性脊椎骨折時所引起的疼痛。 Source: [[sources/med3-book2-ch14|戊、副甲狀腺與鈣離子平衡]].
+- a. 疼痛: Acetaminophen 或 NSAID 用 3~5 days。如果症狀持續考慮手術。包 括經皮穿刺抽吸合併注射硬化劑 (percutaneous aspiration with a sclerosing agent) 或腹腔鏡輔助囊腫開頂手術(laparoscopic unroofing of the cyst)。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- 治療:因影響美觀或氣道壓迫而採取治療。常用手術切除或注射硬化劑治療,亦需 評估是否有神經侵犯。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
+- (1) 急性期: - a. 內視鏡 ligation 或注射硬化劑。 - b. 可用 somatostatin 幫助止血,使用抗生素也對預防再出血有幫助。 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_戊、肝硬化 Page 137-146.
+- (1) 急性期可打 cyanoacrylate or Histoacryl glue (硬化劑)止血,對於使用硬化劑預防 出血,目前共識是大型胃靜脈瘤可考慮,小型不一定,因為打硬化劑本身也有出血 風險。 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_戊、肝硬化 Page 137-146.
+- (D) 21. 一位 65 歲男性病人發生急性食道靜脈曲張出血(variceal bleeding),下列何種治療不考慮?98(ニ)専署ニ-56 - (A) 藥物 somatostatin or octreotide 治療 - (B) 內視鏡結紮術 - (C) 內視鏡硬化劑注射 - (D) 食道橫截切除術 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_戊、肝硬化 Page 137-146.
+- 3. 胃鏡(UGI endoscope): 可診斷兼治療上消化道出血 - (1) 食道靜脈瘤 (Esophageal varices) / 胃靜脈瘤 (Gastric varices): 常有肝硬化的病史 - a. 急性出血時可給予 Octreotide 降低肝門靜脈壓力,控制出血。 - b. 可由胃鏡將食道靜脈瘤結紮 ligation,或直接於食道/胃靜脈瘤施打硬化劑(急性出血或預防出血可用)。 - c. 急性食道靜脈瘤出血時,文獻證實給予抗生素有助於降低再出血風險。 Source: 醫(三)第2冊肝內新陳代謝_第一篇、腸胃內科_丁、腸胃道出血 Page 47-54.
+- 4. 非藥物治療 - (1) 經**皮下脊椎修補術(Percutaneous transpedicular Vertebroplasty)**:直接以針筒注入硬化劑改善骨質疏鬆症患者在發生壓迫性脊椎骨折時所引起的疼痛。 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_戊、副甲狀腺與鈣離子平衡 Page 267-280.
 
 ## Clinical Caveats
 

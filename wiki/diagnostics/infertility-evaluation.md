@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ※AFC: Antral follicle count, 為直徑 2~10 mm 的小濾泡總數 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- (2) 陰道超音波檢查(transvaginal sonography, TVS):檢查的目的包括 - 評估 Antral follicle count (AFC) - 評估卵巢或輸卵管是否有病灶,如子宮內膜異位瘤、輸卵管水腫等 - 評估子宮內是否有病灶,如子宮內膜息肉、黏膜下肌瘤等 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- (3) 子宮輸卵管攝影(hysterosalpingography, HSG): Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- 2. 胚胎時期,女性因無睪丸分泌的 AMH (anti-Müllerian hormone),因此密勒氏管(副中腎管)會發育成輸卵管、子宮和上段陰道,之後與泌尿生殖竇發育出的下段陰道相融合,形成同一腔室的生殖道。 Source: [[sources/med6-book1-ch06|甲、胚胎解剖學 (Embryology and Anatomy)]].
+- ※AFC: Antral follicle count, 為直徑 2~10 mm 的小濾泡總數 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- (2) 陰道超音波檢查(transvaginal sonography, TVS):檢查的目的包括 - 評估 Antral follicle count (AFC) - 評估卵巢或輸卵管是否有病灶,如子宮內膜異位瘤、輸卵管水腫等 - 評估子宮內是否有病灶,如子宮內膜息肉、黏膜下肌瘤等 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- (3) 子宮輸卵管攝影(hysterosalpingography, HSG): Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- 2. 胚胎時期,女性因無睪丸分泌的 AMH (anti-Müllerian hormone),因此密勒氏管(副中腎管)會發育成輸卵管、子宮和上段陰道,之後與泌尿生殖竇發育出的下段陰道相融合,形成同一腔室的生殖道。 Source: 醫(六)第1冊婦產_第二篇、婦科_甲、胚胎解剖學 (Embryology and Anatomy) Page 171-180.
 
 ## Clinical Caveats
 

@@ -35,14 +35,14 @@ tags:
 
 ## Key Details From Sources
 
-- (A) 13. 一位 4 歲男童出現全血球低下(pancytopenia),身體驅幹及頸部有色素沈著及咖啡斑(café-au-lait spots),身材矮小(short stature),並且有不正常的染色體脆弱(chromosome fragility)情形,他最有可能罹患: - (A) Fanconi anemia Source: [[sources/med4-book1-ch08|辛、血液學]].
-- ...血小板。病人出生後為了預防顱內出血,治療方式為輸血小板預防出血,有時也會使用IVIG。(A)Wiskott-Aldrich syndrome 為性聯遺傳隱性疾病,WAS gene mutation(Xp11.22-23)。臨床上病人會出現 pancytopenia。(C) amegakaryocytic thrombocytopenia 多為先天性,血液學檢查多呈現 thrombocytopenia,但是病人的血紅素與白血球有可能正常。(D) Fanconi anemia 病人因骨髓功能失能(marrowfailure),因此臨床上會依序出現 thrombocytopenia、red blood cell macrocytosis、granulocytopenia,最後出現 anemia。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (5) 努南氏症病人常與 juvenile myelomonocytic leukemia 有關。其它血液學疾病有 amegakaryocytic thrombocytopeniac 或 pancytopenia with hypocellular marrow。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- F. 全血球減少症 (Pancytopenia) 115 Source: [[sources/med3-book4-ch10|甲、貧血]].
-- 3. 若不只貧血,白血球、血小板也低(Pancytopenia),則有其他鑑別診斷。 Source: [[sources/med3-book4-ch10|甲、貧血]].
-- 1. 巨芽細胞貧血(Megaloblastic anemia):缺 B12 或葉酸 - (1) 典型的血液學表現是 Pancytopenia,且 MCV 高達 120 fl 以上,周邊血球抹片可觀察 到高分葉核的中性球增多 (hypersegmented neutrophils)。 - (2) 整理營養素的吸收: Source: [[sources/med3-book4-ch10|甲、貧血]].
-- 【詳解】病史有牙齦出血應想到 primary hemostasis 出問題, 這四 個疾病都會造成血小板減少。若是 Pancytopenia, 就剩下 (B)、(C)。 但病人有疲倦(胸骨壓痛)等症狀,以急性白血病的診斷最適合。 (C) 選項較常發生在素食者身上,缺乏 B12 會有周邊神經病變,以 感覺麻木、喪失振動覺 (vibratory) 及本體感覺為主。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- 【詳解】(A) 應是 Pancytopenia; (B) 成熟的顆粒性白血球在鹼性磷 酸酶染色 (LAP) 時,會被染出深色的顆粒。依據每個白血球被染 出深色顆粒的多少,給予1到4分的分數,共觀察100粒白血球, 統計其總得分即為 LAP score。由於不成熟的顆粒性白血球染不出 深色的顆粒,故慢性骨髓性白血病(CML)時,LAP score 得分偏 低。但在細菌性感染時,增加的白血球大多為成熟的顆粒性白血 球,而使 LAP score 得分增加。LAP 正常值約在 40~130 分。此題 LAP 偏低,所以不是 Systemic infection; (C) Leukocytosis with left shift and low LAP score: (D) AML 不會分化那麼好。 Source: [[sources/med3-book4-ch14|戊、慢性骨髓性增生性疾病]].
+- (A) 13. 一位 4 歲男童出現全血球低下(pancytopenia),身體驅幹及頸部有色素沈著及咖啡斑(café-au-lait spots),身材矮小(short stature),並且有不正常的染色體脆弱(chromosome fragility)情形,他最有可能罹患: - (A) Fanconi anemia Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- ...血小板。病人出生後為了預防顱內出血,治療方式為輸血小板預防出血,有時也會使用IVIG。(A)Wiskott-Aldrich syndrome 為性聯遺傳隱性疾病,WAS gene mutation(Xp11.22-23)。臨床上病人會出現 pancytopenia。(C) amegakaryocytic thrombocytopenia 多為先天性,血液學檢查多呈現 thrombocytopenia,但是病人的血紅素與白血球有可能正常。(D) Fanconi anemia 病人因骨髓功能失能(marrowfailure),因此臨床上會依序出現 thrombocytopenia、red blood cell macrocytosis、granulocytopenia,最後出現 anemia。 Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- (5) 努南氏症病人常與 juvenile myelomonocytic leukemia 有關。其它血液學疾病有 amegakaryocytic thrombocytopeniac 或 pancytopenia with hypocellular marrow。 Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- F. 全血球減少症 (Pancytopenia) 115 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- 3. 若不只貧血,白血球、血小板也低(Pancytopenia),則有其他鑑別診斷。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- 1. 巨芽細胞貧血(Megaloblastic anemia):缺 B12 或葉酸 - (1) 典型的血液學表現是 Pancytopenia,且 MCV 高達 120 fl 以上,周邊血球抹片可觀察 到高分葉核的中性球增多 (hypersegmented neutrophils)。 - (2) 整理營養素的吸收: Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- 【詳解】病史有牙齦出血應想到 primary hemostasis 出問題, 這四 個疾病都會造成血小板減少。若是 Pancytopenia, 就剩下 (B)、(C)。 但病人有疲倦(胸骨壓痛)等症狀,以急性白血病的診斷最適合。 (C) 選項較常發生在素食者身上,缺乏 B12 會有周邊神經病變,以 感覺麻木、喪失振動覺 (vibratory) 及本體感覺為主。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常 Page 143-155.
+- 【詳解】(A) 應是 Pancytopenia; (B) 成熟的顆粒性白血球在鹼性磷 酸酶染色 (LAP) 時,會被染出深色的顆粒。依據每個白血球被染 出深色顆粒的多少,給予1到4分的分數,共觀察100粒白血球, 統計其總得分即為 LAP score。由於不成熟的顆粒性白血球染不出 深色的顆粒,故慢性骨髓性白血病(CML)時,LAP score 得分偏 低。但在細菌性感染時,增加的白血球大多為成熟的顆粒性白血 球,而使 LAP score 得分增加。LAP 正常值約在 40~130 分。此題 LAP 偏低,所以不是 Systemic infection; (C) Leukocytosis with left shift and low LAP score: (D) AML 不會分化那麼好。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_戊、慢性骨髓性增生性疾病 Page 173-182.
 
 ## Clinical Caveats
 

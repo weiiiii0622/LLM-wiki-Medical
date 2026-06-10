@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- VII. 唾液腺腫瘤(Salivary Gland tumor) 230 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- #### VII. 唾液腺腫瘤 (Salivary Gland tumor) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- 1. 唾液腺腫瘤大部分發生於腮腺(約80%),發生於下頜腺(submandibular gland) 約 $10\sim15\%$ ,發生於舌下腺及小唾液腺之機率較低。80%的腮腺腫瘤是良性(其中80%為多形性腺瘤)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- VII. 唾液腺腫瘤(Salivary Gland tumor) 230 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- #### VII. 唾液腺腫瘤 (Salivary Gland tumor) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- 1. 唾液腺腫瘤大部分發生於腮腺(約80%),發生於下頜腺(submandibular gland) 約 $10\sim15\%$ ,發生於舌下腺及小唾液腺之機率較低。80%的腮腺腫瘤是良性(其中80%為多形性腺瘤)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

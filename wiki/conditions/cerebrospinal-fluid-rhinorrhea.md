@@ -27,7 +27,7 @@ CSF rhinorrhea 可由外傷、手術或顱底缺損造成，需確認 beta-2 tra
 
 ## Key Details From Sources
 
-- (b) 功能性內視鏡鼻竇手術(functional endoscopic sinus surgery, FESS)。 - i. 治療慢性鼻竇感染的最常見手術方法。手術使用放大鼻竇內視鏡透過 鼻孔進行。其風險較小,手術後恢復速度比傳統的竇房手術較快。 - ii. 併發症:因傷害到視神經而影響視力、腦脊髓液漏出、牙齒或上唇麻木感、感染、出血。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- (b) 功能性內視鏡鼻竇手術(functional endoscopic sinus surgery, FESS)。 - i. 治療慢性鼻竇感染的最常見手術方法。手術使用放大鼻竇內視鏡透過 鼻孔進行。其風險較小,手術後恢復速度比傳統的竇房手術較快。 - ii. 併發症:因傷害到視神經而影響視力、腦脊髓液漏出、牙齒或上唇麻木感、感染、出血。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
 
 ## Clinical Caveats
 

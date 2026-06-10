@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (3) Endovascular Aortic Aneurysm Repair (EVAR):為低侵襲性的血管內支架手術,從兩側腹股溝股動脈處,將含金屬支架的人工血管(stent-graft)置放到主動脈瘤的位置撐開,使人工血管緊緊地貼緊主動脈壁,阻斷動脈瘤之血流供應,動脈瘤就會隨著時間慢慢的縮小。優點是傷口小、死亡率低、住院時間短及手術併發症降低。當病患年紀大、屬於開刀的高風險族群,EVAR會是個不錯的選擇。(下圖為 EVAR 示意圖) Source: [[sources/med5-book2-ch02|乙、血管瘤]].
+- (3) Endovascular Aortic Aneurysm Repair (EVAR):為低侵襲性的血管內支架手術,從兩側腹股溝股動脈處,將含金屬支架的人工血管(stent-graft)置放到主動脈瘤的位置撐開,使人工血管緊緊地貼緊主動脈壁,阻斷動脈瘤之血流供應,動脈瘤就會隨著時間慢慢的縮小。優點是傷口小、死亡率低、住院時間短及手術併發症降低。當病患年紀大、屬於開刀的高風險族群,EVAR會是個不錯的選擇。(下圖為 EVAR 示意圖) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_乙、血管瘤 Page 29-38.
 
 ## Clinical Caveats
 

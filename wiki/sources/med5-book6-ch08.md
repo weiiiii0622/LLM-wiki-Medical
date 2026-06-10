@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第6冊骨科/醫(五)第6冊骨科_辛、小兒骨科.md
+raw_source_title: "醫(五)第6冊骨科_辛、小兒骨科"
+raw_source_file: "raw/books/md/醫(五)第6冊骨科/醫(五)第6冊骨科_辛、小兒骨科.md"
+page_start: 153
+page_end: 174
+canonical_citation: "醫(五)第6冊骨科_辛、小兒骨科 Page 153-174"
 book: 醫(五)第6冊骨科
 chapter_order: 8
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第6冊骨科
 - Chapter file: `raw/books/md/醫(五)第6冊骨科/醫(五)第6冊骨科_辛、小兒骨科.md`
+- Pages covered: 153-174
+- Canonical citation: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

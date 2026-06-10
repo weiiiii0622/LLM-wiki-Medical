@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 依心臟收縮或舒張功能受影響分類: - (1) 收縮失能(Systolic dysfunction):心肌收縮功能下降,可用心臟超音波量測左心室射出分率(LV ejection fraction、LVEF)評估。 - (2) 舒張失能(Diastolic dysfunction):心肌舒張功能下降,心臟超音波的 LVEF 是正常的。約一半心臟衰竭的住院病患的 LVEF 是正常的。 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
-- **肺水腫可聽見肺部濕鑼音、**周邊水腫可見下肢水腫、頸靜脈怒張等。收縮失能 (Systolic dysfunction ) 可聽見第三、第四心音 $(S_3 \setminus S_4)$ 。 Source: [[sources/med3-book1-ch04|壬、心臟衰竭]].
+- 1. 依心臟收縮或舒張功能受影響分類: - (1) 收縮失能(Systolic dysfunction):心肌收縮功能下降,可用心臟超音波量測左心室射出分率(LV ejection fraction、LVEF)評估。 - (2) 舒張失能(Diastolic dysfunction):心肌舒張功能下降,心臟超音波的 LVEF 是正常的。約一半心臟衰竭的住院病患的 LVEF 是正常的。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_壬、心臟衰竭 Page 203-216.
+- **肺水腫可聽見肺部濕鑼音、**周邊水腫可見下肢水腫、頸靜脈怒張等。收縮失能 (Systolic dysfunction ) 可聽見第三、第四心音 $(S_3 \setminus S_4)$ 。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_壬、心臟衰竭 Page 203-216.
 
 ## Clinical Caveats
 

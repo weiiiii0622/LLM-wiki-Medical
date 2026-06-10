@@ -31,9 +31,9 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 膽道是個有趣的章節,我常常跟病人形容膽道如同下水道,負責將膽汁引流至腸胃道,因此不管是結石或是腫瘤等等都有可能造成阻塞。學弟妹們可以利用此書先了解什麼是PTCD、PTGBD、ERCP、ERBD等管路,回過頭再來看病人的疾病,想想為什麼需要使用這些管路來治療病人。 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- (a) Grade III (severe) acute cholecystitis: - i. 先考慮保守治療,先讓病人 NPO,合併靜脈液體注射。若病人持續噁 心嘔吐,考慮鼻胃管置入。 - ii. 止痛藥使用與抗生素使用。 - iii. 常見菌種:*Escherichia coli、Bacteroides fragilis*、Klebsiella、Enterococcus、Pseudomonas species。 - iv. 考慮作 percutaneous cholecystostomy,將膽汁 drainage 出來。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 4. 若狀況不適合開刀,採取經皮膽囊造口術(percutaneous cholecystostomy),將滯留的膽汁引流,暫時緩解症狀。 Source: [[sources/med5-book3-ch14|丙、急性非結石性膽囊炎]].
+- 3. 膽道是個有趣的章節,我常常跟病人形容膽道如同下水道,負責將膽汁引流至腸胃道,因此不管是結石或是腫瘤等等都有可能造成阻塞。學弟妹們可以利用此書先了解什麼是PTCD、PTGBD、ERCP、ERBD等管路,回過頭再來看病人的疾病,想想為什麼需要使用這些管路來治療病人。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤 Page 117-136.
+- (a) Grade III (severe) acute cholecystitis: - i. 先考慮保守治療,先讓病人 NPO,合併靜脈液體注射。若病人持續噁 心嘔吐,考慮鼻胃管置入。 - ii. 止痛藥使用與抗生素使用。 - iii. 常見菌種:*Escherichia coli、Bacteroides fragilis*、Klebsiella、Enterococcus、Pseudomonas species。 - iv. 考慮作 percutaneous cholecystostomy,將膽汁 drainage 出來。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- 4. 若狀況不適合開刀,採取經皮膽囊造口術(percutaneous cholecystostomy),將滯留的膽汁引流,暫時緩解症狀。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丙、急性非結石性膽囊炎 Page 159-162.
 
 ## Clinical Caveats
 

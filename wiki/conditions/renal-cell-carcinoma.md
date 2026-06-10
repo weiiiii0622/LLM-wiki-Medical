@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- ...adjuvant C/T ) → OP → C/T。 | | | (D) 37. | 在轉移性骨腫瘤中,何者造成的病灶,最常使患部骨骼的骨密度 | 94(一)專 | | ` , | 增高? | 外一-53 | | | (A) 腸癌 (B) 腎細胞癌 | | | | (C) 甲狀腺癌 (D) 前列腺癌 | | | | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考慮 | 71 00 | | | osteoid osteoma | | | | (C) 腰椎解離(spon Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (1) 腎臟實質腫瘤 (renal parenchymal neoplasm): - a. 良性腫瘤 (benign): - (a) 嗜酸細胞瘤 (oncocytoma) (占所有腎腫瘤 4%)。 - (b) 血管肌肉脂肪瘤(angiomyolipoma, AML)=畸形瘤(hamartoma)。 - b. 惡性腫瘤 (malignant): - (a) 腎細胞癌 (RCC): 85%。 - (b) 轉移癌 (secondary tumor): 15%。 - (c) 兒童 Wilms' tumor。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (1) 腎細胞癌 (renal cell carcinoma): - a. 流行病學:最常見的原發性腎臟惡性腫瘤(85%);佔成人所有惡性腫瘤不到5%。好發於55歲男性黑人(男女比2:1,黑人>白人>亞洲人)。 - b. 病因:分為遺傳性或偶發性兩類。 - (a) 遺傳性:體染色體顯性基因 - i. Von Hippel-Lindau (VHL) disease: 在多個器官產生腫瘤,包括小腦血管母細胞瘤、視網膜血管瘤、雙側腎透明細胞癌。 - ii. Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- i. 膀胱鏡檢(cystoscopy): 通常是因血尿而做檢查,但大部分腎細胞癌 用影像檢查即可診斷。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...---------| | | 起勃起功能障礙,所以手術中泌尿外科勺保留,來維護病人的性功能? | 101(二)專醫五-70 | | (B) 24. 最常引起骨增生性之轉程 | 多性癌症是: | 100(二)專 | | (A) 大腸癌(C) 腎細胞癌 | (B) 前列腺癌(D) 肝癌 | 醫五 -57 | | (B) 25. 年輕男性的攝護腺,其中(A) 移行區(transition zo(B) 周邊區(peripheral zo(C) 中央區(central zone(D) 精阜及輸精管(veru | one) | 100(二)專醫五-66 | | 錯誤? (A) 早期大多數沒有症狀 (B) 良性攝護腺肥大 (B) (C) 核磁共振造影 (MRI (D) 50 歲以上男性應每年定 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...adjuvant C/T ) → OP → C/T。 | | | (D) 37. | 在轉移性骨腫瘤中,何者造成的病灶,最常使患部骨骼的骨密度 | 94(一)專 | | ` , | 增高? | 外一-53 | | | (A) 腸癌 (B) 腎細胞癌 | | | | (C) 甲狀腺癌 (D) 前列腺癌 | | | | 【詳解】考古!百考不厭的重點! | 4 | | (B) 38 | 下列有關背痛的敘述,何者正確? | 93(二)專 | | (B) 50. | (A) 在小孩子很常見 | かー -53 | | | (B) 若背痛常在晚上加劇,且用 aspirin 可以緩解,則應考慮 | 71 00 | | | osteoid osteoma | | | | (C) 腰椎解離(spon Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- (1) 腎臟實質腫瘤 (renal parenchymal neoplasm): - a. 良性腫瘤 (benign): - (a) 嗜酸細胞瘤 (oncocytoma) (占所有腎腫瘤 4%)。 - (b) 血管肌肉脂肪瘤(angiomyolipoma, AML)=畸形瘤(hamartoma)。 - b. 惡性腫瘤 (malignant): - (a) 腎細胞癌 (RCC): 85%。 - (b) 轉移癌 (secondary tumor): 15%。 - (c) 兒童 Wilms' tumor。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (1) 腎細胞癌 (renal cell carcinoma): - a. 流行病學:最常見的原發性腎臟惡性腫瘤(85%);佔成人所有惡性腫瘤不到5%。好發於55歲男性黑人(男女比2:1,黑人>白人>亞洲人)。 - b. 病因:分為遺傳性或偶發性兩類。 - (a) 遺傳性:體染色體顯性基因 - i. Von Hippel-Lindau (VHL) disease: 在多個器官產生腫瘤,包括小腦血管母細胞瘤、視網膜血管瘤、雙側腎透明細胞癌。 - ii. Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- i. 膀胱鏡檢(cystoscopy): 通常是因血尿而做檢查,但大部分腎細胞癌 用影像檢查即可診斷。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- ...---------| | | 起勃起功能障礙,所以手術中泌尿外科勺保留,來維護病人的性功能? | 101(二)專醫五-70 | | (B) 24. 最常引起骨增生性之轉程 | 多性癌症是: | 100(二)專 | | (A) 大腸癌(C) 腎細胞癌 | (B) 前列腺癌(D) 肝癌 | 醫五 -57 | | (B) 25. 年輕男性的攝護腺,其中(A) 移行區(transition zo(B) 周邊區(peripheral zo(C) 中央區(central zone(D) 精阜及輸精管(veru | one) | 100(二)專醫五-66 | | 錯誤? (A) 早期大多數沒有症狀 (B) 良性攝護腺肥大 (B) (C) 核磁共振造影 (MRI (D) 50 歲以上男性應每年定 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
 
 ## Clinical Caveats
 

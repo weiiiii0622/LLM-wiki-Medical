@@ -35,15 +35,15 @@ tags:
 
 ## Key Details From Sources
 
-- a. 便秘:腸道活動度異常是其主因,甚至可能出現腸扭轉(vovulus)或巨結腸 (megacolon)等情形,定時清除大便可預防之。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- I. 先天性巨結腸症 (Hirschsprung disease) 160 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (D) 巨大結腸症 (megacolon) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (C) 巨大結腸症 (Hirschsprung's disease) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ...過度增生會造成不同程度的疾病,從沒有症狀的帶原者到 self-limited colitis,偽膜性大腸炎(pseudomembranous colitis),猛爆性大腸炎(fulminant colitis)到毒性巨結腸症(toxic megacolon)都有 (C) 主要治療方法是 vancomycin 靜脈注射 (D) 電腦斷層上的表現主要是結腸壁變厚和水腫以及有腹水產生【詳解】口服 vancomycin 不易被腸胃道消化吸收,正因如此才能在腸胃道內維持其效果。如果被吸收離開腸胃道,就無法達到治療 Clostridium difficile 的目的,所以 IVform 反而沒有效, | 104(一)專醫五-1 | | | 因為 Clostridium difficile 是在腸胃道 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- V. 胃與腸道 (Stomach and Intestines) 68 - A. 肥厚性幽門狹窄 68 - B. 十二指腸閉鎖 71 - C. 腸轉位異常 71 - D. 腸套疊 72 - E. 梅克爾氏憩室 73 - F. 功能性便秘 74 - G. 先天性巨腸症 75 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...嘔吐,嘔吐物中無膽汁,過去除了偶爾有輕微稀糊便外 | , 暨四-10 | | | 並不曾這樣。下列何者為最適切的診斷? | | | | (A) 乳糖不耐症(lactose intolerance) | | | | (B) 先天性巨大結腸症(Hirschsprung disease) | | | | (C) 肥厚性幽門狹窄症(hypertrophic pyloric stenosis) | | | | (D) 十二指腸閉鎖症(duodenal atresia) | | | | 【詳解】(A) 會以腹瀉表現。(B) 會出現 48 小時內未解胎便。(E | )) | | | 則會出現含膽汁性嘔吐。 | | | (B) | 4. 承上題,上述男嬰之身體診查,最不可能出現的徵狀是: | 102(二)專 | Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- # G. 先天性巨腸症 (Congenital aganglionic megacolon, Hirschsprung disease) Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 4. Hirschsprung disease Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- a. 便秘:腸道活動度異常是其主因,甚至可能出現腸扭轉(vovulus)或巨結腸 (megacolon)等情形,定時清除大便可預防之。 Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- I. 先天性巨結腸症 (Hirschsprung disease) 160 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (D) 巨大結腸症 (megacolon) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (C) 巨大結腸症 (Hirschsprung's disease) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- ...過度增生會造成不同程度的疾病,從沒有症狀的帶原者到 self-limited colitis,偽膜性大腸炎(pseudomembranous colitis),猛爆性大腸炎(fulminant colitis)到毒性巨結腸症(toxic megacolon)都有 (C) 主要治療方法是 vancomycin 靜脈注射 (D) 電腦斷層上的表現主要是結腸壁變厚和水腫以及有腹水產生【詳解】口服 vancomycin 不易被腸胃道消化吸收,正因如此才能在腸胃道內維持其效果。如果被吸收離開腸胃道,就無法達到治療 Clostridium difficile 的目的,所以 IVform 反而沒有效, | 104(一)專醫五-1 | | | 因為 Clostridium difficile 是在腸胃道 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_戊、外科感染 Page 59-70.
+- V. 胃與腸道 (Stomach and Intestines) 68 - A. 肥厚性幽門狹窄 68 - B. 十二指腸閉鎖 71 - C. 腸轉位異常 71 - D. 腸套疊 72 - E. 梅克爾氏憩室 73 - F. 功能性便秘 74 - G. 先天性巨腸症 75 Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- ...嘔吐,嘔吐物中無膽汁,過去除了偶爾有輕微稀糊便外 | , 暨四-10 | | | 並不曾這樣。下列何者為最適切的診斷? | | | | (A) 乳糖不耐症(lactose intolerance) | | | | (B) 先天性巨大結腸症(Hirschsprung disease) | | | | (C) 肥厚性幽門狹窄症(hypertrophic pyloric stenosis) | | | | (D) 十二指腸閉鎖症(duodenal atresia) | | | | 【詳解】(A) 會以腹瀉表現。(B) 會出現 48 小時內未解胎便。(E | )) | | | 則會出現含膽汁性嘔吐。 | | | (B) | 4. 承上題,上述男嬰之身體診查,最不可能出現的徵狀是: | 102(二)專 | Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- # G. 先天性巨腸症 (Congenital aganglionic megacolon, Hirschsprung disease) Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- 4. Hirschsprung disease Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
 
 ## Clinical Caveats
 

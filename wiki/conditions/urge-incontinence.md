@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- ...帶受損 | | (stress) | 內因性括約肌功能缺損 | 手術、老化、受傷、放射治療 | | | 神經性括約肌功能缺損 | 神經性(薦椎病灶) | | 急尿型 | 膀胱不穩定或逼尿肌不穩定 | 無神經病灶 | | (urge) | (detrusor instability) | | | | 逼尿肌過度反射 | 神經性病灶:中風、多發性硬化症 | | | (detrusor hyperreflexia) | (multiple sclerosis) 和上脊索病灶等 | | | 逼尿肌括約肌不協調 | | | | (detrusor sphincter dyssynergia) | | | 溢流性 | 逼尿肌收縮不全 | 神經性(下脊索病灶和神經病變等) | | (overflow) | 出口堵塞 | 手術 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
-- ...括前陰道修補術 (anterior colporrhapy)、陰道旁修補術 (paravaginal repair)、 | | | Marshall-Marchetti-Ktantz urethropexy ° | | | 急尿型尿失禁 (urge incontinence) | | 成 因 | 逼尿肌過度活動 (detrusor overactivity),由於非神經性病灶的逼尿肌不穩定 | | | (detrusor instability) 或神經性病灶造成的逼尿肌過度反射 (detrusor | | | hyperreflexia),突然感到強烈排尿感而造成尿失禁 | | 診 斷 | cystometry 發現逼尿肌壓力 (Pdet) 的壓力波 (phasic pressure wave) (如圖 Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
-- (A) 急迫性尿失禁 (urge urinary incontinence) Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
-- (A) 不穩定膀胱 (detrusor instability) Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
-- (C) 急迫性尿失禁 (urge incontinence) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- ...帶受損 | | (stress) | 內因性括約肌功能缺損 | 手術、老化、受傷、放射治療 | | | 神經性括約肌功能缺損 | 神經性(薦椎病灶) | | 急尿型 | 膀胱不穩定或逼尿肌不穩定 | 無神經病灶 | | (urge) | (detrusor instability) | | | | 逼尿肌過度反射 | 神經性病灶:中風、多發性硬化症 | | | (detrusor hyperreflexia) | (multiple sclerosis) 和上脊索病灶等 | | | 逼尿肌括約肌不協調 | | | | (detrusor sphincter dyssynergia) | | | 溢流性 | 逼尿肌收縮不全 | 神經性(下脊索病灶和神經病變等) | | (overflow) | 出口堵塞 | 手術 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_乙、尿失禁(Urinary Incontinence) Page 429-436.
+- ...括前陰道修補術 (anterior colporrhapy)、陰道旁修補術 (paravaginal repair)、 | | | Marshall-Marchetti-Ktantz urethropexy ° | | | 急尿型尿失禁 (urge incontinence) | | 成 因 | 逼尿肌過度活動 (detrusor overactivity),由於非神經性病灶的逼尿肌不穩定 | | | (detrusor instability) 或神經性病灶造成的逼尿肌過度反射 (detrusor | | | hyperreflexia),突然感到強烈排尿感而造成尿失禁 | | 診 斷 | cystometry 發現逼尿肌壓力 (Pdet) 的壓力波 (phasic pressure wave) (如圖 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_乙、尿失禁(Urinary Incontinence) Page 429-436.
+- (A) 急迫性尿失禁 (urge urinary incontinence) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_乙、尿失禁(Urinary Incontinence) Page 429-436.
+- (A) 不穩定膀胱 (detrusor instability) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428.
+- (C) 急迫性尿失禁 (urge incontinence) Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
 
 ## Clinical Caveats
 

@@ -39,18 +39,18 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 小腸阻塞:三種形成原因。 - a. 小腸扭轉:因憩室形成之纖維化繫帶(fibrotic band)沾黏於腹壁上所致。 - b. 腸套疊。 - c. 腹股溝箝頓性疝氣(又稱 Littre hernia): 憩室於腹股溝疝出並箝頓所致。 - d. 還有一個常見症狀是發炎,尤其是大小孩或成人常見,懷疑是急性闌尾炎的病人有 0.76% 術中會發現其實是 Meckel diverticulitis,不過很難在術前就診斷出來。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (D) 2. 有關小腸的憩室疾病(diverticular disease)之敘述,下列何者錯誤? Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
-- (A) 關於腸道 diverticular disease 的好發位置,小腸是僅次於大腸 排名第二的 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
-- (C) 診斷有腸道 diverticular disease 的患者,病患年紀很少小於 40 歳 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
-- #### 丙、大腸憩室疾病 (Colonic Diverticular Disease) Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- 1. 大腸憩室為穿透大腸壁的囊狀突起物,一般真憩室(true diverticulum)是整層的腸壁向外突出,但大腸憩室為大腸黏膜層穿透過肌肉層向外膨出,肌肉層並沒有一起膨出,所以叫作偽憩室(false diverticulum)。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- 2. 大部分大腸憩室的膨出點是在腸壁較為脆弱之處,通常是血管穿透肌肉層的地方, 也就是 lateral mesenteric (antimesenteric) taeniae 的 mesenteric side 靠近 mesenteric taenia 處,不會發生在 lateral mesenteric taeniae 的 antimesenteric side。 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- ...錯,但在第 3 天卻突然發生腹部劇痛, 經家人送回醫院急診,理學檢查有輕度發燒(38℃),腹部有壓 痛及反彈性壓痛,白血球數也增加至 15,000,腹部 X 光檢查出 現明顯的腹膜腔內之 free air。則最有可能的診斷是: - (A) diverticulitis of colon - (B) peptic ulcer perforation - (C) colon perforation at polypectomy site - (D) perforated appendicitis Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- (C) Diverticulitis of colon Source: [[sources/med5-book2-ch19|子、大腸鏡併發症及其他]].
-- 1. 憩室 (diverticulosis): 60%。 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
-- (B) 升結腸憩室炎(diverticulitis) Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- (A) cecal diverticulitis Source: [[sources/med5-book2-ch18|癸、闌尾炎]].
+- (2) 小腸阻塞:三種形成原因。 - a. 小腸扭轉:因憩室形成之纖維化繫帶(fibrotic band)沾黏於腹壁上所致。 - b. 腸套疊。 - c. 腹股溝箝頓性疝氣(又稱 Littre hernia): 憩室於腹股溝疝出並箝頓所致。 - d. 還有一個常見症狀是發炎,尤其是大小孩或成人常見,懷疑是急性闌尾炎的病人有 0.76% 術中會發現其實是 Meckel diverticulitis,不過很難在術前就診斷出來。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (D) 2. 有關小腸的憩室疾病(diverticular disease)之敘述,下列何者錯誤? Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丙、梅克爾憩室症 Page 83-86.
+- (A) 關於腸道 diverticular disease 的好發位置,小腸是僅次於大腸 排名第二的 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丙、梅克爾憩室症 Page 83-86.
+- (C) 診斷有腸道 diverticular disease 的患者,病患年紀很少小於 40 歳 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丙、梅克爾憩室症 Page 83-86.
+- #### 丙、大腸憩室疾病 (Colonic Diverticular Disease) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_丙、大腸憩室疾病 Page 139-146.
+- 1. 大腸憩室為穿透大腸壁的囊狀突起物,一般真憩室(true diverticulum)是整層的腸壁向外突出,但大腸憩室為大腸黏膜層穿透過肌肉層向外膨出,肌肉層並沒有一起膨出,所以叫作偽憩室(false diverticulum)。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_丙、大腸憩室疾病 Page 139-146.
+- 2. 大部分大腸憩室的膨出點是在腸壁較為脆弱之處,通常是血管穿透肌肉層的地方, 也就是 lateral mesenteric (antimesenteric) taeniae 的 mesenteric side 靠近 mesenteric taenia 處,不會發生在 lateral mesenteric taeniae 的 antimesenteric side。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_丙、大腸憩室疾病 Page 139-146.
+- ...錯,但在第 3 天卻突然發生腹部劇痛, 經家人送回醫院急診,理學檢查有輕度發燒(38℃),腹部有壓 痛及反彈性壓痛,白血球數也增加至 15,000,腹部 X 光檢查出 現明顯的腹膜腔內之 free air。則最有可能的診斷是: - (A) diverticulitis of colon - (B) peptic ulcer perforation - (C) colon perforation at polypectomy site - (D) perforated appendicitis Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_子、大腸鏡併發症及其他 Page 201-208.
+- (C) Diverticulitis of colon Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_子、大腸鏡併發症及其他 Page 201-208.
+- 1. 憩室 (diverticulosis): 60%。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_戊、後天性血管異常及下消化道出血 Page 151-156.
+- (B) 升結腸憩室炎(diverticulitis) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- (A) cecal diverticulitis Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_癸、闌尾炎 Page 196-200.
 
 ## Clinical Caveats
 

@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 「運動處方」常用係數: - a. Mode/Type:運動類型, Ex. 腳踏車 or 跑步機。 - (a) 須包含熱身、有氧運動、阻力訓練和收身操,且運動類型以大塊肌群的 運動為主。 - b. Frequency:每週幾次,至少每週三至五次以上。 - c. Duration:每次做多久,一般會包含 warm up 5~10 分鐘、exercise 20~60 分鐘、cool down 5~10 分鐘,時間長度會因人和因病而異。 - d. Int Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (2) 「運動處方」常用係數: - a. Mode/Type:運動類型, Ex. 腳踏車 or 跑步機。 - (a) 須包含熱身、有氧運動、阻力訓練和收身操,且運動類型以大塊肌群的 運動為主。 - b. Frequency:每週幾次,至少每週三至五次以上。 - c. Duration:每次做多久,一般會包含 warm up 5~10 分鐘、exercise 20~60 分鐘、cool down 5~10 分鐘,時間長度會因人和因病而異。 - d. Int Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
 
 ## Clinical Caveats
 

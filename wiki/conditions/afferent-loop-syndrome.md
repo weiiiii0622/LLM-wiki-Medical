@@ -27,9 +27,9 @@ Billroth II 或相關重建後輸入袢阻塞造成膽胰液鬱積、腹痛、�
 
 ## Key Details From Sources
 
-- (b) 因為空腸和胃吻合後膽汁會流經胃,容易造成逆流性胃炎、輸入盲端症候群 (afferent loop syndrome)、傾食症候群 (dumping syndrome),得到殘胃癌機會大於 Billroth I。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- b. Billroth II gastrojejunostomy可以分成輸入支 (afferent loop)與輸出支 (efferent loop), afferent loop 指的就是 duodenum 和 jejunum 的近端, efferent loop 就是 jejunum 的遠端和 ileum。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (2) Afferent loop syndrome: - a. 由於膽管與胰管是接在 A-loop,也就是 duodenum,術後,若 afferent loop留得太長時,容易發生纏繞而造成阻塞 (kinking、strangulation),或是發生與胃接口處的狹窄 (stenosis)、小腸的沾黏 (adhesion),胰液和膽汁將無法進入小腸,蓄積在 A-loop,就會形成 afferent loop syndrome。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- (b) 因為空腸和胃吻合後膽汁會流經胃,容易造成逆流性胃炎、輸入盲端症候群 (afferent loop syndrome)、傾食症候群 (dumping syndrome),得到殘胃癌機會大於 Billroth I。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- b. Billroth II gastrojejunostomy可以分成輸入支 (afferent loop)與輸出支 (efferent loop), afferent loop 指的就是 duodenum 和 jejunum 的近端, efferent loop 就是 jejunum 的遠端和 ileum。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- (2) Afferent loop syndrome: - a. 由於膽管與胰管是接在 A-loop,也就是 duodenum,術後,若 afferent loop留得太長時,容易發生纏繞而造成阻塞 (kinking、strangulation),或是發生與胃接口處的狹窄 (stenosis)、小腸的沾黏 (adhesion),胰液和膽汁將無法進入小腸,蓄積在 A-loop,就會形成 afferent loop syndrome。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
 
 ## Clinical Caveats
 

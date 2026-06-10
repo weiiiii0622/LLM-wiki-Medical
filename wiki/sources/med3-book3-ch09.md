@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_甲、中樞神經感染.md
+raw_source_title: "醫(三)第3冊腎內感染_第二篇、感染科_甲、中樞神經感染"
+raw_source_file: "raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_甲、中樞神經感染.md"
+page_start: 141
+page_end: 146
+canonical_citation: "醫(三)第3冊腎內感染_第二篇、感染科_甲、中樞神經感染 Page 141-146"
 book: 醫(三)第3冊腎內感染
 chapter_order: 9
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第3冊腎內感染
 - Chapter file: `raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_甲、中樞神經感染.md`
+- Pages covered: 141-146
+- Canonical citation: 醫(三)第3冊腎內感染_第二篇、感染科_甲、中樞神經感染 Page 141-146
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

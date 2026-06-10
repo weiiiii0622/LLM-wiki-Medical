@@ -33,12 +33,12 @@ tags:
 
 ## Key Details From Sources
 
-- (2) Diffuse large B-cell lymphoma: - a. 兒童 NHL 中佔約 20%。 - b. 可侵犯縱膈腔、腹腔、消化器官、周邊淋巴結、腦部等,依照侵犯得位置而 有不同表現。 Source: [[sources/med4-book1-ch09|壬、腫瘤學]].
-- 3. 其中以 Non-Hodgkin's lymphoma 最多 - (1) 成人 ( > 20 歲): DLBCL、Follicular lymphoma 為多數。 - (2) 小孩 ( 38°C \ Night sweat \ Weight loss 10% in 6 months | | | | 治療 | ABVD | R-CHOP | | Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...-----------------------------------| | HTLV-1 | Adult T cell lymphoma/leukemia ( 簡寫 ATLL) | | HIV | Burkitt's lymphoma, Diffuse large B cell lymphoma | | EBV | Burkitt's lymphoma, Primary CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- #### (2) 依據五項指標的預後(針對 DLBCL): Source: [[sources/med3-book4-ch15|己、淋巴瘤]].
-- ...| | Follicular lymphoma | t(14; [18]) | BCL-2, IgH | | | MALT lymphoma | t(11; 18) | API2/MALT, BCL-10 | | Aggressive | Diffuse large cell lymphoma | t(3; -), t(17; -) | BCL-6; p53 | | lymphoma | CD30+Anaplastic large cell lymphoma | a t(2;5) | ALK | | Highly | Burkitt's lymphoma/leukemia | t(8; 14) | C-MYC | | aggressive | Precursor B cell ALL | t(4; Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...二浦州 | HTLV-1 | Adult T cell leukemia/lymphoma | | 反轉錄 | HTLV-2 | Hairy cell leukemia | | 病毒 | HIV | Burkitt's lymphoma, Diffuse large B cell lymphoma | | | HCV | Lymphoplasmacytic lymphoma | | 其他病毒 | EBV | 鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma)、Burkitt's lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman Source: [[sources/med3-book4-ch18|甲、腫瘤特徵]].
+- (2) Diffuse large B-cell lymphoma: - a. 兒童 NHL 中佔約 20%。 - b. 可侵犯縱膈腔、腹腔、消化器官、周邊淋巴結、腦部等,依照侵犯得位置而 有不同表現。 Source: 醫(四)第1冊小兒_壬、腫瘤學 Page 381-408.
+- 3. 其中以 Non-Hodgkin's lymphoma 最多 - (1) 成人 ( > 20 歲): DLBCL、Follicular lymphoma 為多數。 - (2) 小孩 ( 38°C \ Night sweat \ Weight loss 10% in 6 months | | | | 治療 | ABVD | R-CHOP | | Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_己、淋巴瘤 Page 183-192.
+- ...-----------------------------------| | HTLV-1 | Adult T cell lymphoma/leukemia ( 簡寫 ATLL) | | HIV | Burkitt's lymphoma, Diffuse large B cell lymphoma | | EBV | Burkitt's lymphoma, Primary CNS diffuse large B cell lymphomaExtranodal NK/T cell lymphoma nasal type, HD | | HCV | Lymphoplasmacytic lymphoma | | H. pylori | Gastric MALToma | | HHV8 | Primary Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_己、淋巴瘤 Page 183-192.
+- #### (2) 依據五項指標的預後(針對 DLBCL): Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_己、淋巴瘤 Page 183-192.
+- ...| | Follicular lymphoma | t(14; [18]) | BCL-2, IgH | | | MALT lymphoma | t(11; 18) | API2/MALT, BCL-10 | | Aggressive | Diffuse large cell lymphoma | t(3; -), t(17; -) | BCL-6; p53 | | lymphoma | CD30+Anaplastic large cell lymphoma | a t(2;5) | ALK | | Highly | Burkitt's lymphoma/leukemia | t(8; 14) | C-MYC | | aggressive | Precursor B cell ALL | t(4; Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丁、急性白血病 Page 161-172.
+- ...二浦州 | HTLV-1 | Adult T cell leukemia/lymphoma | | 反轉錄 | HTLV-2 | Hairy cell leukemia | | 病毒 | HIV | Burkitt's lymphoma, Diffuse large B cell lymphoma | | | HCV | Lymphoplasmacytic lymphoma | | 其他病毒 | EBV | 鼻腔型淋巴瘤 (Nasal NK/T cell lymphoma)、Burkitt's lymphoma,Primary CNS diffuse large B cell lymphoma、HD | | | HHV8 | Primary effusion lymphoma, Castleman Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_甲、腫瘤特徵 Page 207-214.
 
 ## Clinical Caveats
 

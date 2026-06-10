@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...ing Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminat Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- #### C. Charcot-Marie-Tooth disease (CMT) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 1. 一群遺傳性周邊神經病變疾病之總稱,致病基因目前已被確認的就有 70 多種,除 CMT type X 屬性染色體遺傳外,其他皆為體染色體顯性及隱性遺傳。根據基因及 症狀嚴重程度不同,分為多種類型: - (1) 脫髓鞘型 (Demyelinating) -CMT type 1 (最常見)、CMT type X 及 CMT type 4; - (2) 軸突退化型 (Axonal) -CMT type 2 - (3) 顯性中間型 (Dominant-intermediate)。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- IV. 其它的神經肌肉疾病 234 - A. 格林一巴利症候群(Guillain-Barrésyndrome) 234 - B. 貝爾氏顏面神經麻痺 (Bell palsy) 235 - C. 腦性麻痺 (Cerebral palsy, CP) 236 - D. 遺傳性運動一感覺神經病變 (Hereditary motor and sensory neuropathy) *237* Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- ...ing Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminat Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- #### C. Charcot-Marie-Tooth disease (CMT) Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- 1. 一群遺傳性周邊神經病變疾病之總稱,致病基因目前已被確認的就有 70 多種,除 CMT type X 屬性染色體遺傳外,其他皆為體染色體顯性及隱性遺傳。根據基因及 症狀嚴重程度不同,分為多種類型: - (1) 脫髓鞘型 (Demyelinating) -CMT type 1 (最常見)、CMT type X 及 CMT type 4; - (2) 軸突退化型 (Axonal) -CMT type 2 - (3) 顯性中間型 (Dominant-intermediate)。 Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- IV. 其它的神經肌肉疾病 234 - A. 格林一巴利症候群(Guillain-Barrésyndrome) 234 - B. 貝爾氏顏面神經麻痺 (Bell palsy) 235 - C. 腦性麻痺 (Cerebral palsy, CP) 236 - D. 遺傳性運動一感覺神經病變 (Hereditary motor and sensory neuropathy) *237* Source: 醫(四)第1冊小兒_戊、神經系統性疾病 Page 229-284.
 
 ## Clinical Caveats
 

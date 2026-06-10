@@ -27,9 +27,9 @@ APL 使用 ATRA/arsenic 等分化治療後可發生發燒、水腫、呼吸窘�
 
 ## Key Details From Sources
 
-- ...引導治療 | A (Ara-C) 7 天 -I (Idarubicin) 3 天 | Q (Vincristine) P (Prednisolone) D (Daunorubic | | | (Induction) | APL (M3): ATRA+ Idarubicin (或 arsenic trioxide) | L (L-asparaginase) | | | | | CNS pro | phylaxis: IT MTX, AraC, Decadron | | 評估 (CR) | BM (Blast →若再復發才考慮骨髓移植 (CR2) | | | | * 預後差的完全緩解後, | | | | | →須考慮異體移植 (CR1) | THE STATE OF THE COLU Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- $AML(M3) \rightarrow t(15; 17) \rightarrow ATRA$ Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- ...容 | |---------------|-----------------------------------------------------------------------------------| | Induction | ATRA 45 mg/m²/day until CR plus | | | daunomycin 45-60 mg/m²/day for 3 days and cytarabine 200 mg/m²/day for 7 days | | Consolidation | ATRA 45 mg/m 2 /day for 7 days and | | | daunomycin 50 mg/m²/day for 3 days; repeat cour Source: [[sources/med3-book4-ch13|丁、急性白血病]].
+- ...引導治療 | A (Ara-C) 7 天 -I (Idarubicin) 3 天 | Q (Vincristine) P (Prednisolone) D (Daunorubic | | | (Induction) | APL (M3): ATRA+ Idarubicin (或 arsenic trioxide) | L (L-asparaginase) | | | | | CNS pro | phylaxis: IT MTX, AraC, Decadron | | 評估 (CR) | BM (Blast →若再復發才考慮骨髓移植 (CR2) | | | | * 預後差的完全緩解後, | | | | | →須考慮異體移植 (CR1) | THE STATE OF THE COLU Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丁、急性白血病 Page 161-172.
+- $AML(M3) \rightarrow t(15; 17) \rightarrow ATRA$ Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丁、急性白血病 Page 161-172.
+- ...容 | |---------------|-----------------------------------------------------------------------------------| | Induction | ATRA 45 mg/m²/day until CR plus | | | daunomycin 45-60 mg/m²/day for 3 days and cytarabine 200 mg/m²/day for 7 days | | Consolidation | ATRA 45 mg/m 2 /day for 7 days and | | | daunomycin 50 mg/m²/day for 3 days; repeat cour Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丁、急性白血病 Page 161-172.
 
 ## Clinical Caveats
 

@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- #### 5. Alkaline reflux gastritis: Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- #### 5. Alkaline reflux gastritis: Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
 
 ## Clinical Caveats
 

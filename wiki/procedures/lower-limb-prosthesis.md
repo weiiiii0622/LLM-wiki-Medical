@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- ...nc) amputation • - (e) transtarsal disarticulation (Chopart) amputations • - b. 踝關節離斷 / 塞姆氏截肢 ( ankle disarticulation / Syme's amputation )。 - c. 膝下截肢(BK, below-knee amputation / transtibial amputation)。 - d. 膝關節離斷(knee disarticulation)。 - e. 膝上截肢(AK, above-knee amputation / transfemoral amputation)。 - f. 髖關節離斷(hip disarticulation)。 - g. 半骨盆截 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- #### 塞姆氏截肢義肢 (Syme's prosthesis) (圖請參照第 219 頁) Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
+- ...nc) amputation • - (e) transtarsal disarticulation (Chopart) amputations • - b. 踝關節離斷 / 塞姆氏截肢 ( ankle disarticulation / Syme's amputation )。 - c. 膝下截肢(BK, below-knee amputation / transtibial amputation)。 - d. 膝關節離斷(knee disarticulation)。 - e. 膝上截肢(AK, above-knee amputation / transfemoral amputation)。 - f. 髖關節離斷(hip disarticulation)。 - g. 半骨盆截 Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- #### 塞姆氏截肢義肢 (Syme's prosthesis) (圖請參照第 219 頁) Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
 
 ## Clinical Caveats
 

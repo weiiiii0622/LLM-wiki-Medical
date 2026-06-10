@@ -39,17 +39,17 @@ tags:
 
 ## Key Details From Sources
 
-- E. 轉位異常中腸扭結(Malrotation & Midgut volvulus) 152 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (D) Gastric volvulus Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (6) 檢查 & 診斷: - a. KUB 呈 double bubble sign (air-filled stomach and duodenal bulb),且遠端腸無空氣,即可確診。 - b. 如果遠端有腸氣,需進一步安排上消化道鋇劑攝影,以鑑別十二指腸狹窄或中腸扭轉(midgut volvulus)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (C) 中腸扭結 (midgut volvulus) Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- 4. 其他:10% - (1) 腸套疊 (intussusception)。 - (2) 腸扭結(volvulus)。 - (3) 膽石阻塞 (gallstone ileus)。 - (4) 先天性閉鎖。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
-- (D) 6. 下列何種症 狀或檢查和中腸扭結 (midgut volvulus) 無關? 102(-) 専(A) 血便 - (B) 貧血 - (C) 腹脹 - (D) 腹部 X 光攝影 (plain abdomen) 可用來確定診斷 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- Redundant limb (volvulus) Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 4. 幼兒憩室最常出現的臨床症狀:**腸阻塞**,約占 25%,與憩室造成 volvulus 或 intussusception 相關。 Source: [[sources/med5-book3-ch06|丙、梅克爾憩室症]].
-- A. 乙狀結腸扭結 (Sigmoid volvulus) 120 Source: [[sources/med5-book2-ch10|乙、腸扭結]].
-- B. 盲腸扭結 (Cecal volvulus) 121 Source: [[sources/med5-book2-ch10|乙、腸扭結]].
-- C. 横結腸扭結 (Transverse volvulus) 122 Source: [[sources/med5-book2-ch10|乙、腸扭結]].
+- E. 轉位異常中腸扭結(Malrotation & Midgut volvulus) 152 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (D) Gastric volvulus Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (6) 檢查 & 診斷: - a. KUB 呈 double bubble sign (air-filled stomach and duodenal bulb),且遠端腸無空氣,即可確診。 - b. 如果遠端有腸氣,需進一步安排上消化道鋇劑攝影,以鑑別十二指腸狹窄或中腸扭轉(midgut volvulus)。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (C) 中腸扭結 (midgut volvulus) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丙、胸腔及縱隔腔 Page 149-156.
+- 4. 其他:10% - (1) 腸套疊 (intussusception)。 - (2) 腸扭結(volvulus)。 - (3) 膽石阻塞 (gallstone ileus)。 - (4) 先天性閉鎖。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_乙、腸阻塞 Page 75-82.
+- (D) 6. 下列何種症 狀或檢查和中腸扭結 (midgut volvulus) 無關? 102(-) 専(A) 血便 - (B) 貧血 - (C) 腹脹 - (D) 腹部 X 光攝影 (plain abdomen) 可用來確定診斷 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
+- Redundant limb (volvulus) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- 4. 幼兒憩室最常出現的臨床症狀:**腸阻塞**,約占 25%,與憩室造成 volvulus 或 intussusception 相關。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丙、梅克爾憩室症 Page 83-86.
+- A. 乙狀結腸扭結 (Sigmoid volvulus) 120 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_乙、腸扭結 Page 133-138.
+- B. 盲腸扭結 (Cecal volvulus) 121 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_乙、腸扭結 Page 133-138.
+- C. 横結腸扭結 (Transverse volvulus) 122 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_乙、腸扭結 Page 133-138.
 
 ## Clinical Caveats
 

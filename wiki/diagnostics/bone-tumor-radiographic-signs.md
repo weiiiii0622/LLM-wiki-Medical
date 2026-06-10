@@ -29,12 +29,12 @@ tags:
 
 ## Key Details From Sources
 
-- 5. 大部分骨轉移癌是 osteolytic lesion,會造成骨頭流失,需要比較注意的是前列腺癌所造成的骨轉移常是 osteoblastic lesion,骨頭會以增生來表現,或是 mixed type (osteoblastic 和 osteolytic 共同表現)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (2) 影像:X光: central lytic lesion in medullary canal,可能會出現如「毛玻璃狀」(ground-glass appearance)的表現(一團白色); punched-out lesion,但是邊界明顯;周圍骨皮質變薄、擴張(Cortex is thin and expanded);近端股骨會逐漸變形,形狀如牧羊人的枴杖(shepherd's crook deformity)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- b. **Codman's triangle** (periosteal reaction): 腫瘤往外長得太快,把 periosteum 推到外面,常在 OGS 看到,但並非 OGS 專有。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...| proximal femur diaphyseal 最多 | Vertebra (最多)、sacrum、long bone (diaphysis) | | 病理 | 界線明顯, osteoid woven | 和 OO 相似 Osteolytic lesion with osseous- | | | bone, spindle cellnidus ( 2 cm, | | | cm) + sclerotic reactive bone | 發生率較低 | | 良惡性 | 良 | 良 | | 治療 | 小型可不處理。En-bloc excision, | 通常手術處理,Intralesional currettage (刮除)+ | | | Percutaneous CT guide core- Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- ...chondrosarcoma 惡性度極高。 | | 細胞形態有較大變化時,需 DDx: | Lymphoma, metastatic disease, myeloma | | chondrosarcoma | | | Eccentric, lytic lesion, scallaoped and sclerotic | 多樣化, exostosis, enostosis | | border | 中軸:較厚,透明的病灶,well-delineated,有鈣化 | | | (popcorn like pattern) | | | 周邊:較大,鈣化明顯,有 lobulated formation, | | | translucency | | | | Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- ...ossifying Fibroma | Ossifying Fibroma (osteofibrous | Desmoplastic Fibroma | | | | dysplasia) | | | 年齡(歲) | 5~15 | 影像 | Onion-skin, codman's triangle, sun-burst | Metaphysis of long bone, expansile, | | | large soft tissue mass, permeative /mouth eaten | thin cortex (像蛋殼), fallen leaf sign | | | appearance | (fracture 的碎片掉到骨頭裡面) | | 影像 | | | Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
+- 5. 大部分骨轉移癌是 osteolytic lesion,會造成骨頭流失,需要比較注意的是前列腺癌所造成的骨轉移常是 osteoblastic lesion,骨頭會以增生來表現,或是 mixed type (osteoblastic 和 osteolytic 共同表現)。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- (2) 影像:X光: central lytic lesion in medullary canal,可能會出現如「毛玻璃狀」(ground-glass appearance)的表現(一團白色); punched-out lesion,但是邊界明顯;周圍骨皮質變薄、擴張(Cortex is thin and expanded);近端股骨會逐漸變形,形狀如牧羊人的枴杖(shepherd's crook deformity)。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- b. **Codman's triangle** (periosteal reaction): 腫瘤往外長得太快,把 periosteum 推到外面,常在 OGS 看到,但並非 OGS 專有。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- ...| proximal femur diaphyseal 最多 | Vertebra (最多)、sacrum、long bone (diaphysis) | | 病理 | 界線明顯, osteoid woven | 和 OO 相似 Osteolytic lesion with osseous- | | | bone, spindle cellnidus ( 2 cm, | | | cm) + sclerotic reactive bone | 發生率較低 | | 良惡性 | 良 | 良 | | 治療 | 小型可不處理。En-bloc excision, | 通常手術處理,Intralesional currettage (刮除)+ | | | Percutaneous CT guide core- Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
+- ...chondrosarcoma 惡性度極高。 | | 細胞形態有較大變化時,需 DDx: | Lymphoma, metastatic disease, myeloma | | chondrosarcoma | | | Eccentric, lytic lesion, scallaoped and sclerotic | 多樣化, exostosis, enostosis | | border | 中軸:較厚,透明的病灶,well-delineated,有鈣化 | | | (popcorn like pattern) | | | 周邊:較大,鈣化明顯,有 lobulated formation, | | | translucency | | | | Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
+- ...ossifying Fibroma | Ossifying Fibroma (osteofibrous | Desmoplastic Fibroma | | | | dysplasia) | | | 年齡(歲) | 5~15 | 影像 | Onion-skin, codman's triangle, sun-burst | Metaphysis of long bone, expansile, | | | large soft tissue mass, permeative /mouth eaten | thin cortex (像蛋殼), fallen leaf sign | | | appearance | (fracture 的碎片掉到骨頭裡面) | | 影像 | | | Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
 
 ## Clinical Caveats
 

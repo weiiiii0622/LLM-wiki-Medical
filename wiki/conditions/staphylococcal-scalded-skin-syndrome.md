@@ -29,12 +29,12 @@ S. aureus exfoliative toxin 裂解 desmoglein 1，造成嬰幼兒表皮淺層剝
 
 ## Key Details From Sources
 
-- 1. 葡萄球菌性燙傷樣皮膚綜合症(Staphylococcal scalded skin syndrome, SSSS) - (1) 致病因子:眼耳口鼻感染 S. aureus,其分泌的外毒素 Exfoliatin A 和 B,是一種 蛋白酶(protease),會去攻擊負責連結表皮顆粒層和棘狀層之間的 desmoglein 1,導致表皮裂解。顯微鏡下可見表皮裂解於顆粒層中或是與棘狀層之間。 - (2) 最好發於新生兒前三個月大,以及五歲前孩童。Immunocompromised 的成人也 會,但罕見。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- a. 可發生在任何部位,常常先從臉部口腔周圍或頸 部開始出現局部潮紅,兩三天內向外擴散全身皮 **膚發紅**,在臉部或皮膚彎曲皺褶處出現小水泡並 能互相融合成大水泡,最後在24~48 小時內大範 圍脫皮(右上圖)。脫落三到五天後會開始癒合, 不會留疤。需注意的是 SSSS 不會侵犯黏膜。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- ...|----------------|--------------------------|---------------|-------------------------------------| | Staphylococcus | Exfoliatin type A | Epidermolytic | Bullous impetigo | | aureus | | | SSSS | | | Exfoliatin type B | Epidermolytic | SSSS | | | | | Bullous impetigo | | | TSS toxin 1 | Superantigen | TSS (menstrual > non- menstrual), | | | | | fo Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 3. 表皮主要含 Desmoglein 1,黏膜則以 Desmoglein 3 為主。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (2) 落葉型天疱瘡 (Pemphigus foliaceus, PF): - a. 與尋常型天疱瘡(PV)類似,但抗體只攻擊 Desmoglein 1 故不會有口腔黏膜的病灶,且裂解位置更表淺,水泡通常不明顯易破而形成落屑或結痂的表面。 - b. 好發於背、前胸、臉、頭皮和腹部。 - c. Nikolsky sign(+) • - d. 病理變化: - (a) 表皮層分裂的位置在角質層(Stratum corneum)下方(Subcorneal),較 PV 的基底層上方(Suprabasal)更表淺,所以水泡更薄更容易破裂。 - (b) 也有 acantholytic cell 及 IC pattern。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (A) staphylococcal scalded skin syndrome Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- 1. 葡萄球菌性燙傷樣皮膚綜合症(Staphylococcal scalded skin syndrome, SSSS) - (1) 致病因子:眼耳口鼻感染 S. aureus,其分泌的外毒素 Exfoliatin A 和 B,是一種 蛋白酶(protease),會去攻擊負責連結表皮顆粒層和棘狀層之間的 desmoglein 1,導致表皮裂解。顯微鏡下可見表皮裂解於顆粒層中或是與棘狀層之間。 - (2) 最好發於新生兒前三個月大,以及五歲前孩童。Immunocompromised 的成人也 會,但罕見。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- a. 可發生在任何部位,常常先從臉部口腔周圍或頸 部開始出現局部潮紅,兩三天內向外擴散全身皮 **膚發紅**,在臉部或皮膚彎曲皺褶處出現小水泡並 能互相融合成大水泡,最後在24~48 小時內大範 圍脫皮(右上圖)。脫落三到五天後會開始癒合, 不會留疤。需注意的是 SSSS 不會侵犯黏膜。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- ...|----------------|--------------------------|---------------|-------------------------------------| | Staphylococcus | Exfoliatin type A | Epidermolytic | Bullous impetigo | | aureus | | | SSSS | | | Exfoliatin type B | Epidermolytic | SSSS | | | | | Bullous impetigo | | | TSS toxin 1 | Superantigen | TSS (menstrual > non- menstrual), | | | | | fo Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- 3. 表皮主要含 Desmoglein 1,黏膜則以 Desmoglein 3 為主。 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- (2) 落葉型天疱瘡 (Pemphigus foliaceus, PF): - a. 與尋常型天疱瘡(PV)類似,但抗體只攻擊 Desmoglein 1 故不會有口腔黏膜的病灶,且裂解位置更表淺,水泡通常不明顯易破而形成落屑或結痂的表面。 - b. 好發於背、前胸、臉、頭皮和腹部。 - c. Nikolsky sign(+) • - d. 病理變化: - (a) 表皮層分裂的位置在角質層(Stratum corneum)下方(Subcorneal),較 PV 的基底層上方(Suprabasal)更表淺,所以水泡更薄更容易破裂。 - (b) 也有 acantholytic cell 及 IC pattern。 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- (A) staphylococcal scalded skin syndrome Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
 
 ## Clinical Caveats
 

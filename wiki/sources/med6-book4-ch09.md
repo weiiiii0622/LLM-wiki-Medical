@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛.md
+raw_source_title: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛"
+raw_source_file: "raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛.md"
+page_start: 101
+page_end: 110
+canonical_citation: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛 Page 101-110"
 book: 醫(六)第4冊麻醉耳鼻喉
 chapter_order: 9
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第4冊麻醉耳鼻喉
 - Chapter file: `raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛.md`
+- Pages covered: 101-110
+- Canonical citation: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛 Page 101-110
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

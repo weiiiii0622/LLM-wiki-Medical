@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- A. 眼瞼(皮)整形術(Blepharoplasty) 288 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- #### A. 眼瞼(皮)整形術(Blepharoplasty) Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- (B) 5. 關於眼皮成形術(blepharoplasty)之敘述,下列何者錯誤? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- A. 眼瞼(皮)整形術(Blepharoplasty) 288 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_己、醫學美容及其他 Page 301-314.
+- #### A. 眼瞼(皮)整形術(Blepharoplasty) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_己、醫學美容及其他 Page 301-314.
+- (B) 5. 關於眼皮成形術(blepharoplasty)之敘述,下列何者錯誤? Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_己、醫學美容及其他 Page 301-314.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_己、氣管.md
+raw_source_title: "醫(五)第4冊胸外小兒外_第一篇、胸腔外科_己、氣管"
+raw_source_file: "raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_己、氣管.md"
+page_start: 119
+page_end: 122
+canonical_citation: "醫(五)第4冊胸外小兒外_第一篇、胸腔外科_己、氣管 Page 119-122"
 book: 醫(五)第4冊胸外小兒外
 chapter_order: 6
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第4冊胸外小兒外
 - Chapter file: `raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_己、氣管.md`
+- Pages covered: 119-122
+- Canonical citation: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_己、氣管 Page 119-122
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

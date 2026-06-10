@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ### 3. 乳腺炎 (mastitis): Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- ...可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時無效果,應安排乳房超音波,檢查是否有 | | | | breast abscess | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (D) 乳腺炎最常見的細菌是 Staphylococcus aureus Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
+- ### 3. 乳腺炎 (mastitis): Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- ...可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時無效果,應安排乳房超音波,檢查是否有 | | | | breast abscess | | Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- (D) 乳腺炎最常見的細菌是 Staphylococcus aureus Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
 
 ## Clinical Caveats
 

@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (1) Schirmer's test:第一線檢查,點麻藥後,將濾紙紙條插在下眼瞼外 1/3 的結膜 穹窿處,不要碰到角膜。五分鐘後拿起測量,若小於 5 mm 即表示有乾眼症。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
+- (1) Schirmer's test:第一線檢查,點麻藥後,將濾紙紙條插在下眼瞼外 1/3 的結膜 穹窿處,不要碰到角膜。五分鐘後拿起測量,若小於 5 mm 即表示有乾眼症。 Source: 醫(六)第2冊眼科_第一篇、眼科_丙、淚液系統及乾眼 Page 35-42.
 
 ## Clinical Caveats
 

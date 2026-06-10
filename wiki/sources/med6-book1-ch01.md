@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period).md
+raw_source_title: "醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period).md"
+page_start: 17
+page_end: 86
+canonical_citation: "醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86"
 book: 醫(六)第1冊婦產
 chapter_order: 1
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period).md`
+- Pages covered: 17-86
+- Canonical citation: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

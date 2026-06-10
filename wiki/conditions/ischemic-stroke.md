@@ -39,17 +39,17 @@ tags:
 
 ## Key Details From Sources
 
-- E 或 E+P 增加的 stroke 風險為缺血性腦中風 (非出血性),不過, 40 mIU/mL, E2 > 30 pg/mL Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- 【詳解】腦血管檢查是針對腦梗塞或出血為主,和肺癌治療無關。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (D) 缺血性腦中風 (ischemic stroke) Source: [[sources/med5-book1-ch14|戊、顱內動脈瘤]].
-- I. 缺血性腦中風 (Ischemic Stroke) 85 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- 腦血管疾病俗稱中風(stroke),血管病變中,梗塞(infarction)占 84%,即血管被粥狀硬化阻塞或被心臟來的血栓塞住等,導致血液供應不到遠端腦組織,造成缺血性腦中風(ischemic stroke);出血(hemorrhage)占 16%,即血管壁因高血壓或先天性異常而破裂,血液流到腦組織中(ICH)、蜘蛛膜下腔(SAH),造成出血性腦中風(hemorrhagic stroke)。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- #### I. 缺血性腦中風 (Ischemic Stroke) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (D) 5. 李先生,75 歲,有高血壓、糖尿病病史,因突發性右側肢體乏力,兩側眼球偏轉到左側,合併意識障礙而住院診治。如果李先生是腦梗塞患者,下列何者正確? Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- 【詳解】此為左中大腦動脈區梗塞,因症狀出現兩側眼球向左偏轉,故為大範圍腦梗塞,至少損傷了左額葉。腦梗塞所導致的腦水腫通常到第三天最嚴重,必要時需 decompressive craniectormy,預後不佳,死亡率高。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (A) 2. 目前偵測早期腦梗塞,最敏銳的影像檢查是: Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- (C) 4. 李先生, 45 歲, 患有偏頭痛 (migraine), 無高血壓、糖尿病病 108(二)專 史, 因腦梗塞住院。他的父親及弟弟也有腦梗塞病史,弟弟除腦 醫四-47 梗塞外,也有失智症 (dementia)。下列敘述何者最正確? - (A) 腦影像檢查顯示有水腦症 - (B) 合併有多發性神經病變 (polyneuropathy) - (C) 可以做 NOTCH, 基因分析檢查 - (D) 偏頭痛為診斷此疾病之必要條件 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (D) 10. 下列那些腦膜炎,如果沒有及早治療,容易發生顱底腦膜嚴重滲 105(ニ)専出性發炎變化(basilar meningeal exduate),導致次發性腦血管梗塞(cerebral infarction)?①腮腺炎病毒腦膜炎(mumps)②巨細胞病毒性腦膜炎(CMV)③結核菌腦膜炎④隱球菌腦膜炎(A)①②(B)②③(C)①④(D)③④ Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
+- E 或 E+P 增加的 stroke 風險為缺血性腦中風 (非出血性),不過, 40 mIU/mL, E2 > 30 pg/mL Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- 【詳解】腦血管檢查是針對腦梗塞或出血為主,和肺癌治療無關。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- (D) 缺血性腦中風 (ischemic stroke) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_戊、顱內動脈瘤 Page 163-170.
+- I. 缺血性腦中風 (Ischemic Stroke) 85 Source: 醫(四)第4冊神內_戊、腦血管疾病 Page 93-122.
+- 腦血管疾病俗稱中風(stroke),血管病變中,梗塞(infarction)占 84%,即血管被粥狀硬化阻塞或被心臟來的血栓塞住等,導致血液供應不到遠端腦組織,造成缺血性腦中風(ischemic stroke);出血(hemorrhage)占 16%,即血管壁因高血壓或先天性異常而破裂,血液流到腦組織中(ICH)、蜘蛛膜下腔(SAH),造成出血性腦中風(hemorrhagic stroke)。 Source: 醫(四)第4冊神內_戊、腦血管疾病 Page 93-122.
+- #### I. 缺血性腦中風 (Ischemic Stroke) Source: 醫(四)第4冊神內_戊、腦血管疾病 Page 93-122.
+- (D) 5. 李先生,75 歲,有高血壓、糖尿病病史,因突發性右側肢體乏力,兩側眼球偏轉到左側,合併意識障礙而住院診治。如果李先生是腦梗塞患者,下列何者正確? Source: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48.
+- 【詳解】此為左中大腦動脈區梗塞,因症狀出現兩側眼球向左偏轉,故為大範圍腦梗塞,至少損傷了左額葉。腦梗塞所導致的腦水腫通常到第三天最嚴重,必要時需 decompressive craniectormy,預後不佳,死亡率高。 Source: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48.
+- (A) 2. 目前偵測早期腦梗塞,最敏銳的影像檢查是: Source: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48.
+- (C) 4. 李先生, 45 歲, 患有偏頭痛 (migraine), 無高血壓、糖尿病病 108(二)專 史, 因腦梗塞住院。他的父親及弟弟也有腦梗塞病史,弟弟除腦 醫四-47 梗塞外,也有失智症 (dementia)。下列敘述何者最正確? - (A) 腦影像檢查顯示有水腦症 - (B) 合併有多發性神經病變 (polyneuropathy) - (C) 可以做 NOTCH, 基因分析檢查 - (D) 偏頭痛為診斷此疾病之必要條件 Source: 醫(四)第4冊神內_丙、頭痛 Page 67-80.
+- (D) 10. 下列那些腦膜炎,如果沒有及早治療,容易發生顱底腦膜嚴重滲 105(ニ)専出性發炎變化(basilar meningeal exduate),導致次發性腦血管梗塞(cerebral infarction)?①腮腺炎病毒腦膜炎(mumps)②巨細胞病毒性腦膜炎(CMV)③結核菌腦膜炎④隱球菌腦膜炎(A)①②(B)②③(C)①④(D)③④ Source: 醫(四)第4冊神內_丁、中樞神經感染 Page 81-92.
 
 ## Clinical Caveats
 

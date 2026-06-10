@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- F. 眼球內容物剜除術 (Evisceration of eyeball)、眼窩剜除術 (Exenteration of orbit) 177 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- d. 惡性腫瘤:則施行「眼窩剜除術(orbital exenteration)」,將眼眶的內容物包括眼球、視神經、眼外肌、淚腺等組織,全部剜除。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- (4) 眼眶鼻腔白黴菌症(orbital-rhino-mucormycosis):死亡率高! - a. 最常見的黴菌感染,是一種伺機性感染,多發生於糖尿病合併酮酸中毒或器 官移植後使用免疫抑制劑的病患上。 - b. 致病機轉:經呼吸道,吸入白黴菌芽孢後,造成組織壞死及血管阻塞,病灶成黑色結痂且發出惡臭。 - c. 症狀: 發燒、眼眶腫脹、突眼、鼻腔惡臭。 - d. 診斷:直接從病灶取檢體做黴菌培養或切片檢查,以 HE 染色陽性並觀察到 典型無分隔的分枝菌絲。 - e. 治療: 必須先控制糖尿病並將病灶做清創手術, 投予 IV 抗黴菌藥物 (amphotericin B)治療,太嚴重時需施行眼窩剜除術。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- F. 眼球內容物剜除術 (Evisceration of eyeball)、眼窩剜除術 (Exenteration of orbit) 177 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- d. 惡性腫瘤:則施行「眼窩剜除術(orbital exenteration)」,將眼眶的內容物包括眼球、視神經、眼外肌、淚腺等組織,全部剜除。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- (4) 眼眶鼻腔白黴菌症(orbital-rhino-mucormycosis):死亡率高! - a. 最常見的黴菌感染,是一種伺機性感染,多發生於糖尿病合併酮酸中毒或器 官移植後使用免疫抑制劑的病患上。 - b. 致病機轉:經呼吸道,吸入白黴菌芽孢後,造成組織壞死及血管阻塞,病灶成黑色結痂且發出惡臭。 - c. 症狀: 發燒、眼眶腫脹、突眼、鼻腔惡臭。 - d. 診斷:直接從病灶取檢體做黴菌培養或切片檢查,以 HE 染色陽性並觀察到 典型無分隔的分枝菌絲。 - e. 治療: 必須先控制糖尿病並將病灶做清創手術, 投予 IV 抗黴菌藥物 (amphotericin B)治療,太嚴重時需施行眼窩剜除術。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
 
 ## Clinical Caveats
 

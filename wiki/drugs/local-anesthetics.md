@@ -35,13 +35,13 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 局部麻醉劑的化學構造可分三部分: 芳香環、連結鏈、親水性胺類結構。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
-- | 分類 | 醯胺類 (Amide) | 脂類 (Ester) | |----|-------------|----------------------------| | 藥物 | Bupivacaine | Chloroprocaine | | | Etidocaine | Procaine | | | Lidocaine | Tetracaine | | | Mepivacaine | Cocaine | | | Prilocaine | | | | Ropivacine | | | 特性 | 1. 記單字裡有兩 | 1. 單字裡只有一個 i | | | 個 i 的藥物 | 2. 過敏反應較高 | | | 2. 較不會發生 | 3. Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
-- 1. 局部麻醉劑的特性是脂溶性很高,pKa值8~9。由於局部麻醉劑作用在神經纖維內,因此,脂溶性要高才能順利通過包裹在神經纖維外的髓鞘。一般而言,脂溶性高的藥物作用時間快而短;脂溶性較低的藥物,作用發生較慢,但效果較長。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
-- ...使病人的外耳道與胸骨位於同一水平面)。 - (2) Preoxygenation:利用 100% 氧氣面罩給病人自行深呼吸,但盡量不要給予正壓呼吸,因為正壓呼吸可能導致嘔吐。 - (3) Pretreatment:給予輔助藥物。 - a. Lidocaine:降低咳嗽反射、降低因插管造成的腦壓升高。 - b. Atropine:增加心跳、減少口水分泌。 - c. Fentanyl:減少插管時的疼痛感。 - (4) Paralysis:給予睡著的藥物(擇一)和肌肉鬆弛藥物(擇一) - a. Propofol (1~2.5 mg/kg) - b. Etomidate $(0.2\sim0.4 \text{ mg/kg})$ - c. Midazolam (0.1~0.3 mg/kg) - d. Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
-- 3. 本書會講述的藥物為: - (1) 靜脈麻醉劑。 - (2) 吸入性麻醉劑。 - (3) 神經肌肉阻斷劑及 reversal agent。 - (4) 局部麻醉劑。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
-- ...pramine。 - c. 抗癲癇用藥(anticonvulsants):如:gabapentin、pregabalin、carbamezapine、oxcarbazepine、topiramate 都是治療神經痛的藥物。 - d. 5% Lidocaine patches • - e. Opioid 類藥物。 - f. Interventional procedures:可考慮使用 nerve blocks 或 epidural steroid injection。 止痛效果可能不及藥物,但是維持時間較久。 - g. Synpathetic blockade 可以治療 PHN 也可以減少發生率。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
-- 4. 定位出血點並予以止血: - (1) First line: - a. 區分前/後出血位置。 - b. 塞入浸有 4% lidocaine 的棉花,適時使用局部的鼻黏膜血管收縮劑(Ex. Otrivin)止血,並把多餘的血水或血塊清除。 - (2) Second line: - a. 若第一線的方式失敗,可以使用 silver nitrate,達到燒灼、腐蝕的效果 (chemical cauterization)。 - b. 局部的 cauterization 請勿同時使用於鼻中膈的兩側,因為可能會造成鼻中膈 缺血導致穿孔。 - c. 若仍無法止血,必須懷疑是否有凝血功能 Source: [[sources/med6-book4-ch12|乙、鼻科]].
+- 1. 局部麻醉劑的化學構造可分三部分: 芳香環、連結鏈、親水性胺類結構。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物 Page 93-100.
+- | 分類 | 醯胺類 (Amide) | 脂類 (Ester) | |----|-------------|----------------------------| | 藥物 | Bupivacaine | Chloroprocaine | | | Etidocaine | Procaine | | | Lidocaine | Tetracaine | | | Mepivacaine | Cocaine | | | Prilocaine | | | | Ropivacine | | | 特性 | 1. 記單字裡有兩 | 1. 單字裡只有一個 i | | | 個 i 的藥物 | 2. 過敏反應較高 | | | 2. 較不會發生 | 3. Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物 Page 93-100.
+- 1. 局部麻醉劑的特性是脂溶性很高,pKa值8~9。由於局部麻醉劑作用在神經纖維內,因此,脂溶性要高才能順利通過包裹在神經纖維外的髓鞘。一般而言,脂溶性高的藥物作用時間快而短;脂溶性較低的藥物,作用發生較慢,但效果較長。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物 Page 93-100.
+- ...使病人的外耳道與胸骨位於同一水平面)。 - (2) Preoxygenation:利用 100% 氧氣面罩給病人自行深呼吸,但盡量不要給予正壓呼吸,因為正壓呼吸可能導致嘔吐。 - (3) Pretreatment:給予輔助藥物。 - a. Lidocaine:降低咳嗽反射、降低因插管造成的腦壓升高。 - b. Atropine:增加心跳、減少口水分泌。 - c. Fentanyl:減少插管時的疼痛感。 - (4) Paralysis:給予睡著的藥物(擇一)和肌肉鬆弛藥物(擇一) - a. Propofol (1~2.5 mg/kg) - b. Etomidate $(0.2\sim0.4 \text{ mg/kg})$ - c. Midazolam (0.1~0.3 mg/kg) - d. Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
+- 3. 本書會講述的藥物為: - (1) 靜脈麻醉劑。 - (2) 吸入性麻醉劑。 - (3) 神經肌肉阻斷劑及 reversal agent。 - (4) 局部麻醉劑。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用 Page 57-58.
+- ...pramine。 - c. 抗癲癇用藥(anticonvulsants):如:gabapentin、pregabalin、carbamezapine、oxcarbazepine、topiramate 都是治療神經痛的藥物。 - d. 5% Lidocaine patches • - e. Opioid 類藥物。 - f. Interventional procedures:可考慮使用 nerve blocks 或 epidural steroid injection。 止痛效果可能不及藥物,但是維持時間較久。 - g. Synpathetic blockade 可以治療 PHN 也可以減少發生率。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛 Page 101-110.
+- 4. 定位出血點並予以止血: - (1) First line: - a. 區分前/後出血位置。 - b. 塞入浸有 4% lidocaine 的棉花,適時使用局部的鼻黏膜血管收縮劑(Ex. Otrivin)止血,並把多餘的血水或血塊清除。 - (2) Second line: - a. 若第一線的方式失敗,可以使用 silver nitrate,達到燒灼、腐蝕的效果 (chemical cauterization)。 - b. 局部的 cauterization 請勿同時使用於鼻中膈的兩側,因為可能會造成鼻中膈 缺血導致穿孔。 - c. 若仍無法止血,必須懷疑是否有凝血功能 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
 
 ## Clinical Caveats
 

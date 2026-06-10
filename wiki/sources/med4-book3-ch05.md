@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_戊、物質相關疾患.md
+raw_source_title: "醫(四)第3冊精神科_戊、物質相關疾患"
+raw_source_file: "raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_戊、物質相關疾患.md"
+page_start: 119
+page_end: 144
+canonical_citation: "醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144"
 book: 醫(四)第3冊精神科
 chapter_order: 5
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第3冊精神科
 - Chapter file: `raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_戊、物質相關疾患.md`
+- Pages covered: 119-144
+- Canonical citation: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

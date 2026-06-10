@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 照胸部 X 光,若無病變則依潛伏性結核 (latent tuberculosis)治療 Source: [[sources/med3-book1-ch19|己、結 核]].
+- (C) 照胸部 X 光,若無病變則依潛伏性結核 (latent tuberculosis)治療 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_己、結核 Page 307-320.
 
 ## Clinical Caveats
 

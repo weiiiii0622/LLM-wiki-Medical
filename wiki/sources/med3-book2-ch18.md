@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丙、腹水.md
+raw_source_title: "醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丙、腹水"
+raw_source_file: "raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丙、腹水.md"
+page_start: 100
+page_end: 106
+canonical_citation: "醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丙、腹水 Page 100-106"
 book: 醫(三)第2冊肝內新陳代謝
 chapter_order: 18
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第2冊肝內新陳代謝
 - Chapter file: `raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丙、腹水.md`
+- Pages covered: 100-106
+- Canonical citation: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丙、腹水 Page 100-106
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

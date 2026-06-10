@@ -105,24 +105,24 @@ RA 分類以關節侵犯、serology、acute phase reactants 與症狀時間加�
 
 ## Key Details From Sources
 
-- 5. 肝臟系統:是否有 B 或 C 型肝炎、肝硬化(child-Pugh score)。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- 3. 呼吸道檢查:用來判斷困難插管的可能,通常可以記口訣:L-E-M-O-N。 - (1) L Look:評估外觀是否有顏面創傷、暴牙、大鬍子、大舌頭、肥胖、缺牙、 搖晃的牙齒…等。 - (2) E Evaluation : 3-3-2 rules - a. 張口是否有3指幅? - b. 下巴前緣到舌骨的距離是否有 3 指幅? - c. 舌骨到甲狀軟骨的距離是否有 2 指幅? - (3) M Mallampati score: - a. 在做這項檢查時,首先請病人坐直,把嘴巴張到最大並且將舌頭伸出後觀察 縣壅垂被遮蓋的程度。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- · Improved anxiety and depression score Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- ...erential Current, IFC): 兩組電極互相對稱擺放呈十字型,並將欲治療部位置於十字型中央。兩組電極會各自放射中頻波穿透皮膚,其電磁波會互相加乘而產生較單組電極可穿透更深的電磁波。 - (3) 適應症:下背痛、退化性關節炎、類風濕性關節炎、韌帶扭傷、肌腱炎、肌肉 肌膜疼痛等。 - (4) 禁忌症: - a. 動靜脈血栓或血栓性靜脈炎(thrombophlebitis)。 - b. 勿放在頸動脈竇附近,以免造成心律不整。 - c. 心律調節器附近,以免干擾節律器功能。 - d. 孕婦、癲癇、癌症。 - e. 感覺異常者或無法表達溝通者。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
-- 1. 當出現嚴重、持續性的周邊角膜浸潤、潰瘍或無法解釋之周邊角膜變薄時,應考慮 是否為全身性膠原血管疾病所造成。最常見的疾病是類風濕性關節炎(RA)造成 的角膜炎,這些角膜炎的表現包含了: - (1) Peripheral ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (W Source: [[sources/med6-book2-ch05|戊、角 膜]].
-- (1) 由 immune-mediated (typically immune-complex) vasculitis 常常造成鞏膜破壞而造成。與全身性免疫疾病相關:類風濕性關節炎(最常見)、紅斑性狼瘡、復發型多發性軟骨炎、結節型多發性動脈炎、Wegner 氏肉芽腫等,且可能是唯一的先期徵兆,因此早期診斷與治療,對患者的預後幫助極大。 Source: [[sources/med6-book2-ch06|己、鞏 膜]].
-- (1) Bishop score ≤ 4表示子宮頸還不成熟; Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- (2) Bishop score ≥ 9表示子宮頸已經成熟。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- (C) 4. 如果子宮頸位置向前(anterior),其硬度中等(medium),薄度 107(二)專 (effacement) 40~50%,開口 3~4 公分,胎頭位於 -1,其 Bishop 醫六-26 score 是多少? Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- ...診斷標準 | ・腰圍> 88 cm | | | | ・ 三酸甘油脂≧ 150 mg/dL | | | | ・ 高密度脂蛋白 Definition | Clinical Hyperandrogenism (Ferriman-Gallwey Score ≥ 8) or Biochemical Hyperandrogenism (Elevated Total/Free Testosterone) | Oligomenorrhea(Less Than 6-9Menses per Year)orOligo-Ovulation | Polycystic Ovarieson Ultrasound(≥ 12 Antral Folliclesin One OvaryorOvarian Volume Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- 【詳解】女性荷爾蒙可增加 HDL、減少 LDL,目前認為早期停經婦女(≤ -2.5 | | 嚴重骨質疏鬆 | T-score ≤ -2.5 + fragility fractures ( 髖骨 / 脊椎骨 ) | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ※年輕女性可用 Z-score 來評估,若 Z-score 分鐘的直立坐姿,以減少腸胃副作用(胃食道逆流與食道潰瘍)。●相對禁忌症為食道的硬皮症、遲緩不能 (achalasia) 或窄縮。●不應使用在 Barrett's esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledro Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- | Stage | Score | |----------------|-------| | I (minimal) | 1~5 | | II (mild) | 6~15 | | III (moderate) | 16~40 | | IV (severe) | > 40 | Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (C) 8. 根據 American Society for Reproductive Medicine Revised Classification of Endometriosis,若病患手術中評估之 score 為 28 分,其子宮內 膜異位嚴重度為那一個 stage ? Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- 1. Apgar score system - (1) 胎兒出生後 1 分鐘和 5 分鐘依下表評分: Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (D) 10. 對持續性妊娠滋養層細胞腫瘤(persistent gestational trophoblastic tumor) 在選擇化學治療時所採用的 WHO prognostic scoring system, 所謂高度危險是指 score: Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (C) 1. 一位 32 歲果園工作婦女來門診主訴右腕疼痛已有近半年,理學 99(二)專檢查發現右腕背屈活動有明顯拘限,X光檢查如圖所示,最可能 醫五-40 - 的診斷是: - (A) 正中腕隧症候群(carpal tunnel syndrome) - (B) 舟狀骨骨折不癒合 (scaphoid fracture non-union) - (C) 半月狀骨缺血性壞死 (Kienböck disease) - (D) de Quervain's tenosynovitis Source: [[sources/med5-book6-ch06|己、手部]].
-- (C) 1. 王大明在打籃球接球時不小心,本來應該手掌接球卻變成右手中 103(-)專 指接球,頓時手指就腫起來,幾天後消腫手指最後一節就垂下來, 醫五-17 怎麼用力都沒辦法伸直。最適當的診斷為何? - (A) 板機指 (trigger finger) - (B) 狹窄性肌腱滑膜炎 (de Quervain's tenosynovitis) - (C) 鎚狀指 (mallet finger) - (D) 手部鈕扣畸形 (boutonnière's deformity) Source: [[sources/med5-book6-ch06|己、手部]].
+- 5. 肝臟系統:是否有 B 或 C 型肝炎、肝硬化(child-Pugh score)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- 3. 呼吸道檢查:用來判斷困難插管的可能,通常可以記口訣:L-E-M-O-N。 - (1) L Look:評估外觀是否有顏面創傷、暴牙、大鬍子、大舌頭、肥胖、缺牙、 搖晃的牙齒…等。 - (2) E Evaluation : 3-3-2 rules - a. 張口是否有3指幅? - b. 下巴前緣到舌骨的距離是否有 3 指幅? - c. 舌骨到甲狀軟骨的距離是否有 2 指幅? - (3) M Mallampati score: - a. 在做這項檢查時,首先請病人坐直,把嘴巴張到最大並且將舌頭伸出後觀察 縣壅垂被遮蓋的程度。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- · Improved anxiety and depression score Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- ...erential Current, IFC): 兩組電極互相對稱擺放呈十字型,並將欲治療部位置於十字型中央。兩組電極會各自放射中頻波穿透皮膚,其電磁波會互相加乘而產生較單組電極可穿透更深的電磁波。 - (3) 適應症:下背痛、退化性關節炎、類風濕性關節炎、韌帶扭傷、肌腱炎、肌肉 肌膜疼痛等。 - (4) 禁忌症: - a. 動靜脈血栓或血栓性靜脈炎(thrombophlebitis)。 - b. 勿放在頸動脈竇附近,以免造成心律不整。 - c. 心律調節器附近,以免干擾節律器功能。 - d. 孕婦、癲癇、癌症。 - e. 感覺異常者或無法表達溝通者。 Source: 醫(六)第3冊復健_庚、物理治療儀器 Page 179-186.
+- 1. 當出現嚴重、持續性的周邊角膜浸潤、潰瘍或無法解釋之周邊角膜變薄時,應考慮 是否為全身性膠原血管疾病所造成。最常見的疾病是類風濕性關節炎(RA)造成 的角膜炎,這些角膜炎的表現包含了: - (1) Peripheral ulcerative keratitis (又稱邊緣性潰瘍 marginal corneal ulcer): - a. 原因:因為一些免疫機轉使嗜中性球活化膠原纖維酵素(collagenase)及蛋白質分解酵素(proteolytic enzyme),導致角膜基質被溶解、變薄、壞死。 - b. 發生的疾病:類風濕性關節炎, Wegener 氏肉芽腫 (W Source: 醫(六)第2冊眼科_第一篇、眼科_戊、角膜 Page 53-70.
+- (1) 由 immune-mediated (typically immune-complex) vasculitis 常常造成鞏膜破壞而造成。與全身性免疫疾病相關:類風濕性關節炎(最常見)、紅斑性狼瘡、復發型多發性軟骨炎、結節型多發性動脈炎、Wegner 氏肉芽腫等,且可能是唯一的先期徵兆,因此早期診斷與治療,對患者的預後幫助極大。 Source: 醫(六)第2冊眼科_第一篇、眼科_己、鞏膜 Page 71-76.
+- (1) Bishop score ≤ 4表示子宮頸還不成熟; Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- (2) Bishop score ≥ 9表示子宮頸已經成熟。 Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- (C) 4. 如果子宮頸位置向前(anterior),其硬度中等(medium),薄度 107(二)專 (effacement) 40~50%,開口 3~4 公分,胎頭位於 -1,其 Bishop 醫六-26 score 是多少? Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- ...診斷標準 | ・腰圍> 88 cm | | | | ・ 三酸甘油脂≧ 150 mg/dL | | | | ・ 高密度脂蛋白 Definition | Clinical Hyperandrogenism (Ferriman-Gallwey Score ≥ 8) or Biochemical Hyperandrogenism (Elevated Total/Free Testosterone) | Oligomenorrhea(Less Than 6-9Menses per Year)orOligo-Ovulation | Polycystic Ovarieson Ultrasound(≥ 12 Antral Folliclesin One OvaryorOvarian Volume Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- 【詳解】女性荷爾蒙可增加 HDL、減少 LDL,目前認為早期停經婦女(≤ -2.5 | | 嚴重骨質疏鬆 | T-score ≤ -2.5 + fragility fractures ( 髖骨 / 脊椎骨 ) | Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- ※年輕女性可用 Z-score 來評估,若 Z-score 分鐘的直立坐姿,以減少腸胃副作用(胃食道逆流與食道潰瘍)。●相對禁忌症為食道的硬皮症、遲緩不能 (achalasia) 或窄縮。●不應使用在 Barrett's esophagaus。●罕見併發症如:atypical fracture與侵襲性牙科治療後發生osteonecrosis of jaw 等。 | | · · · · · · · · · · · · · · · · · · · | | Zoledro Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- | Stage | Score | |----------------|-------| | I (minimal) | 1~5 | | II (mild) | 6~15 | | III (moderate) | 16~40 | | IV (severe) | > 40 | Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- (C) 8. 根據 American Society for Reproductive Medicine Revised Classification of Endometriosis,若病患手術中評估之 score 為 28 分,其子宮內 膜異位嚴重度為那一個 stage ? Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- 1. Apgar score system - (1) 胎兒出生後 1 分鐘和 5 分鐘依下表評分: Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- (D) 10. 對持續性妊娠滋養層細胞腫瘤(persistent gestational trophoblastic tumor) 在選擇化學治療時所採用的 WHO prognostic scoring system, 所謂高度危險是指 score: Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (C) 1. 一位 32 歲果園工作婦女來門診主訴右腕疼痛已有近半年,理學 99(二)專檢查發現右腕背屈活動有明顯拘限,X光檢查如圖所示,最可能 醫五-40 - 的診斷是: - (A) 正中腕隧症候群(carpal tunnel syndrome) - (B) 舟狀骨骨折不癒合 (scaphoid fracture non-union) - (C) 半月狀骨缺血性壞死 (Kienböck disease) - (D) de Quervain's tenosynovitis Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
+- (C) 1. 王大明在打籃球接球時不小心,本來應該手掌接球卻變成右手中 103(-)專 指接球,頓時手指就腫起來,幾天後消腫手指最後一節就垂下來, 醫五-17 怎麼用力都沒辦法伸直。最適當的診斷為何? - (A) 板機指 (trigger finger) - (B) 狹窄性肌腱滑膜炎 (de Quervain's tenosynovitis) - (C) 鎚狀指 (mallet finger) - (D) 手部鈕扣畸形 (boutonnière's deformity) Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
 
 ## Clinical Caveats
 

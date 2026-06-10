@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...仍適用於頻 | | | 尿、急尿、排尿困難和骨盆腔手術前的評估 | | Pressure-flow study | ・測量尿流速與壓力變化的關係 | | (膀胱壓力和尿流速測定) | ・區別低尿流速是因尿路阻塞或逼尿肌無力(註1) | | Urethral pressure profile | ・測量尿道壓力和功能性尿道長度(註2) | | (尿道壓力測定,UPP) | ・區別內因性括約肌無力和真性應力性尿失禁 | | Leak point pressure | ・測量腹壓需要增加到多少,才會造成漏尿 | | (漏尿壓力測定) | ・臨床以 leak point pressure 2 O,作為內因性 | | | 括約肌無力的標準 | | | ・反映尿失禁時的動態尿道功能,較 UPP 可靠 | | Residual uri Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
-- ### Urethral pressure profile Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
-- 3. 括約肌功能: 測尿道壓力分佈圖 (urethral pressure profile )、括約肌肌電圖 (sphincter electromyography)。 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- ...(A) 尿流速測定(uroflowmetry) | | 酉五 −00 | | (B) 膀胱壓力圖(cystometry) | | | | (C) 壓力尿流速檢查(pressure-flow study) | | | | (D) 尿道壓力圖(urethral pressure profile) | | | | | | | | (C) 13. 下列何種狀況並不會明顯增加女性內因性 | 尿道括約肌功能缺失 | 101(一)專 | | (intrinsic sphincter deficiency)的危險? | | 醫五 -71 | | (A) 女性荷爾蒙缺乏 | | | | (B) 骨盆腔放射線治療 | A subject to the state of | | | (C) 薦椎處副交感神經病變,但無合併其他 | 交感神經病變 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
+- ...仍適用於頻 | | | 尿、急尿、排尿困難和骨盆腔手術前的評估 | | Pressure-flow study | ・測量尿流速與壓力變化的關係 | | (膀胱壓力和尿流速測定) | ・區別低尿流速是因尿路阻塞或逼尿肌無力(註1) | | Urethral pressure profile | ・測量尿道壓力和功能性尿道長度(註2) | | (尿道壓力測定,UPP) | ・區別內因性括約肌無力和真性應力性尿失禁 | | Leak point pressure | ・測量腹壓需要增加到多少,才會造成漏尿 | | (漏尿壓力測定) | ・臨床以 leak point pressure 2 O,作為內因性 | | | 括約肌無力的標準 | | | ・反映尿失禁時的動態尿道功能,較 UPP 可靠 | | Residual uri Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428.
+- ### Urethral pressure profile Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428.
+- 3. 括約肌功能: 測尿道壓力分佈圖 (urethral pressure profile )、括約肌肌電圖 (sphincter electromyography)。 Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
+- ...(A) 尿流速測定(uroflowmetry) | | 酉五 −00 | | (B) 膀胱壓力圖(cystometry) | | | | (C) 壓力尿流速檢查(pressure-flow study) | | | | (D) 尿道壓力圖(urethral pressure profile) | | | | | | | | (C) 13. 下列何種狀況並不會明顯增加女性內因性 | 尿道括約肌功能缺失 | 101(一)專 | | (intrinsic sphincter deficiency)的危險? | | 醫五 -71 | | (A) 女性荷爾蒙缺乏 | | | | (B) 骨盆腔放射線治療 | A subject to the state of | | | (C) 薦椎處副交感神經病變,但無合併其他 | 交感神經病變 Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
 
 ## Clinical Caveats
 

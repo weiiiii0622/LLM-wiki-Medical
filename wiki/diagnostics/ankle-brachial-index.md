@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 請病患移動腳趾評估神經功能;做 ABI (ankle-brachial index,低於 0.8 要特別小心,表示腳部血管可能阻塞)評估血管功能。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 5. Fontaine stage classification: 分級 - (1) Stage I:無症狀的,脈搏減弱。(Asymptomatic, decreased pulses, ABI 1.4:動脈硬化(鈣化)程度很嚴重失去彈性,所以測量下血壓很高。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
+- (3) 請病患移動腳趾評估神經功能;做 ABI (ankle-brachial index,低於 0.8 要特別小心,表示腳部血管可能阻塞)評估血管功能。 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- 5. Fontaine stage classification: 分級 - (1) Stage I:無症狀的,脈搏減弱。(Asymptomatic, decreased pulses, ABI 1.4:動脈硬化(鈣化)程度很嚴重失去彈性,所以測量下血壓很高。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_己、周邊血管疾病 Page 95-104.
 
 ## Clinical Caveats
 

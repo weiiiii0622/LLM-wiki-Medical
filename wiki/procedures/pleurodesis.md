@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (e) 胸管(tube thoracocentesis, chest-tube insertion)、胸腔鏡手術引流(VATS drainage):可引流及做肋膜沾黏術(pleurodesis)。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- (D) 肋膜黏連術 (pleurodesis) 對治療肋膜積液無效 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- (D) 惡性肋膜積水只要施行肋膜沾黏術(pleurodesis)皆能治癒 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (e) 胸管(tube thoracocentesis, chest-tube insertion)、胸腔鏡手術引流(VATS drainage):可引流及做肋膜沾黏術(pleurodesis)。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- (D) 肋膜黏連術 (pleurodesis) 對治療肋膜積液無效 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- (D) 惡性肋膜積水只要施行肋膜沾黏術(pleurodesis)皆能治癒 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
 
 ## Clinical Caveats
 

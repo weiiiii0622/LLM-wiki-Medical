@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- ...--------------------------------------------|---------| | (A) 胰臟假性囊腫(pancreatic pseudocyst) | 醫五 -43 | | (B) 胰臟周圍壞死(peripancreatic necrosis) | | | (C) 胰臟膿瘍 (pancreatic abscess) | | | (D) 胰管分裂管 (pancreas divisum) | | | 【詳解】胰管分裂管為先天異常,原本只有一條胰管,卻分成 | | | dorsal duct 與 ventral duct。 | | | (D) 10. 有關診斷腹痛之理學檢查的敘述,下列何者正確? | 101(二)專 | | (A) psoas sign 及 obturator s Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
-- 【詳解】急性胰臟炎的病人需要早期開刀的適應症為:胰臟壞死合併感染,但如果因胰臟嚴重壞死導致細菌性休克,死亡率達65%,原則上通常會等到生命徵象較穩定之後再進行手術治療。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- ...--------------------------------------------|---------| | (A) 胰臟假性囊腫(pancreatic pseudocyst) | 醫五 -43 | | (B) 胰臟周圍壞死(peripancreatic necrosis) | | | (C) 胰臟膿瘍 (pancreatic abscess) | | | (D) 胰管分裂管 (pancreas divisum) | | | 【詳解】胰管分裂管為先天異常,原本只有一條胰管,卻分成 | | | dorsal duct 與 ventral duct。 | | | (D) 10. 有關診斷腹痛之理學檢查的敘述,下列何者正確? | 101(二)專 | | (A) psoas sign 及 obturator s Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_乙、慢性胰臟炎 Page 183-194.
+- 【詳解】急性胰臟炎的病人需要早期開刀的適應症為:胰臟壞死合併感染,但如果因胰臟嚴重壞死導致細菌性休克,死亡率達65%,原則上通常會等到生命徵象較穩定之後再進行手術治療。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_乙、慢性胰臟炎 Page 183-194.
 
 ## Clinical Caveats
 

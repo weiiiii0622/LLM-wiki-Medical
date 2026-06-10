@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- A. 裝具(Orthosis) 96 Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- #### 丁、裝具、義肢及輔具 (Orthosis, Prosthesis and Assisting Devices) Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- #### A. 裝具 (Orthosis) Source: [[sources/med6-book3-ch04|丁、裝具、義肢及輔具]].
-- c. 使用裝具(orthosis):利用副木將肢體固定在適當位置有助於改善過強的張力,如臨床上常用的 hand resting splint、ankle-foot-orthosis 等。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- (2) 足踝輔具 (ankle foot orthosis, AFO): - a. 足踝輔具可協助病患於行走時增加擺動期(swing phase)的足部離地時間,以及強化站立期(stance phase)的足踝穩定度,病患因此不需採代償性步態。 - b. 使用足踝輔具,病患足踝不能有變形或攣縮,以免壓力分散不夠平均易導致脛骨前方、內踝、外踝或蹠骨頭(metatarsal head)等處出現壓瘡。 - c. 對於張力型垂足的病人,可以加長足板(foot plate)或加裝外側 T 型綁帶(T s Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- A. 裝具(Orthosis) 96 Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- #### 丁、裝具、義肢及輔具 (Orthosis, Prosthesis and Assisting Devices) Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- #### A. 裝具 (Orthosis) Source: 醫(六)第3冊復健_丁、裝具、義肢及輔具 Page 105-132.
+- c. 使用裝具(orthosis):利用副木將肢體固定在適當位置有助於改善過強的張力,如臨床上常用的 hand resting splint、ankle-foot-orthosis 等。 Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- (2) 足踝輔具 (ankle foot orthosis, AFO): - a. 足踝輔具可協助病患於行走時增加擺動期(swing phase)的足部離地時間,以及強化站立期(stance phase)的足踝穩定度,病患因此不需採代償性步態。 - b. 使用足踝輔具,病患足踝不能有變形或攣縮,以免壓力分散不夠平均易導致脛骨前方、內踝、外踝或蹠骨頭(metatarsal head)等處出現壓瘡。 - c. 對於張力型垂足的病人,可以加長足板(foot plate)或加裝外側 T 型綁帶(T s Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
 
 ## Clinical Caveats
 

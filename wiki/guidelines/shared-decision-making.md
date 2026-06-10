@@ -31,10 +31,10 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 尊重自主原則(The principle of respect for autonomy):誠實 (truthfulness)、守密(confidentiality)、知情同意(informed consent)。 Source: [[sources/med5-book1-ch08|辛、醫學倫理及其他]].
-- ...主原則(the principle of respect for autonomy): 尊重病人對於疾病診治的自主性,從此原則可以連結到其他道德規範,如:誠實 (truthfulness)、守密(confidentiality)和知情同意(informed consent)。 - (2) 行善原則(the principle of beneficence): 所有的醫療處置都以病人的利益為出發點,以促進病人的生活品質。 - (3) 不傷害原則(the principle of nonmaleficence): 醫師必需俱備足夠的臨床知識與技術,在治療過程中,避免給予病人過度或不足的 治療,以免增加病人的傷害。 - (4) 正義原則(the principle of justice): 醫療人員要尊重病人 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (C) 病人偏好 (patient preferences) Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- (A) 14. 有關「告知後同意 (informed consent)」的敘述,下列何者錯誤? (A) 只要同意書簽具後,不僅代表已盡告知義務,也可免除醫師法律 青任 Source: [[sources/med3-book4-ch25|乙、行為科學]].
+- (1) 尊重自主原則(The principle of respect for autonomy):誠實 (truthfulness)、守密(confidentiality)、知情同意(informed consent)。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_辛、醫學倫理及其他 Page 97-120.
+- ...主原則(the principle of respect for autonomy): 尊重病人對於疾病診治的自主性,從此原則可以連結到其他道德規範,如:誠實 (truthfulness)、守密(confidentiality)和知情同意(informed consent)。 - (2) 行善原則(the principle of beneficence): 所有的醫療處置都以病人的利益為出發點,以促進病人的生活品質。 - (3) 不傷害原則(the principle of nonmaleficence): 醫師必需俱備足夠的臨床知識與技術,在治療過程中,避免給予病人過度或不足的 治療,以免增加病人的傷害。 - (4) 正義原則(the principle of justice): 醫療人員要尊重病人 Source: 醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_戊、緩和醫療 Page 315-344.
+- (C) 病人偏好 (patient preferences) Source: 醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_戊、緩和醫療 Page 315-344.
+- (A) 14. 有關「告知後同意 (informed consent)」的敘述,下列何者錯誤? (A) 只要同意書簽具後,不僅代表已盡告知義務,也可免除醫師法律 青任 Source: 醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_乙、行為科學 Page 265-276.
 
 ## Clinical Caveats
 

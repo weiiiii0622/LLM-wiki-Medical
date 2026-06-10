@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (C) 針對 3 小時內缺血性腦中風病人,適合給 r-tPA 治療者,可改善神經學預後 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
+- (D) 3.75 歲男性,有高血壓及心房顫動多年,突發右側肢體偏癱與意識 108(二)專 混沌而送至急診。至急診的時間為症狀發生後 1 小時,初步的腦 醫四-45 部 CT 未顯示腦出血,下列何種狀況不適合使用靜脈血栓溶解藥 物(tissue plasminogen activator, tPA)治療? - (A) 一週前有短暫腦缺血發作 - (B) 血糖 320 mg/dL - (C) 使用 warfarin, INR 為 1.3 - (D) 血壓 200/120 mmHg Source: 醫(四)第4冊神內_戊、腦血管疾病 Page 93-122.
+- (C) 4. 一位 77 歲婦人,晚間 10 點入睡時正常,但一早 8 點醒來右側肢 108( ) 專 體無力、口齒不清,早上 10 點即被家人送到急診,經神經學及影 醫四 -46 像學檢查,研判為左側放射冠梗塞(corona radiata infarction),以下何者是對婦人最適當的急性中風治療? - (A) 靜脈血栓溶解(IV tPA) - (B) 裝置頸動脈支架 (stenting) - (C) 抗血小板藥物 (antiplatelet) - (D) 抗凝血藥物 (anticoagulants) Source: 醫(四)第4冊神內_戊、腦血管疾病 Page 93-122.
+- (C) 針對 3 小時內缺血性腦中風病人,適合給 r-tPA 治療者,可改善神經學預後 Source: 醫(四)第4冊神內_戊、腦血管疾病 Page 93-122.
 
 ## Clinical Caveats
 

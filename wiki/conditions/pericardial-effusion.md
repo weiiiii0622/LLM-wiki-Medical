@@ -41,17 +41,17 @@ tags:
 
 ## Key Details From Sources
 
-- ...前認為病灶的大小及後續的病生理變化才是決定預後最重要的因素。過大的肺部腫塊壓迫到食道會因為影響吞嚥而造成羊水過多的症狀,相反的經過一些有效的胎兒治療,羊水過多的狀況也會有所改善。而如果腫塊壓迫到上下腔靜脈的話會造成胎兒水腫,包括腹水、胸水、心包膜積液以及皮膚水腫,嚴重的話更可能造成胎兒死亡。若是比較小的腫塊可能要出生之後才會造成呼吸窘迫的症狀,而更小的腫塊可能要等到兒童時期才會因為反覆肺部感染、氣胸或是生長遲滯才被發現。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- (C) 在次發性惡性心包膜積液 (secondary malignant pericardial effusion)的病人中,男性及女性皆以肺癌最為常見 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- ...liac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心臟舒張,造成回心血量減少, 連帶使得心輸出量減少。 - b. 典型的臨床表現有 Beck's triad: JVP 上升、hypotension,distant heart sounds (隔了一層積液,心音聽起來低沉,好像很遠的感覺)。 - c. 其他表現有 pulsus paradoxus (吸氣時 SBP 下降超過 10 mmHg 或者 9%),以及 Kussmaul's sign (吸氣時 jugul Source: [[sources/med5-book2-ch01|甲、主動脈剝離]].
-- ...ion (開刀時機為病人在 1.5 至 3 歲時)。(參考)PS:若手術方式為 Fontan procedure,術後發生可能的問題有 systemic venous pressure、fluid retention、pleural or pericardial effusions,其中 pleural effusion 佔 30~40%。晚期併發症可能有 baffle obstruction 進而造成 superior or inferior vena cava syndrome、vena cava or pulmonary artery thromboembolism、protein-losing enteropathy、supraventricular arrhythmias(atrial flutter Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (3) 心臟的侵犯是川崎病最重要的臨床表現,可能出現 myocarditis、pericarditis with pericardial effusion(急性期)。若沒有治療,約 25% 病人在疾病發生後第二至 三週會有 coronary artery aneurysms;當冠狀動脈瘤內徑≥ 8 mm 時,破裂的機會非常高。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: [[sources/med3-book4-ch01|甲、紅斑性狼瘡]].
-- e. Pleural or pericardial effusion Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- 病程相關:癌細胞侵犯肺部、肋膜積水、大量腹水、心包膜積液 Source: [[sources/med3-book4-ch28|戊、緩和醫療]].
-- 3. 心電圖:Low voltage,因為心包膜積液使得心臟位置不固定,所以會有 Electrical alternans(Every other QRS complex has a reduced amplitude alternating with a higher amplitude)。 Source: [[sources/med3-book1-ch11|辛、心包疾病]].
-- (C) 2. 一位 36 歲女性無任何過去病史,因連續 3 日胸痛至急診求診。胸痛於特定姿勢可較緩解。她否認近日有使用藥物或創傷史,但目前有喉嚨痛等感冒症狀。抽血檢查發現 D-dimer 與心肌酶正常,但白血球與發炎指數(hsCRP)均有輕微升高現象。心電圖檢查如下圖所示。心臟超音波檢查顯示心臟收縮功能正常,且無局部室壁活動異常(regional wall motion abnormality),可見少量心包膜積液。其最可能診斷為何? Source: [[sources/med3-book1-ch11|辛、心包疾病]].
-- (C) 大量心包膜積液(massive pericardial effusion) Source: [[sources/med3-book1-ch11|辛、心包疾病]].
+- ...前認為病灶的大小及後續的病生理變化才是決定預後最重要的因素。過大的肺部腫塊壓迫到食道會因為影響吞嚥而造成羊水過多的症狀,相反的經過一些有效的胎兒治療,羊水過多的狀況也會有所改善。而如果腫塊壓迫到上下腔靜脈的話會造成胎兒水腫,包括腹水、胸水、心包膜積液以及皮膚水腫,嚴重的話更可能造成胎兒死亡。若是比較小的腫塊可能要出生之後才會造成呼吸窘迫的症狀,而更小的腫塊可能要等到兒童時期才會因為反覆肺部感染、氣胸或是生長遲滯才被發現。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丙、胸腔及縱隔腔 Page 149-156.
+- (C) 在次發性惡性心包膜積液 (secondary malignant pericardial effusion)的病人中,男性及女性皆以肺癌最為常見 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_辛、其他 Page 111-126.
+- ...liac artery) 或腹主動脈分叉處(aortic bifurcation): 單側或雙側下肢缺血, numbness、pale 和 pulseless。 - (7) 心包膜填塞 (cardiac tamponade): - a. 當心包膜積液達到一定量和壓力,進而影響心臟舒張,造成回心血量減少, 連帶使得心輸出量減少。 - b. 典型的臨床表現有 Beck's triad: JVP 上升、hypotension,distant heart sounds (隔了一層積液,心音聽起來低沉,好像很遠的感覺)。 - c. 其他表現有 pulsus paradoxus (吸氣時 SBP 下降超過 10 mmHg 或者 9%),以及 Kussmaul's sign (吸氣時 jugul Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_甲、主動脈剝離 Page 17-28.
+- ...ion (開刀時機為病人在 1.5 至 3 歲時)。(參考)PS:若手術方式為 Fontan procedure,術後發生可能的問題有 systemic venous pressure、fluid retention、pleural or pericardial effusions,其中 pleural effusion 佔 30~40%。晚期併發症可能有 baffle obstruction 進而造成 superior or inferior vena cava syndrome、vena cava or pulmonary artery thromboembolism、protein-losing enteropathy、supraventricular arrhythmias(atrial flutter Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
+- (3) 心臟的侵犯是川崎病最重要的臨床表現,可能出現 myocarditis、pericarditis with pericardial effusion(急性期)。若沒有治療,約 25% 病人在疾病發生後第二至 三週會有 coronary artery aneurysms;當冠狀動脈瘤內徑≥ 8 mm 時,破裂的機會非常高。 Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
+- 3. 心肺: (6)Serositis (包含 pleuritis or pleural effusion, pericarditis orpericardial effusion) Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_甲、紅斑性狼瘡 Page 19-32.
+- e. Pleural or pericardial effusion Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丁、急性白血病 Page 161-172.
+- 病程相關:癌細胞侵犯肺部、肋膜積水、大量腹水、心包膜積液 Source: 醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_戊、緩和醫療 Page 315-344.
+- 3. 心電圖:Low voltage,因為心包膜積液使得心臟位置不固定,所以會有 Electrical alternans(Every other QRS complex has a reduced amplitude alternating with a higher amplitude)。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病 Page 193-202.
+- (C) 2. 一位 36 歲女性無任何過去病史,因連續 3 日胸痛至急診求診。胸痛於特定姿勢可較緩解。她否認近日有使用藥物或創傷史,但目前有喉嚨痛等感冒症狀。抽血檢查發現 D-dimer 與心肌酶正常,但白血球與發炎指數(hsCRP)均有輕微升高現象。心電圖檢查如下圖所示。心臟超音波檢查顯示心臟收縮功能正常,且無局部室壁活動異常(regional wall motion abnormality),可見少量心包膜積液。其最可能診斷為何? Source: 醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病 Page 193-202.
+- (C) 大量心包膜積液(massive pericardial effusion) Source: 醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病 Page 193-202.
 
 ## Clinical Caveats
 

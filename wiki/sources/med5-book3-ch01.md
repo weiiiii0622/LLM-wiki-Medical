@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_甲、解剖構造與生理.md
+raw_source_title: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_甲、解剖構造與生理"
+raw_source_file: "raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_甲、解剖構造與生理.md"
+page_start: 19
+page_end: 26
+canonical_citation: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_甲、解剖構造與生理 Page 19-26"
 book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 chapter_order: 1
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 - Chapter file: `raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_甲、解剖構造與生理.md`
+- Pages covered: 19-26
+- Canonical citation: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_甲、解剖構造與生理 Page 19-26
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

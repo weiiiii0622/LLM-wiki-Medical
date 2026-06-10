@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丙、急性非結石性膽囊炎.md
+raw_source_title: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丙、急性非結石性膽囊炎"
+raw_source_file: "raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丙、急性非結石性膽囊炎.md"
+page_start: 159
+page_end: 162
+canonical_citation: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丙、急性非結石性膽囊炎 Page 159-162"
 book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 chapter_order: 14
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 - Chapter file: `raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丙、急性非結石性膽囊炎.md`
+- Pages covered: 159-162
+- Canonical citation: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丙、急性非結石性膽囊炎 Page 159-162
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

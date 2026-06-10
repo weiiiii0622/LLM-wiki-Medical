@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 其他尚有脂漏性角化症、化膿性肉芽腫、角化棘皮症(keratoacanthoma)等等,可以用切除治療。此外像是黑色素細胞痣、草莓痣、酒色斑(port-wine stain)等可再觀察或等其自行消失。 Source: [[sources/med6-book2-ch02|乙、眼瞼]].
-- C. 化膿性肉芽腫 (Pyogenic granuloma) 141 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- # C. 化膿性肉芽腫 (Pyogenic granuloma) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 1. 化膿性肉芽腫為為發生於外傷或是手術後,迅速增生之血管腫瘤,既沒有膿也不是肉芽腫,該名稱為慣用舊稱。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (A) 化膿性肉芽腫(pyogenic granuloma) Source: [[sources/med4-book2-ch11|子、其 他]].
+- (3) 其他尚有脂漏性角化症、化膿性肉芽腫、角化棘皮症(keratoacanthoma)等等,可以用切除治療。此外像是黑色素細胞痣、草莓痣、酒色斑(port-wine stain)等可再觀察或等其自行消失。 Source: 醫(六)第2冊眼科_第一篇、眼科_乙、眼瞼 Page 27-34.
+- C. 化膿性肉芽腫 (Pyogenic granuloma) 141 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- # C. 化膿性肉芽腫 (Pyogenic granuloma) Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- 1. 化膿性肉芽腫為為發生於外傷或是手術後,迅速增生之血管腫瘤,既沒有膿也不是肉芽腫,該名稱為慣用舊稱。 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- (A) 化膿性肉芽腫(pyogenic granuloma) Source: 醫(四)第2冊皮膚_子、其他 Page 193-206.
 
 ## Clinical Caveats
 

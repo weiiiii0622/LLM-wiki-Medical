@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_庚、物理治療儀器.md
+raw_source_title: "醫(六)第3冊復健_庚、物理治療儀器"
+raw_source_file: "raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_庚、物理治療儀器.md"
+page_start: 179
+page_end: 186
+canonical_citation: "醫(六)第3冊復健_庚、物理治療儀器 Page 179-186"
 book: 醫(六)第3冊復健
 chapter_order: 7
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第3冊復健
 - Chapter file: `raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_庚、物理治療儀器.md`
+- Pages covered: 179-186
+- Canonical citation: 醫(六)第3冊復健_庚、物理治療儀器 Page 179-186
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

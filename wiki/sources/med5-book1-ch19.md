@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症.md
+raw_source_title: "醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症"
+raw_source_file: "raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症.md"
+page_start: 239
+page_end: 244
+canonical_citation: "醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症 Page 239-244"
 book: 醫(五)第1冊外概腦外
 chapter_order: 19
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第1冊外概腦外
 - Chapter file: `raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症.md`
+- Pages covered: 239-244
+- Canonical citation: 醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症 Page 239-244
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

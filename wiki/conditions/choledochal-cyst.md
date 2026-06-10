@@ -33,15 +33,15 @@ tags:
 
 ## Key Details From Sources
 
-- (A) 膽道囊腫 (choledochal cyst) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- D. 膽管囊腫 (Choledochal cyst) 177 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- ### D. 膽管囊腫 (Choledochal cyst) Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- (1) 手術切除為主,將膽道囊腫完整切除,再以(Roux-en-Y hepaticojejunostomy) 膽管空腸吻合術式接回,以腹腔鏡術式做切除合併(end-to-side jejunojejunostomy)空腸吻合術作治療。 Source: [[sources/med5-book4-ch12|戊、肝膽道疾病]].
-- #### 丁、膽道囊腫(Choledochal Cyst) Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
-- Types of Choledochal cyst Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
-- | (#) | 1. | . 有關膽道囊腫,下列敘述何者錯誤? | 107 (二) 專 | |-----|----|----------------------------------------------------|-----------| | | | (A) 依 Todani 分類囊腫型態一共分為五大型 | 醫五 -42 | | | | (B) 病人典型的三個症狀是腹痛、黃疸與右上腹摸到腫塊 | | | | | (C) 手術與否端視病人是否有症狀,無症狀者不必手術 | Source: [[sources/med5-book3-ch15|丁、膽道囊腫]].
-- 2. 膽道囊腫 (choledochal cysts)。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- (C) 先天性膽管囊腫 (choledochal cyst) Source: [[sources/med5-book3-ch16|戊、膽管癌]].
+- (A) 膽道囊腫 (choledochal cyst) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- D. 膽管囊腫 (Choledochal cyst) 177 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_戊、肝膽道疾病 Page 187-192.
+- ### D. 膽管囊腫 (Choledochal cyst) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_戊、肝膽道疾病 Page 187-192.
+- (1) 手術切除為主,將膽道囊腫完整切除,再以(Roux-en-Y hepaticojejunostomy) 膽管空腸吻合術式接回,以腹腔鏡術式做切除合併(end-to-side jejunojejunostomy)空腸吻合術作治療。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_戊、肝膽道疾病 Page 187-192.
+- #### 丁、膽道囊腫(Choledochal Cyst) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丁、膽道囊腫 Page 163-166.
+- Types of Choledochal cyst Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丁、膽道囊腫 Page 163-166.
+- | (#) | 1. | . 有關膽道囊腫,下列敘述何者錯誤? | 107 (二) 專 | |-----|----|----------------------------------------------------|-----------| | | | (A) 依 Todani 分類囊腫型態一共分為五大型 | 醫五 -42 | | | | (B) 病人典型的三個症狀是腹痛、黃疸與右上腹摸到腫塊 | | | | | (C) 手術與否端視病人是否有症狀,無症狀者不必手術 | Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_丁、膽道囊腫 Page 163-166.
+- 2. 膽道囊腫 (choledochal cysts)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_戊、膽管癌 Page 167-176.
+- (C) 先天性膽管囊腫 (choledochal cyst) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_戊、膽管癌 Page 167-176.
 
 ## Clinical Caveats
 

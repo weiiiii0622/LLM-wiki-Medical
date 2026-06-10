@@ -27,9 +27,9 @@ Warthin tumor 常見於 parotid，與吸菸相關，可雙側或多發。 本頁
 
 ## Key Details From Sources
 
-- 3. 囊狀腺淋巴瘤(Cystadenolymphoma, papillary cystadenoma lymphomatosum):俗稱Warthin's tumor,發生率 30%。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- #### H. 囊狀腺淋巴瘤 (Warthin's tumor) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- 1. 又稱為囊狀腺淋巴瘤(Cystadenolymphoma, papillary cystadenoma lymphomatosum)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 3. 囊狀腺淋巴瘤(Cystadenolymphoma, papillary cystadenoma lymphomatosum):俗稱Warthin's tumor,發生率 30%。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- #### H. 囊狀腺淋巴瘤 (Warthin's tumor) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- 1. 又稱為囊狀腺淋巴瘤(Cystadenolymphoma, papillary cystadenoma lymphomatosum)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

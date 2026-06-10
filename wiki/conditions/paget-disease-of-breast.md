@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- ...| | |-----|-----------------------------------------|-------------------------------------|-----------| | (B) | 5. 下列有關乳房 Paget disease 之紀 | | 108(二)專 | | | (A) 一種由乳管內乳癌(intradu | ictal carcinoma)生成之乳癌 | 醫五 -38 | | | (B) 原始病灶在乳暈 | | | | | (C) 乳頭及乳暈皮膚呈濕疹樣 | (eczematous eruption)或牛皮疹 | | | | (psoriatic rash) | | | | | (D) 需切片檢查以鑑別診斷皮膚 | 請病變 | | | Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 述何者錯誤? 醫五-43 - (A) breast imaging reporting and data system (BI-RADS) 用以評估惡性可能,其中第一類 BI-RADS,代表沒有任何病灶 - (B) BI-RADS 3 代表病灶出現,可能為良性,需短期追蹤 - (C) BI-RADS 5 代表病灶出現,而且已經證實為乳癌 - (D) 核磁共振(MRI) 適用於腋下淋巴乳癌轉移,其原發病灶不明(unknown primary tumor) 或佩吉特氏病(Paget disease) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- ...| | |-----|-----------------------------------------|-------------------------------------|-----------| | (B) | 5. 下列有關乳房 Paget disease 之紀 | | 108(二)專 | | | (A) 一種由乳管內乳癌(intradu | ictal carcinoma)生成之乳癌 | 醫五 -38 | | | (B) 原始病灶在乳暈 | | | | | (C) 乳頭及乳暈皮膚呈濕疹樣 | (eczematous eruption)或牛皮疹 | | | | (psoriatic rash) | | | | | (D) 需切片檢查以鑑別診斷皮膚 | 請病變 | | | Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- 述何者錯誤? 醫五-43 - (A) breast imaging reporting and data system (BI-RADS) 用以評估惡性可能,其中第一類 BI-RADS,代表沒有任何病灶 - (B) BI-RADS 3 代表病灶出現,可能為良性,需短期追蹤 - (C) BI-RADS 5 代表病灶出現,而且已經證實為乳癌 - (D) 核磁共振(MRI) 適用於腋下淋巴乳癌轉移,其原發病灶不明(unknown primary tumor) 或佩吉特氏病(Paget disease) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
 
 ## Clinical Caveats
 

@@ -37,16 +37,16 @@ vWF 缺乏或功能異常造成 platelet adhesion 缺陷與 factor VIII 穩定�
 
 ## Key Details From Sources
 
-- .../ 子宮頸撕裂傷 | 巨嬰 | 20% | | Tissue | · 胎盤滯留或植入性胎盤 | 剖腹產史、D&C、子宮鏡手術、年 | 10% | | | | 紀大、產次高 | | | Thrombin | ・母親凝血功能異常 | 先天性:von Willebrand disease | 1% | | | | 後天性:severe preeclampsia、 | | | | | HELLP syndrome \placenta abruptio \ | | | | | IUFD · sepsis | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- ii. 人工合成之抗利尿激素(DDAVP):可治療夜尿。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- 1. 初級凝血:血管受損後,血小板、VWF,會在局部密密麻麻的形成血小板栓子。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 3. 新生兒的止血: - (1) 剛初生時, Vit K dependent factor (factor 2, 7, 9, 10) 和 protein C, protein S 只有成人的 50%。 - (2) 剛初生時, VWF 的濃度會升高。 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- #### B. von Willebrand disease Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (C) 2. 一位 9 歲大的男童因最近一個月來發現夜尿症(nocturnal enuresis) 100( 二 ) 專 至門診求診。男童自 3 歲之後晚上即不需要包尿布。下列何種處 醫四 -10 置最適當? - (A) 給父母衛教,告訴他們這是暫時現象,將來自然會好 - (B) 開立抗利尿激素(DDAVP)給男童,改善其症狀 - (C) 需要進一步檢查以排除病態問題 - (D) 限制睡前之水分攝取是最好的治療方法 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (C) 血友病 (hemophilia) (D) von Willebrand 病 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (1) Platelet adhesion:血管缺陷→ Collagen 與血小板 GP Ia 結合,或藉由 vWF 與血小板 GP Ib 結合。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- (D) von Willebrand disease Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- 【詳解】vWD為vWF缺乏或功能缺失,會導致 factor8下降,可能會以單純 aPTT 延長表現。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
+- .../ 子宮頸撕裂傷 | 巨嬰 | 20% | | Tissue | · 胎盤滯留或植入性胎盤 | 剖腹產史、D&C、子宮鏡手術、年 | 10% | | | | 紀大、產次高 | | | Thrombin | ・母親凝血功能異常 | 先天性:von Willebrand disease | 1% | | | | 後天性:severe preeclampsia、 | | | | | HELLP syndrome \placenta abruptio \ | | | | | IUFD · sepsis | | Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- ii. 人工合成之抗利尿激素(DDAVP):可治療夜尿。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- 1. 初級凝血:血管受損後,血小板、VWF,會在局部密密麻麻的形成血小板栓子。 Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- 3. 新生兒的止血: - (1) 剛初生時, Vit K dependent factor (factor 2, 7, 9, 10) 和 protein C, protein S 只有成人的 50%。 - (2) 剛初生時, VWF 的濃度會升高。 Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- #### B. von Willebrand disease Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- (C) 2. 一位 9 歲大的男童因最近一個月來發現夜尿症(nocturnal enuresis) 100( 二 ) 專 至門診求診。男童自 3 歲之後晚上即不需要包尿布。下列何種處 醫四 -10 置最適當? - (A) 給父母衛教,告訴他們這是暫時現象,將來自然會好 - (B) 開立抗利尿激素(DDAVP)給男童,改善其症狀 - (C) 需要進一步檢查以排除病態問題 - (D) 限制睡前之水分攝取是最好的治療方法 Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- (C) 血友病 (hemophilia) (D) von Willebrand 病 Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- (1) Platelet adhesion:血管缺陷→ Collagen 與血小板 GP Ia 結合,或藉由 vWF 與血小板 GP Ib 結合。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常 Page 143-155.
+- (D) von Willebrand disease Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常 Page 143-155.
+- 【詳解】vWD為vWF缺乏或功能缺失,會導致 factor8下降,可能會以單純 aPTT 延長表現。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常 Page 143-155.
 
 ## Clinical Caveats
 

@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- (B) 7. 下列有關酒精性肝病之敘述,何者錯誤? Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (C) 個體對酒精性肝病之易感性與許多酒精代謝 以及基因多型性有關 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (A) 酒精性肝病其血清肝臟酵素值通常 ALT (GPT) 高於 AST (GOT) Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...會有肝腫大的現象 (C) 會合併嚴重的腹水 (D) 病人多半有明顯的右心 【詳解】(D) 主要的症狀是進展到黃疸、腹水。 | 它靜脈阻塞所致 | 93(一)檢內-42 | | (D) | macrovesicular type ? (A) 酒精性肝病 (C) 肥胖症 | l b b b b b b b b b b b b b b b b b b b | 93(一)檢內-43 | | (B) | 5. 下列何者不是脂肪肝(fatty (A) 酗酒者(C) 糖尿病患者 | y liver ) 常見的族群 ?(B) 老煙槍(D) 肥胖者 | 93(一)檢內-44 | Source: [[sources/med3-book2-ch26|辛、肝臟-其他]].
+- (B) 7. 下列有關酒精性肝病之敘述,何者錯誤? Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丁、肝炎 Page 107-136.
+- (C) 個體對酒精性肝病之易感性與許多酒精代謝 以及基因多型性有關 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丁、肝炎 Page 107-136.
+- (A) 酒精性肝病其血清肝臟酵素值通常 ALT (GPT) 高於 AST (GOT) Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丁、肝炎 Page 107-136.
+- ...會有肝腫大的現象 (C) 會合併嚴重的腹水 (D) 病人多半有明顯的右心 【詳解】(D) 主要的症狀是進展到黃疸、腹水。 | 它靜脈阻塞所致 | 93(一)檢內-42 | | (D) | macrovesicular type ? (A) 酒精性肝病 (C) 肥胖症 | l b b b b b b b b b b b b b b b b b b b | 93(一)檢內-43 | | (B) | 5. 下列何者不是脂肪肝(fatty (A) 酗酒者(C) 糖尿病患者 | y liver ) 常見的族群 ?(B) 老煙槍(D) 肥胖者 | 93(一)檢內-44 | Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_辛、肝臟-其他 Page 165-166.
 
 ## Clinical Caveats
 

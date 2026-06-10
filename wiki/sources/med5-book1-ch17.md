@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病.md
+raw_source_title: "醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病"
+raw_source_file: "raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病.md"
+page_start: 183
+page_end: 216
+canonical_citation: "醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216"
 book: 醫(五)第1冊外概腦外
 chapter_order: 17
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第1冊外概腦外
 - Chapter file: `raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病.md`
+- Pages covered: 183-216
+- Canonical citation: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

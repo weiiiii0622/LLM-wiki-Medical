@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 原因:由於視網膜下疾病影響視網膜色素上皮,破壞血液視網膜屏障(bloodretina barrier),以致於脈絡膜的液體滲出堆積在網膜下空腔。常見原因有脈絡膜腫瘤、原田氏症、後鞏膜炎、網膜血管病變、全網膜雷射(panretinal photocoagulation, PRP)後、中心漿液性網膜病變(central serous retinopathy)、網膜下新生血管等。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- (1) 原因:由於視網膜下疾病影響視網膜色素上皮,破壞血液視網膜屏障(bloodretina barrier),以致於脈絡膜的液體滲出堆積在網膜下空腔。常見原因有脈絡膜腫瘤、原田氏症、後鞏膜炎、網膜血管病變、全網膜雷射(panretinal photocoagulation, PRP)後、中心漿液性網膜病變(central serous retinopathy)、網膜下新生血管等。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
 
 ## Clinical Caveats
 

@@ -27,8 +27,8 @@ Ludwig angina 是 submandibular/sublingual space 感染，可造成舌根上抬�
 
 ## Key Details From Sources
 
-- #### E. Ludwig's angina Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- (1) Ludwig's angina 專指 submandibular、sublingual 和 submental space 的深頸部急性蜂窩組織炎。此種感染症進展快速,容易造成會厭及口咽組織水腫,進而壓迫呼吸道造成呼吸困難。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- #### E. Ludwig's angina Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- (1) Ludwig's angina 專指 submandibular、sublingual 和 submental space 的深頸部急性蜂窩組織炎。此種感染症進展快速,容易造成會厭及口咽組織水腫,進而壓迫呼吸道造成呼吸困難。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

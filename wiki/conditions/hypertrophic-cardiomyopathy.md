@@ -35,15 +35,15 @@ tags:
 
 ## Key Details From Sources
 
-- · Hypertrophic cardiomyopathy and other forms of left ventricular outflow tract obstruction Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- ...in lesions);腦部超音波檢查發現腦室周圍有許多鈣化之小結節。 則其最常合併之心臟異常為: - (A) 心肌瘤 (rhabdomyoma) - (B) 心室中隔缺損(ventricular septal defect) - (C) 肥厚型心肌病變(hypertrophic cardiomyopathy) - (D) 心臟纖維瘤 (fibroma) - 【詳解】懷疑病人為 Tuberous sclerosis 患者,常見的心臟異常為 rhabdomyoma(佔 50%),其數量可不只一個且位在左心室心 尖處。併發症如 congestive heart failure、arrhythmias 有可能發生。 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (4) 先天性心臟病(右側心臟):肺動脈狹窄(pulmonary valvular stenosis)、心肌肥大病變(hypertrophic cardiomyopathy)。有些病人合併心房中膈缺損(ASD)。 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- B. 肥厚性心肌病 (Hypertrophic cardiomyopathy, HCM) 168 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- (2) 心臟衰竭藥物: - a. β blocker 可減少心臟收縮力而減緩症狀。 - b. Non-DHP CCB 可增加心室舒張時的填充,而減緩症狀。DHP-CCB 則需避免。 - c. Diuretics 在有體液過多時可適當使用,需小心過度脫水會惡化左心室出口阻塞。 - d. Nitrate 及 Vasodilator 需避免,以免增加左心室出口壓力差,惡化症狀。 - e. Digoxin 是相對禁忌的藥物,因為其強心功能,導致左心室出口阻塞更嚴重。 (HCM 病患心臟收縮功能正常~過強) Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- (4) 手術治療:外科開刀 (Septal myotomy) 或於 Septal brace 注射酒精 (Alcohol septal ablation),減少渦厚的心肌;可改善症狀,但無法改變 HCM 的自然病程。 Source: [[sources/med3-book1-ch07|庚、心肌症]].
-- 7. S₄: 心室 Compliance 變差→心房收縮→血液充填心室的聲音 - (1) 收縮期前(Presystolic)的低頻雜音,心房有效收縮時,血液充填心室的聲音。 - (2) Af 時,心房無有效收縮,所以沒有 S4。 - (3) 主動脈瓣狹窄(AS)、高血壓、肥厚性心臟病(HCM)、缺血性心臟病等左心 Compliance 變差時,更需靠心房收縮充填血液,此時可聽到 S。。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- ...下大靜脈回流增加→右心血增加→右心雜音變大聲 | | 呼吸 | 吐氣 | 左心血增加→左心雜音變大聲 | | Valsalv | a maneuver | 靜脈回流皆減少→心臟血液減少→大部份雜音變小聲 | | | 站 | 心臟血液減少→ HCM 及 MVP 的收縮期雜音變大聲 | | 姿勢 | 蹲、抬腳 | 靜脈回流皆增加→心臟血液增加→大部份雜音變大聲 | | | | 心臟血液增加→ HCM 及 MVP 的收縮期雜音變小聲 | | 運動(手握緊運動) | | 周邊需血增加→更多血通過瓣膜→雜音變大聲 | | | | 更多血於心臟→ HCM 變不嚴重→收縮雜音變小聲 | Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
-- ...S | | Pulsus parvus | 動脈搏動 amplitude 減小 | YX HPF 7月 P.E. / J | AS | | Pulsus bisferiens | 收縮時,有兩個波鋒 | 收縮到一半,有東西阻礙 | AR, HCM | | Bounding pulse= | 動脈搏動快速上升, | Stroke volume 增加, | AR | | Water-hammer pulse | 且快速下降 | 且動脈瓣逆流 | AK | | | 四层中 小小空里工厂及打印 10 | 吸氣→右心變大→ | Cardiac tamponade | | Pulsus paradoxus | 吸氣時,收縮壓下降超過 10 | 左心受壓迫* | Cardiac tampon Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
+- · Hypertrophic cardiomyopathy and other forms of left ventricular outflow tract obstruction Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- ...in lesions);腦部超音波檢查發現腦室周圍有許多鈣化之小結節。 則其最常合併之心臟異常為: - (A) 心肌瘤 (rhabdomyoma) - (B) 心室中隔缺損(ventricular septal defect) - (C) 肥厚型心肌病變(hypertrophic cardiomyopathy) - (D) 心臟纖維瘤 (fibroma) - 【詳解】懷疑病人為 Tuberous sclerosis 患者,常見的心臟異常為 rhabdomyoma(佔 50%),其數量可不只一個且位在左心室心 尖處。併發症如 congestive heart failure、arrhythmias 有可能發生。 Source: 醫(四)第1冊小兒_戊、神經系統性疾病 Page 229-284.
+- (4) 先天性心臟病(右側心臟):肺動脈狹窄(pulmonary valvular stenosis)、心肌肥大病變(hypertrophic cardiomyopathy)。有些病人合併心房中膈缺損(ASD)。 Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- B. 肥厚性心肌病 (Hypertrophic cardiomyopathy, HCM) 168 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_庚、心肌症 Page 185-192.
+- (2) 心臟衰竭藥物: - a. β blocker 可減少心臟收縮力而減緩症狀。 - b. Non-DHP CCB 可增加心室舒張時的填充,而減緩症狀。DHP-CCB 則需避免。 - c. Diuretics 在有體液過多時可適當使用,需小心過度脫水會惡化左心室出口阻塞。 - d. Nitrate 及 Vasodilator 需避免,以免增加左心室出口壓力差,惡化症狀。 - e. Digoxin 是相對禁忌的藥物,因為其強心功能,導致左心室出口阻塞更嚴重。 (HCM 病患心臟收縮功能正常~過強) Source: 醫(三)第1冊心胸內_第一篇、心臟內科_庚、心肌症 Page 185-192.
+- (4) 手術治療:外科開刀 (Septal myotomy) 或於 Septal brace 注射酒精 (Alcohol septal ablation),減少渦厚的心肌;可改善症狀,但無法改變 HCM 的自然病程。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_庚、心肌症 Page 185-192.
+- 7. S₄: 心室 Compliance 變差→心房收縮→血液充填心室的聲音 - (1) 收縮期前(Presystolic)的低頻雜音,心房有效收縮時,血液充填心室的聲音。 - (2) Af 時,心房無有效收縮,所以沒有 S4。 - (3) 主動脈瓣狹窄(AS)、高血壓、肥厚性心臟病(HCM)、缺血性心臟病等左心 Compliance 變差時,更需靠心房收縮充填血液,此時可聽到 S。。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_戊、瓣膜性心臟病 Page 151-174.
+- ...下大靜脈回流增加→右心血增加→右心雜音變大聲 | | 呼吸 | 吐氣 | 左心血增加→左心雜音變大聲 | | Valsalv | a maneuver | 靜脈回流皆減少→心臟血液減少→大部份雜音變小聲 | | | 站 | 心臟血液減少→ HCM 及 MVP 的收縮期雜音變大聲 | | 姿勢 | 蹲、抬腳 | 靜脈回流皆增加→心臟血液增加→大部份雜音變大聲 | | | | 心臟血液增加→ HCM 及 MVP 的收縮期雜音變小聲 | | 運動(手握緊運動) | | 周邊需血增加→更多血通過瓣膜→雜音變大聲 | | | | 更多血於心臟→ HCM 變不嚴重→收縮雜音變小聲 | Source: 醫(三)第1冊心胸內_第一篇、心臟內科_戊、瓣膜性心臟病 Page 151-174.
+- ...S | | Pulsus parvus | 動脈搏動 amplitude 減小 | YX HPF 7月 P.E. / J | AS | | Pulsus bisferiens | 收縮時,有兩個波鋒 | 收縮到一半,有東西阻礙 | AR, HCM | | Bounding pulse= | 動脈搏動快速上升, | Stroke volume 增加, | AR | | Water-hammer pulse | 且快速下降 | 且動脈瓣逆流 | AK | | | 四层中 小小空里工厂及打印 10 | 吸氣→右心變大→ | Cardiac tamponade | | Pulsus paradoxus | 吸氣時,收縮壓下降超過 10 | 左心受壓迫* | Cardiac tampon Source: 醫(三)第1冊心胸內_第一篇、心臟內科_戊、瓣膜性心臟病 Page 151-174.
 
 ## Clinical Caveats
 

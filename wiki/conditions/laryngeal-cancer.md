@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- V. 喉癌(Laryngeal Cancer) 265 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### V. 喉癌 (Laryngeal Cancer) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- 1. 喉癌來自於喉部黏膜上皮組織的惡性腫瘤,病理學上絕大多數是鱗狀上皮細胞癌。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- (3) 喉癌:特別注意聲門上、聲門、聲門下的區別。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- V. 喉癌(Laryngeal Cancer) 265 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### V. 喉癌 (Laryngeal Cancer) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- 1. 喉癌來自於喉部黏膜上皮組織的惡性腫瘤,病理學上絕大多數是鱗狀上皮細胞癌。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- (3) 喉癌:特別注意聲門上、聲門、聲門下的區別。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
 
 ## Clinical Caveats
 

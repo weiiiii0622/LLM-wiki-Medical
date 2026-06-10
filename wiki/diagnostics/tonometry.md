@@ -45,16 +45,16 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 房水循環的途徑只要有任一部份阻塞, 會使房水聚積在眼球內,導致眼壓升 高,超過眼球所能忍受程度,即會造成 青光眼發作。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- #### 4. 眼內壓(Intraocular pressure): Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- (3) 眼壓受房水分泌速度及引流速度影響,超過 21 mmHg 就會被懷疑眼壓過高。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- g. 低眼壓 (low intraocular pressure):因發炎使睫狀體上皮分泌的房水減少造成; 但偶爾在一些疾病如疱疹性葡萄膜炎 (herpetic uveitis) 中眼內壓會升高。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
-- a. 虹膜後癒著(posterior synechiae): 虹膜和水晶體前囊黏住,使房水無法由後 房流到前房,造成周圍虹膜向前彎,隅角關閉,眼壓上升。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
-- 7. 青光眼睫狀體炎危象(Glaucomatocyclitic crisis),又稱為 Posner-Schlossman Syndrome:一種不明原因的前房發炎合併高眼壓。患者年齡在20到50歲之間、單眼發作、隅角開放但眼壓可高達40~60 mmHg、角膜水腫、瞳孔擴張、復發性的輕微睫狀體炎。通常在幾日內自行緩解,治療只要針對眼壓上升處置,加用類固醇即可。未發作期間的視野、視神經、及眼壓多為正常。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
-- (4) 症狀: 閃光幻視 (photopsia)、飛蚊症 (floaters)、周邊視野缺損 (病患會形容 視野如同黑屏幕拉下一般 "black curtain") 且可能進展到影響中心視力。若未 治療會產生續發性白內障、慢性葡萄膜炎等使眼壓降低,眼球萎縮。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- (2) 玻璃體腔內注射血管內皮生長因子抑制劑或長效型類固醇(Intravitreal anti-VEGF agents or triamcinolone):可降低血管通透性,減少瀰漫性黃斑部水腫, 但類固醇注射可能會使眼壓升高。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- (4) 眼內壓上升:如原發性隅角開放性青光眼造成的高眼壓。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- 3. 上皮水腫:角膜內皮細胞受損或急性眼壓增高造成角膜失去正常光澤,嚴重時出現 角膜水泡。 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- (3) 房水循環的途徑只要有任一部份阻塞, 會使房水聚積在眼球內,導致眼壓升 高,超過眼球所能忍受程度,即會造成 青光眼發作。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- #### 4. 眼內壓(Intraocular pressure): Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- (3) 眼壓受房水分泌速度及引流速度影響,超過 21 mmHg 就會被懷疑眼壓過高。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- g. 低眼壓 (low intraocular pressure):因發炎使睫狀體上皮分泌的房水減少造成; 但偶爾在一些疾病如疱疹性葡萄膜炎 (herpetic uveitis) 中眼內壓會升高。 Source: 醫(六)第2冊眼科_第一篇、眼科_庚、葡萄膜 Page 77-84.
+- a. 虹膜後癒著(posterior synechiae): 虹膜和水晶體前囊黏住,使房水無法由後 房流到前房,造成周圍虹膜向前彎,隅角關閉,眼壓上升。 Source: 醫(六)第2冊眼科_第一篇、眼科_庚、葡萄膜 Page 77-84.
+- 7. 青光眼睫狀體炎危象(Glaucomatocyclitic crisis),又稱為 Posner-Schlossman Syndrome:一種不明原因的前房發炎合併高眼壓。患者年齡在20到50歲之間、單眼發作、隅角開放但眼壓可高達40~60 mmHg、角膜水腫、瞳孔擴張、復發性的輕微睫狀體炎。通常在幾日內自行緩解,治療只要針對眼壓上升處置,加用類固醇即可。未發作期間的視野、視神經、及眼壓多為正常。 Source: 醫(六)第2冊眼科_第一篇、眼科_庚、葡萄膜 Page 77-84.
+- (4) 症狀: 閃光幻視 (photopsia)、飛蚊症 (floaters)、周邊視野缺損 (病患會形容 視野如同黑屏幕拉下一般 "black curtain") 且可能進展到影響中心視力。若未 治療會產生續發性白內障、慢性葡萄膜炎等使眼壓降低,眼球萎縮。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- (2) 玻璃體腔內注射血管內皮生長因子抑制劑或長效型類固醇(Intravitreal anti-VEGF agents or triamcinolone):可降低血管通透性,減少瀰漫性黃斑部水腫, 但類固醇注射可能會使眼壓升高。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- (4) 眼內壓上升:如原發性隅角開放性青光眼造成的高眼壓。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- 3. 上皮水腫:角膜內皮細胞受損或急性眼壓增高造成角膜失去正常光澤,嚴重時出現 角膜水泡。 Source: 醫(六)第2冊眼科_第一篇、眼科_戊、角膜 Page 53-70.
 
 ## Clinical Caveats
 

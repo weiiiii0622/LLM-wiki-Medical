@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- | 成因 | 處 置 | | |---------------------------|----------------------------------------|--| | Primary hypogonadism | • TESE + ICSI | | | (Klinefelter's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 / 腦垂體問題 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- 註 1: MESA (microsurgical epididymal sperm aspiration) 從副睪取精; TESE (testicular sperm extraction) 從睪丸取精。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- (C) 5. 一位 26 歲男性,不孕 3 年求診,嚴格的精液分析顯示:精液量 102(2) 事 = 2.5 mL,總精蟲數= $1 \times 10^6 \text{/mL}$ ,4% 直線前進,3% 正常外觀 §六 -43 精子,下列處理何者較適當? - (A) 進行子宮腔內受精 (intrauterine insemination) - (B) 進行體外受精 (in vitro fertilization) - (C) 進行卵質內單一精子注入(intracytoplasmic sperm injection) - (D) 進行睪丸切片取精 (testicular sperm extraction) Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- | 成因 | 處 置 | | |---------------------------|----------------------------------------|--| | Primary hypogonadism | • TESE + ICSI | | | (Klinefelter's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 / 腦垂體問題 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- 註 1: MESA (microsurgical epididymal sperm aspiration) 從副睪取精; TESE (testicular sperm extraction) 從睪丸取精。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- (C) 5. 一位 26 歲男性,不孕 3 年求診,嚴格的精液分析顯示:精液量 102(2) 事 = 2.5 mL,總精蟲數= $1 \times 10^6 \text{/mL}$ ,4% 直線前進,3% 正常外觀 §六 -43 精子,下列處理何者較適當? - (A) 進行子宮腔內受精 (intrauterine insemination) - (B) 進行體外受精 (in vitro fertilization) - (C) 進行卵質內單一精子注入(intracytoplasmic sperm injection) - (D) 進行睪丸切片取精 (testicular sperm extraction) Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
 
 ## Clinical Caveats
 

@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...Glinide 類 | 0.5~1.5% | Repaglinide (Novonorm®)Nateglinide (Starlix®) | 降低飯後血糖 | 低血糖與增重 | | | 促進分泌 (胰臟)/減少 Incretin 分解 | DPP-4 inhibitor | 0.5~1.0% | Sitagliptin (Januvia®) Saxagliptin (Onglyza®) Vildagliptin (Galvus®) Linagliptin (Trajenta®) | 不易低血糖、部份藥物保護心血管、部份藥物降低尿蛋白 | | 部分藥要注意腎 | | 增加敏感 ( 肝臟 )/肝新生糖↓gluconeogenesis | Biguanide | 1.0~2.0% | M Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- \*「腎」: Metformin eGFR Saxagliptin (Onglyza®) > Vildagliptin (Galvus®) > Linagliptin (Trajenta®) - a. 藥物機制:食物會刺激腸道分泌腸泌素(Incretin),腸泌素中最重要的就是GLP-1 會刺激胰臟分泌胰島素。而GLP-1 會被的體內 enzyme DPP-4 分解,使用DPP-4 inhibitor可延長 GLP-1 作用。[縮寫:Glucagon like peptide-1 (GLP-1)、Dipeptidyl peptidase-4 (DPP-4)] - b. 優點:副作用少,不易造成低血糖。 - c. 缺點:呼吸道感染、急性胰臟炎可能。另外,Saxagliptin 可能增加 DM 患者心衰竭住院。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 【詳解】(B) DPP-4 inhibitor 中 Saxagliptin 最近有研究指出可能增加心衰竭住院風險 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- DM 考得很臨床,須考量病人合併症、抽血 data 和藥物副作用,選擇適合用藥 (新藥如 DPP-4 inhibitors、GLP-1、SGLT-2 inhibitors 可多留意),應該是有好好實 習就迎刃而解的題目。脂肪代謝異常就考了一些較少見的東西,本書以表格整理, 請多多背誦。 Source: [[sources/med3-book2-ch25|癸、胰臟疾病]].
+- ...Glinide 類 | 0.5~1.5% | Repaglinide (Novonorm®)Nateglinide (Starlix®) | 降低飯後血糖 | 低血糖與增重 | | | 促進分泌 (胰臟)/減少 Incretin 分解 | DPP-4 inhibitor | 0.5~1.0% | Sitagliptin (Januvia®) Saxagliptin (Onglyza®) Vildagliptin (Galvus®) Linagliptin (Trajenta®) | 不易低血糖、部份藥物保護心血管、部份藥物降低尿蛋白 | | 部分藥要注意腎 | | 增加敏感 ( 肝臟 )/肝新生糖↓gluconeogenesis | Biguanide | 1.0~2.0% | M Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- \*「腎」: Metformin eGFR Saxagliptin (Onglyza®) > Vildagliptin (Galvus®) > Linagliptin (Trajenta®) - a. 藥物機制:食物會刺激腸道分泌腸泌素(Incretin),腸泌素中最重要的就是GLP-1 會刺激胰臟分泌胰島素。而GLP-1 會被的體內 enzyme DPP-4 分解,使用DPP-4 inhibitor可延長 GLP-1 作用。[縮寫:Glucagon like peptide-1 (GLP-1)、Dipeptidyl peptidase-4 (DPP-4)] - b. 優點:副作用少,不易造成低血糖。 - c. 缺點:呼吸道感染、急性胰臟炎可能。另外,Saxagliptin 可能增加 DM 患者心衰竭住院。 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- 【詳解】(B) DPP-4 inhibitor 中 Saxagliptin 最近有研究指出可能增加心衰竭住院風險 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- DM 考得很臨床,須考量病人合併症、抽血 data 和藥物副作用,選擇適合用藥 (新藥如 DPP-4 inhibitors、GLP-1、SGLT-2 inhibitors 可多留意),應該是有好好實 習就迎刃而解的題目。脂肪代謝異常就考了一些較少見的東西,本書以表格整理, 請多多背誦。 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_癸、胰臟疾病 Page 173-184.
 
 ## Clinical Caveats
 

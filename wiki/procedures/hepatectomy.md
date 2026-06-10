@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 剖腹切肝 (Open liver resection): - (1) 最常見的開腹法是賓士切法。左右兩邊做胸骨下緣切開(subcostal incision), 中線向上畫到劍突(xiphoid process)。 - (2) 可將病人擺成頭低腳高的姿勢(Trendelenburg position),減少術中的失血量。 - (3) 呼吸器可給予 5 cm $H_2O$ 的吐氣末端正壓 (positive end-expiratory pressure),避免空氣栓子。 Source: [[sources/med5-book3-ch08|甲、解剖組織]].
-- 1. 外科切除或肝臟移植手術式是唯一有治癒效果的方式。但膽道癌被發現通常較晚, 僅不到 1/3 的病人能夠藉由外科介入的方式 治療。 - (1) 肝內膽管癌:肝切除,預後較差。 - (2) 肝門膽管癌:必須要看膽道癌的 Bismuth classification 來作決定。 - a. Types I and II: 必須要作肝外膽道 與膽囊的 en bloc resection,再加上 Roux-en-Y hepaticojejunostomy。 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
+- 1. 剖腹切肝 (Open liver resection): - (1) 最常見的開腹法是賓士切法。左右兩邊做胸骨下緣切開(subcostal incision), 中線向上畫到劍突(xiphoid process)。 - (2) 可將病人擺成頭低腳高的姿勢(Trendelenburg position),減少術中的失血量。 - (3) 呼吸器可給予 5 cm $H_2O$ 的吐氣末端正壓 (positive end-expiratory pressure),避免空氣栓子。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_甲、解剖組織 Page 97-104.
+- 1. 外科切除或肝臟移植手術式是唯一有治癒效果的方式。但膽道癌被發現通常較晚, 僅不到 1/3 的病人能夠藉由外科介入的方式 治療。 - (1) 肝內膽管癌:肝切除,預後較差。 - (2) 肝門膽管癌:必須要看膽道癌的 Bismuth classification 來作決定。 - a. Types I and II: 必須要作肝外膽道 與膽囊的 en bloc resection,再加上 Roux-en-Y hepaticojejunostomy。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_戊、膽管癌 Page 167-176.
 
 ## Clinical Caveats
 

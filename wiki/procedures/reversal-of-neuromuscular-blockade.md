@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- D. 非去極化肌肉鬆弛劑的 Antagonism 74 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
-- #### D. 非去極化肌肉鬆弛劑的 Antagonism Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
-- 4. 種類:(近幾年的國考沒有考太細的藥理學,可參考就好) - (1) Neostigmine: 臨床常用的肌肉鬆弛劑解藥。 - (2) Edrophonium:短效藥物,用來測試重症肌無力(Tensilon test),不通過 BBB 和 placenta。 - (3) Physostigmine:唯一可通過 BBB 的 cholinesterase inhibitor,所以可以治療 CNS 的副作用。 - (4) Pyridostigmine: 重症肌無力的治療藥物,俗稱大力丸。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
+- D. 非去極化肌肉鬆弛劑的 Antagonism 74 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
+- #### D. 非去極化肌肉鬆弛劑的 Antagonism Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
+- 4. 種類:(近幾年的國考沒有考太細的藥理學,可參考就好) - (1) Neostigmine: 臨床常用的肌肉鬆弛劑解藥。 - (2) Edrophonium:短效藥物,用來測試重症肌無力(Tensilon test),不通過 BBB 和 placenta。 - (3) Physostigmine:唯一可通過 BBB 的 cholinesterase inhibitor,所以可以治療 CNS 的副作用。 - (4) Pyridostigmine: 重症肌無力的治療藥物,俗稱大力丸。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
 
 ## Clinical Caveats
 

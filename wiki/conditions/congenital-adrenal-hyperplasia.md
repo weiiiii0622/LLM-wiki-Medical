@@ -33,14 +33,14 @@ tags:
 
 ## Key Details From Sources
 
-- ...】(C)、(D) 給分。 | | | (A) 10. 下列何者是女性假性陰陽人 (female pseudohermaphroditism) | 106 (一) 專 | | 最常見的原因? | 醫五 -71 | | (A) 先天腎上腺增生(congenital adrenal hyperplasia) | | | (B) 母親懷孕時服用男性荷爾蒙 | | | (C) Klinefelter's syndrome | | | (D) Turner's syndrome | | | 【詳解】新生兒陰蒂肥大 (Clitoral hypertrophy in the newborn), | | | 暗示先天性腎上腺增生(congenital adrenal hyperplasia);其他病 | | | 因包括母親中的神經纖維瘤(neuro Source: [[sources/med5-book5-ch08|辛、男性學]].
-- IV. 腎上腺一先天性腎上腺增生 287 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- # IV. 腎上腺 - 先天性腎上腺增生 (Congenital Adrenal Hyperplasia, CAH) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- ...--------------------------------------------------------------------------------------------------------------------| | 先天性腎上腺增生(21-hydroxylasedeficiency) | 先天腎上腺增生為體染色體隱性遺傳疾病。大部分是因為腎上腺21- 酵素缺乏。嬰兒會在出生後 10 天左右,因鹽分大量流失,造成低血鈉、高血鉀、嘔吐、體重不增等現象。此外,此疾病會刺激雄性素的分泌,而引起雄性化,使得嬰兒在胎兒期就會發生外陰雄性化現象。 | | 楓糖尿症 | 體染色體隱性遺傳疾病。人體中缺少支鏈甲型酮酸脫氫酵素,使得此胺基酸的代謝無法進行。症狀:在開始餵食後數天至一周 Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (A) 先天腎上腺增生症(congenital adrenal hyperplasia) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (B) 13. 一名新生兒外生殖器有性器混淆(ambiguous genitalia)現象, 103( 二 ) 專 染色體為 46,XX。最不可能的診斷為: - (A) 21-hydroxylase deficiency - (B) 17 α-hydroxylase deficiency - (C) aromatase deficiency - (D) ovotesticular disorders of sex development Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- (2) 典型 aldosterone 缺乏疾病有 Addison disease 及 congenital adrenal hyperplasia (CAH)。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
+- ...】(C)、(D) 給分。 | | | (A) 10. 下列何者是女性假性陰陽人 (female pseudohermaphroditism) | 106 (一) 專 | | 最常見的原因? | 醫五 -71 | | (A) 先天腎上腺增生(congenital adrenal hyperplasia) | | | (B) 母親懷孕時服用男性荷爾蒙 | | | (C) Klinefelter's syndrome | | | (D) Turner's syndrome | | | 【詳解】新生兒陰蒂肥大 (Clitoral hypertrophy in the newborn), | | | 暗示先天性腎上腺增生(congenital adrenal hyperplasia);其他病 | | | 因包括母親中的神經纖維瘤(neuro Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
+- IV. 腎上腺一先天性腎上腺增生 287 Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- # IV. 腎上腺 - 先天性腎上腺增生 (Congenital Adrenal Hyperplasia, CAH) Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- 1. 先天性腎上腺增生病因中,超過 90% 為 21-hydroxylase deficiency 造成。21-hydroxylase deficiency 將會造成 aldosterone and cortisol 無法正常製造。先天性腎上腺增生為 autosomal recessive disorders。 Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- ...--------------------------------------------------------------------------------------------------------------------| | 先天性腎上腺增生(21-hydroxylasedeficiency) | 先天腎上腺增生為體染色體隱性遺傳疾病。大部分是因為腎上腺21- 酵素缺乏。嬰兒會在出生後 10 天左右,因鹽分大量流失,造成低血鈉、高血鉀、嘔吐、體重不增等現象。此外,此疾病會刺激雄性素的分泌,而引起雄性化,使得嬰兒在胎兒期就會發生外陰雄性化現象。 | | 楓糖尿症 | 體染色體隱性遺傳疾病。人體中缺少支鏈甲型酮酸脫氫酵素,使得此胺基酸的代謝無法進行。症狀:在開始餵食後數天至一周 Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- (A) 先天腎上腺增生症(congenital adrenal hyperplasia) Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- (B) 13. 一名新生兒外生殖器有性器混淆(ambiguous genitalia)現象, 103( 二 ) 專 染色體為 46,XX。最不可能的診斷為: - (A) 21-hydroxylase deficiency - (B) 17 α-hydroxylase deficiency - (C) aromatase deficiency - (D) ovotesticular disorders of sex development Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- (2) 典型 aldosterone 缺乏疾病有 Addison disease 及 congenital adrenal hyperplasia (CAH)。 Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
 
 ## Clinical Caveats
 

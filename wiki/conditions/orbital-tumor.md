@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- #### 2. 眼眶腫瘤 (Orbital tumor): Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- (1) 常見的眼眶腫瘤:可分成原發性、續發性、轉移性。續發性是指由臨近眼眶的 組織器官長出來的腫瘤,如眼球內腫瘤、鼻腔或腦部的腫瘤侵犯到眼眶。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- | 眼眶腫瘤 | 成人 | 小孩 | |-----------|-------------------------------|--------------------| | 最常見的良性腫瘤 | 海綿狀血管瘤 (cavernous | 微血管瘤 (capillary | | | hemangioma) | hemangioma) | | 成人淚腺最常見的 | 混合瘤 (mixed tumor, pleomorphic | | | 原發性良性腫瘤 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- (2) 在眼睛的表現: - a. 第一型: - (a) 眼眶:視神經膠質瘤(optic nerve glioma)、蝶骨一眼眶腦膨出(spheno-orbital encephalocele) - (b) 眼瞼神經纖維瘤:眼瞼增厚且呈現 S 型異常。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- 1. 簡介:微血管瘤(capillary hemangioma)俗稱草莓痣,是孩童最常見的良性眼眶腫瘤,較好發於女嬰,且多發生在單側上眼瞼處。剛出生時可能不明顯,但會因生長加速而更明顯,不過大部份會自行萎縮變小。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
+- #### 2. 眼眶腫瘤 (Orbital tumor): Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- (1) 常見的眼眶腫瘤:可分成原發性、續發性、轉移性。續發性是指由臨近眼眶的 組織器官長出來的腫瘤,如眼球內腫瘤、鼻腔或腦部的腫瘤侵犯到眼眶。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- | 眼眶腫瘤 | 成人 | 小孩 | |-----------|-------------------------------|--------------------| | 最常見的良性腫瘤 | 海綿狀血管瘤 (cavernous | 微血管瘤 (capillary | | | hemangioma) | hemangioma) | | 成人淚腺最常見的 | 混合瘤 (mixed tumor, pleomorphic | | | 原發性良性腫瘤 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- (2) 在眼睛的表現: - a. 第一型: - (a) 眼眶:視神經膠質瘤(optic nerve glioma)、蝶骨一眼眶腦膨出(spheno-orbital encephalocele) - (b) 眼瞼神經纖維瘤:眼瞼增厚且呈現 S 型異常。 Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- 1. 簡介:微血管瘤(capillary hemangioma)俗稱草莓痣,是孩童最常見的良性眼眶腫瘤,較好發於女嬰,且多發生在單側上眼瞼處。剛出生時可能不明顯,但會因生長加速而更明顯,不過大部份會自行萎縮變小。 Source: 醫(六)第2冊眼科_第一篇、眼科_巳、小兒眼科學 Page 211-216.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論.md
+raw_source_title: "醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論"
+raw_source_file: "raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論.md"
+page_start: 85
+page_end: 106
+canonical_citation: "醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106"
 book: 醫(三)第3冊腎內感染
 chapter_order: 4
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第3冊腎內感染
 - Chapter file: `raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論.md`
+- Pages covered: 85-106
+- Canonical citation: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

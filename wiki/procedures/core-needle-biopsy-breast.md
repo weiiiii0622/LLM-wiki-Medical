@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- 2. 粗針抽吸 (core needle biopsy, CNB): - (1) 使用較粗的針,取自核心的樣本。 - (2) 可作為病理診斷依據。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- 3. 麥瑪通乳房切片診斷系統(Mammotome biopsy):與 core biopsy 原理類似,乳房超音波的導引下,使用穿刺針配合內置的圓形旋轉刀片與吸引器,將腫瘤切除並且吸引出來。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- (C) 2. 一位 45 歳女性接受篩檢乳房攝影 (screening mammography), 發 108(ニ)専現有聚集微細鈣化 (clustered microcalcification) 屬 BI-RADS IV, 醫五-37 乳房觸診未發現有硬塊,下列處置何者不宜? - (A) 安排定位切片手術(wire-localized surgical excision) - (B) 安排立體定位粗針穿刺(stereotactic core needle biopsy) - (C) 三至六個月後再追蹤乳房攝影 - (D) 安排乳房超音波檢查,確認有無乳房腫瘤存在 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- (2) 腫塊 2 公分以上、出現症狀、持續變大,必須考慮 core needle biopsy 或行 excisional biopsy。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- 2. 治療:當 core needle biopsy 檢查顯示為非典型乳管增生,需要進一步作 **surgical biopsy** 把全部腫塊取出,作進一步的病理診斷,因為約有 1/3 的病人最後被確診為乳癌。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- (D) 18. 35 歲年輕女性,左外側乳癌,離乳量 3 公分處,腫瘤大小 1 公分 101( ) 專 × 1 公分,術前粗針切片 (core biopsy) 病理證實為浸潤性管道 醫五 -38 腺癌,腋下無觸摸到之淋巴結,則下列何種手術方法最適當? - (A) 改良性根除性乳房全切除術(modified radical mastectomy) - (B) 乳房保留性手術 (breast conserving surgery) - (C) 乳房部分切除術 (partial mastectomy) - (D)乳房部分切除術 (partial mastectomy) +哨兵淋巴結手術 (sentinel node biopsy) Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- 2. 粗針抽吸 (core needle biopsy, CNB): - (1) 使用較粗的針,取自核心的樣本。 - (2) 可作為病理診斷依據。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- 3. 麥瑪通乳房切片診斷系統(Mammotome biopsy):與 core biopsy 原理類似,乳房超音波的導引下,使用穿刺針配合內置的圓形旋轉刀片與吸引器,將腫瘤切除並且吸引出來。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- (C) 2. 一位 45 歳女性接受篩檢乳房攝影 (screening mammography), 發 108(ニ)専現有聚集微細鈣化 (clustered microcalcification) 屬 BI-RADS IV, 醫五-37 乳房觸診未發現有硬塊,下列處置何者不宜? - (A) 安排定位切片手術(wire-localized surgical excision) - (B) 安排立體定位粗針穿刺(stereotactic core needle biopsy) - (C) 三至六個月後再追蹤乳房攝影 - (D) 安排乳房超音波檢查,確認有無乳房腫瘤存在 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- (2) 腫塊 2 公分以上、出現症狀、持續變大,必須考慮 core needle biopsy 或行 excisional biopsy。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- 2. 治療:當 core needle biopsy 檢查顯示為非典型乳管增生,需要進一步作 **surgical biopsy** 把全部腫塊取出,作進一步的病理診斷,因為約有 1/3 的病人最後被確診為乳癌。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- (D) 18. 35 歲年輕女性,左外側乳癌,離乳量 3 公分處,腫瘤大小 1 公分 101( ) 專 × 1 公分,術前粗針切片 (core biopsy) 病理證實為浸潤性管道 醫五 -38 腺癌,腋下無觸摸到之淋巴結,則下列何種手術方法最適當? - (A) 改良性根除性乳房全切除術(modified radical mastectomy) - (B) 乳房保留性手術 (breast conserving surgery) - (C) 乳房部分切除術 (partial mastectomy) - (D)乳房部分切除術 (partial mastectomy) +哨兵淋巴結手術 (sentinel node biopsy) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
 
 ## Clinical Caveats
 

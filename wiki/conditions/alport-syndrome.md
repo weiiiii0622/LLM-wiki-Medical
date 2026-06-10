@@ -33,16 +33,16 @@ type IV collagen 異常造成遺傳性腎炎，常合併感音性聽損與眼部
 
 ## Key Details From Sources
 
-- (b) 26~40 分貝: mild hearing loss。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- (c) 41~70 分貝:moderate hearing loss。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- (d) 71~90 分貝: severe hearing loss。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 2. Alport syndrome (hereditary nephritis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- # C. 亞伯氏症候群(Alport syndrome, AS) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 1. Congenital or acquired hearing loss Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- Sensorineural hearing loss Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...enia. | | | CMV | Microcephaly with periventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 【詳解】Nelson's Textbook of Pediatrics 21st Edition 在 Chapter 282 提到先天性感染 CMV 的新生兒,僅有 10% 有症狀。臨床上常有的表現有 patechia(54%)、jaundice(direct bilirubin > 2 mg/dL)(42%)、microcephaly(35%)、IUGR(28%)、prematurity(24%)、hepatosplenomegaly(19%)、purpura(3%)以及較少見的 sensorineural hearing loss。另外,母親感染 CMV,其分泌的母乳也可帶有 CMV 並可透過母乳餵食感染新生兒(Nelson 內文並未寫明感染機率)。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (b) 26~40 分貝: mild hearing loss。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- (c) 41~70 分貝:moderate hearing loss。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- (d) 71~90 分貝: severe hearing loss。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- III. 腎絲球腎炎 (Glomerulonephritis) 111 - A. IgA nephropathy (Berger nephropathy) 111 - B. 紫斑性腎炎 (Henoch-Schönlein purpura nephritis) 112 - C. 亞伯氏症候群 (Alport syndrome, AS) 113 - D. 急性鏈球菌感染後腎絲球腎炎 114 - E. 紅斑性狼瘡引發的腎絲球腎炎 115 - F. 膜增生性腎絲球腎炎 116 Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- 2. Alport syndrome (hereditary nephritis) Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- # C. 亞伯氏症候群(Alport syndrome, AS) Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- 1. Congenital or acquired hearing loss Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- Sensorineural hearing loss Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- ...enia. | | | CMV | Microcephaly with periventricular calcifications, thrombocytopenia, hepatosplenomegaly, sensorineural hearing loss and chorioretinitis. | | | Herpes simplex virus (HSV) | Skin vesicles, hepatitis, pneumonitis, keratoconjunctivitis, mucocutaneous lesions, encephalitis and DIC. | | | HBV | Hepatitis between 1 to 6 months of age. | | | Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- 【詳解】Nelson's Textbook of Pediatrics 21st Edition 在 Chapter 282 提到先天性感染 CMV 的新生兒,僅有 10% 有症狀。臨床上常有的表現有 patechia(54%)、jaundice(direct bilirubin > 2 mg/dL)(42%)、microcephaly(35%)、IUGR(28%)、prematurity(24%)、hepatosplenomegaly(19%)、purpura(3%)以及較少見的 sensorineural hearing loss。另外,母親感染 CMV,其分泌的母乳也可帶有 CMV 並可透過母乳餵食感染新生兒(Nelson 內文並未寫明感染機率)。 Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
 
 ## Clinical Caveats
 

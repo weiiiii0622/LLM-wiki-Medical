@@ -27,9 +27,9 @@ RSI 用於高誤吸風險或急症氣道，重點是預氧、快速誘導、肌�
 
 ## Key Details From Sources
 
-- B. 快速插管 (Rapid sequence intubation, RSI) 15 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
-- #### B. 快速插管 (Rapid sequence intubation, RSI) Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
-- ...ne (1.5 mg/kg) - e. Succinylcholine (1~1.5 mg/kg) • - f. Rocuronium $(0.6\sim1.2 \text{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick maneuver): 使用食指和拇指將環 狀軟骨向下施壓氣管後方的食道,主要目的是在於防止胃食道逆流造成吸入性 肺炎。(比較:幫助插管的 BURP 手法,是壓甲狀軟骨) Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- B. 快速插管 (Rapid sequence intubation, RSI) 15 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
+- #### B. 快速插管 (Rapid sequence intubation, RSI) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
+- ...ne (1.5 mg/kg) - e. Succinylcholine (1~1.5 mg/kg) • - f. Rocuronium $(0.6\sim1.2 \text{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick maneuver): 使用食指和拇指將環 狀軟骨向下施壓氣管後方的食道,主要目的是在於防止胃食道逆流造成吸入性 肺炎。(比較:幫助插管的 BURP 手法,是壓甲狀軟骨) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
 
 ## Clinical Caveats
 

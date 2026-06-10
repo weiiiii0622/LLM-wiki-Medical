@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_辛、輸血.md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_辛、輸血"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_辛、輸血.md"
+page_start: 201
+page_end: 206
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_辛、輸血 Page 201-206"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 17
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_辛、輸血.md`
+- Pages covered: 201-206
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_辛、輸血 Page 201-206
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

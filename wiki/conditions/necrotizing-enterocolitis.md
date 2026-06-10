@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- F. 壞死性腸炎 (Necrotizing enterocolitis, NEC) 155 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ### F. 壞死性腸炎 (Necrotizing enterocolitis, NEC) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 6. 檢查 & 診斷:腹部 X 光呈氣腸壁(pneumatosis intestinalis),為細菌發酵腸壁產生氫氣,或呈現肝門靜脈氣(portal venous gas)、腹水、固定的小腸扭結環(fixed loops of small bowel)、腸道外氣體(站立或平躺,ex:football sign)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
+- F. 壞死性腸炎 (Necrotizing enterocolitis, NEC) 155 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- ### F. 壞死性腸炎 (Necrotizing enterocolitis, NEC) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- 6. 檢查 & 診斷:腹部 X 光呈氣腸壁(pneumatosis intestinalis),為細菌發酵腸壁產生氫氣,或呈現肝門靜脈氣(portal venous gas)、腹水、固定的小腸扭結環(fixed loops of small bowel)、腸道外氣體(站立或平躺,ex:football sign)。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (1) VSD 大小雖是影響心室間 left-to-right shunt 的重要但非唯一的因子;肺血管阻力與全身性血管阻力之間的相關性也是影響關鍵。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
-- (3) 新生兒若伴隨較大 VSD,由於剛出生時肺血管阻力較高,所以 left-to-right shunt 不明顯;隨著出生後幾週肺血管阻力慢慢下降,left-to-right shunt 也逐漸增加, 因此症狀也跟著出現。 Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- Ⅲ 非發紺型先天性心臟病 16 - A. 心室中膈缺損 (Ventricular septal defect, VSD) 16 - B. 心房中膈缺損 (Atrial septal defect, ASD) 17 - C. 開放性動脈導管 (Patent ductus arteriosus, PDA) 22 - D. 肺動脈瓣狹窄 (Pulmonary valve stenosis, PVS) 25 - E. 主動脈瓣狹窄 (Aortic stenosis) 26 - F. 主動脈窄縮 (Coarctation of the aorta, COA) 27 Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
+- (1) VSD 大小雖是影響心室間 left-to-right shunt 的重要但非唯一的因子;肺血管阻力與全身性血管阻力之間的相關性也是影響關鍵。 Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
+- (3) 新生兒若伴隨較大 VSD,由於剛出生時肺血管阻力較高,所以 left-to-right shunt 不明顯;隨著出生後幾週肺血管阻力慢慢下降,left-to-right shunt 也逐漸增加, 因此症狀也跟著出現。 Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
 
 ## Clinical Caveats
 

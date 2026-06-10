@@ -1,6 +1,7 @@
 # Tools and Skills for Future Codex Sessions
 
 This vault uses plain markdown plus Obsidian. `tools/ingest_topic_book.py` is the reusable deterministic ingest helper for chapter-split textbooks.
+Use `tools/update_raw_citations.py` whenever source pages or topic citations need to resolve to raw chapter/page provenance.
 
 ## Required Habits
 
@@ -10,6 +11,7 @@ This vault uses plain markdown plus Obsidian. `tools/ingest_topic_book.py` is th
 - Use `apply_patch` for edits.
 - Keep `raw/` immutable.
 - Update `wiki/index.md` and append `wiki/log.md` after every ingest or durable query.
+- Final answer sources must cite raw source chapters with page ranges, not LLM-generated topic pages.
 
 ## Obsidian Setup
 
@@ -42,6 +44,24 @@ For high-stakes or current claims, prefer:
 
 Do not treat old notes or unsourced summaries as final authority.
 
+## Query Citation Policy
+
+Read `docs/query-citation-policy.md` before building query-answer behavior for Codex, Hermes, or other agents.
+
+Short rule:
+
+- Use topic pages for retrieval and synthesis.
+- Use `wiki/sources/*` `canonical_citation` fields for final answer source lists.
+- Do not cite `[[conditions/...]]`, `[[anatomy/...]]`, `[[concepts/...]]`, or other topic nodes as sources.
+- If a topic page says `Source: 醫(三)... Page 133-138`, cite that raw chapter/page text directly.
+
+Refresh raw citations after ingest or source edits:
+
+```bash
+python3 tools/update_raw_citations.py --dry-run
+python3 tools/update_raw_citations.py
+```
+
 ## Textbook Ingest Tool
 
 Use this when a textbook folder under `raw/books/md/` contains one full-book markdown file plus chapter-split markdown files.
@@ -59,7 +79,7 @@ What it does:
 - Creates topic-first nodes under `wiki/conditions/`, `wiki/drugs/`, `wiki/diagnostics/`, `wiki/procedures/`, `wiki/guidelines/`, `wiki/physiology/`, `wiki/anatomy/`, and `wiki/concepts/`.
 - Updates existing topic nodes when a later textbook overlaps earlier knowledge; avoid duplicate nodes for the same disease, drug, diagnostic, procedure, guideline, anatomy, physiology, or concept.
 - Creates new topic nodes only for concrete medical entities or workflows that are not already represented.
-- Uses source pages as citation anchors; chapter titles should not become the main graph shape.
+- Uses source pages as internal citation anchors; final answer citations should resolve to raw chapter/page provenance.
 - Keeps `wiki/sources/index.md` and category indexes cumulative across all ingested textbooks.
 - Updates `wiki/index.md`, `wiki/sources/index.md`, category indexes, `wiki/overview.md`, and `wiki/log.md`.
 - Writes a health-check file under `docs/`.

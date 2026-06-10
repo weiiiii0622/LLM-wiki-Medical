@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- ...腹探查的明顯適應症 (D) 不明原因的休克或是低血壓 【詳解】當病人狀況需要剖腹探查時,則應立即採取剖腹探查, 而非腹腔灌洗術(腹膜沖洗)。 (D) 6. 嚴重外傷病患呈現腹內大量出血及休克時,有時必須採用傷害控 106(一)專 制手術 (damage control surgery) 於短時間內來控制出血及其他 醫五-4 搶救步驟,以挽救生命。否則會出現致死三元素(lethal triad)。 下列何者不屬於 lethal triad ? (A) 凝血機能不全 (coagulopathy) (B) 代謝性酸中毒 (metabolic acidosis) (C) 低體溫 (hypothermia) (D) 敗血症 (sepsis) 【詳解】對於嚴重創傷患者,出血過多為最常見死因,當其 vital sign 不穩定時 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
+- ...腹探查的明顯適應症 (D) 不明原因的休克或是低血壓 【詳解】當病人狀況需要剖腹探查時,則應立即採取剖腹探查, 而非腹腔灌洗術(腹膜沖洗)。 (D) 6. 嚴重外傷病患呈現腹內大量出血及休克時,有時必須採用傷害控 106(一)專 制手術 (damage control surgery) 於短時間內來控制出血及其他 醫五-4 搶救步驟,以挽救生命。否則會出現致死三元素(lethal triad)。 下列何者不屬於 lethal triad ? (A) 凝血機能不全 (coagulopathy) (B) 代謝性酸中毒 (metabolic acidosis) (C) 低體溫 (hypothermia) (D) 敗血症 (sepsis) 【詳解】對於嚴重創傷患者,出血過多為最常見死因,當其 vital sign 不穩定時 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_庚、急救外傷 Page 87-96.
 
 ## Clinical Caveats
 

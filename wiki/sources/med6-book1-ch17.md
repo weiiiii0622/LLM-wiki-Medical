@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第五篇、內視鏡_甲、腹腔鏡(Laparoscopy).md
+raw_source_title: "醫(六)第1冊婦產_第五篇、內視鏡_甲、腹腔鏡(Laparoscopy)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第五篇、內視鏡_甲、腹腔鏡(Laparoscopy).md"
+page_start: 457
+page_end: 464
+canonical_citation: "醫(六)第1冊婦產_第五篇、內視鏡_甲、腹腔鏡(Laparoscopy) Page 457-464"
 book: 醫(六)第1冊婦產
 chapter_order: 17
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第五篇、內視鏡_甲、腹腔鏡(Laparoscopy).md`
+- Pages covered: 457-464
+- Canonical citation: 醫(六)第1冊婦產_第五篇、內視鏡_甲、腹腔鏡(Laparoscopy) Page 457-464
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

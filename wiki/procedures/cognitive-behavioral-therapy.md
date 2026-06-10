@@ -35,13 +35,13 @@ tags:
 
 ## Key Details From Sources
 
-- 2. 認知行為治療與心理治療:可與藥物治療合併。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (A) 認知行為治療(cognitive behavioral therapy)效果不佳 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 藥物治療:〈合併認知行為治療(cognitive behavior therapy)效果最佳〉 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 【詳解】憂鬱症的認知理論:對事情有錯誤認知→影響情緒→產生憂鬱症相關的行為與症狀,因此憂鬱症的認知行為治療(Cognitive behavior therapy, CBT),便是利用心理治療改變患者的錯誤認知,進而改善憂鬱症狀。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 心理治療包括團體心理治療、個別心理治療、認知行為治療等。個別心理治療的 重點在支持性治療,包括情緒支持,疾病衛教等。團體心理治療的重點則在於情緒支持,人際關係互動的增進,社交技巧的訓練等。 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- 2. 心理治療:其中包括認知行為治療(cognitive-behavioral therapy)、動力取向心理治療(dynamic psychotherapy)、家庭治療(family therapy)等。 Source: [[sources/med4-book3-ch04|丁、身體型疾患]].
-- (D) 認知行為治療(cognitive-behavioral therapy)對自閉症的焦慮、憂鬱及強迫症狀具有治療效果 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
+- 2. 認知行為治療與心理治療:可與藥物治療合併。 Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- (A) 認知行為治療(cognitive behavioral therapy)效果不佳 Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- 藥物治療:〈合併認知行為治療(cognitive behavior therapy)效果最佳〉 Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- 【詳解】憂鬱症的認知理論:對事情有錯誤認知→影響情緒→產生憂鬱症相關的行為與症狀,因此憂鬱症的認知行為治療(Cognitive behavior therapy, CBT),便是利用心理治療改變患者的錯誤認知,進而改善憂鬱症狀。 Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- 心理治療包括團體心理治療、個別心理治療、認知行為治療等。個別心理治療的 重點在支持性治療,包括情緒支持,疾病衛教等。團體心理治療的重點則在於情緒支持,人際關係互動的增進,社交技巧的訓練等。 Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
+- 2. 心理治療:其中包括認知行為治療(cognitive-behavioral therapy)、動力取向心理治療(dynamic psychotherapy)、家庭治療(family therapy)等。 Source: 醫(四)第3冊精神科_丁、身體型疾患 Page 89-118.
+- (D) 認知行為治療(cognitive-behavioral therapy)對自閉症的焦慮、憂鬱及強迫症狀具有治療效果 Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
 
 ## Clinical Caveats
 

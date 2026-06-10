@@ -31,13 +31,13 @@ tags:
 
 ## Key Details From Sources
 
-- IV. 輕鬱症 (Dysthymic Disorder) 26 - A. 診 斷 26 - B. 抗憂鬱藥物 (Antidepressants) 42 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 憂鬱性疾患 (depressive disorders) 包括: - 重鬱症 (major depressive disorder)。 - 輕鬱症(dysthymic disorder)。 - ■其他未註明之憂鬱性疾患。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 病人過去診斷符合輕鬱症(dysthymic disorder),可能後來因為某些因素而情緒 惡化到符合重鬱症的診斷,即病人過去是輕鬱症後來併發重度憂鬱症。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- (A) 情緒低落症 (dysthymic disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 3. 合併其他如重鬱症、輕鬱症、與物質濫用也很常見。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 【詳解】(A) 常合併重度憂鬱症、恐慌症、輕鬱症與物質濫用。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 安非他命是一種中樞神經興奮劑,美國 FDA 也核准使用在注意力缺乏與過動症(ADHD)與猝睡症(narcolepsy)的病人身上,也常被用來當作治療肥胖、憂鬱、輕鬱症、神經衰弱(neurasthenia)、長期疲勞症候群(chronic fatigue syndrome)或是藥物治療無效的憂鬱症等。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- IV. 輕鬱症 (Dysthymic Disorder) 26 - A. 診 斷 26 - B. 抗憂鬱藥物 (Antidepressants) 42 Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- 憂鬱性疾患 (depressive disorders) 包括: - 重鬱症 (major depressive disorder)。 - 輕鬱症(dysthymic disorder)。 - ■其他未註明之憂鬱性疾患。 Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- 病人過去診斷符合輕鬱症(dysthymic disorder),可能後來因為某些因素而情緒 惡化到符合重鬱症的診斷,即病人過去是輕鬱症後來併發重度憂鬱症。 Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- (A) 情緒低落症 (dysthymic disorder) Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- 3. 合併其他如重鬱症、輕鬱症、與物質濫用也很常見。 Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- 【詳解】(A) 常合併重度憂鬱症、恐慌症、輕鬱症與物質濫用。 Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- 安非他命是一種中樞神經興奮劑,美國 FDA 也核准使用在注意力缺乏與過動症(ADHD)與猝睡症(narcolepsy)的病人身上,也常被用來當作治療肥胖、憂鬱、輕鬱症、神經衰弱(neurasthenia)、長期疲勞症候群(chronic fatigue syndrome)或是藥物治療無效的憂鬱症等。 Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
 
 ## Clinical Caveats
 

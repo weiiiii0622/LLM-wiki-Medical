@@ -33,12 +33,12 @@ tags:
 
 ## Key Details From Sources
 
-- C. 縱隔腔腫瘤 (Mediastinal tumor) 67 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- ### C. 縱隔脖腫瘤 (Mediastinal tumor) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- (D) 1. 關於縱膈腔腫瘤之臨床症狀及診斷,下列敘述何者錯誤? Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- Mediastinal tumor resection Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- (C) 前縱隔腔腫瘤 (anterior mediastinal tumor) Source: [[sources/med5-book4-ch03|丙、肺]].
-- (A) 縱隔腔腫瘤 (mediastinal tumor) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- C. 縱隔腔腫瘤 (Mediastinal tumor) 67 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90.
+- ### C. 縱隔脖腫瘤 (Mediastinal tumor) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90.
+- (D) 1. 關於縱膈腔腫瘤之臨床症狀及診斷,下列敘述何者錯誤? Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90.
+- Mediastinal tumor resection Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- (C) 前縱隔腔腫瘤 (anterior mediastinal tumor) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- (A) 縱隔腔腫瘤 (mediastinal tumor) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
 
 ## Clinical Caveats
 

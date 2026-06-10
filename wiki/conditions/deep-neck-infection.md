@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- IV. 深頸部感染 (Deep Neck Infection) 223 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- #### IV. 深頸部感染 (Deep Neck Infection) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- 1. 深頸部感染是指頸部深處的組織或間隙受到感染,引發蜂窩性組織炎,若不進一步 的治療可能會引起膿瘍的形成。這些深頸部的感染通常是由口腔、口咽、腮腺、鼻 竇、下顎、中耳、牙齒等感染後續發引起。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- IV. 深頸部感染 (Deep Neck Infection) 223 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- #### IV. 深頸部感染 (Deep Neck Infection) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- 1. 深頸部感染是指頸部深處的組織或間隙受到感染,引發蜂窩性組織炎,若不進一步 的治療可能會引起膿瘍的形成。這些深頸部的感染通常是由口腔、口咽、腮腺、鼻 竇、下顎、中耳、牙齒等感染後續發引起。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

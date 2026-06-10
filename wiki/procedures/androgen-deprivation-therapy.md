@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (e) 術後預後的預測因子:看切下來的檢體與抽 PSA 判斷。 - i. 腫瘤範圍 (T): T3a 以內 10 年存活率 80%; T3b 以上 10 年存活率 40%。 - ii. 淋巴結(N):若切下來為N(+),則85%已有遠端轉移。若有淋巴轉移, 需加作輔助賀爾蒙治療 (adjuvant androgen deprivation therapy)。 - iii. Gleason score: 7: 15%。 - iv. PSA: 切除後應在 6 週內降至 0,若之後≥ 0.2 ng/ml 則懷疑復發。目前淋巴轉移與否最佳指標就是追蹤 PSA 變化,甚至比 CT 還要早發現。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (3) 侵犯超過局部/轉移: T3b 以上或 N+或 M+。 - a. 治療初期: 賀爾蒙治療 (endocrine therapy)。 - (a) 治療方式:服用藥物或睪丸切除術。 - (b) 原理:攝護腺癌初期有雄性素依賴性,生長需要有雄性素。所以把雄性素阻斷可讓攝護腺癌成長停滯或萎縮。雄性素(androgen)是一群男性賀爾蒙的總稱,主要有睪固酮、雙氫睪固酮。 - i. 睪固酮 (testosterone): - (i) 用途:幼年可使性器發展與 產生第二性徵,成人可增強 性欲性功能、提升骨密度與 肌肉力量。 - (ii) 合成路徑:下視丘分泌 LHRH(又稱GnRH)到腦 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- Hormonal interventions and endocrine axis in prostate cancer. DHT, dihydrotestosterone; LH, luteinizing hormone. \*Abarelix is no longer available for new patients in the United States. (From Sharifi N, Gulley JL, Dahut WL. Androgen deprivation therapy for prostate cancer. JAMA 2005; 294: 238-44.) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (e) 術後預後的預測因子:看切下來的檢體與抽 PSA 判斷。 - i. 腫瘤範圍 (T): T3a 以內 10 年存活率 80%; T3b 以上 10 年存活率 40%。 - ii. 淋巴結(N):若切下來為N(+),則85%已有遠端轉移。若有淋巴轉移, 需加作輔助賀爾蒙治療 (adjuvant androgen deprivation therapy)。 - iii. Gleason score: 7: 15%。 - iv. PSA: 切除後應在 6 週內降至 0,若之後≥ 0.2 ng/ml 則懷疑復發。目前淋巴轉移與否最佳指標就是追蹤 PSA 變化,甚至比 CT 還要早發現。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- (3) 侵犯超過局部/轉移: T3b 以上或 N+或 M+。 - a. 治療初期: 賀爾蒙治療 (endocrine therapy)。 - (a) 治療方式:服用藥物或睪丸切除術。 - (b) 原理:攝護腺癌初期有雄性素依賴性,生長需要有雄性素。所以把雄性素阻斷可讓攝護腺癌成長停滯或萎縮。雄性素(androgen)是一群男性賀爾蒙的總稱,主要有睪固酮、雙氫睪固酮。 - i. 睪固酮 (testosterone): - (i) 用途:幼年可使性器發展與 產生第二性徵,成人可增強 性欲性功能、提升骨密度與 肌肉力量。 - (ii) 合成路徑:下視丘分泌 LHRH(又稱GnRH)到腦 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- Hormonal interventions and endocrine axis in prostate cancer. DHT, dihydrotestosterone; LH, luteinizing hormone. \*Abarelix is no longer available for new patients in the United States. (From Sharifi N, Gulley JL, Dahut WL. Androgen deprivation therapy for prostate cancer. JAMA 2005; 294: 238-44.) Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
 
 ## Clinical Caveats
 

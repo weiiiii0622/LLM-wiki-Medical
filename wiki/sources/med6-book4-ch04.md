@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用.md
+raw_source_title: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用"
+raw_source_file: "raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用.md"
+page_start: 57
+page_end: 58
+canonical_citation: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用 Page 57-58"
 book: 醫(六)第4冊麻醉耳鼻喉
 chapter_order: 4
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第4冊麻醉耳鼻喉
 - Chapter file: `raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用.md`
+- Pages covered: 57-58
+- Canonical citation: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用 Page 57-58
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

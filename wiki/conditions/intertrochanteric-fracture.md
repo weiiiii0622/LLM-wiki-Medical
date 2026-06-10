@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 轉子間骨折(Intertrochanteric fracture) 51 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (B) 股骨轉子間骨折 (femoral intertrochanteric fracture) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- #### B. 轉子間骨折 (Intertrochanteric fracture) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- B. 轉子間骨折(Intertrochanteric fracture) 51 Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
+- (B) 股骨轉子間骨折 (femoral intertrochanteric fracture) Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
+- #### B. 轉子間骨折 (Intertrochanteric fracture) Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
 
 ## Clinical Caveats
 

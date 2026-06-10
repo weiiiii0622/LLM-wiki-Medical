@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_庚、息肉.md
+raw_source_title: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_庚、息肉"
+raw_source_file: "raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_庚、息肉.md"
+page_start: 163
+page_end: 168
+canonical_citation: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_庚、息肉 Page 163-168"
 book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 chapter_order: 15
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 - Chapter file: `raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_庚、息肉.md`
+- Pages covered: 163-168
+- Canonical citation: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_庚、息肉 Page 163-168
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

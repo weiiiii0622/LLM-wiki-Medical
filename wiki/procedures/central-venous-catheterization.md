@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### 2. 中央靜脈導管 (Central venous catheter) Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- b. 給予藥物:可以藉由 CVC 給予病人化療藥物、升壓劑、Total parenteral nutrition (TPN)。由於這些藥物較屬刺激性,若從周邊給予,可能會造成靜脈炎 (phlebitis)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- a. 中央靜脈導管可以反映出右心室功能,而在任何一邊心室功能降低造成兩邊 血液動力學不協調時,就必須使用肺動脈導管法。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- #### 2. 中央靜脈導管 (Central venous catheter) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- b. 給予藥物:可以藉由 CVC 給予病人化療藥物、升壓劑、Total parenteral nutrition (TPN)。由於這些藥物較屬刺激性,若從周邊給予,可能會造成靜脈炎 (phlebitis)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- a. 中央靜脈導管可以反映出右心室功能,而在任何一邊心室功能降低造成兩邊 血液動力學不協調時,就必須使用肺動脈導管法。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
 
 ## Clinical Caveats
 

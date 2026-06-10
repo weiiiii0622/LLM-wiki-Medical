@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- ...orphic | | | 原發性良性腫瘤 | lacrimal gland adenoma) | | | 最常見的原發性惡性 | 淚腺腺狀囊樣癌 (adenoid cystic | 横紋肌肉瘤 | | 腫瘤 | carcinoma) | (rhabdomyosarcoma) | | 最常見的轉移性惡性 | 男:肺癌 | 神經母細胞瘤 | | 腫瘤 | 女:乳癌 | (neuroblastoma) | | 小孩最常見的續發性 | | 視網膜胚母細胞瘤 | | 惡性腫瘤 | | (retinoblastoma) | Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- E. 橫紋肌肉瘤(Rhabdomyosarcoma, RMS) 197 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- ### E. 橫紋肌肉瘤 (Rhabdomyosarcoma, RMS) Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- (C) 1. 下列何者是兒童惡性橫紋肌肉瘤(rhabdomyosarcoma)較不好發 108(ニ)専 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- 3. 臨床表現: 通常以單側肺或單肺葉出現,於周產期會出現危及生命的呼吸窘迫情形。 - (1) 大多數在病嬰時期無症狀。而未被診斷出之病嬰,稍後會以慢性咳嗽或是反覆 肺炎表現。 - (2) 之後會有惡性癌化轉變,過去紀錄有發生過橫紋肌肉瘤(rhabdomyosarcoma) 或肋膜肺母細胞瘤(pleuropulmonary blastoma)。 - (3) 補充: 周產期 (Perinatal period) 指胎兒滿 22 週到出生後 1 週。 - (4) 延伸補充:過去有很多種分類方式,不過目前認為病灶的大小及後續的病生理變化才是決定預後最重要的因素。過大的肺部腫塊壓迫到食道會因為影響吞嚥而造成羊水過多的症狀,相反的經過一些有效的胎兒治療,羊水過多的狀況也會有所改善 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- ...orphic | | | 原發性良性腫瘤 | lacrimal gland adenoma) | | | 最常見的原發性惡性 | 淚腺腺狀囊樣癌 (adenoid cystic | 横紋肌肉瘤 | | 腫瘤 | carcinoma) | (rhabdomyosarcoma) | | 最常見的轉移性惡性 | 男:肺癌 | 神經母細胞瘤 | | 腫瘤 | 女:乳癌 | (neuroblastoma) | | 小孩最常見的續發性 | | 視網膜胚母細胞瘤 | | 惡性腫瘤 | | (retinoblastoma) | Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- E. 橫紋肌肉瘤(Rhabdomyosarcoma, RMS) 197 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_辛、惡性腫瘤 Page 205-216.
+- ### E. 橫紋肌肉瘤 (Rhabdomyosarcoma, RMS) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_辛、惡性腫瘤 Page 205-216.
+- (C) 1. 下列何者是兒童惡性橫紋肌肉瘤(rhabdomyosarcoma)較不好發 108(ニ)専 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_辛、惡性腫瘤 Page 205-216.
+- 3. 臨床表現: 通常以單側肺或單肺葉出現,於周產期會出現危及生命的呼吸窘迫情形。 - (1) 大多數在病嬰時期無症狀。而未被診斷出之病嬰,稍後會以慢性咳嗽或是反覆 肺炎表現。 - (2) 之後會有惡性癌化轉變,過去紀錄有發生過橫紋肌肉瘤(rhabdomyosarcoma) 或肋膜肺母細胞瘤(pleuropulmonary blastoma)。 - (3) 補充: 周產期 (Perinatal period) 指胎兒滿 22 週到出生後 1 週。 - (4) 延伸補充:過去有很多種分類方式,不過目前認為病灶的大小及後續的病生理變化才是決定預後最重要的因素。過大的肺部腫塊壓迫到食道會因為影響吞嚥而造成羊水過多的症狀,相反的經過一些有效的胎兒治療,羊水過多的狀況也會有所改善 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丙、胸腔及縱隔腔 Page 149-156.
 
 ## Clinical Caveats
 

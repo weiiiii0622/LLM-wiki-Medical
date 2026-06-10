@@ -71,24 +71,24 @@ tags:
 
 ## Key Details From Sources
 
-- 廣泛性的疼痛,較難有明確的痛點,有時也會轉移至其他地方,或伴隨噁心嘔吐。 通常是因為組織損傷,如心肌梗塞、腸胃炎、闌尾炎、癌症侵犯至內臟器官,或者 是腫瘤壓迫所造成的疼痛。 Source: [[sources/med6-book4-ch09|壬、疼 痛]].
-- (4) 症狀:通常為單側發生、視力模糊、虹視(halo vision)、瞳孔半放大且固定無 光反應(mid-dilated,fix pupil)、眼睛發紅、結膜充血、角膜水腫、眼睛脹痛、 頭痛、噁心嘔吐。急性青光眼發作時,常因血壓升高、嘔吐等而被誤診為高血 壓急症或腸胃炎,而導致錯誤治療使其不易緩解,甚至造成失明。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- (C) peptic ulcer (D) gastritis Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- b. Postgastrectomy syndromes: - (a) 較符合生理狀態,但因幽門被切除,容易 有膽汁的逆流現像,造成逆行性胃炎症狀 如噁心嘔吐。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (b) 因為空腸和胃吻合後膽汁會流經胃,容易造成逆流性胃炎、輸入盲端症候群 (afferent loop syndrome)、傾食症候群 (dumping syndrome),得到殘胃癌機會大於 Billroth I。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (C) 急性腸胃炎 (acute gastroenteritis) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- ...cal cyst) | 醫五-51 | | | (B) 急性腸系膜缺血性疾病(mesenteric ischemia) | | | | (C) 消化性潰瘍穿孔(perforated peptic ulcer) | | | | (D) 急性腸胃炎 (acute gastroenteritis) | | | (D) | 4. 下列關於膽囊癌之敘述,何者錯誤? | 99(二)專 | | | (A) 好發於女性 | 醫五 -25 | | | (B) 與膽結石相關性密切 | | | | (C) 多數病人發病時已屬晚期,無法手術治癒 | | | | (D) 因極易侵犯,預後不佳,故即使是第一期疾病,除切除膽囊 | | | | 外亦須切除部分肝臟並進行淋巴結廓清 | | | (D) | 5 Source: [[sources/med5-book3-ch16|戊、膽管癌]].
-- (C) 急性腸胃炎 (acutegastroenteritis) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- ...100 pg/mL • - b. Basal gastric acid output (BAO,基礎胃酸分泌量) > 15 mEq/hr。 - c. 如果 hypergastrinemia 但 BAO 沒上升,則考慮是:atrophic gastritis、renal failure、病人正在服用 H2 antagonist 或 PPI。 - d. 但有些情況也會同時有 fasting hypergastrinemia 及 BAO 上升: retained gastric antrum syndrome、gastric outlet obstruction、antral G-cell hyperplasia。所以需再進一步作 Secretin 刺激檢驗。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- ...-----------| | 1. 腸套疊 | 7. 疝氣 | | 2. 巨腸症 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 泌尿道感染或腎盂腎炎 | | 4. 腸扭轉或是腸阻塞 | 10. 胰臟炎 | | 5. 腸胃炎 | 11. 外傷 | | 6. 肺炎 | | | 3~11 歲: | | | 1. 急性闌尾炎 | 7. 腎盂腎炎 | | 2. 外傷 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 胰臟炎 | | 4. 急性腸胃炎 | 10. 腸扭轉或腸阻塞 | | 5. 肺炎 | 11. 腸系膜淋巴瘤 | | 6. 類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (3) 病毒性腸胃炎不需使用抗生素,以支持性療法即可。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (4) 細菌性腸胃炎:視病菌及臨床狀況可考慮給予抗生素。 - a. Enterotoxigenic E. coli: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metroni Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (B) 6. 一位 3 歲病童在一次急性腸胃炎之後,突然發生急性腎衰竭、黃 101(二)專 疸、貧血及血小板缺少。周邊血液抹片紅血球可看到很多 helmet cell 及 spherocyte。他最有可能得了下列那一種疾病? - 醫四 -26 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (A) 1. 下列何種情形與鉀離子流失所造成的低血鉀 (Hypokalemia ) 最 108( 二 ) 專 無關? - (A) 注射胰島素 (Insulin) - (B) 長期使用利尿劑 (Long-term usage of diuretics) - (C) 腸胃炎引起腹瀉(Gastroenteritis induced diarrhea) - (D) 腎小管酸血症 (Renal tubular acidosis) Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- ...l sign)。實驗室檢查顯示血糖值為50 mg/dL,血清鈉離子濃度 125 mmol/L、鉀離子濃度 3.6 mmol/L、氯離子濃度 80 mmol/L,尿液鈉離子濃度 50 mmol/L。此病童最可能的診斷為何? - (A) 急性腸胃炎 (acute gastroenteritis) - (B) 心臟衰竭 (heart failure) - (C) 腦炎 (encephalitis) - (D) 腎上腺機能不全 (adrenal insufficiency) Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 【詳解】題目敘述中,病人出現低血糖、低血鈉,脫水症狀,低血壓,及意識不清,可聯想至 adrenal insufficiency。其尿鈉高(>25)表示鈉由 renal loss,故不像急性腸胃炎或心臟衰竭,無局部神經學症狀,故也不像腦炎。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (D) 12. 一位 7 歲大的女孩,因腸胃炎就診被發現有貧血現象,過去無重大疾病史,一般發育無明顯異常。進一步血液檢查結果如下:WBC: 3,400/mm³、segment 32%、lymphocyte 62%、RBC: 6.0×106/mm³、Hb: 10.2 g/dL、MCV: 63 fL、MCH: 22 pg、MCHC: 31.4 g/dL、RDW(RBC distribution width)值在正常之下; HbA1: 92.4%、HbA2: 5.2%、HbF: 2.4%。顯示該女孩最有可能是: Source: [[sources/med4-book1-ch08|辛、血液學]].
+- 廣泛性的疼痛,較難有明確的痛點,有時也會轉移至其他地方,或伴隨噁心嘔吐。 通常是因為組織損傷,如心肌梗塞、腸胃炎、闌尾炎、癌症侵犯至內臟器官,或者 是腫瘤壓迫所造成的疼痛。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_壬、疼痛 Page 101-110.
+- (4) 症狀:通常為單側發生、視力模糊、虹視(halo vision)、瞳孔半放大且固定無 光反應(mid-dilated,fix pupil)、眼睛發紅、結膜充血、角膜水腫、眼睛脹痛、 頭痛、噁心嘔吐。急性青光眼發作時,常因血壓升高、嘔吐等而被誤診為高血 壓急症或腸胃炎,而導致錯誤治療使其不易緩解,甚至造成失明。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- (C) peptic ulcer (D) gastritis Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- b. Postgastrectomy syndromes: - (a) 較符合生理狀態,但因幽門被切除,容易 有膽汁的逆流現像,造成逆行性胃炎症狀 如噁心嘔吐。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- (b) 因為空腸和胃吻合後膽汁會流經胃,容易造成逆流性胃炎、輸入盲端症候群 (afferent loop syndrome)、傾食症候群 (dumping syndrome),得到殘胃癌機會大於 Billroth I。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- (C) 急性腸胃炎 (acute gastroenteritis) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
+- ...cal cyst) | 醫五-51 | | | (B) 急性腸系膜缺血性疾病(mesenteric ischemia) | | | | (C) 消化性潰瘍穿孔(perforated peptic ulcer) | | | | (D) 急性腸胃炎 (acute gastroenteritis) | | | (D) | 4. 下列關於膽囊癌之敘述,何者錯誤? | 99(二)專 | | | (A) 好發於女性 | 醫五 -25 | | | (B) 與膽結石相關性密切 | | | | (C) 多數病人發病時已屬晚期,無法手術治癒 | | | | (D) 因極易侵犯,預後不佳,故即使是第一期疾病,除切除膽囊 | | | | 外亦須切除部分肝臟並進行淋巴結廓清 | | | (D) | 5 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_戊、膽管癌 Page 167-176.
+- (C) 急性腸胃炎 (acutegastroenteritis) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_己、周邊血管疾病 Page 95-104.
+- ...100 pg/mL • - b. Basal gastric acid output (BAO,基礎胃酸分泌量) > 15 mEq/hr。 - c. 如果 hypergastrinemia 但 BAO 沒上升,則考慮是:atrophic gastritis、renal failure、病人正在服用 H2 antagonist 或 PPI。 - d. 但有些情況也會同時有 fasting hypergastrinemia 及 BAO 上升: retained gastric antrum syndrome、gastric outlet obstruction、antral G-cell hyperplasia。所以需再進一步作 Secretin 刺激檢驗。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丙、胰島細胞瘤 Page 241-246.
+- ...-----------| | 1. 腸套疊 | 7. 疝氣 | | 2. 巨腸症 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 泌尿道感染或腎盂腎炎 | | 4. 腸扭轉或是腸阻塞 | 10. 胰臟炎 | | 5. 腸胃炎 | 11. 外傷 | | 6. 肺炎 | | | 3~11 歲: | | | 1. 急性闌尾炎 | 7. 腎盂腎炎 | | 2. 外傷 | 8. 睪丸扭轉 | | 3. Meckel 氏憩室炎 | 9. 胰臟炎 | | 4. 急性腸胃炎 | 10. 腸扭轉或腸阻塞 | | 5. 肺炎 | 11. 腸系膜淋巴瘤 | | 6. 類過敏性紫斑症 | | | 11 歲以上: | | | 1. 急性闌尾炎 | 6. 肺炎 | | 2. 急性腸胃 Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- (3) 病毒性腸胃炎不需使用抗生素,以支持性療法即可。 Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- (4) 細菌性腸胃炎:視病菌及臨床狀況可考慮給予抗生素。 - a. Enterotoxigenic E. coli: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metroni Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- (B) 6. 一位 3 歲病童在一次急性腸胃炎之後,突然發生急性腎衰竭、黃 101(二)專 疸、貧血及血小板缺少。周邊血液抹片紅血球可看到很多 helmet cell 及 spherocyte。他最有可能得了下列那一種疾病? - 醫四 -26 Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- (A) 1. 下列何種情形與鉀離子流失所造成的低血鉀 (Hypokalemia ) 最 108( 二 ) 專 無關? - (A) 注射胰島素 (Insulin) - (B) 長期使用利尿劑 (Long-term usage of diuretics) - (C) 腸胃炎引起腹瀉(Gastroenteritis induced diarrhea) - (D) 腎小管酸血症 (Renal tubular acidosis) Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- ...l sign)。實驗室檢查顯示血糖值為50 mg/dL,血清鈉離子濃度 125 mmol/L、鉀離子濃度 3.6 mmol/L、氯離子濃度 80 mmol/L,尿液鈉離子濃度 50 mmol/L。此病童最可能的診斷為何? - (A) 急性腸胃炎 (acute gastroenteritis) - (B) 心臟衰竭 (heart failure) - (C) 腦炎 (encephalitis) - (D) 腎上腺機能不全 (adrenal insufficiency) Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- 【詳解】題目敘述中,病人出現低血糖、低血鈉,脫水症狀,低血壓,及意識不清,可聯想至 adrenal insufficiency。其尿鈉高(>25)表示鈉由 renal loss,故不像急性腸胃炎或心臟衰竭,無局部神經學症狀,故也不像腦炎。 Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- (D) 12. 一位 7 歲大的女孩,因腸胃炎就診被發現有貧血現象,過去無重大疾病史,一般發育無明顯異常。進一步血液檢查結果如下:WBC: 3,400/mm³、segment 32%、lymphocyte 62%、RBC: 6.0×106/mm³、Hb: 10.2 g/dL、MCV: 63 fL、MCH: 22 pg、MCHC: 31.4 g/dL、RDW(RBC distribution width)值在正常之下; HbA1: 92.4%、HbA2: 5.2%、HbF: 2.4%。顯示該女孩最有可能是: Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
 
 ## Clinical Caveats
 

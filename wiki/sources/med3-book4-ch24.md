@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_甲、家庭醫業.md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_甲、家庭醫業"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_甲、家庭醫業.md"
+page_start: 259
+page_end: 264
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_甲、家庭醫業 Page 259-264"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 24
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_甲、家庭醫業.md`
+- Pages covered: 259-264
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_甲、家庭醫業 Page 259-264
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

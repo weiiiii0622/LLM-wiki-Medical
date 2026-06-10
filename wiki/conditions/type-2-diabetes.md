@@ -49,23 +49,23 @@ tags:
 
 ## Key Details From Sources
 
-- 2. 成因:與懷孕中期之後,胎盤分泌的 human placental lactogen (HPL),造成 insulin resistance 有關。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- ...內膜, | | | | 將增加子宮內膜增生及癌化的風險。 | | | 註 2: 黑色素棘皮症 | 指身體皺摺處(頸、腋下、乳房下和大腿等)的黑色素沉澱和 | | | (Acanthosis nigrican) | 皮膚增厚,是胰島素阻抗 (insulin resistance) 的特徵,與 PCOS | | | | 和高雄性素有關。 | | | 註 3: Rotterdam | 卵巢週邊可見 12 個以上 2~9 mm 的小濾泡 士 卵巢體積增加 | | | ultrasound criteria | ( > 10 mL) • | | | 註 4: 代謝性症候群 | 下列 5 項符合 3 項者,即可診斷代謝性症候群 | | | 診斷標準 | ・腰圍> 88 cm | | | | ・ 三酸甘油脂≧ 150 m Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ...lucagon), 使得肝臟的肝醣分解(glycogenolysis)增加。 - b. 缺氧組織產生的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的糖類,也有肝臟保護的作用,有利於病人對手術的耐受。術 後糖類的補充是最易消化吸收,對術後消化功能欠佳者更為適宜。 Source: [[sources/med5-book1-ch01|甲、外科營養]].
-- (A) 可能與胰島素抗性(insulin resistance)的內分泌疾病有關 Source: [[sources/med4-book2-ch11|子、其 他]].
-- Type 2 diabetes mellitus (insulin resistance) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- #### 2. Type 2 diabetes mellitus: Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (2) 臨床表現: type 2 diabetes mellitus 血糖上升值不若 type 1 diabetes mellitus 嚴重,故從病發到診斷所需時間較長。病人亦會發生糖尿病酮酸中毒,但大部分為酮尿(ketonuria)。另外,病人頸部或腋下會有黑色棘皮症(acanthosis nigricans),此為對胰島素產生抗性在皮膚的表現。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (A) 胰島素抗性 (insulin resistance) Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- ...(APV), Daru navir (DRV), | CYP450 inh. | | Protease inh.(PI) | 抑制病毒處理轉錄出的蛋白 | Fosampre navir (FPV), Lopi navir (LPV) | T2DM | | | 中等政(山口)虫 口 | Rito navir (RTV), Nelfi navir (NFV), | Hyperlipidemia | | | | Saqui navir (SQV), Tipra navir (TPV), | | | HIV entry inh. | 防止病毒進入 | Enfuvirtide (T-20, Fusion inhibitor) | Inj. site Rxn. | | m v endy m Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: [[sources/med3-book3-ch19|癸、愛滋病 (AIDS)]].
-- ...yme inhibitors 的腎臟保護作用,下列何者錯誤? (A) 可以降低血壓 (B) 可以降低蛋白尿 (C) 可以增加腎絲球過濾速率 (D) 可以降低出球小動脈的壓力 | 105(一)專醫三-37 | | (C) | 6. 下列何項是第 2 型糖尿病腎病變最早期的臨床表現? (A) 尿液白蛋白排泄量&gt; 30 mg/day (B) 血清肌酸酐(creatinine)&gt; 1.2 mg/dL (C) 腎絲球過濾率&gt; 120 mL/min (D) 血壓&gt; 130/80 mmHg | 103(一)專醫三-37 | | (C) | 7. 一位 65 歲病人最近一個月疲倦、走路呼吸急促。十年前診斷腎病症候群,給予類固醇治療效果不彰。他的血清肌酸酐五年前為 2.8 mg/d Source: [[sources/med3-book3-ch04|丁、腎臟疾病各論]].
-- 1. 又稱為 Insulin resistance syndrome, 顧名思義和 Insulin resistance 有很大的關係。 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 4. 診斷糖尿病後,特別是年輕人,有時難以分辨第 1、第 2 型糖尿病,除可由臨床特徵分辨,也可參考升糖素(Glucagon)刺激試驗,若 (1) 空腹 C peptide \beta-adrenergic agonists , thiazides | | | | | phenytoin, α-inte | erferon, protease inhibitors, clozapine | | | | | F. Infections — congenital rubella, cytomegaloviru Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- 1. 高尿酸血症與代謝症候群相關,與 insulin resistance 有關係 Source: [[sources/med3-book2-ch09|丁、糖尿病]].
-- | Insulin resistance,hyperinsulinemia | Medications | Nutritional | Liver disease | |-----------------------------------------|-----------------|--------------------|--------------------| | Centripetal obesity | Glucocorticoids | Starvation Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- (C) 非酒精性脂肪肝病、第一型糖尿病、中厚(臟器)型肥胖、 高脂血症與高血壓都是胰島素抗性症候群(Insulin resistance syndrome)的表現 Source: [[sources/med3-book2-ch17|丁、肝 炎]].
-- ...g's syndrome | | | | Congenital adrenal hyperplasia (most often 21-hydroxylase | | | | deficiency) | | | 内分泌方面 | Severe insulin resistance syndromes | | | | Hyperprolactinemia | Source: [[sources/med3-book2-ch13|庚、性腺疾病(Sexual)]].
+- 2. 成因:與懷孕中期之後,胎盤分泌的 human placental lactogen (HPL),造成 insulin resistance 有關。 Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- ...內膜, | | | | 將增加子宮內膜增生及癌化的風險。 | | | 註 2: 黑色素棘皮症 | 指身體皺摺處(頸、腋下、乳房下和大腿等)的黑色素沉澱和 | | | (Acanthosis nigrican) | 皮膚增厚,是胰島素阻抗 (insulin resistance) 的特徵,與 PCOS | | | | 和高雄性素有關。 | | | 註 3: Rotterdam | 卵巢週邊可見 12 個以上 2~9 mm 的小濾泡 士 卵巢體積增加 | | | ultrasound criteria | ( > 10 mL) • | | | 註 4: 代謝性症候群 | 下列 5 項符合 3 項者,即可診斷代謝性症候群 | | | 診斷標準 | ・腰圍> 88 cm | | | | ・ 三酸甘油脂≧ 150 m Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- ...lucagon), 使得肝臟的肝醣分解(glycogenolysis)增加。 - b. 缺氧組織產生的乳酸、脂肪分解而成的甘油、蛋白質分解產生的 alanine 及 glutamine 等糖質新生的原料,皆促進了糖質新生的進行。 - c. Insulin resistance 的增加,使得胰島素的作用降低,維持高血糖。 - (2) 糖類為骨髓、周邊神經、腎上腺髓質,以及為傷口癒合所需的纖維母細胞和吞噬細胞的主要熱量來源。 - (3) 術前有補充足夠的糖類,也有肝臟保護的作用,有利於病人對手術的耐受。術 後糖類的補充是最易消化吸收,對術後消化功能欠佳者更為適宜。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_甲、外科營養 Page 15-26.
+- (A) 可能與胰島素抗性(insulin resistance)的內分泌疾病有關 Source: 醫(四)第2冊皮膚_子、其他 Page 193-206.
+- Type 2 diabetes mellitus (insulin resistance) Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- #### 2. Type 2 diabetes mellitus: Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- (2) 臨床表現: type 2 diabetes mellitus 血糖上升值不若 type 1 diabetes mellitus 嚴重,故從病發到診斷所需時間較長。病人亦會發生糖尿病酮酸中毒,但大部分為酮尿(ketonuria)。另外,病人頸部或腋下會有黑色棘皮症(acanthosis nigricans),此為對胰島素產生抗性在皮膚的表現。 Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- (A) 胰島素抗性 (insulin resistance) Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- ...(APV), Daru navir (DRV), | CYP450 inh. | | Protease inh.(PI) | 抑制病毒處理轉錄出的蛋白 | Fosampre navir (FPV), Lopi navir (LPV) | T2DM | | | 中等政(山口)虫 口 | Rito navir (RTV), Nelfi navir (NFV), | Hyperlipidemia | | | | Saqui navir (SQV), Tipra navir (TPV), | | | HIV entry inh. | 防止病毒進入 | Enfuvirtide (T-20, Fusion inhibitor) | Inj. site Rxn. | | m v endy m Source: 醫(三)第3冊腎內感染_第二篇、感染科_癸、愛滋病 (AIDS) Page 238-248.
+- ...(B) | 18. 愛滋病使用蛋白酶抑制劑(protease inhibitor)治療,下列那一項不是常見的副作用? (A) dyslipidemia (B) thrombocytopenia (C) lipodystrophy (D) insulin resistance | 94(二)檢內-64 | Source: 醫(三)第3冊腎內感染_第二篇、感染科_癸、愛滋病 (AIDS) Page 238-248.
+- ...yme inhibitors 的腎臟保護作用,下列何者錯誤? (A) 可以降低血壓 (B) 可以降低蛋白尿 (C) 可以增加腎絲球過濾速率 (D) 可以降低出球小動脈的壓力 | 105(一)專醫三-37 | | (C) | 6. 下列何項是第 2 型糖尿病腎病變最早期的臨床表現? (A) 尿液白蛋白排泄量&gt; 30 mg/day (B) 血清肌酸酐(creatinine)&gt; 1.2 mg/dL (C) 腎絲球過濾率&gt; 120 mL/min (D) 血壓&gt; 130/80 mmHg | 103(一)專醫三-37 | | (C) | 7. 一位 65 歲病人最近一個月疲倦、走路呼吸急促。十年前診斷腎病症候群,給予類固醇治療效果不彰。他的血清肌酸酐五年前為 2.8 mg/d Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_丁、腎臟疾病各論 Page 85-106.
+- 1. 又稱為 Insulin resistance syndrome, 顧名思義和 Insulin resistance 有很大的關係。 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- 4. 診斷糖尿病後,特別是年輕人,有時難以分辨第 1、第 2 型糖尿病,除可由臨床特徵分辨,也可參考升糖素(Glucagon)刺激試驗,若 (1) 空腹 C peptide \beta-adrenergic agonists , thiazides | | | | | phenytoin, α-inte | erferon, protease inhibitors, clozapine | | | | | F. Infections — congenital rubella, cytomegaloviru Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- 1. 高尿酸血症與代謝症候群相關,與 insulin resistance 有關係 Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_丁、糖尿病 Page 237-266.
+- | Insulin resistance,hyperinsulinemia | Medications | Nutritional | Liver disease | |-----------------------------------------|-----------------|--------------------|--------------------| | Centripetal obesity | Glucocorticoids | Starvation Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丁、肝炎 Page 107-136.
+- (C) 非酒精性脂肪肝病、第一型糖尿病、中厚(臟器)型肥胖、 高脂血症與高血壓都是胰島素抗性症候群(Insulin resistance syndrome)的表現 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_丁、肝炎 Page 107-136.
+- ...g's syndrome | | | | Congenital adrenal hyperplasia (most often 21-hydroxylase | | | | deficiency) | | | 内分泌方面 | Severe insulin resistance syndromes | | | | Hyperprolactinemia | Source: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_庚、性腺疾病(Sexual) Page 285-292.
 
 ## Clinical Caveats
 

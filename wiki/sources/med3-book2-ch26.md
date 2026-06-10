@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_辛、肝臟-其他.md
+raw_source_title: "醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_辛、肝臟-其他"
+raw_source_file: "raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_辛、肝臟-其他.md"
+page_start: 165
+page_end: 166
+canonical_citation: "醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_辛、肝臟-其他 Page 165-166"
 book: 醫(三)第2冊肝內新陳代謝
 chapter_order: 26
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第2冊肝內新陳代謝
 - Chapter file: `raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_辛、肝臟-其他.md`
+- Pages covered: 165-166
+- Canonical citation: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_辛、肝臟-其他 Page 165-166
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

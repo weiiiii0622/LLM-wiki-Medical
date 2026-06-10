@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第一篇、外科概論_丁、外科併發症.md
+raw_source_title: "醫(五)第1冊外概腦外_第一篇、外科概論_丁、外科併發症"
+raw_source_file: "raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第一篇、外科概論_丁、外科併發症.md"
+page_start: 49
+page_end: 58
+canonical_citation: "醫(五)第1冊外概腦外_第一篇、外科概論_丁、外科併發症 Page 49-58"
 book: 醫(五)第1冊外概腦外
 chapter_order: 4
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第1冊外概腦外
 - Chapter file: `raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第一篇、外科概論_丁、外科併發症.md`
+- Pages covered: 49-58
+- Canonical citation: 醫(五)第1冊外概腦外_第一篇、外科概論_丁、外科併發症 Page 49-58
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

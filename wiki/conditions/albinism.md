@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- F. 白化症(Albinism) 128 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- 8. Hypomelanosis: 受基因、自體免疫或發炎反應影響。 - (1) 黑色素細胞無減少,但黑色素分泌減少:例如白化症(Albinism)。 - (2) 黑色素細胞減少或消失,且黑色素分泌減少或停止:例如白斑(Vitiligo)。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- 1. 又稱白子,皮膚黑色素細胞正常,但因 tyrosinase 活性 異常,故無法正常製造黑色素。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- F. 白化症(Albinism) 128 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- 8. Hypomelanosis: 受基因、自體免疫或發炎反應影響。 - (1) 黑色素細胞無減少,但黑色素分泌減少:例如白化症(Albinism)。 - (2) 黑色素細胞減少或消失,且黑色素分泌減少或停止:例如白斑(Vitiligo)。 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- 1. 又稱白子,皮膚黑色素細胞正常,但因 tyrosinase 活性 異常,故無法正常製造黑色素。 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
 
 ## Clinical Caveats
 

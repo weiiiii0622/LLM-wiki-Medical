@@ -27,7 +27,7 @@ TBI、SCI、燒傷或關節手術後軟組織異常骨化，造成疼痛、腫�
 
 ## Key Details From Sources
 
-- (5) 異位性骨化症(heterotopic ossification):是在軟組織內有骨組織的異常生成, Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (5) 異位性骨化症(heterotopic ossification):是在軟組織內有骨組織的異常生成, Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
 
 ## Clinical Caveats
 

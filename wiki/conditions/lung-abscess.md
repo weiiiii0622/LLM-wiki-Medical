@@ -39,18 +39,18 @@ tags:
 
 ## Key Details From Sources
 
-- H. 肺膿瘍 (Lung abscess) 47 Source: [[sources/med5-book4-ch03|丙、肺]].
-- ### H. 肺膿瘍 (Lung abscess) Source: [[sources/med5-book4-ch03|丙、肺]].
-- 1. 機轉 & 定義: 感染發生於被堵塞的支氣管,通常是厭氧菌感染。吸入性肺膿瘍通常發生在右肺,因右側支氣管較垂直於氣管。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- 1. 機轉 & 成因:為化膿性肋膜腔感染,是肋膜渗出液(exudate)最常見的形式。可 經胸壁創傷或手術傷口直接污染肋膜腔,或經血液(菌血症或敗血症)、肺部感染、 肺膿瘍破裂、感染性肺開洞破裂或縱隔感染(食道穿孔)等造成肋膜腔感染。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- (2) 腸道外感染:阿米巴肝膿瘍、肺膿瘍、腦膿瘍、次發性阿米巴腦膜炎 - a. 腸道外、全身性的感染最常發生在肝臟。 - b. 阿米巴侵犯至黏膜下層後,可經由門脈循環,到達肝臟(肝右葉較多),形成阿米巴肝膿瘍。甚至進一步侵犯肺臟、心包膜。 Source: [[sources/med3-book3-ch21|丑、原 蟲]].
-- I. 肺膿瘍 (Lung abscess) 285 Source: [[sources/med3-book1-ch21|戊、感 染]].
-- (10) 肺膿瘍:CA-MRSA,口腔厭氧菌,Aspergillus,肺結核,非典型結核。 Source: [[sources/med3-book1-ch21|戊、感 染]].
-- #### I. 肺膿瘍 (Lung abscess) Source: [[sources/med3-book1-ch21|戊、感 染]].
-- (C) 肺膿瘍 (lung abscess) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- 【詳解】咳嗽有濃痰、發燒、需還疑肺膿瘍。 Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- (C) 肺膿瘍 (lung abscess) Source: [[sources/med3-book1-ch13|丑、肺癌]].
-- ...bing of the digits: - Lung cancer Interstitial lung disease - Chronic infections in the thorax, such as bronchiectasis, lung abscess, and empyema. Congenital heart disease associated with right-to-left shunting - Chronic inflammatory or infectious diseases, such as inflammatory bowel disease and endocarditis 但 IE 和 IBD 臨床上少見有 cyanosis 情形。 (B) 14. 一位 Source: [[sources/med3-book1-ch18|寅、其 他]].
+- H. 肺膿瘍 (Lung abscess) 47 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- ### H. 肺膿瘍 (Lung abscess) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- 1. 機轉 & 定義: 感染發生於被堵塞的支氣管,通常是厭氧菌感染。吸入性肺膿瘍通常發生在右肺,因右側支氣管較垂直於氣管。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- 1. 機轉 & 成因:為化膿性肋膜腔感染,是肋膜渗出液(exudate)最常見的形式。可 經胸壁創傷或手術傷口直接污染肋膜腔,或經血液(菌血症或敗血症)、肺部感染、 肺膿瘍破裂、感染性肺開洞破裂或縱隔感染(食道穿孔)等造成肋膜腔感染。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- (2) 腸道外感染:阿米巴肝膿瘍、肺膿瘍、腦膿瘍、次發性阿米巴腦膜炎 - a. 腸道外、全身性的感染最常發生在肝臟。 - b. 阿米巴侵犯至黏膜下層後,可經由門脈循環,到達肝臟(肝右葉較多),形成阿米巴肝膿瘍。甚至進一步侵犯肺臟、心包膜。 Source: 醫(三)第3冊腎內感染_第二篇、感染科_丑、原蟲 Page 257-264.
+- I. 肺膿瘍 (Lung abscess) 285 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_戊、感染 Page 289-306.
+- (10) 肺膿瘍:CA-MRSA,口腔厭氧菌,Aspergillus,肺結核,非典型結核。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_戊、感染 Page 289-306.
+- #### I. 肺膿瘍 (Lung abscess) Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_戊、感染 Page 289-306.
+- (C) 肺膿瘍 (lung abscess) Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_甲、胸腔科基本知識 Page 231-258.
+- 【詳解】咳嗽有濃痰、發燒、需還疑肺膿瘍。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_甲、胸腔科基本知識 Page 231-258.
+- (C) 肺膿瘍 (lung abscess) Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_丑、肺癌 Page 353-364.
+- ...bing of the digits: - Lung cancer Interstitial lung disease - Chronic infections in the thorax, such as bronchiectasis, lung abscess, and empyema. Congenital heart disease associated with right-to-left shunting - Chronic inflammatory or infectious diseases, such as inflammatory bowel disease and endocarditis 但 IE 和 IBD 臨床上少見有 cyanosis 情形。 (B) 14. 一位 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_寅、其他 Page 365-368.
 
 ## Clinical Caveats
 

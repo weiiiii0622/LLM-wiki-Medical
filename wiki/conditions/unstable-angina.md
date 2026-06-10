@@ -37,15 +37,15 @@ ACS 光譜中無心肌酵素上升的缺血狀態。 本頁已整合至 `醫(六
 
 ## Key Details From Sources
 
-- · High risk unstable angina Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- 1. Absolute indications: - (1) 因 heart failure 所導致的 hemodynamic compromise。 - a. Refractory cardiogenic shock • - b. 需要持續倚賴給予 IV inotropic agent 才能達到足夠的 organ perfusion。 - c. Peak $VO_2 2 11~14 mL/kg/min 且對日常活動造成限制。 - (2) 反覆性 unstable angina 且無法靠其他方法有效控制。 - (3) 病患在常規治療下仍舊體液不平衡或腎功能不穩定。 Source: [[sources/med5-book2-ch07|庚、心臟移植]].
-- (3) 無法用藥物控制的不穩定心絞痛 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- #### 4. UA/NSTEMI 的臨床處置: Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...級及追蹤病情變化,針對高 危險群病患,給予 Early PCI;針對有臨床症狀,但無心電圖、酵素上升等變化, 須 6 小時後再追蹤一次心電圖、酵素,轉為有變化者,需住院治療。 - b. 臨床上常使用 TIMI risk score for UA/NSTEMI: (口訣: AACC+3) - (a) A : age $> 65 \circ$ - (b) A: aspirin used in past 7 days • - (c) C: CAD (> 50% stenosis) • - (d) C: CAD risk factor > 3 ° - (e) 3:診斷心肌梗塞三項表準→ angina, EKG, cardiac enzyme。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- (4) 長期治療 (Secondary prevention): [編按:這部分 STEMI 與 UA/NSTEMI 類似] - a. Aspirin:可減少再梗塞的機率、有存活上的益處。 - b. Clopidogrel:單用於無法使用 Aspirin 者;不論有無置放支架,建議合併 Aspirin 使用 12 個月。 - c. ACEI:對 STEMI後的患者有存活上的益處。 - d. β blocker:實證醫學上顯示,可減少 MI 的再發生率。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...Neuropathy , Rifampin $\rightarrow$ Red $\sim$ Orange urine , Ethambutol $\rightarrow$ Eye neuritis , PZA $\rightarrow$ UA $\circ$ - 1. 臨床使用: - (1) HERZ\*2 個月(加強期) + HER\*4 個月(持續期), Isoniazid、Rifampin 是主力, 若對這兩個藥物都有抗藥性,則稱為多重抗藥性結核(MDRTB)。 - (2) 但臨床上為了避免抗藥性菌株,常以多種(四個)藥物合併使用。 Source: [[sources/med3-book1-ch19|己、結 核]].
-- (4) Pyrazinamide (PZA) → UA: 25 mg/kg, 最多 2,000 mg qd - a. 對巨噬細胞內酸性(pH 5.5)環境中生長緩慢的結核菌最具殺菌力。 - b. 與 INH 及 RMP 同時使用會增加肝毒性的機會。 - c. PZA 會干擾尿酸代謝而導致高尿酸血症,血清尿酸濃度小於 13 mg/dL 時,通常不需要藥物治療。偶爾合併關節痛,以水楊酸劑(salicylates)即可緩解。 Source: [[sources/med3-book1-ch19|己、結 核]].
-- (B) 不穩定型心絞痛 (unstable angina) Source: [[sources/med3-book1-ch11|辛、心包疾病]].
+- · High risk unstable angina Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- 1. Absolute indications: - (1) 因 heart failure 所導致的 hemodynamic compromise。 - a. Refractory cardiogenic shock • - b. 需要持續倚賴給予 IV inotropic agent 才能達到足夠的 organ perfusion。 - c. Peak $VO_2 2 11~14 mL/kg/min 且對日常活動造成限制。 - (2) 反覆性 unstable angina 且無法靠其他方法有效控制。 - (3) 病患在常規治療下仍舊體液不平衡或腎功能不穩定。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_庚、心臟移植 Page 105-110.
+- (3) 無法用藥物控制的不穩定心絞痛 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_辛、其他 Page 111-126.
+- #### 4. UA/NSTEMI 的臨床處置: Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- ...級及追蹤病情變化,針對高 危險群病患,給予 Early PCI;針對有臨床症狀,但無心電圖、酵素上升等變化, 須 6 小時後再追蹤一次心電圖、酵素,轉為有變化者,需住院治療。 - b. 臨床上常使用 TIMI risk score for UA/NSTEMI: (口訣: AACC+3) - (a) A : age $> 65 \circ$ - (b) A: aspirin used in past 7 days • - (c) C: CAD (> 50% stenosis) • - (d) C: CAD risk factor > 3 ° - (e) 3:診斷心肌梗塞三項表準→ angina, EKG, cardiac enzyme。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- (4) 長期治療 (Secondary prevention): [編按:這部分 STEMI 與 UA/NSTEMI 類似] - a. Aspirin:可減少再梗塞的機率、有存活上的益處。 - b. Clopidogrel:單用於無法使用 Aspirin 者;不論有無置放支架,建議合併 Aspirin 使用 12 個月。 - c. ACEI:對 STEMI後的患者有存活上的益處。 - d. β blocker:實證醫學上顯示,可減少 MI 的再發生率。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- ...Neuropathy , Rifampin $\rightarrow$ Red $\sim$ Orange urine , Ethambutol $\rightarrow$ Eye neuritis , PZA $\rightarrow$ UA $\circ$ - 1. 臨床使用: - (1) HERZ\*2 個月(加強期) + HER\*4 個月(持續期), Isoniazid、Rifampin 是主力, 若對這兩個藥物都有抗藥性,則稱為多重抗藥性結核(MDRTB)。 - (2) 但臨床上為了避免抗藥性菌株,常以多種(四個)藥物合併使用。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_己、結核 Page 307-320.
+- (4) Pyrazinamide (PZA) → UA: 25 mg/kg, 最多 2,000 mg qd - a. 對巨噬細胞內酸性(pH 5.5)環境中生長緩慢的結核菌最具殺菌力。 - b. 與 INH 及 RMP 同時使用會增加肝毒性的機會。 - c. PZA 會干擾尿酸代謝而導致高尿酸血症,血清尿酸濃度小於 13 mg/dL 時,通常不需要藥物治療。偶爾合併關節痛,以水楊酸劑(salicylates)即可緩解。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_己、結核 Page 307-320.
+- (B) 不穩定型心絞痛 (unstable angina) Source: 醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病 Page 193-202.
 
 ## Clinical Caveats
 

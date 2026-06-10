@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- 3. Contrecoup injury:受撞擊的對側受傷,例如前額遭受撞擊後,撞擊力道使得大腦 向後撞上後顱骨,造成後腦受傷。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- (C) 血塊或腦挫傷若大於 30 cc, 一般認為可以造成顯著的質塊效應 (mass effect), 而造成神經學惡化以及進行性的腦損傷 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- (D) 腦挫傷之出血 (contusion hemorrhage) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
+- 3. Contrecoup injury:受撞擊的對側受傷,例如前額遭受撞擊後,撞擊力道使得大腦 向後撞上後顱骨,造成後腦受傷。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- (C) 血塊或腦挫傷若大於 30 cc, 一般認為可以造成顯著的質塊效應 (mass effect), 而造成神經學惡化以及進行性的腦損傷 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- (D) 腦挫傷之出血 (contusion hemorrhage) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
 
 ## Clinical Caveats
 

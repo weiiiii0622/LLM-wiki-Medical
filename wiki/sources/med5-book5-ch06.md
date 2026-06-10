@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_己、泌尿道細菌感染.md
+raw_source_title: "醫(五)第5冊泌尿_己、泌尿道細菌感染"
+raw_source_file: "raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_己、泌尿道細菌感染.md"
+page_start: 133
+page_end: 140
+canonical_citation: "醫(五)第5冊泌尿_己、泌尿道細菌感染 Page 133-140"
 book: 醫(五)第5冊泌尿
 chapter_order: 6
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第5冊泌尿
 - Chapter file: `raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_己、泌尿道細菌感染.md`
+- Pages covered: 133-140
+- Canonical citation: 醫(五)第5冊泌尿_己、泌尿道細菌感染 Page 133-140
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

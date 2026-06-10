@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 肛管(長約4cm)上緣自肛門直腸環(anorectal ring),下迄肛緣(anal verge),和骨盆底肌肉合作主導禁便(continence)和排泄(defecation)的功能。 - \* 肛門直腸環由恥骨直腸肌(puborectalis)、肛門內括約肌和肛門外括約肌組成。 Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
-- (A) 2. 有關大腸生理功能的說明,下列何者錯誤? Source: [[sources/med5-book2-ch09|甲、解剖及生理學]].
+- 1. 肛管(長約4cm)上緣自肛門直腸環(anorectal ring),下迄肛緣(anal verge),和骨盆底肌肉合作主導禁便(continence)和排泄(defecation)的功能。 - \* 肛門直腸環由恥骨直腸肌(puborectalis)、肛門內括約肌和肛門外括約肌組成。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_甲、解剖及生理學 Page 127-132.
+- (A) 2. 有關大腸生理功能的說明,下列何者錯誤? Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_甲、解剖及生理學 Page 127-132.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 分級及分期 (grading and staging): - a. 分級 (grading): Gleason score。 - (a) 是一種病理分級,病理科醫師會就顯微鏡下看到的細胞形態,以最大片 (寫前面)+最高分(寫後面)的分數相加,就是 Gleason score。分數從 2(1+1)到 10(5+5)分。 - (b) 2~4 分為 well-differentiated、5~7 分為 moderately-differentiated、8~10 分為 poorly differentiated。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (1) 局部侵犯: T1~T3a + N0M0。 - a. 治療方式:觀察、根除性攝護腺切除術或放射治療。使用哪種方式依癌症 PSA、分級、分期、年齡、病人意願而定。 - (a) 依癌症風險分類 (PSA、分級、分期): - i. 攝護腺癌的風險分類 (D'Amico Risk groups): - (i) 低風險: PSA ≤ 10,且 Gleason ≤ 6,且 clinical stage T1 or T2a。(注意三個都要成立) - (ii) 中風險: PSA 10~20, Gleason 7, 或 clinical stage T2b。 - (iii)高風險:PSA > 20, Gleason 8~10,或 clinical stage T2c or T3a。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (e) 術後預後的預測因子:看切下來的檢體與抽 PSA 判斷。 - i. 腫瘤範圍 (T): T3a 以內 10 年存活率 80%; T3b 以上 10 年存活率 40%。 - ii. 淋巴結(N):若切下來為N(+),則85%已有遠端轉移。若有淋巴轉移, 需加作輔助賀爾蒙治療 (adjuvant androgen deprivation therapy)。 - iii. Gleason score: 7: 15%。 - iv. PSA: 切除後應在 6 週內降至 0,若之後≥ 0.2 ng/ml 則懷疑復發。目前淋巴轉移與否最佳指標就是追蹤 PSA 變化,甚至比 CT 還要早發現。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (2) 分級及分期 (grading and staging): - a. 分級 (grading): Gleason score。 - (a) 是一種病理分級,病理科醫師會就顯微鏡下看到的細胞形態,以最大片 (寫前面)+最高分(寫後面)的分數相加,就是 Gleason score。分數從 2(1+1)到 10(5+5)分。 - (b) 2~4 分為 well-differentiated、5~7 分為 moderately-differentiated、8~10 分為 poorly differentiated。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- (1) 局部侵犯: T1~T3a + N0M0。 - a. 治療方式:觀察、根除性攝護腺切除術或放射治療。使用哪種方式依癌症 PSA、分級、分期、年齡、病人意願而定。 - (a) 依癌症風險分類 (PSA、分級、分期): - i. 攝護腺癌的風險分類 (D'Amico Risk groups): - (i) 低風險: PSA ≤ 10,且 Gleason ≤ 6,且 clinical stage T1 or T2a。(注意三個都要成立) - (ii) 中風險: PSA 10~20, Gleason 7, 或 clinical stage T2b。 - (iii)高風險:PSA > 20, Gleason 8~10,或 clinical stage T2c or T3a。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- (e) 術後預後的預測因子:看切下來的檢體與抽 PSA 判斷。 - i. 腫瘤範圍 (T): T3a 以內 10 年存活率 80%; T3b 以上 10 年存活率 40%。 - ii. 淋巴結(N):若切下來為N(+),則85%已有遠端轉移。若有淋巴轉移, 需加作輔助賀爾蒙治療 (adjuvant androgen deprivation therapy)。 - iii. Gleason score: 7: 15%。 - iv. PSA: 切除後應在 6 週內降至 0,若之後≥ 0.2 ng/ml 則懷疑復發。目前淋巴轉移與否最佳指標就是追蹤 PSA 變化,甚至比 CT 還要早發現。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
 
 ## Clinical Caveats
 

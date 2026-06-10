@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (7) 手術:主要有兩種。 - a. 肋膜外全肺切除 (extra-pleural pneumonectomy, EPP): 摘除患側肺、肋膜、心包膜、横隔膜。 - b. 肋 膜 及 全 肺 切 除 (pleural pneumonectomy + pleurectomy) 或 剝 皮 術 (decortication): 摘除患側肺、肋膜和胸壁腫瘤。 Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- (7) 手術:主要有兩種。 - a. 肋膜外全肺切除 (extra-pleural pneumonectomy, EPP): 摘除患側肺、肋膜、心包膜、横隔膜。 - b. 肋 膜 及 全 肺 切 除 (pleural pneumonectomy + pleurectomy) 或 剝 皮 術 (decortication): 摘除患側肺、肋膜和胸壁腫瘤。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
 
 ## Clinical Caveats
 

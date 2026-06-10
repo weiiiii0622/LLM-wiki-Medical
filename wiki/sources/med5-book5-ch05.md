@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_戊、結石.md
+raw_source_title: "醫(五)第5冊泌尿_戊、結石"
+raw_source_file: "raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_戊、結石.md"
+page_start: 117
+page_end: 132
+canonical_citation: "醫(五)第5冊泌尿_戊、結石 Page 117-132"
 book: 醫(五)第5冊泌尿
 chapter_order: 5
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第5冊泌尿
 - Chapter file: `raw/books/md/醫(五)第5冊泌尿/醫(五)第5冊泌尿_戊、結石.md`
+- Pages covered: 117-132
+- Canonical citation: 醫(五)第5冊泌尿_戊、結石 Page 117-132
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

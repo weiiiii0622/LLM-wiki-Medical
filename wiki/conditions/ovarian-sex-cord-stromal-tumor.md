@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- D. 卵巢性索間質腫瘤 (Ovarian sex-cord stromal tumor) 191 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- ...onal | | | | | | cell/ Miz | xed o | cell type | | | | • 依良惡性可區分為: | | | | | | Benign/ Borderline/ Malignancy | | | | | 性索間質腫瘤 (sex cord | Fibroma or | sarc | coma | | | stromal tumors): 佔 10% | • Estroger | 1 | Granulosa cell tumor | | | | producir | ng | Thecoma | | | | • Androge | en | Sertoli-Leydig cell tumor | | | | producing | | Hilar ce Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- | 懷疑上皮細胞腫瘤 | ・CA125、CA 199 和 CEA | |----------|----------------------------------------------| | 懷疑生殖細胞腫瘤 | ・AFP、β-HCG 和 LDH | | 懷疑性索間質腫瘤 | • Inhibin、E2 (Estradiol)、testosterone 和 DHEA | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 【詳解】(A) sarcoma 的組織鑑別標記常用 desmin 和 vimentin,而分化差的 melanoma 可用 melanin 和 S-100(可在神經膠、黑色素、軟骨、脂肪和樹突細胞等發現);(B) vimentin 是表現在 mesenchymal cells;(D) LDH 在卵巢生殖細胞腫瘤 dysgerminoma 會上升,而卵巢間質腫瘤(stromal tumor),如 granulosa cell tumor 則可分泌 estrogen 和 inhibin。 Source: [[sources/med6-book1-ch09|丁、其他(Others)]].
+- D. 卵巢性索間質腫瘤 (Ovarian sex-cord stromal tumor) 191 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- ...onal | | | | | | cell/ Miz | xed o | cell type | | | | • 依良惡性可區分為: | | | | | | Benign/ Borderline/ Malignancy | | | | | 性索間質腫瘤 (sex cord | Fibroma or | sarc | coma | | | stromal tumors): 佔 10% | • Estroger | 1 | Granulosa cell tumor | | | | producir | ng | Thecoma | | | | • Androge | en | Sertoli-Leydig cell tumor | | | | producing | | Hilar ce Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- | 懷疑上皮細胞腫瘤 | ・CA125、CA 199 和 CEA | |----------|----------------------------------------------| | 懷疑生殖細胞腫瘤 | ・AFP、β-HCG 和 LDH | | 懷疑性索間質腫瘤 | • Inhibin、E2 (Estradiol)、testosterone 和 DHEA | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 【詳解】(A) sarcoma 的組織鑑別標記常用 desmin 和 vimentin,而分化差的 melanoma 可用 melanin 和 S-100(可在神經膠、黑色素、軟骨、脂肪和樹突細胞等發現);(B) vimentin 是表現在 mesenchymal cells;(D) LDH 在卵巢生殖細胞腫瘤 dysgerminoma 會上升,而卵巢間質腫瘤(stromal tumor),如 granulosa cell tumor 則可分泌 estrogen 和 inhibin。 Source: 醫(六)第1冊婦產_第二篇、婦科_丁、其他(Others) Page 313-320.
 
 ## Clinical Caveats
 

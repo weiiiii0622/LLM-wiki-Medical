@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- | | 負責血管 | 導 極 | |------------------------|-------------|-----------------| | Septum (間隔) | LAD | V1 , V2 | | LV anterior wall (前壁) | LAD | V3 , V4 | | LV lateral wall ( 側壁 ) | LCX、LAD 遠端 | V5 , V6, I, aVL | | LV inferior wall (下壁) | RCA(主要)、LCX | II, III, Avf | | LV posterior wall (後壁) | RCA · LCX | V1, V2 對應變化 | | RV (右心室) | RCA(近端) | V4R | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- c. RV (V4R) 主要由 RCA 近端支配。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- d. LV Inferior wall (II, III, aVF)由 RCA (較常見)、LCX (較少見)支配, - (a) 須進一步觀察 STE 在 lead II 或 lead III 較多,左邊的 lead II 較多或側壁有 STE→ LCX 阻塞;右邊 lead III 的 STE 較多→ RCA 阻塞。 - (b) 下壁梗塞一律加做 Right heart (V4R), 檢查是否是 RCA 近端阻塞, 導致右心及下壁梗塞, 下壁梗塞約有 30% 會合併右心梗塞; 且若有右心梗塞, 治療和左心梗塞不同, 右心梗塞不可用 Nitrate, 且需 Hydration。 Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- 3. Kussmaul's sign:正常吸氣時,中心靜脈壓應該下降,若不降反升為 Kussmaul's sign。常見於 constrictive pericarditis 或 RV infarction。 Source: [[sources/med3-book1-ch08|戊、瓣膜性心臟病]].
+- | | 負責血管 | 導 極 | |------------------------|-------------|-----------------| | Septum (間隔) | LAD | V1 , V2 | | LV anterior wall (前壁) | LAD | V3 , V4 | | LV lateral wall ( 側壁 ) | LCX、LAD 遠端 | V5 , V6, I, aVL | | LV inferior wall (下壁) | RCA(主要)、LCX | II, III, Avf | | LV posterior wall (後壁) | RCA · LCX | V1, V2 對應變化 | | RV (右心室) | RCA(近端) | V4R | Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- c. RV (V4R) 主要由 RCA 近端支配。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- d. LV Inferior wall (II, III, aVF)由 RCA (較常見)、LCX (較少見)支配, - (a) 須進一步觀察 STE 在 lead II 或 lead III 較多,左邊的 lead II 較多或側壁有 STE→ LCX 阻塞;右邊 lead III 的 STE 較多→ RCA 阻塞。 - (b) 下壁梗塞一律加做 Right heart (V4R), 檢查是否是 RCA 近端阻塞, 導致右心及下壁梗塞, 下壁梗塞約有 30% 會合併右心梗塞; 且若有右心梗塞, 治療和左心梗塞不同, 右心梗塞不可用 Nitrate, 且需 Hydration。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- 3. Kussmaul's sign:正常吸氣時,中心靜脈壓應該下降,若不降反升為 Kussmaul's sign。常見於 constrictive pericarditis 或 RV infarction。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_戊、瓣膜性心臟病 Page 151-174.
 
 ## Clinical Caveats
 

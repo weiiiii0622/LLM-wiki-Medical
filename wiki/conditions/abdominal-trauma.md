@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 4. 腹部創傷之急救和和所有急救一樣,必需先穩定 ABC (airway、breathing、circulation)後再作腹部的檢查,尤其在有穿刺傷時亦應先將 ABC 穩定後再處理傷口。 Source: [[sources/med5-book1-ch07|庚、急救外傷]].
+- 4. 腹部創傷之急救和和所有急救一樣,必需先穩定 ABC (airway、breathing、circulation)後再作腹部的檢查,尤其在有穿刺傷時亦應先將 ABC 穩定後再處理傷口。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_庚、急救外傷 Page 87-96.
 
 ## Clinical Caveats
 

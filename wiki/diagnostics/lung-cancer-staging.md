@@ -155,24 +155,24 @@ tags:
 
 ## Key Details From Sources
 
-- #### E. 口腔癌分期 (Oral Cavity Cancer TNM Staging, AJCC 8th) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- | AJCC PROGNOSTIC S | STAGE GROUPS | | | |-------------------|--------------|------|-------| | T | N | M | GROUP | | Tis | N0 | M0 | 0 | | T1 | N0 | M0 | I . | | T2 | N0 | M0 | п | | Т3 | N0 | M0 | III | | T1, 2, 3 | N1 | M0 | III | | T4a | N0, N1 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### F. 鼻咽癌分期 (Nasopharynx Cancer TNM Staging, AJCC 8th) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- 1. Stage I:止痛期 (Analgesia/Disorientation) - (1) 病人的感覺傳導路徑受到藥物的干擾,疼痛感喪失,但意識清醒尚可言語表達。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
-- 2. Stage II: 興奮期 (Excitement/Delirium) - (1) 可見病人有強烈的掙扎動作或者譫妄(delirium)的出現,有時會伴隨咳嗽、噁心、嘔吐。 - (2) 血壓可能會出現上下波動,呼吸也會較不規則。 - (3) 這時候睫毛反射(eyelash reflex)消失,因此可用睫毛反射來測試病人是否進入 Stage II。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
-- 3. Stage III: 手術期 (Surgical anesthesia) - (1) 眼內肌麻痺,無法看見眼球自主地轉動。 - (2) 肋間肌與橫膈膜肌會被麻痺,呈現停止呼吸(apnea)的狀態。此時最適合進行 手術。 Source: [[sources/med6-book4-ch04|丁、藥物使用]].
-- (1) 口腔癌常考,舌癌的好發部位、臨床症狀與治療,TNM 分期掌握大方向其實不難。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- F. 布朗松評估 (Brunnstrom stage) 24 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- #### F. 布朗松評估 (Brunnstrom stage) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- 1. Brunnstrom stage 用來將病患中風後的肢體障礙程度分為六期(第一期最差,第六期最好),並訂定不同之復健目標,不論中風的病因或影響程度如何,所有的病患皆會依序由較低期進展到較高期,且其過程並不會跳躍式地像是從第一期就跳到第五期。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- (4) 依照眼底變化分期: - a. stage 1 (impending macular hole): 臨床上不容易被檢查到,通常由另一隻眼有完全黃斑部破洞才被發現。眼底可見黃斑部中心凹消失且中心小凹出現圓形黃色斑。 - b. stage 2 (small full-thickness hole): 圓形黃色斑擴大。 - c. stage 3 (full-size macular hole): 眼底可見圓形裂孔,大小約視神經盤直徑的 1/3,視力通常低於 6/60 以下。 - d. stage 4 (full-size macular hole with complete PVD): 合併後玻璃體剝離 (PVD)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- (5) 治療:對 stage 3 或 4 可施以玻璃體切除術合併內限膜摘除。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- #### (3) 嚴重程度 (staging): Source: [[sources/med6-book2-ch12|子、視網膜]].
-- | stage | 視神經盤表現 | |-------|-----------------------| | 初期 | 視神經盤水腫,邊界模糊 | | 急性期 | 視神經盤周圍出血,出現灰白滲出物,視杯消失 | | 慢性期 | 視神經盤出血開始消退 | | 萎縮期 | 視神經萎縮 | Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- 早期上皮性卵巢癌通常無明顯症狀或出現一些非特異性症狀(如腹脹、腹痛、食慾不振和頻尿等),不容易早期發現。因此,一旦診斷,75%的患者已達晚期(Stage III or IV)。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- FIGO (International Federation of Gynecology and Obstetrics) 和 AJCC (American Joint Committee on Cancer) TNM 分期如下 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- | FIGO stage | | Invasio | | TNM | AJCC | |-------------|----|---------|-------------------------------|---------|------| | I(侷限卵巢) | IA | | 】巢(外囊完整、無侵犯卵巢表面、無惡)(註1) | T1aN0M0 | IA | | | IB | ' ' ' ' | 雙側卵巢(外囊完整、無侵犯卵巢表面、無惡生腹水) | | IB Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- ### (2) POP-Q staging Source: [[sources/med6-book1-ch14|丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse)]].
+- #### E. 口腔癌分期 (Oral Cavity Cancer TNM Staging, AJCC 8th) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- | AJCC PROGNOSTIC S | STAGE GROUPS | | | |-------------------|--------------|------|-------| | T | N | M | GROUP | | Tis | N0 | M0 | 0 | | T1 | N0 | M0 | I . | | T2 | N0 | M0 | п | | Т3 | N0 | M0 | III | | T1, 2, 3 | N1 | M0 | III | | T4a | N0, N1 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### F. 鼻咽癌分期 (Nasopharynx Cancer TNM Staging, AJCC 8th) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- 1. Stage I:止痛期 (Analgesia/Disorientation) - (1) 病人的感覺傳導路徑受到藥物的干擾,疼痛感喪失,但意識清醒尚可言語表達。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用 Page 57-58.
+- 2. Stage II: 興奮期 (Excitement/Delirium) - (1) 可見病人有強烈的掙扎動作或者譫妄(delirium)的出現,有時會伴隨咳嗽、噁心、嘔吐。 - (2) 血壓可能會出現上下波動,呼吸也會較不規則。 - (3) 這時候睫毛反射(eyelash reflex)消失,因此可用睫毛反射來測試病人是否進入 Stage II。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用 Page 57-58.
+- 3. Stage III: 手術期 (Surgical anesthesia) - (1) 眼內肌麻痺,無法看見眼球自主地轉動。 - (2) 肋間肌與橫膈膜肌會被麻痺,呈現停止呼吸(apnea)的狀態。此時最適合進行 手術。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丁、藥物使用 Page 57-58.
+- (1) 口腔癌常考,舌癌的好發部位、臨床症狀與治療,TNM 分期掌握大方向其實不難。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- F. 布朗松評估 (Brunnstrom stage) 24 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- #### F. 布朗松評估 (Brunnstrom stage) Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- 1. Brunnstrom stage 用來將病患中風後的肢體障礙程度分為六期(第一期最差,第六期最好),並訂定不同之復健目標,不論中風的病因或影響程度如何,所有的病患皆會依序由較低期進展到較高期,且其過程並不會跳躍式地像是從第一期就跳到第五期。 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- (4) 依照眼底變化分期: - a. stage 1 (impending macular hole): 臨床上不容易被檢查到,通常由另一隻眼有完全黃斑部破洞才被發現。眼底可見黃斑部中心凹消失且中心小凹出現圓形黃色斑。 - b. stage 2 (small full-thickness hole): 圓形黃色斑擴大。 - c. stage 3 (full-size macular hole): 眼底可見圓形裂孔,大小約視神經盤直徑的 1/3,視力通常低於 6/60 以下。 - d. stage 4 (full-size macular hole with complete PVD): 合併後玻璃體剝離 (PVD)。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- (5) 治療:對 stage 3 或 4 可施以玻璃體切除術合併內限膜摘除。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- #### (3) 嚴重程度 (staging): Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- | stage | 視神經盤表現 | |-------|-----------------------| | 初期 | 視神經盤水腫,邊界模糊 | | 急性期 | 視神經盤周圍出血,出現灰白滲出物,視杯消失 | | 慢性期 | 視神經盤出血開始消退 | | 萎縮期 | 視神經萎縮 | Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- 早期上皮性卵巢癌通常無明顯症狀或出現一些非特異性症狀(如腹脹、腹痛、食慾不振和頻尿等),不容易早期發現。因此,一旦診斷,75%的患者已達晚期(Stage III or IV)。 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- FIGO (International Federation of Gynecology and Obstetrics) 和 AJCC (American Joint Committee on Cancer) TNM 分期如下 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- | FIGO stage | | Invasio | | TNM | AJCC | |-------------|----|---------|-------------------------------|---------|------| | I(侷限卵巢) | IA | | 】巢(外囊完整、無侵犯卵巢表面、無惡)(註1) | T1aN0M0 | IA | | | IB | ' ' ' ' | 雙側卵巢(外囊完整、無侵犯卵巢表面、無惡生腹水) | | IB Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- ### (2) POP-Q staging Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丙、骨盆腔器官脫垂 (Pelvic Organ Prolapse) Page 437-444.
 
 ## Clinical Caveats
 

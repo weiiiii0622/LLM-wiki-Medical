@@ -53,24 +53,24 @@ tags:
 
 ## Key Details From Sources
 
-- ...indamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: [[sources/med5-book1-ch05|戊、外科感染]].
-- (B) botulinum toxin Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- (1) 致病因子: S. aureus 分泌之 Toxic shock syndrome toxin 1 (TSST-1) 及 Staphylococcal enterotoxin 和 Group A Streptococcus 分泌之 Streptococcal pyrogenic exotoxins (SPE) ,也就是超級抗原 (superantigen) 所導致之系統性症候群。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- | Bacteria | Toxin | Toxin Type | Clinical Disease | |----------------|--------------------------|---------------|-------------------------------------| | Staphylococcus | Exfoliatin type A | Epidermolytic | Bullous impetigo | | aureus | Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (D) 主要致病機轉為 Pseudomonas 製造的 exfoliative toxin 所引起 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (4) 細菌性腸胃炎:視病菌及臨床狀況可考慮給予抗生素。 - a. Enterotoxigenic E. coli: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriax Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (D) 以內視鏡注射肉毒桿菌毒素(botulinum toxin)可完全治癒 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- 當 Group A Streptococci(GAS)感染上呼吸道造成 GAS pharyngitis 外,GAS 產生pyrogenic exotoxin(erythrogenic toxin)造成一連串的發炎反應導致猩紅熱。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: [[sources/med3-book4-ch11|乙、凝血異常]].
-- ...ocidin) | 在人類的白血球細胞膜上打洞 (Pore), 使溶解 | | | 毒素 | Enterotoxin A~E ( 腸毒素 ) 對熱穩定 | 食物中毒 (Food poisoning) | | | | Exfoliative toxin (脱皮毒素) | 脱皮症候群 (Scaled skin syndrome, SSS) | | | | TSST-1 (毒性休克症候群毒素) | 超級抗原,毒性休克症候群 (Toxic shock syndrome) | | Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- 1. 化膿性鏈球菌 (Streptococcus pyogenes) => A 群鏈球菌 (Group A streptococcus, GAS): - (1) 致病原因: 鏈球菌以 A 群最可怕,又稱為 Flesh eating bacteria,主要存在人類咽喉、皮膚。 Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ...-------------| | | 咽炎 | Pharyngitis | 扁桃腺紅腫,膿狀分泌物 | | Acute / | 皮膚感染 | Impetigo, Erysipelas, | | | Suppurative | 及膺恐朵 | Necrotizing fasciitis | | | infection (直接 | 猩紅熱 | Scarlet fever [Dick test* 確定診斷] | 砂紙般 (Sandpaper) 紅疹,草莓舌 | | 入侵/毒素) | 中毒性休 | Streptococcal toxic shock | | | | 克症候群 | syndrome | early and a second | | Non-suppurative | 風濕熱 | Rheumatic fever Source: [[sources/med3-book3-ch14|己、依細菌分類的感染症]].
-- ## C. 壞死性筋膜炎 (Necrotizing fasciitis) Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- (B) 若無海水暴露史,即可排除壞死性筋膜炎 Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- (C) 食用未煮熟的海鮮也有可能引發壞死性筋膜炎 Source: [[sources/med3-book3-ch10|乙、軟組織感染]].
-- D. 尿毒症毒素 (Uremic toxin) 95 Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ## D. 尿毒症毒素 (Uremic toxin) Source: [[sources/med3-book3-ch05|戊、慢性腎臟病]].
-- ...toacidosis | | | | (C) diarrhea | (D) salicylate intoxication | | | | | lic acidosis 的四大類原因:lactate、keton、 | | | | drug/toxin · renal failure · | | | Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- ...indamycin、ampicillin、cephalosporins 等抗生素破壞腸內正常菌種,使得 *Clostridium difficile* 增生,通常在抗生素使用 5~10 天發生,多以腹瀉表現。 - (b) 從糞便檢驗是否有 toxin A + B 能幫助診斷此疾病,治療原則首先要停用相關抗生素,並且可口服 metronidazole 或 vancomycin。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_戊、外科感染 Page 59-70.
+- (B) botulinum toxin Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- (1) 致病因子: S. aureus 分泌之 Toxic shock syndrome toxin 1 (TSST-1) 及 Staphylococcal enterotoxin 和 Group A Streptococcus 分泌之 Streptococcal pyrogenic exotoxins (SPE) ,也就是超級抗原 (superantigen) 所導致之系統性症候群。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- | Bacteria | Toxin | Toxin Type | Clinical Disease | |----------------|--------------------------|---------------|-------------------------------------| | Staphylococcus | Exfoliatin type A | Epidermolytic | Bullous impetigo | | aureus | Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (D) 主要致病機轉為 Pseudomonas 製造的 exfoliative toxin 所引起 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (4) 細菌性腸胃炎:視病菌及臨床狀況可考慮給予抗生素。 - a. Enterotoxigenic E. coli: 嚴重時考慮 TMP/SMX (Bactrim) - b. Shiga toxin-producing $E.\ coli$ : 不建議給抗生素,會增加 hemolytic-uremic syndrome (HUS) 風險。 - c. *Clostridium difficile*:停止目前正在使用的抗生素,中度或嚴重患者給予 metronidazole 或 vancomycin。 - d. Campylobacter: Erythromycin • - e. Shigella: Bactrim · Ceftriax Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- (D) 以內視鏡注射肉毒桿菌毒素(botulinum toxin)可完全治癒 Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- 當 Group A Streptococci(GAS)感染上呼吸道造成 GAS pharyngitis 外,GAS 產生pyrogenic exotoxin(erythrogenic toxin)造成一連串的發炎反應導致猩紅熱。 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- 【詳解】pregnancy-associated hemolytic uremic syndrome 病徵為突發急性腎衰竭、急性溶血性貧血及低血小板,可能為感染(shigalike toxin-producing *E. coli*, STEC、肺炎鏈球菌)、藥物、補體調節異常導致。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_乙、凝血異常 Page 143-155.
+- ...ocidin) | 在人類的白血球細胞膜上打洞 (Pore), 使溶解 | | | 毒素 | Enterotoxin A~E ( 腸毒素 ) 對熱穩定 | 食物中毒 (Food poisoning) | | | | Exfoliative toxin (脱皮毒素) | 脱皮症候群 (Scaled skin syndrome, SSS) | | | | TSST-1 (毒性休克症候群毒素) | 超級抗原,毒性休克症候群 (Toxic shock syndrome) | | Source: 醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症 Page 165-196.
+- 1. 化膿性鏈球菌 (Streptococcus pyogenes) => A 群鏈球菌 (Group A streptococcus, GAS): - (1) 致病原因: 鏈球菌以 A 群最可怕,又稱為 Flesh eating bacteria,主要存在人類咽喉、皮膚。 Source: 醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症 Page 165-196.
+- ...-------------| | | 咽炎 | Pharyngitis | 扁桃腺紅腫,膿狀分泌物 | | Acute / | 皮膚感染 | Impetigo, Erysipelas, | | | Suppurative | 及膺恐朵 | Necrotizing fasciitis | | | infection (直接 | 猩紅熱 | Scarlet fever [Dick test* 確定診斷] | 砂紙般 (Sandpaper) 紅疹,草莓舌 | | 入侵/毒素) | 中毒性休 | Streptococcal toxic shock | | | | 克症候群 | syndrome | early and a second | | Non-suppurative | 風濕熱 | Rheumatic fever Source: 醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症 Page 165-196.
+- ## C. 壞死性筋膜炎 (Necrotizing fasciitis) Source: 醫(三)第3冊腎內感染_第二篇、感染科_乙、軟組織感染 Page 147-152.
+- (B) 若無海水暴露史,即可排除壞死性筋膜炎 Source: 醫(三)第3冊腎內感染_第二篇、感染科_乙、軟組織感染 Page 147-152.
+- (C) 食用未煮熟的海鮮也有可能引發壞死性筋膜炎 Source: 醫(三)第3冊腎內感染_第二篇、感染科_乙、軟組織感染 Page 147-152.
+- D. 尿毒症毒素 (Uremic toxin) 95 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_戊、慢性腎臟病 Page 107-118.
+- ## D. 尿毒症毒素 (Uremic toxin) Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_戊、慢性腎臟病 Page 107-118.
+- ...toacidosis | | | | (C) diarrhea | (D) salicylate intoxication | | | | | lic acidosis 的四大類原因:lactate、keton、 | | | | drug/toxin · renal failure · | | | Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_甲、酸鹼平衡 Page 17-34.
 
 ## Clinical Caveats
 

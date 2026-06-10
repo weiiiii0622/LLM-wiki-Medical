@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...N tube(percutaneous nephrostomy tube)或逆行輸尿管的管路打入碳酸氫鈉。 - (2) 磷酸銨鎂結石:酸化尿液(pH 2 cm: 首選經皮腎造口取石術 (PCNL)。但可看結石成分不同而考慮 ESWL。較硬的鹿角結石 (staghorn calculi)選 PCNL。較軟的結石 (尿酸、磷酸銨鎂與雙水草酸鈣),可選擇 ESWL。注意:有出血傾向或凝血功能 不佳者,不宜使用 ESWL 或 PCNL 時,可選擇軟式輸尿管腎臟鏡加上雷 射碎石術。另外若腎臟離體表太遠者不宜用 PCNL,例如過胖。 - b. 輸尿管結石:看石頭大小、有無重度腎水腫決定治療。以 1 cm 當治療方向分界。 - (a) 1 cm: 首選輸尿管鏡取石術。ESWL 也可使用但注意用 Source: [[sources/med5-book5-ch05|戊、結 石]].
-- (B) 通常以鹿角結石 (staghorn stone) 呈現 Source: [[sources/med5-book5-ch05|戊、結 石]].
-- ...Weddellite | | | | 磷酸鈣 | Brushite | | | | 三鈣磷酸 | Whitlockite | | | | 磷酸銨鎂 | Struvite | | | (B) 20 | . 一位 45 歲婦女,因腎 | 朦大型鹿角結石(staghorn stone)(成分為 | 102(二)專 | | | 磷酸銨鎂)併發急性質 | 腎盂腎炎(pyelonephritis)住院。該婦女若 | 醫五 -64 | | | 不接受治療,其死亡 | 率如何? | | | | (A) 低於 10% | (B) 10% 至 30% | | | | (C) 30% 至 50% | (D) 50% 至 70% | | | (D) 21 | . 下列何種結石在 non-o | cont Source: [[sources/med5-book5-ch05|戊、結 石]].
+- ...N tube(percutaneous nephrostomy tube)或逆行輸尿管的管路打入碳酸氫鈉。 - (2) 磷酸銨鎂結石:酸化尿液(pH 2 cm: 首選經皮腎造口取石術 (PCNL)。但可看結石成分不同而考慮 ESWL。較硬的鹿角結石 (staghorn calculi)選 PCNL。較軟的結石 (尿酸、磷酸銨鎂與雙水草酸鈣),可選擇 ESWL。注意:有出血傾向或凝血功能 不佳者,不宜使用 ESWL 或 PCNL 時,可選擇軟式輸尿管腎臟鏡加上雷 射碎石術。另外若腎臟離體表太遠者不宜用 PCNL,例如過胖。 - b. 輸尿管結石:看石頭大小、有無重度腎水腫決定治療。以 1 cm 當治療方向分界。 - (a) 1 cm: 首選輸尿管鏡取石術。ESWL 也可使用但注意用 Source: 醫(五)第5冊泌尿_戊、結石 Page 117-132.
+- (B) 通常以鹿角結石 (staghorn stone) 呈現 Source: 醫(五)第5冊泌尿_戊、結石 Page 117-132.
+- ...Weddellite | | | | 磷酸鈣 | Brushite | | | | 三鈣磷酸 | Whitlockite | | | | 磷酸銨鎂 | Struvite | | | (B) 20 | . 一位 45 歲婦女,因腎 | 朦大型鹿角結石(staghorn stone)(成分為 | 102(二)專 | | | 磷酸銨鎂)併發急性質 | 腎盂腎炎(pyelonephritis)住院。該婦女若 | 醫五 -64 | | | 不接受治療,其死亡 | 率如何? | | | | (A) 低於 10% | (B) 10% 至 30% | | | | (C) 30% 至 50% | (D) 50% 至 70% | | | (D) 21 | . 下列何種結石在 non-o | cont Source: 醫(五)第5冊泌尿_戊、結石 Page 117-132.
 
 ## Clinical Caveats
 

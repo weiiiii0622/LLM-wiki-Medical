@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- H. 人類乳突病毒與子宮頸疫苗(Human papillomavirus and HPV vaccine) *211* Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- ※ 註 2: Cervarix 於小於 15 歲者、Gardasil 於小於 14 歲者可施打兩劑即可, 效果相當;不過,免疫功能低下者,無論年齡,都要施打三劑。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- ※註3:Cervarix 獨特的佐劑(aluminum hydroxide和 monophosphoryl lipid A),可產生交叉保護效果,但作用機轉不明。 Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- H. 人類乳突病毒與子宮頸疫苗(Human papillomavirus and HPV vaccine) *211* Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- ※ 註 2: Cervarix 於小於 15 歲者、Gardasil 於小於 14 歲者可施打兩劑即可, 效果相當;不過,免疫功能低下者,無論年齡,都要施打三劑。 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- ※註3:Cervarix 獨特的佐劑(aluminum hydroxide和 monophosphoryl lipid A),可產生交叉保護效果,但作用機轉不明。 Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
 
 ## Clinical Caveats
 

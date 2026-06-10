@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- # 4. Impetigo (膿痂疹) & Ecthyma (臁瘡) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 表皮層的感染為 Impetigo, 又稱膿痂疹或膿疱病, 外觀為一粒粒小紅色瘡 (red sore), 假使沒加以治療, 感染侵犯至真皮層則為 Ecthyma。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (a) 當 impetigo 向下侵犯至真皮層時即為 ecthyma,是較深的 ulcer,外面覆蓋較厚的黑痂。常長在下肢,癒合後會留下疤痕。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- # 4. Impetigo (膿痂疹) & Ecthyma (臁瘡) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (1) 表皮層的感染為 Impetigo, 又稱膿痂疹或膿疱病, 外觀為一粒粒小紅色瘡 (red sore), 假使沒加以治療, 感染侵犯至真皮層則為 Ecthyma。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (a) 當 impetigo 向下侵犯至真皮層時即為 ecthyma,是較深的 ulcer,外面覆蓋較厚的黑痂。常長在下肢,癒合後會留下疤痕。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

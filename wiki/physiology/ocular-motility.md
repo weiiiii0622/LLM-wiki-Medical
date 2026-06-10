@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- A. 眼球運動 (Ocular movements) 152 Source: [[sources/med6-book2-ch14|寅、斜弱視]].
-- #### A. 眼球運動 (Ocular movements) Source: [[sources/med6-book2-ch14|寅、斜弱視]].
-- #### Action of the Extraocular Muscles from Primary Position Source: [[sources/med6-book2-ch14|寅、斜弱視]].
-- 4. 搏動性突眼 (pulsating exophthalmos): 眼球突出且有脈動 (pulse), 常見的原因為: - (1) 頸動脈海綿竇瘻管 (carotid-cavernous fistula): - a. 臨床特色: 患側眼眶聽到血流聲音 (orbital bruit)、脈動性眼球突出 (pulsatile proptosis)、眼結膜紅腫充血 (chemosis)並呈現螺絲起子狀 (corkscrew), 伴隨有眼痛、複視、視力減退、眼壓上升、眼球運動受限等。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- (5) 眼外肌麻痺(ophthalmoplegia):由於眼眶內腫瘤、限制性肌病變(如甲狀腺眼症、眼眶肌炎)、侵犯到眼球運動神經的病灶(如頸動脈海綿竇瘻管或惡性淚腺腫瘤)等原因造成眼球運動缺損。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- A. 眼球運動 (Ocular movements) 152 Source: 醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視 Page 167-184.
+- #### A. 眼球運動 (Ocular movements) Source: 醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視 Page 167-184.
+- #### Action of the Extraocular Muscles from Primary Position Source: 醫(六)第2冊眼科_第一篇、眼科_寅、斜弱視 Page 167-184.
+- 4. 搏動性突眼 (pulsating exophthalmos): 眼球突出且有脈動 (pulse), 常見的原因為: - (1) 頸動脈海綿竇瘻管 (carotid-cavernous fistula): - a. 臨床特色: 患側眼眶聽到血流聲音 (orbital bruit)、脈動性眼球突出 (pulsatile proptosis)、眼結膜紅腫充血 (chemosis)並呈現螺絲起子狀 (corkscrew), 伴隨有眼痛、複視、視力減退、眼壓上升、眼球運動受限等。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- (5) 眼外肌麻痺(ophthalmoplegia):由於眼眶內腫瘤、限制性肌病變(如甲狀腺眼症、眼眶肌炎)、侵犯到眼球運動神經的病灶(如頸動脈海綿竇瘻管或惡性淚腺腫瘤)等原因造成眼球運動缺損。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
 
 ## Clinical Caveats
 

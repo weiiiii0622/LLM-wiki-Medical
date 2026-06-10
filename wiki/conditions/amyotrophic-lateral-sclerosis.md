@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ||. 運動神經元疾病 154 - A. 肌萎縮側索硬化症(Amyotrophic lateral sclerosis, ALS) 154 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 疾病方面,先介紹運動神經元疾病,這類疾病僅侵犯運動神經,不影響感覺、 自主神經,肌萎縮側索硬化症(ALS)為代表,同時侵犯上運動神經元(中樞)、 下運動神經元(周邊)。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- #### A. 肌萎縮側索硬化症(Amyotrophic lateral sclerosis, ALS) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 【詳解】Pseudobulbar palsy 的特性就是會引起情緒失禁。它是 損傷於大腦皮質投射至腦幹之間的運動路徑,致口咽部器官的 運動失調,如咀嚼、吞嚥及舌頭等功能失調。除了腦中風外, 其他的中樞神經病變亦可導致此症候群,如:多發性硬化症、 ALS、腦瘤等。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- ||. 運動神經元疾病 154 - A. 肌萎縮側索硬化症(Amyotrophic lateral sclerosis, ALS) 154 Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- 疾病方面,先介紹運動神經元疾病,這類疾病僅侵犯運動神經,不影響感覺、 自主神經,肌萎縮側索硬化症(ALS)為代表,同時侵犯上運動神經元(中樞)、 下運動神經元(周邊)。 Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- #### A. 肌萎縮側索硬化症(Amyotrophic lateral sclerosis, ALS) Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- 【詳解】Pseudobulbar palsy 的特性就是會引起情緒失禁。它是 損傷於大腦皮質投射至腦幹之間的運動路徑,致口咽部器官的 運動失調,如咀嚼、吞嚥及舌頭等功能失調。除了腦中風外, 其他的中樞神經病變亦可導致此症候群,如:多發性硬化症、 ALS、腦瘤等。 Source: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48.
 
 ## Clinical Caveats
 

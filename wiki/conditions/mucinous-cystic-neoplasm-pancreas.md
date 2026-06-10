@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- | | Solidpseudopapillaryneoplasm (SPN) | Mucinous Cystic neoplasm (MCN) | Serous CysticNeoplasm(SCN) | Intraductal Paper Neoplasms (IPMNs) Main duct type | Side branch type | |-----------|--------------------------------------------|--------------------------------|------------------- Source: [[sources/med5-book3-ch19|丙、良性胰腫瘤]].
-- (B) 1. 下列何種胰臟囊狀病灶(pancreatic cystic lesion)好發於女性? ①漿液性囊狀腺瘤(serous cystadenoma) ②胰管內乳突黏液性 腫瘤(intraductal papillary mucinous tumor) ③實體偽乳突腫瘤 (solid-pseudopapillary tumor) ④黏液性囊狀腺瘤(mucinous cystic neoplasm) ⑤假性囊腫(pseudocyst) - (A) (1)(2)(4) Source: [[sources/med5-book3-ch19|丙、良性胰腫瘤]].
+- | | Solidpseudopapillaryneoplasm (SPN) | Mucinous Cystic neoplasm (MCN) | Serous CysticNeoplasm(SCN) | Intraductal Paper Neoplasms (IPMNs) Main duct type | Side branch type | |-----------|--------------------------------------------|--------------------------------|------------------- Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丙、良性胰腫瘤 Page 195-198.
+- (B) 1. 下列何種胰臟囊狀病灶(pancreatic cystic lesion)好發於女性? ①漿液性囊狀腺瘤(serous cystadenoma) ②胰管內乳突黏液性 腫瘤(intraductal papillary mucinous tumor) ③實體偽乳突腫瘤 (solid-pseudopapillary tumor) ④黏液性囊狀腺瘤(mucinous cystic neoplasm) ⑤假性囊腫(pseudocyst) - (A) (1)(2)(4) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丙、良性胰腫瘤 Page 195-198.
 
 ## Clinical Caveats
 

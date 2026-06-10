@@ -31,14 +31,14 @@ tags:
 
 ## Key Details From Sources
 
-- b. 由於裂在表皮, 水泡鬆弛易破, 表皮易脫落。在 水泡邊緣輕微施壓,原本好好的皮膚也會上下層 分離,水泡往旁擴散變大,摩擦表皮會像衛生紙 一樣脫落,稱作 Nikolsky sign(+)(右下圖)。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (A) 2. 一位 2 歲的小孩, 2 天前出現輕度發燒及皮膚病灶,並注意到全 101(-)專身出現紅斑,檢查時 Nikolsky sign 呈陽性,下列敘述何者正確? 醫四-52 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (C) 5. 下列關於 Staphylococcal scalded skin syndrome (SSSS) 之敘述, 99(一)專 何者錯誤? 醫四 -35 - (A) Nikolsky's sign 常呈現陽性 - (B) 常合併化膿性結膜炎 (purulent conjunctivitis) - (C) 水疱液常培養出 Staphylococcus aureus - (D) 必須使用全身性抗生素治療 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 尋常性天疱瘡 (Pemphigus vulgaris, PV): - a. 天疱瘡中最常見且臨床表現最嚴重的一型,病灶往往先從嘴巴開始,會出現口腔黏膜潰瘍,會誤以為是火氣大引起,數個月後皮膚才會開始出現病灶。 - b. 皮膚病灶為卵圓形含清澈組織液, 鬆且易破的水泡(flaccid vesicle/ bulla), 破裂之後呈現表淺的糜爛(erosion)傷口,很痛,會輕微出血與結痂(crust)。由於水泡鬆軟易破,可見 Nikolsky sign,故來診病患多呈現身體大面積糜爛。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- c. Nikolsky sign:在已有的水泡病灶邊緣輕微施壓,原本好的皮膚也會上下層分離,使得水泡病灶延伸擴大,代表細胞間的接合力很差。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (2) 落葉型天疱瘡 (Pemphigus foliaceus, PF): - a. 與尋常型天疱瘡(PV)類似,但抗體只攻擊 Desmoglein 1 故不會有口腔黏膜的病灶,且裂解位置更表淺,水泡通常不明顯易破而形成落屑或結痂的表面。 - b. 好發於背、前胸、臉、頭皮和腹部。 - c. Nikolsky sign(+) • - d. 病理變化: - (a) 表皮層分裂的位置在角質層(Stratum corneum)下方(Subcorneal),較 PV 的基底層上方(Suprabasal)更表淺,所以水泡更薄更容易破裂。 - (b) 也有 acantholytic cell 及 IC pattern。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (3) SJS/TEN 也會有 Nikolsky sign。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- (C) Nikolsky sign 為陰性 Source: [[sources/med4-book2-ch06|己、藥物疹]].
+- b. 由於裂在表皮, 水泡鬆弛易破, 表皮易脫落。在 水泡邊緣輕微施壓,原本好好的皮膚也會上下層 分離,水泡往旁擴散變大,摩擦表皮會像衛生紙 一樣脫落,稱作 Nikolsky sign(+)(右下圖)。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (A) 2. 一位 2 歲的小孩, 2 天前出現輕度發燒及皮膚病灶,並注意到全 101(-)專身出現紅斑,檢查時 Nikolsky sign 呈陽性,下列敘述何者正確? 醫四-52 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (C) 5. 下列關於 Staphylococcal scalded skin syndrome (SSSS) 之敘述, 99(一)專 何者錯誤? 醫四 -35 - (A) Nikolsky's sign 常呈現陽性 - (B) 常合併化膿性結膜炎 (purulent conjunctivitis) - (C) 水疱液常培養出 Staphylococcus aureus - (D) 必須使用全身性抗生素治療 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (1) 尋常性天疱瘡 (Pemphigus vulgaris, PV): - a. 天疱瘡中最常見且臨床表現最嚴重的一型,病灶往往先從嘴巴開始,會出現口腔黏膜潰瘍,會誤以為是火氣大引起,數個月後皮膚才會開始出現病灶。 - b. 皮膚病灶為卵圓形含清澈組織液, 鬆且易破的水泡(flaccid vesicle/ bulla), 破裂之後呈現表淺的糜爛(erosion)傷口,很痛,會輕微出血與結痂(crust)。由於水泡鬆軟易破,可見 Nikolsky sign,故來診病患多呈現身體大面積糜爛。 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- c. Nikolsky sign:在已有的水泡病灶邊緣輕微施壓,原本好的皮膚也會上下層分離,使得水泡病灶延伸擴大,代表細胞間的接合力很差。 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- (2) 落葉型天疱瘡 (Pemphigus foliaceus, PF): - a. 與尋常型天疱瘡(PV)類似,但抗體只攻擊 Desmoglein 1 故不會有口腔黏膜的病灶,且裂解位置更表淺,水泡通常不明顯易破而形成落屑或結痂的表面。 - b. 好發於背、前胸、臉、頭皮和腹部。 - c. Nikolsky sign(+) • - d. 病理變化: - (a) 表皮層分裂的位置在角質層(Stratum corneum)下方(Subcorneal),較 PV 的基底層上方(Suprabasal)更表淺,所以水泡更薄更容易破裂。 - (b) 也有 acantholytic cell 及 IC pattern。 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- (3) SJS/TEN 也會有 Nikolsky sign。 Source: 醫(四)第2冊皮膚_己、藥物疹 Page 123-129.
+- (C) Nikolsky sign 為陰性 Source: 醫(四)第2冊皮膚_己、藥物疹 Page 123-129.
 
 ## Clinical Caveats
 

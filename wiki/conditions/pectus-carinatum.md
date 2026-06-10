@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- C. 凸胸、雞胸(Pectus carinatum、Pigeon breast) 6 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- ### C. 凸胸、雞胸 (Pectus carinatum、Pigeon breast) Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- 5. 類型: - (1) 胸骨體突出型(chondrogladiolar protrusion type)。 - a. 最常見。 - b. 胸骨體及兩側的肋軟骨對稱突起。 - (2) 胸骨體突出合併肋軟骨凹陷型 (chondrogladiolar protrusion type with a lateral depression of the ribs)。 - a. 波蘭氏症候群 (Poland's syndrome) 最常合併此類型雞胸。 - b. 胸骨體突起及合併單或雙側的肋軟骨凹陷。 - (3) 胸骨柄突出型 (chondromanubrial protrusion type)。 - a. 以胸骨柄及第一、二肋軟骨突出較明顯, 胸骨體向後移位。 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- ...3:1)。 - c. 常合併多種其他異常,佔肺外游離肺中約 40%,包括後外側橫隔疝氣(posterolateral diaphragmatic hernia)、橫隔上提(eventration of the diaphragm)、漏斗胸和雞胸(pectus excavatum and carinatum)、腸道雙連囊腫(enteric duplication cysts)、先天性心臟病(congenital heart disease)。 - d. 症狀:通常沒症狀。因無支氣管聯通,所以感染機率低。 - e. 檢查: 難以透過非侵犯性影像學檢查發現而進一步安排檢查診斷,通常是經由其他檢查意外發現。 - f. 治療:手術切除。 Source: [[sources/med5-book4-ch03|丙、肺]].
+- C. 凸胸、雞胸(Pectus carinatum、Pigeon breast) 6 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- ### C. 凸胸、雞胸 (Pectus carinatum、Pigeon breast) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- 5. 類型: - (1) 胸骨體突出型(chondrogladiolar protrusion type)。 - a. 最常見。 - b. 胸骨體及兩側的肋軟骨對稱突起。 - (2) 胸骨體突出合併肋軟骨凹陷型 (chondrogladiolar protrusion type with a lateral depression of the ribs)。 - a. 波蘭氏症候群 (Poland's syndrome) 最常合併此類型雞胸。 - b. 胸骨體突起及合併單或雙側的肋軟骨凹陷。 - (3) 胸骨柄突出型 (chondromanubrial protrusion type)。 - a. 以胸骨柄及第一、二肋軟骨突出較明顯, 胸骨體向後移位。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- ...3:1)。 - c. 常合併多種其他異常,佔肺外游離肺中約 40%,包括後外側橫隔疝氣(posterolateral diaphragmatic hernia)、橫隔上提(eventration of the diaphragm)、漏斗胸和雞胸(pectus excavatum and carinatum)、腸道雙連囊腫(enteric duplication cysts)、先天性心臟病(congenital heart disease)。 - d. 症狀:通常沒症狀。因無支氣管聯通,所以感染機率低。 - e. 檢查: 難以透過非侵犯性影像學檢查發現而進一步安排檢查診斷,通常是經由其他檢查意外發現。 - f. 治療:手術切除。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
 
 ## Clinical Caveats
 

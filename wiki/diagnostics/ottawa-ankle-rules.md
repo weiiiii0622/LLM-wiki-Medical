@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (2) Ottawa ankle rules:用來判斷一個踝關節疼痛的病人,是否需要照 X-ray 看有無骨折(請參考圖片),分成 malleolar zone 和 midfoot zone,如果有下列敘述的症狀產生極有可能有骨折須照 X-ray: - a. Malleolar zone: Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- #### b. Midfoot zone: Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- (D) 2. 成年人的踝關節急性創傷,可以根據 Ottawa ankle rules 來判斷是 104( ) 専 否需要接受 X 光檢查。下列何者不是 Ottawa ankle rules 的判斷 醫五 -58 準則? - (A) 受傷後內踝有壓痛(tenderness at tip of medial malleolus) - (B) 受傷後外踝有壓痛(tenderness at tip of lateral malleolus) - (C) 受傷後無法負重 (inability to bear weight) - (D) 受傷後足踝背屈活動受限 (limited dorsiflexion of ankle) Source: [[sources/med5-book6-ch01|甲、足踝關節]].
+- (2) Ottawa ankle rules:用來判斷一個踝關節疼痛的病人,是否需要照 X-ray 看有無骨折(請參考圖片),分成 malleolar zone 和 midfoot zone,如果有下列敘述的症狀產生極有可能有骨折須照 X-ray: - a. Malleolar zone: Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
+- #### b. Midfoot zone: Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
+- (D) 2. 成年人的踝關節急性創傷,可以根據 Ottawa ankle rules 來判斷是 104( ) 専 否需要接受 X 光檢查。下列何者不是 Ottawa ankle rules 的判斷 醫五 -58 準則? - (A) 受傷後內踝有壓痛(tenderness at tip of medial malleolus) - (B) 受傷後外踝有壓痛(tenderness at tip of lateral malleolus) - (C) 受傷後無法負重 (inability to bear weight) - (D) 受傷後足踝背屈活動受限 (limited dorsiflexion of ankle) Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
 
 ## Clinical Caveats
 

@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 手術治療包含 level II 腋下淋巴廓清 (axillary lymph node dissection up to level II) Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- ...simple mastectomy)與部分乳房切除術(partial mastectomy,又稱 Lumpectomy)。 - (2) 腋下淋巴結:可分成前哨淋巴結切片(Sentinel lymph node biopsy, SLNB) 與腋下淋巴結廓清術(Axillary lymph node dissection, ALND)。 - (3) 因此手術的方式可以有四種選擇:全切除 +SLNB、全切除 +ALND (MRM)、 部分切除 +SLNB (BCS)、部分切除 +ALND (QUART)。 - (4) 前哨淋巴結切片與腋下淋巴結廓清術: - a. 前哨淋巴結切片(Sentinel lymph node biopsy, SLNB)。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 腋窩淋巴結也都不會受到侵犯。因此只要術中取出第一顆淋巴結去化 驗是否受到侵犯,就可以決定要不要做腋下淋巴結廓清術。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- | (C) | 1. | 腋下淋巴結廓清時,若遭切斷,會造成上臂內側麻木或疼痛的神經為何? | 109(一)專醫五-36 | |-----|----|-----------------------------------------------------------|------------------| | | | (A) long thoracic nerve | | | | | (B) thoracodorsal nerve | | | | | (C) interco Source: [[sources/med5-book3-ch21|甲、解剖構造]].
-- (C) 6. 施行腋下淋巴結廓清手術時,傷到那條神經,會造成上臂內側 99(-)專 麻木或疼痛? 醫五-10 - (A) 長胸神經 (long thoracic nerve) - (B) 胸背神經 (thoracodorsal nerve) - (C) 肋間臂神經 (intercostal brachial nerve) - (D) 胸肌神經 (pectoral nerve) Source: [[sources/med5-book3-ch21|甲、解剖構造]].
+- (C) 手術治療包含 level II 腋下淋巴廓清 (axillary lymph node dissection up to level II) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- ...simple mastectomy)與部分乳房切除術(partial mastectomy,又稱 Lumpectomy)。 - (2) 腋下淋巴結:可分成前哨淋巴結切片(Sentinel lymph node biopsy, SLNB) 與腋下淋巴結廓清術(Axillary lymph node dissection, ALND)。 - (3) 因此手術的方式可以有四種選擇:全切除 +SLNB、全切除 +ALND (MRM)、 部分切除 +SLNB (BCS)、部分切除 +ALND (QUART)。 - (4) 前哨淋巴結切片與腋下淋巴結廓清術: - a. 前哨淋巴結切片(Sentinel lymph node biopsy, SLNB)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- 腋窩淋巴結也都不會受到侵犯。因此只要術中取出第一顆淋巴結去化 驗是否受到侵犯,就可以決定要不要做腋下淋巴結廓清術。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- | (C) | 1. | 腋下淋巴結廓清時,若遭切斷,會造成上臂內側麻木或疼痛的神經為何? | 109(一)專醫五-36 | |-----|----|-----------------------------------------------------------|------------------| | | | (A) long thoracic nerve | | | | | (B) thoracodorsal nerve | | | | | (C) interco Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_甲、解剖構造 Page 215-220.
+- (C) 6. 施行腋下淋巴結廓清手術時,傷到那條神經,會造成上臂內側 99(-)專 麻木或疼痛? 醫五-10 - (A) 長胸神經 (long thoracic nerve) - (B) 胸背神經 (thoracodorsal nerve) - (C) 肋間臂神經 (intercostal brachial nerve) - (D) 胸肌神經 (pectoral nerve) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_甲、解剖構造 Page 215-220.
 
 ## Clinical Caveats
 

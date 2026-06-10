@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- c. 嚴重的前壁缺血可見前方導極 T 波導置(下圖),雖未造成梗塞,但暗示有 LAD 嚴重狹窄(Wellens' syndrome)。(Harrison Fig 221-12) Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
+- c. 嚴重的前壁缺血可見前方導極 T 波導置(下圖),雖未造成梗塞,但暗示有 LAD 嚴重狹窄(Wellens' syndrome)。(Harrison Fig 221-12) Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
 
 ## Clinical Caveats
 

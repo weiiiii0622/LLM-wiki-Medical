@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- C. 女性不孕 (Female infertility) 381 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- D. 男性不孕 (Male infertility) 387 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- (4) 精液分析(Semen analysis):請見『男性不孕』章節。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- ...| | | | (A) 勃起功能 | (B) 性伴侶滿意度 | | | | (C) 性慾 | (D) 高潮功能 | | | | 【詳解】IIEF以患者本身滿 | 意度為主要考慮,故(B)除外。 | | | (A) 20 | 可以用手術矯正之男性不孕 | 症病因最常見的(the most common | 102(一)專 | | | correctable cause of male infer | tility)為何? | 醫五 -71 | | | (A) Varicocele | (B) Testicular torsion | | | | (C) Testicular tumor | (D) Hydrocele | | | (B) 21. | 男性更年期(Male Clima Source: [[sources/med5-book5-ch08|辛、男性學]].
+- C. 女性不孕 (Female infertility) 381 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- D. 男性不孕 (Male infertility) 387 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- (4) 精液分析(Semen analysis):請見『男性不孕』章節。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- ...| | | | (A) 勃起功能 | (B) 性伴侶滿意度 | | | | (C) 性慾 | (D) 高潮功能 | | | | 【詳解】IIEF以患者本身滿 | 意度為主要考慮,故(B)除外。 | | | (A) 20 | 可以用手術矯正之男性不孕 | 症病因最常見的(the most common | 102(一)專 | | | correctable cause of male infer | tility)為何? | 醫五 -71 | | | (A) Varicocele | (B) Testicular torsion | | | | (C) Testicular tumor | (D) Hydrocele | | | (B) 21. | 男性更年期(Male Clima Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
 
 ## Clinical Caveats
 

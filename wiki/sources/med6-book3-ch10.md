@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_癸、其他.md
+raw_source_title: "醫(六)第3冊復健_癸、其他"
+raw_source_file: "raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_癸、其他.md"
+page_start: 207
+page_end: 222
+canonical_citation: "醫(六)第3冊復健_癸、其他 Page 207-222"
 book: 醫(六)第3冊復健
 chapter_order: 10
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第3冊復健
 - Chapter file: `raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_癸、其他.md`
+- Pages covered: 207-222
+- Canonical citation: 醫(六)第3冊復健_癸、其他 Page 207-222
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

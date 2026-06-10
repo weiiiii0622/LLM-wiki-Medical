@@ -225,24 +225,24 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 缺點:遇到麻醉機裡的二氧化碳吸附劑(鹼性物質)會產生 compound A,具有腎臟毒性。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
-- ICP: 顱內壓; RBF: renal blood flow; HBF: hepatic blood flow Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
-- (A) 是一種非兒茶酚胺 (noncatecholamine) - (B) 在心血管作用上,可以上升血壓、加快心跳 - (C) 是一種支氣管收縮劑(bronchoconstrictor) - (D) 會減少腎臟血流量 (renal blood flow) Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- 6. 腎臟系統:是否有 CKD/ESRD,有無進行血液透析或腹膜透析,術前血液檢查數值 為何。有沒有哪一手禁做治療? Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- d. 血液透析:連續性腎替代性治療(Continuous renal replacement therapy)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- ...現肌肉鬆弛的現象。 - b. Sch 在血中會迅速的被肝臟製造的 pseudocholinesterase 水解,所以作用時間 很短。血中 pseudocholinesterase 的量也會影響 Sch 的作用時間,有些病患可能有肝臟疾病、腎臟疾病、癌症或妊娠等也會改變 pseudocholinesterase 的性質,及所謂的 atypical plasma cholinesterase,由於無法正常代謝 Sch,使 Sch 作用延長。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
-- 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
-- | Uncomplicated UTI | 非複雜性指患者為非懷孕時期的健康成人 | |-------------------|-------------------------------------| | Complicated UTI | 複雜性指患者存在可能導致治療失敗的潛在問題,這些問題 | | | 包括 (1) 糖尿病、(2) 懷孕、(3) 院內感染、(4) 腎衰竭、 | | | (5) 放置導尿管或 PCN、(6) 泌尿道有結構或功能異常、 | | | (7) 泌尿道阻塞、(8) 腎臟移植、(9) 免疫功能不全等 | Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
-- ※複雜性腎盂腎炎可能進展為腎膿瘍(renal abscess),可能導致敗血症、休克、 甚至多重器官衰竭 Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
-- 【詳解】無症狀的菌尿症(asymptomatic bacteriuria)一般不需要治療,不過,懷孕婦女發生泌尿道感染屬於 complicated UTI,產生併發症(如早產或腎臟感染)機會大,較非懷孕時更需要積極的治療,故必須給予抗生素治療。 Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
-- b. 血管阻力及血壓:受到懷孕內分泌變化的影響,造成血管擴張,周邊的血管阻力下降(包括肺部和腎臟),因而血壓也下降;不過,血壓到第三孕程會慢慢回升至懷孕前的狀態。 - ※ Supine hypotension syndrome: 妊娠 20 週後,子宮大到超出骨盆腔,來到腹腔,當孕婦平躺時,增大的子宮會壓迫 IVC,造成 preload ↓→ CO ↓→ hypotension → reflex autonomic activation,導致頭暈、嘔吐、手腳麻木、冒冷汗等症狀。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- | 腎臟 | · 腎臟增大 1~1.5 公分,腎臟容積增加 30% | |-------------|--------------------------------------------| | | ・ 腎血管阻力下降,腎血流增加 80%,腎絲球過濾率增加 40~50% | | | (22~24 週達到高峰),使得血中的 BUN 和 creatinine 數值是下降 | | L. Affal, 1 | 的,另外,可能會有輕微的尿蛋白 | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (C) donor 的血液供給 recipient,造成 donor 的血液容積下降,胎 兒腎臟灌流 (renal perfusion)下降,所以尿量變少,會使羊 水過少 (oligohydramnios),嚴重時超音波下 donor 膀胱會看 不到,且常被推擠至一角落 (stuck twin) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- e. 代謝:硫酸鎂於腎臟中代謝,若腎功能不佳,則須調整劑量並密切監測腎功能。 (4) 降血壓: Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- | 對母親長期 | • 會增加往後高血壓、心血管疾病(包括冠心病、中風和心衰竭) | | | |-------|--------------------------------|--|--| | 的影響 | 和腎臟病的風險 | | | | | ・ 會増加死亡率 | | | | 對新生兒的 | • 可能增加心血管疾病和死亡率 | | | | 影響 | • 可能增加自閉症和過動兒的風險 | | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- (D) 若有慢性高血壓的孕婦在懷孕前沒有腎臟疾病,懷孕後肌酸 酐 (creatinine) 若大於 1.1 mg/dL 則可診斷為子癇前症 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- ※註 2:由於 oxytocin 的構造與 vasopressin(ADH)相似,會和腎臟 vasopressin receptor 交互作用,造成水分滯留和稀釋性低血鈉,即是所謂的水中毒。當高劑量催產素(40 mU/min)合併大量的低滲透靜脈輸液( $\geq$ 3 L)持續( $\geq$ 7 hrs)給予,便容易產生。低血鈉的症狀包括:頭痛、噁心嘔吐、腹痛、疲倦、意識不清、癲癇大發作和神經學損傷。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- (C) 98% 的鈣會被腎臟再吸收,主要是在遠端腎小管 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
+- (2) 缺點:遇到麻醉機裡的二氧化碳吸附劑(鹼性物質)會產生 compound A,具有腎臟毒性。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑 Page 73-82.
+- ICP: 顱內壓; RBF: renal blood flow; HBF: hepatic blood flow Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑 Page 73-82.
+- (A) 是一種非兒茶酚胺 (noncatecholamine) - (B) 在心血管作用上,可以上升血壓、加快心跳 - (C) 是一種支氣管收縮劑(bronchoconstrictor) - (D) 會減少腎臟血流量 (renal blood flow) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- 6. 腎臟系統:是否有 CKD/ESRD,有無進行血液透析或腹膜透析,術前血液檢查數值 為何。有沒有哪一手禁做治療? Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- d. 血液透析:連續性腎替代性治療(Continuous renal replacement therapy)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- ...現肌肉鬆弛的現象。 - b. Sch 在血中會迅速的被肝臟製造的 pseudocholinesterase 水解,所以作用時間 很短。血中 pseudocholinesterase 的量也會影響 Sch 的作用時間,有些病患可能有肝臟疾病、腎臟疾病、癌症或妊娠等也會改變 pseudocholinesterase 的性質,及所謂的 atypical plasma cholinesterase,由於無法正常代謝 Sch,使 Sch 作用延長。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
+- 6. Wegener 氏肉芽腫(Wegener's granulomatosis): 主要侵犯上呼吸道(鼻竇)、下呼吸道(肺部)和腎臟(腎絲球腎炎)的壞死性肉芽腫性血管炎。 - (1) 眼部表徵:鞏膜炎、上鞏膜炎、結膜炎、周邊潰爛性角膜炎、葡萄膜炎、視神 經炎等。 - (2) 治療:類固醇及 cyclophosphamide。 Source: 醫(六)第2冊眼科_第一篇、眼科_未、系統性疾病在眼睛的表現 Page 225-232.
+- | Uncomplicated UTI | 非複雜性指患者為非懷孕時期的健康成人 | |-------------------|-------------------------------------| | Complicated UTI | 複雜性指患者存在可能導致治療失敗的潛在問題,這些問題 | | | 包括 (1) 糖尿病、(2) 懷孕、(3) 院內感染、(4) 腎衰竭、 | | | (5) 放置導尿管或 PCN、(6) 泌尿道有結構或功能異常、 | | | (7) 泌尿道阻塞、(8) 腎臟移植、(9) 免疫功能不全等 | Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection) Page 445-448.
+- ※複雜性腎盂腎炎可能進展為腎膿瘍(renal abscess),可能導致敗血症、休克、 甚至多重器官衰竭 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection) Page 445-448.
+- 【詳解】無症狀的菌尿症(asymptomatic bacteriuria)一般不需要治療,不過,懷孕婦女發生泌尿道感染屬於 complicated UTI,產生併發症(如早產或腎臟感染)機會大,較非懷孕時更需要積極的治療,故必須給予抗生素治療。 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection) Page 445-448.
+- b. 血管阻力及血壓:受到懷孕內分泌變化的影響,造成血管擴張,周邊的血管阻力下降(包括肺部和腎臟),因而血壓也下降;不過,血壓到第三孕程會慢慢回升至懷孕前的狀態。 - ※ Supine hypotension syndrome: 妊娠 20 週後,子宮大到超出骨盆腔,來到腹腔,當孕婦平躺時,增大的子宮會壓迫 IVC,造成 preload ↓→ CO ↓→ hypotension → reflex autonomic activation,導致頭暈、嘔吐、手腳麻木、冒冷汗等症狀。 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- | 腎臟 | · 腎臟增大 1~1.5 公分,腎臟容積增加 30% | |-------------|--------------------------------------------| | | ・ 腎血管阻力下降,腎血流增加 80%,腎絲球過濾率增加 40~50% | | | (22~24 週達到高峰),使得血中的 BUN 和 creatinine 數值是下降 | | L. Affal, 1 | 的,另外,可能會有輕微的尿蛋白 | | Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- (C) donor 的血液供給 recipient,造成 donor 的血液容積下降,胎 兒腎臟灌流 (renal perfusion)下降,所以尿量變少,會使羊 水過少 (oligohydramnios),嚴重時超音波下 donor 膀胱會看 不到,且常被推擠至一角落 (stuck twin) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- e. 代謝:硫酸鎂於腎臟中代謝,若腎功能不佳,則須調整劑量並密切監測腎功能。 (4) 降血壓: Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- | 對母親長期 | • 會增加往後高血壓、心血管疾病(包括冠心病、中風和心衰竭) | | | |-------|--------------------------------|--|--| | 的影響 | 和腎臟病的風險 | | | | | ・ 會増加死亡率 | | | | 對新生兒的 | • 可能增加心血管疾病和死亡率 | | | | 影響 | • 可能增加自閉症和過動兒的風險 | | | Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- (D) 若有慢性高血壓的孕婦在懷孕前沒有腎臟疾病,懷孕後肌酸 酐 (creatinine) 若大於 1.1 mg/dL 則可診斷為子癇前症 Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- ※註 2:由於 oxytocin 的構造與 vasopressin(ADH)相似,會和腎臟 vasopressin receptor 交互作用,造成水分滯留和稀釋性低血鈉,即是所謂的水中毒。當高劑量催產素(40 mU/min)合併大量的低滲透靜脈輸液( $\geq$ 3 L)持續( $\geq$ 7 hrs)給予,便容易產生。低血鈉的症狀包括:頭痛、噁心嘔吐、腹痛、疲倦、意識不清、癲癇大發作和神經學損傷。 Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- (C) 98% 的鈣會被腎臟再吸收,主要是在遠端腎小管 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
 
 ## Clinical Caveats
 

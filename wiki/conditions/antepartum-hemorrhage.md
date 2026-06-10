@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- E. 產前出血 (Antepartum hemorrhage) 53 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ### E. 產前出血 (Antepartum hemorrhage) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- 1. 簡介:陰道出血常見於懷孕的各階段,而產前出血(antepartum hemorrhage)一般 是指懷孕 20 週後至生產前的出血。產道由下往上、胎兒、母親都可能是出血的來 源,故陰道出血的成因可依來源的不同及不同的懷孕階段來探討。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- E. 產前出血 (Antepartum hemorrhage) 53 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ### E. 產前出血 (Antepartum hemorrhage) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- 1. 簡介:陰道出血常見於懷孕的各階段,而產前出血(antepartum hemorrhage)一般 是指懷孕 20 週後至生產前的出血。產道由下往上、胎兒、母親都可能是出血的來 源,故陰道出血的成因可依來源的不同及不同的懷孕階段來探討。 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
 
 ## Clinical Caveats
 

@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- 5. 約 10% 的斜頸兒童會有與患側同側的髖關節發育不良 (developmental dysplasia of the hip, DDH),故斜頸兒童記得要做髖關節的評估。 Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- D. 髋關節發育不良(Developmental dysplasia of hip, DDH) 150 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
-- 小兒骨科相對難度高,很多是大人看不到的疾病,所以本章介紹內容依照 考古題取向,幫大家發揮「二八法則」的精神,整理一些相對常考的主題,包含 Congenital radioulnar synostosis、股骨生長板滑脫、Cerebral palsy、髋關節發育不良(DDH)、小兒股骨頭缺血性壞死(LCPD)與相關骨疾病等,希望大家能在最短的時間拿到較高的分數。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
-- #### D. 髋關節發育不良 (Developmental dysplasia of hip, DDH) Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
+- 5. 約 10% 的斜頸兒童會有與患側同側的髖關節發育不良 (developmental dysplasia of the hip, DDH),故斜頸兒童記得要做髖關節的評估。 Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- D. 髋關節發育不良(Developmental dysplasia of hip, DDH) 150 Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
+- 小兒骨科相對難度高,很多是大人看不到的疾病,所以本章介紹內容依照 考古題取向,幫大家發揮「二八法則」的精神,整理一些相對常考的主題,包含 Congenital radioulnar synostosis、股骨生長板滑脫、Cerebral palsy、髋關節發育不良(DDH)、小兒股骨頭缺血性壞死(LCPD)與相關骨疾病等,希望大家能在最短的時間拿到較高的分數。 Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
+- #### D. 髋關節發育不良 (Developmental dysplasia of hip, DDH) Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
 
 ## Clinical Caveats
 

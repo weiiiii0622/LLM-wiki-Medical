@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 置放中央靜脈導管時,以頭低腳高的姿勢(Trendelenburg position),可使內頸靜脈血管較易鼓脹、較易成功置放,且可以減少發生空氣栓塞的機會 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- J. 德式步態(Trendelenburg gait) 32 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- #### J. 德式步態 (Trendelenburg gait) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- (d) 仰臥頭高腳低(reverse Trendelenburg)的相對禁忌症 - i. 低血壓或使用血管擴張劑。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- (C) 置放中央靜脈導管時,以頭低腳高的姿勢(Trendelenburg position),可使內頸靜脈血管較易鼓脹、較易成功置放,且可以減少發生空氣栓塞的機會 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- J. 德式步態(Trendelenburg gait) 32 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- #### J. 德式步態 (Trendelenburg gait) Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- (c) 仰臥頭低腳高 (Trendelenburg position) 姿勢的相對禁忌症: - i. 顱內壓 (ICP) > 20 mmHg。 - ii. 避免顱內壓增加的病人(例如,神經外科、動脈瘤、眼睛手術)。 - iii. 未受控制的高血壓。 - iv. 腹脹。 - v. 食道手術。 - vi. 近期因肺癌接受外科手術或放射治療造成的大量咳血。 - vii. 呼吸道有吸入危險的情況(剛灌食或用餐後)。 Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- (d) 仰臥頭高腳低(reverse Trendelenburg)的相對禁忌症 - i. 低血壓或使用血管擴張劑。 Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
 
 ## Clinical Caveats
 

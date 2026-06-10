@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道.md
+raw_source_title: "醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道"
+raw_source_file: "raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道.md"
+page_start: 199
+page_end: 204
+canonical_citation: "醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道 Page 199-204"
 book: 醫(五)第4冊胸外小兒外
 chapter_order: 14
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第4冊胸外小兒外
 - Chapter file: `raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道.md`
+- Pages covered: 199-204
+- Canonical citation: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_庚、生殖泌尿道 Page 199-204
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

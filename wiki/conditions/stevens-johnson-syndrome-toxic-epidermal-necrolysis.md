@@ -43,23 +43,23 @@ tags:
 
 ## Key Details From Sources
 
-- (4) 「維生素 A 缺乏症」或因為砂眼、化學灼傷、Stevens-Johnson 症候群等所引起的結膜結疤,會使結膜上皮細胞角質化,因而黏液素分泌減少。 Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
-- a. 偽膜:附著於發炎的黏膜上皮上的凝固滲出物,特徵是可以很容易地撕開且不會流血。常見原因有嚴重的腺病毒感染和淋菌性結膜炎、Stevens-Johnson 症候群。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
-- ...ox) \ Neptazane ; | | anhydrase | 一缺點為作用時間短,眼壓 | 鉀、腹瀉、藥物過敏、 | Topical: dorzolamide | | inhibitor | 下降效果不如 β-blockers。 | SJS 等。 | | | | 且其屬於 sulfa drug,有過 | | | | | 敏史需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 | 針對短暫的降眼壓救急用(如 | 副作用:血壓上升。 | □服:glycerol、isosorbide | | | 急性隅角閉鎖性青光眼)。 | | IV: mannitol | Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- ...pertension, 即 pseudotumor cerebri。為已排除腫瘤等結構性問題之顱內高壓。最常見症狀為 頭痛、視力模糊或複視。 (C) 38. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(一)專 症候群(Stevens-Johnson syndrome)」? 醫四 -74 (A) topiramate (B) gabapentin (C) lamotrigine (D) valproate 【詳解】lamotrigine 在臨床上很容易有 skin rash 的副作用,也 易引發過敏。AED中除了老藥 phenytoin 和 carbamazepine 外, 新藥就 lamotrigine 有案例報告會引發 SJS。 (#) 39. 下列何種癲癇藥物之作用機轉,不會 Source: [[sources/med4-book4-ch02|乙、癲癇]].
-- ...| | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramate | | Fatigue、cognitive dulling、不易 body weight | | | | | increase | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- ...尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic episode)在 DSM-IV-TR 的診斷準則(criteria)之敘述,下列何者錯誤? (A) 膨脹的自尊心或自大狂 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- (C) 緩慢增加 lamotrigine 劑量較不會引起史蒂芬-強生症候群 (Stevens-Johnson Syndrome) 等副作用 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- (C) 9. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(-)專 症候群(Stevens-Johnson syndrome)」? 醫四-74 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- B. 史帝芬強生症候群與毒性表皮壞死溶解症 112 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- B. 史帝芬強生症候群 (Stevens-Johnson syndrome, SJS) 與毒性表皮壞死溶解症 (Toxic epidermal necrolysis, TEN) Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- 2. 目前亞洲種族被發現某些 HLA-B 基因型與特定藥物所引起的 SJS/TEN 相關: HLA-B\*1502 (carbamazepine) 和 HLA-B\*5801 (allopurinol)。 Source: [[sources/med4-book2-ch06|己、藥物疹]].
-- (C) Stevens-Johnson syndrome Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- 【詳解】會有 Nikolsky sign 的疾病有 staphylococcal scalded skin syndrome、pemphigus vulgaris、pemphigus foliaceus、SJS/TEN。 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (A) 9. 一位 80 歲老翁,在肢端長滿了鼓脹水泡,病理下螢光免疫檢查 101(二)專 發現 IgG, C3 線狀堆積在基底膜(basement membrane zone)。 醫四-41 該疾患最可能是下列何種水泡病? - (A) bullous pemphigoid - (B) pemphigus vulgaris - (C) Stevens-Johnson syndrome - (D) bullous drug eruptions Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- (A) Toxic epidermal necrolysis Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 【詳解】(A)TEN 會有 atypical target lesion,起水泡、全身大範圍脫皮、侵犯至黏膜,且多和使用藥物有關。(C)Kawasaki disease 會有淋巴結腫大、結膜炎和草莓舌。(D)Scarlet fever 會侵犯黏膜、草莓舌、淋巴結腫大。該幼童無發現淋巴結腫大,口腔黏膜和舌頭完整無異常,故懷疑是 SSSS。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (4) 「維生素 A 缺乏症」或因為砂眼、化學灼傷、Stevens-Johnson 症候群等所引起的結膜結疤,會使結膜上皮細胞角質化,因而黏液素分泌減少。 Source: 醫(六)第2冊眼科_第一篇、眼科_丙、淚液系統及乾眼 Page 35-42.
+- a. 偽膜:附著於發炎的黏膜上皮上的凝固滲出物,特徵是可以很容易地撕開且不會流血。常見原因有嚴重的腺病毒感染和淋菌性結膜炎、Stevens-Johnson 症候群。 Source: 醫(六)第2冊眼科_第一篇、眼科_丁、結膜 Page 43-52.
+- ...ox) \ Neptazane ; | | anhydrase | 一缺點為作用時間短,眼壓 | 鉀、腹瀉、藥物過敏、 | Topical: dorzolamide | | inhibitor | 下降效果不如 β-blockers。 | SJS 等。 | | | | 且其屬於 sulfa drug,有過 | | | | | 敏史需特別注意。 | | | | | -第二線用藥。 | | | | 高滲透壓製劑 | 針對短暫的降眼壓救急用(如 | 副作用:血壓上升。 | □服:glycerol、isosorbide | | | 急性隅角閉鎖性青光眼)。 | | IV: mannitol | Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- ...pertension, 即 pseudotumor cerebri。為已排除腫瘤等結構性問題之顱內高壓。最常見症狀為 頭痛、視力模糊或複視。 (C) 38. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(一)專 症候群(Stevens-Johnson syndrome)」? 醫四 -74 (A) topiramate (B) gabapentin (C) lamotrigine (D) valproate 【詳解】lamotrigine 在臨床上很容易有 skin rash 的副作用,也 易引發過敏。AED中除了老藥 phenytoin 和 carbamazepine 外, 新藥就 lamotrigine 有案例報告會引發 SJS。 (#) 39. 下列何種癲癇藥物之作用機轉,不會 Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
+- ...| | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | | Lamotrigine | | Skin rash (10%), Stevens-Johnson syndrome | | | | | (0.1%) | | | Topiramate | | Fatigue、cognitive dulling、不易 body weight | | | | | increase | | Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- ...尖瓣膜異常症(Ebstein's anomaly) (B) valproate 在懷孕婦女身上所造成的畸胎性,最常見為膽道閉鎖(biliary atresia) | 104(一)專醫四-61 | | (C) lamotrigine 可能引起毒性表皮壞死溶解症(toxic epidermal necrolysis) (D) carbamazepine 可能會引起史帝芬強生症候群(Stevens-Johnson syndrome) 【詳解】(B) 容易導致神經管發展缺陷(neural tube defect)。 | | | (C) 27. 有關躁症發作(manic episode)在 DSM-IV-TR 的診斷準則(criteria)之敘述,下列何者錯誤? (A) 膨脹的自尊心或自大狂 Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- (C) 緩慢增加 lamotrigine 劑量較不會引起史蒂芬-強生症候群 (Stevens-Johnson Syndrome) 等副作用 Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- (C) 9. 下列抗癲癇藥物中,何者最可能造成致命性的「史蒂文生-強生 102(-)專 症候群(Stevens-Johnson syndrome)」? 醫四-74 Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
+- | Dose-related adverse effects | Idiosyncratic adverse effects | |------------------------------|-------------------------------| | Double or blurred vision | Agranulocytosis | | Vertigo | Stevens-Johnson syndrome | | GI disturbance | Aplastic anemia | | Task performance impairment | Hepatic failure | | Hematological effects | Rash | | | Pancreatitis | Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
+- B. 史帝芬強生症候群與毒性表皮壞死溶解症 112 Source: 醫(四)第2冊皮膚_己、藥物疹 Page 123-129.
+- B. 史帝芬強生症候群 (Stevens-Johnson syndrome, SJS) 與毒性表皮壞死溶解症 (Toxic epidermal necrolysis, TEN) Source: 醫(四)第2冊皮膚_己、藥物疹 Page 123-129.
+- 2. 目前亞洲種族被發現某些 HLA-B 基因型與特定藥物所引起的 SJS/TEN 相關: HLA-B\*1502 (carbamazepine) 和 HLA-B\*5801 (allopurinol)。 Source: 醫(四)第2冊皮膚_己、藥物疹 Page 123-129.
+- (C) Stevens-Johnson syndrome Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- 【詳解】會有 Nikolsky sign 的疾病有 staphylococcal scalded skin syndrome、pemphigus vulgaris、pemphigus foliaceus、SJS/TEN。 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- (A) 9. 一位 80 歲老翁,在肢端長滿了鼓脹水泡,病理下螢光免疫檢查 101(二)專 發現 IgG, C3 線狀堆積在基底膜(basement membrane zone)。 醫四-41 該疾患最可能是下列何種水泡病? - (A) bullous pemphigoid - (B) pemphigus vulgaris - (C) Stevens-Johnson syndrome - (D) bullous drug eruptions Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- (A) Toxic epidermal necrolysis Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- 【詳解】(A)TEN 會有 atypical target lesion,起水泡、全身大範圍脫皮、侵犯至黏膜,且多和使用藥物有關。(C)Kawasaki disease 會有淋巴結腫大、結膜炎和草莓舌。(D)Scarlet fever 會侵犯黏膜、草莓舌、淋巴結腫大。該幼童無發現淋巴結腫大,口腔黏膜和舌頭完整無異常,故懷疑是 SSSS。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

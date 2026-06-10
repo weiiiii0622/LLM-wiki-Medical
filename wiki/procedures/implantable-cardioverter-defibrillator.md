@@ -33,11 +33,11 @@ tags:
 
 ## Key Details From Sources
 
-- ii. 不適合用在裝有電子式植入物(心臟節律器、去顫器等)的病患,以 免被電磁波干擾而失去作用。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
-- 【詳解】hyperkinetic disorder 是 ICD-10 系統的 ADHD (DSM-IV-TR 系統)診斷,主要表現三大特徵:注意力不佳、過動、衝動控制差。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- 1. 接觸性皮膚炎為皮膚直接受到某物質的刺激或體質上的過敏現象,所造成的皮膚炎性反應。臨床上依發炎型態區分為「刺激性接觸性皮膚炎 (Irritant contact dermatitis, ICD)」及「過敏性接觸性皮膚炎 (Allergic contact dermatitis, ACD)」。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 2. 刺激性接觸性皮膚炎 (Irritant contact dermatitis, ICD): - (1) 為接觸到化學物質所引起,故皮膚炎反應僅侷限暴露位置且界線分明,不會擴 散到身體其他部位。該反應和皮膚所接觸到的物質濃度、滲透性以及皮膚角質 層厚度有關,當刺激性物質濃度達到閾值時即引發皮膚炎,未達到閾值則不會。 - (2) 好發於手部,好發因子如:異位性皮膚炎患者、白皮膚、低溫低濕度。 - (3) 急性:強酸、強鹼、昆蟲體液或刺激性較強的化學物質。 - (4)慢性:長期重複暴露(Cumulative)於濃度不高或刺激性較低的物質所引起的,如水、肥皂、洗衣粉、清潔劑或蔬果,通常在數月或數年後才會發生。 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- b. 針對高風險群裝置 ICD,包含: - (a) Syncope in young patents, LV wall thickness > 30mm in young patient • - (b) Hypotensive responsive to exercise • - (c) 曾經 SCD、Sustained VT、multiple non-sustained episodes of VT on Holter。 - (d) SCD in close relatives • Source: [[sources/med3-book1-ch07|庚、心肌症]].
+- ii. 不適合用在裝有電子式植入物(心臟節律器、去顫器等)的病患,以 免被電磁波干擾而失去作用。 Source: 醫(六)第3冊復健_庚、物理治療儀器 Page 179-186.
+- 【詳解】hyperkinetic disorder 是 ICD-10 系統的 ADHD (DSM-IV-TR 系統)診斷,主要表現三大特徵:注意力不佳、過動、衝動控制差。 Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- 1. 接觸性皮膚炎為皮膚直接受到某物質的刺激或體質上的過敏現象,所造成的皮膚炎性反應。臨床上依發炎型態區分為「刺激性接觸性皮膚炎 (Irritant contact dermatitis, ICD)」及「過敏性接觸性皮膚炎 (Allergic contact dermatitis, ACD)」。 Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- 2. 刺激性接觸性皮膚炎 (Irritant contact dermatitis, ICD): - (1) 為接觸到化學物質所引起,故皮膚炎反應僅侷限暴露位置且界線分明,不會擴 散到身體其他部位。該反應和皮膚所接觸到的物質濃度、滲透性以及皮膚角質 層厚度有關,當刺激性物質濃度達到閾值時即引發皮膚炎,未達到閾值則不會。 - (2) 好發於手部,好發因子如:異位性皮膚炎患者、白皮膚、低溫低濕度。 - (3) 急性:強酸、強鹼、昆蟲體液或刺激性較強的化學物質。 - (4)慢性:長期重複暴露(Cumulative)於濃度不高或刺激性較低的物質所引起的,如水、肥皂、洗衣粉、清潔劑或蔬果,通常在數月或數年後才會發生。 Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- b. 針對高風險群裝置 ICD,包含: - (a) Syncope in young patents, LV wall thickness > 30mm in young patient • - (b) Hypotensive responsive to exercise • - (c) 曾經 SCD、Sustained VT、multiple non-sustained episodes of VT on Holter。 - (d) SCD in close relatives • Source: 醫(三)第1冊心胸內_第一篇、心臟內科_庚、心肌症 Page 185-192.
 
 ## Clinical Caveats
 

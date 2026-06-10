@@ -27,9 +27,9 @@ Dexmedetomidine 是 alpha-2 agonist，提供鎮靜與部分止痛，常見 brady
 
 ## Key Details From Sources
 
-- F. Dexmedetomidine 48 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
-- 5. Dexmedetomidine Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
-- #### F. Dexmedetomidine Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
+- F. Dexmedetomidine 48 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
+- 5. Dexmedetomidine Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
+- #### F. Dexmedetomidine Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
 
 ## Clinical Caveats
 

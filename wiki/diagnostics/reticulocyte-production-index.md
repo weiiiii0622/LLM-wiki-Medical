@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- 1. Reticulocyte production index 的校正: - (1) 公式:Reticulocyte production index = Ret (%) $\times$ (Hct (%) / 45) / maturation index $\circ$ - (2) 公式:Reticulocyte index (RI) = Ret (%) ×Hct (%) /45。 - (3) 其中 maturation index: - a. Hct = 45 時, MI = 1。 - b. Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 衰竭或嚴重胃腸道出血,下列何者錯誤? 醫四-25 - (A) 服用鐵劑後注意腸胃及便秘情形 - (B) 網狀紅血球追蹤檢查 - (C) 在血液常規檢查正常後,一般建議繼續給與鐵劑治療 2-3 個月 - (D) 立即給與紅血球輸血 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (1) 全血球計數檢查(CBC)、網狀紅血球數、血液抹片:評估是否有紅血球增多症、 紅血球的型態。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- C. 可用 Reticulocyte Production Index 110 Source: [[sources/med3-book4-ch10|甲、貧血]].
-- C. 可用 Reticulocyte production index,依貧血時骨髓的反應分成兩大類,分別是製造不足與破壞過多: Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...天; Hct = 26~35, Reticulocyte 在血中待 1.5 天 | | | | | 時間延長 | Hct = 16~25,Reticulocyte 在血中待 2 天;Hct = \*Washington p714 另外定義 Reticulocyte index (RI), 算法是僅校正一次 (Hct/45)。 Source: [[sources/med3-book4-ch10|甲、貧血]].
+- 1. Reticulocyte production index 的校正: - (1) 公式:Reticulocyte production index = Ret (%) $\times$ (Hct (%) / 45) / maturation index $\circ$ - (2) 公式:Reticulocyte index (RI) = Ret (%) ×Hct (%) /45。 - (3) 其中 maturation index: - a. Hct = 45 時, MI = 1。 - b. Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- 衰竭或嚴重胃腸道出血,下列何者錯誤? 醫四-25 - (A) 服用鐵劑後注意腸胃及便秘情形 - (B) 網狀紅血球追蹤檢查 - (C) 在血液常規檢查正常後,一般建議繼續給與鐵劑治療 2-3 個月 - (D) 立即給與紅血球輸血 Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- (1) 全血球計數檢查(CBC)、網狀紅血球數、血液抹片:評估是否有紅血球增多症、 紅血球的型態。 Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- C. 可用 Reticulocyte Production Index 110 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- C. 可用 Reticulocyte production index,依貧血時骨髓的反應分成兩大類,分別是製造不足與破壞過多: Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- ...天; Hct = 26~35, Reticulocyte 在血中待 1.5 天 | | | | | 時間延長 | Hct = 16~25,Reticulocyte 在血中待 2 天;Hct = \*Washington p714 另外定義 Reticulocyte index (RI), 算法是僅校正一次 (Hct/45)。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
 
 ## Clinical Caveats
 

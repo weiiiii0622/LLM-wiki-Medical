@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- 6. 角膜擦傷 (corneal abrasion): - (1) 因碰撞外傷或隱形眼鏡佩戴過久引起角膜破皮,症狀包含紅眼睛、流淚畏光、 疼痛、眼瞼痙攣等。 - (2) 處置:給止痛劑、睫狀肌鬆弛劑、抗生素藥水等,並包紮眼睛,第二天再追蹤 檢查。切勿給病人麻藥返家自行點,避免降低角膜抵抗力,造成角膜毒性傷害 及阻礙表皮再生。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
-- ...ener 氏肉芽腫 (Wegener's granulo-matosis),結節多發性動脈炎 (polyarteritis nodosa), SLE 等。其中以 Wegener 氏肉芽腫的進展最快速難治。 - c. 治療:抑制免疫反應,改善角膜上皮缺損以及間質發炎與壞死;病況嚴重時 甚至需要進行角膜移植手術。 - (2) 周邊角膜變薄 (peripheral corneal thinning): 周邊角膜基質變薄而上皮層仍完整,使中央角膜看起來像戴了隱形眼鏡一般 (contact lens cornea)。 - (3) 急性角膜溶解 (acute corneal melting),或稱為近中心角膜溶解 (paracentral keratolysis):可發生在變薄的非發炎性周邊角膜 Source: [[sources/med6-book2-ch05|戊、角 膜]].
+- 6. 角膜擦傷 (corneal abrasion): - (1) 因碰撞外傷或隱形眼鏡佩戴過久引起角膜破皮,症狀包含紅眼睛、流淚畏光、 疼痛、眼瞼痙攣等。 - (2) 處置:給止痛劑、睫狀肌鬆弛劑、抗生素藥水等,並包紮眼睛,第二天再追蹤 檢查。切勿給病人麻藥返家自行點,避免降低角膜抵抗力,造成角膜毒性傷害 及阻礙表皮再生。 Source: 醫(六)第2冊眼科_第一篇、眼科_午、眼科外傷及急診 Page 217-224.
+- ...ener 氏肉芽腫 (Wegener's granulo-matosis),結節多發性動脈炎 (polyarteritis nodosa), SLE 等。其中以 Wegener 氏肉芽腫的進展最快速難治。 - c. 治療:抑制免疫反應,改善角膜上皮缺損以及間質發炎與壞死;病況嚴重時 甚至需要進行角膜移植手術。 - (2) 周邊角膜變薄 (peripheral corneal thinning): 周邊角膜基質變薄而上皮層仍完整,使中央角膜看起來像戴了隱形眼鏡一般 (contact lens cornea)。 - (3) 急性角膜溶解 (acute corneal melting),或稱為近中心角膜溶解 (paracentral keratolysis):可發生在變薄的非發炎性周邊角膜 Source: 醫(六)第2冊眼科_第一篇、眼科_戊、角膜 Page 53-70.
 
 ## Clinical Caveats
 

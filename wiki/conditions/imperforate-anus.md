@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- K. 肛門閉鎖 (Imperforate anus) 165 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ...| | | (A) 幽門狹窄(pyloric stenosis) | | | | (B) 十二指腸閉鎖(duodenal atresia) | | | | (C) 小腸閉鎖 (intestinal atresia) | | | | (D) 肛門閉鎖 (imperforate anus) | | | | | | | (B) | 2. 有關小腸閉鎖(intestinal atresia)的病人,對於其可能發生的症 | 104(二)專 | | | 狀,下列何者錯誤? | 醫五 -43 | | | (A) 腹部腫脹 (B) 羊水過少 | | | | (C) 有膽汁的嘔吐物 (D) 稀疏的胎便 | | | | 【詳解】(B) 應為羊水過多。(D) 無法排出胎便,或遠端仍有部 | | | | Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ...十二指腸阻塞或中腸扭結(Midgut volvulus) (D) 7. Ladd's procedure 是下列何種疾病的手術方式? 101(二)專 (A) 小腸閉鎖 (intestinal atresia) 醫五-47 (B) 無肛症 (imperforate anus) (C) 小腸複製畸型 (intestinal duplication) (D) 小腸扭轉不全 (malrotation) (A) 8. Ladd's procedure 與下列何者有關? 98(二)專 (A) 腸轉位異常 (malrotation of midgut) 醫五-53 (B) 胃食道逆流 (gastroesophageal reflux ) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (C) 3. 有關食道閉鎖(esophageal atresia)常合併的畸型,下列何者錯誤? 106 (二)專 - (A) 肛門直腸異常 (anorectal malformation) Source: [[sources/med5-book4-ch05|戊、食 道]].
-- b. 單純外生性腫瘤:大多是從背側進行手術切除,如使用 chevron incision 方法進行切除,可以將臀大肌分開、結紮支配的正中薦血管 (medial sacral vessels)、完整切除 (en bloc resection) 腫瘤及尾骨。須保留肛門直腸神經叢,以維持肛門閉鎖之功能。 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
+- K. 肛門閉鎖 (Imperforate anus) 165 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- ...| | | (A) 幽門狹窄(pyloric stenosis) | | | | (B) 十二指腸閉鎖(duodenal atresia) | | | | (C) 小腸閉鎖 (intestinal atresia) | | | | (D) 肛門閉鎖 (imperforate anus) | | | | | | | (B) | 2. 有關小腸閉鎖(intestinal atresia)的病人,對於其可能發生的症 | 104(二)專 | | | 狀,下列何者錯誤? | 醫五 -43 | | | (A) 腹部腫脹 (B) 羊水過少 | | | | (C) 有膽汁的嘔吐物 (D) 稀疏的胎便 | | | | 【詳解】(B) 應為羊水過多。(D) 無法排出胎便,或遠端仍有部 | | | | Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- ...十二指腸阻塞或中腸扭結(Midgut volvulus) (D) 7. Ladd's procedure 是下列何種疾病的手術方式? 101(二)專 (A) 小腸閉鎖 (intestinal atresia) 醫五-47 (B) 無肛症 (imperforate anus) (C) 小腸複製畸型 (intestinal duplication) (D) 小腸扭轉不全 (malrotation) (A) 8. Ladd's procedure 與下列何者有關? 98(二)專 (A) 腸轉位異常 (malrotation of midgut) 醫五-53 (B) 胃食道逆流 (gastroesophageal reflux ) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (C) 3. 有關食道閉鎖(esophageal atresia)常合併的畸型,下列何者錯誤? 106 (二)專 - (A) 肛門直腸異常 (anorectal malformation) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- b. 單純外生性腫瘤:大多是從背側進行手術切除,如使用 chevron incision 方法進行切除,可以將臀大肌分開、結紮支配的正中薦血管 (medial sacral vessels)、完整切除 (en bloc resection) 腫瘤及尾骨。須保留肛門直腸神經叢,以維持肛門閉鎖之功能。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_辛、惡性腫瘤 Page 205-216.
 
 ## Clinical Caveats
 

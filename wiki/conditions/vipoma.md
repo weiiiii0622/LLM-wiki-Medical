@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258.
 
 ## Clinical Caveats
 

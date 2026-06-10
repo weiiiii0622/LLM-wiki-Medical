@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- E. 緩發性皮膚病變紫質症 (Porphyria cutanea tarda) 61 Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- # E. 緩發性皮膚病變紫質症 (Porphyria cutanea tarda) Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
-- 3. 依合成血基質途徑中的不同酵素缺陷,紫質症可分成七種類型: - (1) Acute intermittent porphyria (AIP) • - (2) Hereditary coproporphyria (HCP) • - (3) Variegate porphyria (VP) • - (4) 5-amino- levulinate acid dehydratase porphyria (ADP) • - (5) Porphyria cutanea tarda (PCT) • - (6) Congenital erythropoietic porphyria (CEP) • - (7) Erythropoietic protoporphyria (EPP) • Source: [[sources/med4-book2-ch03|丙、水泡疾病]].
+- E. 緩發性皮膚病變紫質症 (Porphyria cutanea tarda) 61 Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- # E. 緩發性皮膚病變紫質症 (Porphyria cutanea tarda) Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
+- 3. 依合成血基質途徑中的不同酵素缺陷,紫質症可分成七種類型: - (1) Acute intermittent porphyria (AIP) • - (2) Hereditary coproporphyria (HCP) • - (3) Variegate porphyria (VP) • - (4) 5-amino- levulinate acid dehydratase porphyria (ADP) • - (5) Porphyria cutanea tarda (PCT) • - (6) Congenital erythropoietic porphyria (CEP) • - (7) Erythropoietic protoporphyria (EPP) • Source: 醫(四)第2冊皮膚_丙、水泡疾病 Page 67-78.
 
 ## Clinical Caveats
 

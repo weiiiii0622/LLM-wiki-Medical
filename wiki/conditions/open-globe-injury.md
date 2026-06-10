@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- ...的預後比 early PTS 好,發生 early PTS 會增加之後發生 late PTS 的機會。 - b. 創傷後癲癇的好發期為創傷後2年內,其中有80%在第一年內發生。 - c. 發生 Late PTS 的危險因子有:穿透性傷害(penetrating injury)、early seizures、 凹陷性顱骨骨折、急性顱內血腫、曾意識喪失或受傷後失憶症超過 24 小時、 硬腦膜撕裂、出現異物、focal sign (Aphasia 或 Hemiplegia)、年紀大於六十五歲。 - d. 創傷後一週內給予 phenytoin 或 valporic acid 能有效降低 early PTS 的機會,不過長期使用抗癲癇藥物對於預防 late PTS 的效用不顯著。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- 3. 眼球破裂: 以金屬眼罩保護受傷的眼球,安排 X-ray 或眼部 CT 排除眼內異物,並給予抗生素,儘快安排手術。嚴重之外傷眼,若無機會恢復視力,應考慮眼球摘除(enucleation),以預防交感性眼炎(sympathetic ophthalmia)。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
+- ...的預後比 early PTS 好,發生 early PTS 會增加之後發生 late PTS 的機會。 - b. 創傷後癲癇的好發期為創傷後2年內,其中有80%在第一年內發生。 - c. 發生 Late PTS 的危險因子有:穿透性傷害(penetrating injury)、early seizures、 凹陷性顱骨骨折、急性顱內血腫、曾意識喪失或受傷後失憶症超過 24 小時、 硬腦膜撕裂、出現異物、focal sign (Aphasia 或 Hemiplegia)、年紀大於六十五歲。 - d. 創傷後一週內給予 phenytoin 或 valporic acid 能有效降低 early PTS 的機會,不過長期使用抗癲癇藥物對於預防 late PTS 的效用不顯著。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- 3. 眼球破裂: 以金屬眼罩保護受傷的眼球,安排 X-ray 或眼部 CT 排除眼內異物,並給予抗生素,儘快安排手術。嚴重之外傷眼,若無機會恢復視力,應考慮眼球摘除(enucleation),以預防交感性眼炎(sympathetic ophthalmia)。 Source: 醫(六)第2冊眼科_第一篇、眼科_午、眼科外傷及急診 Page 217-224.
 
 ## Clinical Caveats
 

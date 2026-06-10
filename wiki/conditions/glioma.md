@@ -35,16 +35,16 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 簡介:顯性遺傳疾病,其病灶可以侵犯皮膚、神經、骨骼、及腸胃道等,並且數目及大小會隨著年齡增加。可分為兩型:第一型較常見,又稱 von Recklinghausen disease,具有較明顯的皮膚病灶,也比較容易發生視神經膠質瘤,但預後較佳;第二型比較不會產生皮膚的病灶,但會發生聽神經瘤、腦膜瘤及其他中樞神經瘤,一般預後較差。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- (2) 在眼睛的表現: - a. 第一型: - (a) 眼眶:視神經膠質瘤(optic nerve glioma)、蝶骨一眼眶腦膨出(spheno-orbital encephalocele) - (b) 眼瞼神經纖維瘤:眼瞼增厚且呈現 S 型異常。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- 2. 孩童:以交感神經節細胞腫瘤為主,如:節神經瘤(gangliomas)、節神經母細胞瘤(ganglioneuroblastomas)、神經母細胞瘤(neuroblastomas)。 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- ...amilial polyposis • - (b) Gardner's syndrome: polyposis + osteoma + fibroma + sebaceous cyst • - (c) Turcot's syndrome: glioblastoma (CNS tumor) • - (d) CHRPE: congenital hypertrophy of retinal pigmented epithelium • - d. 篩檢: - (a) APC 基因檢驗。 - (b) 眼科檢查: CHRPE (congenital hypertrophy of retinal pigmented epithelium)。 - (c) 大腸鏡檢。 - e. 處置: - (a) Total p Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- C. 星狀細胞瘤 (Astrocytoma) 207 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- D. 寡樹突神經膠瘤 (Oligodendroglioma) 208 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 1. 神經表皮細胞腫瘤(tumor of neuroepithelial tissue): - (1) 星狀細胞瘤 (astrocytoma):星狀細胞 (astrocyte)。 - (2) 寡樹突神經膠瘤(oligodendroglioma):寡樹突細胞(oligodendrocyte)。 - (3) 室管細胞瘤 (ependymoma):室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor)。 - (5) 神經節神經膠瘤 (ganglioglioma)/神經節細胞瘤 (gangliocytoma)/神經胚母細胞瘤 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 3. 脊髓內腫瘤 (intramedullary tumor):5% - (1) 罕見,最常見為星狀細胞瘤(astrocytoma)、其次為室管膜瘤(ependymoma)。 其它包括血管細胞瘤、脂肪瘤、類上皮瘤、結核瘤及海綿狀血管瘤都有被報 告過。 - (2) 臨床症狀:類似於 central cord syndrome。 - (3) 影像檢查:脊髓攝影可以確定脊髓內有無病灶。但 MRI 可提供較多資訊,區分 腫瘤和空洞症,了解病灶範圍。 - (4) 處置:脊椎縱切片或針刺法得到組織切片,手術切除、放射線治療。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...---------------------| | | (A) meningioma | 醫五 -10 | | | (B) schwannoma | | | | (C) neurofibroma | | | | (D) anaplastic astrocytoma | | | (C) | ) 4. 下列關於 intramedullary spinal cord tumor 的敘述,f | 可者錯誤? 109( - ) 專 | | | (A) intramedullary spinal cord tumor 約占所有 spinal | tumor的 5% 醫五-46 | | | (B) primary intramedullary spinal cord lymphoma 相當 | 2 罕見 | Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...見? | 104(一)專 | | (A) 腦膜瘤(meningioma) | 醫五 -14 | | (B) 轉移腫瘤(metastatic tumor) | | | (C) 黑色素細胞瘤(melanoma) | | | (D) 星狀細胞瘤(astrocytoma) | | | | | Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- (1) 簡介:顯性遺傳疾病,其病灶可以侵犯皮膚、神經、骨骼、及腸胃道等,並且數目及大小會隨著年齡增加。可分為兩型:第一型較常見,又稱 von Recklinghausen disease,具有較明顯的皮膚病灶,也比較容易發生視神經膠質瘤,但預後較佳;第二型比較不會產生皮膚的病灶,但會發生聽神經瘤、腦膜瘤及其他中樞神經瘤,一般預後較差。 Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- (2) 在眼睛的表現: - a. 第一型: - (a) 眼眶:視神經膠質瘤(optic nerve glioma)、蝶骨一眼眶腦膨出(spheno-orbital encephalocele) - (b) 眼瞼神經纖維瘤:眼瞼增厚且呈現 S 型異常。 Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- 2. 孩童:以交感神經節細胞腫瘤為主,如:節神經瘤(gangliomas)、節神經母細胞瘤(ganglioneuroblastomas)、神經母細胞瘤(neuroblastomas)。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90.
+- ...amilial polyposis • - (b) Gardner's syndrome: polyposis + osteoma + fibroma + sebaceous cyst • - (c) Turcot's syndrome: glioblastoma (CNS tumor) • - (d) CHRPE: congenital hypertrophy of retinal pigmented epithelium • - d. 篩檢: - (a) APC 基因檢驗。 - (b) 眼科檢查: CHRPE (congenital hypertrophy of retinal pigmented epithelium)。 - (c) 大腸鏡檢。 - e. 處置: - (a) Total p Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- C. 星狀細胞瘤 (Astrocytoma) 207 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- D. 寡樹突神經膠瘤 (Oligodendroglioma) 208 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- 1. 神經表皮細胞腫瘤(tumor of neuroepithelial tissue): - (1) 星狀細胞瘤 (astrocytoma):星狀細胞 (astrocyte)。 - (2) 寡樹突神經膠瘤(oligodendroglioma):寡樹突細胞(oligodendrocyte)。 - (3) 室管細胞瘤 (ependymoma):室管細胞 (ependymocyte)。 - (4) 脈絡叢腫瘤 (choroid plexus tumor)。 - (5) 神經節神經膠瘤 (ganglioglioma)/神經節細胞瘤 (gangliocytoma)/神經胚母細胞瘤 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- 3. 脊髓內腫瘤 (intramedullary tumor):5% - (1) 罕見,最常見為星狀細胞瘤(astrocytoma)、其次為室管膜瘤(ependymoma)。 其它包括血管細胞瘤、脂肪瘤、類上皮瘤、結核瘤及海綿狀血管瘤都有被報 告過。 - (2) 臨床症狀:類似於 central cord syndrome。 - (3) 影像檢查:脊髓攝影可以確定脊髓內有無病灶。但 MRI 可提供較多資訊,區分 腫瘤和空洞症,了解病灶範圍。 - (4) 處置:脊椎縱切片或針刺法得到組織切片,手術切除、放射線治療。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- ...---------------------| | | (A) meningioma | 醫五 -10 | | | (B) schwannoma | | | | (C) neurofibroma | | | | (D) anaplastic astrocytoma | | | (C) | ) 4. 下列關於 intramedullary spinal cord tumor 的敘述,f | 可者錯誤? 109( - ) 專 | | | (A) intramedullary spinal cord tumor 約占所有 spinal | tumor的 5% 醫五-46 | | | (B) primary intramedullary spinal cord lymphoma 相當 | 2 罕見 | Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- ...見? | 104(一)專 | | (A) 腦膜瘤(meningioma) | 醫五 -14 | | (B) 轉移腫瘤(metastatic tumor) | | | (C) 黑色素細胞瘤(melanoma) | | | (D) 星狀細胞瘤(astrocytoma) | | | | | Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
 
 ## Clinical Caveats
 

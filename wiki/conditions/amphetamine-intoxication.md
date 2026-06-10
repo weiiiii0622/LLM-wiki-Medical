@@ -27,9 +27,9 @@ stimulant 過量造成交感亢進、瞳孔放大、激動、失眠、妄想或�
 
 ## Key Details From Sources
 
-- #### 安非他命中毒 (Amphetamine intoxication) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 安非他命中毒的症狀和古柯鹼非常類似,大部分中毒的症狀在 24~48 小時內會消失。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- (B) 安非他命中毒時, 若停止使用, 其中毒症狀多在2天內消失 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- #### 安非他命中毒 (Amphetamine intoxication) Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- 安非他命中毒的症狀和古柯鹼非常類似,大部分中毒的症狀在 24~48 小時內會消失。 Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- (B) 安非他命中毒時, 若停止使用, 其中毒症狀多在2天內消失 Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
 
 ## Clinical Caveats
 

@@ -35,13 +35,13 @@ gastrin 分泌腫瘤造成 refractory peptic ulcer disease、胃酸過多與腹�
 
 ## Key Details From Sources
 
-- ...| $(\Lambda)$ | (A) Down syndrome (B) Peutz-Jeghers syndrome | 醫五-25 | | | | 酉 北 ~ 20 | | | (C) Mikulicz's syndrome (D) Zollinger-Ellison syndrome | | | (B) | 5.「Double-bubble sign」與下列何種疾病有關? | 98(二)專 | | | (A) 肥厚性幽門阻塞(hypertrophic pyloric stenosis) | 醫五-54 | | | (B) 十二指腸閉鎖(duodenal atresia) | | | | (C) 腸轉位異常(malrotation of midgut) | | | | (D) 腸套疊 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 6. 胃泌素瘤 (Gastrinoma)。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- (B) 對於 gastrinoma 引起的腸胃道急性出血,使用 proton pump inhibitors 是無效的 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
-- B. Gastrinoma(胃泌素瘤) 229 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- #### B. Gastrinoma (胃泌素瘤,又稱 Zollinger-Ellison syndrome) Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: [[sources/med5-book2-ch22|丙、胰島細胞瘤]].
-- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
+- ...| $(\Lambda)$ | (A) Down syndrome (B) Peutz-Jeghers syndrome | 醫五-25 | | | | 酉 北 ~ 20 | | | (C) Mikulicz's syndrome (D) Zollinger-Ellison syndrome | | | (B) | 5.「Double-bubble sign」與下列何種疾病有關? | 98(二)專 | | | (A) 肥厚性幽門阻塞(hypertrophic pyloric stenosis) | 醫五-54 | | | (B) 十二指腸閉鎖(duodenal atresia) | | | | (C) 腸轉位異常(malrotation of midgut) | | | | (D) 腸套疊 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- 6. 胃泌素瘤 (Gastrinoma)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
+- (B) 對於 gastrinoma 引起的腸胃道急性出血,使用 proton pump inhibitors 是無效的 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
+- B. Gastrinoma(胃泌素瘤) 229 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丙、胰島細胞瘤 Page 241-246.
+- #### B. Gastrinoma (胃泌素瘤,又稱 Zollinger-Ellison syndrome) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丙、胰島細胞瘤 Page 241-246.
+- 5. 以下情形需考慮是 Gastrinoma: - (1) 即使針對幽門螺旋桿菌給予治療以及給予 $H_2$ blocker 或 PPI 下,仍然 refractory PUD。 - (2) 潰瘍不斷復發、多發性或是發生位置不典型 (distal duodenum 或 jejunum)。 - (3) PUD 併發症:穿孔、阻塞 - (4) PUD 且有嚴重腹瀉。 - (5) PUD 且有副甲狀腺機能亢進、腎結石或是家族性內分泌疾病。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丙、胰島細胞瘤 Page 241-246.
+- 2. Pancreatic islet-cell tumor (40%): insulinoma · gastrinoma · glucagonoma · VIPoma · Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258.
 
 ## Clinical Caveats
 

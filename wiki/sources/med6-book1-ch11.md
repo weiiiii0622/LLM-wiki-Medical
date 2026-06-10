@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility).md
+raw_source_title: "醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility).md"
+page_start: 375
+page_end: 419
+canonical_citation: "醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419"
 book: 醫(六)第1冊婦產
 chapter_order: 11
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility).md`
+- Pages covered: 375-419
+- Canonical citation: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

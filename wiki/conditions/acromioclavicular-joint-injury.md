@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 肩峰鎖骨關節傷害 (Acromioclavicular injury) 67 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- #### B. 肩峰鎖骨關節傷害 (Acromioclavicular injury) Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- #### 5. 依 Rockwood classification 分類與治療: Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- B. 肩峰鎖骨關節傷害 (Acromioclavicular injury) 67 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- #### B. 肩峰鎖骨關節傷害 (Acromioclavicular injury) Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- #### 5. 依 Rockwood classification 分類與治療: Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
 
 ## Clinical Caveats
 

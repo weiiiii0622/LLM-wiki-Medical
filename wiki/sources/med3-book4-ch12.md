@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丙、血栓 (Thrombosis).md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丙、血栓 (Thrombosis)"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丙、血栓 (Thrombosis).md"
+page_start: 156
+page_end: 160
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丙、血栓 (Thrombosis) Page 156-160"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 12
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丙、血栓 (Thrombosis).md`
+- Pages covered: 156-160
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丙、血栓 (Thrombosis) Page 156-160
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

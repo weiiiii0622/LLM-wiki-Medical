@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_戊、感染性關節炎.md
+raw_source_title: "醫(三)第3冊腎內感染_第二篇、感染科_戊、感染性關節炎"
+raw_source_file: "raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_戊、感染性關節炎.md"
+page_start: 163
+page_end: 164
+canonical_citation: "醫(三)第3冊腎內感染_第二篇、感染科_戊、感染性關節炎 Page 163-164"
 book: 醫(三)第3冊腎內感染
 chapter_order: 13
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第3冊腎內感染
 - Chapter file: `raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_戊、感染性關節炎.md`
+- Pages covered: 163-164
+- Canonical citation: 醫(三)第3冊腎內感染_第二篇、感染科_戊、感染性關節炎 Page 163-164
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

@@ -35,17 +35,17 @@ tags:
 
 ## Key Details From Sources
 
-- a. Charcot's triad:發燒與寒顫(chills)、右上腹部疼痛、黃疸,發生比率約佔50~70%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- b. Reynolds's pentad: Charcot's triad 再加上休克與意識改變,發生比率小於 10%。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 【詳解】Charcot's triad = 上腹痛+黃疸+發燒= Acute cholangitis。 為什麼會 cholangitis ? 不知道,所以要再安排腹部超音波做進一 步檢查。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 1. 高血壓:占五成,高血壓使血管壁形成 Charcot-Bouchard's aneurysm,然後導致破裂出血。 Source: [[sources/med5-book1-ch15|己、腦內出血]].
-- ...ing Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acut Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- #### C. Charcot-Marie-Tooth disease (CMT) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- (B) 1. 有關恰克 – 馬利 – 杜斯氏症(Charcot-Marie-Tooth disease, CMT) 的敘述,下列何者正確? Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 3. 較大血管的出血(SAH)常因動脈瘤破裂導致,較小血管的出血(ICH)常因高血 壓造成的 Charcot-Bouchard's aneurysm 或腦類澱粉樣血管病變導致。 Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- (1) **高血壓(hypertension**):占5成,高血壓使血管壁形成 Charcot-Bouchard's aneurysm,然後導致破裂出血,出血位置常見於基底核、視丘、橋腦、小腦。如右下圖。 - a. (B) 基底核:最常見,又以被殼核(putamen)最常見,可能出現運動、感覺等異常。 - b. (C) 視丘:對側身體感覺異常、兩眼向下直視(sunset eye)。 - c. (D) 橋腦:臨床上常以 5P 來描述, - (a) 對側肢體無力(paralysis)、 - (b) 細微的脈搏 (pulsus par Source: [[sources/med4-book4-ch05|戊、腦血管疾病]].
-- ...石及總膽管與肝內膽管之顯著擴張,膽囊也脹大,請問應該立即為病患安排下列那一種處置最為恰當? (A) 抽血檢驗 B 型及 C 型肝炎 (B) 安排緊急外科手術治療切除膽囊 (C) 安排緊急膽道內視鏡並引流治療 (D) 肝臟切片 【詳解】症狀是急性膽管炎,最重要的治療就是抗生素和緊急減壓膽道引流。 | 97(一)專醫三-13 | | (D) 1 | 10. 一位 35 歲女性因右上腹疼痛一年求診,通常發作在吃較多食物以後,有時伴隨噁心、嘔吐,超音波檢查發現約 10 顆鈣化膽結石,但膽囊大小正常,膽囊壁厚度正常,且膽管正常,抽血生化檢查、血球計數正常,在此狀態作治療計畫,下列何者最應優先考慮? (A) 只要觀察,不必治療 (B) 口服 Ursodeoxycholic acid (C) s Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
-- 【詳解】(A) 急性胰臟炎較少有黃疸、且 amylase 會升高;(C) 肝炎較少上腹痛、發燒、Seg form 高;(D) 並患有符合 Charcot's triad (發燒+黃疸+右上腹痛),所以最可能是急性膽管炎 (acute cholangitis)。 Source: [[sources/med3-book2-ch20|壬、膽囊疾病]].
+- a. Charcot's triad:發燒與寒顫(chills)、右上腹部疼痛、黃疸,發生比率約佔50~70%。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- b. Reynolds's pentad: Charcot's triad 再加上休克與意識改變,發生比率小於 10%。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- 【詳解】Charcot's triad = 上腹痛+黃疸+發燒= Acute cholangitis。 為什麼會 cholangitis ? 不知道,所以要再安排腹部超音波做進一 步檢查。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- 1. 高血壓:占五成,高血壓使血管壁形成 Charcot-Bouchard's aneurysm,然後導致破裂出血。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_己、腦內出血 Page 171-176.
+- ...ing Disease) 156 - A. 多發性硬化症 (Multiple sclerosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acut Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- #### C. Charcot-Marie-Tooth disease (CMT) Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- (B) 1. 有關恰克 – 馬利 – 杜斯氏症(Charcot-Marie-Tooth disease, CMT) 的敘述,下列何者正確? Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- 3. 較大血管的出血(SAH)常因動脈瘤破裂導致,較小血管的出血(ICH)常因高血 壓造成的 Charcot-Bouchard's aneurysm 或腦類澱粉樣血管病變導致。 Source: 醫(四)第4冊神內_戊、腦血管疾病 Page 93-122.
+- (1) **高血壓(hypertension**):占5成,高血壓使血管壁形成 Charcot-Bouchard's aneurysm,然後導致破裂出血,出血位置常見於基底核、視丘、橋腦、小腦。如右下圖。 - a. (B) 基底核:最常見,又以被殼核(putamen)最常見,可能出現運動、感覺等異常。 - b. (C) 視丘:對側身體感覺異常、兩眼向下直視(sunset eye)。 - c. (D) 橋腦:臨床上常以 5P 來描述, - (a) 對側肢體無力(paralysis)、 - (b) 細微的脈搏 (pulsus par Source: 醫(四)第4冊神內_戊、腦血管疾病 Page 93-122.
+- ...石及總膽管與肝內膽管之顯著擴張,膽囊也脹大,請問應該立即為病患安排下列那一種處置最為恰當? (A) 抽血檢驗 B 型及 C 型肝炎 (B) 安排緊急外科手術治療切除膽囊 (C) 安排緊急膽道內視鏡並引流治療 (D) 肝臟切片 【詳解】症狀是急性膽管炎,最重要的治療就是抗生素和緊急減壓膽道引流。 | 97(一)專醫三-13 | | (D) 1 | 10. 一位 35 歲女性因右上腹疼痛一年求診,通常發作在吃較多食物以後,有時伴隨噁心、嘔吐,超音波檢查發現約 10 顆鈣化膽結石,但膽囊大小正常,膽囊壁厚度正常,且膽管正常,抽血生化檢查、血球計數正常,在此狀態作治療計畫,下列何者最應優先考慮? (A) 只要觀察,不必治療 (B) 口服 Ursodeoxycholic acid (C) s Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_壬、膽囊疾病 Page 167-172.
+- 【詳解】(A) 急性胰臟炎較少有黃疸、且 amylase 會升高;(C) 肝炎較少上腹痛、發燒、Seg form 高;(D) 並患有符合 Charcot's triad (發燒+黃疸+右上腹痛),所以最可能是急性膽管炎 (acute cholangitis)。 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_壬、膽囊疾病 Page 167-172.
 
 ## Clinical Caveats
 

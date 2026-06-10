@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 手術治療的適應症: - a. 高度活動的運動員、年輕人、小孩。 - b. Complete ACL rupture 或之前做過 ACL reconstruction 失敗者。 - c. 合併 meniscus tear 或有合併 MCL tear。 - d. 病人意願。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (C) 目前前十字韌帶重建手術,最常使用的移植物之一是自體的骨髓骨韌帶(bone patella tendon bone) Source: [[sources/med5-book6-ch02|乙、膝關節]].
+- (2) 手術治療的適應症: - a. 高度活動的運動員、年輕人、小孩。 - b. Complete ACL rupture 或之前做過 ACL reconstruction 失敗者。 - c. 合併 meniscus tear 或有合併 MCL tear。 - d. 病人意願。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- (C) 目前前十字韌帶重建手術,最常使用的移植物之一是自體的骨髓骨韌帶(bone patella tendon bone) Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
 
 ## Clinical Caveats
 

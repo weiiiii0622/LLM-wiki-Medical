@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- # 2. 太田氏母斑 (Nevus of Ota): Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- 4. 蒙古斑(Mongolian spot):好發於腰薦部,但 也可見於背部、頭皮或其他地方。出生後不久即 出現,面積可以很大(>10公分),呈大片均匀 灰藍色(右下圖)。與太田氏母斑不同,蒙古斑 隨年紀增長會逐漸淡化消失。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- 6. Hori's nevus:又稱作 acquired bilateral nevus of Ota-like macules,發生於成年後,於雙側臉頰出現 bluish-gray macules,常見於 malar region,不過也能長在 lateral temple、alae nasi、eyelids 和 forehead。它不像 nevus of Ota 會長在黏膜處(結膜、 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- # 2. 太田氏母斑 (Nevus of Ota): Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- 4. 蒙古斑(Mongolian spot):好發於腰薦部,但 也可見於背部、頭皮或其他地方。出生後不久即 出現,面積可以很大(>10公分),呈大片均匀 灰藍色(右下圖)。與太田氏母斑不同,蒙古斑 隨年紀增長會逐漸淡化消失。 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- 6. Hori's nevus:又稱作 acquired bilateral nevus of Ota-like macules,發生於成年後,於雙側臉頰出現 bluish-gray macules,常見於 malar region,不過也能長在 lateral temple、alae nasi、eyelids 和 forehead。它不像 nevus of Ota 會長在黏膜處(結膜、 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
 
 ## Clinical Caveats
 

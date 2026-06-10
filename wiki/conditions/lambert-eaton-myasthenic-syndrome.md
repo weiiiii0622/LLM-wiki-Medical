@@ -29,11 +29,11 @@ presynaptic voltage-gated calcium channel antibody 疾病，常與 small-cell lu
 
 ## Key Details From Sources
 
-- 1. 主要用於診斷 neuromuscular junction 異常之疾病,例如重症肌無力、肉毒桿菌症(Botulism)、Lambert-Eaton myasthenic syndrome 等。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
-- 2. 利用低頻(2~3 Hz)或高頻(10~20 Hz)的連續電刺激神經,記錄複合肌肉動作電位波,若於低頻電刺激下出現遞減反應(decrement response,前五個連續電位波中,最大和最小之間的振幅減少達 10% 以上),則可診斷重症肌無力;反之若於高頻電刺激下,連續電位波顯示遞增反應(increment response)則為 Lambert-Eaton 肌無力症候群(Lambert-Eaton Myasthenic syndrome)。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
-- II. 神經肌肉接合處疾病 (Neuromuscular Junction Disease) 174 - A. 重症肌無力 (Myasthenia gravis) 174 - B. Lambert-Eaton syndrome 175 - C. 肉毒桿菌中毒 (Botulism) 175 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- #### B. Lambert-Eaton syndrome Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- 1. 主要用於診斷 neuromuscular junction 異常之疾病,例如重症肌無力、肉毒桿菌症(Botulism)、Lambert-Eaton myasthenic syndrome 等。 Source: 醫(六)第3冊復健_壬、神經學檢查 Page 197-206.
+- 2. 利用低頻(2~3 Hz)或高頻(10~20 Hz)的連續電刺激神經,記錄複合肌肉動作電位波,若於低頻電刺激下出現遞減反應(decrement response,前五個連續電位波中,最大和最小之間的振幅減少達 10% 以上),則可診斷重症肌無力;反之若於高頻電刺激下,連續電位波顯示遞增反應(increment response)則為 Lambert-Eaton 肌無力症候群(Lambert-Eaton Myasthenic syndrome)。 Source: 醫(六)第3冊復健_壬、神經學檢查 Page 197-206.
+- II. 神經肌肉接合處疾病 (Neuromuscular Junction Disease) 174 - A. 重症肌無力 (Myasthenia gravis) 174 - B. Lambert-Eaton syndrome 175 - C. 肉毒桿菌中毒 (Botulism) 175 Source: 醫(四)第4冊神內_辛、肌肉病變 Page 183-200.
+- 肌無力症候群 (myasthenic gravis),指的是骨骼肌對連續動作的耐久性不夠, 乃因神經肌肉接合處的神經傳導物質與肌肉接受器的問題所致;這類疾病包含重症 肌無力 (myasthenia gravis)、Lambert-Eaton syndrome、肉毒桿菌中毒 (botulism)。 Source: 醫(四)第4冊神內_辛、肌肉病變 Page 183-200.
+- #### B. Lambert-Eaton syndrome Source: 醫(四)第4冊神內_辛、肌肉病變 Page 183-200.
 
 ## Clinical Caveats
 

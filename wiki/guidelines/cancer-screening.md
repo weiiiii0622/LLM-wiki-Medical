@@ -49,24 +49,24 @@ tags:
 
 ## Key Details From Sources
 
-- (A) 陰道及子宮頸抹片(Pap smear) Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 2. 陰道鏡檢查的適應症: - · 細胞學:不正常的 Pap smear - · 懷疑子宮頸、陰道和陰唇異常,如白斑 (leukoplakia) 和病毒疣 - 治療後的追蹤 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- D. 乳房攝影(Mammography) 215 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- #### D. 乳房攝影 (Mammography) Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- (1) 由於早期的乳癌可能只會在 X 光中出現微小鈣化點,無法經由 PE 檢查出可疑 腫塊,因此乳房攝影(mammography)作為早期乳癌篩檢的良好工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- ...| (D) FLAM (Pupmomu) | | | (D) | 11. 承上題,下列何者不是必要的檢查? | 99(一)專 | | | (A) 乳房超音波(ultrasonography) | 醫五-44 | | | (B) 乳房攝影(mammography) | | | | (C) 乳管攝影術(galactography) | | | | (D) 血清泌乳激素(prolactin)濃度測定 | | Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- (B) mammography screening Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 2. 診斷: - (1) Colonoscopy: Gold standard,可同時作 biopsy。 - (2) Flexible sigmoidoscopy • - (3) Air-contrast enema:可清腸且偵測阻塞的程度。 - (4) Proctoscopy with rigid sigmoidoscopy: 可偵測 50% 的結腸癌,如果是用 flexible sigmoidoscopy 可偵測到 75% 的結腸癌。 - (5) DRE:可檢查直腸腫瘤大小、ulceration、local invasion、lymph node。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 4. 篩檢, American Cancer Society 建議: - (1) 50 歲以上: - a. 每年:肛門指診、潛血反應檢查、Fecal immunochemical test (FIT)。 - b. 每五年定期接受:Flexible sigmoidoscopy、Double-contrast barium enema、CT colonography。 - c. 每十年:Colonoscopy。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 2. Secondary prevention: cancer screening 提前找出癌前期病變或癌病變。 Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- 2. 處置:(依照下消化道出血處理原則) - (1) Resuscitation:等張性晶體溶液 ±pRBC。 - (2) 診斷出血位置: - a. NG tube:排除上消化道出血。 - b. Anoscopy/ Proctoscopy:排除 anorectal bleeding。 - c. Nuclear scan: Tc-99m \ tagged RBC \circ - d. Mesenteric angiography (血管攝影)。 - e. Colonoscopy • - f. Laparotomy (剖腹探查)。 - (3) 手術: - a. Urgent segmental resection:持續出血且輸血量已超過 6 U pRBC/24hrs 時緊急 Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- (A) 大腸鏡 (colonoscopy) Source: [[sources/med5-book2-ch11|丙、大腸憩室疾病]].
-- (D) 1. 關於糞便潛血 (fecal occult blood testing, FOBT) 的敘述,何者 105(-)專 錯誤? 醫五-51 - (A) 對沒有危險因子的民眾是很好的大腸直腸癌篩檢工具 - (B) 藉由免疫反應檢測的糞便潛血其專一性較氧化還原法的糞便 潛血檢測為高 - (C) 因為血球蛋白會在上消化道被破壞,所以免疫反應檢測的糞 便潛血是來自於大腸或直腸的出血 - (D) 糞便潛血檢驗前三天都必須要避免紅肉的攝取 Source: [[sources/med5-book2-ch13|戊、後天性血管異常及下消化道出血]].
-- (3) 合併惡性腫瘤之肌炎(20%) - a. 罹患成人型的皮肌炎者/多發性肌炎者,合併惡性腫瘤的機會較高,包括肺癌、子宮頸癌、卵巢癌、胰臟癌、胃癌與膀胱癌等,而台灣等東南亞地區尤其以合併鼻咽癌為最多。但其真正原因則有待進一步研究,病人應定期做各部位之癌症篩檢,包括:乳房、卵巢、子宮、肺、胃、大腸及鼻咽等,以便能早期發現與治療,提高治癒機會。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (5) 對每一位新診斷之病人,應做全面性的癌症篩檢,尤其年紀大的病人需定期進行防癌檢查,鼻咽部腫瘤則至少每年應檢查一次。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- (C) 1. 對一個無乳癌家族或個人史的女性,下列何種乳癌篩選,比較符合 美國、加拿大及歐洲的相關建議? - (A) 自 50 歲起每 2 年做一次核磁共振檢查 (MRI) - (B) 自 40 歲起每 2 年做一次乳房超音波 (sonography) - (C) 自50歲起每2年做一次乳房攝影(mammography) - (D) 自 35 歲起每 2 年做正子攝影檢查 (PET) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
-- 【詳解】(C)雖然大部分的早期偵測大腸癌的計畫都強調糞便潛血 檢查,但卻有50%證實有大腸癌的病人其糞便潛血檢查是陰性的, 這和大腸癌的出血是間斷性的有關,因此敏感度其實不高;另外, 潛血陽性的也< 10%後來發現有大腸癌。其實, Colonoscopy 才是 最具敏感的檢查;因此 ACS 建議篩檢的方法是大於 50 歲的人每年 檢查大便潛血,且5年檢查一次 sigmoidoscopy。(Harrison, 529) Source: [[sources/med3-book4-ch20|丙、腫瘤各論]].
+- (A) 陰道及子宮頸抹片(Pap smear) Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 2. 陰道鏡檢查的適應症: - · 細胞學:不正常的 Pap smear - · 懷疑子宮頸、陰道和陰唇異常,如白斑 (leukoplakia) 和病毒疣 - 治療後的追蹤 Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- D. 乳房攝影(Mammography) 215 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- #### D. 乳房攝影 (Mammography) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- (1) 由於早期的乳癌可能只會在 X 光中出現微小鈣化點,無法經由 PE 檢查出可疑 腫塊,因此乳房攝影(mammography)作為早期乳癌篩檢的良好工具。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- ...| (D) FLAM (Pupmomu) | | | (D) | 11. 承上題,下列何者不是必要的檢查? | 99(一)專 | | | (A) 乳房超音波(ultrasonography) | 醫五-44 | | | (B) 乳房攝影(mammography) | | | | (C) 乳管攝影術(galactography) | | | | (D) 血清泌乳激素(prolactin)濃度測定 | | Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- (B) mammography screening Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- 2. 診斷: - (1) Colonoscopy: Gold standard,可同時作 biopsy。 - (2) Flexible sigmoidoscopy • - (3) Air-contrast enema:可清腸且偵測阻塞的程度。 - (4) Proctoscopy with rigid sigmoidoscopy: 可偵測 50% 的結腸癌,如果是用 flexible sigmoidoscopy 可偵測到 75% 的結腸癌。 - (5) DRE:可檢查直腸腫瘤大小、ulceration、local invasion、lymph node。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- 4. 篩檢, American Cancer Society 建議: - (1) 50 歲以上: - a. 每年:肛門指診、潛血反應檢查、Fecal immunochemical test (FIT)。 - b. 每五年定期接受:Flexible sigmoidoscopy、Double-contrast barium enema、CT colonography。 - c. 每十年:Colonoscopy。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- 2. Secondary prevention: cancer screening 提前找出癌前期病變或癌病變。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- 2. 處置:(依照下消化道出血處理原則) - (1) Resuscitation:等張性晶體溶液 ±pRBC。 - (2) 診斷出血位置: - a. NG tube:排除上消化道出血。 - b. Anoscopy/ Proctoscopy:排除 anorectal bleeding。 - c. Nuclear scan: Tc-99m \ tagged RBC \circ - d. Mesenteric angiography (血管攝影)。 - e. Colonoscopy • - f. Laparotomy (剖腹探查)。 - (3) 手術: - a. Urgent segmental resection:持續出血且輸血量已超過 6 U pRBC/24hrs 時緊急 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_丙、大腸憩室疾病 Page 139-146.
+- (A) 大腸鏡 (colonoscopy) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_丙、大腸憩室疾病 Page 139-146.
+- (D) 1. 關於糞便潛血 (fecal occult blood testing, FOBT) 的敘述,何者 105(-)專 錯誤? 醫五-51 - (A) 對沒有危險因子的民眾是很好的大腸直腸癌篩檢工具 - (B) 藉由免疫反應檢測的糞便潛血其專一性較氧化還原法的糞便 潛血檢測為高 - (C) 因為血球蛋白會在上消化道被破壞,所以免疫反應檢測的糞 便潛血是來自於大腸或直腸的出血 - (D) 糞便潛血檢驗前三天都必須要避免紅肉的攝取 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_戊、後天性血管異常及下消化道出血 Page 151-156.
+- (3) 合併惡性腫瘤之肌炎(20%) - a. 罹患成人型的皮肌炎者/多發性肌炎者,合併惡性腫瘤的機會較高,包括肺癌、子宮頸癌、卵巢癌、胰臟癌、胃癌與膀胱癌等,而台灣等東南亞地區尤其以合併鼻咽癌為最多。但其真正原因則有待進一步研究,病人應定期做各部位之癌症篩檢,包括:乳房、卵巢、子宮、肺、胃、大腸及鼻咽等,以便能早期發現與治療,提高治癒機會。 Source: 醫(四)第2冊皮膚_丁、自體免疫性疾病 Page 79-96.
+- (5) 對每一位新診斷之病人,應做全面性的癌症篩檢,尤其年紀大的病人需定期進行防癌檢查,鼻咽部腫瘤則至少每年應檢查一次。 Source: 醫(四)第2冊皮膚_丁、自體免疫性疾病 Page 79-96.
+- (D) 25. 承上題,上述疾病常合併癌症,應做癌症篩檢,此疾病在台灣最 99(二)專 常合併的癌症為何? 醫四-43 - (A) 肺癌 (lung cancer) - (B) 肝癌 (hepatoma) - (C) 大腸直腸癌 (colorectal cancer) - (D) 鼻咽癌 (nasopharyngeal cancer) Source: 醫(四)第2冊皮膚_丁、自體免疫性疾病 Page 79-96.
+- (C) 1. 對一個無乳癌家族或個人史的女性,下列何種乳癌篩選,比較符合 美國、加拿大及歐洲的相關建議? - (A) 自 50 歲起每 2 年做一次核磁共振檢查 (MRI) - (B) 自 40 歲起每 2 年做一次乳房超音波 (sonography) - (C) 自50歲起每2年做一次乳房攝影(mammography) - (D) 自 35 歲起每 2 年做正子攝影檢查 (PET) Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論 Page 225-242.
+- 【詳解】(C)雖然大部分的早期偵測大腸癌的計畫都強調糞便潛血 檢查,但卻有50%證實有大腸癌的病人其糞便潛血檢查是陰性的, 這和大腸癌的出血是間斷性的有關,因此敏感度其實不高;另外, 潛血陽性的也< 10%後來發現有大腸癌。其實, Colonoscopy 才是 最具敏感的檢查;因此 ACS 建議篩檢的方法是大於 50 歲的人每年 檢查大便潛血,且5年檢查一次 sigmoidoscopy。(Harrison, 529) Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論 Page 225-242.
 
 ## Clinical Caveats
 

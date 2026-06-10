@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 氣骨導差 (air-bone gap, 又稱 AB gap) - a. 若在一般談話頻率區(500Hz、1,000Hz、2,000Hz)兩者差異大於 10 分貝,表示出現氣骨導差。可能原因如下: - (a) 耳垢栓塞。 - (b) 耳膜穿孔。 - (c) 外耳道閉鎖。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- #### B. 耳垢栓塞 (Cerumen impaction) Source: [[sources/med6-book4-ch11|甲、耳科]].
+- (3) 氣骨導差 (air-bone gap, 又稱 AB gap) - a. 若在一般談話頻率區(500Hz、1,000Hz、2,000Hz)兩者差異大於 10 分貝,表示出現氣骨導差。可能原因如下: - (a) 耳垢栓塞。 - (b) 耳膜穿孔。 - (c) 外耳道閉鎖。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- #### B. 耳垢栓塞 (Cerumen impaction) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
 
 ## Clinical Caveats
 

@@ -29,12 +29,12 @@ tags:
 
 ## Key Details From Sources
 
-- Ⅱ. 基底核異常的疾病 124 - A. 背景 124 - B. 巴金森氏症 (Parkinsonism) 126 - C. 亨汀頓舞蹈症(Huntington's chorea) 131 Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...(Subthalamus nu.) | -不自主四肢近端大規模投擲、跳躍(大關節) | | DZ 657-1-104 456 五百4-4-11-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1- | 阿桥 (C-1-44 | 巴金森氏症 (Parkinsonism) | | 黑質有路徑到紋狀體調節 | 黑質 (Substantia nigra) | - 肌肉僵硬、動作緩慢、休息性顫抖 | Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...過動 (Dopamine 太多) | |-----------------------------|-----------------------------|----------------------------| | 運動疾病類型 巴金森氏症 (Parkinsonism) | | 亨汀頓舞蹈症 (Huntington chorea) | | 分佈位置 | 黑質出發到紋狀體的抑制性 | 紋狀體出發的抑制性 | | 万神以且 | Dopaminergic 神經元退化 | GABAergic 神經元退化 | | 正性症狀 | 顫抖 (Tremor)、肌肉僵硬 (Rigidity) | 舞蹈症 (chorea) | | 負性症狀 | 動作緩慢 (Bradykinesia) | | | | Dopamine ag Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- ...s) | | | | | 底 | 12 | 杏仁核 (Amygdaloi | loid) | | | | | | 核 | 間腦的底丘腦核 (Subthalamus nucleus) | | | | | | | | 腹 | 體 中腦的黑質 (Substantia nigra) | | | | | | | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- | 基底核 | | 疾病 | 症狀 | |-------------|-----------------------|----------------------|-----------------| | 外小小小 | 豆核 (Lentiform) | 手足徐動症 (Athetosis) | 不自主手足慢速扭曲 | | 紋狀體 | 尾核 (Caudate nucleus) | 舞蹈症 (Chorea) | 不自主肢體快速抽躍性舞動 | | 間腦/底 | 丘腦核 (Subthalamus nu.) | 芭蕾舞症 (Ballism) | 不自主四肢近端大規模投擲、跳躍 | | 中腦/黑 | 質 (Substantia nigra) | 巴金森氏症 (Parkinsonism) | 肌肉僵硬、動作緩慢、休息性顫抖 | Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
-- b. 廣義基底核還包括黑質、底丘腦核, 會給予上述途徑調節: - (a) 中腦的黑質 (Substantia nigra) 會分泌 Dopamine 調控紋狀體 (刺激 D1 receptor 或抑制 D2 receptor)。 - (b) 外蒼白球 (GPe) 以 GABA 抑制底丘腦核 (subthalamus nucleus)。 - (c) 間腦的底丘腦核 (Subthalamus nucleus) 會分泌 Glutamate 刺激內蒼白球 (Internal Globus pallidus, GPi)。 Source: [[sources/med4-book4-ch01|甲、神經學檢查]].
+- Ⅱ. 基底核異常的疾病 124 - A. 背景 124 - B. 巴金森氏症 (Parkinsonism) 126 - C. 亨汀頓舞蹈症(Huntington's chorea) 131 Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- ...(Subthalamus nu.) | -不自主四肢近端大規模投擲、跳躍(大關節) | | DZ 657-1-104 456 五百4-4-11-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1- | 阿桥 (C-1-44 | 巴金森氏症 (Parkinsonism) | | 黑質有路徑到紋狀體調節 | 黑質 (Substantia nigra) | - 肌肉僵硬、動作緩慢、休息性顫抖 | Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- ...過動 (Dopamine 太多) | |-----------------------------|-----------------------------|----------------------------| | 運動疾病類型 巴金森氏症 (Parkinsonism) | | 亨汀頓舞蹈症 (Huntington chorea) | | 分佈位置 | 黑質出發到紋狀體的抑制性 | 紋狀體出發的抑制性 | | 万神以且 | Dopaminergic 神經元退化 | GABAergic 神經元退化 | | 正性症狀 | 顫抖 (Tremor)、肌肉僵硬 (Rigidity) | 舞蹈症 (chorea) | | 負性症狀 | 動作緩慢 (Bradykinesia) | | | | Dopamine ag Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- ...s) | | | | | 底 | 12 | 杏仁核 (Amygdaloi | loid) | | | | | | 核 | 間腦的底丘腦核 (Subthalamus nucleus) | | | | | | | | 腹 | 體 中腦的黑質 (Substantia nigra) | | | | | | | Source: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48.
+- | 基底核 | | 疾病 | 症狀 | |-------------|-----------------------|----------------------|-----------------| | 外小小小 | 豆核 (Lentiform) | 手足徐動症 (Athetosis) | 不自主手足慢速扭曲 | | 紋狀體 | 尾核 (Caudate nucleus) | 舞蹈症 (Chorea) | 不自主肢體快速抽躍性舞動 | | 間腦/底 | 丘腦核 (Subthalamus nu.) | 芭蕾舞症 (Ballism) | 不自主四肢近端大規模投擲、跳躍 | | 中腦/黑 | 質 (Substantia nigra) | 巴金森氏症 (Parkinsonism) | 肌肉僵硬、動作緩慢、休息性顫抖 | Source: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48.
+- b. 廣義基底核還包括黑質、底丘腦核, 會給予上述途徑調節: - (a) 中腦的黑質 (Substantia nigra) 會分泌 Dopamine 調控紋狀體 (刺激 D1 receptor 或抑制 D2 receptor)。 - (b) 外蒼白球 (GPe) 以 GABA 抑制底丘腦核 (subthalamus nucleus)。 - (c) 間腦的底丘腦核 (Subthalamus nucleus) 會分泌 Glutamate 刺激內蒼白球 (Internal Globus pallidus, GPi)。 Source: 醫(四)第4冊神內_甲、神經學檢查 Page 11-48.
 
 ## Clinical Caveats
 

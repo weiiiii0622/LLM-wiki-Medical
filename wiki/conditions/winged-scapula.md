@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- I. 翼狀肩胛 (Winging scapula ) 31 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- #### I. 翼狀肩胛 (Winging scapula) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- 1. 翼狀肩胛指的是肩胛骨由於肌肉穩定度不足或神經受損等關係,造成某些動作可以 見到肩胛骨向後明顯突出的狀況。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- I. 翼狀肩胛 (Winging scapula ) 31 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- #### I. 翼狀肩胛 (Winging scapula) Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- 1. 翼狀肩胛指的是肩胛骨由於肌肉穩定度不足或神經受損等關係,造成某些動作可以 見到肩胛骨向後明顯突出的狀況。 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
 
 ## Clinical Caveats
 

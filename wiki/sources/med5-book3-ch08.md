@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_甲、解剖組織.md
+raw_source_title: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_甲、解剖組織"
+raw_source_file: "raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_甲、解剖組織.md"
+page_start: 97
+page_end: 104
+canonical_citation: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_甲、解剖組織 Page 97-104"
 book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 chapter_order: 8
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 - Chapter file: `raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_甲、解剖組織.md`
+- Pages covered: 97-104
+- Canonical citation: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_甲、解剖組織 Page 97-104
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

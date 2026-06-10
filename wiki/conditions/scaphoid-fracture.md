@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 舟狀骨骨折 (Scaphoid fracture) 99 Source: [[sources/med5-book6-ch06|己、手部]].
-- #### B. 舟狀骨骨折 (Scaphoid fracture) Source: [[sources/med5-book6-ch06|己、手部]].
-- 4. 診斷:可以照 AP view (前後照),如需提高診斷率,可以照 Scaphoid view (手腕 extension、往 ulnar side deviation),使舟狀骨骨折更加明顯。 Source: [[sources/med5-book6-ch06|己、手部]].
+- B. 舟狀骨骨折 (Scaphoid fracture) 99 Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
+- #### B. 舟狀骨骨折 (Scaphoid fracture) Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
+- 4. 診斷:可以照 AP view (前後照),如需提高診斷率,可以照 Scaphoid view (手腕 extension、往 ulnar side deviation),使舟狀骨骨折更加明顯。 Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
 
 ## Clinical Caveats
 

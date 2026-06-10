@@ -35,13 +35,13 @@ tags:
 
 ## Key Details From Sources
 
-- (A) 肌躍-肌張力不全症(myoclonus-dystonia syndrome, MDS) Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- | Megaloblastic anemia | 缺發葉酸或是 Vit B 12 ,藥物 | |--------------------------|--------------------------------| | Non-megaloblastic anemia | 脾切除、慢性肝病、MDS | Source: [[sources/med4-book1-ch08|辛、血液學]].
-- | 骨髓狀況 | 代表疾病 | |-------------------------|-------------------------------------------| | 骨髓細胞少 (Hypocellular BM) | 再生不良性貧血 (Aplastic anemia, AA) | | 骨髓細胞適量 (Cellular BM) | 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) | | 骨髓被取代 (Myelophthisis) | 原發性骨髓纖維化 (idiopathic myelofibrosis) | | 全身疾病 (Systemic disease) | 肝硬化等導致脾腫大 (Hypersplenism)、敗血症 (Sepsis) | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- #### 3. 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (2) MDS 在臨床疾病分類上雖然並不歸類為癌症,但疾病之進展往往會惡化成急性白血病,所以從 1953 年一直被稱為「白血病前期 (Pre-leukemia)」,直至 1985 年才被正式命名為 MDS。 Source: [[sources/med3-book4-ch10|甲、貧血]].
-- ...| | 預後佳 | FAB 2.3.4, Young ( 60)or child, High WBC at dx. | Older, B | ALL, t(9,22), t(4,11), t(1,19), del(11q23) | | | MDS 轉來 (del 5q, del 7q), FLT3 mutation | | | Source: [[sources/med3-book4-ch13|丁、急性白血病]].
-- | 症 狀 | 腫 瘤 | |--------------------------------------------------------|------------------------| | Acanthosis nigricans | 胃癌、非小細胞肺癌 | | Sweet syndrome (Acute febrile neutrophilic dermatosis) | AML · MDS | | Pruritis | Hodgkin's disease | | Pemphigus | Non- Hodgkin's disease | Source: [[sources/med3-book4-ch21|丁、腫瘤旁症候群]].
+- (A) 肌躍-肌張力不全症(myoclonus-dystonia syndrome, MDS) Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- | Megaloblastic anemia | 缺發葉酸或是 Vit B 12 ,藥物 | |--------------------------|--------------------------------| | Non-megaloblastic anemia | 脾切除、慢性肝病、MDS | Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- | 骨髓狀況 | 代表疾病 | |-------------------------|-------------------------------------------| | 骨髓細胞少 (Hypocellular BM) | 再生不良性貧血 (Aplastic anemia, AA) | | 骨髓細胞適量 (Cellular BM) | 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) | | 骨髓被取代 (Myelophthisis) | 原發性骨髓纖維化 (idiopathic myelofibrosis) | | 全身疾病 (Systemic disease) | 肝硬化等導致脾腫大 (Hypersplenism)、敗血症 (Sepsis) | Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- #### 3. 骨髓發育不良症候群 (Myelodysplastic syndrome, MDS) Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- (2) MDS 在臨床疾病分類上雖然並不歸類為癌症,但疾病之進展往往會惡化成急性白血病,所以從 1953 年一直被稱為「白血病前期 (Pre-leukemia)」,直至 1985 年才被正式命名為 MDS。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- ...| | 預後佳 | FAB 2.3.4, Young ( 60)or child, High WBC at dx. | Older, B | ALL, t(9,22), t(4,11), t(1,19), del(11q23) | | | MDS 轉來 (del 5q, del 7q), FLT3 mutation | | | Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_丁、急性白血病 Page 161-172.
+- | 症 狀 | 腫 瘤 | |--------------------------------------------------------|------------------------| | Acanthosis nigricans | 胃癌、非小細胞肺癌 | | Sweet syndrome (Acute febrile neutrophilic dermatosis) | AML · MDS | | Pruritis | Hodgkin's disease | | Pemphigus | Non- Hodgkin's disease | Source: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丁、腫瘤旁症候群 Page 243-246.
 
 ## Clinical Caveats
 

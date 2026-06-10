@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
+- IV. 低血鉀週期性肌無力症(Hypokalemia Periodic Paralysis) *183* - A. 甲狀腺機能亢進週期性麻痺(Thyrotoxicosis periodic paralysis, TPP) *183* - B. 鈣離子通道病變 183 Source: 醫(四)第4冊神內_辛、肌肉病變 Page 183-200.
 
 ## Clinical Caveats
 

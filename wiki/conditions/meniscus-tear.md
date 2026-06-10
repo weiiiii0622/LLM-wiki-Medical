@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- 2. 不開心三合一(unhappy triad or terrible triad):表示下列三個構造的撕裂傷。 - (1) 內半月板撕裂 (medial meniscus tear)。 - (2) 前十字韌帶撕裂 (anterior cruciate ligament tear)。 - (3) 內側副韌帶撕裂 (medial collateral ligament tear)。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (2) 手術治療的適應症: - a. 高度活動的運動員、年輕人、小孩。 - b. Complete ACL rupture 或之前做過 ACL reconstruction 失敗者。 - c. 合併 meniscus tear 或有合併 MCL tear。 - d. 病人意願。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- (1) 大部分為膝關節扭轉(twist)或蹲踞(squat)姿勢時,遭受如運動傷害、車禍等過度外力,導致半月板軟骨的破裂。 - a. 半月板傷害好發於 20~40 歲的男性。而中老年人,則大多為退化性半月軟骨, 和外傷所引起的機制不同。 - b. 內側半月板軟骨比外側容易受傷,因為內側半月板較外側為大,活動性較低 (與 superficial MCL 相連),相對其傷害機會也較高。 - c. 半月板破裂的患者常常伴隨十字韌帶受傷,尤其是前十字韌帶。 Source: [[sources/med5-book6-ch02|乙、膝關節]].
+- 2. 不開心三合一(unhappy triad or terrible triad):表示下列三個構造的撕裂傷。 - (1) 內半月板撕裂 (medial meniscus tear)。 - (2) 前十字韌帶撕裂 (anterior cruciate ligament tear)。 - (3) 內側副韌帶撕裂 (medial collateral ligament tear)。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- (2) 手術治療的適應症: - a. 高度活動的運動員、年輕人、小孩。 - b. Complete ACL rupture 或之前做過 ACL reconstruction 失敗者。 - c. 合併 meniscus tear 或有合併 MCL tear。 - d. 病人意願。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- (1) 大部分為膝關節扭轉(twist)或蹲踞(squat)姿勢時,遭受如運動傷害、車禍等過度外力,導致半月板軟骨的破裂。 - a. 半月板傷害好發於 20~40 歲的男性。而中老年人,則大多為退化性半月軟骨, 和外傷所引起的機制不同。 - b. 內側半月板軟骨比外側容易受傷,因為內側半月板較外側為大,活動性較低 (與 superficial MCL 相連),相對其傷害機會也較高。 - c. 半月板破裂的患者常常伴隨十字韌帶受傷,尤其是前十字韌帶。 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
 
 ## Clinical Caveats
 

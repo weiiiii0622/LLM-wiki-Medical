@@ -31,15 +31,15 @@ tags:
 
 ## Key Details From Sources
 
-- #### A. 甲狀舌管囊腫(Thyroglossal duct cyst ) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- (1) 治療以外科手術處理為主。術式名稱為 Sistrunk operation,將甲狀舌骨囊腫連同其管道及一部分舌骨一併清除。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- (3) 開刀適應症。 - a. 反覆感染發作。 - b. 甲狀舌骨囊腫惡性變化。 - c. 美觀上的考量。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- C. 甲狀舌骨囊腫 (Thyroglossal duct cyst) 130 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- 3. 頸部中線腫瘤:有甲狀舌骨囊腫(thyroglossal duct cysts)、淋巴結腫大(enlarged lymph nodes)、皮樣囊腫(dermoid cysts)、血管瘤(hemangiomas)、甲狀腺椎體葉(pyramidal lobes of the thyroid)。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- ### C. 甲狀舌骨囊腫 (Thyroglossal duct cyst) Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- F. 甲狀舌骨囊腫 (Thyroglossal cyst) 69 Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- ### F. 甲狀舌骨囊腫 (Thyroglossal cyst) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
-- (C) 1.42 歲女性病人,前頸部吞嚥異物感 2 年,沒有心悸或怕熱等症 96(二)專狀,無咳嗽,頸部中央靠近喉結下有一腫塊,近一星期左右增大 約 2 公分,微痛,身體檢查觸診微軟有彈性,無壓痛,無淋巴 腺腫大。該腫塊位於甲狀軟骨前下方,並有吞嚥時位移及抬舌 位移現象,下列何者是最正確的診斷? - (A) 淋巴瘤 (lymphoma) - (B) 甲狀腺囊腫 (thyroid cyst) - (C) 甲狀舌骨囊腫(thyroglossal cyst) - (D) 食道腫瘤 (esophageal tumor) Source: [[sources/med5-book4-ch04|丁、縱隔腔]].
+- #### A. 甲狀舌管囊腫(Thyroglossal duct cyst ) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- (1) 治療以外科手術處理為主。術式名稱為 Sistrunk operation,將甲狀舌骨囊腫連同其管道及一部分舌骨一併清除。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- (3) 開刀適應症。 - a. 反覆感染發作。 - b. 甲狀舌骨囊腫惡性變化。 - c. 美觀上的考量。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- C. 甲狀舌骨囊腫 (Thyroglossal duct cyst) 130 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
+- 3. 頸部中線腫瘤:有甲狀舌骨囊腫(thyroglossal duct cysts)、淋巴結腫大(enlarged lymph nodes)、皮樣囊腫(dermoid cysts)、血管瘤(hemangiomas)、甲狀腺椎體葉(pyramidal lobes of the thyroid)。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
+- ### C. 甲狀舌骨囊腫 (Thyroglossal duct cyst) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
+- F. 甲狀舌骨囊腫 (Thyroglossal cyst) 69 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90.
+- ### F. 甲狀舌骨囊腫 (Thyroglossal cyst) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90.
+- (C) 1.42 歲女性病人,前頸部吞嚥異物感 2 年,沒有心悸或怕熱等症 96(二)專狀,無咳嗽,頸部中央靠近喉結下有一腫塊,近一星期左右增大 約 2 公分,微痛,身體檢查觸診微軟有彈性,無壓痛,無淋巴 腺腫大。該腫塊位於甲狀軟骨前下方,並有吞嚥時位移及抬舌 位移現象,下列何者是最正確的診斷? - (A) 淋巴瘤 (lymphoma) - (B) 甲狀腺囊腫 (thyroid cyst) - (C) 甲狀舌骨囊腫(thyroglossal cyst) - (D) 食道腫瘤 (esophageal tumor) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90.
 
 ## Clinical Caveats
 

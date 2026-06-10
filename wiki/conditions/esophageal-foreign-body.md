@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- L. 食道異物 (Esophageal foreign body) 103 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- ### L. 食道異物 (Esophageal foreign body) Source: [[sources/med5-book4-ch05|戊、食 道]].
-- (C) 食道異物最常發生在第六頸椎附近 Source: [[sources/med5-book4-ch05|戊、食 道]].
+- L. 食道異物 (Esophageal foreign body) 103 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- ### L. 食道異物 (Esophageal foreign body) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- (C) 食道異物最常發生在第六頸椎附近 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
 
 ## Clinical Caveats
 

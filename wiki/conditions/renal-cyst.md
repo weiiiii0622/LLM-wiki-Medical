@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- #### A. 腎臟囊腫 (Renal cyst) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- #### A. 腎臟囊腫 (Renal cyst) Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
 
 ## Clinical Caveats
 

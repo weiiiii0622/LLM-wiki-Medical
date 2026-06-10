@@ -37,14 +37,14 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 腦外傷部分內容請參照醫學(五)第三冊腦神經外科第二章頭部創傷。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- (C) 無法認定的頭受傷 (Unrecognized head trauma) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (2) 手術修補、血管內支架置放:應先完成其他伴隨危急損傷評估,如:脾臟破裂、 骨盆骨折出血,並優先處理肺失能或頭部創傷至穩定,再進行血管修補。 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- ## 乙、頭部創傷 (Head Trauma) Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- 8. 輕度頭部創傷 (GCS = 13~15): - (1) 床頭向上傾斜 30~45 度。 - (2) 每兩小時作 NE。 - (3) NPO 直到意識正常。 - (4) 靜脈輸液。 - (5) 止痛、止吐。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- 9. 中度頭部創傷 (GCS = 9~12): - (1) 轉 ICU。 - (2) 要是 12 小時內 GCS 無法回復到 13 以上、臨床症狀惡化或是 ICP (intracranial pressure) 上升,則必須再作一次 CT 追蹤。 Source: [[sources/med5-book1-ch11|乙、頭部創傷]].
-- 腦神經外科是國考的大科,題目比重極重,本章節整理了EDH、SDH、SAH、ICH、IICP、脊椎疾病、腦瘤、水腦症的疾病,鉅細靡遺,希望能有幫助。學習重點:GCS 評估和腦死判定、頭部創傷的處置以及EDH和SDH的分辨、IICP的處置、脊椎疾病的鑑別診斷和處置、各種腦瘤的特性、診斷和治療(重要!)。 Source: [[sources/med5-book1-ch09|壬、內視鏡]].
-- 【詳解】(D) 頭部創傷後會連續七天給予預防性抗癲癇藥物 (phenytoin or levetiracetam),可有效預防創傷後七天內的癲癇 (early post-traumatic seizures) 發生率,但使用超過七天則對於 late post-traumatic seizures (創傷後超過七天才發生)無顯著效果。因此建議連續給予七天後即可停藥,但不會只使用 24 小時就停藥了。 Source: [[sources/med5-book1-ch10|甲、昏迷指數和腦死]].
+- 1. 腦外傷部分內容請參照醫學(五)第三冊腦神經外科第二章頭部創傷。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- (C) 無法認定的頭受傷 (Unrecognized head trauma) Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- (2) 手術修補、血管內支架置放:應先完成其他伴隨危急損傷評估,如:脾臟破裂、 骨盆骨折出血,並優先處理肺失能或頭部創傷至穩定,再進行血管修補。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- ## 乙、頭部創傷 (Head Trauma) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- 8. 輕度頭部創傷 (GCS = 13~15): - (1) 床頭向上傾斜 30~45 度。 - (2) 每兩小時作 NE。 - (3) NPO 直到意識正常。 - (4) 靜脈輸液。 - (5) 止痛、止吐。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- 9. 中度頭部創傷 (GCS = 9~12): - (1) 轉 ICU。 - (2) 要是 12 小時內 GCS 無法回復到 13 以上、臨床症狀惡化或是 ICP (intracranial pressure) 上升,則必須再作一次 CT 追蹤。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_乙、頭部創傷 Page 137-150.
+- 腦神經外科是國考的大科,題目比重極重,本章節整理了EDH、SDH、SAH、ICH、IICP、脊椎疾病、腦瘤、水腦症的疾病,鉅細靡遺,希望能有幫助。學習重點:GCS 評估和腦死判定、頭部創傷的處置以及EDH和SDH的分辨、IICP的處置、脊椎疾病的鑑別診斷和處置、各種腦瘤的特性、診斷和治療(重要!)。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_壬、內視鏡 Page 121-130.
+- 【詳解】(D) 頭部創傷後會連續七天給予預防性抗癲癇藥物 (phenytoin or levetiracetam),可有效預防創傷後七天內的癲癇 (early post-traumatic seizures) 發生率,但使用超過七天則對於 late post-traumatic seizures (創傷後超過七天才發生)無顯著效果。因此建議連續給予七天後即可停藥,但不會只使用 24 小時就停藥了。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_甲、昏迷指數和腦死 Page 131-136.
 
 ## Clinical Caveats
 

@@ -75,24 +75,24 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 心臟移植後生理學上的變化: - a. 移植後的心臟由於沒有神經支配(交感和副交感)所以當患者處於休息狀態時, 少了迷走神經(副交感)對 SA node 的抑制,其基礎心率會接近 100 bpm。 - b. 少了交感神經的支配,運動時需靠血中的 catecholamine 增快心跳和心輸出量,但增加速度較緩慢,且運動時所能達到的最大心跳數會比正常人低 20~25%。 - c. 運動完後,心臟也須花較長的時間才能恢復到休息時的狀態。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- 4. 高血壓脈絡膜病變:常見於急性高血壓的年輕人(如:子癲前症、子癲症、嗜鉻細胞瘤)或惡性高血壓的病人。眼底典型表現有 Elschnig's spot(代表局部脈絡膜阻塞)、Siegrist streak(代表類纖維蛋白壞死)或滲出性視網膜剝離。眼底螢光血管攝影檢查早期為低灌注(hypoperfusion),晚期則滲漏而高螢光。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- Ⅲ. 髓質疾病 167 - A. 嗜鉻細胞瘤 (Pheochromocytoma) 167 - B. 神經母細胞瘤 (Neuroblastoma) 168 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- (C) von Hippel-Lindau disease 主要臨床表現有腎細胞癌,嗜鉻細胞瘤(pheochromocytoma),視網膜血管胚細胞瘤(retinal hemangioblastoma)等 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...(B) 大約有 65% 的神經母細胞瘤是發生在腹部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母細胞瘤的存在及其是否已有轉移,也可用來監測 神經母細胞瘤在接受治療後的反應及其是否有復發跡象 Source: [[sources/med5-book4-ch15|辛、惡性腫瘤]].
-- D. 嗜鉻細胞瘤 (Pheochromocytoma) 237 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- ...erplasia 的話可以: - (a) 影像學上需用高解析度 adrenal CT, 因許多 aldosteronoma 都 131I-MIBG scan: 131I-MIBG 是正腎上腺素類似物,會聚集在交感神經的液泡中, 也就會出現在嗜鉻細胞瘤中,對於腎上腺或腎上腺外嗜鉻細胞瘤特異性高。 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- 【詳解】Conn's syndrome、Cushing's syndrome、Pheochromocytoma等功能性腎上腺腫瘤在手術切除後改善效果非常顯著,無 Source: [[sources/med5-book2-ch23|丁、腎上腺]].
-- \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- a. Total thyroidectomy + Central neck dissection (上下從舌骨到胸骨切跡,左右至頸動脈鞘)。如同時有 pheochromocytoma,需先將其切除,因為 pheochromocytoma 會增加甲狀腺切除術中的風險,例如 hypertensive crisis。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- ...切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | (B) 20. | 格雷氏病(Graves' disease)合併下列何種情況時,甲狀腺次全切 | 104(二 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- 2. IIB: - (1) Medullary thyroid carcinoma (100%) • - (2) Pheochromocytoma (50%) • - (3) Mucosal and gastrointestinal neuroma • Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- (D) 1. 有關多發性內分泌贅瘤症候群 (multiple endocrine neoplasia , 107(-) 専 MEN) 的敘述 , 下列何者錯誤? - (A) MEN 1 包含副甲狀腺機能亢進(hyperparathyroidism) - (B) MEN 2A 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (C) MEN 2B 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (D) MEN 2C 包含嗜鉻細胞瘤 (pheochromocytoma) Source: [[sources/med5-book2-ch24|戊、多發性內分泌腫瘤症候群]].
-- ...之使用時機,下列何者錯誤? (A) 受贈者有嚴重的肺高血壓 (B) 捐贈者的心臟太小 (C) 受贈者與捐贈者的血型不相配 (D) 捐贈者心臟缺血時間太長 9. 心臟移植患者於運動量增加時,下列何者最不可能發生? (A) 血中循環之兒茶酚胺(catecholamine)量增加 (B) 心輸出量增加 (C) 心跳速率立即增加 | Source: [[sources/med5-book2-ch07|庚、心臟移植]].
-- (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: [[sources/med4-book4-ch02|乙、癲癇]].
+- (1) 心臟移植後生理學上的變化: - a. 移植後的心臟由於沒有神經支配(交感和副交感)所以當患者處於休息狀態時, 少了迷走神經(副交感)對 SA node 的抑制,其基礎心率會接近 100 bpm。 - b. 少了交感神經的支配,運動時需靠血中的 catecholamine 增快心跳和心輸出量,但增加速度較緩慢,且運動時所能達到的最大心跳數會比正常人低 20~25%。 - c. 運動完後,心臟也須花較長的時間才能恢復到休息時的狀態。 Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- 4. 高血壓脈絡膜病變:常見於急性高血壓的年輕人(如:子癲前症、子癲症、嗜鉻細胞瘤)或惡性高血壓的病人。眼底典型表現有 Elschnig's spot(代表局部脈絡膜阻塞)、Siegrist streak(代表類纖維蛋白壞死)或滲出性視網膜剝離。眼底螢光血管攝影檢查早期為低灌注(hypoperfusion),晚期則滲漏而高螢光。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- Ⅲ. 髓質疾病 167 - A. 嗜鉻細胞瘤 (Pheochromocytoma) 167 - B. 神經母細胞瘤 (Neuroblastoma) 168 Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- 3. 腎髓質層:分泌兒茶酚胺(catecholamine),其中主要成分是腎上腺素(Epinephrine)與正腎上腺素(Norepinephrine)。 Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- 最常發現腎上腺腫瘤是影像檢查時意外發現,意外發現且 >1cm 的腫瘤都可叫做意外瘤 (Incidentaloma)。臨床症狀不一且種類繁多 (Adenoma、Metastasis、Lymphoma、Pheochromocytoma、Neuroblastoma…),但是一旦發現均建議要進一步影像或實驗室檢查。意外瘤 (Incidentaloma) 開刀的 indication 有: Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- (C) von Hippel-Lindau disease 主要臨床表現有腎細胞癌,嗜鉻細胞瘤(pheochromocytoma),視網膜血管胚細胞瘤(retinal hemangioblastoma)等 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- ...(B) 大約有 65% 的神經母細胞瘤是發生在腹部,其中多數位於 腎上腺髓質(adrenal medulla),其他在頸部、胸部及骨盆腔 亦有病例報告 - (C) 當懷疑小兒罹患神經母細胞瘤時,須收集 24 小時尿液檢測 其中的兒苯酚氨(catecholamine)或其代謝產物(例如: dopamine, homovanillic acid, vanillylmandelic acid),通常會 發現數據下降 - (D) 碘 -131 核子醫學掃描(碘 -131 MIBG scan)不但可以用來 值測神經母細胞瘤的存在及其是否已有轉移,也可用來監測 神經母細胞瘤在接受治療後的反應及其是否有復發跡象 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_辛、惡性腫瘤 Page 205-216.
+- D. 嗜鉻細胞瘤 (Pheochromocytoma) 237 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丁、腎上腺 Page 247-254.
+- ...erplasia 的話可以: - (a) 影像學上需用高解析度 adrenal CT, 因許多 aldosteronoma 都 131I-MIBG scan: 131I-MIBG 是正腎上腺素類似物,會聚集在交感神經的液泡中, 也就會出現在嗜鉻細胞瘤中,對於腎上腺或腎上腺外嗜鉻細胞瘤特異性高。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丁、腎上腺 Page 247-254.
+- 【詳解】Conn's syndrome、Cushing's syndrome、Pheochromocytoma等功能性腎上腺腫瘤在手術切除後改善效果非常顯著,無 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_丁、腎上腺 Page 247-254.
+- \* MEN IIA: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia MEN IIB: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal and gastrointestina neuromas - (6) MTC 病患需常規作以下檢測,去判斷是否為 MEN IIA 或 IIB: - a. 24 小時尿液 VMA (pheochromocytoma)。 - b. 血清鈣濃度 (hyperparathyroidism)。 - c. RET proto-oncogene • Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
+- a. Total thyroidectomy + Central neck dissection (上下從舌骨到胸骨切跡,左右至頸動脈鞘)。如同時有 pheochromocytoma,需先將其切除,因為 pheochromocytoma 會增加甲狀腺切除術中的風險,例如 hypertensive crisis。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
+- ...切除合併中央隔間淋巴結切除(central compart- | 醫五 -41 | | | ment dissection) | | | | (B) 診斷用 CEA、calcitonin 及細胞學檢查 | | | | (C) 有嗜鉻細胞癌(pheochromocytoma)病人時,要先進行甲狀 | | | | 腺髓質癌手術 | | | | (D) 碘 131 治療無效 | | | | 【詳解】嗜鉻細胞癌分泌的 Catecholamines 易引起嚴重高血壓、 | | | | 心律不整等,這些都會是手術中的不穩定因子,故應先處理嗜 | | | | 鉻細胞癌後,再進行甲狀腺髓質癌手術。 | | | (B) 20. | 格雷氏病(Graves' disease)合併下列何種情況時,甲狀腺次全切 | 104(二 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
+- 1. IIA: - (1) Medullary thyroid carcinoma (100%) - (2) Pheochromocytoma (50%) • - (3) Parathyroid hyperplasia (15~20%) • Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258.
+- 2. IIB: - (1) Medullary thyroid carcinoma (100%) • - (2) Pheochromocytoma (50%) • - (3) Mucosal and gastrointestinal neuroma • Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258.
+- (D) 1. 有關多發性內分泌贅瘤症候群 (multiple endocrine neoplasia , 107(-) 専 MEN) 的敘述 , 下列何者錯誤? - (A) MEN 1 包含副甲狀腺機能亢進(hyperparathyroidism) - (B) MEN 2A 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (C) MEN 2B 包含甲狀腺髓質癌 (medullary thyroid carcinoma) - (D) MEN 2C 包含嗜鉻細胞瘤 (pheochromocytoma) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_戊、多發性內分泌腫瘤症候群 Page 255-258.
+- ...之使用時機,下列何者錯誤? (A) 受贈者有嚴重的肺高血壓 (B) 捐贈者的心臟太小 (C) 受贈者與捐贈者的血型不相配 (D) 捐贈者心臟缺血時間太長 9. 心臟移植患者於運動量增加時,下列何者最不可能發生? (A) 血中循環之兒茶酚胺(catecholamine)量增加 (B) 心輸出量增加 (C) 心跳速率立即增加 | Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_庚、心臟移植 Page 105-110.
+- (3) 癲癇重積狀態 (static epileptics): 癲癇一直持續發作,每次發作間,意識等其他神經學狀態皆無恢復到正常狀態;或是發作超過30分鐘。可造成患者血液中兒茶酚胺 (catecholamine) 增加而導致心律不整。 Source: 醫(四)第4冊神內_乙、癲癇 Page 49-66.
 
 ## Clinical Caveats
 

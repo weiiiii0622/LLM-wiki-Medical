@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學.md
+raw_source_title: "醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學"
+raw_source_file: "raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學.md"
+page_start: 199
+page_end: 210
+canonical_citation: "醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210"
 book: 醫(六)第2冊眼科
 chapter_order: 16
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第2冊眼科
 - Chapter file: `raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學.md`
+- Pages covered: 199-210
+- Canonical citation: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

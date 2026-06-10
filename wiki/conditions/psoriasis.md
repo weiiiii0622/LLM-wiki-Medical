@@ -45,19 +45,19 @@ tags:
 
 ## Key Details From Sources
 
-- c. 乾癬性關節炎 (Psoriatic arthritis): 與HLA-B27有關, 眼睛症狀有前葡萄膜炎、 結膜炎或角膜炎。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
-- a. 常見於乾癬患者(10~30%),好發於40~50歲。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- ...-----------------------------------|--| | Lithium | 0.8~1.2 mEq/L | 影響腎功能、tremor、weight gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 3. 遺傳性: 當雙親其中一個有乾癬,小孩罹患乾癬的機率為8%,雙親都有乾癬時,罹患機率則為41%。其中基因型以HLA-Cw6確定最相關,其他如HLA-B13、B17、Bw57也有相關。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- (1) 外傷:即 Koebner phenomenon,抓搔皮膚會促進乾癬的增生,30~50%的病患有此現象。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- (2) 感染:感染被認為能誘發乾癬的發生,急性滴狀乾癬通常出現在急性鏈球菌感 染後一至兩週。HIV 也與乾癬的發生相關。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- 7. Koebner phenomenon:可因過度搔抓皮膚導致皮膚受傷,進而在原本病灶旁邊的抓痕上形成線狀排列的新病灶。(右下圖,可見新生兒的扁平苔癬沿著抓痕呈線狀排列) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (C) 尋常性乾癬 (psoriasis vulgaris) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- 【詳解】從圖一可見嘴唇左半部有塊偏厚的斑塊(indurated plaque),上面有些白色條紋,且可看見有輕微脫屑(箭頭處)。 第一個會想到是 lichen planus 的 Wickham striae,或是 leukoplakia; candidiasis 會再更潰爛更脫屑等表皮變化,psoriasis 的話因為選項 有,且斑塊加上脫屑也是有可能,先不排除。接著看病理部分: Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (B) 乾癬 (psoriasis) Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (A) 點滴狀乾癬 (guttate psoriasis) Source: [[sources/med4-book2-ch11|子、其 他]].
-- 2. 具遺傳性,超過 30% 的患者其雙親之一也有白斑。白斑的發生也與後天有關,多數 患者白斑發生於身心創傷之後,例如親人去世、身體創傷(Koebner phenomenon)、 日光曬傷。 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
-- (C) 2. 24 歲女性在臉部、頸部出現脫色病灶,如圖所示,關於此病的敘 109( ) 專 述,下列何者錯誤? 醫四 -43 - (A) 此病症可能出現 Koebner phenomenon - (B) 此病症可能造成病人社會適應困難 - (C) 病灶內的黑色素細胞雖存在,但無 法有效製造黑色素顆粒 - (D) 波長 308 nm 之準分子光治療 (excimer phototherapy) 有效 Source: [[sources/med4-book2-ch08|辛、皮膚色素病]].
+- c. 乾癬性關節炎 (Psoriatic arthritis): 與HLA-B27有關, 眼睛症狀有前葡萄膜炎、 結膜炎或角膜炎。 Source: 醫(六)第2冊眼科_第一篇、眼科_庚、葡萄膜 Page 77-84.
+- a. 常見於乾癬患者(10~30%),好發於40~50歲。 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- ...-----------------------------------|--| | Lithium | 0.8~1.2 mEq/L | 影響腎功能、tremor、weight gain、diarrhea、 | | | | | acne · psoriasis · thyroid toxicity | | | Valproate | 50~150 mg/mL | 掉髮、手抖、體重增加、鎮靜、腸胃道不適 | | | Carbamazepine | 4~12 mg/mL | 噁心、鎮靜、步態不穩、肝毒性; Stevens- | | | | | Johnson syndrome(少見) | | | Gabapentin | | Sedation · dizziness · fatigue | | Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- 3. 遺傳性: 當雙親其中一個有乾癬,小孩罹患乾癬的機率為8%,雙親都有乾癬時,罹患機率則為41%。其中基因型以HLA-Cw6確定最相關,其他如HLA-B13、B17、Bw57也有相關。 Source: 醫(四)第2冊皮膚_庚、乾癬 (Psoriasis) Page 130-136.
+- (1) 外傷:即 Koebner phenomenon,抓搔皮膚會促進乾癬的增生,30~50%的病患有此現象。 Source: 醫(四)第2冊皮膚_庚、乾癬 (Psoriasis) Page 130-136.
+- (2) 感染:感染被認為能誘發乾癬的發生,急性滴狀乾癬通常出現在急性鏈球菌感 染後一至兩週。HIV 也與乾癬的發生相關。 Source: 醫(四)第2冊皮膚_庚、乾癬 (Psoriasis) Page 130-136.
+- 7. Koebner phenomenon:可因過度搔抓皮膚導致皮膚受傷,進而在原本病灶旁邊的抓痕上形成線狀排列的新病灶。(右下圖,可見新生兒的扁平苔癬沿著抓痕呈線狀排列) Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- (C) 尋常性乾癬 (psoriasis vulgaris) Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- 【詳解】從圖一可見嘴唇左半部有塊偏厚的斑塊(indurated plaque),上面有些白色條紋,且可看見有輕微脫屑(箭頭處)。 第一個會想到是 lichen planus 的 Wickham striae,或是 leukoplakia; candidiasis 會再更潰爛更脫屑等表皮變化,psoriasis 的話因為選項 有,且斑塊加上脫屑也是有可能,先不排除。接著看病理部分: Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- (B) 乾癬 (psoriasis) Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- (A) 點滴狀乾癬 (guttate psoriasis) Source: 醫(四)第2冊皮膚_子、其他 Page 193-206.
+- 2. 具遺傳性,超過 30% 的患者其雙親之一也有白斑。白斑的發生也與後天有關,多數 患者白斑發生於身心創傷之後,例如親人去世、身體創傷(Koebner phenomenon)、 日光曬傷。 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
+- (C) 2. 24 歲女性在臉部、頸部出現脫色病灶,如圖所示,關於此病的敘 109( ) 專 述,下列何者錯誤? 醫四 -43 - (A) 此病症可能出現 Koebner phenomenon - (B) 此病症可能造成病人社會適應困難 - (C) 病灶內的黑色素細胞雖存在,但無 法有效製造黑色素顆粒 - (D) 波長 308 nm 之準分子光治療 (excimer phototherapy) 有效 Source: 醫(四)第2冊皮膚_辛、皮膚色素病 Page 137-150.
 
 ## Clinical Caveats
 

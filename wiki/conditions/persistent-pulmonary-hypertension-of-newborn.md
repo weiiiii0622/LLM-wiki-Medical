@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
-- Ⅲ. 新生兒呼吸相關疾病 443 - A. 呼吸窘迫症候群 (RDS) 443 - B. 新生兒暫時性呼吸急促(TTNB) 444 - C. 早產兒呼吸暫停 445 - D. 新生兒持續性肺高壓 (PPHN) 445 - E. 吸入性症候群 446 - F. 先天性橫膈膜疝氣 446 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- # D. 新生兒持續性肺高壓 (Persistent pulmonary hypertension of neonate, PPHN) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 3. 病因:胎兒時期肺血管阻力提高、從肺到全身的血液分流(卵圓孔或動脈導管)產 生的低血氧造成 PPHN。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (A) 4. 先天性心臟病約占活產兒 0.5~0.8%, 但在新生兒合併下列狀況 99(二)專時, 其發生率會提高 10 倍以上。前述現象最適合的例子為: 醫四-6 - (A) Trisomy 21 - (B) Maternal lupus - (C) Persistent pulmonary hypertension - (D) Maternal smoking Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_辛、其他 Page 111-126.
+- Ⅲ. 新生兒呼吸相關疾病 443 - A. 呼吸窘迫症候群 (RDS) 443 - B. 新生兒暫時性呼吸急促(TTNB) 444 - C. 早產兒呼吸暫停 445 - D. 新生兒持續性肺高壓 (PPHN) 445 - E. 吸入性症候群 446 - F. 先天性橫膈膜疝氣 446 Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- # D. 新生兒持續性肺高壓 (Persistent pulmonary hypertension of neonate, PPHN) Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- 3. 病因:胎兒時期肺血管阻力提高、從肺到全身的血液分流(卵圓孔或動脈導管)產 生的低血氧造成 PPHN。 Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- (A) 4. 先天性心臟病約占活產兒 0.5~0.8%, 但在新生兒合併下列狀況 99(二)專時, 其發生率會提高 10 倍以上。前述現象最適合的例子為: 醫四-6 - (A) Trisomy 21 - (B) Maternal lupus - (C) Persistent pulmonary hypertension - (D) Maternal smoking Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
 
 ## Clinical Caveats
 

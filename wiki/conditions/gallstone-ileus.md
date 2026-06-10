@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- 前言:原本只是造成腹部疼痛的膽結石,若沒有治療,持續刺激之下將會導致急性 發炎等併發症如下: - (1) 急性膽囊炎 (acute calculous cholecystitis)。 - (2) 總膽管結石 (choledocholithiasis)。 - (3) 膽囊性胰臟炎 (biliary pancreatitis)。 - (4) 膽石性腸阻塞 (gallstone ileus)。 - (5) 膽管炎 (cholangitis)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- #### 6. 膽結石腸阻塞 (Gallstone ileus): Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- (2) 診斷: Rigler's triad 為 X-ray 上 診斷 gallstone ileus 的依據。 - a. 肝臟區樹狀空氣分布 (pneumobilia)。 - b. 腸道阻塞 (bowel obstruction)。 - c. 異位性膽結石 (ectopic gallstone)。 Source: [[sources/med5-book3-ch13|乙、膽結石與其併發症]].
-- 4. 其他:10% - (1) 腸套疊 (intussusception)。 - (2) 腸扭結(volvulus)。 - (3) 膽石阻塞 (gallstone ileus)。 - (4) 先天性閉鎖。 Source: [[sources/med5-book3-ch05|乙、腸阻塞]].
+- 前言:原本只是造成腹部疼痛的膽結石,若沒有治療,持續刺激之下將會導致急性 發炎等併發症如下: - (1) 急性膽囊炎 (acute calculous cholecystitis)。 - (2) 總膽管結石 (choledocholithiasis)。 - (3) 膽囊性胰臟炎 (biliary pancreatitis)。 - (4) 膽石性腸阻塞 (gallstone ileus)。 - (5) 膽管炎 (cholangitis)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- #### 6. 膽結石腸阻塞 (Gallstone ileus): Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- (2) 診斷: Rigler's triad 為 X-ray 上 診斷 gallstone ileus 的依據。 - a. 肝臟區樹狀空氣分布 (pneumobilia)。 - b. 腸道阻塞 (bowel obstruction)。 - c. 異位性膽結石 (ectopic gallstone)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第四篇、膽道外科_乙、膽結石與其併發症 Page 141-158.
+- 4. 其他:10% - (1) 腸套疊 (intussusception)。 - (2) 腸扭結(volvulus)。 - (3) 膽石阻塞 (gallstone ileus)。 - (4) 先天性閉鎖。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_乙、腸阻塞 Page 75-82.
 
 ## Clinical Caveats
 

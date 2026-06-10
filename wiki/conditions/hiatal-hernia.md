@@ -29,12 +29,12 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 胃食道逆流疾病(GERD)通常和橫隔裂孔疝氣(hiatal hernia)有關。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 4. 横隔裂孔疝氣(hiatal hernia)分 4 型:以 Type I 最常見,而 Type II & III 通常較為 難治療且常合併急性或慢性阻塞症狀。即使有橫隔裂孔疝氣也不代表有 GERD,而 也不一定需要手術矯正,大多數病人沒有症狀也無需治療。 - (1) Type I (sliding hiatal hernia): 因橫隔食道韌帶未將 GE junction 固定在腹腔內,而造成賁門在腹腔和後縱隔間滑動。為最常見的一型。(圖三 A) - Source: [[sources/med5-book4-ch05|戊、食 道]].
-- 1. 機轉 & 成因:因食道長期受胃酸刺激,引起異生(metaplasia),由柱狀上皮取代複層上皮,雖然異生成柱狀上皮細胞可抗酸,但也容易癌化。常見原因為慢性胃食道逆流、幽門螺旋菌感染(Helicobacter pylori)、下食道括約肌無力或合併橫隔食道裂孔疝氣等會造成長期胃食道逆流現象者。 Source: [[sources/med5-book4-ch05|戊、食 道]].
-- IV. 食道(Esophagus) 64 - A. 先天性食道閉鎖與食道氣管瘻管 64 - B. 裂孔疝氣 67 - C. 胃食道逆流疾病 67 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- # B. 裂孔疝氣 (Hiatal hernia) Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (1) Sliding hiatal hernia: 最常見的 hiatal hernia, 胃食道交界處滑進胸腔中。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
+- 3. 胃食道逆流疾病(GERD)通常和橫隔裂孔疝氣(hiatal hernia)有關。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- 4. 横隔裂孔疝氣(hiatal hernia)分 4 型:以 Type I 最常見,而 Type II & III 通常較為 難治療且常合併急性或慢性阻塞症狀。即使有橫隔裂孔疝氣也不代表有 GERD,而 也不一定需要手術矯正,大多數病人沒有症狀也無需治療。 - (1) Type I (sliding hiatal hernia): 因橫隔食道韌帶未將 GE junction 固定在腹腔內,而造成賁門在腹腔和後縱隔間滑動。為最常見的一型。(圖三 A) - Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- 1. 機轉 & 成因:因食道長期受胃酸刺激,引起異生(metaplasia),由柱狀上皮取代複層上皮,雖然異生成柱狀上皮細胞可抗酸,但也容易癌化。常見原因為慢性胃食道逆流、幽門螺旋菌感染(Helicobacter pylori)、下食道括約肌無力或合併橫隔食道裂孔疝氣等會造成長期胃食道逆流現象者。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
+- IV. 食道(Esophagus) 64 - A. 先天性食道閉鎖與食道氣管瘻管 64 - B. 裂孔疝氣 67 - C. 胃食道逆流疾病 67 Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- # B. 裂孔疝氣 (Hiatal hernia) Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- (1) Sliding hiatal hernia: 最常見的 hiatal hernia, 胃食道交界處滑進胸腔中。 Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
 
 ## Clinical Caveats
 

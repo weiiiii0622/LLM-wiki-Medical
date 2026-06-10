@@ -39,18 +39,18 @@ tags:
 
 ## Key Details From Sources
 
-- waning)的周期性放電,見於神經病變(chronic radiculopathy、peripheral neuropathy)或肌肉病變(先天性肌強直症、肌強直性肌肉失養症)。 Source: [[sources/med6-book3-ch09|壬、神經學檢查]].
-- 2. 系統性疾病相關的白內障(cataract in systemic diseases): 在糖尿病、肌強直失養症(myotonic dystrophy)、異位性皮膚炎、神經纖維瘤第二型(neurofibromatosis-2)、 半乳糖血症(galactosemia)、副甲狀腺低下(hypoparathyroidism)等疾病中,白內 障可能提早發生。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
-- ...家族史)有關,其中約60%病患可發現患有先天性代謝疾病(如半乳糖血症 galactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
-- 1. 簡介:孕婦待產並非絕對順利,可能發生一些狀況造成胎兒缺氧,胎兒缺氧的情形會反應在 fetal heart rate pattern,故藉由腹部裝上胎兒監視器(cardiotocograph, CTG)來評估胎兒心跳以避免胎兒死亡或神經傷害。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- 2. CTG 判讀的重點包括如下三點: - (1) 基礎胎兒心跳 (baseline fetal heart rate): - a. 判讀: Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- ### 3. 結果和處置:CTG 評估待產孕婦的胎兒心跳根據 NICHD 可分三種模式。 Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- Myogenic: myasthenia gravis、myotonic dystrophy 等肌肉無力的 原因。 Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- 3. 強直性肌肉失養症(Myotonic dystrophy) - (1)屬自體顯性遺傳,因染色體上有過長的 CTG 反覆序列,且由於遺傳到下一代此 序列會更長,所以疾病會一代比一代嚴重 (genetic anticipation)。 - (2) 症狀:一般肌肉病變都是近端無力,強直性肌肉失養症(Myotonic dystrophy) 是例外,**肌無力會從遠端開始**。 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- ...肉失養症是體染色體隱性遺傳 | | | | (C) 貝克氏 | 肌肉失養症(Becker muscular dystrophy)的致病基因 | | | | 和裘馨 | 氏肌肉失養症的基因不同 | | | | (D) 肌強直 | 肌肉失養症(myotonic dystrophy)並不會侵犯到顏面 | | | | 肌肉 | | | | (B) | 2. 關於肌強直 | 營養不良(myotonic dystrophy),下列敘述何者錯誤? | 109(一)專 | | | (A) 自體顯 | 性遺傳 | 醫四 -54 | | | (B) 以近端 | 無力為主,常見複視 | | | | (C) 經常合 | 併多系統疾病,例如白內障、糖尿病、心律不整等 | | | | (D) 血液中 | 的肌肉酵素一般是正常或輕微上升 Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- ...creatine kinase)值有助於肌肉疾病的診斷 (B) 裘馨氏肌肉失養症(Duchenne muscular dystrophy)是由肢體 末端開始無力之肌肉疾病 (C) 肌肉切片檢查有助於多發性肌炎之診斷 (D) 肌強直性失養症(myotonic dystrophy)是成人常見之遺傳性 肌肉疾病 | 103(二)專醫四-56 | |-----|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: [[sources/med4-book4-ch08|辛、肌肉病變]].
-- ...region)之三核苷酸異常重複 | 98(二)專 | | (trinucleotide repeats)無關? | 醫四 -45 | | (A) 亨汀頓舞蹈症(Huntington's chorea) | | | (B) 肌強直失養症(myotonic dystrophy) | | | (C) Friedreich's ataxia | | | | | | (D) Kennedy's disease | | | (D) Kennedy's disease【詳解】本題答 B 或 C 者均給分。 | | | | 98(二)專 | | 【詳解】本題答B或C者均給分。 | 98(二)專醫四-49 | | 【詳解】本題答 B 或 C 者均給分。 (C) 34. 下列有關威爾遜氏症(Wilson's disease Source: [[sources/med4-book4-ch06|己、大腦疾病]].
-- III. 神經肌肉疾病-肌肉失養症 231 - A. 裘馨氏肌肉失養症(Duchenne muscular dystrophy) 231 - B. 貝克型肌肉失養症 (Becker muscular dystrophy) 232 - C. 強直性肌肉失養症 (Myotonic muscular dystrophy) 232 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
+- waning)的周期性放電,見於神經病變(chronic radiculopathy、peripheral neuropathy)或肌肉病變(先天性肌強直症、肌強直性肌肉失養症)。 Source: 醫(六)第3冊復健_壬、神經學檢查 Page 197-206.
+- 2. 系統性疾病相關的白內障(cataract in systemic diseases): 在糖尿病、肌強直失養症(myotonic dystrophy)、異位性皮膚炎、神經纖維瘤第二型(neurofibromatosis-2)、 半乳糖血症(galactosemia)、副甲狀腺低下(hypoparathyroidism)等疾病中,白內 障可能提早發生。 Source: 醫(六)第2冊眼科_第一篇、眼科_辛、水晶體及白內障 Page 85-94.
+- ...家族史)有關,其中約60%病患可發現患有先天性代謝疾病(如半乳糖血症 galactosemia、半乳糖激酶 galactokinase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: 醫(六)第2冊眼科_第一篇、眼科_辛、水晶體及白內障 Page 85-94.
+- 1. 簡介:孕婦待產並非絕對順利,可能發生一些狀況造成胎兒缺氧,胎兒缺氧的情形會反應在 fetal heart rate pattern,故藉由腹部裝上胎兒監視器(cardiotocograph, CTG)來評估胎兒心跳以避免胎兒死亡或神經傷害。 Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- 2. CTG 判讀的重點包括如下三點: - (1) 基礎胎兒心跳 (baseline fetal heart rate): - a. 判讀: Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- ### 3. 結果和處置:CTG 評估待產孕婦的胎兒心跳根據 NICHD 可分三種模式。 Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- Myogenic: myasthenia gravis、myotonic dystrophy 等肌肉無力的 原因。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_己、醫學美容及其他 Page 301-314.
+- 3. 強直性肌肉失養症(Myotonic dystrophy) - (1)屬自體顯性遺傳,因染色體上有過長的 CTG 反覆序列,且由於遺傳到下一代此 序列會更長,所以疾病會一代比一代嚴重 (genetic anticipation)。 - (2) 症狀:一般肌肉病變都是近端無力,強直性肌肉失養症(Myotonic dystrophy) 是例外,**肌無力會從遠端開始**。 Source: 醫(四)第4冊神內_辛、肌肉病變 Page 183-200.
+- ...肉失養症是體染色體隱性遺傳 | | | | (C) 貝克氏 | 肌肉失養症(Becker muscular dystrophy)的致病基因 | | | | 和裘馨 | 氏肌肉失養症的基因不同 | | | | (D) 肌強直 | 肌肉失養症(myotonic dystrophy)並不會侵犯到顏面 | | | | 肌肉 | | | | (B) | 2. 關於肌強直 | 營養不良(myotonic dystrophy),下列敘述何者錯誤? | 109(一)專 | | | (A) 自體顯 | 性遺傳 | 醫四 -54 | | | (B) 以近端 | 無力為主,常見複視 | | | | (C) 經常合 | 併多系統疾病,例如白內障、糖尿病、心律不整等 | | | | (D) 血液中 | 的肌肉酵素一般是正常或輕微上升 Source: 醫(四)第4冊神內_辛、肌肉病變 Page 183-200.
+- ...creatine kinase)值有助於肌肉疾病的診斷 (B) 裘馨氏肌肉失養症(Duchenne muscular dystrophy)是由肢體 末端開始無力之肌肉疾病 (C) 肌肉切片檢查有助於多發性肌炎之診斷 (D) 肌強直性失養症(myotonic dystrophy)是成人常見之遺傳性 肌肉疾病 | 103(二)專醫四-56 | |-----|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Source: 醫(四)第4冊神內_辛、肌肉病變 Page 183-200.
+- ...region)之三核苷酸異常重複 | 98(二)專 | | (trinucleotide repeats)無關? | 醫四 -45 | | (A) 亨汀頓舞蹈症(Huntington's chorea) | | | (B) 肌強直失養症(myotonic dystrophy) | | | (C) Friedreich's ataxia | | | | | | (D) Kennedy's disease | | | (D) Kennedy's disease【詳解】本題答 B 或 C 者均給分。 | | | | 98(二)專 | | 【詳解】本題答B或C者均給分。 | 98(二)專醫四-49 | | 【詳解】本題答 B 或 C 者均給分。 (C) 34. 下列有關威爾遜氏症(Wilson's disease Source: 醫(四)第4冊神內_己、大腦疾病 Page 123-158.
+- III. 神經肌肉疾病-肌肉失養症 231 - A. 裘馨氏肌肉失養症(Duchenne muscular dystrophy) 231 - B. 貝克型肌肉失養症 (Becker muscular dystrophy) 232 - C. 強直性肌肉失養症 (Myotonic muscular dystrophy) 232 Source: 醫(四)第1冊小兒_戊、神經系統性疾病 Page 229-284.
 
 ## Clinical Caveats
 

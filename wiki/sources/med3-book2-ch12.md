@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_己、脂肪代謝異常.md
+raw_source_title: "醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_己、脂肪代謝異常"
+raw_source_file: "raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_己、脂肪代謝異常.md"
+page_start: 281
+page_end: 284
+canonical_citation: "醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_己、脂肪代謝異常 Page 281-284"
 book: 醫(三)第2冊肝內新陳代謝
 chapter_order: 12
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第2冊肝內新陳代謝
 - Chapter file: `raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_己、脂肪代謝異常.md`
+- Pages covered: 281-284
+- Canonical citation: 醫(三)第2冊肝內新陳代謝_第三篇、新陳代謝科_己、脂肪代謝異常 Page 281-284
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

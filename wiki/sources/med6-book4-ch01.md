@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估.md
+raw_source_title: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估"
+raw_source_file: "raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估.md"
+page_start: 17
+page_end: 26
+canonical_citation: "醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26"
 book: 醫(六)第4冊麻醉耳鼻喉
 chapter_order: 1
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第4冊麻醉耳鼻喉
 - Chapter file: `raw/books/md/醫(六)第4冊麻醉耳鼻喉/醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估.md`
+- Pages covered: 17-26
+- Canonical citation: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

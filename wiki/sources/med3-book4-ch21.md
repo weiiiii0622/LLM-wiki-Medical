@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丁、腫瘤旁症候群.md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丁、腫瘤旁症候群"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丁、腫瘤旁症候群.md"
+page_start: 243
+page_end: 246
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丁、腫瘤旁症候群 Page 243-246"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 21
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丁、腫瘤旁症候群.md`
+- Pages covered: 243-246
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丁、腫瘤旁症候群 Page 243-246
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

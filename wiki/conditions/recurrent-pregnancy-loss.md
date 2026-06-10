@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- H. 反覆性流產 (Recurrent pregnancy loss) 354 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ### H. 反覆性流產(Recurrent pregnancy loss) Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ※ 次發性反覆性流產預後比原發性來的好。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- 【詳解】子宮頸縫合(cerclage placement)的目的為預防子宮頸閉鎖不全之反覆性流產。子宮頸閉鎖不全為懷孕中期(second trimester),子宮頸無痛性擴張導致自然流產。通常子宮頸縫合在第二孕程的早期(12~14 週)執行。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- H. 反覆性流產 (Recurrent pregnancy loss) 354 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- ### H. 反覆性流產(Recurrent pregnancy loss) Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- ※ 次發性反覆性流產預後比原發性來的好。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- 【詳解】子宮頸縫合(cerclage placement)的目的為預防子宮頸閉鎖不全之反覆性流產。子宮頸閉鎖不全為懷孕中期(second trimester),子宮頸無痛性擴張導致自然流產。通常子宮頸縫合在第二孕程的早期(12~14 週)執行。 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
 
 ## Clinical Caveats
 

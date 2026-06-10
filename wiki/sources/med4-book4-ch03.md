@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第4冊神內/醫(四)第4冊神內_丙、頭痛.md
+raw_source_title: "醫(四)第4冊神內_丙、頭痛"
+raw_source_file: "raw/books/md/醫(四)第4冊神內/醫(四)第4冊神內_丙、頭痛.md"
+page_start: 67
+page_end: 80
+canonical_citation: "醫(四)第4冊神內_丙、頭痛 Page 67-80"
 book: 醫(四)第4冊神內
 chapter_order: 3
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第4冊神內
 - Chapter file: `raw/books/md/醫(四)第4冊神內/醫(四)第4冊神內_丙、頭痛.md`
+- Pages covered: 67-80
+- Canonical citation: 醫(四)第4冊神內_丙、頭痛 Page 67-80
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

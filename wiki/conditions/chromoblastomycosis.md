@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- # 4. 黑色真菌症(chromomycosis): Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- (1) 黑色真菌症(chromomycosis)是一種不常見、機緣性(opportunistic),由一群黑色黴菌(Cladosporium bantianum、Dactylaria gallopava、Drechslera hawaiiensis、 Exophiala jeanselmei 等)所引發的黴菌感染症。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- 【詳解】此題的病理途中間可見一顆顆錢幣狀真菌體,即為 chromomycosis 的病理特色。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- # 4. 黑色真菌症(chromomycosis): Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- (1) 黑色真菌症(chromomycosis)是一種不常見、機緣性(opportunistic),由一群黑色黴菌(Cladosporium bantianum、Dactylaria gallopava、Drechslera hawaiiensis、 Exophiala jeanselmei 等)所引發的黴菌感染症。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- 【詳解】此題的病理途中間可見一顆顆錢幣狀真菌體,即為 chromomycosis 的病理特色。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

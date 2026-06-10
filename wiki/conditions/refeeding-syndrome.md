@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- ...化檢定來評估,何者除外?(A) 白蛋白(albumin) (B) 球蛋白(globulin)(C) 前白蛋白(prealbumin) (D) 轉鐵蛋白(transferrin) | 105(二)專醫五-3 | | (A) | 9. 下列對於再餵食症候群(refeeding syndrome)的敘述,何者錯誤? (A) Refeeding syndrome 又稱為 magnesium steal syndrome (B) 為避免 refeeding syndrome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) Source: [[sources/med5-book1-ch01|甲、外科營養]].
+- ...化檢定來評估,何者除外?(A) 白蛋白(albumin) (B) 球蛋白(globulin)(C) 前白蛋白(prealbumin) (D) 轉鐵蛋白(transferrin) | 105(二)專醫五-3 | | (A) | 9. 下列對於再餵食症候群(refeeding syndrome)的敘述,何者錯誤? (A) Refeeding syndrome 又稱為 magnesium steal syndrome (B) 為避免 refeeding syndrome,在給予大量營養時要添加鎂 | 104(二)專醫五-5 | | (C) | 10. 下列何者是給予腸道外營養(parenteral feeding)的適應性? (A) 甲狀腺機能亢進(hyperthyroidism) Source: 醫(五)第1冊外概腦外_第一篇、外科概論_甲、外科營養 Page 15-26.
 
 ## Clinical Caveats
 

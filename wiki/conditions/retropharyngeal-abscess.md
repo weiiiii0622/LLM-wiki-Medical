@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 臨床上常見的深頸部感染有側咽間隙膿瘍 (parapharyngeal abscess), 後咽膿瘍 (retropharyngeal abscess), 扁桃腺周圍膿瘍 (peritonsillar abscess)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 3. 臨床上常見的深頸部感染有側咽間隙膿瘍 (parapharyngeal abscess), 後咽膿瘍 (retropharyngeal abscess), 扁桃腺周圍膿瘍 (peritonsillar abscess)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

@@ -91,24 +91,24 @@ tags:
 
 ## Key Details From Sources
 
-- 2. 致病菌種: - (1) 細菌(90%以上為細菌性感染): - a. Pseudomonas aeruginosa ° - b. Pseudomonas vulgaris · - c. E. coli ° - d. S. aureus o - (2) 黴菌: - a. Candida albicans o - b. Aspergillus niger · Source: [[sources/med6-book4-ch11|甲、耳科]].
-- 4. 處置: - (1) 清潔:使用溫水清洗灌注外耳道,並可使用耳吸管將壞死上皮組織與灰塵污物取出。 - (2) 發炎與感染控制:使用含有抗生素、抗黴菌藥物、類固醇和止痛劑的耳滴劑。 - (3) 口服抗生素使用在較嚴重的外耳感染或是免疫力低下的病患,需選擇可以涵蓋 *Pseudomonas aeruginosa、S. aureus*,並與耳滴劑一起搭配使用。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- (4) S. aureus and S. pyogenes • Source: [[sources/med6-book4-ch11|甲、耳科]].
-- 1. 深頸部感染的致病菌種通常是混合需氧菌與厭氧菌,並且以口腔內菌種為多數。 - (1) Group A beta-hemolytic streptococcal species (Streptococcus pyogenes) • - (2) Alpha-hemolytic streptococcal species (Streptococcus viridans, Streptococcus pneumoniae) · Staphylococcus aureus · - (3) 常見厭氧菌: Bacteroides melaninogenicus、Bacteroides oralis。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- (4) 抗生素治療。通常為 Staphylococcus aureus、Streptococcus viridans 的感染。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- (3) 病原菌: - a. 細菌性:S. pneumoniae、H. influenzae、M. catarrhalis、S. pyogenes、S. aureus、anaerobes。 - b. 黴菌:Aspergillus。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- 3. 其他包括: - (1) Staphylococcus aureus • - (2) Streptococcus pneumoniae • - (3) Haemophilus influenzae non-type B • - (4) Haemophilus parainfluenzae • Source: [[sources/med6-book4-ch13|丙、喉 科]].
-- (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- | 原因 | • 哺乳期間,細菌從乳頭傷口感染乳房 | | |-----|---------------------------------------------------------|--| | 致病菌 | • 最常見為 Staphylococcus aureus (金黃色葡萄球菌) | | | | • 其他如 Streptococci viridans 和 E. coli 等 | | | 症 狀 | • 乳房紅腫、脹痛、發燒和冷顫 | | | 處置 | • 消炎止痛藥使用伴隨冰敷以減輕乳房脹痛 | | | | • 持續哺乳或擠出乳汁,可避免膿瘍形成 | | | | • 經驗性抗生素須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacilli Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (D) 乳腺炎最常見的細菌是 Staphylococcus aureus Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (B) Staphylococcus aureus Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- 4. 最常見開放性骨折的致病菌:Staphylococcus aureus (常見的表皮菌),大約 75%。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 【詳解】(A) 此時應該觀察三個月,看神經是否會自動恢復;也暫時不需要做 EMG,再手術反而會增加 nerve injury 的機會,是 contraindication。(C) atrophic nonunion 主要可能是因術中periosteum 清除太多或本身身體一些骨合成元素缺乏所導致。內固定物固定不牢會造成 hypertrophic non-union,影像上會看到兩端接頭像「象腳」一樣。(D) 開放性骨折最常見致病菌是金黃色葡萄球菌,但此病人掉到水溝,也應考慮厭氧菌感染。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (D) 對於靜脈注射毒癮者感染骨髓炎,優先考慮的致病菌種分 別為金黃色葡萄球菌 (Staphylococcus aureus), 綠膿桿菌 (Pseudomonas aeruginosa) 和格蘭氏陰性菌 (gram-negative organisms) Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- 3. 病菌:大多數 UTI 是單一致病菌造成。並非有進入泌尿道的細菌就會感染,還是有菌種或亞型的差異。 - (1) 非複雜 (uncomplicated:指女性無懷孕且感染後無嚴重併發症)膀胱炎、腎盂腎炎:80% 是 *E. coli* (亞型 O 為主)。其他 20% 為 Klebsiella、Proteus 或 *Enterobacter* spp. 或 Enterococci。 - (2) 住院中得到 UTI:可能的菌種很多,甚至包括 Pseudomonas 或 *Staphylococcus* spp.。若是 *Staphylococcus aureus*,常是從其他處經血液傳播而來。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- ...-----------|--------------------------------------------|-------------------------------| | Gram-positive cocci | | | | Staphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nit Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- (D) 金黃色葡萄球菌造成的包皮龜頭炎 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- 1. 細菌性肝膿瘍:細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumonia),除此之外,大腸桿菌、金黃色葡萄球菌也是常見的致病菌種。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
+- 2. 致病菌種: - (1) 細菌(90%以上為細菌性感染): - a. Pseudomonas aeruginosa ° - b. Pseudomonas vulgaris · - c. E. coli ° - d. S. aureus o - (2) 黴菌: - a. Candida albicans o - b. Aspergillus niger · Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- 4. 處置: - (1) 清潔:使用溫水清洗灌注外耳道,並可使用耳吸管將壞死上皮組織與灰塵污物取出。 - (2) 發炎與感染控制:使用含有抗生素、抗黴菌藥物、類固醇和止痛劑的耳滴劑。 - (3) 口服抗生素使用在較嚴重的外耳感染或是免疫力低下的病患,需選擇可以涵蓋 *Pseudomonas aeruginosa、S. aureus*,並與耳滴劑一起搭配使用。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- (4) S. aureus and S. pyogenes • Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- 1. 深頸部感染的致病菌種通常是混合需氧菌與厭氧菌,並且以口腔內菌種為多數。 - (1) Group A beta-hemolytic streptococcal species (Streptococcus pyogenes) • - (2) Alpha-hemolytic streptococcal species (Streptococcus viridans, Streptococcus pneumoniae) · Staphylococcus aureus · - (3) 常見厭氧菌: Bacteroides melaninogenicus、Bacteroides oralis。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- (4) 抗生素治療。通常為 Staphylococcus aureus、Streptococcus viridans 的感染。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- (3) 病原菌: - a. 細菌性:S. pneumoniae、H. influenzae、M. catarrhalis、S. pyogenes、S. aureus、anaerobes。 - b. 黴菌:Aspergillus。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- 3. 其他包括: - (1) Staphylococcus aureus • - (2) Streptococcus pneumoniae • - (3) Haemophilus influenzae non-type B • - (4) Haemophilus parainfluenzae • Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丙、喉科 Page 215-230.
+- (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- | 原因 | • 哺乳期間,細菌從乳頭傷口感染乳房 | | |-----|---------------------------------------------------------|--| | 致病菌 | • 最常見為 Staphylococcus aureus (金黃色葡萄球菌) | | | | • 其他如 Streptococci viridans 和 E. coli 等 | | | 症 狀 | • 乳房紅腫、脹痛、發燒和冷顫 | | | 處置 | • 消炎止痛藥使用伴隨冰敷以減輕乳房脹痛 | | | | • 持續哺乳或擠出乳汁,可避免膿瘍形成 | | | | • 經驗性抗生素須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacilli Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- (D) 乳腺炎最常見的細菌是 Staphylococcus aureus Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- (B) Staphylococcus aureus Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- 4. 最常見開放性骨折的致病菌:Staphylococcus aureus (常見的表皮菌),大約 75%。 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- 【詳解】(A) 此時應該觀察三個月,看神經是否會自動恢復;也暫時不需要做 EMG,再手術反而會增加 nerve injury 的機會,是 contraindication。(C) atrophic nonunion 主要可能是因術中periosteum 清除太多或本身身體一些骨合成元素缺乏所導致。內固定物固定不牢會造成 hypertrophic non-union,影像上會看到兩端接頭像「象腳」一樣。(D) 開放性骨折最常見致病菌是金黃色葡萄球菌,但此病人掉到水溝,也應考慮厭氧菌感染。 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- (D) 對於靜脈注射毒癮者感染骨髓炎,優先考慮的致病菌種分 別為金黃色葡萄球菌 (Staphylococcus aureus), 綠膿桿菌 (Pseudomonas aeruginosa) 和格蘭氏陰性菌 (gram-negative organisms) Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- 3. 病菌:大多數 UTI 是單一致病菌造成。並非有進入泌尿道的細菌就會感染,還是有菌種或亞型的差異。 - (1) 非複雜 (uncomplicated:指女性無懷孕且感染後無嚴重併發症)膀胱炎、腎盂腎炎:80% 是 *E. coli* (亞型 O 為主)。其他 20% 為 Klebsiella、Proteus 或 *Enterobacter* spp. 或 Enterococci。 - (2) 住院中得到 UTI:可能的菌種很多,甚至包括 Pseudomonas 或 *Staphylococcus* spp.。若是 *Staphylococcus aureus*,常是從其他處經血液傳播而來。 Source: 醫(五)第5冊泌尿_己、泌尿道細菌感染 Page 133-140.
+- ...-----------|--------------------------------------------|-------------------------------| | Gram-positive cocci | | | | Staphylococcus aureus | Nafcillin, nitrofurantoin, ciprofloxacin | Nafcillin, vancomycin | | Staphylococcus epidermidis | Ampicillin, nitrofurantoin, ciprofloxacin | Ampicillin, penicillin G | | Staphylococcus saprophyticus | Ampicillin, nit Source: 醫(五)第5冊泌尿_己、泌尿道細菌感染 Page 133-140.
+- (D) 金黃色葡萄球菌造成的包皮龜頭炎 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- 1. 細菌性肝膿瘍:細菌性肝膿瘍通常由多種細菌共同感染所引起,在台灣最常見的菌種為克雷伯氏菌(Klebsiella pneumonia),除此之外,大腸桿菌、金黃色葡萄球菌也是常見的致病菌種。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_乙、肝膿瘍 Page 105-110.
 
 ## Clinical Caveats
 

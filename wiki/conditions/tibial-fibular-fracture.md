@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- D. 小腿骨折 (Tibial-fibula fracture) 36 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (D) 9. 一位 38 歲男性跟朋友聚餐後騎機車與酒駕之轎車對撞,跌落排水溝中,造成全身多處外傷及骨折。經送往急診室,初步檢查生命跡象穩定,意識清楚,右小腿骨折處有一個 10 公分長的傷口,可以看到骨折的斷端。X 光檢查顯示右小腿中段脛骨及腓骨開放性骨折,右側股骨關節脫臼以及右側肱骨骨折。對其骨折及脫臼的各種處置,下列何者為最正確之敘述? Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- #### D. 小腿骨折 (Tibial-fibula fracture) Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- D. 小腿骨折 (Tibial-fibula fracture) 36 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- (D) 9. 一位 38 歲男性跟朋友聚餐後騎機車與酒駕之轎車對撞,跌落排水溝中,造成全身多處外傷及骨折。經送往急診室,初步檢查生命跡象穩定,意識清楚,右小腿骨折處有一個 10 公分長的傷口,可以看到骨折的斷端。X 光檢查顯示右小腿中段脛骨及腓骨開放性骨折,右側股骨關節脫臼以及右側肱骨骨折。對其骨折及脫臼的各種處置,下列何者為最正確之敘述? Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- #### D. 小腿骨折 (Tibial-fibula fracture) Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
 
 ## Clinical Caveats
 

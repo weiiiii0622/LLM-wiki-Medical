@@ -29,9 +29,9 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (D) 27. 下列有關氣腫性腎盂腎炎 (emphysematous pyelonephritis) 的治 101(ニ) 専 療原則中,何者是治療初期較少考慮的? 醫五-69 - (A)控制血糖 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (2) 產氣性腎盂腎炎 (emphysematous pyelonephritis): 發燒、腰痛、嘔吐、注射抗 生素無效、尿中有泡泡。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
+- (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (D) 27. 下列有關氣腫性腎盂腎炎 (emphysematous pyelonephritis) 的治 101(ニ) 専 療原則中,何者是治療初期較少考慮的? 醫五-69 - (A)控制血糖 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (2) 產氣性腎盂腎炎 (emphysematous pyelonephritis): 發燒、腰痛、嘔吐、注射抗 生素無效、尿中有泡泡。 Source: 醫(五)第5冊泌尿_己、泌尿道細菌感染 Page 133-140.
 
 ## Clinical Caveats
 

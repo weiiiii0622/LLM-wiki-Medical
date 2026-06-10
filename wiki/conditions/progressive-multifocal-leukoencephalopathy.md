@@ -27,8 +27,8 @@ JC virus 在免疫低下者造成 CNS demyelination，表現進行性局部神�
 
 ## Key Details From Sources
 
-- ...rosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- #### D. 進行性多灶性白質腦病(Progressive multifocal leukoencephalopathy) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- ...rosis) 156 - B. 視神經脊隨炎 (Neuromyelitis optica; NMO; Devic's disaese) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- #### D. 進行性多灶性白質腦病(Progressive multifocal leukoencephalopathy) Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
 
 ## Clinical Caveats
 

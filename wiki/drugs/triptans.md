@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...stamine) | | 時間 | 白天接觸到壓力時發生 | 被光線刺激,晚上休息改善 | 一天數次,好發夜晚入睡後 | | | 30 分鐘至 7 日 | 持續4到72小時 | 15 到 180 分鐘 | | 急性 | 改變生活方式; | Sumatriptan, Ergotamine | 100% 氧氣 | | 治療 | Antidepressant | Novamin | Sumatriptan, Ergotamine | | 慢性 | β blocker \ | $\underline{\mathbf{A}}$ nticonvulsant, $\underline{\mathbf{\beta}}$ blocker, | CCB | | 預防 | 肌肉鬆弛劑 | CCB, Antidepr Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- 4. 急性治療: (serotonin agonist) - (1) 門診口服 sumatriptan (selective 5HTIB/ID agonist) 或 ergotamine (5HT agonist)。 - (2) 有的較嚴重的會收住院打靜脈 Prochlorperazine (Novamine),利用 Prochlorperazine 也有 Serotonin agonist 來治療偏頭痛。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
-- (1) 急性發作: - a. 100% 氧氣可使大部分病人緩解。 - b. Sumatriptan (selective 5HT1 agonist) 或 ergotamine (5HT agonist) 也對急性發作有效。 - c. 較難治療的可給予類固醇。 Source: [[sources/med4-book4-ch03|丙、頭 痛]].
+- ...stamine) | | 時間 | 白天接觸到壓力時發生 | 被光線刺激,晚上休息改善 | 一天數次,好發夜晚入睡後 | | | 30 分鐘至 7 日 | 持續4到72小時 | 15 到 180 分鐘 | | 急性 | 改變生活方式; | Sumatriptan, Ergotamine | 100% 氧氣 | | 治療 | Antidepressant | Novamin | Sumatriptan, Ergotamine | | 慢性 | β blocker \ | $\underline{\mathbf{A}}$ nticonvulsant, $\underline{\mathbf{\beta}}$ blocker, | CCB | | 預防 | 肌肉鬆弛劑 | CCB, Antidepr Source: 醫(四)第4冊神內_丙、頭痛 Page 67-80.
+- 4. 急性治療: (serotonin agonist) - (1) 門診口服 sumatriptan (selective 5HTIB/ID agonist) 或 ergotamine (5HT agonist)。 - (2) 有的較嚴重的會收住院打靜脈 Prochlorperazine (Novamine),利用 Prochlorperazine 也有 Serotonin agonist 來治療偏頭痛。 Source: 醫(四)第4冊神內_丙、頭痛 Page 67-80.
+- (1) 急性發作: - a. 100% 氧氣可使大部分病人緩解。 - b. Sumatriptan (selective 5HT1 agonist) 或 ergotamine (5HT agonist) 也對急性發作有效。 - c. 較難治療的可給予類固醇。 Source: 醫(四)第4冊神內_丙、頭痛 Page 67-80.
 
 ## Clinical Caveats
 

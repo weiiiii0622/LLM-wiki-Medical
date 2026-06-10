@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- ...--------------------| | Cystometry/Cystometrogram | • 測量膀胱在儲存和排空時的壓力和容積 | | (膀胱功能檢查, CMG) | • 可評估膀胱的感覺、容量和順應性及逼尿肌活動 | | Uroflowmetry | ・測量尿流速 | | (尿流速測定) | ・雖然男性較常見低尿流速 (BPH),但女性仍適用於頻 | | | 尿、急尿、排尿困難和骨盆腔手術前的評估 | | Pressure-flow study | ・測量尿流速與壓力變化的關係 | | (膀胱壓力和尿流速測定) | ・區別低尿流速是因尿路阻塞或逼尿肌無力(註1) | | Urethral pressure profile | ・測量尿道壓力和功能性尿道長度(註2) | | (尿 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
-- d. 尿流速:女性平均尿流速 12 mL/sec,最大尿流速 20 mL/sec;尿流速圖正常應為一連續性的曲線,既無中斷,也無 spikes。 Source: [[sources/med6-book1-ch12|甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study)]].
-- (D) 無壓力尿流測量法 (free uroflowmetry) Source: [[sources/med6-book1-ch13|乙、尿失禁(Urinary Incontinence)]].
-- 1. 排尿動態:測尿流速圖 (urinary flow rate)。 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- (1) 評估方式:測尿流速圖(urinary flow rate,即 uroflowmetry)。病患漲尿後(總尿量須> 150 ml 測量出的數據較可信,正常人總尿量應 200~500 ml),在一特製的便器上如正常般完成解尿即可。 Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
-- a. 正常的尿流曲線圖,呈鐘形曲線且最大尿流速 > 20 ml/s(正常值男性 20~25 ml/s;女性 25~30 ml/s) Source: [[sources/med5-book5-ch07|庚、尿路動力學與下泌尿道功能異常]].
+- ...--------------------| | Cystometry/Cystometrogram | • 測量膀胱在儲存和排空時的壓力和容積 | | (膀胱功能檢查, CMG) | • 可評估膀胱的感覺、容量和順應性及逼尿肌活動 | | Uroflowmetry | ・測量尿流速 | | (尿流速測定) | ・雖然男性較常見低尿流速 (BPH),但女性仍適用於頻 | | | 尿、急尿、排尿困難和骨盆腔手術前的評估 | | Pressure-flow study | ・測量尿流速與壓力變化的關係 | | (膀胱壓力和尿流速測定) | ・區別低尿流速是因尿路阻塞或逼尿肌無力(註1) | | Urethral pressure profile | ・測量尿道壓力和功能性尿道長度(註2) | | (尿 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428.
+- d. 尿流速:女性平均尿流速 12 mL/sec,最大尿流速 20 mL/sec;尿流速圖正常應為一連續性的曲線,既無中斷,也無 spikes。 Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_甲、排尿生理學與尿路動力學檢查 (Urinary Physiology and Urodynamic Study) Page 420-428.
+- (D) 無壓力尿流測量法 (free uroflowmetry) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_乙、尿失禁(Urinary Incontinence) Page 429-436.
+- 1. 排尿動態:測尿流速圖 (urinary flow rate)。 Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
+- (1) 評估方式:測尿流速圖(urinary flow rate,即 uroflowmetry)。病患漲尿後(總尿量須> 150 ml 測量出的數據較可信,正常人總尿量應 200~500 ml),在一特製的便器上如正常般完成解尿即可。 Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
+- a. 正常的尿流曲線圖,呈鐘形曲線且最大尿流速 > 20 ml/s(正常值男性 20~25 ml/s;女性 25~30 ml/s) Source: 醫(五)第5冊泌尿_庚、尿路動力學與下泌尿道功能異常 Page 141-156.
 
 ## Clinical Caveats
 

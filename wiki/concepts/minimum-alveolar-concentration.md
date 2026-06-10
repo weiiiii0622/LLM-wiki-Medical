@@ -27,9 +27,9 @@ MAC 是吸入性麻醉劑 potency 指標，受年齡、體溫、電解質、懷�
 
 ## Key Details From Sources
 
-- B. MAC (Minimum alveolar concentration, 最小肺泡濃度) *60* Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
-- 3. Maintenance 的劑量到底足夠不足夠,主要依據 MAC (minimum alveolar concentration)來決定。 Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
-- #### B. MAC (Minimum alveolar concentration,最小肺泡濃度) Source: [[sources/med6-book4-ch06|己、吸入性麻醉劑]].
+- B. MAC (Minimum alveolar concentration, 最小肺泡濃度) *60* Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑 Page 73-82.
+- 3. Maintenance 的劑量到底足夠不足夠,主要依據 MAC (minimum alveolar concentration)來決定。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑 Page 73-82.
+- #### B. MAC (Minimum alveolar concentration,最小肺泡濃度) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_己、吸入性麻醉劑 Page 73-82.
 
 ## Clinical Caveats
 

@@ -33,14 +33,14 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 手術:當藥物無法控制或無法承受藥物副作用,可考慮行 thyroidectomy。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- (3) 手術: 較後線選擇 - a. Bilateral subtotal thyroidectomy(切除大部分甲狀線,僅於兩側各留下 1~2 g 的組織)或是 total thyroidectomy。 - b. Bilateral subtotal thyroidectomy 會有約 10% 的復發機率, total thyroidectomy 則會導致 hypothyroidism, 須終身服用甲狀腺素。另外手術需注意傷及喉返神經。 - c. Indication: 小孩、孕婦、口服藥物無反應或是無法接受 RAI 者。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- 3. Subacute (de Quervain) thyroiditis: - (1) 亞急性甲狀腺炎,好發於年輕女性,往往伴隨著上呼吸道病毒感染後發生。 - (2) 前期濾泡細胞遭浸潤破壞,而釋放出大量 T3、T4,造成甲狀腺機能亢進,之後 會因為回饋機制 TSH 分泌下降而變為甲狀腺機能低下,最後回復正常。 - (3) 病人甲狀腺不規則腫大,感到頸部甲狀腺區域疼痛感,且會輻射至下頷、耳朵 或後頸部,甚至前胸和手臂。 - (4) 可給予 NSAID,多數病患會在幾個禮拜內自行緩解。如果口服藥物數月後仍無效,須考慮 thyroidectomy。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- (a) Total thyroidectomy,假使病人有頸部淋巴轉移則加作 ipsilateral central neck dissection。 Source: [[sources/med5-book2-ch20|甲、甲狀腺]].
-- (1) Symptomatic HPT 就會進行 parathyroidectomy。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (2) Asymptomatic HPT,但有以下條件可作 parathyroidectomy: - a. 年紀小於 50 歲。 - b. 無法定期追蹤檢查者。 - c. 血清鈣濃度> 11 mg/dL。 - d. 尿鈣> 400 mg/24 hrs。 - e. Ccr 15 mg/dL。 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- ...----------------------------------------------------| | Class I | Clean wounds | 無發炎或非外傷性傷口 未進入呼吸道、消化道或生殖泌尿道的手術 例如:割雙眼皮、甲狀腺切除、乳房切除 | | Class II | Clean-contaminatedwounds | 1. 進入呼吸道、消化道或生殖泌尿道但無特殊感染的手術傷口2. 手術過程中無明顯汙染3. 例如:無感染性膽道或闌尾手術、Hysterectomy、Gastrectomy | | Class III | Contaminated | 開放性、新的、外傷傷口 胃腸道內含物溢出或手術過程中有些微感染者 有急性發炎但未化膿 | | Class IV Source: [[sources/med5-book2-ch25|甲、傷□治療]].
+- (2) 手術:當藥物無法控制或無法承受藥物副作用,可考慮行 thyroidectomy。 Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- (3) 手術: 較後線選擇 - a. Bilateral subtotal thyroidectomy(切除大部分甲狀線,僅於兩側各留下 1~2 g 的組織)或是 total thyroidectomy。 - b. Bilateral subtotal thyroidectomy 會有約 10% 的復發機率, total thyroidectomy 則會導致 hypothyroidism, 須終身服用甲狀腺素。另外手術需注意傷及喉返神經。 - c. Indication: 小孩、孕婦、口服藥物無反應或是無法接受 RAI 者。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
+- 3. Subacute (de Quervain) thyroiditis: - (1) 亞急性甲狀腺炎,好發於年輕女性,往往伴隨著上呼吸道病毒感染後發生。 - (2) 前期濾泡細胞遭浸潤破壞,而釋放出大量 T3、T4,造成甲狀腺機能亢進,之後 會因為回饋機制 TSH 分泌下降而變為甲狀腺機能低下,最後回復正常。 - (3) 病人甲狀腺不規則腫大,感到頸部甲狀腺區域疼痛感,且會輻射至下頷、耳朵 或後頸部,甚至前胸和手臂。 - (4) 可給予 NSAID,多數病患會在幾個禮拜內自行緩解。如果口服藥物數月後仍無效,須考慮 thyroidectomy。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
+- (a) Total thyroidectomy,假使病人有頸部淋巴轉移則加作 ipsilateral central neck dissection。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_甲、甲狀腺 Page 209-232.
+- (1) Symptomatic HPT 就會進行 parathyroidectomy。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
+- (2) Asymptomatic HPT,但有以下條件可作 parathyroidectomy: - a. 年紀小於 50 歲。 - b. 無法定期追蹤檢查者。 - c. 血清鈣濃度> 11 mg/dL。 - d. 尿鈣> 400 mg/24 hrs。 - e. Ccr 15 mg/dL。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
+- (D) 1. 一位血液透析患者因續發性副甲狀腺功能亢進(secondary hyper- 109(二)專 parathyroidism)被轉介至外科門診就醫,下列何種情況應建議該 醫五-38 患者接受副甲狀腺切除手術? - (A) 血液鈣磷乘積(calcium-phosphate product) 45 mg²/dL² - (B) 抽血測得副甲狀腺素 (parathyroid hormone) 200 pg/mL - (C) 抽血測得維生素 D 25(OH)D 濃度 40 nmol/L (相當於 16 ng/mL) - (D) 下肢有數處疼痛的缺血性皮膚壞死(calciphylaxis) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
+- ...----------------------------------------------------| | Class I | Clean wounds | 無發炎或非外傷性傷口 未進入呼吸道、消化道或生殖泌尿道的手術 例如:割雙眼皮、甲狀腺切除、乳房切除 | | Class II | Clean-contaminatedwounds | 1. 進入呼吸道、消化道或生殖泌尿道但無特殊感染的手術傷口2. 手術過程中無明顯汙染3. 例如:無感染性膽道或闌尾手術、Hysterectomy、Gastrectomy | | Class III | Contaminated | 開放性、新的、外傷傷口 胃腸道內含物溢出或手術過程中有些微感染者 有急性發炎但未化膿 | | Class IV Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_甲、傷□治療 Page 259-268.
 
 ## Clinical Caveats
 

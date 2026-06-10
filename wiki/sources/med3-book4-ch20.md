@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論.md
+raw_source_title: "醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論"
+raw_source_file: "raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論.md"
+page_start: 225
+page_end: 242
+canonical_citation: "醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論 Page 225-242"
 book: 醫(三)第4冊免疫血液腫瘤家醫
 chapter_order: 20
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第4冊免疫血液腫瘤家醫
 - Chapter file: `raw/books/md/醫(三)第4冊免疫血液腫瘤家醫/醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論.md`
+- Pages covered: 225-242
+- Canonical citation: 醫(三)第4冊免疫血液腫瘤家醫_第三篇、腫瘤科_丙、腫瘤各論 Page 225-242
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

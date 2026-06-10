@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 顱縫早閉 (Craniosynostosis) 208 Source: [[sources/med5-book4-ch17|癸、腦及神經疾病]].
-- 2. 常見的先天發育異常疾病包含脊柱裂 (spinal dysraphism)、顱裂 (cranial dysraphism),後顱窩過小 (Chiari malformation) 及顱縫早閉 (Craniosynostosis)。 Source: [[sources/med5-book4-ch17|癸、腦及神經疾病]].
-- ### B. 顱縫早閉 (Craniosynostosis) Source: [[sources/med5-book4-ch17|癸、腦及神經疾病]].
+- B. 顱縫早閉 (Craniosynostosis) 208 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_癸、腦及神經疾病 Page 221-224.
+- 2. 常見的先天發育異常疾病包含脊柱裂 (spinal dysraphism)、顱裂 (cranial dysraphism),後顱窩過小 (Chiari malformation) 及顱縫早閉 (Craniosynostosis)。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_癸、腦及神經疾病 Page 221-224.
+- ### B. 顱縫早閉 (Craniosynostosis) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_癸、腦及神經疾病 Page 221-224.
 
 ## Clinical Caveats
 

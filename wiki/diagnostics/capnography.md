@@ -29,9 +29,9 @@ Capnography 監測呼氣末二氧化碳與波形，可確認氣管管位、通�
 
 ## Key Details From Sources
 
-- 1. 常規用於所有病患的 Monitors: - (1) BP cuff、telemetry、pulse oximeter、聽診器、溫度計、gas analyzer、ETCO2。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- (1) A 圖為正常二氧化碳記錄圖(capnography)表示呼氣的三個時期: - a. 第一期:表無效死腔(dead space)。 - b. 第二期:表無效死腔和肺泡氣體的混和。 - c. 第三期:肺泡氣體的高原期。 - d. 0:吸氣期。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- (7) Post-intubation management:確定 ET tube 在正確位置,並將 cuff 打飽才開始進行正壓呼吸,聽診、接上 EtCO2,確定位置正確後,剛剛的 cricoid pressure 才能放手。 Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- 1. 常規用於所有病患的 Monitors: - (1) BP cuff、telemetry、pulse oximeter、聽診器、溫度計、gas analyzer、ETCO2。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- (1) A 圖為正常二氧化碳記錄圖(capnography)表示呼氣的三個時期: - a. 第一期:表無效死腔(dead space)。 - b. 第二期:表無效死腔和肺泡氣體的混和。 - c. 第三期:肺泡氣體的高原期。 - d. 0:吸氣期。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- (7) Post-intubation management:確定 ET tube 在正確位置,並將 cuff 打飽才開始進行正壓呼吸,聽診、接上 EtCO2,確定位置正確後,剛剛的 cricoid pressure 才能放手。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
 
 ## Clinical Caveats
 

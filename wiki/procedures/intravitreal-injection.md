@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 玻璃體腔內注射血管內皮生長因子抑制劑或長效型類固醇(Intravitreal anti-VEGF agents or triamcinolone):可降低血管通透性,減少瀰漫性黃斑部水腫, 但類固醇注射可能會使眼壓升高。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- (b) 玻璃體內注射長效型類固醇(Intravitreal triamcinolone, IVT): 但可能會 造成白內障或眼壓上升的副作用。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- (c) Periocular steroid injection:和 intravitreal route的注射相比,較不具侵犯性, 不過效果可能也較差。 Source: [[sources/med6-book2-ch12|子、視網膜]].
+- (2) 玻璃體腔內注射血管內皮生長因子抑制劑或長效型類固醇(Intravitreal anti-VEGF agents or triamcinolone):可降低血管通透性,減少瀰漫性黃斑部水腫, 但類固醇注射可能會使眼壓升高。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- (b) 玻璃體內注射長效型類固醇(Intravitreal triamcinolone, IVT): 但可能會 造成白內障或眼壓上升的副作用。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- (c) Periocular steroid injection:和 intravitreal route的注射相比,較不具侵犯性, 不過效果可能也較差。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### C. 乳腺纖維囊性變化 (Fibrocystic breast change) Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- (2) Fibrocystic breast changes 可發生在任何年紀,但較易發生於生育年紀的年輕女性。停經後逐漸消失。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- (1) 若懷疑為乳腺纖維囊性變化,必須短期內重複檢查。可在 menstrual cycle 的第十天做檢查,減低賀爾蒙對於腫塊的影響。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
+- #### C. 乳腺纖維囊性變化 (Fibrocystic breast change) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- (2) Fibrocystic breast changes 可發生在任何年紀,但較易發生於生育年紀的年輕女性。停經後逐漸消失。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- (1) 若懷疑為乳腺纖維囊性變化,必須短期內重複檢查。可在 menstrual cycle 的第十天做檢查,減低賀爾蒙對於腫塊的影響。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
 
 ## Clinical Caveats
 

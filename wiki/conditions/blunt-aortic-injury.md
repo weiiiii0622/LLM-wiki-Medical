@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- G. 鈍傷性主動脈橫斷 (Blunt transection of aorta) 118 Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
-- ### G. 鈍傷性主動脈橫斷 (Blunt transection of aorta) Source: [[sources/med5-book4-ch07|庚、胸部創傷]].
+- G. 鈍傷性主動脈橫斷 (Blunt transection of aorta) 118 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
+- ### G. 鈍傷性主動脈橫斷 (Blunt transection of aorta) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_庚、胸部創傷 Page 123-138.
 
 ## Clinical Caveats
 

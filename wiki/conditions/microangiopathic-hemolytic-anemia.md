@@ -33,11 +33,11 @@ tags:
 
 ## Key Details From Sources
 
-- ...---------------------| | | • serum haptoglobin $\leq$ 25 mg/dL 或 serum LDH $\geq$ 正常 | | | 上限值的兩倍 | | | · 週邊血液抹片出現血球裂片 (schistocytes) 和皺縮紅 | | | 血球 (burr cells) | | Elevated liver enzyme | • 肝指數上升正常上限值的兩倍以上 | | Low platelet | ・血小板≦ 10 萬 cells/microL | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- ...| 酵素病變:G6PD deficiency, pyruvate kinase deficiency | | | | 紅血球膜病變:sph | nerocytosis, elliptocytosis | | | 微血管病變造成的 | 容血(microangiopathic):HUS, TTP, DIC | | | 人工心臟瓣膜造成經 | 紅血球破壞 | | | 遺傳性紅血球增多經 | 定 | Source: [[sources/med4-book1-ch08|辛、血液學]].
-- ...數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | helmet cell,以及網狀紅血 | | | | 球計數的增加。 | Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (2) 分類: - a. 臨床上懷疑病患發生溶血,須緊急拉血液抹片、測 Coombs' test, 區分病因。 - b. 非免疫 (Microangiopathic hemolytic anemia, MAHA): - (a) 血液抹片上看到 Fragment RBC, 須懷疑 TTP、DIC等原因造成血管壁不平順, 導致溶血; 若是 TTP 須進行血漿置換, 而 DIC 則是控制背後引發 DIC 的病因, 如敗血症等。 - (b) TTP 不會有 PT、aPTT 延長問題,而 DIC 必合併凝血問題 (PT、aPTT 延長)。 - (c) 非免疫還有包括 enzymopathy 如蠶豆症、hem Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: [[sources/med3-book4-ch03|丙、其他結締組織病]].
+- ...---------------------| | | • serum haptoglobin $\leq$ 25 mg/dL 或 serum LDH $\geq$ 正常 | | | 上限值的兩倍 | | | · 週邊血液抹片出現血球裂片 (schistocytes) 和皺縮紅 | | | 血球 (burr cells) | | Elevated liver enzyme | • 肝指數上升正常上限值的兩倍以上 | | Low platelet | ・血小板≦ 10 萬 cells/microL | Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- ...| 酵素病變:G6PD deficiency, pyruvate kinase deficiency | | | | 紅血球膜病變:sph | nerocytosis, elliptocytosis | | | 微血管病變造成的 | 容血(microangiopathic):HUS, TTP, DIC | | | 人工心臟瓣膜造成經 | 紅血球破壞 | | | 遺傳性紅血球增多經 | 定 | Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- ...數會有心臟表現如心衰竭、心律 | (aphasia)、眼盲、癲癇發作 | | | 不整、心包膜炎。另外,病人因溶血性貧血 | 等。 | | | 而造成高血鉀。 | 3. 顯微鏡下,紅血球外觀呈現 | | | 3. 顯微鏡下,紅血球外觀呈現 schistocytes。 | schistocytes > spherocytes > | | | | helmet cell,以及網狀紅血 | | | | 球計數的增加。 | Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- (2) 分類: - a. 臨床上懷疑病患發生溶血,須緊急拉血液抹片、測 Coombs' test, 區分病因。 - b. 非免疫 (Microangiopathic hemolytic anemia, MAHA): - (a) 血液抹片上看到 Fragment RBC, 須懷疑 TTP、DIC等原因造成血管壁不平順, 導致溶血; 若是 TTP 須進行血漿置換, 而 DIC 則是控制背後引發 DIC 的病因, 如敗血症等。 - (b) TTP 不會有 PT、aPTT 延長問題,而 DIC 必合併凝血問題 (PT、aPTT 延長)。 - (c) 非免疫還有包括 enzymopathy 如蠶豆症、hem Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- (5) 腎臟: 腎動脈血管阻塞,導致 Renin 分泌,造成惡性高血壓,甚至合併 RPGN、MAHA,稱作 Scleroderma renal crisis,需積極以 ACEI 降壓;須避免 NSAID、類固醇,會惡化 renal crisis。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_丙、其他結締組織病 Page 45-62.
 
 ## Clinical Caveats
 

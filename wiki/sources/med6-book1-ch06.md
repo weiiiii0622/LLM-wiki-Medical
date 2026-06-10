@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第二篇、婦科_甲、胚胎解剖學 (Embryology and Anatomy).md
+raw_source_title: "醫(六)第1冊婦產_第二篇、婦科_甲、胚胎解剖學 (Embryology and Anatomy)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第二篇、婦科_甲、胚胎解剖學 (Embryology and Anatomy).md"
+page_start: 171
+page_end: 180
+canonical_citation: "醫(六)第1冊婦產_第二篇、婦科_甲、胚胎解剖學 (Embryology and Anatomy) Page 171-180"
 book: 醫(六)第1冊婦產
 chapter_order: 6
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第二篇、婦科_甲、胚胎解剖學 (Embryology and Anatomy).md`
+- Pages covered: 171-180
+- Canonical citation: 醫(六)第1冊婦產_第二篇、婦科_甲、胚胎解剖學 (Embryology and Anatomy) Page 171-180
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

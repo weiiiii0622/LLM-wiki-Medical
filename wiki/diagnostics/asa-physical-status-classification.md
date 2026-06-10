@@ -27,9 +27,9 @@ ASA physical status 以全身健康狀態分級麻醉風險，常用於術前風
 
 ## Key Details From Sources
 
-- B. American Society of Anesthesiology classification (ASA classification) 5 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- #### B. American Society of Anesthesiology classification (ASA classification) Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- (出處: ASA Physical Status Classification System, 2020 年版) Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- B. American Society of Anesthesiology classification (ASA classification) 5 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- #### B. American Society of Anesthesiology classification (ASA classification) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- (出處: ASA Physical Status Classification System, 2020 年版) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
 
 ## Clinical Caveats
 

@@ -35,17 +35,17 @@ tags:
 
 ## Key Details From Sources
 
-- c. 乾癬性關節炎 (Psoriatic arthritis): 與HLA-B27有關, 眼睛症狀有前葡萄膜炎、 結膜炎或角膜炎。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
-- 1. 關節炎可以分成 inflammatory (seropositive :rheamatoid arthritis 和 seronegative: Ankylosing spondylitis, psoriatic arthritis, reactive arthritis) 和 non-inflammatory (osteoarthritis)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- d. 診斷的標準: - (a) 影像上有 sacroiliitis +下方一個特徵。 - (b) HLA-B27(+) + 下方大於(或等於)兩個特徵:dactylitis, positive family history, inflammatory back pain, enthesitis, arthritis, inflammatory bowel disease, uveitis。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- #### (4) Psoriatic arthritis (PA): Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- 4. 除皮膚外有相當比例(10~30%)的乾癬會造成關節疾患,也就是 Psoriatic arthritis,與皮膚病灶嚴重度無關,可出現在皮膚上未出現乾癬的病患上。另外 50% 的病人手指甲及 35% 病人的腳趾甲會被侵犯,產生指甲凹陷、黃斑、嚴重變形,常被誤認為黴菌感染。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- (1) Methotrexate(MTX):治療慢性塊狀乾癬或乾癬性關節炎的第一線用藥。最常見的副作用為噁心、疲倦、食慾減退、骨髓抑制造成白血球下降以及肝毒性,故有肝病史和酗酒者不適此療法,可能引發肝纖維化或肝硬化的危險。 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- (B) 乾癬患者有 10~25% 會併發有乾癬性關節炎 Source: [[sources/med4-book2-ch07|庚、乾癬 (Psoriasis)]].
-- ...F) 陰性。 - d. Polyarthritis(RF positive):發病後 6 個月內有 $\geq$ 5 個關節受到影響,且RF $\geq$ 2 次測到陽性(兩次需間隔 3 個月以上,且皆需在發病後 6 個月內)。 - e. Psoriatic arthritis: 關節炎加上乾癬, 或關節炎加上以下至少兩項: - (a) Dactylitis (指/趾炎)。 - (b) Nail pitting and onycholysis • - (c) 直系血親有乾癬病史。 Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 2. 週邊關節侵犯: - (1) **著骨點炎(Enthesitis)**: 肌腱接觸骨頭附近區域稱為著骨點,最容易造成接骨點病變的位置,包括跟腱肌腱炎(Achilles tendinitis)、足底筋膜炎(Plantar fasciitis)。 - (2) 指炎(Dactylitis):關節脹之外,附近前後的腱鞘膜也發炎腫脹,整個形狀像香腸的樣子,像似香腸指(sausage appearance)。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- C. **其包含四種疾病**: 僵直性脊椎炎(AS)、反應性關節炎(ReA)、乾癬性關節炎(PsA)、發炎性腸炎相關之關節炎等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
-- (2) 關節周邊表現:著骨點炎 (Enthesitis),如跟腱 肌腱炎 (Achilles tendinitis)、足底筋膜炎 (Plantar fasciitis);指炎 (Dactylitis) 像似香腸指 (sausage appearance)等。 Source: [[sources/med3-book4-ch05|戊、血清陰性脊椎關節病變]].
+- c. 乾癬性關節炎 (Psoriatic arthritis): 與HLA-B27有關, 眼睛症狀有前葡萄膜炎、 結膜炎或角膜炎。 Source: 醫(六)第2冊眼科_第一篇、眼科_庚、葡萄膜 Page 77-84.
+- 1. 關節炎可以分成 inflammatory (seropositive :rheamatoid arthritis 和 seronegative: Ankylosing spondylitis, psoriatic arthritis, reactive arthritis) 和 non-inflammatory (osteoarthritis)。 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- d. 診斷的標準: - (a) 影像上有 sacroiliitis +下方一個特徵。 - (b) HLA-B27(+) + 下方大於(或等於)兩個特徵:dactylitis, positive family history, inflammatory back pain, enthesitis, arthritis, inflammatory bowel disease, uveitis。 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- #### (4) Psoriatic arthritis (PA): Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- 4. 除皮膚外有相當比例(10~30%)的乾癬會造成關節疾患,也就是 Psoriatic arthritis,與皮膚病灶嚴重度無關,可出現在皮膚上未出現乾癬的病患上。另外 50% 的病人手指甲及 35% 病人的腳趾甲會被侵犯,產生指甲凹陷、黃斑、嚴重變形,常被誤認為黴菌感染。 Source: 醫(四)第2冊皮膚_庚、乾癬 (Psoriasis) Page 130-136.
+- (1) Methotrexate(MTX):治療慢性塊狀乾癬或乾癬性關節炎的第一線用藥。最常見的副作用為噁心、疲倦、食慾減退、骨髓抑制造成白血球下降以及肝毒性,故有肝病史和酗酒者不適此療法,可能引發肝纖維化或肝硬化的危險。 Source: 醫(四)第2冊皮膚_庚、乾癬 (Psoriasis) Page 130-136.
+- (B) 乾癬患者有 10~25% 會併發有乾癬性關節炎 Source: 醫(四)第2冊皮膚_庚、乾癬 (Psoriasis) Page 130-136.
+- ...F) 陰性。 - d. Polyarthritis(RF positive):發病後 6 個月內有 $\geq$ 5 個關節受到影響,且RF $\geq$ 2 次測到陽性(兩次需間隔 3 個月以上,且皆需在發病後 6 個月內)。 - e. Psoriatic arthritis: 關節炎加上乾癬, 或關節炎加上以下至少兩項: - (a) Dactylitis (指/趾炎)。 - (b) Nail pitting and onycholysis • - (c) 直系血親有乾癬病史。 Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
+- 2. 週邊關節侵犯: - (1) **著骨點炎(Enthesitis)**: 肌腱接觸骨頭附近區域稱為著骨點,最容易造成接骨點病變的位置,包括跟腱肌腱炎(Achilles tendinitis)、足底筋膜炎(Plantar fasciitis)。 - (2) 指炎(Dactylitis):關節脹之外,附近前後的腱鞘膜也發炎腫脹,整個形狀像香腸的樣子,像似香腸指(sausage appearance)。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_戊、血清陰性脊椎關節病變 Page 77-88.
+- C. **其包含四種疾病**: 僵直性脊椎炎(AS)、反應性關節炎(ReA)、乾癬性關節炎(PsA)、發炎性腸炎相關之關節炎等。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_戊、血清陰性脊椎關節病變 Page 77-88.
+- (2) 關節周邊表現:著骨點炎 (Enthesitis),如跟腱 肌腱炎 (Achilles tendinitis)、足底筋膜炎 (Plantar fasciitis);指炎 (Dactylitis) 像似香腸指 (sausage appearance)等。 Source: 醫(三)第4冊免疫血液腫瘤家醫_第一篇、免疫風濕科_戊、血清陰性脊椎關節病變 Page 77-88.
 
 ## Clinical Caveats
 

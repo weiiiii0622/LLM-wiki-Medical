@@ -137,24 +137,24 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 如何避免帶給病人過多的術中壓力,是外科手術治療的一大挑戰。手術當中形成的壓力除了會引發下視丘一腦下垂體一腎上腺軸 (hypothalamic-pituitary-adrenal gland axis) 的作用外,也會造成心理層面的影響。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- ...接受顯影劑注射的電腦斷層後,突然出現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 mmHg,應優先選擇下列何者處置? (A)靜脈注射抗組織胺(Antihistamine) (B)靜脈注射類固醇(Steroid) (C)靜脈注射腎上腺素(Epinephrine) (D)吸入性支氣管擴張劑(Bronchodilator) | 100(二)專醫四-78 | | (D) 36. | 心臟冠狀動脈疾病手術麻醉處理的原則,下列何者錯誤? | 99(二)專 | | | (A) 增加收縮壓會增加心臟耗氧量 | 醫六-4 | | | (B) 心跳增加會增加心臟耗氧量 | | | | (C) 心臟冠狀動脈血液灌流最佳時期是舒張期 | | | | (D) 增加左心室壁舒張末期壓力,有利 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- 【詳解】Ephedrine 可直接作用在 α 和 β 腎上腺素激接受體位, 又可間接的促使 norepinephrine 從突觸前的神經末端釋放出。 Ephedrine 所產生的支氣管擴張作用比 epinephrine 所產生的要 弱,但是作用期較長。其中樞神經刺激效應也比 epinephrine 要 顯著。臨床上用於:支氣管性氣喘、血管運動神經性鼻炎、過 敏性鼻炎、脊椎麻醉導致之急性低血壓。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- 3. 缺點: - (1) 長期使用已證實會抑制腎上腺皮質素的生成。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
-- 3. 副作用:由於Cholinesterase inhibitors作用不僅只會增加N-M junction之中的Ach量,還會影響人體中以Ach 當傳導物質的神經節,主要有附交感神經節、汗腺、adrenal gland…等,所以可想而知使用這些藥物時會導致一些不想要的副作用出現,這也是為什麼麻醉科醫師使用這些藥物時又會加上 anticholinergic agent,讓副作用減低。(例如:atropine、glycopyrrolate、scopolamine) - (1) 噁心。 - (2) 心臟的 muscarinic effect:心跳速率下降。 - (3) Bronchospasm 及氣管分泌物變多。 - (4) Miosis • Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
-- (2) 全身性的因素則包括:營養不良、糖尿病、長期腎上腺素治療、血性惡病質、 化學治療,以及其它新陳代謝疾病。有效地控制以上種種因素,在治療鼻竇炎 佔著重要的地位。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- (D) 腎上腺素接受器促效藥 (β-adrenergic receptor agonist) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ...li-leydig cell tumor Hilar cell | ・女性特徴消失 defeminization:月經變少、甚至停止、乳房和性器官萎縮等。・男性化masculinization: 雄性禿、長鬍子、多毛和陰蒂變大等。 | | Adrenal-like | Lipoid cell tumor | ・男性化、Cushing's syndrome | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 【詳解】電腦斷層發現右腎上線位置有個低密度腫瘤,配合上 述臨床表現及抽血結果,合理懷疑為腎上腺腫瘤,故選(C)。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- (2) 次發性(10%): - a. Type III:由於其他器官的原因造成,如內分泌疾病(包括甲狀腺、副甲狀腺或腎上腺等功能異常)、營養不良、血液疾病、藥物以及其他疾病等原因引起之骨質疏鬆症。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- I. 簡介 162 - A. 腎上腺解剖 / 功能 162 - B. 腎上腺腫瘤總論 163 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- ...狀帶分泌太多會造成庫欣氏症) - (3) 網狀帶(zona Reticularis)分泌雄性素(Androgen)。主要有睪固酮(testosterone)、 雙氫睪固酮(DHT, Dihydrotestosterone)。(注意:雄性素是腎上腺皮質分泌最大量的物質)(記法:網路宅男。網狀帶分泌太多會造成男性化) Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- (b) 內分泌方面(Hormonal): - i. 性腺功能不足(=睪固酮分泌减少,最常見內分泌造成 ED 的原因)。 - (i) 腫瘤:下視丘或腦下垂體腫瘤使 LH 過低→睪固酮分泌減少。 - (ii) 藥物:前列腺癌病人接受睪丸切除術或使用女性荷爾蒙 / 抗男性 賀爾蒙,造成睪固酮分泌減少。 - ii. 高泌乳激素症:抑制 LH,造成睪固酮分泌减少。 - iii. 甲狀腺機能亢進/低下。 - iv. 腎上腺皮質機能亢進/低下。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- ...| 【詳解】(C)、(D) 給分。 | | | (A) 10. 下列何者是女性假性陰陽人 (female pseudohermaphroditism) | 106 (一) 專 | | 最常見的原因? | 醫五 -71 | | (A) 先天腎上腺增生(congenital adrenal hyperplasia) | | | (B) 母親懷孕時服用男性荷爾蒙 | | | (C) Klinefelter's syndrome | | | (D) Turner's syndrome | | | 【詳解】新生兒陰蒂肥大 (Clitoral hypertrophy in the newborn), | | | 暗示先天性腎上腺增生(congenital adrenal hyperpla Source: [[sources/med5-book5-ch08|辛、男性學]].
-- iii. T3:腫瘤侵犯未超過 Gerota's fasscia,未達同側腎上腺。腫瘤出現在 大靜脈或週邊組織。 - (i) T3a: 侵犯腎靜脈,或附近脂肪組織。 - (ii) T3b: 侵犯下腔靜脈,在橫膈膜之下。 - (iii)T3c:侵犯下腔靜脈,在橫膈膜之上;或侵犯下腔靜脈管壁。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- iv. T4: 腫瘤侵犯超過 Gerota's fasscia,包括直接侵犯同側腎上腺。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (c) M: M1 遠端轉移。(最常見的部位是到肺。另外也可能會到相鄰淋巴結、 腎上腺、對側腎臟、肝、腦、骨。) Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 1. 如何避免帶給病人過多的術中壓力,是外科手術治療的一大挑戰。手術當中形成的壓力除了會引發下視丘一腦下垂體一腎上腺軸 (hypothalamic-pituitary-adrenal gland axis) 的作用外,也會造成心理層面的影響。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- ...接受顯影劑注射的電腦斷層後,突然出現呼吸急促,全身熱潮紅,合併意識改變的情形,血壓 65/30 mmHg,應優先選擇下列何者處置? (A)靜脈注射抗組織胺(Antihistamine) (B)靜脈注射類固醇(Steroid) (C)靜脈注射腎上腺素(Epinephrine) (D)吸入性支氣管擴張劑(Bronchodilator) | 100(二)專醫四-78 | | (D) 36. | 心臟冠狀動脈疾病手術麻醉處理的原則,下列何者錯誤? | 99(二)專 | | | (A) 增加收縮壓會增加心臟耗氧量 | 醫六-4 | | | (B) 心跳增加會增加心臟耗氧量 | | | | (C) 心臟冠狀動脈血液灌流最佳時期是舒張期 | | | | (D) 增加左心室壁舒張末期壓力,有利 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- 【詳解】Ephedrine 可直接作用在 α 和 β 腎上腺素激接受體位, 又可間接的促使 norepinephrine 從突觸前的神經末端釋放出。 Ephedrine 所產生的支氣管擴張作用比 epinephrine 所產生的要 弱,但是作用期較長。其中樞神經刺激效應也比 epinephrine 要 顯著。臨床上用於:支氣管性氣喘、血管運動神經性鼻炎、過 敏性鼻炎、脊椎麻醉導致之急性低血壓。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- 3. 缺點: - (1) 長期使用已證實會抑制腎上腺皮質素的生成。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
+- 3. 副作用:由於Cholinesterase inhibitors作用不僅只會增加N-M junction之中的Ach量,還會影響人體中以Ach 當傳導物質的神經節,主要有附交感神經節、汗腺、adrenal gland…等,所以可想而知使用這些藥物時會導致一些不想要的副作用出現,這也是為什麼麻醉科醫師使用這些藥物時又會加上 anticholinergic agent,讓副作用減低。(例如:atropine、glycopyrrolate、scopolamine) - (1) 噁心。 - (2) 心臟的 muscarinic effect:心跳速率下降。 - (3) Bronchospasm 及氣管分泌物變多。 - (4) Miosis • Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
+- (2) 全身性的因素則包括:營養不良、糖尿病、長期腎上腺素治療、血性惡病質、 化學治療,以及其它新陳代謝疾病。有效地控制以上種種因素,在治療鼻竇炎 佔著重要的地位。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- (D) 腎上腺素接受器促效藥 (β-adrenergic receptor agonist) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ...li-leydig cell tumor Hilar cell | ・女性特徴消失 defeminization:月經變少、甚至停止、乳房和性器官萎縮等。・男性化masculinization: 雄性禿、長鬍子、多毛和陰蒂變大等。 | | Adrenal-like | Lipoid cell tumor | ・男性化、Cushing's syndrome | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 【詳解】電腦斷層發現右腎上線位置有個低密度腫瘤,配合上 述臨床表現及抽血結果,合理懷疑為腎上腺腫瘤,故選(C)。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- (2) 次發性(10%): - a. Type III:由於其他器官的原因造成,如內分泌疾病(包括甲狀腺、副甲狀腺或腎上腺等功能異常)、營養不良、血液疾病、藥物以及其他疾病等原因引起之骨質疏鬆症。 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- I. 簡介 162 - A. 腎上腺解剖 / 功能 162 - B. 腎上腺腫瘤總論 163 Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- II. 皮質疾病 163 - A. 原發性高醛固酮症 (Primary aldosteronism),又稱高血壓 低血鉀症 *163* - B. 庫欣式症 (Cushing's syndrome) 165 - C. (網狀帶) 腎上腺雄性素症 (Adrenal androgenic syndromes) *166* Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- ...狀帶分泌太多會造成庫欣氏症) - (3) 網狀帶(zona Reticularis)分泌雄性素(Androgen)。主要有睪固酮(testosterone)、 雙氫睪固酮(DHT, Dihydrotestosterone)。(注意:雄性素是腎上腺皮質分泌最大量的物質)(記法:網路宅男。網狀帶分泌太多會造成男性化) Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- (b) 內分泌方面(Hormonal): - i. 性腺功能不足(=睪固酮分泌减少,最常見內分泌造成 ED 的原因)。 - (i) 腫瘤:下視丘或腦下垂體腫瘤使 LH 過低→睪固酮分泌減少。 - (ii) 藥物:前列腺癌病人接受睪丸切除術或使用女性荷爾蒙 / 抗男性 賀爾蒙,造成睪固酮分泌減少。 - ii. 高泌乳激素症:抑制 LH,造成睪固酮分泌减少。 - iii. 甲狀腺機能亢進/低下。 - iv. 腎上腺皮質機能亢進/低下。 Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
+- ...| 【詳解】(C)、(D) 給分。 | | | (A) 10. 下列何者是女性假性陰陽人 (female pseudohermaphroditism) | 106 (一) 專 | | 最常見的原因? | 醫五 -71 | | (A) 先天腎上腺增生(congenital adrenal hyperplasia) | | | (B) 母親懷孕時服用男性荷爾蒙 | | | (C) Klinefelter's syndrome | | | (D) Turner's syndrome | | | 【詳解】新生兒陰蒂肥大 (Clitoral hypertrophy in the newborn), | | | 暗示先天性腎上腺增生(congenital adrenal hyperpla Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
+- iii. T3:腫瘤侵犯未超過 Gerota's fasscia,未達同側腎上腺。腫瘤出現在 大靜脈或週邊組織。 - (i) T3a: 侵犯腎靜脈,或附近脂肪組織。 - (ii) T3b: 侵犯下腔靜脈,在橫膈膜之下。 - (iii)T3c:侵犯下腔靜脈,在橫膈膜之上;或侵犯下腔靜脈管壁。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- iv. T4: 腫瘤侵犯超過 Gerota's fasscia,包括直接侵犯同側腎上腺。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (c) M: M1 遠端轉移。(最常見的部位是到肺。另外也可能會到相鄰淋巴結、 腎上腺、對側腎臟、肝、腦、骨。) Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- H. 高爾氏徵象(Gower's sign) 30 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- #### H. 高爾氏徵象 (Gower's sign) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- 1. Gower's sign 為下肢近端肌肉和骨盆帶肌群(pelvic girdle muscles)無力的現象, 常見於近端肌肉先開始無力的疾病,如裘馨氏肌肉失養症(Duchenne muscular Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- H. 高爾氏徵象(Gower's sign) 30 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- #### H. 高爾氏徵象 (Gower's sign) Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- 1. Gower's sign 為下肢近端肌肉和骨盆帶肌群(pelvic girdle muscles)無力的現象, 常見於近端肌肉先開始無力的疾病,如裘馨氏肌肉失養症(Duchenne muscular Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
 
 ## Clinical Caveats
 

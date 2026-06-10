@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_己、老年精神醫學.md
+raw_source_title: "醫(四)第3冊精神科_己、老年精神醫學"
+raw_source_file: "raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_己、老年精神醫學.md"
+page_start: 145
+page_end: 160
+canonical_citation: "醫(四)第3冊精神科_己、老年精神醫學 Page 145-160"
 book: 醫(四)第3冊精神科
 chapter_order: 6
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第3冊精神科
 - Chapter file: `raw/books/md/醫(四)第3冊精神科/醫(四)第3冊精神科_己、老年精神醫學.md`
+- Pages covered: 145-160
+- Canonical citation: 醫(四)第3冊精神科_己、老年精神醫學 Page 145-160
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- G. 移植體對抗宿主疾病 (Graft-versus-Host disease) 75 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- # G. 移植體對抗宿主疾病 (Graft-versus-Host disease) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- G. 移植體對抗宿主疾病 (Graft-versus-Host disease) 75 Source: 醫(四)第2冊皮膚_丁、自體免疫性疾病 Page 79-96.
+- # G. 移植體對抗宿主疾病 (Graft-versus-Host disease) Source: 醫(四)第2冊皮膚_丁、自體免疫性疾病 Page 79-96.
 
 ## Clinical Caveats
 

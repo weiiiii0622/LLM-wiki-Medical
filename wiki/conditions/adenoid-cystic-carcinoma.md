@@ -27,9 +27,9 @@ Adenoid cystic carcinoma 具 perineural invasion 傾向，可能局部復發與�
 
 ## Key Details From Sources
 
-- 2. Adenoid cystic carcinoma: 20% Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- #### J. 腺樣囊狀癌 (Adenoid cystic carcinoma) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- 2. 腺樣囊狀癌在下頜頷腺和小唾液腺是最常見的惡性腫瘤, 約占 30~40%。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 2. Adenoid cystic carcinoma: 20% Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- #### J. 腺樣囊狀癌 (Adenoid cystic carcinoma) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- 2. 腺樣囊狀癌在下頜頷腺和小唾液腺是最常見的惡性腫瘤, 約占 30~40%。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

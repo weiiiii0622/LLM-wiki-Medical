@@ -35,14 +35,14 @@ tags:
 
 ## Key Details From Sources
 
-- (D) 給予 phosphodiesterase III 抑制劑 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- 【 詳解 】此情況可能是心臟因搬動刺激 vagal tone 造成 bronchospasm,所以應該做 bronchospasm 的處理,譬如加深麻醉深度、給予氣管舒張劑、減低 tidal volume 並加快呼吸速度代償(total volume keep 6~8 ml/kg)。phosphodiesterase III 抑制劑臨床上用於治療肺高壓。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- (3) 會陰部肌肉(右圖為由下往上看會陰部) - a. 坐骨腳肌 (ischiocavernosus) - b. 球海綿肌 (bulbospongiosus) - c. 淺會陰橫肌(transverse perinei superficialis) - d. 深會陰橫肌(transverse perinei profundi): c 之下 - e 肛門外括約肌 (external anal sphincter) - f. 提肛肌(levator ani): 肛門三角的底部 - g. 尾骨肌 (coccygeus) Source: [[sources/med6-book1-ch06|甲、胚胎解剖學 (Embryology and Anatomy)]].
-- ...為其讓內膜變薄,手術中反而 | | | | | 容易傷到 basal layer 造成術後沾黏,目前不建議使用。 | | | | 術後 ・ 高劑量荷爾蒙: 使受損的內膜儘快恢復。 | | | | | | · 增加內膜血流藥物,幫助內膜生長:Sildenafil、 | | | | | Vit E 和 Low-dose aspirin 等。 | | | Physical barriers | ・IUD:放置 1~3 個月。 | | | | | ・ 術後放置兒童導尿管或子宮腔氣球支架 7~10 天。 | | | | | Auto-cross-link hyaluronic acid gel | | | Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- ...ligament(又稱 flexor retinaculum)與旁邊的 腕骨所形成的通道。內容物包含: - a. 正中神經 (median nerve)。 - b. 屈肌韌帶: - (a) Flexor digitorum superficialis tendons • - (b) Flexor digitorum profundus tendons • - (c) Flexor pollicis longus tendon • - c. Flexor carpi radialis tendon 則包裹在 transverse carpal ligament 與 trapezium 當中。 - d. 注意:掌長肌(palmaris longus)的韌帶並未通過其內,而是從 tran Source: [[sources/med5-book6-ch06|己、手部]].
-- a. 非手術 (non-surgical): - (a) 生活型態改變、藥物調整、心理治療。 - (b) 口服藥物治療: - i. Phosphodiesterase (PDE) inhibitors: 與 ED 最 相 關 是 type V (PDE V),經由 NO pathway 使 cGMP 增加,達到血管擴張的效果。現有 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- Viagra、Cialis、Levitra,此類藥物對於曾做過骨盆腔手術合併雙側神經受損的 ED 病患無法達到療效。 Source: [[sources/med5-book5-ch08|辛、男性學]].
-- ...| | | | | (D) 精液量不夠導致無法由尿道排出 | | | | | 【詳解】(C) 逆行性射精成因多為外傷或前列腺手術後,膀胱頸 | | | | | 的內括約肌在射精時無法正常收縮。 | | | (C) | 14. | 下列有關 phosphodiesterase-5(PDE5)inhibitors 治療勃起功能障 | 104(二)專 | | ` ' | | 礙之敘述,何者錯誤? | 醫五 -70 | | | | (A) sildenafil、vardenafil 及 tadalafil 均為美國 FDA 核准治療勃 | | | | | 起功能障礙的 PDE5 inhibitors | | | | | (B) 頭痛,臉潮紅為服用 PDE5 inhibitors 常見的副作用 | | | | | Source: [[sources/med5-book5-ch08|辛、男性學]].
+- (D) 給予 phosphodiesterase III 抑制劑 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- 【 詳解 】此情況可能是心臟因搬動刺激 vagal tone 造成 bronchospasm,所以應該做 bronchospasm 的處理,譬如加深麻醉深度、給予氣管舒張劑、減低 tidal volume 並加快呼吸速度代償(total volume keep 6~8 ml/kg)。phosphodiesterase III 抑制劑臨床上用於治療肺高壓。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- (3) 會陰部肌肉(右圖為由下往上看會陰部) - a. 坐骨腳肌 (ischiocavernosus) - b. 球海綿肌 (bulbospongiosus) - c. 淺會陰橫肌(transverse perinei superficialis) - d. 深會陰橫肌(transverse perinei profundi): c 之下 - e 肛門外括約肌 (external anal sphincter) - f. 提肛肌(levator ani): 肛門三角的底部 - g. 尾骨肌 (coccygeus) Source: 醫(六)第1冊婦產_第二篇、婦科_甲、胚胎解剖學 (Embryology and Anatomy) Page 171-180.
+- ...為其讓內膜變薄,手術中反而 | | | | | 容易傷到 basal layer 造成術後沾黏,目前不建議使用。 | | | | 術後 ・ 高劑量荷爾蒙: 使受損的內膜儘快恢復。 | | | | | | · 增加內膜血流藥物,幫助內膜生長:Sildenafil、 | | | | | Vit E 和 Low-dose aspirin 等。 | | | Physical barriers | ・IUD:放置 1~3 個月。 | | | | | ・ 術後放置兒童導尿管或子宮腔氣球支架 7~10 天。 | | | | | Auto-cross-link hyaluronic acid gel | | | Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- ...ligament(又稱 flexor retinaculum)與旁邊的 腕骨所形成的通道。內容物包含: - a. 正中神經 (median nerve)。 - b. 屈肌韌帶: - (a) Flexor digitorum superficialis tendons • - (b) Flexor digitorum profundus tendons • - (c) Flexor pollicis longus tendon • - c. Flexor carpi radialis tendon 則包裹在 transverse carpal ligament 與 trapezium 當中。 - d. 注意:掌長肌(palmaris longus)的韌帶並未通過其內,而是從 tran Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
+- a. 非手術 (non-surgical): - (a) 生活型態改變、藥物調整、心理治療。 - (b) 口服藥物治療: - i. Phosphodiesterase (PDE) inhibitors: 與 ED 最 相 關 是 type V (PDE V),經由 NO pathway 使 cGMP 增加,達到血管擴張的效果。現有 Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
+- Viagra、Cialis、Levitra,此類藥物對於曾做過骨盆腔手術合併雙側神經受損的 ED 病患無法達到療效。 Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
+- ...| | | | | (D) 精液量不夠導致無法由尿道排出 | | | | | 【詳解】(C) 逆行性射精成因多為外傷或前列腺手術後,膀胱頸 | | | | | 的內括約肌在射精時無法正常收縮。 | | | (C) | 14. | 下列有關 phosphodiesterase-5(PDE5)inhibitors 治療勃起功能障 | 104(二)專 | | ` ' | | 礙之敘述,何者錯誤? | 醫五 -70 | | | | (A) sildenafil、vardenafil 及 tadalafil 均為美國 FDA 核准治療勃 | | | | | 起功能障礙的 PDE5 inhibitors | | | | | (B) 頭痛,臉潮紅為服用 PDE5 inhibitors 常見的副作用 | | | | | Source: 醫(五)第5冊泌尿_辛、男性學 Page 157-170.
 
 ## Clinical Caveats
 

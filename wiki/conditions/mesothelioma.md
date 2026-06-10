@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- E. 惡性間皮瘤 (Mesothelioma) 24 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ...ma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Postirradiation | | ● Pulmonary | adenocarcinoma | ● Churg-Strauss | ● Trauma | | embolism | Infectious | syndrome | Dressler's syndrome | | ● Lobar Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- ### E. 惡性間皮瘤 (Mesothelioma) Source: [[sources/med5-book4-ch02|乙、肋膜]].
+- E. 惡性間皮瘤 (Mesothelioma) 24 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- ...ma | • Wegener's | ● After coronary | | conditions | ● Lymphoma | granulomatosis | artery bypass | | Fluid retention/ | Mesothelioma | Systemic lupus | grafting | | overload | • Pleural | erythematosus | Postirradiation | | ● Pulmonary | adenocarcinoma | ● Churg-Strauss | ● Trauma | | embolism | Infectious | syndrome | Dressler's syndrome | | ● Lobar Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- ### E. 惡性間皮瘤 (Mesothelioma) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
 
 ## Clinical Caveats
 

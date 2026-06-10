@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_戊、後天性血管異常及下消化道出血.md
+raw_source_title: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_戊、後天性血管異常及下消化道出血"
+raw_source_file: "raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_戊、後天性血管異常及下消化道出血.md"
+page_start: 151
+page_end: 156
+canonical_citation: "醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_戊、後天性血管異常及下消化道出血 Page 151-156"
 book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 chapter_order: 13
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第2冊心外大腸長直腸外內分泌外整外
 - Chapter file: `raw/books/md/醫(五)第2冊心外大腸長直腸外內分泌外整外/醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_戊、後天性血管異常及下消化道出血.md`
+- Pages covered: 151-156
+- Canonical citation: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_戊、後天性血管異常及下消化道出血 Page 151-156
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

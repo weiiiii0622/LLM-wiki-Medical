@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 肺部復健 (Pulmonary rehabilitation) 136 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- #### 戊、心肺復健 (Cardio-Pulmonary Rehabilitation) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- #### B. 肺部復健 (Pulmonary rehabilitation) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- B. 肺部復健 (Pulmonary rehabilitation) 136 Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- #### 戊、心肺復健 (Cardio-Pulmonary Rehabilitation) Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- #### B. 肺部復健 (Pulmonary rehabilitation) Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
 
 ## Clinical Caveats
 

@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- D. 腸道閉鎖 (Intestinal atresia) 148 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ### D. 腸道閉鎖 (Intestinal atresia) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- 1. 腸道閉鎖常見形式:空迴腸閉鎖(Jejunoileal atresia)為最常見、十二指腸閉鎖(Duodenal atresia)、大腸閉鎖(Colonic atresia)最少見(5~10%)。 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (C) 小腸閉鎖 (intestinal atresia) Source: [[sources/med5-book4-ch05|戊、食 道]].
+- D. 腸道閉鎖 (Intestinal atresia) 148 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- ### D. 腸道閉鎖 (Intestinal atresia) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- 1. 腸道閉鎖常見形式:空迴腸閉鎖(Jejunoileal atresia)為最常見、十二指腸閉鎖(Duodenal atresia)、大腸閉鎖(Colonic atresia)最少見(5~10%)。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (C) 小腸閉鎖 (intestinal atresia) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_戊、食道 Page 91-118.
 
 ## Clinical Caveats
 

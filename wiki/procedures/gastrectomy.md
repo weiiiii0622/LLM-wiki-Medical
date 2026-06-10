@@ -29,12 +29,12 @@ tags:
 
 ## Key Details From Sources
 
-- ...於潰瘍處做切片及縫合即可。 - b. 視病人情況可考慮作迷走神經幹切斷術(Truncal vagotomy)加上幽門整形術(pyloroplasty)。 - c. 若病人生命徵象穩定:可花較多時間在 table 上接腸子時,才考慮再加上遠端胃切除 (distal gastrectomy),可大大降低胃潰瘍 recurrence 的機率。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- 【詳解】(A) Truncal vagotomy 須同搭配 pyloroplasty 的手術。(B) Highly selective vagotomy 僅針對 parietal cell 去作切除,不影響 gastric antrum。(C) Billroth I procedure 為遠端胃切除後與十二指 腸相連接,後面內容會再提到。 Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- ...al CT scan) | | | (A) 16. 承上題,剖腹探查發現為十二指腸潰瘍併穿孔,此時最佳處置為: | 100(一)專 | | (A) 單純縫合 (simple closure) | 醫五 -32 | | (B) 次全切除手術(subtotal gastrectomy) | | | (C) 迷走神經幹切除術 + 前庭切除術 (truncal vagotomy + antrectomy) | | | (D) 高選擇性迷走神經切除術(highly selective vagotomy) | | | 【詳解】十二指腸潰瘍通常採用簡單縫合再加上 omental patch | | | 與腹腔灌洗(abdominal cavity lavage)。 | | | (D) 17. 承上題,術中不須作何處置? | Source: [[sources/med5-book3-ch02|乙、消化性潰瘍]].
-- H. 胃部切除術(Gastrectomy) 34 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- I. 切胃術後併發症(Postgastrectomy syndromes) 37 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
+- ...於潰瘍處做切片及縫合即可。 - b. 視病人情況可考慮作迷走神經幹切斷術(Truncal vagotomy)加上幽門整形術(pyloroplasty)。 - c. 若病人生命徵象穩定:可花較多時間在 table 上接腸子時,才考慮再加上遠端胃切除 (distal gastrectomy),可大大降低胃潰瘍 recurrence 的機率。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
+- 【詳解】(A) Truncal vagotomy 須同搭配 pyloroplasty 的手術。(B) Highly selective vagotomy 僅針對 parietal cell 去作切除,不影響 gastric antrum。(C) Billroth I procedure 為遠端胃切除後與十二指 腸相連接,後面內容會再提到。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
+- ...al CT scan) | | | (A) 16. 承上題,剖腹探查發現為十二指腸潰瘍併穿孔,此時最佳處置為: | 100(一)專 | | (A) 單純縫合 (simple closure) | 醫五 -32 | | (B) 次全切除手術(subtotal gastrectomy) | | | (C) 迷走神經幹切除術 + 前庭切除術 (truncal vagotomy + antrectomy) | | | (D) 高選擇性迷走神經切除術(highly selective vagotomy) | | | 【詳解】十二指腸潰瘍通常採用簡單縫合再加上 omental patch | | | 與腹腔灌洗(abdominal cavity lavage)。 | | | (D) 17. 承上題,術中不須作何處置? | Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_乙、消化性潰瘍 Page 27-42.
+- H. 胃部切除術(Gastrectomy) 34 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- I. 切胃術後併發症(Postgastrectomy syndromes) 37 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- 2. 這些因子大致上可分為外在因子以及內在因子。 - (1) 外在因子: - a. 低社經地位。 - b. 飲食習慣不良(愛吃煙燻類食物、醃製食品、少吃青菜水果)。 - c. 抽菸。 - d. 幽門螺旋桿菌 (Helicobacter pylori) 感染。 - e. 作過胃切除手術。 - f. 惡性貧血、胃酸缺乏、胃萎縮(這些症狀會導致消化液分泌減少)的人,也 有比較高的機會得胃癌。 - (2) 內在因子: - a. 男性。 - b. 家族史。 - c. 息肉症候群 (polyposis syndromes)。 - d. 孟堤爾氏病(Menetrier disease)。 - e. 慢性胃炎。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
 
 ## Clinical Caveats
 

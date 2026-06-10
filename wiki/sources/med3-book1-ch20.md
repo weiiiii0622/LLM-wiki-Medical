@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第二篇、胸腔內科_庚、呼吸器.md
+raw_source_title: "醫(三)第1冊心胸內_第二篇、胸腔內科_庚、呼吸器"
+raw_source_file: "raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第二篇、胸腔內科_庚、呼吸器.md"
+page_start: 321
+page_end: 326
+canonical_citation: "醫(三)第1冊心胸內_第二篇、胸腔內科_庚、呼吸器 Page 321-326"
 book: 醫(三)第1冊心胸內
 chapter_order: 20
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第1冊心胸內
 - Chapter file: `raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第二篇、胸腔內科_庚、呼吸器.md`
+- Pages covered: 321-326
+- Canonical citation: 醫(三)第1冊心胸內_第二篇、胸腔內科_庚、呼吸器 Page 321-326
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

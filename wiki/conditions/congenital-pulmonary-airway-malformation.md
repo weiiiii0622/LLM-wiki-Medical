@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- B. 先天性肺部呼吸道畸形 (Congenital pulmonary airway malformation) 138 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- # B. 先天性肺部呼吸道畸形 (Congenital pulmonary airway malformation, CPAM) Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
-- (2) 大多數被診斷為 CPAM 之胎兒,於第三個孕期(trimaster)會發現病灶縮小, 通常持續觀察症狀保守治療,或採用類固醇治療。 Source: [[sources/med5-book4-ch10|丙、胸腔及縱隔腔]].
+- B. 先天性肺部呼吸道畸形 (Congenital pulmonary airway malformation) 138 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丙、胸腔及縱隔腔 Page 149-156.
+- # B. 先天性肺部呼吸道畸形 (Congenital pulmonary airway malformation, CPAM) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丙、胸腔及縱隔腔 Page 149-156.
+- (2) 大多數被診斷為 CPAM 之胎兒,於第三個孕期(trimaster)會發現病灶縮小, 通常持續觀察症狀保守治療,或採用類固醇治療。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丙、胸腔及縱隔腔 Page 149-156.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_庚、肝腫瘤、肝癌.md
+raw_source_title: "醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_庚、肝腫瘤、肝癌"
+raw_source_file: "raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_庚、肝腫瘤、肝癌.md"
+page_start: 153
+page_end: 164
+canonical_citation: "醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_庚、肝腫瘤、肝癌 Page 153-164"
 book: 醫(三)第2冊肝內新陳代謝
 chapter_order: 22
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第2冊肝內新陳代謝
 - Chapter file: `raw/books/md/醫(三)第2冊肝內新陳代謝/醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_庚、肝腫瘤、肝癌.md`
+- Pages covered: 153-164
+- Canonical citation: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_庚、肝腫瘤、肝癌 Page 153-164
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

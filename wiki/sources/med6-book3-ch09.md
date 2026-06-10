@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_壬、神經學檢查.md
+raw_source_title: "醫(六)第3冊復健_壬、神經學檢查"
+raw_source_file: "raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_壬、神經學檢查.md"
+page_start: 197
+page_end: 206
+canonical_citation: "醫(六)第3冊復健_壬、神經學檢查 Page 197-206"
 book: 醫(六)第3冊復健
 chapter_order: 9
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第3冊復健
 - Chapter file: `raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_壬、神經學檢查.md`
+- Pages covered: 197-206
+- Canonical citation: 醫(六)第3冊復健_壬、神經學檢查 Page 197-206
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

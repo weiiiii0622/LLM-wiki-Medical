@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- A. 產婦胎兒生理學 (Maternal-fetal physiology) 4 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ### A. 產婦胎兒生理學 (Maternal-fetal physiology) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- b. 血管阻力及血壓:受到懷孕內分泌變化的影響,造成血管擴張,周邊的血管阻力下降(包括肺部和腎臟),因而血壓也下降;不過,血壓到第三孕程會慢慢回升至懷孕前的狀態。 - ※ Supine hypotension syndrome: 妊娠 20 週後,子宮大到超出骨盆腔,來到腹腔,當孕婦平躺時,增大的子宮會壓迫 IVC,造成 preload ↓→ CO ↓→ hypotension → reflex autonomic activation,導致頭暈、嘔吐、手腳麻木、冒冷汗等症狀。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- A. 產婦胎兒生理學 (Maternal-fetal physiology) 4 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ### A. 產婦胎兒生理學 (Maternal-fetal physiology) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- b. 血管阻力及血壓:受到懷孕內分泌變化的影響,造成血管擴張,周邊的血管阻力下降(包括肺部和腎臟),因而血壓也下降;不過,血壓到第三孕程會慢慢回升至懷孕前的狀態。 - ※ Supine hypotension syndrome: 妊娠 20 週後,子宮大到超出骨盆腔,來到腹腔,當孕婦平躺時,增大的子宮會壓迫 IVC,造成 preload ↓→ CO ↓→ hypotension → reflex autonomic activation,導致頭暈、嘔吐、手腳麻木、冒冷汗等症狀。 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
 
 ## Clinical Caveats
 

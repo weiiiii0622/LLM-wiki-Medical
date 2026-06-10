@@ -95,24 +95,24 @@ tags:
 
 ## Key Details From Sources
 
-- ...complete UMN:78~84%、Complete LMN:0%;女性:約50%可達到性高潮,但受傷高度在S3-5屬LMN的較困難。) - e. 男性脊髓損傷患者,其生育力除了受勃起障礙和射精障礙影響外,也受精液的質變差和量下降、反覆泌尿道感染、睪丸過熱等因素影響。 - f. 女性患者之生育力: Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- (b) 女性脊髓損傷患者,其懷孕後以下併發症機率增加: - i. 早產。 - ii. 自主神經反射異常。 - iii. 泌尿道感染。 - iv. 便秘。 - v. 血管栓塞。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- # 丁、泌尿道感染(Urinary Tract Infection) Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
-- ### 丁、泌尿道感染 (Urinary Tract Infection) Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
-- 1. 定義:泌尿道感染包含下泌尿道感染-膀胱炎(cystitis)及上泌尿道感染-腎盂腎炎(pyelonephritis)。依病情的複雜度可分為: Source: [[sources/med6-book1-ch15|丁、泌尿道感染(Urinary Tract Infection)]].
-- # 戊、間質性膀胱炎(Interstitial Cystitis) Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
-- ### 戊、間質性膀胱炎 (Interstitial Cystitis) Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
-- ...悅感(疼痛、壓迫、不 | |------|-------------------------------------------------| | | 適)合併下泌尿道症狀,持續超過六週,沒有發現感染或其他成因 | | 命名 | · 間質性膀胱炎 (Interstitial cystitis): 無明確成因的慢性膀胱疼痛過 | | | 去稱之,但此為命名錯誤,因為既沒有證據顯示膀胱發炎是成因, | | | 也沒有證據顯示此症狀和膀胱間質異常有關,不過,此命名行之多 | | | 年,仍被沿用 | | | ・膀胱疼痛症候群 (bladder pain syndrome):較吻合臨床表現的新命名 | | 相關疾病 | ·可能合併其他慢性疼痛症候群(如:irritable bowel Source: [[sources/med6-book1-ch16|戊、間質性膀胱炎(Interstitial Cystitis)]].
-- ...後 2~3 天發生 breast fever,可能造成短暫發燒。 | | | • 腹部傷口 | 剖腹產傷口感染通常出現在產後 4~7 天。 | | | • 細菌性乳房炎 | 晚發生(產後1週以後),金黃葡萄球菌感染最常見。 | | | • 泌尿道感染 | 產褥熱最常見原因,可能併發腎盂腎炎。 | | | • 血栓靜脈炎 | 腿部疼痛腫脹,體溫微升。 | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- 【詳解】(A)產褥熱的定義為產後24小時到10天的期間,1天量測4次體溫,其中任2天體溫大於38℃。而最常見原因是泌尿道感染。(B)生殖道感染引起的產褥熱,最重要的危險因子為剖腹產,尤其是產程開始之後的剖腹產,發生率為11~28%(未使用抗生素),自然產僅3%。(C)產褥熱在低社經地位者發生率較高。(D)因子宮內膜炎的表現和產後的不適相似,故診斷採排除法,即診斷為產褥熱的病患排除其他原因後,應懷疑為子宮內膜炎。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- 【詳解】產後第3天開始有發燒現象為產褥熱,其原因可分生殖道(會陰傷口、子宮內膜炎和骨盆腔感染等)與非生殖道(呼吸道、脹奶和泌尿道感染等),最常見的原因為泌尿道感染,而身體檢查無異常發現(排除產道和乳房因素),因此可優先進行(A) urinalysis and urine culture 來排除泌尿道感染。 Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- ...蛋白 | | 輸尿管 | • 黃體素使得輸尿管的蠕動減少,加上增大的子宮和支持韌帶之 | | | 壓迫,造成尿液的滯留、甚至逆流,導致腎盂及輸尿管擴大, | | | 形成 hydro-nephrosis 及 hydroureter,容易引起泌尿道感染 | | 膀胱 | • 黃體素使得膀胱輸尿管瓣膜的功能不全,加上膀胱壓增加,造 | | | 成間歇性膀胱輸尿管逆流 (vesicoureteral reflux) | | | • 懷孕子宮擴大會壓迫膀胱,膀胱容積減少,造成頻尿及急尿等 | | | 症狀 | | 尿道 | • 黃體素使得尿道的支持韌帶及括約肌鬆弛,導致尿道壓下降, | | | 容易引起尿失禁 | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (3) 手術:用在有手術適應症的病人。 - a. 適應症: - (a) 絕對適應症: - i. 反覆尿滯留、且藥物治療無效、且至少一次嘗試移除尿管失敗,膀胱功能退化。 - ii. 反覆血尿 (recurrent gross hematuria)。 - iii. 反覆泌尿道感染(recurrent urinary tract infection)。 - iv. 腎功能不佳或水腎 (renal insufficiency or hydronephrosis)。 - v. 膀胱結石或大的憩室(bladder stones or large bladder diverticula)。 - (b) 相對適應症:下泌尿道症狀以藥物控制(3個月)不佳。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- 【詳解】急性期應視為 UTI 的一環,取中段尿做培養。避免按 摩造成菌血症。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- 【詳解】絕對適應症包括:反覆尿滯留、且藥物治療無效、且 至少一次嘗試移除尿管失敗。反覆血尿。反覆泌尿道感染。腎 功能不佳或水腎。膀胱結石或大的憩室。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (1) 急性腎盂腎炎 (acute pyelonephritis, APN): - a. 病理:定義為腎盂或腎盂發炎,常以臨床表徵診斷。 - b. 好發於:有尿路感染(UTI)家族史、糖尿病、尿路阻塞、泌尿道異常、尿失禁、 性生活活躍之女性。 - c. 菌種: 80% 是大腸桿菌(E.coli)。 - d. 臨床表徵: - (a) 症狀:包括發燒、畏寒、肋脊角敲痛。常伴隨下泌尿道症狀(尿痛、頻尿、 急尿)。25% 人會有全身性敗血症。 - (b) 實驗室檢 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (2) 慢性腎盂腎炎 (chronic pyelonephritis): - a. 病理:是反覆感染導致腎損傷,會產生疤痕、腎萎縮、腎功能不全。需由影像或病理檢查診斷,而不是依據臨床表現下診斷。 - b. 好發於: 反覆 UTI 的兒童。成人少見,因為腎臟已發育完全不易損傷。 - c. 菌種:不一定有存在的感染,而是腎臟已產生損傷。 - d. 臨床表徵: - (a) 症狀:大多無直接症狀。常因其導致的併發症經進一步檢查後發現,如 腎功能不全、高血壓、視覺衰 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- ...complete UMN:78~84%、Complete LMN:0%;女性:約50%可達到性高潮,但受傷高度在S3-5屬LMN的較困難。) - e. 男性脊髓損傷患者,其生育力除了受勃起障礙和射精障礙影響外,也受精液的質變差和量下降、反覆泌尿道感染、睪丸過熱等因素影響。 - f. 女性患者之生育力: Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- (b) 女性脊髓損傷患者,其懷孕後以下併發症機率增加: - i. 早產。 - ii. 自主神經反射異常。 - iii. 泌尿道感染。 - iv. 便秘。 - v. 血管栓塞。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- # 丁、泌尿道感染(Urinary Tract Infection) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection) Page 445-448.
+- ### 丁、泌尿道感染 (Urinary Tract Infection) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection) Page 445-448.
+- 1. 定義:泌尿道感染包含下泌尿道感染-膀胱炎(cystitis)及上泌尿道感染-腎盂腎炎(pyelonephritis)。依病情的複雜度可分為: Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection) Page 445-448.
+- # 戊、間質性膀胱炎(Interstitial Cystitis) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_戊、間質性膀胱炎(Interstitial Cystitis) Page 449-456.
+- ### 戊、間質性膀胱炎 (Interstitial Cystitis) Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_戊、間質性膀胱炎(Interstitial Cystitis) Page 449-456.
+- ...悅感(疼痛、壓迫、不 | |------|-------------------------------------------------| | | 適)合併下泌尿道症狀,持續超過六週,沒有發現感染或其他成因 | | 命名 | · 間質性膀胱炎 (Interstitial cystitis): 無明確成因的慢性膀胱疼痛過 | | | 去稱之,但此為命名錯誤,因為既沒有證據顯示膀胱發炎是成因, | | | 也沒有證據顯示此症狀和膀胱間質異常有關,不過,此命名行之多 | | | 年,仍被沿用 | | | ・膀胱疼痛症候群 (bladder pain syndrome):較吻合臨床表現的新命名 | | 相關疾病 | ·可能合併其他慢性疼痛症候群(如:irritable bowel Source: 醫(六)第1冊婦產_第四篇、婦女泌尿_戊、間質性膀胱炎(Interstitial Cystitis) Page 449-456.
+- ...後 2~3 天發生 breast fever,可能造成短暫發燒。 | | | • 腹部傷口 | 剖腹產傷口感染通常出現在產後 4~7 天。 | | | • 細菌性乳房炎 | 晚發生(產後1週以後),金黃葡萄球菌感染最常見。 | | | • 泌尿道感染 | 產褥熱最常見原因,可能併發腎盂腎炎。 | | | • 血栓靜脈炎 | 腿部疼痛腫脹,體溫微升。 | Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- 【詳解】(A)產褥熱的定義為產後24小時到10天的期間,1天量測4次體溫,其中任2天體溫大於38℃。而最常見原因是泌尿道感染。(B)生殖道感染引起的產褥熱,最重要的危險因子為剖腹產,尤其是產程開始之後的剖腹產,發生率為11~28%(未使用抗生素),自然產僅3%。(C)產褥熱在低社經地位者發生率較高。(D)因子宮內膜炎的表現和產後的不適相似,故診斷採排除法,即診斷為產褥熱的病患排除其他原因後,應懷疑為子宮內膜炎。 Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- 【詳解】產後第3天開始有發燒現象為產褥熱,其原因可分生殖道(會陰傷口、子宮內膜炎和骨盆腔感染等)與非生殖道(呼吸道、脹奶和泌尿道感染等),最常見的原因為泌尿道感染,而身體檢查無異常發現(排除產道和乳房因素),因此可優先進行(A) urinalysis and urine culture 來排除泌尿道感染。 Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- ...蛋白 | | 輸尿管 | • 黃體素使得輸尿管的蠕動減少,加上增大的子宮和支持韌帶之 | | | 壓迫,造成尿液的滯留、甚至逆流,導致腎盂及輸尿管擴大, | | | 形成 hydro-nephrosis 及 hydroureter,容易引起泌尿道感染 | | 膀胱 | • 黃體素使得膀胱輸尿管瓣膜的功能不全,加上膀胱壓增加,造 | | | 成間歇性膀胱輸尿管逆流 (vesicoureteral reflux) | | | • 懷孕子宮擴大會壓迫膀胱,膀胱容積減少,造成頻尿及急尿等 | | | 症狀 | | 尿道 | • 黃體素使得尿道的支持韌帶及括約肌鬆弛,導致尿道壓下降, | | | 容易引起尿失禁 | Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- (3) 手術:用在有手術適應症的病人。 - a. 適應症: - (a) 絕對適應症: - i. 反覆尿滯留、且藥物治療無效、且至少一次嘗試移除尿管失敗,膀胱功能退化。 - ii. 反覆血尿 (recurrent gross hematuria)。 - iii. 反覆泌尿道感染(recurrent urinary tract infection)。 - iv. 腎功能不佳或水腎 (renal insufficiency or hydronephrosis)。 - v. 膀胱結石或大的憩室(bladder stones or large bladder diverticula)。 - (b) 相對適應症:下泌尿道症狀以藥物控制(3個月)不佳。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- 【詳解】急性期應視為 UTI 的一環,取中段尿做培養。避免按 摩造成菌血症。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- 【詳解】絕對適應症包括:反覆尿滯留、且藥物治療無效、且 至少一次嘗試移除尿管失敗。反覆血尿。反覆泌尿道感染。腎 功能不佳或水腎。膀胱結石或大的憩室。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- (1) 急性腎盂腎炎 (acute pyelonephritis, APN): - a. 病理:定義為腎盂或腎盂發炎,常以臨床表徵診斷。 - b. 好發於:有尿路感染(UTI)家族史、糖尿病、尿路阻塞、泌尿道異常、尿失禁、 性生活活躍之女性。 - c. 菌種: 80% 是大腸桿菌(E.coli)。 - d. 臨床表徵: - (a) 症狀:包括發燒、畏寒、肋脊角敲痛。常伴隨下泌尿道症狀(尿痛、頻尿、 急尿)。25% 人會有全身性敗血症。 - (b) 實驗室檢 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (2) 慢性腎盂腎炎 (chronic pyelonephritis): - a. 病理:是反覆感染導致腎損傷,會產生疤痕、腎萎縮、腎功能不全。需由影像或病理檢查診斷,而不是依據臨床表現下診斷。 - b. 好發於: 反覆 UTI 的兒童。成人少見,因為腎臟已發育完全不易損傷。 - c. 菌種:不一定有存在的感染,而是腎臟已產生損傷。 - d. 臨床表徵: - (a) 症狀:大多無直接症狀。常因其導致的併發症經進一步檢查後發現,如 腎功能不全、高血壓、視覺衰 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (3) 產氣性腎盂腎炎 (emphysematous pyelonephritis): - a. 病理:是一種壞死性感染,伴隨在腎實質或腎周圍組織有氣體。死亡率高達 30%。死亡危險因子包括 creatinine 升高、血小板 - 下降。 - b. 85% 人有糖尿病,15% 人存在泌尿系統阻塞問題。 - c. 菌種:E. coli、Klebsiella pneumoniae 或 Enterobacter cloacae。 - d. 臨床表徵: - (a) 症狀:發燒、腰痛、嘔吐、抗生素治療無效、 尿中有氣泡。 - (b) 實驗室檢查: 尿中有 WBC; 血中 WBC、血糖、creatinine 升高。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
 
 ## Clinical Caveats
 

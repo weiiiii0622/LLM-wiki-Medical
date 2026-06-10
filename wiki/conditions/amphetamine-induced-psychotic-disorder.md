@@ -27,9 +27,9 @@ stimulant 使用後出現妄想、幻覺或激動，臨床需與 schizophrenia�
 
 ## Key Details From Sources
 
-- #### 安非他命引起的精神疾病 (Amphetamine-induced psychotic disorder) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 安非他命引起的精神疾病表現類似妄想型精神分裂症(paranoid schizophrenia),主要症狀是病人有被害妄想(paranoia)。但是安非他命引起的精神症狀和精神分裂症還是有些不同的地方表現不同,例如安非他命引起的精神症狀主要是視幻覺、病人也較有適當的情感表現(appropriate affect)、活動過度、性慾強、意識混亂、答非所問、且較少表現思考方面的障礙,情感表現比較豐富,比較不會表現表情平淡或不語等負性症狀。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- 【詳解】安非他命引起的精神症狀主要是視幻覺、病人也較有 適當的情感表現(appropriate affect)、活動過度、性慾強、意 識混亂、答非所問、且較少表現思考方面的障礙,情感表現比 較豐富,比較不會表現表情平淡或不語等負性症狀。 Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- #### 安非他命引起的精神疾病 (Amphetamine-induced psychotic disorder) Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- 安非他命引起的精神疾病表現類似妄想型精神分裂症(paranoid schizophrenia),主要症狀是病人有被害妄想(paranoia)。但是安非他命引起的精神症狀和精神分裂症還是有些不同的地方表現不同,例如安非他命引起的精神症狀主要是視幻覺、病人也較有適當的情感表現(appropriate affect)、活動過度、性慾強、意識混亂、答非所問、且較少表現思考方面的障礙,情感表現比較豐富,比較不會表現表情平淡或不語等負性症狀。 Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- 【詳解】安非他命引起的精神症狀主要是視幻覺、病人也較有 適當的情感表現(appropriate affect)、活動過度、性慾強、意 識混亂、答非所問、且較少表現思考方面的障礙,情感表現比 較豐富,比較不會表現表情平淡或不語等負性症狀。 Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
 
 ## Clinical Caveats
 

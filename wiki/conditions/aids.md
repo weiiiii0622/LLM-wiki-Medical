@@ -69,24 +69,24 @@ HIV 感染進展至 CD4 < 200 或出現 AIDS-defining condition。 本頁已整�
 
 ## Key Details From Sources
 
-- 分成非侵犯性與侵犯性黴菌性鼻竇炎。侵犯性黴菌性鼻竇炎幾乎都發生在免疫低下者,如糖尿病、白血病、洗腎、化療、移植後服用免疫抑制劑、後天免疫缺乏症候群等病人;非侵犯性黴菌性鼻竇炎好發於免疫功能正常者。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- B. 後天免疫不全症候群(Acquired immunodeficiency syndrome) *210* Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
-- #### B. 後天免疫不全症候群 (Acquired immunodeficiency syndrome) Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
-- (4) 接觸性軟疣性結膜炎(Molluscum contagiosum conjunctivitis):多發生在年輕人 或 AIDS 病人。病灶在眼瞼邊緣呈現白、肚臍狀小結節。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
-- 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: [[sources/med6-book2-ch07|庚、葡萄膜]].
-- 8. 人類後天免疫不全病毒(HIV): - (1) 傳染方式:透過性交、使用感染針具、注射或移植受感染的血品或器官,以及母子垂直傳染; Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: [[sources/med5-book5-ch06|己、泌尿道細菌感染]].
-- Reference: Grulich AE, van Leeuwen MT, Falster MO, Vajdic CM. Incidence of cancers in people with HIV/AIDS compared with immunosuppressed transplant recipients: A meta-analysis. *Lancet* 2007; 370(9581): 59-67. Source: [[sources/med5-book4-ch03|丙、肺]].
-- ...病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成肝膿瘍。 Source: [[sources/med5-book3-ch09|乙、肝膿瘍]].
-- ...| | 蛋白 | | | (#) | 8. 下列有關神經性梅毒(neurosyphilis)之敘述,何者錯誤? | 106(二)專 | | | (A) 10% 沒有接受治療的早期梅毒的患者會罹病 | 醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性反應有助於診斷 | | | | (D)治療方法為經肌肉注射盤尼西林(penicillin)每週一次共三次 | | | | 【詳解】本題答 (A)、(D) 給分。 | | | (D) | 9. 變異型庫賈氏病(variant Creutzfeldt-Jakob disease, vCJD)和散發 | 106(一)專 Source: [[sources/med4-book4-ch04|丁、中樞神經感染]].
-- (1) 可能因全身性疾病(systemic illness)導致去髓鞘(demyelination),常發生於白血病、惡性淋巴病及後天免疫缺乏症候群的患者。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 2. 20% 燙傷病人, 30% 的 AIDS 病人, 90% 的心臟手術後 (postcardiotomy) 病人。 Source: [[sources/med4-book3-ch06|己、老年精神醫學]].
-- 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- (4) Immunosuppression:器官移植服用免疫抑制劑或 AIDS。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 5. KS 臨床表現,目前分為四型,包括: - (1) 典型:好發於老年、東歐男性,好發自下肢形成暗紅凸起斑塊或結節,再逐漸往上擴張,伴隨下肢淋巴水腫。 - (2) 地域型(Endemic):見於赤道非洲,好發兩個雙峰:大人(平均35歲)及小孩(平均3歲)。病灶較廣泛,也常侵犯內臟,若侵犯內臟,相當致命。 - (3) 因化學療法或器官移植而致免疫力低落者:少見,主要見於 solid-organ 移植並長期服用免疫抑制劑者,停止服用免疫抑制劑可以使症狀緩解。 - (4) 後天免疫不全症候群(AIDS) 相關型: 見於 AIDS 患者,此類 KS 幾乎只發生 在男同性戀者,主要分布在臉上,然後蔓延至驅幹。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (2) 典型 KS 對於放射治療效果較好;地域性 KS 對化療反應最好;因免疫抑制所引發 KS 者,停藥後常會自癒,也可嘗試換藥,如以 sirolimus 取代 cyclosporin 及 tacrolimus。AIDS 患者接受正統抗病毒治療即有療效,或使用干擾素及介白質治療,也可暫時改善。其他局部療法例如液態氮冷凍療法、雷射、電燒、光動力療法也都可。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- (C) 12. 一位 28 歲 AIDS 患者,主訴為大腿內側突然出現數顆 $2\sim4$ mm 的 102( = ) 專 丘疹,其中心具有 umbilication 的現象。其皮膚切片如圖示,最 醫四 -37 可能的診斷是: Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- 分成非侵犯性與侵犯性黴菌性鼻竇炎。侵犯性黴菌性鼻竇炎幾乎都發生在免疫低下者,如糖尿病、白血病、洗腎、化療、移植後服用免疫抑制劑、後天免疫缺乏症候群等病人;非侵犯性黴菌性鼻竇炎好發於免疫功能正常者。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- B. 後天免疫不全症候群(Acquired immunodeficiency syndrome) *210* Source: 醫(六)第2冊眼科_第一篇、眼科_未、系統性疾病在眼睛的表現 Page 225-232.
+- #### B. 後天免疫不全症候群 (Acquired immunodeficiency syndrome) Source: 醫(六)第2冊眼科_第一篇、眼科_未、系統性疾病在眼睛的表現 Page 225-232.
+- (4) 接觸性軟疣性結膜炎(Molluscum contagiosum conjunctivitis):多發生在年輕人 或 AIDS 病人。病灶在眼瞼邊緣呈現白、肚臍狀小結節。 Source: 醫(六)第2冊眼科_第一篇、眼科_丁、結膜 Page 43-52.
+- 2. 與感染相關的葡萄膜炎: - (1) 病毒性葡萄膜炎:帶狀皰疹感染、巨細胞病毒(CMV)感染(多發生在免疫低下者,如 AIDS 病患,眼底可見黃白色斑塊狀視網膜病灶伴隨出血。)、先天性德國麻疹感染。 - (2) 細菌性葡萄膜炎:結核菌、痲瘋、梅毒等。 - (3) 黴菌性葡萄膜炎:以白色念珠菌(Candida albicans) 最常見。 - (4) 寄生蟲性葡萄膜炎:弓漿蟲(Toxoplasma)、犬蛔蟲。 Source: 醫(六)第2冊眼科_第一篇、眼科_庚、葡萄膜 Page 77-84.
+- 8. 人類後天免疫不全病毒(HIV): - (1) 傳染方式:透過性交、使用感染針具、注射或移植受感染的血品或器官,以及母子垂直傳染; Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- (2) 人類後天免疫缺乏症候群(AIDS): 病毒感染 CD4-T 淋巴細胞,逐漸摧毀免疫系統,使病人容易感染 TB、黴菌和伺機性病原體(PCP 和弓漿蟲等),從感染→空床期→血清陽轉→無症狀到 AIDS 發病,進程時間不一定(中位數約 10年),可藉由 CD-4 淋巴球數和病毒量監測疾病和治療成效。 Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- 2. 泌尿系統常用抗生素簡介(臨床常用): - (1) Trimethoprim-sulfamethoxazole = TMP-SMX (Baktar®) - a. 優點:廣泛使用於泌尿道感染,特別是 uncomplicated UTI,效果佳且價格便宜。 - b. 缺點:對 Pseudomonas 和 Enterococcus 無效。注意近年來由於抗藥性的產生 使得臨床使用率下降。 - c. 機轉:干擾細菌葉酸的代謝。 - d. 禁忌:不可用於孕婦(傷害胎兒肝臟),folate deficiency、G6PD deficiency、AIDS 的病人。 Source: 醫(五)第5冊泌尿_己、泌尿道細菌感染 Page 133-140.
+- Reference: Grulich AE, van Leeuwen MT, Falster MO, Vajdic CM. Incidence of cancers in people with HIV/AIDS compared with immunosuppressed transplant recipients: A meta-analysis. *Lancet* 2007; 370(9581): 59-67. Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- ...病原都有機會經由肝門靜脈進入至肝臟, 常見疾病如憩室炎、闌尾炎、胰臟炎、骨盆腔感染等。 - (3) 肝動脈:其他系統性疾病如肺炎、骨髓炎、心內膜炎可能造成菌血症,經由肝動脈進入肝臟,形成肝膿瘍。而這些病人通常都伴隨有免疫力低下的情況如癌症、AIDS等。 - (4) 肝臟外傷:當肝臟有外傷,可能會形成 hepatic hematoma 或 necrotic liver, 進而 導致致病菌的感染,形成肝膿瘍。 - (5) 醫源性感染:腹腔手術、肝臟手術、動脈栓塞治療等,都有可能將致病菌帶進 肝臟,形成肝膿瘍。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_乙、肝膿瘍 Page 105-110.
+- ...| | 蛋白 | | | (#) | 8. 下列有關神經性梅毒(neurosyphilis)之敘述,何者錯誤? | 106(二)專 | | | (A) 10% 沒有接受治療的早期梅毒的患者會罹病 | 醫四 -58 | | | (B) 因為 AIDS 的盛行,神經性梅毒的發生率增高 | | | | (C) 腦脊髓液的螺旋菌抗體(treponemal antibody)陽性反應有助於診斷 | | | | (D)治療方法為經肌肉注射盤尼西林(penicillin)每週一次共三次 | | | | 【詳解】本題答 (A)、(D) 給分。 | | | (D) | 9. 變異型庫賈氏病(variant Creutzfeldt-Jakob disease, vCJD)和散發 | 106(一)專 Source: 醫(四)第4冊神內_丁、中樞神經感染 Page 81-92.
+- (1) 可能因全身性疾病(systemic illness)導致去髓鞘(demyelination),常發生於白血病、惡性淋巴病及後天免疫缺乏症候群的患者。 Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- 2. 20% 燙傷病人, 30% 的 AIDS 病人, 90% 的心臟手術後 (postcardiotomy) 病人。 Source: 醫(四)第3冊精神科_己、老年精神醫學 Page 145-160.
+- 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
+- (4) Immunosuppression:器官移植服用免疫抑制劑或 AIDS。 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- 5. KS 臨床表現,目前分為四型,包括: - (1) 典型:好發於老年、東歐男性,好發自下肢形成暗紅凸起斑塊或結節,再逐漸往上擴張,伴隨下肢淋巴水腫。 - (2) 地域型(Endemic):見於赤道非洲,好發兩個雙峰:大人(平均35歲)及小孩(平均3歲)。病灶較廣泛,也常侵犯內臟,若侵犯內臟,相當致命。 - (3) 因化學療法或器官移植而致免疫力低落者:少見,主要見於 solid-organ 移植並長期服用免疫抑制劑者,停止服用免疫抑制劑可以使症狀緩解。 - (4) 後天免疫不全症候群(AIDS) 相關型: 見於 AIDS 患者,此類 KS 幾乎只發生 在男同性戀者,主要分布在臉上,然後蔓延至驅幹。 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- (2) 典型 KS 對於放射治療效果較好;地域性 KS 對化療反應最好;因免疫抑制所引發 KS 者,停藥後常會自癒,也可嘗試換藥,如以 sirolimus 取代 cyclosporin 及 tacrolimus。AIDS 患者接受正統抗病毒治療即有療效,或使用干擾素及介白質治療,也可暫時改善。其他局部療法例如液態氮冷凍療法、雷射、電燒、光動力療法也都可。 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- (C) 12. 一位 28 歲 AIDS 患者,主訴為大腿內側突然出現數顆 $2\sim4$ mm 的 102( = ) 專 丘疹,其中心具有 umbilication 的現象。其皮膚切片如圖示,最 醫四 -37 可能的診斷是: Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

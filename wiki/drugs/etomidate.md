@@ -31,10 +31,10 @@ Etomidate 對血流動力學影響較小，適合不穩定病人誘導，但會�
 
 ## Key Details From Sources
 
-- | Agent | 血壓 (BP) | 心跳 (HR) | 心輸出量 (CO) | Contractility | |------------|------------|----------|-----------|---------------| | Propofol | ↓ ↓ | 1 | ↓ ↓ | ↓ ↓ | | Thiopental | 1 1 | 0/ ↑ | ↓ ↓ | ↓ | | Etomidate | 0/ ↓ | 0 | 0 | 0 | | Ketamine | 1 | 1 | 1 | 0/ ↓ | Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
-- ...| $\downarrow$ | | Ketamine | ↑ ↑ | ↑ ↑ | \ | $\uparrow$ $\uparrow$ $\uparrow$ | 1 1 1 | $\uparrow\uparrow\uparrow$ | | Etomidate | 0 | ↓ | \ | 0 | + + + | $\downarrow$ $\downarrow$ $\downarrow$ | | Propofol | 0 | ↓ ↓ ↓ | ↓ ↓ ↓ | 0 | ↓ ↓ ↓ | $\downarrow$ $\downarrow$ $\downarrow$ | Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
-- ...Atropine:增加心跳、減少口水分泌。 - c. Fentanyl:減少插管時的疼痛感。 - (4) Paralysis:給予睡著的藥物(擇一)和肌肉鬆弛藥物(擇一) - a. Propofol (1~2.5 mg/kg) - b. Etomidate $(0.2\sim0.4 \text{ mg/kg})$ - c. Midazolam (0.1~0.3 mg/kg) - d. Ketamine (1.5 mg/kg) - e. Succinylcholine (1~1.5 mg/kg) • - f. Rocuronium $(0.6\sim1.2 \text{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
-- 4. 非誘發藥物(nontriggering drugs): N2O、narcotics、local anesthesia、非去級化肌肉 鬆弛劑、靜脈誘導藥物(propofol, ketamine, etomidate, barbiturate)。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- | Agent | 血壓 (BP) | 心跳 (HR) | 心輸出量 (CO) | Contractility | |------------|------------|----------|-----------|---------------| | Propofol | ↓ ↓ | 1 | ↓ ↓ | ↓ ↓ | | Thiopental | 1 1 | 0/ ↑ | ↓ ↓ | ↓ | | Etomidate | 0/ ↓ | 0 | 0 | 0 | | Ketamine | 1 | 1 | 1 | 0/ ↓ | Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
+- ...| $\downarrow$ | | Ketamine | ↑ ↑ | ↑ ↑ | \ | $\uparrow$ $\uparrow$ $\uparrow$ | 1 1 1 | $\uparrow\uparrow\uparrow$ | | Etomidate | 0 | ↓ | \ | 0 | + + + | $\downarrow$ $\downarrow$ $\downarrow$ | | Propofol | 0 | ↓ ↓ ↓ | ↓ ↓ ↓ | 0 | ↓ ↓ ↓ | $\downarrow$ $\downarrow$ $\downarrow$ | Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
+- ...Atropine:增加心跳、減少口水分泌。 - c. Fentanyl:減少插管時的疼痛感。 - (4) Paralysis:給予睡著的藥物(擇一)和肌肉鬆弛藥物(擇一) - a. Propofol (1~2.5 mg/kg) - b. Etomidate $(0.2\sim0.4 \text{ mg/kg})$ - c. Midazolam (0.1~0.3 mg/kg) - d. Ketamine (1.5 mg/kg) - e. Succinylcholine (1~1.5 mg/kg) • - f. Rocuronium $(0.6\sim1.2 \text{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
+- 4. 非誘發藥物(nontriggering drugs): N2O、narcotics、local anesthesia、非去級化肌肉 鬆弛劑、靜脈誘導藥物(propofol, ketamine, etomidate, barbiturate)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
 
 ## Clinical Caveats
 

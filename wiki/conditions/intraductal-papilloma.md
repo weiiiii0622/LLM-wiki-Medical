@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- #### E. 乳管內乳頭瘤 (Intraductal papilloma) Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- 【詳解】(B) 這個症狀應該是要考良性乳管內乳突瘤(intraductal papilloma),必須以手術移除 papilloma。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- (C) 最可能是良性乳管內乳突瘤(intraductal papilloma) Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- 8. 過去曾有乳房腫瘤病史: - (1) 若為 adenosis、cyst、fibroadenoma 並不會增加罹癌機率。 - (2) 若為 intraductal papilloma 則罹癌機率上昇。 - (3) 若為 atypical ductal hyperplasia、atypical lobular hyperplasia,則罹癌機率上昇四到五倍。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- #### E. 乳管內乳頭瘤 (Intraductal papilloma) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- 【詳解】(B) 這個症狀應該是要考良性乳管內乳突瘤(intraductal papilloma),必須以手術移除 papilloma。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- (C) 最可能是良性乳管內乳突瘤(intraductal papilloma) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- 8. 過去曾有乳房腫瘤病史: - (1) 若為 adenosis、cyst、fibroadenoma 並不會增加罹癌機率。 - (2) 若為 intraductal papilloma 則罹癌機率上昇。 - (3) 若為 atypical ductal hyperplasia、atypical lobular hyperplasia,則罹癌機率上昇四到五倍。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
 
 ## Clinical Caveats
 

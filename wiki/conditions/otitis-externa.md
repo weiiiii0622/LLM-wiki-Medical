@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### C. 外耳炎 (Otitis externa) Source: [[sources/med6-book4-ch11|甲、耳科]].
-- 外耳炎,又稱游泳耳(swimmer's ear),是一種外耳道的發炎。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- (3) 壞死性外耳炎 (necrotizing external otitis): - a. 壞死性外耳炎是較嚴重的併發症,由外耳炎持續的感染,繼續侵犯至顱底的 軟組織與骨頭,甚至有可能造成腦膜炎以及顱內膿瘍。 - b. 好發於年紀較大的患者、糖尿病患者、免疫不全的患者。 - c. 大部分的致病菌為 Pseudomonas aeruginosa, 需使用涵蓋 Pseudomonas aeruginosa 的抗生素做感染控制。 - d. 安排進一步的腦部影像學的檢查如 CT 或 MRI, 以觀察顱內侵犯的範圍。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- #### C. 外耳炎 (Otitis externa) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- 外耳炎,又稱游泳耳(swimmer's ear),是一種外耳道的發炎。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- (3) 壞死性外耳炎 (necrotizing external otitis): - a. 壞死性外耳炎是較嚴重的併發症,由外耳炎持續的感染,繼續侵犯至顱底的 軟組織與骨頭,甚至有可能造成腦膜炎以及顱內膿瘍。 - b. 好發於年紀較大的患者、糖尿病患者、免疫不全的患者。 - c. 大部分的致病菌為 Pseudomonas aeruginosa, 需使用涵蓋 Pseudomonas aeruginosa 的抗生素做感染控制。 - d. 安排進一步的腦部影像學的檢查如 CT 或 MRI, 以觀察顱內侵犯的範圍。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 腎臟實質腫瘤 (renal parenchymal neoplasm): - a. 良性腫瘤 (benign): - (a) 嗜酸細胞瘤 (oncocytoma) (占所有腎腫瘤 4%)。 - (b) 血管肌肉脂肪瘤(angiomyolipoma, AML)=畸形瘤(hamartoma)。 - b. 惡性腫瘤 (malignant): - (a) 腎細胞癌 (RCC): 85%。 - (b) 轉移癌 (secondary tumor): 15%。 - (c) 兒童 Wilms' tumor。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (C) renal urothelial cell carcinoma (D) renal angiomyolipoma 【詳解】右側腎盂見 filling defect。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (C) renal angiomyolipoma Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- (1) 腎臟實質腫瘤 (renal parenchymal neoplasm): - a. 良性腫瘤 (benign): - (a) 嗜酸細胞瘤 (oncocytoma) (占所有腎腫瘤 4%)。 - (b) 血管肌肉脂肪瘤(angiomyolipoma, AML)=畸形瘤(hamartoma)。 - b. 惡性腫瘤 (malignant): - (a) 腎細胞癌 (RCC): 85%。 - (b) 轉移癌 (secondary tumor): 15%。 - (c) 兒童 Wilms' tumor。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (C) renal urothelial cell carcinoma (D) renal angiomyolipoma 【詳解】右側腎盂見 filling defect。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (C) renal angiomyolipoma Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
 
 ## Clinical Caveats
 

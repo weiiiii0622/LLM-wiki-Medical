@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_戊、其他(Others).md
+raw_source_title: "醫(六)第1冊婦產_第一篇、產科_戊、其他(Others)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_戊、其他(Others).md"
+page_start: 163
+page_end: 170
+canonical_citation: "醫(六)第1冊婦產_第一篇、產科_戊、其他(Others) Page 163-170"
 book: 醫(六)第1冊婦產
 chapter_order: 5
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_戊、其他(Others).md`
+- Pages covered: 163-170
+- Canonical citation: 醫(六)第1冊婦產_第一篇、產科_戊、其他(Others) Page 163-170
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

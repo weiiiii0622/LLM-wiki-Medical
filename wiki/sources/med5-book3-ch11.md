@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤.md
+raw_source_title: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤"
+raw_source_file: "raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤.md"
+page_start: 117
+page_end: 136
+canonical_citation: "醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤 Page 117-136"
 book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 chapter_order: 11
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第3冊腎外小腸外肝膽胰外乳外
 - Chapter file: `raw/books/md/醫(五)第3冊腎外小腸外肝膽胰外乳外/醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤.md`
+- Pages covered: 117-136
+- Canonical citation: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤 Page 117-136
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

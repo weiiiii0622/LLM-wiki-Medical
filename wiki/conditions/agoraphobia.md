@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 恐慌症(panic disorder)的終生盛行率為 $1.5\sim5\%$ ,恐慌發作(panic attack)的終生盛行率為 $3\sim5.6\%$ ,出現懼曠症(agoraphobia)的終生盛行率為 $0.6\sim6\%$ 。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- #### (二) 懼曠發作(Agoraphobia) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- #### DSM-5 的診斷準則:特定場所畏懼症(Agoraphobia): Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
+- 1. 恐慌症(panic disorder)的終生盛行率為 $1.5\sim5\%$ ,恐慌發作(panic attack)的終生盛行率為 $3\sim5.6\%$ ,出現懼曠症(agoraphobia)的終生盛行率為 $0.6\sim6\%$ 。 Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- #### (二) 懼曠發作(Agoraphobia) Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- #### DSM-5 的診斷準則:特定場所畏懼症(Agoraphobia): Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
 
 ## Clinical Caveats
 

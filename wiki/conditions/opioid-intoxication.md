@@ -33,12 +33,12 @@ opioid 過量典型為意識下降、呼吸抑制與針尖瞳孔，屬高風險�
 
 ## Key Details From Sources
 
-- (4) 瞳孔:縮瞳 (Miosis)。 Source: [[sources/med6-book4-ch05|戊、靜脈麻醉劑]].
-- 3. 副作用:由於Cholinesterase inhibitors作用不僅只會增加N-M junction之中的Ach量,還會影響人體中以Ach 當傳導物質的神經節,主要有附交感神經節、汗腺、adrenal gland…等,所以可想而知使用這些藥物時會導致一些不想要的副作用出現,這也是為什麼麻醉科醫師使用這些藥物時又會加上 anticholinergic agent,讓副作用減低。(例如:atropine、glycopyrrolate、scopolamine) - (1) 噁心。 - (2) 心臟的 muscarinic effect:心跳速率下降。 - (3) Bronchospasm 及氣管分泌物變多。 - (4) Miosis • Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
-- (5) Pancoast's syndrome: 腫瘤位置在肺尖,會導致肩膀、手臂疼痛、霍納氏症 (Horner's syndrome:瞳孔縮小 (miosis)、眼瞼下垂 (ptosis)、半邊顏面無汗 (anhidrosis) 和眼球內陷 (enophthalmos)) 和尺神經麻痺等症狀,疼痛來自於 C8、T1 的神經根,侵犯交感神經導致霍納氏症,通常第 1、2、3 肋被侵犯,手 術時需切除,也可能侵犯到脊椎和椎間盤,故須仔細評估。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- #### 鴉片中毒 (Opioid intoxication) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- #### DSM-5 的診斷準則:鴉片中毒(Opioid intoxication) Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
-- ...甲醇 (D) 甲醛 | 108( 二 ) 專醫四 -66 | | (D) | 7. 下列何者少見於鴉片類物質過量(opioid overdose)? (A) 瞳孔縮小 (B) 反應變差(unresponsiveness) (C) 呼吸抑制(respiratory depression) (D) 體溫升高 【詳解】會出現發燒。 | 108(二)專醫四-68 | | (A) | 8. 對酒精相關疾患的描述,何者錯誤? (A) 酒精戒斷時會心跳變慢 (B) 酒精戒斷時會冒汗 (C) 長期使用酒精時會低血鈉 (D) 酒精戒斷時會誘發譫妄,是高風險病症 【詳解】(A) 心跳變慢。 | 108(二)專醫四-69 | Source: [[sources/med4-book3-ch05|戊、物質相關疾患]].
+- (4) 瞳孔:縮瞳 (Miosis)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_戊、靜脈麻醉劑 Page 59-72.
+- 3. 副作用:由於Cholinesterase inhibitors作用不僅只會增加N-M junction之中的Ach量,還會影響人體中以Ach 當傳導物質的神經節,主要有附交感神經節、汗腺、adrenal gland…等,所以可想而知使用這些藥物時會導致一些不想要的副作用出現,這也是為什麼麻醉科醫師使用這些藥物時又會加上 anticholinergic agent,讓副作用減低。(例如:atropine、glycopyrrolate、scopolamine) - (1) 噁心。 - (2) 心臟的 muscarinic effect:心跳速率下降。 - (3) Bronchospasm 及氣管分泌物變多。 - (4) Miosis • Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
+- (5) Pancoast's syndrome: 腫瘤位置在肺尖,會導致肩膀、手臂疼痛、霍納氏症 (Horner's syndrome:瞳孔縮小 (miosis)、眼瞼下垂 (ptosis)、半邊顏面無汗 (anhidrosis) 和眼球內陷 (enophthalmos)) 和尺神經麻痺等症狀,疼痛來自於 C8、T1 的神經根,侵犯交感神經導致霍納氏症,通常第 1、2、3 肋被侵犯,手 術時需切除,也可能侵犯到脊椎和椎間盤,故須仔細評估。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- #### 鴉片中毒 (Opioid intoxication) Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- #### DSM-5 的診斷準則:鴉片中毒(Opioid intoxication) Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
+- ...甲醇 (D) 甲醛 | 108( 二 ) 專醫四 -66 | | (D) | 7. 下列何者少見於鴉片類物質過量(opioid overdose)? (A) 瞳孔縮小 (B) 反應變差(unresponsiveness) (C) 呼吸抑制(respiratory depression) (D) 體溫升高 【詳解】會出現發燒。 | 108(二)專醫四-68 | | (A) | 8. 對酒精相關疾患的描述,何者錯誤? (A) 酒精戒斷時會心跳變慢 (B) 酒精戒斷時會冒汗 (C) 長期使用酒精時會低血鈉 (D) 酒精戒斷時會誘發譫妄,是高風險病症 【詳解】(A) 心跳變慢。 | 108(二)專醫四-69 | Source: 醫(四)第3冊精神科_戊、物質相關疾患 Page 119-144.
 
 ## Clinical Caveats
 

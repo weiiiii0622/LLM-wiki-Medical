@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- # B. 先天免疫缺乏疾病的分類、特徵及篩檢方式★ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 1. 抗體製造缺陷的疾病(體液性免疫缺陷): 此類為最常見的原發性免疫缺乏疾病,而其中又以 Selective IgA deficiency 最常見。 此類病人的特色即為反覆的莢膜細菌感染,或對抗生素治療無效。 - (1) X-linked agammaglobulinemia (XLA, Bruton agammaglobulinemia): - a. 致病機轉及特色:Xq22 上 encode Bruton tyrosine kinase 的基因(Btk gene) 突變引起。Bruton tyrosin Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
+- # B. 先天免疫缺乏疾病的分類、特徵及篩檢方式★ Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
+- 1. 抗體製造缺陷的疾病(體液性免疫缺陷): 此類為最常見的原發性免疫缺乏疾病,而其中又以 Selective IgA deficiency 最常見。 此類病人的特色即為反覆的莢膜細菌感染,或對抗生素治療無效。 - (1) X-linked agammaglobulinemia (XLA, Bruton agammaglobulinemia): - a. 致病機轉及特色:Xq22 上 encode Bruton tyrosine kinase 的基因(Btk gene) 突變引起。Bruton tyrosin Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
 
 ## Clinical Caveats
 

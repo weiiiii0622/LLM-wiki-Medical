@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- B. 海綿狀血管畸形 (Cavernous malformations) 167 Source: [[sources/med5-book1-ch16|庚、血管畸形]].
-- (BC) 8. 下列何者為顱內海綿狀畸形(Cavernous malformation)最常見的臨床症狀? Source: [[sources/med5-book1-ch16|庚、血管畸形]].
+- B. 海綿狀血管畸形 (Cavernous malformations) 167 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_庚、血管畸形 Page 177-182.
+- (BC) 8. 下列何者為顱內海綿狀畸形(Cavernous malformation)最常見的臨床症狀? Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_庚、血管畸形 Page 177-182.
 
 ## Clinical Caveats
 

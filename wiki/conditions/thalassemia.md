@@ -37,19 +37,19 @@ globin chain 生成異常造成小球性貧血與溶血，依 alpha/beta 與嚴�
 
 ## Key Details From Sources
 
-- a. 簡介: 地中海型貧血為台灣最常見的單基因遺傳性疾病,台灣約有 6% 為帶 因者,身體狀況通常與一般人相似。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- 若先生亦為 MCV ≤ 80, 夫妻雙方須接受 血紅素電泳及缺鐵性貧血檢查 檢查結果 - i. 為缺鐵性貧血:鐵劑治療及追蹤 - ii. 夫妻為不同型地中海型貧血帶因者: 不會造成胎兒罹患重型地中海型貧血 - iii. 夫妻為同型地中海型貧血帶因者:胎兒 有 1/4 的機會罹患重型地中海型貧血, 須取胎兒檢體(如絨毛採樣、羊膜穿 刺等)作確認,一旦確認胎兒為重型 地中海型貧血,可考慮中止妊娠 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ※ 夫妻雙方只要任一方 MCV > 80, 便可排除胎兒罹患重型地中海型貧血的可能 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- Ⅱ. 血紅素疾病 349 - A. 鐮刀型貧血 349 - B. 地中海型貧血 349 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- 3. α-thalassemia 是因為染色體 16 的基因有缺損(deletion)。β-thalassemia 為體隱性遺傳,是因為染色體 11 的基因被取代(replaced)。(記:看 A 片很低級,B 咖容易被取代。) Source: [[sources/med4-book1-ch08|辛、血液學]].
-- | 疾病 | 分類 | 原因 | 症狀 | |---------------|----------------|----------------|---------------------------| | α-thalassemia | Silent carrier | α 鏈有三個功能基因 | 無症狀 | | | Trait | α 鏈有兩個功能基因 | 無症狀,僅 Hb 降低 | | | Нь Н | α 鏈有一個功能基因 | 慢性溶血性貧血 | | | | 由於 α 鏈缺乏,只好 | 髓外造血造成肝脾腫大 | | | | 由β鏈構成 HbH | | | | Bart Hb | α 鏈沒有功能基因, | 死胎,hydrops fetalis | | | | 胎 Source: [[sources/med4-book1-ch08|辛、血液學]].
-- (B) 3. 一個 G1P1 / 39 週出生體重 3,200 公克的新生兒,出生後哺餵全 母乳。第 19 個小時大時檢測總膽紅素值為 12 mg/dL、直接型膽 紅素值為 0.22 mg/dL。母親為 O 型 Rh 陽性、父親 B 型 Rh 陽性 血型。母親之前未曾接受過任何血品輸注。父親有乙型海洋性 貧血、母親則無海洋性貧血。下列何者為最可能之診斷? - (A) Rh 其他血型不合(Rh minor group incompatibility) - (B) ABO 血型不合 (ABO incompatibility) - (C) 母乳性黃疸 (Breast milk jaundice) - (D) 乙型海洋性貧血(β-Thalassemia) Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 【詳解】足月單胞胎活產新生兒出生後 19 小時出現黃疸,依照 題目敘述以間接型膽紅素為主。常見的原因有 RH 血型不合、 ABO 血型不合、G6PD deficiency、SGA、雙胞胎輸血症候群、 母體 - 胎兒輸血症候群、DIC等。依照題幹則考慮選項(A)、(B) 選項。父母 Rh 血型相同,故(B) 是最合理的選項。PS: 母乳性 黃疸(breast milk jaundice) 臨床上多為延遲性黃疸。父親為乙 型海洋性貧血(體隱性遺傳,第11對染色體一個基因缺陷), 母親正常,則下一代僅為帶因者。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- (B) 庫利氏貧血 (Cooley anemia) Source: [[sources/med4-book1-ch10|癸、遺傳學]].
-- ...------------|---------------| | 初期 | 儲於骨髓、網狀內皮系統的儲鐵量降低 | Ferritin TIBC $>$ 360; SI $ 50 | | | 缺鐵的狀況下造血 | MCV 3.5% 須懷疑 β thalassemia;正常人的 HbA2 即是 10 , No transfusion - ii. Thalassemia intermedia: Hgb = 7~10, Occasional transfusion - iii. Thalassemia major (Cooley's anemia): Transfusion dependent, Ferritin > 1,000 ng/ml 需考慮給 Deferoxamine 或 deferasirox Source: [[sources/med3-book4-ch10|甲、貧血]].
-- | | | | α thalassemi | a | β thalassemia | | |------------|------|---------------------------|-----------------------------------------------------|------------------------------------|----------------|-----------------| | 基因突 | 變 | | 16 號染色體 | α1 或 α2 基因删除 | Source: [[sources/med3-book4-ch10|甲、貧血]].
-- (A) 他的貧血病因應該不是 thalassemia Source: [[sources/med3-book4-ch10|甲、貧血]].
+- a. 簡介: 地中海型貧血為台灣最常見的單基因遺傳性疾病,台灣約有 6% 為帶 因者,身體狀況通常與一般人相似。 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- 若先生亦為 MCV ≤ 80, 夫妻雙方須接受 血紅素電泳及缺鐵性貧血檢查 檢查結果 - i. 為缺鐵性貧血:鐵劑治療及追蹤 - ii. 夫妻為不同型地中海型貧血帶因者: 不會造成胎兒罹患重型地中海型貧血 - iii. 夫妻為同型地中海型貧血帶因者:胎兒 有 1/4 的機會罹患重型地中海型貧血, 須取胎兒檢體(如絨毛採樣、羊膜穿 刺等)作確認,一旦確認胎兒為重型 地中海型貧血,可考慮中止妊娠 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ※ 夫妻雙方只要任一方 MCV > 80, 便可排除胎兒罹患重型地中海型貧血的可能 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- e. 併發症:該病大多沒有併發症,不過約 10% 的病童會發生關節病變。本身有慢性溶血性貧血的病患(sickle cell anemia、hereditary spherocytosis、thalassemias),則可能會因此引起嚴重貧血。若孕婦感染 B19 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- Ⅱ. 血紅素疾病 349 - A. 鐮刀型貧血 349 - B. 地中海型貧血 349 Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- 3. α-thalassemia 是因為染色體 16 的基因有缺損(deletion)。β-thalassemia 為體隱性遺傳,是因為染色體 11 的基因被取代(replaced)。(記:看 A 片很低級,B 咖容易被取代。) Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- | 疾病 | 分類 | 原因 | 症狀 | |---------------|----------------|----------------|---------------------------| | α-thalassemia | Silent carrier | α 鏈有三個功能基因 | 無症狀 | | | Trait | α 鏈有兩個功能基因 | 無症狀,僅 Hb 降低 | | | Нь Н | α 鏈有一個功能基因 | 慢性溶血性貧血 | | | | 由於 α 鏈缺乏,只好 | 髓外造血造成肝脾腫大 | | | | 由β鏈構成 HbH | | | | Bart Hb | α 鏈沒有功能基因, | 死胎,hydrops fetalis | | | | 胎 Source: 醫(四)第1冊小兒_辛、血液學 Page 357-380.
+- (B) 3. 一個 G1P1 / 39 週出生體重 3,200 公克的新生兒,出生後哺餵全 母乳。第 19 個小時大時檢測總膽紅素值為 12 mg/dL、直接型膽 紅素值為 0.22 mg/dL。母親為 O 型 Rh 陽性、父親 B 型 Rh 陽性 血型。母親之前未曾接受過任何血品輸注。父親有乙型海洋性 貧血、母親則無海洋性貧血。下列何者為最可能之診斷? - (A) Rh 其他血型不合(Rh minor group incompatibility) - (B) ABO 血型不合 (ABO incompatibility) - (C) 母乳性黃疸 (Breast milk jaundice) - (D) 乙型海洋性貧血(β-Thalassemia) Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- 【詳解】足月單胞胎活產新生兒出生後 19 小時出現黃疸,依照 題目敘述以間接型膽紅素為主。常見的原因有 RH 血型不合、 ABO 血型不合、G6PD deficiency、SGA、雙胞胎輸血症候群、 母體 - 胎兒輸血症候群、DIC等。依照題幹則考慮選項(A)、(B) 選項。父母 Rh 血型相同,故(B) 是最合理的選項。PS: 母乳性 黃疸(breast milk jaundice) 臨床上多為延遲性黃疸。父親為乙 型海洋性貧血(體隱性遺傳,第11對染色體一個基因缺陷), 母親正常,則下一代僅為帶因者。 Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- (B) 庫利氏貧血 (Cooley anemia) Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
+- ...------------|---------------| | 初期 | 儲於骨髓、網狀內皮系統的儲鐵量降低 | Ferritin TIBC $>$ 360; SI $ 50 | | | 缺鐵的狀況下造血 | MCV 3.5% 須懷疑 β thalassemia;正常人的 HbA2 即是 10 , No transfusion - ii. Thalassemia intermedia: Hgb = 7~10, Occasional transfusion - iii. Thalassemia major (Cooley's anemia): Transfusion dependent, Ferritin > 1,000 ng/ml 需考慮給 Deferoxamine 或 deferasirox Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- | | | | α thalassemi | a | β thalassemia | | |------------|------|---------------------------|-----------------------------------------------------|------------------------------------|----------------|-----------------| | 基因突 | 變 | | 16 號染色體 | α1 或 α2 基因删除 | Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
+- (A) 他的貧血病因應該不是 thalassemia Source: 醫(三)第4冊免疫血液腫瘤家醫_第二篇、血液科_甲、貧血 Page 125-142.
 
 ## Clinical Caveats
 

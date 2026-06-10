@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_丙、骨科復健.md
+raw_source_title: "醫(六)第3冊復健_丙、骨科復健"
+raw_source_file: "raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_丙、骨科復健.md"
+page_start: 85
+page_end: 104
+canonical_citation: "醫(六)第3冊復健_丙、骨科復健 Page 85-104"
 book: 醫(六)第3冊復健
 chapter_order: 3
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第3冊復健
 - Chapter file: `raw/books/md/醫(六)第3冊復健/醫(六)第3冊復健_丙、骨科復健.md`
+- Pages covered: 85-104
+- Canonical citation: 醫(六)第3冊復健_丙、骨科復健 Page 85-104
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

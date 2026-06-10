@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (D) 結核性腦膜炎 (meningitis) 治療為標準抗結核治療 6 個月 【詳解】(C) 目前台灣結核指引認為使用 6 個月的短程化學藥物再 輔佐類固醇對結核性心包膜炎的療效很好。類固醇劑量是每天60 mg prednisolone, 第二個月減為每天 30 mg prednisolone, 第三個月 繼續減量,總共使用3個月;(D)12個月。 Source: [[sources/med3-book1-ch19|己、結 核]].
-- (A) 未曾接受完整抗結核治療,且臨床檢體耐酸性(acid-fast)塗片 兩套陽性者屬於新病例(new case) Source: [[sources/med3-book1-ch19|己、結 核]].
-- (B) 曾接受抗結核治療但未滿 2 週,且臨床檢體結核菌培養陽性者 仍屬於新病例 (new case) 的定義 Source: [[sources/med3-book1-ch19|己、結 核]].
+- (D) 結核性腦膜炎 (meningitis) 治療為標準抗結核治療 6 個月 【詳解】(C) 目前台灣結核指引認為使用 6 個月的短程化學藥物再 輔佐類固醇對結核性心包膜炎的療效很好。類固醇劑量是每天60 mg prednisolone, 第二個月減為每天 30 mg prednisolone, 第三個月 繼續減量,總共使用3個月;(D)12個月。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_己、結核 Page 307-320.
+- (A) 未曾接受完整抗結核治療,且臨床檢體耐酸性(acid-fast)塗片 兩套陽性者屬於新病例(new case) Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_己、結核 Page 307-320.
+- (B) 曾接受抗結核治療但未滿 2 週,且臨床檢體結核菌培養陽性者 仍屬於新病例 (new case) 的定義 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_己、結核 Page 307-320.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔.md
+raw_source_title: "醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔"
+raw_source_file: "raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔.md"
+page_start: 79
+page_end: 90
+canonical_citation: "醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90"
 book: 醫(五)第4冊胸外小兒外
 chapter_order: 4
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第4冊胸外小兒外
 - Chapter file: `raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔.md`
+- Pages covered: 79-90
+- Canonical citation: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丁、縱隔腔 Page 79-90
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

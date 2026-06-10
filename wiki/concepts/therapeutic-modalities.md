@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- #### 庚、物理治療儀器 (Therapeutic Modalities) Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
+- #### 庚、物理治療儀器 (Therapeutic Modalities) Source: 醫(六)第3冊復健_庚、物理治療儀器 Page 179-186.
 
 ## Clinical Caveats
 

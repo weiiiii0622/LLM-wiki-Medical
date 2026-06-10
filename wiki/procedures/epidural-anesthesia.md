@@ -29,8 +29,8 @@ Epidural anesthesia 將藥物給於 epidural space，可連續給藥，用於手
 
 ## Key Details From Sources
 
-- 4. 預定做 spinal/epidural anesthesia 的病人,必須注意是否有 lumbar puncture 的禁忌症。 術前若有 KUB 也可參考是否有 L-spine 的問題存在,影響成功率。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- 4. 硬膜外穿刺麻醉 (epidural anesthesia): - (1) 在硬脊膜外給予藥物,可以達到局部性的區段麻醉,如無痛分娩。 Source: [[sources/med6-book4-ch08|辛、局部麻醉藥物]].
+- 4. 預定做 spinal/epidural anesthesia 的病人,必須注意是否有 lumbar puncture 的禁忌症。 術前若有 KUB 也可參考是否有 L-spine 的問題存在,影響成功率。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- 4. 硬膜外穿刺麻醉 (epidural anesthesia): - (1) 在硬脊膜外給予藥物,可以達到局部性的區段麻醉,如無痛分娩。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_辛、局部麻醉藥物 Page 93-100.
 
 ## Clinical Caveats
 

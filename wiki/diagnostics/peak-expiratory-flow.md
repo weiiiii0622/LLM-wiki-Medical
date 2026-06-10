@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- 4. Daily peak expiratory flow (PEF) or FEV1 monitoring: day-to-day and/or am-to-pm variation $\geq 20\%^*$ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- | (C) 15. 下列何項肺功能值可用來作為評估與監測氣喘嚴重度的指標? (A) 肺總容量(total lung capacity) (B) 肺活量(vital capacity) (C) 尖峰呼氣流速(peak expiratory flow) (D) 肺殘餘容積(residual volume) | 104(一)專醫四-24 | |------------------------------------------------------------------------------------------------------------------------------------------------------ Source: [[sources/med4-book1-ch07|庚、兒童過敏免疫風濕疾病]].
-- 3.2 週內 PEF 過度變化:每日晝夜 PEF 變異性=(日最高-日最低)/(平均值)>10%。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- 4. 4 週抗發炎治療後肺功能顯著增加:治療後基準 $FEV_1$ 增加 > 12% 且 > 200 mL 或 PEF > 20% ) 。 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- (D) 自行使用尖峰呼氣流速 (PEFR) 之檢查 Source: [[sources/med3-book1-ch15|乙、氣喘]].
-- 【詳解】抽菸已 35 年、慢性咳嗽已十幾年、胸部 X 光發現支氣管壁增厚需懷疑 COPD 中的 chronic bronchitis; (A) RV 增加; (B) (C) (D) FEV1、PEF (Peak expiratory fow)下降代表大氣道狹窄、FEF25-75下降代表小氣道狹窄。COPD 病患常會合併小氣道狹窄。 Source: [[sources/med3-book1-ch14|丙、慢性阻塞性肺疾]].
+- 4. Daily peak expiratory flow (PEF) or FEV1 monitoring: day-to-day and/or am-to-pm variation $\geq 20\%^*$ Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
+- | (C) 15. 下列何項肺功能值可用來作為評估與監測氣喘嚴重度的指標? (A) 肺總容量(total lung capacity) (B) 肺活量(vital capacity) (C) 尖峰呼氣流速(peak expiratory flow) (D) 肺殘餘容積(residual volume) | 104(一)專醫四-24 | |------------------------------------------------------------------------------------------------------------------------------------------------------ Source: 醫(四)第1冊小兒_庚、兒童過敏免疫風濕疾病 Page 321-356.
+- 3.2 週內 PEF 過度變化:每日晝夜 PEF 變異性=(日最高-日最低)/(平均值)>10%。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_乙、氣喘 Page 259-268.
+- 4. 4 週抗發炎治療後肺功能顯著增加:治療後基準 $FEV_1$ 增加 > 12% 且 > 200 mL 或 PEF > 20% ) 。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_乙、氣喘 Page 259-268.
+- (D) 自行使用尖峰呼氣流速 (PEFR) 之檢查 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_乙、氣喘 Page 259-268.
+- 【詳解】抽菸已 35 年、慢性咳嗽已十幾年、胸部 X 光發現支氣管壁增厚需懷疑 COPD 中的 chronic bronchitis; (A) RV 增加; (B) (C) (D) FEV1、PEF (Peak expiratory fow)下降代表大氣道狹窄、FEF25-75下降代表小氣道狹窄。COPD 病患常會合併小氣道狹窄。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_丙、慢性阻塞性肺疾 Page 269-280.
 
 ## Clinical Caveats
 

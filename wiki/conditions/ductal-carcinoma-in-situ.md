@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- (4) 若為 DCIS (Ductal Carcinoma In Situ) 或 LCIS (Lobular Carcinoma In Situ) 則 罹癌機率上昇八到十倍。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 2. 非侵襲性癌(Non-invasive cancer):表示腫瘤尚未侵犯到乳房組織的乳管或乳小葉的基底膜,可再分成乳管原位癌(Ductal carcinoma in situ, DCIS)與葉狀原位癌(Lobular carcinoma in situ, LCIS)。 - (1) 乳管原位癌 (Ductal carcinoma in situ, DCIS): - a. 前言: - (a) 惡性乳管上皮細胞,未侵犯基底膜,仍侷限在乳管內,發生率約為 5~10%。 - (b) 可視為癌症前期病灶,50~60% 會 進展成同側乳癌,5~10% 會進展 成對側乳癌,最多45% 同時已伴 隨有乳癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- b. 類型:依據組織學上的結構,可分為以下幾種類型。 - (a) 固狀型 (Solid pattern): 乳管內充滿著惡性腫瘤細胞。 - (b) 篩狀型 (Cribriform pattern): 放射狀的惡性腫瘤細胞形成腺體空腔。 - (c) 乳突型(Papillary pattern): 乳突狀的突起包含著具纖維的血管莖。 - (d) 面皰型(Comedo pattern):佔 DCIS 的 60%,惡性腫瘤細胞包圍著中央壞死區域,預後最差。 - (e) 預後由最好到最差: 乳突型→篩狀型→固狀型→面皰型。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- ...(2) | 體檢查無明顯硬塊,但輕壓左乳頭會於十點鐘位置出現褐色分泌 | 醫五-43 | | | 物。下列何者為最可能的診斷? | EQ 10 | | | (A) 纖維囊腫(fibrocystic disease) | | | | (B) 乳管原位癌(ductal carcinoma in situ) | | | | (C) 乳管擴張(ductoectasia) | | | | (D) 乳突瘤(papilloma) | | | | (D) FLAM (Pupmomu) | | | (D) | 11. 承上題,下列何者不是必要的檢查? | 99(一)專 | | | (A) 乳房超音波(ultrasonography) | 醫五-44 | | | (B) 乳房攝影(mammograph Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
+- (4) 若為 DCIS (Ductal Carcinoma In Situ) 或 LCIS (Lobular Carcinoma In Situ) 則 罹癌機率上昇八到十倍。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- 2. 非侵襲性癌(Non-invasive cancer):表示腫瘤尚未侵犯到乳房組織的乳管或乳小葉的基底膜,可再分成乳管原位癌(Ductal carcinoma in situ, DCIS)與葉狀原位癌(Lobular carcinoma in situ, LCIS)。 - (1) 乳管原位癌 (Ductal carcinoma in situ, DCIS): - a. 前言: - (a) 惡性乳管上皮細胞,未侵犯基底膜,仍侷限在乳管內,發生率約為 5~10%。 - (b) 可視為癌症前期病灶,50~60% 會 進展成同側乳癌,5~10% 會進展 成對側乳癌,最多45% 同時已伴 隨有乳癌。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- b. 類型:依據組織學上的結構,可分為以下幾種類型。 - (a) 固狀型 (Solid pattern): 乳管內充滿著惡性腫瘤細胞。 - (b) 篩狀型 (Cribriform pattern): 放射狀的惡性腫瘤細胞形成腺體空腔。 - (c) 乳突型(Papillary pattern): 乳突狀的突起包含著具纖維的血管莖。 - (d) 面皰型(Comedo pattern):佔 DCIS 的 60%,惡性腫瘤細胞包圍著中央壞死區域,預後最差。 - (e) 預後由最好到最差: 乳突型→篩狀型→固狀型→面皰型。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- ...(2) | 體檢查無明顯硬塊,但輕壓左乳頭會於十點鐘位置出現褐色分泌 | 醫五-43 | | | 物。下列何者為最可能的診斷? | EQ 10 | | | (A) 纖維囊腫(fibrocystic disease) | | | | (B) 乳管原位癌(ductal carcinoma in situ) | | | | (C) 乳管擴張(ductoectasia) | | | | (D) 乳突瘤(papilloma) | | | | (D) FLAM (Pupmomu) | | | (D) | 11. 承上題,下列何者不是必要的檢查? | 99(一)專 | | | (A) 乳房超音波(ultrasonography) | 醫五-44 | | | (B) 乳房攝影(mammograph Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
 
 ## Clinical Caveats
 

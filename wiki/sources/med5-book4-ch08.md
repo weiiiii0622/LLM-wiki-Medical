@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第二篇、小兒外科_甲、概論.md
+raw_source_title: "醫(五)第4冊胸外小兒外_第二篇、小兒外科_甲、概論"
+raw_source_file: "raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第二篇、小兒外科_甲、概論.md"
+page_start: 139
+page_end: 142
+canonical_citation: "醫(五)第4冊胸外小兒外_第二篇、小兒外科_甲、概論 Page 139-142"
 book: 醫(五)第4冊胸外小兒外
 chapter_order: 8
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第4冊胸外小兒外
 - Chapter file: `raw/books/md/醫(五)第4冊胸外小兒外/醫(五)第4冊胸外小兒外_第二篇、小兒外科_甲、概論.md`
+- Pages covered: 139-142
+- Canonical citation: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_甲、概論 Page 139-142
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

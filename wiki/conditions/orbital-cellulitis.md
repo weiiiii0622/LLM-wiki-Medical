@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 眼窩蜂窩性組織炎(Orbital cellulitis):當篩竇發炎時,pathogen 會經由篩骨板進入眼睛,導致眼眶周圍水腫或眼球的內容物發炎,產生眼窩蜂窩組織炎(orbital cellulitis)。 Source: [[sources/med6-book4-ch12|乙、鼻科]].
-- (1) 軟組織侵犯:眼瞼和眼眶周圍水腫、眼瞼下垂、結膜水腫或充血。原因包含甲 狀腺眼症、眼眶蜂窩性組織炎等。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- (2) 眼眶蜂窩性組織炎(orbital cellulitis):為造成小孩單側突眼最常見的原因,常因鼻竇炎(以飾竇炎最常見)造成,致病菌以Hemophilus influenzae 感染最常見,症狀較中隔前蜂窩性組織炎更嚴重,甚至可能影響視力。治療需投以大量抗生素,若有膿瘍產生則需作引流。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
+- (1) 眼窩蜂窩性組織炎(Orbital cellulitis):當篩竇發炎時,pathogen 會經由篩骨板進入眼睛,導致眼眶周圍水腫或眼球的內容物發炎,產生眼窩蜂窩組織炎(orbital cellulitis)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_乙、鼻科 Page 185-214.
+- (1) 軟組織侵犯:眼瞼和眼眶周圍水腫、眼瞼下垂、結膜水腫或充血。原因包含甲 狀腺眼症、眼眶蜂窩性組織炎等。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- (1) 中膈前蜂窩性組織炎 (preseptal cellulitis): - a. 原因:因皮膚裂傷或被蟲咬(常見由 Staphylococcus aureus 或 Streptococcus pyogenes 感染)或因局部感染(如:麥粒腫)或來自上呼吸道或中耳感染擴散而導致。 - b. 症狀:單側壓痛性紅腫的眼眶和眼瞼水腫。 - c. 治療: 抗生素,避免進展程更嚴重的眼眶蜂窩性組織炎。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- (2) 眼眶蜂窩性組織炎(orbital cellulitis):為造成小孩單側突眼最常見的原因,常因鼻竇炎(以飾竇炎最常見)造成,致病菌以Hemophilus influenzae 感染最常見,症狀較中隔前蜂窩性組織炎更嚴重,甚至可能影響視力。治療需投以大量抗生素,若有膿瘍產生則需作引流。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
 
 ## Clinical Caveats
 

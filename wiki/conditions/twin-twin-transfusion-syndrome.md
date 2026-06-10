@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (A) 雙胞胎輸血症候群 (twin-twin transfusion syndrome) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (A) 雙胞胎之捐贈者 (donor twin) 發生羊水過多的機率高於雙胞胎之受贈者 (recipient twin) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- 【詳解】雙胞胎間輸血症候群(Twin-twin transfusion syndrome, TTTS)一般發生於單絨毛膜雙胞胎,診斷標準為超音波發現一個胎兒(捐贈者)為羊水稀少(最大垂直徑8 cm)。在生產時,捐贈者可能會出現急性貧血和低血容;而受贈者可能發生急性紅血球增多症,但不常見。超音波除可觀察兩者表徵的差異外,亦可用來作臨床分期。故選(D)。 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- (A) 雙胞胎輸血症候群 (twin-twin transfusion syndrome) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- (A) 雙胞胎之捐贈者 (donor twin) 發生羊水過多的機率高於雙胞胎之受贈者 (recipient twin) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- 【詳解】雙胞胎間輸血症候群(Twin-twin transfusion syndrome, TTTS)一般發生於單絨毛膜雙胞胎,診斷標準為超音波發現一個胎兒(捐贈者)為羊水稀少(最大垂直徑8 cm)。在生產時,捐贈者可能會出現急性貧血和低血容;而受贈者可能發生急性紅血球增多症,但不常見。超音波除可觀察兩者表徵的差異外,亦可用來作臨床分期。故選(D)。 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
 
 ## Clinical Caveats
 

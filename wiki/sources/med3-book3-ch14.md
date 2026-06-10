@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症.md
+raw_source_title: "醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症"
+raw_source_file: "raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症.md"
+page_start: 165
+page_end: 196
+canonical_citation: "醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症 Page 165-196"
 book: 醫(三)第3冊腎內感染
 chapter_order: 14
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第3冊腎內感染
 - Chapter file: `raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症.md`
+- Pages covered: 165-196
+- Canonical citation: 醫(三)第3冊腎內感染_第二篇、感染科_己、依細菌分類的感染症 Page 165-196
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

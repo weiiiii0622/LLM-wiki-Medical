@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- D. 原發性卵巢功能不全 (Primary ovarian insufficiency) 334 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- ...opic | 中樞神經腫瘤 (如 Pituitary prolactinoma) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原發性卵巢功能不全 | | | 多囊性卵巢症候群 | | 其他內分泌異常 | 甲狀腺低下或亢進 | | | 雄性激素分泌腫瘤或曝露於過多雄性激素 | Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- | 分 類 | 成因 | | |--------|-------------------------------------------|-----| | 原發性無月經 | 原發性卵巢功能不全成因中的 gonadal dysgenesis,如 | | | | Turner's syndrome | | | | Hypothalamic hypogonadism | 20% | | | Müllerian agenesis, 如 Rokitansky syndrome | 15% | | | Urogenital sinus 發育異常 | 5% | | | 腦垂體異常 | 5% | | 次發性無月經 | 卵巢異常 | 40% Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
+- D. 原發性卵巢功能不全 (Primary ovarian insufficiency) 334 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- ...opic | 中樞神經腫瘤 (如 Pituitary prolactinoma) | | hypogonadism) Pituitary infarct or apoplexy (Sheehan's syndro | | | 卵巢異常 | 原發性卵巢功能不全 | | | 多囊性卵巢症候群 | | 其他內分泌異常 | 甲狀腺低下或亢進 | | | 雄性激素分泌腫瘤或曝露於過多雄性激素 | Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- | 分 類 | 成因 | | |--------|-------------------------------------------|-----| | 原發性無月經 | 原發性卵巢功能不全成因中的 gonadal dysgenesis,如 | | | | Turner's syndrome | | | | Hypothalamic hypogonadism | 20% | | | Müllerian agenesis, 如 Rokitansky syndrome | 15% | | | Urogenital sinus 發育異常 | 5% | | | 腦垂體異常 | 5% | | 次發性無月經 | 卵巢異常 | 40% Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
 
 ## Clinical Caveats
 

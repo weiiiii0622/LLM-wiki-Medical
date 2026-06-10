@@ -29,9 +29,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### 高血壓性視網膜病變(Hypertensive retinopathy) Source: [[sources/med6-book2-ch12|子、視網膜]].
-- | Modified Scheie Classification of Hypertensive Retinopathy | | | | |------------------------------------------------------------|--------------------------------|--|--| | Grade 0 | 無變化 | | | | Grade 1 | 稍可看出的小動脈狹窄 | | | | Grade 2 | 明顯的動脈狹窄並有局部的不規則變化 | | | | Grade 3 | Grade 2 加上視網膜出血或滲出物 | | | | Grade 4 | Grade 3 加上視乳頭水腫(disc swelling) | | | Source: [[sources/med6-book2-ch12|子、視網膜]].
-- 1. 高血壓:請詳見「子、視網膜的 E. 視網膜血管疾病的高血壓性視網膜病變、高血 壓脈絡膜病變和高血壓視神經病變的部分」的部分。 Source: [[sources/med6-book2-ch19|未、系統性疾病在眼睛的表現]].
+- #### 高血壓性視網膜病變(Hypertensive retinopathy) Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- | Modified Scheie Classification of Hypertensive Retinopathy | | | | |------------------------------------------------------------|--------------------------------|--|--| | Grade 0 | 無變化 | | | | Grade 1 | 稍可看出的小動脈狹窄 | | | | Grade 2 | 明顯的動脈狹窄並有局部的不規則變化 | | | | Grade 3 | Grade 2 加上視網膜出血或滲出物 | | | | Grade 4 | Grade 3 加上視乳頭水腫(disc swelling) | | | Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- 1. 高血壓:請詳見「子、視網膜的 E. 視網膜血管疾病的高血壓性視網膜病變、高血 壓脈絡膜病變和高血壓視神經病變的部分」的部分。 Source: 醫(六)第2冊眼科_第一篇、眼科_未、系統性疾病在眼睛的表現 Page 225-232.
 
 ## Clinical Caveats
 

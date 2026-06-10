@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- C. 懷孕併甲狀腺疾病 (Pregnancy with thyroid diseases) 144 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- C. 懷孕併甲狀腺疾病 (Pregnancy with thyroid diseases) 144 Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
 
 ## Clinical Caveats
 

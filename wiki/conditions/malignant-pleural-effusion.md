@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- ...1M0 | IIIB | | | IIIC | 大徑> 2 cm | 肉眼下 (macroscopic) 骨盆腔外的腹膜轉移,最大徑> 2 cm(包括肝臟和脾臟的外囊轉移,但無實質轉移) | | | IIIC | | IV | IVA | 惡性肋膜積水 | | | Any TNM1a | IVA | | (腹膜以外的 遠端轉移) | IVB | | | 「腹股溝和腹腔以外的、肚臍轉移和肝脾臟 | Any TNM1b | IVB | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- (A) 多數惡性肋膜積液為 exudate Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- (B) 轉移性乳癌及肺癌最常造成惡性肋膜積液 Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- (D) 3. 以下關於惡性肋膜積水的描述,何者錯誤? Source: [[sources/med5-book4-ch02|乙、肋膜]].
-- (D) 1. 肺癌病人出現惡性肋膜腔積液 (malignant pleural effusion),在 TNM 分期中,至少是屬於那一期? Source: [[sources/med5-book4-ch03|丙、肺]].
+- ...1M0 | IIIB | | | IIIC | 大徑> 2 cm | 肉眼下 (macroscopic) 骨盆腔外的腹膜轉移,最大徑> 2 cm(包括肝臟和脾臟的外囊轉移,但無實質轉移) | | | IIIC | | IV | IVA | 惡性肋膜積水 | | | Any TNM1a | IVA | | (腹膜以外的 遠端轉移) | IVB | | | 「腹股溝和腹腔以外的、肚臍轉移和肝脾臟 | Any TNM1b | IVB | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- (A) 多數惡性肋膜積液為 exudate Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- (B) 轉移性乳癌及肺癌最常造成惡性肋膜積液 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- (D) 3. 以下關於惡性肋膜積水的描述,何者錯誤? Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_乙、肋膜 Page 25-40.
+- (D) 1. 肺癌病人出現惡性肋膜腔積液 (malignant pleural effusion),在 TNM 分期中,至少是屬於那一期? Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
 
 ## Clinical Caveats
 

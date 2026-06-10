@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 影像: CT 可發現腎上腺肥大。另外 X-ray 遺傳性雙側雄性素腎上腺增生可發現 骨齡超過正常範圍。 Source: [[sources/med5-book5-ch09|壬、腎上腺]].
-- (3) 使用 Risser sign 測量骨齡:經 X 光判讀,由髂前上嵴 (anterior superior iliac spine, ASIS)到髂後上嵴 (posterior superior iliac spine, PSIS)沿髂骨嵴作一連線。 依髂骨骨板鈣化的程度,可分為 0~5 級。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- (1) Cobb angle 50°。 - b. 角度惡化快速+ Cobb angle > 40°。 - c. 外觀重大影響或嚴重疼痛。 - d. 若骨骼發育尚未完全最好不要馬上開刀,除非是 congenital scoliosis: - (a) Congenital scoliosis 的小朋友,因為還會合併有其他問題,所以不考慮骨齡,需要在六、七歲的時候就進行手術。 - (5) 手術方式:骨融合術(spinal fusion)提供長期且永久的穩定和脊椎內固定術(spinal instrumentation),將脊椎內固定器架在病人的脊椎上以提供支持力量。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- c. 骨齡:當病童出現生長遲緩時做骨齡檢測。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- (5) 骨齡檢查:雄性荷爾蒙過多會造成骨齡超前。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
-- 4. 實驗室檢查:如性腺激素、FSH/LH、hCG、DHEA、GnRH刺激試驗、骨齡檢查等。 Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- (3) 影像: CT 可發現腎上腺肥大。另外 X-ray 遺傳性雙側雄性素腎上腺增生可發現 骨齡超過正常範圍。 Source: 醫(五)第5冊泌尿_壬、腎上腺 Page 171-180.
+- (3) 使用 Risser sign 測量骨齡:經 X 光判讀,由髂前上嵴 (anterior superior iliac spine, ASIS)到髂後上嵴 (posterior superior iliac spine, PSIS)沿髂骨嵴作一連線。 依髂骨骨板鈣化的程度,可分為 0~5 級。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- (1) Cobb angle 50°。 - b. 角度惡化快速+ Cobb angle > 40°。 - c. 外觀重大影響或嚴重疼痛。 - d. 若骨骼發育尚未完全最好不要馬上開刀,除非是 congenital scoliosis: - (a) Congenital scoliosis 的小朋友,因為還會合併有其他問題,所以不考慮骨齡,需要在六、七歲的時候就進行手術。 - (5) 手術方式:骨融合術(spinal fusion)提供長期且永久的穩定和脊椎內固定術(spinal instrumentation),將脊椎內固定器架在病人的脊椎上以提供支持力量。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- c. 骨齡:當病童出現生長遲緩時做骨齡檢測。 Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- (5) 骨齡檢查:雄性荷爾蒙過多會造成骨齡超前。 Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
+- 4. 實驗室檢查:如性腺激素、FSH/LH、hCG、DHEA、GnRH刺激試驗、骨齡檢查等。 Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
 
 ## Clinical Caveats
 

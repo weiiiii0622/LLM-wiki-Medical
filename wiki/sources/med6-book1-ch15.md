@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection).md
+raw_source_title: "醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection).md"
+page_start: 445
+page_end: 448
+canonical_citation: "醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection) Page 445-448"
 book: 醫(六)第1冊婦產
 chapter_order: 15
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection).md`
+- Pages covered: 445-448
+- Canonical citation: 醫(六)第1冊婦產_第四篇、婦女泌尿_丁、泌尿道感染(Urinary Tract Infection) Page 445-448
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

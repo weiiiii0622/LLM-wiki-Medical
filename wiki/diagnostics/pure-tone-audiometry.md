@@ -27,7 +27,7 @@ PTA 測量不同頻率 air/bone conduction threshold，是聽損分類與嚴重�
 
 ## Key Details From Sources
 
-- #### 2. 純音聽力檢查 (Pure Tone Audiometry, PTA) Source: [[sources/med6-book4-ch11|甲、耳科]].
+- #### 2. 純音聽力檢查 (Pure Tone Audiometry, PTA) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
 
 ## Clinical Caveats
 

@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_己、細菌性心內膜炎.md
+raw_source_title: "醫(三)第1冊心胸內_第一篇、心臟內科_己、細菌性心內膜炎"
+raw_source_file: "raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_己、細菌性心內膜炎.md"
+page_start: 175
+page_end: 184
+canonical_citation: "醫(三)第1冊心胸內_第一篇、心臟內科_己、細菌性心內膜炎 Page 175-184"
 book: 醫(三)第1冊心胸內
 chapter_order: 6
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第1冊心胸內
 - Chapter file: `raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_己、細菌性心內膜炎.md`
+- Pages covered: 175-184
+- Canonical citation: 醫(三)第1冊心胸內_第一篇、心臟內科_己、細菌性心內膜炎 Page 175-184
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

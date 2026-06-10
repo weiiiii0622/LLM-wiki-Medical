@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第二篇、婦科_丁、其他(Others).md
+raw_source_title: "醫(六)第1冊婦產_第二篇、婦科_丁、其他(Others)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第二篇、婦科_丁、其他(Others).md"
+page_start: 313
+page_end: 320
+canonical_citation: "醫(六)第1冊婦產_第二篇、婦科_丁、其他(Others) Page 313-320"
 book: 醫(六)第1冊婦產
 chapter_order: 9
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第二篇、婦科_丁、其他(Others).md`
+- Pages covered: 313-320
+- Canonical citation: 醫(六)第1冊婦產_第二篇、婦科_丁、其他(Others) Page 313-320
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

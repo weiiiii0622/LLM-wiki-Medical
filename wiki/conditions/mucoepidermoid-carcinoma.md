@@ -27,9 +27,9 @@ Mucoepidermoid carcinoma 是常見惡性唾液腺腫瘤，預後依 grade 與侵
 
 ## Key Details From Sources
 
-- 1. 黏液類上皮細胞癌 (Mucoepidermoid carcinoma): 30% Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- #### I. 黏液類上皮癌 (Mucoepidermoid carcinoma) Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- 2. 大約 1/2 的黏液類上皮癌發生在腮腺,其他則多見於小唾液腺。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 1. 黏液類上皮細胞癌 (Mucoepidermoid carcinoma): 30% Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- #### I. 黏液類上皮癌 (Mucoepidermoid carcinoma) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- 2. 大約 1/2 的黏液類上皮癌發生在腮腺,其他則多見於小唾液腺。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

@@ -29,12 +29,12 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 2. 引起高陰離子間隙代謝性酸中毒(High anion gap metabolic acidosis) 的疾病,下列何者最為罕見? Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- (B) high anion gap metabolic acidosis with respiratory acidosis Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 【詳解】由動脈氣體分析病人為 type I RTA,病人腎臟可能出現 鈣化。不管哪一種 RTA 均為 normal anion gap acidosis。任何一 型的 RTA 均要做 FeHCO3(fraction excretion of HCO3)檢查以 確立診斷。 Source: [[sources/med4-book1-ch03|丙、小兒腎臟學疾病]].
-- 4. $HCO_3$ : 呼吸性鹼中毒( $PaCO_2$ 太低)可直接與呼吸太快聯想在一起,呼吸性酸中毒( $PaCO_2$ 太高)可直接與呼吸太慢聯想在一起,呼吸鹼、呼吸酸不可能並存;但是代謝的問題就複雜多了,「高陰離子間隙代謝酸(high anion gap metabolic acidosis)」、「正常陰離子間隙代謝酸(normal anion gap metabolic acidosis)」、「代謝鹼」這3種狀況便可能並存,一個動脈血最多可以有4種異常。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- a. 若 $\Delta AG = \Delta[HCO_3]$ :表示多出來酸根陰離子恰好由 $[HCO_3]$ 滴定中和了,因此病患只有高陰離子間隙代謝酸(high anion gap acidosis)。 Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
-- ...------|--|--| | AG 增加造成的陰離子間隙代謝酸 | HCO 3 =2ΔHCO 3 =22 | [HCO 3 -] 下降多於 AG 上升(表示有多的 HCO 3 -loss) | 高陰離子間隙 +正常陰離子間隙代謝性酸中類(high anion gap acidosis)+(normal anion gap acidosis) | | | | | HCO 3 =14ΔHCO 3 =10 | [HCO3] 下降 = AG 上升 | 高陰離子間隙代謝性酸中毒(high anion gap acidosis) | | | | | HCO 3 =20ΔHCO 3 =4 | [HCO 3 -] 下降少於 AG 上升(表示有 HCO3-gain ) | 高陰離子間隙代謝性酸中毒 +代謝性鹼中毒( Source: [[sources/med3-book3-ch01|甲、酸鹼平衡]].
+- (C) 2. 引起高陰離子間隙代謝性酸中毒(High anion gap metabolic acidosis) 的疾病,下列何者最為罕見? Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- (B) high anion gap metabolic acidosis with respiratory acidosis Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- 【詳解】由動脈氣體分析病人為 type I RTA,病人腎臟可能出現 鈣化。不管哪一種 RTA 均為 normal anion gap acidosis。任何一 型的 RTA 均要做 FeHCO3(fraction excretion of HCO3)檢查以 確立診斷。 Source: 醫(四)第1冊小兒_丙、小兒腎臟學疾病 Page 111-164.
+- 4. $HCO_3$ : 呼吸性鹼中毒( $PaCO_2$ 太低)可直接與呼吸太快聯想在一起,呼吸性酸中毒( $PaCO_2$ 太高)可直接與呼吸太慢聯想在一起,呼吸鹼、呼吸酸不可能並存;但是代謝的問題就複雜多了,「高陰離子間隙代謝酸(high anion gap metabolic acidosis)」、「正常陰離子間隙代謝酸(normal anion gap metabolic acidosis)」、「代謝鹼」這3種狀況便可能並存,一個動脈血最多可以有4種異常。 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_甲、酸鹼平衡 Page 17-34.
+- a. 若 $\Delta AG = \Delta[HCO_3]$ :表示多出來酸根陰離子恰好由 $[HCO_3]$ 滴定中和了,因此病患只有高陰離子間隙代謝酸(high anion gap acidosis)。 Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_甲、酸鹼平衡 Page 17-34.
+- ...------|--|--| | AG 增加造成的陰離子間隙代謝酸 | HCO 3 =2ΔHCO 3 =22 | [HCO 3 -] 下降多於 AG 上升(表示有多的 HCO 3 -loss) | 高陰離子間隙 +正常陰離子間隙代謝性酸中類(high anion gap acidosis)+(normal anion gap acidosis) | | | | | HCO 3 =14ΔHCO 3 =10 | [HCO3] 下降 = AG 上升 | 高陰離子間隙代謝性酸中毒(high anion gap acidosis) | | | | | HCO 3 =20ΔHCO 3 =4 | [HCO 3 -] 下降少於 AG 上升(表示有 HCO3-gain ) | 高陰離子間隙代謝性酸中毒 +代謝性鹼中毒( Source: 醫(三)第3冊腎內感染_第一篇、腎臟內科_甲、酸鹼平衡 Page 17-34.
 
 ## Clinical Caveats
 

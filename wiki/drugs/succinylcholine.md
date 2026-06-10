@@ -31,13 +31,13 @@ Succinylcholine 是 depolarizing neuromuscular blocker，起效快但可造成 h
 
 ## Key Details From Sources
 
-- 3. 誘 發 藥 物 (triggering drugs): Succinylcholine、 揮 發 性 麻 醉 藥 物 (Sevoflurane, desflurane, isoflurane)。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- 2. 全身表現:通常首發症狀是高代謝的表現(eg, tachycardia, hypercarbia, hypoxemia),接著出現全身骨骼肌痙攣且咬肌痙攣通常與 succinylcholine 使用相關,體溫上升並可高達 43℃以上(不一定最早表現),皮膚潮紅。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- 1. 告知外科醫師、立即停用揮發性麻藥以及 succinylcholine,給予百分之百氧氣 ventilation。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
-- 1. Depolarizing NMBDs (Succinylcholine) - (1) 機轉: - a. Succinylcholine 的結構類似 Acetylcholine,可以和突觸後肌肉細胞上的Ach receptors 結合。但是 Succinylcholine 與 Acetylcholine 相異之處是在於Succinylcholine 被分解的速度較緩慢,因此可以停留在 receptor 上的時間較久,使得終板不斷的去極化,造成廣泛性的肌肉收縮(fasciculations),因此無法引起下一 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
-- ...racurium, Cisatracurium, Pancuronium, Rocuronium) - (1) 特徵: - a. Nondepolarizing NMBDs 也可以和突觸後肌肉細胞上的 Ach receptors 結合,與 Succinylcholine 不同的是,Nondepolarizing NMBDs 並不會使終板去極化(也就是占著茅坑不拉屎的最佳寫照),反而使得 Acetylcholine 無法作用,造成肌肉的鬆弛,也可視之為 Acetylcholine antagonist。 - b. Nondepolarizing NMBDs 並不會進入 CNS,因此病人會感覺肢體無力以及無法呼吸,意識完全清楚卻又無法表達的溺水感。因此在給予 Nondepolarizing Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
-- (2) 若是使用 Succinylcholine 當肌肉鬆弛劑,Cholinesterase inhibitors 反而會延長 Succinylcholine 的效果,這是因為 Cholinesterase inhibitors 也會抑制 Pseudocholinesterase 的作用,導致 Succinylcholine 不被正常代謝。 Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
-- ...(1~2.5 mg/kg) - b. Etomidate $(0.2\sim0.4 \text{ mg/kg})$ - c. Midazolam (0.1~0.3 mg/kg) - d. Ketamine (1.5 mg/kg) - e. Succinylcholine (1~1.5 mg/kg) • - f. Rocuronium $(0.6\sim1.2 \text{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick maneuver): 使用食指和拇指將環 狀軟骨向下施壓氣管後方的食道,主要目的是在於防止胃食道逆流造成吸入性 肺炎。(比較:幫助插管的 BURP 手法,是壓甲狀軟骨) Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
+- 3. 誘 發 藥 物 (triggering drugs): Succinylcholine、 揮 發 性 麻 醉 藥 物 (Sevoflurane, desflurane, isoflurane)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- 2. 全身表現:通常首發症狀是高代謝的表現(eg, tachycardia, hypercarbia, hypoxemia),接著出現全身骨骼肌痙攣且咬肌痙攣通常與 succinylcholine 使用相關,體溫上升並可高達 43℃以上(不一定最早表現),皮膚潮紅。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- 1. 告知外科醫師、立即停用揮發性麻藥以及 succinylcholine,給予百分之百氧氣 ventilation。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
+- 1. Depolarizing NMBDs (Succinylcholine) - (1) 機轉: - a. Succinylcholine 的結構類似 Acetylcholine,可以和突觸後肌肉細胞上的Ach receptors 結合。但是 Succinylcholine 與 Acetylcholine 相異之處是在於Succinylcholine 被分解的速度較緩慢,因此可以停留在 receptor 上的時間較久,使得終板不斷的去極化,造成廣泛性的肌肉收縮(fasciculations),因此無法引起下一 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
+- ...racurium, Cisatracurium, Pancuronium, Rocuronium) - (1) 特徵: - a. Nondepolarizing NMBDs 也可以和突觸後肌肉細胞上的 Ach receptors 結合,與 Succinylcholine 不同的是,Nondepolarizing NMBDs 並不會使終板去極化(也就是占著茅坑不拉屎的最佳寫照),反而使得 Acetylcholine 無法作用,造成肌肉的鬆弛,也可視之為 Acetylcholine antagonist。 - b. Nondepolarizing NMBDs 並不會進入 CNS,因此病人會感覺肢體無力以及無法呼吸,意識完全清楚卻又無法表達的溺水感。因此在給予 Nondepolarizing Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
+- (2) 若是使用 Succinylcholine 當肌肉鬆弛劑,Cholinesterase inhibitors 反而會延長 Succinylcholine 的效果,這是因為 Cholinesterase inhibitors 也會抑制 Pseudocholinesterase 的作用,導致 Succinylcholine 不被正常代謝。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
+- ...(1~2.5 mg/kg) - b. Etomidate $(0.2\sim0.4 \text{ mg/kg})$ - c. Midazolam (0.1~0.3 mg/kg) - d. Ketamine (1.5 mg/kg) - e. Succinylcholine (1~1.5 mg/kg) • - f. Rocuronium $(0.6\sim1.2 \text{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick maneuver): 使用食指和拇指將環 狀軟骨向下施壓氣管後方的食道,主要目的是在於防止胃食道逆流造成吸入性 肺炎。(比較:幫助插管的 BURP 手法,是壓甲狀軟骨) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
 
 ## Clinical Caveats
 

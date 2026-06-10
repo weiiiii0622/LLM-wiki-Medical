@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (3) Motor level of injury:雖然每一節段的脊神經支配不只一塊肌肉,但每一節段都有其主要支配的 key muscle,所以可藉由測驗 key muscle 的 muscle power 去評估脊髓某節段的受損情形。ASIA 中運動評分的脊髓節段以及其對應的 key muscle 和 function 如下表(腹部肌群不列入評估),假使某一節的 muscle power 有三分以上,且其上方一節的 muscle power 有五分,則該節即為脊髓損傷的 motor level (損傷僅止於此),例:T1的肌力有4分且C8為5分,則T1為「motor level of injury」。 Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
-- #### Muscle power ( 復健科較愛稱作 Manual muscle test, MMT): Source: [[sources/med6-book3-ch02|乙、神經復健(神外)]].
+- (3) Motor level of injury:雖然每一節段的脊神經支配不只一塊肌肉,但每一節段都有其主要支配的 key muscle,所以可藉由測驗 key muscle 的 muscle power 去評估脊髓某節段的受損情形。ASIA 中運動評分的脊髓節段以及其對應的 key muscle 和 function 如下表(腹部肌群不列入評估),假使某一節的 muscle power 有三分以上,且其上方一節的 muscle power 有五分,則該節即為脊髓損傷的 motor level (損傷僅止於此),例:T1的肌力有4分且C8為5分,則T1為「motor level of injury」。 Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
+- #### Muscle power ( 復健科較愛稱作 Manual muscle test, MMT): Source: 醫(六)第3冊復健_乙、神經復健(神外) Page 51-84.
 
 ## Clinical Caveats
 

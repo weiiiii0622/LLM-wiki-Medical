@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (A) 9. Model for End-Stage Liver Disease (MELD) scale 是評估 hepatic functional reserve 的好方法,其內容不包括下列何者? Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
-- 【詳解】在肝臟移植方面,歐美國家以MELD score 為評估方式,項目包含總膽紅素(total bilirubin)、凝血時間(INR)、腎功能(creatinine level)。以下列公式計算: MELD = 3.78 [Ln serum bilirubin (mg/dL)] + 11.2 [Ln INR] + 9.57 [Ln serum creatinine (mg/dL)] + 6.43 Source: [[sources/med5-book3-ch11|丁、惡性肝腫瘤]].
+- (A) 9. Model for End-Stage Liver Disease (MELD) scale 是評估 hepatic functional reserve 的好方法,其內容不包括下列何者? Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤 Page 117-136.
+- 【詳解】在肝臟移植方面,歐美國家以MELD score 為評估方式,項目包含總膽紅素(total bilirubin)、凝血時間(INR)、腎功能(creatinine level)。以下列公式計算: MELD = 3.78 [Ln serum bilirubin (mg/dL)] + 11.2 [Ln INR] + 9.57 [Ln serum creatinine (mg/dL)] + 6.43 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第三篇、肝臓外科_丁、惡性肝腫瘤 Page 117-136.
 
 ## Clinical Caveats
 

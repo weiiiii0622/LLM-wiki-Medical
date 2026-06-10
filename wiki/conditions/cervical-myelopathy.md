@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- ...) 較常長 | | | 在腰椎處 | | | | 【詳解】最常見為星狀細胞瘤(astrocytoma)。 | | | (C) | ) 5. 有關頸椎退化性疾病之手術敘述,下列何者錯誤? | 107(二)專 | | | (A) 頸椎脊髓病變(cervical myelopathy)產生症狀,」 | 即需手術治療 醫五-11 | | | (B) 急性神經根壓迫,可先保守治療 | | | | (C) 老年人接受後側椎弓切除術,日後很容易產生者 | 等柱後凸變形 | | | (D) 前頸椎手術可能傷到 recurrent laryngeal nerve | | | | 【詳解】(A) radiculopathy 為 nerve root 損傷, myelo | pathy 為 spinal | | | cord 損傷 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
+- ...) 較常長 | | | 在腰椎處 | | | | 【詳解】最常見為星狀細胞瘤(astrocytoma)。 | | | (C) | ) 5. 有關頸椎退化性疾病之手術敘述,下列何者錯誤? | 107(二)專 | | | (A) 頸椎脊髓病變(cervical myelopathy)產生症狀,」 | 即需手術治療 醫五-11 | | | (B) 急性神經根壓迫,可先保守治療 | | | | (C) 老年人接受後側椎弓切除術,日後很容易產生者 | 等柱後凸變形 | | | (D) 前頸椎手術可能傷到 recurrent laryngeal nerve | | | | 【詳解】(A) radiculopathy 為 nerve root 損傷, myelo | pathy 為 spinal | | | cord 損傷 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
 
 ## Clinical Caveats
 

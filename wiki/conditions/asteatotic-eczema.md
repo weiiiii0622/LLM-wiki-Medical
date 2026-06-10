@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- E. 缺脂性皮膚炎 (Asteatotic eczema) 90 Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- # E. 缺脂性皮膚炎 (Asteatotic eczema) Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (D) asteatotic eczema Source: [[sources/med4-book2-ch05|戊、皮膚炎/濕疹和炎症性疾病]].
-- (A) 缺脂性濕疹 (asteatotic eczema) Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- E. 缺脂性皮膚炎 (Asteatotic eczema) 90 Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- # E. 缺脂性皮膚炎 (Asteatotic eczema) Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- (D) asteatotic eczema Source: 醫(四)第2冊皮膚_戊、皮膚炎／濕疹和炎症性疾病 Page 97-122.
+- (A) 缺脂性濕疹 (asteatotic eczema) Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

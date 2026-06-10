@@ -16,23 +16,23 @@ Short synthesis. Keep claims source-linked.
 
 ## Core Concepts
 
-- Point. Source: [[source-page]].
+- Point. Source: Raw source title Page xx-yy.
 
 ## Clinical Relevance
 
-- Point. Source: [[source-page]].
+- Point. Source: Raw source title Page xx-yy.
 
 ## Mechanism or Pathophysiology
 
-- Point. Source: [[source-page]].
+- Point. Source: Raw source title Page xx-yy.
 
 ## Diagnosis
 
-- Point. Source: [[source-page]].
+- Point. Source: Raw source title Page xx-yy.
 
 ## Management
 
-- Point. Source: [[source-page]].
+- Point. Source: Raw source title Page xx-yy.
 
 ## Conflicts and Updates
 
@@ -45,4 +45,3 @@ Short synthesis. Keep claims source-linked.
 ## Open Questions
 
 - Question.
-

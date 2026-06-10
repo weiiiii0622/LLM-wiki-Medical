@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (1) Furuncle 是單一顆急性毛囊炎合併毛囊周圍真皮和皮下組織發炎以及化膿,如果是多顆毛囊炎合併成的一大塊發炎化膿組織則稱作 Carbuncle。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- d. 熱敷有助於加快 furuncle 化膿排出的過程。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
-- e. 手術切開引流(incision & drainage)的 indication: furuncle 持續超過兩星期、同一位置反覆感染、造成 fever 或其他全身性症狀時,為預防感染惡化成菌血症。 Source: [[sources/med4-book2-ch02|乙、感染性皮膚病]].
+- (1) Furuncle 是單一顆急性毛囊炎合併毛囊周圍真皮和皮下組織發炎以及化膿,如果是多顆毛囊炎合併成的一大塊發炎化膿組織則稱作 Carbuncle。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- d. 熱敷有助於加快 furuncle 化膿排出的過程。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
+- e. 手術切開引流(incision & drainage)的 indication: furuncle 持續超過兩星期、同一位置反覆感染、造成 fever 或其他全身性症狀時,為預防感染惡化成菌血症。 Source: 醫(四)第2冊皮膚_乙、感染性皮膚病 Page 19-66.
 
 ## Clinical Caveats
 

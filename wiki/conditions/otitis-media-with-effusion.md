@@ -29,10 +29,10 @@ OME 是中耳積液但無急性感染症狀，常造成兒童傳導性聽損與�
 
 ## Key Details From Sources
 
-- 中耳常見疾病包括急性中耳炎(Acute otitis media, AOM)、積液性中耳炎(Otitis media with effusion)、慢性中耳炎(Chronic otitis media),而慢性中耳炎又可再區分為臨床症狀較輕微、併發症較少的慢性化膿性中耳炎(Chronic suppurative otitis media),以及較嚴重、併發症較多的膽脂瘤(Cholesteatoma)。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- #### D. 積液性中耳炎 (Otitis media with effusion, OME) Source: [[sources/med6-book4-ch11|甲、耳科]].
-- (1) 積液性中耳炎表示中耳腔有積液的產生。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- 4. 耳部症狀:當鼻咽癌腫瘤侵犯耳咽管時,會產生耳悶塞感、中耳積液、聽力障礙或 耳鳴等症狀。成人若有持續性單側之積液性中耳炎必須先排除 NPC。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
+- 中耳常見疾病包括急性中耳炎(Acute otitis media, AOM)、積液性中耳炎(Otitis media with effusion)、慢性中耳炎(Chronic otitis media),而慢性中耳炎又可再區分為臨床症狀較輕微、併發症較少的慢性化膿性中耳炎(Chronic suppurative otitis media),以及較嚴重、併發症較多的膽脂瘤(Cholesteatoma)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- #### D. 積液性中耳炎 (Otitis media with effusion, OME) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- (1) 積液性中耳炎表示中耳腔有積液的產生。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- 4. 耳部症狀:當鼻咽癌腫瘤侵犯耳咽管時,會產生耳悶塞感、中耳積液、聽力障礙或 耳鳴等症狀。成人若有持續性單側之積液性中耳炎必須先排除 NPC。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
 
 ## Clinical Caveats
 

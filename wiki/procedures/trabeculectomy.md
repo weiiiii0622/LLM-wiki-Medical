@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- ...beculoplasty):在小樑組織網(trabecular meshwork) 打半圈到一整圈的雷射,間接拉大小樑組織網孔,使房水排出,達到降低眼 壓效果。此雷射手術隨著時間會有降壓效果遞減的情形,效果不若侵入性手 術明顯。 - b. 小樑切除術(trabeculectomy):製造一個 partial thickness sclera flap 後,進入前房,切下一小塊的小樑組織網使房水直接灌入薛氏管,或經鞏膜隙縫流出眼球外,同時可加用抗代謝藥物(mitomycin-C、5-FU)避免過濾孔過早纖維化癒合。此法仍是目前青光眼手術的標準黃金治療方式。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
-- c. 導管植入手術 (filtering operation with implant): 以矽狀管植入形成固定性的 導管使房水排出由前房流至結膜下或眼眶組織,其適用於小樑切除術失敗者 或對小樑切除術反應不佳,經多次手術導致隅角沾黏者。 Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- ...beculoplasty):在小樑組織網(trabecular meshwork) 打半圈到一整圈的雷射,間接拉大小樑組織網孔,使房水排出,達到降低眼 壓效果。此雷射手術隨著時間會有降壓效果遞減的情形,效果不若侵入性手 術明顯。 - b. 小樑切除術(trabeculectomy):製造一個 partial thickness sclera flap 後,進入前房,切下一小塊的小樑組織網使房水直接灌入薛氏管,或經鞏膜隙縫流出眼球外,同時可加用抗代謝藥物(mitomycin-C、5-FU)避免過濾孔過早纖維化癒合。此法仍是目前青光眼手術的標準黃金治療方式。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
+- c. 導管植入手術 (filtering operation with implant): 以矽狀管植入形成固定性的 導管使房水排出由前房流至結膜下或眼眶組織,其適用於小樑切除術失敗者 或對小樑切除術反應不佳,經多次手術導致隅角沾黏者。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
 
 ## Clinical Caveats
 

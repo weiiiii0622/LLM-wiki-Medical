@@ -37,17 +37,17 @@ tags:
 
 ## Key Details From Sources
 
-- a. 生長速度:生長激素和 estrogen 刺激骨頭生長,青春期最早出現的就是加速 長高,一般在初經前半年達最大長高速度,之後 epiphysis 逐漸關閉,因此骨 齡較實際年齡與青春期發育階段相關。 Source: [[sources/med6-book1-ch10|甲、女性內分泌學(Female Endocrinology)]].
-- 7. 原發性骨癌的好發地方(大部分好發在 metaphysis,下方列出 epiphysis 和 diaphysis 的腫瘤,其餘都猜 metaphysis): - (1) Epiphysis (骨端處): Good Choice → Giant cell tumor, Chondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dyspl Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- | | 組織構造 | 好發腫瘤 | |------------|---------------------------------|------------------| | epiphysis | 長骨兩端與軟骨交接處, | Clear cell tumor | | _ | 是長骨變長的地方。 | Giant cell tumor | | | 組織型態:大部分為網狀骨 | Chondroblastoma | | | (spongy bone \ woven bone) | (軟骨為主) | | Metaphysis | Diaphysis 和 epiphysis 的過度區 | 其他 | | Diaphysis | 組織型態: Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- b. 可發生於骨頭的許多部位,但最常發生在四肢長骨骨幹處(尤其下肢,most common: proximal femur diaphysis)與脊椎,造成四肢及背部疼痛,嚴重時可能形成脊柱側彎(scoliosis)。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...a | | 好發年齡(歲) | 5~15 | 10~30 | | 好發性別 | 男 | 男 | | 好發部位 | proximal femur diaphyseal 最多 | Vertebra (最多)、sacrum、long bone (diaphysis) | | 病理 | 界線明顯, osteoid woven | 和 OO 相似 Osteolytic lesion with osseous- | | | bone, spindle cellnidus ( 2 cm, | | | cm) + sclerotic reactive bone | 發生率較低 | | 良惡性 | 良 | 良 | | 治療 | 小型可不處理。En-bloc excision, | 通常手術處理,Intral Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- ...---------------------------------------------------------------------| | 10~20 | 10~20(最常見良性骨腫瘤) | | 男 | 男 | | 膝蓋上下、長骨的 metaphysis | Metaphysis (膝蓋最常見) | | (小孩最常見的 sarcoma) | | | Fibrous tissue (stromal cell) + | 類似 hamartomatous proliferatio | | osteoid | of bone and cartilage | | | | | 悪 | 良 | | 開刀切除、術前化療 (+ 術後 | 沒症狀不處理;有症狀就整個 | | 化療 )、target the Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- ...---------------------|--------------------------------------------------------------| | 20~30 | 40~75 | | 男 | 男 | | 下肢的 metaphysis, 尤其以 proximal tiba 最多 | 很多位置可見,中軸骨為多 (pelvis, proximal | | | femur, scapula) | | Lobulation, fibromyxoid tissue, 內含許多 | Low grade: 細胞數↑,雙核 | | spindle cell | High grade: 分裂↑,雙核,形狀變化大,染色質深染 | | 良 | 惡(惡性度不會很高) | | Curetta Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
-- B. 股骨生長板滑脱 (Slipped capital femoral epiphysis, SCFE) 144 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
-- #### B. 股骨生長板滑脱 (Slipped capital femoral epiphysis, SCFE) Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
-- 1. 簡介:生長板(physis)相對於近端股骨頭/骨骺處(proximal femur epiphysis)所在的部位產生向後的移位,而造成股骨頸(femoral neck)相對向前的位移及外旋(external rotation)的變形。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
-- 1. 簡介:轉子間骨折的癒合能力很好,原因如下: - (1) 屬於 cancellous bone。 - (2) metaphysis 的地方血管供應佳,血流豐富。 - (3) 擁有 periosteum。 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- a. 生長速度:生長激素和 estrogen 刺激骨頭生長,青春期最早出現的就是加速 長高,一般在初經前半年達最大長高速度,之後 epiphysis 逐漸關閉,因此骨 齡較實際年齡與青春期發育階段相關。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_甲、女性內分泌學(Female Endocrinology) Page 321-374.
+- 7. 原發性骨癌的好發地方(大部分好發在 metaphysis,下方列出 epiphysis 和 diaphysis 的腫瘤,其餘都猜 metaphysis): - (1) Epiphysis (骨端處): Good Choice → Giant cell tumor, Chondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dyspl Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- | | 組織構造 | 好發腫瘤 | |------------|---------------------------------|------------------| | epiphysis | 長骨兩端與軟骨交接處, | Clear cell tumor | | _ | 是長骨變長的地方。 | Giant cell tumor | | | 組織型態:大部分為網狀骨 | Chondroblastoma | | | (spongy bone \ woven bone) | (軟骨為主) | | Metaphysis | Diaphysis 和 epiphysis 的過度區 | 其他 | | Diaphysis | 組織型態: Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- b. 可發生於骨頭的許多部位,但最常發生在四肢長骨骨幹處(尤其下肢,most common: proximal femur diaphysis)與脊椎,造成四肢及背部疼痛,嚴重時可能形成脊柱側彎(scoliosis)。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- ...a | | 好發年齡(歲) | 5~15 | 10~30 | | 好發性別 | 男 | 男 | | 好發部位 | proximal femur diaphyseal 最多 | Vertebra (最多)、sacrum、long bone (diaphysis) | | 病理 | 界線明顯, osteoid woven | 和 OO 相似 Osteolytic lesion with osseous- | | | bone, spindle cellnidus ( 2 cm, | | | cm) + sclerotic reactive bone | 發生率較低 | | 良惡性 | 良 | 良 | | 治療 | 小型可不處理。En-bloc excision, | 通常手術處理,Intral Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
+- ...---------------------------------------------------------------------| | 10~20 | 10~20(最常見良性骨腫瘤) | | 男 | 男 | | 膝蓋上下、長骨的 metaphysis | Metaphysis (膝蓋最常見) | | (小孩最常見的 sarcoma) | | | Fibrous tissue (stromal cell) + | 類似 hamartomatous proliferatio | | osteoid | of bone and cartilage | | | | | 悪 | 良 | | 開刀切除、術前化療 (+ 術後 | 沒症狀不處理;有症狀就整個 | | 化療 )、target the Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
+- ...---------------------|--------------------------------------------------------------| | 20~30 | 40~75 | | 男 | 男 | | 下肢的 metaphysis, 尤其以 proximal tiba 最多 | 很多位置可見,中軸骨為多 (pelvis, proximal | | | femur, scapula) | | Lobulation, fibromyxoid tissue, 內含許多 | Low grade: 細胞數↑,雙核 | | spindle cell | High grade: 分裂↑,雙核,形狀變化大,染色質深染 | | 良 | 惡(惡性度不會很高) | | Curetta Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
+- B. 股骨生長板滑脱 (Slipped capital femoral epiphysis, SCFE) 144 Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
+- #### B. 股骨生長板滑脱 (Slipped capital femoral epiphysis, SCFE) Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
+- 1. 簡介:生長板(physis)相對於近端股骨頭/骨骺處(proximal femur epiphysis)所在的部位產生向後的移位,而造成股骨頸(femoral neck)相對向前的位移及外旋(external rotation)的變形。 Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
+- 1. 簡介:轉子間骨折的癒合能力很好,原因如下: - (1) 屬於 cancellous bone。 - (2) metaphysis 的地方血管供應佳,血流豐富。 - (3) 擁有 periosteum。 Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
 
 ## Clinical Caveats
 

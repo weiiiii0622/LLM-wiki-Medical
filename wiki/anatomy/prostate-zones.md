@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 好發位置: - a. 70% 在周邊區(peripheral zone,此區原先占攝護腺 70% 體積)。 - b. 20% 在移行區(transition zone,此區原先占攝護腺 5% 體積)。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- c. 10% 在中央區 (central zone, 此區原先占攝護腺 25% 體積)。 Source: [[sources/med5-book5-ch04|丁、攝護腺]].
-- (A) BPH 是源自前列腺之 transition zone (TZ) Source: [[sources/med5-book5-ch04|丁、攝護腺]].
+- (2) 好發位置: - a. 70% 在周邊區(peripheral zone,此區原先占攝護腺 70% 體積)。 - b. 20% 在移行區(transition zone,此區原先占攝護腺 5% 體積)。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- c. 10% 在中央區 (central zone, 此區原先占攝護腺 25% 體積)。 Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
+- (A) BPH 是源自前列腺之 transition zone (TZ) Source: 醫(五)第5冊泌尿_丁、攝護腺 Page 93-116.
 
 ## Clinical Caveats
 

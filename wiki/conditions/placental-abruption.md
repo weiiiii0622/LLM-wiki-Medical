@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ### 2. 胎盤早期剝離 (placental abruption): Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- · 積血滲入子宮肌層造成子宮壁青一塊、紫一塊的表現,稱為子宮胎盤中風 (uteroplacental apoplexy),又稱庫爾萊爾式子宮 (Couvelaire uterus) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- (A) 1. 下列那一種狀況發生胎盤早期剝離 (plancental abruption ) 的風 108(-)專 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- | 胎兒週數 | ・子癲前症未具嚴重表徴:胎兒足月37週可考慮生産 | | |------|--------------------------------------|--| | | ・子癲前症具嚴重表徴:胎兒 34 週後即可考慮生產 | | | 母親狀況 | ・ HELLP syndrome 或 Eclampsia | | | | · 子癲前症具嚴重表徵且持續惡化 | | | 胎兒狀況 | 胎兒窘迫或嚴重胎兒生長遲緩或胎死腹中 | | | | • 早期陣痛或早期破水 | | | 胎盤狀況 | • 胎盤早期剝離 | | Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
+- ### 2. 胎盤早期剝離 (placental abruption): Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- · 積血滲入子宮肌層造成子宮壁青一塊、紫一塊的表現,稱為子宮胎盤中風 (uteroplacental apoplexy),又稱庫爾萊爾式子宮 (Couvelaire uterus) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- (A) 1. 下列那一種狀況發生胎盤早期剝離 (plancental abruption ) 的風 108(-)專 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- | 胎兒週數 | ・子癲前症未具嚴重表徴:胎兒足月37週可考慮生産 | | |------|--------------------------------------|--| | | ・子癲前症具嚴重表徴:胎兒 34 週後即可考慮生產 | | | 母親狀況 | ・ HELLP syndrome 或 Eclampsia | | | | · 子癲前症具嚴重表徵且持續惡化 | | | 胎兒狀況 | 胎兒窘迫或嚴重胎兒生長遲緩或胎死腹中 | | | | • 早期陣痛或早期破水 | | | 胎盤狀況 | • 胎盤早期剝離 | | Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
 
 ## Clinical Caveats
 

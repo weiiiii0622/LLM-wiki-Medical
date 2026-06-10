@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- b. 其他罕見異常:無陰莖(apenia)、大陰莖(megalopenis)、多重尿道(duplication of urethra)、先天尿道狹窄(urethral stricture)、尿道前瓣膜(anterior urethral valves)、尿道直腸或膀胱直腸瘻管、尿道上裂(epispadias)。 Source: [[sources/med5-book5-ch03|丙、外生殖器]].
-- #### e. 尿道狹窄 (urethral stricture): Source: [[sources/med5-book5-ch03|丙、外生殖器]].
+- b. 其他罕見異常:無陰莖(apenia)、大陰莖(megalopenis)、多重尿道(duplication of urethra)、先天尿道狹窄(urethral stricture)、尿道前瓣膜(anterior urethral valves)、尿道直腸或膀胱直腸瘻管、尿道上裂(epispadias)。 Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
+- #### e. 尿道狹窄 (urethral stricture): Source: 醫(五)第5冊泌尿_丙、外生殖器 Page 67-92.
 
 ## Clinical Caveats
 

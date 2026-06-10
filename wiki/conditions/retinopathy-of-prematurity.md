@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 原因: 視網膜表面有異常的纖維組織增生,收縮造成牽引的力量,將感覺視網膜層和色素上皮層分開。常見於增生性血管病變,如:增殖性糖尿病視網膜病變、早產兒視網膜病變、網膜分支靜脈阻塞,另外還包含眼球外傷造成的結痂。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- #### 早產兒視網膜病變(Retinopathy of prematurity) Source: [[sources/med6-book2-ch12|子、視網膜]].
-- 4. 早產兒視網膜病變的分級 International Classification of Retinopathy of Prematurity (ICROP): - (1) 位置(location):越內圈(zone 1)危險度越高 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- ...inase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: [[sources/med6-book2-ch08|辛、水晶體及白內障]].
-- 1. 請詳見「子、視網膜的 E. 視網膜血管疾病的早產兒視網膜病變」一節。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
+- (1) 原因: 視網膜表面有異常的纖維組織增生,收縮造成牽引的力量,將感覺視網膜層和色素上皮層分開。常見於增生性血管病變,如:增殖性糖尿病視網膜病變、早產兒視網膜病變、網膜分支靜脈阻塞,另外還包含眼球外傷造成的結痂。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- #### 早產兒視網膜病變(Retinopathy of prematurity) Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- 4. 早產兒視網膜病變的分級 International Classification of Retinopathy of Prematurity (ICROP): - (1) 位置(location):越內圈(zone 1)危險度越高 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- ...inase缺乏)或是全身性疾病(如唐氏症、Edward 氏症、Marfan 氏症、Turner 氏症、肌強直失養症 myotonic dystrophy)、感染(如子宮內感染 TORCH:弓漿蟲症、德國麻疹、巨細胞病毒、單純皰疹)、及早產(retinopathy of prematurity)等。註:德國麻疹除會造成單側或雙側的白內障外,亦會引起心臟疾病或耳聾。 Source: 醫(六)第2冊眼科_第一篇、眼科_辛、水晶體及白內障 Page 85-94.
+- 1. 請詳見「子、視網膜的 E. 視網膜血管疾病的早產兒視網膜病變」一節。 Source: 醫(六)第2冊眼科_第一篇、眼科_巳、小兒眼科學 Page 211-216.
 
 ## Clinical Caveats
 

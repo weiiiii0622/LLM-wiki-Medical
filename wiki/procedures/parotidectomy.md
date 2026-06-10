@@ -27,9 +27,9 @@ Parotidectomy 需保護 facial nerve，常用於 parotid tumor 或特定慢性�
 
 ## Key Details From Sources
 
-- 1. 一般建議進行完整的切除腫瘤(腮腺切除或切除腫瘤及足夠之 safe margin),避免 只做切片檢查。若為惡性腫瘤,則需考慮加作頸部淋巴結清除。惡性腫瘤術後,需 視病情評估是否需要放射線輔助治療或化學治療。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- (pseudopodia)深入腺體組織,故手術不應只針對腫瘤部分作 enucleation (只作摘除的復發率可達 30%),而應作腮腺切除 (parotidectomy)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- (2) 當腫瘤位於淺葉時,作淺葉腮腺切除(superficial parotidectomy);當位於深葉時,作全腮腺切除(total parotidectomy)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
+- 1. 一般建議進行完整的切除腫瘤(腮腺切除或切除腫瘤及足夠之 safe margin),避免 只做切片檢查。若為惡性腫瘤,則需考慮加作頸部淋巴結清除。惡性腫瘤術後,需 視病情評估是否需要放射線輔助治療或化學治療。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- (pseudopodia)深入腺體組織,故手術不應只針對腫瘤部分作 enucleation (只作摘除的復發率可達 30%),而應作腮腺切除 (parotidectomy)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- (2) 當腫瘤位於淺葉時,作淺葉腮腺切除(superficial parotidectomy);當位於深葉時,作全腮腺切除(total parotidectomy)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- F. 胸腔出口症候群 (Thoracic outlet syndrome) 8 Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- ### F. 胸腔出口症候群(Thoracic outlet syndrome, TOS) Source: [[sources/med5-book4-ch01|甲、胸壁]].
-- (From Urschel HC, Razzuk M: Upper plexus thoracic outlet syndrome: Optimal therapy. *Ann Thorac Surg* 63:935–939, 1997.) Source: [[sources/med5-book4-ch01|甲、胸壁]].
+- F. 胸腔出口症候群 (Thoracic outlet syndrome) 8 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- ### F. 胸腔出口症候群(Thoracic outlet syndrome, TOS) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
+- (From Urschel HC, Razzuk M: Upper plexus thoracic outlet syndrome: Optimal therapy. *Ann Thorac Surg* 63:935–939, 1997.) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
 
 ## Clinical Caveats
 

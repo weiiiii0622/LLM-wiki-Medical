@@ -37,19 +37,19 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 又稱作 tic douloureux。 Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- ...| | (D) 伽傌刀放射手術(Gamma knife surgery) | | | (A) | 7. 下列之敘述何者與三叉神經痛無關? | 92(二)專 | | | (A) 會發生眼皮閉合不全 | 外一-39 | | | (B) 又稱 tic douloureux | | | | (C) 最常侵犯第 2 及第 3 分枝 | | | | (D) 微血管減壓(microvascular decompression, MVD)之成功率 | | | | 相當高 | | | | | | | | | | Source: [[sources/med5-book1-ch20|子、三叉神經痛及其他]].
-- III. Tic Disorder 162 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- IV. Tourette's Disorder 162 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- 3. 常見的共病症包括:品行疾患(conduct disorder)、對立性反抗疾患、情感性疾患、 焦慮性疾患、學習疾患、Tourette 氏疾患、長大甚至可能會有反社會人格違常等。 Source: [[sources/med4-book3-ch07|庚、兒童與青少年的精神疾病]].
-- 4. 產生其他精神疾患的共病率:67% 重鬱症;25% 社交恐懼症,其他如酒精濫用、廣泛性、焦慮症、恐慌症、Tourette's disorder (5~7%)。 Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (A) 抽搐症(tic disorder) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- (B) 妥瑞氏症候群(Tourette's syndrome) Source: [[sources/med4-book3-ch03|丙、焦慮性疾患]].
-- 5. Tourette's disorder:可以改善病人的 tic movements, haloperidol 與 pimozide 是最常被使用的藥物。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: [[sources/med4-book3-ch09|壬、精神科的治療]].
-- V. 神經行為疾病 242 - A. 注意力不足 / 過動症 242 - B. 妥瑞氏症(Tics and Tourette syndrome) 245 Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (C) Tourette's syndrome Source: [[sources/med4-book1-ch05|戊、神經系統性疾病]].
-- (B) 1.4歲男童因有自閉行為(Autistic behavior)而就診,出生時的基本新生兒篩檢及常規染色體檢查並無異常。身體診察顯示頭圍正常、臉型稍長、耳朵大、睪丸體積亦較同年紀男生大。其30歲的媽媽亦因遲遲未能再懷孕,經檢查發現有早發性卵巢衰竭。此男童最有可能患有下列何種疾病? - (A) Asperger syndrome - (B) Fragile X syndrome - (C) Klinefelter syndrome - (D) Tourette syndrome Source: [[sources/med4-book1-ch10|癸、遺傳學]].
+- 3. 又稱作 tic douloureux。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_子、三叉神經痛及其他 Page 245-256.
+- ...| | (D) 伽傌刀放射手術(Gamma knife surgery) | | | (A) | 7. 下列之敘述何者與三叉神經痛無關? | 92(二)專 | | | (A) 會發生眼皮閉合不全 | 外一-39 | | | (B) 又稱 tic douloureux | | | | (C) 最常侵犯第 2 及第 3 分枝 | | | | (D) 微血管減壓(microvascular decompression, MVD)之成功率 | | | | 相當高 | | | | | | | | | | Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_子、三叉神經痛及其他 Page 245-256.
+- III. Tic Disorder 162 Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- IV. Tourette's Disorder 162 Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- 3. 常見的共病症包括:品行疾患(conduct disorder)、對立性反抗疾患、情感性疾患、 焦慮性疾患、學習疾患、Tourette 氏疾患、長大甚至可能會有反社會人格違常等。 Source: 醫(四)第3冊精神科_庚、兒童與青少年的精神疾病 Page 161-180.
+- 4. 產生其他精神疾患的共病率:67% 重鬱症;25% 社交恐懼症,其他如酒精濫用、廣泛性、焦慮症、恐慌症、Tourette's disorder (5~7%)。 Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- (A) 抽搐症(tic disorder) Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- (B) 妥瑞氏症候群(Tourette's syndrome) Source: 醫(四)第3冊精神科_丙、焦慮性疾患 Page 55-88.
+- 5. Tourette's disorder:可以改善病人的 tic movements, haloperidol 與 pimozide 是最常被使用的藥物。 Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
+- 3. 也常被使用在 AIDS dementia、autistic disorder、dementia-related psychosis、Tourette's disorder、Huntington's disease 與 Lesch-Nyhan syndrome。 Source: 醫(四)第3冊精神科_壬、精神科的治療 Page 187-206.
+- V. 神經行為疾病 242 - A. 注意力不足 / 過動症 242 - B. 妥瑞氏症(Tics and Tourette syndrome) 245 Source: 醫(四)第1冊小兒_戊、神經系統性疾病 Page 229-284.
+- (C) Tourette's syndrome Source: 醫(四)第1冊小兒_戊、神經系統性疾病 Page 229-284.
+- (B) 1.4歲男童因有自閉行為(Autistic behavior)而就診,出生時的基本新生兒篩檢及常規染色體檢查並無異常。身體診察顯示頭圍正常、臉型稍長、耳朵大、睪丸體積亦較同年紀男生大。其30歲的媽媽亦因遲遲未能再懷孕,經檢查發現有早發性卵巢衰竭。此男童最有可能患有下列何種疾病? - (A) Asperger syndrome - (B) Fragile X syndrome - (C) Klinefelter syndrome - (D) Tourette syndrome Source: 醫(四)第1冊小兒_癸、遺傳學 Page 409-448.
 
 ## Clinical Caveats
 

@@ -29,10 +29,10 @@ NPC 與 EBV、地理族群與非角化型組織學相關，常以頸部淋巴結
 
 ## Key Details From Sources
 
-- III. 鼻咽癌(Nasopharyngeal Carcinoma, NPC) 251 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### III. 鼻咽癌 (Nasopharyngeal Carcinoma, NPC) Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- 1. 家族遺傳:一等親內如果有人罹患鼻咽癌,此人發生鼻咽癌的機率為一般人的十多倍。可能與 HLA-A2 或某些染色體的基因有關。 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- (2) 鼻咽癌也常考,近幾年都是症狀搭配影像來考診斷 NPC。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- III. 鼻咽癌(Nasopharyngeal Carcinoma, NPC) 251 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### III. 鼻咽癌 (Nasopharyngeal Carcinoma, NPC) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- 1. 家族遺傳:一等親內如果有人罹患鼻咽癌,此人發生鼻咽癌的機率為一般人的十多倍。可能與 HLA-A2 或某些染色體的基因有關。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- (2) 鼻咽癌也常考,近幾年都是症狀搭配影像來考診斷 NPC。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
 
 ## Clinical Caveats
 

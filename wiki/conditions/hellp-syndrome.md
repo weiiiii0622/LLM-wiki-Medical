@@ -35,15 +35,15 @@ preeclampsia spectrum 中的 hemolysis、elevated liver enzymes、low platelets�
 
 ## Key Details From Sources
 
-- ...併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併心衰竭的孕婦 | 7.8~23% | Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
-- (1) 溶血性青光眼:玻璃體出血過久,導致紅血球的死亡細胞、碎片、或是鐵離子造成前房隅角小樑組織阻塞及發炎。 Source: [[sources/med6-book2-ch10|癸、玻璃體]].
-- ...| (Preeclampsia) | 尿或器官失能。 | | 子癲症 | · 已診斷 Preeclampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalized seizure)稱之。 | | HELLP syndrome | ・溶血 (hemolysis)、肝指數上升 (elevated liver enzyme) | | | 和低血小板 (low platelets) 三種表現合併出現。 | | 慢性高血壓 | · 懷孕前即診斷高血壓或懷孕 20 週前即出現高血壓稱之。 | | (Chronic HTN) | ・ 懷孕初次診斷高血壓,於產後 12 週血壓仍未恢復者亦 | | | 為慢性高血壓。 | | 慢性高血壓併子癲前症 | · Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- 註 2:HELLP syndrome 可能為嚴重子癲前症的一種變異型,和子癲前症的關係目前仍有爭議。甚至有學者認為 HELLP syndrome 為獨立的一種疾病,和子癲前症無關,因為有 15~20% 的 HELLP syndrome 並沒有出現血壓高和蛋白尿的情形。其三種表現的定義 亦請見下面的診斷標準。 Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- ### (3) HELLP syndrome Source: [[sources/med6-book1-ch04|丁、高危險妊娠 (High Risk Pregnancy)]].
-- ...| | | | 紀大、產次高 | | | Thrombin | ・母親凝血功能異常 | 先天性:von Willebrand disease | 1% | | | | 後天性:severe preeclampsia、 | | | | | HELLP syndrome \placenta abruptio \ | | | | | IUFD · sepsis | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- (B)雙胞胎之捐贈者往往會發生溶血性貧血症 (hemolytic anemia) Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- · 評估胎兒血型、血液性病變(如地中海型貧血)及溶血嚴重度 Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
-- ...--------|----------------------------------------|--|--|--|--| | | 5~30% HbH (β4),又稱 HbH disease | | | | | | | ・ 此型病人會發生溶血性貧血 (hemolytic anemia)、 | | | | | | | 肝脾腫大、偶而會造成胎兒水腫;新生兒的臨床 | | | | | | | 表現和 β thalassemia intermedia 相似,皆不須依賴 | | | | | | | 輸血仍可存活 | | | | | | α thalassemia major | ・4 個基因座全缺失 (/),又稱 Hydrops fetalis with | | | | | | | Source: [[sources/med6-book1-ch01|甲、產前時期(Ante-Partum Period)]].
+- ...併嚴重特徵或需要打胰島素的孕婦、早產兒(矯正年齡疾病,且可能危及生命 | 最近三個月內發生中風、心肌梗塞、冠狀動脈疾病、嚴重瓣膜性心臟病、嚴重心臟衰竭、休克、敗血症、末期腎病變 (ESRD) 且不規則洗腎、全身瀰漫性血管內凝血 (DIC)、HELLP syndrome 或孕期心肌病變併心衰竭的孕婦 | 7.8~23% | Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
+- (1) 溶血性青光眼:玻璃體出血過久,導致紅血球的死亡細胞、碎片、或是鐵離子造成前房隅角小樑組織阻塞及發炎。 Source: 醫(六)第2冊眼科_第一篇、眼科_癸、玻璃體 Page 113-118.
+- ...| (Preeclampsia) | 尿或器官失能。 | | 子癲症 | · 已診斷 Preeclampsia 的孕婦,若出現全身型發作之癲癇 | | (Eclampsia) | (Generalized seizure)稱之。 | | HELLP syndrome | ・溶血 (hemolysis)、肝指數上升 (elevated liver enzyme) | | | 和低血小板 (low platelets) 三種表現合併出現。 | | 慢性高血壓 | · 懷孕前即診斷高血壓或懷孕 20 週前即出現高血壓稱之。 | | (Chronic HTN) | ・ 懷孕初次診斷高血壓,於產後 12 週血壓仍未恢復者亦 | | | 為慢性高血壓。 | | 慢性高血壓併子癲前症 | · Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- 註 2:HELLP syndrome 可能為嚴重子癲前症的一種變異型,和子癲前症的關係目前仍有爭議。甚至有學者認為 HELLP syndrome 為獨立的一種疾病,和子癲前症無關,因為有 15~20% 的 HELLP syndrome 並沒有出現血壓高和蛋白尿的情形。其三種表現的定義 亦請見下面的診斷標準。 Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- ### (3) HELLP syndrome Source: 醫(六)第1冊婦產_第一篇、產科_丁、高危險妊娠 (High Risk Pregnancy) Page 139-162.
+- ...| | | | 紀大、產次高 | | | Thrombin | ・母親凝血功能異常 | 先天性:von Willebrand disease | 1% | | | | 後天性:severe preeclampsia、 | | | | | HELLP syndrome \placenta abruptio \ | | | | | IUFD · sepsis | | Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- (B)雙胞胎之捐贈者往往會發生溶血性貧血症 (hemolytic anemia) Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- · 評估胎兒血型、血液性病變(如地中海型貧血)及溶血嚴重度 Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
+- ...--------|----------------------------------------|--|--|--|--| | | 5~30% HbH (β4),又稱 HbH disease | | | | | | | ・ 此型病人會發生溶血性貧血 (hemolytic anemia)、 | | | | | | | 肝脾腫大、偶而會造成胎兒水腫;新生兒的臨床 | | | | | | | 表現和 β thalassemia intermedia 相似,皆不須依賴 | | | | | | | 輸血仍可存活 | | | | | | α thalassemia major | ・4 個基因座全缺失 (/),又稱 Hydrops fetalis with | | | | | | | Source: 醫(六)第1冊婦產_第一篇、產科_甲、產前時期(Ante-Partum Period) Page 17-86.
 
 ## Clinical Caveats
 

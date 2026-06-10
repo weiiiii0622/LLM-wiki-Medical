@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- II. 躁鬱症(Bipolar Disorder) 23 - A. 第一型躁鬱症 (Bipolar I disorder) 23 - B. 第二型躁鬱症 (Bipolar II disorder) 25 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- 雙極性疾患 (bipolar disorders ) 包括: - 第一型雙極性疾患(bipolar I disorder)。 - 第二型雙極性疾患(bipolar II disorder)。 - 循環性情感疾患(cyclothymic disorder)。 - ■其他未註明之雙極性疾患。 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- #### B. 第二型躁鬱症 (Bipolar II disorder) Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- II. 躁鬱症(Bipolar Disorder) 23 - A. 第一型躁鬱症 (Bipolar I disorder) 23 - B. 第二型躁鬱症 (Bipolar II disorder) 25 Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- 雙極性疾患 (bipolar disorders ) 包括: - 第一型雙極性疾患(bipolar I disorder)。 - 第二型雙極性疾患(bipolar II disorder)。 - 循環性情感疾患(cyclothymic disorder)。 - ■其他未註明之雙極性疾患。 Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- #### B. 第二型躁鬱症 (Bipolar II disorder) Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
 
 ## Clinical Caveats
 

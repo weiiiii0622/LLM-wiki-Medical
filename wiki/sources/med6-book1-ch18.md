@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第五篇、內視鏡_乙、子宮鏡(Hysteroscopy).md
+raw_source_title: "醫(六)第1冊婦產_第五篇、內視鏡_乙、子宮鏡(Hysteroscopy)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第五篇、內視鏡_乙、子宮鏡(Hysteroscopy).md"
+page_start: 465
+page_end: 470
+canonical_citation: "醫(六)第1冊婦產_第五篇、內視鏡_乙、子宮鏡(Hysteroscopy) Page 465-470"
 book: 醫(六)第1冊婦產
 chapter_order: 18
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第五篇、內視鏡_乙、子宮鏡(Hysteroscopy).md`
+- Pages covered: 465-470
+- Canonical citation: 醫(六)第1冊婦產_第五篇、內視鏡_乙、子宮鏡(Hysteroscopy) Page 465-470
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

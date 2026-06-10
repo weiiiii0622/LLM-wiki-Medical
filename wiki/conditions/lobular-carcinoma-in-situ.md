@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (4) 若為 DCIS (Ductal Carcinoma In Situ) 或 LCIS (Lobular Carcinoma In Situ) 則 罹癌機率上昇八到十倍。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- 2. 非侵襲性癌(Non-invasive cancer):表示腫瘤尚未侵犯到乳房組織的乳管或乳小葉的基底膜,可再分成乳管原位癌(Ductal carcinoma in situ, DCIS)與葉狀原位癌(Lobular carcinoma in situ, LCIS)。 - (1) 乳管原位癌 (Ductal carcinoma in situ, DCIS): - a. 前言: - (a) 惡性乳管上皮細胞,未侵犯基底膜,仍侷限在乳管內,發生率約為 5~10%。 - (b) 可視為癌症前期病灶,50~60% 會 進展成同側乳癌,5~10% 會進展 成對側乳癌,最多45% 同時已伴 隨有乳癌。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- (2) 葉狀原位癌 (Lobular carcinoma in situ, LCIS): Source: [[sources/med5-book3-ch24|丁、乳癌]].
+- (4) 若為 DCIS (Ductal Carcinoma In Situ) 或 LCIS (Lobular Carcinoma In Situ) 則 罹癌機率上昇八到十倍。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- 2. 非侵襲性癌(Non-invasive cancer):表示腫瘤尚未侵犯到乳房組織的乳管或乳小葉的基底膜,可再分成乳管原位癌(Ductal carcinoma in situ, DCIS)與葉狀原位癌(Lobular carcinoma in situ, LCIS)。 - (1) 乳管原位癌 (Ductal carcinoma in situ, DCIS): - a. 前言: - (a) 惡性乳管上皮細胞,未侵犯基底膜,仍侷限在乳管內,發生率約為 5~10%。 - (b) 可視為癌症前期病灶,50~60% 會 進展成同側乳癌,5~10% 會進展 成對側乳癌,最多45% 同時已伴 隨有乳癌。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- (2) 葉狀原位癌 (Lobular carcinoma in situ, LCIS): Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
 
 ## Clinical Caveats
 

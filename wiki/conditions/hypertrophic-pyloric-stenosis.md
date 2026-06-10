@@ -31,13 +31,13 @@ tags:
 
 ## Key Details From Sources
 
-- A. 肥厚性幽門狹窄 (Hypertrophic pyloric stenosis, HPS) 144 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- ### A. 肥厚性幽門狹窄 (Hypertrophic pyloric stenosis, HPS) Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- (A) 1. 滿月嬰兒若於餵食後呈現噴射狀嘔吐,須懷疑幽門肥厚性狹窄 108(-)專 (hypertrophic pyloric stenosis),下列有關檢查及治療之敘述,何 醫五-49 者最正確? - (A) 確定診斷可借助腹部觸診發現右上腹橄欖狀硬塊、腹部超音 波或上消化道攝影 - (B) 平躺腹部 X 光檢查可發現雙氣泡徵象 (double bubble sign) - (C) 嬰兒幽門肥厚性狹窄因屬腸胃道阻塞之一,通常屬於外科急症(surgical emergency) - (D) 手術治療目前以幽門成形手術(pyloroplasty)為主 Source: [[sources/med5-book4-ch11|丁、腸胃道]].
-- V. 胃與腸道 (Stomach and Intestines) 68 - A. 肥厚性幽門狹窄 68 - B. 十二指腸閉鎖 71 - C. 腸轉位異常 71 - D. 腸套疊 72 - E. 梅克爾氏憩室 73 - F. 功能性便秘 74 - G. 先天性巨腸症 75 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- # A. 肥厚性幽門狹窄 (Hypertrophic pyloric stenosis, HPS) Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- (2) 一開始多為無膽汁性嘔吐,且並非馬上表現噴射狀嘔吐。隨著時間進展則表現 出噴射狀嘔吐(projectile vomiting),通常餵食後會表現。 Source: [[sources/med4-book1-ch02|乙、消化系統]].
-- Erythromycin:可能造成 infantile hypertrophic pyloric stenosis,故 azithromycin 優先使用。 Clarithromycin:不建議新生兒使用。 Source: [[sources/med4-book1-ch04|丁、感染科學]].
+- A. 肥厚性幽門狹窄 (Hypertrophic pyloric stenosis, HPS) 144 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- ### A. 肥厚性幽門狹窄 (Hypertrophic pyloric stenosis, HPS) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- (A) 1. 滿月嬰兒若於餵食後呈現噴射狀嘔吐,須懷疑幽門肥厚性狹窄 108(-)專 (hypertrophic pyloric stenosis),下列有關檢查及治療之敘述,何 醫五-49 者最正確? - (A) 確定診斷可借助腹部觸診發現右上腹橄欖狀硬塊、腹部超音 波或上消化道攝影 - (B) 平躺腹部 X 光檢查可發現雙氣泡徵象 (double bubble sign) - (C) 嬰兒幽門肥厚性狹窄因屬腸胃道阻塞之一,通常屬於外科急症(surgical emergency) - (D) 手術治療目前以幽門成形手術(pyloroplasty)為主 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_丁、腸胃道 Page 157-186.
+- V. 胃與腸道 (Stomach and Intestines) 68 - A. 肥厚性幽門狹窄 68 - B. 十二指腸閉鎖 71 - C. 腸轉位異常 71 - D. 腸套疊 72 - E. 梅克爾氏憩室 73 - F. 功能性便秘 74 - G. 先天性巨腸症 75 Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- # A. 肥厚性幽門狹窄 (Hypertrophic pyloric stenosis, HPS) Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- (2) 一開始多為無膽汁性嘔吐,且並非馬上表現噴射狀嘔吐。隨著時間進展則表現 出噴射狀嘔吐(projectile vomiting),通常餵食後會表現。 Source: 醫(四)第1冊小兒_乙、消化系統 Page 63-110.
+- Erythromycin:可能造成 infantile hypertrophic pyloric stenosis,故 azithromycin 優先使用。 Clarithromycin:不建議新生兒使用。 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
 
 ## Clinical Caveats
 

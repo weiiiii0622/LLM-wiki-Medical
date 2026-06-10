@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_庚、腎臟移植.md
+raw_source_title: "醫(三)第3冊腎內感染_第一篇、腎臟內科_庚、腎臟移植"
+raw_source_file: "raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_庚、腎臟移植.md"
+page_start: 129
+page_end: 132
+canonical_citation: "醫(三)第3冊腎內感染_第一篇、腎臟內科_庚、腎臟移植 Page 129-132"
 book: 醫(三)第3冊腎內感染
 chapter_order: 7
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第3冊腎內感染
 - Chapter file: `raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_庚、腎臟移植.md`
+- Pages covered: 129-132
+- Canonical citation: 醫(三)第3冊腎內感染_第一篇、腎臟內科_庚、腎臟移植 Page 129-132
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

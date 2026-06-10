@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- F. 肱骨上髁炎 (Epicondylitis) 82 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- #### F. 肱骨上踝炎 (Epicondylitis) Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- #### 1. Lateral epicondylitis: Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- 【詳解】肘關節外側疼痛合併有 tennis play 的 history,可推測 為 tennis elbow,此地方是 extensor carpi radialis brevis(ECRB) tendon 的 insertion 處,故選 (C)。 Source: [[sources/med5-book6-ch06|己、手部]].
+- F. 肱骨上髁炎 (Epicondylitis) 82 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- #### F. 肱骨上踝炎 (Epicondylitis) Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- #### 1. Lateral epicondylitis: Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- 【詳解】肘關節外側疼痛合併有 tennis play 的 history,可推測 為 tennis elbow,此地方是 extensor carpi radialis brevis(ECRB) tendon 的 insertion 處,故選 (C)。 Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
 
 ## Clinical Caveats
 

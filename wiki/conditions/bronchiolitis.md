@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 移植術後早期常見之死亡原因為 bronchiolitis obliterans, 而晚期常見之死亡原因則為 infection Source: [[sources/med5-book1-ch06|己、移植外科]].
-- 【詳解】移植術後早期常見之死亡原因為 graft failure,會造成 ARDS/diffuse alveolar damage,而晚期常見之死亡原因則為bronchiolitis obliterans syndrome (BOS)。 Source: [[sources/med5-book1-ch06|己、移植外科]].
-- VII. 細支氣管炎 (Bronchiolitis) 175 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- C. 病因:以副流感病毒(parainfluenza virus)最常見,佔 croup 約 67%,第二常見為呼吸道融合病毒(RSV)。另外,流感病毒或腺病毒也會引起哮吼。細菌感染也有機會引發哮吼,只是不若病毒常見。(任何造成呼吸道感染的病原體都有機會引發哮吼) Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- ...Chlamydia trachomatis pneumonia 臨床上表現 persistent cough、tachypnea and abscence of fever。聽診常有 rales,wheezing 反而不常見;臨床上常與 RSV 感染造成的肺炎(發燒、聽診出現 wheezing)做鑑別診斷。實驗室檢查表現 eosinophilia(> 400/μL)。影像學檢查:胸部 X-ray 表現 hyperinflation accompanied by minimal interstitial or aveolar infiltrates。另外,孕婦本身有 Chlamydia trachomatis 感染且未有治療,生產後其孩子有 10~20% 在 1~3 個月大時會 Source: [[sources/med4-book1-ch04|丁、感染科學]].
-- (B) 細支氣管炎 (Bronchiolitis) Source: [[sources/med4-book1-ch01|甲、心臟肺部血管系統]].
+- (C) 移植術後早期常見之死亡原因為 bronchiolitis obliterans, 而晚期常見之死亡原因則為 infection Source: 醫(五)第1冊外概腦外_第一篇、外科概論_己、移植外科 Page 71-86.
+- 【詳解】移植術後早期常見之死亡原因為 graft failure,會造成 ARDS/diffuse alveolar damage,而晚期常見之死亡原因則為bronchiolitis obliterans syndrome (BOS)。 Source: 醫(五)第1冊外概腦外_第一篇、外科概論_己、移植外科 Page 71-86.
+- VII. 細支氣管炎 (Bronchiolitis) 175 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- C. 病因:以副流感病毒(parainfluenza virus)最常見,佔 croup 約 67%,第二常見為呼吸道融合病毒(RSV)。另外,流感病毒或腺病毒也會引起哮吼。細菌感染也有機會引發哮吼,只是不若病毒常見。(任何造成呼吸道感染的病原體都有機會引發哮吼) Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- ...Chlamydia trachomatis pneumonia 臨床上表現 persistent cough、tachypnea and abscence of fever。聽診常有 rales,wheezing 反而不常見;臨床上常與 RSV 感染造成的肺炎(發燒、聽診出現 wheezing)做鑑別診斷。實驗室檢查表現 eosinophilia(> 400/μL)。影像學檢查:胸部 X-ray 表現 hyperinflation accompanied by minimal interstitial or aveolar infiltrates。另外,孕婦本身有 Chlamydia trachomatis 感染且未有治療,生產後其孩子有 10~20% 在 1~3 個月大時會 Source: 醫(四)第1冊小兒_丁、感染科學 Page 165-228.
+- (B) 細支氣管炎 (Bronchiolitis) Source: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62.
 
 ## Clinical Caveats
 

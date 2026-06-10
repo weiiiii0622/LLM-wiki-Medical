@@ -33,14 +33,14 @@ tags:
 
 ## Key Details From Sources
 
-- ...須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時無效果,應安排乳房超音波,檢查是否有 | | | | breast abscess | | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- 1. 乳癌的檢查篩檢可分為: - (1) 身體理學檢查:建議每月月經結束後一星期,自我檢查乳房,若有異常應立即 就醫。 - (2) 影像學檢查:乳房超音波、乳房攝影、乳房核磁共振。 - (3) 病理確診:FNAC、CNB、Mammotome、Surgical biopsy。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- 3. 乳房超音波為 operator-dependent,診斷率與操作者經驗與技術相關。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- (2) 在歐美為 gold standard 的篩檢工具,但由於亞洲女性乳房較為緻密,有時易受干擾,必須輔以乳房超音波協助診斷,或先以乳房超音波作為篩檢工具。 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
-- (2) 通常是因為乳房攝影檢查時發現不明腫塊,須進一步用乳房超音波去 判讀為 solid 或 cystic 的組織。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- 3. 檢查: 乳管造影術 (galactography)、乳房超音波、分泌物的細胞學檢查 (cytology)。 Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- ...ductoectasia) | | | | (D) 乳突瘤(papilloma) | | | | (D) FLAM (Pupmomu) | | | (D) | 11. 承上題,下列何者不是必要的檢查? | 99(一)專 | | | (A) 乳房超音波(ultrasonography) | 醫五-44 | | | (B) 乳房攝影(mammography) | | | | (C) 乳管攝影術(galactography) | | | | (D) 血清泌乳激素(prolactin)濃度測定 | | Source: [[sources/med5-book3-ch22|乙、良性乳房疾病]].
-- 2. 而乳房外科大概是外科數一數二好準備的科目,每年大約五題甚至更多,CP 值頗高!! 若沒有時間,一定要看幾個關鍵 topic: - (1) 長胸神經 (Long thoracic nerve): 重要的解剖構造!! - (2) 影像檢查:要理解乳房超音波與乳房攝影的選擇以及什麼是 BI-RADS。 - (3) 良性腫瘤:乳突狀瘤(Papilloma)。 - (4) 惡性腫瘤:免疫組織生化學檢查的意義與手術的方式。 Source: [[sources/med5-book3-ch20|丁、胰臟癌]].
+- ...須選擇能對抗金黃色葡萄球菌的抗生素,一般可使用 | | | | oxacillin or dicloxacillin 或 clindamycin,抗生素治療約 10~14 天 | | | | • 若抗生素治療 48~72 小時無效果,應安排乳房超音波,檢查是否有 | | | | breast abscess | | Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- 1. 乳癌的檢查篩檢可分為: - (1) 身體理學檢查:建議每月月經結束後一星期,自我檢查乳房,若有異常應立即 就醫。 - (2) 影像學檢查:乳房超音波、乳房攝影、乳房核磁共振。 - (3) 病理確診:FNAC、CNB、Mammotome、Surgical biopsy。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- 3. 乳房超音波為 operator-dependent,診斷率與操作者經驗與技術相關。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- (2) 在歐美為 gold standard 的篩檢工具,但由於亞洲女性乳房較為緻密,有時易受干擾,必須輔以乳房超音波協助診斷,或先以乳房超音波作為篩檢工具。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
+- (2) 通常是因為乳房攝影檢查時發現不明腫塊,須進一步用乳房超音波去 判讀為 solid 或 cystic 的組織。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- 3. 檢查: 乳管造影術 (galactography)、乳房超音波、分泌物的細胞學檢查 (cytology)。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- ...ductoectasia) | | | | (D) 乳突瘤(papilloma) | | | | (D) FLAM (Pupmomu) | | | (D) | 11. 承上題,下列何者不是必要的檢查? | 99(一)專 | | | (A) 乳房超音波(ultrasonography) | 醫五-44 | | | (B) 乳房攝影(mammography) | | | | (C) 乳管攝影術(galactography) | | | | (D) 血清泌乳激素(prolactin)濃度測定 | | Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_乙、良性乳房疾病 Page 221-228.
+- 2. 而乳房外科大概是外科數一數二好準備的科目,每年大約五題甚至更多,CP 值頗高!! 若沒有時間,一定要看幾個關鍵 topic: - (1) 長胸神經 (Long thoracic nerve): 重要的解剖構造!! - (2) 影像檢查:要理解乳房超音波與乳房攝影的選擇以及什麼是 BI-RADS。 - (3) 良性腫瘤:乳突狀瘤(Papilloma)。 - (4) 惡性腫瘤:免疫組織生化學檢查的意義與手術的方式。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丁、胰臟癌 Page 199-214.
 
 ## Clinical Caveats
 

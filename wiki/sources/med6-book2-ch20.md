@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_申、其他.md
+raw_source_title: "醫(六)第2冊眼科_第一篇、眼科_申、其他"
+raw_source_file: "raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_申、其他.md"
+page_start: 233
+page_end: 236
+canonical_citation: "醫(六)第2冊眼科_第一篇、眼科_申、其他 Page 233-236"
 book: 醫(六)第2冊眼科
 chapter_order: 20
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第2冊眼科
 - Chapter file: `raw/books/md/醫(六)第2冊眼科/醫(六)第2冊眼科_第一篇、眼科_申、其他.md`
+- Pages covered: 233-236
+- Canonical citation: 醫(六)第2冊眼科_第一篇、眼科_申、其他 Page 233-236
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

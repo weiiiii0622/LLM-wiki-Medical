@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病.md
+raw_source_title: "醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病"
+raw_source_file: "raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病.md"
+page_start: 193
+page_end: 202
+canonical_citation: "醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病 Page 193-202"
 book: 醫(三)第1冊心胸內
 chapter_order: 11
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第1冊心胸內
 - Chapter file: `raw/books/md/醫(三)第1冊心胸內/醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病.md`
+- Pages covered: 193-202
+- Canonical citation: 醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病 Page 193-202
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

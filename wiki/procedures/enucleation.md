@@ -35,13 +35,13 @@ tags:
 
 ## Key Details From Sources
 
-- (pseudopodia)深入腺體組織,故手術不應只針對腫瘤部分作 enucleation (只作摘除的復發率可達 30%),而應作腮腺切除 (parotidectomy)。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- E. 眼球摘除 (Enucleation) 與義眼 (Ocular prosthesis) 177 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- #### E. 眼球摘除 (Enucleation) 與義眼 (Ocular prosthesis) Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- 1. 眼球摘除 (enucleation) 的適應症: - (1) 眼內惡性腫瘤 (primary intraocular malignancies),如小孩視網膜胚母細胞瘤或成人的黑色素瘤,目的要可提供病理切片看是否已侵犯出眼球。 - (2) 疼痛又無視力的眼球,如青光眼末期。 - (3) 為預防或治療交感性眼炎,故摘除受傷嚴重的那眼的眼球。 - (4) 失去視覺功能,也失去眼球的形狀,為了美觀可摘除而換義眼。 Source: [[sources/med6-book2-ch15|卯、眼眶]].
-- ...可見鈣化點,對於鑑別診斷很有幫助。 - (5) 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: [[sources/med6-book2-ch12|子、視網膜]].
-- 6. 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: [[sources/med6-book2-ch17|巳、小兒眼科學]].
-- 3. 眼球破裂: 以金屬眼罩保護受傷的眼球,安排 X-ray 或眼部 CT 排除眼內異物,並給予抗生素,儘快安排手術。嚴重之外傷眼,若無機會恢復視力,應考慮眼球摘除(enucleation),以預防交感性眼炎(sympathetic ophthalmia)。 Source: [[sources/med6-book2-ch18|午、眼科外傷及急診]].
+- (pseudopodia)深入腺體組織,故手術不應只針對腫瘤部分作 enucleation (只作摘除的復發率可達 30%),而應作腮腺切除 (parotidectomy)。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- E. 眼球摘除 (Enucleation) 與義眼 (Ocular prosthesis) 177 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- #### E. 眼球摘除 (Enucleation) 與義眼 (Ocular prosthesis) Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- 1. 眼球摘除 (enucleation) 的適應症: - (1) 眼內惡性腫瘤 (primary intraocular malignancies),如小孩視網膜胚母細胞瘤或成人的黑色素瘤,目的要可提供病理切片看是否已侵犯出眼球。 - (2) 疼痛又無視力的眼球,如青光眼末期。 - (3) 為預防或治療交感性眼炎,故摘除受傷嚴重的那眼的眼球。 - (4) 失去視覺功能,也失去眼球的形狀,為了美觀可摘除而換義眼。 Source: 醫(六)第2冊眼科_第一篇、眼科_卯、眼眶 Page 185-198.
+- ...可見鈣化點,對於鑑別診斷很有幫助。 - (5) 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: 醫(六)第2冊眼科_第一篇、眼科_子、視網膜 Page 119-152.
+- 6. 治療:對於直徑小於 3 mm 的腫瘤,可採用雷射或冷凍治療或局部放療(plaque radiotherapy)來保存其病眼的視力;大型腫瘤會先以化療縮小腫瘤體積後,施予放射治療,若無法控制則需眼球摘除(enucleation)。 Source: 醫(六)第2冊眼科_第一篇、眼科_巳、小兒眼科學 Page 211-216.
+- 3. 眼球破裂: 以金屬眼罩保護受傷的眼球,安排 X-ray 或眼部 CT 排除眼內異物,並給予抗生素,儘快安排手術。嚴重之外傷眼,若無機會恢復視力,應考慮眼球摘除(enucleation),以預防交感性眼炎(sympathetic ophthalmia)。 Source: 醫(六)第2冊眼科_第一篇、眼科_午、眼科外傷及急診 Page 217-224.
 
 ## Clinical Caveats
 

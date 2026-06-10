@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 呼吸器相關肺炎(Ventilator-associated pneumonia, VAP):使用侵襲性呼吸器 48 小 時以後產生的院內肺炎。 Source: [[sources/med3-book1-ch21|戊、感 染]].
-- (A) 診斷可為 ventilator-associated pneumonia Source: [[sources/med3-book1-ch21|戊、感 染]].
+- (3) 呼吸器相關肺炎(Ventilator-associated pneumonia, VAP):使用侵襲性呼吸器 48 小 時以後產生的院內肺炎。 Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_戊、感染 Page 289-306.
+- (A) 診斷可為 ventilator-associated pneumonia Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_戊、感染 Page 289-306.
 
 ## Clinical Caveats
 

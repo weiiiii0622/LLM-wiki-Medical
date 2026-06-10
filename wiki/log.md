@@ -125,3 +125,8 @@ Created raw source directories, wiki directories, templates, index, log, overvie
 - Created/updated 378 topic-first medical nodes across conditions, drugs, diagnostics, procedures, guidelines, physiology, anatomy, and concepts.
 - Updated `wiki/index.md`, category indexes, `wiki/sources/index.md`, and health-check report.
 
+## [2026-06-10] maintenance | Raw-source citation migration
+
+- Added canonical raw chapter/page citation metadata to 313 source pages.
+- Rewrote topic-page `Source:` citation tails from internal `[[sources/...]]` links to raw source titles with page ranges.
+- Added `tools/update_raw_citations.py` and `docs/query-citation-policy.md` for future Codex/Hermes sessions.

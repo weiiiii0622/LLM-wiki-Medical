@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (A) 12. 懷孕婦女因輸尿管結石產生腰痛求醫處理時,下列何者較不合適? - (A) 必須立即以 IVU(intravenous urography)找出石頭位置,加以碎石處理免得繼續妊娠時症狀加劇 - (B) 利用雙 J 輸尿管導管(double-J ureter stent)以解除輸尿管之 阳塞 - (C) 局部麻醉下超音波定位置放經皮腎造瘻管 (percutaneous nephrostomy tube insertion) - (D) 在懷孕的第一個 trimester 時應該盡量避免 X 光照射 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- (A) 12. 懷孕婦女因輸尿管結石產生腰痛求醫處理時,下列何者較不合適? - (A) 必須立即以 IVU(intravenous urography)找出石頭位置,加以碎石處理免得繼續妊娠時症狀加劇 - (B) 利用雙 J 輸尿管導管(double-J ureter stent)以解除輸尿管之 阳塞 - (C) 局部麻醉下超音波定位置放經皮腎造瘻管 (percutaneous nephrostomy tube insertion) - (D) 在懷孕的第一個 trimester 時應該盡量避免 X 光照射 Source: 醫(五)第5冊泌尿_戊、結石 Page 117-132.
 
 ## Clinical Caveats
 

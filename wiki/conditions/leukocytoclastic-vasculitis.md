@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- H. 過敏性血管炎 (Hypersensitivity vasculitis) 75 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- 1. 類過敏性紫斑為一種以侵犯微血管及微血管後小靜脈的過敏性血管炎,由於它並非由第一型過敏反應 IgE 所產生,故稱為類過敏性紫斑。 Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
-- # H. 過敏性血管炎(Hypersensitivity vasculitis) Source: [[sources/med4-book2-ch04|丁、自體免疫性疾病]].
+- H. 過敏性血管炎 (Hypersensitivity vasculitis) 75 Source: 醫(四)第2冊皮膚_丁、自體免疫性疾病 Page 79-96.
+- 1. 類過敏性紫斑為一種以侵犯微血管及微血管後小靜脈的過敏性血管炎,由於它並非由第一型過敏反應 IgE 所產生,故稱為類過敏性紫斑。 Source: 醫(四)第2冊皮膚_丁、自體免疫性疾病 Page 79-96.
+- # H. 過敏性血管炎(Hypersensitivity vasculitis) Source: 醫(四)第2冊皮膚_丁、自體免疫性疾病 Page 79-96.
 
 ## Clinical Caveats
 

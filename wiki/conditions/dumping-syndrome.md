@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- I. 切胃術後併發症(Postgastrectomy syndromes) 37 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- b. Postgastrectomy syndromes: - (a) 較符合生理狀態,但因幽門被切除,容易 有膽汁的逆流現像,造成逆行性胃炎症狀 如噁心嘔吐。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (c) 若殘胃太小 無法適時提供儲存的功能,將會造成傾食症候群(dumping syndrome)的問題。 Source: [[sources/med5-book3-ch03|丙、胃癌]].
-- (c) 除了標準的 Whipple procedure 之外,很多醫師也會採用幽門保留術 (Pylorus-preserving pancreaticoduodenectomy, PPPD)。據臨床研究, 與 Whipple procedure 相比,進行 PPPD 對於病人預後並無明顯提升,但 會縮短手術時間,術後較不會出現 Dumping syndrome,營養狀況也較好。但胃排空時遲緩 (delayed gastric emptying) 與邊緣性潰瘍 (marginal ulcer) 出現的機會較大。 Source: [[sources/med5-book3-ch18|乙、慢性胰臟炎]].
+- I. 切胃術後併發症(Postgastrectomy syndromes) 37 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- b. Postgastrectomy syndromes: - (a) 較符合生理狀態,但因幽門被切除,容易 有膽汁的逆流現像,造成逆行性胃炎症狀 如噁心嘔吐。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- (c) 若殘胃太小 無法適時提供儲存的功能,將會造成傾食症候群(dumping syndrome)的問題。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第一篇、胃外科序_丙、胃癌 Page 43-70.
+- (c) 除了標準的 Whipple procedure 之外,很多醫師也會採用幽門保留術 (Pylorus-preserving pancreaticoduodenectomy, PPPD)。據臨床研究, 與 Whipple procedure 相比,進行 PPPD 對於病人預後並無明顯提升,但 會縮短手術時間,術後較不會出現 Dumping syndrome,營養狀況也較好。但胃排空時遲緩 (delayed gastric emptying) 與邊緣性潰瘍 (marginal ulcer) 出現的機會較大。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_乙、慢性胰臟炎 Page 183-194.
 
 ## Clinical Caveats
 

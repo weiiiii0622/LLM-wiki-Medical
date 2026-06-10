@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### 丁、小腸腫瘤(Tumors of small intestine) Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 1. 小腸腫瘤大約佔所有消化道癌症的 1~3%,相對胃癌與大腸癌而言少見。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
-- 2. 一般而言小腸腫瘤以惡性腫瘤居多,約佔70%。 Source: [[sources/med5-book3-ch07|丁、小腸腫瘤]].
+- #### 丁、小腸腫瘤(Tumors of small intestine) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
+- 1. 小腸腫瘤大約佔所有消化道癌症的 1~3%,相對胃癌與大腸癌而言少見。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
+- 2. 一般而言小腸腫瘤以惡性腫瘤居多,約佔70%。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第二篇、小腸外科_丁、小腸腫瘤 Page 87-96.
 
 ## Clinical Caveats
 

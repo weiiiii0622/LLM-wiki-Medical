@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- ...--|-----------------|-----------------------------------| | β-blockers | - 效果長,通常一天點兩次 | 禁忌:氣喘、COPD、 | — non-selective: Timolol 、 | | | 或一次即可,且眼部副作 | Bradycardia、心臟傳 | Levobunolol carteolol | | | 用少。 | 導阻礙、心衰竭、低 | metipranolol | | | - 為第一線治療藥物。 | 血壓。 | - selective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手腳發麻、 | 口服:acetazolamide | | Source: [[sources/med6-book2-ch11|癸、青光眼]].
+- ...--|-----------------|-----------------------------------| | β-blockers | - 效果長,通常一天點兩次 | 禁忌:氣喘、COPD、 | — non-selective: Timolol 、 | | | 或一次即可,且眼部副作 | Bradycardia、心臟傳 | Levobunolol carteolol | | | 用少。 | 導阻礙、心衰竭、低 | metipranolol | | | - 為第一線治療藥物。 | 血壓。 | - selective $\beta_1$ : Betaxolol | | 碳酸酐酶抑 | -本為口服,現多改為藥水 | 副作用:手腳發麻、 | 口服:acetazolamide | | Source: 醫(六)第2冊眼科_第一篇、眼科_癸、青光眼 Page 96-112.
 
 ## Clinical Caveats
 

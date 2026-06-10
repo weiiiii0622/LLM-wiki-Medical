@@ -33,14 +33,14 @@ tags:
 
 ## Key Details From Sources
 
-- (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- | 胎兒 | 巨嬰:可能造成產程延長和肩難產,而引起生產傷害 | |-------------------------|----------------------------------------| | | 胎便吸入症候群 (meconium aspiration syndrome) | | Lanciber and the second | 胎兒窘迫:因胎盤功能退化與羊水減少、臍帶受壓迫 | | | 子宮內感染 | | 產婦 | 催生失敗、四度會陰裂傷和產後出血 | Source: [[sources/med6-book1-ch02|乙、生產時期(Delivery)]].
-- c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: [[sources/med5-book2-ch08|辛、其 他]].
-- (D) 16. 有關體外循環維生系統(extracorporeal life support,又簡稱 ECMO) 之敘述,下列何者正確?①對危急病人可提供長期(數月至數年 之久)之心肺支持 ②使用於胎便吸入症候群新生兒之存活率低 於 50% ③應使用於深度昏迷之危急病人 ④出血為常見併發症 (A) ①②③ (B) ①③ (C) ②④ (D) ④ Source: [[sources/med5-book2-ch08|辛、其 他]].
-- 【詳解】根據現有文獻,胎便吸入症候群的病患生存率高達九成。 Source: [[sources/med5-book2-ch08|辛、其 他]].
-- Ⅲ. 新生兒呼吸相關疾病 443 - A. 呼吸窘迫症候群 (RDS) 443 - B. 新生兒暫時性呼吸急促(TTNB) 444 - C. 早產兒呼吸暫停 445 - D. 新生兒持續性肺高壓 (PPHN) 445 - E. 吸入性症候群 446 - F. 先天性橫膈膜疝氣 446 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 1. 定義:由於表面張力素(surfactant)缺乏或不足造成的疾病。通常為早產兒的原發疾病,但新生兒若出現胎便吸入症候群、肺炎、肺出血或敗血症時,則會有次發性表面張力素的缺乏。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
-- 2. 危險因子:出生時窒息(birth asphyxia)、胎便吸入性肺炎、早期發生的敗血症 (early-onset sepsis,如B群鏈球菌肺炎)、低血糖、紅血球增多症(polycythemia)、 母親在懷孕過程中使用 NSAID 造成動脈導管收縮、羊水過少(如 Potter 症候群)、 母親有糖尿病、先天性橫膈疝氣造成肺部發育不良等。 Source: [[sources/med4-book1-ch11|子、新生兒科]].
+- (5) 姿勢性引流: - a. 應用重力原理,藉由姿勢的擺位將痰液從一或多個肺節移動到中央大氣管 處,以利排出。 - b. 方法是把要引流的肺節擺在高於支氣管分叉處,維持 3~15 分鐘,總治療時間不超過 30~40 分鐘。引流的肺節及相對應的擺位請參照下頁圖。 - c. 適應症: - (a) 痰液清除困難,痰液產生超過30 mL/day。 - (b) Aspiration 或 Atelectasis。 - (c) 診斷為囊性纖維化、支氣管擴張症或開洞性肺疾。 - (d) 氣道內有異物(例如:胎便吸入)。 Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- | 胎兒 | 巨嬰:可能造成產程延長和肩難產,而引起生產傷害 | |-------------------------|----------------------------------------| | | 胎便吸入症候群 (meconium aspiration syndrome) | | Lanciber and the second | 胎兒窘迫:因胎盤功能退化與羊水減少、臍帶受壓迫 | | | 子宮內感染 | | 產婦 | 催生失敗、四度會陰裂傷和產後出血 | Source: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124.
+- c. 小兒及新生兒: - (a) 吸入性胎便肺炎症候群(MAS;Meconium aspiration syndrome) - (b) 呼吸窘迫症候群 (Hyaline membrane disease) - (c) 先天性橫膈膜疝氣(CDH;Congenital diaphragm hernia) - (d) 新生兒頑固性肺高壓 (PPHN; Persistent pulmonary hypertension of neonate) - (e) 上述疾病經傳統治療(含呼吸器),並合乎下列呼吸衰竭指數:Oxygenation $Index \ge 40 \; (OI = MAP \times FiO_2 \times 100 \div PaO_2)$ Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_辛、其他 Page 111-126.
+- (D) 16. 有關體外循環維生系統(extracorporeal life support,又簡稱 ECMO) 之敘述,下列何者正確?①對危急病人可提供長期(數月至數年 之久)之心肺支持 ②使用於胎便吸入症候群新生兒之存活率低 於 50% ③應使用於深度昏迷之危急病人 ④出血為常見併發症 (A) ①②③ (B) ①③ (C) ②④ (D) ④ Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_辛、其他 Page 111-126.
+- 【詳解】根據現有文獻,胎便吸入症候群的病患生存率高達九成。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_辛、其他 Page 111-126.
+- Ⅲ. 新生兒呼吸相關疾病 443 - A. 呼吸窘迫症候群 (RDS) 443 - B. 新生兒暫時性呼吸急促(TTNB) 444 - C. 早產兒呼吸暫停 445 - D. 新生兒持續性肺高壓 (PPHN) 445 - E. 吸入性症候群 446 - F. 先天性橫膈膜疝氣 446 Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- 1. 定義:由於表面張力素(surfactant)缺乏或不足造成的疾病。通常為早產兒的原發疾病,但新生兒若出現胎便吸入症候群、肺炎、肺出血或敗血症時,則會有次發性表面張力素的缺乏。 Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
+- 2. 危險因子:出生時窒息(birth asphyxia)、胎便吸入性肺炎、早期發生的敗血症 (early-onset sepsis,如B群鏈球菌肺炎)、低血糖、紅血球增多症(polycythemia)、 母親在懷孕過程中使用 NSAID 造成動脈導管收縮、羊水過少(如 Potter 症候群)、 母親有糖尿病、先天性橫膈疝氣造成肺部發育不良等。 Source: 醫(四)第1冊小兒_子、新生兒科 Page 449-486.
 
 ## Clinical Caveats
 

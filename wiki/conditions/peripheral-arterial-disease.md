@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- (2) 周邊血液循環不好:糖尿病或 PAOD,冷療會加重血液循環不良的情形。 Source: [[sources/med6-book3-ch07|庚、物理治療儀器]].
-- A. 周邊動脈阻塞性疾病(Peripheral artery occlusion disease, PAOD) 82 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- #### A. 周邊動脈阻塞性疾病 (Peripheral artery occlusion disease, PAOD) Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- (1) 間歇性跛行(intermittent claudication): 患者在長距離行走或運動時,小腿部有疼痛跛行的情形,休息可獲得緩解。 Source: [[sources/med5-book2-ch06|己、周邊血管疾病]].
-- (2) Relative: - a. 主動脈瓣膜輕微閉鎖不全 - b. 主動脈瓣膜狹窄 - c. 周邊動脈阻塞疾病 - d. 從前有接受過主動脈瘤手術 - e. 心跳停止進行心肺復甦術時 Source: [[sources/med5-book2-ch08|辛、其 他]].
+- (2) 周邊血液循環不好:糖尿病或 PAOD,冷療會加重血液循環不良的情形。 Source: 醫(六)第3冊復健_庚、物理治療儀器 Page 179-186.
+- A. 周邊動脈阻塞性疾病(Peripheral artery occlusion disease, PAOD) 82 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_己、周邊血管疾病 Page 95-104.
+- #### A. 周邊動脈阻塞性疾病 (Peripheral artery occlusion disease, PAOD) Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_己、周邊血管疾病 Page 95-104.
+- (1) 間歇性跛行(intermittent claudication): 患者在長距離行走或運動時,小腿部有疼痛跛行的情形,休息可獲得緩解。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_己、周邊血管疾病 Page 95-104.
+- (2) Relative: - a. 主動脈瓣膜輕微閉鎖不全 - b. 主動脈瓣膜狹窄 - c. 周邊動脈阻塞疾病 - d. 從前有接受過主動脈瘤手術 - e. 心跳停止進行心肺復甦術時 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_辛、其他 Page 111-126.
 
 ## Clinical Caveats
 

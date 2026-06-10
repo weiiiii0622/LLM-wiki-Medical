@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- E. 中風後肩膀疼痛 (Poststroke shoulder pain) 20 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- #### E. 中風後肩膀疼痛 (Poststroke shoulder pain) Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- 2. 造成中風後肩膀疼痛的原因包括肩關節半脫位(subluxation)、肩關節囊炎、複雜性區域疼痛症候群第一型(Complex Regional Pain Syndrome Type I, CRPS Type I 或稱 Reflex SympatheticDystrophy, RSD)、旋轉肌肌腱損傷、肌肉張力太強,而可能同時有兩種以上因素,造成患者肩膀疼痛。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
+- E. 中風後肩膀疼痛 (Poststroke shoulder pain) 20 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- #### E. 中風後肩膀疼痛 (Poststroke shoulder pain) Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- 2. 造成中風後肩膀疼痛的原因包括肩關節半脫位(subluxation)、肩關節囊炎、複雜性區域疼痛症候群第一型(Complex Regional Pain Syndrome Type I, CRPS Type I 或稱 Reflex SympatheticDystrophy, RSD)、旋轉肌肌腱損傷、肌肉張力太強,而可能同時有兩種以上因素,造成患者肩膀疼痛。 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
 
 ## Clinical Caveats
 

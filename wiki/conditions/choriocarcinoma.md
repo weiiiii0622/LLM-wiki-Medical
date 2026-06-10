@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...c tumor) · immature teratoma & | | | | | | ted type | | | | | | 퀸 (10%): embryonal carcinoma 、 | | | | | polyembryoma & choriocarcinoma | | | | 轉移性: 2~3 mm) | | ・腹水 | | ・腹膜腫瘤或淋巴結腫大 | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- 【詳解】女性卵巢腫瘤約 60~70% 源於上皮細胞; 20% 源於卵巢生殖細胞; 10% 源於卵巢間質細胞; Yolk sac tumor ( 又稱 Endoder- | | |-----------------|---------------------------------------------|--| | (佔90%) | mal sinus tumor) > Immature teratoma > | | | | Mixed germ cell tumor | | | 較罕見的惡性生殖細胞腫瘤 | Embryonal carcinoma、Polyembryoma 和 | | | (佔10%) | Choriocarcinoma | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
-- ...| | | Embryonal carcinoma | · 分泌 estrogen, AFP 和 HCG 可能↑ | | | Polyembryoma | ・ Embryoid bodies 組成, AFP 和 HCG 可能↑ | | | Choriocarcinoma | • 高度惡性,易血行轉移到肺、肝和腦 | | | | · HCG ↑ | | | Mixed germ cell tumor | • 顧名思義由兩個以上生殖細胞瘤組成,最常見是 | | | | dysgerminoma + yolk sac tumor | | Source: [[sources/med6-book1-ch07|乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology)]].
+- ...c tumor) · immature teratoma & | | | | | | ted type | | | | | | 퀸 (10%): embryonal carcinoma 、 | | | | | polyembryoma & choriocarcinoma | | | | 轉移性: 2~3 mm) | | ・腹水 | | ・腹膜腫瘤或淋巴結腫大 | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- 【詳解】女性卵巢腫瘤約 60~70% 源於上皮細胞; 20% 源於卵巢生殖細胞; 10% 源於卵巢間質細胞; Yolk sac tumor ( 又稱 Endoder- | | |-----------------|---------------------------------------------|--| | (佔90%) | mal sinus tumor) > Immature teratoma > | | | | Mixed germ cell tumor | | | 較罕見的惡性生殖細胞腫瘤 | Embryonal carcinoma、Polyembryoma 和 | | | (佔10%) | Choriocarcinoma | | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
+- ...| | | Embryonal carcinoma | · 分泌 estrogen, AFP 和 HCG 可能↑ | | | Polyembryoma | ・ Embryoid bodies 組成, AFP 和 HCG 可能↑ | | | Choriocarcinoma | • 高度惡性,易血行轉移到肺、肝和腦 | | | | · HCG ↑ | | | Mixed germ cell tumor | • 顧名思義由兩個以上生殖細胞瘤組成,最常見是 | | | | dysgerminoma + yolk sac tumor | | Source: 醫(六)第1冊婦產_第二篇、婦科_乙、婦科良性與惡性腫瘤(Benign and Malignant Tumor of Gynecology) Page 181-266.
 
 ## Clinical Caveats
 

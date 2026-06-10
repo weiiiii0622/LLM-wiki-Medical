@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 術前診斷、預定的術式。病患的年紀、身高、體重。病患的長期用藥。 Source: [[sources/med6-book4-ch01|甲、麻醉前評估]].
+- 1. 術前診斷、預定的術式。病患的年紀、身高、體重。病患的長期用藥。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_甲、麻醉前評估 Page 17-26.
 
 ## Clinical Caveats
 

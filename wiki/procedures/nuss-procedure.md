@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- e. 胸骨後支持術(internal posterior sternal support): 近數十年來最常用的術式,但很少在老人或沒有症狀的病人施行。最著名為 Nuss Procedure,即在胸腔鏡導引下手術植入量身塑造的金屬板(Pectus Bar),將胸骨凹陷往外推出來做矯正手術所有向內凹變形的肋軟骨也用金屬板向外推出,但是沒有任何肋骨被切除,也沒有胸大肌之切開。此一金屬板,需留置體內至少2至3年後再移除。(參考長庚兒童外科) Source: [[sources/med5-book4-ch01|甲、胸壁]].
+- e. 胸骨後支持術(internal posterior sternal support): 近數十年來最常用的術式,但很少在老人或沒有症狀的病人施行。最著名為 Nuss Procedure,即在胸腔鏡導引下手術植入量身塑造的金屬板(Pectus Bar),將胸骨凹陷往外推出來做矯正手術所有向內凹變形的肋軟骨也用金屬板向外推出,但是沒有任何肋骨被切除,也沒有胸大肌之切開。此一金屬板,需留置體內至少2至3年後再移除。(參考長庚兒童外科) Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_甲、胸壁 Page 17-24.
 
 ## Clinical Caveats
 

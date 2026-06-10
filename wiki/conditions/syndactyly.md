@@ -31,12 +31,12 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 若合併指動脈損傷,必須先做動脈吻合,然後再縫合肌腱 Source: [[sources/med5-book6-ch06|己、手部]].
-- 1. 簡單來說,胚胎發育四肢會先形成 handplate (或 footplate),接著組織會經由 apoptosis 裂解成類似鴨子蹼狀的 webbed fingers (toes),最後持續形成各自獨立的 手(腳)指頭。如果 apoptosis 的過程失敗,導致指頭之間無法彼此順利分離,就會成為併指。 Source: [[sources/med5-book2-ch29|戊、併指畸形]].
-- 2. 併指是最常見的手指先天畸形,和遺傳有關,男生:女生=2:1。 Source: [[sources/med5-book2-ch29|戊、併指畸形]].
-- 4. Poland syndrome 和 Apert syndrome 的病人常患有 syndactyly。 Source: [[sources/med5-book2-ch29|戊、併指畸形]].
-- (C) 2. 一位 20 歲女性割腕自殺被送至急診室時,左手腕掌面橈側有約 3 公分橫向刀口,神經學檢查發現手掌五指可伸直及併指,但無法 彎曲握拳,且手指腹面有麻木感,則此病人最可能為下列那一 條神經受損? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
-- (B) 15. 一名中年婦女在餐廳工作,切雞肉時不慎將左手食指指尖一併剁 101( 二 ) 專 下,隨即送到急診室。檢查發現切口整齊,位在指甲橫向二分之 一處,但未達指甲生發層(germinal matrix)合併指骨外露,依據 fingertip amputation 之分類 Allen's classification, 此狀況應屬何 種 type ? Source: [[sources/med5-book2-ch30|己、醫學美容及其他]].
+- (C) 若合併指動脈損傷,必須先做動脈吻合,然後再縫合肌腱 Source: 醫(五)第6冊骨科_己、手部 Page 105-126.
+- 1. 簡單來說,胚胎發育四肢會先形成 handplate (或 footplate),接著組織會經由 apoptosis 裂解成類似鴨子蹼狀的 webbed fingers (toes),最後持續形成各自獨立的 手(腳)指頭。如果 apoptosis 的過程失敗,導致指頭之間無法彼此順利分離,就會成為併指。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_戊、併指畸形 Page 297-300.
+- 2. 併指是最常見的手指先天畸形,和遺傳有關,男生:女生=2:1。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_戊、併指畸形 Page 297-300.
+- 4. Poland syndrome 和 Apert syndrome 的病人常患有 syndactyly。 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_戊、併指畸形 Page 297-300.
+- (C) 2. 一位 20 歲女性割腕自殺被送至急診室時,左手腕掌面橈側有約 3 公分橫向刀口,神經學檢查發現手掌五指可伸直及併指,但無法 彎曲握拳,且手指腹面有麻木感,則此病人最可能為下列那一 條神經受損? Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_己、醫學美容及其他 Page 301-314.
+- (B) 15. 一名中年婦女在餐廳工作,切雞肉時不慎將左手食指指尖一併剁 101( 二 ) 專 下,隨即送到急診室。檢查發現切口整齊,位在指甲橫向二分之 一處,但未達指甲生發層(germinal matrix)合併指骨外露,依據 fingertip amputation 之分類 Allen's classification, 此狀況應屬何 種 type ? Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第四篇、重建整形外科_己、醫學美容及其他 Page 301-314.
 
 ## Clinical Caveats
 

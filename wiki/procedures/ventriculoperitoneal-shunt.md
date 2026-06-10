@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- 2. 腦室腹腔分流(ventriculoperitoneal shunt)。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
-- 【詳解】NPH 的三個典型症狀中,尿失禁和步態不穩在做 VP shunt 以後可以明顯獲得症狀改善,失智方面由於牽涉到組織病理變化 (neurodegenerative),其症狀改善相較於另外兩者較不顯著。 Source: [[sources/med5-book1-ch19|癸、水腦症]].
+- 2. 腦室腹腔分流(ventriculoperitoneal shunt)。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症 Page 239-244.
+- 【詳解】NPH 的三個典型症狀中,尿失禁和步態不穩在做 VP shunt 以後可以明顯獲得症狀改善,失智方面由於牽涉到組織病理變化 (neurodegenerative),其症狀改善相較於另外兩者較不顯著。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_癸、水腦症 Page 239-244.
 
 ## Clinical Caveats
 

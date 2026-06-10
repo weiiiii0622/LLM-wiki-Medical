@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- A. 股骨頸骨折 (Femoral neck fracture) 46 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- #### A. 股骨頸骨折 (Femoral neck fracture) Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- 3. 分類:股骨頸骨折最常用的分類是 Garden's classification,分成以下四種類型: - (1) 無移位(non-displaced)骨折(type I & II):兩者內固定之後預後差不多,產生 nonunion 及 avascular necrosis 的機率皆小於 10%。 - a. Type I:屬於 incomplete 的骨折(未完全裂開)。 - b. Type II: complete 的骨折,但沒有移位。(完全裂開) - Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
-- (4) 股骨幹骨折常合併其他地方的骨折,尤其是股骨頸骨折(約1~9%)。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (3) 如果合併股骨頸骨折或是骨折位置接近膝蓋關節處:考慮鋼板(plate)固定。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
+- A. 股骨頸骨折 (Femoral neck fracture) 46 Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
+- #### A. 股骨頸骨折 (Femoral neck fracture) Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
+- 3. 分類:股骨頸骨折最常用的分類是 Garden's classification,分成以下四種類型: - (1) 無移位(non-displaced)骨折(type I & II):兩者內固定之後預後差不多,產生 nonunion 及 avascular necrosis 的機率皆小於 10%。 - a. Type I:屬於 incomplete 的骨折(未完全裂開)。 - b. Type II: complete 的骨折,但沒有移位。(完全裂開) - Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
+- (4) 股骨幹骨折常合併其他地方的骨折,尤其是股骨頸骨折(約1~9%)。 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- (3) 如果合併股骨頸骨折或是骨折位置接近膝蓋關節處:考慮鋼板(plate)固定。 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
 
 ## Clinical Caveats
 

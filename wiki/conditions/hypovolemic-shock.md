@@ -31,10 +31,10 @@ tags:
 
 ## Key Details From Sources
 
-- | Hypovolemic shock and organ failure | Fluid overload (pulmonary edema) | |-------------------------------------|--------------------------------------| | Anemia | Transfusion-related complications | | Sepsis, wound infection, pneumonia | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- 【詳解】病人症狀持續惡化且生命徵象已不穩定,很可能是子宮外孕破裂出血,造成 hypovolemic shock。此時除了靜脈輸液輸血外,應盡快透過腹部超音波確認是否有內出血,一旦確認,必須安排緊急手術處理。 Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
-- (C) 2. 一位 25 歲女性,從高處跌落,造成頸部疼痛及四肢癱瘓,但意 識清楚,四肢無冰冷現象。電腦斷層影像檢查發現第五頸椎骨折 神經壓迫。此時病患心搏速率:60次/分、血壓:75/55毫米汞 柱。關於病患現在血壓狀況,下列何者是最適當的診斷? - (A) 過敏性休克 (anaphylactic shock) - (B) 失血性休克 (hypovolemic shock) - (C) 神經性休克 (neurogenic shock) - (D) 心因性休克 (cardiogenic shock) Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
-- (A) 9. 低血容性休克 (hypovolemic shock) 是下列那一個情形? Source: [[sources/med5-book1-ch03|丙、休克與輸液]].
+- | Hypovolemic shock and organ failure | Fluid overload (pulmonary edema) | |-------------------------------------|--------------------------------------| | Anemia | Transfusion-related complications | | Sepsis, wound infection, pneumonia | Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- 【詳解】病人症狀持續惡化且生命徵象已不穩定,很可能是子宮外孕破裂出血,造成 hypovolemic shock。此時除了靜脈輸液輸血外,應盡快透過腹部超音波確認是否有內出血,一旦確認,必須安排緊急手術處理。 Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
+- (C) 2. 一位 25 歲女性,從高處跌落,造成頸部疼痛及四肢癱瘓,但意 識清楚,四肢無冰冷現象。電腦斷層影像檢查發現第五頸椎骨折 神經壓迫。此時病患心搏速率:60次/分、血壓:75/55毫米汞 柱。關於病患現在血壓狀況,下列何者是最適當的診斷? - (A) 過敏性休克 (anaphylactic shock) - (B) 失血性休克 (hypovolemic shock) - (C) 神經性休克 (neurogenic shock) - (D) 心因性休克 (cardiogenic shock) Source: 醫(五)第1冊外概腦外_第一篇、外科概論_丙、休克與輸液 Page 35-48.
+- (A) 9. 低血容性休克 (hypovolemic shock) 是下列那一個情形? Source: 醫(五)第1冊外概腦外_第一篇、外科概論_丙、休克與輸液 Page 35-48.
 
 ## Clinical Caveats
 

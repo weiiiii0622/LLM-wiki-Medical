@@ -29,8 +29,8 @@ Rocuronium 是 nondepolarizing neuromuscular blocker，可用於快速誘導替�
 
 ## Key Details From Sources
 
-- ...m0.4 \text{ mg/kg})$ - c. Midazolam (0.1~0.3 mg/kg) - d. Ketamine (1.5 mg/kg) - e. Succinylcholine (1~1.5 mg/kg) • - f. Rocuronium $(0.6\sim1.2 \text{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick maneuver): 使用食指和拇指將環 狀軟骨向下施壓氣管後方的食道,主要目的是在於防止胃食道逆流造成吸入性 肺炎。(比較:幫助插管的 BURP 手法,是壓甲狀軟骨) Source: [[sources/med6-book4-ch02|乙、呼吸道處理]].
-- 2. Nondepolarizing NMBDs (Atracurium, Cisatracurium, Pancuronium, Rocuronium) - (1) 特徵: - a. Nondepolarizing NMBDs 也可以和突觸後肌肉細胞上的 Ach receptors 結合,與 Succinylcholine 不同的是,Nondepolarizing NMBDs 並不會使終板去極化(也就是占著茅坑不拉屎的最佳寫照),反而使得 Acetylcholine 無法作用,造成肌肉的鬆弛,也可視之為 Acetylcholine antagonist。 - b. Nondepola Source: [[sources/med6-book4-ch07|庚、神經肌肉阻斷劑]].
+- ...m0.4 \text{ mg/kg})$ - c. Midazolam (0.1~0.3 mg/kg) - d. Ketamine (1.5 mg/kg) - e. Succinylcholine (1~1.5 mg/kg) • - f. Rocuronium $(0.6\sim1.2 \text{ mg/kg})$ • - (5) Protection: 給予 Cricoid Pressure (又稱 Sellick maneuver): 使用食指和拇指將環 狀軟骨向下施壓氣管後方的食道,主要目的是在於防止胃食道逆流造成吸入性 肺炎。(比較:幫助插管的 BURP 手法,是壓甲狀軟骨) Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_乙、呼吸道處理 Page 27-36.
+- 2. Nondepolarizing NMBDs (Atracurium, Cisatracurium, Pancuronium, Rocuronium) - (1) 特徵: - a. Nondepolarizing NMBDs 也可以和突觸後肌肉細胞上的 Ach receptors 結合,與 Succinylcholine 不同的是,Nondepolarizing NMBDs 並不會使終板去極化(也就是占著茅坑不拉屎的最佳寫照),反而使得 Acetylcholine 無法作用,造成肌肉的鬆弛,也可視之為 Acetylcholine antagonist。 - b. Nondepola Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_庚、神經肌肉阻斷劑 Page 83-92.
 
 ## Clinical Caveats
 

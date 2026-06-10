@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery).md
+raw_source_title: "醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery)"
+raw_source_file: "raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery).md"
+page_start: 87
+page_end: 124
+canonical_citation: "醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124"
 book: 醫(六)第1冊婦產
 chapter_order: 2
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(六)第1冊婦產
 - Chapter file: `raw/books/md/醫(六)第1冊婦產/醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery).md`
+- Pages covered: 87-124
+- Canonical citation: 醫(六)第1冊婦產_第一篇、產科_乙、生產時期(Delivery) Page 87-124
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

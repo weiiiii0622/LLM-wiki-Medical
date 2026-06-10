@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- #### d. 各種引流姿勢須注意其禁忌症: Source: [[sources/med6-book3-ch05|戊、心肺復健]].
+- #### d. 各種引流姿勢須注意其禁忌症: Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
 
 ## Clinical Caveats
 

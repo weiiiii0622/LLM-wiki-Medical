@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第一篇、外科概論_丙、休克與輸液.md
+raw_source_title: "醫(五)第1冊外概腦外_第一篇、外科概論_丙、休克與輸液"
+raw_source_file: "raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第一篇、外科概論_丙、休克與輸液.md"
+page_start: 35
+page_end: 48
+canonical_citation: "醫(五)第1冊外概腦外_第一篇、外科概論_丙、休克與輸液 Page 35-48"
 book: 醫(五)第1冊外概腦外
 chapter_order: 3
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第1冊外概腦外
 - Chapter file: `raw/books/md/醫(五)第1冊外概腦外/醫(五)第1冊外概腦外_第一篇、外科概論_丙、休克與輸液.md`
+- Pages covered: 35-48
+- Canonical citation: 醫(五)第1冊外概腦外_第一篇、外科概論_丙、休克與輸液 Page 35-48
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

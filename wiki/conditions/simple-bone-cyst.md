@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- #### 2. 單腔骨囊腫 (Unicameral Bone cyst): Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- a. 又被稱為 simple bone cyst,好發在小於 20 歲的小孩及青少年,但是通常沒有症狀,平時不易發現。 Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- (A) 單純性骨囊腫(simple bone cyst)的治療包括:追蹤觀察、 限制活動、病灶內類固醇注射、病灶內刮除及骨移植(bone grafting) Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
+- #### 2. 單腔骨囊腫 (Unicameral Bone cyst): Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- a. 又被稱為 simple bone cyst,好發在小於 20 歲的小孩及青少年,但是通常沒有症狀,平時不易發現。 Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- (A) 單純性骨囊腫(simple bone cyst)的治療包括:追蹤觀察、 限制活動、病灶內類固醇注射、病灶內刮除及骨移植(bone grafting) Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
 
 ## Clinical Caveats
 

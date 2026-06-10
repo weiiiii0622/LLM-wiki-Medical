@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- VI. 口咽癌(Oropharyngeal Cancer) 273 Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### Clinical N (cN)-Oropharynx (p16-) and Hypopharynx Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- #### Oropharynx (p16-) and Hypopharynx Source: [[sources/med6-book4-ch15|戊、頭頸部癌症]].
-- (4) 口咽癌:因應 108、109 年出現相關考題,本次改版新增此單元。但 AJCC 第 八版改版後的癌症分期稍微複雜,準備上著重臨床症狀、治療、與 HPV 相關 性即可。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- VI. 口咽癌(Oropharyngeal Cancer) 273 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### Clinical N (cN)-Oropharynx (p16-) and Hypopharynx Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- #### Oropharynx (p16-) and Hypopharynx Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_戊、頭頸部癌症 Page 255-294.
+- (4) 口咽癌:因應 108、109 年出現相關考題,本次改版新增此單元。但 AJCC 第 八版改版後的癌症分期稍微複雜,準備上著重臨床症狀、治療、與 HPV 相關 性即可。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
 
 ## Clinical Caveats
 

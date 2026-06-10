@@ -39,18 +39,18 @@ tags:
 
 ## Key Details From Sources
 
-- 3. 當神經傳導入徑或是肌肉受傷時,便會引發垂足問題,造成垂足的原因如下: - (1) 神經性病因:中樞神經損傷、脊髓損傷、脊髓病變、運動神經元疾病、馬尾症 候群、腰薦椎神經根病變、坐骨神經病變、總腓神經病變、腓深神經病變、周 邊神經病變。 - (2) 肌肉性病因:肌肉損傷、肌腱損傷、前腔室症候群 (anterior compartment syndrome)、myopathy。 Source: [[sources/med6-book3-ch01|甲、神經復健(神內)]].
-- ...Venous thrombosis or embolism | | Acute respiratory distress syndrome | Anesthesia-related complications | | Abdominal compartment syndrome | Death | | Unplanned hysterectomy | Asherman's syndrome (related to D&C) | Source: [[sources/med6-book1-ch03|丙、產後時期(Post-Partum Period)]].
-- D. 腔室症候群 (Compartment syndrome) 174 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- #### D. 腔室症候群 (Compartment syndrome) Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (1) 移除造成腔室症候群的外因(例如移除過緊的石膏、修補受損的血管等等)。 Source: [[sources/med5-book6-ch09|壬、內科性骨疾病及其他]].
-- (D) 2. 下列有關足跟骨的描述,何者錯誤? - (A) 跟骨骨折約有 10% 病患合併腰椎骨折 - (B) 跟骨骨折約有 10% 病患產生足跟部腔室症候群,結果造成 fixed clawing of the toes - (C) 依 Essex-Lopresti classification, 跟骨骨折可分為 Tongue type 及 Joint depression type - (D) 正常跟骨 Böhler's angle 小於 20 度 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- (D) 1. 一位 40 歲病人在打羽毛球時,因為救球過猛,造成左小腿「腿 99(二)專肚」疼痛,走路跛腳,沒辦法踮腳將左腳跟提起,湯普森檢查 醫五-60 (Thompson test) 陽性反應,請問這個病人最有可能的診斷與 敘述,下列何者最為適當? - (A) 可能是後脛肌腱斷裂 (posterior tibial tendon rupture ) - (B) 可能是腔室症候群(compartment syndrome) - (C) 可能是脛骨的疲勞性骨折 (fatigue fracture) - (D) 可能是阿基里斯韌帶(Achilles tendon) 斷裂 Source: [[sources/med5-book6-ch01|甲、足踝關節]].
-- (D) 持續評估是否有肌腔室症候群(compartment syndrome),避免嚴重併發症 Source: [[sources/med5-book6-ch02|乙、膝關節]].
-- 4. Tibial fracture 除非是 linear frature 或是 non-displaced fracture,不然通常需要開刀處理。以下的狀況則需**緊急手術**: - (1) 開放性骨折。 - (2) 合併神經血管的受損。 - (3) 懷疑 acute compartment syndrome: 具有 5P, 疼痛(pain), 皮膚變白(pallor), 麻木(paresthesia), 麻痺(paralysis), 無脈搏(pulselessness)。 - (4) 合併膝蓋或踝關節的脫位。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (3) 併發症:最常見的是 compartment syndrome, 其他包括感染、malunion 及 non-union。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (C) 可能造成急性肌腔室症候群 (acute compartment syndrome), 需密切觀察肌腔室壓力 (compartment pressure) 及周邊循環 情形是否良好 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (2) Volkmann ischemic contracture:若血管的傷害持續一至兩天,就很有可能造成 compartment syndrome;如果又沒有及時治療,持續的缺血、梗塞會造成 Volkmann's ischemic contracture,即 fixed flexion of the elbow, pronation of the forearm, flexion at the wrist。 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
+- 3. 當神經傳導入徑或是肌肉受傷時,便會引發垂足問題,造成垂足的原因如下: - (1) 神經性病因:中樞神經損傷、脊髓損傷、脊髓病變、運動神經元疾病、馬尾症 候群、腰薦椎神經根病變、坐骨神經病變、總腓神經病變、腓深神經病變、周 邊神經病變。 - (2) 肌肉性病因:肌肉損傷、肌腱損傷、前腔室症候群 (anterior compartment syndrome)、myopathy。 Source: 醫(六)第3冊復健_甲、神經復健(神內) Page 13-50.
+- ...Venous thrombosis or embolism | | Acute respiratory distress syndrome | Anesthesia-related complications | | Abdominal compartment syndrome | Death | | Unplanned hysterectomy | Asherman's syndrome (related to D&C) | Source: 醫(六)第1冊婦產_第一篇、產科_丙、產後時期(Post-Partum Period) Page 125-138.
+- D. 腔室症候群 (Compartment syndrome) 174 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- #### D. 腔室症候群 (Compartment syndrome) Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- (1) 移除造成腔室症候群的外因(例如移除過緊的石膏、修補受損的血管等等)。 Source: 醫(五)第6冊骨科_壬、內科性骨疾病及其他 Page 175-190.
+- (D) 2. 下列有關足跟骨的描述,何者錯誤? - (A) 跟骨骨折約有 10% 病患合併腰椎骨折 - (B) 跟骨骨折約有 10% 病患產生足跟部腔室症候群,結果造成 fixed clawing of the toes - (C) 依 Essex-Lopresti classification, 跟骨骨折可分為 Tongue type 及 Joint depression type - (D) 正常跟骨 Böhler's angle 小於 20 度 Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
+- (D) 1. 一位 40 歲病人在打羽毛球時,因為救球過猛,造成左小腿「腿 99(二)專肚」疼痛,走路跛腳,沒辦法踮腳將左腳跟提起,湯普森檢查 醫五-60 (Thompson test) 陽性反應,請問這個病人最有可能的診斷與 敘述,下列何者最為適當? - (A) 可能是後脛肌腱斷裂 (posterior tibial tendon rupture ) - (B) 可能是腔室症候群(compartment syndrome) - (C) 可能是脛骨的疲勞性骨折 (fatigue fracture) - (D) 可能是阿基里斯韌帶(Achilles tendon) 斷裂 Source: 醫(五)第6冊骨科_甲、足踝關節 Page 15-24.
+- (D) 持續評估是否有肌腔室症候群(compartment syndrome),避免嚴重併發症 Source: 醫(五)第6冊骨科_乙、膝關節 Page 25-36.
+- 4. Tibial fracture 除非是 linear frature 或是 non-displaced fracture,不然通常需要開刀處理。以下的狀況則需**緊急手術**: - (1) 開放性骨折。 - (2) 合併神經血管的受損。 - (3) 懷疑 acute compartment syndrome: 具有 5P, 疼痛(pain), 皮膚變白(pallor), 麻木(paresthesia), 麻痺(paralysis), 無脈搏(pulselessness)。 - (4) 合併膝蓋或踝關節的脫位。 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- (3) 併發症:最常見的是 compartment syndrome, 其他包括感染、malunion 及 non-union。 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- (C) 可能造成急性肌腔室症候群 (acute compartment syndrome), 需密切觀察肌腔室壓力 (compartment pressure) 及周邊循環 情形是否良好 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- (2) Volkmann ischemic contracture:若血管的傷害持續一至兩天,就很有可能造成 compartment syndrome;如果又沒有及時治療,持續的缺血、梗塞會造成 Volkmann's ischemic contracture,即 fixed flexion of the elbow, pronation of the forearm, flexion at the wrist。 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
 
 ## Clinical Caveats
 

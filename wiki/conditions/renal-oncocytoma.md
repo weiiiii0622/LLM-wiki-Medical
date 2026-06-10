@@ -31,11 +31,11 @@ tags:
 
 ## Key Details From Sources
 
-- 5. 瘤細胞瘤 (Oncocytoma): 罕見。 Source: [[sources/med6-book4-ch14|丁、頭頸科]].
-- ...所引起,其中約一半是良性、一半是惡性。 - (1) 良性淚腺腫瘤:包括多形性腺瘤(pleomorphic adenoma;又稱良性混合細胞瘤)、良性反應性淋巴增生(benign reactive lymphoid hyperplasia)、嗜酸細胞瘤(oncocytoma)等,這些腫瘤一般發生於四十到五十歲的患者,大都生長緩慢。 - (2) 惡性淚腺腫瘤:包括腺樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50% Source: [[sources/med6-book2-ch03|丙、淚液系統及乾眼]].
-- (1) 腎臟實質腫瘤 (renal parenchymal neoplasm): - a. 良性腫瘤 (benign): - (a) 嗜酸細胞瘤 (oncocytoma) (占所有腎腫瘤 4%)。 - (b) 血管肌肉脂肪瘤(angiomyolipoma, AML)=畸形瘤(hamartoma)。 - b. 惡性腫瘤 (malignant): - (a) 腎細胞癌 (RCC): 85%。 - (b) 轉移癌 (secondary tumor): 15%。 - (c) 兒童 Wilms' tumor。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- (1) 嗜酸細胞瘤 (oncocytoma): - a. 病理:棕色病灶,由大量嗜酸性顆粒上皮細胞構成。細胞表現變化大,從良性到惡性侵犯淋巴系統都有。診斷靠病理診斷,取得檢體的方式是腎切除,細針抽吸較難診斷。 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
-- ...,在電腦斷層檢查中發現其中有 Hounsfield unit 負 20 至 | 99(一)專 | | 負 80 (-20 to -80) 密度的成分,其最可能的診斷為: | 醫五-64 | | (A) angiomyolipoma (B) oncocytoma | | | (C) renal cell carcinoma (D) leiomyosarcoma | | | (C) 34. 一位 55 歲女性兩天前開始左側腰痛,今天全身寒戰(chills)並 | 99(一)專 | | 發燒到 39℃來急診就診,左側腰部有明顯敲擊痛。醫生為其安 | 醫五-65 | | 排靜脈尿路造影(intravenous pyelography, IVP),結果發現在其 | | | 左側腎盂有積水,顯影劑的排泄 Source: [[sources/med5-book5-ch01|甲、腎臟疾病]].
+- 5. 瘤細胞瘤 (Oncocytoma): 罕見。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_丁、頭頸科 Page 231-254.
+- ...所引起,其中約一半是良性、一半是惡性。 - (1) 良性淚腺腫瘤:包括多形性腺瘤(pleomorphic adenoma;又稱良性混合細胞瘤)、良性反應性淋巴增生(benign reactive lymphoid hyperplasia)、嗜酸細胞瘤(oncocytoma)等,這些腫瘤一般發生於四十到五十歲的患者,大都生長緩慢。 - (2) 惡性淚腺腫瘤:包括腺樣囊狀癌 (adenoid cystic carcinoma)、腺癌 (adenocarcinoma)、鱗狀細胞癌 (squamous cell carcinoma)、黏液表皮樣癌 (mucoepidermoid carcinoma)、惡性淋巴瘤 (malignant lymphoma)等。其中以腺樣囊狀癌最多 (佔 50% Source: 醫(六)第2冊眼科_第一篇、眼科_丙、淚液系統及乾眼 Page 35-42.
+- (1) 腎臟實質腫瘤 (renal parenchymal neoplasm): - a. 良性腫瘤 (benign): - (a) 嗜酸細胞瘤 (oncocytoma) (占所有腎腫瘤 4%)。 - (b) 血管肌肉脂肪瘤(angiomyolipoma, AML)=畸形瘤(hamartoma)。 - b. 惡性腫瘤 (malignant): - (a) 腎細胞癌 (RCC): 85%。 - (b) 轉移癌 (secondary tumor): 15%。 - (c) 兒童 Wilms' tumor。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- (1) 嗜酸細胞瘤 (oncocytoma): - a. 病理:棕色病灶,由大量嗜酸性顆粒上皮細胞構成。細胞表現變化大,從良性到惡性侵犯淋巴系統都有。診斷靠病理診斷,取得檢體的方式是腎切除,細針抽吸較難診斷。 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
+- ...,在電腦斷層檢查中發現其中有 Hounsfield unit 負 20 至 | 99(一)專 | | 負 80 (-20 to -80) 密度的成分,其最可能的診斷為: | 醫五-64 | | (A) angiomyolipoma (B) oncocytoma | | | (C) renal cell carcinoma (D) leiomyosarcoma | | | (C) 34. 一位 55 歲女性兩天前開始左側腰痛,今天全身寒戰(chills)並 | 99(一)專 | | 發燒到 39℃來急診就診,左側腰部有明顯敲擊痛。醫生為其安 | 醫五-65 | | 排靜脈尿路造影(intravenous pyelography, IVP),結果發現在其 | | | 左側腎盂有積水,顯影劑的排泄 Source: 醫(五)第5冊泌尿_甲、腎臟疾病 Page 13-44.
 
 ## Clinical Caveats
 

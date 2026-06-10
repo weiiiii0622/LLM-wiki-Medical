@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (3) 結膜反應:結膜充血、結膜下出血、水腫、疤痕。 Source: [[sources/med6-book2-ch04|丁、結 膜]].
+- (3) 結膜反應:結膜充血、結膜下出血、水腫、疤痕。 Source: 醫(六)第2冊眼科_第一篇、眼科_丁、結膜 Page 43-52.
 
 ## Clinical Caveats
 

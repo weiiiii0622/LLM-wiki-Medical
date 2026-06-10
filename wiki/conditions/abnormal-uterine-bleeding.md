@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- (C) 28 歲女性,有經血過多(menorrhagia)及一顆 4 公分的黏 膜下肌瘤(submucosal myoma) Source: [[sources/med6-book1-ch08|丙、一般婦科學(General Gynecology)]].
+- (C) 28 歲女性,有經血過多(menorrhagia)及一顆 4 公分的黏 膜下肌瘤(submucosal myoma) Source: 醫(六)第1冊婦產_第二篇、婦科_丙、一般婦科學(General Gynecology) Page 267-312.
 
 ## Clinical Caveats
 

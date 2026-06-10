@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- D. 副甲狀腺癌(Parathyroid carcinoma) 222 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- 1. 原發性(Primary HPT): PTH ↑=> Ca ↑,來自副甲狀腺本身的不正常增生 - (1) Single parathyroid adenoma (85%) • - (2) Diffuse parathyroid hyperplasia (10%) • - (3) Parathyroid carcinoma (1%) • Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
-- ...下列何者是此患 者最可能的診斷? (A) Primary hyperparathyroidism (B) Secondary hyperparathyroidism (C) Tertiary hyperparathyroidism (D) Parathyroid carcinoma (D) 14. 承上題,患者接受副甲狀腺切除手術。下列術前抽血檢查項目 99(二)專 中,何者最能預測術後併發低血鈣血症? 醫五-59 (A) 鈣離子 (calcium ion) 濃度 (B) 磷酸根離子 (phosphate ion) 濃度 (C) 鎂離子 (magnesium ion) 濃度 (D) 鹼性磷酸酶 (alkaline phosphatase, ALP) 濃度 【詳解】副甲狀腺術後低血鈣多為暫時性,但也有少數病患因 骨 Source: [[sources/med5-book2-ch21|乙、副甲狀腺]].
+- D. 副甲狀腺癌(Parathyroid carcinoma) 222 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
+- 1. 原發性(Primary HPT): PTH ↑=> Ca ↑,來自副甲狀腺本身的不正常增生 - (1) Single parathyroid adenoma (85%) • - (2) Diffuse parathyroid hyperplasia (10%) • - (3) Parathyroid carcinoma (1%) • Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
+- ...下列何者是此患 者最可能的診斷? (A) Primary hyperparathyroidism (B) Secondary hyperparathyroidism (C) Tertiary hyperparathyroidism (D) Parathyroid carcinoma (D) 14. 承上題,患者接受副甲狀腺切除手術。下列術前抽血檢查項目 99(二)專 中,何者最能預測術後併發低血鈣血症? 醫五-59 (A) 鈣離子 (calcium ion) 濃度 (B) 磷酸根離子 (phosphate ion) 濃度 (C) 鎂離子 (magnesium ion) 濃度 (D) 鹼性磷酸酶 (alkaline phosphatase, ALP) 濃度 【詳解】副甲狀腺術後低血鈣多為暫時性,但也有少數病患因 骨 Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第三篇、內分泌外科_乙、副甲狀腺 Page 233-240.
 
 ## Clinical Caveats
 

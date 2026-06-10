@@ -37,16 +37,16 @@ tags:
 
 ## Key Details From Sources
 
-- · ST elevation > 1.0mm in leads without diagnostic Q waves (other than V1 or aVR) Source: [[sources/med6-book3-ch05|戊、心肺復健]].
-- CLASS I recommendation for emergency CABG in STEMI: Source: [[sources/med5-book2-ch03|丙、冠狀動脈疾病及冠狀動脈繞道手術]].
-- ...(+) | | | | (僅心內膜 Subendocardial) | EKG: ST Depression, TWI | | | | 管腔完全堵塞一段時間 | Pain not relieve by NTG (>30min) | | | STEMI | 造成心肌壞死(全層心肌 | Enzyme (+) | | | | 皆受影響 Transmural) | EKG: ST elevation | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- \*STD 指 ST segment depression, STE 指 ST segment elevation, TWI 指 T wave inversion Source: [[sources/med3-book1-ch02|丙、缺血性心臟病]].
-- ...| | | 降> 10mmHg | pulse) | | CVP | | CVP: Prominent x, no y descents | CVP: Prominent x & y descents | | EKG | Diffuse STE, PRD | Low voltage, Electrical alternans | | Source: [[sources/med3-book1-ch11|辛、心包疾病]].
-- 【詳解】Diffuse ST elevation 須考慮急性心包膜炎。 Source: [[sources/med3-book1-ch11|辛、心包疾病]].
-- 【詳解】吸氣時胸痛加劇,坐起來身體前傾時胸痛皆是心包膜炎的表現,ECG 可見 diffuse ST elevation。 Source: [[sources/med3-book1-ch11|辛、心包疾病]].
-- (B) ST 段上升型心肌梗塞(STEMI) Source: [[sources/med3-book1-ch22|甲、胸腔科基本知識]].
-- (A) Non-ST elevation 之急性心肌梗塞 Source: [[sources/med3-book1-ch09|甲、高血壓、大動脈疾病]].
+- · ST elevation > 1.0mm in leads without diagnostic Q waves (other than V1 or aVR) Source: 醫(六)第3冊復健_戊、心肺復健 Page 133-154.
+- CLASS I recommendation for emergency CABG in STEMI: Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第一篇、心臟血管外科_丙、冠狀動脈疾病及冠狀動脈繞道手術 Page 39-54.
+- ...(+) | | | | (僅心內膜 Subendocardial) | EKG: ST Depression, TWI | | | | 管腔完全堵塞一段時間 | Pain not relieve by NTG (>30min) | | | STEMI | 造成心肌壞死(全層心肌 | Enzyme (+) | | | | 皆受影響 Transmural) | EKG: ST elevation | Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- b. 血管保護 (Vasculoprotective): 可減少 Stable angina 病患死亡率 - (a) Aspirin、Clopidogrel: Aspirin 應長期服用;若病患施行 PCI,有置放塗藥支架,Clopidogrel 應於 PCI 後與 ASA 併用 1 年,如置放普通支架,Clopidogrel 於 PCI 後只需與 ASA 併用 1 個月。 - (b) Statin:目標是LDL 30 分鐘 | | | 缺血時心電圖 | STD 或 TWI (T 波倒置) | | STE | | | 梗塞時心電圖 | Non Q wave MI | | Q wave MI | | | 心肌酵素 | $\oplus$ | | $\oplus \oplus$ | | Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- \*STD 指 ST segment depression, STE 指 ST segment elevation, TWI 指 T wave inversion Source: 醫(三)第1冊心胸內_第一篇、心臟內科_丙、缺血性心臟病 Page 59-92.
+- ...| | | 降> 10mmHg | pulse) | | CVP | | CVP: Prominent x, no y descents | CVP: Prominent x & y descents | | EKG | Diffuse STE, PRD | Low voltage, Electrical alternans | | Source: 醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病 Page 193-202.
+- 【詳解】Diffuse ST elevation 須考慮急性心包膜炎。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病 Page 193-202.
+- 【詳解】吸氣時胸痛加劇,坐起來身體前傾時胸痛皆是心包膜炎的表現,ECG 可見 diffuse ST elevation。 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_辛、心包疾病 Page 193-202.
+- (B) ST 段上升型心肌梗塞(STEMI) Source: 醫(三)第1冊心胸內_第二篇、胸腔內科_甲、胸腔科基本知識 Page 231-258.
+- (A) Non-ST elevation 之急性心肌梗塞 Source: 醫(三)第1冊心胸內_第一篇、心臟內科_甲、高血壓、大動脈疾病 Page 19-44.
 
 ## Clinical Caveats
 

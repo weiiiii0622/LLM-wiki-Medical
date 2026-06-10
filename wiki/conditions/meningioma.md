@@ -31,13 +31,13 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 簡介:顯性遺傳疾病,其病灶可以侵犯皮膚、神經、骨骼、及腸胃道等,並且數目及大小會隨著年齡增加。可分為兩型:第一型較常見,又稱 von Recklinghausen disease,具有較明顯的皮膚病灶,也比較容易發生視神經膠質瘤,但預後較佳;第二型比較不會產生皮膚的病灶,但會發生聽神經瘤、腦膜瘤及其他中樞神經瘤,一般預後較差。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- 2. 硬膜內脊髓外腫瘤(intradural extramedullary spinal cord tumor):40% - (1) 腦膜瘤 (meningioma): - a. 好發於年老人,女性多於男性。 - b. 常長於胸椎。 - c. 由於生長緩慢,故在臨床症狀出現之前,脊髓已經被壓迫扁平到某種程度了。 - d. 影像檢查: MRI 或 CT 脊髓攝影。 - e. 手術切除,預後好。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- (3) 神經纖維瘤 (neurofibroma): 發生機率低於腦膜瘤和神經鞘瘤,好發於頸椎。 Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- ...ımor 的種類? 109( - ) 專 | |-----|---------------------------------------------------------|----------------------| | | (A) meningioma | 醫五 -10 | | | (B) schwannoma | | | | (C) neurofibroma | | | | (D) anaplastic astrocytoma | | | (C) | ) 4. 下列關於 intramedullary spinal cord tumor 的敘述,f | 可者錯誤? 109( - ) 專 | | | (A) intramedullary spinal cord tumor 約占所有 s Source: [[sources/med5-book1-ch17|辛、脊椎疾病]].
-- K. 腦膜瘤(Meningiomas) 210 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 3. 腦膜瘤(tumor of the meninges): - (1) 腦膜瘤 (meningioma)。 - (2) Meningeal sarcoma · primary meningeal melanoma · Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ## K. 腦膜瘤 (Meningiomas) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- (1) 簡介:顯性遺傳疾病,其病灶可以侵犯皮膚、神經、骨骼、及腸胃道等,並且數目及大小會隨著年齡增加。可分為兩型:第一型較常見,又稱 von Recklinghausen disease,具有較明顯的皮膚病灶,也比較容易發生視神經膠質瘤,但預後較佳;第二型比較不會產生皮膚的病灶,但會發生聽神經瘤、腦膜瘤及其他中樞神經瘤,一般預後較差。 Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- 2. 硬膜內脊髓外腫瘤(intradural extramedullary spinal cord tumor):40% - (1) 腦膜瘤 (meningioma): - a. 好發於年老人,女性多於男性。 - b. 常長於胸椎。 - c. 由於生長緩慢,故在臨床症狀出現之前,脊髓已經被壓迫扁平到某種程度了。 - d. 影像檢查: MRI 或 CT 脊髓攝影。 - e. 手術切除,預後好。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- (3) 神經纖維瘤 (neurofibroma): 發生機率低於腦膜瘤和神經鞘瘤,好發於頸椎。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- ...ımor 的種類? 109( - ) 專 | |-----|---------------------------------------------------------|----------------------| | | (A) meningioma | 醫五 -10 | | | (B) schwannoma | | | | (C) neurofibroma | | | | (D) anaplastic astrocytoma | | | (C) | ) 4. 下列關於 intramedullary spinal cord tumor 的敘述,f | 可者錯誤? 109( - ) 專 | | | (A) intramedullary spinal cord tumor 約占所有 s Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_辛、脊椎疾病 Page 183-216.
+- K. 腦膜瘤(Meningiomas) 210 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- 3. 腦膜瘤(tumor of the meninges): - (1) 腦膜瘤 (meningioma)。 - (2) Meningeal sarcoma · primary meningeal melanoma · Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- ## K. 腦膜瘤 (Meningiomas) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
 
 ## Clinical Caveats
 

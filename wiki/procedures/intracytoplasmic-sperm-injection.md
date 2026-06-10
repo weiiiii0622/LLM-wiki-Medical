@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (7) 體外受精:取卵後 5~6 小時,精液亦處理完成,此時將處理後的精液加在卵子的周圍,待 18~20 個小時後觀察卵子的受精情形。 - ※卵質內單一精蟲注入術(intracytoplasmic sperm injection, ICSI):在男性不孕個案,顯微鏡下以極細吸管將單隻精蟲取出,穿透過卵殼並進入卵細胞質中,放出精蟲,達成強迫受精的目的,明顯提高男性不孕患者的受精率和懷孕率。 在其他不孕原因的個案,ICSI 和 IVF 的受精率和懷孕率相當。 Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- (C) 卵細胞質內精蟲注射 (intracytoplasmic sperm injection) Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
-- ...因 | 處 置 | | |---------------------------|----------------------------------------|--| | Primary hypogonadism | • TESE + ICSI | | | (Klinefelter's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 / 腦垂體問題 | ・使用 g Source: [[sources/med6-book1-ch11|乙、不孕症(Infertility)]].
+- (7) 體外受精:取卵後 5~6 小時,精液亦處理完成,此時將處理後的精液加在卵子的周圍,待 18~20 個小時後觀察卵子的受精情形。 - ※卵質內單一精蟲注入術(intracytoplasmic sperm injection, ICSI):在男性不孕個案,顯微鏡下以極細吸管將單隻精蟲取出,穿透過卵殼並進入卵細胞質中,放出精蟲,達成強迫受精的目的,明顯提高男性不孕患者的受精率和懷孕率。 在其他不孕原因的個案,ICSI 和 IVF 的受精率和懷孕率相當。 Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- (C) 卵細胞質內精蟲注射 (intracytoplasmic sperm injection) Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
+- ...因 | 處 置 | | |---------------------------|----------------------------------------|--| | Primary hypogonadism | • TESE + ICSI | | | (Klinefelter's syndrome \ | ・接受精子捐贈 | | | Y chromosome deletions 等) | | | | Hyperprolactinemia | ・停止誘發藥物(如:抗精神藥物) | | | | ・腦垂體腺瘤使用 dopamine agonist,如 | | | | Bromocriptine · Cabergoline | | | 其他下視丘 / 腦垂體問題 | ・使用 g Source: 醫(六)第1冊婦產_第三篇、生殖內分泌_乙、不孕症(Infertility) Page 375-419.
 
 ## Clinical Caveats
 

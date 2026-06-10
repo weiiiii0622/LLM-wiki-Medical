@@ -27,7 +27,7 @@ Dantrolene 抑制 skeletal muscle sarcoplasmic reticulum calcium release，是 m
 
 ## Key Details From Sources
 
-- 2. 特效藥物:dantrolene 劑量為 2.5 mg/kg,可重覆給予至最大劑量 10 mg/kg。 Source: [[sources/med6-book4-ch10|癸、術中維持與併發症處理]].
+- 2. 特效藥物:dantrolene 劑量為 2.5 mg/kg,可重覆給予至最大劑量 10 mg/kg。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_癸、術中維持與併發症處理 Page 111-132.
 
 ## Clinical Caveats
 

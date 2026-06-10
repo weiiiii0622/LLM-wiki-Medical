@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: [[sources/med6-book2-ch16|辰、神經眼科學]].
-- Q. 大腦假性腫瘤 (Pseudotumor cerebri) 216 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- ## Q. 大腦假性腫瘤 (Pseudotumor cerebri) Source: [[sources/med5-book1-ch18|壬、腦瘤]].
-- 1. 又稱原發性高腦壓症 (idiopathic intracranial hypertension), 好發年輕、肥胖、女性。 Source: [[sources/med5-book1-ch18|壬、腦瘤]].
+- 5. 偽腦瘤 (pseudotumor cerebri): - (1) 簡介:又稱原發性高腦壓症(idiopathic intracranial hypertension),主要發生在 年輕女性、肥胖、過度服用藥物(維生素 A、四環黴素、避孕藥等)。 - (2) 臨床症狀:姿勢改變而誘發的短暫視力喪失,另有頭痛、複視、耳鳴、頭暈、 噁心、嘔吐等。 - (3) 徵候: 視神經盤水腫,外展神經痲痹。 - (4) 診斷:腦壓增高、視野生理盲點變大,但腦組織結構正常、腦脊髓液組成正常。 - (5) 治療:利尿劑藥物治療;若仍無法適當控制腦壓時,需考慮施行外科腦脊髓液 分流手術。 Source: 醫(六)第2冊眼科_第一篇、眼科_辰、神經眼科學 Page 199-210.
+- Q. 大腦假性腫瘤 (Pseudotumor cerebri) 216 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- ## Q. 大腦假性腫瘤 (Pseudotumor cerebri) Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
+- 1. 又稱原發性高腦壓症 (idiopathic intracranial hypertension), 好發年輕、肥胖、女性。 Source: 醫(五)第1冊外概腦外_第三篇、腦神經外科_壬、腦瘤 Page 217-238.
 
 ## Clinical Caveats
 

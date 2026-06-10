@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病.md
+raw_source_title: "醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病"
+raw_source_file: "raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病.md"
+page_start: 133
+page_end: 140
+canonical_citation: "醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病 Page 133-140"
 book: 醫(三)第3冊腎內感染
 chapter_order: 8
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(三)第3冊腎內感染
 - Chapter file: `raw/books/md/醫(三)第3冊腎內感染/醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病.md`
+- Pages covered: 133-140
+- Canonical citation: 醫(三)第3冊腎內感染_第一篇、腎臟內科_辛、多囊性腎病 Page 133-140
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

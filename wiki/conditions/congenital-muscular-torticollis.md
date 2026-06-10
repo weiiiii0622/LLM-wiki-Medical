@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- A. 小兒斜頸(Torticollis) 146 Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- #### A. 小兒斜頸 (Torticollis) Source: [[sources/med6-book3-ch06|己、小兒復健]].
-- E. 斜頸症(Torticollis) 131 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- ### E. 斜頸症 (Torticollis) Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
-- (1) 主動復健運動增加活動範圍:每天 4 次至少持續 2~3 個月,通常頸部硬塊會先消失在完全矯正斜頸症前。如持續無改善或惡化則改採手術。 Source: [[sources/med5-book4-ch09|乙、頸部腫塊]].
+- A. 小兒斜頸(Torticollis) 146 Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- #### A. 小兒斜頸 (Torticollis) Source: 醫(六)第3冊復健_己、小兒復健 Page 155-178.
+- E. 斜頸症(Torticollis) 131 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
+- ### E. 斜頸症 (Torticollis) Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
+- (1) 主動復健運動增加活動範圍:每天 4 次至少持續 2~3 個月,通常頸部硬塊會先消失在完全矯正斜頸症前。如持續無改善或惡化則改採手術。 Source: 醫(五)第4冊胸外小兒外_第二篇、小兒外科_乙、頸部腫塊 Page 143-148.
 
 ## Clinical Caveats
 

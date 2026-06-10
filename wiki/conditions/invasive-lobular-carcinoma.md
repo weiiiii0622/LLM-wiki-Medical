@@ -29,8 +29,8 @@ tags:
 
 ## Key Details From Sources
 
-- (1) 分類:臨床上以組織學分類可分為五類 - a. 浸潤性乳腺管癌(infiltrating ductal cancer):是最常見的乳癌,佔75~80%。 - b. 浸潤性小葉癌 (infiltrating lobular cancer): 6~8%。 - c. 其他類型: - (a) 髓樣癌 (medullary cancer): 5~8%。 - (b) 黏液性癌 (mucinous cancer): 2~4%。 - (c) 管狀癌 (tubular cancer): 1~2%。 Source: [[sources/med5-book3-ch24|丁、乳癌]].
-- (D) 乳房磁振照影檢查則對乳房緻密的年輕患者評估病灶,如侵襲性小葉癌(invasive lobular carcinoma)的範圍很有助益 Source: [[sources/med5-book3-ch23|丙、乳房檢查篩檢]].
+- (1) 分類:臨床上以組織學分類可分為五類 - a. 浸潤性乳腺管癌(infiltrating ductal cancer):是最常見的乳癌,佔75~80%。 - b. 浸潤性小葉癌 (infiltrating lobular cancer): 6~8%。 - c. 其他類型: - (a) 髓樣癌 (medullary cancer): 5~8%。 - (b) 黏液性癌 (mucinous cancer): 2~4%。 - (c) 管狀癌 (tubular cancer): 1~2%。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丁、乳癌 Page 243-270.
+- (D) 乳房磁振照影檢查則對乳房緻密的年輕患者評估病灶,如侵襲性小葉癌(invasive lobular carcinoma)的範圍很有助益 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第六篇、乳房外科序_丙、乳房檢查篩檢 Page 229-242.
 
 ## Clinical Caveats
 

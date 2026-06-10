@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-08
 updated: 2026-06-08
 source_file: raw/books/md/醫(四)第1冊小兒/醫(四)第1冊小兒_甲、心臟肺部血管系統.md
+raw_source_title: "醫(四)第1冊小兒_甲、心臟肺部血管系統"
+raw_source_file: "raw/books/md/醫(四)第1冊小兒/醫(四)第1冊小兒_甲、心臟肺部血管系統.md"
+page_start: 13
+page_end: 62
+canonical_citation: "醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62"
 book: 醫(四)第1冊小兒
 chapter_order: 1
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(四)第1冊小兒
 - Chapter file: `raw/books/md/醫(四)第1冊小兒/醫(四)第1冊小兒_甲、心臟肺部血管系統.md`
+- Pages covered: 13-62
+- Canonical citation: 醫(四)第1冊小兒_甲、心臟肺部血管系統 Page 13-62
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- ...e) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- #### E. 白質失養症 (Leukodystrophy) Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
-- 2. 民國 94 年曾報導高雄市張氏三兄弟罹患「腎上腺白質退化症」(adrenoleuko-dystrophy, ALD),即屬於白質失養症(leukodystrophy)的一類,與長鏈脂肪酸(very long chain fatty acid, VLCFA)無法代謝有關,非常長鏈脂肪酸過多,堆積在身體各處器官,尤其是大腦白質(髓鞘)和腎上腺皮質,所以導致腎上腺機能與神經傳導功能喪失。 Source: [[sources/med4-book4-ch07|庚、脊髓、周邊神經病變]].
+- ...e) 157 - C. Charcot-Marie-Tooth disease (CMT) 158 - D. 進行性多灶性白質腦病 (Progressive multifocal leukoencephalopathy) 158 - E. 白質失養症 (Leukodystrophy) 159 - F. 急性壞死性出血性腦脊髓炎(Acute necrotizing hemorrhagic encephalomyelitis) *159* - G. 急性瀰散型腦脊髓炎(acute disseminated encephalomyelitis, ADEM) *159* - H: 急性發炎性脱髓鞘型多發神經病變 (AIDP) 165 - I. 慢性發炎性脱髓鞘型多發神經病變 (CIDP) Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- #### E. 白質失養症 (Leukodystrophy) Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
+- 2. 民國 94 年曾報導高雄市張氏三兄弟罹患「腎上腺白質退化症」(adrenoleuko-dystrophy, ALD),即屬於白質失養症(leukodystrophy)的一類,與長鏈脂肪酸(very long chain fatty acid, VLCFA)無法代謝有關,非常長鏈脂肪酸過多,堆積在身體各處器官,尤其是大腦白質(髓鞘)和腎上腺皮質,所以導致腎上腺機能與神經傳導功能喪失。 Source: 醫(四)第4冊神內_庚、脊髓、周邊神經病變 Page 159-182.
 
 ## Clinical Caveats
 

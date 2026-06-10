@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...C gene | | | (B) MMR (mismatch-repair) gene mutations | | | (C) p53 mutation | | | (D) RAS mutation | | | (A) 16. 有關肛門的 Bowen 氏病(Bowen's disease)之敘述,下列何者 | 首 102(二)專 | | 錯誤? | 醫五-53 | | (A) 它是一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | Source: [[sources/med5-book2-ch16|辛、結腸直腸癌]].
-- L. 波文氏症(Bowen's disease) 153 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 4. 光化性角化症可分為數種亞型(委縮型、增厚型、色素擴散型、增生型、苔癬型及類波文氏型),其病理特徵為局部角質化不全(parakeratosis)或角質化不良(dyskeratosis),併有顆粒層喪失、非典型角質細胞(atypical keratinocytes)增生,但不像 Bowen's disease 是整層 epidermis 都有 atypia 的情形。Atypical 的情形是指細胞大小形狀不一(pleomorphism),nuclear hyperchromatism,increased mitosis。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
-- 【詳解】此題於 101 年也考過,從左圖外觀來判斷,脂漏性角化症病灶像黑色蠟塊,盤狀紅斑性狼瘡為邊界明顯的紅色斑塊伴有厚屑,剩日光性角化症和基底細胞癌為可能診斷。右圖可見 atypical keratinocytes,局限於表皮層下 1/3,非全層 atypia(如 Bowen's disease),故推判為 (A) 光化性角化病(actinic keratosis)。 Source: [[sources/med4-book2-ch09|壬、皮膚腫瘤/皮膚增生]].
+- ...C gene | | | (B) MMR (mismatch-repair) gene mutations | | | (C) p53 mutation | | | (D) RAS mutation | | | (A) 16. 有關肛門的 Bowen 氏病(Bowen's disease)之敘述,下列何者 | 首 102(二)專 | | 錯誤? | 醫五-53 | | (A) 它是一種很少轉移的原位腺癌 | | | (B) 大多數病人的症狀輕微或無任何症狀 | | | (C) 局部的廣泛性切除常可達到治癒的效果 | | | (D) 手術中的冷凍切片對切除範圍的決定有幫忙 | | | 【詳解】(A)為原位上皮細胞癌 (squamous cell carcinoma in | n | Source: 醫(五)第2冊心外大腸長直腸外內分泌外整外_第二篇、大腸直腸外科_辛、結腸直腸癌 Page 169-188.
+- L. 波文氏症(Bowen's disease) 153 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- 4. 光化性角化症可分為數種亞型(委縮型、增厚型、色素擴散型、增生型、苔癬型及類波文氏型),其病理特徵為局部角質化不全(parakeratosis)或角質化不良(dyskeratosis),併有顆粒層喪失、非典型角質細胞(atypical keratinocytes)增生,但不像 Bowen's disease 是整層 epidermis 都有 atypia 的情形。Atypical 的情形是指細胞大小形狀不一(pleomorphism),nuclear hyperchromatism,increased mitosis。 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
+- 【詳解】此題於 101 年也考過,從左圖外觀來判斷,脂漏性角化症病灶像黑色蠟塊,盤狀紅斑性狼瘡為邊界明顯的紅色斑塊伴有厚屑,剩日光性角化症和基底細胞癌為可能診斷。右圖可見 atypical keratinocytes,局限於表皮層下 1/3,非全層 atypia(如 Bowen's disease),故推判為 (A) 光化性角化病(actinic keratosis)。 Source: 醫(四)第2冊皮膚_壬、皮膚腫瘤／皮膚增生 Page 151-178.
 
 ## Clinical Caveats
 

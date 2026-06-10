@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- #### 3. 青少年發作成年型糖尿病(maturity onset diabetes of the young, MODY): Source: [[sources/med4-book1-ch06|己、內分泌疾病]].
+- #### 3. 青少年發作成年型糖尿病(maturity onset diabetes of the young, MODY): Source: 醫(四)第1冊小兒_己、內分泌疾病 Page 285-320.
 
 ## Clinical Caveats
 

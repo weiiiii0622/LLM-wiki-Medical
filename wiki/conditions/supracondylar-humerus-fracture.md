@@ -29,11 +29,11 @@ tags:
 
 ## Key Details From Sources
 
-- E. 肱骨上髁骨折 (Supracondylar fracture) 79 Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- (A) 前骨間神經 (anterior interosseous nerve) Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- #### E. 肱骨上髁骨折 (Supracondylar fracture) Source: [[sources/med5-book6-ch05|戊、上臂與前臂]].
-- (A) 肱骨髁上骨折 (humeral supracondylar fracture) Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
-- 【詳解】兒童肘內翻變形最常見的原因是因為 supracondylar fracture of humerus 後 non-union 造成。 Source: [[sources/med5-book6-ch08|辛、小兒骨科]].
+- E. 肱骨上髁骨折 (Supracondylar fracture) 79 Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- (A) 前骨間神經 (anterior interosseous nerve) Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- #### E. 肱骨上髁骨折 (Supracondylar fracture) Source: 醫(五)第6冊骨科_戊、上臂與前臂 Page 75-104.
+- (A) 肱骨髁上骨折 (humeral supracondylar fracture) Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
+- 【詳解】兒童肘內翻變形最常見的原因是因為 supracondylar fracture of humerus 後 non-union 造成。 Source: 醫(五)第6冊骨科_辛、小兒骨科 Page 153-174.
 
 ## Clinical Caveats
 

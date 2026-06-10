@@ -27,9 +27,9 @@ urease-producing bacteria 使尿液鹼化形成 magnesium ammonium phosphate sto
 
 ## Key Details From Sources
 
-- ...ureterovesicular junction, UVJ)。 - ii. 所產生的差異: - (i) 腎盞 (renal calyx) 或腎盂 (renal pelvis) 結石:疼痛差異大,從 尖銳劇痛到悶悶的不適都可能(例如未堵住的磷酸胺鎂結石,表 現是反覆的 UTI),常會引起噁心嘔吐。疼痛會輻射到上腹部。 - (ii) 上段及中段輸尿管(upper and mid-ureter)結石:顯著劇烈且尖銳的背痛(肋脊角位置)或腰痛,也會引起噁心嘔吐。疼痛會輻射到中下腹部。 - (iii)下段輸尿管(distal ureter)結石:會造成下泌尿道症狀(頻尿、 急尿、排尿疼痛等)。疼痛會輻射到腹股溝及性器官。 Source: [[sources/med5-book5-ch05|戊、結 石]].
-- (3) 感染(infection):最常見引起感染的結石是磷酸胺鎂結石(struvite,感染性結石);其次是磷酸鈣結石。注意此處最常見的菌叢是 Proteus 不是 *E.coli*。 Source: [[sources/med5-book5-ch05|戊、結 石]].
-- (1) KUB: 依成分不同有不同顯影。 - a. 可看到(radiopaque):80%結石,含金屬離子(Ca)愈多者愈明顯。 - b. 模糊 (faintly opaque): 磷酸胺鎂 (struvite)、胱胺酸 (cystine) 結石。 - c. 看不到 (radiolucent): 尿酸 (uric acid)、黃嘌呤 (xanthine)、indinavir 結石。 Source: [[sources/med5-book5-ch05|戊、結 石]].
+- ...ureterovesicular junction, UVJ)。 - ii. 所產生的差異: - (i) 腎盞 (renal calyx) 或腎盂 (renal pelvis) 結石:疼痛差異大,從 尖銳劇痛到悶悶的不適都可能(例如未堵住的磷酸胺鎂結石,表 現是反覆的 UTI),常會引起噁心嘔吐。疼痛會輻射到上腹部。 - (ii) 上段及中段輸尿管(upper and mid-ureter)結石:顯著劇烈且尖銳的背痛(肋脊角位置)或腰痛,也會引起噁心嘔吐。疼痛會輻射到中下腹部。 - (iii)下段輸尿管(distal ureter)結石:會造成下泌尿道症狀(頻尿、 急尿、排尿疼痛等)。疼痛會輻射到腹股溝及性器官。 Source: 醫(五)第5冊泌尿_戊、結石 Page 117-132.
+- (3) 感染(infection):最常見引起感染的結石是磷酸胺鎂結石(struvite,感染性結石);其次是磷酸鈣結石。注意此處最常見的菌叢是 Proteus 不是 *E.coli*。 Source: 醫(五)第5冊泌尿_戊、結石 Page 117-132.
+- (1) KUB: 依成分不同有不同顯影。 - a. 可看到(radiopaque):80%結石,含金屬離子(Ca)愈多者愈明顯。 - b. 模糊 (faintly opaque): 磷酸胺鎂 (struvite)、胱胺酸 (cystine) 結石。 - c. 看不到 (radiolucent): 尿酸 (uric acid)、黃嘌呤 (xanthine)、indinavir 結石。 Source: 醫(五)第5冊泌尿_戊、結石 Page 117-132.
 
 ## Clinical Caveats
 

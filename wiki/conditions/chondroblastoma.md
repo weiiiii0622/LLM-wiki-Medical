@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- ...分好發在 metaphysis,下方列出 epiphysis 和 diaphysis 的腫瘤,其餘都猜 metaphysis): - (1) Epiphysis (骨端處): Good Choice → Giant cell tumor, Chondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dysplasia, Aneurysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Adm Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...---------------| | epiphysis | 長骨兩端與軟骨交接處, | Clear cell tumor | | _ | 是長骨變長的地方。 | Giant cell tumor | | | 組織型態:大部分為網狀骨 | Chondroblastoma | | | (spongy bone \ woven bone) | (軟骨為主) | | Metaphysis | Diaphysis 和 epiphysis 的過度區 | 其他 | | Diaphysis | 組織型態: 緻密骨 (compact bone) | 轉移性骨癌 | | | 構造中空,內有骨髓 | | Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- ...teoma, Osteoblastoma, Fibrous dysplasia, Osteosarcoma | | Cartilage | Exostosis (osteochondroma), enchondromaChondroma, Chondroblastoma, Chondromyxoid fibroma,Chondrosarcoma. | | Fibrous | Histiocytic fibroma, Benign fibrous histiocytoma, Desmoid fibroma, fibrosarcoma, Malignant fibrous histiocytoma (MFH). | | Others or unknown origin | Ewing's Sarcoma, Source: [[sources/med5-book6-ch07|庚、骨腫瘤]].
-- | 病名 | Chondroma | Chondroblastoma | | |---------|------------------------------|---------------------------------------------|--| | 好發年齡(歲) | 20~50 | 10~20 | | | 好發性別 | 男女相當 | 男 | | | 好發部位 | 手指 (稱為 enchondroma), | Proximal tibia 和 distal femur 最常見 | | | Source: [[sources/med5-book6-ch10|癸、骨科圖表]].
+- ...分好發在 metaphysis,下方列出 epiphysis 和 diaphysis 的腫瘤,其餘都猜 metaphysis): - (1) Epiphysis (骨端處): Good Choice → Giant cell tumor, Chondroblastoma。 - (2) Metaphysis (骨骺處): **SOFA** Chair → **S**imple bone cyst, **O**steosarcoma, **F**ibrous dysplasia, Aneurysmal bone cyst, **O**steochondroma。 - (3) Diaphysis (骨幹處): (FALLOMMEE, 諧音 fallow me): Fibrous dysplasia, Adm Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- ...---------------| | epiphysis | 長骨兩端與軟骨交接處, | Clear cell tumor | | _ | 是長骨變長的地方。 | Giant cell tumor | | | 組織型態:大部分為網狀骨 | Chondroblastoma | | | (spongy bone \ woven bone) | (軟骨為主) | | Metaphysis | Diaphysis 和 epiphysis 的過度區 | 其他 | | Diaphysis | 組織型態: 緻密骨 (compact bone) | 轉移性骨癌 | | | 構造中空,內有骨髓 | | Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- ...teoma, Osteoblastoma, Fibrous dysplasia, Osteosarcoma | | Cartilage | Exostosis (osteochondroma), enchondromaChondroma, Chondroblastoma, Chondromyxoid fibroma,Chondrosarcoma. | | Fibrous | Histiocytic fibroma, Benign fibrous histiocytoma, Desmoid fibroma, fibrosarcoma, Malignant fibrous histiocytoma (MFH). | | Others or unknown origin | Ewing's Sarcoma, Source: 醫(五)第6冊骨科_庚、骨腫瘤 Page 127-152.
+- | 病名 | Chondroma | Chondroblastoma | | |---------|------------------------------|---------------------------------------------|--| | 好發年齡(歲) | 20~50 | 10~20 | | | 好發性別 | 男女相當 | 男 | | | 好發部位 | 手指 (稱為 enchondroma), | Proximal tibia 和 distal femur 最常見 | | | Source: 醫(五)第6冊骨科_癸、骨科圖表 Page 191-200.
 
 ## Clinical Caveats
 

@@ -27,8 +27,8 @@ tags:
 
 ## Key Details From Sources
 
-- 1. 病理上可見細胞多形化(pleomorphic)與分裂(mitosis)增多,很少見類癌症候群(carcinoid syndrome),可淋巴血管轉移。 Source: [[sources/med5-book4-ch03|丙、肺]].
-- (C) 常見伴有 carcinoid syndrome Source: [[sources/med5-book4-ch03|丙、肺]].
+- 1. 病理上可見細胞多形化(pleomorphic)與分裂(mitosis)增多,很少見類癌症候群(carcinoid syndrome),可淋巴血管轉移。 Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
+- (C) 常見伴有 carcinoid syndrome Source: 醫(五)第4冊胸外小兒外_第一篇、胸腔外科_丙、肺 Page 41-78.
 
 ## Clinical Caveats
 

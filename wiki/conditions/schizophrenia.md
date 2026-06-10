@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- Ⅱ.診斷 3 - 一、依據 DSM 的診斷準則 3 - 二、其他表現症狀類似思覺失調症的精神疾病之比較 3 - 三、Eugen Bleuler 的 4As 4 - 四、Kurt Schneider 的 first rank symptoms 4 - 五、T.J. Crow 的 schizophrenia 分類 4 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- VI. 思覺失調症的治療 8 - A. 生物性的治療 8 - B. 心理、社會的治療與復健 8 Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
-- #### 三、Eugen Bleuler 的 4As Source: [[sources/med4-book3-ch01|甲、思覺失調症(舊稱為精神分裂症)]].
+- Ⅱ.診斷 3 - 一、依據 DSM 的診斷準則 3 - 二、其他表現症狀類似思覺失調症的精神疾病之比較 3 - 三、Eugen Bleuler 的 4As 4 - 四、Kurt Schneider 的 first rank symptoms 4 - 五、T.J. Crow 的 schizophrenia 分類 4 Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
+- VI. 思覺失調症的治療 8 - A. 生物性的治療 8 - B. 心理、社會的治療與復健 8 Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
+- #### 三、Eugen Bleuler 的 4As Source: 醫(四)第3冊精神科_甲、思覺失調症(舊稱為精神分裂症) Page 13-28.
 
 ## Clinical Caveats
 

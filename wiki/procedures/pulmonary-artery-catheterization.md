@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- 4. 肺動脈導管 (Pulmonary artery catheterization) / (Swan-Ganz catheter): Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- a. 利用 Swan Ganz 氣囊漂浮導管(又稱肺動脈導管)測得的指標,可以反映肺靜脈、左心房和左心室的功能狀態。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
-- b. 肺動脈導管由內頸靜脈經右心房(RA:0~8 mmHg)、右心室(RV:15~30/0 mmHg)、 肺動脈(PA:15~30/8 mmHg)得到肺微血 管契狀壓(PCWP:5~15 mmHg)。 Source: [[sources/med6-book4-ch03|丙、麻醉監測系統]].
+- 4. 肺動脈導管 (Pulmonary artery catheterization) / (Swan-Ganz catheter): Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- a. 利用 Swan Ganz 氣囊漂浮導管(又稱肺動脈導管)測得的指標,可以反映肺靜脈、左心房和左心室的功能狀態。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
+- b. 肺動脈導管由內頸靜脈經右心房(RA:0~8 mmHg)、右心室(RV:15~30/0 mmHg)、 肺動脈(PA:15~30/8 mmHg)得到肺微血 管契狀壓(PCWP:5~15 mmHg)。 Source: 醫(六)第4冊麻醉耳鼻喉_第一篇、麻醉科_丙、麻醉監測系統 Page 37-56.
 
 ## Clinical Caveats
 

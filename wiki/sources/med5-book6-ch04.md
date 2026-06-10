@@ -4,6 +4,11 @@ status: draft
 created: 2026-06-09
 updated: 2026-06-09
 source_file: raw/books/md/醫(五)第6冊骨科/醫(五)第6冊骨科_丁、骨盆與髖部.md
+raw_source_title: "醫(五)第6冊骨科_丁、骨盆與髖部"
+raw_source_file: "raw/books/md/醫(五)第6冊骨科/醫(五)第6冊骨科_丁、骨盆與髖部.md"
+page_start: 57
+page_end: 74
+canonical_citation: "醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74"
 book: 醫(五)第6冊骨科
 chapter_order: 4
 sources: []
@@ -19,6 +24,8 @@ tags:
 
 - Book: 醫(五)第6冊骨科
 - Chapter file: `raw/books/md/醫(五)第6冊骨科/醫(五)第6冊骨科_丁、骨盆與髖部.md`
+- Pages covered: 57-74
+- Canonical citation: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74
 - Ingest mode: chapter-split markdown, topic-first extraction.
 
 ## Scope and Reliability

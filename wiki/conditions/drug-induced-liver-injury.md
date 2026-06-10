@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- a. ALT = GPT ( 1,000,較常見於病毒性肝炎、藥物性肝炎、缺血等引起的肝傷害;有時只會高到幾百,較常見於膽道阻塞、脂肪肝等 infiltrative disease。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- 1. 肝指數以AST、ALT升高為主,則懷疑是肝臟的問題,如病毒性肝炎、自體免疫性肝炎、 毒藥物性肝炎、脂肪肝等。 - (1) 病毒性肝炎: - a. A 型肝炎:急性期 IgM-anti-HAV(+)、曾經得過 IgG-anti-HAV(+) 可終身免疫(很常考急性期應檢驗 IgM 非 IgG)。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- 此 case Bilirubin D/T = 48% 且 AST/ALT > 2,所以較像是酒精性 肝炎,而非藥物性肝炎。 Source: [[sources/med3-book2-ch24|甲、肝功能異常]].
-- ...atic cholestasis。理由是當敗血症等狀況使 肝臟負荷量過大時,因為 excretion 功能最耗能,所以就會最先出現問題,導致 cholestasis,而有 conjugated bilirubin 上升;另外,一些藥物引起的藥物性肝炎也 特別會使排泄膽汁的功能受損,導致 cholestasis。 Source: [[sources/med3-book2-ch19|乙、黃 疸]].
+- a. ALT = GPT ( 1,000,較常見於病毒性肝炎、藥物性肝炎、缺血等引起的肝傷害;有時只會高到幾百,較常見於膽道阻塞、脂肪肝等 infiltrative disease。 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_甲、肝功能異常 Page 85-90.
+- 1. 肝指數以AST、ALT升高為主,則懷疑是肝臟的問題,如病毒性肝炎、自體免疫性肝炎、 毒藥物性肝炎、脂肪肝等。 - (1) 病毒性肝炎: - a. A 型肝炎:急性期 IgM-anti-HAV(+)、曾經得過 IgG-anti-HAV(+) 可終身免疫(很常考急性期應檢驗 IgM 非 IgG)。 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_甲、肝功能異常 Page 85-90.
+- 此 case Bilirubin D/T = 48% 且 AST/ALT > 2,所以較像是酒精性 肝炎,而非藥物性肝炎。 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_甲、肝功能異常 Page 85-90.
+- ...atic cholestasis。理由是當敗血症等狀況使 肝臟負荷量過大時,因為 excretion 功能最耗能,所以就會最先出現問題,導致 cholestasis,而有 conjugated bilirubin 上升;另外,一些藥物引起的藥物性肝炎也 特別會使排泄膽汁的功能受損,導致 cholestasis。 Source: 醫(三)第2冊肝內新陳代謝_第二篇、肝膽內科_乙、黃疸 Page 91-99.
 
 ## Clinical Caveats
 

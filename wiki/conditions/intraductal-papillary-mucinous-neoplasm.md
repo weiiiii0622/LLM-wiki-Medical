@@ -27,9 +27,9 @@ tags:
 
 ## Key Details From Sources
 
-- (B) 1. 下列何種胰臟囊狀病灶(pancreatic cystic lesion)好發於女性? ①漿液性囊狀腺瘤(serous cystadenoma) ②胰管內乳突黏液性 腫瘤(intraductal papillary mucinous tumor) ③實體偽乳突腫瘤 (solid-pseudopapillary tumor) ④黏液性囊狀腺瘤(mucinous cystic neoplasm) ⑤假性囊腫(pseudocyst) - (A) (1)(2)(4) Source: [[sources/med5-book3-ch19|丙、良性胰腫瘤]].
-- 【詳解】IPMN沒有性別上的差異。Pancreatic pseudocyst 是 pancreatitis 之後常見的併發症,pancreatitis 為 male predominance, 因此 pseudocyst 也為 male predominance。 Source: [[sources/med5-book3-ch19|丙、良性胰腫瘤]].
-- (C) intraductal papillary mucinous tumor (IPMT) Source: [[sources/med5-book3-ch19|丙、良性胰腫瘤]].
+- (B) 1. 下列何種胰臟囊狀病灶(pancreatic cystic lesion)好發於女性? ①漿液性囊狀腺瘤(serous cystadenoma) ②胰管內乳突黏液性 腫瘤(intraductal papillary mucinous tumor) ③實體偽乳突腫瘤 (solid-pseudopapillary tumor) ④黏液性囊狀腺瘤(mucinous cystic neoplasm) ⑤假性囊腫(pseudocyst) - (A) (1)(2)(4) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丙、良性胰腫瘤 Page 195-198.
+- 【詳解】IPMN沒有性別上的差異。Pancreatic pseudocyst 是 pancreatitis 之後常見的併發症,pancreatitis 為 male predominance, 因此 pseudocyst 也為 male predominance。 Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丙、良性胰腫瘤 Page 195-198.
+- (C) intraductal papillary mucinous tumor (IPMT) Source: 醫(五)第3冊腎外小腸外肝膽胰外乳外_第五篇、胰臟外科_丙、良性胰腫瘤 Page 195-198.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ SSNHL 是短時間內發生的感音神經性聽損，常需排除 retrocochlear
 
 ## Key Details From Sources
 
-- #### B. 突發性耳聾 (Sudden Sensorineural Hearing Loss, SSNHL) Source: [[sources/med6-book4-ch11|甲、耳科]].
-- (1) 突發性耳聾 triad:在3天之內、在3個連續頻率、大於30分貝的感音性聽力障礙。 Source: [[sources/med6-book4-ch11|甲、耳科]].
-- (2) 通常在發生突發性耳聾之前,有上呼吸道感染的病史。 Source: [[sources/med6-book4-ch11|甲、耳科]].
+- #### B. 突發性耳聾 (Sudden Sensorineural Hearing Loss, SSNHL) Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- (1) 突發性耳聾 triad:在3天之內、在3個連續頻率、大於30分貝的感音性聽力障礙。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
+- (2) 通常在發生突發性耳聾之前,有上呼吸道感染的病史。 Source: 醫(六)第4冊麻醉耳鼻喉_第二篇、耳鼻喉科_甲、耳科 Page 133-184.
 
 ## Clinical Caveats
 

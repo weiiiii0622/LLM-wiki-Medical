@@ -27,7 +27,7 @@ tags:
 
 ## Key Details From Sources
 
-- 2. 戒菸藥物治療: [Ref. Fiore MC et al. Public Health Service, 2008; Nides M, Am J Med, 2008] - (1) 尼古丁替代療法 (nicotine replacement therapy, NRT) - a. 經皮貼片 (transdermal patch):非醫師處方用藥 - b. 咀嚼錠 (gum): 非醫師處方用藥 - c. 口腔吸入劑 (inhaler):非醫師處方用藥 - d. 鼻噴霧劑 (nasal spray) Source: [[sources/med3-book4-ch25|乙、行為科學]].
+- 2. 戒菸藥物治療: [Ref. Fiore MC et al. Public Health Service, 2008; Nides M, Am J Med, 2008] - (1) 尼古丁替代療法 (nicotine replacement therapy, NRT) - a. 經皮貼片 (transdermal patch):非醫師處方用藥 - b. 咀嚼錠 (gum): 非醫師處方用藥 - c. 口腔吸入劑 (inhaler):非醫師處方用藥 - d. 鼻噴霧劑 (nasal spray) Source: 醫(三)第4冊免疫血液腫瘤家醫_第四篇、家庭醫學科_乙、行為科學 Page 265-276.
 
 ## Clinical Caveats
 

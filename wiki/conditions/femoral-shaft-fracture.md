@@ -29,10 +29,10 @@ tags:
 
 ## Key Details From Sources
 
-- C. 股骨幹骨折 (Femoral shaft fracture) 31 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- #### C. 股骨幹骨折 (Femoral shaft fracture) Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (2) 股骨幹骨折有兩個好發年齡層: - a. 25 歲左右: 年輕人發生交通事故,屬高能量撞擊。 - b. 65 歲左右:骨質疏鬆老年人的跌倒,屬低能量撞擊。 Source: [[sources/med5-book6-ch03|丙、創 傷]].
-- (C) 年紀輕的患者,可能伴隨同側股骨幹骨折 Source: [[sources/med5-book6-ch04|丁、骨盆與髖部]].
+- C. 股骨幹骨折 (Femoral shaft fracture) 31 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- #### C. 股骨幹骨折 (Femoral shaft fracture) Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- (2) 股骨幹骨折有兩個好發年齡層: - a. 25 歲左右: 年輕人發生交通事故,屬高能量撞擊。 - b. 65 歲左右:骨質疏鬆老年人的跌倒,屬低能量撞擊。 Source: 醫(五)第6冊骨科_丙、創傷 Page 37-56.
+- (C) 年紀輕的患者,可能伴隨同側股骨幹骨折 Source: 醫(五)第6冊骨科_丁、骨盆與髖部 Page 57-74.
 
 ## Clinical Caveats
 

@@ -27,9 +27,9 @@ persistent depressive disorder 基礎上疊加 major depressive episode。 本�
 
 ## Key Details From Sources
 
-- III. 雙鬱症 (Double Depression) 26 Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- #### III. 雙鬱症 (Double Depression) Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
-- ...ive disorders(憂鬱性疾患) | · | | 重鬱症(major depressive disorder) | 女:10%~25%;男:5%~12% | | 輕鬱症(dysthymic disorder) | 約 6% | | 雙鬱症 (double depression) | 約有 20~25% 的重鬱症病人 | | Bipolar disorders(雙極性疾患) | | | 第一型雙極性疾患(bipolar I disorder) | 0.4%~1.6% | | 第二型雙極性疾患(bipolar II disorder) | 約 0.5% | | 循環性疾患(cyclothymic disorder) | 0.4%~1.0% | Source: [[sources/med4-book3-ch02|乙、情感性精神疾患]].
+- III. 雙鬱症 (Double Depression) 26 Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- #### III. 雙鬱症 (Double Depression) Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
+- ...ive disorders(憂鬱性疾患) | · | | 重鬱症(major depressive disorder) | 女:10%~25%;男:5%~12% | | 輕鬱症(dysthymic disorder) | 約 6% | | 雙鬱症 (double depression) | 約有 20~25% 的重鬱症病人 | | Bipolar disorders(雙極性疾患) | | | 第一型雙極性疾患(bipolar I disorder) | 0.4%~1.6% | | 第二型雙極性疾患(bipolar II disorder) | 約 0.5% | | 循環性疾患(cyclothymic disorder) | 0.4%~1.0% | Source: 醫(四)第3冊精神科_乙、情感性精神疾患 Page 29-54.
 
 ## Clinical Caveats
 
